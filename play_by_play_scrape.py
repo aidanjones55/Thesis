@@ -61,7 +61,10 @@ def get_pbp(date, home):
 
 
 #years = [2017, 2018, 2019, 2020]
-years = [2015, 2016]
+#years = [2015, 2016]
+
+years = [2020]
+
 
 for year in years:
     df = pd.read_csv(f'GameSchedules/NBA_Schedule_{year}.csv')

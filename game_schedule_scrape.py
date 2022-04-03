@@ -3,9 +3,8 @@ import requests
 import pandas as pd
 
 #years = [2017, 2018, 2019, 2020, 2021]
-years = [2015, 2016]
+#years = [2015, 2016]
 
-months = ['october', 'november', 'december', 'january', 'february', 'march', 'april']
 
 month_dict = {
         'Jan': '01',
@@ -64,6 +63,9 @@ def date_formatter(date:str):
     #print(date_split)
     return '{}-{}-{}'.format(year,month,day)
 
+years = [2017]
+#months = ['october', 'november', 'december', 'january', 'february', 'march', 'april']
+months = ['april']
 
 for year in years:
     schedule = pd.DataFrame(columns=['Date', 'Away Team', 'Home Team'])
