@@ -1,0 +1,501 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:36.0,0,0,DEN,PHO,24,away,LostBall,,,turnover,,M. Morris,
+1,1,11:21.0,2,0,DEN,PHO,15,home,LU,,2,make2,2,G. Harris,
+2,1,11:18.0,2,0,DEN,PHO,3,away,BadPass,steal,,turnover,,B. Knight,T. Lawson
+3,1,11:14.0,4,0,DEN,PHO,4,home,LU,,2,make2,2,T. Lawson,
+4,1,11:05.0,4,0,DEN,PHO,9,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Len,G. Harris
+5,1,11:05.0,4,0,DEN,PHO,0,away,OffensiveFoul,,,turnover,,A. Len,
+6,1,10:42.0,4,0,DEN,PHO,23,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Knight,D. Arthur
+7,1,10:42.0,5,0,DEN,PHO,0,home,FreeThrow,,,make1,1,D. Arthur,
+8,1,10:42.0,5,0,DEN,PHO,0,home,FreeThrow,,,make1,0,D. Arthur,
+9,1,10:41.0,5,0,DEN,PHO,1,away,DefReb,,,DefReb,,A. Len,
+10,1,10:22.0,5,0,DEN,PHO,19,away,JS,,25,miss3,0,B. Knight,
+11,1,10:20.0,5,0,DEN,PHO,2,home,DefReb,,,DefReb,,J. Nurkić,
+12,1,10:13.0,8,0,DEN,PHO,7,home,JS,,25,make3,3,T. Lawson,
+13,1,10:01.0,8,2,DEN,PHO,12,away,JS,assist,17,make2,2,A. Len,E. Bledsoe
+14,1,9:43.0,8,2,DEN,PHO,18,home,DK,,0,miss2,0,G. Harris,
+15,1,9:41.0,8,2,DEN,PHO,2,away,DefReb,,,DefReb,,M. Morris,
+16,1,9:33.0,8,2,DEN,PHO,8,away,JS,,18,miss2,0,E. Bledsoe,
+17,1,9:31.0,8,2,DEN,PHO,2,home,DefReb,,,DefReb,,J. Nurkić,
+18,1,9:18.0,8,2,DEN,PHO,13,home,JS,,19,miss2,0,D. Arthur,
+19,1,9:16.0,8,2,DEN,PHO,2,away,DefReb,,,DefReb,,P. Tucker,
+20,1,9:04.0,8,2,DEN,PHO,12,away,JS,,10,miss2,0,P. Tucker,
+21,1,9:03.0,8,2,DEN,PHO,1,home,DefReb,,,DefReb,,T. Lawson,
+22,1,8:59.0,8,2,DEN,PHO,4,home,BadPass,,,turnover,,T. Lawson,
+23,1,8:59.0,8,2,DEN,PHO,0,home,Sub,,,,,J. Hickson,D. Arthur
+24,1,8:46.0,8,4,DEN,PHO,13,away,JS,assist,20,make2,2,B. Knight,E. Bledsoe
+25,1,8:32.0,8,4,DEN,PHO,14,home,JS,,18,miss2,0,J. Nurkić,
+26,1,8:30.0,8,4,DEN,PHO,2,away,DefReb,,,DefReb,,E. Bledsoe,
+27,1,8:25.0,8,6,DEN,PHO,5,away,JS,,20,make2,2,B. Knight,
+28,1,8:13.0,8,6,DEN,PHO,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,J. Hickson
+29,1,8:02.0,8,6,DEN,PHO,11,home,JS,block,3,miss2,0,J. Nurkić,A. Len
+30,1,7:59.0,8,6,DEN,PHO,3,away,DefReb,,,DefReb,,P. Tucker,
+31,1,7:55.0,8,8,DEN,PHO,4,away,LU,assist,2,make2,2,E. Bledsoe,B. Knight
+32,1,7:48.0,10,8,DEN,PHO,7,home,HS,assist,5,make2,2,J. Nurkić,T. Lawson
+33,1,7:41.0,10,8,DEN,PHO,7,away,JS,,26,miss3,0,B. Knight,
+34,1,7:39.0,10,8,DEN,PHO,2,home,DefReb,,,DefReb,,D. Gallinari,
+35,1,7:33.0,10,8,DEN,PHO,6,home,BadPass,steal,,turnover,,D. Gallinari,P. Tucker
+36,1,7:28.0,10,10,DEN,PHO,5,away,LU,,0,make2,2,P. Tucker,
+37,1,7:22.0,10,10,DEN,PHO,6,home,Timeout,,,,,,
+38,1,7:22.0,10,10,DEN,PHO,0,home,Sub,,,,,R. Foye,G. Harris
+39,1,7:15.0,10,10,DEN,PHO,7,home,JS,,6,miss2,0,T. Lawson,
+40,1,7:13.0,10,10,DEN,PHO,2,away,DefReb,,,DefReb,,A. Len,
+41,1,7:08.0,10,10,DEN,PHO,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Foye,E. Bledsoe
+42,1,6:46.0,10,10,DEN,PHO,22,away,ShotClockViolation,,,turnover,,Team,
+43,1,6:39.0,10,10,DEN,PHO,7,home,JS,,25,miss3,0,D. Gallinari,
+44,1,6:37.0,10,10,DEN,PHO,2,away,DefReb,,,DefReb,,A. Len,
+45,1,6:20.0,10,12,DEN,PHO,17,away,JS,,2,make2,2,M. Morris,
+46,1,6:02.0,10,12,DEN,PHO,18,home,JS,,24,miss3,0,R. Foye,
+47,1,6:01.0,10,12,DEN,PHO,1,home,OffReb,,,OffReb,,J. Nurkić,
+48,1,5:56.0,13,12,DEN,PHO,5,home,JS,assist,25,make3,3,D. Gallinari,J. Nurkić
+49,1,5:39.0,13,12,DEN,PHO,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Foye,P. Tucker
+50,1,5:39.0,13,13,DEN,PHO,0,away,FreeThrow,,,make1,1,P. Tucker,
+51,1,5:39.0,13,13,DEN,PHO,0,away,Sub,,,,,G. Green,B. Knight
+52,1,5:39.0,13,14,DEN,PHO,0,away,FreeThrow,,,make1,1,P. Tucker,
+53,1,5:30.0,15,14,DEN,PHO,9,home,LU,assist,1,make2,2,J. Nurkić,R. Foye
+54,1,5:30.0,15,14,DEN,PHO,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Len,J. Nurkić
+55,1,5:30.0,15,14,DEN,PHO,0,away,Sub,,,,,B. Wright,A. Len
+56,1,5:30.0,16,14,DEN,PHO,0,home,FreeThrow,,,make1,1,J. Nurkić,
+57,1,5:17.0,16,17,DEN,PHO,13,away,JS,,25,make3,3,G. Green,
+58,1,5:01.0,16,17,DEN,PHO,16,home,JS,,21,miss2,0,R. Foye,
+59,1,5:00.0,16,17,DEN,PHO,1,away,DefReb,,,DefReb,,Team,
+60,1,4:45.0,16,17,DEN,PHO,15,away,JS,,25,miss3,0,G. Green,
+61,1,4:44.0,16,17,DEN,PHO,1,away,OffReb,,,OffReb,,B. Wright,
+62,1,4:40.0,16,17,DEN,PHO,4,away,JS,,24,miss3,0,G. Green,
+63,1,4:37.0,16,17,DEN,PHO,3,away,OffReb,,,OffReb,,E. Bledsoe,
+64,1,4:29.0,16,19,DEN,PHO,8,away,JS,assist,4,make2,2,B. Wright,E. Bledsoe
+65,1,4:13.0,16,19,DEN,PHO,16,home,JS,,25,miss3,0,T. Lawson,
+66,1,4:12.0,16,19,DEN,PHO,1,away,DefReb,,,DefReb,,M. Morris,
+67,1,4:11.0,16,19,DEN,PHO,1,home,Sub,,,,,J. Lauvergne,J. Nurkić
+68,1,3:52.0,18,19,DEN,PHO,19,home,JS,assist,4,make2,2,J. Lauvergne,D. Gallinari
+69,1,3:42.0,18,19,DEN,PHO,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Lauvergne,M. Morris
+70,1,3:42.0,18,20,DEN,PHO,0,away,FreeThrow,,,make1,1,M. Morris,
+71,1,3:42.0,18,20,DEN,PHO,0,away,Sub,,,,,M. Morris,P. Tucker
+72,1,3:42.0,18,21,DEN,PHO,0,away,FreeThrow,,,make1,1,M. Morris,
+73,1,3:18.0,18,21,DEN,PHO,24,home,JS,,15,miss2,0,J. Lauvergne,
+74,1,3:16.0,18,21,DEN,PHO,2,home,OffReb,,,OffReb,,T. Lawson,
+75,1,3:14.0,18,21,DEN,PHO,2,home,JS,,24,miss3,0,D. Gallinari,
+76,1,3:13.0,18,21,DEN,PHO,1,home,OffReb,,,OffReb,,J. Lauvergne,
+77,1,3:12.0,20,21,DEN,PHO,1,home,LU,,0,make2,2,J. Lauvergne,
+78,1,3:12.0,20,21,DEN,PHO,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Green,J. Lauvergne
+79,1,3:12.0,20,21,DEN,PHO,0,home,FreeThrow,,,make1,0,J. Lauvergne,
+80,1,3:10.0,20,21,DEN,PHO,2,home,OffReb,,,OffReb,,D. Gallinari,
+81,1,2:58.0,20,21,DEN,PHO,12,home,BadPass,steal,,turnover,,D. Gallinari,E. Bledsoe
+82,1,2:48.0,20,24,DEN,PHO,10,away,JS,assist,22,make3,3,G. Green,M. Morris
+83,1,2:38.0,20,24,DEN,PHO,10,home,JS,,2,miss2,0,T. Lawson,
+84,1,2:37.0,20,24,DEN,PHO,1,away,DefReb,,,DefReb,,M. Morris,
+85,1,2:37.0,20,24,DEN,PHO,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Lawson,M. Morris
+86,1,2:37.0,20,24,DEN,PHO,0,away,Timeout,,,,,,
+87,1,2:37.0,20,24,DEN,PHO,0,away,Sub,,,,,B. Knight,M. Morris
+88,1,2:37.0,20,24,DEN,PHO,0,away,Sub,,,,,E. Barron,E. Bledsoe
+89,1,2:21.0,20,26,DEN,PHO,16,away,JS,assist,6,make2,2,B. Wright,G. Green
+90,1,2:03.0,20,26,DEN,PHO,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Barron,D. Gallinari
+91,1,2:03.0,21,26,DEN,PHO,0,home,FreeThrow,,,make1,1,D. Gallinari,
+92,1,2:03.0,22,26,DEN,PHO,0,home,FreeThrow,,,make1,1,D. Gallinari,
+93,1,1:53.0,22,28,DEN,PHO,10,away,JS,assist,15,make2,2,G. Green,B. Knight
+94,1,1:44.0,22,28,DEN,PHO,9,home,JS,,25,miss3,0,R. Foye,
+95,1,1:42.0,22,28,DEN,PHO,2,away,DefReb,,,DefReb,,B. Wright,
+96,1,1:32.0,22,28,DEN,PHO,10,away,LostBall,steal,,turnover,,B. Wright,D. Gallinari
+97,1,1:27.0,22,28,DEN,PHO,5,home,LU,block,1,miss2,0,T. Lawson,B. Wright
+98,1,1:26.0,22,28,DEN,PHO,1,home,OffReb,,,OffReb,,J. Lauvergne,
+99,1,1:24.0,22,28,DEN,PHO,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Wright,J. Hickson
+100,1,1:24.0,23,28,DEN,PHO,0,home,FreeThrow,,,make1,1,J. Hickson,
+101,1,1:24.0,23,28,DEN,PHO,0,home,Sub,,,,,W. Barton,D. Gallinari
+102,1,1:24.0,23,28,DEN,PHO,0,home,Sub,,,,,J. Nelson,T. Lawson
+103,1,1:24.0,24,28,DEN,PHO,0,home,FreeThrow,,,make1,1,J. Hickson,
+104,1,1:15.0,24,28,DEN,PHO,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Barton,M. Morris
+105,1,1:15.0,24,29,DEN,PHO,0,away,FreeThrow,,,make1,1,M. Morris,
+106,1,1:15.0,24,30,DEN,PHO,0,away,FreeThrow,,,make1,1,M. Morris,
+107,1,0:59.0,26,30,DEN,PHO,16,home,DK,assist,0,make2,2,J. Hickson,R. Foye
+108,1,0:48.0,26,30,DEN,PHO,11,away,BadPass,steal,,turnover,,G. Green,J. Hickson
+109,1,0:34.0,26,30,DEN,PHO,14,home,JS,,22,miss3,0,R. Foye,
+110,1,0:33.0,26,30,DEN,PHO,1,away,DefReb,,,DefReb,,M. Morris,
+111,1,0:27.0,26,32,DEN,PHO,6,away,LU,,1,make2,2,B. Knight,
+112,1,0:03.0,26,32,DEN,PHO,24,home,ShotClockViolation,,,turnover,,Team,
+113,1,0:00.0,26,35,DEN,PHO,3,away,JS,,45,make3,3,M. Morris,
+114,2,11:39.0,28,35,DEN,PHO,21,home,LU,assist,2,make2,2,J. Lauvergne,J. Nelson
+115,2,11:21.0,28,37,DEN,PHO,18,away,LU,assist,2,make2,2,M. Morris,B. Knight
+116,2,11:04.0,31,37,DEN,PHO,17,home,JS,assist,25,make3,3,J. Lauvergne,J. Nelson
+117,2,10:48.0,31,37,DEN,PHO,16,away,LU,block,1,miss2,0,B. Wright,J. Lauvergne
+118,2,10:46.0,31,37,DEN,PHO,2,home,DefReb,,,DefReb,,W. Barton,
+119,2,10:41.0,31,37,DEN,PHO,5,home,OffGoaltending,,,turnover,,J. Lauvergne,
+120,2,10:27.0,31,39,DEN,PHO,14,away,JS,,18,make2,2,G. Green,
+121,2,10:04.0,31,39,DEN,PHO,23,home,JS,,5,miss2,0,J. Nurkić,
+122,2,10:03.0,31,39,DEN,PHO,1,home,OffReb,,,OffReb,,W. Barton,
+123,2,10:02.0,31,39,DEN,PHO,1,home,LostBall,,,turnover,,W. Barton,
+124,2,9:53.0,31,39,DEN,PHO,9,away,JS,,9,miss2,0,M. Morris,
+125,2,9:51.0,31,39,DEN,PHO,2,home,DefReb,,,DefReb,,J. Lauvergne,
+126,2,9:39.0,31,39,DEN,PHO,12,home,JS,,13,miss2,0,J. Lauvergne,
+127,2,9:37.0,31,39,DEN,PHO,2,away,DefReb,,,DefReb,,G. Green,
+128,2,9:31.0,31,39,DEN,PHO,6,away,LU,,2,miss2,0,B. Wright,
+129,2,9:30.0,31,39,DEN,PHO,1,away,OffReb,,,OffReb,,E. Barron,
+130,2,9:30.0,31,39,DEN,PHO,0,away,TI,,0,miss2,0,E. Barron,
+131,2,9:28.0,31,39,DEN,PHO,2,away,OffReb,,,OffReb,,B. Wright,
+132,2,9:26.0,31,39,DEN,PHO,2,away,JS,,8,miss2,0,B. Wright,
+133,2,9:25.0,31,39,DEN,PHO,1,away,OffReb,,,OffReb,,E. Barron,
+134,2,9:19.0,31,39,DEN,PHO,6,away,LU,,1,miss2,0,B. Knight,
+135,2,9:17.0,31,39,DEN,PHO,2,home,DefReb,,,DefReb,,W. Barton,
+136,2,9:16.0,31,39,DEN,PHO,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Green,W. Barton
+137,2,9:16.0,32,39,DEN,PHO,0,home,FreeThrow,,,make1,1,W. Barton,
+138,2,9:16.0,32,39,DEN,PHO,0,away,Sub,,,,,M. Morris,B. Wright
+139,2,9:16.0,33,39,DEN,PHO,0,home,FreeThrow,,,make1,1,W. Barton,
+140,2,9:00.0,33,39,DEN,PHO,16,away,LostBall,steal,,turnover,,G. Green,J. Nurkić
+141,2,9:00.0,33,39,DEN,PHO,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,G. Harris
+142,2,9:00.0,34,39,DEN,PHO,0,home,FreeThrow,,,make1,1,G. Harris,
+143,2,9:00.0,35,39,DEN,PHO,0,home,FreeThrow,,,make1,1,G. Harris,
+144,2,8:52.0,35,39,DEN,PHO,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Nurkić,E. Barron
+145,2,8:52.0,35,39,DEN,PHO,0,away,Timeout,,,,,,
+146,2,8:35.0,35,39,DEN,PHO,17,away,JS,,25,miss3,0,G. Green,
+147,2,8:34.0,35,39,DEN,PHO,1,home,DefReb,,,DefReb,,J. Lauvergne,
+148,2,8:24.0,38,39,DEN,PHO,10,home,JS,assist,25,make3,3,W. Barton,J. Nurkić
+149,2,8:07.0,38,39,DEN,PHO,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nurkić,E. Barron
+150,2,8:07.0,38,40,DEN,PHO,0,away,FreeThrow,,,make1,1,E. Barron,
+151,2,8:07.0,38,40,DEN,PHO,0,away,Sub,,,,,E. Bledsoe,G. Green
+152,2,8:07.0,38,41,DEN,PHO,0,away,FreeThrow,,,make1,1,E. Barron,
+153,2,8:05.0,38,41,DEN,PHO,2,home,BadPass,steal,,turnover,,J. Lauvergne,M. Morris
+154,2,7:59.0,38,41,DEN,PHO,6,away,JS,,22,miss3,0,B. Knight,
+155,2,7:58.0,38,41,DEN,PHO,1,home,DefReb,,,DefReb,,J. Nurkić,
+156,2,7:52.0,40,41,DEN,PHO,6,home,JS,assist,11,make2,2,W. Barton,J. Nelson
+157,2,7:34.0,40,41,DEN,PHO,18,away,BadPass,,,turnover,,B. Knight,
+158,2,7:34.0,40,41,DEN,PHO,0,home,Sub,,,,,D. Gallinari,J. Lauvergne
+159,2,7:34.0,40,41,DEN,PHO,0,home,Sub,,,,,T. Lawson,G. Harris
+160,2,7:19.0,40,41,DEN,PHO,15,home,JS,,26,miss3,0,W. Barton,
+161,2,7:18.0,40,41,DEN,PHO,1,away,DefReb,,,DefReb,,M. Morris,
+162,2,7:09.0,40,41,DEN,PHO,9,away,JS,,7,miss2,0,B. Knight,
+163,2,7:07.0,40,41,DEN,PHO,2,home,DefReb,,,DefReb,,J. Nurkić,
+164,2,7:01.0,40,41,DEN,PHO,6,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Nurkić,E. Barron
+165,2,7:01.0,40,41,DEN,PHO,0,home,OffensiveFoul,,,turnover,,J. Nurkić,
+166,2,7:01.0,40,41,DEN,PHO,0,away,Sub,,,,,A. Len,E. Barron
+167,2,7:01.0,40,41,DEN,PHO,0,home,Sub,,,,,J. Hickson,J. Nurkić
+168,2,7:01.0,40,41,DEN,PHO,0,away,Sub,,,,,P. Tucker,M. Morris
+169,2,6:42.0,40,43,DEN,PHO,19,away,LU,,2,make2,2,E. Bledsoe,
+170,2,6:29.0,40,43,DEN,PHO,13,home,JS,,25,miss3,0,D. Gallinari,
+171,2,6:27.0,40,43,DEN,PHO,2,away,DefReb,,,DefReb,,P. Tucker,
+172,2,6:21.0,40,45,DEN,PHO,6,away,LU,assist,0,make2,2,M. Morris,B. Knight
+173,2,6:21.0,40,45,DEN,PHO,0,home,Timeout,,,,,,
+174,2,6:01.0,40,45,DEN,PHO,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Len,W. Barton
+175,2,6:01.0,41,45,DEN,PHO,0,home,FreeThrow,,,make1,1,W. Barton,
+176,2,6:01.0,41,45,DEN,PHO,0,away,Sub,,,,,M. Morris,A. Len
+177,2,6:01.0,41,45,DEN,PHO,0,home,FreeThrow,,,make1,0,W. Barton,
+178,2,5:59.0,41,45,DEN,PHO,2,away,DefReb,,,DefReb,,M. Morris,
+179,2,5:42.0,41,45,DEN,PHO,17,away,JS,,23,miss3,0,P. Tucker,
+180,2,5:40.0,41,45,DEN,PHO,2,away,OffReb,,,OffReb,,M. Morris,
+181,2,5:40.0,41,45,DEN,PHO,0,away,TI,,0,miss2,0,M. Morris,
+182,2,5:37.0,41,45,DEN,PHO,3,home,DefReb,,,DefReb,,W. Barton,
+183,2,5:33.0,43,45,DEN,PHO,4,home,LU,assist,1,make2,2,J. Hickson,W. Barton
+184,2,5:14.0,43,47,DEN,PHO,19,away,JS,assist,20,make2,2,P. Tucker,B. Knight
+185,2,5:02.0,46,47,DEN,PHO,12,home,JS,assist,25,make3,3,D. Gallinari,J. Nelson
+186,2,4:43.0,46,47,DEN,PHO,19,away,JS,,18,miss2,0,E. Bledsoe,
+187,2,4:42.0,46,47,DEN,PHO,1,away,OffReb,,,OffReb,,M. Morris,
+188,2,4:42.0,46,47,DEN,PHO,0,away,LU,,0,miss2,0,M. Morris,
+189,2,4:41.0,46,47,DEN,PHO,1,home,DefReb,,,DefReb,,Team,
+190,2,4:41.0,46,47,DEN,PHO,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Morris,D. Gallinari
+191,2,4:41.0,46,47,DEN,PHO,0,away,DelayOfGame,,,DelayOfGame,,Team,
+192,2,4:41.0,46,47,DEN,PHO,0,away,TechnicalFoul,,,TechnicalFoul,,M. Morris,
+193,2,4:41.0,47,47,DEN,PHO,0,home,FreeThrow,,,make1,1,D. Gallinari makes technical free throw,
+194,2,4:41.0,47,47,DEN,PHO,0,away,Sub,,,,,T. Warren,M. Morris
+195,2,4:41.0,47,47,DEN,PHO,0,away,Sub,,,,,A. Goodwin,B. Knight
+196,2,4:30.0,47,47,DEN,PHO,11,home,JS,,25,miss3,0,D. Gallinari,
+197,2,4:29.0,47,47,DEN,PHO,1,away,DefReb,,,DefReb,,A. Goodwin,
+198,2,4:20.0,47,47,DEN,PHO,9,away,LU,,2,miss2,0,M. Morris,
+199,2,4:19.0,47,47,DEN,PHO,1,away,OffReb,,,OffReb,,T. Warren,
+200,2,4:18.0,47,49,DEN,PHO,1,away,TI,,0,make2,2,T. Warren,
+201,2,4:09.0,47,49,DEN,PHO,9,home,JS,,21,miss2,0,J. Nelson,
+202,2,4:08.0,47,49,DEN,PHO,1,away,DefReb,,,DefReb,,P. Tucker,
+203,2,3:57.0,47,51,DEN,PHO,11,away,JS,,19,make2,2,E. Bledsoe,
+204,2,3:43.0,47,51,DEN,PHO,14,home,Sub,,,,,G. Harris,J. Nelson
+205,2,3:34.0,47,51,DEN,PHO,9,home,JS,,5,miss2,0,J. Hickson,
+206,2,3:32.0,47,51,DEN,PHO,2,away,DefReb,,,DefReb,,T. Warren,
+207,2,3:14.0,47,51,DEN,PHO,18,away,BadPass,,,turnover,,E. Bledsoe,
+208,2,3:02.0,47,51,DEN,PHO,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Goodwin,J. Hickson
+209,2,3:02.0,48,51,DEN,PHO,0,home,FreeThrow,,,make1,1,J. Hickson,
+210,2,3:02.0,48,51,DEN,PHO,0,home,Sub,,,,,R. Foye,W. Barton
+211,2,3:02.0,48,51,DEN,PHO,0,home,FreeThrow,,,make1,0,J. Hickson,
+212,2,2:59.0,48,51,DEN,PHO,3,away,DefReb,,,DefReb,,M. Morris,
+213,2,2:52.0,48,51,DEN,PHO,7,away,LU,block,2,miss2,0,E. Bledsoe,J. Hickson
+214,2,2:51.0,48,51,DEN,PHO,1,away,OffReb,,,OffReb,,T. Warren,
+215,2,2:51.0,48,51,DEN,PHO,0,away,LU,,0,miss2,0,T. Warren,
+216,2,2:50.0,48,51,DEN,PHO,1,away,OffReb,,,OffReb,,T. Warren,
+217,2,2:50.0,48,51,DEN,PHO,0,away,LU,,0,miss2,0,T. Warren,
+218,2,2:49.0,48,51,DEN,PHO,1,away,OffReb,,,OffReb,,T. Warren,
+219,2,2:49.0,48,51,DEN,PHO,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Lawson,T. Warren
+220,2,2:49.0,48,51,DEN,PHO,0,away,Timeout,,,,,,
+221,2,2:49.0,48,51,DEN,PHO,0,away,FreeThrow,,,make1,0,T. Warren,
+222,2,2:49.0,48,51,DEN,PHO,0,away,OffReb,,,OffReb,,Team,
+223,2,2:49.0,48,51,DEN,PHO,0,away,FreeThrow,,,make1,0,T. Warren,
+224,2,2:42.0,48,51,DEN,PHO,7,home,DefReb,,,DefReb,,J. Hickson,
+225,2,2:27.0,48,51,DEN,PHO,15,home,BadPass,steal,,turnover,,D. Gallinari,P. Tucker
+226,2,2:21.0,48,53,DEN,PHO,6,away,LU,assist,1,make2,2,T. Warren,P. Tucker
+227,2,2:04.0,50,53,DEN,PHO,17,home,JS,assist,5,make2,2,D. Gallinari,T. Lawson
+228,2,1:44.0,50,55,DEN,PHO,20,away,DK,assist,0,make2,2,T. Warren,M. Morris
+229,2,1:19.0,50,55,DEN,PHO,25,home,JS,,19,miss2,0,D. Gallinari,
+230,2,1:17.0,50,55,DEN,PHO,2,away,DefReb,,,DefReb,,M. Morris,
+231,2,1:13.0,50,55,DEN,PHO,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Harris,A. Goodwin
+232,2,1:13.0,50,56,DEN,PHO,0,away,FreeThrow,,,make1,1,A. Goodwin,
+233,2,1:13.0,50,56,DEN,PHO,0,home,Sub,,,,,J. Lauvergne,D. Gallinari
+234,2,1:13.0,50,56,DEN,PHO,0,away,FreeThrow,,,make1,0,A. Goodwin,
+235,2,1:12.0,50,56,DEN,PHO,1,home,DefReb,,,DefReb,,J. Hickson,
+236,2,0:51.0,50,56,DEN,PHO,21,home,JS,,24,miss3,0,T. Lawson,
+237,2,0:50.0,50,56,DEN,PHO,1,away,DefReb,,,DefReb,,M. Morris,
+238,2,0:41.0,50,56,DEN,PHO,9,home,DefGoaltending,,,DefGoaltending,,J. Lauvergne,
+239,2,0:41.0,50,58,DEN,PHO,0,away,JS,,17,make2,2,E. Bledsoe,
+240,2,0:36.0,50,58,DEN,PHO,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Warren,T. Lawson
+241,2,0:36.0,50,58,DEN,PHO,0,home,FreeThrow,,,make1,0,T. Lawson,
+242,2,0:36.0,50,58,DEN,PHO,0,home,OffReb,,,OffReb,,Team,
+243,2,0:36.0,50,58,DEN,PHO,0,away,Sub,,,,,B. Wright,M. Morris
+244,2,0:36.0,51,58,DEN,PHO,0,home,FreeThrow,,,make1,1,T. Lawson,
+245,2,0:30.0,51,58,DEN,PHO,6,away,LostBall,steal,,turnover,,E. Bledsoe,T. Lawson
+246,2,0:07.0,51,58,DEN,PHO,23,home,JS,,24,miss3,0,G. Harris,
+247,2,0:06.0,51,58,DEN,PHO,1,home,OffReb,,,OffReb,,J. Hickson,
+248,2,0:04.0,51,58,DEN,PHO,2,home,JS,,4,miss2,0,J. Hickson,
+249,2,0:02.0,51,58,DEN,PHO,2,away,DefReb,,,DefReb,,E. Bledsoe,
+250,2,0:00.0,51,58,DEN,PHO,2,away,JS,,26,miss3,0,E. Bledsoe,
+251,2,0:00.0,51,58,DEN,PHO,0,away,OffReb,,,OffReb,,Team,
+252,3,11:40.0,51,58,DEN,PHO,20,home,JS,,26,miss3,0,G. Harris,
+253,3,11:39.0,51,58,DEN,PHO,1,away,DefReb,,,DefReb,,M. Morris,
+254,3,11:34.0,51,58,DEN,PHO,5,away,LU,,1,miss2,0,E. Bledsoe,
+255,3,11:33.0,51,58,DEN,PHO,1,away,OffReb,,,OffReb,,E. Bledsoe,
+256,3,11:32.0,51,60,DEN,PHO,1,away,LU,,0,make2,2,E. Bledsoe,
+257,3,11:21.0,54,60,DEN,PHO,11,home,JS,,26,make3,3,G. Harris,
+258,3,10:57.0,54,63,DEN,PHO,24,away,JS,assist,26,make3,3,B. Knight,M. Morris
+259,3,10:53.0,54,63,DEN,PHO,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,D. Gallinari
+260,3,10:50.0,54,63,DEN,PHO,3,away,KickBallViolation,,,KickBallViolation,,E. Bledsoe,
+261,3,10:39.0,57,63,DEN,PHO,11,home,JS,assist,25,make3,3,D. Gallinari,G. Harris
+262,3,10:16.0,57,63,DEN,PHO,23,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Harris,M. Morris
+263,3,10:16.0,57,64,DEN,PHO,0,away,FreeThrow,,,make1,1,M. Morris,
+264,3,10:16.0,57,64,DEN,PHO,0,away,FreeThrow,,,make1,0,M. Morris,
+265,3,10:14.0,57,64,DEN,PHO,2,away,OffReb,,,OffReb,,P. Tucker,
+266,3,10:06.0,57,64,DEN,PHO,8,away,LU,,1,miss2,0,A. Len,
+267,3,10:05.0,57,64,DEN,PHO,1,home,DefReb,,,DefReb,,J. Nurkić,
+268,3,9:59.0,59,64,DEN,PHO,6,home,LU,assist,1,make2,2,W. Barton,T. Lawson
+269,3,9:46.0,59,64,DEN,PHO,13,away,JS,,25,miss3,0,B. Knight,
+270,3,9:43.0,59,64,DEN,PHO,3,home,DefReb,,,DefReb,,W. Barton,
+271,3,9:36.0,59,64,DEN,PHO,7,home,LostBall,steal,,turnover,,W. Barton,P. Tucker
+272,3,9:23.0,59,64,DEN,PHO,13,away,JS,block,3,miss2,0,A. Len,J. Nurkić
+273,3,9:21.0,59,64,DEN,PHO,2,home,DefReb,,,DefReb,,J. Nurkić,
+274,3,9:18.0,59,64,DEN,PHO,3,home,LostBall,steal,,turnover,,J. Nurkić,M. Morris
+275,3,9:09.0,59,64,DEN,PHO,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Lawson,A. Len
+276,3,9:09.0,59,65,DEN,PHO,0,away,FreeThrow,,,make1,1,A. Len,
+277,3,9:09.0,59,65,DEN,PHO,0,away,FreeThrow,,,make1,0,A. Len,
+278,3,9:07.0,59,65,DEN,PHO,2,home,DefReb,,,DefReb,,W. Barton,
+279,3,8:54.0,62,65,DEN,PHO,13,home,JS,assist,26,make3,3,D. Gallinari,G. Harris
+280,3,8:40.0,62,65,DEN,PHO,14,away,LU,,1,miss2,0,M. Morris,
+281,3,8:38.0,62,65,DEN,PHO,2,home,DefReb,,,DefReb,,J. Nurkić,
+282,3,8:28.0,62,65,DEN,PHO,10,home,LU,,2,miss2,0,J. Nurkić,
+283,3,8:26.0,62,65,DEN,PHO,2,away,DefReb,,,DefReb,,A. Len,
+284,3,8:22.0,62,65,DEN,PHO,4,away,BadPass,,,turnover,,E. Bledsoe,
+285,3,8:09.0,62,65,DEN,PHO,13,home,JS,,22,miss3,0,G. Harris,
+286,3,8:08.0,62,65,DEN,PHO,1,away,DefReb,,,DefReb,,P. Tucker,
+287,3,7:58.0,62,65,DEN,PHO,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Harris,P. Tucker
+288,3,7:58.0,62,66,DEN,PHO,0,away,FreeThrow,,,make1,1,P. Tucker,
+289,3,7:58.0,62,67,DEN,PHO,0,away,FreeThrow,,,make1,1,P. Tucker,
+290,3,7:49.0,64,67,DEN,PHO,9,home,LU,,2,make2,2,T. Lawson,
+291,3,7:31.0,64,67,DEN,PHO,18,away,LostBall,steal,,turnover,,M. Morris,T. Lawson
+292,3,7:25.0,64,67,DEN,PHO,6,home,LU,block,1,miss2,0,D. Gallinari,P. Tucker
+293,3,7:23.0,64,67,DEN,PHO,2,away,DefReb,,,DefReb,,B. Knight,
+294,3,7:16.0,64,67,DEN,PHO,7,away,JS,,16,miss2,0,M. Morris,
+295,3,7:15.0,64,67,DEN,PHO,1,home,DefReb,,,DefReb,,D. Gallinari,
+296,3,7:00.0,66,67,DEN,PHO,15,home,LU,assist,1,make2,2,J. Nurkić,W. Barton
+297,3,7:00.0,66,67,DEN,PHO,0,home,TechnicalFoul,,,TechnicalFoul,,J. Nurkić,
+298,3,7:00.0,66,68,DEN,PHO,0,away,FreeThrow,,,make1,1,E. Bledsoe makes technical free throw,
+299,3,7:00.0,66,68,DEN,PHO,0,away,Sub,,,,,M. Morris,E. Bledsoe
+300,3,7:00.0,66,68,DEN,PHO,0,away,Sub,,,,,G. Green,M. Morris
+301,3,6:46.0,66,68,DEN,PHO,14,away,JS,,24,miss3,0,P. Tucker,
+302,3,6:44.0,66,68,DEN,PHO,2,home,DefReb,,,DefReb,,D. Gallinari,
+303,3,6:33.0,66,68,DEN,PHO,11,home,BadPass,steal,,turnover,,D. Gallinari,P. Tucker
+304,3,6:33.0,66,68,DEN,PHO,0,away,ClearPathFoul,,,ClearPathFoul,,G. Harris,
+305,3,6:33.0,66,68,DEN,PHO,0,home,Sub,,,,,R. Foye,G. Harris
+306,3,6:33.0,66,69,DEN,PHO,0,away,FreeThrow,,,make1,1,P. Tucker makes clear path free throw 1 of 2,
+307,3,6:33.0,66,70,DEN,PHO,0,away,FreeThrow,,,make1,1,P. Tucker makes clear path free throw 2 of 2,
+308,3,6:22.0,66,70,DEN,PHO,11,away,JS,block,4,miss2,0,A. Len,D. Gallinari
+309,3,6:21.0,66,70,DEN,PHO,1,away,OffReb,,,OffReb,,Team,
+310,3,6:18.0,66,70,DEN,PHO,3,away,JS,,15,miss2,0,A. Len,
+311,3,6:16.0,66,70,DEN,PHO,2,home,DefReb,,,DefReb,,D. Gallinari,
+312,3,6:10.0,66,70,DEN,PHO,6,home,BadPass,,,turnover,,D. Gallinari,
+313,3,5:49.0,66,70,DEN,PHO,21,away,JS,,24,miss3,0,B. Knight,
+314,3,5:47.0,66,70,DEN,PHO,2,home,DefReb,,,DefReb,,W. Barton,
+315,3,5:40.0,66,70,DEN,PHO,7,home,JS,,25,miss3,0,D. Gallinari,
+316,3,5:39.0,66,70,DEN,PHO,1,away,DefReb,,,DefReb,,Team,
+317,3,5:39.0,66,70,DEN,PHO,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Nurkić,A. Len
+318,3,5:39.0,66,70,DEN,PHO,0,home,Timeout,,,,,,
+319,3,5:39.0,66,70,DEN,PHO,0,home,Sub,,,,,J. Hickson,D. Gallinari
+320,3,5:39.0,66,70,DEN,PHO,0,home,Sub,,,,,J. Lauvergne,J. Nurkić
+321,3,5:39.0,66,71,DEN,PHO,0,away,FreeThrow,,,make1,1,A. Len,
+322,3,5:39.0,66,71,DEN,PHO,0,away,FreeThrow,,,make1,0,A. Len,
+323,3,5:38.0,66,71,DEN,PHO,1,home,DefReb,,,DefReb,,J. Lauvergne,
+324,3,5:22.0,66,71,DEN,PHO,16,home,JS,,23,miss3,0,R. Foye,
+325,3,5:19.0,66,71,DEN,PHO,3,away,DefReb,,,DefReb,,Team,
+326,3,5:08.0,66,71,DEN,PHO,11,away,BadPass,steal,,turnover,,G. Green,R. Foye
+327,3,5:04.0,68,71,DEN,PHO,4,home,DK,assist,0,make2,2,R. Foye,T. Lawson
+328,3,4:51.0,68,71,DEN,PHO,13,away,JS,,19,miss2,0,B. Knight,
+329,3,4:50.0,68,71,DEN,PHO,1,away,OffReb,,,OffReb,,A. Len,
+330,3,4:46.0,68,71,DEN,PHO,4,away,JS,,25,miss3,0,G. Green,
+331,3,4:44.0,68,71,DEN,PHO,2,away,OffReb,,,OffReb,,A. Len,
+332,3,4:41.0,68,71,DEN,PHO,3,away,BadPass,,,turnover,,M. Morris,
+333,3,4:35.0,68,71,DEN,PHO,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Len,J. Hickson
+334,3,4:35.0,69,71,DEN,PHO,0,home,FreeThrow,,,make1,1,J. Hickson,
+335,3,4:35.0,69,71,DEN,PHO,0,away,Sub,,,,,B. Wright,A. Len
+336,3,4:35.0,69,71,DEN,PHO,0,home,FreeThrow,,,make1,0,J. Hickson,
+337,3,4:32.0,69,71,DEN,PHO,3,home,OffReb,,,OffReb,,J. Lauvergne,
+338,3,4:32.0,69,71,DEN,PHO,0,home,TI,,1,miss2,0,J. Lauvergne,
+339,3,4:30.0,69,71,DEN,PHO,2,away,DefReb,,,DefReb,,G. Green,
+340,3,4:21.0,69,71,DEN,PHO,9,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Lauvergne,M. Morris
+341,3,4:21.0,69,71,DEN,PHO,0,away,FreeThrow,,,make1,0,M. Morris,
+342,3,4:21.0,69,71,DEN,PHO,0,away,OffReb,,,OffReb,,Team,
+343,3,4:21.0,69,72,DEN,PHO,0,away,FreeThrow,,,make1,1,M. Morris,
+344,3,4:11.0,69,72,DEN,PHO,10,home,BadPass,steal,,turnover,,R. Foye,P. Tucker
+345,3,4:09.0,69,72,DEN,PHO,2,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,P. Tucker,J. Lauvergne
+346,3,4:09.0,69,72,DEN,PHO,0,away,OffensiveFoul,,,turnover,,P. Tucker,
+347,3,3:47.0,69,72,DEN,PHO,22,home,JS,block,11,miss2,0,W. Barton,G. Green
+348,3,3:46.0,69,72,DEN,PHO,1,away,DefReb,,,DefReb,,B. Wright,
+349,3,3:39.0,69,72,DEN,PHO,7,away,JS,,25,miss3,0,G. Green,
+350,3,3:38.0,69,72,DEN,PHO,1,away,OffReb,,,OffReb,,M. Morris,
+351,3,3:35.0,69,74,DEN,PHO,3,away,JS,,7,make2,2,M. Morris,
+352,3,3:10.0,69,74,DEN,PHO,25,home,JS,,23,miss3,0,W. Barton,
+353,3,3:09.0,69,74,DEN,PHO,1,away,DefReb,,,DefReb,,B. Wright,
+354,3,3:07.0,69,74,DEN,PHO,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Lawson,B. Knight
+355,3,3:07.0,69,75,DEN,PHO,0,away,FreeThrow,,,make1,1,B. Knight,
+356,3,3:07.0,69,75,DEN,PHO,0,away,Sub,,,,,T. Warren,P. Tucker
+357,3,3:07.0,69,75,DEN,PHO,0,home,Sub,,,,,J. Nelson,T. Lawson
+358,3,3:07.0,69,76,DEN,PHO,0,away,FreeThrow,,,make1,1,B. Knight,
+359,3,2:55.0,69,76,DEN,PHO,12,home,JS,block,6,miss2,0,J. Nelson,B. Wright
+360,3,2:53.0,69,76,DEN,PHO,2,away,DefReb,,,DefReb,,G. Green,
+361,3,2:44.0,69,78,DEN,PHO,9,away,DK,assist,0,make2,2,B. Wright,G. Green
+362,3,2:34.0,69,78,DEN,PHO,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Green,R. Foye
+363,3,2:34.0,69,78,DEN,PHO,0,away,Timeout,,,,,,
+364,3,2:34.0,69,78,DEN,PHO,0,away,Sub,,,,,E. Bledsoe,B. Knight
+365,3,2:27.0,69,78,DEN,PHO,7,home,JS,,25,miss3,0,J. Nelson,
+366,3,2:25.0,69,78,DEN,PHO,2,away,DefReb,,,DefReb,,G. Green,
+367,3,2:11.0,69,78,DEN,PHO,14,away,JS,,13,miss2,0,B. Wright,
+368,3,2:08.0,69,78,DEN,PHO,3,away,OffReb,,,OffReb,,B. Wright,
+369,3,2:03.0,69,78,DEN,PHO,5,away,JS,,25,miss3,0,G. Green,
+370,3,2:02.0,69,78,DEN,PHO,1,home,DefReb,,,DefReb,,J. Lauvergne,
+371,3,1:52.0,69,78,DEN,PHO,10,home,LU,,1,miss2,0,R. Foye,
+372,3,1:50.0,69,78,DEN,PHO,2,away,DefReb,,,DefReb,,M. Morris,
+373,3,1:41.0,69,81,DEN,PHO,9,away,JS,,27,make3,3,G. Green,
+374,3,1:28.0,69,81,DEN,PHO,13,home,JS,,24,miss3,0,R. Foye,
+375,3,1:27.0,69,81,DEN,PHO,1,home,OffReb,,,OffReb,,J. Nelson,
+376,3,1:23.0,69,81,DEN,PHO,4,home,LU,block,0,miss2,0,J. Hickson,B. Wright
+377,3,1:21.0,69,81,DEN,PHO,2,away,DefReb,,,DefReb,,M. Morris,
+378,3,1:04.0,69,83,DEN,PHO,17,away,LU,assist,1,make2,2,B. Wright,E. Bledsoe
+379,3,0:42.0,71,83,DEN,PHO,22,home,JS,,6,make2,2,R. Foye,
+380,3,0:35.0,71,83,DEN,PHO,7,away,LostBall,steal,,turnover,,E. Bledsoe,J. Nelson
+381,3,0:33.0,71,83,DEN,PHO,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,B. Wright,J. Nelson
+382,3,0:33.0,71,83,DEN,PHO,0,home,FreeThrow,,,make1,0,J. Nelson,
+383,3,0:33.0,71,83,DEN,PHO,0,home,OffReb,,,OffReb,,Team,
+384,3,0:33.0,71,83,DEN,PHO,0,home,FreeThrow,,,make1,0,J. Nelson,
+385,3,0:32.0,71,83,DEN,PHO,1,away,DefReb,,,DefReb,,M. Morris,
+386,3,0:10.0,71,83,DEN,PHO,22,away,LostBall,steal,,turnover,,E. Bledsoe,J. Nelson
+387,3,0:07.0,71,83,DEN,PHO,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Bledsoe,W. Barton
+388,3,0:07.0,72,83,DEN,PHO,0,home,FreeThrow,,,make1,1,W. Barton,
+389,3,0:07.0,73,83,DEN,PHO,0,home,FreeThrow,,,make1,1,W. Barton,
+390,3,0:00.0,73,83,DEN,PHO,7,away,JS,,13,miss2,0,E. Bledsoe,
+391,3,0:00.0,73,83,DEN,PHO,0,away,OffReb,,,OffReb,,Team,
+392,4,11:45.0,73,83,DEN,PHO,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Foye,G. Green
+393,4,11:45.0,73,84,DEN,PHO,0,away,FreeThrow,,,make1,1,G. Green,
+394,4,11:45.0,73,85,DEN,PHO,0,away,FreeThrow,,,make1,1,G. Green,
+395,4,11:45.0,73,85,DEN,PHO,0,away,FreeThrow,,,make1,0,G. Green,
+396,4,11:41.0,73,85,DEN,PHO,4,away,OffReb,,,OffReb,,M. Morris,
+397,4,11:38.0,73,85,DEN,PHO,3,away,BadPass,steal,,turnover,,M. Morris,J. Lauvergne
+398,4,11:31.0,73,85,DEN,PHO,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Green,R. Foye
+399,4,11:20.0,73,85,DEN,PHO,11,home,JS,,20,miss2,0,R. Foye,
+400,4,11:19.0,73,85,DEN,PHO,1,away,DefReb,,,DefReb,,T. Warren,
+401,4,11:19.0,73,85,DEN,PHO,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Barton,E. Bledsoe
+402,4,11:19.0,73,86,DEN,PHO,0,away,FreeThrow,,,make1,1,E. Bledsoe,
+403,4,11:19.0,73,86,DEN,PHO,0,home,Sub,,,,,G. Harris,R. Foye
+404,4,11:19.0,73,86,DEN,PHO,0,home,Sub,,,,,T. Lawson,J. Nelson
+405,4,11:19.0,73,86,DEN,PHO,0,home,Sub,,,,,J. Nurkić,J. Hickson
+406,4,11:19.0,73,87,DEN,PHO,0,away,FreeThrow,,,make1,1,E. Bledsoe,
+407,4,11:04.0,73,87,DEN,PHO,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Wright,J. Nurkić
+408,4,11:04.0,74,87,DEN,PHO,0,home,FreeThrow,,,make1,1,J. Nurkić,
+409,4,11:04.0,74,87,DEN,PHO,0,home,Sub,,,,,D. Gallinari,J. Lauvergne
+410,4,11:04.0,74,87,DEN,PHO,0,home,FreeThrow,,,make1,0,J. Nurkić,
+411,4,11:02.0,74,87,DEN,PHO,2,home,OffReb,,,OffReb,,Team,
+412,4,10:45.0,74,87,DEN,PHO,17,home,JS,,20,miss2,0,D. Gallinari,
+413,4,10:43.0,74,87,DEN,PHO,2,home,OffReb,,,OffReb,,W. Barton,
+414,4,10:37.0,74,87,DEN,PHO,6,home,LostBall,,,turnover,,D. Gallinari,
+415,4,10:19.0,74,89,DEN,PHO,18,away,JS,assist,4,make2,2,T. Warren,G. Green
+416,4,9:55.0,77,89,DEN,PHO,24,home,JS,,23,make3,3,W. Barton,
+417,4,9:37.0,77,89,DEN,PHO,18,away,LU,,1,miss2,0,T. Warren,
+418,4,9:34.0,77,89,DEN,PHO,3,home,DefReb,,,DefReb,,D. Gallinari,
+419,4,9:29.0,77,89,DEN,PHO,5,home,LU,block,2,miss2,0,G. Harris,E. Bledsoe
+420,4,9:29.0,77,89,DEN,PHO,0,home,OffReb,,,OffReb,,Team,
+421,4,9:29.0,77,89,DEN,PHO,0,home,Sub,,,,,J. Lauvergne,J. Nurkić
+422,4,9:15.0,77,89,DEN,PHO,14,home,JS,,6,miss2,0,D. Gallinari,
+423,4,9:14.0,77,89,DEN,PHO,1,away,DefReb,,,DefReb,,M. Morris,
+424,4,9:01.0,77,89,DEN,PHO,13,home,DefGoaltending,,,DefGoaltending,,W. Barton,
+425,4,9:01.0,77,91,DEN,PHO,0,away,JS,assist,4,make2,2,T. Warren,E. Bledsoe
+426,4,8:41.0,77,91,DEN,PHO,20,home,JS,,13,miss2,0,T. Lawson,
+427,4,8:39.0,77,91,DEN,PHO,2,away,DefReb,,,DefReb,,Team,
+428,4,8:39.0,77,91,DEN,PHO,0,away,Timeout,,,,,,
+429,4,8:25.0,77,91,DEN,PHO,14,away,JS,,20,miss2,0,G. Green,
+430,4,8:23.0,77,91,DEN,PHO,2,home,DefReb,,,DefReb,,J. Lauvergne,
+431,4,7:59.0,80,91,DEN,PHO,24,home,JS,assist,25,make3,3,D. Gallinari,J. Lauvergne
+432,4,7:38.0,80,91,DEN,PHO,21,away,JS,,5,miss2,0,B. Wright,
+433,4,7:37.0,80,91,DEN,PHO,1,home,DefReb,,,DefReb,,D. Gallinari,
+434,4,7:17.0,83,91,DEN,PHO,20,home,JS,assist,24,make3,3,T. Lawson,W. Barton
+435,4,7:17.0,83,91,DEN,PHO,0,away,Timeout,,,,,,
+436,4,7:17.0,83,91,DEN,PHO,0,away,Sub,,,,,A. Len,G. Green
+437,4,7:17.0,83,91,DEN,PHO,0,away,Sub,,,,,P. Tucker,B. Wright
+438,4,7:17.0,83,91,DEN,PHO,0,away,Sub,,,,,B. Knight,M. Morris
+439,4,7:04.0,83,91,DEN,PHO,13,away,JS,,17,miss2,0,E. Bledsoe,
+440,4,7:03.0,83,91,DEN,PHO,1,away,OffReb,,,OffReb,,A. Len,
+441,4,6:53.0,83,91,DEN,PHO,10,away,BadPass,steal,,turnover,,E. Bledsoe,G. Harris
+442,4,6:50.0,83,91,DEN,PHO,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,J. Lauvergne
+443,4,6:50.0,84,91,DEN,PHO,0,home,FreeThrow,,,make1,1,J. Lauvergne,
+444,4,6:50.0,85,91,DEN,PHO,0,home,FreeThrow,,,make1,1,J. Lauvergne,
+445,4,6:30.0,85,91,DEN,PHO,20,away,LU,block,0,miss2,0,A. Len,W. Barton
+446,4,6:28.0,85,91,DEN,PHO,2,away,OffReb,,,OffReb,,P. Tucker,
+447,4,6:27.0,85,93,DEN,PHO,1,away,LU,,1,make2,2,P. Tucker,
+448,4,6:14.0,85,93,DEN,PHO,13,home,BadPass,steal,,turnover,,G. Harris,E. Bledsoe
+449,4,6:09.0,85,95,DEN,PHO,5,away,LU,,2,make2,2,E. Bledsoe,
+450,4,6:00.0,85,95,DEN,PHO,9,home,JS,,24,miss3,0,G. Harris,
+451,4,5:58.0,85,95,DEN,PHO,2,away,DefReb,,,DefReb,,E. Bledsoe,
+452,4,5:40.0,85,95,DEN,PHO,18,away,Traveling,,,turnover,,T. Warren,
+453,4,5:29.0,85,95,DEN,PHO,11,home,JS,,26,miss3,0,D. Gallinari,
+454,4,5:27.0,85,95,DEN,PHO,2,away,DefReb,,,DefReb,,E. Bledsoe,
+455,4,5:19.0,85,98,DEN,PHO,8,away,JS,assist,26,make3,3,B. Knight,E. Bledsoe
+456,4,5:02.0,87,98,DEN,PHO,17,home,JS,assist,7,make2,2,G. Harris,T. Lawson
+457,4,4:49.0,87,101,DEN,PHO,13,away,JS,,26,make3,3,B. Knight,
+458,4,4:49.0,87,101,DEN,PHO,0,home,Timeout,,,,,,
+459,4,4:25.0,87,101,DEN,PHO,24,home,LU,,1,miss2,0,G. Harris,
+460,4,4:24.0,87,101,DEN,PHO,1,away,DefReb,,,DefReb,,A. Len,
+461,4,4:02.0,87,101,DEN,PHO,22,away,JS,,25,miss3,0,P. Tucker,
+462,4,4:00.0,87,101,DEN,PHO,2,home,DefReb,,,DefReb,,T. Lawson,
+463,4,3:53.0,87,101,DEN,PHO,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Bledsoe,T. Lawson
+464,4,3:53.0,87,101,DEN,PHO,0,home,Sub,,,,,R. Foye,G. Harris
+465,4,3:37.0,90,101,DEN,PHO,16,home,JS,assist,25,make3,3,W. Barton,T. Lawson
+466,4,3:14.0,90,101,DEN,PHO,23,away,JS,,22,miss2,0,B. Knight,
+467,4,3:14.0,90,101,DEN,PHO,0,home,DefReb,,,DefReb,,Team,
+468,4,3:06.0,92,101,DEN,PHO,8,home,JS,,12,make2,2,T. Lawson,
+469,4,2:45.0,92,101,DEN,PHO,21,away,HS,,5,miss2,0,P. Tucker,
+470,4,2:44.0,92,101,DEN,PHO,1,away,OffReb,,,OffReb,,P. Tucker,
+471,4,2:42.0,92,101,DEN,PHO,2,away,JS,,4,miss2,0,P. Tucker,
+472,4,2:40.0,92,101,DEN,PHO,2,away,OffReb,,,OffReb,,A. Len,
+473,4,2:40.0,92,101,DEN,PHO,0,away,LU,,0,miss2,0,A. Len,
+474,4,2:38.0,92,101,DEN,PHO,2,away,OffReb,,,OffReb,,A. Len,
+475,4,2:35.0,92,103,DEN,PHO,3,away,LU,,1,make2,2,A. Len,
+476,4,2:21.0,92,103,DEN,PHO,14,home,JS,,25,miss3,0,R. Foye,
+477,4,2:19.0,92,103,DEN,PHO,2,away,DefReb,,,DefReb,,B. Knight,
+478,4,2:05.0,92,106,DEN,PHO,14,away,JS,assist,26,make3,3,E. Bledsoe,B. Knight
+479,4,2:05.0,92,106,DEN,PHO,0,home,Timeout,,,,,,
+480,4,1:47.0,92,106,DEN,PHO,18,home,JS,,24,miss3,0,T. Lawson,
+481,4,1:46.0,92,106,DEN,PHO,1,away,DefReb,,,DefReb,,T. Warren,
+482,4,1:33.0,92,106,DEN,PHO,13,away,JS,,25,miss3,0,E. Bledsoe,
+483,4,1:31.0,92,106,DEN,PHO,2,home,DefReb,,,DefReb,,J. Lauvergne,
+484,4,1:27.0,92,106,DEN,PHO,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Warren,W. Barton
+485,4,1:27.0,93,106,DEN,PHO,0,home,FreeThrow,,,make1,1,W. Barton,
+486,4,1:27.0,93,106,DEN,PHO,0,away,Sub,,,,,A. Goodwin,E. Bledsoe
+487,4,1:27.0,93,106,DEN,PHO,0,away,Sub,,,,,E. Barron,A. Len
+488,4,1:27.0,94,106,DEN,PHO,0,home,FreeThrow,,,make1,1,W. Barton,
+489,4,1:02.0,94,106,DEN,PHO,25,away,JS,,16,miss2,0,A. Goodwin,
+490,4,1:01.0,94,106,DEN,PHO,1,home,DefReb,,,DefReb,,T. Lawson,
+491,4,0:59.0,96,106,DEN,PHO,2,home,LU,assist,1,make2,2,W. Barton,T. Lawson
+492,4,0:40.0,96,108,DEN,PHO,19,away,JS,,19,make2,2,B. Knight,
+493,4,0:30.0,96,108,DEN,PHO,10,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,E. Barron,J. Lauvergne
+494,4,0:30.0,96,108,DEN,PHO,0,home,FreeThrow,,,make1,0,J. Lauvergne,
+495,4,0:30.0,96,108,DEN,PHO,0,home,OffReb,,,OffReb,,Team,
+496,4,0:30.0,96,108,DEN,PHO,0,away,Sub,,,,,R. Bullock,P. Tucker
+497,4,0:30.0,96,108,DEN,PHO,0,home,FreeThrow,,,make1,0,J. Lauvergne,
+498,4,0:28.0,96,108,DEN,PHO,2,away,DefReb,,,DefReb,,B. Knight,
+499,4,0:11.0,96,110,DEN,PHO,17,away,LU,,0,make2,2,R. Bullock,

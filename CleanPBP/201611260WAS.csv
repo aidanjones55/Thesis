@@ -1,0 +1,432 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,2,0,WAS,SAS,19,home,HS,assist,7,make2,2,M. Gortat,B. Beal
+1,1,11:14.0,2,2,WAS,SAS,27,away,JS,,16,make2,2,P. Gasol,
+2,1,10:55.0,2,2,WAS,SAS,19,home,JS,,12,miss2,0,M. Morris,
+3,1,10:53.0,2,2,WAS,SAS,2,away,DefReb,,,DefReb,,L. Aldridge,
+4,1,10:43.0,2,4,WAS,SAS,10,away,JS,assist,19,make2,2,L. Aldridge,T. Parker
+5,1,10:27.0,4,4,WAS,SAS,16,home,JS,,16,make2,2,J. Wall,
+6,1,10:12.0,4,4,WAS,SAS,15,away,JS,,27,miss3,0,K. Leonard,
+7,1,10:11.0,4,4,WAS,SAS,1,home,DefReb,,,DefReb,,M. Gortat,
+8,1,10:04.0,7,4,WAS,SAS,7,home,JS,,26,make3,3,B. Beal,
+9,1,9:35.0,7,4,WAS,SAS,29,away,JS,,19,miss2,0,L. Aldridge,
+10,1,9:34.0,7,4,WAS,SAS,1,home,DefReb,,,DefReb,,O. Porter,
+11,1,9:23.0,9,4,WAS,SAS,11,home,JS,,14,make2,2,M. Morris,
+12,1,9:05.0,9,4,WAS,SAS,18,away,JS,,16,miss2,0,P. Gasol,
+13,1,9:04.0,9,4,WAS,SAS,1,home,DefReb,,,DefReb,,Team,
+14,1,8:58.0,9,4,WAS,SAS,6,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,L. Aldridge,M. Gortat
+15,1,8:49.0,9,4,WAS,SAS,9,home,JS,,14,miss2,0,B. Beal,
+16,1,8:49.0,9,4,WAS,SAS,0,away,DefReb,,,DefReb,,Team,
+17,1,8:39.0,9,4,WAS,SAS,10,away,JS,,18,miss2,0,T. Parker,
+18,1,8:37.0,9,4,WAS,SAS,2,home,DefReb,,,DefReb,,Team,
+19,1,8:22.0,9,4,WAS,SAS,15,home,HS,,7,miss2,0,M. Gortat,
+20,1,8:21.0,9,4,WAS,SAS,1,away,DefReb,,,DefReb,,L. Aldridge,
+21,1,8:02.0,9,6,WAS,SAS,19,away,HS,,6,make2,2,L. Aldridge,
+22,1,7:46.0,9,6,WAS,SAS,16,home,JS,,12,miss2,0,J. Wall,
+23,1,7:44.0,9,6,WAS,SAS,2,away,DefReb,,,DefReb,,P. Gasol,
+24,1,7:32.0,9,8,WAS,SAS,12,away,JS,,5,make2,2,K. Leonard,
+25,1,7:32.0,9,8,WAS,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,K. Leonard
+26,1,7:32.0,9,9,WAS,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+27,1,7:15.0,12,9,WAS,SAS,17,home,JS,assist,25,make3,3,M. Morris,J. Wall
+28,1,6:58.0,12,12,WAS,SAS,17,away,JS,,27,make3,3,K. Leonard,
+29,1,6:33.0,12,12,WAS,SAS,25,home,BadPass,steal,,turnover,,M. Morris,L. Aldridge
+30,1,6:17.0,12,12,WAS,SAS,16,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,M. Morris,K. Leonard
+31,1,6:17.0,12,12,WAS,SAS,0,away,Timeout,,,,,,
+32,1,6:17.0,12,12,WAS,SAS,0,home,Sub,,,,,A. Nicholson,M. Morris
+33,1,6:02.0,12,12,WAS,SAS,15,away,JS,,25,miss3,0,K. Leonard,
+34,1,6:00.0,12,12,WAS,SAS,2,home,DefReb,,,DefReb,,O. Porter,
+35,1,5:48.0,14,12,WAS,SAS,12,home,JS,,11,make2,2,J. Wall,
+36,1,5:29.0,14,12,WAS,SAS,19,away,BadPass,steal,,turnover,,T. Parker,J. Wall
+37,1,5:21.0,14,12,WAS,SAS,8,home,JS,,18,miss2,0,B. Beal,
+38,1,5:20.0,14,12,WAS,SAS,1,away,DefReb,,,DefReb,,D. Green,
+39,1,5:19.0,14,12,WAS,SAS,1,away,LostBall,,,turnover,,D. Green,
+40,1,5:19.0,14,12,WAS,SAS,0,away,Sub,,,,,D. Lee,P. Gasol
+41,1,5:16.0,14,12,WAS,SAS,3,away,Sub,,,,,P. Mills,T. Parker
+42,1,5:06.0,14,12,WAS,SAS,10,home,LostBall,steal,,turnover,,J. Wall,K. Leonard
+43,1,4:59.0,14,12,WAS,SAS,7,away,JS,,27,miss3,0,D. Green,
+44,1,4:58.0,14,12,WAS,SAS,1,home,DefReb,,,DefReb,,M. Gortat,
+45,1,4:47.0,14,12,WAS,SAS,11,home,JS,,26,miss3,0,A. Nicholson,
+46,1,4:45.0,14,12,WAS,SAS,2,away,DefReb,,,DefReb,,D. Green,
+47,1,4:34.0,14,12,WAS,SAS,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Nicholson,K. Leonard
+48,1,4:34.0,14,12,WAS,SAS,0,away,Sub,,,,,J. Simmons,D. Green
+49,1,4:34.0,14,12,WAS,SAS,0,home,Sub,,,,,I. Mahinmi,M. Gortat
+50,1,4:30.0,14,15,WAS,SAS,4,away,JS,assist,25,make3,3,P. Mills,J. Simmons
+51,1,4:16.0,14,15,WAS,SAS,14,home,JS,,11,miss2,0,O. Porter,
+52,1,4:14.0,14,15,WAS,SAS,2,away,DefReb,,,DefReb,,D. Lee,
+53,1,4:05.0,14,17,WAS,SAS,9,away,JS,,18,make2,2,P. Mills,
+54,1,3:52.0,14,17,WAS,SAS,13,home,JS,,12,miss2,0,J. Wall,
+55,1,3:50.0,14,17,WAS,SAS,2,away,DefReb,,,DefReb,,L. Aldridge,
+56,1,3:46.0,14,17,WAS,SAS,4,away,JS,,26,miss3,0,P. Mills,
+57,1,3:44.0,14,17,WAS,SAS,2,home,DefReb,,,DefReb,,A. Nicholson,
+58,1,3:27.0,14,17,WAS,SAS,17,home,JS,,13,miss2,0,B. Beal,
+59,1,3:25.0,14,17,WAS,SAS,2,home,OffReb,,,OffReb,,O. Porter,
+60,1,3:24.0,16,17,WAS,SAS,1,home,LU,,2,make2,2,O. Porter,
+61,1,3:24.0,16,17,WAS,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Leonard,O. Porter
+62,1,3:24.0,17,17,WAS,SAS,0,home,FreeThrow,,,make1,1,O. Porter,
+63,1,3:12.0,17,17,WAS,SAS,12,away,JS,,23,miss3,0,L. Aldridge,
+64,1,3:10.0,17,17,WAS,SAS,2,home,DefReb,,,DefReb,,B. Beal,
+65,1,2:53.0,17,17,WAS,SAS,17,home,JS,,26,miss3,0,A. Nicholson,
+66,1,2:52.0,17,17,WAS,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+67,1,2:41.0,17,17,WAS,SAS,11,away,JS,,14,miss2,0,D. Lee,
+68,1,2:40.0,17,17,WAS,SAS,1,home,DefReb,,,DefReb,,B. Beal,
+69,1,2:23.0,17,17,WAS,SAS,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Lee,O. Porter
+70,1,2:23.0,17,17,WAS,SAS,0,home,Timeout,,,,,,
+71,1,2:23.0,17,17,WAS,SAS,0,home,Sub,,,,,T. Satoranský,J. Wall
+72,1,2:23.0,17,17,WAS,SAS,0,away,Sub,,,,,K. Anderson,K. Leonard
+73,1,2:23.0,17,17,WAS,SAS,0,away,Sub,,,,,D. Bertāns,L. Aldridge
+74,1,2:09.0,17,17,WAS,SAS,14,home,JS,,14,miss2,0,T. Satoranský,
+75,1,2:07.0,17,17,WAS,SAS,2,away,DefReb,,,DefReb,,K. Anderson,
+76,1,1:57.0,17,17,WAS,SAS,10,away,BadPass,steal,,turnover,,J. Simmons,T. Satoranský
+77,1,1:51.0,17,17,WAS,SAS,6,home,JS,block,5,miss2,0,A. Nicholson,D. Bertāns
+78,1,1:50.0,17,17,WAS,SAS,1,away,DefReb,,,DefReb,,P. Mills,
+79,1,1:45.0,17,19,WAS,SAS,5,away,LU,assist,0,make2,2,D. Lee,P. Mills
+80,1,1:18.0,20,19,WAS,SAS,27,home,JS,assist,25,make3,3,B. Beal,T. Satoranský
+81,1,1:04.0,20,19,WAS,SAS,14,away,JS,,25,miss3,0,D. Bertāns,
+82,1,1:03.0,20,19,WAS,SAS,1,home,DefReb,,,DefReb,,O. Porter,
+83,1,1:00.0,20,19,WAS,SAS,3,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Nicholson,D. Bertāns
+84,1,1:00.0,20,19,WAS,SAS,0,home,OffensiveFoul,,,turnover,,A. Nicholson,
+85,1,0:50.0,20,21,WAS,SAS,10,away,DK,assist,0,make2,2,D. Lee,P. Mills
+86,1,0:35.0,22,21,WAS,SAS,15,home,JS,assist,20,make2,2,B. Beal,O. Porter
+87,1,0:24.0,22,23,WAS,SAS,11,away,JS,assist,16,make2,2,J. Simmons,D. Lee
+88,1,0:06.0,22,23,WAS,SAS,18,home,PersonalTakeFoul,,,PersonalTakeFoul,,P. Mills,
+89,1,0:01.0,22,23,WAS,SAS,5,home,JS,,29,miss3,0,B. Beal,
+90,1,0:00.0,22,23,WAS,SAS,1,away,DefReb,,,DefReb,,Team,
+91,2,11:41.0,22,23,WAS,SAS,19,away,JS,block,6,miss2,0,D. Lee,I. Mahinmi
+92,2,11:41.0,22,23,WAS,SAS,0,away,OffReb,,,OffReb,,Team,
+93,2,11:37.0,22,26,WAS,SAS,4,away,JS,assist,25,make3,3,P. Mills,D. Bertāns
+94,2,11:19.0,22,26,WAS,SAS,18,home,JS,,25,miss3,0,T. Satoranský,
+95,2,11:17.0,22,26,WAS,SAS,2,away,DefReb,,,DefReb,,D. Lee,
+96,2,11:08.0,22,26,WAS,SAS,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Satoranský,J. Simmons
+97,2,11:08.0,22,27,WAS,SAS,0,away,FreeThrow,,,make1,1,J. Simmons,
+98,2,11:08.0,22,27,WAS,SAS,0,away,Sub,,,,,P. Gasol,D. Lee
+99,2,11:08.0,22,28,WAS,SAS,0,away,FreeThrow,,,make1,1,J. Simmons,
+100,2,10:54.0,22,28,WAS,SAS,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Simmons,T. Satoranský
+101,2,10:54.0,22,28,WAS,SAS,0,away,Sub,,,,,T. Parker,P. Mills
+102,2,10:51.0,22,28,WAS,SAS,3,home,LostBall,,,turnover,,I. Mahinmi,
+103,2,10:39.0,22,28,WAS,SAS,12,away,LostBall,steal,,turnover,,P. Gasol,I. Mahinmi
+104,2,10:32.0,22,28,WAS,SAS,7,home,JS,,25,miss3,0,K. Oubre,
+105,2,10:31.0,22,28,WAS,SAS,1,home,OffReb,,,OffReb,,M. Thornton,
+106,2,10:29.0,22,28,WAS,SAS,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Gasol,K. Oubre
+107,2,10:29.0,23,28,WAS,SAS,0,home,FreeThrow,,,make1,1,K. Oubre,
+108,2,10:29.0,23,28,WAS,SAS,0,home,FreeThrow,,,make1,0,K. Oubre,
+109,2,10:29.0,23,28,WAS,SAS,0,home,Sub,,,,,J. Wall,T. Satoranský
+110,2,10:27.0,23,28,WAS,SAS,2,away,DefReb,,,DefReb,,P. Gasol,
+111,2,10:04.0,23,28,WAS,SAS,23,away,JS,,22,miss3,0,P. Gasol,
+112,2,10:04.0,23,28,WAS,SAS,0,home,DefReb,,,DefReb,,K. Oubre,
+113,2,9:53.0,25,28,WAS,SAS,11,home,JS,,19,make2,2,M. Thornton,
+114,2,9:36.0,25,30,WAS,SAS,17,away,LU,assist,3,make2,2,K. Anderson,J. Simmons
+115,2,9:24.0,25,30,WAS,SAS,12,home,JS,,25,miss3,0,M. Thornton,
+116,2,9:24.0,25,30,WAS,SAS,0,away,DefReb,,,DefReb,,Team,
+117,2,9:24.0,25,30,WAS,SAS,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,I. Mahinmi,P. Gasol
+118,2,9:24.0,25,30,WAS,SAS,0,home,Sub,,,,,M. Gortat,I. Mahinmi
+119,2,9:24.0,25,30,WAS,SAS,0,home,Sub,,,,,O. Porter,K. Oubre
+120,2,9:10.0,25,30,WAS,SAS,14,away,JS,,19,miss2,0,T. Parker,
+121,2,9:08.0,25,30,WAS,SAS,2,home,DefReb,,,DefReb,,M. Gortat,
+122,2,9:01.0,25,30,WAS,SAS,7,home,LostBall,,,turnover,,J. Wall,
+123,2,9:01.0,25,30,WAS,SAS,0,away,Sub,,,,,D. Green,J. Simmons
+124,2,8:49.0,25,32,WAS,SAS,12,away,LU,assist,3,make2,2,T. Parker,P. Gasol
+125,2,8:30.0,27,32,WAS,SAS,19,home,JS,assist,20,make2,2,J. Smith,M. Gortat
+126,2,8:30.0,27,32,WAS,SAS,0,away,Timeout,,,,,,
+127,2,8:30.0,27,32,WAS,SAS,0,away,Sub,,,,,L. Aldridge,K. Anderson
+128,2,8:30.0,27,32,WAS,SAS,0,away,Sub,,,,,K. Leonard,D. Bertāns
+129,2,8:19.0,27,32,WAS,SAS,11,away,JS,,25,miss3,0,D. Green,
+130,2,8:18.0,27,32,WAS,SAS,1,home,DefReb,,,DefReb,,M. Gortat,
+131,2,8:04.0,27,32,WAS,SAS,14,home,JS,,16,miss2,0,J. Wall,
+132,2,8:02.0,27,32,WAS,SAS,2,away,DefReb,,,DefReb,,P. Gasol,
+133,2,7:52.0,27,32,WAS,SAS,10,away,LU,,2,miss2,0,T. Parker,
+134,2,7:51.0,27,32,WAS,SAS,1,away,OffReb,,,OffReb,,T. Parker,
+135,2,7:51.0,27,32,WAS,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Gortat,T. Parker
+136,2,7:51.0,27,33,WAS,SAS,0,away,FreeThrow,,,make1,1,T. Parker,
+137,2,7:51.0,27,34,WAS,SAS,0,away,FreeThrow,,,make1,1,T. Parker,
+138,2,7:41.0,27,34,WAS,SAS,10,home,JS,,19,miss2,0,J. Smith,
+139,2,7:40.0,27,34,WAS,SAS,1,home,OffReb,,,OffReb,,O. Porter,
+140,2,7:37.0,27,34,WAS,SAS,3,home,LU,,2,miss2,0,O. Porter,
+141,2,7:36.0,27,34,WAS,SAS,1,away,DefReb,,,DefReb,,P. Gasol,
+142,2,7:32.0,27,36,WAS,SAS,4,away,JS,,4,make2,2,T. Parker,
+143,2,7:32.0,27,36,WAS,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,T. Parker
+144,2,7:32.0,27,36,WAS,SAS,0,home,Sub,,,,,M. Morris,J. Smith
+145,2,7:32.0,27,37,WAS,SAS,0,away,FreeThrow,,,make1,1,T. Parker,
+146,2,7:19.0,27,37,WAS,SAS,13,home,JS,,4,miss2,0,M. Gortat,
+147,2,7:18.0,27,37,WAS,SAS,1,away,DefReb,,,DefReb,,P. Gasol,
+148,2,7:13.0,27,37,WAS,SAS,5,away,LostBall,steal,,turnover,,K. Leonard,O. Porter
+149,2,7:04.0,27,37,WAS,SAS,9,home,JS,,24,miss3,0,M. Morris,
+150,2,7:03.0,27,37,WAS,SAS,1,away,DefReb,,,DefReb,,D. Green,
+151,2,6:52.0,27,37,WAS,SAS,11,away,LostBall,steal,,turnover,,P. Gasol,M. Thornton
+152,2,6:46.0,29,37,WAS,SAS,6,home,DK,assist,0,make2,2,O. Porter,M. Thornton
+153,2,6:22.0,29,39,WAS,SAS,24,away,JS,,10,make2,2,T. Parker,
+154,2,6:13.0,29,39,WAS,SAS,9,home,LostBall,steal,,turnover,,M. Gortat,K. Leonard
+155,2,6:03.0,29,39,WAS,SAS,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Wall,K. Leonard
+156,2,6:03.0,29,40,WAS,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+157,2,6:03.0,29,40,WAS,SAS,0,home,Sub,,,,,B. Beal,M. Thornton
+158,2,6:03.0,29,41,WAS,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+159,2,6:03.0,29,41,WAS,SAS,0,home,Timeout,,,,,,
+160,2,5:51.0,29,41,WAS,SAS,12,home,JS,,3,miss2,0,M. Morris,
+161,2,5:51.0,29,41,WAS,SAS,0,home,OffReb,,,OffReb,,Team,
+162,2,5:40.0,29,41,WAS,SAS,11,home,LU,block,3,miss2,0,B. Beal,D. Green
+163,2,5:37.0,29,41,WAS,SAS,3,away,DefReb,,,DefReb,,L. Aldridge,
+164,2,5:19.0,29,41,WAS,SAS,18,away,JS,,8,miss2,0,L. Aldridge,
+165,2,5:18.0,29,41,WAS,SAS,1,home,DefReb,,,DefReb,,O. Porter,
+166,2,5:10.0,29,41,WAS,SAS,8,home,JS,,23,miss3,0,B. Beal,
+167,2,5:09.0,29,41,WAS,SAS,1,away,DefReb,,,DefReb,,P. Gasol,
+168,2,4:48.0,29,41,WAS,SAS,21,away,JS,,23,miss3,0,K. Leonard,
+169,2,4:47.0,29,41,WAS,SAS,1,home,DefReb,,,DefReb,,O. Porter,
+170,2,4:42.0,31,41,WAS,SAS,5,home,DK,assist,0,make2,2,B. Beal,O. Porter
+171,2,4:25.0,31,43,WAS,SAS,17,away,JS,,20,make2,2,T. Parker,
+172,2,4:14.0,31,43,WAS,SAS,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,B. Beal
+173,2,4:14.0,31,43,WAS,SAS,0,away,Sub,,,,,P. Mills,T. Parker
+174,2,4:14.0,31,43,WAS,SAS,0,away,Sub,,,,,D. Lee,P. Gasol
+175,2,4:09.0,31,43,WAS,SAS,5,home,JS,,20,miss2,0,B. Beal,
+176,2,4:07.0,31,43,WAS,SAS,2,home,OffReb,,,OffReb,,B. Beal,
+177,2,4:00.0,33,43,WAS,SAS,7,home,LU,,1,make2,2,O. Porter,
+178,2,3:42.0,33,43,WAS,SAS,18,away,LU,,1,miss2,0,K. Leonard,
+179,2,3:40.0,33,43,WAS,SAS,2,home,DefReb,,,DefReb,,B. Beal,
+180,2,3:34.0,36,43,WAS,SAS,6,home,JS,assist,26,make3,3,O. Porter,J. Wall
+181,2,3:33.0,36,43,WAS,SAS,1,away,Timeout,,,,,,
+182,2,3:11.0,36,46,WAS,SAS,22,away,JS,assist,25,make3,3,D. Green,K. Leonard
+183,2,3:00.0,38,46,WAS,SAS,11,home,JS,,19,make2,2,O. Porter,
+184,2,2:43.0,38,48,WAS,SAS,17,away,HS,,7,make2,2,L. Aldridge,
+185,2,2:34.0,38,48,WAS,SAS,9,home,JS,,13,miss2,0,J. Wall,
+186,2,2:33.0,38,48,WAS,SAS,1,away,DefReb,,,DefReb,,P. Mills,
+187,2,2:26.0,38,48,WAS,SAS,7,away,Timeout,,,,,,
+188,2,2:26.0,38,48,WAS,SAS,0,away,Sub,,,,,J. Simmons,D. Green
+189,2,2:20.0,38,51,WAS,SAS,6,away,JS,assist,26,make3,3,J. Simmons,P. Mills
+190,2,2:01.0,38,51,WAS,SAS,19,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Simmons,J. Wall
+191,2,1:51.0,38,51,WAS,SAS,10,home,JS,,27,miss3,0,B. Beal,
+192,2,1:49.0,38,51,WAS,SAS,2,away,DefReb,,,DefReb,,D. Lee,
+193,2,1:31.0,38,53,WAS,SAS,18,away,JS,assist,20,make2,2,L. Aldridge,K. Leonard
+194,2,1:20.0,40,53,WAS,SAS,11,home,JS,,13,make2,2,B. Beal,
+195,2,0:58.0,40,53,WAS,SAS,22,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,O. Porter,L. Aldridge
+196,2,0:58.0,40,54,WAS,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
+197,2,0:58.0,40,54,WAS,SAS,0,away,FreeThrow,,,make1,0,L. Aldridge,
+198,2,0:55.0,40,54,WAS,SAS,3,home,DefReb,,,DefReb,,M. Gortat,
+199,2,0:48.0,42,54,WAS,SAS,7,home,HS,assist,5,make2,2,M. Gortat,B. Beal
+200,2,0:29.0,42,54,WAS,SAS,19,away,JS,,25,miss3,0,K. Leonard,
+201,2,0:27.0,42,54,WAS,SAS,2,home,DefReb,,,DefReb,,J. Wall,
+202,2,0:10.0,44,54,WAS,SAS,17,home,LU,assist,0,make2,2,M. Gortat,J. Wall
+203,2,0:01.0,44,54,WAS,SAS,9,away,JS,,13,miss2,0,K. Leonard,
+204,2,0:00.0,44,54,WAS,SAS,1,away,OffReb,,,OffReb,,Team,
+205,3,11:44.0,44,57,WAS,SAS,16,away,JS,assist,25,make3,3,D. Green,K. Leonard
+206,3,11:26.0,44,57,WAS,SAS,18,home,LostBall,steal,,turnover,,J. Wall,K. Leonard
+207,3,11:19.0,44,59,WAS,SAS,7,away,DK,,0,make2,2,K. Leonard,
+208,3,11:08.0,44,59,WAS,SAS,11,home,LU,,1,miss2,0,M. Morris,
+209,3,11:07.0,44,59,WAS,SAS,1,home,OffReb,,,OffReb,,M. Morris,
+210,3,11:06.0,44,59,WAS,SAS,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Parker,M. Morris
+211,3,11:06.0,45,59,WAS,SAS,0,home,FreeThrow,,,make1,1,M. Morris,
+212,3,11:06.0,46,59,WAS,SAS,0,home,FreeThrow,,,make1,1,M. Morris,
+213,3,10:44.0,46,59,WAS,SAS,22,away,JS,,17,miss2,0,L. Aldridge,
+214,3,10:43.0,46,59,WAS,SAS,1,home,DefReb,,,DefReb,,J. Wall,
+215,3,10:32.0,48,59,WAS,SAS,11,home,DK,assist,0,make2,2,M. Morris,J. Wall
+216,3,10:11.0,48,59,WAS,SAS,21,away,LostBall,,,turnover,,T. Parker,
+217,3,10:04.0,48,59,WAS,SAS,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Gasol,J. Wall
+218,3,10:04.0,48,59,WAS,SAS,0,home,FreeThrow,,,make1,0,J. Wall,
+219,3,10:04.0,48,59,WAS,SAS,0,home,OffReb,,,OffReb,,Team,
+220,3,10:04.0,49,59,WAS,SAS,0,home,FreeThrow,,,make1,1,J. Wall,
+221,3,9:41.0,49,61,WAS,SAS,23,away,JS,assist,20,make2,2,L. Aldridge,D. Green
+222,3,9:25.0,52,61,WAS,SAS,16,home,JS,assist,26,make3,3,B. Beal,M. Morris
+223,3,9:22.0,52,61,WAS,SAS,3,away,Timeout,,,,,,
+224,3,9:12.0,52,61,WAS,SAS,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Porter,K. Leonard
+225,3,9:02.0,52,61,WAS,SAS,10,away,LostBall,steal,,turnover,,K. Leonard,M. Morris
+226,3,8:58.0,52,61,WAS,SAS,4,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,O. Porter,D. Green
+227,3,8:58.0,52,61,WAS,SAS,0,home,OffensiveFoul,,,turnover,,O. Porter,
+228,3,8:37.0,52,63,WAS,SAS,21,away,JS,,20,make2,2,T. Parker,
+229,3,8:17.0,55,63,WAS,SAS,20,home,JS,assist,25,make3,3,M. Morris,B. Beal
+230,3,8:08.0,55,63,WAS,SAS,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Wall,T. Parker
+231,3,8:01.0,55,65,WAS,SAS,7,away,JS,assist,17,make2,2,P. Gasol,T. Parker
+232,3,7:44.0,55,65,WAS,SAS,17,home,JS,,17,miss2,0,M. Morris,
+233,3,7:43.0,55,65,WAS,SAS,1,away,DefReb,,,DefReb,,P. Gasol,
+234,3,7:33.0,55,65,WAS,SAS,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,L. Aldridge
+235,3,7:30.0,55,65,WAS,SAS,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,L. Aldridge
+236,3,7:30.0,55,65,WAS,SAS,0,home,TechnicalFoul,,,TechnicalFoul,,M. Morris,
+237,3,7:30.0,55,65,WAS,SAS,0,home,TechnicalFoul,,,TechnicalFoul,,M. Morris,
+238,3,7:30.0,55,66,WAS,SAS,0,away,FreeThrow,,,make1,1,K. Leonard makes technical free throw,
+239,3,7:30.0,55,65,WAS,SAS,0,home,Sub,,,,,J. Smith,M. Morris
+240,3,7:30.0,55,67,WAS,SAS,0,away,FreeThrow,,,make1,1,K. Leonard makes technical free throw,
+241,3,7:17.0,55,67,WAS,SAS,13,away,JS,,9,miss2,0,L. Aldridge,
+242,3,7:16.0,55,67,WAS,SAS,1,home,DefReb,,,DefReb,,B. Beal,
+243,3,7:05.0,55,67,WAS,SAS,11,home,JS,,18,miss2,0,J. Smith,
+244,3,7:03.0,55,67,WAS,SAS,2,away,DefReb,,,DefReb,,D. Green,
+245,3,6:55.0,55,67,WAS,SAS,8,away,JS,,13,miss2,0,T. Parker,
+246,3,6:55.0,55,67,WAS,SAS,0,home,DefReb,,,DefReb,,J. Smith,
+247,3,6:47.0,57,67,WAS,SAS,8,home,LU,assist,2,make2,2,M. Gortat,J. Wall
+248,3,6:27.0,57,67,WAS,SAS,20,away,JS,,23,miss3,0,K. Leonard,
+249,3,6:27.0,57,67,WAS,SAS,0,home,DefReb,,,DefReb,,O. Porter,
+250,3,6:22.0,59,67,WAS,SAS,5,home,LU,assist,2,make2,2,B. Beal,O. Porter
+251,3,6:02.0,59,69,WAS,SAS,20,away,JS,,19,make2,2,T. Parker,
+252,3,5:55.0,61,69,WAS,SAS,7,home,LU,,1,make2,2,J. Wall,
+253,3,5:55.0,61,69,WAS,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Aldridge,J. Wall
+254,3,5:55.0,62,69,WAS,SAS,0,home,FreeThrow,,,make1,1,J. Wall,
+255,3,5:34.0,62,71,WAS,SAS,21,away,JS,,12,make2,2,K. Leonard,
+256,3,5:34.0,62,71,WAS,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Wall,K. Leonard
+257,3,5:34.0,62,71,WAS,SAS,0,away,FreeThrow,,,make1,0,K. Leonard,
+258,3,5:34.0,62,71,WAS,SAS,0,away,Sub,,,,,D. Lee,P. Gasol
+259,3,5:34.0,62,71,WAS,SAS,0,away,Sub,,,,,P. Mills,T. Parker
+260,3,5:32.0,62,71,WAS,SAS,2,home,DefReb,,,DefReb,,M. Gortat,
+261,3,5:19.0,62,71,WAS,SAS,13,home,JS,,12,miss2,0,J. Wall,
+262,3,5:18.0,62,71,WAS,SAS,1,home,OffReb,,,OffReb,,M. Gortat,
+263,3,5:15.0,62,71,WAS,SAS,3,home,JS,,7,miss2,0,J. Wall,
+264,3,5:14.0,62,71,WAS,SAS,1,away,DefReb,,,DefReb,,D. Lee,
+265,3,5:01.0,62,71,WAS,SAS,13,away,Sub,,,,,J. Simmons,K. Leonard
+266,3,4:51.0,62,74,WAS,SAS,10,away,JS,assist,26,make3,3,L. Aldridge,D. Green
+267,3,4:43.0,62,74,WAS,SAS,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Simmons,O. Porter
+268,3,4:31.0,64,74,WAS,SAS,12,home,JS,,10,make2,2,B. Beal,
+269,3,4:09.0,64,74,WAS,SAS,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Porter,L. Aldridge
+270,3,4:09.0,64,75,WAS,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
+271,3,4:09.0,64,76,WAS,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
+272,3,4:05.0,64,76,WAS,SAS,4,home,Timeout,,,,,,
+273,3,4:05.0,64,76,WAS,SAS,0,home,Sub,,,,,T. Satoranský,O. Porter
+274,3,4:05.0,64,76,WAS,SAS,0,away,Sub,,,,,D. Bertāns,L. Aldridge
+275,3,3:50.0,66,76,WAS,SAS,15,home,LU,assist,2,make2,2,M. Gortat,T. Satoranský
+276,3,3:40.0,66,76,WAS,SAS,10,away,PersonalFoul,,,,,M. Gortat,
+277,3,3:40.0,66,77,WAS,SAS,0,away,FreeThrow,,,make1,1,P. Mills,
+278,3,3:40.0,66,77,WAS,SAS,0,home,Sub,,,,,I. Mahinmi,M. Gortat
+279,3,3:40.0,66,78,WAS,SAS,0,away,FreeThrow,,,make1,1,P. Mills,
+280,3,3:29.0,68,78,WAS,SAS,11,home,LU,,1,make2,2,J. Wall,
+281,3,3:16.0,68,78,WAS,SAS,13,away,BadPass,,,turnover,,D. Lee,
+282,3,3:08.0,68,78,WAS,SAS,8,home,JS,,23,miss3,0,B. Beal,
+283,3,3:07.0,68,78,WAS,SAS,1,away,DefReb,,,DefReb,,D. Bertāns,
+284,3,2:57.0,68,78,WAS,SAS,10,away,BadPass,steal,,turnover,,P. Mills,T. Satoranský
+285,3,2:53.0,68,78,WAS,SAS,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Simmons,J. Wall
+286,3,2:53.0,69,78,WAS,SAS,0,home,FreeThrow,,,make1,1,J. Wall,
+287,3,2:53.0,69,78,WAS,SAS,0,home,FreeThrow,,,make1,0,J. Wall,
+288,3,2:53.0,69,78,WAS,SAS,0,away,Sub,,,,,K. Leonard,D. Green
+289,3,2:53.0,69,78,WAS,SAS,0,home,Sub,,,,,M. Thornton,B. Beal
+290,3,2:51.0,69,78,WAS,SAS,2,away,DefReb,,,DefReb,,D. Lee,
+291,3,2:31.0,69,81,WAS,SAS,20,away,JS,assist,24,make3,3,P. Mills,J. Simmons
+292,3,2:20.0,69,81,WAS,SAS,11,home,JS,,22,miss3,0,T. Satoranský,
+293,3,2:18.0,69,81,WAS,SAS,2,away,DefReb,,,DefReb,,D. Lee,
+294,3,2:14.0,69,83,WAS,SAS,4,away,DK,assist,0,make2,2,J. Simmons,K. Leonard
+295,3,2:14.0,69,83,WAS,SAS,0,home,Timeout,,,,,,
+296,3,2:07.0,69,83,WAS,SAS,7,home,LostBall,steal,,turnover,,I. Mahinmi,J. Simmons
+297,3,2:07.0,69,83,WAS,SAS,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,I. Mahinmi,J. Simmons
+298,3,2:07.0,69,84,WAS,SAS,0,away,FreeThrow,,,make1,1,J. Simmons,
+299,3,2:07.0,69,85,WAS,SAS,0,away,FreeThrow,,,make1,1,J. Simmons,
+300,3,1:58.0,69,85,WAS,SAS,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Simmons,J. Wall
+301,3,1:58.0,70,85,WAS,SAS,0,home,FreeThrow,,,make1,1,J. Wall,
+302,3,1:58.0,70,85,WAS,SAS,0,away,Sub,,,,,K. Anderson,J. Simmons
+303,3,1:58.0,71,85,WAS,SAS,0,home,FreeThrow,,,make1,1,J. Wall,
+304,3,1:35.0,71,85,WAS,SAS,23,away,JS,,26,miss3,0,D. Bertāns,
+305,3,1:35.0,71,85,WAS,SAS,0,home,DefReb,,,DefReb,,M. Thornton,
+306,3,1:30.0,73,85,WAS,SAS,5,home,LU,assist,2,make2,2,J. Wall,M. Thornton
+307,3,1:14.0,73,87,WAS,SAS,16,away,JS,,17,make2,2,K. Leonard,
+308,3,1:01.0,75,87,WAS,SAS,13,home,JS,assist,18,make2,2,J. Smith,T. Satoranský
+309,3,0:44.0,75,87,WAS,SAS,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Satoranský,K. Leonard
+310,3,0:44.0,75,87,WAS,SAS,0,away,FreeThrow,,,make1,0,K. Leonard,
+311,3,0:44.0,75,87,WAS,SAS,0,away,OffReb,,,OffReb,,Team,
+312,3,0:44.0,75,88,WAS,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+313,3,0:36.0,75,88,WAS,SAS,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lee,I. Mahinmi
+314,3,0:36.0,76,88,WAS,SAS,0,home,FreeThrow,,,make1,1,I. Mahinmi,
+315,3,0:36.0,76,88,WAS,SAS,0,home,FreeThrow,,,make1,0,I. Mahinmi,
+316,3,0:32.0,76,88,WAS,SAS,4,home,OffReb,,,OffReb,,M. Thornton,
+317,3,0:11.0,76,88,WAS,SAS,21,home,JS,,26,miss3,0,J. Wall,
+318,3,0:11.0,76,88,WAS,SAS,0,home,OffReb,,,OffReb,,Team,
+319,3,0:11.0,76,88,WAS,SAS,0,home,ShotClockViolation,,,turnover,,Team,
+320,3,0:02.0,76,88,WAS,SAS,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Satoranský,K. Leonard
+321,3,0:02.0,76,89,WAS,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+322,3,0:02.0,76,90,WAS,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+323,4,11:39.0,76,90,WAS,SAS,21,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Gasol,I. Mahinmi
+324,4,11:39.0,76,90,WAS,SAS,0,away,Sub,,,,,D. Lee,D. Bertāns
+325,4,11:25.0,76,90,WAS,SAS,14,home,JS,,23,miss3,0,J. Smith,
+326,4,11:25.0,76,90,WAS,SAS,0,home,OffReb,,,OffReb,,T. Satoranský,
+327,4,11:25.0,76,90,WAS,SAS,0,home,ShotClockViolation,,,turnover,,Team,
+328,4,11:00.0,76,92,WAS,SAS,25,away,HS,assist,6,make2,2,P. Gasol,J. Simmons
+329,4,10:43.0,76,92,WAS,SAS,17,home,BadPass,steal,,turnover,,T. Satoranský,J. Simmons
+330,4,10:28.0,76,92,WAS,SAS,15,away,LostBall,steal,,turnover,,J. Simmons,B. Beal
+331,4,10:24.0,76,92,WAS,SAS,4,home,LU,block,0,miss2,0,M. Thornton,J. Simmons
+332,4,10:23.0,76,92,WAS,SAS,1,away,DefReb,,,DefReb,,D. Green,
+333,4,9:56.0,76,92,WAS,SAS,27,away,JS,,25,miss3,0,P. Mills,
+334,4,9:54.0,76,92,WAS,SAS,2,home,DefReb,,,DefReb,,I. Mahinmi,
+335,4,9:47.0,76,92,WAS,SAS,7,home,JS,,27,miss3,0,B. Beal,
+336,4,9:42.0,76,92,WAS,SAS,5,home,OffReb,,,OffReb,,J. Smith,
+337,4,9:34.0,78,92,WAS,SAS,8,home,JS,,14,make2,2,B. Beal,
+338,4,9:19.0,78,92,WAS,SAS,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Mahinmi,P. Gasol
+339,4,9:19.0,78,92,WAS,SAS,0,home,Sub,,,,,O. Porter,J. Smith
+340,4,9:19.0,78,92,WAS,SAS,0,home,Sub,,,,,T. Burke,T. Satoranský
+341,4,9:15.0,78,92,WAS,SAS,4,away,JS,,19,miss2,0,P. Mills,
+342,4,9:13.0,78,92,WAS,SAS,2,home,DefReb,,,DefReb,,M. Thornton,
+343,4,8:58.0,78,92,WAS,SAS,15,home,LU,block,2,miss2,0,I. Mahinmi,D. Lee
+344,4,8:56.0,78,92,WAS,SAS,2,home,OffReb,,,OffReb,,B. Beal,
+345,4,8:50.0,78,92,WAS,SAS,6,home,LU,block,2,miss2,0,B. Beal,D. Lee
+346,4,8:49.0,78,92,WAS,SAS,1,away,DefReb,,,DefReb,,P. Mills,
+347,4,8:45.0,78,94,WAS,SAS,4,away,DK,assist,0,make2,2,J. Simmons,P. Mills
+348,4,8:45.0,78,94,WAS,SAS,0,home,Timeout,,,,,,
+349,4,8:45.0,78,94,WAS,SAS,0,away,Sub,,,,,T. Parker,D. Lee
+350,4,8:45.0,78,94,WAS,SAS,0,away,Sub,,,,,L. Aldridge,P. Mills
+351,4,8:45.0,78,94,WAS,SAS,0,away,Sub,,,,,K. Leonard,J. Simmons
+352,4,8:45.0,78,94,WAS,SAS,0,home,Sub,,,,,M. Gortat,I. Mahinmi
+353,4,8:29.0,80,94,WAS,SAS,16,home,JS,assist,11,make2,2,O. Porter,B. Beal
+354,4,8:13.0,80,96,WAS,SAS,16,away,DK,assist,0,make2,2,L. Aldridge,P. Gasol
+355,4,7:55.0,80,96,WAS,SAS,18,home,LostBall,steal,,turnover,,M. Thornton,P. Gasol
+356,4,7:44.0,80,96,WAS,SAS,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Porter,L. Aldridge
+357,4,7:44.0,80,97,WAS,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
+358,4,7:44.0,80,97,WAS,SAS,0,away,Sub,,,,,J. Simmons,D. Green
+359,4,7:44.0,80,98,WAS,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
+360,4,7:36.0,82,98,WAS,SAS,8,home,LU,assist,1,make2,2,T. Burke,B. Beal
+361,4,7:21.0,82,98,WAS,SAS,15,away,JS,,4,miss2,0,L. Aldridge,
+362,4,7:20.0,82,98,WAS,SAS,1,away,OffReb,,,OffReb,,L. Aldridge,
+363,4,7:20.0,82,100,WAS,SAS,0,away,LU,,1,make2,2,L. Aldridge,
+364,4,7:02.0,84,100,WAS,SAS,18,home,JS,,13,make2,2,B. Beal,
+365,4,6:42.0,84,103,WAS,SAS,20,away,JS,assist,23,make3,3,T. Parker,K. Leonard
+366,4,6:31.0,86,103,WAS,SAS,11,home,JS,,17,make2,2,T. Burke,
+367,4,6:14.0,86,103,WAS,SAS,17,away,BadPass,steal,,turnover,,L. Aldridge,O. Porter
+368,4,6:08.0,88,103,WAS,SAS,6,home,LU,,1,make2,2,B. Beal,
+369,4,6:08.0,88,103,WAS,SAS,0,away,Timeout,,,,,,
+370,4,6:08.0,88,103,WAS,SAS,0,home,Sub,,,,,J. Wall,M. Thornton
+371,4,5:46.0,88,103,WAS,SAS,22,away,JS,,26,miss3,0,L. Aldridge,
+372,4,5:44.0,88,103,WAS,SAS,2,away,OffReb,,,OffReb,,J. Simmons,
+373,4,5:44.0,88,105,WAS,SAS,0,away,DK,,0,make2,2,J. Simmons,
+374,4,5:20.0,88,105,WAS,SAS,24,home,JS,,25,miss3,0,T. Burke,
+375,4,5:18.0,88,105,WAS,SAS,2,away,DefReb,,,DefReb,,P. Gasol,
+376,4,4:59.0,88,105,WAS,SAS,19,away,LU,,2,miss2,0,K. Leonard,
+377,4,4:58.0,88,105,WAS,SAS,1,away,OffReb,,,OffReb,,P. Gasol,
+378,4,4:58.0,88,107,WAS,SAS,0,away,JS,,7,make2,2,P. Gasol,
+379,4,4:48.0,88,107,WAS,SAS,10,home,LostBall,,,turnover,,J. Wall,
+380,4,4:31.0,88,107,WAS,SAS,17,away,JS,,25,miss3,0,J. Simmons,
+381,4,4:31.0,88,107,WAS,SAS,0,home,DefReb,,,DefReb,,M. Gortat,
+382,4,4:22.0,88,107,WAS,SAS,9,home,JS,,16,miss2,0,T. Burke,
+383,4,4:20.0,88,107,WAS,SAS,2,home,OffReb,,,OffReb,,M. Gortat,
+384,4,4:14.0,90,107,WAS,SAS,6,home,JS,,17,make2,2,J. Wall,
+385,4,3:47.0,90,107,WAS,SAS,27,away,JS,,9,miss2,0,T. Parker,
+386,4,3:46.0,90,107,WAS,SAS,1,away,OffReb,,,OffReb,,L. Aldridge,
+387,4,3:41.0,90,107,WAS,SAS,5,away,JS,,6,miss2,0,L. Aldridge,
+388,4,3:40.0,90,107,WAS,SAS,1,home,DefReb,,,DefReb,,J. Wall,
+389,4,3:24.0,92,107,WAS,SAS,16,home,JS,,11,make2,2,T. Burke,
+390,4,3:06.0,92,107,WAS,SAS,18,away,JS,,8,miss2,0,K. Leonard,
+391,4,3:05.0,92,107,WAS,SAS,1,away,OffReb,,,OffReb,,P. Gasol,
+392,4,3:02.0,92,107,WAS,SAS,3,away,LU,,0,miss2,0,P. Gasol,
+393,4,3:01.0,92,107,WAS,SAS,1,home,DefReb,,,DefReb,,M. Gortat,
+394,4,2:54.0,94,107,WAS,SAS,7,home,JS,,15,make2,2,J. Wall,
+395,4,2:41.0,94,107,WAS,SAS,13,away,Timeout,,,,,,
+396,4,2:41.0,94,107,WAS,SAS,0,away,Sub,,,,,D. Lee,P. Gasol
+397,4,2:27.0,94,107,WAS,SAS,14,away,LostBall,steal,,turnover,,K. Leonard,B. Beal
+398,4,2:19.0,96,107,WAS,SAS,8,home,LU,,2,make2,2,J. Wall,
+399,4,2:03.0,96,109,WAS,SAS,16,away,JS,assist,17,make2,2,L. Aldridge,T. Parker
+400,4,1:49.0,96,109,WAS,SAS,14,home,JS,,24,miss3,0,B. Beal,
+401,4,1:49.0,96,109,WAS,SAS,0,away,DefReb,,,DefReb,,D. Lee,
+402,4,1:39.0,96,109,WAS,SAS,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Gortat,L. Aldridge
+403,4,1:30.0,96,109,WAS,SAS,9,away,BadPass,steal,,turnover,,T. Parker,O. Porter
+404,4,1:29.0,96,109,WAS,SAS,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Lee,J. Wall
+405,4,1:23.0,96,109,WAS,SAS,6,home,JS,,21,miss2,0,J. Wall,
+406,4,1:22.0,96,109,WAS,SAS,1,away,DefReb,,,DefReb,,L. Aldridge,
+407,4,1:07.0,96,111,WAS,SAS,15,away,JS,,6,make2,2,T. Parker,
+408,4,1:07.0,96,111,WAS,SAS,0,home,Timeout,,,,,,
+409,4,1:07.0,96,111,WAS,SAS,0,away,Sub,,,,,N. Laprovíttola,K. Leonard
+410,4,1:07.0,96,111,WAS,SAS,0,away,Sub,,,,,D. Bertāns,L. Aldridge
+411,4,1:07.0,96,111,WAS,SAS,0,away,Sub,,,,,K. Anderson,T. Parker
+412,4,1:07.0,96,111,WAS,SAS,0,away,Sub,,,,,D. Murray,D. Lee
+413,4,1:07.0,96,111,WAS,SAS,0,away,Sub,,,,,B. Forbes,J. Simmons
+414,4,1:07.0,96,111,WAS,SAS,0,home,Sub,,,,,A. Nicholson,O. Porter
+415,4,1:07.0,96,111,WAS,SAS,0,home,Sub,,,,,S. Mac,M. Gortat
+416,4,1:07.0,96,111,WAS,SAS,0,home,Sub,,,,,T. Satoranský,B. Beal
+417,4,1:07.0,96,111,WAS,SAS,0,home,Sub,,,,,J. Smith,J. Wall
+418,4,1:01.0,98,111,WAS,SAS,6,home,JS,,20,make2,2,T. Burke,
+419,4,0:49.0,98,111,WAS,SAS,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Burke,D. Murray
+420,4,0:49.0,98,111,WAS,SAS,0,away,FreeThrow,,,make1,0,D. Murray,
+421,4,0:49.0,98,111,WAS,SAS,0,away,OffReb,,,OffReb,,Team,
+422,4,0:49.0,98,111,WAS,SAS,0,away,FreeThrow,,,make1,0,D. Murray,
+423,4,0:48.0,98,111,WAS,SAS,1,home,DefReb,,,DefReb,,J. Smith,
+424,4,0:27.0,100,111,WAS,SAS,21,home,DK,assist,0,make2,2,A. Nicholson,T. Burke
+425,4,0:17.0,100,111,WAS,SAS,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Nicholson,K. Anderson
+426,4,0:17.0,100,111,WAS,SAS,0,away,FreeThrow,,,make1,0,K. Anderson,
+427,4,0:17.0,100,111,WAS,SAS,0,away,OffReb,,,OffReb,,Team,
+428,4,0:17.0,100,112,WAS,SAS,0,away,FreeThrow,,,make1,1,K. Anderson,
+429,4,0:04.0,100,112,WAS,SAS,13,home,JS,,16,miss2,0,T. Burke,
+430,4,0:03.0,100,112,WAS,SAS,1,away,DefReb,,,DefReb,,B. Forbes,

@@ -1,0 +1,436 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:42.0,0,0,POR,NYK,18,home,JS,,21,miss2,0,N. Vonleh,
+1,1,11:41.0,0,0,POR,NYK,1,home,OffReb,,,OffReb,,J. Nurkić,
+2,1,11:41.0,0,0,POR,NYK,0,home,LostBall,,,turnover,,J. Nurkić,
+3,1,11:29.0,0,0,POR,NYK,12,away,JS,,15,miss2,0,K. Porziņģis,
+4,1,11:28.0,0,0,POR,NYK,1,home,DefReb,,,DefReb,,J. Nurkić,
+5,1,11:18.0,2,0,POR,NYK,10,home,JS,,18,make2,2,D. Lillard,
+6,1,11:05.0,2,0,POR,NYK,13,away,BadPass,,,turnover,,M. Kuzminskas,
+7,1,10:49.0,4,0,POR,NYK,16,home,JS,,18,make2,2,C. McCollum,
+8,1,10:34.0,4,2,POR,NYK,15,away,LU,assist,1,make2,2,W. Hernangómez,R. Baker
+9,1,10:20.0,4,2,POR,NYK,14,home,Traveling,,,turnover,,M. Harkless,
+10,1,10:05.0,4,2,POR,NYK,15,away,JS,,17,miss2,0,K. Porziņģis,
+11,1,10:04.0,4,2,POR,NYK,1,home,DefReb,,,DefReb,,Team,
+12,1,9:55.0,4,2,POR,NYK,9,home,JS,,11,miss2,0,D. Lillard,
+13,1,9:55.0,4,2,POR,NYK,0,away,DefReb,,,DefReb,,R. Baker,
+14,1,9:44.0,4,2,POR,NYK,11,away,JS,,10,miss2,0,C. Lee,
+15,1,9:42.0,4,2,POR,NYK,2,away,OffReb,,,OffReb,,W. Hernangómez,
+16,1,9:40.0,4,2,POR,NYK,2,away,JS,,26,miss3,0,K. Porziņģis,
+17,1,9:39.0,4,2,POR,NYK,1,home,DefReb,,,DefReb,,C. McCollum,
+18,1,9:33.0,6,2,POR,NYK,6,home,JS,,3,make2,2,C. McCollum,
+19,1,9:19.0,6,2,POR,NYK,14,away,JS,,24,miss3,0,M. Kuzminskas,
+20,1,9:18.0,6,2,POR,NYK,1,home,DefReb,,,DefReb,,N. Vonleh,
+21,1,9:06.0,8,2,POR,NYK,12,home,DK,assist,0,make2,2,J. Nurkić,M. Harkless
+22,1,8:51.0,8,4,POR,NYK,15,away,JS,assist,19,make2,2,C. Lee,M. Kuzminskas
+23,1,8:36.0,10,4,POR,NYK,15,home,DK,assist,0,make2,2,M. Harkless,J. Nurkić
+24,1,8:35.0,10,4,POR,NYK,1,away,Timeout,,,,,,
+25,1,8:16.0,10,4,POR,NYK,19,away,LU,,2,miss2,0,M. Kuzminskas,
+26,1,8:15.0,10,4,POR,NYK,1,away,OffReb,,,OffReb,,W. Hernangómez,
+27,1,8:15.0,10,4,POR,NYK,0,away,LU,,0,miss2,0,W. Hernangómez,
+28,1,8:15.0,10,4,POR,NYK,0,away,OffReb,,,OffReb,,W. Hernangómez,
+29,1,8:15.0,10,4,POR,NYK,0,away,LU,,0,miss2,0,W. Hernangómez,
+30,1,8:14.0,10,4,POR,NYK,1,home,DefReb,,,DefReb,,N. Vonleh,
+31,1,8:06.0,10,4,POR,NYK,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Baker,D. Lillard
+32,1,8:06.0,11,4,POR,NYK,0,home,FreeThrow,,,make1,1,D. Lillard,
+33,1,8:06.0,12,4,POR,NYK,0,home,FreeThrow,,,make1,1,D. Lillard,
+34,1,7:51.0,12,4,POR,NYK,15,away,BadPass,steal,,turnover,,C. Lee,D. Lillard
+35,1,7:44.0,12,4,POR,NYK,7,home,LU,,1,miss2,0,M. Harkless,
+36,1,7:44.0,12,4,POR,NYK,0,away,DefReb,,,DefReb,,M. Kuzminskas,
+37,1,7:32.0,12,4,POR,NYK,12,away,JS,,12,miss2,0,C. Lee,
+38,1,7:31.0,12,4,POR,NYK,1,home,DefReb,,,DefReb,,J. Nurkić,
+39,1,7:21.0,12,4,POR,NYK,10,home,LU,,2,miss2,0,C. McCollum,
+40,1,7:20.0,12,4,POR,NYK,1,away,DefReb,,,DefReb,,K. Porziņģis,
+41,1,7:08.0,12,4,POR,NYK,12,away,JS,,8,miss2,0,W. Hernangómez,
+42,1,7:08.0,12,4,POR,NYK,0,away,OffReb,,,OffReb,,M. Kuzminskas,
+43,1,7:08.0,12,4,POR,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vonleh,M. Kuzminskas
+44,1,7:08.0,12,5,POR,NYK,0,away,FreeThrow,,,make1,1,M. Kuzminskas,
+45,1,7:08.0,12,6,POR,NYK,0,away,FreeThrow,,,make1,1,M. Kuzminskas,
+46,1,6:49.0,12,6,POR,NYK,19,home,DK,block,0,miss2,0,N. Vonleh,W. Hernangómez
+47,1,6:49.0,12,6,POR,NYK,0,away,DefReb,,,DefReb,,W. Hernangómez,
+48,1,6:38.0,12,8,POR,NYK,11,away,LU,,2,make2,2,W. Hernangómez,
+49,1,6:38.0,12,8,POR,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nurkić,W. Hernangómez
+50,1,6:38.0,12,8,POR,NYK,0,away,FreeThrow,,,make1,0,W. Hernangómez,
+51,1,6:36.0,12,8,POR,NYK,2,away,OffReb,,,OffReb,,K. Porziņģis,
+52,1,6:32.0,12,11,POR,NYK,4,away,JS,assist,23,make3,3,M. Kuzminskas,K. Porziņģis
+53,1,6:17.0,12,11,POR,NYK,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Hernangómez,J. Nurkić
+54,1,6:11.0,14,11,POR,NYK,6,home,JS,,16,make2,2,D. Lillard,
+55,1,5:57.0,14,14,POR,NYK,14,away,JS,assist,24,make3,3,M. Kuzminskas,R. Baker
+56,1,5:43.0,14,14,POR,NYK,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Baker,D. Lillard
+57,1,5:43.0,15,14,POR,NYK,0,home,FreeThrow,,,make1,1,D. Lillard,
+58,1,5:43.0,16,14,POR,NYK,0,home,FreeThrow,,,make1,1,D. Lillard,
+59,1,5:43.0,16,14,POR,NYK,0,away,Sub,,,,,C. Randle,R. Baker
+60,1,5:43.0,16,14,POR,NYK,0,home,Sub,,,,,A. Aminu,N. Vonleh
+61,1,5:43.0,16,14,POR,NYK,0,home,Sub,,,,,A. Crabbe,C. McCollum
+62,1,5:43.0,17,14,POR,NYK,0,home,FreeThrow,,,make1,1,D. Lillard,
+63,1,5:22.0,17,14,POR,NYK,21,away,JS,,25,miss3,0,C. Randle,
+64,1,5:21.0,17,14,POR,NYK,1,home,DefReb,,,DefReb,,M. Harkless,
+65,1,5:13.0,20,14,POR,NYK,8,home,JS,,25,make3,3,D. Lillard,
+66,1,4:52.0,20,16,POR,NYK,21,away,JS,assist,13,make2,2,W. Hernangómez,C. Lee
+67,1,4:32.0,20,16,POR,NYK,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Lee,J. Nurkić
+68,1,4:32.0,22,16,POR,NYK,0,home,JS,,3,make2,2,J. Nurkić,
+69,1,4:32.0,22,16,POR,NYK,0,home,FreeThrow,,,make1,0,J. Nurkić,
+70,1,4:30.0,22,16,POR,NYK,2,away,DefReb,,,DefReb,,W. Hernangómez,
+71,1,4:15.0,22,16,POR,NYK,15,away,LU,,3,miss2,0,W. Hernangómez,
+72,1,4:14.0,22,16,POR,NYK,1,home,DefReb,,,DefReb,,A. Aminu,
+73,1,4:05.0,24,16,POR,NYK,9,home,HS,assist,1,make2,2,J. Nurkić,D. Lillard
+74,1,3:54.0,24,16,POR,NYK,11,away,Sub,,,,,J. Holiday,C. Lee
+75,1,3:54.0,24,16,POR,NYK,0,away,Sub,,,,,K. O'Quinn,W. Hernangómez
+76,1,3:54.0,24,16,POR,NYK,0,home,Sub,,,,,M. Leonard,J. Nurkić
+77,1,3:50.0,24,16,POR,NYK,4,away,JS,,8,miss2,0,K. Porziņģis,
+78,1,3:49.0,24,16,POR,NYK,1,away,OffReb,,,OffReb,,K. Porziņģis,
+79,1,3:44.0,24,16,POR,NYK,5,away,HS,,7,miss2,0,K. Porziņģis,
+80,1,3:42.0,24,16,POR,NYK,2,home,DefReb,,,DefReb,,A. Aminu,
+81,1,3:27.0,24,16,POR,NYK,15,home,LU,block,3,miss2,0,D. Lillard,K. Porziņģis
+82,1,3:26.0,24,16,POR,NYK,1,away,DefReb,,,DefReb,,K. Porziņģis,
+83,1,3:24.0,24,16,POR,NYK,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Harkless,M. Kuzminskas
+84,1,3:24.0,24,16,POR,NYK,0,home,Sub,,,,,E. Turner,M. Harkless
+85,1,3:18.0,24,16,POR,NYK,6,away,JS,,21,miss2,0,K. O'Quinn,
+86,1,3:17.0,24,16,POR,NYK,1,home,DefReb,,,DefReb,,D. Lillard,
+87,1,3:11.0,27,16,POR,NYK,6,home,JS,,26,make3,3,D. Lillard,
+88,1,2:51.0,27,18,POR,NYK,20,away,JS,,4,make2,2,K. Porziņģis,
+89,1,2:32.0,30,18,POR,NYK,19,home,JS,assist,24,make3,3,M. Leonard,D. Lillard
+90,1,2:18.0,30,18,POR,NYK,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,K. Porziņģis
+91,1,2:18.0,30,18,POR,NYK,0,home,Timeout,,,,,,
+92,1,2:18.0,30,19,POR,NYK,0,away,FreeThrow,,,make1,1,K. Porziņģis,
+93,1,2:18.0,30,18,POR,NYK,0,home,Sub,,,,,C. McCollum,D. Lillard
+94,1,2:18.0,30,20,POR,NYK,0,away,FreeThrow,,,make1,1,K. Porziņģis,
+95,1,2:03.0,30,20,POR,NYK,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. O'Quinn,A. Aminu
+96,1,2:03.0,30,20,POR,NYK,0,home,FreeThrow,,,make1,0,A. Aminu,
+97,1,2:03.0,30,20,POR,NYK,0,home,OffReb,,,OffReb,,Team,
+98,1,2:03.0,30,20,POR,NYK,0,home,FreeThrow,,,make1,0,A. Aminu,
+99,1,2:03.0,30,20,POR,NYK,0,away,Sub,,,,,S. Vujačić,M. Kuzminskas
+100,1,2:02.0,30,20,POR,NYK,1,away,DefReb,,,DefReb,,K. O'Quinn,
+101,1,1:45.0,30,20,POR,NYK,17,away,JS,,16,miss2,0,K. O'Quinn,
+102,1,1:44.0,30,20,POR,NYK,1,home,DefReb,,,DefReb,,A. Aminu,
+103,1,1:33.0,33,20,POR,NYK,11,home,JS,assist,25,make3,3,A. Aminu,M. Leonard
+104,1,1:18.0,33,20,POR,NYK,15,away,JS,,19,miss2,0,J. Holiday,
+105,1,1:17.0,33,20,POR,NYK,1,home,DefReb,,,DefReb,,A. Aminu,
+106,1,1:09.0,33,20,POR,NYK,8,home,LU,,2,miss2,0,E. Turner,
+107,1,1:08.0,33,20,POR,NYK,1,away,DefReb,,,DefReb,,C. Randle,
+108,1,1:00.0,33,20,POR,NYK,8,away,JS,,20,miss2,0,K. O'Quinn,
+109,1,1:00.0,33,20,POR,NYK,0,home,DefReb,,,DefReb,,A. Aminu,
+110,1,0:53.0,35,20,POR,NYK,7,home,JS,,13,make2,2,C. McCollum,
+111,1,0:44.0,35,20,POR,NYK,9,away,LU,,2,miss2,0,S. Vujačić,
+112,1,0:44.0,35,20,POR,NYK,0,away,OffReb,,,OffReb,,C. Randle,
+113,1,0:44.0,35,22,POR,NYK,0,away,LU,,1,make2,2,C. Randle,
+114,1,0:44.0,35,22,POR,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Leonard,C. Randle
+115,1,0:44.0,35,23,POR,NYK,0,away,FreeThrow,,,make1,1,C. Randle,
+116,1,0:42.0,35,23,POR,NYK,2,home,BadPass,,,turnover,,A. Aminu,
+117,1,0:33.0,35,23,POR,NYK,9,away,JS,,15,miss2,0,K. O'Quinn,
+118,1,0:32.0,35,23,POR,NYK,1,home,DefReb,,,DefReb,,E. Turner,
+119,1,0:16.0,35,23,POR,NYK,16,home,JS,,11,miss2,0,A. Crabbe,
+120,1,0:16.0,35,23,POR,NYK,0,home,OffReb,,,OffReb,,A. Aminu,
+121,1,0:14.0,37,23,POR,NYK,2,home,HS,,4,make2,2,A. Aminu,
+122,1,0:01.0,37,23,POR,NYK,13,away,LostBall,steal,,turnover,,K. Porziņģis,A. Aminu
+123,1,0:00.0,37,23,POR,NYK,1,home,JS,,46,miss3,0,A. Aminu,
+124,1,0:00.0,37,23,POR,NYK,0,home,OffReb,,,OffReb,,Team,
+125,2,11:50.0,37,23,POR,NYK,10,away,JS,block,17,miss2,0,S. Vujačić,A. Crabbe
+126,2,11:49.0,37,23,POR,NYK,1,home,DefReb,,,DefReb,,E. Turner,
+127,2,11:31.0,37,23,POR,NYK,18,home,JS,block,11,miss2,0,C. McCollum,K. O'Quinn
+128,2,11:30.0,37,23,POR,NYK,1,home,OffReb,,,OffReb,,C. McCollum,
+129,2,11:26.0,39,23,POR,NYK,4,home,DK,assist,0,make2,2,E. Turner,C. McCollum
+130,2,11:12.0,39,23,POR,NYK,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Crabbe,S. Vujačić
+131,2,11:12.0,39,24,POR,NYK,0,away,FreeThrow,,,make1,1,S. Vujačić,
+132,2,11:12.0,39,25,POR,NYK,0,away,FreeThrow,,,make1,1,S. Vujačić,
+133,2,10:55.0,39,25,POR,NYK,17,home,BadPass,steal,,turnover,,M. Leonard,J. Holiday
+134,2,10:34.0,39,25,POR,NYK,21,away,JS,,27,miss3,0,C. Randle,
+135,2,10:34.0,39,25,POR,NYK,0,home,DefReb,,,DefReb,,C. McCollum,
+136,2,10:33.0,39,25,POR,NYK,1,home,PersonalFoul,,,,,M. Kuzminskas,
+137,2,10:24.0,39,25,POR,NYK,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Vujačić,E. Turner
+138,2,10:24.0,39,25,POR,NYK,0,away,Sub,,,,,W. Hernangómez,K. O'Quinn
+139,2,10:24.0,39,25,POR,NYK,0,away,Sub,,,,,C. Lee,C. Randle
+140,2,10:16.0,39,25,POR,NYK,8,home,JS,,25,miss3,0,C. McCollum,
+141,2,10:15.0,39,25,POR,NYK,1,away,DefReb,,,DefReb,,M. Kuzminskas,
+142,2,9:55.0,39,27,POR,NYK,20,away,JS,,4,make2,2,J. Holiday,
+143,2,9:44.0,41,27,POR,NYK,11,home,JS,,20,make2,2,E. Turner,
+144,2,9:32.0,41,27,POR,NYK,12,away,JS,,25,miss3,0,J. Holiday,
+145,2,9:30.0,41,27,POR,NYK,2,home,DefReb,,,DefReb,,M. Leonard,
+146,2,9:16.0,43,27,POR,NYK,14,home,JS,,3,make2,2,E. Turner,
+147,2,8:57.0,43,29,POR,NYK,19,away,JS,assist,11,make2,2,W. Hernangómez,J. Holiday
+148,2,8:33.0,45,29,POR,NYK,24,home,LU,,1,make2,2,A. Crabbe,
+149,2,8:26.0,45,31,POR,NYK,7,away,HS,,3,make2,2,M. Kuzminskas,
+150,2,8:10.0,45,31,POR,NYK,16,home,PersonalFoul,,,,,S. Vujačić,
+151,2,8:10.0,45,31,POR,NYK,0,away,Timeout,,,,,,
+152,2,8:10.0,45,31,POR,NYK,0,home,Sub,,,,,N. Vonleh,M. Leonard
+153,2,8:02.0,45,31,POR,NYK,8,home,JS,,23,miss2,0,A. Crabbe,
+154,2,8:01.0,45,31,POR,NYK,1,home,OffReb,,,OffReb,,N. Vonleh,
+155,2,8:00.0,47,31,POR,NYK,1,home,DK,,0,make2,2,N. Vonleh,
+156,2,7:43.0,47,34,POR,NYK,17,away,JS,assist,25,make3,3,S. Vujačić,W. Hernangómez
+157,2,7:26.0,47,34,POR,NYK,17,home,LU,block,2,miss2,0,N. Vonleh,W. Hernangómez
+158,2,7:25.0,47,34,POR,NYK,1,away,DefReb,,,DefReb,,M. Kuzminskas,
+159,2,7:18.0,47,34,POR,NYK,7,away,BadPass,steal,,turnover,,J. Holiday,A. Aminu
+160,2,7:12.0,47,34,POR,NYK,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Hernangómez,A. Aminu
+161,2,7:12.0,48,34,POR,NYK,0,home,FreeThrow,,,make1,1,A. Aminu,
+162,2,7:12.0,48,34,POR,NYK,0,home,FreeThrow,,,make1,0,A. Aminu,
+163,2,7:12.0,48,34,POR,NYK,0,away,Sub,,,,,K. Porziņģis,J. Holiday
+164,2,7:11.0,48,34,POR,NYK,1,away,DefReb,,,DefReb,,W. Hernangómez,
+165,2,6:53.0,48,34,POR,NYK,18,away,JS,,8,miss2,0,K. Porziņģis,
+166,2,6:52.0,48,34,POR,NYK,1,home,DefReb,,,DefReb,,E. Turner,
+167,2,6:44.0,48,34,POR,NYK,8,home,JS,,8,miss2,0,A. Aminu,
+168,2,6:43.0,48,34,POR,NYK,1,away,DefReb,,,DefReb,,K. Porziņģis,
+169,2,6:19.0,48,34,POR,NYK,24,away,JS,,20,miss2,0,C. Lee,
+170,2,6:18.0,48,34,POR,NYK,1,home,DefReb,,,DefReb,,N. Vonleh,
+171,2,6:12.0,48,34,POR,NYK,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Kuzminskas,E. Turner
+172,2,6:12.0,49,34,POR,NYK,0,home,FreeThrow,,,make1,1,E. Turner,
+173,2,6:12.0,50,34,POR,NYK,0,home,FreeThrow,,,make1,1,E. Turner,
+174,2,5:53.0,50,36,POR,NYK,19,away,LU,assist,2,make2,2,K. Porziņģis,C. Lee
+175,2,5:34.0,50,36,POR,NYK,19,home,JS,,20,miss2,0,C. McCollum,
+176,2,5:33.0,50,36,POR,NYK,1,away,DefReb,,,DefReb,,S. Vujačić,
+177,2,5:24.0,50,36,POR,NYK,9,away,JS,,4,miss2,0,S. Vujačić,
+178,2,5:23.0,50,36,POR,NYK,1,home,DefReb,,,DefReb,,A. Aminu,
+179,2,5:15.0,50,36,POR,NYK,8,home,LU,,1,miss2,0,C. McCollum,
+180,2,5:15.0,50,36,POR,NYK,0,home,OffReb,,,OffReb,,A. Aminu,
+181,2,5:15.0,52,36,POR,NYK,0,home,LU,,1,make2,2,A. Aminu,
+182,2,5:05.0,52,36,POR,NYK,10,away,Timeout,,,,,,
+183,2,5:05.0,52,36,POR,NYK,0,home,Sub,,,,,D. Lillard,C. McCollum
+184,2,5:05.0,52,36,POR,NYK,0,home,Sub,,,,,J. Nurkić,A. Aminu
+185,2,4:57.0,52,36,POR,NYK,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Nurkić,W. Hernangómez
+186,2,4:45.0,52,38,POR,NYK,12,away,JS,,6,make2,2,W. Hernangómez,
+187,2,4:23.0,52,38,POR,NYK,22,home,JS,,3,miss2,0,A. Crabbe,
+188,2,4:23.0,52,38,POR,NYK,0,home,OffReb,,,OffReb,,N. Vonleh,
+189,2,4:21.0,54,38,POR,NYK,2,home,DK,,0,make2,2,N. Vonleh,
+190,2,4:09.0,54,38,POR,NYK,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Kuzminskas,N. Vonleh
+191,2,4:09.0,54,38,POR,NYK,0,away,OffensiveFoul,,,turnover,,M. Kuzminskas,
+192,2,4:09.0,54,38,POR,NYK,0,home,Sub,,,,,M. Harkless,E. Turner
+193,2,4:09.0,54,38,POR,NYK,0,away,Sub,,,,,R. Baker,M. Kuzminskas
+194,2,3:53.0,56,38,POR,NYK,16,home,DK,,0,make2,2,J. Nurkić,
+195,2,3:37.0,56,38,POR,NYK,16,away,JS,,24,miss3,0,R. Baker,
+196,2,3:36.0,56,38,POR,NYK,1,home,DefReb,,,DefReb,,M. Harkless,
+197,2,3:26.0,56,38,POR,NYK,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Porziņģis,J. Nurkić
+198,2,3:26.0,56,38,POR,NYK,0,home,FreeThrow,,,make1,0,J. Nurkić,
+199,2,3:26.0,56,38,POR,NYK,0,home,OffReb,,,OffReb,,Team,
+200,2,3:26.0,57,38,POR,NYK,0,home,FreeThrow,,,make1,1,J. Nurkić,
+201,2,3:06.0,57,38,POR,NYK,20,away,LU,,1,miss2,0,W. Hernangómez,
+202,2,3:06.0,57,38,POR,NYK,0,home,DefReb,,,DefReb,,N. Vonleh,
+203,2,2:55.0,57,38,POR,NYK,11,home,BadPass,steal,,turnover,,M. Harkless,C. Lee
+204,2,2:54.0,57,38,POR,NYK,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nurkić,C. Lee
+205,2,2:54.0,57,38,POR,NYK,0,home,Timeout,,,,,,
+206,2,2:54.0,57,39,POR,NYK,0,away,FreeThrow,,,make1,1,C. Lee,
+207,2,2:54.0,57,38,POR,NYK,0,home,Sub,,,,,A. Aminu,J. Nurkić
+208,2,2:54.0,57,38,POR,NYK,0,away,Sub,,,,,M. Plumlee,W. Hernangómez
+209,2,2:54.0,57,40,POR,NYK,0,away,FreeThrow,,,make1,1,C. Lee,
+210,2,2:40.0,57,40,POR,NYK,14,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,N. Vonleh,R. Baker
+211,2,2:40.0,57,40,POR,NYK,0,home,OffensiveFoul,,,turnover,,N. Vonleh,
+212,2,2:27.0,57,40,POR,NYK,13,away,HS,,3,miss2,0,M. Plumlee,
+213,2,2:26.0,57,40,POR,NYK,1,away,OffReb,,,OffReb,,M. Plumlee,
+214,2,2:13.0,57,40,POR,NYK,13,away,JS,,25,miss3,0,C. Lee,
+215,2,2:12.0,57,40,POR,NYK,1,home,DefReb,,,DefReb,,D. Lillard,
+216,2,2:01.0,60,40,POR,NYK,11,home,JS,assist,23,make3,3,A. Crabbe,D. Lillard
+217,2,1:36.0,60,42,POR,NYK,25,away,JS,,18,make2,2,K. Porziņģis,
+218,2,1:13.0,63,42,POR,NYK,23,home,JS,assist,25,make3,3,A. Crabbe,M. Harkless
+219,2,0:57.0,63,44,POR,NYK,16,away,JS,assist,23,make2,2,S. Vujačić,R. Baker
+220,2,0:38.0,65,44,POR,NYK,19,home,LU,,1,make2,2,D. Lillard,
+221,2,0:33.0,65,46,POR,NYK,5,away,LU,,2,make2,2,R. Baker,
+222,2,0:32.0,65,46,POR,NYK,1,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,C. Lee,D. Lillard
+223,2,0:32.0,66,46,POR,NYK,0,home,FreeThrow,,,make1,1,D. Lillard,
+224,2,0:32.0,67,46,POR,NYK,0,home,FreeThrow,,,make1,1,D. Lillard,
+225,2,0:15.0,67,46,POR,NYK,17,away,JS,,8,miss2,0,R. Baker,
+226,2,0:14.0,67,46,POR,NYK,1,home,DefReb,,,DefReb,,N. Vonleh,
+227,2,0:00.0,67,46,POR,NYK,14,home,JS,,27,miss3,0,D. Lillard,
+228,2,0:00.0,67,46,POR,NYK,0,home,OffReb,,,OffReb,,Team,
+229,3,11:45.0,67,46,POR,NYK,15,away,JS,,20,miss2,0,R. Baker,
+230,3,11:45.0,67,46,POR,NYK,0,home,DefReb,,,DefReb,,C. McCollum,
+231,3,11:29.0,67,46,POR,NYK,16,home,JS,,18,miss2,0,N. Vonleh,
+232,3,11:28.0,67,46,POR,NYK,1,away,DefReb,,,DefReb,,W. Hernangómez,
+233,3,11:28.0,67,46,POR,NYK,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Nurkić,W. Hernangómez
+234,3,11:18.0,67,48,POR,NYK,10,away,JS,,19,make2,2,K. Porziņģis,
+235,3,10:59.0,67,48,POR,NYK,19,home,JS,,3,miss2,0,D. Lillard,
+236,3,10:59.0,67,48,POR,NYK,0,away,DefReb,,,DefReb,,M. Kuzminskas,
+237,3,10:44.0,67,48,POR,NYK,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Harkless,K. Porziņģis
+238,3,10:39.0,67,48,POR,NYK,5,away,JS,,25,miss3,0,M. Kuzminskas,
+239,3,10:37.0,67,48,POR,NYK,2,home,DefReb,,,DefReb,,N. Vonleh,
+240,3,10:31.0,69,48,POR,NYK,6,home,LU,assist,1,make2,2,C. McCollum,D. Lillard
+241,3,10:17.0,69,48,POR,NYK,14,away,LU,,1,miss2,0,M. Kuzminskas,
+242,3,10:17.0,69,48,POR,NYK,0,away,OffReb,,,OffReb,,Team,
+243,3,10:12.0,69,48,POR,NYK,5,away,JS,,25,miss3,0,K. Porziņģis,
+244,3,10:12.0,69,48,POR,NYK,0,away,OffReb,,,OffReb,,Team,
+245,3,10:12.0,69,48,POR,NYK,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Harkless,M. Kuzminskas
+246,3,10:04.0,69,50,POR,NYK,8,away,JS,assist,10,make2,2,C. Lee,W. Hernangómez
+247,3,9:48.0,69,50,POR,NYK,16,home,LU,block,2,miss2,0,N. Vonleh,R. Baker
+248,3,9:47.0,69,50,POR,NYK,1,home,OffReb,,,OffReb,,N. Vonleh,
+249,3,9:40.0,69,50,POR,NYK,7,home,BadPass,steal,,turnover,,M. Harkless,R. Baker
+250,3,9:34.0,69,50,POR,NYK,6,away,JS,,24,miss2,0,R. Baker,
+251,3,9:32.0,69,50,POR,NYK,2,home,DefReb,,,DefReb,,D. Lillard,
+252,3,9:17.0,71,50,POR,NYK,15,home,LU,assist,1,make2,2,M. Harkless,J. Nurkić
+253,3,8:59.0,71,50,POR,NYK,18,away,JS,,25,miss3,0,C. Lee,
+254,3,8:58.0,71,50,POR,NYK,1,home,DefReb,,,DefReb,,J. Nurkić,
+255,3,8:52.0,71,50,POR,NYK,6,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,K. Porziņģis,M. Harkless
+256,3,8:52.0,72,50,POR,NYK,0,home,FreeThrow,,,make1,1,M. Harkless,
+257,3,8:52.0,73,50,POR,NYK,0,home,FreeThrow,,,make1,1,M. Harkless,
+258,3,8:33.0,73,52,POR,NYK,19,away,JS,,12,make2,2,K. Porziņģis,
+259,3,8:10.0,73,52,POR,NYK,23,home,JS,,20,miss2,0,J. Nurkić,
+260,3,8:09.0,73,52,POR,NYK,1,away,DefReb,,,DefReb,,W. Hernangómez,
+261,3,7:59.0,73,52,POR,NYK,10,away,JS,,24,miss3,0,C. Lee,
+262,3,7:58.0,73,52,POR,NYK,1,home,DefReb,,,DefReb,,N. Vonleh,
+263,3,7:43.0,73,52,POR,NYK,15,home,LostBall,,,turnover,,C. McCollum,
+264,3,7:30.0,73,52,POR,NYK,13,away,JS,,19,miss2,0,R. Baker,
+265,3,7:30.0,73,52,POR,NYK,0,away,OffReb,,,OffReb,,Team,
+266,3,7:30.0,73,52,POR,NYK,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,N. Vonleh,K. Porziņģis
+267,3,7:23.0,73,52,POR,NYK,7,away,PersonalFoul,,,,,C. McCollum,
+268,3,7:23.0,73,53,POR,NYK,0,away,FreeThrow,,,make1,1,M. Kuzminskas,
+269,3,7:23.0,73,54,POR,NYK,0,away,FreeThrow,,,make1,1,M. Kuzminskas,
+270,3,7:07.0,76,54,POR,NYK,16,home,JS,,24,make3,3,D. Lillard,
+271,3,6:54.0,76,54,POR,NYK,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Harkless,M. Kuzminskas
+272,3,6:54.0,76,55,POR,NYK,0,away,FreeThrow,,,make1,1,M. Kuzminskas,
+273,3,6:54.0,76,55,POR,NYK,0,home,Sub,,,,,A. Crabbe,M. Harkless
+274,3,6:54.0,76,55,POR,NYK,0,away,Sub,,,,,K. O'Quinn,W. Hernangómez
+275,3,6:54.0,76,56,POR,NYK,0,away,FreeThrow,,,make1,1,M. Kuzminskas,
+276,3,6:36.0,76,56,POR,NYK,18,home,D3SecTech,,,,,,
+277,3,6:36.0,77,56,POR,NYK,0,home,FreeThrow,,,make1,1,D. Lillard makes technical free throw,
+278,3,6:33.0,77,56,POR,NYK,3,home,JS,,23,miss3,0,C. McCollum,
+279,3,6:32.0,77,56,POR,NYK,1,home,OffReb,,,OffReb,,J. Nurkić,
+280,3,6:27.0,77,56,POR,NYK,5,home,JS,block,21,miss2,0,D. Lillard,K. Porziņģis
+281,3,6:26.0,77,56,POR,NYK,1,away,DefReb,,,DefReb,,K. O'Quinn,
+282,3,6:10.0,77,56,POR,NYK,16,away,JS,,26,miss3,0,K. Porziņģis,
+283,3,6:09.0,77,56,POR,NYK,1,home,DefReb,,,DefReb,,D. Lillard,
+284,3,6:03.0,77,56,POR,NYK,6,home,BadPass,steal,,turnover,,D. Lillard,K. Porziņģis
+285,3,5:52.0,77,58,POR,NYK,11,away,JS,assist,20,make2,2,K. O'Quinn,C. Lee
+286,3,5:52.0,77,58,POR,NYK,0,home,Timeout,,,,,,
+287,3,5:52.0,77,58,POR,NYK,0,home,Sub,,,,,A. Aminu,J. Nurkić
+288,3,5:36.0,77,58,POR,NYK,16,home,LU,,1,miss2,0,A. Crabbe,
+289,3,5:36.0,77,58,POR,NYK,0,away,DefReb,,,DefReb,,K. O'Quinn,
+290,3,5:25.0,77,58,POR,NYK,11,away,BadPass,,,turnover,,R. Baker,
+291,3,5:25.0,77,58,POR,NYK,0,home,Sub,,,,,E. Turner,C. McCollum
+292,3,5:09.0,77,58,POR,NYK,16,home,BadPass,steal,,turnover,,D. Lillard,M. Kuzminskas
+293,3,5:01.0,77,60,POR,NYK,8,away,LU,assist,3,make2,2,K. Porziņģis,M. Kuzminskas
+294,3,4:41.0,77,60,POR,NYK,20,home,JS,,24,miss3,0,A. Aminu,
+295,3,4:41.0,77,60,POR,NYK,0,away,DefReb,,,DefReb,,K. O'Quinn,
+296,3,4:22.0,77,60,POR,NYK,19,away,JS,,24,miss3,0,M. Kuzminskas,
+297,3,4:20.0,77,60,POR,NYK,2,away,OffReb,,,OffReb,,K. Porziņģis,
+298,3,4:18.0,77,60,POR,NYK,2,away,JS,,2,miss2,0,K. Porziņģis,
+299,3,4:18.0,77,60,POR,NYK,0,home,DefReb,,,DefReb,,E. Turner,
+300,3,4:10.0,77,60,POR,NYK,8,home,LU,,1,miss2,0,A. Aminu,
+301,3,4:09.0,77,60,POR,NYK,1,away,DefReb,,,DefReb,,K. O'Quinn,
+302,3,4:05.0,77,62,POR,NYK,4,away,LU,assist,2,make2,2,C. Lee,R. Baker
+303,3,3:43.0,77,62,POR,NYK,22,home,JS,block,3,miss2,0,A. Aminu,K. O'Quinn
+304,3,3:42.0,77,62,POR,NYK,1,away,DefReb,,,DefReb,,C. Lee,
+305,3,3:39.0,77,64,POR,NYK,3,away,LU,assist,2,make2,2,R. Baker,K. O'Quinn
+306,3,3:39.0,77,64,POR,NYK,0,home,Timeout,,,,,,
+307,3,3:39.0,77,64,POR,NYK,0,away,Sub,,,,,J. Holiday,K. Porziņģis
+308,3,3:20.0,77,64,POR,NYK,19,home,JS,,25,miss3,0,D. Lillard,
+309,3,3:19.0,77,64,POR,NYK,1,away,DefReb,,,DefReb,,M. Kuzminskas,
+310,3,2:58.0,77,64,POR,NYK,21,away,LostBall,steal,,turnover,,C. Lee,A. Crabbe
+311,3,2:53.0,79,64,POR,NYK,5,home,DK,assist,0,make2,2,A. Aminu,A. Crabbe
+312,3,2:38.0,79,64,POR,NYK,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Crabbe,C. Lee
+313,3,2:38.0,79,65,POR,NYK,0,away,FreeThrow,,,make1,1,C. Lee,
+314,3,2:38.0,79,66,POR,NYK,0,away,FreeThrow,,,make1,1,C. Lee,
+315,3,2:16.0,79,66,POR,NYK,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,E. Turner
+316,3,2:16.0,80,66,POR,NYK,0,home,FreeThrow,,,make1,1,E. Turner,
+317,3,2:16.0,81,66,POR,NYK,0,home,FreeThrow,,,make1,1,E. Turner,
+318,3,2:04.0,81,68,POR,NYK,12,away,LU,assist,1,make2,2,J. Holiday,K. O'Quinn
+319,3,1:38.0,81,68,POR,NYK,26,home,JS,,12,miss2,0,E. Turner,
+320,3,1:38.0,81,68,POR,NYK,0,away,DefReb,,,DefReb,,M. Kuzminskas,
+321,3,1:31.0,81,68,POR,NYK,7,away,JS,,25,miss3,0,J. Holiday,
+322,3,1:31.0,81,68,POR,NYK,0,home,DefReb,,,DefReb,,Team,
+323,3,1:31.0,81,68,POR,NYK,0,home,Sub,,,,,C. McCollum,D. Lillard
+324,3,1:31.0,81,68,POR,NYK,0,home,Sub,,,,,J. Nurkić,N. Vonleh
+325,3,1:13.0,81,68,POR,NYK,18,home,JS,,11,miss2,0,C. McCollum,
+326,3,1:12.0,81,68,POR,NYK,1,away,DefReb,,,DefReb,,M. Kuzminskas,
+327,3,0:55.0,81,68,POR,NYK,17,away,JS,,7,miss2,0,J. Holiday,
+328,3,0:54.0,81,68,POR,NYK,1,home,DefReb,,,DefReb,,J. Nurkić,
+329,3,0:35.0,81,68,POR,NYK,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. O'Quinn,C. McCollum
+330,3,0:35.0,82,68,POR,NYK,0,home,FreeThrow,,,make1,1,C. McCollum,
+331,3,0:35.0,82,68,POR,NYK,0,away,Timeout,,,,,,
+332,3,0:35.0,82,68,POR,NYK,0,home,Sub,,,,,N. Vonleh,J. Nurkić
+333,3,0:35.0,83,68,POR,NYK,0,home,FreeThrow,,,make1,1,C. McCollum,
+334,3,0:21.0,83,68,POR,NYK,14,away,JS,block,23,miss2,0,R. Baker,N. Vonleh
+335,3,0:20.0,83,68,POR,NYK,1,home,DefReb,,,DefReb,,E. Turner,
+336,3,0:00.0,85,68,POR,NYK,20,home,JS,,9,make2,2,C. McCollum,
+337,4,11:38.0,85,68,POR,NYK,22,home,JS,,26,miss3,0,A. Aminu,
+338,4,11:34.0,85,68,POR,NYK,4,away,DefReb,,,DefReb,,Team,
+339,4,11:20.0,85,70,POR,NYK,14,away,JS,assist,12,make2,2,K. Porziņģis,C. Randle
+340,4,11:01.0,85,70,POR,NYK,19,home,JS,,25,miss3,0,C. McCollum,
+341,4,11:00.0,85,70,POR,NYK,1,away,DefReb,,,DefReb,,K. Porziņģis,
+342,4,10:52.0,85,70,POR,NYK,8,away,JS,,9,miss2,0,K. Porziņģis,
+343,4,10:51.0,85,70,POR,NYK,1,home,DefReb,,,DefReb,,A. Aminu,
+344,4,10:38.0,88,70,POR,NYK,13,home,JS,assist,25,make3,3,A. Crabbe,E. Turner
+345,4,10:19.0,88,72,POR,NYK,19,away,JS,assist,19,make2,2,C. Lee,J. Holiday
+346,4,10:06.0,88,72,POR,NYK,13,home,BadPass,,,turnover,,J. Nurkić,
+347,4,9:49.0,88,72,POR,NYK,17,away,JS,,22,miss2,0,K. O'Quinn,
+348,4,9:47.0,88,72,POR,NYK,2,home,DefReb,,,DefReb,,E. Turner,
+349,4,9:38.0,88,72,POR,NYK,9,home,LU,block,1,miss2,0,A. Aminu,K. Porziņģis
+350,4,9:37.0,88,72,POR,NYK,1,away,DefReb,,,DefReb,,K. O'Quinn,
+351,4,9:16.0,88,74,POR,NYK,21,away,JS,,20,make2,2,C. Lee,
+352,4,8:56.0,88,74,POR,NYK,20,home,JS,,13,miss2,0,C. McCollum,
+353,4,8:55.0,88,74,POR,NYK,1,home,OffReb,,,OffReb,,J. Nurkić,
+354,4,8:55.0,88,74,POR,NYK,0,home,LU,,1,miss2,0,J. Nurkić,
+355,4,8:54.0,88,74,POR,NYK,1,away,DefReb,,,DefReb,,K. O'Quinn,
+356,4,8:40.0,88,76,POR,NYK,14,away,DK,assist,0,make2,2,K. O'Quinn,C. Lee
+357,4,8:21.0,90,76,POR,NYK,19,home,HS,,2,make2,2,J. Nurkić,
+358,4,8:13.0,90,76,POR,NYK,8,away,JS,,27,miss3,0,K. Porziņģis,
+359,4,8:12.0,90,76,POR,NYK,1,home,DefReb,,,DefReb,,J. Nurkić,
+360,4,8:01.0,90,76,POR,NYK,11,home,JS,,20,miss2,0,J. Nurkić,
+361,4,8:00.0,90,76,POR,NYK,1,away,DefReb,,,DefReb,,K. Porziņģis,
+362,4,7:46.0,90,78,POR,NYK,14,away,JS,,8,make2,2,C. Randle,
+363,4,7:24.0,90,78,POR,NYK,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,E. Turner
+364,4,7:24.0,90,78,POR,NYK,0,away,Timeout,,,,,,
+365,4,7:24.0,90,78,POR,NYK,0,home,FreeThrow,,,make1,0,E. Turner,
+366,4,7:24.0,90,78,POR,NYK,0,home,OffReb,,,OffReb,,Team,
+367,4,7:24.0,90,78,POR,NYK,0,home,FreeThrow,,,make1,0,E. Turner,
+368,4,7:24.0,90,78,POR,NYK,0,home,Sub,,,,,D. Lillard,A. Crabbe
+369,4,7:22.0,90,78,POR,NYK,2,away,DefReb,,,DefReb,,K. Porziņģis,
+370,4,7:02.0,90,78,POR,NYK,20,away,LostBall,steal,,turnover,,K. Porziņģis,E. Turner
+371,4,6:56.0,90,78,POR,NYK,6,home,PersonalFoul,,,,,J. Holiday,
+372,4,6:56.0,90,78,POR,NYK,0,home,Sub,,,,,A. Crabbe,E. Turner
+373,4,6:47.0,92,78,POR,NYK,9,home,LU,assist,2,make2,2,J. Nurkić,D. Lillard
+374,4,6:38.0,92,78,POR,NYK,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Aminu,C. Lee
+375,4,6:38.0,92,78,POR,NYK,0,home,Sub,,,,,N. Vonleh,A. Aminu
+376,4,6:34.0,92,81,POR,NYK,4,away,JS,,25,make3,3,C. Randle,
+377,4,6:13.0,92,81,POR,NYK,21,home,JS,,4,miss2,0,D. Lillard,
+378,4,6:11.0,92,81,POR,NYK,2,home,OffReb,,,OffReb,,A. Crabbe,
+379,4,5:57.0,95,81,POR,NYK,14,home,JS,assist,25,make3,3,C. McCollum,J. Nurkić
+380,4,5:44.0,95,83,POR,NYK,13,away,LU,assist,3,make2,2,K. Porziņģis,J. Holiday
+381,4,5:44.0,95,83,POR,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nurkić,K. Porziņģis
+382,4,5:44.0,95,83,POR,NYK,0,home,Timeout,,,,,,
+383,4,5:44.0,95,83,POR,NYK,0,away,FreeThrow,,,make1,0,K. Porziņģis,
+384,4,5:44.0,95,83,POR,NYK,0,home,DefReb,,,DefReb,,A. Crabbe,
+385,4,5:29.0,95,83,POR,NYK,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. O'Quinn,J. Nurkić
+386,4,5:29.0,96,83,POR,NYK,0,home,FreeThrow,,,make1,1,J. Nurkić,
+387,4,5:29.0,97,83,POR,NYK,0,home,FreeThrow,,,make1,1,J. Nurkić,
+388,4,5:13.0,97,83,POR,NYK,16,away,JS,,12,miss2,0,K. Porziņģis,
+389,4,5:12.0,97,83,POR,NYK,1,home,DefReb,,,DefReb,,N. Vonleh,
+390,4,4:58.0,97,83,POR,NYK,14,home,JS,,28,miss3,0,D. Lillard,
+391,4,4:57.0,97,83,POR,NYK,1,away,DefReb,,,DefReb,,J. Holiday,
+392,4,4:43.0,97,85,POR,NYK,14,away,LU,assist,1,make2,2,J. Holiday,K. O'Quinn
+393,4,4:43.0,97,85,POR,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Crabbe,J. Holiday
+394,4,4:43.0,97,86,POR,NYK,0,away,FreeThrow,,,make1,1,J. Holiday,
+395,4,4:23.0,97,86,POR,NYK,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. O'Quinn,J. Nurkić
+396,4,4:23.0,97,86,POR,NYK,0,home,FreeThrow,,,make1,0,J. Nurkić,
+397,4,4:23.0,97,86,POR,NYK,0,home,OffReb,,,OffReb,,Team,
+398,4,4:23.0,98,86,POR,NYK,0,home,FreeThrow,,,make1,1,J. Nurkić,
+399,4,4:12.0,98,88,POR,NYK,11,away,JS,assist,16,make2,2,C. Lee,C. Randle
+400,4,3:52.0,100,88,POR,NYK,20,home,JS,,12,make2,2,C. McCollum,
+401,4,3:42.0,100,88,POR,NYK,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lillard,C. Randle
+402,4,3:42.0,100,89,POR,NYK,0,away,FreeThrow,,,make1,1,C. Randle,
+403,4,3:42.0,100,90,POR,NYK,0,away,FreeThrow,,,make1,1,C. Randle,
+404,4,3:24.0,102,90,POR,NYK,18,home,LU,,2,make2,2,D. Lillard,
+405,4,3:07.0,102,90,POR,NYK,17,away,BadPass,steal,,turnover,,K. O'Quinn,D. Lillard
+406,4,3:00.0,105,90,POR,NYK,7,home,JS,assist,25,make3,3,C. McCollum,A. Crabbe
+407,4,2:59.0,105,90,POR,NYK,1,away,Timeout,,,,,,
+408,4,2:46.0,105,90,POR,NYK,13,away,JS,,25,miss3,0,K. Porziņģis,
+409,4,2:46.0,105,90,POR,NYK,0,home,DefReb,,,DefReb,,J. Nurkić,
+410,4,2:29.0,108,90,POR,NYK,17,home,JS,,27,make3,3,D. Lillard,
+411,4,2:14.0,108,90,POR,NYK,15,away,JS,,23,miss2,0,J. Holiday,
+412,4,2:13.0,108,90,POR,NYK,1,home,DefReb,,,DefReb,,J. Nurkić,
+413,4,1:57.0,110,90,POR,NYK,16,home,LU,,1,make2,2,D. Lillard,
+414,4,1:57.0,110,90,POR,NYK,0,away,Timeout,,,,,,
+415,4,1:57.0,110,90,POR,NYK,0,away,Sub,,,,,S. Vujačić,K. Porziņģis
+416,4,1:57.0,110,90,POR,NYK,0,away,Sub,,,,,M. Plumlee,C. Lee
+417,4,1:57.0,110,90,POR,NYK,0,away,Sub,,,,,R. Baker,J. Holiday
+418,4,1:57.0,110,90,POR,NYK,0,away,Sub,,,,,M. Kuzminskas,K. O'Quinn
+419,4,1:57.0,110,90,POR,NYK,0,home,Sub,,,,,S. Napier,J. Nurkić
+420,4,1:57.0,110,90,POR,NYK,0,home,Sub,,,,,J. Layman,C. McCollum
+421,4,1:57.0,110,90,POR,NYK,0,home,Sub,,,,,E. Turner,D. Lillard
+422,4,1:57.0,110,90,POR,NYK,0,home,Sub,,,,,P. Connaughton,A. Crabbe
+423,4,1:45.0,110,92,POR,NYK,12,away,JS,assist,22,make2,2,S. Vujačić,M. Plumlee
+424,4,1:28.0,110,92,POR,NYK,17,home,LU,block,1,miss2,0,J. Layman,M. Plumlee
+425,4,1:28.0,110,92,POR,NYK,0,away,DefReb,,,DefReb,,Team,
+426,4,1:20.0,110,92,POR,NYK,8,away,JS,,2,miss2,0,C. Randle,
+427,4,1:20.0,110,92,POR,NYK,0,home,DefReb,,,DefReb,,N. Vonleh,
+428,4,1:17.0,110,92,POR,NYK,3,home,BadPass,,,turnover,,N. Vonleh,
+429,4,1:04.0,110,92,POR,NYK,13,away,LostBall,steal,,turnover,,M. Plumlee,N. Vonleh
+430,4,0:51.0,110,92,POR,NYK,13,home,JS,,25,miss3,0,J. Layman,
+431,4,0:51.0,110,92,POR,NYK,0,away,DefReb,,,DefReb,,M. Plumlee,
+432,4,0:39.0,110,95,POR,NYK,12,away,JS,assist,23,make3,3,C. Randle,M. Plumlee
+433,4,0:16.0,110,95,POR,NYK,23,home,Traveling,,,turnover,,E. Turner,
+434,4,0:09.0,110,95,POR,NYK,7,away,BadPass,steal,,turnover,,S. Vujačić,J. Layman

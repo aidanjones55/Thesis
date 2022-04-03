@@ -1,0 +1,429 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,2,0,ORL,DAL,17,home,JS,assist,20,make2,2,N. Vučević,E. Payton
+1,1,11:19.0,2,0,ORL,DAL,24,away,JS,,16,miss2,0,T. Chandler,
+2,1,11:17.0,2,0,ORL,DAL,2,home,DefReb,,,DefReb,,N. Vučević,
+3,1,11:05.0,2,0,ORL,DAL,12,home,LU,,2,miss2,0,A. Gordon,
+4,1,11:04.0,2,0,ORL,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+5,1,10:46.0,2,0,ORL,DAL,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Harris,R. Jefferson
+6,1,10:39.0,2,3,ORL,DAL,7,away,JS,assist,23,make3,3,R. Jefferson,M. Ellis
+7,1,10:32.0,2,3,ORL,DAL,7,home,LostBall,steal,,turnover,,E. Payton,D. Nowitzki
+8,1,10:22.0,2,3,ORL,DAL,10,away,Timeout,,,,,,
+9,1,10:22.0,2,3,ORL,DAL,0,away,Sub,,,,,D. Harris,R. Rondo
+10,1,10:08.0,2,5,ORL,DAL,14,away,DK,assist,0,make2,2,T. Chandler,D. Harris
+11,1,9:57.0,4,5,ORL,DAL,11,home,DK,assist,0,make2,2,E. Fournier,N. Vučević
+12,1,9:48.0,4,5,ORL,DAL,9,away,JS,,5,miss2,0,M. Ellis,
+13,1,9:46.0,4,5,ORL,DAL,2,home,DefReb,,,DefReb,,N. Vučević,
+14,1,9:43.0,4,5,ORL,DAL,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,T. Harris
+15,1,9:43.0,5,5,ORL,DAL,0,home,FreeThrow,,,make1,1,T. Harris,
+16,1,9:43.0,5,5,ORL,DAL,0,home,FreeThrow,,,make1,0,T. Harris,
+17,1,9:42.0,5,5,ORL,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+18,1,9:25.0,5,5,ORL,DAL,17,away,JS,,17,miss2,0,D. Nowitzki,
+19,1,9:24.0,5,5,ORL,DAL,1,home,DefReb,,,DefReb,,E. Fournier,
+20,1,9:21.0,5,5,ORL,DAL,3,away,ChargeFoul,DrawnBy,,ChargeFoul,,T. Harris,D. Harris
+21,1,9:21.0,5,5,ORL,DAL,0,home,OffensiveFoul,,,turnover,,T. Harris,
+22,1,9:21.0,5,5,ORL,DAL,0,home,Sub,,,,,C. Frye,T. Harris
+23,1,9:21.0,5,5,ORL,DAL,0,away,Sub,,,,,G. Smith,T. Chandler
+24,1,9:02.0,5,7,ORL,DAL,19,away,LU,assist,2,make2,2,G. Smith,D. Nowitzki
+25,1,8:45.0,5,7,ORL,DAL,17,home,JS,,25,miss3,0,C. Frye,
+26,1,8:43.0,5,7,ORL,DAL,2,away,DefReb,,,DefReb,,G. Smith,
+27,1,8:29.0,5,9,ORL,DAL,14,away,JS,,16,make2,2,M. Ellis,
+28,1,8:09.0,5,9,ORL,DAL,20,home,DK,block,0,miss2,0,N. Vučević,R. Jefferson
+29,1,8:06.0,5,9,ORL,DAL,3,away,DefReb,,,DefReb,,G. Smith,
+30,1,7:58.0,5,9,ORL,DAL,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,R. Jefferson
+31,1,7:58.0,5,9,ORL,DAL,0,away,FreeThrow,,,make1,0,R. Jefferson,
+32,1,7:58.0,5,9,ORL,DAL,0,away,OffReb,,,OffReb,,Team,
+33,1,7:58.0,5,10,ORL,DAL,0,away,FreeThrow,,,make1,1,R. Jefferson,
+34,1,7:46.0,5,10,ORL,DAL,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,A. Gordon
+35,1,7:46.0,6,10,ORL,DAL,0,home,FreeThrow,,,make1,1,A. Gordon,
+36,1,7:46.0,7,10,ORL,DAL,0,home,FreeThrow,,,make1,1,A. Gordon,
+37,1,7:30.0,7,10,ORL,DAL,16,away,JS,,21,miss2,0,M. Ellis,
+38,1,7:29.0,7,10,ORL,DAL,1,away,OffReb,,,OffReb,,Team,
+39,1,7:29.0,7,10,ORL,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Frye,D. Nowitzki
+40,1,7:24.0,7,13,ORL,DAL,5,away,JS,assist,25,make3,3,D. Nowitzki,M. Ellis
+41,1,7:08.0,7,13,ORL,DAL,16,home,JS,,8,miss2,0,E. Payton,
+42,1,7:06.0,7,13,ORL,DAL,2,home,OffReb,,,OffReb,,E. Payton,
+43,1,7:06.0,7,13,ORL,DAL,0,home,TI,,0,miss2,0,E. Payton,
+44,1,7:04.0,7,13,ORL,DAL,2,home,OffReb,,,OffReb,,N. Vučević,
+45,1,7:04.0,7,13,ORL,DAL,0,home,TI,,2,miss2,0,N. Vučević,
+46,1,7:02.0,7,13,ORL,DAL,2,home,OffReb,,,OffReb,,N. Vučević,
+47,1,7:02.0,9,13,ORL,DAL,0,home,LU,,1,make2,2,N. Vučević,
+48,1,6:47.0,9,15,ORL,DAL,15,away,JS,,8,make2,2,D. Harris,
+49,1,6:38.0,9,15,ORL,DAL,9,home,JS,,15,miss2,0,E. Fournier,
+50,1,6:36.0,9,15,ORL,DAL,2,away,DefReb,,,DefReb,,G. Smith,
+51,1,6:28.0,9,17,ORL,DAL,8,away,LU,assist,2,make2,2,G. Smith,M. Ellis
+52,1,6:21.0,9,17,ORL,DAL,7,home,JS,,26,miss3,0,A. Gordon,
+53,1,6:19.0,9,17,ORL,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+54,1,6:10.0,9,19,ORL,DAL,9,away,LU,,2,make2,2,M. Ellis,
+55,1,6:04.0,9,19,ORL,DAL,6,home,Timeout,,,,,,
+56,1,6:04.0,9,19,ORL,DAL,0,home,Sub,,,,,M. Harkless,A. Gordon
+57,1,6:04.0,9,19,ORL,DAL,0,away,Sub,,,,,T. Chandler,D. Nowitzki
+58,1,6:04.0,9,19,ORL,DAL,0,away,Sub,,,,,C. Villanueva,G. Smith
+59,1,5:49.0,9,19,ORL,DAL,15,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,M. Ellis,E. Fournier
+60,1,5:43.0,9,19,ORL,DAL,6,home,LU,,2,miss2,0,E. Payton,
+61,1,5:41.0,9,19,ORL,DAL,2,home,OffReb,,,OffReb,,E. Payton,
+62,1,5:35.0,9,19,ORL,DAL,6,home,HS,,7,miss2,0,C. Frye,
+63,1,5:31.0,9,19,ORL,DAL,4,home,OffReb,,,OffReb,,E. Payton,
+64,1,5:31.0,9,19,ORL,DAL,0,home,LU,,1,miss2,0,E. Payton,
+65,1,5:29.0,9,19,ORL,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+66,1,5:25.0,9,22,ORL,DAL,4,away,JS,assist,25,make3,3,D. Harris,T. Chandler
+67,1,5:04.0,9,22,ORL,DAL,21,home,JS,,21,miss2,0,C. Frye,
+68,1,5:03.0,9,22,ORL,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+69,1,4:55.0,9,22,ORL,DAL,8,away,JS,,27,miss3,0,D. Harris,
+70,1,4:53.0,9,22,ORL,DAL,2,home,DefReb,,,DefReb,,N. Vučević,
+71,1,4:43.0,11,22,ORL,DAL,10,home,LU,,1,make2,2,E. Payton,
+72,1,4:27.0,11,24,ORL,DAL,16,away,JS,assist,16,make2,2,T. Chandler,R. Jefferson
+73,1,4:12.0,11,24,ORL,DAL,15,home,BadPass,steal,,turnover,,C. Frye,R. Jefferson
+74,1,4:12.0,11,24,ORL,DAL,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Payton,R. Jefferson
+75,1,4:12.0,11,24,ORL,DAL,0,away,Sub,,,,,J. Barea,D. Harris
+76,1,4:12.0,11,24,ORL,DAL,0,home,Sub,,,,,W. Green,E. Payton
+77,1,4:12.0,11,24,ORL,DAL,0,away,Sub,,,,,A. Aminu,R. Jefferson
+78,1,3:49.0,11,26,ORL,DAL,23,away,LU,assist,1,make2,2,T. Chandler,M. Ellis
+79,1,3:31.0,13,26,ORL,DAL,18,home,JS,assist,5,make2,2,E. Fournier,N. Vučević
+80,1,3:12.0,13,26,ORL,DAL,19,away,JS,,25,miss3,0,A. Aminu,
+81,1,3:10.0,13,26,ORL,DAL,2,home,DefReb,,,DefReb,,C. Frye,
+82,1,2:54.0,13,26,ORL,DAL,16,home,JS,block,8,miss2,0,E. Fournier,M. Ellis
+83,1,2:54.0,13,26,ORL,DAL,0,home,OffReb,,,OffReb,,Team,
+84,1,2:51.0,13,26,ORL,DAL,3,home,JS,,8,miss2,0,C. Frye,
+85,1,2:50.0,13,26,ORL,DAL,1,home,OffReb,,,OffReb,,C. Frye,
+86,1,2:47.0,15,26,ORL,DAL,3,home,HS,,7,make2,2,C. Frye,
+87,1,2:33.0,15,26,ORL,DAL,14,away,JS,,23,miss3,0,C. Villanueva,
+88,1,2:32.0,15,26,ORL,DAL,1,home,DefReb,,,DefReb,,M. Harkless,
+89,1,2:20.0,17,26,ORL,DAL,12,home,JS,assist,21,make2,2,C. Frye,M. Harkless
+90,1,2:19.0,17,26,ORL,DAL,1,away,Timeout,,,,,,
+91,1,2:19.0,17,26,ORL,DAL,0,home,Sub,,,,,D. Dedmon,N. Vučević
+92,1,2:19.0,17,26,ORL,DAL,0,away,Sub,,,,,D. Harris,M. Ellis
+93,1,2:06.0,17,26,ORL,DAL,13,away,JS,,20,miss2,0,C. Villanueva,
+94,1,2:04.0,17,26,ORL,DAL,2,home,DefReb,,,DefReb,,W. Green,
+95,1,1:58.0,17,26,ORL,DAL,6,home,JS,,25,miss3,0,C. Frye,
+96,1,1:56.0,17,26,ORL,DAL,2,away,DefReb,,,DefReb,,A. Aminu,
+97,1,1:47.0,17,28,ORL,DAL,9,away,DK,assist,0,make2,2,T. Chandler,D. Harris
+98,1,1:33.0,17,28,ORL,DAL,14,home,JS,,25,miss3,0,C. Frye,
+99,1,1:32.0,17,28,ORL,DAL,1,home,OffReb,,,OffReb,,W. Green,
+100,1,1:28.0,17,28,ORL,DAL,4,home,JS,,17,miss2,0,W. Green,
+101,1,1:27.0,17,28,ORL,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+102,1,1:21.0,17,28,ORL,DAL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Dedmon,J. Barea
+103,1,1:21.0,17,29,ORL,DAL,0,away,FreeThrow,,,make1,1,J. Barea,
+104,1,1:21.0,17,29,ORL,DAL,0,away,Sub,,,,,G. Smith,T. Chandler
+105,1,1:21.0,17,29,ORL,DAL,0,home,Sub,,,,,B. Gordon,E. Fournier
+106,1,1:21.0,17,29,ORL,DAL,0,away,FreeThrow,,,make1,0,J. Barea,
+107,1,1:20.0,17,29,ORL,DAL,1,home,DefReb,,,DefReb,,B. Gordon,
+108,1,1:11.0,17,29,ORL,DAL,9,home,OffensiveFoul,,,turnover,,B. Gordon,
+109,1,1:11.0,17,29,ORL,DAL,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Gordon,D. Harris
+110,1,0:55.0,17,31,ORL,DAL,16,away,JS,,8,make2,2,A. Aminu,
+111,1,0:55.0,17,31,ORL,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Harkless,A. Aminu
+112,1,0:55.0,17,32,ORL,DAL,0,away,FreeThrow,,,make1,1,A. Aminu,
+113,1,0:35.0,17,32,ORL,DAL,20,home,JS,,26,miss3,0,B. Gordon,
+114,1,0:34.0,17,32,ORL,DAL,1,away,DefReb,,,DefReb,,A. Aminu,
+115,1,0:12.0,17,34,ORL,DAL,22,away,JS,,8,make2,2,J. Barea,
+116,1,0:02.0,17,34,ORL,DAL,10,home,JS,,25,miss3,0,M. Harkless,
+117,1,0:01.0,17,34,ORL,DAL,1,away,DefReb,,,DefReb,,D. Harris,
+118,2,11:47.0,17,36,ORL,DAL,13,away,LU,,2,make2,2,J. Barea,
+119,2,11:28.0,19,36,ORL,DAL,19,home,LU,assist,1,make2,2,D. Dedmon,B. Gordon
+120,2,11:13.0,19,36,ORL,DAL,15,away,HS,,5,miss2,0,A. Aminu,
+121,2,11:12.0,19,36,ORL,DAL,1,home,DefReb,,,DefReb,,T. Harris,
+122,2,11:03.0,19,36,ORL,DAL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Villanueva,M. Harkless
+123,2,11:03.0,20,36,ORL,DAL,0,home,FreeThrow,,,make1,1,M. Harkless,
+124,2,11:03.0,21,36,ORL,DAL,0,home,FreeThrow,,,make1,1,M. Harkless,
+125,2,10:46.0,21,38,ORL,DAL,17,away,LU,,2,make2,2,A. Aminu,
+126,2,10:28.0,21,38,ORL,DAL,18,home,LU,,1,miss2,0,D. Dedmon,
+127,2,10:27.0,21,38,ORL,DAL,1,away,DefReb,,,DefReb,,A. Aminu,
+128,2,10:12.0,21,38,ORL,DAL,15,away,JS,,25,miss3,0,J. Barea,
+129,2,10:12.0,21,38,ORL,DAL,0,home,DefReb,,,DefReb,,Team,
+130,2,10:03.0,21,38,ORL,DAL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Villanueva,M. Harkless
+131,2,10:00.0,21,38,ORL,DAL,3,away,KickBallViolation,,,KickBallViolation,,J. Barea,
+132,2,9:53.0,21,38,ORL,DAL,7,home,BadPass,steal,,turnover,,B. Gordon,R. Felton
+133,2,9:48.0,21,38,ORL,DAL,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,C. Villanueva
+134,2,9:48.0,21,38,ORL,DAL,0,away,FreeThrow,,,make1,0,C. Villanueva,
+135,2,9:48.0,21,38,ORL,DAL,0,away,OffReb,,,OffReb,,Team,
+136,2,9:48.0,21,38,ORL,DAL,0,home,Sub,,,,,A. Gordon,M. Harkless
+137,2,9:48.0,21,38,ORL,DAL,0,home,Sub,,,,,N. Vučević,D. Dedmon
+138,2,9:48.0,21,38,ORL,DAL,0,away,Sub,,,,,G. Smith,A. Aminu
+139,2,9:48.0,21,38,ORL,DAL,0,away,FreeThrow,,,make1,0,C. Villanueva,
+140,2,9:48.0,21,38,ORL,DAL,0,home,DefReb,,,DefReb,,N. Vučević,
+141,2,9:28.0,21,38,ORL,DAL,20,home,LU,block,1,miss2,0,A. Gordon,C. Villanueva
+142,2,9:26.0,21,38,ORL,DAL,2,away,DefReb,,,DefReb,,G. Smith,
+143,2,9:18.0,21,38,ORL,DAL,8,away,BadPass,steal,,turnover,,D. Nowitzki,W. Green
+144,2,9:12.0,21,38,ORL,DAL,6,home,BadPass,steal,,turnover,,B. Gordon,J. Barea
+145,2,9:09.0,21,38,ORL,DAL,3,away,LostBall,steal,,turnover,,J. Barea,W. Green
+146,2,9:01.0,21,38,ORL,DAL,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Smith,W. Green
+147,2,9:01.0,22,38,ORL,DAL,0,home,FreeThrow,,,make1,1,W. Green,
+148,2,9:01.0,22,38,ORL,DAL,0,away,Sub,,,,,A. Aminu,C. Villanueva
+149,2,9:01.0,23,38,ORL,DAL,0,home,FreeThrow,,,make1,1,W. Green,
+150,2,8:46.0,23,38,ORL,DAL,15,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Felton,T. Harris
+151,2,8:46.0,23,38,ORL,DAL,0,away,OffensiveFoul,,,turnover,,R. Felton,
+152,2,8:46.0,23,38,ORL,DAL,0,away,Timeout,,,,,,
+153,2,8:31.0,23,38,ORL,DAL,15,home,BadPass,,,turnover,,B. Gordon,
+154,2,8:14.0,23,38,ORL,DAL,17,away,JS,,25,miss3,0,R. Felton,
+155,2,8:13.0,23,38,ORL,DAL,1,home,DefReb,,,DefReb,,A. Gordon,
+156,2,8:03.0,25,38,ORL,DAL,10,home,LU,,2,make2,2,T. Harris,
+157,2,7:42.0,25,41,ORL,DAL,21,away,JS,assist,25,make3,3,J. Barea,D. Nowitzki
+158,2,7:12.0,25,41,ORL,DAL,30,home,JS,,17,miss2,0,B. Gordon,
+159,2,7:10.0,25,41,ORL,DAL,2,home,OffReb,,,OffReb,,N. Vučević,
+160,2,7:10.0,27,41,ORL,DAL,0,home,HS,,2,make2,2,N. Vučević,
+161,2,6:54.0,27,41,ORL,DAL,16,away,DK,,0,miss2,0,G. Smith,
+162,2,6:53.0,27,41,ORL,DAL,1,away,OffReb,,,OffReb,,D. Nowitzki,
+163,2,6:34.0,27,43,ORL,DAL,19,away,LU,,2,make2,2,D. Nowitzki,
+164,2,6:20.0,30,43,ORL,DAL,14,home,JS,assist,25,make3,3,B. Gordon,T. Harris
+165,2,6:17.0,30,43,ORL,DAL,3,away,Timeout,,,,,,
+166,2,6:17.0,30,43,ORL,DAL,0,away,Sub,,,,,R. Jefferson,D. Nowitzki
+167,2,6:17.0,30,43,ORL,DAL,0,away,Sub,,,,,T. Chandler,G. Smith
+168,2,6:17.0,30,43,ORL,DAL,0,away,Sub,,,,,D. Harris,J. Barea
+169,2,6:17.0,30,43,ORL,DAL,0,away,Sub,,,,,M. Ellis,R. Felton
+170,2,6:17.0,30,43,ORL,DAL,0,home,Sub,,,,,E. Payton,W. Green
+171,2,6:17.0,30,43,ORL,DAL,0,home,Sub,,,,,E. Fournier,B. Gordon
+172,2,6:05.0,30,43,ORL,DAL,12,away,JS,,21,miss2,0,R. Jefferson,
+173,2,6:03.0,30,43,ORL,DAL,2,away,OffReb,,,OffReb,,A. Aminu,
+174,2,5:57.0,30,45,ORL,DAL,6,away,DK,assist,0,make2,2,T. Chandler,M. Ellis
+175,2,5:41.0,30,45,ORL,DAL,16,home,JS,,14,miss2,0,N. Vučević,
+176,2,5:40.0,30,45,ORL,DAL,1,away,DefReb,,,DefReb,,A. Aminu,
+177,2,5:31.0,30,47,ORL,DAL,9,away,JS,,17,make2,2,M. Ellis,
+178,2,5:08.0,32,47,ORL,DAL,23,home,HS,,7,make2,2,N. Vučević,
+179,2,4:52.0,32,47,ORL,DAL,16,away,JS,block,3,miss2,0,T. Chandler,N. Vučević
+180,2,4:51.0,32,47,ORL,DAL,1,away,OffReb,,,OffReb,,A. Aminu,
+181,2,4:47.0,32,47,ORL,DAL,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,R. Jefferson
+182,2,4:47.0,32,48,ORL,DAL,0,away,FreeThrow,,,make1,1,R. Jefferson,
+183,2,4:47.0,32,49,ORL,DAL,0,away,FreeThrow,,,make1,1,R. Jefferson,
+184,2,4:35.0,34,49,ORL,DAL,12,home,JS,,19,make2,2,E. Fournier,
+185,2,4:15.0,34,52,ORL,DAL,20,away,JS,assist,25,make3,3,R. Jefferson,M. Ellis
+186,2,4:05.0,34,52,ORL,DAL,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Aminu,E. Fournier
+187,2,3:57.0,34,52,ORL,DAL,8,home,LostBall,steal,,turnover,,E. Payton,A. Aminu
+188,2,3:51.0,34,54,ORL,DAL,6,away,LU,assist,2,make2,2,R. Jefferson,A. Aminu
+189,2,3:46.0,34,54,ORL,DAL,5,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Gordon,D. Harris
+190,2,3:46.0,34,54,ORL,DAL,0,home,OffensiveFoul,,,turnover,,A. Gordon,
+191,2,3:32.0,34,56,ORL,DAL,14,away,DK,assist,0,make2,2,T. Chandler,D. Harris
+192,2,3:16.0,34,56,ORL,DAL,16,home,JS,,9,miss2,0,T. Harris,
+193,2,3:14.0,34,56,ORL,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+194,2,2:59.0,34,59,ORL,DAL,15,away,JS,assist,25,make3,3,M. Ellis,T. Chandler
+195,2,2:59.0,34,59,ORL,DAL,0,home,Timeout,,,,,,
+196,2,2:59.0,34,59,ORL,DAL,0,home,Sub,,,,,D. Dedmon,A. Gordon
+197,2,2:59.0,34,59,ORL,DAL,0,home,Sub,,,,,W. Green,N. Vučević
+198,2,2:59.0,34,59,ORL,DAL,0,home,Sub,,,,,B. Gordon,E. Payton
+199,2,2:45.0,34,59,ORL,DAL,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,T. Harris
+200,2,2:45.0,34,59,ORL,DAL,0,home,FreeThrow,,,make1,0,T. Harris,
+201,2,2:45.0,34,59,ORL,DAL,0,home,OffReb,,,OffReb,,Team,
+202,2,2:45.0,35,59,ORL,DAL,0,home,FreeThrow,,,make1,1,T. Harris,
+203,2,2:26.0,35,59,ORL,DAL,19,away,BadPass,steal,,turnover,,R. Jefferson,D. Dedmon
+204,2,2:21.0,37,59,ORL,DAL,5,home,JS,assist,22,make2,2,E. Fournier,T. Harris
+205,2,2:04.0,37,59,ORL,DAL,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Dedmon,M. Ellis
+206,2,2:00.0,37,59,ORL,DAL,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Dedmon,M. Ellis
+207,2,2:00.0,37,59,ORL,DAL,0,home,Sub,,,,,N. Vučević,D. Dedmon
+208,2,1:49.0,37,62,ORL,DAL,11,away,JS,assist,25,make3,3,D. Harris,M. Ellis
+209,2,1:35.0,39,62,ORL,DAL,14,home,JS,,17,make2,2,N. Vučević,
+210,2,1:18.0,39,64,ORL,DAL,17,away,JS,,21,make2,2,M. Ellis,
+211,2,1:01.0,39,64,ORL,DAL,17,home,JS,,25,miss3,0,W. Green,
+212,2,1:00.0,39,64,ORL,DAL,1,away,DefReb,,,DefReb,,A. Aminu,
+213,2,0:43.0,39,64,ORL,DAL,17,away,JS,,25,miss3,0,D. Harris,
+214,2,0:42.0,39,64,ORL,DAL,1,home,DefReb,,,DefReb,,N. Vučević,
+215,2,0:36.0,41,64,ORL,DAL,6,home,DK,assist,0,make2,2,W. Green,T. Harris
+216,2,0:19.0,41,66,ORL,DAL,17,away,JS,,19,make2,2,M. Ellis,
+217,2,0:00.0,41,66,ORL,DAL,19,home,JS,block,19,miss2,0,B. Gordon,T. Chandler
+218,2,0:00.0,41,66,ORL,DAL,0,home,OffReb,,,OffReb,,Team,
+219,3,11:46.0,41,66,ORL,DAL,14,away,LostBall,steal,,turnover,,D. Nowitzki,T. Harris
+220,3,11:38.0,41,66,ORL,DAL,8,home,LU,,2,miss2,0,T. Harris,
+221,3,11:36.0,41,66,ORL,DAL,2,away,DefReb,,,DefReb,,M. Ellis,
+222,3,11:24.0,41,66,ORL,DAL,12,away,JS,,17,miss2,0,T. Chandler,
+223,3,11:23.0,41,66,ORL,DAL,1,home,DefReb,,,DefReb,,E. Payton,
+224,3,11:19.0,41,66,ORL,DAL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jefferson,E. Payton
+225,3,11:10.0,41,66,ORL,DAL,9,home,JS,,22,miss3,0,T. Harris,
+226,3,11:09.0,41,66,ORL,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+227,3,10:49.0,41,68,ORL,DAL,20,away,JS,assist,15,make2,2,D. Nowitzki,M. Ellis
+228,3,10:35.0,44,68,ORL,DAL,14,home,JS,assist,23,make3,3,A. Gordon,E. Fournier
+229,3,10:19.0,44,68,ORL,DAL,16,away,LostBall,steal,,turnover,,M. Ellis,E. Fournier
+230,3,10:10.0,44,68,ORL,DAL,9,home,JS,,23,miss3,0,T. Harris,
+231,3,10:09.0,44,68,ORL,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+232,3,9:57.0,44,68,ORL,DAL,12,away,JS,,14,miss2,0,D. Nowitzki,
+233,3,9:54.0,44,68,ORL,DAL,3,home,DefReb,,,DefReb,,N. Vučević,
+234,3,9:45.0,44,68,ORL,DAL,9,home,JS,,19,miss2,0,E. Payton,
+235,3,9:43.0,44,68,ORL,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+236,3,9:21.0,44,71,ORL,DAL,22,away,JS,assist,22,make3,3,D. Harris,D. Nowitzki
+237,3,8:55.0,46,71,ORL,DAL,26,home,LU,assist,0,make2,2,A. Gordon,E. Payton
+238,3,8:34.0,46,71,ORL,DAL,21,away,Sub,,,,,G. Smith,T. Chandler
+239,3,8:27.0,46,71,ORL,DAL,7,away,JS,,25,miss3,0,M. Ellis,
+240,3,8:26.0,46,71,ORL,DAL,1,home,DefReb,,,DefReb,,E. Payton,
+241,3,8:17.0,48,71,ORL,DAL,9,home,LU,assist,2,make2,2,N. Vučević,T. Harris
+242,3,8:17.0,48,71,ORL,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Smith,N. Vučević
+243,3,8:17.0,49,71,ORL,DAL,0,home,FreeThrow,,,make1,1,N. Vučević,
+244,3,8:03.0,49,74,ORL,DAL,14,away,JS,assist,23,make3,3,R. Jefferson,D. Harris
+245,3,7:46.0,51,74,ORL,DAL,17,home,JS,assist,12,make2,2,N. Vučević,E. Payton
+246,3,7:25.0,51,74,ORL,DAL,21,away,JS,,25,miss3,0,D. Harris,
+247,3,7:22.0,51,74,ORL,DAL,3,home,DefReb,,,DefReb,,N. Vučević,
+248,3,7:12.0,51,74,ORL,DAL,10,home,LU,,1,miss2,0,A. Gordon,
+249,3,7:11.0,51,74,ORL,DAL,1,home,OffReb,,,OffReb,,A. Gordon,
+250,3,7:08.0,53,74,ORL,DAL,3,home,JS,assist,20,make2,2,N. Vučević,E. Payton
+251,3,6:39.0,53,74,ORL,DAL,29,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,D. Harris
+252,3,6:39.0,53,75,ORL,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+253,3,6:39.0,53,75,ORL,DAL,0,away,FreeThrow,,,make1,0,D. Harris,
+254,3,6:37.0,53,75,ORL,DAL,2,home,DefReb,,,DefReb,,N. Vučević,
+255,3,6:25.0,53,75,ORL,DAL,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,T. Harris
+256,3,6:25.0,54,75,ORL,DAL,0,home,FreeThrow,,,make1,1,T. Harris,
+257,3,6:25.0,55,75,ORL,DAL,0,home,FreeThrow,,,make1,1,T. Harris,
+258,3,6:13.0,55,75,ORL,DAL,12,away,JS,,19,miss2,0,M. Ellis,
+259,3,6:12.0,55,75,ORL,DAL,1,home,DefReb,,,DefReb,,N. Vučević,
+260,3,6:00.0,58,75,ORL,DAL,12,home,JS,assist,23,make3,3,A. Gordon,E. Payton
+261,3,5:59.0,58,75,ORL,DAL,1,away,Timeout,,,,,,
+262,3,5:59.0,58,75,ORL,DAL,0,away,Sub,,,,,C. Villanueva,D. Nowitzki
+263,3,5:59.0,58,75,ORL,DAL,0,away,Sub,,,,,T. Chandler,G. Smith
+264,3,5:37.0,58,77,ORL,DAL,22,away,HS,assist,5,make2,2,T. Chandler,M. Ellis
+265,3,5:37.0,58,77,ORL,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,T. Chandler
+266,3,5:37.0,58,78,ORL,DAL,0,away,FreeThrow,,,make1,1,T. Chandler,
+267,3,5:22.0,58,78,ORL,DAL,15,home,JS,,12,miss2,0,N. Vučević,
+268,3,5:21.0,58,78,ORL,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+269,3,5:05.0,58,78,ORL,DAL,16,away,BadPass,steal,,turnover,,D. Harris,E. Payton
+270,3,5:02.0,58,78,ORL,DAL,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,E. Payton
+271,3,5:02.0,59,78,ORL,DAL,0,home,FreeThrow,,,make1,1,E. Payton,
+272,3,5:02.0,60,78,ORL,DAL,0,home,FreeThrow,,,make1,1,E. Payton,
+273,3,4:49.0,60,78,ORL,DAL,13,away,JS,,21,miss2,0,D. Harris,
+274,3,4:48.0,60,78,ORL,DAL,1,home,DefReb,,,DefReb,,N. Vučević,
+275,3,4:27.0,60,78,ORL,DAL,21,home,LU,,2,miss2,0,T. Harris,
+276,3,4:26.0,60,78,ORL,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+277,3,4:20.0,60,81,ORL,DAL,6,away,JS,assist,25,make3,3,C. Villanueva,D. Harris
+278,3,4:13.0,60,81,ORL,DAL,7,home,OffensiveFoul,,,turnover,,E. Payton,
+279,3,4:13.0,60,81,ORL,DAL,0,away,ChargeFoul,DrawnBy,,ChargeFoul,,E. Payton,D. Harris
+280,3,4:13.0,60,81,ORL,DAL,0,home,Sub,,,,,M. Harkless,A. Gordon
+281,3,4:13.0,60,81,ORL,DAL,0,away,Sub,,,,,J. Barea,R. Jefferson
+282,3,4:13.0,60,81,ORL,DAL,0,away,Sub,,,,,A. Aminu,D. Harris
+283,3,3:57.0,60,81,ORL,DAL,16,away,JS,,10,miss2,0,M. Ellis,
+284,3,3:56.0,60,81,ORL,DAL,1,home,DefReb,,,DefReb,,T. Harris,
+285,3,3:48.0,63,81,ORL,DAL,8,home,JS,assist,27,make3,3,E. Fournier,T. Harris
+286,3,3:33.0,63,81,ORL,DAL,15,away,LU,block,2,miss2,0,A. Aminu,M. Harkless
+287,3,3:31.0,63,81,ORL,DAL,2,home,DefReb,,,DefReb,,N. Vučević,
+288,3,3:17.0,63,81,ORL,DAL,14,home,JS,,22,miss3,0,T. Harris,
+289,3,3:15.0,63,81,ORL,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+290,3,3:08.0,63,83,ORL,DAL,7,away,LU,assist,1,make2,2,T. Chandler,M. Ellis
+291,3,3:08.0,63,83,ORL,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Fournier,T. Chandler
+292,3,3:08.0,63,84,ORL,DAL,0,away,FreeThrow,,,make1,1,T. Chandler,
+293,3,3:08.0,63,84,ORL,DAL,0,home,Timeout,,,,,,
+294,3,3:08.0,63,84,ORL,DAL,0,home,Sub,,,,,W. Green,E. Payton
+295,3,2:52.0,63,84,ORL,DAL,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,M. Harkless
+296,3,2:52.0,63,84,ORL,DAL,0,home,FreeThrow,,,make1,0,M. Harkless,
+297,3,2:52.0,63,84,ORL,DAL,0,home,OffReb,,,OffReb,,Team,
+298,3,2:52.0,64,84,ORL,DAL,0,home,FreeThrow,,,make1,1,M. Harkless,
+299,3,2:37.0,64,87,ORL,DAL,15,away,JS,assist,25,make3,3,C. Villanueva,M. Ellis
+300,3,2:17.0,66,87,ORL,DAL,20,home,JS,,10,make2,2,W. Green,
+301,3,1:53.0,66,87,ORL,DAL,24,away,BadPass,steal,,turnover,,M. Ellis,M. Harkless
+302,3,1:50.0,66,87,ORL,DAL,3,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,M. Ellis,M. Harkless
+303,3,1:50.0,67,87,ORL,DAL,0,home,FreeThrow,,,make1,1,M. Harkless,
+304,3,1:50.0,68,87,ORL,DAL,0,home,FreeThrow,,,make1,1,M. Harkless,
+305,3,1:33.0,68,87,ORL,DAL,17,away,JS,,9,miss2,0,C. Villanueva,
+306,3,1:32.0,68,87,ORL,DAL,1,home,DefReb,,,DefReb,,N. Vučević,
+307,3,1:15.0,68,87,ORL,DAL,17,home,JS,,20,miss2,0,N. Vučević,
+308,3,1:13.0,68,87,ORL,DAL,2,away,DefReb,,,DefReb,,C. Villanueva,
+309,3,0:59.0,68,87,ORL,DAL,14,away,BadPass,steal,,turnover,,J. Barea,E. Fournier
+310,3,0:55.0,68,87,ORL,DAL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,E. Fournier
+311,3,0:55.0,69,87,ORL,DAL,0,home,FreeThrow,,,make1,1,E. Fournier,
+312,3,0:55.0,69,87,ORL,DAL,0,away,Sub,,,,,R. Felton,M. Ellis
+313,3,0:55.0,69,87,ORL,DAL,0,away,Sub,,,,,D. Nowitzki,T. Chandler
+314,3,0:55.0,70,87,ORL,DAL,0,home,FreeThrow,,,make1,1,E. Fournier,
+315,3,0:31.0,70,87,ORL,DAL,24,away,JS,,23,miss3,0,C. Villanueva,
+316,3,0:30.0,70,87,ORL,DAL,1,home,DefReb,,,DefReb,,E. Fournier,
+317,3,0:10.0,70,87,ORL,DAL,20,home,LostBall,steal,,turnover,,M. Harkless,A. Aminu
+318,3,0:06.0,70,87,ORL,DAL,4,away,LU,block,1,miss2,0,J. Barea,M. Harkless
+319,3,0:06.0,70,87,ORL,DAL,0,away,OffReb,,,OffReb,,Team,
+320,3,0:06.0,70,87,ORL,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,E. Fournier,A. Aminu
+321,3,0:06.0,70,88,ORL,DAL,0,away,FreeThrow,,,make1,1,A. Aminu,
+322,3,0:06.0,70,88,ORL,DAL,0,away,Sub,,,,,R. Jefferson,D. Nowitzki
+323,3,0:06.0,70,88,ORL,DAL,0,away,FreeThrow,,,make1,0,A. Aminu,
+324,3,0:05.0,70,88,ORL,DAL,1,home,DefReb,,,DefReb,,N. Vučević,
+325,3,0:00.0,70,88,ORL,DAL,5,home,JS,,33,miss3,0,W. Green,
+326,3,0:00.0,70,88,ORL,DAL,0,home,OffReb,,,OffReb,,Team,
+327,4,11:43.0,73,88,ORL,DAL,17,home,JS,assist,25,make3,3,C. Frye,W. Green
+328,4,11:21.0,73,90,ORL,DAL,22,away,LU,,2,make2,2,J. Barea,
+329,4,10:56.0,76,90,ORL,DAL,25,home,JS,assist,24,make3,3,W. Green,C. Frye
+330,4,10:42.0,76,90,ORL,DAL,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Frye,D. Nowitzki
+331,4,10:29.0,76,90,ORL,DAL,13,away,JS,,21,miss2,0,J. Barea,
+332,4,10:28.0,76,90,ORL,DAL,1,home,DefReb,,,DefReb,,B. Gordon,
+333,4,10:14.0,76,90,ORL,DAL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Barea,W. Green
+334,4,10:07.0,78,90,ORL,DAL,7,home,LU,,2,make2,2,W. Green,
+335,4,10:01.0,78,90,ORL,DAL,6,away,Timeout,,,,,,
+336,4,10:01.0,78,90,ORL,DAL,0,away,Sub,,,,,T. Chandler,C. Villanueva
+337,4,10:01.0,78,90,ORL,DAL,0,away,Sub,,,,,M. Ellis,R. Felton
+338,4,9:54.0,78,90,ORL,DAL,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Gordon,D. Nowitzki
+339,4,9:47.0,78,90,ORL,DAL,7,away,LostBall,steal,,turnover,,M. Ellis,B. Gordon
+340,4,9:26.0,78,90,ORL,DAL,21,home,JS,,25,miss3,0,W. Green,
+341,4,9:25.0,78,90,ORL,DAL,1,away,DefReb,,,DefReb,,A. Aminu,
+342,4,9:20.0,78,90,ORL,DAL,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Gordon,M. Ellis
+343,4,9:20.0,78,91,ORL,DAL,0,away,FreeThrow,,,make1,1,M. Ellis,
+344,4,9:20.0,78,92,ORL,DAL,0,away,FreeThrow,,,make1,1,M. Ellis,
+345,4,9:06.0,80,92,ORL,DAL,14,home,LU,assist,2,make2,2,W. Green,C. Frye
+346,4,8:52.0,80,92,ORL,DAL,14,away,Traveling,,,turnover,,D. Nowitzki,
+347,4,8:34.0,83,92,ORL,DAL,18,home,JS,assist,25,make3,3,B. Gordon,W. Green
+348,4,8:18.0,83,94,ORL,DAL,16,away,JS,assist,17,make2,2,D. Nowitzki,M. Ellis
+349,4,7:55.0,83,94,ORL,DAL,23,home,LostBall,steal,,turnover,,B. Gordon,M. Ellis
+350,4,7:54.0,83,94,ORL,DAL,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,C. Frye,M. Ellis
+351,4,7:54.0,83,94,ORL,DAL,0,home,TechnicalFoul,,,TechnicalFoul,,B. Gordon,
+352,4,7:54.0,83,94,ORL,DAL,0,home,Ejection,,,Ejection,,B. Gordon,
+353,4,7:54.0,83,94,ORL,DAL,0,home,Sub,,,,,E. Fournier,B. Gordon
+354,4,7:54.0,83,94,ORL,DAL,0,away,FreeThrow,,,make1,0,D. Nowitzki misses technical free throw,
+355,4,7:54.0,83,94,ORL,DAL,0,away,OffReb,,,OffReb,,Team,
+356,4,7:54.0,83,94,ORL,DAL,0,away,Sub,,,,,C. Villanueva,D. Nowitzki
+357,4,7:54.0,83,94,ORL,DAL,0,away,Sub,,,,,D. Harris,J. Barea
+358,4,7:43.0,83,94,ORL,DAL,11,away,JS,,25,miss3,0,M. Ellis,
+359,4,7:41.0,83,94,ORL,DAL,2,home,DefReb,,,DefReb,,A. Gordon,
+360,4,7:28.0,85,94,ORL,DAL,13,home,LU,,2,make2,2,W. Green,
+361,4,7:28.0,85,94,ORL,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Villanueva,W. Green
+362,4,7:28.0,85,94,ORL,DAL,0,home,FreeThrow,,,make1,0,W. Green,
+363,4,7:26.0,85,94,ORL,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+364,4,7:07.0,85,94,ORL,DAL,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,C. Villanueva
+365,4,7:07.0,85,94,ORL,DAL,0,away,FreeThrow,,,make1,0,C. Villanueva,
+366,4,7:07.0,85,94,ORL,DAL,0,away,OffReb,,,OffReb,,Team,
+367,4,7:07.0,85,94,ORL,DAL,0,away,FreeThrow,,,make1,0,C. Villanueva,
+368,4,7:06.0,85,94,ORL,DAL,1,home,DefReb,,,DefReb,,C. Frye,
+369,4,6:43.0,85,94,ORL,DAL,23,home,JS,,19,miss2,0,W. Green,
+370,4,6:42.0,85,94,ORL,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+371,4,6:26.0,85,94,ORL,DAL,16,away,JS,,17,miss2,0,M. Ellis,
+372,4,6:25.0,85,94,ORL,DAL,1,home,DefReb,,,DefReb,,M. Harkless,
+373,4,6:16.0,85,94,ORL,DAL,9,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Harris,A. Gordon
+374,4,6:16.0,85,94,ORL,DAL,0,home,FreeThrow,,,make1,0,A. Gordon,
+375,4,6:16.0,85,94,ORL,DAL,0,home,OffReb,,,OffReb,,Team,
+376,4,6:16.0,85,94,ORL,DAL,0,away,Sub,,,,,D. Nowitzki,C. Villanueva
+377,4,6:16.0,85,94,ORL,DAL,0,away,Sub,,,,,R. Jefferson,A. Aminu
+378,4,6:16.0,86,94,ORL,DAL,0,home,FreeThrow,,,make1,1,A. Gordon,
+379,4,6:05.0,86,94,ORL,DAL,11,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Harris,W. Green
+380,4,6:05.0,86,94,ORL,DAL,0,away,OffensiveFoul,,,turnover,,D. Harris,
+381,4,5:52.0,89,94,ORL,DAL,13,home,JS,assist,25,make3,3,C. Frye,W. Green
+382,4,5:50.0,89,94,ORL,DAL,2,away,Timeout,,,,,,
+383,4,5:50.0,89,94,ORL,DAL,0,away,Timeout,,,,,,
+384,4,5:37.0,89,96,ORL,DAL,13,away,DK,assist,0,make2,2,T. Chandler,M. Ellis
+385,4,5:12.0,89,96,ORL,DAL,25,home,JS,,25,miss3,0,M. Harkless,
+386,4,5:11.0,89,96,ORL,DAL,1,home,OffReb,,,OffReb,,A. Gordon,
+387,4,5:11.0,89,96,ORL,DAL,0,home,TI,,2,miss2,0,A. Gordon,
+388,4,5:09.0,89,96,ORL,DAL,2,away,DefReb,,,DefReb,,R. Jefferson,
+389,4,4:51.0,89,96,ORL,DAL,18,away,JS,,10,miss2,0,M. Ellis,
+390,4,4:49.0,89,96,ORL,DAL,2,home,DefReb,,,DefReb,,W. Green,
+391,4,4:43.0,89,96,ORL,DAL,6,home,JS,,25,miss3,0,E. Fournier,
+392,4,4:42.0,89,96,ORL,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+393,4,4:25.0,89,96,ORL,DAL,17,away,JS,,12,miss2,0,D. Nowitzki,
+394,4,4:24.0,89,96,ORL,DAL,1,home,DefReb,,,DefReb,,A. Gordon,
+395,4,4:05.0,89,96,ORL,DAL,19,home,JS,,22,miss2,0,E. Fournier,
+396,4,4:04.0,89,96,ORL,DAL,1,away,DefReb,,,DefReb,,R. Jefferson,
+397,4,3:46.0,89,98,ORL,DAL,18,away,LU,,2,make2,2,M. Ellis,
+398,4,3:46.0,89,98,ORL,DAL,0,home,Timeout,,,,,,
+399,4,3:46.0,89,98,ORL,DAL,0,home,Sub,,,,,T. Harris,A. Gordon
+400,4,3:46.0,89,98,ORL,DAL,0,home,Timeout,,,,,,
+401,4,3:23.0,89,98,ORL,DAL,23,home,JS,,18,miss2,0,W. Green,
+402,4,3:22.0,89,98,ORL,DAL,1,away,DefReb,,,DefReb,,M. Ellis,
+403,4,3:02.0,89,100,ORL,DAL,20,away,JS,,19,make2,2,M. Ellis,
+404,4,2:44.0,89,100,ORL,DAL,18,home,JS,,26,miss3,0,C. Frye,
+405,4,2:43.0,89,100,ORL,DAL,1,home,OffReb,,,OffReb,,T. Harris,
+406,4,2:43.0,91,100,ORL,DAL,0,home,LU,,2,make2,2,T. Harris,
+407,4,2:23.0,91,102,ORL,DAL,20,away,LU,assist,2,make2,2,M. Ellis,D. Nowitzki
+408,4,2:01.0,91,102,ORL,DAL,22,home,BadPass,,,turnover,,T. Harris,
+409,4,1:46.0,91,102,ORL,DAL,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Frye,D. Nowitzki
+410,4,1:46.0,91,103,ORL,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+411,4,1:46.0,91,103,ORL,DAL,0,home,Sub,,,,,A. Gordon,E. Fournier
+412,4,1:46.0,91,104,ORL,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+413,4,1:46.0,91,104,ORL,DAL,0,home,Timeout,,,,,,
+414,4,1:46.0,91,104,ORL,DAL,0,away,Sub,,,,,A. Aminu,D. Nowitzki
+415,4,1:46.0,91,104,ORL,DAL,0,home,Sub,,,,,E. Fournier,A. Gordon
+416,4,1:44.0,91,104,ORL,DAL,2,home,BadPass,steal,,turnover,,W. Green,M. Ellis
+417,4,1:25.0,91,106,ORL,DAL,19,away,JS,,20,make2,2,M. Ellis,
+418,4,1:18.0,91,106,ORL,DAL,7,home,JS,,24,miss3,0,C. Frye,
+419,4,1:16.0,91,106,ORL,DAL,2,away,DefReb,,,DefReb,,R. Jefferson,
+420,4,1:00.0,91,108,ORL,DAL,16,away,JS,,21,make2,2,M. Ellis,
+421,4,0:53.0,93,108,ORL,DAL,7,home,LU,assist,2,make2,2,E. Fournier,W. Green
+422,4,0:53.0,93,108,ORL,DAL,0,away,Timeout,,,,,,
+423,4,0:53.0,93,108,ORL,DAL,0,home,Sub,,,,,A. Gordon,C. Frye
+424,4,0:53.0,93,108,ORL,DAL,0,away,Sub,,,,,C. Villanueva,T. Chandler
+425,4,0:33.0,93,108,ORL,DAL,20,away,JS,,19,miss2,0,M. Ellis,
+426,4,0:32.0,93,108,ORL,DAL,1,home,DefReb,,,DefReb,,E. Fournier,
+427,4,0:24.0,93,108,ORL,DAL,8,home,LostBall,steal,,turnover,,W. Green,M. Ellis

@@ -1,0 +1,477 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,2,0,DAL,MIN,15,home,JS,assist,15,make2,2,D. Nowitzki,J. Nelson
+1,1,11:24.0,2,0,DAL,MIN,21,away,JS,,26,miss3,0,Z. LaVine,
+2,1,11:23.0,2,0,DAL,MIN,1,home,DefReb,,,DefReb,,T. Chandler,
+3,1,11:07.0,2,0,DAL,MIN,16,home,JS,,23,miss3,0,C. Parsons,
+4,1,11:06.0,2,0,DAL,MIN,1,away,DefReb,,,DefReb,,A. Bennett,
+5,1,10:54.0,2,0,DAL,MIN,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Chandler,N. Peković
+6,1,10:45.0,2,2,DAL,MIN,9,away,JS,,15,make2,2,K. Martin,
+7,1,10:33.0,2,2,DAL,MIN,12,home,JS,,7,miss2,0,C. Parsons,
+8,1,10:31.0,2,2,DAL,MIN,2,home,OffReb,,,OffReb,,C. Parsons,
+9,1,10:31.0,2,2,DAL,MIN,0,home,TI,,2,miss2,0,C. Parsons,
+10,1,10:30.0,2,2,DAL,MIN,1,away,DefReb,,,DefReb,,N. Peković,
+11,1,10:25.0,2,4,DAL,MIN,5,away,JS,assist,16,make2,2,A. Bennett,K. Martin
+12,1,10:06.0,2,4,DAL,MIN,19,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. LaVine,J. Nelson
+13,1,9:51.0,2,4,DAL,MIN,15,home,ShotClockViolation,,,turnover,,Team,
+14,1,9:39.0,2,4,DAL,MIN,12,away,JS,,19,miss2,0,A. Wiggins,
+15,1,9:38.0,2,4,DAL,MIN,1,home,DefReb,,,DefReb,,C. Parsons,
+16,1,9:26.0,2,4,DAL,MIN,12,home,JS,,17,miss2,0,M. Ellis,
+17,1,9:24.0,2,4,DAL,MIN,2,away,DefReb,,,DefReb,,Z. LaVine,
+18,1,9:21.0,2,4,DAL,MIN,3,home,ChargeFoul,DrawnBy,,ChargeFoul,,Z. LaVine,J. Nelson
+19,1,9:21.0,2,4,DAL,MIN,0,away,OffensiveFoul,,,turnover,,Z. LaVine,
+20,1,9:21.0,2,4,DAL,MIN,0,away,Sub,,,,,M. Williams,Z. LaVine
+21,1,9:10.0,2,4,DAL,MIN,11,home,JS,,25,miss3,0,J. Nelson,
+22,1,9:09.0,2,4,DAL,MIN,1,away,DefReb,,,DefReb,,K. Martin,
+23,1,9:02.0,2,4,DAL,MIN,7,away,JS,,20,miss2,0,A. Bennett,
+24,1,9:01.0,2,4,DAL,MIN,1,home,DefReb,,,DefReb,,T. Chandler,
+25,1,8:57.0,2,4,DAL,MIN,4,away,ChargeFoul,DrawnBy,,ChargeFoul,,M. Ellis,K. Martin
+26,1,8:57.0,2,4,DAL,MIN,0,home,OffensiveFoul,,,turnover,,M. Ellis,
+27,1,8:44.0,2,4,DAL,MIN,13,away,JS,,12,miss2,0,A. Wiggins,
+28,1,8:41.0,2,4,DAL,MIN,3,home,DefReb,,,DefReb,,C. Parsons,
+29,1,8:33.0,5,4,DAL,MIN,8,home,JS,assist,26,make3,3,J. Nelson,C. Parsons
+30,1,8:15.0,5,4,DAL,MIN,18,away,JS,,9,miss2,0,N. Peković,
+31,1,8:13.0,5,4,DAL,MIN,2,away,OffReb,,,OffReb,,A. Wiggins,
+32,1,8:13.0,5,6,DAL,MIN,0,away,TI,,0,make2,2,A. Wiggins,
+33,1,8:05.0,7,6,DAL,MIN,8,home,DK,assist,0,make2,2,T. Chandler,J. Nelson
+34,1,7:49.0,7,8,DAL,MIN,16,away,JS,assist,16,make2,2,K. Martin,M. Williams
+35,1,7:33.0,9,8,DAL,MIN,16,home,JS,,7,make2,2,M. Ellis,
+36,1,7:06.0,9,8,DAL,MIN,27,away,JS,,28,miss3,0,M. Williams,
+37,1,7:06.0,9,8,DAL,MIN,0,away,OffReb,,,OffReb,,Team,
+38,1,7:06.0,9,8,DAL,MIN,0,away,ShotClockViolation,,,turnover,,Team,
+39,1,6:49.0,9,8,DAL,MIN,17,home,JS,,16,miss2,0,D. Nowitzki,
+40,1,6:48.0,9,8,DAL,MIN,1,away,DefReb,,,DefReb,,K. Martin,
+41,1,6:40.0,9,8,DAL,MIN,8,away,JS,,19,miss2,0,M. Williams,
+42,1,6:39.0,9,8,DAL,MIN,1,home,DefReb,,,DefReb,,T. Chandler,
+43,1,6:30.0,12,8,DAL,MIN,9,home,JS,assist,22,make3,3,M. Ellis,J. Nelson
+44,1,6:29.0,12,8,DAL,MIN,1,away,Timeout,,,,,,
+45,1,6:29.0,12,8,DAL,MIN,0,home,Sub,,,,,D. Harris,D. Nowitzki
+46,1,6:15.0,12,10,DAL,MIN,14,away,JS,assist,16,make2,2,K. Martin,N. Peković
+47,1,5:53.0,14,10,DAL,MIN,22,home,LU,assist,0,make2,2,C. Parsons,D. Harris
+48,1,5:40.0,14,12,DAL,MIN,13,away,JS,,15,make2,2,K. Martin,
+49,1,5:24.0,14,12,DAL,MIN,16,home,JS,,22,miss2,0,D. Harris,
+50,1,5:24.0,14,12,DAL,MIN,0,away,DefReb,,,DefReb,,N. Peković,
+51,1,4:59.0,14,12,DAL,MIN,25,away,JS,,28,miss3,0,K. Martin,
+52,1,4:58.0,14,12,DAL,MIN,1,home,DefReb,,,DefReb,,C. Parsons,
+53,1,4:50.0,14,12,DAL,MIN,8,home,LU,,2,miss2,0,D. Harris,
+54,1,4:49.0,14,12,DAL,MIN,1,away,DefReb,,,DefReb,,N. Peković,
+55,1,4:39.0,14,12,DAL,MIN,10,away,LU,,0,miss2,0,A. Wiggins,
+56,1,4:37.0,14,12,DAL,MIN,2,home,DefReb,,,DefReb,,T. Chandler,
+57,1,4:32.0,16,12,DAL,MIN,5,home,LU,assist,2,make2,2,J. Nelson,C. Parsons
+58,1,4:13.0,16,14,DAL,MIN,19,away,JS,,22,make2,2,M. Williams,
+59,1,3:57.0,16,14,DAL,MIN,16,home,JS,,25,miss3,0,M. Ellis,
+60,1,3:57.0,16,14,DAL,MIN,0,away,DefReb,,,DefReb,,A. Bennett,
+61,1,3:47.0,16,14,DAL,MIN,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Parsons,A. Bennett
+62,1,3:47.0,16,14,DAL,MIN,0,home,Sub,,,,,G. Smith,T. Chandler
+63,1,3:47.0,16,14,DAL,MIN,0,away,Sub,,,,,C. Budinger,A. Wiggins
+64,1,3:47.0,16,14,DAL,MIN,0,away,Sub,,,,,G. Dieng,N. Peković
+65,1,3:47.0,16,14,DAL,MIN,0,away,Sub,,,,,C. Brewer,K. Martin
+66,1,3:39.0,16,16,DAL,MIN,8,away,JS,,22,make2,2,M. Williams,
+67,1,3:31.0,16,16,DAL,MIN,8,home,Timeout,,,,,,
+68,1,3:31.0,16,16,DAL,MIN,0,home,Sub,,,,,A. Aminu,J. Nelson
+69,1,3:26.0,16,16,DAL,MIN,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Budinger,A. Aminu
+70,1,3:17.0,18,16,DAL,MIN,9,home,JS,assist,19,make2,2,C. Parsons,G. Smith
+71,1,2:56.0,18,16,DAL,MIN,21,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Budinger,C. Parsons
+72,1,2:56.0,18,16,DAL,MIN,0,away,OffensiveFoul,,,turnover,,C. Budinger,
+73,1,2:56.0,18,16,DAL,MIN,0,away,Sub,,,,,R. Hummel,A. Bennett
+74,1,2:56.0,18,16,DAL,MIN,0,home,Sub,,,,,B. Wright,G. Smith
+75,1,2:42.0,18,16,DAL,MIN,14,home,JS,,5,miss2,0,C. Parsons,
+76,1,2:41.0,18,16,DAL,MIN,1,home,OffReb,,,OffReb,,C. Parsons,
+77,1,2:32.0,18,16,DAL,MIN,9,home,JS,,20,miss2,0,M. Ellis,
+78,1,2:31.0,18,16,DAL,MIN,1,away,DefReb,,,DefReb,,C. Budinger,
+79,1,2:14.0,18,16,DAL,MIN,17,away,JS,,24,miss3,0,R. Hummel,
+80,1,2:13.0,18,16,DAL,MIN,1,home,DefReb,,,DefReb,,B. Wright,
+81,1,2:04.0,21,16,DAL,MIN,9,home,JS,assist,24,make3,3,D. Harris,M. Ellis
+82,1,1:40.0,21,18,DAL,MIN,24,away,JS,assist,15,make2,2,G. Dieng,M. Williams
+83,1,1:30.0,21,18,DAL,MIN,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Hummel,C. Parsons
+84,1,1:30.0,21,18,DAL,MIN,0,home,Sub,,,,,D. Nowitzki,C. Parsons
+85,1,1:30.0,21,18,DAL,MIN,0,home,Sub,,,,,J. Barea,M. Ellis
+86,1,1:23.0,23,18,DAL,MIN,7,home,LU,,1,make2,2,D. Harris,
+87,1,0:58.0,23,21,DAL,MIN,25,away,JS,assist,24,make3,3,C. Budinger,C. Brewer
+88,1,0:39.0,23,21,DAL,MIN,19,home,JS,,22,miss3,0,A. Aminu,
+89,1,0:38.0,23,21,DAL,MIN,1,home,OffReb,,,OffReb,,B. Wright,
+90,1,0:33.0,26,21,DAL,MIN,5,home,JS,assist,25,make3,3,D. Nowitzki,B. Wright
+91,1,0:29.0,26,21,DAL,MIN,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Barea,C. Brewer
+92,1,0:29.0,26,22,DAL,MIN,0,away,FreeThrow,,,make1,1,C. Brewer,
+93,1,0:29.0,26,22,DAL,MIN,0,away,FreeThrow,,,make1,0,C. Brewer,
+94,1,0:28.0,26,22,DAL,MIN,1,home,DefReb,,,DefReb,,J. Barea,
+95,1,0:06.0,26,22,DAL,MIN,22,home,JS,,7,miss2,0,J. Barea,
+96,1,0:06.0,26,22,DAL,MIN,0,home,OffReb,,,OffReb,,A. Aminu,
+97,1,0:06.0,28,22,DAL,MIN,0,home,DK,,0,make2,2,A. Aminu,
+98,1,0:01.0,28,22,DAL,MIN,5,away,JS,block,10,miss2,0,M. Williams,B. Wright
+99,1,0:01.0,28,22,DAL,MIN,0,away,OffReb,,,OffReb,,C. Brewer,
+100,1,0:00.0,28,22,DAL,MIN,1,away,TI,,0,miss2,0,C. Brewer,
+101,1,0:00.0,28,22,DAL,MIN,0,away,OffReb,,,OffReb,,Team,
+102,2,11:42.0,28,22,DAL,MIN,18,away,LU,,2,miss2,0,G. Dieng,
+103,2,11:41.0,28,22,DAL,MIN,1,home,DefReb,,,DefReb,,A. Aminu,
+104,2,11:31.0,30,22,DAL,MIN,10,home,DK,assist,0,make2,2,B. Wright,D. Harris
+105,2,11:14.0,30,22,DAL,MIN,17,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,B. Wright,G. Dieng
+106,2,11:14.0,30,23,DAL,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
+107,2,11:14.0,30,24,DAL,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
+108,2,10:56.0,30,24,DAL,MIN,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hummel,B. Wright
+109,2,10:56.0,30,24,DAL,MIN,0,home,FreeThrow,,,make1,0,B. Wright,
+110,2,10:56.0,30,24,DAL,MIN,0,home,OffReb,,,OffReb,,Team,
+111,2,10:56.0,31,24,DAL,MIN,0,home,FreeThrow,,,make1,1,B. Wright,
+112,2,10:49.0,31,24,DAL,MIN,7,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Williams,J. Barea
+113,2,10:49.0,31,24,DAL,MIN,0,away,OffensiveFoul,,,turnover,,M. Williams,
+114,2,10:33.0,31,24,DAL,MIN,16,home,LU,block,2,miss2,0,D. Harris,C. Budinger
+115,2,10:31.0,31,24,DAL,MIN,2,away,DefReb,,,DefReb,,G. Dieng,
+116,2,10:21.0,31,24,DAL,MIN,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Barea,C. Budinger
+117,2,10:14.0,31,24,DAL,MIN,7,away,JS,block,3,miss2,0,C. Brewer,A. Aminu
+118,2,10:12.0,31,24,DAL,MIN,2,away,OffReb,,,OffReb,,M. Williams,
+119,2,10:06.0,31,24,DAL,MIN,6,away,ShotClockViolation,,,turnover,,Team,
+120,2,9:58.0,33,24,DAL,MIN,8,home,LU,assist,1,make2,2,D. Nowitzki,D. Harris
+121,2,9:57.0,33,24,DAL,MIN,1,away,Timeout,,,,,,
+122,2,9:44.0,33,24,DAL,MIN,13,away,JS,,17,miss2,0,C. Budinger,
+123,2,9:43.0,33,24,DAL,MIN,1,away,OffReb,,,OffReb,,G. Dieng,
+124,2,9:36.0,33,24,DAL,MIN,7,away,JS,,22,miss3,0,C. Brewer,
+125,2,9:34.0,33,24,DAL,MIN,2,home,DefReb,,,DefReb,,B. Wright,
+126,2,9:16.0,35,24,DAL,MIN,18,home,LU,assist,1,make2,2,A. Aminu,D. Harris
+127,2,9:02.0,35,24,DAL,MIN,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,R. Hummel
+128,2,9:02.0,35,24,DAL,MIN,0,away,Sub,,,,,N. Peković,G. Dieng
+129,2,9:02.0,35,24,DAL,MIN,0,away,Sub,,,,,K. Martin,C. Budinger
+130,2,9:02.0,35,24,DAL,MIN,0,away,Sub,,,,,A. Bennett,R. Hummel
+131,2,8:52.0,35,26,DAL,MIN,10,away,JS,,14,make2,2,M. Williams,
+132,2,8:42.0,37,26,DAL,MIN,10,home,HS,assist,5,make2,2,B. Wright,J. Barea
+133,2,8:20.0,37,26,DAL,MIN,22,away,JS,,3,miss2,0,N. Peković,
+134,2,8:19.0,37,26,DAL,MIN,1,home,DefReb,,,DefReb,,A. Aminu,
+135,2,8:15.0,37,26,DAL,MIN,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Williams,J. Barea
+136,2,8:15.0,38,26,DAL,MIN,0,home,FreeThrow,,,make1,1,J. Barea,
+137,2,8:15.0,38,26,DAL,MIN,0,home,Sub,,,,,M. Ellis,D. Harris
+138,2,8:15.0,38,26,DAL,MIN,0,away,Sub,,,,,Z. LaVine,M. Williams
+139,2,8:15.0,38,26,DAL,MIN,0,home,Sub,,,,,C. Parsons,D. Nowitzki
+140,2,8:15.0,39,26,DAL,MIN,0,home,FreeThrow,,,make1,1,J. Barea,
+141,2,8:03.0,39,26,DAL,MIN,12,away,JS,,21,miss2,0,K. Martin,
+142,2,8:02.0,39,26,DAL,MIN,1,away,OffReb,,,OffReb,,C. Brewer,
+143,2,7:59.0,39,28,DAL,MIN,3,away,LU,,0,make2,2,C. Brewer,
+144,2,7:46.0,41,28,DAL,MIN,13,home,LU,,2,make2,2,J. Barea,
+145,2,7:28.0,41,28,DAL,MIN,18,away,LU,,0,miss2,0,C. Brewer,
+146,2,7:28.0,41,28,DAL,MIN,0,away,OffReb,,,OffReb,,N. Peković,
+147,2,7:28.0,41,28,DAL,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Wright,N. Peković
+148,2,7:28.0,41,29,DAL,MIN,0,away,FreeThrow,,,make1,1,N. Peković,
+149,2,7:28.0,41,29,DAL,MIN,0,home,Sub,,,,,T. Chandler,B. Wright
+150,2,7:28.0,41,30,DAL,MIN,0,away,FreeThrow,,,make1,1,N. Peković,
+151,2,7:14.0,41,30,DAL,MIN,14,home,JS,,17,miss2,0,M. Ellis,
+152,2,7:13.0,41,30,DAL,MIN,1,away,DefReb,,,DefReb,,Z. LaVine,
+153,2,7:10.0,41,30,DAL,MIN,3,away,LostBall,steal,,turnover,,Z. LaVine,J. Barea
+154,2,6:57.0,43,30,DAL,MIN,13,home,DK,assist,0,make2,2,A. Aminu,C. Parsons
+155,2,6:43.0,43,30,DAL,MIN,14,away,JS,block,3,miss2,0,A. Bennett,C. Parsons
+156,2,6:42.0,43,30,DAL,MIN,1,away,OffReb,,,OffReb,,Team,
+157,2,6:37.0,43,30,DAL,MIN,5,away,JS,,24,miss3,0,Z. LaVine,
+158,2,6:36.0,43,30,DAL,MIN,1,home,DefReb,,,DefReb,,A. Aminu,
+159,2,6:26.0,43,30,DAL,MIN,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bennett,C. Parsons
+160,2,6:26.0,43,30,DAL,MIN,0,home,FreeThrow,,,make1,0,C. Parsons,
+161,2,6:26.0,43,30,DAL,MIN,0,home,OffReb,,,OffReb,,Team,
+162,2,6:26.0,44,30,DAL,MIN,0,home,FreeThrow,,,make1,1,C. Parsons,
+163,2,6:09.0,44,30,DAL,MIN,17,away,LU,block,2,miss2,0,C. Brewer,T. Chandler
+164,2,6:09.0,44,30,DAL,MIN,0,home,DefReb,,,DefReb,,A. Aminu,
+165,2,6:09.0,44,30,DAL,MIN,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,N. Peković,A. Aminu
+166,2,6:09.0,44,30,DAL,MIN,0,home,Sub,,,,,J. Nelson,J. Barea
+167,2,5:51.0,44,30,DAL,MIN,18,home,JS,,25,miss3,0,A. Aminu,
+168,2,5:51.0,44,30,DAL,MIN,0,home,OffReb,,,OffReb,,T. Chandler,
+169,2,5:45.0,44,30,DAL,MIN,6,home,JS,,22,miss3,0,M. Ellis,
+170,2,5:44.0,44,30,DAL,MIN,1,home,OffReb,,,OffReb,,T. Chandler,
+171,2,5:36.0,46,30,DAL,MIN,8,home,LU,,0,make2,2,C. Parsons,
+172,2,5:29.0,46,30,DAL,MIN,7,away,LU,,1,miss2,0,C. Brewer,
+173,2,5:28.0,46,30,DAL,MIN,1,home,DefReb,,,DefReb,,T. Chandler,
+174,2,5:22.0,46,30,DAL,MIN,6,home,DK,,0,miss2,0,T. Chandler,
+175,2,5:21.0,46,30,DAL,MIN,1,away,DefReb,,,DefReb,,N. Peković,
+176,2,5:18.0,46,30,DAL,MIN,3,away,LostBall,,,turnover,,Z. LaVine,
+177,2,5:18.0,46,30,DAL,MIN,0,away,Timeout,,,,,,
+178,2,5:18.0,46,30,DAL,MIN,0,away,Sub,,,,,G. Dieng,N. Peković
+179,2,5:05.0,46,30,DAL,MIN,13,home,JS,,19,miss2,0,T. Chandler,
+180,2,5:04.0,46,30,DAL,MIN,1,away,DefReb,,,DefReb,,A. Bennett,
+181,2,4:54.0,46,30,DAL,MIN,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Aminu,K. Martin
+182,2,4:54.0,46,31,DAL,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+183,2,4:54.0,46,31,DAL,MIN,0,away,Sub,,,,,A. Wiggins,C. Brewer
+184,2,4:54.0,46,32,DAL,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+185,2,4:43.0,48,32,DAL,MIN,11,home,DK,assist,0,make2,2,T. Chandler,M. Ellis
+186,2,4:26.0,48,35,DAL,MIN,17,away,JS,,22,make3,3,K. Martin,
+187,2,4:13.0,51,35,DAL,MIN,13,home,JS,assist,25,make3,3,M. Ellis,J. Nelson
+188,2,3:49.0,51,35,DAL,MIN,24,away,JS,block,3,miss2,0,G. Dieng,T. Chandler
+189,2,3:48.0,51,35,DAL,MIN,1,away,OffReb,,,OffReb,,Team,
+190,2,3:48.0,51,35,DAL,MIN,0,home,Sub,,,,,D. Nowitzki,A. Aminu
+191,2,3:48.0,51,35,DAL,MIN,0,away,Sub,,,,,R. Hummel,A. Bennett
+192,2,3:48.0,51,35,DAL,MIN,0,away,JS,,23,miss3,0,Z. LaVine,
+193,2,3:47.0,51,35,DAL,MIN,1,away,OffReb,,,OffReb,,Team,
+194,2,3:47.0,51,35,DAL,MIN,0,away,ShotClockViolation,,,turnover,,Team,
+195,2,3:37.0,51,35,DAL,MIN,10,home,LU,block,2,miss2,0,J. Nelson,Z. LaVine
+196,2,3:37.0,51,35,DAL,MIN,0,home,OffReb,,,OffReb,,Team,
+197,2,3:31.0,51,35,DAL,MIN,6,home,JS,,23,miss3,0,C. Parsons,
+198,2,3:30.0,51,35,DAL,MIN,1,home,OffReb,,,OffReb,,T. Chandler,
+199,2,3:16.0,51,35,DAL,MIN,14,home,JS,,24,miss3,0,D. Nowitzki,
+200,2,3:15.0,51,35,DAL,MIN,1,away,DefReb,,,DefReb,,R. Hummel,
+201,2,2:54.0,51,35,DAL,MIN,21,away,HS,,7,miss2,0,G. Dieng,
+202,2,2:51.0,51,35,DAL,MIN,3,home,DefReb,,,DefReb,,D. Nowitzki,
+203,2,2:45.0,54,35,DAL,MIN,6,home,JS,,25,make3,3,M. Ellis,
+204,2,2:43.0,54,35,DAL,MIN,2,away,Timeout,,,,,,
+205,2,2:43.0,54,35,DAL,MIN,0,home,Timeout,,,,,,
+206,2,2:43.0,54,35,DAL,MIN,0,home,Sub,,,,,B. Wright,T. Chandler
+207,2,2:36.0,54,35,DAL,MIN,7,away,OffensiveFoul,,,turnover,,R. Hummel,
+208,2,2:36.0,54,35,DAL,MIN,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Hummel,M. Ellis
+209,2,2:36.0,54,35,DAL,MIN,0,away,Sub,,,,,M. Williams,Z. LaVine
+210,2,2:25.0,54,35,DAL,MIN,11,home,JS,,3,miss2,0,M. Ellis,
+211,2,2:22.0,54,35,DAL,MIN,3,home,OffReb,,,OffReb,,B. Wright,
+212,2,2:22.0,56,35,DAL,MIN,0,home,DK,,0,make2,2,B. Wright,
+213,2,2:01.0,56,38,DAL,MIN,21,away,JS,assist,29,make3,3,K. Martin,G. Dieng
+214,2,1:45.0,58,38,DAL,MIN,16,home,HS,assist,7,make2,2,B. Wright,D. Nowitzki
+215,2,1:30.0,58,40,DAL,MIN,15,away,JS,,10,make2,2,K. Martin,
+216,2,1:12.0,58,40,DAL,MIN,18,home,JS,,25,miss3,0,J. Nelson,
+217,2,1:11.0,58,40,DAL,MIN,1,away,DefReb,,,DefReb,,R. Hummel,
+218,2,1:02.0,58,40,DAL,MIN,9,away,JS,,14,miss2,0,R. Hummel,
+219,2,1:00.0,58,40,DAL,MIN,2,away,OffReb,,,OffReb,,G. Dieng,
+220,2,1:00.0,58,42,DAL,MIN,0,away,TI,,2,make2,2,G. Dieng,
+221,2,1:00.0,58,42,DAL,MIN,0,home,Timeout,,,,,,
+222,2,0:49.0,60,42,DAL,MIN,11,home,JS,assist,18,make2,2,D. Nowitzki,C. Parsons
+223,2,0:34.0,60,42,DAL,MIN,15,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Martin,C. Parsons
+224,2,0:34.0,60,42,DAL,MIN,0,away,OffensiveFoul,,,turnover,,K. Martin,
+225,2,0:34.0,60,42,DAL,MIN,0,away,DelayOfGame,,,DelayOfGame,,Team,
+226,2,0:13.0,63,42,DAL,MIN,21,home,JS,assist,27,make3,3,C. Parsons,J. Nelson
+227,2,0:01.0,63,42,DAL,MIN,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Wright,M. Williams
+228,2,0:01.0,63,43,DAL,MIN,0,away,FreeThrow,,,make1,1,M. Williams,
+229,2,0:01.0,63,43,DAL,MIN,0,away,Sub,,,,,S. Muhammad,K. Martin
+230,2,0:01.0,63,44,DAL,MIN,0,away,FreeThrow,,,make1,1,M. Williams,
+231,3,11:42.0,63,46,DAL,MIN,18,away,JS,assist,20,make2,2,K. Martin,Z. LaVine
+232,3,11:18.0,65,46,DAL,MIN,24,home,JS,assist,20,make2,2,D. Nowitzki,J. Nelson
+233,3,11:05.0,65,46,DAL,MIN,13,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Dieng,M. Ellis
+234,3,11:05.0,65,46,DAL,MIN,0,away,OffensiveFoul,,,turnover,,G. Dieng,
+235,3,10:52.0,67,46,DAL,MIN,13,home,LU,,1,make2,2,M. Ellis,
+236,3,10:52.0,67,46,DAL,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Martin,M. Ellis
+237,3,10:52.0,68,46,DAL,MIN,0,home,FreeThrow,,,make1,1,M. Ellis,
+238,3,10:37.0,68,48,DAL,MIN,15,away,JS,,11,make2,2,A. Wiggins,
+239,3,10:24.0,68,48,DAL,MIN,13,home,JS,,25,miss3,0,M. Ellis,
+240,3,10:23.0,68,48,DAL,MIN,1,away,DefReb,,,DefReb,,A. Bennett,
+241,3,10:19.0,68,50,DAL,MIN,4,away,LU,assist,1,make2,2,K. Martin,A. Bennett
+242,3,10:02.0,68,50,DAL,MIN,17,home,JS,,26,miss3,0,C. Parsons,
+243,3,10:01.0,68,50,DAL,MIN,1,home,OffReb,,,OffReb,,T. Chandler,
+244,3,9:54.0,70,50,DAL,MIN,7,home,LU,,0,make2,2,M. Ellis,
+245,3,9:40.0,70,50,DAL,MIN,14,away,JS,,23,miss3,0,K. Martin,
+246,3,9:39.0,70,50,DAL,MIN,1,away,OffReb,,,OffReb,,A. Wiggins,
+247,3,9:34.0,70,50,DAL,MIN,5,away,JS,,17,miss2,0,A. Bennett,
+248,3,9:33.0,70,50,DAL,MIN,1,home,DefReb,,,DefReb,,T. Chandler,
+249,3,9:18.0,70,50,DAL,MIN,15,home,JS,,21,miss2,0,J. Nelson,
+250,3,9:16.0,70,50,DAL,MIN,2,home,OffReb,,,OffReb,,T. Chandler,
+251,3,9:16.0,70,50,DAL,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dieng,T. Chandler
+252,3,9:16.0,72,50,DAL,MIN,0,home,DK,,0,make2,2,T. Chandler,
+253,3,9:16.0,72,50,DAL,MIN,0,away,Timeout,,,,,,
+254,3,9:16.0,73,50,DAL,MIN,0,home,FreeThrow,,,make1,1,T. Chandler,
+255,3,8:59.0,73,50,DAL,MIN,17,away,LU,block,1,miss2,0,G. Dieng,T. Chandler
+256,3,8:59.0,73,50,DAL,MIN,0,home,DefReb,,,DefReb,,T. Chandler,
+257,3,8:49.0,73,50,DAL,MIN,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Wiggins,C. Parsons
+258,3,8:47.0,73,50,DAL,MIN,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Martin,M. Ellis
+259,3,8:39.0,75,50,DAL,MIN,8,home,JS,,5,make2,2,M. Ellis,
+260,3,8:28.0,75,52,DAL,MIN,11,away,JS,,14,make2,2,Z. LaVine,
+261,3,8:28.0,75,52,DAL,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nelson,Z. LaVine
+262,3,8:28.0,75,52,DAL,MIN,0,away,FreeThrow,,,make1,0,Z. LaVine,
+263,3,8:27.0,75,52,DAL,MIN,1,home,DefReb,,,DefReb,,D. Nowitzki,
+264,3,8:19.0,75,52,DAL,MIN,8,home,LU,,2,miss2,0,M. Ellis,
+265,3,8:16.0,75,52,DAL,MIN,3,home,OffReb,,,OffReb,,T. Chandler,
+266,3,8:16.0,77,52,DAL,MIN,0,home,TI,,1,make2,2,T. Chandler,
+267,3,7:59.0,77,55,DAL,MIN,17,away,JS,assist,22,make3,3,K. Martin,A. Bennett
+268,3,7:35.0,79,55,DAL,MIN,24,home,LU,,1,make2,2,C. Parsons,
+269,3,7:21.0,79,55,DAL,MIN,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,K. Martin
+270,3,7:21.0,79,56,DAL,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+271,3,7:21.0,79,57,DAL,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+272,3,7:06.0,81,57,DAL,MIN,15,home,JS,,21,make2,2,M. Ellis,
+273,3,6:56.0,81,57,DAL,MIN,10,away,LU,,2,miss2,0,Z. LaVine,
+274,3,6:54.0,81,57,DAL,MIN,2,home,DefReb,,,DefReb,,D. Nowitzki,
+275,3,6:54.0,81,57,DAL,MIN,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,G. Dieng,D. Nowitzki
+276,3,6:54.0,82,57,DAL,MIN,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+277,3,6:54.0,82,57,DAL,MIN,0,away,Sub,,,,,C. Brewer,K. Martin
+278,3,6:54.0,83,57,DAL,MIN,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+279,3,6:38.0,83,59,DAL,MIN,16,away,LU,assist,0,make2,2,C. Brewer,A. Bennett
+280,3,6:27.0,83,59,DAL,MIN,11,home,JS,,24,miss3,0,D. Nowitzki,
+281,3,6:26.0,83,59,DAL,MIN,1,away,DefReb,,,DefReb,,A. Wiggins,
+282,3,6:04.0,83,59,DAL,MIN,22,away,JS,,18,miss2,0,A. Bennett,
+283,3,6:03.0,83,59,DAL,MIN,1,away,OffReb,,,OffReb,,G. Dieng,
+284,3,6:01.0,83,61,DAL,MIN,2,away,DK,,0,make2,2,G. Dieng,
+285,3,6:00.0,83,61,DAL,MIN,1,home,Timeout,,,,,,
+286,3,6:00.0,83,61,DAL,MIN,0,home,Sub,,,,,A. Aminu,D. Nowitzki
+287,3,5:39.0,85,61,DAL,MIN,21,home,LU,assist,0,make2,2,M. Ellis,C. Parsons
+288,3,5:29.0,85,61,DAL,MIN,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Nelson,Z. LaVine
+289,3,5:20.0,85,63,DAL,MIN,9,away,JS,assist,12,make2,2,G. Dieng,C. Brewer
+290,3,5:04.0,87,63,DAL,MIN,16,home,JS,assist,19,make2,2,M. Ellis,T. Chandler
+291,3,4:51.0,87,63,DAL,MIN,13,away,LostBall,steal,,turnover,,Z. LaVine,A. Aminu
+292,3,4:45.0,87,63,DAL,MIN,6,home,BadPass,steal,,turnover,,M. Ellis,A. Wiggins
+293,3,4:42.0,87,63,DAL,MIN,3,away,BadPass,steal,,turnover,,A. Wiggins,A. Aminu
+294,3,4:38.0,87,63,DAL,MIN,4,home,BadPass,steal,,turnover,,M. Ellis,G. Dieng
+295,3,4:31.0,87,63,DAL,MIN,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nelson,C. Brewer
+296,3,4:31.0,87,64,DAL,MIN,0,away,FreeThrow,,,make1,1,C. Brewer,
+297,3,4:31.0,87,64,DAL,MIN,0,home,Sub,,,,,B. Wright,T. Chandler
+298,3,4:31.0,87,64,DAL,MIN,0,away,Sub,,,,,S. Muhammad,Z. LaVine
+299,3,4:31.0,87,64,DAL,MIN,0,away,Sub,,,,,M. Williams,A. Wiggins
+300,3,4:31.0,87,65,DAL,MIN,0,away,FreeThrow,,,make1,1,C. Brewer,
+301,3,4:23.0,87,65,DAL,MIN,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Williams,M. Ellis
+302,3,4:23.0,88,65,DAL,MIN,0,home,FreeThrow,,,make1,1,M. Ellis,
+303,3,4:23.0,88,65,DAL,MIN,0,away,Sub,,,,,R. Hummel,A. Bennett
+304,3,4:23.0,88,65,DAL,MIN,0,home,Sub,,,,,D. Harris,J. Nelson
+305,3,4:23.0,89,65,DAL,MIN,0,home,FreeThrow,,,make1,1,M. Ellis,
+306,3,4:14.0,89,67,DAL,MIN,9,away,LU,assist,0,make2,2,S. Muhammad,M. Williams
+307,3,4:14.0,89,67,DAL,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,S. Muhammad
+308,3,4:14.0,89,68,DAL,MIN,0,away,FreeThrow,,,make1,1,S. Muhammad,
+309,3,3:59.0,89,68,DAL,MIN,15,home,JS,,24,miss3,0,D. Harris,
+310,3,3:58.0,89,68,DAL,MIN,1,away,DefReb,,,DefReb,,C. Brewer,
+311,3,3:43.0,89,70,DAL,MIN,15,away,JS,,5,make2,2,M. Williams,
+312,3,3:42.0,89,70,DAL,MIN,1,home,Timeout,,,,,,
+313,3,3:28.0,89,70,DAL,MIN,14,home,JS,,21,miss2,0,C. Parsons,
+314,3,3:28.0,89,70,DAL,MIN,0,away,DefReb,,,DefReb,,G. Dieng,
+315,3,3:11.0,89,70,DAL,MIN,17,away,BadPass,steal,,turnover,,M. Williams,A. Aminu
+316,3,3:08.0,89,70,DAL,MIN,3,away,ChargeFoul,DrawnBy,,ChargeFoul,,C. Parsons,R. Hummel
+317,3,3:08.0,89,70,DAL,MIN,0,home,OffensiveFoul,,,turnover,,C. Parsons,
+318,3,2:50.0,89,72,DAL,MIN,18,away,DK,assist,0,make2,2,S. Muhammad,M. Williams
+319,3,2:34.0,91,72,DAL,MIN,16,home,DK,assist,0,make2,2,B. Wright,A. Aminu
+320,3,2:13.0,91,72,DAL,MIN,21,away,LostBall,,,turnover,,G. Dieng,
+321,3,2:13.0,91,72,DAL,MIN,0,away,Sub,,,,,C. Budinger,G. Dieng
+322,3,2:01.0,91,72,DAL,MIN,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hummel,M. Ellis
+323,3,2:01.0,92,72,DAL,MIN,0,home,FreeThrow,,,make1,1,M. Ellis,
+324,3,2:01.0,92,72,DAL,MIN,0,home,Sub,,,,,D. Nowitzki,C. Parsons
+325,3,2:01.0,93,72,DAL,MIN,0,home,FreeThrow,,,make1,1,M. Ellis,
+326,3,1:50.0,93,74,DAL,MIN,11,away,JS,,20,make2,2,M. Williams,
+327,3,1:29.0,95,74,DAL,MIN,21,home,LU,,1,make2,2,D. Harris,
+328,3,1:13.0,95,74,DAL,MIN,16,away,JS,block,5,miss2,0,R. Hummel,A. Aminu
+329,3,1:13.0,95,74,DAL,MIN,0,away,OffReb,,,OffReb,,Team,
+330,3,1:13.0,95,74,DAL,MIN,0,home,Sub,,,,,J. Barea,M. Ellis
+331,3,1:12.0,95,76,DAL,MIN,1,away,JS,assist,15,make2,2,C. Brewer,S. Muhammad
+332,3,1:12.0,95,76,DAL,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,C. Brewer
+333,3,1:12.0,95,76,DAL,MIN,0,away,FreeThrow,,,make1,0,C. Brewer,
+334,3,1:11.0,95,76,DAL,MIN,1,home,DefReb,,,DefReb,,A. Aminu,
+335,3,0:59.0,95,76,DAL,MIN,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Brewer,J. Barea
+336,3,0:59.0,96,76,DAL,MIN,0,home,FreeThrow,,,make1,1,J. Barea,
+337,3,0:59.0,97,76,DAL,MIN,0,home,FreeThrow,,,make1,1,J. Barea,
+338,3,0:48.0,97,76,DAL,MIN,11,away,LU,,2,miss2,0,C. Brewer,
+339,3,0:48.0,97,76,DAL,MIN,0,away,OffReb,,,OffReb,,S. Muhammad,
+340,3,0:48.0,97,78,DAL,MIN,0,away,LU,,1,make2,2,S. Muhammad,
+341,3,0:35.0,99,78,DAL,MIN,13,home,LU,assist,0,make2,2,D. Nowitzki,J. Barea
+342,3,0:26.0,99,81,DAL,MIN,9,away,JS,assist,22,make3,3,R. Hummel,M. Williams
+343,3,0:04.0,101,81,DAL,MIN,22,home,LU,,1,make2,2,B. Wright,
+344,3,0:03.0,101,81,DAL,MIN,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,M. Williams
+345,3,0:03.0,101,81,DAL,MIN,0,away,FreeThrow,,,make1,0,M. Williams,
+346,3,0:03.0,101,81,DAL,MIN,0,away,OffReb,,,OffReb,,Team,
+347,3,0:03.0,101,82,DAL,MIN,0,away,FreeThrow,,,make1,1,M. Williams,
+348,3,0:00.0,101,82,DAL,MIN,3,home,JS,,53,miss3,0,D. Harris,
+349,3,0:00.0,101,82,DAL,MIN,0,home,OffReb,,,OffReb,,Team,
+350,4,11:39.0,101,82,DAL,MIN,21,home,3sec,,,turnover,,B. Wright,
+351,4,11:20.0,101,82,DAL,MIN,19,away,JS,,20,miss2,0,M. Williams,
+352,4,11:19.0,101,82,DAL,MIN,1,home,DefReb,,,DefReb,,D. Harris,
+353,4,11:13.0,103,82,DAL,MIN,6,home,LU,assist,2,make2,2,A. Aminu,D. Harris
+354,4,11:08.0,103,82,DAL,MIN,5,home,ChargeFoul,DrawnBy,,ChargeFoul,,C. Brewer,D. Harris
+355,4,11:08.0,103,82,DAL,MIN,0,away,OffensiveFoul,,,turnover,,C. Brewer,
+356,4,11:08.0,103,82,DAL,MIN,0,away,Sub,,,,,G. Dieng,R. Hummel
+357,4,10:46.0,103,82,DAL,MIN,22,home,LU,,2,miss2,0,J. Barea,
+358,4,10:45.0,103,82,DAL,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
+359,4,10:35.0,103,82,DAL,MIN,10,away,JS,,23,miss3,0,C. Brewer,
+360,4,10:34.0,103,82,DAL,MIN,1,home,DefReb,,,DefReb,,D. Harris,
+361,4,10:21.0,103,82,DAL,MIN,13,home,JS,,22,miss2,0,J. Barea,
+362,4,10:20.0,103,82,DAL,MIN,1,away,DefReb,,,DefReb,,C. Budinger,
+363,4,10:17.0,103,82,DAL,MIN,3,away,ClearPathFoul,,,ClearPathFoul,,J. Barea,
+364,4,10:17.0,103,83,DAL,MIN,0,away,FreeThrow,,,make1,1,S. Muhammad makes clear path free throw 1 of 2,
+365,4,10:17.0,103,84,DAL,MIN,0,away,FreeThrow,,,make1,1,S. Muhammad makes clear path free throw 2 of 2,
+366,4,10:07.0,103,84,DAL,MIN,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Barea,S. Muhammad
+367,4,10:07.0,103,85,DAL,MIN,0,away,FreeThrow,,,make1,1,S. Muhammad,
+368,4,10:07.0,103,86,DAL,MIN,0,away,FreeThrow,,,make1,1,S. Muhammad,
+369,4,9:58.0,105,86,DAL,MIN,9,home,LU,,0,make2,2,R. Jefferson,
+370,4,9:58.0,105,86,DAL,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Williams,R. Jefferson
+371,4,9:58.0,105,86,DAL,MIN,0,away,Sub,,,,,K. Martin,C. Budinger
+372,4,9:58.0,105,86,DAL,MIN,0,home,FreeThrow,,,make1,0,R. Jefferson,
+373,4,9:56.0,105,86,DAL,MIN,2,away,DefReb,,,DefReb,,G. Dieng,
+374,4,9:44.0,105,86,DAL,MIN,12,away,Sub,,,,,Z. LaVine,M. Williams
+375,4,9:41.0,105,88,DAL,MIN,3,away,JS,assist,19,make2,2,K. Martin,C. Brewer
+376,4,9:34.0,107,88,DAL,MIN,7,home,LU,assist,2,make2,2,R. Jefferson,J. Barea
+377,4,9:34.0,107,88,DAL,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dieng,R. Jefferson
+378,4,9:34.0,108,88,DAL,MIN,0,home,FreeThrow,,,make1,1,R. Jefferson,
+379,4,9:23.0,108,88,DAL,MIN,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,K. Martin
+380,4,9:23.0,108,89,DAL,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+381,4,9:23.0,108,90,DAL,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+382,4,9:17.0,108,90,DAL,MIN,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. LaVine,J. Barea
+383,4,9:17.0,108,90,DAL,MIN,0,home,Sub,,,,,T. Chandler,B. Wright
+384,4,9:17.0,108,90,DAL,MIN,0,home,Sub,,,,,M. Ellis,A. Aminu
+385,4,9:07.0,108,90,DAL,MIN,10,home,JS,,22,miss3,0,M. Ellis,
+386,4,9:06.0,108,90,DAL,MIN,1,home,OffReb,,,OffReb,,T. Chandler,
+387,4,9:06.0,108,90,DAL,MIN,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,G. Dieng,T. Chandler
+388,4,9:06.0,108,90,DAL,MIN,0,away,Sub,,,,,A. Bennett,G. Dieng
+389,4,9:00.0,110,90,DAL,MIN,6,home,LU,,2,make2,2,J. Barea,
+390,4,8:43.0,110,90,DAL,MIN,17,away,BadPass,steal,,turnover,,Z. LaVine,M. Ellis
+391,4,8:40.0,112,90,DAL,MIN,3,home,DK,,0,make2,2,M. Ellis,
+392,4,8:40.0,112,90,DAL,MIN,0,away,Timeout,,,,,,
+393,4,8:40.0,112,90,DAL,MIN,0,away,Sub,,,,,A. Wiggins,S. Muhammad
+394,4,8:22.0,112,90,DAL,MIN,18,away,JS,,9,miss2,0,A. Wiggins,
+395,4,8:20.0,112,90,DAL,MIN,2,home,DefReb,,,DefReb,,T. Chandler,
+396,4,8:15.0,112,90,DAL,MIN,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,Z. LaVine,R. Jefferson
+397,4,8:15.0,113,90,DAL,MIN,0,home,FreeThrow,,,make1,1,R. Jefferson,
+398,4,8:15.0,113,90,DAL,MIN,0,home,FreeThrow,,,make1,0,R. Jefferson,
+399,4,8:14.0,113,90,DAL,MIN,1,away,DefReb,,,DefReb,,A. Bennett,
+400,4,8:02.0,113,93,DAL,MIN,12,away,JS,assist,24,make3,3,K. Martin,A. Bennett
+401,4,7:39.0,113,93,DAL,MIN,23,home,JS,,23,miss3,0,R. Jefferson,
+402,4,7:39.0,113,93,DAL,MIN,0,away,DefReb,,,DefReb,,Team,
+403,4,7:39.0,113,93,DAL,MIN,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Ellis,A. Wiggins
+404,4,7:39.0,113,93,DAL,MIN,0,away,Sub,,,,,M. Williams,Z. LaVine
+405,4,7:26.0,113,93,DAL,MIN,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Chandler,A. Wiggins
+406,4,7:26.0,113,94,DAL,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
+407,4,7:26.0,113,94,DAL,MIN,0,away,FreeThrow,,,make1,0,A. Wiggins,
+408,4,7:25.0,113,94,DAL,MIN,1,home,DefReb,,,DefReb,,T. Chandler,
+409,4,7:18.0,115,94,DAL,MIN,7,home,LU,assist,0,make2,2,R. Jefferson,M. Ellis
+410,4,6:58.0,115,96,DAL,MIN,20,away,LU,assist,0,make2,2,A. Bennett,C. Brewer
+411,4,6:44.0,117,96,DAL,MIN,14,home,DK,assist,0,make2,2,T. Chandler,J. Barea
+412,4,6:44.0,117,96,DAL,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bennett,T. Chandler
+413,4,6:44.0,118,96,DAL,MIN,0,home,FreeThrow,,,make1,1,T. Chandler,
+414,4,6:30.0,118,96,DAL,MIN,14,away,LostBall,,,turnover,,C. Brewer,
+415,4,6:17.0,120,96,DAL,MIN,13,home,LU,assist,1,make2,2,J. Barea,T. Chandler
+416,4,5:51.0,120,96,DAL,MIN,26,away,LU,block,2,miss2,0,C. Brewer,D. Harris
+417,4,5:50.0,120,96,DAL,MIN,1,away,OffReb,,,OffReb,,Team,
+418,4,5:50.0,120,96,DAL,MIN,0,away,Timeout,,,,,,
+419,4,5:50.0,120,96,DAL,MIN,0,home,Sub,,,,,B. Wright,T. Chandler
+420,4,5:50.0,120,96,DAL,MIN,0,away,Sub,,,,,S. Muhammad,A. Wiggins
+421,4,5:46.0,120,96,DAL,MIN,4,away,JS,,18,miss2,0,K. Martin,
+422,4,5:45.0,120,96,DAL,MIN,1,away,OffReb,,,OffReb,,A. Bennett,
+423,4,5:45.0,120,96,DAL,MIN,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,A. Bennett
+424,4,5:45.0,120,97,DAL,MIN,0,away,FreeThrow,,,make1,1,A. Bennett,
+425,4,5:45.0,120,97,DAL,MIN,0,home,Sub,,,,,J. Crowder,D. Harris
+426,4,5:45.0,120,98,DAL,MIN,0,away,FreeThrow,,,make1,1,A. Bennett,
+427,4,5:31.0,120,98,DAL,MIN,14,home,JS,,19,miss2,0,J. Barea,
+428,4,5:30.0,120,98,DAL,MIN,1,away,DefReb,,,DefReb,,K. Martin,
+429,4,5:24.0,120,100,DAL,MIN,6,away,DK,assist,0,make2,2,S. Muhammad,C. Brewer
+430,4,5:15.0,120,100,DAL,MIN,9,home,JS,,10,miss2,0,M. Ellis,
+431,4,5:13.0,120,100,DAL,MIN,2,away,DefReb,,,DefReb,,S. Muhammad,
+432,4,5:07.0,120,102,DAL,MIN,6,away,LU,assist,2,make2,2,A. Bennett,M. Williams
+433,4,5:07.0,120,102,DAL,MIN,0,home,Timeout,,,,,,
+434,4,4:50.0,123,102,DAL,MIN,17,home,JS,assist,23,make3,3,J. Crowder,R. Jefferson
+435,4,4:32.0,123,102,DAL,MIN,18,away,LU,block,1,miss2,0,K. Martin,J. Crowder
+436,4,4:31.0,123,102,DAL,MIN,1,home,DefReb,,,DefReb,,B. Wright,
+437,4,4:22.0,125,102,DAL,MIN,9,home,DK,,0,make2,2,R. Jefferson,
+438,4,4:05.0,125,104,DAL,MIN,17,away,JS,assist,5,make2,2,S. Muhammad,M. Williams
+439,4,3:54.0,127,104,DAL,MIN,11,home,LU,,1,make2,2,J. Barea,
+440,4,3:46.0,127,104,DAL,MIN,8,away,JS,,7,miss2,0,M. Williams,
+441,4,3:43.0,127,104,DAL,MIN,3,home,DefReb,,,DefReb,,J. Crowder,
+442,4,3:39.0,127,104,DAL,MIN,4,home,BadPass,,,turnover,,R. Jefferson,
+443,4,3:39.0,127,104,DAL,MIN,0,away,Sub,,,,,C. Budinger,K. Martin
+444,4,3:26.0,127,104,DAL,MIN,13,away,JS,,25,miss3,0,C. Budinger,
+445,4,3:25.0,127,104,DAL,MIN,1,home,DefReb,,,DefReb,,R. Jefferson,
+446,4,3:21.0,127,104,DAL,MIN,4,home,BadPass,,,turnover,,R. Jefferson,
+447,4,3:21.0,127,104,DAL,MIN,0,home,Sub,,,,,C. Villanueva,M. Ellis
+448,4,3:09.0,127,104,DAL,MIN,12,away,LU,block,1,miss2,0,S. Muhammad,R. Jefferson
+449,4,3:09.0,127,104,DAL,MIN,0,away,OffReb,,,OffReb,,S. Muhammad,
+450,4,3:09.0,127,104,DAL,MIN,0,away,KickedBallTurnover,,,turnover,,S. Muhammad,
+451,4,2:58.0,127,104,DAL,MIN,11,home,JS,,19,miss2,0,J. Barea,
+452,4,2:57.0,127,104,DAL,MIN,1,away,DefReb,,,DefReb,,A. Bennett,
+453,4,2:52.0,127,106,DAL,MIN,5,away,DK,assist,0,make2,2,A. Bennett,C. Brewer
+454,4,2:31.0,127,106,DAL,MIN,21,home,JS,,15,miss2,0,J. Crowder,
+455,4,2:30.0,127,106,DAL,MIN,1,away,DefReb,,,DefReb,,S. Muhammad,
+456,4,2:26.0,127,106,DAL,MIN,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,S. Muhammad,J. Barea
+457,4,2:26.0,127,106,DAL,MIN,0,away,OffensiveFoul,,,turnover,,S. Muhammad,
+458,4,2:26.0,127,106,DAL,MIN,0,home,Sub,,,,,A. Aminu,B. Wright
+459,4,2:25.0,127,106,DAL,MIN,1,away,Sub,,,,,G. Dieng,A. Bennett
+460,4,2:11.0,127,106,DAL,MIN,14,home,JS,,24,miss3,0,J. Crowder,
+461,4,2:10.0,127,106,DAL,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
+462,4,1:59.0,127,108,DAL,MIN,11,away,DK,assist,0,make2,2,C. Brewer,M. Williams
+463,4,1:47.0,129,108,DAL,MIN,12,home,LU,assist,1,make2,2,A. Aminu,J. Barea
+464,4,1:35.0,129,111,DAL,MIN,12,away,JS,,22,make3,3,S. Muhammad,
+465,4,1:15.0,129,111,DAL,MIN,20,home,JS,,23,miss3,0,C. Villanueva,
+466,4,1:14.0,129,111,DAL,MIN,1,away,DefReb,,,DefReb,,C. Budinger,
+467,4,1:07.0,129,113,DAL,MIN,7,away,JS,,13,make2,2,C. Brewer,
+468,4,0:44.0,129,113,DAL,MIN,23,home,ShotClockViolation,,,turnover,,Team,
+469,4,0:44.0,129,113,DAL,MIN,0,away,Sub,,,,,Z. LaVine,M. Williams
+470,4,0:44.0,129,113,DAL,MIN,0,away,Sub,,,,,G. Robinson,C. Brewer
+471,4,0:32.0,129,115,DAL,MIN,12,away,DK,assist,0,make2,2,G. Dieng,S. Muhammad
+472,4,0:13.0,129,115,DAL,MIN,19,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. LaVine,J. Barea
+473,4,0:13.0,130,115,DAL,MIN,0,home,FreeThrow,,,make1,1,J. Barea,
+474,4,0:13.0,131,115,DAL,MIN,0,home,FreeThrow,,,make1,1,J. Barea,
+475,4,0:09.0,131,117,DAL,MIN,4,away,DK,,0,make2,2,Z. LaVine,

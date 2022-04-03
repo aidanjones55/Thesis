@@ -1,0 +1,470 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:44.0,0,2,CLE,PHI,16,away,JS,,17,make2,2,K. Marshall,
+1,1,11:20.0,0,2,CLE,PHI,24,home,LU,,1,miss2,0,K. Irving,
+2,1,11:18.0,0,2,CLE,PHI,2,away,DefReb,,,DefReb,,I. Canaan,
+3,1,11:01.0,0,2,CLE,PHI,17,away,JS,,16,miss2,0,J. Okafor,
+4,1,11:00.0,0,2,CLE,PHI,1,home,DefReb,,,DefReb,,L. James,
+5,1,10:52.0,2,2,CLE,PHI,8,home,LU,,1,make2,2,L. James,
+6,1,10:34.0,2,2,CLE,PHI,18,away,JS,,10,miss2,0,R. Covington,
+7,1,10:33.0,2,2,CLE,PHI,1,home,DefReb,,,DefReb,,L. James,
+8,1,10:21.0,4,2,CLE,PHI,12,home,JS,assist,18,make2,2,T. Mozgov,K. Irving
+9,1,10:04.0,4,4,CLE,PHI,17,away,JS,assist,11,make2,2,J. Okafor,K. Marshall
+10,1,9:40.0,6,4,CLE,PHI,24,home,HS,assist,11,make2,2,K. Love,J. Smith
+11,1,9:23.0,6,6,CLE,PHI,17,away,LU,,0,make2,2,J. Okafor,
+12,1,9:11.0,6,6,CLE,PHI,12,home,LU,block,0,miss2,0,K. Love,N. Noel
+13,1,9:09.0,6,6,CLE,PHI,2,away,DefReb,,,DefReb,,J. Okafor,
+14,1,8:46.0,6,6,CLE,PHI,23,away,JS,,5,miss2,0,N. Noel,
+15,1,8:46.0,6,6,CLE,PHI,0,home,DefReb,,,DefReb,,K. Love,
+16,1,8:44.0,6,6,CLE,PHI,2,home,BadPass,steal,,turnover,,K. Love,R. Covington
+17,1,8:36.0,6,9,CLE,PHI,8,away,JS,assist,24,make3,3,I. Canaan,K. Marshall
+18,1,8:23.0,6,9,CLE,PHI,13,home,JS,,16,miss2,0,K. Irving,
+19,1,8:21.0,6,9,CLE,PHI,2,away,DefReb,,,DefReb,,N. Noel,
+20,1,8:10.0,6,9,CLE,PHI,11,away,JS,,25,miss3,0,R. Covington,
+21,1,8:10.0,6,9,CLE,PHI,0,home,DefReb,,,DefReb,,T. Mozgov,
+22,1,8:05.0,6,9,CLE,PHI,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,K. Love
+23,1,8:05.0,6,9,CLE,PHI,0,home,Sub,,,,,M. Dellavedova,K. Irving
+24,1,7:58.0,6,9,CLE,PHI,7,home,JS,,25,miss3,0,M. Dellavedova,
+25,1,7:57.0,6,9,CLE,PHI,1,away,DefReb,,,DefReb,,N. Noel,
+26,1,7:41.0,6,9,CLE,PHI,16,away,JS,,25,miss3,0,K. Marshall,
+27,1,7:40.0,6,9,CLE,PHI,1,home,DefReb,,,DefReb,,K. Love,
+28,1,7:28.0,6,9,CLE,PHI,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Okafor,T. Mozgov
+29,1,7:28.0,7,9,CLE,PHI,0,home,FreeThrow,,,make1,1,T. Mozgov,
+30,1,7:28.0,8,9,CLE,PHI,0,home,FreeThrow,,,make1,1,T. Mozgov,
+31,1,7:17.0,8,11,CLE,PHI,11,away,JS,assist,11,make2,2,N. Noel,K. Marshall
+32,1,6:58.0,8,11,CLE,PHI,19,home,LostBall,steal,,turnover,,M. Dellavedova,I. Canaan
+33,1,6:54.0,8,11,CLE,PHI,4,away,LU,,1,miss2,0,I. Canaan,
+34,1,6:53.0,8,11,CLE,PHI,1,home,DefReb,,,DefReb,,Team,
+35,1,6:53.0,8,11,CLE,PHI,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,M. Dellavedova
+36,1,6:53.0,8,11,CLE,PHI,0,away,Sub,,,,,H. Thompson,R. Covington
+37,1,6:40.0,8,11,CLE,PHI,13,home,DK,,0,miss2,0,T. Mozgov,
+38,1,6:36.0,8,11,CLE,PHI,4,away,DefReb,,,DefReb,,K. Marshall,
+39,1,6:25.0,8,11,CLE,PHI,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Love,N. Noel
+40,1,6:25.0,8,12,CLE,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
+41,1,6:25.0,8,13,CLE,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
+42,1,6:11.0,10,13,CLE,PHI,14,home,HS,assist,1,make2,2,T. Mozgov,K. Love
+43,1,5:57.0,10,13,CLE,PHI,14,away,JS,,14,miss2,0,J. Okafor,
+44,1,5:56.0,10,13,CLE,PHI,1,home,DefReb,,,DefReb,,L. James,
+45,1,5:51.0,12,13,CLE,PHI,5,home,LU,assist,0,make2,2,T. Mozgov,L. James
+46,1,5:51.0,12,13,CLE,PHI,0,away,Timeout,,,,,,
+47,1,5:51.0,12,13,CLE,PHI,0,home,Sub,,,,,I. Shumpert,J. Smith
+48,1,5:51.0,12,13,CLE,PHI,0,away,Sub,,,,,T. Wroten,K. Marshall
+49,1,5:39.0,12,13,CLE,PHI,12,away,Traveling,,,turnover,,J. Okafor,
+50,1,5:30.0,12,13,CLE,PHI,9,home,BadPass,,,turnover,,M. Dellavedova,
+51,1,5:30.0,12,13,CLE,PHI,0,away,Sub,,,,,J. Grant,J. Okafor
+52,1,5:30.0,12,13,CLE,PHI,0,away,Sub,,,,,J. Sampson,I. Canaan
+53,1,5:15.0,12,13,CLE,PHI,15,away,JS,,5,miss2,0,N. Noel,
+54,1,5:14.0,12,13,CLE,PHI,1,away,OffReb,,,OffReb,,N. Noel,
+55,1,5:11.0,12,15,CLE,PHI,3,away,LU,,3,make2,2,N. Noel,
+56,1,4:57.0,12,15,CLE,PHI,14,home,BadPass,,,turnover,,K. Love,
+57,1,4:57.0,12,15,CLE,PHI,0,home,Sub,,,,,T. Thompson,T. Mozgov
+58,1,4:43.0,12,15,CLE,PHI,14,away,JS,block,6,miss2,0,J. Grant,T. Thompson
+59,1,4:42.0,12,15,CLE,PHI,1,home,DefReb,,,DefReb,,I. Shumpert,
+60,1,4:38.0,14,15,CLE,PHI,4,home,LU,assist,2,make2,2,L. James,I. Shumpert
+61,1,4:19.0,14,15,CLE,PHI,19,away,Traveling,,,turnover,,H. Thompson,
+62,1,4:06.0,14,15,CLE,PHI,13,home,LU,,1,miss2,0,L. James,
+63,1,4:06.0,14,15,CLE,PHI,0,away,DefReb,,,DefReb,,J. Sampson,
+64,1,4:00.0,14,15,CLE,PHI,6,home,ChargeFoul,DrawnBy,,ChargeFoul,,H. Thompson,K. Love
+65,1,4:00.0,14,15,CLE,PHI,0,away,OffensiveFoul,,,turnover,,H. Thompson,
+66,1,3:55.0,14,15,CLE,PHI,5,away,Sub,,,,,R. Holmes,N. Noel
+67,1,3:49.0,14,15,CLE,PHI,6,home,Sub,,,,,J. Jones,K. Love
+68,1,3:37.0,14,15,CLE,PHI,12,away,DefGoaltending,,,DefGoaltending,,J. Grant,
+69,1,3:37.0,16,15,CLE,PHI,0,home,LU,assist,0,make2,2,T. Thompson,I. Shumpert
+70,1,3:30.0,16,15,CLE,PHI,7,away,LostBall,steal,,turnover,,R. Holmes,M. Dellavedova
+71,1,3:22.0,18,15,CLE,PHI,8,home,LU,assist,0,make2,2,L. James,M. Dellavedova
+72,1,3:00.0,18,15,CLE,PHI,22,away,JS,,4,miss2,0,J. Sampson,
+73,1,2:58.0,18,15,CLE,PHI,2,away,OffReb,,,OffReb,,R. Holmes,
+74,1,2:56.0,18,17,CLE,PHI,2,away,DK,,0,make2,2,R. Holmes,
+75,1,2:40.0,20,17,CLE,PHI,16,home,LU,assist,1,make2,2,T. Thompson,M. Dellavedova
+76,1,2:24.0,20,17,CLE,PHI,16,away,JS,block,3,miss2,0,J. Grant,J. Jones
+77,1,2:23.0,20,17,CLE,PHI,1,home,DefReb,,,DefReb,,J. Jones,
+78,1,2:23.0,20,17,CLE,PHI,0,home,Timeout,,,,,,
+79,1,2:23.0,20,17,CLE,PHI,0,home,Sub,,,,,R. Jefferson,L. James
+80,1,2:09.0,20,17,CLE,PHI,14,home,JS,,24,miss3,0,I. Shumpert,
+81,1,2:08.0,20,17,CLE,PHI,1,away,DefReb,,,DefReb,,T. Wroten,
+82,1,2:00.0,20,19,CLE,PHI,8,away,JS,assist,5,make2,2,J. Sampson,T. Wroten
+83,1,1:44.0,20,19,CLE,PHI,16,home,JS,,18,miss2,0,I. Shumpert,
+84,1,1:43.0,20,19,CLE,PHI,1,home,OffReb,,,OffReb,,T. Thompson,
+85,1,1:43.0,20,19,CLE,PHI,0,home,LU,,0,miss2,0,T. Thompson,
+86,1,1:43.0,20,19,CLE,PHI,0,away,DefReb,,,DefReb,,Team,
+87,1,1:43.0,20,19,CLE,PHI,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Thompson,T. Wroten
+88,1,1:29.0,20,19,CLE,PHI,14,away,LU,,0,miss2,0,R. Holmes,
+89,1,1:28.0,20,19,CLE,PHI,1,home,DefReb,,,DefReb,,T. Thompson,
+90,1,1:13.0,20,19,CLE,PHI,15,home,BadPass,,,turnover,,M. Dellavedova,
+91,1,1:00.0,20,19,CLE,PHI,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,R. Holmes
+92,1,1:00.0,20,20,CLE,PHI,0,away,FreeThrow,,,make1,1,R. Holmes,
+93,1,1:00.0,20,21,CLE,PHI,0,away,FreeThrow,,,make1,1,R. Holmes,
+94,1,0:51.0,20,21,CLE,PHI,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Wroten,I. Shumpert
+95,1,0:51.0,21,21,CLE,PHI,0,home,FreeThrow,,,make1,1,I. Shumpert,
+96,1,0:51.0,21,21,CLE,PHI,0,home,Sub,,,,,A. Varejão,T. Thompson
+97,1,0:51.0,21,21,CLE,PHI,0,home,FreeThrow,,,make1,0,I. Shumpert,
+98,1,0:48.0,21,21,CLE,PHI,3,away,DefReb,,,DefReb,,H. Thompson,
+99,1,0:43.0,21,23,CLE,PHI,5,away,LU,,2,make2,2,T. Wroten,
+100,1,0:35.0,21,23,CLE,PHI,8,home,JS,,26,miss3,0,M. Dellavedova,
+101,1,0:35.0,21,23,CLE,PHI,0,away,DefReb,,,DefReb,,R. Holmes,
+102,1,0:27.0,21,23,CLE,PHI,8,away,JS,,24,miss3,0,T. Wroten,
+103,1,0:26.0,21,23,CLE,PHI,1,home,DefReb,,,DefReb,,Team,
+104,1,0:02.0,21,23,CLE,PHI,24,home,BadPass,steal,,turnover,,M. Dellavedova,R. Holmes
+105,1,0:01.0,21,25,CLE,PHI,1,away,LU,assist,0,make2,2,T. Wroten,R. Holmes
+106,2,11:41.0,21,25,CLE,PHI,19,home,LU,,2,miss2,0,K. Irving,
+107,2,11:39.0,21,25,CLE,PHI,2,away,DefReb,,,DefReb,,J. Sampson,
+108,2,11:33.0,21,25,CLE,PHI,6,away,JS,,23,miss3,0,H. Thompson,
+109,2,11:32.0,21,25,CLE,PHI,1,away,OffReb,,,OffReb,,J. Grant,
+110,2,11:29.0,21,25,CLE,PHI,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Love,J. Sampson
+111,2,11:29.0,21,26,CLE,PHI,0,away,FreeThrow,,,make1,1,J. Sampson,
+112,2,11:29.0,21,26,CLE,PHI,0,away,FreeThrow,,,make1,0,J. Sampson,
+113,2,11:28.0,21,26,CLE,PHI,1,home,DefReb,,,DefReb,,A. Varejão,
+114,2,11:06.0,24,26,CLE,PHI,22,home,JS,assist,24,make3,3,R. Jefferson,I. Shumpert
+115,2,10:56.0,24,26,CLE,PHI,10,away,LU,,2,miss2,0,J. Grant,
+116,2,10:56.0,24,26,CLE,PHI,0,home,DefReb,,,DefReb,,Team,
+117,2,10:56.0,24,26,CLE,PHI,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Okafor,A. Varejão
+118,2,10:56.0,24,26,CLE,PHI,0,away,Sub,,,,,I. Canaan,H. Thompson
+119,2,10:56.0,24,26,CLE,PHI,0,away,Sub,,,,,K. Marshall,T. Wroten
+120,2,10:56.0,24,26,CLE,PHI,0,away,Sub,,,,,R. Covington,J. Sampson
+121,2,10:46.0,24,26,CLE,PHI,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Grant,K. Love
+122,2,10:35.0,24,26,CLE,PHI,11,home,JS,,8,miss2,0,K. Irving,
+123,2,10:35.0,24,26,CLE,PHI,0,away,DefReb,,,DefReb,,Team,
+124,2,10:35.0,24,26,CLE,PHI,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Love,J. Grant
+125,2,10:35.0,24,26,CLE,PHI,0,home,Sub,,,,,T. Thompson,K. Love
+126,2,10:16.0,24,26,CLE,PHI,19,away,JS,,22,miss3,0,I. Canaan,
+127,2,10:16.0,24,26,CLE,PHI,0,home,DefReb,,,DefReb,,A. Varejão,
+128,2,10:03.0,24,26,CLE,PHI,13,home,JS,,14,miss2,0,A. Varejão,
+129,2,10:03.0,24,26,CLE,PHI,0,away,DefReb,,,DefReb,,R. Covington,
+130,2,9:54.0,24,26,CLE,PHI,9,away,BadPass,steal,,turnover,,I. Canaan,A. Varejão
+131,2,9:45.0,24,26,CLE,PHI,9,home,Sub,,,,,L. James,R. Jefferson
+132,2,9:45.0,24,26,CLE,PHI,0,home,Sub,,,,,J. Smith,I. Shumpert
+133,2,9:40.0,26,26,CLE,PHI,5,home,JS,assist,9,make2,2,J. Smith,A. Varejão
+134,2,9:40.0,26,26,CLE,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Marshall,J. Smith
+135,2,9:40.0,27,26,CLE,PHI,0,home,FreeThrow,,,make1,1,J. Smith,
+136,2,9:16.0,27,26,CLE,PHI,24,away,JS,,41,miss3,0,K. Marshall,
+137,2,9:16.0,27,26,CLE,PHI,0,away,OffReb,,,OffReb,,Team,
+138,2,9:16.0,27,26,CLE,PHI,0,away,ShotClockViolation,,,turnover,,Team,
+139,2,9:05.0,27,26,CLE,PHI,11,home,LU,block,3,miss2,0,K. Irving,J. Grant
+140,2,9:04.0,27,26,CLE,PHI,1,away,DefReb,,,DefReb,,R. Covington,
+141,2,9:02.0,27,26,CLE,PHI,2,away,BadPass,steal,,turnover,,R. Covington,L. James
+142,2,8:58.0,29,26,CLE,PHI,4,home,LU,assist,0,make2,2,K. Irving,L. James
+143,2,8:56.0,29,26,CLE,PHI,2,away,Timeout,,,,,,
+144,2,8:44.0,29,26,CLE,PHI,12,away,BadPass,,,turnover,,K. Marshall,
+145,2,8:20.0,29,26,CLE,PHI,24,home,JS,,24,miss3,0,L. James,
+146,2,8:19.0,29,26,CLE,PHI,1,away,DefReb,,,DefReb,,Team,
+147,2,8:06.0,29,26,CLE,PHI,13,away,Sub,,,,,N. Noel,J. Grant
+148,2,8:06.0,29,26,CLE,PHI,0,home,Sub,,,,,T. Mozgov,A. Varejão
+149,2,8:06.0,29,26,CLE,PHI,0,away,LostBall,steal,,turnover,,K. Marshall,K. Irving
+150,2,8:00.0,29,26,CLE,PHI,6,home,BadPass,steal,,turnover,,L. James,N. Noel
+151,2,7:48.0,29,26,CLE,PHI,12,away,LU,,1,miss2,0,R. Covington,
+152,2,7:47.0,29,26,CLE,PHI,1,home,DefReb,,,DefReb,,K. Irving,
+153,2,7:41.0,32,26,CLE,PHI,6,home,JS,assist,23,make3,3,J. Smith,L. James
+154,2,7:20.0,32,28,CLE,PHI,21,away,LU,,1,make2,2,K. Marshall,
+155,2,7:16.0,32,28,CLE,PHI,4,home,Timeout,,,,,,
+156,2,7:16.0,32,28,CLE,PHI,0,away,Sub,,,,,H. Thompson,R. Covington
+157,2,7:16.0,32,28,CLE,PHI,0,home,Sub,,,,,M. Dellavedova,K. Irving
+158,2,7:07.0,32,28,CLE,PHI,9,home,JS,,8,miss2,0,J. Smith,
+159,2,7:07.0,32,28,CLE,PHI,0,home,OffReb,,,OffReb,,Team,
+160,2,6:54.0,32,28,CLE,PHI,13,home,JS,,20,miss2,0,J. Smith,
+161,2,6:54.0,32,28,CLE,PHI,0,away,DefReb,,,DefReb,,I. Canaan,
+162,2,6:43.0,32,28,CLE,PHI,11,away,JS,,9,miss2,0,J. Okafor,
+163,2,6:42.0,32,28,CLE,PHI,1,home,DefReb,,,DefReb,,L. James,
+164,2,6:35.0,34,28,CLE,PHI,7,home,JS,,18,make2,2,L. James,
+165,2,6:12.0,34,28,CLE,PHI,23,away,JS,,23,miss3,0,I. Canaan,
+166,2,6:11.0,34,28,CLE,PHI,1,away,OffReb,,,OffReb,,N. Noel,
+167,2,6:06.0,34,30,CLE,PHI,5,away,DK,assist,0,make2,2,J. Okafor,N. Noel
+168,2,5:45.0,36,30,CLE,PHI,21,home,JS,,16,make2,2,M. Dellavedova,
+169,2,5:26.0,36,30,CLE,PHI,19,away,BackCourtTurnover,,,turnover,,K. Marshall,
+170,2,5:18.0,36,30,CLE,PHI,8,home,JS,,22,miss2,0,L. James,
+171,2,5:17.0,36,30,CLE,PHI,1,away,DefReb,,,DefReb,,J. Okafor,
+172,2,5:03.0,36,30,CLE,PHI,14,away,LU,block,2,miss2,0,I. Canaan,T. Mozgov
+173,2,5:03.0,36,30,CLE,PHI,0,away,OffReb,,,OffReb,,Team,
+174,2,5:03.0,36,30,CLE,PHI,0,away,Sub,,,,,T. Wroten,K. Marshall
+175,2,5:03.0,36,30,CLE,PHI,0,away,Sub,,,,,R. Holmes,J. Okafor
+176,2,4:57.0,36,30,CLE,PHI,6,away,OutOfBounds,,,turnover,,T. Wroten,
+177,2,4:46.0,38,30,CLE,PHI,11,home,JS,,6,make2,2,L. James,
+178,2,4:34.0,38,33,CLE,PHI,12,away,JS,assist,23,make3,3,I. Canaan,T. Wroten
+179,2,4:19.0,38,33,CLE,PHI,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Noel,T. Thompson
+180,2,4:08.0,38,33,CLE,PHI,11,home,JS,,7,miss2,0,L. James,
+181,2,4:07.0,38,33,CLE,PHI,1,home,OffReb,,,OffReb,,T. Mozgov,
+182,2,4:03.0,41,33,CLE,PHI,4,home,JS,assist,26,make3,3,M. Dellavedova,T. Mozgov
+183,2,4:03.0,41,33,CLE,PHI,0,away,Timeout,,,,,,
+184,2,3:49.0,41,33,CLE,PHI,14,away,BadPass,steal,,turnover,,T. Wroten,J. Smith
+185,2,3:45.0,41,33,CLE,PHI,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Canaan,T. Thompson
+186,2,3:45.0,42,33,CLE,PHI,0,home,FreeThrow,,,make1,1,T. Thompson,
+187,2,3:45.0,43,33,CLE,PHI,0,home,FreeThrow,,,make1,1,T. Thompson,
+188,2,3:30.0,43,33,CLE,PHI,15,away,LU,,1,miss2,0,T. Wroten,
+189,2,3:29.0,43,33,CLE,PHI,1,home,DefReb,,,DefReb,,T. Thompson,
+190,2,3:24.0,45,33,CLE,PHI,5,home,LU,,0,make2,2,L. James,
+191,2,3:08.0,45,33,CLE,PHI,16,away,LostBall,steal,,turnover,,R. Holmes,L. James
+192,2,3:02.0,47,33,CLE,PHI,6,home,DK,assist,0,make2,2,L. James,J. Smith
+193,2,3:02.0,47,33,CLE,PHI,0,away,Timeout,,,,,,
+194,2,3:02.0,47,33,CLE,PHI,0,away,Sub,,,,,R. Covington,N. Noel
+195,2,3:02.0,47,33,CLE,PHI,0,away,Sub,,,,,J. Okafor,I. Canaan
+196,2,3:02.0,47,33,CLE,PHI,0,away,Sub,,,,,T. McConnell,H. Thompson
+197,2,3:02.0,47,33,CLE,PHI,0,away,Sub,,,,,J. Sampson,T. Wroten
+198,2,3:02.0,47,33,CLE,PHI,0,away,Sub,,,,,J. Grant,R. Holmes
+199,2,2:48.0,47,33,CLE,PHI,14,away,LU,,2,miss2,0,J. Sampson,
+200,2,2:47.0,47,33,CLE,PHI,1,away,OffReb,,,OffReb,,J. Okafor,
+201,2,2:47.0,47,33,CLE,PHI,0,away,LU,,1,miss2,0,J. Okafor,
+202,2,2:47.0,47,33,CLE,PHI,0,away,OffReb,,,OffReb,,J. Okafor,
+203,2,2:47.0,47,33,CLE,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,J. Okafor
+204,2,2:47.0,47,34,CLE,PHI,0,away,FreeThrow,,,make1,1,J. Okafor,
+205,2,2:47.0,47,35,CLE,PHI,0,away,FreeThrow,,,make1,1,J. Okafor,
+206,2,2:44.0,47,35,CLE,PHI,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. McConnell,M. Dellavedova
+207,2,2:44.0,48,35,CLE,PHI,0,home,FreeThrow,,,make1,1,M. Dellavedova,
+208,2,2:44.0,49,35,CLE,PHI,0,home,FreeThrow,,,make1,1,M. Dellavedova,
+209,2,2:34.0,49,35,CLE,PHI,10,away,LU,,0,miss2,0,J. Grant,
+210,2,2:33.0,49,35,CLE,PHI,1,away,OffReb,,,OffReb,,J. Grant,
+211,2,2:32.0,49,35,CLE,PHI,1,away,LU,block,2,miss2,0,J. Grant,M. Dellavedova
+212,2,2:32.0,49,35,CLE,PHI,0,away,OffReb,,,OffReb,,Team,
+213,2,2:31.0,49,35,CLE,PHI,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Dellavedova,J. Grant
+214,2,2:16.0,49,35,CLE,PHI,15,away,BadPass,steal,,turnover,,T. McConnell,L. James
+215,2,2:12.0,49,35,CLE,PHI,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Sampson,L. James
+216,2,2:12.0,49,35,CLE,PHI,0,home,FreeThrow,,,make1,0,L. James,
+217,2,2:12.0,49,35,CLE,PHI,0,home,OffReb,,,OffReb,,Team,
+218,2,2:12.0,50,35,CLE,PHI,0,home,FreeThrow,,,make1,1,L. James,
+219,2,1:59.0,50,35,CLE,PHI,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Mozgov,J. Okafor
+220,2,1:59.0,50,36,CLE,PHI,0,away,FreeThrow,,,make1,1,J. Okafor,
+221,2,1:59.0,50,36,CLE,PHI,0,away,FreeThrow,,,make1,0,J. Okafor,
+222,2,1:58.0,50,36,CLE,PHI,1,home,DefReb,,,DefReb,,L. James,
+223,2,1:37.0,50,36,CLE,PHI,21,home,JS,,23,miss3,0,T. Mozgov,
+224,2,1:37.0,50,36,CLE,PHI,0,away,DefReb,,,DefReb,,T. McConnell,
+225,2,1:28.0,50,36,CLE,PHI,9,away,JS,,24,miss3,0,R. Covington,
+226,2,1:27.0,50,36,CLE,PHI,1,home,DefReb,,,DefReb,,T. Mozgov,
+227,2,1:22.0,52,36,CLE,PHI,5,home,DK,assist,0,make2,2,L. James,J. Smith
+228,2,1:00.0,52,36,CLE,PHI,22,away,JS,,15,miss2,0,J. Okafor,
+229,2,1:00.0,52,36,CLE,PHI,0,home,DefReb,,,DefReb,,J. Smith,
+230,2,0:51.0,55,36,CLE,PHI,9,home,JS,assist,23,make3,3,M. Dellavedova,L. James
+231,2,0:45.0,55,36,CLE,PHI,6,away,LU,,1,miss2,0,J. Sampson,
+232,2,0:42.0,55,36,CLE,PHI,3,away,OffReb,,,OffReb,,R. Covington,
+233,2,0:42.0,55,38,CLE,PHI,0,away,LU,,0,make2,2,R. Covington,
+234,2,0:22.0,55,38,CLE,PHI,20,home,JS,,25,miss3,0,L. James,
+235,2,0:21.0,55,38,CLE,PHI,1,away,DefReb,,,DefReb,,T. McConnell,
+236,2,0:00.0,55,38,CLE,PHI,21,away,JS,block,40,miss3,0,J. Grant,L. James
+237,2,0:00.0,55,38,CLE,PHI,0,away,OffReb,,,OffReb,,Team,
+238,3,11:46.0,55,38,CLE,PHI,14,home,JS,,8,miss2,0,L. James,
+239,3,11:45.0,55,38,CLE,PHI,1,away,DefReb,,,DefReb,,N. Noel,
+240,3,11:37.0,55,38,CLE,PHI,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Irving,K. Marshall
+241,3,11:37.0,55,39,CLE,PHI,0,away,FreeThrow,,,make1,1,K. Marshall,
+242,3,11:37.0,55,40,CLE,PHI,0,away,FreeThrow,,,make1,1,K. Marshall,
+243,3,11:18.0,55,40,CLE,PHI,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Noel,K. Love
+244,3,11:18.0,56,40,CLE,PHI,0,home,FreeThrow,,,make1,1,K. Love,
+245,3,11:18.0,57,40,CLE,PHI,0,home,FreeThrow,,,make1,1,K. Love,
+246,3,11:04.0,57,40,CLE,PHI,14,away,JS,,11,miss2,0,K. Marshall,
+247,3,11:02.0,57,40,CLE,PHI,2,home,DefReb,,,DefReb,,T. Mozgov,
+248,3,10:57.0,59,40,CLE,PHI,5,home,LU,,0,make2,2,K. Irving,
+249,3,10:49.0,59,40,CLE,PHI,8,away,JS,,24,miss3,0,R. Covington,
+250,3,10:49.0,59,40,CLE,PHI,0,away,OffReb,,,OffReb,,J. Okafor,
+251,3,10:41.0,59,40,CLE,PHI,8,away,LU,,2,miss2,0,J. Okafor,
+252,3,10:39.0,59,40,CLE,PHI,2,home,DefReb,,,DefReb,,T. Mozgov,
+253,3,10:31.0,62,40,CLE,PHI,8,home,JS,,24,make3,3,K. Irving,
+254,3,10:31.0,62,40,CLE,PHI,0,away,Timeout,,,,,,
+255,3,10:06.0,62,40,CLE,PHI,25,away,JS,,6,miss2,0,I. Canaan,
+256,3,10:04.0,62,40,CLE,PHI,2,home,DefReb,,,DefReb,,K. Love,
+257,3,9:51.0,62,40,CLE,PHI,13,home,LU,,1,miss2,0,K. Irving,
+258,3,9:49.0,62,40,CLE,PHI,2,away,DefReb,,,DefReb,,K. Marshall,
+259,3,9:41.0,62,43,CLE,PHI,8,away,JS,assist,28,make3,3,R. Covington,K. Marshall
+260,3,9:29.0,65,43,CLE,PHI,12,home,JS,assist,26,make3,3,K. Love,K. Irving
+261,3,9:13.0,65,43,CLE,PHI,16,away,JS,,25,miss3,0,I. Canaan,
+262,3,9:12.0,65,43,CLE,PHI,1,home,DefReb,,,DefReb,,J. Smith,
+263,3,9:07.0,67,43,CLE,PHI,5,home,JS,,7,make2,2,J. Smith,
+264,3,8:46.0,67,43,CLE,PHI,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Mozgov,N. Noel
+265,3,8:46.0,67,43,CLE,PHI,0,away,FreeThrow,,,make1,0,N. Noel,
+266,3,8:46.0,67,43,CLE,PHI,0,away,OffReb,,,OffReb,,Team,
+267,3,8:46.0,67,44,CLE,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
+268,3,8:36.0,67,44,CLE,PHI,10,home,BadPass,,,turnover,,L. James,
+269,3,8:29.0,67,44,CLE,PHI,7,away,LostBall,steal,,turnover,,N. Noel,K. Love
+270,3,8:23.0,69,44,CLE,PHI,6,home,LU,,0,make2,2,K. Irving,
+271,3,8:11.0,69,44,CLE,PHI,12,away,JS,,7,miss2,0,J. Okafor,
+272,3,8:10.0,69,44,CLE,PHI,1,home,DefReb,,,DefReb,,T. Mozgov,
+273,3,8:08.0,69,44,CLE,PHI,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Canaan,L. James
+274,3,8:08.0,70,44,CLE,PHI,0,home,FreeThrow,,,make1,1,L. James,
+275,3,8:08.0,70,44,CLE,PHI,0,home,Sub,,,,,M. Dellavedova,K. Irving
+276,3,8:08.0,70,44,CLE,PHI,0,away,Sub,,,,,J. Sampson,R. Covington
+277,3,8:08.0,71,44,CLE,PHI,0,home,FreeThrow,,,make1,1,L. James,
+278,3,7:54.0,71,46,CLE,PHI,14,away,JS,,12,make2,2,K. Marshall,
+279,3,7:34.0,71,46,CLE,PHI,20,home,JS,,25,miss3,0,K. Love,
+280,3,7:33.0,71,46,CLE,PHI,1,away,DefReb,,,DefReb,,J. Okafor,
+281,3,7:25.0,71,46,CLE,PHI,8,away,JS,,16,miss2,0,K. Marshall,
+282,3,7:25.0,71,46,CLE,PHI,0,home,DefReb,,,DefReb,,T. Mozgov,
+283,3,7:10.0,73,46,CLE,PHI,15,home,LU,,1,make2,2,L. James,
+284,3,6:47.0,73,46,CLE,PHI,23,away,JS,,9,miss2,0,N. Noel,
+285,3,6:46.0,73,46,CLE,PHI,1,home,DefReb,,,DefReb,,T. Mozgov,
+286,3,6:43.0,75,46,CLE,PHI,3,home,DK,assist,0,make2,2,L. James,J. Smith
+287,3,6:26.0,75,46,CLE,PHI,17,away,JS,,6,miss2,0,J. Okafor,
+288,3,6:25.0,75,46,CLE,PHI,1,home,DefReb,,,DefReb,,K. Love,
+289,3,6:18.0,75,46,CLE,PHI,7,home,JS,,25,miss3,0,L. James,
+290,3,6:17.0,75,46,CLE,PHI,1,away,DefReb,,,DefReb,,N. Noel,
+291,3,6:03.0,75,46,CLE,PHI,14,away,JS,,24,miss3,0,I. Canaan,
+292,3,6:03.0,75,46,CLE,PHI,0,away,OffReb,,,OffReb,,N. Noel,
+293,3,6:03.0,75,46,CLE,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Love,N. Noel
+294,3,6:03.0,75,46,CLE,PHI,0,away,FreeThrow,,,make1,0,N. Noel,
+295,3,6:03.0,75,46,CLE,PHI,0,away,OffReb,,,OffReb,,Team,
+296,3,6:03.0,75,46,CLE,PHI,0,away,Sub,,,,,T. Wroten,K. Marshall
+297,3,6:03.0,75,46,CLE,PHI,0,home,Sub,,,,,I. Shumpert,J. Smith
+298,3,6:03.0,75,46,CLE,PHI,0,home,Sub,,,,,R. Jefferson,L. James
+299,3,6:03.0,75,47,CLE,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
+300,3,5:53.0,75,47,CLE,PHI,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Canaan,I. Shumpert
+301,3,5:53.0,75,47,CLE,PHI,0,away,Sub,,,,,J. Grant,N. Noel
+302,3,5:53.0,75,47,CLE,PHI,0,away,Sub,,,,,H. Thompson,I. Canaan
+303,3,5:46.0,75,47,CLE,PHI,7,home,JS,,9,miss2,0,I. Shumpert,
+304,3,5:45.0,75,47,CLE,PHI,1,away,DefReb,,,DefReb,,T. Wroten,
+305,3,5:38.0,75,47,CLE,PHI,7,away,JS,,24,miss3,0,H. Thompson,
+306,3,5:38.0,75,47,CLE,PHI,0,away,OffReb,,,OffReb,,J. Sampson,
+307,3,5:31.0,75,47,CLE,PHI,7,away,JS,,4,miss2,0,J. Grant,
+308,3,5:30.0,75,47,CLE,PHI,1,away,OffReb,,,OffReb,,J. Okafor,
+309,3,5:28.0,75,47,CLE,PHI,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,T. Wroten
+310,3,5:28.0,75,48,CLE,PHI,0,away,FreeThrow,,,make1,1,T. Wroten,
+311,3,5:28.0,75,49,CLE,PHI,0,away,FreeThrow,,,make1,1,T. Wroten,
+312,3,5:12.0,77,49,CLE,PHI,16,home,JS,assist,7,make2,2,M. Dellavedova,R. Jefferson
+313,3,4:56.0,77,49,CLE,PHI,16,away,JS,,25,miss3,0,T. Wroten,
+314,3,4:56.0,77,49,CLE,PHI,0,home,DefReb,,,DefReb,,Team,
+315,3,4:40.0,77,49,CLE,PHI,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,H. Thompson,K. Love
+316,3,4:34.0,77,49,CLE,PHI,6,home,JS,,7,miss2,0,T. Mozgov,
+317,3,4:33.0,77,49,CLE,PHI,1,away,DefReb,,,DefReb,,J. Sampson,
+318,3,4:24.0,77,51,CLE,PHI,9,away,LU,assist,1,make2,2,J. Sampson,T. Wroten
+319,3,4:12.0,77,51,CLE,PHI,12,home,JS,,9,miss2,0,M. Dellavedova,
+320,3,4:11.0,77,51,CLE,PHI,1,away,DefReb,,,DefReb,,T. Wroten,
+321,3,4:02.0,77,54,CLE,PHI,9,away,JS,assist,25,make3,3,H. Thompson,J. Sampson
+322,3,3:45.0,77,54,CLE,PHI,17,home,JS,,24,miss3,0,R. Jefferson,
+323,3,3:44.0,77,54,CLE,PHI,1,away,DefReb,,,DefReb,,J. Okafor,
+324,3,3:23.0,77,54,CLE,PHI,21,away,JS,,24,miss3,0,T. Wroten,
+325,3,3:23.0,77,54,CLE,PHI,0,away,OffReb,,,OffReb,,H. Thompson,
+326,3,3:13.0,77,57,CLE,PHI,10,away,JS,,26,make3,3,H. Thompson,
+327,3,3:10.0,77,57,CLE,PHI,3,home,Timeout,,,,,,
+328,3,3:10.0,77,57,CLE,PHI,0,away,Sub,,,,,R. Holmes,J. Okafor
+329,3,3:10.0,77,57,CLE,PHI,0,home,Sub,,,,,T. Thompson,T. Mozgov
+330,3,2:56.0,77,57,CLE,PHI,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Grant,K. Love
+331,3,2:56.0,77,57,CLE,PHI,0,home,FreeThrow,,,make1,0,K. Love,
+332,3,2:56.0,77,57,CLE,PHI,0,home,OffReb,,,OffReb,,Team,
+333,3,2:56.0,78,57,CLE,PHI,0,home,FreeThrow,,,make1,1,K. Love,
+334,3,2:38.0,78,59,CLE,PHI,18,away,DK,assist,0,make2,2,J. Grant,J. Sampson
+335,3,2:20.0,81,59,CLE,PHI,18,home,JS,,24,make3,3,M. Dellavedova,
+336,3,2:14.0,81,59,CLE,PHI,6,away,LostBall,,,turnover,,T. Wroten,
+337,3,1:52.0,84,59,CLE,PHI,22,home,JS,assist,24,make3,3,M. Dellavedova,T. Thompson
+338,3,1:38.0,84,59,CLE,PHI,14,away,LostBall,steal,,turnover,,J. Sampson,M. Dellavedova
+339,3,1:30.0,86,59,CLE,PHI,8,home,LU,,1,make2,2,M. Dellavedova,
+340,3,1:16.0,86,59,CLE,PHI,14,away,JS,,25,miss3,0,T. Wroten,
+341,3,1:16.0,86,59,CLE,PHI,0,home,DefReb,,,DefReb,,T. Thompson,
+342,3,1:01.0,86,59,CLE,PHI,15,home,HS,,12,miss2,0,T. Thompson,
+343,3,1:00.0,86,59,CLE,PHI,1,away,DefReb,,,DefReb,,J. Sampson,
+344,3,0:51.0,86,59,CLE,PHI,9,away,JS,block,6,miss2,0,T. Wroten,M. Dellavedova
+345,3,0:49.0,86,59,CLE,PHI,2,home,DefReb,,,DefReb,,I. Shumpert,
+346,3,0:41.0,86,59,CLE,PHI,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Holmes,K. Love
+347,3,0:41.0,86,59,CLE,PHI,0,home,TechnicalFoul,,,TechnicalFoul,,Team,
+348,3,0:41.0,86,60,CLE,PHI,0,away,FreeThrow,,,make1,1,R. Holmes makes technical free throw,
+349,3,0:41.0,87,60,CLE,PHI,0,home,FreeThrow,,,make1,1,K. Love,
+350,3,0:41.0,87,60,CLE,PHI,0,home,Sub,,,,,J. Cunningham,M. Dellavedova
+351,3,0:41.0,87,60,CLE,PHI,0,away,Sub,,,,,I. Canaan,J. Sampson
+352,3,0:41.0,88,60,CLE,PHI,0,home,FreeThrow,,,make1,1,K. Love,
+353,3,0:17.0,88,60,CLE,PHI,24,away,JS,,24,miss3,0,R. Holmes,
+354,3,0:17.0,88,60,CLE,PHI,0,away,OffReb,,,OffReb,,Team,
+355,3,0:17.0,88,60,CLE,PHI,0,away,ShotClockViolation,,,turnover,,Team,
+356,3,0:00.0,88,60,CLE,PHI,17,home,JS,,24,miss3,0,J. Cunningham,
+357,3,0:00.0,88,60,CLE,PHI,0,home,OffReb,,,OffReb,,Team,
+358,4,11:42.0,88,60,CLE,PHI,18,away,JS,,21,miss2,0,H. Thompson,
+359,4,11:42.0,88,60,CLE,PHI,0,home,DefReb,,,DefReb,,T. Thompson,
+360,4,11:31.0,88,60,CLE,PHI,11,home,JS,,17,miss2,0,I. Shumpert,
+361,4,11:31.0,88,60,CLE,PHI,0,away,DefReb,,,DefReb,,N. Noel,
+362,4,11:18.0,88,60,CLE,PHI,13,away,JS,,9,miss2,0,T. McConnell,
+363,4,11:18.0,88,60,CLE,PHI,0,away,OffReb,,,OffReb,,N. Stauskas,
+364,4,11:11.0,88,60,CLE,PHI,7,away,BadPass,steal,,turnover,,T. McConnell,I. Shumpert
+365,4,10:59.0,90,60,CLE,PHI,12,home,JS,,12,make2,2,I. Shumpert,
+366,4,10:40.0,90,60,CLE,PHI,19,away,HS,,7,miss2,0,N. Noel,
+367,4,10:40.0,90,60,CLE,PHI,0,home,DefReb,,,DefReb,,J. Jones,
+368,4,10:29.0,92,60,CLE,PHI,11,home,JS,assist,23,make2,2,J. Jones,I. Shumpert
+369,4,10:29.0,92,60,CLE,PHI,0,away,Timeout,,,,,,
+370,4,10:29.0,92,60,CLE,PHI,0,away,Sub,,,,,J. Sampson,R. Holmes
+371,4,10:29.0,92,60,CLE,PHI,0,home,Sub,,,,,K. Irving,I. Shumpert
+372,4,10:16.0,92,62,CLE,PHI,13,away,DK,assist,0,make2,2,J. Sampson,T. McConnell
+373,4,9:59.0,92,62,CLE,PHI,17,home,JS,,24,miss3,0,J. Jones,
+374,4,9:58.0,92,62,CLE,PHI,1,home,OffReb,,,OffReb,,T. Thompson,
+375,4,9:38.0,92,62,CLE,PHI,20,home,JS,,16,miss2,0,K. Irving,
+376,4,9:38.0,92,62,CLE,PHI,0,away,DefReb,,,DefReb,,Team,
+377,4,9:38.0,92,62,CLE,PHI,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Thompson,T. McConnell
+378,4,9:31.0,92,62,CLE,PHI,7,away,BadPass,steal,,turnover,,T. McConnell,K. Irving
+379,4,9:23.0,95,62,CLE,PHI,8,home,JS,assist,22,make3,3,R. Jefferson,K. Irving
+380,4,8:56.0,95,64,CLE,PHI,27,away,JS,,14,make2,2,N. Noel,
+381,4,8:36.0,95,64,CLE,PHI,20,home,BadPass,steal,,turnover,,K. Irving,N. Stauskas
+382,4,8:25.0,95,64,CLE,PHI,11,away,LU,,2,miss2,0,H. Thompson,
+383,4,8:25.0,95,64,CLE,PHI,0,home,DefReb,,,DefReb,,Team,
+384,4,8:09.0,98,64,CLE,PHI,16,home,JS,,27,make3,3,K. Irving,
+385,4,8:08.0,98,64,CLE,PHI,1,away,Timeout,,,,,,
+386,4,8:08.0,98,64,CLE,PHI,0,home,Sub,,,,,A. Varejão,T. Thompson
+387,4,8:08.0,98,64,CLE,PHI,0,away,Sub,,,,,R. Covington,H. Thompson
+388,4,7:59.0,98,64,CLE,PHI,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Varejão,N. Noel
+389,4,7:59.0,98,65,CLE,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
+390,4,7:59.0,98,65,CLE,PHI,0,away,FreeThrow,,,make1,0,N. Noel,
+391,4,7:58.0,98,65,CLE,PHI,1,home,DefReb,,,DefReb,,J. Jones,
+392,4,7:37.0,100,65,CLE,PHI,21,home,DK,assist,0,make2,2,J. Cunningham,K. Irving
+393,4,7:26.0,100,65,CLE,PHI,11,away,JS,,18,miss2,0,N. Noel,
+394,4,7:25.0,100,65,CLE,PHI,1,home,DefReb,,,DefReb,,R. Jefferson,
+395,4,7:12.0,100,65,CLE,PHI,13,home,JS,,24,miss3,0,R. Jefferson,
+396,4,7:12.0,100,65,CLE,PHI,0,away,DefReb,,,DefReb,,T. McConnell,
+397,4,7:07.0,100,65,CLE,PHI,5,away,JS,,25,miss3,0,R. Covington,
+398,4,7:06.0,100,65,CLE,PHI,1,away,OffReb,,,OffReb,,T. McConnell,
+399,4,7:04.0,100,67,CLE,PHI,2,away,JS,,12,make2,2,T. McConnell,
+400,4,7:04.0,100,67,CLE,PHI,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Jones,N. Noel
+401,4,7:04.0,100,67,CLE,PHI,0,away,FreeThrow,,,make1,0,N. Noel,
+402,4,7:03.0,100,67,CLE,PHI,1,home,DefReb,,,DefReb,,J. Jones,
+403,4,6:40.0,100,67,CLE,PHI,23,home,ShotClockViolation,,,turnover,,Team,
+404,4,6:28.0,100,67,CLE,PHI,12,away,JS,,26,miss3,0,R. Covington,
+405,4,6:27.0,100,67,CLE,PHI,1,home,DefReb,,,DefReb,,J. Cunningham,
+406,4,6:13.0,100,67,CLE,PHI,14,home,JS,,26,miss3,0,J. Cunningham,
+407,4,6:13.0,100,67,CLE,PHI,0,home,OffReb,,,OffReb,,A. Varejão,
+408,4,6:06.0,100,67,CLE,PHI,7,home,JS,,20,miss2,0,J. Jones,
+409,4,6:06.0,100,67,CLE,PHI,0,away,DefReb,,,DefReb,,J. Sampson,
+410,4,5:56.0,100,67,CLE,PHI,10,away,LostBall,,,turnover,,N. Stauskas,
+411,4,5:56.0,100,67,CLE,PHI,0,home,Sub,,,,,S. Kaun,K. Irving
+412,4,5:37.0,100,67,CLE,PHI,19,home,HS,,10,miss2,0,A. Varejão,
+413,4,5:35.0,100,67,CLE,PHI,2,home,OffReb,,,OffReb,,S. Kaun,
+414,4,5:23.0,100,67,CLE,PHI,12,home,LU,,0,miss2,0,J. Cunningham,
+415,4,5:21.0,100,67,CLE,PHI,2,away,DefReb,,,DefReb,,N. Noel,
+416,4,5:07.0,100,69,CLE,PHI,14,away,JS,,10,make2,2,T. McConnell,
+417,4,4:51.0,103,69,CLE,PHI,16,home,JS,assist,24,make3,3,R. Jefferson,J. Jones
+418,4,4:34.0,103,69,CLE,PHI,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,J. Sampson
+419,4,4:34.0,103,69,CLE,PHI,0,away,FreeThrow,,,make1,0,J. Sampson,
+420,4,4:34.0,103,69,CLE,PHI,0,away,OffReb,,,OffReb,,Team,
+421,4,4:34.0,103,70,CLE,PHI,0,away,FreeThrow,,,make1,1,J. Sampson,
+422,4,4:09.0,103,70,CLE,PHI,25,home,JS,,23,miss3,0,J. Jones,
+423,4,4:09.0,103,70,CLE,PHI,0,away,DefReb,,,DefReb,,J. Sampson,
+424,4,4:02.0,103,72,CLE,PHI,7,away,JS,,13,make2,2,J. Sampson,
+425,4,3:49.0,103,72,CLE,PHI,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Noel,A. Varejão
+426,4,3:49.0,103,72,CLE,PHI,0,away,Sub,,,,,J. Grant,J. Sampson
+427,4,3:41.0,103,72,CLE,PHI,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,J. Cunningham
+428,4,3:41.0,104,72,CLE,PHI,0,home,FreeThrow,,,make1,1,J. Cunningham,
+429,4,3:41.0,104,72,CLE,PHI,0,home,FreeThrow,,,make1,0,J. Cunningham,
+430,4,3:40.0,104,72,CLE,PHI,1,away,DefReb,,,DefReb,,Team,
+431,4,3:40.0,104,72,CLE,PHI,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Varejão,J. Grant
+432,4,3:40.0,104,73,CLE,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+433,4,3:40.0,104,74,CLE,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+434,4,3:19.0,104,74,CLE,PHI,21,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,J. Cunningham
+435,4,3:19.0,104,74,CLE,PHI,0,home,Timeout,,,,,,
+436,4,3:19.0,104,74,CLE,PHI,0,away,Sub,,,,,R. Holmes,R. Covington
+437,4,3:07.0,104,74,CLE,PHI,12,home,HS,,6,miss2,0,A. Varejão,
+438,4,3:06.0,104,74,CLE,PHI,1,away,DefReb,,,DefReb,,N. Noel,
+439,4,2:58.0,104,76,CLE,PHI,8,away,LU,assist,1,make2,2,J. Grant,T. McConnell
+440,4,2:42.0,104,76,CLE,PHI,16,home,JS,,20,miss2,0,J. Jones,
+441,4,2:42.0,104,76,CLE,PHI,0,away,DefReb,,,DefReb,,N. Noel,
+442,4,2:31.0,104,78,CLE,PHI,11,away,JS,assist,18,make2,2,N. Noel,T. McConnell
+443,4,2:14.0,104,78,CLE,PHI,17,home,BadPass,steal,,turnover,,S. Kaun,T. McConnell
+444,4,2:08.0,104,80,CLE,PHI,6,away,JS,assist,13,make2,2,T. McConnell,J. Grant
+445,4,2:01.0,104,80,CLE,PHI,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Grant,R. Jefferson
+446,4,1:51.0,106,80,CLE,PHI,10,home,LU,assist,1,make2,2,S. Kaun,J. Cunningham
+447,4,1:38.0,106,80,CLE,PHI,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Kaun,N. Noel
+448,4,1:38.0,106,80,CLE,PHI,0,away,FreeThrow,,,make1,0,N. Noel,
+449,4,1:38.0,106,80,CLE,PHI,0,away,OffReb,,,OffReb,,Team,
+450,4,1:38.0,106,80,CLE,PHI,0,away,FreeThrow,,,make1,0,N. Noel,
+451,4,1:37.0,106,80,CLE,PHI,1,home,DefReb,,,DefReb,,J. Jones,
+452,4,1:18.0,106,80,CLE,PHI,19,home,LU,,1,miss2,0,S. Kaun,
+453,4,1:18.0,106,80,CLE,PHI,0,home,OffReb,,,OffReb,,S. Kaun,
+454,4,1:16.0,108,80,CLE,PHI,2,home,LU,,1,make2,2,S. Kaun,
+455,4,1:05.0,108,82,CLE,PHI,11,away,JS,,8,make2,2,T. McConnell,
+456,4,0:54.0,108,82,CLE,PHI,11,home,JS,,18,miss2,0,R. Jefferson,
+457,4,0:54.0,108,82,CLE,PHI,0,away,DefReb,,,DefReb,,Team,
+458,4,0:45.0,108,82,CLE,PHI,9,away,JS,,15,miss2,0,T. McConnell,
+459,4,0:44.0,108,82,CLE,PHI,1,away,OffReb,,,OffReb,,N. Noel,
+460,4,0:44.0,108,84,CLE,PHI,0,away,DK,,0,make2,2,N. Noel,
+461,4,0:27.0,108,84,CLE,PHI,17,home,JS,,13,miss2,0,A. Varejão,
+462,4,0:26.0,108,84,CLE,PHI,1,away,DefReb,,,DefReb,,T. McConnell,
+463,4,0:25.0,108,84,CLE,PHI,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Varejão,T. McConnell
+464,4,0:25.0,108,85,CLE,PHI,0,away,FreeThrow,,,make1,1,T. McConnell,
+465,4,0:25.0,108,86,CLE,PHI,0,away,FreeThrow,,,make1,1,T. McConnell,
+466,4,0:01.0,108,86,CLE,PHI,24,home,ShotClockViolation,,,turnover,,Team,
+467,4,0:00.0,108,86,CLE,PHI,1,away,JS,,43,miss3,0,R. Holmes,
+468,4,0:00.0,108,86,CLE,PHI,0,away,OffReb,,,OffReb,,Team,

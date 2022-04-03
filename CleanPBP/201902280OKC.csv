@@ -1,0 +1,473 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:48.0,0,0,OKC,PHI,12,home,JS,,23,miss3,0,M. Morris,
+1,1,11:44.0,0,0,OKC,PHI,4,home,OffReb,,,OffReb,,S. Adams,
+2,1,11:41.0,0,0,OKC,PHI,3,home,JS,,25,miss3,0,T. Ferguson,
+3,1,11:38.0,0,0,OKC,PHI,3,away,DefReb,,,DefReb,,Team,
+4,1,11:27.0,0,0,OKC,PHI,11,away,bad pass,steal,,turnover,,J. Butler,M. Morris
+5,1,11:23.0,0,0,OKC,PHI,4,home,LU,,1,miss2,0,R. Westbrook,
+6,1,11:21.0,0,0,OKC,PHI,2,away,DefReb,,,DefReb,,J. Butler,
+7,1,11:16.0,0,0,OKC,PHI,5,away,JS,,22,miss3,0,J. Bolden,
+8,1,11:13.0,0,0,OKC,PHI,3,home,DefReb,,,DefReb,,J. Grant,
+9,1,11:10.0,2,0,OKC,PHI,3,home,LU,assist,1,make2,2,J. Grant,R. Westbrook
+10,1,10:57.0,2,2,OKC,PHI,13,away,LU,assist,1,make2,2,B. Simmons,J. Butler
+11,1,10:37.0,2,2,OKC,PHI,20,home,HS,,3,miss2,0,S. Adams,
+12,1,10:35.0,2,2,OKC,PHI,2,home,OffReb,,,OffReb,,Team,
+13,1,10:33.0,2,2,OKC,PHI,2,away,KickBallViolation,,,KickBallViolation,,Team,
+14,1,10:29.0,2,2,OKC,PHI,4,home,JS,,25,miss3,0,R. Westbrook,
+15,1,10:27.0,2,2,OKC,PHI,2,away,DefReb,,,DefReb,,J. Redick,
+16,1,10:20.0,2,4,OKC,PHI,7,away,JS,assist,13,make2,2,J. Butler,B. Simmons
+17,1,10:06.0,5,4,OKC,PHI,14,home,JS,assist,25,make3,3,R. Westbrook,T. Ferguson
+18,1,9:44.0,5,6,OKC,PHI,22,away,LU,assist,2,make2,2,J. Bolden,J. Butler
+19,1,9:33.0,7,6,OKC,PHI,11,home,JS,,14,make2,2,M. Morris,
+20,1,9:19.0,7,9,OKC,PHI,14,away,JS,assist,24,make3,3,T. Harris,J. Redick
+21,1,8:58.0,7,9,OKC,PHI,21,home,JS,,18,miss2,0,J. Grant,
+22,1,8:55.0,7,9,OKC,PHI,3,away,DefReb,,,DefReb,,T. Harris,
+23,1,8:48.0,7,11,OKC,PHI,7,away,JS,,18,make2,2,T. Harris,
+24,1,8:48.0,7,11,OKC,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,T. Harris
+25,1,8:48.0,7,12,OKC,PHI,0,away,FreeThrow,,,make1,1,T. Harris,
+26,1,8:33.0,7,12,OKC,PHI,15,home,JS,,8,miss2,0,J. Grant,
+27,1,8:29.0,7,12,OKC,PHI,4,away,DefReb,,,DefReb,,J. Butler,
+28,1,8:14.0,7,12,OKC,PHI,15,away,JS,,25,miss3,0,T. Harris,
+29,1,8:12.0,7,12,OKC,PHI,2,home,DefReb,,,DefReb,,R. Westbrook,
+30,1,8:05.0,7,12,OKC,PHI,7,home,JS,,7,miss2,0,R. Westbrook,
+31,1,8:04.0,7,12,OKC,PHI,1,home,OffReb,,,OffReb,,S. Adams,
+32,1,8:04.0,7,12,OKC,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Bolden,S. Adams
+33,1,8:04.0,8,12,OKC,PHI,0,home,FreeThrow,,,make1,1,S. Adams,
+34,1,8:04.0,9,12,OKC,PHI,0,home,FreeThrow,,,make1,1,S. Adams,
+35,1,7:51.0,9,14,OKC,PHI,13,away,LU,assist,1,make2,2,J. Bolden,J. Butler
+36,1,7:42.0,9,14,OKC,PHI,9,home,bad pass,steal,,turnover,,R. Westbrook,T. Harris
+37,1,7:28.0,9,16,OKC,PHI,14,away,JS,,3,make2,2,T. Harris,
+38,1,7:11.0,11,16,OKC,PHI,17,home,JS,,8,make2,2,J. Grant,
+39,1,7:00.0,11,18,OKC,PHI,11,away,JS,assist,21,make2,2,J. Redick,B. Simmons
+40,1,6:51.0,11,18,OKC,PHI,9,home,JS,,25,miss3,0,R. Westbrook,
+41,1,6:48.0,11,18,OKC,PHI,3,away,DefReb,,,DefReb,,J. Bolden,
+42,1,6:40.0,11,21,OKC,PHI,8,away,JS,assist,25,make3,3,J. Redick,T. Harris
+43,1,6:39.0,11,21,OKC,PHI,1,home,Timeout,,,,,,
+44,1,6:39.0,11,21,OKC,PHI,0,away,Sub,,,,,M. Scott,J. Butler
+45,1,6:26.0,11,21,OKC,PHI,13,home,LU,block,1,miss2,0,R. Westbrook,M. Scott
+46,1,6:26.0,11,21,OKC,PHI,0,home,OffReb,,,OffReb,,Team,
+47,1,6:23.0,13,21,OKC,PHI,3,home,LU,assist,1,make2,2,R. Westbrook,T. Ferguson
+48,1,6:23.0,13,21,OKC,PHI,0,home,DelayOfGame,,,DelayOfGame,,Team,
+49,1,6:15.0,13,21,OKC,PHI,8,away,BadPass,,,turnover,,B. Simmons,
+50,1,6:03.0,13,21,OKC,PHI,12,home,JS,,25,miss3,0,J. Grant,
+51,1,5:58.0,13,21,OKC,PHI,5,away,DefReb,,,DefReb,,M. Scott,
+52,1,5:51.0,13,24,OKC,PHI,7,away,JS,assist,25,make3,3,M. Scott,J. Redick
+53,1,5:40.0,13,24,OKC,PHI,11,home,LU,block,3,miss2,0,M. Morris,M. Scott
+54,1,5:40.0,13,24,OKC,PHI,0,home,OffReb,,,OffReb,,Team,
+55,1,5:40.0,13,24,OKC,PHI,0,home,Sub,,,,,D. Schröder,M. Morris
+56,1,5:31.0,13,24,OKC,PHI,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Simmons,D. Schröder
+57,1,5:24.0,13,24,OKC,PHI,7,home,LU,,2,miss2,0,R. Westbrook,
+58,1,5:22.0,13,24,OKC,PHI,2,home,OffReb,,,OffReb,,S. Adams,
+59,1,5:22.0,13,24,OKC,PHI,0,home,LU,,0,miss2,0,S. Adams,
+60,1,5:21.0,13,24,OKC,PHI,1,away,DefReb,,,DefReb,,B. Simmons,
+61,1,5:18.0,13,24,OKC,PHI,3,away,LU,,1,miss2,0,T. Harris,
+62,1,5:16.0,13,24,OKC,PHI,2,home,DefReb,,,DefReb,,S. Adams,
+63,1,5:10.0,13,24,OKC,PHI,6,home,JS,,7,miss2,0,D. Schröder,
+64,1,5:08.0,13,24,OKC,PHI,2,away,DefReb,,,DefReb,,T. Harris,
+65,1,5:00.0,13,26,OKC,PHI,8,away,LU,assist,1,make2,2,J. Bolden,J. Redick
+66,1,4:50.0,13,26,OKC,PHI,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Bolden,S. Adams
+67,1,4:50.0,13,26,OKC,PHI,0,away,Sub,,,,,A. Johnson,J. Bolden
+68,1,4:50.0,13,26,OKC,PHI,0,home,Sub,,,,,N. Noel,S. Adams
+69,1,4:35.0,15,26,OKC,PHI,15,home,JS,assist,11,make2,2,N. Noel,T. Ferguson
+70,1,4:11.0,15,26,OKC,PHI,24,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Schröder,A. Johnson
+71,1,4:09.0,15,28,OKC,PHI,2,away,DK,assist,1,make2,2,T. Harris,J. Redick
+72,1,3:47.0,17,28,OKC,PHI,22,home,LU,assist,0,make2,2,T. Ferguson,N. Noel
+73,1,3:38.0,17,28,OKC,PHI,9,away,JS,,21,miss2,0,M. Scott,
+74,1,3:36.0,17,28,OKC,PHI,2,home,DefReb,,,DefReb,,N. Noel,
+75,1,3:28.0,17,28,OKC,PHI,8,home,JS,,9,miss2,0,N. Noel,
+76,1,3:25.0,17,28,OKC,PHI,3,away,DefReb,,,DefReb,,B. Simmons,
+77,1,3:22.0,17,30,OKC,PHI,3,away,LU,assist,1,make2,2,B. Simmons,T. Harris
+78,1,3:12.0,17,30,OKC,PHI,10,home,JS,,8,miss2,0,D. Schröder,
+79,1,3:10.0,17,30,OKC,PHI,2,away,DefReb,,,DefReb,,A. Johnson,
+80,1,3:01.0,17,30,OKC,PHI,9,away,LU,,1,miss2,0,T. Harris,
+81,1,2:59.0,17,30,OKC,PHI,2,home,DefReb,,,DefReb,,R. Westbrook,
+82,1,2:57.0,19,30,OKC,PHI,2,home,LU,assist,1,make2,2,D. Schröder,R. Westbrook
+83,1,2:57.0,19,30,OKC,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Redick,D. Schröder
+84,1,2:57.0,19,30,OKC,PHI,0,away,Timeout,,,,,,
+85,1,2:57.0,19,30,OKC,PHI,0,away,Sub,,,,,J. Butler,T. Harris
+86,1,2:57.0,19,30,OKC,PHI,0,away,Sub,,,,,J. Ennis,A. Johnson
+87,1,2:57.0,19,30,OKC,PHI,0,away,Sub,,,,,T. McConnell,J. Redick
+88,1,2:57.0,20,30,OKC,PHI,0,home,FreeThrow,,,make1,1,D. Schröder,
+89,1,2:40.0,20,30,OKC,PHI,17,away,LU,,0,miss2,0,J. Butler,
+90,1,2:38.0,20,30,OKC,PHI,2,away,OffReb,,,OffReb,,Team,
+91,1,2:38.0,20,30,OKC,PHI,0,home,Sub,,,,,A. Nader,R. Westbrook
+92,1,2:26.0,20,30,OKC,PHI,12,away,JS,,12,miss2,0,B. Simmons,
+93,1,2:22.0,20,30,OKC,PHI,4,away,OffReb,,,OffReb,,J. Butler,
+94,1,2:14.0,20,30,OKC,PHI,8,away,JS,,17,miss2,0,J. Butler,
+95,1,2:12.0,20,30,OKC,PHI,2,away,OffReb,,,OffReb,,Team,
+96,1,2:12.0,20,30,OKC,PHI,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Ferguson,M. Scott
+97,1,2:06.0,20,30,OKC,PHI,6,away,LU,,3,miss2,0,B. Simmons,
+98,1,2:02.0,20,30,OKC,PHI,4,home,DefReb,,,DefReb,,A. Nader,
+99,1,1:56.0,20,30,OKC,PHI,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. McConnell,D. Schröder
+100,1,1:56.0,21,30,OKC,PHI,0,home,FreeThrow,,,make1,1,D. Schröder,
+101,1,1:56.0,22,30,OKC,PHI,0,home,FreeThrow,,,make1,1,D. Schröder,
+102,1,1:43.0,22,30,OKC,PHI,13,away,JS,,25,miss3,0,M. Scott,
+103,1,1:41.0,22,30,OKC,PHI,2,home,DefReb,,,DefReb,,N. Noel,
+104,1,1:35.0,24,30,OKC,PHI,6,home,LU,assist,2,make2,2,J. Grant,D. Schröder
+105,1,1:23.0,24,32,OKC,PHI,12,away,LU,assist,1,make2,2,J. Butler,T. McConnell
+106,1,1:17.0,24,32,OKC,PHI,6,home,JS,,25,miss3,0,D. Schröder,
+107,1,1:13.0,24,32,OKC,PHI,4,away,DefReb,,,DefReb,,M. Scott,
+108,1,1:08.0,24,35,OKC,PHI,5,away,JS,assist,25,make3,3,M. Scott,B. Simmons
+109,1,0:47.0,26,35,OKC,PHI,21,home,JS,assist,17,make2,2,J. Grant,D. Schröder
+110,1,0:28.0,26,35,OKC,PHI,19,away,JS,,27,miss3,0,M. Scott,
+111,1,0:26.0,26,35,OKC,PHI,2,away,OffReb,,,OffReb,,J. Ennis,
+112,1,0:24.0,26,35,OKC,PHI,2,away,LU,,2,miss2,0,J. Ennis,
+113,1,0:23.0,26,35,OKC,PHI,1,away,OffReb,,,OffReb,,J. Ennis,
+114,1,0:23.0,26,37,OKC,PHI,0,away,LU,,1,make2,2,J. Ennis,
+115,1,0:03.0,26,37,OKC,PHI,20,home,JS,,15,miss2,0,D. Schröder,
+116,1,0:01.0,26,37,OKC,PHI,2,away,DefReb,,,DefReb,,B. Simmons,
+117,2,11:41.0,26,37,OKC,PHI,19,away,JS,,26,miss3,0,M. Scott,
+118,2,11:38.0,26,37,OKC,PHI,3,away,OffReb,,,OffReb,,Team,
+119,2,11:24.0,26,37,OKC,PHI,14,away,JS,,22,miss2,0,J. Ennis,
+120,2,11:23.0,26,37,OKC,PHI,1,home,DefReb,,,DefReb,,D. Schröder,
+121,2,11:17.0,26,37,OKC,PHI,6,home,JS,,17,miss2,0,D. Schröder,
+122,2,11:15.0,26,37,OKC,PHI,2,away,DefReb,,,DefReb,,Team,
+123,2,11:15.0,26,37,OKC,PHI,0,home,Sub,,,,,R. Felton,T. Ferguson
+124,2,11:01.0,26,37,OKC,PHI,14,away,JS,,9,miss2,0,M. Scott,
+125,2,10:59.0,26,37,OKC,PHI,2,home,DefReb,,,DefReb,,P. Patterson,
+126,2,10:51.0,29,37,OKC,PHI,8,home,JS,assist,23,make3,3,A. Nader,R. Felton
+127,2,10:32.0,29,39,OKC,PHI,19,away,DK,assist,1,make2,2,T. Harris,T. McConnell
+128,2,10:15.0,29,39,OKC,PHI,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Scott,S. Adams
+129,2,10:15.0,30,39,OKC,PHI,0,home,FreeThrow,,,make1,1,S. Adams,
+130,2,10:15.0,30,39,OKC,PHI,0,away,Sub,,,,,A. Johnson,M. Scott
+131,2,10:15.0,30,39,OKC,PHI,0,home,FreeThrow,,,make1,0,S. Adams,
+132,2,10:11.0,30,39,OKC,PHI,4,away,DefReb,,,DefReb,,A. Johnson,
+133,2,9:50.0,30,41,OKC,PHI,21,away,JS,assist,20,make2,2,T. McConnell,J. Butler
+134,2,9:38.0,30,41,OKC,PHI,12,home,bad pass,steal,,turnover,,S. Adams,J. Butler
+135,2,9:31.0,30,41,OKC,PHI,7,away,JS,,6,miss2,0,A. Johnson,
+136,2,9:25.0,30,41,OKC,PHI,6,home,DefReb,,,DefReb,,S. Adams,
+137,2,9:24.0,30,41,OKC,PHI,1,home,bad pass,steal,,turnover,,D. Schröder,A. Johnson
+138,2,9:12.0,30,41,OKC,PHI,12,away,lost ball,steal,,turnover,,T. McConnell,S. Adams
+139,2,9:09.0,30,41,OKC,PHI,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,A. Nader
+140,2,9:09.0,31,41,OKC,PHI,0,home,FreeThrow,,,make1,1,A. Nader,
+141,2,9:09.0,32,41,OKC,PHI,0,home,FreeThrow,,,make1,1,A. Nader,
+142,2,8:52.0,32,44,OKC,PHI,17,away,JS,,26,make3,3,T. Harris,
+143,2,8:39.0,32,44,OKC,PHI,13,home,lost ball,steal,,turnover,,R. Felton,T. McConnell
+144,2,8:34.0,32,46,OKC,PHI,5,away,LU,assist,2,make2,2,J. Ennis,T. McConnell
+145,2,8:23.0,32,46,OKC,PHI,11,home,JS,,17,miss2,0,D. Schröder,
+146,2,8:23.0,32,46,OKC,PHI,0,away,DefReb,,,DefReb,,T. McConnell,
+147,2,8:15.0,32,48,OKC,PHI,8,away,LU,assist,4,make2,2,A. Johnson,T. McConnell
+148,2,8:14.0,32,48,OKC,PHI,1,home,Timeout,,,,,,
+149,2,8:14.0,32,48,OKC,PHI,0,away,Sub,,,,,J. Redick,J. Butler
+150,2,8:14.0,32,48,OKC,PHI,0,away,Sub,,,,,B. Simmons,T. McConnell
+151,2,8:14.0,32,48,OKC,PHI,0,home,Sub,,,,,R. Westbrook,A. Nader
+152,2,7:59.0,32,48,OKC,PHI,15,home,HS,,6,miss2,0,S. Adams,
+153,2,7:55.0,32,48,OKC,PHI,4,away,DefReb,,,DefReb,,B. Simmons,
+154,2,7:49.0,32,48,OKC,PHI,6,away,JS,,23,miss3,0,J. Ennis,
+155,2,7:46.0,32,48,OKC,PHI,3,home,DefReb,,,DefReb,,R. Westbrook,
+156,2,7:43.0,32,48,OKC,PHI,3,home,bad pass,steal,,turnover,,R. Westbrook,B. Simmons
+157,2,7:31.0,32,48,OKC,PHI,12,away,JS,,25,miss3,0,T. Harris,
+158,2,7:29.0,32,48,OKC,PHI,2,home,DefReb,,,DefReb,,P. Patterson,
+159,2,7:25.0,34,48,OKC,PHI,4,home,LU,,1,make2,2,R. Westbrook,
+160,2,7:25.0,34,48,OKC,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,R. Westbrook
+161,2,7:25.0,34,48,OKC,PHI,0,home,Sub,,,,,J. Grant,P. Patterson
+162,2,7:25.0,34,48,OKC,PHI,0,home,Sub,,,,,A. Nader,D. Schröder
+163,2,7:25.0,35,48,OKC,PHI,0,home,FreeThrow,,,make1,1,R. Westbrook,
+164,2,7:07.0,35,48,OKC,PHI,18,away,OutOfBoundsLB,,,turnover,,A. Johnson,
+165,2,7:01.0,37,48,OKC,PHI,6,home,HS,assist,7,make2,2,S. Adams,R. Westbrook
+166,2,7:00.0,37,48,OKC,PHI,1,away,Timeout,,,,,,
+167,2,6:45.0,37,48,OKC,PHI,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Nader,J. Redick
+168,2,6:45.0,37,49,OKC,PHI,0,away,FreeThrow,,,make1,1,J. Redick,
+169,2,6:45.0,37,49,OKC,PHI,0,away,FreeThrow,,,make1,0,J. Redick,
+170,2,6:45.0,37,49,OKC,PHI,0,away,OffReb,,,OffReb,,Team,
+171,2,6:45.0,37,49,OKC,PHI,0,away,Sub,,,,,J. Bolden,A. Johnson
+172,2,6:45.0,37,49,OKC,PHI,0,home,Sub,,,,,T. Ferguson,A. Nader
+173,2,6:45.0,37,50,OKC,PHI,0,away,FreeThrow,,,make1,1,J. Redick,
+174,2,6:37.0,39,50,OKC,PHI,8,home,LU,,1,make2,2,R. Westbrook,
+175,2,6:20.0,39,50,OKC,PHI,17,away,BackCourtTurnover,,,turnover,,T. Harris,
+176,2,6:11.0,39,50,OKC,PHI,9,home,JS,,25,miss3,0,R. Felton,
+177,2,6:06.0,39,50,OKC,PHI,5,away,DefReb,,,DefReb,,J. Bolden,
+178,2,6:00.0,39,50,OKC,PHI,6,away,LU,block,3,miss2,0,B. Simmons,R. Westbrook
+179,2,6:00.0,39,50,OKC,PHI,0,away,OffReb,,,OffReb,,B. Simmons,
+180,2,6:00.0,39,50,OKC,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Felton,B. Simmons
+181,2,6:00.0,39,50,OKC,PHI,0,away,FreeThrow,,,make1,0,B. Simmons,
+182,2,6:00.0,39,50,OKC,PHI,0,away,OffReb,,,OffReb,,Team,
+183,2,6:00.0,39,51,OKC,PHI,0,away,FreeThrow,,,make1,1,B. Simmons,
+184,2,5:46.0,41,51,OKC,PHI,14,home,DK,assist,1,make2,2,J. Grant,R. Felton
+185,2,5:36.0,41,51,OKC,PHI,10,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Simmons,T. Ferguson
+186,2,5:36.0,41,51,OKC,PHI,0,away,OffensiveFoul,,,turnover,,B. Simmons,
+187,2,5:36.0,41,51,OKC,PHI,0,away,Sub,,,,,J. Butler,J. Ennis
+188,2,5:21.0,41,51,OKC,PHI,15,home,bad pass,steal,,turnover,,T. Ferguson,J. Bolden
+189,2,5:06.0,41,51,OKC,PHI,15,away,LU,block,2,miss2,0,B. Simmons,J. Grant
+190,2,5:04.0,41,51,OKC,PHI,2,home,DefReb,,,DefReb,,S. Adams,
+191,2,5:00.0,41,51,OKC,PHI,4,home,JS,,24,miss3,0,J. Grant,
+192,2,4:56.0,41,51,OKC,PHI,4,away,DefReb,,,DefReb,,T. Harris,
+193,2,4:47.0,41,51,OKC,PHI,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ferguson,B. Simmons
+194,2,4:47.0,41,51,OKC,PHI,0,home,Sub,,,,,D. Schröder,R. Felton
+195,2,4:41.0,41,51,OKC,PHI,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Simmons,T. Ferguson
+196,2,4:41.0,41,51,OKC,PHI,0,away,OffensiveFoul,,,turnover,,B. Simmons,
+197,2,4:34.0,41,51,OKC,PHI,7,home,JS,,24,miss3,0,J. Grant,
+198,2,4:32.0,41,51,OKC,PHI,2,away,DefReb,,,DefReb,,Team,
+199,2,4:09.0,41,51,OKC,PHI,23,away,JS,,20,miss2,0,J. Redick,
+200,2,4:07.0,41,51,OKC,PHI,2,home,DefReb,,,DefReb,,R. Westbrook,
+201,2,4:03.0,43,51,OKC,PHI,4,home,LU,,2,make2,2,R. Westbrook,
+202,2,3:41.0,43,54,OKC,PHI,22,away,JS,assist,22,make3,3,J. Bolden,J. Butler
+203,2,3:29.0,43,54,OKC,PHI,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,J. Grant
+204,2,3:29.0,43,54,OKC,PHI,0,home,FreeThrow,,,make1,0,J. Grant,
+205,2,3:29.0,43,54,OKC,PHI,0,home,OffReb,,,OffReb,,Team,
+206,2,3:29.0,43,54,OKC,PHI,0,away,Sub,,,,,M. Scott,T. Harris
+207,2,3:29.0,43,54,OKC,PHI,0,home,Sub,,,,,M. Morris,S. Adams
+208,2,3:29.0,44,54,OKC,PHI,0,home,FreeThrow,,,make1,1,J. Grant,
+209,2,3:12.0,44,54,OKC,PHI,17,away,JS,,19,miss2,0,J. Butler,
+210,2,3:08.0,44,54,OKC,PHI,4,home,DefReb,,,DefReb,,M. Morris,
+211,2,3:03.0,44,54,OKC,PHI,5,home,lost ball,steal,,turnover,,R. Westbrook,J. Butler
+212,2,2:55.0,44,56,OKC,PHI,8,away,LU,assist,2,make2,2,J. Butler,B. Simmons
+213,2,2:42.0,44,56,OKC,PHI,13,home,JS,,4,miss2,0,R. Westbrook,
+214,2,2:40.0,44,56,OKC,PHI,2,away,DefReb,,,DefReb,,M. Scott,
+215,2,2:28.0,44,56,OKC,PHI,12,away,JS,,25,miss3,0,J. Redick,
+216,2,2:27.0,44,56,OKC,PHI,1,away,OffReb,,,OffReb,,B. Simmons,
+217,2,2:27.0,44,56,OKC,PHI,0,away,OutOfBounds,,,turnover,,J. Redick,
+218,2,2:16.0,44,56,OKC,PHI,11,home,JS,,24,miss3,0,R. Westbrook,
+219,2,2:13.0,44,56,OKC,PHI,3,away,DefReb,,,DefReb,,Team,
+220,2,1:53.0,44,58,OKC,PHI,20,away,DK,assist,1,make2,2,B. Simmons,M. Scott
+221,2,1:30.0,46,58,OKC,PHI,23,home,JS,assist,7,make2,2,M. Morris,T. Ferguson
+222,2,1:23.0,46,58,OKC,PHI,7,away,JS,,25,miss3,0,J. Butler,
+223,2,1:20.0,46,58,OKC,PHI,3,home,DefReb,,,DefReb,,J. Grant,
+224,2,1:15.0,48,58,OKC,PHI,5,home,DK,assist,1,make2,2,M. Morris,R. Westbrook
+225,2,0:56.0,48,58,OKC,PHI,19,away,JS,,20,miss2,0,J. Redick,
+226,2,0:55.0,48,58,OKC,PHI,1,home,DefReb,,,DefReb,,R. Westbrook,
+227,2,0:43.0,48,58,OKC,PHI,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Bolden,R. Westbrook
+228,2,0:43.0,49,58,OKC,PHI,0,home,FreeThrow,,,make1,1,R. Westbrook,
+229,2,0:43.0,49,58,OKC,PHI,0,away,Sub,,,,,T. Harris,J. Bolden
+230,2,0:43.0,49,58,OKC,PHI,0,away,Sub,,,,,T. McConnell,B. Simmons
+231,2,0:43.0,49,58,OKC,PHI,0,home,FreeThrow,,,make1,0,R. Westbrook,
+232,2,0:40.0,49,58,OKC,PHI,3,away,DefReb,,,DefReb,,Team,
+233,2,0:26.0,49,60,OKC,PHI,14,away,DK,assist,1,make2,2,J. Butler,T. McConnell
+234,2,0:07.0,49,60,OKC,PHI,19,home,LU,,1,miss2,0,R. Westbrook,
+235,2,0:05.0,49,60,OKC,PHI,2,away,DefReb,,,DefReb,,J. Butler,
+236,2,0:00.0,49,60,OKC,PHI,5,away,JS,,22,miss3,0,J. Redick,
+237,2,0:00.0,49,60,OKC,PHI,0,away,OffReb,,,OffReb,,Team,
+238,3,11:40.0,49,62,OKC,PHI,20,away,JS,,14,make2,2,J. Butler,
+239,3,11:26.0,49,62,OKC,PHI,14,home,JS,,26,miss3,0,R. Westbrook,
+240,3,11:24.0,49,62,OKC,PHI,2,home,OffReb,,,OffReb,,S. Adams,
+241,3,11:21.0,52,62,OKC,PHI,3,home,JS,assist,25,make3,3,D. Schröder,T. Ferguson
+242,3,11:05.0,52,65,OKC,PHI,16,away,JS,assist,26,make3,3,J. Bolden,B. Simmons
+243,3,10:56.0,52,65,OKC,PHI,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Butler,D. Schröder
+244,3,10:48.0,54,65,OKC,PHI,8,home,LU,assist,1,make2,2,J. Grant,D. Schröder
+245,3,10:32.0,54,67,OKC,PHI,16,away,LU,assist,0,make2,2,J. Bolden,T. Harris
+246,3,10:27.0,54,67,OKC,PHI,5,home,Timeout,,,,,,
+247,3,10:15.0,56,67,OKC,PHI,12,home,LU,assist,2,make2,2,S. Adams,D. Schröder
+248,3,9:59.0,56,67,OKC,PHI,16,away,DK,,1,miss2,0,J. Butler,
+249,3,9:57.0,56,67,OKC,PHI,2,home,DefReb,,,DefReb,,S. Adams,
+250,3,9:45.0,59,67,OKC,PHI,12,home,JS,assist,26,make3,3,D. Schröder,R. Westbrook
+251,3,9:27.0,59,67,OKC,PHI,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Westbrook,B. Simmons
+252,3,9:17.0,59,67,OKC,PHI,10,away,JS,,16,miss2,0,J. Butler,
+253,3,9:16.0,59,67,OKC,PHI,1,home,DefReb,,,DefReb,,Team,
+254,3,8:58.0,59,67,OKC,PHI,18,home,DK,,1,miss2,0,S. Adams,
+255,3,8:56.0,59,67,OKC,PHI,2,away,DefReb,,,DefReb,,J. Butler,
+256,3,8:54.0,59,67,OKC,PHI,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Schröder,T. Harris
+257,3,8:54.0,59,68,OKC,PHI,0,away,FreeThrow,,,make1,1,T. Harris,
+258,3,8:54.0,59,69,OKC,PHI,0,away,FreeThrow,,,make1,1,T. Harris,
+259,3,8:48.0,59,69,OKC,PHI,6,home,JS,,26,miss3,0,D. Schröder,
+260,3,8:46.0,59,69,OKC,PHI,2,away,DefReb,,,DefReb,,J. Redick,
+261,3,8:36.0,59,71,OKC,PHI,10,away,LU,assist,1,make2,2,B. Simmons,J. Butler
+262,3,8:24.0,59,71,OKC,PHI,12,home,BadPass,,,turnover,,R. Westbrook,
+263,3,8:06.0,59,73,OKC,PHI,18,away,LU,assist,1,make2,2,B. Simmons,J. Butler
+264,3,7:52.0,59,73,OKC,PHI,14,home,LU,,1,miss2,0,D. Schröder,
+265,3,7:50.0,59,73,OKC,PHI,2,home,OffReb,,,OffReb,,S. Adams,
+266,3,7:48.0,61,73,OKC,PHI,2,home,DK,,1,make2,2,S. Adams,
+267,3,7:32.0,61,73,OKC,PHI,16,away,JS,,7,miss2,0,T. Harris,
+268,3,7:32.0,61,73,OKC,PHI,0,home,DefReb,,,DefReb,,R. Westbrook,
+269,3,7:19.0,61,73,OKC,PHI,13,home,LU,,1,miss2,0,D. Schröder,
+270,3,7:17.0,61,73,OKC,PHI,2,away,DefReb,,,DefReb,,J. Bolden,
+271,3,7:12.0,61,73,OKC,PHI,5,away,JS,,23,miss3,0,J. Redick,
+272,3,7:09.0,61,73,OKC,PHI,3,home,DefReb,,,DefReb,,J. Grant,
+273,3,7:05.0,63,73,OKC,PHI,4,home,LU,assist,2,make2,2,J. Grant,R. Westbrook
+274,3,7:05.0,63,73,OKC,PHI,0,away,Timeout,,,,,,
+275,3,7:05.0,63,73,OKC,PHI,0,away,Sub,,,,,A. Johnson,J. Bolden
+276,3,6:54.0,63,73,OKC,PHI,11,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Johnson,D. Schröder
+277,3,6:54.0,63,73,OKC,PHI,0,away,OffensiveFoul,,,turnover,,A. Johnson,
+278,3,6:37.0,63,73,OKC,PHI,17,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,S. Adams,A. Johnson
+279,3,6:37.0,63,73,OKC,PHI,0,home,OffensiveFoul,,,turnover,,S. Adams,
+280,3,6:15.0,63,73,OKC,PHI,22,away,JS,,12,miss2,0,J. Redick,
+281,3,6:12.0,63,73,OKC,PHI,3,home,DefReb,,,DefReb,,J. Grant,
+282,3,6:02.0,65,73,OKC,PHI,10,home,LU,assist,2,make2,2,J. Grant,T. Ferguson
+283,3,5:47.0,65,73,OKC,PHI,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Westbrook,J. Butler
+284,3,5:32.0,65,73,OKC,PHI,15,away,JS,,13,miss2,0,T. Harris,
+285,3,5:30.0,65,73,OKC,PHI,2,home,DefReb,,,DefReb,,R. Westbrook,
+286,3,5:22.0,68,73,OKC,PHI,8,home,JS,assist,26,make3,3,J. Grant,D. Schröder
+287,3,4:52.0,68,73,OKC,PHI,30,away,JS,,25,miss3,0,J. Redick,
+288,3,4:52.0,68,73,OKC,PHI,0,away,OffReb,,,OffReb,,Team,
+289,3,4:52.0,68,73,OKC,PHI,0,away,ShotClockViolation,,,turnover,,Team,
+290,3,4:42.0,68,73,OKC,PHI,10,home,JS,,27,miss3,0,R. Westbrook,
+291,3,4:38.0,68,73,OKC,PHI,4,home,OffReb,,,OffReb,,S. Adams,
+292,3,4:37.0,71,73,OKC,PHI,1,home,JS,assist,23,make3,3,T. Ferguson,S. Adams
+293,3,4:26.0,71,75,OKC,PHI,11,away,JS,assist,6,make2,2,A. Johnson,B. Simmons
+294,3,4:11.0,71,75,OKC,PHI,15,home,JS,,17,miss2,0,R. Westbrook,
+295,3,4:09.0,71,75,OKC,PHI,2,away,DefReb,,,DefReb,,B. Simmons,
+296,3,4:03.0,71,77,OKC,PHI,6,away,LU,assist,1,make2,2,J. Butler,B. Simmons
+297,3,3:52.0,73,77,OKC,PHI,11,home,JS,assist,10,make2,2,S. Adams,R. Westbrook
+298,3,3:31.0,73,77,OKC,PHI,21,away,JS,,25,miss3,0,J. Butler,
+299,3,3:29.0,73,77,OKC,PHI,2,home,DefReb,,,DefReb,,R. Westbrook,
+300,3,3:26.0,73,77,OKC,PHI,3,home,JS,,23,miss3,0,T. Ferguson,
+301,3,3:22.0,73,77,OKC,PHI,4,home,OffReb,,,OffReb,,S. Adams,
+302,3,3:18.0,73,77,OKC,PHI,4,home,LU,block,4,miss2,0,J. Grant,B. Simmons
+303,3,3:14.0,73,77,OKC,PHI,4,away,DefReb,,,DefReb,,J. Butler,
+304,3,3:14.0,73,77,OKC,PHI,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ferguson,B. Simmons
+305,3,3:14.0,73,77,OKC,PHI,0,away,Sub,,,,,J. Ennis,J. Butler
+306,3,3:14.0,73,77,OKC,PHI,0,away,Sub,,,,,T. McConnell,A. Johnson
+307,3,3:14.0,73,77,OKC,PHI,0,away,Sub,,,,,M. Scott,J. Redick
+308,3,3:14.0,73,77,OKC,PHI,0,home,Sub,,,,,A. Nader,S. Adams
+309,3,3:14.0,73,77,OKC,PHI,0,home,Sub,,,,,N. Noel,D. Schröder
+310,3,2:54.0,73,77,OKC,PHI,20,away,JS,,17,miss2,0,T. Harris,
+311,3,2:51.0,73,77,OKC,PHI,3,home,DefReb,,,DefReb,,R. Westbrook,
+312,3,2:41.0,75,77,OKC,PHI,10,home,LU,,2,make2,2,R. Westbrook,
+313,3,2:41.0,75,77,OKC,PHI,0,away,DefGoaltending,,,DefGoaltending,,Team,
+314,3,2:22.0,75,77,OKC,PHI,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Noel,T. Harris
+315,3,2:22.0,75,78,OKC,PHI,0,away,FreeThrow,,,make1,1,T. Harris,
+316,3,2:22.0,75,79,OKC,PHI,0,away,FreeThrow,,,make1,1,T. Harris,
+317,3,2:05.0,75,79,OKC,PHI,17,home,LU,block,5,miss2,0,J. Grant,B. Simmons
+318,3,2:01.0,75,79,OKC,PHI,4,away,DefReb,,,DefReb,,B. Simmons,
+319,3,1:58.0,75,81,OKC,PHI,3,away,DK,assist,1,make2,2,T. Harris,T. McConnell
+320,3,1:38.0,75,81,OKC,PHI,20,home,JS,,26,miss3,0,R. Westbrook,
+321,3,1:35.0,75,81,OKC,PHI,3,away,DefReb,,,DefReb,,B. Simmons,
+322,3,1:29.0,75,84,OKC,PHI,6,away,JS,assist,26,make3,3,T. Harris,B. Simmons
+323,3,1:22.0,75,84,OKC,PHI,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Simmons,R. Westbrook
+324,3,1:22.0,75,84,OKC,PHI,0,home,OffReb,,,OffReb,,Team,
+325,3,1:22.0,75,84,OKC,PHI,0,home,FreeThrow,,,make1,0,R. Westbrook,
+326,3,1:22.0,75,84,OKC,PHI,0,away,Sub,,,,,J. Butler,B. Simmons
+327,3,1:22.0,75,84,OKC,PHI,0,home,Sub,,,,,R. Felton,T. Ferguson
+328,3,1:22.0,75,84,OKC,PHI,0,home,FreeThrow,,,make1,0,R. Westbrook,
+329,3,1:19.0,75,84,OKC,PHI,3,away,DefReb,,,DefReb,,T. Harris,
+330,3,1:09.0,75,86,OKC,PHI,10,away,LU,,2,make2,2,J. Butler,
+331,3,0:56.0,75,86,OKC,PHI,13,home,JS,,22,miss2,0,R. Felton,
+332,3,0:56.0,75,86,OKC,PHI,0,away,DefReb,,,DefReb,,J. Butler,
+333,3,0:45.0,75,86,OKC,PHI,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Felton,J. Butler
+334,3,0:45.0,75,86,OKC,PHI,0,away,FreeThrow,,,make1,0,J. Butler,
+335,3,0:45.0,75,86,OKC,PHI,0,away,OffReb,,,OffReb,,Team,
+336,3,0:45.0,75,86,OKC,PHI,0,home,Sub,,,,,D. Schröder,R. Westbrook
+337,3,0:45.0,75,86,OKC,PHI,0,away,FreeThrow,,,make1,0,J. Butler,
+338,3,0:44.0,75,86,OKC,PHI,1,home,DefReb,,,DefReb,,A. Nader,
+339,3,0:32.0,77,86,OKC,PHI,12,home,LU,,1,make2,2,D. Schröder,
+340,3,0:32.0,77,86,OKC,PHI,0,away,DefGoaltending,,,DefGoaltending,,Team,
+341,3,0:23.0,77,86,OKC,PHI,9,away,JS,,14,miss2,0,J. Butler,
+342,3,0:20.0,77,86,OKC,PHI,3,home,DefReb,,,DefReb,,J. Grant,
+343,3,0:04.0,77,86,OKC,PHI,16,home,LU,block,1,miss2,0,D. Schröder,T. Harris
+344,3,0:03.0,77,86,OKC,PHI,1,home,OffReb,,,OffReb,,Team,
+345,3,0:00.0,77,86,OKC,PHI,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Butler,N. Noel
+346,3,0:00.0,78,86,OKC,PHI,0,home,FreeThrow,,,make1,1,N. Noel,
+347,3,0:00.0,79,86,OKC,PHI,0,home,FreeThrow,,,make1,1,N. Noel,
+348,4,11:46.0,79,86,OKC,PHI,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Scott,D. Schröder
+349,4,11:34.0,79,86,OKC,PHI,12,home,JS,,14,miss2,0,M. Morris,
+350,4,11:30.0,79,86,OKC,PHI,4,away,DefReb,,,DefReb,,J. Ennis,
+351,4,11:10.0,79,86,OKC,PHI,20,away,LU,block,2,miss2,0,J. Butler,N. Noel
+352,4,11:10.0,79,86,OKC,PHI,0,away,OffReb,,,OffReb,,Team,
+353,4,11:07.0,79,86,OKC,PHI,3,away,JS,,25,miss3,0,J. Ennis,
+354,4,11:05.0,79,86,OKC,PHI,2,home,DefReb,,,DefReb,,A. Nader,
+355,4,10:56.0,79,86,OKC,PHI,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. McConnell,D. Schröder
+356,4,10:56.0,79,86,OKC,PHI,0,home,FreeThrow,,,make1,0,D. Schröder,
+357,4,10:56.0,79,86,OKC,PHI,0,home,OffReb,,,OffReb,,Team,
+358,4,10:56.0,79,86,OKC,PHI,0,away,Sub,,,,,B. Simmons,T. Harris
+359,4,10:56.0,80,86,OKC,PHI,0,home,FreeThrow,,,make1,1,D. Schröder,
+360,4,10:42.0,80,86,OKC,PHI,14,away,JS,,12,miss2,0,T. McConnell,
+361,4,10:39.0,80,86,OKC,PHI,3,home,DefReb,,,DefReb,,M. Morris,
+362,4,10:33.0,80,86,OKC,PHI,6,home,lost ball,steal,,turnover,,D. Schröder,T. McConnell
+363,4,10:22.0,80,86,OKC,PHI,11,away,bad pass,steal,,turnover,,J. Ennis,A. Nader
+364,4,10:14.0,82,86,OKC,PHI,8,home,JS,assist,4,make2,2,M. Morris,D. Schröder
+365,4,10:14.0,82,86,OKC,PHI,0,away,Timeout,,,,,,
+366,4,10:14.0,82,86,OKC,PHI,0,away,Sub,,,,,A. Johnson,M. Scott
+367,4,10:14.0,82,86,OKC,PHI,0,home,Sub,,,,,S. Adams,N. Noel
+368,4,9:51.0,82,86,OKC,PHI,23,away,JS,,16,miss2,0,T. McConnell,
+369,4,9:49.0,82,86,OKC,PHI,2,home,DefReb,,,DefReb,,M. Morris,
+370,4,9:28.0,84,86,OKC,PHI,21,home,JS,assist,19,make2,2,M. Morris,D. Schröder
+371,4,9:11.0,84,88,OKC,PHI,17,away,JS,,9,make2,2,J. Butler,
+372,4,9:11.0,84,88,OKC,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,J. Butler
+373,4,9:11.0,84,89,OKC,PHI,0,away,FreeThrow,,,make1,1,J. Butler,
+374,4,8:54.0,84,89,OKC,PHI,17,home,HS,,7,miss2,0,M. Morris,
+375,4,8:51.0,84,89,OKC,PHI,3,away,DefReb,,,DefReb,,B. Simmons,
+376,4,8:41.0,84,89,OKC,PHI,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Schröder,J. Butler
+377,4,8:41.0,84,90,OKC,PHI,0,away,FreeThrow,,,make1,1,J. Butler,
+378,4,8:41.0,84,90,OKC,PHI,0,home,Sub,,,,,R. Westbrook,D. Schröder
+379,4,8:41.0,84,90,OKC,PHI,0,away,FreeThrow,,,make1,0,J. Butler,
+380,4,8:38.0,84,90,OKC,PHI,3,home,DefReb,,,DefReb,,R. Westbrook,
+381,4,8:35.0,84,90,OKC,PHI,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,S. Adams
+382,4,8:18.0,84,90,OKC,PHI,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,M. Morris
+383,4,8:18.0,85,90,OKC,PHI,0,home,FreeThrow,,,make1,1,M. Morris,
+384,4,8:18.0,85,90,OKC,PHI,0,away,Sub,,,,,T. Harris,J. Butler
+385,4,8:18.0,85,90,OKC,PHI,0,away,Sub,,,,,J. Redick,J. Ennis
+386,4,8:18.0,85,90,OKC,PHI,0,home,Sub,,,,,T. Ferguson,R. Felton
+387,4,8:18.0,86,90,OKC,PHI,0,home,FreeThrow,,,make1,1,M. Morris,
+388,4,8:03.0,86,90,OKC,PHI,15,away,JS,,7,miss2,0,A. Johnson,
+389,4,7:59.0,86,90,OKC,PHI,4,away,OffReb,,,OffReb,,T. McConnell,
+390,4,7:57.0,86,90,OKC,PHI,2,away,JS,,16,miss2,0,T. McConnell,
+391,4,7:54.0,86,90,OKC,PHI,3,home,DefReb,,,DefReb,,S. Adams,
+392,4,7:44.0,86,90,OKC,PHI,10,home,JS,,10,miss2,0,S. Adams,
+393,4,7:41.0,86,90,OKC,PHI,3,away,DefReb,,,DefReb,,B. Simmons,
+394,4,7:21.0,86,90,OKC,PHI,20,away,JS,,7,miss2,0,T. Harris,
+395,4,7:19.0,86,90,OKC,PHI,2,home,DefReb,,,DefReb,,Team,
+396,4,7:06.0,86,90,OKC,PHI,13,home,JS,,25,miss3,0,M. Morris,
+397,4,7:03.0,86,90,OKC,PHI,3,home,OffReb,,,OffReb,,S. Adams,
+398,4,6:56.0,86,90,OKC,PHI,7,home,JS,,26,miss3,0,R. Westbrook,
+399,4,6:51.0,86,90,OKC,PHI,5,away,DefReb,,,DefReb,,A. Johnson,
+400,4,6:33.0,86,90,OKC,PHI,18,away,JS,,26,miss3,0,J. Redick,
+401,4,6:29.0,86,90,OKC,PHI,4,home,DefReb,,,DefReb,,S. Adams,
+402,4,6:25.0,88,90,OKC,PHI,4,home,LU,,3,make2,2,R. Westbrook,
+403,4,6:08.0,88,93,OKC,PHI,17,away,JS,assist,24,make3,3,J. Redick,B. Simmons
+404,4,5:51.0,91,93,OKC,PHI,17,home,JS,assist,25,make3,3,M. Morris,R. Westbrook
+405,4,5:37.0,91,93,OKC,PHI,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,B. Simmons
+406,4,5:37.0,91,93,OKC,PHI,0,away,FreeThrow,,,make1,0,B. Simmons,
+407,4,5:37.0,91,93,OKC,PHI,0,away,OffReb,,,OffReb,,Team,
+408,4,5:37.0,91,93,OKC,PHI,0,home,Timeout,,,,,,
+409,4,5:37.0,91,93,OKC,PHI,0,away,Sub,,,,,J. Bolden,A. Johnson
+410,4,5:37.0,91,93,OKC,PHI,0,away,Sub,,,,,J. Butler,T. McConnell
+411,4,5:37.0,91,93,OKC,PHI,0,home,Sub,,,,,J. Grant,S. Adams
+412,4,5:37.0,91,93,OKC,PHI,0,home,Sub,,,,,D. Schröder,A. Nader
+413,4,5:37.0,91,93,OKC,PHI,0,away,FreeThrow,,,make1,0,B. Simmons,
+414,4,5:35.0,91,93,OKC,PHI,2,home,DefReb,,,DefReb,,M. Morris,
+415,4,5:20.0,91,93,OKC,PHI,15,home,LU,,1,miss2,0,R. Westbrook,
+416,4,5:19.0,91,93,OKC,PHI,1,away,DefReb,,,DefReb,,B. Simmons,
+417,4,5:14.0,91,93,OKC,PHI,5,away,JS,,23,miss3,0,J. Redick,
+418,4,5:11.0,91,93,OKC,PHI,3,home,DefReb,,,DefReb,,T. Ferguson,
+419,4,5:06.0,93,93,OKC,PHI,5,home,LU,,1,make2,2,R. Westbrook,
+420,4,4:40.0,93,96,OKC,PHI,26,away,JS,assist,24,make3,3,T. Harris,B. Simmons
+421,4,4:19.0,93,96,OKC,PHI,21,home,bad pass,steal,,turnover,,D. Schröder,B. Simmons
+422,4,4:01.0,93,96,OKC,PHI,18,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Butler,T. Ferguson
+423,4,4:01.0,93,96,OKC,PHI,0,away,OffensiveFoul,,,turnover,,J. Butler,
+424,4,4:01.0,93,96,OKC,PHI,0,away,Sub,,,,,M. Scott,J. Bolden
+425,4,4:01.0,93,96,OKC,PHI,0,home,Sub,,,,,S. Adams,M. Morris
+426,4,3:52.0,93,96,OKC,PHI,9,home,OffGoaltending,,,turnover,,S. Adams,
+427,4,3:51.0,93,96,OKC,PHI,1,away,Timeout,,,,,,
+428,4,3:29.0,93,98,OKC,PHI,22,away,JS,,7,make2,2,T. Harris,
+429,4,3:20.0,93,98,OKC,PHI,9,home,JS,,26,miss3,0,R. Westbrook,
+430,4,3:18.0,93,98,OKC,PHI,2,away,DefReb,,,DefReb,,J. Butler,
+431,4,3:02.0,93,98,OKC,PHI,16,away,JS,,25,miss3,0,J. Redick,
+432,4,2:58.0,93,98,OKC,PHI,4,away,OffReb,,,OffReb,,J. Redick,
+433,4,2:47.0,93,101,OKC,PHI,11,away,JS,,25,make3,3,T. Harris,
+434,4,2:29.0,93,101,OKC,PHI,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Scott,S. Adams
+435,4,2:29.0,93,101,OKC,PHI,0,home,FreeThrow,,,make1,0,S. Adams,
+436,4,2:29.0,93,101,OKC,PHI,0,home,OffReb,,,OffReb,,Team,
+437,4,2:29.0,93,101,OKC,PHI,0,home,FreeThrow,,,make1,0,S. Adams,
+438,4,2:27.0,93,101,OKC,PHI,2,away,DefReb,,,DefReb,,T. Harris,
+439,4,2:12.0,93,101,OKC,PHI,15,away,JS,,25,miss3,0,M. Scott,
+440,4,2:09.0,93,101,OKC,PHI,3,home,DefReb,,,DefReb,,J. Grant,
+441,4,2:05.0,93,101,OKC,PHI,4,home,JS,,28,miss3,0,D. Schröder,
+442,4,2:01.0,93,101,OKC,PHI,4,away,DefReb,,,DefReb,,J. Redick,
+443,4,1:52.0,93,103,OKC,PHI,9,away,DK,assist,1,make2,2,J. Butler,B. Simmons
+444,4,1:52.0,93,103,OKC,PHI,0,home,Timeout,,,,,,
+445,4,1:48.0,96,103,OKC,PHI,4,home,JS,assist,23,make3,3,J. Grant,R. Westbrook
+446,4,1:29.0,96,103,OKC,PHI,19,away,JS,,11,miss2,0,J. Butler,
+447,4,1:27.0,96,103,OKC,PHI,2,home,DefReb,,,DefReb,,R. Westbrook,
+448,4,1:27.0,96,103,OKC,PHI,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Simmons,R. Westbrook
+449,4,1:27.0,97,103,OKC,PHI,0,home,FreeThrow,,,make1,1,R. Westbrook,
+450,4,1:27.0,97,103,OKC,PHI,0,home,Sub,,,,,M. Morris,S. Adams
+451,4,1:27.0,98,103,OKC,PHI,0,home,FreeThrow,,,make1,1,R. Westbrook,
+452,4,1:10.0,98,103,OKC,PHI,17,away,bad pass,steal,,turnover,,J. Butler,D. Schröder
+453,4,1:03.0,100,103,OKC,PHI,7,home,LU,assist,1,make2,2,T. Ferguson,R. Westbrook
+454,4,1:03.0,100,103,OKC,PHI,0,away,Timeout,,,,,,
+455,4,0:53.0,100,106,OKC,PHI,10,away,JS,assist,25,make3,3,M. Scott,J. Butler
+456,4,0:45.0,102,106,OKC,PHI,8,home,LU,assist,1,make2,2,M. Morris,R. Westbrook
+457,4,0:32.0,102,106,OKC,PHI,13,away,bad pass,steal,,turnover,,B. Simmons,R. Westbrook
+458,4,0:32.0,102,106,OKC,PHI,0,home,Timeout,,,,,,
+459,4,0:32.0,102,106,OKC,PHI,0,away,Sub,,,,,J. Ennis,J. Redick
+460,4,0:28.0,102,106,OKC,PHI,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,R. Westbrook
+461,4,0:28.0,103,106,OKC,PHI,0,home,FreeThrow,,,make1,1,R. Westbrook,
+462,4,0:28.0,103,106,OKC,PHI,0,away,Sub,,,,,J. Redick,J. Ennis
+463,4,0:28.0,104,106,OKC,PHI,0,home,FreeThrow,,,make1,1,R. Westbrook,
+464,4,0:06.0,104,106,OKC,PHI,22,away,JS,,14,miss2,0,J. Butler,
+465,4,0:03.0,104,106,OKC,PHI,3,away,OffReb,,,OffReb,,B. Simmons,
+466,4,0:02.0,104,106,OKC,PHI,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,R. Westbrook,M. Scott
+467,4,0:02.0,104,106,OKC,PHI,0,away,Timeout,,,,,,
+468,4,0:01.0,104,106,OKC,PHI,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Schröder,J. Redick
+469,4,0:01.0,104,107,OKC,PHI,0,away,FreeThrow,,,make1,1,J. Redick,
+470,4,0:01.0,104,107,OKC,PHI,0,home,Sub,,,,,S. Adams,M. Morris
+471,4,0:01.0,104,108,OKC,PHI,0,away,FreeThrow,,,make1,1,J. Redick,

@@ -1,0 +1,440 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:34.0,0,0,SAS,LAL,26,away,JS,,5,miss2,0,J. Hill,
+1,1,11:34.0,0,0,SAS,LAL,0,away,OffReb,,,OffReb,,R. Sacre,
+2,1,11:34.0,0,0,SAS,LAL,0,away,ShotClockViolation,,,turnover,,Team,
+3,1,11:21.0,0,0,SAS,LAL,13,home,JS,,4,miss2,0,T. Parker,
+4,1,11:20.0,0,0,SAS,LAL,1,away,DefReb,,,DefReb,,J. Clarkson,
+5,1,11:03.0,0,0,SAS,LAL,17,away,JS,,12,miss2,0,R. Sacre,
+6,1,11:02.0,0,0,SAS,LAL,1,home,DefReb,,,DefReb,,M. Bonner,
+7,1,10:53.0,3,0,SAS,LAL,9,home,JS,assist,24,make3,3,D. Green,T. Parker
+8,1,10:35.0,3,0,SAS,LAL,18,away,JS,,22,miss2,0,W. Ellington,
+9,1,10:34.0,3,0,SAS,LAL,1,home,DefReb,,,DefReb,,T. Duncan,
+10,1,10:19.0,5,0,SAS,LAL,15,home,JS,,6,make2,2,T. Duncan,
+11,1,10:03.0,5,0,SAS,LAL,16,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Hill,M. Bonner
+12,1,10:03.0,5,0,SAS,LAL,0,away,OffensiveFoul,,,turnover,,J. Hill,
+13,1,9:49.0,7,0,SAS,LAL,14,home,JS,,6,make2,2,T. Duncan,
+14,1,9:32.0,7,0,SAS,LAL,17,away,JS,block,3,miss2,0,J. Hill,T. Duncan
+15,1,9:31.0,7,0,SAS,LAL,1,home,DefReb,,,DefReb,,K. Leonard,
+16,1,9:20.0,9,0,SAS,LAL,11,home,JS,assist,18,make2,2,T. Parker,T. Duncan
+17,1,9:04.0,9,0,SAS,LAL,16,away,JS,,15,miss2,0,R. Sacre,
+18,1,9:03.0,9,0,SAS,LAL,1,home,DefReb,,,DefReb,,Team,
+19,1,8:40.0,9,0,SAS,LAL,23,home,JS,,19,miss2,0,T. Duncan,
+20,1,8:39.0,9,0,SAS,LAL,1,away,DefReb,,,DefReb,,W. Ellington,
+21,1,8:25.0,9,2,SAS,LAL,14,away,JS,,19,make2,2,J. Clarkson,
+22,1,8:12.0,9,2,SAS,LAL,13,home,LU,,2,miss2,0,T. Parker,
+23,1,8:11.0,9,2,SAS,LAL,1,away,DefReb,,,DefReb,,R. Kelly,
+24,1,8:04.0,9,4,SAS,LAL,7,away,LU,,0,make2,2,J. Clarkson,
+25,1,7:50.0,9,4,SAS,LAL,14,home,BadPass,,,turnover,,T. Parker,
+26,1,7:31.0,9,4,SAS,LAL,19,away,JS,,20,miss2,0,J. Hill,
+27,1,7:31.0,9,4,SAS,LAL,0,home,DefReb,,,DefReb,,D. Green,
+28,1,7:20.0,11,4,SAS,LAL,11,home,LU,assist,2,make2,2,T. Parker,T. Duncan
+29,1,6:58.0,11,4,SAS,LAL,22,away,JS,block,3,miss2,0,J. Hill,D. Green
+30,1,6:56.0,11,4,SAS,LAL,2,home,DefReb,,,DefReb,,T. Duncan,
+31,1,6:51.0,11,4,SAS,LAL,5,home,DK,,0,miss2,0,K. Leonard,
+32,1,6:49.0,11,4,SAS,LAL,2,away,DefReb,,,DefReb,,J. Clarkson,
+33,1,6:44.0,11,4,SAS,LAL,5,away,LU,,1,miss2,0,J. Clarkson,
+34,1,6:43.0,11,4,SAS,LAL,1,home,DefReb,,,DefReb,,M. Bonner,
+35,1,6:32.0,13,4,SAS,LAL,11,home,JS,,17,make2,2,T. Parker,
+36,1,6:24.0,13,4,SAS,LAL,8,away,Timeout,,,,,,
+37,1,6:24.0,13,4,SAS,LAL,0,home,Sub,,,,,M. Ginóbili,D. Green
+38,1,6:13.0,13,6,SAS,LAL,11,away,JS,assist,4,make2,2,R. Sacre,W. Ellington
+39,1,5:50.0,15,6,SAS,LAL,23,home,JS,,10,make2,2,K. Leonard,
+40,1,5:25.0,15,6,SAS,LAL,25,away,HS,,6,miss2,0,R. Sacre,
+41,1,5:24.0,15,6,SAS,LAL,1,home,DefReb,,,DefReb,,T. Duncan,
+42,1,5:18.0,15,6,SAS,LAL,6,home,LU,block,2,miss2,0,T. Parker,R. Kelly
+43,1,5:16.0,15,6,SAS,LAL,2,away,DefReb,,,DefReb,,W. Ellington,
+44,1,5:11.0,15,6,SAS,LAL,5,away,LU,block,1,miss2,0,W. Ellington,T. Duncan
+45,1,5:09.0,15,6,SAS,LAL,2,home,DefReb,,,DefReb,,K. Leonard,
+46,1,5:00.0,15,6,SAS,LAL,9,home,JS,,23,miss3,0,M. Bonner,
+47,1,4:59.0,15,6,SAS,LAL,1,away,DefReb,,,DefReb,,R. Sacre,
+48,1,4:46.0,15,8,SAS,LAL,13,away,JS,,4,make2,2,J. Clarkson,
+49,1,4:36.0,15,8,SAS,LAL,10,home,LU,,0,miss2,0,M. Ginóbili,
+50,1,4:35.0,15,8,SAS,LAL,1,home,OffReb,,,OffReb,,M. Bonner,
+51,1,4:22.0,17,8,SAS,LAL,13,home,JS,,5,make2,2,K. Leonard,
+52,1,4:22.0,17,8,SAS,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Kelly,K. Leonard
+53,1,4:22.0,17,8,SAS,LAL,0,away,Sub,,,,,C. Boozer,J. Hill
+54,1,4:22.0,17,8,SAS,LAL,0,away,Sub,,,,,W. Johnson,R. Kelly
+55,1,4:22.0,17,8,SAS,LAL,0,away,Sub,,,,,N. Young,W. Ellington
+56,1,4:22.0,17,8,SAS,LAL,0,home,Sub,,,,,T. Splitter,M. Bonner
+57,1,4:22.0,18,8,SAS,LAL,0,home,FreeThrow,,,make1,1,K. Leonard,
+58,1,3:58.0,18,8,SAS,LAL,24,away,JS,,12,miss2,0,R. Sacre,
+59,1,3:57.0,18,8,SAS,LAL,1,home,DefReb,,,DefReb,,T. Parker,
+60,1,3:54.0,18,8,SAS,LAL,3,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Clarkson,T. Parker
+61,1,3:54.0,18,8,SAS,LAL,0,home,FreeThrow,,,make1,0,T. Parker,
+62,1,3:54.0,18,8,SAS,LAL,0,home,OffReb,,,OffReb,,Team,
+63,1,3:54.0,18,8,SAS,LAL,0,away,Sub,,,,,E. Davis,R. Sacre
+64,1,3:54.0,18,8,SAS,LAL,0,home,Sub,,,,,A. Baynes,T. Duncan
+65,1,3:54.0,19,8,SAS,LAL,0,home,FreeThrow,,,make1,1,T. Parker,
+66,1,3:45.0,19,8,SAS,LAL,9,away,LostBall,steal,,turnover,,N. Young,K. Leonard
+67,1,3:41.0,21,8,SAS,LAL,4,home,DK,,0,make2,2,K. Leonard,
+68,1,3:25.0,21,8,SAS,LAL,16,away,JS,,13,miss2,0,C. Boozer,
+69,1,3:24.0,21,8,SAS,LAL,1,home,DefReb,,,DefReb,,A. Baynes,
+70,1,3:16.0,21,8,SAS,LAL,8,home,JS,,13,miss2,0,T. Parker,
+71,1,3:15.0,21,8,SAS,LAL,1,home,OffReb,,,OffReb,,T. Splitter,
+72,1,3:15.0,21,8,SAS,LAL,0,home,LU,block,2,miss2,0,T. Splitter,C. Boozer
+73,1,3:15.0,21,8,SAS,LAL,0,home,OffReb,,,OffReb,,Team,
+74,1,3:15.0,21,8,SAS,LAL,0,home,Sub,,,,,C. Joseph,T. Parker
+75,1,3:15.0,21,8,SAS,LAL,0,home,Timeout,,,,,,
+76,1,3:15.0,21,8,SAS,LAL,0,away,Sub,,,,,R. Price,J. Clarkson
+77,1,3:10.0,21,8,SAS,LAL,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Young,M. Ginóbili
+78,1,3:05.0,23,8,SAS,LAL,5,home,DK,assist,0,make2,2,A. Baynes,M. Ginóbili
+79,1,2:40.0,23,8,SAS,LAL,25,away,JS,,16,miss2,0,W. Johnson,
+80,1,2:39.0,23,8,SAS,LAL,1,home,DefReb,,,DefReb,,K. Leonard,
+81,1,2:30.0,25,8,SAS,LAL,9,home,LU,assist,2,make2,2,A. Baynes,K. Leonard
+82,1,2:07.0,25,8,SAS,LAL,23,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Joseph,N. Young
+83,1,2:07.0,25,9,SAS,LAL,0,away,FreeThrow,,,make1,1,N. Young,
+84,1,2:07.0,25,9,SAS,LAL,0,home,Sub,,,,,D. Green,K. Leonard
+85,1,2:07.0,25,10,SAS,LAL,0,away,FreeThrow,,,make1,1,N. Young,
+86,1,1:50.0,25,10,SAS,LAL,17,home,JS,,25,miss3,0,D. Green,
+87,1,1:49.0,25,10,SAS,LAL,1,away,DefReb,,,DefReb,,C. Boozer,
+88,1,1:42.0,25,10,SAS,LAL,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Splitter,E. Davis
+89,1,1:36.0,25,12,SAS,LAL,6,away,JS,,13,make2,2,N. Young,
+90,1,1:22.0,28,12,SAS,LAL,14,home,JS,assist,24,make3,3,C. Joseph,D. Green
+91,1,1:04.0,28,12,SAS,LAL,18,away,JS,,25,miss3,0,N. Young,
+92,1,1:03.0,28,12,SAS,LAL,1,away,OffReb,,,OffReb,,E. Davis,
+93,1,0:59.0,28,15,SAS,LAL,4,away,JS,assist,22,make3,3,N. Young,E. Davis
+94,1,0:45.0,31,15,SAS,LAL,14,home,JS,assist,24,make3,3,M. Ginóbili,D. Green
+95,1,0:37.0,31,15,SAS,LAL,8,away,Traveling,,,turnover,,C. Boozer,
+96,1,0:24.0,31,15,SAS,LAL,13,home,JS,,8,miss2,0,A. Baynes,
+97,1,0:22.0,31,15,SAS,LAL,2,away,DefReb,,,DefReb,,W. Johnson,
+98,1,0:06.0,31,15,SAS,LAL,16,away,JS,,26,miss3,0,R. Price,
+99,1,0:05.0,31,15,SAS,LAL,1,home,DefReb,,,DefReb,,T. Splitter,
+100,1,0:00.0,31,15,SAS,LAL,5,home,JS,,5,miss2,0,C. Joseph,
+101,1,0:00.0,31,15,SAS,LAL,0,home,OffReb,,,OffReb,,Team,
+102,2,11:46.0,31,15,SAS,LAL,14,home,JS,,25,miss3,0,A. Baynes,
+103,2,11:45.0,31,15,SAS,LAL,1,away,DefReb,,,DefReb,,E. Davis,
+104,2,11:26.0,31,15,SAS,LAL,19,away,JS,,18,miss2,0,C. Boozer,
+105,2,11:25.0,31,15,SAS,LAL,1,home,DefReb,,,DefReb,,D. Green,
+106,2,11:19.0,31,15,SAS,LAL,6,home,JS,,25,miss3,0,D. Green,
+107,2,11:18.0,31,15,SAS,LAL,1,home,OffReb,,,OffReb,,A. Baynes,
+108,2,11:16.0,33,15,SAS,LAL,2,home,LU,,1,make2,2,A. Baynes,
+109,2,10:59.0,33,15,SAS,LAL,17,away,JS,,24,miss3,0,N. Young,
+110,2,10:58.0,33,15,SAS,LAL,1,home,DefReb,,,DefReb,,T. Splitter,
+111,2,10:39.0,35,15,SAS,LAL,19,home,LU,assist,2,make2,2,M. Ginóbili,C. Joseph
+112,2,10:15.0,35,17,SAS,LAL,24,away,LU,,0,make2,2,C. Boozer,
+113,2,10:03.0,35,17,SAS,LAL,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Boozer,T. Splitter
+114,2,10:03.0,36,17,SAS,LAL,0,home,FreeThrow,,,make1,1,T. Splitter,
+115,2,10:03.0,36,17,SAS,LAL,0,home,Sub,,,,,K. Leonard,M. Ginóbili
+116,2,10:03.0,36,17,SAS,LAL,0,home,Sub,,,,,T. Parker,C. Joseph
+117,2,10:03.0,36,17,SAS,LAL,0,home,FreeThrow,,,make1,0,T. Splitter,
+118,2,10:02.0,36,17,SAS,LAL,1,away,DefReb,,,DefReb,,C. Boozer,
+119,2,9:37.0,36,19,SAS,LAL,25,away,LU,assist,2,make2,2,E. Davis,R. Price
+120,2,9:23.0,36,19,SAS,LAL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Johnson,D. Green
+121,2,9:22.0,36,19,SAS,LAL,1,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Green,N. Young
+122,2,9:22.0,36,19,SAS,LAL,0,home,OffensiveFoul,,,turnover,,D. Green,
+123,2,9:08.0,36,19,SAS,LAL,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Splitter,W. Johnson
+124,2,9:08.0,36,19,SAS,LAL,0,away,FreeThrow,,,make1,0,W. Johnson,
+125,2,9:08.0,36,19,SAS,LAL,0,away,OffReb,,,OffReb,,Team,
+126,2,9:08.0,36,19,SAS,LAL,0,home,Sub,,,,,T. Duncan,T. Splitter
+127,2,9:08.0,36,19,SAS,LAL,0,home,Sub,,,,,M. Bonner,A. Baynes
+128,2,9:08.0,36,20,SAS,LAL,0,away,FreeThrow,,,make1,1,W. Johnson,
+129,2,8:45.0,36,20,SAS,LAL,23,home,JS,,10,miss2,0,T. Duncan,
+130,2,8:44.0,36,20,SAS,LAL,1,away,DefReb,,,DefReb,,W. Johnson,
+131,2,8:32.0,36,20,SAS,LAL,12,away,JS,,6,miss2,0,C. Boozer,
+132,2,8:31.0,36,20,SAS,LAL,1,home,DefReb,,,DefReb,,M. Bonner,
+133,2,8:24.0,38,20,SAS,LAL,7,home,LU,assist,1,make2,2,T. Duncan,T. Parker
+134,2,8:06.0,38,20,SAS,LAL,18,away,LU,,0,miss2,0,N. Young,
+135,2,8:05.0,38,20,SAS,LAL,1,home,DefReb,,,DefReb,,T. Duncan,
+136,2,7:58.0,38,20,SAS,LAL,7,away,Timeout,,,,,,
+137,2,7:54.0,38,20,SAS,LAL,4,home,JS,,13,miss2,0,M. Bonner,
+138,2,7:52.0,38,20,SAS,LAL,2,away,DefReb,,,DefReb,,W. Johnson,
+139,2,7:43.0,38,20,SAS,LAL,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bonner,N. Young
+140,2,7:43.0,38,21,SAS,LAL,0,away,FreeThrow,,,make1,1,N. Young,
+141,2,7:43.0,38,21,SAS,LAL,0,home,Sub,,,,,B. Diaw,M. Bonner
+142,2,7:43.0,38,22,SAS,LAL,0,away,FreeThrow,,,make1,1,N. Young,
+143,2,7:29.0,40,22,SAS,LAL,14,home,JS,,19,make2,2,T. Parker,
+144,2,7:16.0,40,22,SAS,LAL,13,away,JS,,25,miss3,0,N. Young,
+145,2,7:15.0,40,22,SAS,LAL,1,home,DefReb,,,DefReb,,T. Duncan,
+146,2,7:15.0,40,22,SAS,LAL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Davis,B. Diaw
+147,2,7:15.0,40,22,SAS,LAL,0,away,Sub,,,,,J. Hill,C. Boozer
+148,2,7:05.0,42,22,SAS,LAL,10,home,JS,assist,8,make2,2,T. Duncan,T. Parker
+149,2,7:05.0,42,22,SAS,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hill,T. Duncan
+150,2,7:05.0,42,22,SAS,LAL,0,home,FreeThrow,,,make1,0,T. Duncan,
+151,2,7:04.0,42,22,SAS,LAL,1,away,DefReb,,,DefReb,,Team,
+152,2,6:47.0,42,24,SAS,LAL,17,away,LU,assist,0,make2,2,E. Davis,W. Johnson
+153,2,6:37.0,42,24,SAS,LAL,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Price,T. Parker
+154,2,6:37.0,42,24,SAS,LAL,0,home,FreeThrow,,,make1,0,T. Parker,
+155,2,6:37.0,42,24,SAS,LAL,0,home,OffReb,,,OffReb,,Team,
+156,2,6:37.0,43,24,SAS,LAL,0,home,FreeThrow,,,make1,1,T. Parker,
+157,2,6:18.0,43,24,SAS,LAL,19,away,JS,,19,miss2,0,J. Hill,
+158,2,6:17.0,43,24,SAS,LAL,1,home,DefReb,,,DefReb,,K. Leonard,
+159,2,6:09.0,43,24,SAS,LAL,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Hill,T. Duncan
+160,2,6:09.0,44,24,SAS,LAL,0,home,FreeThrow,,,make1,1,T. Duncan,
+161,2,6:09.0,44,24,SAS,LAL,0,away,Sub,,,,,J. Clarkson,N. Young
+162,2,6:09.0,44,24,SAS,LAL,0,away,Sub,,,,,R. Sacre,J. Hill
+163,2,6:09.0,44,24,SAS,LAL,0,away,Sub,,,,,W. Ellington,R. Price
+164,2,6:09.0,45,24,SAS,LAL,0,home,FreeThrow,,,make1,1,T. Duncan,
+165,2,5:47.0,45,24,SAS,LAL,22,away,JS,,11,miss2,0,W. Johnson,
+166,2,5:46.0,45,24,SAS,LAL,1,home,DefReb,,,DefReb,,B. Diaw,
+167,2,5:33.0,45,24,SAS,LAL,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Sacre,D. Green
+168,2,5:33.0,45,24,SAS,LAL,0,home,Timeout,,,,,,
+169,2,5:33.0,45,24,SAS,LAL,0,away,Sub,,,,,R. Kelly,W. Johnson
+170,2,5:33.0,45,24,SAS,LAL,0,home,Sub,,,,,M. Ginóbili,K. Leonard
+171,2,5:33.0,46,24,SAS,LAL,0,home,FreeThrow,,,make1,1,D. Green,
+172,2,5:33.0,47,24,SAS,LAL,0,home,FreeThrow,,,make1,1,D. Green,
+173,2,5:18.0,47,24,SAS,LAL,15,away,JS,,8,miss2,0,J. Clarkson,
+174,2,5:17.0,47,24,SAS,LAL,1,away,OffReb,,,OffReb,,R. Sacre,
+175,2,5:13.0,47,26,SAS,LAL,4,away,LU,,2,make2,2,R. Sacre,
+176,2,4:52.0,47,26,SAS,LAL,21,home,JS,,7,miss2,0,T. Duncan,
+177,2,4:51.0,47,26,SAS,LAL,1,away,DefReb,,,DefReb,,W. Ellington,
+178,2,4:37.0,47,28,SAS,LAL,14,away,JS,assist,21,make2,2,W. Ellington,J. Clarkson
+179,2,4:22.0,47,28,SAS,LAL,15,home,LostBall,,,turnover,,D. Green,
+180,2,4:22.0,47,28,SAS,LAL,0,home,Sub,,,,,C. Joseph,T. Parker
+181,2,4:22.0,47,28,SAS,LAL,0,home,Sub,,,,,A. Baynes,T. Duncan
+182,2,4:22.0,47,28,SAS,LAL,0,away,Sub,,,,,C. Boozer,E. Davis
+183,2,4:07.0,47,30,SAS,LAL,15,away,LU,,1,make2,2,J. Clarkson,
+184,2,3:42.0,47,30,SAS,LAL,25,home,JS,,24,miss3,0,M. Ginóbili,
+185,2,3:41.0,47,30,SAS,LAL,1,home,OffReb,,,OffReb,,C. Joseph,
+186,2,3:26.0,47,30,SAS,LAL,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Kelly,B. Diaw
+187,2,3:26.0,48,30,SAS,LAL,0,home,FreeThrow,,,make1,1,B. Diaw,
+188,2,3:26.0,48,30,SAS,LAL,0,home,Sub,,,,,K. Leonard,D. Green
+189,2,3:26.0,49,30,SAS,LAL,0,home,FreeThrow,,,make1,1,B. Diaw,
+190,2,3:06.0,49,30,SAS,LAL,20,away,JS,,26,miss3,0,W. Ellington,
+191,2,3:05.0,49,30,SAS,LAL,1,home,DefReb,,,DefReb,,M. Ginóbili,
+192,2,2:55.0,49,30,SAS,LAL,10,home,JS,,25,miss3,0,K. Leonard,
+193,2,2:54.0,49,30,SAS,LAL,1,away,DefReb,,,DefReb,,R. Kelly,
+194,2,2:49.0,49,32,SAS,LAL,5,away,LU,assist,1,make2,2,C. Boozer,J. Clarkson
+195,2,2:38.0,51,32,SAS,LAL,11,home,JS,,2,make2,2,M. Ginóbili,
+196,2,2:22.0,51,32,SAS,LAL,16,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,M. Ginóbili,W. Ellington
+197,2,2:22.0,51,32,SAS,LAL,0,away,Timeout,,,,,,
+198,2,2:09.0,51,32,SAS,LAL,13,away,JS,,18,miss2,0,W. Ellington,
+199,2,2:08.0,51,32,SAS,LAL,1,home,DefReb,,,DefReb,,B. Diaw,
+200,2,1:53.0,53,32,SAS,LAL,15,home,JS,,16,make2,2,K. Leonard,
+201,2,1:38.0,53,34,SAS,LAL,15,away,JS,,21,make2,2,W. Ellington,
+202,2,1:30.0,53,34,SAS,LAL,8,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,R. Sacre,C. Joseph
+203,2,1:30.0,53,34,SAS,LAL,0,home,FreeThrow,,,make1,0,C. Joseph,
+204,2,1:30.0,53,34,SAS,LAL,0,home,OffReb,,,OffReb,,Team,
+205,2,1:30.0,54,34,SAS,LAL,0,home,FreeThrow,,,make1,1,C. Joseph,
+206,2,1:08.0,54,36,SAS,LAL,22,away,JS,,7,make2,2,C. Boozer,
+207,2,1:00.0,56,36,SAS,LAL,8,home,JS,assist,6,make2,2,M. Ginóbili,C. Joseph
+208,2,0:39.0,56,36,SAS,LAL,21,away,JS,,17,miss2,0,R. Kelly,
+209,2,0:38.0,56,36,SAS,LAL,1,away,OffReb,,,OffReb,,W. Ellington,
+210,2,0:30.0,56,36,SAS,LAL,8,away,LostBall,steal,,turnover,,J. Clarkson,M. Ginóbili
+211,2,0:25.0,56,36,SAS,LAL,5,home,JS,,24,miss3,0,M. Ginóbili,
+212,2,0:24.0,56,36,SAS,LAL,1,away,DefReb,,,DefReb,,Team,
+213,2,0:02.0,56,38,SAS,LAL,22,away,JS,,13,make2,2,C. Boozer,
+214,3,11:44.0,56,38,SAS,LAL,16,home,JS,,18,miss2,0,K. Leonard,
+215,3,11:43.0,56,38,SAS,LAL,1,away,DefReb,,,DefReb,,J. Hill,
+216,3,11:24.0,56,40,SAS,LAL,19,away,JS,,15,make2,2,R. Kelly,
+217,3,11:12.0,58,40,SAS,LAL,12,home,LU,,1,make2,2,T. Parker,
+218,3,10:53.0,58,42,SAS,LAL,19,away,LU,assist,1,make2,2,R. Kelly,J. Hill
+219,3,10:35.0,58,42,SAS,LAL,18,home,JS,,25,miss3,0,K. Leonard,
+220,3,10:34.0,58,42,SAS,LAL,1,away,DefReb,,,DefReb,,J. Clarkson,
+221,3,10:23.0,58,44,SAS,LAL,11,away,JS,assist,18,make2,2,J. Hill,J. Clarkson
+222,3,10:09.0,58,44,SAS,LAL,14,home,JS,,18,miss2,0,T. Parker,
+223,3,10:08.0,58,44,SAS,LAL,1,away,DefReb,,,DefReb,,R. Kelly,
+224,3,9:59.0,58,44,SAS,LAL,9,away,JS,,15,miss2,0,J. Hill,
+225,3,9:58.0,58,44,SAS,LAL,1,away,OffReb,,,OffReb,,R. Sacre,
+226,3,9:51.0,58,44,SAS,LAL,7,away,JS,,19,miss2,0,R. Kelly,
+227,3,9:50.0,58,44,SAS,LAL,1,away,OffReb,,,OffReb,,J. Hill,
+228,3,9:49.0,58,44,SAS,LAL,1,away,OutOfBounds,,,turnover,,J. Hill,
+229,3,9:32.0,58,44,SAS,LAL,17,home,JS,,6,miss2,0,T. Duncan,
+230,3,9:31.0,58,44,SAS,LAL,1,away,DefReb,,,DefReb,,Team,
+231,3,9:19.0,58,44,SAS,LAL,12,away,JS,,19,miss2,0,W. Ellington,
+232,3,9:18.0,58,44,SAS,LAL,1,home,DefReb,,,DefReb,,K. Leonard,
+233,3,9:03.0,58,44,SAS,LAL,15,home,JS,,25,miss3,0,D. Green,
+234,3,9:02.0,58,44,SAS,LAL,1,away,DefReb,,,DefReb,,R. Sacre,
+235,3,8:51.0,58,44,SAS,LAL,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,R. Kelly
+236,3,8:51.0,58,45,SAS,LAL,0,away,FreeThrow,,,make1,1,R. Kelly,
+237,3,8:51.0,58,45,SAS,LAL,0,away,FreeThrow,,,make1,0,R. Kelly,
+238,3,8:50.0,58,45,SAS,LAL,1,home,DefReb,,,DefReb,,T. Duncan,
+239,3,8:36.0,58,45,SAS,LAL,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Kelly,T. Duncan
+240,3,8:36.0,59,45,SAS,LAL,0,home,FreeThrow,,,make1,1,T. Duncan,
+241,3,8:36.0,60,45,SAS,LAL,0,home,FreeThrow,,,make1,1,T. Duncan,
+242,3,8:20.0,60,45,SAS,LAL,16,away,JS,,17,miss2,0,J. Hill,
+243,3,8:19.0,60,45,SAS,LAL,1,away,OffReb,,,OffReb,,Team,
+244,3,8:19.0,60,45,SAS,LAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Bonner,R. Sacre
+245,3,8:11.0,60,45,SAS,LAL,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Duncan,J. Hill
+246,3,8:11.0,60,46,SAS,LAL,0,away,FreeThrow,,,make1,1,J. Hill,
+247,3,8:11.0,60,47,SAS,LAL,0,away,FreeThrow,,,make1,1,J. Hill,
+248,3,8:00.0,60,47,SAS,LAL,11,home,JS,,25,miss3,0,M. Bonner,
+249,3,7:59.0,60,47,SAS,LAL,1,away,DefReb,,,DefReb,,W. Ellington,
+250,3,7:44.0,60,47,SAS,LAL,15,away,JS,,17,miss2,0,J. Hill,
+251,3,7:43.0,60,47,SAS,LAL,1,home,DefReb,,,DefReb,,K. Leonard,
+252,3,7:34.0,60,47,SAS,LAL,9,home,JS,,3,miss2,0,K. Leonard,
+253,3,7:33.0,60,47,SAS,LAL,1,home,OffReb,,,OffReb,,T. Duncan,
+254,3,7:30.0,63,47,SAS,LAL,3,home,JS,assist,22,make3,3,T. Parker,T. Duncan
+255,3,7:09.0,63,47,SAS,LAL,21,away,JS,,17,miss2,0,J. Clarkson,
+256,3,7:08.0,63,47,SAS,LAL,1,home,DefReb,,,DefReb,,K. Leonard,
+257,3,7:01.0,63,47,SAS,LAL,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Sacre,K. Leonard
+258,3,7:01.0,64,47,SAS,LAL,0,home,FreeThrow,,,make1,1,K. Leonard,
+259,3,7:01.0,64,47,SAS,LAL,0,home,FreeThrow,,,make1,0,K. Leonard,
+260,3,7:01.0,64,47,SAS,LAL,0,away,DefReb,,,DefReb,,J. Hill,
+261,3,6:47.0,64,49,SAS,LAL,14,away,LU,,2,make2,2,W. Ellington,
+262,3,6:27.0,64,49,SAS,LAL,20,home,JS,,18,miss2,0,T. Parker,
+263,3,6:26.0,64,49,SAS,LAL,1,away,DefReb,,,DefReb,,R. Sacre,
+264,3,6:10.0,64,49,SAS,LAL,16,away,JS,,16,miss2,0,R. Sacre,
+265,3,6:09.0,64,49,SAS,LAL,1,home,DefReb,,,DefReb,,M. Bonner,
+266,3,6:00.0,66,49,SAS,LAL,9,home,JS,assist,6,make2,2,T. Duncan,T. Parker
+267,3,5:43.0,66,51,SAS,LAL,17,away,JS,,12,make2,2,J. Hill,
+268,3,5:43.0,66,51,SAS,LAL,0,home,Timeout,,,,,,
+269,3,5:43.0,66,51,SAS,LAL,0,home,Sub,,,,,T. Splitter,M. Bonner
+270,3,5:43.0,66,51,SAS,LAL,0,home,Sub,,,,,M. Ginóbili,D. Green
+271,3,5:43.0,66,51,SAS,LAL,0,away,Sub,,,,,C. Boozer,R. Sacre
+272,3,5:26.0,66,51,SAS,LAL,17,home,JS,,17,miss2,0,T. Parker,
+273,3,5:25.0,66,51,SAS,LAL,1,away,DefReb,,,DefReb,,J. Hill,
+274,3,5:06.0,66,51,SAS,LAL,19,away,JS,,14,miss2,0,C. Boozer,
+275,3,5:05.0,66,51,SAS,LAL,1,home,DefReb,,,DefReb,,T. Splitter,
+276,3,4:58.0,68,51,SAS,LAL,7,home,LU,,2,make2,2,T. Parker,
+277,3,4:41.0,68,51,SAS,LAL,17,away,JS,,24,miss3,0,W. Ellington,
+278,3,4:39.0,68,51,SAS,LAL,2,home,DefReb,,,DefReb,,K. Leonard,
+279,3,4:34.0,68,51,SAS,LAL,5,home,LU,,1,miss2,0,K. Leonard,
+280,3,4:34.0,68,51,SAS,LAL,0,away,DefReb,,,DefReb,,Team,
+281,3,4:34.0,68,51,SAS,LAL,0,home,Sub,,,,,A. Baynes,T. Duncan
+282,3,4:17.0,68,51,SAS,LAL,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Leonard,R. Kelly
+283,3,4:17.0,68,52,SAS,LAL,0,away,FreeThrow,,,make1,1,R. Kelly,
+284,3,4:17.0,68,52,SAS,LAL,0,away,FreeThrow,,,make1,0,R. Kelly,
+285,3,4:17.0,68,52,SAS,LAL,0,away,OffReb,,,OffReb,,Team,
+286,3,4:17.0,68,53,SAS,LAL,0,away,FreeThrow,,,make1,1,R. Kelly,
+287,3,4:00.0,71,53,SAS,LAL,17,home,JS,assist,24,make3,3,K. Leonard,A. Baynes
+288,3,3:37.0,71,53,SAS,LAL,23,away,JS,,7,miss2,0,J. Clarkson,
+289,3,3:37.0,71,53,SAS,LAL,0,home,DefReb,,,DefReb,,Team,
+290,3,3:37.0,71,53,SAS,LAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Boozer,A. Baynes
+291,3,3:37.0,71,53,SAS,LAL,0,home,Sub,,,,,P. Mills,T. Parker
+292,3,3:37.0,71,53,SAS,LAL,0,home,Sub,,,,,D. Green,K. Leonard
+293,3,3:37.0,71,53,SAS,LAL,0,away,Sub,,,,,E. Davis,J. Hill
+294,3,3:37.0,71,53,SAS,LAL,0,away,Sub,,,,,W. Johnson,R. Kelly
+295,3,3:37.0,71,53,SAS,LAL,0,away,Sub,,,,,N. Young,W. Ellington
+296,3,3:18.0,71,53,SAS,LAL,19,home,LostBall,steal,,turnover,,D. Green,W. Johnson
+297,3,3:14.0,71,55,SAS,LAL,4,away,LU,,1,make2,2,J. Clarkson,
+298,3,3:14.0,71,55,SAS,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ginóbili,J. Clarkson
+299,3,3:14.0,71,56,SAS,LAL,0,away,FreeThrow,,,make1,1,J. Clarkson,
+300,3,3:03.0,71,56,SAS,LAL,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Johnson,M. Ginóbili
+301,3,3:03.0,72,56,SAS,LAL,0,home,FreeThrow,,,make1,1,M. Ginóbili,
+302,3,3:03.0,72,56,SAS,LAL,0,away,Sub,,,,,R. Price,J. Clarkson
+303,3,3:03.0,73,56,SAS,LAL,0,home,FreeThrow,,,make1,1,M. Ginóbili,
+304,3,2:41.0,73,56,SAS,LAL,22,away,Timeout,,,,,,
+305,3,2:37.0,73,58,SAS,LAL,4,away,JS,assist,11,make2,2,N. Young,R. Price
+306,3,2:25.0,73,58,SAS,LAL,12,home,DK,block,0,miss2,0,A. Baynes,E. Davis
+307,3,2:24.0,73,58,SAS,LAL,1,away,DefReb,,,DefReb,,C. Boozer,
+308,3,2:17.0,73,61,SAS,LAL,7,away,JS,assist,23,make3,3,N. Young,R. Price
+309,3,1:55.0,73,61,SAS,LAL,22,home,LostBall,steal,,turnover,,T. Splitter,R. Price
+310,3,1:47.0,73,61,SAS,LAL,8,away,JS,,4,miss2,0,E. Davis,
+311,3,1:46.0,73,61,SAS,LAL,1,home,DefReb,,,DefReb,,T. Splitter,
+312,3,1:39.0,73,61,SAS,LAL,7,home,JS,,24,miss3,0,P. Mills,
+313,3,1:38.0,73,61,SAS,LAL,1,home,OffReb,,,OffReb,,A. Baynes,
+314,3,1:29.0,73,61,SAS,LAL,9,home,LU,,2,miss2,0,T. Splitter,
+315,3,1:28.0,73,61,SAS,LAL,1,away,DefReb,,,DefReb,,E. Davis,
+316,3,1:18.0,73,61,SAS,LAL,10,away,JS,,20,miss2,0,R. Price,
+317,3,1:17.0,73,61,SAS,LAL,1,home,DefReb,,,DefReb,,T. Splitter,
+318,3,1:06.0,73,61,SAS,LAL,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Boozer,T. Splitter
+319,3,1:06.0,74,61,SAS,LAL,0,home,FreeThrow,,,make1,1,T. Splitter,
+320,3,1:06.0,74,61,SAS,LAL,0,home,FreeThrow,,,make1,0,T. Splitter,
+321,3,1:04.0,74,61,SAS,LAL,2,home,OffReb,,,OffReb,,M. Ginóbili,
+322,3,1:01.0,74,61,SAS,LAL,3,home,JS,,24,miss3,0,D. Green,
+323,3,0:59.0,74,61,SAS,LAL,2,home,OffReb,,,OffReb,,Team,
+324,3,0:50.0,74,61,SAS,LAL,9,home,JS,,18,miss2,0,P. Mills,
+325,3,0:48.0,74,61,SAS,LAL,2,home,OffReb,,,OffReb,,T. Splitter,
+326,3,0:45.0,74,61,SAS,LAL,3,home,JS,,4,miss2,0,T. Splitter,
+327,3,0:44.0,74,61,SAS,LAL,1,home,OffReb,,,OffReb,,T. Splitter,
+328,3,0:41.0,74,61,SAS,LAL,3,home,LU,block,2,miss2,0,T. Splitter,W. Johnson
+329,3,0:39.0,74,61,SAS,LAL,2,away,DefReb,,,DefReb,,C. Boozer,
+330,3,0:26.0,74,61,SAS,LAL,13,away,JS,,10,miss2,0,N. Young,
+331,3,0:25.0,74,61,SAS,LAL,1,home,DefReb,,,DefReb,,M. Ginóbili,
+332,3,0:03.0,76,61,SAS,LAL,22,home,HS,,2,make2,2,M. Ginóbili,
+333,4,11:41.0,76,61,SAS,LAL,19,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ginóbili,C. Boozer
+334,4,11:33.0,76,61,SAS,LAL,8,away,BadPass,steal,,turnover,,R. Price,M. Ginóbili
+335,4,11:13.0,76,61,SAS,LAL,20,home,LU,,1,miss2,0,A. Baynes,
+336,4,11:12.0,76,61,SAS,LAL,1,away,DefReb,,,DefReb,,C. Boozer,
+337,4,11:02.0,76,63,SAS,LAL,10,away,JS,assist,17,make2,2,C. Boozer,R. Price
+338,4,10:34.0,76,63,SAS,LAL,28,home,JS,,18,miss2,0,B. Diaw,
+339,4,10:33.0,76,63,SAS,LAL,1,home,OffReb,,,OffReb,,K. Leonard,
+340,4,10:23.0,76,63,SAS,LAL,10,home,Traveling,,,turnover,,M. Ginóbili,
+341,4,10:07.0,76,66,SAS,LAL,16,away,JS,assist,24,make3,3,W. Johnson,E. Davis
+342,4,9:53.0,78,66,SAS,LAL,14,home,LU,,1,make2,2,M. Ginóbili,
+343,4,9:38.0,78,66,SAS,LAL,15,away,JS,,7,miss2,0,W. Johnson,
+344,4,9:37.0,78,66,SAS,LAL,1,home,DefReb,,,DefReb,,K. Leonard,
+345,4,9:17.0,80,66,SAS,LAL,20,home,JS,,7,make2,2,B. Diaw,
+346,4,9:11.0,80,66,SAS,LAL,6,away,LostBall,steal,,turnover,,R. Price,P. Mills
+347,4,9:07.0,83,66,SAS,LAL,4,home,JS,,23,make3,3,P. Mills,
+348,4,9:07.0,83,66,SAS,LAL,0,away,Timeout,,,,,,
+349,4,9:07.0,83,66,SAS,LAL,0,home,Sub,,,,,T. Splitter,A. Baynes
+350,4,8:54.0,83,66,SAS,LAL,13,away,BadPass,steal,,turnover,,C. Boozer,K. Leonard
+351,4,8:40.0,83,66,SAS,LAL,14,home,LostBall,steal,,turnover,,M. Ginóbili,R. Price
+352,4,8:33.0,83,66,SAS,LAL,7,away,JS,,4,miss2,0,N. Young,
+353,4,8:33.0,83,66,SAS,LAL,0,home,DefReb,,,DefReb,,Team,
+354,4,8:33.0,83,66,SAS,LAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Boozer,K. Leonard
+355,4,8:33.0,83,66,SAS,LAL,0,home,Sub,,,,,C. Joseph,M. Ginóbili
+356,4,8:17.0,83,66,SAS,LAL,16,home,LU,,2,miss2,0,C. Joseph,
+357,4,8:16.0,83,66,SAS,LAL,1,home,OffReb,,,OffReb,,T. Splitter,
+358,4,8:16.0,83,66,SAS,LAL,0,home,LostBall,,,turnover,,T. Splitter,
+359,4,8:06.0,83,68,SAS,LAL,10,away,JS,assist,16,make2,2,W. Johnson,R. Price
+360,4,7:56.0,83,68,SAS,LAL,10,home,JS,,5,miss2,0,B. Diaw,
+361,4,7:55.0,83,68,SAS,LAL,1,home,OffReb,,,OffReb,,K. Leonard,
+362,4,7:51.0,86,68,SAS,LAL,4,home,JS,assist,23,make3,3,P. Mills,K. Leonard
+363,4,7:36.0,86,68,SAS,LAL,15,away,JS,,15,miss2,0,C. Boozer,
+364,4,7:35.0,86,68,SAS,LAL,1,home,DefReb,,,DefReb,,K. Leonard,
+365,4,7:27.0,86,68,SAS,LAL,8,home,LostBall,steal,,turnover,,K. Leonard,R. Price
+366,4,7:20.0,86,71,SAS,LAL,7,away,JS,assist,25,make3,3,N. Young,R. Price
+367,4,7:07.0,86,71,SAS,LAL,13,home,JS,,17,miss2,0,P. Mills,
+368,4,7:06.0,86,71,SAS,LAL,1,away,DefReb,,,DefReb,,C. Boozer,
+369,4,6:59.0,86,71,SAS,LAL,7,away,JS,,26,miss3,0,R. Price,
+370,4,6:58.0,86,71,SAS,LAL,1,home,DefReb,,,DefReb,,K. Leonard,
+371,4,6:50.0,86,71,SAS,LAL,8,home,JS,,25,miss3,0,B. Diaw,
+372,4,6:49.0,86,71,SAS,LAL,1,away,DefReb,,,DefReb,,R. Price,
+373,4,6:39.0,86,71,SAS,LAL,10,away,JS,,23,miss3,0,W. Johnson,
+374,4,6:38.0,86,71,SAS,LAL,1,home,DefReb,,,DefReb,,T. Splitter,
+375,4,6:20.0,88,71,SAS,LAL,18,home,JS,,9,make2,2,K. Leonard,
+376,4,5:56.0,88,71,SAS,LAL,24,away,JS,,11,miss2,0,E. Davis,
+377,4,5:55.0,88,71,SAS,LAL,1,home,DefReb,,,DefReb,,K. Leonard,
+378,4,5:42.0,88,71,SAS,LAL,13,home,JS,,24,miss3,0,B. Diaw,
+379,4,5:41.0,88,71,SAS,LAL,1,away,DefReb,,,DefReb,,C. Boozer,
+380,4,5:32.0,88,71,SAS,LAL,9,away,LU,,2,miss2,0,R. Price,
+381,4,5:31.0,88,71,SAS,LAL,1,away,OffReb,,,OffReb,,E. Davis,
+382,4,5:31.0,88,73,SAS,LAL,0,away,DK,,0,make2,2,E. Davis,
+383,4,5:29.0,88,73,SAS,LAL,2,home,Timeout,,,,,,
+384,4,5:29.0,88,73,SAS,LAL,0,home,Sub,,,,,D. Green,K. Leonard
+385,4,5:29.0,88,73,SAS,LAL,0,away,Sub,,,,,J. Clarkson,C. Boozer
+386,4,5:29.0,88,73,SAS,LAL,0,away,Sub,,,,,R. Sacre,N. Young
+387,4,5:29.0,88,73,SAS,LAL,0,away,Sub,,,,,J. Hill,E. Davis
+388,4,5:29.0,88,73,SAS,LAL,0,away,Sub,,,,,W. Ellington,R. Price
+389,4,5:14.0,88,73,SAS,LAL,15,home,JS,,25,miss3,0,P. Mills,
+390,4,5:13.0,88,73,SAS,LAL,1,away,DefReb,,,DefReb,,W. Johnson,
+391,4,4:50.0,88,73,SAS,LAL,23,away,JS,,7,miss2,0,W. Ellington,
+392,4,4:49.0,88,73,SAS,LAL,1,away,OffReb,,,OffReb,,R. Sacre,
+393,4,4:47.0,88,73,SAS,LAL,2,away,JS,,3,miss2,0,R. Sacre,
+394,4,4:46.0,88,73,SAS,LAL,1,home,DefReb,,,DefReb,,B. Diaw,
+395,4,4:32.0,88,73,SAS,LAL,14,home,JS,,24,miss3,0,B. Diaw,
+396,4,4:31.0,88,73,SAS,LAL,1,away,DefReb,,,DefReb,,Team,
+397,4,4:11.0,88,73,SAS,LAL,20,away,JS,,22,miss2,0,W. Johnson,
+398,4,4:10.0,88,73,SAS,LAL,1,home,DefReb,,,DefReb,,T. Splitter,
+399,4,3:50.0,90,73,SAS,LAL,20,home,JS,assist,19,make2,2,D. Green,C. Joseph
+400,4,3:35.0,90,73,SAS,LAL,15,away,JS,block,10,miss2,0,W. Johnson,T. Splitter
+401,4,3:34.0,90,73,SAS,LAL,1,home,DefReb,,,DefReb,,P. Mills,
+402,4,3:31.0,90,73,SAS,LAL,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Clarkson,C. Joseph
+403,4,3:31.0,91,73,SAS,LAL,0,home,FreeThrow,,,make1,1,C. Joseph,
+404,4,3:31.0,91,73,SAS,LAL,0,home,Sub,,,,,J. Ayres,T. Splitter
+405,4,3:31.0,91,73,SAS,LAL,0,home,Sub,,,,,J. Green,P. Mills
+406,4,3:31.0,92,73,SAS,LAL,0,home,FreeThrow,,,make1,1,C. Joseph,
+407,4,3:21.0,92,73,SAS,LAL,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Joseph,J. Clarkson
+408,4,3:21.0,92,73,SAS,LAL,0,away,FreeThrow,,,make1,0,J. Clarkson,
+409,4,3:21.0,92,73,SAS,LAL,0,away,OffReb,,,OffReb,,Team,
+410,4,3:21.0,92,73,SAS,LAL,0,home,Sub,,,,,M. Bonner,D. Green
+411,4,3:21.0,92,73,SAS,LAL,0,away,FreeThrow,,,make1,0,J. Clarkson,
+412,4,3:20.0,92,73,SAS,LAL,1,home,DefReb,,,DefReb,,J. Green,
+413,4,3:06.0,92,73,SAS,LAL,14,home,Traveling,,,turnover,,J. Green,
+414,4,2:41.0,92,76,SAS,LAL,25,away,JS,assist,24,make3,3,W. Ellington,J. Clarkson
+415,4,2:25.0,92,76,SAS,LAL,16,home,HS,,6,miss2,0,B. Diaw,
+416,4,2:24.0,92,76,SAS,LAL,1,away,DefReb,,,DefReb,,W. Ellington,
+417,4,2:19.0,92,78,SAS,LAL,5,away,DK,assist,0,make2,2,J. Hill,W. Johnson
+418,4,2:02.0,94,78,SAS,LAL,17,home,LU,assist,1,make2,2,C. Joseph,J. Ayres
+419,4,2:02.0,94,78,SAS,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hill,C. Joseph
+420,4,2:02.0,94,78,SAS,LAL,0,away,Timeout,,,,,,
+421,4,2:02.0,95,78,SAS,LAL,0,home,FreeThrow,,,make1,1,C. Joseph,
+422,4,1:52.0,95,78,SAS,LAL,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Green,R. Sacre
+423,4,1:52.0,95,78,SAS,LAL,0,home,Sub,,,,,K. Leonard,J. Green
+424,4,1:43.0,95,80,SAS,LAL,9,away,JS,assist,14,make2,2,J. Hill,W. Johnson
+425,4,1:35.0,97,80,SAS,LAL,8,home,JS,assist,13,make2,2,M. Bonner,K. Leonard
+426,4,1:17.0,97,80,SAS,LAL,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Diaw,R. Sacre
+427,4,1:17.0,97,81,SAS,LAL,0,away,FreeThrow,,,make1,1,R. Sacre,
+428,4,1:17.0,97,81,SAS,LAL,0,home,Sub,,,,,J. Green,K. Leonard
+429,4,1:17.0,97,82,SAS,LAL,0,away,FreeThrow,,,make1,1,R. Sacre,
+430,4,0:59.0,97,82,SAS,LAL,18,home,JS,,23,miss3,0,B. Diaw,
+431,4,0:58.0,97,82,SAS,LAL,1,away,DefReb,,,DefReb,,J. Hill,
+432,4,0:52.0,97,82,SAS,LAL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Ayres,R. Sacre
+433,4,0:52.0,97,82,SAS,LAL,0,away,FreeThrow,,,make1,0,R. Sacre,
+434,4,0:52.0,97,82,SAS,LAL,0,away,OffReb,,,OffReb,,Team,
+435,4,0:52.0,97,83,SAS,LAL,0,away,FreeThrow,,,make1,1,R. Sacre,
+436,4,0:35.0,99,83,SAS,LAL,17,home,JS,assist,4,make2,2,M. Bonner,B. Diaw
+437,4,0:25.0,99,85,SAS,LAL,10,away,JS,assist,14,make2,2,W. Ellington,W. Johnson
+438,4,0:00.0,99,85,SAS,LAL,25,home,ShotClockViolation,,,turnover,,Team,

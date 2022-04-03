@@ -1,0 +1,456 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:42.0,2,0,BOS,NYK,18,home,HS,assist,8,make2,2,T. Zeller,E. Turner
+1,1,11:19.0,2,0,BOS,NYK,23,away,BadPass,,,turnover,,A. Stoudemire,
+2,1,11:06.0,2,0,BOS,NYK,13,home,LU,,2,miss2,0,J. Sullinger,
+3,1,11:05.0,2,0,BOS,NYK,1,away,DefReb,,,DefReb,,J. Calderón,
+4,1,10:41.0,2,0,BOS,NYK,24,away,JS,,14,miss2,0,C. Anthony,
+5,1,10:39.0,2,0,BOS,NYK,2,home,DefReb,,,DefReb,,J. Green,
+6,1,10:33.0,4,0,BOS,NYK,6,home,LU,,0,make2,2,J. Green,
+7,1,10:12.0,4,2,BOS,NYK,21,away,JS,,12,make2,2,J. Calderón,
+8,1,9:57.0,4,2,BOS,NYK,15,home,JS,,21,miss2,0,J. Sullinger,
+9,1,9:56.0,4,2,BOS,NYK,1,away,DefReb,,,DefReb,,A. Stoudemire,
+10,1,9:48.0,4,4,BOS,NYK,8,away,JS,assist,16,make2,2,C. Anthony,I. Shumpert
+11,1,9:38.0,6,4,BOS,NYK,10,home,LU,assist,2,make2,2,T. Zeller,R. Rondo
+12,1,9:21.0,6,6,BOS,NYK,17,away,JS,assist,20,make2,2,J. Calderón,C. Anthony
+13,1,9:02.0,6,6,BOS,NYK,19,home,JS,,25,miss3,0,J. Green,
+14,1,9:01.0,6,6,BOS,NYK,1,away,DefReb,,,DefReb,,Q. Acy,
+15,1,8:49.0,6,8,BOS,NYK,12,away,LU,assist,2,make2,2,A. Stoudemire,Q. Acy
+16,1,8:39.0,6,8,BOS,NYK,10,home,LostBall,steal,,turnover,,T. Zeller,J. Calderón
+17,1,8:32.0,6,11,BOS,NYK,7,away,JS,assist,25,make3,3,I. Shumpert,C. Anthony
+18,1,8:05.0,6,11,BOS,NYK,27,home,JS,,24,miss3,0,E. Turner,
+19,1,8:04.0,6,11,BOS,NYK,1,away,DefReb,,,DefReb,,C. Anthony,
+20,1,7:52.0,6,13,BOS,NYK,12,away,JS,assist,15,make2,2,C. Anthony,Q. Acy
+21,1,7:33.0,6,13,BOS,NYK,19,home,LostBall,steal,,turnover,,J. Sullinger,A. Stoudemire
+22,1,7:31.0,6,13,BOS,NYK,2,away,BadPass,,,turnover,,C. Anthony,
+23,1,7:21.0,8,13,BOS,NYK,10,home,DK,assist,0,make2,2,J. Green,R. Rondo
+24,1,6:56.0,8,15,BOS,NYK,25,away,JS,,5,make2,2,A. Stoudemire,
+25,1,6:53.0,8,15,BOS,NYK,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Stoudemire,T. Zeller
+26,1,6:53.0,8,15,BOS,NYK,0,away,Sub,,,,,S. Dalembert,A. Stoudemire
+27,1,6:31.0,8,15,BOS,NYK,22,home,JS,,26,miss3,0,E. Turner,
+28,1,6:30.0,8,15,BOS,NYK,1,home,OffReb,,,OffReb,,J. Sullinger,
+29,1,6:30.0,8,15,BOS,NYK,0,home,ShotClockViolation,,,turnover,,Team,
+30,1,6:15.0,8,15,BOS,NYK,15,away,JS,,20,miss2,0,J. Calderón,
+31,1,6:14.0,8,15,BOS,NYK,1,home,DefReb,,,DefReb,,J. Sullinger,
+32,1,5:51.0,8,15,BOS,NYK,23,home,JS,,24,miss3,0,R. Rondo,
+33,1,5:49.0,8,15,BOS,NYK,2,home,OffReb,,,OffReb,,J. Sullinger,
+34,1,5:42.0,8,15,BOS,NYK,7,home,LostBall,steal,,turnover,,E. Turner,S. Dalembert
+35,1,5:34.0,8,18,BOS,NYK,8,away,JS,assist,24,make3,3,J. Calderón,C. Anthony
+36,1,5:28.0,8,18,BOS,NYK,6,home,Timeout,,,,,,
+37,1,5:28.0,8,18,BOS,NYK,0,home,Sub,,,,,G. Wallace,E. Turner
+38,1,5:12.0,8,18,BOS,NYK,16,home,JS,,24,miss3,0,J. Sullinger,
+39,1,5:11.0,8,18,BOS,NYK,1,away,DefReb,,,DefReb,,S. Dalembert,
+40,1,4:54.0,8,18,BOS,NYK,17,away,BadPass,,,turnover,,Q. Acy,
+41,1,4:54.0,8,18,BOS,NYK,0,home,Sub,,,,,K. Olynyk,J. Sullinger
+42,1,4:36.0,10,18,BOS,NYK,18,home,LU,assist,2,make2,2,T. Zeller,J. Green
+43,1,4:28.0,10,18,BOS,NYK,8,away,Timeout,,,,,,
+44,1,4:28.0,10,18,BOS,NYK,0,away,Sub,,,,,T. Hardaway,I. Shumpert
+45,1,4:28.0,10,18,BOS,NYK,0,away,Sub,,,,,J. Smith,Q. Acy
+46,1,4:15.0,10,20,BOS,NYK,13,away,JS,assist,6,make2,2,S. Dalembert,J. Calderón
+47,1,3:56.0,12,20,BOS,NYK,19,home,JS,assist,17,make2,2,R. Rondo,J. Green
+48,1,3:38.0,12,20,BOS,NYK,18,away,JS,,5,miss2,0,T. Hardaway,
+49,1,3:37.0,12,20,BOS,NYK,1,away,OffReb,,,OffReb,,T. Hardaway,
+50,1,3:36.0,12,20,BOS,NYK,1,away,LU,,0,miss2,0,T. Hardaway,
+51,1,3:34.0,12,20,BOS,NYK,2,away,OffReb,,,OffReb,,S. Dalembert,
+52,1,3:29.0,12,20,BOS,NYK,5,away,JS,,24,miss3,0,J. Calderón,
+53,1,3:28.0,12,20,BOS,NYK,1,home,DefReb,,,DefReb,,R. Rondo,
+54,1,3:17.0,12,20,BOS,NYK,11,home,JS,,18,miss2,0,K. Olynyk,
+55,1,3:16.0,12,20,BOS,NYK,1,away,DefReb,,,DefReb,,J. Smith,
+56,1,3:11.0,12,20,BOS,NYK,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,T. Hardaway
+57,1,3:11.0,12,21,BOS,NYK,0,away,FreeThrow,,,make1,1,T. Hardaway,
+58,1,3:11.0,12,21,BOS,NYK,0,home,Sub,,,,,B. Bass,T. Zeller
+59,1,3:11.0,12,21,BOS,NYK,0,home,Sub,,,,,M. Smart,R. Rondo
+60,1,3:11.0,12,22,BOS,NYK,0,away,FreeThrow,,,make1,1,T. Hardaway,
+61,1,2:53.0,14,22,BOS,NYK,18,home,LU,assist,2,make2,2,K. Olynyk,G. Wallace
+62,1,2:39.0,14,22,BOS,NYK,14,away,JS,,17,miss2,0,C. Anthony,
+63,1,2:37.0,14,22,BOS,NYK,2,home,DefReb,,,DefReb,,G. Wallace,
+64,1,2:31.0,14,22,BOS,NYK,6,home,LU,block,1,miss2,0,G. Wallace,C. Anthony
+65,1,2:31.0,14,22,BOS,NYK,0,home,OffReb,,,OffReb,,Team,
+66,1,2:31.0,14,22,BOS,NYK,0,away,Timeout,,,,,,
+67,1,2:31.0,14,22,BOS,NYK,0,away,Sub,,,,,S. Larkin,J. Calderón
+68,1,2:29.0,14,22,BOS,NYK,2,away,DefGoaltending,,,DefGoaltending,,S. Dalembert,
+69,1,2:29.0,16,22,BOS,NYK,0,home,LU,assist,3,make2,2,G. Wallace,M. Smart
+70,1,2:21.0,16,22,BOS,NYK,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Green,C. Anthony
+71,1,2:12.0,16,22,BOS,NYK,9,away,JS,,6,miss2,0,T. Hardaway,
+72,1,2:11.0,16,22,BOS,NYK,1,home,DefReb,,,DefReb,,M. Smart,
+73,1,1:58.0,16,22,BOS,NYK,13,home,JS,,24,miss3,0,J. Green,
+74,1,1:56.0,16,22,BOS,NYK,2,away,DefReb,,,DefReb,,C. Anthony,
+75,1,1:42.0,16,24,BOS,NYK,14,away,JS,assist,15,make2,2,C. Anthony,S. Larkin
+76,1,1:31.0,16,24,BOS,NYK,11,home,JS,,25,miss3,0,K. Olynyk,
+77,1,1:28.0,16,24,BOS,NYK,3,home,OffReb,,,OffReb,,B. Bass,
+78,1,1:24.0,19,24,BOS,NYK,4,home,JS,assist,25,make3,3,J. Green,B. Bass
+79,1,1:06.0,19,26,BOS,NYK,18,away,JS,assist,17,make2,2,C. Anthony,J. Smith
+80,1,0:54.0,19,26,BOS,NYK,12,home,JS,,11,miss2,0,B. Bass,
+81,1,0:53.0,19,26,BOS,NYK,1,away,DefReb,,,DefReb,,J. Smith,
+82,1,0:36.0,19,26,BOS,NYK,17,away,JS,,26,miss3,0,S. Larkin,
+83,1,0:34.0,19,26,BOS,NYK,2,home,DefReb,,,DefReb,,M. Smart,
+84,1,0:17.0,19,26,BOS,NYK,17,home,JS,block,6,miss2,0,B. Bass,C. Anthony
+85,1,0:16.0,19,26,BOS,NYK,1,home,OffReb,,,OffReb,,G. Wallace,
+86,1,0:09.0,19,26,BOS,NYK,7,home,HS,,6,miss2,0,J. Green,
+87,1,0:08.0,19,26,BOS,NYK,1,away,DefReb,,,DefReb,,S. Dalembert,
+88,1,0:04.0,19,26,BOS,NYK,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Smith,M. Smart
+89,1,0:04.0,19,26,BOS,NYK,0,away,OffensiveFoul,,,turnover,,J. Smith,
+90,1,0:04.0,19,26,BOS,NYK,0,home,Sub,,,,,J. Sullinger,B. Bass
+91,1,0:02.0,19,26,BOS,NYK,2,home,JS,,20,miss2,0,K. Olynyk,
+92,1,0:00.0,19,26,BOS,NYK,2,home,OffReb,,,OffReb,,Team,
+93,2,11:51.0,19,26,BOS,NYK,9,home,ChargeFoul,DrawnBy,,ChargeFoul,,S. Larkin,M. Smart
+94,2,11:51.0,19,26,BOS,NYK,0,away,OffensiveFoul,,,turnover,,S. Larkin,
+95,2,11:38.0,19,26,BOS,NYK,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,E. Turner
+96,2,11:38.0,21,26,BOS,NYK,0,home,LU,,2,make2,2,E. Turner,
+97,2,11:38.0,22,26,BOS,NYK,0,home,FreeThrow,,,make1,1,E. Turner,
+98,2,11:31.0,22,26,BOS,NYK,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Turner,T. Hardaway
+99,2,11:31.0,22,26,BOS,NYK,0,home,Sub,,,,,P. Pressey,M. Smart
+100,2,11:25.0,22,26,BOS,NYK,6,away,Traveling,,,turnover,,J. Smith,
+101,2,11:11.0,22,26,BOS,NYK,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Shumpert,K. Olynyk
+102,2,11:04.0,24,26,BOS,NYK,7,home,LU,assist,1,make2,2,K. Olynyk,M. Thornton
+103,2,10:57.0,24,28,BOS,NYK,7,away,LU,assist,1,make2,2,T. Hardaway,S. Larkin
+104,2,10:48.0,24,28,BOS,NYK,9,home,JS,,3,miss2,0,B. Bass,
+105,2,10:47.0,24,28,BOS,NYK,1,home,OffReb,,,OffReb,,B. Bass,
+106,2,10:32.0,24,28,BOS,NYK,15,home,JS,,26,miss3,0,M. Thornton,
+107,2,10:29.0,24,28,BOS,NYK,3,home,OffReb,,,OffReb,,K. Olynyk,
+108,2,10:25.0,24,28,BOS,NYK,4,away,DefGoaltending,,,DefGoaltending,,A. Stoudemire,
+109,2,10:25.0,26,28,BOS,NYK,0,home,JS,,5,make2,2,M. Thornton,
+110,2,10:12.0,26,28,BOS,NYK,13,away,JS,,12,miss2,0,J. Smith,
+111,2,10:11.0,26,28,BOS,NYK,1,home,DefReb,,,DefReb,,E. Turner,
+112,2,10:06.0,26,28,BOS,NYK,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Smith,K. Olynyk
+113,2,10:06.0,26,28,BOS,NYK,0,away,Sub,,,,,Q. Acy,J. Smith
+114,2,9:58.0,28,28,BOS,NYK,8,home,JS,assist,16,make2,2,M. Thornton,K. Olynyk
+115,2,9:39.0,28,30,BOS,NYK,19,away,JS,assist,17,make2,2,S. Larkin,I. Shumpert
+116,2,9:27.0,30,30,BOS,NYK,12,home,JS,,3,make2,2,B. Bass,
+117,2,9:27.0,30,30,BOS,NYK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Stoudemire,B. Bass
+118,2,9:27.0,31,30,BOS,NYK,0,home,FreeThrow,,,make1,1,B. Bass,
+119,2,9:15.0,31,30,BOS,NYK,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Bass,A. Stoudemire
+120,2,9:00.0,31,30,BOS,NYK,15,away,JS,,6,miss2,0,A. Stoudemire,
+121,2,8:59.0,31,30,BOS,NYK,1,away,OffReb,,,OffReb,,Q. Acy,
+122,2,8:38.0,31,32,BOS,NYK,21,away,JS,,6,make2,2,A. Stoudemire,
+123,2,8:22.0,31,32,BOS,NYK,16,home,LostBall,steal,,turnover,,E. Turner,I. Shumpert
+124,2,8:13.0,31,35,BOS,NYK,9,away,JS,assist,23,make3,3,T. Hardaway,I. Shumpert
+125,2,8:00.0,33,35,BOS,NYK,13,home,DK,assist,0,make2,2,E. Turner,P. Pressey
+126,2,7:35.0,33,37,BOS,NYK,25,away,JS,assist,19,make2,2,T. Hardaway,S. Larkin
+127,2,7:18.0,33,37,BOS,NYK,17,home,JS,,4,miss2,0,E. Turner,
+128,2,7:17.0,33,37,BOS,NYK,1,home,OffReb,,,OffReb,,Team,
+129,2,7:17.0,33,37,BOS,NYK,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,Q. Acy,K. Olynyk
+130,2,7:17.0,33,37,BOS,NYK,0,away,Timeout,,,,,,
+131,2,7:17.0,33,37,BOS,NYK,0,home,Sub,,,,,J. Sullinger,B. Bass
+132,2,7:17.0,33,37,BOS,NYK,0,away,Sub,,,,,J. Calderón,S. Larkin
+133,2,7:17.0,33,37,BOS,NYK,0,away,Sub,,,,,C. Anthony,Q. Acy
+134,2,7:17.0,33,37,BOS,NYK,0,home,FreeThrow,,,make1,0,K. Olynyk,
+135,2,7:17.0,33,37,BOS,NYK,0,home,OffReb,,,OffReb,,Team,
+136,2,7:17.0,34,37,BOS,NYK,0,home,FreeThrow,,,make1,1,K. Olynyk,
+137,2,6:53.0,34,39,BOS,NYK,24,away,LU,,0,make2,2,A. Stoudemire,
+138,2,6:38.0,36,39,BOS,NYK,15,home,LU,,0,make2,2,E. Turner,
+139,2,6:18.0,36,39,BOS,NYK,20,away,JS,,6,miss2,0,C. Anthony,
+140,2,6:18.0,36,39,BOS,NYK,0,away,OffReb,,,OffReb,,Team,
+141,2,6:18.0,36,39,BOS,NYK,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Olynyk,A. Stoudemire
+142,2,6:18.0,36,39,BOS,NYK,0,home,Sub,,,,,R. Rondo,P. Pressey
+143,2,6:18.0,36,39,BOS,NYK,0,home,Sub,,,,,J. Green,K. Olynyk
+144,2,6:18.0,36,39,BOS,NYK,0,away,Sub,,,,,S. Dalembert,A. Stoudemire
+145,2,6:01.0,36,39,BOS,NYK,17,away,BadPass,,,turnover,,J. Calderón,
+146,2,5:45.0,36,39,BOS,NYK,16,home,OutOfBounds,,,turnover,,M. Thornton,
+147,2,5:45.0,36,39,BOS,NYK,0,home,Timeout,,,,,,
+148,2,5:45.0,36,39,BOS,NYK,0,away,Sub,,,,,P. Prigioni,T. Hardaway
+149,2,5:22.0,36,39,BOS,NYK,23,away,JS,,15,miss2,0,C. Anthony,
+150,2,5:21.0,36,39,BOS,NYK,1,home,DefReb,,,DefReb,,J. Green,
+151,2,5:18.0,36,39,BOS,NYK,3,home,LostBall,steal,,turnover,,J. Green,I. Shumpert
+152,2,5:11.0,36,39,BOS,NYK,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Sullinger,C. Anthony
+153,2,5:02.0,36,39,BOS,NYK,9,away,JS,,10,miss2,0,I. Shumpert,
+154,2,5:01.0,36,39,BOS,NYK,1,home,DefReb,,,DefReb,,J. Green,
+155,2,4:49.0,36,39,BOS,NYK,12,home,BadPass,steal,,turnover,,E. Turner,S. Dalembert
+156,2,4:24.0,36,39,BOS,NYK,25,away,LU,,1,miss2,0,S. Dalembert,
+157,2,4:23.0,36,39,BOS,NYK,1,away,OffReb,,,OffReb,,P. Prigioni,
+158,2,4:22.0,36,39,BOS,NYK,1,away,JS,,27,miss3,0,C. Anthony,
+159,2,4:21.0,36,39,BOS,NYK,1,home,DefReb,,,DefReb,,J. Green,
+160,2,4:05.0,36,39,BOS,NYK,16,home,LU,,2,miss2,0,M. Thornton,
+161,2,4:05.0,36,39,BOS,NYK,0,home,OffReb,,,OffReb,,Team,
+162,2,3:49.0,36,39,BOS,NYK,16,home,LostBall,steal,,turnover,,J. Green,C. Anthony
+163,2,3:38.0,36,39,BOS,NYK,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Turner,I. Shumpert
+164,2,3:38.0,36,39,BOS,NYK,0,away,FreeThrow,,,make1,0,I. Shumpert,
+165,2,3:38.0,36,39,BOS,NYK,0,away,OffReb,,,OffReb,,Team,
+166,2,3:38.0,36,39,BOS,NYK,0,home,Sub,,,,,T. Zeller,J. Sullinger
+167,2,3:38.0,36,39,BOS,NYK,0,home,Sub,,,,,B. Bass,E. Turner
+168,2,3:38.0,36,39,BOS,NYK,0,away,FreeThrow,,,make1,0,I. Shumpert,
+169,2,3:36.0,36,39,BOS,NYK,2,home,DefReb,,,DefReb,,R. Rondo,
+170,2,3:25.0,39,39,BOS,NYK,11,home,JS,assist,24,make3,3,J. Green,R. Rondo
+171,2,3:09.0,39,41,BOS,NYK,16,away,JS,assist,19,make2,2,I. Shumpert,J. Calderón
+172,2,2:54.0,39,41,BOS,NYK,15,home,HS,,4,miss2,0,T. Zeller,
+173,2,2:53.0,39,41,BOS,NYK,1,away,DefReb,,,DefReb,,S. Dalembert,
+174,2,2:42.0,39,41,BOS,NYK,11,away,JS,,17,miss2,0,C. Anthony,
+175,2,2:41.0,39,41,BOS,NYK,1,home,DefReb,,,DefReb,,T. Zeller,
+176,2,2:40.0,39,41,BOS,NYK,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Shumpert,J. Green
+177,2,2:40.0,39,41,BOS,NYK,0,away,Timeout,,,,,,
+178,2,2:40.0,39,41,BOS,NYK,0,away,Sub,,,,,A. Stoudemire,I. Shumpert
+179,2,2:40.0,40,41,BOS,NYK,0,home,FreeThrow,,,make1,1,J. Green,
+180,2,2:40.0,41,41,BOS,NYK,0,home,FreeThrow,,,make1,1,J. Green,
+181,2,2:30.0,41,41,BOS,NYK,10,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Stoudemire,M. Thornton
+182,2,2:30.0,41,41,BOS,NYK,0,away,OffensiveFoul,,,turnover,,A. Stoudemire,
+183,2,2:16.0,41,41,BOS,NYK,14,home,JS,,26,miss3,0,M. Thornton,
+184,2,2:16.0,41,41,BOS,NYK,0,away,DefReb,,,DefReb,,S. Dalembert,
+185,2,2:04.0,41,41,BOS,NYK,12,away,LU,,2,miss2,0,A. Stoudemire,
+186,2,2:02.0,41,41,BOS,NYK,2,home,DefReb,,,DefReb,,R. Rondo,
+187,2,1:58.0,43,41,BOS,NYK,4,home,LU,assist,1,make2,2,T. Zeller,R. Rondo
+188,2,1:37.0,43,43,BOS,NYK,21,away,DK,,0,make2,2,S. Dalembert,
+189,2,1:18.0,45,43,BOS,NYK,19,home,DK,assist,0,make2,2,T. Zeller,R. Rondo
+190,2,1:04.0,45,43,BOS,NYK,14,away,Sub,,,,,Q. Acy,A. Stoudemire
+191,2,0:57.0,45,46,BOS,NYK,7,away,JS,assist,26,make3,3,P. Prigioni,J. Calderón
+192,2,0:45.0,45,46,BOS,NYK,12,home,LU,block,0,miss2,0,T. Zeller,S. Dalembert
+193,2,0:44.0,45,46,BOS,NYK,1,away,DefReb,,,DefReb,,Q. Acy,
+194,2,0:41.0,45,48,BOS,NYK,3,away,LU,assist,0,make2,2,C. Anthony,Q. Acy
+195,2,0:29.0,45,48,BOS,NYK,12,home,LU,,2,miss2,0,J. Green,
+196,2,0:28.0,45,48,BOS,NYK,1,home,OffReb,,,OffReb,,Team,
+197,2,0:28.0,45,48,BOS,NYK,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Dalembert,T. Zeller
+198,2,0:28.0,45,48,BOS,NYK,0,home,FreeThrow,,,make1,0,T. Zeller,
+199,2,0:28.0,45,48,BOS,NYK,0,home,OffReb,,,OffReb,,Team,
+200,2,0:28.0,45,48,BOS,NYK,0,home,Sub,,,,,P. Pressey,M. Thornton
+201,2,0:28.0,45,48,BOS,NYK,0,away,Sub,,,,,T. Hardaway,S. Dalembert
+202,2,0:28.0,46,48,BOS,NYK,0,home,FreeThrow,,,make1,1,T. Zeller,
+203,2,0:05.0,46,48,BOS,NYK,23,away,JS,,25,miss3,0,C. Anthony,
+204,2,0:04.0,46,48,BOS,NYK,1,away,OffReb,,,OffReb,,P. Prigioni,
+205,2,0:02.0,46,51,BOS,NYK,2,away,JS,assist,24,make3,3,T. Hardaway,P. Prigioni
+206,2,0:02.0,46,51,BOS,NYK,0,home,Timeout,,,,,,
+207,2,0:02.0,46,51,BOS,NYK,0,home,Sub,,,,,J. Sullinger,T. Zeller
+208,2,0:02.0,46,51,BOS,NYK,0,home,Sub,,,,,E. Turner,B. Bass
+209,2,0:02.0,46,51,BOS,NYK,0,home,Sub,,,,,G. Wallace,P. Pressey
+210,2,0:02.0,46,51,BOS,NYK,0,away,Sub,,,,,S. Dalembert,T. Hardaway
+211,2,0:00.0,46,51,BOS,NYK,2,home,BadPass,steal,,turnover,,G. Wallace,Q. Acy
+212,3,11:38.0,46,53,BOS,NYK,22,away,JS,,20,make2,2,T. Hardaway,
+213,3,11:15.0,46,53,BOS,NYK,23,home,JS,,7,miss2,0,J. Sullinger,
+214,3,11:14.0,46,53,BOS,NYK,1,home,OffReb,,,OffReb,,T. Zeller,
+215,3,11:11.0,46,53,BOS,NYK,3,home,HS,,4,miss2,0,T. Zeller,
+216,3,11:09.0,46,53,BOS,NYK,2,away,DefReb,,,DefReb,,J. Calderón,
+217,3,10:59.0,46,53,BOS,NYK,10,away,JS,,20,miss2,0,Q. Acy,
+218,3,10:58.0,46,53,BOS,NYK,1,home,DefReb,,,DefReb,,R. Rondo,
+219,3,10:55.0,46,53,BOS,NYK,3,home,BadPass,steal,,turnover,,R. Rondo,Q. Acy
+220,3,10:38.0,46,53,BOS,NYK,17,away,BadPass,,,turnover,,C. Anthony,
+221,3,10:24.0,48,53,BOS,NYK,14,home,JS,assist,19,make2,2,E. Turner,T. Zeller
+222,3,10:09.0,48,55,BOS,NYK,15,away,JS,assist,16,make2,2,C. Anthony,S. Dalembert
+223,3,9:57.0,48,55,BOS,NYK,12,home,BadPass,steal,,turnover,,R. Rondo,J. Calderón
+224,3,9:54.0,48,55,BOS,NYK,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Sullinger,T. Hardaway
+225,3,9:54.0,48,56,BOS,NYK,0,away,FreeThrow,,,make1,1,T. Hardaway,
+226,3,9:54.0,48,57,BOS,NYK,0,away,FreeThrow,,,make1,1,T. Hardaway,
+227,3,9:40.0,50,57,BOS,NYK,14,home,JS,assist,17,make2,2,J. Green,R. Rondo
+228,3,9:16.0,50,57,BOS,NYK,24,away,LU,,1,miss2,0,T. Hardaway,
+229,3,9:14.0,50,57,BOS,NYK,2,home,DefReb,,,DefReb,,E. Turner,
+230,3,9:06.0,50,57,BOS,NYK,8,home,LU,,2,miss2,0,E. Turner,
+231,3,9:06.0,50,57,BOS,NYK,0,home,OffReb,,,OffReb,,T. Zeller,
+232,3,9:03.0,52,57,BOS,NYK,3,home,LU,,0,make2,2,T. Zeller,
+233,3,8:43.0,52,57,BOS,NYK,20,away,LU,,2,miss2,0,C. Anthony,
+234,3,8:42.0,52,57,BOS,NYK,1,home,DefReb,,,DefReb,,R. Rondo,
+235,3,8:40.0,52,57,BOS,NYK,2,away,ChargeFoul,DrawnBy,,ChargeFoul,,E. Turner,T. Hardaway
+236,3,8:40.0,52,57,BOS,NYK,0,home,OffensiveFoul,,,turnover,,E. Turner,
+237,3,8:40.0,52,57,BOS,NYK,0,away,Sub,,,,,A. Stoudemire,S. Dalembert
+238,3,8:22.0,52,57,BOS,NYK,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Zeller,A. Stoudemire
+239,3,8:22.0,52,58,BOS,NYK,0,away,FreeThrow,,,make1,1,A. Stoudemire,
+240,3,8:22.0,52,59,BOS,NYK,0,away,FreeThrow,,,make1,1,A. Stoudemire,
+241,3,8:05.0,52,59,BOS,NYK,17,home,JS,,20,miss2,0,J. Green,
+242,3,8:03.0,52,59,BOS,NYK,2,away,DefReb,,,DefReb,,T. Hardaway,
+243,3,7:57.0,52,59,BOS,NYK,6,away,LU,,1,miss2,0,T. Hardaway,
+244,3,7:54.0,52,59,BOS,NYK,3,home,DefReb,,,DefReb,,J. Green,
+245,3,7:43.0,54,59,BOS,NYK,11,home,JS,assist,12,make2,2,T. Zeller,R. Rondo
+246,3,7:20.0,54,59,BOS,NYK,23,away,LostBall,steal,,turnover,,A. Stoudemire,J. Sullinger
+247,3,7:12.0,54,59,BOS,NYK,8,home,JS,,16,miss2,0,R. Rondo,
+248,3,7:11.0,54,59,BOS,NYK,1,home,OffReb,,,OffReb,,T. Zeller,
+249,3,7:06.0,54,59,BOS,NYK,5,home,JS,,26,miss3,0,J. Green,
+250,3,7:05.0,54,59,BOS,NYK,1,away,DefReb,,,DefReb,,Q. Acy,
+251,3,6:49.0,54,61,BOS,NYK,16,away,JS,,10,make2,2,C. Anthony,
+252,3,6:43.0,54,61,BOS,NYK,6,home,LostBall,steal,,turnover,,E. Turner,J. Calderón
+253,3,6:43.0,54,61,BOS,NYK,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,J. Calderón
+254,3,6:43.0,54,61,BOS,NYK,0,away,Sub,,,,,J. Smith,Q. Acy
+255,3,6:28.0,54,63,BOS,NYK,15,away,JS,,13,make2,2,C. Anthony,
+256,3,6:13.0,56,63,BOS,NYK,15,home,LU,assist,2,make2,2,T. Zeller,R. Rondo
+257,3,5:58.0,56,63,BOS,NYK,15,away,JS,,25,miss3,0,C. Anthony,
+258,3,5:57.0,56,63,BOS,NYK,1,away,OffReb,,,OffReb,,J. Smith,
+259,3,5:50.0,56,63,BOS,NYK,7,home,Timeout,,,,,,
+260,3,5:50.0,56,63,BOS,NYK,0,home,Sub,,,,,K. Olynyk,J. Sullinger
+261,3,5:40.0,56,63,BOS,NYK,10,away,JS,,19,miss2,0,A. Stoudemire,
+262,3,5:39.0,56,63,BOS,NYK,1,home,DefReb,,,DefReb,,K. Olynyk,
+263,3,5:26.0,56,63,BOS,NYK,13,home,JS,,17,miss2,0,J. Green,
+264,3,5:25.0,56,63,BOS,NYK,1,away,DefReb,,,DefReb,,A. Stoudemire,
+265,3,5:16.0,56,65,BOS,NYK,9,away,JS,assist,18,make2,2,J. Smith,J. Calderón
+266,3,4:58.0,56,65,BOS,NYK,18,home,LostBall,,,turnover,,K. Olynyk,
+267,3,4:43.0,56,65,BOS,NYK,15,away,JS,,15,miss2,0,J. Calderón,
+268,3,4:42.0,56,65,BOS,NYK,1,away,OffReb,,,OffReb,,A. Stoudemire,
+269,3,4:38.0,56,67,BOS,NYK,4,away,LU,,0,make2,2,A. Stoudemire,
+270,3,4:24.0,56,67,BOS,NYK,14,home,JS,,3,miss2,0,J. Green,
+271,3,4:23.0,56,67,BOS,NYK,1,home,OffReb,,,OffReb,,T. Zeller,
+272,3,4:23.0,58,67,BOS,NYK,0,home,TI,,1,make2,2,T. Zeller,
+273,3,4:05.0,58,69,BOS,NYK,18,away,JS,assist,17,make2,2,J. Smith,J. Calderón
+274,3,3:44.0,58,69,BOS,NYK,21,away,DefGoaltending,,,DefGoaltending,,A. Stoudemire,
+275,3,3:44.0,60,69,BOS,NYK,0,home,LU,assist,2,make2,2,K. Olynyk,R. Rondo
+276,3,3:26.0,60,71,BOS,NYK,18,away,LU,assist,3,make2,2,A. Stoudemire,J. Calderón
+277,3,3:17.0,60,71,BOS,NYK,9,home,LU,,2,miss2,0,T. Zeller,
+278,3,3:16.0,60,71,BOS,NYK,1,away,DefReb,,,DefReb,,C. Anthony,
+279,3,2:54.0,60,71,BOS,NYK,22,away,JS,,28,miss3,0,T. Hardaway,
+280,3,2:52.0,60,71,BOS,NYK,2,home,DefReb,,,DefReb,,Team,
+281,3,2:52.0,60,71,BOS,NYK,0,away,Timeout,,,,,,
+282,3,2:52.0,60,71,BOS,NYK,0,home,Sub,,,,,M. Thornton,T. Zeller
+283,3,2:52.0,60,71,BOS,NYK,0,home,Sub,,,,,P. Pressey,E. Turner
+284,3,2:52.0,60,71,BOS,NYK,0,home,Sub,,,,,B. Bass,R. Rondo
+285,3,2:52.0,60,71,BOS,NYK,0,away,Sub,,,,,P. Prigioni,A. Stoudemire
+286,3,2:52.0,60,71,BOS,NYK,0,away,Sub,,,,,S. Dalembert,T. Hardaway
+287,3,2:34.0,60,71,BOS,NYK,18,home,LostBall,,,turnover,,P. Pressey,
+288,3,2:34.0,60,71,BOS,NYK,0,away,Sub,,,,,S. Larkin,J. Calderón
+289,3,2:19.0,60,71,BOS,NYK,15,away,BadPass,steal,,turnover,,P. Prigioni,K. Olynyk
+290,3,2:14.0,62,71,BOS,NYK,5,home,LU,assist,0,make2,2,M. Thornton,K. Olynyk
+291,3,1:47.0,62,73,BOS,NYK,27,away,LU,assist,2,make2,2,J. Smith,P. Prigioni
+292,3,1:33.0,65,73,BOS,NYK,14,home,JS,assist,25,make3,3,M. Thornton,P. Pressey
+293,3,1:09.0,65,73,BOS,NYK,24,away,JS,,26,miss3,0,P. Prigioni,
+294,3,1:08.0,65,73,BOS,NYK,1,home,DefReb,,,DefReb,,K. Olynyk,
+295,3,1:02.0,65,73,BOS,NYK,6,home,JS,,25,miss3,0,M. Thornton,
+296,3,1:02.0,65,73,BOS,NYK,0,away,DefReb,,,DefReb,,S. Larkin,
+297,3,0:46.0,65,75,BOS,NYK,16,away,JS,assist,19,make2,2,J. Smith,S. Larkin
+298,3,0:34.0,65,75,BOS,NYK,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Larkin,K. Olynyk
+299,3,0:34.0,66,75,BOS,NYK,0,home,FreeThrow,,,make1,1,K. Olynyk,
+300,3,0:34.0,66,75,BOS,NYK,0,home,FreeThrow,,,make1,0,K. Olynyk,
+301,3,0:32.0,66,75,BOS,NYK,2,home,OffReb,,,OffReb,,P. Pressey,
+302,3,0:28.0,69,75,BOS,NYK,4,home,JS,assist,27,make3,3,K. Olynyk,P. Pressey
+303,3,0:05.0,69,75,BOS,NYK,23,away,LU,block,4,miss2,0,C. Anthony,K. Olynyk
+304,3,0:02.0,69,75,BOS,NYK,3,home,DefReb,,,DefReb,,B. Bass,
+305,3,0:01.0,69,75,BOS,NYK,1,home,LU,,1,miss2,0,B. Bass,
+306,3,0:00.0,69,75,BOS,NYK,1,home,OffReb,,,OffReb,,Team,
+307,4,12:00.0,69,75,BOS,NYK,0,away,TechnicalFoul,,,TechnicalFoul,,Team,
+308,4,12:00.0,70,75,BOS,NYK,0,home,FreeThrow,,,make1,1,M. Thornton makes technical free throw,
+309,4,11:46.0,70,75,BOS,NYK,14,home,JS,,26,miss3,0,K. Olynyk,
+310,4,11:45.0,70,75,BOS,NYK,1,away,DefReb,,,DefReb,,A. Stoudemire,
+311,4,11:21.0,70,75,BOS,NYK,24,away,JS,,9,miss2,0,A. Stoudemire,
+312,4,11:19.0,70,75,BOS,NYK,2,home,DefReb,,,DefReb,,K. Olynyk,
+313,4,11:15.0,73,75,BOS,NYK,4,home,JS,assist,26,make3,3,M. Thornton,P. Pressey
+314,4,11:00.0,73,75,BOS,NYK,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Pressey,P. Prigioni
+315,4,11:00.0,73,75,BOS,NYK,0,away,Sub,,,,,J. Smith,C. Anthony
+316,4,10:55.0,73,78,BOS,NYK,5,away,JS,assist,26,make3,3,S. Larkin,T. Hardaway
+317,4,10:31.0,73,78,BOS,NYK,24,home,DK,,0,miss2,0,B. Bass,
+318,4,10:29.0,73,78,BOS,NYK,2,away,DefReb,,,DefReb,,J. Smith,
+319,4,10:17.0,73,78,BOS,NYK,12,away,JS,,25,miss3,0,P. Prigioni,
+320,4,10:17.0,73,78,BOS,NYK,0,away,OffReb,,,OffReb,,J. Smith,
+321,4,10:17.0,73,78,BOS,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Thornton,J. Smith
+322,4,10:17.0,73,79,BOS,NYK,0,away,FreeThrow,,,make1,1,J. Smith,
+323,4,10:17.0,73,80,BOS,NYK,0,away,FreeThrow,,,make1,1,J. Smith,
+324,4,10:12.0,73,80,BOS,NYK,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Prigioni,M. Thornton
+325,4,9:59.0,73,80,BOS,NYK,13,home,JS,,7,miss2,0,K. Olynyk,
+326,4,9:59.0,73,80,BOS,NYK,0,away,DefReb,,,DefReb,,S. Larkin,
+327,4,9:43.0,73,82,BOS,NYK,16,away,JS,,3,make2,2,A. Stoudemire,
+328,4,9:34.0,73,82,BOS,NYK,9,home,JS,,4,miss2,0,E. Turner,
+329,4,9:33.0,73,82,BOS,NYK,1,away,DefReb,,,DefReb,,S. Larkin,
+330,4,9:19.0,73,84,BOS,NYK,14,away,JS,,12,make2,2,J. Smith,
+331,4,9:17.0,73,84,BOS,NYK,2,home,Timeout,,,,,,
+332,4,9:10.0,73,84,BOS,NYK,7,home,LostBall,steal,,turnover,,K. Olynyk,J. Smith
+333,4,8:55.0,73,84,BOS,NYK,15,away,JS,,19,miss2,0,J. Smith,
+334,4,8:53.0,73,84,BOS,NYK,2,home,DefReb,,,DefReb,,M. Thornton,
+335,4,8:46.0,73,84,BOS,NYK,7,home,LostBall,steal,,turnover,,M. Thornton,J. Smith
+336,4,8:42.0,73,86,BOS,NYK,4,away,LU,,1,make2,2,P. Prigioni,
+337,4,8:16.0,73,86,BOS,NYK,26,home,JS,,16,miss2,0,B. Bass,
+338,4,8:15.0,73,86,BOS,NYK,1,away,DefReb,,,DefReb,,T. Hardaway,
+339,4,7:55.0,73,86,BOS,NYK,20,home,Sub,,,,,R. Rondo,P. Pressey
+340,4,7:55.0,73,86,BOS,NYK,0,home,Sub,,,,,J. Green,M. Thornton
+341,4,7:51.0,73,86,BOS,NYK,4,away,JS,,9,miss2,0,T. Hardaway,
+342,4,7:50.0,73,86,BOS,NYK,1,home,DefReb,,,DefReb,,R. Rondo,
+343,4,7:41.0,73,86,BOS,NYK,9,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,A. Stoudemire,B. Bass
+344,4,7:41.0,73,86,BOS,NYK,0,home,Sub,,,,,J. Sullinger,K. Olynyk
+345,4,7:35.0,73,86,BOS,NYK,6,home,JS,block,4,miss2,0,J. Green,A. Stoudemire
+346,4,7:34.0,73,86,BOS,NYK,1,home,OffReb,,,OffReb,,B. Bass,
+347,4,7:33.0,75,86,BOS,NYK,1,home,DK,,0,make2,2,B. Bass,
+348,4,7:17.0,75,86,BOS,NYK,16,away,JS,,28,miss3,0,P. Prigioni,
+349,4,7:16.0,75,86,BOS,NYK,1,home,DefReb,,,DefReb,,J. Sullinger,
+350,4,7:10.0,75,86,BOS,NYK,6,away,Sub,,,,,J. Calderón,P. Prigioni
+351,4,7:10.0,75,86,BOS,NYK,0,away,Sub,,,,,C. Anthony,J. Smith
+352,4,7:02.0,75,86,BOS,NYK,8,home,HS,,4,miss2,0,J. Sullinger,
+353,4,7:01.0,75,86,BOS,NYK,1,away,DefReb,,,DefReb,,C. Anthony,
+354,4,6:40.0,75,88,BOS,NYK,21,away,LU,,2,make2,2,A. Stoudemire,
+355,4,6:35.0,75,88,BOS,NYK,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Calderón,J. Green
+356,4,6:35.0,75,88,BOS,NYK,0,away,Sub,,,,,S. Dalembert,A. Stoudemire
+357,4,6:26.0,75,88,BOS,NYK,9,home,JS,,12,miss2,0,B. Bass,
+358,4,6:26.0,75,88,BOS,NYK,0,home,OffReb,,,OffReb,,Team,
+359,4,6:26.0,75,88,BOS,NYK,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Dalembert,J. Sullinger
+360,4,6:11.0,75,88,BOS,NYK,15,home,JS,,4,miss2,0,J. Green,
+361,4,6:08.0,75,88,BOS,NYK,3,away,DefReb,,,DefReb,,T. Hardaway,
+362,4,5:44.0,75,90,BOS,NYK,24,away,JS,,15,make2,2,C. Anthony,
+363,4,5:22.0,78,90,BOS,NYK,22,home,JS,assist,24,make3,3,J. Green,B. Bass
+364,4,5:21.0,78,90,BOS,NYK,1,away,Timeout,,,,,,
+365,4,5:21.0,78,90,BOS,NYK,0,home,Sub,,,,,M. Thornton,B. Bass
+366,4,5:07.0,78,90,BOS,NYK,14,away,BadPass,steal,,turnover,,S. Larkin,R. Rondo
+367,4,4:57.0,78,90,BOS,NYK,10,home,LU,,1,miss2,0,M. Thornton,
+368,4,4:57.0,78,90,BOS,NYK,0,home,OffReb,,,OffReb,,Team,
+369,4,4:45.0,80,90,BOS,NYK,12,home,LU,assist,1,make2,2,E. Turner,J. Sullinger
+370,4,4:20.0,80,90,BOS,NYK,25,away,JS,,17,miss2,0,C. Anthony,
+371,4,4:18.0,80,90,BOS,NYK,2,home,DefReb,,,DefReb,,R. Rondo,
+372,4,4:11.0,80,90,BOS,NYK,7,home,JS,,24,miss3,0,J. Sullinger,
+373,4,4:10.0,80,90,BOS,NYK,1,away,DefReb,,,DefReb,,C. Anthony,
+374,4,4:04.0,80,90,BOS,NYK,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Sullinger,S. Dalembert
+375,4,4:04.0,80,91,BOS,NYK,0,away,FreeThrow,,,make1,1,S. Dalembert,
+376,4,4:04.0,80,92,BOS,NYK,0,away,FreeThrow,,,make1,1,S. Dalembert,
+377,4,3:54.0,80,92,BOS,NYK,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Anthony,J. Green
+378,4,3:54.0,81,92,BOS,NYK,0,home,FreeThrow,,,make1,1,J. Green,
+379,4,3:54.0,81,92,BOS,NYK,0,away,Sub,,,,,A. Stoudemire,S. Dalembert
+380,4,3:54.0,81,92,BOS,NYK,0,home,Sub,,,,,T. Zeller,J. Sullinger
+381,4,3:54.0,82,92,BOS,NYK,0,home,FreeThrow,,,make1,1,J. Green,
+382,4,3:34.0,82,94,BOS,NYK,20,away,JS,assist,16,make2,2,J. Calderón,A. Stoudemire
+383,4,3:13.0,82,94,BOS,NYK,21,home,JS,,3,miss2,0,T. Zeller,
+384,4,3:12.0,82,94,BOS,NYK,1,away,DefReb,,,DefReb,,A. Stoudemire,
+385,4,2:55.0,82,96,BOS,NYK,17,away,DK,assist,0,make2,2,A. Stoudemire,J. Calderón
+386,4,2:41.0,85,96,BOS,NYK,14,home,JS,assist,26,make3,3,J. Green,T. Zeller
+387,4,2:21.0,85,96,BOS,NYK,20,away,JS,,26,miss3,0,T. Hardaway,
+388,4,2:21.0,85,96,BOS,NYK,0,home,DefReb,,,DefReb,,J. Green,
+389,4,2:16.0,87,96,BOS,NYK,5,home,LU,,0,make2,2,J. Green,
+390,4,2:16.0,87,96,BOS,NYK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Anthony,J. Green
+391,4,2:16.0,87,96,BOS,NYK,0,away,Timeout,,,,,,
+392,4,2:16.0,87,96,BOS,NYK,0,home,Sub,,,,,P. Pressey,M. Thornton
+393,4,2:16.0,88,96,BOS,NYK,0,home,FreeThrow,,,make1,1,J. Green,
+394,4,2:01.0,88,96,BOS,NYK,15,away,LU,,2,miss2,0,J. Calderón,
+395,4,2:00.0,88,96,BOS,NYK,1,away,OffReb,,,OffReb,,A. Stoudemire,
+396,4,1:57.0,88,96,BOS,NYK,3,away,LU,,0,miss2,0,A. Stoudemire,
+397,4,1:55.0,88,96,BOS,NYK,2,away,OffReb,,,OffReb,,J. Calderón,
+398,4,1:55.0,88,96,BOS,NYK,0,away,TI,,0,miss2,0,J. Calderón,
+399,4,1:54.0,88,96,BOS,NYK,1,away,OffReb,,,OffReb,,A. Stoudemire,
+400,4,1:53.0,88,96,BOS,NYK,1,away,LU,block,2,miss2,0,A. Stoudemire,T. Zeller
+401,4,1:52.0,88,96,BOS,NYK,1,home,DefReb,,,DefReb,,P. Pressey,
+402,4,1:51.0,90,96,BOS,NYK,1,home,LU,assist,1,make2,2,E. Turner,P. Pressey
+403,4,1:42.0,90,96,BOS,NYK,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Pressey,J. Calderón
+404,4,1:30.0,90,96,BOS,NYK,12,away,JS,block,5,miss2,0,A. Stoudemire,T. Zeller
+405,4,1:29.0,90,96,BOS,NYK,1,away,OffReb,,,OffReb,,Team,
+406,4,1:28.0,90,96,BOS,NYK,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,C. Anthony
+407,4,1:28.0,90,97,BOS,NYK,0,away,FreeThrow,,,make1,1,C. Anthony,
+408,4,1:28.0,90,97,BOS,NYK,0,away,Sub,,,,,S. Dalembert,A. Stoudemire
+409,4,1:28.0,90,98,BOS,NYK,0,away,FreeThrow,,,make1,1,C. Anthony,
+410,4,1:18.0,92,98,BOS,NYK,10,home,DK,assist,0,make2,2,J. Green,R. Rondo
+411,4,0:57.0,92,98,BOS,NYK,21,away,Traveling,,,turnover,,S. Larkin,
+412,4,0:57.0,92,98,BOS,NYK,0,home,Timeout,,,,,,
+413,4,0:57.0,92,98,BOS,NYK,0,home,Sub,,,,,M. Thornton,T. Zeller
+414,4,0:57.0,92,98,BOS,NYK,0,home,Sub,,,,,K. Olynyk,P. Pressey
+415,4,0:57.0,92,98,BOS,NYK,0,away,Sub,,,,,Q. Acy,S. Dalembert
+416,4,0:53.0,92,98,BOS,NYK,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Anthony,J. Green
+417,4,0:53.0,92,98,BOS,NYK,0,home,FreeThrow,,,make1,0,J. Green,
+418,4,0:53.0,92,98,BOS,NYK,0,home,OffReb,,,OffReb,,Team,
+419,4,0:53.0,92,98,BOS,NYK,0,home,Sub,,,,,P. Pressey,M. Thornton
+420,4,0:53.0,92,98,BOS,NYK,0,home,Sub,,,,,T. Zeller,K. Olynyk
+421,4,0:53.0,92,98,BOS,NYK,0,away,Sub,,,,,A. Stoudemire,T. Hardaway
+422,4,0:53.0,92,98,BOS,NYK,0,away,Sub,,,,,S. Dalembert,Q. Acy
+423,4,0:53.0,93,98,BOS,NYK,0,home,FreeThrow,,,make1,1,J. Green,
+424,4,0:53.0,93,98,BOS,NYK,0,away,Timeout,,,,,,
+425,4,0:53.0,93,98,BOS,NYK,0,away,Sub,,,,,J. Smith,S. Dalembert
+426,4,0:33.0,93,98,BOS,NYK,20,away,JS,,18,miss2,0,J. Calderón,
+427,4,0:32.0,93,98,BOS,NYK,1,home,DefReb,,,DefReb,,T. Zeller,
+428,4,0:32.0,93,98,BOS,NYK,0,home,Timeout,,,,,,
+429,4,0:32.0,93,98,BOS,NYK,0,home,Sub,,,,,K. Olynyk,T. Zeller
+430,4,0:32.0,93,98,BOS,NYK,0,away,Sub,,,,,Q. Acy,A. Stoudemire
+431,4,0:32.0,93,98,BOS,NYK,0,away,Sub,,,,,P. Prigioni,J. Smith
+432,4,0:29.0,93,98,BOS,NYK,3,home,JS,,25,miss3,0,K. Olynyk,
+433,4,0:28.0,93,98,BOS,NYK,1,away,DefReb,,,DefReb,,S. Larkin,
+434,4,0:21.0,93,98,BOS,NYK,7,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Turner,P. Prigioni
+435,4,0:21.0,93,99,BOS,NYK,0,away,FreeThrow,,,make1,1,P. Prigioni,
+436,4,0:21.0,93,99,BOS,NYK,0,away,FreeThrow,,,make1,0,P. Prigioni,
+437,4,0:19.0,93,99,BOS,NYK,2,home,DefReb,,,DefReb,,P. Pressey,
+438,4,0:17.0,93,99,BOS,NYK,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Calderón,P. Pressey
+439,4,0:17.0,94,99,BOS,NYK,0,home,FreeThrow,,,make1,1,P. Pressey,
+440,4,0:17.0,94,99,BOS,NYK,0,home,Sub,,,,,D. Powell,K. Olynyk
+441,4,0:17.0,94,99,BOS,NYK,0,away,Sub,,,,,S. Dalembert,Q. Acy
+442,4,0:17.0,94,99,BOS,NYK,0,away,Sub,,,,,A. Stoudemire,P. Prigioni
+443,4,0:17.0,95,99,BOS,NYK,0,home,FreeThrow,,,make1,1,P. Pressey,
+444,4,0:17.0,95,99,BOS,NYK,0,away,Timeout,,,,,,
+445,4,0:17.0,95,99,BOS,NYK,0,away,Sub,,,,,T. Hardaway,S. Dalembert
+446,4,0:17.0,95,99,BOS,NYK,0,away,Sub,,,,,P. Prigioni,S. Larkin
+447,4,0:16.0,95,99,BOS,NYK,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Turner,C. Anthony
+448,4,0:16.0,95,100,BOS,NYK,0,away,FreeThrow,,,make1,1,C. Anthony,
+449,4,0:16.0,95,100,BOS,NYK,0,home,Sub,,,,,K. Olynyk,D. Powell
+450,4,0:16.0,95,100,BOS,NYK,0,home,Sub,,,,,M. Thornton,P. Pressey
+451,4,0:16.0,95,100,BOS,NYK,0,away,Sub,,,,,Q. Acy,A. Stoudemire
+452,4,0:16.0,95,101,BOS,NYK,0,away,FreeThrow,,,make1,1,C. Anthony,
+453,4,0:12.0,95,101,BOS,NYK,4,home,JS,block,25,miss3,0,J. Green,C. Anthony
+454,4,0:11.0,95,101,BOS,NYK,1,away,DefReb,,,DefReb,,T. Hardaway,

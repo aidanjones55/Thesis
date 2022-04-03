@@ -1,0 +1,443 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,0,2,BOS,SAC,17,away,JS,assist,17,make2,2,M. Belinelli,D. Cousins
+1,1,11:28.0,0,2,BOS,SAC,15,home,JS,,7,miss2,0,J. Crowder,
+2,1,11:27.0,0,2,BOS,SAC,1,away,DefReb,,,DefReb,,D. Cousins,
+3,1,11:23.0,0,2,BOS,SAC,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,R. Rondo
+4,1,11:18.0,0,4,BOS,SAC,5,away,JS,assist,21,make2,2,M. Belinelli,R. Rondo
+5,1,11:05.0,2,4,BOS,SAC,13,home,JS,,10,make2,2,I. Thomas,
+6,1,11:05.0,2,4,BOS,SAC,0,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,W. Cauley-Stein,I. Thomas
+7,1,11:05.0,3,4,BOS,SAC,0,home,FreeThrow,,,make1,1,I. Thomas,
+8,1,10:46.0,3,4,BOS,SAC,19,away,BadPass,steal,,turnover,,D. Cousins,A. Johnson
+9,1,10:40.0,6,4,BOS,SAC,6,home,JS,assist,24,make3,3,A. Bradley,I. Thomas
+10,1,10:34.0,6,4,BOS,SAC,6,away,BadPass,steal,,turnover,,D. Cousins,J. Sullinger
+11,1,10:28.0,6,4,BOS,SAC,6,home,JS,,25,miss3,0,I. Thomas,
+12,1,10:27.0,6,4,BOS,SAC,1,home,OffReb,,,OffReb,,A. Johnson,
+13,1,10:23.0,9,4,BOS,SAC,4,home,JS,assist,23,make3,3,A. Bradley,A. Johnson
+14,1,10:08.0,9,6,BOS,SAC,15,away,JS,assist,3,make2,2,D. Cousins,R. Rondo
+15,1,9:59.0,11,6,BOS,SAC,9,home,JS,assist,18,make2,2,J. Sullinger,I. Thomas
+16,1,9:49.0,11,6,BOS,SAC,10,away,JS,,16,miss2,0,D. Cousins,
+17,1,9:49.0,11,6,BOS,SAC,0,home,DefReb,,,DefReb,,I. Thomas,
+18,1,9:40.0,13,6,BOS,SAC,9,home,LU,assist,1,make2,2,A. Bradley,I. Thomas
+19,1,9:23.0,13,6,BOS,SAC,17,away,HS,,4,miss2,0,W. Cauley-Stein,
+20,1,9:22.0,13,6,BOS,SAC,1,home,DefReb,,,DefReb,,J. Sullinger,
+21,1,9:14.0,13,6,BOS,SAC,8,home,LU,,2,miss2,0,I. Thomas,
+22,1,9:13.0,13,6,BOS,SAC,1,away,DefReb,,,DefReb,,D. Cousins,
+23,1,9:01.0,13,8,BOS,SAC,12,away,LU,assist,1,make2,2,W. Cauley-Stein,D. Cousins
+24,1,8:49.0,13,8,BOS,SAC,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Belinelli,J. Crowder
+25,1,8:39.0,15,8,BOS,SAC,10,home,JS,assist,6,make2,2,J. Crowder,A. Johnson
+26,1,8:29.0,15,10,BOS,SAC,10,away,LU,,2,make2,2,R. Rondo,
+27,1,8:21.0,15,10,BOS,SAC,8,home,JS,,23,miss3,0,A. Bradley,
+28,1,8:20.0,15,10,BOS,SAC,1,home,OffReb,,,OffReb,,A. Johnson,
+29,1,8:18.0,15,10,BOS,SAC,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,A. Bradley
+30,1,8:18.0,16,10,BOS,SAC,0,home,FreeThrow,,,make1,1,A. Bradley,
+31,1,8:18.0,16,10,BOS,SAC,0,away,Sub,,,,,K. Koufos,W. Cauley-Stein
+32,1,8:18.0,16,10,BOS,SAC,0,home,FreeThrow,,,make1,0,A. Bradley,
+33,1,8:18.0,16,10,BOS,SAC,0,away,DefReb,,,DefReb,,J. Anderson,
+34,1,8:05.0,16,13,BOS,SAC,13,away,JS,assist,24,make3,3,M. Belinelli,R. Rondo
+35,1,7:51.0,16,13,BOS,SAC,14,home,JS,,18,miss2,0,J. Crowder,
+36,1,7:50.0,16,13,BOS,SAC,1,away,DefReb,,,DefReb,,K. Koufos,
+37,1,7:39.0,16,13,BOS,SAC,11,away,Traveling,,,turnover,,J. Anderson,
+38,1,7:30.0,18,13,BOS,SAC,9,home,JS,assist,21,make2,2,J. Sullinger,A. Johnson
+39,1,7:20.0,18,13,BOS,SAC,10,away,HS,,2,miss2,0,D. Cousins,
+40,1,7:19.0,18,13,BOS,SAC,1,home,DefReb,,,DefReb,,A. Johnson,
+41,1,7:13.0,18,13,BOS,SAC,6,home,LU,block,1,miss2,0,I. Thomas,J. Anderson
+42,1,7:12.0,18,13,BOS,SAC,1,home,OffReb,,,OffReb,,A. Johnson,
+43,1,7:10.0,21,13,BOS,SAC,2,home,JS,assist,24,make3,3,J. Sullinger,A. Johnson
+44,1,7:01.0,21,13,BOS,SAC,9,away,LU,,1,miss2,0,D. Cousins,
+45,1,7:01.0,21,13,BOS,SAC,0,home,DefReb,,,DefReb,,A. Johnson,
+46,1,6:53.0,24,13,BOS,SAC,8,home,JS,assist,24,make3,3,A. Bradley,I. Thomas
+47,1,6:52.0,24,13,BOS,SAC,1,away,Timeout,,,,,,
+48,1,6:38.0,24,13,BOS,SAC,14,away,LU,,1,miss2,0,D. Cousins,
+49,1,6:38.0,24,13,BOS,SAC,0,home,DefReb,,,DefReb,,J. Sullinger,
+50,1,6:31.0,24,13,BOS,SAC,7,away,TechnicalFoul,,,TechnicalFoul,,D. Cousins,
+51,1,6:31.0,24,13,BOS,SAC,0,home,FreeThrow,,,make1,0,I. Thomas misses technical free throw,
+52,1,6:31.0,24,13,BOS,SAC,0,home,OffReb,,,OffReb,,Team,
+53,1,6:22.0,24,13,BOS,SAC,9,home,BadPass,steal,,turnover,,A. Johnson,R. Rondo
+54,1,6:15.0,24,13,BOS,SAC,7,away,JS,,24,miss3,0,M. Belinelli,
+55,1,6:14.0,24,13,BOS,SAC,1,home,DefReb,,,DefReb,,A. Johnson,
+56,1,6:04.0,26,13,BOS,SAC,10,home,HS,assist,2,make2,2,J. Sullinger,I. Thomas
+57,1,5:58.0,26,13,BOS,SAC,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Sullinger,D. Cousins
+58,1,5:58.0,26,14,BOS,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+59,1,5:58.0,26,14,BOS,SAC,0,away,Sub,,,,,O. Casspi,J. Anderson
+60,1,5:58.0,26,15,BOS,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+61,1,5:47.0,26,15,BOS,SAC,11,home,JS,,18,miss2,0,J. Sullinger,
+62,1,5:46.0,26,15,BOS,SAC,1,away,DefReb,,,DefReb,,M. Belinelli,
+63,1,5:40.0,26,15,BOS,SAC,6,home,Sub,,,,,M. Smart,A. Bradley
+64,1,5:40.0,26,15,BOS,SAC,0,home,Sub,,,,,E. Turner,J. Sullinger
+65,1,5:27.0,26,18,BOS,SAC,13,away,JS,assist,24,make3,3,R. Rondo,O. Casspi
+66,1,5:15.0,28,18,BOS,SAC,12,home,DK,assist,0,make2,2,A. Johnson,J. Crowder
+67,1,5:04.0,28,18,BOS,SAC,11,away,LU,,1,miss2,0,D. Cousins,
+68,1,5:03.0,28,18,BOS,SAC,1,home,DefReb,,,DefReb,,I. Thomas,
+69,1,5:00.0,30,18,BOS,SAC,3,home,LU,,1,make2,2,I. Thomas,
+70,1,5:00.0,30,18,BOS,SAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rondo,I. Thomas
+71,1,5:00.0,31,18,BOS,SAC,0,home,FreeThrow,,,make1,1,I. Thomas,
+72,1,4:46.0,31,18,BOS,SAC,14,away,LostBall,steal,,turnover,,D. Cousins,J. Crowder
+73,1,4:44.0,31,18,BOS,SAC,2,home,BadPass,steal,,turnover,,J. Crowder,R. Rondo
+74,1,4:36.0,31,18,BOS,SAC,8,away,BadPass,steal,,turnover,,M. Belinelli,A. Johnson
+75,1,4:31.0,31,18,BOS,SAC,5,home,JS,,16,miss2,0,I. Thomas,
+76,1,4:30.0,31,18,BOS,SAC,1,home,OffReb,,,OffReb,,I. Thomas,
+77,1,4:26.0,34,18,BOS,SAC,4,home,JS,assist,24,make3,3,M. Smart,I. Thomas
+78,1,4:07.0,34,18,BOS,SAC,19,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Crowder,K. Koufos
+79,1,4:07.0,34,18,BOS,SAC,0,away,FreeThrow,,,make1,0,K. Koufos,
+80,1,4:07.0,34,18,BOS,SAC,0,away,OffReb,,,OffReb,,Team,
+81,1,4:07.0,34,18,BOS,SAC,0,away,Sub,,,,,D. Collison,D. Cousins
+82,1,4:07.0,34,19,BOS,SAC,0,away,FreeThrow,,,make1,1,K. Koufos,
+83,1,3:53.0,34,19,BOS,SAC,14,home,JS,,24,miss3,0,I. Thomas,
+84,1,3:52.0,34,19,BOS,SAC,1,away,DefReb,,,DefReb,,M. Belinelli,
+85,1,3:43.0,34,21,BOS,SAC,9,away,LU,,1,make2,2,R. Rondo,
+86,1,3:30.0,34,21,BOS,SAC,13,home,JS,,24,miss3,0,J. Crowder,
+87,1,3:29.0,34,21,BOS,SAC,1,away,DefReb,,,DefReb,,R. Rondo,
+88,1,3:18.0,34,21,BOS,SAC,11,away,BadPass,steal,,turnover,,D. Collison,J. Crowder
+89,1,3:15.0,36,21,BOS,SAC,3,home,DK,,0,make2,2,J. Crowder,
+90,1,2:59.0,36,21,BOS,SAC,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Thomas,R. Rondo
+91,1,2:59.0,36,21,BOS,SAC,0,home,Timeout,,,,,,
+92,1,2:59.0,36,21,BOS,SAC,0,home,Sub,,,,,K. Olynyk,I. Thomas
+93,1,2:59.0,36,21,BOS,SAC,0,away,FreeThrow,,,make1,0,R. Rondo,
+94,1,2:59.0,36,21,BOS,SAC,0,away,OffReb,,,OffReb,,Team,
+95,1,2:59.0,36,22,BOS,SAC,0,away,FreeThrow,,,make1,1,R. Rondo,
+96,1,2:39.0,36,22,BOS,SAC,20,home,LU,,0,miss2,0,A. Johnson,
+97,1,2:38.0,36,22,BOS,SAC,1,home,OffReb,,,OffReb,,A. Johnson,
+98,1,2:37.0,38,22,BOS,SAC,1,home,LU,,0,make2,2,A. Johnson,
+99,1,2:24.0,38,24,BOS,SAC,13,away,LU,assist,2,make2,2,O. Casspi,K. Koufos
+100,1,2:16.0,38,24,BOS,SAC,8,home,JS,,24,miss3,0,M. Smart,
+101,1,2:15.0,38,24,BOS,SAC,1,away,DefReb,,,DefReb,,R. Rondo,
+102,1,2:10.0,38,24,BOS,SAC,5,away,LU,,2,miss2,0,R. Rondo,
+103,1,2:09.0,38,24,BOS,SAC,1,away,OffReb,,,OffReb,,Team,
+104,1,2:09.0,38,24,BOS,SAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Johnson,K. Koufos
+105,1,2:09.0,38,25,BOS,SAC,0,away,FreeThrow,,,make1,1,K. Koufos,
+106,1,2:09.0,38,25,BOS,SAC,0,home,Sub,,,,,J. Jerebko,A. Johnson
+107,1,2:09.0,38,26,BOS,SAC,0,away,FreeThrow,,,make1,1,K. Koufos,
+108,1,1:59.0,38,26,BOS,SAC,10,home,BadPass,steal,,turnover,,M. Smart,R. Rondo
+109,1,1:45.0,38,28,BOS,SAC,14,away,LU,assist,1,make2,2,O. Casspi,R. Rondo
+110,1,1:33.0,40,28,BOS,SAC,12,home,LU,assist,2,make2,2,K. Olynyk,E. Turner
+111,1,1:20.0,40,30,BOS,SAC,13,away,DK,assist,0,make2,2,K. Koufos,R. Rondo
+112,1,1:05.0,40,30,BOS,SAC,15,home,LostBall,steal,,turnover,,K. Olynyk,K. Koufos
+113,1,1:01.0,40,32,BOS,SAC,4,away,LU,assist,1,make2,2,D. Collison,R. Rondo
+114,1,0:45.0,43,32,BOS,SAC,16,home,JS,assist,24,make3,3,K. Olynyk,M. Smart
+115,1,0:31.0,43,34,BOS,SAC,14,away,JS,,3,make2,2,O. Casspi,
+116,1,0:23.0,46,34,BOS,SAC,8,home,JS,assist,24,make3,3,K. Olynyk,E. Turner
+117,1,0:01.0,46,37,BOS,SAC,22,away,JS,assist,25,make3,3,M. Belinelli,K. Koufos
+118,1,0:00.0,46,37,BOS,SAC,1,home,JS,,63,miss3,0,M. Smart,
+119,1,0:00.0,46,37,BOS,SAC,0,home,OffReb,,,OffReb,,Team,
+120,2,11:49.0,46,37,BOS,SAC,11,home,BadPass,steal,,turnover,,K. Olynyk,O. Casspi
+121,2,11:39.0,46,39,BOS,SAC,10,away,LU,assist,1,make2,2,K. Koufos,D. Collison
+122,2,11:15.0,49,39,BOS,SAC,24,home,JS,assist,24,make3,3,M. Smart,E. Turner
+123,2,10:58.0,49,39,BOS,SAC,17,away,JS,,25,miss3,0,O. Casspi,
+124,2,10:57.0,49,39,BOS,SAC,1,home,DefReb,,,DefReb,,M. Smart,
+125,2,10:51.0,49,39,BOS,SAC,6,home,LU,block,1,miss2,0,T. Zeller,W. Cauley-Stein
+126,2,10:50.0,49,39,BOS,SAC,1,home,OffReb,,,OffReb,,J. Jerebko,
+127,2,10:41.0,49,39,BOS,SAC,9,home,JS,,24,miss3,0,M. Smart,
+128,2,10:40.0,49,39,BOS,SAC,1,away,DefReb,,,DefReb,,K. Koufos,
+129,2,10:34.0,49,39,BOS,SAC,6,away,JS,,16,miss2,0,D. Collison,
+130,2,10:33.0,49,39,BOS,SAC,1,home,DefReb,,,DefReb,,E. Turner,
+131,2,10:22.0,49,39,BOS,SAC,11,home,JS,,12,miss2,0,E. Turner,
+132,2,10:21.0,49,39,BOS,SAC,1,home,OffReb,,,OffReb,,Team,
+133,2,10:21.0,49,39,BOS,SAC,0,home,Sub,,,,,A. Bradley,J. Jerebko
+134,2,10:15.0,51,39,BOS,SAC,6,home,JS,assist,15,make2,2,A. Bradley,E. Turner
+135,2,10:11.0,51,39,BOS,SAC,4,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,M. Smart,D. Collison
+136,2,10:11.0,51,40,BOS,SAC,0,away,FreeThrow,,,make1,1,D. Collison,
+137,2,10:11.0,51,41,BOS,SAC,0,away,FreeThrow,,,make1,1,D. Collison,
+138,2,9:59.0,53,41,BOS,SAC,12,home,LU,,2,make2,2,E. Turner,
+139,2,9:34.0,53,41,BOS,SAC,25,away,JS,,10,miss2,0,O. Casspi,
+140,2,9:33.0,53,41,BOS,SAC,1,home,DefReb,,,DefReb,,K. Olynyk,
+141,2,9:26.0,55,41,BOS,SAC,7,home,LU,,1,make2,2,E. Turner,
+142,2,9:08.0,55,43,BOS,SAC,18,away,LU,,1,make2,2,D. Collison,
+143,2,8:44.0,55,43,BOS,SAC,24,home,Traveling,,,turnover,,A. Bradley,
+144,2,8:44.0,55,43,BOS,SAC,0,away,Timeout,,,,,,
+145,2,8:44.0,55,43,BOS,SAC,0,away,Sub,,,,,D. Cousins,K. Koufos
+146,2,8:27.0,55,43,BOS,SAC,17,away,JS,,11,miss2,0,J. Anderson,
+147,2,8:26.0,55,43,BOS,SAC,1,away,OffReb,,,OffReb,,W. Cauley-Stein,
+148,2,8:25.0,55,45,BOS,SAC,1,away,LU,,0,make2,2,W. Cauley-Stein,
+149,2,8:08.0,55,45,BOS,SAC,17,home,JS,,21,miss2,0,A. Bradley,
+150,2,8:07.0,55,45,BOS,SAC,1,home,OffReb,,,OffReb,,K. Olynyk,
+151,2,8:00.0,55,45,BOS,SAC,7,home,JS,,25,miss3,0,K. Olynyk,
+152,2,7:59.0,55,45,BOS,SAC,1,away,DefReb,,,DefReb,,D. Cousins,
+153,2,7:47.0,55,47,BOS,SAC,12,away,JS,assist,12,make2,2,W. Cauley-Stein,D. Cousins
+154,2,7:33.0,57,47,BOS,SAC,14,home,JS,assist,15,make2,2,E. Turner,T. Zeller
+155,2,7:15.0,57,47,BOS,SAC,18,away,LU,,2,miss2,0,D. Collison,
+156,2,7:14.0,57,47,BOS,SAC,1,home,DefReb,,,DefReb,,E. Turner,
+157,2,7:11.0,57,47,BOS,SAC,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Cauley-Stein,E. Turner
+158,2,7:11.0,57,47,BOS,SAC,0,away,Sub,,,,,R. Rondo,O. Casspi
+159,2,7:11.0,57,47,BOS,SAC,0,away,Sub,,,,,Q. Acy,W. Cauley-Stein
+160,2,7:02.0,59,47,BOS,SAC,9,home,LU,,2,make2,2,T. Zeller,
+161,2,6:48.0,59,47,BOS,SAC,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Zeller,Q. Acy
+162,2,6:35.0,59,47,BOS,SAC,13,away,JS,,18,miss2,0,D. Cousins,
+163,2,6:34.0,59,47,BOS,SAC,1,home,DefReb,,,DefReb,,T. Zeller,
+164,2,6:26.0,59,47,BOS,SAC,8,home,BadPass,steal,,turnover,,E. Turner,R. Rondo
+165,2,6:13.0,59,49,BOS,SAC,13,away,JS,,7,make2,2,D. Cousins,
+166,2,5:54.0,59,49,BOS,SAC,19,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,E. Turner,R. Rondo
+167,2,5:54.0,59,49,BOS,SAC,0,home,OffensiveFoul,,,turnover,,E. Turner,
+168,2,5:54.0,59,49,BOS,SAC,0,home,Timeout,,,,,,
+169,2,5:54.0,59,49,BOS,SAC,0,away,Sub,,,,,M. Belinelli,J. Anderson
+170,2,5:54.0,59,49,BOS,SAC,0,home,Sub,,,,,J. Sullinger,K. Olynyk
+171,2,5:36.0,59,49,BOS,SAC,18,away,JS,,24,miss3,0,M. Belinelli,
+172,2,5:34.0,59,49,BOS,SAC,2,away,OffReb,,,OffReb,,Q. Acy,
+173,2,5:24.0,59,51,BOS,SAC,10,away,LU,assist,2,make2,2,D. Cousins,D. Collison
+174,2,5:11.0,61,51,BOS,SAC,13,home,JS,assist,18,make2,2,T. Zeller,M. Smart
+175,2,4:57.0,61,51,BOS,SAC,14,away,JS,,24,miss3,0,D. Cousins,
+176,2,4:56.0,61,51,BOS,SAC,1,home,DefReb,,,DefReb,,T. Zeller,
+177,2,4:42.0,61,51,BOS,SAC,14,home,LostBall,,,turnover,,T. Zeller,
+178,2,4:42.0,61,51,BOS,SAC,0,home,Sub,,,,,I. Thomas,E. Turner
+179,2,4:29.0,61,51,BOS,SAC,13,away,LU,,2,miss2,0,R. Rondo,
+180,2,4:29.0,61,51,BOS,SAC,0,home,DefReb,,,DefReb,,T. Zeller,
+181,2,4:17.0,63,51,BOS,SAC,12,home,LU,assist,1,make2,2,T. Zeller,A. Bradley
+182,2,3:58.0,63,51,BOS,SAC,19,away,JS,,22,miss3,0,D. Collison,
+183,2,3:57.0,63,51,BOS,SAC,1,home,DefReb,,,DefReb,,Team,
+184,2,3:57.0,63,51,BOS,SAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Cousins,J. Sullinger
+185,2,3:57.0,63,51,BOS,SAC,0,away,Sub,,,,,S. Curry,D. Collison
+186,2,3:57.0,63,51,BOS,SAC,0,away,Sub,,,,,O. Casspi,Q. Acy
+187,2,3:38.0,66,51,BOS,SAC,19,home,JS,,24,make3,3,A. Bradley,
+188,2,3:24.0,66,51,BOS,SAC,14,away,JS,,16,miss2,0,M. Belinelli,
+189,2,3:23.0,66,51,BOS,SAC,1,home,DefReb,,,DefReb,,T. Zeller,
+190,2,3:16.0,68,51,BOS,SAC,7,home,LU,assist,1,make2,2,J. Sullinger,M. Smart
+191,2,2:58.0,68,51,BOS,SAC,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Zeller,D. Cousins
+192,2,2:58.0,68,51,BOS,SAC,0,away,Timeout,,,,,,
+193,2,2:58.0,68,51,BOS,SAC,0,home,Sub,,,,,A. Johnson,M. Smart
+194,2,2:58.0,68,51,BOS,SAC,0,home,Sub,,,,,J. Crowder,T. Zeller
+195,2,2:58.0,68,52,BOS,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+196,2,2:58.0,68,53,BOS,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+197,2,2:41.0,68,53,BOS,SAC,17,home,JS,block,18,miss2,0,A. Bradley,S. Curry
+198,2,2:40.0,68,53,BOS,SAC,1,away,DefReb,,,DefReb,,D. Cousins,
+199,2,2:32.0,68,53,BOS,SAC,8,away,JS,,24,miss3,0,M. Belinelli,
+200,2,2:31.0,68,53,BOS,SAC,1,home,DefReb,,,DefReb,,A. Bradley,
+201,2,2:21.0,68,53,BOS,SAC,10,home,JS,,18,miss2,0,A. Bradley,
+202,2,2:21.0,68,53,BOS,SAC,0,away,DefReb,,,DefReb,,D. Cousins,
+203,2,2:17.0,68,53,BOS,SAC,4,away,LostBall,steal,,turnover,,D. Cousins,J. Sullinger
+204,2,2:15.0,68,53,BOS,SAC,2,home,BadPass,steal,,turnover,,A. Johnson,R. Rondo
+205,2,2:10.0,68,55,BOS,SAC,5,away,LU,assist,2,make2,2,O. Casspi,R. Rondo
+206,2,1:56.0,68,55,BOS,SAC,14,home,JS,,17,miss2,0,I. Thomas,
+207,2,1:55.0,68,55,BOS,SAC,1,away,DefReb,,,DefReb,,Team,
+208,2,1:55.0,68,55,BOS,SAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Sullinger,D. Cousins
+209,2,1:31.0,68,55,BOS,SAC,24,away,JS,,26,miss3,0,O. Casspi,
+210,2,1:30.0,68,55,BOS,SAC,1,home,DefReb,,,DefReb,,A. Bradley,
+211,2,1:19.0,70,55,BOS,SAC,11,home,JS,,6,make2,2,J. Sullinger,
+212,2,1:00.0,70,55,BOS,SAC,19,away,LU,,1,miss2,0,O. Casspi,
+213,2,0:59.0,70,55,BOS,SAC,1,home,DefReb,,,DefReb,,J. Sullinger,
+214,2,0:50.0,70,55,BOS,SAC,9,home,JS,,7,miss2,0,I. Thomas,
+215,2,0:49.0,70,55,BOS,SAC,1,home,OffReb,,,OffReb,,A. Johnson,
+216,2,0:49.0,70,55,BOS,SAC,0,home,LU,,1,miss2,0,A. Johnson,
+217,2,0:48.0,70,55,BOS,SAC,1,home,OffReb,,,OffReb,,J. Sullinger,
+218,2,0:47.0,72,55,BOS,SAC,1,home,LU,,2,make2,2,J. Sullinger,
+219,2,0:41.0,72,58,BOS,SAC,6,away,JS,,23,make3,3,S. Curry,
+220,2,0:30.0,74,58,BOS,SAC,11,home,JS,assist,12,make2,2,J. Sullinger,I. Thomas
+221,2,0:23.0,74,58,BOS,SAC,7,away,LostBall,steal,,turnover,,D. Cousins,J. Sullinger
+222,2,0:02.0,74,58,BOS,SAC,21,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Curry,J. Sullinger
+223,2,0:02.0,74,58,BOS,SAC,0,home,Timeout,,,,,,
+224,2,0:02.0,74,58,BOS,SAC,0,away,Sub,,,,,J. Anderson,D. Cousins
+225,2,0:02.0,74,58,BOS,SAC,0,away,Sub,,,,,W. Cauley-Stein,O. Casspi
+226,2,0:02.0,74,58,BOS,SAC,0,home,BadPass,steal,,turnover,,J. Sullinger,S. Curry
+227,3,11:49.0,74,58,BOS,SAC,11,home,BadPass,,,turnover,,I. Thomas,
+228,3,11:36.0,74,58,BOS,SAC,13,away,JS,,18,miss2,0,D. Cousins,
+229,3,11:36.0,74,58,BOS,SAC,0,home,DefReb,,,DefReb,,J. Crowder,
+230,3,11:24.0,74,58,BOS,SAC,12,home,JS,,17,miss2,0,J. Sullinger,
+231,3,11:24.0,74,58,BOS,SAC,0,away,DefReb,,,DefReb,,D. Cousins,
+232,3,11:05.0,74,58,BOS,SAC,19,away,JS,,6,miss2,0,M. Belinelli,
+233,3,11:04.0,74,58,BOS,SAC,1,home,DefReb,,,DefReb,,A. Johnson,
+234,3,10:54.0,76,58,BOS,SAC,10,home,LU,,2,make2,2,I. Thomas,
+235,3,10:43.0,76,58,BOS,SAC,11,away,LU,,2,miss2,0,R. Rondo,
+236,3,10:42.0,76,58,BOS,SAC,1,away,OffReb,,,OffReb,,Team,
+237,3,10:41.0,76,58,BOS,SAC,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Sullinger,D. Cousins
+238,3,10:41.0,76,59,BOS,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+239,3,10:41.0,76,60,BOS,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+240,3,10:31.0,76,60,BOS,SAC,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,J. Sullinger
+241,3,10:25.0,76,60,BOS,SAC,6,home,JS,,18,miss2,0,J. Sullinger,
+242,3,10:24.0,76,60,BOS,SAC,1,home,OffReb,,,OffReb,,A. Bradley,
+243,3,10:17.0,78,60,BOS,SAC,7,home,JS,assist,6,make2,2,A. Johnson,A. Bradley
+244,3,10:07.0,78,60,BOS,SAC,10,away,BadPass,,,turnover,,R. Rondo,
+245,3,9:53.0,78,60,BOS,SAC,14,home,Traveling,,,turnover,,J. Sullinger,
+246,3,9:42.0,78,62,BOS,SAC,11,away,DK,assist,0,make2,2,W. Cauley-Stein,R. Rondo
+247,3,9:26.0,80,62,BOS,SAC,16,home,JS,assist,10,make2,2,J. Sullinger,I. Thomas
+248,3,9:11.0,80,64,BOS,SAC,15,away,LU,assist,1,make2,2,J. Anderson,R. Rondo
+249,3,8:58.0,82,64,BOS,SAC,13,home,LU,assist,2,make2,2,A. Johnson,J. Crowder
+250,3,8:40.0,82,64,BOS,SAC,18,away,BadPass,,,turnover,,R. Rondo,
+251,3,8:23.0,82,64,BOS,SAC,17,home,JS,,18,miss2,0,A. Bradley,
+252,3,8:23.0,82,64,BOS,SAC,0,away,DefReb,,,DefReb,,J. Anderson,
+253,3,8:10.0,82,66,BOS,SAC,13,away,DK,assist,0,make2,2,W. Cauley-Stein,D. Cousins
+254,3,7:54.0,84,66,BOS,SAC,16,home,LU,assist,1,make2,2,I. Thomas,J. Sullinger
+255,3,7:36.0,84,66,BOS,SAC,18,away,JS,,19,miss2,0,D. Cousins,
+256,3,7:36.0,84,66,BOS,SAC,0,home,DefReb,,,DefReb,,J. Sullinger,
+257,3,7:31.0,84,66,BOS,SAC,5,home,JS,block,3,miss2,0,A. Bradley,J. Anderson
+258,3,7:30.0,84,66,BOS,SAC,1,home,OffReb,,,OffReb,,I. Thomas,
+259,3,7:27.0,87,66,BOS,SAC,3,home,JS,,25,make3,3,I. Thomas,
+260,3,7:25.0,87,66,BOS,SAC,2,away,Timeout,,,,,,
+261,3,7:11.0,87,66,BOS,SAC,14,away,LU,block,0,miss2,0,D. Cousins,I. Thomas
+262,3,7:10.0,87,66,BOS,SAC,1,away,OffReb,,,OffReb,,W. Cauley-Stein,
+263,3,7:09.0,87,68,BOS,SAC,1,away,LU,,1,make2,2,W. Cauley-Stein,
+264,3,7:09.0,87,68,BOS,SAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,W. Cauley-Stein
+265,3,7:09.0,87,69,BOS,SAC,0,away,FreeThrow,,,make1,1,W. Cauley-Stein,
+266,3,6:48.0,87,69,BOS,SAC,21,home,JS,,19,miss2,0,A. Bradley,
+267,3,6:47.0,87,69,BOS,SAC,1,away,DefReb,,,DefReb,,Team,
+268,3,6:31.0,87,69,BOS,SAC,16,away,BadPass,steal,,turnover,,W. Cauley-Stein,I. Thomas
+269,3,6:25.0,87,69,BOS,SAC,6,home,JS,,4,miss2,0,I. Thomas,
+270,3,6:25.0,87,69,BOS,SAC,0,away,DefReb,,,DefReb,,M. Belinelli,
+271,3,6:25.0,87,69,BOS,SAC,0,away,Sub,,,,,K. Koufos,J. Anderson
+272,3,6:25.0,87,69,BOS,SAC,0,away,Sub,,,,,D. Collison,W. Cauley-Stein
+273,3,6:07.0,87,71,BOS,SAC,18,away,JS,,7,make2,2,D. Cousins,
+274,3,5:49.0,87,71,BOS,SAC,18,home,BadPass,steal,,turnover,,J. Sullinger,R. Rondo
+275,3,5:49.0,87,71,BOS,SAC,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,D. Collison
+276,3,5:26.0,87,71,BOS,SAC,23,away,JS,,8,miss2,0,M. Belinelli,
+277,3,5:25.0,87,71,BOS,SAC,1,away,OffReb,,,OffReb,,Team,
+278,3,5:25.0,87,71,BOS,SAC,0,home,Sub,,,,,K. Olynyk,A. Johnson
+279,3,5:18.0,87,73,BOS,SAC,7,away,JS,assist,20,make2,2,M. Belinelli,D. Cousins
+280,3,5:02.0,87,73,BOS,SAC,16,home,LU,block,2,miss2,0,I. Thomas,K. Koufos
+281,3,5:01.0,87,73,BOS,SAC,1,home,OffReb,,,OffReb,,J. Sullinger,
+282,3,5:00.0,89,73,BOS,SAC,1,home,LU,,1,make2,2,J. Sullinger,
+283,3,4:49.0,89,75,BOS,SAC,11,away,JS,assist,14,make2,2,D. Collison,R. Rondo
+284,3,4:32.0,89,75,BOS,SAC,17,home,Sub,,,,,E. Turner,J. Crowder
+285,3,4:32.0,89,75,BOS,SAC,0,home,Sub,,,,,M. Smart,A. Bradley
+286,3,4:26.0,89,75,BOS,SAC,6,home,BadPass,steal,,turnover,,M. Smart,D. Collison
+287,3,4:20.0,89,75,BOS,SAC,6,away,JS,,23,miss3,0,M. Belinelli,
+288,3,4:18.0,89,75,BOS,SAC,2,away,OffReb,,,OffReb,,D. Collison,
+289,3,4:13.0,89,78,BOS,SAC,5,away,JS,assist,25,make3,3,D. Cousins,D. Collison
+290,3,4:13.0,89,78,BOS,SAC,0,home,Timeout,,,,,,
+291,3,4:13.0,89,78,BOS,SAC,0,away,Sub,,,,,O. Casspi,M. Belinelli
+292,3,3:57.0,89,78,BOS,SAC,16,home,JS,,9,miss2,0,I. Thomas,
+293,3,3:57.0,89,78,BOS,SAC,0,away,DefReb,,,DefReb,,O. Casspi,
+294,3,3:49.0,89,78,BOS,SAC,8,away,BadPass,steal,,turnover,,R. Rondo,I. Thomas
+295,3,3:37.0,89,78,BOS,SAC,12,home,JS,,24,miss3,0,M. Smart,
+296,3,3:35.0,89,78,BOS,SAC,2,away,DefReb,,,DefReb,,R. Rondo,
+297,3,3:29.0,89,78,BOS,SAC,6,away,LU,,1,miss2,0,R. Rondo,
+298,3,3:28.0,89,78,BOS,SAC,1,home,DefReb,,,DefReb,,M. Smart,
+299,3,3:26.0,89,78,BOS,SAC,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,O. Casspi,I. Thomas
+300,3,3:26.0,89,78,BOS,SAC,0,home,Sub,,,,,T. Zeller,J. Sullinger
+301,3,3:12.0,89,78,BOS,SAC,14,home,OffGoaltending,,,turnover,,T. Zeller,
+302,3,3:03.0,89,78,BOS,SAC,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,D. Cousins
+303,3,3:03.0,89,78,BOS,SAC,0,home,Sub,,,,,J. Jerebko,I. Thomas
+304,3,2:57.0,89,78,BOS,SAC,6,away,JS,,18,miss2,0,D. Cousins,
+305,3,2:56.0,89,78,BOS,SAC,1,home,DefReb,,,DefReb,,K. Olynyk,
+306,3,2:48.0,89,78,BOS,SAC,8,home,JS,,25,miss3,0,K. Olynyk,
+307,3,2:47.0,89,78,BOS,SAC,1,away,DefReb,,,DefReb,,R. Rondo,
+308,3,2:42.0,89,81,BOS,SAC,5,away,JS,assist,25,make3,3,D. Collison,R. Rondo
+309,3,2:24.0,89,81,BOS,SAC,18,home,BadPass,steal,,turnover,,J. Jerebko,D. Collison
+310,3,2:19.0,89,81,BOS,SAC,5,away,LU,block,2,miss2,0,O. Casspi,J. Jerebko
+311,3,2:18.0,89,81,BOS,SAC,1,away,OffReb,,,OffReb,,Team,
+312,3,2:14.0,89,81,BOS,SAC,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Zeller,D. Cousins
+313,3,2:14.0,89,81,BOS,SAC,0,away,FreeThrow,,,make1,0,D. Cousins,
+314,3,2:14.0,89,81,BOS,SAC,0,away,OffReb,,,OffReb,,Team,
+315,3,2:14.0,89,81,BOS,SAC,0,away,FreeThrow,,,make1,0,D. Cousins,
+316,3,2:14.0,89,81,BOS,SAC,0,away,OffReb,,,OffReb,,K. Koufos,
+317,3,2:11.0,89,81,BOS,SAC,3,away,Timeout,,,,,,
+318,3,1:56.0,89,81,BOS,SAC,15,away,JS,,4,miss2,0,D. Cousins,
+319,3,1:55.0,89,81,BOS,SAC,1,home,DefReb,,,DefReb,,J. Jerebko,
+320,3,1:37.0,91,81,BOS,SAC,18,home,LU,assist,2,make2,2,K. Olynyk,E. Turner
+321,3,1:26.0,91,81,BOS,SAC,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,R. Rondo
+322,3,1:26.0,91,81,BOS,SAC,0,away,Sub,,,,,W. Cauley-Stein,D. Cousins
+323,3,1:26.0,91,82,BOS,SAC,0,away,FreeThrow,,,make1,1,R. Rondo,
+324,3,1:26.0,91,83,BOS,SAC,0,away,FreeThrow,,,make1,1,R. Rondo,
+325,3,1:16.0,91,83,BOS,SAC,10,home,Traveling,,,turnover,,J. Jerebko,
+326,3,1:02.0,91,85,BOS,SAC,14,away,JS,assist,7,make2,2,K. Koufos,O. Casspi
+327,3,0:45.0,91,85,BOS,SAC,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Cauley-Stein,T. Zeller
+328,3,0:40.0,93,85,BOS,SAC,5,home,JS,assist,18,make2,2,T. Zeller,E. Turner
+329,3,0:29.0,93,85,BOS,SAC,11,away,JS,,8,miss2,0,K. Koufos,
+330,3,0:28.0,93,85,BOS,SAC,1,home,DefReb,,,DefReb,,K. Olynyk,
+331,3,0:06.0,95,85,BOS,SAC,22,home,JS,assist,17,make2,2,T. Zeller,E. Turner
+332,3,0:00.0,95,87,BOS,SAC,6,away,JS,,5,make2,2,R. Rondo,
+333,4,11:53.0,95,87,BOS,SAC,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jerebko,O. Casspi
+334,4,11:37.0,95,87,BOS,SAC,16,away,LU,block,2,miss2,0,O. Casspi,T. Zeller
+335,4,11:36.0,95,87,BOS,SAC,1,home,DefReb,,,DefReb,,T. Zeller,
+336,4,11:35.0,95,87,BOS,SAC,1,home,BadPass,steal,,turnover,,T. Zeller,K. Koufos
+337,4,11:31.0,95,87,BOS,SAC,4,away,JS,,25,miss3,0,D. Collison,
+338,4,11:30.0,95,87,BOS,SAC,1,home,DefReb,,,DefReb,,J. Jerebko,
+339,4,11:15.0,97,87,BOS,SAC,15,home,HS,,3,make2,2,M. Smart,
+340,4,11:12.0,97,87,BOS,SAC,3,away,BadPass,,,turnover,,O. Casspi,
+341,4,11:03.0,97,87,BOS,SAC,9,home,JS,,16,miss2,0,E. Turner,
+342,4,11:02.0,97,87,BOS,SAC,1,away,DefReb,,,DefReb,,O. Casspi,
+343,4,10:45.0,97,89,BOS,SAC,17,away,JS,,20,make2,2,M. Belinelli,
+344,4,10:36.0,97,89,BOS,SAC,9,home,BadPass,steal,,turnover,,E. Turner,W. Cauley-Stein
+345,4,10:31.0,97,89,BOS,SAC,5,away,LU,,1,miss2,0,O. Casspi,
+346,4,10:30.0,97,89,BOS,SAC,1,home,DefReb,,,DefReb,,M. Smart,
+347,4,10:22.0,97,89,BOS,SAC,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Belinelli,K. Olynyk
+348,4,10:12.0,97,89,BOS,SAC,10,home,JS,,17,miss2,0,M. Smart,
+349,4,10:11.0,97,89,BOS,SAC,1,away,DefReb,,,DefReb,,O. Casspi,
+350,4,9:59.0,97,89,BOS,SAC,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,D. Collison
+351,4,9:59.0,97,89,BOS,SAC,0,home,Sub,,,,,A. Bradley,K. Olynyk
+352,4,9:46.0,97,91,BOS,SAC,13,away,JS,,7,make2,2,D. Collison,
+353,4,9:29.0,97,91,BOS,SAC,17,home,BadPass,steal,,turnover,,E. Turner,K. Koufos
+354,4,9:10.0,97,91,BOS,SAC,19,away,JS,,24,miss3,0,M. Belinelli,
+355,4,9:09.0,97,91,BOS,SAC,1,home,DefReb,,,DefReb,,T. Zeller,
+356,4,8:58.0,97,91,BOS,SAC,11,home,HS,,3,miss2,0,T. Zeller,
+357,4,8:57.0,97,91,BOS,SAC,1,away,DefReb,,,DefReb,,O. Casspi,
+358,4,8:50.0,97,91,BOS,SAC,7,away,LU,block,0,miss2,0,D. Collison,T. Zeller
+359,4,8:50.0,97,91,BOS,SAC,0,home,DefReb,,,DefReb,,E. Turner,
+360,4,8:50.0,97,91,BOS,SAC,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Koufos,E. Turner
+361,4,8:50.0,97,91,BOS,SAC,0,away,Timeout,,,,,,
+362,4,8:50.0,97,91,BOS,SAC,0,away,Sub,,,,,D. Cousins,K. Koufos
+363,4,8:50.0,97,91,BOS,SAC,0,home,Sub,,,,,J. Crowder,J. Jerebko
+364,4,8:28.0,100,91,BOS,SAC,22,home,JS,assist,24,make3,3,A. Bradley,E. Turner
+365,4,8:08.0,100,93,BOS,SAC,20,away,LU,,1,make2,2,O. Casspi,
+366,4,7:51.0,100,93,BOS,SAC,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,T. Zeller
+367,4,7:51.0,101,93,BOS,SAC,0,home,FreeThrow,,,make1,1,T. Zeller,
+368,4,7:51.0,101,93,BOS,SAC,0,away,Sub,,,,,R. Rondo,D. Collison
+369,4,7:51.0,102,93,BOS,SAC,0,home,FreeThrow,,,make1,1,T. Zeller,
+370,4,7:40.0,102,93,BOS,SAC,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Turner,D. Cousins
+371,4,7:34.0,102,93,BOS,SAC,6,away,JS,,16,miss2,0,M. Belinelli,
+372,4,7:33.0,102,93,BOS,SAC,1,away,OffReb,,,OffReb,,W. Cauley-Stein,
+373,4,7:31.0,102,93,BOS,SAC,2,away,JS,,28,miss3,0,O. Casspi,
+374,4,7:28.0,102,93,BOS,SAC,3,home,DefReb,,,DefReb,,T. Zeller,
+375,4,7:26.0,102,93,BOS,SAC,2,home,BadPass,steal,,turnover,,T. Zeller,M. Belinelli
+376,4,7:23.0,102,93,BOS,SAC,3,away,BadPass,,,turnover,,R. Rondo,
+377,4,7:08.0,104,93,BOS,SAC,15,home,JS,,5,make2,2,A. Bradley,
+378,4,6:56.0,104,95,BOS,SAC,12,away,DK,assist,0,make2,2,W. Cauley-Stein,R. Rondo
+379,4,6:33.0,107,95,BOS,SAC,23,home,JS,assist,24,make3,3,A. Bradley,E. Turner
+380,4,6:19.0,107,97,BOS,SAC,14,away,LU,assist,1,make2,2,D. Cousins,O. Casspi
+381,4,6:03.0,107,97,BOS,SAC,16,home,LU,,2,miss2,0,M. Smart,
+382,4,6:02.0,107,97,BOS,SAC,1,away,DefReb,,,DefReb,,W. Cauley-Stein,
+383,4,5:49.0,107,97,BOS,SAC,13,away,JS,,25,miss3,0,M. Belinelli,
+384,4,5:48.0,107,97,BOS,SAC,1,home,DefReb,,,DefReb,,J. Crowder,
+385,4,5:45.0,109,97,BOS,SAC,3,home,DK,assist,0,make2,2,E. Turner,J. Crowder
+386,4,5:45.0,109,97,BOS,SAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rondo,E. Turner
+387,4,5:45.0,109,97,BOS,SAC,0,home,Timeout,,,,,,
+388,4,5:45.0,109,97,BOS,SAC,0,home,Sub,,,,,I. Thomas,M. Smart
+389,4,5:45.0,109,97,BOS,SAC,0,away,Sub,,,,,D. Collison,O. Casspi
+390,4,5:45.0,110,97,BOS,SAC,0,home,FreeThrow,,,make1,1,E. Turner,
+391,4,5:26.0,110,97,BOS,SAC,19,away,LU,,1,miss2,0,R. Rondo,
+392,4,5:25.0,110,97,BOS,SAC,1,home,DefReb,,,DefReb,,J. Crowder,
+393,4,5:23.0,110,97,BOS,SAC,2,home,LostBall,,,turnover,,J. Crowder,
+394,4,5:16.0,110,97,BOS,SAC,7,away,JS,block,3,miss2,0,W. Cauley-Stein,E. Turner
+395,4,5:15.0,110,97,BOS,SAC,1,home,DefReb,,,DefReb,,E. Turner,
+396,4,4:53.0,110,97,BOS,SAC,22,home,JS,,7,miss2,0,E. Turner,
+397,4,4:52.0,110,97,BOS,SAC,1,away,DefReb,,,DefReb,,M. Belinelli,
+398,4,4:31.0,110,99,BOS,SAC,21,away,JS,,9,make2,2,D. Cousins,
+399,4,4:14.0,112,99,BOS,SAC,17,home,LU,assist,1,make2,2,T. Zeller,A. Bradley
+400,4,4:14.0,112,99,BOS,SAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,T. Zeller
+401,4,4:14.0,112,99,BOS,SAC,0,away,Sub,,,,,O. Casspi,W. Cauley-Stein
+402,4,4:14.0,113,99,BOS,SAC,0,home,FreeThrow,,,make1,1,T. Zeller,
+403,4,4:00.0,113,102,BOS,SAC,14,away,JS,assist,23,make3,3,D. Collison,D. Cousins
+404,4,3:38.0,113,102,BOS,SAC,22,home,JS,,13,miss2,0,E. Turner,
+405,4,3:37.0,113,102,BOS,SAC,1,away,DefReb,,,DefReb,,D. Collison,
+406,4,3:26.0,113,104,BOS,SAC,11,away,JS,assist,17,make2,2,M. Belinelli,R. Rondo
+407,4,3:04.0,113,104,BOS,SAC,22,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,T. Zeller
+408,4,3:04.0,114,104,BOS,SAC,0,home,FreeThrow,,,make1,1,T. Zeller,
+409,4,3:04.0,114,104,BOS,SAC,0,home,Sub,,,,,M. Smart,E. Turner
+410,4,3:04.0,115,104,BOS,SAC,0,home,FreeThrow,,,make1,1,T. Zeller,
+411,4,2:56.0,115,104,BOS,SAC,8,away,JS,,24,miss3,0,D. Cousins,
+412,4,2:54.0,115,104,BOS,SAC,2,home,DefReb,,,DefReb,,J. Crowder,
+413,4,2:53.0,115,104,BOS,SAC,1,home,Traveling,,,turnover,,J. Crowder,
+414,4,2:53.0,115,104,BOS,SAC,0,away,Timeout,,,,,,
+415,4,2:53.0,115,104,BOS,SAC,0,home,Sub,,,,,J. Sullinger,T. Zeller
+416,4,2:38.0,115,104,BOS,SAC,15,away,JS,,25,miss3,0,O. Casspi,
+417,4,2:37.0,115,104,BOS,SAC,1,away,OffReb,,,OffReb,,R. Rondo,
+418,4,2:32.0,115,107,BOS,SAC,5,away,JS,assist,24,make3,3,D. Cousins,M. Belinelli
+419,4,2:14.0,115,107,BOS,SAC,18,home,JS,,25,miss3,0,J. Crowder,
+420,4,2:13.0,115,107,BOS,SAC,1,away,DefReb,,,DefReb,,D. Cousins,
+421,4,2:02.0,115,109,BOS,SAC,11,away,JS,assist,18,make2,2,R. Rondo,D. Collison
+422,4,1:50.0,117,109,BOS,SAC,12,home,LU,assist,1,make2,2,I. Thomas,M. Smart
+423,4,1:40.0,117,112,BOS,SAC,10,away,JS,assist,24,make3,3,D. Cousins,R. Rondo
+424,4,1:22.0,120,112,BOS,SAC,18,home,JS,,25,make3,3,I. Thomas,
+425,4,1:13.0,120,112,BOS,SAC,9,away,JS,,25,miss3,0,D. Cousins,
+426,4,1:12.0,120,112,BOS,SAC,1,home,DefReb,,,DefReb,,M. Smart,
+427,4,1:08.0,122,112,BOS,SAC,4,home,LU,,2,make2,2,I. Thomas,
+428,4,0:50.0,122,115,BOS,SAC,18,away,JS,assist,23,make3,3,O. Casspi,M. Belinelli
+429,4,0:39.0,124,115,BOS,SAC,11,home,LU,assist,2,make2,2,J. Crowder,I. Thomas
+430,4,0:28.0,124,117,BOS,SAC,11,away,LU,,1,make2,2,D. Cousins,
+431,4,0:27.0,124,117,BOS,SAC,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Belinelli,I. Thomas
+432,4,0:27.0,125,117,BOS,SAC,0,home,FreeThrow,,,make1,1,I. Thomas,
+433,4,0:27.0,126,117,BOS,SAC,0,home,FreeThrow,,,make1,1,I. Thomas,
+434,4,0:27.0,126,117,BOS,SAC,0,away,Timeout,,,,,,
+435,4,0:27.0,126,117,BOS,SAC,0,home,Sub,,,,,E. Turner,J. Sullinger
+436,4,0:24.0,126,119,BOS,SAC,3,away,LU,assist,1,make2,2,D. Cousins,R. Rondo
+437,4,0:14.0,126,119,BOS,SAC,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,O. Casspi,E. Turner
+438,4,0:14.0,127,119,BOS,SAC,0,home,FreeThrow,,,make1,1,E. Turner,
+439,4,0:14.0,128,119,BOS,SAC,0,home,FreeThrow,,,make1,1,E. Turner,
+440,4,0:07.0,128,119,BOS,SAC,7,away,JS,,24,miss3,0,O. Casspi,
+441,4,0:06.0,128,119,BOS,SAC,1,home,DefReb,,,DefReb,,M. Smart,

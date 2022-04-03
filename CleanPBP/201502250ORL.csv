@@ -1,0 +1,512 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,0,0,ORL,MIA,15,home,JS,,6,miss2,0,T. Harris,
+1,1,11:44.0,0,0,ORL,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
+2,1,11:23.0,0,0,ORL,MIA,21,away,HS,,7,miss2,0,H. Whiteside,
+3,1,11:22.0,0,0,ORL,MIA,1,away,OffReb,,,OffReb,,L. Deng,
+4,1,11:20.0,0,2,ORL,MIA,2,away,LU,,1,make2,2,L. Deng,
+5,1,10:58.0,0,2,ORL,MIA,22,home,JS,,23,miss3,0,V. Oladipo,
+6,1,10:57.0,0,2,ORL,MIA,1,home,OffReb,,,OffReb,,C. Frye,
+7,1,10:57.0,0,2,ORL,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,U. Haslem,C. Frye
+8,1,10:57.0,1,2,ORL,MIA,0,home,FreeThrow,,,make1,1,C. Frye,
+9,1,10:57.0,2,2,ORL,MIA,0,home,FreeThrow,,,make1,1,C. Frye,
+10,1,10:42.0,2,4,ORL,MIA,15,away,HS,,6,make2,2,H. Whiteside,
+11,1,10:28.0,2,4,ORL,MIA,14,away,DefGoaltending,,,DefGoaltending,,H. Whiteside,
+12,1,10:28.0,4,4,ORL,MIA,0,home,LU,assist,1,make2,2,V. Oladipo,E. Payton
+13,1,10:12.0,4,4,ORL,MIA,16,away,LU,,1,miss2,0,D. Wade,
+14,1,10:10.0,4,4,ORL,MIA,2,home,DefReb,,,DefReb,,V. Oladipo,
+15,1,10:02.0,4,4,ORL,MIA,8,home,JS,,25,miss3,0,C. Frye,
+16,1,10:01.0,4,4,ORL,MIA,1,away,DefReb,,,DefReb,,L. Deng,
+17,1,9:54.0,4,6,ORL,MIA,7,away,JS,assist,17,make2,2,U. Haslem,G. Dragić
+18,1,9:38.0,7,6,ORL,MIA,16,home,JS,assist,25,make3,3,T. Harris,E. Payton
+19,1,9:10.0,7,6,ORL,MIA,28,away,JS,,27,miss3,0,G. Dragić,
+20,1,9:08.0,7,6,ORL,MIA,2,home,DefReb,,,DefReb,,V. Oladipo,
+21,1,8:58.0,9,6,ORL,MIA,10,home,DK,assist,0,make2,2,T. Harris,V. Oladipo
+22,1,8:44.0,9,8,ORL,MIA,14,away,JS,,14,make2,2,G. Dragić,
+23,1,8:29.0,9,8,ORL,MIA,15,home,JS,,6,miss2,0,E. Payton,
+24,1,8:27.0,9,8,ORL,MIA,2,home,OffReb,,,OffReb,,V. Oladipo,
+25,1,8:27.0,11,8,ORL,MIA,0,home,TI,,0,make2,2,V. Oladipo,
+26,1,8:07.0,11,8,ORL,MIA,20,away,JS,,17,miss2,0,U. Haslem,
+27,1,8:06.0,11,8,ORL,MIA,1,home,DefReb,,,DefReb,,N. Vučević,
+28,1,8:00.0,11,8,ORL,MIA,6,home,BadPass,,,turnover,,E. Payton,
+29,1,7:39.0,11,8,ORL,MIA,21,away,LU,,0,miss2,0,D. Wade,
+30,1,7:37.0,11,8,ORL,MIA,2,home,DefReb,,,DefReb,,V. Oladipo,
+31,1,7:33.0,11,8,ORL,MIA,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,H. Whiteside,N. Vučević
+32,1,7:22.0,11,8,ORL,MIA,11,home,JS,,12,miss2,0,N. Vučević,
+33,1,7:21.0,11,8,ORL,MIA,1,away,DefReb,,,DefReb,,U. Haslem,
+34,1,7:08.0,11,8,ORL,MIA,13,away,JS,,10,miss2,0,G. Dragić,
+35,1,7:07.0,11,8,ORL,MIA,1,away,OffReb,,,OffReb,,U. Haslem,
+36,1,7:04.0,11,8,ORL,MIA,3,away,LU,,0,miss2,0,G. Dragić,
+37,1,7:01.0,11,8,ORL,MIA,3,away,OffReb,,,OffReb,,H. Whiteside,
+38,1,6:55.0,11,8,ORL,MIA,6,away,HS,,10,miss2,0,H. Whiteside,
+39,1,6:53.0,11,8,ORL,MIA,2,home,DefReb,,,DefReb,,V. Oladipo,
+40,1,6:47.0,11,8,ORL,MIA,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dragić,E. Payton
+41,1,6:47.0,11,8,ORL,MIA,0,home,FreeThrow,,,make1,0,E. Payton,
+42,1,6:47.0,11,8,ORL,MIA,0,home,OffReb,,,OffReb,,Team,
+43,1,6:47.0,11,8,ORL,MIA,0,home,FreeThrow,,,make1,0,E. Payton,
+44,1,6:45.0,11,8,ORL,MIA,2,away,DefReb,,,DefReb,,H. Whiteside,
+45,1,6:27.0,11,8,ORL,MIA,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Harris,L. Deng
+46,1,6:18.0,11,8,ORL,MIA,9,away,JS,,17,miss2,0,L. Deng,
+47,1,6:17.0,11,8,ORL,MIA,1,away,OffReb,,,OffReb,,H. Whiteside,
+48,1,6:16.0,11,8,ORL,MIA,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Frye,H. Whiteside
+49,1,6:16.0,11,8,ORL,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside,
+50,1,6:16.0,11,8,ORL,MIA,0,away,OffReb,,,OffReb,,Team,
+51,1,6:16.0,11,8,ORL,MIA,0,away,Sub,,,,,H. Walker,U. Haslem
+52,1,6:16.0,11,9,ORL,MIA,0,away,FreeThrow,,,make1,1,H. Whiteside,
+53,1,5:57.0,11,9,ORL,MIA,19,home,JS,,9,miss2,0,N. Vučević,
+54,1,5:56.0,11,9,ORL,MIA,1,away,DefReb,,,DefReb,,H. Walker,
+55,1,5:50.0,11,11,ORL,MIA,6,away,DK,,0,make2,2,D. Wade,
+56,1,5:45.0,11,11,ORL,MIA,5,home,Timeout,,,,,,
+57,1,5:45.0,11,11,ORL,MIA,0,home,Sub,,,,,D. Dedmon,C. Frye
+58,1,5:27.0,11,11,ORL,MIA,18,home,BadPass,steal,,turnover,,N. Vučević,D. Wade
+59,1,5:15.0,11,11,ORL,MIA,12,away,JS,,16,miss2,0,D. Wade,
+60,1,5:14.0,11,11,ORL,MIA,1,home,DefReb,,,DefReb,,E. Payton,
+61,1,4:51.0,11,11,ORL,MIA,23,home,JS,,25,miss3,0,T. Harris,
+62,1,4:51.0,11,11,ORL,MIA,0,away,DefReb,,,DefReb,,Team,
+63,1,4:40.0,11,11,ORL,MIA,11,away,HS,,7,miss2,0,L. Deng,
+64,1,4:38.0,11,11,ORL,MIA,2,home,DefReb,,,DefReb,,T. Harris,
+65,1,4:28.0,13,11,ORL,MIA,10,home,JS,assist,19,make2,2,N. Vučević,E. Payton
+66,1,4:09.0,13,11,ORL,MIA,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,H. Walker
+67,1,4:09.0,13,12,ORL,MIA,0,away,FreeThrow,,,make1,1,H. Walker,
+68,1,4:09.0,13,12,ORL,MIA,0,away,Sub,,,,,M. Chalmers,D. Wade
+69,1,4:09.0,13,12,ORL,MIA,0,home,Sub,,,,,E. Fournier,T. Harris
+70,1,4:09.0,13,13,ORL,MIA,0,away,FreeThrow,,,make1,1,H. Walker,
+71,1,3:53.0,13,13,ORL,MIA,16,home,JS,,25,miss3,0,V. Oladipo,
+72,1,3:51.0,13,13,ORL,MIA,2,away,DefReb,,,DefReb,,H. Walker,
+73,1,3:40.0,13,13,ORL,MIA,11,away,JS,,25,miss3,0,H. Walker,
+74,1,3:39.0,13,13,ORL,MIA,1,home,DefReb,,,DefReb,,V. Oladipo,
+75,1,3:22.0,15,13,ORL,MIA,17,home,JS,assist,18,make2,2,N. Vučević,V. Oladipo
+76,1,3:00.0,15,13,ORL,MIA,22,away,JS,,26,miss3,0,G. Dragić,
+77,1,2:59.0,15,13,ORL,MIA,1,home,DefReb,,,DefReb,,Team,
+78,1,2:59.0,15,13,ORL,MIA,0,away,Timeout,,,,,,
+79,1,2:59.0,15,13,ORL,MIA,0,away,Sub,,,,,J. Ennis,L. Deng
+80,1,2:46.0,15,13,ORL,MIA,13,home,LU,,3,miss2,0,N. Vučević,
+81,1,2:44.0,15,13,ORL,MIA,2,home,OffReb,,,OffReb,,D. Dedmon,
+82,1,2:44.0,15,13,ORL,MIA,0,home,LU,,1,miss2,0,D. Dedmon,
+83,1,2:42.0,15,13,ORL,MIA,2,away,DefReb,,,DefReb,,G. Dragić,
+84,1,2:39.0,15,13,ORL,MIA,3,away,LostBall,steal,,turnover,,G. Dragić,E. Payton
+85,1,2:36.0,15,13,ORL,MIA,3,home,LU,,1,miss2,0,E. Payton,
+86,1,2:34.0,15,13,ORL,MIA,2,away,DefReb,,,DefReb,,H. Whiteside,
+87,1,2:27.0,15,13,ORL,MIA,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Payton,G. Dragić
+88,1,2:14.0,15,15,ORL,MIA,13,away,JS,,13,make2,2,H. Whiteside,
+89,1,1:57.0,15,15,ORL,MIA,17,home,BadPass,,,turnover,,E. Payton,
+90,1,1:57.0,15,15,ORL,MIA,0,away,Sub,,,,,C. Andersen,H. Whiteside
+91,1,1:57.0,15,15,ORL,MIA,0,home,Sub,,,,,W. Green,E. Payton
+92,1,1:33.0,15,15,ORL,MIA,24,away,JS,,27,miss3,0,M. Chalmers,
+93,1,1:32.0,15,15,ORL,MIA,1,home,DefReb,,,DefReb,,N. Vučević,
+94,1,1:19.0,15,15,ORL,MIA,13,home,BadPass,steal,,turnover,,N. Vučević,C. Andersen
+95,1,1:18.0,15,15,ORL,MIA,1,away,BadPass,,,turnover,,C. Andersen,
+96,1,1:18.0,15,15,ORL,MIA,0,away,Sub,,,,,S. Napier,G. Dragić
+97,1,1:18.0,15,15,ORL,MIA,0,home,Sub,,,,,A. Gordon,N. Vučević
+98,1,1:07.0,17,15,ORL,MIA,11,home,LU,assist,2,make2,2,A. Gordon,E. Fournier
+99,1,0:38.0,17,15,ORL,MIA,29,away,JS,,26,miss3,0,S. Napier,
+100,1,0:37.0,17,15,ORL,MIA,1,home,DefReb,,,DefReb,,D. Dedmon,
+101,1,0:27.0,17,15,ORL,MIA,10,home,BadPass,,,turnover,,E. Fournier,
+102,1,0:09.0,17,17,ORL,MIA,18,away,LU,,0,make2,2,M. Chalmers,
+103,1,0:01.0,17,17,ORL,MIA,8,home,LU,,1,miss2,0,V. Oladipo,
+104,1,0:00.0,17,17,ORL,MIA,1,home,OffReb,,,OffReb,,Team,
+105,2,11:43.0,17,17,ORL,MIA,17,away,BadPass,steal,,turnover,,M. Chalmers,A. Gordon
+106,2,11:25.0,17,17,ORL,MIA,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Walker,D. Dedmon
+107,2,11:25.0,17,17,ORL,MIA,0,home,FreeThrow,,,make1,0,D. Dedmon,
+108,2,11:25.0,17,17,ORL,MIA,0,home,OffReb,,,OffReb,,Team,
+109,2,11:25.0,17,17,ORL,MIA,0,home,FreeThrow,,,make1,0,D. Dedmon,
+110,2,11:24.0,17,17,ORL,MIA,1,away,DefReb,,,DefReb,,J. Ennis,
+111,2,11:00.0,17,17,ORL,MIA,24,away,JS,,18,miss2,0,C. Andersen,
+112,2,10:59.0,17,17,ORL,MIA,1,home,DefReb,,,DefReb,,W. Green,
+113,2,10:51.0,20,17,ORL,MIA,8,home,JS,,26,make3,3,E. Fournier,
+114,2,10:41.0,20,17,ORL,MIA,10,away,BadPass,,,turnover,,C. Andersen,
+115,2,10:35.0,20,17,ORL,MIA,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Napier,L. Ridnour
+116,2,10:35.0,20,17,ORL,MIA,0,away,Sub,,,,,L. Deng,J. Ennis
+117,2,10:25.0,22,17,ORL,MIA,10,home,LU,assist,1,make2,2,W. Green,A. Gordon
+118,2,10:09.0,22,17,ORL,MIA,16,away,JS,,26,miss3,0,H. Walker,
+119,2,10:08.0,22,17,ORL,MIA,1,home,DefReb,,,DefReb,,W. Green,
+120,2,9:52.0,22,17,ORL,MIA,16,away,KickBallViolation,,,KickBallViolation,,C. Andersen,
+121,2,9:49.0,25,17,ORL,MIA,3,home,JS,,26,make3,3,W. Green,
+122,2,9:46.0,25,17,ORL,MIA,3,away,Timeout,,,,,,
+123,2,9:39.0,25,17,ORL,MIA,7,away,LostBall,,,turnover,,S. Napier,
+124,2,9:30.0,27,17,ORL,MIA,9,home,LU,,1,make2,2,A. Gordon,
+125,2,9:13.0,27,17,ORL,MIA,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Ridnour,L. Deng
+126,2,9:13.0,27,18,ORL,MIA,0,away,FreeThrow,,,make1,1,L. Deng,
+127,2,9:13.0,27,18,ORL,MIA,0,away,Sub,,,,,G. Dragić,S. Napier
+128,2,9:13.0,27,19,ORL,MIA,0,away,FreeThrow,,,make1,1,L. Deng,
+129,2,8:54.0,29,19,ORL,MIA,19,home,JS,,7,make2,2,E. Fournier,
+130,2,8:28.0,29,19,ORL,MIA,26,away,JS,,25,miss3,0,M. Chalmers,
+131,2,8:26.0,29,19,ORL,MIA,2,home,DefReb,,,DefReb,,W. Green,
+132,2,8:21.0,29,19,ORL,MIA,5,home,JS,,23,miss3,0,E. Fournier,
+133,2,8:18.0,29,19,ORL,MIA,3,away,DefReb,,,DefReb,,L. Deng,
+134,2,8:14.0,29,19,ORL,MIA,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Green,G. Dragić
+135,2,8:14.0,29,19,ORL,MIA,0,away,Sub,,,,,D. Wade,M. Chalmers
+136,2,8:09.0,29,19,ORL,MIA,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Fournier,L. Deng
+137,2,7:56.0,29,19,ORL,MIA,13,away,JS,,22,miss2,0,D. Wade,
+138,2,7:54.0,29,19,ORL,MIA,2,home,DefReb,,,DefReb,,W. Green,
+139,2,7:42.0,29,19,ORL,MIA,12,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Gordon,H. Walker
+140,2,7:42.0,29,19,ORL,MIA,0,home,OffensiveFoul,,,turnover,,A. Gordon,
+141,2,7:42.0,29,19,ORL,MIA,0,away,Sub,,,,,M. Chalmers,H. Walker
+142,2,7:42.0,29,19,ORL,MIA,0,home,Sub,,,,,T. Harris,D. Dedmon
+143,2,7:42.0,29,19,ORL,MIA,0,home,Sub,,,,,N. Vučević,A. Gordon
+144,2,7:28.0,29,21,ORL,MIA,14,away,JS,assist,15,make2,2,L. Deng,D. Wade
+145,2,7:10.0,29,21,ORL,MIA,18,home,JS,,23,miss3,0,L. Ridnour,
+146,2,7:09.0,29,21,ORL,MIA,1,away,DefReb,,,DefReb,,C. Andersen,
+147,2,7:00.0,29,23,ORL,MIA,9,away,LU,assist,1,make2,2,C. Andersen,D. Wade
+148,2,6:57.0,29,23,ORL,MIA,3,home,Timeout,,,,,,
+149,2,6:57.0,29,23,ORL,MIA,0,home,Sub,,,,,E. Payton,E. Fournier
+150,2,6:57.0,29,23,ORL,MIA,0,home,Sub,,,,,V. Oladipo,L. Ridnour
+151,2,6:57.0,29,23,ORL,MIA,0,away,Sub,,,,,H. Whiteside,C. Andersen
+152,2,6:42.0,29,23,ORL,MIA,15,home,JS,,18,miss2,0,N. Vučević,
+153,2,6:41.0,29,23,ORL,MIA,1,away,DefReb,,,DefReb,,L. Deng,
+154,2,6:15.0,29,26,ORL,MIA,26,away,JS,,26,make3,3,M. Chalmers,
+155,2,5:48.0,29,26,ORL,MIA,27,home,JS,,17,miss2,0,V. Oladipo,
+156,2,5:47.0,29,26,ORL,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
+157,2,5:39.0,29,26,ORL,MIA,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Vučević,D. Wade
+158,2,5:30.0,29,28,ORL,MIA,9,away,JS,assist,19,make2,2,L. Deng,G. Dragić
+159,2,5:07.0,29,28,ORL,MIA,23,home,JS,,22,miss3,0,W. Green,
+160,2,5:06.0,29,28,ORL,MIA,1,away,DefReb,,,DefReb,,G. Dragić,
+161,2,4:59.0,29,28,ORL,MIA,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Harris,H. Whiteside
+162,2,4:59.0,29,29,ORL,MIA,0,away,FreeThrow,,,make1,1,H. Whiteside,
+163,2,4:59.0,29,29,ORL,MIA,0,home,Sub,,,,,A. Gordon,T. Harris
+164,2,4:59.0,29,30,ORL,MIA,0,away,FreeThrow,,,make1,1,H. Whiteside,
+165,2,4:38.0,29,30,ORL,MIA,21,home,JS,block,17,miss2,0,V. Oladipo,H. Whiteside
+166,2,4:36.0,29,30,ORL,MIA,2,home,OffReb,,,OffReb,,V. Oladipo,
+167,2,4:35.0,29,30,ORL,MIA,1,home,LU,,1,miss2,0,V. Oladipo,
+168,2,4:33.0,29,30,ORL,MIA,2,away,DefReb,,,DefReb,,H. Whiteside,
+169,2,4:21.0,29,30,ORL,MIA,12,away,JS,,19,miss2,0,L. Deng,
+170,2,4:19.0,29,30,ORL,MIA,2,home,DefReb,,,DefReb,,V. Oladipo,
+171,2,4:10.0,29,30,ORL,MIA,9,home,LU,,2,miss2,0,E. Payton,
+172,2,4:07.0,29,30,ORL,MIA,3,home,OffReb,,,OffReb,,E. Payton,
+173,2,4:07.0,29,30,ORL,MIA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Chalmers,E. Payton
+174,2,4:07.0,29,30,ORL,MIA,0,away,Sub,,,,,H. Walker,L. Deng
+175,2,4:07.0,29,30,ORL,MIA,0,home,Sub,,,,,E. Fournier,W. Green
+176,2,3:58.0,31,30,ORL,MIA,9,home,LU,assist,2,make2,2,A. Gordon,V. Oladipo
+177,2,3:36.0,31,30,ORL,MIA,22,away,JS,,23,miss3,0,M. Chalmers,
+178,2,3:36.0,31,30,ORL,MIA,0,home,DefReb,,,DefReb,,Team,
+179,2,3:15.0,31,30,ORL,MIA,21,home,PersonalFoul,DrawnBy,,PersonalFoul,,H. Walker,V. Oladipo
+180,2,3:15.0,32,30,ORL,MIA,0,home,FreeThrow,,,make1,1,V. Oladipo,
+181,2,3:15.0,33,30,ORL,MIA,0,home,FreeThrow,,,make1,1,V. Oladipo,
+182,2,3:08.0,33,32,ORL,MIA,7,away,JS,assist,4,make2,2,D. Wade,G. Dragić
+183,2,2:43.0,35,32,ORL,MIA,25,home,LU,,1,make2,2,E. Fournier,
+184,2,2:36.0,35,32,ORL,MIA,7,away,LU,,0,miss2,0,G. Dragić,
+185,2,2:36.0,35,32,ORL,MIA,0,away,OffReb,,,OffReb,,Team,
+186,2,2:36.0,35,32,ORL,MIA,0,away,Timeout,,,,,,
+187,2,2:17.0,35,32,ORL,MIA,19,away,LU,,0,miss2,0,H. Whiteside,
+188,2,2:16.0,35,32,ORL,MIA,1,home,DefReb,,,DefReb,,N. Vučević,
+189,2,2:05.0,35,32,ORL,MIA,11,home,JS,,11,miss2,0,N. Vučević,
+190,2,2:04.0,35,32,ORL,MIA,1,away,DefReb,,,DefReb,,D. Wade,
+191,2,1:56.0,35,32,ORL,MIA,8,away,JS,,18,miss2,0,D. Wade,
+192,2,1:54.0,35,32,ORL,MIA,2,away,OffReb,,,OffReb,,H. Whiteside,
+193,2,1:48.0,35,32,ORL,MIA,6,away,JS,,11,miss2,0,D. Wade,
+194,2,1:47.0,35,32,ORL,MIA,1,home,DefReb,,,DefReb,,A. Gordon,
+195,2,1:42.0,35,32,ORL,MIA,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Whiteside,A. Gordon
+196,2,1:42.0,35,32,ORL,MIA,0,home,FreeThrow,,,make1,0,A. Gordon,
+197,2,1:42.0,35,32,ORL,MIA,0,home,OffReb,,,OffReb,,Team,
+198,2,1:42.0,35,32,ORL,MIA,0,away,Sub,,,,,C. Andersen,H. Whiteside
+199,2,1:42.0,35,32,ORL,MIA,0,away,Sub,,,,,L. Deng,H. Walker
+200,2,1:42.0,35,32,ORL,MIA,0,home,FreeThrow,,,make1,0,A. Gordon,
+201,2,1:41.0,35,32,ORL,MIA,1,away,DefReb,,,DefReb,,C. Andersen,
+202,2,1:40.0,35,32,ORL,MIA,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Gordon,C. Andersen
+203,2,1:40.0,35,32,ORL,MIA,0,home,Sub,,,,,T. Harris,A. Gordon
+204,2,1:40.0,35,33,ORL,MIA,0,away,FreeThrow,,,make1,1,C. Andersen,
+205,2,1:40.0,35,34,ORL,MIA,0,away,FreeThrow,,,make1,1,C. Andersen,
+206,2,1:27.0,35,34,ORL,MIA,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dragić,E. Fournier
+207,2,1:27.0,36,34,ORL,MIA,0,home,FreeThrow,,,make1,1,E. Fournier,
+208,2,1:27.0,36,34,ORL,MIA,0,home,FreeThrow,,,make1,0,E. Fournier,
+209,2,1:26.0,36,34,ORL,MIA,1,away,DefReb,,,DefReb,,D. Wade,
+210,2,1:14.0,36,34,ORL,MIA,12,away,JS,,22,miss2,0,M. Chalmers,
+211,2,1:14.0,36,34,ORL,MIA,0,away,OffReb,,,OffReb,,Team,
+212,2,1:14.0,36,34,ORL,MIA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,E. Fournier,C. Andersen
+213,2,1:14.0,36,34,ORL,MIA,0,away,FreeThrow,,,make1,0,C. Andersen,
+214,2,1:14.0,36,34,ORL,MIA,0,away,OffReb,,,OffReb,,Team,
+215,2,1:14.0,36,34,ORL,MIA,0,away,FreeThrow,,,make1,0,C. Andersen,
+216,2,1:13.0,36,34,ORL,MIA,1,home,DefReb,,,DefReb,,T. Harris,
+217,2,1:01.0,36,34,ORL,MIA,12,home,JS,,4,miss2,0,N. Vučević,
+218,2,1:00.0,36,34,ORL,MIA,1,away,DefReb,,,DefReb,,Team,
+219,2,0:48.0,36,34,ORL,MIA,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,V. Oladipo,D. Wade
+220,2,0:48.0,36,35,ORL,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+221,2,0:48.0,36,35,ORL,MIA,0,away,Sub,,,,,S. Napier,G. Dragić
+222,2,0:48.0,36,36,ORL,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+223,2,0:38.0,38,36,ORL,MIA,10,home,LU,,2,make2,2,V. Oladipo,
+224,2,0:25.0,38,36,ORL,MIA,13,away,Timeout,,,,,,
+225,2,0:14.0,38,36,ORL,MIA,11,away,JS,,23,miss3,0,M. Chalmers,
+226,2,0:13.0,38,36,ORL,MIA,1,home,DefReb,,,DefReb,,N. Vučević,
+227,2,0:01.0,40,36,ORL,MIA,12,home,LU,assist,1,make2,2,N. Vučević,E. Payton
+228,3,11:42.0,40,36,ORL,MIA,18,away,JS,,22,miss2,0,L. Deng,
+229,3,11:40.0,40,36,ORL,MIA,2,home,DefReb,,,DefReb,,E. Payton,
+230,3,11:30.0,40,36,ORL,MIA,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dragić,E. Payton
+231,3,11:16.0,40,36,ORL,MIA,14,home,JS,,23,miss3,0,T. Harris,
+232,3,11:15.0,40,36,ORL,MIA,1,home,OffReb,,,OffReb,,T. Harris,
+233,3,11:04.0,40,36,ORL,MIA,11,home,LostBall,,,turnover,,V. Oladipo,
+234,3,10:39.0,40,38,ORL,MIA,25,away,JS,assist,18,make2,2,U. Haslem,G. Dragić
+235,3,10:23.0,42,38,ORL,MIA,16,home,JS,assist,18,make2,2,T. Harris,E. Payton
+236,3,10:08.0,42,38,ORL,MIA,15,away,BadPass,,,turnover,,D. Wade,
+237,3,9:56.0,44,38,ORL,MIA,12,home,JS,assist,16,make2,2,N. Vučević,E. Payton
+238,3,9:32.0,44,38,ORL,MIA,24,away,JS,,16,miss2,0,U. Haslem,
+239,3,9:28.0,44,38,ORL,MIA,4,away,OffReb,,,OffReb,,Team,
+240,3,9:13.0,44,38,ORL,MIA,15,away,JS,,26,miss3,0,D. Wade,
+241,3,9:12.0,44,38,ORL,MIA,1,home,DefReb,,,DefReb,,E. Payton,
+242,3,8:55.0,44,38,ORL,MIA,17,home,JS,,26,miss3,0,C. Frye,
+243,3,8:54.0,44,38,ORL,MIA,1,home,OffReb,,,OffReb,,T. Harris,
+244,3,8:53.0,44,38,ORL,MIA,1,home,BadPass,steal,,turnover,,T. Harris,G. Dragić
+245,3,8:53.0,44,38,ORL,MIA,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Frye,G. Dragić
+246,3,8:31.0,44,40,ORL,MIA,22,away,JS,assist,21,make2,2,L. Deng,G. Dragić
+247,3,8:23.0,46,40,ORL,MIA,8,home,LU,assist,1,make2,2,V. Oladipo,E. Payton
+248,3,8:09.0,46,40,ORL,MIA,14,away,3sec,,,turnover,,G. Dragić,
+249,3,7:55.0,46,40,ORL,MIA,14,away,ChargeFoul,DrawnBy,,ChargeFoul,,T. Harris,U. Haslem
+250,3,7:55.0,46,40,ORL,MIA,0,home,OffensiveFoul,,,turnover,,T. Harris,
+251,3,7:41.0,46,40,ORL,MIA,14,away,LostBall,steal,,turnover,,D. Wade,N. Vučević
+252,3,7:36.0,46,40,ORL,MIA,5,home,LU,,1,miss2,0,V. Oladipo,
+253,3,7:33.0,46,40,ORL,MIA,3,away,DefReb,,,DefReb,,G. Dragić,
+254,3,7:29.0,46,40,ORL,MIA,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,V. Oladipo,L. Deng
+255,3,7:29.0,46,40,ORL,MIA,0,away,FreeThrow,,,make1,0,L. Deng,
+256,3,7:29.0,46,40,ORL,MIA,0,away,OffReb,,,OffReb,,Team,
+257,3,7:29.0,46,41,ORL,MIA,0,away,FreeThrow,,,make1,1,L. Deng,
+258,3,7:17.0,46,41,ORL,MIA,12,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,U. Haslem,T. Harris
+259,3,7:06.0,46,41,ORL,MIA,11,home,JS,,15,miss2,0,N. Vučević,
+260,3,7:04.0,46,41,ORL,MIA,2,away,DefReb,,,DefReb,,L. Deng,
+261,3,6:53.0,46,41,ORL,MIA,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Frye,L. Deng
+262,3,6:53.0,46,42,ORL,MIA,0,away,FreeThrow,,,make1,1,L. Deng,
+263,3,6:53.0,46,42,ORL,MIA,0,home,Sub,,,,,E. Fournier,T. Harris
+264,3,6:53.0,46,42,ORL,MIA,0,away,FreeThrow,,,make1,0,L. Deng,
+265,3,6:51.0,46,42,ORL,MIA,2,home,DefReb,,,DefReb,,C. Frye,
+266,3,6:40.0,49,42,ORL,MIA,11,home,JS,assist,26,make3,3,C. Frye,E. Payton
+267,3,6:24.0,49,42,ORL,MIA,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Fournier,L. Deng
+268,3,6:14.0,49,42,ORL,MIA,10,away,LU,,2,miss2,0,L. Deng,
+269,3,6:13.0,49,42,ORL,MIA,1,home,DefReb,,,DefReb,,E. Payton,
+270,3,6:09.0,49,42,ORL,MIA,4,home,LU,block,0,miss2,0,E. Payton,U. Haslem
+271,3,6:07.0,49,42,ORL,MIA,2,home,OffReb,,,OffReb,,N. Vučević,
+272,3,6:02.0,49,42,ORL,MIA,5,away,DefGoaltending,,,DefGoaltending,,H. Whiteside,
+273,3,6:02.0,51,42,ORL,MIA,0,home,LU,assist,1,make2,2,E. Payton,V. Oladipo
+274,3,6:02.0,51,42,ORL,MIA,0,away,Timeout,,,,,,
+275,3,6:02.0,51,42,ORL,MIA,0,away,Sub,,,,,H. Walker,U. Haslem
+276,3,5:44.0,51,42,ORL,MIA,18,away,JS,,25,miss3,0,H. Walker,
+277,3,5:41.0,51,42,ORL,MIA,3,away,OffReb,,,OffReb,,H. Whiteside,
+278,3,5:37.0,51,44,ORL,MIA,4,away,HS,,6,make2,2,H. Whiteside,
+279,3,5:22.0,51,44,ORL,MIA,15,home,BadPass,steal,,turnover,,V. Oladipo,D. Wade
+280,3,5:18.0,51,46,ORL,MIA,4,away,LU,assist,0,make2,2,G. Dragić,D. Wade
+281,3,4:53.0,51,46,ORL,MIA,25,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Whiteside,N. Vučević
+282,3,4:53.0,52,46,ORL,MIA,0,home,FreeThrow,,,make1,1,N. Vučević,
+283,3,4:53.0,53,46,ORL,MIA,0,home,FreeThrow,,,make1,1,N. Vučević,
+284,3,4:39.0,53,46,ORL,MIA,14,away,LostBall,,,turnover,,D. Wade,
+285,3,4:26.0,53,46,ORL,MIA,13,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Frye,D. Wade
+286,3,4:26.0,53,46,ORL,MIA,0,home,OffensiveFoul,,,turnover,,C. Frye,
+287,3,4:26.0,53,46,ORL,MIA,0,home,Sub,,,,,T. Harris,C. Frye
+288,3,4:14.0,53,48,ORL,MIA,12,away,LU,assist,0,make2,2,H. Whiteside,H. Walker
+289,3,4:03.0,53,48,ORL,MIA,11,home,BadPass,,,turnover,,E. Payton,
+290,3,4:03.0,53,48,ORL,MIA,0,away,Sub,,,,,M. Chalmers,D. Wade
+291,3,3:50.0,53,48,ORL,MIA,13,away,JS,,24,miss3,0,G. Dragić,
+292,3,3:47.0,53,48,ORL,MIA,3,home,DefReb,,,DefReb,,V. Oladipo,
+293,3,3:36.0,55,48,ORL,MIA,11,home,JS,assist,4,make2,2,N. Vučević,E. Fournier
+294,3,3:36.0,55,48,ORL,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Walker,N. Vučević
+295,3,3:36.0,55,48,ORL,MIA,0,home,FreeThrow,,,make1,0,N. Vučević,
+296,3,3:35.0,55,48,ORL,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
+297,3,3:13.0,55,50,ORL,MIA,22,away,LU,assist,0,make2,2,L. Deng,H. Walker
+298,3,2:53.0,58,50,ORL,MIA,20,home,JS,assist,25,make3,3,T. Harris,E. Payton
+299,3,2:33.0,58,50,ORL,MIA,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,H. Whiteside
+300,3,2:33.0,58,50,ORL,MIA,0,home,Timeout,,,,,,
+301,3,2:33.0,58,50,ORL,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside,
+302,3,2:33.0,58,50,ORL,MIA,0,away,OffReb,,,OffReb,,Team,
+303,3,2:33.0,58,51,ORL,MIA,0,away,FreeThrow,,,make1,1,H. Whiteside,
+304,3,2:19.0,60,51,ORL,MIA,14,home,HS,,10,make2,2,N. Vučević,
+305,3,2:04.0,60,53,ORL,MIA,15,away,LU,,1,make2,2,L. Deng,
+306,3,1:50.0,60,53,ORL,MIA,14,away,KickBallViolation,,,KickBallViolation,,G. Dragić,
+307,3,1:50.0,60,53,ORL,MIA,0,home,Sub,,,,,W. Green,V. Oladipo
+308,3,1:44.0,60,53,ORL,MIA,6,home,Traveling,,,turnover,,E. Fournier,
+309,3,1:32.0,60,53,ORL,MIA,12,away,D3SecTech,,,,,,
+310,3,1:32.0,60,54,ORL,MIA,0,away,FreeThrow,,,make1,1,M. Chalmers makes technical free throw,
+311,3,1:32.0,60,54,ORL,MIA,0,away,Sub,,,,,S. Napier,G. Dragić
+312,3,1:22.0,60,57,ORL,MIA,10,away,JS,assist,22,make3,3,L. Deng,M. Chalmers
+313,3,1:05.0,60,57,ORL,MIA,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Whiteside,E. Payton
+314,3,1:05.0,61,57,ORL,MIA,0,home,FreeThrow,,,make1,1,E. Payton,
+315,3,1:05.0,61,57,ORL,MIA,0,away,Sub,,,,,C. Andersen,H. Whiteside
+316,3,1:05.0,61,57,ORL,MIA,0,home,Sub,,,,,D. Dedmon,N. Vučević
+317,3,1:05.0,61,57,ORL,MIA,0,home,FreeThrow,,,make1,0,E. Payton,
+318,3,1:02.0,61,57,ORL,MIA,3,away,DefReb,,,DefReb,,C. Andersen,
+319,3,0:46.0,61,57,ORL,MIA,16,away,JS,,3,miss2,0,H. Walker,
+320,3,0:43.0,61,57,ORL,MIA,3,home,DefReb,,,DefReb,,D. Dedmon,
+321,3,0:41.0,61,57,ORL,MIA,2,home,BadPass,steal,,turnover,,D. Dedmon,H. Walker
+322,3,0:40.0,61,59,ORL,MIA,1,away,DK,,0,make2,2,H. Walker,
+323,3,0:32.0,61,59,ORL,MIA,8,home,JS,,20,miss2,0,E. Payton,
+324,3,0:30.0,61,59,ORL,MIA,2,away,DefReb,,,DefReb,,Team,
+325,3,0:30.0,61,59,ORL,MIA,0,home,Sub,,,,,L. Ridnour,E. Payton
+326,3,0:10.0,61,61,ORL,MIA,20,away,LU,assist,0,make2,2,L. Deng,C. Andersen
+327,3,0:03.0,61,61,ORL,MIA,7,home,JS,,26,miss3,0,T. Harris,
+328,3,0:01.0,61,61,ORL,MIA,2,away,DefReb,,,DefReb,,C. Andersen,
+329,3,0:00.0,61,61,ORL,MIA,1,away,JS,,56,miss3,0,C. Andersen,
+330,3,0:00.0,61,61,ORL,MIA,0,away,OffReb,,,OffReb,,Team,
+331,4,11:38.0,61,61,ORL,MIA,22,home,JS,,24,miss3,0,T. Harris,
+332,4,11:36.0,61,61,ORL,MIA,2,home,OffReb,,,OffReb,,Team,
+333,4,11:36.0,61,61,ORL,MIA,0,home,ShotClockViolation,,,turnover,,Team,
+334,4,11:13.0,61,61,ORL,MIA,23,away,JS,block,27,miss3,0,M. Chalmers,T. Harris
+335,4,11:10.0,61,61,ORL,MIA,3,home,DefReb,,,DefReb,,D. Dedmon,
+336,4,10:57.0,61,61,ORL,MIA,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Napier,D. Dedmon
+337,4,10:57.0,62,61,ORL,MIA,0,home,FreeThrow,,,make1,1,D. Dedmon,
+338,4,10:57.0,62,61,ORL,MIA,0,home,FreeThrow,,,make1,0,D. Dedmon,
+339,4,10:56.0,62,61,ORL,MIA,1,away,DefReb,,,DefReb,,H. Walker,
+340,4,10:36.0,62,61,ORL,MIA,20,away,JS,,26,miss3,0,H. Walker,
+341,4,10:35.0,62,61,ORL,MIA,1,away,OffReb,,,OffReb,,S. Napier,
+342,4,10:18.0,62,61,ORL,MIA,17,away,JS,,25,miss3,0,H. Walker,
+343,4,10:16.0,62,61,ORL,MIA,2,home,DefReb,,,DefReb,,T. Harris,
+344,4,9:57.0,62,61,ORL,MIA,19,home,JS,block,7,miss2,0,T. Harris,C. Andersen
+345,4,9:55.0,62,61,ORL,MIA,2,home,OffReb,,,OffReb,,E. Fournier,
+346,4,9:52.0,62,61,ORL,MIA,3,home,JS,,28,miss3,0,E. Fournier,
+347,4,9:50.0,62,61,ORL,MIA,2,away,DefReb,,,DefReb,,C. Andersen,
+348,4,9:46.0,62,61,ORL,MIA,4,away,Timeout,,,,,,
+349,4,9:46.0,62,61,ORL,MIA,0,away,Sub,,,,,D. Wade,L. Deng
+350,4,9:33.0,62,64,ORL,MIA,13,away,JS,assist,26,make3,3,S. Napier,D. Wade
+351,4,9:08.0,62,64,ORL,MIA,25,home,JS,,26,miss3,0,W. Green,
+352,4,9:06.0,62,64,ORL,MIA,2,home,OffReb,,,OffReb,,D. Dedmon,
+353,4,9:06.0,64,64,ORL,MIA,0,home,LU,,1,make2,2,D. Dedmon,
+354,4,8:45.0,64,64,ORL,MIA,21,away,JS,,12,miss2,0,D. Wade,
+355,4,8:43.0,64,64,ORL,MIA,2,home,DefReb,,,DefReb,,T. Harris,
+356,4,8:36.0,66,64,ORL,MIA,7,home,JS,,18,make2,2,W. Green,
+357,4,8:14.0,66,64,ORL,MIA,22,home,ChargeFoul,DrawnBy,,ChargeFoul,,S. Napier,W. Green
+358,4,8:14.0,66,64,ORL,MIA,0,away,OffensiveFoul,,,turnover,,S. Napier,
+359,4,8:14.0,66,64,ORL,MIA,0,away,Timeout,,,,,,
+360,4,8:14.0,66,64,ORL,MIA,0,home,Sub,,,,,V. Oladipo,L. Ridnour
+361,4,7:59.0,68,64,ORL,MIA,15,home,JS,,17,make2,2,E. Fournier,
+362,4,7:36.0,68,66,ORL,MIA,23,away,JS,,19,make2,2,S. Napier,
+363,4,7:15.0,68,66,ORL,MIA,21,home,JS,,23,miss3,0,W. Green,
+364,4,7:14.0,68,66,ORL,MIA,1,away,DefReb,,,DefReb,,H. Walker,
+365,4,6:54.0,68,66,ORL,MIA,20,away,LostBall,steal,,turnover,,C. Andersen,T. Harris
+366,4,6:36.0,68,66,ORL,MIA,18,home,BadPass,steal,,turnover,,V. Oladipo,D. Wade
+367,4,6:26.0,68,66,ORL,MIA,10,away,JS,,18,miss2,0,D. Wade,
+368,4,6:25.0,68,66,ORL,MIA,1,home,DefReb,,,DefReb,,V. Oladipo,
+369,4,6:24.0,68,66,ORL,MIA,1,home,Timeout,,,,,,
+370,4,6:24.0,68,66,ORL,MIA,0,away,Sub,,,,,G. Dragić,C. Andersen
+371,4,6:24.0,68,66,ORL,MIA,0,away,Sub,,,,,H. Whiteside,S. Napier
+372,4,6:24.0,68,66,ORL,MIA,0,home,Sub,,,,,N. Vučević,D. Dedmon
+373,4,6:24.0,68,66,ORL,MIA,0,home,Sub,,,,,E. Payton,E. Fournier
+374,4,6:08.0,68,66,ORL,MIA,16,home,JS,block,5,miss2,0,E. Payton,H. Whiteside
+375,4,6:04.0,68,66,ORL,MIA,4,away,DefReb,,,DefReb,,H. Walker,
+376,4,5:48.0,68,66,ORL,MIA,16,away,JS,,26,miss3,0,H. Walker,
+377,4,5:46.0,68,66,ORL,MIA,2,home,DefReb,,,DefReb,,T. Harris,
+378,4,5:46.0,68,66,ORL,MIA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dragić,T. Harris
+379,4,5:37.0,71,66,ORL,MIA,9,home,JS,,25,make3,3,W. Green,
+380,4,5:12.0,71,69,ORL,MIA,25,away,JS,,25,make3,3,D. Wade,
+381,4,4:57.0,73,69,ORL,MIA,15,home,JS,assist,16,make2,2,N. Vučević,W. Green
+382,4,4:32.0,73,71,ORL,MIA,25,away,JS,,9,make2,2,D. Wade,
+383,4,4:08.0,73,71,ORL,MIA,24,home,HS,,9,miss2,0,N. Vučević,
+384,4,4:07.0,73,71,ORL,MIA,1,away,DefReb,,,DefReb,,M. Chalmers,
+385,4,3:56.0,73,71,ORL,MIA,11,away,JS,,25,miss3,0,H. Walker,
+386,4,3:55.0,73,71,ORL,MIA,1,home,DefReb,,,DefReb,,V. Oladipo,
+387,4,3:33.0,73,71,ORL,MIA,22,home,JS,,18,miss2,0,T. Harris,
+388,4,3:33.0,73,71,ORL,MIA,0,away,DefReb,,,DefReb,,Team,
+389,4,3:33.0,73,71,ORL,MIA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,N. Vučević,H. Whiteside
+390,4,3:33.0,73,71,ORL,MIA,0,away,Sub,,,,,L. Deng,H. Walker
+391,4,3:33.0,73,71,ORL,MIA,0,away,Timeout,,,,,,
+392,4,3:19.0,73,71,ORL,MIA,14,away,JS,,14,miss2,0,D. Wade,
+393,4,3:17.0,73,71,ORL,MIA,2,away,OffReb,,,OffReb,,G. Dragić,
+394,4,3:13.0,73,71,ORL,MIA,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Green,H. Whiteside
+395,4,3:13.0,73,72,ORL,MIA,0,away,FreeThrow,,,make1,1,H. Whiteside,
+396,4,3:13.0,73,72,ORL,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside,
+397,4,3:11.0,73,72,ORL,MIA,2,away,OffReb,,,OffReb,,Team,
+398,4,2:50.0,73,72,ORL,MIA,21,away,JS,,26,miss3,0,M. Chalmers,
+399,4,2:48.0,73,72,ORL,MIA,2,home,DefReb,,,DefReb,,W. Green,
+400,4,2:37.0,73,72,ORL,MIA,11,home,JS,,5,miss2,0,V. Oladipo,
+401,4,2:33.0,73,72,ORL,MIA,4,home,OffReb,,,OffReb,,N. Vučević,
+402,4,2:33.0,75,72,ORL,MIA,0,home,TI,,1,make2,2,N. Vučević,
+403,4,2:21.0,75,74,ORL,MIA,12,away,LU,,1,make2,2,G. Dragić,
+404,4,2:04.0,75,74,ORL,MIA,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Wade,V. Oladipo
+405,4,2:04.0,76,74,ORL,MIA,0,home,FreeThrow,,,make1,1,V. Oladipo,
+406,4,2:04.0,77,74,ORL,MIA,0,home,FreeThrow,,,make1,1,V. Oladipo,
+407,4,1:39.0,77,74,ORL,MIA,25,away,ShotClockViolation,,,turnover,,Team,
+408,4,1:28.0,77,74,ORL,MIA,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Deng,T. Harris
+409,4,1:28.0,78,74,ORL,MIA,0,home,FreeThrow,,,make1,1,T. Harris,
+410,4,1:28.0,79,74,ORL,MIA,0,home,FreeThrow,,,make1,1,T. Harris,
+411,4,1:12.0,79,74,ORL,MIA,16,away,JS,,23,miss3,0,D. Wade,
+412,4,1:11.0,79,74,ORL,MIA,1,home,DefReb,,,DefReb,,V. Oladipo,
+413,4,0:50.0,79,74,ORL,MIA,21,home,JS,,18,miss2,0,W. Green,
+414,4,0:48.0,79,74,ORL,MIA,2,home,OffReb,,,OffReb,,W. Green,
+415,4,0:48.0,81,74,ORL,MIA,0,home,LU,,2,make2,2,W. Green,
+416,4,0:48.0,81,74,ORL,MIA,0,away,Timeout,,,,,,
+417,4,0:48.0,81,74,ORL,MIA,0,away,Sub,,,,,H. Walker,H. Whiteside
+418,4,0:44.0,81,74,ORL,MIA,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Green,D. Wade
+419,4,0:44.0,81,75,ORL,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+420,4,0:44.0,81,75,ORL,MIA,0,home,Sub,,,,,D. Dedmon,E. Payton
+421,4,0:44.0,81,75,ORL,MIA,0,away,FreeThrow,,,make1,0,D. Wade,
+422,4,0:44.0,81,75,ORL,MIA,0,home,DefReb,,,DefReb,,D. Dedmon,
+423,4,0:44.0,81,75,ORL,MIA,0,home,Timeout,,,,,,
+424,4,0:44.0,81,75,ORL,MIA,0,home,Sub,,,,,E. Fournier,D. Dedmon
+425,4,0:42.0,81,75,ORL,MIA,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Chalmers,N. Vučević
+426,4,0:42.0,82,75,ORL,MIA,0,home,FreeThrow,,,make1,1,N. Vučević,
+427,4,0:42.0,82,75,ORL,MIA,0,away,Sub,,,,,H. Whiteside,H. Walker
+428,4,0:42.0,82,75,ORL,MIA,0,home,Sub,,,,,E. Payton,E. Fournier
+429,4,0:42.0,83,75,ORL,MIA,0,home,FreeThrow,,,make1,1,N. Vučević,
+430,4,0:42.0,83,75,ORL,MIA,0,away,Timeout,,,,,,
+431,4,0:42.0,83,75,ORL,MIA,0,away,Sub,,,,,H. Walker,H. Whiteside
+432,4,0:37.0,83,75,ORL,MIA,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Green,M. Chalmers
+433,4,0:37.0,83,75,ORL,MIA,0,home,Sub,,,,,D. Dedmon,E. Payton
+434,4,0:37.0,83,75,ORL,MIA,0,away,FreeThrow,,,make1,0,M. Chalmers,
+435,4,0:37.0,83,75,ORL,MIA,0,away,OffReb,,,OffReb,,Team,
+436,4,0:37.0,83,76,ORL,MIA,0,away,FreeThrow,,,make1,1,M. Chalmers,
+437,4,0:37.0,83,77,ORL,MIA,0,away,FreeThrow,,,make1,1,M. Chalmers,
+438,4,0:37.0,83,77,ORL,MIA,0,home,Timeout,,,,,,
+439,4,0:37.0,83,77,ORL,MIA,0,home,Sub,,,,,E. Fournier,D. Dedmon
+440,4,0:37.0,83,77,ORL,MIA,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,L. Deng,N. Vučević
+441,4,0:37.0,83,77,ORL,MIA,0,home,FreeThrow,,,make1,0,N. Vučević,
+442,4,0:37.0,83,77,ORL,MIA,0,home,OffReb,,,OffReb,,Team,
+443,4,0:37.0,83,77,ORL,MIA,0,home,Sub,,,,,E. Payton,E. Fournier
+444,4,0:37.0,84,77,ORL,MIA,0,home,FreeThrow,,,make1,1,N. Vučević,
+445,4,0:30.0,84,79,ORL,MIA,7,away,JS,,6,make2,2,D. Wade,
+446,4,0:25.0,84,79,ORL,MIA,5,home,LostBall,,,turnover,,N. Vučević,
+447,4,0:22.0,84,82,ORL,MIA,3,away,JS,assist,25,make3,3,H. Walker,L. Deng
+448,4,0:22.0,84,82,ORL,MIA,0,home,Timeout,,,,,,
+449,4,0:22.0,84,82,ORL,MIA,0,home,Sub,,,,,E. Fournier,E. Payton
+450,4,0:22.0,84,82,ORL,MIA,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Chalmers,V. Oladipo
+451,4,0:22.0,84,82,ORL,MIA,0,home,FreeThrow,,,make1,0,V. Oladipo,
+452,4,0:22.0,84,82,ORL,MIA,0,home,OffReb,,,OffReb,,Team,
+453,4,0:22.0,84,82,ORL,MIA,0,home,Sub,,,,,E. Payton,E. Fournier
+454,4,0:22.0,85,82,ORL,MIA,0,home,FreeThrow,,,make1,1,V. Oladipo,
+455,4,0:02.0,85,85,ORL,MIA,20,away,JS,assist,26,make3,3,H. Walker,D. Wade
+456,4,0:02.0,85,85,ORL,MIA,0,home,BadPass,steal,,turnover,,V. Oladipo,L. Deng
+457,1OT,4:51.0,85,85,ORL,MIA,429,away,JS,,27,miss3,0,M. Chalmers,
+458,1OT,4:48.0,85,85,ORL,MIA,3,away,OffReb,,,OffReb,,Team,
+459,1OT,4:43.0,85,85,ORL,MIA,5,away,ShotClockViolation,,,turnover,,Team,
+460,1OT,4:37.0,85,85,ORL,MIA,6,home,LU,,2,miss2,0,N. Vučević,
+461,1OT,4:36.0,85,85,ORL,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
+462,1OT,4:08.0,85,85,ORL,MIA,28,away,JS,,25,miss3,0,L. Deng,
+463,1OT,4:08.0,85,85,ORL,MIA,0,home,DefReb,,,DefReb,,V. Oladipo,
+464,1OT,3:48.0,85,85,ORL,MIA,20,home,LU,block,2,miss2,0,E. Payton,H. Whiteside
+465,1OT,3:44.0,85,85,ORL,MIA,4,away,DefReb,,,DefReb,,L. Deng,
+466,1OT,3:29.0,85,85,ORL,MIA,15,away,LU,,0,miss2,0,G. Dragić,
+467,1OT,3:27.0,85,85,ORL,MIA,2,away,OffReb,,,OffReb,,Team,
+468,1OT,3:26.0,85,85,ORL,MIA,1,away,Sub,,,,,D. Wade,M. Chalmers
+469,1OT,3:26.0,85,85,ORL,MIA,0,away,JS,,20,miss2,0,D. Wade,
+470,1OT,3:21.0,85,85,ORL,MIA,5,away,OffReb,,,OffReb,,Team,
+471,1OT,3:17.0,85,85,ORL,MIA,4,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,V. Oladipo,H. Whiteside
+472,1OT,3:15.0,85,85,ORL,MIA,2,away,JS,,25,miss3,0,H. Walker,
+473,1OT,3:11.0,85,85,ORL,MIA,4,home,DefReb,,,DefReb,,N. Vučević,
+474,1OT,3:11.0,85,85,ORL,MIA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,H. Whiteside,N. Vučević
+475,1OT,2:59.0,85,85,ORL,MIA,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Wade,N. Vučević
+476,1OT,2:59.0,85,85,ORL,MIA,0,home,FreeThrow,,,make1,0,N. Vučević,
+477,1OT,2:59.0,85,85,ORL,MIA,0,home,OffReb,,,OffReb,,Team,
+478,1OT,2:59.0,86,85,ORL,MIA,0,home,FreeThrow,,,make1,1,N. Vučević,
+479,1OT,2:49.0,86,87,ORL,MIA,10,away,DK,assist,0,make2,2,H. Whiteside,D. Wade
+480,1OT,2:33.0,86,87,ORL,MIA,16,home,JS,,23,miss3,0,W. Green,
+481,1OT,2:32.0,86,87,ORL,MIA,1,away,DefReb,,,DefReb,,L. Deng,
+482,1OT,2:25.0,86,89,ORL,MIA,7,away,LU,assist,1,make2,2,D. Wade,L. Deng
+483,1OT,2:25.0,86,89,ORL,MIA,0,home,Timeout,,,,,,
+484,1OT,2:09.0,88,89,ORL,MIA,16,home,HS,,4,make2,2,N. Vučević,
+485,1OT,1:45.0,88,89,ORL,MIA,24,away,JS,,25,miss3,0,H. Walker,
+486,1OT,1:44.0,88,89,ORL,MIA,1,home,DefReb,,,DefReb,,N. Vučević,
+487,1OT,1:29.0,88,89,ORL,MIA,15,home,JS,,18,miss2,0,N. Vučević,
+488,1OT,1:29.0,88,89,ORL,MIA,0,away,DefReb,,,DefReb,,H. Whiteside,
+489,1OT,1:08.0,88,89,ORL,MIA,21,away,BadPass,,,turnover,,D. Wade,
+490,1OT,0:53.0,88,89,ORL,MIA,15,home,HS,,6,miss2,0,N. Vučević,
+491,1OT,0:51.0,88,89,ORL,MIA,2,away,DefReb,,,DefReb,,H. Whiteside,
+492,1OT,0:39.0,88,89,ORL,MIA,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Payton,G. Dragić
+493,1OT,0:30.0,88,89,ORL,MIA,9,away,JS,,26,miss3,0,D. Wade,
+494,1OT,0:28.0,88,89,ORL,MIA,2,home,DefReb,,,DefReb,,T. Harris,
+495,1OT,0:28.0,88,89,ORL,MIA,0,home,Timeout,,,,,,
+496,1OT,0:28.0,88,89,ORL,MIA,0,home,Sub,,,,,E. Fournier,E. Payton
+497,1OT,0:19.0,88,89,ORL,MIA,9,home,LostBall,steal,,turnover,,N. Vučević,H. Walker
+498,1OT,0:17.0,88,89,ORL,MIA,2,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,W. Green,D. Wade
+499,1OT,0:17.0,88,90,ORL,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+500,1OT,0:17.0,88,91,ORL,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+501,1OT,0:17.0,88,91,ORL,MIA,0,home,Timeout,,,,,,
+502,1OT,0:17.0,88,91,ORL,MIA,0,away,Sub,,,,,U. Haslem,H. Whiteside
+503,1OT,0:17.0,88,91,ORL,MIA,0,home,Sub,,,,,D. Dedmon,T. Harris
+504,1OT,0:11.0,90,91,ORL,MIA,6,home,LU,,1,make2,2,N. Vučević,
+505,1OT,0:07.0,90,91,ORL,MIA,4,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,N. Vučević,G. Dragić
+506,1OT,0:07.0,90,92,ORL,MIA,0,away,FreeThrow,,,make1,1,G. Dragić,
+507,1OT,0:07.0,90,92,ORL,MIA,0,home,Sub,,,,,T. Harris,D. Dedmon
+508,1OT,0:07.0,90,93,ORL,MIA,0,away,FreeThrow,,,make1,1,G. Dragić,
+509,1OT,0:02.0,90,93,ORL,MIA,5,home,JS,,26,miss3,0,V. Oladipo,
+510,1OT,0:01.0,90,93,ORL,MIA,1,away,DefReb,,,DefReb,,H. Walker,

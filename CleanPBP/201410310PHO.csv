@@ -1,0 +1,446 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,12:00.0,0,0,PHO,SAS,0,home,DelayOfGame,,,DelayOfGame,,Team,
+1,1,11:46.0,0,2,PHO,SAS,14,away,JS,,18,make2,2,T. Parker,
+2,1,11:29.0,2,2,PHO,SAS,17,home,JS,,12,make2,2,M. Morris,
+3,1,11:13.0,2,4,PHO,SAS,16,away,LU,,1,make2,2,T. Parker,
+4,1,10:52.0,2,4,PHO,SAS,21,home,LU,,2,miss2,0,M. Morris,
+5,1,10:50.0,2,4,PHO,SAS,2,away,DefReb,,,DefReb,,T. Duncan,
+6,1,10:37.0,2,4,PHO,SAS,13,away,BadPass,steal,,turnover,,T. Parker,M. Morris
+7,1,10:26.0,2,4,PHO,SAS,11,home,JS,,14,miss2,0,M. Plumlee,
+8,1,10:24.0,2,4,PHO,SAS,2,away,DefReb,,,DefReb,,K. Leonard,
+9,1,10:19.0,2,4,PHO,SAS,5,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,M. Morris,K. Leonard
+10,1,10:19.0,2,5,PHO,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+11,1,10:19.0,2,6,PHO,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+12,1,10:07.0,2,6,PHO,SAS,12,home,JS,block,4,miss2,0,E. Bledsoe,D. Green
+13,1,10:05.0,2,6,PHO,SAS,2,away,DefReb,,,DefReb,,D. Green,
+14,1,9:51.0,2,6,PHO,SAS,14,away,JS,,24,miss3,0,D. Green,
+15,1,9:49.0,2,6,PHO,SAS,2,home,DefReb,,,DefReb,,M. Morris,
+16,1,9:34.0,2,6,PHO,SAS,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Parker,E. Bledsoe
+17,1,9:32.0,4,6,PHO,SAS,2,home,JS,assist,18,make2,2,G. Dragić,M. Morris
+18,1,9:15.0,4,6,PHO,SAS,17,away,Traveling,,,turnover,,K. Leonard,
+19,1,9:15.0,4,6,PHO,SAS,0,away,DelayOfGame,,,DelayOfGame,,Team,
+20,1,9:02.0,4,6,PHO,SAS,13,home,JS,,15,miss2,0,G. Dragić,
+21,1,9:01.0,4,6,PHO,SAS,1,away,DefReb,,,DefReb,,T. Parker,
+22,1,9:01.0,4,6,PHO,SAS,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dragić,T. Parker
+23,1,8:46.0,4,6,PHO,SAS,15,away,JS,block,16,miss2,0,K. Leonard,M. Morris
+24,1,8:44.0,4,6,PHO,SAS,2,away,OffReb,,,OffReb,,K. Leonard,
+25,1,8:43.0,4,6,PHO,SAS,1,away,JS,block,10,miss2,0,K. Leonard,M. Plumlee
+26,1,8:40.0,4,6,PHO,SAS,3,home,DefReb,,,DefReb,,G. Dragić,
+27,1,8:23.0,6,6,PHO,SAS,17,home,HS,,7,make2,2,M. Plumlee,
+28,1,7:59.0,6,6,PHO,SAS,24,away,Traveling,,,turnover,,T. Duncan,
+29,1,7:44.0,6,6,PHO,SAS,15,home,JS,,14,miss2,0,M. Morris,
+30,1,7:41.0,6,6,PHO,SAS,3,away,DefReb,,,DefReb,,K. Leonard,
+31,1,7:34.0,6,8,PHO,SAS,7,away,JS,assist,18,make2,2,T. Duncan,K. Leonard
+32,1,7:25.0,6,8,PHO,SAS,9,home,JS,,20,miss2,0,E. Bledsoe,
+33,1,7:23.0,6,8,PHO,SAS,2,home,OffReb,,,OffReb,,M. Morris,
+34,1,7:19.0,6,8,PHO,SAS,4,home,JS,,25,miss3,0,M. Morris,
+35,1,7:17.0,6,8,PHO,SAS,2,home,OffReb,,,OffReb,,M. Plumlee,
+36,1,7:07.0,6,8,PHO,SAS,10,home,BadPass,steal,,turnover,,E. Bledsoe,A. Daye
+37,1,6:52.0,6,8,PHO,SAS,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,T. Duncan
+38,1,6:52.0,6,9,PHO,SAS,0,away,FreeThrow,,,make1,1,T. Duncan,
+39,1,6:52.0,6,10,PHO,SAS,0,away,FreeThrow,,,make1,1,T. Duncan,
+40,1,6:34.0,6,10,PHO,SAS,18,home,3sec,,,turnover,,M. Plumlee,
+41,1,6:22.0,6,10,PHO,SAS,12,away,JS,,18,miss2,0,T. Parker,
+42,1,6:20.0,6,10,PHO,SAS,2,home,DefReb,,,DefReb,,M. Plumlee,
+43,1,6:15.0,6,10,PHO,SAS,5,home,JS,,18,miss2,0,E. Bledsoe,
+44,1,6:12.0,6,10,PHO,SAS,3,away,DefReb,,,DefReb,,A. Daye,
+45,1,6:09.0,6,12,PHO,SAS,3,away,LU,assist,1,make2,2,T. Parker,A. Daye
+46,1,5:58.0,8,12,PHO,SAS,11,home,LU,,1,make2,2,G. Dragić,
+47,1,5:42.0,8,12,PHO,SAS,16,away,JS,,24,miss3,0,A. Daye,
+48,1,5:41.0,8,12,PHO,SAS,1,home,DefReb,,,DefReb,,G. Dragić,
+49,1,5:30.0,8,12,PHO,SAS,11,home,HS,,9,miss2,0,M. Plumlee,
+50,1,5:28.0,8,12,PHO,SAS,2,away,DefReb,,,DefReb,,K. Leonard,
+51,1,5:20.0,8,12,PHO,SAS,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,K. Leonard
+52,1,5:20.0,8,12,PHO,SAS,0,home,Timeout,,,,,,
+53,1,5:20.0,8,12,PHO,SAS,0,home,Sub,,,,,A. Len,M. Morris
+54,1,5:20.0,8,12,PHO,SAS,0,home,Sub,,,,,A. Tolliver,M. Plumlee
+55,1,5:20.0,8,12,PHO,SAS,0,away,Sub,,,,,M. Ginóbili,D. Green
+56,1,5:20.0,8,13,PHO,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+57,1,5:20.0,8,13,PHO,SAS,0,away,Sub,,,,,B. Diaw,A. Daye
+58,1,5:20.0,8,14,PHO,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+59,1,4:58.0,8,14,PHO,SAS,22,home,JS,,22,miss3,0,M. Morris,
+60,1,4:56.0,8,14,PHO,SAS,2,away,DefReb,,,DefReb,,T. Parker,
+61,1,4:43.0,8,14,PHO,SAS,13,away,JS,,23,miss3,0,M. Ginóbili,
+62,1,4:42.0,8,14,PHO,SAS,1,home,DefReb,,,DefReb,,A. Tolliver,
+63,1,4:37.0,8,14,PHO,SAS,5,home,LU,,1,miss2,0,E. Bledsoe,
+64,1,4:34.0,8,14,PHO,SAS,3,away,DefReb,,,DefReb,,T. Duncan,
+65,1,4:19.0,8,14,PHO,SAS,15,away,JS,,16,miss2,0,T. Duncan,
+66,1,4:17.0,8,14,PHO,SAS,2,home,DefReb,,,DefReb,,A. Tolliver,
+67,1,4:05.0,8,14,PHO,SAS,12,home,JS,,24,miss3,0,E. Bledsoe,
+68,1,4:03.0,8,14,PHO,SAS,2,home,OffReb,,,OffReb,,G. Dragić,
+69,1,3:59.0,8,14,PHO,SAS,4,home,LostBall,,,turnover,,G. Dragić,
+70,1,3:59.0,8,14,PHO,SAS,0,away,Sub,,,,,A. Baynes,T. Duncan
+71,1,3:59.0,8,14,PHO,SAS,0,home,Sub,,,,,I. Thomas,E. Bledsoe
+72,1,3:37.0,8,16,PHO,SAS,22,away,JS,assist,20,make2,2,B. Diaw,T. Parker
+73,1,3:24.0,8,16,PHO,SAS,13,home,JS,,14,miss2,0,M. Morris,
+74,1,3:22.0,8,16,PHO,SAS,2,away,DefReb,,,DefReb,,B. Diaw,
+75,1,3:10.0,8,18,PHO,SAS,12,away,LU,assist,2,make2,2,A. Baynes,T. Parker
+76,1,3:01.0,8,18,PHO,SAS,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Diaw,I. Thomas
+77,1,3:01.0,8,18,PHO,SAS,0,away,Sub,,,,,M. Belinelli,K. Leonard
+78,1,2:53.0,8,18,PHO,SAS,8,home,JS,,26,miss3,0,A. Tolliver,
+79,1,2:51.0,8,18,PHO,SAS,2,away,DefReb,,,DefReb,,A. Baynes,
+80,1,2:45.0,8,18,PHO,SAS,6,away,DiscontinueDribbleTurnover,,,turnover,,T. Parker,
+81,1,2:45.0,8,18,PHO,SAS,0,away,Timeout,,,,,,
+82,1,2:45.0,8,18,PHO,SAS,0,home,Sub,,,,,G. Green,M. Morris
+83,1,2:37.0,8,18,PHO,SAS,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Baynes,A. Tolliver
+84,1,2:37.0,8,18,PHO,SAS,0,away,Sub,,,,,C. Joseph,T. Parker
+85,1,2:25.0,8,18,PHO,SAS,12,home,JS,,12,miss2,0,G. Dragić,
+86,1,2:23.0,8,18,PHO,SAS,2,away,DefReb,,,DefReb,,M. Belinelli,
+87,1,2:11.0,8,18,PHO,SAS,12,away,JS,,3,miss2,0,M. Belinelli,
+88,1,2:09.0,8,18,PHO,SAS,2,home,DefReb,,,DefReb,,A. Len,
+89,1,2:03.0,8,18,PHO,SAS,6,home,LostBall,steal,,turnover,,I. Thomas,M. Belinelli
+90,1,2:03.0,8,18,PHO,SAS,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,M. Belinelli
+91,1,2:03.0,8,18,PHO,SAS,0,away,FreeThrow,,,make1,0,M. Belinelli,
+92,1,2:03.0,8,18,PHO,SAS,0,away,OffReb,,,OffReb,,Team,
+93,1,2:03.0,8,19,PHO,SAS,0,away,FreeThrow,,,make1,1,M. Belinelli,
+94,1,1:47.0,8,19,PHO,SAS,16,home,JS,,16,miss2,0,G. Green,
+95,1,1:45.0,8,19,PHO,SAS,2,away,DefReb,,,DefReb,,C. Joseph,
+96,1,1:29.0,8,19,PHO,SAS,16,away,JS,,7,miss2,0,B. Diaw,
+97,1,1:28.0,8,19,PHO,SAS,1,away,OffReb,,,OffReb,,A. Baynes,
+98,1,1:28.0,8,21,PHO,SAS,0,away,TI,,1,make2,2,A. Baynes,
+99,1,1:16.0,8,21,PHO,SAS,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Joseph,I. Thomas
+100,1,1:16.0,9,21,PHO,SAS,0,home,FreeThrow,,,make1,1,I. Thomas,
+101,1,1:16.0,9,21,PHO,SAS,0,home,FreeThrow,,,make1,0,I. Thomas,
+102,1,1:15.0,9,21,PHO,SAS,1,away,DefReb,,,DefReb,,B. Diaw,
+103,1,0:59.0,9,21,PHO,SAS,16,away,JS,,25,miss3,0,B. Diaw,
+104,1,0:58.0,9,21,PHO,SAS,1,home,DefReb,,,DefReb,,Team,
+105,1,0:47.0,9,21,PHO,SAS,11,home,JS,,8,miss2,0,I. Thomas,
+106,1,0:45.0,9,21,PHO,SAS,2,away,DefReb,,,DefReb,,M. Ginóbili,
+107,1,0:38.0,9,21,PHO,SAS,7,away,JS,,23,miss3,0,C. Joseph,
+108,1,0:36.0,9,21,PHO,SAS,2,away,OffReb,,,OffReb,,B. Diaw,
+109,1,0:20.0,9,24,PHO,SAS,16,away,JS,assist,22,make3,3,B. Diaw,M. Ginóbili
+110,1,0:03.0,9,24,PHO,SAS,17,home,LU,,1,miss2,0,G. Dragić,
+111,1,0:02.0,9,24,PHO,SAS,1,home,OffReb,,,OffReb,,A. Len,
+112,1,0:02.0,11,24,PHO,SAS,0,home,LU,,2,make2,2,A. Len,
+113,1,0:00.0,11,24,PHO,SAS,2,away,JS,,46,miss3,0,C. Joseph,
+114,1,0:00.0,11,24,PHO,SAS,0,away,OffReb,,,OffReb,,Team,
+115,2,11:42.0,11,24,PHO,SAS,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Belinelli,G. Green
+116,2,11:42.0,11,24,PHO,SAS,0,home,FreeThrow,,,make1,0,G. Green,
+117,2,11:42.0,11,24,PHO,SAS,0,home,OffReb,,,OffReb,,Team,
+118,2,11:42.0,12,24,PHO,SAS,0,home,FreeThrow,,,make1,1,G. Green,
+119,2,11:28.0,12,24,PHO,SAS,14,away,JS,,3,miss2,0,A. Baynes,
+120,2,11:24.0,12,24,PHO,SAS,4,home,DefReb,,,DefReb,,E. Bledsoe,
+121,2,11:22.0,12,24,PHO,SAS,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Diaw,A. Tolliver
+122,2,11:22.0,13,24,PHO,SAS,0,home,FreeThrow,,,make1,1,A. Tolliver,
+123,2,11:22.0,13,24,PHO,SAS,0,away,Sub,,,,,J. Ayres,A. Baynes
+124,2,11:22.0,13,24,PHO,SAS,0,home,FreeThrow,,,make1,0,A. Tolliver,
+125,2,11:20.0,13,24,PHO,SAS,2,away,DefReb,,,DefReb,,J. Ayres,
+126,2,11:09.0,13,24,PHO,SAS,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Bledsoe,J. Ayres
+127,2,11:03.0,13,24,PHO,SAS,6,away,JS,block,16,miss2,0,M. Ginóbili,A. Len
+128,2,11:01.0,13,24,PHO,SAS,2,home,DefReb,,,DefReb,,E. Bledsoe,
+129,2,10:56.0,13,24,PHO,SAS,5,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,C. Joseph,E. Bledsoe
+130,2,10:56.0,14,24,PHO,SAS,0,home,FreeThrow,,,make1,1,E. Bledsoe,
+131,2,10:56.0,15,24,PHO,SAS,0,home,FreeThrow,,,make1,1,E. Bledsoe,
+132,2,10:36.0,15,24,PHO,SAS,20,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,C. Joseph
+133,2,10:24.0,15,24,PHO,SAS,12,away,JS,,11,miss2,0,C. Joseph,
+134,2,10:22.0,15,24,PHO,SAS,2,home,DefReb,,,DefReb,,G. Green,
+135,2,10:14.0,15,24,PHO,SAS,8,home,JS,,24,miss3,0,G. Green,
+136,2,10:11.0,15,24,PHO,SAS,3,away,DefReb,,,DefReb,,C. Joseph,
+137,2,9:53.0,15,24,PHO,SAS,18,away,JS,,24,miss3,0,B. Diaw,
+138,2,9:51.0,15,24,PHO,SAS,2,home,DefReb,,,DefReb,,G. Green,
+139,2,9:45.0,15,24,PHO,SAS,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Joseph,I. Thomas
+140,2,9:40.0,17,24,PHO,SAS,5,home,DK,assist,0,make2,2,A. Len,I. Thomas
+141,2,9:40.0,17,24,PHO,SAS,0,away,Timeout,,,,,,
+142,2,9:17.0,17,26,PHO,SAS,23,away,LU,,1,make2,2,C. Joseph,
+143,2,9:01.0,17,26,PHO,SAS,16,away,Sub,,,,,T. Parker,C. Joseph
+144,2,9:01.0,17,26,PHO,SAS,0,away,Sub,,,,,D. Green,M. Ginóbili
+145,2,8:55.0,19,26,PHO,SAS,6,home,LU,,1,make2,2,I. Thomas,
+146,2,8:35.0,19,26,PHO,SAS,20,away,Traveling,,,turnover,,T. Parker,
+147,2,8:35.0,19,26,PHO,SAS,0,home,Sub,,,,,M. Morris,A. Tolliver
+148,2,8:21.0,22,26,PHO,SAS,14,home,JS,assist,25,make3,3,E. Bledsoe,I. Thomas
+149,2,8:06.0,22,26,PHO,SAS,15,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Ayres,I. Thomas
+150,2,8:06.0,22,26,PHO,SAS,0,away,OffensiveFoul,,,turnover,,J. Ayres,
+151,2,7:49.0,22,26,PHO,SAS,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ayres,A. Len
+152,2,7:49.0,23,26,PHO,SAS,0,home,FreeThrow,,,make1,1,A. Len,
+153,2,7:49.0,23,26,PHO,SAS,0,away,Sub,,,,,A. Daye,B. Diaw
+154,2,7:49.0,24,26,PHO,SAS,0,home,FreeThrow,,,make1,1,A. Len,
+155,2,7:35.0,24,28,PHO,SAS,14,away,LU,assist,2,make2,2,J. Ayres,T. Parker
+156,2,7:19.0,24,28,PHO,SAS,16,home,JS,,3,miss2,0,M. Morris,
+157,2,7:16.0,24,28,PHO,SAS,3,away,DefReb,,,DefReb,,J. Ayres,
+158,2,7:11.0,24,30,PHO,SAS,5,away,JS,,6,make2,2,T. Parker,
+159,2,7:00.0,26,30,PHO,SAS,11,home,JS,,13,make2,2,I. Thomas,
+160,2,6:43.0,26,30,PHO,SAS,17,away,JS,,13,miss2,0,T. Parker,
+161,2,6:42.0,26,30,PHO,SAS,1,home,DefReb,,,DefReb,,E. Bledsoe,
+162,2,6:26.0,28,30,PHO,SAS,16,home,LU,,1,make2,2,M. Morris,
+163,2,6:15.0,28,30,PHO,SAS,11,away,JS,block,3,miss2,0,D. Green,M. Morris
+164,2,6:12.0,28,30,PHO,SAS,3,home,DefReb,,,DefReb,,M. Morris,
+165,2,6:09.0,30,30,PHO,SAS,3,home,DK,assist,0,make2,2,A. Len,E. Bledsoe
+166,2,5:53.0,30,30,PHO,SAS,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Green,M. Belinelli
+167,2,5:53.0,30,30,PHO,SAS,0,away,Timeout,,,,,,
+168,2,5:53.0,30,30,PHO,SAS,0,home,Sub,,,,,G. Dragić,A. Len
+169,2,5:53.0,30,30,PHO,SAS,0,home,Sub,,,,,M. Plumlee,G. Green
+170,2,5:53.0,30,30,PHO,SAS,0,away,Sub,,,,,T. Duncan,D. Green
+171,2,5:53.0,30,30,PHO,SAS,0,away,Sub,,,,,K. Leonard,J. Ayres
+172,2,5:39.0,30,33,PHO,SAS,14,away,JS,assist,23,make3,3,T. Parker,M. Belinelli
+173,2,5:12.0,30,33,PHO,SAS,27,home,JS,,13,miss2,0,M. Morris,
+174,2,5:09.0,30,33,PHO,SAS,3,away,DefReb,,,DefReb,,T. Duncan,
+175,2,5:02.0,30,33,PHO,SAS,7,away,JS,,14,miss2,0,K. Leonard,
+176,2,5:01.0,30,33,PHO,SAS,1,away,OffReb,,,OffReb,,Team,
+177,2,5:01.0,30,33,PHO,SAS,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Morris,T. Duncan
+178,2,5:01.0,30,33,PHO,SAS,0,away,Sub,,,,,M. Ginóbili,M. Belinelli
+179,2,4:57.0,30,33,PHO,SAS,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Plumlee,T. Parker
+180,2,4:57.0,30,34,PHO,SAS,0,away,FreeThrow,,,make1,1,T. Parker,
+181,2,4:57.0,30,34,PHO,SAS,0,home,Sub,,,,,A. Len,M. Plumlee
+182,2,4:57.0,30,34,PHO,SAS,0,away,FreeThrow,,,make1,0,T. Parker,
+183,2,4:57.0,30,34,PHO,SAS,0,away,OffReb,,,OffReb,,T. Duncan,
+184,2,4:45.0,30,36,PHO,SAS,12,away,JS,assist,5,make2,2,T. Duncan,A. Daye
+185,2,4:31.0,30,36,PHO,SAS,14,home,JS,,15,miss2,0,I. Thomas,
+186,2,4:28.0,30,36,PHO,SAS,3,away,DefReb,,,DefReb,,M. Ginóbili,
+187,2,4:19.0,30,38,PHO,SAS,9,away,LU,assist,2,make2,2,T. Duncan,T. Parker
+188,2,4:06.0,30,38,PHO,SAS,13,home,LU,,2,miss2,0,E. Bledsoe,
+189,2,4:06.0,30,38,PHO,SAS,0,home,OffReb,,,OffReb,,A. Len,
+190,2,4:06.0,32,38,PHO,SAS,0,home,LU,,0,make2,2,A. Len,
+191,2,4:06.0,32,38,PHO,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Daye,A. Len
+192,2,4:06.0,32,38,PHO,SAS,0,home,FreeThrow,,,make1,0,A. Len,
+193,2,4:05.0,32,38,PHO,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+194,2,3:43.0,32,38,PHO,SAS,22,away,JS,,25,miss3,0,A. Daye,
+195,2,3:40.0,32,38,PHO,SAS,3,home,DefReb,,,DefReb,,Team,
+196,2,3:40.0,32,38,PHO,SAS,0,home,Sub,,,,,M. Morris,I. Thomas
+197,2,3:29.0,34,38,PHO,SAS,11,home,JS,assist,17,make2,2,M. Morris,E. Bledsoe
+198,2,3:13.0,34,38,PHO,SAS,16,away,Traveling,,,turnover,,A. Daye,
+199,2,3:00.0,34,38,PHO,SAS,13,home,LU,,1,miss2,0,E. Bledsoe,
+200,2,2:57.0,34,38,PHO,SAS,3,away,DefReb,,,DefReb,,T. Duncan,
+201,2,2:49.0,34,40,PHO,SAS,8,away,JS,,18,make2,2,T. Parker,
+202,2,2:32.0,34,40,PHO,SAS,17,home,JS,,14,miss2,0,A. Len,
+203,2,2:30.0,34,40,PHO,SAS,2,home,OffReb,,,OffReb,,Team,
+204,2,2:30.0,34,40,PHO,SAS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Daye,M. Morris
+205,2,2:30.0,34,40,PHO,SAS,0,home,Timeout,,,,,,
+206,2,2:30.0,35,40,PHO,SAS,0,home,FreeThrow,,,make1,1,M. Morris,
+207,2,2:30.0,36,40,PHO,SAS,0,home,FreeThrow,,,make1,1,M. Morris,
+208,2,2:16.0,36,40,PHO,SAS,14,away,JS,,25,miss3,0,A. Daye,
+209,2,2:14.0,36,40,PHO,SAS,2,home,DefReb,,,DefReb,,E. Bledsoe,
+210,2,2:00.0,36,40,PHO,SAS,14,home,LostBall,steal,,turnover,,G. Dragić,A. Daye
+211,2,2:00.0,36,40,PHO,SAS,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Len,T. Duncan
+212,2,2:00.0,36,41,PHO,SAS,0,away,FreeThrow,,,make1,1,T. Duncan,
+213,2,2:00.0,36,42,PHO,SAS,0,away,FreeThrow,,,make1,1,T. Duncan,
+214,2,1:38.0,36,42,PHO,SAS,22,home,JS,,3,miss2,0,M. Morris,
+215,2,1:35.0,36,42,PHO,SAS,3,home,OffReb,,,OffReb,,M. Morris,
+216,2,1:35.0,36,42,PHO,SAS,0,home,LU,,2,miss2,0,M. Morris,
+217,2,1:33.0,36,42,PHO,SAS,2,away,DefReb,,,DefReb,,K. Leonard,
+218,2,1:12.0,36,45,PHO,SAS,21,away,JS,assist,24,make3,3,A. Daye,T. Duncan
+219,2,0:50.0,36,45,PHO,SAS,22,home,JS,,11,miss2,0,E. Bledsoe,
+220,2,0:47.0,36,45,PHO,SAS,3,away,DefReb,,,DefReb,,K. Leonard,
+221,2,0:31.0,36,45,PHO,SAS,16,away,JS,,25,miss3,0,K. Leonard,
+222,2,0:29.0,36,45,PHO,SAS,2,home,DefReb,,,DefReb,,M. Morris,
+223,2,0:13.0,36,45,PHO,SAS,16,home,JS,,25,miss3,0,G. Dragić,
+224,2,0:10.0,36,45,PHO,SAS,3,away,DefReb,,,DefReb,,A. Daye,
+225,2,0:02.0,36,45,PHO,SAS,8,away,LU,,1,miss2,0,T. Parker,
+226,2,0:01.0,36,45,PHO,SAS,1,home,DefReb,,,DefReb,,E. Bledsoe,
+227,3,11:39.0,36,45,PHO,SAS,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Daye,M. Morris
+228,3,11:39.0,37,45,PHO,SAS,0,home,FreeThrow,,,make1,1,M. Morris,
+229,3,11:39.0,38,45,PHO,SAS,0,home,FreeThrow,,,make1,1,M. Morris,
+230,3,11:21.0,38,45,PHO,SAS,18,away,JS,,24,miss3,0,D. Green,
+231,3,11:19.0,38,45,PHO,SAS,2,home,DefReb,,,DefReb,,M. Morris,
+232,3,11:13.0,38,45,PHO,SAS,6,home,JS,,25,miss3,0,M. Morris,
+233,3,11:12.0,38,45,PHO,SAS,1,away,DefReb,,,DefReb,,Team,
+234,3,10:59.0,38,47,PHO,SAS,13,away,JS,assist,8,make2,2,T. Duncan,T. Parker
+235,3,10:43.0,38,47,PHO,SAS,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Daye,G. Dragić
+236,3,10:43.0,39,47,PHO,SAS,0,home,FreeThrow,,,make1,1,G. Dragić,
+237,3,10:43.0,40,47,PHO,SAS,0,home,FreeThrow,,,make1,1,G. Dragić,
+238,3,10:26.0,40,47,PHO,SAS,17,away,JS,,24,miss3,0,A. Daye,
+239,3,10:24.0,40,47,PHO,SAS,2,home,DefReb,,,DefReb,,M. Plumlee,
+240,3,10:10.0,40,47,PHO,SAS,14,home,JS,block,3,miss2,0,M. Plumlee,D. Green
+241,3,10:10.0,40,47,PHO,SAS,0,home,OffReb,,,OffReb,,Team,
+242,3,10:07.0,42,47,PHO,SAS,3,home,JS,assist,12,make2,2,M. Morris,M. Morris
+243,3,9:54.0,42,47,PHO,SAS,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Bledsoe,T. Parker
+244,3,9:44.0,42,47,PHO,SAS,10,away,OffensiveFoul,,,turnover,,D. Green,
+245,3,9:44.0,42,47,PHO,SAS,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Green,G. Dragić
+246,3,9:27.0,42,47,PHO,SAS,17,home,HS,,4,miss2,0,M. Plumlee,
+247,3,9:24.0,42,47,PHO,SAS,3,away,DefReb,,,DefReb,,T. Duncan,
+248,3,9:20.0,42,47,PHO,SAS,4,away,LU,,1,miss2,0,A. Daye,
+249,3,9:20.0,42,47,PHO,SAS,0,away,OffReb,,,OffReb,,Team,
+250,3,9:20.0,42,47,PHO,SAS,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Morris,T. Duncan
+251,3,9:20.0,42,47,PHO,SAS,0,away,Sub,,,,,B. Diaw,A. Daye
+252,3,9:11.0,42,47,PHO,SAS,9,away,JS,,15,miss2,0,T. Parker,
+253,3,9:09.0,42,47,PHO,SAS,2,home,DefReb,,,DefReb,,M. Plumlee,
+254,3,9:05.0,42,47,PHO,SAS,4,home,JS,,4,miss2,0,E. Bledsoe,
+255,3,9:01.0,42,47,PHO,SAS,4,away,DefReb,,,DefReb,,D. Green,
+256,3,8:59.0,42,47,PHO,SAS,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,K. Leonard
+257,3,8:59.0,42,48,PHO,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+258,3,8:59.0,42,49,PHO,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+259,3,8:45.0,44,49,PHO,SAS,14,home,JS,assist,5,make2,2,M. Morris,M. Morris
+260,3,8:33.0,44,52,PHO,SAS,12,away,JS,assist,24,make3,3,D. Green,T. Parker
+261,3,8:18.0,46,52,PHO,SAS,15,home,LU,assist,1,make2,2,G. Dragić,M. Plumlee
+262,3,7:59.0,46,54,PHO,SAS,19,away,LU,,1,make2,2,T. Parker,
+263,3,7:42.0,46,54,PHO,SAS,17,home,JS,,17,miss2,0,M. Morris,
+264,3,7:41.0,46,54,PHO,SAS,1,home,OffReb,,,OffReb,,E. Bledsoe,
+265,3,7:41.0,48,54,PHO,SAS,0,home,DK,,0,make2,2,E. Bledsoe,
+266,3,7:41.0,48,54,PHO,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,E. Bledsoe
+267,3,7:41.0,48,54,PHO,SAS,0,away,LaneViolation,,,LaneViolation,,T. Parker,
+268,3,7:41.0,49,54,PHO,SAS,0,home,FreeThrow,,,make1,1,E. Bledsoe,
+269,3,7:28.0,49,54,PHO,SAS,13,away,JS,,9,miss2,0,T. Parker,
+270,3,7:26.0,49,54,PHO,SAS,2,home,DefReb,,,DefReb,,M. Morris,
+271,3,7:21.0,51,54,PHO,SAS,5,home,JS,,11,make2,2,M. Morris,
+272,3,7:19.0,51,54,PHO,SAS,2,away,Timeout,,,,,,
+273,3,6:54.0,51,56,PHO,SAS,25,away,JS,assist,12,make2,2,B. Diaw,T. Duncan
+274,3,6:35.0,51,56,PHO,SAS,19,home,JS,,19,miss2,0,M. Morris,
+275,3,6:33.0,51,56,PHO,SAS,2,away,DefReb,,,DefReb,,K. Leonard,
+276,3,6:21.0,51,56,PHO,SAS,12,away,JS,,17,miss2,0,K. Leonard,
+277,3,6:19.0,51,56,PHO,SAS,2,home,DefReb,,,DefReb,,M. Morris,
+278,3,6:07.0,51,56,PHO,SAS,12,home,LU,,1,miss2,0,E. Bledsoe,
+279,3,6:05.0,51,56,PHO,SAS,2,away,DefReb,,,DefReb,,D. Green,
+280,3,6:00.0,51,56,PHO,SAS,5,away,LU,,0,miss2,0,T. Duncan,
+281,3,5:58.0,51,56,PHO,SAS,2,home,DefReb,,,DefReb,,M. Morris,
+282,3,5:54.0,53,56,PHO,SAS,4,home,LU,assist,0,make2,2,M. Plumlee,M. Morris
+283,3,5:30.0,53,58,PHO,SAS,24,away,LU,,1,make2,2,T. Duncan,
+284,3,5:18.0,53,58,PHO,SAS,12,home,JS,,23,miss3,0,M. Morris,
+285,3,5:16.0,53,58,PHO,SAS,2,away,DefReb,,,DefReb,,B. Diaw,
+286,3,5:09.0,53,58,PHO,SAS,7,away,LU,,1,miss2,0,B. Diaw,
+287,3,5:07.0,53,58,PHO,SAS,2,home,DefReb,,,DefReb,,M. Morris,
+288,3,5:04.0,53,58,PHO,SAS,3,home,LU,,1,miss2,0,G. Dragić,
+289,3,5:00.0,53,58,PHO,SAS,4,home,OffReb,,,OffReb,,E. Bledsoe,
+290,3,4:50.0,53,58,PHO,SAS,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,M. Morris
+291,3,4:50.0,53,58,PHO,SAS,0,away,Sub,,,,,M. Belinelli,K. Leonard
+292,3,4:50.0,53,58,PHO,SAS,0,away,Sub,,,,,C. Joseph,D. Green
+293,3,4:50.0,53,58,PHO,SAS,0,away,Sub,,,,,M. Ginóbili,T. Parker
+294,3,4:50.0,53,58,PHO,SAS,0,home,Sub,,,,,I. Thomas,M. Plumlee
+295,3,4:50.0,53,58,PHO,SAS,0,home,Sub,,,,,A. Len,E. Bledsoe
+296,3,4:44.0,55,58,PHO,SAS,6,home,JS,assist,3,make2,2,I. Thomas,G. Dragić
+297,3,4:30.0,55,60,PHO,SAS,14,away,LU,,1,make2,2,B. Diaw,
+298,3,4:15.0,55,60,PHO,SAS,15,home,JS,,25,miss3,0,G. Dragić,
+299,3,4:13.0,55,60,PHO,SAS,2,away,DefReb,,,DefReb,,C. Joseph,
+300,3,4:06.0,55,62,PHO,SAS,7,away,LU,assist,1,make2,2,T. Duncan,M. Ginóbili
+301,3,3:59.0,55,62,PHO,SAS,7,home,Timeout,,,,,,
+302,3,3:59.0,55,62,PHO,SAS,0,home,Sub,,,,,A. Tolliver,M. Morris
+303,3,3:41.0,55,62,PHO,SAS,18,home,LostBall,,,turnover,,I. Thomas,
+304,3,3:22.0,55,62,PHO,SAS,19,away,JS,,12,miss2,0,M. Ginóbili,
+305,3,3:20.0,55,62,PHO,SAS,2,home,DefReb,,,DefReb,,A. Len,
+306,3,3:16.0,57,62,PHO,SAS,4,home,LU,assist,0,make2,2,G. Dragić,I. Thomas
+307,3,2:54.0,57,62,PHO,SAS,22,away,JS,,10,miss2,0,T. Duncan,
+308,3,2:51.0,57,62,PHO,SAS,3,home,DefReb,,,DefReb,,A. Len,
+309,3,2:42.0,57,62,PHO,SAS,9,home,JS,,25,miss3,0,I. Thomas,
+310,3,2:40.0,57,62,PHO,SAS,2,away,DefReb,,,DefReb,,T. Duncan,
+311,3,2:36.0,57,64,PHO,SAS,4,away,LU,,3,make2,2,C. Joseph,
+312,3,2:36.0,57,64,PHO,SAS,0,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,A. Tolliver,C. Joseph
+313,3,2:36.0,57,64,PHO,SAS,0,home,Sub,,,,,G. Green,M. Morris
+314,3,2:36.0,57,65,PHO,SAS,0,away,FreeThrow,,,make1,1,C. Joseph,
+315,3,2:27.0,57,65,PHO,SAS,9,away,Sub,,,,,T. Parker,C. Joseph
+316,3,2:27.0,57,65,PHO,SAS,0,away,Sub,,,,,A. Baynes,T. Duncan
+317,3,2:26.0,57,65,PHO,SAS,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Baynes,G. Green
+318,3,2:26.0,58,65,PHO,SAS,0,home,FreeThrow,,,make1,1,G. Green,
+319,3,2:26.0,59,65,PHO,SAS,0,home,FreeThrow,,,make1,1,G. Green,
+320,3,2:06.0,59,65,PHO,SAS,20,away,JS,,24,miss3,0,B. Diaw,
+321,3,2:04.0,59,65,PHO,SAS,2,home,DefReb,,,DefReb,,I. Thomas,
+322,3,2:04.0,59,65,PHO,SAS,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ginóbili,I. Thomas
+323,3,2:04.0,60,65,PHO,SAS,0,home,FreeThrow,,,make1,1,I. Thomas,
+324,3,2:04.0,61,65,PHO,SAS,0,home,FreeThrow,,,make1,1,I. Thomas,
+325,3,1:49.0,61,65,PHO,SAS,15,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Baynes,I. Thomas
+326,3,1:49.0,61,65,PHO,SAS,0,away,OffensiveFoul,,,turnover,,A. Baynes,
+327,3,1:34.0,63,65,PHO,SAS,15,home,LU,,1,make2,2,I. Thomas,
+328,3,1:25.0,63,65,PHO,SAS,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,A. Baynes
+329,3,1:25.0,63,66,PHO,SAS,0,away,FreeThrow,,,make1,1,A. Baynes,
+330,3,1:25.0,63,67,PHO,SAS,0,away,FreeThrow,,,make1,1,A. Baynes,
+331,3,1:11.0,65,67,PHO,SAS,14,home,JS,,10,make2,2,G. Green,
+332,3,0:54.0,65,69,PHO,SAS,17,away,JS,,6,make2,2,B. Diaw,
+333,3,0:48.0,67,69,PHO,SAS,6,home,JS,,11,make2,2,I. Thomas,
+334,3,0:30.0,67,69,PHO,SAS,18,away,JS,,11,miss2,0,T. Parker,
+335,3,0:29.0,67,69,PHO,SAS,1,home,DefReb,,,DefReb,,A. Len,
+336,3,0:06.0,67,69,PHO,SAS,23,home,JS,,25,miss3,0,I. Thomas,
+337,3,0:04.0,67,69,PHO,SAS,2,away,DefReb,,,DefReb,,M. Belinelli,
+338,3,0:01.0,67,71,PHO,SAS,3,away,LU,assist,0,make2,2,B. Diaw,M. Belinelli
+339,4,11:37.0,67,74,PHO,SAS,23,away,JS,assist,26,make3,3,T. Parker,A. Baynes
+340,4,11:17.0,70,74,PHO,SAS,20,home,JS,assist,25,make3,3,G. Green,I. Thomas
+341,4,11:02.0,70,77,PHO,SAS,15,away,JS,assist,24,make3,3,M. Belinelli,B. Diaw
+342,4,10:49.0,70,77,PHO,SAS,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Belinelli,A. Tolliver
+343,4,10:49.0,70,77,PHO,SAS,0,away,Sub,,,,,C. Joseph,M. Ginóbili
+344,4,10:42.0,70,77,PHO,SAS,7,home,JS,,27,miss3,0,A. Tolliver,
+345,4,10:40.0,70,77,PHO,SAS,2,away,DefReb,,,DefReb,,B. Diaw,
+346,4,10:21.0,70,77,PHO,SAS,19,away,BadPass,,,turnover,,M. Belinelli,
+347,4,10:11.0,72,77,PHO,SAS,10,home,JS,,10,make2,2,I. Thomas,
+348,4,9:50.0,72,77,PHO,SAS,21,away,JS,,24,miss3,0,B. Diaw,
+349,4,9:48.0,72,77,PHO,SAS,2,home,DefReb,,,DefReb,,G. Green,
+350,4,9:40.0,74,77,PHO,SAS,8,home,JS,,11,make2,2,I. Thomas,
+351,4,9:36.0,74,77,PHO,SAS,4,away,Timeout,,,,,,
+352,4,9:36.0,74,77,PHO,SAS,0,home,Sub,,,,,M. Morris,A. Len
+353,4,9:15.0,74,77,PHO,SAS,21,away,JS,,15,miss2,0,B. Diaw,
+354,4,9:12.0,74,77,PHO,SAS,3,home,DefReb,,,DefReb,,E. Bledsoe,
+355,4,8:57.0,74,77,PHO,SAS,15,home,JS,,17,miss2,0,E. Bledsoe,
+356,4,8:55.0,74,77,PHO,SAS,2,away,DefReb,,,DefReb,,C. Joseph,
+357,4,8:44.0,74,77,PHO,SAS,11,away,BadPass,,,turnover,,T. Parker,
+358,4,8:32.0,74,77,PHO,SAS,12,home,JS,block,19,miss2,0,I. Thomas,C. Joseph
+359,4,8:29.0,74,77,PHO,SAS,3,home,OffReb,,,OffReb,,I. Thomas,
+360,4,8:29.0,76,77,PHO,SAS,0,home,LU,,1,make2,2,I. Thomas,
+361,4,8:15.0,76,80,PHO,SAS,14,away,JS,assist,24,make3,3,M. Belinelli,B. Diaw
+362,4,8:02.0,76,80,PHO,SAS,13,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,B. Diaw,E. Bledsoe
+363,4,8:02.0,76,80,PHO,SAS,0,home,Sub,,,,,A. Len,A. Tolliver
+364,4,7:56.0,78,80,PHO,SAS,6,home,LU,,0,make2,2,G. Green,
+365,4,7:40.0,78,80,PHO,SAS,16,away,JS,,18,miss2,0,T. Parker,
+366,4,7:38.0,78,80,PHO,SAS,2,away,OffReb,,,OffReb,,C. Joseph,
+367,4,7:28.0,78,82,PHO,SAS,10,away,JS,assist,22,make2,2,M. Belinelli,A. Baynes
+368,4,7:11.0,78,82,PHO,SAS,17,home,JS,,24,miss3,0,M. Morris,
+369,4,7:09.0,78,82,PHO,SAS,2,away,DefReb,,,DefReb,,A. Baynes,
+370,4,7:04.0,78,82,PHO,SAS,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Green,A. Baynes
+371,4,6:53.0,78,84,PHO,SAS,11,away,JS,,11,make2,2,C. Joseph,
+372,4,6:53.0,78,84,PHO,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Thomas,C. Joseph
+373,4,6:53.0,78,84,PHO,SAS,0,away,Sub,,,,,T. Duncan,A. Baynes
+374,4,6:53.0,78,84,PHO,SAS,0,away,Sub,,,,,D. Green,T. Parker
+375,4,6:53.0,78,84,PHO,SAS,0,away,FreeThrow,,,make1,0,C. Joseph,
+376,4,6:52.0,78,84,PHO,SAS,1,home,DefReb,,,DefReb,,G. Green,
+377,4,6:35.0,78,84,PHO,SAS,17,away,Sub,,,,,A. Daye,B. Diaw
+378,4,6:32.0,78,84,PHO,SAS,3,home,JS,,25,miss3,0,G. Green,
+379,4,6:30.0,78,84,PHO,SAS,2,away,DefReb,,,DefReb,,D. Green,
+380,4,6:10.0,78,84,PHO,SAS,20,away,JS,,12,miss2,0,M. Belinelli,
+381,4,6:08.0,78,84,PHO,SAS,2,home,DefReb,,,DefReb,,G. Green,
+382,4,6:02.0,78,84,PHO,SAS,6,home,JS,,24,miss3,0,G. Green,
+383,4,5:59.0,78,84,PHO,SAS,3,home,OffReb,,,OffReb,,E. Bledsoe,
+384,4,5:56.0,80,84,PHO,SAS,3,home,LU,assist,1,make2,2,M. Morris,E. Bledsoe
+385,4,5:44.0,80,84,PHO,SAS,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Len,T. Duncan
+386,4,5:44.0,80,84,PHO,SAS,0,away,Timeout,,,,,,
+387,4,5:44.0,80,84,PHO,SAS,0,away,Sub,,,,,M. Ginóbili,M. Belinelli
+388,4,5:39.0,80,84,PHO,SAS,5,away,BadPass,steal,,turnover,,D. Green,E. Bledsoe
+389,4,5:39.0,80,84,PHO,SAS,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ginóbili,E. Bledsoe
+390,4,5:22.0,82,84,PHO,SAS,17,home,LU,,1,make2,2,I. Thomas,
+391,4,5:09.0,82,87,PHO,SAS,13,away,JS,assist,25,make3,3,A. Daye,C. Joseph
+392,4,4:56.0,84,87,PHO,SAS,13,home,JS,,15,make2,2,E. Bledsoe,
+393,4,4:40.0,84,87,PHO,SAS,16,away,JS,,15,miss2,0,T. Duncan,
+394,4,4:38.0,84,87,PHO,SAS,2,home,DefReb,,,DefReb,,M. Morris,
+395,4,4:35.0,84,87,PHO,SAS,3,home,BadPass,,,turnover,,E. Bledsoe,
+396,4,4:35.0,84,87,PHO,SAS,0,home,Sub,,,,,G. Dragić,G. Green
+397,4,4:35.0,84,87,PHO,SAS,0,away,Sub,,,,,T. Parker,A. Daye
+398,4,4:35.0,84,87,PHO,SAS,0,away,Sub,,,,,B. Diaw,C. Joseph
+399,4,4:14.0,84,87,PHO,SAS,21,away,LU,,2,miss2,0,M. Ginóbili,
+400,4,4:13.0,84,87,PHO,SAS,1,home,DefReb,,,DefReb,,A. Len,
+401,4,4:02.0,86,87,PHO,SAS,11,home,JS,,13,make2,2,M. Morris,
+402,4,3:40.0,86,87,PHO,SAS,22,away,JS,,25,miss3,0,B. Diaw,
+403,4,3:38.0,86,87,PHO,SAS,2,home,DefReb,,,DefReb,,M. Morris,
+404,4,3:34.0,88,87,PHO,SAS,4,home,LU,assist,0,make2,2,I. Thomas,M. Morris
+405,4,3:19.0,88,87,PHO,SAS,15,away,JS,,16,miss2,0,T. Parker,
+406,4,3:17.0,88,87,PHO,SAS,2,home,DefReb,,,DefReb,,M. Morris,
+407,4,3:11.0,88,87,PHO,SAS,6,home,LU,,1,miss2,0,A. Len,
+408,4,3:10.0,88,87,PHO,SAS,1,away,DefReb,,,DefReb,,B. Diaw,
+409,4,3:02.0,88,87,PHO,SAS,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,T. Duncan
+410,4,3:02.0,88,87,PHO,SAS,0,away,FreeThrow,,,make1,0,T. Duncan,
+411,4,3:02.0,88,87,PHO,SAS,0,away,OffReb,,,OffReb,,Team,
+412,4,3:02.0,88,87,PHO,SAS,0,away,FreeThrow,,,make1,0,T. Duncan,
+413,4,3:00.0,88,87,PHO,SAS,2,home,DefReb,,,DefReb,,M. Morris,
+414,4,2:47.0,88,87,PHO,SAS,13,home,JS,,25,miss3,0,I. Thomas,
+415,4,2:46.0,88,87,PHO,SAS,1,away,DefReb,,,DefReb,,T. Duncan,
+416,4,2:23.0,88,87,PHO,SAS,23,away,JS,,26,miss3,0,M. Ginóbili,
+417,4,2:21.0,88,87,PHO,SAS,2,home,DefReb,,,DefReb,,A. Len,
+418,4,2:13.0,88,87,PHO,SAS,8,home,Timeout,,,,,,
+419,4,2:13.0,88,87,PHO,SAS,0,away,Sub,,,,,K. Leonard,D. Green
+420,4,2:05.0,88,87,PHO,SAS,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Diaw,M. Morris
+421,4,2:05.0,89,87,PHO,SAS,0,home,FreeThrow,,,make1,1,M. Morris,
+422,4,2:05.0,90,87,PHO,SAS,0,home,FreeThrow,,,make1,1,M. Morris,
+423,4,1:49.0,90,87,PHO,SAS,16,away,JS,,14,miss2,0,T. Duncan,
+424,4,1:47.0,90,87,PHO,SAS,2,home,DefReb,,,DefReb,,A. Len,
+425,4,1:26.0,90,87,PHO,SAS,21,home,JS,,17,miss2,0,M. Morris,
+426,4,1:25.0,90,87,PHO,SAS,1,home,OffReb,,,OffReb,,A. Len,
+427,4,1:09.0,92,87,PHO,SAS,16,home,DK,assist,0,make2,2,M. Morris,A. Len
+428,4,1:00.0,92,87,PHO,SAS,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dragić,M. Ginóbili
+429,4,1:00.0,92,87,PHO,SAS,0,away,FreeThrow,,,make1,0,M. Ginóbili,
+430,4,1:00.0,92,87,PHO,SAS,0,away,OffReb,,,OffReb,,Team,
+431,4,1:00.0,92,88,PHO,SAS,0,away,FreeThrow,,,make1,1,M. Ginóbili,
+432,4,1:00.0,92,89,PHO,SAS,0,away,FreeThrow,,,make1,1,M. Ginóbili,
+433,4,0:39.0,92,89,PHO,SAS,21,home,JS,,20,miss2,0,E. Bledsoe,
+434,4,0:37.0,92,89,PHO,SAS,2,home,OffReb,,,OffReb,,A. Len,
+435,4,0:36.0,92,89,PHO,SAS,1,home,Timeout,,,,,,
+436,4,0:36.0,92,89,PHO,SAS,0,away,Sub,,,,,D. Green,K. Leonard
+437,4,0:20.0,92,89,PHO,SAS,16,home,JS,,10,miss2,0,I. Thomas,
+438,4,0:17.0,92,89,PHO,SAS,3,away,DefReb,,,DefReb,,T. Duncan,
+439,4,0:07.0,92,89,PHO,SAS,10,away,Timeout,,,,,,
+440,4,0:05.0,92,89,PHO,SAS,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Green,E. Bledsoe
+441,4,0:05.0,93,89,PHO,SAS,0,home,FreeThrow,,,make1,1,E. Bledsoe,
+442,4,0:05.0,94,89,PHO,SAS,0,home,FreeThrow,,,make1,1,E. Bledsoe,
+443,4,0:01.0,94,89,PHO,SAS,4,away,JS,block,25,miss3,0,D. Green,E. Bledsoe
+444,4,0:00.0,94,89,PHO,SAS,1,away,OffReb,,,OffReb,,Team,

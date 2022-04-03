@@ -1,0 +1,441 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:40.0,0,0,NOP,LAL,20,away,JS,block,12,miss2,0,J. Randle,E. Okafor
+1,1,11:35.0,0,0,NOP,LAL,5,home,DefReb,,,DefReb,,E. Moore,
+2,1,11:30.0,0,0,NOP,LAL,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Ball,R. Rondo
+3,1,11:25.0,2,0,NOP,LAL,5,home,JS,assist,12,make2,2,A. Davis,R. Rondo
+4,1,11:06.0,2,0,NOP,LAL,19,away,BadPass,,,turnover,,K. Kuzma,
+5,1,10:59.0,2,0,NOP,LAL,7,home,JS,,4,miss2,0,E. Moore,
+6,1,10:55.0,2,0,NOP,LAL,4,away,DefReb,,,DefReb,,K. Kuzma,
+7,1,10:48.0,2,0,NOP,LAL,7,away,LU,,4,miss2,0,K. Caldwell-Pope,
+8,1,10:48.0,2,0,NOP,LAL,0,away,OffReb,,,OffReb,,K. Caldwell-Pope,
+9,1,10:47.0,2,0,NOP,LAL,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Okafor,K. Caldwell-Pope
+10,1,10:42.0,2,3,NOP,LAL,5,away,JS,assist,28,make3,3,K. Caldwell-Pope,L. Ball
+11,1,10:33.0,4,3,NOP,LAL,9,home,JS,,7,make2,2,R. Rondo,
+12,1,10:19.0,4,6,NOP,LAL,14,away,JS,assist,26,make3,3,K. Caldwell-Pope,J. Randle
+13,1,9:59.0,4,6,NOP,LAL,20,home,JS,,12,miss2,0,A. Davis,
+14,1,9:57.0,4,6,NOP,LAL,2,away,DefReb,,,DefReb,,K. Kuzma,
+15,1,9:50.0,4,9,NOP,LAL,7,away,JS,,27,make3,3,K. Caldwell-Pope,
+16,1,9:41.0,6,9,NOP,LAL,9,home,LU,,5,make2,2,J. Holiday,
+17,1,9:28.0,6,9,NOP,LAL,13,away,lost ball,steal,,turnover,,B. Lopez,R. Rondo
+18,1,9:23.0,8,9,NOP,LAL,5,home,LU,,5,make2,2,R. Rondo,
+19,1,9:17.0,8,9,NOP,LAL,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Moore,K. Kuzma
+20,1,9:17.0,8,10,NOP,LAL,0,away,FreeThrow,,,make1,1,K. Kuzma,
+21,1,9:17.0,8,11,NOP,LAL,0,away,FreeThrow,,,make1,1,K. Kuzma,
+22,1,9:13.0,8,11,NOP,LAL,4,home,JS,,25,miss3,0,J. Holiday,
+23,1,9:10.0,8,11,NOP,LAL,3,home,OffReb,,,OffReb,,J. Holiday,
+24,1,9:08.0,10,11,NOP,LAL,2,home,LU,,2,make2,2,J. Holiday,
+25,1,8:56.0,10,11,NOP,LAL,12,away,LU,,7,miss2,0,K. Caldwell-Pope,
+26,1,8:54.0,10,11,NOP,LAL,2,home,DefReb,,,DefReb,,R. Rondo,
+27,1,8:50.0,12,11,NOP,LAL,4,home,LU,assist,5,make2,2,E. Moore,R. Rondo
+28,1,8:35.0,12,11,NOP,LAL,15,away,JS,,28,miss3,0,L. Ball,
+29,1,8:33.0,12,11,NOP,LAL,2,home,DefReb,,,DefReb,,E. Okafor,
+30,1,8:23.0,14,11,NOP,LAL,10,home,LU,,5,make2,2,R. Rondo,
+31,1,8:08.0,14,13,NOP,LAL,15,away,JS,,6,make2,2,K. Kuzma,
+32,1,8:01.0,14,13,NOP,LAL,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Lopez,A. Davis
+33,1,8:01.0,14,13,NOP,LAL,0,home,FreeThrow,,,make1,0,A. Davis,
+34,1,8:01.0,14,13,NOP,LAL,0,home,OffReb,,,OffReb,,Team,
+35,1,8:01.0,15,13,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+36,1,7:44.0,15,13,NOP,LAL,17,away,JS,,17,miss2,0,L. Ball,
+37,1,7:41.0,15,13,NOP,LAL,3,home,DefReb,,,DefReb,,E. Okafor,
+38,1,7:34.0,15,13,NOP,LAL,7,home,JS,,27,miss3,0,R. Rondo,
+39,1,7:30.0,15,13,NOP,LAL,4,away,DefReb,,,DefReb,,B. Lopez,
+40,1,7:23.0,15,13,NOP,LAL,7,away,LU,block,7,miss2,0,K. Kuzma,A. Davis
+41,1,7:23.0,15,13,NOP,LAL,0,away,OffReb,,,OffReb,,Team,
+42,1,7:17.0,15,15,NOP,LAL,6,away,JS,,7,make2,2,B. Lopez,
+43,1,7:03.0,17,15,NOP,LAL,14,home,JS,assist,6,make2,2,J. Holiday,R. Rondo
+44,1,6:52.0,17,17,NOP,LAL,11,away,HS,,6,make2,2,J. Randle,
+45,1,6:44.0,19,17,NOP,LAL,8,home,LU,assist,1,make2,2,E. Moore,J. Holiday
+46,1,6:29.0,19,19,NOP,LAL,15,away,LU,,8,make2,2,J. Randle,
+47,1,6:13.0,21,19,NOP,LAL,16,home,LU,assist,4,make2,2,R. Rondo,J. Holiday
+48,1,6:06.0,21,19,NOP,LAL,7,away,Timeout,,,,,,
+49,1,6:06.0,21,19,NOP,LAL,0,home,Sub,,,,,N. Mirotić,R. Rondo
+50,1,6:06.0,21,19,NOP,LAL,0,home,Sub,,,,,I. Clark,A. Davis
+51,1,6:06.0,21,19,NOP,LAL,0,home,Sub,,,,,S. Hill,E. Moore
+52,1,6:02.0,21,22,NOP,LAL,4,away,JS,assist,27,make3,3,K. Caldwell-Pope,L. Ball
+53,1,5:35.0,23,22,NOP,LAL,27,home,LU,assist,4,make2,2,E. Okafor,S. Hill
+54,1,5:23.0,23,24,NOP,LAL,12,away,HS,assist,8,make2,2,B. Lopez,L. Ball
+55,1,5:11.0,25,24,NOP,LAL,12,home,LU,,4,make2,2,J. Holiday,
+56,1,5:02.0,25,24,NOP,LAL,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Clark,L. Ball
+57,1,5:02.0,25,25,NOP,LAL,0,away,FreeThrow,,,make1,1,L. Ball,
+58,1,5:02.0,25,25,NOP,LAL,0,away,FreeThrow,,,make1,0,L. Ball,
+59,1,4:59.0,25,25,NOP,LAL,3,home,DefReb,,,DefReb,,N. Mirotić,
+60,1,4:47.0,25,25,NOP,LAL,12,home,DK,block,5,miss2,0,E. Okafor,J. Randle
+61,1,4:43.0,25,25,NOP,LAL,4,away,DefReb,,,DefReb,,J. Randle,
+62,1,4:42.0,25,27,NOP,LAL,1,away,DK,,2,make2,2,J. Randle,
+63,1,4:32.0,25,27,NOP,LAL,10,home,JS,,26,miss3,0,S. Hill,
+64,1,4:29.0,25,27,NOP,LAL,3,home,OffReb,,,OffReb,,E. Okafor,
+65,1,4:27.0,27,27,NOP,LAL,2,home,LU,assist,6,make2,2,N. Mirotić,E. Okafor
+66,1,4:26.0,27,27,NOP,LAL,1,away,Timeout,,,,,,
+67,1,4:26.0,27,27,NOP,LAL,0,away,Sub,,,,,I. Thomas,L. Ball
+68,1,4:26.0,27,27,NOP,LAL,0,away,Sub,,,,,T. Wear,B. Lopez
+69,1,4:13.0,27,27,NOP,LAL,13,away,HS,,4,miss2,0,J. Randle,
+70,1,4:11.0,27,27,NOP,LAL,2,home,DefReb,,,DefReb,,N. Mirotić,
+71,1,4:04.0,27,27,NOP,LAL,7,home,JS,,28,miss3,0,I. Clark,
+72,1,3:59.0,27,27,NOP,LAL,5,home,OffReb,,,OffReb,,N. Mirotić,
+73,1,3:51.0,27,27,NOP,LAL,8,home,BadPass,,,turnover,,N. Mirotić,
+74,1,3:43.0,27,30,NOP,LAL,8,away,JS,assist,26,make3,3,T. Wear,I. Thomas
+75,1,3:26.0,27,30,NOP,LAL,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Kuzma,N. Mirotić
+76,1,3:26.0,28,30,NOP,LAL,0,home,FreeThrow,,,make1,1,N. Mirotić,
+77,1,3:26.0,28,30,NOP,LAL,0,home,FreeThrow,,,make1,0,N. Mirotić,
+78,1,3:24.0,28,30,NOP,LAL,2,away,DefReb,,,DefReb,,T. Wear,
+79,1,3:11.0,28,30,NOP,LAL,13,away,bad pass,steal,,turnover,,I. Thomas,J. Holiday
+80,1,3:07.0,30,30,NOP,LAL,4,home,LU,assist,3,make2,2,I. Clark,J. Holiday
+81,1,2:56.0,30,32,NOP,LAL,11,away,HS,,6,make2,2,I. Thomas,
+82,1,2:36.0,30,32,NOP,LAL,20,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,I. Clark
+83,1,2:36.0,30,32,NOP,LAL,0,away,Sub,,,,,I. Zubac,K. Kuzma
+84,1,2:36.0,30,32,NOP,LAL,0,away,Sub,,,,,L. Ball,J. Randle
+85,1,2:33.0,30,32,NOP,LAL,3,home,JS,,26,miss3,0,J. Holiday,
+86,1,2:29.0,30,32,NOP,LAL,4,away,DefReb,,,DefReb,,K. Caldwell-Pope,
+87,1,2:21.0,30,34,NOP,LAL,8,away,DK,assist,4,make2,2,I. Zubac,K. Caldwell-Pope
+88,1,2:09.0,32,34,NOP,LAL,12,home,LU,assist,5,make2,2,J. Holiday,N. Mirotić
+89,1,1:58.0,32,34,NOP,LAL,11,away,bad pass,steal,,turnover,,I. Thomas,I. Clark
+90,1,1:50.0,32,34,NOP,LAL,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Wear,N. Mirotić
+91,1,1:50.0,33,34,NOP,LAL,0,home,FreeThrow,,,make1,1,N. Mirotić,
+92,1,1:50.0,33,34,NOP,LAL,0,home,Sub,,,,,C. Diallo,J. Holiday
+93,1,1:50.0,33,34,NOP,LAL,0,home,Sub,,,,,D. Miller,E. Okafor
+94,1,1:50.0,34,34,NOP,LAL,0,home,FreeThrow,,,make1,1,N. Mirotić,
+95,1,1:31.0,34,37,NOP,LAL,19,away,JS,,28,make3,3,L. Ball,
+96,1,1:22.0,34,37,NOP,LAL,9,home,lost ball,steal,,turnover,,N. Mirotić,T. Wear
+97,1,1:18.0,34,40,NOP,LAL,4,away,JS,,27,make3,3,K. Caldwell-Pope,
+98,1,1:04.0,36,40,NOP,LAL,14,home,JS,,19,make2,2,D. Miller,
+99,1,0:55.0,36,40,NOP,LAL,9,away,JS,,27,miss3,0,T. Wear,
+100,1,0:51.0,36,40,NOP,LAL,4,home,DefReb,,,DefReb,,I. Clark,
+101,1,0:46.0,38,40,NOP,LAL,5,home,JS,,10,make2,2,I. Clark,
+102,1,0:39.0,38,40,NOP,LAL,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Diallo,I. Thomas
+103,1,0:39.0,38,41,NOP,LAL,0,away,FreeThrow,,,make1,1,I. Thomas,
+104,1,0:39.0,38,41,NOP,LAL,0,home,Sub,,,,,D. Liggins,S. Hill
+105,1,0:39.0,38,42,NOP,LAL,0,away,FreeThrow,,,make1,1,I. Thomas,
+106,1,0:31.0,38,42,NOP,LAL,8,home,LU,block,8,miss2,0,C. Diallo,L. Ball
+107,1,0:27.0,38,42,NOP,LAL,4,away,DefReb,,,DefReb,,L. Ball,
+108,1,0:10.0,38,44,NOP,LAL,17,away,LU,,6,make2,2,I. Thomas,
+109,1,0:03.0,38,44,NOP,LAL,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Thomas,I. Clark
+110,1,0:03.0,39,44,NOP,LAL,0,home,FreeThrow,,,make1,1,I. Clark,
+111,1,0:03.0,40,44,NOP,LAL,0,home,FreeThrow,,,make1,1,I. Clark,
+112,1,0:00.0,40,44,NOP,LAL,3,away,JS,,46,miss3,0,L. Ball,
+113,1,0:00.0,40,44,NOP,LAL,0,away,OffReb,,,OffReb,,Team,
+114,2,11:49.0,40,44,NOP,LAL,11,home,JS,,23,miss3,0,A. Davis,
+115,2,11:45.0,40,44,NOP,LAL,4,away,DefReb,,,DefReb,,L. Ball,
+116,2,11:40.0,40,44,NOP,LAL,5,away,JS,,26,miss3,0,L. Ball,
+117,2,11:35.0,40,44,NOP,LAL,5,home,DefReb,,,DefReb,,D. Miller,
+118,2,11:30.0,42,44,NOP,LAL,5,home,JS,,16,make2,2,D. Miller,
+119,2,11:16.0,42,47,NOP,LAL,14,away,JS,assist,24,make3,3,T. Wear,L. Ball
+120,2,11:04.0,44,47,NOP,LAL,12,home,JS,,9,make2,2,I. Clark,
+121,2,10:51.0,44,47,NOP,LAL,13,away,lost ball,steal,,turnover,,I. Thomas,I. Clark
+122,2,10:46.0,44,47,NOP,LAL,5,home,JS,,27,miss3,0,D. Miller,
+123,2,10:42.0,44,47,NOP,LAL,4,away,DefReb,,,DefReb,,T. Wear,
+124,2,10:38.0,44,47,NOP,LAL,4,away,JS,,28,miss3,0,I. Thomas,
+125,2,10:35.0,44,47,NOP,LAL,3,home,DefReb,,,DefReb,,C. Diallo,
+126,2,10:23.0,47,47,NOP,LAL,12,home,JS,assist,30,make3,3,I. Clark,D. Miller
+127,2,10:02.0,47,47,NOP,LAL,21,away,HS,,7,miss2,0,K. Kuzma,
+128,2,9:59.0,47,47,NOP,LAL,3,home,DefReb,,,DefReb,,C. Diallo,
+129,2,9:58.0,47,47,NOP,LAL,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Ball,I. Clark
+130,2,9:41.0,49,47,NOP,LAL,17,home,DK,assist,2,make2,2,A. Davis,D. Miller
+131,2,9:22.0,49,47,NOP,LAL,19,away,JS,,26,miss3,0,I. Thomas,
+132,2,9:19.0,49,47,NOP,LAL,3,home,DefReb,,,DefReb,,D. Liggins,
+133,2,9:12.0,52,47,NOP,LAL,7,home,JS,assist,26,make3,3,D. Miller,I. Clark
+134,2,9:11.0,52,47,NOP,LAL,1,away,Timeout,,,,,,
+135,2,9:11.0,52,47,NOP,LAL,0,away,Sub,,,,,K. Caldwell-Pope,T. Wear
+136,2,9:11.0,52,47,NOP,LAL,0,away,Sub,,,,,J. Randle,I. Zubac
+137,2,8:58.0,52,47,NOP,LAL,13,away,LU,block,6,miss2,0,L. Ball,A. Davis
+138,2,8:53.0,52,47,NOP,LAL,5,home,DefReb,,,DefReb,,D. Liggins,
+139,2,8:53.0,52,47,NOP,LAL,0,home,BadPass,,,turnover,,D. Liggins,
+140,2,8:45.0,52,49,NOP,LAL,8,away,JS,assist,7,make2,2,J. Randle,K. Kuzma
+141,2,8:27.0,54,49,NOP,LAL,18,home,JS,assist,10,make2,2,A. Davis,D. Miller
+142,2,8:14.0,54,52,NOP,LAL,13,away,JS,assist,27,make3,3,K. Kuzma,J. Randle
+143,2,7:54.0,54,52,NOP,LAL,20,home,JS,,20,miss2,0,I. Clark,
+144,2,7:51.0,54,52,NOP,LAL,3,away,DefReb,,,DefReb,,I. Thomas,
+145,2,7:47.0,54,54,NOP,LAL,4,away,LU,,3,make2,2,I. Thomas,
+146,2,7:23.0,54,54,NOP,LAL,24,home,LU,,6,miss2,0,I. Clark,
+147,2,7:20.0,54,54,NOP,LAL,3,away,DefReb,,,DefReb,,J. Randle,
+148,2,7:13.0,54,54,NOP,LAL,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,J. Randle
+149,2,7:13.0,54,54,NOP,LAL,0,away,FreeThrow,,,make1,0,J. Randle,
+150,2,7:13.0,54,54,NOP,LAL,0,away,OffReb,,,OffReb,,Team,
+151,2,7:13.0,54,54,NOP,LAL,0,home,Sub,,,,,E. Moore,I. Clark
+152,2,7:13.0,54,54,NOP,LAL,0,home,Sub,,,,,R. Rondo,C. Diallo
+153,2,7:13.0,54,54,NOP,LAL,0,home,Sub,,,,,S. Hill,D. Liggins
+154,2,7:13.0,54,55,NOP,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+155,2,7:10.0,54,55,NOP,LAL,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Randle,A. Davis
+156,2,7:08.0,56,55,NOP,LAL,2,home,LU,assist,4,make2,2,A. Davis,R. Rondo
+157,2,7:00.0,56,55,NOP,LAL,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rondo,K. Kuzma
+158,2,7:00.0,56,56,NOP,LAL,0,away,FreeThrow,,,make1,1,K. Kuzma,
+159,2,7:00.0,56,57,NOP,LAL,0,away,FreeThrow,,,make1,1,K. Kuzma,
+160,2,6:57.0,56,57,NOP,LAL,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,A. Davis
+161,2,6:57.0,57,57,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+162,2,6:57.0,58,57,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+163,2,6:50.0,58,57,NOP,LAL,7,away,JS,,27,miss3,0,L. Ball,
+164,2,6:46.0,58,57,NOP,LAL,4,home,DefReb,,,DefReb,,A. Davis,
+165,2,6:32.0,58,57,NOP,LAL,14,home,JS,,27,miss3,0,D. Miller,
+166,2,6:29.0,58,57,NOP,LAL,3,away,DefReb,,,DefReb,,L. Ball,
+167,2,6:24.0,58,57,NOP,LAL,5,away,LU,,6,miss2,0,I. Thomas,
+168,2,6:24.0,58,57,NOP,LAL,0,away,OffReb,,,OffReb,,J. Randle,
+169,2,6:24.0,58,57,NOP,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,J. Randle
+170,2,6:24.0,58,58,NOP,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+171,2,6:24.0,58,58,NOP,LAL,0,home,Sub,,,,,J. Holiday,D. Miller
+172,2,6:24.0,58,59,NOP,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+173,2,6:18.0,60,59,NOP,LAL,6,home,JS,,14,make2,2,J. Holiday,
+174,2,5:57.0,60,62,NOP,LAL,21,away,JS,assist,27,make3,3,K. Kuzma,I. Thomas
+175,2,5:48.0,62,62,NOP,LAL,9,home,JS,,5,make2,2,E. Moore,
+176,2,5:32.0,62,64,NOP,LAL,16,away,JS,,13,make2,2,L. Ball,
+177,2,5:21.0,62,64,NOP,LAL,11,away,ChargeFoul,DrawnBy,,ChargeFoul,,R. Rondo,I. Thomas
+178,2,5:21.0,62,64,NOP,LAL,0,home,OffensiveFoul,,,turnover,,R. Rondo,
+179,2,5:21.0,62,64,NOP,LAL,0,home,Sub,,,,,N. Mirotić,A. Davis
+180,2,5:09.0,62,66,NOP,LAL,12,away,LU,,7,make2,2,I. Thomas,
+181,2,4:49.0,62,66,NOP,LAL,20,home,JS,,7,miss2,0,E. Moore,
+182,2,4:47.0,62,66,NOP,LAL,2,home,OffReb,,,OffReb,,N. Mirotić,
+183,2,4:43.0,64,66,NOP,LAL,4,home,JS,assist,7,make2,2,J. Holiday,R. Rondo
+184,2,4:31.0,64,66,NOP,LAL,12,away,bad pass,steal,,turnover,,I. Thomas,R. Rondo
+185,2,4:24.0,64,66,NOP,LAL,7,home,JS,,28,miss3,0,J. Holiday,
+186,2,4:20.0,64,66,NOP,LAL,4,away,DefReb,,,DefReb,,L. Ball,
+187,2,4:19.0,64,66,NOP,LAL,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Holiday,K. Kuzma
+188,2,4:19.0,64,66,NOP,LAL,0,away,Sub,,,,,B. Lopez,J. Randle
+189,2,4:16.0,64,66,NOP,LAL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,K. Kuzma
+190,2,4:16.0,64,67,NOP,LAL,0,away,FreeThrow,,,make1,1,K. Kuzma,
+191,2,4:16.0,64,67,NOP,LAL,0,away,FreeThrow,,,make1,0,K. Kuzma,
+192,2,4:16.0,64,67,NOP,LAL,0,away,OffReb,,,OffReb,,Team,
+193,2,4:16.0,64,68,NOP,LAL,0,away,FreeThrow,,,make1,1,K. Kuzma,
+194,2,3:57.0,64,68,NOP,LAL,19,home,HS,,7,miss2,0,R. Rondo,
+195,2,3:55.0,64,68,NOP,LAL,2,away,DefReb,,,DefReb,,K. Kuzma,
+196,2,3:46.0,64,68,NOP,LAL,9,away,bad pass,steal,,turnover,,L. Ball,N. Mirotić
+197,2,3:39.0,67,68,NOP,LAL,7,home,JS,assist,27,make3,3,S. Hill,R. Rondo
+198,2,3:09.0,67,68,NOP,LAL,30,away,OutOfBoundsLB,,,turnover,,I. Thomas,
+199,2,2:55.0,69,68,NOP,LAL,14,home,LU,,4,make2,2,R. Rondo,
+200,2,2:49.0,69,68,NOP,LAL,6,away,TechnicalFoul,,,TechnicalFoul,,I. Thomas,
+201,2,2:49.0,69,68,NOP,LAL,0,home,Timeout,,,,,,
+202,2,2:49.0,69,68,NOP,LAL,0,away,Sub,,,,,J. Randle,I. Thomas
+203,2,2:49.0,69,68,NOP,LAL,0,home,FreeThrow,,,make1,0,J. Holiday misses technical free throw,
+204,2,2:49.0,69,68,NOP,LAL,0,away,DefReb,,,DefReb,,Team,
+205,2,2:38.0,69,68,NOP,LAL,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Mirotić,B. Lopez
+206,2,2:38.0,69,68,NOP,LAL,0,away,FreeThrow,,,make1,0,B. Lopez,
+207,2,2:38.0,69,68,NOP,LAL,0,away,OffReb,,,OffReb,,Team,
+208,2,2:38.0,69,68,NOP,LAL,0,home,Sub,,,,,A. Davis,J. Holiday
+209,2,2:38.0,69,69,NOP,LAL,0,away,FreeThrow,,,make1,1,B. Lopez,
+210,2,2:26.0,71,69,NOP,LAL,12,home,LU,assist,3,make2,2,A. Davis,E. Moore
+211,2,2:15.0,71,69,NOP,LAL,11,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Randle,S. Hill
+212,2,2:15.0,71,69,NOP,LAL,0,away,OffensiveFoul,,,turnover,,J. Randle,
+213,2,2:15.0,71,69,NOP,LAL,0,away,Sub,,,,,T. Wear,J. Randle
+214,2,2:03.0,71,69,NOP,LAL,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Ball,N. Mirotić
+215,2,1:54.0,71,69,NOP,LAL,9,home,JS,,7,miss2,0,N. Mirotić,
+216,2,1:51.0,71,69,NOP,LAL,3,away,DefReb,,,DefReb,,K. Kuzma,
+217,2,1:39.0,71,71,NOP,LAL,12,away,DK,,2,make2,2,B. Lopez,
+218,2,1:17.0,71,71,NOP,LAL,22,home,JS,,22,miss3,0,S. Hill,
+219,2,1:12.0,71,71,NOP,LAL,5,away,DefReb,,,DefReb,,L. Ball,
+220,2,1:10.0,71,71,NOP,LAL,2,away,JS,,24,miss3,0,K. Caldwell-Pope,
+221,2,1:10.0,71,71,NOP,LAL,0,away,OffReb,,,OffReb,,L. Ball,
+222,2,1:01.0,71,73,NOP,LAL,9,away,JS,assist,6,make2,2,B. Lopez,K. Kuzma
+223,2,0:49.0,71,73,NOP,LAL,12,home,JS,,13,miss2,0,N. Mirotić,
+224,2,0:47.0,71,73,NOP,LAL,2,away,DefReb,,,DefReb,,K. Caldwell-Pope,
+225,2,0:30.0,71,73,NOP,LAL,17,away,JS,,26,miss3,0,B. Lopez,
+226,2,0:27.0,71,73,NOP,LAL,3,home,DefReb,,,DefReb,,N. Mirotić,
+227,2,0:13.0,71,73,NOP,LAL,14,home,BadPass,,,turnover,,R. Rondo,
+228,2,0:13.0,71,73,NOP,LAL,0,away,Sub,,,,,I. Thomas,L. Ball
+229,2,0:00.0,71,73,NOP,LAL,13,away,bad pass,steal,,turnover,,T. Wear,N. Mirotić
+230,3,11:41.0,71,73,NOP,LAL,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Lopez,A. Davis
+231,3,11:41.0,72,73,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+232,3,11:41.0,73,73,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+233,3,11:17.0,73,75,NOP,LAL,24,away,HS,,5,make2,2,B. Lopez,
+234,3,11:07.0,75,75,NOP,LAL,10,home,LU,,3,make2,2,E. Moore,
+235,3,10:49.0,75,75,NOP,LAL,18,away,JS,,15,miss2,0,K. Kuzma,
+236,3,10:46.0,75,75,NOP,LAL,3,home,DefReb,,,DefReb,,A. Davis,
+237,3,10:38.0,75,75,NOP,LAL,8,home,JS,block,4,miss2,0,E. Okafor,L. Ball
+238,3,10:34.0,75,75,NOP,LAL,4,home,OffReb,,,OffReb,,E. Okafor,
+239,3,10:24.0,75,75,NOP,LAL,10,home,JS,,24,miss3,0,R. Rondo,
+240,3,10:20.0,75,75,NOP,LAL,4,away,DefReb,,,DefReb,,B. Lopez,
+241,3,10:16.0,75,75,NOP,LAL,4,away,LU,,5,miss2,0,J. Randle,
+242,3,10:14.0,75,75,NOP,LAL,2,home,DefReb,,,DefReb,,A. Davis,
+243,3,10:05.0,75,75,NOP,LAL,9,home,JS,,20,miss2,0,A. Davis,
+244,3,10:00.0,75,75,NOP,LAL,5,home,OffReb,,,OffReb,,E. Okafor,
+245,3,9:59.0,78,75,NOP,LAL,1,home,JS,assist,27,make3,3,J. Holiday,E. Okafor
+246,3,9:47.0,78,77,NOP,LAL,12,away,JS,,5,make2,2,B. Lopez,
+247,3,9:47.0,78,77,NOP,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rondo,B. Lopez
+248,3,9:47.0,78,78,NOP,LAL,0,away,FreeThrow,,,make1,1,B. Lopez,
+249,3,9:38.0,78,78,NOP,LAL,9,away,lost ball,steal,,turnover,,L. Ball,E. Okafor
+250,3,9:34.0,78,78,NOP,LAL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Caldwell-Pope,A. Davis
+251,3,9:34.0,79,78,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+252,3,9:34.0,80,78,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+253,3,9:16.0,80,78,NOP,LAL,18,away,bad pass,steal,,turnover,,B. Lopez,R. Rondo
+254,3,9:08.0,82,78,NOP,LAL,8,home,LU,,5,make2,2,J. Holiday,
+255,3,8:45.0,82,78,NOP,LAL,23,away,LU,,2,miss2,0,B. Lopez,
+256,3,8:45.0,82,78,NOP,LAL,0,away,OffReb,,,OffReb,,B. Lopez,
+257,3,8:45.0,82,78,NOP,LAL,0,away,DK,,2,miss2,0,B. Lopez,
+258,3,8:42.0,82,78,NOP,LAL,3,home,DefReb,,,DefReb,,J. Holiday,
+259,3,8:34.0,82,78,NOP,LAL,8,home,bad pass,steal,,turnover,,R. Rondo,K. Kuzma
+260,3,8:29.0,82,78,NOP,LAL,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,B. Lopez
+261,3,8:29.0,82,79,NOP,LAL,0,away,FreeThrow,,,make1,1,B. Lopez,
+262,3,8:29.0,82,80,NOP,LAL,0,away,FreeThrow,,,make1,1,B. Lopez,
+263,3,8:19.0,84,80,NOP,LAL,10,home,JS,,6,make2,2,A. Davis,
+264,3,8:08.0,84,80,NOP,LAL,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,J. Randle
+265,3,8:08.0,84,80,NOP,LAL,0,away,FreeThrow,,,make1,0,J. Randle,
+266,3,8:08.0,84,80,NOP,LAL,0,away,OffReb,,,OffReb,,Team,
+267,3,8:08.0,84,80,NOP,LAL,0,away,FreeThrow,,,make1,0,J. Randle,
+268,3,8:04.0,84,80,NOP,LAL,4,away,OffReb,,,OffReb,,J. Randle,
+269,3,8:03.0,84,80,NOP,LAL,1,away,LU,block,3,miss2,0,J. Randle,E. Okafor
+270,3,8:00.0,84,80,NOP,LAL,3,home,DefReb,,,DefReb,,R. Rondo,
+271,3,7:59.0,86,80,NOP,LAL,1,home,LU,,2,make2,2,R. Rondo,
+272,3,7:47.0,86,82,NOP,LAL,12,away,JS,,17,make2,2,K. Caldwell-Pope,
+273,3,7:29.0,86,82,NOP,LAL,18,home,JS,,26,miss3,0,A. Davis,
+274,3,7:27.0,86,82,NOP,LAL,2,away,DefReb,,,DefReb,,L. Ball,
+275,3,7:24.0,86,85,NOP,LAL,3,away,JS,assist,28,make3,3,K. Caldwell-Pope,L. Ball
+276,3,7:14.0,86,85,NOP,LAL,10,home,JS,,23,miss3,0,E. Moore,
+277,3,7:14.0,86,85,NOP,LAL,0,away,DefReb,,,DefReb,,Team,
+278,3,7:01.0,86,85,NOP,LAL,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Okafor,J. Randle
+279,3,6:56.0,86,88,NOP,LAL,5,away,JS,assist,27,make3,3,K. Kuzma,L. Ball
+280,3,6:41.0,88,88,NOP,LAL,15,home,LU,assist,4,make2,2,A. Davis,J. Holiday
+281,3,6:25.0,88,90,NOP,LAL,16,away,JS,,7,make2,2,J. Randle,
+282,3,6:04.0,88,90,NOP,LAL,21,home,JS,,19,miss2,0,A. Davis,
+283,3,6:04.0,88,90,NOP,LAL,0,away,DefReb,,,DefReb,,Team,
+284,3,6:04.0,88,90,NOP,LAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Okafor,K. Caldwell-Pope
+285,3,6:04.0,88,91,NOP,LAL,0,away,FreeThrow,,,make1,1,K. Caldwell-Pope,
+286,3,6:04.0,88,92,NOP,LAL,0,away,FreeThrow,,,make1,1,K. Caldwell-Pope,
+287,3,6:04.0,88,92,NOP,LAL,0,home,Timeout,,,,,,
+288,3,6:04.0,88,92,NOP,LAL,0,home,Sub,,,,,D. Miller,R. Rondo
+289,3,6:04.0,88,92,NOP,LAL,0,home,Sub,,,,,I. Clark,E. Moore
+290,3,5:51.0,88,92,NOP,LAL,13,home,JS,,17,miss2,0,I. Clark,
+291,3,5:47.0,88,92,NOP,LAL,4,away,DefReb,,,DefReb,,J. Randle,
+292,3,5:37.0,88,92,NOP,LAL,10,away,HS,,8,miss2,0,J. Randle,
+293,3,5:33.0,88,92,NOP,LAL,4,home,DefReb,,,DefReb,,A. Davis,
+294,3,5:24.0,90,92,NOP,LAL,9,home,JS,assist,16,make2,2,A. Davis,D. Miller
+295,3,5:00.0,90,92,NOP,LAL,24,away,JS,,26,miss3,0,L. Ball,
+296,3,5:00.0,90,92,NOP,LAL,0,away,OffReb,,,OffReb,,B. Lopez,
+297,3,4:49.0,90,95,NOP,LAL,11,away,JS,assist,22,make3,3,K. Kuzma,B. Lopez
+298,3,4:31.0,90,95,NOP,LAL,18,home,JS,,8,miss2,0,J. Holiday,
+299,3,4:28.0,90,95,NOP,LAL,3,away,DefReb,,,DefReb,,J. Randle,
+300,3,4:25.0,90,95,NOP,LAL,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Holiday,K. Kuzma
+301,3,4:25.0,90,96,NOP,LAL,0,away,FreeThrow,,,make1,1,K. Kuzma,
+302,3,4:25.0,90,96,NOP,LAL,0,home,Sub,,,,,N. Mirotić,E. Okafor
+303,3,4:25.0,90,96,NOP,LAL,0,away,Sub,,,,,I. Thomas,L. Ball
+304,3,4:25.0,90,97,NOP,LAL,0,away,FreeThrow,,,make1,1,K. Kuzma,
+305,3,4:13.0,92,97,NOP,LAL,12,home,LU,,4,make2,2,J. Holiday,
+306,3,3:56.0,92,99,NOP,LAL,17,away,LU,,3,make2,2,J. Randle,
+307,3,3:48.0,92,99,NOP,LAL,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Caldwell-Pope,J. Holiday
+308,3,3:48.0,92,99,NOP,LAL,0,home,FreeThrow,,,make1,0,J. Holiday,
+309,3,3:48.0,92,99,NOP,LAL,0,home,OffReb,,,OffReb,,Team,
+310,3,3:48.0,93,99,NOP,LAL,0,home,FreeThrow,,,make1,1,J. Holiday,
+311,3,3:35.0,93,101,NOP,LAL,13,away,HS,,4,make2,2,B. Lopez,
+312,3,3:16.0,95,101,NOP,LAL,19,home,JS,assist,9,make2,2,I. Clark,J. Holiday
+313,3,2:54.0,95,101,NOP,LAL,22,away,JS,,17,miss2,0,K. Kuzma,
+314,3,2:50.0,95,101,NOP,LAL,4,home,DefReb,,,DefReb,,A. Davis,
+315,3,2:40.0,97,101,NOP,LAL,10,home,LU,,7,make2,2,J. Holiday,
+316,3,2:37.0,97,101,NOP,LAL,3,away,Timeout,,,,,,
+317,3,2:37.0,97,101,NOP,LAL,0,home,Sub,,,,,E. Okafor,A. Davis
+318,3,2:37.0,97,101,NOP,LAL,0,away,Sub,,,,,L. Ball,K. Kuzma
+319,3,2:22.0,97,101,NOP,LAL,15,away,JS,,26,miss3,0,L. Ball,
+320,3,2:16.0,97,101,NOP,LAL,6,home,DefReb,,,DefReb,,J. Holiday,
+321,3,2:12.0,97,101,NOP,LAL,4,home,JS,,25,miss3,0,N. Mirotić,
+322,3,2:09.0,97,101,NOP,LAL,3,away,DefReb,,,DefReb,,L. Ball,
+323,3,2:05.0,97,103,NOP,LAL,4,away,DK,assist,1,make2,2,B. Lopez,L. Ball
+324,3,1:47.0,97,103,NOP,LAL,18,home,OutOfBoundsLB,,,turnover,,E. Okafor,
+325,3,1:47.0,97,103,NOP,LAL,0,away,Sub,,,,,T. Wear,J. Randle
+326,3,1:32.0,97,103,NOP,LAL,15,away,JS,,26,miss3,0,T. Wear,
+327,3,1:26.0,97,103,NOP,LAL,6,home,DefReb,,,DefReb,,E. Okafor,
+328,3,1:22.0,97,103,NOP,LAL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Ball,E. Okafor
+329,3,1:17.0,97,103,NOP,LAL,5,home,LU,,4,miss2,0,N. Mirotić,
+330,3,1:11.0,97,103,NOP,LAL,6,away,DefReb,,,DefReb,,B. Lopez,
+331,3,1:10.0,97,106,NOP,LAL,1,away,JS,assist,25,make3,3,K. Caldwell-Pope,T. Wear
+332,3,0:50.0,97,106,NOP,LAL,20,home,JS,,28,miss3,0,D. Miller,
+333,3,0:48.0,97,106,NOP,LAL,2,away,DefReb,,,DefReb,,L. Ball,
+334,3,0:44.0,97,106,NOP,LAL,4,away,JS,,29,miss3,0,I. Thomas,
+335,3,0:40.0,97,106,NOP,LAL,4,home,DefReb,,,DefReb,,N. Mirotić,
+336,3,0:34.0,97,106,NOP,LAL,6,home,JS,,26,miss3,0,N. Mirotić,
+337,3,0:31.0,97,106,NOP,LAL,3,away,DefReb,,,DefReb,,L. Ball,
+338,3,0:24.0,97,108,NOP,LAL,7,away,JS,,15,make2,2,I. Thomas,
+339,3,0:04.0,97,108,NOP,LAL,20,home,LU,,11,miss2,0,N. Mirotić,
+340,3,0:03.0,97,108,NOP,LAL,1,away,DefReb,,,DefReb,,L. Ball,
+341,3,0:01.0,97,108,NOP,LAL,2,away,JS,,28,miss3,0,K. Caldwell-Pope,
+342,3,0:01.0,97,108,NOP,LAL,0,away,OffReb,,,OffReb,,Team,
+343,4,11:44.0,97,108,NOP,LAL,16,away,bad pass,steal,,turnover,,L. Ball,A. Davis
+344,4,11:39.0,99,108,NOP,LAL,5,home,LU,,4,make2,2,R. Rondo,
+345,4,11:39.0,99,108,NOP,LAL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Wear,R. Rondo
+346,4,11:39.0,100,108,NOP,LAL,0,home,FreeThrow,,,make1,1,R. Rondo,
+347,4,11:23.0,100,108,NOP,LAL,16,away,JS,,28,miss3,0,K. Kuzma,
+348,4,11:20.0,100,108,NOP,LAL,3,home,DefReb,,,DefReb,,Team,
+349,4,11:03.0,102,108,NOP,LAL,17,home,DK,assist,5,make2,2,A. Davis,D. Miller
+350,4,11:03.0,102,108,NOP,LAL,0,away,Timeout,,,,,,
+351,4,10:48.0,102,108,NOP,LAL,15,away,JS,,11,miss2,0,T. Wear,
+352,4,10:45.0,102,108,NOP,LAL,3,home,DefReb,,,DefReb,,A. Davis,
+353,4,10:39.0,104,108,NOP,LAL,6,home,LU,,6,make2,2,R. Rondo,
+354,4,10:26.0,104,108,NOP,LAL,13,away,JS,,27,miss3,0,L. Ball,
+355,4,10:21.0,104,108,NOP,LAL,5,home,DefReb,,,DefReb,,I. Clark,
+356,4,10:15.0,104,108,NOP,LAL,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Wear,C. Diallo
+357,4,10:15.0,105,108,NOP,LAL,0,home,FreeThrow,,,make1,1,C. Diallo,
+358,4,10:15.0,105,108,NOP,LAL,0,away,Sub,,,,,J. Randle,B. Lopez
+359,4,10:15.0,106,108,NOP,LAL,0,home,FreeThrow,,,make1,1,C. Diallo,
+360,4,9:56.0,106,111,NOP,LAL,19,away,JS,,26,make3,3,I. Thomas,
+361,4,9:41.0,106,111,NOP,LAL,15,home,Sub,,,,,E. Moore,D. Miller
+362,4,9:41.0,106,111,NOP,LAL,0,away,Sub,,,,,K. Caldwell-Pope,T. Wear
+363,4,9:38.0,108,111,NOP,LAL,3,home,JS,assist,7,make2,2,E. Moore,R. Rondo
+364,4,9:25.0,108,111,NOP,LAL,13,away,bad pass,steal,,turnover,,J. Randle,A. Davis
+365,4,9:19.0,108,111,NOP,LAL,6,home,JS,,7,miss2,0,A. Davis,
+366,4,9:16.0,108,111,NOP,LAL,3,away,DefReb,,,DefReb,,J. Randle,
+367,4,9:10.0,108,114,NOP,LAL,6,away,JS,assist,26,make3,3,K. Caldwell-Pope,L. Ball
+368,4,8:51.0,110,114,NOP,LAL,19,home,LU,,8,make2,2,R. Rondo,
+369,4,8:36.0,110,116,NOP,LAL,15,away,LU,,3,make2,2,J. Randle,
+370,4,8:24.0,110,116,NOP,LAL,12,home,JS,,7,miss2,0,R. Rondo,
+371,4,8:22.0,110,116,NOP,LAL,2,away,DefReb,,,DefReb,,K. Kuzma,
+372,4,8:07.0,110,116,NOP,LAL,15,away,bad pass,steal,,turnover,,I. Thomas,I. Clark
+373,4,8:02.0,113,116,NOP,LAL,5,home,JS,assist,25,make3,3,E. Moore,R. Rondo
+374,4,7:45.0,113,116,NOP,LAL,17,away,JS,,14,miss2,0,I. Thomas,
+375,4,7:41.0,113,116,NOP,LAL,4,home,DefReb,,,DefReb,,C. Diallo,
+376,4,7:34.0,115,116,NOP,LAL,7,home,DK,assist,2,make2,2,A. Davis,R. Rondo
+377,4,7:34.0,115,116,NOP,LAL,0,away,Timeout,,,,,,
+378,4,7:24.0,115,116,NOP,LAL,10,away,JS,,29,miss3,0,K. Kuzma,
+379,4,7:21.0,115,116,NOP,LAL,3,home,DefReb,,,DefReb,,A. Davis,
+380,4,7:04.0,115,116,NOP,LAL,17,home,HS,,12,miss2,0,R. Rondo,
+381,4,7:00.0,115,116,NOP,LAL,4,away,DefReb,,,DefReb,,L. Ball,
+382,4,6:54.0,115,116,NOP,LAL,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Diallo,J. Randle
+383,4,6:54.0,115,117,NOP,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+384,4,6:54.0,115,118,NOP,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+385,4,6:33.0,115,118,NOP,LAL,21,home,JS,,28,miss3,0,I. Clark,
+386,4,6:31.0,115,118,NOP,LAL,2,away,DefReb,,,DefReb,,J. Randle,
+387,4,6:24.0,115,118,NOP,LAL,7,away,JS,,28,miss3,0,K. Caldwell-Pope,
+388,4,6:21.0,115,118,NOP,LAL,3,home,DefReb,,,DefReb,,A. Davis,
+389,4,6:07.0,115,118,NOP,LAL,14,home,JS,,12,miss2,0,A. Davis,
+390,4,6:04.0,115,118,NOP,LAL,3,home,OffReb,,,OffReb,,C. Diallo,
+391,4,6:01.0,115,118,NOP,LAL,3,home,JS,,24,miss3,0,E. Moore,
+392,4,5:58.0,115,118,NOP,LAL,3,away,DefReb,,,DefReb,,L. Ball,
+393,4,5:48.0,115,118,NOP,LAL,10,away,LU,,3,miss2,0,J. Randle,
+394,4,5:46.0,115,118,NOP,LAL,2,home,DefReb,,,DefReb,,Team,
+395,4,5:46.0,115,118,NOP,LAL,0,home,Sub,,,,,J. Holiday,I. Clark
+396,4,5:32.0,117,118,NOP,LAL,14,home,DK,assist,3,make2,2,A. Davis,R. Rondo
+397,4,5:15.0,117,118,NOP,LAL,17,away,LU,,5,miss2,0,I. Thomas,
+398,4,5:09.0,117,118,NOP,LAL,6,away,OffReb,,,OffReb,,J. Randle,
+399,4,5:09.0,117,120,NOP,LAL,0,away,LU,,0,make2,2,J. Randle,
+400,4,4:56.0,119,120,NOP,LAL,13,home,JS,,11,make2,2,J. Holiday,
+401,4,4:36.0,119,120,NOP,LAL,20,away,JS,,26,miss3,0,L. Ball,
+402,4,4:32.0,119,120,NOP,LAL,4,home,DefReb,,,DefReb,,C. Diallo,
+403,4,4:29.0,119,120,NOP,LAL,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,R. Rondo
+404,4,4:29.0,119,120,NOP,LAL,0,away,Sub,,,,,B. Lopez,I. Thomas
+405,4,4:21.0,119,120,NOP,LAL,8,home,JS,,14,miss2,0,C. Diallo,
+406,4,4:18.0,119,120,NOP,LAL,3,away,DefReb,,,DefReb,,K. Caldwell-Pope,
+407,4,4:05.0,119,123,NOP,LAL,13,away,JS,assist,27,make3,3,B. Lopez,L. Ball
+408,4,3:53.0,121,123,NOP,LAL,12,home,JS,assist,13,make2,2,A. Davis,J. Holiday
+409,4,3:31.0,121,125,NOP,LAL,22,away,LU,assist,5,make2,2,J. Randle,K. Caldwell-Pope
+410,4,3:22.0,121,125,NOP,LAL,9,home,Timeout,,,,,,
+411,4,3:22.0,121,125,NOP,LAL,0,home,Timeout,,,,,,
+412,4,3:08.0,121,125,NOP,LAL,14,home,JS,,16,miss2,0,A. Davis,
+413,4,3:08.0,121,125,NOP,LAL,0,away,DefReb,,,DefReb,,J. Randle,
+414,4,2:54.0,121,125,NOP,LAL,14,away,JS,,19,miss2,0,K. Caldwell-Pope,
+415,4,2:51.0,121,125,NOP,LAL,3,home,DefReb,,,DefReb,,A. Davis,
+416,4,2:28.0,124,125,NOP,LAL,23,home,JS,assist,28,make3,3,R. Rondo,A. Davis
+417,4,2:13.0,124,125,NOP,LAL,15,away,JS,,26,miss3,0,L. Ball,
+418,4,2:08.0,124,125,NOP,LAL,5,home,DefReb,,,DefReb,,C. Diallo,
+419,4,2:01.0,126,125,NOP,LAL,7,home,LU,,5,make2,2,R. Rondo,
+420,4,1:48.0,126,125,NOP,LAL,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,B. Lopez
+421,4,1:36.0,126,125,NOP,LAL,12,away,LU,,7,miss2,0,J. Randle,
+422,4,1:33.0,126,125,NOP,LAL,3,home,DefReb,,,DefReb,,C. Diallo,
+423,4,1:17.0,126,125,NOP,LAL,16,home,JS,,16,miss2,0,R. Rondo,
+424,4,1:15.0,126,125,NOP,LAL,2,away,DefReb,,,DefReb,,B. Lopez,
+425,4,0:58.0,126,125,NOP,LAL,17,away,JS,,27,miss3,0,L. Ball,
+426,4,0:54.0,126,125,NOP,LAL,4,home,DefReb,,,DefReb,,E. Moore,
+427,4,0:31.0,126,125,NOP,LAL,23,home,JS,,21,miss2,0,R. Rondo,
+428,4,0:30.0,126,125,NOP,LAL,1,home,OffReb,,,OffReb,,Team,
+429,4,0:30.0,126,125,NOP,LAL,0,home,ShotClockViolation,,,turnover,,Team,
+430,4,0:17.0,126,125,NOP,LAL,13,away,JS,,27,miss3,0,L. Ball,
+431,4,0:13.0,126,125,NOP,LAL,4,home,DefReb,,,DefReb,,E. Moore,
+432,4,0:09.0,126,125,NOP,LAL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Randle,J. Holiday
+433,4,0:04.0,126,125,NOP,LAL,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Caldwell-Pope,A. Davis
+434,4,0:04.0,127,125,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+435,4,0:04.0,128,125,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+436,4,0:04.0,128,125,NOP,LAL,0,away,Timeout,,,,,,
+437,4,0:04.0,128,125,NOP,LAL,0,home,Sub,,,,,I. Clark,C. Diallo
+438,4,0:04.0,128,125,NOP,LAL,0,away,Sub,,,,,I. Thomas,J. Randle
+439,4,0:00.0,128,125,NOP,LAL,4,away,bad pass,steal,,turnover,,K. Caldwell-Pope,A. Davis

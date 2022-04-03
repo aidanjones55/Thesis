@@ -1,0 +1,435 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,0,0,NOP,CHI,17,away,JS,,20,miss2,0,J. Butler,
+1,1,11:41.0,0,0,NOP,CHI,2,home,DefReb,,,DefReb,,J. Holiday,
+2,1,11:20.0,0,0,NOP,CHI,21,home,JS,,26,miss3,0,T. Frazier,
+3,1,11:19.0,0,0,NOP,CHI,1,away,DefReb,,,DefReb,,R. Rondo,
+4,1,10:58.0,0,2,NOP,CHI,21,away,JS,assist,21,make2,2,P. Zipser,J. Butler
+5,1,10:43.0,0,2,NOP,CHI,15,home,JS,,17,miss2,0,D. Cousins,
+6,1,10:42.0,0,2,NOP,CHI,1,away,DefReb,,,DefReb,,P. Zipser,
+7,1,10:31.0,0,4,NOP,CHI,11,away,JS,assist,14,make2,2,R. Lopez,R. Rondo
+8,1,10:13.0,0,4,NOP,CHI,18,home,JS,,22,miss3,0,S. Hill,
+9,1,10:13.0,0,4,NOP,CHI,0,away,DefReb,,,DefReb,,R. Rondo,
+10,1,10:10.0,0,4,NOP,CHI,3,away,BadPass,,,turnover,,R. Rondo,
+11,1,9:48.0,2,4,NOP,CHI,22,home,JS,,19,make2,2,J. Holiday,
+12,1,9:31.0,2,6,NOP,CHI,17,away,LU,,2,make2,2,R. Rondo,
+13,1,9:20.0,4,6,NOP,CHI,11,home,JS,assist,19,make2,2,A. Davis,J. Holiday
+14,1,9:07.0,4,6,NOP,CHI,13,away,BadPass,steal,,turnover,,R. Rondo,A. Davis
+15,1,8:58.0,6,6,NOP,CHI,9,home,LU,assist,2,make2,2,D. Cousins,J. Holiday
+16,1,8:45.0,6,6,NOP,CHI,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Frazier,R. Lopez
+17,1,8:45.0,6,6,NOP,CHI,0,away,FreeThrow,,,make1,0,R. Lopez,
+18,1,8:45.0,6,6,NOP,CHI,0,away,OffReb,,,OffReb,,Team,
+19,1,8:45.0,6,7,NOP,CHI,0,away,FreeThrow,,,make1,1,R. Lopez,
+20,1,8:38.0,6,7,NOP,CHI,7,home,BadPass,,,turnover,,D. Cousins,
+21,1,8:12.0,6,9,NOP,CHI,26,away,LU,,3,make2,2,R. Lopez,
+22,1,8:03.0,6,9,NOP,CHI,9,home,LU,,2,miss2,0,T. Frazier,
+23,1,8:01.0,6,9,NOP,CHI,2,away,DefReb,,,DefReb,,R. Lopez,
+24,1,7:50.0,6,9,NOP,CHI,11,away,JS,,24,miss3,0,R. Rondo,
+25,1,7:49.0,6,9,NOP,CHI,1,home,DefReb,,,DefReb,,S. Hill,
+26,1,7:36.0,6,9,NOP,CHI,13,home,BadPass,,,turnover,,D. Cousins,
+27,1,7:23.0,6,9,NOP,CHI,13,away,JS,,14,miss2,0,J. Butler,
+28,1,7:22.0,6,9,NOP,CHI,1,away,OffReb,,,OffReb,,J. Butler,
+29,1,7:21.0,6,11,NOP,CHI,1,away,LU,,2,make2,2,J. Butler,
+30,1,7:21.0,6,11,NOP,CHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,J. Butler
+31,1,7:21.0,6,12,NOP,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+32,1,7:06.0,6,12,NOP,CHI,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Lopez,A. Davis
+33,1,7:06.0,7,12,NOP,CHI,0,home,FreeThrow,,,make1,1,A. Davis,
+34,1,7:06.0,8,12,NOP,CHI,0,home,FreeThrow,,,make1,1,A. Davis,
+35,1,6:50.0,8,12,NOP,CHI,16,away,JS,,23,miss2,0,N. Mirotić,
+36,1,6:50.0,8,12,NOP,CHI,0,away,OffReb,,,OffReb,,R. Rondo,
+37,1,6:46.0,8,14,NOP,CHI,4,away,LU,,3,make2,2,R. Rondo,
+38,1,6:30.0,8,14,NOP,CHI,16,home,JS,,25,miss3,0,D. Cousins,
+39,1,6:29.0,8,14,NOP,CHI,1,away,DefReb,,,DefReb,,N. Mirotić,
+40,1,6:22.0,8,14,NOP,CHI,7,away,JS,,29,miss3,0,N. Mirotić,
+41,1,6:21.0,8,14,NOP,CHI,1,home,DefReb,,,DefReb,,D. Cousins,
+42,1,6:14.0,8,14,NOP,CHI,7,home,LU,block,2,miss2,0,A. Davis,N. Mirotić
+43,1,6:11.0,8,14,NOP,CHI,3,away,DefReb,,,DefReb,,N. Mirotić,
+44,1,6:09.0,8,14,NOP,CHI,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,J. Butler
+45,1,6:09.0,8,14,NOP,CHI,0,away,FreeThrow,,,make1,0,J. Butler,
+46,1,6:09.0,8,14,NOP,CHI,0,away,OffReb,,,OffReb,,Team,
+47,1,6:09.0,8,15,NOP,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+48,1,5:55.0,8,15,NOP,CHI,14,home,LU,,2,miss2,0,J. Holiday,
+49,1,5:54.0,8,15,NOP,CHI,1,away,DefReb,,,DefReb,,R. Rondo,
+50,1,5:51.0,8,17,NOP,CHI,3,away,DK,assist,0,make2,2,J. Butler,R. Rondo
+51,1,5:44.0,8,17,NOP,CHI,7,home,Timeout,,,,,,
+52,1,5:44.0,8,17,NOP,CHI,0,away,Sub,,,,,D. Valentine,P. Zipser
+53,1,5:44.0,8,17,NOP,CHI,0,home,Sub,,,,,E. Moore,T. Frazier
+54,1,5:34.0,10,17,NOP,CHI,10,home,JS,assist,4,make2,2,D. Cousins,E. Moore
+55,1,5:12.0,10,17,NOP,CHI,22,away,HS,,3,miss2,0,R. Lopez,
+56,1,5:10.0,10,17,NOP,CHI,2,home,DefReb,,,DefReb,,D. Cousins,
+57,1,5:03.0,10,17,NOP,CHI,7,home,JS,,24,miss3,0,A. Davis,
+58,1,5:02.0,10,17,NOP,CHI,1,away,DefReb,,,DefReb,,R. Rondo,
+59,1,4:55.0,10,17,NOP,CHI,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,J. Butler
+60,1,4:55.0,10,18,NOP,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+61,1,4:55.0,10,18,NOP,CHI,0,home,Sub,,,,,T. Frazier,J. Holiday
+62,1,4:55.0,10,19,NOP,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+63,1,4:38.0,12,19,NOP,CHI,17,home,JS,assist,6,make2,2,A. Davis,E. Moore
+64,1,4:21.0,12,21,NOP,CHI,17,away,LU,assist,1,make2,2,N. Mirotić,R. Rondo
+65,1,4:09.0,14,21,NOP,CHI,12,home,LU,,1,make2,2,D. Cousins,
+66,1,3:59.0,14,21,NOP,CHI,10,away,LU,,2,miss2,0,N. Mirotić,
+67,1,3:58.0,14,21,NOP,CHI,1,home,DefReb,,,DefReb,,D. Cousins,
+68,1,3:50.0,16,21,NOP,CHI,8,home,LU,assist,1,make2,2,A. Davis,S. Hill
+69,1,3:50.0,16,21,NOP,CHI,0,away,Timeout,,,,,,
+70,1,3:50.0,16,21,NOP,CHI,0,away,Sub,,,,,B. Portis,N. Mirotić
+71,1,3:34.0,16,21,NOP,CHI,16,away,LostBall,steal,,turnover,,D. Valentine,A. Davis
+72,1,3:33.0,16,21,NOP,CHI,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Valentine,A. Davis
+73,1,3:16.0,16,21,NOP,CHI,17,home,LU,,1,miss2,0,S. Hill,
+74,1,3:15.0,16,21,NOP,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+75,1,3:10.0,16,21,NOP,CHI,5,away,LU,,2,miss2,0,R. Rondo,
+76,1,3:08.0,16,21,NOP,CHI,2,home,DefReb,,,DefReb,,D. Cousins,
+77,1,3:02.0,16,21,NOP,CHI,6,home,LU,,1,miss2,0,D. Cousins,
+78,1,3:00.0,16,21,NOP,CHI,2,away,DefReb,,,DefReb,,B. Portis,
+79,1,2:54.0,16,23,NOP,CHI,6,away,JS,,7,make2,2,J. Butler,
+80,1,2:41.0,19,23,NOP,CHI,13,home,JS,assist,25,make3,3,D. Cousins,A. Davis
+81,1,2:19.0,19,23,NOP,CHI,22,away,JS,,22,miss3,0,R. Rondo,
+82,1,2:18.0,19,23,NOP,CHI,1,home,DefReb,,,DefReb,,A. Davis,
+83,1,2:10.0,21,23,NOP,CHI,8,home,LU,assist,1,make2,2,S. Hill,T. Frazier
+84,1,1:59.0,21,23,NOP,CHI,11,away,LU,block,2,miss2,0,R. Rondo,E. Moore
+85,1,1:57.0,21,23,NOP,CHI,2,home,DefReb,,,DefReb,,T. Frazier,
+86,1,1:51.0,21,23,NOP,CHI,6,home,JS,,25,miss3,0,E. Moore,
+87,1,1:49.0,21,23,NOP,CHI,2,away,DefReb,,,DefReb,,B. Portis,
+88,1,1:43.0,21,25,NOP,CHI,6,away,LU,,2,make2,2,J. Butler,
+89,1,1:29.0,21,25,NOP,CHI,14,home,JS,,26,miss3,0,D. Cousins,
+90,1,1:29.0,21,25,NOP,CHI,0,away,DefReb,,,DefReb,,D. Valentine,
+91,1,1:21.0,21,25,NOP,CHI,8,away,LU,block,3,miss2,0,R. Lopez,A. Davis
+92,1,1:21.0,21,25,NOP,CHI,0,away,OffReb,,,OffReb,,Team,
+93,1,1:21.0,21,25,NOP,CHI,0,home,Sub,,,,,D. Cunningham,D. Cousins
+94,1,1:21.0,21,25,NOP,CHI,0,away,Sub,,,,,M. Carter-Williams,R. Rondo
+95,1,1:12.0,21,27,NOP,CHI,9,away,JS,assist,21,make2,2,B. Portis,J. Butler
+96,1,1:00.0,21,27,NOP,CHI,12,home,LU,,1,miss2,0,T. Frazier,
+97,1,1:00.0,21,27,NOP,CHI,0,away,DefReb,,,DefReb,,B. Portis,
+98,1,0:50.0,21,27,NOP,CHI,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cunningham,R. Lopez
+99,1,0:50.0,21,27,NOP,CHI,0,away,FreeThrow,,,make1,0,R. Lopez,
+100,1,0:50.0,21,27,NOP,CHI,0,away,OffReb,,,OffReb,,Team,
+101,1,0:50.0,21,28,NOP,CHI,0,away,FreeThrow,,,make1,1,R. Lopez,
+102,1,0:37.0,21,28,NOP,CHI,13,home,JS,,22,miss2,0,A. Davis,
+103,1,0:37.0,21,28,NOP,CHI,0,away,DefReb,,,DefReb,,B. Portis,
+104,1,0:20.0,21,28,NOP,CHI,17,away,JS,,8,miss2,0,B. Portis,
+105,1,0:19.0,21,28,NOP,CHI,1,away,OffReb,,,OffReb,,D. Valentine,
+106,1,0:00.0,21,28,NOP,CHI,19,away,JS,,25,miss3,0,M. Carter-Williams,
+107,1,0:00.0,21,28,NOP,CHI,0,away,OffReb,,,OffReb,,Team,
+108,2,11:43.0,21,28,NOP,CHI,17,home,LU,,1,miss2,0,A. Davis,
+109,2,11:42.0,21,28,NOP,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+110,2,11:28.0,21,30,NOP,CHI,14,away,LU,,2,make2,2,D. Valentine,
+111,2,11:06.0,21,30,NOP,CHI,22,home,JS,,19,miss2,0,J. Crawford,
+112,2,11:04.0,21,30,NOP,CHI,2,home,OffReb,,,OffReb,,A. Davis,
+113,2,11:01.0,21,30,NOP,CHI,3,home,BadPass,steal,,turnover,,A. Davis,P. Zipser
+114,2,10:53.0,21,32,NOP,CHI,8,away,DK,assist,0,make2,2,J. Lauvergne,M. Carter-Williams
+115,2,10:34.0,21,32,NOP,CHI,19,home,LU,block,3,miss2,0,E. Moore,D. Valentine
+116,2,10:33.0,21,32,NOP,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+117,2,10:26.0,21,35,NOP,CHI,7,away,JS,assist,26,make3,3,D. Valentine,M. Carter-Williams
+118,2,10:24.0,21,35,NOP,CHI,2,home,Timeout,,,,,,
+119,2,10:24.0,21,35,NOP,CHI,0,home,Sub,,,,,J. Holiday,Q. Cook
+120,2,10:24.0,21,35,NOP,CHI,0,home,Sub,,,,,D. Cousins,A. Davis
+121,2,10:07.0,23,35,NOP,CHI,17,home,LU,assist,1,make2,2,E. Moore,J. Crawford
+122,2,9:50.0,23,35,NOP,CHI,17,away,JS,,26,miss3,0,D. Valentine,
+123,2,9:50.0,23,35,NOP,CHI,0,home,DefReb,,,DefReb,,D. Cousins,
+124,2,9:37.0,23,35,NOP,CHI,13,home,BadPass,steal,,turnover,,D. Cousins,M. Carter-Williams
+125,2,9:32.0,23,35,NOP,CHI,5,away,BadPass,steal,,turnover,,M. Carter-Williams,E. Moore
+126,2,9:29.0,23,35,NOP,CHI,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lauvergne,D. Cousins
+127,2,9:16.0,23,35,NOP,CHI,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Carter-Williams,J. Holiday
+128,2,9:16.0,24,35,NOP,CHI,0,home,FreeThrow,,,make1,1,J. Holiday,
+129,2,9:16.0,25,35,NOP,CHI,0,home,FreeThrow,,,make1,1,J. Holiday,
+130,2,9:00.0,25,37,NOP,CHI,16,away,JS,assist,23,make2,2,B. Portis,J. Lauvergne
+131,2,8:50.0,25,37,NOP,CHI,10,home,D3SecTech,,,,,,
+132,2,8:50.0,26,37,NOP,CHI,0,home,FreeThrow,,,make1,1,J. Holiday makes technical free throw,
+133,2,8:37.0,29,37,NOP,CHI,13,home,JS,assist,24,make3,3,D. Cunningham,J. Holiday
+134,2,8:19.0,29,40,NOP,CHI,18,away,JS,assist,26,make3,3,B. Portis,M. Carter-Williams
+135,2,8:05.0,32,40,NOP,CHI,14,home,JS,assist,26,make3,3,D. Cunningham,J. Holiday
+136,2,7:50.0,32,40,NOP,CHI,15,away,JS,,21,miss2,0,P. Zipser,
+137,2,7:49.0,32,40,NOP,CHI,1,home,DefReb,,,DefReb,,D. Cousins,
+138,2,7:37.0,32,40,NOP,CHI,12,home,JS,,6,miss2,0,D. Cunningham,
+139,2,7:37.0,32,40,NOP,CHI,0,home,OffReb,,,OffReb,,E. Moore,
+140,2,7:32.0,32,40,NOP,CHI,5,home,JS,,26,miss3,0,J. Crawford,
+141,2,7:32.0,32,40,NOP,CHI,0,away,DefReb,,,DefReb,,M. Carter-Williams,
+142,2,7:29.0,32,40,NOP,CHI,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,J. Lauvergne
+143,2,7:29.0,32,41,NOP,CHI,0,away,FreeThrow,,,make1,1,J. Lauvergne,
+144,2,7:29.0,32,42,NOP,CHI,0,away,FreeThrow,,,make1,1,J. Lauvergne,
+145,2,7:11.0,32,42,NOP,CHI,18,home,JS,,16,miss2,0,J. Holiday,
+146,2,7:10.0,32,42,NOP,CHI,1,away,DefReb,,,DefReb,,P. Zipser,
+147,2,6:54.0,32,42,NOP,CHI,16,away,LostBall,steal,,turnover,,P. Zipser,J. Crawford
+148,2,6:49.0,34,42,NOP,CHI,5,home,LU,assist,1,make2,2,J. Crawford,J. Holiday
+149,2,6:49.0,34,42,NOP,CHI,0,away,Timeout,,,,,,
+150,2,6:49.0,34,42,NOP,CHI,0,away,Sub,,,,,J. Butler,P. Zipser
+151,2,6:49.0,34,42,NOP,CHI,0,away,Sub,,,,,R. Rondo,M. Carter-Williams
+152,2,6:49.0,34,42,NOP,CHI,0,home,Sub,,,,,A. Davis,D. Cunningham
+153,2,6:31.0,34,42,NOP,CHI,18,away,LostBall,steal,,turnover,,J. Lauvergne,A. Davis
+154,2,6:24.0,36,42,NOP,CHI,7,home,JS,,10,make2,2,J. Crawford,
+155,2,6:05.0,36,44,NOP,CHI,19,away,JS,assist,16,make2,2,B. Portis,J. Lauvergne
+156,2,5:44.0,36,44,NOP,CHI,21,away,Sub,,,,,R. Lopez,J. Lauvergne
+157,2,5:39.0,38,44,NOP,CHI,5,home,JS,assist,13,make2,2,A. Davis,E. Moore
+158,2,5:20.0,38,44,NOP,CHI,19,away,JS,,20,miss2,0,R. Lopez,
+159,2,5:19.0,38,44,NOP,CHI,1,away,OffReb,,,OffReb,,J. Butler,
+160,2,5:17.0,38,44,NOP,CHI,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,J. Butler
+161,2,5:17.0,38,44,NOP,CHI,0,away,FreeThrow,,,make1,0,J. Butler,
+162,2,5:17.0,38,44,NOP,CHI,0,away,OffReb,,,OffReb,,Team,
+163,2,5:17.0,38,45,NOP,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+164,2,5:05.0,38,45,NOP,CHI,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Portis,A. Davis
+165,2,5:05.0,39,45,NOP,CHI,0,home,FreeThrow,,,make1,1,A. Davis,
+166,2,5:05.0,40,45,NOP,CHI,0,home,FreeThrow,,,make1,1,A. Davis,
+167,2,4:52.0,40,47,NOP,CHI,13,away,LU,assist,3,make2,2,R. Lopez,J. Butler
+168,2,4:37.0,40,47,NOP,CHI,15,home,LostBall,steal,,turnover,,A. Davis,J. Butler
+169,2,4:28.0,40,49,NOP,CHI,9,away,JS,assist,21,make2,2,J. Butler,R. Rondo
+170,2,4:18.0,40,49,NOP,CHI,10,home,LU,,2,miss2,0,A. Davis,
+171,2,4:17.0,40,49,NOP,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+172,2,4:12.0,40,51,NOP,CHI,5,away,JS,assist,8,make2,2,B. Portis,R. Rondo
+173,2,4:10.0,40,51,NOP,CHI,2,home,Timeout,,,,,,
+174,2,4:10.0,40,51,NOP,CHI,0,home,Sub,,,,,S. Hill,E. Moore
+175,2,3:56.0,40,51,NOP,CHI,14,home,JS,,13,miss2,0,D. Cousins,
+176,2,3:55.0,40,51,NOP,CHI,1,away,DefReb,,,DefReb,,R. Rondo,
+177,2,3:50.0,40,54,NOP,CHI,5,away,JS,assist,25,make3,3,J. Butler,R. Rondo
+178,2,3:33.0,40,54,NOP,CHI,17,home,JS,,3,miss2,0,J. Holiday,
+179,2,3:32.0,40,54,NOP,CHI,1,away,DefReb,,,DefReb,,R. Lopez,
+180,2,3:25.0,40,54,NOP,CHI,7,away,BackCourtTurnover,,,turnover,,R. Rondo,
+181,2,3:14.0,40,54,NOP,CHI,11,home,JS,,26,miss3,0,J. Holiday,
+182,2,3:14.0,40,54,NOP,CHI,0,away,DefReb,,,DefReb,,J. Butler,
+183,2,3:03.0,40,54,NOP,CHI,11,away,JS,,25,miss3,0,R. Rondo,
+184,2,3:02.0,40,54,NOP,CHI,1,home,DefReb,,,DefReb,,A. Davis,
+185,2,2:48.0,40,54,NOP,CHI,14,home,LU,,2,miss2,0,A. Davis,
+186,2,2:48.0,40,54,NOP,CHI,0,home,OffReb,,,OffReb,,Team,
+187,2,2:37.0,40,54,NOP,CHI,11,home,JS,,25,miss3,0,J. Crawford,
+188,2,2:36.0,40,54,NOP,CHI,1,home,OffReb,,,OffReb,,A. Davis,
+189,2,2:33.0,40,54,NOP,CHI,3,home,LU,,2,miss2,0,A. Davis,
+190,2,2:33.0,40,54,NOP,CHI,0,away,DefReb,,,DefReb,,Team,
+191,2,2:15.0,40,56,NOP,CHI,18,away,JS,,15,make2,2,J. Butler,
+192,2,1:55.0,40,56,NOP,CHI,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rondo,A. Davis
+193,2,1:55.0,41,56,NOP,CHI,0,home,FreeThrow,,,make1,1,A. Davis,
+194,2,1:55.0,42,56,NOP,CHI,0,home,FreeThrow,,,make1,1,A. Davis,
+195,2,1:38.0,42,58,NOP,CHI,17,away,JS,,16,make2,2,J. Butler,
+196,2,1:24.0,44,58,NOP,CHI,14,home,LU,,2,make2,2,D. Cousins,
+197,2,1:10.0,44,58,NOP,CHI,14,away,JS,,25,miss3,0,D. Valentine,
+198,2,1:09.0,44,58,NOP,CHI,1,home,DefReb,,,DefReb,,D. Cousins,
+199,2,1:00.0,44,58,NOP,CHI,9,home,BadPass,steal,,turnover,,D. Cousins,D. Valentine
+200,2,0:55.0,44,58,NOP,CHI,5,away,LU,,2,miss2,0,D. Valentine,
+201,2,0:55.0,44,58,NOP,CHI,0,away,OffReb,,,OffReb,,B. Portis,
+202,2,0:55.0,44,60,NOP,CHI,0,away,LU,,2,make2,2,B. Portis,
+203,2,0:47.0,44,60,NOP,CHI,8,home,Timeout,,,,,,
+204,2,0:47.0,44,60,NOP,CHI,0,home,Sub,,,,,D. Cunningham,A. Davis
+205,2,0:40.0,44,60,NOP,CHI,7,home,JS,,24,miss3,0,D. Cousins,
+206,2,0:39.0,44,60,NOP,CHI,1,away,DefReb,,,DefReb,,J. Butler,
+207,2,0:27.0,44,63,NOP,CHI,12,away,JS,assist,26,make3,3,J. Butler,R. Rondo
+208,2,0:13.0,47,63,NOP,CHI,14,home,JS,assist,24,make3,3,D. Cunningham,J. Crawford
+209,3,11:47.0,50,63,NOP,CHI,13,home,JS,assist,26,make3,3,J. Holiday,T. Frazier
+210,3,11:23.0,50,63,NOP,CHI,24,away,LU,,3,miss2,0,R. Rondo,
+211,3,11:23.0,50,63,NOP,CHI,0,home,DefReb,,,DefReb,,D. Cousins,
+212,3,11:11.0,53,63,NOP,CHI,12,home,JS,assist,25,make3,3,A. Davis,T. Frazier
+213,3,10:56.0,53,66,NOP,CHI,15,away,JS,assist,25,make3,3,N. Mirotić,J. Butler
+214,3,10:47.0,53,66,NOP,CHI,9,home,LU,block,2,miss2,0,T. Frazier,N. Mirotić
+215,3,10:44.0,53,66,NOP,CHI,3,home,OffReb,,,OffReb,,T. Frazier,
+216,3,10:40.0,53,66,NOP,CHI,4,home,LU,block,2,miss2,0,S. Hill,N. Mirotić
+217,3,10:37.0,53,66,NOP,CHI,3,away,DefReb,,,DefReb,,P. Zipser,
+218,3,10:23.0,53,66,NOP,CHI,14,away,JS,,25,miss3,0,P. Zipser,
+219,3,10:22.0,53,66,NOP,CHI,1,home,DefReb,,,DefReb,,A. Davis,
+220,3,10:00.0,53,66,NOP,CHI,22,home,LostBall,steal,,turnover,,D. Cousins,R. Rondo
+221,3,9:55.0,53,68,NOP,CHI,5,away,LU,,3,make2,2,R. Rondo,
+222,3,9:42.0,53,68,NOP,CHI,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,A. Davis
+223,3,9:34.0,53,68,NOP,CHI,8,home,JS,,25,miss3,0,S. Hill,
+224,3,9:33.0,53,68,NOP,CHI,1,away,DefReb,,,DefReb,,N. Mirotić,
+225,3,9:13.0,53,70,NOP,CHI,20,away,LU,,0,make2,2,R. Rondo,
+226,3,8:51.0,53,70,NOP,CHI,22,home,BadPass,steal,,turnover,,J. Holiday,R. Rondo
+227,3,8:44.0,53,70,NOP,CHI,7,away,LU,,2,miss2,0,J. Butler,
+228,3,8:39.0,53,70,NOP,CHI,5,away,OffReb,,,OffReb,,J. Butler,
+229,3,8:39.0,53,72,NOP,CHI,0,away,LU,,2,make2,2,J. Butler,
+230,3,8:29.0,55,72,NOP,CHI,10,home,DK,assist,0,make2,2,D. Cousins,T. Frazier
+231,3,8:07.0,55,74,NOP,CHI,22,away,JS,,8,make2,2,P. Zipser,
+232,3,7:48.0,55,74,NOP,CHI,19,home,D3SecTech,,,,,,
+233,3,7:48.0,56,74,NOP,CHI,0,home,FreeThrow,,,make1,1,A. Davis makes technical free throw,
+234,3,7:39.0,58,74,NOP,CHI,9,home,LU,assist,1,make2,2,A. Davis,S. Hill
+235,3,7:27.0,58,74,NOP,CHI,12,away,JS,,25,miss3,0,N. Mirotić,
+236,3,7:26.0,58,74,NOP,CHI,1,away,OffReb,,,OffReb,,R. Lopez,
+237,3,7:15.0,58,74,NOP,CHI,11,away,JS,,16,miss2,0,R. Lopez,
+238,3,7:14.0,58,74,NOP,CHI,1,home,DefReb,,,DefReb,,A. Davis,
+239,3,7:11.0,58,74,NOP,CHI,3,home,BadPass,steal,,turnover,,A. Davis,R. Rondo
+240,3,7:11.0,58,74,NOP,CHI,0,away,LU,,2,miss2,0,N. Mirotić,
+241,3,7:11.0,58,74,NOP,CHI,0,home,DefReb,,,DefReb,,T. Frazier,
+242,3,7:11.0,58,74,NOP,CHI,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,T. Frazier
+243,3,6:56.0,60,74,NOP,CHI,15,home,LU,,2,make2,2,J. Holiday,
+244,3,6:44.0,60,74,NOP,CHI,12,away,JS,,26,miss3,0,N. Mirotić,
+245,3,6:44.0,60,74,NOP,CHI,0,home,DefReb,,,DefReb,,D. Cousins,
+246,3,6:44.0,60,74,NOP,CHI,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Zipser,D. Cousins
+247,3,6:36.0,60,74,NOP,CHI,8,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,N. Mirotić,A. Davis
+248,3,6:36.0,61,74,NOP,CHI,0,home,FreeThrow,,,make1,1,A. Davis,
+249,3,6:36.0,61,74,NOP,CHI,0,home,FreeThrow,,,make1,0,A. Davis,
+250,3,6:34.0,61,74,NOP,CHI,2,away,DefReb,,,DefReb,,N. Mirotić,
+251,3,6:19.0,61,74,NOP,CHI,15,away,LU,block,2,miss2,0,R. Rondo,D. Cousins
+252,3,6:18.0,61,74,NOP,CHI,1,home,DefReb,,,DefReb,,D. Cousins,
+253,3,6:04.0,61,74,NOP,CHI,14,home,LU,block,2,miss2,0,J. Holiday,J. Butler
+254,3,6:04.0,61,74,NOP,CHI,0,away,DefReb,,,DefReb,,R. Lopez,
+255,3,5:57.0,61,76,NOP,CHI,7,away,LU,assist,2,make2,2,J. Butler,R. Rondo
+256,3,5:41.0,63,76,NOP,CHI,16,home,LU,assist,2,make2,2,J. Holiday,T. Frazier
+257,3,5:17.0,63,79,NOP,CHI,24,away,JS,assist,23,make3,3,N. Mirotić,R. Rondo
+258,3,5:01.0,66,79,NOP,CHI,16,home,JS,assist,23,make3,3,T. Frazier,D. Cousins
+259,3,4:52.0,66,79,NOP,CHI,9,away,BadPass,steal,,turnover,,N. Mirotić,S. Hill
+260,3,4:46.0,66,79,NOP,CHI,6,home,JS,,26,miss3,0,T. Frazier,
+261,3,4:44.0,66,79,NOP,CHI,2,away,DefReb,,,DefReb,,R. Rondo,
+262,3,4:19.0,66,79,NOP,CHI,25,away,JS,,19,miss2,0,P. Zipser,
+263,3,4:18.0,66,79,NOP,CHI,1,home,DefReb,,,DefReb,,D. Cousins,
+264,3,4:06.0,69,79,NOP,CHI,12,home,JS,,25,make3,3,D. Cousins,
+265,3,4:06.0,69,79,NOP,CHI,0,away,Timeout,,,,,,
+266,3,4:06.0,69,79,NOP,CHI,0,away,Sub,,,,,D. Valentine,P. Zipser
+267,3,4:06.0,69,79,NOP,CHI,0,home,Sub,,,,,D. Cunningham,D. Cousins
+268,3,4:06.0,69,79,NOP,CHI,0,home,Sub,,,,,E. Moore,T. Frazier
+269,3,4:06.0,69,79,NOP,CHI,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
+270,3,3:52.0,69,79,NOP,CHI,14,away,JS,,16,miss2,0,J. Butler,
+271,3,3:52.0,69,79,NOP,CHI,0,home,DefReb,,,DefReb,,D. Cunningham,
+272,3,3:35.0,69,79,NOP,CHI,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Valentine,E. Moore
+273,3,3:35.0,70,79,NOP,CHI,0,home,FreeThrow,,,make1,1,E. Moore,
+274,3,3:35.0,71,79,NOP,CHI,0,home,FreeThrow,,,make1,1,E. Moore,
+275,3,3:24.0,71,79,NOP,CHI,11,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,A. Davis,J. Butler
+276,3,3:24.0,71,80,NOP,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+277,3,3:24.0,71,80,NOP,CHI,0,away,Sub,,,,,J. Lauvergne,N. Mirotić
+278,3,3:24.0,71,80,NOP,CHI,0,away,Sub,,,,,B. Portis,R. Lopez
+279,3,3:24.0,71,81,NOP,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+280,3,3:16.0,71,81,NOP,CHI,8,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Lauvergne,A. Davis
+281,3,3:16.0,72,81,NOP,CHI,0,home,FreeThrow,,,make1,1,A. Davis,
+282,3,3:16.0,73,81,NOP,CHI,0,home,FreeThrow,,,make1,1,A. Davis,
+283,3,2:58.0,73,81,NOP,CHI,18,away,JS,,16,miss2,0,J. Butler,
+284,3,2:58.0,73,81,NOP,CHI,0,home,DefReb,,,DefReb,,E. Moore,
+285,3,2:49.0,73,81,NOP,CHI,9,home,JS,,12,miss2,0,E. Moore,
+286,3,2:48.0,73,81,NOP,CHI,1,home,OffReb,,,OffReb,,S. Hill,
+287,3,2:45.0,73,81,NOP,CHI,3,home,LU,,2,miss2,0,S. Hill,
+288,3,2:44.0,73,81,NOP,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+289,3,2:32.0,73,81,NOP,CHI,12,away,LU,,2,miss2,0,J. Lauvergne,
+290,3,2:29.0,73,81,NOP,CHI,3,away,OffReb,,,OffReb,,J. Lauvergne,
+291,3,2:29.0,73,81,NOP,CHI,0,away,OffGoaltending,,,turnover,,J. Lauvergne,
+292,3,2:29.0,73,81,NOP,CHI,0,home,Timeout,,,,,,
+293,3,2:29.0,73,81,NOP,CHI,0,away,Sub,,,,,M. Carter-Williams,R. Rondo
+294,3,2:15.0,73,81,NOP,CHI,14,home,LU,,2,miss2,0,E. Moore,
+295,3,2:14.0,73,81,NOP,CHI,1,away,DefReb,,,DefReb,,J. Lauvergne,
+296,3,1:58.0,73,81,NOP,CHI,16,away,BadPass,steal,,turnover,,D. Valentine,D. Cunningham
+297,3,1:56.0,73,81,NOP,CHI,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Carter-Williams,J. Holiday
+298,3,1:56.0,74,81,NOP,CHI,0,home,FreeThrow,,,make1,1,J. Holiday,
+299,3,1:56.0,75,81,NOP,CHI,0,home,FreeThrow,,,make1,1,J. Holiday,
+300,3,1:31.0,75,84,NOP,CHI,25,away,JS,assist,24,make3,3,J. Butler,M. Carter-Williams
+301,3,1:19.0,75,84,NOP,CHI,12,home,JS,,4,miss2,0,A. Davis,
+302,3,1:17.0,75,84,NOP,CHI,2,away,DefReb,,,DefReb,,M. Carter-Williams,
+303,3,1:13.0,75,84,NOP,CHI,4,away,Traveling,,,turnover,,J. Butler,
+304,3,1:13.0,75,84,NOP,CHI,0,home,Sub,,,,,D. Cousins,A. Davis
+305,3,0:57.0,77,84,NOP,CHI,16,home,DK,assist,0,make2,2,S. Hill,J. Holiday
+306,3,0:47.0,77,86,NOP,CHI,10,away,LU,,1,make2,2,J. Butler,
+307,3,0:47.0,77,86,NOP,CHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,J. Butler
+308,3,0:47.0,77,87,NOP,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+309,3,0:39.0,77,87,NOP,CHI,8,home,JS,,26,miss3,0,J. Holiday,
+310,3,0:35.0,77,87,NOP,CHI,4,away,DefReb,,,DefReb,,M. Carter-Williams,
+311,3,0:29.0,77,87,NOP,CHI,6,away,JS,,22,miss2,0,J. Butler,
+312,3,0:28.0,77,87,NOP,CHI,1,home,DefReb,,,DefReb,,S. Hill,
+313,3,0:15.0,77,87,NOP,CHI,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lauvergne,D. Cousins
+314,3,0:15.0,78,87,NOP,CHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+315,3,0:15.0,79,87,NOP,CHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+316,3,0:00.0,79,87,NOP,CHI,15,away,JS,,25,miss3,0,B. Portis,
+317,3,0:00.0,79,87,NOP,CHI,0,home,DefReb,,,DefReb,,D. Cousins,
+318,4,11:50.0,79,87,NOP,CHI,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,M. Carter-Williams
+319,4,11:41.0,79,87,NOP,CHI,9,away,JS,,11,miss2,0,B. Portis,
+320,4,11:40.0,79,87,NOP,CHI,1,home,DefReb,,,DefReb,,D. Cousins,
+321,4,11:15.0,79,87,NOP,CHI,25,home,JS,,12,miss2,0,D. Cousins,
+322,4,11:14.0,79,87,NOP,CHI,1,away,DefReb,,,DefReb,,J. Lauvergne,
+323,4,11:06.0,79,89,NOP,CHI,8,away,LU,,1,make2,2,M. Carter-Williams,
+324,4,10:45.0,79,89,NOP,CHI,21,home,BadPass,,,turnover,,T. Frazier,
+325,4,10:26.0,79,91,NOP,CHI,19,away,JS,,8,make2,2,B. Portis,
+326,4,10:13.0,79,91,NOP,CHI,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Valentine,E. Moore
+327,4,10:13.0,80,91,NOP,CHI,0,home,FreeThrow,,,make1,1,E. Moore,
+328,4,10:13.0,81,91,NOP,CHI,0,home,FreeThrow,,,make1,1,E. Moore,
+329,4,10:01.0,81,94,NOP,CHI,12,away,JS,assist,24,make3,3,J. Lauvergne,M. Carter-Williams
+330,4,9:48.0,81,94,NOP,CHI,13,home,JS,,24,miss3,0,E. Moore,
+331,4,9:47.0,81,94,NOP,CHI,1,away,DefReb,,,DefReb,,J. Lauvergne,
+332,4,9:40.0,81,97,NOP,CHI,7,away,JS,assist,25,make3,3,D. Valentine,M. Carter-Williams
+333,4,9:36.0,81,97,NOP,CHI,4,home,Timeout,,,,,,
+334,4,9:36.0,81,97,NOP,CHI,0,home,Sub,,,,,A. Davis,D. Cunningham
+335,4,9:36.0,81,97,NOP,CHI,0,home,Sub,,,,,J. Holiday,T. Frazier
+336,4,9:29.0,81,97,NOP,CHI,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Zipser,A. Davis
+337,4,9:15.0,81,97,NOP,CHI,14,home,JS,,26,miss3,0,J. Crawford,
+338,4,9:14.0,81,97,NOP,CHI,1,away,DefReb,,,DefReb,,P. Zipser,
+339,4,9:00.0,81,97,NOP,CHI,14,away,JS,,7,miss2,0,M. Carter-Williams,
+340,4,8:59.0,81,97,NOP,CHI,1,home,DefReb,,,DefReb,,D. Cousins,
+341,4,8:58.0,81,97,NOP,CHI,1,home,OffensiveFoul,,,turnover,,D. Cousins,
+342,4,8:58.0,81,97,NOP,CHI,0,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Cousins,M. Carter-Williams
+343,4,8:36.0,81,100,NOP,CHI,22,away,JS,assist,23,make3,3,B. Portis,D. Valentine
+344,4,8:30.0,81,100,NOP,CHI,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Carter-Williams,J. Crawford
+345,4,8:30.0,81,100,NOP,CHI,0,away,TechnicalFoul,,,TechnicalFoul,,M. Carter-Williams,
+346,4,8:30.0,82,100,NOP,CHI,0,home,FreeThrow,,,make1,1,J. Crawford makes technical free throw,
+347,4,8:30.0,83,100,NOP,CHI,0,home,FreeThrow,,,make1,1,J. Crawford,
+348,4,8:30.0,84,100,NOP,CHI,0,home,FreeThrow,,,make1,1,J. Crawford,
+349,4,8:16.0,84,100,NOP,CHI,14,away,JS,,13,miss2,0,B. Portis,
+350,4,8:16.0,84,100,NOP,CHI,0,home,DefReb,,,DefReb,,A. Davis,
+351,4,7:59.0,84,100,NOP,CHI,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Portis,A. Davis
+352,4,7:59.0,85,100,NOP,CHI,0,home,FreeThrow,,,make1,1,A. Davis,
+353,4,7:59.0,85,100,NOP,CHI,0,away,Sub,,,,,J. Butler,D. Valentine
+354,4,7:59.0,85,100,NOP,CHI,0,home,Sub,,,,,S. Hill,E. Moore
+355,4,7:59.0,86,100,NOP,CHI,0,home,FreeThrow,,,make1,1,A. Davis,
+356,4,7:34.0,86,100,NOP,CHI,25,away,JS,,20,miss2,0,J. Butler,
+357,4,7:34.0,86,100,NOP,CHI,0,home,DefReb,,,DefReb,,D. Cousins,
+358,4,7:20.0,88,100,NOP,CHI,14,home,JS,assist,5,make2,2,J. Crawford,A. Davis
+359,4,7:20.0,88,100,NOP,CHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Carter-Williams,J. Crawford
+360,4,7:20.0,88,100,NOP,CHI,0,away,Sub,,,,,R. Rondo,M. Carter-Williams
+361,4,7:20.0,89,100,NOP,CHI,0,home,FreeThrow,,,make1,1,J. Crawford,
+362,4,7:00.0,89,102,NOP,CHI,20,away,LU,assist,2,make2,2,R. Rondo,P. Zipser
+363,4,6:52.0,91,102,NOP,CHI,8,home,JS,,3,make2,2,J. Crawford,
+364,4,6:42.0,91,105,NOP,CHI,10,away,JS,assist,26,make3,3,J. Lauvergne,P. Zipser
+365,4,6:21.0,91,105,NOP,CHI,21,home,JS,,26,miss3,0,J. Crawford,
+366,4,6:20.0,91,105,NOP,CHI,1,away,DefReb,,,DefReb,,J. Butler,
+367,4,5:57.0,91,105,NOP,CHI,23,away,JS,,13,miss2,0,R. Rondo,
+368,4,5:56.0,91,105,NOP,CHI,1,home,DefReb,,,DefReb,,Team,
+369,4,5:56.0,91,105,NOP,CHI,0,away,Timeout,,,,,,
+370,4,5:46.0,93,105,NOP,CHI,10,home,LU,assist,2,make2,2,A. Davis,J. Crawford
+371,4,5:46.0,93,105,NOP,CHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Portis,A. Davis
+372,4,5:46.0,94,105,NOP,CHI,0,home,FreeThrow,,,make1,1,A. Davis,
+373,4,5:26.0,94,105,NOP,CHI,20,away,JS,,4,miss2,0,J. Butler,
+374,4,5:26.0,94,105,NOP,CHI,0,home,DefReb,,,DefReb,,A. Davis,
+375,4,5:18.0,94,105,NOP,CHI,8,home,JS,,25,miss3,0,J. Crawford,
+376,4,5:17.0,94,105,NOP,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+377,4,5:12.0,94,105,NOP,CHI,5,away,JS,,5,miss2,0,J. Butler,
+378,4,5:09.0,94,105,NOP,CHI,3,home,DefReb,,,DefReb,,D. Cousins,
+379,4,5:00.0,94,105,NOP,CHI,9,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Cousins,R. Rondo
+380,4,5:00.0,94,105,NOP,CHI,0,home,OffensiveFoul,,,turnover,,D. Cousins,
+381,4,4:43.0,94,108,NOP,CHI,17,away,JS,assist,24,make3,3,B. Portis,J. Butler
+382,4,4:29.0,94,108,NOP,CHI,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rondo,D. Cousins
+383,4,4:29.0,95,108,NOP,CHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+384,4,4:29.0,96,108,NOP,CHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+385,4,4:14.0,96,108,NOP,CHI,15,away,JS,,27,miss3,0,B. Portis,
+386,4,4:13.0,96,108,NOP,CHI,1,home,DefReb,,,DefReb,,S. Hill,
+387,4,4:08.0,96,108,NOP,CHI,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Portis,D. Cousins
+388,4,4:08.0,97,108,NOP,CHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+389,4,4:08.0,98,108,NOP,CHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+390,4,3:46.0,98,108,NOP,CHI,22,away,LU,,2,miss2,0,J. Butler,
+391,4,3:45.0,98,108,NOP,CHI,1,away,OffReb,,,OffReb,,J. Lauvergne,
+392,4,3:45.0,98,110,NOP,CHI,0,away,LU,,2,make2,2,J. Lauvergne,
+393,4,3:39.0,98,110,NOP,CHI,6,home,JS,,24,miss3,0,A. Davis,
+394,4,3:37.0,98,110,NOP,CHI,2,home,OffReb,,,OffReb,,D. Cousins,
+395,4,3:36.0,100,110,NOP,CHI,1,home,DK,,0,make2,2,D. Cousins,
+396,4,3:36.0,100,110,NOP,CHI,0,away,Timeout,,,,,,
+397,4,3:16.0,100,110,NOP,CHI,20,away,JS,,17,miss2,0,B. Portis,
+398,4,3:15.0,100,110,NOP,CHI,1,home,DefReb,,,DefReb,,D. Cousins,
+399,4,3:02.0,100,110,NOP,CHI,13,home,JS,,25,miss3,0,D. Cousins,
+400,4,3:02.0,100,110,NOP,CHI,0,away,DefReb,,,DefReb,,R. Rondo,
+401,4,2:54.0,100,113,NOP,CHI,8,away,JS,assist,22,make3,3,J. Lauvergne,P. Zipser
+402,4,2:41.0,103,113,NOP,CHI,13,home,JS,,25,make3,3,J. Holiday,
+403,4,2:25.0,103,113,NOP,CHI,16,away,JS,,15,miss2,0,J. Butler,
+404,4,2:24.0,103,113,NOP,CHI,1,home,DefReb,,,DefReb,,A. Davis,
+405,4,2:20.0,103,113,NOP,CHI,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Zipser,D. Cousins
+406,4,2:20.0,104,113,NOP,CHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+407,4,2:20.0,105,113,NOP,CHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+408,4,1:55.0,105,113,NOP,CHI,25,away,LU,,3,miss2,0,R. Rondo,
+409,4,1:54.0,105,113,NOP,CHI,1,home,DefReb,,,DefReb,,A. Davis,
+410,4,1:42.0,107,113,NOP,CHI,12,home,JS,assist,5,make2,2,A. Davis,D. Cousins
+411,4,1:24.0,107,113,NOP,CHI,18,away,JS,,23,miss3,0,J. Lauvergne,
+412,4,1:22.0,107,113,NOP,CHI,2,home,DefReb,,,DefReb,,Team,
+413,4,1:05.0,107,113,NOP,CHI,17,home,LU,,3,miss2,0,A. Davis,
+414,4,1:05.0,107,113,NOP,CHI,0,away,DefReb,,,DefReb,,Team,
+415,4,0:42.0,107,113,NOP,CHI,23,away,JS,block,7,miss2,0,J. Butler,J. Holiday
+416,4,0:41.0,107,113,NOP,CHI,1,home,DefReb,,,DefReb,,A. Davis,
+417,4,0:37.0,107,113,NOP,CHI,4,home,LU,block,1,miss2,0,J. Holiday,P. Zipser
+418,4,0:35.0,107,113,NOP,CHI,2,away,DefReb,,,DefReb,,R. Rondo,
+419,4,0:35.0,107,113,NOP,CHI,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,R. Rondo
+420,4,0:35.0,107,113,NOP,CHI,0,home,Sub,,,,,D. Cunningham,D. Cousins
+421,4,0:35.0,107,113,NOP,CHI,0,away,Sub,,,,,D. Valentine,R. Rondo
+422,4,0:30.0,107,113,NOP,CHI,5,away,Timeout,,,,,,
+423,4,0:20.0,107,115,NOP,CHI,10,away,JS,,20,make2,2,J. Butler,
+424,4,0:20.0,107,115,NOP,CHI,0,home,Timeout,,,,,,
+425,4,0:20.0,107,115,NOP,CHI,0,home,Sub,,,,,D. Cousins,D. Cunningham
+426,4,0:14.0,110,115,NOP,CHI,6,home,JS,assist,25,make3,3,J. Crawford,D. Cousins
+427,4,0:13.0,110,115,NOP,CHI,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Crawford,P. Zipser
+428,4,0:13.0,110,116,NOP,CHI,0,away,FreeThrow,,,make1,1,P. Zipser,
+429,4,0:13.0,110,117,NOP,CHI,0,away,FreeThrow,,,make1,1,P. Zipser,
+430,4,0:13.0,110,117,NOP,CHI,0,home,Timeout,,,,,,
+431,4,0:13.0,110,117,NOP,CHI,0,away,Sub,,,,,M. Carter-Williams,B. Portis
+432,4,0:08.0,110,117,NOP,CHI,5,home,JS,,26,miss3,0,A. Davis,
+433,4,0:08.0,110,117,NOP,CHI,0,away,DefReb,,,DefReb,,D. Valentine,

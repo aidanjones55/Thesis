@@ -1,0 +1,543 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:44.0,0,0,DAL,GSW,16,away,JS,,19,miss2,0,K. Thompson,
+1,1,11:43.0,0,0,DAL,GSW,1,home,DefReb,,,DefReb,,R. Jefferson,
+2,1,11:27.0,0,0,DAL,GSW,16,home,BadPass,steal,,turnover,,R. Rondo,K. Thompson
+3,1,11:23.0,0,2,DAL,GSW,4,away,JS,assist,4,make2,2,S. Curry,K. Thompson
+4,1,11:23.0,0,2,DAL,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,S. Curry
+5,1,11:23.0,0,3,DAL,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+6,1,11:01.0,0,3,DAL,GSW,22,home,BadPass,steal,,turnover,,R. Jefferson,K. Thompson
+7,1,10:57.0,0,5,DAL,GSW,4,away,LU,,0,make2,2,K. Thompson,
+8,1,10:40.0,0,5,DAL,GSW,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Barnes,T. Chandler
+9,1,10:40.0,0,5,DAL,GSW,0,home,FreeThrow,,,make1,0,T. Chandler,
+10,1,10:40.0,0,5,DAL,GSW,0,home,OffReb,,,OffReb,,Team,
+11,1,10:40.0,1,5,DAL,GSW,0,home,FreeThrow,,,make1,1,T. Chandler,
+12,1,10:27.0,1,5,DAL,GSW,13,away,JS,,12,miss2,0,S. Curry,
+13,1,10:26.0,1,5,DAL,GSW,1,home,DefReb,,,DefReb,,T. Chandler,
+14,1,10:19.0,3,5,DAL,GSW,7,home,LU,assist,0,make2,2,T. Chandler,R. Rondo
+15,1,10:08.0,3,8,DAL,GSW,11,away,JS,assist,22,make3,3,K. Thompson,H. Barnes
+16,1,9:54.0,3,8,DAL,GSW,14,home,JS,,3,miss2,0,M. Ellis,
+17,1,9:53.0,3,8,DAL,GSW,1,away,DefReb,,,DefReb,,D. Green,
+18,1,9:44.0,3,10,DAL,GSW,9,away,LU,assist,0,make2,2,S. Curry,A. Bogut
+19,1,9:44.0,3,10,DAL,GSW,0,home,Timeout,,,,,,
+20,1,9:25.0,3,10,DAL,GSW,19,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,K. Thompson,M. Ellis
+21,1,9:17.0,3,10,DAL,GSW,8,home,BadPass,steal,,turnover,,M. Ellis,H. Barnes
+22,1,9:13.0,3,12,DAL,GSW,4,away,DK,assist,0,make2,2,H. Barnes,K. Thompson
+23,1,8:57.0,6,12,DAL,GSW,16,home,JS,assist,23,make3,3,R. Jefferson,D. Nowitzki
+24,1,8:43.0,6,12,DAL,GSW,14,away,HS,,6,miss2,0,A. Bogut,
+25,1,8:42.0,6,12,DAL,GSW,1,home,DefReb,,,DefReb,,T. Chandler,
+26,1,8:32.0,8,12,DAL,GSW,10,home,JS,assist,12,make2,2,T. Chandler,R. Rondo
+27,1,8:15.0,8,12,DAL,GSW,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,D. Green
+28,1,8:15.0,8,12,DAL,GSW,0,away,FreeThrow,,,make1,0,D. Green,
+29,1,8:15.0,8,12,DAL,GSW,0,away,OffReb,,,OffReb,,Team,
+30,1,8:15.0,8,12,DAL,GSW,0,home,Sub,,,,,A. Aminu,D. Nowitzki
+31,1,8:15.0,8,12,DAL,GSW,0,away,FreeThrow,,,make1,0,D. Green,
+32,1,8:14.0,8,12,DAL,GSW,1,home,DefReb,,,DefReb,,R. Rondo,
+33,1,8:05.0,10,12,DAL,GSW,9,home,LU,,1,make2,2,R. Rondo,
+34,1,7:51.0,10,12,DAL,GSW,14,away,JS,,21,miss2,0,K. Thompson,
+35,1,7:49.0,10,12,DAL,GSW,2,away,OffReb,,,OffReb,,H. Barnes,
+36,1,7:47.0,10,12,DAL,GSW,2,away,LU,,1,miss2,0,H. Barnes,
+37,1,7:47.0,10,12,DAL,GSW,0,home,DefReb,,,DefReb,,T. Chandler,
+38,1,7:41.0,12,12,DAL,GSW,6,home,LU,assist,2,make2,2,R. Jefferson,R. Rondo
+39,1,7:29.0,12,15,DAL,GSW,12,away,JS,assist,22,make3,3,S. Curry,A. Bogut
+40,1,7:20.0,12,15,DAL,GSW,9,home,JS,,9,miss2,0,R. Rondo,
+41,1,7:19.0,12,15,DAL,GSW,1,home,OffReb,,,OffReb,,T. Chandler,
+42,1,7:19.0,12,15,DAL,GSW,0,home,TI,,1,miss2,0,T. Chandler,
+43,1,7:17.0,12,15,DAL,GSW,2,away,DefReb,,,DefReb,,A. Bogut,
+44,1,7:08.0,12,15,DAL,GSW,9,away,JS,,24,miss3,0,D. Green,
+45,1,7:07.0,12,15,DAL,GSW,1,home,DefReb,,,DefReb,,R. Rondo,
+46,1,7:00.0,12,15,DAL,GSW,7,home,JS,,9,miss2,0,R. Rondo,
+47,1,6:59.0,12,15,DAL,GSW,1,away,DefReb,,,DefReb,,A. Bogut,
+48,1,6:43.0,12,15,DAL,GSW,16,away,JS,,22,miss3,0,H. Barnes,
+49,1,6:42.0,12,15,DAL,GSW,1,home,DefReb,,,DefReb,,M. Ellis,
+50,1,6:36.0,12,15,DAL,GSW,6,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,K. Thompson,M. Ellis
+51,1,6:36.0,12,15,DAL,GSW,0,away,Sub,,,,,J. Holiday,K. Thompson
+52,1,6:27.0,12,15,DAL,GSW,9,home,JS,,9,miss2,0,R. Jefferson,
+53,1,6:26.0,12,15,DAL,GSW,1,away,DefReb,,,DefReb,,D. Green,
+54,1,6:20.0,12,15,DAL,GSW,6,away,JS,,26,miss3,0,S. Curry,
+55,1,6:18.0,12,15,DAL,GSW,2,away,OffReb,,,OffReb,,A. Bogut,
+56,1,6:18.0,12,17,DAL,GSW,0,away,DK,,0,make2,2,A. Bogut,
+57,1,5:52.0,12,17,DAL,GSW,26,away,Sub,,,,,A. Iguodala,D. Green
+58,1,5:49.0,12,17,DAL,GSW,3,home,JS,,22,miss3,0,A. Aminu,
+59,1,5:48.0,12,17,DAL,GSW,1,away,DefReb,,,DefReb,,A. Bogut,
+60,1,5:37.0,12,17,DAL,GSW,11,away,LostBall,steal,,turnover,,A. Bogut,R. Jefferson
+61,1,5:33.0,12,17,DAL,GSW,4,home,LU,,0,miss2,0,M. Ellis,
+62,1,5:31.0,12,17,DAL,GSW,2,away,DefReb,,,DefReb,,H. Barnes,
+63,1,5:25.0,12,19,DAL,GSW,6,away,JS,,17,make2,2,H. Barnes,
+64,1,5:04.0,12,19,DAL,GSW,21,home,JS,,3,miss2,0,A. Aminu,
+65,1,5:03.0,12,19,DAL,GSW,1,home,OffReb,,,OffReb,,Team,
+66,1,5:01.0,14,19,DAL,GSW,2,home,LU,,0,make2,2,R. Rondo,
+67,1,5:01.0,14,19,DAL,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bogut,R. Rondo
+68,1,5:01.0,14,19,DAL,GSW,0,home,Sub,,,,,A. Stoudemire,T. Chandler
+69,1,5:01.0,14,19,DAL,GSW,0,home,FreeThrow,,,make1,0,R. Rondo,
+70,1,5:00.0,14,19,DAL,GSW,1,home,OffReb,,,OffReb,,A. Aminu,
+71,1,4:56.0,14,19,DAL,GSW,4,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,H. Barnes,A. Aminu
+72,1,4:56.0,15,19,DAL,GSW,0,home,FreeThrow,,,make1,1,A. Aminu,
+73,1,4:56.0,15,19,DAL,GSW,0,home,FreeThrow,,,make1,0,A. Aminu,
+74,1,4:55.0,15,19,DAL,GSW,1,away,DefReb,,,DefReb,,A. Bogut,
+75,1,4:39.0,15,22,DAL,GSW,16,away,JS,,24,make3,3,A. Iguodala,
+76,1,4:27.0,15,22,DAL,GSW,12,home,LU,block,2,miss2,0,A. Stoudemire,A. Bogut
+77,1,4:26.0,15,22,DAL,GSW,1,away,DefReb,,,DefReb,,H. Barnes,
+78,1,4:19.0,15,22,DAL,GSW,7,away,JS,,24,miss3,0,J. Holiday,
+79,1,4:17.0,15,22,DAL,GSW,2,away,OffReb,,,OffReb,,S. Curry,
+80,1,4:15.0,15,22,DAL,GSW,2,away,BadPass,steal,,turnover,,S. Curry,R. Jefferson
+81,1,4:08.0,17,22,DAL,GSW,7,home,JS,assist,14,make2,2,M. Ellis,R. Rondo
+82,1,3:54.0,17,22,DAL,GSW,14,away,LU,,2,miss2,0,J. Holiday,
+83,1,3:53.0,17,22,DAL,GSW,1,home,DefReb,,,DefReb,,M. Ellis,
+84,1,3:41.0,17,22,DAL,GSW,12,home,JS,,6,miss2,0,A. Stoudemire,
+85,1,3:41.0,17,22,DAL,GSW,0,away,DefReb,,,DefReb,,Team,
+86,1,3:41.0,17,22,DAL,GSW,0,home,Sub,,,,,D. Harris,R. Rondo
+87,1,3:41.0,17,22,DAL,GSW,0,away,Sub,,,,,S. Livingston,H. Barnes
+88,1,3:20.0,17,22,DAL,GSW,21,away,LU,,1,miss2,0,A. Iguodala,
+89,1,3:19.0,17,22,DAL,GSW,1,home,DefReb,,,DefReb,,A. Stoudemire,
+90,1,3:19.0,17,22,DAL,GSW,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Bogut,A. Stoudemire
+91,1,3:19.0,18,22,DAL,GSW,0,home,FreeThrow,,,make1,1,A. Stoudemire,
+92,1,3:19.0,18,22,DAL,GSW,0,away,Sub,,,,,F. Ezeli,A. Bogut
+93,1,3:19.0,19,22,DAL,GSW,0,home,FreeThrow,,,make1,1,A. Stoudemire,
+94,1,3:12.0,19,22,DAL,GSW,7,away,BadPass,steal,,turnover,,S. Livingston,A. Aminu
+95,1,3:09.0,21,22,DAL,GSW,3,home,DK,,0,make2,2,A. Aminu,
+96,1,3:09.0,21,22,DAL,GSW,0,away,Timeout,,,,,,
+97,1,2:52.0,21,24,DAL,GSW,17,away,HS,assist,5,make2,2,F. Ezeli,A. Iguodala
+98,1,2:37.0,21,24,DAL,GSW,15,home,JS,,19,miss2,0,A. Stoudemire,
+99,1,2:36.0,21,24,DAL,GSW,1,away,DefReb,,,DefReb,,S. Livingston,
+100,1,2:27.0,21,24,DAL,GSW,9,away,JS,,4,miss2,0,S. Curry,
+101,1,2:26.0,21,24,DAL,GSW,1,home,DefReb,,,DefReb,,Team,
+102,1,2:08.0,23,24,DAL,GSW,18,home,LU,,0,make2,2,A. Stoudemire,
+103,1,1:58.0,23,24,DAL,GSW,10,away,BadPass,steal,,turnover,,S. Livingston,R. Jefferson
+104,1,1:57.0,23,24,DAL,GSW,1,home,ClearPathFoul,,,ClearPathFoul,,J. Holiday,
+105,1,1:57.0,24,24,DAL,GSW,0,home,FreeThrow,,,make1,1,R. Jefferson makes clear path free throw 1 of 2,
+106,1,1:57.0,24,24,DAL,GSW,0,home,FreeThrow,,,make1,0,R. Jefferson misses clear path free throw 2 of 2,
+107,1,1:57.0,24,24,DAL,GSW,0,home,OffReb,,,OffReb,,Team,
+108,1,1:57.0,24,24,DAL,GSW,0,away,Sub,,,,,L. Barbosa,S. Curry
+109,1,1:47.0,24,24,DAL,GSW,10,home,BadPass,steal,,turnover,,D. Harris,L. Barbosa
+110,1,1:41.0,24,24,DAL,GSW,6,away,JS,,23,miss3,0,J. Holiday,
+111,1,1:40.0,24,24,DAL,GSW,1,home,DefReb,,,DefReb,,A. Stoudemire,
+112,1,1:34.0,24,24,DAL,GSW,6,home,Traveling,,,turnover,,D. Harris,
+113,1,1:34.0,24,24,DAL,GSW,0,home,Sub,,,,,J. Barea,M. Ellis
+114,1,1:17.0,24,24,DAL,GSW,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Aminu,F. Ezeli
+115,1,1:17.0,24,24,DAL,GSW,0,home,Sub,,,,,C. Villanueva,R. Jefferson
+116,1,1:09.0,24,26,DAL,GSW,8,away,JS,,13,make2,2,S. Livingston,
+117,1,0:53.0,24,26,DAL,GSW,16,home,JS,,11,miss2,0,J. Barea,
+118,1,0:52.0,24,26,DAL,GSW,1,away,DefReb,,,DefReb,,F. Ezeli,
+119,1,0:45.0,24,26,DAL,GSW,7,away,JS,,22,miss3,0,A. Iguodala,
+120,1,0:44.0,24,26,DAL,GSW,1,away,OffReb,,,OffReb,,F. Ezeli,
+121,1,0:44.0,24,26,DAL,GSW,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Villanueva,F. Ezeli
+122,1,0:44.0,24,26,DAL,GSW,0,away,FreeThrow,,,make1,0,F. Ezeli,
+123,1,0:44.0,24,26,DAL,GSW,0,away,OffReb,,,OffReb,,Team,
+124,1,0:44.0,24,26,DAL,GSW,0,away,FreeThrow,,,make1,0,F. Ezeli,
+125,1,0:44.0,24,26,DAL,GSW,0,home,DefReb,,,DefReb,,A. Aminu,
+126,1,0:27.0,24,26,DAL,GSW,17,home,BadPass,steal,,turnover,,J. Barea,F. Ezeli
+127,1,0:23.0,24,26,DAL,GSW,4,away,OffensiveFoul,,,turnover,,J. Holiday,
+128,1,0:23.0,24,26,DAL,GSW,0,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Holiday,D. Harris
+129,1,0:04.0,24,26,DAL,GSW,19,home,JS,block,6,miss2,0,J. Barea,J. Holiday
+130,1,0:04.0,24,26,DAL,GSW,0,home,OffReb,,,OffReb,,Team,
+131,1,0:02.0,24,26,DAL,GSW,2,home,LU,block,1,miss2,0,D. Harris,F. Ezeli
+132,1,0:01.0,24,26,DAL,GSW,1,away,DefReb,,,DefReb,,J. Holiday,
+133,1,0:00.0,24,26,DAL,GSW,1,away,JS,,65,miss3,0,A. Iguodala,
+134,1,0:00.0,24,26,DAL,GSW,0,away,OffReb,,,OffReb,,Team,
+135,2,11:47.0,26,26,DAL,GSW,13,home,JS,assist,15,make2,2,D. Nowitzki,J. Barea
+136,2,11:34.0,26,29,DAL,GSW,13,away,JS,assist,23,make3,3,A. Iguodala,L. Barbosa
+137,2,11:15.0,28,29,DAL,GSW,19,home,DK,assist,0,make2,2,A. Stoudemire,D. Harris
+138,2,10:57.0,28,29,DAL,GSW,18,away,JS,,17,miss2,0,D. Green,
+139,2,10:56.0,28,29,DAL,GSW,1,home,DefReb,,,DefReb,,D. Harris,
+140,2,10:36.0,28,29,DAL,GSW,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Livingston,D. Nowitzki
+141,2,10:36.0,28,29,DAL,GSW,0,home,FreeThrow,,,make1,0,D. Nowitzki,
+142,2,10:36.0,28,29,DAL,GSW,0,home,OffReb,,,OffReb,,Team,
+143,2,10:36.0,29,29,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+144,2,10:24.0,29,31,DAL,GSW,12,away,JS,assist,15,make2,2,M. Speights,S. Livingston
+145,2,10:09.0,31,31,DAL,GSW,15,home,JS,,5,make2,2,J. Barea,
+146,2,9:56.0,31,33,DAL,GSW,13,away,JS,assist,22,make2,2,M. Speights,L. Barbosa
+147,2,9:43.0,31,33,DAL,GSW,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,D. Harris
+148,2,9:43.0,31,33,DAL,GSW,0,home,FreeThrow,,,make1,0,D. Harris,
+149,2,9:43.0,31,33,DAL,GSW,0,home,OffReb,,,OffReb,,Team,
+150,2,9:43.0,32,33,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Harris,
+151,2,9:30.0,32,33,DAL,GSW,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,M. Speights
+152,2,9:30.0,32,34,DAL,GSW,0,away,FreeThrow,,,make1,1,M. Speights,
+153,2,9:30.0,32,34,DAL,GSW,0,home,Sub,,,,,C. Villanueva,D. Nowitzki
+154,2,9:30.0,32,35,DAL,GSW,0,away,FreeThrow,,,make1,1,M. Speights,
+155,2,9:10.0,32,35,DAL,GSW,20,home,JS,,19,miss2,0,A. Stoudemire,
+156,2,9:09.0,32,35,DAL,GSW,1,away,DefReb,,,DefReb,,Team,
+157,2,9:09.0,32,35,DAL,GSW,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Barea,D. Green
+158,2,9:09.0,32,35,DAL,GSW,0,away,Sub,,,,,K. Thompson,S. Livingston
+159,2,9:09.0,32,35,DAL,GSW,0,home,Sub,,,,,T. Chandler,A. Stoudemire
+160,2,8:56.0,32,37,DAL,GSW,13,away,LU,assist,1,make2,2,D. Green,M. Speights
+161,2,8:47.0,32,37,DAL,GSW,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Barbosa,J. Barea
+162,2,8:47.0,32,37,DAL,GSW,0,away,Timeout,,,,,,
+163,2,8:47.0,33,37,DAL,GSW,0,home,FreeThrow,,,make1,1,J. Barea,
+164,2,8:47.0,33,37,DAL,GSW,0,home,FreeThrow,,,make1,0,J. Barea,
+165,2,8:46.0,33,37,DAL,GSW,1,away,DefReb,,,DefReb,,D. Green,
+166,2,8:32.0,33,37,DAL,GSW,14,away,JS,,19,miss2,0,M. Speights,
+167,2,8:31.0,33,37,DAL,GSW,1,home,DefReb,,,DefReb,,C. Villanueva,
+168,2,8:13.0,33,37,DAL,GSW,18,home,LU,block,2,miss2,0,J. Barea,L. Barbosa
+169,2,8:11.0,33,37,DAL,GSW,2,away,DefReb,,,DefReb,,D. Green,
+170,2,8:03.0,33,37,DAL,GSW,8,away,JS,,24,miss3,0,A. Iguodala,
+171,2,8:02.0,33,37,DAL,GSW,1,home,DefReb,,,DefReb,,C. Villanueva,
+172,2,7:49.0,33,37,DAL,GSW,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,A. Aminu
+173,2,7:49.0,34,37,DAL,GSW,0,home,FreeThrow,,,make1,1,A. Aminu,
+174,2,7:49.0,34,37,DAL,GSW,0,away,Sub,,,,,A. Bogut,M. Speights
+175,2,7:49.0,34,37,DAL,GSW,0,home,FreeThrow,,,make1,0,A. Aminu,
+176,2,7:48.0,34,37,DAL,GSW,1,away,DefReb,,,DefReb,,A. Iguodala,
+177,2,7:32.0,34,37,DAL,GSW,16,away,BadPass,steal,,turnover,,K. Thompson,A. Aminu
+178,2,7:26.0,34,37,DAL,GSW,6,home,JS,,25,miss3,0,D. Harris,
+179,2,7:24.0,34,37,DAL,GSW,2,home,OffReb,,,OffReb,,C. Villanueva,
+180,2,7:24.0,36,37,DAL,GSW,0,home,LU,,0,make2,2,C. Villanueva,
+181,2,7:06.0,36,37,DAL,GSW,18,away,JS,,12,miss2,0,K. Thompson,
+182,2,7:05.0,36,37,DAL,GSW,1,away,OffReb,,,OffReb,,A. Bogut,
+183,2,7:05.0,36,37,DAL,GSW,0,away,TI,,0,miss2,0,A. Bogut,
+184,2,7:04.0,36,37,DAL,GSW,1,home,DefReb,,,DefReb,,T. Chandler,
+185,2,7:01.0,36,37,DAL,GSW,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bogut,T. Chandler
+186,2,7:01.0,36,37,DAL,GSW,0,home,FreeThrow,,,make1,0,T. Chandler,
+187,2,7:01.0,36,37,DAL,GSW,0,home,OffReb,,,OffReb,,Team,
+188,2,7:01.0,36,37,DAL,GSW,0,away,Sub,,,,,F. Ezeli,A. Bogut
+189,2,7:01.0,37,37,DAL,GSW,0,home,FreeThrow,,,make1,1,T. Chandler,
+190,2,6:45.0,37,37,DAL,GSW,16,away,JS,,5,miss2,0,A. Iguodala,
+191,2,6:44.0,37,37,DAL,GSW,1,away,OffReb,,,OffReb,,F. Ezeli,
+192,2,6:40.0,37,40,DAL,GSW,4,away,JS,assist,22,make3,3,L. Barbosa,A. Iguodala
+193,2,6:31.0,37,40,DAL,GSW,9,home,BadPass,steal,,turnover,,J. Barea,D. Green
+194,2,6:26.0,37,40,DAL,GSW,5,away,JS,,4,miss2,0,A. Iguodala,
+195,2,6:25.0,37,40,DAL,GSW,1,home,DefReb,,,DefReb,,A. Aminu,
+196,2,6:21.0,37,40,DAL,GSW,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,F. Ezeli,A. Aminu
+197,2,6:21.0,37,40,DAL,GSW,0,home,FreeThrow,,,make1,0,A. Aminu,
+198,2,6:21.0,37,40,DAL,GSW,0,home,OffReb,,,OffReb,,Team,
+199,2,6:21.0,38,40,DAL,GSW,0,home,FreeThrow,,,make1,1,A. Aminu,
+200,2,6:06.0,38,40,DAL,GSW,15,away,JS,,23,miss3,0,K. Thompson,
+201,2,6:05.0,38,40,DAL,GSW,1,home,DefReb,,,DefReb,,A. Aminu,
+202,2,5:58.0,38,40,DAL,GSW,7,home,JS,,25,miss3,0,C. Villanueva,
+203,2,5:57.0,38,40,DAL,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
+204,2,5:50.0,38,43,DAL,GSW,7,away,JS,assist,24,make3,3,D. Green,K. Thompson
+205,2,5:49.0,38,43,DAL,GSW,1,home,Timeout,,,,,,
+206,2,5:49.0,38,43,DAL,GSW,0,home,Sub,,,,,M. Ellis,A. Aminu
+207,2,5:49.0,38,43,DAL,GSW,0,home,Sub,,,,,R. Rondo,D. Harris
+208,2,5:49.0,38,43,DAL,GSW,0,home,Sub,,,,,R. Jefferson,J. Barea
+209,2,5:49.0,38,43,DAL,GSW,0,away,Sub,,,,,S. Curry,A. Iguodala
+210,2,5:49.0,38,43,DAL,GSW,0,away,Sub,,,,,H. Barnes,L. Barbosa
+211,2,5:34.0,38,43,DAL,GSW,15,home,JS,,17,miss2,0,C. Villanueva,
+212,2,5:33.0,38,43,DAL,GSW,1,away,DefReb,,,DefReb,,F. Ezeli,
+213,2,5:09.0,38,43,DAL,GSW,24,away,JS,,10,miss2,0,H. Barnes,
+214,2,5:08.0,38,43,DAL,GSW,1,home,DefReb,,,DefReb,,C. Villanueva,
+215,2,4:56.0,38,43,DAL,GSW,12,home,JS,,4,miss2,0,C. Villanueva,
+216,2,4:55.0,38,43,DAL,GSW,1,away,DefReb,,,DefReb,,F. Ezeli,
+217,2,4:38.0,38,43,DAL,GSW,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Chandler,F. Ezeli
+218,2,4:38.0,38,44,DAL,GSW,0,away,FreeThrow,,,make1,1,F. Ezeli,
+219,2,4:38.0,38,45,DAL,GSW,0,away,FreeThrow,,,make1,1,F. Ezeli,
+220,2,4:23.0,38,45,DAL,GSW,15,home,JS,,18,miss2,0,M. Ellis,
+221,2,4:21.0,38,45,DAL,GSW,2,home,OffReb,,,OffReb,,C. Villanueva,
+222,2,4:21.0,38,45,DAL,GSW,0,home,LU,,3,miss2,0,C. Villanueva,
+223,2,4:20.0,38,45,DAL,GSW,1,home,OffReb,,,OffReb,,T. Chandler,
+224,2,4:20.0,40,45,DAL,GSW,0,home,DK,,0,make2,2,T. Chandler,
+225,2,4:07.0,40,45,DAL,GSW,13,away,JS,,22,miss3,0,H. Barnes,
+226,2,4:06.0,40,45,DAL,GSW,1,away,OffReb,,,OffReb,,H. Barnes,
+227,2,3:59.0,40,47,DAL,GSW,7,away,DK,assist,0,make2,2,H. Barnes,S. Curry
+228,2,3:36.0,40,47,DAL,GSW,23,home,JS,,4,miss2,0,M. Ellis,
+229,2,3:35.0,40,47,DAL,GSW,1,away,DefReb,,,DefReb,,F. Ezeli,
+230,2,3:28.0,40,47,DAL,GSW,7,away,JS,,24,miss3,0,S. Curry,
+231,2,3:27.0,40,47,DAL,GSW,1,home,DefReb,,,DefReb,,T. Chandler,
+232,2,3:18.0,40,47,DAL,GSW,9,home,JS,,24,miss3,0,R. Jefferson,
+233,2,3:17.0,40,47,DAL,GSW,1,away,DefReb,,,DefReb,,S. Curry,
+234,2,3:12.0,40,49,DAL,GSW,5,away,LU,,2,make2,2,S. Curry,
+235,2,2:52.0,40,49,DAL,GSW,20,away,Timeout,,,,,,
+236,2,2:52.0,40,49,DAL,GSW,0,home,Sub,,,,,A. Aminu,C. Villanueva
+237,2,2:52.0,40,49,DAL,GSW,0,away,Sub,,,,,A. Iguodala,D. Green
+238,2,2:47.0,40,49,DAL,GSW,5,home,JS,,24,miss3,0,R. Rondo,
+239,2,2:46.0,40,49,DAL,GSW,1,home,OffReb,,,OffReb,,T. Chandler,
+240,2,2:41.0,42,49,DAL,GSW,5,home,JS,,7,make2,2,M. Ellis,
+241,2,2:19.0,42,51,DAL,GSW,22,away,LU,assist,1,make2,2,F. Ezeli,A. Iguodala
+242,2,2:11.0,42,51,DAL,GSW,8,away,KickBallViolation,,,KickBallViolation,,K. Thompson,
+243,2,2:06.0,42,51,DAL,GSW,5,home,JS,,18,miss2,0,M. Ellis,
+244,2,2:06.0,42,51,DAL,GSW,0,home,OffReb,,,OffReb,,R. Rondo,
+245,2,2:01.0,42,51,DAL,GSW,5,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,F. Ezeli,R. Jefferson
+246,2,2:01.0,43,51,DAL,GSW,0,home,FreeThrow,,,make1,1,R. Jefferson,
+247,2,2:01.0,43,51,DAL,GSW,0,away,Timeout,,,,,,
+248,2,2:01.0,44,51,DAL,GSW,0,home,FreeThrow,,,make1,1,R. Jefferson,
+249,2,1:46.0,44,51,DAL,GSW,15,away,JS,,24,miss3,0,H. Barnes,
+250,2,1:45.0,44,51,DAL,GSW,1,away,OffReb,,,OffReb,,S. Curry,
+251,2,1:41.0,44,54,DAL,GSW,4,away,JS,assist,23,make3,3,K. Thompson,S. Curry
+252,2,1:33.0,44,54,DAL,GSW,8,home,LostBall,steal,,turnover,,M. Ellis,H. Barnes
+253,2,1:29.0,44,56,DAL,GSW,4,away,DK,assist,0,make2,2,A. Iguodala,H. Barnes
+254,2,1:28.0,44,56,DAL,GSW,1,home,Timeout,,,,,,
+255,2,1:28.0,44,56,DAL,GSW,0,home,Sub,,,,,A. Stoudemire,T. Chandler
+256,2,1:28.0,44,56,DAL,GSW,0,away,Sub,,,,,S. Livingston,H. Barnes
+257,2,1:06.0,44,56,DAL,GSW,22,home,JS,,10,miss2,0,A. Stoudemire,
+258,2,1:05.0,44,56,DAL,GSW,1,away,DefReb,,,DefReb,,S. Livingston,
+259,2,0:55.0,44,56,DAL,GSW,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,S. Curry
+260,2,0:46.0,44,56,DAL,GSW,9,away,JS,,7,miss2,0,F. Ezeli,
+261,2,0:45.0,44,56,DAL,GSW,1,home,DefReb,,,DefReb,,A. Aminu,
+262,2,0:36.0,44,56,DAL,GSW,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,F. Ezeli,M. Ellis
+263,2,0:36.0,45,56,DAL,GSW,0,home,FreeThrow,,,make1,1,M. Ellis,
+264,2,0:36.0,45,56,DAL,GSW,0,away,Sub,,,,,M. Speights,F. Ezeli
+265,2,0:36.0,45,56,DAL,GSW,0,home,FreeThrow,,,make1,0,M. Ellis,
+266,2,0:36.0,45,56,DAL,GSW,0,away,DefReb,,,DefReb,,S. Curry,
+267,2,0:25.0,45,56,DAL,GSW,11,away,JS,,24,miss3,0,K. Thompson,
+268,2,0:24.0,45,56,DAL,GSW,1,home,DefReb,,,DefReb,,R. Jefferson,
+269,2,0:03.0,47,56,DAL,GSW,21,home,LU,,1,make2,2,M. Ellis,
+270,2,0:03.0,47,56,DAL,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,M. Ellis
+271,2,0:03.0,47,56,DAL,GSW,0,home,Sub,,,,,D. Harris,A. Stoudemire
+272,2,0:03.0,48,56,DAL,GSW,0,home,FreeThrow,,,make1,1,M. Ellis,
+273,2,0:00.0,48,59,DAL,GSW,3,away,JS,,35,make3,3,M. Speights,
+274,3,12:00.0,48,59,DAL,GSW,0,away,TechnicalFoul,,,TechnicalFoul,,Team,
+275,3,12:00.0,48,59,DAL,GSW,0,home,FreeThrow,,,make1,0,M. Ellis misses technical free throw,
+276,3,12:00.0,48,59,DAL,GSW,0,home,OffReb,,,OffReb,,Team,
+277,3,11:46.0,48,59,DAL,GSW,14,home,JS,,9,miss2,0,M. Ellis,
+278,3,11:45.0,48,59,DAL,GSW,1,away,DefReb,,,DefReb,,H. Barnes,
+279,3,11:28.0,48,62,DAL,GSW,17,away,JS,assist,23,make3,3,K. Thompson,D. Green
+280,3,11:13.0,50,62,DAL,GSW,15,home,JS,assist,20,make2,2,M. Ellis,R. Rondo
+281,3,11:00.0,50,65,DAL,GSW,13,away,JS,assist,23,make3,3,K. Thompson,S. Curry
+282,3,10:42.0,50,65,DAL,GSW,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bogut,D. Nowitzki
+283,3,10:33.0,50,65,DAL,GSW,9,home,JS,,25,miss3,0,M. Ellis,
+284,3,10:31.0,50,65,DAL,GSW,2,away,DefReb,,,DefReb,,H. Barnes,
+285,3,10:26.0,50,65,DAL,GSW,5,away,JS,,24,miss3,0,K. Thompson,
+286,3,10:24.0,50,65,DAL,GSW,2,away,OffReb,,,OffReb,,H. Barnes,
+287,3,10:19.0,50,65,DAL,GSW,5,away,JS,,21,miss2,0,H. Barnes,
+288,3,10:18.0,50,65,DAL,GSW,1,home,DefReb,,,DefReb,,D. Nowitzki,
+289,3,10:09.0,50,65,DAL,GSW,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Curry,D. Nowitzki
+290,3,10:09.0,50,65,DAL,GSW,0,home,FreeThrow,,,make1,0,D. Nowitzki,
+291,3,10:09.0,50,65,DAL,GSW,0,home,OffReb,,,OffReb,,Team,
+292,3,10:09.0,51,65,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+293,3,9:59.0,51,67,DAL,GSW,10,away,LU,assist,1,make2,2,A. Bogut,D. Green
+294,3,9:46.0,51,67,DAL,GSW,13,home,BadPass,steal,,turnover,,M. Ellis,S. Curry
+295,3,9:38.0,51,67,DAL,GSW,8,away,JS,,23,miss3,0,K. Thompson,
+296,3,9:37.0,51,67,DAL,GSW,1,home,DefReb,,,DefReb,,T. Chandler,
+297,3,9:16.0,51,67,DAL,GSW,21,home,JS,,21,miss2,0,R. Jefferson,
+298,3,9:15.0,51,67,DAL,GSW,1,away,DefReb,,,DefReb,,A. Bogut,
+299,3,9:09.0,51,67,DAL,GSW,6,away,JS,,11,miss2,0,D. Green,
+300,3,9:09.0,51,67,DAL,GSW,0,away,OffReb,,,OffReb,,K. Thompson,
+301,3,9:09.0,51,69,DAL,GSW,0,away,LU,,0,make2,2,K. Thompson,
+302,3,9:09.0,51,69,DAL,GSW,0,home,Timeout,,,,,,
+303,3,8:55.0,51,69,DAL,GSW,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Barnes,R. Jefferson
+304,3,8:55.0,52,69,DAL,GSW,0,home,FreeThrow,,,make1,1,R. Jefferson,
+305,3,8:55.0,53,69,DAL,GSW,0,home,FreeThrow,,,make1,1,R. Jefferson,
+306,3,8:33.0,53,69,DAL,GSW,22,away,JS,,7,miss2,0,K. Thompson,
+307,3,8:32.0,53,69,DAL,GSW,1,home,DefReb,,,DefReb,,T. Chandler,
+308,3,8:21.0,55,69,DAL,GSW,11,home,JS,,10,make2,2,D. Nowitzki,
+309,3,8:21.0,55,69,DAL,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,D. Nowitzki
+310,3,8:21.0,56,69,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+311,3,8:05.0,56,69,DAL,GSW,16,away,JS,,5,miss2,0,S. Curry,
+312,3,8:04.0,56,69,DAL,GSW,1,home,DefReb,,,DefReb,,R. Jefferson,
+313,3,7:56.0,56,69,DAL,GSW,8,home,BadPass,,,turnover,,D. Nowitzki,
+314,3,7:48.0,56,69,DAL,GSW,8,away,JS,,3,miss2,0,S. Curry,
+315,3,7:47.0,56,69,DAL,GSW,1,away,OffReb,,,OffReb,,A. Bogut,
+316,3,7:47.0,56,71,DAL,GSW,0,away,LU,,0,make2,2,A. Bogut,
+317,3,7:36.0,58,71,DAL,GSW,11,home,JS,,11,make2,2,M. Ellis,
+318,3,7:24.0,58,71,DAL,GSW,12,away,JS,,2,miss2,0,D. Green,
+319,3,7:23.0,58,71,DAL,GSW,1,home,DefReb,,,DefReb,,T. Chandler,
+320,3,7:17.0,58,71,DAL,GSW,6,home,BadPass,steal,,turnover,,R. Jefferson,H. Barnes
+321,3,7:12.0,58,71,DAL,GSW,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rondo,H. Barnes
+322,3,7:12.0,58,72,DAL,GSW,0,away,FreeThrow,,,make1,1,H. Barnes,
+323,3,7:12.0,58,72,DAL,GSW,0,home,Sub,,,,,D. Harris,R. Rondo
+324,3,7:12.0,58,73,DAL,GSW,0,away,FreeThrow,,,make1,1,H. Barnes,
+325,3,6:54.0,60,73,DAL,GSW,18,home,JS,,13,make2,2,D. Nowitzki,
+326,3,6:45.0,60,73,DAL,GSW,9,home,ChargeFoul,DrawnBy,,ChargeFoul,,D. Green,M. Ellis
+327,3,6:45.0,60,73,DAL,GSW,0,away,OffensiveFoul,,,turnover,,D. Green,
+328,3,6:41.0,60,73,DAL,GSW,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,D. Nowitzki
+329,3,6:41.0,61,73,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+330,3,6:41.0,61,73,DAL,GSW,0,away,Sub,,,,,A. Iguodala,D. Green
+331,3,6:41.0,62,73,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+332,3,6:25.0,62,73,DAL,GSW,16,home,KickBallViolation,,,KickBallViolation,,D. Nowitzki,
+333,3,6:25.0,62,73,DAL,GSW,0,home,Sub,,,,,J. Barea,R. Jefferson
+334,3,6:16.0,62,73,DAL,GSW,9,away,JS,,24,miss3,0,K. Thompson,
+335,3,6:15.0,62,73,DAL,GSW,1,home,DefReb,,,DefReb,,D. Nowitzki,
+336,3,6:07.0,62,73,DAL,GSW,8,home,JS,,16,miss2,0,D. Nowitzki,
+337,3,6:06.0,62,73,DAL,GSW,1,away,DefReb,,,DefReb,,A. Bogut,
+338,3,6:02.0,62,73,DAL,GSW,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Barea,H. Barnes
+339,3,6:02.0,62,74,DAL,GSW,0,away,FreeThrow,,,make1,1,H. Barnes,
+340,3,6:02.0,62,74,DAL,GSW,0,away,FreeThrow,,,make1,0,H. Barnes,
+341,3,6:01.0,62,74,DAL,GSW,1,home,DefReb,,,DefReb,,D. Nowitzki,
+342,3,5:42.0,62,74,DAL,GSW,19,home,JS,,22,miss2,0,M. Ellis,
+343,3,5:41.0,62,74,DAL,GSW,1,away,DefReb,,,DefReb,,A. Bogut,
+344,3,5:27.0,62,74,DAL,GSW,14,away,Traveling,,,turnover,,K. Thompson,
+345,3,5:13.0,62,74,DAL,GSW,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,H. Barnes,D. Nowitzki
+346,3,5:13.0,63,74,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+347,3,5:13.0,63,74,DAL,GSW,0,away,Sub,,,,,L. Barbosa,K. Thompson
+348,3,5:13.0,63,74,DAL,GSW,0,home,FreeThrow,,,make1,0,D. Nowitzki,
+349,3,5:12.0,63,74,DAL,GSW,1,away,DefReb,,,DefReb,,A. Bogut,
+350,3,4:57.0,63,74,DAL,GSW,15,away,JS,,23,miss3,0,A. Iguodala,
+351,3,4:56.0,63,74,DAL,GSW,1,home,DefReb,,,DefReb,,T. Chandler,
+352,3,4:48.0,65,74,DAL,GSW,8,home,JS,,14,make2,2,J. Barea,
+353,3,4:36.0,65,74,DAL,GSW,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,S. Curry
+354,3,4:36.0,65,74,DAL,GSW,0,away,Sub,,,,,S. Livingston,H. Barnes
+355,3,4:36.0,65,74,DAL,GSW,0,home,Sub,,,,,A. Aminu,D. Nowitzki
+356,3,4:26.0,65,74,DAL,GSW,10,away,JS,,11,miss2,0,A. Bogut,
+357,3,4:25.0,65,74,DAL,GSW,1,home,DefReb,,,DefReb,,T. Chandler,
+358,3,4:07.0,65,74,DAL,GSW,18,home,JS,,17,miss2,0,D. Harris,
+359,3,4:07.0,65,74,DAL,GSW,0,away,DefReb,,,DefReb,,A. Iguodala,
+360,3,4:07.0,65,74,DAL,GSW,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Aminu,A. Iguodala
+361,3,3:55.0,65,76,DAL,GSW,12,away,HS,,5,make2,2,A. Bogut,
+362,3,3:44.0,67,76,DAL,GSW,11,home,LU,assist,0,make2,2,T. Chandler,J. Barea
+363,3,3:32.0,67,76,DAL,GSW,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,S. Curry
+364,3,3:32.0,67,76,DAL,GSW,0,away,FreeThrow,,,make1,0,S. Curry,
+365,3,3:32.0,67,76,DAL,GSW,0,away,OffReb,,,OffReb,,Team,
+366,3,3:32.0,67,76,DAL,GSW,0,away,Sub,,,,,F. Ezeli,A. Bogut
+367,3,3:32.0,67,77,DAL,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+368,3,3:26.0,69,77,DAL,GSW,6,home,LU,assist,2,make2,2,M. Ellis,J. Barea
+369,3,3:25.0,69,77,DAL,GSW,1,away,Timeout,,,,,,
+370,3,3:25.0,69,77,DAL,GSW,0,home,Sub,,,,,A. Stoudemire,T. Chandler
+371,3,3:09.0,69,77,DAL,GSW,16,away,JS,,5,miss2,0,S. Curry,
+372,3,3:08.0,69,77,DAL,GSW,1,away,OffReb,,,OffReb,,F. Ezeli,
+373,3,3:08.0,69,77,DAL,GSW,0,away,JS,block,3,miss2,0,F. Ezeli,A. Stoudemire
+374,3,3:08.0,69,77,DAL,GSW,0,away,OffReb,,,OffReb,,F. Ezeli,
+375,3,3:01.0,69,80,DAL,GSW,7,away,JS,assist,24,make3,3,A. Iguodala,L. Barbosa
+376,3,2:45.0,69,80,DAL,GSW,16,home,LostBall,steal,,turnover,,D. Harris,L. Barbosa
+377,3,2:41.0,69,82,DAL,GSW,4,away,LU,assist,1,make2,2,A. Iguodala,S. Livingston
+378,3,2:40.0,69,82,DAL,GSW,1,home,Timeout,,,,,,
+379,3,2:26.0,71,82,DAL,GSW,14,home,LU,,0,make2,2,A. Stoudemire,
+380,3,2:20.0,71,82,DAL,GSW,6,away,TechnicalFoul,,,TechnicalFoul,,F. Ezeli,
+381,3,2:20.0,72,82,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Harris makes technical free throw,
+382,3,2:05.0,72,84,DAL,GSW,15,away,JS,,12,make2,2,A. Iguodala,
+383,3,1:53.0,72,84,DAL,GSW,12,home,JS,,7,miss2,0,J. Barea,
+384,3,1:52.0,72,84,DAL,GSW,1,away,DefReb,,,DefReb,,Team,
+385,3,1:52.0,72,84,DAL,GSW,0,home,Sub,,,,,D. Nowitzki,M. Ellis
+386,3,1:38.0,72,86,DAL,GSW,14,away,LU,assist,0,make2,2,L. Barbosa,A. Iguodala
+387,3,1:28.0,73,86,DAL,GSW,10,home,FreeThrow,,,make1,1,D. Nowitzki makes flagrant free throw 1 of 2,
+388,3,1:28.0,74,86,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Nowitzki makes flagrant free throw 2 of 2,
+389,3,1:15.0,74,86,DAL,GSW,13,home,JS,,22,miss3,0,A. Aminu,
+390,3,1:14.0,74,86,DAL,GSW,1,home,OffReb,,,OffReb,,A. Aminu,
+391,3,1:09.0,76,86,DAL,GSW,5,home,JS,,3,make2,2,A. Aminu,
+392,3,0:51.0,76,86,DAL,GSW,18,away,JS,,24,miss3,0,S. Curry,
+393,3,0:49.0,76,86,DAL,GSW,2,away,OffReb,,,OffReb,,F. Ezeli,
+394,3,0:49.0,76,88,DAL,GSW,0,away,LU,,1,make2,2,F. Ezeli,
+395,3,0:31.0,76,88,DAL,GSW,18,home,JS,,26,miss3,0,J. Barea,
+396,3,0:30.0,76,88,DAL,GSW,1,away,DefReb,,,DefReb,,L. Barbosa,
+397,3,0:25.0,76,88,DAL,GSW,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,L. Barbosa
+398,3,0:25.0,76,89,DAL,GSW,0,away,FreeThrow,,,make1,1,L. Barbosa,
+399,3,0:25.0,76,89,DAL,GSW,0,away,Sub,,,,,J. Holiday,S. Curry
+400,3,0:25.0,76,90,DAL,GSW,0,away,FreeThrow,,,make1,1,L. Barbosa,
+401,3,0:05.0,76,90,DAL,GSW,20,home,JS,,17,miss2,0,D. Harris,
+402,3,0:04.0,76,90,DAL,GSW,1,away,DefReb,,,DefReb,,A. Iguodala,
+403,3,0:00.0,76,90,DAL,GSW,4,away,JS,,28,miss3,0,L. Barbosa,
+404,3,0:00.0,76,90,DAL,GSW,0,away,OffReb,,,OffReb,,Team,
+405,4,11:40.0,76,93,DAL,GSW,20,away,JS,assist,24,make3,3,A. Iguodala,S. Livingston
+406,4,11:24.0,76,93,DAL,GSW,16,away,DefGoaltending,,,DefGoaltending,,D. Green,
+407,4,11:24.0,78,93,DAL,GSW,0,home,LU,assist,1,make2,2,D. Harris,D. Nowitzki
+408,4,11:03.0,78,93,DAL,GSW,21,away,JS,,22,miss3,0,L. Barbosa,
+409,4,11:02.0,78,93,DAL,GSW,1,away,OffReb,,,OffReb,,S. Livingston,
+410,4,10:56.0,78,95,DAL,GSW,6,away,DK,assist,0,make2,2,M. Speights,S. Livingston
+411,4,10:41.0,78,95,DAL,GSW,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Livingston,D. Harris
+412,4,10:41.0,79,95,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Harris,
+413,4,10:41.0,79,95,DAL,GSW,0,home,Sub,,,,,R. Jefferson,A. Aminu
+414,4,10:41.0,80,95,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Harris,
+415,4,10:26.0,80,95,DAL,GSW,15,away,JS,,24,miss3,0,A. Iguodala,
+416,4,10:25.0,80,95,DAL,GSW,1,home,DefReb,,,DefReb,,A. Stoudemire,
+417,4,10:19.0,82,95,DAL,GSW,6,home,JS,assist,6,make2,2,A. Stoudemire,D. Harris
+418,4,10:19.0,82,95,DAL,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,A. Stoudemire
+419,4,10:19.0,82,95,DAL,GSW,0,home,FreeThrow,,,make1,0,A. Stoudemire,
+420,4,10:18.0,82,95,DAL,GSW,1,away,DefReb,,,DefReb,,D. Green,
+421,4,10:10.0,82,95,DAL,GSW,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,S. Livingston
+422,4,10:10.0,82,95,DAL,GSW,0,home,Sub,,,,,M. Ellis,A. Stoudemire
+423,4,9:57.0,82,95,DAL,GSW,13,away,JS,,4,miss2,0,L. Barbosa,
+424,4,9:55.0,82,95,DAL,GSW,2,away,OffReb,,,OffReb,,M. Speights,
+425,4,9:54.0,82,97,DAL,GSW,1,away,JS,,5,make2,2,M. Speights,
+426,4,9:44.0,82,97,DAL,GSW,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Speights,D. Harris
+427,4,9:32.0,82,97,DAL,GSW,12,home,JS,,24,miss3,0,R. Jefferson,
+428,4,9:31.0,82,97,DAL,GSW,1,away,DefReb,,,DefReb,,M. Speights,
+429,4,9:25.0,82,97,DAL,GSW,6,home,ChargeFoul,DrawnBy,,ChargeFoul,,M. Speights,M. Ellis
+430,4,9:25.0,82,97,DAL,GSW,0,away,OffensiveFoul,,,turnover,,M. Speights,
+431,4,9:19.0,84,97,DAL,GSW,6,home,JS,,6,make2,2,J. Barea,
+432,4,9:04.0,84,97,DAL,GSW,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,S. Livingston
+433,4,9:04.0,84,98,DAL,GSW,0,away,FreeThrow,,,make1,1,S. Livingston,
+434,4,9:04.0,84,98,DAL,GSW,0,away,Sub,,,,,K. Thompson,L. Barbosa
+435,4,9:04.0,84,99,DAL,GSW,0,away,FreeThrow,,,make1,1,S. Livingston,
+436,4,8:54.0,84,99,DAL,GSW,10,home,JS,,19,miss2,0,M. Ellis,
+437,4,8:53.0,84,99,DAL,GSW,1,away,DefReb,,,DefReb,,S. Livingston,
+438,4,8:41.0,84,99,DAL,GSW,12,away,JS,,6,miss2,0,A. Iguodala,
+439,4,8:40.0,84,99,DAL,GSW,1,home,DefReb,,,DefReb,,D. Nowitzki,
+440,4,8:33.0,87,99,DAL,GSW,7,home,JS,assist,23,make3,3,R. Jefferson,M. Ellis
+441,4,8:13.0,87,99,DAL,GSW,20,away,JS,block,9,miss2,0,K. Thompson,D. Nowitzki
+442,4,8:13.0,87,99,DAL,GSW,0,away,OffReb,,,OffReb,,M. Speights,
+443,4,8:13.0,87,99,DAL,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,M. Speights
+444,4,8:13.0,87,99,DAL,GSW,0,away,Timeout,,,,,,
+445,4,8:13.0,87,100,DAL,GSW,0,away,FreeThrow,,,make1,1,M. Speights,
+446,4,8:13.0,87,101,DAL,GSW,0,away,FreeThrow,,,make1,1,M. Speights,
+447,4,8:04.0,87,101,DAL,GSW,9,home,JS,,24,miss3,0,R. Jefferson,
+448,4,8:03.0,87,101,DAL,GSW,1,away,DefReb,,,DefReb,,D. Green,
+449,4,7:41.0,87,104,DAL,GSW,22,away,JS,assist,24,make3,3,M. Speights,S. Livingston
+450,4,7:39.0,87,104,DAL,GSW,2,home,Timeout,,,,,,
+451,4,7:39.0,87,104,DAL,GSW,0,home,Sub,,,,,A. Aminu,D. Harris
+452,4,7:39.0,87,104,DAL,GSW,0,away,Sub,,,,,H. Barnes,M. Speights
+453,4,7:24.0,87,104,DAL,GSW,15,home,JS,,12,miss2,0,D. Nowitzki,
+454,4,7:23.0,87,104,DAL,GSW,1,away,DefReb,,,DefReb,,H. Barnes,
+455,4,7:17.0,87,104,DAL,GSW,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,S. Livingston,J. Barea
+456,4,7:17.0,87,104,DAL,GSW,0,away,OffensiveFoul,,,turnover,,S. Livingston,
+457,4,7:05.0,87,104,DAL,GSW,12,home,BadPass,steal,,turnover,,D. Nowitzki,H. Barnes
+458,4,7:01.0,87,106,DAL,GSW,4,away,DK,assist,0,make2,2,S. Livingston,H. Barnes
+459,4,6:51.0,89,106,DAL,GSW,10,home,JS,,18,make2,2,J. Barea,
+460,4,6:34.0,89,106,DAL,GSW,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Barea,S. Livingston
+461,4,6:34.0,89,106,DAL,GSW,0,home,Sub,,,,,T. Chandler,D. Nowitzki
+462,4,6:31.0,89,106,DAL,GSW,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,S. Livingston
+463,4,6:31.0,89,107,DAL,GSW,0,away,FreeThrow,,,make1,1,S. Livingston,
+464,4,6:31.0,89,108,DAL,GSW,0,away,FreeThrow,,,make1,1,S. Livingston,
+465,4,6:16.0,92,108,DAL,GSW,15,home,JS,,24,make3,3,J. Barea,
+466,4,6:01.0,92,108,DAL,GSW,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Chandler,K. Thompson
+467,4,6:01.0,92,108,DAL,GSW,0,away,FreeThrow,,,make1,0,K. Thompson,
+468,4,6:01.0,92,108,DAL,GSW,0,away,OffReb,,,OffReb,,Team,
+469,4,6:01.0,92,109,DAL,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
+470,4,5:41.0,92,109,DAL,GSW,20,home,JS,,24,miss3,0,J. Barea,
+471,4,5:40.0,92,109,DAL,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
+472,4,5:31.0,92,109,DAL,GSW,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,K. Thompson
+473,4,5:31.0,92,109,DAL,GSW,0,away,FreeThrow,,,make1,0,K. Thompson,
+474,4,5:31.0,92,109,DAL,GSW,0,away,OffReb,,,OffReb,,Team,
+475,4,5:31.0,92,109,DAL,GSW,0,home,Sub,,,,,D. Harris,R. Jefferson
+476,4,5:31.0,92,109,DAL,GSW,0,home,Sub,,,,,D. Nowitzki,T. Chandler
+477,4,5:31.0,92,109,DAL,GSW,0,away,Sub,,,,,L. Barbosa,A. Iguodala
+478,4,5:31.0,92,110,DAL,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
+479,4,5:19.0,92,110,DAL,GSW,12,home,JS,,6,miss2,0,M. Ellis,
+480,4,5:18.0,92,110,DAL,GSW,1,away,DefReb,,,DefReb,,H. Barnes,
+481,4,5:06.0,92,110,DAL,GSW,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,H. Barnes,J. Barea
+482,4,5:06.0,92,110,DAL,GSW,0,away,OffensiveFoul,,,turnover,,H. Barnes,
+483,4,4:52.0,92,110,DAL,GSW,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Thompson,D. Nowitzki
+484,4,4:52.0,93,110,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+485,4,4:52.0,94,110,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+486,4,4:34.0,94,113,DAL,GSW,18,away,JS,assist,23,make3,3,K. Thompson,D. Green
+487,4,4:23.0,96,113,DAL,GSW,11,home,LU,,1,make2,2,J. Barea,
+488,4,4:03.0,96,115,DAL,GSW,20,away,DK,assist,0,make2,2,H. Barnes,D. Green
+489,4,3:44.0,96,115,DAL,GSW,19,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Livingston,D. Nowitzki
+490,4,3:44.0,97,115,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+491,4,3:44.0,97,115,DAL,GSW,0,home,Sub,,,,,R. Felton,M. Ellis
+492,4,3:44.0,97,115,DAL,GSW,0,home,Sub,,,,,D. Powell,D. Harris
+493,4,3:44.0,98,115,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+494,4,3:32.0,98,115,DAL,GSW,12,away,JS,,24,miss3,0,D. Green,
+495,4,3:31.0,98,115,DAL,GSW,1,home,DefReb,,,DefReb,,A. Aminu,
+496,4,3:22.0,98,115,DAL,GSW,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Thompson,D. Powell
+497,4,3:22.0,99,115,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Powell,
+498,4,3:22.0,99,115,DAL,GSW,0,home,Sub,,,,,C. Villanueva,D. Nowitzki
+499,4,3:22.0,100,115,DAL,GSW,0,home,FreeThrow,,,make1,1,D. Powell,
+500,4,3:10.0,100,115,DAL,GSW,12,away,Traveling,,,turnover,,D. Green,
+501,4,3:00.0,102,115,DAL,GSW,10,home,LU,assist,0,make2,2,D. Powell,A. Aminu
+502,4,2:43.0,102,115,DAL,GSW,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Felton,S. Livingston
+503,4,2:43.0,102,115,DAL,GSW,0,away,Timeout,,,,,,
+504,4,2:43.0,102,115,DAL,GSW,0,home,Sub,,,,,B. James,J. Barea
+505,4,2:43.0,102,115,DAL,GSW,0,away,Sub,,,,,M. Speights,D. Green
+506,4,2:43.0,102,115,DAL,GSW,0,away,Sub,,,,,J. Holiday,K. Thompson
+507,4,2:43.0,102,115,DAL,GSW,0,away,FreeThrow,,,make1,0,S. Livingston,
+508,4,2:43.0,102,115,DAL,GSW,0,away,OffReb,,,OffReb,,Team,
+509,4,2:43.0,102,116,DAL,GSW,0,away,FreeThrow,,,make1,1,S. Livingston,
+510,4,2:36.0,102,116,DAL,GSW,7,home,OutOfBounds,,,turnover,,D. Powell,
+511,4,2:19.0,102,116,DAL,GSW,17,away,JS,,16,miss2,0,M. Speights,
+512,4,2:18.0,102,116,DAL,GSW,1,home,DefReb,,,DefReb,,B. James,
+513,4,2:03.0,102,116,DAL,GSW,15,home,JS,,18,miss2,0,D. Powell,
+514,4,2:02.0,102,116,DAL,GSW,1,home,OffReb,,,OffReb,,B. James,
+515,4,2:01.0,102,116,DAL,GSW,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,B. James
+516,4,2:01.0,102,116,DAL,GSW,0,away,Sub,,,,,F. Ezeli,M. Speights
+517,4,2:01.0,103,116,DAL,GSW,0,home,FreeThrow,,,make1,1,B. James,
+518,4,2:01.0,104,116,DAL,GSW,0,home,FreeThrow,,,make1,1,B. James,
+519,4,1:47.0,104,118,DAL,GSW,14,away,JS,,16,make2,2,H. Barnes,
+520,4,1:37.0,106,118,DAL,GSW,10,home,JS,,6,make2,2,C. Villanueva,
+521,4,1:25.0,106,118,DAL,GSW,12,away,BadPass,steal,,turnover,,H. Barnes,A. Aminu
+522,4,1:19.0,106,118,DAL,GSW,6,home,LostBall,steal,,turnover,,A. Aminu,J. Holiday
+523,4,1:11.0,106,118,DAL,GSW,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Villanueva,L. Barbosa
+524,4,1:11.0,106,119,DAL,GSW,0,away,FreeThrow,,,make1,1,L. Barbosa,
+525,4,1:11.0,106,120,DAL,GSW,0,away,FreeThrow,,,make1,1,L. Barbosa,
+526,4,1:11.0,106,121,DAL,GSW,0,away,FreeThrow,,,make1,1,L. Barbosa,
+527,4,1:01.0,106,121,DAL,GSW,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Barbosa,R. Felton
+528,4,1:01.0,107,121,DAL,GSW,0,home,FreeThrow,,,make1,1,R. Felton,
+529,4,1:01.0,108,121,DAL,GSW,0,home,FreeThrow,,,make1,1,R. Felton,
+530,4,0:49.0,108,121,DAL,GSW,12,away,JS,,20,miss2,0,J. Holiday,
+531,4,0:48.0,108,121,DAL,GSW,1,home,DefReb,,,DefReb,,Team,
+532,4,0:40.0,108,121,DAL,GSW,8,home,LostBall,,,turnover,,R. Felton,
+533,4,0:23.0,108,123,DAL,GSW,17,away,HS,,7,make2,2,F. Ezeli,
+534,4,0:17.0,108,123,DAL,GSW,6,home,JS,,22,miss3,0,D. Powell,
+535,4,0:16.0,108,123,DAL,GSW,1,away,DefReb,,,DefReb,,H. Barnes,
+536,4,0:11.0,108,123,DAL,GSW,5,away,BadPass,,,turnover,,L. Barbosa,
+537,4,0:05.0,108,123,DAL,GSW,6,home,JS,,28,miss3,0,C. Villanueva,
+538,4,0:05.0,108,123,DAL,GSW,0,home,OffReb,,,OffReb,,B. James,
+539,4,0:05.0,108,123,DAL,GSW,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,F. Ezeli,B. James
+540,4,0:05.0,109,123,DAL,GSW,0,home,FreeThrow,,,make1,1,B. James,
+541,4,0:05.0,110,123,DAL,GSW,0,home,FreeThrow,,,make1,1,B. James,

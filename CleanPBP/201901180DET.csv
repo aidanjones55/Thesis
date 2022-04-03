@@ -1,0 +1,429 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,2,0,DET,MIA,19,home,JS,,7,make2,2,R. Jackson,
+1,1,11:22.0,2,0,DET,MIA,19,away,JS,,26,miss3,0,J. Johnson,
+2,1,11:20.0,2,0,DET,MIA,2,home,DefReb,,,DefReb,,R. Bullock,
+3,1,11:09.0,5,0,DET,MIA,11,home,JS,assist,29,make3,3,R. Bullock,B. Griffin
+4,1,10:52.0,5,2,DET,MIA,17,away,LU,,2,make2,2,R. McGruder,
+5,1,10:32.0,8,2,DET,MIA,20,home,JS,assist,28,make3,3,R. Bullock,B. Griffin
+6,1,10:22.0,8,4,DET,MIA,10,away,DK,assist,1,make2,2,H. Whiteside,J. Winslow
+7,1,9:53.0,8,4,DET,MIA,29,home,JS,,27,miss3,0,B. Griffin,
+8,1,9:49.0,8,4,DET,MIA,4,away,DefReb,,,DefReb,,J. Johnson,
+9,1,9:45.0,8,4,DET,MIA,4,away,LU,,5,miss2,0,J. Johnson,
+10,1,9:42.0,8,4,DET,MIA,3,home,DefReb,,,DefReb,,R. Jackson,
+11,1,9:35.0,10,4,DET,MIA,7,home,JS,assist,22,make2,2,R. Bullock,B. Griffin
+12,1,9:18.0,10,6,DET,MIA,17,away,JS,,7,make2,2,J. Winslow,
+13,1,9:03.0,12,6,DET,MIA,15,home,LU,assist,3,make2,2,B. Brown,B. Griffin
+14,1,8:43.0,12,9,DET,MIA,20,away,JS,assist,26,make3,3,R. McGruder,J. Winslow
+15,1,8:31.0,12,9,DET,MIA,12,home,JS,,26,miss3,0,R. Bullock,
+16,1,8:28.0,12,9,DET,MIA,3,away,DefReb,,,DefReb,,J. Johnson,
+17,1,8:23.0,12,9,DET,MIA,5,away,JS,,23,miss3,0,J. Winslow,
+18,1,8:21.0,12,9,DET,MIA,2,home,DefReb,,,DefReb,,A. Drummond,
+19,1,8:16.0,12,9,DET,MIA,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Whiteside,B. Griffin
+20,1,8:16.0,13,9,DET,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+21,1,8:16.0,13,9,DET,MIA,0,home,FreeThrow,,,make1,0,B. Griffin,
+22,1,8:13.0,13,9,DET,MIA,3,away,DefReb,,,DefReb,,H. Whiteside,
+23,1,8:01.0,13,9,DET,MIA,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Drummond,H. Whiteside
+24,1,8:01.0,13,9,DET,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside,
+25,1,8:01.0,13,9,DET,MIA,0,away,OffReb,,,OffReb,,Team,
+26,1,8:01.0,13,9,DET,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside,
+27,1,7:58.0,13,9,DET,MIA,3,home,DefReb,,,DefReb,,A. Drummond,
+28,1,7:48.0,13,9,DET,MIA,10,home,JS,,28,miss3,0,B. Griffin,
+29,1,7:48.0,13,9,DET,MIA,0,home,OffReb,,,OffReb,,Team,
+30,1,7:33.0,13,9,DET,MIA,15,home,LU,block,5,miss2,0,A. Drummond,H. Whiteside
+31,1,7:29.0,13,9,DET,MIA,4,away,DefReb,,,DefReb,,H. Whiteside,
+32,1,7:28.0,13,9,DET,MIA,1,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,H. Whiteside,B. Griffin
+33,1,7:28.0,13,9,DET,MIA,0,away,OffensiveFoul,,,turnover,,H. Whiteside,
+34,1,7:28.0,13,9,DET,MIA,0,away,Sub,,,,,B. Adebayo,H. Whiteside
+35,1,7:11.0,13,9,DET,MIA,17,home,JS,,27,miss3,0,R. Bullock,
+36,1,7:09.0,13,9,DET,MIA,2,away,DefReb,,,DefReb,,J. Winslow,
+37,1,7:04.0,13,9,DET,MIA,5,away,LU,block,3,miss2,0,R. McGruder,A. Drummond
+38,1,7:01.0,13,9,DET,MIA,3,home,DefReb,,,DefReb,,A. Drummond,
+39,1,6:53.0,15,9,DET,MIA,8,home,LU,,3,make2,2,B. Griffin,
+40,1,6:36.0,15,9,DET,MIA,17,away,JS,,27,miss3,0,T. Johnson,
+41,1,6:33.0,15,9,DET,MIA,3,home,DefReb,,,DefReb,,B. Griffin,
+42,1,6:33.0,15,9,DET,MIA,0,home,BadPass,,,turnover,,B. Griffin,
+43,1,6:33.0,15,9,DET,MIA,0,home,Timeout,,,,,,
+44,1,6:10.0,15,11,DET,MIA,23,away,LU,assist,2,make2,2,J. Johnson,T. Johnson
+45,1,5:57.0,17,11,DET,MIA,13,home,JS,,7,make2,2,B. Griffin,
+46,1,5:48.0,17,11,DET,MIA,9,away,Traveling,,,turnover,,J. Johnson,
+47,1,5:38.0,17,11,DET,MIA,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,B. Griffin
+48,1,5:38.0,17,11,DET,MIA,0,home,FreeThrow,,,make1,0,B. Griffin,
+49,1,5:38.0,17,11,DET,MIA,0,home,OffReb,,,OffReb,,Team,
+50,1,5:38.0,17,11,DET,MIA,0,away,Sub,,,,,D. Wade,T. Johnson
+51,1,5:38.0,18,11,DET,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+52,1,5:28.0,18,11,DET,MIA,10,away,JS,,27,miss3,0,R. McGruder,
+53,1,5:24.0,18,11,DET,MIA,4,home,DefReb,,,DefReb,,B. Griffin,
+54,1,5:15.0,20,11,DET,MIA,9,home,DK,,1,make2,2,B. Griffin,
+55,1,5:12.0,20,11,DET,MIA,3,away,Timeout,,,,,,
+56,1,5:12.0,20,11,DET,MIA,0,home,Sub,,,,,I. Smith,R. Jackson
+57,1,5:08.0,20,11,DET,MIA,4,away,BadPass,,,turnover,,J. Winslow,
+58,1,4:56.0,20,11,DET,MIA,12,home,bad pass,steal,,turnover,,B. Griffin,J. Johnson
+59,1,4:46.0,20,11,DET,MIA,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Griffin,D. Wade
+60,1,4:46.0,20,11,DET,MIA,0,home,Sub,,,,,Z. Pachulia,A. Drummond
+61,1,4:38.0,20,13,DET,MIA,8,away,DK,assist,2,make2,2,B. Adebayo,D. Wade
+62,1,4:30.0,20,13,DET,MIA,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Winslow,R. Bullock
+63,1,4:17.0,20,13,DET,MIA,13,home,LU,,4,miss2,0,B. Brown,
+64,1,4:12.0,20,13,DET,MIA,5,away,DefReb,,,DefReb,,B. Adebayo,
+65,1,3:55.0,20,13,DET,MIA,17,away,JS,,12,miss2,0,D. Wade,
+66,1,3:52.0,20,13,DET,MIA,3,home,DefReb,,,DefReb,,B. Griffin,
+67,1,3:41.0,20,13,DET,MIA,11,home,LU,,5,miss2,0,B. Brown,
+68,1,3:34.0,20,13,DET,MIA,7,home,OffReb,,,OffReb,,Z. Pachulia,
+69,1,3:34.0,20,13,DET,MIA,0,home,LU,,1,miss2,0,Z. Pachulia,
+70,1,3:34.0,20,13,DET,MIA,0,away,DefReb,,,DefReb,,J. Winslow,
+71,1,3:33.0,20,13,DET,MIA,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Brown,J. Winslow
+72,1,3:33.0,20,13,DET,MIA,0,away,Sub,,,,,D. Waiters,R. McGruder
+73,1,3:33.0,20,13,DET,MIA,0,home,Sub,,,,,J. Calderón,B. Brown
+74,1,3:33.0,20,13,DET,MIA,0,home,Sub,,,,,L. Galloway,R. Bullock
+75,1,3:33.0,20,13,DET,MIA,0,home,Sub,,,,,L. Kennard,I. Smith
+76,1,3:33.0,20,13,DET,MIA,0,away,FreeThrow,,,make1,0,J. Winslow,
+77,1,3:33.0,20,13,DET,MIA,0,away,OffReb,,,OffReb,,Team,
+78,1,3:33.0,20,13,DET,MIA,0,away,FreeThrow,,,make1,0,J. Winslow,
+79,1,3:30.0,20,13,DET,MIA,3,home,DefReb,,,DefReb,,Z. Pachulia,
+80,1,3:14.0,23,13,DET,MIA,16,home,JS,assist,23,make3,3,B. Griffin,J. Calderón
+81,1,2:54.0,23,13,DET,MIA,20,away,bad pass,steal,,turnover,,D. Waiters,Z. Pachulia
+82,1,2:47.0,26,13,DET,MIA,7,home,JS,assist,23,make3,3,L. Kennard,J. Calderón
+83,1,2:27.0,26,13,DET,MIA,20,away,JS,,10,miss2,0,D. Wade,
+84,1,2:24.0,26,13,DET,MIA,3,home,DefReb,,,DefReb,,Z. Pachulia,
+85,1,2:04.0,26,13,DET,MIA,20,home,ShotClockViolation,,,turnover,,Team,
+86,1,2:04.0,26,13,DET,MIA,0,away,Sub,,,,,D. Jones,J. Johnson
+87,1,2:04.0,26,13,DET,MIA,0,away,Sub,,,,,R. McGruder,J. Winslow
+88,1,1:49.0,26,15,DET,MIA,15,away,LU,assist,4,make2,2,D. Jones,D. Wade
+89,1,1:27.0,26,15,DET,MIA,22,home,JS,,6,miss2,0,L. Kennard,
+90,1,1:23.0,26,15,DET,MIA,4,away,DefReb,,,DefReb,,D. Waiters,
+91,1,1:20.0,26,17,DET,MIA,3,away,LU,,2,make2,2,D. Waiters,
+92,1,1:17.0,26,17,DET,MIA,3,home,BadPass,,,turnover,,J. Calderón,
+93,1,1:17.0,26,17,DET,MIA,0,home,Sub,,,,,S. Johnson,B. Griffin
+94,1,1:05.0,26,17,DET,MIA,12,away,bad pass,steal,,turnover,,D. Wade,S. Johnson
+95,1,0:49.0,26,17,DET,MIA,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Adebayo,S. Johnson
+96,1,0:45.0,28,17,DET,MIA,4,home,LU,assist,3,make2,2,L. Kennard,Z. Pachulia
+97,1,0:30.0,28,17,DET,MIA,15,away,bad pass,steal,,turnover,,D. Jones,J. Calderón
+98,1,0:11.0,30,17,DET,MIA,19,home,JS,,15,make2,2,L. Kennard,
+99,1,0:04.0,30,17,DET,MIA,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Kennard,D. Wade
+100,1,0:01.0,30,17,DET,MIA,3,away,JS,,27,miss3,0,R. McGruder,
+101,1,0:00.0,30,17,DET,MIA,1,away,OffReb,,,OffReb,,Team,
+102,2,11:38.0,30,19,DET,MIA,22,away,HS,assist,4,make2,2,B. Adebayo,D. Waiters
+103,2,11:17.0,30,19,DET,MIA,21,home,JS,,28,miss3,0,L. Galloway,
+104,2,11:15.0,30,19,DET,MIA,2,away,DefReb,,,DefReb,,B. Adebayo,
+105,2,11:07.0,30,19,DET,MIA,8,home,KickBallViolation,,,KickBallViolation,,Team,
+106,2,10:58.0,30,21,DET,MIA,9,away,JS,,15,make2,2,D. Wade,
+107,2,10:41.0,30,21,DET,MIA,17,home,JS,,20,miss2,0,L. Kennard,
+108,2,10:40.0,30,21,DET,MIA,1,away,DefReb,,,DefReb,,K. Olynyk,
+109,2,10:40.0,30,21,DET,MIA,0,away,LU,block,0,miss2,0,D. Jones,S. Johnson
+110,2,10:37.0,30,21,DET,MIA,3,home,DefReb,,,DefReb,,Team,
+111,2,10:20.0,30,21,DET,MIA,17,home,Traveling,,,turnover,,L. Kennard,
+112,2,10:08.0,30,21,DET,MIA,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Pachulia,D. Jones
+113,2,10:00.0,30,23,DET,MIA,8,away,LU,,1,make2,2,D. Wade,
+114,2,10:00.0,30,23,DET,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Kennard,D. Wade
+115,2,10:00.0,30,23,DET,MIA,0,away,FreeThrow,,,make1,0,D. Wade,
+116,2,9:57.0,30,23,DET,MIA,3,home,DefReb,,,DefReb,,S. Johnson,
+117,2,9:49.0,33,23,DET,MIA,8,home,JS,assist,23,make3,3,L. Kennard,L. Galloway
+118,2,9:35.0,33,23,DET,MIA,14,away,LU,,2,miss2,0,D. Waiters,
+119,2,9:33.0,33,23,DET,MIA,2,home,DefReb,,,DefReb,,J. Calderón,
+120,2,9:28.0,33,23,DET,MIA,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Jones,Z. Pachulia
+121,2,9:21.0,33,23,DET,MIA,7,home,JS,,23,miss3,0,L. Kennard,
+122,2,9:18.0,33,23,DET,MIA,3,away,DefReb,,,DefReb,,B. Adebayo,
+123,2,9:13.0,33,23,DET,MIA,5,away,lost ball,steal,,turnover,,B. Adebayo,J. Calderón
+124,2,9:09.0,35,23,DET,MIA,4,home,LU,assist,2,make2,2,S. Johnson,J. Calderón
+125,2,9:08.0,35,23,DET,MIA,1,away,Timeout,,,,,,
+126,2,9:01.0,35,23,DET,MIA,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Johnson,K. Olynyk
+127,2,9:01.0,35,24,DET,MIA,0,away,FreeThrow,,,make1,1,K. Olynyk,
+128,2,9:01.0,35,24,DET,MIA,0,away,Sub,,,,,T. Johnson,B. Adebayo
+129,2,9:01.0,35,24,DET,MIA,0,away,FreeThrow,,,make1,0,K. Olynyk,
+130,2,8:58.0,35,24,DET,MIA,3,home,DefReb,,,DefReb,,S. Johnson,
+131,2,8:45.0,35,24,DET,MIA,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Olynyk,Z. Pachulia
+132,2,8:35.0,38,24,DET,MIA,10,home,JS,assist,28,make3,3,S. Johnson,Z. Pachulia
+133,2,8:26.0,38,24,DET,MIA,9,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Olynyk,L. Kennard
+134,2,8:26.0,38,24,DET,MIA,0,away,OffensiveFoul,,,turnover,,K. Olynyk,
+135,2,8:13.0,38,24,DET,MIA,13,home,LU,block,4,miss2,0,J. Calderón,D. Waiters
+136,2,8:13.0,38,24,DET,MIA,0,away,DefReb,,,DefReb,,Team,
+137,2,7:55.0,38,24,DET,MIA,18,away,JS,,24,miss3,0,D. Waiters,
+138,2,7:51.0,38,24,DET,MIA,4,home,DefReb,,,DefReb,,S. Johnson,
+139,2,7:44.0,38,24,DET,MIA,7,home,JS,,29,miss3,0,L. Galloway,
+140,2,7:41.0,38,24,DET,MIA,3,away,DefReb,,,DefReb,,D. Wade,
+141,2,7:37.0,38,24,DET,MIA,4,away,BadPass,,,turnover,,D. Wade,
+142,2,7:17.0,38,24,DET,MIA,20,home,LU,block,7,miss2,0,L. Galloway,T. Johnson
+143,2,7:16.0,38,24,DET,MIA,1,home,OffReb,,,OffReb,,L. Galloway,
+144,2,7:15.0,38,24,DET,MIA,1,home,LU,,1,miss2,0,L. Galloway,
+145,2,7:15.0,38,24,DET,MIA,0,away,DefReb,,,DefReb,,T. Johnson,
+146,2,7:03.0,38,26,DET,MIA,12,away,LU,,3,make2,2,D. Wade,
+147,2,6:56.0,38,26,DET,MIA,7,home,Timeout,,,,,,
+148,2,6:56.0,38,26,DET,MIA,0,away,Sub,,,,,W. Ellington,K. Olynyk
+149,2,6:56.0,38,26,DET,MIA,0,away,Sub,,,,,H. Whiteside,D. Wade
+150,2,6:56.0,38,26,DET,MIA,0,away,Sub,,,,,J. Winslow,D. Waiters
+151,2,6:56.0,38,26,DET,MIA,0,home,Sub,,,,,R. Bullock,J. Calderón
+152,2,6:56.0,38,26,DET,MIA,0,home,Sub,,,,,B. Griffin,L. Galloway
+153,2,6:56.0,38,26,DET,MIA,0,home,Sub,,,,,R. Jackson,Z. Pachulia
+154,2,6:45.0,40,26,DET,MIA,11,home,LU,assist,1,make2,2,B. Griffin,L. Kennard
+155,2,6:31.0,40,26,DET,MIA,14,away,JS,,7,miss2,0,T. Johnson,
+156,2,6:28.0,40,26,DET,MIA,3,away,OffReb,,,OffReb,,T. Johnson,
+157,2,6:28.0,40,26,DET,MIA,0,away,LU,,1,miss2,0,H. Whiteside,
+158,2,6:28.0,40,26,DET,MIA,0,away,OffReb,,,OffReb,,H. Whiteside,
+159,2,6:28.0,40,26,DET,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,T. Johnson
+160,2,6:28.0,40,27,DET,MIA,0,away,FreeThrow,,,make1,1,T. Johnson,
+161,2,6:28.0,40,28,DET,MIA,0,away,FreeThrow,,,make1,1,T. Johnson,
+162,2,6:10.0,40,28,DET,MIA,18,home,JS,,27,miss3,0,L. Kennard,
+163,2,6:04.0,40,28,DET,MIA,6,away,DefReb,,,DefReb,,D. Jones,
+164,2,5:56.0,40,28,DET,MIA,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Bullock,H. Whiteside
+165,2,5:56.0,40,28,DET,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside,
+166,2,5:56.0,40,28,DET,MIA,0,away,OffReb,,,OffReb,,Team,
+167,2,5:56.0,40,28,DET,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside,
+168,2,5:54.0,40,28,DET,MIA,2,home,DefReb,,,DefReb,,B. Griffin,
+169,2,5:46.0,40,28,DET,MIA,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Ellington,R. Bullock
+170,2,5:46.0,41,28,DET,MIA,0,home,FreeThrow,,,make1,1,R. Bullock,
+171,2,5:46.0,42,28,DET,MIA,0,home,FreeThrow,,,make1,1,R. Bullock,
+172,2,5:46.0,42,28,DET,MIA,0,home,FreeThrow,,,make1,0,R. Bullock,
+173,2,5:43.0,42,28,DET,MIA,3,away,DefReb,,,DefReb,,D. Jones,
+174,2,5:24.0,42,31,DET,MIA,19,away,JS,assist,28,make3,3,J. Winslow,W. Ellington
+175,2,4:58.0,44,31,DET,MIA,26,home,JS,assist,7,make2,2,S. Johnson,L. Kennard
+176,2,4:46.0,44,31,DET,MIA,12,away,JS,,9,miss2,0,H. Whiteside,
+177,2,4:46.0,44,31,DET,MIA,0,home,DefReb,,,DefReb,,L. Kennard,
+178,2,4:35.0,44,31,DET,MIA,11,home,JS,,11,miss2,0,R. Jackson,
+179,2,4:33.0,44,31,DET,MIA,2,away,DefReb,,,DefReb,,H. Whiteside,
+180,2,4:20.0,44,31,DET,MIA,13,away,HS,,6,miss2,0,J. Winslow,
+181,2,4:18.0,44,31,DET,MIA,2,home,DefReb,,,DefReb,,B. Griffin,
+182,2,4:16.0,44,31,DET,MIA,2,home,LU,block,8,miss2,0,B. Griffin,D. Jones
+183,2,4:14.0,44,31,DET,MIA,2,away,DefReb,,,DefReb,,J. Winslow,
+184,2,4:05.0,44,31,DET,MIA,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jackson,T. Johnson
+185,2,4:05.0,44,31,DET,MIA,0,away,FreeThrow,,,make1,0,T. Johnson,
+186,2,4:05.0,44,31,DET,MIA,0,away,OffReb,,,OffReb,,Team,
+187,2,4:05.0,44,31,DET,MIA,0,away,Sub,,,,,J. Johnson,D. Jones
+188,2,4:05.0,44,32,DET,MIA,0,away,FreeThrow,,,make1,1,T. Johnson,
+189,2,3:48.0,46,32,DET,MIA,17,home,LU,assist,2,make2,2,R. Bullock,B. Griffin
+190,2,3:26.0,46,32,DET,MIA,22,away,JS,,27,miss3,0,W. Ellington,
+191,2,3:23.0,46,32,DET,MIA,3,home,DefReb,,,DefReb,,R. Jackson,
+192,2,3:13.0,46,32,DET,MIA,10,home,JS,,26,miss3,0,B. Griffin,
+193,2,3:11.0,46,32,DET,MIA,2,away,DefReb,,,DefReb,,J. Winslow,
+194,2,3:09.0,46,32,DET,MIA,2,away,BadPass,,,turnover,,J. Winslow,
+195,2,3:09.0,46,32,DET,MIA,0,away,Sub,,,,,D. Wade,W. Ellington
+196,2,2:59.0,46,32,DET,MIA,10,away,KickBallViolation,,,KickBallViolation,,Team,
+197,2,2:52.0,48,32,DET,MIA,7,home,JS,,16,make2,2,R. Jackson,
+198,2,2:26.0,48,35,DET,MIA,26,away,JS,assist,24,make3,3,J. Winslow,D. Wade
+199,2,2:02.0,48,35,DET,MIA,24,home,JS,,26,miss3,0,R. Bullock,
+200,2,1:59.0,48,35,DET,MIA,3,away,DefReb,,,DefReb,,J. Winslow,
+201,2,1:56.0,48,37,DET,MIA,3,away,LU,,3,make2,2,D. Wade,
+202,2,1:39.0,50,37,DET,MIA,17,home,JS,assist,19,make2,2,L. Kennard,B. Griffin
+203,2,1:19.0,50,37,DET,MIA,20,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Johnson,H. Whiteside
+204,2,1:19.0,50,37,DET,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside,
+205,2,1:19.0,50,37,DET,MIA,0,away,OffReb,,,OffReb,,Team,
+206,2,1:19.0,50,37,DET,MIA,0,home,Sub,,,,,B. Brown,R. Bullock
+207,2,1:19.0,50,37,DET,MIA,0,home,Sub,,,,,Z. Pachulia,S. Johnson
+208,2,1:19.0,50,37,DET,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside,
+209,2,1:13.0,50,37,DET,MIA,6,home,DefReb,,,DefReb,,R. Jackson,
+210,2,1:07.0,53,37,DET,MIA,6,home,JS,,27,make3,3,B. Griffin,
+211,2,0:56.0,53,37,DET,MIA,11,away,JS,,23,miss3,0,J. Johnson,
+212,2,0:53.0,53,37,DET,MIA,3,home,DefReb,,,DefReb,,Z. Pachulia,
+213,2,0:43.0,53,37,DET,MIA,10,home,LU,,4,miss2,0,B. Griffin,
+214,2,0:34.0,53,37,DET,MIA,9,away,DefReb,,,DefReb,,D. Wade,
+215,2,0:34.0,53,39,DET,MIA,0,away,DK,assist,1,make2,2,H. Whiteside,T. Johnson
+216,2,0:19.0,53,39,DET,MIA,15,home,JS,,28,miss3,0,L. Kennard,
+217,2,0:16.0,53,39,DET,MIA,3,away,DefReb,,,DefReb,,T. Johnson,
+218,2,0:01.0,53,39,DET,MIA,15,away,JS,,12,miss2,0,J. Johnson,
+219,2,0:00.0,53,39,DET,MIA,1,home,DefReb,,,DefReb,,B. Griffin,
+220,3,11:42.0,53,39,DET,MIA,18,away,JS,,9,miss2,0,J. Winslow,
+221,3,11:36.0,53,39,DET,MIA,6,away,OffReb,,,OffReb,,H. Whiteside,
+222,3,11:36.0,53,41,DET,MIA,0,away,LU,,1,make2,2,H. Whiteside,
+223,3,11:17.0,53,41,DET,MIA,19,home,JS,,24,miss3,0,R. Bullock,
+224,3,11:14.0,53,41,DET,MIA,3,away,DefReb,,,DefReb,,H. Whiteside,
+225,3,11:08.0,53,41,DET,MIA,6,away,JS,,27,miss3,0,J. Winslow,
+226,3,11:03.0,53,41,DET,MIA,5,home,DefReb,,,DefReb,,B. Griffin,
+227,3,10:54.0,55,41,DET,MIA,9,home,LU,assist,1,make2,2,B. Griffin,R. Bullock
+228,3,10:54.0,55,41,DET,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Winslow,B. Griffin
+229,3,10:54.0,56,41,DET,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+230,3,10:44.0,56,43,DET,MIA,10,away,LU,assist,2,make2,2,T. Johnson,J. Johnson
+231,3,10:41.0,56,43,DET,MIA,3,home,bad pass,steal,,turnover,,B. Brown,R. McGruder
+232,3,10:30.0,56,43,DET,MIA,11,away,JS,,9,miss2,0,J. Winslow,
+233,3,10:27.0,56,43,DET,MIA,3,home,DefReb,,,DefReb,,B. Brown,
+234,3,10:23.0,56,43,DET,MIA,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Whiteside,B. Griffin
+235,3,10:23.0,57,43,DET,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+236,3,10:23.0,58,43,DET,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+237,3,10:09.0,58,43,DET,MIA,14,away,JS,,28,miss3,0,T. Johnson,
+238,3,10:04.0,58,43,DET,MIA,5,home,DefReb,,,DefReb,,B. Griffin,
+239,3,9:57.0,58,43,DET,MIA,7,home,BadPass,,,turnover,,B. Griffin,
+240,3,9:44.0,58,43,DET,MIA,13,away,JS,,6,miss2,0,R. McGruder,
+241,3,9:42.0,58,43,DET,MIA,2,away,OffReb,,,OffReb,,H. Whiteside,
+242,3,9:42.0,58,45,DET,MIA,0,away,DK,,1,make2,2,H. Whiteside,
+243,3,9:23.0,58,45,DET,MIA,19,home,JS,,17,miss2,0,Z. Pachulia,
+244,3,9:21.0,58,45,DET,MIA,2,away,DefReb,,,DefReb,,R. McGruder,
+245,3,9:06.0,58,45,DET,MIA,15,away,OutOfBounds,,,turnover,,R. McGruder,
+246,3,8:51.0,58,45,DET,MIA,15,home,JS,,10,miss2,0,B. Griffin,
+247,3,8:48.0,58,45,DET,MIA,3,away,DefReb,,,DefReb,,H. Whiteside,
+248,3,8:34.0,58,48,DET,MIA,14,away,JS,assist,28,make3,3,J. Winslow,J. Johnson
+249,3,8:13.0,61,48,DET,MIA,21,home,JS,,25,make3,3,B. Griffin,
+250,3,7:52.0,61,48,DET,MIA,21,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jackson,H. Whiteside
+251,3,7:41.0,61,51,DET,MIA,11,away,JS,assist,26,make3,3,T. Johnson,J. Johnson
+252,3,7:27.0,61,51,DET,MIA,14,home,LU,block,5,miss2,0,R. Bullock,H. Whiteside
+253,3,7:23.0,61,51,DET,MIA,4,away,DefReb,,,DefReb,,J. Winslow,
+254,3,7:20.0,61,51,DET,MIA,3,away,JS,,23,miss3,0,T. Johnson,
+255,3,7:20.0,61,51,DET,MIA,0,away,OffReb,,,OffReb,,Team,
+256,3,7:20.0,61,51,DET,MIA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Bullock,J. Winslow
+257,3,7:14.0,61,54,DET,MIA,6,away,JS,assist,28,make3,3,T. Johnson,J. Johnson
+258,3,7:14.0,61,54,DET,MIA,0,home,Timeout,,,,,,
+259,3,7:14.0,61,54,DET,MIA,0,home,Sub,,,,,L. Kennard,B. Brown
+260,3,6:57.0,61,54,DET,MIA,17,home,JS,,24,miss3,0,R. Jackson,
+261,3,6:54.0,61,54,DET,MIA,3,away,DefReb,,,DefReb,,R. McGruder,
+262,3,6:42.0,61,54,DET,MIA,12,away,LU,,5,miss2,0,J. Winslow,
+263,3,6:40.0,61,54,DET,MIA,2,home,DefReb,,,DefReb,,Z. Pachulia,
+264,3,6:35.0,61,54,DET,MIA,5,home,JS,,22,miss2,0,B. Griffin,
+265,3,6:32.0,61,54,DET,MIA,3,away,DefReb,,,DefReb,,J. Johnson,
+266,3,6:23.0,61,54,DET,MIA,9,away,bad pass,steal,,turnover,,R. McGruder,Z. Pachulia
+267,3,6:18.0,61,54,DET,MIA,5,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Griffin,J. Winslow
+268,3,6:18.0,61,54,DET,MIA,0,home,OffensiveFoul,,,turnover,,B. Griffin,
+269,3,6:07.0,61,54,DET,MIA,11,away,JS,,28,miss3,0,J. Winslow,
+270,3,6:04.0,61,54,DET,MIA,3,away,OffReb,,,OffReb,,H. Whiteside,
+271,3,6:03.0,61,54,DET,MIA,1,away,FlagrantFoul1,DrawnBy,,FlagrantFoul1,,Z. Pachulia,H. Whiteside
+272,3,6:03.0,61,54,DET,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside misses flagrant free throw 1 of 2,
+273,3,6:03.0,61,54,DET,MIA,0,away,OffReb,,,OffReb,,Team,
+274,3,6:03.0,61,54,DET,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside misses flagrant free throw 2 of 2,
+275,3,6:01.0,61,54,DET,MIA,2,away,OffReb,,,OffReb,,Team,
+276,3,5:53.0,61,54,DET,MIA,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Pachulia,H. Whiteside
+277,3,5:47.0,61,54,DET,MIA,6,away,lost ball,steal,,turnover,,J. Johnson,B. Griffin
+278,3,5:41.0,61,54,DET,MIA,6,home,JS,,17,miss2,0,L. Kennard,
+279,3,5:39.0,61,54,DET,MIA,2,away,DefReb,,,DefReb,,H. Whiteside,
+280,3,5:27.0,61,57,DET,MIA,12,away,JS,assist,29,make3,3,J. Johnson,R. McGruder
+281,3,5:11.0,61,57,DET,MIA,16,home,DblDribble,,,turnover,,B. Griffin,
+282,3,5:11.0,61,57,DET,MIA,0,away,Sub,,,,,D. Wade,J. Winslow
+283,3,5:02.0,61,57,DET,MIA,9,away,BadPass,,,turnover,,J. Johnson,
+284,3,4:41.0,61,57,DET,MIA,21,home,JS,,24,miss3,0,B. Griffin,
+285,3,4:37.0,61,57,DET,MIA,4,home,OffReb,,,OffReb,,Z. Pachulia,
+286,3,4:29.0,61,57,DET,MIA,8,home,JS,,8,miss2,0,R. Jackson,
+287,3,4:28.0,61,57,DET,MIA,1,home,OffReb,,,OffReb,,Z. Pachulia,
+288,3,4:22.0,63,57,DET,MIA,6,home,JS,assist,12,make2,2,L. Kennard,B. Griffin
+289,3,4:09.0,63,57,DET,MIA,13,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Johnson,R. Bullock
+290,3,4:09.0,63,57,DET,MIA,0,away,OffensiveFoul,,,turnover,,J. Johnson,
+291,3,4:09.0,63,57,DET,MIA,0,away,Sub,,,,,B. Adebayo,H. Whiteside
+292,3,4:09.0,63,57,DET,MIA,0,home,Sub,,,,,L. Galloway,R. Bullock
+293,3,4:09.0,63,57,DET,MIA,0,home,Sub,,,,,S. Johnson,Z. Pachulia
+294,3,3:49.0,65,57,DET,MIA,20,home,HS,,4,make2,2,B. Griffin,
+295,3,3:34.0,65,60,DET,MIA,15,away,JS,assist,29,make3,3,R. McGruder,D. Wade
+296,3,3:21.0,65,60,DET,MIA,13,home,Traveling,,,turnover,,L. Kennard,
+297,3,3:12.0,65,60,DET,MIA,9,away,BadPass,,,turnover,,D. Wade,
+298,3,2:55.0,65,60,DET,MIA,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. McGruder,S. Johnson
+299,3,2:55.0,65,60,DET,MIA,0,away,Timeout,,,,,,
+300,3,2:55.0,65,60,DET,MIA,0,home,Sub,,,,,J. Calderón,R. Jackson
+301,3,2:46.0,65,60,DET,MIA,9,home,JS,,23,miss3,0,S. Johnson,
+302,3,2:46.0,65,60,DET,MIA,0,away,DefReb,,,DefReb,,Team,
+303,3,2:36.0,65,62,DET,MIA,10,away,LU,assist,3,make2,2,D. Wade,R. McGruder
+304,3,2:11.0,65,62,DET,MIA,25,home,JS,,28,miss3,0,L. Kennard,
+305,3,2:08.0,65,62,DET,MIA,3,away,DefReb,,,DefReb,,B. Adebayo,
+306,3,2:00.0,65,64,DET,MIA,8,away,LU,assist,3,make2,2,D. Wade,J. Johnson
+307,3,1:37.0,65,64,DET,MIA,23,home,JS,,26,miss3,0,L. Galloway,
+308,3,1:34.0,65,64,DET,MIA,3,away,DefReb,,,DefReb,,T. Johnson,
+309,3,1:22.0,65,67,DET,MIA,12,away,JS,assist,28,make3,3,T. Johnson,D. Wade
+310,3,1:04.0,65,67,DET,MIA,18,home,JS,,13,miss2,0,L. Kennard,
+311,3,1:02.0,65,67,DET,MIA,2,away,DefReb,,,DefReb,,T. Johnson,
+312,3,0:54.0,65,67,DET,MIA,8,away,JS,,26,miss3,0,T. Johnson,
+313,3,0:52.0,65,67,DET,MIA,2,away,OffReb,,,OffReb,,B. Adebayo,
+314,3,0:46.0,65,69,DET,MIA,6,away,DK,assist,2,make2,2,J. Johnson,R. McGruder
+315,3,0:24.0,65,69,DET,MIA,22,home,LU,block,3,miss2,0,S. Johnson,B. Adebayo
+316,3,0:18.0,65,69,DET,MIA,6,away,DefReb,,,DefReb,,R. McGruder,
+317,3,0:05.0,65,69,DET,MIA,13,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Adebayo,B. Griffin
+318,3,0:05.0,65,69,DET,MIA,0,away,OffensiveFoul,,,turnover,,B. Adebayo,
+319,4,11:42.0,65,69,DET,MIA,18,home,JS,,20,miss2,0,R. Jackson,
+320,4,11:38.0,65,69,DET,MIA,4,away,DefReb,,,DefReb,,D. Wade,
+321,4,11:29.0,65,69,DET,MIA,9,away,JS,,27,miss3,0,T. Johnson,
+322,4,11:24.0,65,69,DET,MIA,5,home,DefReb,,,DefReb,,S. Johnson,
+323,4,11:07.0,65,69,DET,MIA,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Wade,Z. Pachulia
+324,4,10:54.0,65,69,DET,MIA,13,home,JS,,27,miss3,0,R. Bullock,
+325,4,10:51.0,65,69,DET,MIA,3,away,DefReb,,,DefReb,,B. Adebayo,
+326,4,10:36.0,65,69,DET,MIA,15,away,BadPass,,,turnover,,D. Wade,
+327,4,10:23.0,65,69,DET,MIA,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Wade,L. Kennard
+328,4,10:23.0,66,69,DET,MIA,0,home,FreeThrow,,,make1,1,L. Kennard,
+329,4,10:23.0,67,69,DET,MIA,0,home,FreeThrow,,,make1,1,L. Kennard,
+330,4,10:10.0,67,71,DET,MIA,13,away,LU,assist,2,make2,2,B. Adebayo,T. Johnson
+331,4,10:10.0,67,71,DET,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jackson,B. Adebayo
+332,4,10:10.0,67,72,DET,MIA,0,away,FreeThrow,,,make1,1,B. Adebayo,
+333,4,10:03.0,67,72,DET,MIA,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Jackson,T. Johnson
+334,4,10:03.0,67,72,DET,MIA,0,home,OffensiveFoul,,,turnover,,R. Jackson,
+335,4,9:46.0,67,72,DET,MIA,17,away,bad pass,steal,,turnover,,D. Wade,L. Kennard
+336,4,9:20.0,67,72,DET,MIA,26,home,JS,,6,miss2,0,L. Kennard,
+337,4,9:19.0,67,72,DET,MIA,1,home,OffReb,,,OffReb,,L. Kennard,
+338,4,9:16.0,67,72,DET,MIA,3,home,bad pass,steal,,turnover,,L. Kennard,J. Winslow
+339,4,9:12.0,67,72,DET,MIA,4,away,LU,,6,miss2,0,J. Winslow,
+340,4,9:09.0,67,72,DET,MIA,3,home,DefReb,,,DefReb,,R. Jackson,
+341,4,9:03.0,70,72,DET,MIA,6,home,JS,assist,23,make3,3,L. Kennard,S. Johnson
+342,4,9:03.0,70,72,DET,MIA,0,away,Timeout,,,,,,
+343,4,8:46.0,70,72,DET,MIA,17,away,HS,,8,miss2,0,T. Johnson,
+344,4,8:42.0,70,72,DET,MIA,4,home,DefReb,,,DefReb,,S. Johnson,
+345,4,8:40.0,72,72,DET,MIA,2,home,LU,,4,make2,2,S. Johnson,
+346,4,8:15.0,72,74,DET,MIA,25,away,JS,,16,make2,2,D. Wade,
+347,4,7:57.0,75,74,DET,MIA,18,home,JS,assist,27,make3,3,S. Johnson,R. Jackson
+348,4,7:38.0,75,76,DET,MIA,19,away,LU,assist,1,make2,2,K. Olynyk,D. Wade
+349,4,7:38.0,75,76,DET,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,Z. Pachulia,K. Olynyk
+350,4,7:38.0,75,76,DET,MIA,0,away,Sub,,,,,R. McGruder,D. Wade
+351,4,7:38.0,75,76,DET,MIA,0,home,Sub,,,,,B. Griffin,Z. Pachulia
+352,4,7:38.0,75,76,DET,MIA,0,away,FreeThrow,,,make1,0,K. Olynyk,
+353,4,7:35.0,75,76,DET,MIA,3,home,DefReb,,,DefReb,,L. Kennard,
+354,4,7:16.0,75,76,DET,MIA,19,home,JS,,23,miss3,0,B. Griffin,
+355,4,7:14.0,75,76,DET,MIA,2,away,DefReb,,,DefReb,,J. Winslow,
+356,4,7:03.0,75,78,DET,MIA,11,away,LU,assist,4,make2,2,T. Johnson,R. McGruder
+357,4,6:49.0,75,78,DET,MIA,14,home,LU,,1,miss2,0,R. Jackson,
+358,4,6:46.0,75,78,DET,MIA,3,away,DefReb,,,DefReb,,J. Winslow,
+359,4,6:33.0,75,78,DET,MIA,13,away,JS,,28,miss3,0,K. Olynyk,
+360,4,6:30.0,75,78,DET,MIA,3,home,DefReb,,,DefReb,,S. Johnson,
+361,4,6:12.0,78,78,DET,MIA,18,home,JS,assist,26,make3,3,R. Jackson,L. Kennard
+362,4,5:51.0,78,78,DET,MIA,21,away,LU,,3,miss2,0,J. Winslow,
+363,4,5:49.0,78,78,DET,MIA,2,home,DefReb,,,DefReb,,R. Jackson,
+364,4,5:35.0,81,78,DET,MIA,14,home,JS,assist,27,make3,3,L. Kennard,S. Johnson
+365,4,5:10.0,81,78,DET,MIA,25,away,JS,,27,miss3,0,K. Olynyk,
+366,4,5:07.0,81,78,DET,MIA,3,home,DefReb,,,DefReb,,R. Bullock,
+367,4,5:05.0,81,78,DET,MIA,2,home,Timeout,,,,,,
+368,4,5:05.0,81,78,DET,MIA,0,away,Sub,,,,,J. Johnson,T. Johnson
+369,4,5:05.0,81,78,DET,MIA,0,away,Sub,,,,,D. Wade,K. Olynyk
+370,4,5:05.0,81,78,DET,MIA,0,home,Sub,,,,,Z. Pachulia,S. Johnson
+371,4,4:48.0,83,78,DET,MIA,17,home,HS,,3,make2,2,B. Griffin,
+372,4,4:30.0,83,80,DET,MIA,18,away,LU,assist,2,make2,2,B. Adebayo,D. Wade
+373,4,4:13.0,85,80,DET,MIA,17,home,LU,assist,2,make2,2,R. Bullock,B. Griffin
+374,4,3:57.0,85,80,DET,MIA,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Pachulia,B. Adebayo
+375,4,3:49.0,85,82,DET,MIA,8,away,JS,assist,11,make2,2,D. Wade,B. Adebayo
+376,4,3:34.0,87,82,DET,MIA,15,home,JS,assist,18,make2,2,R. Bullock,R. Jackson
+377,4,3:11.0,87,84,DET,MIA,23,away,LU,assist,5,make2,2,J. Winslow,D. Wade
+378,4,2:44.0,87,84,DET,MIA,27,home,HS,,6,miss2,0,B. Griffin,
+379,4,2:41.0,87,84,DET,MIA,3,away,DefReb,,,DefReb,,J. Winslow,
+380,4,2:34.0,87,86,DET,MIA,7,away,JS,,9,make2,2,J. Winslow,
+381,4,2:15.0,90,86,DET,MIA,19,home,JS,assist,26,make3,3,R. Bullock,B. Griffin
+382,4,1:49.0,90,86,DET,MIA,26,away,JS,,28,miss3,0,D. Wade,
+383,4,1:47.0,90,86,DET,MIA,2,away,OffReb,,,OffReb,,R. McGruder,
+384,4,1:47.0,90,89,DET,MIA,0,away,JS,,24,make3,3,R. McGruder,
+385,4,1:30.0,90,89,DET,MIA,17,home,JS,,25,miss3,0,B. Griffin,
+386,4,1:27.0,90,89,DET,MIA,3,away,DefReb,,,DefReb,,D. Wade,
+387,4,1:09.0,90,89,DET,MIA,18,away,HS,,9,miss2,0,J. Winslow,
+388,4,1:06.0,90,89,DET,MIA,3,home,DefReb,,,DefReb,,Z. Pachulia,
+389,4,1:02.0,90,89,DET,MIA,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Winslow,R. Jackson
+390,4,0:52.0,90,89,DET,MIA,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Wade,B. Griffin
+391,4,0:52.0,91,89,DET,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+392,4,0:52.0,91,89,DET,MIA,0,home,Sub,,,,,B. Brown,L. Kennard
+393,4,0:52.0,92,89,DET,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+394,4,0:41.0,92,91,DET,MIA,11,away,LU,,4,make2,2,D. Wade,
+395,4,0:41.0,92,91,DET,MIA,0,home,Timeout,,,,,,
+396,4,0:41.0,92,91,DET,MIA,0,home,Sub,,,,,L. Kennard,B. Brown
+397,4,0:31.0,92,91,DET,MIA,10,home,LU,,3,miss2,0,B. Griffin,
+398,4,0:30.0,92,91,DET,MIA,1,home,OffReb,,,OffReb,,B. Griffin,
+399,4,0:30.0,92,91,DET,MIA,0,home,LU,,0,miss2,0,B. Griffin,
+400,4,0:29.0,92,91,DET,MIA,1,home,OffReb,,,OffReb,,B. Griffin,
+401,4,0:28.0,92,91,DET,MIA,1,home,LU,,1,miss2,0,B. Griffin,
+402,4,0:27.0,92,91,DET,MIA,1,home,OffReb,,,OffReb,,Z. Pachulia,
+403,4,0:26.0,94,91,DET,MIA,1,home,LU,,0,make2,2,Z. Pachulia,
+404,4,0:26.0,94,91,DET,MIA,0,away,Timeout,,,,,,
+405,4,0:26.0,94,91,DET,MIA,0,away,Sub,,,,,T. Johnson,J. Johnson
+406,4,0:26.0,94,91,DET,MIA,0,home,Sub,,,,,B. Brown,L. Kennard
+407,4,0:19.0,94,93,DET,MIA,7,away,LU,,2,make2,2,D. Wade,
+408,4,0:13.0,94,93,DET,MIA,6,home,Timeout,,,,,,
+409,4,0:13.0,94,93,DET,MIA,0,away,Sub,,,,,J. Johnson,T. Johnson
+410,4,0:13.0,94,93,DET,MIA,0,home,Sub,,,,,L. Galloway,B. Brown
+411,4,0:13.0,94,93,DET,MIA,0,home,Sub,,,,,L. Kennard,Z. Pachulia
+412,4,0:11.0,94,93,DET,MIA,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Winslow,R. Jackson
+413,4,0:11.0,95,93,DET,MIA,0,home,FreeThrow,,,make1,1,R. Jackson,
+414,4,0:11.0,95,93,DET,MIA,0,home,Sub,,,,,B. Brown,L. Galloway
+415,4,0:11.0,95,93,DET,MIA,0,home,Sub,,,,,Z. Pachulia,L. Kennard
+416,4,0:11.0,96,93,DET,MIA,0,home,FreeThrow,,,make1,1,R. Jackson,
+417,4,0:11.0,96,93,DET,MIA,0,away,Timeout,,,,,,
+418,4,0:11.0,96,93,DET,MIA,0,away,Sub,,,,,T. Johnson,B. Adebayo
+419,4,0:11.0,96,93,DET,MIA,0,away,Sub,,,,,K. Olynyk,J. Johnson
+420,4,0:11.0,96,93,DET,MIA,0,home,Sub,,,,,S. Johnson,Z. Pachulia
+421,4,0:06.0,96,93,DET,MIA,5,away,JS,,26,miss3,0,D. Wade,
+422,4,0:03.0,96,93,DET,MIA,3,home,DefReb,,,DefReb,,B. Griffin,
+423,4,0:03.0,96,93,DET,MIA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Olynyk,B. Griffin
+424,4,0:03.0,97,93,DET,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+425,4,0:03.0,98,93,DET,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+426,4,0:00.0,98,93,DET,MIA,3,away,JS,,45,miss3,0,J. Winslow,
+427,4,0:00.0,98,93,DET,MIA,0,away,OffReb,,,OffReb,,Team,

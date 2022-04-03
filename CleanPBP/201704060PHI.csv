@@ -1,0 +1,467 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:47.0,0,0,PHI,CHI,13,home,JS,,17,miss2,0,T. McConnell,
+1,1,11:46.0,0,0,PHI,CHI,1,away,DefReb,,,DefReb,,J. Butler,
+2,1,11:27.0,0,0,PHI,CHI,19,away,BadPass,,,turnover,,J. Butler,
+3,1,11:03.0,2,0,PHI,CHI,24,home,LU,,1,make2,2,T. Luwawu-Cabarrot,
+4,1,10:40.0,2,0,PHI,CHI,23,away,JS,,17,miss2,0,R. Lopez,
+5,1,10:38.0,2,0,PHI,CHI,2,home,DefReb,,,DefReb,,D. Šarić,
+6,1,10:30.0,2,0,PHI,CHI,8,home,BadPass,,,turnover,,T. McConnell,
+7,1,10:20.0,2,0,PHI,CHI,10,away,JS,,18,miss2,0,R. Lopez,
+8,1,10:18.0,2,0,PHI,CHI,2,home,DefReb,,,DefReb,,D. Šarić,
+9,1,10:07.0,2,0,PHI,CHI,11,home,BadPass,steal,,turnover,,J. Anderson,J. Grant
+10,1,9:56.0,2,0,PHI,CHI,11,away,JS,,17,miss2,0,J. Butler,
+11,1,9:55.0,2,0,PHI,CHI,1,home,DefReb,,,DefReb,,D. Šarić,
+12,1,9:47.0,2,0,PHI,CHI,8,home,LostBall,steal,,turnover,,D. Šarić,P. Zipser
+13,1,9:41.0,2,2,PHI,CHI,6,away,LU,assist,2,make2,2,J. Butler,J. Grant
+14,1,9:30.0,2,2,PHI,CHI,11,home,JS,,25,miss3,0,R. Holmes,
+15,1,9:29.0,2,2,PHI,CHI,1,away,DefReb,,,DefReb,,J. Grant,
+16,1,9:16.0,2,2,PHI,CHI,13,away,JS,,25,miss3,0,J. Butler,
+17,1,9:15.0,2,2,PHI,CHI,1,home,DefReb,,,DefReb,,R. Holmes,
+18,1,9:07.0,2,2,PHI,CHI,8,home,JS,,25,miss3,0,T. Luwawu-Cabarrot,
+19,1,9:06.0,2,2,PHI,CHI,1,away,DefReb,,,DefReb,,N. Mirotić,
+20,1,8:55.0,2,2,PHI,CHI,11,away,BadPass,steal,,turnover,,J. Butler,T. McConnell
+21,1,8:51.0,4,2,PHI,CHI,4,home,LU,assist,1,make2,2,T. Luwawu-Cabarrot,T. McConnell
+22,1,8:40.0,4,4,PHI,CHI,11,away,LU,,1,make2,2,J. Butler,
+23,1,8:21.0,4,4,PHI,CHI,19,home,JS,,24,miss3,0,T. McConnell,
+24,1,8:20.0,4,4,PHI,CHI,1,away,DefReb,,,DefReb,,J. Butler,
+25,1,8:15.0,4,4,PHI,CHI,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Luwawu-Cabarrot,J. Butler
+26,1,8:15.0,4,5,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+27,1,8:15.0,4,6,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+28,1,7:51.0,4,6,PHI,CHI,24,home,JS,,25,miss3,0,T. Luwawu-Cabarrot,
+29,1,7:50.0,4,6,PHI,CHI,1,away,DefReb,,,DefReb,,N. Mirotić,
+30,1,7:41.0,4,6,PHI,CHI,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Luwawu-Cabarrot,R. Lopez
+31,1,7:41.0,4,6,PHI,CHI,0,home,Sub,,,,,N. Stauskas,T. Luwawu-Cabarrot
+32,1,7:34.0,4,9,PHI,CHI,7,away,JS,assist,24,make3,3,J. Grant,N. Mirotić
+33,1,7:17.0,4,9,PHI,CHI,17,home,JS,block,5,miss2,0,R. Holmes,R. Lopez
+34,1,7:15.0,4,9,PHI,CHI,2,away,DefReb,,,DefReb,,R. Lopez,
+35,1,7:07.0,4,9,PHI,CHI,8,away,JS,,16,miss2,0,P. Zipser,
+36,1,7:06.0,4,9,PHI,CHI,1,home,DefReb,,,DefReb,,D. Šarić,
+37,1,6:50.0,4,9,PHI,CHI,16,home,JS,,27,miss3,0,J. Anderson,
+38,1,6:49.0,4,9,PHI,CHI,1,away,DefReb,,,DefReb,,P. Zipser,
+39,1,6:41.0,4,9,PHI,CHI,8,away,BadPass,steal,,turnover,,R. Lopez,J. Anderson
+40,1,6:36.0,6,9,PHI,CHI,5,home,LU,assist,2,make2,2,J. Anderson,N. Stauskas
+41,1,6:23.0,6,9,PHI,CHI,13,home,KickBallViolation,,,KickBallViolation,,N. Stauskas,
+42,1,6:13.0,6,11,PHI,CHI,10,away,JS,,17,make2,2,J. Grant,
+43,1,5:56.0,8,11,PHI,CHI,17,home,HS,assist,5,make2,2,D. Šarić,T. McConnell
+44,1,5:36.0,8,11,PHI,CHI,20,away,JS,,19,miss2,0,R. Lopez,
+45,1,5:35.0,8,11,PHI,CHI,1,home,DefReb,,,DefReb,,D. Šarić,
+46,1,5:17.0,8,11,PHI,CHI,18,home,LostBall,steal,,turnover,,N. Stauskas,J. Grant
+47,1,5:12.0,8,11,PHI,CHI,5,away,JS,,25,miss3,0,N. Mirotić,
+48,1,5:11.0,8,11,PHI,CHI,1,home,DefReb,,,DefReb,,N. Stauskas,
+49,1,5:04.0,10,11,PHI,CHI,7,home,LU,assist,2,make2,2,J. Anderson,T. McConnell
+50,1,5:02.0,10,11,PHI,CHI,2,away,Timeout,,,,,,
+51,1,5:02.0,10,11,PHI,CHI,0,away,Sub,,,,,A. Morrow,P. Zipser
+52,1,5:02.0,10,11,PHI,CHI,0,home,Sub,,,,,A. Poythress,D. Šarić
+53,1,4:53.0,10,14,PHI,CHI,9,away,JS,assist,24,make3,3,N. Mirotić,A. Morrow
+54,1,4:38.0,10,14,PHI,CHI,15,home,JS,,24,miss3,0,T. McConnell,
+55,1,4:36.0,10,14,PHI,CHI,2,home,OffReb,,,OffReb,,Team,
+56,1,4:18.0,10,14,PHI,CHI,18,home,JS,,24,miss3,0,N. Stauskas,
+57,1,4:17.0,10,14,PHI,CHI,1,away,DefReb,,,DefReb,,J. Butler,
+58,1,4:07.0,10,16,PHI,CHI,10,away,JS,,4,make2,2,J. Butler,
+59,1,3:54.0,13,16,PHI,CHI,13,home,JS,assist,25,make3,3,J. Anderson,T. McConnell
+60,1,3:37.0,13,19,PHI,CHI,17,away,JS,assist,25,make3,3,N. Mirotić,J. Butler
+61,1,3:17.0,13,19,PHI,CHI,20,home,LU,,2,miss2,0,R. Holmes,
+62,1,3:15.0,13,19,PHI,CHI,2,home,OffReb,,,OffReb,,T. McConnell,
+63,1,3:14.0,15,19,PHI,CHI,1,home,LU,,2,make2,2,T. McConnell,
+64,1,2:56.0,15,19,PHI,CHI,18,away,JS,,25,miss3,0,A. Morrow,
+65,1,2:55.0,15,19,PHI,CHI,1,home,DefReb,,,DefReb,,R. Holmes,
+66,1,2:46.0,15,19,PHI,CHI,9,home,JS,,26,miss3,0,T. McConnell,
+67,1,2:45.0,15,19,PHI,CHI,1,away,DefReb,,,DefReb,,N. Mirotić,
+68,1,2:43.0,15,19,PHI,CHI,2,away,BadPass,steal,,turnover,,N. Mirotić,T. McConnell
+69,1,2:35.0,17,19,PHI,CHI,8,home,LU,assist,2,make2,2,A. Poythress,N. Stauskas
+70,1,2:20.0,17,21,PHI,CHI,15,away,HS,assist,2,make2,2,R. Lopez,J. Grant
+71,1,2:20.0,17,21,PHI,CHI,0,home,Timeout,,,,,,
+72,1,2:20.0,17,21,PHI,CHI,0,away,Sub,,,,,D. Valentine,J. Grant
+73,1,2:20.0,17,21,PHI,CHI,0,home,Sub,,,,,S. Long,R. Holmes
+74,1,2:20.0,17,21,PHI,CHI,0,home,Sub,,,,,G. Henderson,T. McConnell
+75,1,2:20.0,17,21,PHI,CHI,0,away,Sub,,,,,B. Portis,N. Mirotić
+76,1,2:02.0,17,21,PHI,CHI,18,home,JS,,25,miss3,0,A. Poythress,
+77,1,2:01.0,17,21,PHI,CHI,1,away,DefReb,,,DefReb,,J. Butler,
+78,1,1:46.0,17,23,PHI,CHI,15,away,LU,assist,1,make2,2,R. Lopez,D. Valentine
+79,1,1:32.0,17,23,PHI,CHI,14,home,JS,,27,miss3,0,S. Long,
+80,1,1:31.0,17,23,PHI,CHI,1,away,DefReb,,,DefReb,,J. Butler,
+81,1,1:28.0,17,23,PHI,CHI,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Long,R. Lopez
+82,1,1:07.0,17,25,PHI,CHI,21,away,JS,assist,19,make2,2,B. Portis,J. Butler
+83,1,0:54.0,17,25,PHI,CHI,13,home,HS,,3,miss2,0,S. Long,
+84,1,0:52.0,17,25,PHI,CHI,2,away,DefReb,,,DefReb,,B. Portis,
+85,1,0:35.0,17,27,PHI,CHI,17,away,JS,,8,make2,2,A. Morrow,
+86,1,0:30.0,17,27,PHI,CHI,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Valentine,N. Stauskas
+87,1,0:22.0,17,27,PHI,CHI,8,home,JS,,25,miss3,0,S. Long,
+88,1,0:21.0,17,27,PHI,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+89,1,0:01.0,17,27,PHI,CHI,20,away,JS,,17,miss2,0,D. Valentine,
+90,1,0:00.0,17,27,PHI,CHI,1,home,DefReb,,,DefReb,,S. Long,
+91,2,11:46.0,17,29,PHI,CHI,14,away,LU,,2,make2,2,M. Carter-Williams,
+92,2,11:29.0,17,29,PHI,CHI,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Carter-Williams,N. Stauskas
+93,2,11:29.0,17,29,PHI,CHI,0,home,FreeThrow,,,make1,0,N. Stauskas,
+94,2,11:29.0,17,29,PHI,CHI,0,home,OffReb,,,OffReb,,Team,
+95,2,11:29.0,18,29,PHI,CHI,0,home,FreeThrow,,,make1,1,N. Stauskas,
+96,2,11:29.0,19,29,PHI,CHI,0,home,FreeThrow,,,make1,1,N. Stauskas,
+97,2,11:15.0,19,31,PHI,CHI,14,away,HS,assist,6,make2,2,B. Portis,A. Morrow
+98,2,11:06.0,21,31,PHI,CHI,9,home,LU,,1,make2,2,G. Henderson,
+99,2,10:54.0,21,31,PHI,CHI,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Stauskas,J. Lauvergne
+100,2,10:43.0,21,33,PHI,CHI,11,away,LU,assist,1,make2,2,J. Lauvergne,A. Morrow
+101,2,10:25.0,21,33,PHI,CHI,18,home,JS,,5,miss2,0,G. Henderson,
+102,2,10:24.0,21,33,PHI,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+103,2,10:15.0,21,33,PHI,CHI,9,away,HS,,3,miss2,0,J. Lauvergne,
+104,2,10:13.0,21,33,PHI,CHI,2,home,DefReb,,,DefReb,,T. Luwawu-Cabarrot,
+105,2,10:08.0,21,33,PHI,CHI,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Morrow,G. Henderson
+106,2,10:08.0,23,33,PHI,CHI,0,home,HS,assist,3,make2,2,G. Henderson,T. Luwawu-Cabarrot
+107,2,10:08.0,23,33,PHI,CHI,0,home,FreeThrow,,,make1,0,G. Henderson,
+108,2,10:08.0,23,33,PHI,CHI,0,home,Sub,,,,,D. Šarić,A. Poythress
+109,2,10:06.0,23,33,PHI,CHI,2,away,DefReb,,,DefReb,,J. Lauvergne,
+110,2,9:55.0,23,33,PHI,CHI,11,away,JS,,8,miss2,0,A. Morrow,
+111,2,9:54.0,23,33,PHI,CHI,1,home,DefReb,,,DefReb,,S. Long,
+112,2,9:43.0,23,33,PHI,CHI,11,home,JS,,20,miss2,0,D. Šarić,
+113,2,9:41.0,23,33,PHI,CHI,2,away,DefReb,,,DefReb,,M. Carter-Williams,
+114,2,9:36.0,23,33,PHI,CHI,5,away,LU,,3,miss2,0,M. Carter-Williams,
+115,2,9:34.0,23,33,PHI,CHI,2,home,DefReb,,,DefReb,,S. Long,
+116,2,9:25.0,23,33,PHI,CHI,9,home,LU,,1,miss2,0,S. Long,
+117,2,9:23.0,23,33,PHI,CHI,2,away,DefReb,,,DefReb,,B. Portis,
+118,2,9:15.0,23,35,PHI,CHI,8,away,JS,assist,4,make2,2,B. Portis,M. Carter-Williams
+119,2,9:15.0,23,35,PHI,CHI,0,home,Timeout,,,,,,
+120,2,9:15.0,23,35,PHI,CHI,0,home,Sub,,,,,R. Holmes,S. Long
+121,2,8:53.0,23,35,PHI,CHI,22,home,JS,,26,miss3,0,D. Šarić,
+122,2,8:52.0,23,35,PHI,CHI,1,home,OffReb,,,OffReb,,R. Holmes,
+123,2,8:51.0,25,35,PHI,CHI,1,home,LU,,1,make2,2,R. Holmes,
+124,2,8:51.0,25,35,PHI,CHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Carter-Williams,R. Holmes
+125,2,8:51.0,25,35,PHI,CHI,0,home,Sub,,,,,T. McConnell,N. Stauskas
+126,2,8:51.0,26,35,PHI,CHI,0,home,FreeThrow,,,make1,1,R. Holmes,
+127,2,8:41.0,26,35,PHI,CHI,10,away,JS,,6,miss2,0,M. Carter-Williams,
+128,2,8:39.0,26,35,PHI,CHI,2,away,OffReb,,,OffReb,,B. Portis,
+129,2,8:38.0,26,37,PHI,CHI,1,away,LU,,1,make2,2,B. Portis,
+130,2,8:26.0,26,37,PHI,CHI,12,away,ChargeFoul,DrawnBy,,ChargeFoul,,R. Holmes,J. Lauvergne
+131,2,8:26.0,26,37,PHI,CHI,0,home,OffensiveFoul,,,turnover,,R. Holmes,
+132,2,8:12.0,26,39,PHI,CHI,14,away,LU,,2,make2,2,J. Lauvergne,
+133,2,8:12.0,26,39,PHI,CHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Holmes,J. Lauvergne
+134,2,8:12.0,26,40,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Lauvergne,
+135,2,7:59.0,26,40,PHI,CHI,13,home,LU,,2,miss2,0,T. Luwawu-Cabarrot,
+136,2,7:58.0,26,40,PHI,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+137,2,7:50.0,26,40,PHI,CHI,8,away,JS,,21,miss2,0,J. Lauvergne,
+138,2,7:48.0,26,40,PHI,CHI,2,away,OffReb,,,OffReb,,D. Valentine,
+139,2,7:46.0,26,40,PHI,CHI,2,away,BadPass,steal,,turnover,,B. Portis,D. Šarić
+140,2,7:39.0,26,40,PHI,CHI,7,home,JS,,24,miss3,0,T. Luwawu-Cabarrot,
+141,2,7:37.0,26,40,PHI,CHI,2,home,OffReb,,,OffReb,,R. Holmes,
+142,2,7:30.0,28,40,PHI,CHI,7,home,JS,assist,17,make2,2,D. Šarić,R. Holmes
+143,2,7:17.0,28,40,PHI,CHI,13,away,LU,block,3,miss2,0,M. Carter-Williams,R. Holmes
+144,2,7:15.0,28,40,PHI,CHI,2,away,OffReb,,,OffReb,,A. Morrow,
+145,2,7:10.0,28,40,PHI,CHI,5,away,JS,,10,miss2,0,B. Portis,
+146,2,7:09.0,28,40,PHI,CHI,1,home,DefReb,,,DefReb,,D. Šarić,
+147,2,7:08.0,28,40,PHI,CHI,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Portis,D. Šarić
+148,2,7:08.0,28,40,PHI,CHI,0,home,Sub,,,,,J. Anderson,G. Henderson
+149,2,7:08.0,28,40,PHI,CHI,0,away,Sub,,,,,J. Butler,B. Portis
+150,2,7:08.0,28,40,PHI,CHI,0,away,Sub,,,,,N. Mirotić,M. Carter-Williams
+151,2,7:08.0,28,40,PHI,CHI,0,away,Sub,,,,,J. Grant,A. Morrow
+152,2,6:49.0,31,40,PHI,CHI,19,home,JS,assist,28,make3,3,J. Anderson,D. Šarić
+153,2,6:35.0,31,40,PHI,CHI,14,away,JS,,6,miss2,0,J. Butler,
+154,2,6:33.0,31,40,PHI,CHI,2,home,DefReb,,,DefReb,,D. Šarić,
+155,2,6:32.0,31,40,PHI,CHI,1,home,LostBall,steal,,turnover,,D. Šarić,J. Butler
+156,2,6:27.0,31,42,PHI,CHI,5,away,HS,assist,5,make2,2,J. Lauvergne,N. Mirotić
+157,2,6:18.0,31,42,PHI,CHI,9,home,LU,,2,miss2,0,D. Šarić,
+158,2,6:17.0,31,42,PHI,CHI,1,away,DefReb,,,DefReb,,Team,
+159,2,6:04.0,31,42,PHI,CHI,13,away,JS,,26,miss3,0,N. Mirotić,
+160,2,6:02.0,31,42,PHI,CHI,2,home,DefReb,,,DefReb,,R. Holmes,
+161,2,5:48.0,34,42,PHI,CHI,14,home,JS,assist,24,make3,3,T. Luwawu-Cabarrot,T. McConnell
+162,2,5:31.0,34,42,PHI,CHI,17,away,BadPass,,,turnover,,J. Butler,
+163,2,5:31.0,34,42,PHI,CHI,0,away,Timeout,,,,,,
+164,2,5:31.0,34,42,PHI,CHI,0,away,Sub,,,,,R. Lopez,J. Lauvergne
+165,2,5:31.0,34,42,PHI,CHI,0,away,Sub,,,,,P. Zipser,D. Valentine
+166,2,5:12.0,34,42,PHI,CHI,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,J. Anderson
+167,2,5:12.0,35,42,PHI,CHI,0,home,FreeThrow,,,make1,1,J. Anderson,
+168,2,5:12.0,35,42,PHI,CHI,0,home,Sub,,,,,A. Poythress,D. Šarić
+169,2,5:12.0,36,42,PHI,CHI,0,home,FreeThrow,,,make1,1,J. Anderson,
+170,2,5:03.0,36,42,PHI,CHI,9,away,BadPass,steal,,turnover,,J. Grant,T. McConnell
+171,2,4:57.0,36,42,PHI,CHI,6,home,LU,,2,miss2,0,A. Poythress,
+172,2,4:55.0,36,42,PHI,CHI,2,away,DefReb,,,DefReb,,N. Mirotić,
+173,2,4:49.0,36,42,PHI,CHI,6,away,LU,,3,miss2,0,R. Lopez,
+174,2,4:47.0,36,42,PHI,CHI,2,home,DefReb,,,DefReb,,R. Holmes,
+175,2,4:29.0,38,42,PHI,CHI,18,home,JS,,14,make2,2,J. Anderson,
+176,2,4:13.0,38,42,PHI,CHI,16,away,LostBall,steal,,turnover,,J. Butler,R. Holmes
+177,2,4:08.0,38,42,PHI,CHI,5,home,BadPass,,,turnover,,T. McConnell,
+178,2,3:52.0,38,45,PHI,CHI,16,away,JS,assist,25,make3,3,N. Mirotić,J. Butler
+179,2,3:35.0,38,45,PHI,CHI,17,home,JS,,26,miss3,0,R. Holmes,
+180,2,3:34.0,38,45,PHI,CHI,1,away,DefReb,,,DefReb,,J. Grant,
+181,2,3:28.0,38,47,PHI,CHI,6,away,LU,assist,2,make2,2,N. Mirotić,J. Grant
+182,2,3:14.0,40,47,PHI,CHI,14,home,LU,assist,1,make2,2,T. McConnell,R. Holmes
+183,2,3:14.0,40,47,PHI,CHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,T. McConnell
+184,2,3:14.0,41,47,PHI,CHI,0,home,FreeThrow,,,make1,1,T. McConnell,
+185,2,3:04.0,41,47,PHI,CHI,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Anderson,J. Butler
+186,2,3:04.0,41,47,PHI,CHI,0,home,Sub,,,,,T. Splitter,R. Holmes
+187,2,2:56.0,41,47,PHI,CHI,8,away,BadPass,steal,,turnover,,R. Lopez,T. Luwawu-Cabarrot
+188,2,2:52.0,41,47,PHI,CHI,4,home,LU,,2,miss2,0,T. Luwawu-Cabarrot,
+189,2,2:51.0,41,47,PHI,CHI,1,home,OffReb,,,OffReb,,T. McConnell,
+190,2,2:50.0,43,47,PHI,CHI,1,home,LU,,2,make2,2,T. McConnell,
+191,2,2:50.0,43,47,PHI,CHI,0,away,Timeout,,,,,,
+192,2,2:50.0,43,47,PHI,CHI,0,home,Sub,,,,,G. Henderson,T. Luwawu-Cabarrot
+193,2,2:28.0,43,47,PHI,CHI,22,away,JS,,8,miss2,0,J. Grant,
+194,2,2:26.0,43,47,PHI,CHI,2,home,DefReb,,,DefReb,,A. Poythress,
+195,2,2:14.0,43,47,PHI,CHI,12,home,JS,,6,miss2,0,T. McConnell,
+196,2,2:13.0,43,47,PHI,CHI,1,away,DefReb,,,DefReb,,R. Lopez,
+197,2,1:59.0,43,50,PHI,CHI,14,away,JS,assist,23,make3,3,P. Zipser,J. Butler
+198,2,1:42.0,45,50,PHI,CHI,17,home,LU,assist,1,make2,2,T. Splitter,T. McConnell
+199,2,1:25.0,45,50,PHI,CHI,17,away,JS,,15,miss2,0,J. Butler,
+200,2,1:24.0,45,50,PHI,CHI,1,home,DefReb,,,DefReb,,A. Poythress,
+201,2,1:09.0,45,50,PHI,CHI,15,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,N. Mirotić,A. Poythress
+202,2,1:09.0,46,50,PHI,CHI,0,home,FreeThrow,,,make1,1,A. Poythress,
+203,2,1:09.0,46,50,PHI,CHI,0,home,Sub,,,,,N. Stauskas,J. Anderson
+204,2,1:09.0,46,50,PHI,CHI,0,away,Sub,,,,,M. Carter-Williams,J. Grant
+205,2,1:09.0,47,50,PHI,CHI,0,home,FreeThrow,,,make1,1,A. Poythress,
+206,2,0:53.0,47,50,PHI,CHI,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Splitter,R. Lopez
+207,2,0:53.0,47,51,PHI,CHI,0,away,FreeThrow,,,make1,1,R. Lopez,
+208,2,0:53.0,47,51,PHI,CHI,0,away,FreeThrow,,,make1,0,R. Lopez,
+209,2,0:52.0,47,51,PHI,CHI,1,home,DefReb,,,DefReb,,T. Splitter,
+210,2,0:39.0,47,51,PHI,CHI,13,home,JS,,25,miss3,0,N. Stauskas,
+211,2,0:38.0,47,51,PHI,CHI,1,away,DefReb,,,DefReb,,M. Carter-Williams,
+212,2,0:31.0,47,51,PHI,CHI,7,away,OutOfBounds,,,turnover,,J. Butler,
+213,2,0:15.0,47,51,PHI,CHI,16,home,LU,block,2,miss2,0,T. Splitter,R. Lopez
+214,2,0:13.0,47,51,PHI,CHI,2,away,DefReb,,,DefReb,,J. Butler,
+215,2,0:07.0,47,51,PHI,CHI,6,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,G. Henderson,J. Butler
+216,2,0:07.0,47,52,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+217,2,0:07.0,47,53,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+218,2,0:02.0,47,53,PHI,CHI,5,home,LU,block,2,miss2,0,T. McConnell,R. Lopez
+219,2,0:01.0,47,53,PHI,CHI,1,away,DefReb,,,DefReb,,P. Zipser,
+220,2,0:00.0,47,53,PHI,CHI,1,away,JS,,80,miss3,0,P. Zipser,
+221,2,0:00.0,47,53,PHI,CHI,0,away,OffReb,,,OffReb,,Team,
+222,3,11:40.0,47,56,PHI,CHI,20,away,JS,assist,24,make3,3,N. Mirotić,J. Butler
+223,3,11:12.0,50,56,PHI,CHI,28,home,JS,assist,24,make3,3,D. Šarić,T. McConnell
+224,3,10:50.0,50,58,PHI,CHI,22,away,LU,assist,2,make2,2,P. Zipser,R. Lopez
+225,3,10:45.0,50,58,PHI,CHI,5,home,BadPass,steal,,turnover,,T. Luwawu-Cabarrot,R. Lopez
+226,3,10:28.0,50,60,PHI,CHI,17,away,LU,,2,make2,2,J. Butler,
+227,3,10:28.0,50,60,PHI,CHI,0,home,Timeout,,,,,,
+228,3,10:09.0,50,60,PHI,CHI,19,home,JS,block,5,miss2,0,D. Šarić,N. Mirotić
+229,3,10:08.0,50,60,PHI,CHI,1,away,DefReb,,,DefReb,,J. Grant,
+230,3,10:00.0,50,60,PHI,CHI,8,away,LU,,1,miss2,0,J. Grant,
+231,3,9:59.0,50,60,PHI,CHI,1,home,DefReb,,,DefReb,,T. McConnell,
+232,3,9:53.0,52,60,PHI,CHI,6,home,DK,assist,1,make2,2,J. Anderson,T. McConnell
+233,3,9:34.0,52,60,PHI,CHI,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. McConnell,J. Grant
+234,3,9:34.0,52,61,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Grant,
+235,3,9:34.0,52,62,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Grant,
+236,3,9:18.0,52,62,PHI,CHI,16,home,JS,,24,miss3,0,T. Luwawu-Cabarrot,
+237,3,9:17.0,52,62,PHI,CHI,1,away,DefReb,,,DefReb,,J. Butler,
+238,3,9:09.0,52,62,PHI,CHI,8,away,JS,,18,miss2,0,P. Zipser,
+239,3,9:08.0,52,62,PHI,CHI,1,home,DefReb,,,DefReb,,R. Holmes,
+240,3,8:55.0,52,62,PHI,CHI,13,home,LU,,2,miss2,0,J. Anderson,
+241,3,8:54.0,52,62,PHI,CHI,1,away,DefReb,,,DefReb,,J. Grant,
+242,3,8:44.0,52,64,PHI,CHI,10,away,LU,assist,1,make2,2,N. Mirotić,J. Grant
+243,3,8:19.0,52,64,PHI,CHI,25,home,JS,,16,miss2,0,T. Luwawu-Cabarrot,
+244,3,8:18.0,52,64,PHI,CHI,1,home,OffReb,,,OffReb,,T. Luwawu-Cabarrot,
+245,3,8:06.0,52,64,PHI,CHI,12,home,JS,,15,miss2,0,T. McConnell,
+246,3,8:05.0,52,64,PHI,CHI,1,away,DefReb,,,DefReb,,R. Lopez,
+247,3,7:51.0,52,64,PHI,CHI,14,away,JS,,24,miss3,0,P. Zipser,
+248,3,7:50.0,52,64,PHI,CHI,1,away,OffReb,,,OffReb,,N. Mirotić,
+249,3,7:44.0,52,64,PHI,CHI,6,away,JS,,14,miss2,0,N. Mirotić,
+250,3,7:43.0,52,64,PHI,CHI,1,home,DefReb,,,DefReb,,T. McConnell,
+251,3,7:36.0,52,64,PHI,CHI,7,home,JS,,24,miss3,0,D. Šarić,
+252,3,7:35.0,52,64,PHI,CHI,1,away,DefReb,,,DefReb,,R. Lopez,
+253,3,7:21.0,52,64,PHI,CHI,14,away,JS,,20,miss2,0,R. Lopez,
+254,3,7:20.0,52,64,PHI,CHI,1,home,DefReb,,,DefReb,,D. Šarić,
+255,3,7:11.0,52,64,PHI,CHI,9,home,LU,,2,miss2,0,R. Holmes,
+256,3,7:10.0,52,64,PHI,CHI,1,away,DefReb,,,DefReb,,J. Grant,
+257,3,7:08.0,52,64,PHI,CHI,2,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Anderson,J. Grant
+258,3,7:08.0,52,65,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Grant,
+259,3,7:08.0,52,65,PHI,CHI,0,away,Sub,,,,,A. Morrow,P. Zipser
+260,3,7:08.0,52,65,PHI,CHI,0,home,Sub,,,,,G. Henderson,J. Anderson
+261,3,7:08.0,52,66,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Grant,
+262,3,6:46.0,52,66,PHI,CHI,22,home,JS,,13,miss2,0,G. Henderson,
+263,3,6:45.0,52,66,PHI,CHI,1,away,DefReb,,,DefReb,,N. Mirotić,
+264,3,6:36.0,52,68,PHI,CHI,9,away,JS,assist,19,make2,2,J. Grant,R. Lopez
+265,3,6:23.0,52,68,PHI,CHI,13,home,LU,,1,miss2,0,T. McConnell,
+266,3,6:22.0,52,68,PHI,CHI,1,away,DefReb,,,DefReb,,N. Mirotić,
+267,3,6:19.0,52,68,PHI,CHI,3,away,LostBall,steal,,turnover,,N. Mirotić,R. Holmes
+268,3,6:16.0,54,68,PHI,CHI,3,home,DK,,1,make2,2,R. Holmes,
+269,3,5:52.0,54,68,PHI,CHI,24,away,LU,block,1,miss2,0,R. Lopez,D. Šarić
+270,3,5:52.0,54,68,PHI,CHI,0,away,OffReb,,,OffReb,,Team,
+271,3,5:52.0,54,68,PHI,CHI,0,home,Sub,,,,,N. Stauskas,T. Luwawu-Cabarrot
+272,3,5:52.0,54,68,PHI,CHI,0,away,JumpBallViolation,,,turnover,,R. Lopez,
+273,3,5:52.0,54,68,PHI,CHI,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Lopez,D. Šarić
+274,3,5:36.0,54,68,PHI,CHI,16,home,JS,,15,miss2,0,R. Holmes,
+275,3,5:35.0,54,68,PHI,CHI,1,home,OffReb,,,OffReb,,D. Šarić,
+276,3,5:33.0,54,68,PHI,CHI,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Mirotić,D. Šarić
+277,3,5:33.0,54,68,PHI,CHI,0,home,FreeThrow,,,make1,0,D. Šarić,
+278,3,5:33.0,54,68,PHI,CHI,0,home,OffReb,,,OffReb,,Team,
+279,3,5:33.0,54,68,PHI,CHI,0,away,Sub,,,,,B. Portis,N. Mirotić
+280,3,5:33.0,55,68,PHI,CHI,0,home,FreeThrow,,,make1,1,D. Šarić,
+281,3,5:23.0,55,68,PHI,CHI,10,away,JS,,20,miss2,0,J. Butler,
+282,3,5:21.0,55,68,PHI,CHI,2,home,DefReb,,,DefReb,,T. McConnell,
+283,3,5:15.0,55,68,PHI,CHI,6,home,JS,,26,miss3,0,N. Stauskas,
+284,3,5:14.0,55,68,PHI,CHI,1,home,OffReb,,,OffReb,,R. Holmes,
+285,3,5:11.0,57,68,PHI,CHI,3,home,LU,,1,make2,2,R. Holmes,
+286,3,5:06.0,57,68,PHI,CHI,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Henderson,J. Grant
+287,3,5:06.0,57,68,PHI,CHI,0,home,Sub,,,,,A. Poythress,D. Šarić
+288,3,4:54.0,57,68,PHI,CHI,12,away,JS,,25,miss3,0,J. Grant,
+289,3,4:53.0,57,68,PHI,CHI,1,home,DefReb,,,DefReb,,T. McConnell,
+290,3,4:46.0,60,68,PHI,CHI,7,home,JS,assist,24,make3,3,R. Holmes,N. Stauskas
+291,3,4:46.0,60,68,PHI,CHI,0,away,Timeout,,,,,,
+292,3,4:38.0,60,68,PHI,CHI,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Poythress,J. Butler
+293,3,4:22.0,60,68,PHI,CHI,16,away,JS,,25,miss3,0,J. Grant,
+294,3,4:21.0,60,68,PHI,CHI,1,away,OffReb,,,OffReb,,R. Lopez,
+295,3,4:19.0,60,70,PHI,CHI,2,away,LU,,2,make2,2,R. Lopez,
+296,3,4:05.0,60,70,PHI,CHI,14,home,JS,,18,miss2,0,G. Henderson,
+297,3,4:04.0,60,70,PHI,CHI,1,away,DefReb,,,DefReb,,J. Grant,
+298,3,3:54.0,60,72,PHI,CHI,10,away,LU,,0,make2,2,J. Grant,
+299,3,3:34.0,60,72,PHI,CHI,20,home,JS,,24,miss3,0,A. Poythress,
+300,3,3:33.0,60,72,PHI,CHI,1,away,DefReb,,,DefReb,,J. Grant,
+301,3,3:14.0,60,72,PHI,CHI,19,away,HS,,9,miss2,0,R. Lopez,
+302,3,3:13.0,60,72,PHI,CHI,1,home,DefReb,,,DefReb,,G. Henderson,
+303,3,3:08.0,63,72,PHI,CHI,5,home,JS,assist,25,make3,3,N. Stauskas,G. Henderson
+304,3,2:53.0,63,72,PHI,CHI,15,away,JS,,23,miss3,0,A. Morrow,
+305,3,2:52.0,63,72,PHI,CHI,1,home,DefReb,,,DefReb,,R. Holmes,
+306,3,2:47.0,63,72,PHI,CHI,5,home,LostBall,steal,,turnover,,T. McConnell,J. Butler
+307,3,2:45.0,63,74,PHI,CHI,2,away,LU,,2,make2,2,J. Butler,
+308,3,2:42.0,63,74,PHI,CHI,3,home,Timeout,,,,,,
+309,3,2:42.0,63,74,PHI,CHI,0,home,Sub,,,,,T. Luwawu-Cabarrot,T. McConnell
+310,3,2:42.0,63,74,PHI,CHI,0,home,Sub,,,,,S. Long,R. Holmes
+311,3,2:25.0,63,74,PHI,CHI,17,home,JS,,26,miss3,0,N. Stauskas,
+312,3,2:24.0,63,74,PHI,CHI,1,away,DefReb,,,DefReb,,J. Butler,
+313,3,2:09.0,63,74,PHI,CHI,15,away,JS,,19,miss2,0,A. Morrow,
+314,3,2:08.0,63,74,PHI,CHI,1,away,OffReb,,,OffReb,,R. Lopez,
+315,3,2:07.0,63,74,PHI,CHI,1,away,LU,,1,miss2,0,R. Lopez,
+316,3,2:06.0,63,74,PHI,CHI,1,home,DefReb,,,DefReb,,N. Stauskas,
+317,3,1:58.0,63,74,PHI,CHI,8,home,JS,,25,miss3,0,T. Luwawu-Cabarrot,
+318,3,1:57.0,63,74,PHI,CHI,1,away,DefReb,,,DefReb,,J. Grant,
+319,3,1:33.0,63,74,PHI,CHI,24,away,ShotClockViolation,,,turnover,,Team,
+320,3,1:17.0,65,74,PHI,CHI,16,home,JS,,19,make2,2,N. Stauskas,
+321,3,0:59.0,65,74,PHI,CHI,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Long,J. Butler
+322,3,0:59.0,65,75,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+323,3,0:59.0,65,75,PHI,CHI,0,home,Sub,,,,,J. Anderson,G. Henderson
+324,3,0:59.0,65,75,PHI,CHI,0,away,Sub,,,,,D. Valentine,J. Grant
+325,3,0:59.0,65,76,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+326,3,0:47.0,65,76,PHI,CHI,12,home,LU,,2,miss2,0,S. Long,
+327,3,0:46.0,65,76,PHI,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+328,3,0:30.0,65,76,PHI,CHI,16,away,JS,,18,miss2,0,J. Butler,
+329,3,0:29.0,65,76,PHI,CHI,1,away,OffReb,,,OffReb,,R. Lopez,
+330,3,0:28.0,65,78,PHI,CHI,1,away,LU,,1,make2,2,R. Lopez,
+331,3,0:10.0,65,78,PHI,CHI,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Valentine,N. Stauskas
+332,3,0:05.0,67,78,PHI,CHI,5,home,LU,,3,make2,2,S. Long,
+333,3,0:00.0,67,80,PHI,CHI,5,away,JS,assist,12,make2,2,B. Portis,J. Butler
+334,4,11:47.0,67,80,PHI,CHI,13,home,JS,,19,miss2,0,N. Stauskas,
+335,4,11:44.0,67,80,PHI,CHI,3,away,DefReb,,,DefReb,,D. Valentine,
+336,4,11:36.0,67,80,PHI,CHI,8,away,JS,,24,miss3,0,B. Portis,
+337,4,11:33.0,67,80,PHI,CHI,3,home,DefReb,,,DefReb,,S. Long,
+338,4,11:26.0,67,80,PHI,CHI,7,home,LU,,2,miss2,0,A. Poythress,
+339,4,11:24.0,67,80,PHI,CHI,2,away,DefReb,,,DefReb,,B. Portis,
+340,4,11:20.0,67,80,PHI,CHI,4,away,JS,,25,miss3,0,D. Valentine,
+341,4,11:19.0,67,80,PHI,CHI,1,home,DefReb,,,DefReb,,J. Anderson,
+342,4,11:10.0,67,80,PHI,CHI,9,home,JS,,25,miss3,0,J. Anderson,
+343,4,11:08.0,67,80,PHI,CHI,2,away,DefReb,,,DefReb,,A. Morrow,
+344,4,10:55.0,67,82,PHI,CHI,13,away,JS,assist,6,make2,2,J. Lauvergne,M. Carter-Williams
+345,4,10:37.0,67,82,PHI,CHI,18,home,JS,,26,miss3,0,A. Poythress,
+346,4,10:35.0,67,82,PHI,CHI,2,home,OffReb,,,OffReb,,S. Long,
+347,4,10:33.0,67,82,PHI,CHI,2,home,LU,block,1,miss2,0,S. Long,M. Carter-Williams
+348,4,10:32.0,67,82,PHI,CHI,1,away,DefReb,,,DefReb,,D. Valentine,
+349,4,10:15.0,67,82,PHI,CHI,17,away,JS,,8,miss2,0,M. Carter-Williams,
+350,4,10:14.0,67,82,PHI,CHI,1,home,DefReb,,,DefReb,,N. Stauskas,
+351,4,10:08.0,67,82,PHI,CHI,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Carter-Williams,N. Stauskas
+352,4,10:08.0,69,82,PHI,CHI,0,home,LU,,2,make2,2,N. Stauskas,
+353,4,10:08.0,70,82,PHI,CHI,0,home,FreeThrow,,,make1,1,N. Stauskas,
+354,4,9:51.0,70,84,PHI,CHI,17,away,DK,assist,0,make2,2,J. Lauvergne,M. Carter-Williams
+355,4,9:34.0,70,84,PHI,CHI,17,home,JS,,9,miss2,0,N. Stauskas,
+356,4,9:34.0,70,84,PHI,CHI,0,home,OffReb,,,OffReb,,S. Long,
+357,4,9:32.0,70,84,PHI,CHI,2,home,LU,,1,miss2,0,S. Long,
+358,4,9:31.0,70,84,PHI,CHI,1,away,DefReb,,,DefReb,,Team,
+359,4,9:31.0,70,84,PHI,CHI,0,home,Sub,,,,,G. Henderson,N. Stauskas
+360,4,9:21.0,70,84,PHI,CHI,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Henderson,M. Carter-Williams
+361,4,9:16.0,70,84,PHI,CHI,5,away,JS,,18,miss2,0,J. Lauvergne,
+362,4,9:14.0,70,84,PHI,CHI,2,home,DefReb,,,DefReb,,G. Henderson,
+363,4,9:10.0,70,84,PHI,CHI,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Carter-Williams,G. Henderson
+364,4,9:00.0,70,84,PHI,CHI,10,home,LU,,2,miss2,0,G. Henderson,
+365,4,8:59.0,70,84,PHI,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+366,4,8:56.0,70,84,PHI,CHI,3,away,JS,,25,miss3,0,A. Morrow,
+367,4,8:55.0,70,84,PHI,CHI,1,away,OffReb,,,OffReb,,B. Portis,
+368,4,8:50.0,70,84,PHI,CHI,5,away,JS,,10,miss2,0,A. Morrow,
+369,4,8:49.0,70,84,PHI,CHI,1,home,DefReb,,,DefReb,,J. Anderson,
+370,4,8:42.0,70,84,PHI,CHI,7,home,JS,,9,miss2,0,J. Anderson,
+371,4,8:41.0,70,84,PHI,CHI,1,home,OffReb,,,OffReb,,S. Long,
+372,4,8:40.0,72,84,PHI,CHI,1,home,LU,,3,make2,2,S. Long,
+373,4,8:22.0,72,84,PHI,CHI,18,away,LU,,1,miss2,0,M. Carter-Williams,
+374,4,8:21.0,72,84,PHI,CHI,1,home,DefReb,,,DefReb,,S. Long,
+375,4,8:18.0,72,84,PHI,CHI,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Valentine,T. Luwawu-Cabarrot
+376,4,8:18.0,72,84,PHI,CHI,0,away,Timeout,,,,,,
+377,4,8:08.0,72,84,PHI,CHI,10,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Henderson,M. Carter-Williams
+378,4,8:08.0,72,84,PHI,CHI,0,home,OffensiveFoul,,,turnover,,G. Henderson,
+379,4,7:56.0,72,84,PHI,CHI,12,away,JS,,18,miss2,0,M. Carter-Williams,
+380,4,7:55.0,72,84,PHI,CHI,1,home,DefReb,,,DefReb,,T. Luwawu-Cabarrot,
+381,4,7:52.0,72,84,PHI,CHI,3,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,A. Morrow,T. Luwawu-Cabarrot
+382,4,7:52.0,73,84,PHI,CHI,0,home,FreeThrow,,,make1,1,T. Luwawu-Cabarrot,
+383,4,7:52.0,73,84,PHI,CHI,0,away,Sub,,,,,J. Butler,A. Morrow
+384,4,7:52.0,73,84,PHI,CHI,0,away,Sub,,,,,P. Zipser,M. Carter-Williams
+385,4,7:52.0,74,84,PHI,CHI,0,home,FreeThrow,,,make1,1,T. Luwawu-Cabarrot,
+386,4,7:31.0,74,84,PHI,CHI,21,away,JS,block,18,miss2,0,P. Zipser,G. Henderson
+387,4,7:30.0,74,84,PHI,CHI,1,away,OffReb,,,OffReb,,Team,
+388,4,7:29.0,74,84,PHI,CHI,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Poythress,J. Butler
+389,4,7:29.0,74,85,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+390,4,7:29.0,74,86,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+391,4,7:29.0,74,86,PHI,CHI,0,home,Sub,,,,,R. Holmes,S. Long
+392,4,7:29.0,74,87,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+393,4,7:18.0,74,87,PHI,CHI,11,home,BadPass,,,turnover,,R. Holmes,
+394,4,7:18.0,74,87,PHI,CHI,0,home,Sub,,,,,T. McConnell,G. Henderson
+395,4,7:00.0,74,89,PHI,CHI,18,away,JS,assist,18,make2,2,B. Portis,J. Butler
+396,4,6:45.0,76,89,PHI,CHI,15,home,LU,assist,1,make2,2,T. McConnell,T. Luwawu-Cabarrot
+397,4,6:30.0,76,89,PHI,CHI,15,away,JS,,25,miss3,0,J. Lauvergne,
+398,4,6:29.0,76,89,PHI,CHI,1,away,OffReb,,,OffReb,,P. Zipser,
+399,4,6:14.0,76,89,PHI,CHI,15,away,JS,,8,miss2,0,J. Butler,
+400,4,6:13.0,76,89,PHI,CHI,1,away,OffReb,,,OffReb,,J. Lauvergne,
+401,4,6:08.0,76,89,PHI,CHI,5,away,JS,,24,miss3,0,D. Valentine,
+402,4,6:07.0,76,89,PHI,CHI,1,home,DefReb,,,DefReb,,J. Anderson,
+403,4,5:46.0,78,89,PHI,CHI,21,home,LU,,2,make2,2,T. Luwawu-Cabarrot,
+404,4,5:25.0,78,89,PHI,CHI,21,away,BadPass,steal,,turnover,,J. Lauvergne,T. Luwawu-Cabarrot
+405,4,5:18.0,78,89,PHI,CHI,7,home,JS,,23,miss3,0,J. Anderson,
+406,4,5:17.0,78,89,PHI,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+407,4,5:12.0,78,91,PHI,CHI,5,away,LU,assist,1,make2,2,J. Lauvergne,J. Butler
+408,4,5:12.0,78,91,PHI,CHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Luwawu-Cabarrot,J. Lauvergne
+409,4,5:12.0,78,91,PHI,CHI,0,home,Timeout,,,,,,
+410,4,5:12.0,78,91,PHI,CHI,0,home,Sub,,,,,D. Šarić,A. Poythress
+411,4,5:12.0,78,92,PHI,CHI,0,away,FreeThrow,,,make1,1,J. Lauvergne,
+412,4,4:55.0,78,92,PHI,CHI,17,home,BadPass,steal,,turnover,,T. McConnell,J. Lauvergne
+413,4,4:49.0,78,92,PHI,CHI,6,away,JS,,25,miss3,0,D. Valentine,
+414,4,4:48.0,78,92,PHI,CHI,1,home,DefReb,,,DefReb,,R. Holmes,
+415,4,4:44.0,78,92,PHI,CHI,4,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,P. Zipser,J. Anderson
+416,4,4:44.0,78,92,PHI,CHI,0,home,FreeThrow,,,make1,0,J. Anderson,
+417,4,4:44.0,78,92,PHI,CHI,0,home,OffReb,,,OffReb,,Team,
+418,4,4:44.0,79,92,PHI,CHI,0,home,FreeThrow,,,make1,1,J. Anderson,
+419,4,4:28.0,79,94,PHI,CHI,16,away,JS,assist,16,make2,2,P. Zipser,J. Lauvergne
+420,4,4:19.0,79,94,PHI,CHI,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Zipser,T. Luwawu-Cabarrot
+421,4,4:19.0,80,94,PHI,CHI,0,home,FreeThrow,,,make1,1,T. Luwawu-Cabarrot,
+422,4,4:19.0,80,94,PHI,CHI,0,home,Sub,,,,,N. Stauskas,J. Anderson
+423,4,4:19.0,81,94,PHI,CHI,0,home,FreeThrow,,,make1,1,T. Luwawu-Cabarrot,
+424,4,4:03.0,81,94,PHI,CHI,16,away,LostBall,steal,,turnover,,J. Lauvergne,N. Stauskas
+425,4,3:59.0,81,94,PHI,CHI,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Zipser,D. Šarić
+426,4,3:59.0,82,94,PHI,CHI,0,home,FreeThrow,,,make1,1,D. Šarić,
+427,4,3:59.0,82,94,PHI,CHI,0,home,FreeThrow,,,make1,0,D. Šarić,
+428,4,3:59.0,82,94,PHI,CHI,0,away,Sub,,,,,R. Lopez,D. Valentine
+429,4,3:59.0,82,94,PHI,CHI,0,away,Sub,,,,,J. Grant,B. Portis
+430,4,3:59.0,82,94,PHI,CHI,0,away,Sub,,,,,N. Mirotić,J. Lauvergne
+431,4,3:58.0,82,94,PHI,CHI,1,away,DefReb,,,DefReb,,J. Butler,
+432,4,3:48.0,82,94,PHI,CHI,10,away,JS,,17,miss2,0,R. Lopez,
+433,4,3:47.0,82,94,PHI,CHI,1,home,DefReb,,,DefReb,,D. Šarić,
+434,4,3:42.0,82,94,PHI,CHI,5,home,BadPass,,,turnover,,T. McConnell,
+435,4,3:31.0,82,94,PHI,CHI,11,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,T. Luwawu-Cabarrot,P. Zipser
+436,4,3:25.0,82,97,PHI,CHI,6,away,JS,assist,27,make3,3,N. Mirotić,J. Grant
+437,4,3:00.0,82,97,PHI,CHI,25,home,JS,,25,miss3,0,T. Luwawu-Cabarrot,
+438,4,2:59.0,82,97,PHI,CHI,1,away,DefReb,,,DefReb,,J. Butler,
+439,4,2:49.0,82,97,PHI,CHI,10,away,LostBall,,,turnover,,J. Butler,
+440,4,2:49.0,82,97,PHI,CHI,0,away,Timeout,,,,,,
+441,4,2:37.0,85,97,PHI,CHI,12,home,JS,assist,28,make3,3,N. Stauskas,T. Luwawu-Cabarrot
+442,4,2:15.0,85,99,PHI,CHI,22,away,JS,assist,22,make2,2,J. Grant,J. Butler
+443,4,2:05.0,85,99,PHI,CHI,10,home,JS,,25,miss3,0,R. Holmes,
+444,4,2:04.0,85,99,PHI,CHI,1,away,DefReb,,,DefReb,,N. Mirotić,
+445,4,1:51.0,85,102,PHI,CHI,13,away,JS,assist,25,make3,3,N. Mirotić,J. Butler
+446,4,1:51.0,85,102,PHI,CHI,0,home,Timeout,,,,,,
+447,4,1:51.0,85,102,PHI,CHI,0,home,Sub,,,,,A. Poythress,D. Šarić
+448,4,1:51.0,85,102,PHI,CHI,0,home,Sub,,,,,T. Splitter,R. Holmes
+449,4,1:51.0,85,102,PHI,CHI,0,home,Sub,,,,,J. Anderson,T. McConnell
+450,4,1:51.0,85,102,PHI,CHI,0,away,Sub,,,,,I. Canaan,N. Mirotić
+451,4,1:51.0,85,102,PHI,CHI,0,away,Sub,,,,,C. Felício,R. Lopez
+452,4,1:51.0,85,102,PHI,CHI,0,away,Sub,,,,,C. Payne,J. Butler
+453,4,1:31.0,87,102,PHI,CHI,20,home,JS,,13,make2,2,T. Luwawu-Cabarrot,
+454,4,1:31.0,87,102,PHI,CHI,0,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,C. Payne,T. Luwawu-Cabarrot
+455,4,1:31.0,88,102,PHI,CHI,0,home,FreeThrow,,,make1,1,T. Luwawu-Cabarrot,
+456,4,1:15.0,88,102,PHI,CHI,16,away,JS,,25,miss3,0,I. Canaan,
+457,4,1:14.0,88,102,PHI,CHI,1,home,DefReb,,,DefReb,,A. Poythress,
+458,4,1:07.0,88,102,PHI,CHI,7,away,KickBallViolation,,,KickBallViolation,,J. Grant,
+459,4,1:07.0,88,102,PHI,CHI,0,away,Sub,,,,,D. Valentine,P. Zipser
+460,4,0:57.0,90,102,PHI,CHI,10,home,LU,assist,2,make2,2,T. Luwawu-Cabarrot,N. Stauskas
+461,4,0:44.0,90,102,PHI,CHI,13,away,JS,,25,miss3,0,J. Grant,
+462,4,0:43.0,90,102,PHI,CHI,1,home,DefReb,,,DefReb,,J. Anderson,
+463,4,0:33.0,90,102,PHI,CHI,10,home,LU,block,2,miss2,0,T. Splitter,C. Felício
+464,4,0:32.0,90,102,PHI,CHI,1,away,DefReb,,,DefReb,,C. Payne,
+465,4,0:00.0,90,102,PHI,CHI,32,away,LostBall,,,turnover,,I. Canaan,

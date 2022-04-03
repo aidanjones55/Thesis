@@ -1,0 +1,495 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,0,0,PHI,DEN,15,home,LU,block,0,miss2,0,J. Sampson,J. Nurkić
+1,1,11:43.0,0,0,PHI,DEN,2,away,DefReb,,,DefReb,,T. Lawson,
+2,1,11:26.0,0,3,PHI,DEN,17,away,JS,assist,25,make3,3,W. Chandler,J. Nurkić
+3,1,11:10.0,0,3,PHI,DEN,16,home,JS,,25,miss3,0,R. Covington,
+4,1,11:09.0,0,3,PHI,DEN,1,away,DefReb,,,DefReb,,T. Lawson,
+5,1,10:59.0,0,6,PHI,DEN,10,away,JS,assist,24,make3,3,A. Afflalo,T. Lawson
+6,1,10:39.0,0,6,PHI,DEN,20,home,JS,,6,miss2,0,N. Noel,
+7,1,10:38.0,0,6,PHI,DEN,1,away,DefReb,,,DefReb,,K. Faried,
+8,1,10:31.0,0,6,PHI,DEN,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Noel,K. Faried
+9,1,10:23.0,0,6,PHI,DEN,8,away,JS,,3,miss2,0,K. Faried,
+10,1,10:21.0,0,6,PHI,DEN,2,home,DefReb,,,DefReb,,N. Noel,
+11,1,10:12.0,0,6,PHI,DEN,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nurkić,R. Covington
+12,1,10:12.0,1,6,PHI,DEN,0,home,FreeThrow,,,make1,1,R. Covington,
+13,1,10:12.0,2,6,PHI,DEN,0,home,FreeThrow,,,make1,1,R. Covington,
+14,1,9:58.0,2,6,PHI,DEN,14,away,BadPass,steal,,turnover,,A. Afflalo,J. Sampson
+15,1,9:56.0,2,6,PHI,DEN,2,home,BadPass,steal,,turnover,,N. Noel,A. Afflalo
+16,1,9:52.0,2,6,PHI,DEN,4,away,BadPass,steal,,turnover,,A. Afflalo,J. Sampson
+17,1,9:46.0,2,6,PHI,DEN,6,home,LostBall,,,turnover,,J. Sampson,
+18,1,9:33.0,2,8,PHI,DEN,13,away,JS,assist,5,make2,2,A. Afflalo,T. Lawson
+19,1,9:19.0,4,8,PHI,DEN,14,home,DK,assist,0,make2,2,N. Noel,M. Carter-Williams
+20,1,9:03.0,4,8,PHI,DEN,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Noel,J. Nurkić
+21,1,8:48.0,4,8,PHI,DEN,15,away,JS,,20,miss2,0,A. Afflalo,
+22,1,8:46.0,4,8,PHI,DEN,2,home,DefReb,,,DefReb,,L. Mbah a Moute,
+23,1,8:38.0,6,8,PHI,DEN,8,home,JS,assist,17,make2,2,L. Mbah a Moute,M. Carter-Williams
+24,1,8:24.0,6,11,PHI,DEN,14,away,JS,assist,25,make3,3,A. Afflalo,T. Lawson
+25,1,8:08.0,8,11,PHI,DEN,16,home,LU,,1,make2,2,J. Sampson,
+26,1,7:59.0,8,11,PHI,DEN,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Mbah a Moute,J. Nurkić
+27,1,7:59.0,8,11,PHI,DEN,0,away,FreeThrow,,,make1,0,J. Nurkić,
+28,1,7:59.0,8,11,PHI,DEN,0,away,OffReb,,,OffReb,,Team,
+29,1,7:59.0,8,11,PHI,DEN,0,away,LaneViolation,,,turnover,,K. Faried,
+30,1,7:47.0,11,11,PHI,DEN,12,home,JS,assist,24,make3,3,J. Sampson,M. Carter-Williams
+31,1,7:32.0,11,11,PHI,DEN,15,away,JS,,10,miss2,0,A. Afflalo,
+32,1,7:31.0,11,11,PHI,DEN,1,home,DefReb,,,DefReb,,L. Mbah a Moute,
+33,1,7:25.0,14,11,PHI,DEN,6,home,JS,assist,26,make3,3,R. Covington,M. Carter-Williams
+34,1,7:08.0,14,14,PHI,DEN,17,away,JS,assist,23,make3,3,W. Chandler,T. Lawson
+35,1,6:52.0,14,14,PHI,DEN,16,home,JS,,4,miss2,0,M. Carter-Williams,
+36,1,6:50.0,14,14,PHI,DEN,2,away,DefReb,,,DefReb,,K. Faried,
+37,1,6:42.0,14,16,PHI,DEN,8,away,LU,assist,2,make2,2,J. Nurkić,T. Lawson
+38,1,6:37.0,16,16,PHI,DEN,5,home,LU,assist,2,make2,2,N. Noel,M. Carter-Williams
+39,1,6:37.0,16,16,PHI,DEN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Afflalo,N. Noel
+40,1,6:37.0,17,16,PHI,DEN,0,home,FreeThrow,,,make1,1,N. Noel,
+41,1,6:22.0,17,18,PHI,DEN,15,away,JS,,13,make2,2,A. Afflalo,
+42,1,6:15.0,17,18,PHI,DEN,7,home,Timeout,,,,,,
+43,1,5:57.0,17,18,PHI,DEN,18,home,BadPass,steal,,turnover,,M. Carter-Williams,J. Nurkić
+44,1,5:52.0,17,18,PHI,DEN,5,away,JS,,3,miss2,0,K. Faried,
+45,1,5:52.0,17,18,PHI,DEN,0,home,DefReb,,,DefReb,,R. Covington,
+46,1,5:52.0,17,18,PHI,DEN,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Nurkić,R. Covington
+47,1,5:52.0,17,18,PHI,DEN,0,home,Sub,,,,,H. Thompson,J. Sampson
+48,1,5:52.0,17,18,PHI,DEN,0,home,Sub,,,,,H. Sims,N. Noel
+49,1,5:52.0,17,18,PHI,DEN,0,away,Sub,,,,,J. Hickson,J. Nurkić
+50,1,5:39.0,17,18,PHI,DEN,13,home,BadPass,steal,,turnover,,R. Covington,K. Faried
+51,1,5:33.0,17,21,PHI,DEN,6,away,JS,assist,25,make3,3,W. Chandler,T. Lawson
+52,1,5:16.0,19,21,PHI,DEN,17,home,LU,,1,make2,2,M. Carter-Williams,
+53,1,5:10.0,19,21,PHI,DEN,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Covington,T. Lawson
+54,1,5:10.0,19,22,PHI,DEN,0,away,FreeThrow,,,make1,1,T. Lawson,
+55,1,5:10.0,19,22,PHI,DEN,0,home,Sub,,,,,J. Grant,R. Covington
+56,1,5:10.0,19,22,PHI,DEN,0,home,Sub,,,,,K. McDaniels,L. Mbah a Moute
+57,1,5:10.0,19,23,PHI,DEN,0,away,FreeThrow,,,make1,1,T. Lawson,
+58,1,4:57.0,19,23,PHI,DEN,13,home,LU,block,1,miss2,0,H. Sims,J. Hickson
+59,1,4:55.0,19,23,PHI,DEN,2,away,DefReb,,,DefReb,,K. Faried,
+60,1,4:39.0,19,23,PHI,DEN,16,away,JS,,28,miss3,0,W. Chandler,
+61,1,4:37.0,19,23,PHI,DEN,2,home,DefReb,,,DefReb,,J. Grant,
+62,1,4:31.0,19,23,PHI,DEN,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Faried,J. Grant
+63,1,4:31.0,19,23,PHI,DEN,0,away,Sub,,,,,D. Gallinari,K. Faried
+64,1,4:17.0,21,23,PHI,DEN,14,home,JS,assist,18,make2,2,K. McDaniels,M. Carter-Williams
+65,1,4:00.0,21,23,PHI,DEN,17,away,LU,block,1,miss2,0,W. Chandler,J. Grant
+66,1,3:58.0,21,23,PHI,DEN,2,home,DefReb,,,DefReb,,M. Carter-Williams,
+67,1,3:52.0,24,23,PHI,DEN,6,home,JS,assist,23,make3,3,K. McDaniels,M. Carter-Williams
+68,1,3:35.0,24,26,PHI,DEN,17,away,JS,assist,24,make3,3,D. Gallinari,T. Lawson
+69,1,3:15.0,24,26,PHI,DEN,20,away,ChargeFoul,DrawnBy,,ChargeFoul,,J. Grant,D. Gallinari
+70,1,3:15.0,24,26,PHI,DEN,0,home,OffensiveFoul,,,turnover,,J. Grant,
+71,1,3:15.0,24,26,PHI,DEN,0,home,Sub,,,,,L. Drew,M. Carter-Williams
+72,1,3:15.0,24,26,PHI,DEN,0,away,Sub,,,,,A. Gee,W. Chandler
+73,1,3:04.0,24,26,PHI,DEN,11,away,JS,,20,miss2,0,A. Afflalo,
+74,1,3:01.0,24,26,PHI,DEN,3,home,DefReb,,,DefReb,,J. Grant,
+75,1,2:54.0,24,26,PHI,DEN,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Hickson,H. Sims
+76,1,2:54.0,24,26,PHI,DEN,0,away,Timeout,,,,,,
+77,1,2:54.0,24,26,PHI,DEN,0,away,Sub,,,,,R. Foye,T. Lawson
+78,1,2:54.0,24,26,PHI,DEN,0,home,FreeThrow,,,make1,0,H. Sims,
+79,1,2:54.0,24,26,PHI,DEN,0,home,OffReb,,,OffReb,,Team,
+80,1,2:54.0,24,26,PHI,DEN,0,away,Sub,,,,,J. Nelson,A. Afflalo
+81,1,2:54.0,25,26,PHI,DEN,0,home,FreeThrow,,,make1,1,H. Sims,
+82,1,2:40.0,25,26,PHI,DEN,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Drew,J. Hickson
+83,1,2:40.0,25,26,PHI,DEN,0,away,FreeThrow,,,make1,0,J. Hickson,
+84,1,2:40.0,25,26,PHI,DEN,0,away,OffReb,,,OffReb,,Team,
+85,1,2:40.0,25,27,PHI,DEN,0,away,FreeThrow,,,make1,1,J. Hickson,
+86,1,2:25.0,25,27,PHI,DEN,15,home,BadPass,steal,,turnover,,H. Sims,A. Gee
+87,1,2:17.0,25,27,PHI,DEN,8,away,JS,,23,miss3,0,R. Foye,
+88,1,2:15.0,25,27,PHI,DEN,2,away,OffReb,,,OffReb,,J. Hickson,
+89,1,2:15.0,25,27,PHI,DEN,0,away,Traveling,,,turnover,,J. Hickson,
+90,1,2:04.0,27,27,PHI,DEN,11,home,JS,assist,4,make2,2,H. Thompson,H. Sims
+91,1,1:55.0,27,27,PHI,DEN,9,away,JS,block,3,miss2,0,A. Gee,K. McDaniels
+92,1,1:53.0,27,27,PHI,DEN,2,home,DefReb,,,DefReb,,J. Grant,
+93,1,1:46.0,30,27,PHI,DEN,7,home,JS,assist,24,make3,3,H. Thompson,L. Drew
+94,1,1:28.0,30,27,PHI,DEN,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,D. Gallinari
+95,1,1:28.0,30,27,PHI,DEN,0,away,FreeThrow,,,make1,0,D. Gallinari,
+96,1,1:28.0,30,27,PHI,DEN,0,away,OffReb,,,OffReb,,Team,
+97,1,1:28.0,30,28,PHI,DEN,0,away,FreeThrow,,,make1,1,D. Gallinari,
+98,1,1:11.0,30,28,PHI,DEN,17,home,JS,,17,miss2,0,K. McDaniels,
+99,1,1:10.0,30,28,PHI,DEN,1,away,DefReb,,,DefReb,,J. Nelson,
+100,1,1:03.0,30,28,PHI,DEN,7,away,JS,,24,miss3,0,D. Gallinari,
+101,1,1:02.0,30,28,PHI,DEN,1,home,DefReb,,,DefReb,,H. Thompson,
+102,1,0:49.0,32,28,PHI,DEN,13,home,JS,assist,21,make2,2,L. Drew,H. Thompson
+103,1,0:34.0,32,28,PHI,DEN,15,away,JS,,24,miss3,0,R. Foye,
+104,1,0:32.0,32,28,PHI,DEN,2,home,DefReb,,,DefReb,,J. Grant,
+105,1,0:06.0,34,28,PHI,DEN,26,home,JS,assist,15,make2,2,H. Thompson,K. McDaniels
+106,1,0:01.0,34,28,PHI,DEN,5,away,JS,,25,miss3,0,J. Nelson,
+107,1,0:00.0,34,28,PHI,DEN,1,away,OffReb,,,OffReb,,Team,
+108,2,11:55.0,34,28,PHI,DEN,5,away,BadPass,steal,,turnover,,D. Gallinari,H. Thompson
+109,2,11:50.0,37,28,PHI,DEN,5,home,JS,assist,23,make3,3,H. Thompson,L. Drew
+110,2,11:25.0,37,28,PHI,DEN,25,away,JS,,26,miss3,0,D. Gallinari,
+111,2,11:23.0,37,28,PHI,DEN,2,away,OffReb,,,OffReb,,A. Gee,
+112,2,11:13.0,37,28,PHI,DEN,10,away,JS,,23,miss3,0,J. Nelson,
+113,2,11:11.0,37,28,PHI,DEN,2,home,DefReb,,,DefReb,,K. McDaniels,
+114,2,11:09.0,37,28,PHI,DEN,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Foye,K. McDaniels
+115,2,10:52.0,37,28,PHI,DEN,17,home,JS,,17,miss2,0,L. Drew,
+116,2,10:52.0,37,28,PHI,DEN,0,home,OffReb,,,OffReb,,H. Sims,
+117,2,10:52.0,37,28,PHI,DEN,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Foye,H. Sims
+118,2,10:52.0,37,28,PHI,DEN,0,away,Sub,,,,,A. Afflalo,R. Foye
+119,2,10:52.0,37,28,PHI,DEN,0,away,Sub,,,,,W. Chandler,A. Gee
+120,2,10:37.0,39,28,PHI,DEN,15,home,LU,assist,1,make2,2,L. Drew,H. Thompson
+121,2,10:18.0,39,30,PHI,DEN,19,away,JS,assist,16,make2,2,A. Afflalo,J. Nelson
+122,2,10:08.0,39,30,PHI,DEN,10,home,JS,,26,miss3,0,K. McDaniels,
+123,2,10:07.0,39,30,PHI,DEN,1,home,OffReb,,,OffReb,,L. Mbah a Moute,
+124,2,10:07.0,39,30,PHI,DEN,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Gallinari,L. Mbah a Moute
+125,2,9:52.0,41,30,PHI,DEN,15,home,JS,,7,make2,2,K. McDaniels,
+126,2,9:35.0,41,30,PHI,DEN,17,away,JS,,24,miss3,0,D. Gallinari,
+127,2,9:34.0,41,30,PHI,DEN,1,home,DefReb,,,DefReb,,L. Mbah a Moute,
+128,2,9:28.0,44,30,PHI,DEN,6,home,JS,assist,25,make3,3,H. Thompson,L. Drew
+129,2,9:21.0,44,30,PHI,DEN,7,away,Timeout,,,,,,
+130,2,9:21.0,44,30,PHI,DEN,0,away,Sub,,,,,T. Lawson,D. Gallinari
+131,2,9:21.0,44,30,PHI,DEN,0,away,Sub,,,,,J. Nurkić,J. Hickson
+132,2,9:21.0,44,30,PHI,DEN,0,away,Sub,,,,,K. Faried,J. Nelson
+133,2,9:21.0,44,30,PHI,DEN,0,home,Sub,,,,,R. Covington,H. Sims
+134,2,9:21.0,44,30,PHI,DEN,0,home,Sub,,,,,N. Noel,H. Thompson
+135,2,9:21.0,44,30,PHI,DEN,0,home,Sub,,,,,M. Carter-Williams,L. Drew
+136,2,9:00.0,44,30,PHI,DEN,21,away,JS,,23,miss3,0,W. Chandler,
+137,2,8:57.0,44,30,PHI,DEN,3,home,DefReb,,,DefReb,,R. Covington,
+138,2,8:40.0,44,30,PHI,DEN,17,home,JS,,26,miss3,0,M. Carter-Williams,
+139,2,8:38.0,44,30,PHI,DEN,2,away,DefReb,,,DefReb,,T. Lawson,
+140,2,8:31.0,44,30,PHI,DEN,7,away,JS,,12,miss2,0,J. Nurkić,
+141,2,8:29.0,44,30,PHI,DEN,2,home,DefReb,,,DefReb,,N. Noel,
+142,2,8:18.0,44,30,PHI,DEN,11,home,BadPass,steal,,turnover,,K. McDaniels,T. Lawson
+143,2,8:13.0,44,30,PHI,DEN,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. McDaniels,J. Nurkić
+144,2,8:13.0,44,31,PHI,DEN,0,away,FreeThrow,,,make1,1,J. Nurkić,
+145,2,8:13.0,44,31,PHI,DEN,0,home,Sub,,,,,J. Sampson,K. McDaniels
+146,2,8:13.0,44,31,PHI,DEN,0,away,FreeThrow,,,make1,0,J. Nurkić,
+147,2,8:12.0,44,31,PHI,DEN,1,home,DefReb,,,DefReb,,N. Noel,
+148,2,7:51.0,44,31,PHI,DEN,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nurkić,M. Carter-Williams
+149,2,7:51.0,45,31,PHI,DEN,0,home,FreeThrow,,,make1,1,M. Carter-Williams,
+150,2,7:51.0,46,31,PHI,DEN,0,home,FreeThrow,,,make1,1,M. Carter-Williams,
+151,2,7:41.0,46,31,PHI,DEN,10,away,JS,,21,miss2,0,W. Chandler,
+152,2,7:39.0,46,31,PHI,DEN,2,home,DefReb,,,DefReb,,Team,
+153,2,7:29.0,46,31,PHI,DEN,10,home,BadPass,,,turnover,,L. Mbah a Moute,
+154,2,7:20.0,46,33,PHI,DEN,9,away,JS,assist,4,make2,2,J. Nurkić,T. Lawson
+155,2,7:07.0,46,33,PHI,DEN,13,home,JS,,15,miss2,0,L. Mbah a Moute,
+156,2,7:05.0,46,33,PHI,DEN,2,away,DefReb,,,DefReb,,J. Nurkić,
+157,2,7:05.0,46,33,PHI,DEN,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,J. Nurkić
+158,2,6:51.0,46,33,PHI,DEN,14,away,JS,,12,miss2,0,A. Afflalo,
+159,2,6:50.0,46,33,PHI,DEN,1,home,DefReb,,,DefReb,,M. Carter-Williams,
+160,2,6:43.0,46,33,PHI,DEN,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Afflalo,J. Sampson
+161,2,6:43.0,47,33,PHI,DEN,0,home,FreeThrow,,,make1,1,J. Sampson,
+162,2,6:43.0,48,33,PHI,DEN,0,home,FreeThrow,,,make1,1,J. Sampson,
+163,2,6:33.0,48,33,PHI,DEN,10,away,JS,,22,miss3,0,A. Afflalo,
+164,2,6:31.0,48,33,PHI,DEN,2,home,DefReb,,,DefReb,,L. Mbah a Moute,
+165,2,6:14.0,48,33,PHI,DEN,17,home,BadPass,steal,,turnover,,R. Covington,W. Chandler
+166,2,6:07.0,48,33,PHI,DEN,7,away,JS,,24,miss3,0,W. Chandler,
+167,2,6:05.0,48,33,PHI,DEN,2,home,DefReb,,,DefReb,,M. Carter-Williams,
+168,2,6:04.0,48,33,PHI,DEN,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Lawson,M. Carter-Williams
+169,2,6:04.0,48,33,PHI,DEN,0,home,FreeThrow,,,make1,0,M. Carter-Williams,
+170,2,6:04.0,48,33,PHI,DEN,0,home,OffReb,,,OffReb,,Team,
+171,2,6:04.0,49,33,PHI,DEN,0,home,FreeThrow,,,make1,1,M. Carter-Williams,
+172,2,5:47.0,49,33,PHI,DEN,17,away,Timeout,,,,,,
+173,2,5:47.0,49,33,PHI,DEN,0,away,Sub,,,,,D. Gallinari,W. Chandler
+174,2,5:43.0,49,33,PHI,DEN,4,away,JS,,5,miss2,0,K. Faried,
+175,2,5:41.0,49,33,PHI,DEN,2,away,OffReb,,,OffReb,,J. Nurkić,
+176,2,5:41.0,49,35,PHI,DEN,0,away,TI,,1,make2,2,J. Nurkić,
+177,2,5:23.0,49,35,PHI,DEN,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Faried,N. Noel
+178,2,5:23.0,50,35,PHI,DEN,0,home,FreeThrow,,,make1,1,N. Noel,
+179,2,5:23.0,51,35,PHI,DEN,0,home,FreeThrow,,,make1,1,N. Noel,
+180,2,5:11.0,51,35,PHI,DEN,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,J. Nurkić
+181,2,5:11.0,51,35,PHI,DEN,0,home,Sub,,,,,H. Thompson,R. Covington
+182,2,5:01.0,51,35,PHI,DEN,10,away,JS,,20,miss2,0,T. Lawson,
+183,2,5:00.0,51,35,PHI,DEN,1,away,OffReb,,,OffReb,,Team,
+184,2,4:48.0,51,35,PHI,DEN,12,away,LU,block,2,miss2,0,K. Faried,N. Noel
+185,2,4:45.0,51,35,PHI,DEN,3,away,OffReb,,,OffReb,,J. Nurkić,
+186,2,4:45.0,51,35,PHI,DEN,0,away,LU,,2,miss2,0,J. Nurkić,
+187,2,4:44.0,51,35,PHI,DEN,1,home,DefReb,,,DefReb,,H. Thompson,
+188,2,4:30.0,51,35,PHI,DEN,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Faried,H. Thompson
+189,2,4:30.0,52,35,PHI,DEN,0,home,FreeThrow,,,make1,1,H. Thompson,
+190,2,4:30.0,53,35,PHI,DEN,0,home,FreeThrow,,,make1,1,H. Thompson,
+191,2,4:30.0,53,35,PHI,DEN,0,away,Sub,,,,,J. Hickson,K. Faried
+192,2,4:30.0,53,35,PHI,DEN,0,away,Sub,,,,,D. Arthur,J. Nurkić
+193,2,4:30.0,53,35,PHI,DEN,0,home,Sub,,,,,J. Grant,L. Mbah a Moute
+194,2,4:30.0,54,35,PHI,DEN,0,home,FreeThrow,,,make1,1,H. Thompson,
+195,2,4:13.0,54,35,PHI,DEN,17,away,JS,,14,miss2,0,A. Afflalo,
+196,2,4:11.0,54,35,PHI,DEN,2,away,OffReb,,,OffReb,,J. Hickson,
+197,2,4:09.0,54,35,PHI,DEN,2,away,LU,block,2,miss2,0,J. Hickson,M. Carter-Williams
+198,2,4:08.0,54,35,PHI,DEN,1,away,OffReb,,,OffReb,,T. Lawson,
+199,2,4:03.0,54,35,PHI,DEN,5,away,JS,,11,miss2,0,T. Lawson,
+200,2,4:02.0,54,35,PHI,DEN,1,home,DefReb,,,DefReb,,N. Noel,
+201,2,3:38.0,54,35,PHI,DEN,24,home,JS,,25,miss3,0,J. Grant,
+202,2,3:36.0,54,35,PHI,DEN,2,away,DefReb,,,DefReb,,J. Hickson,
+203,2,3:25.0,54,35,PHI,DEN,11,away,JS,,6,miss2,0,A. Afflalo,
+204,2,3:24.0,54,35,PHI,DEN,1,home,DefReb,,,DefReb,,N. Noel,
+205,2,3:15.0,54,35,PHI,DEN,9,home,Timeout,,,,,,
+206,2,3:15.0,54,35,PHI,DEN,0,away,Sub,,,,,J. Nelson,A. Afflalo
+207,2,3:07.0,54,35,PHI,DEN,8,home,JS,,5,miss2,0,N. Noel,
+208,2,3:05.0,54,35,PHI,DEN,2,away,DefReb,,,DefReb,,J. Hickson,
+209,2,2:59.0,54,37,PHI,DEN,6,away,JS,assist,10,make2,2,D. Gallinari,T. Lawson
+210,2,2:59.0,54,37,PHI,DEN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Sampson,D. Gallinari
+211,2,2:59.0,54,37,PHI,DEN,0,home,Sub,,,,,L. Drew,N. Noel
+212,2,2:59.0,54,37,PHI,DEN,0,home,Sub,,,,,K. McDaniels,J. Sampson
+213,2,2:59.0,54,37,PHI,DEN,0,home,Sub,,,,,H. Sims,M. Carter-Williams
+214,2,2:59.0,54,38,PHI,DEN,0,away,FreeThrow,,,make1,1,D. Gallinari,
+215,2,2:44.0,54,38,PHI,DEN,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Gallinari,J. Grant
+216,2,2:44.0,55,38,PHI,DEN,0,home,FreeThrow,,,make1,1,J. Grant,
+217,2,2:44.0,56,38,PHI,DEN,0,home,FreeThrow,,,make1,1,J. Grant,
+218,2,2:31.0,56,38,PHI,DEN,13,away,OutOfBounds,,,turnover,,D. Gallinari,
+219,2,2:09.0,56,38,PHI,DEN,22,home,JS,,3,miss2,0,J. Grant,
+220,2,2:07.0,56,38,PHI,DEN,2,away,DefReb,,,DefReb,,T. Lawson,
+221,2,2:01.0,56,38,PHI,DEN,6,away,JS,block,24,miss3,0,D. Gallinari,J. Grant
+222,2,1:59.0,56,38,PHI,DEN,2,home,DefReb,,,DefReb,,H. Thompson,
+223,2,1:55.0,56,38,PHI,DEN,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Arthur,K. McDaniels
+224,2,1:55.0,57,38,PHI,DEN,0,home,FreeThrow,,,make1,1,K. McDaniels,
+225,2,1:55.0,57,38,PHI,DEN,0,away,Sub,,,,,R. Foye,D. Gallinari
+226,2,1:55.0,58,38,PHI,DEN,0,home,FreeThrow,,,make1,1,K. McDaniels,
+227,2,1:40.0,58,38,PHI,DEN,15,away,DK,,0,miss2,0,J. Hickson,
+228,2,1:39.0,58,38,PHI,DEN,1,home,DefReb,,,DefReb,,L. Drew,
+229,2,1:36.0,58,38,PHI,DEN,3,home,BadPass,,,turnover,,L. Drew,
+230,2,1:27.0,58,38,PHI,DEN,9,away,BadPass,,,turnover,,R. Foye,
+231,2,1:08.0,61,38,PHI,DEN,19,home,JS,assist,25,make3,3,H. Thompson,H. Sims
+232,2,0:53.0,61,40,PHI,DEN,15,away,JS,assist,14,make2,2,D. Arthur,T. Lawson
+233,2,0:38.0,61,40,PHI,DEN,15,home,JS,,24,miss3,0,K. McDaniels,
+234,2,0:36.0,61,40,PHI,DEN,2,home,OffReb,,,OffReb,,K. McDaniels,
+235,2,0:34.0,61,40,PHI,DEN,2,home,LU,,1,miss2,0,K. McDaniels,
+236,2,0:33.0,61,40,PHI,DEN,1,home,OffReb,,,OffReb,,K. McDaniels,
+237,2,0:32.0,61,40,PHI,DEN,1,home,LostBall,,,turnover,,K. McDaniels,
+238,2,0:24.0,61,40,PHI,DEN,8,away,JS,,17,miss2,0,D. Arthur,
+239,2,0:22.0,61,40,PHI,DEN,2,away,OffReb,,,OffReb,,Team,
+240,2,0:21.0,61,40,PHI,DEN,1,home,Sub,,,,,J. Sampson,J. Grant
+241,2,0:01.0,61,40,PHI,DEN,20,away,JS,,14,miss2,0,J. Nelson,
+242,2,0:00.0,61,40,PHI,DEN,1,home,DefReb,,,DefReb,,H. Sims,
+243,3,11:50.0,61,40,PHI,DEN,10,away,JS,,10,miss2,0,K. Faried,
+244,3,11:48.0,61,40,PHI,DEN,2,home,DefReb,,,DefReb,,M. Carter-Williams,
+245,3,11:31.0,61,40,PHI,DEN,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nurkić,L. Mbah a Moute
+246,3,11:31.0,61,40,PHI,DEN,0,home,FreeThrow,,,make1,0,L. Mbah a Moute,
+247,3,11:31.0,61,40,PHI,DEN,0,home,OffReb,,,OffReb,,Team,
+248,3,11:31.0,61,40,PHI,DEN,0,home,Timeout,,,,,,
+249,3,11:31.0,61,40,PHI,DEN,0,home,FreeThrow,,,make1,0,L. Mbah a Moute,
+250,3,11:29.0,61,40,PHI,DEN,2,away,DefReb,,,DefReb,,K. Faried,
+251,3,11:16.0,61,42,PHI,DEN,13,away,JS,assist,5,make2,2,W. Chandler,A. Afflalo
+252,3,11:02.0,61,42,PHI,DEN,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Lawson,R. Covington
+253,3,10:50.0,61,42,PHI,DEN,12,home,JS,,22,miss3,0,R. Covington,
+254,3,10:48.0,61,42,PHI,DEN,2,away,DefReb,,,DefReb,,K. Faried,
+255,3,10:37.0,61,42,PHI,DEN,11,away,JS,,25,miss3,0,A. Afflalo,
+256,3,10:35.0,61,42,PHI,DEN,2,home,DefReb,,,DefReb,,R. Covington,
+257,3,10:29.0,61,42,PHI,DEN,6,home,JS,,20,miss2,0,L. Mbah a Moute,
+258,3,10:27.0,61,42,PHI,DEN,2,away,DefReb,,,DefReb,,W. Chandler,
+259,3,10:21.0,61,42,PHI,DEN,6,away,Sub,,,,,D. Arthur,J. Nurkić
+260,3,10:18.0,61,42,PHI,DEN,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Sampson,A. Afflalo
+261,3,10:18.0,61,43,PHI,DEN,0,away,FreeThrow,,,make1,1,A. Afflalo,
+262,3,10:18.0,61,44,PHI,DEN,0,away,FreeThrow,,,make1,1,A. Afflalo,
+263,3,10:09.0,61,44,PHI,DEN,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Chandler,M. Carter-Williams
+264,3,10:09.0,61,44,PHI,DEN,0,home,FreeThrow,,,make1,0,M. Carter-Williams,
+265,3,10:09.0,61,44,PHI,DEN,0,home,OffReb,,,OffReb,,Team,
+266,3,10:09.0,62,44,PHI,DEN,0,home,FreeThrow,,,make1,1,M. Carter-Williams,
+267,3,9:57.0,62,44,PHI,DEN,12,away,JS,,28,miss3,0,W. Chandler,
+268,3,9:56.0,62,44,PHI,DEN,1,home,DefReb,,,DefReb,,L. Mbah a Moute,
+269,3,9:50.0,65,44,PHI,DEN,6,home,JS,assist,24,make3,3,J. Sampson,M. Carter-Williams
+270,3,9:36.0,65,44,PHI,DEN,14,away,JS,,6,miss2,0,D. Arthur,
+271,3,9:34.0,65,44,PHI,DEN,2,home,DefReb,,,DefReb,,R. Covington,
+272,3,9:28.0,68,44,PHI,DEN,6,home,JS,assist,25,make3,3,R. Covington,M. Carter-Williams
+273,3,9:12.0,68,44,PHI,DEN,16,away,JS,,22,miss2,0,D. Arthur,
+274,3,9:10.0,68,44,PHI,DEN,2,home,DefReb,,,DefReb,,R. Covington,
+275,3,9:00.0,68,44,PHI,DEN,10,home,JS,,25,miss3,0,L. Mbah a Moute,
+276,3,8:59.0,68,44,PHI,DEN,1,away,DefReb,,,DefReb,,W. Chandler,
+277,3,8:39.0,68,47,PHI,DEN,20,away,JS,assist,25,make3,3,W. Chandler,T. Lawson
+278,3,8:39.0,68,47,PHI,DEN,0,away,TechnicalFoul,,,TechnicalFoul,,K. Faried,
+279,3,8:39.0,68,47,PHI,DEN,0,home,FreeThrow,,,make1,0,R. Covington misses technical free throw,
+280,3,8:39.0,68,47,PHI,DEN,0,home,OffReb,,,OffReb,,Team,
+281,3,8:39.0,68,47,PHI,DEN,0,away,Sub,,,,,G. Harris,K. Faried
+282,3,8:19.0,68,47,PHI,DEN,20,home,JS,,25,miss3,0,R. Covington,
+283,3,8:17.0,68,47,PHI,DEN,2,away,DefReb,,,DefReb,,D. Arthur,
+284,3,8:08.0,68,47,PHI,DEN,9,away,LostBall,steal,,turnover,,D. Arthur,J. Sampson
+285,3,7:51.0,68,47,PHI,DEN,17,home,JS,block,3,miss2,0,M. Carter-Williams,D. Arthur
+286,3,7:49.0,68,47,PHI,DEN,2,away,DefReb,,,DefReb,,Team,
+287,3,7:43.0,68,49,PHI,DEN,6,away,JS,assist,17,make2,2,D. Arthur,T. Lawson
+288,3,7:27.0,68,49,PHI,DEN,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Arthur,N. Noel
+289,3,7:27.0,68,49,PHI,DEN,0,home,FreeThrow,,,make1,0,N. Noel,
+290,3,7:27.0,68,49,PHI,DEN,0,home,OffReb,,,OffReb,,Team,
+291,3,7:27.0,68,49,PHI,DEN,0,away,Sub,,,,,A. Gee,W. Chandler
+292,3,7:27.0,69,49,PHI,DEN,0,home,FreeThrow,,,make1,1,N. Noel,
+293,3,7:19.0,69,49,PHI,DEN,8,away,BadPass,steal,,turnover,,T. Lawson,M. Carter-Williams
+294,3,7:15.0,69,49,PHI,DEN,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Arthur,J. Sampson
+295,3,7:15.0,70,49,PHI,DEN,0,home,FreeThrow,,,make1,1,J. Sampson,
+296,3,7:15.0,70,49,PHI,DEN,0,home,FreeThrow,,,make1,0,J. Sampson,
+297,3,7:14.0,70,49,PHI,DEN,1,away,DefReb,,,DefReb,,A. Afflalo,
+298,3,7:04.0,70,49,PHI,DEN,10,away,JS,,13,miss2,0,D. Arthur,
+299,3,7:02.0,70,49,PHI,DEN,2,home,DefReb,,,DefReb,,L. Mbah a Moute,
+300,3,6:56.0,70,49,PHI,DEN,6,home,JS,,25,miss3,0,R. Covington,
+301,3,6:55.0,70,49,PHI,DEN,1,away,DefReb,,,DefReb,,Team,
+302,3,6:40.0,70,49,PHI,DEN,15,away,JS,,22,miss3,0,A. Afflalo,
+303,3,6:38.0,70,49,PHI,DEN,2,home,DefReb,,,DefReb,,L. Mbah a Moute,
+304,3,6:30.0,70,49,PHI,DEN,8,home,JS,,3,miss2,0,N. Noel,
+305,3,6:28.0,70,49,PHI,DEN,2,home,OffReb,,,OffReb,,R. Covington,
+306,3,6:28.0,70,49,PHI,DEN,0,home,LU,,2,miss2,0,R. Covington,
+307,3,6:27.0,70,49,PHI,DEN,1,away,DefReb,,,DefReb,,T. Lawson,
+308,3,6:09.0,70,51,PHI,DEN,18,away,JS,assist,17,make2,2,D. Arthur,T. Lawson
+309,3,6:08.0,70,51,PHI,DEN,1,home,Timeout,,,,,,
+310,3,6:08.0,70,51,PHI,DEN,0,home,Sub,,,,,H. Thompson,L. Mbah a Moute
+311,3,6:08.0,70,51,PHI,DEN,0,home,Sub,,,,,H. Sims,N. Noel
+312,3,6:08.0,70,51,PHI,DEN,0,home,Sub,,,,,J. Grant,J. Sampson
+313,3,6:08.0,70,51,PHI,DEN,0,away,Sub,,,,,K. Faried,D. Arthur
+314,3,5:43.0,72,51,PHI,DEN,25,home,JS,assist,15,make2,2,H. Thompson,M. Carter-Williams
+315,3,5:24.0,72,51,PHI,DEN,19,away,JS,block,4,miss2,0,K. Faried,R. Covington
+316,3,5:22.0,72,51,PHI,DEN,2,home,DefReb,,,DefReb,,M. Carter-Williams,
+317,3,5:14.0,74,51,PHI,DEN,8,home,LU,,0,make2,2,M. Carter-Williams,
+318,3,4:51.0,74,51,PHI,DEN,23,away,JS,,17,miss2,0,A. Afflalo,
+319,3,4:49.0,74,51,PHI,DEN,2,home,DefReb,,,DefReb,,H. Sims,
+320,3,4:37.0,76,51,PHI,DEN,12,home,LU,assist,1,make2,2,R. Covington,M. Carter-Williams
+321,3,4:18.0,76,51,PHI,DEN,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Covington,A. Gee
+322,3,4:18.0,76,51,PHI,DEN,0,away,FreeThrow,,,make1,0,A. Gee,
+323,3,4:18.0,76,51,PHI,DEN,0,away,OffReb,,,OffReb,,Team,
+324,3,4:18.0,76,51,PHI,DEN,0,away,Sub,,,,,J. Nelson,A. Afflalo
+325,3,4:18.0,76,51,PHI,DEN,0,home,Sub,,,,,L. Drew,M. Carter-Williams
+326,3,4:18.0,76,51,PHI,DEN,0,home,Sub,,,,,K. McDaniels,R. Covington
+327,3,4:18.0,76,51,PHI,DEN,0,away,FreeThrow,,,make1,0,A. Gee,
+328,3,4:17.0,76,51,PHI,DEN,1,home,DefReb,,,DefReb,,H. Sims,
+329,3,3:55.0,79,51,PHI,DEN,22,home,JS,assist,23,make3,3,L. Drew,H. Thompson
+330,3,3:32.0,79,54,PHI,DEN,23,away,JS,assist,25,make3,3,G. Harris,J. Nelson
+331,3,3:31.0,79,54,PHI,DEN,1,home,BadPass,steal,,turnover,,H. Sims,T. Lawson
+332,3,3:29.0,79,54,PHI,DEN,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Sims,T. Lawson
+333,3,3:29.0,79,54,PHI,DEN,0,away,FreeThrow,,,make1,0,T. Lawson,
+334,3,3:29.0,79,54,PHI,DEN,0,away,OffReb,,,OffReb,,Team,
+335,3,3:29.0,79,55,PHI,DEN,0,away,FreeThrow,,,make1,1,T. Lawson,
+336,3,3:13.0,79,55,PHI,DEN,16,away,Sub,,,,,D. Gallinari,T. Lawson
+337,3,3:11.0,81,55,PHI,DEN,2,home,JS,assist,20,make2,2,H. Thompson,L. Drew
+338,3,2:46.0,81,57,PHI,DEN,25,away,JS,,19,make2,2,J. Nelson,
+339,3,2:28.0,81,57,PHI,DEN,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Gallinari,J. Grant
+340,3,2:28.0,81,57,PHI,DEN,0,away,Timeout,,,,,,
+341,3,2:28.0,81,57,PHI,DEN,0,away,Sub,,,,,J. Hickson,K. Faried
+342,3,2:28.0,82,57,PHI,DEN,0,home,FreeThrow,,,make1,1,J. Grant,
+343,3,2:28.0,83,57,PHI,DEN,0,home,FreeThrow,,,make1,1,J. Grant,
+344,3,2:18.0,83,57,PHI,DEN,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Drew,J. Hickson
+345,3,2:11.0,83,57,PHI,DEN,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Grant,D. Gallinari
+346,3,2:11.0,83,58,PHI,DEN,0,away,FreeThrow,,,make1,1,D. Gallinari,
+347,3,2:11.0,83,59,PHI,DEN,0,away,FreeThrow,,,make1,1,D. Gallinari,
+348,3,1:50.0,85,59,PHI,DEN,21,home,JS,assist,17,make2,2,K. McDaniels,L. Drew
+349,3,1:31.0,85,61,PHI,DEN,19,away,JS,assist,21,make2,2,G. Harris,A. Gee
+350,3,1:06.0,85,61,PHI,DEN,25,home,JS,,16,miss2,0,H. Sims,
+351,3,1:05.0,85,61,PHI,DEN,1,away,DefReb,,,DefReb,,D. Gallinari,
+352,3,1:00.0,85,61,PHI,DEN,5,away,LU,block,2,miss2,0,D. Gallinari,H. Thompson
+353,3,0:59.0,85,61,PHI,DEN,1,away,OffReb,,,OffReb,,D. Gallinari,
+354,3,0:59.0,85,61,PHI,DEN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Thompson,D. Gallinari
+355,3,0:59.0,85,62,PHI,DEN,0,away,FreeThrow,,,make1,1,D. Gallinari,
+356,3,0:59.0,85,63,PHI,DEN,0,away,FreeThrow,,,make1,1,D. Gallinari,
+357,3,0:43.0,85,63,PHI,DEN,16,home,LostBall,steal,,turnover,,H. Sims,J. Nelson
+358,3,0:34.0,85,63,PHI,DEN,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,H. Sims,D. Gallinari
+359,3,0:34.0,85,64,PHI,DEN,0,away,FreeThrow,,,make1,1,D. Gallinari,
+360,3,0:34.0,85,65,PHI,DEN,0,away,FreeThrow,,,make1,1,D. Gallinari,
+361,3,0:25.0,85,65,PHI,DEN,9,home,JS,,25,miss3,0,H. Thompson,
+362,3,0:24.0,85,65,PHI,DEN,1,away,DefReb,,,DefReb,,J. Hickson,
+363,3,0:04.0,85,68,PHI,DEN,20,away,JS,,24,make3,3,J. Nelson,
+364,3,0:01.0,85,68,PHI,DEN,3,home,JS,,43,miss3,0,L. Drew,
+365,3,0:00.0,85,68,PHI,DEN,1,home,OffReb,,,OffReb,,Team,
+366,4,11:37.0,85,68,PHI,DEN,23,home,JS,,21,miss2,0,L. Drew,
+367,4,11:36.0,85,68,PHI,DEN,1,home,OffReb,,,OffReb,,Team,
+368,4,11:36.0,85,68,PHI,DEN,0,home,ShotClockViolation,,,turnover,,Team,
+369,4,11:22.0,85,68,PHI,DEN,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Thompson,G. Harris
+370,4,11:22.0,85,69,PHI,DEN,0,away,FreeThrow,,,make1,1,G. Harris,
+371,4,11:22.0,85,70,PHI,DEN,0,away,FreeThrow,,,make1,1,G. Harris,
+372,4,10:58.0,85,70,PHI,DEN,24,home,LostBall,steal,,turnover,,K. McDaniels,J. Nelson
+373,4,10:45.0,85,73,PHI,DEN,13,away,JS,assist,25,make3,3,J. Nelson,A. Gee
+374,4,10:44.0,85,73,PHI,DEN,1,home,Timeout,,,,,,
+375,4,10:44.0,85,73,PHI,DEN,0,home,Sub,,,,,M. Carter-Williams,L. Drew
+376,4,10:44.0,85,73,PHI,DEN,0,home,Sub,,,,,R. Covington,K. McDaniels
+377,4,10:41.0,85,73,PHI,DEN,3,home,LostBall,steal,,turnover,,M. Carter-Williams,J. Nelson
+378,4,10:35.0,85,75,PHI,DEN,6,away,DK,assist,0,make2,2,J. Hickson,J. Nelson
+379,4,10:26.0,87,75,PHI,DEN,9,home,LU,assist,1,make2,2,L. Mbah a Moute,N. Noel
+380,4,10:10.0,87,77,PHI,DEN,16,away,LU,assist,1,make2,2,A. Gee,J. Nelson
+381,4,9:44.0,90,77,PHI,DEN,26,home,JS,assist,26,make3,3,M. Carter-Williams,R. Covington
+382,4,9:34.0,90,79,PHI,DEN,10,away,LU,,2,make2,2,J. Nelson,
+383,4,9:16.0,90,79,PHI,DEN,18,home,LostBall,steal,,turnover,,N. Noel,G. Harris
+384,4,9:13.0,90,79,PHI,DEN,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Mbah a Moute,A. Gee
+385,4,9:13.0,90,80,PHI,DEN,0,away,FreeThrow,,,make1,1,A. Gee,
+386,4,9:13.0,90,80,PHI,DEN,0,away,FreeThrow,,,make1,0,A. Gee,
+387,4,9:12.0,90,80,PHI,DEN,1,home,DefReb,,,DefReb,,L. Mbah a Moute,
+388,4,8:52.0,90,80,PHI,DEN,20,home,JS,,24,miss3,0,H. Thompson,
+389,4,8:49.0,90,80,PHI,DEN,3,home,OffReb,,,OffReb,,N. Noel,
+390,4,8:49.0,92,80,PHI,DEN,0,home,LU,,0,make2,2,N. Noel,
+391,4,8:34.0,92,82,PHI,DEN,15,away,JS,assist,4,make2,2,J. Hickson,D. Gallinari
+392,4,8:11.0,92,82,PHI,DEN,23,home,JS,,25,miss3,0,M. Carter-Williams,
+393,4,8:09.0,92,82,PHI,DEN,2,home,OffReb,,,OffReb,,R. Covington,
+394,4,8:09.0,92,82,PHI,DEN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nelson,R. Covington
+395,4,8:09.0,93,82,PHI,DEN,0,home,FreeThrow,,,make1,1,R. Covington,
+396,4,8:09.0,94,82,PHI,DEN,0,home,FreeThrow,,,make1,1,R. Covington,
+397,4,8:01.0,94,82,PHI,DEN,8,away,BadPass,steal,,turnover,,J. Nelson,M. Carter-Williams
+398,4,7:58.0,94,82,PHI,DEN,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Gallinari,R. Covington
+399,4,7:58.0,96,82,PHI,DEN,0,home,LU,assist,2,make2,2,R. Covington,M. Carter-Williams
+400,4,7:58.0,97,82,PHI,DEN,0,home,FreeThrow,,,make1,1,R. Covington,
+401,4,7:44.0,97,82,PHI,DEN,14,away,BadPass,steal,,turnover,,J. Nelson,R. Covington
+402,4,7:38.0,97,82,PHI,DEN,6,home,JS,,5,miss2,0,R. Covington,
+403,4,7:36.0,97,82,PHI,DEN,2,away,DefReb,,,DefReb,,J. Nelson,
+404,4,7:29.0,97,82,PHI,DEN,7,away,JS,,24,miss3,0,D. Gallinari,
+405,4,7:28.0,97,82,PHI,DEN,1,home,DefReb,,,DefReb,,N. Noel,
+406,4,7:08.0,97,82,PHI,DEN,20,away,Sub,,,,,T. Lawson,A. Gee
+407,4,7:08.0,97,82,PHI,DEN,0,away,Sub,,,,,A. Afflalo,J. Nelson
+408,4,7:08.0,97,82,PHI,DEN,0,away,Sub,,,,,W. Chandler,G. Harris
+409,4,7:08.0,97,82,PHI,DEN,0,home,Timeout,,,,,,
+410,4,7:08.0,97,82,PHI,DEN,0,away,Sub,,,,,D. Arthur,J. Hickson
+411,4,7:06.0,97,82,PHI,DEN,2,home,JS,,20,miss2,0,R. Covington,
+412,4,7:04.0,97,82,PHI,DEN,2,away,DefReb,,,DefReb,,A. Afflalo,
+413,4,6:51.0,97,82,PHI,DEN,13,away,LU,block,2,miss2,0,T. Lawson,N. Noel
+414,4,6:49.0,97,82,PHI,DEN,2,home,DefReb,,,DefReb,,M. Carter-Williams,
+415,4,6:30.0,97,82,PHI,DEN,19,home,JS,,5,miss2,0,M. Carter-Williams,
+416,4,6:28.0,97,82,PHI,DEN,2,away,DefReb,,,DefReb,,W. Chandler,
+417,4,6:22.0,97,82,PHI,DEN,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,T. Lawson
+418,4,6:07.0,97,82,PHI,DEN,15,away,LostBall,steal,,turnover,,A. Afflalo,N. Noel
+419,4,6:03.0,97,82,PHI,DEN,4,home,LostBall,,,turnover,,H. Thompson,
+420,4,5:48.0,97,82,PHI,DEN,15,away,JS,,7,miss2,0,W. Chandler,
+421,4,5:46.0,97,82,PHI,DEN,2,home,DefReb,,,DefReb,,N. Noel,
+422,4,5:38.0,97,82,PHI,DEN,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Afflalo,N. Noel
+423,4,5:29.0,99,82,PHI,DEN,9,home,JS,assist,18,make2,2,M. Carter-Williams,R. Covington
+424,4,5:10.0,99,82,PHI,DEN,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Thompson,D. Gallinari
+425,4,5:10.0,99,83,PHI,DEN,0,away,FreeThrow,,,make1,1,D. Gallinari,
+426,4,5:10.0,99,84,PHI,DEN,0,away,FreeThrow,,,make1,1,D. Gallinari,
+427,4,4:57.0,99,84,PHI,DEN,13,home,JS,,25,miss3,0,R. Covington,
+428,4,4:56.0,99,84,PHI,DEN,1,away,DefReb,,,DefReb,,W. Chandler,
+429,4,4:41.0,99,84,PHI,DEN,15,away,Sub,,,,,G. Harris,D. Arthur
+430,4,4:34.0,99,87,PHI,DEN,7,away,JS,,25,make3,3,D. Gallinari,
+431,4,4:21.0,99,87,PHI,DEN,13,home,BadPass,,,turnover,,R. Covington,
+432,4,4:09.0,99,89,PHI,DEN,12,away,LU,assist,0,make2,2,W. Chandler,G. Harris
+433,4,3:44.0,99,89,PHI,DEN,25,home,LostBall,steal,,turnover,,M. Carter-Williams,D. Gallinari
+434,4,3:37.0,99,89,PHI,DEN,7,away,LostBall,steal,,turnover,,D. Gallinari,L. Mbah a Moute
+435,4,3:26.0,99,89,PHI,DEN,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Harris,M. Carter-Williams
+436,4,3:26.0,99,89,PHI,DEN,0,away,Timeout,,,,,,
+437,4,3:26.0,99,89,PHI,DEN,0,home,Sub,,,,,J. Grant,N. Noel
+438,4,3:19.0,99,89,PHI,DEN,7,home,JS,,20,miss2,0,H. Thompson,
+439,4,3:18.0,99,89,PHI,DEN,1,home,OffReb,,,OffReb,,Team,
+440,4,3:01.0,99,89,PHI,DEN,17,home,JS,,26,miss3,0,J. Grant,
+441,4,3:00.0,99,89,PHI,DEN,1,away,DefReb,,,DefReb,,D. Gallinari,
+442,4,2:52.0,99,89,PHI,DEN,8,away,LostBall,steal,,turnover,,A. Afflalo,R. Covington
+443,4,2:49.0,99,89,PHI,DEN,3,away,Sub,,,,,J. Nelson,A. Afflalo
+444,4,2:49.0,100,89,PHI,DEN,0,home,FreeThrow,,,make1,1,J. Grant makes flagrant free throw 1 of 2,
+445,4,2:49.0,101,89,PHI,DEN,0,home,FreeThrow,,,make1,1,J. Grant makes flagrant free throw 2 of 2,
+446,4,2:38.0,101,89,PHI,DEN,11,home,JS,,19,miss2,0,M. Carter-Williams,
+447,4,2:37.0,101,89,PHI,DEN,1,away,DefReb,,,DefReb,,W. Chandler,
+448,4,2:28.0,101,89,PHI,DEN,9,away,JS,,24,miss3,0,J. Nelson,
+449,4,2:26.0,101,89,PHI,DEN,2,home,DefReb,,,DefReb,,R. Covington,
+450,4,2:06.0,101,89,PHI,DEN,20,home,JS,,26,miss3,0,M. Carter-Williams,
+451,4,2:05.0,101,89,PHI,DEN,1,away,DefReb,,,DefReb,,D. Gallinari,
+452,4,1:58.0,101,91,PHI,DEN,7,away,LU,,1,make2,2,D. Gallinari,
+453,4,1:51.0,101,91,PHI,DEN,7,home,JS,,5,miss2,0,M. Carter-Williams,
+454,4,1:49.0,101,91,PHI,DEN,2,away,DefReb,,,DefReb,,J. Nelson,
+455,4,1:44.0,101,91,PHI,DEN,5,away,JS,block,9,miss2,0,G. Harris,H. Thompson
+456,4,1:44.0,101,91,PHI,DEN,0,away,OffReb,,,OffReb,,Team,
+457,4,1:44.0,101,91,PHI,DEN,0,away,Timeout,,,,,,
+458,4,1:42.0,101,93,PHI,DEN,2,away,JS,assist,16,make2,2,D. Gallinari,W. Chandler
+459,4,1:25.0,101,93,PHI,DEN,17,home,JS,,20,miss2,0,H. Thompson,
+460,4,1:23.0,101,93,PHI,DEN,2,away,DefReb,,,DefReb,,Team,
+461,4,1:22.0,101,93,PHI,DEN,1,away,Timeout,,,,,,
+462,4,1:18.0,101,93,PHI,DEN,4,away,JS,,23,miss2,0,J. Nelson,
+463,4,1:15.0,101,93,PHI,DEN,3,away,OffReb,,,OffReb,,G. Harris,
+464,4,1:05.0,101,93,PHI,DEN,10,away,JS,,26,miss3,0,W. Chandler,
+465,4,1:03.0,101,93,PHI,DEN,2,home,DefReb,,,DefReb,,L. Mbah a Moute,
+466,4,0:55.0,101,93,PHI,DEN,8,home,BadPass,steal,,turnover,,M. Carter-Williams,J. Nelson
+467,4,0:47.0,101,93,PHI,DEN,8,away,JS,,3,miss2,0,J. Nelson,
+468,4,0:45.0,101,93,PHI,DEN,2,home,DefReb,,,DefReb,,M. Carter-Williams,
+469,4,0:31.0,101,93,PHI,DEN,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Nelson,M. Carter-Williams
+470,4,0:31.0,101,93,PHI,DEN,0,home,FreeThrow,,,make1,0,M. Carter-Williams,
+471,4,0:31.0,101,93,PHI,DEN,0,home,OffReb,,,OffReb,,Team,
+472,4,0:31.0,101,93,PHI,DEN,0,away,Sub,,,,,A. Gee,J. Nelson
+473,4,0:31.0,101,93,PHI,DEN,0,home,Sub,,,,,J. Sampson,L. Mbah a Moute
+474,4,0:31.0,101,93,PHI,DEN,0,home,FreeThrow,,,make1,0,M. Carter-Williams,
+475,4,0:31.0,101,93,PHI,DEN,0,away,DefReb,,,DefReb,,W. Chandler,
+476,4,0:26.0,101,95,PHI,DEN,5,away,LU,assist,1,make2,2,T. Lawson,W. Chandler
+477,4,0:26.0,101,95,PHI,DEN,0,home,Timeout,,,,,,
+478,4,0:26.0,101,95,PHI,DEN,0,home,Sub,,,,,H. Sims,J. Grant
+479,4,0:26.0,101,95,PHI,DEN,0,home,Sub,,,,,L. Drew,J. Sampson
+480,4,0:23.0,101,95,PHI,DEN,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Harris,R. Covington
+481,4,0:23.0,102,95,PHI,DEN,0,home,FreeThrow,,,make1,1,R. Covington,
+482,4,0:23.0,103,95,PHI,DEN,0,home,FreeThrow,,,make1,1,R. Covington,
+483,4,0:23.0,103,95,PHI,DEN,0,away,Timeout,,,,,,
+484,4,0:23.0,103,95,PHI,DEN,0,home,Sub,,,,,J. Sampson,R. Covington
+485,4,0:23.0,103,95,PHI,DEN,0,home,Sub,,,,,J. Grant,H. Thompson
+486,4,0:23.0,103,95,PHI,DEN,0,home,Sub,,,,,K. McDaniels,H. Sims
+487,4,0:23.0,103,95,PHI,DEN,0,home,Sub,,,,,L. Mbah a Moute,L. Drew
+488,4,0:13.0,103,98,PHI,DEN,10,away,JS,assist,27,make3,3,W. Chandler,T. Lawson
+489,4,0:11.0,103,98,PHI,DEN,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Lawson,M. Carter-Williams
+490,4,0:11.0,104,98,PHI,DEN,0,home,FreeThrow,,,make1,1,M. Carter-Williams,
+491,4,0:11.0,105,98,PHI,DEN,0,home,FreeThrow,,,make1,1,M. Carter-Williams,
+492,4,0:06.0,105,98,PHI,DEN,5,away,JS,,28,miss3,0,G. Harris,
+493,4,0:04.0,105,98,PHI,DEN,2,home,DefReb,,,DefReb,,M. Carter-Williams,

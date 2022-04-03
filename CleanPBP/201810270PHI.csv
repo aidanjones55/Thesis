@@ -1,0 +1,513 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,0,0,PHI,CHO,19,home,JS,,15,miss2,0,R. Covington,
+1,1,11:39.0,0,0,PHI,CHO,2,away,DefReb,,,DefReb,,Team,
+2,1,11:24.0,0,0,PHI,CHO,15,away,JS,,26,miss3,0,J. Lamb,
+3,1,11:20.0,0,0,PHI,CHO,4,home,DefReb,,,DefReb,,B. Simmons,
+4,1,11:04.0,0,0,PHI,CHO,16,home,HS,,6,miss2,0,B. Simmons,
+5,1,11:01.0,0,0,PHI,CHO,3,away,DefReb,,,DefReb,,M. Williams,
+6,1,10:58.0,0,0,PHI,CHO,3,away,BadPass,,,turnover,,K. Walker,
+7,1,10:44.0,2,0,PHI,CHO,14,home,HS,assist,3,make2,2,J. Embiid,D. Šarić
+8,1,10:30.0,2,2,PHI,CHO,14,away,JS,,12,make2,2,J. Lamb,
+9,1,10:30.0,2,2,PHI,CHO,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Fultz,J. Lamb
+10,1,10:30.0,2,3,PHI,CHO,0,away,FreeThrow,,,make1,1,J. Lamb,
+11,1,10:21.0,4,3,PHI,CHO,9,home,LU,,4,make2,2,B. Simmons,
+12,1,10:00.0,4,3,PHI,CHO,21,away,HS,,5,miss2,0,M. Williams,
+13,1,9:59.0,4,3,PHI,CHO,1,away,OffReb,,,OffReb,,C. Zeller,
+14,1,9:58.0,4,3,PHI,CHO,1,away,LU,,0,miss2,0,C. Zeller,
+15,1,9:57.0,4,3,PHI,CHO,1,away,OffReb,,,OffReb,,Team,
+16,1,9:52.0,4,6,PHI,CHO,5,away,JS,assist,26,make3,3,K. Walker,M. Williams
+17,1,9:34.0,4,6,PHI,CHO,18,home,JS,,16,miss2,0,M. Fultz,
+18,1,9:34.0,4,6,PHI,CHO,0,away,DefReb,,,DefReb,,Team,
+19,1,9:24.0,4,8,PHI,CHO,10,away,JS,,16,make2,2,K. Walker,
+20,1,9:15.0,4,8,PHI,CHO,9,home,LU,,6,miss2,0,B. Simmons,
+21,1,9:10.0,4,8,PHI,CHO,5,away,DefReb,,,DefReb,,M. Williams,
+22,1,8:50.0,4,8,PHI,CHO,20,away,JS,,24,miss3,0,N. Batum,
+23,1,8:36.0,4,8,PHI,CHO,14,home,DefReb,,,DefReb,,D. Šarić,
+24,1,8:35.0,7,8,PHI,CHO,1,home,JS,assist,26,make3,3,R. Covington,M. Fultz
+25,1,8:15.0,7,11,PHI,CHO,20,away,JS,,26,make3,3,J. Lamb,
+26,1,8:03.0,7,11,PHI,CHO,12,home,OffensiveFoul,,,turnover,,J. Embiid,
+27,1,8:03.0,7,11,PHI,CHO,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Embiid,C. Zeller
+28,1,7:48.0,7,11,PHI,CHO,15,away,JS,,30,miss3,0,K. Walker,
+29,1,7:43.0,7,11,PHI,CHO,5,home,DefReb,,,DefReb,,M. Fultz,
+30,1,7:40.0,9,11,PHI,CHO,3,home,LU,,3,make2,2,M. Fultz,
+31,1,7:33.0,9,11,PHI,CHO,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,K. Walker
+32,1,7:33.0,9,11,PHI,CHO,0,away,Sub,,,,,M. Kidd-Gilchrist,M. Williams
+33,1,7:33.0,9,11,PHI,CHO,0,home,Sub,,,,,A. Johnson,J. Embiid
+34,1,7:33.0,9,11,PHI,CHO,0,home,Sub,,,,,J. Redick,M. Fultz
+35,1,7:28.0,9,13,PHI,CHO,5,away,JS,,20,make2,2,N. Batum,
+36,1,7:09.0,9,13,PHI,CHO,19,home,JS,,10,miss2,0,B. Simmons,
+37,1,7:07.0,9,13,PHI,CHO,2,home,OffReb,,,OffReb,,D. Šarić,
+38,1,7:05.0,11,13,PHI,CHO,2,home,LU,,2,make2,2,D. Šarić,
+39,1,7:00.0,11,13,PHI,CHO,5,away,Timeout,,,,,,
+40,1,6:53.0,11,13,PHI,CHO,7,away,LU,,4,miss2,0,J. Lamb,
+41,1,6:53.0,11,13,PHI,CHO,0,away,OffReb,,,OffReb,,Team,
+42,1,6:47.0,11,13,PHI,CHO,6,away,LU,,2,miss2,0,N. Batum,
+43,1,6:45.0,11,13,PHI,CHO,2,home,DefReb,,,DefReb,,R. Covington,
+44,1,6:40.0,14,13,PHI,CHO,5,home,JS,assist,25,make3,3,D. Šarić,B. Simmons
+45,1,6:27.0,14,13,PHI,CHO,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,C. Zeller
+46,1,6:27.0,14,13,PHI,CHO,0,away,Sub,,,,,M. Bridges,N. Batum
+47,1,6:25.0,14,13,PHI,CHO,2,away,bad pass,steal,,turnover,,M. Bridges,B. Simmons
+48,1,6:23.0,16,13,PHI,CHO,2,home,LU,assist,1,make2,2,R. Covington,B. Simmons
+49,1,6:23.0,16,13,PHI,CHO,0,away,DefGoaltending,,,DefGoaltending,,Team,
+50,1,6:04.0,16,15,PHI,CHO,19,away,LU,,2,make2,2,K. Walker,
+51,1,5:54.0,16,15,PHI,CHO,10,home,LU,,3,miss2,0,B. Simmons,
+52,1,5:49.0,16,15,PHI,CHO,5,away,DefReb,,,DefReb,,K. Walker,
+53,1,5:45.0,16,15,PHI,CHO,4,away,LU,block,3,miss2,0,K. Walker,R. Covington
+54,1,5:45.0,16,15,PHI,CHO,0,away,OffReb,,,OffReb,,Team,
+55,1,5:41.0,16,15,PHI,CHO,4,away,JS,,8,miss2,0,J. Lamb,
+56,1,5:39.0,16,15,PHI,CHO,2,away,OffReb,,,OffReb,,C. Zeller,
+57,1,5:39.0,16,15,PHI,CHO,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,C. Zeller
+58,1,5:31.0,16,17,PHI,CHO,8,away,JS,,18,make2,2,K. Walker,
+59,1,5:11.0,18,17,PHI,CHO,20,home,HS,,6,make2,2,D. Šarić,
+60,1,4:58.0,18,17,PHI,CHO,13,away,JS,,26,miss3,0,K. Walker,
+61,1,4:55.0,18,17,PHI,CHO,3,home,DefReb,,,DefReb,,D. Šarić,
+62,1,4:48.0,21,17,PHI,CHO,7,home,JS,assist,23,make3,3,J. Redick,A. Johnson
+63,1,4:29.0,21,19,PHI,CHO,19,away,LU,assist,1,make2,2,M. Bridges,K. Walker
+64,1,4:20.0,21,19,PHI,CHO,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Zeller,B. Simmons
+65,1,4:20.0,21,19,PHI,CHO,0,away,Sub,,,,,B. Biyombo,C. Zeller
+66,1,4:20.0,21,19,PHI,CHO,0,home,Sub,,,,,J. Embiid,R. Covington
+67,1,4:20.0,21,19,PHI,CHO,0,home,Sub,,,,,M. Fultz,A. Johnson
+68,1,4:20.0,21,19,PHI,CHO,0,home,Sub,,,,,T. McConnell,D. Šarić
+69,1,4:20.0,21,19,PHI,CHO,0,home,Sub,,,,,M. Muscala,B. Simmons
+70,1,4:11.0,21,19,PHI,CHO,9,home,JS,,20,miss2,0,J. Redick,
+71,1,4:06.0,21,19,PHI,CHO,5,away,DefReb,,,DefReb,,K. Walker,
+72,1,4:03.0,21,19,PHI,CHO,3,away,JS,,26,miss3,0,K. Walker,
+73,1,4:00.0,21,19,PHI,CHO,3,home,DefReb,,,DefReb,,J. Embiid,
+74,1,3:51.0,24,19,PHI,CHO,9,home,JS,,25,make3,3,J. Redick,
+75,1,3:35.0,24,21,PHI,CHO,16,away,LU,,2,make2,2,K. Walker,
+76,1,3:33.0,24,21,PHI,CHO,2,home,Timeout,,,,,,
+77,1,3:33.0,24,21,PHI,CHO,0,away,Sub,,,,,M. Monk,J. Lamb
+78,1,3:18.0,24,21,PHI,CHO,15,home,OutOfBoundsLB,,,turnover,,M. Fultz,
+79,1,3:09.0,24,23,PHI,CHO,9,away,LU,assist,3,make2,2,M. Kidd-Gilchrist,K. Walker
+80,1,2:57.0,26,23,PHI,CHO,12,home,DK,,2,make2,2,J. Embiid,
+81,1,2:34.0,26,23,PHI,CHO,23,away,HS,,9,miss2,0,B. Biyombo,
+82,1,2:32.0,26,23,PHI,CHO,2,home,DefReb,,,DefReb,,M. Muscala,
+83,1,2:22.0,28,23,PHI,CHO,10,home,LU,assist,2,make2,2,J. Embiid,M. Fultz
+84,1,2:08.0,28,23,PHI,CHO,14,away,JS,,27,miss3,0,K. Walker,
+85,1,2:06.0,28,23,PHI,CHO,2,home,DefReb,,,DefReb,,J. Embiid,
+86,1,1:56.0,28,23,PHI,CHO,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Kidd-Gilchrist,M. Fultz
+87,1,1:56.0,28,23,PHI,CHO,0,away,Sub,,,,,D. Graham,K. Walker
+88,1,1:51.0,28,23,PHI,CHO,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Monk,M. Fultz
+89,1,1:51.0,29,23,PHI,CHO,0,home,FreeThrow,,,make1,1,M. Fultz,
+90,1,1:51.0,30,23,PHI,CHO,0,home,FreeThrow,,,make1,1,M. Fultz,
+91,1,1:35.0,30,23,PHI,CHO,16,away,JS,,22,miss2,0,M. Monk,
+92,1,1:34.0,30,23,PHI,CHO,1,home,DefReb,,,DefReb,,Team,
+93,1,1:34.0,30,23,PHI,CHO,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,B. Biyombo,M. Muscala
+94,1,1:34.0,31,23,PHI,CHO,0,home,FreeThrow,,,make1,1,M. Muscala,
+95,1,1:34.0,32,23,PHI,CHO,0,home,FreeThrow,,,make1,1,M. Muscala,
+96,1,1:20.0,32,23,PHI,CHO,14,away,LU,,3,miss2,0,M. Kidd-Gilchrist,
+97,1,1:19.0,32,23,PHI,CHO,1,away,OffReb,,,OffReb,,Team,
+98,1,1:15.0,32,26,PHI,CHO,4,away,JS,,26,make3,3,D. Graham,
+99,1,0:49.0,32,26,PHI,CHO,26,home,LU,,2,miss2,0,T. McConnell,
+100,1,0:47.0,32,26,PHI,CHO,2,away,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+101,1,0:30.0,32,26,PHI,CHO,17,away,JS,,24,miss3,0,M. Monk,
+102,1,0:27.0,32,26,PHI,CHO,3,away,OffReb,,,OffReb,,M. Monk,
+103,1,0:21.0,32,26,PHI,CHO,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Muscala,M. Monk
+104,1,0:21.0,32,27,PHI,CHO,0,away,FreeThrow,,,make1,1,M. Monk,
+105,1,0:21.0,32,28,PHI,CHO,0,away,FreeThrow,,,make1,1,M. Monk,
+106,1,0:02.0,32,28,PHI,CHO,19,home,JS,,26,miss3,0,J. Embiid,
+107,1,0:00.0,32,28,PHI,CHO,2,away,DefReb,,,DefReb,,D. Graham,
+108,1,0:00.0,32,28,PHI,CHO,0,away,JS,,57,miss3,0,D. Graham,
+109,1,0:00.0,32,28,PHI,CHO,0,away,OffReb,,,OffReb,,Team,
+110,2,11:45.0,32,28,PHI,CHO,15,away,JS,,26,miss3,0,M. Monk,
+111,2,11:41.0,32,28,PHI,CHO,4,home,DefReb,,,DefReb,,J. Embiid,
+112,2,11:36.0,32,28,PHI,CHO,5,home,JS,,26,miss3,0,M. Muscala,
+113,2,11:30.0,32,28,PHI,CHO,6,home,OffReb,,,OffReb,,M. Fultz,
+114,2,11:30.0,32,28,PHI,CHO,0,home,LU,,1,miss2,0,M. Fultz,
+115,2,11:30.0,32,28,PHI,CHO,0,away,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+116,2,11:28.0,32,30,PHI,CHO,2,away,LU,assist,3,make2,2,D. Graham,M. Kidd-Gilchrist
+117,2,11:07.0,34,30,PHI,CHO,21,home,DK,assist,0,make2,2,J. Embiid,M. Fultz
+118,2,10:54.0,34,33,PHI,CHO,13,away,JS,assist,23,make3,3,M. Bridges,D. Graham
+119,2,10:52.0,34,33,PHI,CHO,2,home,Timeout,,,,,,
+120,2,10:52.0,34,33,PHI,CHO,0,away,Sub,,,,,M. Williams,M. Kidd-Gilchrist
+121,2,10:28.0,36,33,PHI,CHO,24,home,HS,,6,make2,2,J. Embiid,
+122,2,10:11.0,36,35,PHI,CHO,17,away,LU,assist,1,make2,2,B. Biyombo,M. Monk
+123,2,10:11.0,36,35,PHI,CHO,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Embiid,B. Biyombo
+124,2,10:11.0,36,35,PHI,CHO,0,away,FreeThrow,,,make1,0,B. Biyombo,
+125,2,10:11.0,36,35,PHI,CHO,0,home,DefReb,,,DefReb,,M. Muscala,
+126,2,9:57.0,39,35,PHI,CHO,14,home,JS,assist,25,make3,3,L. Shamet,J. Embiid
+127,2,9:57.0,39,35,PHI,CHO,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Graham,L. Shamet
+128,2,9:57.0,40,35,PHI,CHO,0,home,FreeThrow,,,make1,1,L. Shamet,
+129,2,9:44.0,40,35,PHI,CHO,13,away,JS,,26,miss3,0,M. Monk,
+130,2,9:40.0,40,35,PHI,CHO,4,away,OffReb,,,OffReb,,B. Biyombo,
+131,2,9:32.0,40,37,PHI,CHO,8,away,JS,,20,make2,2,M. Monk,
+132,2,9:19.0,40,37,PHI,CHO,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Monk,L. Shamet
+133,2,9:19.0,40,37,PHI,CHO,0,away,Sub,,,,,C. Zeller,B. Biyombo
+134,2,9:16.0,40,37,PHI,CHO,3,home,LU,,2,miss2,0,L. Shamet,
+135,2,9:14.0,40,37,PHI,CHO,2,away,DefReb,,,DefReb,,C. Zeller,
+136,2,9:06.0,40,37,PHI,CHO,8,away,LU,block,3,miss2,0,M. Monk,J. Embiid
+137,2,9:04.0,40,37,PHI,CHO,2,home,DefReb,,,DefReb,,M. Fultz,
+138,2,8:59.0,42,37,PHI,CHO,5,home,LU,,2,make2,2,M. Fultz,
+139,2,8:50.0,42,37,PHI,CHO,9,away,OutOfBoundsLB,,,turnover,,C. Zeller,
+140,2,8:36.0,42,37,PHI,CHO,14,home,JS,,26,miss3,0,J. Embiid,
+141,2,8:31.0,42,37,PHI,CHO,5,away,DefReb,,,DefReb,,M. Bridges,
+142,2,8:21.0,42,39,PHI,CHO,10,away,JS,assist,10,make2,2,M. Williams,M. Monk
+143,2,8:08.0,42,39,PHI,CHO,13,home,JS,,19,miss2,0,M. Fultz,
+144,2,8:05.0,42,39,PHI,CHO,3,away,DefReb,,,DefReb,,C. Zeller,
+145,2,8:02.0,42,39,PHI,CHO,3,away,JS,,26,miss3,0,D. Graham,
+146,2,8:00.0,42,39,PHI,CHO,2,home,DefReb,,,DefReb,,R. Covington,
+147,2,7:46.0,42,39,PHI,CHO,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Zeller,J. Embiid
+148,2,7:46.0,43,39,PHI,CHO,0,home,FreeThrow,,,make1,1,J. Embiid,
+149,2,7:46.0,43,39,PHI,CHO,0,away,Sub,,,,,N. Batum,M. Bridges
+150,2,7:46.0,43,39,PHI,CHO,0,away,Sub,,,,,J. Lamb,M. Monk
+151,2,7:46.0,43,39,PHI,CHO,0,home,Sub,,,,,D. Šarić,M. Fultz
+152,2,7:46.0,43,39,PHI,CHO,0,home,Sub,,,,,B. Simmons,M. Muscala
+153,2,7:46.0,44,39,PHI,CHO,0,home,FreeThrow,,,make1,1,J. Embiid,
+154,2,7:24.0,44,41,PHI,CHO,22,away,JS,,21,make2,2,D. Graham,
+155,2,7:21.0,44,41,PHI,CHO,3,home,JS,,26,miss3,0,R. Covington,
+156,2,7:12.0,44,41,PHI,CHO,9,away,DefReb,,,DefReb,,M. Williams,
+157,2,7:08.0,44,41,PHI,CHO,4,away,bad pass,steal,,turnover,,D. Graham,R. Covington
+158,2,7:05.0,46,41,PHI,CHO,3,home,DK,,0,make2,2,R. Covington,
+159,2,7:05.0,46,41,PHI,CHO,0,away,Timeout,,,,,,
+160,2,7:05.0,46,41,PHI,CHO,0,away,Sub,,,,,M. Kidd-Gilchrist,D. Graham
+161,2,7:05.0,46,41,PHI,CHO,0,away,Sub,,,,,K. Walker,C. Zeller
+162,2,7:05.0,46,41,PHI,CHO,0,home,Sub,,,,,A. Johnson,J. Embiid
+163,2,7:05.0,46,41,PHI,CHO,0,home,Sub,,,,,J. Redick,L. Shamet
+164,2,6:51.0,46,41,PHI,CHO,14,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Kidd-Gilchrist,D. Šarić
+165,2,6:51.0,46,41,PHI,CHO,0,away,OffensiveFoul,,,turnover,,M. Kidd-Gilchrist,
+166,2,6:40.0,46,41,PHI,CHO,11,home,JS,,25,miss3,0,J. Redick,
+167,2,6:36.0,46,41,PHI,CHO,4,away,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+168,2,6:31.0,46,41,PHI,CHO,5,away,OutOfBoundsLB,,,turnover,,N. Batum,
+169,2,6:18.0,46,41,PHI,CHO,13,home,JS,,3,miss2,0,B. Simmons,
+170,2,6:15.0,46,41,PHI,CHO,3,home,OffReb,,,OffReb,,D. Šarić,
+171,2,6:14.0,46,41,PHI,CHO,1,home,HS,,6,miss2,0,D. Šarić,
+172,2,6:10.0,46,41,PHI,CHO,4,home,OffReb,,,OffReb,,A. Johnson,
+173,2,6:06.0,46,41,PHI,CHO,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Kidd-Gilchrist,J. Redick
+174,2,6:06.0,46,41,PHI,CHO,0,away,Sub,,,,,M. Bridges,M. Kidd-Gilchrist
+175,2,6:02.0,46,41,PHI,CHO,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lamb,A. Johnson
+176,2,6:02.0,47,41,PHI,CHO,0,home,FreeThrow,,,make1,1,A. Johnson,
+177,2,6:02.0,48,41,PHI,CHO,0,home,FreeThrow,,,make1,1,A. Johnson,
+178,2,5:48.0,48,43,PHI,CHO,14,away,JS,assist,4,make2,2,K. Walker,M. Williams
+179,2,5:29.0,48,43,PHI,CHO,19,home,LU,,2,miss2,0,J. Redick,
+180,2,5:27.0,48,43,PHI,CHO,2,home,OffReb,,,OffReb,,B. Simmons,
+181,2,5:27.0,50,43,PHI,CHO,0,home,LU,,1,make2,2,B. Simmons,
+182,2,5:27.0,50,43,PHI,CHO,0,away,Timeout,,,,,,
+183,2,5:27.0,50,43,PHI,CHO,0,home,Sub,,,,,T. McConnell,R. Covington
+184,2,5:10.0,50,45,PHI,CHO,17,away,JS,assist,19,make2,2,K. Walker,M. Williams
+185,2,4:50.0,50,45,PHI,CHO,20,home,DblDribble,,,turnover,,B. Simmons,
+186,2,4:31.0,50,45,PHI,CHO,19,away,JS,,20,miss2,0,K. Walker,
+187,2,4:26.0,50,45,PHI,CHO,5,home,DefReb,,,DefReb,,A. Johnson,
+188,2,4:19.0,52,45,PHI,CHO,7,home,LU,assist,3,make2,2,D. Šarić,T. McConnell
+189,2,4:05.0,52,45,PHI,CHO,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Šarić,M. Williams
+190,2,4:05.0,52,46,PHI,CHO,0,away,FreeThrow,,,make1,1,M. Williams,
+191,2,4:05.0,52,46,PHI,CHO,0,away,Sub,,,,,C. Zeller,M. Bridges
+192,2,4:05.0,52,46,PHI,CHO,0,home,Sub,,,,,J. Embiid,A. Johnson
+193,2,4:05.0,52,47,PHI,CHO,0,away,FreeThrow,,,make1,1,M. Williams,
+194,2,3:53.0,52,47,PHI,CHO,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Batum,B. Simmons
+195,2,3:53.0,53,47,PHI,CHO,0,home,FreeThrow,,,make1,1,B. Simmons,
+196,2,3:53.0,53,47,PHI,CHO,0,away,Sub,,,,,M. Bridges,M. Williams
+197,2,3:53.0,54,47,PHI,CHO,0,home,FreeThrow,,,make1,1,B. Simmons,
+198,2,3:39.0,54,49,PHI,CHO,14,away,JS,assist,10,make2,2,C. Zeller,K. Walker
+199,2,3:27.0,54,49,PHI,CHO,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lamb,D. Šarić
+200,2,3:27.0,55,49,PHI,CHO,0,home,FreeThrow,,,make1,1,D. Šarić,
+201,2,3:27.0,56,49,PHI,CHO,0,home,FreeThrow,,,make1,1,D. Šarić,
+202,2,3:16.0,56,51,PHI,CHO,11,away,HS,assist,9,make2,2,C. Zeller,K. Walker
+203,2,3:05.0,56,51,PHI,CHO,11,home,JS,,25,miss3,0,J. Redick,
+204,2,3:02.0,56,51,PHI,CHO,3,away,DefReb,,,DefReb,,N. Batum,
+205,2,2:54.0,56,51,PHI,CHO,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Šarić,K. Walker
+206,2,2:54.0,56,52,PHI,CHO,0,away,FreeThrow,,,make1,1,K. Walker,
+207,2,2:54.0,56,53,PHI,CHO,0,away,FreeThrow,,,make1,1,K. Walker,
+208,2,2:46.0,56,53,PHI,CHO,8,home,JS,,6,miss2,0,B. Simmons,
+209,2,2:38.0,56,53,PHI,CHO,8,home,OffReb,,,OffReb,,B. Simmons,
+210,2,2:38.0,58,53,PHI,CHO,0,home,LU,,1,make2,2,B. Simmons,
+211,2,2:31.0,58,53,PHI,CHO,7,away,LU,block,2,miss2,0,K. Walker,T. McConnell
+212,2,2:31.0,58,53,PHI,CHO,0,away,OffReb,,,OffReb,,K. Walker,
+213,2,2:22.0,58,56,PHI,CHO,9,away,JS,assist,27,make3,3,M. Bridges,N. Batum
+214,2,2:06.0,60,56,PHI,CHO,16,home,LU,assist,2,make2,2,J. Embiid,T. McConnell
+215,2,2:06.0,60,56,PHI,CHO,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Zeller,J. Embiid
+216,2,2:06.0,60,56,PHI,CHO,0,away,Sub,,,,,B. Biyombo,C. Zeller
+217,2,2:06.0,61,56,PHI,CHO,0,home,FreeThrow,,,make1,1,J. Embiid,
+218,2,1:48.0,61,56,PHI,CHO,18,away,LU,block,3,miss2,0,J. Lamb,J. Embiid
+219,2,1:45.0,61,56,PHI,CHO,3,home,DefReb,,,DefReb,,D. Šarić,
+220,2,1:37.0,61,56,PHI,CHO,8,home,JS,,9,miss2,0,J. Redick,
+221,2,1:33.0,61,56,PHI,CHO,4,away,DefReb,,,DefReb,,N. Batum,
+222,2,1:30.0,61,56,PHI,CHO,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Simmons,K. Walker
+223,2,1:30.0,61,57,PHI,CHO,0,away,FreeThrow,,,make1,1,K. Walker,
+224,2,1:30.0,61,58,PHI,CHO,0,away,FreeThrow,,,make1,1,K. Walker,
+225,2,1:15.0,63,58,PHI,CHO,15,home,JS,,16,make2,2,T. McConnell,
+226,2,0:59.0,63,58,PHI,CHO,16,away,JS,,10,miss2,0,K. Walker,
+227,2,0:56.0,63,58,PHI,CHO,3,home,DefReb,,,DefReb,,J. Embiid,
+228,2,0:48.0,63,58,PHI,CHO,8,home,LU,block,2,miss2,0,B. Simmons,N. Batum
+229,2,0:45.0,63,58,PHI,CHO,3,away,DefReb,,,DefReb,,B. Biyombo,
+230,2,0:38.0,63,58,PHI,CHO,7,away,BadPass,,,turnover,,K. Walker,
+231,2,0:34.0,63,58,PHI,CHO,4,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Simmons,J. Lamb
+232,2,0:34.0,63,58,PHI,CHO,0,home,OffensiveFoul,,,turnover,,B. Simmons,
+233,2,0:34.0,63,58,PHI,CHO,0,away,Sub,,,,,M. Monk,B. Biyombo
+234,2,0:34.0,63,58,PHI,CHO,0,away,Sub,,,,,M. Williams,J. Lamb
+235,2,0:22.0,63,61,PHI,CHO,12,away,JS,,26,make3,3,M. Bridges,
+236,2,0:04.0,63,61,PHI,CHO,18,home,DK,,1,miss2,0,J. Embiid,
+237,2,0:01.0,63,61,PHI,CHO,3,away,DefReb,,,DefReb,,M. Monk,
+238,2,0:00.0,63,61,PHI,CHO,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. McConnell,M. Bridges
+239,2,0:00.0,63,62,PHI,CHO,0,away,FreeThrow,,,make1,1,M. Bridges,
+240,2,0:00.0,63,62,PHI,CHO,0,home,Sub,,,,,M. Muscala,J. Redick
+241,2,0:00.0,63,62,PHI,CHO,0,away,FreeThrow,,,make1,0,M. Bridges,
+242,2,0:00.0,63,62,PHI,CHO,0,home,DefReb,,,DefReb,,J. Embiid,
+243,3,11:49.0,63,62,PHI,CHO,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,C. Zeller
+244,3,11:44.0,63,64,PHI,CHO,5,away,LU,assist,2,make2,2,J. Lamb,N. Batum
+245,3,11:23.0,63,64,PHI,CHO,21,home,LU,block,3,miss2,0,B. Simmons,N. Batum
+246,3,11:19.0,63,64,PHI,CHO,4,home,OffReb,,,OffReb,,B. Simmons,
+247,3,11:18.0,65,64,PHI,CHO,1,home,LU,,2,make2,2,B. Simmons,
+248,3,11:01.0,65,64,PHI,CHO,17,away,JS,,8,miss2,0,C. Zeller,
+249,3,11:01.0,65,64,PHI,CHO,0,away,OffReb,,,OffReb,,Team,
+250,3,11:01.0,65,64,PHI,CHO,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Redick,J. Lamb
+251,3,10:53.0,65,64,PHI,CHO,8,away,JS,,25,miss3,0,N. Batum,
+252,3,10:52.0,65,64,PHI,CHO,1,home,DefReb,,,DefReb,,R. Covington,
+253,3,10:47.0,65,64,PHI,CHO,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Williams,D. Šarić
+254,3,10:39.0,65,64,PHI,CHO,8,home,BadPass,,,turnover,,R. Covington,
+255,3,10:29.0,65,66,PHI,CHO,10,away,JS,,11,make2,2,K. Walker,
+256,3,10:27.0,65,66,PHI,CHO,2,home,Timeout,,,,,,
+257,3,10:16.0,65,66,PHI,CHO,11,home,JS,,28,miss3,0,J. Redick,
+258,3,10:14.0,65,66,PHI,CHO,2,away,DefReb,,,DefReb,,N. Batum,
+259,3,10:06.0,65,69,PHI,CHO,8,away,JS,assist,25,make3,3,M. Williams,K. Walker
+260,3,9:51.0,65,69,PHI,CHO,15,home,HS,,9,miss2,0,J. Embiid,
+261,3,9:51.0,65,69,PHI,CHO,0,away,DefReb,,,DefReb,,N. Batum,
+262,3,9:38.0,65,71,PHI,CHO,13,away,JS,assist,7,make2,2,C. Zeller,J. Lamb
+263,3,9:28.0,68,71,PHI,CHO,10,home,JS,assist,25,make3,3,R. Covington,J. Redick
+264,3,9:28.0,68,71,PHI,CHO,0,home,AFPFoul,DrawnBy,,AFPFoul,,C. Zeller,J. Embiid
+265,3,9:28.0,69,71,PHI,CHO,0,home,FreeThrow,,,make1,1,J. Embiid,
+266,3,9:17.0,69,71,PHI,CHO,11,away,JS,,13,miss2,0,K. Walker,
+267,3,9:16.0,69,71,PHI,CHO,1,home,DefReb,,,DefReb,,B. Simmons,
+268,3,9:09.0,69,71,PHI,CHO,7,home,LU,block,3,miss2,0,B. Simmons,M. Williams
+269,3,9:02.0,69,71,PHI,CHO,7,home,OffReb,,,OffReb,,R. Covington,
+270,3,9:01.0,69,71,PHI,CHO,1,home,LU,,3,miss2,0,R. Covington,
+271,3,8:59.0,69,71,PHI,CHO,2,away,DefReb,,,DefReb,,N. Batum,
+272,3,8:58.0,69,71,PHI,CHO,1,away,JS,,26,miss3,0,K. Walker,
+273,3,8:58.0,69,71,PHI,CHO,0,home,DefReb,,,DefReb,,B. Simmons,
+274,3,8:51.0,69,71,PHI,CHO,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Williams,B. Simmons
+275,3,8:42.0,69,71,PHI,CHO,9,home,LU,,5,miss2,0,J. Embiid,
+276,3,8:42.0,69,71,PHI,CHO,0,home,OffReb,,,OffReb,,J. Embiid,
+277,3,8:40.0,71,71,PHI,CHO,2,home,LU,,4,make2,2,J. Embiid,
+278,3,8:23.0,71,73,PHI,CHO,17,away,JS,,9,make2,2,J. Lamb,
+279,3,8:07.0,71,73,PHI,CHO,16,home,JS,,26,miss3,0,J. Redick,
+280,3,8:05.0,71,73,PHI,CHO,2,away,DefReb,,,DefReb,,Team,
+281,3,7:55.0,71,73,PHI,CHO,10,away,LU,,2,miss2,0,K. Walker,
+282,3,7:53.0,71,73,PHI,CHO,2,home,DefReb,,,DefReb,,R. Covington,
+283,3,7:48.0,71,73,PHI,CHO,5,home,LU,,3,miss2,0,B. Simmons,
+284,3,7:46.0,71,73,PHI,CHO,2,away,DefReb,,,DefReb,,J. Lamb,
+285,3,7:43.0,71,73,PHI,CHO,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Šarić,C. Zeller
+286,3,7:43.0,71,74,PHI,CHO,0,away,FreeThrow,,,make1,1,C. Zeller,
+287,3,7:43.0,71,75,PHI,CHO,0,away,FreeThrow,,,make1,1,C. Zeller,
+288,3,7:33.0,71,75,PHI,CHO,10,home,bad pass,steal,,turnover,,B. Simmons,K. Walker
+289,3,7:11.0,71,75,PHI,CHO,22,away,JS,,26,miss3,0,K. Walker,
+290,3,7:08.0,71,75,PHI,CHO,3,home,DefReb,,,DefReb,,R. Covington,
+291,3,6:54.0,74,75,PHI,CHO,14,home,JS,assist,26,make3,3,R. Covington,J. Redick
+292,3,6:38.0,74,75,PHI,CHO,16,away,JS,,26,miss3,0,M. Williams,
+293,3,6:36.0,74,75,PHI,CHO,2,home,DefReb,,,DefReb,,J. Redick,
+294,3,6:29.0,74,75,PHI,CHO,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Williams,B. Simmons
+295,3,6:29.0,74,75,PHI,CHO,0,away,Sub,,,,,M. Bridges,J. Lamb
+296,3,6:29.0,74,75,PHI,CHO,0,away,Sub,,,,,M. Kidd-Gilchrist,M. Williams
+297,3,6:29.0,74,75,PHI,CHO,0,home,Sub,,,,,M. Fultz,J. Embiid
+298,3,6:29.0,74,75,PHI,CHO,0,home,Sub,,,,,M. Muscala,J. Redick
+299,3,6:29.0,74,75,PHI,CHO,0,home,Sub,,,,,L. Shamet,D. Šarić
+300,3,6:14.0,76,75,PHI,CHO,15,home,JS,,13,make2,2,M. Fultz,
+301,3,5:53.0,76,77,PHI,CHO,21,away,LU,assist,1,make2,2,C. Zeller,K. Walker
+302,3,5:30.0,76,77,PHI,CHO,23,home,LU,,3,miss2,0,B. Simmons,
+303,3,5:28.0,76,77,PHI,CHO,2,home,OffReb,,,OffReb,,B. Simmons,
+304,3,5:28.0,76,77,PHI,CHO,0,home,LU,,0,miss2,0,B. Simmons,
+305,3,5:26.0,76,77,PHI,CHO,2,home,OffReb,,,OffReb,,M. Muscala,
+306,3,5:25.0,76,77,PHI,CHO,1,home,bad pass,steal,,turnover,,M. Muscala,C. Zeller
+307,3,5:22.0,76,79,PHI,CHO,3,away,DK,,2,make2,2,C. Zeller,
+308,3,5:09.0,76,79,PHI,CHO,13,home,JS,,26,miss3,0,R. Covington,
+309,3,5:09.0,76,79,PHI,CHO,0,home,OffReb,,,OffReb,,B. Simmons,
+310,3,5:08.0,76,79,PHI,CHO,1,home,LU,block,3,miss2,0,B. Simmons,K. Walker
+311,3,5:08.0,76,79,PHI,CHO,0,home,OffReb,,,OffReb,,Team,
+312,3,5:08.0,76,79,PHI,CHO,0,away,Sub,,,,,B. Biyombo,K. Walker
+313,3,5:08.0,76,79,PHI,CHO,0,away,Sub,,,,,D. Graham,C. Zeller
+314,3,5:06.0,76,79,PHI,CHO,2,home,JS,,26,miss3,0,L. Shamet,
+315,3,5:02.0,76,79,PHI,CHO,4,away,DefReb,,,DefReb,,B. Biyombo,
+316,3,4:54.0,76,79,PHI,CHO,8,away,LU,block,2,miss2,0,M. Kidd-Gilchrist,M. Muscala
+317,3,4:48.0,76,79,PHI,CHO,6,home,DefReb,,,DefReb,,R. Covington,
+318,3,4:44.0,76,79,PHI,CHO,4,home,JS,,26,miss3,0,M. Muscala,
+319,3,4:41.0,76,79,PHI,CHO,3,away,DefReb,,,DefReb,,B. Biyombo,
+320,3,4:31.0,76,79,PHI,CHO,10,away,LU,block,5,miss2,0,M. Kidd-Gilchrist,R. Covington
+321,3,4:31.0,76,79,PHI,CHO,0,home,DefReb,,,DefReb,,Team,
+322,3,4:20.0,76,79,PHI,CHO,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Bridges,B. Simmons
+323,3,4:20.0,77,79,PHI,CHO,0,home,FreeThrow,,,make1,1,B. Simmons,
+324,3,4:20.0,77,79,PHI,CHO,0,home,Sub,,,,,J. Embiid,R. Covington
+325,3,4:20.0,77,79,PHI,CHO,0,home,Sub,,,,,T. McConnell,M. Muscala
+326,3,4:20.0,77,79,PHI,CHO,0,away,Timeout,,,,,,
+327,3,4:20.0,77,79,PHI,CHO,0,home,FreeThrow,,,make1,0,B. Simmons,
+328,3,4:18.0,77,79,PHI,CHO,2,away,DefReb,,,DefReb,,B. Biyombo,
+329,3,4:08.0,77,81,PHI,CHO,10,away,HS,assist,4,make2,2,M. Kidd-Gilchrist,D. Graham
+330,3,3:47.0,77,81,PHI,CHO,21,home,JS,,15,miss2,0,M. Fultz,
+331,3,3:44.0,77,81,PHI,CHO,3,home,OffReb,,,OffReb,,B. Simmons,
+332,3,3:38.0,77,81,PHI,CHO,6,home,3sec,,,turnover,,J. Embiid,
+333,3,3:38.0,77,81,PHI,CHO,0,home,Sub,,,,,D. Šarić,B. Simmons
+334,3,3:29.0,77,81,PHI,CHO,9,away,JS,,18,miss2,0,D. Graham,
+335,3,3:25.0,77,81,PHI,CHO,4,home,DefReb,,,DefReb,,J. Embiid,
+336,3,3:18.0,77,81,PHI,CHO,7,home,lost ball,steal,,turnover,,D. Šarić,M. Bridges
+337,3,3:14.0,77,83,PHI,CHO,4,away,DK,assist,0,make2,2,M. Bridges,N. Batum
+338,3,2:56.0,77,83,PHI,CHO,18,home,HS,block,3,miss2,0,J. Embiid,B. Biyombo
+339,3,2:55.0,77,83,PHI,CHO,1,home,OffReb,,,OffReb,,Team,
+340,3,2:55.0,77,83,PHI,CHO,0,away,Sub,,,,,M. Monk,N. Batum
+341,3,2:52.0,80,83,PHI,CHO,3,home,JS,assist,26,make3,3,J. Embiid,T. McConnell
+342,3,2:27.0,80,83,PHI,CHO,25,away,JS,,18,miss2,0,M. Kidd-Gilchrist,
+343,3,2:25.0,80,83,PHI,CHO,2,home,DefReb,,,DefReb,,J. Embiid,
+344,3,2:13.0,80,83,PHI,CHO,12,home,JS,,24,miss3,0,D. Šarić,
+345,3,2:10.0,80,83,PHI,CHO,3,away,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+346,3,2:10.0,80,83,PHI,CHO,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Šarić,M. Kidd-Gilchrist
+347,3,2:10.0,80,83,PHI,CHO,0,home,Sub,,,,,R. Covington,D. Šarić
+348,3,2:10.0,80,83,PHI,CHO,0,home,Sub,,,,,J. Redick,L. Shamet
+349,3,1:57.0,80,83,PHI,CHO,13,away,JS,,20,miss2,0,M. Monk,
+350,3,1:53.0,80,83,PHI,CHO,4,home,DefReb,,,DefReb,,J. Embiid,
+351,3,1:44.0,80,83,PHI,CHO,9,home,JS,block,7,miss2,0,J. Embiid,M. Kidd-Gilchrist
+352,3,1:40.0,80,83,PHI,CHO,4,away,DefReb,,,DefReb,,D. Graham,
+353,3,1:25.0,80,83,PHI,CHO,15,away,HS,,5,miss2,0,M. Monk,
+354,3,1:23.0,80,83,PHI,CHO,2,home,DefReb,,,DefReb,,J. Embiid,
+355,3,1:12.0,80,83,PHI,CHO,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Biyombo,J. Embiid
+356,3,1:12.0,81,83,PHI,CHO,0,home,FreeThrow,,,make1,1,J. Embiid,
+357,3,1:12.0,81,83,PHI,CHO,0,away,Sub,,,,,K. Walker,D. Graham
+358,3,1:12.0,82,83,PHI,CHO,0,home,FreeThrow,,,make1,1,J. Embiid,
+359,3,0:57.0,82,83,PHI,CHO,15,away,JS,,24,miss3,0,M. Bridges,
+360,3,0:55.0,82,83,PHI,CHO,2,home,DefReb,,,DefReb,,R. Covington,
+361,3,0:37.0,82,83,PHI,CHO,18,home,Traveling,,,turnover,,J. Embiid,
+362,3,0:37.0,82,83,PHI,CHO,0,away,Sub,,,,,M. Williams,B. Biyombo
+363,3,0:27.0,82,83,PHI,CHO,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. McConnell,K. Walker
+364,3,0:27.0,82,83,PHI,CHO,0,away,FreeThrow,,,make1,0,K. Walker,
+365,3,0:27.0,82,83,PHI,CHO,0,away,OffReb,,,OffReb,,Team,
+366,3,0:27.0,82,84,PHI,CHO,0,away,FreeThrow,,,make1,1,K. Walker,
+367,3,0:27.0,82,85,PHI,CHO,0,away,FreeThrow,,,make1,1,K. Walker,
+368,3,0:27.0,82,85,PHI,CHO,0,away,Sub,,,,,B. Biyombo,M. Williams
+369,3,0:03.0,82,85,PHI,CHO,24,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Biyombo,R. Covington
+370,3,0:03.0,83,85,PHI,CHO,0,home,FreeThrow,,,make1,1,R. Covington,
+371,3,0:03.0,83,85,PHI,CHO,0,away,Sub,,,,,M. Williams,B. Biyombo
+372,3,0:03.0,83,85,PHI,CHO,0,home,FreeThrow,,,make1,0,R. Covington,
+373,3,0:03.0,83,85,PHI,CHO,0,home,OffReb,,,OffReb,,Team,
+374,3,0:03.0,83,85,PHI,CHO,0,home,FreeThrow,,,make1,0,R. Covington,
+375,3,0:03.0,83,85,PHI,CHO,0,away,DefReb,,,DefReb,,M. Williams,
+376,3,0:00.0,83,85,PHI,CHO,3,away,JS,,54,miss3,0,K. Walker,
+377,3,0:00.0,83,85,PHI,CHO,0,away,OffReb,,,OffReb,,Team,
+378,4,11:45.0,85,85,PHI,CHO,15,home,LU,assist,3,make2,2,J. Embiid,M. Muscala
+379,4,11:28.0,85,85,PHI,CHO,17,away,bad pass,steal,,turnover,,M. Monk,M. Fultz
+380,4,11:23.0,87,85,PHI,CHO,5,home,DK,,1,make2,2,M. Fultz,
+381,4,11:23.0,87,85,PHI,CHO,0,away,Timeout,,,,,,
+382,4,11:23.0,87,85,PHI,CHO,0,away,Sub,,,,,J. Lamb,M. Monk
+383,4,11:09.0,87,85,PHI,CHO,14,away,HS,,7,miss2,0,M. Kidd-Gilchrist,
+384,4,11:03.0,87,85,PHI,CHO,6,home,DefReb,,,DefReb,,J. Embiid,
+385,4,10:49.0,89,85,PHI,CHO,14,home,JS,assist,12,make2,2,J. Redick,M. Fultz
+386,4,10:32.0,89,87,PHI,CHO,17,away,JS,,6,make2,2,J. Lamb,
+387,4,10:08.0,89,87,PHI,CHO,24,home,JS,,13,miss2,0,J. Embiid,
+388,4,10:05.0,89,87,PHI,CHO,3,away,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+389,4,10:00.0,89,89,PHI,CHO,5,away,LU,,2,make2,2,M. Kidd-Gilchrist,
+390,4,10:00.0,89,89,PHI,CHO,0,home,DefGoaltending,,,DefGoaltending,,Team,
+391,4,9:42.0,89,89,PHI,CHO,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kidd-Gilchrist,J. Redick
+392,4,9:42.0,89,89,PHI,CHO,0,away,TechnicalFoul,,,TechnicalFoul,,M. Kidd-Gilchrist,
+393,4,9:42.0,90,89,PHI,CHO,0,home,FreeThrow,,,make1,1,J. Redick makes technical free throw,
+394,4,9:42.0,91,89,PHI,CHO,0,home,FreeThrow,,,make1,1,J. Redick,
+395,4,9:42.0,92,89,PHI,CHO,0,home,FreeThrow,,,make1,1,J. Redick,
+396,4,9:42.0,92,89,PHI,CHO,0,away,Sub,,,,,K. Walker,D. Graham
+397,4,9:42.0,93,89,PHI,CHO,0,home,FreeThrow,,,make1,1,J. Redick,
+398,4,9:26.0,93,89,PHI,CHO,16,away,JS,,11,miss2,0,M. Bridges,
+399,4,9:23.0,93,89,PHI,CHO,3,home,DefReb,,,DefReb,,M. Muscala,
+400,4,9:14.0,93,89,PHI,CHO,9,home,JS,,25,miss3,0,J. Redick,
+401,4,9:10.0,93,89,PHI,CHO,4,away,DefReb,,,DefReb,,J. Lamb,
+402,4,9:04.0,93,89,PHI,CHO,6,away,lost ball,steal,,turnover,,M. Kidd-Gilchrist,R. Covington
+403,4,8:56.0,93,89,PHI,CHO,8,home,JS,,23,miss3,0,M. Muscala,
+404,4,8:53.0,93,89,PHI,CHO,3,away,DefReb,,,DefReb,,C. Zeller,
+405,4,8:46.0,93,89,PHI,CHO,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,C. Zeller
+406,4,8:46.0,93,89,PHI,CHO,0,away,Sub,,,,,N. Batum,M. Bridges
+407,4,8:38.0,93,92,PHI,CHO,8,away,JS,,28,make3,3,K. Walker,
+408,4,8:23.0,93,92,PHI,CHO,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Kidd-Gilchrist,J. Redick
+409,4,8:23.0,93,92,PHI,CHO,0,away,Sub,,,,,M. Williams,M. Kidd-Gilchrist
+410,4,8:23.0,93,92,PHI,CHO,0,home,Sub,,,,,D. Šarić,J. Embiid
+411,4,8:23.0,93,92,PHI,CHO,0,home,Sub,,,,,B. Simmons,J. Redick
+412,4,8:21.0,93,92,PHI,CHO,2,home,JS,,26,miss3,0,R. Covington,
+413,4,8:17.0,93,92,PHI,CHO,4,away,DefReb,,,DefReb,,N. Batum,
+414,4,8:12.0,93,92,PHI,CHO,5,away,LU,,1,miss2,0,J. Lamb,
+415,4,8:10.0,93,92,PHI,CHO,2,away,OffReb,,,OffReb,,C. Zeller,
+416,4,8:07.0,93,92,PHI,CHO,3,away,LU,block,2,miss2,0,K. Walker,R. Covington
+417,4,8:03.0,93,92,PHI,CHO,4,home,DefReb,,,DefReb,,R. Covington,
+418,4,8:00.0,93,92,PHI,CHO,3,home,LU,block,2,miss2,0,D. Šarić,M. Williams
+419,4,7:58.0,93,92,PHI,CHO,2,away,DefReb,,,DefReb,,M. Williams,
+420,4,7:56.0,93,92,PHI,CHO,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Muscala,K. Walker
+421,4,7:56.0,93,93,PHI,CHO,0,away,FreeThrow,,,make1,1,K. Walker,
+422,4,7:56.0,93,94,PHI,CHO,0,away,FreeThrow,,,make1,1,K. Walker,
+423,4,7:37.0,93,94,PHI,CHO,19,home,JS,,19,miss2,0,M. Fultz,
+424,4,7:33.0,93,94,PHI,CHO,4,away,DefReb,,,DefReb,,J. Lamb,
+425,4,7:11.0,93,94,PHI,CHO,22,away,JS,,11,miss2,0,J. Lamb,
+426,4,7:09.0,93,94,PHI,CHO,2,home,DefReb,,,DefReb,,M. Muscala,
+427,4,7:05.0,93,94,PHI,CHO,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Zeller,R. Covington
+428,4,7:05.0,93,94,PHI,CHO,0,home,FreeThrow,,,make1,0,R. Covington,
+429,4,7:05.0,93,94,PHI,CHO,0,home,OffReb,,,OffReb,,Team,
+430,4,7:05.0,93,94,PHI,CHO,0,away,Sub,,,,,B. Biyombo,C. Zeller
+431,4,7:05.0,94,94,PHI,CHO,0,home,FreeThrow,,,make1,1,R. Covington,
+432,4,6:51.0,94,94,PHI,CHO,14,away,JS,,25,miss3,0,K. Walker,
+433,4,6:48.0,94,94,PHI,CHO,3,home,DefReb,,,DefReb,,M. Fultz,
+434,4,6:43.0,94,94,PHI,CHO,5,home,JS,,27,miss3,0,D. Šarić,
+435,4,6:40.0,94,94,PHI,CHO,3,away,DefReb,,,DefReb,,K. Walker,
+436,4,6:27.0,94,94,PHI,CHO,13,away,JS,,7,miss2,0,J. Lamb,
+437,4,6:24.0,94,94,PHI,CHO,3,home,DefReb,,,DefReb,,M. Muscala,
+438,4,6:22.0,94,94,PHI,CHO,2,home,Timeout,,,,,,
+439,4,6:22.0,94,94,PHI,CHO,0,home,Sub,,,,,J. Redick,M. Fultz
+440,4,6:05.0,96,94,PHI,CHO,17,home,LU,assist,3,make2,2,B. Simmons,M. Muscala
+441,4,5:46.0,96,94,PHI,CHO,19,away,JS,,26,miss3,0,K. Walker,
+442,4,5:43.0,96,94,PHI,CHO,3,home,DefReb,,,DefReb,,B. Simmons,
+443,4,5:31.0,96,94,PHI,CHO,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Walker,M. Muscala
+444,4,5:31.0,96,94,PHI,CHO,0,home,Sub,,,,,J. Embiid,M. Muscala
+445,4,5:17.0,96,94,PHI,CHO,14,home,JS,,3,miss2,0,B. Simmons,
+446,4,5:14.0,96,94,PHI,CHO,3,away,DefReb,,,DefReb,,K. Walker,
+447,4,5:08.0,96,94,PHI,CHO,6,away,JS,,25,miss3,0,M. Williams,
+448,4,5:06.0,96,94,PHI,CHO,2,home,DefReb,,,DefReb,,B. Simmons,
+449,4,4:52.0,96,94,PHI,CHO,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Lamb,B. Simmons
+450,4,4:52.0,97,94,PHI,CHO,0,home,FreeThrow,,,make1,1,B. Simmons,
+451,4,4:52.0,97,94,PHI,CHO,0,away,Sub,,,,,M. Bridges,J. Lamb
+452,4,4:52.0,97,94,PHI,CHO,0,home,FreeThrow,,,make1,0,B. Simmons,
+453,4,4:50.0,97,94,PHI,CHO,2,away,DefReb,,,DefReb,,N. Batum,
+454,4,4:42.0,97,94,PHI,CHO,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Embiid,K. Walker
+455,4,4:42.0,97,95,PHI,CHO,0,away,FreeThrow,,,make1,1,K. Walker,
+456,4,4:42.0,97,96,PHI,CHO,0,away,FreeThrow,,,make1,1,K. Walker,
+457,4,4:34.0,97,96,PHI,CHO,8,home,LU,block,4,miss2,0,J. Embiid,K. Walker
+458,4,4:31.0,97,96,PHI,CHO,3,away,DefReb,,,DefReb,,M. Bridges,
+459,4,4:15.0,97,96,PHI,CHO,16,away,JS,,27,miss3,0,K. Walker,
+460,4,4:13.0,97,96,PHI,CHO,2,home,DefReb,,,DefReb,,J. Embiid,
+461,4,3:54.0,97,96,PHI,CHO,19,home,JS,,11,miss2,0,J. Embiid,
+462,4,3:51.0,97,96,PHI,CHO,3,away,DefReb,,,DefReb,,N. Batum,
+463,4,3:43.0,97,96,PHI,CHO,8,away,LU,,3,miss2,0,K. Walker,
+464,4,3:40.0,97,96,PHI,CHO,3,away,OffReb,,,OffReb,,B. Biyombo,
+465,4,3:38.0,97,96,PHI,CHO,2,away,JS,,26,miss3,0,M. Bridges,
+466,4,3:36.0,97,96,PHI,CHO,2,home,DefReb,,,DefReb,,R. Covington,
+467,4,3:35.0,97,96,PHI,CHO,1,home,Timeout,,,,,,
+468,4,3:35.0,97,96,PHI,CHO,0,away,Sub,,,,,M. Kidd-Gilchrist,M. Williams
+469,4,3:23.0,97,96,PHI,CHO,12,home,HS,,6,miss2,0,D. Šarić,
+470,4,3:21.0,97,96,PHI,CHO,2,home,OffReb,,,OffReb,,J. Embiid,
+471,4,3:19.0,99,96,PHI,CHO,2,home,DK,,0,make2,2,J. Embiid,
+472,4,3:06.0,99,99,PHI,CHO,13,away,JS,assist,27,make3,3,K. Walker,N. Batum
+473,4,2:42.0,99,99,PHI,CHO,24,home,JS,,18,miss2,0,B. Simmons,
+474,4,2:39.0,99,99,PHI,CHO,3,away,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+475,4,2:17.0,99,99,PHI,CHO,22,away,JS,,25,miss3,0,K. Walker,
+476,4,2:14.0,99,99,PHI,CHO,3,away,OffReb,,,OffReb,,N. Batum,
+477,4,2:12.0,99,99,PHI,CHO,2,away,LU,,2,miss2,0,N. Batum,
+478,4,2:12.0,99,99,PHI,CHO,0,home,DefReb,,,DefReb,,D. Šarić,
+479,4,2:03.0,102,99,PHI,CHO,9,home,JS,assist,26,make3,3,J. Redick,J. Embiid
+480,4,2:00.0,102,99,PHI,CHO,3,away,Timeout,,,,,,
+481,4,2:00.0,102,99,PHI,CHO,0,away,Sub,,,,,C. Zeller,B. Biyombo
+482,4,1:49.0,102,101,PHI,CHO,11,away,LU,,2,make2,2,K. Walker,
+483,4,1:44.0,105,101,PHI,CHO,5,home,JS,assist,26,make3,3,R. Covington,B. Simmons
+484,4,1:32.0,105,101,PHI,CHO,12,away,JS,,25,miss3,0,K. Walker,
+485,4,1:29.0,105,101,PHI,CHO,3,home,DefReb,,,DefReb,,J. Embiid,
+486,4,1:13.0,105,101,PHI,CHO,16,home,JS,,26,miss3,0,J. Embiid,
+487,4,1:10.0,105,101,PHI,CHO,3,away,DefReb,,,DefReb,,K. Walker,
+488,4,1:07.0,105,101,PHI,CHO,3,away,JS,,24,miss3,0,M. Bridges,
+489,4,1:05.0,105,101,PHI,CHO,2,home,DefReb,,,DefReb,,B. Simmons,
+490,4,0:52.0,105,101,PHI,CHO,13,home,OffensiveFoul,,,turnover,,B. Simmons,
+491,4,0:52.0,105,101,PHI,CHO,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Simmons,M. Kidd-Gilchrist
+492,4,0:52.0,105,101,PHI,CHO,0,away,Sub,,,,,J. Lamb,M. Bridges
+493,4,0:52.0,105,101,PHI,CHO,0,away,Sub,,,,,M. Williams,M. Kidd-Gilchrist
+494,4,0:42.0,105,101,PHI,CHO,10,away,LU,block,2,miss2,0,C. Zeller,R. Covington
+495,4,0:39.0,105,101,PHI,CHO,3,home,DefReb,,,DefReb,,J. Embiid,
+496,4,0:19.0,105,101,PHI,CHO,20,home,JS,,26,miss3,0,J. Embiid,
+497,4,0:17.0,105,101,PHI,CHO,2,away,DefReb,,,DefReb,,Team,
+498,4,0:17.0,105,101,PHI,CHO,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Covington,K. Walker
+499,4,0:17.0,105,101,PHI,CHO,0,away,Timeout,,,,,,
+500,4,0:17.0,105,101,PHI,CHO,0,home,Sub,,,,,T. McConnell,D. Šarić
+501,4,0:12.0,105,101,PHI,CHO,5,away,JS,,24,miss3,0,M. Williams,
+502,4,0:07.0,105,101,PHI,CHO,5,away,OffReb,,,OffReb,,N. Batum,
+503,4,0:02.0,105,101,PHI,CHO,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Simmons,K. Walker
+504,4,0:02.0,105,101,PHI,CHO,0,away,FreeThrow,,,make1,0,K. Walker,
+505,4,0:02.0,105,101,PHI,CHO,0,away,OffReb,,,OffReb,,Team,
+506,4,0:02.0,105,101,PHI,CHO,0,away,Sub,,,,,M. Bridges,M. Williams
+507,4,0:02.0,105,101,PHI,CHO,0,away,Sub,,,,,M. Kidd-Gilchrist,C. Zeller
+508,4,0:02.0,105,101,PHI,CHO,0,home,Sub,,,,,D. Šarić,T. McConnell
+509,4,0:02.0,105,102,PHI,CHO,0,away,FreeThrow,,,make1,1,K. Walker,
+510,4,0:02.0,105,103,PHI,CHO,0,away,FreeThrow,,,make1,1,K. Walker,
+511,4,0:02.0,105,103,PHI,CHO,0,home,Timeout,,,,,,

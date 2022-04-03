@@ -1,0 +1,541 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,0,0,HOU,MIN,15,away,JS,block,8,miss2,0,A. Wiggins,J. Harden
+1,1,11:43.0,0,0,HOU,MIN,2,home,DefReb,,,DefReb,,T. Ariza,
+2,1,11:38.0,0,0,HOU,MIN,5,home,LU,,2,miss2,0,T. Ariza,
+3,1,11:37.0,0,0,HOU,MIN,1,away,DefReb,,,DefReb,,R. Rubio,
+4,1,11:19.0,0,2,HOU,MIN,18,away,LU,assist,3,make2,2,A. Payne,A. Wiggins
+5,1,11:08.0,0,2,HOU,MIN,11,home,BadPass,,,turnover,,T. Ariza,
+6,1,10:51.0,0,4,HOU,MIN,17,away,HS,,4,make2,2,N. Peković,
+7,1,10:40.0,3,4,HOU,MIN,11,home,JS,assist,26,make3,3,T. Ariza,J. Harden
+8,1,10:20.0,3,4,HOU,MIN,20,away,LU,,1,miss2,0,A. Payne,
+9,1,10:19.0,3,4,HOU,MIN,1,away,OffReb,,,OffReb,,N. Peković,
+10,1,10:19.0,3,6,HOU,MIN,0,away,TI,,1,make2,2,N. Peković,
+11,1,9:59.0,3,6,HOU,MIN,20,home,JS,,16,miss2,0,J. Harden,
+12,1,9:58.0,3,6,HOU,MIN,1,home,OffReb,,,OffReb,,T. Jones,
+13,1,9:58.0,3,6,HOU,MIN,0,home,TI,,1,miss2,0,T. Jones,
+14,1,9:54.0,3,6,HOU,MIN,4,away,DefReb,,,DefReb,,A. Payne,
+15,1,9:47.0,3,6,HOU,MIN,7,away,BadPass,steal,,turnover,,R. Rubio,D. Motiejūnas
+16,1,9:27.0,5,6,HOU,MIN,20,home,LU,,3,make2,2,D. Motiejūnas,
+17,1,9:09.0,5,8,HOU,MIN,18,away,JS,,22,make2,2,A. Wiggins,
+18,1,9:02.0,7,8,HOU,MIN,7,home,LU,assist,0,make2,2,T. Jones,J. Terry
+19,1,8:44.0,7,8,HOU,MIN,18,away,JS,block,7,miss2,0,A. Payne,T. Jones
+20,1,8:42.0,7,8,HOU,MIN,2,away,OffReb,,,OffReb,,A. Payne,
+21,1,8:40.0,7,10,HOU,MIN,2,away,LU,,1,make2,2,A. Payne,
+22,1,8:20.0,7,10,HOU,MIN,20,home,LostBall,steal,,turnover,,J. Harden,R. Rubio
+23,1,8:14.0,7,12,HOU,MIN,6,away,LU,assist,1,make2,2,A. Wiggins,K. Martin
+24,1,7:56.0,7,12,HOU,MIN,18,home,JS,,25,miss3,0,D. Motiejūnas,
+25,1,7:55.0,7,12,HOU,MIN,1,home,OffReb,,,OffReb,,T. Jones,
+26,1,7:54.0,9,12,HOU,MIN,1,home,LU,,0,make2,2,T. Jones,
+27,1,7:44.0,9,12,HOU,MIN,10,away,Traveling,,,turnover,,K. Martin,
+28,1,7:27.0,9,12,HOU,MIN,17,home,JS,,22,miss3,0,J. Terry,
+29,1,7:25.0,9,12,HOU,MIN,2,away,DefReb,,,DefReb,,R. Rubio,
+30,1,7:20.0,9,14,HOU,MIN,5,away,LU,assist,1,make2,2,A. Wiggins,R. Rubio
+31,1,7:07.0,9,14,HOU,MIN,13,home,BadPass,steal,,turnover,,J. Terry,N. Peković
+32,1,7:02.0,9,14,HOU,MIN,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Terry,R. Rubio
+33,1,7:02.0,9,14,HOU,MIN,0,home,Timeout,,,,,,
+34,1,7:02.0,9,15,HOU,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+35,1,7:02.0,9,16,HOU,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+36,1,6:49.0,9,16,HOU,MIN,13,home,JS,,23,miss3,0,J. Harden,
+37,1,6:48.0,9,16,HOU,MIN,1,away,DefReb,,,DefReb,,R. Rubio,
+38,1,6:45.0,9,16,HOU,MIN,3,away,BadPass,,,turnover,,R. Rubio,
+39,1,6:24.0,11,16,HOU,MIN,21,home,HS,assist,9,make2,2,D. Motiejūnas,J. Harden
+40,1,6:24.0,11,16,HOU,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Peković,D. Motiejūnas
+41,1,6:24.0,12,16,HOU,MIN,0,home,FreeThrow,,,make1,1,D. Motiejūnas,
+42,1,6:12.0,12,16,HOU,MIN,12,away,JS,,12,miss2,0,K. Martin,
+43,1,6:10.0,12,16,HOU,MIN,2,away,OffReb,,,OffReb,,A. Payne,
+44,1,6:09.0,12,18,HOU,MIN,1,away,HS,,5,make2,2,A. Payne,
+45,1,5:54.0,12,18,HOU,MIN,15,home,LU,block,0,miss2,0,D. Motiejūnas,A. Payne
+46,1,5:52.0,12,18,HOU,MIN,2,away,DefReb,,,DefReb,,N. Peković,
+47,1,5:48.0,12,18,HOU,MIN,4,away,BadPass,steal,,turnover,,K. Martin,T. Ariza
+48,1,5:39.0,14,18,HOU,MIN,9,home,DK,assist,0,make2,2,T. Jones,D. Motiejūnas
+49,1,5:21.0,14,18,HOU,MIN,18,away,JS,,24,miss3,0,R. Rubio,
+50,1,5:20.0,14,18,HOU,MIN,1,away,OffReb,,,OffReb,,Team,
+51,1,5:20.0,14,18,HOU,MIN,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Motiejūnas,N. Peković
+52,1,5:20.0,14,18,HOU,MIN,0,away,Sub,,,,,G. Dieng,N. Peković
+53,1,5:08.0,14,18,HOU,MIN,12,away,JS,,25,miss3,0,R. Rubio,
+54,1,5:06.0,14,18,HOU,MIN,2,home,DefReb,,,DefReb,,J. Harden,
+55,1,5:00.0,14,18,HOU,MIN,6,home,LU,block,2,miss2,0,J. Harden,A. Wiggins
+56,1,5:00.0,14,18,HOU,MIN,0,away,DefReb,,,DefReb,,R. Rubio,
+57,1,4:51.0,14,18,HOU,MIN,9,away,JS,,25,miss3,0,K. Martin,
+58,1,4:49.0,14,18,HOU,MIN,2,home,DefReb,,,DefReb,,T. Jones,
+59,1,4:41.0,14,18,HOU,MIN,8,home,JS,,25,miss3,0,T. Ariza,
+60,1,4:39.0,14,18,HOU,MIN,2,home,OffReb,,,OffReb,,T. Jones,
+61,1,4:39.0,14,18,HOU,MIN,0,home,TI,,2,miss2,0,T. Jones,
+62,1,4:36.0,14,18,HOU,MIN,3,home,OffReb,,,OffReb,,T. Jones,
+63,1,4:33.0,14,18,HOU,MIN,3,home,JS,,24,miss3,0,J. Harden,
+64,1,4:31.0,14,18,HOU,MIN,2,home,OffReb,,,OffReb,,T. Ariza,
+65,1,4:13.0,14,18,HOU,MIN,18,home,JS,,23,miss3,0,J. Terry,
+66,1,4:12.0,14,18,HOU,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
+67,1,4:06.0,14,20,HOU,MIN,6,away,JS,,18,make2,2,R. Rubio,
+68,1,3:54.0,16,20,HOU,MIN,12,home,JS,assist,7,make2,2,D. Motiejūnas,T. Ariza
+69,1,3:36.0,16,20,HOU,MIN,18,away,LU,block,2,miss2,0,G. Dieng,D. Motiejūnas
+70,1,3:36.0,16,20,HOU,MIN,0,away,OffReb,,,OffReb,,Team,
+71,1,3:36.0,16,20,HOU,MIN,0,home,Sub,,,,,C. Brewer,T. Ariza
+72,1,3:36.0,16,20,HOU,MIN,0,home,Sub,,,,,J. Smith,T. Jones
+73,1,3:36.0,16,20,HOU,MIN,0,home,Sub,,,,,P. Prigioni,J. Terry
+74,1,3:36.0,16,20,HOU,MIN,0,away,Sub,,,,,C. Budinger,K. Martin
+75,1,3:31.0,16,20,HOU,MIN,5,away,JS,,16,miss2,0,C. Budinger,
+76,1,3:31.0,16,20,HOU,MIN,0,home,DefReb,,,DefReb,,Team,
+77,1,3:18.0,16,20,HOU,MIN,13,home,JS,,17,miss2,0,C. Brewer,
+78,1,3:16.0,16,20,HOU,MIN,2,home,OffReb,,,OffReb,,P. Prigioni,
+79,1,3:11.0,16,20,HOU,MIN,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Wiggins,J. Harden
+80,1,3:11.0,17,20,HOU,MIN,0,home,FreeThrow,,,make1,1,J. Harden,
+81,1,3:11.0,17,20,HOU,MIN,0,away,Timeout,,,,,,
+82,1,3:11.0,17,20,HOU,MIN,0,home,Sub,,,,,J. Dorsey,D. Motiejūnas
+83,1,3:11.0,18,20,HOU,MIN,0,home,FreeThrow,,,make1,1,J. Harden,
+84,1,2:56.0,18,20,HOU,MIN,15,away,JS,,21,miss2,0,A. Payne,
+85,1,2:55.0,18,20,HOU,MIN,1,home,DefReb,,,DefReb,,J. Harden,
+86,1,2:48.0,18,20,HOU,MIN,7,home,JS,,24,miss3,0,J. Harden,
+87,1,2:48.0,18,20,HOU,MIN,0,home,OffReb,,,OffReb,,J. Dorsey,
+88,1,2:48.0,18,20,HOU,MIN,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,G. Dieng,J. Dorsey
+89,1,2:33.0,18,20,HOU,MIN,15,home,HS,block,4,miss2,0,J. Dorsey,G. Dieng
+90,1,2:30.0,18,20,HOU,MIN,3,home,OffReb,,,OffReb,,J. Smith,
+91,1,2:28.0,20,20,HOU,MIN,2,home,JS,,5,make2,2,J. Smith,
+92,1,2:10.0,20,22,HOU,MIN,18,away,JS,assist,18,make2,2,A. Wiggins,R. Rubio
+93,1,2:04.0,20,22,HOU,MIN,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Budinger,C. Brewer
+94,1,2:04.0,20,22,HOU,MIN,0,home,FreeThrow,,,make1,0,C. Brewer,
+95,1,2:04.0,20,22,HOU,MIN,0,home,OffReb,,,OffReb,,Team,
+96,1,2:04.0,20,22,HOU,MIN,0,home,FreeThrow,,,make1,0,C. Brewer,
+97,1,2:04.0,20,22,HOU,MIN,0,away,DefReb,,,DefReb,,C. Budinger,
+98,1,1:42.0,20,22,HOU,MIN,22,away,JS,block,9,miss2,0,A. Wiggins,J. Harden
+99,1,1:42.0,20,22,HOU,MIN,0,home,DefReb,,,DefReb,,J. Harden,
+100,1,1:39.0,22,22,HOU,MIN,3,home,LU,assist,3,make2,2,J. Dorsey,J. Harden
+101,1,1:22.0,22,22,HOU,MIN,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Dorsey,C. Budinger
+102,1,1:22.0,22,22,HOU,MIN,0,away,FreeThrow,,,make1,0,C. Budinger,
+103,1,1:22.0,22,22,HOU,MIN,0,away,OffReb,,,OffReb,,Team,
+104,1,1:22.0,22,23,HOU,MIN,0,away,FreeThrow,,,make1,1,C. Budinger,
+105,1,1:06.0,22,23,HOU,MIN,16,home,JS,,25,miss3,0,C. Brewer,
+106,1,1:04.0,22,23,HOU,MIN,2,away,DefReb,,,DefReb,,A. Wiggins,
+107,1,1:01.0,22,23,HOU,MIN,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,G. Dieng
+108,1,1:01.0,22,24,HOU,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
+109,1,1:01.0,22,24,HOU,MIN,0,away,Sub,,,,,Z. LaVine,R. Rubio
+110,1,1:01.0,22,25,HOU,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
+111,1,0:50.0,24,25,HOU,MIN,11,home,DK,assist,0,make2,2,J. Dorsey,J. Harden
+112,1,0:40.0,24,25,HOU,MIN,10,away,JS,,25,miss3,0,A. Wiggins,
+113,1,0:38.0,24,25,HOU,MIN,2,home,DefReb,,,DefReb,,J. Dorsey,
+114,1,0:30.0,24,25,HOU,MIN,8,home,JS,,27,miss3,0,J. Harden,
+115,1,0:28.0,24,25,HOU,MIN,2,home,OffReb,,,OffReb,,J. Dorsey,
+116,1,0:26.0,24,25,HOU,MIN,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dieng,J. Harden
+117,1,0:26.0,25,25,HOU,MIN,0,home,FreeThrow,,,make1,1,J. Harden,
+118,1,0:26.0,25,25,HOU,MIN,0,home,Sub,,,,,T. Ariza,P. Prigioni
+119,1,0:26.0,25,25,HOU,MIN,0,away,Sub,,,,,N. Peković,G. Dieng
+120,1,0:26.0,26,25,HOU,MIN,0,home,FreeThrow,,,make1,1,J. Harden,
+121,1,0:03.0,26,25,HOU,MIN,23,away,HS,,8,miss2,0,A. Payne,
+122,1,0:02.0,26,25,HOU,MIN,1,home,DefReb,,,DefReb,,J. Dorsey,
+123,2,11:47.0,26,25,HOU,MIN,13,home,JS,,7,miss2,0,C. Brewer,
+124,2,11:46.0,26,25,HOU,MIN,1,away,DefReb,,,DefReb,,N. Peković,
+125,2,11:33.0,26,25,HOU,MIN,13,away,JS,,8,miss2,0,N. Peković,
+126,2,11:31.0,26,25,HOU,MIN,2,home,DefReb,,,DefReb,,T. Ariza,
+127,2,11:24.0,28,25,HOU,MIN,7,home,LU,assist,2,make2,2,C. Brewer,J. Smith
+128,2,11:06.0,28,25,HOU,MIN,18,away,BadPass,steal,,turnover,,A. Wiggins,J. Smith
+129,2,11:01.0,30,25,HOU,MIN,5,home,LU,assist,1,make2,2,J. Dorsey,J. Smith
+130,2,11:00.0,30,25,HOU,MIN,1,away,Timeout,,,,,,
+131,2,11:00.0,30,25,HOU,MIN,0,away,Sub,,,,,K. Martin,A. Wiggins
+132,2,10:41.0,30,25,HOU,MIN,19,away,BadPass,steal,,turnover,,N. Peković,T. Ariza
+133,2,10:38.0,32,25,HOU,MIN,3,home,DK,,0,make2,2,T. Ariza,
+134,2,10:17.0,32,25,HOU,MIN,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ariza,K. Martin
+135,2,10:17.0,32,26,HOU,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+136,2,10:17.0,32,27,HOU,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+137,2,10:10.0,32,27,HOU,MIN,7,home,Traveling,,,turnover,,C. Brewer,
+138,2,10:10.0,32,27,HOU,MIN,0,away,Sub,,,,,G. Robinson,A. Payne
+139,2,10:01.0,32,29,HOU,MIN,9,away,LU,,1,make2,2,Z. LaVine,
+140,2,9:42.0,32,29,HOU,MIN,19,home,BadPass,steal,,turnover,,C. Brewer,N. Peković
+141,2,9:30.0,32,29,HOU,MIN,12,away,JS,,26,miss3,0,Z. LaVine,
+142,2,9:28.0,32,29,HOU,MIN,2,home,DefReb,,,DefReb,,T. Ariza,
+143,2,9:20.0,32,29,HOU,MIN,8,home,JS,,25,miss3,0,P. Prigioni,
+144,2,9:19.0,32,29,HOU,MIN,1,away,DefReb,,,DefReb,,C. Budinger,
+145,2,9:13.0,32,29,HOU,MIN,6,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,T. Ariza,K. Martin
+146,2,9:13.0,32,30,HOU,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+147,2,9:13.0,32,30,HOU,MIN,0,home,Sub,,,,,D. Motiejūnas,J. Dorsey
+148,2,9:13.0,32,31,HOU,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+149,2,8:54.0,32,31,HOU,MIN,19,home,JS,,25,miss3,0,T. Ariza,
+150,2,8:52.0,32,31,HOU,MIN,2,away,DefReb,,,DefReb,,Z. LaVine,
+151,2,8:37.0,32,34,HOU,MIN,15,away,JS,assist,24,make3,3,K. Martin,N. Peković
+152,2,8:28.0,34,34,HOU,MIN,9,home,LU,,2,make2,2,J. Smith,
+153,2,8:28.0,34,34,HOU,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Robinson,J. Smith
+154,2,8:28.0,34,34,HOU,MIN,0,away,Timeout,,,,,,
+155,2,8:28.0,34,34,HOU,MIN,0,home,Sub,,,,,J. Terry,P. Prigioni
+156,2,8:28.0,35,34,HOU,MIN,0,home,FreeThrow,,,make1,1,J. Smith,
+157,2,8:13.0,35,36,HOU,MIN,15,away,LU,assist,1,make2,2,N. Peković,Z. LaVine
+158,2,7:54.0,35,36,HOU,MIN,19,home,JS,,22,miss3,0,T. Ariza,
+159,2,7:52.0,35,36,HOU,MIN,2,away,DefReb,,,DefReb,,N. Peković,
+160,2,7:46.0,35,36,HOU,MIN,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Brewer,K. Martin
+161,2,7:46.0,35,36,HOU,MIN,0,home,Sub,,,,,J. Harden,T. Ariza
+162,2,7:46.0,35,36,HOU,MIN,0,away,Sub,,,,,A. Wiggins,C. Budinger
+163,2,7:36.0,35,36,HOU,MIN,10,away,Traveling,,,turnover,,N. Peković,
+164,2,7:29.0,35,36,HOU,MIN,7,home,JS,,19,miss2,0,C. Brewer,
+165,2,7:28.0,35,36,HOU,MIN,1,home,OffReb,,,OffReb,,J. Smith,
+166,2,7:27.0,37,36,HOU,MIN,1,home,LU,,2,make2,2,J. Smith,
+167,2,7:08.0,37,36,HOU,MIN,19,away,BadPass,steal,,turnover,,K. Martin,J. Smith
+168,2,7:04.0,37,36,HOU,MIN,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Robinson,C. Brewer
+169,2,7:04.0,38,36,HOU,MIN,0,home,FreeThrow,,,make1,1,C. Brewer,
+170,2,7:04.0,38,36,HOU,MIN,0,away,Sub,,,,,G. Dieng,G. Robinson
+171,2,7:04.0,38,36,HOU,MIN,0,away,Sub,,,,,R. Rubio,Z. LaVine
+172,2,7:04.0,38,36,HOU,MIN,0,home,Sub,,,,,T. Jones,J. Smith
+173,2,7:04.0,39,36,HOU,MIN,0,home,FreeThrow,,,make1,1,C. Brewer,
+174,2,6:41.0,39,36,HOU,MIN,23,away,JS,,19,miss2,0,R. Rubio,
+175,2,6:39.0,39,36,HOU,MIN,2,home,DefReb,,,DefReb,,J. Harden,
+176,2,6:34.0,39,36,HOU,MIN,5,home,JS,,24,miss3,0,J. Terry,
+177,2,6:32.0,39,36,HOU,MIN,2,away,DefReb,,,DefReb,,R. Rubio,
+178,2,6:11.0,39,36,HOU,MIN,21,away,JS,,5,miss2,0,K. Martin,
+179,2,6:09.0,39,36,HOU,MIN,2,away,OffReb,,,OffReb,,G. Dieng,
+180,2,6:09.0,39,38,HOU,MIN,0,away,JS,,5,make2,2,G. Dieng,
+181,2,5:53.0,39,38,HOU,MIN,16,home,JS,,24,miss3,0,J. Terry,
+182,2,5:51.0,39,38,HOU,MIN,2,away,DefReb,,,DefReb,,R. Rubio,
+183,2,5:40.0,39,38,HOU,MIN,11,away,JS,,4,miss2,0,N. Peković,
+184,2,5:38.0,39,38,HOU,MIN,2,home,DefReb,,,DefReb,,T. Jones,
+185,2,5:33.0,39,38,HOU,MIN,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Martin,D. Motiejūnas
+186,2,5:33.0,39,38,HOU,MIN,0,home,Timeout,,,,,,
+187,2,5:33.0,39,38,HOU,MIN,0,home,FreeThrow,,,make1,0,D. Motiejūnas,
+188,2,5:33.0,39,38,HOU,MIN,0,home,OffReb,,,OffReb,,Team,
+189,2,5:33.0,39,38,HOU,MIN,0,home,FreeThrow,,,make1,0,D. Motiejūnas,
+190,2,5:33.0,39,38,HOU,MIN,0,away,DefReb,,,DefReb,,G. Dieng,
+191,2,5:12.0,39,38,HOU,MIN,21,away,LU,block,2,miss2,0,A. Wiggins,J. Harden
+192,2,5:12.0,39,38,HOU,MIN,0,away,OffReb,,,OffReb,,Team,
+193,2,5:09.0,39,40,HOU,MIN,3,away,LU,assist,0,make2,2,K. Martin,N. Peković
+194,2,4:45.0,39,40,HOU,MIN,24,home,JS,,24,miss3,0,J. Harden,
+195,2,4:43.0,39,40,HOU,MIN,2,away,DefReb,,,DefReb,,G. Dieng,
+196,2,4:39.0,39,40,HOU,MIN,4,away,LostBall,,,turnover,,A. Wiggins,
+197,2,4:29.0,39,40,HOU,MIN,10,home,BadPass,steal,,turnover,,J. Terry,R. Rubio
+198,2,4:24.0,39,42,HOU,MIN,5,away,DK,assist,0,make2,2,A. Wiggins,G. Dieng
+199,2,4:05.0,42,42,HOU,MIN,19,home,JS,assist,22,make3,3,J. Terry,J. Harden
+200,2,3:50.0,42,44,HOU,MIN,15,away,JS,assist,9,make2,2,N. Peković,K. Martin
+201,2,3:33.0,44,44,HOU,MIN,17,home,JS,,4,make2,2,J. Harden,
+202,2,3:33.0,44,44,HOU,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Wiggins,J. Harden
+203,2,3:33.0,44,44,HOU,MIN,0,home,Sub,,,,,T. Ariza,C. Brewer
+204,2,3:33.0,44,44,HOU,MIN,0,home,Sub,,,,,J. Smith,D. Motiejūnas
+205,2,3:33.0,44,44,HOU,MIN,0,away,Timeout,,,,,,
+206,2,3:33.0,45,44,HOU,MIN,0,home,FreeThrow,,,make1,1,J. Harden,
+207,2,3:13.0,45,44,HOU,MIN,20,away,BadPass,,,turnover,,N. Peković,
+208,2,3:04.0,45,44,HOU,MIN,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Peković,J. Harden
+209,2,3:04.0,46,44,HOU,MIN,0,home,FreeThrow,,,make1,1,J. Harden,
+210,2,3:04.0,46,44,HOU,MIN,0,home,FreeThrow,,,make1,0,J. Harden,
+211,2,3:04.0,46,44,HOU,MIN,0,away,DefReb,,,DefReb,,G. Dieng,
+212,2,2:50.0,46,44,HOU,MIN,14,away,JS,,19,miss2,0,K. Martin,
+213,2,2:48.0,46,44,HOU,MIN,2,away,OffReb,,,OffReb,,N. Peković,
+214,2,2:45.0,46,44,HOU,MIN,3,away,LU,,0,miss2,0,N. Peković,
+215,2,2:44.0,46,44,HOU,MIN,1,away,OffReb,,,OffReb,,N. Peković,
+216,2,2:44.0,46,44,HOU,MIN,0,away,TI,block,0,miss2,0,N. Peković,J. Smith
+217,2,2:43.0,46,44,HOU,MIN,1,away,OffReb,,,OffReb,,G. Dieng,
+218,2,2:43.0,46,44,HOU,MIN,0,away,TI,,1,miss2,0,G. Dieng,
+219,2,2:40.0,46,44,HOU,MIN,3,away,OffReb,,,OffReb,,G. Dieng,
+220,2,2:32.0,46,46,HOU,MIN,8,away,JS,assist,21,make2,2,A. Wiggins,G. Dieng
+221,2,2:25.0,49,46,HOU,MIN,7,home,JS,assist,24,make3,3,J. Smith,J. Harden
+222,2,2:10.0,49,46,HOU,MIN,15,away,BadPass,steal,,turnover,,K. Martin,T. Ariza
+223,2,2:05.0,51,46,HOU,MIN,5,home,DK,assist,0,make2,2,T. Ariza,J. Terry
+224,2,1:50.0,51,48,HOU,MIN,15,away,LU,assist,2,make2,2,A. Wiggins,R. Rubio
+225,2,1:36.0,51,48,HOU,MIN,14,home,JS,,25,miss3,0,J. Smith,
+226,2,1:33.0,51,48,HOU,MIN,3,away,DefReb,,,DefReb,,Team,
+227,2,1:26.0,51,48,HOU,MIN,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Terry,R. Rubio
+228,2,1:21.0,51,50,HOU,MIN,5,away,JS,,15,make2,2,R. Rubio,
+229,2,1:02.0,51,50,HOU,MIN,19,home,LU,,2,miss2,0,J. Smith,
+230,2,1:01.0,51,50,HOU,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
+231,2,0:57.0,51,50,HOU,MIN,4,away,BadPass,steal,,turnover,,R. Rubio,T. Jones
+232,2,0:48.0,51,50,HOU,MIN,9,home,BadPass,steal,,turnover,,J. Harden,K. Martin
+233,2,0:46.0,51,52,HOU,MIN,2,away,LU,,1,make2,2,K. Martin,
+234,2,0:46.0,51,52,HOU,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Terry,K. Martin
+235,2,0:46.0,51,52,HOU,MIN,0,home,TechnicalFoul,,,TechnicalFoul,,J. Terry,
+236,2,0:46.0,51,53,HOU,MIN,0,away,FreeThrow,,,make1,1,K. Martin makes technical free throw,
+237,2,0:46.0,51,53,HOU,MIN,0,home,Sub,,,,,C. Brewer,T. Ariza
+238,2,0:46.0,51,53,HOU,MIN,0,home,Sub,,,,,P. Prigioni,J. Terry
+239,2,0:46.0,51,53,HOU,MIN,0,away,Sub,,,,,A. Payne,A. Wiggins
+240,2,0:46.0,51,53,HOU,MIN,0,away,Sub,,,,,C. Budinger,G. Dieng
+241,2,0:46.0,51,54,HOU,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+242,2,0:34.0,53,54,HOU,MIN,12,home,LU,,1,make2,2,J. Harden,
+243,2,0:15.0,53,54,HOU,MIN,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Prigioni,R. Rubio
+244,2,0:15.0,53,55,HOU,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+245,2,0:15.0,53,56,HOU,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+246,2,0:00.0,56,56,HOU,MIN,15,home,JS,,25,make3,3,J. Harden,
+247,3,11:45.0,58,56,HOU,MIN,15,home,LU,assist,2,make2,2,D. Motiejūnas,J. Harden
+248,3,11:27.0,58,56,HOU,MIN,18,away,JS,,10,miss2,0,A. Payne,
+249,3,11:25.0,58,56,HOU,MIN,2,away,OffReb,,,OffReb,,A. Payne,
+250,3,11:16.0,58,56,HOU,MIN,9,away,JS,,22,miss2,0,A. Wiggins,
+251,3,11:14.0,58,56,HOU,MIN,2,home,DefReb,,,DefReb,,T. Ariza,
+252,3,11:04.0,58,56,HOU,MIN,10,home,LU,,2,miss2,0,D. Motiejūnas,
+253,3,11:02.0,58,56,HOU,MIN,2,away,DefReb,,,DefReb,,A. Payne,
+254,3,10:53.0,58,56,HOU,MIN,9,away,JS,,8,miss2,0,A. Payne,
+255,3,10:52.0,58,56,HOU,MIN,1,home,DefReb,,,DefReb,,J. Harden,
+256,3,10:38.0,60,56,HOU,MIN,14,home,JS,assist,11,make2,2,D. Motiejūnas,T. Ariza
+257,3,10:19.0,60,56,HOU,MIN,19,away,JS,,22,miss3,0,K. Martin,
+258,3,10:17.0,60,56,HOU,MIN,2,away,OffReb,,,OffReb,,N. Peković,
+259,3,10:13.0,60,59,HOU,MIN,4,away,JS,assist,22,make3,3,K. Martin,R. Rubio
+260,3,9:58.0,60,59,HOU,MIN,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Martin,T. Jones
+261,3,9:58.0,60,59,HOU,MIN,0,home,FreeThrow,,,make1,0,T. Jones,
+262,3,9:58.0,60,59,HOU,MIN,0,home,OffReb,,,OffReb,,Team,
+263,3,9:58.0,60,59,HOU,MIN,0,away,Sub,,,,,G. Dieng,A. Payne
+264,3,9:58.0,60,59,HOU,MIN,0,home,FreeThrow,,,make1,0,T. Jones,
+265,3,9:58.0,60,59,HOU,MIN,0,away,DefReb,,,DefReb,,N. Peković,
+266,3,9:41.0,60,59,HOU,MIN,17,away,JS,,25,miss3,0,A. Wiggins,
+267,3,9:40.0,60,59,HOU,MIN,1,away,OffReb,,,OffReb,,Team,
+268,3,9:29.0,60,59,HOU,MIN,11,away,HS,,4,miss2,0,N. Peković,
+269,3,9:24.0,60,59,HOU,MIN,5,away,OffReb,,,OffReb,,N. Peković,
+270,3,9:22.0,60,59,HOU,MIN,2,away,LU,block,0,miss2,0,N. Peković,J. Harden
+271,3,9:19.0,60,59,HOU,MIN,3,home,DefReb,,,DefReb,,J. Terry,
+272,3,9:16.0,60,59,HOU,MIN,3,home,LU,,1,miss2,0,J. Harden,
+273,3,9:13.0,60,59,HOU,MIN,3,away,DefReb,,,DefReb,,N. Peković,
+274,3,9:10.0,60,59,HOU,MIN,3,away,Traveling,,,turnover,,A. Wiggins,
+275,3,8:52.0,60,59,HOU,MIN,18,home,JS,,8,miss2,0,D. Motiejūnas,
+276,3,8:51.0,60,59,HOU,MIN,1,away,DefReb,,,DefReb,,N. Peković,
+277,3,8:40.0,60,59,HOU,MIN,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harden,N. Peković
+278,3,8:40.0,60,61,HOU,MIN,0,away,LU,assist,0,make2,2,N. Peković,G. Dieng
+279,3,8:40.0,60,61,HOU,MIN,0,home,Timeout,,,,,,
+280,3,8:40.0,60,62,HOU,MIN,0,away,FreeThrow,,,make1,1,N. Peković,
+281,3,8:28.0,60,62,HOU,MIN,12,home,BadPass,,,turnover,,D. Motiejūnas,
+282,3,8:14.0,60,62,HOU,MIN,14,away,JS,,4,miss2,0,N. Peković,
+283,3,8:12.0,60,62,HOU,MIN,2,home,DefReb,,,DefReb,,D. Motiejūnas,
+284,3,8:09.0,62,62,HOU,MIN,3,home,LU,assist,2,make2,2,T. Jones,J. Harden
+285,3,8:09.0,62,62,HOU,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rubio,T. Jones
+286,3,8:09.0,63,62,HOU,MIN,0,home,FreeThrow,,,make1,1,T. Jones,
+287,3,7:54.0,63,62,HOU,MIN,15,away,JS,,1,miss2,0,A. Wiggins,
+288,3,7:53.0,63,62,HOU,MIN,1,away,OffReb,,,OffReb,,A. Wiggins,
+289,3,7:53.0,63,62,HOU,MIN,0,away,TI,,1,miss2,0,A. Wiggins,
+290,3,7:52.0,63,62,HOU,MIN,1,home,DefReb,,,DefReb,,T. Ariza,
+291,3,7:46.0,63,62,HOU,MIN,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Martin,J. Harden
+292,3,7:46.0,63,62,HOU,MIN,0,home,FreeThrow,,,make1,0,J. Harden,
+293,3,7:46.0,63,62,HOU,MIN,0,home,OffReb,,,OffReb,,Team,
+294,3,7:46.0,64,62,HOU,MIN,0,home,FreeThrow,,,make1,1,J. Harden,
+295,3,7:26.0,64,62,HOU,MIN,20,away,JS,,24,miss3,0,R. Rubio,
+296,3,7:25.0,64,62,HOU,MIN,1,away,OffReb,,,OffReb,,N. Peković,
+297,3,7:18.0,64,62,HOU,MIN,7,away,JS,,22,miss3,0,R. Rubio,
+298,3,7:17.0,64,62,HOU,MIN,1,home,DefReb,,,DefReb,,T. Jones,
+299,3,7:11.0,67,62,HOU,MIN,6,home,JS,assist,25,make3,3,J. Terry,J. Harden
+300,3,6:48.0,67,62,HOU,MIN,23,away,HS,,10,miss2,0,N. Peković,
+301,3,6:46.0,67,62,HOU,MIN,2,home,DefReb,,,DefReb,,J. Terry,
+302,3,6:41.0,67,62,HOU,MIN,5,home,LostBall,,,turnover,,J. Harden,
+303,3,6:24.0,67,62,HOU,MIN,17,away,JS,,16,miss2,0,G. Dieng,
+304,3,6:23.0,67,62,HOU,MIN,1,home,DefReb,,,DefReb,,D. Motiejūnas,
+305,3,6:18.0,67,62,HOU,MIN,5,home,BadPass,steal,,turnover,,T. Jones,G. Dieng
+306,3,6:12.0,67,62,HOU,MIN,6,away,JS,,24,miss3,0,K. Martin,
+307,3,6:10.0,67,62,HOU,MIN,2,away,OffReb,,,OffReb,,G. Dieng,
+308,3,6:10.0,67,62,HOU,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Terry,G. Dieng
+309,3,6:10.0,67,63,HOU,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
+310,3,6:10.0,67,63,HOU,MIN,0,home,Sub,,,,,J. Smith,D. Motiejūnas
+311,3,6:10.0,67,63,HOU,MIN,0,home,Sub,,,,,P. Prigioni,J. Terry
+312,3,6:10.0,67,63,HOU,MIN,0,away,Sub,,,,,A. Payne,N. Peković
+313,3,6:10.0,67,63,HOU,MIN,0,away,FreeThrow,,,make1,0,G. Dieng,
+314,3,6:10.0,67,63,HOU,MIN,0,home,DefReb,,,DefReb,,J. Harden,
+315,3,6:00.0,69,63,HOU,MIN,10,home,HS,assist,7,make2,2,J. Smith,J. Harden
+316,3,5:45.0,69,63,HOU,MIN,15,home,ChargeFoul,DrawnBy,,ChargeFoul,,A. Wiggins,T. Jones
+317,3,5:45.0,69,63,HOU,MIN,0,away,OffensiveFoul,,,turnover,,A. Wiggins,
+318,3,5:45.0,69,63,HOU,MIN,0,away,Timeout,,,,,,
+319,3,5:34.0,69,63,HOU,MIN,11,home,JS,,25,miss3,0,P. Prigioni,
+320,3,5:32.0,69,63,HOU,MIN,2,away,DefReb,,,DefReb,,A. Wiggins,
+321,3,5:18.0,69,63,HOU,MIN,14,away,JS,,20,miss2,0,K. Martin,
+322,3,5:17.0,69,63,HOU,MIN,1,home,DefReb,,,DefReb,,T. Jones,
+323,3,5:11.0,69,63,HOU,MIN,6,home,LU,,1,miss2,0,J. Harden,
+324,3,5:09.0,69,63,HOU,MIN,2,away,DefReb,,,DefReb,,G. Dieng,
+325,3,5:02.0,69,63,HOU,MIN,7,away,LU,,2,miss2,0,A. Wiggins,
+326,3,5:01.0,69,63,HOU,MIN,1,home,DefReb,,,DefReb,,J. Harden,
+327,3,4:43.0,72,63,HOU,MIN,18,home,JS,,25,make3,3,J. Harden,
+328,3,4:22.0,72,63,HOU,MIN,21,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Smith,K. Martin
+329,3,4:13.0,72,63,HOU,MIN,9,away,JS,,21,miss2,0,A. Wiggins,
+330,3,4:13.0,72,63,HOU,MIN,0,away,OffReb,,,OffReb,,Team,
+331,3,4:13.0,72,63,HOU,MIN,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Harden,A. Payne
+332,3,4:04.0,72,63,HOU,MIN,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Jones,G. Dieng
+333,3,4:04.0,72,64,HOU,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
+334,3,4:04.0,72,64,HOU,MIN,0,away,Sub,,,,,Z. LaVine,K. Martin
+335,3,4:04.0,72,65,HOU,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
+336,3,3:56.0,72,65,HOU,MIN,8,home,JS,,25,miss3,0,T. Ariza,
+337,3,3:54.0,72,65,HOU,MIN,2,away,DefReb,,,DefReb,,G. Dieng,
+338,3,3:46.0,72,65,HOU,MIN,8,away,JS,,4,miss2,0,A. Payne,
+339,3,3:45.0,72,65,HOU,MIN,1,home,DefReb,,,DefReb,,J. Harden,
+340,3,3:45.0,72,65,HOU,MIN,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dieng,J. Harden
+341,3,3:45.0,72,65,HOU,MIN,0,home,Sub,,,,,C. Brewer,T. Ariza
+342,3,3:45.0,72,65,HOU,MIN,0,home,Sub,,,,,D. Motiejūnas,T. Jones
+343,3,3:28.0,72,65,HOU,MIN,17,home,JS,,11,miss2,0,C. Brewer,
+344,3,3:25.0,72,65,HOU,MIN,3,home,OffReb,,,OffReb,,J. Harden,
+345,3,3:21.0,72,65,HOU,MIN,4,home,LostBall,steal,,turnover,,D. Motiejūnas,R. Rubio
+346,3,3:17.0,72,65,HOU,MIN,4,away,BadPass,steal,,turnover,,R. Rubio,J. Smith
+347,3,3:12.0,72,65,HOU,MIN,5,home,JS,,26,miss3,0,P. Prigioni,
+348,3,3:09.0,72,65,HOU,MIN,3,home,OffReb,,,OffReb,,P. Prigioni,
+349,3,3:05.0,72,65,HOU,MIN,4,home,JS,,24,miss3,0,J. Smith,
+350,3,3:04.0,72,65,HOU,MIN,1,home,OffReb,,,OffReb,,C. Brewer,
+351,3,3:00.0,75,65,HOU,MIN,4,home,JS,assist,26,make3,3,J. Harden,C. Brewer
+352,3,2:38.0,75,68,HOU,MIN,22,away,JS,assist,24,make3,3,A. Payne,R. Rubio
+353,3,2:24.0,75,68,HOU,MIN,14,home,BadPass,steal,,turnover,,C. Brewer,A. Wiggins
+354,3,2:20.0,75,70,HOU,MIN,4,away,LU,,1,make2,2,A. Wiggins,
+355,3,2:05.0,75,70,HOU,MIN,15,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,G. Dieng,D. Motiejūnas
+356,3,2:05.0,76,70,HOU,MIN,0,home,FreeThrow,,,make1,1,D. Motiejūnas,
+357,3,2:05.0,76,70,HOU,MIN,0,away,Sub,,,,,N. Peković,G. Dieng
+358,3,2:05.0,76,70,HOU,MIN,0,home,FreeThrow,,,make1,0,D. Motiejūnas,
+359,3,2:05.0,76,70,HOU,MIN,0,away,DefReb,,,DefReb,,R. Rubio,
+360,3,2:04.0,76,70,HOU,MIN,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Brewer,R. Rubio
+361,3,2:04.0,76,71,HOU,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+362,3,2:04.0,76,72,HOU,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+363,3,1:52.0,76,72,HOU,MIN,12,home,LU,,2,miss2,0,C. Brewer,
+364,3,1:51.0,76,72,HOU,MIN,1,home,OffReb,,,OffReb,,C. Brewer,
+365,3,1:51.0,76,72,HOU,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Peković,C. Brewer
+366,3,1:51.0,77,72,HOU,MIN,0,home,FreeThrow,,,make1,1,C. Brewer,
+367,3,1:51.0,78,72,HOU,MIN,0,home,FreeThrow,,,make1,1,C. Brewer,
+368,3,1:36.0,78,72,HOU,MIN,15,away,JS,,24,miss3,0,A. Payne,
+369,3,1:34.0,78,72,HOU,MIN,2,away,OffReb,,,OffReb,,A. Wiggins,
+370,3,1:29.0,78,72,HOU,MIN,5,away,LostBall,steal,,turnover,,A. Wiggins,J. Harden
+371,3,1:25.0,78,72,HOU,MIN,4,home,LU,,2,miss2,0,J. Smith,
+372,3,1:23.0,78,72,HOU,MIN,2,away,DefReb,,,DefReb,,Z. LaVine,
+373,3,1:16.0,78,72,HOU,MIN,7,away,HS,,4,miss2,0,N. Peković,
+374,3,1:15.0,78,72,HOU,MIN,1,away,OffReb,,,OffReb,,A. Payne,
+375,3,1:15.0,78,72,HOU,MIN,0,away,LU,,1,miss2,0,A. Payne,
+376,3,1:12.0,78,72,HOU,MIN,3,away,OffReb,,,OffReb,,A. Wiggins,
+377,3,1:12.0,78,72,HOU,MIN,0,away,LU,,2,miss2,0,A. Wiggins,
+378,3,1:12.0,78,72,HOU,MIN,0,away,OffReb,,,OffReb,,A. Payne,
+379,3,1:12.0,78,72,HOU,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,A. Payne
+380,3,1:12.0,78,72,HOU,MIN,0,away,FreeThrow,,,make1,0,A. Payne,
+381,3,1:12.0,78,72,HOU,MIN,0,away,OffReb,,,OffReb,,Team,
+382,3,1:12.0,78,72,HOU,MIN,0,away,TechnicalFoul,,,TechnicalFoul,,A. Wiggins,
+383,3,1:12.0,79,72,HOU,MIN,0,home,FreeThrow,,,make1,1,J. Harden makes technical free throw,
+384,3,1:12.0,79,73,HOU,MIN,0,away,FreeThrow,,,make1,1,A. Payne,
+385,3,1:04.0,79,73,HOU,MIN,8,home,JS,,25,miss3,0,J. Harden,
+386,3,1:03.0,79,73,HOU,MIN,1,away,DefReb,,,DefReb,,Z. LaVine,
+387,3,0:42.0,79,73,HOU,MIN,21,away,JS,,19,miss2,0,Z. LaVine,
+388,3,0:41.0,79,73,HOU,MIN,1,away,OffReb,,,OffReb,,N. Peković,
+389,3,0:38.0,79,73,HOU,MIN,3,away,LU,,1,miss2,0,N. Peković,
+390,3,0:36.0,79,73,HOU,MIN,2,home,DefReb,,,DefReb,,C. Brewer,
+391,3,0:34.0,81,73,HOU,MIN,2,home,LU,,1,make2,2,C. Brewer,
+392,3,0:27.0,81,73,HOU,MIN,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Prigioni,R. Rubio
+393,3,0:27.0,81,74,HOU,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+394,3,0:27.0,81,74,HOU,MIN,0,away,Sub,,,,,C. Budinger,A. Wiggins
+395,3,0:27.0,81,75,HOU,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+396,3,0:04.0,84,75,HOU,MIN,23,home,JS,,24,make3,3,J. Harden,
+397,3,0:00.0,84,75,HOU,MIN,4,away,JS,,41,miss3,0,Z. LaVine,
+398,3,0:00.0,84,75,HOU,MIN,0,away,OffReb,,,OffReb,,Team,
+399,4,11:37.0,84,75,HOU,MIN,23,away,JS,,22,miss2,0,K. Martin,
+400,4,11:35.0,84,75,HOU,MIN,2,home,DefReb,,,DefReb,,T. Ariza,
+401,4,11:23.0,86,75,HOU,MIN,12,home,HS,assist,4,make2,2,J. Smith,T. Ariza
+402,4,11:08.0,86,75,HOU,MIN,15,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Smith,K. Martin
+403,4,10:59.0,86,77,HOU,MIN,9,away,LU,,3,make2,2,N. Peković,
+404,4,10:59.0,86,77,HOU,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Motiejūnas,N. Peković
+405,4,10:59.0,86,78,HOU,MIN,0,away,FreeThrow,,,make1,1,N. Peković,
+406,4,10:36.0,86,78,HOU,MIN,23,home,ShootingFoul,DrawnBy,,ShootingFoul,,Z. LaVine,C. Brewer
+407,4,10:36.0,87,78,HOU,MIN,0,home,FreeThrow,,,make1,1,C. Brewer,
+408,4,10:36.0,87,78,HOU,MIN,0,home,FreeThrow,,,make1,0,C. Brewer,
+409,4,10:36.0,87,78,HOU,MIN,0,home,OffReb,,,OffReb,,J. Smith,
+410,4,10:31.0,87,78,HOU,MIN,5,home,JS,,6,miss2,0,C. Brewer,
+411,4,10:29.0,87,78,HOU,MIN,2,away,DefReb,,,DefReb,,A. Payne,
+412,4,10:11.0,87,78,HOU,MIN,18,away,JS,,19,miss2,0,A. Payne,
+413,4,10:09.0,87,78,HOU,MIN,2,home,DefReb,,,DefReb,,D. Motiejūnas,
+414,4,9:54.0,90,78,HOU,MIN,15,home,JS,assist,25,make3,3,J. Smith,P. Prigioni
+415,4,9:36.0,90,78,HOU,MIN,18,away,LostBall,steal,,turnover,,K. Martin,T. Ariza
+416,4,9:30.0,92,78,HOU,MIN,6,home,LU,assist,2,make2,2,P. Prigioni,C. Brewer
+417,4,9:30.0,92,78,HOU,MIN,0,away,Timeout,,,,,,
+418,4,9:30.0,92,78,HOU,MIN,0,away,Sub,,,,,G. Dieng,A. Payne
+419,4,9:30.0,92,78,HOU,MIN,0,away,Sub,,,,,R. Rubio,C. Budinger
+420,4,9:30.0,92,78,HOU,MIN,0,away,Sub,,,,,A. Wiggins,Z. LaVine
+421,4,9:09.0,92,78,HOU,MIN,21,away,HS,,8,miss2,0,N. Peković,
+422,4,9:09.0,92,78,HOU,MIN,0,away,OffReb,,,OffReb,,Team,
+423,4,9:09.0,92,78,HOU,MIN,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Motiejūnas,G. Dieng
+424,4,8:54.0,92,78,HOU,MIN,15,away,JS,,18,miss2,0,K. Martin,
+425,4,8:52.0,92,78,HOU,MIN,2,home,DefReb,,,DefReb,,C. Brewer,
+426,4,8:47.0,92,78,HOU,MIN,5,home,BadPass,steal,,turnover,,C. Brewer,R. Rubio
+427,4,8:41.0,92,81,HOU,MIN,6,away,JS,assist,25,make3,3,K. Martin,R. Rubio
+428,4,8:21.0,92,81,HOU,MIN,20,home,JS,,5,miss2,0,D. Motiejūnas,
+429,4,8:19.0,92,81,HOU,MIN,2,away,DefReb,,,DefReb,,G. Dieng,
+430,4,8:10.0,92,81,HOU,MIN,9,away,HS,,8,miss2,0,N. Peković,
+431,4,8:08.0,92,81,HOU,MIN,2,home,DefReb,,,DefReb,,T. Ariza,
+432,4,8:02.0,92,81,HOU,MIN,6,home,Traveling,,,turnover,,J. Smith,
+433,4,7:52.0,92,81,HOU,MIN,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Brewer,A. Wiggins
+434,4,7:52.0,92,82,HOU,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
+435,4,7:52.0,92,82,HOU,MIN,0,home,Sub,,,,,T. Jones,D. Motiejūnas
+436,4,7:52.0,92,82,HOU,MIN,0,away,Sub,,,,,A. Payne,N. Peković
+437,4,7:52.0,92,83,HOU,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
+438,4,7:41.0,92,83,HOU,MIN,11,home,Traveling,,,turnover,,C. Brewer,
+439,4,7:41.0,92,83,HOU,MIN,0,home,Sub,,,,,J. Harden,C. Brewer
+440,4,7:31.0,92,85,HOU,MIN,10,away,JS,,16,make2,2,A. Wiggins,
+441,4,7:06.0,92,85,HOU,MIN,25,home,JS,,4,miss2,0,J. Harden,
+442,4,7:05.0,92,85,HOU,MIN,1,home,OffReb,,,OffReb,,T. Jones,
+443,4,7:02.0,92,85,HOU,MIN,3,home,LU,,2,miss2,0,T. Jones,
+444,4,7:01.0,92,85,HOU,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
+445,4,6:57.0,92,85,HOU,MIN,4,away,JS,,17,miss2,0,K. Martin,
+446,4,6:54.0,92,85,HOU,MIN,3,away,OffReb,,,OffReb,,G. Dieng,
+447,4,6:52.0,92,85,HOU,MIN,2,away,JS,,24,miss3,0,K. Martin,
+448,4,6:48.0,92,85,HOU,MIN,4,home,DefReb,,,DefReb,,J. Harden,
+449,4,6:43.0,92,85,HOU,MIN,5,home,JS,,5,miss2,0,J. Smith,
+450,4,6:42.0,92,85,HOU,MIN,1,home,OffReb,,,OffReb,,T. Jones,
+451,4,6:41.0,92,85,HOU,MIN,1,home,LU,,2,miss2,0,J. Smith,
+452,4,6:37.0,92,85,HOU,MIN,4,away,DefReb,,,DefReb,,A. Payne,
+453,4,6:28.0,92,85,HOU,MIN,9,away,JS,,20,miss2,0,R. Rubio,
+454,4,6:27.0,92,85,HOU,MIN,1,home,DefReb,,,DefReb,,T. Jones,
+455,4,6:21.0,92,85,HOU,MIN,6,home,JS,,25,miss3,0,T. Ariza,
+456,4,6:19.0,92,85,HOU,MIN,2,away,DefReb,,,DefReb,,A. Wiggins,
+457,4,6:12.0,92,88,HOU,MIN,7,away,JS,assist,24,make3,3,A. Wiggins,G. Dieng
+458,4,6:12.0,92,88,HOU,MIN,0,home,Timeout,,,,,,
+459,4,6:12.0,92,88,HOU,MIN,0,home,Sub,,,,,J. Terry,P. Prigioni
+460,4,5:50.0,92,88,HOU,MIN,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Wiggins,J. Harden
+461,4,5:50.0,93,88,HOU,MIN,0,home,FreeThrow,,,make1,1,J. Harden,
+462,4,5:50.0,94,88,HOU,MIN,0,home,FreeThrow,,,make1,1,J. Harden,
+463,4,5:35.0,94,88,HOU,MIN,15,away,JS,,5,miss2,0,A. Wiggins,
+464,4,5:32.0,94,88,HOU,MIN,3,home,DefReb,,,DefReb,,J. Harden,
+465,4,5:26.0,94,88,HOU,MIN,6,home,JS,,25,miss3,0,J. Smith,
+466,4,5:24.0,94,88,HOU,MIN,2,away,DefReb,,,DefReb,,K. Martin,
+467,4,5:18.0,94,88,HOU,MIN,6,away,JS,,7,miss2,0,K. Martin,
+468,4,5:16.0,94,88,HOU,MIN,2,home,DefReb,,,DefReb,,J. Terry,
+469,4,5:10.0,94,88,HOU,MIN,6,home,JS,,26,miss3,0,T. Ariza,
+470,4,5:09.0,94,88,HOU,MIN,1,away,DefReb,,,DefReb,,A. Payne,
+471,4,5:09.0,94,88,HOU,MIN,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Jones,A. Payne
+472,4,5:09.0,94,88,HOU,MIN,0,away,FreeThrow,,,make1,0,A. Payne,
+473,4,5:09.0,94,88,HOU,MIN,0,away,OffReb,,,OffReb,,Team,
+474,4,5:09.0,94,89,HOU,MIN,0,away,FreeThrow,,,make1,1,A. Payne,
+475,4,4:56.0,97,89,HOU,MIN,13,home,JS,assist,25,make3,3,J. Terry,J. Smith
+476,4,4:27.0,97,89,HOU,MIN,29,away,LU,,4,miss2,0,A. Payne,
+477,4,4:26.0,97,89,HOU,MIN,1,home,DefReb,,,DefReb,,J. Smith,
+478,4,4:08.0,97,89,HOU,MIN,18,home,JS,,15,miss2,0,J. Harden,
+479,4,4:06.0,97,89,HOU,MIN,2,away,DefReb,,,DefReb,,R. Rubio,
+480,4,4:03.0,97,91,HOU,MIN,3,away,LU,assist,0,make2,2,A. Wiggins,R. Rubio
+481,4,4:03.0,97,91,HOU,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,A. Wiggins
+482,4,4:03.0,97,91,HOU,MIN,0,away,Sub,,,,,N. Peković,A. Payne
+483,4,4:03.0,97,92,HOU,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
+484,4,3:51.0,97,92,HOU,MIN,12,home,JS,,25,miss3,0,J. Smith,
+485,4,3:49.0,97,92,HOU,MIN,2,away,DefReb,,,DefReb,,R. Rubio,
+486,4,3:41.0,97,92,HOU,MIN,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Smith,R. Rubio
+487,4,3:41.0,97,92,HOU,MIN,0,home,Sub,,,,,D. Motiejūnas,J. Smith
+488,4,3:41.0,97,93,HOU,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+489,4,3:41.0,97,94,HOU,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+490,4,3:32.0,97,94,HOU,MIN,9,home,LostBall,,,turnover,,T. Ariza,
+491,4,3:21.0,97,94,HOU,MIN,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Motiejūnas,N. Peković
+492,4,3:21.0,97,95,HOU,MIN,0,away,FreeThrow,,,make1,1,N. Peković,
+493,4,3:21.0,97,96,HOU,MIN,0,away,FreeThrow,,,make1,1,N. Peković,
+494,4,3:06.0,97,96,HOU,MIN,15,home,JS,,22,miss3,0,J. Terry,
+495,4,3:05.0,97,96,HOU,MIN,1,home,OffReb,,,OffReb,,T. Jones,
+496,4,3:05.0,99,96,HOU,MIN,0,home,TI,,1,make2,2,T. Jones,
+497,4,2:51.0,99,96,HOU,MIN,14,away,JS,,21,miss2,0,R. Rubio,
+498,4,2:49.0,99,96,HOU,MIN,2,home,DefReb,,,DefReb,,T. Jones,
+499,4,2:42.0,99,96,HOU,MIN,7,home,JS,,18,miss2,0,J. Harden,
+500,4,2:40.0,99,96,HOU,MIN,2,home,OffReb,,,OffReb,,T. Jones,
+501,4,2:39.0,99,96,HOU,MIN,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dieng,T. Jones
+502,4,2:39.0,99,96,HOU,MIN,0,away,Timeout,,,,,,
+503,4,2:39.0,100,96,HOU,MIN,0,home,FreeThrow,,,make1,1,T. Jones,
+504,4,2:39.0,101,96,HOU,MIN,0,home,FreeThrow,,,make1,1,T. Jones,
+505,4,2:31.0,101,96,HOU,MIN,8,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,N. Peković,J. Harden
+506,4,2:31.0,101,96,HOU,MIN,0,away,OffensiveFoul,,,turnover,,N. Peković,
+507,4,2:10.0,104,96,HOU,MIN,21,home,JS,assist,23,make3,3,T. Ariza,D. Motiejūnas
+508,4,1:56.0,104,96,HOU,MIN,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ariza,K. Martin
+509,4,1:56.0,104,97,HOU,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+510,4,1:56.0,104,98,HOU,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+511,4,1:33.0,107,98,HOU,MIN,23,home,JS,,24,make3,3,J. Harden,
+512,4,1:33.0,107,98,HOU,MIN,0,away,Timeout,,,,,,
+513,4,1:33.0,107,98,HOU,MIN,0,away,Sub,,,,,Z. LaVine,G. Dieng
+514,4,1:33.0,107,98,HOU,MIN,0,home,Sub,,,,,C. Brewer,D. Motiejūnas
+515,4,1:27.0,107,98,HOU,MIN,6,away,HS,block,4,miss2,0,K. Martin,T. Jones
+516,4,1:26.0,107,98,HOU,MIN,1,away,OffReb,,,OffReb,,Team,
+517,4,1:21.0,107,98,HOU,MIN,5,away,BadPass,,,turnover,,K. Martin,
+518,4,1:01.0,107,98,HOU,MIN,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Wiggins,J. Harden
+519,4,1:01.0,108,98,HOU,MIN,0,home,FreeThrow,,,make1,1,J. Harden,
+520,4,1:01.0,108,98,HOU,MIN,0,home,FreeThrow,,,make1,0,J. Harden,
+521,4,1:01.0,108,98,HOU,MIN,0,home,OffReb,,,OffReb,,Team,
+522,4,1:01.0,109,98,HOU,MIN,0,home,FreeThrow,,,make1,1,J. Harden,
+523,4,1:01.0,109,98,HOU,MIN,0,away,Timeout,,,,,,
+524,4,1:00.0,109,98,HOU,MIN,1,away,BadPass,steal,,turnover,,R. Rubio,J. Terry
+525,4,0:55.0,109,98,HOU,MIN,5,home,JS,,3,miss2,0,C. Brewer,
+526,4,0:53.0,109,98,HOU,MIN,2,home,OffReb,,,OffReb,,T. Jones,
+527,4,0:53.0,109,98,HOU,MIN,0,home,TI,,1,miss2,0,C. Brewer,
+528,4,0:53.0,109,98,HOU,MIN,0,home,OffReb,,,OffReb,,C. Brewer,
+529,4,0:51.0,111,98,HOU,MIN,2,home,TI,,0,make2,2,T. Jones,
+530,4,0:48.0,111,98,HOU,MIN,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harden,A. Wiggins
+531,4,0:48.0,111,99,HOU,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
+532,4,0:48.0,111,99,HOU,MIN,0,home,Sub,,,,,K. McDaniels,J. Harden
+533,4,0:48.0,111,99,HOU,MIN,0,away,Sub,,,,,L. Brown,N. Peković
+534,4,0:48.0,111,99,HOU,MIN,0,away,Sub,,,,,G. Robinson,R. Rubio
+535,4,0:48.0,111,100,HOU,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
+536,4,0:31.0,111,100,HOU,MIN,17,home,JS,,8,miss2,0,K. McDaniels,
+537,4,0:30.0,111,100,HOU,MIN,1,home,OffReb,,,OffReb,,C. Brewer,
+538,4,0:30.0,113,100,HOU,MIN,0,home,LU,,2,make2,2,C. Brewer,
+539,4,0:16.0,113,102,HOU,MIN,14,away,LU,,1,make2,2,A. Wiggins,

@@ -1,0 +1,417 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:38.0,0,0,ORL,CHI,22,away,JS,,12,miss2,0,J. Butler,
+1,1,11:37.0,0,0,ORL,CHI,1,home,DefReb,,,DefReb,,E. Payton,
+2,1,11:26.0,0,0,ORL,CHI,11,home,HS,,5,miss2,0,B. Biyombo,
+3,1,11:25.0,0,0,ORL,CHI,1,away,DefReb,,,DefReb,,R. Lopez,
+4,1,11:11.0,0,0,ORL,CHI,14,away,JS,,20,miss2,0,J. Grant,
+5,1,11:10.0,0,0,ORL,CHI,1,home,DefReb,,,DefReb,,A. Gordon,
+6,1,10:59.0,3,0,ORL,CHI,11,home,JS,assist,25,make3,3,E. Fournier,E. Payton
+7,1,10:39.0,3,0,ORL,CHI,20,away,JS,,9,miss2,0,P. Zipser,
+8,1,10:37.0,3,0,ORL,CHI,2,home,DefReb,,,DefReb,,E. Payton,
+9,1,10:35.0,3,0,ORL,CHI,2,home,BadPass,,,turnover,,E. Payton,
+10,1,10:09.0,3,2,ORL,CHI,26,away,JS,,15,make2,2,J. Butler,
+11,1,9:47.0,3,2,ORL,CHI,22,home,JS,,6,miss2,0,B. Biyombo,
+12,1,9:45.0,3,2,ORL,CHI,2,away,DefReb,,,DefReb,,P. Zipser,
+13,1,9:43.0,3,2,ORL,CHI,2,away,BadPass,steal,,turnover,,P. Zipser,E. Payton
+14,1,9:39.0,5,2,ORL,CHI,4,home,LU,,1,make2,2,E. Payton,
+15,1,9:22.0,5,4,ORL,CHI,17,away,JS,assist,21,make2,2,R. Lopez,J. Grant
+16,1,9:01.0,5,4,ORL,CHI,21,home,JS,,5,miss2,0,B. Biyombo,
+17,1,9:00.0,5,4,ORL,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+18,1,8:51.0,5,4,ORL,CHI,9,away,BadPass,,,turnover,,J. Butler,
+19,1,8:38.0,7,4,ORL,CHI,13,home,LU,,1,make2,2,A. Gordon,
+20,1,8:17.0,7,4,ORL,CHI,21,away,JS,,23,miss3,0,B. Portis,
+21,1,8:16.0,7,4,ORL,CHI,1,home,DefReb,,,DefReb,,T. Ross,
+22,1,8:08.0,7,4,ORL,CHI,8,home,LU,,2,miss2,0,E. Fournier,
+23,1,8:06.0,7,4,ORL,CHI,2,away,DefReb,,,DefReb,,B. Portis,
+24,1,7:58.0,7,6,ORL,CHI,8,away,LU,assist,2,make2,2,B. Portis,J. Grant
+25,1,7:40.0,7,6,ORL,CHI,18,home,JS,,19,miss2,0,E. Payton,
+26,1,7:38.0,7,6,ORL,CHI,2,away,DefReb,,,DefReb,,J. Butler,
+27,1,7:25.0,7,9,ORL,CHI,13,away,JS,assist,25,make3,3,J. Grant,J. Butler
+28,1,7:09.0,7,9,ORL,CHI,16,home,JS,,19,miss2,0,E. Fournier,
+29,1,7:09.0,7,9,ORL,CHI,0,away,DefReb,,,DefReb,,P. Zipser,
+30,1,7:02.0,7,9,ORL,CHI,7,away,LU,block,1,miss2,0,P. Zipser,B. Biyombo
+31,1,7:00.0,7,9,ORL,CHI,2,home,DefReb,,,DefReb,,E. Fournier,
+32,1,6:58.0,7,9,ORL,CHI,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,A. Gordon
+33,1,6:58.0,7,9,ORL,CHI,0,home,FreeThrow,,,make1,0,A. Gordon,
+34,1,6:58.0,7,9,ORL,CHI,0,home,OffReb,,,OffReb,,Team,
+35,1,6:58.0,8,9,ORL,CHI,0,home,FreeThrow,,,make1,1,A. Gordon,
+36,1,6:43.0,8,9,ORL,CHI,15,away,LostBall,steal,,turnover,,J. Butler,E. Payton
+37,1,6:39.0,8,9,ORL,CHI,4,home,BadPass,steal,,turnover,,E. Payton,J. Grant
+38,1,6:18.0,8,9,ORL,CHI,21,away,JS,,21,miss2,0,P. Zipser,
+39,1,6:17.0,8,9,ORL,CHI,1,home,DefReb,,,DefReb,,B. Biyombo,
+40,1,6:07.0,8,9,ORL,CHI,10,home,JS,,8,miss2,0,B. Biyombo,
+41,1,6:07.0,8,9,ORL,CHI,0,home,OffReb,,,OffReb,,E. Payton,
+42,1,6:07.0,8,9,ORL,CHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Zipser,E. Payton
+43,1,6:07.0,9,9,ORL,CHI,0,home,FreeThrow,,,make1,1,E. Payton,
+44,1,6:07.0,9,9,ORL,CHI,0,away,Sub,,,,,D. Valentine,P. Zipser
+45,1,6:07.0,10,9,ORL,CHI,0,home,FreeThrow,,,make1,1,E. Payton,
+46,1,5:52.0,10,11,ORL,CHI,15,away,LU,assist,2,make2,2,J. Butler,R. Lopez
+47,1,5:43.0,10,11,ORL,CHI,9,home,Timeout,,,,,,
+48,1,5:36.0,10,11,ORL,CHI,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Valentine,E. Payton
+49,1,5:36.0,11,11,ORL,CHI,0,home,FreeThrow,,,make1,1,E. Payton,
+50,1,5:36.0,11,11,ORL,CHI,0,home,FreeThrow,,,make1,0,E. Payton,
+51,1,5:35.0,11,11,ORL,CHI,1,away,DefReb,,,DefReb,,B. Portis,
+52,1,5:25.0,11,11,ORL,CHI,10,away,BadPass,steal,,turnover,,B. Portis,E. Fournier
+53,1,5:19.0,11,11,ORL,CHI,6,home,LU,,2,miss2,0,E. Fournier,
+54,1,5:17.0,11,11,ORL,CHI,2,away,DefReb,,,DefReb,,D. Valentine,
+55,1,5:10.0,11,14,ORL,CHI,7,away,JS,,25,make3,3,D. Valentine,
+56,1,5:00.0,11,14,ORL,CHI,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Valentine,T. Ross
+57,1,5:00.0,11,14,ORL,CHI,0,away,Sub,,,,,R. Rondo,B. Portis
+58,1,5:00.0,11,14,ORL,CHI,0,away,Sub,,,,,J. Lauvergne,J. Grant
+59,1,4:50.0,13,14,ORL,CHI,10,home,JS,assist,18,make2,2,T. Ross,E. Payton
+60,1,4:25.0,13,14,ORL,CHI,25,away,LU,,1,miss2,0,J. Lauvergne,
+61,1,4:24.0,13,14,ORL,CHI,1,home,DefReb,,,DefReb,,E. Fournier,
+62,1,4:18.0,15,14,ORL,CHI,6,home,JS,,5,make2,2,E. Payton,
+63,1,3:50.0,15,14,ORL,CHI,28,away,HS,,9,miss2,0,R. Lopez,
+64,1,3:49.0,15,14,ORL,CHI,1,home,DefReb,,,DefReb,,E. Payton,
+65,1,3:43.0,17,14,ORL,CHI,6,home,LU,assist,1,make2,2,E. Fournier,E. Payton
+66,1,3:43.0,17,14,ORL,CHI,0,away,Timeout,,,,,,
+67,1,3:43.0,17,14,ORL,CHI,0,home,Sub,,,,,M. Hezonja,T. Ross
+68,1,3:30.0,17,14,ORL,CHI,13,away,JS,,9,miss2,0,R. Rondo,
+69,1,3:28.0,17,14,ORL,CHI,2,away,OffReb,,,OffReb,,R. Rondo,
+70,1,3:27.0,17,14,ORL,CHI,1,away,LU,block,1,miss2,0,R. Rondo,E. Payton
+71,1,3:24.0,17,14,ORL,CHI,3,home,DefReb,,,DefReb,,E. Fournier,
+72,1,3:21.0,17,14,ORL,CHI,3,home,LU,,1,miss2,0,A. Gordon,
+73,1,3:19.0,17,14,ORL,CHI,2,away,DefReb,,,DefReb,,R. Lopez,
+74,1,3:13.0,17,14,ORL,CHI,6,away,JS,,24,miss3,0,D. Valentine,
+75,1,3:12.0,17,14,ORL,CHI,1,home,DefReb,,,DefReb,,M. Hezonja,
+76,1,2:52.0,17,14,ORL,CHI,20,home,JS,,3,miss2,0,B. Biyombo,
+77,1,2:49.0,17,14,ORL,CHI,3,away,DefReb,,,DefReb,,R. Lopez,
+78,1,2:41.0,17,14,ORL,CHI,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Hezonja,J. Butler
+79,1,2:41.0,17,15,ORL,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+80,1,2:41.0,17,15,ORL,CHI,0,away,FreeThrow,,,make1,0,J. Butler,
+81,1,2:41.0,17,15,ORL,CHI,0,home,Sub,,,,,D. Augustin,A. Gordon
+82,1,2:41.0,17,15,ORL,CHI,0,home,Sub,,,,,J. Green,E. Payton
+83,1,2:39.0,17,15,ORL,CHI,2,home,DefReb,,,DefReb,,J. Green,
+84,1,2:25.0,19,15,ORL,CHI,14,home,JS,,20,make2,2,M. Hezonja,
+85,1,2:08.0,19,18,ORL,CHI,17,away,JS,assist,25,make3,3,J. Lauvergne,J. Butler
+86,1,1:44.0,19,18,ORL,CHI,24,home,JS,,23,miss3,0,M. Hezonja,
+87,1,1:43.0,19,18,ORL,CHI,1,away,DefReb,,,DefReb,,R. Rondo,
+88,1,1:24.0,19,20,ORL,CHI,19,away,LU,assist,1,make2,2,J. Lauvergne,R. Rondo
+89,1,1:05.0,19,20,ORL,CHI,19,home,JS,,6,miss2,0,E. Fournier,
+90,1,1:04.0,19,20,ORL,CHI,1,away,DefReb,,,DefReb,,J. Lauvergne,
+91,1,1:01.0,19,20,ORL,CHI,3,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Augustin,J. Butler
+92,1,1:01.0,19,21,ORL,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+93,1,1:01.0,19,21,ORL,CHI,0,home,Sub,,,,,C. Watson,E. Fournier
+94,1,1:01.0,19,22,ORL,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
+95,1,0:48.0,19,22,ORL,CHI,13,home,LostBall,,,turnover,,M. Hezonja,
+96,1,0:33.0,19,22,ORL,CHI,15,away,JS,,26,miss3,0,J. Butler,
+97,1,0:32.0,19,22,ORL,CHI,1,home,DefReb,,,DefReb,,C. Watson,
+98,1,0:21.0,19,22,ORL,CHI,11,home,LU,,3,miss2,0,J. Green,
+99,1,0:18.0,19,22,ORL,CHI,3,away,DefReb,,,DefReb,,D. Valentine,
+100,1,0:01.0,19,22,ORL,CHI,17,away,JS,,26,miss3,0,D. Valentine,
+101,1,0:00.0,19,22,ORL,CHI,1,home,DefReb,,,DefReb,,M. Hezonja,
+102,2,11:43.0,22,22,ORL,CHI,17,home,JS,assist,25,make3,3,D. Augustin,M. Hezonja
+103,2,11:27.0,22,22,ORL,CHI,16,away,LU,,3,miss2,0,C. Felício,
+104,2,11:26.0,22,22,ORL,CHI,1,away,OffReb,,,OffReb,,Team,
+105,2,11:20.0,22,25,ORL,CHI,6,away,JS,,24,make3,3,R. Rondo,
+106,2,11:02.0,22,25,ORL,CHI,18,home,JS,,26,miss3,0,D. Augustin,
+107,2,11:00.0,22,25,ORL,CHI,2,home,OffReb,,,OffReb,,J. Green,
+108,2,10:39.0,22,25,ORL,CHI,21,home,JS,,26,miss3,0,J. Green,
+109,2,10:38.0,22,25,ORL,CHI,1,away,DefReb,,,DefReb,,D. Valentine,
+110,2,10:29.0,22,25,ORL,CHI,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,J. Lauvergne
+111,2,10:29.0,22,25,ORL,CHI,0,away,FreeThrow,,,make1,0,J. Lauvergne,
+112,2,10:29.0,22,25,ORL,CHI,0,away,OffReb,,,OffReb,,Team,
+113,2,10:29.0,22,26,ORL,CHI,0,away,FreeThrow,,,make1,1,J. Lauvergne,
+114,2,10:20.0,24,26,ORL,CHI,9,home,JS,,17,make2,2,C. Watson,
+115,2,10:00.0,24,28,ORL,CHI,20,away,LU,assist,1,make2,2,C. Felício,R. Rondo
+116,2,9:47.0,24,28,ORL,CHI,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lauvergne,J. Green
+117,2,9:33.0,24,28,ORL,CHI,14,home,ShotClockViolation,,,turnover,,Team,
+118,2,9:23.0,24,30,ORL,CHI,10,away,DK,assist,0,make2,2,C. Felício,R. Rondo
+119,2,9:22.0,24,30,ORL,CHI,1,home,Timeout,,,,,,
+120,2,9:09.0,24,30,ORL,CHI,13,home,JS,,26,miss3,0,J. Green,
+121,2,9:07.0,24,30,ORL,CHI,2,away,DefReb,,,DefReb,,J. Lauvergne,
+122,2,8:46.0,24,30,ORL,CHI,21,away,BadPass,steal,,turnover,,D. Valentine,J. Green
+123,2,8:37.0,24,30,ORL,CHI,9,home,JS,,19,miss2,0,C. Watson,
+124,2,8:34.0,24,30,ORL,CHI,3,away,DefReb,,,DefReb,,C. Felício,
+125,2,8:12.0,24,32,ORL,CHI,22,away,LU,assist,1,make2,2,C. Felício,J. Lauvergne
+126,2,7:52.0,24,32,ORL,CHI,20,home,JS,,16,miss2,0,S. Zimmerman,
+127,2,7:51.0,24,32,ORL,CHI,1,home,OffReb,,,OffReb,,J. Green,
+128,2,7:43.0,24,32,ORL,CHI,8,home,JS,,23,miss3,0,J. Green,
+129,2,7:42.0,24,32,ORL,CHI,1,away,DefReb,,,DefReb,,D. Valentine,
+130,2,7:27.0,24,32,ORL,CHI,15,away,JS,,27,miss3,0,D. Valentine,
+131,2,7:24.0,24,32,ORL,CHI,3,away,OffReb,,,OffReb,,J. Lauvergne,
+132,2,7:19.0,24,34,ORL,CHI,5,away,LU,assist,2,make2,2,C. Payne,J. Lauvergne
+133,2,7:18.0,24,34,ORL,CHI,1,home,Timeout,,,,,,
+134,2,7:18.0,24,34,ORL,CHI,0,home,Sub,,,,,E. Payton,D. Augustin
+135,2,7:18.0,24,34,ORL,CHI,0,home,Sub,,,,,B. Biyombo,C. Watson
+136,2,7:18.0,24,34,ORL,CHI,0,home,Sub,,,,,T. Ross,S. Zimmerman
+137,2,7:00.0,26,34,ORL,CHI,18,home,DK,assist,0,make2,2,B. Biyombo,E. Payton
+138,2,6:45.0,26,34,ORL,CHI,15,away,BadPass,,,turnover,,R. Rondo,
+139,2,6:30.0,28,34,ORL,CHI,15,home,DK,assist,0,make2,2,B. Biyombo,T. Ross
+140,2,6:29.0,28,34,ORL,CHI,1,away,Timeout,,,,,,
+141,2,6:29.0,28,34,ORL,CHI,0,away,Sub,,,,,J. Butler,R. Rondo
+142,2,6:16.0,28,36,ORL,CHI,13,away,LU,assist,2,make2,2,C. Felício,J. Butler
+143,2,5:59.0,28,36,ORL,CHI,17,home,BadPass,steal,,turnover,,J. Green,D. Valentine
+144,2,5:45.0,28,39,ORL,CHI,14,away,JS,assist,24,make3,3,D. Valentine,C. Felício
+145,2,5:26.0,31,39,ORL,CHI,19,home,JS,assist,25,make3,3,J. Green,E. Payton
+146,2,5:00.0,31,41,ORL,CHI,26,away,JS,assist,6,make2,2,C. Payne,J. Butler
+147,2,4:53.0,33,41,ORL,CHI,7,home,LU,assist,1,make2,2,J. Green,E. Payton
+148,2,4:45.0,33,41,ORL,CHI,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ross,J. Butler
+149,2,4:45.0,33,41,ORL,CHI,0,home,Sub,,,,,E. Fournier,M. Hezonja
+150,2,4:45.0,33,41,ORL,CHI,0,home,Sub,,,,,A. Gordon,J. Green
+151,2,4:45.0,33,41,ORL,CHI,0,away,Sub,,,,,B. Portis,J. Lauvergne
+152,2,4:45.0,33,41,ORL,CHI,0,away,Sub,,,,,R. Lopez,C. Felício
+153,2,4:41.0,33,41,ORL,CHI,4,away,DiscontinueDribbleTurnover,,,turnover,,C. Payne,
+154,2,4:31.0,33,41,ORL,CHI,10,home,JS,,19,miss2,0,T. Ross,
+155,2,4:29.0,33,41,ORL,CHI,2,away,DefReb,,,DefReb,,D. Valentine,
+156,2,4:14.0,33,44,ORL,CHI,15,away,JS,,27,make3,3,J. Butler,
+157,2,4:07.0,35,44,ORL,CHI,7,home,LU,assist,1,make2,2,A. Gordon,E. Payton
+158,2,3:54.0,35,44,ORL,CHI,13,away,JS,,15,miss2,0,J. Butler,
+159,2,3:53.0,35,44,ORL,CHI,1,home,DefReb,,,DefReb,,E. Payton,
+160,2,3:40.0,35,44,ORL,CHI,13,home,JS,,26,miss3,0,E. Fournier,
+161,2,3:39.0,35,44,ORL,CHI,1,home,OffReb,,,OffReb,,T. Ross,
+162,2,3:33.0,35,44,ORL,CHI,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Payne,E. Payton
+163,2,3:33.0,36,44,ORL,CHI,0,home,FreeThrow,,,make1,1,E. Payton,
+164,2,3:33.0,36,44,ORL,CHI,0,away,Sub,,,,,J. Grant,D. Valentine
+165,2,3:33.0,37,44,ORL,CHI,0,home,FreeThrow,,,make1,1,E. Payton,
+166,2,3:13.0,37,44,ORL,CHI,20,away,JS,,18,miss2,0,C. Payne,
+167,2,3:11.0,37,44,ORL,CHI,2,away,OffReb,,,OffReb,,R. Lopez,
+168,2,3:11.0,37,46,ORL,CHI,0,away,LU,,0,make2,2,R. Lopez,
+169,2,2:59.0,37,46,ORL,CHI,12,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Biyombo,J. Butler
+170,2,2:59.0,37,46,ORL,CHI,0,home,OffensiveFoul,,,turnover,,B. Biyombo,
+171,2,2:59.0,37,46,ORL,CHI,0,away,Timeout,,,,,,
+172,2,2:44.0,37,46,ORL,CHI,15,away,JS,,18,miss2,0,J. Butler,
+173,2,2:43.0,37,46,ORL,CHI,1,home,DefReb,,,DefReb,,E. Fournier,
+174,2,2:25.0,37,46,ORL,CHI,18,home,JS,,23,miss3,0,T. Ross,
+175,2,2:24.0,37,46,ORL,CHI,1,away,DefReb,,,DefReb,,J. Butler,
+176,2,2:10.0,37,46,ORL,CHI,14,away,JS,,18,miss2,0,B. Portis,
+177,2,2:09.0,37,46,ORL,CHI,1,home,DefReb,,,DefReb,,A. Gordon,
+178,2,2:03.0,37,46,ORL,CHI,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Lopez,A. Gordon
+179,2,2:03.0,38,46,ORL,CHI,0,home,FreeThrow,,,make1,1,A. Gordon,
+180,2,2:03.0,39,46,ORL,CHI,0,home,FreeThrow,,,make1,1,A. Gordon,
+181,2,1:44.0,39,48,ORL,CHI,19,away,LU,assist,3,make2,2,B. Portis,J. Butler
+182,2,1:34.0,39,48,ORL,CHI,10,home,JS,,26,miss3,0,A. Gordon,
+183,2,1:33.0,39,48,ORL,CHI,1,away,DefReb,,,DefReb,,J. Butler,
+184,2,1:22.0,39,50,ORL,CHI,11,away,JS,assist,14,make2,2,B. Portis,J. Butler
+185,2,1:05.0,39,50,ORL,CHI,17,home,JS,,7,miss2,0,A. Gordon,
+186,2,1:04.0,39,50,ORL,CHI,1,home,OffReb,,,OffReb,,E. Fournier,
+187,2,1:00.0,39,50,ORL,CHI,4,home,JS,,24,miss3,0,E. Fournier,
+188,2,0:58.0,39,50,ORL,CHI,2,home,OffReb,,,OffReb,,E. Payton,
+189,2,0:53.0,41,50,ORL,CHI,5,home,LU,,2,make2,2,E. Payton,
+190,2,0:39.0,41,50,ORL,CHI,14,away,JS,,9,miss2,0,J. Butler,
+191,2,0:36.0,41,50,ORL,CHI,3,away,OffReb,,,OffReb,,J. Butler,
+192,2,0:36.0,41,50,ORL,CHI,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Biyombo,J. Butler
+193,2,0:36.0,41,50,ORL,CHI,0,home,Sub,,,,,S. Zimmerman,B. Biyombo
+194,2,0:26.0,41,50,ORL,CHI,10,away,BadPass,steal,,turnover,,R. Lopez,A. Gordon
+195,2,0:21.0,43,50,ORL,CHI,5,home,JS,assist,10,make2,2,T. Ross,E. Fournier
+196,2,0:00.0,43,53,ORL,CHI,21,away,JS,,26,make3,3,J. Butler,
+197,3,11:39.0,43,53,ORL,CHI,21,home,JS,,8,miss2,0,B. Biyombo,
+198,3,11:38.0,43,53,ORL,CHI,1,away,DefReb,,,DefReb,,R. Lopez,
+199,3,11:14.0,43,53,ORL,CHI,24,away,ShotClockViolation,,,turnover,,Team,
+200,3,11:03.0,43,53,ORL,CHI,11,home,JS,,22,miss2,0,E. Fournier,
+201,3,11:02.0,43,53,ORL,CHI,1,away,DefReb,,,DefReb,,J. Grant,
+202,3,10:55.0,43,56,ORL,CHI,7,away,JS,,25,make3,3,J. Grant,
+203,3,10:39.0,45,56,ORL,CHI,16,home,JS,assist,15,make2,2,T. Ross,E. Payton
+204,3,10:14.0,45,58,ORL,CHI,25,away,JS,assist,18,make2,2,B. Portis,P. Zipser
+205,3,10:03.0,47,58,ORL,CHI,11,home,LU,assist,2,make2,2,B. Biyombo,E. Payton
+206,3,9:42.0,47,58,ORL,CHI,21,away,BadPass,steal,,turnover,,R. Lopez,E. Fournier
+207,3,9:39.0,47,58,ORL,CHI,3,home,LU,block,2,miss2,0,E. Fournier,J. Butler
+208,3,9:39.0,47,58,ORL,CHI,0,home,OffReb,,,OffReb,,Team,
+209,3,9:32.0,49,58,ORL,CHI,7,home,JS,assist,7,make2,2,A. Gordon,E. Payton
+210,3,9:12.0,49,60,ORL,CHI,20,away,JS,assist,18,make2,2,R. Lopez,J. Butler
+211,3,8:57.0,49,60,ORL,CHI,15,home,LostBall,steal,,turnover,,E. Fournier,J. Butler
+212,3,8:56.0,49,60,ORL,CHI,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Fournier,J. Butler
+213,3,8:44.0,49,62,ORL,CHI,12,away,JS,assist,5,make2,2,R. Lopez,J. Butler
+214,3,8:28.0,49,62,ORL,CHI,16,home,JS,block,3,miss2,0,B. Biyombo,R. Lopez
+215,3,8:28.0,49,62,ORL,CHI,0,home,OffReb,,,OffReb,,B. Biyombo,
+216,3,8:28.0,49,62,ORL,CHI,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Grant,B. Biyombo
+217,3,8:20.0,52,62,ORL,CHI,8,home,JS,assist,26,make3,3,E. Fournier,E. Payton
+218,3,8:08.0,52,62,ORL,CHI,12,away,D3SecTech,,,,,,
+219,3,8:08.0,52,63,ORL,CHI,0,away,FreeThrow,,,make1,1,J. Butler makes technical free throw,
+220,3,8:03.0,52,63,ORL,CHI,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ross,P. Zipser
+221,3,7:54.0,52,63,ORL,CHI,9,away,JS,,21,miss2,0,R. Lopez,
+222,3,7:53.0,52,63,ORL,CHI,1,home,DefReb,,,DefReb,,E. Payton,
+223,3,7:47.0,52,63,ORL,CHI,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Zipser,T. Ross
+224,3,7:47.0,52,63,ORL,CHI,0,home,FreeThrow,,,make1,0,T. Ross,
+225,3,7:47.0,52,63,ORL,CHI,0,home,OffReb,,,OffReb,,Team,
+226,3,7:47.0,53,63,ORL,CHI,0,home,FreeThrow,,,make1,1,T. Ross,
+227,3,7:47.0,54,63,ORL,CHI,0,home,FreeThrow,,,make1,1,T. Ross,
+228,3,7:26.0,54,63,ORL,CHI,21,away,JS,,20,miss2,0,J. Butler,
+229,3,7:25.0,54,63,ORL,CHI,1,home,DefReb,,,DefReb,,B. Biyombo,
+230,3,7:19.0,56,63,ORL,CHI,6,home,LU,,1,make2,2,E. Payton,
+231,3,7:18.0,56,63,ORL,CHI,1,away,Timeout,,,,,,
+232,3,7:06.0,56,63,ORL,CHI,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Fournier,J. Butler
+233,3,7:00.0,56,63,ORL,CHI,6,away,JS,,25,miss3,0,J. Butler,
+234,3,6:58.0,56,63,ORL,CHI,2,home,DefReb,,,DefReb,,E. Payton,
+235,3,6:58.0,56,63,ORL,CHI,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Portis,E. Payton
+236,3,6:44.0,58,63,ORL,CHI,14,home,LU,assist,1,make2,2,E. Fournier,E. Payton
+237,3,6:26.0,58,63,ORL,CHI,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Biyombo,R. Lopez
+238,3,6:17.0,58,66,ORL,CHI,9,away,JS,assist,26,make3,3,P. Zipser,J. Butler
+239,3,5:58.0,58,66,ORL,CHI,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Portis,A. Gordon
+240,3,5:58.0,59,66,ORL,CHI,0,home,FreeThrow,,,make1,1,A. Gordon,
+241,3,5:58.0,60,66,ORL,CHI,0,home,FreeThrow,,,make1,1,A. Gordon,
+242,3,5:40.0,60,66,ORL,CHI,18,away,BadPass,steal,,turnover,,J. Butler,A. Gordon
+243,3,5:37.0,60,66,ORL,CHI,3,away,ChargeFoul,DrawnBy,,ChargeFoul,,A. Gordon,J. Grant
+244,3,5:37.0,60,66,ORL,CHI,0,home,OffensiveFoul,,,turnover,,A. Gordon,
+245,3,5:37.0,60,66,ORL,CHI,0,away,Sub,,,,,R. Rondo,J. Grant
+246,3,5:24.0,60,68,ORL,CHI,13,away,DK,,0,make2,2,J. Butler,
+247,3,5:10.0,60,68,ORL,CHI,14,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Biyombo,P. Zipser
+248,3,5:10.0,60,68,ORL,CHI,0,home,OffensiveFoul,,,turnover,,B. Biyombo,
+249,3,4:59.0,60,68,ORL,CHI,11,away,JS,,12,miss2,0,J. Butler,
+250,3,4:58.0,60,68,ORL,CHI,1,away,OffReb,,,OffReb,,R. Lopez,
+251,3,4:58.0,60,68,ORL,CHI,0,away,LU,,1,miss2,0,R. Lopez,
+252,3,4:58.0,60,68,ORL,CHI,0,home,DefReb,,,DefReb,,Team,
+253,3,4:46.0,62,68,ORL,CHI,12,home,JS,assist,10,make2,2,E. Fournier,E. Payton
+254,3,4:38.0,62,68,ORL,CHI,8,away,Traveling,,,turnover,,P. Zipser,
+255,3,4:38.0,62,68,ORL,CHI,0,away,Sub,,,,,J. Lauvergne,B. Portis
+256,3,4:21.0,64,68,ORL,CHI,17,home,JS,,5,make2,2,E. Payton,
+257,3,4:01.0,64,71,ORL,CHI,20,away,JS,assist,25,make3,3,J. Butler,J. Lauvergne
+258,3,3:55.0,66,71,ORL,CHI,6,home,LU,,1,make2,2,E. Payton,
+259,3,3:55.0,66,71,ORL,CHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Zipser,E. Payton
+260,3,3:55.0,66,71,ORL,CHI,0,away,Sub,,,,,D. Valentine,P. Zipser
+261,3,3:55.0,67,71,ORL,CHI,0,home,FreeThrow,,,make1,1,E. Payton,
+262,3,3:31.0,67,71,ORL,CHI,24,away,JS,,25,miss3,0,J. Butler,
+263,3,3:30.0,67,71,ORL,CHI,1,home,DefReb,,,DefReb,,B. Biyombo,
+264,3,3:23.0,70,71,ORL,CHI,7,home,JS,,27,make3,3,T. Ross,
+265,3,3:06.0,70,73,ORL,CHI,17,away,HS,,6,make2,2,R. Rondo,
+266,3,2:51.0,70,73,ORL,CHI,15,home,JS,,6,miss2,0,T. Ross,
+267,3,2:49.0,70,73,ORL,CHI,2,away,DefReb,,,DefReb,,R. Lopez,
+268,3,2:34.0,70,75,ORL,CHI,15,away,LU,assist,1,make2,2,R. Lopez,R. Rondo
+269,3,2:29.0,70,75,ORL,CHI,5,home,Timeout,,,,,,
+270,3,2:29.0,70,75,ORL,CHI,0,home,Sub,,,,,M. Hezonja,T. Ross
+271,3,2:29.0,70,75,ORL,CHI,0,home,Sub,,,,,S. Zimmerman,A. Gordon
+272,3,2:29.0,70,75,ORL,CHI,0,home,Sub,,,,,J. Green,B. Biyombo
+273,3,2:22.0,72,75,ORL,CHI,7,home,JS,assist,14,make2,2,E. Fournier,J. Green
+274,3,2:01.0,72,77,ORL,CHI,21,away,LU,,2,make2,2,J. Butler,
+275,3,1:38.0,72,77,ORL,CHI,23,home,JS,,8,miss2,0,S. Zimmerman,
+276,3,1:37.0,72,77,ORL,CHI,1,home,OffReb,,,OffReb,,E. Payton,
+277,3,1:35.0,74,77,ORL,CHI,2,home,LU,,2,make2,2,E. Payton,
+278,3,1:18.0,74,77,ORL,CHI,17,away,BadPass,,,turnover,,J. Butler,
+279,3,0:57.0,77,77,ORL,CHI,21,home,JS,assist,25,make3,3,E. Fournier,J. Green
+280,3,0:42.0,77,77,ORL,CHI,15,away,BadPass,steal,,turnover,,D. Valentine,S. Zimmerman
+281,3,0:36.0,77,77,ORL,CHI,6,home,LU,,2,miss2,0,J. Green,
+282,3,0:34.0,77,77,ORL,CHI,2,home,OffReb,,,OffReb,,E. Payton,
+283,3,0:28.0,77,77,ORL,CHI,6,home,LU,,1,miss2,0,S. Zimmerman,
+284,3,0:25.0,77,77,ORL,CHI,3,away,DefReb,,,DefReb,,R. Lopez,
+285,3,0:04.0,77,77,ORL,CHI,21,away,JS,,28,miss3,0,D. Valentine,
+286,3,0:03.0,77,77,ORL,CHI,1,away,OffReb,,,OffReb,,Team,
+287,3,0:03.0,77,77,ORL,CHI,0,away,ShotClockViolation,,,turnover,,Team,
+288,3,0:01.0,77,77,ORL,CHI,2,home,JS,,30,miss3,0,M. Hezonja,
+289,3,0:00.0,77,77,ORL,CHI,1,home,OffReb,,,OffReb,,E. Payton,
+290,4,11:49.0,77,77,ORL,CHI,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,J. Lauvergne
+291,4,11:49.0,77,77,ORL,CHI,0,away,FreeThrow,,,make1,0,J. Lauvergne,
+292,4,11:49.0,77,77,ORL,CHI,0,away,OffReb,,,OffReb,,Team,
+293,4,11:49.0,77,78,ORL,CHI,0,away,FreeThrow,,,make1,1,J. Lauvergne,
+294,4,11:27.0,79,78,ORL,CHI,22,home,JS,,14,make2,2,J. Green,
+295,4,11:07.0,79,78,ORL,CHI,20,away,BadPass,steal,,turnover,,R. Rondo,C. Watson
+296,4,11:01.0,79,78,ORL,CHI,6,home,LU,,1,miss2,0,M. Hezonja,
+297,4,10:57.0,79,78,ORL,CHI,4,away,DefReb,,,DefReb,,C. Payne,
+298,4,10:50.0,79,78,ORL,CHI,7,away,JS,block,24,miss3,0,D. Valentine,C. Watson
+299,4,10:47.0,79,78,ORL,CHI,3,home,DefReb,,,DefReb,,M. Hezonja,
+300,4,10:37.0,79,78,ORL,CHI,10,home,JS,,6,miss2,0,J. Green,
+301,4,10:35.0,79,78,ORL,CHI,2,away,DefReb,,,DefReb,,C. Felício,
+302,4,10:26.0,79,78,ORL,CHI,9,away,JS,,23,miss3,0,D. Valentine,
+303,4,10:25.0,79,78,ORL,CHI,1,home,DefReb,,,DefReb,,C. Watson,
+304,4,10:19.0,79,78,ORL,CHI,6,home,JS,,25,miss3,0,C. Watson,
+305,4,10:18.0,79,78,ORL,CHI,1,away,DefReb,,,DefReb,,R. Rondo,
+306,4,10:05.0,79,78,ORL,CHI,13,away,LU,,3,miss2,0,C. Felício,
+307,4,10:03.0,79,78,ORL,CHI,2,home,DefReb,,,DefReb,,J. Green,
+308,4,9:58.0,79,78,ORL,CHI,5,home,JS,,23,miss3,0,M. Hezonja,
+309,4,9:55.0,79,78,ORL,CHI,3,away,DefReb,,,DefReb,,J. Lauvergne,
+310,4,9:44.0,79,78,ORL,CHI,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Zimmerman,C. Felício
+311,4,9:44.0,79,78,ORL,CHI,0,away,FreeThrow,,,make1,0,C. Felício,
+312,4,9:44.0,79,78,ORL,CHI,0,away,OffReb,,,OffReb,,Team,
+313,4,9:44.0,79,79,ORL,CHI,0,away,FreeThrow,,,make1,1,C. Felício,
+314,4,9:20.0,79,79,ORL,CHI,24,home,JS,,26,miss3,0,D. Augustin,
+315,4,9:19.0,79,79,ORL,CHI,1,away,DefReb,,,DefReb,,R. Rondo,
+316,4,9:11.0,79,81,ORL,CHI,8,away,HS,,5,make2,2,C. Felício,
+317,4,8:59.0,79,81,ORL,CHI,12,home,JS,,26,miss3,0,M. Hezonja,
+318,4,8:58.0,79,81,ORL,CHI,1,away,DefReb,,,DefReb,,J. Lauvergne,
+319,4,8:39.0,79,81,ORL,CHI,19,away,JS,,26,miss3,0,R. Rondo,
+320,4,8:37.0,79,81,ORL,CHI,2,home,DefReb,,,DefReb,,M. Hezonja,
+321,4,8:28.0,81,81,ORL,CHI,9,home,JS,,20,make2,2,D. Augustin,
+322,4,8:18.0,81,81,ORL,CHI,10,away,JS,,26,miss3,0,J. Lauvergne,
+323,4,8:16.0,81,81,ORL,CHI,2,home,DefReb,,,DefReb,,M. Hezonja,
+324,4,8:10.0,81,81,ORL,CHI,6,home,JS,,26,miss3,0,D. Augustin,
+325,4,8:08.0,81,81,ORL,CHI,2,away,DefReb,,,DefReb,,J. Lauvergne,
+326,4,7:55.0,81,81,ORL,CHI,13,away,JS,,11,miss2,0,C. Payne,
+327,4,7:54.0,81,81,ORL,CHI,1,home,DefReb,,,DefReb,,J. Green,
+328,4,7:46.0,83,81,ORL,CHI,8,home,LU,assist,3,make2,2,D. Augustin,C. Watson
+329,4,7:46.0,83,81,ORL,CHI,0,away,Timeout,,,,,,
+330,4,7:46.0,83,81,ORL,CHI,0,away,Sub,,,,,J. Butler,D. Valentine
+331,4,7:36.0,83,81,ORL,CHI,10,away,OutOfBounds,,,turnover,,C. Payne,
+332,4,7:22.0,85,81,ORL,CHI,14,home,HS,,7,make2,2,J. Green,
+333,4,7:06.0,85,81,ORL,CHI,16,away,LostBall,steal,,turnover,,J. Butler,C. Watson
+334,4,7:04.0,87,81,ORL,CHI,2,home,LU,,1,make2,2,C. Watson,
+335,4,7:04.0,87,81,ORL,CHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Payne,C. Watson
+336,4,7:04.0,87,81,ORL,CHI,0,home,Sub,,,,,E. Payton,D. Augustin
+337,4,7:04.0,87,81,ORL,CHI,0,away,Sub,,,,,R. Lopez,C. Felício
+338,4,7:04.0,87,81,ORL,CHI,0,away,Sub,,,,,J. Grant,C. Payne
+339,4,7:04.0,87,81,ORL,CHI,0,home,Sub,,,,,B. Biyombo,S. Zimmerman
+340,4,7:04.0,88,81,ORL,CHI,0,home,FreeThrow,,,make1,1,C. Watson,
+341,4,6:44.0,88,84,ORL,CHI,20,away,JS,assist,23,make3,3,R. Rondo,J. Lauvergne
+342,4,6:24.0,88,84,ORL,CHI,20,home,JS,,27,miss3,0,M. Hezonja,
+343,4,6:23.0,88,84,ORL,CHI,1,away,DefReb,,,DefReb,,J. Lauvergne,
+344,4,6:05.0,88,84,ORL,CHI,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Hezonja,R. Lopez
+345,4,6:05.0,88,84,ORL,CHI,0,home,Sub,,,,,E. Fournier,C. Watson
+346,4,6:05.0,88,84,ORL,CHI,0,home,Sub,,,,,T. Ross,M. Hezonja
+347,4,5:48.0,88,86,ORL,CHI,17,away,HS,assist,8,make2,2,J. Grant,R. Rondo
+348,4,5:25.0,88,86,ORL,CHI,23,home,JS,,25,miss3,0,E. Payton,
+349,4,5:24.0,88,86,ORL,CHI,1,away,DefReb,,,DefReb,,J. Grant,
+350,4,5:14.0,88,86,ORL,CHI,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ross,J. Lauvergne
+351,4,5:14.0,88,86,ORL,CHI,0,away,Timeout,,,,,,
+352,4,5:14.0,88,86,ORL,CHI,0,home,Sub,,,,,A. Gordon,J. Green
+353,4,5:03.0,88,86,ORL,CHI,11,away,JS,,17,miss2,0,J. Butler,
+354,4,5:02.0,88,86,ORL,CHI,1,away,OffReb,,,OffReb,,J. Grant,
+355,4,4:51.0,88,86,ORL,CHI,11,away,LU,,1,miss2,0,J. Butler,
+356,4,4:48.0,88,86,ORL,CHI,3,home,DefReb,,,DefReb,,E. Payton,
+357,4,4:44.0,91,86,ORL,CHI,4,home,JS,assist,27,make3,3,T. Ross,E. Payton
+358,4,4:18.0,91,86,ORL,CHI,26,away,JS,,26,miss3,0,J. Lauvergne,
+359,4,4:16.0,91,86,ORL,CHI,2,away,OffReb,,,OffReb,,R. Rondo,
+360,4,4:08.0,91,86,ORL,CHI,8,away,LU,,2,miss2,0,R. Rondo,
+361,4,4:06.0,91,86,ORL,CHI,2,home,DefReb,,,DefReb,,B. Biyombo,
+362,4,3:51.0,91,86,ORL,CHI,15,away,ChargeFoul,DrawnBy,,ChargeFoul,,A. Gordon,J. Lauvergne
+363,4,3:51.0,91,86,ORL,CHI,0,home,OffensiveFoul,,,turnover,,A. Gordon,
+364,4,3:37.0,91,89,ORL,CHI,14,away,JS,assist,24,make3,3,J. Grant,R. Rondo
+365,4,3:11.0,91,89,ORL,CHI,26,home,JS,block,3,miss2,0,E. Payton,R. Lopez
+366,4,3:11.0,91,89,ORL,CHI,0,home,OffReb,,,OffReb,,Team,
+367,4,3:11.0,91,89,ORL,CHI,0,home,Timeout,,,,,,
+368,4,3:09.0,93,89,ORL,CHI,2,home,JS,assist,5,make2,2,A. Gordon,E. Fournier
+369,4,2:44.0,93,89,ORL,CHI,25,away,JS,,14,miss2,0,J. Butler,
+370,4,2:43.0,93,89,ORL,CHI,1,home,DefReb,,,DefReb,,T. Ross,
+371,4,2:35.0,93,89,ORL,CHI,8,home,JS,,7,miss2,0,T. Ross,
+372,4,2:34.0,93,89,ORL,CHI,1,home,OffReb,,,OffReb,,E. Fournier,
+373,4,2:33.0,93,89,ORL,CHI,1,home,LU,,2,miss2,0,E. Fournier,
+374,4,2:31.0,93,89,ORL,CHI,2,home,OffReb,,,OffReb,,B. Biyombo,
+375,4,2:31.0,93,89,ORL,CHI,0,home,LU,,2,miss2,0,B. Biyombo,
+376,4,2:30.0,93,89,ORL,CHI,1,home,OffReb,,,OffReb,,Team,
+377,4,2:23.0,93,89,ORL,CHI,7,home,LU,block,1,miss2,0,E. Fournier,R. Rondo
+378,4,2:19.0,93,89,ORL,CHI,4,away,DefReb,,,DefReb,,J. Grant,
+379,4,2:10.0,93,91,ORL,CHI,9,away,JS,,20,make2,2,J. Grant,
+380,4,1:44.0,93,91,ORL,CHI,26,home,JS,,8,miss2,0,E. Payton,
+381,4,1:43.0,93,91,ORL,CHI,1,home,OffReb,,,OffReb,,E. Fournier,
+382,4,1:29.0,93,91,ORL,CHI,14,home,JS,,28,miss3,0,T. Ross,
+383,4,1:26.0,93,91,ORL,CHI,3,home,OffReb,,,OffReb,,A. Gordon,
+384,4,1:17.0,93,91,ORL,CHI,9,home,DK,,0,miss2,0,T. Ross,
+385,4,1:16.0,93,91,ORL,CHI,1,home,OffReb,,,OffReb,,E. Payton,
+386,4,1:16.0,95,91,ORL,CHI,0,home,LU,,1,make2,2,E. Payton,
+387,4,1:16.0,95,91,ORL,CHI,0,away,Timeout,,,,,,
+388,4,1:00.0,95,91,ORL,CHI,16,away,JS,,25,miss3,0,J. Butler,
+389,4,1:00.0,95,91,ORL,CHI,0,home,DefReb,,,DefReb,,E. Fournier,
+390,4,0:37.0,95,91,ORL,CHI,23,home,JS,,14,miss2,0,T. Ross,
+391,4,0:36.0,95,91,ORL,CHI,1,away,DefReb,,,DefReb,,J. Grant,
+392,4,0:29.0,95,91,ORL,CHI,7,away,LU,block,2,miss2,0,J. Grant,E. Payton
+393,4,0:28.0,95,91,ORL,CHI,1,away,OffReb,,,OffReb,,Team,
+394,4,0:26.0,95,91,ORL,CHI,2,away,JS,,26,miss3,0,J. Grant,
+395,4,0:25.0,95,91,ORL,CHI,1,away,OffReb,,,OffReb,,J. Lauvergne,
+396,4,0:23.0,95,91,ORL,CHI,2,away,LU,,2,miss2,0,J. Lauvergne,
+397,4,0:21.0,95,91,ORL,CHI,2,home,DefReb,,,DefReb,,A. Gordon,
+398,4,0:21.0,95,91,ORL,CHI,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Grant,A. Gordon
+399,4,0:21.0,95,91,ORL,CHI,0,away,Sub,,,,,C. Payne,R. Lopez
+400,4,0:18.0,95,91,ORL,CHI,3,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,R. Rondo,E. Fournier
+401,4,0:18.0,95,91,ORL,CHI,0,home,FreeThrow,,,make1,0,E. Fournier,
+402,4,0:18.0,95,91,ORL,CHI,0,home,OffReb,,,OffReb,,Team,
+403,4,0:18.0,95,91,ORL,CHI,0,away,Sub,,,,,R. Lopez,C. Payne
+404,4,0:18.0,96,91,ORL,CHI,0,home,FreeThrow,,,make1,1,E. Fournier,
+405,4,0:18.0,96,91,ORL,CHI,0,away,Timeout,,,,,,
+406,4,0:12.0,96,91,ORL,CHI,6,away,LU,,1,miss2,0,J. Grant,
+407,4,0:10.0,96,91,ORL,CHI,2,home,DefReb,,,DefReb,,E. Fournier,
+408,4,0:09.0,96,91,ORL,CHI,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Grant,E. Fournier
+409,4,0:09.0,97,91,ORL,CHI,0,home,FreeThrow,,,make1,1,E. Fournier,
+410,4,0:09.0,98,91,ORL,CHI,0,home,FreeThrow,,,make1,1,E. Fournier,
+411,4,0:09.0,98,91,ORL,CHI,0,away,Timeout,,,,,,
+412,4,0:07.0,98,91,ORL,CHI,2,away,JS,,25,miss3,0,J. Butler,
+413,4,0:05.0,98,91,ORL,CHI,2,away,OffReb,,,OffReb,,R. Lopez,
+414,4,0:05.0,98,91,ORL,CHI,0,away,LU,,2,miss2,0,R. Lopez,
+415,4,0:03.0,98,91,ORL,CHI,2,home,DefReb,,,DefReb,,E. Payton,

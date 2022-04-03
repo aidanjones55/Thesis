@@ -1,0 +1,487 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:37.0,2,0,LAL,CLE,23,home,JS,assist,18,make2,2,J. McGee,L. Ball
+1,1,11:19.0,2,0,LAL,CLE,18,away,JS,,27,miss3,0,A. Burks,
+2,1,11:14.0,2,0,LAL,CLE,5,home,DefReb,,,DefReb,,L. Ball,
+3,1,11:11.0,2,0,LAL,CLE,3,home,bad pass,steal,,turnover,,L. Ball,R. Hood
+4,1,10:56.0,2,3,LAL,CLE,15,away,JS,assist,28,make3,3,R. Hood,C. Sexton
+5,1,10:40.0,2,3,LAL,CLE,16,home,JS,,25,miss3,0,J. Hart,
+6,1,10:36.0,2,3,LAL,CLE,4,away,DefReb,,,DefReb,,A. Burks,
+7,1,10:29.0,2,3,LAL,CLE,7,away,JS,,26,miss3,0,C. Osman,
+8,1,10:29.0,2,3,LAL,CLE,0,home,DefReb,,,DefReb,,B. Ingram,
+9,1,10:21.0,4,3,LAL,CLE,8,home,LU,,2,make2,2,B. Ingram,
+10,1,10:02.0,4,3,LAL,CLE,19,away,bad pass,steal,,turnover,,C. Osman,L. Ball
+11,1,9:56.0,4,3,LAL,CLE,6,home,JS,,26,miss3,0,L. Ball,
+12,1,9:53.0,4,3,LAL,CLE,3,away,DefReb,,,DefReb,,A. Burks,
+13,1,9:50.0,4,5,LAL,CLE,3,away,DK,assist,3,make2,2,R. Hood,A. Burks
+14,1,9:27.0,4,5,LAL,CLE,23,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Hart,C. Sexton
+15,1,9:27.0,4,5,LAL,CLE,0,home,OffensiveFoul,,,turnover,,J. Hart,
+16,1,9:09.0,4,7,LAL,CLE,18,away,JS,,6,make2,2,C. Osman,
+17,1,8:48.0,4,7,LAL,CLE,21,home,JS,,18,miss2,0,K. Kuzma,
+18,1,8:46.0,4,7,LAL,CLE,2,away,DefReb,,,DefReb,,A. Burks,
+19,1,8:35.0,4,7,LAL,CLE,11,away,JS,,19,miss2,0,C. Sexton,
+20,1,8:32.0,4,7,LAL,CLE,3,home,DefReb,,,DefReb,,K. Kuzma,
+21,1,8:22.0,7,7,LAL,CLE,10,home,JS,assist,28,make3,3,J. Hart,K. Kuzma
+22,1,7:56.0,7,9,LAL,CLE,26,away,LU,assist,1,make2,2,C. Osman,R. Hood
+23,1,7:50.0,7,9,LAL,CLE,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Osman,K. Kuzma
+24,1,7:30.0,7,9,LAL,CLE,20,home,JS,,25,miss3,0,K. Kuzma,
+25,1,7:27.0,7,9,LAL,CLE,3,away,DefReb,,,DefReb,,A. Burks,
+26,1,7:19.0,7,11,LAL,CLE,8,away,JS,assist,14,make2,2,C. Osman,A. Burks
+27,1,7:08.0,7,11,LAL,CLE,11,home,DK,,2,miss2,0,L. Ball,
+28,1,7:07.0,7,11,LAL,CLE,1,away,DefReb,,,DefReb,,C. Sexton,
+29,1,7:07.0,7,11,LAL,CLE,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. McGee,C. Sexton
+30,1,7:01.0,7,11,LAL,CLE,6,away,BadPass,,,turnover,,R. Hood,
+31,1,6:48.0,9,11,LAL,CLE,13,home,JS,,14,make2,2,B. Ingram,
+32,1,6:40.0,9,13,LAL,CLE,8,away,LU,,1,make2,2,C. Osman,
+33,1,6:27.0,9,13,LAL,CLE,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Sexton,B. Ingram
+34,1,6:27.0,9,13,LAL,CLE,0,home,Timeout,,,,,,
+35,1,6:27.0,9,13,LAL,CLE,0,away,Sub,,,,,J. Clarkson,R. Hood
+36,1,6:18.0,9,13,LAL,CLE,9,home,LU,,2,miss2,0,B. Ingram,
+37,1,6:17.0,9,13,LAL,CLE,1,away,DefReb,,,DefReb,,A. Burks,
+38,1,6:11.0,9,16,LAL,CLE,6,away,JS,assist,26,make3,3,C. Sexton,J. Clarkson
+39,1,5:57.0,9,16,LAL,CLE,14,home,bad pass,steal,,turnover,,J. Hart,C. Osman
+40,1,5:54.0,9,16,LAL,CLE,3,away,LU,block,1,miss2,0,C. Osman,J. Hart
+41,1,5:49.0,9,16,LAL,CLE,5,away,OffReb,,,OffReb,,J. Clarkson,
+42,1,5:37.0,9,16,LAL,CLE,12,away,JS,,22,miss2,0,J. Clarkson,
+43,1,5:37.0,9,16,LAL,CLE,0,home,DefReb,,,DefReb,,J. Hart,
+44,1,5:28.0,9,16,LAL,CLE,9,home,lost ball,steal,,turnover,,K. Kuzma,A. Burks
+45,1,5:17.0,9,18,LAL,CLE,11,away,JS,,5,make2,2,A. Burks,
+46,1,5:09.0,11,18,LAL,CLE,8,home,LU,,3,make2,2,L. Ball,
+47,1,4:46.0,11,21,LAL,CLE,23,away,JS,assist,24,make3,3,A. Burks,C. Osman
+48,1,4:33.0,13,21,LAL,CLE,13,home,LU,,3,make2,2,L. Ball,
+49,1,4:20.0,13,23,LAL,CLE,13,away,JS,,22,make2,2,C. Sexton,
+50,1,3:57.0,13,23,LAL,CLE,23,home,LU,,3,miss2,0,B. Ingram,
+51,1,3:47.0,13,23,LAL,CLE,10,away,DefReb,,,DefReb,,T. Thompson,
+52,1,3:44.0,13,25,LAL,CLE,3,away,HS,assist,4,make2,2,T. Thompson,J. Clarkson
+53,1,3:30.0,13,25,LAL,CLE,14,home,HS,,3,miss2,0,L. Ball,
+54,1,3:26.0,13,25,LAL,CLE,4,away,DefReb,,,DefReb,,C. Osman,
+55,1,3:19.0,13,28,LAL,CLE,7,away,JS,assist,24,make3,3,J. Clarkson,C. Sexton
+56,1,3:18.0,13,28,LAL,CLE,1,home,Timeout,,,,,,
+57,1,3:18.0,13,28,LAL,CLE,0,home,Sub,,,,,K. Caldwell-Pope,K. Kuzma
+58,1,3:18.0,13,28,LAL,CLE,0,home,Sub,,,,,T. Chandler,J. McGee
+59,1,2:53.0,16,28,LAL,CLE,25,home,JS,assist,25,make3,3,L. Ball,J. Hart
+60,1,2:26.0,16,28,LAL,CLE,27,away,JS,,26,miss3,0,C. Osman,
+61,1,2:24.0,16,28,LAL,CLE,2,home,DefReb,,,DefReb,,T. Chandler,
+62,1,2:16.0,16,28,LAL,CLE,8,home,JS,,23,miss3,0,J. Hart,
+63,1,2:14.0,16,28,LAL,CLE,2,away,DefReb,,,DefReb,,C. Osman,
+64,1,2:04.0,16,30,LAL,CLE,10,away,JS,,18,make2,2,C. Sexton,
+65,1,1:49.0,18,30,LAL,CLE,15,home,LU,assist,2,make2,2,B. Ingram,L. Ball
+66,1,1:49.0,18,30,LAL,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Burks,B. Ingram
+67,1,1:49.0,18,30,LAL,CLE,0,away,Sub,,,,,M. Dellavedova,C. Sexton
+68,1,1:49.0,18,30,LAL,CLE,0,away,Sub,,,,,A. Žižić,T. Thompson
+69,1,1:49.0,19,30,LAL,CLE,0,home,FreeThrow,,,make1,1,B. Ingram,
+70,1,1:37.0,19,30,LAL,CLE,12,away,JS,,12,miss2,0,J. Clarkson,
+71,1,1:35.0,19,30,LAL,CLE,2,home,DefReb,,,DefReb,,T. Chandler,
+72,1,1:34.0,19,30,LAL,CLE,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Dellavedova,L. Ball
+73,1,1:34.0,19,30,LAL,CLE,0,home,FreeThrow,,,make1,0,L. Ball,
+74,1,1:34.0,19,30,LAL,CLE,0,home,OffReb,,,OffReb,,Team,
+75,1,1:34.0,19,30,LAL,CLE,0,away,Sub,,,,,J. Blossomgame,C. Osman
+76,1,1:34.0,20,30,LAL,CLE,0,home,FreeThrow,,,make1,1,L. Ball,
+77,1,1:13.0,20,30,LAL,CLE,21,away,Traveling,,,turnover,,J. Clarkson,
+78,1,1:13.0,20,30,LAL,CLE,0,home,Sub,,,,,L. Stephenson,L. Ball
+79,1,0:50.0,20,30,LAL,CLE,23,home,JS,,5,miss2,0,J. Hart,
+80,1,0:48.0,20,30,LAL,CLE,2,away,DefReb,,,DefReb,,A. Burks,
+81,1,0:40.0,20,30,LAL,CLE,8,away,JS,,7,miss2,0,M. Dellavedova,
+82,1,0:39.0,20,30,LAL,CLE,1,away,OffReb,,,OffReb,,A. Žižić,
+83,1,0:35.0,20,30,LAL,CLE,4,away,JS,,6,miss2,0,J. Clarkson,
+84,1,0:33.0,20,30,LAL,CLE,2,away,OffReb,,,OffReb,,J. Blossomgame,
+85,1,0:33.0,20,32,LAL,CLE,0,away,LU,,1,make2,2,J. Blossomgame,
+86,1,0:30.0,20,32,LAL,CLE,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Burks,B. Ingram
+87,1,0:30.0,21,32,LAL,CLE,0,home,FreeThrow,,,make1,1,B. Ingram,
+88,1,0:30.0,21,32,LAL,CLE,0,away,Sub,,,,,C. Payne,A. Burks
+89,1,0:30.0,22,32,LAL,CLE,0,home,FreeThrow,,,make1,1,B. Ingram,
+90,1,0:11.0,22,32,LAL,CLE,19,away,JS,,3,miss2,0,M. Dellavedova,
+91,1,0:11.0,22,32,LAL,CLE,0,away,OffReb,,,OffReb,,J. Blossomgame,
+92,1,0:11.0,22,32,LAL,CLE,0,away,LU,,2,miss2,0,J. Blossomgame,
+93,1,0:11.0,22,32,LAL,CLE,0,home,DefReb,,,DefReb,,J. Hart,
+94,1,0:01.0,24,32,LAL,CLE,10,home,JS,assist,11,make2,2,B. Ingram,K. Caldwell-Pope
+95,2,11:46.0,24,35,LAL,CLE,14,away,JS,assist,26,make3,3,M. Dellavedova,C. Payne
+96,2,11:26.0,24,35,LAL,CLE,20,home,JS,,7,miss2,0,M. Beasley,
+97,2,11:25.0,24,35,LAL,CLE,1,away,DefReb,,,DefReb,,A. Žižić,
+98,2,11:16.0,24,35,LAL,CLE,9,away,JS,,19,miss2,0,C. Payne,
+99,2,11:14.0,24,35,LAL,CLE,2,home,DefReb,,,DefReb,,L. Stephenson,
+100,2,11:09.0,24,35,LAL,CLE,5,home,JS,,23,miss3,0,L. Stephenson,
+101,2,11:06.0,24,35,LAL,CLE,3,away,DefReb,,,DefReb,,A. Žižić,
+102,2,11:00.0,24,35,LAL,CLE,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Beasley,A. Žižić
+103,2,10:50.0,24,35,LAL,CLE,10,away,Traveling,,,turnover,,M. Dellavedova,
+104,2,10:37.0,24,35,LAL,CLE,13,home,LU,,3,miss2,0,M. Beasley,
+105,2,10:34.0,24,35,LAL,CLE,3,away,DefReb,,,DefReb,,C. Payne,
+106,2,10:23.0,24,35,LAL,CLE,11,away,HS,,5,miss2,0,A. Žižić,
+107,2,10:20.0,24,35,LAL,CLE,3,home,DefReb,,,DefReb,,K. Caldwell-Pope,
+108,2,10:10.0,27,35,LAL,CLE,10,home,JS,assist,24,make3,3,L. Ball,K. Caldwell-Pope
+109,2,9:47.0,27,37,LAL,CLE,23,away,LU,,3,make2,2,J. Clarkson,
+110,2,9:35.0,29,37,LAL,CLE,12,home,LU,assist,3,make2,2,K. Kuzma,L. Stephenson
+111,2,9:09.0,29,37,LAL,CLE,26,away,ShotClockViolation,,,turnover,,Team,
+112,2,8:54.0,31,37,LAL,CLE,15,home,LU,,3,make2,2,M. Beasley,
+113,2,8:53.0,31,37,LAL,CLE,1,away,Timeout,,,,,,
+114,2,8:53.0,31,37,LAL,CLE,0,away,Sub,,,,,C. Osman,J. Blossomgame
+115,2,8:53.0,31,37,LAL,CLE,0,away,Sub,,,,,T. Thompson,A. Žižić
+116,2,8:53.0,31,37,LAL,CLE,0,home,Sub,,,,,J. McGee,M. Beasley
+117,2,8:37.0,31,37,LAL,CLE,16,away,JS,,27,miss3,0,J. Clarkson,
+118,2,8:34.0,31,37,LAL,CLE,3,home,DefReb,,,DefReb,,J. McGee,
+119,2,8:23.0,33,37,LAL,CLE,11,home,JS,assist,21,make2,2,K. Caldwell-Pope,L. Ball
+120,2,8:05.0,33,37,LAL,CLE,18,away,OutOfBounds,,,turnover,,M. Dellavedova,
+121,2,7:46.0,33,37,LAL,CLE,19,home,JS,,27,miss3,0,L. Ball,
+122,2,7:43.0,33,37,LAL,CLE,3,home,OffReb,,,OffReb,,K. Kuzma,
+123,2,7:36.0,33,37,LAL,CLE,7,home,bad pass,steal,,turnover,,L. Stephenson,C. Osman
+124,2,7:32.0,33,37,LAL,CLE,4,away,LU,,2,miss2,0,C. Osman,
+125,2,7:29.0,33,37,LAL,CLE,3,home,DefReb,,,DefReb,,L. Stephenson,
+126,2,7:27.0,33,37,LAL,CLE,2,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Kuzma,J. Clarkson
+127,2,7:27.0,33,37,LAL,CLE,0,home,OffensiveFoul,,,turnover,,K. Kuzma,
+128,2,7:27.0,33,37,LAL,CLE,0,away,Sub,,,,,R. Hood,J. Clarkson
+129,2,7:27.0,33,37,LAL,CLE,0,away,Sub,,,,,C. Sexton,M. Dellavedova
+130,2,7:27.0,33,37,LAL,CLE,0,home,Sub,,,,,B. Ingram,K. Caldwell-Pope
+131,2,7:08.0,33,39,LAL,CLE,19,away,JS,assist,13,make2,2,R. Hood,T. Thompson
+132,2,6:48.0,35,39,LAL,CLE,20,home,JS,assist,8,make2,2,K. Kuzma,B. Ingram
+133,2,6:40.0,35,39,LAL,CLE,8,away,Traveling,,,turnover,,C. Payne,
+134,2,6:40.0,35,39,LAL,CLE,0,away,Sub,,,,,A. Burks,C. Payne
+135,2,6:40.0,35,39,LAL,CLE,0,home,TechnicalFoul,,,TechnicalFoul,,L. Stephenson,
+136,2,6:40.0,35,40,LAL,CLE,0,away,FreeThrow,,,make1,1,R. Hood makes technical free throw,
+137,2,6:29.0,37,40,LAL,CLE,11,home,LU,assist,3,make2,2,K. Kuzma,L. Ball
+138,2,6:15.0,37,42,LAL,CLE,14,away,HS,assist,4,make2,2,T. Thompson,C. Sexton
+139,2,6:15.0,37,42,LAL,CLE,0,home,DefGoaltending,,,DefGoaltending,,Team,
+140,2,6:03.0,39,42,LAL,CLE,12,home,DK,,4,make2,2,K. Kuzma,
+141,2,5:43.0,39,42,LAL,CLE,20,away,JS,,7,miss2,0,R. Hood,
+142,2,5:41.0,39,42,LAL,CLE,2,away,OffReb,,,OffReb,,R. Hood,
+143,2,5:40.0,39,44,LAL,CLE,1,away,JS,,2,make2,2,R. Hood,
+144,2,5:23.0,39,44,LAL,CLE,17,home,JS,,3,miss2,0,L. Stephenson,
+145,2,5:22.0,39,44,LAL,CLE,1,home,OffReb,,,OffReb,,L. Stephenson,
+146,2,5:22.0,39,44,LAL,CLE,0,home,BadPass,,,turnover,,L. Stephenson,
+147,2,5:22.0,39,44,LAL,CLE,0,home,Sub,,,,,J. Hart,L. Stephenson
+148,2,5:11.0,39,44,LAL,CLE,11,away,JS,,21,miss2,0,C. Sexton,
+149,2,5:09.0,39,44,LAL,CLE,2,home,DefReb,,,DefReb,,J. Hart,
+150,2,4:55.0,39,44,LAL,CLE,14,home,LU,,5,miss2,0,K. Kuzma,
+151,2,4:52.0,39,44,LAL,CLE,3,away,DefReb,,,DefReb,,T. Thompson,
+152,2,4:46.0,39,44,LAL,CLE,6,away,HS,,4,miss2,0,T. Thompson,
+153,2,4:42.0,39,44,LAL,CLE,4,away,OffReb,,,OffReb,,Team,
+154,2,4:42.0,39,44,LAL,CLE,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. McGee,C. Sexton
+155,2,4:28.0,39,44,LAL,CLE,14,away,LU,,2,miss2,0,C. Osman,
+156,2,4:26.0,39,44,LAL,CLE,2,home,DefReb,,,DefReb,,J. McGee,
+157,2,4:23.0,39,44,LAL,CLE,3,home,JS,,26,miss3,0,K. Kuzma,
+158,2,4:21.0,39,44,LAL,CLE,2,home,OffReb,,,OffReb,,B. Ingram,
+159,2,4:17.0,39,44,LAL,CLE,4,home,JS,,27,miss3,0,J. Hart,
+160,2,4:14.0,39,44,LAL,CLE,3,away,DefReb,,,DefReb,,R. Hood,
+161,2,4:09.0,39,44,LAL,CLE,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Kuzma,R. Hood
+162,2,4:09.0,39,45,LAL,CLE,0,away,FreeThrow,,,make1,1,R. Hood,
+163,2,4:09.0,39,46,LAL,CLE,0,away,FreeThrow,,,make1,1,R. Hood,
+164,2,3:53.0,39,46,LAL,CLE,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Burks,J. Hart
+165,2,3:53.0,40,46,LAL,CLE,0,home,FreeThrow,,,make1,1,J. Hart,
+166,2,3:53.0,40,46,LAL,CLE,0,away,Sub,,,,,J. Clarkson,A. Burks
+167,2,3:53.0,40,46,LAL,CLE,0,home,Sub,,,,,I. Zubac,J. McGee
+168,2,3:53.0,41,46,LAL,CLE,0,home,FreeThrow,,,make1,1,J. Hart,
+169,2,3:44.0,41,48,LAL,CLE,9,away,LU,,2,make2,2,C. Sexton,
+170,2,3:39.0,41,48,LAL,CLE,5,home,Traveling,,,turnover,,B. Ingram,
+171,2,3:28.0,41,48,LAL,CLE,11,away,JS,,27,miss3,0,C. Osman,
+172,2,3:24.0,41,48,LAL,CLE,4,home,DefReb,,,DefReb,,L. Ball,
+173,2,3:16.0,43,48,LAL,CLE,8,home,DK,assist,2,make2,2,I. Zubac,K. Kuzma
+174,2,3:06.0,43,48,LAL,CLE,10,away,Timeout,,,,,,
+175,2,2:48.0,43,48,LAL,CLE,18,away,JS,,27,miss3,0,R. Hood,
+176,2,2:45.0,43,48,LAL,CLE,3,home,DefReb,,,DefReb,,L. Ball,
+177,2,2:23.0,43,48,LAL,CLE,22,home,JS,,27,miss3,0,K. Kuzma,
+178,2,2:21.0,43,48,LAL,CLE,2,away,DefReb,,,DefReb,,T. Thompson,
+179,2,2:02.0,43,48,LAL,CLE,19,away,LU,block,3,miss2,0,C. Sexton,J. Hart
+180,2,2:02.0,43,48,LAL,CLE,0,away,OffReb,,,OffReb,,Team,
+181,2,1:58.0,43,48,LAL,CLE,4,away,JS,block,16,miss2,0,C. Sexton,I. Zubac
+182,2,1:58.0,43,48,LAL,CLE,0,away,OffReb,,,OffReb,,Team,
+183,2,1:58.0,43,48,LAL,CLE,0,away,ShotClockViolation,,,turnover,,Team,
+184,2,1:43.0,43,48,LAL,CLE,15,home,HS,,6,miss2,0,I. Zubac,
+185,2,1:39.0,43,48,LAL,CLE,4,away,DefReb,,,DefReb,,T. Thompson,
+186,2,1:24.0,43,48,LAL,CLE,15,away,JS,block,6,miss2,0,R. Hood,I. Zubac
+187,2,1:20.0,43,48,LAL,CLE,4,home,DefReb,,,DefReb,,L. Ball,
+188,2,1:17.0,45,48,LAL,CLE,3,home,LU,assist,1,make2,2,J. Hart,L. Ball
+189,2,1:00.0,45,48,LAL,CLE,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Ball,C. Sexton
+190,2,1:00.0,45,49,LAL,CLE,0,away,FreeThrow,,,make1,1,C. Sexton,
+191,2,1:00.0,45,49,LAL,CLE,0,away,FreeThrow,,,make1,0,C. Sexton,
+192,2,0:58.0,45,49,LAL,CLE,2,home,DefReb,,,DefReb,,I. Zubac,
+193,2,0:47.0,45,49,LAL,CLE,11,home,bad pass,steal,,turnover,,B. Ingram,C. Sexton
+194,2,0:43.0,45,49,LAL,CLE,4,away,JS,,18,miss2,0,C. Sexton,
+195,2,0:38.0,45,49,LAL,CLE,5,home,DefReb,,,DefReb,,B. Ingram,
+196,2,0:35.0,45,49,LAL,CLE,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Sexton,K. Kuzma
+197,2,0:35.0,46,49,LAL,CLE,0,home,FreeThrow,,,make1,1,K. Kuzma,
+198,2,0:35.0,46,49,LAL,CLE,0,away,Sub,,,,,M. Dellavedova,C. Sexton
+199,2,0:35.0,46,49,LAL,CLE,0,home,FreeThrow,,,make1,0,K. Kuzma,
+200,2,0:35.0,46,49,LAL,CLE,0,away,DefReb,,,DefReb,,C. Osman,
+201,2,0:26.0,46,51,LAL,CLE,9,away,JS,,7,make2,2,R. Hood,
+202,2,0:03.0,46,51,LAL,CLE,23,home,JS,,16,miss2,0,B. Ingram,
+203,2,0:02.0,46,51,LAL,CLE,1,home,OffReb,,,OffReb,,B. Ingram,
+204,2,0:02.0,46,51,LAL,CLE,0,home,JS,,28,miss3,0,K. Kuzma,
+205,2,0:02.0,46,51,LAL,CLE,0,home,OffReb,,,OffReb,,Team,
+206,3,11:41.0,46,51,LAL,CLE,19,away,bad pass,steal,,turnover,,R. Hood,J. Hart
+207,3,11:41.0,46,51,LAL,CLE,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,C. Osman,K. Kuzma
+208,3,11:20.0,46,51,LAL,CLE,21,home,HS,,5,miss2,0,J. McGee,
+209,3,11:19.0,46,51,LAL,CLE,1,home,OffReb,,,OffReb,,L. Ball,
+210,3,11:17.0,48,51,LAL,CLE,2,home,LU,,1,make2,2,L. Ball,
+211,3,10:51.0,48,51,LAL,CLE,26,away,JS,,27,miss3,0,A. Burks,
+212,3,10:49.0,48,51,LAL,CLE,2,home,DefReb,,,DefReb,,J. McGee,
+213,3,10:38.0,50,51,LAL,CLE,11,home,JS,,12,make2,2,K. Kuzma,
+214,3,10:14.0,50,54,LAL,CLE,24,away,JS,assist,25,make3,3,A. Burks,R. Hood
+215,3,9:51.0,50,54,LAL,CLE,23,home,JS,,26,miss3,0,K. Kuzma,
+216,3,9:49.0,50,54,LAL,CLE,2,away,DefReb,,,DefReb,,T. Thompson,
+217,3,9:43.0,50,54,LAL,CLE,6,away,LU,,4,miss2,0,R. Hood,
+218,3,9:41.0,50,54,LAL,CLE,2,away,OffReb,,,OffReb,,T. Thompson,
+219,3,9:41.0,50,56,LAL,CLE,0,away,LU,,1,make2,2,T. Thompson,
+220,3,9:25.0,50,56,LAL,CLE,16,home,JS,,12,miss2,0,B. Ingram,
+221,3,9:25.0,50,56,LAL,CLE,0,home,OffReb,,,OffReb,,B. Ingram,
+222,3,9:20.0,50,56,LAL,CLE,5,home,JS,,25,miss3,0,L. Ball,
+223,3,9:18.0,50,56,LAL,CLE,2,away,DefReb,,,DefReb,,T. Thompson,
+224,3,9:14.0,50,58,LAL,CLE,4,away,LU,,4,make2,2,C. Sexton,
+225,3,9:01.0,50,58,LAL,CLE,13,home,JS,,16,miss2,0,B. Ingram,
+226,3,8:58.0,50,58,LAL,CLE,3,away,DefReb,,,DefReb,,T. Thompson,
+227,3,8:48.0,50,58,LAL,CLE,10,away,LU,,3,miss2,0,A. Burks,
+228,3,8:45.0,50,58,LAL,CLE,3,home,DefReb,,,DefReb,,J. McGee,
+229,3,8:45.0,50,58,LAL,CLE,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Sexton,K. Kuzma
+230,3,8:39.0,50,58,LAL,CLE,6,home,LU,,2,miss2,0,K. Kuzma,
+231,3,8:36.0,50,58,LAL,CLE,3,away,DefReb,,,DefReb,,T. Thompson,
+232,3,8:29.0,50,61,LAL,CLE,7,away,JS,assist,25,make3,3,C. Osman,R. Hood
+233,3,8:27.0,50,61,LAL,CLE,2,home,Timeout,,,,,,
+234,3,8:27.0,50,61,LAL,CLE,0,home,Sub,,,,,K. Caldwell-Pope,K. Kuzma
+235,3,8:07.0,53,61,LAL,CLE,20,home,JS,assist,24,make3,3,B. Ingram,K. Caldwell-Pope
+236,3,7:50.0,53,61,LAL,CLE,17,away,JS,,27,miss3,0,R. Hood,
+237,3,7:48.0,53,61,LAL,CLE,2,home,DefReb,,,DefReb,,J. McGee,
+238,3,7:34.0,53,61,LAL,CLE,14,home,JS,,26,miss3,0,L. Ball,
+239,3,7:31.0,53,61,LAL,CLE,3,away,DefReb,,,DefReb,,A. Burks,
+240,3,7:17.0,53,61,LAL,CLE,14,away,LU,block,2,miss2,0,C. Osman,J. McGee
+241,3,7:09.0,53,61,LAL,CLE,8,away,OffReb,,,OffReb,,T. Thompson,
+242,3,7:09.0,53,61,LAL,CLE,0,away,LU,,0,miss2,0,T. Thompson,
+243,3,7:08.0,53,61,LAL,CLE,1,home,DefReb,,,DefReb,,B. Ingram,
+244,3,7:07.0,53,61,LAL,CLE,1,home,JS,,25,miss3,0,J. Hart,
+245,3,7:05.0,53,61,LAL,CLE,2,away,DefReb,,,DefReb,,C. Sexton,
+246,3,7:03.0,53,61,LAL,CLE,2,away,lost ball,steal,,turnover,,C. Sexton,L. Ball
+247,3,6:58.0,53,61,LAL,CLE,5,home,JS,,25,miss3,0,K. Caldwell-Pope,
+248,3,6:56.0,53,61,LAL,CLE,2,away,DefReb,,,DefReb,,C. Osman,
+249,3,6:41.0,53,61,LAL,CLE,15,away,JS,,25,miss3,0,R. Hood,
+250,3,6:37.0,53,61,LAL,CLE,4,home,DefReb,,,DefReb,,L. Ball,
+251,3,6:29.0,53,61,LAL,CLE,8,home,JS,,26,miss3,0,K. Caldwell-Pope,
+252,3,6:27.0,53,61,LAL,CLE,2,away,DefReb,,,DefReb,,Team,
+253,3,6:27.0,53,61,LAL,CLE,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. McGee,A. Burks
+254,3,6:27.0,53,61,LAL,CLE,0,away,Sub,,,,,J. Clarkson,R. Hood
+255,3,6:27.0,53,61,LAL,CLE,0,home,Sub,,,,,I. Zubac,J. McGee
+256,3,6:09.0,53,63,LAL,CLE,18,away,HS,,7,make2,2,T. Thompson,
+257,3,5:53.0,53,63,LAL,CLE,16,home,JS,,9,miss2,0,J. Hart,
+258,3,5:51.0,53,63,LAL,CLE,2,away,DefReb,,,DefReb,,A. Burks,
+259,3,5:47.0,53,63,LAL,CLE,4,away,LU,,2,miss2,0,A. Burks,
+260,3,5:43.0,53,63,LAL,CLE,4,away,OffReb,,,OffReb,,T. Thompson,
+261,3,5:43.0,53,65,LAL,CLE,0,away,LU,,2,make2,2,T. Thompson,
+262,3,5:29.0,53,65,LAL,CLE,14,home,JS,,23,miss3,0,J. Hart,
+263,3,5:26.0,53,65,LAL,CLE,3,home,OffReb,,,OffReb,,L. Ball,
+264,3,5:24.0,55,65,LAL,CLE,2,home,LU,assist,2,make2,2,J. Hart,L. Ball
+265,3,5:03.0,55,65,LAL,CLE,21,away,JS,,8,miss2,0,J. Clarkson,
+266,3,5:02.0,55,65,LAL,CLE,1,away,OffReb,,,OffReb,,Team,
+267,3,5:02.0,55,65,LAL,CLE,0,home,Sub,,,,,S. Mykhailiuk,J. Hart
+268,3,4:54.0,55,65,LAL,CLE,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Ingram,A. Burks
+269,3,4:54.0,55,66,LAL,CLE,0,away,FreeThrow,,,make1,1,A. Burks,
+270,3,4:54.0,55,67,LAL,CLE,0,away,FreeThrow,,,make1,1,A. Burks,
+271,3,4:46.0,58,67,LAL,CLE,8,home,JS,assist,24,make3,3,S. Mykhailiuk,B. Ingram
+272,3,4:28.0,58,69,LAL,CLE,18,away,JS,assist,17,make2,2,C. Osman,A. Burks
+273,3,4:09.0,58,69,LAL,CLE,19,home,JS,,26,miss3,0,B. Ingram,
+274,3,4:06.0,58,69,LAL,CLE,3,home,OffReb,,,OffReb,,S. Mykhailiuk,
+275,3,4:04.0,60,69,LAL,CLE,2,home,DK,assist,2,make2,2,B. Ingram,S. Mykhailiuk
+276,3,3:48.0,60,69,LAL,CLE,16,away,LU,,1,miss2,0,T. Thompson,
+277,3,3:41.0,60,69,LAL,CLE,7,away,OffReb,,,OffReb,,T. Thompson,
+278,3,3:41.0,60,71,LAL,CLE,0,away,LU,,0,make2,2,T. Thompson,
+279,3,3:25.0,62,71,LAL,CLE,16,home,LU,assist,3,make2,2,I. Zubac,L. Ball
+280,3,3:25.0,62,71,LAL,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Burks,I. Zubac
+281,3,3:25.0,62,71,LAL,CLE,0,away,Sub,,,,,M. Dellavedova,A. Burks
+282,3,3:25.0,63,71,LAL,CLE,0,home,FreeThrow,,,make1,1,I. Zubac,
+283,3,3:15.0,63,71,LAL,CLE,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Caldwell-Pope,J. Clarkson
+284,3,3:15.0,63,71,LAL,CLE,0,home,Sub,,,,,L. Stephenson,B. Ingram
+285,3,3:00.0,63,71,LAL,CLE,15,away,HS,,10,miss2,0,T. Thompson,
+286,3,3:00.0,63,71,LAL,CLE,0,home,DefReb,,,DefReb,,L. Stephenson,
+287,3,2:46.0,63,71,LAL,CLE,14,home,JS,,21,miss2,0,L. Stephenson,
+288,3,2:43.0,63,71,LAL,CLE,3,away,DefReb,,,DefReb,,T. Thompson,
+289,3,2:27.0,63,71,LAL,CLE,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Mykhailiuk,C. Osman
+290,3,2:27.0,63,71,LAL,CLE,0,away,Timeout,,,,,,
+291,3,2:27.0,63,71,LAL,CLE,0,away,Sub,,,,,A. Žižić,T. Thompson
+292,3,2:27.0,63,72,LAL,CLE,0,away,FreeThrow,,,make1,1,C. Osman,
+293,3,2:27.0,63,73,LAL,CLE,0,away,FreeThrow,,,make1,1,C. Osman,
+294,3,2:15.0,63,73,LAL,CLE,12,home,JS,,27,miss3,0,S. Mykhailiuk,
+295,3,2:13.0,63,73,LAL,CLE,2,away,DefReb,,,DefReb,,M. Dellavedova,
+296,3,2:01.0,63,73,LAL,CLE,12,away,JS,,24,miss3,0,C. Sexton,
+297,3,1:59.0,63,73,LAL,CLE,2,home,DefReb,,,DefReb,,I. Zubac,
+298,3,1:54.0,65,73,LAL,CLE,5,home,JS,,15,make2,2,K. Caldwell-Pope,
+299,3,1:25.0,65,73,LAL,CLE,29,away,JS,,28,miss3,0,C. Osman,
+300,3,1:25.0,65,73,LAL,CLE,0,away,OffReb,,,OffReb,,Team,
+301,3,1:25.0,65,73,LAL,CLE,0,away,ShotClockViolation,,,turnover,,Team,
+302,3,1:25.0,65,73,LAL,CLE,0,away,Sub,,,,,J. Blossomgame,C. Sexton
+303,3,1:14.0,65,73,LAL,CLE,11,home,JS,,25,miss3,0,L. Ball,
+304,3,1:12.0,65,73,LAL,CLE,2,away,DefReb,,,DefReb,,C. Osman,
+305,3,1:05.0,65,73,LAL,CLE,7,away,HS,,6,miss2,0,C. Osman,
+306,3,1:04.0,65,73,LAL,CLE,1,home,DefReb,,,DefReb,,Team,
+307,3,0:50.0,65,73,LAL,CLE,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Dellavedova,L. Ball
+308,3,0:44.0,65,73,LAL,CLE,6,home,LU,,3,miss2,0,L. Stephenson,
+309,3,0:42.0,65,73,LAL,CLE,2,away,DefReb,,,DefReb,,A. Žižić,
+310,3,0:31.0,65,75,LAL,CLE,11,away,LU,,4,make2,2,J. Clarkson,
+311,3,0:19.0,65,75,LAL,CLE,12,home,HS,,7,miss2,0,L. Ball,
+312,3,0:17.0,65,75,LAL,CLE,2,away,DefReb,,,DefReb,,Team,
+313,3,0:01.0,65,75,LAL,CLE,16,away,LU,,3,miss2,0,J. Clarkson,
+314,3,0:01.0,65,75,LAL,CLE,0,away,OffReb,,,OffReb,,Team,
+315,4,11:45.0,65,75,LAL,CLE,15,home,JS,,14,miss2,0,K. Caldwell-Pope,
+316,4,11:43.0,65,75,LAL,CLE,2,home,OffReb,,,OffReb,,K. Caldwell-Pope,
+317,4,11:37.0,65,75,LAL,CLE,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Žižić,B. Ingram
+318,4,11:37.0,65,75,LAL,CLE,0,home,FreeThrow,,,make1,0,B. Ingram,
+319,4,11:37.0,65,75,LAL,CLE,0,home,OffReb,,,OffReb,,Team,
+320,4,11:37.0,65,75,LAL,CLE,0,home,Sub,,,,,M. Beasley,I. Zubac
+321,4,11:37.0,65,75,LAL,CLE,0,home,FreeThrow,,,make1,0,B. Ingram,
+322,4,11:34.0,65,75,LAL,CLE,3,away,DefReb,,,DefReb,,C. Osman,
+323,4,11:10.0,65,75,LAL,CLE,24,away,bad pass,steal,,turnover,,C. Osman,M. Beasley
+324,4,11:03.0,65,75,LAL,CLE,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Žižić,M. Beasley
+325,4,11:03.0,65,75,LAL,CLE,0,home,FreeThrow,,,make1,0,M. Beasley,
+326,4,11:03.0,65,75,LAL,CLE,0,home,OffReb,,,OffReb,,Team,
+327,4,11:03.0,66,75,LAL,CLE,0,home,FreeThrow,,,make1,1,M. Beasley,
+328,4,10:44.0,66,78,LAL,CLE,19,away,JS,assist,27,make3,3,C. Osman,A. Žižić
+329,4,10:28.0,66,78,LAL,CLE,16,home,LU,,1,miss2,0,M. Beasley,
+330,4,10:26.0,66,78,LAL,CLE,2,away,DefReb,,,DefReb,,J. Blossomgame,
+331,4,10:20.0,66,78,LAL,CLE,6,away,LU,,6,miss2,0,J. Blossomgame,
+332,4,10:17.0,66,78,LAL,CLE,3,home,DefReb,,,DefReb,,K. Kuzma,
+333,4,10:12.0,68,78,LAL,CLE,5,home,DK,,3,make2,2,K. Kuzma,
+334,4,10:01.0,68,78,LAL,CLE,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Ingram,M. Dellavedova
+335,4,10:01.0,68,78,LAL,CLE,0,away,Sub,,,,,A. Burks,C. Osman
+336,4,9:53.0,68,78,LAL,CLE,8,away,LU,,4,miss2,0,J. Clarkson,
+337,4,9:51.0,68,78,LAL,CLE,2,home,DefReb,,,DefReb,,K. Kuzma,
+338,4,9:50.0,68,78,LAL,CLE,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Blossomgame,K. Kuzma
+339,4,9:50.0,68,78,LAL,CLE,0,home,FreeThrow,,,make1,0,K. Kuzma,
+340,4,9:50.0,68,78,LAL,CLE,0,home,OffReb,,,OffReb,,Team,
+341,4,9:50.0,69,78,LAL,CLE,0,home,FreeThrow,,,make1,1,K. Kuzma,
+342,4,9:40.0,69,80,LAL,CLE,10,away,LU,assist,3,make2,2,J. Clarkson,M. Dellavedova
+343,4,9:30.0,69,80,LAL,CLE,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Blossomgame,L. Stephenson
+344,4,9:30.0,69,80,LAL,CLE,0,home,FreeThrow,,,make1,0,L. Stephenson,
+345,4,9:30.0,69,80,LAL,CLE,0,home,OffReb,,,OffReb,,Team,
+346,4,9:30.0,69,80,LAL,CLE,0,home,FreeThrow,,,make1,0,L. Stephenson,
+347,4,9:27.0,69,80,LAL,CLE,3,away,DefReb,,,DefReb,,J. Clarkson,
+348,4,9:20.0,69,80,LAL,CLE,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Stephenson,J. Clarkson
+349,4,9:06.0,69,80,LAL,CLE,14,away,JS,,26,miss3,0,A. Burks,
+350,4,9:02.0,69,80,LAL,CLE,4,home,DefReb,,,DefReb,,K. Kuzma,
+351,4,8:57.0,71,80,LAL,CLE,5,home,LU,assist,2,make2,2,M. Beasley,K. Kuzma
+352,4,8:57.0,71,80,LAL,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Clarkson,M. Beasley
+353,4,8:57.0,72,80,LAL,CLE,0,home,FreeThrow,,,make1,1,M. Beasley,
+354,4,8:57.0,72,80,LAL,CLE,0,away,Timeout,,,,,,
+355,4,8:57.0,72,80,LAL,CLE,0,away,Sub,,,,,C. Osman,J. Blossomgame
+356,4,8:57.0,72,80,LAL,CLE,0,away,Sub,,,,,T. Thompson,A. Žižić
+357,4,8:39.0,72,80,LAL,CLE,18,away,HS,,6,miss2,0,T. Thompson,
+358,4,8:36.0,72,80,LAL,CLE,3,home,DefReb,,,DefReb,,K. Caldwell-Pope,
+359,4,8:34.0,72,80,LAL,CLE,2,home,LU,,2,miss2,0,K. Kuzma,
+360,4,8:28.0,72,80,LAL,CLE,6,home,OffReb,,,OffReb,,M. Beasley,
+361,4,8:28.0,74,80,LAL,CLE,0,home,LU,,1,make2,2,M. Beasley,
+362,4,8:15.0,74,80,LAL,CLE,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Beasley,A. Burks
+363,4,8:15.0,74,81,LAL,CLE,0,away,FreeThrow,,,make1,1,A. Burks,
+364,4,8:15.0,74,82,LAL,CLE,0,away,FreeThrow,,,make1,1,A. Burks,
+365,4,7:58.0,74,82,LAL,CLE,17,home,JS,block,5,miss2,0,M. Beasley,T. Thompson
+366,4,7:58.0,74,82,LAL,CLE,0,home,OffReb,,,OffReb,,Team,
+367,4,7:53.0,74,82,LAL,CLE,5,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Kuzma,M. Dellavedova
+368,4,7:53.0,74,82,LAL,CLE,0,home,OffensiveFoul,,,turnover,,K. Kuzma,
+369,4,7:53.0,74,82,LAL,CLE,0,home,Sub,,,,,J. Hart,L. Stephenson
+370,4,7:40.0,74,84,LAL,CLE,13,away,DK,assist,2,make2,2,T. Thompson,M. Dellavedova
+371,4,7:39.0,74,84,LAL,CLE,1,home,Timeout,,,,,,
+372,4,7:39.0,74,84,LAL,CLE,0,home,Sub,,,,,J. McGee,M. Beasley
+373,4,7:26.0,74,84,LAL,CLE,13,home,JS,,27,miss3,0,K. Caldwell-Pope,
+374,4,7:26.0,74,84,LAL,CLE,0,home,OffReb,,,OffReb,,Team,
+375,4,7:26.0,74,84,LAL,CLE,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Osman,K. Kuzma
+376,4,7:26.0,75,84,LAL,CLE,0,home,FreeThrow,,,make1,1,K. Kuzma,
+377,4,7:26.0,75,84,LAL,CLE,0,home,FreeThrow,,,make1,0,K. Kuzma,
+378,4,7:23.0,75,84,LAL,CLE,3,away,DefReb,,,DefReb,,A. Burks,
+379,4,7:04.0,75,84,LAL,CLE,19,away,JS,,6,miss2,0,A. Burks,
+380,4,7:01.0,75,84,LAL,CLE,3,home,DefReb,,,DefReb,,J. McGee,
+381,4,6:46.0,77,84,LAL,CLE,15,home,JS,,20,make2,2,K. Kuzma,
+382,4,6:25.0,77,84,LAL,CLE,21,away,LU,,3,miss2,0,T. Thompson,
+383,4,6:23.0,77,84,LAL,CLE,2,home,DefReb,,,DefReb,,J. McGee,
+384,4,6:14.0,79,84,LAL,CLE,9,home,JS,,3,make2,2,K. Kuzma,
+385,4,5:59.0,79,84,LAL,CLE,15,away,JS,,6,miss2,0,M. Dellavedova,
+386,4,5:57.0,79,84,LAL,CLE,2,home,DefReb,,,DefReb,,K. Kuzma,
+387,4,5:54.0,79,84,LAL,CLE,3,home,Traveling,,,turnover,,K. Kuzma,
+388,4,5:54.0,79,84,LAL,CLE,0,away,Sub,,,,,R. Hood,J. Clarkson
+389,4,5:54.0,79,84,LAL,CLE,0,away,Sub,,,,,C. Sexton,M. Dellavedova
+390,4,5:54.0,79,84,LAL,CLE,0,home,Sub,,,,,L. Ball,K. Caldwell-Pope
+391,4,5:38.0,79,84,LAL,CLE,16,away,HS,,4,miss2,0,T. Thompson,
+392,4,5:36.0,79,84,LAL,CLE,2,home,DefReb,,,DefReb,,J. McGee,
+393,4,5:23.0,79,84,LAL,CLE,13,home,JS,,15,miss2,0,K. Kuzma,
+394,4,5:21.0,79,84,LAL,CLE,2,away,DefReb,,,DefReb,,A. Burks,
+395,4,5:10.0,79,84,LAL,CLE,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Kuzma,T. Thompson
+396,4,4:57.0,79,84,LAL,CLE,13,away,JS,,18,miss2,0,R. Hood,
+397,4,4:50.0,79,84,LAL,CLE,7,away,OffReb,,,OffReb,,A. Burks,
+398,4,4:48.0,79,86,LAL,CLE,2,away,DK,,2,make2,2,A. Burks,
+399,4,4:42.0,79,86,LAL,CLE,6,home,JS,,23,miss3,0,J. Hart,
+400,4,4:39.0,79,86,LAL,CLE,3,away,DefReb,,,DefReb,,C. Osman,
+401,4,4:17.0,79,88,LAL,CLE,22,away,LU,,2,make2,2,C. Sexton,
+402,4,4:02.0,79,88,LAL,CLE,15,home,JS,,4,miss2,0,J. McGee,
+403,4,4:00.0,79,88,LAL,CLE,2,away,DefReb,,,DefReb,,A. Burks,
+404,4,3:43.0,79,90,LAL,CLE,17,away,JS,,5,make2,2,C. Osman,
+405,4,3:43.0,79,90,LAL,CLE,0,home,Timeout,,,,,,
+406,4,3:43.0,79,90,LAL,CLE,0,home,Sub,,,,,K. Caldwell-Pope,J. McGee
+407,4,3:31.0,81,90,LAL,CLE,12,home,JS,assist,3,make2,2,B. Ingram,K. Kuzma
+408,4,3:31.0,81,90,LAL,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hood,B. Ingram
+409,4,3:31.0,81,90,LAL,CLE,0,home,FreeThrow,,,make1,0,B. Ingram,
+410,4,3:28.0,81,90,LAL,CLE,3,away,DefReb,,,DefReb,,R. Hood,
+411,4,3:08.0,81,90,LAL,CLE,20,away,JS,,21,miss2,0,C. Sexton,
+412,4,3:05.0,81,90,LAL,CLE,3,home,DefReb,,,DefReb,,B. Ingram,
+413,4,3:01.0,83,90,LAL,CLE,4,home,LU,,3,make2,2,B. Ingram,
+414,4,2:45.0,83,90,LAL,CLE,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Ball,C. Sexton
+415,4,2:45.0,83,91,LAL,CLE,0,away,FreeThrow,,,make1,1,C. Sexton,
+416,4,2:45.0,83,91,LAL,CLE,0,away,FreeThrow,,,make1,0,C. Sexton,
+417,4,2:43.0,83,91,LAL,CLE,2,home,DefReb,,,DefReb,,J. Hart,
+418,4,2:33.0,83,91,LAL,CLE,10,home,LU,block,1,miss2,0,K. Kuzma,T. Thompson
+419,4,2:31.0,83,91,LAL,CLE,2,away,DefReb,,,DefReb,,C. Sexton,
+420,4,2:24.0,83,93,LAL,CLE,7,away,LU,assist,2,make2,2,R. Hood,A. Burks
+421,4,2:13.0,83,93,LAL,CLE,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Burks,B. Ingram
+422,4,2:13.0,84,93,LAL,CLE,0,home,FreeThrow,,,make1,1,B. Ingram,
+423,4,2:13.0,85,93,LAL,CLE,0,home,FreeThrow,,,make1,1,B. Ingram,
+424,4,1:51.0,85,93,LAL,CLE,22,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Thompson,J. Hart
+425,4,1:51.0,85,93,LAL,CLE,0,away,OffensiveFoul,,,turnover,,T. Thompson,
+426,4,1:44.0,85,93,LAL,CLE,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Thompson,K. Kuzma
+427,4,1:44.0,86,93,LAL,CLE,0,home,FreeThrow,,,make1,1,K. Kuzma,
+428,4,1:44.0,86,93,LAL,CLE,0,home,FreeThrow,,,make1,0,K. Kuzma,
+429,4,1:44.0,86,93,LAL,CLE,0,home,OffReb,,,OffReb,,Team,
+430,4,1:44.0,87,93,LAL,CLE,0,home,FreeThrow,,,make1,1,K. Kuzma,
+431,4,1:27.0,87,95,LAL,CLE,17,away,LU,,2,make2,2,C. Sexton,
+432,4,1:18.0,90,95,LAL,CLE,9,home,JS,assist,27,make3,3,K. Kuzma,K. Caldwell-Pope
+433,4,0:56.0,90,95,LAL,CLE,22,away,JS,,23,miss3,0,R. Hood,
+434,4,0:54.0,90,95,LAL,CLE,2,home,DefReb,,,DefReb,,K. Caldwell-Pope,
+435,4,0:48.0,90,95,LAL,CLE,6,home,JS,,26,miss3,0,K. Caldwell-Pope,
+436,4,0:47.0,90,95,LAL,CLE,1,away,DefReb,,,DefReb,,T. Thompson,
+437,4,0:47.0,90,95,LAL,CLE,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,L. Ball,T. Thompson
+438,4,0:47.0,90,96,LAL,CLE,0,away,FreeThrow,,,make1,1,T. Thompson,
+439,4,0:47.0,90,96,LAL,CLE,0,away,FreeThrow,,,make1,0,T. Thompson,
+440,4,0:44.0,90,96,LAL,CLE,3,home,DefReb,,,DefReb,,J. Hart,
+441,4,0:34.0,90,96,LAL,CLE,10,home,JS,,26,miss3,0,J. Hart,
+442,4,0:30.0,90,96,LAL,CLE,4,home,OffReb,,,OffReb,,K. Kuzma,
+443,4,0:30.0,90,96,LAL,CLE,0,home,LU,,1,miss2,0,K. Kuzma,
+444,4,0:30.0,90,96,LAL,CLE,0,away,DefReb,,,DefReb,,C. Osman,
+445,4,0:29.0,90,96,LAL,CLE,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Hart,C. Osman
+446,4,0:29.0,90,96,LAL,CLE,0,away,FreeThrow,,,make1,0,C. Osman,
+447,4,0:29.0,90,96,LAL,CLE,0,away,OffReb,,,OffReb,,Team,
+448,4,0:29.0,90,96,LAL,CLE,0,home,Sub,,,,,J. McGee,K. Caldwell-Pope
+449,4,0:29.0,90,96,LAL,CLE,0,away,FreeThrow,,,make1,0,C. Osman,
+450,4,0:29.0,90,96,LAL,CLE,0,home,DefReb,,,DefReb,,L. Ball,
+451,4,0:29.0,90,96,LAL,CLE,0,home,Timeout,,,,,,
+452,4,0:29.0,90,96,LAL,CLE,0,home,Sub,,,,,K. Caldwell-Pope,B. Ingram
+453,4,0:29.0,90,96,LAL,CLE,0,home,Sub,,,,,T. Chandler,J. McGee
+454,4,0:25.0,90,96,LAL,CLE,4,home,JS,,25,miss3,0,K. Caldwell-Pope,
+455,4,0:22.0,90,96,LAL,CLE,3,home,OffReb,,,OffReb,,L. Ball,
+456,4,0:22.0,93,96,LAL,CLE,0,home,JS,assist,27,make3,3,K. Kuzma,L. Ball
+457,4,0:22.0,93,96,LAL,CLE,0,away,Timeout,,,,,,
+458,4,0:22.0,93,96,LAL,CLE,0,away,Sub,,,,,J. Clarkson,T. Thompson
+459,4,0:22.0,93,96,LAL,CLE,0,home,Sub,,,,,B. Ingram,T. Chandler
+460,4,0:16.0,93,96,LAL,CLE,6,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,K. Caldwell-Pope,A. Burks
+461,4,0:16.0,93,97,LAL,CLE,0,away,FreeThrow,,,make1,1,A. Burks,
+462,4,0:16.0,93,97,LAL,CLE,0,away,Sub,,,,,T. Thompson,J. Clarkson
+463,4,0:16.0,93,97,LAL,CLE,0,home,Sub,,,,,J. McGee,K. Caldwell-Pope
+464,4,0:16.0,93,98,LAL,CLE,0,away,FreeThrow,,,make1,1,A. Burks,
+465,4,0:16.0,93,98,LAL,CLE,0,home,Timeout,,,,,,
+466,4,0:16.0,93,98,LAL,CLE,0,away,Sub,,,,,M. Dellavedova,C. Sexton
+467,4,0:16.0,93,98,LAL,CLE,0,home,Sub,,,,,K. Caldwell-Pope,B. Ingram
+468,4,0:16.0,93,98,LAL,CLE,0,home,Sub,,,,,T. Chandler,J. McGee
+469,4,0:13.0,93,98,LAL,CLE,3,home,JS,,28,miss3,0,K. Caldwell-Pope,
+470,4,0:10.0,93,98,LAL,CLE,3,home,OffReb,,,OffReb,,K. Kuzma,
+471,4,0:10.0,95,98,LAL,CLE,0,home,LU,,3,make2,2,K. Kuzma,
+472,4,0:10.0,95,98,LAL,CLE,0,away,Timeout,,,,,,
+473,4,0:10.0,95,98,LAL,CLE,0,away,Sub,,,,,J. Clarkson,M. Dellavedova
+474,4,0:10.0,95,98,LAL,CLE,0,away,Sub,,,,,C. Sexton,T. Thompson
+475,4,0:10.0,95,98,LAL,CLE,0,home,Sub,,,,,B. Ingram,T. Chandler
+476,4,0:09.0,95,98,LAL,CLE,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,L. Ball,R. Hood
+477,4,0:09.0,95,99,LAL,CLE,0,away,FreeThrow,,,make1,1,R. Hood,
+478,4,0:09.0,95,99,LAL,CLE,0,away,Sub,,,,,T. Thompson,J. Clarkson
+479,4,0:09.0,95,100,LAL,CLE,0,away,FreeThrow,,,make1,1,R. Hood,
+480,4,0:02.0,95,100,LAL,CLE,7,home,JS,,26,miss3,0,L. Ball,
+481,4,0:00.0,95,100,LAL,CLE,2,away,DefReb,,,DefReb,,A. Burks,
+482,4,0:00.0,95,100,LAL,CLE,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,K. Kuzma,A. Burks
+483,4,0:00.0,95,100,LAL,CLE,0,away,FreeThrow,,,make1,0,A. Burks,
+484,4,0:00.0,95,100,LAL,CLE,0,away,OffReb,,,OffReb,,Team,
+485,4,0:00.0,95,101,LAL,CLE,0,away,FreeThrow,,,make1,1,A. Burks,

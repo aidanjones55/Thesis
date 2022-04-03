@@ -1,0 +1,415 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,0,0,ATL,MIA,17,away,JS,,10,miss2,0,L. Deng,
+1,1,11:41.0,0,0,ATL,MIA,2,home,DefReb,,,DefReb,,P. Millsap,
+2,1,11:25.0,2,0,ATL,MIA,16,home,JS,assist,19,make2,2,A. Horford,K. Korver
+3,1,11:10.0,2,0,ATL,MIA,15,away,JS,,11,miss2,0,J. Ennis,
+4,1,11:09.0,2,0,ATL,MIA,1,home,DefReb,,,DefReb,,P. Millsap,
+5,1,10:55.0,5,0,ATL,MIA,14,home,JS,assist,23,make3,3,A. Horford,J. Teague
+6,1,10:35.0,5,0,ATL,MIA,20,away,JS,,18,miss2,0,C. Bosh,
+7,1,10:34.0,5,0,ATL,MIA,1,home,DefReb,,,DefReb,,P. Millsap,
+8,1,10:18.0,5,0,ATL,MIA,16,home,JS,,25,miss3,0,T. Sefolosha,
+9,1,10:17.0,5,0,ATL,MIA,1,away,DefReb,,,DefReb,,Team,
+10,1,10:01.0,5,0,ATL,MIA,16,away,LostBall,steal,,turnover,,C. Bosh,A. Horford
+11,1,9:51.0,5,0,ATL,MIA,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ennis,A. Horford
+12,1,9:51.0,6,0,ATL,MIA,0,home,FreeThrow,,,make1,1,A. Horford,
+13,1,9:51.0,7,0,ATL,MIA,0,home,FreeThrow,,,make1,1,A. Horford,
+14,1,9:42.0,7,0,ATL,MIA,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Horford,J. Ennis
+15,1,9:42.0,7,1,ATL,MIA,0,away,FreeThrow,,,make1,1,J. Ennis,
+16,1,9:42.0,7,1,ATL,MIA,0,away,FreeThrow,,,make1,0,J. Ennis,
+17,1,9:41.0,7,1,ATL,MIA,1,home,DefReb,,,DefReb,,T. Sefolosha,
+18,1,9:26.0,7,1,ATL,MIA,15,home,JS,,25,miss3,0,J. Teague,
+19,1,9:24.0,7,1,ATL,MIA,2,home,OffReb,,,OffReb,,T. Sefolosha,
+20,1,9:15.0,10,1,ATL,MIA,9,home,JS,assist,23,make3,3,K. Korver,J. Teague
+21,1,8:52.0,10,1,ATL,MIA,23,away,LostBall,steal,,turnover,,C. Bosh,K. Korver
+22,1,8:47.0,12,1,ATL,MIA,5,home,DK,assist,0,make2,2,T. Sefolosha,J. Teague
+23,1,8:46.0,12,1,ATL,MIA,1,away,Timeout,,,,,,
+24,1,8:31.0,12,3,ATL,MIA,15,away,DK,assist,0,make2,2,C. Bosh,N. Cole
+25,1,8:14.0,14,3,ATL,MIA,17,home,LU,assist,1,make2,2,J. Teague,A. Horford
+26,1,8:14.0,14,3,ATL,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Cole,J. Teague
+27,1,8:14.0,15,3,ATL,MIA,0,home,FreeThrow,,,make1,1,J. Teague,
+28,1,7:51.0,15,3,ATL,MIA,23,away,JS,,20,miss2,0,C. Bosh,
+29,1,7:48.0,15,3,ATL,MIA,3,away,OffReb,,,OffReb,,J. Ennis,
+30,1,7:41.0,15,3,ATL,MIA,7,away,JS,,15,miss2,0,S. Williams,
+31,1,7:40.0,15,3,ATL,MIA,1,home,DefReb,,,DefReb,,A. Horford,
+32,1,7:29.0,15,3,ATL,MIA,11,home,JS,,11,miss2,0,P. Millsap,
+33,1,7:27.0,15,3,ATL,MIA,2,away,DefReb,,,DefReb,,C. Bosh,
+34,1,7:17.0,15,3,ATL,MIA,10,away,BadPass,steal,,turnover,,S. Williams,T. Sefolosha
+35,1,7:11.0,15,3,ATL,MIA,6,home,BadPass,steal,,turnover,,T. Sefolosha,J. Ennis
+36,1,7:03.0,15,3,ATL,MIA,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Horford,C. Bosh
+37,1,7:03.0,15,3,ATL,MIA,0,away,Sub,,,,,M. Chalmers,J. Ennis
+38,1,7:03.0,15,3,ATL,MIA,0,home,Sub,,,,,P. Antić,A. Horford
+39,1,6:57.0,15,3,ATL,MIA,6,away,LU,block,1,miss2,0,N. Cole,T. Sefolosha
+40,1,6:55.0,15,3,ATL,MIA,2,home,DefReb,,,DefReb,,J. Teague,
+41,1,6:51.0,15,3,ATL,MIA,4,home,JS,,24,miss3,0,J. Teague,
+42,1,6:49.0,15,3,ATL,MIA,2,away,DefReb,,,DefReb,,L. Deng,
+43,1,6:44.0,15,5,ATL,MIA,5,away,DK,assist,0,make2,2,S. Williams,N. Cole
+44,1,6:27.0,17,5,ATL,MIA,17,home,LU,assist,1,make2,2,P. Antić,T. Sefolosha
+45,1,6:27.0,17,5,ATL,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Bosh,P. Antić
+46,1,6:27.0,18,5,ATL,MIA,0,home,FreeThrow,,,make1,1,P. Antić,
+47,1,6:16.0,18,5,ATL,MIA,11,away,JS,block,21,miss2,0,L. Deng,T. Sefolosha
+48,1,6:14.0,18,5,ATL,MIA,2,home,DefReb,,,DefReb,,P. Millsap,
+49,1,6:13.0,18,5,ATL,MIA,1,home,BadPass,steal,,turnover,,P. Millsap,C. Bosh
+50,1,6:07.0,18,5,ATL,MIA,6,away,LU,,1,miss2,0,N. Cole,
+51,1,6:06.0,18,5,ATL,MIA,1,home,DefReb,,,DefReb,,K. Korver,
+52,1,6:02.0,18,5,ATL,MIA,4,home,LostBall,,,turnover,,T. Sefolosha,
+53,1,5:55.0,18,7,ATL,MIA,7,away,LU,assist,1,make2,2,M. Chalmers,N. Cole
+54,1,5:55.0,18,7,ATL,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Korver,M. Chalmers
+55,1,5:55.0,18,8,ATL,MIA,0,away,FreeThrow,,,make1,1,M. Chalmers,
+56,1,5:41.0,21,8,ATL,MIA,14,home,JS,assist,23,make3,3,T. Sefolosha,K. Korver
+57,1,5:29.0,21,8,ATL,MIA,12,home,Sub,,,,,D. Schröder,K. Korver
+58,1,5:26.0,21,8,ATL,MIA,3,away,JS,,16,miss2,0,N. Cole,
+59,1,5:24.0,21,8,ATL,MIA,2,home,DefReb,,,DefReb,,P. Millsap,
+60,1,5:07.0,21,8,ATL,MIA,17,home,JS,,24,miss3,0,P. Antić,
+61,1,5:05.0,21,8,ATL,MIA,2,away,DefReb,,,DefReb,,S. Williams,
+62,1,4:57.0,21,8,ATL,MIA,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Antić,C. Bosh
+63,1,4:57.0,21,8,ATL,MIA,0,away,Sub,,,,,C. Andersen,C. Bosh
+64,1,4:42.0,21,11,ATL,MIA,15,away,JS,assist,22,make3,3,S. Williams,M. Chalmers
+65,1,4:26.0,21,11,ATL,MIA,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Williams,P. Millsap
+66,1,4:26.0,21,11,ATL,MIA,0,home,FreeThrow,,,make1,0,P. Millsap,
+67,1,4:26.0,21,11,ATL,MIA,0,home,OffReb,,,OffReb,,Team,
+68,1,4:26.0,21,11,ATL,MIA,0,home,Sub,,,,,S. Mack,J. Teague
+69,1,4:26.0,22,11,ATL,MIA,0,home,FreeThrow,,,make1,1,P. Millsap,
+70,1,4:07.0,22,11,ATL,MIA,19,away,BadPass,steal,,turnover,,N. Cole,P. Millsap
+71,1,4:01.0,22,11,ATL,MIA,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Williams,P. Millsap
+72,1,4:01.0,23,11,ATL,MIA,0,home,FreeThrow,,,make1,1,P. Millsap,
+73,1,4:01.0,23,11,ATL,MIA,0,away,Sub,,,,,S. Napier,N. Cole
+74,1,4:01.0,23,11,ATL,MIA,0,home,FreeThrow,,,make1,0,P. Millsap,
+75,1,4:00.0,23,11,ATL,MIA,1,away,DefReb,,,DefReb,,L. Deng,
+76,1,3:37.0,23,13,ATL,MIA,23,away,JS,,17,make2,2,S. Napier,
+77,1,3:19.0,23,13,ATL,MIA,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Napier,T. Sefolosha
+78,1,3:19.0,24,13,ATL,MIA,0,home,FreeThrow,,,make1,1,T. Sefolosha,
+79,1,3:19.0,24,13,ATL,MIA,0,home,Sub,,,,,M. Scott,P. Millsap
+80,1,3:19.0,24,13,ATL,MIA,0,away,Sub,,,,,C. Bosh,S. Williams
+81,1,3:19.0,25,13,ATL,MIA,0,home,FreeThrow,,,make1,1,T. Sefolosha,
+82,1,2:54.0,25,15,ATL,MIA,25,away,LU,assist,0,make2,2,C. Bosh,S. Napier
+83,1,2:45.0,25,15,ATL,MIA,9,home,Timeout,,,,,,
+84,1,2:40.0,27,15,ATL,MIA,5,home,LU,assist,1,make2,2,D. Schröder,P. Antić
+85,1,2:40.0,27,15,ATL,MIA,0,away,DefGoaltending,,,DefGoaltending,,C. Andersen,
+86,1,2:26.0,27,15,ATL,MIA,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Antić,M. Chalmers
+87,1,2:26.0,27,16,ATL,MIA,0,away,FreeThrow,,,make1,1,M. Chalmers,
+88,1,2:26.0,27,16,ATL,MIA,0,away,Sub,,,,,S. Brown,L. Deng
+89,1,2:26.0,27,17,ATL,MIA,0,away,FreeThrow,,,make1,1,M. Chalmers,
+90,1,2:14.0,27,17,ATL,MIA,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Napier,D. Schröder
+91,1,2:14.0,28,17,ATL,MIA,0,home,FreeThrow,,,make1,1,D. Schröder,
+92,1,2:14.0,29,17,ATL,MIA,0,home,FreeThrow,,,make1,1,D. Schröder,
+93,1,1:54.0,29,17,ATL,MIA,20,away,JS,,22,miss3,0,M. Chalmers,
+94,1,1:53.0,29,17,ATL,MIA,1,home,DefReb,,,DefReb,,P. Antić,
+95,1,1:31.0,32,17,ATL,MIA,22,home,JS,assist,25,make3,3,S. Mack,D. Schröder
+96,1,1:15.0,32,19,ATL,MIA,16,away,JS,assist,19,make2,2,C. Bosh,M. Chalmers
+97,1,1:06.0,32,19,ATL,MIA,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Andersen,T. Sefolosha
+98,1,1:06.0,33,19,ATL,MIA,0,home,FreeThrow,,,make1,1,T. Sefolosha,
+99,1,1:06.0,33,19,ATL,MIA,0,home,Sub,,,,,A. Horford,P. Antić
+100,1,1:06.0,33,19,ATL,MIA,0,home,FreeThrow,,,make1,0,T. Sefolosha,
+101,1,1:04.0,33,19,ATL,MIA,2,away,DefReb,,,DefReb,,C. Andersen,
+102,1,0:42.0,33,19,ATL,MIA,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Sefolosha,M. Chalmers
+103,1,0:42.0,33,20,ATL,MIA,0,away,FreeThrow,,,make1,1,M. Chalmers,
+104,1,0:42.0,33,20,ATL,MIA,0,home,Sub,,,,,K. Korver,T. Sefolosha
+105,1,0:42.0,33,21,ATL,MIA,0,away,FreeThrow,,,make1,1,M. Chalmers,
+106,1,0:30.0,35,21,ATL,MIA,12,home,LU,,2,make2,2,D. Schröder,
+107,1,0:13.0,35,23,ATL,MIA,17,away,JS,assist,16,make2,2,M. Chalmers,C. Andersen
+108,1,0:00.0,35,23,ATL,MIA,13,home,JS,,24,miss3,0,D. Schröder,
+109,1,0:00.0,35,23,ATL,MIA,0,home,OffReb,,,OffReb,,Team,
+110,2,11:44.0,37,23,ATL,MIA,16,home,JS,assist,9,make2,2,M. Scott,D. Schröder
+111,2,11:23.0,37,23,ATL,MIA,21,away,JS,,11,miss2,0,S. Brown,
+112,2,11:23.0,37,23,ATL,MIA,0,away,OffReb,,,OffReb,,Team,
+113,2,11:23.0,37,23,ATL,MIA,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Mack,C. Andersen
+114,2,11:16.0,37,23,ATL,MIA,7,away,LostBall,steal,,turnover,,M. Chalmers,S. Mack
+115,2,11:12.0,39,23,ATL,MIA,4,home,LU,assist,1,make2,2,S. Mack,M. Scott
+116,2,10:50.0,39,25,ATL,MIA,22,away,LU,assist,1,make2,2,S. Napier,M. Chalmers
+117,2,10:38.0,39,25,ATL,MIA,12,home,HS,,5,miss2,0,A. Horford,
+118,2,10:36.0,39,25,ATL,MIA,2,away,DefReb,,,DefReb,,C. Bosh,
+119,2,10:26.0,39,28,ATL,MIA,10,away,JS,,23,make3,3,S. Brown,
+120,2,10:14.0,39,28,ATL,MIA,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Chalmers,S. Mack
+121,2,10:02.0,41,28,ATL,MIA,12,home,JS,assist,20,make2,2,A. Horford,S. Mack
+122,2,9:46.0,41,28,ATL,MIA,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Scott,C. Bosh
+123,2,9:46.0,41,29,ATL,MIA,0,away,FreeThrow,,,make1,1,C. Bosh,
+124,2,9:46.0,41,29,ATL,MIA,0,away,Sub,,,,,U. Haslem,C. Andersen
+125,2,9:46.0,41,30,ATL,MIA,0,away,FreeThrow,,,make1,1,C. Bosh,
+126,2,9:38.0,41,30,ATL,MIA,8,home,BadPass,steal,,turnover,,S. Mack,U. Haslem
+127,2,9:24.0,41,30,ATL,MIA,14,away,JS,,16,miss2,0,C. Bosh,
+128,2,9:23.0,41,30,ATL,MIA,1,away,OffReb,,,OffReb,,Team,
+129,2,9:13.0,41,32,ATL,MIA,10,away,LU,assist,2,make2,2,M. Chalmers,C. Bosh
+130,2,8:57.0,44,32,ATL,MIA,16,home,JS,assist,25,make3,3,K. Korver,A. Horford
+131,2,8:41.0,44,32,ATL,MIA,16,away,BadPass,steal,,turnover,,S. Napier,K. Korver
+132,2,8:37.0,44,32,ATL,MIA,4,home,DK,,0,miss2,0,M. Scott,
+133,2,8:35.0,44,32,ATL,MIA,2,away,DefReb,,,DefReb,,S. Napier,
+134,2,8:26.0,44,32,ATL,MIA,9,away,JS,,26,miss3,0,S. Brown,
+135,2,8:24.0,44,32,ATL,MIA,2,home,DefReb,,,DefReb,,D. Schröder,
+136,2,8:14.0,44,32,ATL,MIA,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Chalmers,M. Scott
+137,2,8:14.0,44,32,ATL,MIA,0,away,Timeout,,,,,,
+138,2,8:14.0,44,32,ATL,MIA,0,home,Sub,,,,,J. Teague,A. Horford
+139,2,8:14.0,44,32,ATL,MIA,0,home,Sub,,,,,P. Antić,S. Mack
+140,2,8:14.0,44,32,ATL,MIA,0,away,Sub,,,,,S. Williams,C. Bosh
+141,2,8:14.0,45,32,ATL,MIA,0,home,FreeThrow,,,make1,1,M. Scott,
+142,2,8:14.0,46,32,ATL,MIA,0,home,FreeThrow,,,make1,1,M. Scott,
+143,2,7:54.0,46,34,ATL,MIA,20,away,JS,assist,20,make2,2,S. Williams,M. Chalmers
+144,2,7:37.0,46,34,ATL,MIA,17,home,JS,,25,miss3,0,M. Scott,
+145,2,7:35.0,46,34,ATL,MIA,2,away,DefReb,,,DefReb,,S. Brown,
+146,2,7:15.0,46,34,ATL,MIA,20,away,D3SecTech,,,,,,
+147,2,7:15.0,46,35,ATL,MIA,0,away,FreeThrow,,,make1,1,M. Chalmers makes technical free throw,
+148,2,7:15.0,46,35,ATL,MIA,0,away,Sub,,,,,L. Deng,S. Brown
+149,2,7:15.0,46,35,ATL,MIA,0,home,Sub,,,,,P. Millsap,M. Scott
+150,2,7:08.0,46,37,ATL,MIA,7,away,DK,assist,0,make2,2,U. Haslem,M. Chalmers
+151,2,6:46.0,46,37,ATL,MIA,22,home,BadPass,steal,,turnover,,J. Teague,S. Williams
+152,2,6:40.0,46,39,ATL,MIA,6,away,LU,,1,make2,2,L. Deng,
+153,2,6:27.0,48,39,ATL,MIA,13,home,LU,,2,make2,2,D. Schröder,
+154,2,6:05.0,48,39,ATL,MIA,22,away,JS,,15,miss2,0,U. Haslem,
+155,2,6:03.0,48,39,ATL,MIA,2,away,OffReb,,,OffReb,,S. Williams,
+156,2,5:57.0,48,39,ATL,MIA,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Antić,M. Chalmers
+157,2,5:57.0,48,39,ATL,MIA,0,home,Timeout,,,,,,
+158,2,5:57.0,48,39,ATL,MIA,0,home,Sub,,,,,A. Horford,K. Korver
+159,2,5:57.0,48,39,ATL,MIA,0,home,Sub,,,,,T. Sefolosha,P. Antić
+160,2,5:57.0,48,39,ATL,MIA,0,away,Sub,,,,,N. Cole,S. Napier
+161,2,5:47.0,48,39,ATL,MIA,10,away,JS,,10,miss2,0,L. Deng,
+162,2,5:46.0,48,39,ATL,MIA,1,home,DefReb,,,DefReb,,A. Horford,
+163,2,5:29.0,48,39,ATL,MIA,17,home,JS,,25,miss3,0,J. Teague,
+164,2,5:27.0,48,39,ATL,MIA,2,away,DefReb,,,DefReb,,U. Haslem,
+165,2,5:14.0,48,42,ATL,MIA,13,away,JS,assist,24,make3,3,S. Williams,N. Cole
+166,2,5:02.0,48,42,ATL,MIA,12,home,JS,,3,miss2,0,P. Millsap,
+167,2,5:00.0,48,42,ATL,MIA,2,away,DefReb,,,DefReb,,U. Haslem,
+168,2,4:51.0,48,42,ATL,MIA,9,away,JS,,25,miss3,0,S. Williams,
+169,2,4:50.0,48,42,ATL,MIA,1,home,DefReb,,,DefReb,,D. Schröder,
+170,2,4:36.0,50,42,ATL,MIA,14,home,JS,assist,21,make2,2,P. Millsap,D. Schröder
+171,2,4:16.0,50,42,ATL,MIA,20,home,KickBallViolation,,,KickBallViolation,,A. Horford,
+172,2,4:16.0,50,42,ATL,MIA,0,home,Sub,,,,,K. Korver,D. Schröder
+173,2,4:01.0,50,42,ATL,MIA,15,away,LU,,2,miss2,0,U. Haslem,
+174,2,4:00.0,50,42,ATL,MIA,1,home,DefReb,,,DefReb,,T. Sefolosha,
+175,2,3:51.0,50,42,ATL,MIA,9,home,OffensiveFoul,,,turnover,,A. Horford,
+176,2,3:51.0,50,42,ATL,MIA,0,away,ChargeFoul,DrawnBy,,ChargeFoul,,A. Horford,M. Chalmers
+177,2,3:51.0,50,42,ATL,MIA,0,home,Sub,,,,,M. Muscala,A. Horford
+178,2,3:28.0,50,44,ATL,MIA,23,away,LU,assist,0,make2,2,N. Cole,L. Deng
+179,2,3:22.0,50,44,ATL,MIA,6,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,N. Cole,J. Teague
+180,2,3:22.0,50,44,ATL,MIA,0,away,Sub,,,,,C. Bosh,U. Haslem
+181,2,3:12.0,50,44,ATL,MIA,10,home,JS,,18,miss2,0,P. Millsap,
+182,2,3:11.0,50,44,ATL,MIA,1,away,DefReb,,,DefReb,,S. Williams,
+183,2,3:04.0,50,44,ATL,MIA,7,away,LostBall,steal,,turnover,,L. Deng,P. Millsap
+184,2,2:56.0,50,44,ATL,MIA,8,home,BadPass,steal,,turnover,,K. Korver,C. Bosh
+185,2,2:43.0,50,46,ATL,MIA,13,away,JS,assist,21,make2,2,S. Williams,M. Chalmers
+186,2,2:23.0,52,46,ATL,MIA,20,home,LU,assist,2,make2,2,P. Millsap,J. Teague
+187,2,2:05.0,52,48,ATL,MIA,18,away,JS,assist,6,make2,2,C. Bosh,N. Cole
+188,2,1:47.0,52,48,ATL,MIA,18,home,JS,block,5,miss2,0,J. Teague,N. Cole
+189,2,1:45.0,52,48,ATL,MIA,2,away,DefReb,,,DefReb,,N. Cole,
+190,2,1:40.0,52,48,ATL,MIA,5,away,JS,,10,miss2,0,N. Cole,
+191,2,1:37.0,52,48,ATL,MIA,3,home,DefReb,,,DefReb,,K. Korver,
+192,2,1:34.0,52,48,ATL,MIA,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Cole,J. Teague
+193,2,1:34.0,52,48,ATL,MIA,0,away,Timeout,,,,,,
+194,2,1:34.0,52,48,ATL,MIA,0,away,Sub,,,,,U. Haslem,S. Williams
+195,2,1:34.0,52,48,ATL,MIA,0,away,Sub,,,,,S. Napier,N. Cole
+196,2,1:34.0,52,48,ATL,MIA,0,away,Sub,,,,,S. Brown,M. Chalmers
+197,2,1:34.0,53,48,ATL,MIA,0,home,FreeThrow,,,make1,1,J. Teague,
+198,2,1:34.0,54,48,ATL,MIA,0,home,FreeThrow,,,make1,1,J. Teague,
+199,2,1:18.0,54,48,ATL,MIA,16,away,LU,,1,miss2,0,C. Bosh,
+200,2,1:16.0,54,48,ATL,MIA,2,away,OffReb,,,OffReb,,U. Haslem,
+201,2,1:16.0,54,50,ATL,MIA,0,away,LU,,0,make2,2,U. Haslem,
+202,2,1:07.0,57,50,ATL,MIA,9,home,JS,assist,23,make3,3,K. Korver,P. Millsap
+203,2,0:52.0,57,50,ATL,MIA,15,away,BadPass,steal,,turnover,,S. Napier,J. Teague
+204,2,0:47.0,59,50,ATL,MIA,5,home,LU,assist,1,make2,2,J. Teague,P. Millsap
+205,2,0:42.0,59,50,ATL,MIA,5,away,Timeout,,,,,,
+206,2,0:42.0,59,50,ATL,MIA,0,away,Sub,,,,,M. Chalmers,S. Brown
+207,2,0:33.0,59,50,ATL,MIA,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Millsap,C. Bosh
+208,2,0:33.0,59,51,ATL,MIA,0,away,FreeThrow,,,make1,1,C. Bosh,
+209,2,0:33.0,59,51,ATL,MIA,0,away,Sub,,,,,S. Brown,M. Chalmers
+210,2,0:33.0,59,52,ATL,MIA,0,away,FreeThrow,,,make1,1,C. Bosh,
+211,2,0:10.0,62,52,ATL,MIA,23,home,JS,assist,25,make3,3,P. Millsap,J. Teague
+212,2,0:00.0,62,52,ATL,MIA,10,away,JS,,27,miss3,0,S. Brown,
+213,2,0:00.0,62,52,ATL,MIA,0,away,OffReb,,,OffReb,,Team,
+214,3,11:47.0,62,52,ATL,MIA,13,home,JS,,4,miss2,0,P. Millsap,
+215,3,11:45.0,62,52,ATL,MIA,2,away,DefReb,,,DefReb,,N. Cole,
+216,3,11:30.0,62,54,ATL,MIA,15,away,DK,assist,0,make2,2,C. Bosh,N. Cole
+217,3,11:17.0,64,54,ATL,MIA,13,home,JS,assist,20,make2,2,A. Horford,K. Korver
+218,3,10:59.0,64,54,ATL,MIA,18,away,LostBall,,,turnover,,N. Cole,
+219,3,10:49.0,64,54,ATL,MIA,10,home,BadPass,,,turnover,,T. Sefolosha,
+220,3,10:35.0,64,54,ATL,MIA,14,away,LU,block,1,miss2,0,C. Bosh,P. Millsap
+221,3,10:33.0,64,54,ATL,MIA,2,home,DefReb,,,DefReb,,A. Horford,
+222,3,10:29.0,64,54,ATL,MIA,4,home,JS,,22,miss3,0,K. Korver,
+223,3,10:28.0,64,54,ATL,MIA,1,away,DefReb,,,DefReb,,Team,
+224,3,10:15.0,64,54,ATL,MIA,13,away,JS,,21,miss2,0,M. Chalmers,
+225,3,10:13.0,64,54,ATL,MIA,2,home,DefReb,,,DefReb,,A. Horford,
+226,3,10:02.0,64,54,ATL,MIA,11,home,BadPass,steal,,turnover,,J. Teague,N. Cole
+227,3,9:59.0,64,54,ATL,MIA,3,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,K. Korver,L. Deng
+228,3,9:59.0,64,55,ATL,MIA,0,away,FreeThrow,,,make1,1,L. Deng,
+229,3,9:59.0,64,55,ATL,MIA,0,away,FreeThrow,,,make1,0,L. Deng,
+230,3,9:57.0,64,55,ATL,MIA,2,home,DefReb,,,DefReb,,P. Millsap,
+231,3,9:44.0,67,55,ATL,MIA,13,home,JS,assist,25,make3,3,K. Korver,J. Teague
+232,3,9:30.0,67,55,ATL,MIA,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Korver,M. Chalmers
+233,3,9:23.0,67,57,ATL,MIA,7,away,JS,assist,19,make2,2,N. Cole,C. Bosh
+234,3,9:01.0,67,57,ATL,MIA,22,home,BadPass,steal,,turnover,,J. Teague,N. Cole
+235,3,8:52.0,67,60,ATL,MIA,9,away,JS,assist,25,make3,3,S. Williams,M. Chalmers
+236,3,8:34.0,69,60,ATL,MIA,18,home,JS,,20,make2,2,J. Teague,
+237,3,8:17.0,69,60,ATL,MIA,17,away,BadPass,,,turnover,,C. Bosh,
+238,3,7:54.0,71,60,ATL,MIA,23,home,JS,,16,make2,2,P. Millsap,
+239,3,7:33.0,71,63,ATL,MIA,21,away,JS,assist,25,make3,3,L. Deng,M. Chalmers
+240,3,7:15.0,71,63,ATL,MIA,18,home,JS,,25,miss3,0,P. Millsap,
+241,3,7:14.0,71,63,ATL,MIA,1,away,DefReb,,,DefReb,,C. Bosh,
+242,3,6:57.0,71,66,ATL,MIA,17,away,JS,assist,23,make3,3,S. Williams,M. Chalmers
+243,3,6:42.0,73,66,ATL,MIA,15,home,JS,assist,20,make2,2,A. Horford,J. Teague
+244,3,6:28.0,73,66,ATL,MIA,14,away,LU,block,2,miss2,0,C. Bosh,A. Horford
+245,3,6:26.0,73,66,ATL,MIA,2,home,DefReb,,,DefReb,,A. Horford,
+246,3,6:15.0,75,66,ATL,MIA,11,home,LU,assist,1,make2,2,T. Sefolosha,J. Teague
+247,3,6:15.0,75,66,ATL,MIA,0,away,Timeout,,,,,,
+248,3,6:15.0,75,66,ATL,MIA,0,home,Sub,,,,,P. Antić,A. Horford
+249,3,5:57.0,75,66,ATL,MIA,18,away,JS,,25,miss3,0,L. Deng,
+250,3,5:55.0,75,66,ATL,MIA,2,home,DefReb,,,DefReb,,P. Antić,
+251,3,5:37.0,75,66,ATL,MIA,18,home,LostBall,steal,,turnover,,P. Millsap,N. Cole
+252,3,5:32.0,75,68,ATL,MIA,5,away,LU,,0,make2,2,N. Cole,
+253,3,5:19.0,75,68,ATL,MIA,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Cole,P. Millsap
+254,3,5:19.0,75,68,ATL,MIA,0,away,Sub,,,,,S. Napier,N. Cole
+255,3,5:13.0,75,68,ATL,MIA,6,home,LU,,2,miss2,0,T. Sefolosha,
+256,3,5:11.0,75,68,ATL,MIA,2,home,OffReb,,,OffReb,,P. Antić,
+257,3,5:06.0,77,68,ATL,MIA,5,home,DK,assist,0,make2,2,P. Millsap,K. Korver
+258,3,4:43.0,77,68,ATL,MIA,23,away,JS,block,13,miss2,0,S. Williams,T. Sefolosha
+259,3,4:41.0,77,68,ATL,MIA,2,away,OffReb,,,OffReb,,S. Williams,
+260,3,4:38.0,77,70,ATL,MIA,3,away,JS,,18,make2,2,M. Chalmers,
+261,3,4:25.0,77,70,ATL,MIA,13,home,JS,,25,miss3,0,J. Teague,
+262,3,4:23.0,77,70,ATL,MIA,2,away,DefReb,,,DefReb,,S. Williams,
+263,3,4:02.0,77,70,ATL,MIA,21,away,JS,,20,miss2,0,C. Bosh,
+264,3,4:00.0,77,70,ATL,MIA,2,home,DefReb,,,DefReb,,T. Sefolosha,
+265,3,3:52.0,77,70,ATL,MIA,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Williams,J. Teague
+266,3,3:52.0,77,70,ATL,MIA,0,home,Sub,,,,,S. Mack,K. Korver
+267,3,3:52.0,77,70,ATL,MIA,0,home,Sub,,,,,D. Schröder,J. Teague
+268,3,3:52.0,77,70,ATL,MIA,0,away,Sub,,,,,U. Haslem,C. Bosh
+269,3,3:43.0,79,70,ATL,MIA,9,home,JS,assist,19,make2,2,S. Mack,D. Schröder
+270,3,3:17.0,79,72,ATL,MIA,26,away,LU,assist,2,make2,2,M. Chalmers,U. Haslem
+271,3,3:16.0,79,72,ATL,MIA,1,home,Timeout,,,,,,
+272,3,2:50.0,79,72,ATL,MIA,26,home,JS,,33,miss3,0,P. Millsap,
+273,3,2:49.0,79,72,ATL,MIA,1,away,DefReb,,,DefReb,,L. Deng,
+274,3,2:27.0,79,75,ATL,MIA,22,away,JS,assist,23,make3,3,L. Deng,M. Chalmers
+275,3,2:12.0,79,75,ATL,MIA,15,home,JS,,24,miss3,0,D. Schröder,
+276,3,2:08.0,79,75,ATL,MIA,4,home,OffReb,,,OffReb,,P. Millsap,
+277,3,2:06.0,81,75,ATL,MIA,2,home,LU,,0,make2,2,P. Millsap,
+278,3,1:47.0,81,75,ATL,MIA,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Antić,L. Deng
+279,3,1:47.0,81,76,ATL,MIA,0,away,FreeThrow,,,make1,1,L. Deng,
+280,3,1:47.0,81,76,ATL,MIA,0,home,Sub,,,,,M. Scott,T. Sefolosha
+281,3,1:47.0,81,76,ATL,MIA,0,home,Sub,,,,,A. Horford,P. Millsap
+282,3,1:47.0,81,76,ATL,MIA,0,home,Sub,,,,,K. Korver,P. Antić
+283,3,1:47.0,81,76,ATL,MIA,0,away,Sub,,,,,C. Bosh,S. Williams
+284,3,1:47.0,81,76,ATL,MIA,0,away,Sub,,,,,S. Brown,M. Chalmers
+285,3,1:47.0,81,77,ATL,MIA,0,away,FreeThrow,,,make1,1,L. Deng,
+286,3,1:29.0,81,77,ATL,MIA,18,home,LU,,1,miss2,0,D. Schröder,
+287,3,1:28.0,81,77,ATL,MIA,1,away,DefReb,,,DefReb,,U. Haslem,
+288,3,1:24.0,81,77,ATL,MIA,4,away,LostBall,,,turnover,,S. Napier,
+289,3,1:07.0,84,77,ATL,MIA,17,home,JS,assist,24,make3,3,S. Mack,A. Horford
+290,3,0:48.0,84,79,ATL,MIA,19,away,JS,,17,make2,2,C. Bosh,
+291,3,0:34.0,84,79,ATL,MIA,14,home,LU,,1,miss2,0,K. Korver,
+292,3,0:33.0,84,79,ATL,MIA,1,home,OffReb,,,OffReb,,Team,
+293,3,0:31.0,86,79,ATL,MIA,2,home,LU,assist,0,make2,2,A. Horford,S. Mack
+294,3,0:07.0,86,79,ATL,MIA,24,away,JS,,26,miss3,0,S. Napier,
+295,3,0:05.0,86,79,ATL,MIA,2,home,DefReb,,,DefReb,,A. Horford,
+296,3,0:00.0,86,79,ATL,MIA,5,home,JS,,25,miss3,0,M. Scott,
+297,3,0:00.0,86,79,ATL,MIA,0,home,OffReb,,,OffReb,,Team,
+298,4,11:38.0,86,79,ATL,MIA,22,away,JS,,25,miss3,0,M. Chalmers,
+299,4,11:37.0,86,79,ATL,MIA,1,home,DefReb,,,DefReb,,K. Korver,
+300,4,11:23.0,86,79,ATL,MIA,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Chalmers,S. Mack
+301,4,11:16.0,88,79,ATL,MIA,7,home,LU,assist,1,make2,2,M. Scott,K. Korver
+302,4,11:16.0,88,79,ATL,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,U. Haslem,M. Scott
+303,4,11:16.0,89,79,ATL,MIA,0,home,FreeThrow,,,make1,1,M. Scott,
+304,4,11:00.0,89,81,ATL,MIA,16,away,JS,assist,21,make2,2,C. Bosh,S. Brown
+305,4,10:47.0,89,81,ATL,MIA,13,home,JS,,20,miss2,0,K. Korver,
+306,4,10:46.0,89,81,ATL,MIA,1,away,DefReb,,,DefReb,,S. Napier,
+307,4,10:28.0,89,81,ATL,MIA,18,away,JS,,20,miss2,0,S. Napier,
+308,4,10:26.0,89,81,ATL,MIA,2,home,DefReb,,,DefReb,,S. Mack,
+309,4,10:22.0,91,81,ATL,MIA,4,home,LU,,2,make2,2,S. Mack,
+310,4,9:58.0,91,81,ATL,MIA,24,away,JS,,13,miss2,0,M. Chalmers,
+311,4,9:57.0,91,81,ATL,MIA,1,home,DefReb,,,DefReb,,M. Scott,
+312,4,9:41.0,91,81,ATL,MIA,16,home,LU,,1,miss2,0,D. Schröder,
+313,4,9:40.0,91,81,ATL,MIA,1,away,DefReb,,,DefReb,,U. Haslem,
+314,4,9:30.0,91,81,ATL,MIA,10,away,JS,,25,miss3,0,C. Bosh,
+315,4,9:29.0,91,81,ATL,MIA,1,home,DefReb,,,DefReb,,K. Korver,
+316,4,9:20.0,93,81,ATL,MIA,9,home,JS,assist,11,make2,2,M. Scott,K. Korver
+317,4,9:20.0,93,81,ATL,MIA,0,away,Timeout,,,,,,
+318,4,9:20.0,93,81,ATL,MIA,0,away,Sub,,,,,N. Cole,S. Brown
+319,4,9:00.0,93,81,ATL,MIA,20,away,LU,,1,miss2,0,U. Haslem,
+320,4,8:59.0,93,81,ATL,MIA,1,home,DefReb,,,DefReb,,K. Korver,
+321,4,8:37.0,95,81,ATL,MIA,22,home,JS,,19,make2,2,M. Scott,
+322,4,8:13.0,95,81,ATL,MIA,24,away,JS,,16,miss2,0,C. Bosh,
+323,4,8:12.0,95,81,ATL,MIA,1,home,DefReb,,,DefReb,,K. Korver,
+324,4,8:00.0,95,81,ATL,MIA,12,home,JS,,25,miss3,0,M. Scott,
+325,4,7:58.0,95,81,ATL,MIA,2,away,DefReb,,,DefReb,,U. Haslem,
+326,4,7:52.0,95,81,ATL,MIA,6,away,Sub,,,,,L. Deng,S. Napier
+327,4,7:52.0,95,81,ATL,MIA,0,home,Sub,,,,,J. Teague,A. Horford
+328,4,7:52.0,95,81,ATL,MIA,0,home,Sub,,,,,P. Millsap,S. Mack
+329,4,7:49.0,95,83,ATL,MIA,3,away,JS,assist,3,make2,2,M. Chalmers,N. Cole
+330,4,7:38.0,95,83,ATL,MIA,11,home,BadPass,steal,,turnover,,K. Korver,L. Deng
+331,4,7:33.0,95,83,ATL,MIA,5,away,LU,,1,miss2,0,L. Deng,
+332,4,7:31.0,95,83,ATL,MIA,2,home,DefReb,,,DefReb,,M. Scott,
+333,4,7:10.0,97,83,ATL,MIA,21,home,LU,,2,make2,2,D. Schröder,
+334,4,6:58.0,97,83,ATL,MIA,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Scott,U. Haslem
+335,4,6:58.0,97,84,ATL,MIA,0,away,FreeThrow,,,make1,1,U. Haslem,
+336,4,6:58.0,97,84,ATL,MIA,0,home,Sub,,,,,T. Sefolosha,K. Korver
+337,4,6:58.0,97,84,ATL,MIA,0,away,Sub,,,,,S. Williams,C. Bosh
+338,4,6:58.0,97,85,ATL,MIA,0,away,FreeThrow,,,make1,1,U. Haslem,
+339,4,6:50.0,97,85,ATL,MIA,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Williams,D. Schröder
+340,4,6:42.0,97,85,ATL,MIA,8,home,JS,,8,miss2,0,D. Schröder,
+341,4,6:40.0,97,85,ATL,MIA,2,away,DefReb,,,DefReb,,M. Chalmers,
+342,4,6:33.0,97,85,ATL,MIA,7,away,BadPass,steal,,turnover,,M. Chalmers,D. Schröder
+343,4,6:32.0,97,85,ATL,MIA,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,U. Haslem,D. Schröder
+344,4,6:32.0,97,85,ATL,MIA,0,away,TechnicalFoul,,,TechnicalFoul,,M. Chalmers,
+345,4,6:32.0,97,85,ATL,MIA,0,away,TechnicalFoul,,,TechnicalFoul,,U. Haslem,
+346,4,6:32.0,97,85,ATL,MIA,0,away,Timeout,,,,,,
+347,4,6:32.0,98,85,ATL,MIA,0,home,FreeThrow,,,make1,1,J. Teague makes technical free throw,
+348,4,6:32.0,99,85,ATL,MIA,0,home,FreeThrow,,,make1,1,J. Teague makes technical free throw,
+349,4,6:32.0,99,85,ATL,MIA,0,home,Sub,,,,,K. Korver,T. Sefolosha
+350,4,6:32.0,99,85,ATL,MIA,0,away,Sub,,,,,C. Bosh,U. Haslem
+351,4,6:14.0,102,85,ATL,MIA,18,home,JS,assist,22,make3,3,P. Millsap,D. Schröder
+352,4,5:58.0,102,85,ATL,MIA,16,away,LostBall,steal,,turnover,,C. Bosh,D. Schröder
+353,4,5:53.0,104,85,ATL,MIA,5,home,DK,assist,0,make2,2,J. Teague,D. Schröder
+354,4,5:52.0,104,85,ATL,MIA,1,away,Timeout,,,,,,
+355,4,5:52.0,104,85,ATL,MIA,0,home,Sub,,,,,T. Sefolosha,K. Korver
+356,4,5:34.0,104,85,ATL,MIA,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Teague,C. Bosh
+357,4,5:34.0,104,86,ATL,MIA,0,away,FreeThrow,,,make1,1,C. Bosh,
+358,4,5:34.0,104,87,ATL,MIA,0,away,FreeThrow,,,make1,1,C. Bosh,
+359,4,5:17.0,104,87,ATL,MIA,17,home,JS,,25,miss3,0,D. Schröder,
+360,4,5:16.0,104,87,ATL,MIA,1,away,DefReb,,,DefReb,,C. Bosh,
+361,4,5:11.0,104,87,ATL,MIA,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Teague,N. Cole
+362,4,5:11.0,104,87,ATL,MIA,0,home,Sub,,,,,K. Korver,D. Schröder
+363,4,5:11.0,104,87,ATL,MIA,0,home,TechnicalFoul,,,TechnicalFoul,,M. Scott,
+364,4,5:11.0,104,87,ATL,MIA,0,away,TechnicalFoul,,,TechnicalFoul,,S. Williams,
+365,4,4:51.0,104,87,ATL,MIA,20,away,JS,,24,miss3,0,C. Bosh,
+366,4,4:49.0,104,87,ATL,MIA,2,home,DefReb,,,DefReb,,T. Sefolosha,
+367,4,4:42.0,104,87,ATL,MIA,7,home,LU,block,2,miss2,0,T. Sefolosha,C. Bosh
+368,4,4:42.0,104,87,ATL,MIA,0,home,OffReb,,,OffReb,,Team,
+369,4,4:42.0,104,87,ATL,MIA,0,home,Sub,,,,,A. Horford,M. Scott
+370,4,4:39.0,106,87,ATL,MIA,3,home,JS,assist,4,make2,2,T. Sefolosha,K. Korver
+371,4,4:15.0,106,87,ATL,MIA,24,away,JS,,20,miss2,0,C. Bosh,
+372,4,4:13.0,106,87,ATL,MIA,2,away,OffReb,,,OffReb,,L. Deng,
+373,4,4:10.0,106,90,ATL,MIA,3,away,JS,,23,make3,3,L. Deng,
+374,4,3:54.0,106,90,ATL,MIA,16,home,JS,block,4,miss2,0,A. Horford,S. Williams
+375,4,3:51.0,106,90,ATL,MIA,3,away,DefReb,,,DefReb,,C. Bosh,
+376,4,3:40.0,106,90,ATL,MIA,11,away,JS,,25,miss3,0,L. Deng,
+377,4,3:38.0,106,90,ATL,MIA,2,home,DefReb,,,DefReb,,P. Millsap,
+378,4,3:32.0,106,90,ATL,MIA,6,home,JS,,24,miss3,0,J. Teague,
+379,4,3:30.0,106,90,ATL,MIA,2,away,DefReb,,,DefReb,,C. Bosh,
+380,4,3:18.0,106,92,ATL,MIA,12,away,LU,assist,1,make2,2,L. Deng,S. Williams
+381,4,3:18.0,106,92,ATL,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Korver,L. Deng
+382,4,3:18.0,106,93,ATL,MIA,0,away,FreeThrow,,,make1,1,L. Deng,
+383,4,3:00.0,106,93,ATL,MIA,18,home,JS,,25,miss3,0,P. Millsap,
+384,4,2:58.0,106,93,ATL,MIA,2,away,DefReb,,,DefReb,,C. Bosh,
+385,4,2:49.0,106,93,ATL,MIA,9,away,JS,,25,miss3,0,C. Bosh,
+386,4,2:47.0,106,93,ATL,MIA,2,home,DefReb,,,DefReb,,P. Millsap,
+387,4,2:43.0,106,93,ATL,MIA,4,home,Timeout,,,,,,
+388,4,2:34.0,106,93,ATL,MIA,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Williams,P. Millsap
+389,4,2:34.0,107,93,ATL,MIA,0,home,FreeThrow,,,make1,1,P. Millsap,
+390,4,2:34.0,107,93,ATL,MIA,0,home,FreeThrow,,,make1,0,P. Millsap,
+391,4,2:33.0,107,93,ATL,MIA,1,away,DefReb,,,DefReb,,S. Williams,
+392,4,2:22.0,107,93,ATL,MIA,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Sefolosha,L. Deng
+393,4,2:22.0,107,94,ATL,MIA,0,away,FreeThrow,,,make1,1,L. Deng,
+394,4,2:22.0,107,95,ATL,MIA,0,away,FreeThrow,,,make1,1,L. Deng,
+395,4,2:06.0,107,95,ATL,MIA,16,home,BadPass,steal,,turnover,,K. Korver,N. Cole
+396,4,2:05.0,107,95,ATL,MIA,1,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Chalmers,T. Sefolosha
+397,4,2:05.0,107,95,ATL,MIA,0,away,OffensiveFoul,,,turnover,,M. Chalmers,
+398,4,1:46.0,107,95,ATL,MIA,19,home,LU,,1,miss2,0,P. Millsap,
+399,4,1:44.0,107,95,ATL,MIA,2,away,DefReb,,,DefReb,,C. Bosh,
+400,4,1:39.0,107,95,ATL,MIA,5,away,JS,,17,miss2,0,L. Deng,
+401,4,1:38.0,107,95,ATL,MIA,1,home,DefReb,,,DefReb,,T. Sefolosha,
+402,4,1:15.0,109,95,ATL,MIA,23,home,JS,,20,make2,2,A. Horford,
+403,4,1:15.0,109,95,ATL,MIA,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Sefolosha,M. Chalmers
+404,4,1:15.0,109,96,ATL,MIA,0,away,FreeThrow,,,make1,1,M. Chalmers,
+405,4,1:15.0,109,96,ATL,MIA,0,away,Sub,,,,,U. Haslem,L. Deng
+406,4,1:15.0,109,96,ATL,MIA,0,away,Sub,,,,,J. Ennis,C. Bosh
+407,4,1:15.0,109,96,ATL,MIA,0,home,Sub,,,,,S. Mack,T. Sefolosha
+408,4,1:15.0,109,96,ATL,MIA,0,home,Sub,,,,,D. Schröder,K. Korver
+409,4,1:15.0,109,97,ATL,MIA,0,away,FreeThrow,,,make1,1,M. Chalmers,
+410,4,0:56.0,112,97,ATL,MIA,19,home,JS,assist,25,make3,3,J. Teague,A. Horford
+411,4,0:48.0,112,100,ATL,MIA,8,away,JS,assist,24,make3,3,S. Williams,M. Chalmers
+412,4,0:26.0,114,100,ATL,MIA,22,home,JS,assist,19,make2,2,A. Horford,J. Teague
+413,4,0:14.0,114,103,ATL,MIA,12,away,JS,assist,26,make3,3,M. Chalmers,N. Cole

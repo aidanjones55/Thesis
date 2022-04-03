@@ -1,0 +1,496 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,0,2,DEN,IND,15,away,LU,assist,3,make2,2,J. Hill,M. Ellis
+1,1,11:31.0,0,2,DEN,IND,14,home,JS,,22,miss3,0,G. Harris,
+2,1,11:29.0,0,2,DEN,IND,2,home,OffReb,,,OffReb,,D. Gallinari,
+3,1,11:23.0,2,2,DEN,IND,6,home,DK,,0,make2,2,D. Gallinari,
+4,1,11:06.0,2,2,DEN,IND,17,away,JS,,20,miss2,0,M. Ellis,
+5,1,11:05.0,2,2,DEN,IND,1,home,DefReb,,,DefReb,,E. Mudiay,
+6,1,10:44.0,2,2,DEN,IND,21,home,JS,,24,miss3,0,D. Gallinari,
+7,1,10:43.0,2,2,DEN,IND,1,away,DefReb,,,DefReb,,J. Hill,
+8,1,10:28.0,2,5,DEN,IND,15,away,JS,assist,22,make3,3,G. Robinson,P. George
+9,1,10:13.0,4,5,DEN,IND,15,home,LU,assist,2,make2,2,N. Jokić,G. Harris
+10,1,9:47.0,4,8,DEN,IND,26,away,JS,,25,make3,3,P. George,
+11,1,9:34.0,4,8,DEN,IND,13,home,JS,,25,miss3,0,E. Mudiay,
+12,1,9:32.0,4,8,DEN,IND,2,away,DefReb,,,DefReb,,L. Allen,
+13,1,9:15.0,4,8,DEN,IND,17,away,JS,,21,miss2,0,G. Robinson,
+14,1,9:14.0,4,8,DEN,IND,1,home,DefReb,,,DefReb,,E. Mudiay,
+15,1,9:04.0,4,8,DEN,IND,10,home,DblDribble,,,turnover,,D. Gallinari,
+16,1,8:53.0,4,8,DEN,IND,11,away,JS,,24,miss3,0,G. Robinson,
+17,1,8:52.0,4,8,DEN,IND,1,away,OffReb,,,OffReb,,L. Allen,
+18,1,8:44.0,4,10,DEN,IND,8,away,JS,,21,make2,2,M. Ellis,
+19,1,8:25.0,7,10,DEN,IND,19,home,JS,assist,24,make3,3,N. Jokić,E. Mudiay
+20,1,8:16.0,7,10,DEN,IND,9,away,LostBall,steal,,turnover,,J. Hill,N. Jokić
+21,1,8:11.0,9,10,DEN,IND,5,home,DK,assist,0,make2,2,K. Faried,N. Jokić
+22,1,7:58.0,9,12,DEN,IND,13,away,JS,,20,make2,2,P. George,
+23,1,7:36.0,9,12,DEN,IND,22,home,BadPass,steal,,turnover,,E. Mudiay,J. Hill
+24,1,7:30.0,9,14,DEN,IND,6,away,DK,assist,0,make2,2,G. Robinson,M. Ellis
+25,1,7:30.0,9,14,DEN,IND,0,home,Timeout,,,,,,
+26,1,7:18.0,9,14,DEN,IND,12,home,JS,,4,miss2,0,E. Mudiay,
+27,1,7:15.0,9,14,DEN,IND,3,home,OffReb,,,OffReb,,K. Faried,
+28,1,7:07.0,9,14,DEN,IND,8,home,JS,,24,miss3,0,D. Gallinari,
+29,1,7:06.0,9,14,DEN,IND,1,away,DefReb,,,DefReb,,M. Ellis,
+30,1,7:00.0,9,14,DEN,IND,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Ellis,G. Harris
+31,1,7:00.0,9,14,DEN,IND,0,away,OffensiveFoul,,,turnover,,M. Ellis,
+32,1,6:42.0,11,14,DEN,IND,18,home,JS,assist,12,make2,2,N. Jokić,G. Harris
+33,1,6:20.0,11,14,DEN,IND,22,away,BadPass,,,turnover,,M. Ellis,
+34,1,6:10.0,11,14,DEN,IND,10,home,BadPass,,,turnover,,G. Harris,
+35,1,6:01.0,11,17,DEN,IND,9,away,JS,assist,24,make3,3,P. George,M. Ellis
+36,1,5:49.0,13,17,DEN,IND,12,home,LU,assist,1,make2,2,K. Faried,E. Mudiay
+37,1,5:34.0,13,17,DEN,IND,15,away,LostBall,steal,,turnover,,J. Hill,N. Jokić
+38,1,5:30.0,15,17,DEN,IND,4,home,LU,,0,make2,2,G. Harris,
+39,1,5:30.0,15,17,DEN,IND,0,away,Timeout,,,,,,
+40,1,5:17.0,15,19,DEN,IND,13,away,DK,,0,make2,2,J. Hill,
+41,1,5:01.0,15,19,DEN,IND,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hill,N. Jokić
+42,1,5:01.0,16,19,DEN,IND,0,home,FreeThrow,,,make1,1,N. Jokić,
+43,1,5:01.0,16,19,DEN,IND,0,away,Sub,,,,,M. Turner,J. Hill
+44,1,5:01.0,16,19,DEN,IND,0,away,Sub,,,,,C. Miles,G. Robinson
+45,1,5:01.0,17,19,DEN,IND,0,home,FreeThrow,,,make1,1,N. Jokić,
+46,1,4:43.0,17,19,DEN,IND,18,away,BadPass,steal,,turnover,,M. Turner,K. Faried
+47,1,4:35.0,17,19,DEN,IND,8,home,BadPass,steal,,turnover,,D. Gallinari,P. George
+48,1,4:32.0,17,19,DEN,IND,3,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Gallinari,P. George
+49,1,4:25.0,17,21,DEN,IND,7,away,HS,assist,4,make2,2,L. Allen,M. Turner
+50,1,4:14.0,17,21,DEN,IND,11,home,JS,,20,miss2,0,G. Harris,
+51,1,4:13.0,17,21,DEN,IND,1,home,OffReb,,,OffReb,,K. Faried,
+52,1,4:13.0,17,21,DEN,IND,0,home,LU,,0,miss2,0,K. Faried,
+53,1,4:13.0,17,21,DEN,IND,0,home,OffReb,,,OffReb,,K. Faried,
+54,1,4:13.0,17,21,DEN,IND,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Turner,K. Faried
+55,1,4:10.0,17,21,DEN,IND,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Allen,D. Gallinari
+56,1,4:10.0,17,21,DEN,IND,0,home,Sub,,,,,D. Arthur,K. Faried
+57,1,3:55.0,19,21,DEN,IND,15,home,JS,assist,22,make2,2,D. Arthur,E. Mudiay
+58,1,3:40.0,19,21,DEN,IND,15,away,Sub,,,,,J. Young,M. Ellis
+59,1,3:35.0,19,21,DEN,IND,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Arthur,P. George
+60,1,3:33.0,19,21,DEN,IND,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Mudiay,C. Miles
+61,1,3:33.0,19,22,DEN,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+62,1,3:33.0,19,22,DEN,IND,0,away,FreeThrow,,,make1,0,C. Miles,
+63,1,3:32.0,19,22,DEN,IND,1,home,DefReb,,,DefReb,,D. Arthur,
+64,1,3:18.0,19,22,DEN,IND,14,home,LU,block,2,miss2,0,E. Mudiay,M. Turner
+65,1,3:18.0,19,22,DEN,IND,0,home,OffReb,,,OffReb,,Team,
+66,1,3:14.0,21,22,DEN,IND,4,home,DK,assist,0,make2,2,D. Gallinari,D. Arthur
+67,1,2:56.0,21,24,DEN,IND,18,away,JS,,14,make2,2,M. Turner,
+68,1,2:42.0,21,24,DEN,IND,14,home,LU,,2,miss2,0,D. Gallinari,
+69,1,2:40.0,21,24,DEN,IND,2,away,DefReb,,,DefReb,,M. Turner,
+70,1,2:37.0,21,24,DEN,IND,3,away,BadPass,steal,,turnover,,C. Miles,D. Arthur
+71,1,2:33.0,23,24,DEN,IND,4,home,DK,assist,0,make2,2,D. Gallinari,E. Mudiay
+72,1,2:06.0,23,24,DEN,IND,27,away,LostBall,steal,,turnover,,P. George,D. Gallinari
+73,1,2:03.0,23,24,DEN,IND,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Miles,E. Mudiay
+74,1,2:03.0,24,24,DEN,IND,0,home,FreeThrow,,,make1,1,E. Mudiay,
+75,1,2:03.0,24,24,DEN,IND,0,home,Sub,,,,,R. Foye,G. Harris
+76,1,2:03.0,24,24,DEN,IND,0,home,Sub,,,,,J. Lauvergne,N. Jokić
+77,1,2:03.0,24,24,DEN,IND,0,away,Sub,,,,,S. Hill,L. Allen
+78,1,2:03.0,25,24,DEN,IND,0,home,FreeThrow,,,make1,1,E. Mudiay,
+79,1,1:51.0,25,24,DEN,IND,12,away,JS,,23,miss3,0,C. Miles,
+80,1,1:51.0,25,24,DEN,IND,0,home,DefReb,,,DefReb,,D. Gallinari,
+81,1,1:45.0,25,24,DEN,IND,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. George,D. Gallinari
+82,1,1:45.0,26,24,DEN,IND,0,home,FreeThrow,,,make1,1,D. Gallinari,
+83,1,1:45.0,26,24,DEN,IND,0,home,Sub,,,,,W. Barton,E. Mudiay
+84,1,1:45.0,27,24,DEN,IND,0,home,FreeThrow,,,make1,1,D. Gallinari,
+85,1,1:28.0,27,26,DEN,IND,17,away,LU,assist,2,make2,2,M. Turner,J. Young
+86,1,1:10.0,27,26,DEN,IND,18,home,JS,block,2,miss2,0,J. Lauvergne,M. Turner
+87,1,1:07.0,27,26,DEN,IND,3,home,OffReb,,,OffReb,,D. Gallinari,
+88,1,1:04.0,30,26,DEN,IND,3,home,JS,,24,make3,3,D. Gallinari,
+89,1,0:51.0,30,26,DEN,IND,13,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Gallinari,P. George
+90,1,0:51.0,30,26,DEN,IND,0,home,Sub,,,,,S. Kilpatrick,D. Gallinari
+91,1,0:45.0,30,28,DEN,IND,6,away,LU,,0,make2,2,J. Young,
+92,1,0:31.0,30,28,DEN,IND,14,home,JS,,22,miss3,0,S. Kilpatrick,
+93,1,0:30.0,30,28,DEN,IND,1,away,DefReb,,,DefReb,,P. George,
+94,1,0:25.0,30,28,DEN,IND,5,away,JS,,17,miss2,0,J. Young,
+95,1,0:24.0,30,28,DEN,IND,1,home,DefReb,,,DefReb,,J. Lauvergne,
+96,1,0:08.0,30,28,DEN,IND,16,home,BadPass,steal,,turnover,,W. Barton,C. Miles
+97,1,0:05.0,30,28,DEN,IND,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Kilpatrick,C. Miles
+98,1,0:05.0,30,29,DEN,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+99,1,0:05.0,30,29,DEN,IND,0,away,Sub,,,,,C. Budinger,P. George
+100,1,0:05.0,30,30,DEN,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+101,1,0:00.0,30,30,DEN,IND,5,home,JS,,24,miss3,0,J. Lauvergne,
+102,1,0:00.0,30,30,DEN,IND,0,home,OffReb,,,OffReb,,Team,
+103,2,11:48.0,32,30,DEN,IND,12,home,JS,assist,19,make2,2,D. Arthur,R. Foye
+104,2,11:37.0,32,30,DEN,IND,11,away,LU,,0,miss2,0,J. Young,
+105,2,11:34.0,32,30,DEN,IND,3,home,DefReb,,,DefReb,,R. Foye,
+106,2,11:22.0,34,30,DEN,IND,12,home,LU,assist,1,make2,2,J. Lauvergne,R. Foye
+107,2,11:08.0,34,30,DEN,IND,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Kilpatrick,M. Turner
+108,2,11:08.0,34,30,DEN,IND,0,away,FreeThrow,,,make1,0,M. Turner,
+109,2,11:08.0,34,30,DEN,IND,0,away,OffReb,,,OffReb,,Team,
+110,2,11:08.0,34,31,DEN,IND,0,away,FreeThrow,,,make1,1,M. Turner,
+111,2,10:51.0,34,31,DEN,IND,17,home,JS,,3,miss2,0,R. Foye,
+112,2,10:48.0,34,31,DEN,IND,3,away,DefReb,,,DefReb,,M. Turner,
+113,2,10:42.0,34,33,DEN,IND,6,away,JS,,22,make2,2,C. Miles,
+114,2,10:19.0,34,33,DEN,IND,23,home,LU,,2,miss2,0,J. Lauvergne,
+115,2,10:18.0,34,33,DEN,IND,1,home,OffReb,,,OffReb,,D. Arthur,
+116,2,10:15.0,34,33,DEN,IND,3,home,LU,,0,miss2,0,D. Arthur,
+117,2,10:12.0,34,33,DEN,IND,3,home,OffReb,,,OffReb,,S. Kilpatrick,
+118,2,10:08.0,34,33,DEN,IND,4,home,JS,,25,miss3,0,S. Kilpatrick,
+119,2,10:07.0,34,33,DEN,IND,1,home,OffReb,,,OffReb,,D. Arthur,
+120,2,10:04.0,34,33,DEN,IND,3,home,JS,,25,miss3,0,W. Barton,
+121,2,10:03.0,34,33,DEN,IND,1,away,DefReb,,,DefReb,,M. Turner,
+122,2,9:55.0,34,36,DEN,IND,8,away,JS,assist,22,make3,3,C. Miles,J. Young
+123,2,9:36.0,34,36,DEN,IND,19,home,JS,,22,miss2,0,D. Arthur,
+124,2,9:35.0,34,36,DEN,IND,1,home,OffReb,,,OffReb,,J. Lauvergne,
+125,2,9:26.0,37,36,DEN,IND,9,home,JS,assist,24,make3,3,J. Lauvergne,R. Foye
+126,2,9:16.0,37,38,DEN,IND,10,away,DK,assist,0,make2,2,M. Turner,J. Young
+127,2,9:16.0,37,38,DEN,IND,0,home,Timeout,,,,,,
+128,2,9:06.0,37,38,DEN,IND,10,home,LU,block,1,miss2,0,D. Arthur,S. Hill
+129,2,9:06.0,37,38,DEN,IND,0,home,OffReb,,,OffReb,,Team,
+130,2,8:59.0,39,38,DEN,IND,7,home,HS,,4,make2,2,W. Barton,
+131,2,8:47.0,39,40,DEN,IND,12,away,JS,assist,22,make2,2,M. Turner,J. Young
+132,2,8:32.0,39,40,DEN,IND,15,home,BadPass,steal,,turnover,,S. Kilpatrick,S. Hill
+133,2,8:27.0,39,40,DEN,IND,5,away,LU,,0,miss2,0,S. Hill,
+134,2,8:24.0,39,40,DEN,IND,3,home,DefReb,,,DefReb,,J. Lauvergne,
+135,2,8:13.0,42,40,DEN,IND,11,home,JS,assist,24,make3,3,D. Arthur,R. Foye
+136,2,8:00.0,42,42,DEN,IND,13,away,JS,,21,make2,2,J. Young,
+137,2,7:50.0,42,42,DEN,IND,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,R. Foye
+138,2,7:50.0,42,42,DEN,IND,0,away,Timeout,,,,,,
+139,2,7:50.0,42,42,DEN,IND,0,home,Sub,,,,,E. Mudiay,S. Kilpatrick
+140,2,7:50.0,42,42,DEN,IND,0,home,FreeThrow,,,make1,0,R. Foye,
+141,2,7:50.0,42,42,DEN,IND,0,home,OffReb,,,OffReb,,Team,
+142,2,7:50.0,43,42,DEN,IND,0,home,FreeThrow,,,make1,1,R. Foye,
+143,2,7:29.0,43,42,DEN,IND,21,away,JS,,22,miss2,0,J. Young,
+144,2,7:28.0,43,42,DEN,IND,1,away,OffReb,,,OffReb,,M. Turner,
+145,2,7:26.0,43,42,DEN,IND,2,away,HS,,1,miss2,0,M. Turner,
+146,2,7:23.0,43,42,DEN,IND,3,home,DefReb,,,DefReb,,D. Arthur,
+147,2,7:13.0,43,42,DEN,IND,10,home,JS,,24,miss3,0,R. Foye,
+148,2,7:12.0,43,42,DEN,IND,1,away,DefReb,,,DefReb,,S. Hill,
+149,2,7:01.0,43,44,DEN,IND,11,away,JS,,8,make2,2,J. Young,
+150,2,6:46.0,43,44,DEN,IND,15,home,BadPass,steal,,turnover,,E. Mudiay,C. Budinger
+151,2,6:42.0,43,46,DEN,IND,4,away,DK,assist,0,make2,2,J. Young,C. Budinger
+152,2,6:20.0,43,46,DEN,IND,22,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Miles,J. Lauvergne
+153,2,6:20.0,43,46,DEN,IND,0,away,Sub,,,,,M. Ellis,C. Miles
+154,2,6:20.0,43,46,DEN,IND,0,home,Sub,,,,,G. Harris,R. Foye
+155,2,6:20.0,43,46,DEN,IND,0,home,Sub,,,,,K. Faried,J. Lauvergne
+156,2,5:56.0,45,46,DEN,IND,24,home,JS,,19,make2,2,W. Barton,
+157,2,5:42.0,45,46,DEN,IND,14,away,LU,,1,miss2,0,S. Hill,
+158,2,5:40.0,45,46,DEN,IND,2,away,OffReb,,,OffReb,,Team,
+159,2,5:40.0,45,46,DEN,IND,0,home,Timeout,,,,,,
+160,2,5:40.0,45,46,DEN,IND,0,away,Sub,,,,,J. Hill,M. Turner
+161,2,5:29.0,45,48,DEN,IND,11,away,JS,assist,20,make2,2,C. Budinger,S. Hill
+162,2,5:19.0,45,48,DEN,IND,10,home,Traveling,,,turnover,,E. Mudiay,
+163,2,4:52.0,45,51,DEN,IND,27,away,JS,assist,23,make3,3,S. Hill,M. Ellis
+164,2,4:42.0,45,51,DEN,IND,10,home,LU,,1,miss2,0,W. Barton,
+165,2,4:41.0,45,51,DEN,IND,1,home,OffReb,,,OffReb,,K. Faried,
+166,2,4:41.0,47,51,DEN,IND,0,home,LU,,2,make2,2,K. Faried,
+167,2,4:41.0,47,51,DEN,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,K. Faried
+168,2,4:41.0,47,51,DEN,IND,0,away,Sub,,,,,L. Allen,S. Hill
+169,2,4:41.0,47,51,DEN,IND,0,home,Sub,,,,,N. Jokić,D. Arthur
+170,2,4:41.0,47,51,DEN,IND,0,home,FreeThrow,,,make1,0,K. Faried,
+171,2,4:38.0,47,51,DEN,IND,3,away,DefReb,,,DefReb,,C. Budinger,
+172,2,4:23.0,47,53,DEN,IND,15,away,JS,,11,make2,2,M. Ellis,
+173,2,4:23.0,47,53,DEN,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,M. Ellis
+174,2,4:23.0,47,53,DEN,IND,0,away,Sub,,,,,P. George,J. Young
+175,2,4:23.0,47,54,DEN,IND,0,away,FreeThrow,,,make1,1,M. Ellis,
+176,2,4:12.0,47,54,DEN,IND,11,home,LU,,1,miss2,0,G. Harris,
+177,2,4:09.0,47,54,DEN,IND,3,away,DefReb,,,DefReb,,J. Hill,
+178,2,4:01.0,47,54,DEN,IND,8,away,JS,,17,miss2,0,L. Allen,
+179,2,4:00.0,47,54,DEN,IND,1,away,OffReb,,,OffReb,,J. Hill,
+180,2,4:00.0,47,54,DEN,IND,0,home,Sub,,,,,D. Gallinari,W. Barton
+181,2,3:49.0,47,57,DEN,IND,11,away,JS,assist,23,make3,3,M. Ellis,L. Allen
+182,2,3:36.0,47,57,DEN,IND,13,home,OutOfBounds,,,turnover,,E. Mudiay,
+183,2,3:24.0,47,59,DEN,IND,12,away,JS,assist,21,make2,2,M. Ellis,P. George
+184,2,3:08.0,47,59,DEN,IND,16,home,JS,,23,miss3,0,N. Jokić,
+185,2,3:07.0,47,59,DEN,IND,1,away,DefReb,,,DefReb,,L. Allen,
+186,2,2:51.0,47,62,DEN,IND,16,away,JS,assist,25,make3,3,M. Ellis,J. Hill
+187,2,2:51.0,47,62,DEN,IND,0,home,Timeout,,,,,,
+188,2,2:39.0,49,62,DEN,IND,12,home,JS,assist,21,make2,2,D. Gallinari,N. Jokić
+189,2,2:15.0,49,62,DEN,IND,24,away,JS,,24,miss3,0,P. George,
+190,2,2:14.0,49,62,DEN,IND,1,home,DefReb,,,DefReb,,G. Harris,
+191,2,2:09.0,49,62,DEN,IND,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Allen,G. Harris
+192,2,2:09.0,51,62,DEN,IND,0,home,LU,,0,make2,2,G. Harris,
+193,2,2:09.0,52,62,DEN,IND,0,home,FreeThrow,,,make1,1,G. Harris,
+194,2,2:01.0,52,62,DEN,IND,8,away,BadPass,,,turnover,,P. George,
+195,2,1:43.0,54,62,DEN,IND,18,home,JS,,20,make2,2,D. Gallinari,
+196,2,1:43.0,54,62,DEN,IND,0,away,Timeout,,,,,,
+197,2,1:37.0,54,64,DEN,IND,6,away,LU,,1,make2,2,M. Ellis,
+198,2,1:14.0,54,64,DEN,IND,23,home,LU,,0,miss2,0,E. Mudiay,
+199,2,1:12.0,54,64,DEN,IND,2,away,DefReb,,,DefReb,,Team,
+200,2,1:08.0,54,64,DEN,IND,4,home,Sub,,,,,W. Barton,D. Gallinari
+201,2,0:55.0,54,64,DEN,IND,13,away,LU,,0,miss2,0,J. Hill,
+202,2,0:55.0,54,64,DEN,IND,0,away,OffReb,,,OffReb,,C. Budinger,
+203,2,0:53.0,54,66,DEN,IND,2,away,LU,,2,make2,2,C. Budinger,
+204,2,0:46.0,54,66,DEN,IND,7,home,BadPass,,,turnover,,N. Jokić,
+205,2,0:35.0,54,66,DEN,IND,11,away,JS,,20,miss2,0,M. Ellis,
+206,2,0:34.0,54,66,DEN,IND,1,home,DefReb,,,DefReb,,K. Faried,
+207,2,0:23.0,54,66,DEN,IND,11,home,HS,,7,miss2,0,K. Faried,
+208,2,0:17.0,54,66,DEN,IND,6,away,DefReb,,,DefReb,,L. Allen,
+209,2,0:07.0,54,66,DEN,IND,10,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Mudiay,M. Ellis
+210,2,0:07.0,54,66,DEN,IND,0,away,Timeout,,,,,,
+211,2,0:07.0,54,66,DEN,IND,0,away,Sub,,,,,C. Miles,L. Allen
+212,2,0:07.0,54,66,DEN,IND,0,home,Sub,,,,,R. Foye,E. Mudiay
+213,3,11:45.0,54,66,DEN,IND,15,home,LU,block,1,miss2,0,N. Jokić,M. Ellis
+214,3,11:45.0,54,66,DEN,IND,0,home,OffReb,,,OffReb,,Team,
+215,3,11:45.0,54,66,DEN,IND,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Allen,N. Jokić
+216,3,11:40.0,54,66,DEN,IND,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Allen,E. Mudiay
+217,3,11:40.0,54,66,DEN,IND,0,home,FreeThrow,,,make1,0,E. Mudiay,
+218,3,11:40.0,54,66,DEN,IND,0,home,OffReb,,,OffReb,,Team,
+219,3,11:40.0,54,66,DEN,IND,0,home,FreeThrow,,,make1,0,E. Mudiay,
+220,3,11:38.0,54,66,DEN,IND,2,home,OffReb,,,OffReb,,N. Jokić,
+221,3,11:30.0,54,66,DEN,IND,8,home,JS,,7,miss2,0,D. Gallinari,
+222,3,11:30.0,54,66,DEN,IND,0,home,OffReb,,,OffReb,,K. Faried,
+223,3,11:30.0,54,66,DEN,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hill,K. Faried
+224,3,11:30.0,55,66,DEN,IND,0,home,FreeThrow,,,make1,1,K. Faried,
+225,3,11:30.0,56,66,DEN,IND,0,home,FreeThrow,,,make1,1,K. Faried,
+226,3,11:16.0,56,66,DEN,IND,14,away,JS,,23,miss3,0,G. Robinson,
+227,3,11:13.0,56,66,DEN,IND,3,home,DefReb,,,DefReb,,G. Harris,
+228,3,10:59.0,58,66,DEN,IND,14,home,JS,,5,make2,2,G. Harris,
+229,3,10:35.0,58,69,DEN,IND,24,away,JS,assist,25,make3,3,P. George,L. Allen
+230,3,10:19.0,58,69,DEN,IND,16,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Hill,D. Gallinari
+231,3,10:19.0,59,69,DEN,IND,0,home,FreeThrow,,,make1,1,D. Gallinari,
+232,3,10:19.0,60,69,DEN,IND,0,home,FreeThrow,,,make1,1,D. Gallinari,
+233,3,10:08.0,60,69,DEN,IND,11,away,JS,,6,miss2,0,M. Ellis,
+234,3,10:05.0,60,69,DEN,IND,3,home,DefReb,,,DefReb,,D. Gallinari,
+235,3,9:59.0,60,69,DEN,IND,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. George,D. Gallinari
+236,3,9:59.0,61,69,DEN,IND,0,home,FreeThrow,,,make1,1,D. Gallinari,
+237,3,9:59.0,62,69,DEN,IND,0,home,FreeThrow,,,make1,1,D. Gallinari,
+238,3,9:42.0,62,69,DEN,IND,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Gallinari,M. Ellis
+239,3,9:36.0,62,69,DEN,IND,6,away,BadPass,steal,,turnover,,L. Allen,N. Jokić
+240,3,9:32.0,62,69,DEN,IND,4,home,LostBall,steal,,turnover,,G. Harris,M. Ellis
+241,3,9:25.0,62,69,DEN,IND,7,away,JS,,5,miss2,0,G. Robinson,
+242,3,9:22.0,62,69,DEN,IND,3,home,DefReb,,,DefReb,,G. Harris,
+243,3,9:11.0,64,69,DEN,IND,11,home,DK,assist,0,make2,2,N. Jokić,E. Mudiay
+244,3,8:55.0,64,69,DEN,IND,16,away,JS,,21,miss2,0,G. Robinson,
+245,3,8:52.0,64,69,DEN,IND,3,home,DefReb,,,DefReb,,Team,
+246,3,8:38.0,64,69,DEN,IND,14,home,BadPass,steal,,turnover,,D. Gallinari,P. George
+247,3,8:34.0,64,69,DEN,IND,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Gallinari,G. Robinson
+248,3,8:34.0,64,70,DEN,IND,0,away,FreeThrow,,,make1,1,G. Robinson,
+249,3,8:34.0,64,70,DEN,IND,0,home,Sub,,,,,W. Barton,D. Gallinari
+250,3,8:34.0,64,71,DEN,IND,0,away,FreeThrow,,,make1,1,G. Robinson,
+251,3,8:19.0,64,71,DEN,IND,15,home,LU,,1,miss2,0,N. Jokić,
+252,3,8:15.0,64,71,DEN,IND,4,home,OffReb,,,OffReb,,K. Faried,
+253,3,8:14.0,66,71,DEN,IND,1,home,LU,,1,make2,2,K. Faried,
+254,3,8:00.0,66,73,DEN,IND,14,away,JS,,19,make2,2,M. Ellis,
+255,3,7:36.0,68,73,DEN,IND,24,home,LU,,0,make2,2,E. Mudiay,
+256,3,7:12.0,68,75,DEN,IND,24,away,HS,,5,make2,2,J. Hill,
+257,3,6:59.0,68,75,DEN,IND,13,home,LU,block,0,miss2,0,N. Jokić,G. Robinson
+258,3,6:59.0,68,75,DEN,IND,0,home,OffReb,,,OffReb,,Team,
+259,3,6:59.0,68,75,DEN,IND,0,away,Sub,,,,,M. Turner,L. Allen
+260,3,6:51.0,68,75,DEN,IND,8,home,JS,,26,miss3,0,G. Harris,
+261,3,6:50.0,68,75,DEN,IND,1,home,OffReb,,,OffReb,,Team,
+262,3,6:50.0,68,75,DEN,IND,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Hill,N. Jokić
+263,3,6:50.0,68,75,DEN,IND,0,home,FreeThrow,,,make1,0,N. Jokić,
+264,3,6:50.0,68,75,DEN,IND,0,home,OffReb,,,OffReb,,Team,
+265,3,6:50.0,68,75,DEN,IND,0,away,Sub,,,,,S. Hill,J. Hill
+266,3,6:50.0,69,75,DEN,IND,0,home,FreeThrow,,,make1,1,N. Jokić,
+267,3,6:34.0,69,75,DEN,IND,16,away,JS,,25,miss3,0,M. Ellis,
+268,3,6:33.0,69,75,DEN,IND,1,home,DefReb,,,DefReb,,G. Harris,
+269,3,6:27.0,69,75,DEN,IND,6,home,BadPass,steal,,turnover,,E. Mudiay,G. Robinson
+270,3,6:18.0,69,75,DEN,IND,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Mudiay,P. George
+271,3,6:09.0,69,75,DEN,IND,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Barton,G. Robinson
+272,3,6:09.0,69,75,DEN,IND,0,away,FreeThrow,,,make1,0,G. Robinson,
+273,3,6:09.0,69,75,DEN,IND,0,away,OffReb,,,OffReb,,Team,
+274,3,6:09.0,69,76,DEN,IND,0,away,FreeThrow,,,make1,1,G. Robinson,
+275,3,5:58.0,69,76,DEN,IND,11,home,LostBall,steal,,turnover,,E. Mudiay,M. Turner
+276,3,5:51.0,69,76,DEN,IND,7,away,DK,block,0,miss2,0,G. Robinson,W. Barton
+277,3,5:50.0,69,76,DEN,IND,1,home,DefReb,,,DefReb,,E. Mudiay,
+278,3,5:48.0,71,76,DEN,IND,2,home,LU,,1,make2,2,G. Harris,
+279,3,5:48.0,71,76,DEN,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,G. Harris
+280,3,5:48.0,71,76,DEN,IND,0,home,Timeout,,,,,,
+281,3,5:48.0,71,76,DEN,IND,0,home,Sub,,,,,D. Arthur,K. Faried
+282,3,5:48.0,71,76,DEN,IND,0,away,Sub,,,,,C. Miles,G. Robinson
+283,3,5:48.0,72,76,DEN,IND,0,home,FreeThrow,,,make1,1,G. Harris,
+284,3,5:33.0,72,76,DEN,IND,15,away,LostBall,steal,,turnover,,P. George,E. Mudiay
+285,3,5:08.0,74,76,DEN,IND,25,home,LU,assist,0,make2,2,N. Jokić,D. Arthur
+286,3,4:57.0,74,76,DEN,IND,11,away,JS,,24,miss3,0,C. Miles,
+287,3,4:56.0,74,76,DEN,IND,1,home,DefReb,,,DefReb,,D. Arthur,
+288,3,4:51.0,74,76,DEN,IND,5,home,LU,,1,miss2,0,E. Mudiay,
+289,3,4:49.0,74,76,DEN,IND,2,home,OffReb,,,OffReb,,N. Jokić,
+290,3,4:49.0,76,76,DEN,IND,0,home,LU,,1,make2,2,N. Jokić,
+291,3,4:30.0,76,76,DEN,IND,19,away,BadPass,steal,,turnover,,P. George,D. Arthur
+292,3,4:26.0,76,76,DEN,IND,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Miles,N. Jokić
+293,3,4:26.0,77,76,DEN,IND,0,home,FreeThrow,,,make1,1,N. Jokić,
+294,3,4:26.0,78,76,DEN,IND,0,home,FreeThrow,,,make1,1,N. Jokić,
+295,3,4:14.0,78,78,DEN,IND,12,away,JS,,4,make2,2,M. Ellis,
+296,3,4:01.0,80,78,DEN,IND,13,home,LU,assist,0,make2,2,G. Harris,N. Jokić
+297,3,3:59.0,80,78,DEN,IND,2,away,Timeout,,,,,,
+298,3,3:48.0,80,78,DEN,IND,11,away,LostBall,steal,,turnover,,M. Ellis,N. Jokić
+299,3,3:42.0,80,78,DEN,IND,6,home,JS,,24,miss3,0,N. Jokić,
+300,3,3:40.0,80,78,DEN,IND,2,away,DefReb,,,DefReb,,C. Miles,
+301,3,3:27.0,80,78,DEN,IND,13,away,JS,,13,miss2,0,M. Turner,
+302,3,3:26.0,80,78,DEN,IND,1,home,DefReb,,,DefReb,,E. Mudiay,
+303,3,3:07.0,80,78,DEN,IND,19,home,JS,,9,miss2,0,D. Arthur,
+304,3,3:04.0,80,78,DEN,IND,3,away,DefReb,,,DefReb,,C. Miles,
+305,3,2:59.0,80,81,DEN,IND,5,away,JS,assist,24,make3,3,S. Hill,P. George
+306,3,2:43.0,80,81,DEN,IND,16,home,JS,,16,miss2,0,W. Barton,
+307,3,2:40.0,80,81,DEN,IND,3,home,OffReb,,,OffReb,,W. Barton,
+308,3,2:37.0,80,81,DEN,IND,3,home,JS,,9,miss2,0,W. Barton,
+309,3,2:36.0,80,81,DEN,IND,1,away,DefReb,,,DefReb,,S. Hill,
+310,3,2:28.0,80,81,DEN,IND,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Jokić,C. Miles
+311,3,2:28.0,80,82,DEN,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+312,3,2:28.0,80,82,DEN,IND,0,away,Sub,,,,,J. Young,M. Ellis
+313,3,2:28.0,80,82,DEN,IND,0,home,Sub,,,,,J. Lauvergne,N. Jokić
+314,3,2:28.0,80,82,DEN,IND,0,home,Sub,,,,,R. Foye,E. Mudiay
+315,3,2:28.0,80,83,DEN,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+316,3,2:09.0,80,83,DEN,IND,19,home,OffensiveFoul,,,turnover,,J. Lauvergne,
+317,3,2:09.0,80,83,DEN,IND,0,away,ChargeFoul,DrawnBy,,ChargeFoul,,J. Lauvergne,P. George
+318,3,1:52.0,80,85,DEN,IND,17,away,JS,,15,make2,2,P. George,
+319,3,1:33.0,80,85,DEN,IND,19,home,JS,,23,miss3,0,R. Foye,
+320,3,1:32.0,80,85,DEN,IND,1,away,DefReb,,,DefReb,,S. Hill,
+321,3,1:15.0,80,87,DEN,IND,17,away,JS,assist,18,make2,2,M. Turner,J. Young
+322,3,0:59.0,82,87,DEN,IND,16,home,JS,,23,make2,2,W. Barton,
+323,3,0:47.0,82,89,DEN,IND,12,away,JS,assist,19,make2,2,M. Turner,J. Young
+324,3,0:47.0,82,89,DEN,IND,0,home,Timeout,,,,,,
+325,3,0:47.0,82,89,DEN,IND,0,away,Sub,,,,,C. Budinger,P. George
+326,3,0:47.0,82,89,DEN,IND,0,home,DelayOfGame,,,DelayOfGame,,Team,
+327,3,0:38.0,82,89,DEN,IND,9,home,LU,,1,miss2,0,W. Barton,
+328,3,0:37.0,82,89,DEN,IND,1,home,OffReb,,,OffReb,,Team,
+329,3,0:31.0,84,89,DEN,IND,6,home,JS,,19,make2,2,R. Foye,
+330,3,0:09.0,84,91,DEN,IND,22,away,JS,,22,make2,2,J. Young,
+331,3,0:00.0,84,91,DEN,IND,9,home,JS,block,12,miss2,0,R. Foye,S. Hill
+332,3,0:00.0,84,91,DEN,IND,0,home,OffReb,,,OffReb,,Team,
+333,4,11:47.0,84,93,DEN,IND,13,away,JS,assist,19,make2,2,M. Turner,J. Young
+334,4,11:21.0,86,93,DEN,IND,26,home,JS,,14,make2,2,G. Harris,
+335,4,11:12.0,86,95,DEN,IND,9,away,LU,assist,1,make2,2,M. Turner,C. Budinger
+336,4,11:12.0,86,95,DEN,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Arthur,M. Turner
+337,4,11:12.0,86,96,DEN,IND,0,away,FreeThrow,,,make1,1,M. Turner,
+338,4,11:02.0,88,96,DEN,IND,10,home,LU,,1,make2,2,R. Foye,
+339,4,10:56.0,88,98,DEN,IND,6,away,JS,,10,make2,2,J. Young,
+340,4,10:56.0,88,98,DEN,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Foye,J. Young
+341,4,10:56.0,88,98,DEN,IND,0,home,Sub,,,,,K. Faried,D. Arthur
+342,4,10:56.0,88,99,DEN,IND,0,away,FreeThrow,,,make1,1,J. Young,
+343,4,10:46.0,91,99,DEN,IND,10,home,JS,assist,24,make3,3,W. Barton,R. Foye
+344,4,10:32.0,91,101,DEN,IND,14,away,DK,assist,0,make2,2,M. Turner,C. Miles
+345,4,10:17.0,94,101,DEN,IND,15,home,JS,,24,make3,3,R. Foye,
+346,4,9:59.0,94,101,DEN,IND,18,away,HS,,6,miss2,0,S. Hill,
+347,4,9:57.0,94,101,DEN,IND,2,home,DefReb,,,DefReb,,K. Faried,
+348,4,9:48.0,96,101,DEN,IND,9,home,DK,assist,0,make2,2,K. Faried,W. Barton
+349,4,9:33.0,96,101,DEN,IND,15,away,LU,block,3,miss2,0,C. Budinger,J. Lauvergne
+350,4,9:29.0,96,101,DEN,IND,4,home,DefReb,,,DefReb,,R. Foye,
+351,4,9:24.0,96,101,DEN,IND,5,home,JS,,24,miss3,0,W. Barton,
+352,4,9:21.0,96,101,DEN,IND,3,home,OffReb,,,OffReb,,J. Lauvergne,
+353,4,9:18.0,99,101,DEN,IND,3,home,JS,assist,22,make3,3,G. Harris,W. Barton
+354,4,9:18.0,99,101,DEN,IND,0,away,Timeout,,,,,,
+355,4,9:18.0,99,101,DEN,IND,0,home,Sub,,,,,E. Mudiay,G. Harris
+356,4,9:18.0,99,101,DEN,IND,0,home,Sub,,,,,D. Gallinari,R. Foye
+357,4,9:02.0,99,103,DEN,IND,16,away,JS,assist,18,make2,2,M. Turner,S. Hill
+358,4,8:46.0,101,103,DEN,IND,16,home,LU,assist,2,make2,2,E. Mudiay,D. Gallinari
+359,4,8:35.0,101,103,DEN,IND,11,away,JS,,18,miss2,0,J. Young,
+360,4,8:33.0,101,103,DEN,IND,2,home,DefReb,,,DefReb,,K. Faried,
+361,4,8:30.0,101,103,DEN,IND,3,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,C. Budinger,W. Barton
+362,4,8:30.0,101,103,DEN,IND,0,away,Sub,,,,,P. George,C. Budinger
+363,4,8:25.0,101,103,DEN,IND,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Young,E. Mudiay
+364,4,8:25.0,101,103,DEN,IND,0,home,FreeThrow,,,make1,0,E. Mudiay,
+365,4,8:25.0,101,103,DEN,IND,0,home,OffReb,,,OffReb,,Team,
+366,4,8:25.0,101,103,DEN,IND,0,home,FreeThrow,,,make1,0,E. Mudiay,
+367,4,8:23.0,101,103,DEN,IND,2,away,DefReb,,,DefReb,,J. Young,
+368,4,8:13.0,101,103,DEN,IND,10,away,BadPass,steal,,turnover,,J. Young,D. Gallinari
+369,4,8:08.0,101,103,DEN,IND,5,home,LU,,1,miss2,0,E. Mudiay,
+370,4,8:05.0,101,103,DEN,IND,3,away,DefReb,,,DefReb,,C. Miles,
+371,4,7:57.0,101,105,DEN,IND,8,away,LU,,0,make2,2,J. Young,
+372,4,7:57.0,101,105,DEN,IND,0,home,DefGoaltending,,,DefGoaltending,,K. Faried,
+373,4,7:43.0,101,105,DEN,IND,14,home,JS,,25,miss3,0,D. Gallinari,
+374,4,7:43.0,101,105,DEN,IND,0,away,DefReb,,,DefReb,,Team,
+375,4,7:43.0,101,105,DEN,IND,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lauvergne,S. Hill
+376,4,7:43.0,101,105,DEN,IND,0,away,Sub,,,,,M. Ellis,J. Young
+377,4,7:30.0,101,105,DEN,IND,13,away,JS,,25,miss3,0,C. Miles,
+378,4,7:28.0,101,105,DEN,IND,2,home,DefReb,,,DefReb,,W. Barton,
+379,4,7:21.0,103,105,DEN,IND,7,home,LU,assist,0,make2,2,E. Mudiay,K. Faried
+380,4,7:21.0,103,105,DEN,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,E. Mudiay
+381,4,7:21.0,103,105,DEN,IND,0,home,FreeThrow,,,make1,0,E. Mudiay,
+382,4,7:20.0,103,105,DEN,IND,1,away,DefReb,,,DefReb,,C. Miles,
+383,4,7:09.0,103,105,DEN,IND,11,away,JS,,24,miss3,0,P. George,
+384,4,7:05.0,103,105,DEN,IND,4,away,OffReb,,,OffReb,,S. Hill,
+385,4,7:03.0,103,105,DEN,IND,2,away,BadPass,steal,,turnover,,S. Hill,E. Mudiay
+386,4,6:58.0,106,105,DEN,IND,5,home,JS,assist,25,make3,3,W. Barton,E. Mudiay
+387,4,6:50.0,106,105,DEN,IND,8,away,LU,,1,miss2,0,M. Ellis,
+388,4,6:50.0,106,105,DEN,IND,0,away,OffReb,,,OffReb,,M. Turner,
+389,4,6:50.0,106,107,DEN,IND,0,away,LU,,1,make2,2,M. Turner,
+390,4,6:50.0,106,107,DEN,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Barton,M. Turner
+391,4,6:50.0,106,107,DEN,IND,0,home,Sub,,,,,G. Harris,J. Lauvergne
+392,4,6:50.0,106,107,DEN,IND,0,away,Sub,,,,,L. Allen,S. Hill
+393,4,6:50.0,106,107,DEN,IND,0,away,FreeThrow,,,make1,0,M. Turner,
+394,4,6:50.0,106,107,DEN,IND,0,away,OffReb,,,OffReb,,P. George,
+395,4,6:39.0,106,109,DEN,IND,11,away,LU,assist,1,make2,2,L. Allen,P. George
+396,4,6:27.0,106,109,DEN,IND,12,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,L. Allen,D. Gallinari
+397,4,6:27.0,106,109,DEN,IND,0,away,Sub,,,,,S. Hill,L. Allen
+398,4,6:27.0,106,109,DEN,IND,0,away,Sub,,,,,J. Hill,M. Turner
+399,4,6:16.0,108,109,DEN,IND,11,home,LU,,1,make2,2,W. Barton,
+400,4,5:59.0,108,111,DEN,IND,17,away,LU,assist,2,make2,2,J. Hill,P. George
+401,4,5:47.0,108,111,DEN,IND,12,home,BadPass,steal,,turnover,,E. Mudiay,P. George
+402,4,5:36.0,108,111,DEN,IND,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Mudiay,P. George
+403,4,5:36.0,108,111,DEN,IND,0,away,Timeout,,,,,,
+404,4,5:36.0,108,111,DEN,IND,0,away,Sub,,,,,G. Robinson,C. Miles
+405,4,5:36.0,108,112,DEN,IND,0,away,FreeThrow,,,make1,1,P. George,
+406,4,5:36.0,108,113,DEN,IND,0,away,FreeThrow,,,make1,1,P. George,
+407,4,5:26.0,108,113,DEN,IND,10,home,OffensiveFoul,,,turnover,,D. Gallinari,
+408,4,5:26.0,108,113,DEN,IND,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Gallinari,G. Robinson
+409,4,5:08.0,108,113,DEN,IND,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Faried,J. Hill
+410,4,5:08.0,108,114,DEN,IND,0,away,FreeThrow,,,make1,1,J. Hill,
+411,4,5:08.0,108,114,DEN,IND,0,away,FreeThrow,,,make1,0,J. Hill,
+412,4,5:08.0,108,114,DEN,IND,0,home,DefReb,,,DefReb,,Team,
+413,4,5:07.0,108,114,DEN,IND,1,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Hill,K. Faried
+414,4,5:07.0,108,114,DEN,IND,0,home,FreeThrow,,,make1,0,K. Faried,
+415,4,5:07.0,108,114,DEN,IND,0,home,OffReb,,,OffReb,,Team,
+416,4,5:07.0,109,114,DEN,IND,0,home,FreeThrow,,,make1,1,K. Faried,
+417,4,4:55.0,109,114,DEN,IND,12,away,BadPass,steal,,turnover,,M. Ellis,E. Mudiay
+418,4,4:52.0,109,114,DEN,IND,3,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,S. Hill,D. Gallinari
+419,4,4:52.0,110,114,DEN,IND,0,home,FreeThrow,,,make1,1,D. Gallinari,
+420,4,4:52.0,110,114,DEN,IND,0,away,Sub,,,,,M. Turner,J. Hill
+421,4,4:52.0,111,114,DEN,IND,0,home,FreeThrow,,,make1,1,D. Gallinari,
+422,4,4:43.0,111,114,DEN,IND,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Barton,P. George
+423,4,4:43.0,111,115,DEN,IND,0,away,FreeThrow,,,make1,1,P. George,
+424,4,4:43.0,111,116,DEN,IND,0,away,FreeThrow,,,make1,1,P. George,
+425,4,4:24.0,111,116,DEN,IND,19,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,P. George,D. Gallinari
+426,4,4:24.0,112,116,DEN,IND,0,home,FreeThrow,,,make1,1,D. Gallinari,
+427,4,4:24.0,112,116,DEN,IND,0,home,Sub,,,,,D. Arthur,K. Faried
+428,4,4:24.0,113,116,DEN,IND,0,home,FreeThrow,,,make1,1,D. Gallinari,
+429,4,4:10.0,113,118,DEN,IND,14,away,JS,,16,make2,2,M. Ellis,
+430,4,3:53.0,115,118,DEN,IND,17,home,LU,assist,1,make2,2,G. Harris,D. Gallinari
+431,4,3:53.0,115,118,DEN,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Robinson,G. Harris
+432,4,3:53.0,116,118,DEN,IND,0,home,FreeThrow,,,make1,1,G. Harris,
+433,4,3:39.0,116,118,DEN,IND,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Gallinari,M. Turner
+434,4,3:39.0,116,118,DEN,IND,0,home,Sub,,,,,R. Foye,D. Gallinari
+435,4,3:39.0,116,118,DEN,IND,0,away,FreeThrow,,,make1,0,M. Turner,
+436,4,3:39.0,116,118,DEN,IND,0,away,OffReb,,,OffReb,,Team,
+437,4,3:39.0,116,119,DEN,IND,0,away,FreeThrow,,,make1,1,M. Turner,
+438,4,3:20.0,119,119,DEN,IND,19,home,JS,assist,25,make3,3,W. Barton,R. Foye
+439,4,3:06.0,119,121,DEN,IND,14,away,JS,assist,20,make2,2,M. Ellis,M. Turner
+440,4,2:47.0,119,121,DEN,IND,19,home,JS,,19,miss2,0,D. Arthur,
+441,4,2:46.0,119,121,DEN,IND,1,away,DefReb,,,DefReb,,S. Hill,
+442,4,2:29.0,119,121,DEN,IND,17,away,JS,,10,miss2,0,P. George,
+443,4,2:28.0,119,121,DEN,IND,1,home,DefReb,,,DefReb,,W. Barton,
+444,4,2:23.0,119,121,DEN,IND,5,home,LU,,1,miss2,0,W. Barton,
+445,4,2:21.0,119,121,DEN,IND,2,away,DefReb,,,DefReb,,S. Hill,
+446,4,2:16.0,119,121,DEN,IND,5,away,LU,block,1,miss2,0,M. Ellis,R. Foye
+447,4,2:16.0,119,121,DEN,IND,0,away,OffReb,,,OffReb,,Team,
+448,4,2:16.0,119,121,DEN,IND,0,home,Timeout,,,,,,
+449,4,2:16.0,119,121,DEN,IND,0,away,Sub,,,,,C. Miles,G. Robinson
+450,4,2:04.0,119,121,DEN,IND,12,away,JS,,23,miss2,0,M. Ellis,
+451,4,2:02.0,119,121,DEN,IND,2,home,DefReb,,,DefReb,,W. Barton,
+452,4,1:50.0,119,121,DEN,IND,12,home,JS,,24,miss3,0,W. Barton,
+453,4,1:49.0,119,121,DEN,IND,1,away,DefReb,,,DefReb,,M. Ellis,
+454,4,1:32.0,119,121,DEN,IND,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Harris,M. Ellis
+455,4,1:32.0,119,121,DEN,IND,0,away,FreeThrow,,,make1,0,M. Ellis,
+456,4,1:32.0,119,121,DEN,IND,0,away,OffReb,,,OffReb,,Team,
+457,4,1:32.0,119,121,DEN,IND,0,away,FreeThrow,,,make1,0,M. Ellis,
+458,4,1:32.0,119,121,DEN,IND,0,home,DefReb,,,DefReb,,R. Foye,
+459,4,1:22.0,121,121,DEN,IND,10,home,DK,,0,make2,2,E. Mudiay,
+460,4,1:22.0,121,121,DEN,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,E. Mudiay
+461,4,1:22.0,121,121,DEN,IND,0,home,FreeThrow,,,make1,0,E. Mudiay,
+462,4,1:21.0,121,121,DEN,IND,1,away,DefReb,,,DefReb,,P. George,
+463,4,1:05.0,121,123,DEN,IND,16,away,JS,assist,15,make2,2,P. George,M. Ellis
+464,4,0:53.0,123,123,DEN,IND,12,home,JS,,4,make2,2,W. Barton,
+465,4,0:53.0,123,123,DEN,IND,0,away,DefGoaltending,,,DefGoaltending,,M. Turner,
+466,4,0:40.0,123,123,DEN,IND,13,away,JS,,15,miss2,0,P. George,
+467,4,0:39.0,123,123,DEN,IND,1,home,DefReb,,,DefReb,,W. Barton,
+468,4,0:21.0,126,123,DEN,IND,18,home,JS,assist,25,make3,3,R. Foye,W. Barton
+469,4,0:21.0,126,123,DEN,IND,0,away,Timeout,,,,,,
+470,4,0:18.0,126,123,DEN,IND,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Harris,M. Ellis
+471,4,0:18.0,126,123,DEN,IND,0,away,FreeThrow,,,make1,0,M. Ellis,
+472,4,0:18.0,126,123,DEN,IND,0,away,OffReb,,,OffReb,,Team,
+473,4,0:18.0,126,124,DEN,IND,0,away,FreeThrow,,,make1,1,M. Ellis,
+474,4,0:17.0,126,124,DEN,IND,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ellis,R. Foye
+475,4,0:17.0,127,124,DEN,IND,0,home,FreeThrow,,,make1,1,R. Foye,
+476,4,0:17.0,127,124,DEN,IND,0,home,FreeThrow,,,make1,0,R. Foye,
+477,4,0:16.0,127,124,DEN,IND,1,home,OffReb,,,OffReb,,W. Barton,
+478,4,0:14.0,127,124,DEN,IND,2,home,LU,,1,miss2,0,W. Barton,
+479,4,0:14.0,127,124,DEN,IND,0,away,DefReb,,,DefReb,,M. Turner,
+480,4,0:14.0,127,124,DEN,IND,0,away,Timeout,,,,,,
+481,4,0:14.0,127,124,DEN,IND,0,away,Sub,,,,,C. Budinger,S. Hill
+482,4,0:11.0,127,124,DEN,IND,3,away,JS,,24,miss3,0,P. George,
+483,4,0:10.0,127,124,DEN,IND,1,away,OffReb,,,OffReb,,C. Miles,
+484,4,0:10.0,127,124,DEN,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Mudiay,C. Miles
+485,4,0:10.0,127,125,DEN,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+486,4,0:10.0,127,125,DEN,IND,0,home,Sub,,,,,N. Jokić,R. Foye
+487,4,0:10.0,127,126,DEN,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+488,4,0:06.0,127,126,DEN,IND,4,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,C. Budinger,W. Barton
+489,4,0:06.0,128,126,DEN,IND,0,home,FreeThrow,,,make1,1,W. Barton,
+490,4,0:06.0,128,126,DEN,IND,0,home,Sub,,,,,R. Foye,N. Jokić
+491,4,0:06.0,129,126,DEN,IND,0,home,FreeThrow,,,make1,1,W. Barton,
+492,4,0:06.0,129,126,DEN,IND,0,away,Timeout,,,,,,
+493,4,0:04.0,129,126,DEN,IND,2,away,JS,block,25,miss3,0,P. George,E. Mudiay
+494,4,0:01.0,129,126,DEN,IND,3,away,OffReb,,,OffReb,,M. Turner,

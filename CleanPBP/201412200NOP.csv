@@ -1,0 +1,430 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,0,0,NOP,POR,15,home,JS,,19,miss2,0,A. Davis,
+1,1,11:44.0,0,0,NOP,POR,1,away,DefReb,,,DefReb,,W. Matthews,
+2,1,11:27.0,0,0,NOP,POR,17,away,JS,,25,miss3,0,W. Matthews,
+3,1,11:26.0,0,0,NOP,POR,1,home,DefReb,,,DefReb,,Ö. Aşık,
+4,1,11:11.0,0,0,NOP,POR,15,home,JS,,15,miss2,0,J. Holiday,
+5,1,11:09.0,0,0,NOP,POR,2,home,OffReb,,,OffReb,,J. Holiday,
+6,1,10:59.0,0,0,NOP,POR,10,home,LostBall,steal,,turnover,,T. Evans,L. Aldridge
+7,1,10:50.0,0,2,NOP,POR,9,away,JS,,15,make2,2,L. Aldridge,
+8,1,10:50.0,0,2,NOP,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,L. Aldridge
+9,1,10:50.0,0,3,NOP,POR,0,away,FreeThrow,,,make1,1,L. Aldridge,
+10,1,10:35.0,0,3,NOP,POR,15,home,JS,,13,miss2,0,A. Davis,
+11,1,10:33.0,0,3,NOP,POR,2,away,DefReb,,,DefReb,,L. Aldridge,
+12,1,10:23.0,0,3,NOP,POR,10,away,JS,,21,miss2,0,N. Batum,
+13,1,10:22.0,0,3,NOP,POR,1,home,DefReb,,,DefReb,,Ö. Aşık,
+14,1,10:12.0,0,3,NOP,POR,10,home,JS,block,9,miss2,0,A. Davis,L. Aldridge
+15,1,10:10.0,0,3,NOP,POR,2,away,DefReb,,,DefReb,,W. Matthews,
+16,1,10:04.0,0,3,NOP,POR,6,away,BadPass,steal,,turnover,,W. Matthews,T. Evans
+17,1,9:59.0,2,3,NOP,POR,5,home,DK,assist,0,make2,2,Ö. Aşık,J. Holiday
+18,1,9:28.0,2,5,NOP,POR,31,away,JS,,18,make2,2,L. Aldridge,
+19,1,9:18.0,2,5,NOP,POR,10,home,JS,,6,miss2,0,T. Evans,
+20,1,9:17.0,2,5,NOP,POR,1,away,DefReb,,,DefReb,,L. Aldridge,
+21,1,9:05.0,2,8,NOP,POR,12,away,JS,assist,25,make3,3,W. Matthews,D. Lillard
+22,1,8:55.0,2,8,NOP,POR,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Lillard,J. Holiday
+23,1,8:46.0,4,8,NOP,POR,9,home,JS,assist,3,make2,2,A. Davis,J. Holiday
+24,1,8:30.0,4,10,NOP,POR,16,away,JS,assist,19,make2,2,L. Aldridge,D. Lillard
+25,1,8:27.0,4,10,NOP,POR,3,home,inboundTurnover,,,turnover,,Ö. Aşık,
+26,1,8:24.0,4,12,NOP,POR,3,away,JS,assist,17,make2,2,L. Aldridge,N. Batum
+27,1,8:15.0,4,12,NOP,POR,9,home,JS,,25,miss3,0,J. Holiday,
+28,1,8:13.0,4,12,NOP,POR,2,home,OffReb,,,OffReb,,A. Davis,
+29,1,8:12.0,4,12,NOP,POR,1,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Freeland,A. Davis
+30,1,8:01.0,4,12,NOP,POR,11,home,Traveling,,,turnover,,A. Davis,
+31,1,7:46.0,4,14,NOP,POR,15,away,JS,assist,17,make2,2,D. Lillard,N. Batum
+32,1,7:21.0,4,14,NOP,POR,25,home,JS,,11,miss2,0,A. Davis,
+33,1,7:20.0,4,14,NOP,POR,1,home,OffReb,,,OffReb,,T. Evans,
+34,1,7:19.0,4,14,NOP,POR,1,home,ShotClockViolation,,,turnover,,Team,
+35,1,7:00.0,4,14,NOP,POR,19,away,JS,block,18,miss2,0,L. Aldridge,A. Davis
+36,1,6:59.0,4,14,NOP,POR,1,home,DefReb,,,DefReb,,A. Davis,
+37,1,6:52.0,4,14,NOP,POR,7,home,LU,block,2,miss2,0,T. Evans,J. Freeland
+38,1,6:50.0,4,14,NOP,POR,2,away,DefReb,,,DefReb,,D. Lillard,
+39,1,6:37.0,4,14,NOP,POR,13,away,LU,,2,miss2,0,D. Lillard,
+40,1,6:35.0,4,14,NOP,POR,2,home,DefReb,,,DefReb,,A. Davis,
+41,1,6:30.0,6,14,NOP,POR,5,home,LU,assist,1,make2,2,T. Evans,A. Davis
+42,1,6:04.0,6,14,NOP,POR,26,away,JS,,24,miss3,0,N. Batum,
+43,1,6:03.0,6,14,NOP,POR,1,home,DefReb,,,DefReb,,Ö. Aşık,
+44,1,5:56.0,6,14,NOP,POR,7,home,BadPass,steal,,turnover,,T. Evans,N. Batum
+45,1,5:49.0,6,14,NOP,POR,7,away,JS,,25,miss3,0,W. Matthews,
+46,1,5:48.0,6,14,NOP,POR,1,away,OffReb,,,OffReb,,Team,
+47,1,5:48.0,6,14,NOP,POR,0,home,Timeout,,,,,,
+48,1,5:48.0,6,14,NOP,POR,0,away,Sub,,,,,S. Blake,W. Matthews
+49,1,5:42.0,6,16,NOP,POR,6,away,LU,,2,make2,2,D. Lillard,
+50,1,5:27.0,8,16,NOP,POR,15,home,JS,,12,make2,2,J. Holiday,
+51,1,5:06.0,8,18,NOP,POR,21,away,JS,,12,make2,2,J. Freeland,
+52,1,4:52.0,8,18,NOP,POR,14,home,JS,,13,miss2,0,A. Davis,
+53,1,4:52.0,8,18,NOP,POR,0,home,OffReb,,,OffReb,,Ö. Aşık,
+54,1,4:52.0,8,18,NOP,POR,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,L. Aldridge,Ö. Aşık
+55,1,4:52.0,8,18,NOP,POR,0,home,Sub,,,,,R. Anderson,Ö. Aşık
+56,1,4:52.0,8,18,NOP,POR,0,away,Sub,,,,,C. Kaman,J. Freeland
+57,1,4:44.0,8,18,NOP,POR,8,home,LU,,1,miss2,0,A. Davis,
+58,1,4:43.0,8,18,NOP,POR,1,away,DefReb,,,DefReb,,L. Aldridge,
+59,1,4:31.0,8,18,NOP,POR,12,away,JS,,17,miss2,0,L. Aldridge,
+60,1,4:30.0,8,18,NOP,POR,1,away,OffReb,,,OffReb,,N. Batum,
+61,1,4:23.0,8,18,NOP,POR,7,away,JS,,25,miss3,0,S. Blake,
+62,1,4:22.0,8,18,NOP,POR,1,away,OffReb,,,OffReb,,S. Blake,
+63,1,4:12.0,8,18,NOP,POR,10,away,LU,,0,miss2,0,C. Kaman,
+64,1,4:07.0,8,18,NOP,POR,5,away,OffReb,,,OffReb,,C. Kaman,
+65,1,4:07.0,8,18,NOP,POR,0,away,LU,block,1,miss2,0,C. Kaman,A. Davis
+66,1,4:06.0,8,18,NOP,POR,1,away,OffReb,,,OffReb,,L. Aldridge,
+67,1,4:06.0,8,20,NOP,POR,0,away,LU,,1,make2,2,L. Aldridge,
+68,1,3:56.0,8,20,NOP,POR,10,home,LU,,2,miss2,0,J. Holiday,
+69,1,3:55.0,8,20,NOP,POR,1,away,DefReb,,,DefReb,,C. Kaman,
+70,1,3:48.0,8,20,NOP,POR,7,away,LU,,1,miss2,0,S. Blake,
+71,1,3:46.0,8,20,NOP,POR,2,away,OffReb,,,OffReb,,S. Blake,
+72,1,3:43.0,8,23,NOP,POR,3,away,JS,,23,make3,3,S. Blake,
+73,1,3:43.0,8,23,NOP,POR,0,home,Timeout,,,,,,
+74,1,3:43.0,8,23,NOP,POR,0,home,Sub,,,,,D. Cunningham,L. Babbitt
+75,1,3:21.0,8,23,NOP,POR,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Kaman,A. Davis
+76,1,3:21.0,10,23,NOP,POR,0,home,DK,assist,0,make2,2,A. Davis,J. Holiday
+77,1,3:21.0,10,23,NOP,POR,0,home,Sub,,,,,A. Rivers,T. Evans
+78,1,3:21.0,11,23,NOP,POR,0,home,FreeThrow,,,make1,1,A. Davis,
+79,1,3:06.0,11,25,NOP,POR,15,away,LU,,1,make2,2,N. Batum,
+80,1,2:46.0,11,25,NOP,POR,20,home,LU,,0,miss2,0,J. Holiday,
+81,1,2:44.0,11,25,NOP,POR,2,home,OffReb,,,OffReb,,A. Davis,
+82,1,2:39.0,11,25,NOP,POR,5,home,LU,,2,miss2,0,D. Cunningham,
+83,1,2:38.0,11,25,NOP,POR,1,home,OffReb,,,OffReb,,A. Davis,
+84,1,2:38.0,11,25,NOP,POR,0,home,DK,,0,miss2,0,A. Davis,
+85,1,2:37.0,11,25,NOP,POR,1,away,DefReb,,,DefReb,,S. Blake,
+86,1,2:28.0,11,27,NOP,POR,9,away,LU,assist,1,make2,2,N. Batum,S. Blake
+87,1,2:19.0,13,27,NOP,POR,9,home,LU,,1,make2,2,J. Holiday,
+88,1,2:05.0,13,27,NOP,POR,14,away,JS,,20,miss2,0,L. Aldridge,
+89,1,2:03.0,13,27,NOP,POR,2,home,DefReb,,,DefReb,,A. Rivers,
+90,1,1:50.0,13,27,NOP,POR,13,home,JS,,25,miss3,0,J. Holiday,
+91,1,1:49.0,13,27,NOP,POR,1,away,DefReb,,,DefReb,,L. Aldridge,
+92,1,1:43.0,13,27,NOP,POR,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Kaman,A. Rivers
+93,1,1:43.0,13,27,NOP,POR,0,away,OffensiveFoul,,,turnover,,C. Kaman,
+94,1,1:43.0,13,27,NOP,POR,0,away,Sub,,,,,A. Crabbe,N. Batum
+95,1,1:43.0,13,27,NOP,POR,0,away,Sub,,,,,W. Matthews,D. Lillard
+96,1,1:29.0,13,27,NOP,POR,14,home,LU,,1,miss2,0,J. Holiday,
+97,1,1:28.0,13,27,NOP,POR,1,away,DefReb,,,DefReb,,C. Kaman,
+98,1,1:21.0,13,30,NOP,POR,7,away,JS,assist,23,make3,3,A. Crabbe,S. Blake
+99,1,1:06.0,13,30,NOP,POR,15,home,JS,,25,miss3,0,R. Anderson,
+100,1,1:05.0,13,30,NOP,POR,1,away,DefReb,,,DefReb,,C. Kaman,
+101,1,0:47.0,13,32,NOP,POR,18,away,JS,,5,make2,2,L. Aldridge,
+102,1,0:35.0,15,32,NOP,POR,12,home,JS,assist,13,make2,2,A. Rivers,J. Holiday
+103,1,0:18.0,15,32,NOP,POR,17,away,BadPass,steal,,turnover,,S. Blake,J. Holiday
+104,1,0:05.0,15,32,NOP,POR,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Blake,A. Rivers
+105,1,0:05.0,16,32,NOP,POR,0,home,FreeThrow,,,make1,1,A. Rivers,
+106,1,0:05.0,16,32,NOP,POR,0,home,Sub,,,,,J. Fredette,J. Holiday
+107,1,0:05.0,17,32,NOP,POR,0,home,FreeThrow,,,make1,1,A. Rivers,
+108,1,0:00.0,17,32,NOP,POR,5,away,LU,block,2,miss2,0,S. Blake,A. Davis
+109,1,0:00.0,17,32,NOP,POR,0,away,OffReb,,,OffReb,,Team,
+110,2,11:48.0,17,34,NOP,POR,12,away,JS,assist,15,make2,2,C. Kaman,A. Crabbe
+111,2,11:33.0,17,34,NOP,POR,15,home,JS,,26,miss3,0,R. Anderson,
+112,2,11:33.0,17,34,NOP,POR,0,away,DefReb,,,DefReb,,C. Kaman,
+113,2,11:17.0,17,34,NOP,POR,16,away,JS,,26,miss3,0,W. Matthews,
+114,2,11:15.0,17,34,NOP,POR,2,home,DefReb,,,DefReb,,Team,
+115,2,11:01.0,19,34,NOP,POR,14,home,JS,assist,21,make2,2,D. Cunningham,R. Anderson
+116,2,10:45.0,19,34,NOP,POR,16,away,JS,,19,miss2,0,A. Crabbe,
+117,2,10:43.0,19,34,NOP,POR,2,home,DefReb,,,DefReb,,Team,
+118,2,10:32.0,19,34,NOP,POR,11,home,JS,,20,miss2,0,A. Rivers,
+119,2,10:31.0,19,34,NOP,POR,1,away,DefReb,,,DefReb,,A. Crabbe,
+120,2,10:20.0,19,36,NOP,POR,11,away,DK,assist,0,make2,2,T. Robinson,S. Blake
+121,2,9:59.0,19,36,NOP,POR,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Robinson,R. Anderson
+122,2,9:59.0,20,36,NOP,POR,0,home,FreeThrow,,,make1,1,R. Anderson,
+123,2,9:59.0,21,36,NOP,POR,0,home,FreeThrow,,,make1,1,R. Anderson,
+124,2,9:41.0,21,39,NOP,POR,18,away,JS,assist,25,make3,3,W. Matthews,A. Crabbe
+125,2,9:27.0,21,39,NOP,POR,14,home,LostBall,steal,,turnover,,Ö. Aşık,W. Matthews
+126,2,9:12.0,21,41,NOP,POR,15,away,JS,,14,make2,2,T. Robinson,
+127,2,8:56.0,23,41,NOP,POR,16,home,LU,,2,make2,2,A. Rivers,
+128,2,8:48.0,23,44,NOP,POR,8,away,JS,assist,22,make3,3,W. Matthews,A. Crabbe
+129,2,8:47.0,23,44,NOP,POR,1,home,Timeout,,,,,,
+130,2,8:30.0,23,44,NOP,POR,17,home,JS,,11,miss2,0,J. Fredette,
+131,2,8:29.0,23,44,NOP,POR,1,home,OffReb,,,OffReb,,R. Anderson,
+132,2,8:24.0,25,44,NOP,POR,5,home,JS,assist,19,make2,2,D. Cunningham,R. Anderson
+133,2,8:07.0,25,44,NOP,POR,17,away,BadPass,steal,,turnover,,W. Matthews,D. Cunningham
+134,2,8:04.0,25,44,NOP,POR,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Blake,D. Cunningham
+135,2,8:04.0,25,44,NOP,POR,0,away,Sub,,,,,N. Batum,W. Matthews
+136,2,8:04.0,25,44,NOP,POR,0,home,Sub,,,,,T. Evans,J. Fredette
+137,2,8:04.0,28,44,NOP,POR,0,home,JS,assist,26,make3,3,R. Anderson,T. Evans
+138,2,7:39.0,28,46,NOP,POR,25,away,DK,assist,0,make2,2,T. Robinson,N. Batum
+139,2,7:21.0,28,46,NOP,POR,18,home,LU,,2,miss2,0,T. Evans,
+140,2,7:18.0,28,46,NOP,POR,3,home,OffReb,,,OffReb,,R. Anderson,
+141,2,7:18.0,30,46,NOP,POR,0,home,TI,,0,make2,2,R. Anderson,
+142,2,7:07.0,30,48,NOP,POR,11,away,LU,,2,make2,2,C. Kaman,
+143,2,6:45.0,32,48,NOP,POR,22,home,LU,assist,3,make2,2,A. Rivers,T. Evans
+144,2,6:27.0,32,50,NOP,POR,18,away,JS,assist,15,make2,2,C. Kaman,A. Crabbe
+145,2,6:14.0,32,50,NOP,POR,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Robinson,R. Anderson
+146,2,6:14.0,32,50,NOP,POR,0,home,Sub,,,,,A. Davis,D. Cunningham
+147,2,6:14.0,32,50,NOP,POR,0,home,Sub,,,,,J. Holiday,Ö. Aşık
+148,2,6:04.0,34,50,NOP,POR,10,home,JS,,18,make2,2,R. Anderson,
+149,2,5:46.0,34,50,NOP,POR,18,away,LU,,2,miss2,0,T. Robinson,
+150,2,5:44.0,34,50,NOP,POR,2,home,DefReb,,,DefReb,,T. Evans,
+151,2,5:39.0,34,50,NOP,POR,5,home,JS,,23,miss3,0,A. Rivers,
+152,2,5:37.0,34,50,NOP,POR,2,away,DefReb,,,DefReb,,T. Robinson,
+153,2,5:33.0,34,50,NOP,POR,4,away,LU,,1,miss2,0,T. Robinson,
+154,2,5:30.0,34,50,NOP,POR,3,home,DefReb,,,DefReb,,Team,
+155,2,5:30.0,34,50,NOP,POR,0,away,Timeout,,,,,,
+156,2,5:30.0,34,50,NOP,POR,0,away,Sub,,,,,D. Lillard,S. Blake
+157,2,5:16.0,36,50,NOP,POR,14,home,JS,,3,make2,2,R. Anderson,
+158,2,5:16.0,36,50,NOP,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Robinson,R. Anderson
+159,2,5:16.0,37,50,NOP,POR,0,home,FreeThrow,,,make1,1,R. Anderson,
+160,2,5:01.0,37,50,NOP,POR,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Anderson,C. Kaman
+161,2,5:01.0,37,50,NOP,POR,0,away,FreeThrow,,,make1,0,C. Kaman,
+162,2,5:01.0,37,50,NOP,POR,0,away,OffReb,,,OffReb,,Team,
+163,2,5:01.0,37,50,NOP,POR,0,away,Sub,,,,,L. Aldridge,T. Robinson
+164,2,5:01.0,37,50,NOP,POR,0,away,FreeThrow,,,make1,0,C. Kaman,
+165,2,5:00.0,37,50,NOP,POR,1,home,DefReb,,,DefReb,,R. Anderson,
+166,2,4:47.0,37,50,NOP,POR,13,home,LU,,2,miss2,0,J. Holiday,
+167,2,4:46.0,37,50,NOP,POR,1,away,DefReb,,,DefReb,,L. Aldridge,
+168,2,4:35.0,37,52,NOP,POR,11,away,LU,assist,1,make2,2,L. Aldridge,D. Lillard
+169,2,4:18.0,39,52,NOP,POR,17,home,LU,,3,make2,2,R. Anderson,
+170,2,4:06.0,39,52,NOP,POR,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Evans,D. Lillard
+171,2,4:06.0,39,53,NOP,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+172,2,4:06.0,39,53,NOP,POR,0,away,Sub,,,,,J. Freeland,C. Kaman
+173,2,4:06.0,39,53,NOP,POR,0,away,Sub,,,,,W. Matthews,A. Crabbe
+174,2,4:06.0,39,54,NOP,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+175,2,3:55.0,39,54,NOP,POR,11,home,BadPass,steal,,turnover,,J. Holiday,N. Batum
+176,2,3:50.0,39,56,NOP,POR,5,away,DK,,0,make2,2,N. Batum,
+177,2,3:28.0,39,56,NOP,POR,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Freeland,T. Evans
+178,2,3:28.0,40,56,NOP,POR,0,home,FreeThrow,,,make1,1,T. Evans,
+179,2,3:28.0,40,56,NOP,POR,0,home,FreeThrow,,,make1,0,T. Evans,
+180,2,3:27.0,40,56,NOP,POR,1,away,DefReb,,,DefReb,,L. Aldridge,
+181,2,3:15.0,40,56,NOP,POR,12,away,JS,,20,miss2,0,L. Aldridge,
+182,2,3:14.0,40,56,NOP,POR,1,away,OffReb,,,OffReb,,J. Freeland,
+183,2,2:58.0,40,56,NOP,POR,16,away,JS,,25,miss3,0,D. Lillard,
+184,2,2:58.0,40,56,NOP,POR,0,home,DefReb,,,DefReb,,Team,
+185,2,2:58.0,40,56,NOP,POR,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Freeland,A. Rivers
+186,2,2:58.0,40,56,NOP,POR,0,away,Timeout,,,,,,
+187,2,2:58.0,41,56,NOP,POR,0,home,FreeThrow,,,make1,1,A. Rivers,
+188,2,2:58.0,42,56,NOP,POR,0,home,FreeThrow,,,make1,1,A. Rivers,
+189,2,2:40.0,42,56,NOP,POR,18,away,BadPass,,,turnover,,L. Aldridge,
+190,2,2:24.0,42,56,NOP,POR,16,home,BadPass,steal,,turnover,,T. Evans,N. Batum
+191,2,2:09.0,42,56,NOP,POR,15,away,HS,,7,miss2,0,L. Aldridge,
+192,2,2:09.0,42,56,NOP,POR,0,away,OffReb,,,OffReb,,Team,
+193,2,2:09.0,42,56,NOP,POR,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Holiday,D. Lillard
+194,2,2:09.0,42,56,NOP,POR,0,home,Sub,,,,,Ö. Aşık,R. Anderson
+195,2,2:09.0,42,56,NOP,POR,0,away,Sub,,,,,C. Kaman,J. Freeland
+196,2,2:05.0,42,56,NOP,POR,4,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,Ö. Aşık,L. Aldridge
+197,2,2:05.0,42,57,NOP,POR,0,away,FreeThrow,,,make1,1,L. Aldridge,
+198,2,2:05.0,42,58,NOP,POR,0,away,FreeThrow,,,make1,1,L. Aldridge,
+199,2,1:52.0,42,58,NOP,POR,13,home,JS,,13,miss2,0,J. Holiday,
+200,2,1:50.0,42,58,NOP,POR,2,home,OffReb,,,OffReb,,Ö. Aşık,
+201,2,1:50.0,42,58,NOP,POR,0,home,TI,,1,miss2,0,Ö. Aşık,
+202,2,1:49.0,42,58,NOP,POR,1,home,OffReb,,,OffReb,,J. Holiday,
+203,2,1:42.0,42,58,NOP,POR,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Kaman,A. Rivers
+204,2,1:42.0,43,58,NOP,POR,0,home,FreeThrow,,,make1,1,A. Rivers,
+205,2,1:42.0,44,58,NOP,POR,0,home,FreeThrow,,,make1,1,A. Rivers,
+206,2,1:25.0,44,58,NOP,POR,17,away,Traveling,,,turnover,,C. Kaman,
+207,2,1:09.0,44,58,NOP,POR,16,home,LU,,2,miss2,0,T. Evans,
+208,2,1:08.0,44,58,NOP,POR,1,away,DefReb,,,DefReb,,C. Kaman,
+209,2,1:00.0,44,60,NOP,POR,8,away,HS,assist,6,make2,2,C. Kaman,D. Lillard
+210,2,0:52.0,44,60,NOP,POR,8,home,BadPass,steal,,turnover,,J. Holiday,L. Aldridge
+211,2,0:32.0,44,60,NOP,POR,20,away,JS,,17,miss2,0,D. Lillard,
+212,2,0:31.0,44,60,NOP,POR,1,away,OffReb,,,OffReb,,L. Aldridge,
+213,2,0:21.0,44,62,NOP,POR,10,away,JS,,16,make2,2,L. Aldridge,
+214,2,0:03.0,44,62,NOP,POR,18,home,LU,,2,miss2,0,T. Evans,
+215,2,0:01.0,44,62,NOP,POR,2,home,OffReb,,,OffReb,,T. Evans,
+216,3,11:43.0,44,65,NOP,POR,17,away,JS,,23,make3,3,D. Lillard,
+217,3,11:31.0,44,65,NOP,POR,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Freeland,Ö. Aşık
+218,3,11:18.0,44,65,NOP,POR,13,home,LU,,3,miss2,0,A. Davis,
+219,3,11:17.0,44,65,NOP,POR,1,home,OffReb,,,OffReb,,Ö. Aşık,
+220,3,11:17.0,44,65,NOP,POR,0,home,TI,,2,miss2,0,Ö. Aşık,
+221,3,11:15.0,44,65,NOP,POR,2,home,OffReb,,,OffReb,,Ö. Aşık,
+222,3,11:12.0,44,65,NOP,POR,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lillard,T. Evans
+223,3,11:12.0,44,65,NOP,POR,0,home,FreeThrow,,,make1,0,T. Evans,
+224,3,11:12.0,44,65,NOP,POR,0,home,OffReb,,,OffReb,,Team,
+225,3,11:12.0,45,65,NOP,POR,0,home,FreeThrow,,,make1,1,T. Evans,
+226,3,10:52.0,45,65,NOP,POR,20,away,JS,,26,miss3,0,W. Matthews,
+227,3,10:51.0,45,65,NOP,POR,1,home,DefReb,,,DefReb,,J. Holiday,
+228,3,10:40.0,45,65,NOP,POR,11,home,JS,,21,miss2,0,T. Evans,
+229,3,10:38.0,45,65,NOP,POR,2,away,DefReb,,,DefReb,,L. Aldridge,
+230,3,10:28.0,45,65,NOP,POR,10,away,JS,block,18,miss2,0,L. Aldridge,A. Davis
+231,3,10:26.0,45,65,NOP,POR,2,home,DefReb,,,DefReb,,L. Babbitt,
+232,3,10:16.0,47,65,NOP,POR,10,home,DK,assist,0,make2,2,Ö. Aşık,J. Holiday
+233,3,9:58.0,47,67,NOP,POR,18,away,JS,assist,20,make2,2,L. Aldridge,D. Lillard
+234,3,9:47.0,47,67,NOP,POR,11,home,JS,,22,miss2,0,A. Davis,
+235,3,9:46.0,47,67,NOP,POR,1,away,DefReb,,,DefReb,,L. Aldridge,
+236,3,9:33.0,47,67,NOP,POR,13,away,JS,,24,miss3,0,W. Matthews,
+237,3,9:31.0,47,67,NOP,POR,2,home,DefReb,,,DefReb,,L. Babbitt,
+238,3,9:23.0,47,67,NOP,POR,8,home,LU,block,1,miss2,0,Ö. Aşık,L. Aldridge
+239,3,9:21.0,47,67,NOP,POR,2,away,DefReb,,,DefReb,,N. Batum,
+240,3,9:19.0,47,69,NOP,POR,2,away,LU,,2,make2,2,N. Batum,
+241,3,9:19.0,47,69,NOP,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,N. Batum
+242,3,9:19.0,47,70,NOP,POR,0,away,FreeThrow,,,make1,1,N. Batum,
+243,3,9:05.0,47,70,NOP,POR,14,home,JS,,25,miss3,0,T. Evans,
+244,3,9:04.0,47,70,NOP,POR,1,away,DefReb,,,DefReb,,D. Lillard,
+245,3,8:53.0,47,70,NOP,POR,11,away,BadPass,,,turnover,,W. Matthews,
+246,3,8:35.0,49,70,NOP,POR,18,home,JS,assist,20,make2,2,T. Evans,J. Holiday
+247,3,8:17.0,49,72,NOP,POR,18,away,JS,assist,19,make2,2,L. Aldridge,D. Lillard
+248,3,8:01.0,49,72,NOP,POR,16,home,JS,,9,miss2,0,A. Davis,
+249,3,8:01.0,49,72,NOP,POR,0,away,DefReb,,,DefReb,,L. Aldridge,
+250,3,7:54.0,49,75,NOP,POR,7,away,JS,,27,make3,3,D. Lillard,
+251,3,7:35.0,49,75,NOP,POR,19,home,LU,,2,miss2,0,T. Evans,
+252,3,7:34.0,49,75,NOP,POR,1,away,DefReb,,,DefReb,,J. Freeland,
+253,3,7:31.0,49,75,NOP,POR,3,away,BadPass,steal,,turnover,,D. Lillard,A. Davis
+254,3,7:22.0,49,75,NOP,POR,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Freeland,L. Babbitt
+255,3,7:22.0,50,75,NOP,POR,0,home,FreeThrow,,,make1,1,L. Babbitt,
+256,3,7:22.0,50,75,NOP,POR,0,home,Sub,,,,,R. Anderson,Ö. Aşık
+257,3,7:22.0,50,75,NOP,POR,0,away,Sub,,,,,C. Kaman,J. Freeland
+258,3,7:22.0,51,75,NOP,POR,0,home,FreeThrow,,,make1,1,L. Babbitt,
+259,3,7:05.0,51,75,NOP,POR,17,away,JS,,24,miss3,0,L. Aldridge,
+260,3,7:04.0,51,75,NOP,POR,1,home,DefReb,,,DefReb,,J. Holiday,
+261,3,6:54.0,51,75,NOP,POR,10,home,JS,,27,miss3,0,R. Anderson,
+262,3,6:54.0,51,75,NOP,POR,0,away,DefReb,,,DefReb,,D. Lillard,
+263,3,6:40.0,51,77,NOP,POR,14,away,JS,assist,17,make2,2,C. Kaman,D. Lillard
+264,3,6:23.0,51,77,NOP,POR,17,home,JS,,26,miss3,0,T. Evans,
+265,3,6:22.0,51,77,NOP,POR,1,away,DefReb,,,DefReb,,L. Aldridge,
+266,3,6:12.0,51,77,NOP,POR,10,away,LU,block,2,miss2,0,D. Lillard,A. Davis
+267,3,6:10.0,51,77,NOP,POR,2,home,DefReb,,,DefReb,,T. Evans,
+268,3,6:03.0,51,77,NOP,POR,7,home,BadPass,steal,,turnover,,J. Holiday,D. Lillard
+269,3,5:56.0,51,80,NOP,POR,7,away,JS,assist,25,make3,3,D. Lillard,N. Batum
+270,3,5:56.0,51,80,NOP,POR,0,home,Timeout,,,,,,
+271,3,5:56.0,51,80,NOP,POR,0,home,Sub,,,,,A. Rivers,L. Babbitt
+272,3,5:56.0,51,80,NOP,POR,0,home,Sub,,,,,D. Cunningham,T. Evans
+273,3,5:56.0,51,80,NOP,POR,0,away,Sub,,,,,S. Blake,W. Matthews
+274,3,5:40.0,51,80,NOP,POR,16,home,JS,,11,miss2,0,J. Holiday,
+275,3,5:39.0,51,80,NOP,POR,1,home,OffReb,,,OffReb,,J. Holiday,
+276,3,5:26.0,51,80,NOP,POR,13,home,BadPass,steal,,turnover,,J. Holiday,C. Kaman
+277,3,5:09.0,51,80,NOP,POR,17,away,JS,block,24,miss3,0,D. Lillard,J. Holiday
+278,3,5:09.0,51,80,NOP,POR,0,away,OffReb,,,OffReb,,Team,
+279,3,5:00.0,51,82,NOP,POR,9,away,HS,assist,7,make2,2,C. Kaman,L. Aldridge
+280,3,4:47.0,53,82,NOP,POR,13,home,JS,assist,10,make2,2,A. Davis,A. Rivers
+281,3,4:29.0,53,84,NOP,POR,18,away,LU,assist,1,make2,2,C. Kaman,N. Batum
+282,3,4:21.0,55,84,NOP,POR,8,home,LU,,1,make2,2,J. Holiday,
+283,3,4:03.0,55,86,NOP,POR,18,away,DK,assist,0,make2,2,N. Batum,L. Aldridge
+284,3,4:03.0,55,86,NOP,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cunningham,N. Batum
+285,3,4:03.0,55,86,NOP,POR,0,away,FreeThrow,,,make1,0,N. Batum,
+286,3,4:01.0,55,86,NOP,POR,2,home,DefReb,,,DefReb,,A. Davis,
+287,3,3:50.0,55,86,NOP,POR,11,home,JS,,4,miss2,0,A. Davis,
+288,3,3:48.0,55,86,NOP,POR,2,home,OffReb,,,OffReb,,R. Anderson,
+289,3,3:48.0,57,86,NOP,POR,0,home,TI,,5,make2,2,R. Anderson,
+290,3,3:25.0,57,88,NOP,POR,23,away,JS,,6,make2,2,L. Aldridge,
+291,3,3:05.0,59,88,NOP,POR,20,home,JS,,4,make2,2,A. Rivers,
+292,3,2:41.0,59,88,NOP,POR,24,away,JS,,15,miss2,0,L. Aldridge,
+293,3,2:40.0,59,88,NOP,POR,1,away,OffReb,,,OffReb,,S. Blake,
+294,3,2:38.0,59,88,NOP,POR,2,away,Timeout,,,,,,
+295,3,2:38.0,59,88,NOP,POR,0,home,Sub,,,,,A. Ajinça,A. Davis
+296,3,2:38.0,59,88,NOP,POR,0,home,Sub,,,,,R. Smith,J. Holiday
+297,3,2:29.0,59,90,NOP,POR,9,away,LU,assist,2,make2,2,D. Lillard,S. Blake
+298,3,2:06.0,59,90,NOP,POR,23,home,LostBall,steal,,turnover,,R. Anderson,L. Aldridge
+299,3,2:00.0,59,90,NOP,POR,6,away,JS,,27,miss3,0,N. Batum,
+300,3,1:59.0,59,90,NOP,POR,1,home,DefReb,,,DefReb,,A. Ajinça,
+301,3,1:39.0,59,90,NOP,POR,20,home,JS,,15,miss2,0,R. Anderson,
+302,3,1:38.0,59,90,NOP,POR,1,home,OffReb,,,OffReb,,A. Ajinça,
+303,3,1:38.0,59,90,NOP,POR,0,home,TI,,0,miss2,0,A. Ajinça,
+304,3,1:37.0,59,90,NOP,POR,1,away,DefReb,,,DefReb,,N. Batum,
+305,3,1:29.0,59,90,NOP,POR,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Rivers,C. Kaman
+306,3,1:29.0,59,92,NOP,POR,0,away,DK,assist,0,make2,2,C. Kaman,S. Blake
+307,3,1:29.0,59,92,NOP,POR,0,away,FreeThrow,,,make1,0,C. Kaman,
+308,3,1:28.0,59,92,NOP,POR,1,home,DefReb,,,DefReb,,A. Ajinça,
+309,3,1:15.0,59,92,NOP,POR,13,home,JS,,20,miss2,0,A. Rivers,
+310,3,1:14.0,59,92,NOP,POR,1,home,OffReb,,,OffReb,,A. Ajinça,
+311,3,0:54.0,59,92,NOP,POR,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Batum,A. Rivers
+312,3,0:54.0,59,92,NOP,POR,0,home,FreeThrow,,,make1,0,A. Rivers,
+313,3,0:54.0,59,92,NOP,POR,0,home,OffReb,,,OffReb,,Team,
+314,3,0:54.0,60,92,NOP,POR,0,home,FreeThrow,,,make1,1,A. Rivers,
+315,3,0:37.0,60,94,NOP,POR,17,away,JS,,19,make2,2,L. Aldridge,
+316,3,0:20.0,62,94,NOP,POR,17,home,LU,,2,make2,2,A. Rivers,
+317,3,0:02.0,62,94,NOP,POR,18,away,JS,,30,miss3,0,D. Lillard,
+318,3,0:01.0,62,94,NOP,POR,1,home,DefReb,,,DefReb,,R. Anderson,
+319,3,0:00.0,62,94,NOP,POR,1,home,JS,,50,miss3,0,R. Anderson,
+320,3,0:00.0,62,94,NOP,POR,0,home,OffReb,,,OffReb,,Team,
+321,4,11:45.0,62,94,NOP,POR,15,home,JS,,19,miss2,0,A. Ajinça,
+322,4,11:44.0,62,94,NOP,POR,1,away,DefReb,,,DefReb,,W. Barton,
+323,4,11:26.0,62,94,NOP,POR,18,away,JS,,10,miss2,0,C. McCollum,
+324,4,11:25.0,62,94,NOP,POR,1,home,DefReb,,,DefReb,,A. Ajinça,
+325,4,11:17.0,62,94,NOP,POR,8,home,LostBall,steal,,turnover,,R. Smith,S. Blake
+326,4,11:03.0,62,94,NOP,POR,14,away,JS,,18,miss2,0,W. Barton,
+327,4,11:02.0,62,94,NOP,POR,1,home,DefReb,,,DefReb,,A. Ajinça,
+328,4,10:49.0,65,94,NOP,POR,13,home,JS,assist,24,make3,3,L. Babbitt,R. Anderson
+329,4,10:30.0,65,94,NOP,POR,19,away,JS,,19,miss2,0,J. Freeland,
+330,4,10:29.0,65,94,NOP,POR,1,home,DefReb,,,DefReb,,A. Rivers,
+331,4,10:14.0,65,94,NOP,POR,15,home,LostBall,steal,,turnover,,A. Ajinça,S. Blake
+332,4,10:10.0,65,94,NOP,POR,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Robinson,R. Anderson
+333,4,10:10.0,65,94,NOP,POR,0,away,OffensiveFoul,,,turnover,,T. Robinson,
+334,4,9:57.0,65,94,NOP,POR,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Freeland,A. Ajinça
+335,4,9:57.0,65,94,NOP,POR,0,away,Sub,,,,,M. Leonard,J. Freeland
+336,4,9:57.0,66,94,NOP,POR,0,home,FreeThrow,,,make1,1,A. Ajinça,
+337,4,9:57.0,67,94,NOP,POR,0,home,FreeThrow,,,make1,1,A. Ajinça,
+338,4,9:42.0,67,94,NOP,POR,15,away,JS,,22,miss3,0,W. Barton,
+339,4,9:41.0,67,94,NOP,POR,1,home,DefReb,,,DefReb,,L. Babbitt,
+340,4,9:35.0,67,94,NOP,POR,6,home,LostBall,,,turnover,,R. Smith,
+341,4,9:21.0,67,94,NOP,POR,14,away,BadPass,,,turnover,,S. Blake,
+342,4,9:05.0,70,94,NOP,POR,16,home,JS,assist,25,make3,3,R. Smith,A. Rivers
+343,4,9:04.0,70,94,NOP,POR,1,away,Timeout,,,,,,
+344,4,8:45.0,70,94,NOP,POR,19,away,JS,,24,miss3,0,M. Leonard,
+345,4,8:45.0,70,94,NOP,POR,0,home,DefReb,,,DefReb,,A. Ajinça,
+346,4,8:27.0,70,94,NOP,POR,18,home,JS,,12,miss2,0,A. Rivers,
+347,4,8:26.0,70,94,NOP,POR,1,away,DefReb,,,DefReb,,M. Leonard,
+348,4,8:12.0,70,94,NOP,POR,14,away,JS,,11,miss2,0,C. McCollum,
+349,4,8:11.0,70,94,NOP,POR,1,home,DefReb,,,DefReb,,R. Smith,
+350,4,8:02.0,70,94,NOP,POR,9,home,BadPass,,,turnover,,R. Smith,
+351,4,8:02.0,70,94,NOP,POR,0,home,Sub,,,,,J. Withey,R. Anderson
+352,4,7:47.0,70,94,NOP,POR,15,away,JS,,15,miss2,0,W. Barton,
+353,4,7:46.0,70,94,NOP,POR,1,home,DefReb,,,DefReb,,A. Ajinça,
+354,4,7:37.0,70,94,NOP,POR,9,home,JS,,26,miss3,0,R. Smith,
+355,4,7:36.0,70,94,NOP,POR,1,away,DefReb,,,DefReb,,W. Barton,
+356,4,7:32.0,70,94,NOP,POR,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Smith,T. Robinson
+357,4,7:32.0,70,94,NOP,POR,0,away,FreeThrow,,,make1,0,T. Robinson,
+358,4,7:32.0,70,94,NOP,POR,0,away,OffReb,,,OffReb,,Team,
+359,4,7:32.0,70,94,NOP,POR,0,away,FreeThrow,,,make1,0,T. Robinson,
+360,4,7:32.0,70,94,NOP,POR,0,home,DefReb,,,DefReb,,A. Ajinça,
+361,4,7:16.0,70,94,NOP,POR,16,home,JS,,14,miss2,0,R. Smith,
+362,4,7:15.0,70,94,NOP,POR,1,away,DefReb,,,DefReb,,C. McCollum,
+363,4,7:04.0,70,94,NOP,POR,11,away,JS,,23,miss3,0,M. Leonard,
+364,4,7:03.0,70,94,NOP,POR,1,home,DefReb,,,DefReb,,R. Smith,
+365,4,6:59.0,70,94,NOP,POR,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Leonard,J. Withey
+366,4,6:59.0,70,94,NOP,POR,0,away,DelayOfGame,,,DelayOfGame,,Team,
+367,4,6:52.0,70,94,NOP,POR,7,home,OffGoaltending,,,turnover,,A. Ajinça,
+368,4,6:52.0,70,94,NOP,POR,0,home,Sub,,,,,J. Fredette,L. Babbitt
+369,4,6:35.0,70,94,NOP,POR,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Ajinça,M. Leonard
+370,4,6:35.0,70,95,NOP,POR,0,away,FreeThrow,,,make1,1,M. Leonard,
+371,4,6:35.0,70,96,NOP,POR,0,away,FreeThrow,,,make1,1,M. Leonard,
+372,4,6:16.0,70,96,NOP,POR,19,home,JS,,10,miss2,0,J. Withey,
+373,4,6:15.0,70,96,NOP,POR,1,away,DefReb,,,DefReb,,C. McCollum,
+374,4,6:11.0,70,96,NOP,POR,4,away,LU,,1,miss2,0,C. McCollum,
+375,4,6:10.0,70,96,NOP,POR,1,away,OffReb,,,OffReb,,T. Robinson,
+376,4,6:10.0,70,98,NOP,POR,0,away,DK,,0,make2,2,T. Robinson,
+377,4,5:51.0,70,98,NOP,POR,19,home,JS,,24,miss3,0,R. Smith,
+378,4,5:50.0,70,98,NOP,POR,1,away,DefReb,,,DefReb,,C. McCollum,
+379,4,5:34.0,70,98,NOP,POR,16,away,JS,,26,miss3,0,W. Barton,
+380,4,5:33.0,70,98,NOP,POR,1,home,DefReb,,,DefReb,,A. Ajinça,
+381,4,5:33.0,70,98,NOP,POR,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Leonard,A. Ajinça
+382,4,5:33.0,70,98,NOP,POR,0,away,Sub,,,,,A. Crabbe,S. Blake
+383,4,5:22.0,72,98,NOP,POR,11,home,DK,,0,make2,2,A. Ajinça,
+384,4,5:00.0,72,100,NOP,POR,22,away,JS,assist,16,make2,2,T. Robinson,C. McCollum
+385,4,4:38.0,72,100,NOP,POR,22,home,JS,,22,miss2,0,J. Fredette,
+386,4,4:36.0,72,100,NOP,POR,2,away,DefReb,,,DefReb,,M. Leonard,
+387,4,4:20.0,72,102,NOP,POR,16,away,DK,assist,0,make2,2,M. Leonard,W. Barton
+388,4,4:02.0,72,102,NOP,POR,18,home,LU,,1,miss2,0,R. Smith,
+389,4,4:01.0,72,102,NOP,POR,1,home,OffReb,,,OffReb,,A. Ajinça,
+390,4,4:01.0,72,102,NOP,POR,0,home,TI,,3,miss2,0,A. Ajinça,
+391,4,4:00.0,72,102,NOP,POR,1,away,DefReb,,,DefReb,,A. Crabbe,
+392,4,3:57.0,72,102,NOP,POR,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Fredette,W. Barton
+393,4,3:57.0,72,104,NOP,POR,0,away,LU,,1,make2,2,W. Barton,
+394,4,3:57.0,72,105,NOP,POR,0,away,FreeThrow,,,make1,1,W. Barton,
+395,4,3:41.0,74,105,NOP,POR,16,home,JS,assist,15,make2,2,A. Ajinça,A. Rivers
+396,4,3:25.0,74,105,NOP,POR,16,away,LostBall,steal,,turnover,,T. Robinson,A. Ajinça
+397,4,3:21.0,74,105,NOP,POR,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. McCollum,A. Rivers
+398,4,3:21.0,75,105,NOP,POR,0,home,FreeThrow,,,make1,1,A. Rivers,
+399,4,3:21.0,76,105,NOP,POR,0,home,FreeThrow,,,make1,1,A. Rivers,
+400,4,3:10.0,76,105,NOP,POR,11,away,JS,,15,miss2,0,C. McCollum,
+401,4,3:09.0,76,105,NOP,POR,1,away,OffReb,,,OffReb,,T. Robinson,
+402,4,3:09.0,76,107,NOP,POR,0,away,DK,,0,make2,2,T. Robinson,
+403,4,2:49.0,78,107,NOP,POR,20,home,JS,,12,make2,2,A. Ajinça,
+404,4,2:32.0,78,107,NOP,POR,17,away,BadPass,steal,,turnover,,C. McCollum,J. Fredette
+405,4,2:28.0,78,107,NOP,POR,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Crabbe,J. Fredette
+406,4,2:28.0,78,107,NOP,POR,0,home,Timeout,,,,,,
+407,4,2:28.0,79,107,NOP,POR,0,home,FreeThrow,,,make1,1,J. Fredette,
+408,4,2:28.0,80,107,NOP,POR,0,home,FreeThrow,,,make1,1,J. Fredette,
+409,4,2:10.0,80,109,NOP,POR,18,away,JS,,15,make2,2,C. McCollum,
+410,4,1:53.0,80,109,NOP,POR,17,home,JS,,4,miss2,0,J. Fredette,
+411,4,1:51.0,80,109,NOP,POR,2,home,OffReb,,,OffReb,,J. Withey,
+412,4,1:51.0,80,109,NOP,POR,0,home,TI,,1,miss2,0,J. Withey,
+413,4,1:50.0,80,109,NOP,POR,1,away,DefReb,,,DefReb,,T. Robinson,
+414,4,1:43.0,80,109,NOP,POR,7,away,BadPass,steal,,turnover,,C. McCollum,A. Rivers
+415,4,1:38.0,82,109,NOP,POR,5,home,LU,,2,make2,2,R. Smith,
+416,4,1:22.0,82,109,NOP,POR,16,away,JS,,21,miss2,0,A. Crabbe,
+417,4,1:21.0,82,109,NOP,POR,1,home,DefReb,,,DefReb,,A. Ajinça,
+418,4,1:11.0,82,109,NOP,POR,10,home,JS,,25,miss3,0,R. Smith,
+419,4,1:10.0,82,109,NOP,POR,1,home,OffReb,,,OffReb,,A. Ajinça,
+420,4,1:10.0,84,109,NOP,POR,0,home,JS,,14,make2,2,A. Ajinça,
+421,4,0:55.0,84,112,NOP,POR,15,away,JS,,26,make3,3,M. Leonard,
+422,4,0:34.0,84,112,NOP,POR,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Leonard,J. Withey
+423,4,0:34.0,85,112,NOP,POR,0,home,FreeThrow,,,make1,1,J. Withey,
+424,4,0:34.0,86,112,NOP,POR,0,home,FreeThrow,,,make1,1,J. Withey,
+425,4,0:23.0,86,114,NOP,POR,11,away,JS,,9,make2,2,W. Barton,
+426,4,0:05.0,86,114,NOP,POR,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Robinson,A. Rivers
+427,4,0:05.0,87,114,NOP,POR,0,home,FreeThrow,,,make1,1,A. Rivers,
+428,4,0:05.0,88,114,NOP,POR,0,home,FreeThrow,,,make1,1,A. Rivers,

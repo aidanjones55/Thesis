@@ -1,0 +1,464 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:47.0,0,2,UTA,DAL,13,away,JS,assist,11,make2,2,T. Hardaway,J. Brunson
+1,1,11:29.0,0,2,UTA,DAL,18,home,JS,,27,miss3,0,J. Ingles,
+2,1,11:27.0,0,2,UTA,DAL,2,away,DefReb,,,DefReb,,J. Brunson,
+3,1,11:20.0,0,2,UTA,DAL,7,away,JS,,18,miss2,0,T. Hardaway,
+4,1,11:17.0,0,2,UTA,DAL,3,home,DefReb,,,DefReb,,R. Gobert,
+5,1,11:13.0,2,2,UTA,DAL,4,home,LU,,3,make2,2,D. Mitchell,
+6,1,11:13.0,2,2,UTA,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Finney-Smith,D. Mitchell
+7,1,11:13.0,3,2,UTA,DAL,0,home,FreeThrow,,,make1,1,D. Mitchell,
+8,1,10:56.0,3,2,UTA,DAL,17,away,bad pass,steal,,turnover,,J. Brunson,R. Rubio
+9,1,10:44.0,3,2,UTA,DAL,12,home,JS,,24,miss3,0,D. Favors,
+10,1,10:41.0,3,2,UTA,DAL,3,away,DefReb,,,DefReb,,D. Finney-Smith,
+11,1,10:35.0,3,2,UTA,DAL,6,away,JS,,6,miss2,0,J. Brunson,
+12,1,10:35.0,3,2,UTA,DAL,0,home,DefReb,,,DefReb,,Team,
+13,1,10:16.0,3,2,UTA,DAL,19,home,JS,,26,miss3,0,R. Rubio,
+14,1,10:13.0,3,2,UTA,DAL,3,home,OffReb,,,OffReb,,J. Ingles,
+15,1,10:01.0,3,2,UTA,DAL,12,home,JS,,15,miss2,0,D. Favors,
+16,1,9:58.0,3,2,UTA,DAL,3,away,DefReb,,,DefReb,,S. Mejri,
+17,1,9:53.0,3,2,UTA,DAL,5,away,JS,,26,miss3,0,D. Nowitzki,
+18,1,9:49.0,3,2,UTA,DAL,4,away,OffReb,,,OffReb,,T. Hardaway,
+19,1,9:42.0,3,2,UTA,DAL,7,away,JS,,12,miss2,0,S. Mejri,
+20,1,9:39.0,3,2,UTA,DAL,3,home,DefReb,,,DefReb,,R. Gobert,
+21,1,9:30.0,3,2,UTA,DAL,9,home,bad pass,steal,,turnover,,D. Mitchell,S. Mejri
+22,1,9:26.0,3,4,UTA,DAL,4,away,DK,assist,1,make2,2,D. Finney-Smith,T. Hardaway
+23,1,9:10.0,3,4,UTA,DAL,16,home,JS,,24,miss3,0,J. Ingles,
+24,1,9:08.0,3,4,UTA,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+25,1,8:49.0,3,4,UTA,DAL,19,away,JS,,15,miss2,0,J. Brunson,
+26,1,8:45.0,3,4,UTA,DAL,4,home,DefReb,,,DefReb,,D. Mitchell,
+27,1,8:42.0,3,4,UTA,DAL,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,D. Mitchell
+28,1,8:42.0,4,4,UTA,DAL,0,home,FreeThrow,,,make1,1,D. Mitchell,
+29,1,8:42.0,5,4,UTA,DAL,0,home,FreeThrow,,,make1,1,D. Mitchell,
+30,1,8:21.0,5,6,UTA,DAL,21,away,JS,,14,make2,2,D. Finney-Smith,
+31,1,8:03.0,7,6,UTA,DAL,18,home,LU,assist,1,make2,2,R. Rubio,J. Ingles
+32,1,7:51.0,7,6,UTA,DAL,12,away,JS,,15,miss2,0,J. Brunson,
+33,1,7:48.0,7,6,UTA,DAL,3,home,DefReb,,,DefReb,,D. Mitchell,
+34,1,7:44.0,9,6,UTA,DAL,4,home,DK,assist,2,make2,2,D. Mitchell,J. Ingles
+35,1,7:43.0,9,6,UTA,DAL,1,away,Timeout,,,,,,
+36,1,7:25.0,9,9,UTA,DAL,18,away,JS,assist,25,make3,3,D. Nowitzki,J. Brunson
+37,1,7:09.0,11,9,UTA,DAL,16,home,LU,assist,2,make2,2,J. Ingles,D. Mitchell
+38,1,6:59.0,11,12,UTA,DAL,10,away,JS,,25,make3,3,D. Finney-Smith,
+39,1,6:45.0,13,12,UTA,DAL,14,home,DK,assist,2,make2,2,R. Gobert,R. Rubio
+40,1,6:26.0,13,12,UTA,DAL,19,away,OutOfBoundsLB,,,turnover,,S. Mejri,
+41,1,6:26.0,13,12,UTA,DAL,0,away,Sub,,,,,C. Lee,S. Mejri
+42,1,6:26.0,13,12,UTA,DAL,0,away,Sub,,,,,D. Powell,D. Nowitzki
+43,1,6:26.0,13,12,UTA,DAL,0,home,Sub,,,,,J. Crowder,D. Favors
+44,1,6:26.0,13,12,UTA,DAL,0,home,Sub,,,,,K. Korver,J. Ingles
+45,1,6:15.0,13,12,UTA,DAL,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brunson,R. Gobert
+46,1,6:05.0,13,12,UTA,DAL,10,home,JS,,28,miss3,0,K. Korver,
+47,1,6:02.0,13,12,UTA,DAL,3,away,DefReb,,,DefReb,,J. Brunson,
+48,1,5:55.0,13,12,UTA,DAL,7,away,JS,,9,miss2,0,J. Brunson,
+49,1,5:53.0,13,12,UTA,DAL,2,home,DefReb,,,DefReb,,J. Crowder,
+50,1,5:48.0,15,12,UTA,DAL,5,home,LU,assist,3,make2,2,R. Rubio,J. Crowder
+51,1,5:38.0,15,15,UTA,DAL,10,away,JS,assist,25,make3,3,T. Hardaway,D. Powell
+52,1,5:20.0,15,15,UTA,DAL,18,home,LU,,5,miss2,0,D. Mitchell,
+53,1,5:19.0,15,15,UTA,DAL,1,home,OffReb,,,OffReb,,Team,
+54,1,5:19.0,15,15,UTA,DAL,0,away,Sub,,,,,T. Burke,J. Brunson
+55,1,5:10.0,15,15,UTA,DAL,9,home,BadPass,,,turnover,,D. Mitchell,
+56,1,5:04.0,15,15,UTA,DAL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Mitchell,D. Powell
+57,1,4:56.0,15,15,UTA,DAL,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Gobert,D. Powell
+58,1,4:56.0,15,16,UTA,DAL,0,away,FreeThrow,,,make1,1,D. Powell,
+59,1,4:56.0,15,17,UTA,DAL,0,away,FreeThrow,,,make1,1,D. Powell,
+60,1,4:40.0,18,17,UTA,DAL,16,home,JS,assist,25,make3,3,R. Rubio,D. Mitchell
+61,1,4:24.0,18,17,UTA,DAL,16,away,LU,block,2,miss2,0,C. Lee,R. Gobert
+62,1,4:21.0,18,17,UTA,DAL,3,home,DefReb,,,DefReb,,K. Korver,
+63,1,4:17.0,18,17,UTA,DAL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Powell,R. Gobert
+64,1,4:17.0,18,17,UTA,DAL,0,home,Sub,,,,,R. Neto,R. Rubio
+65,1,4:11.0,18,17,UTA,DAL,6,home,Traveling,,,turnover,,K. Korver,
+66,1,4:03.0,18,17,UTA,DAL,8,away,JS,,25,miss3,0,D. Powell,
+67,1,4:00.0,18,17,UTA,DAL,3,home,DefReb,,,DefReb,,D. Mitchell,
+68,1,3:52.0,20,17,UTA,DAL,8,home,DK,assist,3,make2,2,R. Gobert,R. Neto
+69,1,3:39.0,20,19,UTA,DAL,13,away,HS,assist,8,make2,2,D. Powell,T. Burke
+70,1,3:22.0,20,19,UTA,DAL,17,home,JS,,4,miss2,0,J. Crowder,
+71,1,3:21.0,20,19,UTA,DAL,1,home,OffReb,,,OffReb,,J. Crowder,
+72,1,3:21.0,20,19,UTA,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Burke,J. Crowder
+73,1,3:21.0,21,19,UTA,DAL,0,home,FreeThrow,,,make1,1,J. Crowder,
+74,1,3:21.0,21,19,UTA,DAL,0,away,Sub,,,,,D. Harris,D. Finney-Smith
+75,1,3:21.0,21,19,UTA,DAL,0,away,Sub,,,,,D. Nowitzki,T. Hardaway
+76,1,3:21.0,21,19,UTA,DAL,0,home,Sub,,,,,D. Favors,R. Gobert
+77,1,3:21.0,21,19,UTA,DAL,0,home,Sub,,,,,R. O'Neale,D. Mitchell
+78,1,3:21.0,22,19,UTA,DAL,0,home,FreeThrow,,,make1,1,J. Crowder,
+79,1,3:21.0,22,19,UTA,DAL,0,away,JS,,25,miss3,0,D. Harris,
+80,1,3:08.0,22,19,UTA,DAL,13,home,DefReb,,,DefReb,,K. Korver,
+81,1,3:04.0,25,19,UTA,DAL,4,home,JS,assist,26,make3,3,J. Crowder,R. Neto
+82,1,2:41.0,25,21,UTA,DAL,23,away,JS,,12,make2,2,T. Burke,
+83,1,2:27.0,25,21,UTA,DAL,14,home,JS,,24,miss3,0,J. Crowder,
+84,1,2:24.0,25,21,UTA,DAL,3,home,OffReb,,,OffReb,,D. Favors,
+85,1,2:22.0,25,21,UTA,DAL,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Lee,K. Korver
+86,1,2:22.0,25,21,UTA,DAL,0,home,Timeout,,,,,,
+87,1,2:22.0,26,21,UTA,DAL,0,home,FreeThrow,,,make1,1,K. Korver,
+88,1,2:22.0,27,21,UTA,DAL,0,home,FreeThrow,,,make1,1,K. Korver,
+89,1,2:05.0,27,21,UTA,DAL,17,away,JS,,23,miss3,0,C. Lee,
+90,1,2:03.0,27,21,UTA,DAL,2,home,DefReb,,,DefReb,,D. Favors,
+91,1,1:56.0,29,21,UTA,DAL,7,home,JS,assist,19,make2,2,J. Crowder,R. Neto
+92,1,1:45.0,29,23,UTA,DAL,11,away,JS,,13,make2,2,T. Burke,
+93,1,1:28.0,29,23,UTA,DAL,17,home,JS,,13,miss2,0,K. Korver,
+94,1,1:26.0,29,23,UTA,DAL,2,away,DefReb,,,DefReb,,T. Burke,
+95,1,1:16.0,29,25,UTA,DAL,10,away,JS,,12,make2,2,C. Lee,
+96,1,1:01.0,29,25,UTA,DAL,15,home,JS,,11,miss2,0,R. Neto,
+97,1,1:00.0,29,25,UTA,DAL,1,away,DefReb,,,DefReb,,T. Burke,
+98,1,0:54.0,29,25,UTA,DAL,6,away,JS,,25,miss3,0,D. Nowitzki,
+99,1,0:52.0,29,25,UTA,DAL,2,home,DefReb,,,DefReb,,R. O'Neale,
+100,1,0:40.0,29,25,UTA,DAL,12,home,JS,,13,miss2,0,D. Favors,
+101,1,0:37.0,29,25,UTA,DAL,3,away,DefReb,,,DefReb,,D. Powell,
+102,1,0:31.0,29,25,UTA,DAL,6,away,JS,,9,miss2,0,T. Burke,
+103,1,0:28.0,29,25,UTA,DAL,3,away,OffReb,,,OffReb,,T. Burke,
+104,1,0:26.0,29,25,UTA,DAL,2,away,LU,,3,miss2,0,T. Burke,
+105,1,0:26.0,29,25,UTA,DAL,0,away,OffReb,,,OffReb,,T. Burke,
+106,1,0:26.0,29,25,UTA,DAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Korver,D. Harris
+107,1,0:26.0,29,25,UTA,DAL,0,home,Sub,,,,,J. Ingles,K. Korver
+108,1,0:19.0,29,25,UTA,DAL,7,away,JS,block,6,miss2,0,T. Burke,R. Neto
+109,1,0:16.0,29,25,UTA,DAL,3,home,DefReb,,,DefReb,,D. Favors,
+110,1,0:14.0,31,25,UTA,DAL,2,home,LU,assist,1,make2,2,J. Crowder,J. Ingles
+111,1,0:01.0,31,25,UTA,DAL,13,away,JS,,25,miss3,0,D. Powell,
+112,1,0:01.0,31,25,UTA,DAL,0,home,DefReb,,,DefReb,,R. O'Neale,
+113,2,11:44.0,33,25,UTA,DAL,16,home,DK,assist,2,make2,2,D. Favors,R. Rubio
+114,2,11:23.0,33,27,UTA,DAL,21,away,JS,assist,19,make2,2,D. Nowitzki,C. Lee
+115,2,11:04.0,33,27,UTA,DAL,19,home,JS,,25,miss3,0,R. Rubio,
+116,2,11:00.0,33,27,UTA,DAL,4,away,DefReb,,,DefReb,,D. Harris,
+117,2,10:50.0,33,29,UTA,DAL,10,away,JS,assist,11,make2,2,D. Nowitzki,C. Lee
+118,2,10:33.0,35,29,UTA,DAL,17,home,JS,,14,make2,2,R. Rubio,
+119,2,10:09.0,35,31,UTA,DAL,24,away,DK,assist,1,make2,2,D. Powell,C. Lee
+120,2,9:56.0,35,31,UTA,DAL,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,J. Ingles
+121,2,9:50.0,35,31,UTA,DAL,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Lee,J. Ingles
+122,2,9:40.0,35,31,UTA,DAL,10,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Favors,D. Harris
+123,2,9:40.0,35,31,UTA,DAL,0,home,OffensiveFoul,,,turnover,,D. Favors,
+124,2,9:28.0,35,31,UTA,DAL,12,away,LU,,5,miss2,0,T. Burke,
+125,2,9:26.0,35,31,UTA,DAL,2,home,DefReb,,,DefReb,,D. Favors,
+126,2,9:21.0,37,31,UTA,DAL,5,home,JS,assist,21,make2,2,J. Crowder,K. Korver
+127,2,9:18.0,37,31,UTA,DAL,3,away,Timeout,,,,,,
+128,2,9:18.0,37,31,UTA,DAL,0,home,Sub,,,,,T. Sefolosha,J. Crowder
+129,2,9:04.0,37,31,UTA,DAL,14,away,JS,,17,miss2,0,C. Lee,
+130,2,9:02.0,37,31,UTA,DAL,2,home,DefReb,,,DefReb,,K. Korver,
+131,2,8:49.0,39,31,UTA,DAL,13,home,LU,assist,2,make2,2,D. Favors,J. Ingles
+132,2,8:25.0,39,31,UTA,DAL,24,away,JS,,24,miss3,0,D. Powell,
+133,2,8:23.0,39,31,UTA,DAL,2,home,DefReb,,,DefReb,,K. Korver,
+134,2,8:11.0,39,31,UTA,DAL,12,home,bad pass,steal,,turnover,,J. Ingles,D. Nowitzki
+135,2,8:09.0,39,31,UTA,DAL,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,T. Burke
+136,2,8:09.0,39,31,UTA,DAL,0,away,Sub,,,,,T. Hardaway,C. Lee
+137,2,8:09.0,39,31,UTA,DAL,0,away,Sub,,,,,J. Jackson,D. Nowitzki
+138,2,8:09.0,39,31,UTA,DAL,0,away,Sub,,,,,S. Mejri,D. Powell
+139,2,8:09.0,39,31,UTA,DAL,0,home,Sub,,,,,R. O'Neale,K. Korver
+140,2,7:48.0,39,31,UTA,DAL,21,away,JS,,17,miss2,0,T. Hardaway,
+141,2,7:45.0,39,31,UTA,DAL,3,home,DefReb,,,DefReb,,D. Favors,
+142,2,7:32.0,39,31,UTA,DAL,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,D. Favors
+143,2,7:32.0,39,31,UTA,DAL,0,away,Sub,,,,,J. Brunson,T. Burke
+144,2,7:32.0,39,31,UTA,DAL,0,away,Sub,,,,,D. Finney-Smith,D. Harris
+145,2,7:32.0,39,31,UTA,DAL,0,home,Sub,,,,,R. Gobert,D. Favors
+146,2,7:32.0,39,31,UTA,DAL,0,home,Sub,,,,,D. Mitchell,R. Rubio
+147,2,7:28.0,39,31,UTA,DAL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,R. Gobert
+148,2,7:28.0,40,31,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Gobert,
+149,2,7:28.0,40,31,UTA,DAL,0,home,Sub,,,,,R. Rubio,J. Ingles
+150,2,7:28.0,41,31,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Gobert,
+151,2,7:09.0,41,34,UTA,DAL,19,away,JS,assist,26,make3,3,J. Brunson,T. Hardaway
+152,2,6:52.0,44,34,UTA,DAL,17,home,JS,assist,24,make3,3,T. Sefolosha,D. Mitchell
+153,2,6:37.0,44,36,UTA,DAL,15,away,JS,assist,19,make2,2,D. Finney-Smith,S. Mejri
+154,2,6:22.0,44,36,UTA,DAL,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Hardaway,R. Gobert
+155,2,6:22.0,45,36,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Gobert,
+156,2,6:22.0,45,36,UTA,DAL,0,home,Sub,,,,,R. Neto,R. Rubio
+157,2,6:22.0,46,36,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Gobert,
+158,2,6:12.0,46,38,UTA,DAL,10,away,LU,assist,3,make2,2,J. Jackson,S. Mejri
+159,2,5:57.0,49,38,UTA,DAL,15,home,JS,assist,26,make3,3,D. Mitchell,R. O'Neale
+160,2,5:48.0,49,38,UTA,DAL,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Sefolosha,J. Brunson
+161,2,5:45.0,49,38,UTA,DAL,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. O'Neale,T. Hardaway
+162,2,5:33.0,49,40,UTA,DAL,12,away,JS,,11,make2,2,T. Hardaway,
+163,2,5:33.0,49,40,UTA,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Neto,T. Hardaway
+164,2,5:33.0,49,41,UTA,DAL,0,away,FreeThrow,,,make1,1,T. Hardaway,
+165,2,5:09.0,49,41,UTA,DAL,24,home,JS,,24,miss3,0,R. Neto,
+166,2,5:07.0,49,41,UTA,DAL,2,away,DefReb,,,DefReb,,J. Brunson,
+167,2,4:58.0,49,41,UTA,DAL,9,away,JS,,24,miss3,0,T. Hardaway,
+168,2,4:56.0,49,41,UTA,DAL,2,home,DefReb,,,DefReb,,R. Gobert,
+169,2,4:49.0,49,41,UTA,DAL,7,home,LU,block,3,miss2,0,D. Mitchell,S. Mejri
+170,2,4:46.0,49,41,UTA,DAL,3,home,OffReb,,,OffReb,,T. Sefolosha,
+171,2,4:42.0,51,41,UTA,DAL,4,home,JS,,18,make2,2,T. Sefolosha,
+172,2,4:33.0,51,43,UTA,DAL,9,away,JS,,13,make2,2,J. Brunson,
+173,2,4:32.0,51,43,UTA,DAL,1,home,Timeout,,,,,,
+174,2,4:32.0,51,43,UTA,DAL,0,home,Sub,,,,,J. Crowder,R. Neto
+175,2,4:32.0,51,43,UTA,DAL,0,home,Sub,,,,,J. Ingles,T. Sefolosha
+176,2,4:16.0,51,43,UTA,DAL,16,home,LU,,3,miss2,0,R. Gobert,
+177,2,4:12.0,51,43,UTA,DAL,4,away,DefReb,,,DefReb,,S. Mejri,
+178,2,4:08.0,51,45,UTA,DAL,4,away,JS,assist,9,make2,2,J. Jackson,T. Hardaway
+179,2,3:57.0,51,45,UTA,DAL,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Hardaway,R. Gobert
+180,2,3:57.0,51,45,UTA,DAL,0,home,OffReb,,,OffReb,,Team,
+181,2,3:57.0,51,45,UTA,DAL,0,home,FreeThrow,,,make1,0,R. Gobert,
+182,2,3:57.0,51,45,UTA,DAL,0,home,Sub,,,,,R. Rubio,R. O'Neale
+183,2,3:57.0,52,45,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Gobert,
+184,2,3:43.0,52,48,UTA,DAL,14,away,JS,assist,25,make3,3,J. Jackson,T. Hardaway
+185,2,3:26.0,54,48,UTA,DAL,17,home,LU,assist,3,make2,2,D. Mitchell,R. Gobert
+186,2,3:11.0,54,48,UTA,DAL,15,away,JS,,24,miss3,0,J. Jackson,
+187,2,3:08.0,54,48,UTA,DAL,3,home,DefReb,,,DefReb,,D. Mitchell,
+188,2,2:51.0,54,48,UTA,DAL,17,home,JS,,15,miss2,0,R. Rubio,
+189,2,2:48.0,54,48,UTA,DAL,3,away,DefReb,,,DefReb,,J. Brunson,
+190,2,2:48.0,54,48,UTA,DAL,0,away,Sub,,,,,D. Powell,S. Mejri
+191,2,2:34.0,54,48,UTA,DAL,14,away,JS,,24,miss2,0,D. Powell,
+192,2,2:32.0,54,48,UTA,DAL,2,home,DefReb,,,DefReb,,J. Ingles,
+193,2,2:23.0,54,48,UTA,DAL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Brunson,R. Rubio
+194,2,2:23.0,54,48,UTA,DAL,0,home,FreeThrow,,,make1,0,R. Rubio,
+195,2,2:23.0,54,48,UTA,DAL,0,home,OffReb,,,OffReb,,Team,
+196,2,2:23.0,55,48,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Rubio,
+197,2,2:12.0,55,48,UTA,DAL,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ingles,T. Hardaway
+198,2,2:12.0,55,49,UTA,DAL,0,away,FreeThrow,,,make1,1,T. Hardaway,
+199,2,2:12.0,55,50,UTA,DAL,0,away,FreeThrow,,,make1,1,T. Hardaway,
+200,2,2:02.0,55,50,UTA,DAL,10,away,DefReb,,,DefReb,,T. Hardaway,
+201,2,2:02.0,55,50,UTA,DAL,0,home,LU,,3,miss2,0,R. Rubio,
+202,2,1:51.0,55,50,UTA,DAL,11,away,JS,,14,miss2,0,T. Hardaway,
+203,2,1:51.0,55,50,UTA,DAL,0,home,DefReb,,,DefReb,,R. Gobert,
+204,2,1:44.0,55,50,UTA,DAL,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Gobert,J. Brunson
+205,2,1:44.0,55,50,UTA,DAL,0,home,OffensiveFoul,,,turnover,,R. Gobert,
+206,2,1:33.0,55,50,UTA,DAL,11,away,JS,,25,miss3,0,J. Brunson,
+207,2,1:30.0,55,50,UTA,DAL,3,home,DefReb,,,DefReb,,R. Gobert,
+208,2,1:21.0,55,50,UTA,DAL,9,home,LU,,1,miss2,0,R. Gobert,
+209,2,1:16.0,55,50,UTA,DAL,5,away,DefReb,,,DefReb,,D. Finney-Smith,
+210,2,1:15.0,55,53,UTA,DAL,1,away,JS,assist,25,make3,3,J. Brunson,D. Finney-Smith
+211,2,0:59.0,55,53,UTA,DAL,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Finney-Smith,D. Mitchell
+212,2,0:59.0,56,53,UTA,DAL,0,home,FreeThrow,,,make1,1,D. Mitchell,
+213,2,0:59.0,57,53,UTA,DAL,0,home,FreeThrow,,,make1,1,D. Mitchell,
+214,2,0:42.0,57,55,UTA,DAL,17,away,HS,,4,make2,2,D. Powell,
+215,2,0:35.0,59,55,UTA,DAL,7,home,JS,,19,make2,2,R. Rubio,
+216,2,0:29.0,59,58,UTA,DAL,6,away,JS,,26,make3,3,T. Hardaway,
+217,2,0:06.0,61,58,UTA,DAL,23,home,JS,,13,make2,2,D. Mitchell,
+218,3,11:46.0,61,58,UTA,DAL,14,home,DK,block,3,miss2,0,R. Gobert,S. Mejri
+219,3,11:43.0,61,58,UTA,DAL,3,away,DefReb,,,DefReb,,D. Finney-Smith,
+220,3,11:33.0,61,58,UTA,DAL,10,away,JS,,11,miss2,0,J. Brunson,
+221,3,11:31.0,61,58,UTA,DAL,2,home,DefReb,,,DefReb,,D. Mitchell,
+222,3,11:23.0,61,58,UTA,DAL,8,home,JS,,23,miss3,0,J. Ingles,
+223,3,11:19.0,61,58,UTA,DAL,4,away,DefReb,,,DefReb,,S. Mejri,
+224,3,11:03.0,61,58,UTA,DAL,16,away,JS,,26,miss3,0,D. Nowitzki,
+225,3,11:01.0,61,58,UTA,DAL,2,home,DefReb,,,DefReb,,J. Ingles,
+226,3,10:54.0,61,58,UTA,DAL,7,home,LU,,6,miss2,0,J. Ingles,
+227,3,10:51.0,61,58,UTA,DAL,3,away,DefReb,,,DefReb,,T. Hardaway,
+228,3,10:47.0,61,58,UTA,DAL,4,away,JS,,25,miss3,0,D. Nowitzki,
+229,3,10:45.0,61,58,UTA,DAL,2,home,DefReb,,,DefReb,,D. Mitchell,
+230,3,10:23.0,61,58,UTA,DAL,22,home,LU,block,5,miss2,0,J. Ingles,S. Mejri
+231,3,10:20.0,61,58,UTA,DAL,3,away,DefReb,,,DefReb,,T. Hardaway,
+232,3,10:20.0,61,58,UTA,DAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,T. Hardaway
+233,3,10:15.0,61,58,UTA,DAL,5,away,JS,,23,miss3,0,T. Hardaway,
+234,3,10:11.0,61,58,UTA,DAL,4,home,DefReb,,,DefReb,,R. Rubio,
+235,3,10:03.0,63,58,UTA,DAL,8,home,JS,,9,make2,2,R. Rubio,
+236,3,9:39.0,63,58,UTA,DAL,24,away,JS,,20,miss2,0,D. Finney-Smith,
+237,3,9:33.0,63,58,UTA,DAL,6,home,DefReb,,,DefReb,,R. Rubio,
+238,3,9:24.0,63,58,UTA,DAL,9,home,JS,,23,miss3,0,D. Favors,
+239,3,9:21.0,63,58,UTA,DAL,3,home,OffReb,,,OffReb,,D. Favors,
+240,3,9:19.0,63,58,UTA,DAL,2,home,JS,,22,miss3,0,R. Rubio,
+241,3,9:15.0,63,58,UTA,DAL,4,home,OffReb,,,OffReb,,R. Gobert,
+242,3,9:14.0,63,58,UTA,DAL,1,home,JS,,8,miss2,0,R. Gobert,
+243,3,9:14.0,63,58,UTA,DAL,0,away,DefReb,,,DefReb,,D. Finney-Smith,
+244,3,8:58.0,63,58,UTA,DAL,16,away,JS,,28,miss3,0,T. Hardaway,
+245,3,8:55.0,63,58,UTA,DAL,3,home,DefReb,,,DefReb,,D. Favors,
+246,3,8:53.0,63,58,UTA,DAL,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,D. Mitchell
+247,3,8:46.0,63,58,UTA,DAL,7,home,JS,,23,miss3,0,J. Ingles,
+248,3,8:42.0,63,58,UTA,DAL,4,away,DefReb,,,DefReb,,T. Hardaway,
+249,3,8:35.0,63,58,UTA,DAL,7,away,LU,,2,miss2,0,T. Hardaway,
+250,3,8:31.0,63,58,UTA,DAL,4,away,OffReb,,,OffReb,,S. Mejri,
+251,3,8:31.0,63,58,UTA,DAL,0,away,LU,,1,miss2,0,S. Mejri,
+252,3,8:31.0,63,58,UTA,DAL,0,home,DefReb,,,DefReb,,D. Mitchell,
+253,3,8:27.0,63,58,UTA,DAL,4,home,JS,,28,miss3,0,D. Mitchell,
+254,3,8:24.0,63,58,UTA,DAL,3,away,DefReb,,,DefReb,,J. Brunson,
+255,3,8:11.0,63,58,UTA,DAL,13,away,LU,block,4,miss2,0,S. Mejri,R. Gobert
+256,3,8:09.0,63,58,UTA,DAL,2,home,DefReb,,,DefReb,,R. Rubio,
+257,3,8:04.0,63,58,UTA,DAL,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Brunson,R. Rubio
+258,3,8:04.0,64,58,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Rubio,
+259,3,8:04.0,64,58,UTA,DAL,0,home,Sub,,,,,J. Crowder,D. Favors
+260,3,8:04.0,64,58,UTA,DAL,0,home,Sub,,,,,R. O'Neale,J. Ingles
+261,3,8:04.0,64,58,UTA,DAL,0,home,FreeThrow,,,make1,0,R. Rubio,
+262,3,8:00.0,64,58,UTA,DAL,4,away,DefReb,,,DefReb,,D. Finney-Smith,
+263,3,7:51.0,64,58,UTA,DAL,9,away,JS,,13,miss2,0,D. Nowitzki,
+264,3,7:47.0,64,58,UTA,DAL,4,home,DefReb,,,DefReb,,R. Gobert,
+265,3,7:40.0,67,58,UTA,DAL,7,home,JS,assist,25,make3,3,J. Crowder,R. O'Neale
+266,3,7:38.0,67,58,UTA,DAL,2,away,Timeout,,,,,,
+267,3,7:26.0,67,60,UTA,DAL,12,away,JS,assist,10,make2,2,T. Hardaway,D. Nowitzki
+268,3,7:14.0,67,60,UTA,DAL,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,J. Crowder
+269,3,7:14.0,67,60,UTA,DAL,0,away,Sub,,,,,J. Jackson,S. Mejri
+270,3,7:14.0,67,60,UTA,DAL,0,away,Sub,,,,,D. Powell,D. Nowitzki
+271,3,7:05.0,69,60,UTA,DAL,9,home,LU,,2,make2,2,D. Mitchell,
+272,3,6:44.0,69,62,UTA,DAL,21,away,JS,,9,make2,2,T. Hardaway,
+273,3,6:44.0,69,62,UTA,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rubio,T. Hardaway
+274,3,6:44.0,69,63,UTA,DAL,0,away,FreeThrow,,,make1,1,T. Hardaway,
+275,3,6:32.0,72,63,UTA,DAL,12,home,JS,assist,25,make3,3,J. Crowder,D. Mitchell
+276,3,6:22.0,72,63,UTA,DAL,10,away,LU,,3,miss2,0,J. Brunson,
+277,3,6:21.0,72,63,UTA,DAL,1,home,DefReb,,,DefReb,,R. Gobert,
+278,3,6:11.0,74,63,UTA,DAL,10,home,JS,,16,make2,2,R. Rubio,
+279,3,5:42.0,74,63,UTA,DAL,29,away,JS,,6,miss2,0,D. Finney-Smith,
+280,3,5:39.0,74,63,UTA,DAL,3,home,DefReb,,,DefReb,,Team,
+281,3,5:39.0,74,63,UTA,DAL,0,away,Sub,,,,,T. Burke,J. Brunson
+282,3,5:28.0,74,63,UTA,DAL,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Finney-Smith,R. Gobert
+283,3,5:20.0,74,63,UTA,DAL,8,home,JS,,23,miss3,0,R. O'Neale,
+284,3,5:16.0,74,63,UTA,DAL,4,home,OffReb,,,OffReb,,R. Gobert,
+285,3,5:15.0,76,63,UTA,DAL,1,home,DK,,2,make2,2,R. Gobert,
+286,3,5:00.0,76,63,UTA,DAL,15,away,JS,,27,miss3,0,J. Jackson,
+287,3,4:57.0,76,63,UTA,DAL,3,home,DefReb,,,DefReb,,Team,
+288,3,4:40.0,78,63,UTA,DAL,17,home,LU,assist,4,make2,2,R. O'Neale,R. Rubio
+289,3,4:39.0,78,63,UTA,DAL,1,away,Timeout,,,,,,
+290,3,4:39.0,78,63,UTA,DAL,0,away,Sub,,,,,D. Harris,D. Finney-Smith
+291,3,4:39.0,78,63,UTA,DAL,0,away,Sub,,,,,D. Nowitzki,T. Hardaway
+292,3,4:26.0,78,65,UTA,DAL,13,away,LU,assist,3,make2,2,D. Powell,D. Harris
+293,3,4:10.0,78,65,UTA,DAL,16,home,LU,,4,miss2,0,J. Crowder,
+294,3,4:09.0,78,65,UTA,DAL,1,home,OffReb,,,OffReb,,J. Crowder,
+295,3,4:08.0,78,65,UTA,DAL,1,home,LU,,5,miss2,0,J. Crowder,
+296,3,4:08.0,78,65,UTA,DAL,0,away,DefReb,,,DefReb,,Team,
+297,3,3:56.0,78,67,UTA,DAL,12,away,JS,assist,5,make2,2,J. Jackson,D. Powell
+298,3,3:56.0,78,67,UTA,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Mitchell,J. Jackson
+299,3,3:56.0,78,67,UTA,DAL,0,home,Sub,,,,,D. Favors,R. Gobert
+300,3,3:56.0,78,67,UTA,DAL,0,home,Sub,,,,,K. Korver,D. Mitchell
+301,3,3:56.0,78,67,UTA,DAL,0,home,Sub,,,,,R. Neto,R. Rubio
+302,3,3:56.0,78,68,UTA,DAL,0,away,FreeThrow,,,make1,1,J. Jackson,
+303,3,3:49.0,78,68,UTA,DAL,7,home,JS,,25,miss3,0,K. Korver,
+304,3,3:46.0,78,68,UTA,DAL,3,away,DefReb,,,DefReb,,D. Nowitzki,
+305,3,3:41.0,78,70,UTA,DAL,5,away,JS,,14,make2,2,T. Burke,
+306,3,3:29.0,78,70,UTA,DAL,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,K. Korver
+307,3,3:29.0,79,70,UTA,DAL,0,home,FreeThrow,,,make1,1,K. Korver,
+308,3,3:29.0,80,70,UTA,DAL,0,home,FreeThrow,,,make1,1,K. Korver,
+309,3,3:20.0,80,72,UTA,DAL,9,away,LU,,4,make2,2,T. Burke,
+310,3,3:03.0,80,72,UTA,DAL,17,home,JS,,24,miss3,0,R. Neto,
+311,3,3:00.0,80,72,UTA,DAL,3,away,DefReb,,,DefReb,,D. Powell,
+312,3,2:53.0,80,72,UTA,DAL,7,away,JS,,25,miss3,0,D. Harris,
+313,3,2:49.0,80,72,UTA,DAL,4,home,DefReb,,,DefReb,,D. Favors,
+314,3,2:35.0,83,72,UTA,DAL,14,home,JS,assist,24,make3,3,K. Korver,D. Favors
+315,3,2:18.0,83,74,UTA,DAL,17,away,LU,,4,make2,2,T. Burke,
+316,3,2:18.0,83,74,UTA,DAL,0,home,Timeout,,,,,,
+317,3,2:18.0,83,74,UTA,DAL,0,home,Sub,,,,,J. Ingles,R. Neto
+318,3,2:04.0,83,74,UTA,DAL,14,home,JS,,25,miss3,0,K. Korver,
+319,3,2:00.0,83,74,UTA,DAL,4,away,DefReb,,,DefReb,,D. Powell,
+320,3,1:47.0,83,74,UTA,DAL,13,away,JS,block,12,miss2,0,T. Burke,D. Favors
+321,3,1:45.0,83,74,UTA,DAL,2,away,OffReb,,,OffReb,,D. Powell,
+322,3,1:44.0,83,77,UTA,DAL,1,away,JS,assist,26,make3,3,D. Nowitzki,D. Powell
+323,3,1:27.0,86,77,UTA,DAL,17,home,JS,assist,23,make3,3,J. Ingles,R. O'Neale
+324,3,1:12.0,86,77,UTA,DAL,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. O'Neale,T. Burke
+325,3,1:12.0,86,77,UTA,DAL,0,away,OffReb,,,OffReb,,Team,
+326,3,1:12.0,86,77,UTA,DAL,0,away,FreeThrow,,,make1,0,T. Burke,
+327,3,1:12.0,86,78,UTA,DAL,0,away,FreeThrow,,,make1,1,T. Burke,
+328,3,1:03.0,86,78,UTA,DAL,9,home,JS,,25,miss3,0,J. Crowder,
+329,3,0:59.0,86,78,UTA,DAL,4,away,DefReb,,,DefReb,,D. Harris,
+330,3,0:51.0,86,78,UTA,DAL,8,away,LU,block,3,miss2,0,J. Jackson,D. Favors
+331,3,0:48.0,86,78,UTA,DAL,3,away,OffReb,,,OffReb,,T. Burke,
+332,3,0:46.0,86,78,UTA,DAL,2,away,JS,,26,miss3,0,D. Nowitzki,
+333,3,0:44.0,86,78,UTA,DAL,2,away,OffReb,,,OffReb,,J. Jackson,
+334,3,0:43.0,86,78,UTA,DAL,1,away,JS,,7,miss2,0,J. Jackson,
+335,3,0:42.0,86,78,UTA,DAL,1,home,DefReb,,,DefReb,,D. Favors,
+336,3,0:33.0,86,78,UTA,DAL,9,home,JS,,24,miss3,0,K. Korver,
+337,3,0:30.0,86,78,UTA,DAL,3,away,DefReb,,,DefReb,,D. Harris,
+338,3,0:18.0,86,78,UTA,DAL,12,away,JS,block,7,miss2,0,D. Powell,J. Crowder
+339,3,0:15.0,86,78,UTA,DAL,3,home,DefReb,,,DefReb,,R. O'Neale,
+340,3,0:08.0,86,78,UTA,DAL,7,home,JS,,24,miss3,0,R. O'Neale,
+341,3,0:03.0,86,78,UTA,DAL,5,away,DefReb,,,DefReb,,D. Powell,
+342,3,0:01.0,86,78,UTA,DAL,2,away,JS,,33,miss3,0,T. Burke,
+343,3,0:01.0,86,78,UTA,DAL,0,away,OffReb,,,OffReb,,Team,
+344,4,11:47.0,86,80,UTA,DAL,13,away,JS,assist,17,make2,2,D. Nowitzki,D. Harris
+345,4,11:28.0,86,80,UTA,DAL,19,home,JS,,24,miss3,0,K. Korver,
+346,4,11:24.0,86,80,UTA,DAL,4,away,DefReb,,,DefReb,,T. Burke,
+347,4,11:14.0,86,80,UTA,DAL,10,away,JS,,27,miss3,0,D. Nowitzki,
+348,4,11:10.0,86,80,UTA,DAL,4,home,DefReb,,,DefReb,,J. Crowder,
+349,4,10:59.0,86,80,UTA,DAL,11,home,JS,,10,miss2,0,D. Favors,
+350,4,10:56.0,86,80,UTA,DAL,3,home,OffReb,,,OffReb,,Team,
+351,4,10:56.0,86,80,UTA,DAL,0,home,Sub,,,,,R. Rubio,K. Korver
+352,4,10:52.0,86,80,UTA,DAL,4,home,JS,,26,miss3,0,J. Crowder,
+353,4,10:49.0,86,80,UTA,DAL,3,away,DefReb,,,DefReb,,D. Harris,
+354,4,10:49.0,86,80,UTA,DAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crowder,D. Powell
+355,4,10:42.0,86,83,UTA,DAL,7,away,JS,assist,25,make3,3,D. Nowitzki,T. Burke
+356,4,10:28.0,86,83,UTA,DAL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jackson,J. Ingles
+357,4,10:22.0,89,83,UTA,DAL,6,home,JS,assist,26,make3,3,J. Ingles,R. Rubio
+358,4,10:04.0,89,83,UTA,DAL,18,away,JS,block,8,miss2,0,D. Harris,R. O'Neale
+359,4,10:01.0,89,83,UTA,DAL,3,home,DefReb,,,DefReb,,D. Favors,
+360,4,9:59.0,91,83,UTA,DAL,2,home,LU,assist,2,make2,2,J. Crowder,J. Ingles
+361,4,9:59.0,91,83,UTA,DAL,0,away,DefGoaltending,,,DefGoaltending,,Team,
+362,4,9:59.0,91,83,UTA,DAL,0,away,Timeout,,,,,,
+363,4,9:38.0,91,86,UTA,DAL,21,away,JS,assist,26,make3,3,T. Burke,J. Jackson
+364,4,9:20.0,93,86,UTA,DAL,18,home,DK,assist,2,make2,2,D. Favors,J. Ingles
+365,4,9:03.0,93,86,UTA,DAL,17,away,JS,,21,miss2,0,D. Nowitzki,
+366,4,9:00.0,93,86,UTA,DAL,3,home,DefReb,,,DefReb,,D. Favors,
+367,4,8:51.0,93,86,UTA,DAL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,D. Favors
+368,4,8:51.0,93,86,UTA,DAL,0,away,Sub,,,,,D. Finney-Smith,D. Nowitzki
+369,4,8:51.0,93,86,UTA,DAL,0,away,Sub,,,,,S. Mejri,D. Powell
+370,4,8:51.0,93,86,UTA,DAL,0,home,Sub,,,,,T. Sefolosha,J. Crowder
+371,4,8:43.0,96,86,UTA,DAL,8,home,JS,assist,25,make3,3,J. Ingles,R. Rubio
+372,4,8:40.0,96,86,UTA,DAL,3,away,Timeout,,,,,,
+373,4,8:40.0,96,86,UTA,DAL,0,away,Sub,,,,,T. Hardaway,D. Harris
+374,4,8:40.0,96,86,UTA,DAL,0,home,Sub,,,,,R. Gobert,D. Favors
+375,4,8:40.0,96,86,UTA,DAL,0,home,Sub,,,,,D. Mitchell,R. O'Neale
+376,4,8:34.0,96,86,UTA,DAL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Mitchell,J. Jackson
+377,4,8:18.0,96,86,UTA,DAL,16,away,JS,,25,miss3,0,S. Mejri,
+378,4,8:15.0,96,86,UTA,DAL,3,home,DefReb,,,DefReb,,J. Ingles,
+379,4,8:00.0,98,86,UTA,DAL,15,home,LU,assist,2,make2,2,R. Gobert,T. Sefolosha
+380,4,7:48.0,98,86,UTA,DAL,12,away,JS,,25,miss3,0,T. Burke,
+381,4,7:45.0,98,86,UTA,DAL,3,home,DefReb,,,DefReb,,R. Gobert,
+382,4,7:32.0,98,86,UTA,DAL,13,home,JS,,9,miss2,0,D. Mitchell,
+383,4,7:29.0,98,86,UTA,DAL,3,away,DefReb,,,DefReb,,T. Burke,
+384,4,7:24.0,98,86,UTA,DAL,5,away,LU,block,2,miss2,0,S. Mejri,D. Mitchell
+385,4,7:23.0,98,86,UTA,DAL,1,away,OffReb,,,OffReb,,S. Mejri,
+386,4,7:23.0,98,86,UTA,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ingles,S. Mejri
+387,4,7:23.0,98,86,UTA,DAL,0,away,OffReb,,,OffReb,,Team,
+388,4,7:23.0,98,86,UTA,DAL,0,away,FreeThrow,,,make1,0,S. Mejri,
+389,4,7:23.0,98,86,UTA,DAL,0,away,Sub,,,,,J. Brunson,T. Burke
+390,4,7:23.0,98,87,UTA,DAL,0,away,FreeThrow,,,make1,1,S. Mejri,
+391,4,7:14.0,98,87,UTA,DAL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Hardaway,R. Gobert
+392,4,7:00.0,98,87,UTA,DAL,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Mejri,D. Mitchell
+393,4,7:00.0,99,87,UTA,DAL,0,home,FreeThrow,,,make1,1,D. Mitchell,
+394,4,7:00.0,100,87,UTA,DAL,0,home,FreeThrow,,,make1,1,D. Mitchell,
+395,4,6:42.0,100,87,UTA,DAL,18,away,JS,block,5,miss2,0,J. Brunson,R. Gobert
+396,4,6:40.0,100,87,UTA,DAL,2,home,DefReb,,,DefReb,,J. Ingles,
+397,4,6:34.0,103,87,UTA,DAL,6,home,JS,,24,make3,3,J. Ingles,
+398,4,6:19.0,103,87,UTA,DAL,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ingles,T. Hardaway
+399,4,6:19.0,103,88,UTA,DAL,0,away,FreeThrow,,,make1,1,T. Hardaway,
+400,4,6:19.0,103,89,UTA,DAL,0,away,FreeThrow,,,make1,1,T. Hardaway,
+401,4,6:19.0,103,89,UTA,DAL,0,away,Sub,,,,,R. Broekhoff,J. Jackson
+402,4,6:19.0,103,89,UTA,DAL,0,away,Sub,,,,,D. Powell,S. Mejri
+403,4,6:19.0,103,90,UTA,DAL,0,away,FreeThrow,,,make1,1,T. Hardaway,
+404,4,6:11.0,103,90,UTA,DAL,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brunson,J. Ingles
+405,4,6:11.0,103,90,UTA,DAL,0,home,FreeThrow,,,make1,0,J. Ingles,
+406,4,6:11.0,103,90,UTA,DAL,0,home,OffReb,,,OffReb,,Team,
+407,4,6:11.0,104,90,UTA,DAL,0,home,FreeThrow,,,make1,1,J. Ingles,
+408,4,5:51.0,104,90,UTA,DAL,20,away,bad pass,steal,,turnover,,D. Powell,J. Ingles
+409,4,5:48.0,107,90,UTA,DAL,3,home,JS,,25,make3,3,J. Ingles,
+410,4,5:45.0,107,90,UTA,DAL,3,away,Timeout,,,,,,
+411,4,5:45.0,107,90,UTA,DAL,0,away,Sub,,,,,C. Lee,T. Hardaway
+412,4,5:33.0,107,92,UTA,DAL,12,away,DK,assist,2,make2,2,D. Powell,R. Broekhoff
+413,4,5:25.0,107,92,UTA,DAL,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brunson,R. Rubio
+414,4,5:25.0,108,92,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Rubio,
+415,4,5:25.0,109,92,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Rubio,
+416,4,5:08.0,109,95,UTA,DAL,17,away,JS,assist,25,make3,3,R. Broekhoff,D. Powell
+417,4,4:49.0,109,95,UTA,DAL,19,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Gobert,C. Lee
+418,4,4:49.0,109,95,UTA,DAL,0,home,OffensiveFoul,,,turnover,,R. Gobert,
+419,4,4:37.0,109,95,UTA,DAL,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Mitchell,D. Finney-Smith
+420,4,4:37.0,109,95,UTA,DAL,0,away,OffReb,,,OffReb,,Team,
+421,4,4:37.0,109,95,UTA,DAL,0,away,FreeThrow,,,make1,0,D. Finney-Smith,
+422,4,4:37.0,109,95,UTA,DAL,0,away,FreeThrow,,,make1,0,D. Finney-Smith,
+423,4,4:35.0,109,95,UTA,DAL,2,home,DefReb,,,DefReb,,R. Gobert,
+424,4,4:17.0,109,95,UTA,DAL,18,home,JS,,25,miss3,0,D. Mitchell,
+425,4,4:15.0,109,95,UTA,DAL,2,away,DefReb,,,DefReb,,D. Finney-Smith,
+426,4,4:07.0,109,98,UTA,DAL,8,away,JS,assist,25,make3,3,J. Brunson,D. Powell
+427,4,3:47.0,111,98,UTA,DAL,20,home,JS,assist,16,make2,2,R. Rubio,D. Mitchell
+428,4,3:34.0,111,100,UTA,DAL,13,away,JS,,18,make2,2,J. Brunson,
+429,4,3:18.0,111,100,UTA,DAL,16,home,JS,,9,miss2,0,D. Mitchell,
+430,4,3:15.0,111,100,UTA,DAL,3,away,DefReb,,,DefReb,,D. Powell,
+431,4,3:04.0,111,100,UTA,DAL,11,away,JS,,25,miss3,0,J. Brunson,
+432,4,3:03.0,111,100,UTA,DAL,1,home,DefReb,,,DefReb,,T. Sefolosha,
+433,4,3:03.0,111,100,UTA,DAL,0,home,Timeout,,,,,,
+434,4,3:03.0,111,100,UTA,DAL,0,away,Sub,,,,,T. Burke,J. Brunson
+435,4,3:03.0,111,100,UTA,DAL,0,away,Sub,,,,,J. Jackson,D. Finney-Smith
+436,4,3:03.0,111,100,UTA,DAL,0,home,Sub,,,,,J. Crowder,T. Sefolosha
+437,4,2:47.0,111,100,UTA,DAL,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Lee,R. Rubio
+438,4,2:47.0,112,100,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Rubio,
+439,4,2:47.0,113,100,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Rubio,
+440,4,2:36.0,113,103,UTA,DAL,11,away,JS,assist,24,make3,3,J. Jackson,T. Burke
+441,4,2:18.0,113,103,UTA,DAL,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Powell,R. Gobert
+442,4,2:18.0,114,103,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Gobert,
+443,4,2:18.0,115,103,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Gobert,
+444,4,2:09.0,115,103,UTA,DAL,9,away,LU,,4,miss2,0,D. Powell,
+445,4,2:08.0,115,103,UTA,DAL,1,home,DefReb,,,DefReb,,R. Rubio,
+446,4,2:08.0,115,103,UTA,DAL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Powell,R. Rubio
+447,4,2:08.0,116,103,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Rubio,
+448,4,2:08.0,117,103,UTA,DAL,0,home,FreeThrow,,,make1,1,R. Rubio,
+449,4,2:01.0,117,105,UTA,DAL,7,away,JS,,15,make2,2,T. Burke,
+450,4,1:41.0,117,105,UTA,DAL,20,home,JS,,26,miss3,0,R. Rubio,
+451,4,1:38.0,117,105,UTA,DAL,3,away,DefReb,,,DefReb,,R. Broekhoff,
+452,4,1:28.0,117,105,UTA,DAL,10,away,HS,,4,miss2,0,D. Powell,
+453,4,1:26.0,117,105,UTA,DAL,2,home,DefReb,,,DefReb,,D. Mitchell,
+454,4,1:21.0,119,105,UTA,DAL,5,home,LU,,1,make2,2,D. Mitchell,
+455,4,1:14.0,119,105,UTA,DAL,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rubio,T. Burke
+456,4,1:14.0,119,106,UTA,DAL,0,away,FreeThrow,,,make1,1,T. Burke,
+457,4,1:14.0,119,107,UTA,DAL,0,away,FreeThrow,,,make1,1,T. Burke,
+458,4,0:51.0,122,107,UTA,DAL,23,home,JS,assist,25,make3,3,J. Crowder,D. Mitchell
+459,4,0:44.0,122,107,UTA,DAL,7,away,JS,,26,miss3,0,D. Powell,
+460,4,0:41.0,122,107,UTA,DAL,3,home,DefReb,,,DefReb,,R. Gobert,
+461,4,0:22.0,125,107,UTA,DAL,19,home,JS,,26,make3,3,D. Mitchell,
+462,4,0:15.0,125,109,UTA,DAL,7,away,JS,,13,make2,2,T. Burke,

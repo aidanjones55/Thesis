@@ -1,0 +1,458 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:47.0,2,0,CHI,WAS,13,home,JS,assist,19,make2,2,O. Porter,K. Dunn
+1,1,11:27.0,2,2,CHI,WAS,20,away,JS,assist,18,make2,2,T. Bryant,T. Satoranský
+2,1,11:11.0,4,2,CHI,WAS,16,home,LU,assist,2,make2,2,R. Lopez,K. Dunn
+3,1,11:02.0,4,2,CHI,WAS,9,away,JS,,21,miss2,0,T. Satoranský,
+4,1,10:59.0,4,2,CHI,WAS,3,home,DefReb,,,DefReb,,L. Markkanen,
+5,1,10:46.0,6,2,CHI,WAS,13,home,LU,,2,make2,2,O. Porter,
+6,1,10:37.0,6,2,CHI,WAS,9,away,JS,,26,miss3,0,T. Ariza,
+7,1,10:33.0,6,2,CHI,WAS,4,home,DefReb,,,DefReb,,L. Markkanen,
+8,1,10:31.0,6,2,CHI,WAS,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Satoranský,K. Dunn
+9,1,10:23.0,8,2,CHI,WAS,8,home,HS,assist,2,make2,2,R. Lopez,O. Porter
+10,1,10:10.0,8,2,CHI,WAS,13,away,LU,,2,miss2,0,T. Satoranský,
+11,1,10:08.0,8,2,CHI,WAS,2,home,DefReb,,,DefReb,,R. Lopez,
+12,1,10:00.0,10,2,CHI,WAS,8,home,LU,,3,make2,2,Z. LaVine,
+13,1,9:54.0,10,2,CHI,WAS,6,away,Timeout,,,,,,
+14,1,9:36.0,10,4,CHI,WAS,18,away,LU,assist,2,make2,2,T. Satoranský,T. Ariza
+15,1,9:20.0,10,4,CHI,WAS,16,home,HS,,2,miss2,0,R. Lopez,
+16,1,9:16.0,10,4,CHI,WAS,4,away,DefReb,,,DefReb,,T. Bryant,
+17,1,9:13.0,10,7,CHI,WAS,3,away,JS,assist,26,make3,3,T. Ariza,J. Green
+18,1,8:50.0,10,7,CHI,WAS,23,home,LU,block,1,miss2,0,R. Lopez,T. Bryant
+19,1,8:50.0,10,7,CHI,WAS,0,away,DefReb,,,DefReb,,J. Green,
+20,1,8:47.0,10,7,CHI,WAS,3,home,KickBallViolation,,,KickBallViolation,,Team,
+21,1,8:37.0,10,10,CHI,WAS,10,away,JS,assist,23,make3,3,T. Ariza,B. Beal
+22,1,8:23.0,10,10,CHI,WAS,14,home,lost ball,steal,,turnover,,Z. LaVine,B. Beal
+23,1,8:18.0,10,10,CHI,WAS,5,away,JS,,16,miss2,0,B. Beal,
+24,1,8:15.0,10,10,CHI,WAS,3,home,DefReb,,,DefReb,,Z. LaVine,
+25,1,8:09.0,10,10,CHI,WAS,6,home,JS,,6,miss2,0,Z. LaVine,
+26,1,8:04.0,12,10,CHI,WAS,5,home,LU,,0,make2,2,Z. LaVine,
+27,1,8:04.0,12,10,CHI,WAS,0,home,OffReb,,,OffReb,,Z. LaVine,
+28,1,7:47.0,12,10,CHI,WAS,17,away,JS,,23,miss3,0,J. Green,
+29,1,7:45.0,12,10,CHI,WAS,2,away,OffReb,,,OffReb,,T. Satoranský,
+30,1,7:35.0,12,13,CHI,WAS,10,away,JS,assist,26,make3,3,T. Bryant,J. Green
+31,1,7:22.0,12,13,CHI,WAS,13,home,JS,,26,miss3,0,L. Markkanen,
+32,1,7:20.0,12,13,CHI,WAS,2,away,DefReb,,,DefReb,,T. Satoranský,
+33,1,7:14.0,12,13,CHI,WAS,6,away,LU,block,2,miss2,0,T. Bryant,R. Lopez
+34,1,7:11.0,12,13,CHI,WAS,3,home,DefReb,,,DefReb,,R. Lopez,
+35,1,7:08.0,12,13,CHI,WAS,3,home,LU,,6,miss2,0,O. Porter,
+36,1,7:07.0,12,13,CHI,WAS,1,home,OffReb,,,OffReb,,L. Markkanen,
+37,1,7:07.0,14,13,CHI,WAS,0,home,LU,,0,make2,2,L. Markkanen,
+38,1,6:46.0,14,15,CHI,WAS,21,away,JS,,18,make2,2,B. Beal,
+39,1,6:25.0,16,15,CHI,WAS,21,home,LU,,2,make2,2,L. Markkanen,
+40,1,6:06.0,16,15,CHI,WAS,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Porter,B. Beal
+41,1,6:06.0,16,16,CHI,WAS,0,away,FreeThrow,,,make1,1,B. Beal,
+42,1,6:06.0,16,16,CHI,WAS,0,away,Sub,,,,,B. Portis,T. Bryant
+43,1,6:06.0,16,16,CHI,WAS,0,home,Sub,,,,,W. Selden,R. Lopez
+44,1,6:06.0,16,17,CHI,WAS,0,away,FreeThrow,,,make1,1,B. Beal,
+45,1,5:56.0,16,17,CHI,WAS,10,home,JS,,26,miss3,0,L. Markkanen,
+46,1,5:51.0,16,17,CHI,WAS,5,away,DefReb,,,DefReb,,B. Portis,
+47,1,5:35.0,16,20,CHI,WAS,16,away,JS,assist,24,make3,3,T. Ariza,J. Green
+48,1,5:24.0,18,20,CHI,WAS,11,home,JS,,7,make2,2,K. Dunn,
+49,1,5:16.0,18,20,CHI,WAS,8,away,bad pass,steal,,turnover,,B. Beal,O. Porter
+50,1,5:10.0,18,20,CHI,WAS,6,home,JS,,25,miss3,0,L. Markkanen,
+51,1,5:07.0,18,20,CHI,WAS,3,away,DefReb,,,DefReb,,B. Portis,
+52,1,4:51.0,18,22,CHI,WAS,16,away,LU,assist,2,make2,2,B. Beal,T. Satoranský
+53,1,4:39.0,18,22,CHI,WAS,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Portis,O. Porter
+54,1,4:39.0,18,22,CHI,WAS,0,home,FreeThrow,,,make1,0,O. Porter,
+55,1,4:39.0,18,22,CHI,WAS,0,home,OffReb,,,OffReb,,Team,
+56,1,4:39.0,18,22,CHI,WAS,0,away,Sub,,,,,J. Parker,J. Green
+57,1,4:39.0,18,22,CHI,WAS,0,home,Sub,,,,,R. Arcidiacono,K. Dunn
+58,1,4:39.0,19,22,CHI,WAS,0,home,FreeThrow,,,make1,1,O. Porter,
+59,1,4:31.0,19,22,CHI,WAS,8,away,JS,,16,miss2,0,B. Beal,
+60,1,4:28.0,19,22,CHI,WAS,3,home,DefReb,,,DefReb,,R. Arcidiacono,
+61,1,4:18.0,19,22,CHI,WAS,10,home,JS,,14,miss2,0,O. Porter,
+62,1,4:17.0,19,22,CHI,WAS,1,away,DefReb,,,DefReb,,T. Ariza,
+63,1,4:11.0,19,22,CHI,WAS,6,away,LU,,2,miss2,0,B. Portis,
+64,1,4:09.0,19,22,CHI,WAS,2,home,DefReb,,,DefReb,,L. Markkanen,
+65,1,3:54.0,19,22,CHI,WAS,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ariza,L. Markkanen
+66,1,3:54.0,20,22,CHI,WAS,0,home,FreeThrow,,,make1,1,L. Markkanen,
+67,1,3:54.0,20,22,CHI,WAS,0,away,Sub,,,,,C. Randle,T. Satoranský
+68,1,3:54.0,20,22,CHI,WAS,0,home,FreeThrow,,,make1,0,L. Markkanen,
+69,1,3:51.0,20,22,CHI,WAS,3,away,DefReb,,,DefReb,,B. Portis,
+70,1,3:37.0,20,22,CHI,WAS,14,away,lost ball,steal,,turnover,,B. Portis,Z. LaVine
+71,1,3:32.0,22,22,CHI,WAS,5,home,LU,,3,make2,2,O. Porter,
+72,1,3:32.0,22,22,CHI,WAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Randle,O. Porter
+73,1,3:32.0,22,22,CHI,WAS,0,home,FreeThrow,,,make1,0,O. Porter,
+74,1,3:29.0,22,22,CHI,WAS,3,away,DefReb,,,DefReb,,B. Portis,
+75,1,3:19.0,22,24,CHI,WAS,10,away,JS,assist,5,make2,2,C. Randle,B. Beal
+76,1,3:00.0,22,24,CHI,WAS,19,home,JS,,19,miss2,0,L. Markkanen,
+77,1,2:57.0,22,24,CHI,WAS,3,away,DefReb,,,DefReb,,T. Ariza,
+78,1,2:52.0,22,24,CHI,WAS,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,Z. LaVine,B. Beal
+79,1,2:52.0,22,24,CHI,WAS,0,home,Timeout,,,,,,
+80,1,2:52.0,22,24,CHI,WAS,0,away,Sub,,,,,W. Johnson,T. Ariza
+81,1,2:52.0,22,24,CHI,WAS,0,home,Sub,,,,,C. Felício,Z. LaVine
+82,1,2:52.0,22,24,CHI,WAS,0,home,Sub,,,,,S. Harrison,L. Markkanen
+83,1,2:52.0,22,24,CHI,WAS,0,home,Sub,,,,,T. Luwawu-Cabarrot,O. Porter
+84,1,2:43.0,22,24,CHI,WAS,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Felício,J. Parker
+85,1,2:43.0,22,25,CHI,WAS,0,away,FreeThrow,,,make1,1,J. Parker,
+86,1,2:43.0,22,26,CHI,WAS,0,away,FreeThrow,,,make1,1,J. Parker,
+87,1,2:27.0,22,26,CHI,WAS,16,home,LU,,3,miss2,0,R. Arcidiacono,
+88,1,2:26.0,22,26,CHI,WAS,1,away,DefReb,,,DefReb,,B. Portis,
+89,1,2:23.0,22,26,CHI,WAS,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Luwawu-Cabarrot,J. Parker
+90,1,2:13.0,22,26,CHI,WAS,10,away,JS,,21,miss2,0,B. Portis,
+91,1,2:11.0,22,26,CHI,WAS,2,home,DefReb,,,DefReb,,T. Luwawu-Cabarrot,
+92,1,2:02.0,22,26,CHI,WAS,9,home,LU,,2,miss2,0,W. Selden,
+93,1,1:58.0,22,26,CHI,WAS,4,home,OffReb,,,OffReb,,W. Selden,
+94,1,1:58.0,24,26,CHI,WAS,0,home,LU,,0,make2,2,W. Selden,
+95,1,1:49.0,24,26,CHI,WAS,9,away,lost ball,steal,,turnover,,B. Beal,W. Selden
+96,1,1:45.0,24,26,CHI,WAS,4,home,LU,block,1,miss2,0,S. Harrison,J. Parker
+97,1,1:45.0,24,26,CHI,WAS,0,away,DefReb,,,DefReb,,Team,
+98,1,1:45.0,24,26,CHI,WAS,0,away,Sub,,,,,T. Satoranský,B. Beal
+99,1,1:35.0,24,26,CHI,WAS,10,away,JS,,23,miss3,0,J. Parker,
+100,1,1:33.0,24,26,CHI,WAS,2,away,OffReb,,,OffReb,,B. Portis,
+101,1,1:27.0,24,28,CHI,WAS,6,away,LU,,1,make2,2,B. Portis,
+102,1,1:15.0,27,28,CHI,WAS,12,home,JS,assist,25,make3,3,W. Selden,S. Harrison
+103,1,1:02.0,27,31,CHI,WAS,13,away,JS,,27,make3,3,C. Randle,
+104,1,0:53.0,29,31,CHI,WAS,9,home,JS,,21,make2,2,W. Selden,
+105,1,0:42.0,29,34,CHI,WAS,11,away,JS,assist,24,make3,3,C. Randle,J. Parker
+106,1,0:27.0,29,34,CHI,WAS,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Johnson,W. Selden
+107,1,0:27.0,30,34,CHI,WAS,0,home,FreeThrow,,,make1,1,W. Selden,
+108,1,0:27.0,31,34,CHI,WAS,0,home,FreeThrow,,,make1,1,W. Selden,
+109,1,0:27.0,32,34,CHI,WAS,0,home,FreeThrow,,,make1,1,W. Selden,
+110,1,0:05.0,32,34,CHI,WAS,22,away,JS,,25,miss3,0,B. Portis,
+111,1,0:03.0,32,34,CHI,WAS,2,home,DefReb,,,DefReb,,T. Luwawu-Cabarrot,
+112,1,0:00.0,32,34,CHI,WAS,3,home,LU,block,2,miss2,0,W. Selden,B. Portis
+113,1,0:00.0,32,34,CHI,WAS,0,home,OffReb,,,OffReb,,T. Luwawu-Cabarrot,
+114,2,11:41.0,32,36,CHI,WAS,19,away,LU,,1,make2,2,C. Randle,
+115,2,11:29.0,32,36,CHI,WAS,12,home,JS,,25,miss3,0,R. Arcidiacono,
+116,2,11:26.0,32,36,CHI,WAS,3,away,DefReb,,,DefReb,,T. Satoranský,
+117,2,11:18.0,32,36,CHI,WAS,8,away,JS,,25,miss3,0,J. Parker,
+118,2,11:15.0,32,36,CHI,WAS,3,home,DefReb,,,DefReb,,S. Harrison,
+119,2,11:08.0,32,36,CHI,WAS,7,home,JS,,11,miss2,0,S. Harrison,
+120,2,11:06.0,32,36,CHI,WAS,2,away,DefReb,,,DefReb,,B. Portis,
+121,2,10:56.0,32,38,CHI,WAS,10,away,DK,,1,make2,2,J. Parker,
+122,2,10:38.0,32,38,CHI,WAS,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Johnson,T. Luwawu-Cabarrot
+123,2,10:38.0,32,38,CHI,WAS,0,home,Sub,,,,,L. Markkanen,C. Felício
+124,2,10:28.0,34,38,CHI,WAS,10,home,LU,,1,make2,2,T. Luwawu-Cabarrot,
+125,2,10:16.0,34,38,CHI,WAS,12,away,Traveling,,,turnover,,J. Parker,
+126,2,10:04.0,34,38,CHI,WAS,12,home,JS,,25,miss3,0,L. Markkanen,
+127,2,10:01.0,34,38,CHI,WAS,3,away,DefReb,,,DefReb,,J. Parker,
+128,2,9:49.0,34,40,CHI,WAS,12,away,JS,,20,make2,2,W. Johnson,
+129,2,9:32.0,34,40,CHI,WAS,17,home,JS,,26,miss3,0,S. Harrison,
+130,2,9:30.0,34,40,CHI,WAS,2,home,OffReb,,,OffReb,,W. Selden,
+131,2,9:28.0,34,40,CHI,WAS,2,home,LU,block,3,miss2,0,W. Selden,W. Johnson
+132,2,9:28.0,34,40,CHI,WAS,0,away,DefReb,,,DefReb,,B. Portis,
+133,2,9:24.0,34,40,CHI,WAS,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Markkanen,B. Portis
+134,2,9:24.0,34,41,CHI,WAS,0,away,FreeThrow,,,make1,1,B. Portis,
+135,2,9:24.0,34,41,CHI,WAS,0,home,Sub,,,,,Z. LaVine,S. Harrison
+136,2,9:24.0,34,41,CHI,WAS,0,away,FreeThrow,,,make1,0,B. Portis,
+137,2,9:21.0,34,41,CHI,WAS,3,home,DefReb,,,DefReb,,W. Selden,
+138,2,9:13.0,37,41,CHI,WAS,8,home,JS,assist,26,make3,3,L. Markkanen,W. Selden
+139,2,9:01.0,37,44,CHI,WAS,12,away,JS,assist,25,make3,3,W. Johnson,J. Parker
+140,2,9:01.0,37,44,CHI,WAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Luwawu-Cabarrot,W. Johnson
+141,2,9:01.0,37,45,CHI,WAS,0,away,FreeThrow,,,make1,1,W. Johnson,
+142,2,8:48.0,39,45,CHI,WAS,13,home,DK,assist,1,make2,2,L. Markkanen,Z. LaVine
+143,2,8:43.0,39,47,CHI,WAS,5,away,DK,assist,1,make2,2,J. Parker,T. Satoranský
+144,2,8:28.0,41,47,CHI,WAS,15,home,JS,assist,20,make2,2,Z. LaVine,R. Arcidiacono
+145,2,8:16.0,41,49,CHI,WAS,12,away,DK,assist,1,make2,2,J. Parker,T. Satoranský
+146,2,8:02.0,41,49,CHI,WAS,14,home,D3SecTech,,,,,,
+147,2,8:02.0,42,49,CHI,WAS,0,home,FreeThrow,,,make1,1,Z. LaVine makes technical free throw,
+148,2,8:02.0,42,49,CHI,WAS,0,home,Sub,,,,,K. Dunn,R. Arcidiacono
+149,2,8:02.0,42,49,CHI,WAS,0,home,Sub,,,,,O. Porter,T. Luwawu-Cabarrot
+150,2,7:58.0,42,49,CHI,WAS,4,home,bad pass,steal,,turnover,,Z. LaVine,J. Parker
+151,2,7:54.0,42,49,CHI,WAS,4,away,Traveling,,,turnover,,C. Randle,
+152,2,7:39.0,42,49,CHI,WAS,15,home,JS,,14,miss2,0,O. Porter,
+153,2,7:36.0,42,49,CHI,WAS,3,away,DefReb,,,DefReb,,W. Johnson,
+154,2,7:30.0,42,52,CHI,WAS,6,away,JS,,26,make3,3,C. Randle,
+155,2,7:29.0,42,52,CHI,WAS,1,home,Timeout,,,,,,
+156,2,7:29.0,42,52,CHI,WAS,0,away,Sub,,,,,T. Ariza,W. Johnson
+157,2,7:29.0,42,52,CHI,WAS,0,away,Sub,,,,,B. Beal,T. Satoranský
+158,2,7:14.0,44,52,CHI,WAS,15,home,LU,assist,2,make2,2,K. Dunn,L. Markkanen
+159,2,7:14.0,44,52,CHI,WAS,0,away,DefGoaltending,,,DefGoaltending,,Team,
+160,2,6:52.0,44,52,CHI,WAS,22,away,JS,,25,miss3,0,T. Ariza,
+161,2,6:48.0,44,52,CHI,WAS,4,home,DefReb,,,DefReb,,K. Dunn,
+162,2,6:44.0,44,52,CHI,WAS,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Beal,Z. LaVine
+163,2,6:44.0,45,52,CHI,WAS,0,home,FreeThrow,,,make1,1,Z. LaVine,
+164,2,6:44.0,46,52,CHI,WAS,0,home,FreeThrow,,,make1,1,Z. LaVine,
+165,2,6:32.0,46,52,CHI,WAS,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Dunn,B. Beal
+166,2,6:32.0,46,53,CHI,WAS,0,away,FreeThrow,,,make1,1,B. Beal,
+167,2,6:32.0,46,53,CHI,WAS,0,away,Sub,,,,,J. Green,B. Portis
+168,2,6:32.0,46,53,CHI,WAS,0,away,Sub,,,,,T. Satoranský,C. Randle
+169,2,6:32.0,46,53,CHI,WAS,0,home,Sub,,,,,T. Luwawu-Cabarrot,W. Selden
+170,2,6:32.0,46,54,CHI,WAS,0,away,FreeThrow,,,make1,1,B. Beal,
+171,2,6:23.0,46,54,CHI,WAS,9,home,JS,,13,miss2,0,L. Markkanen,
+172,2,6:21.0,46,54,CHI,WAS,2,away,DefReb,,,DefReb,,J. Parker,
+173,2,6:15.0,46,54,CHI,WAS,6,away,bad pass,steal,,turnover,,T. Satoranský,O. Porter
+174,2,6:08.0,46,54,CHI,WAS,7,home,BadPass,,,turnover,,O. Porter,
+175,2,5:58.0,46,54,CHI,WAS,10,away,JS,,18,miss2,0,T. Satoranský,
+176,2,5:56.0,46,54,CHI,WAS,2,home,DefReb,,,DefReb,,T. Luwawu-Cabarrot,
+177,2,5:48.0,46,54,CHI,WAS,8,home,bad pass,steal,,turnover,,T. Luwawu-Cabarrot,B. Beal
+178,2,5:35.0,46,56,CHI,WAS,13,away,LU,assist,0,make2,2,B. Beal,T. Satoranský
+179,2,5:18.0,46,56,CHI,WAS,17,home,OutOfBoundsLB,,,turnover,,L. Markkanen,
+180,2,5:07.0,46,58,CHI,WAS,11,away,JS,assist,18,make2,2,J. Parker,T. Satoranský
+181,2,4:56.0,46,58,CHI,WAS,11,home,OutOfBounds,,,turnover,,Z. LaVine,
+182,2,4:41.0,46,60,CHI,WAS,15,away,LU,assist,2,make2,2,B. Beal,T. Satoranský
+183,2,4:41.0,46,60,CHI,WAS,0,home,Timeout,,,,,,
+184,2,4:41.0,46,60,CHI,WAS,0,away,Sub,,,,,T. Bryant,J. Green
+185,2,4:41.0,46,60,CHI,WAS,0,home,Sub,,,,,R. Lopez,L. Markkanen
+186,2,4:27.0,46,60,CHI,WAS,14,home,bad pass,steal,,turnover,,K. Dunn,T. Ariza
+187,2,4:26.0,46,60,CHI,WAS,1,away,OutOfBounds,,,turnover,,J. Parker,
+188,2,4:22.0,48,60,CHI,WAS,4,home,DK,assist,1,make2,2,R. Lopez,Z. LaVine
+189,2,4:22.0,48,60,CHI,WAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Satoranský,R. Lopez
+190,2,4:22.0,48,60,CHI,WAS,0,home,FreeThrow,,,make1,0,R. Lopez,
+191,2,4:17.0,48,60,CHI,WAS,5,away,DefReb,,,DefReb,,T. Ariza,
+192,2,4:07.0,48,60,CHI,WAS,10,away,LU,block,2,miss2,0,B. Beal,O. Porter
+193,2,4:01.0,48,60,CHI,WAS,6,home,DefReb,,,DefReb,,K. Dunn,
+194,2,4:00.0,50,60,CHI,WAS,1,home,DK,assist,1,make2,2,Z. LaVine,T. Luwawu-Cabarrot
+195,2,3:42.0,50,60,CHI,WAS,18,away,LU,,1,miss2,0,B. Beal,
+196,2,3:42.0,50,60,CHI,WAS,0,away,OffReb,,,OffReb,,Team,
+197,2,3:39.0,50,60,CHI,WAS,3,away,JS,,16,miss2,0,T. Satoranský,
+198,2,3:36.0,50,60,CHI,WAS,3,home,DefReb,,,DefReb,,T. Luwawu-Cabarrot,
+199,2,3:31.0,50,60,CHI,WAS,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Satoranský,Z. LaVine
+200,2,3:31.0,50,60,CHI,WAS,0,home,FreeThrow,,,make1,0,Z. LaVine,
+201,2,3:31.0,50,60,CHI,WAS,0,home,OffReb,,,OffReb,,Team,
+202,2,3:31.0,50,60,CHI,WAS,0,away,Sub,,,,,C. Randle,T. Satoranský
+203,2,3:31.0,51,60,CHI,WAS,0,home,FreeThrow,,,make1,1,Z. LaVine,
+204,2,3:19.0,51,62,CHI,WAS,12,away,JS,assist,13,make2,2,B. Beal,C. Randle
+205,2,3:07.0,54,62,CHI,WAS,12,home,JS,assist,22,make3,3,T. Luwawu-Cabarrot,K. Dunn
+206,2,2:43.0,54,64,CHI,WAS,24,away,LU,,1,make2,2,T. Ariza,
+207,2,2:36.0,54,64,CHI,WAS,7,home,JS,,27,miss3,0,O. Porter,
+208,2,2:33.0,54,64,CHI,WAS,3,away,DefReb,,,DefReb,,J. Parker,
+209,2,2:28.0,54,64,CHI,WAS,5,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Lopez,T. Ariza
+210,2,2:13.0,54,64,CHI,WAS,15,away,JS,,25,miss3,0,C. Randle,
+211,2,2:08.0,54,64,CHI,WAS,5,home,DefReb,,,DefReb,,K. Dunn,
+212,2,2:07.0,54,64,CHI,WAS,1,home,BadPass,,,turnover,,K. Dunn,
+213,2,2:01.0,54,64,CHI,WAS,6,away,JS,,15,miss2,0,B. Beal,
+214,2,1:58.0,54,64,CHI,WAS,3,home,DefReb,,,DefReb,,T. Luwawu-Cabarrot,
+215,2,1:53.0,54,64,CHI,WAS,5,home,lost ball,steal,,turnover,,T. Luwawu-Cabarrot,B. Beal
+216,2,1:50.0,54,66,CHI,WAS,3,away,DK,assist,1,make2,2,B. Beal,J. Parker
+217,2,1:38.0,54,66,CHI,WAS,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Bryant,R. Lopez
+218,2,1:38.0,55,66,CHI,WAS,0,home,FreeThrow,,,make1,1,R. Lopez,
+219,2,1:38.0,55,66,CHI,WAS,0,away,Sub,,,,,W. Johnson,J. Parker
+220,2,1:38.0,56,66,CHI,WAS,0,home,FreeThrow,,,make1,1,R. Lopez,
+221,2,1:26.0,56,69,CHI,WAS,12,away,JS,assist,27,make3,3,B. Beal,T. Bryant
+222,2,1:15.0,56,69,CHI,WAS,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Bryant,R. Lopez
+223,2,1:15.0,57,69,CHI,WAS,0,home,FreeThrow,,,make1,1,R. Lopez,
+224,2,1:15.0,57,69,CHI,WAS,0,home,Sub,,,,,S. Harrison,T. Luwawu-Cabarrot
+225,2,1:15.0,58,69,CHI,WAS,0,home,FreeThrow,,,make1,1,R. Lopez,
+226,2,1:04.0,58,69,CHI,WAS,11,away,LU,,4,miss2,0,T. Bryant,
+227,2,1:01.0,58,69,CHI,WAS,3,home,DefReb,,,DefReb,,Z. LaVine,
+228,2,0:53.0,61,69,CHI,WAS,8,home,JS,assist,23,make3,3,O. Porter,S. Harrison
+229,2,0:37.0,61,69,CHI,WAS,16,away,JS,,27,miss3,0,W. Johnson,
+230,2,0:34.0,61,69,CHI,WAS,3,home,DefReb,,,DefReb,,Z. LaVine,
+231,2,0:30.0,61,69,CHI,WAS,4,home,JS,,26,miss3,0,Z. LaVine,
+232,2,0:25.0,61,69,CHI,WAS,5,away,DefReb,,,DefReb,,B. Beal,
+233,2,0:09.0,61,72,CHI,WAS,16,away,JS,assist,25,make3,3,W. Johnson,T. Ariza
+234,2,0:09.0,61,72,CHI,WAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Lopez,W. Johnson
+235,2,0:09.0,61,72,CHI,WAS,0,away,FreeThrow,,,make1,0,W. Johnson,
+236,2,0:08.0,61,72,CHI,WAS,1,away,OffReb,,,OffReb,,Team,
+237,2,0:08.0,61,72,CHI,WAS,0,away,FlagrantFoul1,DrawnBy,,FlagrantFoul1,,R. Lopez,T. Bryant
+238,2,0:08.0,61,73,CHI,WAS,0,away,FreeThrow,,,make1,1,T. Bryant makes flagrant free throw 1 of 2,
+239,2,0:08.0,61,74,CHI,WAS,0,away,FreeThrow,,,make1,1,T. Bryant makes flagrant free throw 2 of 2,
+240,2,0:08.0,61,74,CHI,WAS,0,home,Sub,,,,,L. Markkanen,R. Lopez
+241,2,0:03.0,61,76,CHI,WAS,5,away,DK,assist,1,make2,2,B. Beal,T. Bryant
+242,2,0:00.0,61,76,CHI,WAS,3,home,LU,,4,miss2,0,O. Porter,
+243,2,0:01.0,61,76,CHI,WAS,719,home,OffReb,,,OffReb,,Team,
+244,3,11:40.0,61,78,CHI,WAS,20,away,DK,assist,1,make2,2,T. Bryant,T. Satoranský
+245,3,11:27.0,61,78,CHI,WAS,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Bryant,R. Lopez
+246,3,11:15.0,63,78,CHI,WAS,12,home,DK,,1,make2,2,R. Lopez,
+247,3,11:02.0,63,80,CHI,WAS,13,away,JS,assist,17,make2,2,T. Bryant,T. Satoranský
+248,3,10:40.0,63,80,CHI,WAS,22,home,JS,,22,miss3,0,Z. LaVine,
+249,3,10:34.0,63,80,CHI,WAS,6,home,OffReb,,,OffReb,,L. Markkanen,
+250,3,10:34.0,65,80,CHI,WAS,0,home,LU,,1,make2,2,L. Markkanen,
+251,3,10:25.0,65,80,CHI,WAS,9,away,Traveling,,,turnover,,T. Bryant,
+252,3,10:19.0,65,80,CHI,WAS,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Satoranský,R. Lopez
+253,3,10:16.0,65,80,CHI,WAS,3,home,JS,,19,miss2,0,O. Porter,
+254,3,10:12.0,65,80,CHI,WAS,4,home,OffReb,,,OffReb,,L. Markkanen,
+255,3,10:10.0,68,80,CHI,WAS,2,home,JS,assist,25,make3,3,O. Porter,L. Markkanen
+256,3,9:44.0,68,82,CHI,WAS,26,away,JS,assist,22,make2,2,B. Beal,T. Bryant
+257,3,9:28.0,68,82,CHI,WAS,16,home,JS,,27,miss3,0,L. Markkanen,
+258,3,9:27.0,68,82,CHI,WAS,1,away,DefReb,,,DefReb,,Team,
+259,3,9:27.0,68,82,CHI,WAS,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Lopez,T. Ariza
+260,3,9:07.0,68,82,CHI,WAS,20,away,LU,,1,miss2,0,J. Parker,
+261,3,9:03.0,68,84,CHI,WAS,4,away,LU,,0,make2,2,T. Bryant,
+262,3,9:03.0,68,84,CHI,WAS,0,away,OffReb,,,OffReb,,T. Bryant,
+263,3,8:47.0,68,84,CHI,WAS,16,home,LU,,2,miss2,0,Z. LaVine,
+264,3,8:45.0,68,84,CHI,WAS,2,away,DefReb,,,DefReb,,T. Satoranský,
+265,3,8:40.0,68,84,CHI,WAS,5,away,JS,,25,miss3,0,T. Bryant,
+266,3,8:37.0,68,84,CHI,WAS,3,home,DefReb,,,DefReb,,L. Markkanen,
+267,3,8:35.0,70,84,CHI,WAS,2,home,DK,assist,1,make2,2,R. Lopez,L. Markkanen
+268,3,8:35.0,70,84,CHI,WAS,0,away,Timeout,,,,,,
+269,3,8:18.0,70,84,CHI,WAS,17,away,JS,,23,miss3,0,T. Ariza,
+270,3,8:12.0,70,86,CHI,WAS,6,away,LU,,0,make2,2,T. Satoranský,
+271,3,8:12.0,70,86,CHI,WAS,0,away,OffReb,,,OffReb,,T. Satoranský,
+272,3,8:02.0,72,86,CHI,WAS,10,home,LU,assist,2,make2,2,Z. LaVine,K. Dunn
+273,3,7:45.0,72,86,CHI,WAS,17,away,JS,,22,miss2,0,B. Beal,
+274,3,7:43.0,72,86,CHI,WAS,2,home,DefReb,,,DefReb,,O. Porter,
+275,3,7:36.0,72,86,CHI,WAS,7,home,JS,,26,miss3,0,O. Porter,
+276,3,7:33.0,72,86,CHI,WAS,3,home,OffReb,,,OffReb,,R. Lopez,
+277,3,7:23.0,72,86,CHI,WAS,10,home,HS,,6,miss2,0,R. Lopez,
+278,3,7:21.0,72,86,CHI,WAS,2,away,DefReb,,,DefReb,,J. Parker,
+279,3,7:17.0,72,86,CHI,WAS,4,away,bad pass,steal,,turnover,,J. Parker,K. Dunn
+280,3,7:12.0,74,86,CHI,WAS,5,home,DK,assist,1,make2,2,Z. LaVine,K. Dunn
+281,3,7:02.0,74,88,CHI,WAS,10,away,LU,,1,make2,2,T. Ariza,
+282,3,6:47.0,76,88,CHI,WAS,15,home,JS,,13,make2,2,Z. LaVine,
+283,3,6:34.0,76,88,CHI,WAS,13,away,lost ball,steal,,turnover,,T. Satoranský,K. Dunn
+284,3,6:31.0,78,88,CHI,WAS,3,home,DK,assist,1,make2,2,L. Markkanen,Z. LaVine
+285,3,6:31.0,78,88,CHI,WAS,0,away,Timeout,,,,,,
+286,3,6:31.0,78,88,CHI,WAS,0,away,Sub,,,,,B. Portis,T. Bryant
+287,3,6:15.0,78,88,CHI,WAS,16,away,LU,block,3,miss2,0,B. Portis,R. Lopez
+288,3,6:12.0,78,88,CHI,WAS,3,home,DefReb,,,DefReb,,L. Markkanen,
+289,3,5:56.0,78,88,CHI,WAS,16,home,JS,,17,miss2,0,O. Porter,
+290,3,5:54.0,78,88,CHI,WAS,2,away,DefReb,,,DefReb,,B. Portis,
+291,3,5:46.0,78,90,CHI,WAS,8,away,LU,assist,1,make2,2,B. Beal,T. Satoranský
+292,3,5:27.0,80,90,CHI,WAS,19,home,HS,,8,make2,2,R. Lopez,
+293,3,5:13.0,80,92,CHI,WAS,14,away,DK,assist,1,make2,2,J. Parker,B. Portis
+294,3,5:09.0,80,92,CHI,WAS,4,home,BadPass,,,turnover,,K. Dunn,
+295,3,4:55.0,80,94,CHI,WAS,14,away,DK,assist,1,make2,2,J. Parker,T. Ariza
+296,3,4:36.0,82,94,CHI,WAS,19,home,HS,assist,1,make2,2,R. Lopez,Z. LaVine
+297,3,4:19.0,82,94,CHI,WAS,17,away,lost ball,steal,,turnover,,J. Parker,K. Dunn
+298,3,4:15.0,84,94,CHI,WAS,4,home,DK,assist,1,make2,2,L. Markkanen,K. Dunn
+299,3,3:55.0,84,94,CHI,WAS,20,away,JS,,26,miss3,0,J. Parker,
+300,3,3:53.0,84,94,CHI,WAS,2,away,OffReb,,,OffReb,,T. Ariza,
+301,3,3:49.0,84,96,CHI,WAS,4,away,JS,,5,make2,2,T. Ariza,
+302,3,3:49.0,84,96,CHI,WAS,0,home,Timeout,,,,,,
+303,3,3:49.0,84,96,CHI,WAS,0,away,Sub,,,,,W. Johnson,J. Parker
+304,3,3:49.0,84,96,CHI,WAS,0,home,Sub,,,,,W. Selden,R. Lopez
+305,3,3:49.0,84,96,CHI,WAS,0,home,DelayOfGame,,,DelayOfGame,,Team,
+306,3,3:39.0,84,96,CHI,WAS,10,home,JS,,20,miss2,0,W. Selden,
+307,3,3:36.0,84,96,CHI,WAS,3,away,DefReb,,,DefReb,,T. Satoranský,
+308,3,3:32.0,84,96,CHI,WAS,4,away,JS,,24,miss3,0,B. Beal,
+309,3,3:30.0,84,96,CHI,WAS,2,home,DefReb,,,DefReb,,L. Markkanen,
+310,3,3:13.0,86,96,CHI,WAS,17,home,LU,assist,1,make2,2,L. Markkanen,Z. LaVine
+311,3,3:01.0,86,98,CHI,WAS,12,away,LU,assist,1,make2,2,T. Ariza,B. Beal
+312,3,2:40.0,88,98,CHI,WAS,21,home,JS,,5,make2,2,W. Selden,
+313,3,2:19.0,88,100,CHI,WAS,21,away,HS,assist,3,make2,2,B. Portis,T. Satoranský
+314,3,2:05.0,88,100,CHI,WAS,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Satoranský,W. Selden
+315,3,2:05.0,89,100,CHI,WAS,0,home,FreeThrow,,,make1,1,W. Selden,
+316,3,2:05.0,89,100,CHI,WAS,0,away,Sub,,,,,C. Randle,T. Satoranský
+317,3,2:05.0,89,100,CHI,WAS,0,home,Sub,,,,,R. Arcidiacono,Z. LaVine
+318,3,2:05.0,90,100,CHI,WAS,0,home,FreeThrow,,,make1,1,W. Selden,
+319,3,1:49.0,90,102,CHI,WAS,16,away,LU,assist,2,make2,2,T. Ariza,B. Beal
+320,3,1:39.0,90,102,CHI,WAS,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Portis,O. Porter
+321,3,1:39.0,90,102,CHI,WAS,0,away,Sub,,,,,J. McRae,T. Ariza
+322,3,1:33.0,90,102,CHI,WAS,6,home,JS,,12,miss2,0,K. Dunn,
+323,3,1:30.0,90,102,CHI,WAS,3,away,DefReb,,,DefReb,,B. Portis,
+324,3,1:24.0,90,102,CHI,WAS,6,away,JS,,26,miss3,0,B. Portis,
+325,3,1:21.0,90,102,CHI,WAS,3,home,DefReb,,,DefReb,,L. Markkanen,
+326,3,1:14.0,90,102,CHI,WAS,7,home,JS,,17,miss2,0,W. Selden,
+327,3,1:10.0,90,102,CHI,WAS,4,away,DefReb,,,DefReb,,B. Beal,
+328,3,0:56.0,90,104,CHI,WAS,14,away,JS,assist,19,make2,2,B. Beal,J. McRae
+329,3,0:46.0,90,104,CHI,WAS,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Beal,O. Porter
+330,3,0:46.0,91,104,CHI,WAS,0,home,FreeThrow,,,make1,1,O. Porter,
+331,3,0:46.0,92,104,CHI,WAS,0,home,FreeThrow,,,make1,1,O. Porter,
+332,3,0:36.0,92,104,CHI,WAS,10,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. McRae,K. Dunn
+333,3,0:36.0,92,104,CHI,WAS,0,away,OffensiveFoul,,,turnover,,J. McRae,
+334,3,0:36.0,92,104,CHI,WAS,0,home,Timeout,,,,,,
+335,3,0:29.0,94,104,CHI,WAS,7,home,DK,,1,make2,2,K. Dunn,
+336,3,0:09.0,94,106,CHI,WAS,20,away,JS,,4,make2,2,B. Beal,
+337,3,0:04.0,96,106,CHI,WAS,5,home,LU,assist,1,make2,2,O. Porter,K. Dunn
+338,3,0:00.0,96,106,CHI,WAS,4,away,JS,,17,miss2,0,J. McRae,
+339,3,0:00.0,96,106,CHI,WAS,0,away,OffReb,,,OffReb,,Team,
+340,4,11:46.0,96,106,CHI,WAS,14,home,LU,,2,miss2,0,T. Luwawu-Cabarrot,
+341,4,11:45.0,96,106,CHI,WAS,1,home,OffReb,,,OffReb,,C. Felício,
+342,4,11:45.0,98,106,CHI,WAS,0,home,LU,,1,make2,2,C. Felício,
+343,4,11:45.0,98,106,CHI,WAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. McRae,C. Felício
+344,4,11:45.0,98,106,CHI,WAS,0,home,FreeThrow,,,make1,0,C. Felício,
+345,4,11:42.0,98,106,CHI,WAS,3,away,DefReb,,,DefReb,,B. Portis,
+346,4,11:31.0,98,106,CHI,WAS,11,away,Traveling,,,turnover,,B. Portis,
+347,4,11:19.0,100,106,CHI,WAS,12,home,JS,,19,make2,2,R. Arcidiacono,
+348,4,11:05.0,100,108,CHI,WAS,14,away,JS,assist,6,make2,2,W. Johnson,B. Portis
+349,4,10:57.0,100,108,CHI,WAS,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Randle,R. Arcidiacono
+350,4,10:57.0,101,108,CHI,WAS,0,home,FreeThrow,,,make1,1,R. Arcidiacono,
+351,4,10:57.0,102,108,CHI,WAS,0,home,FreeThrow,,,make1,1,R. Arcidiacono,
+352,4,10:47.0,102,108,CHI,WAS,10,away,JS,,8,miss2,0,C. Randle,
+353,4,10:46.0,102,108,CHI,WAS,1,home,DefReb,,,DefReb,,R. Arcidiacono,
+354,4,10:41.0,102,108,CHI,WAS,5,home,DK,,1,miss2,0,S. Harrison,
+355,4,10:39.0,102,108,CHI,WAS,2,away,DefReb,,,DefReb,,J. McRae,
+356,4,10:23.0,102,108,CHI,WAS,16,away,JS,,21,miss2,0,B. Portis,
+357,4,10:19.0,102,108,CHI,WAS,4,home,DefReb,,,DefReb,,S. Harrison,
+358,4,9:57.0,102,108,CHI,WAS,22,home,JS,,26,miss3,0,W. Selden,
+359,4,9:55.0,102,108,CHI,WAS,2,away,DefReb,,,DefReb,,B. Portis,
+360,4,9:38.0,102,110,CHI,WAS,17,away,DK,assist,1,make2,2,J. Parker,W. Johnson
+361,4,9:21.0,102,110,CHI,WAS,17,home,JS,,26,miss3,0,R. Arcidiacono,
+362,4,9:18.0,102,110,CHI,WAS,3,away,DefReb,,,DefReb,,C. Randle,
+363,4,9:15.0,102,110,CHI,WAS,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Arcidiacono,J. Parker
+364,4,9:15.0,102,110,CHI,WAS,0,home,Sub,,,,,Z. LaVine,T. Luwawu-Cabarrot
+365,4,9:09.0,102,113,CHI,WAS,6,away,JS,assist,25,make3,3,W. Johnson,J. Parker
+366,4,9:08.0,102,113,CHI,WAS,1,home,Timeout,,,,,,
+367,4,8:50.0,102,113,CHI,WAS,18,home,LU,block,4,miss2,0,Z. LaVine,J. McRae
+368,4,8:49.0,102,113,CHI,WAS,1,away,DefReb,,,DefReb,,J. McRae,
+369,4,8:49.0,102,113,CHI,WAS,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Arcidiacono,J. McRae
+370,4,8:35.0,102,113,CHI,WAS,14,away,LU,,2,miss2,0,J. McRae,
+371,4,8:32.0,102,113,CHI,WAS,3,home,DefReb,,,DefReb,,W. Selden,
+372,4,8:12.0,102,113,CHI,WAS,20,home,JS,,6,miss2,0,R. Arcidiacono,
+373,4,8:10.0,102,113,CHI,WAS,2,home,OffReb,,,OffReb,,C. Felício,
+374,4,8:09.0,104,113,CHI,WAS,1,home,LU,,1,make2,2,C. Felício,
+375,4,7:47.0,104,115,CHI,WAS,22,away,JS,,13,make2,2,J. Parker,
+376,4,7:18.0,104,115,CHI,WAS,29,home,LU,,2,miss2,0,S. Harrison,
+377,4,7:18.0,104,115,CHI,WAS,0,home,OffReb,,,OffReb,,Team,
+378,4,7:18.0,104,115,CHI,WAS,0,home,Sub,,,,,K. Dunn,R. Arcidiacono
+379,4,7:18.0,104,115,CHI,WAS,0,home,Sub,,,,,O. Porter,S. Harrison
+380,4,7:14.0,104,115,CHI,WAS,4,home,JS,,25,miss3,0,Z. LaVine,
+381,4,7:12.0,104,115,CHI,WAS,2,home,OffReb,,,OffReb,,C. Felício,
+382,4,7:10.0,104,115,CHI,WAS,2,home,LU,block,3,miss2,0,W. Selden,J. Parker
+383,4,7:10.0,104,115,CHI,WAS,0,away,DefReb,,,DefReb,,Team,
+384,4,6:54.0,104,117,CHI,WAS,16,away,LU,assist,1,make2,2,J. Parker,B. Portis
+385,4,6:36.0,104,117,CHI,WAS,18,home,JS,,12,miss2,0,W. Selden,
+386,4,6:35.0,104,117,CHI,WAS,1,home,OffReb,,,OffReb,,C. Felício,
+387,4,6:35.0,104,117,CHI,WAS,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Randle,C. Felício
+388,4,6:35.0,104,117,CHI,WAS,0,home,Sub,,,,,L. Markkanen,C. Felício
+389,4,6:31.0,104,117,CHI,WAS,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Portis,L. Markkanen
+390,4,6:31.0,104,117,CHI,WAS,0,away,Sub,,,,,B. Beal,J. McRae
+391,4,6:19.0,104,117,CHI,WAS,12,home,JS,,26,miss3,0,K. Dunn,
+392,4,6:15.0,104,117,CHI,WAS,4,away,DefReb,,,DefReb,,J. Parker,
+393,4,6:10.0,104,120,CHI,WAS,5,away,JS,assist,23,make3,3,C. Randle,J. Parker
+394,4,6:01.0,106,120,CHI,WAS,9,home,LU,,1,make2,2,Z. LaVine,
+395,4,5:51.0,106,120,CHI,WAS,10,away,JS,,26,miss3,0,B. Beal,
+396,4,5:49.0,106,120,CHI,WAS,2,home,DefReb,,,DefReb,,Team,
+397,4,5:35.0,108,120,CHI,WAS,14,home,LU,,1,make2,2,Z. LaVine,
+398,4,5:35.0,108,120,CHI,WAS,0,away,Timeout,,,,,,
+399,4,5:35.0,108,120,CHI,WAS,0,away,Sub,,,,,T. Ariza,W. Johnson
+400,4,5:13.0,108,122,CHI,WAS,22,away,LU,assist,1,make2,2,B. Portis,J. Parker
+401,4,5:01.0,108,122,CHI,WAS,12,home,lost ball,steal,,turnover,,K. Dunn,B. Beal
+402,4,4:57.0,108,124,CHI,WAS,4,away,LU,assist,2,make2,2,C. Randle,T. Ariza
+403,4,4:38.0,108,124,CHI,WAS,19,home,JS,,10,miss2,0,L. Markkanen,
+404,4,4:36.0,108,124,CHI,WAS,2,home,OffReb,,,OffReb,,O. Porter,
+405,4,4:32.0,110,124,CHI,WAS,4,home,LU,assist,2,make2,2,Z. LaVine,O. Porter
+406,4,4:20.0,110,126,CHI,WAS,12,away,JS,,4,make2,2,B. Portis,
+407,4,4:20.0,110,126,CHI,WAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Selden,B. Portis
+408,4,4:20.0,110,127,CHI,WAS,0,away,FreeThrow,,,make1,1,B. Portis,
+409,4,4:08.0,110,127,CHI,WAS,12,home,JS,,24,miss3,0,O. Porter,
+410,4,4:03.0,110,127,CHI,WAS,5,away,DefReb,,,DefReb,,C. Randle,
+411,4,3:46.0,110,127,CHI,WAS,17,away,JS,,16,miss2,0,B. Portis,
+412,4,3:43.0,110,127,CHI,WAS,3,home,DefReb,,,DefReb,,L. Markkanen,
+413,4,3:40.0,112,127,CHI,WAS,3,home,LU,assist,2,make2,2,W. Selden,L. Markkanen
+414,4,3:40.0,112,127,CHI,WAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Randle,W. Selden
+415,4,3:40.0,112,127,CHI,WAS,0,away,Sub,,,,,T. Satoranský,C. Randle
+416,4,3:40.0,113,127,CHI,WAS,0,home,FreeThrow,,,make1,1,W. Selden,
+417,4,3:34.0,113,127,CHI,WAS,6,away,Timeout,,,,,,
+418,4,3:23.0,113,127,CHI,WAS,11,away,JS,,24,miss3,0,T. Ariza,
+419,4,3:22.0,113,127,CHI,WAS,1,home,DefReb,,,DefReb,,Team,
+420,4,3:13.0,115,127,CHI,WAS,9,home,LU,assist,2,make2,2,L. Markkanen,Z. LaVine
+421,4,2:51.0,115,127,CHI,WAS,22,away,JS,,4,miss2,0,T. Satoranský,
+422,4,2:50.0,115,127,CHI,WAS,1,away,OffReb,,,OffReb,,T. Satoranský,
+423,4,2:50.0,115,129,CHI,WAS,0,away,LU,,2,make2,2,T. Satoranský,
+424,4,2:50.0,115,129,CHI,WAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Markkanen,T. Satoranský
+425,4,2:50.0,115,130,CHI,WAS,0,away,FreeThrow,,,make1,1,T. Satoranský,
+426,4,2:35.0,115,130,CHI,WAS,15,home,JS,,4,miss2,0,K. Dunn,
+427,4,2:34.0,115,130,CHI,WAS,1,home,OffReb,,,OffReb,,K. Dunn,
+428,4,2:30.0,117,130,CHI,WAS,4,home,DK,assist,0,make2,2,Z. LaVine,K. Dunn
+429,4,2:08.0,117,132,CHI,WAS,22,away,LU,,2,make2,2,B. Beal,
+430,4,2:08.0,117,132,CHI,WAS,0,home,Timeout,,,,,,
+431,4,2:08.0,117,132,CHI,WAS,0,away,Sub,,,,,J. Jenkins,T. Ariza
+432,4,2:08.0,117,132,CHI,WAS,0,away,Sub,,,,,J. McRae,B. Beal
+433,4,2:08.0,117,132,CHI,WAS,0,away,Sub,,,,,C. Randle,T. Satoranský
+434,4,2:08.0,117,132,CHI,WAS,0,home,Sub,,,,,R. Arcidiacono,K. Dunn
+435,4,2:08.0,117,132,CHI,WAS,0,home,Sub,,,,,C. Felício,Z. LaVine
+436,4,2:08.0,117,132,CHI,WAS,0,home,Sub,,,,,S. Harrison,L. Markkanen
+437,4,2:08.0,117,132,CHI,WAS,0,home,Sub,,,,,T. Luwawu-Cabarrot,O. Porter
+438,4,2:08.0,117,132,CHI,WAS,0,home,Sub,,,,,B. Sampson,W. Selden
+439,4,1:57.0,120,132,CHI,WAS,11,home,JS,assist,26,make3,3,B. Sampson,C. Felício
+440,4,1:40.0,120,132,CHI,WAS,17,away,LU,block,2,miss2,0,J. Parker,C. Felício
+441,4,1:38.0,120,132,CHI,WAS,2,home,DefReb,,,DefReb,,S. Harrison,
+442,4,1:34.0,120,132,CHI,WAS,4,home,JS,,25,miss3,0,T. Luwawu-Cabarrot,
+443,4,1:31.0,120,132,CHI,WAS,3,away,DefReb,,,DefReb,,C. Randle,
+444,4,1:10.0,120,134,CHI,WAS,21,away,LU,assist,3,make2,2,C. Randle,B. Portis
+445,4,1:04.0,122,134,CHI,WAS,6,home,LU,assist,1,make2,2,B. Sampson,R. Arcidiacono
+446,4,0:43.0,122,134,CHI,WAS,21,away,LU,block,2,miss2,0,J. Parker,T. Luwawu-Cabarrot
+447,4,0:42.0,122,134,CHI,WAS,1,home,DefReb,,,DefReb,,C. Felício,
+448,4,0:42.0,122,134,CHI,WAS,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Portis,C. Felício
+449,4,0:42.0,122,134,CHI,WAS,0,home,FreeThrow,,,make1,0,C. Felício,
+450,4,0:42.0,122,134,CHI,WAS,0,home,OffReb,,,OffReb,,Team,
+451,4,0:42.0,122,134,CHI,WAS,0,away,Sub,,,,,T. Bryant,J. Parker
+452,4,0:42.0,122,134,CHI,WAS,0,away,Sub,,,,,W. Johnson,B. Portis
+453,4,0:42.0,123,134,CHI,WAS,0,home,FreeThrow,,,make1,1,C. Felício,
+454,4,0:23.0,123,134,CHI,WAS,19,away,JS,,23,miss2,0,J. McRae,
+455,4,0:20.0,123,134,CHI,WAS,3,home,DefReb,,,DefReb,,B. Sampson,
+456,4,0:14.0,125,134,CHI,WAS,6,home,LU,assist,2,make2,2,B. Sampson,R. Arcidiacono

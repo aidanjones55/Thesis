@@ -1,0 +1,417 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,0,0,TOR,MIN,17,home,JS,,25,miss3,0,S. Ibaka,
+1,1,11:40.0,0,0,TOR,MIN,3,away,DefReb,,,DefReb,,K. Towns,
+2,1,11:19.0,0,2,TOR,MIN,21,away,HS,,7,make2,2,K. Towns,
+3,1,11:14.0,0,2,TOR,MIN,5,home,bad pass,steal,,turnover,,S. Ibaka,J. Teague
+4,1,11:08.0,0,4,TOR,MIN,6,away,LU,,3,make2,2,J. Teague,
+5,1,10:49.0,2,4,TOR,MIN,19,home,HS,assist,6,make2,2,J. Valančiūnas,K. Lowry
+6,1,10:27.0,2,4,TOR,MIN,22,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Anunoby,J. Teague
+7,1,10:21.0,2,4,TOR,MIN,6,away,D3SecTech,,,,,,
+8,1,10:21.0,2,4,TOR,MIN,0,away,FreeThrow,,,make1,0,J. Butler misses technical free throw,
+9,1,10:21.0,2,4,TOR,MIN,0,away,OffReb,,,OffReb,,Team,
+10,1,10:13.0,2,4,TOR,MIN,8,away,JS,,2,miss2,0,A. Wiggins,
+11,1,10:12.0,2,4,TOR,MIN,1,home,DefReb,,,DefReb,,Team,
+12,1,9:52.0,4,4,TOR,MIN,20,home,JS,assist,13,make2,2,S. Ibaka,O. Anunoby
+13,1,9:36.0,4,4,TOR,MIN,16,away,JS,,13,miss2,0,A. Wiggins,
+14,1,9:32.0,4,4,TOR,MIN,4,home,DefReb,,,DefReb,,J. Valančiūnas,
+15,1,9:25.0,6,4,TOR,MIN,7,home,LU,assist,3,make2,2,J. Valančiūnas,D. DeRozan
+16,1,9:14.0,6,4,TOR,MIN,11,away,JS,,9,miss2,0,J. Teague,
+17,1,9:12.0,6,4,TOR,MIN,2,home,DefReb,,,DefReb,,K. Lowry,
+18,1,9:06.0,6,4,TOR,MIN,6,home,JS,,25,miss3,0,S. Ibaka,
+19,1,9:03.0,6,4,TOR,MIN,3,away,DefReb,,,DefReb,,T. Gibson,
+20,1,8:41.0,6,6,TOR,MIN,22,away,LU,,5,make2,2,T. Gibson,
+21,1,8:27.0,6,6,TOR,MIN,14,home,LU,,2,miss2,0,D. DeRozan,
+22,1,8:23.0,6,6,TOR,MIN,4,home,OffReb,,,OffReb,,D. DeRozan,
+23,1,8:19.0,6,6,TOR,MIN,4,home,JS,,24,miss3,0,J. Valančiūnas,
+24,1,8:16.0,6,6,TOR,MIN,3,away,DefReb,,,DefReb,,A. Wiggins,
+25,1,8:05.0,6,6,TOR,MIN,11,away,JS,,16,miss2,0,T. Gibson,
+26,1,8:03.0,6,6,TOR,MIN,2,home,DefReb,,,DefReb,,K. Lowry,
+27,1,7:58.0,6,6,TOR,MIN,5,home,JS,,9,miss2,0,K. Lowry,
+28,1,7:55.0,6,6,TOR,MIN,3,away,DefReb,,,DefReb,,T. Gibson,
+29,1,7:42.0,6,6,TOR,MIN,13,away,Turnover,,,turnover,,T. Gibson,
+30,1,7:22.0,6,6,TOR,MIN,20,home,JS,,24,miss3,0,D. DeRozan,
+31,1,7:18.0,6,6,TOR,MIN,4,away,DefReb,,,DefReb,,K. Towns,
+32,1,7:12.0,6,6,TOR,MIN,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Anunoby,J. Butler
+33,1,7:12.0,6,7,TOR,MIN,0,away,FreeThrow,,,make1,1,J. Butler,
+34,1,7:12.0,6,7,TOR,MIN,0,home,Sub,,,,,N. Powell,O. Anunoby
+35,1,7:12.0,6,8,TOR,MIN,0,away,FreeThrow,,,make1,1,J. Butler,
+36,1,6:48.0,6,8,TOR,MIN,24,home,JS,,12,miss2,0,D. DeRozan,
+37,1,6:48.0,6,8,TOR,MIN,0,home,OffReb,,,OffReb,,Team,
+38,1,6:48.0,6,8,TOR,MIN,0,home,ShotClockViolation,,,turnover,,Team,
+39,1,6:48.0,6,8,TOR,MIN,0,home,Timeout,,,,,,
+40,1,6:32.0,6,8,TOR,MIN,16,away,JS,,16,miss2,0,A. Wiggins,
+41,1,6:28.0,6,8,TOR,MIN,4,away,OffReb,,,OffReb,,J. Teague,
+42,1,6:25.0,6,8,TOR,MIN,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Powell,J. Teague
+43,1,6:25.0,6,8,TOR,MIN,0,away,FreeThrow,,,make1,0,J. Teague,
+44,1,6:25.0,6,8,TOR,MIN,0,away,OffReb,,,OffReb,,Team,
+45,1,6:25.0,6,9,TOR,MIN,0,away,FreeThrow,,,make1,1,J. Teague,
+46,1,6:14.0,9,9,TOR,MIN,11,home,JS,assist,22,make3,3,S. Ibaka,D. DeRozan
+47,1,6:00.0,9,11,TOR,MIN,14,away,JS,assist,14,make2,2,T. Gibson,J. Teague
+48,1,5:44.0,11,11,TOR,MIN,16,home,JS,assist,20,make2,2,S. Ibaka,D. DeRozan
+49,1,5:26.0,11,13,TOR,MIN,18,away,JS,assist,4,make2,2,T. Gibson,A. Wiggins
+50,1,5:05.0,11,13,TOR,MIN,21,home,JS,,22,miss3,0,D. DeRozan,
+51,1,5:03.0,11,13,TOR,MIN,2,away,DefReb,,,DefReb,,J. Teague,
+52,1,4:56.0,11,13,TOR,MIN,7,away,JS,,14,miss2,0,J. Butler,
+53,1,4:54.0,11,13,TOR,MIN,2,home,DefReb,,,DefReb,,J. Valančiūnas,
+54,1,4:48.0,11,13,TOR,MIN,6,home,JS,,23,miss3,0,N. Powell,
+55,1,4:46.0,11,13,TOR,MIN,2,away,DefReb,,,DefReb,,K. Towns,
+56,1,4:41.0,11,13,TOR,MIN,5,away,JS,,19,miss2,0,A. Wiggins,
+57,1,4:39.0,11,13,TOR,MIN,2,home,DefReb,,,DefReb,,J. Valančiūnas,
+58,1,4:35.0,11,13,TOR,MIN,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Towns,S. Ibaka
+59,1,4:35.0,11,13,TOR,MIN,0,home,FreeThrow,,,make1,0,S. Ibaka,
+60,1,4:35.0,11,13,TOR,MIN,0,home,OffReb,,,OffReb,,Team,
+61,1,4:35.0,11,13,TOR,MIN,0,home,Sub,,,,,J. Poeltl,J. Valančiūnas
+62,1,4:35.0,11,13,TOR,MIN,0,away,Sub,,,,,G. Dieng,K. Towns
+63,1,4:35.0,12,13,TOR,MIN,0,home,FreeThrow,,,make1,1,S. Ibaka,
+64,1,4:17.0,12,13,TOR,MIN,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Lowry,T. Gibson
+65,1,4:05.0,12,15,TOR,MIN,12,away,JS,,10,make2,2,J. Butler,
+66,1,3:53.0,12,15,TOR,MIN,12,home,LU,block,7,miss2,0,J. Poeltl,G. Dieng
+67,1,3:50.0,12,15,TOR,MIN,3,away,DefReb,,,DefReb,,J. Butler,
+68,1,3:41.0,12,15,TOR,MIN,9,away,HS,,8,miss2,0,A. Wiggins,
+69,1,3:41.0,12,15,TOR,MIN,0,home,DefReb,,,DefReb,,S. Ibaka,
+70,1,3:35.0,15,15,TOR,MIN,6,home,JS,assist,23,make3,3,N. Powell,K. Lowry
+71,1,3:19.0,15,15,TOR,MIN,16,away,JS,,24,miss3,0,A. Wiggins,
+72,1,3:17.0,15,15,TOR,MIN,2,away,OffReb,,,OffReb,,T. Gibson,
+73,1,3:10.0,15,17,TOR,MIN,7,away,JS,,16,make2,2,G. Dieng,
+74,1,2:53.0,17,17,TOR,MIN,17,home,DK,assist,2,make2,2,D. DeRozan,K. Lowry
+75,1,2:43.0,17,17,TOR,MIN,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Poeltl,G. Dieng
+76,1,2:43.0,17,17,TOR,MIN,0,away,Timeout,,,,,,
+77,1,2:43.0,17,17,TOR,MIN,0,home,Sub,,,,,D. Wright,K. Lowry
+78,1,2:43.0,17,17,TOR,MIN,0,home,Sub,,,,,P. Siakam,S. Ibaka
+79,1,2:43.0,17,17,TOR,MIN,0,away,Sub,,,,,N. Bjelica,J. Teague
+80,1,2:43.0,17,17,TOR,MIN,0,away,Sub,,,,,T. Jones,T. Gibson
+81,1,2:43.0,17,18,TOR,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
+82,1,2:43.0,17,19,TOR,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
+83,1,2:29.0,17,19,TOR,MIN,14,home,LU,block,2,miss2,0,D. DeRozan,G. Dieng
+84,1,2:27.0,17,19,TOR,MIN,2,away,DefReb,,,DefReb,,A. Wiggins,
+85,1,2:06.0,17,21,TOR,MIN,21,away,JS,assist,15,make2,2,A. Wiggins,J. Butler
+86,1,1:47.0,17,21,TOR,MIN,19,home,JS,,15,miss2,0,D. DeRozan,
+87,1,1:45.0,17,21,TOR,MIN,2,home,OffReb,,,OffReb,,J. Poeltl,
+88,1,1:44.0,17,21,TOR,MIN,1,home,JS,,25,miss3,0,N. Powell,
+89,1,1:41.0,17,21,TOR,MIN,3,away,DefReb,,,DefReb,,N. Bjelica,
+90,1,1:29.0,17,23,TOR,MIN,12,away,JS,assist,20,make2,2,G. Dieng,J. Butler
+91,1,1:07.0,17,23,TOR,MIN,22,home,JS,,25,miss3,0,N. Powell,
+92,1,1:04.0,17,23,TOR,MIN,3,away,DefReb,,,DefReb,,N. Bjelica,
+93,1,0:50.0,17,25,TOR,MIN,14,away,JS,,6,make2,2,J. Butler,
+94,1,0:27.0,17,25,TOR,MIN,23,home,JS,,14,miss2,0,D. DeRozan,
+95,1,0:24.0,17,25,TOR,MIN,3,away,DefReb,,,DefReb,,A. Wiggins,
+96,1,0:03.0,17,27,TOR,MIN,21,away,JS,,16,make2,2,A. Wiggins,
+97,1,0:00.0,19,27,TOR,MIN,3,home,LU,assist,1,make2,2,J. Poeltl,D. DeRozan
+98,2,11:42.0,19,27,TOR,MIN,18,away,JS,,25,miss3,0,J. Crawford,
+99,2,11:39.0,19,27,TOR,MIN,3,home,DefReb,,,DefReb,,F. VanVleet,
+100,2,11:35.0,21,27,TOR,MIN,4,home,LU,,2,make2,2,F. VanVleet,
+101,2,11:18.0,21,29,TOR,MIN,17,away,JS,assist,8,make2,2,G. Dieng,N. Bjelica
+102,2,10:58.0,21,29,TOR,MIN,20,home,LU,,1,miss2,0,D. Wright,
+103,2,10:56.0,21,29,TOR,MIN,2,away,DefReb,,,DefReb,,A. Wiggins,
+104,2,10:49.0,21,29,TOR,MIN,7,home,ChargeFoul,DrawnBy,,ChargeFoul,,A. Wiggins,D. Wright
+105,2,10:49.0,21,29,TOR,MIN,0,away,OffensiveFoul,,,turnover,,A. Wiggins,
+106,2,10:49.0,21,29,TOR,MIN,0,away,Sub,,,,,S. Muhammad,A. Wiggins
+107,2,10:34.0,21,29,TOR,MIN,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Bjelica,P. Siakam
+108,2,10:25.0,21,29,TOR,MIN,9,home,LU,,1,miss2,0,P. Siakam,
+109,2,10:23.0,21,29,TOR,MIN,2,away,DefReb,,,DefReb,,N. Bjelica,
+110,2,10:10.0,21,29,TOR,MIN,13,away,LU,block,7,miss2,0,S. Muhammad,J. Poeltl
+111,2,10:09.0,21,29,TOR,MIN,1,away,OffReb,,,OffReb,,N. Bjelica,
+112,2,10:09.0,21,29,TOR,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,F. VanVleet,N. Bjelica
+113,2,10:09.0,21,30,TOR,MIN,0,away,FreeThrow,,,make1,1,N. Bjelica,
+114,2,10:09.0,21,31,TOR,MIN,0,away,FreeThrow,,,make1,1,N. Bjelica,
+115,2,9:57.0,23,31,TOR,MIN,12,home,LU,assist,3,make2,2,P. Siakam,F. VanVleet
+116,2,9:57.0,23,31,TOR,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,P. Siakam
+117,2,9:57.0,23,31,TOR,MIN,0,home,FreeThrow,,,make1,0,P. Siakam,
+118,2,9:54.0,23,31,TOR,MIN,3,away,DefReb,,,DefReb,,N. Bjelica,
+119,2,9:41.0,23,33,TOR,MIN,13,away,JS,assist,21,make2,2,G. Dieng,T. Jones
+120,2,9:21.0,23,33,TOR,MIN,20,home,Traveling,,,turnover,,P. Siakam,
+121,2,9:01.0,23,33,TOR,MIN,20,away,LU,block,3,miss2,0,S. Muhammad,N. Powell
+122,2,9:01.0,23,33,TOR,MIN,0,home,DefReb,,,DefReb,,F. VanVleet,
+123,2,9:01.0,23,33,TOR,MIN,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dieng,F. VanVleet
+124,2,8:45.0,23,33,TOR,MIN,16,home,bad pass,steal,,turnover,,F. VanVleet,N. Bjelica
+125,2,8:31.0,23,36,TOR,MIN,14,away,JS,assist,25,make3,3,N. Bjelica,J. Crawford
+126,2,8:24.0,23,36,TOR,MIN,7,home,Timeout,,,,,,
+127,2,8:24.0,23,36,TOR,MIN,0,home,Sub,,,,,K. Lowry,N. Powell
+128,2,8:19.0,23,36,TOR,MIN,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Jones,K. Lowry
+129,2,8:19.0,24,36,TOR,MIN,0,home,FreeThrow,,,make1,1,K. Lowry,
+130,2,8:19.0,25,36,TOR,MIN,0,home,FreeThrow,,,make1,1,K. Lowry,
+131,2,7:58.0,25,38,TOR,MIN,21,away,JS,,22,make2,2,J. Crawford,
+132,2,7:46.0,28,38,TOR,MIN,12,home,JS,assist,25,make3,3,F. VanVleet,P. Siakam
+133,2,7:34.0,28,40,TOR,MIN,12,away,JS,,14,make2,2,T. Jones,
+134,2,7:22.0,30,40,TOR,MIN,12,home,LU,assist,3,make2,2,F. VanVleet,D. Wright
+135,2,7:08.0,30,42,TOR,MIN,14,away,LU,assist,2,make2,2,G. Dieng,J. Crawford
+136,2,6:51.0,32,42,TOR,MIN,17,home,HS,assist,5,make2,2,J. Poeltl,K. Lowry
+137,2,6:51.0,32,42,TOR,MIN,0,away,DefGoaltending,,,DefGoaltending,,G. Dieng,
+138,2,6:27.0,32,44,TOR,MIN,24,away,JS,,14,make2,2,G. Dieng,
+139,2,6:15.0,32,44,TOR,MIN,12,home,lost ball,steal,,turnover,,J. Poeltl,J. Crawford
+140,2,6:11.0,32,44,TOR,MIN,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Siakam,S. Muhammad
+141,2,6:11.0,32,44,TOR,MIN,0,away,FreeThrow,,,make1,0,S. Muhammad,
+142,2,6:11.0,32,44,TOR,MIN,0,away,OffReb,,,OffReb,,Team,
+143,2,6:11.0,32,44,TOR,MIN,0,home,Sub,,,,,S. Ibaka,J. Poeltl
+144,2,6:11.0,32,44,TOR,MIN,0,home,Sub,,,,,J. Valančiūnas,P. Siakam
+145,2,6:11.0,32,45,TOR,MIN,0,away,FreeThrow,,,make1,1,S. Muhammad,
+146,2,6:03.0,32,45,TOR,MIN,8,home,JS,,25,miss3,0,K. Lowry,
+147,2,6:01.0,32,45,TOR,MIN,2,away,DefReb,,,DefReb,,S. Muhammad,
+148,2,5:53.0,32,45,TOR,MIN,8,away,LU,,3,miss2,0,J. Crawford,
+149,2,5:52.0,32,45,TOR,MIN,1,away,OffReb,,,OffReb,,S. Muhammad,
+150,2,5:52.0,32,45,TOR,MIN,0,away,LU,,0,miss2,0,S. Muhammad,
+151,2,5:52.0,32,45,TOR,MIN,0,away,OffReb,,,OffReb,,Team,
+152,2,5:52.0,32,45,TOR,MIN,0,home,Sub,,,,,D. DeRozan,D. Wright
+153,2,5:52.0,32,45,TOR,MIN,0,away,Sub,,,,,J. Butler,S. Muhammad
+154,2,5:40.0,32,45,TOR,MIN,12,away,JS,,9,miss2,0,G. Dieng,
+155,2,5:37.0,32,45,TOR,MIN,3,home,DefReb,,,DefReb,,D. DeRozan,
+156,2,5:31.0,35,45,TOR,MIN,6,home,JS,assist,24,make3,3,S. Ibaka,D. DeRozan
+157,2,5:23.0,35,45,TOR,MIN,8,away,Timeout,,,,,,
+158,2,5:23.0,35,45,TOR,MIN,0,away,Sub,,,,,J. Teague,T. Jones
+159,2,5:23.0,35,45,TOR,MIN,0,away,Sub,,,,,K. Towns,G. Dieng
+160,2,5:13.0,35,45,TOR,MIN,10,away,JS,,19,miss2,0,J. Crawford,
+161,2,5:10.0,35,45,TOR,MIN,3,home,DefReb,,,DefReb,,S. Ibaka,
+162,2,4:54.0,35,45,TOR,MIN,16,home,JS,,22,miss3,0,K. Lowry,
+163,2,4:51.0,35,45,TOR,MIN,3,away,DefReb,,,DefReb,,K. Towns,
+164,2,4:33.0,35,47,TOR,MIN,18,away,JS,,11,make2,2,J. Butler,
+165,2,4:15.0,35,47,TOR,MIN,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crawford,K. Lowry
+166,2,4:15.0,36,47,TOR,MIN,0,home,FreeThrow,,,make1,1,K. Lowry,
+167,2,4:15.0,37,47,TOR,MIN,0,home,FreeThrow,,,make1,1,K. Lowry,
+168,2,3:55.0,37,49,TOR,MIN,20,away,LU,assist,3,make2,2,J. Teague,J. Butler
+169,2,3:34.0,39,49,TOR,MIN,21,home,JS,assist,18,make2,2,S. Ibaka,K. Lowry
+170,2,3:16.0,39,51,TOR,MIN,18,away,LU,,2,make2,2,J. Butler,
+171,2,2:55.0,42,51,TOR,MIN,21,home,JS,assist,25,make3,3,K. Lowry,S. Ibaka
+172,2,2:45.0,42,51,TOR,MIN,10,away,bad pass,steal,,turnover,,J. Teague,J. Valančiūnas
+173,2,2:41.0,42,51,TOR,MIN,4,home,LU,,1,miss2,0,F. VanVleet,
+174,2,2:41.0,42,51,TOR,MIN,0,away,DefReb,,,DefReb,,Team,
+175,2,2:41.0,42,51,TOR,MIN,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Ibaka,J. Butler
+176,2,2:41.0,42,51,TOR,MIN,0,home,Sub,,,,,O. Anunoby,F. VanVleet
+177,2,2:41.0,42,51,TOR,MIN,0,away,Sub,,,,,T. Gibson,N. Bjelica
+178,2,2:41.0,42,51,TOR,MIN,0,away,Sub,,,,,A. Wiggins,J. Crawford
+179,2,2:24.0,42,53,TOR,MIN,17,away,LU,assist,1,make2,2,K. Towns,J. Butler
+180,2,2:09.0,44,53,TOR,MIN,15,home,JS,assist,17,make2,2,J. Valančiūnas,K. Lowry
+181,2,1:50.0,44,55,TOR,MIN,19,away,JS,,12,make2,2,T. Gibson,
+182,2,1:25.0,46,55,TOR,MIN,25,home,DK,assist,2,make2,2,J. Valančiūnas,S. Ibaka
+183,2,0:58.0,46,55,TOR,MIN,27,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Teague,K. Lowry
+184,2,0:58.0,46,55,TOR,MIN,0,away,OffensiveFoul,,,turnover,,J. Teague,
+185,2,0:46.0,46,55,TOR,MIN,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Butler,D. DeRozan
+186,2,0:46.0,47,55,TOR,MIN,0,home,FreeThrow,,,make1,1,D. DeRozan,
+187,2,0:46.0,48,55,TOR,MIN,0,home,FreeThrow,,,make1,1,D. DeRozan,
+188,2,0:38.0,48,55,TOR,MIN,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Ibaka,K. Towns
+189,2,0:25.0,48,57,TOR,MIN,13,away,JS,,14,make2,2,J. Butler,
+190,2,0:06.0,51,57,TOR,MIN,19,home,JS,assist,25,make3,3,K. Lowry,D. DeRozan
+191,2,0:00.0,51,57,TOR,MIN,6,away,JS,,12,miss2,0,A. Wiggins,
+192,2,0:00.0,51,57,TOR,MIN,0,away,OffReb,,,OffReb,,Team,
+193,3,11:38.0,51,57,TOR,MIN,22,away,JS,,7,miss2,0,J. Butler,
+194,3,11:35.0,51,57,TOR,MIN,3,home,DefReb,,,DefReb,,J. Valančiūnas,
+195,3,11:29.0,53,57,TOR,MIN,6,home,LU,,2,make2,2,K. Lowry,
+196,3,11:08.0,53,57,TOR,MIN,21,home,ChargeFoul,,,,,T. Gibson,
+197,3,11:08.0,53,57,TOR,MIN,0,away,OffensiveFoul,,,turnover,,T. Gibson,
+198,3,11:08.0,53,57,TOR,MIN,0,away,TechnicalFoul,,,TechnicalFoul,,T. Gibson,
+199,3,11:08.0,54,57,TOR,MIN,0,home,FreeThrow,,,make1,1,D. DeRozan makes technical free throw,
+200,3,10:55.0,54,57,TOR,MIN,13,home,JS,,7,miss2,0,J. Valančiūnas,
+201,3,10:52.0,54,57,TOR,MIN,3,away,DefReb,,,DefReb,,T. Gibson,
+202,3,10:46.0,54,59,TOR,MIN,6,away,JS,,10,make2,2,J. Teague,
+203,3,10:46.0,54,59,TOR,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Anunoby,J. Teague
+204,3,10:46.0,54,59,TOR,MIN,0,away,FreeThrow,,,make1,0,J. Teague,
+205,3,10:44.0,54,59,TOR,MIN,2,home,DefReb,,,DefReb,,J. Valančiūnas,
+206,3,10:35.0,54,59,TOR,MIN,9,home,JS,,25,miss3,0,S. Ibaka,
+207,3,10:31.0,54,59,TOR,MIN,4,home,OffReb,,,OffReb,,O. Anunoby,
+208,3,10:19.0,56,59,TOR,MIN,12,home,JS,,14,make2,2,D. DeRozan,
+209,3,10:03.0,56,61,TOR,MIN,16,away,JS,,17,make2,2,A. Wiggins,
+210,3,9:49.0,56,61,TOR,MIN,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Teague,D. DeRozan
+211,3,9:49.0,56,61,TOR,MIN,0,home,FreeThrow,,,make1,0,D. DeRozan,
+212,3,9:49.0,56,61,TOR,MIN,0,home,OffReb,,,OffReb,,Team,
+213,3,9:49.0,57,61,TOR,MIN,0,home,FreeThrow,,,make1,1,D. DeRozan,
+214,3,9:38.0,57,63,TOR,MIN,11,away,LU,assist,3,make2,2,A. Wiggins,K. Towns
+215,3,9:25.0,57,63,TOR,MIN,13,home,JS,,25,miss3,0,O. Anunoby,
+216,3,9:21.0,57,63,TOR,MIN,4,away,DefReb,,,DefReb,,K. Towns,
+217,3,9:15.0,57,63,TOR,MIN,6,away,JS,,7,miss2,0,J. Teague,
+218,3,9:12.0,57,63,TOR,MIN,3,home,DefReb,,,DefReb,,J. Valančiūnas,
+219,3,9:00.0,57,63,TOR,MIN,12,home,LU,,5,miss2,0,K. Lowry,
+220,3,8:57.0,57,63,TOR,MIN,3,home,OffReb,,,OffReb,,J. Valančiūnas,
+221,3,8:55.0,59,63,TOR,MIN,2,home,DK,,1,make2,2,J. Valančiūnas,
+222,3,8:40.0,59,65,TOR,MIN,15,away,LU,assist,2,make2,2,J. Teague,T. Gibson
+223,3,8:27.0,62,65,TOR,MIN,13,home,JS,assist,22,make3,3,O. Anunoby,S. Ibaka
+224,3,8:06.0,62,67,TOR,MIN,21,away,JS,,11,make2,2,J. Teague,
+225,3,7:52.0,65,67,TOR,MIN,14,home,JS,assist,24,make3,3,D. DeRozan,K. Lowry
+226,3,7:29.0,65,67,TOR,MIN,23,away,JS,,21,miss2,0,K. Towns,
+227,3,7:26.0,65,67,TOR,MIN,3,away,OffReb,,,OffReb,,A. Wiggins,
+228,3,7:25.0,65,70,TOR,MIN,1,away,JS,assist,25,make3,3,J. Butler,J. Teague
+229,3,7:09.0,65,70,TOR,MIN,16,home,JS,,13,miss2,0,S. Ibaka,
+230,3,7:07.0,65,70,TOR,MIN,2,away,DefReb,,,DefReb,,A. Wiggins,
+231,3,6:54.0,65,70,TOR,MIN,13,away,JS,,3,miss2,0,K. Towns,
+232,3,6:51.0,65,70,TOR,MIN,3,home,DefReb,,,DefReb,,K. Lowry,
+233,3,6:45.0,65,70,TOR,MIN,6,home,OutOfBoundsLB,,,turnover,,J. Valančiūnas,
+234,3,6:45.0,65,70,TOR,MIN,0,home,Timeout,,,,,,
+235,3,6:26.0,65,70,TOR,MIN,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Valančiūnas,K. Towns
+236,3,6:26.0,65,71,TOR,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
+237,3,6:26.0,65,72,TOR,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
+238,3,6:16.0,67,72,TOR,MIN,10,home,DK,assist,1,make2,2,J. Valančiūnas,K. Lowry
+239,3,5:57.0,67,72,TOR,MIN,19,away,LU,,4,miss2,0,T. Gibson,
+240,3,5:55.0,67,72,TOR,MIN,2,home,DefReb,,,DefReb,,O. Anunoby,
+241,3,5:45.0,69,72,TOR,MIN,10,home,JS,,13,make2,2,D. DeRozan,
+242,3,5:30.0,69,72,TOR,MIN,15,away,LU,,1,miss2,0,K. Towns,
+243,3,5:27.0,69,72,TOR,MIN,3,away,OffReb,,,OffReb,,Team,
+244,3,5:27.0,69,72,TOR,MIN,0,home,TechnicalFoul,,,TechnicalFoul,,S. Ibaka,
+245,3,5:27.0,69,73,TOR,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
+246,3,5:14.0,69,73,TOR,MIN,13,away,JS,,19,miss2,0,T. Gibson,
+247,3,5:12.0,69,73,TOR,MIN,2,home,DefReb,,,DefReb,,Team,
+248,3,5:02.0,69,73,TOR,MIN,10,home,JS,,26,miss3,0,K. Lowry,
+249,3,4:59.0,69,73,TOR,MIN,3,away,DefReb,,,DefReb,,A. Wiggins,
+250,3,4:41.0,69,73,TOR,MIN,18,away,JS,,19,miss2,0,A. Wiggins,
+251,3,4:37.0,69,73,TOR,MIN,4,away,OffReb,,,OffReb,,T. Gibson,
+252,3,4:35.0,69,73,TOR,MIN,2,away,JS,,2,miss2,0,T. Gibson,
+253,3,4:35.0,69,73,TOR,MIN,0,home,DefReb,,,DefReb,,O. Anunoby,
+254,3,4:33.0,69,73,TOR,MIN,2,home,Traveling,,,turnover,,D. DeRozan,
+255,3,4:33.0,69,73,TOR,MIN,0,away,Sub,,,,,G. Dieng,K. Towns
+256,3,4:23.0,69,73,TOR,MIN,10,away,JS,,5,miss2,0,J. Teague,
+257,3,4:20.0,69,73,TOR,MIN,3,home,DefReb,,,DefReb,,D. DeRozan,
+258,3,4:13.0,71,73,TOR,MIN,7,home,JS,,18,make2,2,D. DeRozan,
+259,3,3:53.0,71,73,TOR,MIN,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Anunoby,J. Butler
+260,3,3:53.0,71,73,TOR,MIN,0,away,FreeThrow,,,make1,0,J. Butler,
+261,3,3:53.0,71,73,TOR,MIN,0,away,OffReb,,,OffReb,,Team,
+262,3,3:53.0,71,73,TOR,MIN,0,home,Sub,,,,,N. Powell,O. Anunoby
+263,3,3:53.0,71,74,TOR,MIN,0,away,FreeThrow,,,make1,1,J. Butler,
+264,3,3:40.0,71,74,TOR,MIN,13,home,JS,,26,miss3,0,D. DeRozan,
+265,3,3:36.0,71,74,TOR,MIN,4,home,OffReb,,,OffReb,,J. Valančiūnas,
+266,3,3:34.0,73,74,TOR,MIN,2,home,DK,,1,make2,2,J. Valančiūnas,
+267,3,3:21.0,73,74,TOR,MIN,13,away,JS,,25,miss3,0,A. Wiggins,
+268,3,3:17.0,73,74,TOR,MIN,4,away,OffReb,,,OffReb,,J. Teague,
+269,3,3:14.0,73,76,TOR,MIN,3,away,LU,assist,1,make2,2,A. Wiggins,J. Teague
+270,3,3:01.0,73,76,TOR,MIN,13,home,bad pass,steal,,turnover,,K. Lowry,G. Dieng
+271,3,2:53.0,73,76,TOR,MIN,8,away,bad pass,steal,,turnover,,A. Wiggins,D. DeRozan
+272,3,2:52.0,75,76,TOR,MIN,1,home,LU,assist,2,make2,2,K. Lowry,D. DeRozan
+273,3,2:52.0,75,76,TOR,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Teague,K. Lowry
+274,3,2:52.0,75,76,TOR,MIN,0,away,Timeout,,,,,,
+275,3,2:52.0,75,76,TOR,MIN,0,home,Sub,,,,,J. Poeltl,J. Valančiūnas
+276,3,2:52.0,75,76,TOR,MIN,0,away,Sub,,,,,N. Bjelica,J. Teague
+277,3,2:52.0,75,76,TOR,MIN,0,away,Sub,,,,,T. Jones,T. Gibson
+278,3,2:52.0,76,76,TOR,MIN,0,home,FreeThrow,,,make1,1,K. Lowry,
+279,3,2:33.0,76,76,TOR,MIN,19,away,JS,block,3,miss2,0,J. Butler,J. Poeltl
+280,3,2:33.0,76,76,TOR,MIN,0,away,OffReb,,,OffReb,,J. Butler,
+281,3,2:33.0,76,76,TOR,MIN,0,home,Sub,,,,,D. Wright,K. Lowry
+282,3,2:27.0,76,78,TOR,MIN,6,away,JS,,19,make2,2,J. Butler,
+283,3,2:05.0,76,78,TOR,MIN,22,home,JS,,10,miss2,0,S. Ibaka,
+284,3,2:03.0,76,78,TOR,MIN,2,away,DefReb,,,DefReb,,J. Butler,
+285,3,1:46.0,76,80,TOR,MIN,17,away,LU,assist,1,make2,2,J. Butler,N. Bjelica
+286,3,1:32.0,76,80,TOR,MIN,14,home,JS,,24,miss3,0,D. DeRozan,
+287,3,1:29.0,76,80,TOR,MIN,3,away,DefReb,,,DefReb,,A. Wiggins,
+288,3,1:15.0,76,80,TOR,MIN,14,away,JS,,15,miss2,0,J. Butler,
+289,3,1:13.0,76,80,TOR,MIN,2,home,DefReb,,,DefReb,,S. Ibaka,
+290,3,1:05.0,76,80,TOR,MIN,8,home,JS,,19,miss2,0,D. Wright,
+291,3,1:02.0,76,80,TOR,MIN,3,away,DefReb,,,DefReb,,J. Butler,
+292,3,0:45.0,76,80,TOR,MIN,17,away,LU,,2,miss2,0,A. Wiggins,
+293,3,0:43.0,76,80,TOR,MIN,2,home,DefReb,,,DefReb,,S. Ibaka,
+294,3,0:32.0,78,80,TOR,MIN,11,home,DK,assist,0,make2,2,J. Poeltl,D. Wright
+295,3,0:09.0,78,80,TOR,MIN,23,away,JS,,25,miss3,0,A. Wiggins,
+296,3,0:06.0,78,80,TOR,MIN,3,home,DefReb,,,DefReb,,N. Powell,
+297,3,0:00.0,78,80,TOR,MIN,6,home,JS,,19,miss2,0,D. DeRozan,
+298,3,0:00.0,78,80,TOR,MIN,0,home,OffReb,,,OffReb,,Team,
+299,4,11:43.0,78,80,TOR,MIN,17,home,JS,,24,miss3,0,D. Wright,
+300,4,11:41.0,78,80,TOR,MIN,2,home,OffReb,,,OffReb,,Team,
+301,4,11:34.0,78,80,TOR,MIN,7,home,Traveling,,,turnover,,N. Powell,
+302,4,11:18.0,78,80,TOR,MIN,16,away,lost ball,steal,,turnover,,A. Wiggins,N. Powell
+303,4,11:14.0,80,80,TOR,MIN,4,home,DK,,1,make2,2,N. Powell,
+304,4,10:53.0,80,82,TOR,MIN,21,away,LU,,2,make2,2,A. Wiggins,
+305,4,10:41.0,80,82,TOR,MIN,12,home,LU,,3,miss2,0,P. Siakam,
+306,4,10:36.0,80,82,TOR,MIN,5,home,OffReb,,,OffReb,,J. Poeltl,
+307,4,10:36.0,82,82,TOR,MIN,0,home,LU,,0,make2,2,J. Poeltl,
+308,4,10:26.0,82,82,TOR,MIN,10,away,DK,,3,miss2,0,A. Wiggins,
+309,4,10:24.0,82,82,TOR,MIN,2,home,DefReb,,,DefReb,,P. Siakam,
+310,4,10:21.0,82,82,TOR,MIN,3,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,N. Bjelica,P. Siakam
+311,4,10:21.0,82,82,TOR,MIN,0,home,FreeThrow,,,make1,0,P. Siakam,
+312,4,10:21.0,82,82,TOR,MIN,0,home,OffReb,,,OffReb,,Team,
+313,4,10:21.0,82,82,TOR,MIN,0,away,Sub,,,,,S. Muhammad,A. Wiggins
+314,4,10:21.0,83,82,TOR,MIN,0,home,FreeThrow,,,make1,1,P. Siakam,
+315,4,10:00.0,83,84,TOR,MIN,21,away,JS,,21,make2,2,J. Crawford,
+316,4,9:37.0,83,84,TOR,MIN,23,home,JS,,22,miss3,0,F. VanVleet,
+317,4,9:34.0,83,84,TOR,MIN,3,away,DefReb,,,DefReb,,G. Dieng,
+318,4,9:28.0,83,84,TOR,MIN,6,away,Turnover,,,turnover,,S. Muhammad,
+319,4,9:18.0,83,84,TOR,MIN,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,D. Wright
+320,4,9:18.0,84,84,TOR,MIN,0,home,FreeThrow,,,make1,1,D. Wright,
+321,4,9:18.0,85,84,TOR,MIN,0,home,FreeThrow,,,make1,1,D. Wright,
+322,4,9:06.0,85,84,TOR,MIN,12,away,JS,,21,miss2,0,J. Crawford,
+323,4,9:03.0,85,84,TOR,MIN,3,home,DefReb,,,DefReb,,N. Powell,
+324,4,8:58.0,85,84,TOR,MIN,5,home,JS,,6,miss2,0,N. Powell,
+325,4,8:50.0,85,84,TOR,MIN,8,home,OffReb,,,OffReb,,J. Poeltl,
+326,4,8:50.0,87,84,TOR,MIN,0,home,LU,,0,make2,2,J. Poeltl,
+327,4,8:38.0,87,84,TOR,MIN,12,away,LU,,3,miss2,0,S. Muhammad,
+328,4,8:35.0,87,84,TOR,MIN,3,home,DefReb,,,DefReb,,P. Siakam,
+329,4,8:25.0,90,84,TOR,MIN,10,home,JS,assist,22,make3,3,N. Powell,P. Siakam
+330,4,8:24.0,90,84,TOR,MIN,1,away,Timeout,,,,,,
+331,4,8:24.0,90,84,TOR,MIN,0,away,Sub,,,,,K. Towns,G. Dieng
+332,4,8:24.0,90,84,TOR,MIN,0,away,Sub,,,,,J. Butler,S. Muhammad
+333,4,8:02.0,90,84,TOR,MIN,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Poeltl,J. Butler
+334,4,8:02.0,90,84,TOR,MIN,0,away,FreeThrow,,,make1,0,J. Butler,
+335,4,8:02.0,90,84,TOR,MIN,0,away,OffReb,,,OffReb,,Team,
+336,4,8:02.0,90,84,TOR,MIN,0,away,FreeThrow,,,make1,0,J. Butler,
+337,4,8:00.0,90,84,TOR,MIN,2,home,DefReb,,,DefReb,,N. Powell,
+338,4,7:46.0,90,84,TOR,MIN,14,home,HS,,4,miss2,0,D. Wright,
+339,4,7:42.0,90,84,TOR,MIN,4,home,OffReb,,,OffReb,,J. Poeltl,
+340,4,7:42.0,92,84,TOR,MIN,0,home,LU,,0,make2,2,J. Poeltl,
+341,4,7:28.0,92,84,TOR,MIN,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Poeltl,T. Jones
+342,4,7:28.0,92,85,TOR,MIN,0,away,FreeThrow,,,make1,1,T. Jones,
+343,4,7:28.0,92,85,TOR,MIN,0,away,Sub,,,,,T. Gibson,N. Bjelica
+344,4,7:28.0,92,85,TOR,MIN,0,away,FreeThrow,,,make1,0,T. Jones,
+345,4,7:26.0,92,85,TOR,MIN,2,home,DefReb,,,DefReb,,D. Wright,
+346,4,7:02.0,92,85,TOR,MIN,24,home,JS,,23,miss3,0,F. VanVleet,
+347,4,7:00.0,92,85,TOR,MIN,2,away,DefReb,,,DefReb,,K. Towns,
+348,4,6:49.0,92,85,TOR,MIN,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,F. VanVleet,T. Jones
+349,4,6:49.0,92,85,TOR,MIN,0,away,Sub,,,,,J. Teague,T. Jones
+350,4,6:49.0,92,85,TOR,MIN,0,home,Sub,,,,,K. Lowry,N. Powell
+351,4,6:49.0,92,85,TOR,MIN,0,home,Sub,,,,,D. DeRozan,D. Wright
+352,4,6:37.0,92,85,TOR,MIN,12,away,JS,,12,miss2,0,J. Butler,
+353,4,6:35.0,92,85,TOR,MIN,2,away,OffReb,,,OffReb,,K. Towns,
+354,4,6:35.0,92,85,TOR,MIN,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Poeltl,K. Towns
+355,4,6:35.0,92,85,TOR,MIN,0,home,Sub,,,,,S. Ibaka,P. Siakam
+356,4,6:16.0,92,87,TOR,MIN,19,away,JS,assist,6,make2,2,T. Gibson,J. Butler
+357,4,6:02.0,92,87,TOR,MIN,14,home,JS,,25,miss3,0,K. Lowry,
+358,4,6:00.0,92,87,TOR,MIN,2,away,DefReb,,,DefReb,,J. Crawford,
+359,4,5:53.0,92,87,TOR,MIN,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. DeRozan,J. Butler
+360,4,5:53.0,92,88,TOR,MIN,0,away,FreeThrow,,,make1,1,J. Butler,
+361,4,5:53.0,92,88,TOR,MIN,0,away,FreeThrow,,,make1,0,J. Butler,
+362,4,5:53.0,92,88,TOR,MIN,0,away,OffReb,,,OffReb,,Team,
+363,4,5:53.0,92,88,TOR,MIN,0,home,Sub,,,,,J. Valančiūnas,J. Poeltl
+364,4,5:53.0,92,89,TOR,MIN,0,away,FreeThrow,,,make1,1,J. Butler,
+365,4,5:29.0,94,89,TOR,MIN,24,home,JS,assist,2,make2,2,J. Valančiūnas,K. Lowry
+366,4,5:05.0,94,89,TOR,MIN,24,away,JS,,18,miss2,0,J. Butler,
+367,4,5:03.0,94,89,TOR,MIN,2,home,DefReb,,,DefReb,,S. Ibaka,
+368,4,4:50.0,94,89,TOR,MIN,13,home,Timeout,,,,,,
+369,4,4:50.0,94,89,TOR,MIN,0,away,Sub,,,,,A. Wiggins,J. Crawford
+370,4,4:47.0,94,89,TOR,MIN,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Towns,D. DeRozan
+371,4,4:47.0,95,89,TOR,MIN,0,home,FreeThrow,,,make1,1,D. DeRozan,
+372,4,4:47.0,96,89,TOR,MIN,0,home,FreeThrow,,,make1,1,D. DeRozan,
+373,4,4:24.0,96,91,TOR,MIN,23,away,DK,assist,2,make2,2,K. Towns,J. Butler
+374,4,4:05.0,98,91,TOR,MIN,19,home,LU,assist,0,make2,2,F. VanVleet,J. Valančiūnas
+375,4,4:05.0,98,91,TOR,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Teague,F. VanVleet
+376,4,4:05.0,99,91,TOR,MIN,0,home,FreeThrow,,,make1,1,F. VanVleet,
+377,4,3:40.0,99,94,TOR,MIN,25,away,JS,assist,25,make3,3,J. Teague,K. Towns
+378,4,3:17.0,99,94,TOR,MIN,23,home,LU,,1,miss2,0,J. Valančiūnas,
+379,4,3:15.0,99,94,TOR,MIN,2,away,DefReb,,,DefReb,,K. Towns,
+380,4,3:06.0,99,94,TOR,MIN,9,away,HS,,8,miss2,0,A. Wiggins,
+381,4,3:03.0,99,94,TOR,MIN,3,home,DefReb,,,DefReb,,J. Valančiūnas,
+382,4,2:51.0,101,94,TOR,MIN,12,home,HS,assist,5,make2,2,S. Ibaka,D. DeRozan
+383,4,2:51.0,101,94,TOR,MIN,0,away,Timeout,,,,,,
+384,4,2:39.0,101,94,TOR,MIN,12,away,JS,,25,miss3,0,J. Butler,
+385,4,2:35.0,101,94,TOR,MIN,4,home,DefReb,,,DefReb,,S. Ibaka,
+386,4,2:27.0,101,94,TOR,MIN,8,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,T. Gibson,D. DeRozan
+387,4,2:27.0,102,94,TOR,MIN,0,home,FreeThrow,,,make1,1,D. DeRozan,
+388,4,2:27.0,103,94,TOR,MIN,0,home,FreeThrow,,,make1,1,D. DeRozan,
+389,4,2:19.0,103,96,TOR,MIN,8,away,JS,assist,19,make2,2,T. Gibson,J. Teague
+390,4,1:56.0,103,96,TOR,MIN,23,home,JS,,23,miss3,0,D. DeRozan,
+391,4,1:54.0,103,96,TOR,MIN,2,home,OffReb,,,OffReb,,J. Valančiūnas,
+392,4,1:52.0,103,96,TOR,MIN,2,home,LU,,1,miss2,0,J. Valančiūnas,
+393,4,1:52.0,103,96,TOR,MIN,0,away,DefReb,,,DefReb,,J. Butler,
+394,4,1:47.0,103,96,TOR,MIN,5,away,LU,block,2,miss2,0,J. Butler,S. Ibaka
+395,4,1:47.0,103,96,TOR,MIN,0,away,OffReb,,,OffReb,,Team,
+396,4,1:39.0,103,96,TOR,MIN,8,away,LU,,2,miss2,0,T. Gibson,
+397,4,1:37.0,103,96,TOR,MIN,2,away,OffReb,,,OffReb,,K. Towns,
+398,4,1:37.0,103,98,TOR,MIN,0,away,DK,,0,make2,2,K. Towns,
+399,4,1:21.0,103,98,TOR,MIN,16,home,JS,,3,miss2,0,D. DeRozan,
+400,4,1:20.0,103,98,TOR,MIN,1,away,DefReb,,,DefReb,,K. Towns,
+401,4,1:01.0,103,101,TOR,MIN,19,away,JS,assist,24,make3,3,A. Wiggins,K. Towns
+402,4,1:01.0,103,101,TOR,MIN,0,home,Timeout,,,,,,
+403,4,0:41.0,105,101,TOR,MIN,20,home,JS,assist,8,make2,2,D. DeRozan,F. VanVleet
+404,4,0:41.0,105,101,TOR,MIN,0,away,Timeout,,,,,,
+405,4,0:23.0,105,101,TOR,MIN,18,away,JS,,25,miss3,0,A. Wiggins,
+406,4,0:19.0,105,101,TOR,MIN,4,home,DefReb,,,DefReb,,D. DeRozan,
+407,4,0:19.0,105,101,TOR,MIN,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Butler,D. DeRozan
+408,4,0:19.0,106,101,TOR,MIN,0,home,FreeThrow,,,make1,1,D. DeRozan,
+409,4,0:19.0,107,101,TOR,MIN,0,home,FreeThrow,,,make1,1,D. DeRozan,
+410,4,0:15.0,107,101,TOR,MIN,4,away,JS,,26,miss3,0,A. Wiggins,
+411,4,0:12.0,107,101,TOR,MIN,3,home,DefReb,,,DefReb,,J. Valančiūnas,
+412,4,0:12.0,107,101,TOR,MIN,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,K. Towns,J. Valančiūnas
+413,4,0:12.0,108,101,TOR,MIN,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+414,4,0:12.0,109,101,TOR,MIN,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+415,4,0:03.0,109,104,TOR,MIN,9,away,JS,assist,25,make3,3,J. Butler,A. Wiggins

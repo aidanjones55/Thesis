@@ -1,0 +1,433 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:48.0,0,0,BOS,BRK,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,B. Lopez
+1,1,11:39.0,0,0,BOS,BRK,9,away,LU,,2,miss2,0,B. Lopez,
+2,1,11:38.0,0,0,BOS,BRK,1,away,OffReb,,,OffReb,,R. Hollis-Jefferson,
+3,1,11:34.0,0,0,BOS,BRK,4,away,JS,,15,miss2,0,T. Young,
+4,1,11:33.0,0,0,BOS,BRK,1,home,DefReb,,,DefReb,,J. Sullinger,
+5,1,11:20.0,2,0,BOS,BRK,13,home,LU,assist,0,make2,2,A. Johnson,I. Thomas
+6,1,11:05.0,2,0,BOS,BRK,15,away,JS,,17,miss2,0,J. Jack,
+7,1,11:04.0,2,0,BOS,BRK,1,home,DefReb,,,DefReb,,A. Johnson,
+8,1,10:53.0,2,0,BOS,BRK,11,home,JS,,25,miss3,0,M. Smart,
+9,1,10:52.0,2,0,BOS,BRK,1,away,DefReb,,,DefReb,,T. Young,
+10,1,10:39.0,2,2,BOS,BRK,13,away,JS,,8,make2,2,R. Hollis-Jefferson,
+11,1,10:24.0,2,2,BOS,BRK,15,home,JS,,25,miss3,0,I. Thomas,
+12,1,10:22.0,2,2,BOS,BRK,2,away,DefReb,,,DefReb,,T. Young,
+13,1,10:13.0,2,2,BOS,BRK,9,away,JS,,7,miss2,0,J. Jack,
+14,1,10:12.0,2,2,BOS,BRK,1,home,DefReb,,,DefReb,,J. Sullinger,
+15,1,10:06.0,2,2,BOS,BRK,6,home,LU,,2,miss2,0,J. Sullinger,
+16,1,10:05.0,2,2,BOS,BRK,1,away,DefReb,,,DefReb,,T. Young,
+17,1,9:59.0,2,4,BOS,BRK,6,away,LU,,1,make2,2,T. Young,
+18,1,9:43.0,2,4,BOS,BRK,16,home,JS,,24,miss3,0,J. Crowder,
+19,1,9:42.0,2,4,BOS,BRK,1,away,DefReb,,,DefReb,,R. Hollis-Jefferson,
+20,1,9:30.0,2,4,BOS,BRK,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,B. Lopez
+21,1,9:22.0,2,6,BOS,BRK,8,away,LU,assist,1,make2,2,T. Young,J. Jack
+22,1,9:00.0,4,6,BOS,BRK,22,home,JS,,5,make2,2,M. Smart,
+23,1,8:36.0,4,6,BOS,BRK,24,away,HS,,3,miss2,0,T. Young,
+24,1,8:35.0,4,6,BOS,BRK,1,home,DefReb,,,DefReb,,J. Crowder,
+25,1,8:17.0,6,6,BOS,BRK,18,home,HS,assist,6,make2,2,A. Johnson,J. Sullinger
+26,1,8:04.0,6,6,BOS,BRK,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Sullinger,B. Lopez
+27,1,8:04.0,6,7,BOS,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
+28,1,8:04.0,6,8,BOS,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
+29,1,7:52.0,9,8,BOS,BRK,12,home,JS,assist,25,make3,3,J. Crowder,I. Thomas
+30,1,7:41.0,9,8,BOS,BRK,11,away,JS,,19,miss2,0,J. Johnson,
+31,1,7:40.0,9,8,BOS,BRK,1,home,DefReb,,,DefReb,,M. Smart,
+32,1,7:28.0,9,8,BOS,BRK,12,home,LU,,2,miss2,0,I. Thomas,
+33,1,7:27.0,9,8,BOS,BRK,1,away,DefReb,,,DefReb,,J. Jack,
+34,1,7:23.0,9,8,BOS,BRK,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Hollis-Jefferson,M. Smart
+35,1,7:23.0,9,8,BOS,BRK,0,away,OffensiveFoul,,,turnover,,R. Hollis-Jefferson,
+36,1,7:12.0,11,8,BOS,BRK,11,home,JS,assist,0,make2,2,J. Sullinger,J. Crowder
+37,1,7:02.0,11,8,BOS,BRK,10,away,BadPass,,,turnover,,J. Jack,
+38,1,6:43.0,11,8,BOS,BRK,19,home,JS,,26,miss3,0,I. Thomas,
+39,1,6:42.0,11,8,BOS,BRK,1,away,DefReb,,,DefReb,,J. Johnson,
+40,1,6:25.0,11,11,BOS,BRK,17,away,JS,assist,26,make3,3,J. Johnson,J. Jack
+41,1,6:10.0,11,11,BOS,BRK,15,home,HS,,2,miss2,0,A. Johnson,
+42,1,6:09.0,11,11,BOS,BRK,1,away,DefReb,,,DefReb,,T. Young,
+43,1,5:56.0,11,13,BOS,BRK,13,away,LU,assist,2,make2,2,R. Hollis-Jefferson,J. Johnson
+44,1,5:42.0,13,13,BOS,BRK,14,home,LU,assist,0,make2,2,J. Crowder,J. Sullinger
+45,1,5:35.0,13,13,BOS,BRK,7,away,BadPass,steal,,turnover,,J. Jack,J. Sullinger
+46,1,5:29.0,15,13,BOS,BRK,6,home,LU,assist,2,make2,2,J. Crowder,I. Thomas
+47,1,5:14.0,15,13,BOS,BRK,15,away,HS,,3,miss2,0,T. Young,
+48,1,5:13.0,15,13,BOS,BRK,1,home,DefReb,,,DefReb,,J. Sullinger,
+49,1,5:02.0,15,13,BOS,BRK,11,home,JS,,26,miss3,0,M. Smart,
+50,1,5:01.0,15,13,BOS,BRK,1,away,DefReb,,,DefReb,,B. Lopez,
+51,1,4:57.0,15,13,BOS,BRK,4,away,BadPass,steal,,turnover,,B. Lopez,M. Smart
+52,1,4:51.0,15,13,BOS,BRK,6,home,JS,,25,miss3,0,I. Thomas,
+53,1,4:50.0,15,13,BOS,BRK,1,home,OffReb,,,OffReb,,J. Crowder,
+54,1,4:43.0,15,13,BOS,BRK,7,home,JS,,6,miss2,0,I. Thomas,
+55,1,4:42.0,15,13,BOS,BRK,1,away,DefReb,,,DefReb,,J. Jack,
+56,1,4:37.0,15,15,BOS,BRK,5,away,LU,,0,make2,2,J. Jack,
+57,1,4:37.0,15,15,BOS,BRK,0,home,Timeout,,,,,,
+58,1,4:37.0,15,15,BOS,BRK,0,home,Sub,,,,,A. Bradley,M. Smart
+59,1,4:37.0,15,15,BOS,BRK,0,home,Sub,,,,,K. Olynyk,J. Sullinger
+60,1,4:37.0,15,15,BOS,BRK,0,away,Sub,,,,,T. Robinson,B. Lopez
+61,1,4:27.0,15,15,BOS,BRK,10,home,JS,,17,miss2,0,A. Bradley,
+62,1,4:26.0,15,15,BOS,BRK,1,away,DefReb,,,DefReb,,T. Robinson,
+63,1,4:16.0,15,15,BOS,BRK,10,away,BadPass,steal,,turnover,,J. Jack,J. Crowder
+64,1,4:11.0,17,15,BOS,BRK,5,home,LU,,1,make2,2,J. Crowder,
+65,1,3:53.0,17,15,BOS,BRK,18,away,JS,,17,miss2,0,R. Hollis-Jefferson,
+66,1,3:52.0,17,15,BOS,BRK,1,home,DefReb,,,DefReb,,K. Olynyk,
+67,1,3:42.0,19,15,BOS,BRK,10,home,JS,assist,0,make2,2,A. Bradley,I. Thomas
+68,1,3:21.0,19,15,BOS,BRK,21,away,JS,,17,miss2,0,J. Johnson,
+69,1,3:20.0,19,15,BOS,BRK,1,home,DefReb,,,DefReb,,A. Bradley,
+70,1,3:11.0,19,15,BOS,BRK,9,home,JS,,16,miss2,0,I. Thomas,
+71,1,3:10.0,19,15,BOS,BRK,1,away,DefReb,,,DefReb,,J. Johnson,
+72,1,2:49.0,19,15,BOS,BRK,21,away,BadPass,steal,,turnover,,J. Jack,J. Crowder
+73,1,2:45.0,21,15,BOS,BRK,4,home,DK,assist,0,make2,2,J. Crowder,I. Thomas
+74,1,2:32.0,21,15,BOS,BRK,13,away,Timeout,,,,,,
+75,1,2:32.0,21,15,BOS,BRK,0,home,Sub,,,,,J. Jerebko,A. Johnson
+76,1,2:32.0,21,15,BOS,BRK,0,home,Sub,,,,,E. Turner,I. Thomas
+77,1,2:32.0,21,15,BOS,BRK,0,away,Sub,,,,,S. Larkin,J. Johnson
+78,1,2:32.0,21,15,BOS,BRK,0,away,Sub,,,,,S. Karasev,J. Jack
+79,1,2:15.0,21,17,BOS,BRK,17,away,LU,,1,make2,2,T. Young,
+80,1,2:04.0,21,17,BOS,BRK,11,home,LostBall,steal,,turnover,,J. Jerebko,T. Young
+81,1,1:57.0,21,19,BOS,BRK,7,away,LU,,1,make2,2,T. Young,
+82,1,1:49.0,21,19,BOS,BRK,8,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,T. Robinson,K. Olynyk
+83,1,1:38.0,23,19,BOS,BRK,11,home,JS,,12,make2,2,E. Turner,
+84,1,1:20.0,23,19,BOS,BRK,18,away,LostBall,steal,,turnover,,R. Hollis-Jefferson,J. Jerebko
+85,1,1:16.0,23,19,BOS,BRK,4,home,LU,,2,miss2,0,A. Bradley,
+86,1,1:15.0,23,19,BOS,BRK,1,home,OffReb,,,OffReb,,J. Crowder,
+87,1,1:15.0,23,19,BOS,BRK,0,home,JS,,1,miss2,0,J. Crowder,
+88,1,1:14.0,23,19,BOS,BRK,1,away,DefReb,,,DefReb,,T. Young,
+89,1,0:53.0,23,19,BOS,BRK,21,away,LU,,0,miss2,0,R. Hollis-Jefferson,
+90,1,0:52.0,23,19,BOS,BRK,1,away,OffReb,,,OffReb,,T. Robinson,
+91,1,0:49.0,23,19,BOS,BRK,3,away,JS,,6,miss2,0,T. Robinson,
+92,1,0:48.0,23,19,BOS,BRK,1,home,DefReb,,,DefReb,,K. Olynyk,
+93,1,0:34.0,23,19,BOS,BRK,14,home,JS,,16,miss2,0,E. Turner,
+94,1,0:32.0,23,19,BOS,BRK,2,home,OffReb,,,OffReb,,K. Olynyk,
+95,1,0:28.0,23,19,BOS,BRK,4,home,LostBall,steal,,turnover,,K. Olynyk,S. Larkin
+96,1,0:04.0,23,19,BOS,BRK,24,away,JS,,11,miss2,0,T. Robinson,
+97,1,0:03.0,23,19,BOS,BRK,1,home,DefReb,,,DefReb,,E. Turner,
+98,2,11:41.0,25,19,BOS,BRK,19,home,JS,assist,5,make2,2,D. Lee,E. Turner
+99,2,11:25.0,25,21,BOS,BRK,16,away,JS,assist,18,make2,2,B. Lopez,S. Larkin
+100,2,11:05.0,27,21,BOS,BRK,20,home,JS,assist,18,make2,2,A. Bradley,J. Jerebko
+101,2,10:52.0,27,21,BOS,BRK,13,away,JS,,19,miss2,0,B. Lopez,
+102,2,10:51.0,27,21,BOS,BRK,1,home,DefReb,,,DefReb,,K. Olynyk,
+103,2,10:41.0,29,21,BOS,BRK,10,home,LU,assist,2,make2,2,D. Lee,E. Turner
+104,2,10:21.0,29,21,BOS,BRK,20,away,JS,,14,miss2,0,T. Robinson,
+105,2,10:21.0,29,21,BOS,BRK,0,away,OffReb,,,OffReb,,Team,
+106,2,10:21.0,29,21,BOS,BRK,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Lee,B. Lopez
+107,2,10:14.0,29,21,BOS,BRK,7,away,JS,,24,miss3,0,S. Larkin,
+108,2,10:13.0,29,21,BOS,BRK,1,home,DefReb,,,DefReb,,E. Turner,
+109,2,10:02.0,29,21,BOS,BRK,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Robinson,D. Lee
+110,2,10:02.0,30,21,BOS,BRK,0,home,FreeThrow,,,make1,1,D. Lee,
+111,2,10:02.0,30,21,BOS,BRK,0,away,Sub,,,,,A. Bargnani,T. Robinson
+112,2,10:02.0,30,21,BOS,BRK,0,home,FreeThrow,,,make1,0,D. Lee,
+113,2,10:01.0,30,21,BOS,BRK,1,away,DefReb,,,DefReb,,B. Lopez,
+114,2,9:42.0,30,23,BOS,BRK,19,away,JS,,6,make2,2,B. Lopez,
+115,2,9:29.0,32,23,BOS,BRK,13,home,LU,,0,make2,2,E. Turner,
+116,2,9:16.0,32,25,BOS,BRK,13,away,JS,assist,2,make2,2,S. Larkin,B. Lopez
+117,2,9:03.0,34,25,BOS,BRK,13,home,LU,assist,2,make2,2,D. Lee,K. Olynyk
+118,2,8:49.0,34,25,BOS,BRK,14,away,JS,,18,miss2,0,A. Bargnani,
+119,2,8:48.0,34,25,BOS,BRK,1,home,DefReb,,,DefReb,,A. Bradley,
+120,2,8:37.0,36,25,BOS,BRK,11,home,JS,assist,17,make2,2,A. Bradley,D. Lee
+121,2,8:30.0,36,25,BOS,BRK,7,away,Timeout,,,,,,
+122,2,8:30.0,36,25,BOS,BRK,0,home,Sub,,,,,M. Smart,J. Jerebko
+123,2,8:19.0,36,28,BOS,BRK,11,away,JS,assist,26,make3,3,S. Karasev,B. Lopez
+124,2,8:09.0,36,28,BOS,BRK,10,home,LostBall,,,turnover,,M. Smart,
+125,2,7:54.0,36,28,BOS,BRK,15,away,JS,,20,miss2,0,A. Bargnani,
+126,2,7:53.0,36,28,BOS,BRK,1,home,DefReb,,,DefReb,,D. Lee,
+127,2,7:42.0,38,28,BOS,BRK,11,home,HS,,5,make2,2,D. Lee,
+128,2,7:25.0,38,28,BOS,BRK,17,away,JS,,9,miss2,0,B. Bogdanović,
+129,2,7:24.0,38,28,BOS,BRK,1,away,OffReb,,,OffReb,,B. Lopez,
+130,2,7:24.0,38,30,BOS,BRK,0,away,JS,,0,make2,2,B. Lopez,
+131,2,7:08.0,38,30,BOS,BRK,16,home,JS,,25,miss3,0,E. Turner,
+132,2,7:07.0,38,30,BOS,BRK,1,away,DefReb,,,DefReb,,S. Larkin,
+133,2,6:51.0,38,33,BOS,BRK,16,away,JS,assist,26,make3,3,B. Bogdanović,A. Bargnani
+134,2,6:36.0,38,33,BOS,BRK,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Karasev,E. Turner
+135,2,6:36.0,38,33,BOS,BRK,0,home,Sub,,,,,I. Thomas,A. Bradley
+136,2,6:25.0,40,33,BOS,BRK,11,home,JS,assist,0,make2,2,D. Lee,E. Turner
+137,2,6:08.0,40,35,BOS,BRK,17,away,JS,assist,19,make2,2,B. Bogdanović,S. Larkin
+138,2,5:44.0,40,35,BOS,BRK,24,home,JS,,25,miss3,0,M. Smart,
+139,2,5:43.0,40,35,BOS,BRK,1,home,OffReb,,,OffReb,,E. Turner,
+140,2,5:37.0,42,35,BOS,BRK,6,home,LU,assist,2,make2,2,I. Thomas,E. Turner
+141,2,5:24.0,42,35,BOS,BRK,13,away,LU,,2,miss2,0,A. Bargnani,
+142,2,5:23.0,42,35,BOS,BRK,1,home,DefReb,,,DefReb,,K. Olynyk,
+143,2,5:17.0,42,35,BOS,BRK,6,home,JS,,25,miss3,0,K. Olynyk,
+144,2,5:16.0,42,35,BOS,BRK,1,away,DefReb,,,DefReb,,B. Lopez,
+145,2,5:09.0,42,35,BOS,BRK,7,away,JS,,27,miss3,0,B. Bogdanović,
+146,2,5:08.0,42,35,BOS,BRK,1,home,DefReb,,,DefReb,,D. Lee,
+147,2,5:03.0,42,35,BOS,BRK,5,home,BadPass,,,turnover,,E. Turner,
+148,2,5:03.0,42,35,BOS,BRK,0,away,Timeout,,,,,,
+149,2,5:03.0,42,35,BOS,BRK,0,home,Sub,,,,,J. Sullinger,K. Olynyk
+150,2,5:03.0,42,35,BOS,BRK,0,home,Sub,,,,,J. Crowder,E. Turner
+151,2,4:48.0,42,35,BOS,BRK,15,away,Traveling,,,turnover,,B. Bogdanović,
+152,2,4:48.0,42,35,BOS,BRK,0,away,Sub,,,,,T. Young,A. Bargnani
+153,2,4:37.0,45,35,BOS,BRK,11,home,JS,assist,23,make3,3,I. Thomas,D. Lee
+154,2,4:20.0,45,37,BOS,BRK,17,away,JS,,17,make2,2,S. Larkin,
+155,2,4:02.0,48,37,BOS,BRK,18,home,JS,assist,23,make3,3,I. Thomas,M. Smart
+156,2,3:48.0,48,37,BOS,BRK,14,away,JS,,19,miss2,0,B. Lopez,
+157,2,3:47.0,48,37,BOS,BRK,1,home,DefReb,,,DefReb,,D. Lee,
+158,2,3:41.0,51,37,BOS,BRK,6,home,JS,assist,25,make3,3,J. Crowder,M. Smart
+159,2,3:18.0,51,37,BOS,BRK,23,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lee,B. Bogdanović
+160,2,3:18.0,51,37,BOS,BRK,0,away,FreeThrow,,,make1,0,B. Bogdanović,
+161,2,3:18.0,51,37,BOS,BRK,0,away,OffReb,,,OffReb,,Team,
+162,2,3:18.0,51,37,BOS,BRK,0,away,Sub,,,,,J. Jack,S. Larkin
+163,2,3:18.0,51,37,BOS,BRK,0,away,Sub,,,,,J. Johnson,S. Karasev
+164,2,3:18.0,51,38,BOS,BRK,0,away,FreeThrow,,,make1,1,B. Bogdanović,
+165,2,2:59.0,51,38,BOS,BRK,19,home,LostBall,steal,,turnover,,I. Thomas,T. Young
+166,2,2:53.0,51,40,BOS,BRK,6,away,LU,assist,0,make2,2,T. Young,J. Jack
+167,2,2:41.0,51,40,BOS,BRK,12,home,Timeout,,,,,,
+168,2,2:41.0,51,40,BOS,BRK,0,away,Sub,,,,,R. Hollis-Jefferson,B. Bogdanović
+169,2,2:41.0,51,40,BOS,BRK,0,home,Sub,,,,,A. Bradley,M. Smart
+170,2,2:41.0,51,40,BOS,BRK,0,home,Sub,,,,,A. Johnson,D. Lee
+171,2,2:36.0,54,40,BOS,BRK,5,home,JS,assist,26,make3,3,J. Crowder,A. Johnson
+172,2,2:20.0,54,40,BOS,BRK,16,away,LostBall,steal,,turnover,,B. Lopez,A. Bradley
+173,2,2:15.0,56,40,BOS,BRK,5,home,LU,assist,0,make2,2,A. Bradley,J. Crowder
+174,2,1:59.0,56,40,BOS,BRK,16,away,LostBall,steal,,turnover,,J. Jack,A. Bradley
+175,2,1:56.0,56,40,BOS,BRK,3,away,DefGoaltending,,,DefGoaltending,,T. Young,
+176,2,1:56.0,58,40,BOS,BRK,0,home,LU,,0,make2,2,A. Bradley,
+177,2,1:39.0,58,40,BOS,BRK,17,away,HS,,7,miss2,0,T. Young,
+178,2,1:38.0,58,40,BOS,BRK,1,home,DefReb,,,DefReb,,J. Sullinger,
+179,2,1:32.0,61,40,BOS,BRK,6,home,JS,assist,27,make3,3,I. Thomas,J. Sullinger
+180,2,1:30.0,61,40,BOS,BRK,2,away,Timeout,,,,,,
+181,2,1:30.0,61,40,BOS,BRK,0,away,Sub,,,,,T. Robinson,B. Lopez
+182,2,1:20.0,61,40,BOS,BRK,10,away,JS,,20,miss2,0,J. Johnson,
+183,2,1:19.0,61,40,BOS,BRK,1,home,DefReb,,,DefReb,,Team,
+184,2,1:05.0,64,40,BOS,BRK,14,home,JS,assist,25,make3,3,I. Thomas,A. Johnson
+185,2,0:54.0,64,40,BOS,BRK,11,away,JS,block,3,miss2,0,T. Robinson,A. Johnson
+186,2,0:52.0,64,40,BOS,BRK,2,away,OffReb,,,OffReb,,T. Robinson,
+187,2,0:48.0,64,42,BOS,BRK,4,away,JS,,13,make2,2,J. Jack,
+188,2,0:31.0,66,42,BOS,BRK,17,home,LU,assist,0,make2,2,J. Sullinger,I. Thomas
+189,2,0:12.0,66,42,BOS,BRK,19,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Jack,I. Thomas
+190,2,0:12.0,66,42,BOS,BRK,0,away,OffensiveFoul,,,turnover,,J. Jack,
+191,2,0:03.0,66,42,BOS,BRK,9,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Young,A. Johnson
+192,2,0:03.0,66,42,BOS,BRK,0,home,Timeout,,,,,,
+193,2,0:03.0,66,42,BOS,BRK,0,away,Sub,,,,,S. Larkin,J. Johnson
+194,2,0:03.0,66,42,BOS,BRK,0,home,Sub,,,,,M. Smart,A. Johnson
+195,2,0:02.0,66,42,BOS,BRK,1,home,OutOfBounds,,,turnover,,M. Smart,
+196,2,0:00.0,66,42,BOS,BRK,2,away,JS,,27,miss3,0,J. Jack,
+197,2,0:00.0,66,42,BOS,BRK,0,away,OffReb,,,OffReb,,Team,
+198,3,11:43.0,66,42,BOS,BRK,17,home,LU,,0,miss2,0,J. Sullinger,
+199,3,11:42.0,66,42,BOS,BRK,1,away,DefReb,,,DefReb,,R. Hollis-Jefferson,
+200,3,11:25.0,66,42,BOS,BRK,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Smart,J. Jack
+201,3,11:25.0,66,43,BOS,BRK,0,away,FreeThrow,,,make1,1,J. Jack,
+202,3,11:25.0,66,44,BOS,BRK,0,away,FreeThrow,,,make1,1,J. Jack,
+203,3,11:06.0,68,44,BOS,BRK,19,home,LU,assist,0,make2,2,A. Johnson,I. Thomas
+204,3,10:48.0,68,44,BOS,BRK,18,away,JS,,26,miss3,0,J. Johnson,
+205,3,10:46.0,68,44,BOS,BRK,2,home,DefReb,,,DefReb,,M. Smart,
+206,3,10:43.0,70,44,BOS,BRK,3,home,DK,assist,0,make2,2,A. Johnson,M. Smart
+207,3,10:23.0,70,44,BOS,BRK,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Smart,J. Jack
+208,3,10:23.0,70,45,BOS,BRK,0,away,FreeThrow,,,make1,1,J. Jack,
+209,3,10:23.0,70,46,BOS,BRK,0,away,FreeThrow,,,make1,1,J. Jack,
+210,3,10:10.0,73,46,BOS,BRK,13,home,JS,assist,26,make3,3,M. Smart,A. Johnson
+211,3,9:50.0,73,46,BOS,BRK,20,away,LU,block,0,miss2,0,T. Young,A. Johnson
+212,3,9:49.0,73,46,BOS,BRK,1,home,DefReb,,,DefReb,,A. Johnson,
+213,3,9:43.0,73,46,BOS,BRK,6,home,JS,,26,miss3,0,I. Thomas,
+214,3,9:42.0,73,46,BOS,BRK,1,away,DefReb,,,DefReb,,R. Hollis-Jefferson,
+215,3,9:22.0,73,48,BOS,BRK,20,away,JS,,5,make2,2,T. Young,
+216,3,9:09.0,73,48,BOS,BRK,13,home,JS,,23,miss3,0,J. Crowder,
+217,3,9:08.0,73,48,BOS,BRK,1,away,DefReb,,,DefReb,,B. Lopez,
+218,3,9:06.0,73,48,BOS,BRK,2,away,LostBall,steal,,turnover,,J. Jack,J. Crowder
+219,3,9:04.0,75,48,BOS,BRK,2,home,LU,,2,make2,2,J. Crowder,
+220,3,8:42.0,75,48,BOS,BRK,22,away,HS,,6,miss2,0,T. Young,
+221,3,8:39.0,75,48,BOS,BRK,3,home,DefReb,,,DefReb,,J. Crowder,
+222,3,8:29.0,75,48,BOS,BRK,10,home,JumpBallViolation,,,JumpBallViolation,,Team,
+223,3,8:29.0,75,48,BOS,BRK,0,home,JumpBallViolation,,,turnover,,I. Thomas,
+224,3,8:11.0,75,48,BOS,BRK,18,away,LostBall,,,turnover,,R. Hollis-Jefferson,
+225,3,7:52.0,75,48,BOS,BRK,19,home,JS,,27,miss3,0,I. Thomas,
+226,3,7:51.0,75,48,BOS,BRK,1,away,DefReb,,,DefReb,,R. Hollis-Jefferson,
+227,3,7:40.0,75,51,BOS,BRK,11,away,JS,assist,24,make3,3,J. Jack,T. Young
+228,3,7:29.0,75,51,BOS,BRK,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hollis-Jefferson,M. Smart
+229,3,7:29.0,76,51,BOS,BRK,0,home,FreeThrow,,,make1,1,M. Smart,
+230,3,7:29.0,77,51,BOS,BRK,0,home,FreeThrow,,,make1,1,M. Smart,
+231,3,7:18.0,77,51,BOS,BRK,11,away,JS,,4,miss2,0,T. Young,
+232,3,7:17.0,77,51,BOS,BRK,1,home,DefReb,,,DefReb,,Team,
+233,3,7:02.0,79,51,BOS,BRK,15,home,JS,assist,21,make2,2,J. Sullinger,I. Thomas
+234,3,6:45.0,79,51,BOS,BRK,17,away,JS,,16,miss2,0,B. Lopez,
+235,3,6:45.0,79,51,BOS,BRK,0,away,OffReb,,,OffReb,,Team,
+236,3,6:45.0,79,51,BOS,BRK,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Smart,R. Hollis-Jefferson
+237,3,6:45.0,79,51,BOS,BRK,0,home,Sub,,,,,A. Bradley,M. Smart
+238,3,6:26.0,79,51,BOS,BRK,19,away,HS,,3,miss2,0,T. Young,
+239,3,6:25.0,79,51,BOS,BRK,1,away,OffReb,,,OffReb,,B. Lopez,
+240,3,6:24.0,79,51,BOS,BRK,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crowder,B. Lopez
+241,3,6:24.0,79,52,BOS,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
+242,3,6:24.0,79,52,BOS,BRK,0,away,Sub,,,,,S. Larkin,J. Johnson
+243,3,6:24.0,79,53,BOS,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
+244,3,6:09.0,79,53,BOS,BRK,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Lopez,J. Sullinger
+245,3,6:09.0,80,53,BOS,BRK,0,home,FreeThrow,,,make1,1,J. Sullinger,
+246,3,6:09.0,81,53,BOS,BRK,0,home,FreeThrow,,,make1,1,J. Sullinger,
+247,3,5:50.0,81,53,BOS,BRK,19,away,JS,,13,miss2,0,T. Young,
+248,3,5:49.0,81,53,BOS,BRK,1,away,OffReb,,,OffReb,,B. Lopez,
+249,3,5:43.0,81,53,BOS,BRK,6,away,LU,,2,miss2,0,J. Jack,
+250,3,5:42.0,81,53,BOS,BRK,1,home,DefReb,,,DefReb,,A. Bradley,
+251,3,5:25.0,81,53,BOS,BRK,17,home,JS,,17,miss2,0,J. Sullinger,
+252,3,5:24.0,81,53,BOS,BRK,1,away,DefReb,,,DefReb,,T. Young,
+253,3,5:11.0,81,53,BOS,BRK,13,away,BadPass,steal,,turnover,,S. Larkin,I. Thomas
+254,3,5:10.0,81,53,BOS,BRK,1,home,Timeout,,,,,,
+255,3,5:10.0,81,53,BOS,BRK,0,home,Sub,,,,,K. Olynyk,J. Sullinger
+256,3,4:56.0,83,53,BOS,BRK,14,home,JS,assist,2,make2,2,K. Olynyk,A. Johnson
+257,3,4:39.0,83,55,BOS,BRK,17,away,HS,,11,make2,2,B. Lopez,
+258,3,4:26.0,83,55,BOS,BRK,13,home,JS,,19,miss2,0,A. Bradley,
+259,3,4:25.0,83,55,BOS,BRK,1,away,DefReb,,,DefReb,,T. Young,
+260,3,4:12.0,83,57,BOS,BRK,13,away,JS,assist,4,make2,2,B. Lopez,J. Jack
+261,3,4:08.0,83,57,BOS,BRK,4,home,BadPass,steal,,turnover,,A. Johnson,S. Larkin
+262,3,4:08.0,83,57,BOS,BRK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,S. Larkin
+263,3,4:08.0,83,58,BOS,BRK,0,away,FreeThrow,,,make1,1,S. Larkin,
+264,3,4:08.0,83,58,BOS,BRK,0,home,Sub,,,,,E. Turner,I. Thomas
+265,3,4:08.0,83,58,BOS,BRK,0,away,FreeThrow,,,make1,0,S. Larkin,
+266,3,4:08.0,83,58,BOS,BRK,0,away,OffReb,,,OffReb,,S. Larkin,
+267,3,4:00.0,83,58,BOS,BRK,8,away,JS,,27,miss3,0,R. Hollis-Jefferson,
+268,3,3:59.0,83,58,BOS,BRK,1,away,OffReb,,,OffReb,,T. Young,
+269,3,3:59.0,83,60,BOS,BRK,0,away,JS,,1,make2,2,T. Young,
+270,3,3:59.0,83,60,BOS,BRK,0,home,Timeout,,,,,,
+271,3,3:41.0,83,60,BOS,BRK,18,home,JS,,7,miss2,0,A. Johnson,
+272,3,3:40.0,83,60,BOS,BRK,1,home,OffReb,,,OffReb,,K. Olynyk,
+273,3,3:40.0,83,60,BOS,BRK,0,home,JS,,1,miss2,0,K. Olynyk,
+274,3,3:39.0,83,60,BOS,BRK,1,away,DefReb,,,DefReb,,R. Hollis-Jefferson,
+275,3,3:38.0,83,60,BOS,BRK,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Olynyk,R. Hollis-Jefferson
+276,3,3:38.0,83,60,BOS,BRK,0,away,FreeThrow,,,make1,0,R. Hollis-Jefferson,
+277,3,3:38.0,83,60,BOS,BRK,0,away,OffReb,,,OffReb,,Team,
+278,3,3:38.0,83,60,BOS,BRK,0,home,Sub,,,,,D. Lee,A. Johnson
+279,3,3:38.0,83,61,BOS,BRK,0,away,FreeThrow,,,make1,1,R. Hollis-Jefferson,
+280,3,3:27.0,83,61,BOS,BRK,11,home,BadPass,steal,,turnover,,J. Crowder,R. Hollis-Jefferson
+281,3,3:26.0,83,61,BOS,BRK,1,away,LostBall,,,turnover,,R. Hollis-Jefferson,
+282,3,3:18.0,83,61,BOS,BRK,8,home,JS,,26,miss3,0,K. Olynyk,
+283,3,3:17.0,83,61,BOS,BRK,1,away,DefReb,,,DefReb,,S. Larkin,
+284,3,3:03.0,83,61,BOS,BRK,14,away,LU,,1,miss2,0,T. Young,
+285,3,3:02.0,83,61,BOS,BRK,1,away,OffReb,,,OffReb,,R. Hollis-Jefferson,
+286,3,3:02.0,83,61,BOS,BRK,0,away,LU,,0,miss2,0,R. Hollis-Jefferson,
+287,3,3:00.0,83,61,BOS,BRK,2,away,OffReb,,,OffReb,,T. Young,
+288,3,2:59.0,83,61,BOS,BRK,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,T. Young
+289,3,2:59.0,83,61,BOS,BRK,0,away,Timeout,,,,,,
+290,3,2:59.0,83,61,BOS,BRK,0,away,Sub,,,,,A. Bargnani,B. Lopez
+291,3,2:59.0,83,61,BOS,BRK,0,away,FreeThrow,,,make1,0,T. Young,
+292,3,2:59.0,83,61,BOS,BRK,0,away,OffReb,,,OffReb,,Team,
+293,3,2:59.0,83,61,BOS,BRK,0,away,FreeThrow,,,make1,0,T. Young,
+294,3,2:59.0,83,61,BOS,BRK,0,home,DefReb,,,DefReb,,K. Olynyk,
+295,3,2:40.0,85,61,BOS,BRK,19,home,JS,assist,19,make2,2,A. Bradley,K. Olynyk
+296,3,2:18.0,85,61,BOS,BRK,22,away,JS,,17,miss2,0,A. Bargnani,
+297,3,2:17.0,85,61,BOS,BRK,1,home,DefReb,,,DefReb,,J. Crowder,
+298,3,2:02.0,85,61,BOS,BRK,15,home,JS,,25,miss3,0,J. Crowder,
+299,3,2:01.0,85,61,BOS,BRK,1,away,DefReb,,,DefReb,,T. Young,
+300,3,1:56.0,85,61,BOS,BRK,5,away,JS,,26,miss3,0,J. Jack,
+301,3,1:56.0,85,61,BOS,BRK,0,home,DefReb,,,DefReb,,Team,
+302,3,1:43.0,87,61,BOS,BRK,13,home,JS,assist,17,make2,2,A. Bradley,D. Lee
+303,3,1:23.0,87,64,BOS,BRK,20,away,JS,assist,26,make3,3,R. Hollis-Jefferson,S. Larkin
+304,3,1:08.0,89,64,BOS,BRK,15,home,JS,assist,0,make2,2,A. Bradley,K. Olynyk
+305,3,0:49.0,89,66,BOS,BRK,19,away,LU,assist,2,make2,2,A. Bargnani,J. Jack
+306,3,0:49.0,89,66,BOS,BRK,0,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,K. Olynyk,A. Bargnani
+307,3,0:49.0,89,66,BOS,BRK,0,away,Sub,,,,,S. Karasev,J. Jack
+308,3,0:49.0,89,66,BOS,BRK,0,away,Sub,,,,,B. Bogdanović,R. Hollis-Jefferson
+309,3,0:49.0,89,66,BOS,BRK,0,home,Sub,,,,,J. Jerebko,J. Crowder
+310,3,0:49.0,89,67,BOS,BRK,0,away,FreeThrow,,,make1,1,A. Bargnani,
+311,3,0:34.0,89,67,BOS,BRK,15,home,BadPass,,,turnover,,D. Lee,
+312,3,0:18.0,89,67,BOS,BRK,16,away,BadPass,steal,,turnover,,S. Larkin,D. Lee
+313,3,0:02.0,89,67,BOS,BRK,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bargnani,E. Turner
+314,3,0:02.0,90,67,BOS,BRK,0,home,FreeThrow,,,make1,1,E. Turner,
+315,3,0:02.0,91,67,BOS,BRK,0,home,FreeThrow,,,make1,1,E. Turner,
+316,3,0:00.0,91,67,BOS,BRK,2,away,JS,,61,miss3,0,S. Karasev,
+317,3,0:00.0,91,67,BOS,BRK,0,away,OffReb,,,OffReb,,Team,
+318,4,11:45.0,91,67,BOS,BRK,15,away,LU,block,1,miss2,0,B. Bogdanović,D. Lee
+319,4,11:44.0,91,67,BOS,BRK,1,away,OffReb,,,OffReb,,A. Bargnani,
+320,4,11:42.0,91,67,BOS,BRK,2,away,LU,,2,miss2,0,S. Larkin,
+321,4,11:41.0,91,67,BOS,BRK,1,away,OffReb,,,OffReb,,Team,
+322,4,11:36.0,91,69,BOS,BRK,5,away,JS,assist,3,make2,2,A. Bargnani,S. Karasev
+323,4,11:10.0,94,69,BOS,BRK,26,home,JS,assist,23,make3,3,A. Bradley,M. Smart
+324,4,10:56.0,94,69,BOS,BRK,14,away,JS,,23,miss3,0,S. Larkin,
+325,4,10:55.0,94,69,BOS,BRK,1,home,DefReb,,,DefReb,,J. Jerebko,
+326,4,10:48.0,94,69,BOS,BRK,7,home,JS,,26,miss3,0,J. Jerebko,
+327,4,10:47.0,94,69,BOS,BRK,1,away,DefReb,,,DefReb,,T. Robinson,
+328,4,10:37.0,94,71,BOS,BRK,10,away,JS,,17,make2,2,S. Larkin,
+329,4,10:13.0,96,71,BOS,BRK,24,home,LU,,1,make2,2,E. Turner,
+330,4,9:48.0,96,71,BOS,BRK,25,away,JS,,6,miss2,0,S. Larkin,
+331,4,9:47.0,96,71,BOS,BRK,1,away,OffReb,,,OffReb,,Team,
+332,4,9:47.0,96,71,BOS,BRK,0,away,ShotClockViolation,,,turnover,,Team,
+333,4,9:35.0,96,71,BOS,BRK,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Bogdanović,E. Turner
+334,4,9:29.0,96,71,BOS,BRK,6,home,LostBall,steal,,turnover,,D. Lee,S. Karasev
+335,4,9:26.0,96,71,BOS,BRK,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Smart,T. Robinson
+336,4,9:26.0,96,72,BOS,BRK,0,away,FreeThrow,,,make1,1,T. Robinson,
+337,4,9:26.0,96,72,BOS,BRK,0,home,Sub,,,,,I. Thomas,M. Smart
+338,4,9:26.0,96,72,BOS,BRK,0,home,Sub,,,,,T. Zeller,D. Lee
+339,4,9:26.0,96,73,BOS,BRK,0,away,FreeThrow,,,make1,1,T. Robinson,
+340,4,9:10.0,96,73,BOS,BRK,16,home,HS,,7,miss2,0,J. Jerebko,
+341,4,9:09.0,96,73,BOS,BRK,1,away,DefReb,,,DefReb,,T. Robinson,
+342,4,8:55.0,96,73,BOS,BRK,14,away,JS,,4,miss2,0,T. Robinson,
+343,4,8:54.0,96,73,BOS,BRK,1,home,DefReb,,,DefReb,,I. Thomas,
+344,4,8:38.0,98,73,BOS,BRK,16,home,JS,,12,make2,2,I. Thomas,
+345,4,8:38.0,98,73,BOS,BRK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Karasev,I. Thomas
+346,4,8:38.0,98,73,BOS,BRK,0,away,Timeout,,,,,,
+347,4,8:38.0,98,73,BOS,BRK,0,away,Sub,,,,,W. Ellington,T. Robinson
+348,4,8:38.0,98,73,BOS,BRK,0,home,FreeThrow,,,make1,0,I. Thomas,
+349,4,8:37.0,98,73,BOS,BRK,1,away,DefReb,,,DefReb,,B. Bogdanović,
+350,4,8:23.0,98,73,BOS,BRK,14,away,JS,,15,miss2,0,A. Bargnani,
+351,4,8:22.0,98,73,BOS,BRK,1,home,DefReb,,,DefReb,,E. Turner,
+352,4,8:08.0,100,73,BOS,BRK,14,home,LU,assist,0,make2,2,A. Bradley,T. Zeller
+353,4,7:53.0,100,73,BOS,BRK,15,away,HS,,4,miss2,0,B. Bogdanović,
+354,4,7:52.0,100,73,BOS,BRK,1,home,DefReb,,,DefReb,,T. Zeller,
+355,4,7:41.0,102,73,BOS,BRK,11,home,JS,,6,make2,2,E. Turner,
+356,4,7:28.0,102,73,BOS,BRK,13,away,LU,,1,miss2,0,A. Bargnani,
+357,4,7:27.0,102,73,BOS,BRK,1,home,DefReb,,,DefReb,,T. Zeller,
+358,4,7:22.0,102,73,BOS,BRK,5,home,JS,,26,miss3,0,J. Jerebko,
+359,4,7:21.0,102,73,BOS,BRK,1,away,DefReb,,,DefReb,,Team,
+360,4,7:11.0,102,75,BOS,BRK,10,away,JS,,17,make2,2,S. Karasev,
+361,4,6:59.0,104,75,BOS,BRK,12,home,JS,assist,1,make2,2,T. Zeller,I. Thomas
+362,4,6:38.0,104,78,BOS,BRK,21,away,JS,,25,make3,3,B. Bogdanović,
+363,4,6:25.0,106,78,BOS,BRK,13,home,LU,,2,make2,2,I. Thomas,
+364,4,6:13.0,106,78,BOS,BRK,12,away,BadPass,,,turnover,,B. Bogdanović,
+365,4,6:13.0,106,78,BOS,BRK,0,home,Sub,,,,,R. Hunter,A. Bradley
+366,4,5:56.0,106,78,BOS,BRK,17,home,HS,,5,miss2,0,T. Zeller,
+367,4,5:55.0,106,78,BOS,BRK,1,away,DefReb,,,DefReb,,A. Bargnani,
+368,4,5:41.0,106,81,BOS,BRK,14,away,JS,,26,make3,3,W. Ellington,
+369,4,5:32.0,106,81,BOS,BRK,9,home,BadPass,steal,,turnover,,I. Thomas,S. Larkin
+370,4,5:31.0,106,81,BOS,BRK,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jerebko,B. Bogdanović
+371,4,5:31.0,106,81,BOS,BRK,0,home,Timeout,,,,,,
+372,4,5:31.0,106,81,BOS,BRK,0,home,Sub,,,,,K. Olynyk,I. Thomas
+373,4,5:31.0,106,81,BOS,BRK,0,away,Sub,,,,,M. Brown,B. Bogdanović
+374,4,5:31.0,106,81,BOS,BRK,0,away,Sub,,,,,R. Hollis-Jefferson,A. Bargnani
+375,4,5:31.0,106,81,BOS,BRK,0,away,Sub,,,,,T. Robinson,W. Ellington
+376,4,5:21.0,106,81,BOS,BRK,10,away,LostBall,,,turnover,,S. Karasev,
+377,4,5:05.0,106,81,BOS,BRK,16,home,HS,,3,miss2,0,T. Zeller,
+378,4,5:04.0,106,81,BOS,BRK,1,away,DefReb,,,DefReb,,R. Hollis-Jefferson,
+379,4,4:55.0,106,81,BOS,BRK,9,away,JS,,4,miss2,0,M. Brown,
+380,4,4:54.0,106,81,BOS,BRK,1,away,OffReb,,,OffReb,,R. Hollis-Jefferson,
+381,4,4:49.0,106,83,BOS,BRK,5,away,LU,assist,1,make2,2,T. Robinson,R. Hollis-Jefferson
+382,4,4:41.0,108,83,BOS,BRK,8,home,LU,assist,2,make2,2,K. Olynyk,E. Turner
+383,4,4:27.0,108,83,BOS,BRK,14,away,JS,,26,miss3,0,S. Karasev,
+384,4,4:26.0,108,83,BOS,BRK,1,home,DefReb,,,DefReb,,K. Olynyk,
+385,4,4:17.0,108,83,BOS,BRK,9,home,BadPass,steal,,turnover,,E. Turner,R. Hollis-Jefferson
+386,4,4:09.0,108,86,BOS,BRK,8,away,JS,assist,26,make3,3,S. Larkin,M. Brown
+387,4,3:53.0,108,86,BOS,BRK,16,home,BadPass,steal,,turnover,,K. Olynyk,S. Larkin
+388,4,3:37.0,108,86,BOS,BRK,16,away,JS,,24,miss3,0,R. Hollis-Jefferson,
+389,4,3:37.0,108,86,BOS,BRK,0,away,OffReb,,,OffReb,,T. Robinson,
+390,4,3:37.0,108,86,BOS,BRK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,T. Robinson
+391,4,3:37.0,108,86,BOS,BRK,0,away,FreeThrow,,,make1,0,T. Robinson,
+392,4,3:37.0,108,86,BOS,BRK,0,away,OffReb,,,OffReb,,Team,
+393,4,3:37.0,108,86,BOS,BRK,0,away,FreeThrow,,,make1,0,T. Robinson,
+394,4,3:37.0,108,86,BOS,BRK,0,home,DefReb,,,DefReb,,T. Zeller,
+395,4,3:21.0,110,86,BOS,BRK,16,home,JS,assist,20,make2,2,R. Hunter,E. Turner
+396,4,3:04.0,110,86,BOS,BRK,17,away,LU,block,0,miss2,0,M. Brown,E. Turner
+397,4,3:02.0,110,86,BOS,BRK,2,home,DefReb,,,DefReb,,K. Olynyk,
+398,4,2:57.0,112,86,BOS,BRK,5,home,LU,assist,1,make2,2,E. Turner,K. Olynyk
+399,4,2:48.0,112,88,BOS,BRK,9,away,DK,assist,0,make2,2,T. Robinson,R. Hollis-Jefferson
+400,4,2:40.0,112,88,BOS,BRK,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Brown,J. Jerebko
+401,4,2:40.0,112,88,BOS,BRK,0,away,Timeout,,,,,,
+402,4,2:24.0,112,88,BOS,BRK,16,home,JS,,29,miss3,0,R. Hunter,
+403,4,2:23.0,112,88,BOS,BRK,1,home,OffReb,,,OffReb,,J. Jerebko,
+404,4,2:23.0,112,88,BOS,BRK,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Karasev,J. Jerebko
+405,4,2:09.0,114,88,BOS,BRK,14,home,DK,assist,0,make2,2,T. Zeller,K. Olynyk
+406,4,2:09.0,114,88,BOS,BRK,0,away,TechnicalFoul,,,TechnicalFoul,,M. Brown,
+407,4,2:09.0,115,88,BOS,BRK,0,home,FreeThrow,,,make1,1,J. Jerebko makes technical free throw,
+408,4,1:57.0,115,88,BOS,BRK,12,away,JS,,26,miss3,0,R. Hollis-Jefferson,
+409,4,1:56.0,115,88,BOS,BRK,1,home,DefReb,,,DefReb,,E. Turner,
+410,4,1:44.0,118,88,BOS,BRK,12,home,JS,assist,24,make3,3,R. Hunter,E. Turner
+411,4,1:30.0,118,88,BOS,BRK,14,away,JS,,19,miss2,0,M. Brown,
+412,4,1:29.0,118,88,BOS,BRK,1,home,DefReb,,,DefReb,,K. Olynyk,
+413,4,1:28.0,118,88,BOS,BRK,1,home,LostBall,steal,,turnover,,K. Olynyk,R. Hollis-Jefferson
+414,4,1:26.0,118,90,BOS,BRK,2,away,LU,,0,make2,2,R. Hollis-Jefferson,
+415,4,1:26.0,118,90,BOS,BRK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,R. Hollis-Jefferson
+416,4,1:26.0,118,90,BOS,BRK,0,home,Sub,,,,,D. Lee,K. Olynyk
+417,4,1:26.0,118,91,BOS,BRK,0,away,FreeThrow,,,make1,1,R. Hollis-Jefferson,
+418,4,1:12.0,118,91,BOS,BRK,14,home,JS,,28,miss3,0,R. Hunter,
+419,4,1:11.0,118,91,BOS,BRK,1,home,OffReb,,,OffReb,,T. Zeller,
+420,4,1:09.0,120,91,BOS,BRK,2,home,JS,,1,make2,2,T. Zeller,
+421,4,0:59.0,120,91,BOS,BRK,10,away,JS,,3,miss2,0,R. Hollis-Jefferson,
+422,4,0:58.0,120,91,BOS,BRK,1,away,OffReb,,,OffReb,,R. Hollis-Jefferson,
+423,4,0:58.0,120,93,BOS,BRK,0,away,JS,,1,make2,2,R. Hollis-Jefferson,
+424,4,0:41.0,120,93,BOS,BRK,17,home,JS,,29,miss3,0,R. Hunter,
+425,4,0:39.0,120,93,BOS,BRK,2,away,DefReb,,,DefReb,,R. Hollis-Jefferson,
+426,4,0:36.0,120,93,BOS,BRK,3,away,LostBall,,,turnover,,R. Hollis-Jefferson,
+427,4,0:31.0,120,93,BOS,BRK,5,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Lee,M. Brown
+428,4,0:31.0,120,93,BOS,BRK,0,home,OffensiveFoul,,,turnover,,D. Lee,
+429,4,0:18.0,120,93,BOS,BRK,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hunter,S. Karasev
+430,4,0:18.0,120,94,BOS,BRK,0,away,FreeThrow,,,make1,1,M. Brown,
+431,4,0:18.0,120,95,BOS,BRK,0,away,FreeThrow,,,make1,1,M. Brown,

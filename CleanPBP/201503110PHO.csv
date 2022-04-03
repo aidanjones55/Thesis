@@ -1,0 +1,424 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:35.0,0,0,PHO,MIN,25,away,JS,,19,miss2,0,A. Payne,
+1,1,11:34.0,0,0,PHO,MIN,1,home,DefReb,,,DefReb,,P. Tucker,
+2,1,11:12.0,0,0,PHO,MIN,22,home,JS,,24,miss3,0,M. Morris,
+3,1,11:11.0,0,0,PHO,MIN,1,away,DefReb,,,DefReb,,K. Martin,
+4,1,11:01.0,0,0,PHO,MIN,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,A. Payne
+5,1,11:01.0,0,1,PHO,MIN,0,away,FreeThrow,,,make1,1,A. Payne,
+6,1,11:01.0,0,2,PHO,MIN,0,away,FreeThrow,,,make1,1,A. Payne,
+7,1,10:53.0,0,2,PHO,MIN,8,home,BadPass,,,turnover,,M. Morris,
+8,1,10:37.0,0,2,PHO,MIN,16,away,LostBall,,,turnover,,N. Peković,
+9,1,10:18.0,0,2,PHO,MIN,19,home,BadPass,,,turnover,,E. Bledsoe,
+10,1,10:04.0,0,4,PHO,MIN,14,away,LU,,1,make2,2,A. Wiggins,
+11,1,9:45.0,0,4,PHO,MIN,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Payne,M. Morris
+12,1,9:45.0,1,4,PHO,MIN,0,home,FreeThrow,,,make1,1,M. Morris,
+13,1,9:45.0,2,4,PHO,MIN,0,home,FreeThrow,,,make1,1,M. Morris,
+14,1,9:26.0,2,4,PHO,MIN,19,away,JS,,4,miss2,0,N. Peković,
+15,1,9:25.0,2,4,PHO,MIN,1,home,DefReb,,,DefReb,,M. Morris,
+16,1,9:16.0,5,4,PHO,MIN,9,home,JS,assist,24,make3,3,E. Bledsoe,A. Len
+17,1,8:52.0,5,4,PHO,MIN,24,away,JS,,14,miss2,0,R. Rubio,
+18,1,8:51.0,5,4,PHO,MIN,1,home,DefReb,,,DefReb,,M. Morris,
+19,1,8:47.0,7,4,PHO,MIN,4,home,DK,assist,0,make2,2,M. Morris,M. Morris
+20,1,8:25.0,7,6,PHO,MIN,22,away,DK,,0,make2,2,A. Payne,
+21,1,8:11.0,9,6,PHO,MIN,14,home,JS,,19,make2,2,P. Tucker,
+22,1,7:58.0,9,6,PHO,MIN,13,away,JS,,18,miss2,0,A. Wiggins,
+23,1,7:57.0,9,6,PHO,MIN,1,away,OffReb,,,OffReb,,N. Peković,
+24,1,7:55.0,9,6,PHO,MIN,2,away,LU,,0,miss2,0,N. Peković,
+25,1,7:54.0,9,6,PHO,MIN,1,away,OffReb,,,OffReb,,A. Wiggins,
+26,1,7:54.0,9,6,PHO,MIN,0,away,LU,,0,miss2,0,A. Wiggins,
+27,1,7:53.0,9,6,PHO,MIN,1,home,DefReb,,,DefReb,,A. Len,
+28,1,7:45.0,9,6,PHO,MIN,8,home,JS,,17,miss2,0,A. Len,
+29,1,7:44.0,9,6,PHO,MIN,1,home,OffReb,,,OffReb,,Team,
+30,1,7:34.0,11,6,PHO,MIN,10,home,LU,,0,make2,2,E. Bledsoe,
+31,1,7:31.0,11,6,PHO,MIN,3,away,Timeout,,,,,,
+32,1,7:09.0,11,8,PHO,MIN,22,away,LU,,1,make2,2,A. Payne,
+33,1,6:50.0,11,8,PHO,MIN,19,home,BadPass,steal,,turnover,,E. Bledsoe,A. Wiggins
+34,1,6:46.0,11,10,PHO,MIN,4,away,DK,assist,0,make2,2,A. Wiggins,R. Rubio
+35,1,6:30.0,13,10,PHO,MIN,16,home,JS,,10,make2,2,M. Morris,
+36,1,6:13.0,13,10,PHO,MIN,17,away,LU,,0,miss2,0,R. Rubio,
+37,1,6:12.0,13,10,PHO,MIN,1,home,DefReb,,,DefReb,,A. Len,
+38,1,6:06.0,16,10,PHO,MIN,6,home,JS,assist,24,make3,3,M. Morris,E. Bledsoe
+39,1,5:46.0,16,10,PHO,MIN,20,away,JS,,11,miss2,0,N. Peković,
+40,1,5:44.0,16,10,PHO,MIN,2,away,OffReb,,,OffReb,,R. Rubio,
+41,1,5:40.0,16,12,PHO,MIN,4,away,JS,assist,20,make2,2,R. Rubio,N. Peković
+42,1,5:21.0,18,12,PHO,MIN,19,home,JS,assist,18,make2,2,A. Len,P. Tucker
+43,1,5:03.0,18,14,PHO,MIN,18,away,JS,assist,18,make2,2,A. Payne,R. Rubio
+44,1,4:44.0,18,14,PHO,MIN,19,home,JS,,10,miss2,0,M. Morris,
+45,1,4:43.0,18,14,PHO,MIN,1,home,OffReb,,,OffReb,,M. Morris,
+46,1,4:32.0,20,14,PHO,MIN,11,home,LU,assist,0,make2,2,M. Morris,M. Morris
+47,1,4:15.0,20,14,PHO,MIN,17,away,JS,block,20,miss2,0,A. Wiggins,M. Morris
+48,1,4:14.0,20,14,PHO,MIN,1,away,OffReb,,,OffReb,,A. Wiggins,
+49,1,4:11.0,20,14,PHO,MIN,3,away,JS,,23,miss3,0,R. Rubio,
+50,1,4:11.0,20,14,PHO,MIN,0,home,DefReb,,,DefReb,,M. Morris,
+51,1,4:08.0,20,14,PHO,MIN,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,E. Bledsoe
+52,1,4:08.0,20,14,PHO,MIN,0,away,Sub,,,,,G. Dieng,N. Peković
+53,1,4:08.0,20,14,PHO,MIN,0,away,Sub,,,,,G. Neal,K. Martin
+54,1,4:08.0,20,14,PHO,MIN,0,home,Sub,,,,,M. Thornton,P. Tucker
+55,1,4:03.0,23,14,PHO,MIN,5,home,JS,assist,24,make3,3,M. Morris,M. Morris
+56,1,3:45.0,23,14,PHO,MIN,18,away,JS,,24,miss3,0,R. Rubio,
+57,1,3:44.0,23,14,PHO,MIN,1,home,DefReb,,,DefReb,,A. Len,
+58,1,3:35.0,23,14,PHO,MIN,9,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Morris,R. Rubio
+59,1,3:35.0,23,14,PHO,MIN,0,home,OffensiveFoul,,,turnover,,M. Morris,
+60,1,3:35.0,23,14,PHO,MIN,0,home,DelayOfGame,,,DelayOfGame,,Team,
+61,1,3:35.0,23,14,PHO,MIN,0,home,Sub,,,,,B. Wright,A. Len
+62,1,3:13.0,23,14,PHO,MIN,22,away,JS,,4,miss2,0,G. Neal,
+63,1,3:12.0,23,14,PHO,MIN,1,away,OffReb,,,OffReb,,R. Rubio,
+64,1,3:04.0,23,14,PHO,MIN,8,away,JS,,19,miss2,0,A. Payne,
+65,1,3:03.0,23,14,PHO,MIN,1,away,OffReb,,,OffReb,,G. Dieng,
+66,1,2:57.0,23,14,PHO,MIN,6,away,JS,,20,miss2,0,A. Payne,
+67,1,2:56.0,23,14,PHO,MIN,1,home,DefReb,,,DefReb,,Team,
+68,1,2:54.0,23,14,PHO,MIN,2,home,Timeout,,,,,,
+69,1,2:41.0,23,14,PHO,MIN,13,home,JS,,24,miss3,0,M. Thornton,
+70,1,2:40.0,23,14,PHO,MIN,1,away,DefReb,,,DefReb,,A. Wiggins,
+71,1,2:21.0,23,14,PHO,MIN,19,away,JS,,24,miss3,0,R. Rubio,
+72,1,2:20.0,23,14,PHO,MIN,1,home,DefReb,,,DefReb,,M. Morris,
+73,1,2:11.0,25,14,PHO,MIN,9,home,LU,assist,1,make2,2,B. Wright,E. Bledsoe
+74,1,1:57.0,25,14,PHO,MIN,14,away,JS,,21,miss2,0,G. Neal,
+75,1,1:56.0,25,14,PHO,MIN,1,home,DefReb,,,DefReb,,E. Bledsoe,
+76,1,1:40.0,25,14,PHO,MIN,16,home,JS,,25,miss3,0,M. Morris,
+77,1,1:39.0,25,14,PHO,MIN,1,away,DefReb,,,DefReb,,A. Payne,
+78,1,1:33.0,25,16,PHO,MIN,6,away,JS,,4,make2,2,A. Wiggins,
+79,1,1:19.0,25,16,PHO,MIN,14,home,JS,,23,miss3,0,M. Morris,
+80,1,1:18.0,25,16,PHO,MIN,1,away,DefReb,,,DefReb,,G. Neal,
+81,1,1:09.0,25,18,PHO,MIN,9,away,JS,assist,14,make2,2,G. Dieng,A. Wiggins
+82,1,0:49.0,25,18,PHO,MIN,20,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,B. Wright
+83,1,0:45.0,25,18,PHO,MIN,4,home,Sub,,,,,A. Goodwin,E. Bledsoe
+84,1,0:41.0,25,18,PHO,MIN,4,away,Sub,,,,,Z. LaVine,R. Rubio
+85,1,0:36.0,25,18,PHO,MIN,5,home,JS,,14,miss2,0,M. Morris,
+86,1,0:35.0,25,18,PHO,MIN,1,away,DefReb,,,DefReb,,G. Neal,
+87,1,0:30.0,25,18,PHO,MIN,5,away,JS,,14,miss2,0,G. Neal,
+88,1,0:29.0,25,18,PHO,MIN,1,home,DefReb,,,DefReb,,Team,
+89,1,0:05.0,25,18,PHO,MIN,24,home,JS,,14,miss2,0,B. Wright,
+90,1,0:04.0,25,18,PHO,MIN,1,home,OffReb,,,OffReb,,M. Morris,
+91,1,0:00.0,25,18,PHO,MIN,4,home,JS,,24,miss3,0,M. Morris,
+92,1,0:00.0,25,18,PHO,MIN,0,home,OffReb,,,OffReb,,Team,
+93,2,11:46.0,27,18,PHO,MIN,14,home,JS,assist,4,make2,2,M. Thornton,P. Tucker
+94,2,11:25.0,27,20,PHO,MIN,21,away,JS,assist,15,make2,2,C. Budinger,A. Payne
+95,2,11:07.0,27,20,PHO,MIN,18,home,JS,,23,miss3,0,P. Tucker,
+96,2,11:06.0,27,20,PHO,MIN,1,home,OffReb,,,OffReb,,M. Thornton,
+97,2,11:04.0,29,20,PHO,MIN,2,home,LU,,1,make2,2,M. Thornton,
+98,2,10:55.0,29,20,PHO,MIN,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Goodwin,G. Dieng
+99,2,10:47.0,29,22,PHO,MIN,8,away,LU,,2,make2,2,G. Neal,
+100,2,10:23.0,29,22,PHO,MIN,24,home,JS,,4,miss2,0,B. Wright,
+101,2,10:22.0,29,22,PHO,MIN,1,home,OffReb,,,OffReb,,A. Goodwin,
+102,2,10:22.0,29,22,PHO,MIN,0,home,LU,,0,miss2,0,A. Goodwin,
+103,2,10:19.0,29,22,PHO,MIN,3,away,DefReb,,,DefReb,,A. Payne,
+104,2,10:14.0,29,22,PHO,MIN,5,away,LU,,1,miss2,0,Z. LaVine,
+105,2,10:12.0,29,22,PHO,MIN,2,away,OffReb,,,OffReb,,Z. LaVine,
+106,2,10:12.0,29,24,PHO,MIN,0,away,LU,,0,make2,2,Z. LaVine,
+107,2,9:55.0,29,24,PHO,MIN,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Neal,M. Thornton
+108,2,9:55.0,31,24,PHO,MIN,0,home,JS,assist,9,make2,2,M. Thornton,B. Wright
+109,2,9:55.0,32,24,PHO,MIN,0,home,FreeThrow,,,make1,1,M. Thornton,
+110,2,9:44.0,32,24,PHO,MIN,11,away,JS,,25,miss3,0,C. Budinger,
+111,2,9:43.0,32,24,PHO,MIN,1,home,DefReb,,,DefReb,,B. Wright,
+112,2,9:29.0,32,24,PHO,MIN,14,home,LU,,2,miss2,0,A. Goodwin,
+113,2,9:28.0,32,24,PHO,MIN,1,home,OffReb,,,OffReb,,B. Wright,
+114,2,9:28.0,34,24,PHO,MIN,0,home,TI,,0,make2,2,B. Wright,
+115,2,9:21.0,34,24,PHO,MIN,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Wright,Z. LaVine
+116,2,9:21.0,34,25,PHO,MIN,0,away,FreeThrow,,,make1,1,Z. LaVine,
+117,2,9:21.0,34,25,PHO,MIN,0,away,Sub,,,,,J. Hamilton,A. Payne
+118,2,9:21.0,34,25,PHO,MIN,0,home,Sub,,,,,A. Len,M. Morris
+119,2,9:21.0,34,26,PHO,MIN,0,away,FreeThrow,,,make1,1,Z. LaVine,
+120,2,9:03.0,34,26,PHO,MIN,18,home,JS,,22,miss3,0,M. Thornton,
+121,2,9:02.0,34,26,PHO,MIN,1,home,OffReb,,,OffReb,,A. Len,
+122,2,8:42.0,36,26,PHO,MIN,20,home,JS,assist,3,make2,2,B. Wright,A. Goodwin
+123,2,8:33.0,36,28,PHO,MIN,9,away,HS,assist,6,make2,2,G. Dieng,Z. LaVine
+124,2,8:13.0,36,28,PHO,MIN,20,home,BadPass,,,turnover,,A. Goodwin,
+125,2,8:13.0,36,28,PHO,MIN,0,away,Timeout,,,,,,
+126,2,8:03.0,36,28,PHO,MIN,10,away,JS,,6,miss2,0,Z. LaVine,
+127,2,8:02.0,36,28,PHO,MIN,1,away,OffReb,,,OffReb,,G. Dieng,
+128,2,7:51.0,36,30,PHO,MIN,11,away,LU,,2,make2,2,G. Dieng,
+129,2,7:34.0,36,30,PHO,MIN,17,home,BadPass,steal,,turnover,,M. Thornton,G. Neal
+130,2,7:15.0,36,30,PHO,MIN,19,away,JS,,19,miss2,0,C. Budinger,
+131,2,7:14.0,36,30,PHO,MIN,1,away,OffReb,,,OffReb,,C. Budinger,
+132,2,7:09.0,36,32,PHO,MIN,5,away,LU,,1,make2,2,C. Budinger,
+133,2,6:42.0,36,32,PHO,MIN,27,home,ShotClockViolation,,,turnover,,Team,
+134,2,6:42.0,36,32,PHO,MIN,0,away,Sub,,,,,K. Martin,G. Neal
+135,2,6:42.0,36,32,PHO,MIN,0,home,Sub,,,,,E. Bledsoe,A. Goodwin
+136,2,6:42.0,36,32,PHO,MIN,0,home,Sub,,,,,T. Warren,M. Thornton
+137,2,6:31.0,36,32,PHO,MIN,11,away,JS,,25,miss3,0,J. Hamilton,
+138,2,6:30.0,36,32,PHO,MIN,1,home,DefReb,,,DefReb,,A. Len,
+139,2,6:21.0,36,32,PHO,MIN,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Budinger,E. Bledsoe
+140,2,6:09.0,36,32,PHO,MIN,12,home,JS,,19,miss2,0,P. Tucker,
+141,2,6:08.0,36,32,PHO,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
+142,2,5:54.0,36,32,PHO,MIN,14,away,HS,,3,miss2,0,J. Hamilton,
+143,2,5:52.0,36,32,PHO,MIN,2,home,DefReb,,,DefReb,,P. Tucker,
+144,2,5:36.0,36,32,PHO,MIN,16,home,LU,,1,miss2,0,P. Tucker,
+145,2,5:35.0,36,32,PHO,MIN,1,home,OffReb,,,OffReb,,T. Warren,
+146,2,5:33.0,36,32,PHO,MIN,2,home,JS,,7,miss2,0,T. Warren,
+147,2,5:33.0,36,32,PHO,MIN,0,away,DefReb,,,DefReb,,Team,
+148,2,5:33.0,36,32,PHO,MIN,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Len,J. Hamilton
+149,2,5:33.0,36,32,PHO,MIN,0,home,Timeout,,,,,,
+150,2,5:33.0,36,32,PHO,MIN,0,home,Sub,,,,,M. Morris,B. Wright
+151,2,5:21.0,36,32,PHO,MIN,12,away,JS,,12,miss2,0,Z. LaVine,
+152,2,5:20.0,36,32,PHO,MIN,1,home,DefReb,,,DefReb,,Team,
+153,2,4:54.0,36,32,PHO,MIN,26,home,JS,,15,miss2,0,M. Morris,
+154,2,4:53.0,36,32,PHO,MIN,1,away,DefReb,,,DefReb,,K. Martin,
+155,2,4:43.0,36,34,PHO,MIN,10,away,JS,,3,make2,2,C. Budinger,
+156,2,4:27.0,38,34,PHO,MIN,16,home,JS,assist,16,make2,2,P. Tucker,M. Morris
+157,2,4:13.0,38,34,PHO,MIN,14,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Martin,P. Tucker
+158,2,4:13.0,38,34,PHO,MIN,0,away,OffensiveFoul,,,turnover,,K. Martin,
+159,2,4:04.0,38,34,PHO,MIN,9,home,JS,,25,miss3,0,E. Bledsoe,
+160,2,4:03.0,38,34,PHO,MIN,1,away,DefReb,,,DefReb,,J. Hamilton,
+161,2,3:53.0,38,34,PHO,MIN,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Len,G. Dieng
+162,2,3:53.0,38,35,PHO,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
+163,2,3:53.0,38,36,PHO,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
+164,2,3:35.0,38,36,PHO,MIN,18,home,JS,,22,miss3,0,T. Warren,
+165,2,3:34.0,38,36,PHO,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
+166,2,3:27.0,38,38,PHO,MIN,7,away,LU,assist,0,make2,2,C. Budinger,K. Martin
+167,2,3:07.0,40,38,PHO,MIN,20,home,JS,assist,3,make2,2,T. Warren,E. Bledsoe
+168,2,2:53.0,40,40,PHO,MIN,14,away,JS,assist,21,make2,2,K. Martin,G. Dieng
+169,2,2:41.0,40,40,PHO,MIN,12,home,LU,block,2,miss2,0,E. Bledsoe,J. Hamilton
+170,2,2:41.0,40,40,PHO,MIN,0,home,OffReb,,,OffReb,,Team,
+171,2,2:41.0,40,40,PHO,MIN,0,away,Timeout,,,,,,
+172,2,2:41.0,40,40,PHO,MIN,0,home,Sub,,,,,M. Morris,A. Len
+173,2,2:30.0,42,40,PHO,MIN,11,home,JS,assist,19,make2,2,M. Morris,E. Bledsoe
+174,2,2:11.0,42,40,PHO,MIN,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,K. Martin
+175,2,2:11.0,42,41,PHO,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+176,2,2:11.0,42,42,PHO,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+177,2,2:01.0,42,42,PHO,MIN,10,home,LU,,2,miss2,0,M. Morris,
+178,2,2:00.0,42,42,PHO,MIN,1,home,OffReb,,,OffReb,,T. Warren,
+179,2,2:00.0,44,42,PHO,MIN,0,home,LU,,1,make2,2,T. Warren,
+180,2,1:45.0,44,42,PHO,MIN,15,away,JS,,7,miss2,0,Z. LaVine,
+181,2,1:44.0,44,42,PHO,MIN,1,home,DefReb,,,DefReb,,T. Warren,
+182,2,1:33.0,44,42,PHO,MIN,11,home,JS,,24,miss3,0,M. Morris,
+183,2,1:33.0,44,42,PHO,MIN,0,away,DefReb,,,DefReb,,Team,
+184,2,1:15.0,44,44,PHO,MIN,18,away,JS,,9,make2,2,K. Martin,
+185,2,0:56.0,44,44,PHO,MIN,19,home,JS,,16,miss2,0,M. Morris,
+186,2,0:55.0,44,44,PHO,MIN,1,home,OffReb,,,OffReb,,M. Morris,
+187,2,0:51.0,44,44,PHO,MIN,4,away,DefGoaltending,,,DefGoaltending,,J. Hamilton,
+188,2,0:51.0,46,44,PHO,MIN,0,home,LU,,1,make2,2,T. Warren,
+189,2,0:40.0,46,44,PHO,MIN,11,away,JS,,4,miss2,0,K. Martin,
+190,2,0:39.0,46,44,PHO,MIN,1,home,DefReb,,,DefReb,,P. Tucker,
+191,2,0:30.0,48,44,PHO,MIN,9,home,LU,assist,2,make2,2,T. Warren,E. Bledsoe
+192,2,0:21.0,48,44,PHO,MIN,9,away,Timeout,,,,,,
+193,2,0:21.0,48,44,PHO,MIN,0,away,Sub,,,,,G. Neal,J. Hamilton
+194,2,0:19.0,48,44,PHO,MIN,2,away,BadPass,steal,,turnover,,G. Neal,M. Morris
+195,2,0:15.0,50,44,PHO,MIN,4,home,LU,assist,0,make2,2,T. Warren,E. Bledsoe
+196,2,0:15.0,50,44,PHO,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dieng,T. Warren
+197,2,0:15.0,50,44,PHO,MIN,0,home,FreeThrow,,,make1,0,T. Warren,
+198,2,0:15.0,50,44,PHO,MIN,0,away,DefReb,,,DefReb,,C. Budinger,
+199,2,0:03.0,50,44,PHO,MIN,12,away,JS,,20,miss2,0,K. Martin,
+200,2,0:02.0,50,44,PHO,MIN,1,home,DefReb,,,DefReb,,M. Morris,
+201,2,0:00.0,50,44,PHO,MIN,2,home,JS,,81,miss3,0,M. Morris,
+202,2,0:00.0,50,44,PHO,MIN,0,home,OffReb,,,OffReb,,Team,
+203,3,11:46.0,50,44,PHO,MIN,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dieng,M. Morris
+204,3,11:46.0,51,44,PHO,MIN,0,home,FreeThrow,,,make1,1,M. Morris,
+205,3,11:46.0,52,44,PHO,MIN,0,home,FreeThrow,,,make1,1,M. Morris,
+206,3,11:40.0,52,44,PHO,MIN,6,away,BadPass,steal,,turnover,,A. Payne,E. Bledsoe
+207,3,11:40.0,52,44,PHO,MIN,0,home,BadPass,,,turnover,,E. Bledsoe,
+208,3,11:40.0,52,44,PHO,MIN,0,away,Sub,,,,,J. Hamilton,A. Payne
+209,3,11:40.0,52,44,PHO,MIN,0,home,Sub,,,,,A. Goodwin,E. Bledsoe
+210,3,11:23.0,52,44,PHO,MIN,17,away,JS,block,4,miss2,0,A. Wiggins,M. Morris
+211,3,11:21.0,52,44,PHO,MIN,2,home,DefReb,,,DefReb,,Team,
+212,3,11:12.0,52,44,PHO,MIN,9,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Len,K. Martin
+213,3,11:12.0,52,44,PHO,MIN,0,home,OffensiveFoul,,,turnover,,A. Len,
+214,3,11:00.0,52,46,PHO,MIN,12,away,JS,,8,make2,2,K. Martin,
+215,3,10:45.0,52,46,PHO,MIN,15,home,LostBall,steal,,turnover,,A. Len,G. Dieng
+216,3,10:38.0,52,48,PHO,MIN,7,away,LU,assist,1,make2,2,J. Hamilton,R. Rubio
+217,3,10:22.0,52,48,PHO,MIN,16,home,JS,,24,miss3,0,M. Morris,
+218,3,10:21.0,52,48,PHO,MIN,1,home,OffReb,,,OffReb,,Team,
+219,3,10:21.0,52,48,PHO,MIN,0,home,Sub,,,,,E. Bledsoe,A. Goodwin
+220,3,10:18.0,54,48,PHO,MIN,3,home,JS,assist,18,make2,2,M. Morris,P. Tucker
+221,3,9:53.0,54,48,PHO,MIN,25,away,JS,,23,miss3,0,J. Hamilton,
+222,3,9:52.0,54,48,PHO,MIN,1,home,DefReb,,,DefReb,,E. Bledsoe,
+223,3,9:46.0,54,48,PHO,MIN,6,home,LU,,1,miss2,0,E. Bledsoe,
+224,3,9:46.0,54,48,PHO,MIN,0,away,DefReb,,,DefReb,,G. Dieng,
+225,3,9:38.0,54,48,PHO,MIN,8,away,LU,,1,miss2,0,J. Hamilton,
+226,3,9:37.0,54,48,PHO,MIN,1,away,OffReb,,,OffReb,,J. Hamilton,
+227,3,9:37.0,54,50,PHO,MIN,0,away,LU,,1,make2,2,J. Hamilton,
+228,3,9:21.0,54,50,PHO,MIN,16,home,DiscontinueDribbleTurnover,,,turnover,,P. Tucker,
+229,3,9:12.0,54,52,PHO,MIN,9,away,DK,assist,0,make2,2,J. Hamilton,R. Rubio
+230,3,9:11.0,54,52,PHO,MIN,1,home,Timeout,,,,,,
+231,3,8:43.0,54,52,PHO,MIN,28,away,3sec,,,turnover,,J. Hamilton,
+232,3,8:31.0,54,52,PHO,MIN,12,home,HS,,2,miss2,0,P. Tucker,
+233,3,8:30.0,54,52,PHO,MIN,1,home,OffReb,,,OffReb,,P. Tucker,
+234,3,8:26.0,56,52,PHO,MIN,4,home,LU,,1,make2,2,P. Tucker,
+235,3,8:15.0,56,52,PHO,MIN,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,K. Martin
+236,3,8:15.0,56,52,PHO,MIN,0,home,TechnicalFoul,,,TechnicalFoul,,P. Tucker,
+237,3,8:15.0,56,53,PHO,MIN,0,away,FreeThrow,,,make1,1,K. Martin makes technical free throw,
+238,3,8:15.0,56,54,PHO,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+239,3,8:15.0,56,55,PHO,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+240,3,8:04.0,56,55,PHO,MIN,11,home,LU,,1,miss2,0,E. Bledsoe,
+241,3,8:04.0,56,55,PHO,MIN,0,away,DefReb,,,DefReb,,R. Rubio,
+242,3,8:04.0,56,55,PHO,MIN,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Len,R. Rubio
+243,3,8:04.0,56,55,PHO,MIN,0,home,Sub,,,,,B. Wright,A. Len
+244,3,7:51.0,56,55,PHO,MIN,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,G. Dieng
+245,3,7:51.0,56,56,PHO,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
+246,3,7:51.0,56,57,PHO,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
+247,3,7:39.0,56,57,PHO,MIN,12,home,JS,,12,miss2,0,B. Wright,
+248,3,7:38.0,56,57,PHO,MIN,1,home,OffReb,,,OffReb,,P. Tucker,
+249,3,7:36.0,58,57,PHO,MIN,2,home,LU,,1,make2,2,P. Tucker,
+250,3,7:21.0,58,57,PHO,MIN,15,away,JS,,24,miss3,0,J. Hamilton,
+251,3,7:20.0,58,57,PHO,MIN,1,away,OffReb,,,OffReb,,A. Wiggins,
+252,3,7:15.0,58,57,PHO,MIN,5,away,JS,,24,miss3,0,K. Martin,
+253,3,7:15.0,58,57,PHO,MIN,0,home,DefReb,,,DefReb,,M. Morris,
+254,3,7:04.0,61,57,PHO,MIN,11,home,JS,assist,23,make3,3,P. Tucker,M. Morris
+255,3,7:01.0,61,57,PHO,MIN,3,away,Timeout,,,,,,
+256,3,6:38.0,61,59,PHO,MIN,23,away,JS,assist,15,make2,2,K. Martin,G. Dieng
+257,3,6:17.0,61,59,PHO,MIN,21,home,LU,,2,miss2,0,B. Wright,
+258,3,6:16.0,61,59,PHO,MIN,1,home,OffReb,,,OffReb,,M. Morris,
+259,3,6:06.0,61,59,PHO,MIN,10,home,JS,,24,miss3,0,E. Bledsoe,
+260,3,6:05.0,61,59,PHO,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
+261,3,5:59.0,61,61,PHO,MIN,6,away,JS,,16,make2,2,R. Rubio,
+262,3,5:34.0,61,61,PHO,MIN,25,home,JS,,23,miss3,0,E. Bledsoe,
+263,3,5:33.0,61,61,PHO,MIN,1,away,DefReb,,,DefReb,,R. Rubio,
+264,3,5:28.0,61,61,PHO,MIN,5,away,BadPass,steal,,turnover,,R. Rubio,P. Tucker
+265,3,5:22.0,63,61,PHO,MIN,6,home,JS,,18,make2,2,E. Bledsoe,
+266,3,5:03.0,63,63,PHO,MIN,19,away,HS,assist,4,make2,2,J. Hamilton,G. Dieng
+267,3,4:43.0,65,63,PHO,MIN,20,home,JS,,15,make2,2,E. Bledsoe,
+268,3,4:24.0,65,63,PHO,MIN,19,home,KickBallViolation,,,KickBallViolation,,E. Bledsoe,
+269,3,4:24.0,65,63,PHO,MIN,0,away,Sub,,,,,A. Payne,K. Martin
+270,3,4:24.0,65,63,PHO,MIN,0,away,Sub,,,,,G. Neal,J. Hamilton
+271,3,4:24.0,65,63,PHO,MIN,0,home,Sub,,,,,M. Thornton,P. Tucker
+272,3,4:15.0,65,63,PHO,MIN,9,home,KickBallViolation,,,KickBallViolation,,M. Thornton,
+273,3,4:10.0,65,65,PHO,MIN,5,away,JS,assist,21,make2,2,R. Rubio,G. Dieng
+274,3,3:53.0,68,65,PHO,MIN,17,home,JS,,24,make3,3,E. Bledsoe,
+275,3,3:41.0,68,65,PHO,MIN,12,away,JS,,10,miss2,0,G. Dieng,
+276,3,3:40.0,68,65,PHO,MIN,1,home,DefReb,,,DefReb,,M. Morris,
+277,3,3:37.0,68,65,PHO,MIN,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,E. Bledsoe
+278,3,3:30.0,68,65,PHO,MIN,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Wiggins,M. Morris
+279,3,3:24.0,70,65,PHO,MIN,6,home,JS,assist,17,make2,2,M. Thornton,M. Morris
+280,3,3:05.0,70,65,PHO,MIN,19,away,JS,,20,miss2,0,R. Rubio,
+281,3,3:04.0,70,65,PHO,MIN,1,home,DefReb,,,DefReb,,M. Thornton,
+282,3,2:58.0,72,65,PHO,MIN,6,home,DK,assist,0,make2,2,B. Wright,E. Bledsoe
+283,3,2:58.0,72,65,PHO,MIN,0,away,Timeout,,,,,,
+284,3,2:47.0,72,65,PHO,MIN,11,away,JS,,18,miss2,0,G. Neal,
+285,3,2:46.0,72,65,PHO,MIN,1,home,DefReb,,,DefReb,,B. Wright,
+286,3,2:40.0,72,65,PHO,MIN,6,home,BadPass,,,turnover,,E. Bledsoe,
+287,3,2:25.0,72,65,PHO,MIN,15,away,JS,,23,miss3,0,R. Rubio,
+288,3,2:24.0,72,65,PHO,MIN,1,home,DefReb,,,DefReb,,M. Thornton,
+289,3,2:13.0,74,65,PHO,MIN,11,home,DK,assist,0,make2,2,M. Morris,M. Morris
+290,3,2:00.0,74,67,PHO,MIN,13,away,LU,,1,make2,2,R. Rubio,
+291,3,1:44.0,76,67,PHO,MIN,16,home,JS,,16,make2,2,M. Morris,
+292,3,1:22.0,76,67,PHO,MIN,22,away,DK,,0,miss2,0,A. Payne,
+293,3,1:22.0,76,67,PHO,MIN,0,home,DefReb,,,DefReb,,B. Wright,
+294,3,1:18.0,76,67,PHO,MIN,4,home,LU,,1,miss2,0,M. Thornton,
+295,3,1:17.0,76,67,PHO,MIN,1,home,OffReb,,,OffReb,,M. Morris,
+296,3,1:17.0,78,67,PHO,MIN,0,home,TI,,0,make2,2,M. Morris,
+297,3,0:58.0,78,69,PHO,MIN,19,away,JS,,3,make2,2,A. Wiggins,
+298,3,0:35.0,78,69,PHO,MIN,23,home,BadPass,,,turnover,,E. Bledsoe,
+299,3,0:35.0,78,69,PHO,MIN,0,home,Sub,,,,,A. Goodwin,E. Bledsoe
+300,3,0:35.0,78,69,PHO,MIN,0,away,Sub,,,,,Z. LaVine,R. Rubio
+301,3,0:21.0,78,69,PHO,MIN,14,away,LU,,0,miss2,0,A. Wiggins,
+302,3,0:20.0,78,69,PHO,MIN,1,away,OffReb,,,OffReb,,A. Payne,
+303,4,11:43.0,78,69,PHO,MIN,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Wright,A. Payne
+304,4,11:43.0,78,70,PHO,MIN,0,away,FreeThrow,,,make1,1,A. Payne,
+305,4,11:43.0,78,71,PHO,MIN,0,away,FreeThrow,,,make1,1,A. Payne,
+306,4,11:25.0,78,71,PHO,MIN,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Neal,M. Thornton
+307,4,11:25.0,78,71,PHO,MIN,0,away,Sub,,,,,C. Budinger,A. Wiggins
+308,4,11:18.0,80,71,PHO,MIN,7,home,JS,assist,19,make2,2,M. Morris,A. Goodwin
+309,4,10:57.0,80,71,PHO,MIN,21,away,JS,,23,miss3,0,Z. LaVine,
+310,4,10:56.0,80,71,PHO,MIN,1,home,DefReb,,,DefReb,,M. Thornton,
+311,4,10:48.0,82,71,PHO,MIN,8,home,JS,,19,make2,2,M. Thornton,
+312,4,10:31.0,82,73,PHO,MIN,17,away,JS,,4,make2,2,J. Hamilton,
+313,4,10:19.0,85,73,PHO,MIN,12,home,JS,assist,24,make3,3,M. Thornton,A. Goodwin
+314,4,9:58.0,85,73,PHO,MIN,21,away,LostBall,steal,,turnover,,J. Hamilton,M. Thornton
+315,4,9:52.0,85,73,PHO,MIN,6,home,JS,,25,miss3,0,M. Thornton,
+316,4,9:50.0,85,73,PHO,MIN,2,away,DefReb,,,DefReb,,G. Neal,
+317,4,9:37.0,85,73,PHO,MIN,13,away,JS,,25,miss3,0,G. Neal,
+318,4,9:36.0,85,73,PHO,MIN,1,home,DefReb,,,DefReb,,T. Warren,
+319,4,9:18.0,85,73,PHO,MIN,18,home,JS,,24,miss3,0,A. Goodwin,
+320,4,9:17.0,85,73,PHO,MIN,1,away,DefReb,,,DefReb,,J. Hamilton,
+321,4,9:15.0,85,73,PHO,MIN,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Goodwin,J. Hamilton
+322,4,9:15.0,85,73,PHO,MIN,0,away,Timeout,,,,,,
+323,4,9:06.0,85,73,PHO,MIN,9,away,LostBall,steal,,turnover,,Z. LaVine,M. Thornton
+324,4,9:01.0,87,73,PHO,MIN,5,home,TI,,1,make2,2,B. Wright,
+325,4,9:01.0,87,73,PHO,MIN,0,home,LU,,1,miss2,0,A. Goodwin,
+326,4,9:01.0,87,73,PHO,MIN,0,home,OffReb,,,OffReb,,B. Wright,
+327,4,8:45.0,87,75,PHO,MIN,16,away,JS,assist,3,make2,2,C. Budinger,Z. LaVine
+328,4,8:22.0,87,75,PHO,MIN,23,home,JS,,21,miss2,0,M. Morris,
+329,4,8:22.0,87,75,PHO,MIN,0,home,OffReb,,,OffReb,,A. Goodwin,
+330,4,8:22.0,87,75,PHO,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Neal,A. Goodwin
+331,4,8:22.0,87,75,PHO,MIN,0,home,FreeThrow,,,make1,0,A. Goodwin,
+332,4,8:22.0,87,75,PHO,MIN,0,home,OffReb,,,OffReb,,Team,
+333,4,8:22.0,88,75,PHO,MIN,0,home,FreeThrow,,,make1,1,A. Goodwin,
+334,4,8:08.0,88,75,PHO,MIN,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Thornton,G. Neal
+335,4,8:08.0,88,76,PHO,MIN,0,away,FreeThrow,,,make1,1,G. Neal,
+336,4,8:08.0,88,76,PHO,MIN,0,home,Sub,,,,,P. Tucker,M. Morris
+337,4,8:08.0,88,77,PHO,MIN,0,away,FreeThrow,,,make1,1,G. Neal,
+338,4,7:45.0,88,77,PHO,MIN,23,home,LU,,1,miss2,0,P. Tucker,
+339,4,7:44.0,88,77,PHO,MIN,1,away,DefReb,,,DefReb,,C. Budinger,
+340,4,7:38.0,88,77,PHO,MIN,6,away,JS,,3,miss2,0,Z. LaVine,
+341,4,7:37.0,88,77,PHO,MIN,1,home,DefReb,,,DefReb,,T. Warren,
+342,4,7:33.0,88,77,PHO,MIN,4,away,ChargeFoul,DrawnBy,,ChargeFoul,,T. Warren,C. Budinger
+343,4,7:33.0,88,77,PHO,MIN,0,home,OffensiveFoul,,,turnover,,T. Warren,
+344,4,7:24.0,88,79,PHO,MIN,9,away,JS,assist,18,make2,2,G. Neal,Z. LaVine
+345,4,7:07.0,88,79,PHO,MIN,17,home,BadPass,steal,,turnover,,P. Tucker,Z. LaVine
+346,4,7:04.0,88,79,PHO,MIN,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Goodwin,Z. LaVine
+347,4,7:04.0,88,80,PHO,MIN,0,away,FreeThrow,,,make1,1,Z. LaVine,
+348,4,7:04.0,88,80,PHO,MIN,0,home,Sub,,,,,E. Bledsoe,A. Goodwin
+349,4,7:04.0,88,81,PHO,MIN,0,away,FreeThrow,,,make1,1,Z. LaVine,
+350,4,6:41.0,90,81,PHO,MIN,23,home,JS,assist,3,make2,2,T. Warren,E. Bledsoe
+351,4,6:31.0,90,81,PHO,MIN,10,away,JS,,20,miss2,0,G. Neal,
+352,4,6:30.0,90,81,PHO,MIN,1,home,DefReb,,,DefReb,,B. Wright,
+353,4,6:13.0,90,81,PHO,MIN,17,home,JS,,24,miss3,0,M. Thornton,
+354,4,6:12.0,90,81,PHO,MIN,1,away,DefReb,,,DefReb,,C. Budinger,
+355,4,6:00.0,90,81,PHO,MIN,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Thornton,G. Neal
+356,4,6:00.0,90,81,PHO,MIN,0,home,TechnicalFoul,,,TechnicalFoul,,M. Thornton,
+357,4,6:00.0,90,82,PHO,MIN,0,away,FreeThrow,,,make1,1,G. Neal makes technical free throw,
+358,4,6:00.0,90,83,PHO,MIN,0,away,FreeThrow,,,make1,1,G. Neal,
+359,4,6:00.0,90,83,PHO,MIN,0,away,Sub,,,,,R. Rubio,Z. LaVine
+360,4,6:00.0,90,84,PHO,MIN,0,away,FreeThrow,,,make1,1,G. Neal,
+361,4,5:47.0,92,84,PHO,MIN,13,home,JS,,20,make2,2,E. Bledsoe,
+362,4,5:31.0,92,84,PHO,MIN,16,away,JS,,8,miss2,0,A. Payne,
+363,4,5:30.0,92,84,PHO,MIN,1,home,DefReb,,,DefReb,,B. Wright,
+364,4,5:21.0,92,84,PHO,MIN,9,home,JS,,4,miss2,0,E. Bledsoe,
+365,4,5:20.0,92,84,PHO,MIN,1,home,OffReb,,,OffReb,,B. Wright,
+366,4,5:15.0,92,84,PHO,MIN,5,away,Timeout,,,,,,
+367,4,5:15.0,92,84,PHO,MIN,0,away,Sub,,,,,K. Martin,G. Neal
+368,4,5:15.0,92,84,PHO,MIN,0,away,Sub,,,,,A. Wiggins,C. Budinger
+369,4,5:03.0,92,84,PHO,MIN,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Payne,P. Tucker
+370,4,5:03.0,92,84,PHO,MIN,0,home,Sub,,,,,M. Morris,M. Thornton
+371,4,4:51.0,92,84,PHO,MIN,12,home,JS,block,4,miss2,0,P. Tucker,J. Hamilton
+372,4,4:49.0,92,84,PHO,MIN,2,away,DefReb,,,DefReb,,R. Rubio,
+373,4,4:44.0,92,86,PHO,MIN,5,away,JS,assist,9,make2,2,K. Martin,R. Rubio
+374,4,4:22.0,94,86,PHO,MIN,22,home,JS,,5,make2,2,M. Morris,
+375,4,4:00.0,94,86,PHO,MIN,22,away,JS,,21,miss2,0,A. Payne,
+376,4,4:00.0,94,86,PHO,MIN,0,home,DefReb,,,DefReb,,P. Tucker,
+377,4,3:50.0,96,86,PHO,MIN,10,home,JS,assist,16,make2,2,M. Morris,E. Bledsoe
+378,4,3:49.0,96,86,PHO,MIN,1,away,Timeout,,,,,,
+379,4,3:49.0,96,86,PHO,MIN,0,away,Sub,,,,,G. Dieng,A. Payne
+380,4,3:39.0,96,86,PHO,MIN,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Warren,K. Martin
+381,4,3:39.0,96,86,PHO,MIN,0,away,FreeThrow,,,make1,0,K. Martin,
+382,4,3:39.0,96,86,PHO,MIN,0,away,OffReb,,,OffReb,,Team,
+383,4,3:39.0,96,87,PHO,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+384,4,3:20.0,98,87,PHO,MIN,19,home,DK,assist,0,make2,2,T. Warren,B. Wright
+385,4,3:20.0,98,87,PHO,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dieng,T. Warren
+386,4,3:20.0,99,87,PHO,MIN,0,home,FreeThrow,,,make1,1,T. Warren,
+387,4,2:59.0,99,90,PHO,MIN,21,away,JS,assist,24,make3,3,J. Hamilton,R. Rubio
+388,4,2:33.0,99,90,PHO,MIN,26,home,JS,,10,miss2,0,M. Morris,
+389,4,2:29.0,99,90,PHO,MIN,4,away,DefReb,,,DefReb,,G. Dieng,
+390,4,2:29.0,99,90,PHO,MIN,0,away,LostBall,steal,,turnover,,G. Dieng,T. Warren
+391,4,2:27.0,101,90,PHO,MIN,2,home,LU,,1,make2,2,T. Warren,
+392,4,2:17.0,101,90,PHO,MIN,10,away,JS,,25,miss3,0,A. Wiggins,
+393,4,2:17.0,101,90,PHO,MIN,0,home,DefReb,,,DefReb,,B. Wright,
+394,4,2:17.0,101,90,PHO,MIN,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dieng,B. Wright
+395,4,2:17.0,101,90,PHO,MIN,0,home,FreeThrow,,,make1,0,B. Wright,
+396,4,2:17.0,101,90,PHO,MIN,0,home,OffReb,,,OffReb,,Team,
+397,4,2:17.0,102,90,PHO,MIN,0,home,FreeThrow,,,make1,1,B. Wright,
+398,4,2:05.0,102,92,PHO,MIN,12,away,JS,,4,make2,2,A. Wiggins,
+399,4,1:41.0,104,92,PHO,MIN,24,home,JS,,15,make2,2,E. Bledsoe,
+400,4,1:34.0,104,92,PHO,MIN,7,away,BadPass,steal,,turnover,,G. Dieng,B. Wright
+401,4,1:15.0,104,92,PHO,MIN,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hamilton,E. Bledsoe
+402,4,1:15.0,105,92,PHO,MIN,0,home,FreeThrow,,,make1,1,E. Bledsoe,
+403,4,1:15.0,105,92,PHO,MIN,0,away,Sub,,,,,A. Payne,K. Martin
+404,4,1:15.0,105,92,PHO,MIN,0,away,Sub,,,,,L. Brown,R. Rubio
+405,4,1:15.0,105,92,PHO,MIN,0,away,Sub,,,,,Z. LaVine,G. Dieng
+406,4,1:15.0,105,92,PHO,MIN,0,away,Sub,,,,,C. Budinger,A. Wiggins
+407,4,1:15.0,105,92,PHO,MIN,0,home,Sub,,,,,E. Barron,T. Warren
+408,4,1:15.0,105,92,PHO,MIN,0,home,Sub,,,,,M. Thornton,M. Morris
+409,4,1:15.0,105,92,PHO,MIN,0,home,Sub,,,,,T. Warren,P. Tucker
+410,4,1:15.0,106,92,PHO,MIN,0,home,FreeThrow,,,make1,1,E. Bledsoe,
+411,4,1:14.0,106,92,PHO,MIN,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Bledsoe,L. Brown
+412,4,1:14.0,106,92,PHO,MIN,0,away,FreeThrow,,,make1,0,L. Brown,
+413,4,1:14.0,106,92,PHO,MIN,0,away,OffReb,,,OffReb,,Team,
+414,4,1:14.0,106,92,PHO,MIN,0,home,Sub,,,,,S. Curry,E. Bledsoe
+415,4,1:14.0,106,93,PHO,MIN,0,away,FreeThrow,,,make1,1,L. Brown,
+416,4,0:59.0,106,93,PHO,MIN,15,home,LostBall,steal,,turnover,,M. Thornton,A. Payne
+417,4,0:56.0,106,95,PHO,MIN,3,away,DK,assist,0,make2,2,Z. LaVine,C. Budinger
+418,4,0:37.0,106,95,PHO,MIN,19,home,JS,,14,miss2,0,M. Thornton,
+419,4,0:36.0,106,95,PHO,MIN,1,home,OffReb,,,OffReb,,Team,
+420,4,0:29.0,106,95,PHO,MIN,7,home,JS,,24,miss3,0,S. Curry,
+421,4,0:28.0,106,95,PHO,MIN,1,away,DefReb,,,DefReb,,C. Budinger,
+422,4,0:17.0,106,97,PHO,MIN,11,away,DK,assist,0,make2,2,J. Hamilton,A. Payne

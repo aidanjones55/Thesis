@@ -1,0 +1,423 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:44.0,0,0,LAL,DAL,16,away,JS,,14,miss2,0,M. Ellis,
+1,1,11:42.0,0,0,LAL,DAL,2,home,DefReb,,,DefReb,,W. Ellington,
+2,1,11:24.0,2,0,LAL,DAL,18,home,JS,assist,20,make2,2,W. Johnson,J. Hill
+3,1,11:06.0,2,0,LAL,DAL,18,away,JS,,18,miss2,0,D. Nowitzki,
+4,1,11:04.0,2,0,LAL,DAL,2,home,DefReb,,,DefReb,,W. Johnson,
+5,1,10:48.0,4,0,LAL,DAL,16,home,JS,assist,18,make2,2,J. Hill,W. Johnson
+6,1,10:34.0,4,0,LAL,DAL,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Black,D. Nowitzki
+7,1,10:23.0,4,2,LAL,DAL,11,away,JS,assist,20,make2,2,R. Rondo,D. Nowitzki
+8,1,10:08.0,4,2,LAL,DAL,15,home,JS,,5,miss2,0,W. Ellington,
+9,1,10:04.0,4,2,LAL,DAL,4,home,OffReb,,,OffReb,,J. Hill,
+10,1,10:04.0,6,2,LAL,DAL,0,home,DK,,0,make2,2,J. Hill,
+11,1,9:55.0,6,5,LAL,DAL,9,away,JS,assist,25,make3,3,D. Nowitzki,R. Rondo
+12,1,9:39.0,8,5,LAL,DAL,16,home,DK,assist,0,make2,2,T. Black,J. Clarkson
+13,1,9:25.0,8,7,LAL,DAL,14,away,LU,,0,make2,2,C. Parsons,
+14,1,9:25.0,8,7,LAL,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hill,C. Parsons
+15,1,9:25.0,8,7,LAL,DAL,0,away,FreeThrow,,,make1,0,C. Parsons,
+16,1,9:23.0,8,7,LAL,DAL,2,home,DefReb,,,DefReb,,T. Black,
+17,1,9:09.0,8,7,LAL,DAL,14,home,JS,,16,miss2,0,W. Ellington,
+18,1,9:07.0,8,7,LAL,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+19,1,9:00.0,8,9,LAL,DAL,7,away,DK,assist,0,make2,2,T. Chandler,C. Parsons
+20,1,8:36.0,8,9,LAL,DAL,24,home,LU,,1,miss2,0,J. Hill,
+21,1,8:35.0,8,9,LAL,DAL,1,home,OffReb,,,OffReb,,T. Black,
+22,1,8:29.0,10,9,LAL,DAL,6,home,JS,assist,17,make2,2,J. Hill,T. Black
+23,1,8:04.0,10,9,LAL,DAL,25,away,JS,,25,miss3,0,D. Nowitzki,
+24,1,8:02.0,10,9,LAL,DAL,2,home,DefReb,,,DefReb,,J. Clarkson,
+25,1,7:58.0,10,9,LAL,DAL,4,home,BadPass,,,turnover,,J. Clarkson,
+26,1,7:50.0,10,9,LAL,DAL,8,away,LU,,1,miss2,0,M. Ellis,
+27,1,7:47.0,10,9,LAL,DAL,3,away,OffReb,,,OffReb,,T. Chandler,
+28,1,7:47.0,10,11,LAL,DAL,0,away,DK,,0,make2,2,T. Chandler,
+29,1,7:27.0,12,11,LAL,DAL,20,home,JS,,15,make2,2,J. Clarkson,
+30,1,7:12.0,12,11,LAL,DAL,15,away,LostBall,steal,,turnover,,R. Rondo,J. Hill
+31,1,7:04.0,12,11,LAL,DAL,8,home,JS,,22,miss3,0,W. Johnson,
+32,1,7:03.0,12,11,LAL,DAL,1,home,OffReb,,,OffReb,,J. Hill,
+33,1,6:56.0,12,11,LAL,DAL,7,home,JS,,24,miss3,0,W. Ellington,
+34,1,6:55.0,12,11,LAL,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+35,1,6:43.0,12,13,LAL,DAL,12,away,JS,assist,14,make2,2,D. Nowitzki,R. Rondo
+36,1,6:18.0,12,13,LAL,DAL,25,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Chandler,T. Black
+37,1,6:18.0,12,13,LAL,DAL,0,home,Sub,,,,,J. Lin,W. Ellington
+38,1,6:17.0,12,13,LAL,DAL,1,away,Sub,,,,,A. Stoudemire,D. Nowitzki
+39,1,6:09.0,12,13,LAL,DAL,8,home,BadPass,,,turnover,,J. Clarkson,
+40,1,5:53.0,12,13,LAL,DAL,16,away,BadPass,steal,,turnover,,R. Rondo,J. Lin
+41,1,5:48.0,12,13,LAL,DAL,5,home,LU,block,1,miss2,0,J. Lin,M. Ellis
+42,1,5:46.0,12,13,LAL,DAL,2,away,DefReb,,,DefReb,,R. Rondo,
+43,1,5:42.0,12,13,LAL,DAL,4,away,LU,block,1,miss2,0,R. Rondo,T. Black
+44,1,5:41.0,12,13,LAL,DAL,1,home,DefReb,,,DefReb,,J. Hill,
+45,1,5:33.0,12,13,LAL,DAL,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ellis,J. Clarkson
+46,1,5:33.0,12,13,LAL,DAL,0,home,Timeout,,,,,,
+47,1,5:33.0,12,13,LAL,DAL,0,home,Sub,,,,,C. Boozer,T. Black
+48,1,5:33.0,12,13,LAL,DAL,0,away,Sub,,,,,R. Jefferson,C. Parsons
+49,1,5:23.0,12,13,LAL,DAL,10,home,JS,,12,miss2,0,C. Boozer,
+50,1,5:21.0,12,13,LAL,DAL,2,away,DefReb,,,DefReb,,M. Ellis,
+51,1,5:17.0,12,13,LAL,DAL,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Lin,M. Ellis
+52,1,5:17.0,12,13,LAL,DAL,0,away,FreeThrow,,,make1,0,M. Ellis,
+53,1,5:17.0,12,13,LAL,DAL,0,away,OffReb,,,OffReb,,Team,
+54,1,5:17.0,12,14,LAL,DAL,0,away,FreeThrow,,,make1,1,M. Ellis,
+55,1,4:59.0,14,14,LAL,DAL,18,home,JS,assist,20,make2,2,W. Johnson,J. Hill
+56,1,4:48.0,14,14,LAL,DAL,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Clarkson,A. Stoudemire
+57,1,4:48.0,14,14,LAL,DAL,0,away,FreeThrow,,,make1,0,A. Stoudemire,
+58,1,4:48.0,14,14,LAL,DAL,0,away,OffReb,,,OffReb,,Team,
+59,1,4:48.0,14,15,LAL,DAL,0,away,FreeThrow,,,make1,1,A. Stoudemire,
+60,1,4:30.0,16,15,LAL,DAL,18,home,LU,,2,make2,2,J. Clarkson,
+61,1,4:23.0,16,15,LAL,DAL,7,home,Sub,,,,,E. Davis,J. Hill
+62,1,4:23.0,16,15,LAL,DAL,0,home,Sub,,,,,R. Kelly,W. Johnson
+63,1,4:11.0,16,15,LAL,DAL,12,away,JS,block,3,miss2,0,A. Stoudemire,E. Davis
+64,1,4:09.0,16,15,LAL,DAL,2,home,DefReb,,,DefReb,,J. Clarkson,
+65,1,4:08.0,16,15,LAL,DAL,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ellis,J. Clarkson
+66,1,4:08.0,16,15,LAL,DAL,0,away,Sub,,,,,J. Barea,M. Ellis
+67,1,3:54.0,18,15,LAL,DAL,14,home,DK,assist,0,make2,2,E. Davis,J. Lin
+68,1,3:30.0,18,15,LAL,DAL,24,away,JS,,22,miss3,0,R. Rondo,
+69,1,3:29.0,18,15,LAL,DAL,1,home,DefReb,,,DefReb,,J. Lin,
+70,1,3:14.0,18,15,LAL,DAL,15,home,JS,,17,miss2,0,C. Boozer,
+71,1,3:13.0,18,15,LAL,DAL,1,away,DefReb,,,DefReb,,J. Barea,
+72,1,3:05.0,18,15,LAL,DAL,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Boozer,A. Stoudemire
+73,1,3:05.0,18,15,LAL,DAL,0,away,Timeout,,,,,,
+74,1,3:05.0,18,15,LAL,DAL,0,away,Sub,,,,,D. Nowitzki,T. Chandler
+75,1,3:05.0,18,16,LAL,DAL,0,away,FreeThrow,,,make1,1,A. Stoudemire,
+76,1,3:05.0,18,17,LAL,DAL,0,away,FreeThrow,,,make1,1,A. Stoudemire,
+77,1,2:49.0,20,17,LAL,DAL,16,home,JS,assist,13,make2,2,C. Boozer,J. Clarkson
+78,1,2:24.0,20,19,LAL,DAL,25,away,JS,assist,19,make2,2,R. Jefferson,A. Stoudemire
+79,1,2:04.0,20,19,LAL,DAL,20,home,JS,,12,miss2,0,J. Lin,
+80,1,2:03.0,20,19,LAL,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+81,1,1:57.0,20,21,LAL,DAL,6,away,LU,,1,make2,2,J. Barea,
+82,1,1:35.0,20,21,LAL,DAL,22,home,JS,,17,miss2,0,C. Boozer,
+83,1,1:34.0,20,21,LAL,DAL,1,away,DefReb,,,DefReb,,J. Barea,
+84,1,1:28.0,20,23,LAL,DAL,6,away,LU,,2,make2,2,J. Barea,
+85,1,1:15.0,20,23,LAL,DAL,13,home,LU,,2,miss2,0,J. Clarkson,
+86,1,1:13.0,20,23,LAL,DAL,2,home,OffReb,,,OffReb,,J. Clarkson,
+87,1,1:13.0,20,23,LAL,DAL,0,home,TI,,0,miss2,0,J. Clarkson,
+88,1,1:08.0,20,23,LAL,DAL,5,home,OffReb,,,OffReb,,E. Davis,
+89,1,1:08.0,20,23,LAL,DAL,0,home,LU,block,1,miss2,0,E. Davis,A. Stoudemire
+90,1,1:02.0,20,23,LAL,DAL,6,away,DefReb,,,DefReb,,A. Stoudemire,
+91,1,0:59.0,20,23,LAL,DAL,3,away,JS,,27,miss3,0,D. Nowitzki,
+92,1,0:57.0,20,23,LAL,DAL,2,home,DefReb,,,DefReb,,J. Lin,
+93,1,0:53.0,20,23,LAL,DAL,4,home,LostBall,,,turnover,,C. Boozer,
+94,1,0:53.0,20,23,LAL,DAL,0,away,Sub,,,,,R. Felton,R. Rondo
+95,1,0:33.0,20,25,LAL,DAL,20,away,JS,assist,21,make2,2,D. Nowitzki,R. Felton
+96,1,0:15.0,22,25,LAL,DAL,18,home,DK,assist,0,make2,2,C. Boozer,E. Davis
+97,1,0:05.0,22,25,LAL,DAL,10,away,JS,,6,miss2,0,J. Barea,
+98,1,0:04.0,22,25,LAL,DAL,1,home,DefReb,,,DefReb,,J. Clarkson,
+99,1,0:01.0,24,25,LAL,DAL,3,home,LU,assist,0,make2,2,J. Lin,J. Clarkson
+100,2,11:41.0,24,25,LAL,DAL,19,home,JS,,23,miss3,0,W. Ellington,
+101,2,11:39.0,24,25,LAL,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+102,2,11:15.0,24,27,LAL,DAL,24,away,HS,,5,make2,2,A. Stoudemire,
+103,2,10:54.0,24,27,LAL,DAL,21,home,LU,,2,miss2,0,R. Kelly,
+104,2,10:52.0,24,27,LAL,DAL,2,away,DefReb,,,DefReb,,A. Stoudemire,
+105,2,10:46.0,24,27,LAL,DAL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lin,C. Parsons
+106,2,10:42.0,24,27,LAL,DAL,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Davis,D. Nowitzki
+107,2,10:29.0,24,27,LAL,DAL,13,away,JS,block,18,miss2,0,C. Parsons,R. Kelly
+108,2,10:26.0,24,27,LAL,DAL,3,home,DefReb,,,DefReb,,E. Davis,
+109,2,10:22.0,24,27,LAL,DAL,4,home,LU,,1,miss2,0,J. Lin,
+110,2,10:20.0,24,27,LAL,DAL,2,home,OffReb,,,OffReb,,C. Boozer,
+111,2,10:17.0,26,27,LAL,DAL,3,home,LU,assist,1,make2,2,E. Davis,C. Boozer
+112,2,10:03.0,26,27,LAL,DAL,14,away,LU,block,1,miss2,0,R. Felton,E. Davis
+113,2,10:03.0,26,27,LAL,DAL,0,away,OffReb,,,OffReb,,Team,
+114,2,9:59.0,26,27,LAL,DAL,4,away,JS,,23,miss3,0,C. Parsons,
+115,2,9:57.0,26,27,LAL,DAL,2,home,DefReb,,,DefReb,,W. Ellington,
+116,2,9:44.0,26,27,LAL,DAL,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,E. Davis
+117,2,9:44.0,26,27,LAL,DAL,0,home,FreeThrow,,,make1,0,E. Davis,
+118,2,9:44.0,26,27,LAL,DAL,0,home,OffReb,,,OffReb,,Team,
+119,2,9:44.0,26,27,LAL,DAL,0,home,FreeThrow,,,make1,0,E. Davis,
+120,2,9:43.0,26,27,LAL,DAL,1,away,DefReb,,,DefReb,,C. Parsons,
+121,2,9:25.0,26,27,LAL,DAL,18,away,JS,,22,miss3,0,C. Parsons,
+122,2,9:24.0,26,27,LAL,DAL,1,home,DefReb,,,DefReb,,E. Davis,
+123,2,9:18.0,28,27,LAL,DAL,6,home,LU,assist,2,make2,2,E. Davis,J. Lin
+124,2,9:11.0,28,27,LAL,DAL,7,away,Timeout,,,,,,
+125,2,9:11.0,28,27,LAL,DAL,0,away,Sub,,,,,A. Aminu,D. Nowitzki
+126,2,9:01.0,28,27,LAL,DAL,10,away,JS,,22,miss3,0,R. Felton,
+127,2,8:59.0,28,27,LAL,DAL,2,home,DefReb,,,DefReb,,W. Ellington,
+128,2,8:57.0,28,27,LAL,DAL,2,away,DefGoaltending,,,DefGoaltending,,C. Parsons,
+129,2,8:57.0,30,27,LAL,DAL,0,home,LU,,0,make2,2,W. Ellington,
+130,2,8:41.0,30,27,LAL,DAL,16,away,JS,,24,miss3,0,C. Parsons,
+131,2,8:40.0,30,27,LAL,DAL,1,home,DefReb,,,DefReb,,C. Boozer,
+132,2,8:22.0,30,27,LAL,DAL,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Barea,J. Lin
+133,2,8:22.0,30,27,LAL,DAL,0,away,Sub,,,,,M. Ellis,R. Felton
+134,2,8:22.0,30,27,LAL,DAL,0,away,Sub,,,,,T. Chandler,A. Stoudemire
+135,2,8:14.0,30,27,LAL,DAL,8,home,LU,,1,miss2,0,C. Boozer,
+136,2,8:11.0,30,27,LAL,DAL,3,home,OffReb,,,OffReb,,E. Davis,
+137,2,8:11.0,32,27,LAL,DAL,0,home,TI,,1,make2,2,E. Davis,
+138,2,8:04.0,32,27,LAL,DAL,7,away,LU,,2,miss2,0,J. Barea,
+139,2,8:02.0,32,27,LAL,DAL,2,home,DefReb,,,DefReb,,C. Boozer,
+140,2,8:00.0,32,27,LAL,DAL,2,home,LostBall,steal,,turnover,,C. Boozer,A. Aminu
+141,2,7:57.0,32,27,LAL,DAL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Boozer,T. Chandler
+142,2,7:57.0,32,28,LAL,DAL,0,away,FreeThrow,,,make1,1,T. Chandler,
+143,2,7:57.0,32,29,LAL,DAL,0,away,FreeThrow,,,make1,1,T. Chandler,
+144,2,7:45.0,32,29,LAL,DAL,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,J. Lin
+145,2,7:45.0,33,29,LAL,DAL,0,home,FreeThrow,,,make1,1,J. Lin,
+146,2,7:45.0,33,29,LAL,DAL,0,away,Sub,,,,,R. Rondo,J. Barea
+147,2,7:45.0,33,29,LAL,DAL,0,home,Sub,,,,,T. Black,E. Davis
+148,2,7:45.0,34,29,LAL,DAL,0,home,FreeThrow,,,make1,1,J. Lin,
+149,2,7:30.0,34,31,LAL,DAL,15,away,LU,assist,1,make2,2,C. Parsons,R. Rondo
+150,2,7:16.0,34,31,LAL,DAL,14,home,JS,,24,miss3,0,R. Kelly,
+151,2,7:15.0,34,31,LAL,DAL,1,away,DefReb,,,DefReb,,M. Ellis,
+152,2,7:02.0,34,34,LAL,DAL,13,away,JS,assist,24,make3,3,C. Parsons,R. Rondo
+153,2,6:40.0,36,34,LAL,DAL,22,home,LU,assist,1,make2,2,C. Boozer,W. Ellington
+154,2,6:29.0,36,34,LAL,DAL,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Ellington,M. Ellis
+155,2,6:29.0,36,34,LAL,DAL,0,home,Sub,,,,,J. Hill,C. Boozer
+156,2,6:29.0,36,34,LAL,DAL,0,home,Sub,,,,,J. Clarkson,J. Lin
+157,2,6:17.0,36,36,LAL,DAL,12,away,DK,assist,0,make2,2,A. Aminu,R. Rondo
+158,2,5:56.0,36,36,LAL,DAL,21,home,JS,,12,miss2,0,W. Ellington,
+159,2,5:55.0,36,36,LAL,DAL,1,home,OffReb,,,OffReb,,J. Hill,
+160,2,5:52.0,36,36,LAL,DAL,3,home,LostBall,steal,,turnover,,J. Hill,A. Aminu
+161,2,5:35.0,36,36,LAL,DAL,17,away,LU,,2,miss2,0,M. Ellis,
+162,2,5:33.0,36,36,LAL,DAL,2,home,DefReb,,,DefReb,,T. Black,
+163,2,5:15.0,36,36,LAL,DAL,18,home,JS,block,3,miss2,0,T. Black,T. Chandler
+164,2,5:13.0,36,36,LAL,DAL,2,away,DefReb,,,DefReb,,A. Aminu,
+165,2,5:11.0,36,36,LAL,DAL,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Kelly,A. Aminu
+166,2,5:11.0,36,36,LAL,DAL,0,away,Timeout,,,,,,
+167,2,5:11.0,36,36,LAL,DAL,0,home,Sub,,,,,W. Johnson,R. Kelly
+168,2,5:11.0,36,37,LAL,DAL,0,away,FreeThrow,,,make1,1,A. Aminu,
+169,2,5:11.0,36,38,LAL,DAL,0,away,FreeThrow,,,make1,1,A. Aminu,
+170,2,4:55.0,36,38,LAL,DAL,16,home,JS,,20,miss2,0,J. Hill,
+171,2,4:54.0,36,38,LAL,DAL,1,away,DefReb,,,DefReb,,M. Ellis,
+172,2,4:40.0,36,40,LAL,DAL,14,away,JS,assist,17,make2,2,M. Ellis,R. Rondo
+173,2,4:19.0,36,40,LAL,DAL,21,home,JS,block,3,miss2,0,T. Black,A. Aminu
+174,2,4:15.0,36,40,LAL,DAL,4,away,DefReb,,,DefReb,,A. Aminu,
+175,2,4:10.0,36,40,LAL,DAL,5,away,LostBall,,,turnover,,A. Aminu,
+176,2,3:48.0,36,40,LAL,DAL,22,home,JS,,23,miss3,0,W. Ellington,
+177,2,3:44.0,36,40,LAL,DAL,4,home,OffReb,,,OffReb,,W. Johnson,
+178,2,3:44.0,36,40,LAL,DAL,0,home,TI,,1,miss2,0,W. Johnson,
+179,2,3:42.0,36,40,LAL,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+180,2,3:29.0,36,42,LAL,DAL,13,away,JS,,20,make2,2,C. Parsons,
+181,2,3:01.0,36,42,LAL,DAL,28,home,JS,,16,miss2,0,J. Clarkson,
+182,2,3:00.0,36,42,LAL,DAL,1,away,DefReb,,,DefReb,,A. Aminu,
+183,2,2:55.0,36,42,LAL,DAL,5,away,BadPass,steal,,turnover,,R. Rondo,W. Ellington
+184,2,2:53.0,36,42,LAL,DAL,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,R. Rondo,W. Ellington
+185,2,2:53.0,36,42,LAL,DAL,0,home,Timeout,,,,,,
+186,2,2:53.0,36,42,LAL,DAL,0,away,Sub,,,,,D. Nowitzki,C. Parsons
+187,2,2:41.0,38,42,LAL,DAL,12,home,JS,assist,20,make2,2,W. Johnson,T. Black
+188,2,2:12.0,38,42,LAL,DAL,29,away,JS,,16,miss2,0,D. Nowitzki,
+189,2,2:11.0,38,42,LAL,DAL,1,home,DefReb,,,DefReb,,J. Hill,
+190,2,1:55.0,40,42,LAL,DAL,16,home,LU,,1,make2,2,T. Black,
+191,2,1:35.0,40,42,LAL,DAL,20,away,JS,,26,miss3,0,R. Rondo,
+192,2,1:34.0,40,42,LAL,DAL,1,home,DefReb,,,DefReb,,T. Black,
+193,2,1:19.0,42,42,LAL,DAL,15,home,JS,,15,make2,2,W. Johnson,
+194,2,1:04.0,42,42,LAL,DAL,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Ellington,M. Ellis
+195,2,1:04.0,42,42,LAL,DAL,0,away,FreeThrow,,,make1,0,M. Ellis,
+196,2,1:04.0,42,42,LAL,DAL,0,away,OffReb,,,OffReb,,Team,
+197,2,1:04.0,42,42,LAL,DAL,0,away,FreeThrow,,,make1,0,M. Ellis,
+198,2,1:03.0,42,42,LAL,DAL,1,home,DefReb,,,DefReb,,J. Hill,
+199,2,0:46.0,42,42,LAL,DAL,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Aminu,T. Black
+200,2,0:46.0,43,42,LAL,DAL,0,home,FreeThrow,,,make1,1,T. Black,
+201,2,0:46.0,43,42,LAL,DAL,0,away,Sub,,,,,C. Parsons,A. Aminu
+202,2,0:46.0,44,42,LAL,DAL,0,home,FreeThrow,,,make1,1,T. Black,
+203,2,0:36.0,44,42,LAL,DAL,10,away,JS,,25,miss3,0,D. Nowitzki,
+204,2,0:34.0,44,42,LAL,DAL,2,away,OffReb,,,OffReb,,C. Parsons,
+205,2,0:17.0,44,44,LAL,DAL,17,away,JS,,4,make2,2,M. Ellis,
+206,2,0:01.0,44,44,LAL,DAL,16,home,JS,,25,miss3,0,W. Ellington,
+207,2,0:00.0,44,44,LAL,DAL,1,home,OffReb,,,OffReb,,Team,
+208,3,11:35.0,47,44,LAL,DAL,25,home,JS,assist,25,make3,3,W. Ellington,J. Clarkson
+209,3,11:20.0,47,44,LAL,DAL,15,away,JS,,14,miss2,0,M. Ellis,
+210,3,11:19.0,47,44,LAL,DAL,1,home,DefReb,,,DefReb,,W. Johnson,
+211,3,11:01.0,49,44,LAL,DAL,18,home,JS,assist,15,make2,2,W. Johnson,J. Hill
+212,3,10:42.0,49,46,LAL,DAL,19,away,JS,assist,17,make2,2,D. Nowitzki,M. Ellis
+213,3,10:22.0,49,46,LAL,DAL,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Parsons,W. Johnson
+214,3,10:22.0,50,46,LAL,DAL,0,home,FreeThrow,,,make1,1,W. Johnson,
+215,3,10:22.0,51,46,LAL,DAL,0,home,FreeThrow,,,make1,1,W. Johnson,
+216,3,10:22.0,51,46,LAL,DAL,0,home,FreeThrow,,,make1,0,W. Johnson,
+217,3,10:20.0,51,46,LAL,DAL,2,away,DefReb,,,DefReb,,C. Parsons,
+218,3,10:01.0,51,48,LAL,DAL,19,away,JS,assist,6,make2,2,M. Ellis,R. Rondo
+219,3,9:39.0,51,48,LAL,DAL,22,home,JS,,24,miss3,0,W. Ellington,
+220,3,9:38.0,51,48,LAL,DAL,1,home,OffReb,,,OffReb,,Team,
+221,3,9:30.0,53,48,LAL,DAL,8,home,JS,,5,make2,2,J. Clarkson,
+222,3,9:16.0,53,50,LAL,DAL,14,away,JS,assist,18,make2,2,R. Rondo,M. Ellis
+223,3,9:03.0,53,50,LAL,DAL,13,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Hill,M. Ellis
+224,3,9:03.0,53,50,LAL,DAL,0,home,OffensiveFoul,,,turnover,,J. Hill,
+225,3,8:51.0,53,50,LAL,DAL,12,away,JS,,25,miss3,0,M. Ellis,
+226,3,8:48.0,53,50,LAL,DAL,3,home,DefReb,,,DefReb,,T. Black,
+227,3,8:45.0,55,50,LAL,DAL,3,home,DK,,0,make2,2,J. Clarkson,
+228,3,8:30.0,55,50,LAL,DAL,15,away,BadPass,steal,,turnover,,M. Ellis,T. Black
+229,3,8:29.0,57,50,LAL,DAL,1,home,DK,assist,0,make2,2,W. Ellington,T. Black
+230,3,8:29.0,57,50,LAL,DAL,0,away,Timeout,,,,,,
+231,3,8:16.0,57,52,LAL,DAL,13,away,JS,assist,18,make2,2,M. Ellis,R. Rondo
+232,3,7:56.0,57,52,LAL,DAL,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rondo,J. Clarkson
+233,3,7:56.0,58,52,LAL,DAL,0,home,FreeThrow,,,make1,1,J. Clarkson,
+234,3,7:56.0,59,52,LAL,DAL,0,home,FreeThrow,,,make1,1,J. Clarkson,
+235,3,7:43.0,59,52,LAL,DAL,13,away,JS,,18,miss2,0,M. Ellis,
+236,3,7:42.0,59,52,LAL,DAL,1,home,DefReb,,,DefReb,,J. Hill,
+237,3,7:28.0,59,52,LAL,DAL,14,home,JS,,14,miss2,0,J. Clarkson,
+238,3,7:26.0,59,52,LAL,DAL,2,away,DefReb,,,DefReb,,R. Rondo,
+239,3,7:03.0,59,55,LAL,DAL,23,away,JS,assist,24,make3,3,M. Ellis,C. Parsons
+240,3,6:35.0,59,55,LAL,DAL,28,home,JS,,20,miss2,0,T. Black,
+241,3,6:34.0,59,55,LAL,DAL,1,away,DefReb,,,DefReb,,R. Rondo,
+242,3,6:21.0,59,55,LAL,DAL,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hill,T. Chandler
+243,3,6:21.0,59,56,LAL,DAL,0,away,FreeThrow,,,make1,1,T. Chandler,
+244,3,6:21.0,59,56,LAL,DAL,0,away,Sub,,,,,A. Aminu,D. Nowitzki
+245,3,6:21.0,59,57,LAL,DAL,0,away,FreeThrow,,,make1,1,T. Chandler,
+246,3,5:58.0,62,57,LAL,DAL,23,home,JS,,25,make3,3,W. Johnson,
+247,3,5:46.0,62,60,LAL,DAL,12,away,JS,assist,23,make3,3,A. Aminu,R. Rondo
+248,3,5:24.0,64,60,LAL,DAL,22,home,JS,assist,10,make2,2,J. Hill,W. Ellington
+249,3,5:05.0,64,60,LAL,DAL,19,away,JS,,24,miss3,0,A. Aminu,
+250,3,5:03.0,64,60,LAL,DAL,2,home,DefReb,,,DefReb,,W. Ellington,
+251,3,5:01.0,64,60,LAL,DAL,2,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,R. Rondo,W. Ellington
+252,3,5:01.0,64,60,LAL,DAL,0,home,Sub,,,,,R. Kelly,W. Johnson
+253,3,5:01.0,64,60,LAL,DAL,0,home,Sub,,,,,C. Boozer,T. Black
+254,3,5:01.0,64,60,LAL,DAL,0,home,Sub,,,,,J. Lin,W. Ellington
+255,3,4:44.0,66,60,LAL,DAL,17,home,JS,assist,14,make2,2,C. Boozer,J. Lin
+256,3,4:29.0,66,60,LAL,DAL,15,away,LU,,1,miss2,0,C. Parsons,
+257,3,4:29.0,66,60,LAL,DAL,0,away,OffReb,,,OffReb,,Team,
+258,3,4:29.0,66,60,LAL,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Boozer,C. Parsons
+259,3,4:20.0,66,60,LAL,DAL,9,away,JS,,18,miss2,0,R. Rondo,
+260,3,4:20.0,66,60,LAL,DAL,0,home,DefReb,,,DefReb,,Team,
+261,3,4:20.0,66,60,LAL,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Aminu,J. Lin
+262,3,4:05.0,66,60,LAL,DAL,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ellis,J. Lin
+263,3,4:05.0,67,60,LAL,DAL,0,home,FreeThrow,,,make1,1,J. Lin,
+264,3,4:05.0,67,60,LAL,DAL,0,away,Sub,,,,,R. Jefferson,C. Parsons
+265,3,4:05.0,68,60,LAL,DAL,0,home,FreeThrow,,,make1,1,J. Lin,
+266,3,3:53.0,68,60,LAL,DAL,12,away,JS,,24,miss3,0,A. Aminu,
+267,3,3:52.0,68,60,LAL,DAL,1,away,OffReb,,,OffReb,,T. Chandler,
+268,3,3:47.0,68,60,LAL,DAL,5,away,JS,,24,miss3,0,R. Jefferson,
+269,3,3:45.0,68,60,LAL,DAL,2,home,DefReb,,,DefReb,,J. Clarkson,
+270,3,3:33.0,68,60,LAL,DAL,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Chandler,J. Lin
+271,3,3:33.0,68,60,LAL,DAL,0,home,FreeThrow,,,make1,0,J. Lin,
+272,3,3:33.0,68,60,LAL,DAL,0,home,OffReb,,,OffReb,,Team,
+273,3,3:33.0,68,60,LAL,DAL,0,away,Sub,,,,,J. Barea,R. Rondo
+274,3,3:33.0,68,60,LAL,DAL,0,home,Sub,,,,,E. Davis,J. Hill
+275,3,3:33.0,68,60,LAL,DAL,0,away,Sub,,,,,A. Stoudemire,T. Chandler
+276,3,3:33.0,69,60,LAL,DAL,0,home,FreeThrow,,,make1,1,J. Lin,
+277,3,3:19.0,69,60,LAL,DAL,14,away,JS,,25,miss3,0,R. Jefferson,
+278,3,3:17.0,69,60,LAL,DAL,2,away,OffReb,,,OffReb,,A. Stoudemire,
+279,3,3:01.0,69,62,LAL,DAL,16,away,JS,assist,18,make2,2,A. Stoudemire,R. Jefferson
+280,3,2:36.0,69,62,LAL,DAL,25,home,BadPass,steal,,turnover,,J. Lin,A. Aminu
+281,3,2:23.0,69,64,LAL,DAL,13,away,LU,,1,make2,2,M. Ellis,
+282,3,2:04.0,71,64,LAL,DAL,19,home,JS,assist,12,make2,2,J. Clarkson,C. Boozer
+283,3,1:54.0,71,66,LAL,DAL,10,away,LU,,2,make2,2,J. Barea,
+284,3,1:37.0,71,66,LAL,DAL,17,home,LostBall,steal,,turnover,,J. Lin,J. Barea
+285,3,1:32.0,71,66,LAL,DAL,5,away,LU,,1,miss2,0,M. Ellis,
+286,3,1:29.0,71,66,LAL,DAL,3,away,OffReb,,,OffReb,,A. Aminu,
+287,3,1:29.0,71,66,LAL,DAL,0,away,TI,,1,miss2,0,A. Aminu,
+288,3,1:27.0,71,66,LAL,DAL,2,home,DefReb,,,DefReb,,E. Davis,
+289,3,1:20.0,71,66,LAL,DAL,7,home,JS,,6,miss2,0,E. Davis,
+290,3,1:18.0,71,66,LAL,DAL,2,home,OffReb,,,OffReb,,J. Clarkson,
+291,3,1:16.0,73,66,LAL,DAL,2,home,LU,,1,make2,2,J. Clarkson,
+292,3,1:02.0,73,69,LAL,DAL,14,away,JS,assist,25,make3,3,M. Ellis,J. Barea
+293,3,0:43.0,73,69,LAL,DAL,19,home,LU,,1,miss2,0,J. Clarkson,
+294,3,0:43.0,73,69,LAL,DAL,0,home,OffReb,,,OffReb,,C. Boozer,
+295,3,0:43.0,75,69,LAL,DAL,0,home,LU,,0,make2,2,C. Boozer,
+296,3,0:32.0,75,72,LAL,DAL,11,away,JS,,25,make3,3,M. Ellis,
+297,3,0:12.0,77,72,LAL,DAL,20,home,LU,assist,1,make2,2,C. Boozer,E. Davis
+298,3,0:06.0,77,72,LAL,DAL,6,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Clarkson,M. Ellis
+299,3,0:06.0,77,72,LAL,DAL,0,home,Timeout,,,,,,
+300,3,0:06.0,77,72,LAL,DAL,0,home,Sub,,,,,W. Ellington,J. Clarkson
+301,3,0:06.0,77,72,LAL,DAL,0,away,Sub,,,,,D. Nowitzki,A. Aminu
+302,3,0:01.0,77,75,LAL,DAL,5,away,JS,,25,make3,3,M. Ellis,
+303,4,11:45.0,77,75,LAL,DAL,15,away,JS,,16,miss2,0,M. Ellis,
+304,4,11:44.0,77,75,LAL,DAL,1,home,DefReb,,,DefReb,,R. Kelly,
+305,4,11:27.0,77,75,LAL,DAL,17,home,JS,,15,miss2,0,R. Kelly,
+306,4,11:24.0,77,75,LAL,DAL,3,home,OffReb,,,OffReb,,E. Davis,
+307,4,11:24.0,79,75,LAL,DAL,0,home,DK,,0,make2,2,E. Davis,
+308,4,11:12.0,79,78,LAL,DAL,12,away,JS,assist,25,make3,3,D. Nowitzki,M. Ellis
+309,4,11:01.0,79,78,LAL,DAL,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Barea,J. Lin
+310,4,10:46.0,79,78,LAL,DAL,15,home,JS,,27,miss3,0,J. Lin,
+311,4,10:45.0,79,78,LAL,DAL,1,home,OffReb,,,OffReb,,C. Boozer,
+312,4,10:39.0,81,78,LAL,DAL,6,home,LU,,2,make2,2,C. Boozer,
+313,4,10:39.0,81,78,LAL,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,C. Boozer
+314,4,10:39.0,82,78,LAL,DAL,0,home,FreeThrow,,,make1,1,C. Boozer,
+315,4,10:33.0,82,78,LAL,DAL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lin,D. Nowitzki
+316,4,10:33.0,82,78,LAL,DAL,0,away,Sub,,,,,C. Parsons,R. Jefferson
+317,4,10:28.0,82,78,LAL,DAL,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Ellington,M. Ellis
+318,4,10:18.0,82,80,LAL,DAL,10,away,LU,,1,make2,2,M. Ellis,
+319,4,10:13.0,82,80,LAL,DAL,5,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,W. Ellington,M. Ellis
+320,4,10:13.0,82,80,LAL,DAL,0,home,OffensiveFoul,,,turnover,,W. Ellington,
+321,4,10:03.0,82,80,LAL,DAL,10,away,JS,block,4,miss2,0,M. Ellis,E. Davis
+322,4,10:03.0,82,80,LAL,DAL,0,home,DefReb,,,DefReb,,Team,
+323,4,9:50.0,82,80,LAL,DAL,13,home,JS,,14,miss2,0,C. Boozer,
+324,4,9:48.0,82,80,LAL,DAL,2,away,DefReb,,,DefReb,,C. Parsons,
+325,4,9:33.0,82,80,LAL,DAL,15,away,JS,,15,miss2,0,D. Nowitzki,
+326,4,9:31.0,82,80,LAL,DAL,2,home,DefReb,,,DefReb,,E. Davis,
+327,4,9:10.0,82,80,LAL,DAL,21,home,JS,,25,miss3,0,R. Kelly,
+328,4,9:08.0,82,80,LAL,DAL,2,home,OffReb,,,OffReb,,C. Boozer,
+329,4,9:00.0,82,80,LAL,DAL,8,home,JS,,18,miss2,0,W. Ellington,
+330,4,8:59.0,82,80,LAL,DAL,1,home,OffReb,,,OffReb,,Team,
+331,4,8:59.0,82,80,LAL,DAL,0,away,Timeout,,,,,,
+332,4,8:59.0,82,80,LAL,DAL,0,away,Sub,,,,,R. Rondo,M. Ellis
+333,4,8:51.0,82,80,LAL,DAL,8,home,LostBall,steal,,turnover,,E. Davis,J. Barea
+334,4,8:38.0,82,80,LAL,DAL,13,away,LU,,1,miss2,0,R. Rondo,
+335,4,8:37.0,82,80,LAL,DAL,1,home,DefReb,,,DefReb,,C. Boozer,
+336,4,8:20.0,82,80,LAL,DAL,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Stoudemire,R. Kelly
+337,4,8:20.0,83,80,LAL,DAL,0,home,FreeThrow,,,make1,1,R. Kelly,
+338,4,8:20.0,84,80,LAL,DAL,0,home,FreeThrow,,,make1,1,R. Kelly,
+339,4,8:20.0,84,80,LAL,DAL,0,home,FreeThrow,,,make1,0,R. Kelly,
+340,4,8:19.0,84,80,LAL,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+341,4,8:02.0,84,82,LAL,DAL,17,away,JS,assist,18,make2,2,A. Stoudemire,J. Barea
+342,4,7:42.0,84,82,LAL,DAL,20,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,J. Lin
+343,4,7:33.0,84,82,LAL,DAL,9,home,JS,,9,miss2,0,J. Lin,
+344,4,7:32.0,84,82,LAL,DAL,1,home,OffReb,,,OffReb,,W. Ellington,
+345,4,7:29.0,86,82,LAL,DAL,3,home,LU,,1,make2,2,W. Ellington,
+346,4,7:10.0,86,84,LAL,DAL,19,away,LU,,1,make2,2,C. Parsons,
+347,4,7:02.0,88,84,LAL,DAL,8,home,JS,assist,20,make2,2,W. Ellington,J. Lin
+348,4,6:46.0,88,84,LAL,DAL,16,away,BadPass,steal,,turnover,,J. Barea,C. Boozer
+349,4,6:42.0,88,84,LAL,DAL,4,home,LU,block,2,miss2,0,E. Davis,C. Parsons
+350,4,6:42.0,88,84,LAL,DAL,0,home,OffReb,,,OffReb,,Team,
+351,4,6:42.0,88,84,LAL,DAL,0,away,Sub,,,,,T. Chandler,D. Nowitzki
+352,4,6:42.0,88,84,LAL,DAL,0,away,Sub,,,,,A. Aminu,A. Stoudemire
+353,4,6:42.0,88,84,LAL,DAL,0,away,Sub,,,,,M. Ellis,J. Barea
+354,4,6:35.0,90,84,LAL,DAL,7,home,LU,assist,1,make2,2,C. Boozer,J. Lin
+355,4,6:35.0,90,84,LAL,DAL,0,away,Timeout,,,,,,
+356,4,6:26.0,90,84,LAL,DAL,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lin,M. Ellis
+357,4,6:15.0,90,86,LAL,DAL,11,away,LU,,1,make2,2,A. Aminu,
+358,4,6:15.0,90,86,LAL,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,A. Aminu
+359,4,6:15.0,90,86,LAL,DAL,0,away,FreeThrow,,,make1,0,A. Aminu,
+360,4,6:14.0,90,86,LAL,DAL,1,home,DefReb,,,DefReb,,R. Kelly,
+361,4,5:56.0,90,86,LAL,DAL,18,home,LostBall,steal,,turnover,,C. Boozer,A. Aminu
+362,4,5:56.0,90,86,LAL,DAL,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,C. Boozer,A. Aminu
+363,4,5:56.0,90,87,LAL,DAL,0,away,FreeThrow,,,make1,1,A. Aminu,
+364,4,5:56.0,90,88,LAL,DAL,0,away,FreeThrow,,,make1,1,A. Aminu,
+365,4,5:36.0,90,88,LAL,DAL,20,home,LostBall,steal,,turnover,,R. Kelly,A. Aminu
+366,4,5:30.0,90,88,LAL,DAL,6,away,JS,,24,miss3,0,C. Parsons,
+367,4,5:27.0,90,88,LAL,DAL,3,home,DefReb,,,DefReb,,E. Davis,
+368,4,5:18.0,90,88,LAL,DAL,9,home,JS,block,3,miss2,0,C. Boozer,A. Aminu
+369,4,5:17.0,90,88,LAL,DAL,1,away,DefReb,,,DefReb,,C. Parsons,
+370,4,5:05.0,90,88,LAL,DAL,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Chandler,W. Ellington
+371,4,5:05.0,90,88,LAL,DAL,0,away,OffensiveFoul,,,turnover,,T. Chandler,
+372,4,5:05.0,90,88,LAL,DAL,0,home,Sub,,,,,W. Johnson,R. Kelly
+373,4,4:51.0,90,88,LAL,DAL,14,home,OffensiveFoul,,,turnover,,J. Lin,
+374,4,4:51.0,90,88,LAL,DAL,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Lin,R. Rondo
+375,4,4:51.0,90,88,LAL,DAL,0,home,Sub,,,,,J. Clarkson,J. Lin
+376,4,4:51.0,90,88,LAL,DAL,0,home,Sub,,,,,T. Black,E. Davis
+377,4,4:39.0,90,88,LAL,DAL,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Black,A. Aminu
+378,4,4:39.0,90,89,LAL,DAL,0,away,FreeThrow,,,make1,1,A. Aminu,
+379,4,4:39.0,90,90,LAL,DAL,0,away,FreeThrow,,,make1,1,A. Aminu,
+380,4,4:24.0,90,90,LAL,DAL,15,home,JS,,24,miss3,0,J. Clarkson,
+381,4,4:23.0,90,90,LAL,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+382,4,4:13.0,90,92,LAL,DAL,10,away,JS,,16,make2,2,R. Rondo,
+383,4,4:12.0,90,92,LAL,DAL,1,home,Timeout,,,,,,
+384,4,3:50.0,90,92,LAL,DAL,22,home,LU,block,1,miss2,0,C. Boozer,A. Aminu
+385,4,3:48.0,90,92,LAL,DAL,2,away,DefReb,,,DefReb,,C. Parsons,
+386,4,3:33.0,90,92,LAL,DAL,15,away,JS,,25,miss3,0,A. Aminu,
+387,4,3:31.0,90,92,LAL,DAL,2,home,DefReb,,,DefReb,,C. Boozer,
+388,4,3:23.0,90,92,LAL,DAL,8,home,BadPass,steal,,turnover,,J. Clarkson,M. Ellis
+389,4,3:20.0,90,92,LAL,DAL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Ellington,M. Ellis
+390,4,3:20.0,90,92,LAL,DAL,0,away,FreeThrow,,,make1,0,M. Ellis,
+391,4,3:20.0,90,92,LAL,DAL,0,away,OffReb,,,OffReb,,Team,
+392,4,3:20.0,90,92,LAL,DAL,0,home,Sub,,,,,J. Hill,C. Boozer
+393,4,3:20.0,90,93,LAL,DAL,0,away,FreeThrow,,,make1,1,M. Ellis,
+394,4,2:58.0,90,93,LAL,DAL,22,home,JS,,25,miss3,0,W. Johnson,
+395,4,2:57.0,90,93,LAL,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+396,4,2:41.0,90,95,LAL,DAL,16,away,JS,,18,make2,2,R. Rondo,
+397,4,2:28.0,90,95,LAL,DAL,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,J. Clarkson
+398,4,2:28.0,90,95,LAL,DAL,0,home,FreeThrow,,,make1,0,J. Clarkson,
+399,4,2:28.0,90,95,LAL,DAL,0,home,OffReb,,,OffReb,,Team,
+400,4,2:28.0,90,95,LAL,DAL,0,away,Sub,,,,,D. Nowitzki,A. Aminu
+401,4,2:28.0,91,95,LAL,DAL,0,home,FreeThrow,,,make1,1,J. Clarkson,
+402,4,2:11.0,91,95,LAL,DAL,17,away,JS,,14,miss2,0,D. Nowitzki,
+403,4,2:07.0,91,95,LAL,DAL,4,away,OffReb,,,OffReb,,R. Rondo,
+404,4,2:07.0,91,95,LAL,DAL,0,away,Timeout,,,,,,
+405,4,2:04.0,91,98,LAL,DAL,3,away,JS,assist,25,make3,3,M. Ellis,D. Nowitzki
+406,4,1:49.0,91,98,LAL,DAL,15,home,JS,,16,miss2,0,J. Clarkson,
+407,4,1:48.0,91,98,LAL,DAL,1,away,DefReb,,,DefReb,,Team,
+408,4,1:33.0,91,98,LAL,DAL,15,away,JS,,20,miss2,0,R. Rondo,
+409,4,1:32.0,91,98,LAL,DAL,1,home,DefReb,,,DefReb,,W. Johnson,
+410,4,1:24.0,91,98,LAL,DAL,8,home,BadPass,steal,,turnover,,W. Johnson,D. Nowitzki
+411,4,1:08.0,91,100,LAL,DAL,16,away,JS,,20,make2,2,M. Ellis,
+412,4,1:08.0,91,100,LAL,DAL,0,home,Timeout,,,,,,
+413,4,1:08.0,91,100,LAL,DAL,0,away,Sub,,,,,A. Aminu,D. Nowitzki
+414,4,1:02.0,91,100,LAL,DAL,6,home,JS,,25,miss3,0,W. Ellington,
+415,4,1:01.0,91,100,LAL,DAL,1,away,DefReb,,,DefReb,,A. Aminu,
+416,4,0:57.0,91,100,LAL,DAL,4,away,Timeout,,,,,,
+417,4,0:38.0,91,100,LAL,DAL,19,away,JS,,32,miss3,0,M. Ellis,
+418,4,0:35.0,91,100,LAL,DAL,3,home,DefReb,,,DefReb,,Team,
+419,4,0:28.0,91,100,LAL,DAL,7,home,LostBall,steal,,turnover,,J. Clarkson,A. Aminu
+420,4,0:03.0,91,100,LAL,DAL,25,away,ShotClockViolation,,,turnover,,Team,
+421,4,0:00.0,93,100,LAL,DAL,3,home,LU,assist,0,make2,2,W. Ellington,J. Clarkson

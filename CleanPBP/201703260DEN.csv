@@ -1,0 +1,436 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:37.0,0,0,DEN,NOP,23,away,JS,,26,miss3,0,S. Hill,
+1,1,11:36.0,0,0,DEN,NOP,1,home,DefReb,,,DefReb,,N. Jokić,
+2,1,11:27.0,2,0,DEN,NOP,9,home,DK,assist,0,make2,2,N. Jokić,W. Chandler
+3,1,11:15.0,2,2,DEN,NOP,12,away,JS,assist,17,make2,2,A. Davis,J. Holiday
+4,1,10:56.0,2,2,DEN,NOP,19,home,HS,,5,miss2,0,N. Jokić,
+5,1,10:55.0,2,2,DEN,NOP,1,home,OffReb,,,OffReb,,N. Jokić,
+6,1,10:47.0,4,2,DEN,NOP,8,home,HS,,6,make2,2,N. Jokić,
+7,1,10:35.0,4,5,DEN,NOP,12,away,JS,,25,make3,3,J. Holiday,
+8,1,10:20.0,6,5,DEN,NOP,15,home,DK,assist,0,make2,2,N. Jokić,J. Nelson
+9,1,10:08.0,6,5,DEN,NOP,12,home,KickBallViolation,,,KickBallViolation,,G. Harris,
+10,1,10:01.0,6,5,DEN,NOP,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Chandler,A. Davis
+11,1,10:01.0,6,6,DEN,NOP,0,away,FreeThrow,,,make1,1,A. Davis,
+12,1,10:01.0,6,7,DEN,NOP,0,away,FreeThrow,,,make1,1,A. Davis,
+13,1,10:00.0,6,7,DEN,NOP,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,D. Gallinari
+14,1,9:44.0,8,7,DEN,NOP,16,home,DK,assist,0,make2,2,G. Harris,N. Jokić
+15,1,9:39.0,8,7,DEN,NOP,5,away,Timeout,,,,,,
+16,1,9:31.0,8,7,DEN,NOP,8,away,JS,,19,miss2,0,A. Davis,
+17,1,9:30.0,8,7,DEN,NOP,1,home,DefReb,,,DefReb,,J. Nelson,
+18,1,9:20.0,8,7,DEN,NOP,10,home,JS,,24,miss3,0,W. Chandler,
+19,1,9:19.0,8,7,DEN,NOP,1,away,DefReb,,,DefReb,,Team,
+20,1,9:05.0,8,7,DEN,NOP,14,away,JS,,9,miss2,0,D. Cunningham,
+21,1,9:04.0,8,7,DEN,NOP,1,home,DefReb,,,DefReb,,N. Jokić,
+22,1,8:57.0,11,7,DEN,NOP,7,home,JS,assist,26,make3,3,D. Gallinari,G. Harris
+23,1,8:57.0,11,7,DEN,NOP,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,D. Gallinari
+24,1,8:57.0,12,7,DEN,NOP,0,home,FreeThrow,,,make1,1,D. Gallinari,
+25,1,8:42.0,12,7,DEN,NOP,15,away,JS,,24,miss3,0,J. Holiday,
+26,1,8:42.0,12,7,DEN,NOP,0,home,DefReb,,,DefReb,,D. Gallinari,
+27,1,8:30.0,14,7,DEN,NOP,12,home,LU,assist,1,make2,2,W. Chandler,J. Nelson
+28,1,8:18.0,14,10,DEN,NOP,12,away,JS,assist,25,make3,3,S. Hill,A. Davis
+29,1,7:59.0,16,10,DEN,NOP,19,home,JS,assist,14,make2,2,G. Harris,W. Chandler
+30,1,7:42.0,16,10,DEN,NOP,17,away,LU,,2,miss2,0,J. Holiday,
+31,1,7:42.0,16,10,DEN,NOP,0,home,DefReb,,,DefReb,,N. Jokić,
+32,1,7:32.0,16,10,DEN,NOP,10,home,JS,,15,miss2,0,W. Chandler,
+33,1,7:31.0,16,10,DEN,NOP,1,away,DefReb,,,DefReb,,A. Davis,
+34,1,7:16.0,16,12,DEN,NOP,15,away,LU,assist,3,make2,2,A. Davis,J. Holiday
+35,1,7:04.0,19,12,DEN,NOP,12,home,JS,assist,24,make3,3,G. Harris,J. Nelson
+36,1,6:48.0,19,12,DEN,NOP,16,away,JS,,25,miss3,0,J. Holiday,
+37,1,6:48.0,19,12,DEN,NOP,0,home,DefReb,,,DefReb,,N. Jokić,
+38,1,6:38.0,19,12,DEN,NOP,10,home,LostBall,steal,,turnover,,J. Nelson,J. Holiday
+39,1,6:25.0,19,12,DEN,NOP,13,away,JS,,23,miss3,0,D. Cunningham,
+40,1,6:25.0,19,12,DEN,NOP,0,home,DefReb,,,DefReb,,J. Nelson,
+41,1,6:17.0,19,12,DEN,NOP,8,home,JS,,25,miss3,0,D. Gallinari,
+42,1,6:16.0,19,12,DEN,NOP,1,away,DefReb,,,DefReb,,A. Davis,
+43,1,6:11.0,19,12,DEN,NOP,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Gallinari,A. Davis
+44,1,6:11.0,19,13,DEN,NOP,0,away,FreeThrow,,,make1,1,A. Davis,
+45,1,6:11.0,19,13,DEN,NOP,0,away,FreeThrow,,,make1,0,A. Davis,
+46,1,6:11.0,19,13,DEN,NOP,0,away,Sub,,,,,E. Moore,T. Frazier
+47,1,6:10.0,19,13,DEN,NOP,1,home,DefReb,,,DefReb,,N. Jokić,
+48,1,5:55.0,19,13,DEN,NOP,15,home,BadPass,,,turnover,,G. Harris,
+49,1,5:55.0,19,13,DEN,NOP,0,away,Sub,,,,,D. Motiejūnas,D. Cunningham
+50,1,5:38.0,19,15,DEN,NOP,17,away,HS,assist,7,make2,2,D. Motiejūnas,E. Moore
+51,1,5:22.0,21,15,DEN,NOP,16,home,JS,,10,make2,2,W. Chandler,
+52,1,5:05.0,21,15,DEN,NOP,17,away,JS,,20,miss2,0,E. Moore,
+53,1,5:05.0,21,15,DEN,NOP,0,home,DefReb,,,DefReb,,J. Nelson,
+54,1,4:56.0,24,15,DEN,NOP,9,home,JS,assist,26,make3,3,D. Gallinari,J. Nelson
+55,1,4:40.0,24,15,DEN,NOP,16,away,JS,,19,miss2,0,S. Hill,
+56,1,4:39.0,24,15,DEN,NOP,1,home,DefReb,,,DefReb,,J. Nelson,
+57,1,4:34.0,24,15,DEN,NOP,5,home,LU,,2,miss2,0,D. Gallinari,
+58,1,4:33.0,24,15,DEN,NOP,1,away,DefReb,,,DefReb,,J. Holiday,
+59,1,4:23.0,24,18,DEN,NOP,10,away,JS,assist,25,make3,3,D. Motiejūnas,A. Davis
+60,1,4:23.0,24,18,DEN,NOP,0,home,Timeout,,,,,,
+61,1,4:23.0,24,18,DEN,NOP,0,home,Sub,,,,,W. Barton,D. Gallinari
+62,1,4:03.0,24,18,DEN,NOP,20,home,JS,,25,miss3,0,G. Harris,
+63,1,4:01.0,24,18,DEN,NOP,2,away,DefReb,,,DefReb,,S. Hill,
+64,1,3:49.0,24,18,DEN,NOP,12,away,BadPass,,,turnover,,D. Motiejūnas,
+65,1,3:32.0,24,18,DEN,NOP,17,home,JS,,26,miss3,0,N. Jokić,
+66,1,3:31.0,24,18,DEN,NOP,1,away,DefReb,,,DefReb,,A. Davis,
+67,1,3:19.0,24,18,DEN,NOP,12,away,JS,,26,miss3,0,A. Davis,
+68,1,3:18.0,24,18,DEN,NOP,1,home,DefReb,,,DefReb,,N. Jokić,
+69,1,2:59.0,26,18,DEN,NOP,19,home,JS,assist,21,make2,2,G. Harris,J. Nelson
+70,1,2:45.0,26,18,DEN,NOP,14,away,LU,,2,miss2,0,D. Motiejūnas,
+71,1,2:44.0,26,18,DEN,NOP,1,away,OffReb,,,OffReb,,A. Davis,
+72,1,2:43.0,26,20,DEN,NOP,1,away,LU,,1,make2,2,A. Davis,
+73,1,2:26.0,26,20,DEN,NOP,17,home,JS,,26,miss3,0,W. Chandler,
+74,1,2:26.0,26,20,DEN,NOP,0,away,DefReb,,,DefReb,,S. Hill,
+75,1,2:26.0,26,20,DEN,NOP,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,N. Jokić,S. Hill
+76,1,2:26.0,26,20,DEN,NOP,0,home,Sub,,,,,M. Plumlee,N. Jokić
+77,1,2:26.0,26,20,DEN,NOP,0,home,Sub,,,,,J. Murray,J. Nelson
+78,1,2:21.0,26,20,DEN,NOP,5,away,Sub,,,,,J. Crawford,J. Holiday
+79,1,2:19.0,26,20,DEN,NOP,2,away,Sub,,,,,T. Frazier,S. Hill
+80,1,2:12.0,26,22,DEN,NOP,7,away,JS,,7,make2,2,J. Crawford,
+81,1,2:03.0,26,22,DEN,NOP,9,home,LU,,2,miss2,0,M. Plumlee,
+82,1,2:02.0,26,22,DEN,NOP,1,away,DefReb,,,DefReb,,A. Davis,
+83,1,1:52.0,26,24,DEN,NOP,10,away,JS,,19,make2,2,A. Davis,
+84,1,1:38.0,26,24,DEN,NOP,14,home,JS,,22,miss2,0,G. Harris,
+85,1,1:37.0,26,24,DEN,NOP,1,away,DefReb,,,DefReb,,D. Motiejūnas,
+86,1,1:27.0,26,24,DEN,NOP,10,away,LU,,3,miss2,0,D. Motiejūnas,
+87,1,1:27.0,26,24,DEN,NOP,0,away,OffReb,,,OffReb,,D. Motiejūnas,
+88,1,1:27.0,26,26,DEN,NOP,0,away,LU,,3,make2,2,D. Motiejūnas,
+89,1,1:27.0,26,26,DEN,NOP,0,home,DefGoaltending,,,DefGoaltending,,M. Plumlee,
+90,1,1:27.0,26,26,DEN,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Murray,D. Motiejūnas
+91,1,1:27.0,26,26,DEN,NOP,0,away,FreeThrow,,,make1,0,D. Motiejūnas,
+92,1,1:27.0,26,26,DEN,NOP,0,home,DefReb,,,DefReb,,K. Faried,
+93,1,1:27.0,26,26,DEN,NOP,0,home,Sub,,,,,K. Faried,W. Chandler
+94,1,1:01.0,26,26,DEN,NOP,26,home,JS,,17,miss2,0,J. Murray,
+95,1,1:01.0,26,26,DEN,NOP,0,away,DefReb,,,DefReb,,D. Motiejūnas,
+96,1,0:58.0,26,26,DEN,NOP,3,away,LostBall,steal,,turnover,,A. Davis,J. Murray
+97,1,0:58.0,26,26,DEN,NOP,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Motiejūnas,W. Barton
+98,1,0:58.0,26,26,DEN,NOP,0,away,Sub,,,,,A. Ajinça,A. Davis
+99,1,0:54.0,26,26,DEN,NOP,4,away,Sub,,,,,D. Cunningham,D. Motiejūnas
+100,1,0:50.0,26,26,DEN,NOP,4,home,LU,,2,miss2,0,W. Barton,
+101,1,0:49.0,26,26,DEN,NOP,1,away,DefReb,,,DefReb,,J. Crawford,
+102,1,0:40.0,26,26,DEN,NOP,9,away,JS,,18,miss2,0,J. Crawford,
+103,1,0:39.0,26,26,DEN,NOP,1,home,DefReb,,,DefReb,,M. Plumlee,
+104,1,0:26.0,26,26,DEN,NOP,13,home,LU,,1,miss2,0,M. Plumlee,
+105,1,0:24.0,26,26,DEN,NOP,2,away,DefReb,,,DefReb,,A. Ajinça,
+106,1,0:02.0,26,26,DEN,NOP,22,away,JS,,18,miss2,0,J. Crawford,
+107,1,0:01.0,26,26,DEN,NOP,1,home,DefReb,,,DefReb,,M. Plumlee,
+108,1,0:01.0,26,26,DEN,NOP,0,home,Traveling,,,turnover,,M. Plumlee,
+109,1,0:01.0,26,26,DEN,NOP,0,away,Sub,,,,,A. Davis,A. Ajinça
+110,1,0:00.0,26,29,DEN,NOP,1,away,JS,assist,25,make3,3,A. Davis,J. Crawford
+111,2,11:33.0,26,29,DEN,NOP,27,home,JS,,21,miss2,0,D. Gallinari,
+112,2,11:32.0,26,29,DEN,NOP,1,home,OffReb,,,OffReb,,M. Plumlee,
+113,2,11:29.0,26,29,DEN,NOP,3,home,LostBall,steal,,turnover,,M. Plumlee,E. Moore
+114,2,11:15.0,26,31,DEN,NOP,14,away,JS,assist,7,make2,2,E. Moore,T. Frazier
+115,2,10:53.0,28,31,DEN,NOP,22,home,JS,,10,make2,2,W. Barton,
+116,2,10:39.0,28,31,DEN,NOP,14,away,JS,,19,miss2,0,J. Crawford,
+117,2,10:38.0,28,31,DEN,NOP,1,home,DefReb,,,DefReb,,D. Gallinari,
+118,2,10:28.0,30,31,DEN,NOP,10,home,JS,assist,2,make2,2,K. Faried,W. Barton
+119,2,10:13.0,30,31,DEN,NOP,15,away,JS,,16,miss2,0,A. Ajinça,
+120,2,10:12.0,30,31,DEN,NOP,1,home,DefReb,,,DefReb,,W. Barton,
+121,2,10:06.0,30,31,DEN,NOP,6,home,JS,block,4,miss2,0,W. Barton,A. Ajinça
+122,2,10:05.0,30,31,DEN,NOP,1,away,DefReb,,,DefReb,,A. Ajinça,
+123,2,9:59.0,30,33,DEN,NOP,6,away,LU,,1,make2,2,J. Crawford,
+124,2,9:47.0,30,33,DEN,NOP,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crawford,D. Gallinari
+125,2,9:32.0,30,33,DEN,NOP,15,home,JS,,4,miss2,0,J. Murray,
+126,2,9:31.0,30,33,DEN,NOP,1,away,DefReb,,,DefReb,,D. Cunningham,
+127,2,9:26.0,30,33,DEN,NOP,5,away,LU,,2,miss2,0,T. Frazier,
+128,2,9:26.0,30,33,DEN,NOP,0,away,OffReb,,,OffReb,,D. Cunningham,
+129,2,9:14.0,30,33,DEN,NOP,12,away,JS,,5,miss2,0,T. Frazier,
+130,2,9:12.0,30,33,DEN,NOP,2,away,OffReb,,,OffReb,,A. Ajinça,
+131,2,8:57.0,30,35,DEN,NOP,15,away,LU,assist,1,make2,2,D. Cunningham,J. Crawford
+132,2,8:57.0,30,35,DEN,NOP,0,home,Timeout,,,,,,
+133,2,8:45.0,30,35,DEN,NOP,12,home,LostBall,steal,,turnover,,W. Barton,A. Ajinça
+134,2,8:39.0,30,35,DEN,NOP,6,away,JS,,20,miss2,0,E. Moore,
+135,2,8:38.0,30,35,DEN,NOP,1,home,DefReb,,,DefReb,,W. Barton,
+136,2,8:31.0,30,35,DEN,NOP,7,home,JS,,17,miss2,0,W. Barton,
+137,2,8:30.0,30,35,DEN,NOP,1,away,DefReb,,,DefReb,,D. Cunningham,
+138,2,8:18.0,30,37,DEN,NOP,12,away,JS,,16,make2,2,J. Crawford,
+139,2,7:51.0,30,37,DEN,NOP,27,home,LU,,2,miss2,0,J. Murray,
+140,2,7:50.0,30,37,DEN,NOP,1,away,DefReb,,,DefReb,,A. Ajinça,
+141,2,7:39.0,30,40,DEN,NOP,11,away,JS,assist,25,make3,3,T. Frazier,J. Crawford
+142,2,7:32.0,32,40,DEN,NOP,7,home,DK,assist,0,make2,2,M. Plumlee,W. Barton
+143,2,7:16.0,32,42,DEN,NOP,16,away,JS,assist,12,make2,2,E. Moore,J. Crawford
+144,2,7:07.0,32,42,DEN,NOP,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crawford,D. Gallinari
+145,2,7:07.0,32,42,DEN,NOP,0,home,Sub,,,,,J. Nelson,W. Barton
+146,2,7:07.0,32,42,DEN,NOP,0,home,Sub,,,,,N. Jokić,M. Plumlee
+147,2,7:07.0,32,42,DEN,NOP,0,home,Sub,,,,,G. Harris,J. Murray
+148,2,7:07.0,32,42,DEN,NOP,0,home,Sub,,,,,W. Chandler,K. Faried
+149,2,7:07.0,32,42,DEN,NOP,0,away,Sub,,,,,J. Holiday,E. Moore
+150,2,7:07.0,32,42,DEN,NOP,0,away,Sub,,,,,A. Davis,J. Crawford
+151,2,7:07.0,32,42,DEN,NOP,0,away,Sub,,,,,S. Hill,A. Ajinça
+152,2,6:56.0,32,42,DEN,NOP,11,home,JS,block,4,miss2,0,N. Jokić,D. Cunningham
+153,2,6:54.0,32,42,DEN,NOP,2,home,OffReb,,,OffReb,,N. Jokić,
+154,2,6:49.0,32,42,DEN,NOP,5,home,JS,,25,miss3,0,G. Harris,
+155,2,6:48.0,32,42,DEN,NOP,1,away,DefReb,,,DefReb,,A. Davis,
+156,2,6:32.0,32,44,DEN,NOP,16,away,JS,assist,5,make2,2,T. Frazier,J. Holiday
+157,2,6:19.0,32,44,DEN,NOP,13,home,JS,,17,miss2,0,J. Nelson,
+158,2,6:16.0,32,44,DEN,NOP,3,away,DefReb,,,DefReb,,J. Holiday,
+159,2,6:08.0,32,44,DEN,NOP,8,away,JS,,26,miss3,0,S. Hill,
+160,2,6:07.0,32,44,DEN,NOP,1,home,DefReb,,,DefReb,,J. Nelson,
+161,2,6:01.0,32,44,DEN,NOP,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cunningham,D. Gallinari
+162,2,6:01.0,33,44,DEN,NOP,0,home,FreeThrow,,,make1,1,D. Gallinari,
+163,2,6:01.0,34,44,DEN,NOP,0,home,FreeThrow,,,make1,1,D. Gallinari,
+164,2,5:50.0,34,44,DEN,NOP,11,away,HS,,0,miss2,0,A. Davis,
+165,2,5:49.0,34,44,DEN,NOP,1,home,DefReb,,,DefReb,,N. Jokić,
+166,2,5:36.0,34,44,DEN,NOP,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,G. Harris
+167,2,5:36.0,34,44,DEN,NOP,0,away,Timeout,,,,,,
+168,2,5:36.0,35,44,DEN,NOP,0,home,FreeThrow,,,make1,1,G. Harris,
+169,2,5:36.0,34,44,DEN,NOP,0,away,Sub,,,,,E. Moore,D. Cunningham
+170,2,5:36.0,34,44,DEN,NOP,0,home,Sub,,,,,K. Faried,D. Gallinari
+171,2,5:36.0,35,44,DEN,NOP,0,away,Sub,,,,,A. Ajinça,E. Moore
+172,2,5:36.0,36,44,DEN,NOP,0,home,FreeThrow,,,make1,1,G. Harris,
+173,2,5:30.0,36,44,DEN,NOP,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Nelson,J. Holiday
+174,2,5:22.0,36,46,DEN,NOP,8,away,JS,assist,18,make2,2,A. Davis,S. Hill
+175,2,5:03.0,36,46,DEN,NOP,19,home,JS,,14,miss2,0,N. Jokić,
+176,2,5:02.0,36,46,DEN,NOP,1,away,DefReb,,,DefReb,,J. Holiday,
+177,2,4:44.0,36,46,DEN,NOP,18,away,HS,,5,miss2,0,A. Ajinça,
+178,2,4:41.0,36,46,DEN,NOP,3,home,DefReb,,,DefReb,,N. Jokić,
+179,2,4:33.0,36,46,DEN,NOP,8,home,LU,,1,miss2,0,N. Jokić,
+180,2,4:32.0,36,46,DEN,NOP,1,away,DefReb,,,DefReb,,A. Davis,
+181,2,4:24.0,36,46,DEN,NOP,8,away,LU,,2,miss2,0,J. Holiday,
+182,2,4:23.0,36,46,DEN,NOP,1,home,DefReb,,,DefReb,,N. Jokić,
+183,2,4:14.0,36,46,DEN,NOP,9,home,JS,,8,miss2,0,N. Jokić,
+184,2,4:13.0,36,46,DEN,NOP,1,home,OffReb,,,OffReb,,N. Jokić,
+185,2,4:00.0,36,46,DEN,NOP,13,home,LU,block,4,miss2,0,K. Faried,A. Davis
+186,2,3:59.0,36,46,DEN,NOP,1,home,OffReb,,,OffReb,,Team,
+187,2,3:57.0,36,46,DEN,NOP,2,home,BadPass,steal,,turnover,,N. Jokić,A. Ajinça
+188,2,3:48.0,36,48,DEN,NOP,9,away,LU,,1,make2,2,T. Frazier,
+189,2,3:41.0,38,48,DEN,NOP,7,home,LU,,2,make2,2,N. Jokić,
+190,2,3:25.0,38,50,DEN,NOP,16,away,JS,assist,18,make2,2,A. Davis,T. Frazier
+191,2,3:13.0,38,50,DEN,NOP,12,home,JS,,26,miss3,0,N. Jokić,
+192,2,3:11.0,38,50,DEN,NOP,2,away,DefReb,,,DefReb,,S. Hill,
+193,2,2:56.0,38,53,DEN,NOP,15,away,JS,assist,26,make3,3,J. Holiday,T. Frazier
+194,2,2:42.0,38,53,DEN,NOP,14,home,JS,,9,miss2,0,W. Chandler,
+195,2,2:42.0,38,53,DEN,NOP,0,home,OffReb,,,OffReb,,K. Faried,
+196,2,2:42.0,38,53,DEN,NOP,0,away,Timeout,,,,,,
+197,2,2:42.0,38,53,DEN,NOP,0,away,Sub,,,,,D. Cunningham,S. Hill
+198,2,2:42.0,38,53,DEN,NOP,0,away,Sub,,,,,D. Motiejūnas,A. Ajinça
+199,2,2:42.0,38,53,DEN,NOP,0,home,Sub,,,,,D. Gallinari,N. Jokić
+200,2,2:22.0,38,53,DEN,NOP,20,home,LU,,1,miss2,0,W. Chandler,
+201,2,2:21.0,38,53,DEN,NOP,1,away,DefReb,,,DefReb,,D. Motiejūnas,
+202,2,2:20.0,38,53,DEN,NOP,1,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Frazier,J. Nelson
+203,2,2:20.0,38,53,DEN,NOP,0,away,OffensiveFoul,,,turnover,,T. Frazier,
+204,2,1:59.0,38,53,DEN,NOP,21,home,JS,,4,miss2,0,K. Faried,
+205,2,1:58.0,38,53,DEN,NOP,1,home,OffReb,,,OffReb,,W. Chandler,
+206,2,1:53.0,38,53,DEN,NOP,5,home,JS,,12,miss2,0,W. Chandler,
+207,2,1:52.0,38,53,DEN,NOP,1,away,DefReb,,,DefReb,,A. Davis,
+208,2,1:39.0,38,53,DEN,NOP,13,away,JS,,20,miss2,0,A. Davis,
+209,2,1:38.0,38,53,DEN,NOP,1,home,DefReb,,,DefReb,,K. Faried,
+210,2,1:24.0,38,53,DEN,NOP,14,home,LU,,1,miss2,0,G. Harris,
+211,2,1:23.0,38,53,DEN,NOP,1,away,DefReb,,,DefReb,,J. Holiday,
+212,2,1:17.0,38,53,DEN,NOP,6,away,JS,,25,miss3,0,J. Holiday,
+213,2,1:16.0,38,53,DEN,NOP,1,home,DefReb,,,DefReb,,W. Chandler,
+214,2,1:00.0,38,53,DEN,NOP,16,home,JS,,21,miss2,0,G. Harris,
+215,2,1:00.0,38,53,DEN,NOP,0,away,DefReb,,,DefReb,,J. Holiday,
+216,2,0:40.0,38,53,DEN,NOP,20,away,JS,,26,miss3,0,T. Frazier,
+217,2,0:39.0,38,53,DEN,NOP,1,home,DefReb,,,DefReb,,D. Gallinari,
+218,2,0:33.0,40,53,DEN,NOP,6,home,LU,,3,make2,2,J. Nelson,
+219,2,0:23.0,40,55,DEN,NOP,10,away,LU,,3,make2,2,J. Holiday,
+220,2,0:01.0,40,55,DEN,NOP,22,home,JS,,15,miss2,0,J. Nelson,
+221,2,0:00.0,40,55,DEN,NOP,1,away,DefReb,,,DefReb,,A. Davis,
+222,3,11:35.0,40,55,DEN,NOP,25,home,JS,,14,miss2,0,N. Jokić,
+223,3,11:34.0,40,55,DEN,NOP,1,away,DefReb,,,DefReb,,S. Hill,
+224,3,11:12.0,40,55,DEN,NOP,22,away,JS,,16,miss2,0,J. Holiday,
+225,3,11:11.0,40,55,DEN,NOP,1,home,DefReb,,,DefReb,,N. Jokić,
+226,3,11:05.0,40,55,DEN,NOP,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Frazier,J. Nelson
+227,3,10:54.0,40,55,DEN,NOP,11,home,JS,,26,miss3,0,N. Jokić,
+228,3,10:53.0,40,55,DEN,NOP,1,away,DefReb,,,DefReb,,T. Frazier,
+229,3,10:42.0,40,55,DEN,NOP,11,away,Timeout,,,,,,
+230,3,10:29.0,40,55,DEN,NOP,13,away,LU,,2,miss2,0,J. Holiday,
+231,3,10:29.0,40,55,DEN,NOP,0,home,DefReb,,,DefReb,,D. Gallinari,
+232,3,10:16.0,40,55,DEN,NOP,13,home,JS,,24,miss3,0,D. Gallinari,
+233,3,10:15.0,40,55,DEN,NOP,1,away,DefReb,,,DefReb,,D. Cunningham,
+234,3,10:03.0,40,55,DEN,NOP,12,away,JS,,23,miss3,0,D. Cunningham,
+235,3,10:02.0,40,55,DEN,NOP,1,away,OffReb,,,OffReb,,A. Davis,
+236,3,9:54.0,40,57,DEN,NOP,8,away,JS,assist,22,make2,2,A. Davis,T. Frazier
+237,3,9:41.0,40,57,DEN,NOP,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,D. Gallinari
+238,3,9:41.0,41,57,DEN,NOP,0,home,FreeThrow,,,make1,1,D. Gallinari,
+239,3,9:41.0,42,57,DEN,NOP,0,home,FreeThrow,,,make1,1,D. Gallinari,
+240,3,9:32.0,42,59,DEN,NOP,9,away,JS,,14,make2,2,A. Davis,
+241,3,9:32.0,42,59,DEN,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Chandler,A. Davis
+242,3,9:32.0,42,60,DEN,NOP,0,away,FreeThrow,,,make1,1,A. Davis,
+243,3,9:20.0,44,60,DEN,NOP,12,home,DK,assist,0,make2,2,G. Harris,N. Jokić
+244,3,9:02.0,44,62,DEN,NOP,18,away,JS,assist,18,make2,2,A. Davis,J. Holiday
+245,3,8:50.0,44,62,DEN,NOP,12,home,JS,,18,miss2,0,G. Harris,
+246,3,8:49.0,44,62,DEN,NOP,1,away,DefReb,,,DefReb,,A. Davis,
+247,3,8:44.0,44,62,DEN,NOP,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,S. Hill
+248,3,8:44.0,44,63,DEN,NOP,0,away,FreeThrow,,,make1,1,S. Hill,
+249,3,8:44.0,44,64,DEN,NOP,0,away,FreeThrow,,,make1,1,S. Hill,
+250,3,8:30.0,44,64,DEN,NOP,14,home,JS,,25,miss3,0,J. Nelson,
+251,3,8:29.0,44,64,DEN,NOP,1,away,DefReb,,,DefReb,,A. Davis,
+252,3,8:26.0,44,64,DEN,NOP,3,away,Traveling,,,turnover,,S. Hill,
+253,3,8:13.0,44,64,DEN,NOP,13,home,LU,,2,miss2,0,N. Jokić,
+254,3,8:12.0,44,64,DEN,NOP,1,away,DefReb,,,DefReb,,A. Davis,
+255,3,8:11.0,44,64,DEN,NOP,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Jokić,A. Davis
+256,3,8:00.0,44,64,DEN,NOP,11,away,JS,,25,miss3,0,T. Frazier,
+257,3,7:59.0,44,64,DEN,NOP,1,home,DefReb,,,DefReb,,D. Gallinari,
+258,3,7:47.0,44,64,DEN,NOP,12,home,JS,,25,miss3,0,G. Harris,
+259,3,7:45.0,44,64,DEN,NOP,2,away,DefReb,,,DefReb,,D. Cunningham,
+260,3,7:40.0,44,66,DEN,NOP,5,away,DK,assist,0,make2,2,D. Cunningham,J. Holiday
+261,3,7:40.0,44,66,DEN,NOP,0,home,Timeout,,,,,,
+262,3,7:40.0,44,66,DEN,NOP,0,away,Sub,,,,,E. Moore,T. Frazier
+263,3,7:39.0,44,66,DEN,NOP,1,home,Sub,,,,,K. Faried,N. Jokić
+264,3,7:39.0,44,66,DEN,NOP,0,home,Sub,,,,,W. Barton,G. Harris
+265,3,7:28.0,44,66,DEN,NOP,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,K. Faried
+266,3,7:28.0,45,66,DEN,NOP,0,home,FreeThrow,,,make1,1,K. Faried,
+267,3,7:28.0,46,66,DEN,NOP,0,home,FreeThrow,,,make1,1,K. Faried,
+268,3,7:12.0,46,69,DEN,NOP,16,away,JS,,26,make3,3,J. Holiday,
+269,3,6:59.0,46,69,DEN,NOP,13,home,JS,,12,miss2,0,W. Barton,
+270,3,6:58.0,46,69,DEN,NOP,1,home,OffReb,,,OffReb,,K. Faried,
+271,3,6:52.0,46,69,DEN,NOP,6,home,JS,,23,miss2,0,J. Nelson,
+272,3,6:51.0,46,69,DEN,NOP,1,away,DefReb,,,DefReb,,S. Hill,
+273,3,6:45.0,46,69,DEN,NOP,6,away,LU,,1,miss2,0,S. Hill,
+274,3,6:44.0,46,69,DEN,NOP,1,away,OffReb,,,OffReb,,D. Cunningham,
+275,3,6:43.0,46,71,DEN,NOP,1,away,LU,,1,make2,2,D. Cunningham,
+276,3,6:26.0,46,71,DEN,NOP,17,home,JS,,8,miss2,0,K. Faried,
+277,3,6:25.0,46,71,DEN,NOP,1,away,DefReb,,,DefReb,,J. Holiday,
+278,3,6:20.0,46,71,DEN,NOP,5,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Nelson,A. Davis
+279,3,6:10.0,46,71,DEN,NOP,10,away,JS,,25,miss3,0,E. Moore,
+280,3,6:09.0,46,71,DEN,NOP,1,home,DefReb,,,DefReb,,K. Faried,
+281,3,5:56.0,48,71,DEN,NOP,13,home,JS,,7,make2,2,W. Barton,
+282,3,5:32.0,48,73,DEN,NOP,24,away,LU,assist,3,make2,2,J. Holiday,A. Davis
+283,3,5:18.0,50,73,DEN,NOP,14,home,JS,assist,5,make2,2,J. Nelson,W. Barton
+284,3,5:02.0,50,73,DEN,NOP,16,away,JS,,21,miss2,0,A. Davis,
+285,3,5:02.0,50,73,DEN,NOP,0,home,DefReb,,,DefReb,,W. Barton,
+286,3,4:55.0,50,73,DEN,NOP,7,home,LU,block,1,miss2,0,J. Nelson,D. Cunningham
+287,3,4:54.0,50,73,DEN,NOP,1,away,DefReb,,,DefReb,,D. Cunningham,
+288,3,4:48.0,50,73,DEN,NOP,6,away,Timeout,,,,,,
+289,3,4:48.0,50,73,DEN,NOP,0,away,Sub,,,,,J. Crawford,S. Hill
+290,3,4:48.0,50,73,DEN,NOP,0,home,Sub,,,,,J. Hernangómez,D. Gallinari
+291,3,4:48.0,50,73,DEN,NOP,0,home,Sub,,,,,J. Murray,W. Chandler
+292,3,4:48.0,50,73,DEN,NOP,0,home,Sub,,,,,D. Arthur,J. Nelson
+293,3,4:36.0,50,75,DEN,NOP,12,away,LU,assist,0,make2,2,E. Moore,J. Holiday
+294,3,4:21.0,52,75,DEN,NOP,15,home,JS,,16,make2,2,W. Barton,
+295,3,4:12.0,52,75,DEN,NOP,9,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Davis,K. Faried
+296,3,4:12.0,52,75,DEN,NOP,0,away,OffensiveFoul,,,turnover,,A. Davis,
+297,3,4:02.0,52,75,DEN,NOP,10,home,JS,,26,miss3,0,W. Barton,
+298,3,4:01.0,52,75,DEN,NOP,1,away,DefReb,,,DefReb,,Team,
+299,3,4:01.0,52,75,DEN,NOP,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Faried,A. Davis
+300,3,4:01.0,52,76,DEN,NOP,0,away,FreeThrow,,,make1,1,A. Davis,
+301,3,4:01.0,52,77,DEN,NOP,0,away,FreeThrow,,,make1,1,A. Davis,
+302,3,3:46.0,52,77,DEN,NOP,15,home,JS,,7,miss2,0,D. Arthur,
+303,3,3:45.0,52,77,DEN,NOP,1,home,OffReb,,,OffReb,,Team,
+304,3,3:38.0,52,77,DEN,NOP,7,home,JS,,20,miss2,0,J. Murray,
+305,3,3:37.0,52,77,DEN,NOP,1,away,DefReb,,,DefReb,,A. Davis,
+306,3,3:25.0,52,79,DEN,NOP,12,away,LU,assist,1,make2,2,A. Davis,J. Holiday
+307,3,3:14.0,52,79,DEN,NOP,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Moore,J. Hernangómez
+308,3,3:10.0,52,79,DEN,NOP,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,W. Barton
+309,3,3:10.0,53,79,DEN,NOP,0,home,FreeThrow,,,make1,1,W. Barton,
+310,3,3:10.0,54,79,DEN,NOP,0,home,FreeThrow,,,make1,1,W. Barton,
+311,3,2:56.0,54,79,DEN,NOP,14,away,JS,,21,miss2,0,E. Moore,
+312,3,2:55.0,54,79,DEN,NOP,1,home,DefReb,,,DefReb,,K. Faried,
+313,3,2:47.0,54,79,DEN,NOP,8,home,JS,,8,miss2,0,W. Barton,
+314,3,2:46.0,54,79,DEN,NOP,1,away,DefReb,,,DefReb,,A. Davis,
+315,3,2:39.0,54,79,DEN,NOP,7,away,BadPass,steal,,turnover,,A. Davis,J. Hernangómez
+316,3,2:36.0,54,79,DEN,NOP,3,home,LostBall,steal,,turnover,,J. Hernangómez,J. Crawford
+317,3,2:29.0,54,81,DEN,NOP,7,away,DK,assist,0,make2,2,A. Davis,J. Crawford
+318,3,2:09.0,54,81,DEN,NOP,20,home,LU,,3,miss2,0,D. Arthur,
+319,3,2:08.0,54,81,DEN,NOP,1,away,DefReb,,,DefReb,,D. Cunningham,
+320,3,1:53.0,54,81,DEN,NOP,15,away,JS,,26,miss3,0,J. Crawford,
+321,3,1:52.0,54,81,DEN,NOP,1,home,DefReb,,,DefReb,,K. Faried,
+322,3,1:47.0,54,81,DEN,NOP,5,away,Sub,,,,,T. Frazier,A. Davis
+323,3,1:47.0,54,81,DEN,NOP,0,away,Sub,,,,,A. Ajinça,J. Holiday
+324,3,1:37.0,56,81,DEN,NOP,10,home,JS,,12,make2,2,K. Faried,
+325,3,1:19.0,56,81,DEN,NOP,18,away,Sub,,,,,D. Motiejūnas,D. Cunningham
+326,3,1:10.0,56,81,DEN,NOP,9,away,JS,,26,miss3,0,J. Crawford,
+327,3,1:09.0,56,81,DEN,NOP,1,away,OffReb,,,OffReb,,A. Ajinça,
+328,3,1:04.0,56,81,DEN,NOP,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Murray,T. Frazier
+329,3,1:04.0,56,82,DEN,NOP,0,away,FreeThrow,,,make1,1,T. Frazier,
+330,3,1:04.0,56,83,DEN,NOP,0,away,FreeThrow,,,make1,1,T. Frazier,
+331,3,0:55.0,58,83,DEN,NOP,9,home,JS,,14,make2,2,J. Murray,
+332,3,0:42.0,58,85,DEN,NOP,13,away,JS,assist,10,make2,2,J. Crawford,T. Frazier
+333,3,0:38.0,58,85,DEN,NOP,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Frazier,J. Murray
+334,3,0:38.0,59,85,DEN,NOP,0,home,FreeThrow,,,make1,1,J. Murray,
+335,3,0:38.0,59,85,DEN,NOP,0,home,FreeThrow,,,make1,0,J. Murray,
+336,3,0:37.0,59,85,DEN,NOP,1,away,DefReb,,,DefReb,,T. Frazier,
+337,3,0:20.0,59,85,DEN,NOP,17,away,JS,,6,miss2,0,D. Motiejūnas,
+338,3,0:19.0,59,85,DEN,NOP,1,away,OffReb,,,OffReb,,A. Ajinça,
+339,3,0:00.0,59,87,DEN,NOP,19,away,JS,,14,make2,2,E. Moore,
+340,4,11:37.0,59,89,DEN,NOP,23,away,JS,assist,5,make2,2,A. Ajinça,E. Moore
+341,4,11:24.0,59,89,DEN,NOP,13,home,JS,,26,miss3,0,J. Hernangómez,
+342,4,11:23.0,59,89,DEN,NOP,1,away,DefReb,,,DefReb,,J. Crawford,
+343,4,11:17.0,59,89,DEN,NOP,6,away,JS,,18,miss2,0,J. Crawford,
+344,4,11:16.0,59,89,DEN,NOP,1,home,DefReb,,,DefReb,,D. Arthur,
+345,4,11:06.0,62,89,DEN,NOP,10,home,JS,assist,26,make3,3,D. Arthur,M. Plumlee
+346,4,10:45.0,62,89,DEN,NOP,21,away,JS,,25,miss3,0,D. Motiejūnas,
+347,4,10:43.0,62,89,DEN,NOP,2,away,OffReb,,,OffReb,,E. Moore,
+348,4,10:20.0,62,91,DEN,NOP,23,away,LU,,2,make2,2,T. Frazier,
+349,4,10:09.0,62,91,DEN,NOP,11,home,JS,,25,miss3,0,J. Murray,
+350,4,10:07.0,62,91,DEN,NOP,2,away,DefReb,,,DefReb,,D. Motiejūnas,
+351,4,9:56.0,62,93,DEN,NOP,11,away,JS,assist,12,make2,2,A. Ajinça,T. Frazier
+352,4,9:56.0,62,93,DEN,NOP,0,home,Timeout,,,,,,
+353,4,9:40.0,64,93,DEN,NOP,16,home,DK,assist,0,make2,2,M. Plumlee,D. Arthur
+354,4,9:25.0,64,93,DEN,NOP,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Arthur,A. Ajinça
+355,4,9:15.0,64,93,DEN,NOP,10,away,JS,,7,miss2,0,E. Moore,
+356,4,9:14.0,64,93,DEN,NOP,1,away,OffReb,,,OffReb,,E. Moore,
+357,4,9:13.0,64,95,DEN,NOP,1,away,LU,,1,make2,2,E. Moore,
+358,4,8:59.0,66,95,DEN,NOP,14,home,LU,assist,2,make2,2,J. Murray,W. Barton
+359,4,8:40.0,66,97,DEN,NOP,19,away,JS,,18,make2,2,E. Moore,
+360,4,8:29.0,68,97,DEN,NOP,11,home,JS,assist,15,make2,2,D. Arthur,J. Murray
+361,4,8:22.0,68,97,DEN,NOP,7,away,BadPass,steal,,turnover,,J. Crawford,D. Arthur
+362,4,8:16.0,70,97,DEN,NOP,6,home,LU,,1,make2,2,J. Murray,
+363,4,8:10.0,70,97,DEN,NOP,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Murray,J. Crawford
+364,4,8:10.0,70,97,DEN,NOP,0,away,Sub,,,,,D. Cunningham,D. Motiejūnas
+365,4,8:02.0,70,99,DEN,NOP,8,away,JS,assist,17,make2,2,A. Ajinça,T. Frazier
+366,4,7:49.0,70,99,DEN,NOP,13,home,JS,,25,miss3,0,J. Murray,
+367,4,7:48.0,70,99,DEN,NOP,1,away,DefReb,,,DefReb,,J. Crawford,
+368,4,7:31.0,70,99,DEN,NOP,17,away,JS,,7,miss2,0,E. Moore,
+369,4,7:30.0,70,99,DEN,NOP,1,home,DefReb,,,DefReb,,J. Hernangómez,
+370,4,7:29.0,70,99,DEN,NOP,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Ajinça,J. Hernangómez
+371,4,7:29.0,70,99,DEN,NOP,0,home,Timeout,,,,,,
+372,4,7:29.0,70,99,DEN,NOP,0,home,Sub,,,,,E. Mudiay,W. Barton
+373,4,7:17.0,70,99,DEN,NOP,12,home,JS,,26,miss3,0,J. Murray,
+374,4,7:16.0,70,99,DEN,NOP,1,away,DefReb,,,DefReb,,A. Ajinça,
+375,4,7:07.0,70,99,DEN,NOP,9,away,Traveling,,,turnover,,E. Moore,
+376,4,6:49.0,70,99,DEN,NOP,18,home,LU,,2,miss2,0,J. Murray,
+377,4,6:48.0,70,99,DEN,NOP,1,away,DefReb,,,DefReb,,J. Crawford,
+378,4,6:40.0,70,101,DEN,NOP,8,away,JS,,20,make2,2,J. Crawford,
+379,4,6:25.0,70,101,DEN,NOP,15,home,LostBall,steal,,turnover,,M. Plumlee,T. Frazier
+380,4,6:03.0,70,104,DEN,NOP,22,away,JS,assist,27,make3,3,J. Crawford,T. Frazier
+381,4,6:03.0,70,104,DEN,NOP,0,home,Timeout,,,,,,
+382,4,6:03.0,70,104,DEN,NOP,0,home,Sub,,,,,M. Miller,D. Arthur
+383,4,6:03.0,70,104,DEN,NOP,0,away,Sub,,,,,Q. Cook,D. Cunningham
+384,4,6:03.0,70,104,DEN,NOP,0,away,Sub,,,,,D. Motiejūnas,T. Frazier
+385,4,5:48.0,72,104,DEN,NOP,15,home,HS,assist,0,make2,2,M. Plumlee,J. Hernangómez
+386,4,5:28.0,72,106,DEN,NOP,20,away,JS,,7,make2,2,D. Motiejūnas,
+387,4,5:06.0,74,106,DEN,NOP,22,home,LU,,2,make2,2,E. Mudiay,
+388,4,4:56.0,74,106,DEN,NOP,10,away,JS,,5,miss2,0,A. Ajinça,
+389,4,4:55.0,74,106,DEN,NOP,1,home,DefReb,,,DefReb,,E. Mudiay,
+390,4,4:50.0,74,106,DEN,NOP,5,home,BadPass,steal,,turnover,,E. Mudiay,Q. Cook
+391,4,4:40.0,74,106,DEN,NOP,10,away,JS,block,4,miss2,0,E. Moore,M. Plumlee
+392,4,4:38.0,74,106,DEN,NOP,2,home,DefReb,,,DefReb,,J. Murray,
+393,4,4:30.0,74,106,DEN,NOP,8,home,JS,,23,miss3,0,J. Hernangómez,
+394,4,4:29.0,74,106,DEN,NOP,1,away,DefReb,,,DefReb,,Q. Cook,
+395,4,4:15.0,74,109,DEN,NOP,14,away,JS,,26,make3,3,Q. Cook,
+396,4,4:09.0,74,109,DEN,NOP,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,Q. Cook,E. Mudiay
+397,4,4:03.0,76,109,DEN,NOP,6,home,DK,assist,0,make2,2,M. Plumlee,E. Mudiay
+398,4,3:57.0,76,109,DEN,NOP,6,away,Sub,,,,,T. Frazier,E. Moore
+399,4,3:57.0,76,109,DEN,NOP,0,away,Sub,,,,,C. Diallo,A. Ajinça
+400,4,3:48.0,76,109,DEN,NOP,9,away,JS,,25,miss3,0,J. Crawford,
+401,4,3:48.0,76,109,DEN,NOP,0,home,DefReb,,,DefReb,,M. Plumlee,
+402,4,3:48.0,78,109,DEN,NOP,0,home,LU,,3,make2,2,M. Plumlee,
+403,4,3:48.0,78,109,DEN,NOP,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Motiejūnas,M. Plumlee
+404,4,3:48.0,78,109,DEN,NOP,0,home,FreeThrow,,,make1,0,M. Plumlee,
+405,4,3:43.0,78,109,DEN,NOP,5,away,DefReb,,,DefReb,,D. Motiejūnas,
+406,4,3:38.0,78,111,DEN,NOP,5,away,LU,assist,1,make2,2,C. Diallo,J. Crawford
+407,4,3:31.0,80,111,DEN,NOP,7,home,DK,assist,0,make2,2,M. Plumlee,J. Murray
+408,4,3:24.0,80,111,DEN,NOP,7,away,BadPass,,,turnover,,J. Crawford,
+409,4,3:10.0,80,111,DEN,NOP,14,home,LU,,2,miss2,0,E. Mudiay,
+410,4,3:09.0,80,111,DEN,NOP,1,home,OffReb,,,OffReb,,M. Plumlee,
+411,4,3:08.0,82,111,DEN,NOP,1,home,DK,,0,make2,2,M. Plumlee,
+412,4,2:51.0,82,111,DEN,NOP,17,away,JS,,26,miss3,0,D. Motiejūnas,
+413,4,2:51.0,82,111,DEN,NOP,0,home,DefReb,,,DefReb,,M. Miller,
+414,4,2:46.0,82,111,DEN,NOP,5,home,JS,,25,miss3,0,M. Miller,
+415,4,2:45.0,82,111,DEN,NOP,1,away,DefReb,,,DefReb,,J. Crawford,
+416,4,2:30.0,82,111,DEN,NOP,15,away,JS,,23,miss3,0,C. Diallo,
+417,4,2:29.0,82,111,DEN,NOP,1,home,DefReb,,,DefReb,,J. Hernangómez,
+418,4,2:23.0,82,111,DEN,NOP,6,home,LostBall,,,turnover,,J. Murray,
+419,4,2:23.0,82,111,DEN,NOP,0,away,Timeout,,,,,,
+420,4,2:06.0,82,111,DEN,NOP,17,away,JS,,25,miss3,0,Q. Cook,
+421,4,2:05.0,82,111,DEN,NOP,1,home,DefReb,,,DefReb,,M. Plumlee,
+422,4,1:58.0,85,111,DEN,NOP,7,home,JS,,25,make3,3,J. Murray,
+423,4,1:42.0,85,111,DEN,NOP,16,away,JS,,9,miss2,0,D. Motiejūnas,
+424,4,1:41.0,85,111,DEN,NOP,1,home,DefReb,,,DefReb,,M. Miller,
+425,4,1:29.0,85,111,DEN,NOP,12,home,JS,,12,miss2,0,J. Hernangómez,
+426,4,1:28.0,85,111,DEN,NOP,1,away,DefReb,,,DefReb,,D. Motiejūnas,
+427,4,1:17.0,85,113,DEN,NOP,11,away,LU,assist,1,make2,2,D. Motiejūnas,J. Crawford
+428,4,1:05.0,87,113,DEN,NOP,12,home,DK,assist,0,make2,2,M. Plumlee,E. Mudiay
+429,4,0:52.0,87,115,DEN,NOP,13,away,LU,assist,3,make2,2,D. Motiejūnas,Q. Cook
+430,4,0:45.0,87,115,DEN,NOP,7,home,JS,,24,miss3,0,E. Mudiay,
+431,4,0:45.0,87,115,DEN,NOP,0,away,DefReb,,,DefReb,,D. Motiejūnas,
+432,4,0:32.0,87,115,DEN,NOP,13,away,JS,,18,miss2,0,C. Diallo,
+433,4,0:31.0,87,115,DEN,NOP,1,home,DefReb,,,DefReb,,M. Miller,
+434,4,0:20.0,90,115,DEN,NOP,11,home,JS,,27,make3,3,J. Murray,

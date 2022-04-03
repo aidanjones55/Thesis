@@ -1,0 +1,455 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,12:00.0,0,0,IND,TOR,0,home,JumpBallViolation,,,JumpBallViolation,,Team,
+1,1,11:42.0,0,0,IND,TOR,18,away,LostBall,,,turnover,,D. DeRozan,
+2,1,11:18.0,3,0,IND,TOR,24,home,JS,,23,make3,3,C. Watson,
+3,1,11:02.0,3,0,IND,TOR,16,home,KickBallViolation,,,KickBallViolation,,D. West,
+4,1,10:56.0,3,0,IND,TOR,6,away,JS,,20,miss2,0,D. DeRozan,
+5,1,10:55.0,3,0,IND,TOR,1,home,DefReb,,,DefReb,,R. Stuckey,
+6,1,10:42.0,5,0,IND,TOR,13,home,JS,assist,10,make2,2,R. Stuckey,C. Watson
+7,1,10:16.0,5,0,IND,TOR,26,away,JS,block,10,miss2,0,A. Johnson,R. Hibbert
+8,1,10:15.0,5,0,IND,TOR,1,home,DefReb,,,DefReb,,D. West,
+9,1,10:13.0,7,0,IND,TOR,2,home,LU,assist,2,make2,2,R. Stuckey,D. West
+10,1,9:55.0,7,0,IND,TOR,18,away,JS,,24,miss3,0,G. Vásquez,
+11,1,9:54.0,7,0,IND,TOR,1,home,DefReb,,,DefReb,,S. Hill,
+12,1,9:41.0,7,0,IND,TOR,13,home,JS,,15,miss2,0,S. Hill,
+13,1,9:41.0,7,0,IND,TOR,0,home,OffReb,,,OffReb,,Team,
+14,1,9:41.0,7,0,IND,TOR,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Valančiūnas,R. Hibbert
+15,1,9:34.0,7,0,IND,TOR,7,home,JS,,14,miss2,0,D. West,
+16,1,9:33.0,7,0,IND,TOR,1,away,DefReb,,,DefReb,,D. DeRozan,
+17,1,9:24.0,7,0,IND,TOR,9,away,BadPass,steal,,turnover,,D. DeRozan,S. Hill
+18,1,9:17.0,7,0,IND,TOR,7,home,JS,,20,miss2,0,R. Stuckey,
+19,1,9:15.0,7,0,IND,TOR,2,away,DefReb,,,DefReb,,Team,
+20,1,9:03.0,7,0,IND,TOR,12,away,JS,,26,miss3,0,K. Lowry,
+21,1,9:02.0,7,0,IND,TOR,1,home,DefReb,,,DefReb,,S. Hill,
+22,1,8:51.0,9,0,IND,TOR,11,home,HS,assist,4,make2,2,R. Hibbert,D. West
+23,1,8:44.0,9,0,IND,TOR,7,away,Timeout,,,,,,
+24,1,8:37.0,9,2,IND,TOR,7,away,JS,assist,20,make2,2,K. Lowry,G. Vásquez
+25,1,8:21.0,9,2,IND,TOR,16,home,JS,,12,miss2,0,R. Hibbert,
+26,1,8:20.0,9,2,IND,TOR,1,away,DefReb,,,DefReb,,A. Johnson,
+27,1,8:14.0,9,2,IND,TOR,6,away,JS,,7,miss2,0,J. Valančiūnas,
+28,1,8:13.0,9,2,IND,TOR,1,home,DefReb,,,DefReb,,R. Hibbert,
+29,1,8:01.0,9,2,IND,TOR,12,home,LU,,2,miss2,0,R. Hibbert,
+30,1,8:01.0,9,2,IND,TOR,0,home,OffReb,,,OffReb,,R. Hibbert,
+31,1,8:01.0,9,2,IND,TOR,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,G. Vásquez,R. Hibbert
+32,1,7:50.0,9,2,IND,TOR,11,home,BadPass,steal,,turnover,,C. Watson,D. DeRozan
+33,1,7:34.0,9,2,IND,TOR,16,away,JS,,11,miss2,0,D. DeRozan,
+34,1,7:33.0,9,2,IND,TOR,1,home,DefReb,,,DefReb,,R. Hibbert,
+35,1,7:12.0,9,2,IND,TOR,21,home,JS,,12,miss2,0,R. Hibbert,
+36,1,7:11.0,9,2,IND,TOR,1,away,DefReb,,,DefReb,,K. Lowry,
+37,1,7:05.0,9,2,IND,TOR,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,D. DeRozan
+38,1,7:05.0,9,3,IND,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
+39,1,7:05.0,9,4,IND,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
+40,1,6:47.0,11,4,IND,TOR,18,home,JS,assist,8,make2,2,D. West,R. Stuckey
+41,1,6:31.0,11,4,IND,TOR,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,D. DeRozan
+42,1,6:28.0,11,6,IND,TOR,3,away,LU,,1,make2,2,K. Lowry,
+43,1,6:01.0,11,6,IND,TOR,27,home,JS,,23,miss3,0,C. Watson,
+44,1,6:00.0,11,6,IND,TOR,1,away,DefReb,,,DefReb,,A. Johnson,
+45,1,5:45.0,11,6,IND,TOR,15,away,JS,,23,miss3,0,D. DeRozan,
+46,1,5:44.0,11,6,IND,TOR,1,home,DefReb,,,DefReb,,R. Stuckey,
+47,1,5:38.0,11,6,IND,TOR,6,home,Sub,,,,,I. Mahinmi,R. Hibbert
+48,1,5:38.0,11,6,IND,TOR,0,away,Sub,,,,,P. Patterson,A. Johnson
+49,1,5:38.0,11,6,IND,TOR,0,away,Sub,,,,,L. Williams,G. Vásquez
+50,1,5:31.0,13,6,IND,TOR,7,home,JS,assist,17,make2,2,R. Stuckey,C. Watson
+51,1,5:10.0,13,6,IND,TOR,21,away,JS,block,18,miss2,0,P. Patterson,D. West
+52,1,5:10.0,13,6,IND,TOR,0,away,OffReb,,,OffReb,,Team,
+53,1,5:05.0,13,6,IND,TOR,5,away,JS,,25,miss3,0,P. Patterson,
+54,1,5:04.0,13,6,IND,TOR,1,home,DefReb,,,DefReb,,R. Stuckey,
+55,1,5:03.0,13,6,IND,TOR,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Lowry,R. Stuckey
+56,1,4:53.0,13,6,IND,TOR,10,home,JS,,15,miss2,0,R. Stuckey,
+57,1,4:52.0,13,6,IND,TOR,1,away,DefReb,,,DefReb,,J. Valančiūnas,
+58,1,4:43.0,13,6,IND,TOR,9,away,JS,,12,miss2,0,K. Lowry,
+59,1,4:41.0,13,6,IND,TOR,2,home,DefReb,,,DefReb,,I. Mahinmi,
+60,1,4:31.0,15,6,IND,TOR,10,home,JS,,20,make2,2,C. Watson,
+61,1,4:14.0,15,8,IND,TOR,17,away,JS,,11,make2,2,D. DeRozan,
+62,1,4:05.0,15,8,IND,TOR,9,home,Timeout,,,,,,
+63,1,4:05.0,15,8,IND,TOR,0,away,Sub,,,,,T. Hansbrough,J. Valančiūnas
+64,1,4:05.0,15,8,IND,TOR,0,home,Sub,,,,,G. Hill,C. Watson
+65,1,3:54.0,15,8,IND,TOR,11,home,JS,,24,miss3,0,G. Hill,
+66,1,3:53.0,15,8,IND,TOR,1,away,DefReb,,,DefReb,,K. Lowry,
+67,1,3:47.0,15,10,IND,TOR,6,away,JS,,3,make2,2,D. DeRozan,
+68,1,3:47.0,15,10,IND,TOR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Mahinmi,D. DeRozan
+69,1,3:47.0,15,11,IND,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
+70,1,3:33.0,17,11,IND,TOR,14,home,JS,,6,make2,2,R. Stuckey,
+71,1,3:16.0,17,13,IND,TOR,17,away,JS,assist,16,make2,2,D. DeRozan,K. Lowry
+72,1,2:56.0,17,13,IND,TOR,20,home,BadPass,steal,,turnover,,R. Stuckey,P. Patterson
+73,1,2:45.0,17,16,IND,TOR,11,away,JS,,23,make3,3,K. Lowry,
+74,1,2:29.0,20,16,IND,TOR,16,home,JS,assist,23,make3,3,S. Hill,I. Mahinmi
+75,1,2:15.0,20,16,IND,TOR,14,away,JS,,21,miss2,0,D. DeRozan,
+76,1,2:14.0,20,16,IND,TOR,1,away,OffReb,,,OffReb,,P. Patterson,
+77,1,2:14.0,20,18,IND,TOR,0,away,TI,,1,make2,2,P. Patterson,
+78,1,2:02.0,20,18,IND,TOR,12,home,JS,,17,miss2,0,D. West,
+79,1,2:01.0,20,18,IND,TOR,1,away,DefReb,,,DefReb,,T. Hansbrough,
+80,1,1:42.0,20,21,IND,TOR,19,away,JS,assist,24,make3,3,P. Patterson,K. Lowry
+81,1,1:27.0,20,21,IND,TOR,15,home,JS,,20,miss2,0,D. West,
+82,1,1:26.0,20,21,IND,TOR,1,home,OffReb,,,OffReb,,I. Mahinmi,
+83,1,1:24.0,20,21,IND,TOR,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. DeRozan,I. Mahinmi
+84,1,1:24.0,21,21,IND,TOR,0,home,FreeThrow,,,make1,1,I. Mahinmi,
+85,1,1:24.0,21,21,IND,TOR,0,away,Sub,,,,,T. Ross,D. DeRozan
+86,1,1:24.0,21,21,IND,TOR,0,home,Sub,,,,,D. Rudež,D. West
+87,1,1:24.0,21,21,IND,TOR,0,home,Sub,,,,,L. Scola,S. Hill
+88,1,1:24.0,21,21,IND,TOR,0,away,Sub,,,,,G. Vásquez,K. Lowry
+89,1,1:24.0,21,21,IND,TOR,0,home,FreeThrow,,,make1,0,I. Mahinmi,
+90,1,1:24.0,21,21,IND,TOR,0,away,DefReb,,,DefReb,,P. Patterson,
+91,1,1:08.0,21,21,IND,TOR,16,away,JS,,14,miss2,0,L. Williams,
+92,1,1:07.0,21,21,IND,TOR,1,home,DefReb,,,DefReb,,L. Scola,
+93,1,1:00.0,21,21,IND,TOR,7,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,P. Patterson,R. Stuckey
+94,1,1:00.0,22,21,IND,TOR,0,home,FreeThrow,,,make1,1,R. Stuckey,
+95,1,1:00.0,23,21,IND,TOR,0,home,FreeThrow,,,make1,1,R. Stuckey,
+96,1,0:44.0,23,21,IND,TOR,16,away,LU,,1,miss2,0,T. Ross,
+97,1,0:43.0,23,21,IND,TOR,1,home,DefReb,,,DefReb,,L. Scola,
+98,1,0:21.0,26,21,IND,TOR,22,home,JS,assist,23,make3,3,G. Hill,D. Rudež
+99,1,0:04.0,26,21,IND,TOR,17,away,LostBall,steal,,turnover,,G. Vásquez,G. Hill
+100,1,0:00.0,28,21,IND,TOR,4,home,JS,assist,5,make2,2,G. Hill,L. Scola
+101,2,11:39.0,28,21,IND,TOR,21,home,JS,,7,miss2,0,I. Mahinmi,
+102,2,11:39.0,28,21,IND,TOR,0,home,OffReb,,,OffReb,,L. Scola,
+103,2,11:39.0,28,21,IND,TOR,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Hansbrough,L. Scola
+104,2,11:34.0,30,21,IND,TOR,5,home,LU,assist,1,make2,2,D. Rudež,I. Mahinmi
+105,2,11:17.0,30,21,IND,TOR,17,away,BadPass,steal,,turnover,,T. Ross,S. Hill
+106,2,11:12.0,32,21,IND,TOR,5,home,JS,,4,make2,2,S. Hill,
+107,2,10:57.0,32,24,IND,TOR,15,away,JS,assist,24,make3,3,T. Ross,P. Patterson
+108,2,10:42.0,32,24,IND,TOR,15,home,BadPass,,,turnover,,L. Scola,
+109,2,10:32.0,32,26,IND,TOR,10,away,LU,assist,2,make2,2,T. Hansbrough,P. Patterson
+110,2,10:15.0,32,26,IND,TOR,17,home,BadPass,steal,,turnover,,D. Rudež,P. Patterson
+111,2,10:14.0,32,26,IND,TOR,1,away,ClearPathFoul,,,ClearPathFoul,,C. Watson,
+112,2,10:14.0,32,27,IND,TOR,0,away,FreeThrow,,,make1,1,L. Williams makes clear path free throw 1 of 2,
+113,2,10:14.0,32,28,IND,TOR,0,away,FreeThrow,,,make1,1,L. Williams makes clear path free throw 2 of 2,
+114,2,10:06.0,32,28,IND,TOR,8,away,JS,,25,miss3,0,L. Williams,
+115,2,10:05.0,32,28,IND,TOR,1,home,DefReb,,,DefReb,,C. Watson,
+116,2,9:49.0,32,28,IND,TOR,16,home,JS,block,3,miss2,0,L. Scola,P. Patterson
+117,2,9:48.0,32,28,IND,TOR,1,away,DefReb,,,DefReb,,T. Ross,
+118,2,9:37.0,32,28,IND,TOR,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,L. Williams
+119,2,9:37.0,32,29,IND,TOR,0,away,FreeThrow,,,make1,1,L. Williams,
+120,2,9:37.0,32,30,IND,TOR,0,away,FreeThrow,,,make1,1,L. Williams,
+121,2,9:37.0,32,30,IND,TOR,0,home,Sub,,,,,D. Sloan,S. Hill
+122,2,9:37.0,32,31,IND,TOR,0,away,FreeThrow,,,make1,1,L. Williams,
+123,2,9:13.0,32,31,IND,TOR,24,home,JS,,21,miss2,0,C. Watson,
+124,2,9:12.0,32,31,IND,TOR,1,away,DefReb,,,DefReb,,T. Ross,
+125,2,9:06.0,32,31,IND,TOR,6,away,JS,,25,miss3,0,T. Ross,
+126,2,9:05.0,32,31,IND,TOR,1,away,OffReb,,,OffReb,,T. Hansbrough,
+127,2,9:05.0,32,31,IND,TOR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Mahinmi,T. Hansbrough
+128,2,9:05.0,32,31,IND,TOR,0,home,Timeout,,,,,,
+129,2,9:05.0,32,32,IND,TOR,0,away,FreeThrow,,,make1,1,T. Hansbrough,
+130,2,9:05.0,32,33,IND,TOR,0,away,FreeThrow,,,make1,1,T. Hansbrough,
+131,2,8:49.0,32,33,IND,TOR,16,home,Timeout,,,,,,
+132,2,8:45.0,32,33,IND,TOR,4,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,I. Mahinmi,T. Hansbrough
+133,2,8:45.0,32,33,IND,TOR,0,home,OffensiveFoul,,,turnover,,I. Mahinmi,
+134,2,8:45.0,32,33,IND,TOR,0,home,Sub,,,,,R. Hibbert,I. Mahinmi
+135,2,8:34.0,32,35,IND,TOR,11,away,DK,assist,2,make2,2,T. Ross,P. Patterson
+136,2,8:13.0,32,35,IND,TOR,21,home,BadPass,steal,,turnover,,D. Rudež,L. Williams
+137,2,8:07.0,32,35,IND,TOR,6,away,JS,,25,miss3,0,L. Williams,
+138,2,8:04.0,32,35,IND,TOR,3,away,OffReb,,,OffReb,,T. Ross,
+139,2,8:00.0,32,35,IND,TOR,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,P. Patterson
+140,2,8:00.0,32,36,IND,TOR,0,away,FreeThrow,,,make1,1,P. Patterson,
+141,2,8:00.0,32,37,IND,TOR,0,away,FreeThrow,,,make1,1,P. Patterson,
+142,2,7:45.0,32,37,IND,TOR,15,home,JS,,25,miss3,0,C. Watson,
+143,2,7:44.0,32,37,IND,TOR,1,away,DefReb,,,DefReb,,T. Hansbrough,
+144,2,7:34.0,32,39,IND,TOR,10,away,JS,,15,make2,2,T. Ross,
+145,2,7:14.0,32,39,IND,TOR,20,home,JS,,4,miss2,0,C. Watson,
+146,2,7:13.0,32,39,IND,TOR,1,home,OffReb,,,OffReb,,L. Scola,
+147,2,7:12.0,32,39,IND,TOR,1,home,LU,,2,miss2,0,L. Scola,
+148,2,7:11.0,32,39,IND,TOR,1,away,DefReb,,,DefReb,,T. Ross,
+149,2,7:07.0,32,39,IND,TOR,4,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Sloan,L. Williams
+150,2,7:07.0,32,39,IND,TOR,0,away,FreeThrow,,,make1,0,L. Williams,
+151,2,7:07.0,32,39,IND,TOR,0,away,OffReb,,,OffReb,,Team,
+152,2,7:07.0,32,39,IND,TOR,0,home,Sub,,,,,R. Stuckey,C. Watson
+153,2,7:07.0,32,39,IND,TOR,0,home,Sub,,,,,D. West,L. Scola
+154,2,7:07.0,32,39,IND,TOR,0,home,Sub,,,,,S. Hill,D. Rudež
+155,2,7:07.0,32,39,IND,TOR,0,away,Sub,,,,,K. Lowry,G. Vásquez
+156,2,7:07.0,32,40,IND,TOR,0,away,FreeThrow,,,make1,1,L. Williams,
+157,2,6:54.0,32,40,IND,TOR,13,home,LostBall,,,turnover,,R. Stuckey,
+158,2,6:54.0,32,40,IND,TOR,0,away,Sub,,,,,D. DeRozan,L. Williams
+159,2,6:51.0,32,40,IND,TOR,3,home,Sub,,,,,C. Watson,D. Sloan
+160,2,6:45.0,32,40,IND,TOR,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Watson,K. Lowry
+161,2,6:45.0,32,40,IND,TOR,0,away,FreeThrow,,,make1,0,P. Patterson,
+162,2,6:45.0,32,40,IND,TOR,0,away,OffReb,,,OffReb,,Team,
+163,2,6:45.0,32,40,IND,TOR,0,home,Sub,,,,,D. Sloan,C. Watson
+164,2,6:45.0,32,41,IND,TOR,0,away,FreeThrow,,,make1,1,P. Patterson,
+165,2,6:22.0,32,41,IND,TOR,23,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ross,R. Stuckey
+166,2,6:22.0,32,41,IND,TOR,0,home,FreeThrow,,,make1,0,R. Stuckey,
+167,2,6:22.0,32,41,IND,TOR,0,home,OffReb,,,OffReb,,Team,
+168,2,6:22.0,33,41,IND,TOR,0,home,FreeThrow,,,make1,1,R. Stuckey,
+169,2,6:22.0,34,41,IND,TOR,0,home,FreeThrow,,,make1,1,R. Stuckey,
+170,2,6:11.0,34,41,IND,TOR,11,away,JS,,25,miss3,0,T. Ross,
+171,2,6:10.0,34,41,IND,TOR,1,home,DefReb,,,DefReb,,R. Hibbert,
+172,2,5:56.0,34,41,IND,TOR,14,home,JS,,17,miss2,0,R. Stuckey,
+173,2,5:54.0,34,41,IND,TOR,2,home,OffReb,,,OffReb,,R. Hibbert,
+174,2,5:54.0,36,41,IND,TOR,0,home,TI,,2,make2,2,R. Hibbert,
+175,2,5:47.0,36,43,IND,TOR,7,away,DK,assist,3,make2,2,T. Ross,K. Lowry
+176,2,5:40.0,36,43,IND,TOR,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Lowry,D. Sloan
+177,2,5:40.0,36,43,IND,TOR,0,away,Timeout,,,,,,
+178,2,5:40.0,36,43,IND,TOR,0,away,Sub,,,,,A. Johnson,P. Patterson
+179,2,5:40.0,36,43,IND,TOR,0,away,Sub,,,,,J. Valančiūnas,T. Hansbrough
+180,2,5:40.0,36,43,IND,TOR,0,home,Sub,,,,,G. Hill,D. Sloan
+181,2,5:28.0,36,43,IND,TOR,12,home,JS,,14,miss2,0,R. Hibbert,
+182,2,5:27.0,36,43,IND,TOR,1,away,DefReb,,,DefReb,,A. Johnson,
+183,2,5:04.0,36,43,IND,TOR,23,away,JS,,20,miss2,0,D. DeRozan,
+184,2,5:03.0,36,43,IND,TOR,1,home,DefReb,,,DefReb,,G. Hill,
+185,2,4:54.0,36,43,IND,TOR,9,home,HS,,4,miss2,0,R. Hibbert,
+186,2,4:53.0,36,43,IND,TOR,1,away,DefReb,,,DefReb,,J. Valančiūnas,
+187,2,4:46.0,36,43,IND,TOR,7,away,JS,,25,miss3,0,K. Lowry,
+188,2,4:45.0,36,43,IND,TOR,1,home,DefReb,,,DefReb,,R. Hibbert,
+189,2,4:41.0,36,43,IND,TOR,4,home,BadPass,steal,,turnover,,R. Hibbert,A. Johnson
+190,2,4:27.0,36,43,IND,TOR,14,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Johnson,G. Hill
+191,2,4:27.0,36,43,IND,TOR,0,away,OffensiveFoul,,,turnover,,A. Johnson,
+192,2,4:27.0,36,43,IND,TOR,0,home,Sub,,,,,L. Allen,R. Hibbert
+193,2,4:09.0,38,43,IND,TOR,18,home,JS,assist,16,make2,2,L. Allen,G. Hill
+194,2,3:46.0,38,43,IND,TOR,23,away,JS,,20,miss2,0,T. Ross,
+195,2,3:45.0,38,43,IND,TOR,1,home,DefReb,,,DefReb,,D. West,
+196,2,3:37.0,41,43,IND,TOR,8,home,JS,assist,24,make3,3,S. Hill,R. Stuckey
+197,2,3:28.0,41,43,IND,TOR,9,away,Timeout,,,,,,
+198,2,3:28.0,41,43,IND,TOR,0,away,Sub,,,,,L. Williams,T. Ross
+199,2,3:21.0,41,43,IND,TOR,7,away,JS,,20,miss2,0,K. Lowry,
+200,2,3:18.0,41,43,IND,TOR,3,home,DefReb,,,DefReb,,D. West,
+201,2,3:02.0,43,43,IND,TOR,16,home,JS,assist,16,make2,2,R. Stuckey,L. Allen
+202,2,2:46.0,43,45,IND,TOR,16,away,JS,assist,9,make2,2,D. DeRozan,A. Johnson
+203,2,2:27.0,43,45,IND,TOR,19,home,JS,block,10,miss2,0,G. Hill,L. Williams
+204,2,2:27.0,43,45,IND,TOR,0,home,OffReb,,,OffReb,,Team,
+205,2,2:27.0,43,45,IND,TOR,0,home,KickedBallTurnover,,,turnover,,G. Hill,
+206,2,2:09.0,43,47,IND,TOR,18,away,JS,assist,7,make2,2,J. Valančiūnas,K. Lowry
+207,2,1:51.0,43,47,IND,TOR,18,home,JS,,6,miss2,0,L. Allen,
+208,2,1:49.0,43,47,IND,TOR,2,away,DefReb,,,DefReb,,D. DeRozan,
+209,2,1:32.0,43,47,IND,TOR,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,D. DeRozan
+210,2,1:32.0,43,47,IND,TOR,0,away,FreeThrow,,,make1,0,D. DeRozan,
+211,2,1:32.0,43,47,IND,TOR,0,away,OffReb,,,OffReb,,Team,
+212,2,1:32.0,43,47,IND,TOR,0,home,Sub,,,,,C. Watson,S. Hill
+213,2,1:32.0,43,48,IND,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
+214,2,1:16.0,43,48,IND,TOR,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Lowry,G. Hill
+215,2,1:02.0,43,48,IND,TOR,14,home,JS,,19,miss2,0,D. West,
+216,2,1:01.0,43,48,IND,TOR,1,away,DefReb,,,DefReb,,J. Valančiūnas,
+217,2,0:50.0,43,50,IND,TOR,11,away,JS,assist,3,make2,2,K. Lowry,D. DeRozan
+218,2,0:41.0,43,50,IND,TOR,9,home,JS,,12,miss2,0,G. Hill,
+219,2,0:40.0,43,50,IND,TOR,1,home,OffReb,,,OffReb,,G. Hill,
+220,2,0:30.0,43,50,IND,TOR,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Valančiūnas,L. Allen
+221,2,0:30.0,43,50,IND,TOR,0,home,FreeThrow,,,make1,0,L. Allen,
+222,2,0:30.0,43,50,IND,TOR,0,home,OffReb,,,OffReb,,Team,
+223,2,0:30.0,43,50,IND,TOR,0,away,LaneViolation,,,LaneViolation,,K. Lowry,
+224,2,0:30.0,44,50,IND,TOR,0,home,FreeThrow,,,make1,1,L. Allen,
+225,2,0:07.0,44,50,IND,TOR,23,away,JS,,25,miss3,0,L. Williams,
+226,2,0:05.0,44,50,IND,TOR,2,home,DefReb,,,DefReb,,L. Allen,
+227,2,0:00.0,44,50,IND,TOR,5,home,JS,,21,miss2,0,G. Hill,
+228,2,0:00.0,44,50,IND,TOR,0,home,OffReb,,,OffReb,,Team,
+229,3,11:35.0,44,50,IND,TOR,25,home,JS,,23,miss3,0,S. Hill,
+230,3,11:34.0,44,50,IND,TOR,1,away,DefReb,,,DefReb,,J. Valančiūnas,
+231,3,11:18.0,44,50,IND,TOR,16,away,JS,,13,miss2,0,D. DeRozan,
+232,3,11:17.0,44,50,IND,TOR,1,away,OffReb,,,OffReb,,A. Johnson,
+233,3,11:17.0,44,50,IND,TOR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Stuckey,A. Johnson
+234,3,11:17.0,44,50,IND,TOR,0,away,FreeThrow,,,make1,0,A. Johnson,
+235,3,11:17.0,44,50,IND,TOR,0,away,OffReb,,,OffReb,,Team,
+236,3,11:17.0,44,50,IND,TOR,0,away,FreeThrow,,,make1,0,A. Johnson,
+237,3,11:16.0,44,50,IND,TOR,1,home,DefReb,,,DefReb,,R. Hibbert,
+238,3,11:02.0,46,50,IND,TOR,14,home,JS,assist,18,make2,2,D. West,C. Watson
+239,3,10:43.0,46,52,IND,TOR,19,away,JS,assist,19,make2,2,K. Lowry,A. Johnson
+240,3,10:27.0,48,52,IND,TOR,16,home,JS,assist,5,make2,2,R. Hibbert,S. Hill
+241,3,10:15.0,48,52,IND,TOR,12,away,JS,,6,miss2,0,K. Lowry,
+242,3,10:13.0,48,52,IND,TOR,2,home,DefReb,,,DefReb,,D. West,
+243,3,10:13.0,48,52,IND,TOR,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. DeRozan,R. Stuckey
+244,3,9:51.0,48,52,IND,TOR,22,home,LU,block,2,miss2,0,S. Hill,J. Valančiūnas
+245,3,9:50.0,48,52,IND,TOR,1,away,DefReb,,,DefReb,,J. Valančiūnas,
+246,3,9:41.0,48,52,IND,TOR,9,home,ChargeFoul,DrawnBy,,ChargeFoul,,D. DeRozan,C. Watson
+247,3,9:41.0,48,52,IND,TOR,0,away,OffensiveFoul,,,turnover,,D. DeRozan,
+248,3,9:23.0,48,52,IND,TOR,18,home,LostBall,steal,,turnover,,R. Hibbert,A. Johnson
+249,3,9:18.0,48,54,IND,TOR,5,away,LU,assist,2,make2,2,A. Johnson,K. Lowry
+250,3,8:58.0,48,54,IND,TOR,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,D. West
+251,3,8:58.0,49,54,IND,TOR,0,home,FreeThrow,,,make1,1,D. West,
+252,3,8:58.0,49,54,IND,TOR,0,home,FreeThrow,,,make1,0,D. West,
+253,3,8:57.0,49,54,IND,TOR,1,away,DefReb,,,DefReb,,G. Vásquez,
+254,3,8:42.0,49,54,IND,TOR,15,away,JS,,13,miss2,0,K. Lowry,
+255,3,8:41.0,49,54,IND,TOR,1,home,DefReb,,,DefReb,,D. West,
+256,3,8:27.0,49,54,IND,TOR,14,home,JS,,5,miss2,0,D. West,
+257,3,8:26.0,49,54,IND,TOR,1,away,DefReb,,,DefReb,,D. DeRozan,
+258,3,8:18.0,49,56,IND,TOR,8,away,JS,,16,make2,2,D. DeRozan,
+259,3,7:59.0,49,56,IND,TOR,19,home,JS,,14,miss2,0,C. Watson,
+260,3,7:58.0,49,56,IND,TOR,1,away,DefReb,,,DefReb,,D. DeRozan,
+261,3,7:50.0,49,56,IND,TOR,8,away,JS,,23,miss3,0,K. Lowry,
+262,3,7:49.0,49,56,IND,TOR,1,away,OffReb,,,OffReb,,K. Lowry,
+263,3,7:46.0,49,56,IND,TOR,3,away,JS,,26,miss3,0,G. Vásquez,
+264,3,7:44.0,49,56,IND,TOR,2,home,DefReb,,,DefReb,,S. Hill,
+265,3,7:39.0,51,56,IND,TOR,5,home,JS,,21,make2,2,C. Watson,
+266,3,7:25.0,51,58,IND,TOR,14,away,LU,,2,make2,2,K. Lowry,
+267,3,6:58.0,51,58,IND,TOR,27,home,JS,,25,miss3,0,R. Stuckey,
+268,3,6:57.0,51,58,IND,TOR,1,home,OffReb,,,OffReb,,D. West,
+269,3,6:55.0,51,58,IND,TOR,2,home,ShotClockViolation,,,turnover,,Team,
+270,3,6:33.0,51,58,IND,TOR,22,away,JS,block,4,miss2,0,A. Johnson,R. Hibbert
+271,3,6:32.0,51,58,IND,TOR,1,home,DefReb,,,DefReb,,R. Stuckey,
+272,3,6:27.0,51,58,IND,TOR,5,home,JS,,14,miss2,0,R. Stuckey,
+273,3,6:25.0,51,58,IND,TOR,2,home,OffReb,,,OffReb,,D. West,
+274,3,6:24.0,51,58,IND,TOR,1,home,LU,block,1,miss2,0,D. West,A. Johnson
+275,3,6:23.0,51,58,IND,TOR,1,home,OffReb,,,OffReb,,D. West,
+276,3,6:22.0,51,58,IND,TOR,1,away,DefGoaltending,,,DefGoaltending,,J. Valančiūnas,
+277,3,6:22.0,53,58,IND,TOR,0,home,LU,,1,make2,2,D. West,
+278,3,6:10.0,53,61,IND,TOR,12,away,JS,assist,25,make3,3,K. Lowry,D. DeRozan
+279,3,5:49.0,53,61,IND,TOR,21,home,3sec,,,turnover,,D. West,
+280,3,5:49.0,53,61,IND,TOR,0,home,Timeout,,,,,,
+281,3,5:40.0,53,64,IND,TOR,9,away,JS,assist,25,make3,3,K. Lowry,G. Vásquez
+282,3,5:22.0,55,64,IND,TOR,18,home,JS,assist,8,make2,2,R. Stuckey,R. Hibbert
+283,3,5:05.0,55,64,IND,TOR,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,J. Valančiūnas
+284,3,5:05.0,55,65,IND,TOR,0,away,FreeThrow,,,make1,1,J. Valančiūnas,
+285,3,5:05.0,55,66,IND,TOR,0,away,FreeThrow,,,make1,1,J. Valančiūnas,
+286,3,4:44.0,57,66,IND,TOR,21,home,HS,assist,9,make2,2,R. Hibbert,D. West
+287,3,4:28.0,57,68,IND,TOR,16,away,JS,,5,make2,2,D. DeRozan,
+288,3,4:08.0,57,68,IND,TOR,20,home,JS,block,8,miss2,0,R. Stuckey,A. Johnson
+289,3,4:07.0,57,68,IND,TOR,1,away,DefReb,,,DefReb,,G. Vásquez,
+290,3,3:50.0,57,68,IND,TOR,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. West,J. Valančiūnas
+291,3,3:50.0,57,69,IND,TOR,0,away,FreeThrow,,,make1,1,J. Valančiūnas,
+292,3,3:50.0,57,69,IND,TOR,0,home,Sub,,,,,G. Hill,C. Watson
+293,3,3:50.0,57,69,IND,TOR,0,home,Sub,,,,,I. Mahinmi,R. Hibbert
+294,3,3:50.0,57,69,IND,TOR,0,home,Sub,,,,,D. Rudež,S. Hill
+295,3,3:50.0,57,69,IND,TOR,0,away,Sub,,,,,L. Williams,G. Vásquez
+296,3,3:50.0,57,70,IND,TOR,0,away,FreeThrow,,,make1,1,J. Valančiūnas,
+297,3,3:30.0,57,70,IND,TOR,20,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Valančiūnas,I. Mahinmi
+298,3,3:30.0,57,70,IND,TOR,0,away,Sub,,,,,T. Hansbrough,J. Valančiūnas
+299,3,3:20.0,57,70,IND,TOR,10,home,JS,,26,miss3,0,R. Stuckey,
+300,3,3:19.0,57,70,IND,TOR,1,away,DefReb,,,DefReb,,K. Lowry,
+301,3,3:09.0,57,70,IND,TOR,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Rudež,D. DeRozan
+302,3,3:09.0,57,71,IND,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
+303,3,3:09.0,57,71,IND,TOR,0,away,FreeThrow,,,make1,0,D. DeRozan,
+304,3,3:08.0,57,71,IND,TOR,1,home,DefReb,,,DefReb,,I. Mahinmi,
+305,3,2:53.0,57,71,IND,TOR,15,home,JS,,25,miss3,0,D. Rudež,
+306,3,2:52.0,57,71,IND,TOR,1,away,DefReb,,,DefReb,,K. Lowry,
+307,3,2:43.0,57,73,IND,TOR,9,away,LU,assist,1,make2,2,A. Johnson,K. Lowry
+308,3,2:42.0,57,73,IND,TOR,1,home,Timeout,,,,,,
+309,3,2:42.0,57,73,IND,TOR,0,away,Timeout,,,,,,
+310,3,2:21.0,59,73,IND,TOR,21,home,JS,assist,19,make2,2,G. Hill,D. West
+311,3,2:04.0,59,73,IND,TOR,17,away,JS,,25,miss3,0,K. Lowry,
+312,3,2:04.0,59,73,IND,TOR,0,home,DefReb,,,DefReb,,R. Stuckey,
+313,3,1:55.0,59,73,IND,TOR,9,home,JS,,6,miss2,0,G. Hill,
+314,3,1:53.0,59,73,IND,TOR,2,home,OffReb,,,OffReb,,R. Stuckey,
+315,3,1:52.0,61,73,IND,TOR,1,home,LU,,1,make2,2,R. Stuckey,
+316,3,1:37.0,61,75,IND,TOR,15,away,JS,assist,4,make2,2,A. Johnson,K. Lowry
+317,3,1:23.0,63,75,IND,TOR,14,home,JS,,4,make2,2,D. West,
+318,3,1:11.0,63,75,IND,TOR,12,away,JS,,16,miss2,0,D. DeRozan,
+319,3,1:10.0,63,75,IND,TOR,1,home,DefReb,,,DefReb,,I. Mahinmi,
+320,3,0:59.0,63,75,IND,TOR,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Williams,I. Mahinmi
+321,3,0:59.0,63,75,IND,TOR,0,home,FreeThrow,,,make1,0,I. Mahinmi,
+322,3,0:59.0,63,75,IND,TOR,0,home,OffReb,,,OffReb,,Team,
+323,3,0:59.0,63,75,IND,TOR,0,away,Sub,,,,,T. Ross,D. DeRozan
+324,3,0:59.0,63,75,IND,TOR,0,away,Sub,,,,,P. Patterson,A. Johnson
+325,3,0:59.0,64,75,IND,TOR,0,home,FreeThrow,,,make1,1,I. Mahinmi,
+326,3,0:48.0,64,77,IND,TOR,11,away,JS,,16,make2,2,L. Williams,
+327,3,0:38.0,66,77,IND,TOR,10,home,JS,assist,2,make2,2,D. West,G. Hill
+328,3,0:34.0,66,77,IND,TOR,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Lowry,G. Hill
+329,3,0:34.0,66,77,IND,TOR,0,away,OffensiveFoul,,,turnover,,K. Lowry,
+330,3,0:34.0,66,77,IND,TOR,0,away,Sub,,,,,G. Vásquez,K. Lowry
+331,3,0:27.0,66,77,IND,TOR,7,home,JS,,17,miss2,0,G. Hill,
+332,3,0:26.0,66,77,IND,TOR,1,home,OffReb,,,OffReb,,I. Mahinmi,
+333,3,0:03.0,68,77,IND,TOR,23,home,JS,assist,3,make2,2,R. Stuckey,D. West
+334,4,11:43.0,68,79,IND,TOR,17,away,JS,,18,make2,2,G. Vásquez,
+335,4,11:24.0,71,79,IND,TOR,19,home,JS,assist,23,make3,3,D. Rudež,C. Watson
+336,4,11:02.0,71,79,IND,TOR,22,away,JS,,11,miss2,0,L. Williams,
+337,4,11:01.0,71,79,IND,TOR,1,home,DefReb,,,DefReb,,D. Rudež,
+338,4,10:46.0,71,79,IND,TOR,15,home,JS,,21,miss2,0,C. Watson,
+339,4,10:45.0,71,79,IND,TOR,1,home,OffReb,,,OffReb,,Team,
+340,4,10:39.0,71,79,IND,TOR,6,home,LU,block,1,miss2,0,L. Scola,T. Hansbrough
+341,4,10:37.0,71,79,IND,TOR,2,away,DefReb,,,DefReb,,G. Vásquez,
+342,4,10:31.0,71,82,IND,TOR,6,away,JS,assist,26,make3,3,L. Williams,G. Vásquez
+343,4,10:17.0,71,82,IND,TOR,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Vásquez,S. Hill
+344,4,10:07.0,71,82,IND,TOR,10,home,JS,,22,miss3,0,D. Rudež,
+345,4,10:06.0,71,82,IND,TOR,1,away,DefReb,,,DefReb,,G. Vásquez,
+346,4,9:57.0,71,84,IND,TOR,9,away,JS,assist,10,make2,2,P. Patterson,G. Vásquez
+347,4,9:45.0,71,84,IND,TOR,12,home,JS,,9,miss2,0,C. Watson,
+348,4,9:45.0,71,84,IND,TOR,0,home,OffReb,,,OffReb,,Team,
+349,4,9:28.0,73,84,IND,TOR,17,home,LU,,2,make2,2,S. Hill,
+350,4,9:04.0,73,87,IND,TOR,24,away,JS,assist,23,make3,3,P. Patterson,T. Ross
+351,4,8:49.0,73,87,IND,TOR,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ross,S. Hill
+352,4,8:49.0,73,87,IND,TOR,0,away,Timeout,,,,,,
+353,4,8:49.0,74,87,IND,TOR,0,home,FreeThrow,,,make1,1,S. Hill,
+354,4,8:49.0,75,87,IND,TOR,0,home,FreeThrow,,,make1,1,S. Hill,
+355,4,8:34.0,75,87,IND,TOR,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,L. Williams
+356,4,8:34.0,75,87,IND,TOR,0,home,Sub,,,,,R. Stuckey,S. Hill
+357,4,8:33.0,75,87,IND,TOR,1,away,BadPass,steal,,turnover,,T. Ross,L. Scola
+358,4,8:30.0,77,87,IND,TOR,3,home,LU,,1,make2,2,L. Scola,
+359,4,8:17.0,77,87,IND,TOR,13,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,L. Scola,L. Williams
+360,4,8:03.0,77,87,IND,TOR,14,away,JS,,17,miss2,0,G. Vásquez,
+361,4,8:02.0,77,87,IND,TOR,1,home,DefReb,,,DefReb,,I. Mahinmi,
+362,4,7:45.0,77,87,IND,TOR,17,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,T. Ross,C. Watson
+363,4,7:42.0,77,87,IND,TOR,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Vásquez,R. Stuckey
+364,4,7:34.0,77,87,IND,TOR,8,home,LostBall,steal,,turnover,,R. Stuckey,T. Hansbrough
+365,4,7:19.0,77,90,IND,TOR,15,away,JS,assist,23,make3,3,G. Vásquez,L. Williams
+366,4,7:07.0,77,90,IND,TOR,12,home,LU,,2,miss2,0,C. Watson,
+367,4,7:06.0,77,90,IND,TOR,1,away,DefReb,,,DefReb,,T. Hansbrough,
+368,4,7:00.0,77,90,IND,TOR,6,away,JS,,24,miss3,0,G. Vásquez,
+369,4,6:59.0,77,90,IND,TOR,1,home,DefReb,,,DefReb,,L. Scola,
+370,4,6:38.0,77,90,IND,TOR,21,home,LostBall,steal,,turnover,,L. Scola,T. Hansbrough
+371,4,6:31.0,77,90,IND,TOR,7,away,JS,,23,miss2,0,P. Patterson,
+372,4,6:30.0,77,90,IND,TOR,1,away,OffReb,,,OffReb,,T. Ross,
+373,4,6:29.0,77,92,IND,TOR,1,away,LU,,1,make2,2,T. Ross,
+374,4,6:29.0,77,92,IND,TOR,0,home,Timeout,,,,,,
+375,4,6:29.0,77,92,IND,TOR,0,home,Sub,,,,,G. Hill,C. Watson
+376,4,6:29.0,77,92,IND,TOR,0,home,Sub,,,,,D. West,I. Mahinmi
+377,4,6:29.0,77,92,IND,TOR,0,home,Sub,,,,,R. Hibbert,D. Rudež
+378,4,6:29.0,77,92,IND,TOR,0,home,Sub,,,,,S. Hill,L. Scola
+379,4,6:16.0,77,92,IND,TOR,13,home,JS,,17,miss2,0,R. Stuckey,
+380,4,6:16.0,77,92,IND,TOR,0,home,OffReb,,,OffReb,,Team,
+381,4,6:16.0,77,92,IND,TOR,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Hansbrough,R. Hibbert
+382,4,6:16.0,78,92,IND,TOR,0,home,FreeThrow,,,make1,1,R. Hibbert,
+383,4,6:16.0,79,92,IND,TOR,0,home,FreeThrow,,,make1,1,R. Hibbert,
+384,4,6:04.0,79,92,IND,TOR,12,away,JS,,26,miss3,0,L. Williams,
+385,4,6:04.0,79,92,IND,TOR,0,home,DefReb,,,DefReb,,R. Stuckey,
+386,4,5:44.0,79,92,IND,TOR,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Vásquez,R. Stuckey
+387,4,5:44.0,80,92,IND,TOR,0,home,FreeThrow,,,make1,1,R. Stuckey,
+388,4,5:44.0,80,92,IND,TOR,0,away,Sub,,,,,K. Lowry,G. Vásquez
+389,4,5:44.0,80,92,IND,TOR,0,away,Sub,,,,,J. Valančiūnas,T. Hansbrough
+390,4,5:44.0,81,92,IND,TOR,0,home,FreeThrow,,,make1,1,R. Stuckey,
+391,4,5:24.0,81,92,IND,TOR,20,away,JS,,23,miss3,0,T. Ross,
+392,4,5:23.0,81,92,IND,TOR,1,away,OffReb,,,OffReb,,J. Valančiūnas,
+393,4,5:07.0,81,95,IND,TOR,16,away,JS,,25,make3,3,L. Williams,
+394,4,4:43.0,81,95,IND,TOR,24,home,Timeout,,,,,,
+395,4,4:43.0,81,95,IND,TOR,0,away,Sub,,,,,D. DeRozan,T. Ross
+396,4,4:40.0,84,95,IND,TOR,3,home,JS,assist,22,make3,3,S. Hill,G. Hill
+397,4,4:24.0,84,95,IND,TOR,16,away,JS,,26,miss3,0,L. Williams,
+398,4,4:23.0,84,95,IND,TOR,1,home,DefReb,,,DefReb,,R. Hibbert,
+399,4,4:18.0,84,95,IND,TOR,5,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,L. Williams,G. Hill
+400,4,4:18.0,85,95,IND,TOR,0,home,FreeThrow,,,make1,1,G. Hill,
+401,4,4:18.0,85,95,IND,TOR,0,home,FreeThrow,,,make1,0,G. Hill,
+402,4,4:17.0,85,95,IND,TOR,1,away,DefReb,,,DefReb,,K. Lowry,
+403,4,3:57.0,85,97,IND,TOR,20,away,JS,assist,14,make2,2,D. DeRozan,K. Lowry
+404,4,3:40.0,85,97,IND,TOR,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Valančiūnas,R. Hibbert
+405,4,3:40.0,86,97,IND,TOR,0,home,FreeThrow,,,make1,1,R. Hibbert,
+406,4,3:40.0,86,97,IND,TOR,0,home,FreeThrow,,,make1,0,R. Hibbert,
+407,4,3:39.0,86,97,IND,TOR,1,away,DefReb,,,DefReb,,P. Patterson,
+408,4,3:28.0,86,97,IND,TOR,11,away,JS,,18,miss2,0,D. DeRozan,
+409,4,3:27.0,86,97,IND,TOR,1,home,DefReb,,,DefReb,,R. Hibbert,
+410,4,3:16.0,86,97,IND,TOR,11,home,BadPass,steal,,turnover,,D. West,D. DeRozan
+411,4,2:59.0,86,97,IND,TOR,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Stuckey,J. Valančiūnas
+412,4,2:57.0,86,97,IND,TOR,2,away,OffensiveFoul,,,turnover,,J. Valančiūnas,
+413,4,2:57.0,86,97,IND,TOR,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Valančiūnas,S. Hill
+414,4,2:37.0,86,97,IND,TOR,20,home,JS,,6,miss2,0,S. Hill,
+415,4,2:36.0,86,97,IND,TOR,1,away,DefReb,,,DefReb,,J. Valančiūnas,
+416,4,2:25.0,86,97,IND,TOR,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,D. DeRozan
+417,4,2:25.0,86,98,IND,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
+418,4,2:25.0,86,99,IND,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
+419,4,2:04.0,86,99,IND,TOR,21,home,LU,,2,miss2,0,G. Hill,
+420,4,2:03.0,86,99,IND,TOR,1,away,DefReb,,,DefReb,,K. Lowry,
+421,4,1:39.0,86,99,IND,TOR,24,away,JS,,16,miss2,0,K. Lowry,
+422,4,1:39.0,86,99,IND,TOR,0,away,OffReb,,,OffReb,,Team,
+423,4,1:39.0,86,99,IND,TOR,0,away,ShotClockViolation,,,turnover,,Team,
+424,4,1:30.0,88,99,IND,TOR,9,home,JS,,18,make2,2,G. Hill,
+425,4,1:19.0,88,99,IND,TOR,11,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. DeRozan,R. Hibbert
+426,4,1:19.0,88,99,IND,TOR,0,away,OffensiveFoul,,,turnover,,D. DeRozan,
+427,4,1:11.0,88,99,IND,TOR,8,home,JS,,27,miss3,0,G. Hill,
+428,4,1:10.0,88,99,IND,TOR,1,away,DefReb,,,DefReb,,J. Valančiūnas,
+429,4,0:51.0,88,99,IND,TOR,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Stuckey,D. DeRozan
+430,4,0:51.0,88,100,IND,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
+431,4,0:51.0,88,100,IND,TOR,0,away,FreeThrow,,,make1,0,D. DeRozan,
+432,4,0:51.0,88,100,IND,TOR,0,away,OffReb,,,OffReb,,D. DeRozan,
+433,4,0:49.0,88,100,IND,TOR,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Hill,D. DeRozan
+434,4,0:49.0,88,101,IND,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
+435,4,0:49.0,88,102,IND,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
+436,4,0:49.0,88,102,IND,TOR,0,home,Timeout,,,,,,
+437,4,0:49.0,88,102,IND,TOR,0,home,Sub,,,,,C. Copeland,S. Hill
+438,4,0:49.0,88,102,IND,TOR,0,home,Sub,,,,,C. Watson,R. Hibbert
+439,4,0:49.0,88,102,IND,TOR,0,home,Sub,,,,,D. Rudež,R. Stuckey
+440,4,0:49.0,88,102,IND,TOR,0,away,Sub,,,,,G. Vásquez,J. Valančiūnas
+441,4,0:49.0,88,102,IND,TOR,0,away,Sub,,,,,T. Ross,K. Lowry
+442,4,0:49.0,88,102,IND,TOR,0,away,Sub,,,,,G. Stiemsma,P. Patterson
+443,4,0:49.0,88,102,IND,TOR,0,away,Sub,,,,,T. Hansbrough,L. Williams
+444,4,0:44.0,88,102,IND,TOR,5,away,KickBallViolation,,,KickBallViolation,,T. Ross,
+445,4,0:42.0,91,102,IND,TOR,2,home,JS,assist,25,make3,3,G. Hill,D. Rudež
+446,4,0:39.0,91,102,IND,TOR,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Watson,G. Vásquez
+447,4,0:39.0,91,103,IND,TOR,0,away,FreeThrow,,,make1,1,G. Vásquez,
+448,4,0:39.0,91,104,IND,TOR,0,away,FreeThrow,,,make1,1,G. Vásquez,
+449,4,0:31.0,91,104,IND,TOR,8,home,JS,,24,miss3,0,G. Hill,
+450,4,0:30.0,91,104,IND,TOR,1,away,DefReb,,,DefReb,,D. DeRozan,
+451,4,0:06.0,91,104,IND,TOR,24,away,ShotClockViolation,,,turnover,,Team,
+452,4,0:01.0,91,104,IND,TOR,5,home,JS,,24,miss3,0,D. Rudež,
+453,4,0:00.0,91,104,IND,TOR,1,away,DefReb,,,DefReb,,T. Ross,

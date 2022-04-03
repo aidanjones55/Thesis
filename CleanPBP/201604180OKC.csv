@@ -1,0 +1,463 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:36.0,0,0,OKC,DAL,24,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,R. Westbrook
+1,1,11:36.0,1,0,OKC,DAL,0,home,FreeThrow,,,make1,1,R. Westbrook,
+2,1,11:36.0,1,0,OKC,DAL,0,home,FreeThrow,,,make1,0,R. Westbrook,
+3,1,11:35.0,1,0,OKC,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+4,1,11:13.0,1,2,OKC,DAL,22,away,LU,,2,make2,2,D. Nowitzki,
+5,1,11:03.0,1,2,OKC,DAL,10,home,JS,,25,miss3,0,K. Durant,
+6,1,11:03.0,1,2,OKC,DAL,0,away,DefReb,,,DefReb,,W. Matthews,
+7,1,10:40.0,1,2,OKC,DAL,23,away,LU,,2,miss2,0,R. Felton,
+8,1,10:40.0,1,2,OKC,DAL,0,home,DefReb,,,DefReb,,S. Adams,
+9,1,10:31.0,1,2,OKC,DAL,9,home,JS,,25,miss3,0,S. Ibaka,
+10,1,10:31.0,1,2,OKC,DAL,0,home,OffReb,,,OffReb,,R. Westbrook,
+11,1,10:29.0,3,2,OKC,DAL,2,home,LU,,1,make2,2,R. Westbrook,
+12,1,10:09.0,3,2,OKC,DAL,20,away,JS,,5,miss2,0,D. Nowitzki,
+13,1,10:08.0,3,2,OKC,DAL,1,home,DefReb,,,DefReb,,K. Durant,
+14,1,10:01.0,5,2,OKC,DAL,7,home,LU,,2,make2,2,K. Durant,
+15,1,9:46.0,5,4,OKC,DAL,15,away,LU,,1,make2,2,D. Williams,
+16,1,9:27.0,5,4,OKC,DAL,19,home,LU,,2,miss2,0,K. Durant,
+17,1,9:27.0,5,4,OKC,DAL,0,home,OffReb,,,OffReb,,K. Durant,
+18,1,9:22.0,5,4,OKC,DAL,5,home,JS,,23,miss3,0,S. Ibaka,
+19,1,9:21.0,5,4,OKC,DAL,1,away,DefReb,,,DefReb,,W. Matthews,
+20,1,9:15.0,5,7,OKC,DAL,6,away,JS,,25,make3,3,D. Williams,
+21,1,8:51.0,5,7,OKC,DAL,24,home,JS,,25,miss3,0,K. Durant,
+22,1,8:51.0,5,7,OKC,DAL,0,away,DefReb,,,DefReb,,W. Matthews,
+23,1,8:42.0,5,7,OKC,DAL,9,away,BadPass,,,turnover,,D. Williams,
+24,1,8:26.0,5,7,OKC,DAL,16,home,JS,,14,miss2,0,S. Ibaka,
+25,1,8:26.0,5,7,OKC,DAL,0,home,OffReb,,,OffReb,,Team,
+26,1,8:25.0,5,7,OKC,DAL,1,away,LooseBallFoul,,,LooseBallFoul,,D. Nowitzki,
+27,1,8:25.0,5,7,OKC,DAL,0,away,Sub,,,,,D. Powell,D. Nowitzki
+28,1,8:20.0,7,7,OKC,DAL,5,home,JS,,14,make2,2,R. Westbrook,
+29,1,7:57.0,7,10,OKC,DAL,23,away,JS,,24,make3,3,D. Williams,
+30,1,7:44.0,7,10,OKC,DAL,13,home,JS,,5,miss2,0,K. Durant,
+31,1,7:44.0,7,10,OKC,DAL,0,away,DefReb,,,DefReb,,Z. Pachulia,
+32,1,7:32.0,7,12,OKC,DAL,12,away,JS,,18,make2,2,R. Felton,
+33,1,7:17.0,7,12,OKC,DAL,15,home,LU,,2,miss2,0,R. Westbrook,
+34,1,7:16.0,7,12,OKC,DAL,1,away,DefReb,,,DefReb,,Z. Pachulia,
+35,1,7:07.0,7,15,OKC,DAL,9,away,JS,,24,make3,3,D. Williams,
+36,1,7:01.0,7,15,OKC,DAL,6,home,Timeout,,,,,,
+37,1,6:55.0,9,15,OKC,DAL,6,home,DK,assist,0,make2,2,S. Adams,R. Westbrook
+38,1,6:34.0,9,15,OKC,DAL,21,away,JS,,19,miss2,0,Z. Pachulia,
+39,1,6:33.0,9,15,OKC,DAL,1,home,DefReb,,,DefReb,,R. Westbrook,
+40,1,6:19.0,11,15,OKC,DAL,14,home,LU,,2,make2,2,K. Durant,
+41,1,6:01.0,11,15,OKC,DAL,18,away,LostBall,steal,,turnover,,D. Powell,R. Westbrook
+42,1,5:58.0,11,15,OKC,DAL,3,home,Traveling,,,turnover,,R. Westbrook,
+43,1,5:40.0,11,15,OKC,DAL,18,away,JS,,15,miss2,0,Z. Pachulia,
+44,1,5:40.0,11,15,OKC,DAL,0,away,OffReb,,,OffReb,,D. Powell,
+45,1,5:36.0,11,18,OKC,DAL,4,away,JS,assist,25,make3,3,R. Felton,D. Williams
+46,1,5:16.0,13,18,OKC,DAL,20,home,JS,,10,make2,2,K. Durant,
+47,1,4:41.0,13,18,OKC,DAL,35,away,JS,,23,miss3,0,W. Matthews,
+48,1,4:41.0,13,18,OKC,DAL,0,home,DefReb,,,DefReb,,S. Ibaka,
+49,1,4:28.0,13,18,OKC,DAL,13,home,JS,,23,miss3,0,A. Roberson,
+50,1,4:28.0,13,18,OKC,DAL,0,away,DefReb,,,DefReb,,D. Powell,
+51,1,4:13.0,13,18,OKC,DAL,15,away,LU,block,2,miss2,0,Z. Pachulia,A. Roberson
+52,1,4:12.0,13,18,OKC,DAL,1,home,DefReb,,,DefReb,,A. Roberson,
+53,1,4:08.0,13,18,OKC,DAL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Powell,S. Ibaka
+54,1,4:08.0,14,18,OKC,DAL,0,home,FreeThrow,,,make1,1,S. Ibaka,
+55,1,4:08.0,14,18,OKC,DAL,0,home,Sub,,,,,D. Waiters,K. Durant
+56,1,4:08.0,14,18,OKC,DAL,0,home,Sub,,,,,K. Singler,A. Roberson
+57,1,4:08.0,14,18,OKC,DAL,0,away,Timeout,,,,,,
+58,1,4:08.0,14,18,OKC,DAL,0,away,Sub,,,,,D. Harris,D. Williams
+59,1,4:08.0,15,18,OKC,DAL,0,home,FreeThrow,,,make1,1,S. Ibaka,
+60,1,3:59.0,15,18,OKC,DAL,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Ibaka,D. Powell
+61,1,3:59.0,15,18,OKC,DAL,0,away,FreeThrow,,,make1,0,D. Powell,
+62,1,3:59.0,15,18,OKC,DAL,0,away,OffReb,,,OffReb,,Team,
+63,1,3:59.0,15,18,OKC,DAL,0,home,Sub,,,,,N. Collison,S. Ibaka
+64,1,3:59.0,15,18,OKC,DAL,0,away,Sub,,,,,J. Anderson,W. Matthews
+65,1,3:59.0,15,18,OKC,DAL,0,away,FreeThrow,,,make1,0,D. Powell,
+66,1,3:58.0,15,18,OKC,DAL,1,home,DefReb,,,DefReb,,N. Collison,
+67,1,3:45.0,15,18,OKC,DAL,13,home,JS,,16,miss2,0,R. Westbrook,
+68,1,3:44.0,15,18,OKC,DAL,1,away,DefReb,,,DefReb,,D. Harris,
+69,1,3:24.0,15,18,OKC,DAL,20,away,LostBall,,,turnover,,R. Felton,
+70,1,3:08.0,15,18,OKC,DAL,16,home,JS,,5,miss2,0,D. Waiters,
+71,1,3:07.0,15,18,OKC,DAL,1,home,OffReb,,,OffReb,,R. Westbrook,
+72,1,2:56.0,17,18,OKC,DAL,11,home,LU,assist,1,make2,2,S. Adams,N. Collison
+73,1,2:38.0,17,18,OKC,DAL,18,away,PersonalFoul,,,,,N. Collison,
+74,1,2:38.0,17,18,OKC,DAL,0,home,Sub,,,,,E. Freedom,S. Adams
+75,1,2:38.0,17,18,OKC,DAL,0,home,Sub,,,,,K. Durant,R. Westbrook
+76,1,2:38.0,17,18,OKC,DAL,0,away,Sub,,,,,S. Mejri,D. Powell
+77,1,2:38.0,17,18,OKC,DAL,0,away,Sub,,,,,D. Nowitzki,Z. Pachulia
+78,1,2:29.0,17,18,OKC,DAL,9,away,LU,,2,miss2,0,R. Felton,
+79,1,2:29.0,17,18,OKC,DAL,0,home,DefReb,,,DefReb,,D. Waiters,
+80,1,2:16.0,17,18,OKC,DAL,13,home,JS,,17,miss2,0,E. Freedom,
+81,1,2:16.0,17,18,OKC,DAL,0,away,DefReb,,,DefReb,,J. Anderson,
+82,1,1:53.0,17,20,OKC,DAL,23,away,LU,assist,1,make2,2,J. Anderson,D. Harris
+83,1,1:40.0,17,20,OKC,DAL,13,home,JS,,25,miss3,0,K. Durant,
+84,1,1:39.0,17,20,OKC,DAL,1,home,OffReb,,,OffReb,,E. Freedom,
+85,1,1:37.0,17,20,OKC,DAL,2,home,LostBall,steal,,turnover,,E. Freedom,D. Harris
+86,1,1:34.0,17,20,OKC,DAL,3,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Anderson,N. Collison
+87,1,1:34.0,17,20,OKC,DAL,0,away,OffensiveFoul,,,turnover,,J. Anderson,
+88,1,1:19.0,17,20,OKC,DAL,15,home,JS,,5,miss2,0,K. Durant,
+89,1,1:19.0,17,20,OKC,DAL,0,away,DefReb,,,DefReb,,Team,
+90,1,1:01.0,17,20,OKC,DAL,18,away,JS,,15,miss2,0,D. Nowitzki,
+91,1,1:01.0,17,20,OKC,DAL,0,home,DefReb,,,DefReb,,E. Freedom,
+92,1,0:52.0,17,20,OKC,DAL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,E. Freedom
+93,1,0:52.0,18,20,OKC,DAL,0,home,FreeThrow,,,make1,1,E. Freedom,
+94,1,0:52.0,19,20,OKC,DAL,0,home,FreeThrow,,,make1,1,E. Freedom,
+95,1,0:34.0,19,22,OKC,DAL,18,away,LU,,1,make2,2,D. Harris,
+96,1,0:26.0,19,22,OKC,DAL,8,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Durant,J. Anderson
+97,1,0:26.0,19,22,OKC,DAL,0,home,OffensiveFoul,,,turnover,,K. Durant,
+98,1,0:26.0,19,22,OKC,DAL,0,away,TechnicalFoul,,,TechnicalFoul,,Team,
+99,1,0:26.0,20,22,OKC,DAL,0,home,FreeThrow,,,make1,1,K. Durant makes technical free throw,
+100,1,0:08.0,20,22,OKC,DAL,18,away,PersonalFoul,,,,,N. Collison,
+101,1,0:02.0,20,24,OKC,DAL,6,away,JS,,14,make2,2,R. Felton,
+102,2,11:46.0,20,26,OKC,DAL,14,away,JS,assist,15,make2,2,D. Nowitzki,D. Harris
+103,2,11:23.0,20,26,OKC,DAL,23,home,JS,,5,miss2,0,K. Durant,
+104,2,11:23.0,20,26,OKC,DAL,0,away,DefReb,,,DefReb,,J. Anderson,
+105,2,11:03.0,20,26,OKC,DAL,20,away,JS,,23,miss3,0,D. Williams,
+106,2,11:02.0,20,26,OKC,DAL,1,home,DefReb,,,DefReb,,E. Freedom,
+107,2,10:51.0,20,26,OKC,DAL,11,home,JS,,24,miss3,0,K. Durant,
+108,2,10:51.0,20,26,OKC,DAL,0,home,OffReb,,,OffReb,,R. Foye,
+109,2,10:46.0,20,26,OKC,DAL,5,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Waiters,S. Mejri
+110,2,10:46.0,20,26,OKC,DAL,0,home,OffensiveFoul,,,turnover,,D. Waiters,
+111,2,10:31.0,20,26,OKC,DAL,15,away,LU,,3,miss2,0,D. Williams,
+112,2,10:29.0,20,26,OKC,DAL,2,away,OffReb,,,OffReb,,S. Mejri,
+113,2,10:29.0,20,26,OKC,DAL,0,away,LU,,2,miss2,0,S. Mejri,
+114,2,10:29.0,20,26,OKC,DAL,0,home,DefReb,,,DefReb,,K. Durant,
+115,2,10:20.0,23,26,OKC,DAL,9,home,JS,assist,23,make3,3,D. Waiters,R. Foye
+116,2,9:58.0,23,26,OKC,DAL,22,away,LostBall,steal,,turnover,,D. Nowitzki,N. Collison
+117,2,9:52.0,23,26,OKC,DAL,6,away,ChargeFoul,DrawnBy,,ChargeFoul,,K. Durant,S. Mejri
+118,2,9:52.0,23,26,OKC,DAL,0,home,OffensiveFoul,,,turnover,,K. Durant,
+119,2,9:52.0,23,26,OKC,DAL,0,home,Sub,,,,,S. Ibaka,N. Collison
+120,2,9:31.0,23,26,OKC,DAL,21,away,JS,,9,miss2,0,D. Williams,
+121,2,9:31.0,23,26,OKC,DAL,0,home,DefReb,,,DefReb,,K. Durant,
+122,2,9:08.0,23,26,OKC,DAL,23,home,LostBall,steal,,turnover,,K. Durant,D. Williams
+123,2,9:03.0,23,28,OKC,DAL,5,away,DK,assist,0,make2,2,J. Anderson,D. Williams
+124,2,9:02.0,23,28,OKC,DAL,1,home,Timeout,,,,,,
+125,2,9:02.0,23,28,OKC,DAL,0,home,Sub,,,,,R. Westbrook,D. Waiters
+126,2,8:55.0,23,28,OKC,DAL,7,home,JS,,6,miss2,0,E. Freedom,
+127,2,8:54.0,23,28,OKC,DAL,1,home,OffReb,,,OffReb,,R. Westbrook,
+128,2,8:54.0,25,28,OKC,DAL,0,home,LU,,1,make2,2,R. Westbrook,
+129,2,8:36.0,25,28,OKC,DAL,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Freedom,D. Harris
+130,2,8:36.0,25,28,OKC,DAL,0,away,FreeThrow,,,make1,0,D. Harris,
+131,2,8:36.0,25,28,OKC,DAL,0,away,OffReb,,,OffReb,,Team,
+132,2,8:36.0,25,28,OKC,DAL,0,away,FreeThrow,,,make1,0,D. Harris,
+133,2,8:35.0,25,28,OKC,DAL,1,away,OffReb,,,OffReb,,J. Anderson,
+134,2,8:34.0,25,30,OKC,DAL,1,away,DK,,0,make2,2,J. Anderson,
+135,2,8:30.0,25,30,OKC,DAL,4,home,BadPass,steal,,turnover,,K. Durant,D. Harris
+136,2,8:25.0,25,30,OKC,DAL,5,away,JS,,26,miss3,0,D. Williams,
+137,2,8:24.0,25,30,OKC,DAL,1,home,DefReb,,,DefReb,,R. Westbrook,
+138,2,8:18.0,28,30,OKC,DAL,6,home,JS,assist,25,make3,3,K. Durant,R. Westbrook
+139,2,7:56.0,28,30,OKC,DAL,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Ibaka,D. Nowitzki
+140,2,7:56.0,28,31,OKC,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+141,2,7:56.0,28,32,OKC,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+142,2,7:41.0,28,32,OKC,DAL,15,home,JS,,9,miss2,0,K. Durant,
+143,2,7:41.0,28,32,OKC,DAL,0,away,DefReb,,,DefReb,,D. Williams,
+144,2,7:19.0,28,32,OKC,DAL,22,away,JS,,24,miss3,0,D. Nowitzki,
+145,2,7:18.0,28,32,OKC,DAL,1,home,DefReb,,,DefReb,,E. Freedom,
+146,2,7:13.0,28,32,OKC,DAL,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Mejri,R. Westbrook
+147,2,7:13.0,29,32,OKC,DAL,0,home,FreeThrow,,,make1,1,R. Westbrook,
+148,2,7:13.0,29,32,OKC,DAL,0,away,Sub,,,,,Z. Pachulia,D. Nowitzki
+149,2,7:13.0,29,32,OKC,DAL,0,away,Sub,,,,,D. Powell,D. Harris
+150,2,7:13.0,29,32,OKC,DAL,0,away,Sub,,,,,R. Felton,J. Anderson
+151,2,7:13.0,29,32,OKC,DAL,0,away,Sub,,,,,W. Matthews,S. Mejri
+152,2,7:13.0,29,32,OKC,DAL,0,home,Sub,,,,,S. Adams,E. Freedom
+153,2,7:13.0,29,32,OKC,DAL,0,home,Sub,,,,,A. Morrow,R. Foye
+154,2,7:13.0,29,32,OKC,DAL,0,home,FreeThrow,,,make1,0,R. Westbrook,
+155,2,7:12.0,29,32,OKC,DAL,1,away,DefReb,,,DefReb,,Z. Pachulia,
+156,2,6:58.0,29,32,OKC,DAL,14,away,JS,,24,miss3,0,W. Matthews,
+157,2,6:57.0,29,32,OKC,DAL,1,home,DefReb,,,DefReb,,K. Durant,
+158,2,6:51.0,32,32,OKC,DAL,6,home,JS,assist,22,make3,3,A. Morrow,K. Durant
+159,2,6:48.0,32,32,OKC,DAL,3,away,Timeout,,,,,,
+160,2,6:24.0,32,32,OKC,DAL,24,away,LU,,2,miss2,0,D. Powell,
+161,2,6:21.0,32,32,OKC,DAL,3,away,OffReb,,,OffReb,,Z. Pachulia,
+162,2,6:21.0,32,34,OKC,DAL,0,away,LU,,2,make2,2,Z. Pachulia,
+163,2,6:10.0,32,34,OKC,DAL,11,home,DK,,0,miss2,0,S. Adams,
+164,2,6:10.0,32,34,OKC,DAL,0,home,OffReb,,,OffReb,,R. Westbrook,
+165,2,6:05.0,32,34,OKC,DAL,5,home,JS,,6,miss2,0,R. Westbrook,
+166,2,6:05.0,32,34,OKC,DAL,0,away,DefReb,,,DefReb,,Team,
+167,2,5:55.0,32,34,OKC,DAL,10,away,JS,,23,miss3,0,R. Felton,
+168,2,5:54.0,32,34,OKC,DAL,1,away,OffReb,,,OffReb,,R. Felton,
+169,2,5:29.0,32,34,OKC,DAL,25,away,HS,,4,miss2,0,Z. Pachulia,
+170,2,5:29.0,32,34,OKC,DAL,0,home,DefReb,,,DefReb,,Team,
+171,2,5:29.0,32,34,OKC,DAL,0,away,LooseBallFoul,,,LooseBallFoul,,Z. Pachulia,
+172,2,5:15.0,34,34,OKC,DAL,14,home,JS,assist,14,make2,2,S. Ibaka,K. Durant
+173,2,4:56.0,34,34,OKC,DAL,19,away,LU,,2,miss2,0,D. Powell,
+174,2,4:55.0,34,34,OKC,DAL,1,home,DefReb,,,DefReb,,K. Durant,
+175,2,4:49.0,34,34,OKC,DAL,6,home,BadPass,steal,,turnover,,K. Durant,Z. Pachulia
+176,2,4:45.0,34,36,OKC,DAL,4,away,LU,assist,2,make2,2,R. Felton,D. Williams
+177,2,4:23.0,34,36,OKC,DAL,22,home,PersonalFoul,,,,,R. Felton,
+178,2,4:23.0,34,36,OKC,DAL,0,away,Sub,,,,,D. Nowitzki,D. Powell
+179,2,4:17.0,36,36,OKC,DAL,6,home,JS,,12,make2,2,R. Westbrook,
+180,2,4:04.0,36,36,OKC,DAL,13,away,JS,,9,miss2,0,R. Felton,
+181,2,4:02.0,36,36,OKC,DAL,2,home,DefReb,,,DefReb,,S. Ibaka,
+182,2,3:59.0,36,36,OKC,DAL,3,home,PersonalFoul,,,,,D. Williams,
+183,2,3:59.0,36,36,OKC,DAL,0,away,Sub,,,,,S. Mejri,Z. Pachulia
+184,2,3:54.0,36,36,OKC,DAL,5,home,JS,,15,miss2,0,K. Durant,
+185,2,3:53.0,36,36,OKC,DAL,1,home,OffReb,,,OffReb,,Team,
+186,2,3:53.0,36,36,OKC,DAL,0,away,LooseBallFoul,,,LooseBallFoul,,S. Mejri,
+187,2,3:53.0,37,36,OKC,DAL,0,home,FreeThrow,,,make1,1,S. Adams,
+188,2,3:53.0,37,36,OKC,DAL,0,home,FreeThrow,,,make1,0,S. Adams,
+189,2,3:53.0,37,36,OKC,DAL,0,away,DefReb,,,DefReb,,D. Nowitzki,
+190,2,3:29.0,37,38,OKC,DAL,24,away,JS,assist,17,make2,2,D. Nowitzki,D. Williams
+191,2,3:13.0,37,38,OKC,DAL,16,home,JS,,23,miss3,0,A. Morrow,
+192,2,3:12.0,37,38,OKC,DAL,1,home,OffReb,,,OffReb,,Team,
+193,2,3:11.0,37,38,OKC,DAL,1,home,Sub,,,,,D. Waiters,A. Morrow
+194,2,3:08.0,37,38,OKC,DAL,3,home,JS,,5,miss2,0,S. Adams,
+195,2,3:08.0,37,38,OKC,DAL,0,home,OffReb,,,OffReb,,R. Westbrook,
+196,2,3:08.0,37,38,OKC,DAL,0,home,DK,,0,miss2,0,R. Westbrook,
+197,2,3:08.0,37,38,OKC,DAL,0,away,DefReb,,,DefReb,,Team,
+198,2,2:50.0,37,40,OKC,DAL,18,away,LU,assist,2,make2,2,S. Mejri,D. Williams
+199,2,2:33.0,40,40,OKC,DAL,17,home,JS,assist,23,make3,3,S. Ibaka,S. Adams
+200,2,2:08.0,40,40,OKC,DAL,25,away,JS,,26,miss3,0,R. Felton,
+201,2,2:08.0,40,40,OKC,DAL,0,home,DefReb,,,DefReb,,S. Ibaka,
+202,2,2:02.0,43,40,OKC,DAL,6,home,JS,,25,make3,3,R. Westbrook,
+203,2,1:59.0,43,40,OKC,DAL,3,away,Timeout,,,,,,
+204,2,1:59.0,43,40,OKC,DAL,0,away,Timeout,,,,,,
+205,2,1:43.0,43,40,OKC,DAL,16,away,JS,,23,miss3,0,W. Matthews,
+206,2,1:42.0,43,40,OKC,DAL,1,home,DefReb,,,DefReb,,K. Durant,
+207,2,1:28.0,43,40,OKC,DAL,14,home,JS,,24,miss3,0,R. Westbrook,
+208,2,1:28.0,43,40,OKC,DAL,0,away,DefReb,,,DefReb,,W. Matthews,
+209,2,1:08.0,43,40,OKC,DAL,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Westbrook,S. Mejri
+210,2,1:08.0,43,40,OKC,DAL,0,away,FreeThrow,,,make1,0,S. Mejri,
+211,2,1:08.0,43,40,OKC,DAL,0,away,OffReb,,,OffReb,,Team,
+212,2,1:08.0,43,41,OKC,DAL,0,away,FreeThrow,,,make1,1,S. Mejri,
+213,2,0:58.0,43,41,OKC,DAL,10,home,BadPass,steal,,turnover,,R. Westbrook,R. Felton
+214,2,0:53.0,43,41,OKC,DAL,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Ibaka,R. Felton
+215,2,0:53.0,43,42,OKC,DAL,0,away,FreeThrow,,,make1,1,R. Felton,
+216,2,0:53.0,43,42,OKC,DAL,0,home,Sub,,,,,N. Collison,S. Ibaka
+217,2,0:53.0,43,43,OKC,DAL,0,away,FreeThrow,,,make1,1,R. Felton,
+218,2,0:28.0,43,43,OKC,DAL,25,home,JS,,25,miss3,0,D. Waiters,
+219,2,0:28.0,43,43,OKC,DAL,0,away,DefReb,,,DefReb,,R. Felton,
+220,2,0:03.0,43,45,OKC,DAL,25,away,JS,assist,14,make2,2,D. Nowitzki,R. Felton
+221,2,0:03.0,43,45,OKC,DAL,0,home,Timeout,,,,,,
+222,2,0:03.0,43,45,OKC,DAL,0,away,Sub,,,,,D. Harris,D. Nowitzki
+223,2,0:03.0,43,45,OKC,DAL,0,away,Sub,,,,,J. Anderson,S. Mejri
+224,2,0:00.0,43,45,OKC,DAL,3,home,JS,,35,miss3,0,R. Westbrook,
+225,2,0:00.0,43,45,OKC,DAL,0,home,OffReb,,,OffReb,,Team,
+226,3,11:46.0,43,45,OKC,DAL,14,away,JS,,19,miss2,0,D. Nowitzki,
+227,3,11:46.0,43,45,OKC,DAL,0,home,DefReb,,,DefReb,,A. Roberson,
+228,3,11:30.0,43,45,OKC,DAL,16,home,JS,,25,miss3,0,K. Durant,
+229,3,11:29.0,43,45,OKC,DAL,1,home,OffReb,,,OffReb,,S. Ibaka,
+230,3,11:26.0,45,45,OKC,DAL,3,home,JS,,16,make2,2,S. Ibaka,
+231,3,11:06.0,45,45,OKC,DAL,20,away,JS,,15,miss2,0,D. Nowitzki,
+232,3,11:06.0,45,45,OKC,DAL,0,away,OffReb,,,OffReb,,Z. Pachulia,
+233,3,10:50.0,45,45,OKC,DAL,16,away,JS,,25,miss3,0,R. Felton,
+234,3,10:50.0,45,45,OKC,DAL,0,home,DefReb,,,DefReb,,S. Adams,
+235,3,10:38.0,45,45,OKC,DAL,12,home,JS,,13,miss2,0,K. Durant,
+236,3,10:37.0,45,45,OKC,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+237,3,10:19.0,45,45,OKC,DAL,18,away,JS,,16,miss2,0,D. Nowitzki,
+238,3,10:19.0,45,45,OKC,DAL,0,home,DefReb,,,DefReb,,A. Roberson,
+239,3,10:05.0,47,45,OKC,DAL,14,home,JS,,7,make2,2,R. Westbrook,
+240,3,9:52.0,47,45,OKC,DAL,13,away,BadPass,steal,,turnover,,D. Williams,A. Roberson
+241,3,9:48.0,49,45,OKC,DAL,4,home,DK,,0,make2,2,A. Roberson,
+242,3,9:32.0,49,48,OKC,DAL,16,away,JS,assist,24,make3,3,D. Nowitzki,R. Felton
+243,3,9:18.0,49,48,OKC,DAL,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Felton,K. Durant
+244,3,9:18.0,50,48,OKC,DAL,0,home,FreeThrow,,,make1,1,K. Durant,
+245,3,9:18.0,51,48,OKC,DAL,0,home,FreeThrow,,,make1,1,K. Durant,
+246,3,9:18.0,52,48,OKC,DAL,0,home,FreeThrow,,,make1,1,K. Durant,
+247,3,9:01.0,52,48,OKC,DAL,17,away,JS,,16,miss2,0,D. Nowitzki,
+248,3,9:00.0,52,48,OKC,DAL,1,home,DefReb,,,DefReb,,R. Westbrook,
+249,3,8:52.0,52,48,OKC,DAL,8,home,JS,,9,miss2,0,R. Westbrook,
+250,3,8:52.0,52,48,OKC,DAL,0,away,DefReb,,,DefReb,,Team,
+251,3,8:51.0,52,48,OKC,DAL,1,away,PersonalFoul,,,,,S. Adams,
+252,3,8:35.0,52,48,OKC,DAL,16,away,LU,,3,miss2,0,W. Matthews,
+253,3,8:35.0,52,48,OKC,DAL,0,home,DefReb,,,DefReb,,R. Westbrook,
+254,3,8:33.0,52,48,OKC,DAL,2,home,LostBall,steal,,turnover,,R. Westbrook,W. Matthews
+255,3,8:32.0,52,48,OKC,DAL,1,home,LooseBallFoul,,,LooseBallFoul,,R. Westbrook,
+256,3,8:07.0,52,48,OKC,DAL,25,away,ShotClockViolation,,,turnover,,Team,
+257,3,7:54.0,52,48,OKC,DAL,13,home,JS,,24,miss3,0,K. Durant,
+258,3,7:54.0,52,48,OKC,DAL,0,home,OffReb,,,OffReb,,Team,
+259,3,7:44.0,52,48,OKC,DAL,10,home,JS,,15,miss2,0,K. Durant,
+260,3,7:44.0,52,48,OKC,DAL,0,away,DefReb,,,DefReb,,Z. Pachulia,
+261,3,7:33.0,52,48,OKC,DAL,11,away,LU,block,2,miss2,0,Z. Pachulia,K. Durant
+262,3,7:32.0,52,48,OKC,DAL,1,home,DefReb,,,DefReb,,R. Westbrook,
+263,3,7:27.0,54,48,OKC,DAL,5,home,LU,,3,make2,2,R. Westbrook,
+264,3,7:24.0,54,48,OKC,DAL,3,away,Timeout,,,,,,
+265,3,7:24.0,54,48,OKC,DAL,0,away,Sub,,,,,S. Mejri,Z. Pachulia
+266,3,7:09.0,54,50,OKC,DAL,15,away,JS,,7,make2,2,D. Williams,
+267,3,6:41.0,54,50,OKC,DAL,28,home,JS,,25,miss3,0,R. Westbrook,
+268,3,6:41.0,54,50,OKC,DAL,0,away,DefReb,,,DefReb,,D. Nowitzki,
+269,3,6:25.0,54,50,OKC,DAL,16,away,BadPass,steal,,turnover,,D. Williams,A. Roberson
+270,3,6:23.0,54,50,OKC,DAL,2,home,PersonalTakeFoul,,,PersonalTakeFoul,,D. Williams,
+271,3,6:13.0,54,50,OKC,DAL,10,home,JS,,15,miss2,0,K. Durant,
+272,3,6:12.0,54,50,OKC,DAL,1,home,OffReb,,,OffReb,,S. Adams,
+273,3,6:12.0,56,50,OKC,DAL,0,home,LU,,1,make2,2,S. Adams,
+274,3,5:55.0,56,50,OKC,DAL,17,away,BadPass,steal,,turnover,,D. Williams,S. Ibaka
+275,3,5:44.0,58,50,OKC,DAL,11,home,JS,,4,make2,2,K. Durant,
+276,3,5:43.0,58,50,OKC,DAL,1,away,Timeout,,,,,,
+277,3,5:43.0,58,50,OKC,DAL,0,away,Sub,,,,,D. Harris,D. Williams
+278,3,5:21.0,58,52,OKC,DAL,22,away,JS,,14,make2,2,D. Nowitzki,
+279,3,4:56.0,58,52,OKC,DAL,25,home,JS,,28,miss3,0,K. Durant,
+280,3,4:54.0,58,52,OKC,DAL,2,away,DefReb,,,DefReb,,W. Matthews,
+281,3,4:47.0,58,52,OKC,DAL,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Ibaka,R. Felton
+282,3,4:47.0,58,52,OKC,DAL,0,away,FreeThrow,,,make1,0,R. Felton,
+283,3,4:47.0,58,52,OKC,DAL,0,away,OffReb,,,OffReb,,Team,
+284,3,4:47.0,58,52,OKC,DAL,0,home,Sub,,,,,K. Singler,K. Durant
+285,3,4:47.0,58,52,OKC,DAL,0,home,Sub,,,,,E. Freedom,S. Ibaka
+286,3,4:47.0,58,52,OKC,DAL,0,away,Sub,,,,,D. Powell,D. Nowitzki
+287,3,4:47.0,58,53,OKC,DAL,0,away,FreeThrow,,,make1,1,R. Felton,
+288,3,4:38.0,58,53,OKC,DAL,9,home,DK,,2,miss2,0,A. Roberson,
+289,3,4:38.0,58,53,OKC,DAL,0,away,DefReb,,,DefReb,,Team,
+290,3,4:14.0,58,53,OKC,DAL,24,away,HS,,6,miss2,0,D. Powell,
+291,3,4:14.0,58,53,OKC,DAL,0,home,DefReb,,,DefReb,,R. Westbrook,
+292,3,3:58.0,58,53,OKC,DAL,16,home,JS,,12,miss2,0,K. Singler,
+293,3,3:56.0,58,53,OKC,DAL,2,away,DefReb,,,DefReb,,R. Felton,
+294,3,3:53.0,58,55,OKC,DAL,3,away,LU,,1,make2,2,R. Felton,
+295,3,3:53.0,58,55,OKC,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Roberson,R. Felton
+296,3,3:53.0,58,56,OKC,DAL,0,away,FreeThrow,,,make1,1,R. Felton,
+297,3,3:53.0,58,56,OKC,DAL,0,home,Timeout,,,,,,
+298,3,3:53.0,58,56,OKC,DAL,0,home,Sub,,,,,A. Morrow,A. Roberson
+299,3,3:53.0,58,56,OKC,DAL,0,home,Sub,,,,,D. Waiters,K. Singler
+300,3,3:40.0,58,56,OKC,DAL,13,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Morrow,D. Harris
+301,3,3:40.0,58,56,OKC,DAL,0,home,OffensiveFoul,,,turnover,,A. Morrow,
+302,3,3:40.0,58,56,OKC,DAL,0,home,Sub,,,,,K. Durant,S. Adams
+303,3,3:28.0,58,56,OKC,DAL,12,away,BadPass,steal,,turnover,,R. Felton,R. Westbrook
+304,3,3:22.0,60,56,OKC,DAL,6,home,LU,assist,1,make2,2,A. Morrow,R. Westbrook
+305,3,3:05.0,60,56,OKC,DAL,17,away,JS,,25,miss3,0,W. Matthews,
+306,3,3:04.0,60,56,OKC,DAL,1,home,DefReb,,,DefReb,,D. Waiters,
+307,3,2:57.0,60,56,OKC,DAL,7,home,PersonalFoul,,,,,D. Powell,
+308,3,2:57.0,60,56,OKC,DAL,0,away,Sub,,,,,D. Nowitzki,D. Powell
+309,3,2:45.0,60,56,OKC,DAL,12,home,JS,,9,miss2,0,K. Durant,
+310,3,2:44.0,60,56,OKC,DAL,1,home,OffReb,,,OffReb,,E. Freedom,
+311,3,2:41.0,60,56,OKC,DAL,3,home,LU,block,1,miss2,0,E. Freedom,S. Mejri
+312,3,2:40.0,60,56,OKC,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+313,3,2:25.0,60,56,OKC,DAL,15,away,LostBall,steal,,turnover,,D. Nowitzki,A. Morrow
+314,3,2:21.0,60,56,OKC,DAL,4,home,LostBall,,,turnover,,A. Morrow,
+315,3,2:11.0,60,56,OKC,DAL,10,away,JS,,12,miss2,0,R. Felton,
+316,3,2:10.0,60,56,OKC,DAL,1,away,OffReb,,,OffReb,,S. Mejri,
+317,3,2:10.0,60,58,OKC,DAL,0,away,LU,,1,make2,2,S. Mejri,
+318,3,1:56.0,60,58,OKC,DAL,14,home,JS,,25,miss3,0,A. Morrow,
+319,3,1:55.0,60,58,OKC,DAL,1,home,OffReb,,,OffReb,,E. Freedom,
+320,3,1:52.0,62,58,OKC,DAL,3,home,LU,,1,make2,2,E. Freedom,
+321,3,1:38.0,62,58,OKC,DAL,14,away,JS,,25,miss3,0,W. Matthews,
+322,3,1:37.0,62,58,OKC,DAL,1,home,DefReb,,,DefReb,,R. Westbrook,
+323,3,1:30.0,62,58,OKC,DAL,7,home,JS,,23,miss3,0,D. Waiters,
+324,3,1:27.0,62,58,OKC,DAL,3,away,DefReb,,,DefReb,,D. Harris,
+325,3,1:18.0,62,58,OKC,DAL,9,away,PersonalFoul,,,,,R. Westbrook,
+326,3,1:18.0,62,58,OKC,DAL,0,away,FreeThrow,,,make1,0,S. Mejri,
+327,3,1:18.0,62,58,OKC,DAL,0,away,OffReb,,,OffReb,,Team,
+328,3,1:18.0,62,58,OKC,DAL,0,home,Sub,,,,,R. Foye,R. Westbrook
+329,3,1:18.0,62,59,OKC,DAL,0,away,FreeThrow,,,make1,1,S. Mejri,
+330,3,1:01.0,62,59,OKC,DAL,17,home,JS,,10,miss2,0,K. Durant,
+331,3,1:00.0,62,59,OKC,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+332,3,0:39.0,62,59,OKC,DAL,21,away,JS,,16,miss2,0,D. Harris,
+333,3,0:38.0,62,59,OKC,DAL,1,home,DefReb,,,DefReb,,K. Durant,
+334,3,0:30.0,62,59,OKC,DAL,8,home,JS,,24,miss3,0,R. Foye,
+335,3,0:29.0,62,59,OKC,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+336,3,0:04.0,62,59,OKC,DAL,25,away,JS,,17,miss2,0,D. Nowitzki,
+337,3,0:03.0,62,59,OKC,DAL,1,home,DefReb,,,DefReb,,D. Waiters,
+338,3,0:00.0,62,59,OKC,DAL,3,home,JS,,41,miss3,0,D. Waiters,
+339,3,0:00.0,62,59,OKC,DAL,0,home,OffReb,,,OffReb,,Team,
+340,4,11:36.0,62,59,OKC,DAL,24,home,JS,,14,miss2,0,K. Durant,
+341,4,11:35.0,62,59,OKC,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+342,4,11:14.0,62,61,OKC,DAL,21,away,LU,assist,1,make2,2,S. Mejri,J. Anderson
+343,4,10:56.0,62,61,OKC,DAL,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Mejri,A. Morrow
+344,4,10:56.0,63,61,OKC,DAL,0,home,FreeThrow,,,make1,1,A. Morrow,
+345,4,10:56.0,64,61,OKC,DAL,0,home,FreeThrow,,,make1,1,A. Morrow,
+346,4,10:35.0,64,63,OKC,DAL,21,away,LU,,1,make2,2,D. Harris,
+347,4,10:20.0,64,63,OKC,DAL,15,home,LostBall,steal,,turnover,,K. Durant,J. Anderson
+348,4,10:14.0,64,63,OKC,DAL,6,away,LU,,1,miss2,0,D. Harris,
+349,4,10:13.0,64,63,OKC,DAL,1,away,OffReb,,,OffReb,,S. Mejri,
+350,4,10:13.0,64,65,OKC,DAL,0,away,DK,,0,make2,2,S. Mejri,
+351,4,9:53.0,64,65,OKC,DAL,20,home,LU,block,2,miss2,0,K. Durant,S. Mejri
+352,4,9:51.0,64,65,OKC,DAL,2,home,OffReb,,,OffReb,,E. Freedom,
+353,4,9:48.0,66,65,OKC,DAL,3,home,JS,,4,make2,2,E. Freedom,
+354,4,9:28.0,66,67,OKC,DAL,20,away,JS,assist,6,make2,2,D. Nowitzki,R. Felton
+355,4,9:12.0,68,67,OKC,DAL,16,home,LU,,2,make2,2,D. Waiters,
+356,4,9:10.0,68,67,OKC,DAL,2,away,Timeout,,,,,,
+357,4,9:10.0,68,67,OKC,DAL,0,home,Sub,,,,,S. Ibaka,R. Foye
+358,4,9:10.0,68,67,OKC,DAL,0,home,Sub,,,,,R. Westbrook,A. Morrow
+359,4,9:10.0,68,67,OKC,DAL,0,away,Sub,,,,,Z. Pachulia,S. Mejri
+360,4,9:10.0,68,67,OKC,DAL,0,away,Sub,,,,,W. Matthews,R. Felton
+361,4,8:47.0,68,67,OKC,DAL,23,away,JS,,23,miss3,0,W. Matthews,
+362,4,8:45.0,68,67,OKC,DAL,2,away,OffReb,,,OffReb,,J. Anderson,
+363,4,8:45.0,68,67,OKC,DAL,0,away,DK,,0,miss2,0,J. Anderson,
+364,4,8:45.0,68,67,OKC,DAL,0,away,OffReb,,,OffReb,,Team,
+365,4,8:45.0,68,67,OKC,DAL,0,home,Sub,,,,,R. Foye,K. Durant
+366,4,8:37.0,68,67,OKC,DAL,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Freedom,D. Harris
+367,4,8:37.0,68,68,OKC,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+368,4,8:37.0,68,69,OKC,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+369,4,8:23.0,68,69,OKC,DAL,14,home,JS,,22,miss3,0,E. Freedom,
+370,4,8:22.0,68,69,OKC,DAL,1,away,DefReb,,,DefReb,,D. Harris,
+371,4,8:08.0,68,69,OKC,DAL,14,away,JS,,13,miss2,0,D. Nowitzki,
+372,4,8:07.0,68,69,OKC,DAL,1,home,DefReb,,,DefReb,,S. Ibaka,
+373,4,7:59.0,68,69,OKC,DAL,8,home,JS,,5,miss2,0,R. Westbrook,
+374,4,7:59.0,68,69,OKC,DAL,0,away,DefReb,,,DefReb,,D. Harris,
+375,4,7:53.0,68,69,OKC,DAL,6,away,LU,,2,miss2,0,J. Anderson,
+376,4,7:51.0,68,69,OKC,DAL,2,home,DefReb,,,DefReb,,S. Ibaka,
+377,4,7:44.0,70,69,OKC,DAL,7,home,JS,,4,make2,2,D. Waiters,
+378,4,7:44.0,70,69,OKC,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,D. Waiters
+379,4,7:44.0,70,69,OKC,DAL,0,home,Sub,,,,,K. Durant,R. Foye
+380,4,7:44.0,70,69,OKC,DAL,0,away,Sub,,,,,R. Felton,D. Harris
+381,4,7:44.0,71,69,OKC,DAL,0,home,FreeThrow,,,make1,1,D. Waiters,
+382,4,7:34.0,71,69,OKC,DAL,10,away,BadPass,steal,,turnover,,R. Felton,E. Freedom
+383,4,7:30.0,73,69,OKC,DAL,4,home,DK,assist,0,make2,2,K. Durant,R. Westbrook
+384,4,7:03.0,73,69,OKC,DAL,27,away,JS,,12,miss2,0,D. Nowitzki,
+385,4,7:01.0,73,69,OKC,DAL,2,away,OffReb,,,OffReb,,J. Anderson,
+386,4,7:01.0,73,69,OKC,DAL,0,away,LU,,2,miss2,0,J. Anderson,
+387,4,7:00.0,73,69,OKC,DAL,1,home,DefReb,,,DefReb,,Team,
+388,4,6:47.0,76,69,OKC,DAL,13,home,JS,assist,23,make3,3,S. Ibaka,R. Westbrook
+389,4,6:44.0,76,69,OKC,DAL,3,away,Timeout,,,,,,
+390,4,6:43.0,76,69,OKC,DAL,1,away,Sub,,,,,D. Harris,Z. Pachulia
+391,4,6:43.0,76,69,OKC,DAL,0,away,Sub,,,,,S. Mejri,J. Anderson
+392,4,6:30.0,76,71,OKC,DAL,13,away,LU,assist,2,make2,2,W. Matthews,S. Mejri
+393,4,6:17.0,78,71,OKC,DAL,13,home,JS,,13,make2,2,R. Westbrook,
+394,4,5:52.0,78,73,OKC,DAL,25,away,JS,,15,make2,2,W. Matthews,
+395,4,5:36.0,78,73,OKC,DAL,16,home,JS,,14,miss2,0,R. Westbrook,
+396,4,5:36.0,78,73,OKC,DAL,0,home,OffReb,,,OffReb,,E. Freedom,
+397,4,5:35.0,78,73,OKC,DAL,1,home,LU,block,1,miss2,0,E. Freedom,S. Mejri
+398,4,5:33.0,78,73,OKC,DAL,2,away,DefReb,,,DefReb,,D. Harris,
+399,4,5:24.0,78,75,OKC,DAL,9,away,DK,assist,0,make2,2,S. Mejri,D. Nowitzki
+400,4,5:24.0,78,75,OKC,DAL,0,home,Timeout,,,,,,
+401,4,5:24.0,78,75,OKC,DAL,0,home,Sub,,,,,S. Adams,E. Freedom
+402,4,5:08.0,78,75,OKC,DAL,16,home,JS,,24,miss3,0,K. Durant,
+403,4,5:07.0,78,75,OKC,DAL,1,away,DefReb,,,DefReb,,D. Harris,
+404,4,4:52.0,78,77,OKC,DAL,15,away,JS,,24,make2,2,R. Felton,
+405,4,4:37.0,78,77,OKC,DAL,15,home,JS,,15,miss2,0,K. Durant,
+406,4,4:37.0,78,77,OKC,DAL,0,away,DefReb,,,DefReb,,D. Harris,
+407,4,4:18.0,78,79,OKC,DAL,19,away,JS,,21,make2,2,R. Felton,
+408,4,4:01.0,78,79,OKC,DAL,17,home,JS,,24,miss3,0,R. Westbrook,
+409,4,4:00.0,78,79,OKC,DAL,1,home,OffReb,,,OffReb,,S. Adams,
+410,4,3:47.0,78,79,OKC,DAL,13,home,JS,,23,miss3,0,D. Waiters,
+411,4,3:46.0,78,79,OKC,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+412,4,3:33.0,78,79,OKC,DAL,13,away,BadPass,steal,,turnover,,R. Felton,S. Ibaka
+413,4,3:33.0,78,79,OKC,DAL,0,home,PersonalFoul,,,,,R. Felton,
+414,4,3:21.0,78,79,OKC,DAL,12,home,D3SecTech,,,,,,
+415,4,3:21.0,79,79,OKC,DAL,0,home,FreeThrow,,,make1,1,K. Durant makes technical free throw,
+416,4,3:14.0,79,79,OKC,DAL,7,home,LU,,1,miss2,0,R. Westbrook,
+417,4,3:13.0,79,79,OKC,DAL,1,home,OffReb,,,OffReb,,S. Adams,
+418,4,3:12.0,81,79,OKC,DAL,1,home,LU,,1,make2,2,S. Adams,
+419,4,2:56.0,81,79,OKC,DAL,16,away,JS,block,6,miss2,0,R. Felton,S. Adams
+420,4,2:56.0,81,79,OKC,DAL,0,away,OffReb,,,OffReb,,Team,
+421,4,2:47.0,81,79,OKC,DAL,9,away,DK,block,0,miss2,0,S. Mejri,S. Ibaka
+422,4,2:45.0,81,79,OKC,DAL,2,away,OffReb,,,OffReb,,D. Nowitzki,
+423,4,2:43.0,81,79,OKC,DAL,2,away,JS,,20,miss2,0,D. Nowitzki,
+424,4,2:42.0,81,79,OKC,DAL,1,home,DefReb,,,DefReb,,S. Ibaka,
+425,4,2:20.0,81,79,OKC,DAL,22,home,LostBall,steal,,turnover,,K. Durant,W. Matthews
+426,4,2:14.0,81,81,OKC,DAL,6,away,LU,assist,2,make2,2,D. Harris,W. Matthews
+427,4,1:59.0,81,81,OKC,DAL,15,home,PersonalFoul,,,,,W. Matthews,
+428,4,1:50.0,81,81,OKC,DAL,9,home,LostBall,,,turnover,,R. Westbrook,
+429,4,1:32.0,81,81,OKC,DAL,18,away,JS,,24,miss3,0,W. Matthews,
+430,4,1:32.0,81,81,OKC,DAL,0,home,DefReb,,,DefReb,,R. Westbrook,
+431,4,1:16.0,81,81,OKC,DAL,16,home,JS,,15,miss2,0,K. Durant,
+432,4,1:15.0,81,81,OKC,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+433,4,1:00.0,81,81,OKC,DAL,15,away,JS,,25,miss3,0,D. Nowitzki,
+434,4,1:00.0,81,81,OKC,DAL,0,home,DefReb,,,DefReb,,S. Ibaka,
+435,4,0:57.0,81,81,OKC,DAL,3,home,Timeout,,,,,,
+436,4,0:41.0,81,81,OKC,DAL,16,home,JS,,25,miss3,0,R. Westbrook,
+437,4,0:40.0,81,81,OKC,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+438,4,0:29.0,81,83,OKC,DAL,11,away,LU,,1,make2,2,R. Felton,
+439,4,0:29.0,81,83,OKC,DAL,0,home,Timeout,,,,,,
+440,4,0:25.0,81,83,OKC,DAL,4,home,JS,,16,miss2,0,K. Durant,
+441,4,0:24.0,81,83,OKC,DAL,1,home,OffReb,,,OffReb,,S. Adams,
+442,4,0:20.0,81,83,OKC,DAL,4,home,JS,,23,miss3,0,K. Durant,
+443,4,0:18.0,81,83,OKC,DAL,2,away,DefReb,,,DefReb,,W. Matthews,
+444,4,0:14.0,81,85,OKC,DAL,4,away,LU,,1,make2,2,W. Matthews,
+445,4,0:14.0,81,85,OKC,DAL,0,home,Timeout,,,,,,
+446,4,0:14.0,81,85,OKC,DAL,0,away,Sub,,,,,J. Anderson,D. Harris
+447,4,0:10.0,84,85,OKC,DAL,4,home,JS,assist,24,make3,3,K. Durant,R. Westbrook
+448,4,0:10.0,84,85,OKC,DAL,0,away,Timeout,,,,,,
+449,4,0:10.0,84,85,OKC,DAL,0,away,Sub,,,,,D. Harris,S. Mejri
+450,4,0:10.0,84,85,OKC,DAL,0,home,Sub,,,,,A. Roberson,S. Ibaka
+451,4,0:08.0,84,85,OKC,DAL,2,away,PersonalTakeFoul,,,PersonalTakeFoul,,S. Adams,
+452,4,0:07.0,84,85,OKC,DAL,1,away,PersonalFoul,,,,,R. Westbrook,
+453,4,0:07.0,84,85,OKC,DAL,0,away,FreeThrow,,,make1,0,R. Felton,
+454,4,0:07.0,84,85,OKC,DAL,0,away,OffReb,,,OffReb,,Team,
+455,4,0:07.0,84,85,OKC,DAL,0,home,Sub,,,,,A. Morrow,A. Roberson
+456,4,0:07.0,84,85,OKC,DAL,0,away,FreeThrow,,,make1,0,R. Felton,
+457,4,0:06.0,84,85,OKC,DAL,1,home,DefReb,,,DefReb,,K. Durant,
+458,4,0:03.0,84,85,OKC,DAL,3,home,LU,block,3,miss2,0,K. Durant,J. Anderson
+459,4,0:02.0,84,85,OKC,DAL,1,home,OffReb,,,OffReb,,R. Westbrook,
+460,4,0:01.0,84,85,OKC,DAL,1,home,LU,,4,miss2,0,R. Westbrook,
+461,4,0:01.0,84,85,OKC,DAL,0,home,OffReb,,,OffReb,,S. Adams,

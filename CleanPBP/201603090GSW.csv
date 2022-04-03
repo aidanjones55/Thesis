@@ -1,0 +1,437 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:44.0,0,0,GSW,UTA,16,home,LU,,2,miss2,0,H. Barnes,
+1,1,11:43.0,0,0,GSW,UTA,1,away,DefReb,,,DefReb,,G. Hayward,
+2,1,11:25.0,0,0,GSW,UTA,18,away,JS,,11,miss2,0,D. Favors,
+3,1,11:24.0,0,0,GSW,UTA,1,away,OffReb,,,OffReb,,R. Gobert,
+4,1,11:19.0,0,2,GSW,UTA,5,away,LU,,1,make2,2,R. Gobert,
+5,1,11:09.0,0,2,GSW,UTA,10,home,BadPass,steal,,turnover,,D. Green,S. Mack
+6,1,11:02.0,0,2,GSW,UTA,7,away,JS,,23,miss3,0,C. Johnson,
+7,1,11:02.0,0,2,GSW,UTA,0,away,OffReb,,,OffReb,,R. Gobert,
+8,1,10:47.0,0,2,GSW,UTA,15,away,JS,,12,miss2,0,S. Mack,
+9,1,10:47.0,0,2,GSW,UTA,0,home,DefReb,,,DefReb,,A. Bogut,
+10,1,10:41.0,0,2,GSW,UTA,6,home,BadPass,,,turnover,,D. Green,
+11,1,10:31.0,0,2,GSW,UTA,10,away,BadPass,steal,,turnover,,C. Johnson,S. Curry
+12,1,10:27.0,2,2,GSW,UTA,4,home,DK,assist,0,make2,2,D. Green,S. Curry
+13,1,10:03.0,2,2,GSW,UTA,24,away,JS,,15,miss2,0,S. Mack,
+14,1,10:02.0,2,2,GSW,UTA,1,away,OffReb,,,OffReb,,R. Gobert,
+15,1,9:56.0,2,4,GSW,UTA,6,away,LU,assist,1,make2,2,C. Johnson,S. Mack
+16,1,9:47.0,2,4,GSW,UTA,9,home,JS,,25,miss3,0,S. Curry,
+17,1,9:46.0,2,4,GSW,UTA,1,away,DefReb,,,DefReb,,G. Hayward,
+18,1,9:38.0,2,4,GSW,UTA,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bogut,R. Gobert
+19,1,9:38.0,2,4,GSW,UTA,0,away,FreeThrow,,,make1,0,R. Gobert,
+20,1,9:38.0,2,4,GSW,UTA,0,away,OffReb,,,OffReb,,Team,
+21,1,9:38.0,2,5,GSW,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+22,1,9:19.0,2,5,GSW,UTA,19,home,PersonalFoul,,,,,C. Johnson,
+23,1,9:14.0,4,5,GSW,UTA,5,home,DK,assist,0,make2,2,A. Bogut,S. Curry
+24,1,9:01.0,4,5,GSW,UTA,13,away,BackCourtTurnover,,,turnover,,C. Johnson,
+25,1,8:56.0,6,5,GSW,UTA,5,home,DK,assist,0,make2,2,A. Bogut,S. Curry
+26,1,8:30.0,6,5,GSW,UTA,26,away,JS,,25,miss3,0,G. Hayward,
+27,1,8:30.0,6,5,GSW,UTA,0,home,DefReb,,,DefReb,,K. Thompson,
+28,1,8:13.0,9,5,GSW,UTA,17,home,JS,assist,25,make3,3,K. Thompson,A. Bogut
+29,1,8:12.0,9,5,GSW,UTA,1,away,Timeout,,,,,,
+30,1,8:00.0,9,5,GSW,UTA,12,away,LU,block,2,miss2,0,D. Favors,A. Bogut
+31,1,7:58.0,9,5,GSW,UTA,2,away,OffReb,,,OffReb,,C. Johnson,
+32,1,7:52.0,9,8,GSW,UTA,6,away,JS,assist,23,make3,3,G. Hayward,S. Mack
+33,1,7:36.0,9,8,GSW,UTA,16,home,BadPass,steal,,turnover,,A. Bogut,C. Johnson
+34,1,7:31.0,9,8,GSW,UTA,5,away,LostBall,,,turnover,,G. Hayward,
+35,1,7:24.0,9,8,GSW,UTA,7,home,JS,,25,miss3,0,S. Curry,
+36,1,7:23.0,9,8,GSW,UTA,1,away,DefReb,,,DefReb,,C. Johnson,
+37,1,6:58.0,9,10,GSW,UTA,25,away,JS,,4,make2,2,S. Mack,
+38,1,6:45.0,9,10,GSW,UTA,13,home,JS,,24,miss3,0,K. Thompson,
+39,1,6:44.0,9,10,GSW,UTA,1,away,DefReb,,,DefReb,,R. Gobert,
+40,1,6:22.0,9,10,GSW,UTA,22,away,JS,,12,miss2,0,D. Favors,
+41,1,6:21.0,9,10,GSW,UTA,1,home,DefReb,,,DefReb,,H. Barnes,
+42,1,6:09.0,12,10,GSW,UTA,12,home,JS,assist,25,make3,3,D. Green,S. Curry
+43,1,5:44.0,12,10,GSW,UTA,25,away,JS,,10,miss2,0,G. Hayward,
+44,1,5:43.0,12,10,GSW,UTA,1,home,DefReb,,,DefReb,,D. Green,
+45,1,5:32.0,15,10,GSW,UTA,11,home,JS,assist,25,make3,3,K. Thompson,A. Bogut
+46,1,5:11.0,15,12,GSW,UTA,21,away,HS,,6,make2,2,D. Favors,
+47,1,5:05.0,15,12,GSW,UTA,6,home,PersonalFoul,,,,,S. Mack,
+48,1,5:05.0,15,12,GSW,UTA,0,home,Sub,,,,,A. Iguodala,H. Barnes
+49,1,5:05.0,15,12,GSW,UTA,0,away,Sub,,,,,T. Burke,C. Johnson
+50,1,5:05.0,15,12,GSW,UTA,0,away,Sub,,,,,T. Booker,R. Gobert
+51,1,4:58.0,15,12,GSW,UTA,7,home,LU,,2,miss2,0,S. Curry,
+52,1,4:58.0,15,12,GSW,UTA,0,away,DefReb,,,DefReb,,S. Mack,
+53,1,4:50.0,15,12,GSW,UTA,8,away,PersonalFoul,,,,,A. Bogut,
+54,1,4:50.0,15,12,GSW,UTA,0,home,Sub,,,,,L. Barbosa,K. Thompson
+55,1,4:50.0,15,12,GSW,UTA,0,home,Sub,,,,,A. Varejão,A. Bogut
+56,1,4:45.0,15,12,GSW,UTA,5,away,JS,,26,miss3,0,G. Hayward,
+57,1,4:43.0,15,12,GSW,UTA,2,away,OffReb,,,OffReb,,T. Booker,
+58,1,4:35.0,15,12,GSW,UTA,8,away,LU,,1,miss2,0,G. Hayward,
+59,1,4:34.0,15,12,GSW,UTA,1,home,DefReb,,,DefReb,,D. Green,
+60,1,4:29.0,15,12,GSW,UTA,5,home,JS,,26,miss3,0,S. Curry,
+61,1,4:24.0,15,12,GSW,UTA,5,home,OffReb,,,OffReb,,A. Varejão,
+62,1,4:24.0,15,12,GSW,UTA,0,home,LU,block,1,miss2,0,A. Varejão,D. Favors
+63,1,4:21.0,15,12,GSW,UTA,3,away,DefReb,,,DefReb,,T. Booker,
+64,1,4:04.0,15,14,GSW,UTA,17,away,JS,assist,11,make2,2,D. Favors,T. Burke
+65,1,3:47.0,17,14,GSW,UTA,17,home,JS,assist,15,make2,2,A. Varejão,S. Curry
+66,1,3:24.0,17,14,GSW,UTA,23,away,LostBall,steal,,turnover,,G. Hayward,A. Varejão
+67,1,3:19.0,19,14,GSW,UTA,5,home,LU,assist,0,make2,2,L. Barbosa,S. Curry
+68,1,3:14.0,19,14,GSW,UTA,5,away,BadPass,steal,,turnover,,T. Burke,D. Green
+69,1,3:07.0,19,14,GSW,UTA,7,home,JS,,22,miss3,0,S. Curry,
+70,1,3:07.0,19,14,GSW,UTA,0,away,DefReb,,,DefReb,,S. Mack,
+71,1,2:57.0,19,16,GSW,UTA,10,away,DK,assist,0,make2,2,G. Hayward,S. Mack
+72,1,2:49.0,19,16,GSW,UTA,8,home,Timeout,,,,,,
+73,1,2:49.0,19,16,GSW,UTA,0,away,Sub,,,,,R. Gobert,D. Favors
+74,1,2:49.0,19,16,GSW,UTA,0,away,Sub,,,,,R. Neto,S. Mack
+75,1,2:46.0,19,16,GSW,UTA,3,home,LostBall,,,turnover,,A. Varejão,
+76,1,2:27.0,19,16,GSW,UTA,19,away,JS,,23,miss3,0,T. Booker,
+77,1,2:25.0,19,16,GSW,UTA,2,home,DefReb,,,DefReb,,S. Curry,
+78,1,2:14.0,19,16,GSW,UTA,11,home,LU,,2,miss2,0,D. Green,
+79,1,2:13.0,19,16,GSW,UTA,1,home,OffReb,,,OffReb,,A. Varejão,
+80,1,2:13.0,19,16,GSW,UTA,0,home,LU,,1,miss2,0,A. Varejão,
+81,1,2:10.0,19,16,GSW,UTA,3,away,DefReb,,,DefReb,,G. Hayward,
+82,1,1:55.0,19,16,GSW,UTA,15,away,BadPass,steal,,turnover,,R. Neto,L. Barbosa
+83,1,1:46.0,21,16,GSW,UTA,9,home,LU,assist,0,make2,2,L. Barbosa,A. Iguodala
+84,1,1:34.0,21,16,GSW,UTA,12,away,LostBall,steal,,turnover,,R. Neto,S. Curry
+85,1,1:30.0,21,16,GSW,UTA,4,home,PersonalFoul,,,,,R. Gobert,
+86,1,1:30.0,21,16,GSW,UTA,0,home,Sub,,,,,H. Barnes,D. Green
+87,1,1:30.0,21,16,GSW,UTA,0,away,Sub,,,,,J. Ingles,G. Hayward
+88,1,1:22.0,21,16,GSW,UTA,8,home,JS,,25,miss3,0,L. Barbosa,
+89,1,1:20.0,21,16,GSW,UTA,2,away,DefReb,,,DefReb,,R. Gobert,
+90,1,1:15.0,21,16,GSW,UTA,5,away,PersonalFoul,,,,,H. Barnes,
+91,1,0:58.0,21,19,GSW,UTA,17,away,JS,assist,22,make3,3,R. Neto,J. Ingles
+92,1,0:38.0,23,19,GSW,UTA,20,home,LU,assist,1,make2,2,H. Barnes,A. Iguodala
+93,1,0:31.0,23,19,GSW,UTA,7,away,JS,,26,miss3,0,T. Burke,
+94,1,0:31.0,23,19,GSW,UTA,0,away,OffReb,,,OffReb,,T. Booker,
+95,1,0:30.0,23,21,GSW,UTA,1,away,LU,,1,make2,2,T. Booker,
+96,1,0:07.0,23,21,GSW,UTA,23,home,JS,,26,miss3,0,A. Iguodala,
+97,1,0:05.0,23,21,GSW,UTA,2,home,OffReb,,,OffReb,,H. Barnes,
+98,1,0:05.0,23,21,GSW,UTA,0,home,JS,,7,miss2,0,H. Barnes,
+99,1,0:03.0,23,21,GSW,UTA,2,away,DefReb,,,DefReb,,R. Gobert,
+100,1,0:01.0,23,21,GSW,UTA,2,away,JS,,48,miss3,0,R. Neto,
+101,1,0:00.0,23,21,GSW,UTA,1,away,OffReb,,,OffReb,,Team,
+102,2,11:46.0,23,21,GSW,UTA,14,away,PersonalFoul,,,,,A. Varejão,
+103,2,11:46.0,23,21,GSW,UTA,0,away,FreeThrow,,,make1,0,R. Gobert,
+104,2,11:46.0,23,21,GSW,UTA,0,away,OffReb,,,OffReb,,Team,
+105,2,11:46.0,23,21,GSW,UTA,0,away,FreeThrow,,,make1,0,R. Gobert,
+106,2,11:45.0,23,21,GSW,UTA,1,home,DefReb,,,DefReb,,A. Varejão,
+107,2,11:29.0,23,21,GSW,UTA,16,home,JS,,4,miss2,0,H. Barnes,
+108,2,11:28.0,23,21,GSW,UTA,1,away,DefReb,,,DefReb,,T. Booker,
+109,2,11:19.0,23,21,GSW,UTA,9,away,PersonalFoul,,,,,L. Barbosa,
+110,2,11:04.0,23,21,GSW,UTA,15,away,JS,,20,miss2,0,T. Burke,
+111,2,11:04.0,23,21,GSW,UTA,0,home,DefReb,,,DefReb,,A. Varejão,
+112,2,10:49.0,23,21,GSW,UTA,15,home,BadPass,steal,,turnover,,A. Iguodala,T. Burke
+113,2,10:40.0,23,23,GSW,UTA,9,away,JS,,22,make2,2,R. Neto,
+114,2,10:25.0,25,23,GSW,UTA,15,home,JS,assist,15,make2,2,A. Varejão,A. Iguodala
+115,2,9:59.0,25,23,GSW,UTA,26,away,JS,,10,miss2,0,R. Neto,
+116,2,9:59.0,25,23,GSW,UTA,0,away,OffReb,,,OffReb,,R. Gobert,
+117,2,9:59.0,25,23,GSW,UTA,0,away,LU,,1,miss2,0,R. Gobert,
+118,2,9:59.0,25,23,GSW,UTA,0,away,OffReb,,,OffReb,,Team,
+119,2,9:59.0,25,23,GSW,UTA,0,home,Sub,,,,,K. Thompson,L. Barbosa
+120,2,9:59.0,25,23,GSW,UTA,0,home,Sub,,,,,M. Speights,A. Varejão
+121,2,9:50.0,25,23,GSW,UTA,9,away,JS,,11,miss2,0,R. Neto,
+122,2,9:49.0,25,23,GSW,UTA,1,away,OffReb,,,OffReb,,R. Gobert,
+123,2,9:40.0,25,23,GSW,UTA,9,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Ingles,M. Speights
+124,2,9:40.0,25,23,GSW,UTA,0,away,OffensiveFoul,,,turnover,,J. Ingles,
+125,2,9:16.0,25,23,GSW,UTA,24,home,JS,,25,miss3,0,M. Speights,
+126,2,9:16.0,25,23,GSW,UTA,0,away,DefReb,,,DefReb,,T. Booker,
+127,2,9:00.0,25,26,GSW,UTA,16,away,JS,assist,24,make3,3,J. Ingles,T. Booker
+128,2,8:43.0,25,26,GSW,UTA,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Booker,M. Speights
+129,2,8:43.0,25,26,GSW,UTA,0,away,Timeout,,,,,,
+130,2,8:43.0,25,26,GSW,UTA,0,away,Sub,,,,,D. Favors,R. Gobert
+131,2,8:43.0,25,26,GSW,UTA,0,away,Sub,,,,,S. Mack,T. Burke
+132,2,8:43.0,25,26,GSW,UTA,0,home,Sub,,,,,D. Green,A. Iguodala
+133,2,8:43.0,25,26,GSW,UTA,0,home,FreeThrow,,,make1,0,M. Speights,
+134,2,8:43.0,25,26,GSW,UTA,0,home,OffReb,,,OffReb,,Team,
+135,2,8:43.0,26,26,GSW,UTA,0,home,FreeThrow,,,make1,1,M. Speights,
+136,2,8:29.0,26,26,GSW,UTA,14,away,BadPass,,,turnover,,T. Booker,
+137,2,8:16.0,28,26,GSW,UTA,13,home,JS,assist,21,make2,2,M. Speights,D. Green
+138,2,7:58.0,28,28,GSW,UTA,18,away,LU,assist,2,make2,2,J. Ingles,S. Mack
+139,2,7:47.0,30,28,GSW,UTA,11,home,DK,assist,0,make2,2,M. Speights,S. Livingston
+140,2,7:31.0,30,28,GSW,UTA,16,away,JS,,19,miss2,0,S. Mack,
+141,2,7:30.0,30,28,GSW,UTA,1,home,DefReb,,,DefReb,,H. Barnes,
+142,2,7:21.0,32,28,GSW,UTA,9,home,JS,assist,4,make2,2,M. Speights,D. Green
+143,2,7:07.0,32,28,GSW,UTA,14,away,BadPass,steal,,turnover,,S. Mack,S. Livingston
+144,2,6:58.0,34,28,GSW,UTA,9,home,JS,,13,make2,2,S. Livingston,
+145,2,6:58.0,34,28,GSW,UTA,0,away,Timeout,,,,,,
+146,2,6:58.0,34,28,GSW,UTA,0,away,Sub,,,,,G. Hayward,J. Ingles
+147,2,6:58.0,34,28,GSW,UTA,0,away,Sub,,,,,T. Lyles,T. Booker
+148,2,6:37.0,34,28,GSW,UTA,21,away,JS,,10,miss2,0,D. Favors,
+149,2,6:36.0,34,28,GSW,UTA,1,home,DefReb,,,DefReb,,H. Barnes,
+150,2,6:24.0,34,28,GSW,UTA,12,home,DK,,0,miss2,0,H. Barnes,
+151,2,6:23.0,34,28,GSW,UTA,1,away,DefReb,,,DefReb,,D. Favors,
+152,2,6:09.0,34,28,GSW,UTA,14,away,JS,,23,miss3,0,T. Lyles,
+153,2,6:08.0,34,28,GSW,UTA,1,home,DefReb,,,DefReb,,M. Speights,
+154,2,5:50.0,36,28,GSW,UTA,18,home,LU,assist,1,make2,2,D. Green,M. Speights
+155,2,5:27.0,36,28,GSW,UTA,23,away,LU,block,0,miss2,0,R. Neto,S. Livingston
+156,2,5:26.0,36,28,GSW,UTA,1,home,DefReb,,,DefReb,,M. Speights,
+157,2,5:13.0,36,28,GSW,UTA,13,home,JS,,15,miss2,0,K. Thompson,
+158,2,5:12.0,36,28,GSW,UTA,1,away,DefReb,,,DefReb,,G. Hayward,
+159,2,4:47.0,36,28,GSW,UTA,25,away,ShotClockViolation,,,turnover,,Team,
+160,2,4:47.0,36,28,GSW,UTA,0,away,Sub,,,,,T. Burke,R. Neto
+161,2,4:47.0,36,28,GSW,UTA,0,home,Sub,,,,,S. Curry,H. Barnes
+162,2,4:37.0,36,28,GSW,UTA,10,home,BadPass,steal,,turnover,,K. Thompson,S. Mack
+163,2,4:20.0,36,28,GSW,UTA,17,away,LostBall,steal,,turnover,,S. Mack,S. Curry
+164,2,4:12.0,36,28,GSW,UTA,8,home,JS,,25,miss3,0,K. Thompson,
+165,2,4:12.0,36,28,GSW,UTA,0,away,DefReb,,,DefReb,,G. Hayward,
+166,2,4:01.0,36,28,GSW,UTA,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Livingston,G. Hayward
+167,2,4:01.0,36,29,GSW,UTA,0,away,FreeThrow,,,make1,1,G. Hayward,
+168,2,4:01.0,36,29,GSW,UTA,0,home,Sub,,,,,A. Iguodala,M. Speights
+169,2,4:01.0,36,29,GSW,UTA,0,away,Sub,,,,,C. Johnson,S. Mack
+170,2,4:01.0,36,29,GSW,UTA,0,away,Sub,,,,,R. Gobert,D. Favors
+171,2,4:01.0,36,30,GSW,UTA,0,away,FreeThrow,,,make1,1,G. Hayward,
+172,2,3:51.0,36,30,GSW,UTA,10,home,LU,,2,miss2,0,D. Green,
+173,2,3:49.0,36,30,GSW,UTA,2,away,DefReb,,,DefReb,,G. Hayward,
+174,2,3:28.0,36,30,GSW,UTA,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Curry,G. Hayward
+175,2,3:28.0,36,31,GSW,UTA,0,away,FreeThrow,,,make1,1,G. Hayward,
+176,2,3:28.0,36,32,GSW,UTA,0,away,FreeThrow,,,make1,1,G. Hayward,
+177,2,3:12.0,39,32,GSW,UTA,16,home,JS,,25,make3,3,S. Curry,
+178,2,2:54.0,39,34,GSW,UTA,18,away,JS,,14,make2,2,T. Burke,
+179,2,2:46.0,41,34,GSW,UTA,8,home,LU,,1,make2,2,K. Thompson,
+180,2,2:29.0,41,36,GSW,UTA,17,away,JS,,11,make2,2,T. Lyles,
+181,2,2:17.0,41,36,GSW,UTA,12,home,JS,,26,miss3,0,D. Green,
+182,2,2:16.0,41,36,GSW,UTA,1,away,DefReb,,,DefReb,,R. Gobert,
+183,2,2:10.0,41,36,GSW,UTA,6,away,LU,block,2,miss2,0,T. Burke,D. Green
+184,2,2:10.0,41,36,GSW,UTA,0,away,OffReb,,,OffReb,,Team,
+185,2,2:10.0,41,36,GSW,UTA,0,home,Timeout,,,,,,
+186,2,2:10.0,41,36,GSW,UTA,0,away,Sub,,,,,J. Ingles,C. Johnson
+187,2,2:10.0,41,36,GSW,UTA,0,home,Sub,,,,,H. Barnes,S. Livingston
+188,2,2:00.0,41,39,GSW,UTA,10,away,JS,assist,29,make3,3,T. Burke,J. Ingles
+189,2,1:40.0,43,39,GSW,UTA,20,home,LU,assist,0,make2,2,D. Green,S. Curry
+190,2,1:13.0,43,41,GSW,UTA,27,away,LU,assist,1,make2,2,T. Burke,J. Ingles
+191,2,0:58.0,46,41,GSW,UTA,15,home,JS,assist,25,make3,3,S. Curry,H. Barnes
+192,2,0:40.0,46,41,GSW,UTA,18,away,LostBall,steal,,turnover,,T. Lyles,A. Iguodala
+193,2,0:37.0,46,41,GSW,UTA,3,home,PersonalFoul,,,,,T. Burke,
+194,2,0:37.0,46,41,GSW,UTA,0,home,Timeout,,,,,,
+195,2,0:30.0,49,41,GSW,UTA,7,home,JS,assist,29,make3,3,K. Thompson,S. Curry
+196,2,0:06.0,49,41,GSW,UTA,24,away,JS,,26,miss3,0,J. Ingles,
+197,2,0:04.0,49,41,GSW,UTA,2,home,DefReb,,,DefReb,,S. Curry,
+198,2,0:00.0,52,41,GSW,UTA,4,home,JS,,54,make3,3,S. Curry,
+199,3,11:36.0,52,41,GSW,UTA,24,away,JS,block,5,miss2,0,G. Hayward,A. Bogut
+200,3,11:35.0,52,41,GSW,UTA,1,away,OffReb,,,OffReb,,R. Gobert,
+201,3,11:35.0,52,41,GSW,UTA,0,away,ShotClockViolation,,,turnover,,Team,
+202,3,11:24.0,54,41,GSW,UTA,11,home,DK,assist,0,make2,2,A. Bogut,S. Curry
+203,3,11:01.0,54,41,GSW,UTA,23,away,JS,,25,miss3,0,G. Hayward,
+204,3,11:01.0,54,41,GSW,UTA,0,home,DefReb,,,DefReb,,A. Bogut,
+205,3,10:48.0,54,41,GSW,UTA,13,home,LU,,1,miss2,0,D. Green,
+206,3,10:48.0,54,41,GSW,UTA,0,away,DefReb,,,DefReb,,R. Gobert,
+207,3,10:29.0,54,41,GSW,UTA,19,away,LU,block,2,miss2,0,S. Mack,A. Bogut
+208,3,10:27.0,54,41,GSW,UTA,2,away,OffReb,,,OffReb,,R. Gobert,
+209,3,10:23.0,54,43,GSW,UTA,4,away,JS,assist,5,make2,2,G. Hayward,R. Gobert
+210,3,10:05.0,56,43,GSW,UTA,18,home,JS,assist,13,make2,2,D. Green,S. Curry
+211,3,9:48.0,56,46,GSW,UTA,17,away,JS,assist,25,make3,3,S. Mack,D. Favors
+212,3,9:32.0,56,46,GSW,UTA,16,home,JS,,28,miss3,0,S. Curry,
+213,3,9:31.0,56,46,GSW,UTA,1,away,DefReb,,,DefReb,,C. Johnson,
+214,3,9:13.0,56,46,GSW,UTA,18,away,JS,block,7,miss2,0,D. Favors,D. Green
+215,3,9:12.0,56,46,GSW,UTA,1,home,DefReb,,,DefReb,,A. Bogut,
+216,3,9:09.0,56,46,GSW,UTA,3,away,LooseBallFoul,,,LooseBallFoul,,C. Johnson,
+217,3,8:55.0,59,46,GSW,UTA,14,home,JS,assist,25,make3,3,K. Thompson,H. Barnes
+218,3,8:45.0,59,48,GSW,UTA,10,away,LU,assist,1,make2,2,D. Favors,G. Hayward
+219,3,8:45.0,59,48,GSW,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,D. Favors
+220,3,8:45.0,59,49,GSW,UTA,0,away,FreeThrow,,,make1,1,D. Favors,
+221,3,8:45.0,59,49,GSW,UTA,0,home,TechnicalFoul,,,TechnicalFoul,,A. Bogut,
+222,3,8:45.0,59,49,GSW,UTA,0,away,FreeThrow,,,make1,0,G. Hayward misses technical free throw,
+223,3,8:45.0,59,49,GSW,UTA,0,home,OffReb,,,OffReb,,Team,
+224,3,8:24.0,61,49,GSW,UTA,21,home,JS,assist,19,make2,2,K. Thompson,D. Green
+225,3,8:03.0,61,49,GSW,UTA,21,away,JS,,15,miss2,0,C. Johnson,
+226,3,8:02.0,61,49,GSW,UTA,1,home,DefReb,,,DefReb,,D. Green,
+227,3,7:55.0,61,49,GSW,UTA,7,home,JS,,27,miss3,0,H. Barnes,
+228,3,7:54.0,61,49,GSW,UTA,1,away,DefReb,,,DefReb,,D. Favors,
+229,3,7:32.0,61,51,GSW,UTA,22,away,JS,assist,10,make2,2,D. Favors,S. Mack
+230,3,7:09.0,63,51,GSW,UTA,23,home,JS,,11,make2,2,K. Thompson,
+231,3,6:49.0,63,53,GSW,UTA,20,away,JS,assist,6,make2,2,D. Favors,S. Mack
+232,3,6:37.0,63,53,GSW,UTA,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Gobert,D. Green
+233,3,6:37.0,63,53,GSW,UTA,0,home,FreeThrow,,,make1,0,D. Green,
+234,3,6:37.0,63,53,GSW,UTA,0,home,OffReb,,,OffReb,,Team,
+235,3,6:37.0,63,53,GSW,UTA,0,away,Sub,,,,,J. Ingles,C. Johnson
+236,3,6:37.0,64,53,GSW,UTA,0,home,FreeThrow,,,make1,1,D. Green,
+237,3,6:18.0,64,53,GSW,UTA,19,away,JS,,4,miss2,0,D. Favors,
+238,3,6:17.0,64,53,GSW,UTA,1,home,DefReb,,,DefReb,,S. Curry,
+239,3,6:11.0,64,53,GSW,UTA,6,home,BadPass,steal,,turnover,,D. Green,R. Gobert
+240,3,6:07.0,64,53,GSW,UTA,4,away,BadPass,,,turnover,,S. Mack,
+241,3,6:07.0,64,53,GSW,UTA,0,home,Sub,,,,,A. Iguodala,H. Barnes
+242,3,5:58.0,64,53,GSW,UTA,9,home,JS,block,3,miss2,0,D. Green,D. Favors
+243,3,5:57.0,64,53,GSW,UTA,1,away,DefReb,,,DefReb,,S. Mack,
+244,3,5:54.0,64,55,GSW,UTA,3,away,DK,assist,0,make2,2,G. Hayward,S. Mack
+245,3,5:38.0,64,55,GSW,UTA,16,home,JS,,4,miss2,0,K. Thompson,
+246,3,5:36.0,64,55,GSW,UTA,2,home,OffReb,,,OffReb,,A. Bogut,
+247,3,5:36.0,64,55,GSW,UTA,0,home,LU,,1,miss2,0,A. Bogut,
+248,3,5:34.0,64,55,GSW,UTA,2,away,DefReb,,,DefReb,,D. Favors,
+249,3,5:30.0,64,55,GSW,UTA,4,away,JS,,12,miss2,0,G. Hayward,
+250,3,5:28.0,64,55,GSW,UTA,2,home,DefReb,,,DefReb,,D. Green,
+251,3,5:08.0,64,55,GSW,UTA,20,home,JS,,26,miss3,0,D. Green,
+252,3,5:08.0,64,55,GSW,UTA,0,away,DefReb,,,DefReb,,R. Gobert,
+253,3,4:55.0,64,55,GSW,UTA,13,away,JS,,16,miss2,0,D. Favors,
+254,3,4:55.0,64,55,GSW,UTA,0,home,DefReb,,,DefReb,,A. Iguodala,
+255,3,4:43.0,64,55,GSW,UTA,12,home,BadPass,,,turnover,,S. Curry,
+256,3,4:43.0,64,55,GSW,UTA,0,home,Timeout,,,,,,
+257,3,4:43.0,64,55,GSW,UTA,0,home,Sub,,,,,M. Speights,A. Bogut
+258,3,4:43.0,64,55,GSW,UTA,0,home,Sub,,,,,L. Barbosa,K. Thompson
+259,3,4:43.0,64,55,GSW,UTA,0,away,Sub,,,,,R. Neto,R. Gobert
+260,3,4:43.0,64,55,GSW,UTA,0,away,Sub,,,,,T. Booker,S. Mack
+261,3,4:24.0,64,55,GSW,UTA,19,away,JS,,26,miss3,0,G. Hayward,
+262,3,4:24.0,64,55,GSW,UTA,0,away,OffReb,,,OffReb,,T. Booker,
+263,3,4:17.0,64,55,GSW,UTA,7,away,JS,,19,miss2,0,G. Hayward,
+264,3,4:15.0,64,55,GSW,UTA,2,away,OffReb,,,OffReb,,D. Favors,
+265,3,4:01.0,64,55,GSW,UTA,14,away,LU,,1,miss2,0,R. Neto,
+266,3,4:00.0,64,55,GSW,UTA,1,home,DefReb,,,DefReb,,D. Green,
+267,3,3:44.0,66,55,GSW,UTA,16,home,JS,assist,18,make2,2,M. Speights,D. Green
+268,3,3:30.0,66,55,GSW,UTA,14,away,PersonalFoul,,,,,L. Barbosa,
+269,3,3:30.0,66,55,GSW,UTA,0,away,Sub,,,,,T. Burke,G. Hayward
+270,3,3:21.0,66,57,GSW,UTA,9,away,LU,assist,1,make2,2,T. Booker,D. Favors
+271,3,3:07.0,68,57,GSW,UTA,14,home,DK,assist,0,make2,2,D. Green,L. Barbosa
+272,3,2:42.0,68,57,GSW,UTA,25,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,T. Burke
+273,3,2:42.0,68,57,GSW,UTA,0,away,Timeout,,,,,,
+274,3,2:42.0,68,58,GSW,UTA,0,away,FreeThrow,,,make1,1,T. Burke,
+275,3,2:42.0,68,59,GSW,UTA,0,away,FreeThrow,,,make1,1,T. Burke,
+276,3,2:30.0,68,59,GSW,UTA,12,home,BadPass,steal,,turnover,,S. Curry,D. Favors
+277,3,2:22.0,68,59,GSW,UTA,8,away,JS,,21,miss2,0,J. Ingles,
+278,3,2:21.0,68,59,GSW,UTA,1,home,DefReb,,,DefReb,,D. Green,
+279,3,2:13.0,70,59,GSW,UTA,8,home,LU,assist,0,make2,2,L. Barbosa,M. Speights
+280,3,1:53.0,70,59,GSW,UTA,20,away,BadPass,,,turnover,,T. Burke,
+281,3,1:46.0,70,59,GSW,UTA,7,home,LU,,1,miss2,0,S. Curry,
+282,3,1:46.0,70,59,GSW,UTA,0,home,OffReb,,,OffReb,,M. Speights,
+283,3,1:46.0,70,59,GSW,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Neto,M. Speights
+284,3,1:46.0,71,59,GSW,UTA,0,home,FreeThrow,,,make1,1,M. Speights,
+285,3,1:46.0,71,59,GSW,UTA,0,away,Sub,,,,,T. Lyles,T. Booker
+286,3,1:46.0,72,59,GSW,UTA,0,home,FreeThrow,,,make1,1,M. Speights,
+287,3,1:34.0,72,59,GSW,UTA,12,away,PersonalFoul,,,,,S. Curry,
+288,3,1:34.0,72,59,GSW,UTA,0,home,TechnicalFoul,,,TechnicalFoul,,S. Curry,
+289,3,1:34.0,72,60,GSW,UTA,0,away,FreeThrow,,,make1,1,T. Burke makes technical free throw,
+290,3,1:26.0,72,60,GSW,UTA,8,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Burke,L. Barbosa
+291,3,1:26.0,72,60,GSW,UTA,0,away,OffensiveFoul,,,turnover,,T. Burke,
+292,3,1:11.0,75,60,GSW,UTA,15,home,JS,assist,25,make3,3,M. Speights,D. Green
+293,3,0:53.0,75,62,GSW,UTA,18,away,JS,assist,12,make2,2,T. Lyles,R. Neto
+294,3,0:53.0,75,62,GSW,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,T. Lyles
+295,3,0:53.0,75,62,GSW,UTA,0,home,TechnicalFoul,,,TechnicalFoul,,A. Iguodala,
+296,3,0:53.0,75,63,GSW,UTA,0,away,FreeThrow,,,make1,1,T. Burke makes technical free throw,
+297,3,0:53.0,75,63,GSW,UTA,0,away,FreeThrow,,,make1,0,T. Lyles,
+298,3,0:51.0,75,63,GSW,UTA,2,home,DefReb,,,DefReb,,A. Iguodala,
+299,3,0:43.0,75,63,GSW,UTA,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Neto,S. Curry
+300,3,0:43.0,76,63,GSW,UTA,0,home,FreeThrow,,,make1,1,S. Curry,
+301,3,0:43.0,76,63,GSW,UTA,0,home,FreeThrow,,,make1,0,S. Curry,
+302,3,0:43.0,76,63,GSW,UTA,0,away,DefReb,,,DefReb,,J. Ingles,
+303,3,0:32.0,76,63,GSW,UTA,11,away,JS,,19,miss2,0,T. Burke,
+304,3,0:31.0,76,63,GSW,UTA,1,home,DefReb,,,DefReb,,D. Green,
+305,3,0:13.0,79,63,GSW,UTA,18,home,JS,assist,25,make3,3,L. Barbosa,M. Speights
+306,3,0:02.0,79,63,GSW,UTA,11,away,OffensiveFoul,,,turnover,,T. Lyles,
+307,3,0:02.0,79,63,GSW,UTA,0,home,ChargeFoul,DrawnBy,,ChargeFoul,,T. Lyles,L. Barbosa
+308,3,0:01.0,81,63,GSW,UTA,1,home,LU,assist,2,make2,2,L. Barbosa,M. Speights
+309,4,11:44.0,83,63,GSW,UTA,16,home,JS,assist,17,make2,2,M. Speights,S. Livingston
+310,4,11:22.0,83,63,GSW,UTA,22,away,JS,,10,miss2,0,T. Burke,
+311,4,11:22.0,83,63,GSW,UTA,0,home,DefReb,,,DefReb,,A. Iguodala,
+312,4,11:12.0,85,63,GSW,UTA,10,home,LU,,2,make2,2,A. Iguodala,
+313,4,11:10.0,85,63,GSW,UTA,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Barbosa,T. Burke
+314,4,11:10.0,85,64,GSW,UTA,0,away,FreeThrow,,,make1,1,T. Burke,
+315,4,11:10.0,85,64,GSW,UTA,0,away,Sub,,,,,G. Hayward,J. Ingles
+316,4,11:10.0,85,65,GSW,UTA,0,away,FreeThrow,,,make1,1,T. Burke,
+317,4,10:48.0,87,65,GSW,UTA,22,home,JS,,16,make2,2,A. Iguodala,
+318,4,10:36.0,87,65,GSW,UTA,12,away,JS,,18,miss2,0,S. Mack,
+319,4,10:36.0,87,65,GSW,UTA,0,home,DefReb,,,DefReb,,A. Iguodala,
+320,4,10:29.0,87,65,GSW,UTA,7,home,JS,,29,miss3,0,M. Speights,
+321,4,10:27.0,87,65,GSW,UTA,2,away,DefReb,,,DefReb,,Team,
+322,4,10:12.0,87,65,GSW,UTA,15,away,PersonalFoul,,,,,M. Speights,
+323,4,10:12.0,87,65,GSW,UTA,0,home,Sub,,,,,A. Varejão,M. Speights
+324,4,10:05.0,87,65,GSW,UTA,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Varejão,R. Gobert
+325,4,10:05.0,87,66,GSW,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+326,4,10:05.0,87,67,GSW,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+327,4,9:56.0,89,67,GSW,UTA,9,home,LU,assist,0,make2,2,H. Barnes,L. Barbosa
+328,4,9:56.0,89,67,GSW,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Lyles,H. Barnes
+329,4,9:56.0,89,67,GSW,UTA,0,away,Sub,,,,,T. Booker,T. Lyles
+330,4,9:56.0,89,67,GSW,UTA,0,home,FreeThrow,,,make1,0,H. Barnes,
+331,4,9:54.0,89,67,GSW,UTA,2,away,DefReb,,,DefReb,,T. Booker,
+332,4,9:39.0,89,69,GSW,UTA,15,away,LU,assist,2,make2,2,R. Gobert,G. Hayward
+333,4,9:39.0,89,69,GSW,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Barnes,R. Gobert
+334,4,9:39.0,89,70,GSW,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+335,4,9:34.0,89,70,GSW,UTA,5,home,BadPass,steal,,turnover,,S. Livingston,T. Burke
+336,4,9:32.0,89,70,GSW,UTA,2,away,PersonalFoul,,,,,A. Varejão,
+337,4,9:32.0,89,71,GSW,UTA,0,away,FreeThrow,,,make1,1,T. Burke,
+338,4,9:32.0,89,72,GSW,UTA,0,away,FreeThrow,,,make1,1,T. Burke,
+339,4,9:14.0,89,72,GSW,UTA,18,home,JS,,8,miss2,0,H. Barnes,
+340,4,9:13.0,89,72,GSW,UTA,1,away,DefReb,,,DefReb,,R. Gobert,
+341,4,8:59.0,89,74,GSW,UTA,14,away,LU,,1,make2,2,S. Mack,
+342,4,8:51.0,91,74,GSW,UTA,8,home,JS,assist,16,make2,2,L. Barbosa,H. Barnes
+343,4,8:35.0,91,74,GSW,UTA,16,away,JS,,11,miss2,0,R. Gobert,
+344,4,8:35.0,91,74,GSW,UTA,0,home,DefReb,,,DefReb,,Team,
+345,4,8:35.0,91,74,GSW,UTA,0,away,LooseBallFoul,,,LooseBallFoul,,T. Booker,
+346,4,8:35.0,91,74,GSW,UTA,0,away,Timeout,,,,,,
+347,4,8:35.0,91,74,GSW,UTA,0,home,Sub,,,,,K. Thompson,A. Iguodala
+348,4,8:25.0,91,74,GSW,UTA,10,home,JS,,10,miss2,0,L. Barbosa,
+349,4,8:23.0,91,74,GSW,UTA,2,away,DefReb,,,DefReb,,S. Mack,
+350,4,8:10.0,91,77,GSW,UTA,13,away,JS,assist,26,make3,3,T. Burke,S. Mack
+351,4,7:46.0,91,77,GSW,UTA,24,home,JS,,3,miss2,0,S. Livingston,
+352,4,7:46.0,91,77,GSW,UTA,0,home,OffReb,,,OffReb,,S. Livingston,
+353,4,7:40.0,93,77,GSW,UTA,6,home,HS,,11,make2,2,S. Livingston,
+354,4,7:26.0,93,77,GSW,UTA,14,away,JS,,25,miss3,0,T. Burke,
+355,4,7:25.0,93,77,GSW,UTA,1,away,OffReb,,,OffReb,,R. Gobert,
+356,4,7:25.0,93,77,GSW,UTA,0,away,PersonalFoul,,,,,L. Barbosa,
+357,4,7:25.0,93,77,GSW,UTA,0,away,FreeThrow,,,make1,0,R. Gobert,
+358,4,7:25.0,93,77,GSW,UTA,0,away,OffReb,,,OffReb,,Team,
+359,4,7:25.0,93,77,GSW,UTA,0,home,Sub,,,,,D. Green,L. Barbosa
+360,4,7:25.0,93,78,GSW,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+361,4,7:09.0,96,78,GSW,UTA,16,home,JS,assist,26,make3,3,K. Thompson,S. Livingston
+362,4,6:42.0,96,78,GSW,UTA,27,away,LU,,2,miss2,0,S. Mack,
+363,4,6:41.0,96,78,GSW,UTA,1,home,DefReb,,,DefReb,,H. Barnes,
+364,4,6:33.0,99,78,GSW,UTA,8,home,JS,assist,26,make3,3,D. Green,S. Livingston
+365,4,6:17.0,99,78,GSW,UTA,16,away,LU,,1,miss2,0,G. Hayward,
+366,4,6:17.0,99,78,GSW,UTA,0,home,DefReb,,,DefReb,,H. Barnes,
+367,4,6:16.0,99,78,GSW,UTA,1,home,Traveling,,,turnover,,H. Barnes,
+368,4,6:16.0,99,78,GSW,UTA,0,home,Sub,,,,,S. Curry,H. Barnes
+369,4,6:16.0,99,78,GSW,UTA,0,away,Sub,,,,,R. Neto,T. Burke
+370,4,6:16.0,99,78,GSW,UTA,0,away,Sub,,,,,D. Favors,R. Gobert
+371,4,6:11.0,99,81,GSW,UTA,5,away,JS,,25,make3,3,G. Hayward,
+372,4,6:03.0,99,81,GSW,UTA,8,home,BadPass,steal,,turnover,,S. Curry,G. Hayward
+373,4,5:57.0,99,81,GSW,UTA,6,away,BadPass,steal,,turnover,,G. Hayward,D. Green
+374,4,5:51.0,101,81,GSW,UTA,6,home,LU,,2,make2,2,S. Curry,
+375,4,5:36.0,101,81,GSW,UTA,15,away,BadPass,steal,,turnover,,S. Mack,K. Thompson
+376,4,5:28.0,103,81,GSW,UTA,8,home,LU,assist,1,make2,2,A. Varejão,K. Thompson
+377,4,5:21.0,103,81,GSW,UTA,7,away,Timeout,,,,,,
+378,4,5:21.0,103,81,GSW,UTA,0,away,Sub,,,,,J. Withey,G. Hayward
+379,4,5:21.0,103,81,GSW,UTA,0,away,Sub,,,,,J. Ingles,D. Favors
+380,4,5:21.0,103,81,GSW,UTA,0,away,Sub,,,,,C. Johnson,S. Mack
+381,4,5:09.0,103,84,GSW,UTA,12,away,JS,assist,24,make3,3,C. Johnson,J. Withey
+382,4,4:54.0,105,84,GSW,UTA,15,home,HS,,3,make2,2,A. Varejão,
+383,4,4:54.0,105,84,GSW,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Withey,A. Varejão
+384,4,4:54.0,106,84,GSW,UTA,0,home,FreeThrow,,,make1,1,A. Varejão,
+385,4,4:36.0,106,84,GSW,UTA,18,away,JS,block,3,miss2,0,T. Booker,D. Green
+386,4,4:35.0,106,84,GSW,UTA,1,home,DefReb,,,DefReb,,Team,
+387,4,4:35.0,106,84,GSW,UTA,0,home,Sub,,,,,I. Clark,S. Livingston
+388,4,4:20.0,106,84,GSW,UTA,15,home,PersonalFoul,,,,,T. Booker,
+389,4,4:20.0,106,84,GSW,UTA,0,away,Sub,,,,,T. Lyles,T. Booker
+390,4,4:09.0,106,84,GSW,UTA,11,home,JS,,27,miss3,0,S. Curry,
+391,4,4:08.0,106,84,GSW,UTA,1,home,OffReb,,,OffReb,,I. Clark,
+392,4,3:50.0,106,84,GSW,UTA,18,home,JS,,24,miss3,0,K. Thompson,
+393,4,3:50.0,106,84,GSW,UTA,0,home,OffReb,,,OffReb,,A. Varejão,
+394,4,3:48.0,106,84,GSW,UTA,2,home,LostBall,,,turnover,,A. Varejão,
+395,4,3:48.0,106,84,GSW,UTA,0,home,Sub,,,,,J. McAdoo,D. Green
+396,4,3:48.0,106,84,GSW,UTA,0,home,Sub,,,,,B. Rush,A. Varejão
+397,4,3:32.0,106,84,GSW,UTA,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. McAdoo,R. Neto
+398,4,3:32.0,106,85,GSW,UTA,0,away,FreeThrow,,,make1,1,R. Neto,
+399,4,3:32.0,106,85,GSW,UTA,0,home,Sub,,,,,L. Barbosa,S. Curry
+400,4,3:32.0,106,85,GSW,UTA,0,away,FreeThrow,,,make1,0,R. Neto,
+401,4,3:29.0,106,85,GSW,UTA,3,away,OffReb,,,OffReb,,Team,
+402,4,3:20.0,106,85,GSW,UTA,9,away,JS,,9,miss2,0,T. Lyles,
+403,4,3:19.0,106,85,GSW,UTA,1,home,DefReb,,,DefReb,,Team,
+404,4,3:03.0,108,85,GSW,UTA,16,home,JS,assist,9,make2,2,K. Thompson,I. Clark
+405,4,2:52.0,108,85,GSW,UTA,11,away,PersonalFoul,,,,,I. Clark,
+406,4,2:52.0,108,85,GSW,UTA,0,home,Timeout,,,,,,
+407,4,2:52.0,108,85,GSW,UTA,0,home,Sub,,,,,M. Speights,K. Thompson
+408,4,2:52.0,108,86,GSW,UTA,0,away,FreeThrow,,,make1,1,T. Lyles,
+409,4,2:52.0,108,87,GSW,UTA,0,away,FreeThrow,,,make1,1,T. Lyles,
+410,4,2:39.0,111,87,GSW,UTA,13,home,JS,assist,25,make3,3,B. Rush,J. McAdoo
+411,4,2:26.0,111,87,GSW,UTA,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,T. Lyles
+412,4,2:26.0,111,87,GSW,UTA,0,away,FreeThrow,,,make1,0,T. Lyles,
+413,4,2:26.0,111,87,GSW,UTA,0,away,OffReb,,,OffReb,,Team,
+414,4,2:26.0,111,88,GSW,UTA,0,away,FreeThrow,,,make1,1,T. Lyles,
+415,4,2:13.0,111,88,GSW,UTA,13,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. McAdoo,R. Neto
+416,4,2:13.0,111,88,GSW,UTA,0,home,OffensiveFoul,,,turnover,,J. McAdoo,
+417,4,2:04.0,111,88,GSW,UTA,9,away,JS,,6,miss2,0,J. Withey,
+418,4,2:03.0,111,88,GSW,UTA,1,away,OffReb,,,OffReb,,T. Lyles,
+419,4,2:03.0,111,90,GSW,UTA,0,away,DK,,0,make2,2,T. Lyles,
+420,4,1:39.0,111,90,GSW,UTA,24,home,JS,block,16,miss2,0,M. Speights,T. Lyles
+421,4,1:38.0,111,90,GSW,UTA,1,home,OffReb,,,OffReb,,M. Speights,
+422,4,1:36.0,111,90,GSW,UTA,2,home,JS,,23,miss3,0,M. Speights,
+423,4,1:33.0,111,90,GSW,UTA,3,away,DefReb,,,DefReb,,R. Neto,
+424,4,1:29.0,111,90,GSW,UTA,4,away,JS,,22,miss3,0,T. Lyles,
+425,4,1:28.0,111,90,GSW,UTA,1,home,DefReb,,,DefReb,,B. Rush,
+426,4,1:17.0,113,90,GSW,UTA,11,home,LU,,0,make2,2,B. Rush,
+427,4,1:13.0,113,92,GSW,UTA,4,away,JS,,20,make2,2,R. Neto,
+428,4,0:56.0,113,92,GSW,UTA,17,home,LostBall,steal,,turnover,,B. Rush,J. Ingles
+429,4,0:44.0,113,94,GSW,UTA,12,away,LU,assist,2,make2,2,T. Lyles,J. Ingles
+430,4,0:44.0,113,94,GSW,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,T. Lyles
+431,4,0:44.0,113,94,GSW,UTA,0,away,FreeThrow,,,make1,0,T. Lyles,
+432,4,0:43.0,113,94,GSW,UTA,1,home,DefReb,,,DefReb,,M. Speights,
+433,4,0:30.0,115,94,GSW,UTA,13,home,JS,,16,make2,2,I. Clark,
+434,4,0:19.0,115,94,GSW,UTA,11,away,LU,,2,miss2,0,R. Neto,
+435,4,0:18.0,115,94,GSW,UTA,1,home,DefReb,,,DefReb,,I. Clark,

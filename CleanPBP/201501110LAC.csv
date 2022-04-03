@@ -1,0 +1,422 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:31.0,2,0,LAC,MIA,29,home,JS,,8,make2,2,J. Redick,
+1,1,11:05.0,2,2,LAC,MIA,26,away,LU,,1,make2,2,L. Deng,
+2,1,10:52.0,2,2,LAC,MIA,13,home,JS,,18,miss2,0,B. Griffin,
+3,1,10:51.0,2,2,LAC,MIA,1,away,DefReb,,,DefReb,,L. Deng,
+4,1,10:46.0,2,2,LAC,MIA,5,away,JS,,10,miss2,0,D. Wade,
+5,1,10:45.0,2,2,LAC,MIA,1,home,DefReb,,,DefReb,,Team,
+6,1,10:19.0,2,2,LAC,MIA,26,home,JS,,21,miss2,0,B. Griffin,
+7,1,10:18.0,2,2,LAC,MIA,1,away,DefReb,,,DefReb,,C. Andersen,
+8,1,10:11.0,2,2,LAC,MIA,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Griffin,M. Chalmers
+9,1,10:00.0,2,2,LAC,MIA,11,away,BadPass,,,turnover,,L. Deng,
+10,1,9:47.0,5,2,LAC,MIA,13,home,JS,assist,26,make3,3,J. Redick,C. Paul
+11,1,9:27.0,5,4,LAC,MIA,20,away,LU,assist,1,make2,2,C. Andersen,D. Wade
+12,1,9:18.0,8,4,LAC,MIA,9,home,JS,,25,make3,3,C. Paul,
+13,1,9:00.0,8,4,LAC,MIA,18,away,BadPass,,,turnover,,C. Bosh,
+14,1,8:54.0,10,4,LAC,MIA,6,home,JS,,10,make2,2,C. Paul,
+15,1,8:33.0,10,4,LAC,MIA,21,away,JS,,17,miss2,0,D. Wade,
+16,1,8:31.0,10,4,LAC,MIA,2,away,OffReb,,,OffReb,,C. Andersen,
+17,1,8:31.0,10,4,LAC,MIA,0,away,TI,block,0,miss2,0,C. Andersen,M. Barnes
+18,1,8:28.0,10,4,LAC,MIA,3,home,DefReb,,,DefReb,,C. Paul,
+19,1,8:28.0,12,4,LAC,MIA,0,home,DK,assist,0,make2,2,B. Griffin,C. Paul
+20,1,8:28.0,12,4,LAC,MIA,0,away,Timeout,,,,,,
+21,1,8:16.0,12,4,LAC,MIA,12,away,JS,,15,miss2,0,C. Bosh,
+22,1,8:15.0,12,4,LAC,MIA,1,home,DefReb,,,DefReb,,C. Paul,
+23,1,8:07.0,12,4,LAC,MIA,8,home,DK,,0,miss2,0,D. Jordan,
+24,1,8:05.0,12,4,LAC,MIA,2,home,OffReb,,,OffReb,,M. Barnes,
+25,1,7:51.0,15,4,LAC,MIA,14,home,JS,,24,make3,3,C. Paul,
+26,1,7:31.0,15,4,LAC,MIA,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Redick,D. Wade
+27,1,7:31.0,15,5,LAC,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+28,1,7:31.0,15,6,LAC,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+29,1,7:23.0,17,6,LAC,MIA,8,home,LU,assist,1,make2,2,J. Redick,C. Paul
+30,1,7:02.0,17,6,LAC,MIA,21,away,JS,,23,miss3,0,C. Bosh,
+31,1,7:01.0,17,6,LAC,MIA,1,away,OffReb,,,OffReb,,L. Deng,
+32,1,6:56.0,17,6,LAC,MIA,5,away,JS,,25,miss3,0,M. Chalmers,
+33,1,6:54.0,17,6,LAC,MIA,2,home,DefReb,,,DefReb,,B. Griffin,
+34,1,6:40.0,19,6,LAC,MIA,14,home,JS,,15,make2,2,C. Paul,
+35,1,6:23.0,19,8,LAC,MIA,17,away,JS,assist,20,make2,2,D. Wade,C. Bosh
+36,1,6:11.0,19,8,LAC,MIA,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Chalmers,J. Redick
+37,1,6:11.0,19,8,LAC,MIA,0,away,Sub,,,,,H. Whiteside,C. Andersen
+38,1,6:11.0,19,8,LAC,MIA,0,home,BadPass,steal,,turnover,,J. Redick,H. Whiteside
+39,1,6:11.0,19,10,LAC,MIA,0,away,LU,assist,1,make2,2,H. Whiteside,L. Deng
+40,1,6:11.0,19,10,LAC,MIA,0,home,JS,,25,miss3,0,C. Paul,
+41,1,6:11.0,19,10,LAC,MIA,0,away,DefReb,,,DefReb,,H. Whiteside,
+42,1,5:47.0,19,10,LAC,MIA,24,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Paul,H. Whiteside
+43,1,5:47.0,19,11,LAC,MIA,0,away,FreeThrow,,,make1,1,H. Whiteside,
+44,1,5:47.0,19,12,LAC,MIA,0,away,FreeThrow,,,make1,1,H. Whiteside,
+45,1,5:41.0,19,12,LAC,MIA,6,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Jordan,C. Bosh
+46,1,5:41.0,19,12,LAC,MIA,0,home,OffensiveFoul,,,turnover,,D. Jordan,
+47,1,5:41.0,19,12,LAC,MIA,0,home,TechnicalFoul,,,TechnicalFoul,,D. Jordan,
+48,1,5:41.0,19,13,LAC,MIA,0,away,FreeThrow,,,make1,1,C. Bosh makes technical free throw,
+49,1,5:29.0,19,15,LAC,MIA,12,away,DK,assist,0,make2,2,H. Whiteside,D. Wade
+50,1,5:18.0,19,15,LAC,MIA,11,home,Timeout,,,,,,
+51,1,5:08.0,19,15,LAC,MIA,10,home,LostBall,steal,,turnover,,B. Griffin,D. Wade
+52,1,4:55.0,19,17,LAC,MIA,13,away,JS,assist,19,make2,2,C. Bosh,D. Wade
+53,1,4:31.0,19,17,LAC,MIA,24,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Jordan,H. Whiteside
+54,1,4:31.0,19,17,LAC,MIA,0,home,OffensiveFoul,,,turnover,,D. Jordan,
+55,1,4:31.0,19,17,LAC,MIA,0,home,Sub,,,,,S. Hawes,D. Jordan
+56,1,4:31.0,19,17,LAC,MIA,0,home,TechnicalFoul,,,TechnicalFoul,,C. Paul,
+57,1,4:31.0,19,17,LAC,MIA,0,away,FreeThrow,,,make1,0,C. Bosh misses technical free throw,
+58,1,4:31.0,19,17,LAC,MIA,0,away,OffReb,,,OffReb,,Team,
+59,1,4:14.0,19,19,LAC,MIA,17,away,JS,,12,make2,2,C. Bosh,
+60,1,3:59.0,21,19,LAC,MIA,15,home,LU,assist,0,make2,2,B. Griffin,C. Paul
+61,1,3:59.0,21,19,LAC,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Whiteside,B. Griffin
+62,1,3:59.0,21,19,LAC,MIA,0,home,Sub,,,,,J. Crawford,M. Barnes
+63,1,3:59.0,21,19,LAC,MIA,0,away,Sub,,,,,J. Ennis,D. Wade
+64,1,3:59.0,21,19,LAC,MIA,0,home,FreeThrow,,,make1,0,B. Griffin,
+65,1,3:57.0,21,19,LAC,MIA,2,away,DefReb,,,DefReb,,H. Whiteside,
+66,1,3:39.0,21,19,LAC,MIA,18,away,JS,,25,miss3,0,L. Deng,
+67,1,3:36.0,21,19,LAC,MIA,3,away,OffReb,,,OffReb,,H. Whiteside,
+68,1,3:36.0,21,19,LAC,MIA,0,away,TI,,1,miss2,0,H. Whiteside,
+69,1,3:36.0,21,19,LAC,MIA,0,home,DefReb,,,DefReb,,Team,
+70,1,3:24.0,21,19,LAC,MIA,12,home,JS,,25,miss3,0,C. Paul,
+71,1,3:22.0,21,19,LAC,MIA,2,away,DefReb,,,DefReb,,J. Ennis,
+72,1,3:11.0,21,21,LAC,MIA,11,away,JS,assist,7,make2,2,L. Deng,M. Chalmers
+73,1,3:02.0,23,21,LAC,MIA,9,home,JS,,19,make2,2,J. Crawford,
+74,1,2:46.0,23,24,LAC,MIA,16,away,JS,assist,25,make3,3,C. Bosh,M. Chalmers
+75,1,2:30.0,23,24,LAC,MIA,16,home,JS,,21,miss2,0,J. Crawford,
+76,1,2:29.0,23,24,LAC,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
+77,1,2:15.0,23,26,LAC,MIA,14,away,DK,assist,0,make2,2,H. Whiteside,L. Deng
+78,1,1:58.0,25,26,LAC,MIA,17,home,LU,assist,2,make2,2,S. Hawes,J. Crawford
+79,1,1:44.0,25,26,LAC,MIA,14,away,LU,,1,miss2,0,M. Chalmers,
+80,1,1:42.0,25,26,LAC,MIA,2,away,OffReb,,,OffReb,,H. Whiteside,
+81,1,1:39.0,25,28,LAC,MIA,3,away,JS,,2,make2,2,H. Whiteside,
+82,1,1:26.0,25,28,LAC,MIA,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ennis,J. Crawford
+83,1,1:26.0,25,28,LAC,MIA,0,home,FreeThrow,,,make1,0,J. Crawford,
+84,1,1:26.0,25,28,LAC,MIA,0,home,OffReb,,,OffReb,,Team,
+85,1,1:26.0,26,28,LAC,MIA,0,home,FreeThrow,,,make1,1,J. Crawford,
+86,1,1:26.0,26,28,LAC,MIA,0,home,Sub,,,,,J. Farmar,C. Paul
+87,1,1:26.0,26,28,LAC,MIA,0,home,Sub,,,,,R. Bullock,J. Redick
+88,1,1:26.0,26,28,LAC,MIA,0,away,Sub,,,,,N. Cole,M. Chalmers
+89,1,1:26.0,27,28,LAC,MIA,0,home,FreeThrow,,,make1,1,J. Crawford,
+90,1,1:04.0,27,28,LAC,MIA,22,away,JS,,25,miss3,0,J. Ennis,
+91,1,1:01.0,27,28,LAC,MIA,3,home,DefReb,,,DefReb,,J. Crawford,
+92,1,0:58.0,27,28,LAC,MIA,3,home,LU,,1,miss2,0,J. Crawford,
+93,1,0:57.0,27,28,LAC,MIA,1,home,OffReb,,,OffReb,,B. Griffin,
+94,1,0:57.0,29,28,LAC,MIA,0,home,DK,,0,make2,2,B. Griffin,
+95,1,0:45.0,29,28,LAC,MIA,12,away,JS,,26,miss3,0,C. Bosh,
+96,1,0:43.0,29,28,LAC,MIA,2,away,OffReb,,,OffReb,,J. Ennis,
+97,1,0:41.0,29,30,LAC,MIA,2,away,DK,assist,0,make2,2,H. Whiteside,J. Ennis
+98,1,0:32.0,29,30,LAC,MIA,9,home,JS,,26,miss3,0,J. Farmar,
+99,1,0:31.0,29,30,LAC,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
+100,1,0:18.0,29,30,LAC,MIA,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hawes,H. Whiteside
+101,1,0:18.0,29,30,LAC,MIA,0,away,Sub,,,,,D. Granger,L. Deng
+102,1,0:06.0,29,30,LAC,MIA,12,away,JS,,15,miss2,0,C. Bosh,
+103,1,0:05.0,29,30,LAC,MIA,1,home,DefReb,,,DefReb,,J. Farmar,
+104,1,0:01.0,29,30,LAC,MIA,4,home,JS,,27,miss3,0,J. Farmar,
+105,1,0:00.0,29,30,LAC,MIA,1,home,OffReb,,,OffReb,,Team,
+106,2,11:42.0,29,32,LAC,MIA,18,away,LU,assist,2,make2,2,D. Granger,N. Cole
+107,2,11:29.0,29,32,LAC,MIA,13,home,BadPass,steal,,turnover,,J. Crawford,H. Whiteside
+108,2,11:19.0,29,34,LAC,MIA,10,away,HS,,7,make2,2,D. Wade,
+109,2,11:03.0,29,34,LAC,MIA,16,home,JS,,24,miss3,0,J. Crawford,
+110,2,11:02.0,29,34,LAC,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
+111,2,10:52.0,29,34,LAC,MIA,10,away,LU,,1,miss2,0,D. Wade,
+112,2,10:51.0,29,34,LAC,MIA,1,home,DefReb,,,DefReb,,R. Bullock,
+113,2,10:41.0,29,34,LAC,MIA,10,home,JS,,16,miss2,0,S. Hawes,
+114,2,10:40.0,29,34,LAC,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
+115,2,10:30.0,29,36,LAC,MIA,10,away,HS,assist,4,make2,2,D. Wade,D. Granger
+116,2,10:11.0,29,36,LAC,MIA,19,home,JS,,15,miss2,0,J. Crawford,
+117,2,10:10.0,29,36,LAC,MIA,1,away,DefReb,,,DefReb,,N. Cole,
+118,2,10:04.0,29,38,LAC,MIA,6,away,LU,,1,make2,2,N. Cole,
+119,2,9:57.0,29,38,LAC,MIA,7,home,Timeout,,,,,,
+120,2,9:57.0,29,38,LAC,MIA,0,away,Sub,,,,,C. Andersen,H. Whiteside
+121,2,9:49.0,29,38,LAC,MIA,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Granger,G. Davis
+122,2,9:49.0,30,38,LAC,MIA,0,home,FreeThrow,,,make1,1,G. Davis,
+123,2,9:49.0,31,38,LAC,MIA,0,home,FreeThrow,,,make1,1,G. Davis,
+124,2,9:28.0,31,41,LAC,MIA,21,away,JS,assist,24,make3,3,J. Ennis,D. Granger
+125,2,9:11.0,31,41,LAC,MIA,17,home,LU,block,0,miss2,0,J. Crawford,C. Andersen
+126,2,9:10.0,31,41,LAC,MIA,1,away,DefReb,,,DefReb,,Team,
+127,2,9:10.0,31,41,LAC,MIA,0,home,Sub,,,,,M. Barnes,G. Davis
+128,2,9:03.0,31,41,LAC,MIA,7,away,BadPass,,,turnover,,N. Cole,
+129,2,8:49.0,31,41,LAC,MIA,14,home,LU,block,1,miss2,0,J. Crawford,J. Ennis
+130,2,8:46.0,31,41,LAC,MIA,3,away,DefReb,,,DefReb,,N. Cole,
+131,2,8:42.0,31,41,LAC,MIA,4,away,JS,,24,miss3,0,D. Granger,
+132,2,8:39.0,31,41,LAC,MIA,3,away,OffReb,,,OffReb,,C. Andersen,
+133,2,8:39.0,31,41,LAC,MIA,0,away,TI,,4,miss2,0,C. Andersen,
+134,2,8:34.0,31,41,LAC,MIA,5,away,OffReb,,,OffReb,,D. Wade,
+135,2,8:28.0,31,43,LAC,MIA,6,away,LU,assist,2,make2,2,D. Granger,D. Wade
+136,2,8:06.0,33,43,LAC,MIA,22,home,HS,assist,3,make2,2,S. Hawes,M. Barnes
+137,2,7:48.0,33,43,LAC,MIA,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hawes,C. Andersen
+138,2,7:48.0,33,44,LAC,MIA,0,away,FreeThrow,,,make1,1,C. Andersen,
+139,2,7:48.0,33,44,LAC,MIA,0,away,Sub,,,,,C. Bosh,J. Ennis
+140,2,7:48.0,33,44,LAC,MIA,0,home,Sub,,,,,D. Jordan,S. Hawes
+141,2,7:48.0,33,44,LAC,MIA,0,home,Sub,,,,,B. Griffin,R. Bullock
+142,2,7:48.0,33,45,LAC,MIA,0,away,FreeThrow,,,make1,1,C. Andersen,
+143,2,7:38.0,36,45,LAC,MIA,10,home,JS,,24,make3,3,J. Farmar,
+144,2,7:15.0,36,45,LAC,MIA,23,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Farmar,N. Cole
+145,2,7:15.0,36,45,LAC,MIA,0,home,Sub,,,,,C. Paul,J. Farmar
+146,2,7:01.0,36,47,LAC,MIA,14,away,LU,assist,0,make2,2,D. Granger,N. Cole
+147,2,6:47.0,36,47,LAC,MIA,14,home,LU,,2,miss2,0,M. Barnes,
+148,2,6:46.0,36,47,LAC,MIA,1,away,DefReb,,,DefReb,,C. Bosh,
+149,2,6:43.0,36,47,LAC,MIA,3,away,BadPass,steal,,turnover,,C. Andersen,J. Crawford
+150,2,6:38.0,36,47,LAC,MIA,5,home,BadPass,steal,,turnover,,J. Crawford,C. Andersen
+151,2,6:33.0,36,47,LAC,MIA,5,away,JS,,23,miss3,0,N. Cole,
+152,2,6:32.0,36,47,LAC,MIA,1,home,DefReb,,,DefReb,,Team,
+153,2,6:32.0,36,47,LAC,MIA,0,home,Sub,,,,,J. Redick,J. Crawford
+154,2,6:21.0,36,47,LAC,MIA,11,home,JS,,21,miss2,0,J. Redick,
+155,2,6:19.0,36,47,LAC,MIA,2,away,DefReb,,,DefReb,,C. Andersen,
+156,2,6:00.0,36,47,LAC,MIA,19,away,JS,,14,miss2,0,D. Granger,
+157,2,5:57.0,36,47,LAC,MIA,3,home,DefReb,,,DefReb,,C. Paul,
+158,2,5:51.0,36,47,LAC,MIA,6,home,HS,,2,miss2,0,B. Griffin,
+159,2,5:49.0,36,47,LAC,MIA,2,away,DefReb,,,DefReb,,C. Bosh,
+160,2,5:45.0,36,47,LAC,MIA,4,away,Timeout,,,,,,
+161,2,5:45.0,36,47,LAC,MIA,0,away,Sub,,,,,M. Chalmers,D. Wade
+162,2,5:45.0,36,47,LAC,MIA,0,away,Sub,,,,,L. Deng,N. Cole
+163,2,5:36.0,36,47,LAC,MIA,9,away,JS,,24,miss3,0,L. Deng,
+164,2,5:35.0,36,47,LAC,MIA,1,away,OffReb,,,OffReb,,D. Granger,
+165,2,5:33.0,36,47,LAC,MIA,2,away,LostBall,steal,,turnover,,D. Granger,J. Redick
+166,2,5:25.0,36,47,LAC,MIA,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Chalmers,B. Griffin
+167,2,5:10.0,39,47,LAC,MIA,15,home,JS,assist,24,make3,3,B. Griffin,C. Paul
+168,2,4:55.0,39,47,LAC,MIA,15,away,OffensiveFoul,,,turnover,,C. Andersen,
+169,2,4:55.0,39,47,LAC,MIA,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Andersen,B. Griffin
+170,2,4:30.0,39,47,LAC,MIA,25,home,JS,,18,miss2,0,B. Griffin,
+171,2,4:29.0,39,47,LAC,MIA,1,away,DefReb,,,DefReb,,C. Bosh,
+172,2,4:20.0,39,47,LAC,MIA,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Barnes,L. Deng
+173,2,4:10.0,39,47,LAC,MIA,10,away,BadPass,steal,,turnover,,L. Deng,D. Jordan
+174,2,4:05.0,39,47,LAC,MIA,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Chalmers,M. Barnes
+175,2,4:05.0,40,47,LAC,MIA,0,home,FreeThrow,,,make1,1,M. Barnes,
+176,2,4:05.0,40,47,LAC,MIA,0,away,Sub,,,,,N. Cole,M. Chalmers
+177,2,4:05.0,40,47,LAC,MIA,0,away,Sub,,,,,H. Whiteside,C. Andersen
+178,2,4:05.0,41,47,LAC,MIA,0,home,FreeThrow,,,make1,1,M. Barnes,
+179,2,3:53.0,41,49,LAC,MIA,12,away,HS,,4,make2,2,C. Bosh,
+180,2,3:52.0,41,49,LAC,MIA,1,away,JumpBallViolation,,,JumpBallViolation,,Team,
+181,2,3:41.0,41,49,LAC,MIA,11,home,JS,,19,miss2,0,J. Redick,
+182,2,3:40.0,41,49,LAC,MIA,1,home,OffReb,,,OffReb,,D. Jordan,
+183,2,3:40.0,43,49,LAC,MIA,0,home,DK,,0,make2,2,D. Jordan,
+184,2,3:16.0,43,51,LAC,MIA,24,away,JS,assist,13,make2,2,C. Bosh,N. Cole
+185,2,3:06.0,45,51,LAC,MIA,10,home,JS,,18,make2,2,C. Paul,
+186,2,2:38.0,45,54,LAC,MIA,28,away,JS,assist,25,make3,3,N. Cole,C. Bosh
+187,2,2:19.0,48,54,LAC,MIA,19,home,JS,assist,27,make3,3,M. Barnes,C. Paul
+188,2,1:51.0,48,56,LAC,MIA,28,away,JS,,13,make2,2,C. Bosh,
+189,2,1:43.0,48,56,LAC,MIA,8,home,JS,,14,miss2,0,C. Paul,
+190,2,1:42.0,48,56,LAC,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
+191,2,1:26.0,48,56,LAC,MIA,16,away,JS,,5,miss2,0,H. Whiteside,
+192,2,1:25.0,48,56,LAC,MIA,1,home,DefReb,,,DefReb,,D. Jordan,
+193,2,1:09.0,50,56,LAC,MIA,16,home,LU,assist,1,make2,2,B. Griffin,J. Redick
+194,2,1:01.0,50,56,LAC,MIA,8,away,Timeout,,,,,,
+195,2,1:01.0,50,56,LAC,MIA,0,away,Timeout,,,,,,
+196,2,1:01.0,50,56,LAC,MIA,0,away,Sub,,,,,D. Wade,D. Granger
+197,2,1:01.0,50,56,LAC,MIA,0,home,Sub,,,,,S. Hawes,D. Jordan
+198,2,0:54.0,50,56,LAC,MIA,7,away,JS,,14,miss2,0,D. Wade,
+199,2,0:53.0,50,56,LAC,MIA,1,away,OffReb,,,OffReb,,H. Whiteside,
+200,2,0:53.0,50,56,LAC,MIA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Barnes,H. Whiteside
+201,2,0:33.0,50,58,LAC,MIA,20,away,JS,assist,16,make2,2,C. Bosh,N. Cole
+202,2,0:33.0,50,58,LAC,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Barnes,C. Bosh
+203,2,0:33.0,50,58,LAC,MIA,0,home,Sub,,,,,J. Crawford,M. Barnes
+204,2,0:33.0,50,59,LAC,MIA,0,away,FreeThrow,,,make1,1,C. Bosh,
+205,2,0:28.0,50,59,LAC,MIA,5,home,JS,,10,miss2,0,C. Paul,
+206,2,0:26.0,50,59,LAC,MIA,2,away,DefReb,,,DefReb,,Team,
+207,2,0:06.0,50,62,LAC,MIA,20,away,JS,assist,26,make3,3,L. Deng,D. Wade
+208,2,0:00.0,53,62,LAC,MIA,6,home,JS,assist,25,make3,3,J. Redick,C. Paul
+209,3,11:45.0,53,64,LAC,MIA,15,away,LU,assist,1,make2,2,H. Whiteside,M. Chalmers
+210,3,11:24.0,53,64,LAC,MIA,21,home,BadPass,steal,,turnover,,C. Paul,M. Chalmers
+211,3,11:15.0,53,64,LAC,MIA,9,away,JS,,24,miss3,0,D. Wade,
+212,3,11:13.0,53,64,LAC,MIA,2,home,DefReb,,,DefReb,,M. Barnes,
+213,3,11:04.0,55,64,LAC,MIA,9,home,DK,assist,0,make2,2,D. Jordan,B. Griffin
+214,3,10:32.0,55,64,LAC,MIA,32,away,JS,,23,miss3,0,L. Deng,
+215,3,10:31.0,55,64,LAC,MIA,1,home,DefReb,,,DefReb,,D. Jordan,
+216,3,10:10.0,57,64,LAC,MIA,21,home,JS,assist,3,make2,2,B. Griffin,C. Paul
+217,3,9:49.0,57,66,LAC,MIA,21,away,JS,assist,8,make2,2,C. Bosh,D. Wade
+218,3,9:37.0,60,66,LAC,MIA,12,home,JS,assist,24,make3,3,M. Barnes,B. Griffin
+219,3,9:24.0,60,68,LAC,MIA,13,away,DK,assist,0,make2,2,H. Whiteside,D. Wade
+220,3,9:06.0,62,68,LAC,MIA,18,home,LU,assist,1,make2,2,J. Redick,B. Griffin
+221,3,8:43.0,62,68,LAC,MIA,23,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Paul,M. Chalmers
+222,3,8:43.0,62,69,LAC,MIA,0,away,FreeThrow,,,make1,1,M. Chalmers,
+223,3,8:43.0,62,70,LAC,MIA,0,away,FreeThrow,,,make1,1,M. Chalmers,
+224,3,8:30.0,62,70,LAC,MIA,13,home,LU,block,1,miss2,0,B. Griffin,H. Whiteside
+225,3,8:28.0,62,70,LAC,MIA,2,away,DefReb,,,DefReb,,D. Wade,
+226,3,8:24.0,62,70,LAC,MIA,4,away,JS,,13,miss2,0,D. Wade,
+227,3,8:20.0,62,70,LAC,MIA,4,away,OffReb,,,OffReb,,C. Bosh,
+228,3,8:20.0,62,70,LAC,MIA,0,away,TI,,1,miss2,0,C. Bosh,
+229,3,8:17.0,62,70,LAC,MIA,3,away,OffReb,,,OffReb,,C. Bosh,
+230,3,8:17.0,62,70,LAC,MIA,0,away,TI,,0,miss2,0,C. Bosh,
+231,3,8:17.0,62,70,LAC,MIA,0,home,DefReb,,,DefReb,,B. Griffin,
+232,3,8:17.0,62,70,LAC,MIA,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,L. Deng,B. Griffin
+233,3,8:08.0,62,70,LAC,MIA,9,home,JS,,26,miss3,0,C. Paul,
+234,3,8:05.0,62,70,LAC,MIA,3,away,DefReb,,,DefReb,,H. Whiteside,
+235,3,7:55.0,62,70,LAC,MIA,10,away,JS,,4,miss2,0,D. Wade,
+236,3,7:55.0,62,70,LAC,MIA,0,home,DefReb,,,DefReb,,B. Griffin,
+237,3,7:55.0,62,70,LAC,MIA,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,H. Whiteside,B. Griffin
+238,3,7:46.0,62,70,LAC,MIA,9,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Paul,C. Bosh
+239,3,7:46.0,62,70,LAC,MIA,0,home,OffensiveFoul,,,turnover,,C. Paul,
+240,3,7:46.0,62,70,LAC,MIA,0,home,TechnicalFoul,,,TechnicalFoul,,M. Barnes,
+241,3,7:46.0,62,70,LAC,MIA,0,away,FreeThrow,,,make1,0,D. Wade misses technical free throw,
+242,3,7:46.0,62,70,LAC,MIA,0,away,OffReb,,,OffReb,,Team,
+243,3,7:35.0,62,70,LAC,MIA,11,away,OutOfBounds,,,turnover,,D. Wade,
+244,3,7:26.0,64,70,LAC,MIA,9,home,JS,,2,make2,2,C. Paul,
+245,3,7:26.0,64,70,LAC,MIA,0,away,Timeout,,,,,,
+246,3,7:13.0,64,72,LAC,MIA,13,away,DK,assist,0,make2,2,C. Bosh,L. Deng
+247,3,6:46.0,64,72,LAC,MIA,27,home,JS,,25,miss3,0,B. Griffin,
+248,3,6:44.0,64,72,LAC,MIA,2,away,DefReb,,,DefReb,,L. Deng,
+249,3,6:29.0,64,74,LAC,MIA,15,away,HS,assist,11,make2,2,H. Whiteside,L. Deng
+250,3,6:15.0,64,74,LAC,MIA,14,home,JS,,25,miss3,0,J. Redick,
+251,3,6:14.0,64,74,LAC,MIA,1,away,DefReb,,,DefReb,,D. Wade,
+252,3,6:02.0,64,74,LAC,MIA,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Chalmers,J. Redick
+253,3,6:02.0,64,74,LAC,MIA,0,away,OffensiveFoul,,,turnover,,M. Chalmers,
+254,3,6:02.0,64,74,LAC,MIA,0,away,Sub,,,,,N. Cole,M. Chalmers
+255,3,5:39.0,64,74,LAC,MIA,23,home,JS,block,3,miss2,0,M. Barnes,H. Whiteside
+256,3,5:37.0,64,74,LAC,MIA,2,away,DefReb,,,DefReb,,N. Cole,
+257,3,5:31.0,64,77,LAC,MIA,6,away,JS,assist,23,make3,3,L. Deng,D. Wade
+258,3,5:29.0,64,77,LAC,MIA,2,home,Timeout,,,,,,
+259,3,5:12.0,64,77,LAC,MIA,17,home,JS,,20,miss2,0,B. Griffin,
+260,3,5:11.0,64,77,LAC,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
+261,3,5:02.0,64,77,LAC,MIA,9,away,JS,,11,miss2,0,D. Wade,
+262,3,5:01.0,64,77,LAC,MIA,1,away,OffReb,,,OffReb,,Team,
+263,3,5:01.0,64,77,LAC,MIA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Jordan,H. Whiteside
+264,3,5:01.0,64,77,LAC,MIA,0,home,Sub,,,,,J. Crawford,J. Redick
+265,3,4:46.0,64,79,LAC,MIA,15,away,JS,,13,make2,2,C. Bosh,
+266,3,4:21.0,66,79,LAC,MIA,25,home,JS,,17,make2,2,C. Paul,
+267,3,3:57.0,66,79,LAC,MIA,24,away,HS,block,5,miss2,0,H. Whiteside,D. Jordan
+268,3,3:54.0,66,79,LAC,MIA,3,away,OffReb,,,OffReb,,H. Whiteside,
+269,3,3:53.0,66,81,LAC,MIA,1,away,LU,,1,make2,2,H. Whiteside,
+270,3,3:36.0,66,81,LAC,MIA,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Whiteside,B. Griffin
+271,3,3:36.0,67,81,LAC,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+272,3,3:36.0,67,81,LAC,MIA,0,away,Sub,,,,,D. Granger,D. Wade
+273,3,3:36.0,68,81,LAC,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+274,3,3:19.0,68,81,LAC,MIA,17,away,Traveling,,,turnover,,D. Granger,
+275,3,3:07.0,68,81,LAC,MIA,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Deng,B. Griffin
+276,3,3:07.0,70,81,LAC,MIA,0,home,LU,assist,2,make2,2,B. Griffin,C. Paul
+277,3,3:07.0,70,81,LAC,MIA,0,home,Sub,,,,,S. Hawes,D. Jordan
+278,3,3:07.0,71,81,LAC,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+279,3,2:55.0,71,81,LAC,MIA,12,away,JS,,19,miss2,0,L. Deng,
+280,3,2:55.0,71,81,LAC,MIA,0,home,DefReb,,,DefReb,,Team,
+281,3,2:55.0,71,81,LAC,MIA,0,away,Sub,,,,,C. Andersen,H. Whiteside
+282,3,2:34.0,71,81,LAC,MIA,21,home,JS,,11,miss2,0,B. Griffin,
+283,3,2:33.0,71,81,LAC,MIA,1,away,DefReb,,,DefReb,,C. Andersen,
+284,3,2:10.0,71,81,LAC,MIA,23,away,JS,,6,miss2,0,L. Deng,
+285,3,2:08.0,71,81,LAC,MIA,2,away,OffReb,,,OffReb,,D. Granger,
+286,3,2:00.0,71,81,LAC,MIA,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Griffin,C. Bosh
+287,3,1:55.0,71,83,LAC,MIA,5,away,LU,assist,2,make2,2,C. Bosh,N. Cole
+288,3,1:55.0,71,83,LAC,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hawes,C. Bosh
+289,3,1:55.0,71,84,LAC,MIA,0,away,FreeThrow,,,make1,1,C. Bosh,
+290,3,1:32.0,74,84,LAC,MIA,23,home,JS,,25,make3,3,C. Paul,
+291,3,1:14.0,74,84,LAC,MIA,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,C. Bosh
+292,3,1:14.0,74,85,LAC,MIA,0,away,FreeThrow,,,make1,1,C. Bosh,
+293,3,1:14.0,74,86,LAC,MIA,0,away,FreeThrow,,,make1,1,C. Bosh,
+294,3,1:00.0,76,86,LAC,MIA,14,home,HS,,5,make2,2,B. Griffin,
+295,3,0:39.0,76,86,LAC,MIA,21,away,JS,,25,miss3,0,D. Granger,
+296,3,0:38.0,76,86,LAC,MIA,1,home,DefReb,,,DefReb,,S. Hawes,
+297,3,0:20.0,76,86,LAC,MIA,18,home,JS,,25,miss3,0,J. Crawford,
+298,3,0:19.0,76,86,LAC,MIA,1,away,DefReb,,,DefReb,,C. Bosh,
+299,3,0:01.0,76,86,LAC,MIA,18,away,JS,,25,miss3,0,C. Bosh,
+300,3,0:00.0,76,86,LAC,MIA,1,away,OffReb,,,OffReb,,Team,
+301,4,11:49.0,76,86,LAC,MIA,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,U. Haslem,B. Griffin
+302,4,11:40.0,76,86,LAC,MIA,9,home,JS,block,3,miss2,0,S. Hawes,C. Andersen
+303,4,11:40.0,76,86,LAC,MIA,0,home,OffReb,,,OffReb,,Team,
+304,4,11:34.0,76,86,LAC,MIA,6,home,JS,,23,miss3,0,S. Hawes,
+305,4,11:33.0,76,86,LAC,MIA,1,away,DefReb,,,DefReb,,U. Haslem,
+306,4,11:21.0,76,86,LAC,MIA,12,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,B. Griffin,N. Cole
+307,4,11:06.0,76,86,LAC,MIA,15,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,B. Griffin,C. Andersen
+308,4,11:06.0,76,86,LAC,MIA,0,home,Sub,,,,,D. Jordan,B. Griffin
+309,4,10:56.0,76,86,LAC,MIA,10,away,JS,,20,miss2,0,D. Wade,
+310,4,10:55.0,76,86,LAC,MIA,1,home,DefReb,,,DefReb,,D. Jordan,
+311,4,10:47.0,76,86,LAC,MIA,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Granger,J. Crawford
+312,4,10:32.0,76,86,LAC,MIA,15,home,LostBall,steal,,turnover,,J. Crawford,N. Cole
+313,4,10:27.0,76,86,LAC,MIA,5,away,LU,,1,miss2,0,U. Haslem,
+314,4,10:24.0,76,86,LAC,MIA,3,away,OffReb,,,OffReb,,D. Wade,
+315,4,10:20.0,76,86,LAC,MIA,4,away,LostBall,,,turnover,,D. Wade,
+316,4,10:00.0,78,86,LAC,MIA,20,home,LU,assist,2,make2,2,J. Farmar,S. Hawes
+317,4,9:37.0,78,86,LAC,MIA,23,away,JS,,13,miss2,0,U. Haslem,
+318,4,9:36.0,78,86,LAC,MIA,1,home,DefReb,,,DefReb,,J. Farmar,
+319,4,9:23.0,78,86,LAC,MIA,13,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,U. Haslem,S. Hawes
+320,4,9:23.0,78,86,LAC,MIA,0,away,Sub,,,,,H. Whiteside,C. Andersen
+321,4,9:06.0,78,86,LAC,MIA,17,home,JS,,28,miss3,0,J. Farmar,
+322,4,9:06.0,78,86,LAC,MIA,0,away,DefReb,,,DefReb,,Team,
+323,4,8:52.0,78,88,LAC,MIA,14,away,JS,,11,make2,2,D. Wade,
+324,4,8:42.0,78,88,LAC,MIA,10,home,JS,,26,miss3,0,S. Hawes,
+325,4,8:39.0,78,88,LAC,MIA,3,away,DefReb,,,DefReb,,H. Whiteside,
+326,4,8:26.0,78,88,LAC,MIA,13,away,JS,,19,miss2,0,U. Haslem,
+327,4,8:25.0,78,88,LAC,MIA,1,home,DefReb,,,DefReb,,J. Redick,
+328,4,8:25.0,78,88,LAC,MIA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,H. Whiteside,J. Redick
+329,4,8:25.0,78,88,LAC,MIA,0,away,Timeout,,,,,,
+330,4,8:12.0,80,88,LAC,MIA,13,home,JS,assist,4,make2,2,J. Redick,J. Farmar
+331,4,7:46.0,80,88,LAC,MIA,26,away,JS,,5,miss2,0,U. Haslem,
+332,4,7:45.0,80,88,LAC,MIA,1,home,DefReb,,,DefReb,,J. Farmar,
+333,4,7:24.0,80,88,LAC,MIA,21,home,BadPass,steal,,turnover,,J. Redick,N. Cole
+334,4,7:18.0,80,88,LAC,MIA,6,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Farmar,D. Wade
+335,4,7:18.0,80,88,LAC,MIA,0,away,Sub,,,,,C. Bosh,U. Haslem
+336,4,7:18.0,80,88,LAC,MIA,0,home,Sub,,,,,C. Paul,J. Farmar
+337,4,7:18.0,80,88,LAC,MIA,0,home,Sub,,,,,B. Griffin,S. Hawes
+338,4,7:02.0,80,88,LAC,MIA,16,away,JS,,19,miss2,0,D. Granger,
+339,4,7:01.0,80,88,LAC,MIA,1,away,OffReb,,,OffReb,,H. Whiteside,
+340,4,6:58.0,80,90,LAC,MIA,3,away,HS,,6,make2,2,H. Whiteside,
+341,4,6:43.0,80,90,LAC,MIA,15,home,LostBall,steal,,turnover,,J. Crawford,N. Cole
+342,4,6:38.0,80,92,LAC,MIA,5,away,DK,assist,0,make2,2,D. Wade,N. Cole
+343,4,6:38.0,80,92,LAC,MIA,0,home,Timeout,,,,,,
+344,4,6:38.0,80,92,LAC,MIA,0,home,TechnicalFoul,,,TechnicalFoul,,J. Crawford,
+345,4,6:38.0,80,93,LAC,MIA,0,away,FreeThrow,,,make1,1,C. Bosh makes technical free throw,
+346,4,6:15.0,80,93,LAC,MIA,23,home,JS,,16,miss2,0,J. Crawford,
+347,4,6:13.0,80,93,LAC,MIA,2,away,DefReb,,,DefReb,,H. Whiteside,
+348,4,5:59.0,80,93,LAC,MIA,14,away,JS,,23,miss3,0,D. Granger,
+349,4,5:57.0,80,93,LAC,MIA,2,home,DefReb,,,DefReb,,J. Crawford,
+350,4,5:49.0,80,93,LAC,MIA,8,home,JS,,23,miss3,0,J. Redick,
+351,4,5:48.0,80,93,LAC,MIA,1,home,OffReb,,,OffReb,,B. Griffin,
+352,4,5:44.0,82,93,LAC,MIA,4,home,TI,,1,make2,2,B. Griffin,
+353,4,5:19.0,82,93,LAC,MIA,25,away,JS,,20,miss2,0,D. Granger,
+354,4,5:17.0,82,93,LAC,MIA,2,home,DefReb,,,DefReb,,D. Jordan,
+355,4,4:57.0,82,93,LAC,MIA,20,home,LostBall,,,turnover,,B. Griffin,
+356,4,4:57.0,82,93,LAC,MIA,0,away,Sub,,,,,L. Deng,D. Granger
+357,4,4:57.0,82,93,LAC,MIA,0,home,Sub,,,,,M. Barnes,J. Crawford
+358,4,4:48.0,82,95,LAC,MIA,9,away,JS,assist,17,make2,2,C. Bosh,D. Wade
+359,4,4:25.0,84,95,LAC,MIA,23,home,JS,,16,make2,2,C. Paul,
+360,4,3:57.0,84,95,LAC,MIA,28,away,JS,,24,miss3,0,D. Wade,
+361,4,3:55.0,84,95,LAC,MIA,2,home,DefReb,,,DefReb,,J. Redick,
+362,4,3:51.0,84,95,LAC,MIA,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Wade,B. Griffin
+363,4,3:51.0,85,95,LAC,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+364,4,3:51.0,85,95,LAC,MIA,0,home,FreeThrow,,,make1,0,B. Griffin,
+365,4,3:48.0,85,95,LAC,MIA,3,away,DefReb,,,DefReb,,C. Bosh,
+366,4,3:32.0,85,95,LAC,MIA,16,away,BadPass,steal,,turnover,,N. Cole,M. Barnes
+367,4,3:31.0,85,95,LAC,MIA,1,home,OutOfBounds,,,turnover,,M. Barnes,
+368,4,3:18.0,85,95,LAC,MIA,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,D. Wade
+369,4,3:18.0,85,95,LAC,MIA,0,away,FreeThrow,,,make1,0,D. Wade,
+370,4,3:18.0,85,95,LAC,MIA,0,away,OffReb,,,OffReb,,Team,
+371,4,3:18.0,85,96,LAC,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+372,4,3:01.0,87,96,LAC,MIA,17,home,DK,,0,make2,2,B. Griffin,
+373,4,3:01.0,87,96,LAC,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Deng,B. Griffin
+374,4,3:01.0,88,96,LAC,MIA,0,home,FreeThrow,,,make1,1,B. Griffin,
+375,4,3:00.0,88,96,LAC,MIA,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Redick,H. Whiteside
+376,4,3:00.0,88,96,LAC,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside,
+377,4,3:00.0,88,96,LAC,MIA,0,away,OffReb,,,OffReb,,Team,
+378,4,3:00.0,88,97,LAC,MIA,0,away,FreeThrow,,,make1,1,H. Whiteside,
+379,4,2:42.0,88,97,LAC,MIA,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Whiteside,D. Jordan
+380,4,2:42.0,88,97,LAC,MIA,0,away,Timeout,,,,,,
+381,4,2:42.0,88,97,LAC,MIA,0,away,Sub,,,,,D. Granger,H. Whiteside
+382,4,2:42.0,88,97,LAC,MIA,0,home,FreeThrow,,,make1,0,D. Jordan,
+383,4,2:42.0,88,97,LAC,MIA,0,home,OffReb,,,OffReb,,Team,
+384,4,2:42.0,88,97,LAC,MIA,0,home,FreeThrow,,,make1,0,D. Jordan,
+385,4,2:40.0,88,97,LAC,MIA,2,home,OffReb,,,OffReb,,B. Griffin,
+386,4,2:36.0,88,97,LAC,MIA,4,home,JS,,26,miss3,0,C. Paul,
+387,4,2:36.0,88,97,LAC,MIA,0,away,DefReb,,,DefReb,,Team,
+388,4,2:19.0,88,97,LAC,MIA,17,away,JS,,23,miss3,0,N. Cole,
+389,4,2:18.0,88,97,LAC,MIA,1,home,DefReb,,,DefReb,,D. Jordan,
+390,4,2:01.0,88,97,LAC,MIA,17,away,Sub,,,,,H. Whiteside,D. Granger
+391,4,2:01.0,88,97,LAC,MIA,0,home,Timeout,,,,,,
+392,4,1:58.0,88,97,LAC,MIA,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Bosh,C. Paul
+393,4,1:58.0,89,97,LAC,MIA,0,home,FreeThrow,,,make1,1,C. Paul,
+394,4,1:58.0,90,97,LAC,MIA,0,home,FreeThrow,,,make1,1,C. Paul,
+395,4,1:43.0,90,100,LAC,MIA,15,away,JS,assist,25,make3,3,C. Bosh,D. Wade
+396,4,1:32.0,90,100,LAC,MIA,11,home,JS,,13,miss2,0,C. Paul,
+397,4,1:32.0,90,100,LAC,MIA,0,away,DefReb,,,DefReb,,Team,
+398,4,1:23.0,90,100,LAC,MIA,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,D. Wade
+399,4,1:23.0,90,101,LAC,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+400,4,1:23.0,90,102,LAC,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+401,4,1:23.0,90,102,LAC,MIA,0,home,Timeout,,,,,,
+402,4,1:23.0,90,102,LAC,MIA,0,home,Sub,,,,,J. Crawford,D. Jordan
+403,4,1:23.0,90,102,LAC,MIA,0,away,Sub,,,,,D. Granger,H. Whiteside
+404,4,1:20.0,90,102,LAC,MIA,3,home,JS,,26,miss3,0,B. Griffin,
+405,4,1:18.0,90,102,LAC,MIA,2,home,OffReb,,,OffReb,,M. Barnes,
+406,4,1:14.0,90,102,LAC,MIA,4,home,JS,,27,miss3,0,C. Paul,
+407,4,1:12.0,90,102,LAC,MIA,2,away,DefReb,,,DefReb,,N. Cole,
+408,4,1:08.0,90,102,LAC,MIA,4,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Barnes,D. Wade
+409,4,1:08.0,90,103,LAC,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+410,4,1:08.0,90,103,LAC,MIA,0,home,Sub,,,,,J. Farmar,C. Paul
+411,4,1:08.0,90,103,LAC,MIA,0,home,Sub,,,,,G. Davis,B. Griffin
+412,4,1:08.0,90,103,LAC,MIA,0,home,Sub,,,,,E. Udoh,J. Crawford
+413,4,1:08.0,90,103,LAC,MIA,0,home,Sub,,,,,R. Bullock,M. Barnes
+414,4,1:08.0,90,103,LAC,MIA,0,home,Sub,,,,,C. Douglas-Roberts,J. Redick
+415,4,1:08.0,90,104,LAC,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+416,4,0:51.0,90,104,LAC,MIA,17,home,JS,,16,miss2,0,G. Davis,
+417,4,0:49.0,90,104,LAC,MIA,2,away,DefReb,,,DefReb,,D. Granger,
+418,4,0:25.0,90,104,LAC,MIA,24,away,ShotClockViolation,,,turnover,,Team,
+419,4,0:08.0,90,104,LAC,MIA,17,home,JS,,25,miss3,0,R. Bullock,
+420,4,0:06.0,90,104,LAC,MIA,2,away,DefReb,,,DefReb,,N. Cole,

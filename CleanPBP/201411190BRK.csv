@@ -1,0 +1,558 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:42.0,0,0,BRK,MIL,18,away,JS,,15,miss2,0,L. Sanders,
+1,1,11:41.0,0,0,BRK,MIL,1,home,DefReb,,,DefReb,,J. Johnson,
+2,1,11:17.0,2,0,BRK,MIL,24,home,JS,,14,make2,2,B. Lopez,
+3,1,11:04.0,2,0,BRK,MIL,13,away,JS,,25,miss3,0,K. Middleton,
+4,1,11:03.0,2,0,BRK,MIL,1,away,OffReb,,,OffReb,,J. Parker,
+5,1,11:01.0,2,2,BRK,MIL,2,away,JS,,12,make2,2,J. Parker,
+6,1,10:48.0,5,2,BRK,MIL,13,home,JS,assist,22,make3,3,B. Bogdanović,D. Williams
+7,1,10:31.0,5,4,BRK,MIL,17,away,JS,assist,3,make2,2,L. Sanders,K. Middleton
+8,1,10:22.0,5,4,BRK,MIL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Knight,D. Williams
+9,1,10:16.0,5,4,BRK,MIL,6,home,JS,,17,miss2,0,J. Johnson,
+10,1,10:15.0,5,4,BRK,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+11,1,10:07.0,5,4,BRK,MIL,8,away,JS,,12,miss2,0,J. Parker,
+12,1,10:06.0,5,4,BRK,MIL,1,home,DefReb,,,DefReb,,K. Garnett,
+13,1,9:57.0,5,4,BRK,MIL,9,home,BadPass,steal,,turnover,,J. Johnson,G. Antetokounmpo
+14,1,9:52.0,5,4,BRK,MIL,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Lopez,G. Antetokounmpo
+15,1,9:52.0,5,4,BRK,MIL,0,away,FreeThrow,,,make1,0,G. Antetokounmpo,
+16,1,9:52.0,5,4,BRK,MIL,0,away,OffReb,,,OffReb,,Team,
+17,1,9:52.0,5,4,BRK,MIL,0,away,FreeThrow,,,make1,0,G. Antetokounmpo,
+18,1,9:51.0,5,4,BRK,MIL,1,home,DefReb,,,DefReb,,K. Garnett,
+19,1,9:41.0,5,4,BRK,MIL,10,home,LU,,3,miss2,0,B. Lopez,
+20,1,9:40.0,5,4,BRK,MIL,1,away,DefReb,,,DefReb,,J. Parker,
+21,1,9:31.0,5,4,BRK,MIL,9,away,LostBall,steal,,turnover,,B. Knight,K. Garnett
+22,1,9:27.0,7,4,BRK,MIL,4,home,DK,assist,0,make2,2,B. Bogdanović,D. Williams
+23,1,9:09.0,7,4,BRK,MIL,18,away,JS,,24,miss3,0,B. Knight,
+24,1,9:09.0,7,4,BRK,MIL,0,away,OffReb,,,OffReb,,Team,
+25,1,9:03.0,7,6,BRK,MIL,6,away,JS,,21,make2,2,J. Parker,
+26,1,8:48.0,7,6,BRK,MIL,15,home,JS,,18,miss2,0,B. Lopez,
+27,1,8:47.0,7,6,BRK,MIL,1,away,DefReb,,,DefReb,,L. Sanders,
+28,1,8:40.0,7,8,BRK,MIL,7,away,LU,,1,make2,2,G. Antetokounmpo,
+29,1,8:23.0,9,8,BRK,MIL,17,home,DK,assist,0,make2,2,B. Lopez,J. Johnson
+30,1,8:01.0,9,8,BRK,MIL,22,away,LostBall,,,turnover,,L. Sanders,
+31,1,7:51.0,9,8,BRK,MIL,10,home,LostBall,steal,,turnover,,D. Williams,J. Parker
+32,1,7:48.0,9,10,BRK,MIL,3,away,DK,,0,make2,2,J. Parker,
+33,1,7:28.0,9,10,BRK,MIL,20,home,LostBall,,,turnover,,B. Lopez,
+34,1,7:11.0,9,10,BRK,MIL,17,away,JS,,17,miss2,0,K. Middleton,
+35,1,7:10.0,9,10,BRK,MIL,1,home,DefReb,,,DefReb,,J. Johnson,
+36,1,7:01.0,11,10,BRK,MIL,9,home,JS,,9,make2,2,J. Johnson,
+37,1,6:41.0,11,10,BRK,MIL,20,away,JS,,25,miss3,0,B. Knight,
+38,1,6:40.0,11,10,BRK,MIL,1,home,DefReb,,,DefReb,,K. Garnett,
+39,1,6:30.0,11,10,BRK,MIL,10,home,JS,,25,miss3,0,J. Johnson,
+40,1,6:29.0,11,10,BRK,MIL,1,away,DefReb,,,DefReb,,B. Knight,
+41,1,6:26.0,11,10,BRK,MIL,3,away,LU,,0,miss2,0,B. Knight,
+42,1,6:25.0,11,10,BRK,MIL,1,away,OffReb,,,OffReb,,J. Parker,
+43,1,6:24.0,11,10,BRK,MIL,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Williams,J. Parker
+44,1,6:24.0,11,11,BRK,MIL,0,away,FreeThrow,,,make1,1,J. Parker,
+45,1,6:24.0,11,11,BRK,MIL,0,away,Sub,,,,,Z. Pachulia,L. Sanders
+46,1,6:24.0,11,11,BRK,MIL,0,home,Sub,,,,,M. Teletović,K. Garnett
+47,1,6:24.0,11,12,BRK,MIL,0,away,FreeThrow,,,make1,1,J. Parker,
+48,1,6:12.0,13,12,BRK,MIL,12,home,HS,assist,8,make2,2,B. Lopez,J. Johnson
+49,1,5:57.0,13,12,BRK,MIL,15,away,LU,block,2,miss2,0,J. Parker,M. Teletović
+50,1,5:55.0,13,12,BRK,MIL,2,home,DefReb,,,DefReb,,B. Lopez,
+51,1,5:49.0,16,12,BRK,MIL,6,home,JS,,22,make3,3,B. Bogdanović,
+52,1,5:26.0,16,12,BRK,MIL,23,away,JS,,18,miss2,0,G. Antetokounmpo,
+53,1,5:25.0,16,12,BRK,MIL,1,home,DefReb,,,DefReb,,D. Williams,
+54,1,5:12.0,16,12,BRK,MIL,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Pachulia,B. Lopez
+55,1,5:12.0,16,12,BRK,MIL,0,home,Timeout,,,,,,
+56,1,5:12.0,16,12,BRK,MIL,0,away,Sub,,,,,O. Mayo,K. Middleton
+57,1,4:57.0,16,12,BRK,MIL,15,home,JS,,24,miss3,0,M. Teletović,
+58,1,4:56.0,16,12,BRK,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+59,1,4:35.0,16,14,BRK,MIL,21,away,JS,,19,make2,2,B. Knight,
+60,1,4:16.0,18,14,BRK,MIL,19,home,JS,assist,10,make2,2,B. Lopez,D. Williams
+61,1,4:00.0,18,16,BRK,MIL,16,away,JS,,21,make2,2,B. Knight,
+62,1,3:42.0,18,16,BRK,MIL,18,home,JS,,13,miss2,0,B. Bogdanović,
+63,1,3:41.0,18,16,BRK,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+64,1,3:24.0,18,16,BRK,MIL,17,away,LostBall,steal,,turnover,,G. Antetokounmpo,D. Williams
+65,1,3:18.0,18,16,BRK,MIL,6,home,JS,,25,miss3,0,M. Teletović,
+66,1,3:16.0,18,16,BRK,MIL,2,away,DefReb,,,DefReb,,Z. Pachulia,
+67,1,3:11.0,18,16,BRK,MIL,5,away,LostBall,,,turnover,,O. Mayo,
+68,1,2:54.0,18,16,BRK,MIL,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,O. Mayo,B. Bogdanović
+69,1,2:54.0,18,16,BRK,MIL,0,away,Timeout,,,,,,
+70,1,2:54.0,18,16,BRK,MIL,0,home,Sub,,,,,J. Jack,D. Williams
+71,1,2:54.0,18,16,BRK,MIL,0,away,Sub,,,,,J. Dudley,B. Knight
+72,1,2:54.0,18,16,BRK,MIL,0,away,Sub,,,,,J. Bayless,G. Antetokounmpo
+73,1,2:45.0,20,16,BRK,MIL,9,home,JS,,9,make2,2,J. Johnson,
+74,1,2:22.0,20,16,BRK,MIL,23,away,JS,,12,miss2,0,O. Mayo,
+75,1,2:21.0,20,16,BRK,MIL,1,home,DefReb,,,DefReb,,M. Teletović,
+76,1,2:12.0,20,16,BRK,MIL,9,home,JS,block,3,miss2,0,B. Lopez,Z. Pachulia
+77,1,2:11.0,20,16,BRK,MIL,1,home,OffReb,,,OffReb,,Team,
+78,1,2:03.0,20,16,BRK,MIL,8,home,JS,,25,miss3,0,M. Teletović,
+79,1,2:02.0,20,16,BRK,MIL,1,away,DefReb,,,DefReb,,Z. Pachulia,
+80,1,1:42.0,20,16,BRK,MIL,20,away,JS,,22,miss3,0,O. Mayo,
+81,1,1:41.0,20,16,BRK,MIL,1,home,DefReb,,,DefReb,,J. Jack,
+82,1,1:35.0,22,16,BRK,MIL,6,home,JS,,1,make2,2,J. Jack,
+83,1,1:14.0,22,18,BRK,MIL,21,away,JS,,19,make2,2,J. Parker,
+84,1,1:06.0,22,18,BRK,MIL,8,home,Traveling,,,turnover,,B. Lopez,
+85,1,0:50.0,22,18,BRK,MIL,16,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,Z. Pachulia,J. Jack
+86,1,0:50.0,22,18,BRK,MIL,0,away,OffensiveFoul,,,turnover,,Z. Pachulia,
+87,1,0:36.0,22,18,BRK,MIL,14,home,Traveling,,,turnover,,B. Bogdanović,
+88,1,0:32.0,22,20,BRK,MIL,4,away,JS,,20,make2,2,J. Bayless,
+89,1,0:10.0,24,20,BRK,MIL,22,home,JS,assist,6,make2,2,J. Johnson,J. Jack
+90,1,0:01.0,24,22,BRK,MIL,9,away,JS,assist,12,make2,2,J. Dudley,J. Bayless
+91,2,11:50.0,24,22,BRK,MIL,10,home,LostBall,steal,,turnover,,J. Jack,E. İlyasova
+92,2,11:45.0,24,22,BRK,MIL,5,away,LU,block,1,miss2,0,J. Dudley,M. Teletović
+93,2,11:44.0,24,22,BRK,MIL,1,home,DefReb,,,DefReb,,J. Jack,
+94,2,11:25.0,24,22,BRK,MIL,19,home,JS,,18,miss2,0,A. Anderson,
+95,2,11:24.0,24,22,BRK,MIL,1,home,OffReb,,,OffReb,,A. Anderson,
+96,2,11:10.0,24,22,BRK,MIL,14,home,JS,,16,miss2,0,B. Lopez,
+97,2,11:09.0,24,22,BRK,MIL,1,away,DefReb,,,DefReb,,O. Mayo,
+98,2,10:52.0,24,24,BRK,MIL,17,away,DK,assist,1,make2,2,J. Henson,O. Mayo
+99,2,10:37.0,24,24,BRK,MIL,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,O. Mayo,M. Teletović
+100,2,10:37.0,24,24,BRK,MIL,0,home,FreeThrow,,,make1,0,M. Teletović,
+101,2,10:37.0,24,24,BRK,MIL,0,home,OffReb,,,OffReb,,Team,
+102,2,10:37.0,24,24,BRK,MIL,0,home,Sub,,,,,M. Plumlee,B. Lopez
+103,2,10:37.0,25,24,BRK,MIL,0,home,FreeThrow,,,make1,1,M. Teletović,
+104,2,10:25.0,25,24,BRK,MIL,12,away,LU,,3,miss2,0,J. Bayless,
+105,2,10:24.0,25,24,BRK,MIL,1,home,DefReb,,,DefReb,,J. Jack,
+106,2,10:08.0,25,24,BRK,MIL,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Henson,M. Plumlee
+107,2,10:08.0,25,24,BRK,MIL,0,home,FreeThrow,,,make1,0,M. Plumlee,
+108,2,10:08.0,25,24,BRK,MIL,0,home,OffReb,,,OffReb,,Team,
+109,2,10:08.0,26,24,BRK,MIL,0,home,FreeThrow,,,make1,1,M. Plumlee,
+110,2,9:48.0,26,24,BRK,MIL,20,away,JS,,25,miss3,0,J. Bayless,
+111,2,9:47.0,26,24,BRK,MIL,1,home,DefReb,,,DefReb,,B. Bogdanović,
+112,2,9:39.0,28,24,BRK,MIL,8,home,LU,,2,make2,2,J. Jack,
+113,2,9:28.0,28,24,BRK,MIL,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,O. Mayo
+114,2,9:28.0,28,25,BRK,MIL,0,away,FreeThrow,,,make1,1,O. Mayo,
+115,2,9:28.0,28,26,BRK,MIL,0,away,FreeThrow,,,make1,1,O. Mayo,
+116,2,9:19.0,28,26,BRK,MIL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. İlyasova,M. Plumlee
+117,2,9:19.0,30,26,BRK,MIL,0,home,LU,assist,3,make2,2,M. Plumlee,J. Jack
+118,2,9:19.0,30,26,BRK,MIL,0,home,FreeThrow,,,make1,0,M. Plumlee,
+119,2,9:18.0,30,26,BRK,MIL,1,away,DefReb,,,DefReb,,J. Dudley,
+120,2,9:00.0,30,26,BRK,MIL,18,away,JS,,20,miss2,0,E. İlyasova,
+121,2,8:59.0,30,26,BRK,MIL,1,away,OffReb,,,OffReb,,O. Mayo,
+122,2,8:55.0,30,26,BRK,MIL,4,away,LU,,1,miss2,0,O. Mayo,
+123,2,8:54.0,30,26,BRK,MIL,1,away,OffReb,,,OffReb,,Team,
+124,2,8:54.0,30,26,BRK,MIL,0,away,Timeout,,,,,,
+125,2,8:41.0,30,26,BRK,MIL,13,away,JS,,24,miss3,0,O. Mayo,
+126,2,8:40.0,30,26,BRK,MIL,1,away,OffReb,,,OffReb,,J. Dudley,
+127,2,8:35.0,30,26,BRK,MIL,5,away,LU,,2,miss2,0,E. İlyasova,
+128,2,8:34.0,30,26,BRK,MIL,1,away,OffReb,,,OffReb,,J. Dudley,
+129,2,8:27.0,30,28,BRK,MIL,7,away,HS,,4,make2,2,E. İlyasova,
+130,2,8:16.0,30,28,BRK,MIL,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. İlyasova,M. Teletović
+131,2,8:16.0,30,28,BRK,MIL,0,away,Sub,,,,,G. Antetokounmpo,O. Mayo
+132,2,8:16.0,30,28,BRK,MIL,0,home,Sub,,,,,J. Jordan,M. Plumlee
+133,2,8:07.0,30,28,BRK,MIL,9,home,JS,,23,miss3,0,B. Bogdanović,
+134,2,8:06.0,30,28,BRK,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+135,2,7:56.0,30,28,BRK,MIL,10,away,LU,block,1,miss2,0,E. İlyasova,J. Jordan
+136,2,7:55.0,30,28,BRK,MIL,1,away,OffReb,,,OffReb,,E. İlyasova,
+137,2,7:54.0,30,30,BRK,MIL,1,away,LU,,1,make2,2,E. İlyasova,
+138,2,7:41.0,32,30,BRK,MIL,13,home,LU,assist,1,make2,2,B. Bogdanović,J. Jack
+139,2,7:30.0,32,30,BRK,MIL,11,away,JS,,25,miss3,0,J. Dudley,
+140,2,7:29.0,32,30,BRK,MIL,1,away,OffReb,,,OffReb,,J. Dudley,
+141,2,7:25.0,32,30,BRK,MIL,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jordan,G. Antetokounmpo
+142,2,7:25.0,32,31,BRK,MIL,0,away,FreeThrow,,,make1,1,G. Antetokounmpo,
+143,2,7:25.0,32,31,BRK,MIL,0,home,Sub,,,,,D. Williams,B. Bogdanović
+144,2,7:25.0,32,31,BRK,MIL,0,home,Sub,,,,,K. Garnett,M. Teletović
+145,2,7:25.0,32,31,BRK,MIL,0,away,Sub,,,,,B. Knight,J. Bayless
+146,2,7:25.0,32,31,BRK,MIL,0,away,Sub,,,,,K. Middleton,J. Dudley
+147,2,7:25.0,32,32,BRK,MIL,0,away,FreeThrow,,,make1,1,G. Antetokounmpo,
+148,2,7:09.0,34,32,BRK,MIL,16,home,LU,assist,2,make2,2,D. Williams,J. Jordan
+149,2,6:52.0,34,32,BRK,MIL,17,away,LostBall,,,turnover,,B. Knight,
+150,2,6:34.0,34,32,BRK,MIL,18,home,JS,,24,miss3,0,D. Williams,
+151,2,6:34.0,34,32,BRK,MIL,0,away,DefReb,,,DefReb,,K. Middleton,
+152,2,6:18.0,34,32,BRK,MIL,16,away,JS,,23,miss2,0,B. Knight,
+153,2,6:17.0,34,32,BRK,MIL,1,home,DefReb,,,DefReb,,D. Williams,
+154,2,6:07.0,34,32,BRK,MIL,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Antetokounmpo,J. Jack
+155,2,6:07.0,35,32,BRK,MIL,0,home,FreeThrow,,,make1,1,J. Jack,
+156,2,6:07.0,35,32,BRK,MIL,0,home,Sub,,,,,J. Johnson,A. Anderson
+157,2,6:07.0,36,32,BRK,MIL,0,home,FreeThrow,,,make1,1,J. Jack,
+158,2,5:41.0,36,34,BRK,MIL,26,away,HS,assist,8,make2,2,J. Henson,B. Knight
+159,2,5:21.0,36,34,BRK,MIL,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Middleton,J. Jack
+160,2,5:21.0,36,34,BRK,MIL,0,home,Timeout,,,,,,
+161,2,5:21.0,36,34,BRK,MIL,0,away,Sub,,,,,J. Parker,E. İlyasova
+162,2,5:21.0,36,34,BRK,MIL,0,home,FreeThrow,,,make1,0,J. Jack,
+163,2,5:21.0,36,34,BRK,MIL,0,home,OffReb,,,OffReb,,Team,
+164,2,5:21.0,37,34,BRK,MIL,0,home,FreeThrow,,,make1,1,J. Jack,
+165,2,5:04.0,37,34,BRK,MIL,17,away,HS,,9,miss2,0,J. Henson,
+166,2,5:03.0,37,34,BRK,MIL,1,home,DefReb,,,DefReb,,J. Jack,
+167,2,4:48.0,37,34,BRK,MIL,15,away,DefGoaltending,,,DefGoaltending,,J. Henson,
+168,2,4:48.0,39,34,BRK,MIL,0,home,HS,,4,make2,2,D. Williams,
+169,2,4:29.0,39,34,BRK,MIL,19,away,BadPass,steal,,turnover,,K. Middleton,J. Jack
+170,2,4:17.0,39,34,BRK,MIL,12,home,3sec,,,turnover,,J. Jordan,
+171,2,4:17.0,39,34,BRK,MIL,0,away,Sub,,,,,L. Sanders,J. Henson
+172,2,4:06.0,39,34,BRK,MIL,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jack,K. Middleton
+173,2,4:06.0,39,34,BRK,MIL,0,home,Sub,,,,,B. Lopez,J. Jordan
+174,2,3:57.0,39,34,BRK,MIL,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Lopez,G. Antetokounmpo
+175,2,3:57.0,39,34,BRK,MIL,0,home,Sub,,,,,J. Jordan,B. Lopez
+176,2,3:43.0,39,34,BRK,MIL,14,away,JS,,18,miss2,0,J. Parker,
+177,2,3:42.0,39,34,BRK,MIL,1,home,DefReb,,,DefReb,,D. Williams,
+178,2,3:21.0,41,34,BRK,MIL,21,home,JS,assist,11,make2,2,J. Jack,K. Garnett
+179,2,3:16.0,41,34,BRK,MIL,5,away,Timeout,,,,,,
+180,2,3:09.0,41,36,BRK,MIL,7,away,JS,,19,make2,2,K. Middleton,
+181,2,2:49.0,41,36,BRK,MIL,20,home,JS,,10,miss2,0,K. Garnett,
+182,2,2:48.0,41,36,BRK,MIL,1,home,OffReb,,,OffReb,,J. Jordan,
+183,2,2:46.0,43,36,BRK,MIL,2,home,TI,,2,make2,2,J. Jordan,
+184,2,2:35.0,43,36,BRK,MIL,11,away,LU,,1,miss2,0,L. Sanders,
+185,2,2:34.0,43,36,BRK,MIL,1,home,DefReb,,,DefReb,,J. Jack,
+186,2,2:25.0,43,36,BRK,MIL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Parker,K. Garnett
+187,2,2:25.0,44,36,BRK,MIL,0,home,FreeThrow,,,make1,1,K. Garnett,
+188,2,2:25.0,45,36,BRK,MIL,0,home,FreeThrow,,,make1,1,K. Garnett,
+189,2,2:08.0,45,36,BRK,MIL,17,away,JS,,14,miss2,0,K. Middleton,
+190,2,2:07.0,45,36,BRK,MIL,1,home,DefReb,,,DefReb,,K. Garnett,
+191,2,1:52.0,47,36,BRK,MIL,15,home,JS,assist,18,make2,2,J. Jack,J. Johnson
+192,2,1:31.0,47,38,BRK,MIL,21,away,JS,assist,3,make2,2,L. Sanders,G. Antetokounmpo
+193,2,1:08.0,47,38,BRK,MIL,23,home,JS,,24,miss3,0,D. Williams,
+194,2,1:07.0,47,38,BRK,MIL,1,away,DefReb,,,DefReb,,L. Sanders,
+195,2,0:55.0,47,38,BRK,MIL,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jordan,G. Antetokounmpo
+196,2,0:55.0,47,38,BRK,MIL,0,away,FreeThrow,,,make1,0,G. Antetokounmpo,
+197,2,0:55.0,47,38,BRK,MIL,0,away,OffReb,,,OffReb,,Team,
+198,2,0:55.0,47,38,BRK,MIL,0,home,Sub,,,,,B. Bogdanović,J. Jordan
+199,2,0:55.0,47,38,BRK,MIL,0,away,FreeThrow,,,make1,0,G. Antetokounmpo,
+200,2,0:54.0,47,38,BRK,MIL,1,away,OffReb,,,OffReb,,L. Sanders,
+201,2,0:41.0,47,38,BRK,MIL,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Johnson,J. Parker
+202,2,0:41.0,47,38,BRK,MIL,0,away,FreeThrow,,,make1,0,J. Parker,
+203,2,0:41.0,47,38,BRK,MIL,0,away,OffReb,,,OffReb,,Team,
+204,2,0:41.0,47,39,BRK,MIL,0,away,FreeThrow,,,make1,1,J. Parker,
+205,2,0:31.0,49,39,BRK,MIL,10,home,LU,,2,make2,2,J. Johnson,
+206,2,0:14.0,49,41,BRK,MIL,17,away,LU,,2,make2,2,G. Antetokounmpo,
+207,2,0:10.0,49,41,BRK,MIL,4,home,Timeout,,,,,,
+208,2,0:10.0,49,41,BRK,MIL,0,home,DelayOfGame,,,DelayOfGame,,Team,
+209,3,11:46.0,49,41,BRK,MIL,14,home,Traveling,,,turnover,,B. Lopez,
+210,3,11:22.0,49,41,BRK,MIL,24,away,JS,,22,miss3,0,B. Knight,
+211,3,11:21.0,49,41,BRK,MIL,1,away,OffReb,,,OffReb,,L. Sanders,
+212,3,11:06.0,49,44,BRK,MIL,15,away,JS,assist,25,make3,3,B. Knight,G. Antetokounmpo
+213,3,10:44.0,52,44,BRK,MIL,22,home,JS,assist,24,make3,3,J. Johnson,K. Garnett
+214,3,10:33.0,52,44,BRK,MIL,11,away,BadPass,steal,,turnover,,B. Knight,K. Garnett
+215,3,10:17.0,52,44,BRK,MIL,16,home,Traveling,,,turnover,,B. Lopez,
+216,3,10:04.0,52,46,BRK,MIL,13,away,JS,,8,make2,2,J. Parker,
+217,3,9:44.0,52,46,BRK,MIL,20,home,JS,,22,miss3,0,B. Bogdanović,
+218,3,9:43.0,52,46,BRK,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+219,3,9:38.0,52,46,BRK,MIL,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Garnett,G. Antetokounmpo
+220,3,9:38.0,52,47,BRK,MIL,0,away,FreeThrow,,,make1,1,G. Antetokounmpo,
+221,3,9:38.0,52,48,BRK,MIL,0,away,FreeThrow,,,make1,1,G. Antetokounmpo,
+222,3,9:21.0,54,48,BRK,MIL,17,home,LU,assist,3,make2,2,K. Garnett,D. Williams
+223,3,9:03.0,54,48,BRK,MIL,18,away,JS,,14,miss2,0,L. Sanders,
+224,3,9:02.0,54,48,BRK,MIL,1,home,DefReb,,,DefReb,,D. Williams,
+225,3,8:46.0,54,48,BRK,MIL,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Sanders,B. Lopez
+226,3,8:46.0,55,48,BRK,MIL,0,home,FreeThrow,,,make1,1,B. Lopez,
+227,3,8:46.0,56,48,BRK,MIL,0,home,FreeThrow,,,make1,1,B. Lopez,
+228,3,8:37.0,56,48,BRK,MIL,9,away,D3SecTech,,,,,,
+229,3,8:37.0,56,49,BRK,MIL,0,away,FreeThrow,,,make1,1,B. Knight makes technical free throw,
+230,3,8:22.0,56,49,BRK,MIL,15,away,JS,,24,miss3,0,K. Middleton,
+231,3,8:21.0,56,49,BRK,MIL,1,home,DefReb,,,DefReb,,B. Lopez,
+232,3,8:12.0,56,49,BRK,MIL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Parker,B. Lopez
+233,3,8:12.0,57,49,BRK,MIL,0,home,FreeThrow,,,make1,1,B. Lopez,
+234,3,8:12.0,58,49,BRK,MIL,0,home,FreeThrow,,,make1,1,B. Lopez,
+235,3,7:58.0,58,49,BRK,MIL,14,away,LU,,2,miss2,0,L. Sanders,
+236,3,7:57.0,58,49,BRK,MIL,1,home,DefReb,,,DefReb,,K. Garnett,
+237,3,7:42.0,60,49,BRK,MIL,15,home,HS,assist,6,make2,2,B. Lopez,J. Johnson
+238,3,7:27.0,60,49,BRK,MIL,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Garnett,J. Parker
+239,3,7:27.0,60,50,BRK,MIL,0,away,FreeThrow,,,make1,1,J. Parker,
+240,3,7:27.0,60,50,BRK,MIL,0,away,Sub,,,,,Z. Pachulia,L. Sanders
+241,3,7:27.0,60,50,BRK,MIL,0,away,Sub,,,,,O. Mayo,K. Middleton
+242,3,7:27.0,60,50,BRK,MIL,0,home,Sub,,,,,M. Teletović,K. Garnett
+243,3,7:27.0,60,51,BRK,MIL,0,away,FreeThrow,,,make1,1,J. Parker,
+244,3,7:18.0,60,51,BRK,MIL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Antetokounmpo,J. Johnson
+245,3,7:16.0,60,51,BRK,MIL,2,home,LostBall,steal,,turnover,,M. Teletović,O. Mayo
+246,3,7:15.0,60,51,BRK,MIL,1,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Teletović,O. Mayo
+247,3,7:03.0,60,51,BRK,MIL,12,away,JS,,22,miss2,0,B. Knight,
+248,3,7:01.0,60,51,BRK,MIL,2,away,OffReb,,,OffReb,,O. Mayo,
+249,3,6:58.0,60,51,BRK,MIL,3,away,LU,block,3,miss2,0,G. Antetokounmpo,B. Lopez
+250,3,6:57.0,60,51,BRK,MIL,1,away,OffReb,,,OffReb,,Z. Pachulia,
+251,3,6:55.0,60,51,BRK,MIL,2,away,LU,,3,miss2,0,Z. Pachulia,
+252,3,6:54.0,60,51,BRK,MIL,1,away,OffReb,,,OffReb,,G. Antetokounmpo,
+253,3,6:51.0,60,53,BRK,MIL,3,away,LU,,2,make2,2,G. Antetokounmpo,
+254,3,6:35.0,60,53,BRK,MIL,16,home,JS,,14,miss2,0,D. Williams,
+255,3,6:34.0,60,53,BRK,MIL,1,away,DefReb,,,DefReb,,J. Parker,
+256,3,6:31.0,60,53,BRK,MIL,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Bogdanović,O. Mayo
+257,3,6:22.0,60,55,BRK,MIL,9,away,DK,assist,0,make2,2,J. Parker,Z. Pachulia
+258,3,5:59.0,60,55,BRK,MIL,23,home,JS,,25,miss3,0,M. Teletović,
+259,3,5:58.0,60,55,BRK,MIL,1,home,OffReb,,,OffReb,,D. Williams,
+260,3,5:52.0,60,55,BRK,MIL,6,home,JS,,23,miss3,0,B. Bogdanović,
+261,3,5:51.0,60,55,BRK,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+262,3,5:42.0,60,57,BRK,MIL,9,away,LU,,2,make2,2,B. Knight,
+263,3,5:42.0,60,57,BRK,MIL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Williams,B. Knight
+264,3,5:42.0,60,57,BRK,MIL,0,home,Timeout,,,,,,
+265,3,5:42.0,60,57,BRK,MIL,0,home,Sub,,,,,J. Jack,B. Bogdanović
+266,3,5:42.0,60,58,BRK,MIL,0,away,FreeThrow,,,make1,1,B. Knight,
+267,3,5:19.0,62,58,BRK,MIL,23,home,LU,assist,1,make2,2,M. Teletović,D. Williams
+268,3,5:04.0,62,58,BRK,MIL,15,away,JS,,5,miss2,0,J. Parker,
+269,3,5:01.0,62,58,BRK,MIL,3,away,OffReb,,,OffReb,,Z. Pachulia,
+270,3,4:37.0,62,58,BRK,MIL,24,away,HS,,5,miss2,0,Z. Pachulia,
+271,3,4:37.0,62,58,BRK,MIL,0,home,DefReb,,,DefReb,,J. Jack,
+272,3,4:27.0,62,58,BRK,MIL,10,home,JS,,7,miss2,0,J. Jack,
+273,3,4:26.0,62,58,BRK,MIL,1,home,OffReb,,,OffReb,,B. Lopez,
+274,3,4:25.0,64,58,BRK,MIL,1,home,LU,,2,make2,2,B. Lopez,
+275,3,4:07.0,64,58,BRK,MIL,18,away,JS,,25,miss3,0,O. Mayo,
+276,3,4:06.0,64,58,BRK,MIL,1,home,DefReb,,,DefReb,,M. Teletović,
+277,3,4:01.0,64,58,BRK,MIL,5,home,BadPass,steal,,turnover,,J. Jack,G. Antetokounmpo
+278,3,3:59.0,64,60,BRK,MIL,2,away,DK,assist,0,make2,2,O. Mayo,G. Antetokounmpo
+279,3,3:38.0,66,60,BRK,MIL,21,home,JS,assist,22,make2,2,M. Teletović,J. Johnson
+280,3,3:22.0,66,62,BRK,MIL,16,away,JS,assist,15,make2,2,Z. Pachulia,B. Knight
+281,3,3:11.0,66,62,BRK,MIL,11,home,BadPass,steal,,turnover,,J. Johnson,G. Antetokounmpo
+282,3,3:08.0,66,62,BRK,MIL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Williams,J. Parker
+283,3,3:08.0,66,62,BRK,MIL,0,away,FreeThrow,,,make1,0,J. Parker,
+284,3,3:08.0,66,62,BRK,MIL,0,away,OffReb,,,OffReb,,Team,
+285,3,3:08.0,66,62,BRK,MIL,0,home,Sub,,,,,B. Bogdanović,D. Williams
+286,3,3:08.0,66,62,BRK,MIL,0,away,FreeThrow,,,make1,0,J. Parker,
+287,3,3:07.0,66,62,BRK,MIL,1,home,DefReb,,,DefReb,,B. Lopez,
+288,3,2:54.0,66,62,BRK,MIL,13,home,JS,,25,miss3,0,M. Teletović,
+289,3,2:53.0,66,62,BRK,MIL,1,home,OffReb,,,OffReb,,B. Bogdanović,
+290,3,2:48.0,66,62,BRK,MIL,5,home,JS,,5,miss2,0,B. Lopez,
+291,3,2:47.0,66,62,BRK,MIL,1,away,DefReb,,,DefReb,,O. Mayo,
+292,3,2:35.0,66,62,BRK,MIL,12,away,JS,,26,miss3,0,B. Knight,
+293,3,2:34.0,66,62,BRK,MIL,1,home,DefReb,,,DefReb,,B. Lopez,
+294,3,2:30.0,66,62,BRK,MIL,4,home,Timeout,,,,,,
+295,3,2:30.0,66,62,BRK,MIL,0,away,Timeout,,,,,,
+296,3,2:30.0,66,62,BRK,MIL,0,away,Sub,,,,,J. Bayless,B. Knight
+297,3,2:18.0,66,62,BRK,MIL,12,home,JS,,24,miss3,0,J. Jack,
+298,3,2:17.0,66,62,BRK,MIL,1,away,DefReb,,,DefReb,,J. Parker,
+299,3,2:00.0,66,62,BRK,MIL,17,away,JS,,20,miss2,0,G. Antetokounmpo,
+300,3,1:59.0,66,62,BRK,MIL,1,home,DefReb,,,DefReb,,M. Teletović,
+301,3,1:44.0,69,62,BRK,MIL,15,home,JS,assist,25,make3,3,M. Teletović,B. Lopez
+302,3,1:17.0,69,64,BRK,MIL,27,away,HS,,10,make2,2,G. Antetokounmpo,
+303,3,1:00.0,71,64,BRK,MIL,17,home,JS,,16,make2,2,B. Lopez,
+304,3,0:44.0,71,66,BRK,MIL,16,away,LU,,2,make2,2,G. Antetokounmpo,
+305,3,0:35.0,71,66,BRK,MIL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Parker,M. Teletović
+306,3,0:35.0,71,66,BRK,MIL,0,home,FreeThrow,,,make1,0,M. Teletović,
+307,3,0:35.0,71,66,BRK,MIL,0,home,OffReb,,,OffReb,,Team,
+308,3,0:35.0,71,66,BRK,MIL,0,home,Sub,,,,,M. Plumlee,B. Lopez
+309,3,0:35.0,71,66,BRK,MIL,0,home,Sub,,,,,A. Anderson,J. Johnson
+310,3,0:35.0,71,66,BRK,MIL,0,away,Sub,,,,,E. İlyasova,J. Parker
+311,3,0:35.0,72,66,BRK,MIL,0,home,FreeThrow,,,make1,1,M. Teletović,
+312,3,0:13.0,72,69,BRK,MIL,22,away,JS,,25,make3,3,O. Mayo,
+313,3,0:01.0,72,69,BRK,MIL,12,home,JS,,13,miss2,0,B. Bogdanović,
+314,3,0:00.0,72,69,BRK,MIL,1,away,DefReb,,,DefReb,,Z. Pachulia,
+315,4,11:46.0,72,72,BRK,MIL,14,away,JS,assist,24,make3,3,O. Mayo,J. Dudley
+316,4,11:24.0,72,72,BRK,MIL,22,home,JS,,24,miss3,0,M. Teletović,
+317,4,11:23.0,72,72,BRK,MIL,1,away,DefReb,,,DefReb,,J. Dudley,
+318,4,11:17.0,72,72,BRK,MIL,6,away,JS,,25,miss3,0,O. Mayo,
+319,4,11:16.0,72,72,BRK,MIL,1,home,DefReb,,,DefReb,,J. Jack,
+320,4,11:08.0,75,72,BRK,MIL,8,home,JS,assist,24,make3,3,D. Williams,M. Teletović
+321,4,10:51.0,75,74,BRK,MIL,17,away,JS,assist,17,make2,2,E. İlyasova,J. Dudley
+322,4,10:37.0,75,74,BRK,MIL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. İlyasova,D. Williams
+323,4,10:31.0,75,74,BRK,MIL,6,home,BadPass,steal,,turnover,,J. Jack,E. İlyasova
+324,4,10:23.0,75,76,BRK,MIL,8,away,JS,,21,make2,2,E. İlyasova,
+325,4,10:03.0,75,76,BRK,MIL,20,home,LU,,1,miss2,0,M. Plumlee,
+326,4,10:02.0,75,76,BRK,MIL,1,away,DefReb,,,DefReb,,O. Mayo,
+327,4,9:58.0,75,76,BRK,MIL,4,home,KickBallViolation,,,KickBallViolation,,J. Jack,
+328,4,9:51.0,75,76,BRK,MIL,7,away,JS,,23,miss3,0,J. Dudley,
+329,4,9:49.0,75,76,BRK,MIL,2,home,DefReb,,,DefReb,,M. Plumlee,
+330,4,9:26.0,75,76,BRK,MIL,23,home,JS,,25,miss3,0,A. Anderson,
+331,4,9:25.0,75,76,BRK,MIL,1,away,DefReb,,,DefReb,,E. İlyasova,
+332,4,9:20.0,75,76,BRK,MIL,5,away,JS,,22,miss2,0,O. Mayo,
+333,4,9:19.0,75,76,BRK,MIL,1,home,DefReb,,,DefReb,,M. Plumlee,
+334,4,9:19.0,75,76,BRK,MIL,0,home,Timeout,,,,,,
+335,4,9:03.0,75,76,BRK,MIL,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,Z. Pachulia,M. Teletović
+336,4,9:03.0,76,76,BRK,MIL,0,home,FreeThrow,,,make1,1,M. Teletović,
+337,4,9:03.0,77,76,BRK,MIL,0,home,FreeThrow,,,make1,1,M. Teletović,
+338,4,8:56.0,77,76,BRK,MIL,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Teletović,E. İlyasova
+339,4,8:48.0,77,76,BRK,MIL,8,away,LostBall,steal,,turnover,,Z. Pachulia,M. Plumlee
+340,4,8:39.0,77,76,BRK,MIL,9,home,BadPass,steal,,turnover,,D. Williams,E. İlyasova
+341,4,8:35.0,77,78,BRK,MIL,4,away,LU,assist,2,make2,2,J. Bayless,O. Mayo
+342,4,8:22.0,79,78,BRK,MIL,13,home,LU,assist,2,make2,2,M. Teletović,D. Williams
+343,4,8:22.0,79,78,BRK,MIL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Bayless,M. Teletović
+344,4,8:22.0,79,78,BRK,MIL,0,away,Sub,,,,,J. Henson,Z. Pachulia
+345,4,8:22.0,80,78,BRK,MIL,0,home,FreeThrow,,,make1,1,M. Teletović,
+346,4,8:05.0,80,78,BRK,MIL,17,away,JS,,15,miss2,0,E. İlyasova,
+347,4,8:04.0,80,78,BRK,MIL,1,home,DefReb,,,DefReb,,Team,
+348,4,7:43.0,80,78,BRK,MIL,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Bayless,D. Williams
+349,4,7:43.0,81,78,BRK,MIL,0,home,FreeThrow,,,make1,1,D. Williams,
+350,4,7:43.0,81,78,BRK,MIL,0,home,FreeThrow,,,make1,0,D. Williams,
+351,4,7:43.0,81,78,BRK,MIL,0,away,DefReb,,,DefReb,,Team,
+352,4,7:43.0,81,78,BRK,MIL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Plumlee,E. İlyasova
+353,4,7:34.0,81,78,BRK,MIL,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Anderson,J. Dudley
+354,4,7:34.0,81,78,BRK,MIL,0,away,Sub,,,,,K. Middleton,J. Dudley
+355,4,7:34.0,81,78,BRK,MIL,0,away,Sub,,,,,B. Knight,J. Bayless
+356,4,7:34.0,81,78,BRK,MIL,0,home,Sub,,,,,B. Lopez,M. Plumlee
+357,4,7:34.0,81,78,BRK,MIL,0,home,Sub,,,,,J. Johnson,A. Anderson
+358,4,7:18.0,81,78,BRK,MIL,16,away,ShotClockViolation,,,turnover,,Team,
+359,4,6:58.0,81,78,BRK,MIL,20,home,JS,,14,miss2,0,J. Johnson,
+360,4,6:57.0,81,78,BRK,MIL,1,away,DefReb,,,DefReb,,E. İlyasova,
+361,4,6:47.0,81,78,BRK,MIL,10,away,JS,,5,miss2,0,B. Knight,
+362,4,6:46.0,81,78,BRK,MIL,1,away,OffReb,,,OffReb,,E. İlyasova,
+363,4,6:45.0,81,80,BRK,MIL,1,away,LU,,1,make2,2,E. İlyasova,
+364,4,6:26.0,83,80,BRK,MIL,19,home,JS,assist,7,make2,2,D. Williams,B. Lopez
+365,4,6:05.0,83,82,BRK,MIL,21,away,JS,assist,19,make2,2,O. Mayo,J. Henson
+366,4,5:52.0,83,82,BRK,MIL,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,O. Mayo,J. Jack
+367,4,5:52.0,83,82,BRK,MIL,0,away,Timeout,,,,,,
+368,4,5:52.0,83,82,BRK,MIL,0,home,Sub,,,,,K. Garnett,M. Teletović
+369,4,5:52.0,83,82,BRK,MIL,0,home,FreeThrow,,,make1,0,J. Jack,
+370,4,5:52.0,83,82,BRK,MIL,0,home,OffReb,,,OffReb,,Team,
+371,4,5:52.0,84,82,BRK,MIL,0,home,FreeThrow,,,make1,1,J. Jack,
+372,4,5:38.0,84,85,BRK,MIL,14,away,JS,assist,23,make3,3,O. Mayo,B. Knight
+373,4,5:16.0,87,85,BRK,MIL,22,home,JS,assist,23,make3,3,D. Williams,J. Johnson
+374,4,4:52.0,87,87,BRK,MIL,24,away,HS,assist,5,make2,2,J. Henson,B. Knight
+375,4,4:36.0,87,87,BRK,MIL,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Middleton,J. Johnson
+376,4,4:36.0,88,87,BRK,MIL,0,home,FreeThrow,,,make1,1,J. Johnson,
+377,4,4:36.0,88,87,BRK,MIL,0,home,Sub,,,,,B. Bogdanović,J. Jack
+378,4,4:36.0,89,87,BRK,MIL,0,home,FreeThrow,,,make1,1,J. Johnson,
+379,4,4:22.0,89,87,BRK,MIL,14,away,JS,,26,miss3,0,B. Knight,
+380,4,4:21.0,89,87,BRK,MIL,1,home,DefReb,,,DefReb,,B. Bogdanović,
+381,4,3:57.0,89,87,BRK,MIL,24,home,JS,,16,miss2,0,J. Johnson,
+382,4,3:56.0,89,87,BRK,MIL,1,away,DefReb,,,DefReb,,O. Mayo,
+383,4,3:44.0,89,87,BRK,MIL,12,away,JS,,21,miss2,0,E. İlyasova,
+384,4,3:43.0,89,87,BRK,MIL,1,away,OffReb,,,OffReb,,J. Henson,
+385,4,3:37.0,89,87,BRK,MIL,6,away,LostBall,steal,,turnover,,B. Knight,D. Williams
+386,4,3:34.0,89,87,BRK,MIL,3,away,DefGoaltending,,,DefGoaltending,,B. Knight,
+387,4,3:34.0,91,87,BRK,MIL,0,home,LU,,2,make2,2,D. Williams,
+388,4,3:34.0,91,87,BRK,MIL,0,away,Timeout,,,,,,
+389,4,3:34.0,91,87,BRK,MIL,0,away,Sub,,,,,G. Antetokounmpo,E. İlyasova
+390,4,3:21.0,91,87,BRK,MIL,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Garnett,B. Knight
+391,4,3:21.0,91,88,BRK,MIL,0,away,FreeThrow,,,make1,1,B. Knight,
+392,4,3:21.0,91,88,BRK,MIL,0,away,Sub,,,,,J. Parker,K. Middleton
+393,4,3:21.0,91,89,BRK,MIL,0,away,FreeThrow,,,make1,1,B. Knight,
+394,4,3:04.0,93,89,BRK,MIL,17,home,LU,assist,1,make2,2,B. Lopez,J. Johnson
+395,4,2:43.0,93,91,BRK,MIL,21,away,LU,,2,make2,2,J. Henson,
+396,4,2:20.0,93,91,BRK,MIL,23,home,LU,block,1,miss2,0,B. Lopez,J. Henson
+397,4,2:19.0,93,91,BRK,MIL,1,home,OffReb,,,OffReb,,B. Bogdanović,
+398,4,2:16.0,93,91,BRK,MIL,3,home,ShotClockViolation,,,turnover,,Team,
+399,4,2:03.0,93,91,BRK,MIL,13,away,JS,,20,miss2,0,O. Mayo,
+400,4,2:02.0,93,91,BRK,MIL,1,away,OffReb,,,OffReb,,J. Parker,
+401,4,2:00.0,93,93,BRK,MIL,2,away,LU,,2,make2,2,J. Parker,
+402,4,1:45.0,93,93,BRK,MIL,15,home,JS,,23,miss3,0,D. Williams,
+403,4,1:43.0,93,93,BRK,MIL,2,home,OffReb,,,OffReb,,K. Garnett,
+404,4,1:32.0,93,93,BRK,MIL,11,home,JS,,20,miss2,0,K. Garnett,
+405,4,1:31.0,93,93,BRK,MIL,1,away,DefReb,,,DefReb,,J. Parker,
+406,4,1:26.0,93,93,BRK,MIL,5,away,OffensiveFoul,,,turnover,,J. Henson,
+407,4,1:26.0,93,93,BRK,MIL,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Henson,D. Williams
+408,4,1:26.0,93,93,BRK,MIL,0,home,Timeout,,,,,,
+409,4,1:16.0,93,93,BRK,MIL,10,home,JS,,5,miss2,0,J. Johnson,
+410,4,1:15.0,93,93,BRK,MIL,1,home,OffReb,,,OffReb,,B. Lopez,
+411,4,1:14.0,95,93,BRK,MIL,1,home,DK,,0,make2,2,B. Lopez,
+412,4,0:55.0,95,93,BRK,MIL,19,away,Traveling,,,turnover,,G. Antetokounmpo,
+413,4,0:34.0,95,93,BRK,MIL,21,home,JS,,24,miss3,0,D. Williams,
+414,4,0:33.0,95,93,BRK,MIL,1,away,DefReb,,,DefReb,,O. Mayo,
+415,4,0:30.0,95,95,BRK,MIL,3,away,LU,,1,make2,2,O. Mayo,
+416,4,0:06.0,95,95,BRK,MIL,24,home,JS,,25,miss3,0,K. Garnett,
+417,4,0:05.0,95,95,BRK,MIL,1,away,DefReb,,,DefReb,,B. Knight,
+418,4,0:05.0,95,95,BRK,MIL,0,away,Timeout,,,,,,
+419,4,0:05.0,95,95,BRK,MIL,0,away,Sub,,,,,E. İlyasova,J. Parker
+420,4,0:05.0,95,95,BRK,MIL,0,away,Sub,,,,,K. Middleton,J. Henson
+421,4,0:05.0,95,95,BRK,MIL,0,home,Sub,,,,,A. Anderson,B. Lopez
+422,4,0:00.0,95,95,BRK,MIL,5,away,JS,,4,miss2,0,O. Mayo,
+423,4,0:00.0,95,95,BRK,MIL,0,away,OffReb,,,OffReb,,Team,
+424,1OT,4:36.0,98,95,BRK,MIL,444,home,JS,assist,25,make3,3,B. Bogdanović,J. Johnson
+425,1OT,4:18.0,98,95,BRK,MIL,18,away,JS,,25,miss3,0,O. Mayo,
+426,1OT,4:17.0,98,95,BRK,MIL,1,home,DefReb,,,DefReb,,J. Johnson,
+427,1OT,4:04.0,98,95,BRK,MIL,13,home,BadPass,steal,,turnover,,B. Lopez,B. Knight
+428,1OT,3:54.0,98,95,BRK,MIL,10,away,LU,,3,miss2,0,J. Parker,
+429,1OT,3:53.0,98,95,BRK,MIL,1,away,OffReb,,,OffReb,,Team,
+430,1OT,3:53.0,98,95,BRK,MIL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Johnson,J. Parker
+431,1OT,3:40.0,98,97,BRK,MIL,13,away,HS,,4,make2,2,Z. Pachulia,
+432,1OT,3:34.0,98,97,BRK,MIL,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,O. Mayo,B. Bogdanović
+433,1OT,3:25.0,100,97,BRK,MIL,9,home,HS,,10,make2,2,B. Lopez,
+434,1OT,3:08.0,100,97,BRK,MIL,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Lopez,J. Parker
+435,1OT,3:08.0,100,98,BRK,MIL,0,away,FreeThrow,,,make1,1,J. Parker,
+436,1OT,3:08.0,100,99,BRK,MIL,0,away,FreeThrow,,,make1,1,J. Parker,
+437,1OT,2:57.0,100,99,BRK,MIL,11,home,BadPass,steal,,turnover,,D. Williams,J. Parker
+438,1OT,2:51.0,100,101,BRK,MIL,6,away,LU,assist,2,make2,2,G. Antetokounmpo,J. Parker
+439,1OT,2:30.0,102,101,BRK,MIL,21,home,JS,,10,make2,2,J. Johnson,
+440,1OT,2:30.0,102,101,BRK,MIL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Antetokounmpo,J. Johnson
+441,1OT,2:30.0,103,101,BRK,MIL,0,home,FreeThrow,,,make1,1,J. Johnson,
+442,1OT,2:18.0,103,101,BRK,MIL,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Johnson,G. Antetokounmpo
+443,1OT,2:07.0,103,103,BRK,MIL,11,away,LU,assist,3,make2,2,J. Parker,B. Knight
+444,1OT,1:55.0,103,103,BRK,MIL,12,home,BadPass,,,turnover,,D. Williams,
+445,1OT,1:35.0,103,103,BRK,MIL,20,away,LU,block,2,miss2,0,Z. Pachulia,B. Lopez
+446,1OT,1:34.0,103,103,BRK,MIL,1,home,DefReb,,,DefReb,,J. Johnson,
+447,1OT,1:21.0,103,103,BRK,MIL,13,home,JS,,24,miss3,0,B. Bogdanović,
+448,1OT,1:20.0,103,103,BRK,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+449,1OT,0:58.0,103,103,BRK,MIL,22,away,LU,,3,miss2,0,Z. Pachulia,
+450,1OT,0:57.0,103,103,BRK,MIL,1,home,DefReb,,,DefReb,,K. Garnett,
+451,1OT,0:54.0,103,103,BRK,MIL,3,home,Timeout,,,,,,
+452,1OT,0:42.0,105,103,BRK,MIL,12,home,JS,,11,make2,2,J. Johnson,
+453,1OT,0:33.0,105,103,BRK,MIL,9,away,LU,block,2,miss2,0,B. Knight,B. Lopez
+454,1OT,0:31.0,105,103,BRK,MIL,2,away,OffReb,,,OffReb,,Team,
+455,1OT,0:31.0,105,103,BRK,MIL,0,away,Timeout,,,,,,
+456,1OT,0:21.0,105,103,BRK,MIL,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Williams,O. Mayo
+457,1OT,0:21.0,105,104,BRK,MIL,0,away,FreeThrow,,,make1,1,O. Mayo,
+458,1OT,0:21.0,105,105,BRK,MIL,0,away,FreeThrow,,,make1,1,O. Mayo,
+459,1OT,0:21.0,105,105,BRK,MIL,0,home,Timeout,,,,,,
+460,1OT,0:21.0,105,105,BRK,MIL,0,home,Sub,,,,,M. Teletović,K. Garnett
+461,1OT,0:03.0,105,105,BRK,MIL,18,home,BadPass,steal,,turnover,,J. Johnson,B. Knight
+462,1OT,0:01.0,105,105,BRK,MIL,2,away,LU,,2,miss2,0,B. Knight,
+463,1OT,0:00.0,105,105,BRK,MIL,1,away,OffReb,,,OffReb,,Team,
+464,2OT,4:35.0,105,105,BRK,MIL,445,home,JS,,27,miss3,0,B. Bogdanović,
+465,2OT,4:34.0,105,105,BRK,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+466,2OT,4:18.0,105,107,BRK,MIL,16,away,JS,assist,6,make2,2,O. Mayo,B. Knight
+467,2OT,3:59.0,105,107,BRK,MIL,19,home,JS,,23,miss2,0,D. Williams,
+468,2OT,3:58.0,105,107,BRK,MIL,1,home,OffReb,,,OffReb,,B. Bogdanović,
+469,2OT,3:57.0,107,107,BRK,MIL,1,home,LU,,1,make2,2,B. Bogdanović,
+470,2OT,3:43.0,107,107,BRK,MIL,14,away,BadPass,steal,,turnover,,J. Parker,B. Lopez
+471,2OT,3:42.0,107,107,BRK,MIL,1,home,BadPass,,,turnover,,B. Lopez,
+472,2OT,3:42.0,107,107,BRK,MIL,0,home,Sub,,,,,J. Jack,M. Teletović
+473,2OT,3:26.0,107,107,BRK,MIL,16,away,JS,,27,miss3,0,B. Knight,
+474,2OT,3:25.0,107,107,BRK,MIL,1,home,DefReb,,,DefReb,,B. Bogdanović,
+475,2OT,3:04.0,107,107,BRK,MIL,21,home,JS,,18,miss2,0,J. Johnson,
+476,2OT,3:03.0,107,107,BRK,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+477,2OT,2:58.0,107,107,BRK,MIL,5,away,Timeout,,,,,,
+478,2OT,2:45.0,107,107,BRK,MIL,13,away,JS,,19,miss2,0,Z. Pachulia,
+479,2OT,2:44.0,107,107,BRK,MIL,1,home,DefReb,,,DefReb,,B. Lopez,
+480,2OT,2:34.0,107,107,BRK,MIL,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Pachulia,B. Lopez
+481,2OT,2:26.0,107,107,BRK,MIL,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Antetokounmpo,B. Bogdanović
+482,2OT,2:26.0,107,107,BRK,MIL,0,home,FreeThrow,,,make1,0,B. Bogdanović,
+483,2OT,2:26.0,107,107,BRK,MIL,0,home,OffReb,,,OffReb,,Team,
+484,2OT,2:26.0,108,107,BRK,MIL,0,home,FreeThrow,,,make1,1,B. Bogdanović,
+485,2OT,2:11.0,108,107,BRK,MIL,15,away,JS,,24,miss3,0,G. Antetokounmpo,
+486,2OT,2:10.0,108,107,BRK,MIL,1,home,DefReb,,,DefReb,,J. Jack,
+487,2OT,1:56.0,110,107,BRK,MIL,14,home,JS,,6,make2,2,B. Lopez,
+488,2OT,1:39.0,110,107,BRK,MIL,17,away,JS,,25,miss3,0,B. Knight,
+489,2OT,1:38.0,110,107,BRK,MIL,1,home,DefReb,,,DefReb,,J. Jack,
+490,2OT,1:21.0,110,107,BRK,MIL,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Pachulia,B. Lopez
+491,2OT,1:07.0,110,107,BRK,MIL,14,home,JS,,14,miss2,0,B. Lopez,
+492,2OT,1:06.0,110,107,BRK,MIL,1,home,OffReb,,,OffReb,,Team,
+493,2OT,0:51.0,110,107,BRK,MIL,15,home,LostBall,steal,,turnover,,B. Lopez,Z. Pachulia
+494,2OT,0:47.0,110,109,BRK,MIL,4,away,LU,,1,make2,2,G. Antetokounmpo,
+495,2OT,0:36.0,110,109,BRK,MIL,11,home,Timeout,,,,,,
+496,2OT,0:24.0,112,109,BRK,MIL,12,home,JS,assist,19,make2,2,J. Jack,D. Williams
+497,2OT,0:24.0,112,109,BRK,MIL,0,away,Timeout,,,,,,
+498,2OT,0:24.0,112,109,BRK,MIL,0,away,Sub,,,,,E. İlyasova,J. Parker
+499,2OT,0:24.0,112,109,BRK,MIL,0,home,Sub,,,,,K. Garnett,B. Lopez
+500,2OT,0:20.0,112,112,BRK,MIL,4,away,JS,assist,24,make3,3,B. Knight,E. İlyasova
+501,2OT,0:20.0,112,112,BRK,MIL,0,home,Timeout,,,,,,
+502,2OT,0:20.0,112,112,BRK,MIL,0,away,Sub,,,,,J. Parker,E. İlyasova
+503,2OT,0:20.0,112,112,BRK,MIL,0,home,Sub,,,,,B. Lopez,K. Garnett
+504,2OT,0:01.0,112,112,BRK,MIL,19,home,JS,,12,miss2,0,J. Johnson,
+505,2OT,0:00.0,112,112,BRK,MIL,1,home,OffReb,,,OffReb,,Team,
+506,3OT,4:41.0,112,114,BRK,MIL,439,away,JS,assist,7,make2,2,E. İlyasova,K. Middleton
+507,3OT,4:26.0,112,114,BRK,MIL,15,home,LU,block,1,miss2,0,B. Lopez,J. Henson
+508,3OT,4:24.0,112,114,BRK,MIL,2,away,DefReb,,,DefReb,,Team,
+509,3OT,4:12.0,112,114,BRK,MIL,12,away,HS,,6,miss2,0,J. Henson,
+510,3OT,4:12.0,112,114,BRK,MIL,0,away,OffReb,,,OffReb,,Team,
+511,3OT,4:12.0,112,114,BRK,MIL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Teletović,E. İlyasova
+512,3OT,3:57.0,112,116,BRK,MIL,15,away,JS,assist,4,make2,2,E. İlyasova,G. Antetokounmpo
+513,3OT,3:31.0,112,116,BRK,MIL,26,home,ShotClockViolation,,,turnover,,Team,
+514,3OT,3:31.0,112,116,BRK,MIL,0,home,Sub,,,,,J. Jack,M. Teletović
+515,3OT,3:31.0,112,116,BRK,MIL,0,home,Sub,,,,,K. Garnett,B. Lopez
+516,3OT,3:14.0,112,116,BRK,MIL,17,away,JS,,15,miss2,0,B. Knight,
+517,3OT,3:13.0,112,116,BRK,MIL,1,home,DefReb,,,DefReb,,K. Garnett,
+518,3OT,2:57.0,115,116,BRK,MIL,16,home,JS,assist,25,make3,3,B. Bogdanović,K. Garnett
+519,3OT,2:41.0,115,118,BRK,MIL,16,away,JS,assist,12,make2,2,K. Middleton,B. Knight
+520,3OT,2:23.0,115,118,BRK,MIL,18,home,LU,block,1,miss2,0,J. Jack,J. Henson
+521,3OT,2:21.0,115,118,BRK,MIL,2,away,DefReb,,,DefReb,,B. Knight,
+522,3OT,2:04.0,115,118,BRK,MIL,17,away,JS,,25,miss3,0,B. Knight,
+523,3OT,2:03.0,115,118,BRK,MIL,1,home,DefReb,,,DefReb,,B. Bogdanović,
+524,3OT,1:52.0,115,118,BRK,MIL,11,home,JS,,11,miss2,0,D. Williams,
+525,3OT,1:51.0,115,118,BRK,MIL,1,away,DefReb,,,DefReb,,J. Henson,
+526,3OT,1:44.0,115,118,BRK,MIL,7,away,Timeout,,,,,,
+527,3OT,1:44.0,115,118,BRK,MIL,0,away,Sub,,,,,Z. Pachulia,J. Henson
+528,3OT,1:32.0,115,120,BRK,MIL,12,away,JS,assist,14,make2,2,K. Middleton,B. Knight
+529,3OT,1:18.0,115,120,BRK,MIL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Middleton,K. Garnett
+530,3OT,1:06.0,115,120,BRK,MIL,12,home,JS,,23,miss3,0,B. Bogdanović,
+531,3OT,1:05.0,115,120,BRK,MIL,1,home,OffReb,,,OffReb,,K. Garnett,
+532,3OT,0:57.0,118,120,BRK,MIL,8,home,JS,assist,26,make3,3,D. Williams,J. Jack
+533,3OT,0:39.0,118,120,BRK,MIL,18,away,JS,,21,miss2,0,K. Middleton,
+534,3OT,0:38.0,118,120,BRK,MIL,1,home,DefReb,,,DefReb,,J. Johnson,
+535,3OT,0:20.0,118,120,BRK,MIL,18,home,JS,,24,miss3,0,B. Bogdanović,
+536,3OT,0:19.0,118,120,BRK,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+537,3OT,0:17.0,118,120,BRK,MIL,2,away,Timeout,,,,,,
+538,3OT,0:17.0,118,120,BRK,MIL,0,home,Sub,,,,,A. Anderson,D. Williams
+539,3OT,0:17.0,118,120,BRK,MIL,0,home,Sub,,,,,M. Teletović,K. Garnett
+540,3OT,0:17.0,118,120,BRK,MIL,0,away,Timeout,,,,,,
+541,3OT,0:17.0,118,120,BRK,MIL,0,away,Sub,,,,,O. Mayo,G. Antetokounmpo
+542,3OT,0:16.0,118,120,BRK,MIL,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jack,K. Middleton
+543,3OT,0:16.0,118,120,BRK,MIL,0,home,Timeout,,,,,,
+544,3OT,0:16.0,118,120,BRK,MIL,0,home,Sub,,,,,D. Williams,A. Anderson
+545,3OT,0:16.0,118,120,BRK,MIL,0,away,Sub,,,,,G. Antetokounmpo,Z. Pachulia
+546,3OT,0:08.0,118,120,BRK,MIL,8,home,JS,,16,miss2,0,J. Johnson,
+547,3OT,0:07.0,118,120,BRK,MIL,1,away,DefReb,,,DefReb,,E. İlyasova,
+548,3OT,0:06.0,118,120,BRK,MIL,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Teletović,B. Knight
+549,3OT,0:06.0,118,121,BRK,MIL,0,away,FreeThrow,,,make1,1,B. Knight,
+550,3OT,0:06.0,118,121,BRK,MIL,0,home,Sub,,,,,K. Garnett,J. Johnson
+551,3OT,0:06.0,118,121,BRK,MIL,0,home,Sub,,,,,B. Lopez,M. Teletović
+552,3OT,0:06.0,118,122,BRK,MIL,0,away,FreeThrow,,,make1,1,B. Knight,
+553,3OT,0:06.0,118,122,BRK,MIL,0,home,Timeout,,,,,,
+554,3OT,0:06.0,118,122,BRK,MIL,0,home,Sub,,,,,J. Johnson,K. Garnett
+555,3OT,0:02.0,118,122,BRK,MIL,4,home,JS,,24,miss3,0,J. Jack,
+556,3OT,0:00.0,118,122,BRK,MIL,2,away,DefReb,,,DefReb,,G. Antetokounmpo,

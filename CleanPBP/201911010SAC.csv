@@ -1,0 +1,439 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:39.0,0,0,SAC,UTA,21,home,LU,,3,miss2,0,H. Barnes,
+1,1,11:37.0,0,0,SAC,UTA,2,home,OffReb,,,OffReb,,H. Barnes,
+2,1,11:34.0,2,0,SAC,UTA,3,home,JS,assist,17,make2,2,B. Hield,H. Barnes
+3,1,11:21.0,2,2,SAC,UTA,13,away,LU,assist,5,make2,2,R. O'Neale,M. Conley
+4,1,11:20.0,2,2,SAC,UTA,1,home,inboundTurnover,,,turnover,,R. Holmes,
+5,1,11:15.0,2,2,SAC,UTA,5,away,JS,,20,miss2,0,D. Mitchell,
+6,1,11:09.0,2,2,SAC,UTA,6,home,DefReb,,,DefReb,,N. Bjelica,
+7,1,11:04.0,2,2,SAC,UTA,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. O'Neale,D. Fox
+8,1,11:04.0,3,2,SAC,UTA,0,home,FreeThrow,,,make1,1,D. Fox,
+9,1,11:04.0,4,2,SAC,UTA,0,home,FreeThrow,,,make1,1,D. Fox,
+10,1,10:47.0,4,4,SAC,UTA,17,away,LU,,8,make2,2,M. Conley,
+11,1,10:24.0,4,4,SAC,UTA,23,home,bad pass,steal,,turnover,,D. Fox,R. O'Neale
+12,1,10:20.0,4,4,SAC,UTA,4,away,LU,,5,miss2,0,D. Mitchell,
+13,1,10:17.0,4,4,SAC,UTA,3,home,DefReb,,,DefReb,,N. Bjelica,
+14,1,10:04.0,4,4,SAC,UTA,13,home,JS,,11,miss2,0,R. Holmes,
+15,1,10:04.0,4,4,SAC,UTA,0,away,DefReb,,,DefReb,,B. Bogdanović,
+16,1,9:51.0,4,4,SAC,UTA,13,away,JS,,25,miss3,0,D. Mitchell,
+17,1,9:51.0,4,4,SAC,UTA,0,home,DefReb,,,DefReb,,Team,
+18,1,9:41.0,6,4,SAC,UTA,10,home,LU,,4,make2,2,D. Fox,
+19,1,9:27.0,6,4,SAC,UTA,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Holmes,R. Gobert
+20,1,9:20.0,6,6,SAC,UTA,7,away,LU,assist,2,make2,2,B. Bogdanović,M. Conley
+21,1,9:09.0,6,6,SAC,UTA,11,home,bad pass,steal,,turnover,,B. Hield,M. Conley
+22,1,9:04.0,6,6,SAC,UTA,5,away,BadPass,,,turnover,,M. Conley,
+23,1,8:46.0,6,6,SAC,UTA,18,home,bad pass,steal,,turnover,,B. Hield,D. Mitchell
+24,1,8:31.0,6,6,SAC,UTA,15,away,JS,,25,miss3,0,M. Conley,
+25,1,8:28.0,6,6,SAC,UTA,3,away,OffReb,,,OffReb,,R. Gobert,
+26,1,8:26.0,6,6,SAC,UTA,2,away,lost ball,steal,,turnover,,R. Gobert,R. Holmes
+27,1,8:22.0,8,6,SAC,UTA,4,home,LU,,5,make2,2,D. Fox,
+28,1,8:22.0,8,6,SAC,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Bogdanović,D. Fox
+29,1,8:22.0,9,6,SAC,UTA,0,home,FreeThrow,,,make1,1,D. Fox,
+30,1,8:12.0,9,6,SAC,UTA,10,away,JS,,25,miss3,0,M. Conley,
+31,1,8:10.0,9,6,SAC,UTA,2,away,OffReb,,,OffReb,,R. Gobert,
+32,1,8:07.0,9,6,SAC,UTA,3,away,LU,,2,miss2,0,R. Gobert,
+33,1,8:07.0,9,6,SAC,UTA,0,home,DefReb,,,DefReb,,N. Bjelica,
+34,1,7:59.0,9,6,SAC,UTA,8,home,JS,,26,miss3,0,N. Bjelica,
+35,1,7:57.0,9,6,SAC,UTA,2,away,DefReb,,,DefReb,,B. Bogdanović,
+36,1,7:47.0,9,8,SAC,UTA,10,away,LU,assist,1,make2,2,R. O'Neale,B. Bogdanović
+37,1,7:35.0,9,8,SAC,UTA,12,home,JS,,23,miss3,0,B. Hield,
+38,1,7:31.0,9,8,SAC,UTA,4,away,DefReb,,,DefReb,,D. Mitchell,
+39,1,7:26.0,9,8,SAC,UTA,5,away,LU,,2,miss2,0,B. Bogdanović,
+40,1,7:23.0,9,8,SAC,UTA,3,home,DefReb,,,DefReb,,D. Fox,
+41,1,7:21.0,12,8,SAC,UTA,2,home,JS,assist,24,make3,3,N. Bjelica,B. Hield
+42,1,6:57.0,12,8,SAC,UTA,24,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Holmes,B. Bogdanović
+43,1,6:57.0,12,8,SAC,UTA,0,home,Timeout,,,,,,
+44,1,6:57.0,12,8,SAC,UTA,0,away,Sub,,,,,J. Ingles,D. Mitchell
+45,1,6:57.0,12,8,SAC,UTA,0,home,Sub,,,,,T. Ariza,H. Barnes
+46,1,6:57.0,12,8,SAC,UTA,0,home,Sub,,,,,D. Dedmon,R. Holmes
+47,1,6:57.0,12,9,SAC,UTA,0,away,FreeThrow,,,make1,1,B. Bogdanović,
+48,1,6:57.0,12,10,SAC,UTA,0,away,FreeThrow,,,make1,1,B. Bogdanović,
+49,1,6:41.0,12,10,SAC,UTA,16,home,bad pass,steal,,turnover,,D. Fox,B. Bogdanović
+50,1,6:34.0,12,10,SAC,UTA,7,away,JS,,25,miss3,0,J. Ingles,
+51,1,6:31.0,12,10,SAC,UTA,3,home,DefReb,,,DefReb,,T. Ariza,
+52,1,6:19.0,14,10,SAC,UTA,12,home,JS,,9,make2,2,B. Hield,
+53,1,5:53.0,14,10,SAC,UTA,26,away,LU,,2,miss2,0,B. Bogdanović,
+54,1,5:50.0,14,10,SAC,UTA,3,home,DefReb,,,DefReb,,N. Bjelica,
+55,1,5:45.0,14,10,SAC,UTA,5,home,JS,,25,miss3,0,D. Dedmon,
+56,1,5:41.0,14,10,SAC,UTA,4,away,DefReb,,,DefReb,,R. O'Neale,
+57,1,5:32.0,14,10,SAC,UTA,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Fox,M. Conley
+58,1,5:32.0,14,11,SAC,UTA,0,away,FreeThrow,,,make1,1,M. Conley,
+59,1,5:32.0,14,11,SAC,UTA,0,away,FreeThrow,,,make1,0,M. Conley,
+60,1,5:29.0,14,11,SAC,UTA,3,home,DefReb,,,DefReb,,D. Dedmon,
+61,1,5:10.0,17,11,SAC,UTA,19,home,JS,assist,25,make3,3,N. Bjelica,T. Ariza
+62,1,5:01.0,17,11,SAC,UTA,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Hield,R. Gobert
+63,1,4:50.0,17,11,SAC,UTA,11,away,Traveling,,,turnover,,R. Gobert,
+64,1,4:39.0,19,11,SAC,UTA,11,home,JS,,6,make2,2,D. Fox,
+65,1,4:24.0,19,11,SAC,UTA,15,away,3sec,,,turnover,,R. Gobert,
+66,1,4:14.0,21,11,SAC,UTA,10,home,LU,,3,make2,2,D. Fox,
+67,1,4:12.0,21,11,SAC,UTA,2,away,Timeout,,,,,,
+68,1,4:12.0,21,11,SAC,UTA,0,away,Sub,,,,,J. Green,B. Bogdanović
+69,1,4:12.0,21,11,SAC,UTA,0,away,Sub,,,,,E. Mudiay,M. Conley
+70,1,3:53.0,21,11,SAC,UTA,19,away,Traveling,,,turnover,,E. Mudiay,
+71,1,3:36.0,23,11,SAC,UTA,17,home,JS,,14,make2,2,B. Hield,
+72,1,3:36.0,23,11,SAC,UTA,0,away,Sub,,,,,E. Davis,R. Gobert
+73,1,3:36.0,23,11,SAC,UTA,0,away,Sub,,,,,D. Mitchell,R. O'Neale
+74,1,3:36.0,23,11,SAC,UTA,0,home,Sub,,,,,H. Barnes,N. Bjelica
+75,1,3:11.0,23,13,SAC,UTA,25,away,JS,,7,make2,2,E. Mudiay,
+76,1,2:57.0,23,13,SAC,UTA,14,home,LU,,7,miss2,0,D. Fox,
+77,1,2:53.0,23,13,SAC,UTA,4,away,DefReb,,,DefReb,,J. Ingles,
+78,1,2:44.0,23,16,SAC,UTA,9,away,JS,,25,make3,3,J. Ingles,
+79,1,2:40.0,23,16,SAC,UTA,4,home,Timeout,,,,,,
+80,1,2:40.0,23,16,SAC,UTA,0,home,Sub,,,,,B. Bogdanović,D. Fox
+81,1,2:40.0,23,16,SAC,UTA,0,home,Sub,,,,,C. Joseph,B. Hield
+82,1,2:27.0,23,16,SAC,UTA,13,home,JS,,26,miss3,0,B. Bogdanović,
+83,1,2:24.0,23,16,SAC,UTA,3,home,OffReb,,,OffReb,,D. Dedmon,
+84,1,2:20.0,23,16,SAC,UTA,4,home,JS,,25,miss3,0,C. Joseph,
+85,1,2:20.0,23,16,SAC,UTA,0,away,DefReb,,,DefReb,,Team,
+86,1,2:06.0,23,18,SAC,UTA,14,away,LU,assist,1,make2,2,D. Mitchell,J. Ingles
+87,1,1:55.0,23,18,SAC,UTA,11,home,JS,,26,miss3,0,D. Dedmon,
+88,1,1:51.0,23,18,SAC,UTA,4,away,DefReb,,,DefReb,,E. Davis,
+89,1,1:42.0,23,18,SAC,UTA,9,away,Palming,,,turnover,,E. Mudiay,
+90,1,1:25.0,23,18,SAC,UTA,17,home,JS,block,15,miss2,0,H. Barnes,E. Mudiay
+91,1,1:22.0,23,18,SAC,UTA,3,home,OffReb,,,OffReb,,H. Barnes,
+92,1,1:19.0,23,18,SAC,UTA,3,home,LU,,2,miss2,0,H. Barnes,
+93,1,1:18.0,23,18,SAC,UTA,1,home,OffReb,,,OffReb,,Team,
+94,1,1:18.0,23,18,SAC,UTA,0,home,ShotClockViolation,,,turnover,,Team,
+95,1,0:56.0,23,18,SAC,UTA,22,away,JS,,25,miss3,0,E. Mudiay,
+96,1,0:53.0,23,18,SAC,UTA,3,home,DefReb,,,DefReb,,H. Barnes,
+97,1,0:48.0,23,18,SAC,UTA,5,home,OutOfBoundsLB,,,turnover,,H. Barnes,
+98,1,0:31.0,23,18,SAC,UTA,17,away,LU,,4,miss2,0,D. Mitchell,
+99,1,0:28.0,23,18,SAC,UTA,3,home,DefReb,,,DefReb,,H. Barnes,
+100,1,0:19.0,23,18,SAC,UTA,9,away,KickBallViolation,,,KickBallViolation,,Team,
+101,1,0:07.0,25,18,SAC,UTA,12,home,LU,assist,3,make2,2,H. Barnes,D. Dedmon
+102,1,0:04.0,25,18,SAC,UTA,3,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Ingles,H. Barnes
+103,1,0:04.0,25,18,SAC,UTA,0,away,OffensiveFoul,,,turnover,,J. Ingles,
+104,1,0:04.0,25,18,SAC,UTA,0,home,Sub,,,,,B. Hield,C. Joseph
+105,1,0:00.0,28,18,SAC,UTA,4,home,JS,assist,25,make3,3,B. Bogdanović,H. Barnes
+106,2,11:44.0,28,18,SAC,UTA,16,away,LU,,5,miss2,0,D. Mitchell,
+107,2,11:44.0,28,18,SAC,UTA,0,away,OffReb,,,OffReb,,Team,
+108,2,11:44.0,28,18,SAC,UTA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Dedmon,E. Davis
+109,2,11:36.0,28,18,SAC,UTA,8,away,JS,,26,miss3,0,J. Ingles,
+110,2,11:32.0,28,18,SAC,UTA,4,home,DefReb,,,DefReb,,T. Ariza,
+111,2,11:12.0,28,18,SAC,UTA,20,home,JS,,26,miss3,0,C. Joseph,
+112,2,11:08.0,28,18,SAC,UTA,4,away,DefReb,,,DefReb,,D. Mitchell,
+113,2,11:01.0,28,18,SAC,UTA,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,J. Green
+114,2,11:01.0,28,19,SAC,UTA,0,away,FreeThrow,,,make1,1,J. Green,
+115,2,11:01.0,28,20,SAC,UTA,0,away,FreeThrow,,,make1,1,J. Green,
+116,2,10:41.0,28,20,SAC,UTA,20,home,LU,,6,miss2,0,C. Joseph,
+117,2,10:38.0,28,20,SAC,UTA,3,home,OffReb,,,OffReb,,D. Dedmon,
+118,2,10:38.0,30,20,SAC,UTA,0,home,LU,,8,make2,2,D. Dedmon,
+119,2,10:38.0,30,20,SAC,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,D. Dedmon
+120,2,10:38.0,31,20,SAC,UTA,0,home,FreeThrow,,,make1,1,D. Dedmon,
+121,2,10:27.0,31,22,SAC,UTA,11,away,JS,,20,make2,2,D. Mitchell,
+122,2,10:15.0,31,22,SAC,UTA,12,home,Traveling,,,turnover,,D. Dedmon,
+123,2,10:01.0,31,22,SAC,UTA,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ariza,E. Mudiay
+124,2,9:48.0,31,22,SAC,UTA,13,away,HS,,9,miss2,0,E. Davis,
+125,2,9:42.0,31,22,SAC,UTA,6,home,DefReb,,,DefReb,,D. Dedmon,
+126,2,9:35.0,31,22,SAC,UTA,7,home,JS,,26,miss3,0,D. Dedmon,
+127,2,9:33.0,31,22,SAC,UTA,2,away,DefReb,,,DefReb,,Team,
+128,2,9:19.0,31,24,SAC,UTA,14,away,JS,,12,make2,2,D. Mitchell,
+129,2,9:02.0,33,24,SAC,UTA,17,home,LU,,3,make2,2,C. Joseph,
+130,2,9:02.0,33,24,SAC,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,C. Joseph
+131,2,9:02.0,33,24,SAC,UTA,0,home,Sub,,,,,R. Holmes,D. Dedmon
+132,2,9:02.0,34,24,SAC,UTA,0,home,FreeThrow,,,make1,1,C. Joseph,
+133,2,8:50.0,34,26,SAC,UTA,12,away,JS,,9,make2,2,E. Mudiay,
+134,2,8:41.0,34,26,SAC,UTA,9,home,BadPass,,,turnover,,C. Joseph,
+135,2,8:41.0,34,26,SAC,UTA,0,away,Sub,,,,,R. Gobert,E. Davis
+136,2,8:41.0,34,26,SAC,UTA,0,away,Sub,,,,,R. O'Neale,J. Ingles
+137,2,8:41.0,34,26,SAC,UTA,0,home,Sub,,,,,N. Bjelica,H. Barnes
+138,2,8:28.0,34,28,SAC,UTA,13,away,JS,,16,make2,2,E. Mudiay,
+139,2,8:03.0,34,28,SAC,UTA,25,home,JS,,12,miss2,0,C. Joseph,
+140,2,8:01.0,34,28,SAC,UTA,2,away,DefReb,,,DefReb,,D. Mitchell,
+141,2,7:57.0,34,28,SAC,UTA,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Bogdanović,D. Mitchell
+142,2,7:57.0,34,28,SAC,UTA,0,away,Sub,,,,,B. Bogdanović,D. Mitchell
+143,2,7:57.0,34,28,SAC,UTA,0,away,Sub,,,,,M. Conley,E. Mudiay
+144,2,7:57.0,34,28,SAC,UTA,0,home,Sub,,,,,D. Fox,C. Joseph
+145,2,7:45.0,34,28,SAC,UTA,12,away,JS,,23,miss3,0,J. Green,
+146,2,7:41.0,34,28,SAC,UTA,4,home,DefReb,,,DefReb,,B. Bogdanović,
+147,2,7:27.0,34,28,SAC,UTA,14,home,JS,,26,miss3,0,D. Fox,
+148,2,7:24.0,34,28,SAC,UTA,3,home,OffReb,,,OffReb,,N. Bjelica,
+149,2,7:22.0,36,28,SAC,UTA,2,home,DK,assist,2,make2,2,R. Holmes,N. Bjelica
+150,2,7:08.0,36,28,SAC,UTA,14,away,bad pass,steal,,turnover,,M. Conley,R. Holmes
+151,2,7:06.0,36,28,SAC,UTA,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. O'Neale,D. Fox
+152,2,7:06.0,36,28,SAC,UTA,0,home,Sub,,,,,B. Hield,B. Bogdanović
+153,2,6:52.0,38,28,SAC,UTA,14,home,HS,,4,make2,2,N. Bjelica,
+154,2,6:45.0,38,28,SAC,UTA,7,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Green,D. Fox
+155,2,6:45.0,38,28,SAC,UTA,0,away,OffensiveFoul,,,turnover,,J. Green,
+156,2,6:45.0,38,28,SAC,UTA,0,home,Timeout,,,,,,
+157,2,6:35.0,38,28,SAC,UTA,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Conley,D. Fox
+158,2,6:35.0,39,28,SAC,UTA,0,home,FreeThrow,,,make1,1,D. Fox,
+159,2,6:35.0,40,28,SAC,UTA,0,home,FreeThrow,,,make1,1,D. Fox,
+160,2,6:23.0,40,28,SAC,UTA,12,away,JS,,10,miss2,0,M. Conley,
+161,2,6:22.0,40,28,SAC,UTA,1,away,OffReb,,,OffReb,,R. Gobert,
+162,2,6:22.0,40,28,SAC,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Holmes,R. Gobert
+163,2,6:22.0,40,28,SAC,UTA,0,away,FreeThrow,,,make1,0,R. Gobert,
+164,2,6:22.0,40,28,SAC,UTA,0,away,OffReb,,,OffReb,,Team,
+165,2,6:22.0,40,29,SAC,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+166,2,6:04.0,40,29,SAC,UTA,18,home,bad pass,steal,,turnover,,B. Hield,R. Gobert
+167,2,6:01.0,40,31,SAC,UTA,3,away,LU,assist,2,make2,2,B. Bogdanović,J. Green
+168,2,5:43.0,40,31,SAC,UTA,18,home,JS,,27,miss3,0,N. Bjelica,
+169,2,5:39.0,40,31,SAC,UTA,4,away,DefReb,,,DefReb,,R. O'Neale,
+170,2,5:33.0,40,33,SAC,UTA,6,away,LU,assist,3,make2,2,B. Bogdanović,R. O'Neale
+171,2,5:33.0,40,33,SAC,UTA,0,home,DefGoaltending,,,DefGoaltending,,Team,
+172,2,5:18.0,40,33,SAC,UTA,15,home,LU,block,3,miss2,0,R. Holmes,R. Gobert
+173,2,5:13.0,40,33,SAC,UTA,5,home,OffReb,,,OffReb,,D. Fox,
+174,2,5:01.0,40,33,SAC,UTA,12,home,JS,,14,miss2,0,B. Hield,
+175,2,5:00.0,40,33,SAC,UTA,1,away,DefReb,,,DefReb,,Team,
+176,2,5:00.0,40,33,SAC,UTA,0,home,Sub,,,,,H. Barnes,T. Ariza
+177,2,4:40.0,40,35,SAC,UTA,20,away,JS,assist,6,make2,2,R. O'Neale,B. Bogdanović
+178,2,4:23.0,42,35,SAC,UTA,17,home,JS,,12,make2,2,H. Barnes,
+179,2,4:09.0,42,38,SAC,UTA,14,away,JS,assist,23,make3,3,J. Green,R. O'Neale
+180,2,3:45.0,45,38,SAC,UTA,24,home,JS,assist,25,make3,3,H. Barnes,N. Bjelica
+181,2,3:35.0,45,38,SAC,UTA,10,away,JS,,25,miss3,0,M. Conley,
+182,2,3:31.0,45,38,SAC,UTA,4,home,DefReb,,,DefReb,,B. Hield,
+183,2,3:17.0,45,38,SAC,UTA,14,home,JS,,24,miss3,0,B. Hield,
+184,2,3:13.0,45,38,SAC,UTA,4,home,OffReb,,,OffReb,,B. Hield,
+185,2,3:07.0,47,38,SAC,UTA,6,home,DK,assist,3,make2,2,R. Holmes,N. Bjelica
+186,2,3:07.0,47,38,SAC,UTA,0,away,Timeout,,,,,,
+187,2,3:07.0,47,38,SAC,UTA,0,away,Sub,,,,,J. Ingles,J. Green
+188,2,3:07.0,47,38,SAC,UTA,0,away,Sub,,,,,D. Mitchell,R. O'Neale
+189,2,2:50.0,47,38,SAC,UTA,17,away,JS,,8,miss2,0,J. Ingles,
+190,2,2:49.0,47,38,SAC,UTA,1,home,DefReb,,,DefReb,,Team,
+191,2,2:37.0,47,38,SAC,UTA,12,home,bad pass,steal,,turnover,,N. Bjelica,M. Conley
+192,2,2:29.0,47,41,SAC,UTA,8,away,JS,assist,24,make3,3,B. Bogdanović,D. Mitchell
+193,2,2:05.0,47,41,SAC,UTA,24,home,LU,,3,miss2,0,D. Fox,
+194,2,2:02.0,47,41,SAC,UTA,3,away,DefReb,,,DefReb,,R. Gobert,
+195,2,1:53.0,47,44,SAC,UTA,9,away,JS,assist,25,make3,3,B. Bogdanović,M. Conley
+196,2,1:51.0,47,44,SAC,UTA,2,home,Timeout,,,,,,
+197,2,1:51.0,47,44,SAC,UTA,0,home,Sub,,,,,D. Dedmon,R. Holmes
+198,2,1:36.0,49,44,SAC,UTA,15,home,JS,,7,make2,2,D. Fox,
+199,2,1:10.0,49,44,SAC,UTA,26,away,bad pass,steal,,turnover,,B. Bogdanović,N. Bjelica
+200,2,1:01.0,51,44,SAC,UTA,9,home,JS,,14,make2,2,B. Hield,
+201,2,0:51.0,51,44,SAC,UTA,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Hield,M. Conley
+202,2,0:51.0,51,45,SAC,UTA,0,away,FreeThrow,,,make1,1,M. Conley,
+203,2,0:51.0,51,45,SAC,UTA,0,home,Sub,,,,,B. Bogdanović,N. Bjelica
+204,2,0:51.0,51,46,SAC,UTA,0,away,FreeThrow,,,make1,1,M. Conley,
+205,2,0:33.0,51,46,SAC,UTA,18,home,JS,,23,miss3,0,D. Dedmon,
+206,2,0:30.0,51,46,SAC,UTA,3,away,DefReb,,,DefReb,,B. Bogdanović,
+207,2,0:21.0,51,46,SAC,UTA,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Barnes,R. Gobert
+208,2,0:21.0,51,47,SAC,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+209,2,0:21.0,51,47,SAC,UTA,0,home,Sub,,,,,N. Bjelica,D. Dedmon
+210,2,0:21.0,51,48,SAC,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+211,2,0:00.0,51,48,SAC,UTA,21,home,LU,block,3,miss2,0,N. Bjelica,R. Gobert
+212,2,0:00.0,51,48,SAC,UTA,0,away,DefReb,,,DefReb,,M. Conley,
+213,3,11:42.0,51,50,SAC,UTA,18,away,LU,,3,make2,2,R. Gobert,
+214,3,11:27.0,51,50,SAC,UTA,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Mitchell,R. Holmes
+215,3,11:21.0,51,50,SAC,UTA,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Conley,D. Fox
+216,3,11:21.0,52,50,SAC,UTA,0,home,FreeThrow,,,make1,1,D. Fox,
+217,3,11:21.0,52,50,SAC,UTA,0,home,FreeThrow,,,make1,0,D. Fox,
+218,3,11:18.0,52,50,SAC,UTA,3,away,DefReb,,,DefReb,,R. Gobert,
+219,3,11:08.0,52,53,SAC,UTA,10,away,JS,assist,25,make3,3,B. Bogdanović,M. Conley
+220,3,10:56.0,54,53,SAC,UTA,12,home,JS,,20,make2,2,B. Hield,
+221,3,10:44.0,54,53,SAC,UTA,12,away,JS,,12,miss2,0,D. Mitchell,
+222,3,10:41.0,54,53,SAC,UTA,3,home,DefReb,,,DefReb,,N. Bjelica,
+223,3,10:37.0,54,53,SAC,UTA,4,home,JS,,25,miss3,0,B. Hield,
+224,3,10:33.0,54,53,SAC,UTA,4,away,DefReb,,,DefReb,,R. O'Neale,
+225,3,10:30.0,54,56,SAC,UTA,3,away,JS,assist,25,make3,3,M. Conley,R. O'Neale
+226,3,10:12.0,56,56,SAC,UTA,18,home,JS,assist,18,make2,2,B. Hield,D. Fox
+227,3,10:00.0,56,56,SAC,UTA,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Bjelica,B. Bogdanović
+228,3,9:53.0,56,56,SAC,UTA,7,away,JS,,26,miss3,0,R. O'Neale,
+229,3,9:49.0,56,56,SAC,UTA,4,home,DefReb,,,DefReb,,D. Fox,
+230,3,9:29.0,56,56,SAC,UTA,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. O'Neale,D. Fox
+231,3,9:29.0,57,56,SAC,UTA,0,home,FreeThrow,,,make1,1,D. Fox,
+232,3,9:29.0,57,56,SAC,UTA,0,home,FreeThrow,,,make1,0,D. Fox,
+233,3,9:26.0,57,56,SAC,UTA,3,away,DefReb,,,DefReb,,B. Bogdanović,
+234,3,9:13.0,57,56,SAC,UTA,13,away,JS,,25,miss3,0,M. Conley,
+235,3,9:10.0,57,56,SAC,UTA,3,home,DefReb,,,DefReb,,R. Holmes,
+236,3,9:07.0,57,56,SAC,UTA,3,home,JS,,25,miss3,0,B. Hield,
+237,3,9:02.0,57,56,SAC,UTA,5,away,DefReb,,,DefReb,,R. Gobert,
+238,3,8:59.0,57,56,SAC,UTA,3,away,LU,,2,miss2,0,M. Conley,
+239,3,8:58.0,57,56,SAC,UTA,1,away,OffReb,,,OffReb,,R. Gobert,
+240,3,8:58.0,57,58,SAC,UTA,0,away,DK,,1,make2,2,R. Gobert,
+241,3,8:58.0,57,58,SAC,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,R. Gobert
+242,3,8:58.0,57,59,SAC,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+243,3,8:44.0,59,59,SAC,UTA,14,home,JS,,12,make2,2,D. Fox,
+244,3,8:33.0,59,59,SAC,UTA,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Hield,D. Mitchell
+245,3,8:33.0,59,60,SAC,UTA,0,away,FreeThrow,,,make1,1,D. Mitchell,
+246,3,8:33.0,59,61,SAC,UTA,0,away,FreeThrow,,,make1,1,D. Mitchell,
+247,3,8:16.0,61,61,SAC,UTA,17,home,LU,assist,1,make2,2,H. Barnes,R. Holmes
+248,3,8:01.0,61,63,SAC,UTA,15,away,DK,assist,2,make2,2,R. Gobert,R. O'Neale
+249,3,7:49.0,63,63,SAC,UTA,12,home,DK,assist,2,make2,2,R. Holmes,D. Fox
+250,3,7:27.0,63,63,SAC,UTA,22,away,Traveling,,,turnover,,R. O'Neale,
+251,3,7:27.0,63,63,SAC,UTA,0,home,Sub,,,,,D. Dedmon,R. Holmes
+252,3,7:13.0,66,63,SAC,UTA,14,home,JS,assist,27,make3,3,N. Bjelica,H. Barnes
+253,3,6:48.0,66,63,SAC,UTA,25,away,bad pass,steal,,turnover,,B. Bogdanović,H. Barnes
+254,3,6:36.0,68,63,SAC,UTA,12,home,LU,,2,make2,2,D. Fox,
+255,3,6:36.0,68,63,SAC,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. O'Neale,D. Fox
+256,3,6:36.0,68,63,SAC,UTA,0,home,Timeout,,,,,,
+257,3,6:36.0,68,63,SAC,UTA,0,away,Sub,,,,,J. Green,D. Mitchell
+258,3,6:36.0,68,63,SAC,UTA,0,away,Sub,,,,,J. Ingles,R. O'Neale
+259,3,6:36.0,68,63,SAC,UTA,0,home,Sub,,,,,T. Ariza,N. Bjelica
+260,3,6:36.0,69,63,SAC,UTA,0,home,FreeThrow,,,make1,1,D. Fox,
+261,3,6:19.0,69,63,SAC,UTA,17,away,bad pass,steal,,turnover,,M. Conley,H. Barnes
+262,3,6:08.0,69,63,SAC,UTA,11,home,JS,,9,miss2,0,H. Barnes,
+263,3,6:06.0,69,63,SAC,UTA,2,away,DefReb,,,DefReb,,R. Gobert,
+264,3,5:59.0,69,63,SAC,UTA,7,away,bad pass,steal,,turnover,,M. Conley,B. Hield
+265,3,5:54.0,71,63,SAC,UTA,5,home,LU,,2,make2,2,B. Hield,
+266,3,5:37.0,71,63,SAC,UTA,17,away,LU,block,3,miss2,0,B. Bogdanović,D. Dedmon
+267,3,5:33.0,71,63,SAC,UTA,4,home,DefReb,,,DefReb,,B. Hield,
+268,3,5:31.0,71,63,SAC,UTA,2,home,lost ball,steal,,turnover,,B. Hield,M. Conley
+269,3,5:23.0,71,65,SAC,UTA,8,away,LU,,4,make2,2,M. Conley,
+270,3,5:06.0,71,65,SAC,UTA,17,home,DK,,2,miss2,0,D. Fox,
+271,3,5:02.0,71,65,SAC,UTA,4,home,OffReb,,,OffReb,,H. Barnes,
+272,3,4:57.0,71,65,SAC,UTA,5,home,JS,,25,miss3,0,H. Barnes,
+273,3,4:53.0,71,65,SAC,UTA,4,away,DefReb,,,DefReb,,R. Gobert,
+274,3,4:44.0,71,68,SAC,UTA,9,away,JS,assist,22,make3,3,M. Conley,J. Ingles
+275,3,4:43.0,71,68,SAC,UTA,1,home,Timeout,,,,,,
+276,3,4:43.0,71,68,SAC,UTA,0,home,Sub,,,,,B. Bogdanović,B. Hield
+277,3,4:22.0,71,68,SAC,UTA,21,home,bad pass,steal,,turnover,,H. Barnes,M. Conley
+278,3,4:17.0,71,68,SAC,UTA,5,away,LU,,2,miss2,0,B. Bogdanović,
+279,3,4:17.0,71,68,SAC,UTA,0,away,OffReb,,,OffReb,,Team,
+280,3,4:10.0,71,68,SAC,UTA,7,away,bad pass,steal,,turnover,,B. Bogdanović,H. Barnes
+281,3,3:54.0,71,68,SAC,UTA,16,home,LU,block,3,miss2,0,H. Barnes,B. Bogdanović
+282,3,3:54.0,71,68,SAC,UTA,0,home,OffReb,,,OffReb,,Team,
+283,3,3:52.0,71,68,SAC,UTA,2,home,JS,,25,miss3,0,H. Barnes,
+284,3,3:47.0,71,68,SAC,UTA,5,away,DefReb,,,DefReb,,R. Gobert,
+285,3,3:40.0,71,68,SAC,UTA,7,away,JS,,25,miss3,0,M. Conley,
+286,3,3:38.0,71,68,SAC,UTA,2,home,DefReb,,,DefReb,,T. Ariza,
+287,3,3:38.0,71,68,SAC,UTA,0,away,KickBallViolation,,,KickBallViolation,,Team,
+288,3,3:26.0,71,68,SAC,UTA,12,home,JS,,10,miss2,0,D. Fox,
+289,3,3:21.0,71,68,SAC,UTA,5,away,DefReb,,,DefReb,,R. Gobert,
+290,3,3:20.0,71,68,SAC,UTA,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Bogdanović,J. Ingles
+291,3,3:20.0,71,68,SAC,UTA,0,away,Sub,,,,,E. Davis,B. Bogdanović
+292,3,3:20.0,71,68,SAC,UTA,0,away,Sub,,,,,D. Mitchell,M. Conley
+293,3,3:20.0,71,68,SAC,UTA,0,away,Sub,,,,,E. Mudiay,R. Gobert
+294,3,3:20.0,71,68,SAC,UTA,0,home,Sub,,,,,R. Holmes,D. Dedmon
+295,3,3:20.0,71,68,SAC,UTA,0,home,Sub,,,,,C. Joseph,D. Fox
+296,3,3:09.0,71,70,SAC,UTA,11,away,JS,,19,make2,2,D. Mitchell,
+297,3,2:52.0,71,70,SAC,UTA,17,home,bad pass,steal,,turnover,,C. Joseph,J. Green
+298,3,2:52.0,71,70,SAC,UTA,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Green,C. Joseph
+299,3,2:52.0,71,70,SAC,UTA,0,away,OffensiveFoul,,,turnover,,J. Green,
+300,3,2:52.0,71,70,SAC,UTA,0,home,TechnicalFoul,,,,,Team,
+301,3,2:52.0,71,70,SAC,UTA,0,home,FreeThrow,,,make1,0,B. Bogdanović misses technical free throw,
+302,3,2:52.0,71,70,SAC,UTA,0,home,OffReb,,,OffReb,,Team,
+303,3,2:40.0,71,70,SAC,UTA,12,home,bad pass,steal,,turnover,,B. Bogdanović,E. Mudiay
+304,3,2:25.0,71,73,SAC,UTA,15,away,JS,,25,make3,3,D. Mitchell,
+305,3,2:14.0,73,73,SAC,UTA,11,home,JS,,17,make2,2,B. Bogdanović,
+306,3,2:14.0,73,73,SAC,UTA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Holmes,D. Mitchell
+307,3,2:14.0,73,73,SAC,UTA,0,away,Timeout,,,,,,
+308,3,2:14.0,73,73,SAC,UTA,0,away,Sub,,,,,B. Bogdanović,E. Davis
+309,3,2:14.0,73,74,SAC,UTA,0,away,FreeThrow,,,make1,1,D. Mitchell,
+310,3,2:14.0,73,75,SAC,UTA,0,away,FreeThrow,,,make1,1,D. Mitchell,
+311,3,1:57.0,73,75,SAC,UTA,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Mitchell,B. Bogdanović
+312,3,1:57.0,74,75,SAC,UTA,0,home,FreeThrow,,,make1,1,B. Bogdanović,
+313,3,1:57.0,74,75,SAC,UTA,0,home,FreeThrow,,,make1,0,B. Bogdanović,
+314,3,1:53.0,74,75,SAC,UTA,4,away,DefReb,,,DefReb,,B. Bogdanović,
+315,3,1:43.0,74,77,SAC,UTA,10,away,JS,,13,make2,2,D. Mitchell,
+316,3,1:22.0,76,77,SAC,UTA,21,home,LU,,1,make2,2,H. Barnes,
+317,3,1:00.0,76,77,SAC,UTA,22,away,bad pass,steal,,turnover,,E. Mudiay,T. Ariza
+318,3,0:54.0,76,77,SAC,UTA,6,home,JS,,25,miss3,0,B. Bogdanović,
+319,3,0:52.0,76,77,SAC,UTA,2,home,OffReb,,,OffReb,,R. Holmes,
+320,3,0:52.0,78,77,SAC,UTA,0,home,LU,,1,make2,2,R. Holmes,
+321,3,0:33.0,78,77,SAC,UTA,19,away,LU,,2,miss2,0,J. Green,
+322,3,0:29.0,78,77,SAC,UTA,4,home,DefReb,,,DefReb,,T. Ariza,
+323,3,0:11.0,81,77,SAC,UTA,18,home,JS,,25,make3,3,B. Bogdanović,
+324,3,0:00.0,81,80,SAC,UTA,11,away,JS,assist,25,make3,3,J. Green,E. Mudiay
+325,3,0:00.0,81,80,SAC,UTA,0,away,InstantReplay,,,RulingStands,,Team,
+326,4,11:38.0,81,80,SAC,UTA,22,home,JS,,19,miss2,0,C. Joseph,
+327,4,11:34.0,81,80,SAC,UTA,4,away,DefReb,,,DefReb,,R. Gobert,
+328,4,11:20.0,81,83,SAC,UTA,14,away,JS,assist,25,make3,3,J. Ingles,E. Mudiay
+329,4,10:58.0,81,83,SAC,UTA,22,home,bad pass,steal,,turnover,,B. Bogdanović,D. Mitchell
+330,4,10:52.0,81,83,SAC,UTA,6,away,JS,,24,miss3,0,J. Green,
+331,4,10:52.0,81,83,SAC,UTA,0,away,OffReb,,,OffReb,,Team,
+332,4,10:52.0,81,83,SAC,UTA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Joseph,R. Gobert
+333,4,10:52.0,81,83,SAC,UTA,0,home,Sub,,,,,D. Fox,C. Joseph
+334,4,10:45.0,81,83,SAC,UTA,7,away,LU,block,5,miss2,0,D. Mitchell,D. Dedmon
+335,4,10:45.0,81,83,SAC,UTA,0,home,DefReb,,,DefReb,,Team,
+336,4,10:45.0,81,83,SAC,UTA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Gobert,D. Dedmon
+337,4,10:29.0,83,83,SAC,UTA,16,home,DK,assist,2,make2,2,D. Dedmon,D. Fox
+338,4,10:10.0,83,83,SAC,UTA,19,away,LU,block,6,miss2,0,E. Mudiay,D. Fox
+339,4,10:10.0,83,83,SAC,UTA,0,away,OffReb,,,OffReb,,Team,
+340,4,10:03.0,83,83,SAC,UTA,7,away,JS,,26,miss3,0,J. Green,
+341,4,9:58.0,83,83,SAC,UTA,5,home,DefReb,,,DefReb,,T. Ariza,
+342,4,9:55.0,83,83,SAC,UTA,3,home,bad pass,steal,,turnover,,D. Fox,D. Mitchell
+343,4,9:44.0,83,85,SAC,UTA,11,away,LU,assist,3,make2,2,R. Gobert,J. Ingles
+344,4,9:25.0,85,85,SAC,UTA,19,home,LU,,4,make2,2,B. Bogdanović,
+345,4,9:05.0,85,85,SAC,UTA,20,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Bogdanović,J. Ingles
+346,4,9:05.0,85,85,SAC,UTA,0,away,Sub,,,,,B. Bogdanović,J. Green
+347,4,9:05.0,85,85,SAC,UTA,0,away,Sub,,,,,R. O'Neale,D. Mitchell
+348,4,8:59.0,85,85,SAC,UTA,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,E. Mudiay
+349,4,8:59.0,85,85,SAC,UTA,0,away,FreeThrow,,,make1,0,E. Mudiay,
+350,4,8:59.0,85,85,SAC,UTA,0,away,OffReb,,,OffReb,,Team,
+351,4,8:59.0,85,85,SAC,UTA,0,away,FreeThrow,,,make1,0,E. Mudiay,
+352,4,8:56.0,85,85,SAC,UTA,3,home,DefReb,,,DefReb,,D. Dedmon,
+353,4,8:49.0,85,85,SAC,UTA,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ingles,D. Fox
+354,4,8:49.0,85,85,SAC,UTA,0,home,FreeThrow,,,make1,0,D. Fox,
+355,4,8:49.0,85,85,SAC,UTA,0,home,OffReb,,,OffReb,,Team,
+356,4,8:49.0,85,85,SAC,UTA,0,away,Sub,,,,,M. Conley,E. Mudiay
+357,4,8:49.0,86,85,SAC,UTA,0,home,FreeThrow,,,make1,1,D. Fox,
+358,4,8:49.0,86,85,SAC,UTA,0,home,Sub,,,,,B. Hield,N. Bjelica
+359,4,8:26.0,86,85,SAC,UTA,23,away,JS,,25,miss3,0,M. Conley,
+360,4,8:23.0,86,85,SAC,UTA,3,home,DefReb,,,DefReb,,D. Dedmon,
+361,4,8:03.0,86,85,SAC,UTA,20,home,HS,,7,miss2,0,D. Dedmon,
+362,4,8:00.0,86,85,SAC,UTA,3,away,DefReb,,,DefReb,,R. Gobert,
+363,4,8:00.0,86,85,SAC,UTA,0,away,Sub,,,,,D. Mitchell,J. Ingles
+364,4,7:42.0,86,85,SAC,UTA,18,away,JS,,14,miss2,0,D. Mitchell,
+365,4,7:38.0,86,85,SAC,UTA,4,home,DefReb,,,DefReb,,B. Hield,
+366,4,7:27.0,88,85,SAC,UTA,11,home,LU,,6,make2,2,B. Hield,
+367,4,7:09.0,88,85,SAC,UTA,18,away,LU,,6,miss2,0,R. O'Neale,
+368,4,7:09.0,88,85,SAC,UTA,0,away,OffReb,,,OffReb,,R. Gobert,
+369,4,7:09.0,88,85,SAC,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,R. Gobert
+370,4,7:09.0,88,85,SAC,UTA,0,away,FreeThrow,,,make1,0,R. Gobert,
+371,4,7:09.0,88,85,SAC,UTA,0,away,OffReb,,,OffReb,,Team,
+372,4,7:09.0,88,86,SAC,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+373,4,6:48.0,91,86,SAC,UTA,21,home,JS,,28,make3,3,B. Bogdanović,
+374,4,6:36.0,91,86,SAC,UTA,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Fox,M. Conley
+375,4,6:36.0,91,86,SAC,UTA,0,home,Timeout,,,,,,
+376,4,6:36.0,91,87,SAC,UTA,0,away,FreeThrow,,,make1,1,M. Conley,
+377,4,6:36.0,91,88,SAC,UTA,0,away,FreeThrow,,,make1,1,M. Conley,
+378,4,6:23.0,91,88,SAC,UTA,13,away,KickBallViolation,,,KickBallViolation,,Team,
+379,4,6:13.0,93,88,SAC,UTA,10,home,DK,assist,1,make2,2,D. Dedmon,B. Bogdanović
+380,4,5:53.0,93,88,SAC,UTA,20,away,JS,,22,miss2,0,B. Bogdanović,
+381,4,5:46.0,93,88,SAC,UTA,7,home,DefReb,,,DefReb,,D. Fox,
+382,4,5:45.0,95,88,SAC,UTA,1,home,LU,,1,make2,2,D. Fox,
+383,4,5:45.0,95,88,SAC,UTA,0,away,Timeout,,,,,,
+384,4,5:45.0,95,88,SAC,UTA,0,away,Sub,,,,,J. Ingles,R. O'Neale
+385,4,5:27.0,95,88,SAC,UTA,18,away,JS,,23,miss3,0,J. Ingles,
+386,4,5:23.0,95,88,SAC,UTA,4,home,DefReb,,,DefReb,,B. Hield,
+387,4,5:03.0,97,88,SAC,UTA,20,home,DK,,2,make2,2,B. Hield,
+388,4,4:47.0,97,90,SAC,UTA,16,away,JS,,7,make2,2,D. Mitchell,
+389,4,4:25.0,97,90,SAC,UTA,22,home,JS,,23,miss3,0,D. Dedmon,
+390,4,4:21.0,97,90,SAC,UTA,4,away,DefReb,,,DefReb,,B. Bogdanović,
+391,4,4:15.0,97,90,SAC,UTA,6,away,JS,,10,miss2,0,D. Mitchell,
+392,4,4:13.0,97,90,SAC,UTA,2,away,OffReb,,,OffReb,,M. Conley,
+393,4,4:10.0,97,93,SAC,UTA,3,away,JS,,23,make3,3,M. Conley,
+394,4,3:50.0,97,93,SAC,UTA,20,home,JS,,26,miss3,0,B. Hield,
+395,4,3:47.0,97,93,SAC,UTA,3,away,DefReb,,,DefReb,,J. Ingles,
+396,4,3:37.0,97,93,SAC,UTA,10,away,JS,,23,miss3,0,B. Bogdanović,
+397,4,3:34.0,97,93,SAC,UTA,3,home,DefReb,,,DefReb,,B. Bogdanović,
+398,4,3:23.0,97,93,SAC,UTA,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Bogdanović,D. Fox
+399,4,3:11.0,97,93,SAC,UTA,12,home,JS,,7,miss2,0,D. Fox,
+400,4,3:09.0,97,93,SAC,UTA,2,home,OffReb,,,OffReb,,D. Fox,
+401,4,3:00.0,97,93,SAC,UTA,9,home,JS,,8,miss2,0,B. Hield,
+402,4,2:54.0,97,93,SAC,UTA,6,away,DefReb,,,DefReb,,M. Conley,
+403,4,2:46.0,97,93,SAC,UTA,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,M. Conley
+404,4,2:46.0,97,93,SAC,UTA,0,away,FreeThrow,,,make1,0,M. Conley,
+405,4,2:46.0,97,93,SAC,UTA,0,away,OffReb,,,OffReb,,Team,
+406,4,2:46.0,97,93,SAC,UTA,0,home,Sub,,,,,H. Barnes,B. Hield
+407,4,2:46.0,97,94,SAC,UTA,0,away,FreeThrow,,,make1,1,M. Conley,
+408,4,2:30.0,97,94,SAC,UTA,16,home,JS,,6,miss2,0,D. Fox,
+409,4,2:27.0,97,94,SAC,UTA,3,away,DefReb,,,DefReb,,R. Gobert,
+410,4,2:20.0,97,94,SAC,UTA,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Barnes,D. Mitchell
+411,4,2:20.0,97,94,SAC,UTA,0,away,OffReb,,,OffReb,,Team,
+412,4,2:20.0,97,94,SAC,UTA,0,away,FreeThrow,,,make1,0,D. Mitchell,
+413,4,2:20.0,97,95,SAC,UTA,0,away,FreeThrow,,,make1,1,D. Mitchell,
+414,4,1:56.0,97,95,SAC,UTA,24,home,JS,block,23,miss3,0,B. Bogdanović,R. Gobert
+415,4,1:51.0,97,95,SAC,UTA,5,away,DefReb,,,DefReb,,M. Conley,
+416,4,1:44.0,97,97,SAC,UTA,7,away,JS,,21,make2,2,D. Mitchell,
+417,4,1:29.0,97,97,SAC,UTA,15,home,LU,,5,miss2,0,D. Fox,
+418,4,1:26.0,97,97,SAC,UTA,3,away,DefReb,,,DefReb,,R. Gobert,
+419,4,1:12.0,97,97,SAC,UTA,14,away,JS,,25,miss3,0,D. Mitchell,
+420,4,1:09.0,97,97,SAC,UTA,3,home,DefReb,,,DefReb,,D. Dedmon,
+421,4,0:58.0,100,97,SAC,UTA,11,home,JS,assist,25,make3,3,D. Dedmon,D. Fox
+422,4,0:43.0,100,99,SAC,UTA,15,away,DK,assist,1,make2,2,R. Gobert,D. Mitchell
+423,4,0:21.0,100,99,SAC,UTA,22,home,JS,,10,miss2,0,D. Fox,
+424,4,0:19.0,100,99,SAC,UTA,2,away,DefReb,,,DefReb,,D. Mitchell,
+425,4,0:17.0,100,99,SAC,UTA,2,away,Timeout,,,,,,
+426,4,0:17.0,100,99,SAC,UTA,0,home,Sub,,,,,R. Holmes,B. Bogdanović
+427,4,0:17.0,100,99,SAC,UTA,0,home,Sub,,,,,C. Joseph,D. Dedmon
+428,4,0:11.0,100,101,SAC,UTA,6,away,LU,,2,make2,2,D. Mitchell,
+429,4,0:11.0,100,101,SAC,UTA,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Gobert,T. Ariza
+430,4,0:11.0,100,101,SAC,UTA,0,away,Sub,,,,,R. O'Neale,M. Conley
+431,4,0:11.0,100,101,SAC,UTA,0,home,Sub,,,,,N. Bjelica,T. Ariza
+432,4,0:11.0,100,101,SAC,UTA,0,home,Sub,,,,,B. Bogdanović,R. Holmes
+433,4,0:11.0,100,101,SAC,UTA,0,home,Sub,,,,,B. Hield,C. Joseph
+434,4,0:02.0,100,101,SAC,UTA,9,home,JS,,22,miss3,0,N. Bjelica,
+435,4,0:02.0,100,101,SAC,UTA,0,home,OffReb,,,OffReb,,H. Barnes,
+436,4,0:02.0,102,101,SAC,UTA,0,home,LU,,2,make2,2,H. Barnes,
+437,4,0:02.0,102,101,SAC,UTA,0,away,Timeout,,,,,,

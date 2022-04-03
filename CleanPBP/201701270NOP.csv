@@ -1,0 +1,454 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,12:00.0,0,0,NOP,SAS,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
+1,1,11:42.0,3,0,NOP,SAS,18,home,JS,assist,26,make3,3,S. Hill,A. Davis
+2,1,11:13.0,3,0,NOP,SAS,29,away,JS,,18,miss2,0,D. Lee,
+3,1,11:13.0,3,0,NOP,SAS,0,away,OffReb,,,OffReb,,L. Aldridge,
+4,1,11:13.0,3,0,NOP,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Hield,L. Aldridge
+5,1,11:13.0,3,0,NOP,SAS,0,away,FreeThrow,,,make1,0,L. Aldridge,
+6,1,11:13.0,3,0,NOP,SAS,0,away,OffReb,,,OffReb,,Team,
+7,1,11:13.0,3,1,NOP,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
+8,1,10:59.0,3,1,NOP,SAS,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Leonard,A. Davis
+9,1,10:59.0,3,1,NOP,SAS,0,home,FreeThrow,,,make1,0,A. Davis,
+10,1,10:59.0,3,1,NOP,SAS,0,home,OffReb,,,OffReb,,Team,
+11,1,10:59.0,4,1,NOP,SAS,0,home,FreeThrow,,,make1,1,A. Davis,
+12,1,10:37.0,4,1,NOP,SAS,22,away,JS,,8,miss2,0,L. Aldridge,
+13,1,10:36.0,4,1,NOP,SAS,1,home,DefReb,,,DefReb,,A. Davis,
+14,1,10:27.0,4,1,NOP,SAS,9,home,BadPass,steal,,turnover,,A. Davis,D. Green
+15,1,10:12.0,4,3,NOP,SAS,15,away,JS,,6,make2,2,T. Parker,
+16,1,9:56.0,4,3,NOP,SAS,16,home,LU,,2,miss2,0,S. Hill,
+17,1,9:55.0,4,3,NOP,SAS,1,away,DefReb,,,DefReb,,L. Aldridge,
+18,1,9:40.0,4,3,NOP,SAS,15,away,JS,,25,miss3,0,K. Leonard,
+19,1,9:39.0,4,3,NOP,SAS,1,home,DefReb,,,DefReb,,B. Hield,
+20,1,9:30.0,4,3,NOP,SAS,9,home,JS,,14,miss2,0,B. Hield,
+21,1,9:29.0,4,3,NOP,SAS,1,away,DefReb,,,DefReb,,T. Parker,
+22,1,9:19.0,4,5,NOP,SAS,10,away,LU,,2,make2,2,T. Parker,
+23,1,9:08.0,4,5,NOP,SAS,11,home,LostBall,steal,,turnover,,J. Holiday,D. Green
+24,1,8:57.0,4,8,NOP,SAS,11,away,JS,assist,25,make3,3,D. Green,T. Parker
+25,1,8:57.0,4,8,NOP,SAS,0,home,Timeout,,,,,,
+26,1,8:44.0,4,8,NOP,SAS,13,home,JS,,6,miss2,0,A. Davis,
+27,1,8:44.0,4,8,NOP,SAS,0,home,OffReb,,,OffReb,,A. Davis,
+28,1,8:44.0,4,8,NOP,SAS,0,home,OffGoaltending,,,turnover,,A. Davis,
+29,1,8:22.0,4,8,NOP,SAS,22,away,JS,,21,miss2,0,K. Leonard,
+30,1,8:21.0,4,8,NOP,SAS,1,home,DefReb,,,DefReb,,A. Davis,
+31,1,8:08.0,4,8,NOP,SAS,13,home,JS,,26,miss3,0,S. Hill,
+32,1,8:07.0,4,8,NOP,SAS,1,away,DefReb,,,DefReb,,D. Lee,
+33,1,7:55.0,4,8,NOP,SAS,12,away,LostBall,steal,,turnover,,D. Lee,J. Holiday
+34,1,7:48.0,4,8,NOP,SAS,7,home,JS,,3,miss2,0,S. Hill,
+35,1,7:46.0,4,8,NOP,SAS,2,home,OffReb,,,OffReb,,B. Hield,
+36,1,7:46.0,4,8,NOP,SAS,0,home,LU,,1,miss2,0,B. Hield,
+37,1,7:43.0,4,8,NOP,SAS,3,home,OffReb,,,OffReb,,S. Hill,
+38,1,7:43.0,4,8,NOP,SAS,0,home,LU,,3,miss2,0,S. Hill,
+39,1,7:41.0,4,8,NOP,SAS,2,away,DefReb,,,DefReb,,L. Aldridge,
+40,1,7:32.0,4,10,NOP,SAS,9,away,JS,assist,18,make2,2,L. Aldridge,T. Parker
+41,1,7:15.0,6,10,NOP,SAS,17,home,DK,assist,0,make2,2,A. Davis,B. Hield
+42,1,7:02.0,6,10,NOP,SAS,13,away,JS,block,19,miss2,0,T. Parker,J. Holiday
+43,1,7:00.0,6,10,NOP,SAS,2,home,DefReb,,,DefReb,,S. Hill,
+44,1,6:52.0,6,10,NOP,SAS,8,home,BadPass,steal,,turnover,,S. Hill,D. Green
+45,1,6:42.0,6,10,NOP,SAS,10,away,LU,block,3,miss2,0,D. Lee,A. Davis
+46,1,6:40.0,6,10,NOP,SAS,2,home,DefReb,,,DefReb,,S. Hill,
+47,1,6:36.0,6,10,NOP,SAS,4,home,LU,block,1,miss2,0,B. Hield,T. Parker
+48,1,6:34.0,6,10,NOP,SAS,2,home,OffReb,,,OffReb,,S. Hill,
+49,1,6:25.0,6,10,NOP,SAS,9,home,JS,,25,miss3,0,J. Holiday,
+50,1,6:25.0,6,10,NOP,SAS,0,away,DefReb,,,DefReb,,L. Aldridge,
+51,1,6:16.0,6,10,NOP,SAS,9,away,LostBall,steal,,turnover,,T. Parker,A. Davis
+52,1,6:09.0,8,10,NOP,SAS,7,home,LU,assist,1,make2,2,B. Hield,J. Holiday
+53,1,5:49.0,8,10,NOP,SAS,20,away,JS,,12,miss2,0,K. Leonard,
+54,1,5:49.0,8,10,NOP,SAS,0,away,OffReb,,,OffReb,,D. Lee,
+55,1,5:46.0,8,12,NOP,SAS,3,away,LU,,1,make2,2,D. Lee,
+56,1,5:33.0,10,12,NOP,SAS,13,home,JS,,15,make2,2,J. Holiday,
+57,1,5:32.0,10,12,NOP,SAS,1,away,Timeout,,,,,,
+58,1,5:32.0,10,12,NOP,SAS,0,home,Sub,,,,,D. Motiejūnas,S. Hill
+59,1,5:32.0,10,12,NOP,SAS,0,home,Sub,,,,,T. Evans,B. Hield
+60,1,5:32.0,10,12,NOP,SAS,0,away,Sub,,,,,K. Anderson,K. Leonard
+61,1,5:32.0,10,12,NOP,SAS,0,away,Sub,,,,,P. Mills,D. Lee
+62,1,5:32.0,10,12,NOP,SAS,0,away,Sub,,,,,M. Ginóbili,D. Green
+63,1,5:32.0,10,12,NOP,SAS,0,away,Sub,,,,,D. Bertāns,T. Parker
+64,1,5:10.0,10,15,NOP,SAS,22,away,JS,assist,25,make3,3,P. Mills,M. Ginóbili
+65,1,4:53.0,10,15,NOP,SAS,17,home,JS,,24,miss3,0,D. Cunningham,
+66,1,4:53.0,10,15,NOP,SAS,0,away,DefReb,,,DefReb,,L. Aldridge,
+67,1,4:40.0,10,15,NOP,SAS,13,away,JS,,20,miss2,0,L. Aldridge,
+68,1,4:39.0,10,15,NOP,SAS,1,home,DefReb,,,DefReb,,A. Davis,
+69,1,4:16.0,12,15,NOP,SAS,23,home,JS,,13,make2,2,J. Holiday,
+70,1,4:09.0,12,15,NOP,SAS,7,away,LU,block,1,miss2,0,D. Bertāns,D. Motiejūnas
+71,1,4:07.0,12,15,NOP,SAS,2,home,DefReb,,,DefReb,,D. Cunningham,
+72,1,3:58.0,12,15,NOP,SAS,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bertāns,J. Holiday
+73,1,3:58.0,14,15,NOP,SAS,0,home,JS,assist,5,make2,2,J. Holiday,D. Motiejūnas
+74,1,3:58.0,14,15,NOP,SAS,0,home,FreeThrow,,,make1,0,J. Holiday,
+75,1,3:58.0,14,15,NOP,SAS,0,away,Sub,,,,,D. Dedmon,L. Aldridge
+76,1,3:56.0,14,15,NOP,SAS,2,away,DefReb,,,DefReb,,D. Dedmon,
+77,1,3:50.0,14,15,NOP,SAS,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Evans,K. Anderson
+78,1,3:37.0,14,15,NOP,SAS,13,away,JS,,23,miss3,0,P. Mills,
+79,1,3:36.0,14,15,NOP,SAS,1,home,DefReb,,,DefReb,,D. Motiejūnas,
+80,1,3:27.0,14,15,NOP,SAS,9,home,JS,,27,miss3,0,T. Evans,
+81,1,3:27.0,14,15,NOP,SAS,0,away,DefReb,,,DefReb,,K. Anderson,
+82,1,3:18.0,14,15,NOP,SAS,9,away,JS,,25,miss3,0,D. Bertāns,
+83,1,3:17.0,14,15,NOP,SAS,1,home,DefReb,,,DefReb,,D. Cunningham,
+84,1,3:05.0,14,15,NOP,SAS,12,home,JS,,6,miss2,0,A. Davis,
+85,1,3:05.0,14,15,NOP,SAS,0,home,OffReb,,,OffReb,,A. Davis,
+86,1,3:02.0,14,15,NOP,SAS,3,home,LU,,2,miss2,0,A. Davis,
+87,1,3:00.0,14,15,NOP,SAS,2,home,OffReb,,,OffReb,,D. Motiejūnas,
+88,1,2:56.0,14,15,NOP,SAS,4,home,LU,block,2,miss2,0,T. Evans,K. Anderson
+89,1,2:55.0,14,15,NOP,SAS,1,away,DefReb,,,DefReb,,D. Dedmon,
+90,1,2:52.0,14,15,NOP,SAS,3,away,Traveling,,,turnover,,K. Anderson,
+91,1,2:35.0,14,15,NOP,SAS,17,home,LU,,3,miss2,0,J. Holiday,
+92,1,2:35.0,14,15,NOP,SAS,0,away,DefReb,,,DefReb,,K. Anderson,
+93,1,2:25.0,14,15,NOP,SAS,10,away,JS,block,15,miss2,0,P. Mills,J. Holiday
+94,1,2:23.0,14,15,NOP,SAS,2,home,DefReb,,,DefReb,,J. Holiday,
+95,1,2:19.0,16,15,NOP,SAS,4,home,DK,assist,0,make2,2,T. Evans,J. Holiday
+96,1,2:02.0,16,15,NOP,SAS,17,away,LU,,1,miss2,0,M. Ginóbili,
+97,1,2:02.0,16,15,NOP,SAS,0,home,DefReb,,,DefReb,,A. Davis,
+98,1,1:46.0,16,15,NOP,SAS,16,home,JS,,5,miss2,0,D. Motiejūnas,
+99,1,1:45.0,16,15,NOP,SAS,1,home,OffReb,,,OffReb,,A. Davis,
+100,1,1:45.0,18,15,NOP,SAS,0,home,LU,,3,make2,2,A. Davis,
+101,1,1:34.0,18,15,NOP,SAS,11,away,JS,block,12,miss2,0,M. Ginóbili,D. Motiejūnas
+102,1,1:33.0,18,15,NOP,SAS,1,home,DefReb,,,DefReb,,A. Davis,
+103,1,1:18.0,21,15,NOP,SAS,15,home,JS,assist,23,make3,3,D. Motiejūnas,T. Evans
+104,1,1:01.0,21,18,NOP,SAS,17,away,JS,assist,26,make3,3,D. Bertāns,D. Dedmon
+105,1,0:45.0,21,18,NOP,SAS,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bertāns,A. Davis
+106,1,0:45.0,22,18,NOP,SAS,0,home,FreeThrow,,,make1,1,A. Davis,
+107,1,0:45.0,22,18,NOP,SAS,0,home,Sub,,,,,E. Moore,J. Holiday
+108,1,0:45.0,22,18,NOP,SAS,0,home,Sub,,,,,S. Hill,D. Cunningham
+109,1,0:45.0,23,18,NOP,SAS,0,home,FreeThrow,,,make1,1,A. Davis,
+110,1,0:33.0,23,20,NOP,SAS,12,away,JS,,10,make2,2,M. Ginóbili,
+111,1,0:18.0,23,20,NOP,SAS,15,home,JS,,27,miss3,0,D. Motiejūnas,
+112,1,0:16.0,23,20,NOP,SAS,2,home,OffReb,,,OffReb,,S. Hill,
+113,1,0:04.0,23,20,NOP,SAS,12,home,JS,,26,miss3,0,A. Davis,
+114,1,0:02.0,23,20,NOP,SAS,2,away,DefReb,,,DefReb,,D. Dedmon,
+115,1,0:00.0,23,20,NOP,SAS,2,away,JS,,62,miss3,0,K. Anderson,
+116,1,0:00.0,23,20,NOP,SAS,0,away,OffReb,,,OffReb,,Team,
+117,2,11:49.0,23,23,NOP,SAS,11,away,JS,assist,25,make3,3,D. Bertāns,P. Mills
+118,2,11:35.0,23,23,NOP,SAS,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Mills,T. Jones
+119,2,11:35.0,24,23,NOP,SAS,0,home,FreeThrow,,,make1,1,T. Jones,
+120,2,11:35.0,25,23,NOP,SAS,0,home,FreeThrow,,,make1,1,T. Jones,
+121,2,11:18.0,25,23,NOP,SAS,17,away,BadPass,steal,,turnover,,M. Ginóbili,E. Moore
+122,2,11:11.0,27,23,NOP,SAS,7,home,LU,assist,2,make2,2,D. Motiejūnas,T. Evans
+123,2,10:57.0,27,23,NOP,SAS,14,away,BadPass,steal,,turnover,,K. Leonard,D. Motiejūnas
+124,2,10:51.0,27,23,NOP,SAS,6,home,LU,,2,miss2,0,T. Evans,
+125,2,10:49.0,27,23,NOP,SAS,2,away,DefReb,,,DefReb,,K. Leonard,
+126,2,10:43.0,27,26,NOP,SAS,6,away,JS,assist,25,make3,3,M. Ginóbili,K. Leonard
+127,2,10:27.0,29,26,NOP,SAS,16,home,LU,,2,make2,2,T. Jones,
+128,2,10:14.0,29,28,NOP,SAS,13,away,JS,,7,make2,2,K. Leonard,
+129,2,9:57.0,29,28,NOP,SAS,17,home,JS,,14,miss2,0,E. Moore,
+130,2,9:56.0,29,28,NOP,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+131,2,9:47.0,29,31,NOP,SAS,9,away,JS,,27,make3,3,K. Leonard,
+132,2,9:24.0,32,31,NOP,SAS,23,home,JS,assist,26,make3,3,S. Hill,T. Evans
+133,2,9:24.0,32,31,NOP,SAS,0,away,Timeout,,,,,,
+134,2,9:24.0,32,31,NOP,SAS,0,away,Sub,,,,,T. Parker,D. Bertāns
+135,2,9:24.0,32,31,NOP,SAS,0,away,Sub,,,,,D. Green,M. Ginóbili
+136,2,9:24.0,32,31,NOP,SAS,0,away,Sub,,,,,L. Aldridge,P. Mills
+137,2,9:24.0,32,31,NOP,SAS,0,away,Sub,,,,,D. Lee,D. Dedmon
+138,2,9:01.0,32,31,NOP,SAS,23,away,JS,,12,miss2,0,K. Leonard,
+139,2,9:01.0,32,31,NOP,SAS,0,home,DefReb,,,DefReb,,S. Hill,
+140,2,8:40.0,34,31,NOP,SAS,21,home,LU,assist,2,make2,2,T. Jones,E. Moore
+141,2,8:40.0,34,31,NOP,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,T. Jones
+142,2,8:40.0,34,31,NOP,SAS,0,home,FreeThrow,,,make1,0,T. Jones,
+143,2,8:40.0,34,31,NOP,SAS,0,home,Sub,,,,,J. Holiday,T. Evans
+144,2,8:39.0,34,31,NOP,SAS,1,away,DefReb,,,DefReb,,L. Aldridge,
+145,2,8:19.0,34,33,NOP,SAS,20,away,JS,assist,20,make2,2,L. Aldridge,K. Leonard
+146,2,7:56.0,36,33,NOP,SAS,23,home,JS,,18,make2,2,J. Holiday,
+147,2,7:35.0,36,35,NOP,SAS,21,away,JS,,13,make2,2,K. Leonard,
+148,2,7:35.0,36,35,NOP,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Motiejūnas,K. Leonard
+149,2,7:35.0,36,36,NOP,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+150,2,7:20.0,38,36,NOP,SAS,15,home,JS,assist,5,make2,2,J. Holiday,E. Moore
+151,2,7:03.0,38,38,NOP,SAS,17,away,DK,assist,0,make2,2,D. Lee,K. Leonard
+152,2,6:44.0,38,38,NOP,SAS,19,home,JS,,4,miss2,0,T. Jones,
+153,2,6:44.0,38,38,NOP,SAS,0,away,DefReb,,,DefReb,,D. Green,
+154,2,6:38.0,38,38,NOP,SAS,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,T. Parker
+155,2,6:38.0,38,39,NOP,SAS,0,away,FreeThrow,,,make1,1,T. Parker,
+156,2,6:38.0,38,39,NOP,SAS,0,home,Sub,,,,,A. Davis,D. Motiejūnas
+157,2,6:38.0,38,39,NOP,SAS,0,home,Sub,,,,,D. Cunningham,S. Hill
+158,2,6:38.0,38,40,NOP,SAS,0,away,FreeThrow,,,make1,1,T. Parker,
+159,2,6:24.0,38,40,NOP,SAS,14,home,LU,,2,miss2,0,J. Holiday,
+160,2,6:24.0,38,40,NOP,SAS,0,away,DefReb,,,DefReb,,D. Lee,
+161,2,6:14.0,38,40,NOP,SAS,10,away,JS,,12,miss2,0,T. Parker,
+162,2,6:14.0,38,40,NOP,SAS,0,away,OffReb,,,OffReb,,D. Lee,
+163,2,6:14.0,38,40,NOP,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Jones,D. Lee
+164,2,6:14.0,38,41,NOP,SAS,0,away,FreeThrow,,,make1,1,D. Lee,
+165,2,6:14.0,38,41,NOP,SAS,0,away,Sub,,,,,K. Anderson,K. Leonard
+166,2,6:14.0,38,42,NOP,SAS,0,away,FreeThrow,,,make1,1,D. Lee,
+167,2,5:56.0,40,42,NOP,SAS,18,home,LU,assist,3,make2,2,T. Jones,J. Holiday
+168,2,5:30.0,40,42,NOP,SAS,26,away,JS,,25,miss3,0,D. Green,
+169,2,5:29.0,40,42,NOP,SAS,1,home,DefReb,,,DefReb,,A. Davis,
+170,2,5:19.0,40,42,NOP,SAS,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Aldridge,A. Davis
+171,2,5:19.0,40,42,NOP,SAS,0,away,Timeout,,,,,,
+172,2,5:19.0,40,42,NOP,SAS,0,home,Sub,,,,,L. Galloway,E. Moore
+173,2,5:08.0,40,42,NOP,SAS,11,home,LostBall,,,turnover,,A. Davis,
+174,2,4:52.0,40,42,NOP,SAS,16,away,JS,,19,miss2,0,L. Aldridge,
+175,2,4:51.0,40,42,NOP,SAS,1,home,DefReb,,,DefReb,,A. Davis,
+176,2,4:33.0,42,42,NOP,SAS,18,home,DK,assist,0,make2,2,D. Cunningham,J. Holiday
+177,2,4:11.0,42,44,NOP,SAS,22,away,JS,,13,make2,2,L. Aldridge,
+178,2,3:52.0,42,44,NOP,SAS,19,away,Sub,,,,,K. Leonard,K. Anderson
+179,2,3:46.0,42,44,NOP,SAS,6,home,JS,,15,miss2,0,A. Davis,
+180,2,3:46.0,42,44,NOP,SAS,0,away,DefReb,,,DefReb,,D. Lee,
+181,2,3:29.0,42,44,NOP,SAS,17,away,JS,,9,miss2,0,L. Aldridge,
+182,2,3:29.0,42,44,NOP,SAS,0,home,DefReb,,,DefReb,,T. Jones,
+183,2,3:23.0,42,44,NOP,SAS,6,home,OffensiveFoul,,,turnover,,A. Davis,
+184,2,3:23.0,42,44,NOP,SAS,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Davis,K. Leonard
+185,2,3:23.0,42,44,NOP,SAS,0,away,Sub,,,,,P. Mills,T. Parker
+186,2,3:03.0,42,46,NOP,SAS,20,away,DK,assist,0,make2,2,D. Lee,D. Green
+187,2,2:51.0,42,46,NOP,SAS,12,home,BadPass,steal,,turnover,,J. Holiday,P. Mills
+188,2,2:46.0,42,46,NOP,SAS,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Galloway,K. Leonard
+189,2,2:46.0,42,46,NOP,SAS,0,home,Timeout,,,,,,
+190,2,2:46.0,42,47,NOP,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+191,2,2:46.0,42,46,NOP,SAS,0,home,Sub,,,,,D. Motiejūnas,T. Jones
+192,2,2:46.0,42,48,NOP,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+193,2,2:25.0,42,48,NOP,SAS,21,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Leonard,A. Davis
+194,2,2:25.0,42,48,NOP,SAS,0,away,Sub,,,,,M. Ginóbili,D. Green
+195,2,2:15.0,44,48,NOP,SAS,10,home,DK,assist,0,make2,2,A. Davis,D. Motiejūnas
+196,2,2:02.0,44,48,NOP,SAS,13,away,JS,,22,miss2,0,L. Aldridge,
+197,2,2:01.0,44,48,NOP,SAS,1,away,OffReb,,,OffReb,,D. Lee,
+198,2,1:59.0,44,48,NOP,SAS,2,away,JS,,25,miss3,0,K. Leonard,
+199,2,1:58.0,44,48,NOP,SAS,1,away,OffReb,,,OffReb,,L. Aldridge,
+200,2,1:58.0,44,48,NOP,SAS,0,away,LU,,2,miss2,0,L. Aldridge,
+201,2,1:55.0,44,48,NOP,SAS,3,home,DefReb,,,DefReb,,A. Davis,
+202,2,1:50.0,44,48,NOP,SAS,5,home,LostBall,steal,,turnover,,A. Davis,M. Ginóbili
+203,2,1:44.0,44,48,NOP,SAS,6,away,JS,,26,miss3,0,P. Mills,
+204,2,1:40.0,44,48,NOP,SAS,4,away,OffReb,,,OffReb,,D. Lee,
+205,2,1:40.0,44,50,NOP,SAS,0,away,LU,,1,make2,2,D. Lee,
+206,2,1:33.0,46,50,NOP,SAS,7,home,LU,assist,2,make2,2,D. Motiejūnas,J. Holiday
+207,2,1:11.0,46,50,NOP,SAS,22,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,A. Davis,K. Leonard
+208,2,1:11.0,46,51,NOP,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+209,2,1:11.0,46,50,NOP,SAS,0,home,Sub,,,,,T. Jones,A. Davis
+210,2,1:11.0,46,50,NOP,SAS,0,away,Sub,,,,,D. Bertāns,D. Lee
+211,2,1:11.0,46,51,NOP,SAS,0,home,Sub,,,,,S. Hill,T. Jones
+212,2,1:11.0,46,52,NOP,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+213,2,1:02.0,46,52,NOP,SAS,9,home,BadPass,steal,,turnover,,J. Holiday,P. Mills
+214,2,0:55.0,46,52,NOP,SAS,7,away,LU,,2,miss2,0,P. Mills,
+215,2,0:54.0,46,52,NOP,SAS,1,home,DefReb,,,DefReb,,D. Motiejūnas,
+216,2,0:48.0,46,52,NOP,SAS,6,home,JS,,25,miss3,0,L. Galloway,
+217,2,0:46.0,46,52,NOP,SAS,2,away,DefReb,,,DefReb,,L. Aldridge,
+218,2,0:39.0,46,54,NOP,SAS,7,away,LU,assist,2,make2,2,M. Ginóbili,P. Mills
+219,2,0:32.0,46,54,NOP,SAS,7,home,JS,,16,miss2,0,J. Holiday,
+220,2,0:31.0,46,54,NOP,SAS,1,away,DefReb,,,DefReb,,L. Aldridge,
+221,2,0:09.0,46,54,NOP,SAS,22,away,LU,,3,miss2,0,K. Leonard,
+222,2,0:09.0,46,54,NOP,SAS,0,away,OffReb,,,OffReb,,L. Aldridge,
+223,2,0:09.0,46,54,NOP,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Motiejūnas,L. Aldridge
+224,2,0:09.0,46,55,NOP,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
+225,2,0:09.0,46,55,NOP,SAS,0,away,FreeThrow,,,make1,0,L. Aldridge,
+226,2,0:09.0,46,55,NOP,SAS,0,away,Sub,,,,,D. Green,D. Bertāns
+227,2,0:09.0,46,55,NOP,SAS,0,home,Sub,,,,,E. Moore,D. Cunningham
+228,2,0:08.0,46,55,NOP,SAS,1,away,OffReb,,,OffReb,,K. Leonard,
+229,2,0:08.0,46,55,NOP,SAS,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,L. Galloway,K. Leonard
+230,2,0:08.0,46,56,NOP,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+231,2,0:08.0,46,57,NOP,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+232,2,0:02.0,48,57,NOP,SAS,6,home,JS,,9,make2,2,J. Holiday,
+233,2,0:00.0,48,57,NOP,SAS,2,away,JS,,39,miss3,0,K. Leonard,
+234,2,0:00.0,48,57,NOP,SAS,0,away,OffReb,,,OffReb,,Team,
+235,3,11:45.0,48,57,NOP,SAS,15,away,JS,,20,miss2,0,L. Aldridge,
+236,3,11:43.0,48,57,NOP,SAS,2,home,DefReb,,,DefReb,,J. Holiday,
+237,3,11:29.0,50,57,NOP,SAS,14,home,DK,assist,0,make2,2,D. Cunningham,J. Holiday
+238,3,11:11.0,50,57,NOP,SAS,18,away,JS,,23,miss3,0,D. Green,
+239,3,11:11.0,50,57,NOP,SAS,0,home,DefReb,,,DefReb,,A. Davis,
+240,3,10:45.0,50,57,NOP,SAS,26,home,JS,,24,miss3,0,D. Cunningham,
+241,3,10:45.0,50,57,NOP,SAS,0,away,DefReb,,,DefReb,,L. Aldridge,
+242,3,10:39.0,50,57,NOP,SAS,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,T. Parker
+243,3,10:39.0,50,57,NOP,SAS,0,away,FreeThrow,,,make1,0,T. Parker,
+244,3,10:39.0,50,57,NOP,SAS,0,away,OffReb,,,OffReb,,Team,
+245,3,10:39.0,50,58,NOP,SAS,0,away,FreeThrow,,,make1,1,T. Parker,
+246,3,10:24.0,50,58,NOP,SAS,15,home,JS,,24,miss3,0,J. Holiday,
+247,3,10:23.0,50,58,NOP,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+248,3,10:18.0,50,58,NOP,SAS,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cunningham,L. Aldridge
+249,3,10:03.0,50,58,NOP,SAS,15,away,JS,,7,miss2,0,K. Leonard,
+250,3,10:01.0,50,58,NOP,SAS,2,away,OffReb,,,OffReb,,L. Aldridge,
+251,3,9:58.0,50,58,NOP,SAS,3,away,JS,,9,miss2,0,L. Aldridge,
+252,3,9:57.0,50,58,NOP,SAS,1,home,DefReb,,,DefReb,,J. Holiday,
+253,3,9:52.0,50,58,NOP,SAS,5,home,JS,,3,miss2,0,J. Holiday,
+254,3,9:51.0,50,58,NOP,SAS,1,home,OffReb,,,OffReb,,A. Davis,
+255,3,9:51.0,52,58,NOP,SAS,0,home,DK,,0,make2,2,A. Davis,
+256,3,9:51.0,52,58,NOP,SAS,0,away,Timeout,,,,,,
+257,3,9:35.0,52,58,NOP,SAS,16,away,JS,,8,miss2,0,L. Aldridge,
+258,3,9:35.0,52,58,NOP,SAS,0,home,DefReb,,,DefReb,,A. Davis,
+259,3,9:20.0,55,58,NOP,SAS,15,home,JS,assist,26,make3,3,B. Hield,S. Hill
+260,3,9:01.0,55,60,NOP,SAS,19,away,JS,,21,make2,2,K. Leonard,
+261,3,8:41.0,55,60,NOP,SAS,20,home,LostBall,,,turnover,,B. Hield,
+262,3,8:39.0,55,60,NOP,SAS,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Hield,D. Green
+263,3,8:39.0,55,61,NOP,SAS,0,away,FreeThrow,,,make1,1,D. Green,
+264,3,8:39.0,55,62,NOP,SAS,0,away,FreeThrow,,,make1,1,D. Green,
+265,3,8:25.0,55,62,NOP,SAS,14,home,JS,,26,miss3,0,B. Hield,
+266,3,8:24.0,55,62,NOP,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+267,3,8:08.0,55,64,NOP,SAS,16,away,DK,assist,0,make2,2,L. Aldridge,D. Green
+268,3,7:55.0,55,64,NOP,SAS,13,home,JS,,25,miss3,0,S. Hill,
+269,3,7:55.0,55,64,NOP,SAS,0,away,DefReb,,,DefReb,,K. Leonard,
+270,3,7:44.0,55,64,NOP,SAS,11,away,BadPass,steal,,turnover,,K. Leonard,J. Holiday
+271,3,7:37.0,55,64,NOP,SAS,7,home,JS,,24,miss3,0,B. Hield,
+272,3,7:36.0,55,64,NOP,SAS,1,away,DefReb,,,DefReb,,L. Aldridge,
+273,3,7:13.0,55,66,NOP,SAS,23,away,LU,assist,1,make2,2,L. Aldridge,K. Leonard
+274,3,6:50.0,58,66,NOP,SAS,23,home,JS,assist,27,make3,3,S. Hill,B. Hield
+275,3,6:34.0,58,66,NOP,SAS,16,away,BadPass,steal,,turnover,,T. Parker,S. Hill
+276,3,6:33.0,58,66,NOP,SAS,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Lee,B. Hield
+277,3,6:33.0,58,66,NOP,SAS,0,home,Sub,,,,,E. Moore,B. Hield
+278,3,6:19.0,58,66,NOP,SAS,14,home,BadPass,steal,,turnover,,A. Davis,D. Lee
+279,3,6:11.0,58,66,NOP,SAS,8,away,LU,,2,miss2,0,T. Parker,
+280,3,6:09.0,58,66,NOP,SAS,2,home,DefReb,,,DefReb,,A. Davis,
+281,3,6:06.0,60,66,NOP,SAS,3,home,DK,assist,0,make2,2,J. Holiday,A. Davis
+282,3,5:53.0,60,66,NOP,SAS,13,away,JS,,8,miss2,0,T. Parker,
+283,3,5:52.0,60,66,NOP,SAS,1,home,DefReb,,,DefReb,,A. Davis,
+284,3,5:46.0,60,66,NOP,SAS,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Lee,A. Davis
+285,3,5:46.0,60,66,NOP,SAS,0,away,Sub,,,,,P. Mills,T. Parker
+286,3,5:33.0,62,66,NOP,SAS,13,home,JS,,3,make2,2,E. Moore,
+287,3,5:14.0,62,68,NOP,SAS,19,away,JS,,13,make2,2,K. Leonard,
+288,3,5:03.0,62,68,NOP,SAS,11,home,JS,,24,miss3,0,E. Moore,
+289,3,5:02.0,62,68,NOP,SAS,1,away,DefReb,,,DefReb,,D. Lee,
+290,3,4:56.0,62,68,NOP,SAS,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Green,A. Davis
+291,3,4:56.0,62,68,NOP,SAS,0,away,OffensiveFoul,,,turnover,,D. Green,
+292,3,4:56.0,62,68,NOP,SAS,0,away,TechnicalFoul,,,TechnicalFoul,,D. Green,
+293,3,4:56.0,63,68,NOP,SAS,0,home,FreeThrow,,,make1,1,A. Davis makes technical free throw,
+294,3,4:56.0,63,68,NOP,SAS,0,away,Sub,,,,,M. Ginóbili,D. Lee
+295,3,4:56.0,63,68,NOP,SAS,0,away,Sub,,,,,D. Bertāns,D. Green
+296,3,4:39.0,66,68,NOP,SAS,17,home,JS,,25,make3,3,J. Holiday,
+297,3,4:19.0,66,70,NOP,SAS,20,away,LU,,3,make2,2,L. Aldridge,
+298,3,4:08.0,68,70,NOP,SAS,11,home,LU,assist,2,make2,2,A. Davis,J. Holiday
+299,3,4:03.0,68,70,NOP,SAS,5,away,DiscontinueDribbleTurnover,,,turnover,,K. Leonard,
+300,3,4:03.0,68,70,NOP,SAS,0,away,Sub,,,,,K. Anderson,K. Leonard
+301,3,3:49.0,71,70,NOP,SAS,14,home,JS,,25,make3,3,E. Moore,
+302,3,3:31.0,71,70,NOP,SAS,18,home,Sub,,,,,D. Motiejūnas,S. Hill
+303,3,3:31.0,71,70,NOP,SAS,0,away,Sub,,,,,D. Dedmon,L. Aldridge
+304,3,3:25.0,71,70,NOP,SAS,6,away,JS,,12,miss2,0,M. Ginóbili,
+305,3,3:24.0,71,70,NOP,SAS,1,away,OffReb,,,OffReb,,D. Dedmon,
+306,3,3:24.0,71,70,NOP,SAS,0,away,DK,,0,miss2,0,D. Dedmon,
+307,3,3:23.0,71,70,NOP,SAS,1,home,DefReb,,,DefReb,,J. Holiday,
+308,3,3:13.0,71,70,NOP,SAS,10,home,LostBall,steal,,turnover,,A. Davis,K. Anderson
+309,3,3:02.0,71,72,NOP,SAS,11,away,LU,assist,2,make2,2,D. Bertāns,M. Ginóbili
+310,3,2:58.0,71,72,NOP,SAS,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,D. Motiejūnas
+311,3,2:58.0,73,72,NOP,SAS,0,home,LU,assist,2,make2,2,D. Motiejūnas,J. Holiday
+312,3,2:58.0,73,72,NOP,SAS,0,home,Timeout,,,,,,
+313,3,2:58.0,73,72,NOP,SAS,0,away,Sub,,,,,J. Anthony,D. Dedmon
+314,3,2:58.0,73,72,NOP,SAS,0,home,Sub,,,,,T. Jones,A. Davis
+315,3,2:58.0,74,72,NOP,SAS,0,home,FreeThrow,,,make1,1,D. Motiejūnas,
+316,3,2:50.0,74,72,NOP,SAS,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Jones,K. Anderson
+317,3,2:50.0,74,73,NOP,SAS,0,away,FreeThrow,,,make1,1,K. Anderson,
+318,3,2:50.0,74,74,NOP,SAS,0,away,FreeThrow,,,make1,1,K. Anderson,
+319,3,2:38.0,76,74,NOP,SAS,12,home,JS,assist,11,make2,2,E. Moore,D. Motiejūnas
+320,3,2:20.0,76,74,NOP,SAS,18,away,JS,,25,miss3,0,D. Bertāns,
+321,3,2:18.0,76,74,NOP,SAS,2,away,OffReb,,,OffReb,,P. Mills,
+322,3,2:07.0,76,74,NOP,SAS,11,away,LU,,3,miss2,0,M. Ginóbili,
+323,3,2:06.0,76,74,NOP,SAS,1,home,DefReb,,,DefReb,,T. Jones,
+324,3,1:56.0,78,74,NOP,SAS,10,home,LU,assist,3,make2,2,E. Moore,J. Holiday
+325,3,1:34.0,78,77,NOP,SAS,22,away,JS,assist,27,make3,3,D. Bertāns,M. Ginóbili
+326,3,1:23.0,81,77,NOP,SAS,11,home,JS,assist,28,make3,3,J. Holiday,D. Motiejūnas
+327,3,1:02.0,81,77,NOP,SAS,21,away,BadPass,steal,,turnover,,P. Mills,E. Moore
+328,3,1:00.0,83,77,NOP,SAS,2,home,LU,,1,make2,2,E. Moore,
+329,3,0:55.0,83,80,NOP,SAS,5,away,JS,assist,27,make3,3,D. Bertāns,M. Ginóbili
+330,3,0:44.0,83,80,NOP,SAS,11,home,BadPass,steal,,turnover,,J. Holiday,D. Bertāns
+331,3,0:37.0,83,80,NOP,SAS,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Moore,J. Anthony
+332,3,0:37.0,83,81,NOP,SAS,0,away,FreeThrow,,,make1,1,J. Anthony,
+333,3,0:37.0,83,81,NOP,SAS,0,home,Sub,,,,,S. Hill,D. Cunningham
+334,3,0:37.0,83,81,NOP,SAS,0,home,Sub,,,,,T. Evans,J. Holiday
+335,3,0:37.0,83,82,NOP,SAS,0,away,FreeThrow,,,make1,1,J. Anthony,
+336,3,0:26.0,83,82,NOP,SAS,11,home,JS,block,19,miss2,0,E. Moore,D. Bertāns
+337,3,0:24.0,83,82,NOP,SAS,2,home,OffReb,,,OffReb,,E. Moore,
+338,3,0:21.0,85,82,NOP,SAS,3,home,JS,assist,17,make2,2,T. Jones,E. Moore
+339,3,0:01.0,85,82,NOP,SAS,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Moore,K. Anderson
+340,3,0:01.0,85,83,NOP,SAS,0,away,FreeThrow,,,make1,1,K. Anderson,
+341,3,0:01.0,85,84,NOP,SAS,0,away,FreeThrow,,,make1,1,K. Anderson,
+342,4,11:47.0,85,84,NOP,SAS,13,home,LU,,2,miss2,0,E. Moore,
+343,4,11:46.0,85,84,NOP,SAS,1,away,DefReb,,,DefReb,,J. Anthony,
+344,4,11:30.0,85,84,NOP,SAS,16,away,JS,,26,miss3,0,P. Mills,
+345,4,11:29.0,85,84,NOP,SAS,1,home,DefReb,,,DefReb,,T. Evans,
+346,4,11:17.0,88,84,NOP,SAS,12,home,JS,assist,25,make3,3,T. Evans,S. Hill
+347,4,11:01.0,88,84,NOP,SAS,16,away,JS,,23,miss3,0,D. Green,
+348,4,11:00.0,88,84,NOP,SAS,1,home,DefReb,,,DefReb,,T. Jones,
+349,4,10:44.0,90,84,NOP,SAS,16,home,JS,,6,make2,2,T. Jones,
+350,4,10:34.0,90,84,NOP,SAS,10,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Motiejūnas,K. Anderson
+351,4,10:23.0,90,84,NOP,SAS,11,away,BadPass,,,turnover,,K. Anderson,
+352,4,10:23.0,90,84,NOP,SAS,0,away,Sub,,,,,D. Lee,J. Anthony
+353,4,10:08.0,90,84,NOP,SAS,15,home,JS,,12,miss2,0,T. Jones,
+354,4,10:08.0,90,84,NOP,SAS,0,home,OffReb,,,OffReb,,D. Motiejūnas,
+355,4,9:56.0,92,84,NOP,SAS,12,home,LU,,2,make2,2,T. Evans,
+356,4,9:55.0,92,84,NOP,SAS,1,away,Timeout,,,,,,
+357,4,9:55.0,92,84,NOP,SAS,0,away,Sub,,,,,K. Leonard,K. Anderson
+358,4,9:55.0,92,84,NOP,SAS,0,away,Sub,,,,,L. Aldridge,D. Bertāns
+359,4,9:33.0,92,86,NOP,SAS,22,away,DK,assist,0,make2,2,D. Lee,K. Leonard
+360,4,9:18.0,92,86,NOP,SAS,15,home,JS,,5,miss2,0,E. Moore,
+361,4,9:10.0,92,86,NOP,SAS,8,home,OffReb,,,OffReb,,T. Jones,
+362,4,9:10.0,92,86,NOP,SAS,0,home,LU,block,2,miss2,0,T. Jones,D. Lee
+363,4,9:10.0,92,86,NOP,SAS,0,home,OffReb,,,OffReb,,E. Moore,
+364,4,9:09.0,94,86,NOP,SAS,1,home,LU,,2,make2,2,E. Moore,
+365,4,9:02.0,94,86,NOP,SAS,7,away,JS,,26,miss3,0,K. Leonard,
+366,4,9:01.0,94,86,NOP,SAS,1,home,DefReb,,,DefReb,,D. Motiejūnas,
+367,4,8:41.0,94,86,NOP,SAS,20,home,JS,,4,miss2,0,T. Jones,
+368,4,8:39.0,94,86,NOP,SAS,2,away,DefReb,,,DefReb,,D. Green,
+369,4,8:28.0,94,86,NOP,SAS,11,away,JS,,19,miss2,0,L. Aldridge,
+370,4,8:27.0,94,86,NOP,SAS,1,home,DefReb,,,DefReb,,D. Motiejūnas,
+371,4,8:17.0,94,86,NOP,SAS,10,home,JS,block,4,miss2,0,T. Evans,L. Aldridge
+372,4,8:15.0,94,86,NOP,SAS,2,away,DefReb,,,DefReb,,D. Green,
+373,4,8:11.0,94,86,NOP,SAS,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Motiejūnas,D. Lee
+374,4,8:11.0,94,86,NOP,SAS,0,away,FreeThrow,,,make1,0,D. Lee,
+375,4,8:11.0,94,86,NOP,SAS,0,away,OffReb,,,OffReb,,Team,
+376,4,8:11.0,94,86,NOP,SAS,0,home,Sub,,,,,J. Holiday,E. Moore
+377,4,8:11.0,94,86,NOP,SAS,0,away,Sub,,,,,T. Parker,P. Mills
+378,4,8:11.0,94,87,NOP,SAS,0,away,FreeThrow,,,make1,1,D. Lee,
+379,4,8:01.0,94,87,NOP,SAS,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Parker,S. Hill
+380,4,8:01.0,95,87,NOP,SAS,0,home,FreeThrow,,,make1,1,S. Hill,
+381,4,8:01.0,95,87,NOP,SAS,0,home,FreeThrow,,,make1,0,S. Hill,
+382,4,8:01.0,95,87,NOP,SAS,0,home,Sub,,,,,A. Davis,D. Motiejūnas
+383,4,7:52.0,95,87,NOP,SAS,9,away,DefReb,,,DefReb,,D. Lee,
+384,4,7:47.0,95,87,NOP,SAS,5,away,JS,,16,miss2,0,L. Aldridge,
+385,4,7:46.0,95,87,NOP,SAS,1,away,OffReb,,,OffReb,,D. Lee,
+386,4,7:42.0,95,87,NOP,SAS,4,away,JS,,26,miss3,0,L. Aldridge,
+387,4,7:42.0,95,87,NOP,SAS,0,home,DefReb,,,DefReb,,T. Jones,
+388,4,7:29.0,95,87,NOP,SAS,13,home,LU,,1,miss2,0,T. Jones,
+389,4,7:27.0,95,87,NOP,SAS,2,away,DefReb,,,DefReb,,L. Aldridge,
+390,4,7:16.0,95,90,NOP,SAS,11,away,JS,assist,26,make3,3,D. Green,K. Leonard
+391,4,7:02.0,97,90,NOP,SAS,14,home,LU,assist,2,make2,2,T. Jones,J. Holiday
+392,4,6:46.0,97,90,NOP,SAS,16,away,JS,,17,miss2,0,K. Leonard,
+393,4,6:45.0,97,90,NOP,SAS,1,home,DefReb,,,DefReb,,A. Davis,
+394,4,6:32.0,100,90,NOP,SAS,13,home,JS,assist,27,make3,3,S. Hill,T. Evans
+395,4,6:32.0,100,90,NOP,SAS,0,away,Timeout,,,,,,
+396,4,6:27.0,100,90,NOP,SAS,5,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,T. Evans,K. Leonard
+397,4,6:27.0,100,91,NOP,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+398,4,6:27.0,100,92,NOP,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+399,4,6:08.0,100,92,NOP,SAS,19,home,LostBall,steal,,turnover,,J. Holiday,K. Leonard
+400,4,6:07.0,100,92,NOP,SAS,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Holiday,K. Leonard
+401,4,5:55.0,100,92,NOP,SAS,12,away,BadPass,steal,,turnover,,K. Leonard,T. Evans
+402,4,5:49.0,100,92,NOP,SAS,6,home,LU,,2,miss2,0,T. Evans,
+403,4,5:46.0,100,92,NOP,SAS,3,home,OffReb,,,OffReb,,T. Jones,
+404,4,5:46.0,102,92,NOP,SAS,0,home,DK,,0,make2,2,T. Jones,
+405,4,5:36.0,102,95,NOP,SAS,10,away,JS,assist,27,make3,3,K. Leonard,T. Parker
+406,4,5:20.0,102,95,NOP,SAS,16,home,JS,,24,miss3,0,T. Jones,
+407,4,5:19.0,102,95,NOP,SAS,1,away,DefReb,,,DefReb,,Team,
+408,4,4:59.0,102,95,NOP,SAS,20,away,JS,,23,miss3,0,T. Parker,
+409,4,4:59.0,102,95,NOP,SAS,0,home,DefReb,,,DefReb,,T. Jones,
+410,4,4:44.0,105,95,NOP,SAS,15,home,JS,,24,make3,3,J. Holiday,
+411,4,4:43.0,105,95,NOP,SAS,1,away,Timeout,,,,,,
+412,4,4:43.0,105,95,NOP,SAS,0,away,Sub,,,,,P. Mills,T. Parker
+413,4,4:32.0,105,95,NOP,SAS,11,away,JS,,17,miss2,0,L. Aldridge,
+414,4,4:31.0,105,95,NOP,SAS,1,home,DefReb,,,DefReb,,T. Evans,
+415,4,4:16.0,108,95,NOP,SAS,15,home,JS,assist,26,make3,3,T. Jones,J. Holiday
+416,4,3:50.0,108,95,NOP,SAS,26,away,JS,,23,miss3,0,L. Aldridge,
+417,4,3:50.0,108,95,NOP,SAS,0,home,DefReb,,,DefReb,,A. Davis,
+418,4,3:33.0,110,95,NOP,SAS,17,home,LU,,3,make2,2,T. Evans,
+419,4,3:32.0,110,95,NOP,SAS,1,away,Timeout,,,,,,
+420,4,3:32.0,110,95,NOP,SAS,0,away,Sub,,,,,D. Bertāns,K. Leonard
+421,4,3:32.0,110,95,NOP,SAS,0,away,Sub,,,,,K. Anderson,L. Aldridge
+422,4,3:32.0,110,95,NOP,SAS,0,away,Sub,,,,,B. Forbes,D. Lee
+423,4,3:32.0,110,95,NOP,SAS,0,away,Sub,,,,,J. Anthony,D. Green
+424,4,3:32.0,110,95,NOP,SAS,0,away,Sub,,,,,D. Murray,P. Mills
+425,4,3:16.0,110,95,NOP,SAS,16,away,JS,,8,miss2,0,D. Murray,
+426,4,3:15.0,110,95,NOP,SAS,1,home,DefReb,,,DefReb,,A. Davis,
+427,4,2:56.0,113,95,NOP,SAS,19,home,JS,assist,24,make3,3,S. Hill,T. Jones
+428,4,2:45.0,113,98,NOP,SAS,11,away,JS,assist,26,make3,3,D. Bertāns,B. Forbes
+429,4,2:23.0,113,98,NOP,SAS,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Anthony,T. Jones
+430,4,2:23.0,114,98,NOP,SAS,0,home,FreeThrow,,,make1,1,T. Jones,
+431,4,2:23.0,115,98,NOP,SAS,0,home,FreeThrow,,,make1,1,T. Jones,
+432,4,2:11.0,115,98,NOP,SAS,12,away,JS,,19,miss2,0,B. Forbes,
+433,4,2:10.0,115,98,NOP,SAS,1,home,DefReb,,,DefReb,,A. Davis,
+434,4,1:56.0,117,98,NOP,SAS,14,home,LU,,2,make2,2,T. Evans,
+435,4,1:47.0,117,98,NOP,SAS,9,away,JS,,17,miss2,0,D. Murray,
+436,4,1:47.0,117,98,NOP,SAS,0,home,DefReb,,,DefReb,,A. Davis,
+437,4,1:25.0,117,98,NOP,SAS,22,home,JS,,24,miss3,0,J. Holiday,
+438,4,1:25.0,117,98,NOP,SAS,0,home,OffReb,,,OffReb,,A. Davis,
+439,4,1:25.0,119,98,NOP,SAS,0,home,DK,,0,make2,2,A. Davis,
+440,4,1:12.0,119,100,NOP,SAS,13,away,JS,,3,make2,2,J. Anthony,
+441,4,1:08.0,119,100,NOP,SAS,4,home,Timeout,,,,,,
+442,4,1:08.0,119,100,NOP,SAS,0,away,Sub,,,,,D. Dedmon,D. Murray
+443,4,1:08.0,119,100,NOP,SAS,0,home,Sub,,,,,L. Galloway,S. Hill
+444,4,1:08.0,119,100,NOP,SAS,0,home,Sub,,,,,D. Motiejūnas,A. Davis
+445,4,1:08.0,119,100,NOP,SAS,0,home,Sub,,,,,B. Hield,J. Holiday
+446,4,0:52.0,119,100,NOP,SAS,16,home,JS,,24,miss3,0,T. Evans,
+447,4,0:52.0,119,100,NOP,SAS,0,away,DefReb,,,DefReb,,D. Dedmon,
+448,4,0:45.0,119,100,NOP,SAS,7,away,JS,,16,miss2,0,K. Anderson,
+449,4,0:44.0,119,100,NOP,SAS,1,home,DefReb,,,DefReb,,D. Motiejūnas,
+450,4,0:25.0,119,100,NOP,SAS,19,home,JS,,26,miss3,0,L. Galloway,
+451,4,0:24.0,119,100,NOP,SAS,1,away,DefReb,,,DefReb,,D. Bertāns,
+452,4,0:13.0,119,103,NOP,SAS,11,away,JS,assist,26,make3,3,B. Forbes,K. Anderson

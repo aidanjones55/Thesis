@@ -1,0 +1,438 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:44.0,2,0,CHO,LAL,16,home,LU,,1,make2,2,K. Walker,
+1,1,11:31.0,2,2,CHO,LAL,13,away,LU,,0,make2,2,D. Russell,
+2,1,11:17.0,2,2,CHO,LAL,14,home,JS,,6,miss2,0,C. Zeller,
+3,1,11:16.0,2,2,CHO,LAL,1,away,DefReb,,,DefReb,,L. Deng,
+4,1,11:05.0,2,2,CHO,LAL,11,away,JS,,24,miss3,0,L. Deng,
+5,1,11:04.0,2,2,CHO,LAL,1,away,OffReb,,,OffReb,,D. Russell,
+6,1,10:58.0,2,4,CHO,LAL,6,away,JS,,15,make2,2,D. Russell,
+7,1,10:49.0,2,4,CHO,LAL,9,home,JS,,26,miss3,0,K. Walker,
+8,1,10:46.0,2,4,CHO,LAL,3,home,OffReb,,,OffReb,,N. Batum,
+9,1,10:41.0,2,4,CHO,LAL,5,home,JS,,25,miss3,0,K. Walker,
+10,1,10:40.0,2,4,CHO,LAL,1,away,DefReb,,,DefReb,,N. Young,
+11,1,10:31.0,2,6,CHO,LAL,9,away,JS,assist,10,make2,2,N. Young,D. Russell
+12,1,10:13.0,4,6,CHO,LAL,18,home,JS,assist,10,make2,2,M. Williams,N. Batum
+13,1,9:59.0,4,6,CHO,LAL,14,away,JS,,15,miss2,0,D. Russell,
+14,1,9:57.0,4,6,CHO,LAL,2,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+15,1,9:50.0,4,6,CHO,LAL,7,home,JS,,8,miss2,0,N. Batum,
+16,1,9:48.0,4,6,CHO,LAL,2,away,DefReb,,,DefReb,,L. Deng,
+17,1,9:37.0,4,8,CHO,LAL,11,away,JS,assist,7,make2,2,J. Randle,D. Russell
+18,1,9:21.0,6,8,CHO,LAL,16,home,JS,assist,16,make2,2,M. Kidd-Gilchrist,C. Zeller
+19,1,9:04.0,6,8,CHO,LAL,17,away,JS,,28,miss3,0,D. Russell,
+20,1,9:03.0,6,8,CHO,LAL,1,away,OffReb,,,OffReb,,T. Mozgov,
+21,1,8:58.0,6,11,CHO,LAL,5,away,JS,assist,25,make3,3,N. Young,T. Mozgov
+22,1,8:45.0,6,11,CHO,LAL,13,home,BadPass,,,turnover,,N. Batum,
+23,1,8:30.0,6,11,CHO,LAL,15,away,JS,,19,miss2,0,J. Randle,
+24,1,8:29.0,6,11,CHO,LAL,1,home,DefReb,,,DefReb,,N. Batum,
+25,1,8:24.0,6,11,CHO,LAL,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Mozgov,K. Walker
+26,1,8:24.0,7,11,CHO,LAL,0,home,FreeThrow,,,make1,1,K. Walker,
+27,1,8:24.0,8,11,CHO,LAL,0,home,FreeThrow,,,make1,1,K. Walker,
+28,1,8:11.0,8,11,CHO,LAL,13,away,BadPass,steal,,turnover,,N. Young,C. Zeller
+29,1,8:04.0,8,11,CHO,LAL,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Mozgov,M. Williams
+30,1,8:04.0,9,11,CHO,LAL,0,home,FreeThrow,,,make1,1,M. Williams,
+31,1,8:04.0,10,11,CHO,LAL,0,home,FreeThrow,,,make1,1,M. Williams,
+32,1,7:48.0,10,14,CHO,LAL,16,away,JS,assist,24,make3,3,L. Deng,D. Russell
+33,1,7:33.0,10,14,CHO,LAL,15,home,LU,,1,miss2,0,K. Walker,
+34,1,7:32.0,10,14,CHO,LAL,1,away,DefReb,,,DefReb,,Team,
+35,1,7:18.0,10,16,CHO,LAL,14,away,LU,assist,1,make2,2,L. Deng,J. Randle
+36,1,7:08.0,10,16,CHO,LAL,10,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Zeller,N. Young
+37,1,7:08.0,10,16,CHO,LAL,0,home,OffensiveFoul,,,turnover,,C. Zeller,
+38,1,6:47.0,10,16,CHO,LAL,21,away,LU,,2,miss2,0,J. Randle,
+39,1,6:46.0,10,16,CHO,LAL,1,away,OffReb,,,OffReb,,T. Mozgov,
+40,1,6:46.0,10,16,CHO,LAL,0,away,LU,,0,miss2,0,T. Mozgov,
+41,1,6:44.0,10,16,CHO,LAL,2,away,OffReb,,,OffReb,,T. Mozgov,
+42,1,6:44.0,10,16,CHO,LAL,0,away,LU,,0,miss2,0,T. Mozgov,
+43,1,6:43.0,10,16,CHO,LAL,1,home,DefReb,,,DefReb,,K. Walker,
+44,1,6:40.0,12,16,CHO,LAL,3,home,LU,assist,1,make2,2,M. Kidd-Gilchrist,K. Walker
+45,1,6:28.0,12,19,CHO,LAL,12,away,JS,assist,28,make3,3,N. Young,D. Russell
+46,1,6:19.0,12,19,CHO,LAL,9,home,Timeout,,,,,,
+47,1,6:10.0,12,19,CHO,LAL,9,home,JS,,16,miss2,0,M. Kidd-Gilchrist,
+48,1,6:08.0,12,19,CHO,LAL,2,away,DefReb,,,DefReb,,T. Mozgov,
+49,1,5:49.0,12,21,CHO,LAL,19,away,LU,assist,2,make2,2,L. Deng,J. Randle
+50,1,5:33.0,15,21,CHO,LAL,16,home,JS,assist,25,make3,3,N. Batum,K. Walker
+51,1,5:05.0,15,21,CHO,LAL,28,away,JS,,37,miss3,0,N. Young,
+52,1,5:04.0,15,21,CHO,LAL,1,home,DefReb,,,DefReb,,Team,
+53,1,4:53.0,15,21,CHO,LAL,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Randle,N. Batum
+54,1,4:53.0,15,21,CHO,LAL,0,home,Sub,,,,,M. Belinelli,M. Williams
+55,1,4:53.0,15,21,CHO,LAL,0,home,Sub,,,,,F. Kaminsky,M. Kidd-Gilchrist
+56,1,4:53.0,15,21,CHO,LAL,0,away,Sub,,,,,L. Nance,T. Mozgov
+57,1,4:41.0,17,21,CHO,LAL,12,home,DK,assist,0,make2,2,C. Zeller,K. Walker
+58,1,4:22.0,17,21,CHO,LAL,19,away,JS,,5,miss2,0,L. Nance,
+59,1,4:21.0,17,21,CHO,LAL,1,away,OffReb,,,OffReb,,J. Randle,
+60,1,4:21.0,17,23,CHO,LAL,0,away,LU,,1,make2,2,J. Randle,
+61,1,4:11.0,17,23,CHO,LAL,10,home,BadPass,,,turnover,,K. Walker,
+62,1,3:57.0,17,23,CHO,LAL,14,away,JS,,15,miss2,0,D. Russell,
+63,1,3:56.0,17,23,CHO,LAL,1,home,DefReb,,,DefReb,,M. Belinelli,
+64,1,3:49.0,17,23,CHO,LAL,7,away,Sub,,,,,B. Ingram,L. Deng
+65,1,3:49.0,17,23,CHO,LAL,0,away,Sub,,,,,J. Clarkson,N. Young
+66,1,3:49.0,17,23,CHO,LAL,0,home,Sub,,,,,R. Sessions,K. Walker
+67,1,3:45.0,19,23,CHO,LAL,4,home,LU,assist,2,make2,2,N. Batum,R. Sessions
+68,1,3:45.0,19,23,CHO,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Ingram,N. Batum
+69,1,3:45.0,19,23,CHO,LAL,0,away,Sub,,,,,L. Williams,D. Russell
+70,1,3:45.0,20,23,CHO,LAL,0,home,FreeThrow,,,make1,1,N. Batum,
+71,1,3:40.0,20,25,CHO,LAL,5,away,JS,,13,make2,2,L. Williams,
+72,1,3:40.0,20,25,CHO,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Zeller,L. Williams
+73,1,3:40.0,20,25,CHO,LAL,0,away,FreeThrow,,,make1,0,L. Williams,
+74,1,3:40.0,20,25,CHO,LAL,0,home,Sub,,,,,R. Hibbert,C. Zeller
+75,1,3:38.0,20,25,CHO,LAL,2,home,DefReb,,,DefReb,,R. Hibbert,
+76,1,3:21.0,20,25,CHO,LAL,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,R. Hibbert
+77,1,3:21.0,21,25,CHO,LAL,0,home,FreeThrow,,,make1,1,R. Hibbert,
+78,1,3:21.0,22,25,CHO,LAL,0,home,FreeThrow,,,make1,1,R. Hibbert,
+79,1,3:07.0,22,28,CHO,LAL,14,away,JS,assist,25,make3,3,J. Clarkson,J. Randle
+80,1,2:48.0,25,28,CHO,LAL,19,home,JS,assist,27,make3,3,F. Kaminsky,N. Batum
+81,1,2:36.0,25,31,CHO,LAL,12,away,JS,assist,25,make3,3,L. Williams,J. Randle
+82,1,2:31.0,25,31,CHO,LAL,5,home,Timeout,,,,,,
+83,1,2:31.0,25,31,CHO,LAL,0,away,Timeout,,,,,,
+84,1,2:31.0,25,31,CHO,LAL,0,away,Sub,,,,,I. Zubac,J. Randle
+85,1,2:25.0,25,31,CHO,LAL,6,home,LU,,1,miss2,0,N. Batum,
+86,1,2:25.0,25,31,CHO,LAL,0,home,OffReb,,,OffReb,,Team,
+87,1,2:20.0,27,31,CHO,LAL,5,home,JS,assist,18,make2,2,M. Belinelli,R. Sessions
+88,1,2:04.0,27,31,CHO,LAL,16,away,LU,,3,miss2,0,I. Zubac,
+89,1,2:03.0,27,31,CHO,LAL,1,home,DefReb,,,DefReb,,R. Hibbert,
+90,1,1:56.0,29,31,CHO,LAL,7,home,JS,,16,make2,2,R. Sessions,
+91,1,1:44.0,29,33,CHO,LAL,12,away,LU,assist,2,make2,2,L. Nance,L. Williams
+92,1,1:32.0,31,33,CHO,LAL,12,home,LU,assist,2,make2,2,R. Hibbert,R. Sessions
+93,1,1:21.0,31,36,CHO,LAL,11,away,JS,assist,24,make3,3,J. Clarkson,L. Williams
+94,1,1:05.0,31,36,CHO,LAL,16,home,JS,,20,miss2,0,M. Belinelli,
+95,1,1:04.0,31,36,CHO,LAL,1,away,DefReb,,,DefReb,,I. Zubac,
+96,1,0:58.0,31,36,CHO,LAL,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,F. Kaminsky,L. Williams
+97,1,0:58.0,31,37,CHO,LAL,0,away,FreeThrow,,,make1,1,L. Williams,
+98,1,0:58.0,31,38,CHO,LAL,0,away,FreeThrow,,,make1,1,L. Williams,
+99,1,0:46.0,33,38,CHO,LAL,12,home,LU,assist,1,make2,2,F. Kaminsky,N. Batum
+100,1,0:37.0,33,38,CHO,LAL,9,away,JS,block,12,miss2,0,L. Williams,R. Hibbert
+101,1,0:34.0,33,38,CHO,LAL,3,away,OffReb,,,OffReb,,L. Williams,
+102,1,0:34.0,33,38,CHO,LAL,0,away,LostBall,,,turnover,,L. Williams,
+103,1,0:12.0,35,38,CHO,LAL,22,home,DK,assist,0,make2,2,R. Hibbert,N. Batum
+104,1,0:01.0,35,41,CHO,LAL,11,away,JS,assist,25,make3,3,L. Nance,L. Williams
+105,2,11:49.0,35,44,CHO,LAL,11,away,JS,,25,make3,3,J. Clarkson,
+106,2,11:36.0,35,44,CHO,LAL,13,home,JS,,19,miss2,0,R. Sessions,
+107,2,11:34.0,35,44,CHO,LAL,2,away,DefReb,,,DefReb,,B. Ingram,
+108,2,11:22.0,35,47,CHO,LAL,12,away,JS,assist,24,make3,3,J. Clarkson,L. Williams
+109,2,11:01.0,35,47,CHO,LAL,21,home,JS,,27,miss3,0,J. Lamb,
+110,2,11:01.0,35,47,CHO,LAL,0,home,OffReb,,,OffReb,,Team,
+111,2,11:01.0,35,47,CHO,LAL,0,home,Timeout,,,,,,
+112,2,10:52.0,35,47,CHO,LAL,9,home,HS,,6,miss2,0,R. Hibbert,
+113,2,10:51.0,35,47,CHO,LAL,1,away,DefReb,,,DefReb,,B. Ingram,
+114,2,10:39.0,35,47,CHO,LAL,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,L. Nance
+115,2,10:39.0,35,47,CHO,LAL,0,away,FreeThrow,,,make1,0,L. Nance,
+116,2,10:39.0,35,47,CHO,LAL,0,away,OffReb,,,OffReb,,Team,
+117,2,10:39.0,35,48,CHO,LAL,0,away,FreeThrow,,,make1,1,L. Nance,
+118,2,10:23.0,35,48,CHO,LAL,16,home,JS,,10,miss2,0,J. Lamb,
+119,2,10:21.0,35,48,CHO,LAL,2,away,DefReb,,,DefReb,,L. Deng,
+120,2,10:05.0,35,48,CHO,LAL,16,away,JS,,18,miss2,0,L. Williams,
+121,2,10:02.0,35,48,CHO,LAL,3,away,OffReb,,,OffReb,,B. Ingram,
+122,2,10:01.0,35,50,CHO,LAL,1,away,DK,assist,0,make2,2,L. Nance,B. Ingram
+123,2,9:46.0,35,50,CHO,LAL,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Ingram,F. Kaminsky
+124,2,9:46.0,35,50,CHO,LAL,0,home,FreeThrow,,,make1,0,F. Kaminsky,
+125,2,9:46.0,35,50,CHO,LAL,0,home,OffReb,,,OffReb,,Team,
+126,2,9:46.0,35,50,CHO,LAL,0,home,FreeThrow,,,make1,0,F. Kaminsky,
+127,2,9:44.0,35,50,CHO,LAL,2,away,DefReb,,,DefReb,,L. Deng,
+128,2,9:30.0,35,53,CHO,LAL,14,away,JS,assist,25,make3,3,J. Clarkson,L. Deng
+129,2,9:13.0,37,53,CHO,LAL,17,home,LU,assist,1,make2,2,F. Kaminsky,R. Sessions
+130,2,9:03.0,37,53,CHO,LAL,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Sessions,B. Ingram
+131,2,9:00.0,37,53,CHO,LAL,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lamb,B. Ingram
+132,2,9:00.0,37,53,CHO,LAL,0,home,Sub,,,,,K. Walker,R. Sessions
+133,2,8:52.0,37,53,CHO,LAL,8,away,LU,,1,miss2,0,B. Ingram,
+134,2,8:51.0,37,53,CHO,LAL,1,home,DefReb,,,DefReb,,F. Kaminsky,
+135,2,8:38.0,37,53,CHO,LAL,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Williams,F. Kaminsky
+136,2,8:38.0,38,53,CHO,LAL,0,home,FreeThrow,,,make1,1,F. Kaminsky,
+137,2,8:38.0,38,53,CHO,LAL,0,away,Timeout,,,,,,
+138,2,8:38.0,39,53,CHO,LAL,0,home,FreeThrow,,,make1,1,F. Kaminsky,
+139,2,8:27.0,39,53,CHO,LAL,11,away,JS,,6,miss2,0,J. Clarkson,
+140,2,8:25.0,39,53,CHO,LAL,2,home,DefReb,,,DefReb,,F. Kaminsky,
+141,2,8:07.0,39,53,CHO,LAL,18,home,JS,,24,miss3,0,F. Kaminsky,
+142,2,8:05.0,39,53,CHO,LAL,2,away,DefReb,,,DefReb,,L. Nance,
+143,2,8:01.0,39,55,CHO,LAL,4,away,LU,assist,1,make2,2,L. Deng,L. Nance
+144,2,7:47.0,39,55,CHO,LAL,14,home,JS,,26,miss3,0,M. Belinelli,
+145,2,7:46.0,39,55,CHO,LAL,1,away,DefReb,,,DefReb,,L. Deng,
+146,2,7:35.0,39,57,CHO,LAL,11,away,JS,assist,18,make2,2,L. Nance,J. Clarkson
+147,2,7:18.0,42,57,CHO,LAL,17,home,JS,assist,25,make3,3,K. Walker,M. Belinelli
+148,2,7:10.0,42,57,CHO,LAL,8,away,JS,,25,miss3,0,J. Clarkson,
+149,2,7:08.0,42,57,CHO,LAL,2,home,DefReb,,,DefReb,,F. Kaminsky,
+150,2,7:00.0,42,57,CHO,LAL,8,home,LU,,0,miss2,0,K. Walker,
+151,2,6:58.0,42,57,CHO,LAL,2,home,OffReb,,,OffReb,,K. Walker,
+152,2,6:57.0,42,57,CHO,LAL,1,home,JS,,18,miss2,0,M. Belinelli,
+153,2,6:57.0,42,57,CHO,LAL,0,away,DefReb,,,DefReb,,Team,
+154,2,6:57.0,42,57,CHO,LAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,F. Kaminsky,B. Ingram
+155,2,6:57.0,42,57,CHO,LAL,0,away,Sub,,,,,N. Young,B. Ingram
+156,2,6:57.0,42,57,CHO,LAL,0,home,Sub,,,,,M. Williams,R. Hibbert
+157,2,6:40.0,42,59,CHO,LAL,17,away,LU,assist,1,make2,2,L. Deng,L. Williams
+158,2,6:25.0,42,59,CHO,LAL,15,home,JS,,19,miss2,0,J. Lamb,
+159,2,6:24.0,42,59,CHO,LAL,1,away,DefReb,,,DefReb,,L. Nance,
+160,2,6:18.0,42,61,CHO,LAL,6,away,JS,,4,make2,2,L. Williams,
+161,2,6:11.0,42,61,CHO,LAL,7,home,Timeout,,,,,,
+162,2,6:11.0,42,61,CHO,LAL,0,home,Sub,,,,,N. Batum,F. Kaminsky
+163,2,6:11.0,42,61,CHO,LAL,0,home,Sub,,,,,M. Kidd-Gilchrist,J. Lamb
+164,2,5:52.0,44,61,CHO,LAL,19,home,LU,,1,make2,2,M. Kidd-Gilchrist,
+165,2,5:30.0,44,63,CHO,LAL,22,away,LU,,1,make2,2,J. Clarkson,
+166,2,5:09.0,44,63,CHO,LAL,21,home,LU,block,0,miss2,0,M. Kidd-Gilchrist,J. Clarkson
+167,2,5:09.0,44,63,CHO,LAL,0,home,OffReb,,,OffReb,,Team,
+168,2,5:09.0,44,63,CHO,LAL,0,away,Sub,,,,,D. Russell,L. Williams
+169,2,5:09.0,44,63,CHO,LAL,0,away,Sub,,,,,J. Randle,J. Clarkson
+170,2,5:06.0,46,63,CHO,LAL,3,home,LU,assist,1,make2,2,M. Williams,N. Batum
+171,2,4:55.0,46,63,CHO,LAL,11,away,Traveling,,,turnover,,D. Russell,
+172,2,4:35.0,46,63,CHO,LAL,20,home,JS,,15,miss2,0,K. Walker,
+173,2,4:34.0,46,63,CHO,LAL,1,home,OffReb,,,OffReb,,Team,
+174,2,4:29.0,46,63,CHO,LAL,5,home,Traveling,,,turnover,,M. Kidd-Gilchrist,
+175,2,4:13.0,46,63,CHO,LAL,16,away,LostBall,steal,,turnover,,J. Randle,M. Kidd-Gilchrist
+176,2,3:53.0,48,63,CHO,LAL,20,home,LU,assist,2,make2,2,M. Williams,N. Batum
+177,2,3:41.0,48,63,CHO,LAL,12,away,LU,,2,miss2,0,J. Randle,
+178,2,3:40.0,48,63,CHO,LAL,1,home,DefReb,,,DefReb,,Team,
+179,2,3:40.0,48,63,CHO,LAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Randle,M. Kidd-Gilchrist
+180,2,3:28.0,51,63,CHO,LAL,12,home,JS,assist,24,make3,3,N. Batum,K. Walker
+181,2,3:28.0,51,63,CHO,LAL,0,away,Timeout,,,,,,
+182,2,3:28.0,51,63,CHO,LAL,0,away,Sub,,,,,J. Clarkson,J. Randle
+183,2,3:28.0,51,63,CHO,LAL,0,away,Sub,,,,,B. Ingram,D. Russell
+184,2,3:17.0,51,63,CHO,LAL,11,away,JS,,19,miss2,0,N. Young,
+185,2,3:15.0,51,63,CHO,LAL,2,away,OffReb,,,OffReb,,L. Nance,
+186,2,3:01.0,51,65,CHO,LAL,14,away,LU,,1,make2,2,B. Ingram,
+187,2,2:38.0,54,65,CHO,LAL,23,home,JS,assist,25,make3,3,K. Walker,M. Williams
+188,2,2:13.0,54,67,CHO,LAL,25,away,LU,assist,0,make2,2,N. Young,L. Nance
+189,2,2:01.0,54,67,CHO,LAL,12,home,LU,,1,miss2,0,K. Walker,
+190,2,1:59.0,54,67,CHO,LAL,2,away,DefReb,,,DefReb,,L. Deng,
+191,2,1:37.0,54,67,CHO,LAL,22,away,JS,,10,miss2,0,L. Deng,
+192,2,1:36.0,54,67,CHO,LAL,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+193,2,1:17.0,54,67,CHO,LAL,19,home,JS,,24,miss3,0,M. Williams,
+194,2,1:16.0,54,67,CHO,LAL,1,away,DefReb,,,DefReb,,L. Deng,
+195,2,1:10.0,54,70,CHO,LAL,6,away,JS,assist,25,make3,3,N. Young,J. Clarkson
+196,2,0:44.0,56,70,CHO,LAL,26,home,JS,assist,7,make2,2,M. Williams,N. Batum
+197,2,0:35.0,56,70,CHO,LAL,9,away,JS,,23,miss3,0,L. Deng,
+198,2,0:33.0,56,70,CHO,LAL,2,away,OffReb,,,OffReb,,L. Nance,
+199,2,0:30.0,56,73,CHO,LAL,3,away,JS,assist,25,make3,3,N. Young,B. Ingram
+200,2,0:06.0,59,73,CHO,LAL,24,home,JS,,25,make3,3,K. Walker,
+201,2,0:00.0,59,73,CHO,LAL,6,away,JS,,25,miss3,0,J. Clarkson,
+202,2,0:00.0,59,73,CHO,LAL,0,away,OffReb,,,OffReb,,Team,
+203,3,11:47.0,59,75,CHO,LAL,13,away,JS,,16,make2,2,D. Russell,
+204,3,11:36.0,59,75,CHO,LAL,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Mozgov,C. Zeller
+205,3,11:36.0,60,75,CHO,LAL,0,home,FreeThrow,,,make1,1,C. Zeller,
+206,3,11:36.0,60,75,CHO,LAL,0,home,FreeThrow,,,make1,0,C. Zeller,
+207,3,11:34.0,60,75,CHO,LAL,2,away,DefReb,,,DefReb,,T. Mozgov,
+208,3,11:22.0,60,77,CHO,LAL,12,away,LU,,0,make2,2,D. Russell,
+209,3,11:22.0,60,77,CHO,LAL,0,home,Timeout,,,,,,
+210,3,11:05.0,62,77,CHO,LAL,17,home,JS,,19,make2,2,K. Walker,
+211,3,10:52.0,62,77,CHO,LAL,13,away,BadPass,steal,,turnover,,J. Randle,C. Zeller
+212,3,10:47.0,64,77,CHO,LAL,5,home,LU,assist,0,make2,2,K. Walker,N. Batum
+213,3,10:29.0,64,77,CHO,LAL,18,away,JS,,19,miss2,0,N. Young,
+214,3,10:27.0,64,77,CHO,LAL,2,home,DefReb,,,DefReb,,M. Williams,
+215,3,10:20.0,66,77,CHO,LAL,7,home,JS,,17,make2,2,N. Batum,
+216,3,10:04.0,66,77,CHO,LAL,16,away,LU,,1,miss2,0,J. Randle,
+217,3,10:01.0,66,77,CHO,LAL,3,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+218,3,9:48.0,69,77,CHO,LAL,13,home,JS,assist,25,make3,3,M. Williams,K. Walker
+219,3,9:48.0,69,77,CHO,LAL,0,away,Timeout,,,,,,
+220,3,9:26.0,69,77,CHO,LAL,22,away,JS,,23,miss3,0,L. Deng,
+221,3,9:26.0,69,77,CHO,LAL,0,home,DefReb,,,DefReb,,Team,
+222,3,9:03.0,71,77,CHO,LAL,23,home,LU,assist,0,make2,2,N. Batum,K. Walker
+223,3,8:49.0,71,77,CHO,LAL,14,away,JS,,25,miss3,0,N. Young,
+224,3,8:47.0,71,77,CHO,LAL,2,away,OffReb,,,OffReb,,T. Mozgov,
+225,3,8:47.0,71,77,CHO,LAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Walker,T. Mozgov
+226,3,8:41.0,71,77,CHO,LAL,6,away,JS,,15,miss2,0,N. Young,
+227,3,8:39.0,71,77,CHO,LAL,2,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+228,3,8:30.0,73,77,CHO,LAL,9,home,LU,,1,make2,2,K. Walker,
+229,3,8:19.0,73,77,CHO,LAL,11,away,LU,,0,miss2,0,J. Randle,
+230,3,8:17.0,73,77,CHO,LAL,2,home,DefReb,,,DefReb,,C. Zeller,
+231,3,8:09.0,73,77,CHO,LAL,8,home,JS,,24,miss3,0,K. Walker,
+232,3,8:07.0,73,77,CHO,LAL,2,home,OffReb,,,OffReb,,C. Zeller,
+233,3,8:00.0,75,77,CHO,LAL,7,home,LU,assist,1,make2,2,N. Batum,M. Williams
+234,3,7:59.0,75,77,CHO,LAL,1,away,Timeout,,,,,,
+235,3,7:59.0,75,77,CHO,LAL,0,away,Sub,,,,,J. Clarkson,J. Randle
+236,3,7:59.0,75,77,CHO,LAL,0,away,Sub,,,,,L. Nance,T. Mozgov
+237,3,7:59.0,75,77,CHO,LAL,0,away,Sub,,,,,L. Williams,D. Russell
+238,3,7:42.0,75,80,CHO,LAL,17,away,JS,assist,29,make3,3,N. Young,J. Clarkson
+239,3,7:27.0,77,80,CHO,LAL,15,home,DK,assist,0,make2,2,C. Zeller,K. Walker
+240,3,7:10.0,77,80,CHO,LAL,17,away,BadPass,steal,,turnover,,L. Nance,N. Batum
+241,3,7:04.0,77,80,CHO,LAL,6,home,LU,,1,miss2,0,K. Walker,
+242,3,7:01.0,77,80,CHO,LAL,3,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
+243,3,7:01.0,77,80,CHO,LAL,0,home,LU,block,1,miss2,0,M. Kidd-Gilchrist,L. Deng
+244,3,7:00.0,77,80,CHO,LAL,1,home,OffReb,,,OffReb,,C. Zeller,
+245,3,7:00.0,77,80,CHO,LAL,0,home,LU,block,0,miss2,0,C. Zeller,L. Deng
+246,3,7:00.0,77,80,CHO,LAL,0,home,OffReb,,,OffReb,,Team,
+247,3,6:52.0,77,80,CHO,LAL,8,home,BadPass,steal,,turnover,,N. Batum,L. Nance
+248,3,6:45.0,77,80,CHO,LAL,7,away,JS,,25,miss3,0,N. Young,
+249,3,6:44.0,77,80,CHO,LAL,1,home,DefReb,,,DefReb,,K. Walker,
+250,3,6:36.0,79,80,CHO,LAL,8,home,LU,,1,make2,2,K. Walker,
+251,3,6:15.0,79,80,CHO,LAL,21,away,OutOfBounds,,,turnover,,J. Clarkson,
+252,3,6:02.0,79,80,CHO,LAL,13,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,L. Deng,M. Williams
+253,3,5:53.0,82,80,CHO,LAL,9,home,JS,,25,make3,3,K. Walker,
+254,3,5:42.0,82,80,CHO,LAL,11,away,PersonalFoul,,,,,N. Batum,
+255,3,5:34.0,82,82,CHO,LAL,8,away,LU,assist,0,make2,2,N. Young,J. Clarkson
+256,3,5:34.0,82,82,CHO,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Williams,N. Young
+257,3,5:34.0,82,83,CHO,LAL,0,away,FreeThrow,,,make1,1,N. Young,
+258,3,5:20.0,84,83,CHO,LAL,14,home,LU,assist,1,make2,2,C. Zeller,N. Batum
+259,3,5:07.0,84,83,CHO,LAL,13,home,ChargeFoul,DrawnBy,,ChargeFoul,,L. Deng,M. Kidd-Gilchrist
+260,3,5:07.0,84,83,CHO,LAL,0,away,OffensiveFoul,,,turnover,,L. Deng,
+261,3,5:07.0,84,83,CHO,LAL,0,away,Sub,,,,,B. Ingram,L. Deng
+262,3,4:57.0,86,83,CHO,LAL,10,home,JS,,21,make2,2,K. Walker,
+263,3,4:47.0,86,83,CHO,LAL,10,away,JS,,15,miss2,0,L. Williams,
+264,3,4:45.0,86,83,CHO,LAL,2,home,DefReb,,,DefReb,,M. Williams,
+265,3,4:33.0,86,83,CHO,LAL,12,home,BadPass,steal,,turnover,,K. Walker,L. Williams
+266,3,4:28.0,86,83,CHO,LAL,5,away,LU,,2,miss2,0,J. Clarkson,
+267,3,4:28.0,86,83,CHO,LAL,0,home,DefReb,,,DefReb,,Team,
+268,3,4:28.0,86,83,CHO,LAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,L. Nance,N. Batum
+269,3,4:19.0,86,83,CHO,LAL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Nance,C. Zeller
+270,3,4:19.0,86,83,CHO,LAL,0,home,Sub,,,,,M. Belinelli,M. Kidd-Gilchrist
+271,3,4:17.0,86,83,CHO,LAL,2,home,BadPass,steal,,turnover,,N. Batum,L. Nance
+272,3,4:15.0,86,83,CHO,LAL,2,away,BadPass,,,turnover,,L. Nance,
+273,3,4:15.0,86,83,CHO,LAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,L. Nance,C. Zeller
+274,3,4:15.0,87,83,CHO,LAL,0,home,FreeThrow,,,make1,1,C. Zeller,
+275,3,4:15.0,87,83,CHO,LAL,0,away,Sub,,,,,J. Randle,L. Nance
+276,3,4:15.0,88,83,CHO,LAL,0,home,FreeThrow,,,make1,1,C. Zeller,
+277,3,3:53.0,88,85,CHO,LAL,22,away,JS,assist,20,make2,2,B. Ingram,L. Williams
+278,3,3:36.0,88,85,CHO,LAL,17,home,JS,,25,miss3,0,N. Batum,
+279,3,3:35.0,88,85,CHO,LAL,1,away,DefReb,,,DefReb,,N. Young,
+280,3,3:28.0,88,85,CHO,LAL,7,away,LU,block,3,miss2,0,L. Williams,M. Belinelli
+281,3,3:28.0,88,85,CHO,LAL,0,away,OffReb,,,OffReb,,Team,
+282,3,3:28.0,88,85,CHO,LAL,0,away,Sub,,,,,D. Russell,N. Young
+283,3,3:28.0,88,85,CHO,LAL,0,home,Sub,,,,,M. Kidd-Gilchrist,M. Williams
+284,3,3:23.0,88,87,CHO,LAL,5,away,JS,,15,make2,2,D. Russell,
+285,3,3:07.0,88,87,CHO,LAL,16,home,LU,block,3,miss2,0,M. Kidd-Gilchrist,J. Randle
+286,3,3:06.0,88,87,CHO,LAL,1,away,DefReb,,,DefReb,,J. Randle,
+287,3,2:59.0,88,90,CHO,LAL,7,away,JS,assist,25,make3,3,J. Clarkson,L. Williams
+288,3,2:42.0,88,90,CHO,LAL,17,home,LU,block,1,miss2,0,K. Walker,L. Williams
+289,3,2:40.0,88,90,CHO,LAL,2,away,DefReb,,,DefReb,,J. Randle,
+290,3,2:37.0,88,92,CHO,LAL,3,away,LU,,0,make2,2,J. Randle,
+291,3,2:36.0,88,92,CHO,LAL,1,home,Timeout,,,,,,
+292,3,2:36.0,88,92,CHO,LAL,0,home,Sub,,,,,F. Kaminsky,C. Zeller
+293,3,2:34.0,88,92,CHO,LAL,2,away,JumpBallViolation,,,JumpBallViolation,,Team,
+294,3,2:25.0,88,92,CHO,LAL,9,home,LostBall,,,turnover,,N. Batum,
+295,3,2:12.0,88,92,CHO,LAL,13,away,BadPass,,,turnover,,L. Williams,
+296,3,2:00.0,88,92,CHO,LAL,12,home,JS,,25,miss3,0,K. Walker,
+297,3,1:58.0,88,92,CHO,LAL,2,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
+298,3,1:58.0,88,92,CHO,LAL,0,home,LU,block,2,miss2,0,M. Kidd-Gilchrist,J. Randle
+299,3,1:55.0,88,92,CHO,LAL,3,away,DefReb,,,DefReb,,J. Clarkson,
+300,3,1:47.0,88,94,CHO,LAL,8,away,LU,assist,1,make2,2,J. Randle,J. Clarkson
+301,3,1:33.0,88,94,CHO,LAL,14,home,LU,block,1,miss2,0,M. Kidd-Gilchrist,J. Randle
+302,3,1:31.0,88,94,CHO,LAL,2,away,DefReb,,,DefReb,,J. Randle,
+303,3,1:26.0,88,94,CHO,LAL,5,away,LU,,0,miss2,0,J. Randle,
+304,3,1:24.0,88,94,CHO,LAL,2,home,DefReb,,,DefReb,,N. Batum,
+305,3,1:11.0,88,94,CHO,LAL,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,N. Batum
+306,3,1:11.0,89,94,CHO,LAL,0,home,FreeThrow,,,make1,1,N. Batum,
+307,3,1:11.0,90,94,CHO,LAL,0,home,FreeThrow,,,make1,1,N. Batum,
+308,3,0:54.0,90,94,CHO,LAL,17,away,JS,,9,miss2,0,D. Russell,
+309,3,0:52.0,90,94,CHO,LAL,2,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+310,3,0:46.0,92,94,CHO,LAL,6,home,LU,,1,make2,2,K. Walker,
+311,3,0:35.0,92,96,CHO,LAL,11,away,JS,,14,make2,2,L. Williams,
+312,3,0:22.0,94,96,CHO,LAL,13,home,LU,assist,1,make2,2,N. Batum,K. Walker
+313,3,0:00.0,94,96,CHO,LAL,22,away,LU,,2,miss2,0,J. Randle,
+314,3,0:00.0,94,96,CHO,LAL,0,away,OffReb,,,OffReb,,Team,
+315,4,11:43.0,96,96,CHO,LAL,17,home,LU,assist,0,make2,2,F. Kaminsky,M. Belinelli
+316,4,11:31.0,96,96,CHO,LAL,12,away,BadPass,steal,,turnover,,D. Russell,F. Kaminsky
+317,4,11:24.0,96,96,CHO,LAL,7,home,JS,,26,miss3,0,M. Belinelli,
+318,4,11:22.0,96,96,CHO,LAL,2,away,DefReb,,,DefReb,,J. Clarkson,
+319,4,11:14.0,96,96,CHO,LAL,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Walker,D. Russell
+320,4,11:14.0,96,97,CHO,LAL,0,away,FreeThrow,,,make1,1,D. Russell,
+321,4,11:14.0,96,98,CHO,LAL,0,away,FreeThrow,,,make1,1,D. Russell,
+322,4,10:54.0,96,98,CHO,LAL,20,home,BadPass,steal,,turnover,,K. Walker,L. Williams
+323,4,10:45.0,96,98,CHO,LAL,9,away,JS,,25,miss3,0,B. Ingram,
+324,4,10:43.0,96,98,CHO,LAL,2,home,DefReb,,,DefReb,,J. Lamb,
+325,4,10:35.0,96,98,CHO,LAL,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Ingram,J. Lamb
+326,4,10:35.0,97,98,CHO,LAL,0,home,FreeThrow,,,make1,1,J. Lamb,
+327,4,10:35.0,98,98,CHO,LAL,0,home,FreeThrow,,,make1,1,J. Lamb,
+328,4,10:14.0,98,98,CHO,LAL,21,away,JS,,26,miss3,0,L. Williams,
+329,4,10:13.0,98,98,CHO,LAL,1,home,DefReb,,,DefReb,,J. Lamb,
+330,4,9:58.0,98,98,CHO,LAL,15,home,JS,,11,miss2,0,J. Lamb,
+331,4,9:57.0,98,98,CHO,LAL,1,away,DefReb,,,DefReb,,D. Russell,
+332,4,9:43.0,98,100,CHO,LAL,14,away,LU,,1,make2,2,J. Clarkson,
+333,4,9:27.0,101,100,CHO,LAL,16,home,JS,assist,25,make3,3,M. Belinelli,K. Walker
+334,4,9:01.0,101,103,CHO,LAL,26,away,JS,assist,25,make3,3,D. Russell,L. Williams
+335,4,8:43.0,101,103,CHO,LAL,18,home,BadPass,steal,,turnover,,M. Belinelli,J. Clarkson
+336,4,8:37.0,101,103,CHO,LAL,6,away,JS,,28,miss3,0,L. Williams,
+337,4,8:34.0,101,103,CHO,LAL,3,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+338,4,8:26.0,101,103,CHO,LAL,8,home,LU,block,1,miss2,0,K. Walker,J. Randle
+339,4,8:23.0,101,103,CHO,LAL,3,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
+340,4,8:22.0,101,103,CHO,LAL,1,home,LU,,1,miss2,0,M. Kidd-Gilchrist,
+341,4,8:20.0,101,103,CHO,LAL,2,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
+342,4,8:20.0,101,103,CHO,LAL,0,home,LU,block,1,miss2,0,M. Kidd-Gilchrist,D. Russell
+343,4,8:18.0,101,103,CHO,LAL,2,home,OffReb,,,OffReb,,J. Lamb,
+344,4,8:18.0,101,103,CHO,LAL,0,home,LU,,0,miss2,0,J. Lamb,
+345,4,8:15.0,101,103,CHO,LAL,3,home,OffReb,,,OffReb,,K. Walker,
+346,4,7:58.0,101,103,CHO,LAL,17,home,JS,,7,miss2,0,J. Lamb,
+347,4,7:56.0,101,103,CHO,LAL,2,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
+348,4,7:38.0,101,103,CHO,LAL,18,home,JS,,5,miss2,0,F. Kaminsky,
+349,4,7:36.0,101,103,CHO,LAL,2,away,DefReb,,,DefReb,,D. Russell,
+350,4,7:23.0,101,106,CHO,LAL,13,away,JS,assist,23,make3,3,J. Clarkson,D. Russell
+351,4,6:59.0,101,106,CHO,LAL,24,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Clarkson,M. Belinelli
+352,4,6:59.0,101,106,CHO,LAL,0,away,Timeout,,,,,,
+353,4,6:59.0,102,106,CHO,LAL,0,home,FreeThrow,,,make1,1,M. Belinelli,
+354,4,6:59.0,103,106,CHO,LAL,0,home,FreeThrow,,,make1,1,M. Belinelli,
+355,4,6:59.0,101,106,CHO,LAL,0,home,Sub,,,,,C. Zeller,M. Kidd-Gilchrist
+356,4,6:59.0,101,106,CHO,LAL,0,home,Sub,,,,,N. Batum,F. Kaminsky
+357,4,6:59.0,101,106,CHO,LAL,0,home,Sub,,,,,M. Williams,J. Lamb
+358,4,6:59.0,101,106,CHO,LAL,0,away,Sub,,,,,L. Deng,J. Clarkson
+359,4,6:59.0,103,106,CHO,LAL,0,home,FreeThrow,,,make1,0,M. Belinelli,
+360,4,6:57.0,103,106,CHO,LAL,2,away,DefReb,,,DefReb,,J. Randle,
+361,4,6:44.0,103,108,CHO,LAL,13,away,DK,assist,0,make2,2,L. Williams,B. Ingram
+362,4,6:20.0,103,108,CHO,LAL,24,home,JS,,28,miss3,0,K. Walker,
+363,4,6:18.0,103,108,CHO,LAL,2,away,DefReb,,,DefReb,,L. Williams,
+364,4,6:08.0,103,108,CHO,LAL,10,away,JS,,25,miss3,0,D. Russell,
+365,4,6:06.0,103,108,CHO,LAL,2,home,DefReb,,,DefReb,,Team,
+366,4,5:39.0,103,108,CHO,LAL,27,home,LU,,1,miss2,0,K. Walker,
+367,4,5:38.0,103,108,CHO,LAL,1,home,OffReb,,,OffReb,,M. Williams,
+368,4,5:38.0,105,108,CHO,LAL,0,home,LU,,1,make2,2,M. Williams,
+369,4,5:23.0,105,108,CHO,LAL,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Walker,L. Williams
+370,4,5:23.0,105,108,CHO,LAL,0,home,Timeout,,,,,,
+371,4,5:23.0,105,109,CHO,LAL,0,away,FreeThrow,,,make1,1,L. Williams,
+372,4,5:23.0,105,110,CHO,LAL,0,away,FreeThrow,,,make1,1,L. Williams,
+373,4,5:23.0,105,111,CHO,LAL,0,away,FreeThrow,,,make1,1,L. Williams,
+374,4,5:06.0,105,111,CHO,LAL,17,home,JS,block,5,miss2,0,M. Williams,L. Deng
+375,4,5:04.0,105,111,CHO,LAL,2,home,OffReb,,,OffReb,,M. Williams,
+376,4,5:04.0,105,111,CHO,LAL,0,home,LU,block,1,miss2,0,M. Williams,D. Russell
+377,4,5:02.0,105,111,CHO,LAL,2,away,DefReb,,,DefReb,,B. Ingram,
+378,4,4:47.0,105,111,CHO,LAL,15,away,JS,,22,miss2,0,L. Deng,
+379,4,4:46.0,105,111,CHO,LAL,1,home,DefReb,,,DefReb,,M. Belinelli,
+380,4,4:39.0,105,111,CHO,LAL,7,home,JS,,25,miss3,0,M. Williams,
+381,4,4:37.0,105,111,CHO,LAL,2,away,DefReb,,,DefReb,,D. Russell,
+382,4,4:26.0,105,111,CHO,LAL,11,away,JS,,15,miss2,0,D. Russell,
+383,4,4:25.0,105,111,CHO,LAL,1,home,DefReb,,,DefReb,,C. Zeller,
+384,4,4:14.0,105,111,CHO,LAL,11,home,LU,,2,miss2,0,C. Zeller,
+385,4,4:13.0,105,111,CHO,LAL,1,away,DefReb,,,DefReb,,D. Russell,
+386,4,3:57.0,105,111,CHO,LAL,16,away,JS,,28,miss3,0,L. Williams,
+387,4,3:56.0,105,111,CHO,LAL,1,home,DefReb,,,DefReb,,C. Zeller,
+388,4,3:44.0,105,111,CHO,LAL,12,home,LU,block,2,miss2,0,C. Zeller,J. Randle
+389,4,3:44.0,105,111,CHO,LAL,0,home,OffReb,,,OffReb,,Team,
+390,4,3:44.0,105,111,CHO,LAL,0,away,Sub,,,,,N. Young,D. Russell
+391,4,3:44.0,105,111,CHO,LAL,0,away,Sub,,,,,J. Clarkson,L. Williams
+392,4,3:40.0,108,111,CHO,LAL,4,home,JS,assist,24,make3,3,M. Belinelli,C. Zeller
+393,4,3:22.0,108,111,CHO,LAL,18,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Randle,K. Walker
+394,4,3:22.0,108,111,CHO,LAL,0,away,OffensiveFoul,,,turnover,,J. Randle,
+395,4,3:06.0,110,111,CHO,LAL,16,home,DK,assist,0,make2,2,C. Zeller,N. Batum
+396,4,3:06.0,110,111,CHO,LAL,0,away,Timeout,,,,,,
+397,4,2:49.0,110,113,CHO,LAL,17,away,JS,,10,make2,2,N. Young,
+398,4,2:27.0,110,113,CHO,LAL,22,home,JS,,4,miss2,0,M. Belinelli,
+399,4,2:24.0,110,113,CHO,LAL,3,home,OffReb,,,OffReb,,K. Walker,
+400,4,2:22.0,113,113,CHO,LAL,2,home,JS,assist,25,make3,3,M. Belinelli,K. Walker
+401,4,2:00.0,113,113,CHO,LAL,22,away,LU,,2,miss2,0,J. Randle,
+402,4,1:59.0,113,113,CHO,LAL,1,home,DefReb,,,DefReb,,N. Batum,
+403,4,1:50.0,113,113,CHO,LAL,9,home,JS,,9,miss2,0,N. Batum,
+404,4,1:49.0,113,113,CHO,LAL,1,away,DefReb,,,DefReb,,J. Randle,
+405,4,1:35.0,113,113,CHO,LAL,14,away,JS,,25,miss3,0,N. Young,
+406,4,1:33.0,113,113,CHO,LAL,2,home,DefReb,,,DefReb,,N. Batum,
+407,4,1:19.0,113,113,CHO,LAL,14,home,LU,,1,miss2,0,K. Walker,
+408,4,1:18.0,113,113,CHO,LAL,1,home,OffReb,,,OffReb,,K. Walker,
+409,4,1:15.0,113,113,CHO,LAL,3,home,JS,,23,miss3,0,M. Belinelli,
+410,4,1:14.0,113,113,CHO,LAL,1,away,DefReb,,,DefReb,,J. Clarkson,
+411,4,1:04.0,113,113,CHO,LAL,10,away,Timeout,,,,,,
+412,4,1:04.0,113,113,CHO,LAL,0,away,Sub,,,,,L. Williams,B. Ingram
+413,4,0:53.0,113,113,CHO,LAL,11,away,JS,,19,miss2,0,N. Young,
+414,4,0:51.0,113,113,CHO,LAL,2,home,DefReb,,,DefReb,,M. Williams,
+415,4,0:30.0,113,113,CHO,LAL,21,home,JS,,26,miss3,0,K. Walker,
+416,4,0:28.0,113,113,CHO,LAL,2,home,OffReb,,,OffReb,,K. Walker,
+417,4,0:13.0,115,113,CHO,LAL,15,home,JS,,8,make2,2,N. Batum,
+418,4,0:13.0,115,113,CHO,LAL,0,away,Timeout,,,,,,
+419,4,0:13.0,115,113,CHO,LAL,0,home,Sub,,,,,M. Kidd-Gilchrist,M. Belinelli
+420,4,0:09.0,115,113,CHO,LAL,4,away,JS,,25,miss3,0,N. Young,
+421,4,0:09.0,115,113,CHO,LAL,0,home,DefReb,,,DefReb,,K. Walker,
+422,4,0:09.0,115,113,CHO,LAL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Randle,K. Walker
+423,4,0:09.0,115,113,CHO,LAL,0,home,Sub,,,,,M. Belinelli,M. Kidd-Gilchrist
+424,4,0:09.0,115,113,CHO,LAL,0,home,Timeout,,,,,,
+425,4,0:09.0,115,113,CHO,LAL,0,home,Sub,,,,,F. Kaminsky,M. Williams
+426,4,0:09.0,115,113,CHO,LAL,0,away,Sub,,,,,B. Ingram,L. Williams
+427,4,0:06.0,115,113,CHO,LAL,3,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Clarkson,N. Batum
+428,4,0:06.0,116,113,CHO,LAL,0,home,FreeThrow,,,make1,1,N. Batum,
+429,4,0:06.0,116,113,CHO,LAL,0,home,Sub,,,,,M. Kidd-Gilchrist,C. Zeller
+430,4,0:06.0,116,113,CHO,LAL,0,home,Sub,,,,,M. Williams,F. Kaminsky
+431,4,0:06.0,116,113,CHO,LAL,0,away,Sub,,,,,D. Russell,J. Randle
+432,4,0:06.0,116,113,CHO,LAL,0,away,Sub,,,,,L. Williams,B. Ingram
+433,4,0:06.0,117,113,CHO,LAL,0,home,FreeThrow,,,make1,1,N. Batum,
+434,4,0:03.0,117,113,CHO,LAL,3,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,K. Walker,D. Russell
+435,4,0:00.0,117,113,CHO,LAL,3,away,JS,,28,miss3,0,D. Russell,
+436,4,0:00.0,117,113,CHO,LAL,0,away,OffReb,,,OffReb,,Team,

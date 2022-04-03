@@ -1,0 +1,430 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:49.0,0,0,CLE,DAL,11,home,KickBallViolation,,,KickBallViolation,,J. Smith,
+1,1,11:42.0,0,2,CLE,DAL,7,away,JS,assist,6,make2,2,H. Barnes,A. Bogut
+2,1,11:33.0,0,2,CLE,DAL,9,home,BadPass,,,turnover,,L. James,
+3,1,11:21.0,0,2,CLE,DAL,12,away,JS,,21,miss2,0,D. Nowitzki,
+4,1,11:21.0,0,2,CLE,DAL,0,home,DefReb,,,DefReb,,K. Love,
+5,1,11:06.0,0,2,CLE,DAL,15,home,JS,,24,miss3,0,J. Smith,
+6,1,11:06.0,0,2,CLE,DAL,0,away,DefReb,,,DefReb,,H. Barnes,
+7,1,10:57.0,0,2,CLE,DAL,9,away,HS,,8,miss2,0,A. Bogut,
+8,1,10:55.0,0,2,CLE,DAL,2,home,DefReb,,,DefReb,,J. Smith,
+9,1,10:48.0,3,2,CLE,DAL,7,home,JS,assist,26,make3,3,J. Smith,L. James
+10,1,10:27.0,3,2,CLE,DAL,21,away,JS,,25,miss3,0,D. Williams,
+11,1,10:27.0,3,2,CLE,DAL,0,home,DefReb,,,DefReb,,T. Thompson,
+12,1,10:17.0,3,2,CLE,DAL,10,home,JS,,24,miss3,0,J. Smith,
+13,1,10:17.0,3,2,CLE,DAL,0,away,DefReb,,,DefReb,,D. Nowitzki,
+14,1,10:09.0,3,2,CLE,DAL,8,away,HS,,6,miss2,0,H. Barnes,
+15,1,10:06.0,3,2,CLE,DAL,3,home,DefReb,,,DefReb,,T. Thompson,
+16,1,9:56.0,3,2,CLE,DAL,10,home,JS,,25,miss3,0,K. Love,
+17,1,9:56.0,3,2,CLE,DAL,0,away,DefReb,,,DefReb,,W. Matthews,
+18,1,9:44.0,3,2,CLE,DAL,12,away,JS,,20,miss2,0,D. Nowitzki,
+19,1,9:43.0,3,2,CLE,DAL,1,home,DefReb,,,DefReb,,T. Thompson,
+20,1,9:24.0,3,2,CLE,DAL,19,home,JS,,14,miss2,0,J. Smith,
+21,1,9:24.0,3,2,CLE,DAL,0,home,OffReb,,,OffReb,,Team,
+22,1,9:18.0,6,2,CLE,DAL,6,home,JS,assist,25,make3,3,K. Love,L. James
+23,1,8:58.0,6,2,CLE,DAL,20,away,JS,,21,miss2,0,D. Williams,
+24,1,8:58.0,6,2,CLE,DAL,0,home,DefReb,,,DefReb,,L. James,
+25,1,8:51.0,6,2,CLE,DAL,7,home,JS,,18,miss2,0,L. James,
+26,1,8:50.0,6,2,CLE,DAL,1,away,DefReb,,,DefReb,,D. Williams,
+27,1,8:41.0,6,4,CLE,DAL,9,away,JS,assist,18,make2,2,D. Nowitzki,W. Matthews
+28,1,8:27.0,9,4,CLE,DAL,14,home,JS,,26,make3,3,K. Irving,
+29,1,8:16.0,9,4,CLE,DAL,11,away,LU,,1,miss2,0,D. Williams,
+30,1,8:15.0,9,4,CLE,DAL,1,home,DefReb,,,DefReb,,T. Thompson,
+31,1,7:58.0,9,4,CLE,DAL,17,home,JS,,14,miss2,0,L. James,
+32,1,7:56.0,9,4,CLE,DAL,2,away,DefReb,,,DefReb,,D. Williams,
+33,1,7:47.0,9,6,CLE,DAL,9,away,JS,assist,8,make2,2,D. Williams,W. Matthews
+34,1,7:33.0,9,6,CLE,DAL,14,home,JS,,29,miss3,0,J. Smith,
+35,1,7:33.0,9,6,CLE,DAL,0,away,DefReb,,,DefReb,,D. Nowitzki,
+36,1,7:26.0,9,6,CLE,DAL,7,away,LostBall,steal,,turnover,,W. Matthews,L. James
+37,1,7:19.0,9,6,CLE,DAL,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bogut,T. Thompson
+38,1,7:19.0,10,6,CLE,DAL,0,home,FreeThrow,,,make1,1,T. Thompson,
+39,1,7:19.0,10,6,CLE,DAL,0,home,FreeThrow,,,make1,0,T. Thompson,
+40,1,7:17.0,10,6,CLE,DAL,2,away,DefReb,,,DefReb,,A. Bogut,
+41,1,6:57.0,10,6,CLE,DAL,20,away,JS,,16,miss2,0,D. Nowitzki,
+42,1,6:56.0,10,6,CLE,DAL,1,away,OffReb,,,OffReb,,A. Bogut,
+43,1,6:51.0,10,8,CLE,DAL,5,away,JS,assist,20,make2,2,D. Nowitzki,W. Matthews
+44,1,6:38.0,12,8,CLE,DAL,13,home,LU,,2,make2,2,K. Irving,
+45,1,6:37.0,12,8,CLE,DAL,1,away,Timeout,,,,,,
+46,1,6:37.0,12,8,CLE,DAL,0,away,Sub,,,,,D. Finney-Smith,D. Nowitzki
+47,1,6:15.0,12,8,CLE,DAL,22,away,BadPass,steal,,turnover,,A. Bogut,J. Smith
+48,1,6:11.0,12,8,CLE,DAL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bogut,T. Thompson
+49,1,6:11.0,13,8,CLE,DAL,0,home,FreeThrow,,,make1,1,T. Thompson,
+50,1,6:11.0,13,8,CLE,DAL,0,away,Sub,,,,,S. Mejri,A. Bogut
+51,1,6:11.0,14,8,CLE,DAL,0,home,FreeThrow,,,make1,1,T. Thompson,
+52,1,5:58.0,14,10,CLE,DAL,13,away,JS,assist,19,make2,2,H. Barnes,D. Williams
+53,1,5:39.0,16,10,CLE,DAL,19,home,DK,assist,0,make2,2,T. Thompson,L. James
+54,1,5:24.0,16,10,CLE,DAL,15,away,JS,,26,miss3,0,W. Matthews,
+55,1,5:24.0,16,10,CLE,DAL,0,home,DefReb,,,DefReb,,Team,
+56,1,5:11.0,18,10,CLE,DAL,13,home,LU,assist,2,make2,2,T. Thompson,L. James
+57,1,4:52.0,18,10,CLE,DAL,19,away,BadPass,steal,,turnover,,D. Williams,J. Smith
+58,1,4:49.0,18,10,CLE,DAL,3,away,Sub,,,,,S. Curry,D. Williams
+59,1,4:35.0,18,10,CLE,DAL,14,home,JS,block,5,miss2,0,K. Love,S. Mejri
+60,1,4:35.0,18,10,CLE,DAL,0,home,OffReb,,,OffReb,,Team,
+61,1,4:32.0,18,10,CLE,DAL,3,home,JS,,26,miss3,0,K. Love,
+62,1,4:31.0,18,10,CLE,DAL,1,away,DefReb,,,DefReb,,S. Mejri,
+63,1,4:23.0,18,10,CLE,DAL,8,away,JS,,21,miss2,0,W. Matthews,
+64,1,4:23.0,18,10,CLE,DAL,0,home,DefReb,,,DefReb,,L. James,
+65,1,4:16.0,20,10,CLE,DAL,7,home,LU,assist,1,make2,2,K. Irving,L. James
+66,1,4:16.0,20,10,CLE,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Curry,K. Irving
+67,1,4:16.0,20,10,CLE,DAL,0,home,Sub,,,,,C. Andersen,T. Thompson
+68,1,4:16.0,21,10,CLE,DAL,0,home,FreeThrow,,,make1,1,K. Irving,
+69,1,3:58.0,21,10,CLE,DAL,18,away,JS,,20,miss2,0,D. Finney-Smith,
+70,1,3:57.0,21,10,CLE,DAL,1,home,DefReb,,,DefReb,,K. Love,
+71,1,3:34.0,24,10,CLE,DAL,23,home,JS,assist,24,make3,3,K. Irving,L. James
+72,1,3:23.0,24,13,CLE,DAL,11,away,JS,assist,26,make3,3,W. Matthews,S. Mejri
+73,1,3:07.0,24,13,CLE,DAL,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Finney-Smith,L. James
+74,1,3:07.0,25,13,CLE,DAL,0,home,FreeThrow,,,make1,1,L. James,
+75,1,3:07.0,25,13,CLE,DAL,0,home,Sub,,,,,I. Shumpert,J. Smith
+76,1,3:07.0,25,13,CLE,DAL,0,away,Sub,,,,,D. Nowitzki,H. Barnes
+77,1,3:07.0,26,13,CLE,DAL,0,home,FreeThrow,,,make1,1,L. James,
+78,1,2:55.0,26,13,CLE,DAL,12,away,LU,,1,miss2,0,S. Mejri,
+79,1,2:54.0,26,13,CLE,DAL,1,home,DefReb,,,DefReb,,K. Love,
+80,1,2:47.0,26,13,CLE,DAL,7,home,LU,block,0,miss2,0,K. Love,S. Mejri
+81,1,2:45.0,26,13,CLE,DAL,2,home,OffReb,,,OffReb,,C. Andersen,
+82,1,2:45.0,26,13,CLE,DAL,0,home,LU,,1,miss2,0,C. Andersen,
+83,1,2:45.0,26,13,CLE,DAL,0,home,OffReb,,,OffReb,,C. Andersen,
+84,1,2:36.0,29,13,CLE,DAL,9,home,JS,assist,23,make3,3,K. Irving,K. Love
+85,1,2:36.0,29,13,CLE,DAL,0,away,Timeout,,,,,,
+86,1,2:36.0,29,13,CLE,DAL,0,home,Timeout,,,,,,
+87,1,2:36.0,29,13,CLE,DAL,0,home,Sub,,,,,R. Jefferson,L. James
+88,1,2:19.0,29,13,CLE,DAL,17,away,JS,,25,miss3,0,D. Nowitzki,
+89,1,2:19.0,29,13,CLE,DAL,0,home,DefReb,,,DefReb,,R. Jefferson,
+90,1,1:56.0,31,13,CLE,DAL,23,home,JS,,4,make2,2,K. Irving,
+91,1,1:41.0,31,16,CLE,DAL,15,away,JS,assist,26,make3,3,D. Finney-Smith,D. Nowitzki
+92,1,1:29.0,31,16,CLE,DAL,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,K. Love
+93,1,1:29.0,32,16,CLE,DAL,0,home,FreeThrow,,,make1,1,K. Love,
+94,1,1:29.0,33,16,CLE,DAL,0,home,FreeThrow,,,make1,1,K. Love,
+95,1,1:04.0,33,16,CLE,DAL,25,away,JS,,17,miss2,0,D. Finney-Smith,
+96,1,1:03.0,33,16,CLE,DAL,1,home,DefReb,,,DefReb,,K. Irving,
+97,1,0:56.0,33,16,CLE,DAL,7,away,KickBallViolation,,,KickBallViolation,,D. Finney-Smith,
+98,1,0:56.0,33,16,CLE,DAL,0,away,Sub,,,,,J. Gibson,W. Matthews
+99,1,0:54.0,33,16,CLE,DAL,2,home,BadPass,,,turnover,,K. Love,
+100,1,0:40.0,33,16,CLE,DAL,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Shumpert,J. Gibson
+101,1,0:31.0,33,16,CLE,DAL,9,away,JS,,26,miss3,0,D. Nowitzki,
+102,1,0:29.0,33,16,CLE,DAL,2,home,DefReb,,,DefReb,,Team,
+103,1,0:11.0,36,16,CLE,DAL,18,home,JS,,25,make3,3,K. Irving,
+104,1,0:07.0,36,16,CLE,DAL,4,away,JS,,25,miss3,0,J. Gibson,
+105,1,0:06.0,36,16,CLE,DAL,1,home,DefReb,,,DefReb,,I. Shumpert,
+106,1,0:01.0,36,16,CLE,DAL,5,home,JS,,26,miss3,0,I. Shumpert,
+107,1,0:00.0,36,16,CLE,DAL,1,home,OffReb,,,OffReb,,K. Love,
+108,1,0:00.0,36,16,CLE,DAL,0,home,LU,,1,miss2,0,K. Love,
+109,1,0:00.0,36,16,CLE,DAL,0,home,OffReb,,,OffReb,,Team,
+110,2,11:40.0,39,16,CLE,DAL,20,home,JS,assist,24,make3,3,I. Shumpert,C. Andersen
+111,2,11:27.0,39,16,CLE,DAL,13,away,BadPass,,,turnover,,J. Gibson,
+112,2,11:16.0,39,16,CLE,DAL,11,home,JS,,24,miss3,0,R. Jefferson,
+113,2,11:16.0,39,16,CLE,DAL,0,away,DefReb,,,DefReb,,S. Curry,
+114,2,11:16.0,39,16,CLE,DAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Andersen,S. Curry
+115,2,11:16.0,39,16,CLE,DAL,0,home,Sub,,,,,T. Thompson,C. Andersen
+116,2,11:16.0,39,16,CLE,DAL,0,away,Sub,,,,,D. Williams,J. Gibson
+117,2,11:06.0,39,18,CLE,DAL,10,away,JS,assist,18,make2,2,S. Curry,D. Williams
+118,2,10:52.0,41,18,CLE,DAL,14,home,DK,assist,0,make2,2,T. Thompson,L. James
+119,2,10:28.0,41,20,CLE,DAL,24,away,JS,,20,make2,2,D. Williams,
+120,2,10:22.0,41,20,CLE,DAL,6,home,BadPass,,,turnover,,L. James,
+121,2,10:13.0,41,22,CLE,DAL,9,away,JS,assist,16,make2,2,D. Nowitzki,D. Williams
+122,2,9:53.0,41,22,CLE,DAL,20,home,JS,,23,miss3,0,L. James,
+123,2,9:52.0,41,22,CLE,DAL,1,away,DefReb,,,DefReb,,S. Curry,
+124,2,9:45.0,41,22,CLE,DAL,7,away,JS,,26,miss3,0,H. Barnes,
+125,2,9:43.0,41,22,CLE,DAL,2,home,DefReb,,,DefReb,,I. Shumpert,
+126,2,9:35.0,41,22,CLE,DAL,8,home,JS,,26,miss3,0,M. Dunleavy,
+127,2,9:35.0,41,22,CLE,DAL,0,home,OffReb,,,OffReb,,T. Thompson,
+128,2,9:23.0,43,22,CLE,DAL,12,home,LU,assist,1,make2,2,L. James,M. Dunleavy
+129,2,9:12.0,43,24,CLE,DAL,11,away,JS,assist,16,make2,2,D. Nowitzki,D. Williams
+130,2,8:58.0,46,24,CLE,DAL,14,home,JS,assist,25,make3,3,R. Jefferson,I. Shumpert
+131,2,8:57.0,46,24,CLE,DAL,1,away,Timeout,,,,,,
+132,2,8:57.0,46,24,CLE,DAL,0,away,Sub,,,,,A. Bogut,D. Nowitzki
+133,2,8:48.0,46,24,CLE,DAL,9,away,JS,,16,miss2,0,H. Barnes,
+134,2,8:48.0,46,24,CLE,DAL,0,home,DefReb,,,DefReb,,T. Thompson,
+135,2,8:31.0,46,24,CLE,DAL,17,home,JS,,21,miss2,0,L. James,
+136,2,8:31.0,46,24,CLE,DAL,0,away,DefReb,,,DefReb,,A. Bogut,
+137,2,8:13.0,46,24,CLE,DAL,18,away,LU,,2,miss2,0,D. Williams,
+138,2,8:12.0,46,24,CLE,DAL,1,home,DefReb,,,DefReb,,T. Thompson,
+139,2,8:02.0,46,24,CLE,DAL,10,home,JS,block,28,miss3,0,M. Dunleavy,J. Anderson
+140,2,8:01.0,46,24,CLE,DAL,1,away,DefReb,,,DefReb,,A. Bogut,
+141,2,7:53.0,46,24,CLE,DAL,8,away,JS,,19,miss2,0,J. Anderson,
+142,2,7:52.0,46,24,CLE,DAL,1,home,DefReb,,,DefReb,,T. Thompson,
+143,2,7:44.0,46,24,CLE,DAL,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Anderson,L. James
+144,2,7:44.0,47,24,CLE,DAL,0,home,FreeThrow,,,make1,1,L. James,
+145,2,7:44.0,48,24,CLE,DAL,0,home,FreeThrow,,,make1,1,L. James,
+146,2,7:25.0,48,24,CLE,DAL,19,away,JS,,17,miss2,0,H. Barnes,
+147,2,7:25.0,48,24,CLE,DAL,0,away,OffReb,,,OffReb,,A. Bogut,
+148,2,7:09.0,48,24,CLE,DAL,16,away,JS,,26,miss3,0,J. Anderson,
+149,2,7:08.0,48,24,CLE,DAL,1,home,DefReb,,,DefReb,,L. James,
+150,2,6:54.0,48,24,CLE,DAL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Williams,M. Dunleavy
+151,2,6:54.0,48,24,CLE,DAL,0,away,Sub,,,,,N. Brussino,J. Anderson
+152,2,6:40.0,48,24,CLE,DAL,14,home,BadPass,steal,,turnover,,I. Shumpert,N. Brussino
+153,2,6:32.0,48,26,CLE,DAL,8,away,JS,assist,14,make2,2,H. Barnes,N. Brussino
+154,2,6:17.0,48,26,CLE,DAL,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Curry,R. Jefferson
+155,2,6:17.0,49,26,CLE,DAL,0,home,FreeThrow,,,make1,1,R. Jefferson,
+156,2,6:17.0,49,26,CLE,DAL,0,home,Sub,,,,,K. Love,L. James
+157,2,6:17.0,49,26,CLE,DAL,0,home,Sub,,,,,K. Irving,T. Thompson
+158,2,6:17.0,49,26,CLE,DAL,0,away,Sub,,,,,J. Gibson,S. Curry
+159,2,6:17.0,50,26,CLE,DAL,0,home,FreeThrow,,,make1,1,R. Jefferson,
+160,2,5:51.0,50,26,CLE,DAL,26,away,JS,,28,miss3,0,N. Brussino,
+161,2,5:51.0,50,26,CLE,DAL,0,home,DefReb,,,DefReb,,R. Jefferson,
+162,2,5:43.0,50,26,CLE,DAL,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Williams,I. Shumpert
+163,2,5:43.0,50,26,CLE,DAL,0,away,Timeout,,,,,,
+164,2,5:43.0,51,26,CLE,DAL,0,home,FreeThrow,,,make1,1,I. Shumpert,
+165,2,5:43.0,50,26,CLE,DAL,0,home,Sub,,,,,J. Smith,R. Jefferson
+166,2,5:43.0,50,26,CLE,DAL,0,away,Sub,,,,,D. Nowitzki,H. Barnes
+167,2,5:43.0,51,26,CLE,DAL,0,away,Sub,,,,,W. Matthews,J. Gibson
+168,2,5:43.0,51,26,CLE,DAL,0,home,Sub,,,,,T. Thompson,M. Dunleavy
+169,2,5:43.0,52,26,CLE,DAL,0,home,FreeThrow,,,make1,1,I. Shumpert,
+170,2,5:25.0,52,26,CLE,DAL,18,away,JS,,23,miss3,0,D. Nowitzki,
+171,2,5:25.0,52,26,CLE,DAL,0,home,DefReb,,,DefReb,,J. Smith,
+172,2,5:19.0,52,26,CLE,DAL,6,home,BadPass,,,turnover,,K. Irving,
+173,2,5:10.0,52,28,CLE,DAL,9,away,JS,assist,16,make2,2,D. Nowitzki,D. Williams
+174,2,4:46.0,54,28,CLE,DAL,24,home,HS,assist,8,make2,2,K. Love,J. Smith
+175,2,4:33.0,54,28,CLE,DAL,13,away,JS,block,15,miss2,0,D. Nowitzki,K. Irving
+176,2,4:31.0,54,28,CLE,DAL,2,home,DefReb,,,DefReb,,I. Shumpert,
+177,2,4:22.0,57,28,CLE,DAL,9,home,JS,assist,25,make3,3,K. Love,I. Shumpert
+178,2,4:09.0,57,28,CLE,DAL,13,away,LostBall,,,turnover,,W. Matthews,
+179,2,4:09.0,57,28,CLE,DAL,0,away,DelayOfGame,,,DelayOfGame,,Team,
+180,2,4:00.0,57,28,CLE,DAL,9,home,JS,,25,miss3,0,I. Shumpert,
+181,2,3:59.0,57,28,CLE,DAL,1,away,DefReb,,,DefReb,,N. Brussino,
+182,2,3:44.0,57,28,CLE,DAL,15,away,JS,block,3,miss2,0,A. Bogut,I. Shumpert
+183,2,3:44.0,57,28,CLE,DAL,0,home,DefReb,,,DefReb,,Team,
+184,2,3:44.0,57,28,CLE,DAL,0,home,Sub,,,,,L. James,I. Shumpert
+185,2,3:32.0,57,28,CLE,DAL,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,K. Love
+186,2,3:32.0,58,28,CLE,DAL,0,home,FreeThrow,,,make1,1,K. Love,
+187,2,3:32.0,58,28,CLE,DAL,0,away,Sub,,,,,S. Curry,D. Williams
+188,2,3:32.0,59,28,CLE,DAL,0,home,FreeThrow,,,make1,1,K. Love,
+189,2,3:22.0,59,28,CLE,DAL,10,away,BadPass,steal,,turnover,,S. Curry,T. Thompson
+190,2,3:18.0,61,28,CLE,DAL,4,home,LU,assist,1,make2,2,L. James,K. Love
+191,2,3:18.0,61,28,CLE,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Brussino,L. James
+192,2,3:18.0,61,28,CLE,DAL,0,away,Sub,,,,,H. Barnes,N. Brussino
+193,2,3:18.0,62,28,CLE,DAL,0,home,FreeThrow,,,make1,1,L. James,
+194,2,3:09.0,62,28,CLE,DAL,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Smith,W. Matthews
+195,2,3:02.0,62,28,CLE,DAL,7,away,JS,,19,miss2,0,H. Barnes,
+196,2,3:01.0,62,28,CLE,DAL,1,home,DefReb,,,DefReb,,K. Love,
+197,2,2:57.0,62,28,CLE,DAL,4,home,Timeout,,,,,,
+198,2,2:50.0,62,28,CLE,DAL,7,home,JS,,25,miss3,0,J. Smith,
+199,2,2:50.0,62,28,CLE,DAL,0,away,DefReb,,,DefReb,,A. Bogut,
+200,2,2:33.0,62,28,CLE,DAL,17,away,JS,,15,miss2,0,D. Nowitzki,
+201,2,2:31.0,62,28,CLE,DAL,2,home,DefReb,,,DefReb,,K. Love,
+202,2,2:25.0,65,28,CLE,DAL,6,home,JS,assist,24,make3,3,K. Love,L. James
+203,2,2:09.0,65,28,CLE,DAL,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Love,W. Matthews
+204,2,2:02.0,65,28,CLE,DAL,7,away,JS,,26,miss3,0,S. Curry,
+205,2,2:02.0,65,28,CLE,DAL,0,home,DefReb,,,DefReb,,L. James,
+206,2,1:54.0,68,28,CLE,DAL,8,home,JS,assist,26,make3,3,K. Love,L. James
+207,2,1:52.0,68,28,CLE,DAL,2,away,Timeout,,,,,,
+208,2,1:36.0,68,28,CLE,DAL,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,S. Curry
+209,2,1:36.0,68,29,CLE,DAL,0,away,FreeThrow,,,make1,1,S. Curry,
+210,2,1:36.0,68,30,CLE,DAL,0,away,FreeThrow,,,make1,1,S. Curry,
+211,2,1:27.0,68,30,CLE,DAL,9,home,BadPass,,,turnover,,J. Smith,
+212,2,1:21.0,68,32,CLE,DAL,6,away,LU,assist,1,make2,2,A. Bogut,D. Nowitzki
+213,2,1:21.0,68,32,CLE,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. James,A. Bogut
+214,2,1:21.0,68,32,CLE,DAL,0,away,FreeThrow,,,make1,0,A. Bogut,
+215,2,1:18.0,68,32,CLE,DAL,3,home,DefReb,,,DefReb,,T. Thompson,
+216,2,1:06.0,68,32,CLE,DAL,12,home,JS,,25,miss3,0,J. Smith,
+217,2,1:05.0,68,32,CLE,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+218,2,0:55.0,68,34,CLE,DAL,10,away,LU,assist,2,make2,2,S. Curry,A. Bogut
+219,2,0:55.0,68,34,CLE,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Thompson,S. Curry
+220,2,0:55.0,68,35,CLE,DAL,0,away,FreeThrow,,,make1,1,S. Curry,
+221,2,0:45.0,70,35,CLE,DAL,10,home,JS,,15,make2,2,L. James,
+222,2,0:25.0,70,38,CLE,DAL,20,away,JS,assist,25,make3,3,D. Nowitzki,S. Curry
+223,2,0:07.0,72,38,CLE,DAL,18,home,JS,,16,make2,2,K. Irving,
+224,2,0:06.0,72,38,CLE,DAL,1,away,Traveling,,,turnover,,S. Curry,
+225,2,0:06.0,72,38,CLE,DAL,0,away,Sub,,,,,D. Finney-Smith,D. Nowitzki
+226,2,0:02.0,72,38,CLE,DAL,4,home,BadPass,steal,,turnover,,L. James,A. Bogut
+227,2,0:00.0,72,38,CLE,DAL,2,away,JS,,41,miss3,0,W. Matthews,
+228,2,0:00.0,72,38,CLE,DAL,0,away,OffReb,,,OffReb,,Team,
+229,3,11:43.0,72,38,CLE,DAL,17,home,Traveling,,,turnover,,L. James,
+230,3,11:31.0,72,38,CLE,DAL,12,away,JS,,25,miss3,0,H. Barnes,
+231,3,11:30.0,72,38,CLE,DAL,1,away,OffReb,,,OffReb,,A. Bogut,
+232,3,11:15.0,72,40,CLE,DAL,15,away,JS,,6,make2,2,S. Curry,
+233,3,11:04.0,74,40,CLE,DAL,11,home,JS,,11,make2,2,K. Irving,
+234,3,10:50.0,74,40,CLE,DAL,14,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Nowitzki,J. Smith
+235,3,10:50.0,74,40,CLE,DAL,0,away,OffensiveFoul,,,turnover,,D. Nowitzki,
+236,3,10:29.0,76,40,CLE,DAL,21,home,JS,,15,make2,2,K. Irving,
+237,3,10:14.0,76,42,CLE,DAL,15,away,JS,,18,make2,2,S. Curry,
+238,3,9:59.0,76,42,CLE,DAL,15,home,JS,,6,miss2,0,K. Love,
+239,3,9:57.0,76,42,CLE,DAL,2,away,DefReb,,,DefReb,,A. Bogut,
+240,3,9:33.0,76,42,CLE,DAL,24,away,JS,,22,miss3,0,W. Matthews,
+241,3,9:33.0,76,42,CLE,DAL,0,away,OffReb,,,OffReb,,A. Bogut,
+242,3,9:23.0,76,42,CLE,DAL,10,away,JS,,26,miss3,0,S. Curry,
+243,3,9:23.0,76,42,CLE,DAL,0,home,DefReb,,,DefReb,,K. Love,
+244,3,9:20.0,76,42,CLE,DAL,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Curry,K. Irving
+245,3,9:04.0,79,42,CLE,DAL,16,home,JS,assist,25,make3,3,L. James,K. Love
+246,3,8:46.0,79,42,CLE,DAL,18,away,BadPass,steal,,turnover,,A. Bogut,K. Love
+247,3,8:37.0,82,42,CLE,DAL,9,home,JS,assist,29,make3,3,L. James,J. Smith
+248,3,8:37.0,82,42,CLE,DAL,0,away,Timeout,,,,,,
+249,3,8:29.0,82,42,CLE,DAL,8,away,BadPass,steal,,turnover,,S. Curry,J. Smith
+250,3,8:23.0,82,42,CLE,DAL,6,home,JS,,5,miss2,0,T. Thompson,
+251,3,8:23.0,82,42,CLE,DAL,0,home,OffReb,,,OffReb,,Team,
+252,3,8:19.0,82,42,CLE,DAL,4,home,JS,,25,miss3,0,L. James,
+253,3,8:18.0,82,42,CLE,DAL,1,away,DefReb,,,DefReb,,A. Bogut,
+254,3,7:59.0,82,42,CLE,DAL,19,away,BadPass,steal,,turnover,,W. Matthews,K. Love
+255,3,7:55.0,82,42,CLE,DAL,4,home,BadPass,steal,,turnover,,J. Smith,A. Bogut
+256,3,7:49.0,82,42,CLE,DAL,6,away,JS,,24,miss3,0,H. Barnes,
+257,3,7:49.0,82,42,CLE,DAL,0,away,OffReb,,,OffReb,,A. Bogut,
+258,3,7:44.0,82,42,CLE,DAL,5,away,JS,,24,miss3,0,S. Curry,
+259,3,7:44.0,82,42,CLE,DAL,0,away,OffReb,,,OffReb,,D. Nowitzki,
+260,3,7:44.0,82,42,CLE,DAL,0,away,LU,,0,miss2,0,D. Nowitzki,
+261,3,7:41.0,82,42,CLE,DAL,3,away,OffReb,,,OffReb,,Team,
+262,3,7:39.0,82,44,CLE,DAL,2,away,JS,assist,19,make2,2,D. Nowitzki,S. Curry
+263,3,7:26.0,82,44,CLE,DAL,13,home,JS,,11,miss2,0,K. Irving,
+264,3,7:24.0,82,44,CLE,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+265,3,7:03.0,82,46,CLE,DAL,21,away,JS,assist,15,make2,2,S. Curry,D. Nowitzki
+266,3,6:47.0,85,46,CLE,DAL,16,home,JS,assist,26,make3,3,K. Love,L. James
+267,3,6:30.0,85,46,CLE,DAL,17,away,BadPass,steal,,turnover,,W. Matthews,K. Love
+268,3,6:27.0,85,46,CLE,DAL,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bogut,L. James
+269,3,6:27.0,85,46,CLE,DAL,0,away,Sub,,,,,D. Finney-Smith,D. Nowitzki
+270,3,6:16.0,85,46,CLE,DAL,11,home,JS,,23,miss3,0,J. Smith,
+271,3,6:16.0,85,46,CLE,DAL,0,home,OffReb,,,OffReb,,T. Thompson,
+272,3,6:12.0,85,46,CLE,DAL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bogut,K. Irving
+273,3,5:59.0,85,46,CLE,DAL,13,home,JS,,14,miss2,0,L. James,
+274,3,5:57.0,85,46,CLE,DAL,2,home,OffReb,,,OffReb,,T. Thompson,
+275,3,5:53.0,88,46,CLE,DAL,4,home,JS,assist,25,make3,3,K. Love,T. Thompson
+276,3,5:33.0,88,46,CLE,DAL,20,away,JS,,24,miss3,0,D. Finney-Smith,
+277,3,5:32.0,88,46,CLE,DAL,1,home,DefReb,,,DefReb,,K. Love,
+278,3,5:23.0,88,46,CLE,DAL,9,home,LostBall,steal,,turnover,,K. Irving,W. Matthews
+279,3,5:09.0,88,46,CLE,DAL,14,away,JS,,26,miss3,0,S. Curry,
+280,3,5:09.0,88,46,CLE,DAL,0,home,DefReb,,,DefReb,,K. Love,
+281,3,5:00.0,88,46,CLE,DAL,9,home,JS,,28,miss3,0,L. James,
+282,3,4:59.0,88,46,CLE,DAL,1,away,DefReb,,,DefReb,,S. Curry,
+283,3,4:47.0,88,48,CLE,DAL,12,away,JS,assist,19,make2,2,H. Barnes,S. Curry
+284,3,4:28.0,88,48,CLE,DAL,19,home,JS,,28,miss3,0,K. Irving,
+285,3,4:28.0,88,48,CLE,DAL,0,home,OffReb,,,OffReb,,T. Thompson,
+286,3,4:28.0,88,48,CLE,DAL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bogut,T. Thompson
+287,3,4:28.0,88,48,CLE,DAL,0,away,Sub,,,,,D. Nowitzki,A. Bogut
+288,3,4:24.0,88,48,CLE,DAL,4,home,JS,,18,miss2,0,K. Irving,
+289,3,4:24.0,88,48,CLE,DAL,0,away,DefReb,,,DefReb,,Team,
+290,3,4:14.0,88,48,CLE,DAL,10,away,JS,,24,miss3,0,W. Matthews,
+291,3,4:14.0,88,48,CLE,DAL,0,away,OffReb,,,OffReb,,Team,
+292,3,4:13.0,88,48,CLE,DAL,1,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Smith,D. Nowitzki
+293,3,3:54.0,88,48,CLE,DAL,19,away,JS,,25,miss3,0,D. Nowitzki,
+294,3,3:52.0,88,48,CLE,DAL,2,away,OffReb,,,OffReb,,H. Barnes,
+295,3,3:52.0,88,50,CLE,DAL,0,away,LU,,0,make2,2,H. Barnes,
+296,3,3:30.0,91,50,CLE,DAL,22,home,JS,assist,27,make3,3,K. Love,K. Irving
+297,3,3:25.0,91,50,CLE,DAL,5,home,KickBallViolation,,,KickBallViolation,,T. Thompson,
+298,3,3:06.0,91,50,CLE,DAL,19,away,LU,,1,miss2,0,D. Finney-Smith,
+299,3,3:04.0,91,50,CLE,DAL,2,home,DefReb,,,DefReb,,K. Love,
+300,3,3:00.0,93,50,CLE,DAL,4,home,DK,assist,0,make2,2,L. James,K. Love
+301,3,2:38.0,93,53,CLE,DAL,22,away,JS,assist,26,make3,3,W. Matthews,D. Finney-Smith
+302,3,2:10.0,93,53,CLE,DAL,28,home,JS,,23,miss3,0,J. Smith,
+303,3,2:09.0,93,53,CLE,DAL,1,away,DefReb,,,DefReb,,S. Curry,
+304,3,2:00.0,93,53,CLE,DAL,9,away,JS,,27,miss3,0,W. Matthews,
+305,3,1:59.0,93,53,CLE,DAL,1,away,OffReb,,,OffReb,,H. Barnes,
+306,3,1:54.0,93,53,CLE,DAL,5,away,JS,,25,miss3,0,S. Curry,
+307,3,1:53.0,93,53,CLE,DAL,1,home,DefReb,,,DefReb,,L. James,
+308,3,1:48.0,95,53,CLE,DAL,5,home,DK,assist,0,make2,2,T. Thompson,L. James
+309,3,1:48.0,95,53,CLE,DAL,0,away,Timeout,,,,,,
+310,3,1:48.0,95,53,CLE,DAL,0,home,Timeout,,,,,,
+311,3,1:48.0,95,53,CLE,DAL,0,home,Sub,,,,,C. Andersen,L. James
+312,3,1:48.0,95,53,CLE,DAL,0,home,Sub,,,,,M. Dunleavy,K. Love
+313,3,1:48.0,95,53,CLE,DAL,0,home,Sub,,,,,K. Felder,T. Thompson
+314,3,1:48.0,95,53,CLE,DAL,0,home,Sub,,,,,J. McRae,K. Irving
+315,3,1:29.0,95,53,CLE,DAL,19,away,HS,,6,miss2,0,S. Curry,
+316,3,1:27.0,95,53,CLE,DAL,2,away,OffReb,,,OffReb,,H. Barnes,
+317,3,1:25.0,95,55,CLE,DAL,2,away,LU,,2,make2,2,H. Barnes,
+318,3,1:12.0,95,55,CLE,DAL,13,home,JS,,26,miss3,0,J. Smith,
+319,3,1:11.0,95,55,CLE,DAL,1,away,DefReb,,,DefReb,,H. Barnes,
+320,3,0:53.0,95,55,CLE,DAL,18,away,JS,,15,miss2,0,D. Nowitzki,
+321,3,0:53.0,95,55,CLE,DAL,0,home,DefReb,,,DefReb,,K. Felder,
+322,3,0:47.0,95,55,CLE,DAL,6,home,JS,,25,miss3,0,J. Smith,
+323,3,0:44.0,95,55,CLE,DAL,3,away,DefReb,,,DefReb,,W. Matthews,
+324,3,0:43.0,95,55,CLE,DAL,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. McRae,W. Matthews
+325,3,0:43.0,95,55,CLE,DAL,0,home,Sub,,,,,D. Liggins,J. Smith
+326,3,0:33.0,95,55,CLE,DAL,10,away,JS,,19,miss2,0,S. Curry,
+327,3,0:32.0,95,55,CLE,DAL,1,home,DefReb,,,DefReb,,C. Andersen,
+328,3,0:14.0,95,55,CLE,DAL,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Finney-Smith,K. Felder
+329,3,0:14.0,96,55,CLE,DAL,0,home,FreeThrow,,,make1,1,K. Felder,
+330,3,0:14.0,96,55,CLE,DAL,0,home,FreeThrow,,,make1,0,K. Felder,
+331,3,0:13.0,96,55,CLE,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+332,3,0:00.0,96,55,CLE,DAL,13,away,JS,,23,miss3,0,S. Curry,
+333,3,0:00.0,96,55,CLE,DAL,0,away,OffReb,,,OffReb,,Team,
+334,4,11:36.0,96,58,CLE,DAL,24,away,JS,assist,24,make3,3,D. Finney-Smith,J. Anderson
+335,4,11:18.0,99,58,CLE,DAL,18,home,JS,assist,25,make3,3,M. Dunleavy,K. Felder
+336,4,10:52.0,99,58,CLE,DAL,26,away,ShotClockViolation,,,turnover,,Team,
+337,4,10:36.0,99,58,CLE,DAL,16,home,JS,,25,miss3,0,J. McRae,
+338,4,10:33.0,99,58,CLE,DAL,3,home,OffReb,,,OffReb,,Team,
+339,4,10:32.0,99,58,CLE,DAL,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Anderson,M. Dunleavy
+340,4,10:32.0,100,58,CLE,DAL,0,home,FreeThrow,,,make1,1,M. Dunleavy,
+341,4,10:32.0,101,58,CLE,DAL,0,home,FreeThrow,,,make1,1,M. Dunleavy,
+342,4,10:21.0,101,60,CLE,DAL,11,away,DK,assist,0,make2,2,D. Powell,J. Gibson
+343,4,10:11.0,103,60,CLE,DAL,10,home,JS,,16,make2,2,K. Felder,
+344,4,9:49.0,103,60,CLE,DAL,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Andersen,J. Anderson
+345,4,9:49.0,103,61,CLE,DAL,0,away,FreeThrow,,,make1,1,J. Anderson,
+346,4,9:49.0,103,61,CLE,DAL,0,away,FreeThrow,,,make1,0,J. Anderson,
+347,4,9:48.0,103,61,CLE,DAL,1,home,DefReb,,,DefReb,,C. Andersen,
+348,4,9:38.0,105,61,CLE,DAL,10,home,JS,,13,make2,2,K. Felder,
+349,4,9:26.0,105,61,CLE,DAL,12,away,JS,,8,miss2,0,J. Anderson,
+350,4,9:26.0,105,61,CLE,DAL,0,home,DefReb,,,DefReb,,Team,
+351,4,9:26.0,105,61,CLE,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Powell,C. Andersen
+352,4,9:19.0,105,61,CLE,DAL,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Andersen,D. Finney-Smith
+353,4,9:19.0,105,61,CLE,DAL,0,home,OffensiveFoul,,,turnover,,C. Andersen,
+354,4,9:06.0,105,63,CLE,DAL,13,away,LU,assist,1,make2,2,D. Finney-Smith,N. Brussino
+355,4,8:53.0,105,63,CLE,DAL,13,home,LU,,1,miss2,0,K. Felder,
+356,4,8:53.0,105,63,CLE,DAL,0,home,OffReb,,,OffReb,,D. Liggins,
+357,4,8:53.0,107,63,CLE,DAL,0,home,LU,,1,make2,2,D. Liggins,
+358,4,8:53.0,107,63,CLE,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Brussino,D. Liggins
+359,4,8:53.0,107,63,CLE,DAL,0,away,Timeout,,,,,,
+360,4,8:53.0,108,63,CLE,DAL,0,home,FreeThrow,,,make1,1,D. Liggins,
+361,4,8:40.0,108,65,CLE,DAL,13,away,JS,assist,19,make2,2,D. Powell,N. Brussino
+362,4,8:20.0,108,65,CLE,DAL,20,home,LU,,2,miss2,0,J. McRae,
+363,4,8:19.0,108,65,CLE,DAL,1,home,OffReb,,,OffReb,,C. Andersen,
+364,4,8:19.0,110,65,CLE,DAL,0,home,DK,,0,make2,2,C. Andersen,
+365,4,8:14.0,110,65,CLE,DAL,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Felder,J. Gibson
+366,4,8:14.0,110,66,CLE,DAL,0,away,FreeThrow,,,make1,1,J. Gibson,
+367,4,8:14.0,110,67,CLE,DAL,0,away,FreeThrow,,,make1,1,J. Gibson,
+368,4,7:58.0,110,67,CLE,DAL,16,home,JS,,16,miss2,0,D. Liggins,
+369,4,7:57.0,110,67,CLE,DAL,1,away,DefReb,,,DefReb,,D. Powell,
+370,4,7:43.0,110,67,CLE,DAL,14,away,JS,,15,miss2,0,D. Powell,
+371,4,7:42.0,110,67,CLE,DAL,1,home,DefReb,,,DefReb,,D. Liggins,
+372,4,7:30.0,110,67,CLE,DAL,12,home,BadPass,steal,,turnover,,K. Felder,J. Anderson
+373,4,7:21.0,110,69,CLE,DAL,9,away,DK,assist,0,make2,2,J. Anderson,J. Gibson
+374,4,6:56.0,110,69,CLE,DAL,25,home,LU,block,2,miss2,0,J. McRae,D. Powell
+375,4,6:55.0,110,69,CLE,DAL,1,away,DefReb,,,DefReb,,Team,
+376,4,6:45.0,110,69,CLE,DAL,10,away,JS,,24,miss3,0,D. Finney-Smith,
+377,4,6:45.0,110,69,CLE,DAL,0,home,DefReb,,,DefReb,,D. Liggins,
+378,4,6:30.0,112,69,CLE,DAL,15,home,LU,assist,1,make2,2,C. Andersen,D. Liggins
+379,4,6:23.0,112,71,CLE,DAL,7,away,DK,assist,0,make2,2,D. Powell,N. Brussino
+380,4,6:09.0,112,71,CLE,DAL,14,home,LU,,1,miss2,0,K. Felder,
+381,4,6:07.0,112,71,CLE,DAL,2,away,DefReb,,,DefReb,,N. Brussino,
+382,4,6:01.0,112,73,CLE,DAL,6,away,LU,assist,2,make2,2,D. Powell,N. Brussino
+383,4,6:01.0,112,73,CLE,DAL,0,home,Timeout,,,,,,
+384,4,6:01.0,112,73,CLE,DAL,0,away,Sub,,,,,A. Hammons,J. Anderson
+385,4,6:01.0,112,73,CLE,DAL,0,home,Sub,,,,,J. Jones,M. Dunleavy
+386,4,5:44.0,112,73,CLE,DAL,17,home,BadPass,,,turnover,,C. Andersen,
+387,4,5:31.0,112,76,CLE,DAL,13,away,JS,assist,24,make3,3,J. Gibson,D. Powell
+388,4,5:11.0,112,76,CLE,DAL,20,home,JS,,10,miss2,0,D. Liggins,
+389,4,5:09.0,112,76,CLE,DAL,2,away,DefReb,,,DefReb,,J. Gibson,
+390,4,4:59.0,112,78,CLE,DAL,10,away,JS,,17,make2,2,N. Brussino,
+391,4,4:50.0,114,78,CLE,DAL,9,home,DK,assist,0,make2,2,J. McRae,K. Felder
+392,4,4:31.0,114,78,CLE,DAL,19,away,JS,,27,miss3,0,N. Brussino,
+393,4,4:31.0,114,78,CLE,DAL,0,home,DefReb,,,DefReb,,J. McRae,
+394,4,4:21.0,114,78,CLE,DAL,10,home,Traveling,,,turnover,,K. Felder,
+395,4,4:21.0,114,78,CLE,DAL,0,away,Timeout,,,,,,
+396,4,3:58.0,114,78,CLE,DAL,23,away,JS,block,14,miss2,0,A. Hammons,K. Felder
+397,4,3:55.0,114,78,CLE,DAL,3,home,DefReb,,,DefReb,,C. Andersen,
+398,4,3:51.0,114,78,CLE,DAL,4,home,JS,,25,miss3,0,J. McRae,
+399,4,3:49.0,114,78,CLE,DAL,2,away,DefReb,,,DefReb,,A. Hammons,
+400,4,3:44.0,114,78,CLE,DAL,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. McRae,D. Finney-Smith
+401,4,3:35.0,114,78,CLE,DAL,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Liggins,N. Brussino
+402,4,3:24.0,114,78,CLE,DAL,11,away,JS,,26,miss3,0,D. Finney-Smith,
+403,4,3:23.0,114,78,CLE,DAL,1,away,OffReb,,,OffReb,,N. Brussino,
+404,4,3:16.0,114,78,CLE,DAL,7,away,JS,,26,miss3,0,D. Powell,
+405,4,3:16.0,114,78,CLE,DAL,0,home,DefReb,,,DefReb,,J. McRae,
+406,4,2:56.0,117,78,CLE,DAL,20,home,JS,assist,25,make3,3,J. Jones,C. Andersen
+407,4,2:46.0,117,78,CLE,DAL,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Liggins,D. Powell
+408,4,2:46.0,117,79,CLE,DAL,0,away,FreeThrow,,,make1,1,D. Powell,
+409,4,2:46.0,117,79,CLE,DAL,0,away,Sub,,,,,J. Anderson,D. Finney-Smith
+410,4,2:46.0,117,80,CLE,DAL,0,away,FreeThrow,,,make1,1,D. Powell,
+411,4,2:29.0,119,80,CLE,DAL,17,home,JS,assist,18,make2,2,J. McRae,C. Andersen
+412,4,2:29.0,119,80,CLE,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Anderson,J. McRae
+413,4,2:29.0,120,80,CLE,DAL,0,home,FreeThrow,,,make1,1,J. McRae,
+414,4,2:12.0,120,80,CLE,DAL,17,away,LostBall,steal,,turnover,,D. Powell,D. Liggins
+415,4,1:56.0,123,80,CLE,DAL,16,home,JS,assist,25,make3,3,J. Jones,K. Felder
+416,4,1:47.0,123,83,CLE,DAL,9,away,JS,,25,make3,3,J. Gibson,
+417,4,1:33.0,123,83,CLE,DAL,14,home,JS,,25,miss3,0,C. Andersen,
+418,4,1:32.0,123,83,CLE,DAL,1,away,DefReb,,,DefReb,,N. Brussino,
+419,4,1:23.0,123,83,CLE,DAL,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Andersen,A. Hammons
+420,4,1:23.0,123,83,CLE,DAL,0,away,FreeThrow,,,make1,0,A. Hammons,
+421,4,1:23.0,123,83,CLE,DAL,0,away,OffReb,,,OffReb,,Team,
+422,4,1:23.0,123,83,CLE,DAL,0,away,FreeThrow,,,make1,0,A. Hammons,
+423,4,1:18.0,123,83,CLE,DAL,5,away,OffReb,,,OffReb,,J. Anderson,
+424,4,1:15.0,123,85,CLE,DAL,3,away,LU,assist,0,make2,2,J. Anderson,D. Powell
+425,4,0:55.0,125,85,CLE,DAL,20,home,LU,,1,make2,2,J. McRae,
+426,4,0:41.0,125,88,CLE,DAL,14,away,JS,assist,25,make3,3,J. Anderson,D. Powell
+427,4,0:21.0,128,88,CLE,DAL,20,home,JS,assist,24,make3,3,J. Jones,K. Felder
+428,4,0:15.0,128,90,CLE,DAL,6,away,LU,,1,make2,2,J. Anderson,

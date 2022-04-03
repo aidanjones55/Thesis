@@ -1,0 +1,497 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:48.0,0,2,ORL,PHO,12,away,HS,assist,4,make2,2,T. Chandler,D. Booker
+1,1,11:31.0,2,2,ORL,PHO,17,home,JS,assist,18,make2,2,N. Vučević,E. Payton
+2,1,11:19.0,2,2,ORL,PHO,12,away,JS,,19,miss2,0,D. Booker,
+3,1,11:18.0,2,2,ORL,PHO,1,home,DefReb,,,DefReb,,N. Vučević,
+4,1,11:11.0,2,2,ORL,PHO,7,home,JS,,24,miss3,0,A. Gordon,
+5,1,11:10.0,2,2,ORL,PHO,1,away,DefReb,,,DefReb,,D. Booker,
+6,1,11:03.0,2,2,ORL,PHO,7,away,JS,,15,miss2,0,D. Booker,
+7,1,11:01.0,2,2,ORL,PHO,2,away,OffReb,,,OffReb,,D. Booker,
+8,1,11:01.0,2,2,ORL,PHO,0,away,LU,,1,miss2,0,D. Booker,
+9,1,10:59.0,2,2,ORL,PHO,2,home,DefReb,,,DefReb,,N. Vučević,
+10,1,10:53.0,5,2,ORL,PHO,6,home,JS,assist,25,make3,3,E. Fournier,E. Payton
+11,1,10:33.0,5,2,ORL,PHO,20,away,Traveling,,,turnover,,T. Chandler,
+12,1,10:23.0,5,2,ORL,PHO,10,home,JS,,9,miss2,0,N. Vučević,
+13,1,10:22.0,5,2,ORL,PHO,1,away,DefReb,,,DefReb,,P. Tucker,
+14,1,10:11.0,5,4,ORL,PHO,11,away,JS,assist,3,make2,2,A. Len,P. Tucker
+15,1,10:03.0,7,4,ORL,PHO,8,home,DK,assist,0,make2,2,A. Gordon,E. Payton
+16,1,9:51.0,7,4,ORL,PHO,12,away,HS,,8,miss2,0,A. Len,
+17,1,9:50.0,7,4,ORL,PHO,1,home,DefReb,,,DefReb,,A. Gordon,
+18,1,9:46.0,7,4,ORL,PHO,4,away,ChargeFoul,DrawnBy,,ChargeFoul,,A. Gordon,R. Price
+19,1,9:46.0,7,4,ORL,PHO,0,home,OffensiveFoul,,,turnover,,A. Gordon,
+20,1,9:26.0,7,6,ORL,PHO,20,away,JS,,15,make2,2,A. Len,
+21,1,9:12.0,7,6,ORL,PHO,14,home,JS,,27,miss3,0,M. Hezonja,
+22,1,9:10.0,7,6,ORL,PHO,2,home,OffReb,,,OffReb,,E. Payton,
+23,1,9:07.0,7,6,ORL,PHO,3,home,BadPass,steal,,turnover,,E. Payton,R. Price
+24,1,9:00.0,7,8,ORL,PHO,7,away,JS,assist,17,make2,2,A. Len,D. Booker
+25,1,8:44.0,9,8,ORL,PHO,16,home,LU,,1,make2,2,E. Payton,
+26,1,8:33.0,9,8,ORL,PHO,11,away,LU,,1,miss2,0,A. Len,
+27,1,8:31.0,9,8,ORL,PHO,2,home,DefReb,,,DefReb,,N. Vučević,
+28,1,8:22.0,11,8,ORL,PHO,9,home,JS,assist,18,make2,2,N. Vučević,E. Payton
+29,1,8:00.0,11,8,ORL,PHO,22,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Gordon,T. Chandler
+30,1,8:00.0,11,8,ORL,PHO,0,home,Sub,,,,,E. İlyasova,A. Gordon
+31,1,7:55.0,11,8,ORL,PHO,5,away,JS,,17,miss2,0,T. Chandler,
+32,1,7:54.0,11,8,ORL,PHO,1,home,DefReb,,,DefReb,,M. Hezonja,
+33,1,7:48.0,11,8,ORL,PHO,6,home,LU,block,1,miss2,0,E. İlyasova,T. Chandler
+34,1,7:45.0,11,8,ORL,PHO,3,away,DefReb,,,DefReb,,A. Len,
+35,1,7:35.0,11,10,ORL,PHO,10,away,JS,,16,make2,2,A. Len,
+36,1,7:20.0,11,10,ORL,PHO,15,home,JS,,15,miss2,0,N. Vučević,
+37,1,7:19.0,11,10,ORL,PHO,1,away,DefReb,,,DefReb,,P. Tucker,
+38,1,7:11.0,11,13,ORL,PHO,8,away,JS,assist,26,make3,3,R. Price,P. Tucker
+39,1,6:56.0,11,13,ORL,PHO,15,home,LU,,1,miss2,0,E. Fournier,
+40,1,6:55.0,11,13,ORL,PHO,1,away,DefReb,,,DefReb,,T. Chandler,
+41,1,6:45.0,11,15,ORL,PHO,10,away,HS,assist,7,make2,2,A. Len,R. Price
+42,1,6:35.0,13,15,ORL,PHO,10,home,LU,,1,make2,2,E. Payton,
+43,1,6:21.0,13,15,ORL,PHO,14,away,BadPass,,,turnover,,A. Len,
+44,1,6:11.0,15,15,ORL,PHO,10,home,JS,,19,make2,2,E. Payton,
+45,1,5:50.0,15,17,ORL,PHO,21,away,LU,assist,1,make2,2,T. Chandler,P. Tucker
+46,1,5:35.0,15,17,ORL,PHO,15,home,JS,,14,miss2,0,N. Vučević,
+47,1,5:33.0,15,17,ORL,PHO,2,away,DefReb,,,DefReb,,T. Chandler,
+48,1,5:26.0,15,17,ORL,PHO,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Fournier,D. Booker
+49,1,5:26.0,15,17,ORL,PHO,0,home,Timeout,,,,,,
+50,1,5:19.0,15,17,ORL,PHO,7,away,BadPass,steal,,turnover,,D. Booker,N. Vučević
+51,1,4:53.0,15,17,ORL,PHO,26,home,JS,,25,miss3,0,E. Fournier,
+52,1,4:53.0,15,17,ORL,PHO,0,home,OffReb,,,OffReb,,Team,
+53,1,4:53.0,15,17,ORL,PHO,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Chandler,E. İlyasova
+54,1,4:41.0,15,17,ORL,PHO,12,home,BadPass,steal,,turnover,,E. Fournier,R. Price
+55,1,4:36.0,15,17,ORL,PHO,5,away,LU,block,1,miss2,0,R. Price,E. İlyasova
+56,1,4:34.0,15,17,ORL,PHO,2,home,DefReb,,,DefReb,,M. Hezonja,
+57,1,4:33.0,15,17,ORL,PHO,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Booker,M. Hezonja
+58,1,4:17.0,17,17,ORL,PHO,16,home,HS,,8,make2,2,N. Vučević,
+59,1,4:05.0,17,19,ORL,PHO,12,away,JS,,14,make2,2,D. Booker,
+60,1,3:59.0,19,19,ORL,PHO,6,home,LU,,2,make2,2,E. Payton,
+61,1,3:40.0,19,19,ORL,PHO,19,away,JS,,16,miss2,0,D. Booker,
+62,1,3:39.0,19,19,ORL,PHO,1,away,OffReb,,,OffReb,,Team,
+63,1,3:39.0,19,19,ORL,PHO,0,home,Sub,,,,,J. Smith,N. Vučević
+64,1,3:39.0,19,19,ORL,PHO,0,home,Sub,,,,,C. Watson,E. Fournier
+65,1,3:31.0,19,19,ORL,PHO,8,away,LU,,2,miss2,0,T. Chandler,
+66,1,3:30.0,19,19,ORL,PHO,1,away,OffReb,,,OffReb,,A. Len,
+67,1,3:30.0,19,21,ORL,PHO,0,away,DK,,0,make2,2,A. Len,
+68,1,3:16.0,19,21,ORL,PHO,14,home,JS,,24,miss3,0,E. İlyasova,
+69,1,3:14.0,19,21,ORL,PHO,2,away,DefReb,,,DefReb,,R. Price,
+70,1,3:08.0,19,21,ORL,PHO,6,away,3sec,,,turnover,,T. Chandler,
+71,1,2:53.0,19,21,ORL,PHO,15,home,JS,,26,miss3,0,M. Hezonja,
+72,1,2:52.0,19,21,ORL,PHO,1,home,OffReb,,,OffReb,,C. Watson,
+73,1,2:50.0,19,21,ORL,PHO,2,home,JS,,25,miss3,0,C. Watson,
+74,1,2:48.0,19,21,ORL,PHO,2,away,DefReb,,,DefReb,,R. Price,
+75,1,2:44.0,19,23,ORL,PHO,4,away,LU,assist,0,make2,2,D. Booker,R. Price
+76,1,2:26.0,22,23,ORL,PHO,18,home,JS,,23,make3,3,E. Payton,
+77,1,2:03.0,22,25,ORL,PHO,23,away,HS,,7,make2,2,P. Tucker,
+78,1,2:03.0,22,25,ORL,PHO,0,home,FlagrantFoul1,DrawnBy,,FlagrantFoul1,,T. Chandler,E. İlyasova
+79,1,2:03.0,22,25,ORL,PHO,0,away,Timeout,,,,,,
+80,1,2:03.0,22,25,ORL,PHO,0,away,Sub,,,,,J. Jenkins,T. Chandler
+81,1,2:03.0,22,25,ORL,PHO,0,away,Sub,,,,,M. Teletović,R. Price
+82,1,2:03.0,22,25,ORL,PHO,0,home,FreeThrow,,,make1,0,E. İlyasova misses flagrant free throw 1 of 2,
+83,1,2:03.0,22,25,ORL,PHO,0,home,OffReb,,,OffReb,,Team,
+84,1,2:03.0,24,25,ORL,PHO,0,home,JS,,14,make2,2,M. Hezonja,
+85,1,2:03.0,25,25,ORL,PHO,0,home,FreeThrow,,,make1,1,E. İlyasova makes flagrant free throw 2 of 2,
+86,1,1:28.0,25,25,ORL,PHO,35,away,HS,,6,miss2,0,A. Len,
+87,1,1:28.0,25,25,ORL,PHO,0,away,OffReb,,,OffReb,,Team,
+88,1,1:28.0,25,25,ORL,PHO,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Hezonja,P. Tucker
+89,1,1:28.0,25,25,ORL,PHO,0,home,PersonalFoul,,,,,P. Tucker,
+90,1,1:05.0,25,25,ORL,PHO,23,away,JS,,3,miss2,0,D. Booker,
+91,1,1:03.0,25,25,ORL,PHO,2,home,DefReb,,,DefReb,,M. Hezonja,
+92,1,0:54.0,25,25,ORL,PHO,9,home,JS,,20,miss2,0,J. Smith,
+93,1,0:53.0,25,25,ORL,PHO,1,away,DefReb,,,DefReb,,P. Tucker,
+94,1,0:50.0,25,25,ORL,PHO,3,away,BadPass,steal,,turnover,,P. Tucker,E. Payton
+95,1,0:45.0,25,25,ORL,PHO,5,home,LU,,1,miss2,0,E. Payton,
+96,1,0:44.0,25,25,ORL,PHO,1,home,OffReb,,,OffReb,,E. İlyasova,
+97,1,0:44.0,25,25,ORL,PHO,0,home,LU,,0,miss2,0,E. İlyasova,
+98,1,0:44.0,25,25,ORL,PHO,0,home,OffReb,,,OffReb,,E. İlyasova,
+99,1,0:44.0,27,25,ORL,PHO,0,home,LU,,0,make2,2,E. İlyasova,
+100,1,0:28.0,27,25,ORL,PHO,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,D. Booker
+101,1,0:28.0,27,25,ORL,PHO,0,away,FreeThrow,,,make1,0,D. Booker,
+102,1,0:28.0,27,25,ORL,PHO,0,away,OffReb,,,OffReb,,Team,
+103,1,0:28.0,27,25,ORL,PHO,0,away,FreeThrow,,,make1,0,D. Booker,
+104,1,0:28.0,27,25,ORL,PHO,0,away,OffReb,,,OffReb,,A. Len,
+105,1,0:28.0,27,27,ORL,PHO,0,away,LU,,1,make2,2,A. Len,
+106,1,0:12.0,27,27,ORL,PHO,16,home,JS,,5,miss2,0,E. İlyasova,
+107,1,0:11.0,27,27,ORL,PHO,1,away,DefReb,,,DefReb,,A. Len,
+108,1,0:06.0,27,29,ORL,PHO,5,away,LU,,1,make2,2,D. Booker,
+109,1,0:01.0,29,29,ORL,PHO,5,home,LU,,1,make2,2,E. Payton,
+110,1,0:00.0,29,29,ORL,PHO,1,away,JS,,56,miss3,0,M. Teletović,
+111,1,0:00.0,29,29,ORL,PHO,0,away,OffReb,,,OffReb,,Team,
+112,2,11:46.0,29,29,ORL,PHO,14,home,JS,,22,miss3,0,E. Fournier,
+113,2,11:45.0,29,29,ORL,PHO,1,home,OffReb,,,OffReb,,E. İlyasova,
+114,2,11:44.0,29,29,ORL,PHO,1,home,JS,,1,miss2,0,E. İlyasova,
+115,2,11:43.0,29,29,ORL,PHO,1,home,OffReb,,,OffReb,,E. İlyasova,
+116,2,11:43.0,29,29,ORL,PHO,0,home,LU,,1,miss2,0,E. İlyasova,
+117,2,11:41.0,29,29,ORL,PHO,2,home,OffReb,,,OffReb,,E. İlyasova,
+118,2,11:41.0,29,29,ORL,PHO,0,home,LU,,2,miss2,0,E. İlyasova,
+119,2,11:39.0,29,29,ORL,PHO,2,home,OffReb,,,OffReb,,Team,
+120,2,11:24.0,31,29,ORL,PHO,15,home,JS,,12,make2,2,J. Smith,
+121,2,11:10.0,31,29,ORL,PHO,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,J. Leuer
+122,2,11:10.0,31,30,ORL,PHO,0,away,FreeThrow,,,make1,1,J. Leuer,
+123,2,11:10.0,31,31,ORL,PHO,0,away,FreeThrow,,,make1,1,J. Leuer,
+124,2,10:57.0,31,31,ORL,PHO,13,home,JS,,9,miss2,0,J. Smith,
+125,2,10:56.0,31,31,ORL,PHO,1,away,DefReb,,,DefReb,,J. Leuer,
+126,2,10:46.0,31,31,ORL,PHO,10,away,LostBall,,,turnover,,A. Goodwin,
+127,2,10:35.0,34,31,ORL,PHO,11,home,JS,assist,24,make3,3,C. Watson,J. Smith
+128,2,10:18.0,34,33,ORL,PHO,17,away,JS,,6,make2,2,J. Leuer,
+129,2,9:56.0,34,33,ORL,PHO,22,home,JS,,17,miss2,0,E. İlyasova,
+130,2,9:56.0,34,33,ORL,PHO,0,away,DefReb,,,DefReb,,Team,
+131,2,9:47.0,34,33,ORL,PHO,9,away,JS,,29,miss3,0,M. Teletović,
+132,2,9:45.0,34,33,ORL,PHO,2,home,DefReb,,,DefReb,,E. İlyasova,
+133,2,9:37.0,36,33,ORL,PHO,8,home,LU,,1,make2,2,E. Fournier,
+134,2,9:23.0,36,35,ORL,PHO,14,away,LU,,1,make2,2,A. Goodwin,
+135,2,9:23.0,36,35,ORL,PHO,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,A. Goodwin
+136,2,9:23.0,36,35,ORL,PHO,0,home,Sub,,,,,N. Vučević,J. Smith
+137,2,9:23.0,36,35,ORL,PHO,0,home,Sub,,,,,A. Gordon,E. İlyasova
+138,2,9:23.0,36,36,ORL,PHO,0,away,FreeThrow,,,make1,1,A. Goodwin,
+139,2,9:07.0,36,36,ORL,PHO,16,home,JS,,18,miss2,0,N. Vučević,
+140,2,9:06.0,36,36,ORL,PHO,1,away,DefReb,,,DefReb,,A. Goodwin,
+141,2,9:00.0,36,38,ORL,PHO,6,away,LU,,0,make2,2,A. Goodwin,
+142,2,8:59.0,36,38,ORL,PHO,1,home,Timeout,,,,,,
+143,2,8:37.0,36,38,ORL,PHO,22,home,HS,,5,miss2,0,N. Vučević,
+144,2,8:35.0,36,38,ORL,PHO,2,away,DefReb,,,DefReb,,J. Leuer,
+145,2,8:23.0,36,40,ORL,PHO,12,away,LU,assist,1,make2,2,A. Goodwin,R. Price
+146,2,8:23.0,36,40,ORL,PHO,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Fournier,A. Goodwin
+147,2,8:23.0,36,40,ORL,PHO,0,home,Sub,,,,,D. Marble,E. Fournier
+148,2,8:23.0,36,40,ORL,PHO,0,away,FreeThrow,,,make1,0,A. Goodwin,
+149,2,8:22.0,36,40,ORL,PHO,1,home,DefReb,,,DefReb,,N. Vučević,
+150,2,8:09.0,38,40,ORL,PHO,13,home,JS,,18,make2,2,C. Watson,
+151,2,7:56.0,38,40,ORL,PHO,13,away,LostBall,steal,,turnover,,J. Jenkins,N. Vučević
+152,2,7:52.0,38,40,ORL,PHO,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Leuer,A. Gordon
+153,2,7:52.0,39,40,ORL,PHO,0,home,FreeThrow,,,make1,1,A. Gordon,
+154,2,7:52.0,40,40,ORL,PHO,0,home,FreeThrow,,,make1,1,A. Gordon,
+155,2,7:39.0,40,40,ORL,PHO,13,away,JS,,17,miss2,0,M. Teletović,
+156,2,7:38.0,40,40,ORL,PHO,1,home,DefReb,,,DefReb,,N. Vučević,
+157,2,7:30.0,40,40,ORL,PHO,8,home,JS,,15,miss2,0,B. Jennings,
+158,2,7:28.0,40,40,ORL,PHO,2,home,OffReb,,,OffReb,,D. Marble,
+159,2,7:26.0,40,40,ORL,PHO,2,home,JS,,4,miss2,0,D. Marble,
+160,2,7:23.0,40,40,ORL,PHO,3,away,DefReb,,,DefReb,,M. Teletović,
+161,2,7:11.0,40,40,ORL,PHO,12,away,JS,,9,miss2,0,M. Teletović,
+162,2,7:09.0,40,40,ORL,PHO,2,home,DefReb,,,DefReb,,N. Vučević,
+163,2,6:59.0,40,40,ORL,PHO,10,home,BadPass,,,turnover,,A. Gordon,
+164,2,6:41.0,40,42,ORL,PHO,18,away,LU,assist,1,make2,2,J. Leuer,M. Teletović
+165,2,6:29.0,42,42,ORL,PHO,12,home,LU,assist,1,make2,2,N. Vučević,B. Jennings
+166,2,6:13.0,42,42,ORL,PHO,16,away,JS,block,5,miss2,0,A. Goodwin,D. Marble
+167,2,6:11.0,42,42,ORL,PHO,2,home,DefReb,,,DefReb,,D. Marble,
+168,2,6:08.0,42,42,ORL,PHO,3,home,JS,,27,miss3,0,B. Jennings,
+169,2,6:07.0,42,42,ORL,PHO,1,away,DefReb,,,DefReb,,J. Leuer,
+170,2,6:00.0,42,44,ORL,PHO,7,away,JS,assist,16,make2,2,J. Jenkins,R. Price
+171,2,5:42.0,42,44,ORL,PHO,18,home,JS,,20,miss2,0,D. Marble,
+172,2,5:41.0,42,44,ORL,PHO,1,away,DefReb,,,DefReb,,J. Jenkins,
+173,2,5:29.0,42,44,ORL,PHO,12,away,JS,,13,miss2,0,J. Leuer,
+174,2,5:28.0,42,44,ORL,PHO,1,home,DefReb,,,DefReb,,D. Marble,
+175,2,5:14.0,42,44,ORL,PHO,14,home,JS,,17,miss2,0,B. Jennings,
+176,2,5:12.0,42,44,ORL,PHO,2,away,DefReb,,,DefReb,,A. Goodwin,
+177,2,5:05.0,42,44,ORL,PHO,7,away,JS,,25,miss3,0,J. Leuer,
+178,2,5:03.0,42,44,ORL,PHO,2,home,DefReb,,,DefReb,,N. Vučević,
+179,2,4:59.0,42,44,ORL,PHO,4,home,Traveling,,,turnover,,D. Marble,
+180,2,4:59.0,42,44,ORL,PHO,0,away,Timeout,,,,,,
+181,2,4:59.0,42,44,ORL,PHO,0,home,Sub,,,,,E. Payton,C. Watson
+182,2,4:59.0,42,44,ORL,PHO,0,home,Sub,,,,,M. Hezonja,B. Jennings
+183,2,4:59.0,42,44,ORL,PHO,0,away,Sub,,,,,A. Len,J. Leuer
+184,2,4:46.0,42,44,ORL,PHO,13,away,JS,,22,miss3,0,R. Price,
+185,2,4:44.0,42,44,ORL,PHO,2,away,OffReb,,,OffReb,,A. Len,
+186,2,4:41.0,42,44,ORL,PHO,3,away,LU,,1,miss2,0,A. Goodwin,
+187,2,4:39.0,42,44,ORL,PHO,2,home,DefReb,,,DefReb,,D. Marble,
+188,2,4:24.0,44,44,ORL,PHO,15,home,DK,assist,0,make2,2,N. Vučević,M. Hezonja
+189,2,4:10.0,44,47,ORL,PHO,14,away,JS,assist,27,make3,3,M. Teletović,J. Jenkins
+190,2,3:50.0,46,47,ORL,PHO,20,home,JS,assist,19,make2,2,N. Vučević,E. Payton
+191,2,3:40.0,46,47,ORL,PHO,10,away,HS,,7,miss2,0,A. Len,
+192,2,3:39.0,46,47,ORL,PHO,1,home,DefReb,,,DefReb,,N. Vučević,
+193,2,3:30.0,46,47,ORL,PHO,9,home,JS,,5,miss2,0,N. Vučević,
+194,2,3:29.0,46,47,ORL,PHO,1,home,OffReb,,,OffReb,,D. Marble,
+195,2,3:24.0,46,47,ORL,PHO,5,home,JS,,23,miss3,0,A. Gordon,
+196,2,3:21.0,46,47,ORL,PHO,3,away,DefReb,,,DefReb,,J. Jenkins,
+197,2,3:20.0,46,47,ORL,PHO,1,away,LostBall,steal,,turnover,,J. Jenkins,D. Marble
+198,2,3:20.0,46,47,ORL,PHO,0,away,Sub,,,,,P. Tucker,J. Jenkins
+199,2,3:20.0,46,47,ORL,PHO,0,away,Sub,,,,,D. Booker,M. Teletović
+200,2,3:20.0,46,47,ORL,PHO,0,away,Sub,,,,,T. Chandler,A. Goodwin
+201,2,3:13.0,46,47,ORL,PHO,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,N. Vučević
+202,2,3:13.0,47,47,ORL,PHO,0,home,FreeThrow,,,make1,1,N. Vučević,
+203,2,3:13.0,47,47,ORL,PHO,0,home,Sub,,,,,D. Dedmon,A. Gordon
+204,2,3:13.0,47,47,ORL,PHO,0,home,FreeThrow,,,make1,0,N. Vučević,
+205,2,3:12.0,47,47,ORL,PHO,1,away,DefReb,,,DefReb,,T. Chandler,
+206,2,3:06.0,47,47,ORL,PHO,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Marble,D. Booker
+207,2,2:54.0,47,49,ORL,PHO,12,away,JS,,14,make2,2,A. Len,
+208,2,2:42.0,47,49,ORL,PHO,12,home,JS,,17,miss2,0,N. Vučević,
+209,2,2:41.0,47,49,ORL,PHO,1,away,DefReb,,,DefReb,,D. Booker,
+210,2,2:28.0,47,49,ORL,PHO,13,away,JS,,8,miss2,0,A. Len,
+211,2,2:26.0,47,49,ORL,PHO,2,away,OffReb,,,OffReb,,T. Chandler,
+212,2,2:26.0,47,51,ORL,PHO,0,away,LU,,1,make2,2,T. Chandler,
+213,2,2:26.0,47,51,ORL,PHO,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,T. Chandler
+214,2,2:26.0,47,51,ORL,PHO,0,away,Timeout,,,,,,
+215,2,2:26.0,47,51,ORL,PHO,0,away,FreeThrow,,,make1,0,T. Chandler,
+216,2,2:25.0,47,51,ORL,PHO,1,home,DefReb,,,DefReb,,D. Dedmon,
+217,2,2:12.0,49,51,ORL,PHO,13,home,JS,assist,18,make2,2,N. Vučević,E. Payton
+218,2,1:48.0,49,53,ORL,PHO,24,away,LU,assist,1,make2,2,T. Chandler,D. Booker
+219,2,1:25.0,49,53,ORL,PHO,23,home,JS,,19,miss2,0,E. Payton,
+220,2,1:24.0,49,53,ORL,PHO,1,away,DefReb,,,DefReb,,D. Booker,
+221,2,1:19.0,49,53,ORL,PHO,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Vučević,A. Len
+222,2,1:19.0,49,54,ORL,PHO,0,away,FreeThrow,,,make1,1,A. Len,
+223,2,1:19.0,49,55,ORL,PHO,0,away,FreeThrow,,,make1,1,A. Len,
+224,2,0:57.0,49,55,ORL,PHO,22,home,JS,,22,miss3,0,D. Marble,
+225,2,0:56.0,49,55,ORL,PHO,1,home,OffReb,,,OffReb,,D. Dedmon,
+226,2,0:55.0,49,55,ORL,PHO,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Len,D. Dedmon
+227,2,0:55.0,50,55,ORL,PHO,0,home,FreeThrow,,,make1,1,D. Dedmon,
+228,2,0:55.0,50,55,ORL,PHO,0,away,Sub,,,,,M. Teletović,T. Chandler
+229,2,0:55.0,50,55,ORL,PHO,0,home,FreeThrow,,,make1,0,D. Dedmon,
+230,2,0:54.0,50,55,ORL,PHO,1,away,DefReb,,,DefReb,,P. Tucker,
+231,2,0:37.0,50,58,ORL,PHO,17,away,JS,assist,24,make3,3,M. Teletović,D. Booker
+232,2,0:30.0,50,58,ORL,PHO,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Teletović,E. Payton
+233,2,0:30.0,50,58,ORL,PHO,0,home,FreeThrow,,,make1,0,E. Payton,
+234,2,0:30.0,50,58,ORL,PHO,0,home,OffReb,,,OffReb,,Team,
+235,2,0:30.0,50,58,ORL,PHO,0,home,FreeThrow,,,make1,0,E. Payton,
+236,2,0:29.0,50,58,ORL,PHO,1,away,DefReb,,,DefReb,,R. Price,
+237,2,0:09.0,50,58,ORL,PHO,20,home,KickBallViolation,,,KickBallViolation,,M. Hezonja,
+238,2,0:09.0,50,58,ORL,PHO,0,home,Sub,,,,,E. İlyasova,D. Dedmon
+239,2,0:01.0,50,58,ORL,PHO,8,away,LU,,1,miss2,0,P. Tucker,
+240,2,0:01.0,50,58,ORL,PHO,0,away,OffReb,,,OffReb,,A. Len,
+241,2,0:01.0,50,58,ORL,PHO,0,away,LU,,2,miss2,0,A. Len,
+242,2,0:00.0,50,58,ORL,PHO,1,away,OffReb,,,OffReb,,Team,
+243,3,11:36.0,50,58,ORL,PHO,24,home,JS,block,13,miss2,0,N. Vučević,A. Len
+244,3,11:34.0,50,58,ORL,PHO,2,away,DefReb,,,DefReb,,T. Chandler,
+245,3,11:22.0,50,58,ORL,PHO,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Hezonja,T. Chandler
+246,3,11:22.0,50,59,ORL,PHO,0,away,FreeThrow,,,make1,1,T. Chandler,
+247,3,11:22.0,50,60,ORL,PHO,0,away,FreeThrow,,,make1,1,T. Chandler,
+248,3,10:59.0,50,60,ORL,PHO,23,home,JS,,25,miss3,0,E. Payton,
+249,3,10:58.0,50,60,ORL,PHO,1,away,DefReb,,,DefReb,,T. Chandler,
+250,3,10:55.0,50,60,ORL,PHO,3,away,BadPass,steal,,turnover,,T. Chandler,E. Payton
+251,3,10:52.0,50,60,ORL,PHO,3,home,LU,,1,miss2,0,E. Payton,
+252,3,10:50.0,50,60,ORL,PHO,2,away,DefReb,,,DefReb,,T. Chandler,
+253,3,10:37.0,50,63,ORL,PHO,13,away,JS,assist,26,make3,3,P. Tucker,D. Booker
+254,3,10:25.0,50,63,ORL,PHO,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Price,E. Fournier
+255,3,10:19.0,50,63,ORL,PHO,6,home,Traveling,,,turnover,,E. Payton,
+256,3,10:09.0,50,65,ORL,PHO,10,away,JS,,17,make2,2,D. Booker,
+257,3,10:02.0,50,65,ORL,PHO,7,home,BadPass,steal,,turnover,,E. Payton,R. Price
+258,3,9:59.0,50,67,ORL,PHO,3,away,DK,,0,make2,2,R. Price,
+259,3,9:59.0,50,67,ORL,PHO,0,home,Timeout,,,,,,
+260,3,9:59.0,50,67,ORL,PHO,0,home,Sub,,,,,B. Jennings,E. Fournier
+261,3,9:59.0,50,67,ORL,PHO,0,home,Sub,,,,,C. Watson,A. Gordon
+262,3,9:59.0,50,67,ORL,PHO,0,home,Sub,,,,,D. Dedmon,N. Vučević
+263,3,9:59.0,50,67,ORL,PHO,0,home,Sub,,,,,E. İlyasova,M. Hezonja
+264,3,9:59.0,50,67,ORL,PHO,0,home,Sub,,,,,D. Marble,E. Payton
+265,3,9:43.0,50,67,ORL,PHO,16,home,LU,,1,miss2,0,D. Marble,
+266,3,9:41.0,50,67,ORL,PHO,2,away,DefReb,,,DefReb,,A. Len,
+267,3,9:27.0,50,67,ORL,PHO,14,away,LU,,1,miss2,0,T. Chandler,
+268,3,9:26.0,50,67,ORL,PHO,1,home,DefReb,,,DefReb,,E. İlyasova,
+269,3,9:19.0,50,67,ORL,PHO,7,home,JS,,18,miss2,0,B. Jennings,
+270,3,9:18.0,50,67,ORL,PHO,1,away,DefReb,,,DefReb,,T. Chandler,
+271,3,9:05.0,50,69,ORL,PHO,13,away,DK,assist,0,make2,2,A. Len,P. Tucker
+272,3,8:38.0,50,69,ORL,PHO,27,home,JS,,17,miss2,0,C. Watson,
+273,3,8:37.0,50,69,ORL,PHO,1,away,DefReb,,,DefReb,,Team,
+274,3,8:21.0,50,69,ORL,PHO,16,away,JS,,23,miss3,0,A. Len,
+275,3,8:20.0,50,69,ORL,PHO,1,home,DefReb,,,DefReb,,B. Jennings,
+276,3,8:13.0,50,69,ORL,PHO,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Booker,E. İlyasova
+277,3,8:05.0,50,69,ORL,PHO,8,home,JS,,25,miss3,0,E. İlyasova,
+278,3,8:04.0,50,69,ORL,PHO,1,away,DefReb,,,DefReb,,R. Price,
+279,3,7:46.0,50,69,ORL,PHO,18,away,JS,,16,miss2,0,D. Booker,
+280,3,7:44.0,50,69,ORL,PHO,2,home,DefReb,,,DefReb,,C. Watson,
+281,3,7:36.0,50,69,ORL,PHO,8,home,JS,,24,miss3,0,B. Jennings,
+282,3,7:34.0,50,69,ORL,PHO,2,away,DefReb,,,DefReb,,T. Chandler,
+283,3,7:20.0,50,69,ORL,PHO,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Watson,D. Booker
+284,3,7:18.0,50,69,ORL,PHO,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Marble,D. Booker
+285,3,7:10.0,50,69,ORL,PHO,8,away,LostBall,steal,,turnover,,D. Booker,E. İlyasova
+286,3,7:06.0,50,69,ORL,PHO,4,home,LU,block,1,miss2,0,C. Watson,R. Price
+287,3,7:03.0,50,69,ORL,PHO,3,home,OffReb,,,OffReb,,D. Dedmon,
+288,3,7:00.0,50,69,ORL,PHO,3,home,BadPass,steal,,turnover,,D. Dedmon,R. Price
+289,3,6:57.0,50,71,ORL,PHO,3,away,LU,,1,make2,2,R. Price,
+290,3,6:43.0,50,71,ORL,PHO,14,home,JS,,14,miss2,0,D. Dedmon,
+291,3,6:42.0,50,71,ORL,PHO,1,away,DefReb,,,DefReb,,A. Len,
+292,3,6:30.0,50,71,ORL,PHO,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,A. Len
+293,3,6:30.0,50,72,ORL,PHO,0,away,FreeThrow,,,make1,1,A. Len,
+294,3,6:30.0,50,72,ORL,PHO,0,home,Sub,,,,,A. Gordon,E. İlyasova
+295,3,6:30.0,50,72,ORL,PHO,0,home,Sub,,,,,N. Vučević,B. Jennings
+296,3,6:30.0,50,72,ORL,PHO,0,home,Sub,,,,,E. Payton,D. Dedmon
+297,3,6:30.0,50,72,ORL,PHO,0,away,FreeThrow,,,make1,0,A. Len,
+298,3,6:29.0,50,72,ORL,PHO,1,home,DefReb,,,DefReb,,D. Marble,
+299,3,6:18.0,50,72,ORL,PHO,11,home,JS,,26,miss3,0,D. Marble,
+300,3,6:16.0,50,72,ORL,PHO,2,away,DefReb,,,DefReb,,T. Chandler,
+301,3,6:05.0,50,72,ORL,PHO,11,away,JS,,7,miss2,0,P. Tucker,
+302,3,6:04.0,50,72,ORL,PHO,1,home,DefReb,,,DefReb,,N. Vučević,
+303,3,5:52.0,50,72,ORL,PHO,12,home,JS,,24,miss3,0,C. Watson,
+304,3,5:51.0,50,72,ORL,PHO,1,away,DefReb,,,DefReb,,T. Chandler,
+305,3,5:37.0,50,72,ORL,PHO,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,A. Len
+306,3,5:37.0,50,73,ORL,PHO,0,away,FreeThrow,,,make1,1,A. Len,
+307,3,5:37.0,50,73,ORL,PHO,0,home,Sub,,,,,M. Hezonja,D. Marble
+308,3,5:37.0,50,74,ORL,PHO,0,away,FreeThrow,,,make1,1,A. Len,
+309,3,5:24.0,52,74,ORL,PHO,13,home,LU,assist,1,make2,2,E. Payton,C. Watson
+310,3,5:06.0,52,74,ORL,PHO,18,away,JS,,25,miss3,0,R. Price,
+311,3,5:06.0,52,74,ORL,PHO,0,home,DefReb,,,DefReb,,Team,
+312,3,4:59.0,52,74,ORL,PHO,7,home,JS,,26,miss3,0,E. Payton,
+313,3,4:58.0,52,74,ORL,PHO,1,away,DefReb,,,DefReb,,A. Len,
+314,3,4:43.0,52,74,ORL,PHO,15,away,JS,,15,miss2,0,A. Len,
+315,3,4:42.0,52,74,ORL,PHO,1,home,DefReb,,,DefReb,,A. Gordon,
+316,3,4:29.0,52,74,ORL,PHO,13,home,JS,block,3,miss2,0,E. Payton,D. Booker
+317,3,4:28.0,52,74,ORL,PHO,1,away,DefReb,,,DefReb,,R. Price,
+318,3,4:26.0,52,74,ORL,PHO,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Hezonja,P. Tucker
+319,3,4:26.0,52,74,ORL,PHO,0,away,FreeThrow,,,make1,0,P. Tucker,
+320,3,4:26.0,52,74,ORL,PHO,0,away,OffReb,,,OffReb,,Team,
+321,3,4:26.0,52,74,ORL,PHO,0,away,Sub,,,,,M. Teletović,A. Len
+322,3,4:26.0,52,75,ORL,PHO,0,away,FreeThrow,,,make1,1,P. Tucker,
+323,3,4:09.0,54,75,ORL,PHO,17,home,HS,assist,4,make2,2,M. Hezonja,E. Payton
+324,3,3:49.0,54,75,ORL,PHO,20,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Watson,D. Booker
+325,3,3:49.0,54,76,ORL,PHO,0,away,FreeThrow,,,make1,1,D. Booker,
+326,3,3:49.0,54,77,ORL,PHO,0,away,FreeThrow,,,make1,1,D. Booker,
+327,3,3:34.0,54,77,ORL,PHO,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Tucker,N. Vučević
+328,3,3:27.0,56,77,ORL,PHO,7,home,JS,assist,22,make2,2,M. Hezonja,E. Payton
+329,3,3:10.0,56,77,ORL,PHO,17,away,JS,,17,miss2,0,D. Booker,
+330,3,3:08.0,56,77,ORL,PHO,2,home,DefReb,,,DefReb,,N. Vučević,
+331,3,2:53.0,56,77,ORL,PHO,15,home,LostBall,steal,,turnover,,M. Hezonja,T. Chandler
+332,3,2:50.0,56,77,ORL,PHO,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Watson,P. Tucker
+333,3,2:50.0,56,77,ORL,PHO,0,away,Timeout,,,,,,
+334,3,2:50.0,56,77,ORL,PHO,0,home,Sub,,,,,E. Fournier,A. Gordon
+335,3,2:50.0,56,78,ORL,PHO,0,away,FreeThrow,,,make1,1,P. Tucker,
+336,3,2:50.0,56,78,ORL,PHO,0,away,FreeThrow,,,make1,0,P. Tucker,
+337,3,2:49.0,56,78,ORL,PHO,1,home,DefReb,,,DefReb,,N. Vučević,
+338,3,2:39.0,59,78,ORL,PHO,10,home,JS,assist,22,make3,3,M. Hezonja,E. Payton
+339,3,2:21.0,59,78,ORL,PHO,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Fournier,M. Teletović
+340,3,2:21.0,59,79,ORL,PHO,0,away,FreeThrow,,,make1,1,M. Teletović,
+341,3,2:21.0,59,80,ORL,PHO,0,away,FreeThrow,,,make1,1,M. Teletović,
+342,3,2:05.0,59,80,ORL,PHO,16,home,BadPass,steal,,turnover,,N. Vučević,R. Price
+343,3,2:00.0,59,80,ORL,PHO,5,away,BadPass,steal,,turnover,,P. Tucker,E. Fournier
+344,3,1:55.0,62,80,ORL,PHO,5,home,JS,assist,27,make3,3,M. Hezonja,E. Payton
+345,3,1:33.0,62,80,ORL,PHO,22,away,JS,,24,miss3,0,M. Teletović,
+346,3,1:31.0,62,80,ORL,PHO,2,away,OffReb,,,OffReb,,P. Tucker,
+347,3,1:31.0,62,80,ORL,PHO,0,away,LU,,2,miss2,0,P. Tucker,
+348,3,1:29.0,62,80,ORL,PHO,2,home,DefReb,,,DefReb,,E. Fournier,
+349,3,1:27.0,62,80,ORL,PHO,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Chandler,E. Fournier
+350,3,1:27.0,63,80,ORL,PHO,0,home,FreeThrow,,,make1,1,E. Fournier,
+351,3,1:27.0,63,80,ORL,PHO,0,away,Sub,,,,,A. Len,T. Chandler
+352,3,1:27.0,63,80,ORL,PHO,0,away,Sub,,,,,J. Jenkins,R. Price
+353,3,1:27.0,63,80,ORL,PHO,0,home,Sub,,,,,J. Smith,N. Vučević
+354,3,1:27.0,64,80,ORL,PHO,0,home,FreeThrow,,,make1,1,E. Fournier,
+355,3,1:07.0,64,80,ORL,PHO,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,A. Len
+356,3,1:07.0,64,81,ORL,PHO,0,away,FreeThrow,,,make1,1,A. Len,
+357,3,1:07.0,64,82,ORL,PHO,0,away,FreeThrow,,,make1,1,A. Len,
+358,3,0:51.0,64,82,ORL,PHO,16,home,JS,,17,miss2,0,J. Smith,
+359,3,0:50.0,64,82,ORL,PHO,1,away,DefReb,,,DefReb,,M. Teletović,
+360,3,0:31.0,64,82,ORL,PHO,19,away,JS,,17,miss2,0,A. Len,
+361,3,0:30.0,64,82,ORL,PHO,1,home,DefReb,,,DefReb,,C. Watson,
+362,3,0:23.0,66,82,ORL,PHO,7,home,JS,assist,14,make2,2,J. Smith,C. Watson
+363,3,0:16.0,66,82,ORL,PHO,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Payton,D. Booker
+364,3,0:16.0,66,83,ORL,PHO,0,away,FreeThrow,,,make1,1,D. Booker,
+365,3,0:16.0,66,83,ORL,PHO,0,away,Sub,,,,,R. Price,M. Teletović
+366,3,0:16.0,66,84,ORL,PHO,0,away,FreeThrow,,,make1,1,D. Booker,
+367,3,0:01.0,66,84,ORL,PHO,15,home,JS,block,31,miss3,0,E. Fournier,A. Len
+368,3,0:00.0,66,84,ORL,PHO,1,home,OffReb,,,OffReb,,Team,
+369,4,11:46.0,66,84,ORL,PHO,14,away,BadPass,steal,,turnover,,M. Teletović,M. Hezonja
+370,4,11:41.0,68,84,ORL,PHO,5,home,LU,assist,1,make2,2,J. Smith,M. Hezonja
+371,4,11:23.0,68,84,ORL,PHO,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Fournier,M. Teletović
+372,4,11:08.0,68,84,ORL,PHO,15,away,ShotClockViolation,,,turnover,,Team,
+373,4,11:00.0,71,84,ORL,PHO,8,home,JS,assist,24,make3,3,E. Fournier,C. Watson
+374,4,10:58.0,71,84,ORL,PHO,2,away,Timeout,,,,,,
+375,4,10:58.0,71,84,ORL,PHO,0,away,Sub,,,,,A. Len,J. Leuer
+376,4,10:46.0,71,86,ORL,PHO,12,away,LU,assist,1,make2,2,A. Len,J. Jenkins
+377,4,10:26.0,71,86,ORL,PHO,20,home,JS,,16,miss2,0,M. Hezonja,
+378,4,10:25.0,71,86,ORL,PHO,1,away,DefReb,,,DefReb,,A. Len,
+379,4,10:03.0,71,86,ORL,PHO,22,away,JS,,15,miss2,0,M. Teletović,
+380,4,10:02.0,71,86,ORL,PHO,1,home,DefReb,,,DefReb,,E. Fournier,
+381,4,9:53.0,71,86,ORL,PHO,9,home,BadPass,steal,,turnover,,E. Fournier,A. Len
+382,4,9:33.0,71,86,ORL,PHO,20,away,OffensiveFoul,,,turnover,,A. Len,
+383,4,9:33.0,71,86,ORL,PHO,0,home,ChargeFoul,DrawnBy,,ChargeFoul,,A. Len,J. Smith
+384,4,9:26.0,71,86,ORL,PHO,7,home,JS,,17,miss2,0,C. Watson,
+385,4,9:24.0,71,86,ORL,PHO,2,away,DefReb,,,DefReb,,A. Goodwin,
+386,4,9:19.0,71,88,ORL,PHO,5,away,LU,,0,make2,2,A. Goodwin,
+387,4,9:03.0,71,88,ORL,PHO,16,home,LU,,1,miss2,0,E. Payton,
+388,4,9:01.0,71,88,ORL,PHO,2,away,DefReb,,,DefReb,,A. Len,
+389,4,8:56.0,71,88,ORL,PHO,5,away,LostBall,steal,,turnover,,R. Price,E. Payton
+390,4,8:52.0,73,88,ORL,PHO,4,home,DK,,0,make2,2,E. Payton,
+391,4,8:41.0,73,88,ORL,PHO,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Payton,R. Price
+392,4,8:34.0,73,88,ORL,PHO,7,away,OffensiveFoul,,,turnover,,A. Len,
+393,4,8:34.0,73,88,ORL,PHO,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Len,J. Smith
+394,4,8:25.0,73,88,ORL,PHO,9,home,JS,,19,miss2,0,J. Smith,
+395,4,8:24.0,73,88,ORL,PHO,1,away,DefReb,,,DefReb,,A. Goodwin,
+396,4,8:19.0,73,88,ORL,PHO,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Hezonja,A. Goodwin
+397,4,8:19.0,73,88,ORL,PHO,0,away,FreeThrow,,,make1,0,A. Goodwin,
+398,4,8:19.0,73,88,ORL,PHO,0,away,OffReb,,,OffReb,,Team,
+399,4,8:19.0,73,88,ORL,PHO,0,home,Sub,,,,,E. İlyasova,C. Watson
+400,4,8:19.0,73,89,ORL,PHO,0,away,FreeThrow,,,make1,1,A. Goodwin,
+401,4,8:03.0,73,89,ORL,PHO,16,home,LU,,1,miss2,0,E. Fournier,
+402,4,8:02.0,73,89,ORL,PHO,1,away,DefReb,,,DefReb,,A. Len,
+403,4,7:57.0,73,89,ORL,PHO,5,away,JS,,24,miss3,0,M. Teletović,
+404,4,7:54.0,73,89,ORL,PHO,3,away,OffReb,,,OffReb,,A. Len,
+405,4,7:54.0,73,89,ORL,PHO,0,away,DK,,0,miss2,0,A. Len,
+406,4,7:53.0,73,89,ORL,PHO,1,home,DefReb,,,DefReb,,Team,
+407,4,7:47.0,73,89,ORL,PHO,6,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Smith,A. Goodwin
+408,4,7:47.0,73,89,ORL,PHO,0,home,OffensiveFoul,,,turnover,,J. Smith,
+409,4,7:47.0,73,89,ORL,PHO,0,home,Sub,,,,,N. Vučević,J. Smith
+410,4,7:31.0,73,89,ORL,PHO,16,away,JS,,18,miss2,0,J. Jenkins,
+411,4,7:30.0,73,89,ORL,PHO,1,home,DefReb,,,DefReb,,E. İlyasova,
+412,4,7:23.0,73,89,ORL,PHO,7,home,JS,,19,miss2,0,N. Vučević,
+413,4,7:22.0,73,89,ORL,PHO,1,away,DefReb,,,DefReb,,M. Teletović,
+414,4,7:04.0,73,91,ORL,PHO,18,away,JS,,20,make2,2,R. Price,
+415,4,6:55.0,73,91,ORL,PHO,9,home,LU,,1,miss2,0,E. Payton,
+416,4,6:53.0,73,91,ORL,PHO,2,home,OffReb,,,OffReb,,E. Payton,
+417,4,6:53.0,75,91,ORL,PHO,0,home,LU,,0,make2,2,E. Payton,
+418,4,6:28.0,75,93,ORL,PHO,25,away,JS,assist,13,make2,2,R. Price,A. Goodwin
+419,4,6:14.0,75,93,ORL,PHO,14,home,JS,,25,miss3,0,E. İlyasova,
+420,4,6:14.0,75,93,ORL,PHO,0,away,DefReb,,,DefReb,,M. Teletović,
+421,4,5:56.0,75,93,ORL,PHO,18,away,JS,,14,miss2,0,A. Len,
+422,4,5:55.0,75,93,ORL,PHO,1,home,DefReb,,,DefReb,,E. İlyasova,
+423,4,5:44.0,75,93,ORL,PHO,11,home,HS,,9,miss2,0,N. Vučević,
+424,4,5:43.0,75,93,ORL,PHO,1,away,DefReb,,,DefReb,,A. Len,
+425,4,5:37.0,75,93,ORL,PHO,6,away,Timeout,,,,,,
+426,4,5:37.0,75,93,ORL,PHO,0,away,Sub,,,,,D. Booker,J. Jenkins
+427,4,5:37.0,75,93,ORL,PHO,0,away,LostBall,steal,,turnover,,A. Goodwin,N. Vučević
+428,4,5:24.0,75,93,ORL,PHO,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Goodwin,M. Hezonja
+429,4,5:09.0,75,93,ORL,PHO,15,home,LU,,1,miss2,0,N. Vučević,
+430,4,5:08.0,75,93,ORL,PHO,1,home,OffReb,,,OffReb,,E. İlyasova,
+431,4,5:08.0,75,93,ORL,PHO,0,home,LU,,0,miss2,0,E. İlyasova,
+432,4,5:06.0,75,93,ORL,PHO,2,home,OffReb,,,OffReb,,E. İlyasova,
+433,4,5:06.0,75,93,ORL,PHO,0,home,LU,,1,miss2,0,E. İlyasova,
+434,4,5:05.0,75,93,ORL,PHO,1,away,DefReb,,,DefReb,,M. Teletović,
+435,4,4:46.0,75,93,ORL,PHO,19,away,JS,,25,miss3,0,M. Teletović,
+436,4,4:45.0,75,93,ORL,PHO,1,home,DefReb,,,DefReb,,M. Hezonja,
+437,4,4:33.0,77,93,ORL,PHO,12,home,LU,assist,1,make2,2,E. İlyasova,E. Payton
+438,4,4:18.0,77,93,ORL,PHO,15,away,BadPass,steal,,turnover,,R. Price,E. Fournier
+439,4,4:16.0,77,93,ORL,PHO,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Price,E. Fournier
+440,4,4:16.0,77,93,ORL,PHO,0,home,FreeThrow,,,make1,0,E. Fournier,
+441,4,4:16.0,77,93,ORL,PHO,0,home,OffReb,,,OffReb,,Team,
+442,4,4:16.0,77,93,ORL,PHO,0,away,Sub,,,,,P. Tucker,A. Goodwin
+443,4,4:16.0,77,93,ORL,PHO,0,away,Sub,,,,,T. Chandler,M. Teletović
+444,4,4:16.0,77,93,ORL,PHO,0,home,FreeThrow,,,make1,0,E. Fournier,
+445,4,4:14.0,77,93,ORL,PHO,2,away,DefReb,,,DefReb,,P. Tucker,
+446,4,4:05.0,77,93,ORL,PHO,9,away,LU,,1,miss2,0,T. Chandler,
+447,4,4:03.0,77,93,ORL,PHO,2,home,DefReb,,,DefReb,,E. İlyasova,
+448,4,3:55.0,77,93,ORL,PHO,8,home,JS,,14,miss2,0,N. Vučević,
+449,4,3:52.0,77,93,ORL,PHO,3,away,DefReb,,,DefReb,,T. Chandler,
+450,4,3:37.0,77,93,ORL,PHO,15,away,JS,block,8,miss2,0,A. Len,N. Vučević
+451,4,3:34.0,77,93,ORL,PHO,3,home,DefReb,,,DefReb,,N. Vučević,
+452,4,3:30.0,79,93,ORL,PHO,4,home,LU,,2,make2,2,E. Fournier,
+453,4,3:15.0,79,93,ORL,PHO,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,T. Chandler
+454,4,3:15.0,79,93,ORL,PHO,0,away,FreeThrow,,,make1,0,T. Chandler,
+455,4,3:15.0,79,93,ORL,PHO,0,away,OffReb,,,OffReb,,Team,
+456,4,3:15.0,79,93,ORL,PHO,0,away,Sub,,,,,M. Teletović,T. Chandler
+457,4,3:15.0,79,93,ORL,PHO,0,away,FreeThrow,,,make1,0,T. Chandler,
+458,4,3:15.0,79,93,ORL,PHO,0,away,OffReb,,,OffReb,,Team,
+459,4,3:14.0,79,93,ORL,PHO,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Vučević,T. Chandler
+460,4,3:14.0,79,94,ORL,PHO,0,away,FreeThrow,,,make1,1,A. Len,
+461,4,3:14.0,79,95,ORL,PHO,0,away,FreeThrow,,,make1,1,A. Len,
+462,4,3:02.0,79,95,ORL,PHO,12,home,JS,,23,miss3,0,M. Hezonja,
+463,4,3:01.0,79,95,ORL,PHO,1,away,DefReb,,,DefReb,,Team,
+464,4,3:01.0,79,95,ORL,PHO,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Vučević,A. Len
+465,4,3:01.0,79,95,ORL,PHO,0,away,FreeThrow,,,make1,0,A. Len,
+466,4,3:01.0,79,95,ORL,PHO,0,away,OffReb,,,OffReb,,Team,
+467,4,3:01.0,79,95,ORL,PHO,0,home,Sub,,,,,B. Jennings,E. Fournier
+468,4,3:01.0,79,95,ORL,PHO,0,home,Sub,,,,,D. Dedmon,N. Vučević
+469,4,3:01.0,79,95,ORL,PHO,0,home,Sub,,,,,A. Nicholson,M. Hezonja
+470,4,3:01.0,79,95,ORL,PHO,0,home,Sub,,,,,S. Napier,E. Payton
+471,4,3:01.0,79,95,ORL,PHO,0,home,Sub,,,,,D. Marble,E. İlyasova
+472,4,3:01.0,79,95,ORL,PHO,0,away,FreeThrow,,,make1,0,A. Len,
+473,4,3:00.0,79,95,ORL,PHO,1,home,DefReb,,,DefReb,,D. Dedmon,
+474,4,2:40.0,79,95,ORL,PHO,20,home,JS,,15,miss2,0,B. Jennings,
+475,4,2:39.0,79,95,ORL,PHO,1,home,OffReb,,,OffReb,,B. Jennings,
+476,4,2:36.0,79,95,ORL,PHO,3,home,JS,,24,miss3,0,D. Marble,
+477,4,2:33.0,79,95,ORL,PHO,3,away,DefReb,,,DefReb,,A. Len,
+478,4,2:20.0,79,95,ORL,PHO,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,A. Len
+479,4,2:20.0,79,95,ORL,PHO,0,home,Timeout,,,,,,
+480,4,2:20.0,79,96,ORL,PHO,0,away,FreeThrow,,,make1,1,A. Len,
+481,4,2:20.0,79,97,ORL,PHO,0,away,FreeThrow,,,make1,1,A. Len,
+482,4,2:07.0,82,97,ORL,PHO,13,home,JS,assist,25,make3,3,S. Napier,D. Dedmon
+483,4,1:48.0,82,97,ORL,PHO,19,away,BadPass,steal,,turnover,,A. Len,D. Dedmon
+484,4,1:43.0,84,97,ORL,PHO,5,home,DK,assist,0,make2,2,D. Dedmon,B. Jennings
+485,4,1:24.0,84,100,ORL,PHO,19,away,JS,assist,26,make3,3,R. Price,D. Booker
+486,4,1:14.0,84,100,ORL,PHO,10,home,JS,,19,miss2,0,S. Napier,
+487,4,1:13.0,84,100,ORL,PHO,1,away,DefReb,,,DefReb,,P. Tucker,
+488,4,1:02.0,84,100,ORL,PHO,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Jennings,D. Booker
+489,4,1:02.0,84,101,ORL,PHO,0,away,FreeThrow,,,make1,1,D. Booker,
+490,4,1:02.0,84,101,ORL,PHO,0,away,Sub,,,,,J. Leuer,A. Len
+491,4,1:02.0,84,102,ORL,PHO,0,away,FreeThrow,,,make1,1,D. Booker,
+492,4,0:53.0,84,102,ORL,PHO,9,home,BadPass,,,turnover,,S. Napier,
+493,4,0:33.0,84,102,ORL,PHO,20,away,JS,,13,miss2,0,R. Price,
+494,4,0:31.0,84,102,ORL,PHO,2,home,DefReb,,,DefReb,,D. Marble,
+495,4,0:22.0,84,102,ORL,PHO,9,home,LostBall,steal,,turnover,,D. Marble,P. Tucker

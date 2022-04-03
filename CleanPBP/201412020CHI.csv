@@ -1,0 +1,551 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:47.0,0,0,CHI,DAL,13,away,JS,,15,miss2,0,D. Nowitzki,
+1,1,11:46.0,0,0,CHI,DAL,1,home,DefReb,,,DefReb,,P. Gasol,
+2,1,11:22.0,0,0,CHI,DAL,24,home,JS,,25,miss3,0,D. Rose,
+3,1,11:20.0,0,0,CHI,DAL,2,home,OffReb,,,OffReb,,P. Gasol,
+4,1,11:12.0,0,0,CHI,DAL,8,home,BadPass,,,turnover,,D. Rose,
+5,1,11:02.0,0,2,CHI,DAL,10,away,JS,,19,make2,2,C. Parsons,
+6,1,10:34.0,0,2,CHI,DAL,28,home,JS,,17,miss2,0,D. Rose,
+7,1,10:33.0,0,2,CHI,DAL,1,home,OffReb,,,OffReb,,Team,
+8,1,10:23.0,2,2,CHI,DAL,10,home,LU,,1,make2,2,J. Butler,
+9,1,10:14.0,2,2,CHI,DAL,9,away,JS,block,9,miss2,0,M. Ellis,J. Noah
+10,1,10:13.0,2,2,CHI,DAL,1,home,DefReb,,,DefReb,,M. Dunleavy,
+11,1,10:05.0,5,2,CHI,DAL,8,home,JS,assist,24,make3,3,M. Dunleavy,J. Butler
+12,1,9:44.0,5,5,CHI,DAL,21,away,JS,assist,24,make3,3,J. Nelson,M. Ellis
+13,1,9:20.0,5,5,CHI,DAL,24,home,JS,,3,miss2,0,J. Noah,
+14,1,9:20.0,5,5,CHI,DAL,0,home,OffReb,,,OffReb,,Team,
+15,1,9:10.0,5,5,CHI,DAL,10,home,JS,,14,miss2,0,J. Butler,
+16,1,9:09.0,5,5,CHI,DAL,1,home,OffReb,,,OffReb,,J. Noah,
+17,1,9:06.0,5,5,CHI,DAL,3,home,JS,,24,miss3,0,M. Dunleavy,
+18,1,9:04.0,5,5,CHI,DAL,2,away,DefReb,,,DefReb,,Team,
+19,1,8:51.0,5,7,CHI,DAL,13,away,JS,,4,make2,2,C. Parsons,
+20,1,8:44.0,5,7,CHI,DAL,7,home,JS,,4,miss2,0,D. Rose,
+21,1,8:43.0,5,7,CHI,DAL,1,home,OffReb,,,OffReb,,J. Noah,
+22,1,8:40.0,5,7,CHI,DAL,3,home,JS,,19,miss2,0,P. Gasol,
+23,1,8:40.0,5,7,CHI,DAL,0,home,OffReb,,,OffReb,,Team,
+24,1,8:40.0,5,7,CHI,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Nowitzki,J. Noah
+25,1,8:33.0,5,7,CHI,DAL,7,home,LostBall,steal,,turnover,,J. Butler,T. Chandler
+26,1,8:28.0,5,7,CHI,DAL,5,away,LU,,2,miss2,0,M. Ellis,
+27,1,8:26.0,5,7,CHI,DAL,2,away,OffReb,,,OffReb,,J. Nelson,
+28,1,8:26.0,5,7,CHI,DAL,0,away,LU,,2,miss2,0,M. Ellis,
+29,1,8:24.0,5,7,CHI,DAL,2,away,OffReb,,,OffReb,,J. Nelson,
+30,1,8:17.0,5,7,CHI,DAL,7,away,TI,,6,miss2,0,C. Parsons,
+31,1,8:16.0,5,7,CHI,DAL,1,home,DefReb,,,DefReb,,J. Noah,
+32,1,8:11.0,7,7,CHI,DAL,5,home,LU,assist,1,make2,2,P. Gasol,J. Noah
+33,1,7:55.0,7,7,CHI,DAL,16,away,JS,,11,miss2,0,D. Nowitzki,
+34,1,7:55.0,7,7,CHI,DAL,0,away,OffReb,,,OffReb,,Team,
+35,1,7:55.0,7,7,CHI,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Butler,D. Nowitzki
+36,1,7:50.0,7,7,CHI,DAL,5,away,JS,,18,miss2,0,M. Ellis,
+37,1,7:49.0,7,7,CHI,DAL,1,home,DefReb,,,DefReb,,D. Rose,
+38,1,7:38.0,9,7,CHI,DAL,11,home,JS,assist,20,make2,2,J. Noah,J. Butler
+39,1,7:26.0,9,10,CHI,DAL,12,away,JS,assist,24,make3,3,C. Parsons,J. Nelson
+40,1,7:10.0,9,10,CHI,DAL,16,home,JS,,25,miss3,0,J. Butler,
+41,1,7:09.0,9,10,CHI,DAL,1,away,DefReb,,,DefReb,,C. Parsons,
+42,1,7:02.0,9,13,CHI,DAL,7,away,JS,assist,24,make3,3,D. Nowitzki,C. Parsons
+43,1,6:46.0,9,13,CHI,DAL,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Chandler,D. Rose
+44,1,6:46.0,10,13,CHI,DAL,0,home,FreeThrow,,,make1,1,D. Rose,
+45,1,6:46.0,10,13,CHI,DAL,0,home,FreeThrow,,,make1,0,D. Rose,
+46,1,6:44.0,10,13,CHI,DAL,2,away,DefReb,,,DefReb,,C. Parsons,
+47,1,6:34.0,10,13,CHI,DAL,10,away,JS,block,17,miss2,0,D. Nowitzki,J. Noah
+48,1,6:32.0,10,13,CHI,DAL,2,home,DefReb,,,DefReb,,P. Gasol,
+49,1,6:28.0,12,13,CHI,DAL,4,home,JS,assist,3,make2,2,J. Butler,M. Dunleavy
+50,1,6:13.0,12,13,CHI,DAL,15,away,JS,,20,miss2,0,D. Nowitzki,
+51,1,6:11.0,12,13,CHI,DAL,2,away,OffReb,,,OffReb,,T. Chandler,
+52,1,6:00.0,12,15,CHI,DAL,11,away,JS,assist,17,make2,2,M. Ellis,C. Parsons
+53,1,5:48.0,12,15,CHI,DAL,12,home,LU,,3,miss2,0,M. Dunleavy,
+54,1,5:47.0,12,15,CHI,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+55,1,5:39.0,12,15,CHI,DAL,8,away,JS,,25,miss3,0,D. Nowitzki,
+56,1,5:37.0,12,15,CHI,DAL,2,home,DefReb,,,DefReb,,M. Dunleavy,
+57,1,5:35.0,12,15,CHI,DAL,2,away,KickBallViolation,,,KickBallViolation,,T. Chandler,
+58,1,5:35.0,12,15,CHI,DAL,0,home,Timeout,,,,,,
+59,1,5:35.0,12,15,CHI,DAL,0,away,Sub,,,,,B. Wright,D. Nowitzki
+60,1,5:25.0,12,15,CHI,DAL,10,home,LU,block,3,miss2,0,M. Dunleavy,B. Wright
+61,1,5:22.0,12,15,CHI,DAL,3,home,OffReb,,,OffReb,,P. Gasol,
+62,1,5:20.0,12,15,CHI,DAL,2,home,LostBall,steal,,turnover,,P. Gasol,J. Nelson
+63,1,5:14.0,12,15,CHI,DAL,6,away,BadPass,steal,,turnover,,C. Parsons,M. Dunleavy
+64,1,5:11.0,14,15,CHI,DAL,3,home,LU,assist,3,make2,2,D. Rose,M. Dunleavy
+65,1,4:56.0,14,15,CHI,DAL,15,away,BadPass,,,turnover,,T. Chandler,
+66,1,4:56.0,14,15,CHI,DAL,0,home,Sub,,,,,N. Mirotić,J. Noah
+67,1,4:56.0,14,15,CHI,DAL,0,home,Sub,,,,,K. Hinrich,D. Rose
+68,1,4:37.0,14,15,CHI,DAL,19,home,HS,,5,miss2,0,P. Gasol,
+69,1,4:36.0,14,15,CHI,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+70,1,4:25.0,14,15,CHI,DAL,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Dunleavy,C. Parsons
+71,1,4:18.0,14,15,CHI,DAL,7,away,JS,,24,miss3,0,J. Nelson,
+72,1,4:17.0,14,15,CHI,DAL,1,home,DefReb,,,DefReb,,N. Mirotić,
+73,1,4:03.0,14,15,CHI,DAL,14,home,LostBall,,,turnover,,P. Gasol,
+74,1,4:03.0,14,15,CHI,DAL,0,away,Sub,,,,,D. Harris,J. Nelson
+75,1,4:03.0,14,15,CHI,DAL,0,away,Sub,,,,,A. Aminu,T. Chandler
+76,1,3:47.0,14,15,CHI,DAL,16,away,JS,,21,miss2,0,A. Aminu,
+77,1,3:46.0,14,15,CHI,DAL,1,home,DefReb,,,DefReb,,N. Mirotić,
+78,1,3:32.0,14,15,CHI,DAL,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,N. Mirotić
+79,1,3:32.0,15,15,CHI,DAL,0,home,FreeThrow,,,make1,1,N. Mirotić,
+80,1,3:32.0,16,15,CHI,DAL,0,home,FreeThrow,,,make1,1,N. Mirotić,
+81,1,3:21.0,16,17,CHI,DAL,11,away,JS,,14,make2,2,M. Ellis,
+82,1,3:07.0,16,17,CHI,DAL,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,N. Mirotić
+83,1,3:07.0,16,17,CHI,DAL,0,home,FreeThrow,,,make1,0,N. Mirotić,
+84,1,3:07.0,16,17,CHI,DAL,0,home,OffReb,,,OffReb,,Team,
+85,1,3:07.0,16,17,CHI,DAL,0,away,Timeout,,,,,,
+86,1,3:07.0,17,17,CHI,DAL,0,home,FreeThrow,,,make1,1,N. Mirotić,
+87,1,2:54.0,17,17,CHI,DAL,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Dunleavy,C. Parsons
+88,1,2:54.0,17,18,CHI,DAL,0,away,FreeThrow,,,make1,1,C. Parsons,
+89,1,2:54.0,17,18,CHI,DAL,0,away,FreeThrow,,,make1,0,C. Parsons,
+90,1,2:52.0,17,18,CHI,DAL,2,home,DefReb,,,DefReb,,J. Butler,
+91,1,2:37.0,20,18,CHI,DAL,15,home,JS,assist,25,make3,3,M. Dunleavy,J. Butler
+92,1,2:18.0,20,18,CHI,DAL,19,away,JS,block,6,miss2,0,C. Parsons,N. Mirotić
+93,1,2:18.0,20,18,CHI,DAL,0,home,DefReb,,,DefReb,,Team,
+94,1,2:13.0,20,18,CHI,DAL,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ellis,J. Butler
+95,1,2:13.0,20,18,CHI,DAL,0,home,FreeThrow,,,make1,0,J. Butler,
+96,1,2:13.0,20,18,CHI,DAL,0,home,OffReb,,,OffReb,,Team,
+97,1,2:13.0,20,18,CHI,DAL,0,away,Sub,,,,,J. Barea,M. Ellis
+98,1,2:13.0,20,18,CHI,DAL,0,away,Sub,,,,,D. Nowitzki,C. Parsons
+99,1,2:13.0,20,18,CHI,DAL,0,home,Sub,,,,,J. Noah,P. Gasol
+100,1,2:13.0,20,18,CHI,DAL,0,home,FreeThrow,,,make1,0,J. Butler,
+101,1,2:12.0,20,18,CHI,DAL,1,away,DefReb,,,DefReb,,B. Wright,
+102,1,1:51.0,20,18,CHI,DAL,21,away,LU,,3,miss2,0,J. Barea,
+103,1,1:51.0,20,18,CHI,DAL,0,away,OffReb,,,OffReb,,B. Wright,
+104,1,1:51.0,20,18,CHI,DAL,0,away,LU,,1,miss2,0,B. Wright,
+105,1,1:51.0,20,18,CHI,DAL,0,away,OffReb,,,OffReb,,Team,
+106,1,1:51.0,20,18,CHI,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Noah,B. Wright
+107,1,1:51.0,20,18,CHI,DAL,0,home,Sub,,,,,A. Brooks,J. Butler
+108,1,1:43.0,20,18,CHI,DAL,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Mirotić,D. Nowitzki
+109,1,1:43.0,20,19,CHI,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+110,1,1:43.0,20,20,CHI,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+111,1,1:34.0,20,20,CHI,DAL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,A. Brooks
+112,1,1:34.0,21,20,CHI,DAL,0,home,FreeThrow,,,make1,1,A. Brooks,
+113,1,1:34.0,21,20,CHI,DAL,0,away,Sub,,,,,R. Jefferson,D. Nowitzki
+114,1,1:34.0,22,20,CHI,DAL,0,home,FreeThrow,,,make1,1,A. Brooks,
+115,1,1:25.0,22,20,CHI,DAL,9,away,JS,,22,miss2,0,D. Harris,
+116,1,1:24.0,22,20,CHI,DAL,1,home,DefReb,,,DefReb,,N. Mirotić,
+117,1,1:12.0,24,20,CHI,DAL,12,home,LU,assist,2,make2,2,N. Mirotić,A. Brooks
+118,1,1:01.0,24,20,CHI,DAL,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Noah,J. Barea
+119,1,1:01.0,24,21,CHI,DAL,0,away,FreeThrow,,,make1,1,J. Barea,
+120,1,1:01.0,24,21,CHI,DAL,0,home,Sub,,,,,P. Gasol,J. Noah
+121,1,1:01.0,24,21,CHI,DAL,0,away,Sub,,,,,T. Chandler,A. Aminu
+122,1,1:01.0,24,22,CHI,DAL,0,away,FreeThrow,,,make1,1,J. Barea,
+123,1,0:40.0,24,22,CHI,DAL,21,home,JS,,4,miss2,0,P. Gasol,
+124,1,0:38.0,24,22,CHI,DAL,2,away,DefReb,,,DefReb,,B. Wright,
+125,1,0:33.0,24,25,CHI,DAL,5,away,JS,,25,make3,3,D. Harris,
+126,1,0:17.0,24,25,CHI,DAL,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jefferson,N. Mirotić
+127,1,0:17.0,25,25,CHI,DAL,0,home,FreeThrow,,,make1,1,N. Mirotić,
+128,1,0:17.0,25,25,CHI,DAL,0,away,Sub,,,,,C. Parsons,T. Chandler
+129,1,0:17.0,26,25,CHI,DAL,0,home,FreeThrow,,,make1,1,N. Mirotić,
+130,1,0:00.0,26,25,CHI,DAL,17,away,JS,,19,miss2,0,D. Harris,
+131,1,0:00.0,26,25,CHI,DAL,0,away,OffReb,,,OffReb,,Team,
+132,2,11:40.0,26,25,CHI,DAL,20,home,BadPass,steal,,turnover,,A. Brooks,B. Wright
+133,2,11:40.0,26,25,CHI,DAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Noah,J. Barea
+134,2,11:40.0,26,25,CHI,DAL,0,home,Sub,,,,,P. Gasol,J. Noah
+135,2,11:30.0,26,25,CHI,DAL,10,away,BadPass,,,turnover,,J. Barea,
+136,2,11:12.0,28,25,CHI,DAL,18,home,HS,assist,7,make2,2,P. Gasol,A. Brooks
+137,2,11:00.0,28,28,CHI,DAL,12,away,JS,assist,25,make3,3,D. Harris,R. Jefferson
+138,2,10:39.0,30,28,CHI,DAL,21,home,JS,assist,11,make2,2,P. Gasol,N. Mirotić
+139,2,10:32.0,30,28,CHI,DAL,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Snell,B. Wright
+140,2,10:32.0,30,29,CHI,DAL,0,away,FreeThrow,,,make1,1,B. Wright,
+141,2,10:32.0,30,30,CHI,DAL,0,away,FreeThrow,,,make1,1,B. Wright,
+142,2,10:18.0,30,30,CHI,DAL,14,home,OffensiveFoul,,,turnover,,N. Mirotić,
+143,2,10:18.0,30,30,CHI,DAL,0,away,ChargeFoul,DrawnBy,,ChargeFoul,,N. Mirotić,D. Harris
+144,2,10:09.0,30,32,CHI,DAL,9,away,LU,,1,make2,2,J. Barea,
+145,2,10:00.0,30,32,CHI,DAL,9,home,LU,,2,miss2,0,A. Brooks,
+146,2,9:59.0,30,32,CHI,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+147,2,9:37.0,30,34,CHI,DAL,22,away,JS,assist,12,make2,2,J. Barea,D. Nowitzki
+148,2,9:28.0,30,34,CHI,DAL,9,home,Timeout,,,,,,
+149,2,9:28.0,30,34,CHI,DAL,0,home,Sub,,,,,J. Butler,T. Snell
+150,2,9:24.0,30,34,CHI,DAL,4,home,BadPass,,,turnover,,A. Brooks,
+151,2,9:08.0,30,36,CHI,DAL,16,away,JS,assist,20,make2,2,D. Nowitzki,D. Harris
+152,2,9:00.0,30,36,CHI,DAL,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Wright,P. Gasol
+153,2,8:50.0,30,36,CHI,DAL,10,home,JS,,13,miss2,0,P. Gasol,
+154,2,8:49.0,30,36,CHI,DAL,1,away,DefReb,,,DefReb,,R. Jefferson,
+155,2,8:41.0,30,39,CHI,DAL,8,away,JS,assist,23,make3,3,D. Harris,D. Nowitzki
+156,2,8:21.0,30,39,CHI,DAL,20,home,JS,,25,miss3,0,N. Mirotić,
+157,2,8:19.0,30,39,CHI,DAL,2,away,DefReb,,,DefReb,,D. Harris,
+158,2,8:08.0,30,42,CHI,DAL,11,away,JS,assist,24,make3,3,D. Harris,R. Jefferson
+159,2,7:46.0,32,42,CHI,DAL,22,home,LU,assist,2,make2,2,J. Butler,K. Hinrich
+160,2,7:36.0,32,44,CHI,DAL,10,away,LU,,2,make2,2,J. Barea,
+161,2,7:11.0,32,44,CHI,DAL,25,home,LU,,2,miss2,0,N. Mirotić,
+162,2,7:10.0,32,44,CHI,DAL,1,home,OffReb,,,OffReb,,Team,
+163,2,7:10.0,32,44,CHI,DAL,0,home,Sub,,,,,D. Rose,A. Brooks
+164,2,7:10.0,32,44,CHI,DAL,0,away,Sub,,,,,C. Parsons,D. Nowitzki
+165,2,7:10.0,32,44,CHI,DAL,0,away,Sub,,,,,M. Ellis,B. Wright
+166,2,7:10.0,32,44,CHI,DAL,0,away,Sub,,,,,T. Chandler,J. Barea
+167,2,7:06.0,32,44,CHI,DAL,4,home,JS,,17,miss2,0,J. Butler,
+168,2,7:04.0,32,44,CHI,DAL,2,away,DefReb,,,DefReb,,D. Harris,
+169,2,6:58.0,32,44,CHI,DAL,6,away,LU,,2,miss2,0,T. Chandler,
+170,2,6:57.0,32,44,CHI,DAL,1,home,DefReb,,,DefReb,,D. Rose,
+171,2,6:55.0,32,44,CHI,DAL,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,K. Hinrich
+172,2,6:55.0,33,44,CHI,DAL,0,home,FreeThrow,,,make1,1,K. Hinrich,
+173,2,6:55.0,34,44,CHI,DAL,0,home,FreeThrow,,,make1,1,K. Hinrich,
+174,2,6:41.0,34,44,CHI,DAL,14,away,JS,,19,miss2,0,M. Ellis,
+175,2,6:40.0,34,44,CHI,DAL,1,home,DefReb,,,DefReb,,P. Gasol,
+176,2,6:33.0,34,44,CHI,DAL,7,home,LU,,1,miss2,0,D. Rose,
+177,2,6:32.0,34,44,CHI,DAL,1,home,OffReb,,,OffReb,,P. Gasol,
+178,2,6:32.0,34,44,CHI,DAL,0,home,DK,,0,miss2,0,P. Gasol,
+179,2,6:27.0,34,44,CHI,DAL,5,home,OffReb,,,OffReb,,N. Mirotić,
+180,2,6:27.0,36,44,CHI,DAL,0,home,LU,assist,1,make2,2,D. Rose,N. Mirotić
+181,2,6:27.0,36,44,CHI,DAL,0,away,Timeout,,,,,,
+182,2,6:11.0,36,44,CHI,DAL,16,away,LU,,2,miss2,0,C. Parsons,
+183,2,6:10.0,36,44,CHI,DAL,1,home,DefReb,,,DefReb,,P. Gasol,
+184,2,6:00.0,36,44,CHI,DAL,10,home,JS,,25,miss3,0,J. Butler,
+185,2,5:59.0,36,44,CHI,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+186,2,5:50.0,36,44,CHI,DAL,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Gasol,T. Chandler
+187,2,5:50.0,36,44,CHI,DAL,0,away,FreeThrow,,,make1,0,T. Chandler,
+188,2,5:50.0,36,44,CHI,DAL,0,away,OffReb,,,OffReb,,Team,
+189,2,5:50.0,36,44,CHI,DAL,0,home,Sub,,,,,M. Dunleavy,K. Hinrich
+190,2,5:50.0,36,44,CHI,DAL,0,away,Sub,,,,,J. Nelson,D. Harris
+191,2,5:50.0,36,45,CHI,DAL,0,away,FreeThrow,,,make1,1,T. Chandler,
+192,2,5:37.0,36,45,CHI,DAL,13,home,LU,block,1,miss2,0,J. Butler,T. Chandler
+193,2,5:35.0,36,45,CHI,DAL,2,home,OffReb,,,OffReb,,J. Butler,
+194,2,5:24.0,36,45,CHI,DAL,11,home,HS,,7,miss2,0,P. Gasol,
+195,2,5:23.0,36,45,CHI,DAL,1,home,OffReb,,,OffReb,,Team,
+196,2,5:20.0,36,45,CHI,DAL,3,home,JS,,25,miss3,0,M. Dunleavy,
+197,2,5:19.0,36,45,CHI,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+198,2,5:09.0,36,47,CHI,DAL,10,away,LU,assist,2,make2,2,M. Ellis,T. Chandler
+199,2,4:53.0,36,47,CHI,DAL,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,N. Mirotić
+200,2,4:53.0,37,47,CHI,DAL,0,home,FreeThrow,,,make1,1,N. Mirotić,
+201,2,4:53.0,38,47,CHI,DAL,0,home,FreeThrow,,,make1,1,N. Mirotić,
+202,2,4:44.0,38,47,CHI,DAL,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Rose,J. Nelson
+203,2,4:29.0,38,47,CHI,DAL,15,away,LU,block,2,miss2,0,C. Parsons,M. Dunleavy
+204,2,4:27.0,38,47,CHI,DAL,2,away,OffReb,,,OffReb,,C. Parsons,
+205,2,4:27.0,38,49,CHI,DAL,0,away,LU,,1,make2,2,C. Parsons,
+206,2,4:11.0,38,49,CHI,DAL,16,home,JS,,24,miss3,0,D. Rose,
+207,2,4:09.0,38,49,CHI,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+208,2,4:03.0,38,51,CHI,DAL,6,away,LU,assist,1,make2,2,M. Ellis,T. Chandler
+209,2,3:58.0,38,51,CHI,DAL,5,home,Timeout,,,,,,
+210,2,3:58.0,38,51,CHI,DAL,0,home,Sub,,,,,K. Hinrich,N. Mirotić
+211,2,3:45.0,40,51,CHI,DAL,13,home,JS,assist,19,make2,2,J. Butler,P. Gasol
+212,2,3:33.0,40,51,CHI,DAL,12,away,JS,,6,miss2,0,M. Ellis,
+213,2,3:32.0,40,51,CHI,DAL,1,away,OffReb,,,OffReb,,T. Chandler,
+214,2,3:32.0,40,51,CHI,DAL,0,away,OffGoaltending,,,turnover,,T. Chandler,
+215,2,3:17.0,40,51,CHI,DAL,15,home,JS,block,5,miss2,0,D. Rose,J. Nelson
+216,2,3:15.0,40,51,CHI,DAL,2,away,DefReb,,,DefReb,,J. Nelson,
+217,2,3:03.0,40,51,CHI,DAL,12,away,JS,,24,miss3,0,R. Jefferson,
+218,2,3:02.0,40,51,CHI,DAL,1,away,OffReb,,,OffReb,,T. Chandler,
+219,2,3:02.0,40,51,CHI,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Dunleavy,T. Chandler
+220,2,3:02.0,40,51,CHI,DAL,0,away,FreeThrow,,,make1,0,T. Chandler,
+221,2,3:02.0,40,51,CHI,DAL,0,away,OffReb,,,OffReb,,Team,
+222,2,3:02.0,40,51,CHI,DAL,0,away,Sub,,,,,D. Nowitzki,R. Jefferson
+223,2,3:02.0,40,51,CHI,DAL,0,home,Sub,,,,,T. Snell,M. Dunleavy
+224,2,3:02.0,40,52,CHI,DAL,0,away,FreeThrow,,,make1,1,T. Chandler,
+225,2,2:51.0,42,52,CHI,DAL,11,home,LU,assist,2,make2,2,P. Gasol,D. Rose
+226,2,2:36.0,42,52,CHI,DAL,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Snell,C. Parsons
+227,2,2:36.0,42,53,CHI,DAL,0,away,FreeThrow,,,make1,1,C. Parsons,
+228,2,2:36.0,42,54,CHI,DAL,0,away,FreeThrow,,,make1,1,C. Parsons,
+229,2,2:24.0,42,54,CHI,DAL,12,home,BadPass,steal,,turnover,,D. Rose,M. Ellis
+230,2,2:14.0,42,54,CHI,DAL,10,away,JS,,25,miss3,0,J. Nelson,
+231,2,2:14.0,42,54,CHI,DAL,0,away,OffReb,,,OffReb,,T. Chandler,
+232,2,2:14.0,42,54,CHI,DAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Snell,T. Chandler
+233,2,2:14.0,42,54,CHI,DAL,0,away,FreeThrow,,,make1,0,T. Chandler,
+234,2,2:14.0,42,54,CHI,DAL,0,away,OffReb,,,OffReb,,Team,
+235,2,2:14.0,42,55,CHI,DAL,0,away,FreeThrow,,,make1,1,T. Chandler,
+236,2,1:56.0,44,55,CHI,DAL,18,home,JS,assist,11,make2,2,J. Butler,D. Rose
+237,2,1:56.0,44,55,CHI,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nelson,J. Butler
+238,2,1:56.0,44,55,CHI,DAL,0,home,FreeThrow,,,make1,0,J. Butler,
+239,2,1:55.0,44,55,CHI,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+240,2,1:37.0,44,55,CHI,DAL,18,away,JS,,12,miss2,0,D. Nowitzki,
+241,2,1:36.0,44,55,CHI,DAL,1,home,DefReb,,,DefReb,,P. Gasol,
+242,2,1:29.0,44,55,CHI,DAL,7,home,OutOfBounds,,,turnover,,D. Rose,
+243,2,1:14.0,44,55,CHI,DAL,15,away,JS,,15,miss2,0,D. Nowitzki,
+244,2,1:14.0,44,55,CHI,DAL,0,home,DefReb,,,DefReb,,Team,
+245,2,1:14.0,44,55,CHI,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Chandler,P. Gasol
+246,2,1:14.0,45,55,CHI,DAL,0,home,FreeThrow,,,make1,1,P. Gasol,
+247,2,1:14.0,46,55,CHI,DAL,0,home,FreeThrow,,,make1,1,P. Gasol,
+248,2,1:00.0,46,57,CHI,DAL,14,away,JS,,16,make2,2,M. Ellis,
+249,2,0:43.0,46,57,CHI,DAL,17,home,JS,,6,miss2,0,J. Butler,
+250,2,0:41.0,46,57,CHI,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+251,2,0:36.0,46,57,CHI,DAL,5,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Butler,C. Parsons
+252,2,0:36.0,46,58,CHI,DAL,0,away,FreeThrow,,,make1,1,C. Parsons,
+253,2,0:36.0,46,58,CHI,DAL,0,away,Sub,,,,,R. Jefferson,D. Nowitzki
+254,2,0:36.0,46,58,CHI,DAL,0,away,Sub,,,,,B. Wright,T. Chandler
+255,2,0:36.0,46,59,CHI,DAL,0,away,FreeThrow,,,make1,1,C. Parsons,
+256,2,0:28.0,46,59,CHI,DAL,8,home,LU,block,3,miss2,0,P. Gasol,B. Wright
+257,2,0:28.0,46,59,CHI,DAL,0,home,OffReb,,,OffReb,,D. Rose,
+258,2,0:28.0,46,59,CHI,DAL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jefferson,D. Rose
+259,2,0:28.0,46,59,CHI,DAL,0,home,FreeThrow,,,make1,0,D. Rose,
+260,2,0:28.0,46,59,CHI,DAL,0,home,OffReb,,,OffReb,,Team,
+261,2,0:28.0,46,59,CHI,DAL,0,away,Sub,,,,,T. Chandler,B. Wright
+262,2,0:28.0,46,59,CHI,DAL,0,away,Sub,,,,,D. Harris,R. Jefferson
+263,2,0:28.0,47,59,CHI,DAL,0,home,FreeThrow,,,make1,1,D. Rose,
+264,2,0:04.0,47,59,CHI,DAL,24,away,JS,,25,miss3,0,C. Parsons,
+265,2,0:03.0,47,59,CHI,DAL,1,home,DefReb,,,DefReb,,D. Rose,
+266,2,0:00.0,47,59,CHI,DAL,3,home,JS,,27,miss3,0,D. Rose,
+267,2,0:00.0,47,59,CHI,DAL,0,home,OffReb,,,OffReb,,Team,
+268,3,11:36.0,49,59,CHI,DAL,24,home,JS,assist,20,make2,2,M. Dunleavy,J. Butler
+269,3,11:18.0,49,59,CHI,DAL,18,away,OutOfBounds,,,turnover,,J. Nelson,
+270,3,10:56.0,51,59,CHI,DAL,22,home,JS,assist,9,make2,2,P. Gasol,D. Rose
+271,3,10:45.0,51,59,CHI,DAL,11,away,JS,,9,miss2,0,J. Nelson,
+272,3,10:44.0,51,59,CHI,DAL,1,home,DefReb,,,DefReb,,P. Gasol,
+273,3,10:40.0,51,59,CHI,DAL,4,home,LU,,2,miss2,0,J. Butler,
+274,3,10:38.0,51,59,CHI,DAL,2,away,DefReb,,,DefReb,,J. Nelson,
+275,3,10:30.0,51,59,CHI,DAL,8,away,LostBall,steal,,turnover,,M. Ellis,J. Noah
+276,3,10:26.0,53,59,CHI,DAL,4,home,LU,assist,2,make2,2,J. Butler,J. Noah
+277,3,10:25.0,53,59,CHI,DAL,1,away,Timeout,,,,,,
+278,3,10:03.0,53,59,CHI,DAL,22,away,JS,,27,miss3,0,M. Ellis,
+279,3,10:02.0,53,59,CHI,DAL,1,home,DefReb,,,DefReb,,J. Butler,
+280,3,9:55.0,56,59,CHI,DAL,7,home,JS,assist,24,make3,3,D. Rose,J. Butler
+281,3,9:33.0,56,61,CHI,DAL,22,away,LU,assist,3,make2,2,M. Ellis,D. Nowitzki
+282,3,9:13.0,56,61,CHI,DAL,20,home,BadPass,,,turnover,,J. Noah,
+283,3,9:00.0,56,61,CHI,DAL,13,away,JS,,6,miss2,0,M. Ellis,
+284,3,8:58.0,56,61,CHI,DAL,2,home,DefReb,,,DefReb,,M. Dunleavy,
+285,3,8:50.0,56,61,CHI,DAL,8,home,JS,,25,miss3,0,M. Dunleavy,
+286,3,8:49.0,56,61,CHI,DAL,1,home,OffReb,,,OffReb,,J. Noah,
+287,3,8:46.0,56,61,CHI,DAL,3,home,JS,,25,miss3,0,M. Dunleavy,
+288,3,8:45.0,56,61,CHI,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+289,3,8:27.0,56,61,CHI,DAL,18,away,JS,,17,miss2,0,D. Nowitzki,
+290,3,8:25.0,56,61,CHI,DAL,2,home,DefReb,,,DefReb,,P. Gasol,
+291,3,8:19.0,59,61,CHI,DAL,6,home,JS,,24,make3,3,D. Rose,
+292,3,8:01.0,59,61,CHI,DAL,18,away,BadPass,steal,,turnover,,J. Nelson,J. Noah
+293,3,7:57.0,61,61,CHI,DAL,4,home,LU,assist,1,make2,2,M. Dunleavy,J. Noah
+294,3,7:56.0,61,61,CHI,DAL,1,away,Timeout,,,,,,
+295,3,7:44.0,61,61,CHI,DAL,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Dunleavy,M. Ellis
+296,3,7:44.0,61,62,CHI,DAL,0,away,FreeThrow,,,make1,1,M. Ellis,
+297,3,7:44.0,61,63,CHI,DAL,0,away,FreeThrow,,,make1,1,M. Ellis,
+298,3,7:26.0,63,63,CHI,DAL,18,home,LU,,3,make2,2,J. Butler,
+299,3,7:19.0,63,65,CHI,DAL,7,away,LU,,0,make2,2,M. Ellis,
+300,3,7:05.0,65,65,CHI,DAL,14,home,JS,assist,8,make2,2,M. Dunleavy,D. Rose
+301,3,6:41.0,65,68,CHI,DAL,24,away,JS,assist,24,make3,3,C. Parsons,J. Nelson
+302,3,6:30.0,65,68,CHI,DAL,11,home,BadPass,steal,,turnover,,D. Rose,C. Parsons
+303,3,6:27.0,65,70,CHI,DAL,3,away,DK,,0,make2,2,C. Parsons,
+304,3,6:01.0,65,70,CHI,DAL,26,home,JS,,25,miss3,0,D. Rose,
+305,3,6:00.0,65,70,CHI,DAL,1,home,OffReb,,,OffReb,,J. Noah,
+306,3,5:58.0,65,70,CHI,DAL,2,home,JS,,12,miss2,0,P. Gasol,
+307,3,5:57.0,65,70,CHI,DAL,1,away,DefReb,,,DefReb,,Team,
+308,3,5:46.0,65,72,CHI,DAL,11,away,JS,assist,19,make2,2,M. Ellis,J. Nelson
+309,3,5:27.0,65,72,CHI,DAL,19,home,BadPass,,,turnover,,J. Noah,
+310,3,5:17.0,65,74,CHI,DAL,10,away,DK,assist,0,make2,2,T. Chandler,D. Nowitzki
+311,3,5:17.0,65,74,CHI,DAL,0,home,Timeout,,,,,,
+312,3,5:17.0,65,74,CHI,DAL,0,away,Sub,,,,,B. Wright,D. Nowitzki
+313,3,5:00.0,65,74,CHI,DAL,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ellis,P. Gasol
+314,3,5:00.0,65,74,CHI,DAL,0,home,Sub,,,,,N. Mirotić,J. Noah
+315,3,5:00.0,65,74,CHI,DAL,0,home,Sub,,,,,K. Hinrich,D. Rose
+316,3,4:47.0,65,74,CHI,DAL,13,home,JS,,26,miss3,0,J. Butler,
+317,3,4:45.0,65,74,CHI,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+318,3,4:32.0,65,76,CHI,DAL,13,away,JS,assist,19,make2,2,M. Ellis,T. Chandler
+319,3,4:18.0,65,76,CHI,DAL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Chandler,P. Gasol
+320,3,4:07.0,67,76,CHI,DAL,11,home,JS,,4,make2,2,P. Gasol,
+321,3,4:07.0,67,76,CHI,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Chandler,P. Gasol
+322,3,4:07.0,67,76,CHI,DAL,0,away,Sub,,,,,A. Aminu,T. Chandler
+323,3,4:07.0,68,76,CHI,DAL,0,home,FreeThrow,,,make1,1,P. Gasol,
+324,3,3:48.0,68,76,CHI,DAL,19,away,BadPass,steal,,turnover,,A. Aminu,P. Gasol
+325,3,3:38.0,68,76,CHI,DAL,10,home,JS,block,3,miss2,0,K. Hinrich,B. Wright
+326,3,3:36.0,68,76,CHI,DAL,2,away,DefReb,,,DefReb,,C. Parsons,
+327,3,3:22.0,68,76,CHI,DAL,14,away,JS,,24,miss3,0,M. Ellis,
+328,3,3:21.0,68,76,CHI,DAL,1,home,DefReb,,,DefReb,,P. Gasol,
+329,3,3:13.0,68,76,CHI,DAL,8,home,BadPass,steal,,turnover,,K. Hinrich,M. Ellis
+330,3,3:07.0,68,78,CHI,DAL,6,away,LU,,1,make2,2,M. Ellis,
+331,3,2:47.0,68,78,CHI,DAL,20,home,JS,,13,miss2,0,J. Butler,
+332,3,2:45.0,68,78,CHI,DAL,2,away,DefReb,,,DefReb,,C. Parsons,
+333,3,2:39.0,68,78,CHI,DAL,6,away,JS,,3,miss2,0,C. Parsons,
+334,3,2:38.0,68,78,CHI,DAL,1,home,DefReb,,,DefReb,,J. Butler,
+335,3,2:34.0,68,78,CHI,DAL,4,away,Sub,,,,,D. Harris,J. Nelson
+336,3,2:31.0,70,78,CHI,DAL,3,home,JS,assist,17,make2,2,M. Dunleavy,J. Butler
+337,3,2:13.0,70,78,CHI,DAL,18,away,BadPass,steal,,turnover,,M. Ellis,K. Hinrich
+338,3,2:07.0,72,78,CHI,DAL,6,home,JS,assist,21,make2,2,M. Dunleavy,K. Hinrich
+339,3,1:44.0,72,78,CHI,DAL,23,away,JS,,19,miss2,0,M. Ellis,
+340,3,1:43.0,72,78,CHI,DAL,1,home,DefReb,,,DefReb,,P. Gasol,
+341,3,1:30.0,72,78,CHI,DAL,13,home,JS,,10,miss2,0,J. Butler,
+342,3,1:29.0,72,78,CHI,DAL,1,away,DefReb,,,DefReb,,A. Aminu,
+343,3,1:11.0,72,80,CHI,DAL,18,away,JS,assist,8,make2,2,B. Wright,D. Harris
+344,3,0:51.0,72,80,CHI,DAL,20,home,JS,,19,miss2,0,K. Hinrich,
+345,3,0:49.0,72,80,CHI,DAL,2,away,DefReb,,,DefReb,,D. Harris,
+346,3,0:41.0,72,80,CHI,DAL,8,away,JS,,25,miss3,0,M. Ellis,
+347,3,0:40.0,72,80,CHI,DAL,1,home,DefReb,,,DefReb,,K. Hinrich,
+348,3,0:37.0,72,80,CHI,DAL,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Wright,M. Dunleavy
+349,3,0:37.0,73,80,CHI,DAL,0,home,FreeThrow,,,make1,1,M. Dunleavy,
+350,3,0:37.0,73,80,CHI,DAL,0,away,Sub,,,,,D. Nowitzki,C. Parsons
+351,3,0:37.0,73,80,CHI,DAL,0,away,Sub,,,,,R. Jefferson,A. Aminu
+352,3,0:37.0,73,80,CHI,DAL,0,home,Sub,,,,,A. Brooks,P. Gasol
+353,3,0:37.0,73,80,CHI,DAL,0,home,Sub,,,,,J. Noah,J. Butler
+354,3,0:37.0,74,80,CHI,DAL,0,home,FreeThrow,,,make1,1,M. Dunleavy,
+355,3,0:15.0,74,80,CHI,DAL,22,away,JS,,21,miss2,0,M. Ellis,
+356,3,0:14.0,74,80,CHI,DAL,1,home,DefReb,,,DefReb,,A. Brooks,
+357,3,0:01.0,74,80,CHI,DAL,13,home,JS,,23,miss3,0,N. Mirotić,
+358,3,0:00.0,74,80,CHI,DAL,1,home,OffReb,,,OffReb,,J. Noah,
+359,4,11:39.0,74,83,CHI,DAL,21,away,JS,assist,25,make3,3,D. Harris,B. Wright
+360,4,11:22.0,76,83,CHI,DAL,17,home,LU,,1,make2,2,N. Mirotić,
+361,4,11:01.0,76,86,CHI,DAL,21,away,JS,assist,25,make3,3,R. Jefferson,D. Nowitzki
+362,4,10:38.0,76,86,CHI,DAL,23,home,LU,,1,miss2,0,N. Mirotić,
+363,4,10:37.0,76,86,CHI,DAL,1,home,OffReb,,,OffReb,,J. Noah,
+364,4,10:37.0,78,86,CHI,DAL,0,home,LU,,0,make2,2,J. Noah,
+365,4,10:23.0,78,86,CHI,DAL,14,away,LU,,1,miss2,0,J. Barea,
+366,4,10:22.0,78,86,CHI,DAL,1,home,DefReb,,,DefReb,,A. Brooks,
+367,4,10:17.0,80,86,CHI,DAL,5,home,LU,assist,2,make2,2,N. Mirotić,A. Brooks
+368,4,9:52.0,80,86,CHI,DAL,25,away,JS,,25,miss3,0,D. Nowitzki,
+369,4,9:51.0,80,86,CHI,DAL,1,home,DefReb,,,DefReb,,J. Noah,
+370,4,9:37.0,83,86,CHI,DAL,14,home,JS,assist,23,make3,3,K. Hinrich,M. Dunleavy
+371,4,9:36.0,83,86,CHI,DAL,1,away,Timeout,,,,,,
+372,4,9:24.0,83,86,CHI,DAL,12,away,JS,,16,miss2,0,D. Nowitzki,
+373,4,9:22.0,83,86,CHI,DAL,2,away,OffReb,,,OffReb,,J. Barea,
+374,4,9:13.0,83,86,CHI,DAL,9,away,JS,,25,miss3,0,J. Barea,
+375,4,9:11.0,83,86,CHI,DAL,2,away,OffReb,,,OffReb,,R. Jefferson,
+376,4,9:02.0,83,86,CHI,DAL,9,home,KickBallViolation,,,KickBallViolation,,J. Noah,
+377,4,8:52.0,83,88,CHI,DAL,10,away,LU,,2,make2,2,J. Barea,
+378,4,8:35.0,83,88,CHI,DAL,17,home,JS,,25,miss3,0,M. Dunleavy,
+379,4,8:34.0,83,88,CHI,DAL,1,away,DefReb,,,DefReb,,B. Wright,
+380,4,8:20.0,83,90,CHI,DAL,14,away,JS,assist,18,make2,2,D. Nowitzki,D. Harris
+381,4,8:02.0,85,90,CHI,DAL,18,home,JS,assist,18,make2,2,A. Brooks,J. Noah
+382,4,7:44.0,85,90,CHI,DAL,18,home,ChargeFoul,DrawnBy,,ChargeFoul,,R. Jefferson,N. Mirotić
+383,4,7:44.0,85,90,CHI,DAL,0,away,OffensiveFoul,,,turnover,,R. Jefferson,
+384,4,7:30.0,88,90,CHI,DAL,14,home,JS,assist,23,make3,3,K. Hinrich,A. Brooks
+385,4,7:09.0,88,93,CHI,DAL,21,away,JS,assist,25,make3,3,D. Harris,D. Nowitzki
+386,4,6:57.0,90,93,CHI,DAL,12,home,LU,assist,2,make2,2,N. Mirotić,J. Noah
+387,4,6:37.0,90,96,CHI,DAL,20,away,JS,assist,24,make3,3,J. Barea,D. Nowitzki
+388,4,6:20.0,90,96,CHI,DAL,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Barea,A. Brooks
+389,4,6:20.0,91,96,CHI,DAL,0,home,FreeThrow,,,make1,1,A. Brooks,
+390,4,6:20.0,91,96,CHI,DAL,0,away,Sub,,,,,T. Chandler,D. Nowitzki
+391,4,6:20.0,91,96,CHI,DAL,0,away,Sub,,,,,C. Parsons,J. Barea
+392,4,6:20.0,91,96,CHI,DAL,0,away,Sub,,,,,M. Ellis,R. Jefferson
+393,4,6:20.0,91,96,CHI,DAL,0,home,Sub,,,,,P. Gasol,J. Noah
+394,4,6:20.0,92,96,CHI,DAL,0,home,FreeThrow,,,make1,1,A. Brooks,
+395,4,6:03.0,92,96,CHI,DAL,17,away,JS,,9,miss2,0,M. Ellis,
+396,4,6:02.0,92,96,CHI,DAL,1,home,DefReb,,,DefReb,,P. Gasol,
+397,4,5:50.0,94,96,CHI,DAL,12,home,JS,,6,make2,2,M. Dunleavy,
+398,4,5:24.0,94,96,CHI,DAL,26,away,JS,block,25,miss3,0,C. Parsons,N. Mirotić
+399,4,5:22.0,94,96,CHI,DAL,2,home,DefReb,,,DefReb,,M. Dunleavy,
+400,4,5:19.0,96,96,CHI,DAL,3,home,LU,assist,2,make2,2,A. Brooks,N. Mirotić
+401,4,5:19.0,96,96,CHI,DAL,0,away,Timeout,,,,,,
+402,4,5:19.0,96,96,CHI,DAL,0,home,Sub,,,,,D. Rose,K. Hinrich
+403,4,5:19.0,96,96,CHI,DAL,0,home,Sub,,,,,J. Butler,A. Brooks
+404,4,4:59.0,96,96,CHI,DAL,20,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Harris,D. Rose
+405,4,4:59.0,96,96,CHI,DAL,0,away,OffensiveFoul,,,turnover,,D. Harris,
+406,4,4:59.0,96,96,CHI,DAL,0,away,Sub,,,,,D. Nowitzki,B. Wright
+407,4,4:48.0,96,96,CHI,DAL,11,home,LU,,1,miss2,0,J. Butler,
+408,4,4:47.0,96,96,CHI,DAL,1,home,OffReb,,,OffReb,,J. Butler,
+409,4,4:47.0,96,96,CHI,DAL,0,home,TI,,1,miss2,0,J. Butler,
+410,4,4:46.0,96,96,CHI,DAL,1,away,DefReb,,,DefReb,,M. Ellis,
+411,4,4:31.0,96,96,CHI,DAL,15,away,JS,,23,miss3,0,C. Parsons,
+412,4,4:30.0,96,96,CHI,DAL,1,away,OffReb,,,OffReb,,D. Nowitzki,
+413,4,4:27.0,96,96,CHI,DAL,3,away,Traveling,,,turnover,,D. Nowitzki,
+414,4,4:26.0,96,96,CHI,DAL,1,home,Sub,,,,,J. Noah,N. Mirotić
+415,4,4:09.0,96,96,CHI,DAL,17,home,JS,,19,miss2,0,D. Rose,
+416,4,4:08.0,96,96,CHI,DAL,1,away,DefReb,,,DefReb,,C. Parsons,
+417,4,3:51.0,96,96,CHI,DAL,17,away,JS,,17,miss2,0,M. Ellis,
+418,4,3:50.0,96,96,CHI,DAL,1,home,DefReb,,,DefReb,,J. Noah,
+419,4,3:39.0,98,96,CHI,DAL,11,home,JS,assist,10,make2,2,P. Gasol,D. Rose
+420,4,3:18.0,98,96,CHI,DAL,21,away,JS,,24,miss3,0,D. Nowitzki,
+421,4,3:18.0,98,96,CHI,DAL,0,home,DefReb,,,DefReb,,Team,
+422,4,3:05.0,100,96,CHI,DAL,13,home,JS,assist,16,make2,2,P. Gasol,D. Rose
+423,4,2:50.0,100,96,CHI,DAL,15,away,JS,,12,miss2,0,M. Ellis,
+424,4,2:49.0,100,96,CHI,DAL,1,home,DefReb,,,DefReb,,J. Butler,
+425,4,2:42.0,100,96,CHI,DAL,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,J. Butler
+426,4,2:42.0,100,96,CHI,DAL,0,home,Timeout,,,,,,
+427,4,2:42.0,101,96,CHI,DAL,0,home,FreeThrow,,,make1,1,J. Butler,
+428,4,2:42.0,102,96,CHI,DAL,0,home,FreeThrow,,,make1,1,J. Butler,
+429,4,2:28.0,102,98,CHI,DAL,14,away,DK,assist,0,make2,2,M. Ellis,D. Nowitzki
+430,4,2:07.0,102,98,CHI,DAL,21,home,BadPass,steal,,turnover,,D. Rose,D. Harris
+431,4,2:07.0,102,98,CHI,DAL,0,away,Timeout,,,,,,
+432,4,1:59.0,102,100,CHI,DAL,8,away,JS,assist,16,make2,2,D. Nowitzki,D. Harris
+433,4,1:41.0,105,100,CHI,DAL,18,home,JS,assist,25,make3,3,D. Rose,M. Dunleavy
+434,4,1:27.0,105,100,CHI,DAL,14,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Butler,D. Nowitzki
+435,4,1:22.0,105,100,CHI,DAL,5,away,Traveling,,,turnover,,M. Ellis,
+436,4,1:04.0,105,100,CHI,DAL,18,home,JS,,23,miss3,0,P. Gasol,
+437,4,1:03.0,105,100,CHI,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+438,4,0:56.0,105,103,CHI,DAL,7,away,JS,assist,26,make3,3,D. Nowitzki,D. Harris
+439,4,0:37.0,105,103,CHI,DAL,19,home,LU,,1,miss2,0,J. Noah,
+440,4,0:36.0,105,103,CHI,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+441,4,0:23.0,105,103,CHI,DAL,13,away,JS,,5,miss2,0,M. Ellis,
+442,4,0:23.0,105,103,CHI,DAL,0,home,DefReb,,,DefReb,,J. Noah,
+443,4,0:22.0,105,103,CHI,DAL,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Chandler,J. Noah
+444,4,0:16.0,105,103,CHI,DAL,6,home,Timeout,,,,,,
+445,4,0:16.0,105,103,CHI,DAL,0,home,Sub,,,,,K. Hinrich,P. Gasol
+446,4,0:15.0,105,103,CHI,DAL,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Harris,J. Butler
+447,4,0:15.0,106,103,CHI,DAL,0,home,FreeThrow,,,make1,1,J. Butler,
+448,4,0:15.0,106,103,CHI,DAL,0,home,Sub,,,,,P. Gasol,K. Hinrich
+449,4,0:15.0,106,103,CHI,DAL,0,home,FreeThrow,,,make1,0,J. Butler,
+450,4,0:13.0,106,103,CHI,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+451,4,0:05.0,106,105,CHI,DAL,8,away,LU,,1,make2,2,M. Ellis,
+452,4,0:05.0,106,105,CHI,DAL,0,home,Timeout,,,,,,
+453,4,0:05.0,106,105,CHI,DAL,0,home,Sub,,,,,K. Hinrich,J. Noah
+454,4,0:05.0,106,105,CHI,DAL,0,away,Sub,,,,,R. Jefferson,T. Chandler
+455,4,0:04.0,106,105,CHI,DAL,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,C. Parsons,P. Gasol
+456,4,0:04.0,107,105,CHI,DAL,0,home,FreeThrow,,,make1,1,P. Gasol,
+457,4,0:04.0,108,105,CHI,DAL,0,home,FreeThrow,,,make1,1,P. Gasol,
+458,4,0:01.0,108,105,CHI,DAL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Hinrich,M. Ellis
+459,4,0:01.0,108,106,CHI,DAL,0,away,FreeThrow,,,make1,1,M. Ellis,
+460,4,0:01.0,108,107,CHI,DAL,0,away,FreeThrow,,,make1,1,M. Ellis,
+461,4,0:01.0,108,107,CHI,DAL,0,home,Sub,,,,,J. Noah,M. Dunleavy
+462,4,0:01.0,108,108,CHI,DAL,0,away,FreeThrow,,,make1,1,M. Ellis,
+463,4,0:01.0,108,108,CHI,DAL,0,home,Timeout,,,,,,
+464,4,0:01.0,108,108,CHI,DAL,0,home,Sub,,,,,M. Dunleavy,K. Hinrich
+465,4,0:01.0,108,108,CHI,DAL,0,away,Sub,,,,,B. Wright,C. Parsons
+466,4,0:01.0,108,108,CHI,DAL,0,away,Sub,,,,,A. Aminu,D. Nowitzki
+467,4,0:00.0,108,108,CHI,DAL,1,home,JS,,28,miss3,0,D. Rose,
+468,4,0:00.0,108,108,CHI,DAL,0,home,OffReb,,,OffReb,,Team,
+469,1OT,4:40.0,110,108,CHI,DAL,440,home,JS,assist,21,make2,2,J. Butler,D. Rose
+470,1OT,4:18.0,110,108,CHI,DAL,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Rose,D. Nowitzki
+471,1OT,4:18.0,110,109,CHI,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+472,1OT,4:18.0,110,110,CHI,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+473,1OT,4:06.0,110,110,CHI,DAL,12,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,P. Gasol,M. Ellis
+474,1OT,4:06.0,110,110,CHI,DAL,0,home,OffensiveFoul,,,turnover,,P. Gasol,
+475,1OT,3:55.0,110,110,CHI,DAL,11,away,JS,,18,miss2,0,D. Nowitzki,
+476,1OT,3:55.0,110,110,CHI,DAL,0,home,DefReb,,,DefReb,,Team,
+477,1OT,3:55.0,110,110,CHI,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Parsons,M. Dunleavy
+478,1OT,3:46.0,110,110,CHI,DAL,9,home,JS,,4,miss2,0,D. Rose,
+479,1OT,3:45.0,110,110,CHI,DAL,1,home,OffReb,,,OffReb,,J. Butler,
+480,1OT,3:45.0,112,110,CHI,DAL,0,home,LU,,3,make2,2,J. Butler,
+481,1OT,3:32.0,112,110,CHI,DAL,13,away,LU,,2,miss2,0,M. Ellis,
+482,1OT,3:31.0,112,110,CHI,DAL,1,home,DefReb,,,DefReb,,J. Noah,
+483,1OT,3:20.0,112,110,CHI,DAL,11,home,HS,,2,miss2,0,P. Gasol,
+484,1OT,3:19.0,112,110,CHI,DAL,1,home,OffReb,,,OffReb,,J. Butler,
+485,1OT,3:10.0,112,110,CHI,DAL,9,home,JS,,16,miss2,0,P. Gasol,
+486,1OT,3:09.0,112,110,CHI,DAL,1,away,DefReb,,,DefReb,,C. Parsons,
+487,1OT,2:54.0,112,112,CHI,DAL,15,away,LU,,3,make2,2,D. Nowitzki,
+488,1OT,2:39.0,112,112,CHI,DAL,15,home,JS,,25,miss3,0,D. Rose,
+489,1OT,2:38.0,112,112,CHI,DAL,1,away,DefReb,,,DefReb,,D. Harris,
+490,1OT,2:28.0,112,112,CHI,DAL,10,away,JS,,13,miss2,0,D. Nowitzki,
+491,1OT,2:27.0,112,112,CHI,DAL,1,home,DefReb,,,DefReb,,J. Noah,
+492,1OT,2:20.0,112,112,CHI,DAL,7,home,JS,,3,miss2,0,J. Noah,
+493,1OT,2:19.0,112,112,CHI,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+494,1OT,2:12.0,112,114,CHI,DAL,7,away,LU,assist,2,make2,2,D. Harris,D. Nowitzki
+495,1OT,2:11.0,112,114,CHI,DAL,1,home,Timeout,,,,,,
+496,1OT,1:56.0,112,114,CHI,DAL,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,J. Butler
+497,1OT,1:56.0,113,114,CHI,DAL,0,home,FreeThrow,,,make1,1,J. Butler,
+498,1OT,1:56.0,114,114,CHI,DAL,0,home,FreeThrow,,,make1,1,J. Butler,
+499,1OT,1:45.0,114,116,CHI,DAL,11,away,JS,assist,16,make2,2,D. Nowitzki,D. Harris
+500,1OT,1:35.0,116,116,CHI,DAL,10,home,JS,assist,13,make2,2,P. Gasol,D. Rose
+501,1OT,1:20.0,116,119,CHI,DAL,15,away,JS,assist,25,make3,3,C. Parsons,D. Nowitzki
+502,1OT,1:05.0,118,119,CHI,DAL,15,home,DK,assist,0,make2,2,J. Noah,P. Gasol
+503,1OT,0:42.0,118,119,CHI,DAL,23,away,LU,block,2,miss2,0,M. Ellis,P. Gasol
+504,1OT,0:41.0,118,119,CHI,DAL,1,away,OffReb,,,OffReb,,M. Ellis,
+505,1OT,0:41.0,118,121,CHI,DAL,0,away,LU,,1,make2,2,M. Ellis,
+506,1OT,0:31.0,118,121,CHI,DAL,10,home,LU,block,3,miss2,0,P. Gasol,T. Chandler
+507,1OT,0:29.0,118,121,CHI,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+508,1OT,0:08.0,118,121,CHI,DAL,21,away,JS,,13,miss2,0,M. Ellis,
+509,1OT,0:07.0,118,121,CHI,DAL,1,home,DefReb,,,DefReb,,J. Noah,
+510,1OT,0:07.0,118,121,CHI,DAL,0,home,Timeout,,,,,,
+511,1OT,0:07.0,118,121,CHI,DAL,0,away,Sub,,,,,R. Jefferson,D. Nowitzki
+512,1OT,0:07.0,118,121,CHI,DAL,0,away,Sub,,,,,B. Wright,T. Chandler
+513,1OT,0:00.0,121,121,CHI,DAL,7,home,JS,assist,25,make3,3,D. Rose,J. Butler
+514,2OT,4:44.0,121,123,CHI,DAL,436,away,JS,assist,20,make2,2,M. Ellis,D. Harris
+515,2OT,4:24.0,121,123,CHI,DAL,20,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,P. Gasol
+516,2OT,4:17.0,121,123,CHI,DAL,7,home,BadPass,,,turnover,,D. Rose,
+517,2OT,4:05.0,121,123,CHI,DAL,12,away,JS,,20,miss2,0,D. Harris,
+518,2OT,4:04.0,121,123,CHI,DAL,1,home,DefReb,,,DefReb,,J. Noah,
+519,2OT,3:47.0,121,123,CHI,DAL,17,home,BadPass,steal,,turnover,,D. Rose,C. Parsons
+520,2OT,3:39.0,121,123,CHI,DAL,8,away,JS,,23,miss3,0,D. Nowitzki,
+521,2OT,3:38.0,121,123,CHI,DAL,1,home,DefReb,,,DefReb,,P. Gasol,
+522,2OT,3:18.0,121,123,CHI,DAL,20,home,JS,,14,miss2,0,P. Gasol,
+523,2OT,3:18.0,121,123,CHI,DAL,0,home,OffReb,,,OffReb,,Team,
+524,2OT,3:18.0,121,123,CHI,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Ellis,J. Butler
+525,2OT,3:11.0,121,123,CHI,DAL,7,home,BadPass,steal,,turnover,,J. Noah,C. Parsons
+526,2OT,3:05.0,121,125,CHI,DAL,6,away,JS,,21,make2,2,M. Ellis,
+527,2OT,2:44.0,123,125,CHI,DAL,21,home,JS,assist,15,make2,2,P. Gasol,J. Noah
+528,2OT,2:23.0,123,127,CHI,DAL,21,away,JS,,19,make2,2,D. Nowitzki,
+529,2OT,1:58.0,125,127,CHI,DAL,25,home,HS,,8,make2,2,P. Gasol,
+530,2OT,1:41.0,125,127,CHI,DAL,17,away,JS,,23,miss3,0,C. Parsons,
+531,2OT,1:40.0,125,127,CHI,DAL,1,home,DefReb,,,DefReb,,D. Rose,
+532,2OT,1:31.0,127,127,CHI,DAL,9,home,JS,assist,16,make2,2,P. Gasol,D. Rose
+533,2OT,1:31.0,127,127,CHI,DAL,0,away,Timeout,,,,,,
+534,2OT,1:16.0,127,127,CHI,DAL,15,away,BadPass,,,turnover,,C. Parsons,
+535,2OT,1:00.0,129,127,CHI,DAL,16,home,DK,assist,0,make2,2,J. Noah,D. Rose
+536,2OT,0:40.0,129,130,CHI,DAL,20,away,JS,assist,27,make3,3,M. Ellis,D. Harris
+537,2OT,0:25.0,129,130,CHI,DAL,15,home,JS,,7,miss2,0,D. Rose,
+538,2OT,0:24.0,129,130,CHI,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+539,2OT,0:13.0,129,130,CHI,DAL,11,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Noah,M. Ellis
+540,2OT,0:13.0,129,130,CHI,DAL,0,home,Timeout,,,,,,
+541,2OT,0:13.0,129,130,CHI,DAL,0,away,Sub,,,,,J. Barea,T. Chandler
+542,2OT,0:09.0,129,130,CHI,DAL,4,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,P. Gasol,C. Parsons
+543,2OT,0:09.0,129,131,CHI,DAL,0,away,FreeThrow,,,make1,1,C. Parsons,
+544,2OT,0:09.0,129,132,CHI,DAL,0,away,FreeThrow,,,make1,1,C. Parsons,
+545,2OT,0:09.0,129,132,CHI,DAL,0,home,Timeout,,,,,,
+546,2OT,0:09.0,129,132,CHI,DAL,0,away,Sub,,,,,R. Jefferson,D. Nowitzki
+547,2OT,0:09.0,129,132,CHI,DAL,0,away,Sub,,,,,J. Crowder,J. Barea
+548,2OT,0:00.0,129,132,CHI,DAL,9,home,JS,,26,miss3,0,D. Rose,
+549,2OT,0:00.0,129,132,CHI,DAL,0,away,DefReb,,,DefReb,,Team,

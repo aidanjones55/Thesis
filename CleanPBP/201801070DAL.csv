@@ -1,0 +1,454 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:42.0,0,0,DAL,NYK,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Smith,E. Freedom
+1,1,11:42.0,0,0,DAL,NYK,0,away,FreeThrow,,,make1,0,E. Freedom,
+2,1,11:42.0,0,0,DAL,NYK,0,away,OffReb,,,OffReb,,Team,
+3,1,11:42.0,0,1,DAL,NYK,0,away,FreeThrow,,,make1,1,E. Freedom,
+4,1,11:31.0,0,1,DAL,NYK,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Porziņģis,D. Smith
+5,1,11:17.0,0,1,DAL,NYK,14,home,LU,,2,miss2,0,D. Smith,
+6,1,11:14.0,0,1,DAL,NYK,3,home,OffReb,,,OffReb,,M. Kleber,
+7,1,11:10.0,0,1,DAL,NYK,4,home,JS,,27,miss3,0,W. Matthews,
+8,1,11:06.0,0,1,DAL,NYK,4,away,DefReb,,,DefReb,,K. Porziņģis,
+9,1,10:58.0,0,3,DAL,NYK,8,away,JS,,11,make2,2,J. Jack,
+10,1,10:58.0,0,3,DAL,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kleber,J. Jack
+11,1,10:58.0,0,4,DAL,NYK,0,away,FreeThrow,,,make1,1,J. Jack,
+12,1,10:36.0,0,4,DAL,NYK,22,home,JS,,19,miss2,0,D. Nowitzki,
+13,1,10:33.0,0,4,DAL,NYK,3,home,OffReb,,,OffReb,,M. Kleber,
+14,1,10:21.0,0,4,DAL,NYK,12,home,JS,,17,miss2,0,H. Barnes,
+15,1,10:20.0,0,4,DAL,NYK,1,away,DefReb,,,DefReb,,Team,
+16,1,10:05.0,0,4,DAL,NYK,15,away,LU,,2,miss2,0,K. Porziņģis,
+17,1,10:03.0,0,4,DAL,NYK,2,away,OffReb,,,OffReb,,E. Freedom,
+18,1,10:02.0,0,6,DAL,NYK,1,away,LU,,0,make2,2,E. Freedom,
+19,1,9:45.0,0,6,DAL,NYK,17,home,JS,,22,miss3,0,H. Barnes,
+20,1,9:45.0,0,6,DAL,NYK,0,away,DefReb,,,DefReb,,E. Freedom,
+21,1,9:30.0,0,6,DAL,NYK,15,away,Turnover,,,turnover,,C. Lee,
+22,1,9:07.0,0,6,DAL,NYK,23,home,JS,,22,miss2,0,D. Nowitzki,
+23,1,9:04.0,0,6,DAL,NYK,3,away,DefReb,,,DefReb,,K. Porziņģis,
+24,1,8:56.0,0,6,DAL,NYK,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Smith,E. Freedom
+25,1,8:46.0,0,8,DAL,NYK,10,away,JS,,5,make2,2,E. Freedom,
+26,1,8:25.0,3,8,DAL,NYK,21,home,JS,assist,23,make3,3,H. Barnes,D. Smith
+27,1,8:09.0,3,8,DAL,NYK,16,away,bad pass,steal,,turnover,,E. Freedom,M. Kleber
+28,1,8:03.0,3,8,DAL,NYK,6,home,LU,,1,miss2,0,D. Smith,
+29,1,8:00.0,3,8,DAL,NYK,3,away,DefReb,,,DefReb,,L. Thomas,
+30,1,7:56.0,3,10,DAL,NYK,4,away,JS,,16,make2,2,J. Jack,
+31,1,7:55.0,3,10,DAL,NYK,1,home,Timeout,,,,,,
+32,1,7:55.0,3,10,DAL,NYK,0,home,Sub,,,,,S. Mejri,D. Nowitzki
+33,1,7:44.0,5,10,DAL,NYK,11,home,JS,,18,make2,2,W. Matthews,
+34,1,7:44.0,5,10,DAL,NYK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Freedom,W. Matthews
+35,1,7:44.0,6,10,DAL,NYK,0,home,FreeThrow,,,make1,1,W. Matthews,
+36,1,7:25.0,6,12,DAL,NYK,19,away,JS,assist,7,make2,2,K. Porziņģis,J. Jack
+37,1,7:07.0,6,12,DAL,NYK,18,home,JS,,26,miss3,0,M. Kleber,
+38,1,7:07.0,6,12,DAL,NYK,0,away,DefReb,,,DefReb,,E. Freedom,
+39,1,6:56.0,6,12,DAL,NYK,11,away,lost ball,steal,,turnover,,K. Porziņģis,W. Matthews
+40,1,6:42.0,6,12,DAL,NYK,14,home,JS,,3,miss2,0,W. Matthews,
+41,1,6:42.0,6,12,DAL,NYK,0,home,OffReb,,,OffReb,,S. Mejri,
+42,1,6:42.0,8,12,DAL,NYK,0,home,LU,,2,make2,2,S. Mejri,
+43,1,6:42.0,8,12,DAL,NYK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jack,S. Mejri
+44,1,6:42.0,8,12,DAL,NYK,0,home,Sub,,,,,Y. Ferrell,D. Smith
+45,1,6:42.0,9,12,DAL,NYK,0,home,FreeThrow,,,make1,1,S. Mejri,
+46,1,6:26.0,9,14,DAL,NYK,16,away,JS,assist,13,make2,2,K. Porziņģis,J. Jack
+47,1,6:12.0,11,14,DAL,NYK,14,home,JS,assist,21,make2,2,H. Barnes,W. Matthews
+48,1,5:54.0,11,16,DAL,NYK,18,away,HS,,6,make2,2,E. Freedom,
+49,1,5:34.0,11,16,DAL,NYK,20,home,JS,,10,miss2,0,H. Barnes,
+50,1,5:31.0,11,16,DAL,NYK,3,away,DefReb,,,DefReb,,K. Porziņģis,
+51,1,5:25.0,11,16,DAL,NYK,6,away,JS,,6,miss2,0,J. Jack,
+52,1,5:22.0,11,16,DAL,NYK,3,home,DefReb,,,DefReb,,S. Mejri,
+53,1,5:07.0,11,16,DAL,NYK,15,home,LU,,3,miss2,0,Y. Ferrell,
+54,1,5:05.0,11,16,DAL,NYK,2,away,DefReb,,,DefReb,,L. Thomas,
+55,1,4:55.0,11,18,DAL,NYK,10,away,JS,,8,make2,2,J. Jack,
+56,1,4:55.0,11,18,DAL,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,Y. Ferrell,J. Jack
+57,1,4:55.0,11,18,DAL,NYK,0,home,Sub,,,,,J. Barea,M. Kleber
+58,1,4:55.0,11,18,DAL,NYK,0,home,Sub,,,,,D. Harris,Y. Ferrell
+59,1,4:55.0,11,18,DAL,NYK,0,away,Sub,,,,,D. McDermott,L. Thomas
+60,1,4:55.0,11,19,DAL,NYK,0,away,FreeThrow,,,make1,1,J. Jack,
+61,1,4:44.0,11,19,DAL,NYK,11,home,LU,,2,miss2,0,S. Mejri,
+62,1,4:44.0,11,19,DAL,NYK,0,away,DefReb,,,DefReb,,J. Jack,
+63,1,4:37.0,11,22,DAL,NYK,7,away,JS,assist,23,make3,3,D. McDermott,J. Jack
+64,1,4:25.0,11,22,DAL,NYK,12,home,JS,,8,miss2,0,J. Barea,
+65,1,4:23.0,11,22,DAL,NYK,2,home,OffReb,,,OffReb,,S. Mejri,
+66,1,4:15.0,13,22,DAL,NYK,8,home,JS,assist,3,make2,2,H. Barnes,J. Barea
+67,1,3:52.0,13,22,DAL,NYK,23,away,JS,,15,miss2,0,K. Porziņģis,
+68,1,3:50.0,13,22,DAL,NYK,2,away,OffReb,,,OffReb,,E. Freedom,
+69,1,3:48.0,13,22,DAL,NYK,2,away,LU,,0,miss2,0,E. Freedom,
+70,1,3:48.0,13,22,DAL,NYK,0,home,DefReb,,,DefReb,,H. Barnes,
+71,1,3:45.0,15,22,DAL,NYK,3,home,JS,assist,14,make2,2,W. Matthews,J. Barea
+72,1,3:45.0,15,22,DAL,NYK,0,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. McDermott,W. Matthews
+73,1,3:45.0,15,22,DAL,NYK,0,away,Sub,,,,,F. Ntilikina,J. Jack
+74,1,3:45.0,15,22,DAL,NYK,0,home,FreeThrow,,,make1,0,W. Matthews,
+75,1,3:43.0,15,22,DAL,NYK,2,away,DefReb,,,DefReb,,D. McDermott,
+76,1,3:24.0,15,24,DAL,NYK,19,away,LU,,1,make2,2,E. Freedom,
+77,1,3:07.0,17,24,DAL,NYK,17,home,LU,assist,1,make2,2,S. Mejri,H. Barnes
+78,1,3:00.0,17,24,DAL,NYK,7,away,Timeout,,,,,,
+79,1,3:00.0,17,24,DAL,NYK,0,home,Sub,,,,,D. Powell,H. Barnes
+80,1,3:00.0,17,24,DAL,NYK,0,home,Sub,,,,,D. Nowitzki,S. Mejri
+81,1,3:00.0,17,24,DAL,NYK,0,away,Sub,,,,,L. Thomas,K. Porziņģis
+82,1,2:46.0,17,26,DAL,NYK,14,away,JS,assist,11,make2,2,L. Thomas,D. McDermott
+83,1,2:31.0,19,26,DAL,NYK,15,home,JS,assist,5,make2,2,W. Matthews,D. Nowitzki
+84,1,2:16.0,19,26,DAL,NYK,15,away,BadPass,,,turnover,,E. Freedom,
+85,1,2:16.0,19,26,DAL,NYK,0,away,Sub,,,,,K. Porziņģis,E. Freedom
+86,1,2:16.0,19,26,DAL,NYK,0,away,Sub,,,,,K. O'Quinn,L. Thomas
+87,1,2:04.0,19,26,DAL,NYK,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,F. Ntilikina,J. Barea
+88,1,2:04.0,20,26,DAL,NYK,0,home,FreeThrow,,,make1,1,J. Barea,
+89,1,2:04.0,20,26,DAL,NYK,0,home,Sub,,,,,Y. Ferrell,W. Matthews
+90,1,2:04.0,21,26,DAL,NYK,0,home,FreeThrow,,,make1,1,J. Barea,
+91,1,1:55.0,21,29,DAL,NYK,9,away,JS,assist,25,make3,3,K. Porziņģis,C. Lee
+92,1,1:45.0,21,29,DAL,NYK,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,F. Ntilikina,D. Nowitzki
+93,1,1:45.0,22,29,DAL,NYK,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+94,1,1:45.0,22,29,DAL,NYK,0,away,Sub,,,,,R. Baker,C. Lee
+95,1,1:45.0,23,29,DAL,NYK,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+96,1,1:31.0,23,29,DAL,NYK,14,home,KickBallViolation,,,KickBallViolation,,D. Nowitzki,
+97,1,1:26.0,23,29,DAL,NYK,5,away,lost ball,steal,,turnover,,D. McDermott,J. Barea
+98,1,1:22.0,25,29,DAL,NYK,4,home,LU,assist,2,make2,2,J. Barea,D. Harris
+99,1,1:08.0,25,31,DAL,NYK,14,away,JS,assist,17,make2,2,K. Porziņģis,R. Baker
+100,1,0:56.0,25,31,DAL,NYK,12,home,JS,,9,miss2,0,J. Barea,
+101,1,0:54.0,25,31,DAL,NYK,2,away,DefReb,,,DefReb,,K. O'Quinn,
+102,1,0:46.0,25,33,DAL,NYK,8,away,JS,assist,16,make2,2,K. Porziņģis,F. Ntilikina
+103,1,0:31.0,25,33,DAL,NYK,15,home,bad pass,steal,,turnover,,D. Harris,F. Ntilikina
+104,1,0:11.0,25,33,DAL,NYK,20,away,JS,,11,miss2,0,K. O'Quinn,
+105,1,0:09.0,25,33,DAL,NYK,2,home,DefReb,,,DefReb,,D. Powell,
+106,1,0:01.0,25,33,DAL,NYK,8,home,JS,,22,miss3,0,Y. Ferrell,
+107,1,0:01.0,25,33,DAL,NYK,0,away,DefReb,,,DefReb,,K. O'Quinn,
+108,2,11:48.0,25,33,DAL,NYK,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. McDermott,D. Harris
+109,2,11:48.0,25,33,DAL,NYK,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Nowitzki,K. Porziņģis
+110,2,11:48.0,25,33,DAL,NYK,0,home,OffensiveFoul,,,turnover,,D. Nowitzki,
+111,2,11:31.0,25,33,DAL,NYK,17,away,JS,,15,miss2,0,F. Ntilikina,
+112,2,11:28.0,25,33,DAL,NYK,3,home,DefReb,,,DefReb,,D. Nowitzki,
+113,2,11:20.0,25,33,DAL,NYK,8,home,JS,,27,miss3,0,D. Harris,
+114,2,11:17.0,25,33,DAL,NYK,3,away,DefReb,,,DefReb,,F. Ntilikina,
+115,2,11:12.0,25,33,DAL,NYK,5,away,JS,,27,miss3,0,K. Porziņģis,
+116,2,11:09.0,25,33,DAL,NYK,3,home,DefReb,,,DefReb,,D. Nowitzki,
+117,2,11:01.0,25,33,DAL,NYK,8,home,LU,,2,miss2,0,Y. Ferrell,
+118,2,10:59.0,25,33,DAL,NYK,2,away,DefReb,,,DefReb,,D. McDermott,
+119,2,10:48.0,25,33,DAL,NYK,11,away,JS,,14,miss2,0,K. Porziņģis,
+120,2,10:44.0,25,33,DAL,NYK,4,home,DefReb,,,DefReb,,D. Harris,
+121,2,10:31.0,27,33,DAL,NYK,13,home,LU,assist,0,make2,2,D. Harris,J. Barea
+122,2,10:15.0,27,33,DAL,NYK,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,K. O'Quinn
+123,2,10:15.0,27,34,DAL,NYK,0,away,FreeThrow,,,make1,1,K. O'Quinn,
+124,2,10:15.0,27,35,DAL,NYK,0,away,FreeThrow,,,make1,1,K. O'Quinn,
+125,2,10:00.0,27,35,DAL,NYK,15,home,JS,,25,miss3,0,J. Barea,
+126,2,9:58.0,27,35,DAL,NYK,2,home,OffReb,,,OffReb,,D. Nowitzki,
+127,2,9:56.0,29,35,DAL,NYK,2,home,LU,,3,make2,2,D. Nowitzki,
+128,2,9:48.0,29,35,DAL,NYK,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Barea,F. Ntilikina
+129,2,9:42.0,29,37,DAL,NYK,6,away,JS,,21,make2,2,K. O'Quinn,
+130,2,9:15.0,29,37,DAL,NYK,27,home,JS,,23,miss3,0,D. Harris,
+131,2,9:13.0,29,37,DAL,NYK,2,away,DefReb,,,DefReb,,F. Ntilikina,
+132,2,9:07.0,29,37,DAL,NYK,6,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Harris,K. Porziņģis
+133,2,9:07.0,29,37,DAL,NYK,0,home,Sub,,,,,D. Smith,Y. Ferrell
+134,2,9:07.0,29,37,DAL,NYK,0,away,Sub,,,,,W. Hernangómez,K. Porziņģis
+135,2,9:02.0,29,37,DAL,NYK,5,away,JS,,28,miss3,0,D. McDermott,
+136,2,8:59.0,29,37,DAL,NYK,3,home,DefReb,,,DefReb,,D. Nowitzki,
+137,2,8:48.0,29,37,DAL,NYK,11,home,LU,,2,miss2,0,D. Harris,
+138,2,8:46.0,29,37,DAL,NYK,2,away,DefReb,,,DefReb,,K. O'Quinn,
+139,2,8:43.0,29,37,DAL,NYK,3,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,W. Hernangómez,D. Nowitzki
+140,2,8:43.0,29,37,DAL,NYK,0,away,OffensiveFoul,,,turnover,,W. Hernangómez,
+141,2,8:28.0,31,37,DAL,NYK,15,home,JS,,8,make2,2,J. Barea,
+142,2,8:28.0,31,37,DAL,NYK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. O'Quinn,J. Barea
+143,2,8:28.0,32,37,DAL,NYK,0,home,FreeThrow,,,make1,1,J. Barea,
+144,2,8:15.0,32,39,DAL,NYK,13,away,LU,assist,2,make2,2,D. McDermott,K. O'Quinn
+145,2,8:04.0,32,39,DAL,NYK,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. O'Quinn,D. Powell
+146,2,8:04.0,32,39,DAL,NYK,0,home,FreeThrow,,,make1,0,D. Powell,
+147,2,8:04.0,32,39,DAL,NYK,0,home,OffReb,,,OffReb,,Team,
+148,2,8:04.0,32,39,DAL,NYK,0,home,Sub,,,,,W. Matthews,D. Harris
+149,2,8:04.0,32,39,DAL,NYK,0,home,FreeThrow,,,make1,0,D. Powell,
+150,2,8:01.0,32,39,DAL,NYK,3,away,DefReb,,,DefReb,,W. Hernangómez,
+151,2,7:46.0,32,39,DAL,NYK,15,away,bad pass,steal,,turnover,,K. O'Quinn,W. Matthews
+152,2,7:41.0,32,39,DAL,NYK,5,home,LU,,0,miss2,0,W. Matthews,
+153,2,7:40.0,32,39,DAL,NYK,1,home,OffReb,,,OffReb,,D. Smith,
+154,2,7:37.0,34,39,DAL,NYK,3,home,LU,,0,make2,2,D. Smith,
+155,2,7:19.0,34,41,DAL,NYK,18,away,DK,assist,0,make2,2,K. O'Quinn,F. Ntilikina
+156,2,7:03.0,36,41,DAL,NYK,16,home,JS,assist,4,make2,2,D. Powell,D. Smith
+157,2,6:43.0,36,43,DAL,NYK,20,away,HS,assist,3,make2,2,K. O'Quinn,F. Ntilikina
+158,2,6:42.0,36,43,DAL,NYK,1,home,Timeout,,,,,,
+159,2,6:42.0,36,43,DAL,NYK,0,home,Sub,,,,,H. Barnes,D. Powell
+160,2,6:42.0,36,43,DAL,NYK,0,home,Sub,,,,,S. Mejri,D. Nowitzki
+161,2,6:42.0,36,43,DAL,NYK,0,away,Sub,,,,,C. Lee,K. O'Quinn
+162,2,6:42.0,36,43,DAL,NYK,0,away,Sub,,,,,E. Freedom,R. Baker
+163,2,6:26.0,36,43,DAL,NYK,16,home,JS,,19,miss2,0,D. Smith,
+164,2,6:23.0,36,43,DAL,NYK,3,away,DefReb,,,DefReb,,E. Freedom,
+165,2,6:09.0,36,45,DAL,NYK,14,away,HS,assist,7,make2,2,W. Hernangómez,C. Lee
+166,2,5:52.0,38,45,DAL,NYK,17,home,LU,,0,make2,2,H. Barnes,
+167,2,5:31.0,38,48,DAL,NYK,21,away,JS,assist,24,make3,3,F. Ntilikina,E. Freedom
+168,2,5:18.0,38,48,DAL,NYK,13,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. McDermott,W. Matthews
+169,2,5:18.0,39,48,DAL,NYK,0,home,FreeThrow,,,make1,1,W. Matthews,
+170,2,5:18.0,40,48,DAL,NYK,0,home,FreeThrow,,,make1,1,W. Matthews,
+171,2,5:18.0,40,48,DAL,NYK,0,away,Sub,,,,,J. Jack,D. McDermott
+172,2,5:18.0,41,48,DAL,NYK,0,home,FreeThrow,,,make1,1,W. Matthews,
+173,2,5:05.0,41,48,DAL,NYK,13,away,bad pass,steal,,turnover,,F. Ntilikina,D. Smith
+174,2,4:52.0,41,48,DAL,NYK,13,home,LU,block,4,miss2,0,H. Barnes,J. Jack
+175,2,4:48.0,41,48,DAL,NYK,4,away,DefReb,,,DefReb,,J. Jack,
+176,2,4:46.0,41,48,DAL,NYK,2,away,JS,,24,miss3,0,C. Lee,
+177,2,4:43.0,41,48,DAL,NYK,3,home,DefReb,,,DefReb,,H. Barnes,
+178,2,4:40.0,41,48,DAL,NYK,3,home,LU,block,3,miss2,0,J. Barea,F. Ntilikina
+179,2,4:40.0,41,48,DAL,NYK,0,away,DefReb,,,DefReb,,F. Ntilikina,
+180,2,4:33.0,41,48,DAL,NYK,7,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,E. Freedom,S. Mejri
+181,2,4:33.0,41,48,DAL,NYK,0,away,OffensiveFoul,,,turnover,,E. Freedom,
+182,2,4:33.0,41,48,DAL,NYK,0,away,Sub,,,,,K. Porziņģis,W. Hernangómez
+183,2,4:13.0,41,48,DAL,NYK,20,home,JS,,19,miss2,0,D. Smith,
+184,2,4:10.0,41,48,DAL,NYK,3,away,DefReb,,,DefReb,,K. Porziņģis,
+185,2,4:00.0,41,48,DAL,NYK,10,away,JS,,12,miss2,0,K. Porziņģis,
+186,2,3:55.0,41,48,DAL,NYK,5,home,DefReb,,,DefReb,,D. Smith,
+187,2,3:49.0,41,48,DAL,NYK,6,home,JS,,25,miss3,0,J. Barea,
+188,2,3:44.0,41,48,DAL,NYK,5,home,OffReb,,,OffReb,,H. Barnes,
+189,2,3:43.0,41,48,DAL,NYK,1,home,LU,,4,miss2,0,H. Barnes,
+190,2,3:43.0,41,48,DAL,NYK,0,home,OffReb,,,OffReb,,H. Barnes,
+191,2,3:31.0,41,48,DAL,NYK,12,home,LU,block,1,miss2,0,H. Barnes,K. Porziņģis
+192,2,3:28.0,41,48,DAL,NYK,3,away,DefReb,,,DefReb,,E. Freedom,
+193,2,3:23.0,41,48,DAL,NYK,5,away,LU,,1,miss2,0,K. Porziņģis,
+194,2,3:21.0,41,48,DAL,NYK,2,home,DefReb,,,DefReb,,S. Mejri,
+195,2,3:13.0,41,48,DAL,NYK,8,home,JS,,18,miss2,0,H. Barnes,
+196,2,3:10.0,41,48,DAL,NYK,3,away,DefReb,,,DefReb,,C. Lee,
+197,2,3:05.0,41,48,DAL,NYK,5,away,Timeout,,,,,,
+198,2,3:05.0,41,48,DAL,NYK,0,home,Sub,,,,,Y. Ferrell,J. Barea
+199,2,3:05.0,41,48,DAL,NYK,0,away,Sub,,,,,L. Thomas,F. Ntilikina
+200,2,2:51.0,41,48,DAL,NYK,14,away,HS,,5,miss2,0,E. Freedom,
+201,2,2:50.0,41,48,DAL,NYK,1,away,OffReb,,,OffReb,,E. Freedom,
+202,2,2:49.0,41,48,DAL,NYK,1,away,LU,,2,miss2,0,E. Freedom,
+203,2,2:48.0,41,48,DAL,NYK,1,away,OffReb,,,OffReb,,E. Freedom,
+204,2,2:48.0,41,48,DAL,NYK,0,away,LU,,2,miss2,0,E. Freedom,
+205,2,2:47.0,41,48,DAL,NYK,1,away,OffReb,,,OffReb,,E. Freedom,
+206,2,2:46.0,41,48,DAL,NYK,1,away,LU,,1,miss2,0,E. Freedom,
+207,2,2:45.0,41,48,DAL,NYK,1,away,OffReb,,,OffReb,,E. Freedom,
+208,2,2:43.0,41,48,DAL,NYK,2,away,LU,,0,miss2,0,E. Freedom,
+209,2,2:42.0,41,48,DAL,NYK,1,home,DefReb,,,DefReb,,Y. Ferrell,
+210,2,2:28.0,43,48,DAL,NYK,14,home,JS,,21,make2,2,Y. Ferrell,
+211,2,2:13.0,43,50,DAL,NYK,15,away,JS,,18,make2,2,C. Lee,
+212,2,1:51.0,43,50,DAL,NYK,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jack,H. Barnes
+213,2,1:51.0,44,50,DAL,NYK,0,home,FreeThrow,,,make1,1,H. Barnes,
+214,2,1:51.0,45,50,DAL,NYK,0,home,FreeThrow,,,make1,1,H. Barnes,
+215,2,1:37.0,45,50,DAL,NYK,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Barnes,K. Porziņģis
+216,2,1:37.0,45,51,DAL,NYK,0,away,FreeThrow,,,make1,1,K. Porziņģis,
+217,2,1:37.0,45,52,DAL,NYK,0,away,FreeThrow,,,make1,1,K. Porziņģis,
+218,2,1:23.0,47,52,DAL,NYK,14,home,JS,assist,22,make2,2,H. Barnes,D. Smith
+219,2,1:09.0,47,52,DAL,NYK,14,away,JS,,15,miss2,0,C. Lee,
+220,2,1:07.0,47,52,DAL,NYK,2,home,DefReb,,,DefReb,,S. Mejri,
+221,2,0:54.0,47,52,DAL,NYK,13,home,JS,,25,miss3,0,D. Smith,
+222,2,0:52.0,47,52,DAL,NYK,2,away,DefReb,,,DefReb,,E. Freedom,
+223,2,0:45.0,47,54,DAL,NYK,7,away,JS,,8,make2,2,J. Jack,
+224,2,0:33.0,49,54,DAL,NYK,12,home,DK,assist,0,make2,2,S. Mejri,D. Smith
+225,2,0:13.0,49,56,DAL,NYK,20,away,JS,,3,make2,2,E. Freedom,
+226,2,0:00.0,52,56,DAL,NYK,13,home,JS,,25,make3,3,D. Smith,
+227,3,11:47.0,52,56,DAL,NYK,13,home,JS,,2,miss2,0,D. Smith,
+228,3,11:46.0,52,56,DAL,NYK,1,home,OffReb,,,OffReb,,M. Kleber,
+229,3,11:45.0,52,56,DAL,NYK,1,home,LU,,6,miss2,0,M. Kleber,
+230,3,11:43.0,52,56,DAL,NYK,2,away,DefReb,,,DefReb,,C. Lee,
+231,3,11:39.0,52,59,DAL,NYK,4,away,JS,assist,25,make3,3,K. Porziņģis,J. Jack
+232,3,11:26.0,52,59,DAL,NYK,13,home,D3SecTech,,,,,,
+233,3,11:26.0,53,59,DAL,NYK,0,home,FreeThrow,,,make1,1,D. Nowitzki makes technical free throw,
+234,3,11:20.0,53,59,DAL,NYK,6,home,JS,,24,miss3,0,D. Nowitzki,
+235,3,11:20.0,53,59,DAL,NYK,0,away,DefReb,,,DefReb,,J. Jack,
+236,3,11:10.0,53,59,DAL,NYK,10,away,lost ball,steal,,turnover,,J. Jack,D. Smith
+237,3,11:06.0,55,59,DAL,NYK,4,home,LU,,2,make2,2,D. Smith,
+238,3,10:52.0,55,59,DAL,NYK,14,away,JS,,13,miss2,0,K. Porziņģis,
+239,3,10:48.0,55,59,DAL,NYK,4,home,DefReb,,,DefReb,,D. Nowitzki,
+240,3,10:38.0,55,59,DAL,NYK,10,home,JS,,11,miss2,0,D. Smith,
+241,3,10:35.0,55,59,DAL,NYK,3,away,DefReb,,,DefReb,,E. Freedom,
+242,3,10:28.0,55,59,DAL,NYK,7,away,JS,,23,miss3,0,C. Lee,
+243,3,10:24.0,55,59,DAL,NYK,4,home,DefReb,,,DefReb,,H. Barnes,
+244,3,10:19.0,55,59,DAL,NYK,5,home,JS,,23,miss3,0,M. Kleber,
+245,3,10:17.0,55,59,DAL,NYK,2,away,DefReb,,,DefReb,,K. Porziņģis,
+246,3,9:54.0,55,61,DAL,NYK,23,away,JS,,13,make2,2,K. Porziņģis,
+247,3,9:38.0,55,61,DAL,NYK,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jack,H. Barnes
+248,3,9:26.0,55,61,DAL,NYK,12,home,LU,,1,miss2,0,H. Barnes,
+249,3,9:23.0,55,61,DAL,NYK,3,away,DefReb,,,DefReb,,E. Freedom,
+250,3,9:16.0,55,61,DAL,NYK,7,away,HS,block,2,miss2,0,K. Porziņģis,M. Kleber
+251,3,9:13.0,55,61,DAL,NYK,3,home,DefReb,,,DefReb,,D. Smith,
+252,3,9:10.0,57,61,DAL,NYK,3,home,LU,,2,make2,2,D. Smith,
+253,3,8:54.0,57,64,DAL,NYK,16,away,JS,assist,24,make3,3,K. Porziņģis,J. Jack
+254,3,8:38.0,59,64,DAL,NYK,16,home,JS,assist,11,make2,2,W. Matthews,D. Smith
+255,3,8:21.0,59,66,DAL,NYK,17,away,JS,assist,20,make2,2,C. Lee,J. Jack
+256,3,8:05.0,59,66,DAL,NYK,16,home,JS,,1,miss2,0,W. Matthews,
+257,3,8:04.0,59,66,DAL,NYK,1,away,DefReb,,,DefReb,,E. Freedom,
+258,3,7:57.0,59,69,DAL,NYK,7,away,JS,assist,25,make3,3,C. Lee,K. Porziņģis
+259,3,7:55.0,59,69,DAL,NYK,2,home,Timeout,,,,,,
+260,3,7:41.0,59,69,DAL,NYK,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Thomas,W. Matthews
+261,3,7:41.0,60,69,DAL,NYK,0,home,FreeThrow,,,make1,1,W. Matthews,
+262,3,7:41.0,61,69,DAL,NYK,0,home,FreeThrow,,,make1,1,W. Matthews,
+263,3,7:41.0,61,69,DAL,NYK,0,home,FreeThrow,,,make1,0,W. Matthews,
+264,3,7:39.0,61,69,DAL,NYK,2,away,DefReb,,,DefReb,,K. Porziņģis,
+265,3,7:24.0,61,69,DAL,NYK,15,away,BadPass,,,turnover,,J. Jack,
+266,3,7:04.0,63,69,DAL,NYK,20,home,JS,,22,make2,2,D. Smith,
+267,3,6:52.0,63,69,DAL,NYK,12,away,JS,,19,miss2,0,C. Lee,
+268,3,6:47.0,63,69,DAL,NYK,5,away,OffReb,,,OffReb,,E. Freedom,
+269,3,6:47.0,63,69,DAL,NYK,0,away,LU,,0,miss2,0,E. Freedom,
+270,3,6:45.0,63,69,DAL,NYK,2,home,DefReb,,,DefReb,,W. Matthews,
+271,3,6:41.0,63,69,DAL,NYK,4,home,JS,,18,miss2,0,W. Matthews,
+272,3,6:41.0,63,69,DAL,NYK,0,away,DefReb,,,DefReb,,E. Freedom,
+273,3,6:33.0,63,69,DAL,NYK,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Smith,J. Jack
+274,3,6:26.0,63,71,DAL,NYK,7,away,JS,assist,6,make2,2,K. Porziņģis,J. Jack
+275,3,6:04.0,63,71,DAL,NYK,22,home,JS,,3,miss2,0,D. Smith,
+276,3,6:03.0,63,71,DAL,NYK,1,away,DefReb,,,DefReb,,C. Lee,
+277,3,5:50.0,63,73,DAL,NYK,13,away,HS,assist,5,make2,2,E. Freedom,J. Jack
+278,3,5:28.0,63,73,DAL,NYK,22,home,JS,,16,miss2,0,H. Barnes,
+279,3,5:26.0,63,73,DAL,NYK,2,away,DefReb,,,DefReb,,E. Freedom,
+280,3,5:22.0,63,73,DAL,NYK,4,away,OutOfBounds,,,turnover,,L. Thomas,
+281,3,5:22.0,63,73,DAL,NYK,0,home,Sub,,,,,Y. Ferrell,D. Smith
+282,3,5:22.0,63,73,DAL,NYK,0,home,Sub,,,,,D. Harris,W. Matthews
+283,3,5:09.0,63,73,DAL,NYK,13,home,bad pass,steal,,turnover,,D. Harris,L. Thomas
+284,3,5:09.0,63,73,DAL,NYK,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Kleber,K. Porziņģis
+285,3,5:09.0,63,73,DAL,NYK,0,home,Sub,,,,,S. Mejri,D. Nowitzki
+286,3,4:57.0,63,73,DAL,NYK,12,away,JS,,13,miss2,0,K. Porziņģis,
+287,3,4:54.0,63,73,DAL,NYK,3,home,DefReb,,,DefReb,,S. Mejri,
+288,3,4:40.0,65,73,DAL,NYK,14,home,JS,assist,13,make2,2,Y. Ferrell,S. Mejri
+289,3,4:29.0,65,73,DAL,NYK,11,away,JS,,25,miss3,0,J. Jack,
+290,3,4:26.0,65,73,DAL,NYK,3,home,DefReb,,,DefReb,,D. Harris,
+291,3,4:11.0,65,73,DAL,NYK,15,home,OutOfBoundsLB,,,turnover,,H. Barnes,
+292,3,4:11.0,65,73,DAL,NYK,0,away,Sub,,,,,F. Ntilikina,K. Porziņģis
+293,3,4:11.0,65,73,DAL,NYK,0,away,Sub,,,,,D. McDermott,J. Jack
+294,3,3:52.0,65,73,DAL,NYK,19,away,JS,,25,miss3,0,F. Ntilikina,
+295,3,3:48.0,65,73,DAL,NYK,4,home,DefReb,,,DefReb,,D. Harris,
+296,3,3:39.0,65,73,DAL,NYK,9,home,bad pass,steal,,turnover,,H. Barnes,E. Freedom
+297,3,3:34.0,65,73,DAL,NYK,5,away,LU,,2,miss2,0,D. McDermott,
+298,3,3:31.0,65,73,DAL,NYK,3,home,DefReb,,,DefReb,,Y. Ferrell,
+299,3,3:23.0,65,73,DAL,NYK,8,home,JS,,6,miss2,0,D. Harris,
+300,3,3:21.0,65,73,DAL,NYK,2,away,DefReb,,,DefReb,,E. Freedom,
+301,3,3:14.0,65,73,DAL,NYK,7,away,Traveling,,,turnover,,E. Freedom,
+302,3,3:04.0,65,73,DAL,NYK,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Thomas,S. Mejri
+303,3,3:04.0,65,73,DAL,NYK,0,away,Sub,,,,,K. O'Quinn,E. Freedom
+304,3,2:53.0,67,73,DAL,NYK,11,home,JS,assist,21,make2,2,Y. Ferrell,D. Harris
+305,3,2:52.0,67,73,DAL,NYK,1,away,Timeout,,,,,,
+306,3,2:40.0,67,73,DAL,NYK,12,away,JS,,25,miss3,0,D. McDermott,
+307,3,2:36.0,67,73,DAL,NYK,4,home,DefReb,,,DefReb,,M. Kleber,
+308,3,2:25.0,67,73,DAL,NYK,11,home,JS,,12,miss2,0,Y. Ferrell,
+309,3,2:22.0,67,73,DAL,NYK,3,away,DefReb,,,DefReb,,L. Thomas,
+310,3,2:15.0,67,73,DAL,NYK,7,away,JS,,11,miss2,0,F. Ntilikina,
+311,3,2:12.0,67,73,DAL,NYK,3,home,DefReb,,,DefReb,,D. Harris,
+312,3,2:09.0,69,73,DAL,NYK,3,home,DK,assist,0,make2,2,S. Mejri,D. Harris
+313,3,1:44.0,69,73,DAL,NYK,25,away,JS,,27,miss3,0,C. Lee,
+314,3,1:42.0,69,73,DAL,NYK,2,away,OffReb,,,OffReb,,Team,
+315,3,1:42.0,69,73,DAL,NYK,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Harris,L. Thomas
+316,3,1:42.0,69,73,DAL,NYK,0,home,Sub,,,,,D. Powell,Y. Ferrell
+317,3,1:42.0,69,73,DAL,NYK,0,home,Sub,,,,,J. Barea,S. Mejri
+318,3,1:42.0,69,73,DAL,NYK,0,away,Sub,,,,,K. Porziņģis,L. Thomas
+319,3,1:34.0,69,73,DAL,NYK,8,away,JS,,26,miss3,0,K. Porziņģis,
+320,3,1:30.0,69,73,DAL,NYK,4,home,DefReb,,,DefReb,,D. Powell,
+321,3,1:24.0,69,73,DAL,NYK,6,home,JS,,4,miss2,0,H. Barnes,
+322,3,1:22.0,69,73,DAL,NYK,2,away,DefReb,,,DefReb,,K. Porziņģis,
+323,3,1:05.0,69,75,DAL,NYK,17,away,LU,assist,2,make2,2,K. O'Quinn,F. Ntilikina
+324,3,0:46.0,71,75,DAL,NYK,19,home,JS,,3,make2,2,H. Barnes,
+325,3,0:31.0,71,75,DAL,NYK,15,away,JS,,13,miss2,0,K. Porziņģis,
+326,3,0:28.0,71,75,DAL,NYK,3,home,DefReb,,,DefReb,,D. Harris,
+327,3,0:08.0,71,75,DAL,NYK,20,home,JS,,24,miss3,0,D. Powell,
+328,3,0:04.0,71,75,DAL,NYK,4,away,DefReb,,,DefReb,,F. Ntilikina,
+329,3,0:00.0,71,75,DAL,NYK,4,away,JS,,18,miss2,0,C. Lee,
+330,3,0:00.0,71,75,DAL,NYK,0,away,OffReb,,,OffReb,,Team,
+331,4,11:47.0,71,77,DAL,NYK,13,away,LU,,1,make2,2,F. Ntilikina,
+332,4,11:27.0,73,77,DAL,NYK,20,home,JS,,7,make2,2,D. Harris,
+333,4,11:27.0,73,77,DAL,NYK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. McDermott,D. Harris
+334,4,11:27.0,74,77,DAL,NYK,0,home,FreeThrow,,,make1,1,D. Harris,
+335,4,11:15.0,74,77,DAL,NYK,12,away,JS,,17,miss2,0,F. Ntilikina,
+336,4,11:12.0,74,77,DAL,NYK,3,home,DefReb,,,DefReb,,D. Powell,
+337,4,11:06.0,74,77,DAL,NYK,6,home,LU,block,0,miss2,0,D. Harris,R. Baker
+338,4,11:03.0,74,77,DAL,NYK,3,away,DefReb,,,DefReb,,K. O'Quinn,
+339,4,10:55.0,74,77,DAL,NYK,8,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Powell,K. Porziņģis
+340,4,10:55.0,74,78,DAL,NYK,0,away,FreeThrow,,,make1,1,K. Porziņģis,
+341,4,10:55.0,74,79,DAL,NYK,0,away,FreeThrow,,,make1,1,K. Porziņģis,
+342,4,10:48.0,74,79,DAL,NYK,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Porziņģis,D. Nowitzki
+343,4,10:41.0,74,79,DAL,NYK,7,home,JS,,25,miss3,0,D. Nowitzki,
+344,4,10:36.0,74,79,DAL,NYK,5,away,DefReb,,,DefReb,,K. O'Quinn,
+345,4,10:24.0,74,79,DAL,NYK,12,away,JS,,22,miss2,0,F. Ntilikina,
+346,4,10:21.0,74,79,DAL,NYK,3,home,DefReb,,,DefReb,,D. Powell,
+347,4,10:11.0,74,79,DAL,NYK,10,home,JS,,24,miss3,0,D. Nowitzki,
+348,4,10:07.0,74,79,DAL,NYK,4,away,DefReb,,,DefReb,,K. O'Quinn,
+349,4,9:51.0,74,79,DAL,NYK,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,K. O'Quinn
+350,4,9:51.0,74,79,DAL,NYK,0,away,FreeThrow,,,make1,0,K. O'Quinn,
+351,4,9:51.0,74,79,DAL,NYK,0,away,OffReb,,,OffReb,,Team,
+352,4,9:51.0,74,80,DAL,NYK,0,away,FreeThrow,,,make1,1,K. O'Quinn,
+353,4,9:42.0,74,80,DAL,NYK,9,home,JS,,12,miss2,0,Y. Ferrell,
+354,4,9:40.0,74,80,DAL,NYK,2,home,OffReb,,,OffReb,,Team,
+355,4,9:40.0,74,80,DAL,NYK,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. O'Quinn,D. Powell
+356,4,9:26.0,74,80,DAL,NYK,14,home,JS,,15,miss2,0,D. Nowitzki,
+357,4,9:22.0,74,80,DAL,NYK,4,away,DefReb,,,DefReb,,K. Porziņģis,
+358,4,9:11.0,74,80,DAL,NYK,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Powell,K. Porziņģis
+359,4,9:11.0,74,80,DAL,NYK,0,home,Sub,,,,,W. Matthews,D. Nowitzki
+360,4,9:05.0,74,80,DAL,NYK,6,away,JS,,19,miss2,0,K. Porziņģis,
+361,4,9:02.0,74,80,DAL,NYK,3,away,OffReb,,,OffReb,,K. O'Quinn,
+362,4,8:53.0,74,80,DAL,NYK,9,away,JS,block,15,miss2,0,K. Porziņģis,W. Matthews
+363,4,8:50.0,74,80,DAL,NYK,3,away,OffReb,,,OffReb,,F. Ntilikina,
+364,4,8:43.0,74,80,DAL,NYK,7,away,JS,,17,miss2,0,D. McDermott,
+365,4,8:39.0,74,80,DAL,NYK,4,home,DefReb,,,DefReb,,J. Barea,
+366,4,8:35.0,74,80,DAL,NYK,4,home,LU,block,1,miss2,0,J. Barea,F. Ntilikina
+367,4,8:32.0,74,80,DAL,NYK,3,away,DefReb,,,DefReb,,F. Ntilikina,
+368,4,8:18.0,74,82,DAL,NYK,14,away,LU,assist,2,make2,2,D. McDermott,K. O'Quinn
+369,4,8:18.0,74,82,DAL,NYK,0,home,Timeout,,,,,,
+370,4,8:18.0,74,82,DAL,NYK,0,home,Sub,,,,,S. Mejri,D. Powell
+371,4,8:18.0,74,82,DAL,NYK,0,home,Sub,,,,,D. Smith,Y. Ferrell
+372,4,8:18.0,74,82,DAL,NYK,0,home,Sub,,,,,H. Barnes,D. Harris
+373,4,7:55.0,74,82,DAL,NYK,23,home,JS,,24,miss3,0,J. Barea,
+374,4,7:53.0,74,82,DAL,NYK,2,away,DefReb,,,DefReb,,K. O'Quinn,
+375,4,7:39.0,74,84,DAL,NYK,14,away,JS,,22,make2,2,F. Ntilikina,
+376,4,7:26.0,74,84,DAL,NYK,13,home,JS,,18,miss2,0,W. Matthews,
+377,4,7:23.0,74,84,DAL,NYK,3,away,DefReb,,,DefReb,,F. Ntilikina,
+378,4,7:08.0,74,86,DAL,NYK,15,away,JS,assist,6,make2,2,K. O'Quinn,F. Ntilikina
+379,4,6:56.0,74,86,DAL,NYK,12,home,JS,,24,miss3,0,J. Barea,
+380,4,6:53.0,74,86,DAL,NYK,3,away,DefReb,,,DefReb,,K. O'Quinn,
+381,4,6:39.0,74,86,DAL,NYK,14,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Porziņģis,W. Matthews
+382,4,6:39.0,74,86,DAL,NYK,0,away,Turnover,,,turnover,,K. Porziņģis,
+383,4,6:39.0,74,86,DAL,NYK,0,home,Sub,,,,,Y. Ferrell,J. Barea
+384,4,6:28.0,77,86,DAL,NYK,11,home,JS,assist,25,make3,3,H. Barnes,Y. Ferrell
+385,4,6:06.0,77,86,DAL,NYK,22,away,JS,,17,miss2,0,K. Porziņģis,
+386,4,6:04.0,77,86,DAL,NYK,2,home,DefReb,,,DefReb,,H. Barnes,
+387,4,5:50.0,77,86,DAL,NYK,14,home,LU,block,0,miss2,0,D. Smith,K. O'Quinn
+388,4,5:47.0,77,86,DAL,NYK,3,away,DefReb,,,DefReb,,K. O'Quinn,
+389,4,5:43.0,77,86,DAL,NYK,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Matthews,K. Porziņģis
+390,4,5:43.0,77,86,DAL,NYK,0,away,Sub,,,,,C. Lee,K. Porziņģis
+391,4,5:43.0,77,86,DAL,NYK,0,away,Sub,,,,,W. Hernangómez,R. Baker
+392,4,5:38.0,77,88,DAL,NYK,5,away,LU,assist,0,make2,2,D. McDermott,K. O'Quinn
+393,4,5:14.0,77,88,DAL,NYK,24,home,BadPass,,,turnover,,H. Barnes,
+394,4,4:49.0,77,90,DAL,NYK,25,away,JS,,3,make2,2,K. O'Quinn,
+395,4,4:48.0,77,90,DAL,NYK,1,home,Timeout,,,,,,
+396,4,4:48.0,77,90,DAL,NYK,0,home,Sub,,,,,J. Barea,D. Smith
+397,4,4:48.0,77,90,DAL,NYK,0,home,Sub,,,,,D. Harris,Y. Ferrell
+398,4,4:27.0,80,90,DAL,NYK,21,home,JS,assist,25,make3,3,D. Harris,H. Barnes
+399,4,4:06.0,80,90,DAL,NYK,21,away,LU,,2,miss2,0,C. Lee,
+400,4,4:04.0,80,90,DAL,NYK,2,home,DefReb,,,DefReb,,S. Mejri,
+401,4,3:59.0,80,90,DAL,NYK,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,F. Ntilikina,J. Barea
+402,4,3:59.0,81,90,DAL,NYK,0,home,FreeThrow,,,make1,1,J. Barea,
+403,4,3:59.0,81,90,DAL,NYK,0,away,Sub,,,,,K. Porziņģis,W. Hernangómez
+404,4,3:59.0,81,90,DAL,NYK,0,away,Sub,,,,,L. Thomas,D. McDermott
+405,4,3:59.0,82,90,DAL,NYK,0,home,FreeThrow,,,make1,1,J. Barea,
+406,4,3:41.0,82,90,DAL,NYK,18,away,bad pass,steal,,turnover,,F. Ntilikina,D. Harris
+407,4,3:39.0,84,90,DAL,NYK,2,home,LU,assist,1,make2,2,J. Barea,D. Harris
+408,4,3:39.0,84,90,DAL,NYK,0,away,Timeout,,,,,,
+409,4,3:39.0,84,90,DAL,NYK,0,away,Sub,,,,,J. Jack,F. Ntilikina
+410,4,3:25.0,84,90,DAL,NYK,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Matthews,K. Porziņģis
+411,4,3:25.0,84,91,DAL,NYK,0,away,FreeThrow,,,make1,1,K. Porziņģis,
+412,4,3:25.0,84,92,DAL,NYK,0,away,FreeThrow,,,make1,1,K. Porziņģis,
+413,4,3:13.0,87,92,DAL,NYK,12,home,JS,assist,24,make3,3,H. Barnes,D. Harris
+414,4,2:52.0,87,92,DAL,NYK,21,away,LU,,7,miss2,0,J. Jack,
+415,4,2:51.0,87,92,DAL,NYK,1,home,DefReb,,,DefReb,,Team,
+416,4,2:51.0,87,92,DAL,NYK,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. O'Quinn,S. Mejri
+417,4,2:51.0,88,92,DAL,NYK,0,home,FreeThrow,,,make1,1,S. Mejri,
+418,4,2:51.0,89,92,DAL,NYK,0,home,FreeThrow,,,make1,1,S. Mejri,
+419,4,2:41.0,89,92,DAL,NYK,10,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Jack,D. Harris
+420,4,2:41.0,89,92,DAL,NYK,0,away,OffensiveFoul,,,turnover,,J. Jack,
+421,4,2:28.0,92,92,DAL,NYK,13,home,JS,assist,25,make3,3,D. Harris,H. Barnes
+422,4,2:04.0,92,92,DAL,NYK,24,away,JS,,25,miss3,0,L. Thomas,
+423,4,2:00.0,92,92,DAL,NYK,4,home,DefReb,,,DefReb,,J. Barea,
+424,4,1:41.0,92,92,DAL,NYK,19,home,JS,,15,miss2,0,H. Barnes,
+425,4,1:38.0,92,92,DAL,NYK,3,away,DefReb,,,DefReb,,C. Lee,
+426,4,1:28.0,92,92,DAL,NYK,10,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,W. Matthews,K. Porziņģis
+427,4,1:28.0,92,93,DAL,NYK,0,away,FreeThrow,,,make1,1,K. Porziņģis,
+428,4,1:28.0,92,94,DAL,NYK,0,away,FreeThrow,,,make1,1,K. Porziņģis,
+429,4,1:18.0,94,94,DAL,NYK,10,home,JS,assist,16,make2,2,H. Barnes,D. Harris
+430,4,1:04.0,94,94,DAL,NYK,14,away,JS,,19,miss2,0,K. Porziņģis,
+431,4,1:01.0,94,94,DAL,NYK,3,away,OffReb,,,OffReb,,K. O'Quinn,
+432,4,1:00.0,94,94,DAL,NYK,1,away,Timeout,,,,,,
+433,4,1:00.0,94,94,DAL,NYK,0,home,Sub,,,,,D. Powell,S. Mejri
+434,4,0:55.0,94,94,DAL,NYK,5,away,JS,,11,miss2,0,K. Porziņģis,
+435,4,0:51.0,94,94,DAL,NYK,4,home,DefReb,,,DefReb,,H. Barnes,
+436,4,0:39.0,94,94,DAL,NYK,12,home,bad pass,steal,,turnover,,J. Barea,K. O'Quinn
+437,4,0:31.0,94,96,DAL,NYK,8,away,JS,,10,make2,2,J. Jack,
+438,4,0:31.0,94,96,DAL,NYK,0,home,Timeout,,,,,,
+439,4,0:31.0,94,96,DAL,NYK,0,home,Sub,,,,,D. Nowitzki,D. Powell
+440,4,0:19.0,94,96,DAL,NYK,12,home,JS,,26,miss3,0,J. Barea,
+441,4,0:16.0,94,96,DAL,NYK,3,away,DefReb,,,DefReb,,C. Lee,
+442,4,0:16.0,94,96,DAL,NYK,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Harris,C. Lee
+443,4,0:16.0,94,97,DAL,NYK,0,away,FreeThrow,,,make1,1,C. Lee,
+444,4,0:16.0,94,98,DAL,NYK,0,away,FreeThrow,,,make1,1,C. Lee,
+445,4,0:10.0,94,98,DAL,NYK,6,home,JS,,25,miss3,0,H. Barnes,
+446,4,0:07.0,94,98,DAL,NYK,3,away,DefReb,,,DefReb,,L. Thomas,
+447,4,0:07.0,94,98,DAL,NYK,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Harris,C. Lee
+448,4,0:07.0,94,99,DAL,NYK,0,away,FreeThrow,,,make1,1,C. Lee,
+449,4,0:07.0,94,100,DAL,NYK,0,away,FreeThrow,,,make1,1,C. Lee,
+450,4,0:07.0,94,100,DAL,NYK,0,home,Timeout,,,,,,
+451,4,0:07.0,94,100,DAL,NYK,0,home,Sub,,,,,D. Powell,J. Barea
+452,4,0:01.0,96,100,DAL,NYK,6,home,JS,assist,16,make2,2,H. Barnes,D. Powell

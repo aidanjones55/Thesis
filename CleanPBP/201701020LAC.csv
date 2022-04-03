@@ -1,0 +1,507 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,0,0,LAC,PHO,17,home,JS,block,6,miss2,0,J. Redick,M. Chriss
+1,1,11:41.0,0,0,LAC,PHO,2,home,OffReb,,,OffReb,,J. Redick,
+2,1,11:36.0,2,0,LAC,PHO,5,home,JS,,12,make2,2,J. Redick,
+3,1,11:17.0,2,0,LAC,PHO,19,away,JS,block,4,miss2,0,M. Chriss,D. Jordan
+4,1,11:15.0,2,0,LAC,PHO,2,away,OffReb,,,OffReb,,M. Chriss,
+5,1,11:13.0,2,0,LAC,PHO,2,away,JS,,27,miss3,0,D. Booker,
+6,1,11:11.0,2,0,LAC,PHO,2,home,DefReb,,,DefReb,,R. Felton,
+7,1,11:01.0,2,0,LAC,PHO,10,home,JS,,19,miss2,0,R. Felton,
+8,1,10:58.0,2,0,LAC,PHO,3,home,OffReb,,,OffReb,,L. Mbah a Moute,
+9,1,10:44.0,4,0,LAC,PHO,14,home,LU,,2,make2,2,L. Mbah a Moute,
+10,1,10:39.0,4,0,LAC,PHO,5,away,BadPass,,,turnover,,E. Bledsoe,
+11,1,10:20.0,4,0,LAC,PHO,19,home,LostBall,,,turnover,,L. Mbah a Moute,
+12,1,10:00.0,4,2,LAC,PHO,20,away,LU,assist,4,make2,2,T. Chandler,E. Bledsoe
+13,1,9:45.0,4,2,LAC,PHO,15,home,PersonalFoul,,,,,T. Warren,
+14,1,9:41.0,4,2,LAC,PHO,4,home,BadPass,steal,,turnover,,R. Felton,E. Bledsoe
+15,1,9:38.0,4,4,LAC,PHO,3,away,DK,assist,0,make2,2,T. Warren,E. Bledsoe
+16,1,9:38.0,4,4,LAC,PHO,0,home,Timeout,,,,,,
+17,1,9:21.0,4,4,LAC,PHO,17,home,JS,,28,miss3,0,J. Redick,
+18,1,9:19.0,4,4,LAC,PHO,2,away,DefReb,,,DefReb,,T. Warren,
+19,1,9:01.0,4,4,LAC,PHO,18,away,BadPass,,,turnover,,E. Bledsoe,
+20,1,8:45.0,6,4,LAC,PHO,16,home,JS,assist,8,make2,2,J. Redick,R. Felton
+21,1,8:27.0,6,4,LAC,PHO,18,away,JS,,15,miss2,0,E. Bledsoe,
+22,1,8:24.0,6,4,LAC,PHO,3,home,DefReb,,,DefReb,,L. Mbah a Moute,
+23,1,8:10.0,6,4,LAC,PHO,14,home,JS,,5,miss2,0,A. Rivers,
+24,1,8:10.0,6,4,LAC,PHO,0,home,OffReb,,,OffReb,,D. Jordan,
+25,1,8:10.0,6,4,LAC,PHO,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Chriss,D. Jordan
+26,1,8:10.0,7,4,LAC,PHO,0,home,FreeThrow,,,make1,1,D. Jordan,
+27,1,8:10.0,7,4,LAC,PHO,0,home,FreeThrow,,,make1,0,D. Jordan,
+28,1,8:09.0,7,4,LAC,PHO,1,away,DefReb,,,DefReb,,T. Warren,
+29,1,8:08.0,7,4,LAC,PHO,1,away,PersonalFoul,,,,,L. Mbah a Moute,
+30,1,7:59.0,7,4,LAC,PHO,9,away,JS,,19,miss2,0,D. Booker,
+31,1,7:56.0,7,4,LAC,PHO,3,away,OffReb,,,OffReb,,T. Chandler,
+32,1,7:55.0,7,7,LAC,PHO,1,away,JS,assist,25,make3,3,D. Booker,T. Chandler
+33,1,7:38.0,9,7,LAC,PHO,17,home,JS,assist,20,make2,2,J. Redick,A. Rivers
+34,1,7:26.0,9,7,LAC,PHO,12,away,LU,,3,miss2,0,E. Bledsoe,
+35,1,7:24.0,9,7,LAC,PHO,2,home,DefReb,,,DefReb,,D. Jordan,
+36,1,7:20.0,12,7,LAC,PHO,4,home,JS,assist,29,make3,3,J. Redick,D. Jordan
+37,1,7:20.0,12,7,LAC,PHO,0,away,Timeout,,,,,,
+38,1,7:04.0,12,7,LAC,PHO,16,away,BadPass,,,turnover,,D. Booker,
+39,1,6:50.0,12,7,LAC,PHO,14,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,L. Mbah a Moute,M. Chriss
+40,1,6:50.0,12,7,LAC,PHO,0,home,OffensiveFoul,,,turnover,,L. Mbah a Moute,
+41,1,6:42.0,12,9,LAC,PHO,8,away,JS,,13,make2,2,E. Bledsoe,
+42,1,6:24.0,12,9,LAC,PHO,18,home,JS,,24,miss3,0,R. Felton,
+43,1,6:23.0,12,9,LAC,PHO,1,home,OffReb,,,OffReb,,D. Jordan,
+44,1,6:08.0,12,9,LAC,PHO,15,home,BadPass,steal,,turnover,,R. Felton,D. Booker
+45,1,6:03.0,12,11,LAC,PHO,5,away,LU,,4,make2,2,D. Booker,
+46,1,5:51.0,15,11,LAC,PHO,12,home,JS,assist,24,make3,3,A. Rivers,R. Felton
+47,1,5:42.0,15,11,LAC,PHO,9,away,BadPass,,,turnover,,M. Chriss,
+48,1,5:42.0,15,11,LAC,PHO,0,home,Sub,,,,,B. Bass,L. Mbah a Moute
+49,1,5:38.0,15,11,LAC,PHO,4,away,ChargeFoul,DrawnBy,,ChargeFoul,,R. Felton,E. Bledsoe
+50,1,5:38.0,15,11,LAC,PHO,0,home,OffensiveFoul,,,turnover,,R. Felton,
+51,1,5:38.0,15,11,LAC,PHO,0,away,Sub,,,,,P. Tucker,M. Chriss
+52,1,5:20.0,15,11,LAC,PHO,18,away,JS,,26,miss3,0,D. Booker,
+53,1,5:19.0,15,11,LAC,PHO,1,home,DefReb,,,DefReb,,A. Rivers,
+54,1,5:10.0,15,11,LAC,PHO,9,home,LU,,4,miss2,0,D. Jordan,
+55,1,5:05.0,15,11,LAC,PHO,5,home,OffReb,,,OffReb,,D. Jordan,
+56,1,5:05.0,17,11,LAC,PHO,0,home,DK,,0,make2,2,D. Jordan,
+57,1,4:53.0,17,13,LAC,PHO,12,away,JS,assist,13,make2,2,T. Warren,E. Bledsoe
+58,1,4:44.0,17,13,LAC,PHO,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Booker,J. Redick
+59,1,4:44.0,17,13,LAC,PHO,0,away,Sub,,,,,A. Len,T. Chandler
+60,1,4:39.0,17,13,LAC,PHO,5,home,LostBall,steal,,turnover,,B. Bass,P. Tucker
+61,1,4:33.0,17,13,LAC,PHO,6,away,LU,,4,miss2,0,A. Len,
+62,1,4:30.0,17,13,LAC,PHO,3,away,OffReb,,,OffReb,,A. Len,
+63,1,4:30.0,17,15,LAC,PHO,0,away,LU,,2,make2,2,A. Len,
+64,1,4:13.0,17,15,LAC,PHO,17,home,JS,,26,miss3,0,A. Rivers,
+65,1,4:10.0,17,15,LAC,PHO,3,away,DefReb,,,DefReb,,E. Bledsoe,
+66,1,4:01.0,17,17,LAC,PHO,9,away,JS,assist,13,make2,2,T. Warren,E. Bledsoe
+67,1,3:33.0,19,17,LAC,PHO,28,home,JS,assist,13,make2,2,B. Bass,A. Rivers
+68,1,3:21.0,19,19,LAC,PHO,12,away,LU,,4,make2,2,E. Bledsoe,
+69,1,3:09.0,19,19,LAC,PHO,12,home,JS,,17,miss2,0,R. Felton,
+70,1,3:09.0,19,19,LAC,PHO,0,home,OffReb,,,OffReb,,Team,
+71,1,3:09.0,19,19,LAC,PHO,0,home,Sub,,,,,J. Crawford,J. Redick
+72,1,3:09.0,19,19,LAC,PHO,0,home,Sub,,,,,W. Johnson,A. Rivers
+73,1,3:05.0,19,19,LAC,PHO,4,home,BadPass,steal,,turnover,,D. Jordan,E. Bledsoe
+74,1,2:53.0,19,19,LAC,PHO,12,away,JS,,17,miss2,0,E. Bledsoe,
+75,1,2:50.0,19,19,LAC,PHO,3,home,DefReb,,,DefReb,,D. Jordan,
+76,1,2:43.0,21,19,LAC,PHO,7,home,LU,assist,2,make2,2,B. Bass,J. Crawford
+77,1,2:43.0,21,19,LAC,PHO,0,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,A. Len,B. Bass
+78,1,2:43.0,21,19,LAC,PHO,0,home,Timeout,,,,,,
+79,1,2:43.0,21,19,LAC,PHO,0,home,FreeThrow,,,make1,0,B. Bass,
+80,1,2:43.0,21,19,LAC,PHO,0,away,Sub,,,,,B. Knight,E. Bledsoe
+81,1,2:43.0,21,19,LAC,PHO,0,home,Sub,,,,,A. Rivers,R. Felton
+82,1,2:42.0,21,19,LAC,PHO,1,away,DefReb,,,DefReb,,A. Len,
+83,1,2:30.0,21,21,LAC,PHO,12,away,JS,assist,18,make2,2,T. Warren,B. Knight
+84,1,2:13.0,21,21,LAC,PHO,17,home,HS,,5,miss2,0,D. Jordan,
+85,1,2:10.0,21,21,LAC,PHO,3,away,DefReb,,,DefReb,,A. Len,
+86,1,2:03.0,21,21,LAC,PHO,7,away,JS,,7,miss2,0,B. Knight,
+87,1,2:01.0,21,21,LAC,PHO,2,home,DefReb,,,DefReb,,W. Johnson,
+88,1,1:55.0,23,21,LAC,PHO,6,home,LU,,3,make2,2,J. Crawford,
+89,1,1:39.0,23,21,LAC,PHO,16,away,JS,,15,miss2,0,A. Len,
+90,1,1:37.0,23,21,LAC,PHO,2,away,OffReb,,,OffReb,,P. Tucker,
+91,1,1:30.0,23,21,LAC,PHO,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Rivers,B. Knight
+92,1,1:30.0,23,21,LAC,PHO,0,home,Sub,,,,,M. Speights,D. Jordan
+93,1,1:25.0,23,21,LAC,PHO,5,away,JS,,12,miss2,0,T. Warren,
+94,1,1:23.0,23,21,LAC,PHO,2,home,DefReb,,,DefReb,,Team,
+95,1,1:00.0,25,21,LAC,PHO,23,home,DK,assist,0,make2,2,B. Bass,J. Crawford
+96,1,0:54.0,25,21,LAC,PHO,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crawford,D. Booker
+97,1,0:54.0,25,22,LAC,PHO,0,away,FreeThrow,,,make1,1,D. Booker,
+98,1,0:54.0,25,22,LAC,PHO,0,away,FreeThrow,,,make1,0,D. Booker,
+99,1,0:51.0,25,22,LAC,PHO,3,home,DefReb,,,DefReb,,M. Speights,
+100,1,0:44.0,25,22,LAC,PHO,7,home,LostBall,steal,,turnover,,J. Crawford,P. Tucker
+101,1,0:40.0,25,24,LAC,PHO,4,away,LU,assist,3,make2,2,T. Warren,B. Knight
+102,1,0:26.0,25,24,LAC,PHO,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,A. Rivers
+103,1,0:26.0,26,24,LAC,PHO,0,home,FreeThrow,,,make1,1,A. Rivers,
+104,1,0:26.0,27,24,LAC,PHO,0,home,FreeThrow,,,make1,1,A. Rivers,
+105,1,0:04.0,27,26,LAC,PHO,22,away,JS,,3,make2,2,B. Knight,
+106,1,0:01.0,27,26,LAC,PHO,3,home,JS,,52,miss3,0,W. Johnson,
+107,1,0:00.0,27,26,LAC,PHO,1,home,OffReb,,,OffReb,,Team,
+108,2,11:47.0,27,26,LAC,PHO,13,away,JS,,2,miss2,0,L. Barbosa,
+109,2,11:46.0,27,26,LAC,PHO,1,home,DefReb,,,DefReb,,M. Speights,
+110,2,11:40.0,27,26,LAC,PHO,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bender,M. Speights
+111,2,11:40.0,28,26,LAC,PHO,0,home,FreeThrow,,,make1,1,M. Speights,
+112,2,11:40.0,29,26,LAC,PHO,0,home,FreeThrow,,,make1,1,M. Speights,
+113,2,11:18.0,29,28,LAC,PHO,22,away,DK,assist,0,make2,2,A. Len,L. Barbosa
+114,2,11:02.0,32,28,LAC,PHO,16,home,JS,assist,25,make3,3,M. Speights,J. Crawford
+115,2,10:44.0,32,30,LAC,PHO,18,away,DK,assist,0,make2,2,A. Len,L. Barbosa
+116,2,10:33.0,35,30,LAC,PHO,11,home,JS,assist,26,make3,3,W. Johnson,A. Rivers
+117,2,10:22.0,35,30,LAC,PHO,11,away,JS,block,18,miss2,0,L. Barbosa,W. Johnson
+118,2,10:18.0,35,30,LAC,PHO,4,home,DefReb,,,DefReb,,J. Crawford,
+119,2,10:15.0,35,30,LAC,PHO,3,home,LU,,5,miss2,0,J. Crawford,
+120,2,10:12.0,35,30,LAC,PHO,3,home,OffReb,,,OffReb,,B. Bass,
+121,2,10:12.0,35,30,LAC,PHO,0,home,LU,,2,miss2,0,B. Bass,
+122,2,10:09.0,35,30,LAC,PHO,3,away,DefReb,,,DefReb,,D. Bender,
+123,2,10:04.0,35,30,LAC,PHO,5,away,OutOfBounds,,,turnover,,D. Bender,
+124,2,9:52.0,37,30,LAC,PHO,12,home,LU,,2,make2,2,A. Rivers,
+125,2,9:52.0,37,30,LAC,PHO,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Knight,A. Rivers
+126,2,9:52.0,38,30,LAC,PHO,0,home,FreeThrow,,,make1,1,A. Rivers,
+127,2,9:52.0,38,30,LAC,PHO,0,away,Timeout,,,,,,
+128,2,9:29.0,38,30,LAC,PHO,23,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Rivers,B. Knight
+129,2,9:29.0,38,32,LAC,PHO,0,away,JS,assist,17,make2,2,B. Knight,L. Barbosa
+130,2,9:29.0,38,33,LAC,PHO,0,away,FreeThrow,,,make1,1,B. Knight,
+131,2,9:14.0,38,33,LAC,PHO,15,home,JS,,19,miss2,0,A. Rivers,
+132,2,9:12.0,38,33,LAC,PHO,2,away,DefReb,,,DefReb,,D. Bender,
+133,2,9:03.0,38,33,LAC,PHO,9,away,JS,,26,miss3,0,L. Barbosa,
+134,2,9:01.0,38,33,LAC,PHO,2,home,DefReb,,,DefReb,,M. Speights,
+135,2,8:54.0,40,33,LAC,PHO,7,home,JS,,18,make2,2,J. Crawford,
+136,2,8:44.0,40,33,LAC,PHO,10,away,JS,,11,miss2,0,B. Knight,
+137,2,8:39.0,40,33,LAC,PHO,5,home,DefReb,,,DefReb,,W. Johnson,
+138,2,8:34.0,42,33,LAC,PHO,5,home,JS,,20,make2,2,J. Crawford,
+139,2,8:28.0,42,35,LAC,PHO,6,away,JS,assist,20,make2,2,P. Tucker,B. Knight
+140,2,8:03.0,42,35,LAC,PHO,25,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Barbosa,M. Speights
+141,2,8:03.0,43,35,LAC,PHO,0,home,FreeThrow,,,make1,1,M. Speights,
+142,2,8:03.0,43,35,LAC,PHO,0,home,Sub,,,,,J. Redick,W. Johnson
+143,2,8:03.0,44,35,LAC,PHO,0,home,FreeThrow,,,make1,1,M. Speights,
+144,2,7:48.0,44,35,LAC,PHO,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,L. Barbosa
+145,2,7:48.0,44,36,LAC,PHO,0,away,FreeThrow,,,make1,1,L. Barbosa,
+146,2,7:48.0,44,37,LAC,PHO,0,away,FreeThrow,,,make1,1,L. Barbosa,
+147,2,7:35.0,44,37,LAC,PHO,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bender,M. Speights
+148,2,7:35.0,45,37,LAC,PHO,0,home,FreeThrow,,,make1,1,M. Speights,
+149,2,7:35.0,46,37,LAC,PHO,0,home,FreeThrow,,,make1,1,M. Speights,
+150,2,7:20.0,46,37,LAC,PHO,15,away,JS,,19,miss2,0,D. Bender,
+151,2,7:19.0,46,37,LAC,PHO,1,home,DefReb,,,DefReb,,A. Rivers,
+152,2,7:14.0,46,37,LAC,PHO,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Knight,B. Bass
+153,2,7:14.0,47,37,LAC,PHO,0,home,FreeThrow,,,make1,1,B. Bass,
+154,2,7:14.0,47,37,LAC,PHO,0,away,Sub,,,,,T. Warren,D. Bender
+155,2,7:14.0,47,37,LAC,PHO,0,away,Sub,,,,,D. Booker,L. Barbosa
+156,2,7:14.0,47,37,LAC,PHO,0,away,Sub,,,,,E. Bledsoe,B. Knight
+157,2,7:14.0,48,37,LAC,PHO,0,home,FreeThrow,,,make1,1,B. Bass,
+158,2,7:00.0,48,37,LAC,PHO,14,away,JS,block,3,miss2,0,A. Len,M. Speights
+159,2,7:00.0,48,37,LAC,PHO,0,away,OffReb,,,OffReb,,A. Len,
+160,2,7:00.0,48,37,LAC,PHO,0,away,LU,block,3,miss2,0,A. Len,M. Speights
+161,2,7:00.0,48,37,LAC,PHO,0,away,OffReb,,,OffReb,,Team,
+162,2,7:00.0,48,37,LAC,PHO,0,home,Sub,,,,,D. Jordan,B. Bass
+163,2,7:00.0,48,37,LAC,PHO,0,home,Sub,,,,,R. Felton,A. Rivers
+164,2,6:54.0,48,39,LAC,PHO,6,away,JS,assist,18,make2,2,A. Len,D. Booker
+165,2,6:33.0,48,39,LAC,PHO,21,home,JS,,8,miss2,0,M. Speights,
+166,2,6:33.0,48,39,LAC,PHO,0,away,DefReb,,,DefReb,,Team,
+167,2,6:33.0,48,39,LAC,PHO,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Jordan,A. Len
+168,2,6:33.0,48,39,LAC,PHO,0,home,Sub,,,,,L. Mbah a Moute,M. Speights
+169,2,6:17.0,48,41,LAC,PHO,16,away,JS,,20,make2,2,E. Bledsoe,
+170,2,6:00.0,50,41,LAC,PHO,17,home,JS,assist,13,make2,2,J. Crawford,R. Felton
+171,2,5:37.0,50,41,LAC,PHO,23,away,JS,,12,miss2,0,D. Booker,
+172,2,5:34.0,50,41,LAC,PHO,3,away,OffReb,,,OffReb,,A. Len,
+173,2,5:34.0,50,43,LAC,PHO,0,away,DK,,0,make2,2,A. Len,
+174,2,5:19.0,53,43,LAC,PHO,15,home,JS,assist,26,make3,3,J. Redick,D. Jordan
+175,2,5:06.0,53,43,LAC,PHO,13,away,BadPass,,,turnover,,D. Booker,
+176,2,5:06.0,53,43,LAC,PHO,0,away,Timeout,,,,,,
+177,2,4:59.0,53,43,LAC,PHO,7,home,LostBall,steal,,turnover,,J. Crawford,D. Booker
+178,2,4:54.0,53,45,LAC,PHO,5,away,DK,assist,0,make2,2,D. Booker,T. Warren
+179,2,4:40.0,53,45,LAC,PHO,14,home,LostBall,,,turnover,,L. Mbah a Moute,
+180,2,4:20.0,53,45,LAC,PHO,20,away,JS,,6,miss2,0,T. Warren,
+181,2,4:19.0,53,45,LAC,PHO,1,home,DefReb,,,DefReb,,D. Jordan,
+182,2,4:19.0,53,45,LAC,PHO,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Len,D. Jordan
+183,2,4:19.0,53,45,LAC,PHO,0,home,FreeThrow,,,make1,0,D. Jordan,
+184,2,4:19.0,53,45,LAC,PHO,0,home,OffReb,,,OffReb,,Team,
+185,2,4:19.0,53,45,LAC,PHO,0,home,FreeThrow,,,make1,0,D. Jordan,
+186,2,4:19.0,53,45,LAC,PHO,0,away,Sub,,,,,T. Chandler,A. Len
+187,2,4:17.0,53,45,LAC,PHO,2,away,DefReb,,,DefReb,,P. Tucker,
+188,2,4:08.0,53,47,LAC,PHO,9,away,JS,assist,15,make2,2,P. Tucker,E. Bledsoe
+189,2,3:54.0,55,47,LAC,PHO,14,home,JS,,6,make2,2,J. Redick,
+190,2,3:41.0,55,47,LAC,PHO,13,away,JS,,17,miss2,0,T. Warren,
+191,2,3:39.0,55,47,LAC,PHO,2,home,DefReb,,,DefReb,,J. Crawford,
+192,2,3:30.0,55,47,LAC,PHO,9,home,LostBall,steal,,turnover,,D. Jordan,T. Chandler
+193,2,3:27.0,55,47,LAC,PHO,3,away,LU,block,3,miss2,0,E. Bledsoe,J. Crawford
+194,2,3:26.0,55,47,LAC,PHO,1,away,OffReb,,,OffReb,,T. Warren,
+195,2,3:24.0,55,49,LAC,PHO,2,away,LU,,1,make2,2,T. Warren,
+196,2,3:12.0,55,49,LAC,PHO,12,home,PersonalFoul,,,,,T. Warren,
+197,2,3:12.0,56,49,LAC,PHO,0,home,FreeThrow,,,make1,1,J. Crawford,
+198,2,3:12.0,57,49,LAC,PHO,0,home,FreeThrow,,,make1,1,J. Crawford,
+199,2,3:00.0,57,49,LAC,PHO,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Mbah a Moute,T. Chandler
+200,2,3:00.0,57,50,LAC,PHO,0,away,FreeThrow,,,make1,1,T. Chandler,
+201,2,3:00.0,57,50,LAC,PHO,0,home,Sub,,,,,A. Rivers,J. Crawford
+202,2,3:00.0,57,51,LAC,PHO,0,away,FreeThrow,,,make1,1,T. Chandler,
+203,2,2:43.0,59,51,LAC,PHO,17,home,DK,assist,0,make2,2,L. Mbah a Moute,R. Felton
+204,2,2:19.0,59,53,LAC,PHO,24,away,JS,,9,make2,2,E. Bledsoe,
+205,2,2:09.0,61,53,LAC,PHO,10,home,LU,,1,make2,2,R. Felton,
+206,2,1:55.0,61,53,LAC,PHO,14,away,JS,,26,miss3,0,T. Warren,
+207,2,1:55.0,61,53,LAC,PHO,0,away,OffReb,,,OffReb,,Team,
+208,2,1:55.0,61,53,LAC,PHO,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Jordan,T. Chandler
+209,2,1:55.0,61,53,LAC,PHO,0,home,Timeout,,,,,,
+210,2,1:55.0,61,53,LAC,PHO,0,home,TechnicalFoul,,,TechnicalFoul,,D. Jordan,
+211,2,1:55.0,61,54,LAC,PHO,0,away,FreeThrow,,,make1,1,E. Bledsoe makes technical free throw,
+212,2,1:55.0,61,55,LAC,PHO,0,away,FreeThrow,,,make1,1,T. Chandler,
+213,2,1:55.0,61,56,LAC,PHO,0,away,FreeThrow,,,make1,1,T. Chandler,
+214,2,1:43.0,61,56,LAC,PHO,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,D. Jordan
+215,2,1:43.0,62,56,LAC,PHO,0,home,FreeThrow,,,make1,1,D. Jordan,
+216,2,1:43.0,63,56,LAC,PHO,0,home,FreeThrow,,,make1,1,D. Jordan,
+217,2,1:29.0,63,56,LAC,PHO,14,away,LU,,3,miss2,0,P. Tucker,
+218,2,1:29.0,63,56,LAC,PHO,0,home,DefReb,,,DefReb,,Team,
+219,2,1:17.0,63,56,LAC,PHO,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Chandler,A. Rivers
+220,2,1:17.0,63,56,LAC,PHO,0,home,FreeThrow,,,make1,0,A. Rivers,
+221,2,1:17.0,63,56,LAC,PHO,0,home,OffReb,,,OffReb,,Team,
+222,2,1:17.0,64,56,LAC,PHO,0,home,FreeThrow,,,make1,1,A. Rivers,
+223,2,1:05.0,64,56,LAC,PHO,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Booker,J. Redick
+224,2,1:05.0,64,56,LAC,PHO,0,away,OffensiveFoul,,,turnover,,D. Booker,
+225,2,1:05.0,64,56,LAC,PHO,0,home,Sub,,,,,W. Johnson,L. Mbah a Moute
+226,2,0:58.0,64,56,LAC,PHO,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Jordan,P. Tucker
+227,2,0:58.0,64,56,LAC,PHO,0,home,OffensiveFoul,,,turnover,,D. Jordan,
+228,2,0:58.0,64,56,LAC,PHO,0,home,Sub,,,,,M. Speights,D. Jordan
+229,2,0:44.0,64,56,LAC,PHO,14,away,LU,block,3,miss2,0,E. Bledsoe,W. Johnson
+230,2,0:41.0,64,56,LAC,PHO,3,home,DefReb,,,DefReb,,M. Speights,
+231,2,0:30.0,64,56,LAC,PHO,11,home,JS,,27,miss3,0,A. Rivers,
+232,2,0:29.0,64,56,LAC,PHO,1,away,DefReb,,,DefReb,,P. Tucker,
+233,2,0:05.0,64,56,LAC,PHO,24,away,JS,,21,miss2,0,D. Booker,
+234,2,0:02.0,64,56,LAC,PHO,3,away,OffReb,,,OffReb,,P. Tucker,
+235,2,0:02.0,64,58,LAC,PHO,0,away,JS,,16,make2,2,P. Tucker,
+236,2,0:01.0,64,58,LAC,PHO,1,home,JS,,53,miss3,0,R. Felton,
+237,2,0:00.0,64,58,LAC,PHO,1,home,OffReb,,,OffReb,,Team,
+238,3,11:47.0,64,58,LAC,PHO,13,away,JS,,19,miss2,0,E. Bledsoe,
+239,3,11:44.0,64,58,LAC,PHO,3,home,DefReb,,,DefReb,,L. Mbah a Moute,
+240,3,11:41.0,64,58,LAC,PHO,3,away,FlagrantFoul1,DrawnBy,,FlagrantFoul1,,J. Redick,D. Booker
+241,3,11:41.0,64,58,LAC,PHO,0,home,SwingingElbows,,,turnover,,J. Redick,
+242,3,11:41.0,64,59,LAC,PHO,0,away,FreeThrow,,,make1,1,D. Booker makes flagrant free throw 1 of 2,
+243,3,11:41.0,64,60,LAC,PHO,0,away,FreeThrow,,,make1,1,D. Booker makes flagrant free throw 2 of 2,
+244,3,11:30.0,64,60,LAC,PHO,11,away,JS,,25,miss3,0,M. Chriss,
+245,3,11:29.0,64,60,LAC,PHO,1,home,DefReb,,,DefReb,,J. Redick,
+246,3,11:12.0,66,60,LAC,PHO,17,home,LU,assist,2,make2,2,L. Mbah a Moute,A. Rivers
+247,3,10:45.0,66,60,LAC,PHO,27,away,JS,,19,miss2,0,M. Chriss,
+248,3,10:44.0,66,60,LAC,PHO,1,home,DefReb,,,DefReb,,D. Jordan,
+249,3,10:38.0,66,60,LAC,PHO,6,home,BadPass,steal,,turnover,,R. Felton,M. Chriss
+250,3,10:26.0,66,60,LAC,PHO,12,away,JS,,17,miss2,0,E. Bledsoe,
+251,3,10:25.0,66,60,LAC,PHO,1,home,DefReb,,,DefReb,,Team,
+252,3,10:25.0,66,60,LAC,PHO,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Chriss,J. Redick
+253,3,10:10.0,66,60,LAC,PHO,15,home,JS,,27,miss3,0,J. Redick,
+254,3,10:09.0,66,60,LAC,PHO,1,away,DefReb,,,DefReb,,E. Bledsoe,
+255,3,10:01.0,66,60,LAC,PHO,8,away,JS,,19,miss2,0,T. Warren,
+256,3,10:00.0,66,60,LAC,PHO,1,home,DefReb,,,DefReb,,A. Rivers,
+257,3,9:56.0,66,60,LAC,PHO,4,away,DefGoaltending,,,DefGoaltending,,D. Booker,
+258,3,9:56.0,68,60,LAC,PHO,0,home,LU,assist,2,make2,2,J. Redick,A. Rivers
+259,3,9:46.0,68,60,LAC,PHO,10,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Chandler,J. Redick
+260,3,9:46.0,68,60,LAC,PHO,0,away,OffensiveFoul,,,turnover,,T. Chandler,
+261,3,9:30.0,68,60,LAC,PHO,16,home,JS,block,21,miss2,0,J. Redick,M. Chriss
+262,3,9:29.0,68,60,LAC,PHO,1,away,DefReb,,,DefReb,,T. Chandler,
+263,3,9:19.0,68,62,LAC,PHO,10,away,DK,assist,0,make2,2,M. Chriss,D. Booker
+264,3,9:06.0,68,62,LAC,PHO,13,home,JS,,9,miss2,0,A. Rivers,
+265,3,9:03.0,68,62,LAC,PHO,3,away,DefReb,,,DefReb,,D. Booker,
+266,3,9:00.0,68,64,LAC,PHO,3,away,LU,,2,make2,2,D. Booker,
+267,3,8:59.0,68,64,LAC,PHO,1,home,Timeout,,,,,,
+268,3,8:46.0,68,64,LAC,PHO,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Bledsoe,R. Felton
+269,3,8:38.0,68,64,LAC,PHO,8,home,JS,,19,miss2,0,R. Felton,
+270,3,8:34.0,68,64,LAC,PHO,4,away,DefReb,,,DefReb,,E. Bledsoe,
+271,3,8:24.0,68,64,LAC,PHO,10,away,LU,block,3,miss2,0,E. Bledsoe,L. Mbah a Moute
+272,3,8:23.0,68,64,LAC,PHO,1,away,OffReb,,,OffReb,,E. Bledsoe,
+273,3,8:15.0,68,64,LAC,PHO,8,away,JS,,27,miss3,0,E. Bledsoe,
+274,3,8:12.0,68,64,LAC,PHO,3,away,OffReb,,,OffReb,,T. Chandler,
+275,3,8:09.0,68,64,LAC,PHO,3,away,JS,,25,miss3,0,M. Chriss,
+276,3,8:06.0,68,64,LAC,PHO,3,home,DefReb,,,DefReb,,A. Rivers,
+277,3,7:56.0,70,64,LAC,PHO,10,home,LU,,2,make2,2,L. Mbah a Moute,
+278,3,7:56.0,70,64,LAC,PHO,0,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Booker,L. Mbah a Moute
+279,3,7:56.0,71,64,LAC,PHO,0,home,FreeThrow,,,make1,1,L. Mbah a Moute,
+280,3,7:40.0,71,64,LAC,PHO,16,away,JS,,16,miss2,0,D. Booker,
+281,3,7:38.0,71,64,LAC,PHO,2,home,DefReb,,,DefReb,,D. Jordan,
+282,3,7:38.0,71,64,LAC,PHO,0,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Booker,A. Rivers
+283,3,7:38.0,71,64,LAC,PHO,0,away,Sub,,,,,L. Barbosa,D. Booker
+284,3,7:17.0,71,64,LAC,PHO,21,home,JS,,21,miss2,0,J. Redick,
+285,3,7:15.0,71,64,LAC,PHO,2,away,DefReb,,,DefReb,,T. Chandler,
+286,3,7:07.0,71,64,LAC,PHO,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Redick,L. Barbosa
+287,3,7:01.0,71,64,LAC,PHO,6,home,Sub,,,,,J. Crawford,A. Rivers
+288,3,6:58.0,71,66,LAC,PHO,3,away,JS,assist,14,make2,2,T. Warren,E. Bledsoe
+289,3,6:35.0,73,66,LAC,PHO,23,home,LU,,3,make2,2,J. Crawford,
+290,3,6:25.0,73,68,LAC,PHO,10,away,DK,assist,0,make2,2,T. Chandler,L. Barbosa
+291,3,6:15.0,73,68,LAC,PHO,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Bledsoe,R. Felton
+292,3,6:15.0,74,68,LAC,PHO,0,home,FreeThrow,,,make1,1,R. Felton,
+293,3,6:15.0,74,68,LAC,PHO,0,away,Sub,,,,,P. Tucker,M. Chriss
+294,3,6:15.0,75,68,LAC,PHO,0,home,FreeThrow,,,make1,1,R. Felton,
+295,3,6:06.0,75,68,LAC,PHO,9,away,JS,block,2,miss2,0,L. Barbosa,D. Jordan
+296,3,6:04.0,75,68,LAC,PHO,2,away,OffReb,,,OffReb,,L. Barbosa,
+297,3,6:02.0,75,68,LAC,PHO,2,home,KickBallViolation,,,KickBallViolation,,L. Mbah a Moute,
+298,3,5:52.0,75,70,LAC,PHO,10,away,JS,,15,make2,2,L. Barbosa,
+299,3,5:37.0,78,70,LAC,PHO,15,home,JS,assist,24,make3,3,L. Mbah a Moute,J. Crawford
+300,3,5:27.0,78,70,LAC,PHO,10,away,BadPass,steal,,turnover,,T. Warren,R. Felton
+301,3,5:07.0,80,70,LAC,PHO,20,home,LU,,2,make2,2,R. Felton,
+302,3,5:01.0,80,70,LAC,PHO,6,away,Timeout,,,,,,
+303,3,5:01.0,80,70,LAC,PHO,0,away,Sub,,,,,A. Len,T. Warren
+304,3,5:01.0,80,70,LAC,PHO,0,away,Sub,,,,,T. Ulis,T. Chandler
+305,3,4:56.0,80,70,LAC,PHO,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Felton,E. Bledsoe
+306,3,4:47.0,80,70,LAC,PHO,9,away,JS,,14,miss2,0,E. Bledsoe,
+307,3,4:44.0,80,70,LAC,PHO,3,home,DefReb,,,DefReb,,D. Jordan,
+308,3,4:37.0,80,70,LAC,PHO,7,home,LU,,3,miss2,0,J. Crawford,
+309,3,4:32.0,80,70,LAC,PHO,5,away,DefReb,,,DefReb,,P. Tucker,
+310,3,4:30.0,80,70,LAC,PHO,2,away,JS,,10,miss2,0,T. Ulis,
+311,3,4:24.0,80,70,LAC,PHO,6,home,DefReb,,,DefReb,,J. Redick,
+312,3,4:14.0,82,70,LAC,PHO,10,home,LU,,3,make2,2,R. Felton,
+313,3,4:03.0,82,70,LAC,PHO,11,away,JS,,12,miss2,0,T. Ulis,
+314,3,3:59.0,82,70,LAC,PHO,4,home,DefReb,,,DefReb,,D. Jordan,
+315,3,3:49.0,82,70,LAC,PHO,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Tucker,L. Mbah a Moute
+316,3,3:49.0,82,70,LAC,PHO,0,home,FreeThrow,,,make1,0,L. Mbah a Moute,
+317,3,3:49.0,82,70,LAC,PHO,0,home,OffReb,,,OffReb,,Team,
+318,3,3:49.0,83,70,LAC,PHO,0,home,FreeThrow,,,make1,1,L. Mbah a Moute,
+319,3,3:33.0,83,70,LAC,PHO,16,away,JS,,16,miss2,0,P. Tucker,
+320,3,3:31.0,83,70,LAC,PHO,2,home,DefReb,,,DefReb,,D. Jordan,
+321,3,3:21.0,83,70,LAC,PHO,10,home,JS,,22,miss2,0,L. Mbah a Moute,
+322,3,3:18.0,83,70,LAC,PHO,3,home,OffReb,,,OffReb,,D. Jordan,
+323,3,3:18.0,85,70,LAC,PHO,0,home,DK,,0,make2,2,D. Jordan,
+324,3,3:07.0,85,70,LAC,PHO,11,away,JS,,17,miss2,0,A. Len,
+325,3,3:06.0,85,70,LAC,PHO,1,home,DefReb,,,DefReb,,D. Jordan,
+326,3,2:57.0,87,70,LAC,PHO,9,home,JS,,4,make2,2,J. Crawford,
+327,3,2:56.0,87,70,LAC,PHO,1,away,Timeout,,,,,,
+328,3,2:56.0,87,70,LAC,PHO,0,away,Sub,,,,,D. Booker,L. Barbosa
+329,3,2:56.0,87,70,LAC,PHO,0,away,Sub,,,,,T. Warren,T. Ulis
+330,3,2:41.0,87,70,LAC,PHO,15,away,JS,,27,miss3,0,E. Bledsoe,
+331,3,2:40.0,87,70,LAC,PHO,1,home,DefReb,,,DefReb,,D. Jordan,
+332,3,2:30.0,87,70,LAC,PHO,10,home,BadPass,,,turnover,,J. Crawford,
+333,3,2:13.0,87,70,LAC,PHO,17,away,JS,block,10,miss2,0,D. Booker,D. Jordan
+334,3,2:09.0,87,70,LAC,PHO,4,home,DefReb,,,DefReb,,D. Jordan,
+335,3,2:05.0,87,70,LAC,PHO,4,home,JS,,5,miss2,0,J. Crawford,
+336,3,2:02.0,87,70,LAC,PHO,3,home,OffReb,,,OffReb,,J. Crawford,
+337,3,2:02.0,87,70,LAC,PHO,0,home,LU,,2,miss2,0,J. Crawford,
+338,3,1:59.0,87,70,LAC,PHO,3,home,OffReb,,,OffReb,,D. Jordan,
+339,3,1:54.0,87,70,LAC,PHO,5,home,LU,,2,miss2,0,R. Felton,
+340,3,1:50.0,87,70,LAC,PHO,4,home,OffReb,,,OffReb,,D. Jordan,
+341,3,1:50.0,89,70,LAC,PHO,0,home,DK,,0,make2,2,D. Jordan,
+342,3,1:36.0,89,72,LAC,PHO,14,away,LU,,4,make2,2,T. Warren,
+343,3,1:14.0,89,72,LAC,PHO,22,home,JS,,10,miss2,0,J. Crawford,
+344,3,1:11.0,89,72,LAC,PHO,3,home,OffReb,,,OffReb,,J. Crawford,
+345,3,1:10.0,89,72,LAC,PHO,1,home,JS,,6,miss2,0,J. Crawford,
+346,3,1:07.0,89,72,LAC,PHO,3,away,DefReb,,,DefReb,,E. Bledsoe,
+347,3,1:07.0,89,72,LAC,PHO,0,away,LU,,2,miss2,0,E. Bledsoe,
+348,3,1:06.0,89,72,LAC,PHO,1,away,OffReb,,,OffReb,,T. Warren,
+349,3,1:06.0,89,72,LAC,PHO,0,away,LU,,3,miss2,0,T. Warren,
+350,3,1:05.0,89,72,LAC,PHO,1,away,OffReb,,,OffReb,,T. Warren,
+351,3,1:01.0,89,72,LAC,PHO,4,away,JS,,27,miss3,0,D. Booker,
+352,3,1:00.0,89,72,LAC,PHO,1,home,DefReb,,,DefReb,,R. Felton,
+353,3,0:51.0,89,72,LAC,PHO,9,home,LU,,4,miss2,0,R. Felton,
+354,3,0:49.0,89,72,LAC,PHO,2,home,OffReb,,,OffReb,,Team,
+355,3,0:49.0,89,72,LAC,PHO,0,home,Sub,,,,,A. Rivers,R. Felton
+356,3,0:49.0,89,72,LAC,PHO,0,home,Sub,,,,,B. Bass,L. Mbah a Moute
+357,3,0:43.0,89,72,LAC,PHO,6,home,BadPass,steal,,turnover,,J. Redick,A. Len
+358,3,0:40.0,89,72,LAC,PHO,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,D. Booker
+359,3,0:40.0,89,72,LAC,PHO,0,away,FreeThrow,,,make1,0,D. Booker,
+360,3,0:40.0,89,72,LAC,PHO,0,away,OffReb,,,OffReb,,Team,
+361,3,0:40.0,89,72,LAC,PHO,0,home,Sub,,,,,W. Johnson,J. Redick
+362,3,0:40.0,89,73,LAC,PHO,0,away,FreeThrow,,,make1,1,D. Booker,
+363,3,0:30.0,89,73,LAC,PHO,10,home,BadPass,steal,,turnover,,B. Bass,E. Bledsoe
+364,3,0:27.0,89,75,LAC,PHO,3,away,LU,assist,3,make2,2,T. Warren,E. Bledsoe
+365,3,0:06.0,89,75,LAC,PHO,21,home,JS,,4,miss2,0,J. Crawford,
+366,3,0:02.0,89,75,LAC,PHO,4,away,DefReb,,,DefReb,,P. Tucker,
+367,3,0:02.0,89,75,LAC,PHO,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Johnson,E. Bledsoe
+368,3,0:02.0,89,75,LAC,PHO,0,away,FreeThrow,,,make1,0,E. Bledsoe,
+369,3,0:02.0,89,75,LAC,PHO,0,away,OffReb,,,OffReb,,Team,
+370,3,0:02.0,89,76,LAC,PHO,0,away,FreeThrow,,,make1,1,E. Bledsoe,
+371,3,0:01.0,89,76,LAC,PHO,1,home,JS,,43,miss3,0,J. Crawford,
+372,3,0:00.0,89,76,LAC,PHO,1,home,OffReb,,,OffReb,,Team,
+373,4,11:45.0,89,76,LAC,PHO,15,away,ChargeFoul,DrawnBy,,ChargeFoul,,A. Rivers,E. Bledsoe
+374,4,11:45.0,89,76,LAC,PHO,0,home,OffensiveFoul,,,turnover,,A. Rivers,
+375,4,11:32.0,89,76,LAC,PHO,13,away,JS,,14,miss2,0,D. Booker,
+376,4,11:31.0,89,76,LAC,PHO,1,away,OffReb,,,OffReb,,T. Warren,
+377,4,11:16.0,89,76,LAC,PHO,15,away,HS,,2,miss2,0,P. Tucker,
+378,4,11:15.0,89,76,LAC,PHO,1,away,OffReb,,,OffReb,,P. Tucker,
+379,4,11:15.0,89,76,LAC,PHO,0,away,LU,,3,miss2,0,P. Tucker,
+380,4,11:14.0,89,76,LAC,PHO,1,away,OffReb,,,OffReb,,P. Tucker,
+381,4,11:14.0,89,76,LAC,PHO,0,away,LU,,1,miss2,0,P. Tucker,
+382,4,11:12.0,89,76,LAC,PHO,2,away,OffReb,,,OffReb,,A. Len,
+383,4,11:06.0,89,76,LAC,PHO,6,home,ChargeFoul,DrawnBy,,ChargeFoul,,E. Bledsoe,M. Speights
+384,4,11:06.0,89,76,LAC,PHO,0,away,OffensiveFoul,,,turnover,,E. Bledsoe,
+385,4,10:44.0,91,76,LAC,PHO,22,home,JS,assist,9,make2,2,B. Bass,J. Crawford
+386,4,10:29.0,91,78,LAC,PHO,15,away,LU,,2,make2,2,E. Bledsoe,
+387,4,10:20.0,91,78,LAC,PHO,9,home,LU,,3,miss2,0,A. Rivers,
+388,4,10:14.0,91,78,LAC,PHO,6,away,DefReb,,,DefReb,,A. Len,
+389,4,10:08.0,91,80,LAC,PHO,6,away,JS,assist,18,make2,2,T. Warren,E. Bledsoe
+390,4,9:52.0,93,80,LAC,PHO,16,home,LU,,3,make2,2,J. Crawford,
+391,4,9:30.0,93,80,LAC,PHO,22,away,OutOfBounds,,,turnover,,E. Bledsoe,
+392,4,9:30.0,93,80,LAC,PHO,0,home,Sub,,,,,R. Felton,B. Bass
+393,4,9:18.0,93,80,LAC,PHO,12,home,JS,,26,miss3,0,M. Speights,
+394,4,9:17.0,93,80,LAC,PHO,1,away,DefReb,,,DefReb,,P. Tucker,
+395,4,9:09.0,93,80,LAC,PHO,8,away,JS,,14,miss2,0,E. Bledsoe,
+396,4,9:07.0,93,80,LAC,PHO,2,home,DefReb,,,DefReb,,R. Felton,
+397,4,9:04.0,93,80,LAC,PHO,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Booker,R. Felton
+398,4,9:04.0,93,80,LAC,PHO,0,home,FreeThrow,,,make1,0,R. Felton,
+399,4,9:04.0,93,80,LAC,PHO,0,home,OffReb,,,OffReb,,Team,
+400,4,9:04.0,93,80,LAC,PHO,0,home,FreeThrow,,,make1,0,R. Felton,
+401,4,9:04.0,93,80,LAC,PHO,0,away,Sub,,,,,J. Dudley,D. Booker
+402,4,9:04.0,93,80,LAC,PHO,0,away,Sub,,,,,T. Ulis,A. Len
+403,4,8:59.0,93,80,LAC,PHO,5,away,DefReb,,,DefReb,,P. Tucker,
+404,4,8:41.0,93,82,LAC,PHO,18,away,JS,assist,9,make2,2,T. Warren,T. Ulis
+405,4,8:23.0,93,82,LAC,PHO,18,home,LostBall,steal,,turnover,,M. Speights,J. Dudley
+406,4,8:19.0,93,82,LAC,PHO,4,away,LU,,4,miss2,0,E. Bledsoe,
+407,4,8:17.0,93,82,LAC,PHO,2,away,OffReb,,,OffReb,,Team,
+408,4,8:17.0,93,82,LAC,PHO,0,away,Timeout,,,,,,
+409,4,8:10.0,93,82,LAC,PHO,7,away,JS,,11,miss2,0,T. Warren,
+410,4,8:07.0,93,82,LAC,PHO,3,home,DefReb,,,DefReb,,M. Speights,
+411,4,7:52.0,93,82,LAC,PHO,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ulis,J. Crawford
+412,4,7:52.0,94,82,LAC,PHO,0,home,FreeThrow,,,make1,1,J. Crawford,
+413,4,7:52.0,95,82,LAC,PHO,0,home,FreeThrow,,,make1,1,J. Crawford,
+414,4,7:25.0,95,84,LAC,PHO,27,away,LU,,1,make2,2,E. Bledsoe,
+415,4,7:04.0,95,84,LAC,PHO,21,home,JS,,17,miss2,0,J. Crawford,
+416,4,7:01.0,95,84,LAC,PHO,3,away,DefReb,,,DefReb,,P. Tucker,
+417,4,6:56.0,95,84,LAC,PHO,5,away,JS,,25,miss3,0,J. Dudley,
+418,4,6:53.0,95,84,LAC,PHO,3,home,DefReb,,,DefReb,,M. Speights,
+419,4,6:41.0,95,84,LAC,PHO,12,home,BadPass,steal,,turnover,,A. Rivers,T. Warren
+420,4,6:35.0,95,86,LAC,PHO,6,away,JS,,20,make2,2,E. Bledsoe,
+421,4,6:16.0,97,86,LAC,PHO,19,home,LU,,3,make2,2,R. Felton,
+422,4,6:01.0,97,86,LAC,PHO,15,away,JS,,15,miss2,0,T. Warren,
+423,4,5:59.0,97,86,LAC,PHO,2,home,DefReb,,,DefReb,,J. Crawford,
+424,4,5:52.0,97,86,LAC,PHO,7,home,LU,block,3,miss2,0,A. Rivers,T. Warren
+425,4,5:52.0,97,86,LAC,PHO,0,home,OffReb,,,OffReb,,Team,
+426,4,5:52.0,97,86,LAC,PHO,0,home,Timeout,,,,,,
+427,4,5:52.0,97,86,LAC,PHO,0,home,Sub,,,,,J. Redick,W. Johnson
+428,4,5:42.0,97,86,LAC,PHO,10,home,JS,,16,miss2,0,J. Crawford,
+429,4,5:38.0,97,86,LAC,PHO,4,away,DefReb,,,DefReb,,E. Bledsoe,
+430,4,5:17.0,97,86,LAC,PHO,21,away,JS,block,7,miss2,0,T. Ulis,R. Felton
+431,4,5:15.0,97,86,LAC,PHO,2,home,DefReb,,,DefReb,,J. Crawford,
+432,4,4:59.0,97,86,LAC,PHO,16,home,JS,,14,miss2,0,M. Speights,
+433,4,4:56.0,97,86,LAC,PHO,3,away,DefReb,,,DefReb,,T. Warren,
+434,4,4:42.0,97,86,LAC,PHO,14,away,JS,,26,miss3,0,E. Bledsoe,
+435,4,4:41.0,97,86,LAC,PHO,1,away,OffReb,,,OffReb,,T. Ulis,
+436,4,4:18.0,97,86,LAC,PHO,23,away,JS,,19,miss2,0,E. Bledsoe,
+437,4,4:18.0,97,86,LAC,PHO,0,away,OffReb,,,OffReb,,Team,
+438,4,4:18.0,97,86,LAC,PHO,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Rivers,P. Tucker
+439,4,4:18.0,97,86,LAC,PHO,0,home,Sub,,,,,D. Jordan,M. Speights
+440,4,4:18.0,97,86,LAC,PHO,0,away,Sub,,,,,T. Chandler,T. Ulis
+441,4,4:04.0,97,86,LAC,PHO,14,away,JS,,17,miss2,0,E. Bledsoe,
+442,4,4:01.0,97,86,LAC,PHO,3,home,DefReb,,,DefReb,,J. Redick,
+443,4,3:52.0,97,86,LAC,PHO,9,home,LU,,3,miss2,0,A. Rivers,
+444,4,3:50.0,97,86,LAC,PHO,2,away,DefReb,,,DefReb,,E. Bledsoe,
+445,4,3:44.0,97,88,LAC,PHO,6,away,DK,assist,0,make2,2,T. Chandler,T. Warren
+446,4,3:42.0,97,88,LAC,PHO,2,home,Timeout,,,,,,
+447,4,3:42.0,97,88,LAC,PHO,0,away,Sub,,,,,D. Booker,J. Dudley
+448,4,3:24.0,97,88,LAC,PHO,18,home,LU,,4,miss2,0,J. Crawford,
+449,4,3:21.0,97,88,LAC,PHO,3,home,OffReb,,,OffReb,,D. Jordan,
+450,4,3:21.0,97,88,LAC,PHO,0,home,LU,,2,miss2,0,D. Jordan,
+451,4,3:18.0,97,88,LAC,PHO,3,away,DefReb,,,DefReb,,E. Bledsoe,
+452,4,3:12.0,97,90,LAC,PHO,6,away,LU,assist,1,make2,2,T. Warren,E. Bledsoe
+453,4,3:04.0,97,90,LAC,PHO,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Chandler,R. Felton
+454,4,3:04.0,98,90,LAC,PHO,0,home,FreeThrow,,,make1,1,R. Felton,
+455,4,3:04.0,99,90,LAC,PHO,0,home,FreeThrow,,,make1,1,R. Felton,
+456,4,2:54.0,99,90,LAC,PHO,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Felton,E. Bledsoe
+457,4,2:54.0,99,91,LAC,PHO,0,away,FreeThrow,,,make1,1,E. Bledsoe,
+458,4,2:54.0,99,91,LAC,PHO,0,away,FreeThrow,,,make1,0,E. Bledsoe,
+459,4,2:52.0,99,91,LAC,PHO,2,home,DefReb,,,DefReb,,D. Jordan,
+460,4,2:51.0,99,91,LAC,PHO,1,home,PersonalTakeFoul,,,PersonalTakeFoul,,T. Warren,
+461,4,2:51.0,99,91,LAC,PHO,0,home,Sub,,,,,M. Speights,D. Jordan
+462,4,2:39.0,101,91,LAC,PHO,12,home,LU,,3,make2,2,R. Felton,
+463,4,2:25.0,101,91,LAC,PHO,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,T. Chandler
+464,4,2:25.0,101,92,LAC,PHO,0,away,FreeThrow,,,make1,1,T. Chandler,
+465,4,2:25.0,101,93,LAC,PHO,0,away,FreeThrow,,,make1,1,T. Chandler,
+466,4,2:10.0,104,93,LAC,PHO,15,home,JS,assist,28,make3,3,J. Redick,R. Felton
+467,4,2:00.0,104,96,LAC,PHO,10,away,JS,,28,make3,3,E. Bledsoe,
+468,4,1:36.0,104,96,LAC,PHO,24,home,JS,,21,miss2,0,R. Felton,
+469,4,1:35.0,104,96,LAC,PHO,1,away,DefReb,,,DefReb,,P. Tucker,
+470,4,1:15.0,104,96,LAC,PHO,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,E. Bledsoe
+471,4,1:15.0,104,97,LAC,PHO,0,away,FreeThrow,,,make1,1,E. Bledsoe,
+472,4,1:15.0,104,97,LAC,PHO,0,home,Sub,,,,,D. Jordan,M. Speights
+473,4,1:15.0,104,98,LAC,PHO,0,away,FreeThrow,,,make1,1,E. Bledsoe,
+474,4,1:06.0,104,98,LAC,PHO,9,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Chandler,D. Jordan
+475,4,1:06.0,104,98,LAC,PHO,0,home,FreeThrow,,,make1,0,D. Jordan,
+476,4,1:06.0,104,98,LAC,PHO,0,home,OffReb,,,OffReb,,Team,
+477,4,1:06.0,104,98,LAC,PHO,0,home,FreeThrow,,,make1,0,D. Jordan,
+478,4,1:06.0,104,98,LAC,PHO,0,away,DefReb,,,DefReb,,T. Chandler,
+479,4,1:06.0,104,98,LAC,PHO,0,away,Timeout,,,,,,
+480,4,1:06.0,104,98,LAC,PHO,0,away,Sub,,,,,A. Len,D. Booker
+481,4,1:06.0,104,98,LAC,PHO,0,away,Sub,,,,,D. Booker,A. Len
+482,4,1:06.0,104,98,LAC,PHO,0,home,Sub,,,,,L. Mbah a Moute,J. Crawford
+483,4,1:00.0,104,98,LAC,PHO,6,away,LU,,2,miss2,0,D. Booker,
+484,4,0:58.0,104,98,LAC,PHO,2,away,OffReb,,,OffReb,,T. Warren,
+485,4,0:54.0,104,98,LAC,PHO,4,away,LU,block,3,miss2,0,E. Bledsoe,R. Felton
+486,4,0:52.0,104,98,LAC,PHO,2,home,DefReb,,,DefReb,,R. Felton,
+487,4,0:50.0,104,98,LAC,PHO,2,home,Timeout,,,,,,
+488,4,0:50.0,104,98,LAC,PHO,0,home,Sub,,,,,M. Speights,D. Jordan
+489,4,0:41.0,104,98,LAC,PHO,9,home,Sub,,,,,J. Crawford,L. Mbah a Moute
+490,4,0:31.0,104,98,LAC,PHO,10,home,JS,,12,miss2,0,A. Rivers,
+491,4,0:27.0,104,98,LAC,PHO,4,away,DefReb,,,DefReb,,T. Chandler,
+492,4,0:24.0,104,98,LAC,PHO,3,away,JS,,25,miss3,0,D. Booker,
+493,4,0:23.0,104,98,LAC,PHO,1,home,DefReb,,,DefReb,,J. Crawford,
+494,4,0:21.0,104,98,LAC,PHO,2,away,DefGoaltending,,,DefGoaltending,,D. Booker,
+495,4,0:21.0,106,98,LAC,PHO,0,home,LU,,4,make2,2,J. Redick,
+496,4,0:21.0,106,98,LAC,PHO,0,away,TechnicalFoul,,,TechnicalFoul,,D. Booker,
+497,4,0:21.0,107,98,LAC,PHO,0,home,FreeThrow,,,make1,1,J. Redick makes technical free throw,
+498,4,0:21.0,107,98,LAC,PHO,0,away,Timeout,,,,,,
+499,4,0:20.0,107,98,LAC,PHO,1,home,Sub,,,,,D. Jordan,M. Speights
+500,4,0:15.0,107,98,LAC,PHO,5,away,BadPass,,,turnover,,T. Warren,
+501,4,0:14.0,107,98,LAC,PHO,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Bledsoe,R. Felton
+502,4,0:14.0,108,98,LAC,PHO,0,home,FreeThrow,,,make1,1,R. Felton,
+503,4,0:14.0,109,98,LAC,PHO,0,home,FreeThrow,,,make1,1,R. Felton,
+504,4,0:09.0,109,98,LAC,PHO,5,away,JS,,25,miss3,0,E. Bledsoe,
+505,4,0:07.0,109,98,LAC,PHO,2,home,DefReb,,,DefReb,,D. Jordan,

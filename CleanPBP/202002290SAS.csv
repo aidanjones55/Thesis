@@ -1,0 +1,441 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:38.0,3,0,SAS,ORL,22,home,JS,assist,26,make3,3,D. Murray,D. DeRozan
+1,1,11:14.0,3,0,SAS,ORL,24,away,JS,,25,miss3,0,E. Fournier,
+2,1,11:11.0,3,0,SAS,ORL,3,home,DefReb,,,DefReb,,D. DeRozan,
+3,1,11:02.0,3,0,SAS,ORL,9,home,LU,,2,miss2,0,T. Lyles,
+4,1,10:58.0,3,0,SAS,ORL,4,away,DefReb,,,DefReb,,J. Ennis,
+5,1,10:53.0,3,0,SAS,ORL,5,home,KickBallViolation,,,KickBallViolation,,Team,
+6,1,10:42.0,3,0,SAS,ORL,11,away,JS,,19,miss2,0,N. Vučević,
+7,1,10:38.0,3,0,SAS,ORL,4,home,DefReb,,,DefReb,,B. Forbes,
+8,1,10:25.0,6,0,SAS,ORL,13,home,JS,assist,28,make3,3,B. Forbes,D. DeRozan
+9,1,10:09.0,6,2,SAS,ORL,16,away,JS,assist,22,make2,2,N. Vučević,J. Ennis
+10,1,9:50.0,9,2,SAS,ORL,19,home,JS,assist,25,make3,3,T. Lyles,D. DeRozan
+11,1,9:38.0,9,2,SAS,ORL,12,away,LU,,2,miss2,0,E. Fournier,
+12,1,9:38.0,9,2,SAS,ORL,0,away,OffReb,,,OffReb,,E. Fournier,
+13,1,9:38.0,9,2,SAS,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Lyles,E. Fournier
+14,1,9:38.0,9,3,SAS,ORL,0,away,FreeThrow,,,make1,1,E. Fournier,
+15,1,9:38.0,9,4,SAS,ORL,0,away,FreeThrow,,,make1,1,E. Fournier,
+16,1,9:26.0,9,4,SAS,ORL,12,home,lost ball,steal,,turnover,,D. DeRozan,J. Ennis
+17,1,9:15.0,9,4,SAS,ORL,11,away,JS,block,4,miss2,0,M. Fultz,D. DeRozan
+18,1,9:11.0,9,4,SAS,ORL,4,home,DefReb,,,DefReb,,D. DeRozan,
+19,1,9:04.0,11,4,SAS,ORL,7,home,JS,,2,make2,2,D. DeRozan,
+20,1,8:49.0,11,4,SAS,ORL,15,away,LU,,5,miss2,0,N. Vučević,
+21,1,8:49.0,11,4,SAS,ORL,0,home,DefReb,,,DefReb,,T. Lyles,
+22,1,8:40.0,13,4,SAS,ORL,9,home,HS,assist,5,make2,2,T. Lyles,D. Murray
+23,1,8:34.0,13,4,SAS,ORL,6,away,Timeout,,,,,,
+24,1,8:29.0,13,4,SAS,ORL,5,away,JS,,26,miss3,0,E. Fournier,
+25,1,8:25.0,13,4,SAS,ORL,4,home,DefReb,,,DefReb,,Team,
+26,1,8:12.0,15,4,SAS,ORL,13,home,LU,assist,1,make2,2,T. Lyles,J. Poeltl
+27,1,7:54.0,15,6,SAS,ORL,18,away,LU,assist,1,make2,2,N. Vučević,E. Fournier
+28,1,7:46.0,15,6,SAS,ORL,8,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Poeltl,M. Fultz
+29,1,7:46.0,15,6,SAS,ORL,0,home,OffensiveFoul,,,turnover,,J. Poeltl,
+30,1,7:46.0,15,6,SAS,ORL,0,home,Sub,,,,,R. Gay,J. Poeltl
+31,1,7:32.0,15,8,SAS,ORL,14,away,HS,,4,make2,2,N. Vučević,
+32,1,7:20.0,18,8,SAS,ORL,12,home,JS,assist,25,make3,3,T. Lyles,B. Forbes
+33,1,6:56.0,18,11,SAS,ORL,24,away,JS,assist,25,make3,3,E. Fournier,A. Gordon
+34,1,6:33.0,18,11,SAS,ORL,23,home,LU,block,5,miss2,0,B. Forbes,E. Fournier
+35,1,6:33.0,18,11,SAS,ORL,0,home,OffReb,,,OffReb,,Team,
+36,1,6:30.0,18,11,SAS,ORL,3,home,JS,,12,miss2,0,D. DeRozan,
+37,1,6:27.0,18,11,SAS,ORL,3,away,DefReb,,,DefReb,,N. Vučević,
+38,1,6:20.0,18,11,SAS,ORL,7,away,bad pass,steal,,turnover,,N. Vučević,T. Lyles
+39,1,6:13.0,18,11,SAS,ORL,7,home,bad pass,steal,,turnover,,D. Murray,E. Fournier
+40,1,6:07.0,18,13,SAS,ORL,6,away,LU,assist,1,make2,2,M. Fultz,E. Fournier
+41,1,5:51.0,20,13,SAS,ORL,16,home,JS,,15,make2,2,T. Lyles,
+42,1,5:37.0,20,13,SAS,ORL,14,away,LU,block,4,miss2,0,E. Fournier,D. Murray
+43,1,5:35.0,20,13,SAS,ORL,2,away,OffReb,,,OffReb,,E. Fournier,
+44,1,5:35.0,20,15,SAS,ORL,0,away,LU,assist,1,make2,2,M. Fultz,E. Fournier
+45,1,5:35.0,20,15,SAS,ORL,0,home,Timeout,,,,,,
+46,1,5:35.0,20,15,SAS,ORL,0,away,Sub,,,,,T. Ross,J. Ennis
+47,1,5:35.0,20,15,SAS,ORL,0,home,Sub,,,,,P. Mills,B. Forbes
+48,1,5:35.0,20,15,SAS,ORL,0,home,Sub,,,,,D. White,D. Murray
+49,1,5:21.0,20,15,SAS,ORL,14,home,JS,,23,miss3,0,T. Lyles,
+50,1,5:19.0,20,15,SAS,ORL,2,home,OffReb,,,OffReb,,R. Gay,
+51,1,5:16.0,22,15,SAS,ORL,3,home,JS,,8,make2,2,R. Gay,
+52,1,4:51.0,22,15,SAS,ORL,25,away,JS,,26,miss3,0,A. Gordon,
+53,1,4:48.0,22,15,SAS,ORL,3,home,DefReb,,,DefReb,,T. Lyles,
+54,1,4:38.0,25,15,SAS,ORL,10,home,JS,assist,25,make3,3,R. Gay,D. DeRozan
+55,1,4:20.0,25,15,SAS,ORL,18,away,LU,block,2,miss2,0,N. Vučević,R. Gay
+56,1,4:20.0,25,15,SAS,ORL,0,home,DefReb,,,DefReb,,Team,
+57,1,4:03.0,28,15,SAS,ORL,17,home,JS,assist,23,make3,3,P. Mills,T. Lyles
+58,1,3:55.0,28,15,SAS,ORL,8,away,Timeout,,,,,,
+59,1,3:55.0,28,15,SAS,ORL,0,away,Sub,,,,,D. Augustin,E. Fournier
+60,1,3:55.0,28,15,SAS,ORL,0,away,Sub,,,,,M. Carter-Williams,M. Fultz
+61,1,3:43.0,28,17,SAS,ORL,12,away,JS,,5,make2,2,M. Carter-Williams,
+62,1,3:33.0,30,17,SAS,ORL,10,home,LU,,1,make2,2,D. DeRozan,
+63,1,3:33.0,30,17,SAS,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Carter-Williams,D. DeRozan
+64,1,3:33.0,30,17,SAS,ORL,0,home,Sub,,,,,D. Eubanks,T. Lyles
+65,1,3:33.0,31,17,SAS,ORL,0,home,FreeThrow,,,make1,1,D. DeRozan,
+66,1,3:16.0,31,17,SAS,ORL,17,away,JS,,16,miss2,0,T. Ross,
+67,1,3:13.0,31,17,SAS,ORL,3,home,DefReb,,,DefReb,,P. Mills,
+68,1,2:57.0,31,17,SAS,ORL,16,home,JS,,25,miss3,0,P. Mills,
+69,1,2:55.0,31,17,SAS,ORL,2,away,DefReb,,,DefReb,,A. Gordon,
+70,1,2:49.0,31,20,SAS,ORL,6,away,JS,assist,25,make3,3,D. Augustin,A. Gordon
+71,1,2:33.0,33,20,SAS,ORL,16,home,LU,,2,make2,2,D. White,
+72,1,2:21.0,33,20,SAS,ORL,12,away,Traveling,,,turnover,,A. Gordon,
+73,1,2:21.0,33,20,SAS,ORL,0,away,Sub,,,,,M. Bamba,A. Gordon
+74,1,2:21.0,33,20,SAS,ORL,0,away,Sub,,,,,J. Ennis,N. Vučević
+75,1,2:21.0,33,20,SAS,ORL,0,home,Sub,,,,,L. Walker,D. DeRozan
+76,1,1:59.0,36,20,SAS,ORL,22,home,JS,,25,make3,3,R. Gay,
+77,1,1:46.0,36,20,SAS,ORL,13,away,LU,,2,miss2,0,D. Augustin,
+78,1,1:42.0,36,20,SAS,ORL,4,away,OffReb,,,OffReb,,M. Bamba,
+79,1,1:41.0,36,22,SAS,ORL,1,away,LU,,1,make2,2,M. Bamba,
+80,1,1:32.0,36,22,SAS,ORL,9,home,Traveling,,,turnover,,D. Eubanks,
+81,1,1:19.0,36,22,SAS,ORL,13,away,JS,,9,miss2,0,T. Ross,
+82,1,1:17.0,36,22,SAS,ORL,2,home,DefReb,,,DefReb,,R. Gay,
+83,1,1:12.0,38,22,SAS,ORL,5,home,DK,assist,1,make2,2,D. Eubanks,P. Mills
+84,1,0:58.0,38,25,SAS,ORL,14,away,JS,assist,26,make3,3,J. Ennis,D. Augustin
+85,1,0:48.0,38,25,SAS,ORL,10,home,JS,,25,miss3,0,P. Mills,
+86,1,0:45.0,38,25,SAS,ORL,3,home,OffReb,,,OffReb,,L. Walker,
+87,1,0:42.0,38,25,SAS,ORL,3,home,LU,block,2,miss2,0,L. Walker,M. Bamba
+88,1,0:42.0,38,25,SAS,ORL,0,away,DefReb,,,DefReb,,M. Carter-Williams,
+89,1,0:36.0,38,25,SAS,ORL,6,away,JS,,14,miss2,0,T. Ross,
+90,1,0:35.0,38,25,SAS,ORL,1,away,OffReb,,,OffReb,,Team,
+91,1,0:22.0,38,27,SAS,ORL,13,away,LU,,1,make2,2,D. Augustin,
+92,1,0:09.0,38,27,SAS,ORL,13,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Augustin,D. White
+93,1,0:00.0,38,27,SAS,ORL,9,home,JS,,25,miss3,0,D. White,
+94,1,0:00.0,38,27,SAS,ORL,0,home,OffReb,,,OffReb,,Team,
+95,2,11:48.0,38,30,SAS,ORL,12,away,JS,assist,25,make3,3,J. Ennis,M. Carter-Williams
+96,2,11:32.0,40,30,SAS,ORL,16,home,DK,assist,1,make2,2,D. Eubanks,D. White
+97,2,11:10.0,40,30,SAS,ORL,22,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Walker,M. Carter-Williams
+98,2,11:10.0,40,30,SAS,ORL,0,home,Sub,,,,,T. Lyles,R. Gay
+99,2,10:54.0,40,30,SAS,ORL,16,away,JS,,7,miss2,0,M. Carter-Williams,
+100,2,10:53.0,40,30,SAS,ORL,1,away,OffReb,,,OffReb,,J. Ennis,
+101,2,10:53.0,40,30,SAS,ORL,0,away,LU,,1,miss2,0,J. Ennis,
+102,2,10:53.0,40,30,SAS,ORL,0,away,OffReb,,,OffReb,,M. Bamba,
+103,2,10:53.0,40,30,SAS,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Mills,M. Bamba
+104,2,10:53.0,40,31,SAS,ORL,0,away,FreeThrow,,,make1,1,M. Bamba,
+105,2,10:53.0,40,31,SAS,ORL,0,away,FreeThrow,,,make1,0,M. Bamba,
+106,2,10:50.0,40,31,SAS,ORL,3,home,DefReb,,,DefReb,,D. White,
+107,2,10:36.0,40,31,SAS,ORL,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bamba,D. White
+108,2,10:36.0,41,31,SAS,ORL,0,home,FreeThrow,,,make1,1,D. White,
+109,2,10:36.0,42,31,SAS,ORL,0,home,FreeThrow,,,make1,1,D. White,
+110,2,10:31.0,42,31,SAS,ORL,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. White,T. Ross
+111,2,10:24.0,42,33,SAS,ORL,7,away,JS,assist,5,make2,2,M. Bamba,M. Carter-Williams
+112,2,10:05.0,44,33,SAS,ORL,19,home,JS,,5,make2,2,D. White,
+113,2,9:53.0,44,33,SAS,ORL,12,away,JS,,24,miss3,0,M. Carter-Williams,
+114,2,9:49.0,44,33,SAS,ORL,4,away,OffReb,,,OffReb,,J. Ennis,
+115,2,9:48.0,44,33,SAS,ORL,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Walker,M. Bamba
+116,2,9:33.0,44,33,SAS,ORL,15,away,JS,,26,miss3,0,D. Augustin,
+117,2,9:33.0,44,33,SAS,ORL,0,away,ShotClockViolation,,,turnover,,Team,
+118,2,9:33.0,44,33,SAS,ORL,0,away,OffReb,,,OffReb,,Team,
+119,2,9:19.0,44,33,SAS,ORL,14,home,JS,,27,miss3,0,P. Mills,
+120,2,9:16.0,44,33,SAS,ORL,3,away,DefReb,,,DefReb,,J. Ennis,
+121,2,9:10.0,44,33,SAS,ORL,6,away,bad pass,steal,,turnover,,J. Ennis,T. Lyles
+122,2,9:04.0,44,33,SAS,ORL,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bamba,D. Eubanks
+123,2,9:04.0,44,33,SAS,ORL,0,home,FreeThrow,,,make1,0,D. Eubanks,
+124,2,9:04.0,44,33,SAS,ORL,0,home,OffReb,,,OffReb,,Team,
+125,2,9:04.0,44,33,SAS,ORL,0,away,Sub,,,,,A. Gordon,M. Bamba
+126,2,9:04.0,44,33,SAS,ORL,0,away,Sub,,,,,N. Vučević,J. Ennis
+127,2,9:04.0,44,33,SAS,ORL,0,home,Sub,,,,,B. Forbes,P. Mills
+128,2,9:04.0,44,33,SAS,ORL,0,home,Sub,,,,,D. Murray,D. White
+129,2,9:04.0,45,33,SAS,ORL,0,home,FreeThrow,,,make1,1,D. Eubanks,
+130,2,8:55.0,45,35,SAS,ORL,9,away,JS,assist,17,make2,2,N. Vučević,T. Ross
+131,2,8:34.0,45,35,SAS,ORL,21,home,JS,,14,miss2,0,D. Murray,
+132,2,8:31.0,45,35,SAS,ORL,3,away,DefReb,,,DefReb,,N. Vučević,
+133,2,8:31.0,45,35,SAS,ORL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Murray,D. Augustin
+134,2,8:31.0,45,36,SAS,ORL,0,away,FreeThrow,,,make1,1,D. Augustin,
+135,2,8:31.0,45,36,SAS,ORL,0,home,Sub,,,,,R. Gay,D. Eubanks
+136,2,8:31.0,45,37,SAS,ORL,0,away,FreeThrow,,,make1,1,D. Augustin,
+137,2,8:19.0,45,37,SAS,ORL,12,home,JS,,12,miss2,0,T. Lyles,
+138,2,8:17.0,45,37,SAS,ORL,2,away,DefReb,,,DefReb,,N. Vučević,
+139,2,8:08.0,45,37,SAS,ORL,9,away,JS,,24,miss3,0,D. Augustin,
+140,2,8:05.0,45,37,SAS,ORL,3,home,DefReb,,,DefReb,,D. Murray,
+141,2,8:02.0,45,37,SAS,ORL,3,home,OutOfBoundsLB,,,turnover,,D. Murray,
+142,2,7:47.0,45,40,SAS,ORL,15,away,JS,assist,27,make3,3,T. Ross,A. Gordon
+143,2,7:46.0,45,40,SAS,ORL,1,home,Timeout,,,,,,
+144,2,7:46.0,45,40,SAS,ORL,0,home,Sub,,,,,D. DeRozan,L. Walker
+145,2,7:34.0,45,40,SAS,ORL,12,home,JS,,26,miss3,0,B. Forbes,
+146,2,7:30.0,45,40,SAS,ORL,4,away,DefReb,,,DefReb,,M. Carter-Williams,
+147,2,7:19.0,45,42,SAS,ORL,11,away,JS,assist,5,make2,2,N. Vučević,D. Augustin
+148,2,6:58.0,45,42,SAS,ORL,21,home,JS,,26,miss3,0,T. Lyles,
+149,2,6:55.0,45,42,SAS,ORL,3,away,DefReb,,,DefReb,,T. Ross,
+150,2,6:48.0,45,44,SAS,ORL,7,away,LU,assist,2,make2,2,T. Ross,D. Augustin
+151,2,6:36.0,48,44,SAS,ORL,12,home,JS,assist,26,make3,3,R. Gay,D. Murray
+152,2,6:21.0,48,44,SAS,ORL,15,away,JS,,25,miss3,0,N. Vučević,
+153,2,6:19.0,48,44,SAS,ORL,2,home,DefReb,,,DefReb,,T. Lyles,
+154,2,6:11.0,48,44,SAS,ORL,8,home,Traveling,,,turnover,,D. DeRozan,
+155,2,6:11.0,48,44,SAS,ORL,0,away,Sub,,,,,E. Fournier,D. Augustin
+156,2,6:11.0,48,44,SAS,ORL,0,away,Sub,,,,,M. Fultz,M. Carter-Williams
+157,2,5:59.0,48,44,SAS,ORL,12,away,LU,block,2,miss2,0,N. Vučević,R. Gay
+158,2,5:59.0,48,44,SAS,ORL,0,away,OffReb,,,OffReb,,Team,
+159,2,5:52.0,48,44,SAS,ORL,7,away,bad pass,steal,,turnover,,M. Fultz,R. Gay
+160,2,5:44.0,48,44,SAS,ORL,8,home,Traveling,,,turnover,,R. Gay,
+161,2,5:25.0,48,44,SAS,ORL,19,away,BackCourtTurnover,,,turnover,,N. Vučević,
+162,2,5:25.0,48,44,SAS,ORL,0,away,Sub,,,,,J. Ennis,T. Ross
+163,2,5:11.0,48,44,SAS,ORL,14,home,lost ball,steal,,turnover,,B. Forbes,E. Fournier
+164,2,5:07.0,48,44,SAS,ORL,4,away,OutOfBounds,,,turnover,,A. Gordon,
+165,2,4:55.0,48,44,SAS,ORL,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Fultz,D. DeRozan
+166,2,4:55.0,48,44,SAS,ORL,0,home,FreeThrow,,,make1,0,D. DeRozan,
+167,2,4:55.0,48,44,SAS,ORL,0,home,OffReb,,,OffReb,,Team,
+168,2,4:55.0,48,44,SAS,ORL,0,home,FreeThrow,,,make1,0,D. DeRozan,
+169,2,4:53.0,48,44,SAS,ORL,2,away,DefReb,,,DefReb,,J. Ennis,
+170,2,4:42.0,48,44,SAS,ORL,11,away,JS,,26,miss3,0,J. Ennis,
+171,2,4:39.0,48,44,SAS,ORL,3,home,DefReb,,,DefReb,,D. Murray,
+172,2,4:26.0,50,44,SAS,ORL,13,home,JS,assist,10,make2,2,R. Gay,T. Lyles
+173,2,4:13.0,50,44,SAS,ORL,13,away,JS,,25,miss3,0,N. Vučević,
+174,2,4:10.0,50,44,SAS,ORL,3,home,DefReb,,,DefReb,,T. Lyles,
+175,2,4:03.0,52,44,SAS,ORL,7,home,JS,,12,make2,2,D. Murray,
+176,2,3:44.0,52,44,SAS,ORL,19,away,bad pass,steal,,turnover,,M. Fultz,D. Murray
+177,2,3:38.0,52,44,SAS,ORL,6,home,lost ball,steal,,turnover,,D. DeRozan,J. Ennis
+178,2,3:34.0,52,47,SAS,ORL,4,away,JS,assist,26,make3,3,E. Fournier,A. Gordon
+179,2,3:19.0,54,47,SAS,ORL,15,home,JS,,16,make2,2,D. Murray,
+180,2,2:51.0,54,47,SAS,ORL,28,away,JS,,23,miss3,0,A. Gordon,
+181,2,2:51.0,54,47,SAS,ORL,0,home,DefReb,,,DefReb,,Team,
+182,2,2:51.0,54,47,SAS,ORL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Ennis,D. Murray
+183,2,2:51.0,54,47,SAS,ORL,0,away,Timeout,,,,,,
+184,2,2:51.0,54,47,SAS,ORL,0,away,Sub,,,,,T. Ross,J. Ennis
+185,2,2:51.0,54,47,SAS,ORL,0,home,Sub,,,,,P. Mills,D. DeRozan
+186,2,2:51.0,54,47,SAS,ORL,0,home,Sub,,,,,D. White,B. Forbes
+187,2,2:42.0,56,47,SAS,ORL,9,home,DK,assist,1,make2,2,D. Murray,R. Gay
+188,2,2:14.0,56,47,SAS,ORL,28,away,JS,,22,miss2,0,M. Fultz,
+189,2,2:11.0,56,47,SAS,ORL,3,home,DefReb,,,DefReb,,D. White,
+190,2,2:06.0,59,47,SAS,ORL,5,home,JS,assist,26,make3,3,R. Gay,D. White
+191,2,1:44.0,59,47,SAS,ORL,22,away,HS,,5,miss2,0,N. Vučević,
+192,2,1:43.0,59,47,SAS,ORL,1,home,DefReb,,,DefReb,,D. White,
+193,2,1:43.0,59,47,SAS,ORL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Vučević,D. White
+194,2,1:43.0,60,47,SAS,ORL,0,home,FreeThrow,,,make1,1,D. White,
+195,2,1:43.0,61,47,SAS,ORL,0,home,FreeThrow,,,make1,1,D. White,
+196,2,1:31.0,61,47,SAS,ORL,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Mills,T. Ross
+197,2,1:31.0,61,48,SAS,ORL,0,away,FreeThrow,,,make1,1,T. Ross,
+198,2,1:31.0,61,49,SAS,ORL,0,away,FreeThrow,,,make1,1,T. Ross,
+199,2,1:17.0,61,49,SAS,ORL,14,home,bad pass,steal,,turnover,,D. Murray,E. Fournier
+200,2,1:14.0,61,51,SAS,ORL,3,away,DK,,0,make2,2,E. Fournier,
+201,2,0:59.0,61,51,SAS,ORL,15,home,bad pass,steal,,turnover,,T. Lyles,T. Ross
+202,2,0:58.0,61,51,SAS,ORL,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. White,T. Ross
+203,2,0:58.0,61,52,SAS,ORL,0,away,FreeThrow,,,make1,1,T. Ross,
+204,2,0:58.0,61,53,SAS,ORL,0,away,FreeThrow,,,make1,1,T. Ross,
+205,2,0:37.0,61,53,SAS,ORL,21,home,JS,,26,miss3,0,D. Murray,
+206,2,0:34.0,61,53,SAS,ORL,3,away,DefReb,,,DefReb,,N. Vučević,
+207,2,0:19.0,61,53,SAS,ORL,15,away,JS,,23,miss3,0,M. Fultz,
+208,2,0:15.0,61,53,SAS,ORL,4,home,DefReb,,,DefReb,,R. Gay,
+209,2,0:00.0,61,53,SAS,ORL,15,home,JS,,21,miss2,0,T. Lyles,
+210,2,0:00.0,61,53,SAS,ORL,0,home,OffReb,,,OffReb,,Team,
+211,3,11:38.0,61,53,SAS,ORL,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Lyles,A. Gordon
+212,3,11:38.0,61,54,SAS,ORL,0,away,FreeThrow,,,make1,1,A. Gordon,
+213,3,11:38.0,61,54,SAS,ORL,0,away,FreeThrow,,,make1,0,A. Gordon,
+214,3,11:35.0,61,54,SAS,ORL,3,home,DefReb,,,DefReb,,D. Eubanks,
+215,3,11:16.0,61,54,SAS,ORL,19,home,JS,,26,miss3,0,B. Forbes,
+216,3,11:13.0,61,54,SAS,ORL,3,away,DefReb,,,DefReb,,A. Gordon,
+217,3,11:11.0,61,54,SAS,ORL,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Eubanks,A. Gordon
+218,3,11:11.0,61,54,SAS,ORL,0,away,FreeThrow,,,make1,0,A. Gordon,
+219,3,11:11.0,61,54,SAS,ORL,0,away,OffReb,,,OffReb,,Team,
+220,3,11:11.0,61,54,SAS,ORL,0,away,FreeThrow,,,make1,0,A. Gordon,
+221,3,11:09.0,61,54,SAS,ORL,2,home,DefReb,,,DefReb,,T. Lyles,
+222,3,10:46.0,63,54,SAS,ORL,23,home,JS,,13,make2,2,D. Murray,
+223,3,10:33.0,63,54,SAS,ORL,13,away,JS,,26,miss3,0,N. Vučević,
+224,3,10:32.0,63,54,SAS,ORL,1,home,DefReb,,,DefReb,,Team,
+225,3,10:21.0,63,54,SAS,ORL,11,home,JS,,19,miss2,0,D. DeRozan,
+226,3,10:19.0,63,54,SAS,ORL,2,away,DefReb,,,DefReb,,N. Vučević,
+227,3,10:10.0,63,56,SAS,ORL,9,away,JS,,3,make2,2,E. Fournier,
+228,3,9:50.0,66,56,SAS,ORL,20,home,JS,assist,23,make3,3,D. Eubanks,D. DeRozan
+229,3,9:46.0,66,56,SAS,ORL,4,home,DelayOfGame,,,DelayOfGame,,Team,
+230,3,9:36.0,66,56,SAS,ORL,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Eubanks,M. Fultz
+231,3,9:36.0,66,56,SAS,ORL,0,away,FreeThrow,,,make1,0,M. Fultz,
+232,3,9:36.0,66,56,SAS,ORL,0,away,OffReb,,,OffReb,,Team,
+233,3,9:36.0,66,57,SAS,ORL,0,away,FreeThrow,,,make1,1,M. Fultz,
+234,3,9:24.0,66,57,SAS,ORL,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,D. DeRozan
+235,3,9:24.0,67,57,SAS,ORL,0,home,FreeThrow,,,make1,1,D. DeRozan,
+236,3,9:24.0,68,57,SAS,ORL,0,home,FreeThrow,,,make1,1,D. DeRozan,
+237,3,9:12.0,68,57,SAS,ORL,12,away,lost ball,steal,,turnover,,N. Vučević,T. Lyles
+238,3,9:07.0,70,57,SAS,ORL,5,home,LU,,1,make2,2,D. Murray,
+239,3,8:51.0,70,57,SAS,ORL,16,away,JS,,26,miss3,0,E. Fournier,
+240,3,8:47.0,70,57,SAS,ORL,4,home,DefReb,,,DefReb,,D. Eubanks,
+241,3,8:34.0,70,57,SAS,ORL,13,home,Traveling,,,turnover,,B. Forbes,
+242,3,8:20.0,70,57,SAS,ORL,14,away,OutOfBoundsLB,,,turnover,,N. Vučević,
+243,3,8:12.0,72,57,SAS,ORL,8,home,HS,assist,3,make2,2,D. Eubanks,D. DeRozan
+244,3,8:06.0,72,57,SAS,ORL,6,away,Timeout,,,,,,
+245,3,7:55.0,72,59,SAS,ORL,11,away,LU,assist,3,make2,2,E. Fournier,M. Fultz
+246,3,7:42.0,72,59,SAS,ORL,13,home,JS,,25,miss3,0,B. Forbes,
+247,3,7:40.0,72,59,SAS,ORL,2,away,DefReb,,,DefReb,,J. Ennis,
+248,3,7:35.0,72,62,SAS,ORL,5,away,JS,assist,26,make3,3,E. Fournier,J. Ennis
+249,3,7:24.0,72,62,SAS,ORL,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Fultz,D. Murray
+250,3,7:17.0,72,62,SAS,ORL,7,home,lost ball,steal,,turnover,,D. Eubanks,A. Gordon
+251,3,7:09.0,72,62,SAS,ORL,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Forbes,A. Gordon
+252,3,7:09.0,72,63,SAS,ORL,0,away,FreeThrow,,,make1,1,A. Gordon,
+253,3,7:09.0,72,64,SAS,ORL,0,away,FreeThrow,,,make1,1,A. Gordon,
+254,3,6:47.0,72,64,SAS,ORL,22,home,bad pass,steal,,turnover,,D. Murray,E. Fournier
+255,3,6:44.0,72,66,SAS,ORL,3,away,DK,,1,make2,2,A. Gordon,
+256,3,6:44.0,72,66,SAS,ORL,0,home,Timeout,,,,,,
+257,3,6:33.0,75,66,SAS,ORL,11,home,JS,assist,25,make3,3,B. Forbes,D. Murray
+258,3,6:17.0,75,66,SAS,ORL,16,away,JS,,25,miss3,0,E. Fournier,
+259,3,6:17.0,75,66,SAS,ORL,0,home,DefReb,,,DefReb,,Team,
+260,3,6:17.0,75,66,SAS,ORL,0,home,Sub,,,,,R. Gay,D. Eubanks
+261,3,5:55.0,77,66,SAS,ORL,22,home,LU,,2,make2,2,D. DeRozan,
+262,3,5:47.0,77,66,SAS,ORL,8,away,LU,,2,miss2,0,A. Gordon,
+263,3,5:47.0,77,66,SAS,ORL,0,away,OffReb,,,OffReb,,M. Fultz,
+264,3,5:43.0,77,66,SAS,ORL,4,home,TechnicalFoul,,,TechnicalFoul,,A. Gordon,
+265,3,5:43.0,78,66,SAS,ORL,0,home,FreeThrow,,,make1,1,D. DeRozan makes technical free throw,
+266,3,5:43.0,78,66,SAS,ORL,0,away,Sub,,,,,T. Ross,J. Ennis
+267,3,5:43.0,78,66,SAS,ORL,0,home,Sub,,,,,D. White,D. Murray
+268,3,5:33.0,78,68,SAS,ORL,10,away,HS,assist,2,make2,2,A. Gordon,E. Fournier
+269,3,5:23.0,78,68,SAS,ORL,10,home,JS,,14,miss2,0,B. Forbes,
+270,3,5:21.0,78,68,SAS,ORL,2,away,DefReb,,,DefReb,,A. Gordon,
+271,3,5:08.0,78,68,SAS,ORL,13,away,JS,,24,miss3,0,M. Fultz,
+272,3,5:03.0,78,68,SAS,ORL,5,away,OffReb,,,OffReb,,E. Fournier,
+273,3,4:57.0,78,68,SAS,ORL,6,away,bad pass,steal,,turnover,,M. Fultz,D. White
+274,3,4:48.0,78,68,SAS,ORL,9,home,JS,,21,miss2,0,B. Forbes,
+275,3,4:45.0,78,68,SAS,ORL,3,away,DefReb,,,DefReb,,A. Gordon,
+276,3,4:41.0,78,70,SAS,ORL,4,away,DK,assist,1,make2,2,M. Fultz,A. Gordon
+277,3,4:25.0,80,70,SAS,ORL,16,home,DK,assist,1,make2,2,T. Lyles,R. Gay
+278,3,4:25.0,80,70,SAS,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,T. Lyles
+279,3,4:25.0,80,70,SAS,ORL,0,home,Sub,,,,,P. Mills,B. Forbes
+280,3,4:25.0,81,70,SAS,ORL,0,home,FreeThrow,,,make1,1,T. Lyles,
+281,3,4:11.0,81,73,SAS,ORL,14,away,JS,assist,25,make3,3,E. Fournier,A. Gordon
+282,3,3:48.0,84,73,SAS,ORL,23,home,JS,assist,24,make3,3,P. Mills,D. White
+283,3,3:33.0,84,73,SAS,ORL,15,away,bad pass,steal,,turnover,,E. Fournier,T. Lyles
+284,3,3:28.0,84,73,SAS,ORL,5,home,JS,,24,miss3,0,P. Mills,
+285,3,3:26.0,84,73,SAS,ORL,2,away,DefReb,,,DefReb,,A. Gordon,
+286,3,3:23.0,84,73,SAS,ORL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Lyles,A. Gordon
+287,3,3:23.0,84,73,SAS,ORL,0,away,FreeThrow,,,make1,0,A. Gordon,
+288,3,3:23.0,84,73,SAS,ORL,0,away,OffReb,,,OffReb,,Team,
+289,3,3:23.0,84,73,SAS,ORL,0,away,Sub,,,,,D. Augustin,E. Fournier
+290,3,3:23.0,84,73,SAS,ORL,0,away,Sub,,,,,M. Carter-Williams,M. Fultz
+291,3,3:23.0,84,73,SAS,ORL,0,away,FreeThrow,,,make1,0,A. Gordon,
+292,3,3:20.0,84,73,SAS,ORL,3,home,DefReb,,,DefReb,,R. Gay,
+293,3,3:09.0,84,73,SAS,ORL,11,home,JS,,15,miss2,0,D. DeRozan,
+294,3,3:07.0,84,73,SAS,ORL,2,away,DefReb,,,DefReb,,M. Carter-Williams,
+295,3,2:45.0,84,73,SAS,ORL,22,away,JS,,27,miss3,0,T. Ross,
+296,3,2:41.0,84,73,SAS,ORL,4,away,OffReb,,,OffReb,,N. Vučević,
+297,3,2:40.0,84,75,SAS,ORL,1,away,LU,,2,make2,2,N. Vučević,
+298,3,2:28.0,84,75,SAS,ORL,12,home,LU,,3,miss2,0,D. DeRozan,
+299,3,2:25.0,84,75,SAS,ORL,3,away,DefReb,,,DefReb,,N. Vučević,
+300,3,2:20.0,84,75,SAS,ORL,5,away,JS,,27,miss3,0,T. Ross,
+301,3,2:19.0,84,75,SAS,ORL,1,home,DefReb,,,DefReb,,Team,
+302,3,2:19.0,84,75,SAS,ORL,0,away,Sub,,,,,M. Bamba,A. Gordon
+303,3,2:19.0,84,75,SAS,ORL,0,away,Sub,,,,,J. Ennis,N. Vučević
+304,3,2:19.0,84,75,SAS,ORL,0,home,Sub,,,,,L. Walker,D. DeRozan
+305,3,1:58.0,84,75,SAS,ORL,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bamba,R. Gay
+306,3,1:58.0,84,75,SAS,ORL,0,home,FreeThrow,,,make1,0,R. Gay,
+307,3,1:58.0,84,75,SAS,ORL,0,home,OffReb,,,OffReb,,Team,
+308,3,1:58.0,84,75,SAS,ORL,0,home,Sub,,,,,M. Belinelli,T. Lyles
+309,3,1:58.0,85,75,SAS,ORL,0,home,FreeThrow,,,make1,1,R. Gay,
+310,3,1:47.0,85,75,SAS,ORL,11,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Bamba,P. Mills
+311,3,1:47.0,85,75,SAS,ORL,0,away,OffensiveFoul,,,turnover,,M. Bamba,
+312,3,1:35.0,85,75,SAS,ORL,12,home,JS,,12,miss2,0,D. White,
+313,3,1:33.0,85,75,SAS,ORL,2,away,DefReb,,,DefReb,,M. Bamba,
+314,3,1:21.0,85,75,SAS,ORL,12,away,JS,,26,miss3,0,D. Augustin,
+315,3,1:17.0,85,75,SAS,ORL,4,home,DefReb,,,DefReb,,D. White,
+316,3,1:08.0,85,75,SAS,ORL,9,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Gay,M. Carter-Williams
+317,3,1:08.0,85,75,SAS,ORL,0,home,OffensiveFoul,,,turnover,,R. Gay,
+318,3,0:59.0,85,77,SAS,ORL,9,away,JS,assist,10,make2,2,T. Ross,D. Augustin
+319,3,0:59.0,85,77,SAS,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. White,T. Ross
+320,3,0:59.0,85,78,SAS,ORL,0,away,FreeThrow,,,make1,1,T. Ross,
+321,3,0:43.0,85,78,SAS,ORL,16,home,Traveling,,,turnover,,R. Gay,
+322,3,0:23.0,85,81,SAS,ORL,20,away,JS,assist,26,make3,3,M. Carter-Williams,D. Augustin
+323,3,0:02.0,85,81,SAS,ORL,21,home,JS,,9,miss2,0,R. Gay,
+324,3,0:01.0,85,81,SAS,ORL,1,away,DefReb,,,DefReb,,J. Ennis,
+325,3,0:00.0,85,81,SAS,ORL,1,away,JS,,62,miss3,0,J. Ennis,
+326,3,0:00.0,85,81,SAS,ORL,0,away,OffReb,,,OffReb,,Team,
+327,4,11:48.0,85,81,SAS,ORL,12,home,JS,block,15,miss2,0,M. Belinelli,J. Ennis
+328,4,11:47.0,85,81,SAS,ORL,1,home,OffReb,,,OffReb,,Team,
+329,4,11:40.0,85,81,SAS,ORL,7,home,JS,,13,miss2,0,R. Gay,
+330,4,11:37.0,85,81,SAS,ORL,3,away,DefReb,,,DefReb,,T. Ross,
+331,4,11:27.0,85,81,SAS,ORL,10,away,bad pass,steal,,turnover,,J. Ennis,L. Walker
+332,4,11:23.0,85,81,SAS,ORL,4,home,LU,,2,miss2,0,L. Walker,
+333,4,11:20.0,85,81,SAS,ORL,3,away,DefReb,,,DefReb,,J. Ennis,
+334,4,11:08.0,85,83,SAS,ORL,12,away,LU,assist,1,make2,2,J. Ennis,D. Augustin
+335,4,10:56.0,87,83,SAS,ORL,12,home,JS,assist,21,make2,2,M. Belinelli,R. Gay
+336,4,10:37.0,87,86,SAS,ORL,19,away,JS,,25,make3,3,D. Augustin,
+337,4,10:22.0,87,86,SAS,ORL,15,home,JS,block,27,miss3,0,M. Belinelli,J. Ennis
+338,4,10:21.0,87,86,SAS,ORL,1,away,DefReb,,,DefReb,,Team,
+339,4,10:21.0,87,86,SAS,ORL,0,home,Sub,,,,,T. Lyles,R. Gay
+340,4,10:21.0,87,86,SAS,ORL,0,home,Sub,,,,,D. Murray,L. Walker
+341,4,10:21.0,87,86,SAS,ORL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Belinelli,J. Ennis
+342,4,10:21.0,87,86,SAS,ORL,0,home,InstantReplay,,,RulingStands,,Team,
+343,4,10:10.0,87,86,SAS,ORL,11,away,LU,block,3,miss2,0,M. Bamba,T. Lyles
+344,4,10:03.0,87,86,SAS,ORL,7,away,OffReb,,,OffReb,,M. Bamba,
+345,4,10:03.0,87,86,SAS,ORL,0,away,LU,,0,miss2,0,M. Bamba,
+346,4,9:59.0,87,86,SAS,ORL,4,home,DefReb,,,DefReb,,T. Lyles,
+347,4,9:48.0,90,86,SAS,ORL,11,home,JS,assist,24,make3,3,D. White,D. Murray
+348,4,9:34.0,90,89,SAS,ORL,14,away,JS,assist,26,make3,3,M. Bamba,D. Augustin
+349,4,9:23.0,90,89,SAS,ORL,11,home,JS,,26,miss3,0,M. Belinelli,
+350,4,9:19.0,90,89,SAS,ORL,4,away,DefReb,,,DefReb,,M. Bamba,
+351,4,9:16.0,90,91,SAS,ORL,3,away,JS,,1,make2,2,M. Carter-Williams,
+352,4,8:54.0,90,91,SAS,ORL,22,home,JS,block,11,miss2,0,D. White,M. Bamba
+353,4,8:46.0,90,91,SAS,ORL,8,away,DefReb,,,DefReb,,T. Ross,
+354,4,8:38.0,90,93,SAS,ORL,8,away,JS,,9,make2,2,D. Augustin,
+355,4,8:37.0,90,93,SAS,ORL,1,home,Timeout,,,,,,
+356,4,8:37.0,90,93,SAS,ORL,0,home,Sub,,,,,D. DeRozan,M. Belinelli
+357,4,8:37.0,90,93,SAS,ORL,0,home,Sub,,,,,D. Eubanks,D. White
+358,4,8:15.0,90,93,SAS,ORL,22,home,JS,,26,miss3,0,P. Mills,
+359,4,8:10.0,90,93,SAS,ORL,5,away,DefReb,,,DefReb,,M. Carter-Williams,
+360,4,8:06.0,90,96,SAS,ORL,4,away,JS,assist,26,make3,3,T. Ross,M. Carter-Williams
+361,4,7:52.0,92,96,SAS,ORL,14,home,LU,,1,make2,2,D. Murray,
+362,4,7:38.0,92,96,SAS,ORL,14,away,bad pass,steal,,turnover,,J. Ennis,D. Murray
+363,4,7:34.0,94,96,SAS,ORL,4,home,DK,assist,2,make2,2,T. Lyles,D. Murray
+364,4,7:34.0,94,96,SAS,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Carter-Williams,T. Lyles
+365,4,7:34.0,94,96,SAS,ORL,0,away,Sub,,,,,A. Gordon,M. Bamba
+366,4,7:34.0,94,96,SAS,ORL,0,away,Sub,,,,,N. Vučević,J. Ennis
+367,4,7:34.0,95,96,SAS,ORL,0,home,FreeThrow,,,make1,1,T. Lyles,
+368,4,7:22.0,95,96,SAS,ORL,12,away,JS,,23,miss3,0,D. Augustin,
+369,4,7:18.0,95,96,SAS,ORL,4,home,DefReb,,,DefReb,,T. Lyles,
+370,4,7:13.0,95,96,SAS,ORL,5,home,JS,,27,miss3,0,P. Mills,
+371,4,7:05.0,95,96,SAS,ORL,8,away,DefReb,,,DefReb,,M. Carter-Williams,
+372,4,6:55.0,95,96,SAS,ORL,10,away,lost ball,steal,,turnover,,D. Augustin,D. Murray
+373,4,6:50.0,97,96,SAS,ORL,5,home,LU,assist,1,make2,2,P. Mills,D. Murray
+374,4,6:38.0,97,96,SAS,ORL,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Eubanks,N. Vučević
+375,4,6:38.0,97,96,SAS,ORL,0,away,Sub,,,,,E. Fournier,D. Augustin
+376,4,6:38.0,97,96,SAS,ORL,0,away,Sub,,,,,M. Fultz,M. Carter-Williams
+377,4,6:38.0,97,96,SAS,ORL,0,home,Sub,,,,,B. Forbes,P. Mills
+378,4,6:26.0,97,96,SAS,ORL,12,away,JS,,6,miss2,0,M. Fultz,
+379,4,6:26.0,97,96,SAS,ORL,0,home,DefReb,,,DefReb,,D. Eubanks,
+380,4,6:13.0,97,96,SAS,ORL,13,home,JS,,6,miss2,0,D. DeRozan,
+381,4,6:10.0,97,96,SAS,ORL,3,away,DefReb,,,DefReb,,N. Vučević,
+382,4,6:05.0,97,96,SAS,ORL,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Eubanks,N. Vučević
+383,4,6:05.0,97,97,SAS,ORL,0,away,FreeThrow,,,make1,1,N. Vučević,
+384,4,6:05.0,97,98,SAS,ORL,0,away,FreeThrow,,,make1,1,N. Vučević,
+385,4,5:52.0,99,98,SAS,ORL,13,home,LU,,3,make2,2,D. DeRozan,
+386,4,5:38.0,99,98,SAS,ORL,14,away,lost ball,steal,,turnover,,N. Vučević,D. DeRozan
+387,4,5:38.0,99,98,SAS,ORL,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Fournier,D. Murray
+388,4,5:26.0,99,98,SAS,ORL,12,home,JS,,12,miss2,0,D. Murray,
+389,4,5:22.0,99,98,SAS,ORL,4,away,DefReb,,,DefReb,,T. Ross,
+390,4,5:17.0,99,101,SAS,ORL,5,away,JS,,25,make3,3,T. Ross,
+391,4,5:01.0,101,101,SAS,ORL,16,home,JS,assist,19,make2,2,B. Forbes,D. Murray
+392,4,4:52.0,101,101,SAS,ORL,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Forbes,A. Gordon
+393,4,4:52.0,101,101,SAS,ORL,0,home,Sub,,,,,R. Gay,D. Eubanks
+394,4,4:52.0,101,101,SAS,ORL,0,home,Sub,,,,,D. White,B. Forbes
+395,4,4:47.0,101,101,SAS,ORL,5,away,JS,,27,miss3,0,T. Ross,
+396,4,4:43.0,101,101,SAS,ORL,4,home,DefReb,,,DefReb,,D. DeRozan,
+397,4,4:32.0,103,101,SAS,ORL,11,home,JS,,16,make2,2,D. DeRozan,
+398,4,4:17.0,103,103,SAS,ORL,15,away,LU,assist,2,make2,2,N. Vučević,E. Fournier
+399,4,3:59.0,105,103,SAS,ORL,18,home,JS,assist,18,make2,2,T. Lyles,R. Gay
+400,4,3:45.0,105,106,SAS,ORL,14,away,JS,assist,25,make3,3,E. Fournier,M. Fultz
+401,4,3:30.0,105,106,SAS,ORL,15,home,JS,,26,miss3,0,R. Gay,
+402,4,3:28.0,105,106,SAS,ORL,2,home,OffReb,,,OffReb,,R. Gay,
+403,4,3:25.0,105,106,SAS,ORL,3,home,LU,,3,miss2,0,D. DeRozan,
+404,4,3:21.0,105,106,SAS,ORL,4,away,DefReb,,,DefReb,,A. Gordon,
+405,4,3:18.0,105,109,SAS,ORL,3,away,JS,assist,26,make3,3,T. Ross,M. Fultz
+406,4,3:17.0,105,109,SAS,ORL,1,home,Timeout,,,,,,
+407,4,3:05.0,105,109,SAS,ORL,12,home,LU,,3,miss2,0,D. DeRozan,
+408,4,3:05.0,105,109,SAS,ORL,0,away,DefReb,,,DefReb,,Team,
+409,4,3:05.0,105,109,SAS,ORL,0,away,InstantReplay,,,RulingStands,,Team,
+410,4,2:55.0,105,109,SAS,ORL,10,away,BadPass,,,turnover,,A. Gordon,
+411,4,2:40.0,107,109,SAS,ORL,15,home,JS,assist,3,make2,2,R. Gay,D. DeRozan
+412,4,2:22.0,107,109,SAS,ORL,18,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,E. Fournier,D. White
+413,4,2:22.0,107,109,SAS,ORL,0,away,OffensiveFoul,,,turnover,,E. Fournier,
+414,4,2:22.0,107,109,SAS,ORL,0,home,Sub,,,,,B. Forbes,D. Murray
+415,4,2:12.0,107,109,SAS,ORL,10,home,JS,,25,miss3,0,R. Gay,
+416,4,2:09.0,107,109,SAS,ORL,3,away,DefReb,,,DefReb,,N. Vučević,
+417,4,2:00.0,107,111,SAS,ORL,9,away,LU,,1,make2,2,M. Fultz,
+418,4,1:52.0,109,111,SAS,ORL,8,home,JS,,1,make2,2,D. DeRozan,
+419,4,1:39.0,109,111,SAS,ORL,13,away,JS,,20,miss2,0,N. Vučević,
+420,4,1:36.0,109,111,SAS,ORL,3,home,DefReb,,,DefReb,,T. Lyles,
+421,4,1:27.0,111,111,SAS,ORL,9,home,LU,assist,3,make2,2,B. Forbes,D. DeRozan
+422,4,1:11.0,111,111,SAS,ORL,16,away,JS,,27,miss3,0,E. Fournier,
+423,4,1:07.0,111,111,SAS,ORL,4,home,DefReb,,,DefReb,,T. Lyles,
+424,4,0:50.0,114,111,SAS,ORL,17,home,JS,assist,25,make3,3,B. Forbes,D. DeRozan
+425,4,0:49.0,114,111,SAS,ORL,1,away,Timeout,,,,,,
+426,4,0:49.0,114,111,SAS,ORL,0,home,Sub,,,,,D. Murray,B. Forbes
+427,4,0:40.0,114,113,SAS,ORL,9,away,JS,assist,13,make2,2,M. Fultz,N. Vučević
+428,4,0:15.0,114,113,SAS,ORL,25,home,JS,,12,miss2,0,R. Gay,
+429,4,0:13.0,114,113,SAS,ORL,2,home,OffReb,,,OffReb,,R. Gay,
+430,4,0:11.0,114,113,SAS,ORL,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Fournier,D. DeRozan
+431,4,0:11.0,114,113,SAS,ORL,0,home,Sub,,,,,B. Forbes,T. Lyles
+432,4,0:11.0,114,113,SAS,ORL,0,home,Sub,,,,,P. Mills,D. Murray
+433,4,0:11.0,114,113,SAS,ORL,0,home,Timeout,,,,,,
+434,4,0:11.0,114,113,SAS,ORL,0,away,Sub,,,,,M. Carter-Williams,T. Ross
+435,4,0:11.0,114,113,SAS,ORL,0,away,Sub,,,,,J. Ennis,N. Vučević
+436,4,0:11.0,114,113,SAS,ORL,0,home,Timeout,,,,,,
+437,4,0:07.0,114,113,SAS,ORL,4,home,bad pass,steal,,turnover,,B. Forbes,M. Fultz
+438,4,0:02.0,114,113,SAS,ORL,5,away,LU,,2,miss2,0,E. Fournier,
+439,4,0:02.0,114,113,SAS,ORL,0,home,DefReb,,,DefReb,,D. White,

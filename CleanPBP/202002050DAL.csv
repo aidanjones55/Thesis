@@ -1,0 +1,463 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,2,0,DAL,MEM,15,home,HS,,3,make2,2,D. Finney-Smith,
+1,1,11:23.0,2,0,DAL,MEM,22,away,JS,,26,miss3,0,J. Jackson,
+2,1,11:19.0,2,0,DAL,MEM,4,home,DefReb,,,DefReb,,T. Hardaway,
+3,1,11:15.0,5,0,DAL,MEM,4,home,JS,assist,27,make3,3,K. Porziņģis,D. Finney-Smith
+4,1,10:59.0,5,2,DAL,MEM,16,away,JS,assist,12,make2,2,J. Morant,K. Anderson
+5,1,10:44.0,7,2,DAL,MEM,15,home,LU,assist,2,make2,2,K. Porziņģis,J. Brunson
+6,1,10:29.0,7,4,DAL,MEM,15,away,JS,,14,make2,2,D. Brooks,
+7,1,10:20.0,7,4,DAL,MEM,9,home,JS,,28,miss3,0,K. Porziņģis,
+8,1,10:20.0,7,4,DAL,MEM,0,away,DefReb,,,DefReb,,D. Brooks,
+9,1,10:07.0,7,4,DAL,MEM,13,away,JS,,17,miss2,0,D. Brooks,
+10,1,10:06.0,7,4,DAL,MEM,1,home,DefReb,,,DefReb,,Team,
+11,1,10:06.0,7,4,DAL,MEM,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Valančiūnas,K. Porziņģis
+12,1,9:53.0,9,4,DAL,MEM,13,home,JS,assist,17,make2,2,J. Brunson,M. Kleber
+13,1,9:30.0,9,4,DAL,MEM,23,away,bad pass,steal,,turnover,,J. Morant,K. Porziņģis
+14,1,9:26.0,9,4,DAL,MEM,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Morant,D. Finney-Smith
+15,1,9:14.0,9,4,DAL,MEM,12,home,JS,,25,miss3,0,K. Porziņģis,
+16,1,9:12.0,9,4,DAL,MEM,2,home,OffReb,,,OffReb,,M. Kleber,
+17,1,9:12.0,11,4,DAL,MEM,0,home,LU,,0,make2,2,M. Kleber,
+18,1,9:12.0,11,4,DAL,MEM,0,away,Timeout,,,,,,
+19,1,8:56.0,11,4,DAL,MEM,16,away,JS,,10,miss2,0,J. Valančiūnas,
+20,1,8:52.0,11,4,DAL,MEM,4,home,DefReb,,,DefReb,,T. Hardaway,
+21,1,8:39.0,11,4,DAL,MEM,13,home,JS,,23,miss3,0,D. Finney-Smith,
+22,1,8:37.0,11,4,DAL,MEM,2,away,DefReb,,,DefReb,,J. Jackson,
+23,1,8:36.0,11,4,DAL,MEM,1,away,bad pass,steal,,turnover,,J. Jackson,D. Finney-Smith
+24,1,8:33.0,11,4,DAL,MEM,3,home,LU,block,2,miss2,0,D. Finney-Smith,J. Jackson
+25,1,8:31.0,11,4,DAL,MEM,2,away,DefReb,,,DefReb,,J. Valančiūnas,
+26,1,8:24.0,11,4,DAL,MEM,7,away,JS,,23,miss3,0,K. Anderson,
+27,1,8:19.0,11,4,DAL,MEM,5,home,DefReb,,,DefReb,,T. Hardaway,
+28,1,8:16.0,11,4,DAL,MEM,3,home,lost ball,steal,,turnover,,D. Finney-Smith,K. Anderson
+29,1,8:06.0,11,6,DAL,MEM,10,away,LU,,0,make2,2,J. Morant,
+30,1,7:54.0,11,6,DAL,MEM,12,home,LU,,2,miss2,0,J. Brunson,
+31,1,7:54.0,11,6,DAL,MEM,0,home,OffReb,,,OffReb,,M. Kleber,
+32,1,7:50.0,13,6,DAL,MEM,4,home,LU,,0,make2,2,M. Kleber,
+33,1,7:38.0,13,9,DAL,MEM,12,away,JS,assist,28,make3,3,J. Morant,J. Jackson
+34,1,7:26.0,13,9,DAL,MEM,12,home,JS,,26,miss3,0,M. Kleber,
+35,1,7:23.0,13,9,DAL,MEM,3,away,DefReb,,,DefReb,,D. Brooks,
+36,1,7:16.0,13,9,DAL,MEM,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Kleber,J. Jackson
+37,1,7:08.0,13,12,DAL,MEM,8,away,JS,assist,26,make3,3,J. Jackson,D. Brooks
+38,1,6:54.0,13,12,DAL,MEM,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Morant,J. Brunson
+39,1,6:54.0,14,12,DAL,MEM,0,home,FreeThrow,,,make1,1,J. Brunson,
+40,1,6:54.0,15,12,DAL,MEM,0,home,FreeThrow,,,make1,1,J. Brunson,
+41,1,6:37.0,15,12,DAL,MEM,17,away,bad pass,steal,,turnover,,J. Jackson,K. Porziņģis
+42,1,6:28.0,17,12,DAL,MEM,9,home,JS,,21,make2,2,K. Porziņģis,
+43,1,6:07.0,17,14,DAL,MEM,21,away,LU,,2,make2,2,J. Morant,
+44,1,5:54.0,19,14,DAL,MEM,13,home,JS,,21,make2,2,K. Porziņģis,
+45,1,5:40.0,19,16,DAL,MEM,14,away,DK,assist,1,make2,2,J. Jackson,K. Anderson
+46,1,5:31.0,19,16,DAL,MEM,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Brooks,T. Hardaway
+47,1,5:31.0,19,16,DAL,MEM,0,away,Sub,,,,,B. Clarke,J. Morant
+48,1,5:31.0,19,16,DAL,MEM,0,away,Sub,,,,,T. Jones,J. Valančiūnas
+49,1,5:31.0,19,16,DAL,MEM,0,home,Sub,,,,,R. Broekhoff,D. Finney-Smith
+50,1,5:31.0,19,16,DAL,MEM,0,home,Sub,,,,,D. Wright,M. Kleber
+51,1,5:21.0,21,16,DAL,MEM,10,home,JS,,8,make2,2,J. Brunson,
+52,1,5:07.0,21,18,DAL,MEM,14,away,JS,assist,5,make2,2,T. Jones,B. Clarke
+53,1,4:57.0,21,18,DAL,MEM,10,home,JS,,26,miss3,0,K. Porziņģis,
+54,1,4:53.0,21,18,DAL,MEM,4,away,DefReb,,,DefReb,,B. Clarke,
+55,1,4:49.0,21,18,DAL,MEM,4,away,JS,,26,miss3,0,D. Brooks,
+56,1,4:46.0,21,18,DAL,MEM,3,home,DefReb,,,DefReb,,K. Porziņģis,
+57,1,4:38.0,21,18,DAL,MEM,8,home,LU,,3,miss2,0,T. Hardaway,
+58,1,4:36.0,21,18,DAL,MEM,2,away,DefReb,,,DefReb,,K. Anderson,
+59,1,4:34.0,21,18,DAL,MEM,2,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Anderson,J. Brunson
+60,1,4:34.0,21,18,DAL,MEM,0,away,OffensiveFoul,,,turnover,,K. Anderson,
+61,1,4:34.0,21,18,DAL,MEM,0,away,Sub,,,,,J. Jackson,K. Anderson
+62,1,4:34.0,21,18,DAL,MEM,0,away,Sub,,,,,D. Melton,D. Brooks
+63,1,4:15.0,24,18,DAL,MEM,19,home,JS,assist,25,make3,3,K. Porziņģis,J. Brunson
+64,1,4:01.0,24,18,DAL,MEM,14,away,JS,,6,miss2,0,J. Jackson,
+65,1,4:01.0,24,18,DAL,MEM,0,home,DefReb,,,DefReb,,K. Porziņģis,
+66,1,3:50.0,24,18,DAL,MEM,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Jones,D. Wright
+67,1,3:50.0,24,18,DAL,MEM,0,home,FreeThrow,,,make1,0,D. Wright,
+68,1,3:50.0,24,18,DAL,MEM,0,home,OffReb,,,OffReb,,Team,
+69,1,3:50.0,25,18,DAL,MEM,0,home,FreeThrow,,,make1,1,D. Wright,
+70,1,3:40.0,25,21,DAL,MEM,10,away,JS,assist,26,make3,3,J. Jackson,T. Jones
+71,1,3:31.0,25,21,DAL,MEM,9,home,Timeout,,,,,,
+72,1,3:24.0,25,21,DAL,MEM,7,home,bad pass,steal,,turnover,,J. Brunson,J. Jackson
+73,1,3:19.0,25,23,DAL,MEM,5,away,DK,assist,0,make2,2,B. Clarke,J. Jackson
+74,1,2:56.0,25,23,DAL,MEM,23,home,JS,,25,miss3,0,T. Hardaway,
+75,1,2:55.0,25,23,DAL,MEM,1,away,DefReb,,,DefReb,,Team,
+76,1,2:55.0,25,23,DAL,MEM,0,home,Sub,,,,,J. Jackson,J. Brunson
+77,1,2:39.0,25,25,DAL,MEM,16,away,LU,assist,1,make2,2,T. Jones,J. Jackson
+78,1,2:32.0,28,25,DAL,MEM,7,home,JS,assist,26,make3,3,K. Porziņģis,D. Wright
+79,1,2:17.0,28,27,DAL,MEM,15,away,DK,assist,1,make2,2,J. Jackson,T. Jones
+80,1,2:17.0,28,27,DAL,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Broekhoff,J. Jackson
+81,1,2:17.0,28,27,DAL,MEM,0,home,Sub,,,,,W. Cauley-Stein,R. Broekhoff
+82,1,2:17.0,28,27,DAL,MEM,0,home,Sub,,,,,M. Kleber,K. Porziņģis
+83,1,2:17.0,28,27,DAL,MEM,0,away,FreeThrow,,,make1,0,J. Jackson,
+84,1,2:15.0,28,27,DAL,MEM,2,home,DefReb,,,DefReb,,M. Kleber,
+85,1,1:56.0,28,27,DAL,MEM,19,home,bad pass,steal,,turnover,,D. Wright,J. Jackson
+86,1,1:53.0,28,29,DAL,MEM,3,away,DK,assist,1,make2,2,D. Melton,B. Clarke
+87,1,1:53.0,28,29,DAL,MEM,0,home,Timeout,,,,,,
+88,1,1:53.0,28,29,DAL,MEM,0,away,Sub,,,,,J. Valančiūnas,J. Jackson
+89,1,1:43.0,28,29,DAL,MEM,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Melton,T. Hardaway
+90,1,1:43.0,29,29,DAL,MEM,0,home,FreeThrow,,,make1,1,T. Hardaway,
+91,1,1:43.0,30,29,DAL,MEM,0,home,FreeThrow,,,make1,1,T. Hardaway,
+92,1,1:28.0,30,29,DAL,MEM,15,away,JS,,15,miss2,0,D. Melton,
+93,1,1:24.0,30,29,DAL,MEM,4,home,DefReb,,,DefReb,,D. Wright,
+94,1,1:12.0,30,29,DAL,MEM,12,home,LU,block,2,miss2,0,T. Hardaway,B. Clarke
+95,1,1:09.0,30,29,DAL,MEM,3,away,DefReb,,,DefReb,,T. Jones,
+96,1,0:48.0,30,29,DAL,MEM,21,away,JS,,6,miss2,0,J. Valančiūnas,
+97,1,0:46.0,30,29,DAL,MEM,2,home,DefReb,,,DefReb,,W. Cauley-Stein,
+98,1,0:32.0,30,29,DAL,MEM,14,home,JS,,20,miss2,0,T. Hardaway,
+99,1,0:32.0,30,29,DAL,MEM,0,away,DefReb,,,DefReb,,B. Clarke,
+100,1,0:11.0,30,31,DAL,MEM,21,away,JS,,13,make2,2,T. Jones,
+101,1,0:04.0,30,31,DAL,MEM,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jackson,D. Wright
+102,1,0:04.0,31,31,DAL,MEM,0,home,FreeThrow,,,make1,1,D. Wright,
+103,1,0:04.0,32,31,DAL,MEM,0,home,FreeThrow,,,make1,1,D. Wright,
+104,1,0:04.0,32,31,DAL,MEM,0,away,Sub,,,,,J. Jackson,J. Valančiūnas
+105,1,0:00.0,32,31,DAL,MEM,4,away,JS,,19,miss2,0,D. Melton,
+106,1,0:00.0,32,31,DAL,MEM,0,away,OffReb,,,OffReb,,Team,
+107,2,11:45.0,32,31,DAL,MEM,15,away,JS,block,11,miss2,0,B. Clarke,W. Cauley-Stein
+108,2,11:43.0,32,31,DAL,MEM,2,home,DefReb,,,DefReb,,W. Cauley-Stein,
+109,2,11:31.0,32,31,DAL,MEM,12,home,JS,,11,miss2,0,J. Jackson,
+110,2,11:28.0,32,31,DAL,MEM,3,away,DefReb,,,DefReb,,J. Valančiūnas,
+111,2,11:19.0,32,31,DAL,MEM,9,away,JS,,25,miss3,0,J. Jackson,
+112,2,11:15.0,32,31,DAL,MEM,4,home,DefReb,,,DefReb,,D. Finney-Smith,
+113,2,11:00.0,35,31,DAL,MEM,15,home,JS,assist,23,make3,3,D. Finney-Smith,D. Wright
+114,2,10:40.0,35,31,DAL,MEM,20,away,LU,block,3,miss2,0,J. Jackson,W. Cauley-Stein
+115,2,10:38.0,35,31,DAL,MEM,2,home,DefReb,,,DefReb,,D. Wright,
+116,2,10:30.0,35,31,DAL,MEM,8,home,JS,,4,miss2,0,J. Jackson,
+117,2,10:29.0,35,31,DAL,MEM,1,away,DefReb,,,DefReb,,J. Valančiūnas,
+118,2,10:20.0,35,34,DAL,MEM,9,away,JS,assist,24,make3,3,J. Jackson,J. Morant
+119,2,10:04.0,35,34,DAL,MEM,16,home,JS,,25,miss3,0,D. Wright,
+120,2,10:02.0,35,34,DAL,MEM,2,home,OffReb,,,OffReb,,W. Cauley-Stein,
+121,2,9:57.0,35,34,DAL,MEM,5,home,JS,,16,miss2,0,D. Wright,
+122,2,9:57.0,35,34,DAL,MEM,0,away,DefReb,,,DefReb,,J. Jackson,
+123,2,9:48.0,35,34,DAL,MEM,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Cauley-Stein,B. Clarke
+124,2,9:48.0,35,34,DAL,MEM,0,away,Sub,,,,,K. Anderson,B. Clarke
+125,2,9:48.0,35,34,DAL,MEM,0,away,Sub,,,,,D. Brooks,J. Jackson
+126,2,9:41.0,35,36,DAL,MEM,7,away,JS,,11,make2,2,J. Morant,
+127,2,9:29.0,35,36,DAL,MEM,12,home,JS,,9,miss2,0,J. Jackson,
+128,2,9:27.0,35,36,DAL,MEM,2,away,DefReb,,,DefReb,,J. Valančiūnas,
+129,2,9:16.0,35,36,DAL,MEM,11,away,JS,,22,miss3,0,D. Melton,
+130,2,9:15.0,35,36,DAL,MEM,1,away,OffReb,,,OffReb,,J. Valančiūnas,
+131,2,9:11.0,35,38,DAL,MEM,4,away,HS,,4,make2,2,J. Valančiūnas,
+132,2,8:52.0,37,38,DAL,MEM,19,home,JS,,19,make2,2,W. Cauley-Stein,
+133,2,8:37.0,37,41,DAL,MEM,15,away,JS,assist,25,make3,3,D. Brooks,J. Morant
+134,2,8:15.0,37,41,DAL,MEM,22,home,JS,,18,miss2,0,M. Kleber,
+135,2,8:12.0,37,41,DAL,MEM,3,away,DefReb,,,DefReb,,D. Melton,
+136,2,8:03.0,37,43,DAL,MEM,9,away,JS,,18,make2,2,K. Anderson,
+137,2,8:02.0,37,43,DAL,MEM,1,home,Timeout,,,,,,
+138,2,8:02.0,37,43,DAL,MEM,0,home,Sub,,,,,R. Broekhoff,J. Jackson
+139,2,8:02.0,37,43,DAL,MEM,0,home,Sub,,,,,J. Brunson,M. Kleber
+140,2,8:02.0,37,43,DAL,MEM,0,home,Sub,,,,,K. Porziņģis,D. Wright
+141,2,7:47.0,37,43,DAL,MEM,15,home,JS,,25,miss3,0,R. Broekhoff,
+142,2,7:46.0,37,43,DAL,MEM,1,home,OffReb,,,OffReb,,Team,
+143,2,7:37.0,37,43,DAL,MEM,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Anderson,J. Brunson
+144,2,7:24.0,39,43,DAL,MEM,13,home,LU,assist,1,make2,2,W. Cauley-Stein,J. Brunson
+145,2,7:10.0,39,45,DAL,MEM,14,away,JS,,14,make2,2,D. Melton,
+146,2,6:44.0,39,45,DAL,MEM,26,home,JS,,14,miss2,0,K. Porziņģis,
+147,2,6:42.0,39,45,DAL,MEM,2,away,DefReb,,,DefReb,,D. Melton,
+148,2,6:37.0,39,47,DAL,MEM,5,away,DK,assist,0,make2,2,D. Brooks,D. Melton
+149,2,6:24.0,39,47,DAL,MEM,13,home,bad pass,steal,,turnover,,J. Brunson,D. Melton
+150,2,6:22.0,39,47,DAL,MEM,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Finney-Smith,D. Melton
+151,2,6:22.0,39,47,DAL,MEM,0,away,FreeThrow,,,make1,0,D. Melton,
+152,2,6:22.0,39,47,DAL,MEM,0,away,OffReb,,,OffReb,,Team,
+153,2,6:22.0,39,47,DAL,MEM,0,away,Sub,,,,,J. Jackson,J. Valančiūnas
+154,2,6:22.0,39,47,DAL,MEM,0,home,Sub,,,,,T. Hardaway,R. Broekhoff
+155,2,6:22.0,39,47,DAL,MEM,0,home,Sub,,,,,M. Kleber,W. Cauley-Stein
+156,2,6:22.0,39,48,DAL,MEM,0,away,FreeThrow,,,make1,1,D. Melton,
+157,2,5:58.0,39,48,DAL,MEM,24,home,JS,,32,miss3,0,K. Porziņģis,
+158,2,5:55.0,39,48,DAL,MEM,3,away,DefReb,,,DefReb,,K. Anderson,
+159,2,5:48.0,39,50,DAL,MEM,7,away,LU,,1,make2,2,J. Morant,
+160,2,5:41.0,39,50,DAL,MEM,7,home,Timeout,,,,,,
+161,2,5:41.0,39,50,DAL,MEM,0,away,Sub,,,,,J. Jackson,D. Melton
+162,2,5:41.0,39,50,DAL,MEM,0,away,Sub,,,,,T. Jones,J. Morant
+163,2,5:27.0,42,50,DAL,MEM,14,home,JS,assist,23,make3,3,M. Kleber,J. Brunson
+164,2,5:08.0,42,50,DAL,MEM,19,away,JS,,6,miss2,0,J. Jackson,
+165,2,5:05.0,42,50,DAL,MEM,3,home,DefReb,,,DefReb,,K. Porziņģis,
+166,2,4:57.0,42,50,DAL,MEM,8,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Hardaway,J. Jackson
+167,2,4:57.0,42,50,DAL,MEM,0,home,OffensiveFoul,,,turnover,,T. Hardaway,
+168,2,4:44.0,42,50,DAL,MEM,13,away,JS,,16,miss2,0,D. Brooks,
+169,2,4:41.0,42,50,DAL,MEM,3,home,DefReb,,,DefReb,,D. Finney-Smith,
+170,2,4:32.0,42,50,DAL,MEM,9,home,JS,,10,miss2,0,K. Porziņģis,
+171,2,4:28.0,42,50,DAL,MEM,4,away,DefReb,,,DefReb,,J. Jackson,
+172,2,4:26.0,42,50,DAL,MEM,2,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Jackson,J. Brunson
+173,2,4:26.0,42,50,DAL,MEM,0,away,OffensiveFoul,,,turnover,,J. Jackson,
+174,2,4:26.0,42,50,DAL,MEM,0,away,Sub,,,,,B. Clarke,K. Anderson
+175,2,4:11.0,45,50,DAL,MEM,15,home,JS,,25,make3,3,T. Hardaway,
+176,2,3:55.0,45,50,DAL,MEM,16,away,JS,block,25,miss3,0,J. Jackson,K. Porziņģis
+177,2,3:53.0,45,50,DAL,MEM,2,away,OffReb,,,OffReb,,B. Clarke,
+178,2,3:51.0,45,52,DAL,MEM,2,away,JS,,8,make2,2,B. Clarke,
+179,2,3:38.0,45,52,DAL,MEM,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,T. Hardaway
+180,2,3:38.0,46,52,DAL,MEM,0,home,FreeThrow,,,make1,1,T. Hardaway,
+181,2,3:38.0,47,52,DAL,MEM,0,home,FreeThrow,,,make1,1,T. Hardaway,
+182,2,3:22.0,47,52,DAL,MEM,16,away,JS,,25,miss3,0,J. Jackson,
+183,2,3:19.0,47,52,DAL,MEM,3,home,DefReb,,,DefReb,,K. Porziņģis,
+184,2,3:10.0,49,52,DAL,MEM,9,home,JS,assist,3,make2,2,K. Porziņģis,J. Brunson
+185,2,3:10.0,49,52,DAL,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,K. Porziņģis
+186,2,3:10.0,49,52,DAL,MEM,0,away,Timeout,,,,,,
+187,2,3:10.0,49,52,DAL,MEM,0,away,Sub,,,,,D. Melton,J. Jackson
+188,2,3:10.0,49,52,DAL,MEM,0,away,Sub,,,,,J. Morant,T. Jones
+189,2,3:10.0,50,52,DAL,MEM,0,home,FreeThrow,,,make1,1,K. Porziņģis,
+190,2,2:59.0,50,52,DAL,MEM,11,away,JS,,26,miss3,0,J. Morant,
+191,2,2:57.0,50,52,DAL,MEM,2,home,DefReb,,,DefReb,,K. Porziņģis,
+192,2,2:48.0,50,52,DAL,MEM,9,home,Traveling,,,turnover,,T. Hardaway,
+193,2,2:37.0,50,52,DAL,MEM,11,away,HS,,4,miss2,0,D. Brooks,
+194,2,2:36.0,50,52,DAL,MEM,1,away,OffReb,,,OffReb,,B. Clarke,
+195,2,2:36.0,50,52,DAL,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Porziņģis,B. Clarke
+196,2,2:36.0,50,52,DAL,MEM,0,away,FreeThrow,,,make1,0,B. Clarke,
+197,2,2:36.0,50,52,DAL,MEM,0,away,OffReb,,,OffReb,,Team,
+198,2,2:36.0,50,53,DAL,MEM,0,away,FreeThrow,,,make1,1,B. Clarke,
+199,2,2:20.0,50,53,DAL,MEM,16,home,JS,block,5,miss2,0,K. Porziņģis,J. Jackson
+200,2,2:17.0,50,53,DAL,MEM,3,away,DefReb,,,DefReb,,J. Jackson,
+201,2,2:14.0,50,53,DAL,MEM,3,away,LU,,1,miss2,0,D. Melton,
+202,2,2:12.0,50,53,DAL,MEM,2,away,OffReb,,,OffReb,,J. Jackson,
+203,2,2:11.0,50,53,DAL,MEM,1,away,LU,block,4,miss2,0,J. Jackson,D. Finney-Smith
+204,2,2:11.0,50,53,DAL,MEM,0,home,DefReb,,,DefReb,,T. Hardaway,
+205,2,2:06.0,50,53,DAL,MEM,5,home,JS,,26,miss3,0,T. Hardaway,
+206,2,2:05.0,50,53,DAL,MEM,1,home,OffReb,,,OffReb,,Team,
+207,2,2:05.0,50,53,DAL,MEM,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Brooks,K. Porziņģis
+208,2,1:50.0,50,53,DAL,MEM,15,home,LU,,3,miss2,0,M. Kleber,
+209,2,1:50.0,50,53,DAL,MEM,0,home,OffReb,,,OffReb,,M. Kleber,
+210,2,1:46.0,50,53,DAL,MEM,4,home,LU,,0,miss2,0,M. Kleber,
+211,2,1:44.0,50,53,DAL,MEM,2,home,OffReb,,,OffReb,,D. Finney-Smith,
+212,2,1:44.0,50,53,DAL,MEM,0,home,LU,,0,miss2,0,D. Finney-Smith,
+213,2,1:43.0,50,53,DAL,MEM,1,home,OffReb,,,OffReb,,K. Porziņģis,
+214,2,1:43.0,52,53,DAL,MEM,0,home,DK,,0,make2,2,K. Porziņģis,
+215,2,1:37.0,52,53,DAL,MEM,6,away,LU,,5,miss2,0,J. Jackson,
+216,2,1:37.0,52,53,DAL,MEM,0,away,OffReb,,,OffReb,,B. Clarke,
+217,2,1:32.0,52,55,DAL,MEM,5,away,DK,,1,make2,2,B. Clarke,
+218,2,1:13.0,52,55,DAL,MEM,19,home,bad pass,steal,,turnover,,T. Hardaway,D. Brooks
+219,2,1:09.0,52,55,DAL,MEM,4,away,Traveling,,,turnover,,D. Melton,
+220,2,0:55.0,52,55,DAL,MEM,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Clarke,K. Porziņģis
+221,2,0:55.0,53,55,DAL,MEM,0,home,FreeThrow,,,make1,1,K. Porziņģis,
+222,2,0:55.0,53,55,DAL,MEM,0,home,Sub,,,,,D. Wright,J. Brunson
+223,2,0:55.0,54,55,DAL,MEM,0,home,FreeThrow,,,make1,1,K. Porziņģis,
+224,2,0:33.0,54,57,DAL,MEM,22,away,JS,,16,make2,2,J. Morant,
+225,2,0:12.0,54,57,DAL,MEM,21,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Brooks,K. Porziņģis
+226,2,0:12.0,55,57,DAL,MEM,0,home,FreeThrow,,,make1,1,K. Porziņģis,
+227,2,0:12.0,55,57,DAL,MEM,0,away,Sub,,,,,T. Jones,D. Brooks
+228,2,0:12.0,56,57,DAL,MEM,0,home,FreeThrow,,,make1,1,K. Porziņģis,
+229,2,0:08.0,56,57,DAL,MEM,4,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Hardaway,J. Morant
+230,2,0:02.0,56,59,DAL,MEM,6,away,JS,,6,make2,2,B. Clarke,
+231,2,0:00.0,56,59,DAL,MEM,2,home,JS,,49,miss3,0,K. Porziņģis,
+232,2,0:00.0,56,59,DAL,MEM,0,home,OffReb,,,OffReb,,Team,
+233,3,11:42.0,56,59,DAL,MEM,18,away,JS,,26,miss3,0,J. Jackson,
+234,3,11:38.0,56,59,DAL,MEM,4,home,DefReb,,,DefReb,,K. Porziņģis,
+235,3,11:12.0,56,59,DAL,MEM,26,home,JS,,6,miss2,0,K. Porziņģis,
+236,3,11:10.0,56,59,DAL,MEM,2,away,DefReb,,,DefReb,,J. Valančiūnas,
+237,3,11:03.0,56,61,DAL,MEM,7,away,JS,,11,make2,2,J. Morant,
+238,3,10:44.0,59,61,DAL,MEM,19,home,JS,assist,26,make3,3,J. Brunson,K. Porziņģis
+239,3,10:30.0,59,61,DAL,MEM,14,away,JS,,13,miss2,0,D. Brooks,
+240,3,10:28.0,59,61,DAL,MEM,2,home,DefReb,,,DefReb,,K. Porziņģis,
+241,3,10:23.0,59,61,DAL,MEM,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Brooks,J. Brunson
+242,3,10:11.0,59,61,DAL,MEM,12,home,HS,,6,miss2,0,J. Brunson,
+243,3,10:10.0,59,61,DAL,MEM,1,away,DefReb,,,DefReb,,J. Jackson,
+244,3,9:57.0,59,61,DAL,MEM,13,away,JS,,8,miss2,0,K. Anderson,
+245,3,9:55.0,59,61,DAL,MEM,2,home,DefReb,,,DefReb,,K. Porziņģis,
+246,3,9:42.0,59,61,DAL,MEM,13,home,JS,,26,miss3,0,D. Finney-Smith,
+247,3,9:40.0,59,61,DAL,MEM,2,away,DefReb,,,DefReb,,J. Valančiūnas,
+248,3,9:32.0,59,63,DAL,MEM,8,away,LU,assist,8,make2,2,D. Brooks,K. Anderson
+249,3,9:21.0,62,63,DAL,MEM,11,home,JS,,26,make3,3,J. Brunson,
+250,3,9:07.0,62,63,DAL,MEM,14,away,JS,,14,miss2,0,D. Brooks,
+251,3,9:07.0,62,63,DAL,MEM,0,home,DefReb,,,DefReb,,K. Porziņģis,
+252,3,8:59.0,62,63,DAL,MEM,8,home,JS,,26,miss3,0,J. Brunson,
+253,3,8:57.0,62,63,DAL,MEM,2,away,DefReb,,,DefReb,,J. Valančiūnas,
+254,3,8:46.0,62,63,DAL,MEM,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kleber,J. Valančiūnas
+255,3,8:46.0,62,64,DAL,MEM,0,away,FreeThrow,,,make1,1,J. Valančiūnas,
+256,3,8:46.0,62,65,DAL,MEM,0,away,FreeThrow,,,make1,1,J. Valančiūnas,
+257,3,8:35.0,62,65,DAL,MEM,11,home,JS,,25,miss3,0,T. Hardaway,
+258,3,8:33.0,62,65,DAL,MEM,2,away,DefReb,,,DefReb,,D. Brooks,
+259,3,8:28.0,62,65,DAL,MEM,5,away,JS,,20,miss2,0,K. Anderson,
+260,3,8:26.0,62,65,DAL,MEM,2,away,OffReb,,,OffReb,,D. Brooks,
+261,3,8:26.0,62,65,DAL,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Finney-Smith,D. Brooks
+262,3,8:26.0,62,66,DAL,MEM,0,away,FreeThrow,,,make1,1,D. Brooks,
+263,3,8:26.0,62,67,DAL,MEM,0,away,FreeThrow,,,make1,1,D. Brooks,
+264,3,8:14.0,62,67,DAL,MEM,12,home,JS,,25,miss3,0,M. Kleber,
+265,3,8:10.0,62,67,DAL,MEM,4,away,DefReb,,,DefReb,,J. Valančiūnas,
+266,3,8:06.0,62,69,DAL,MEM,4,away,DK,assist,0,make2,2,J. Jackson,J. Morant
+267,3,7:45.0,62,69,DAL,MEM,21,home,LU,,5,miss2,0,M. Kleber,
+268,3,7:43.0,62,69,DAL,MEM,2,away,DefReb,,,DefReb,,J. Jackson,
+269,3,7:35.0,62,69,DAL,MEM,8,away,bad pass,steal,,turnover,,D. Brooks,T. Hardaway
+270,3,7:24.0,62,69,DAL,MEM,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,K. Porziņģis
+271,3,7:24.0,63,69,DAL,MEM,0,home,FreeThrow,,,make1,1,K. Porziņģis,
+272,3,7:24.0,64,69,DAL,MEM,0,home,FreeThrow,,,make1,1,K. Porziņģis,
+273,3,7:04.0,64,69,DAL,MEM,20,away,JS,,25,miss3,0,J. Jackson,
+274,3,7:01.0,64,69,DAL,MEM,3,home,DefReb,,,DefReb,,D. Finney-Smith,
+275,3,6:53.0,67,69,DAL,MEM,8,home,JS,assist,28,make3,3,K. Porziņģis,D. Finney-Smith
+276,3,6:38.0,67,69,DAL,MEM,15,away,JS,,9,miss2,0,J. Morant,
+277,3,6:36.0,67,69,DAL,MEM,2,home,DefReb,,,DefReb,,T. Hardaway,
+278,3,6:30.0,69,69,DAL,MEM,6,home,LU,,2,make2,2,T. Hardaway,
+279,3,6:12.0,69,71,DAL,MEM,18,away,JS,,14,make2,2,D. Brooks,
+280,3,6:05.0,69,71,DAL,MEM,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Anderson,T. Hardaway
+281,3,6:05.0,69,71,DAL,MEM,0,home,Timeout,,,,,,
+282,3,6:05.0,69,71,DAL,MEM,0,away,Sub,,,,,B. Clarke,D. Brooks
+283,3,6:05.0,69,71,DAL,MEM,0,away,Sub,,,,,D. Melton,J. Valančiūnas
+284,3,6:05.0,69,71,DAL,MEM,0,home,Sub,,,,,W. Cauley-Stein,J. Brunson
+285,3,6:05.0,69,71,DAL,MEM,0,home,Sub,,,,,A. Cleveland,D. Finney-Smith
+286,3,6:05.0,69,71,DAL,MEM,0,home,Sub,,,,,D. Wright,K. Porziņģis
+287,3,6:05.0,70,71,DAL,MEM,0,home,FreeThrow,,,make1,1,T. Hardaway,
+288,3,6:05.0,71,71,DAL,MEM,0,home,FreeThrow,,,make1,1,T. Hardaway,
+289,3,5:50.0,71,71,DAL,MEM,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kleber,K. Anderson
+290,3,5:50.0,71,72,DAL,MEM,0,away,FreeThrow,,,make1,1,K. Anderson,
+291,3,5:50.0,71,73,DAL,MEM,0,away,FreeThrow,,,make1,1,K. Anderson,
+292,3,5:35.0,71,73,DAL,MEM,15,home,JS,,5,miss2,0,T. Hardaway,
+293,3,5:33.0,71,73,DAL,MEM,2,home,OffReb,,,OffReb,,D. Wright,
+294,3,5:32.0,71,73,DAL,MEM,1,home,LU,,3,miss2,0,D. Wright,
+295,3,5:31.0,71,73,DAL,MEM,1,home,OffReb,,,OffReb,,M. Kleber,
+296,3,5:26.0,71,73,DAL,MEM,5,home,JS,,25,miss3,0,T. Hardaway,
+297,3,5:25.0,71,73,DAL,MEM,1,home,OffReb,,,OffReb,,M. Kleber,
+298,3,5:20.0,71,73,DAL,MEM,5,home,JS,,17,miss2,0,T. Hardaway,
+299,3,5:17.0,71,73,DAL,MEM,3,away,DefReb,,,DefReb,,D. Melton,
+300,3,5:08.0,71,76,DAL,MEM,9,away,JS,assist,23,make3,3,J. Jackson,K. Anderson
+301,3,5:08.0,71,76,DAL,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,J. Jackson
+302,3,5:08.0,71,76,DAL,MEM,0,away,InstantReplay,,,RulingStands,,Team,
+303,3,5:08.0,71,76,DAL,MEM,0,away,Sub,,,,,J. Jackson,K. Anderson
+304,3,5:08.0,71,76,DAL,MEM,0,away,Sub,,,,,T. Jones,J. Morant
+305,3,5:08.0,71,77,DAL,MEM,0,away,FreeThrow,,,make1,1,J. Jackson,
+306,3,4:54.0,71,77,DAL,MEM,14,home,Traveling,,,turnover,,W. Cauley-Stein,
+307,3,4:44.0,71,77,DAL,MEM,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,B. Clarke
+308,3,4:44.0,71,78,DAL,MEM,0,away,FreeThrow,,,make1,1,B. Clarke,
+309,3,4:44.0,71,78,DAL,MEM,0,home,Sub,,,,,R. Broekhoff,W. Cauley-Stein
+310,3,4:44.0,71,78,DAL,MEM,0,home,Sub,,,,,J. Jackson,A. Cleveland
+311,3,4:44.0,71,78,DAL,MEM,0,home,Sub,,,,,K. Porziņģis,M. Kleber
+312,3,4:44.0,71,79,DAL,MEM,0,away,FreeThrow,,,make1,1,B. Clarke,
+313,3,4:25.0,71,79,DAL,MEM,19,home,JS,,12,miss2,0,R. Broekhoff,
+314,3,4:24.0,71,79,DAL,MEM,1,away,DefReb,,,DefReb,,J. Jackson,
+315,3,4:19.0,71,79,DAL,MEM,5,away,LU,block,4,miss2,0,J. Jackson,R. Broekhoff
+316,3,4:15.0,71,79,DAL,MEM,4,away,OffReb,,,OffReb,,J. Jackson,
+317,3,4:15.0,71,81,DAL,MEM,0,away,LU,assist,1,make2,2,D. Melton,J. Jackson
+318,3,4:15.0,71,81,DAL,MEM,0,home,Sub,,,,,B. Marjanović,K. Porziņģis
+319,3,3:51.0,71,81,DAL,MEM,24,home,LU,,1,miss2,0,B. Marjanović,
+320,3,3:47.0,71,81,DAL,MEM,4,home,OffReb,,,OffReb,,D. Wright,
+321,3,3:37.0,71,81,DAL,MEM,10,home,JS,,4,miss2,0,D. Wright,
+322,3,3:37.0,71,81,DAL,MEM,0,home,OffReb,,,OffReb,,Team,
+323,3,3:37.0,71,81,DAL,MEM,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,B. Clarke,B. Marjanović
+324,3,3:24.0,71,81,DAL,MEM,13,home,JS,,7,miss2,0,B. Marjanović,
+325,3,3:21.0,71,81,DAL,MEM,3,away,DefReb,,,DefReb,,B. Clarke,
+326,3,3:12.0,71,81,DAL,MEM,9,away,JS,,3,miss2,0,B. Clarke,
+327,3,3:10.0,71,81,DAL,MEM,2,home,DefReb,,,DefReb,,B. Marjanović,
+328,3,3:03.0,71,81,DAL,MEM,7,home,LU,,2,miss2,0,T. Hardaway,
+329,3,3:01.0,71,81,DAL,MEM,2,away,DefReb,,,DefReb,,D. Melton,
+330,3,2:57.0,71,83,DAL,MEM,4,away,LU,assist,0,make2,2,T. Jones,D. Melton
+331,3,2:38.0,74,83,DAL,MEM,19,home,JS,assist,25,make3,3,T. Hardaway,B. Marjanović
+332,3,2:20.0,74,86,DAL,MEM,18,away,JS,assist,25,make3,3,B. Clarke,J. Jackson
+333,3,2:02.0,74,86,DAL,MEM,18,home,JS,,12,miss2,0,B. Marjanović,
+334,3,1:58.0,74,86,DAL,MEM,4,away,DefReb,,,DefReb,,T. Jones,
+335,3,1:54.0,74,89,DAL,MEM,4,away,JS,,25,make3,3,T. Jones,
+336,3,1:36.0,74,89,DAL,MEM,18,home,JS,,11,miss2,0,J. Jackson,
+337,3,1:35.0,74,89,DAL,MEM,1,home,OffReb,,,OffReb,,J. Jackson,
+338,3,1:33.0,74,89,DAL,MEM,2,home,JS,,6,miss2,0,J. Jackson,
+339,3,1:33.0,74,89,DAL,MEM,0,away,DefReb,,,DefReb,,J. Jackson,
+340,3,1:23.0,74,92,DAL,MEM,10,away,JS,assist,25,make3,3,J. Jackson,D. Melton
+341,3,1:22.0,74,92,DAL,MEM,1,home,Timeout,,,,,,
+342,3,1:22.0,74,92,DAL,MEM,0,away,Sub,,,,,J. Valančiūnas,J. Jackson
+343,3,1:22.0,74,92,DAL,MEM,0,home,Sub,,,,,J. Brunson,T. Hardaway
+344,3,1:08.0,74,92,DAL,MEM,14,home,JS,,8,miss2,0,J. Brunson,
+345,3,1:06.0,74,92,DAL,MEM,2,away,DefReb,,,DefReb,,D. Melton,
+346,3,1:02.0,74,95,DAL,MEM,4,away,JS,assist,23,make3,3,T. Jones,D. Melton
+347,3,1:02.0,74,95,DAL,MEM,0,home,Sub,,,,,K. Porziņģis,B. Marjanović
+348,3,0:38.0,74,95,DAL,MEM,24,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Valančiūnas,J. Brunson
+349,3,0:38.0,75,95,DAL,MEM,0,home,FreeThrow,,,make1,1,J. Brunson,
+350,3,0:38.0,76,95,DAL,MEM,0,home,FreeThrow,,,make1,1,J. Brunson,
+351,3,0:32.0,76,97,DAL,MEM,6,away,JS,,11,make2,2,T. Jones,
+352,3,0:25.0,78,97,DAL,MEM,7,home,LU,,1,make2,2,D. Wright,
+353,3,0:05.0,78,100,DAL,MEM,20,away,JS,,25,make3,3,T. Jones,
+354,3,0:00.0,78,100,DAL,MEM,5,home,JS,,28,miss3,0,J. Brunson,
+355,3,0:00.0,78,100,DAL,MEM,0,away,DefReb,,,DefReb,,Team,
+356,4,11:50.0,78,100,DAL,MEM,10,home,JS,,24,miss3,0,D. Finney-Smith,
+357,4,11:45.0,78,100,DAL,MEM,5,away,DefReb,,,DefReb,,J. Valančiūnas,
+358,4,11:37.0,78,102,DAL,MEM,8,away,JS,,4,make2,2,K. Anderson,
+359,4,11:28.0,78,102,DAL,MEM,9,home,JS,,29,miss3,0,K. Porziņģis,
+360,4,11:28.0,78,102,DAL,MEM,0,away,DefReb,,,DefReb,,K. Anderson,
+361,4,11:19.0,78,102,DAL,MEM,9,away,HS,,5,miss2,0,J. Valančiūnas,
+362,4,11:17.0,78,102,DAL,MEM,2,home,DefReb,,,DefReb,,K. Porziņģis,
+363,4,11:08.0,78,102,DAL,MEM,9,home,JS,,26,miss3,0,J. Brunson,
+364,4,11:05.0,78,102,DAL,MEM,3,away,DefReb,,,DefReb,,J. Jackson,
+365,4,10:54.0,78,102,DAL,MEM,11,away,JS,,14,miss2,0,J. Jackson,
+366,4,10:53.0,78,102,DAL,MEM,1,home,DefReb,,,DefReb,,Team,
+367,4,10:49.0,78,102,DAL,MEM,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jackson,D. Wright
+368,4,10:34.0,80,102,DAL,MEM,15,home,LU,assist,2,make2,2,D. Wright,K. Porziņģis
+369,4,10:20.0,80,104,DAL,MEM,14,away,HS,assist,8,make2,2,J. Valančiūnas,T. Jones
+370,4,10:07.0,80,104,DAL,MEM,13,home,HS,,2,miss2,0,J. Brunson,
+371,4,10:05.0,80,104,DAL,MEM,2,away,DefReb,,,DefReb,,J. Jackson,
+372,4,10:01.0,80,104,DAL,MEM,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Porziņģis,J. Jackson
+373,4,10:01.0,80,104,DAL,MEM,0,away,FreeThrow,,,make1,0,J. Jackson,
+374,4,10:01.0,80,104,DAL,MEM,0,away,OffReb,,,OffReb,,Team,
+375,4,10:01.0,80,105,DAL,MEM,0,away,FreeThrow,,,make1,1,J. Jackson,
+376,4,9:45.0,83,105,DAL,MEM,16,home,JS,,23,make3,3,K. Porziņģis,
+377,4,9:32.0,83,105,DAL,MEM,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Lee,D. Brooks
+378,4,9:32.0,83,105,DAL,MEM,0,away,Sub,,,,,J. Morant,T. Jones
+379,4,9:22.0,83,105,DAL,MEM,10,away,JS,,20,miss2,0,D. Brooks,
+380,4,9:20.0,83,105,DAL,MEM,2,home,DefReb,,,DefReb,,K. Porziņģis,
+381,4,9:03.0,83,105,DAL,MEM,17,home,JS,,23,miss3,0,D. Finney-Smith,
+382,4,8:59.0,83,105,DAL,MEM,4,away,DefReb,,,DefReb,,J. Morant,
+383,4,8:47.0,83,108,DAL,MEM,12,away,JS,assist,23,make3,3,J. Jackson,K. Anderson
+384,4,8:29.0,86,108,DAL,MEM,18,home,JS,assist,24,make3,3,J. Brunson,D. Wright
+385,4,8:11.0,86,108,DAL,MEM,18,away,JS,,23,miss3,0,J. Jackson,
+386,4,8:09.0,86,108,DAL,MEM,2,away,OffReb,,,OffReb,,K. Anderson,
+387,4,8:03.0,86,108,DAL,MEM,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Porziņģis,J. Morant
+388,4,8:03.0,86,108,DAL,MEM,0,home,Sub,,,,,M. Kleber,K. Porziņģis
+389,4,7:52.0,86,110,DAL,MEM,11,away,JS,,10,make2,2,J. Morant,
+390,4,7:46.0,86,110,DAL,MEM,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Anderson,D. Wright
+391,4,7:46.0,86,110,DAL,MEM,0,away,Sub,,,,,D. Melton,J. Jackson
+392,4,7:46.0,86,110,DAL,MEM,0,home,Sub,,,,,T. Hardaway,D. Wright
+393,4,7:29.0,89,110,DAL,MEM,17,home,JS,assist,26,make3,3,C. Lee,T. Hardaway
+394,4,7:15.0,89,110,DAL,MEM,14,away,Traveling,,,turnover,,J. Morant,
+395,4,7:04.0,92,110,DAL,MEM,11,home,JS,assist,25,make3,3,C. Lee,J. Brunson
+396,4,6:47.0,92,110,DAL,MEM,17,away,JS,,6,miss2,0,D. Brooks,
+397,4,6:45.0,92,110,DAL,MEM,2,home,DefReb,,,DefReb,,J. Brunson,
+398,4,6:32.0,95,110,DAL,MEM,13,home,JS,assist,24,make3,3,M. Kleber,D. Finney-Smith
+399,4,6:04.0,95,110,DAL,MEM,28,away,LU,,4,miss2,0,D. Melton,
+400,4,6:00.0,95,110,DAL,MEM,4,away,OffReb,,,OffReb,,K. Anderson,
+401,4,5:59.0,95,112,DAL,MEM,1,away,DK,assist,0,make2,2,J. Valančiūnas,K. Anderson
+402,4,5:40.0,95,112,DAL,MEM,19,home,JS,,26,miss3,0,D. Finney-Smith,
+403,4,5:40.0,95,112,DAL,MEM,0,away,DefReb,,,DefReb,,Team,
+404,4,5:40.0,95,112,DAL,MEM,0,home,Timeout,,,,,,
+405,4,5:40.0,95,112,DAL,MEM,0,away,Sub,,,,,B. Clarke,K. Anderson
+406,4,5:40.0,95,112,DAL,MEM,0,away,Sub,,,,,J. Jackson,J. Valančiūnas
+407,4,5:20.0,95,114,DAL,MEM,20,away,LU,assist,1,make2,2,J. Morant,B. Clarke
+408,4,5:01.0,97,114,DAL,MEM,19,home,JS,,9,make2,2,C. Lee,
+409,4,4:39.0,97,114,DAL,MEM,22,away,JS,,23,miss3,0,B. Clarke,
+410,4,4:36.0,97,114,DAL,MEM,3,home,DefReb,,,DefReb,,T. Hardaway,
+411,4,4:28.0,97,114,DAL,MEM,8,home,JS,,26,miss3,0,M. Kleber,
+412,4,4:24.0,97,114,DAL,MEM,4,away,DefReb,,,DefReb,,D. Brooks,
+413,4,4:11.0,97,116,DAL,MEM,13,away,JS,assist,10,make2,2,B. Clarke,D. Brooks
+414,4,3:53.0,97,116,DAL,MEM,18,home,JS,,28,miss3,0,J. Brunson,
+415,4,3:50.0,97,116,DAL,MEM,3,away,DefReb,,,DefReb,,D. Melton,
+416,4,3:33.0,97,116,DAL,MEM,17,away,LU,,1,miss2,0,D. Melton,
+417,4,3:33.0,97,116,DAL,MEM,0,away,OffReb,,,OffReb,,D. Melton,
+418,4,3:32.0,97,116,DAL,MEM,1,away,LU,,2,miss2,0,D. Melton,
+419,4,3:29.0,97,116,DAL,MEM,3,home,DefReb,,,DefReb,,J. Brunson,
+420,4,3:26.0,97,116,DAL,MEM,3,home,JS,,25,miss3,0,C. Lee,
+421,4,3:24.0,97,116,DAL,MEM,2,home,OffReb,,,OffReb,,D. Finney-Smith,
+422,4,3:15.0,97,116,DAL,MEM,9,home,bad pass,steal,,turnover,,D. Finney-Smith,D. Brooks
+423,4,2:57.0,97,116,DAL,MEM,18,away,JS,,26,miss3,0,D. Brooks,
+424,4,2:54.0,97,116,DAL,MEM,3,home,DefReb,,,DefReb,,C. Lee,
+425,4,2:45.0,99,116,DAL,MEM,9,home,LU,,1,make2,2,J. Brunson,
+426,4,2:45.0,99,116,DAL,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Morant,J. Brunson
+427,4,2:45.0,99,116,DAL,MEM,0,away,Timeout,,,,,,
+428,4,2:45.0,99,116,DAL,MEM,0,home,Sub,,,,,W. Cauley-Stein,D. Finney-Smith
+429,4,2:45.0,99,116,DAL,MEM,0,home,Sub,,,,,A. Cleveland,T. Hardaway
+430,4,2:45.0,99,116,DAL,MEM,0,home,Sub,,,,,J. Jackson,M. Kleber
+431,4,2:45.0,100,116,DAL,MEM,0,home,FreeThrow,,,make1,1,J. Brunson,
+432,4,2:43.0,100,116,DAL,MEM,2,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Brunson,J. Morant
+433,4,2:43.0,100,116,DAL,MEM,0,home,Sub,,,,,R. Broekhoff,J. Brunson
+434,4,2:28.0,100,116,DAL,MEM,15,away,lost ball,steal,,turnover,,D. Melton,A. Cleveland
+435,4,2:24.0,100,116,DAL,MEM,4,home,LU,block,2,miss2,0,A. Cleveland,D. Melton
+436,4,2:21.0,100,116,DAL,MEM,3,away,DefReb,,,DefReb,,D. Brooks,
+437,4,2:14.0,100,118,DAL,MEM,7,away,DK,assist,1,make2,2,B. Clarke,D. Melton
+438,4,1:57.0,103,118,DAL,MEM,17,home,JS,assist,25,make3,3,R. Broekhoff,C. Lee
+439,4,1:38.0,103,118,DAL,MEM,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Cleveland,D. Melton
+440,4,1:38.0,103,118,DAL,MEM,0,away,FreeThrow,,,make1,0,D. Melton,
+441,4,1:38.0,103,118,DAL,MEM,0,away,OffReb,,,OffReb,,Team,
+442,4,1:38.0,103,118,DAL,MEM,0,away,Sub,,,,,J. Jackson,D. Brooks
+443,4,1:38.0,103,118,DAL,MEM,0,away,Sub,,,,,T. Jones,J. Morant
+444,4,1:38.0,103,119,DAL,MEM,0,away,FreeThrow,,,make1,1,D. Melton,
+445,4,1:29.0,103,119,DAL,MEM,9,home,JS,,5,miss2,0,J. Jackson,
+446,4,1:27.0,103,119,DAL,MEM,2,away,DefReb,,,DefReb,,D. Melton,
+447,4,1:23.0,103,119,DAL,MEM,4,away,OutOfBoundsLB,,,turnover,,B. Clarke,
+448,4,1:13.0,103,119,DAL,MEM,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,A. Cleveland
+449,4,1:13.0,104,119,DAL,MEM,0,home,FreeThrow,,,make1,1,A. Cleveland,
+450,4,1:13.0,104,119,DAL,MEM,0,away,Sub,,,,,Y. Watanabe,J. Jackson
+451,4,1:13.0,104,119,DAL,MEM,0,home,FreeThrow,,,make1,0,A. Cleveland,
+452,4,1:10.0,104,119,DAL,MEM,3,away,DefReb,,,DefReb,,D. Melton,
+453,4,0:55.0,104,119,DAL,MEM,15,away,JS,block,21,miss2,0,D. Melton,A. Cleveland
+454,4,0:53.0,104,119,DAL,MEM,2,home,DefReb,,,DefReb,,R. Broekhoff,
+455,4,0:50.0,107,119,DAL,MEM,3,home,JS,assist,27,make3,3,J. Jackson,R. Broekhoff
+456,4,0:40.0,107,119,DAL,MEM,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Cleveland,D. Melton
+457,4,0:40.0,107,120,DAL,MEM,0,away,FreeThrow,,,make1,1,D. Melton,
+458,4,0:40.0,107,121,DAL,MEM,0,away,FreeThrow,,,make1,1,D. Melton,
+459,4,0:30.0,107,121,DAL,MEM,10,home,JS,,25,miss3,0,J. Jackson,
+460,4,0:27.0,107,121,DAL,MEM,3,away,DefReb,,,DefReb,,Y. Watanabe,
+461,4,0:05.0,107,121,DAL,MEM,22,away,ShotClockViolation,,,turnover,,Team,

@@ -1,0 +1,455 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:35.0,0,0,DAL,ORL,25,home,JS,,18,miss2,0,D. Nowitzki,
+1,1,11:34.0,0,0,DAL,ORL,1,away,DefReb,,,DefReb,,M. Hezonja,
+2,1,11:10.0,0,2,DAL,ORL,24,away,JS,assist,21,make2,2,N. Vučević,A. Gordon
+3,1,10:54.0,2,2,DAL,ORL,16,home,JS,assist,20,make2,2,D. Nowitzki,Z. Pachulia
+4,1,10:36.0,2,4,DAL,ORL,18,away,DK,assist,0,make2,2,N. Vučević,A. Gordon
+5,1,10:25.0,4,4,DAL,ORL,11,home,LU,assist,1,make2,2,Z. Pachulia,D. Nowitzki
+6,1,10:15.0,4,4,DAL,ORL,10,away,JS,,20,miss2,0,N. Vučević,
+7,1,10:14.0,4,4,DAL,ORL,1,home,DefReb,,,DefReb,,Z. Pachulia,
+8,1,9:59.0,6,4,DAL,ORL,15,home,JS,assist,7,make2,2,Z. Pachulia,C. Parsons
+9,1,9:42.0,6,4,DAL,ORL,17,away,JS,,1,miss2,0,N. Vučević,
+10,1,9:41.0,6,4,DAL,ORL,1,away,OffReb,,,OffReb,,N. Vučević,
+11,1,9:41.0,6,4,DAL,ORL,0,away,LU,,1,miss2,0,N. Vučević,
+12,1,9:40.0,6,4,DAL,ORL,1,home,DefReb,,,DefReb,,Z. Pachulia,
+13,1,9:34.0,6,4,DAL,ORL,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,V. Oladipo,W. Matthews
+14,1,9:25.0,6,4,DAL,ORL,9,home,JS,,22,miss3,0,W. Matthews,
+15,1,9:24.0,6,4,DAL,ORL,1,home,OffReb,,,OffReb,,W. Matthews,
+16,1,9:24.0,6,4,DAL,ORL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Hezonja,W. Matthews
+17,1,9:15.0,6,4,DAL,ORL,9,home,BadPass,steal,,turnover,,Z. Pachulia,E. Payton
+18,1,9:15.0,6,4,DAL,ORL,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Williams,E. Payton
+19,1,9:06.0,6,4,DAL,ORL,9,away,JS,,3,miss2,0,V. Oladipo,
+20,1,9:05.0,6,4,DAL,ORL,1,away,OffReb,,,OffReb,,A. Gordon,
+21,1,9:02.0,6,4,DAL,ORL,3,away,LostBall,steal,,turnover,,A. Gordon,W. Matthews
+22,1,8:51.0,6,4,DAL,ORL,11,home,JS,block,5,miss2,0,Z. Pachulia,N. Vučević
+23,1,8:48.0,6,4,DAL,ORL,3,away,DefReb,,,DefReb,,N. Vučević,
+24,1,8:47.0,6,6,DAL,ORL,1,away,DK,assist,0,make2,2,M. Hezonja,V. Oladipo
+25,1,8:34.0,6,6,DAL,ORL,13,home,LU,,2,miss2,0,D. Williams,
+26,1,8:32.0,6,6,DAL,ORL,2,away,DefReb,,,DefReb,,N. Vučević,
+27,1,8:27.0,6,8,DAL,ORL,5,away,LU,assist,1,make2,2,N. Vučević,V. Oladipo
+28,1,8:05.0,6,8,DAL,ORL,22,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Vučević,Z. Pachulia
+29,1,7:58.0,8,8,DAL,ORL,7,home,LU,assist,1,make2,2,Z. Pachulia,D. Nowitzki
+30,1,7:47.0,8,10,DAL,ORL,11,away,JS,assist,19,make2,2,N. Vučević,E. Payton
+31,1,7:34.0,8,10,DAL,ORL,13,home,LostBall,steal,,turnover,,D. Williams,E. Payton
+32,1,7:29.0,8,12,DAL,ORL,5,away,LU,assist,1,make2,2,V. Oladipo,M. Hezonja
+33,1,7:29.0,8,12,DAL,ORL,0,home,Timeout,,,,,,
+34,1,7:13.0,8,12,DAL,ORL,16,home,JS,,5,miss2,0,W. Matthews,
+35,1,7:12.0,8,12,DAL,ORL,1,away,DefReb,,,DefReb,,N. Vučević,
+36,1,7:07.0,8,14,DAL,ORL,5,away,LU,,5,make2,2,A. Gordon,
+37,1,6:55.0,8,14,DAL,ORL,12,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,Z. Pachulia,E. Payton
+38,1,6:55.0,8,14,DAL,ORL,0,home,OffensiveFoul,,,turnover,,Z. Pachulia,
+39,1,6:55.0,8,14,DAL,ORL,0,home,Sub,,,,,R. Felton,D. Nowitzki
+40,1,6:44.0,8,16,DAL,ORL,11,away,LU,,1,make2,2,V. Oladipo,
+41,1,6:32.0,8,16,DAL,ORL,12,home,D3SecTech,,,,,,
+42,1,6:32.0,9,16,DAL,ORL,0,home,FreeThrow,,,make1,1,D. Williams makes technical free throw,
+43,1,6:26.0,9,16,DAL,ORL,6,home,JS,,16,miss2,0,C. Parsons,
+44,1,6:26.0,9,16,DAL,ORL,0,away,DefReb,,,DefReb,,N. Vučević,
+45,1,6:16.0,9,18,DAL,ORL,10,away,LU,assist,0,make2,2,E. Payton,A. Gordon
+46,1,6:06.0,9,18,DAL,ORL,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,D. Williams
+47,1,6:06.0,9,18,DAL,ORL,0,home,FreeThrow,,,make1,0,D. Williams,
+48,1,6:06.0,9,18,DAL,ORL,0,home,OffReb,,,OffReb,,Team,
+49,1,6:06.0,10,18,DAL,ORL,0,home,FreeThrow,,,make1,1,D. Williams,
+50,1,5:55.0,10,18,DAL,ORL,11,home,ChargeFoul,DrawnBy,,ChargeFoul,,M. Hezonja,D. Williams
+51,1,5:55.0,10,18,DAL,ORL,0,away,OffensiveFoul,,,turnover,,M. Hezonja,
+52,1,5:55.0,10,18,DAL,ORL,0,away,Sub,,,,,C. Watson,M. Hezonja
+53,1,5:42.0,12,18,DAL,ORL,13,home,JS,,12,make2,2,C. Parsons,
+54,1,5:26.0,12,20,DAL,ORL,16,away,JS,assist,20,make2,2,N. Vučević,A. Gordon
+55,1,5:13.0,12,20,DAL,ORL,13,home,JS,,23,miss3,0,R. Felton,
+56,1,5:12.0,12,20,DAL,ORL,1,away,DefReb,,,DefReb,,A. Gordon,
+57,1,5:09.0,12,20,DAL,ORL,3,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,W. Matthews,C. Watson
+58,1,5:09.0,12,21,DAL,ORL,0,away,FreeThrow,,,make1,1,C. Watson,
+59,1,5:09.0,12,21,DAL,ORL,0,home,Sub,,,,,D. Lee,Z. Pachulia
+60,1,5:09.0,12,22,DAL,ORL,0,away,FreeThrow,,,make1,1,C. Watson,
+61,1,4:51.0,14,22,DAL,ORL,18,home,LU,,1,make2,2,C. Parsons,
+62,1,4:41.0,14,22,DAL,ORL,10,away,JS,,9,miss2,0,N. Vučević,
+63,1,4:40.0,14,22,DAL,ORL,1,home,DefReb,,,DefReb,,D. Williams,
+64,1,4:30.0,14,22,DAL,ORL,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,C. Parsons
+65,1,4:30.0,15,22,DAL,ORL,0,home,FreeThrow,,,make1,1,C. Parsons,
+66,1,4:30.0,15,22,DAL,ORL,0,away,Sub,,,,,E. İlyasova,A. Gordon
+67,1,4:30.0,16,22,DAL,ORL,0,home,FreeThrow,,,make1,1,C. Parsons,
+68,1,4:20.0,16,22,DAL,ORL,10,away,JS,,6,miss2,0,E. Payton,
+69,1,4:19.0,16,22,DAL,ORL,1,home,DefReb,,,DefReb,,Team,
+70,1,4:10.0,18,22,DAL,ORL,9,home,JS,assist,18,make2,2,W. Matthews,D. Lee
+71,1,4:00.0,18,22,DAL,ORL,10,away,JS,block,7,miss2,0,N. Vučević,D. Lee
+72,1,3:58.0,18,22,DAL,ORL,2,away,OffReb,,,OffReb,,V. Oladipo,
+73,1,3:56.0,18,22,DAL,ORL,2,away,LU,,1,miss2,0,V. Oladipo,
+74,1,3:55.0,18,22,DAL,ORL,1,home,DefReb,,,DefReb,,D. Lee,
+75,1,3:49.0,18,22,DAL,ORL,6,home,JS,block,8,miss2,0,D. Lee,C. Watson
+76,1,3:48.0,18,22,DAL,ORL,1,away,DefReb,,,DefReb,,V. Oladipo,
+77,1,3:44.0,18,22,DAL,ORL,4,away,LostBall,,,turnover,,E. Payton,
+78,1,3:29.0,20,22,DAL,ORL,15,home,JS,,13,make2,2,D. Williams,
+79,1,3:29.0,20,22,DAL,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Payton,D. Williams
+80,1,3:29.0,21,22,DAL,ORL,0,home,FreeThrow,,,make1,1,D. Williams,
+81,1,3:17.0,21,22,DAL,ORL,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Felton,V. Oladipo
+82,1,3:17.0,21,22,DAL,ORL,0,away,Sub,,,,,B. Jennings,E. Payton
+83,1,3:04.0,21,24,DAL,ORL,13,away,JS,assist,16,make2,2,V. Oladipo,C. Watson
+84,1,2:51.0,24,24,DAL,ORL,13,home,JS,assist,25,make3,3,C. Parsons,D. Williams
+85,1,2:46.0,24,24,DAL,ORL,5,away,Timeout,,,,,,
+86,1,2:46.0,24,24,DAL,ORL,0,away,Sub,,,,,J. Smith,N. Vučević
+87,1,2:33.0,24,27,DAL,ORL,13,away,JS,assist,24,make3,3,B. Jennings,J. Smith
+88,1,2:14.0,26,27,DAL,ORL,19,home,JS,,6,make2,2,D. Williams,
+89,1,2:00.0,26,27,DAL,ORL,14,away,LostBall,,,turnover,,B. Jennings,
+90,1,2:00.0,26,27,DAL,ORL,0,home,Sub,,,,,J. Barea,C. Parsons
+91,1,2:00.0,26,27,DAL,ORL,0,home,Sub,,,,,D. Harris,W. Matthews
+92,1,2:00.0,26,27,DAL,ORL,0,home,Sub,,,,,D. Nowitzki,D. Williams
+93,1,1:50.0,28,27,DAL,ORL,10,home,DK,assist,0,make2,2,D. Lee,R. Felton
+94,1,1:30.0,28,27,DAL,ORL,20,away,JS,,19,miss2,0,J. Smith,
+95,1,1:29.0,28,27,DAL,ORL,1,home,DefReb,,,DefReb,,D. Nowitzki,
+96,1,1:22.0,28,27,DAL,ORL,7,home,Traveling,,,turnover,,R. Felton,
+97,1,1:12.0,28,27,DAL,ORL,10,away,JS,,24,miss3,0,E. İlyasova,
+98,1,1:11.0,28,27,DAL,ORL,1,home,DefReb,,,DefReb,,D. Lee,
+99,1,1:01.0,28,27,DAL,ORL,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,V. Oladipo,D. Lee
+100,1,1:01.0,29,27,DAL,ORL,0,home,FreeThrow,,,make1,1,D. Lee,
+101,1,1:01.0,29,27,DAL,ORL,0,away,Sub,,,,,E. Payton,V. Oladipo
+102,1,1:01.0,30,27,DAL,ORL,0,home,FreeThrow,,,make1,1,D. Lee,
+103,1,0:52.0,30,27,DAL,ORL,9,away,JS,,19,miss2,0,J. Smith,
+104,1,0:51.0,30,27,DAL,ORL,1,away,OffReb,,,OffReb,,C. Watson,
+105,1,0:47.0,30,27,DAL,ORL,4,away,JS,,24,miss3,0,B. Jennings,
+106,1,0:46.0,30,27,DAL,ORL,1,away,OffReb,,,OffReb,,E. İlyasova,
+107,1,0:44.0,30,27,DAL,ORL,2,away,OutOfBounds,,,turnover,,J. Smith,
+108,1,0:35.0,33,27,DAL,ORL,9,home,JS,,24,make3,3,J. Barea,
+109,1,0:23.0,33,27,DAL,ORL,12,away,JS,,21,miss2,0,E. İlyasova,
+110,1,0:22.0,33,27,DAL,ORL,1,home,DefReb,,,DefReb,,D. Lee,
+111,1,0:19.0,33,27,DAL,ORL,3,home,BadPass,steal,,turnover,,D. Lee,J. Smith
+112,1,0:17.0,33,27,DAL,ORL,2,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,E. Payton,D. Lee
+113,1,0:17.0,33,27,DAL,ORL,0,away,OffensiveFoul,,,turnover,,E. Payton,
+114,1,0:17.0,33,27,DAL,ORL,0,away,Sub,,,,,S. Napier,E. Payton
+115,1,0:17.0,33,27,DAL,ORL,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
+116,1,0:03.0,35,27,DAL,ORL,14,home,DK,assist,0,make2,2,D. Lee,R. Felton
+117,1,0:01.0,35,27,DAL,ORL,2,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Harris,B. Jennings
+118,2,11:48.0,35,27,DAL,ORL,12,away,LU,block,1,miss2,0,J. Smith,D. Lee
+119,2,11:45.0,35,27,DAL,ORL,3,home,DefReb,,,DefReb,,J. Barea,
+120,2,11:30.0,38,27,DAL,ORL,15,home,JS,assist,22,make3,3,D. Nowitzki,D. Lee
+121,2,11:09.0,38,29,DAL,ORL,21,away,JS,assist,17,make2,2,J. Smith,S. Napier
+122,2,10:55.0,38,29,DAL,ORL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. İlyasova,R. Felton
+123,2,10:47.0,38,29,DAL,ORL,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Watson,D. Lee
+124,2,10:47.0,38,29,DAL,ORL,0,home,FreeThrow,,,make1,0,D. Lee,
+125,2,10:47.0,38,29,DAL,ORL,0,home,OffReb,,,OffReb,,Team,
+126,2,10:47.0,39,29,DAL,ORL,0,home,FreeThrow,,,make1,1,D. Lee,
+127,2,10:28.0,39,31,DAL,ORL,19,away,JS,,19,make2,2,E. İlyasova,
+128,2,10:14.0,39,31,DAL,ORL,14,home,BadPass,steal,,turnover,,D. Harris,J. Smith
+129,2,10:08.0,39,31,DAL,ORL,6,away,JS,,25,miss3,0,S. Napier,
+130,2,10:07.0,39,31,DAL,ORL,1,away,OffReb,,,OffReb,,E. İlyasova,
+131,2,10:07.0,39,33,DAL,ORL,0,away,LU,,1,make2,2,E. İlyasova,
+132,2,10:07.0,39,33,DAL,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lee,E. İlyasova
+133,2,10:07.0,39,34,DAL,ORL,0,away,FreeThrow,,,make1,1,E. İlyasova,
+134,2,9:51.0,39,34,DAL,ORL,16,home,JS,,14,miss2,0,D. Nowitzki,
+135,2,9:50.0,39,34,DAL,ORL,1,away,DefReb,,,DefReb,,S. Napier,
+136,2,9:43.0,39,34,DAL,ORL,7,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Smith,D. Lee
+137,2,9:43.0,39,34,DAL,ORL,0,away,OffensiveFoul,,,turnover,,J. Smith,
+138,2,9:30.0,39,34,DAL,ORL,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Napier,J. Barea
+139,2,9:30.0,40,34,DAL,ORL,0,home,FreeThrow,,,make1,1,J. Barea,
+140,2,9:30.0,41,34,DAL,ORL,0,home,FreeThrow,,,make1,1,J. Barea,
+141,2,9:19.0,41,34,DAL,ORL,11,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Lee,J. Smith
+142,2,9:12.0,41,36,DAL,ORL,7,away,JS,,15,make2,2,B. Jennings,
+143,2,9:01.0,43,36,DAL,ORL,11,home,JS,assist,16,make2,2,D. Nowitzki,D. Harris
+144,2,8:51.0,43,38,DAL,ORL,10,away,LU,,1,make2,2,B. Jennings,
+145,2,8:39.0,45,38,DAL,ORL,12,home,LU,,1,make2,2,J. Barea,
+146,2,8:26.0,45,38,DAL,ORL,13,away,JS,,19,miss2,0,J. Smith,
+147,2,8:25.0,45,38,DAL,ORL,1,away,OffReb,,,OffReb,,E. İlyasova,
+148,2,8:25.0,45,38,DAL,ORL,0,home,LooseBallFoul,,,LooseBallFoul,,J. Barea,
+149,2,8:25.0,45,38,DAL,ORL,0,away,Timeout,,,,,,
+150,2,8:25.0,45,38,DAL,ORL,0,home,Sub,,,,,C. Parsons,D. Nowitzki
+151,2,8:25.0,45,38,DAL,ORL,0,away,Sub,,,,,M. Hezonja,C. Watson
+152,2,8:25.0,45,38,DAL,ORL,0,away,Sub,,,,,V. Oladipo,J. Smith
+153,2,8:25.0,45,38,DAL,ORL,0,away,Sub,,,,,A. Gordon,S. Napier
+154,2,8:18.0,45,38,DAL,ORL,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Lee,A. Gordon
+155,2,8:18.0,45,38,DAL,ORL,0,home,Sub,,,,,Z. Pachulia,D. Lee
+156,2,8:00.0,45,38,DAL,ORL,18,away,JS,,24,miss3,0,A. Gordon,
+157,2,7:59.0,45,38,DAL,ORL,1,away,OffReb,,,OffReb,,M. Hezonja,
+158,2,7:58.0,45,38,DAL,ORL,1,away,LU,block,3,miss2,0,M. Hezonja,Z. Pachulia
+159,2,7:58.0,45,38,DAL,ORL,0,home,DefReb,,,DefReb,,Team,
+160,2,7:47.0,47,38,DAL,ORL,11,home,LU,assist,0,make2,2,D. Harris,J. Barea
+161,2,7:35.0,47,38,DAL,ORL,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,E. İlyasova
+162,2,7:35.0,47,39,DAL,ORL,0,away,FreeThrow,,,make1,1,E. İlyasova,
+163,2,7:35.0,47,39,DAL,ORL,0,home,Sub,,,,,D. Williams,D. Harris
+164,2,7:35.0,47,39,DAL,ORL,0,home,Sub,,,,,W. Matthews,R. Felton
+165,2,7:35.0,47,40,DAL,ORL,0,away,FreeThrow,,,make1,1,E. İlyasova,
+166,2,7:15.0,49,40,DAL,ORL,20,home,JS,,3,make2,2,W. Matthews,
+167,2,7:01.0,49,40,DAL,ORL,14,away,JS,,18,miss2,0,B. Jennings,
+168,2,7:00.0,49,40,DAL,ORL,1,home,DefReb,,,DefReb,,Z. Pachulia,
+169,2,6:54.0,49,40,DAL,ORL,6,home,JS,,6,miss2,0,C. Parsons,
+170,2,6:53.0,49,40,DAL,ORL,1,away,DefReb,,,DefReb,,Team,
+171,2,6:40.0,49,40,DAL,ORL,13,away,JS,,24,miss3,0,V. Oladipo,
+172,2,6:39.0,49,40,DAL,ORL,1,home,DefReb,,,DefReb,,W. Matthews,
+173,2,6:24.0,49,40,DAL,ORL,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,V. Oladipo,Z. Pachulia
+174,2,6:24.0,49,40,DAL,ORL,0,away,Sub,,,,,E. Payton,V. Oladipo
+175,2,6:24.0,49,40,DAL,ORL,0,away,Sub,,,,,N. Vučević,E. İlyasova
+176,2,6:24.0,49,40,DAL,ORL,0,away,Sub,,,,,C. Watson,B. Jennings
+177,2,6:12.0,49,40,DAL,ORL,12,home,BadPass,steal,,turnover,,D. Williams,A. Gordon
+178,2,6:03.0,49,42,DAL,ORL,9,away,JS,assist,18,make2,2,N. Vučević,C. Watson
+179,2,6:02.0,49,42,DAL,ORL,1,home,Timeout,,,,,,
+180,2,5:50.0,51,42,DAL,ORL,12,home,LU,,0,make2,2,W. Matthews,
+181,2,5:30.0,51,45,DAL,ORL,20,away,JS,assist,24,make3,3,E. Payton,N. Vučević
+182,2,5:11.0,51,45,DAL,ORL,19,home,JS,,23,miss3,0,W. Matthews,
+183,2,5:10.0,51,45,DAL,ORL,1,away,DefReb,,,DefReb,,C. Watson,
+184,2,5:04.0,51,45,DAL,ORL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Williams,C. Watson
+185,2,5:04.0,51,46,DAL,ORL,0,away,FreeThrow,,,make1,1,C. Watson,
+186,2,5:04.0,51,46,DAL,ORL,0,home,Sub,,,,,D. Nowitzki,J. Barea
+187,2,5:04.0,51,47,DAL,ORL,0,away,FreeThrow,,,make1,1,C. Watson,
+188,2,4:49.0,51,47,DAL,ORL,15,home,JS,,6,miss2,0,C. Parsons,
+189,2,4:48.0,51,47,DAL,ORL,1,home,OffReb,,,OffReb,,C. Parsons,
+190,2,4:43.0,54,47,DAL,ORL,5,home,JS,assist,24,make3,3,W. Matthews,Z. Pachulia
+191,2,4:32.0,54,49,DAL,ORL,11,away,JS,assist,20,make2,2,N. Vučević,E. Payton
+192,2,4:18.0,54,49,DAL,ORL,14,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,A. Gordon,D. Nowitzki
+193,2,4:18.0,55,49,DAL,ORL,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+194,2,4:18.0,55,49,DAL,ORL,0,away,Sub,,,,,E. İlyasova,A. Gordon
+195,2,4:18.0,56,49,DAL,ORL,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+196,2,4:01.0,56,52,DAL,ORL,17,away,JS,assist,25,make3,3,C. Watson,N. Vučević
+197,2,3:49.0,59,52,DAL,ORL,12,home,JS,assist,24,make3,3,C. Parsons,D. Williams
+198,2,3:33.0,59,52,DAL,ORL,16,away,JS,,24,miss3,0,M. Hezonja,
+199,2,3:32.0,59,52,DAL,ORL,1,home,DefReb,,,DefReb,,W. Matthews,
+200,2,3:23.0,61,52,DAL,ORL,9,home,LU,assist,0,make2,2,Z. Pachulia,D. Williams
+201,2,2:59.0,61,52,DAL,ORL,24,away,JS,,24,miss3,0,C. Watson,
+202,2,2:58.0,61,52,DAL,ORL,1,away,OffReb,,,OffReb,,N. Vučević,
+203,2,2:57.0,61,52,DAL,ORL,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Matthews,N. Vučević
+204,2,2:57.0,61,52,DAL,ORL,0,away,Timeout,,,,,,
+205,2,2:57.0,61,52,DAL,ORL,0,away,Sub,,,,,D. Marble,M. Hezonja
+206,2,2:57.0,61,53,DAL,ORL,0,away,FreeThrow,,,make1,1,N. Vučević,
+207,2,2:57.0,61,54,DAL,ORL,0,away,FreeThrow,,,make1,1,N. Vučević,
+208,2,2:49.0,61,54,DAL,ORL,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. İlyasova,D. Nowitzki
+209,2,2:49.0,61,54,DAL,ORL,0,home,FreeThrow,,,make1,0,D. Nowitzki,
+210,2,2:49.0,61,54,DAL,ORL,0,home,OffReb,,,OffReb,,Team,
+211,2,2:49.0,62,54,DAL,ORL,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+212,2,2:33.0,62,57,DAL,ORL,16,away,JS,assist,24,make3,3,E. İlyasova,C. Watson
+213,2,2:13.0,64,57,DAL,ORL,20,home,JS,assist,7,make2,2,D. Nowitzki,D. Williams
+214,2,2:13.0,64,57,DAL,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. İlyasova,D. Nowitzki
+215,2,2:13.0,65,57,DAL,ORL,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+216,2,1:50.0,65,59,DAL,ORL,23,away,JS,,7,make2,2,E. Payton,
+217,2,1:31.0,67,59,DAL,ORL,19,home,JS,,11,make2,2,W. Matthews,
+218,2,1:16.0,67,59,DAL,ORL,15,away,LU,block,1,miss2,0,N. Vučević,D. Nowitzki
+219,2,1:14.0,67,59,DAL,ORL,2,home,DefReb,,,DefReb,,Z. Pachulia,
+220,2,1:12.0,67,59,DAL,ORL,2,home,LostBall,steal,,turnover,,Z. Pachulia,D. Marble
+221,2,1:06.0,67,59,DAL,ORL,6,away,JS,,11,miss2,0,N. Vučević,
+222,2,1:05.0,67,59,DAL,ORL,1,home,DefReb,,,DefReb,,W. Matthews,
+223,2,0:48.0,67,59,DAL,ORL,17,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,E. Payton,W. Matthews
+224,2,0:48.0,68,59,DAL,ORL,0,home,FreeThrow,,,make1,1,W. Matthews,
+225,2,0:48.0,69,59,DAL,ORL,0,home,FreeThrow,,,make1,1,W. Matthews,
+226,2,0:48.0,69,59,DAL,ORL,0,home,Sub,,,,,R. Felton,D. Nowitzki
+227,2,0:48.0,69,59,DAL,ORL,0,away,Sub,,,,,B. Jennings,E. Payton
+228,2,0:48.0,69,59,DAL,ORL,0,home,FreeThrow,,,make1,0,W. Matthews,
+229,2,0:47.0,69,59,DAL,ORL,1,away,DefReb,,,DefReb,,E. İlyasova,
+230,2,0:34.0,69,59,DAL,ORL,13,away,LostBall,steal,,turnover,,N. Vučević,C. Parsons
+231,2,0:30.0,69,59,DAL,ORL,4,home,BadPass,steal,,turnover,,C. Parsons,D. Marble
+232,2,0:09.0,69,61,DAL,ORL,21,away,LU,assist,1,make2,2,N. Vučević,B. Jennings
+233,2,0:01.0,69,61,DAL,ORL,8,home,LU,block,3,miss2,0,Z. Pachulia,N. Vučević
+234,2,0:00.0,69,61,DAL,ORL,1,home,OffReb,,,OffReb,,Team,
+235,3,11:47.0,69,61,DAL,ORL,13,away,LostBall,steal,,turnover,,E. Payton,D. Williams
+236,3,11:22.0,69,61,DAL,ORL,25,home,JS,,22,miss2,0,D. Nowitzki,
+237,3,11:21.0,69,61,DAL,ORL,1,away,DefReb,,,DefReb,,E. Payton,
+238,3,11:12.0,69,61,DAL,ORL,9,away,JS,,24,miss3,0,M. Hezonja,
+239,3,11:11.0,69,61,DAL,ORL,1,home,DefReb,,,DefReb,,D. Nowitzki,
+240,3,11:02.0,69,61,DAL,ORL,9,home,JS,,4,miss2,0,C. Parsons,
+241,3,11:01.0,69,61,DAL,ORL,1,home,OffReb,,,OffReb,,D. Williams,
+242,3,10:53.0,69,61,DAL,ORL,8,home,JS,,23,miss3,0,C. Parsons,
+243,3,10:52.0,69,61,DAL,ORL,1,away,DefReb,,,DefReb,,A. Gordon,
+244,3,10:38.0,69,61,DAL,ORL,14,away,JS,,23,miss3,0,V. Oladipo,
+245,3,10:37.0,69,61,DAL,ORL,1,home,DefReb,,,DefReb,,D. Williams,
+246,3,10:14.0,69,61,DAL,ORL,23,home,JS,,18,miss2,0,D. Williams,
+247,3,10:13.0,69,61,DAL,ORL,1,away,DefReb,,,DefReb,,A. Gordon,
+248,3,9:49.0,69,61,DAL,ORL,24,away,JS,,25,miss3,0,E. Payton,
+249,3,9:48.0,69,61,DAL,ORL,1,home,DefReb,,,DefReb,,C. Parsons,
+250,3,9:29.0,69,61,DAL,ORL,19,home,JS,,3,miss2,0,C. Parsons,
+251,3,9:27.0,69,61,DAL,ORL,2,away,DefReb,,,DefReb,,N. Vučević,
+252,3,9:27.0,69,61,DAL,ORL,0,away,BadPass,,,turnover,,N. Vučević,
+253,3,9:15.0,71,61,DAL,ORL,12,home,JS,,17,make2,2,W. Matthews,
+254,3,8:53.0,71,61,DAL,ORL,22,away,JS,,20,miss2,0,M. Hezonja,
+255,3,8:52.0,71,61,DAL,ORL,1,home,DefReb,,,DefReb,,Z. Pachulia,
+256,3,8:43.0,73,61,DAL,ORL,9,home,JS,assist,16,make2,2,D. Nowitzki,C. Parsons
+257,3,8:28.0,73,61,DAL,ORL,15,away,JS,,19,miss2,0,N. Vučević,
+258,3,8:27.0,73,61,DAL,ORL,1,away,OffReb,,,OffReb,,V. Oladipo,
+259,3,8:20.0,73,61,DAL,ORL,7,away,JS,,24,miss3,0,M. Hezonja,
+260,3,8:19.0,73,61,DAL,ORL,1,home,DefReb,,,DefReb,,Z. Pachulia,
+261,3,8:12.0,75,61,DAL,ORL,7,home,LU,assist,2,make2,2,Z. Pachulia,D. Williams
+262,3,8:12.0,75,61,DAL,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,Z. Pachulia
+263,3,8:12.0,75,61,DAL,ORL,0,away,Sub,,,,,C. Watson,M. Hezonja
+264,3,8:12.0,76,61,DAL,ORL,0,home,FreeThrow,,,make1,1,Z. Pachulia,
+265,3,7:59.0,76,61,DAL,ORL,13,away,JS,,24,miss3,0,V. Oladipo,
+266,3,7:58.0,76,61,DAL,ORL,1,home,DefReb,,,DefReb,,C. Parsons,
+267,3,7:49.0,78,61,DAL,ORL,9,home,DK,,0,make2,2,C. Parsons,
+268,3,7:48.0,78,61,DAL,ORL,1,away,Timeout,,,,,,
+269,3,7:48.0,78,61,DAL,ORL,0,away,Sub,,,,,D. Marble,N. Vučević
+270,3,7:48.0,78,61,DAL,ORL,0,away,Sub,,,,,D. Dedmon,V. Oladipo
+271,3,7:48.0,78,61,DAL,ORL,0,away,Sub,,,,,B. Jennings,E. Payton
+272,3,7:35.0,78,61,DAL,ORL,13,away,JS,,25,miss3,0,A. Gordon,
+273,3,7:34.0,78,61,DAL,ORL,1,home,DefReb,,,DefReb,,D. Williams,
+274,3,7:20.0,80,61,DAL,ORL,14,home,JS,assist,19,make2,2,D. Nowitzki,C. Parsons
+275,3,7:06.0,80,61,DAL,ORL,14,away,Traveling,,,turnover,,C. Watson,
+276,3,6:45.0,80,61,DAL,ORL,21,home,JS,,18,miss2,0,D. Nowitzki,
+277,3,6:44.0,80,61,DAL,ORL,1,away,DefReb,,,DefReb,,D. Marble,
+278,3,6:33.0,80,61,DAL,ORL,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,A. Gordon
+279,3,6:33.0,80,61,DAL,ORL,0,away,FreeThrow,,,make1,0,A. Gordon,
+280,3,6:33.0,80,61,DAL,ORL,0,away,OffReb,,,OffReb,,Team,
+281,3,6:33.0,80,61,DAL,ORL,0,home,Sub,,,,,D. Lee,D. Nowitzki
+282,3,6:33.0,80,61,DAL,ORL,0,home,Sub,,,,,R. Felton,Z. Pachulia
+283,3,6:33.0,80,61,DAL,ORL,0,away,FreeThrow,,,make1,0,A. Gordon,
+284,3,6:32.0,80,61,DAL,ORL,1,home,DefReb,,,DefReb,,R. Felton,
+285,3,6:15.0,82,61,DAL,ORL,17,home,HS,,5,make2,2,W. Matthews,
+286,3,5:53.0,82,63,DAL,ORL,22,away,JS,assist,18,make2,2,A. Gordon,B. Jennings
+287,3,5:38.0,82,63,DAL,ORL,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Gordon,C. Parsons
+288,3,5:29.0,82,63,DAL,ORL,9,home,BadPass,steal,,turnover,,C. Parsons,B. Jennings
+289,3,5:20.0,82,66,DAL,ORL,9,away,JS,assist,24,make3,3,D. Marble,B. Jennings
+290,3,5:07.0,82,66,DAL,ORL,13,home,JS,,7,miss2,0,D. Williams,
+291,3,5:07.0,82,66,DAL,ORL,0,home,OffReb,,,OffReb,,Team,
+292,3,5:07.0,82,66,DAL,ORL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Marble,D. Lee
+293,3,5:00.0,82,66,DAL,ORL,7,home,HS,,6,miss2,0,D. Williams,
+294,3,4:59.0,82,66,DAL,ORL,1,away,DefReb,,,DefReb,,D. Marble,
+295,3,4:53.0,82,66,DAL,ORL,6,away,JS,,24,miss3,0,D. Marble,
+296,3,4:52.0,82,66,DAL,ORL,1,away,OffReb,,,OffReb,,D. Dedmon,
+297,3,4:48.0,82,66,DAL,ORL,4,away,HS,,6,miss2,0,D. Dedmon,
+298,3,4:47.0,82,66,DAL,ORL,1,away,OffReb,,,OffReb,,A. Gordon,
+299,3,4:46.0,82,68,DAL,ORL,1,away,LU,,0,make2,2,A. Gordon,
+300,3,4:46.0,82,68,DAL,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lee,A. Gordon
+301,3,4:46.0,82,68,DAL,ORL,0,home,Timeout,,,,,,
+302,3,4:46.0,82,68,DAL,ORL,0,home,Sub,,,,,Z. Pachulia,D. Lee
+303,3,4:46.0,82,69,DAL,ORL,0,away,FreeThrow,,,make1,1,A. Gordon,
+304,3,4:31.0,82,69,DAL,ORL,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Gordon,C. Parsons
+305,3,4:31.0,82,69,DAL,ORL,0,away,Sub,,,,,E. İlyasova,A. Gordon
+306,3,4:26.0,82,69,DAL,ORL,5,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Marble,W. Matthews
+307,3,4:26.0,83,69,DAL,ORL,0,home,FreeThrow,,,make1,1,W. Matthews,
+308,3,4:26.0,84,69,DAL,ORL,0,home,FreeThrow,,,make1,1,W. Matthews,
+309,3,4:12.0,84,71,DAL,ORL,14,away,DK,assist,0,make2,2,D. Dedmon,D. Marble
+310,3,4:03.0,84,71,DAL,ORL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Dedmon,Z. Pachulia
+311,3,4:03.0,85,71,DAL,ORL,0,home,FreeThrow,,,make1,1,Z. Pachulia,
+312,3,4:03.0,86,71,DAL,ORL,0,home,FreeThrow,,,make1,1,Z. Pachulia,
+313,3,3:52.0,86,71,DAL,ORL,11,away,LostBall,steal,,turnover,,D. Marble,W. Matthews
+314,3,3:48.0,88,71,DAL,ORL,4,home,LU,,1,make2,2,R. Felton,
+315,3,3:31.0,88,71,DAL,ORL,17,away,JS,,5,miss2,0,D. Dedmon,
+316,3,3:29.0,88,71,DAL,ORL,2,away,OffReb,,,OffReb,,D. Dedmon,
+317,3,3:28.0,88,73,DAL,ORL,1,away,JS,,4,make2,2,D. Dedmon,
+318,3,3:07.0,88,73,DAL,ORL,21,home,BadPass,,,turnover,,C. Parsons,
+319,3,2:56.0,88,73,DAL,ORL,11,away,JS,,24,miss3,0,B. Jennings,
+320,3,2:55.0,88,73,DAL,ORL,1,home,DefReb,,,DefReb,,Z. Pachulia,
+321,3,2:47.0,88,73,DAL,ORL,8,home,LostBall,steal,,turnover,,C. Parsons,E. İlyasova
+322,3,2:43.0,88,75,DAL,ORL,4,away,LU,assist,2,make2,2,B. Jennings,C. Watson
+323,3,2:43.0,88,75,DAL,ORL,0,home,Timeout,,,,,,
+324,3,2:25.0,91,75,DAL,ORL,18,home,JS,assist,23,make3,3,C. Parsons,W. Matthews
+325,3,2:06.0,91,75,DAL,ORL,19,away,JS,,24,miss3,0,C. Watson,
+326,3,2:05.0,91,75,DAL,ORL,1,home,DefReb,,,DefReb,,Z. Pachulia,
+327,3,1:50.0,93,75,DAL,ORL,15,home,JS,assist,18,make2,2,W. Matthews,D. Williams
+328,3,1:29.0,93,75,DAL,ORL,21,away,JS,,23,miss3,0,B. Jennings,
+329,3,1:28.0,93,75,DAL,ORL,1,home,DefReb,,,DefReb,,W. Matthews,
+330,3,1:19.0,93,75,DAL,ORL,9,home,Sub,,,,,J. Barea,D. Williams
+331,3,1:19.0,93,75,DAL,ORL,0,home,Sub,,,,,D. Harris,W. Matthews
+332,3,1:11.0,93,75,DAL,ORL,8,home,JS,,23,miss3,0,J. Barea,
+333,3,1:10.0,93,75,DAL,ORL,1,away,DefReb,,,DefReb,,E. İlyasova,
+334,3,1:03.0,93,78,DAL,ORL,7,away,JS,assist,24,make3,3,D. Marble,B. Jennings
+335,3,0:51.0,93,78,DAL,ORL,12,home,BadPass,steal,,turnover,,R. Felton,B. Jennings
+336,3,0:46.0,93,80,DAL,ORL,5,away,LU,assist,1,make2,2,E. İlyasova,B. Jennings
+337,3,0:31.0,93,80,DAL,ORL,15,home,JS,,8,miss2,0,J. Barea,
+338,3,0:29.0,93,80,DAL,ORL,2,away,DefReb,,,DefReb,,D. Marble,
+339,3,0:22.0,93,80,DAL,ORL,7,away,JS,,24,miss3,0,D. Marble,
+340,3,0:21.0,93,80,DAL,ORL,1,away,OffReb,,,OffReb,,E. İlyasova,
+341,3,0:21.0,93,80,DAL,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Parsons,E. İlyasova
+342,3,0:21.0,93,80,DAL,ORL,0,away,FreeThrow,,,make1,0,E. İlyasova,
+343,3,0:21.0,93,80,DAL,ORL,0,away,OffReb,,,OffReb,,Team,
+344,3,0:21.0,93,80,DAL,ORL,0,home,Sub,,,,,D. Nowitzki,C. Parsons
+345,3,0:21.0,93,80,DAL,ORL,0,away,Sub,,,,,V. Oladipo,B. Jennings
+346,3,0:21.0,93,81,DAL,ORL,0,away,FreeThrow,,,make1,1,E. İlyasova,
+347,3,0:04.0,96,81,DAL,ORL,17,home,JS,assist,23,make3,3,J. Barea,R. Felton
+348,3,0:00.0,96,81,DAL,ORL,4,away,JS,,29,miss3,0,D. Marble,
+349,3,0:00.0,96,81,DAL,ORL,0,away,OffReb,,,OffReb,,Team,
+350,4,11:48.0,96,81,DAL,ORL,12,home,JS,,24,miss3,0,D. Nowitzki,
+351,4,11:47.0,96,81,DAL,ORL,1,away,DefReb,,,DefReb,,D. Dedmon,
+352,4,11:31.0,96,81,DAL,ORL,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,E. İlyasova
+353,4,11:31.0,96,82,DAL,ORL,0,away,FreeThrow,,,make1,1,E. İlyasova,
+354,4,11:31.0,96,83,DAL,ORL,0,away,FreeThrow,,,make1,1,E. İlyasova,
+355,4,11:17.0,98,83,DAL,ORL,14,home,JS,assist,6,make2,2,D. Harris,J. Barea
+356,4,10:59.0,98,83,DAL,ORL,18,away,JS,,20,miss2,0,B. Jennings,
+357,4,10:58.0,98,83,DAL,ORL,1,away,OffReb,,,OffReb,,D. Dedmon,
+358,4,10:53.0,98,85,DAL,ORL,5,away,LU,assist,1,make2,2,E. İlyasova,D. Marble
+359,4,10:34.0,100,85,DAL,ORL,19,home,JS,assist,15,make2,2,D. Nowitzki,R. Felton
+360,4,10:20.0,100,85,DAL,ORL,14,away,JS,,17,miss2,0,D. Marble,
+361,4,10:19.0,100,85,DAL,ORL,1,home,DefReb,,,DefReb,,D. Lee,
+362,4,10:08.0,100,85,DAL,ORL,11,home,JS,,24,miss3,0,R. Felton,
+363,4,10:07.0,100,85,DAL,ORL,1,away,DefReb,,,DefReb,,D. Dedmon,
+364,4,9:59.0,100,85,DAL,ORL,8,away,JS,,9,miss2,0,B. Jennings,
+365,4,9:59.0,100,85,DAL,ORL,0,home,DefReb,,,DefReb,,D. Nowitzki,
+366,4,9:53.0,100,85,DAL,ORL,6,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Marble,R. Felton
+367,4,9:53.0,101,85,DAL,ORL,0,home,FreeThrow,,,make1,1,R. Felton,
+368,4,9:53.0,101,85,DAL,ORL,0,away,Sub,,,,,E. Payton,B. Jennings
+369,4,9:53.0,102,85,DAL,ORL,0,home,FreeThrow,,,make1,1,R. Felton,
+370,4,9:32.0,102,85,DAL,ORL,21,away,JS,,16,miss2,0,E. İlyasova,
+371,4,9:31.0,102,85,DAL,ORL,1,away,OffReb,,,OffReb,,V. Oladipo,
+372,4,9:26.0,102,88,DAL,ORL,5,away,JS,assist,24,make3,3,E. Payton,D. Marble
+373,4,9:14.0,104,88,DAL,ORL,12,home,JS,,8,make2,2,J. Barea,
+374,4,9:05.0,104,88,DAL,ORL,9,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Lee,D. Dedmon
+375,4,9:05.0,104,89,DAL,ORL,0,away,FreeThrow,,,make1,1,D. Dedmon,
+376,4,9:05.0,104,89,DAL,ORL,0,home,Sub,,,,,Z. Pachulia,D. Lee
+377,4,9:05.0,104,90,DAL,ORL,0,away,FreeThrow,,,make1,1,D. Dedmon,
+378,4,8:47.0,104,90,DAL,ORL,18,home,JS,,23,miss3,0,D. Nowitzki,
+379,4,8:46.0,104,90,DAL,ORL,1,away,DefReb,,,DefReb,,D. Marble,
+380,4,8:40.0,104,90,DAL,ORL,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Dedmon,J. Barea
+381,4,8:40.0,104,90,DAL,ORL,0,away,OffensiveFoul,,,turnover,,D. Dedmon,
+382,4,8:40.0,104,90,DAL,ORL,0,away,Sub,,,,,N. Vučević,D. Dedmon
+383,4,8:26.0,106,90,DAL,ORL,14,home,JS,,11,make2,2,R. Felton,
+384,4,8:06.0,106,93,DAL,ORL,20,away,JS,assist,24,make3,3,E. İlyasova,E. Payton
+385,4,7:41.0,109,93,DAL,ORL,25,home,JS,assist,24,make3,3,J. Barea,R. Felton
+386,4,7:30.0,109,95,DAL,ORL,11,away,JS,,7,make2,2,E. Payton,
+387,4,7:08.0,111,95,DAL,ORL,22,home,JS,,13,make2,2,J. Barea,
+388,4,6:52.0,111,95,DAL,ORL,16,home,KickBallViolation,,,KickBallViolation,,Z. Pachulia,
+389,4,6:44.0,111,95,DAL,ORL,8,away,JS,,20,miss2,0,V. Oladipo,
+390,4,6:43.0,111,95,DAL,ORL,1,home,DefReb,,,DefReb,,Z. Pachulia,
+391,4,6:22.0,111,95,DAL,ORL,21,home,LostBall,steal,,turnover,,Z. Pachulia,E. İlyasova
+392,4,6:11.0,111,95,DAL,ORL,11,away,JS,,25,miss3,0,E. Payton,
+393,4,6:10.0,111,95,DAL,ORL,1,home,DefReb,,,DefReb,,J. Barea,
+394,4,5:53.0,111,95,DAL,ORL,17,home,JS,,14,miss2,0,R. Felton,
+395,4,5:51.0,111,95,DAL,ORL,2,away,DefReb,,,DefReb,,E. İlyasova,
+396,4,5:47.0,111,95,DAL,ORL,4,away,JS,,17,miss2,0,V. Oladipo,
+397,4,5:46.0,111,95,DAL,ORL,1,away,OffReb,,,OffReb,,D. Marble,
+398,4,5:42.0,111,95,DAL,ORL,4,away,JS,,17,miss2,0,D. Marble,
+399,4,5:42.0,111,95,DAL,ORL,0,home,DefReb,,,DefReb,,Z. Pachulia,
+400,4,5:42.0,111,95,DAL,ORL,0,home,Timeout,,,,,,
+401,4,5:42.0,111,95,DAL,ORL,0,home,Sub,,,,,W. Matthews,D. Nowitzki
+402,4,5:42.0,111,95,DAL,ORL,0,home,Sub,,,,,C. Parsons,R. Felton
+403,4,5:42.0,111,95,DAL,ORL,0,away,Sub,,,,,C. Watson,V. Oladipo
+404,4,5:29.0,111,95,DAL,ORL,13,home,JS,,24,miss3,0,W. Matthews,
+405,4,5:28.0,111,95,DAL,ORL,1,away,DefReb,,,DefReb,,E. Payton,
+406,4,5:06.0,111,95,DAL,ORL,22,away,BadPass,steal,,turnover,,E. Payton,Z. Pachulia
+407,4,5:05.0,111,95,DAL,ORL,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Payton,C. Parsons
+408,4,4:52.0,111,95,DAL,ORL,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,Z. Pachulia
+409,4,4:52.0,112,95,DAL,ORL,0,home,FreeThrow,,,make1,1,Z. Pachulia,
+410,4,4:52.0,112,95,DAL,ORL,0,away,Sub,,,,,B. Jennings,E. Payton
+411,4,4:52.0,112,95,DAL,ORL,0,away,Sub,,,,,D. Dedmon,N. Vučević
+412,4,4:52.0,113,95,DAL,ORL,0,home,FreeThrow,,,make1,1,Z. Pachulia,
+413,4,4:35.0,113,97,DAL,ORL,17,away,JS,,19,make2,2,D. Dedmon,
+414,4,4:17.0,115,97,DAL,ORL,18,home,LU,assist,0,make2,2,Z. Pachulia,W. Matthews
+415,4,3:55.0,115,97,DAL,ORL,22,away,JS,,20,miss2,0,C. Watson,
+416,4,3:54.0,115,97,DAL,ORL,1,home,DefReb,,,DefReb,,D. Harris,
+417,4,3:36.0,118,97,DAL,ORL,18,home,JS,assist,23,make3,3,D. Harris,J. Barea
+418,4,3:35.0,118,97,DAL,ORL,1,away,Timeout,,,,,,
+419,4,3:35.0,118,97,DAL,ORL,0,home,Sub,,,,,J. Anderson,C. Parsons
+420,4,3:35.0,118,97,DAL,ORL,0,home,Sub,,,,,D. Powell,Z. Pachulia
+421,4,3:35.0,118,97,DAL,ORL,0,home,Sub,,,,,S. Mejri,D. Harris
+422,4,3:20.0,118,100,DAL,ORL,15,away,JS,assist,24,make3,3,B. Jennings,C. Watson
+423,4,3:01.0,118,100,DAL,ORL,19,home,JS,,18,miss2,0,D. Powell,
+424,4,3:00.0,118,100,DAL,ORL,1,home,OffReb,,,OffReb,,S. Mejri,
+425,4,2:57.0,120,100,DAL,ORL,3,home,DK,assist,0,make2,2,S. Mejri,J. Barea
+426,4,2:46.0,120,100,DAL,ORL,11,away,JS,,22,miss3,0,B. Jennings,
+427,4,2:46.0,120,100,DAL,ORL,0,away,OffReb,,,OffReb,,E. İlyasova,
+428,4,2:46.0,120,100,DAL,ORL,0,home,DefGoaltending,,,DefGoaltending,,S. Mejri,
+429,4,2:46.0,120,102,DAL,ORL,0,away,HS,,7,make2,2,E. İlyasova,
+430,4,2:26.0,120,102,DAL,ORL,20,home,JS,,20,miss2,0,J. Barea,
+431,4,2:25.0,120,102,DAL,ORL,1,home,OffReb,,,OffReb,,D. Powell,
+432,4,2:16.0,120,102,DAL,ORL,9,home,JS,block,19,miss2,0,J. Anderson,D. Dedmon
+433,4,2:15.0,120,102,DAL,ORL,1,home,OffReb,,,OffReb,,D. Powell,
+434,4,2:06.0,120,102,DAL,ORL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,S. Mejri
+435,4,2:06.0,121,102,DAL,ORL,0,home,FreeThrow,,,make1,1,S. Mejri,
+436,4,2:06.0,121,102,DAL,ORL,0,home,Sub,,,,,C. Villanueva,W. Matthews
+437,4,2:06.0,121,102,DAL,ORL,0,home,FreeThrow,,,make1,0,S. Mejri,
+438,4,2:05.0,121,102,DAL,ORL,1,away,DefReb,,,DefReb,,D. Marble,
+439,4,1:54.0,121,102,DAL,ORL,11,away,BadPass,steal,,turnover,,B. Jennings,D. Powell
+440,4,1:34.0,121,102,DAL,ORL,20,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Powell,D. Marble
+441,4,1:34.0,121,102,DAL,ORL,0,home,OffensiveFoul,,,turnover,,D. Powell,
+442,4,1:18.0,121,104,DAL,ORL,16,away,JS,assist,2,make2,2,D. Dedmon,C. Watson
+443,4,1:03.0,121,104,DAL,ORL,15,home,JS,,25,miss3,0,C. Villanueva,
+444,4,1:01.0,121,104,DAL,ORL,2,away,DefReb,,,DefReb,,D. Dedmon,
+445,4,0:54.0,121,106,DAL,ORL,7,away,DK,assist,0,make2,2,D. Dedmon,B. Jennings
+446,4,0:36.0,121,106,DAL,ORL,18,home,LU,,2,miss2,0,D. Powell,
+447,4,0:33.0,121,106,DAL,ORL,3,away,DefReb,,,DefReb,,E. İlyasova,
+448,4,0:26.0,121,106,DAL,ORL,7,away,BadPass,steal,,turnover,,B. Jennings,D. Powell
+449,4,0:17.0,121,106,DAL,ORL,9,home,LU,,2,miss2,0,C. Villanueva,
+450,4,0:16.0,121,106,DAL,ORL,1,away,DefReb,,,DefReb,,E. İlyasova,
+451,4,0:09.0,121,106,DAL,ORL,7,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,S. Mejri,D. Marble
+452,4,0:09.0,121,107,DAL,ORL,0,away,FreeThrow,,,make1,1,D. Marble,
+453,4,0:09.0,121,108,DAL,ORL,0,away,FreeThrow,,,make1,1,D. Marble,

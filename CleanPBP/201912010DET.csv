@@ -1,0 +1,426 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,12:00.0,0,0,DET,SAS,0,home,JumpBallViolation,,,JumpBallViolation,,Team,
+1,1,11:49.0,0,0,DET,SAS,11,away,JS,,16,miss2,0,R. Gay,
+2,1,11:44.0,0,0,DET,SAS,5,home,DefReb,,,DefReb,,A. Drummond,
+3,1,11:42.0,3,0,DET,SAS,2,home,JS,assist,24,make3,3,L. Kennard,A. Drummond
+4,1,11:26.0,3,0,DET,SAS,16,away,JS,,26,miss3,0,B. Forbes,
+5,1,11:22.0,3,0,DET,SAS,4,home,DefReb,,,DefReb,,A. Drummond,
+6,1,11:08.0,5,0,DET,SAS,14,home,HS,assist,7,make2,2,A. Drummond,T. Snell
+7,1,10:44.0,5,0,DET,SAS,24,away,JS,,9,miss2,0,R. Gay,
+8,1,10:38.0,5,0,DET,SAS,6,home,DefReb,,,DefReb,,T. Snell,
+9,1,10:34.0,8,0,DET,SAS,4,home,JS,,25,make3,3,T. Snell,
+10,1,10:09.0,8,3,DET,SAS,25,away,JS,assist,24,make3,3,D. White,D. DeRozan
+11,1,9:51.0,8,3,DET,SAS,18,home,lost ball,steal,,turnover,,A. Drummond,J. Poeltl
+12,1,9:46.0,8,3,DET,SAS,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Snell,D. DeRozan
+13,1,9:46.0,8,4,DET,SAS,0,away,FreeThrow,,,make1,1,D. DeRozan,
+14,1,9:46.0,8,5,DET,SAS,0,away,FreeThrow,,,make1,1,D. DeRozan,
+15,1,9:23.0,8,5,DET,SAS,23,home,JS,,23,miss3,0,T. Snell,
+16,1,9:20.0,8,5,DET,SAS,3,home,OffReb,,,OffReb,,A. Drummond,
+17,1,9:17.0,11,5,DET,SAS,3,home,JS,assist,26,make3,3,L. Kennard,A. Drummond
+18,1,9:15.0,11,5,DET,SAS,2,away,Timeout,,,,,,
+19,1,8:57.0,11,5,DET,SAS,18,away,DK,block,1,miss2,0,R. Gay,A. Drummond
+20,1,8:55.0,11,5,DET,SAS,2,home,DefReb,,,DefReb,,L. Kennard,
+21,1,8:50.0,11,5,DET,SAS,5,home,HS,,6,miss2,0,A. Drummond,
+22,1,8:49.0,11,5,DET,SAS,1,away,DefReb,,,DefReb,,D. DeRozan,
+23,1,8:41.0,11,5,DET,SAS,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Brown,D. DeRozan
+24,1,8:41.0,11,6,DET,SAS,0,away,FreeThrow,,,make1,1,D. DeRozan,
+25,1,8:41.0,11,7,DET,SAS,0,away,FreeThrow,,,make1,1,D. DeRozan,
+26,1,8:28.0,11,7,DET,SAS,13,away,KickBallViolation,,,KickBallViolation,,Team,
+27,1,8:22.0,11,7,DET,SAS,6,home,JS,,25,miss3,0,B. Griffin,
+28,1,8:18.0,11,7,DET,SAS,4,away,DefReb,,,DefReb,,D. DeRozan,
+29,1,8:11.0,11,7,DET,SAS,7,away,JS,,23,miss3,0,R. Gay,
+30,1,8:08.0,11,7,DET,SAS,3,away,OffReb,,,OffReb,,J. Poeltl,
+31,1,8:03.0,11,9,DET,SAS,5,away,LU,assist,3,make2,2,J. Poeltl,D. White
+32,1,7:49.0,11,9,DET,SAS,14,home,bad pass,steal,,turnover,,B. Griffin,J. Poeltl
+33,1,7:45.0,11,9,DET,SAS,4,away,Traveling,,,turnover,,B. Forbes,
+34,1,7:29.0,13,9,DET,SAS,16,home,JS,assist,19,make2,2,L. Kennard,B. Griffin
+35,1,7:12.0,13,9,DET,SAS,17,away,JS,,27,miss3,0,D. DeRozan,
+36,1,7:09.0,13,9,DET,SAS,3,home,DefReb,,,DefReb,,A. Drummond,
+37,1,6:49.0,13,9,DET,SAS,20,home,JS,,5,miss2,0,L. Kennard,
+38,1,6:49.0,13,9,DET,SAS,0,home,OffReb,,,OffReb,,A. Drummond,
+39,1,6:47.0,13,9,DET,SAS,2,home,LU,,2,miss2,0,A. Drummond,
+40,1,6:45.0,13,9,DET,SAS,2,away,DefReb,,,DefReb,,J. Poeltl,
+41,1,6:38.0,13,11,DET,SAS,7,away,JS,,22,make2,2,B. Forbes,
+42,1,6:17.0,15,11,DET,SAS,21,home,LU,assist,3,make2,2,A. Drummond,L. Kennard
+43,1,5:56.0,15,13,DET,SAS,21,away,LU,assist,3,make2,2,J. Poeltl,D. White
+44,1,5:44.0,18,13,DET,SAS,12,home,JS,assist,26,make3,3,L. Kennard,B. Griffin
+45,1,5:28.0,18,16,DET,SAS,16,away,JS,assist,24,make3,3,D. DeRozan,D. White
+46,1,5:14.0,18,16,DET,SAS,14,home,JS,,10,miss2,0,T. Snell,
+47,1,5:11.0,18,16,DET,SAS,3,away,DefReb,,,DefReb,,D. DeRozan,
+48,1,5:05.0,18,18,DET,SAS,6,away,JS,,20,make2,2,D. DeRozan,
+49,1,5:05.0,18,18,DET,SAS,0,home,Timeout,,,,,,
+50,1,5:05.0,18,18,DET,SAS,0,away,Sub,,,,,T. Lyles,B. Forbes
+51,1,5:05.0,18,18,DET,SAS,0,away,Sub,,,,,P. Mills,R. Gay
+52,1,5:05.0,18,18,DET,SAS,0,away,Sub,,,,,D. Murray,D. White
+53,1,5:05.0,18,18,DET,SAS,0,home,Sub,,,,,L. Galloway,T. Snell
+54,1,4:57.0,20,18,DET,SAS,8,home,LU,,8,make2,2,B. Griffin,
+55,1,4:44.0,20,18,DET,SAS,13,away,JS,,26,miss3,0,D. DeRozan,
+56,1,4:42.0,20,18,DET,SAS,2,home,DefReb,,,DefReb,,B. Griffin,
+57,1,4:32.0,20,18,DET,SAS,10,home,JS,,23,miss3,0,L. Kennard,
+58,1,4:29.0,20,18,DET,SAS,3,away,DefReb,,,DefReb,,T. Lyles,
+59,1,4:16.0,20,20,DET,SAS,13,away,JS,assist,5,make2,2,D. DeRozan,D. Murray
+60,1,3:56.0,20,20,DET,SAS,20,home,JS,,25,miss3,0,B. Griffin,
+61,1,3:55.0,20,20,DET,SAS,1,home,OffReb,,,OffReb,,Team,
+62,1,3:55.0,20,20,DET,SAS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Poeltl,A. Drummond
+63,1,3:55.0,20,20,DET,SAS,0,home,Sub,,,,,D. Rose,B. Brown
+64,1,3:45.0,22,20,DET,SAS,10,home,LU,,3,make2,2,B. Griffin,
+65,1,3:45.0,22,20,DET,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Lyles,B. Griffin
+66,1,3:45.0,23,20,DET,SAS,0,home,FreeThrow,,,make1,1,B. Griffin,
+67,1,3:45.0,23,20,DET,SAS,0,away,Sub,,,,,D. Eubanks,J. Poeltl
+68,1,3:45.0,23,20,DET,SAS,0,home,Sub,,,,,M. Morris,B. Griffin
+69,1,3:23.0,23,20,DET,SAS,22,away,Traveling,,,turnover,,T. Lyles,
+70,1,3:01.0,25,20,DET,SAS,22,home,JS,,6,make2,2,L. Galloway,
+71,1,2:49.0,25,20,DET,SAS,12,away,LU,,5,miss2,0,D. Murray,
+72,1,2:47.0,25,20,DET,SAS,2,home,DefReb,,,DefReb,,A. Drummond,
+73,1,2:43.0,25,20,DET,SAS,4,home,JS,,26,miss3,0,M. Morris,
+74,1,2:39.0,25,20,DET,SAS,4,away,DefReb,,,DefReb,,D. Murray,
+75,1,2:30.0,25,20,DET,SAS,9,away,JS,,27,miss3,0,T. Lyles,
+76,1,2:26.0,25,20,DET,SAS,4,away,OffReb,,,OffReb,,D. Eubanks,
+77,1,2:19.0,25,20,DET,SAS,7,away,JS,,13,miss2,0,T. Lyles,
+78,1,2:19.0,25,20,DET,SAS,0,home,DefReb,,,DefReb,,Team,
+79,1,2:19.0,25,20,DET,SAS,0,away,Sub,,,,,M. Belinelli,D. DeRozan
+80,1,2:07.0,25,20,DET,SAS,12,home,JS,,9,miss2,0,D. Rose,
+81,1,2:05.0,25,20,DET,SAS,2,away,DefReb,,,DefReb,,D. Murray,
+82,1,1:55.0,25,20,DET,SAS,10,away,LU,,1,miss2,0,P. Mills,
+83,1,1:54.0,25,20,DET,SAS,1,home,DefReb,,,DefReb,,M. Morris,
+84,1,1:48.0,25,20,DET,SAS,6,home,bad pass,steal,,turnover,,D. Rose,D. Murray
+85,1,1:45.0,25,20,DET,SAS,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,D. Murray
+86,1,1:45.0,25,21,DET,SAS,0,away,FreeThrow,,,make1,1,D. Murray,
+87,1,1:45.0,25,21,DET,SAS,0,home,Sub,,,,,S. Mykhailiuk,L. Kennard
+88,1,1:45.0,25,22,DET,SAS,0,away,FreeThrow,,,make1,1,D. Murray,
+89,1,1:33.0,25,22,DET,SAS,12,home,Traveling,,,turnover,,A. Drummond,
+90,1,1:24.0,25,24,DET,SAS,9,away,LU,assist,1,make2,2,P. Mills,D. Eubanks
+91,1,1:07.0,27,24,DET,SAS,17,home,LU,assist,3,make2,2,A. Drummond,D. Rose
+92,1,0:54.0,27,24,DET,SAS,13,away,LU,,4,miss2,0,T. Lyles,
+93,1,0:52.0,27,24,DET,SAS,2,home,DefReb,,,DefReb,,M. Morris,
+94,1,0:49.0,29,24,DET,SAS,3,home,LU,assist,2,make2,2,S. Mykhailiuk,M. Morris
+95,1,0:33.0,29,27,DET,SAS,16,away,JS,assist,23,make3,3,D. Murray,P. Mills
+96,1,0:27.0,29,27,DET,SAS,6,home,lost ball,steal,,turnover,,D. Rose,D. Murray
+97,1,0:24.0,29,27,DET,SAS,3,away,lost ball,steal,,turnover,,D. Murray,A. Drummond
+98,1,0:04.0,32,27,DET,SAS,20,home,JS,assist,26,make3,3,L. Galloway,D. Rose
+99,1,0:01.0,32,27,DET,SAS,3,away,JS,,34,miss3,0,T. Lyles,
+100,1,0:01.0,32,27,DET,SAS,0,away,OffReb,,,OffReb,,Team,
+101,2,11:45.0,32,27,DET,SAS,15,home,JS,,26,miss3,0,L. Galloway,
+102,2,11:43.0,32,27,DET,SAS,2,away,DefReb,,,DefReb,,D. Eubanks,
+103,2,11:38.0,32,27,DET,SAS,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Mykhailiuk,D. Eubanks
+104,2,11:29.0,32,27,DET,SAS,9,away,JS,,5,miss2,0,P. Mills,
+105,2,11:26.0,32,27,DET,SAS,3,home,DefReb,,,DefReb,,C. Wood,
+106,2,11:14.0,32,27,DET,SAS,12,home,LU,,2,miss2,0,D. Rose,
+107,2,11:11.0,32,27,DET,SAS,3,away,DefReb,,,DefReb,,D. Eubanks,
+108,2,11:04.0,32,27,DET,SAS,7,away,JS,,27,miss3,0,D. Murray,
+109,2,11:02.0,32,27,DET,SAS,2,home,DefReb,,,DefReb,,Team,
+110,2,10:41.0,34,27,DET,SAS,21,home,JS,assist,6,make2,2,C. Wood,D. Rose
+111,2,10:21.0,34,29,DET,SAS,20,away,DK,assist,1,make2,2,D. Eubanks,M. Belinelli
+112,2,10:21.0,34,29,DET,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,D. Eubanks
+113,2,10:21.0,34,29,DET,SAS,0,away,Sub,,,,,D. White,D. Murray
+114,2,10:21.0,34,30,DET,SAS,0,away,FreeThrow,,,make1,1,D. Eubanks,
+115,2,10:09.0,36,30,DET,SAS,12,home,LU,,3,make2,2,D. Rose,
+116,2,9:48.0,36,30,DET,SAS,21,away,JS,,25,miss3,0,P. Mills,
+117,2,9:43.0,36,30,DET,SAS,5,home,DefReb,,,DefReb,,M. Morris,
+118,2,9:41.0,39,30,DET,SAS,2,home,JS,assist,26,make3,3,M. Morris,D. Rose
+119,2,9:40.0,39,30,DET,SAS,1,away,Timeout,,,,,,
+120,2,9:25.0,39,30,DET,SAS,15,away,LU,,3,miss2,0,D. Eubanks,
+121,2,9:22.0,39,30,DET,SAS,3,home,DefReb,,,DefReb,,L. Galloway,
+122,2,9:05.0,39,30,DET,SAS,17,home,LU,,3,miss2,0,C. Wood,
+123,2,9:03.0,39,30,DET,SAS,2,away,DefReb,,,DefReb,,D. Eubanks,
+124,2,8:58.0,39,30,DET,SAS,5,away,bad pass,steal,,turnover,,D. White,D. Rose
+125,2,8:55.0,41,30,DET,SAS,3,home,DK,assist,1,make2,2,S. Mykhailiuk,C. Wood
+126,2,8:42.0,41,30,DET,SAS,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Mykhailiuk,M. Belinelli
+127,2,8:42.0,41,31,DET,SAS,0,away,FreeThrow,,,make1,1,M. Belinelli,
+128,2,8:42.0,41,32,DET,SAS,0,away,FreeThrow,,,make1,1,M. Belinelli,
+129,2,8:42.0,41,32,DET,SAS,0,away,Sub,,,,,B. Forbes,D. Eubanks
+130,2,8:42.0,41,32,DET,SAS,0,away,Sub,,,,,R. Gay,T. Lyles
+131,2,8:42.0,41,32,DET,SAS,0,away,Sub,,,,,J. Poeltl,P. Mills
+132,2,8:42.0,41,33,DET,SAS,0,away,FreeThrow,,,make1,1,M. Belinelli,
+133,2,8:30.0,41,33,DET,SAS,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. White,D. Rose
+134,2,8:30.0,42,33,DET,SAS,0,home,FreeThrow,,,make1,1,D. Rose,
+135,2,8:30.0,43,33,DET,SAS,0,home,FreeThrow,,,make1,1,D. Rose,
+136,2,8:30.0,44,33,DET,SAS,0,home,FreeThrow,,,make1,1,D. Rose,
+137,2,8:20.0,44,33,DET,SAS,10,away,LU,block,4,miss2,0,D. White,D. Rose
+138,2,8:20.0,44,33,DET,SAS,0,home,DefReb,,,DefReb,,C. Wood,
+139,2,8:20.0,44,33,DET,SAS,0,home,InstantReplay,,,RulingStands,,Team,
+140,2,8:20.0,44,33,DET,SAS,0,home,Sub,,,,,B. Brown,L. Galloway
+141,2,8:20.0,44,33,DET,SAS,0,home,Sub,,,,,L. Kennard,D. Rose
+142,2,8:04.0,46,33,DET,SAS,16,home,DK,assist,1,make2,2,C. Wood,M. Morris
+143,2,7:53.0,46,33,DET,SAS,11,away,Traveling,,,turnover,,R. Gay,
+144,2,7:39.0,46,33,DET,SAS,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Belinelli,S. Mykhailiuk
+145,2,7:39.0,46,33,DET,SAS,0,home,FreeThrow,,,make1,0,S. Mykhailiuk,
+146,2,7:39.0,46,33,DET,SAS,0,home,OffReb,,,OffReb,,Team,
+147,2,7:39.0,46,33,DET,SAS,0,away,Sub,,,,,D. DeRozan,M. Belinelli
+148,2,7:39.0,47,33,DET,SAS,0,home,FreeThrow,,,make1,1,S. Mykhailiuk,
+149,2,7:25.0,47,35,DET,SAS,14,away,JS,,9,make2,2,R. Gay,
+150,2,7:04.0,47,35,DET,SAS,21,home,LU,block,5,miss2,0,B. Brown,R. Gay
+151,2,7:03.0,47,35,DET,SAS,1,home,OffReb,,,OffReb,,C. Wood,
+152,2,7:03.0,49,35,DET,SAS,0,home,DK,,1,make2,2,C. Wood,
+153,2,6:52.0,49,35,DET,SAS,11,away,Timeout,,,,,,
+154,2,6:52.0,49,35,DET,SAS,0,home,Sub,,,,,B. Griffin,M. Morris
+155,2,6:52.0,49,35,DET,SAS,0,home,Sub,,,,,T. Snell,S. Mykhailiuk
+156,2,6:42.0,49,35,DET,SAS,10,away,JS,,25,miss3,0,B. Forbes,
+157,2,6:38.0,49,35,DET,SAS,4,home,DefReb,,,DefReb,,C. Wood,
+158,2,6:27.0,49,35,DET,SAS,11,home,JS,,26,miss3,0,L. Kennard,
+159,2,6:22.0,49,35,DET,SAS,5,away,DefReb,,,DefReb,,D. White,
+160,2,6:08.0,49,37,DET,SAS,14,away,LU,,4,make2,2,D. White,
+161,2,5:53.0,52,37,DET,SAS,15,home,JS,assist,24,make3,3,C. Wood,B. Griffin
+162,2,5:38.0,52,37,DET,SAS,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Snell,D. DeRozan
+163,2,5:25.0,52,37,DET,SAS,13,away,JS,,15,miss2,0,B. Forbes,
+164,2,5:21.0,52,37,DET,SAS,4,home,DefReb,,,DefReb,,B. Brown,
+165,2,5:12.0,52,37,DET,SAS,9,home,LU,block,5,miss2,0,B. Griffin,R. Gay
+166,2,5:12.0,52,37,DET,SAS,0,home,OffReb,,,OffReb,,Team,
+167,2,5:12.0,52,37,DET,SAS,0,home,InstantReplay,,,RulingStands,,Team,
+168,2,5:00.0,52,37,DET,SAS,12,home,LU,block,8,miss2,0,L. Kennard,D. White
+169,2,4:58.0,52,37,DET,SAS,2,home,OffReb,,,OffReb,,L. Kennard,
+170,2,4:58.0,52,37,DET,SAS,0,home,ShotClockViolation,,,turnover,,Team,
+171,2,4:58.0,52,37,DET,SAS,0,home,Sub,,,,,A. Drummond,C. Wood
+172,2,4:48.0,52,37,DET,SAS,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Snell,D. DeRozan
+173,2,4:48.0,52,38,DET,SAS,0,away,FreeThrow,,,make1,1,D. DeRozan,
+174,2,4:48.0,52,38,DET,SAS,0,home,Sub,,,,,L. Galloway,T. Snell
+175,2,4:48.0,52,39,DET,SAS,0,away,FreeThrow,,,make1,1,D. DeRozan,
+176,2,4:31.0,52,39,DET,SAS,17,home,LU,,1,miss2,0,A. Drummond,
+177,2,4:29.0,52,39,DET,SAS,2,away,DefReb,,,DefReb,,J. Poeltl,
+178,2,4:22.0,52,39,DET,SAS,7,away,JS,,12,miss2,0,D. DeRozan,
+179,2,4:19.0,52,39,DET,SAS,3,home,DefReb,,,DefReb,,A. Drummond,
+180,2,4:09.0,54,39,DET,SAS,10,home,JS,,7,make2,2,B. Brown,
+181,2,3:51.0,54,39,DET,SAS,18,away,LU,,7,miss2,0,J. Poeltl,
+182,2,3:51.0,54,39,DET,SAS,0,home,DefReb,,,DefReb,,B. Brown,
+183,2,3:39.0,54,39,DET,SAS,12,home,JS,,27,miss3,0,B. Brown,
+184,2,3:34.0,54,39,DET,SAS,5,away,DefReb,,,DefReb,,D. DeRozan,
+185,2,3:29.0,54,41,DET,SAS,5,away,LU,,2,make2,2,D. DeRozan,
+186,2,3:13.0,54,41,DET,SAS,16,home,bad pass,steal,,turnover,,B. Griffin,B. Forbes
+187,2,3:09.0,54,43,DET,SAS,4,away,LU,assist,0,make2,2,R. Gay,B. Forbes
+188,2,3:09.0,54,43,DET,SAS,0,home,Timeout,,,,,,
+189,2,3:09.0,54,43,DET,SAS,0,away,Sub,,,,,P. Mills,B. Forbes
+190,2,3:09.0,54,43,DET,SAS,0,away,Sub,,,,,D. Murray,D. White
+191,2,3:09.0,54,43,DET,SAS,0,home,Sub,,,,,D. Rose,B. Brown
+192,2,3:03.0,54,43,DET,SAS,6,home,LU,,5,miss2,0,B. Griffin,
+193,2,3:01.0,54,43,DET,SAS,2,away,DefReb,,,DefReb,,J. Poeltl,
+194,2,2:50.0,54,43,DET,SAS,11,away,JS,block,9,miss2,0,J. Poeltl,A. Drummond
+195,2,2:45.0,54,43,DET,SAS,5,home,DefReb,,,DefReb,,L. Kennard,
+196,2,2:25.0,54,43,DET,SAS,20,home,JS,,25,miss3,0,D. Rose,
+197,2,2:25.0,54,43,DET,SAS,0,away,DefReb,,,DefReb,,Team,
+198,2,2:25.0,54,43,DET,SAS,0,home,Sub,,,,,M. Morris,B. Griffin
+199,2,2:09.0,54,43,DET,SAS,16,away,JS,,9,miss2,0,P. Mills,
+200,2,2:07.0,54,43,DET,SAS,2,home,DefReb,,,DefReb,,A. Drummond,
+201,2,2:03.0,54,43,DET,SAS,4,home,bad pass,steal,,turnover,,A. Drummond,D. DeRozan
+202,2,1:57.0,54,43,DET,SAS,6,away,lost ball,steal,,turnover,,R. Gay,L. Galloway
+203,2,1:51.0,54,43,DET,SAS,6,home,bad pass,steal,,turnover,,M. Morris,R. Gay
+204,2,1:36.0,54,45,DET,SAS,15,away,JS,assist,22,make2,2,R. Gay,D. Murray
+205,2,1:36.0,54,45,DET,SAS,0,away,InstantReplay,,,RulingStands,,Team,
+206,2,1:21.0,54,45,DET,SAS,15,home,lost ball,steal,,turnover,,D. Rose,D. Murray
+207,2,1:15.0,54,47,DET,SAS,6,away,LU,assist,2,make2,2,R. Gay,D. Murray
+208,2,0:57.0,57,47,DET,SAS,18,home,JS,assist,25,make3,3,M. Morris,D. Rose
+209,2,0:45.0,57,47,DET,SAS,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,R. Gay
+210,2,0:45.0,57,48,DET,SAS,0,away,FreeThrow,,,make1,1,R. Gay,
+211,2,0:45.0,57,49,DET,SAS,0,away,FreeThrow,,,make1,1,R. Gay,
+212,2,0:33.0,59,49,DET,SAS,12,home,JS,,8,make2,2,L. Kennard,
+213,2,0:12.0,59,51,DET,SAS,21,away,JS,,16,make2,2,D. DeRozan,
+214,2,0:05.0,59,51,DET,SAS,7,home,LU,block,3,miss2,0,D. Rose,J. Poeltl
+215,2,0:02.0,59,51,DET,SAS,3,away,DefReb,,,DefReb,,D. Murray,
+216,2,0:00.0,59,51,DET,SAS,2,away,JS,,29,miss3,0,P. Mills,
+217,2,0:00.0,59,51,DET,SAS,0,away,OffReb,,,OffReb,,Team,
+218,3,11:44.0,59,51,DET,SAS,16,home,JS,,26,miss3,0,T. Snell,
+219,3,11:40.0,59,51,DET,SAS,4,away,DefReb,,,DefReb,,R. Gay,
+220,3,11:34.0,59,51,DET,SAS,6,away,JS,,25,miss3,0,R. Gay,
+221,3,11:31.0,59,51,DET,SAS,3,home,DefReb,,,DefReb,,A. Drummond,
+222,3,11:25.0,61,51,DET,SAS,6,home,LU,assist,1,make2,2,B. Griffin,B. Brown
+223,3,11:06.0,61,53,DET,SAS,19,away,JS,,17,make2,2,D. White,
+224,3,10:51.0,61,53,DET,SAS,15,home,JS,,23,miss3,0,B. Griffin,
+225,3,10:48.0,61,53,DET,SAS,3,home,OffReb,,,OffReb,,A. Drummond,
+226,3,10:43.0,63,53,DET,SAS,5,home,JS,assist,9,make2,2,T. Snell,B. Brown
+227,3,10:29.0,63,53,DET,SAS,14,away,JS,,25,miss3,0,D. White,
+228,3,10:26.0,63,53,DET,SAS,3,home,DefReb,,,DefReb,,B. Griffin,
+229,3,10:13.0,63,53,DET,SAS,13,home,LU,,1,miss2,0,B. Brown,
+230,3,10:11.0,63,53,DET,SAS,2,home,OffReb,,,OffReb,,A. Drummond,
+231,3,10:07.0,63,53,DET,SAS,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. White,A. Drummond
+232,3,9:56.0,65,53,DET,SAS,11,home,LU,assist,4,make2,2,B. Brown,B. Griffin
+233,3,9:44.0,65,53,DET,SAS,12,away,JS,,29,miss3,0,B. Forbes,
+234,3,9:41.0,65,53,DET,SAS,3,home,DefReb,,,DefReb,,A. Drummond,
+235,3,9:38.0,65,53,DET,SAS,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. DeRozan,B. Brown
+236,3,9:38.0,66,53,DET,SAS,0,home,FreeThrow,,,make1,1,B. Brown,
+237,3,9:38.0,67,53,DET,SAS,0,home,FreeThrow,,,make1,1,B. Brown,
+238,3,9:27.0,67,53,DET,SAS,11,away,JS,,26,miss3,0,B. Forbes,
+239,3,9:24.0,67,53,DET,SAS,3,home,DefReb,,,DefReb,,B. Brown,
+240,3,9:16.0,67,53,DET,SAS,8,home,HS,,6,miss2,0,A. Drummond,
+241,3,9:13.0,67,53,DET,SAS,3,away,DefReb,,,DefReb,,R. Gay,
+242,3,9:09.0,67,56,DET,SAS,4,away,JS,assist,23,make3,3,B. Forbes,D. DeRozan
+243,3,8:50.0,69,56,DET,SAS,19,home,LU,assist,3,make2,2,L. Kennard,B. Griffin
+244,3,8:41.0,69,56,DET,SAS,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,D. DeRozan
+245,3,8:41.0,69,56,DET,SAS,0,away,FreeThrow,,,make1,0,D. DeRozan,
+246,3,8:41.0,69,56,DET,SAS,0,away,OffReb,,,OffReb,,Team,
+247,3,8:41.0,69,57,DET,SAS,0,away,FreeThrow,,,make1,1,D. DeRozan,
+248,3,8:28.0,69,57,DET,SAS,13,home,LU,,1,miss2,0,B. Griffin,
+249,3,8:27.0,69,57,DET,SAS,1,home,OffReb,,,OffReb,,A. Drummond,
+250,3,8:24.0,69,57,DET,SAS,3,home,lost ball,steal,,turnover,,A. Drummond,J. Poeltl
+251,3,8:12.0,69,57,DET,SAS,12,away,JS,,15,miss2,0,D. DeRozan,
+252,3,8:09.0,69,57,DET,SAS,3,home,DefReb,,,DefReb,,A. Drummond,
+253,3,7:55.0,72,57,DET,SAS,14,home,JS,assist,23,make3,3,B. Brown,L. Kennard
+254,3,7:55.0,72,57,DET,SAS,0,away,Timeout,,,,,,
+255,3,7:35.0,72,59,DET,SAS,20,away,JS,,17,make2,2,R. Gay,
+256,3,7:17.0,72,59,DET,SAS,18,home,lost ball,steal,,turnover,,L. Kennard,D. White
+257,3,7:06.0,72,59,DET,SAS,11,away,JS,,14,miss2,0,D. DeRozan,
+258,3,7:04.0,72,59,DET,SAS,2,home,DefReb,,,DefReb,,Team,
+259,3,7:04.0,72,59,DET,SAS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Gay,A. Drummond
+260,3,6:39.0,72,59,DET,SAS,25,home,LU,,4,miss2,0,B. Griffin,
+261,3,6:37.0,72,59,DET,SAS,2,away,DefReb,,,DefReb,,R. Gay,
+262,3,6:24.0,72,59,DET,SAS,13,away,JS,,13,miss2,0,R. Gay,
+263,3,6:22.0,72,59,DET,SAS,2,home,DefReb,,,DefReb,,B. Brown,
+264,3,6:12.0,75,59,DET,SAS,10,home,JS,assist,24,make3,3,L. Kennard,B. Griffin
+265,3,5:49.0,75,61,DET,SAS,23,away,JS,,16,make2,2,D. DeRozan,
+266,3,5:21.0,77,61,DET,SAS,28,home,LU,,2,make2,2,A. Drummond,
+267,3,5:07.0,77,61,DET,SAS,14,away,DK,block,3,miss2,0,R. Gay,A. Drummond
+268,3,5:05.0,77,61,DET,SAS,2,home,DefReb,,,DefReb,,A. Drummond,
+269,3,4:50.0,77,61,DET,SAS,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Gay,A. Drummond
+270,3,4:50.0,77,61,DET,SAS,0,away,Sub,,,,,T. Lyles,B. Forbes
+271,3,4:50.0,77,61,DET,SAS,0,away,Sub,,,,,P. Mills,R. Gay
+272,3,4:50.0,77,61,DET,SAS,0,away,Sub,,,,,D. Murray,D. White
+273,3,4:50.0,77,61,DET,SAS,0,home,Sub,,,,,D. Rose,B. Brown
+274,3,4:35.0,77,61,DET,SAS,15,home,LU,block,5,miss2,0,B. Griffin,T. Lyles
+275,3,4:33.0,77,61,DET,SAS,2,away,DefReb,,,DefReb,,T. Lyles,
+276,3,4:28.0,77,61,DET,SAS,5,away,LU,,1,miss2,0,D. DeRozan,
+277,3,4:23.0,77,61,DET,SAS,5,away,OffReb,,,OffReb,,J. Poeltl,
+278,3,4:23.0,77,63,DET,SAS,0,away,LU,,0,make2,2,J. Poeltl,
+279,3,4:16.0,79,63,DET,SAS,7,home,LU,,3,make2,2,B. Griffin,
+280,3,4:16.0,79,63,DET,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Lyles,B. Griffin
+281,3,4:16.0,79,63,DET,SAS,0,away,Sub,,,,,L. Walker,D. DeRozan
+282,3,4:16.0,80,63,DET,SAS,0,home,FreeThrow,,,make1,1,B. Griffin,
+283,3,4:06.0,80,65,DET,SAS,10,away,LU,assist,2,make2,2,P. Mills,J. Poeltl
+284,3,3:42.0,80,65,DET,SAS,24,home,JS,,24,miss3,0,D. Rose,
+285,3,3:39.0,80,65,DET,SAS,3,home,OffReb,,,OffReb,,A. Drummond,
+286,3,3:39.0,80,65,DET,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Poeltl,A. Drummond
+287,3,3:39.0,80,65,DET,SAS,0,home,FreeThrow,,,make1,0,A. Drummond,
+288,3,3:39.0,80,65,DET,SAS,0,home,OffReb,,,OffReb,,Team,
+289,3,3:39.0,80,65,DET,SAS,0,home,Sub,,,,,L. Galloway,L. Kennard
+290,3,3:39.0,80,65,DET,SAS,0,home,Sub,,,,,S. Mykhailiuk,T. Snell
+291,3,3:39.0,80,65,DET,SAS,0,home,FreeThrow,,,make1,0,A. Drummond,
+292,3,3:36.0,80,65,DET,SAS,3,away,DefReb,,,DefReb,,T. Lyles,
+293,3,3:20.0,80,67,DET,SAS,16,away,JS,,8,make2,2,L. Walker,
+294,3,3:11.0,80,67,DET,SAS,9,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Lyles,A. Drummond
+295,3,3:11.0,81,67,DET,SAS,0,home,FreeThrow,,,make1,1,A. Drummond,
+296,3,3:11.0,81,67,DET,SAS,0,home,FreeThrow,,,make1,0,A. Drummond,
+297,3,3:10.0,81,67,DET,SAS,1,away,DefReb,,,DefReb,,Team,
+298,3,3:01.0,81,69,DET,SAS,9,away,DK,,2,make2,2,J. Poeltl,
+299,3,2:59.0,81,69,DET,SAS,2,home,Timeout,,,,,,
+300,3,2:59.0,81,69,DET,SAS,0,away,Sub,,,,,D. Eubanks,J. Poeltl
+301,3,2:59.0,81,69,DET,SAS,0,home,Sub,,,,,M. Morris,A. Drummond
+302,3,2:59.0,81,69,DET,SAS,0,home,Sub,,,,,C. Wood,B. Griffin
+303,3,2:45.0,81,69,DET,SAS,14,home,JS,,26,miss3,0,M. Morris,
+304,3,2:42.0,81,69,DET,SAS,3,home,OffReb,,,OffReb,,C. Wood,
+305,3,2:42.0,81,69,DET,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Eubanks,C. Wood
+306,3,2:42.0,82,69,DET,SAS,0,home,FreeThrow,,,make1,1,C. Wood,
+307,3,2:42.0,83,69,DET,SAS,0,home,FreeThrow,,,make1,1,C. Wood,
+308,3,2:21.0,83,69,DET,SAS,21,away,JS,,17,miss2,0,D. Murray,
+309,3,2:17.0,83,69,DET,SAS,4,home,DefReb,,,DefReb,,L. Galloway,
+310,3,2:13.0,83,69,DET,SAS,4,home,JS,,26,miss3,0,S. Mykhailiuk,
+311,3,2:10.0,83,69,DET,SAS,3,home,OffReb,,,OffReb,,M. Morris,
+312,3,2:04.0,86,69,DET,SAS,6,home,JS,,25,make3,3,D. Rose,
+313,3,1:47.0,86,69,DET,SAS,17,away,JS,,13,miss2,0,L. Walker,
+314,3,1:44.0,86,69,DET,SAS,3,home,DefReb,,,DefReb,,C. Wood,
+315,3,1:36.0,88,69,DET,SAS,8,home,LU,assist,4,make2,2,C. Wood,D. Rose
+316,3,1:15.0,88,69,DET,SAS,21,away,JS,,25,miss3,0,T. Lyles,
+317,3,1:13.0,88,69,DET,SAS,2,home,DefReb,,,DefReb,,Team,
+318,3,1:01.0,90,69,DET,SAS,12,home,DK,assist,1,make2,2,C. Wood,D. Rose
+319,3,0:46.0,90,69,DET,SAS,15,away,JS,,8,miss2,0,T. Lyles,
+320,3,0:42.0,90,69,DET,SAS,4,home,DefReb,,,DefReb,,S. Mykhailiuk,
+321,3,0:37.0,93,69,DET,SAS,5,home,JS,assist,29,make3,3,S. Mykhailiuk,D. Rose
+322,3,0:28.0,93,69,DET,SAS,9,away,JS,,22,miss3,0,P. Mills,
+323,3,0:25.0,93,69,DET,SAS,3,away,OffReb,,,OffReb,,L. Walker,
+324,3,0:13.0,93,71,DET,SAS,12,away,LU,assist,7,make2,2,T. Lyles,D. Murray
+325,3,0:13.0,93,71,DET,SAS,0,home,DefGoaltending,,,DefGoaltending,,Team,
+326,3,0:02.0,96,71,DET,SAS,11,home,JS,assist,23,make3,3,C. Wood,L. Galloway
+327,4,11:38.0,96,74,DET,SAS,22,away,JS,assist,26,make3,3,L. Walker,D. Murray
+328,4,11:16.0,98,74,DET,SAS,22,home,DK,assist,0,make2,2,C. Wood,D. Rose
+329,4,11:00.0,98,74,DET,SAS,16,away,JS,,18,miss2,0,L. Walker,
+330,4,10:57.0,98,74,DET,SAS,3,home,DefReb,,,DefReb,,C. Wood,
+331,4,10:45.0,100,74,DET,SAS,12,home,LU,,3,make2,2,S. Mykhailiuk,
+332,4,10:32.0,100,76,DET,SAS,13,away,LU,assist,2,make2,2,D. Eubanks,D. Murray
+333,4,10:20.0,102,76,DET,SAS,12,home,LU,,2,make2,2,D. Rose,
+334,4,10:09.0,102,76,DET,SAS,11,away,JS,,18,miss2,0,D. Murray,
+335,4,10:05.0,102,76,DET,SAS,4,home,DefReb,,,DefReb,,L. Galloway,
+336,4,9:56.0,102,76,DET,SAS,9,home,LU,,2,miss2,0,C. Wood,
+337,4,9:54.0,102,76,DET,SAS,2,away,DefReb,,,DefReb,,D. Eubanks,
+338,4,9:52.0,102,76,DET,SAS,2,away,bad pass,steal,,turnover,,D. Eubanks,D. Rose
+339,4,9:48.0,105,76,DET,SAS,4,home,JS,assist,25,make3,3,L. Galloway,D. Rose
+340,4,9:29.0,105,79,DET,SAS,19,away,JS,assist,23,make3,3,T. Lyles,L. Walker
+341,4,9:04.0,105,79,DET,SAS,25,home,bad pass,steal,,turnover,,L. Galloway,L. Walker
+342,4,8:59.0,105,81,DET,SAS,5,away,LU,,0,make2,2,L. Walker,
+343,4,8:46.0,105,81,DET,SAS,13,home,JS,,25,miss3,0,L. Galloway,
+344,4,8:46.0,105,81,DET,SAS,0,away,DefReb,,,DefReb,,D. Eubanks,
+345,4,8:41.0,105,81,DET,SAS,5,away,Timeout,,,,,,
+346,4,8:41.0,105,81,DET,SAS,0,away,Sub,,,,,M. Belinelli,T. Lyles
+347,4,8:41.0,105,81,DET,SAS,0,home,Sub,,,,,B. Brown,L. Galloway
+348,4,8:41.0,105,81,DET,SAS,0,home,Sub,,,,,L. Kennard,D. Rose
+349,4,8:31.0,105,83,DET,SAS,10,away,LU,assist,1,make2,2,L. Walker,D. Carroll
+350,4,8:05.0,107,83,DET,SAS,26,home,LU,,4,make2,2,B. Brown,
+351,4,7:50.0,107,85,DET,SAS,15,away,JS,,5,make2,2,L. Walker,
+352,4,7:31.0,109,85,DET,SAS,19,home,JS,,12,make2,2,L. Kennard,
+353,4,7:17.0,109,85,DET,SAS,14,away,JS,,10,miss2,0,L. Walker,
+354,4,7:15.0,109,85,DET,SAS,2,home,DefReb,,,DefReb,,L. Kennard,
+355,4,7:10.0,109,85,DET,SAS,5,home,Traveling,,,turnover,,C. Wood,
+356,4,7:10.0,109,85,DET,SAS,0,away,Sub,,,,,D. White,D. Murray
+357,4,6:54.0,109,85,DET,SAS,16,away,LU,,0,miss2,0,D. Carroll,
+358,4,6:51.0,109,85,DET,SAS,3,home,DefReb,,,DefReb,,C. Wood,
+359,4,6:50.0,109,85,DET,SAS,1,home,OutOfBounds,,,turnover,,C. Wood,
+360,4,6:45.0,109,85,DET,SAS,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Kennard,D. White
+361,4,6:35.0,109,85,DET,SAS,10,away,JS,,21,miss2,0,D. White,
+362,4,6:33.0,109,85,DET,SAS,2,home,DefReb,,,DefReb,,B. Brown,
+363,4,6:30.0,111,85,DET,SAS,3,home,LU,assist,1,make2,2,M. Morris,B. Brown
+364,4,6:15.0,111,85,DET,SAS,15,away,JS,,19,miss2,0,L. Walker,
+365,4,6:08.0,111,85,DET,SAS,7,away,OffReb,,,OffReb,,D. Eubanks,
+366,4,6:08.0,111,87,DET,SAS,0,away,DK,,0,make2,2,D. Eubanks,
+367,4,5:53.0,113,87,DET,SAS,15,home,LU,assist,4,make2,2,C. Wood,L. Kennard
+368,4,5:48.0,113,87,DET,SAS,5,away,Timeout,,,,,,
+369,4,5:48.0,113,87,DET,SAS,0,away,Sub,,,,,B. Forbes,D. White
+370,4,5:32.0,113,87,DET,SAS,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,D. Carroll
+371,4,5:32.0,113,88,DET,SAS,0,away,FreeThrow,,,make1,1,D. Carroll,
+372,4,5:32.0,113,89,DET,SAS,0,away,FreeThrow,,,make1,1,D. Carroll,
+373,4,5:21.0,113,89,DET,SAS,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Carroll,M. Morris
+374,4,5:10.0,115,89,DET,SAS,11,home,LU,,5,make2,2,M. Morris,
+375,4,5:00.0,115,89,DET,SAS,10,away,JS,,24,miss3,0,D. Carroll,
+376,4,4:56.0,115,89,DET,SAS,4,home,DefReb,,,DefReb,,B. Brown,
+377,4,4:47.0,115,89,DET,SAS,9,home,BadPass,,,turnover,,B. Brown,
+378,4,4:47.0,115,89,DET,SAS,0,home,Sub,,,,,T. Frazier,L. Kennard
+379,4,4:47.0,115,89,DET,SAS,0,home,Sub,,,,,T. Maker,M. Morris
+380,4,4:37.0,115,89,DET,SAS,10,away,JS,,20,miss2,0,M. Belinelli,
+381,4,4:34.0,115,89,DET,SAS,3,home,DefReb,,,DefReb,,B. Brown,
+382,4,4:11.0,115,89,DET,SAS,23,home,LU,block,7,miss2,0,T. Frazier,D. Eubanks
+383,4,4:08.0,115,89,DET,SAS,3,home,OffReb,,,OffReb,,C. Wood,
+384,4,4:08.0,117,89,DET,SAS,0,home,LU,,2,make2,2,C. Wood,
+385,4,4:03.0,117,89,DET,SAS,5,away,JS,,29,miss3,0,L. Walker,
+386,4,3:59.0,117,89,DET,SAS,4,home,DefReb,,,DefReb,,C. Wood,
+387,4,3:53.0,117,89,DET,SAS,6,home,JS,,26,miss3,0,C. Wood,
+388,4,3:50.0,117,89,DET,SAS,3,away,DefReb,,,DefReb,,M. Belinelli,
+389,4,3:36.0,117,91,DET,SAS,14,away,HS,assist,8,make2,2,D. Eubanks,B. Forbes
+390,4,3:11.0,119,91,DET,SAS,25,home,LU,assist,1,make2,2,T. Maker,C. Wood
+391,4,2:58.0,119,91,DET,SAS,13,away,HS,,7,miss2,0,D. Carroll,
+392,4,2:54.0,119,91,DET,SAS,4,away,OffReb,,,OffReb,,L. Walker,
+393,4,2:54.0,119,93,DET,SAS,0,away,DK,,0,make2,2,L. Walker,
+394,4,2:36.0,121,93,DET,SAS,18,home,LU,,5,make2,2,B. Brown,
+395,4,2:35.0,121,93,DET,SAS,1,away,Timeout,,,,,,
+396,4,2:35.0,121,93,DET,SAS,0,away,Sub,,,,,D. Murray,B. Forbes
+397,4,2:35.0,121,93,DET,SAS,0,home,Sub,,,,,S. Doumbouya,B. Brown
+398,4,2:20.0,121,93,DET,SAS,15,away,HS,block,8,miss2,0,D. Eubanks,C. Wood
+399,4,2:17.0,121,93,DET,SAS,3,away,OffReb,,,OffReb,,D. Eubanks,
+400,4,2:15.0,121,93,DET,SAS,2,away,bad pass,steal,,turnover,,D. Eubanks,C. Wood
+401,4,2:13.0,121,93,DET,SAS,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Belinelli,C. Wood
+402,4,2:13.0,122,93,DET,SAS,0,home,FreeThrow,,,make1,1,C. Wood,
+403,4,2:13.0,123,93,DET,SAS,0,home,FreeThrow,,,make1,1,C. Wood,
+404,4,2:01.0,123,96,DET,SAS,12,away,JS,assist,25,make3,3,M. Belinelli,L. Walker
+405,4,1:47.0,125,96,DET,SAS,14,home,DK,assist,1,make2,2,C. Wood,T. Frazier
+406,4,1:37.0,125,96,DET,SAS,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Mykhailiuk,D. Carroll
+407,4,1:37.0,125,96,DET,SAS,0,away,FreeThrow,,,make1,0,D. Carroll,
+408,4,1:37.0,125,96,DET,SAS,0,away,OffReb,,,OffReb,,Team,
+409,4,1:37.0,125,97,DET,SAS,0,away,FreeThrow,,,make1,1,D. Carroll,
+410,4,1:24.0,127,97,DET,SAS,13,home,LU,assist,2,make2,2,S. Doumbouya,T. Frazier
+411,4,1:24.0,127,97,DET,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Eubanks,S. Doumbouya
+412,4,1:24.0,127,97,DET,SAS,0,home,FreeThrow,,,make1,0,S. Doumbouya,
+413,4,1:20.0,127,97,DET,SAS,4,away,DefReb,,,DefReb,,D. Carroll,
+414,4,1:17.0,127,97,DET,SAS,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Wood,D. Carroll
+415,4,1:17.0,127,97,DET,SAS,0,away,FreeThrow,,,make1,0,D. Carroll,
+416,4,1:17.0,127,97,DET,SAS,0,away,OffReb,,,OffReb,,Team,
+417,4,1:17.0,127,98,DET,SAS,0,away,FreeThrow,,,make1,1,D. Carroll,
+418,4,0:58.0,130,98,DET,SAS,19,home,JS,,29,make3,3,S. Mykhailiuk,
+419,4,0:52.0,130,98,DET,SAS,6,away,JS,,26,miss3,0,L. Walker,
+420,4,0:49.0,130,98,DET,SAS,3,home,DefReb,,,DefReb,,S. Mykhailiuk,
+421,4,0:39.0,132,98,DET,SAS,10,home,LU,assist,5,make2,2,S. Doumbouya,T. Frazier
+422,4,0:31.0,132,98,DET,SAS,8,away,JS,,18,miss2,0,D. Murray,
+423,4,0:28.0,132,98,DET,SAS,3,home,DefReb,,,DefReb,,T. Frazier,
+424,4,0:06.0,132,98,DET,SAS,22,home,ShotClockViolation,,,turnover,,Team,

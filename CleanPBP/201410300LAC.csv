@@ -1,0 +1,473 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:35.0,0,2,LAC,OKC,25,away,LU,assist,2,make2,2,R. Westbrook,A. Roberson
+1,1,11:21.0,0,2,LAC,OKC,14,home,JS,,27,miss3,0,J. Redick,
+2,1,11:20.0,0,2,LAC,OKC,1,away,DefReb,,,DefReb,,Team,
+3,1,11:03.0,0,4,LAC,OKC,17,away,JS,,13,make2,2,P. Jones,
+4,1,10:55.0,0,4,LAC,OKC,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Ibaka,B. Griffin
+5,1,10:50.0,0,4,LAC,OKC,5,home,HS,,10,miss2,0,B. Griffin,
+6,1,10:47.0,0,4,LAC,OKC,3,away,DefReb,,,DefReb,,S. Ibaka,
+7,1,10:43.0,0,4,LAC,OKC,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Jordan,R. Westbrook
+8,1,10:29.0,0,6,LAC,OKC,14,away,HS,assist,3,make2,2,A. Roberson,P. Jones
+9,1,10:20.0,0,6,LAC,OKC,9,home,JS,,21,miss2,0,B. Griffin,
+10,1,10:19.0,0,6,LAC,OKC,1,away,DefReb,,,DefReb,,Team,
+11,1,10:06.0,0,8,LAC,OKC,13,away,JS,assist,14,make2,2,S. Ibaka,R. Westbrook
+12,1,9:48.0,0,8,LAC,OKC,18,home,JS,block,3,miss2,0,B. Griffin,P. Jones
+13,1,9:46.0,0,8,LAC,OKC,2,home,OffReb,,,OffReb,,B. Griffin,
+14,1,9:43.0,0,8,LAC,OKC,3,home,JS,,25,miss3,0,M. Barnes,
+15,1,9:41.0,0,8,LAC,OKC,2,away,DefReb,,,DefReb,,S. Ibaka,
+16,1,9:33.0,0,8,LAC,OKC,8,away,LostBall,steal,,turnover,,R. Westbrook,C. Paul
+17,1,9:30.0,0,8,LAC,OKC,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Jones,B. Griffin
+18,1,9:30.0,1,8,LAC,OKC,0,home,FreeThrow,,,make1,1,B. Griffin,
+19,1,9:30.0,2,8,LAC,OKC,0,home,FreeThrow,,,make1,1,B. Griffin,
+20,1,9:13.0,2,10,LAC,OKC,17,away,JS,assist,21,make2,2,S. Ibaka,P. Jones
+21,1,9:00.0,2,10,LAC,OKC,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Westbrook,C. Paul
+22,1,8:51.0,5,10,LAC,OKC,9,home,JS,assist,25,make3,3,M. Barnes,C. Paul
+23,1,8:34.0,5,10,LAC,OKC,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Griffin,S. Ibaka
+24,1,8:27.0,5,10,LAC,OKC,7,away,JS,,26,miss3,0,R. Westbrook,
+25,1,8:26.0,5,10,LAC,OKC,1,home,DefReb,,,DefReb,,D. Jordan,
+26,1,8:11.0,5,10,LAC,OKC,15,home,JS,,25,miss3,0,J. Redick,
+27,1,8:10.0,5,10,LAC,OKC,1,home,OffReb,,,OffReb,,D. Jordan,
+28,1,8:09.0,7,10,LAC,OKC,1,home,LU,,1,make2,2,D. Jordan,
+29,1,7:59.0,7,12,LAC,OKC,10,away,DK,assist,0,make2,2,S. Ibaka,R. Westbrook
+30,1,7:45.0,7,12,LAC,OKC,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Adams,B. Griffin
+31,1,7:45.0,8,12,LAC,OKC,0,home,FreeThrow,,,make1,1,B. Griffin,
+32,1,7:45.0,9,12,LAC,OKC,0,home,FreeThrow,,,make1,1,B. Griffin,
+33,1,7:26.0,9,14,LAC,OKC,19,away,LU,assist,1,make2,2,S. Ibaka,R. Westbrook
+34,1,7:19.0,11,14,LAC,OKC,7,home,JS,,14,make2,2,C. Paul,
+35,1,7:06.0,11,14,LAC,OKC,13,away,JS,,25,miss3,0,S. Ibaka,
+36,1,7:05.0,11,14,LAC,OKC,1,away,OffReb,,,OffReb,,S. Adams,
+37,1,7:03.0,11,14,LAC,OKC,2,away,HS,,5,miss2,0,S. Adams,
+38,1,7:02.0,11,14,LAC,OKC,1,away,OffReb,,,OffReb,,Team,
+39,1,7:02.0,11,14,LAC,OKC,0,away,BadPass,,,turnover,,A. Roberson,
+40,1,6:51.0,11,14,LAC,OKC,11,home,JS,,2,miss2,0,C. Paul,
+41,1,6:47.0,11,14,LAC,OKC,4,away,DefReb,,,DefReb,,S. Ibaka,
+42,1,6:32.0,11,14,LAC,OKC,15,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Westbrook,M. Barnes
+43,1,6:32.0,11,14,LAC,OKC,0,away,OffensiveFoul,,,turnover,,R. Westbrook,
+44,1,6:32.0,11,14,LAC,OKC,0,away,Sub,,,,,S. Telfair,R. Westbrook
+45,1,6:11.0,11,14,LAC,OKC,21,home,JS,,15,miss2,0,B. Griffin,
+46,1,6:10.0,11,14,LAC,OKC,1,home,OffReb,,,OffReb,,D. Jordan,
+47,1,6:09.0,11,14,LAC,OKC,1,home,DK,,0,miss2,0,D. Jordan,
+48,1,6:08.0,11,14,LAC,OKC,1,home,OffReb,,,OffReb,,B. Griffin,
+49,1,6:02.0,11,14,LAC,OKC,6,home,LU,,2,miss2,0,B. Griffin,
+50,1,6:02.0,11,14,LAC,OKC,0,home,OffReb,,,OffReb,,B. Griffin,
+51,1,6:02.0,11,14,LAC,OKC,0,home,Traveling,,,turnover,,B. Griffin,
+52,1,5:45.0,11,16,LAC,OKC,17,away,LU,assist,2,make2,2,A. Roberson,S. Telfair
+53,1,5:45.0,11,16,LAC,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Redick,A. Roberson
+54,1,5:45.0,11,16,LAC,OKC,0,home,Timeout,,,,,,
+55,1,5:45.0,11,17,LAC,OKC,0,away,FreeThrow,,,make1,1,A. Roberson,
+56,1,5:38.0,11,17,LAC,OKC,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Jordan,S. Telfair
+57,1,5:38.0,11,17,LAC,OKC,0,home,OffensiveFoul,,,turnover,,D. Jordan,
+58,1,5:38.0,11,17,LAC,OKC,0,home,Sub,,,,,S. Hawes,D. Jordan
+59,1,5:31.0,11,17,LAC,OKC,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hawes,S. Adams
+60,1,5:23.0,11,17,LAC,OKC,8,away,HS,,7,miss2,0,S. Adams,
+61,1,5:21.0,11,17,LAC,OKC,2,away,OffReb,,,OffReb,,S. Ibaka,
+62,1,5:16.0,11,17,LAC,OKC,5,away,JS,,24,miss3,0,A. Roberson,
+63,1,5:14.0,11,17,LAC,OKC,2,home,DefReb,,,DefReb,,S. Hawes,
+64,1,5:07.0,11,17,LAC,OKC,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Roberson,C. Paul
+65,1,5:07.0,12,17,LAC,OKC,0,home,FreeThrow,,,make1,1,C. Paul,
+66,1,5:07.0,12,17,LAC,OKC,0,home,FreeThrow,,,make1,0,C. Paul,
+67,1,5:06.0,12,17,LAC,OKC,1,away,DefReb,,,DefReb,,S. Adams,
+68,1,4:41.0,12,20,LAC,OKC,25,away,JS,assist,23,make3,3,P. Jones,A. Roberson
+69,1,4:35.0,14,20,LAC,OKC,6,home,LU,assist,2,make2,2,M. Barnes,C. Paul
+70,1,4:13.0,14,20,LAC,OKC,22,away,JS,,25,miss3,0,P. Jones,
+71,1,4:12.0,14,20,LAC,OKC,1,home,DefReb,,,DefReb,,S. Hawes,
+72,1,3:57.0,16,20,LAC,OKC,15,home,LU,,1,make2,2,M. Barnes,
+73,1,3:32.0,16,20,LAC,OKC,25,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Griffin,S. Telfair
+74,1,3:32.0,16,21,LAC,OKC,0,away,FreeThrow,,,make1,1,S. Telfair,
+75,1,3:32.0,16,21,LAC,OKC,0,home,Sub,,,,,J. Crawford,J. Redick
+76,1,3:32.0,16,21,LAC,OKC,0,home,Sub,,,,,E. Udoh,B. Griffin
+77,1,3:32.0,16,22,LAC,OKC,0,away,FreeThrow,,,make1,1,S. Telfair,
+78,1,3:14.0,18,22,LAC,OKC,18,home,LU,,2,make2,2,C. Paul,
+79,1,3:06.0,18,22,LAC,OKC,8,away,Timeout,,,,,,
+80,1,3:06.0,18,22,LAC,OKC,0,away,Sub,,,,,N. Collison,S. Ibaka
+81,1,3:06.0,18,22,LAC,OKC,0,away,DelayOfGame,,,DelayOfGame,,Team,
+82,1,2:49.0,18,22,LAC,OKC,17,away,LU,,2,miss2,0,N. Collison,
+83,1,2:48.0,18,22,LAC,OKC,1,away,OffReb,,,OffReb,,S. Adams,
+84,1,2:48.0,18,22,LAC,OKC,0,away,ShotClockViolation,,,turnover,,Team,
+85,1,2:36.0,18,22,LAC,OKC,12,home,D3SecTech,,,,,,
+86,1,2:36.0,19,22,LAC,OKC,0,home,FreeThrow,,,make1,1,J. Crawford makes technical free throw,
+87,1,2:36.0,19,22,LAC,OKC,0,home,Sub,,,,,C. Douglas-Roberts,M. Barnes
+88,1,2:29.0,19,22,LAC,OKC,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Telfair,C. Paul
+89,1,2:29.0,19,22,LAC,OKC,0,home,FreeThrow,,,make1,0,C. Paul,
+90,1,2:29.0,19,22,LAC,OKC,0,home,OffReb,,,OffReb,,Team,
+91,1,2:29.0,19,22,LAC,OKC,0,away,Sub,,,,,K. Perkins,S. Adams
+92,1,2:29.0,20,22,LAC,OKC,0,home,FreeThrow,,,make1,1,C. Paul,
+93,1,2:14.0,20,22,LAC,OKC,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Udoh,P. Jones
+94,1,2:14.0,20,23,LAC,OKC,0,away,FreeThrow,,,make1,1,P. Jones,
+95,1,2:14.0,20,23,LAC,OKC,0,home,Sub,,,,,J. Farmar,C. Paul
+96,1,2:14.0,20,24,LAC,OKC,0,away,FreeThrow,,,make1,1,P. Jones,
+97,1,2:01.0,20,24,LAC,OKC,13,home,JS,,18,miss2,0,J. Crawford,
+98,1,2:00.0,20,24,LAC,OKC,1,away,DefReb,,,DefReb,,K. Perkins,
+99,1,1:51.0,20,24,LAC,OKC,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Douglas-Roberts,P. Jones
+100,1,1:51.0,20,25,LAC,OKC,0,away,FreeThrow,,,make1,1,P. Jones,
+101,1,1:51.0,20,25,LAC,OKC,0,away,Sub,,,,,L. Thomas,A. Roberson
+102,1,1:51.0,20,26,LAC,OKC,0,away,FreeThrow,,,make1,1,P. Jones,
+103,1,1:30.0,20,26,LAC,OKC,21,home,JS,,13,miss2,0,C. Douglas-Roberts,
+104,1,1:28.0,20,26,LAC,OKC,2,away,DefReb,,,DefReb,,N. Collison,
+105,1,1:19.0,20,26,LAC,OKC,9,away,BadPass,,,turnover,,N. Collison,
+106,1,1:08.0,20,26,LAC,OKC,11,home,JS,,14,miss2,0,J. Crawford,
+107,1,1:05.0,20,26,LAC,OKC,3,away,DefReb,,,DefReb,,N. Collison,
+108,1,0:51.0,20,28,LAC,OKC,14,away,JS,assist,9,make2,2,N. Collison,S. Telfair
+109,1,0:32.0,20,28,LAC,OKC,19,home,JS,,27,miss3,0,S. Hawes,
+110,1,0:31.0,20,28,LAC,OKC,1,home,OffReb,,,OffReb,,C. Douglas-Roberts,
+111,1,0:11.0,22,28,LAC,OKC,20,home,LU,assist,1,make2,2,S. Hawes,J. Farmar
+112,1,0:01.0,22,28,LAC,OKC,10,away,JS,,25,miss3,0,P. Jones,
+113,1,0:00.0,22,28,LAC,OKC,1,away,OffReb,,,OffReb,,Team,
+114,2,11:44.0,22,28,LAC,OKC,16,home,JS,,22,miss3,0,J. Farmar,
+115,2,11:43.0,22,28,LAC,OKC,1,away,DefReb,,,DefReb,,N. Collison,
+116,2,11:26.0,22,28,LAC,OKC,17,away,JS,,26,miss3,0,S. Telfair,
+117,2,11:25.0,22,28,LAC,OKC,1,home,DefReb,,,DefReb,,Team,
+118,2,11:16.0,24,28,LAC,OKC,9,home,JS,,19,make2,2,J. Crawford,
+119,2,10:59.0,24,28,LAC,OKC,17,away,JS,block,4,miss2,0,L. Thomas,S. Hawes
+120,2,10:56.0,24,28,LAC,OKC,3,home,DefReb,,,DefReb,,C. Douglas-Roberts,
+121,2,10:55.0,24,28,LAC,OKC,1,home,JS,block,3,miss2,0,C. Douglas-Roberts,N. Collison
+122,2,10:55.0,24,28,LAC,OKC,0,home,OffReb,,,OffReb,,Team,
+123,2,10:49.0,24,28,LAC,OKC,6,home,JS,,27,miss3,0,J. Crawford,
+124,2,10:48.0,24,28,LAC,OKC,1,away,DefReb,,,DefReb,,N. Collison,
+125,2,10:35.0,24,28,LAC,OKC,13,away,JS,,26,miss3,0,S. Telfair,
+126,2,10:34.0,24,28,LAC,OKC,1,home,DefReb,,,DefReb,,D. Jordan,
+127,2,10:12.0,26,28,LAC,OKC,22,home,JS,,6,make2,2,J. Crawford,
+128,2,9:50.0,26,28,LAC,OKC,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,L. Thomas
+129,2,9:50.0,26,29,LAC,OKC,0,away,FreeThrow,,,make1,1,L. Thomas,
+130,2,9:50.0,26,29,LAC,OKC,0,away,Sub,,,,,R. Westbrook,S. Telfair
+131,2,9:50.0,26,29,LAC,OKC,0,away,Sub,,,,,A. Roberson,P. Jones
+132,2,9:50.0,26,30,LAC,OKC,0,away,FreeThrow,,,make1,1,L. Thomas,
+133,2,9:37.0,26,30,LAC,OKC,13,home,JS,,22,miss3,0,C. Douglas-Roberts,
+134,2,9:36.0,26,30,LAC,OKC,1,away,DefReb,,,DefReb,,N. Collison,
+135,2,9:21.0,26,30,LAC,OKC,15,home,BadPass,steal,,turnover,,J. Crawford,R. Westbrook
+136,2,9:19.0,26,32,LAC,OKC,2,away,LU,assist,2,make2,2,A. Roberson,R. Westbrook
+137,2,9:19.0,26,32,LAC,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,A. Roberson
+138,2,9:19.0,26,32,LAC,OKC,0,away,FreeThrow,,,make1,0,A. Roberson,
+139,2,9:19.0,26,32,LAC,OKC,0,home,DefReb,,,DefReb,,Team,
+140,2,8:59.0,29,32,LAC,OKC,20,home,JS,assist,23,make3,3,J. Farmar,S. Hawes
+141,2,8:47.0,29,32,LAC,OKC,12,away,BadPass,steal,,turnover,,L. Thomas,J. Crawford
+142,2,8:44.0,29,32,LAC,OKC,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Thomas,C. Douglas-Roberts
+143,2,8:44.0,29,32,LAC,OKC,0,away,Timeout,,,,,,
+144,2,8:44.0,29,32,LAC,OKC,0,home,Sub,,,,,B. Griffin,S. Hawes
+145,2,8:44.0,30,32,LAC,OKC,0,home,FreeThrow,,,make1,1,C. Douglas-Roberts,
+146,2,8:44.0,31,32,LAC,OKC,0,home,FreeThrow,,,make1,1,C. Douglas-Roberts,
+147,2,8:32.0,31,32,LAC,OKC,12,away,BadPass,,,turnover,,N. Collison,
+148,2,8:23.0,31,32,LAC,OKC,9,home,Traveling,,,turnover,,J. Crawford,
+149,2,8:09.0,31,32,LAC,OKC,14,away,LU,,2,miss2,0,R. Westbrook,
+150,2,8:07.0,31,32,LAC,OKC,2,away,OffReb,,,OffReb,,L. Thomas,
+151,2,8:03.0,31,32,LAC,OKC,4,away,LostBall,,,turnover,,A. Roberson,
+152,2,8:03.0,31,32,LAC,OKC,0,home,Sub,,,,,C. Paul,J. Farmar
+153,2,7:46.0,34,32,LAC,OKC,17,home,JS,assist,26,make3,3,J. Crawford,C. Douglas-Roberts
+154,2,7:30.0,34,34,LAC,OKC,16,away,JS,assist,21,make2,2,N. Collison,L. Thomas
+155,2,7:15.0,34,34,LAC,OKC,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Roberson,J. Crawford
+156,2,7:15.0,35,34,LAC,OKC,0,home,FreeThrow,,,make1,1,J. Crawford,
+157,2,7:15.0,36,34,LAC,OKC,0,home,FreeThrow,,,make1,1,J. Crawford,
+158,2,7:07.0,36,34,LAC,OKC,8,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Perkins,C. Paul
+159,2,7:07.0,36,34,LAC,OKC,0,away,OffensiveFoul,,,turnover,,K. Perkins,
+160,2,7:07.0,36,34,LAC,OKC,0,home,Sub,,,,,M. Barnes,C. Douglas-Roberts
+161,2,7:07.0,36,34,LAC,OKC,0,away,Sub,,,,,S. Ibaka,N. Collison
+162,2,6:56.0,36,34,LAC,OKC,11,home,JS,,25,miss3,0,J. Crawford,
+163,2,6:55.0,36,34,LAC,OKC,1,away,DefReb,,,DefReb,,K. Perkins,
+164,2,6:43.0,36,34,LAC,OKC,12,away,JS,,8,miss2,0,K. Perkins,
+165,2,6:40.0,36,34,LAC,OKC,3,home,DefReb,,,DefReb,,M. Barnes,
+166,2,6:37.0,36,34,LAC,OKC,3,home,BadPass,steal,,turnover,,J. Crawford,A. Roberson
+167,2,6:35.0,36,34,LAC,OKC,2,away,LostBall,,,turnover,,R. Westbrook,
+168,2,6:35.0,36,34,LAC,OKC,0,home,Sub,,,,,J. Redick,J. Crawford
+169,2,6:35.0,36,34,LAC,OKC,0,away,Sub,,,,,P. Jones,R. Westbrook
+170,2,6:35.0,36,34,LAC,OKC,0,away,Timeout,,,,,,
+171,2,6:35.0,36,34,LAC,OKC,0,away,Sub,,,,,S. Telfair,L. Thomas
+172,2,6:19.0,36,34,LAC,OKC,16,home,JS,,23,miss3,0,J. Redick,
+173,2,6:18.0,36,34,LAC,OKC,1,away,DefReb,,,DefReb,,K. Perkins,
+174,2,6:00.0,36,34,LAC,OKC,18,away,JS,,26,miss3,0,S. Ibaka,
+175,2,5:59.0,36,34,LAC,OKC,1,home,DefReb,,,DefReb,,M. Barnes,
+176,2,5:49.0,36,34,LAC,OKC,10,home,JS,,25,miss3,0,M. Barnes,
+177,2,5:47.0,36,34,LAC,OKC,2,away,DefReb,,,DefReb,,A. Roberson,
+178,2,5:37.0,36,34,LAC,OKC,10,away,BadPass,,,turnover,,P. Jones,
+179,2,5:15.0,36,34,LAC,OKC,22,home,JS,,3,miss2,0,M. Barnes,
+180,2,5:13.0,36,34,LAC,OKC,2,away,DefReb,,,DefReb,,P. Jones,
+181,2,5:00.0,36,34,LAC,OKC,13,away,JS,block,8,miss2,0,P. Jones,M. Barnes
+182,2,4:58.0,36,34,LAC,OKC,2,home,DefReb,,,DefReb,,B. Griffin,
+183,2,4:48.0,36,34,LAC,OKC,10,home,JS,,11,miss2,0,C. Paul,
+184,2,4:46.0,36,34,LAC,OKC,2,away,DefReb,,,DefReb,,S. Ibaka,
+185,2,4:29.0,36,34,LAC,OKC,17,away,JS,,27,miss3,0,P. Jones,
+186,2,4:28.0,36,34,LAC,OKC,1,home,DefReb,,,DefReb,,Team,
+187,2,4:28.0,36,34,LAC,OKC,0,away,Sub,,,,,S. Adams,K. Perkins
+188,2,4:28.0,36,34,LAC,OKC,0,home,Timeout,,,,,,
+189,2,4:11.0,36,34,LAC,OKC,17,home,LU,,3,miss2,0,B. Griffin,
+190,2,4:08.0,36,34,LAC,OKC,3,away,DefReb,,,DefReb,,S. Adams,
+191,2,3:48.0,36,34,LAC,OKC,20,away,JS,,29,miss3,0,S. Adams,
+192,2,3:48.0,36,34,LAC,OKC,0,away,OffReb,,,OffReb,,Team,
+193,2,3:48.0,36,34,LAC,OKC,0,away,ShotClockViolation,,,turnover,,Team,
+194,2,3:38.0,36,34,LAC,OKC,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Roberson,J. Redick
+195,2,3:38.0,36,34,LAC,OKC,0,away,Sub,,,,,L. Thomas,A. Roberson
+196,2,3:34.0,38,34,LAC,OKC,4,home,DK,assist,0,make2,2,D. Jordan,C. Paul
+197,2,3:11.0,38,34,LAC,OKC,23,away,HS,,7,miss2,0,S. Adams,
+198,2,3:10.0,38,34,LAC,OKC,1,home,DefReb,,,DefReb,,D. Jordan,
+199,2,3:06.0,38,34,LAC,OKC,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Ibaka,B. Griffin
+200,2,3:00.0,38,34,LAC,OKC,6,home,JS,,8,miss2,0,J. Redick,
+201,2,2:58.0,38,34,LAC,OKC,2,away,DefReb,,,DefReb,,S. Telfair,
+202,2,2:39.0,38,36,LAC,OKC,19,away,JS,assist,6,make2,2,P. Jones,S. Ibaka
+203,2,2:23.0,38,36,LAC,OKC,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Adams,B. Griffin
+204,2,2:23.0,38,36,LAC,OKC,0,home,FreeThrow,,,make1,0,B. Griffin,
+205,2,2:23.0,38,36,LAC,OKC,0,home,OffReb,,,OffReb,,Team,
+206,2,2:23.0,38,36,LAC,OKC,0,home,FreeThrow,,,make1,0,B. Griffin,
+207,2,2:22.0,38,36,LAC,OKC,1,away,DefReb,,,DefReb,,P. Jones,
+208,2,2:06.0,38,36,LAC,OKC,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,S. Telfair
+209,2,2:00.0,38,39,LAC,OKC,6,away,JS,assist,26,make3,3,P. Jones,S. Ibaka
+210,2,1:48.0,38,39,LAC,OKC,12,home,JS,,5,miss2,0,J. Redick,
+211,2,1:45.0,38,39,LAC,OKC,3,home,OffReb,,,OffReb,,D. Jordan,
+212,2,1:45.0,40,39,LAC,OKC,0,home,DK,,0,make2,2,D. Jordan,
+213,2,1:21.0,40,39,LAC,OKC,24,away,JS,,27,miss3,0,S. Telfair,
+214,2,1:20.0,40,39,LAC,OKC,1,home,DefReb,,,DefReb,,M. Barnes,
+215,2,1:14.0,42,39,LAC,OKC,6,home,JS,assist,8,make2,2,B. Griffin,C. Paul
+216,2,0:57.0,42,41,LAC,OKC,17,away,JS,assist,17,make2,2,S. Ibaka,S. Telfair
+217,2,0:45.0,44,41,LAC,OKC,12,home,JS,assist,15,make2,2,B. Griffin,C. Paul
+218,2,0:32.0,44,41,LAC,OKC,13,away,JS,,25,miss3,0,S. Telfair,
+219,2,0:31.0,44,41,LAC,OKC,1,home,DefReb,,,DefReb,,C. Paul,
+220,2,0:27.0,46,41,LAC,OKC,4,home,LU,,3,make2,2,C. Paul,
+221,2,0:04.0,46,41,LAC,OKC,23,away,Timeout,,,,,,
+222,2,0:03.0,46,41,LAC,OKC,1,away,LU,,1,miss2,0,P. Jones,
+223,2,0:00.0,46,41,LAC,OKC,3,away,OffReb,,,OffReb,,P. Jones,
+224,3,11:49.0,46,41,LAC,OKC,11,home,OutOfBounds,,,turnover,,J. Redick,
+225,3,11:35.0,46,43,LAC,OKC,14,away,HS,assist,9,make2,2,P. Jones,A. Roberson
+226,3,11:16.0,48,43,LAC,OKC,19,home,JS,assist,18,make2,2,B. Griffin,C. Paul
+227,3,10:53.0,48,43,LAC,OKC,23,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,S. Telfair
+228,3,10:43.0,48,43,LAC,OKC,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Barnes,P. Jones
+229,3,10:43.0,48,43,LAC,OKC,0,away,FreeThrow,,,make1,0,P. Jones,
+230,3,10:43.0,48,43,LAC,OKC,0,away,OffReb,,,OffReb,,Team,
+231,3,10:43.0,48,44,LAC,OKC,0,away,FreeThrow,,,make1,1,P. Jones,
+232,3,10:28.0,48,44,LAC,OKC,15,home,JS,,1,miss2,0,J. Redick,
+233,3,10:26.0,48,44,LAC,OKC,2,home,OffReb,,,OffReb,,D. Jordan,
+234,3,10:26.0,48,44,LAC,OKC,0,home,DK,,3,miss2,0,D. Jordan,
+235,3,10:23.0,48,44,LAC,OKC,3,away,DefReb,,,DefReb,,S. Adams,
+236,3,10:19.0,48,44,LAC,OKC,4,away,BadPass,steal,,turnover,,A. Roberson,M. Barnes
+237,3,9:58.0,48,44,LAC,OKC,21,home,JS,,19,miss2,0,B. Griffin,
+238,3,9:56.0,48,44,LAC,OKC,2,away,DefReb,,,DefReb,,P. Jones,
+239,3,9:49.0,48,44,LAC,OKC,7,away,BadPass,steal,,turnover,,S. Adams,C. Paul
+240,3,9:42.0,48,44,LAC,OKC,7,home,JS,,27,miss3,0,C. Paul,
+241,3,9:42.0,48,44,LAC,OKC,0,home,OffReb,,,OffReb,,B. Griffin,
+242,3,9:42.0,48,44,LAC,OKC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Adams,B. Griffin
+243,3,9:28.0,48,44,LAC,OKC,14,home,LU,,2,miss2,0,C. Paul,
+244,3,9:27.0,48,44,LAC,OKC,1,home,OffReb,,,OffReb,,C. Paul,
+245,3,9:27.0,48,44,LAC,OKC,0,home,TI,,2,miss2,0,C. Paul,
+246,3,9:24.0,48,44,LAC,OKC,3,away,DefReb,,,DefReb,,S. Adams,
+247,3,9:02.0,48,44,LAC,OKC,22,away,ShotClockViolation,,,turnover,,Team,
+248,3,8:56.0,48,44,LAC,OKC,6,home,LostBall,steal,,turnover,,J. Redick,S. Telfair
+249,3,8:50.0,48,46,LAC,OKC,6,away,LU,assist,2,make2,2,P. Jones,S. Telfair
+250,3,8:25.0,50,46,LAC,OKC,25,home,JS,,19,make2,2,B. Griffin,
+251,3,8:05.0,50,46,LAC,OKC,20,away,BadPass,steal,,turnover,,S. Telfair,B. Griffin
+252,3,8:01.0,50,46,LAC,OKC,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Ibaka,B. Griffin
+253,3,8:01.0,51,46,LAC,OKC,0,home,FreeThrow,,,make1,1,B. Griffin,
+254,3,8:01.0,51,46,LAC,OKC,0,home,FreeThrow,,,make1,0,B. Griffin,
+255,3,8:01.0,51,46,LAC,OKC,0,away,DefReb,,,DefReb,,Team,
+256,3,8:01.0,51,46,LAC,OKC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Barnes,S. Adams
+257,3,7:38.0,51,46,LAC,OKC,23,away,JS,,0,miss2,0,S. Adams,
+258,3,7:37.0,51,46,LAC,OKC,1,away,OffReb,,,OffReb,,S. Adams,
+259,3,7:37.0,51,48,LAC,OKC,0,away,DK,,0,make2,2,S. Adams,
+260,3,7:20.0,53,48,LAC,OKC,17,home,JS,assist,13,make2,2,C. Paul,B. Griffin
+261,3,6:57.0,53,50,LAC,OKC,23,away,LU,,2,make2,2,S. Telfair,
+262,3,6:31.0,55,50,LAC,OKC,26,home,JS,assist,21,make2,2,B. Griffin,M. Barnes
+263,3,6:17.0,55,50,LAC,OKC,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Redick,A. Roberson
+264,3,6:17.0,55,51,LAC,OKC,0,away,FreeThrow,,,make1,1,A. Roberson,
+265,3,6:17.0,55,51,LAC,OKC,0,home,Sub,,,,,J. Crawford,J. Redick
+266,3,6:17.0,55,52,LAC,OKC,0,away,FreeThrow,,,make1,1,A. Roberson,
+267,3,6:08.0,55,52,LAC,OKC,9,home,JS,,20,miss2,0,B. Griffin,
+268,3,6:06.0,55,52,LAC,OKC,2,away,DefReb,,,DefReb,,S. Ibaka,
+269,3,6:00.0,55,54,LAC,OKC,6,away,DK,assist,0,make2,2,S. Adams,S. Telfair
+270,3,5:42.0,55,54,LAC,OKC,18,home,JS,,27,miss3,0,C. Paul,
+271,3,5:41.0,55,54,LAC,OKC,1,away,DefReb,,,DefReb,,A. Roberson,
+272,3,5:36.0,55,54,LAC,OKC,5,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,B. Griffin,S. Adams
+273,3,5:36.0,55,54,LAC,OKC,0,home,Timeout,,,,,,
+274,3,5:36.0,55,55,LAC,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+275,3,5:36.0,55,56,LAC,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+276,3,5:21.0,57,56,LAC,OKC,15,home,JS,,17,make2,2,B. Griffin,
+277,3,5:05.0,57,56,LAC,OKC,16,away,JS,,18,miss2,0,S. Ibaka,
+278,3,5:04.0,57,56,LAC,OKC,1,home,DefReb,,,DefReb,,Team,
+279,3,4:55.0,57,56,LAC,OKC,9,home,D3SecTech,,,,,,
+280,3,4:55.0,58,56,LAC,OKC,0,home,FreeThrow,,,make1,1,J. Crawford makes technical free throw,
+281,3,4:44.0,58,56,LAC,OKC,11,home,JS,,13,miss2,0,B. Griffin,
+282,3,4:43.0,58,56,LAC,OKC,1,away,DefReb,,,DefReb,,P. Jones,
+283,3,4:42.0,58,56,LAC,OKC,1,away,LostBall,steal,,turnover,,P. Jones,C. Paul
+284,3,4:38.0,60,56,LAC,OKC,4,home,JS,,11,make2,2,C. Paul,
+285,3,4:21.0,60,56,LAC,OKC,17,away,LU,,2,miss2,0,S. Ibaka,
+286,3,4:20.0,60,56,LAC,OKC,1,home,DefReb,,,DefReb,,Team,
+287,3,4:20.0,60,56,LAC,OKC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Adams,C. Paul
+288,3,4:20.0,60,56,LAC,OKC,0,away,Sub,,,,,K. Perkins,S. Adams
+289,3,4:13.0,62,56,LAC,OKC,7,home,DK,assist,0,make2,2,D. Jordan,B. Griffin
+290,3,4:03.0,62,56,LAC,OKC,10,away,Timeout,,,,,,
+291,3,3:46.0,62,56,LAC,OKC,17,away,HS,,6,miss2,0,K. Perkins,
+292,3,3:44.0,62,56,LAC,OKC,2,home,DefReb,,,DefReb,,D. Jordan,
+293,3,3:38.0,62,56,LAC,OKC,6,home,JS,,24,miss3,0,J. Crawford,
+294,3,3:37.0,62,56,LAC,OKC,1,away,DefReb,,,DefReb,,K. Perkins,
+295,3,3:22.0,62,56,LAC,OKC,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,S. Telfair
+296,3,3:22.0,62,57,LAC,OKC,0,away,FreeThrow,,,make1,1,S. Telfair,
+297,3,3:22.0,62,58,LAC,OKC,0,away,FreeThrow,,,make1,1,S. Telfair,
+298,3,3:06.0,62,58,LAC,OKC,16,home,JS,,17,miss2,0,J. Crawford,
+299,3,3:04.0,62,58,LAC,OKC,2,away,DefReb,,,DefReb,,K. Perkins,
+300,3,2:47.0,62,58,LAC,OKC,17,away,JS,block,4,miss2,0,P. Jones,M. Barnes
+301,3,2:45.0,62,58,LAC,OKC,2,home,DefReb,,,DefReb,,J. Crawford,
+302,3,2:41.0,64,58,LAC,OKC,4,home,JS,,13,make2,2,C. Paul,
+303,3,2:41.0,64,58,LAC,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Telfair,C. Paul
+304,3,2:41.0,64,58,LAC,OKC,0,home,Sub,,,,,S. Hawes,B. Griffin
+305,3,2:41.0,64,58,LAC,OKC,0,away,Sub,,,,,N. Collison,S. Ibaka
+306,3,2:41.0,65,58,LAC,OKC,0,home,FreeThrow,,,make1,1,C. Paul,
+307,3,2:20.0,65,58,LAC,OKC,21,away,OffGoaltending,,,turnover,,N. Collison,
+308,3,2:20.0,65,58,LAC,OKC,0,home,Sub,,,,,C. Douglas-Roberts,M. Barnes
+309,3,2:00.0,65,58,LAC,OKC,20,home,JS,,23,miss3,0,C. Douglas-Roberts,
+310,3,1:58.0,65,58,LAC,OKC,2,away,DefReb,,,DefReb,,N. Collison,
+311,3,1:51.0,65,58,LAC,OKC,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Douglas-Roberts,P. Jones
+312,3,1:51.0,65,59,LAC,OKC,0,away,FreeThrow,,,make1,1,P. Jones,
+313,3,1:51.0,65,60,LAC,OKC,0,away,FreeThrow,,,make1,1,P. Jones,
+314,3,1:41.0,65,60,LAC,OKC,10,home,JS,,23,miss3,0,J. Crawford,
+315,3,1:40.0,65,60,LAC,OKC,1,away,DefReb,,,DefReb,,P. Jones,
+316,3,1:36.0,65,60,LAC,OKC,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,P. Jones,C. Douglas-Roberts
+317,3,1:36.0,65,60,LAC,OKC,0,away,OffensiveFoul,,,turnover,,P. Jones,
+318,3,1:36.0,65,60,LAC,OKC,0,home,Sub,,,,,J. Farmar,C. Paul
+319,3,1:36.0,65,60,LAC,OKC,0,away,Sub,,,,,L. Thomas,S. Telfair
+320,3,1:24.0,65,60,LAC,OKC,12,home,Traveling,,,turnover,,D. Jordan,
+321,3,1:24.0,65,60,LAC,OKC,0,home,TechnicalFoul,,,TechnicalFoul,,D. Jordan,
+322,3,1:24.0,65,60,LAC,OKC,0,away,FreeThrow,,,make1,0,P. Jones misses technical free throw,
+323,3,1:24.0,65,60,LAC,OKC,0,away,OffReb,,,OffReb,,Team,
+324,3,1:06.0,65,60,LAC,OKC,18,away,JS,,18,miss2,0,L. Thomas,
+325,3,1:01.0,65,60,LAC,OKC,5,home,DefReb,,,DefReb,,S. Hawes,
+326,3,1:00.0,65,60,LAC,OKC,1,home,BadPass,steal,,turnover,,S. Hawes,A. Roberson
+327,3,0:52.0,65,60,LAC,OKC,8,away,LostBall,steal,,turnover,,A. Roberson,J. Farmar
+328,3,0:46.0,65,60,LAC,OKC,6,home,JS,,26,miss3,0,S. Hawes,
+329,3,0:45.0,65,60,LAC,OKC,1,away,DefReb,,,DefReb,,K. Perkins,
+330,3,0:31.0,65,60,LAC,OKC,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Douglas-Roberts,P. Jones
+331,3,0:31.0,65,61,LAC,OKC,0,away,FreeThrow,,,make1,1,P. Jones,
+332,3,0:31.0,65,62,LAC,OKC,0,away,FreeThrow,,,make1,1,P. Jones,
+333,3,0:14.0,68,62,LAC,OKC,17,home,JS,assist,23,make3,3,J. Farmar,J. Crawford
+334,3,0:05.0,68,62,LAC,OKC,9,away,BadPass,steal,,turnover,,P. Jones,J. Crawford
+335,3,0:02.0,70,62,LAC,OKC,3,home,LU,,1,make2,2,J. Crawford,
+336,3,0:00.0,70,62,LAC,OKC,2,away,JS,,46,miss3,0,A. Roberson,
+337,3,0:00.0,70,62,LAC,OKC,0,away,OffReb,,,OffReb,,Team,
+338,4,11:47.0,70,62,LAC,OKC,13,away,JS,,25,miss3,0,N. Collison,
+339,4,11:45.0,70,62,LAC,OKC,2,home,DefReb,,,DefReb,,C. Douglas-Roberts,
+340,4,11:24.0,70,62,LAC,OKC,21,home,ShotClockViolation,,,turnover,,Team,
+341,4,11:19.0,70,62,LAC,OKC,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Farmar,S. Telfair
+342,4,11:11.0,70,62,LAC,OKC,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Douglas-Roberts,K. Perkins
+343,4,11:11.0,70,62,LAC,OKC,0,away,FreeThrow,,,make1,0,K. Perkins,
+344,4,11:11.0,70,62,LAC,OKC,0,away,OffReb,,,OffReb,,Team,
+345,4,11:11.0,70,63,LAC,OKC,0,away,FreeThrow,,,make1,1,K. Perkins,
+346,4,10:51.0,70,63,LAC,OKC,20,home,JS,,23,miss3,0,J. Farmar,
+347,4,10:50.0,70,63,LAC,OKC,1,away,DefReb,,,DefReb,,A. Roberson,
+348,4,10:37.0,70,65,LAC,OKC,13,away,LU,assist,2,make2,2,L. Thomas,S. Telfair
+349,4,10:25.0,70,65,LAC,OKC,12,home,BadPass,steal,,turnover,,B. Griffin,N. Collison
+350,4,10:09.0,70,65,LAC,OKC,16,away,JS,,20,miss2,0,N. Collison,
+351,4,10:08.0,70,65,LAC,OKC,1,home,DefReb,,,DefReb,,J. Crawford,
+352,4,9:55.0,70,65,LAC,OKC,13,home,JS,,26,miss3,0,S. Hawes,
+353,4,9:54.0,70,65,LAC,OKC,1,home,OffReb,,,OffReb,,B. Griffin,
+354,4,9:50.0,70,65,LAC,OKC,4,home,JS,,24,miss3,0,J. Crawford,
+355,4,9:49.0,70,65,LAC,OKC,1,home,OffReb,,,OffReb,,S. Hawes,
+356,4,9:48.0,72,65,LAC,OKC,1,home,LU,,2,make2,2,S. Hawes,
+357,4,9:23.0,72,65,LAC,OKC,25,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Farmar,S. Telfair
+358,4,9:23.0,72,65,LAC,OKC,0,away,FreeThrow,,,make1,0,S. Telfair,
+359,4,9:23.0,72,65,LAC,OKC,0,away,OffReb,,,OffReb,,Team,
+360,4,9:23.0,72,66,LAC,OKC,0,away,FreeThrow,,,make1,1,S. Telfair,
+361,4,9:23.0,72,66,LAC,OKC,0,home,Sub,,,,,J. Redick,C. Douglas-Roberts
+362,4,9:23.0,72,66,LAC,OKC,0,home,Sub,,,,,C. Paul,J. Farmar
+363,4,9:23.0,72,67,LAC,OKC,0,away,FreeThrow,,,make1,1,S. Telfair,
+364,4,9:05.0,75,67,LAC,OKC,18,home,JS,assist,26,make3,3,J. Crawford,B. Griffin
+365,4,8:57.0,75,67,LAC,OKC,8,away,Timeout,,,,,,
+366,4,8:57.0,75,67,LAC,OKC,0,away,Sub,,,,,P. Jones,A. Roberson
+367,4,8:44.0,75,67,LAC,OKC,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hawes,K. Perkins
+368,4,8:44.0,75,68,LAC,OKC,0,away,FreeThrow,,,make1,1,K. Perkins,
+369,4,8:44.0,75,69,LAC,OKC,0,away,FreeThrow,,,make1,1,K. Perkins,
+370,4,8:35.0,75,69,LAC,OKC,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Collison,B. Griffin
+371,4,8:29.0,77,69,LAC,OKC,6,home,JS,assist,20,make2,2,B. Griffin,C. Paul
+372,4,8:04.0,77,71,LAC,OKC,25,away,JS,assist,12,make2,2,P. Jones,K. Perkins
+373,4,7:56.0,80,71,LAC,OKC,8,home,JS,assist,26,make3,3,C. Paul,J. Crawford
+374,4,7:37.0,80,74,LAC,OKC,19,away,JS,assist,25,make3,3,P. Jones,L. Thomas
+375,4,7:24.0,80,74,LAC,OKC,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Collison,B. Griffin
+376,4,7:24.0,80,74,LAC,OKC,0,away,Sub,,,,,S. Adams,K. Perkins
+377,4,7:24.0,80,74,LAC,OKC,0,away,Sub,,,,,S. Ibaka,N. Collison
+378,4,7:23.0,80,74,LAC,OKC,1,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Griffin,S. Telfair
+379,4,7:23.0,80,74,LAC,OKC,0,home,OffensiveFoul,,,turnover,,B. Griffin,
+380,4,7:08.0,80,74,LAC,OKC,15,away,HS,,13,miss2,0,S. Adams,
+381,4,7:06.0,80,74,LAC,OKC,2,away,OffReb,,,OffReb,,S. Adams,
+382,4,7:04.0,80,74,LAC,OKC,2,away,LostBall,,,turnover,,S. Adams,
+383,4,7:04.0,80,74,LAC,OKC,0,away,KickBallViolation,,,KickBallViolation,,L. Thomas,
+384,4,6:52.0,80,74,LAC,OKC,12,home,JS,,14,miss2,0,C. Paul,
+385,4,6:51.0,80,74,LAC,OKC,1,home,OffReb,,,OffReb,,C. Paul,
+386,4,6:48.0,82,74,LAC,OKC,3,home,LU,,2,make2,2,C. Paul,
+387,4,6:24.0,82,74,LAC,OKC,24,away,JS,,7,miss2,0,P. Jones,
+388,4,6:22.0,82,74,LAC,OKC,2,away,OffReb,,,OffReb,,S. Ibaka,
+389,4,6:21.0,82,74,LAC,OKC,1,away,ShotClockViolation,,,turnover,,Team,
+390,4,6:21.0,82,74,LAC,OKC,0,home,Sub,,,,,D. Jordan,S. Hawes
+391,4,6:04.0,84,74,LAC,OKC,17,home,LU,,2,make2,2,B. Griffin,
+392,4,5:49.0,84,74,LAC,OKC,15,away,D3SecTech,,,,,,
+393,4,5:49.0,84,74,LAC,OKC,0,away,Timeout,,,,,,
+394,4,5:49.0,84,74,LAC,OKC,0,away,Sub,,,,,A. Roberson,L. Thomas
+395,4,5:49.0,84,74,LAC,OKC,0,away,FreeThrow,,,make1,0,S. Telfair misses technical free throw,
+396,4,5:49.0,84,74,LAC,OKC,0,away,OffReb,,,OffReb,,Team,
+397,4,5:34.0,84,76,LAC,OKC,15,away,LU,assist,2,make2,2,P. Jones,S. Adams
+398,4,5:16.0,84,76,LAC,OKC,18,home,JS,,26,miss3,0,J. Redick,
+399,4,5:15.0,84,76,LAC,OKC,1,away,DefReb,,,DefReb,,A. Roberson,
+400,4,5:03.0,84,78,LAC,OKC,12,away,JS,,13,make2,2,P. Jones,
+401,4,5:03.0,84,78,LAC,OKC,0,away,AFPFoul,DrawnBy,,AFPFoul,,B. Griffin,S. Ibaka
+402,4,5:03.0,84,79,LAC,OKC,0,away,FreeThrow,,,make1,1,S. Ibaka,
+403,4,4:44.0,86,79,LAC,OKC,19,home,JS,,4,make2,2,C. Paul,
+404,4,4:29.0,86,82,LAC,OKC,15,away,JS,assist,25,make3,3,S. Ibaka,P. Jones
+405,4,4:11.0,86,82,LAC,OKC,18,home,JS,,18,miss2,0,C. Paul,
+406,4,4:10.0,86,82,LAC,OKC,1,home,OffReb,,,OffReb,,D. Jordan,
+407,4,4:03.0,86,82,LAC,OKC,7,home,JS,,24,miss3,0,J. Crawford,
+408,4,4:02.0,86,82,LAC,OKC,1,away,DefReb,,,DefReb,,S. Ibaka,
+409,4,3:52.0,86,82,LAC,OKC,10,away,LU,,3,miss2,0,S. Ibaka,
+410,4,3:46.0,86,82,LAC,OKC,6,home,DefReb,,,DefReb,,D. Jordan,
+411,4,3:35.0,89,82,LAC,OKC,11,home,JS,assist,25,make3,3,J. Redick,D. Jordan
+412,4,3:23.0,89,82,LAC,OKC,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,P. Jones,J. Redick
+413,4,3:23.0,89,82,LAC,OKC,0,away,OffensiveFoul,,,turnover,,P. Jones,
+414,4,3:20.0,89,82,LAC,OKC,3,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,S. Telfair,D. Jordan
+415,4,3:20.0,89,82,LAC,OKC,0,home,Sub,,,,,S. Hawes,D. Jordan
+416,4,3:05.0,89,82,LAC,OKC,15,home,HS,,9,miss2,0,S. Hawes,
+417,4,3:02.0,89,82,LAC,OKC,3,away,DefReb,,,DefReb,,P. Jones,
+418,4,2:53.0,89,82,LAC,OKC,9,home,Timeout,,,,,,
+419,4,2:43.0,89,82,LAC,OKC,10,away,JS,block,4,miss2,0,S. Telfair,C. Paul
+420,4,2:43.0,89,82,LAC,OKC,0,home,DefReb,,,DefReb,,Team,
+421,4,2:23.0,89,82,LAC,OKC,20,home,JS,,15,miss2,0,C. Paul,
+422,4,2:22.0,89,82,LAC,OKC,1,away,DefReb,,,DefReb,,S. Telfair,
+423,4,2:11.0,89,85,LAC,OKC,11,away,JS,assist,25,make3,3,S. Ibaka,S. Telfair
+424,4,1:59.0,89,85,LAC,OKC,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Roberson,B. Griffin
+425,4,1:59.0,89,85,LAC,OKC,0,home,Sub,,,,,D. Jordan,S. Hawes
+426,4,1:53.0,89,85,LAC,OKC,6,home,JS,,20,miss2,0,B. Griffin,
+427,4,1:52.0,89,85,LAC,OKC,1,away,DefReb,,,DefReb,,A. Roberson,
+428,4,1:44.0,89,88,LAC,OKC,8,away,JS,,26,make3,3,S. Telfair,
+429,4,1:44.0,89,88,LAC,OKC,0,home,Timeout,,,,,,
+430,4,1:23.0,89,88,LAC,OKC,21,home,JS,,13,miss2,0,J. Crawford,
+431,4,1:22.0,89,88,LAC,OKC,1,away,DefReb,,,DefReb,,S. Ibaka,
+432,4,1:07.0,89,88,LAC,OKC,15,away,BadPass,steal,,turnover,,S. Telfair,J. Crawford
+433,4,1:03.0,89,88,LAC,OKC,4,home,JS,,24,miss3,0,J. Redick,
+434,4,1:02.0,89,88,LAC,OKC,1,away,DefReb,,,DefReb,,S. Adams,
+435,4,0:54.0,89,88,LAC,OKC,8,away,JS,,9,miss2,0,S. Telfair,
+436,4,0:52.0,89,88,LAC,OKC,2,home,DefReb,,,DefReb,,B. Griffin,
+437,4,0:44.0,89,88,LAC,OKC,8,home,JS,,23,miss3,0,J. Redick,
+438,4,0:43.0,89,88,LAC,OKC,1,away,DefReb,,,DefReb,,S. Adams,
+439,4,0:39.0,89,88,LAC,OKC,4,away,Timeout,,,,,,
+440,4,0:39.0,89,88,LAC,OKC,0,home,Sub,,,,,M. Barnes,J. Redick
+441,4,0:21.0,89,88,LAC,OKC,18,away,LostBall,steal,,turnover,,S. Adams,D. Jordan
+442,4,0:14.0,89,88,LAC,OKC,7,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,S. Telfair,C. Paul
+443,4,0:14.0,89,88,LAC,OKC,0,home,FreeThrow,,,make1,0,C. Paul,
+444,4,0:14.0,89,88,LAC,OKC,0,home,OffReb,,,OffReb,,Team,
+445,4,0:14.0,89,88,LAC,OKC,0,home,FreeThrow,,,make1,0,C. Paul,
+446,4,0:13.0,89,88,LAC,OKC,1,away,DefReb,,,DefReb,,A. Roberson,
+447,4,0:13.0,89,88,LAC,OKC,0,away,Timeout,,,,,,
+448,4,0:09.0,89,88,LAC,OKC,4,away,JS,,3,miss2,0,S. Telfair,
+449,4,0:06.0,89,88,LAC,OKC,3,home,DefReb,,,DefReb,,C. Paul,
+450,4,0:06.0,89,88,LAC,OKC,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,S. Adams,B. Griffin
+451,4,0:06.0,90,88,LAC,OKC,0,home,FreeThrow,,,make1,1,B. Griffin,
+452,4,0:06.0,90,88,LAC,OKC,0,away,Sub,,,,,N. Collison,S. Telfair
+453,4,0:06.0,91,88,LAC,OKC,0,home,FreeThrow,,,make1,1,B. Griffin,
+454,4,0:06.0,91,88,LAC,OKC,0,away,Timeout,,,,,,
+455,4,0:06.0,91,88,LAC,OKC,0,away,Sub,,,,,S. Telfair,A. Roberson
+456,4,0:04.0,91,88,LAC,OKC,2,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Crawford,N. Collison
+457,4,0:04.0,91,89,LAC,OKC,0,away,FreeThrow,,,make1,1,N. Collison,
+458,4,0:04.0,91,89,LAC,OKC,0,away,Sub,,,,,A. Roberson,S. Telfair
+459,4,0:04.0,91,89,LAC,OKC,0,home,Sub,,,,,S. Hawes,J. Crawford
+460,4,0:04.0,91,90,LAC,OKC,0,away,FreeThrow,,,make1,1,N. Collison,
+461,4,0:04.0,91,90,LAC,OKC,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Griffin,S. Ibaka
+462,4,0:04.0,91,90,LAC,OKC,0,home,PersonalFoul,,,,,S. Ibaka,
+463,4,0:04.0,91,90,LAC,OKC,0,home,Timeout,,,,,,
+464,4,0:04.0,91,90,LAC,OKC,0,home,Sub,,,,,J. Redick,B. Griffin
+465,4,0:04.0,91,90,LAC,OKC,0,home,Sub,,,,,J. Crawford,D. Jordan
+466,4,0:04.0,91,90,LAC,OKC,0,away,Sub,,,,,S. Telfair,N. Collison
+467,4,0:03.0,91,90,LAC,OKC,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,P. Jones,J. Redick
+468,4,0:03.0,92,90,LAC,OKC,0,home,FreeThrow,,,make1,1,J. Redick,
+469,4,0:03.0,93,90,LAC,OKC,0,home,FreeThrow,,,make1,1,J. Redick,
+470,4,0:00.0,93,90,LAC,OKC,3,away,JS,,26,miss3,0,S. Ibaka,
+471,4,0:00.0,93,90,LAC,OKC,0,away,OffReb,,,OffReb,,Team,

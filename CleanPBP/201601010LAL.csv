@@ -1,0 +1,467 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,0,0,LAL,PHI,15,home,JS,,16,miss2,0,J. Clarkson,
+1,1,11:44.0,0,0,LAL,PHI,1,away,DefReb,,,DefReb,,I. Canaan,
+2,1,11:33.0,0,0,LAL,PHI,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,N. Noel
+3,1,11:33.0,0,1,LAL,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
+4,1,11:33.0,0,1,LAL,PHI,0,away,FreeThrow,,,make1,0,N. Noel,
+5,1,11:32.0,0,1,LAL,PHI,1,away,OffReb,,,OffReb,,J. Sampson,
+6,1,11:23.0,0,1,LAL,PHI,9,away,LostBall,steal,,turnover,,I. Smith,A. Brown
+7,1,11:20.0,2,1,LAL,PHI,3,home,LU,,0,make2,2,L. Williams,
+8,1,11:20.0,2,1,LAL,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Canaan,L. Williams
+9,1,11:20.0,2,1,LAL,PHI,0,home,FreeThrow,,,make1,0,L. Williams,
+10,1,11:19.0,2,1,LAL,PHI,1,home,OffReb,,,OffReb,,L. Nance,
+11,1,11:15.0,2,1,LAL,PHI,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Noel,L. Nance
+12,1,11:06.0,2,1,LAL,PHI,9,home,JS,,15,miss2,0,L. Williams,
+13,1,11:05.0,2,1,LAL,PHI,1,away,DefReb,,,DefReb,,J. Sampson,
+14,1,10:46.0,2,1,LAL,PHI,19,away,OutOfBounds,,,turnover,,I. Canaan,
+15,1,10:25.0,2,1,LAL,PHI,21,home,LU,block,2,miss2,0,J. Clarkson,J. Sampson
+16,1,10:24.0,2,1,LAL,PHI,1,home,OffReb,,,OffReb,,L. Nance,
+17,1,10:23.0,2,1,LAL,PHI,1,home,JS,,4,miss2,0,L. Nance,
+18,1,10:22.0,2,1,LAL,PHI,1,home,OffReb,,,OffReb,,Team,
+19,1,10:22.0,2,1,LAL,PHI,0,home,ShotClockViolation,,,turnover,,Team,
+20,1,10:08.0,2,1,LAL,PHI,14,away,OffensiveFoul,,,turnover,,J. Grant,
+21,1,10:08.0,2,1,LAL,PHI,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Grant,L. Williams
+22,1,9:51.0,2,1,LAL,PHI,17,home,HS,,5,miss2,0,R. Hibbert,
+23,1,9:49.0,2,1,LAL,PHI,2,away,DefReb,,,DefReb,,N. Noel,
+24,1,9:37.0,2,1,LAL,PHI,12,away,LU,,1,miss2,0,J. Sampson,
+25,1,9:37.0,2,1,LAL,PHI,0,home,DefReb,,,DefReb,,R. Hibbert,
+26,1,9:16.0,4,1,LAL,PHI,21,home,DK,assist,0,make2,2,L. Nance,J. Clarkson
+27,1,9:07.0,4,1,LAL,PHI,9,away,LU,,0,miss2,0,I. Smith,
+28,1,9:06.0,4,1,LAL,PHI,1,home,DefReb,,,DefReb,,L. Nance,
+29,1,8:54.0,4,1,LAL,PHI,12,home,LU,block,2,miss2,0,J. Clarkson,J. Grant
+30,1,8:54.0,4,1,LAL,PHI,0,home,OffReb,,,OffReb,,Team,
+31,1,8:50.0,4,1,LAL,PHI,4,home,JS,,15,miss2,0,J. Clarkson,
+32,1,8:49.0,4,1,LAL,PHI,1,home,OffReb,,,OffReb,,L. Nance,
+33,1,8:47.0,4,1,LAL,PHI,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Smith,L. Williams
+34,1,8:47.0,5,1,LAL,PHI,0,home,FreeThrow,,,make1,1,L. Williams,
+35,1,8:47.0,6,1,LAL,PHI,0,home,FreeThrow,,,make1,1,L. Williams,
+36,1,8:40.0,6,1,LAL,PHI,7,away,JS,,5,miss2,0,I. Smith,
+37,1,8:39.0,6,1,LAL,PHI,1,away,OffReb,,,OffReb,,N. Noel,
+38,1,8:37.0,6,3,LAL,PHI,2,away,LU,,1,make2,2,N. Noel,
+39,1,8:12.0,8,3,LAL,PHI,25,home,JS,,8,make2,2,J. Clarkson,
+40,1,7:59.0,8,3,LAL,PHI,13,away,LU,block,1,miss2,0,J. Grant,R. Hibbert
+41,1,7:59.0,8,3,LAL,PHI,0,away,OffReb,,,OffReb,,Team,
+42,1,7:54.0,8,3,LAL,PHI,5,away,JS,,25,miss3,0,I. Canaan,
+43,1,7:53.0,8,3,LAL,PHI,1,home,DefReb,,,DefReb,,A. Brown,
+44,1,7:48.0,8,3,LAL,PHI,5,home,JS,,25,miss3,0,L. Williams,
+45,1,7:46.0,8,3,LAL,PHI,2,away,DefReb,,,DefReb,,I. Smith,
+46,1,7:41.0,8,5,LAL,PHI,5,away,LU,,0,make2,2,I. Smith,
+47,1,7:22.0,10,5,LAL,PHI,19,home,HS,,3,make2,2,R. Hibbert,
+48,1,7:12.0,10,5,LAL,PHI,10,away,JS,,15,miss2,0,N. Noel,
+49,1,7:12.0,10,5,LAL,PHI,0,home,DefReb,,,DefReb,,A. Brown,
+50,1,7:04.0,10,5,LAL,PHI,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Sampson,J. Clarkson
+51,1,7:04.0,10,5,LAL,PHI,0,home,FreeThrow,,,make1,0,J. Clarkson,
+52,1,7:04.0,10,5,LAL,PHI,0,home,OffReb,,,OffReb,,Team,
+53,1,7:04.0,11,5,LAL,PHI,0,home,FreeThrow,,,make1,1,J. Clarkson,
+54,1,6:50.0,11,8,LAL,PHI,14,away,JS,assist,24,make3,3,I. Canaan,N. Noel
+55,1,6:35.0,11,8,LAL,PHI,15,home,JS,,9,miss2,0,A. Brown,
+56,1,6:34.0,11,8,LAL,PHI,1,away,DefReb,,,DefReb,,I. Smith,
+57,1,6:23.0,11,8,LAL,PHI,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,J. Grant
+58,1,6:23.0,11,9,LAL,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+59,1,6:23.0,11,9,LAL,PHI,0,away,Sub,,,,,N. Stauskas,J. Sampson
+60,1,6:23.0,11,10,LAL,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+61,1,6:04.0,11,10,LAL,PHI,19,home,LU,block,2,miss2,0,L. Nance,N. Noel
+62,1,6:03.0,11,10,LAL,PHI,1,away,DefReb,,,DefReb,,J. Grant,
+63,1,5:59.0,11,10,LAL,PHI,4,away,LU,,1,miss2,0,I. Smith,
+64,1,5:58.0,11,10,LAL,PHI,1,home,DefReb,,,DefReb,,J. Clarkson,
+65,1,5:46.0,11,10,LAL,PHI,12,home,HS,,2,miss2,0,J. Clarkson,
+66,1,5:45.0,11,10,LAL,PHI,1,away,DefReb,,,DefReb,,N. Noel,
+67,1,5:37.0,11,10,LAL,PHI,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,N. Noel
+68,1,5:37.0,11,10,LAL,PHI,0,home,Timeout,,,,,,
+69,1,5:37.0,11,10,LAL,PHI,0,home,Sub,,,,,D. Russell,L. Nance
+70,1,5:37.0,11,10,LAL,PHI,0,home,Sub,,,,,J. Randle,L. Williams
+71,1,5:37.0,11,11,LAL,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
+72,1,5:37.0,11,12,LAL,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
+73,1,5:23.0,11,12,LAL,PHI,14,home,JS,,16,miss2,0,D. Russell,
+74,1,5:22.0,11,12,LAL,PHI,1,away,DefReb,,,DefReb,,N. Stauskas,
+75,1,5:04.0,11,14,LAL,PHI,18,away,JS,assist,16,make2,2,I. Smith,J. Grant
+76,1,4:43.0,13,14,LAL,PHI,21,home,LU,assist,0,make2,2,J. Clarkson,R. Hibbert
+77,1,4:43.0,13,14,LAL,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Smith,J. Clarkson
+78,1,4:43.0,13,14,LAL,PHI,0,away,Sub,,,,,R. Covington,N. Noel
+79,1,4:43.0,13,14,LAL,PHI,0,away,Sub,,,,,J. Okafor,I. Canaan
+80,1,4:43.0,13,14,LAL,PHI,0,away,Sub,,,,,R. Holmes,J. Grant
+81,1,4:43.0,13,14,LAL,PHI,0,home,Sub,,,,,B. Bass,R. Hibbert
+82,1,4:43.0,14,14,LAL,PHI,0,home,FreeThrow,,,make1,1,J. Clarkson,
+83,1,4:29.0,14,14,LAL,PHI,14,away,LU,,2,miss2,0,I. Smith,
+84,1,4:28.0,14,14,LAL,PHI,1,home,DefReb,,,DefReb,,J. Randle,
+85,1,4:12.0,14,14,LAL,PHI,16,home,LU,block,2,miss2,0,J. Randle,R. Holmes
+86,1,4:11.0,14,14,LAL,PHI,1,away,DefReb,,,DefReb,,R. Covington,
+87,1,4:04.0,14,17,LAL,PHI,7,away,JS,assist,24,make3,3,R. Covington,I. Smith
+88,1,3:48.0,16,17,LAL,PHI,16,home,LU,assist,0,make2,2,J. Clarkson,D. Russell
+89,1,3:30.0,16,17,LAL,PHI,18,away,LU,,1,miss2,0,N. Stauskas,
+90,1,3:30.0,16,17,LAL,PHI,0,away,OffReb,,,OffReb,,N. Stauskas,
+91,1,3:30.0,16,17,LAL,PHI,0,away,LU,,1,miss2,0,N. Stauskas,
+92,1,3:30.0,16,17,LAL,PHI,0,home,DefReb,,,DefReb,,Team,
+93,1,3:30.0,16,17,LAL,PHI,0,home,Sub,,,,,N. Young,A. Brown
+94,1,3:30.0,16,17,LAL,PHI,0,away,Sub,,,,,T. McConnell,I. Smith
+95,1,3:14.0,16,17,LAL,PHI,16,home,LU,block,1,miss2,0,D. Russell,J. Okafor
+96,1,3:13.0,16,17,LAL,PHI,1,away,DefReb,,,DefReb,,T. McConnell,
+97,1,3:07.0,16,17,LAL,PHI,6,away,JS,,22,miss3,0,N. Stauskas,
+98,1,3:04.0,16,17,LAL,PHI,3,home,DefReb,,,DefReb,,J. Randle,
+99,1,2:55.0,18,17,LAL,PHI,9,home,JS,assist,18,make2,2,J. Randle,D. Russell
+100,1,2:55.0,18,17,LAL,PHI,0,away,Timeout,,,,,,
+101,1,2:39.0,18,17,LAL,PHI,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,R. Holmes
+102,1,2:39.0,18,18,LAL,PHI,0,away,FreeThrow,,,make1,1,R. Holmes,
+103,1,2:39.0,18,18,LAL,PHI,0,away,FreeThrow,,,make1,0,R. Holmes,
+104,1,2:38.0,18,18,LAL,PHI,1,home,DefReb,,,DefReb,,B. Bass,
+105,1,2:14.0,18,18,LAL,PHI,24,home,JS,,19,miss2,0,D. Russell,
+106,1,2:12.0,18,18,LAL,PHI,2,away,DefReb,,,DefReb,,R. Covington,
+107,1,2:05.0,18,18,LAL,PHI,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Russell,T. McConnell
+108,1,2:05.0,18,18,LAL,PHI,0,away,FreeThrow,,,make1,0,T. McConnell,
+109,1,2:05.0,18,18,LAL,PHI,0,away,OffReb,,,OffReb,,Team,
+110,1,2:05.0,18,19,LAL,PHI,0,away,FreeThrow,,,make1,1,T. McConnell,
+111,1,1:42.0,20,19,LAL,PHI,23,home,JS,assist,5,make2,2,J. Clarkson,B. Bass
+112,1,1:28.0,20,19,LAL,PHI,14,away,JS,,23,miss3,0,N. Stauskas,
+113,1,1:27.0,20,19,LAL,PHI,1,away,OffReb,,,OffReb,,N. Stauskas,
+114,1,1:06.0,20,19,LAL,PHI,21,away,LostBall,steal,,turnover,,N. Stauskas,J. Randle
+115,1,0:57.0,20,19,LAL,PHI,9,home,OutOfBounds,,,turnover,,D. Russell,
+116,1,0:57.0,20,19,LAL,PHI,0,home,DelayOfGame,,,DelayOfGame,,Team,
+117,1,0:41.0,20,21,LAL,PHI,16,away,LU,assist,0,make2,2,T. McConnell,R. Holmes
+118,1,0:17.0,20,21,LAL,PHI,24,home,LU,,2,miss2,0,J. Randle,
+119,1,0:17.0,20,21,LAL,PHI,0,home,OffReb,,,OffReb,,J. Randle,
+120,1,0:17.0,20,21,LAL,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Holmes,J. Randle
+121,1,0:17.0,20,21,LAL,PHI,0,home,FreeThrow,,,make1,0,J. Randle,
+122,1,0:17.0,20,21,LAL,PHI,0,home,OffReb,,,OffReb,,Team,
+123,1,0:17.0,21,21,LAL,PHI,0,home,FreeThrow,,,make1,1,J. Randle,
+124,1,0:03.0,21,21,LAL,PHI,14,away,BadPass,steal,,turnover,,T. McConnell,N. Young
+125,2,11:40.0,21,21,LAL,PHI,20,away,JS,,10,miss2,0,J. Okafor,
+126,2,11:38.0,21,21,LAL,PHI,2,home,DefReb,,,DefReb,,L. Williams,
+127,2,11:24.0,21,21,LAL,PHI,14,home,JS,,18,miss2,0,J. Randle,
+128,2,11:23.0,21,21,LAL,PHI,1,away,DefReb,,,DefReb,,R. Covington,
+129,2,11:12.0,21,21,LAL,PHI,11,away,JS,block,4,miss2,0,R. Covington,B. Bass
+130,2,11:10.0,21,21,LAL,PHI,2,home,DefReb,,,DefReb,,B. Bass,
+131,2,11:07.0,21,21,LAL,PHI,3,home,OutOfBounds,,,turnover,,D. Russell,
+132,2,10:55.0,21,23,LAL,PHI,12,away,JS,,13,make2,2,T. McConnell,
+133,2,10:31.0,21,23,LAL,PHI,24,home,JS,,22,miss3,0,N. Young,
+134,2,10:30.0,21,23,LAL,PHI,1,away,DefReb,,,DefReb,,N. Stauskas,
+135,2,10:16.0,21,25,LAL,PHI,14,away,LU,,2,make2,2,J. Okafor,
+136,2,10:07.0,21,25,LAL,PHI,9,home,Traveling,,,turnover,,L. Williams,
+137,2,9:48.0,21,25,LAL,PHI,19,away,BadPass,steal,,turnover,,T. McConnell,N. Young
+138,2,9:42.0,23,25,LAL,PHI,6,home,DK,assist,0,make2,2,J. Randle,L. Williams
+139,2,9:37.0,23,25,LAL,PHI,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Bass,J. Okafor
+140,2,9:28.0,23,25,LAL,PHI,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Bass,R. Holmes
+141,2,9:28.0,23,26,LAL,PHI,0,away,FreeThrow,,,make1,1,R. Holmes,
+142,2,9:28.0,23,26,LAL,PHI,0,away,FreeThrow,,,make1,0,R. Holmes,
+143,2,9:26.0,23,26,LAL,PHI,2,away,OffReb,,,OffReb,,J. Okafor,
+144,2,9:22.0,23,28,LAL,PHI,4,away,LU,,1,make2,2,J. Okafor,
+145,2,9:09.0,25,28,LAL,PHI,13,home,JS,,16,make2,2,D. Russell,
+146,2,8:53.0,25,30,LAL,PHI,16,away,HS,,9,make2,2,J. Okafor,
+147,2,8:42.0,25,30,LAL,PHI,11,home,JS,,17,miss2,0,D. Russell,
+148,2,8:41.0,25,30,LAL,PHI,1,away,DefReb,,,DefReb,,R. Covington,
+149,2,8:38.0,25,30,LAL,PHI,3,away,Timeout,,,,,,
+150,2,8:38.0,25,30,LAL,PHI,0,home,Sub,,,,,R. Hibbert,B. Bass
+151,2,8:38.0,25,30,LAL,PHI,0,away,Sub,,,,,N. Noel,R. Holmes
+152,2,8:25.0,25,30,LAL,PHI,13,away,JS,,26,miss3,0,R. Covington,
+153,2,8:25.0,25,30,LAL,PHI,0,away,OffReb,,,OffReb,,N. Noel,
+154,2,8:15.0,25,30,LAL,PHI,10,away,JS,,15,miss2,0,J. Okafor,
+155,2,8:14.0,25,30,LAL,PHI,1,home,DefReb,,,DefReb,,J. Randle,
+156,2,8:00.0,25,30,LAL,PHI,14,home,JS,,16,miss2,0,N. Young,
+157,2,7:59.0,25,30,LAL,PHI,1,away,DefReb,,,DefReb,,N. Noel,
+158,2,7:49.0,25,30,LAL,PHI,10,away,JS,,5,miss2,0,N. Noel,
+159,2,7:48.0,25,30,LAL,PHI,1,home,DefReb,,,DefReb,,J. Randle,
+160,2,7:43.0,25,30,LAL,PHI,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Covington,J. Randle
+161,2,7:43.0,26,30,LAL,PHI,0,home,FreeThrow,,,make1,1,J. Randle,
+162,2,7:43.0,26,30,LAL,PHI,0,away,Sub,,,,,I. Canaan,T. McConnell
+163,2,7:43.0,26,30,LAL,PHI,0,away,Sub,,,,,I. Smith,N. Stauskas
+164,2,7:43.0,27,30,LAL,PHI,0,home,FreeThrow,,,make1,1,J. Randle,
+165,2,7:23.0,27,32,LAL,PHI,20,away,JS,assist,12,make2,2,J. Okafor,R. Covington
+166,2,7:07.0,27,32,LAL,PHI,16,home,JS,,18,miss2,0,D. Russell,
+167,2,7:06.0,27,32,LAL,PHI,1,away,DefReb,,,DefReb,,Team,
+168,2,7:05.0,27,32,LAL,PHI,1,away,Sub,,,,,J. Sampson,R. Covington
+169,2,6:51.0,27,32,LAL,PHI,14,away,BadPass,steal,,turnover,,I. Smith,J. Randle
+170,2,6:38.0,27,32,LAL,PHI,13,home,JS,,25,miss3,0,L. Williams,
+171,2,6:38.0,27,32,LAL,PHI,0,away,DefReb,,,DefReb,,J. Okafor,
+172,2,6:14.0,27,32,LAL,PHI,24,away,LU,,1,miss2,0,I. Smith,
+173,2,6:11.0,27,32,LAL,PHI,3,away,OffReb,,,OffReb,,N. Noel,
+174,2,6:11.0,27,32,LAL,PHI,0,away,DK,,0,miss2,0,N. Noel,
+175,2,6:10.0,27,32,LAL,PHI,1,home,DefReb,,,DefReb,,D. Russell,
+176,2,6:03.0,30,32,LAL,PHI,7,home,JS,assist,22,make3,3,N. Young,L. Williams
+177,2,5:45.0,30,32,LAL,PHI,18,away,LostBall,,,turnover,,N. Noel,
+178,2,5:45.0,30,32,LAL,PHI,0,away,Timeout,,,,,,
+179,2,5:45.0,30,32,LAL,PHI,0,home,Sub,,,,,L. Nance,J. Randle
+180,2,5:45.0,30,32,LAL,PHI,0,away,Sub,,,,,J. Grant,J. Okafor
+181,2,5:26.0,30,32,LAL,PHI,19,home,JS,,16,miss2,0,N. Young,
+182,2,5:24.0,30,32,LAL,PHI,2,away,DefReb,,,DefReb,,N. Noel,
+183,2,5:23.0,30,32,LAL,PHI,1,away,LostBall,steal,,turnover,,I. Smith,N. Young
+184,2,5:23.0,30,32,LAL,PHI,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,I. Smith,N. Young
+185,2,5:23.0,30,32,LAL,PHI,0,away,Sub,,,,,T. McConnell,I. Smith
+186,2,5:10.0,30,32,LAL,PHI,13,home,JS,,13,miss2,0,L. Williams,
+187,2,5:09.0,30,32,LAL,PHI,1,away,DefReb,,,DefReb,,N. Noel,
+188,2,4:56.0,30,32,LAL,PHI,13,away,LU,block,1,miss2,0,J. Sampson,R. Hibbert
+189,2,4:55.0,30,32,LAL,PHI,1,away,OffReb,,,OffReb,,J. Sampson,
+190,2,4:50.0,30,32,LAL,PHI,5,away,JS,,22,miss3,0,I. Canaan,
+191,2,4:49.0,30,32,LAL,PHI,1,home,DefReb,,,DefReb,,L. Nance,
+192,2,4:44.0,32,32,LAL,PHI,5,home,JS,,4,make2,2,D. Russell,
+193,2,4:28.0,32,35,LAL,PHI,16,away,JS,assist,22,make3,3,T. McConnell,J. Grant
+194,2,4:11.0,32,35,LAL,PHI,17,home,JS,,15,miss2,0,D. Russell,
+195,2,4:09.0,32,35,LAL,PHI,2,away,DefReb,,,DefReb,,J. Sampson,
+196,2,4:08.0,32,35,LAL,PHI,1,away,LostBall,,,turnover,,I. Canaan,
+197,2,4:08.0,32,35,LAL,PHI,0,home,Sub,,,,,A. Brown,D. Russell
+198,2,4:08.0,32,35,LAL,PHI,0,home,Sub,,,,,J. Clarkson,N. Young
+199,2,3:54.0,32,35,LAL,PHI,14,home,JS,,17,miss2,0,J. Clarkson,
+200,2,3:54.0,32,35,LAL,PHI,0,away,DefReb,,,DefReb,,N. Noel,
+201,2,3:47.0,32,35,LAL,PHI,7,away,JS,,24,miss3,0,I. Canaan,
+202,2,3:46.0,32,35,LAL,PHI,1,home,DefReb,,,DefReb,,L. Williams,
+203,2,3:35.0,32,35,LAL,PHI,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Sampson,L. Williams
+204,2,3:35.0,33,35,LAL,PHI,0,home,FreeThrow,,,make1,1,L. Williams,
+205,2,3:35.0,34,35,LAL,PHI,0,home,FreeThrow,,,make1,1,L. Williams,
+206,2,3:19.0,34,35,LAL,PHI,16,away,JS,,15,miss2,0,N. Noel,
+207,2,3:18.0,34,35,LAL,PHI,1,home,DefReb,,,DefReb,,L. Nance,
+208,2,2:56.0,34,35,LAL,PHI,22,home,JS,,18,miss2,0,R. Hibbert,
+209,2,2:55.0,34,35,LAL,PHI,1,away,DefReb,,,DefReb,,J. Grant,
+210,2,2:42.0,34,37,LAL,PHI,13,away,JS,assist,17,make2,2,T. McConnell,N. Noel
+211,2,2:28.0,34,37,LAL,PHI,14,home,JS,,25,miss3,0,L. Williams,
+212,2,2:26.0,34,37,LAL,PHI,2,away,DefReb,,,DefReb,,J. Grant,
+213,2,2:20.0,34,39,LAL,PHI,6,away,DK,assist,0,make2,2,N. Noel,T. McConnell
+214,2,2:03.0,34,39,LAL,PHI,17,home,LU,block,1,miss2,0,R. Hibbert,N. Noel
+215,2,2:02.0,34,39,LAL,PHI,1,home,OffReb,,,OffReb,,R. Hibbert,
+216,2,1:59.0,34,39,LAL,PHI,3,home,LU,block,0,miss2,0,R. Hibbert,J. Sampson
+217,2,1:58.0,34,39,LAL,PHI,1,away,DefReb,,,DefReb,,T. McConnell,
+218,2,1:52.0,34,39,LAL,PHI,6,away,JS,,22,miss3,0,I. Canaan,
+219,2,1:52.0,34,39,LAL,PHI,0,home,DefReb,,,DefReb,,L. Nance,
+220,2,1:47.0,36,39,LAL,PHI,5,home,LU,,0,make2,2,L. Williams,
+221,2,1:47.0,36,39,LAL,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. McConnell,L. Williams
+222,2,1:47.0,36,39,LAL,PHI,0,home,Timeout,,,,,,
+223,2,1:47.0,36,39,LAL,PHI,0,away,Sub,,,,,R. Covington,J. Sampson
+224,2,1:47.0,36,39,LAL,PHI,0,home,FreeThrow,,,make1,0,L. Williams,
+225,2,1:47.0,36,39,LAL,PHI,0,away,DefReb,,,DefReb,,Team,
+226,2,1:47.0,36,39,LAL,PHI,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Hibbert,J. Grant
+227,2,1:30.0,36,39,LAL,PHI,17,away,LU,,2,miss2,0,J. Grant,
+228,2,1:29.0,36,39,LAL,PHI,1,home,DefReb,,,DefReb,,R. Hibbert,
+229,2,1:07.0,36,39,LAL,PHI,22,home,JS,,10,miss2,0,R. Hibbert,
+230,2,1:06.0,36,39,LAL,PHI,1,away,DefReb,,,DefReb,,J. Grant,
+231,2,0:54.0,36,39,LAL,PHI,12,away,HS,,8,miss2,0,N. Noel,
+232,2,0:53.0,36,39,LAL,PHI,1,home,DefReb,,,DefReb,,L. Nance,
+233,2,0:43.0,38,39,LAL,PHI,10,home,LU,,1,make2,2,J. Clarkson,
+234,2,0:36.0,38,41,LAL,PHI,7,away,DK,assist,0,make2,2,N. Noel,I. Canaan
+235,2,0:16.0,38,41,LAL,PHI,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,J. Clarkson
+236,2,0:16.0,39,41,LAL,PHI,0,home,FreeThrow,,,make1,1,J. Clarkson,
+237,2,0:16.0,40,41,LAL,PHI,0,home,FreeThrow,,,make1,1,J. Clarkson,
+238,2,0:13.0,40,41,LAL,PHI,3,away,Timeout,,,,,,
+239,2,0:13.0,40,41,LAL,PHI,0,away,Sub,,,,,I. Smith,J. Grant
+240,2,0:13.0,40,41,LAL,PHI,0,away,Sub,,,,,N. Stauskas,T. McConnell
+241,2,0:13.0,40,41,LAL,PHI,0,home,Sub,,,,,N. Young,R. Hibbert
+242,2,0:01.0,40,41,LAL,PHI,12,away,JS,,23,miss3,0,N. Stauskas,
+243,2,0:00.0,40,41,LAL,PHI,1,away,OffReb,,,OffReb,,Team,
+244,3,11:39.0,40,41,LAL,PHI,21,away,JS,,7,miss2,0,J. Sampson,
+245,3,11:37.0,40,41,LAL,PHI,2,away,OffReb,,,OffReb,,N. Noel,
+246,3,11:25.0,40,41,LAL,PHI,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,J. Grant
+247,3,11:25.0,40,42,LAL,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+248,3,11:25.0,40,43,LAL,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+249,3,11:09.0,40,43,LAL,PHI,16,home,JS,,16,miss2,0,L. Williams,
+250,3,11:09.0,40,43,LAL,PHI,0,away,DefReb,,,DefReb,,N. Noel,
+251,3,11:00.0,40,45,LAL,PHI,9,away,LU,assist,0,make2,2,J. Sampson,I. Smith
+252,3,10:30.0,40,45,LAL,PHI,30,home,JS,,23,miss3,0,J. Clarkson,
+253,3,10:29.0,40,45,LAL,PHI,1,away,DefReb,,,DefReb,,I. Canaan,
+254,3,10:21.0,40,45,LAL,PHI,8,away,JS,,23,miss3,0,J. Sampson,
+255,3,10:20.0,40,45,LAL,PHI,1,away,OffReb,,,OffReb,,J. Grant,
+256,3,10:20.0,40,45,LAL,PHI,0,away,PersonalFoul,,,,,L. Williams,
+257,3,10:00.0,40,45,LAL,PHI,20,away,LU,,2,miss2,0,I. Smith,
+258,3,9:59.0,40,45,LAL,PHI,1,home,DefReb,,,DefReb,,A. Brown,
+259,3,9:53.0,40,45,LAL,PHI,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Sampson,L. Williams
+260,3,9:53.0,41,45,LAL,PHI,0,home,FreeThrow,,,make1,1,L. Williams,
+261,3,9:53.0,42,45,LAL,PHI,0,home,FreeThrow,,,make1,1,L. Williams,
+262,3,9:40.0,42,45,LAL,PHI,13,away,JS,block,4,miss2,0,I. Canaan,L. Williams
+263,3,9:39.0,42,45,LAL,PHI,1,away,OffReb,,,OffReb,,I. Smith,
+264,3,9:35.0,42,45,LAL,PHI,4,away,JS,,23,miss3,0,I. Canaan,
+265,3,9:34.0,42,45,LAL,PHI,1,away,OffReb,,,OffReb,,J. Sampson,
+266,3,9:31.0,42,47,LAL,PHI,3,away,DK,,0,make2,2,J. Sampson,
+267,3,9:06.0,44,47,LAL,PHI,25,home,JS,,11,make2,2,J. Clarkson,
+268,3,8:59.0,44,47,LAL,PHI,7,away,LU,,1,miss2,0,I. Smith,
+269,3,8:56.0,44,47,LAL,PHI,3,home,DefReb,,,DefReb,,R. Hibbert,
+270,3,8:51.0,44,47,LAL,PHI,5,home,LU,,0,miss2,0,J. Clarkson,
+271,3,8:49.0,44,47,LAL,PHI,2,home,OffReb,,,OffReb,,L. Nance,
+272,3,8:47.0,46,47,LAL,PHI,2,home,DK,,0,make2,2,L. Nance,
+273,3,8:28.0,46,47,LAL,PHI,19,away,JS,,23,miss3,0,I. Canaan,
+274,3,8:28.0,46,47,LAL,PHI,0,home,DefReb,,,DefReb,,L. Nance,
+275,3,8:16.0,48,47,LAL,PHI,12,home,JS,,14,make2,2,L. Williams,
+276,3,8:00.0,48,47,LAL,PHI,16,away,JS,,18,miss2,0,I. Smith,
+277,3,7:58.0,48,47,LAL,PHI,2,away,OffReb,,,OffReb,,N. Noel,
+278,3,7:57.0,48,49,LAL,PHI,1,away,LU,,0,make2,2,N. Noel,
+279,3,7:57.0,48,49,LAL,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,N. Noel
+280,3,7:57.0,48,49,LAL,PHI,0,away,FreeThrow,,,make1,0,N. Noel,
+281,3,7:56.0,48,49,LAL,PHI,1,home,DefReb,,,DefReb,,R. Hibbert,
+282,3,7:39.0,48,49,LAL,PHI,17,home,LostBall,steal,,turnover,,L. Williams,N. Noel
+283,3,7:23.0,48,49,LAL,PHI,16,away,JS,,24,miss3,0,J. Grant,
+284,3,7:22.0,48,49,LAL,PHI,1,home,DefReb,,,DefReb,,A. Brown,
+285,3,7:13.0,50,49,LAL,PHI,9,home,JS,,17,make2,2,A. Brown,
+286,3,7:01.0,50,51,LAL,PHI,12,away,LU,,0,make2,2,I. Smith,
+287,3,6:49.0,50,51,LAL,PHI,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Noel,R. Hibbert
+288,3,6:49.0,50,51,LAL,PHI,0,home,FreeThrow,,,make1,0,R. Hibbert,
+289,3,6:49.0,50,51,LAL,PHI,0,home,OffReb,,,OffReb,,Team,
+290,3,6:49.0,51,51,LAL,PHI,0,home,FreeThrow,,,make1,1,R. Hibbert,
+291,3,6:39.0,51,51,LAL,PHI,10,away,LU,,2,miss2,0,I. Smith,
+292,3,6:39.0,51,51,LAL,PHI,0,away,OffReb,,,OffReb,,Team,
+293,3,6:39.0,51,51,LAL,PHI,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Clarkson,N. Noel
+294,3,6:27.0,51,51,LAL,PHI,12,away,JS,,14,miss2,0,I. Smith,
+295,3,6:22.0,51,51,LAL,PHI,5,home,DefReb,,,DefReb,,L. Nance,
+296,3,6:15.0,51,51,LAL,PHI,7,home,LU,block,0,miss2,0,J. Clarkson,N. Noel
+297,3,6:13.0,51,51,LAL,PHI,2,home,OffReb,,,OffReb,,J. Clarkson,
+298,3,6:05.0,51,51,LAL,PHI,8,home,JS,,26,miss3,0,L. Williams,
+299,3,6:04.0,51,51,LAL,PHI,1,home,OffReb,,,OffReb,,L. Nance,
+300,3,6:04.0,53,51,LAL,PHI,0,home,DK,,0,make2,2,L. Nance,
+301,3,6:04.0,53,51,LAL,PHI,0,away,Timeout,,,,,,
+302,3,6:04.0,53,51,LAL,PHI,0,away,Sub,,,,,N. Stauskas,J. Sampson
+303,3,5:52.0,53,51,LAL,PHI,12,away,BadPass,,,turnover,,N. Stauskas,
+304,3,5:35.0,53,51,LAL,PHI,17,home,JS,,12,miss2,0,L. Williams,
+305,3,5:34.0,53,51,LAL,PHI,1,away,DefReb,,,DefReb,,I. Canaan,
+306,3,5:30.0,53,51,LAL,PHI,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Clarkson,I. Smith
+307,3,5:30.0,53,52,LAL,PHI,0,away,FreeThrow,,,make1,1,I. Smith,
+308,3,5:30.0,53,52,LAL,PHI,0,away,Sub,,,,,J. Okafor,N. Noel
+309,3,5:30.0,53,52,LAL,PHI,0,home,Sub,,,,,D. Russell,L. Williams
+310,3,5:30.0,53,52,LAL,PHI,0,away,FreeThrow,,,make1,0,I. Smith,
+311,3,5:29.0,53,52,LAL,PHI,1,home,DefReb,,,DefReb,,Team,
+312,3,5:10.0,53,52,LAL,PHI,19,home,LU,,1,miss2,0,J. Clarkson,
+313,3,5:09.0,53,52,LAL,PHI,1,home,OffReb,,,OffReb,,L. Nance,
+314,3,5:09.0,53,52,LAL,PHI,0,home,DK,,0,miss2,0,L. Nance,
+315,3,5:07.0,53,52,LAL,PHI,2,away,DefReb,,,DefReb,,I. Canaan,
+316,3,4:51.0,53,52,LAL,PHI,16,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,R. Hibbert,I. Canaan
+317,3,4:51.0,53,53,LAL,PHI,0,away,FreeThrow,,,make1,1,I. Canaan,
+318,3,4:51.0,53,53,LAL,PHI,0,home,Sub,,,,,B. Bass,R. Hibbert
+319,3,4:51.0,53,53,LAL,PHI,0,away,Sub,,,,,R. Covington,J. Grant
+320,3,4:51.0,53,54,LAL,PHI,0,away,FreeThrow,,,make1,1,I. Canaan,
+321,3,4:22.0,56,54,LAL,PHI,29,home,JS,assist,24,make3,3,A. Brown,J. Clarkson
+322,3,4:10.0,56,54,LAL,PHI,12,away,JS,,23,miss3,0,R. Covington,
+323,3,4:10.0,56,54,LAL,PHI,0,home,DefReb,,,DefReb,,L. Nance,
+324,3,3:58.0,58,54,LAL,PHI,12,home,JS,assist,13,make2,2,B. Bass,D. Russell
+325,3,3:47.0,58,54,LAL,PHI,11,away,JS,block,6,miss2,0,I. Smith,D. Russell
+326,3,3:46.0,58,54,LAL,PHI,1,home,DefReb,,,DefReb,,D. Russell,
+327,3,3:33.0,58,54,LAL,PHI,13,home,JS,,12,miss2,0,D. Russell,
+328,3,3:32.0,58,54,LAL,PHI,1,away,DefReb,,,DefReb,,R. Covington,
+329,3,3:11.0,58,54,LAL,PHI,21,away,LU,,2,miss2,0,I. Canaan,
+330,3,3:10.0,58,54,LAL,PHI,1,home,DefReb,,,DefReb,,A. Brown,
+331,3,2:55.0,60,54,LAL,PHI,15,home,LU,assist,2,make2,2,L. Nance,D. Russell
+332,3,2:49.0,60,54,LAL,PHI,6,away,Timeout,,,,,,
+333,3,2:49.0,60,54,LAL,PHI,0,home,Timeout,,,,,,
+334,3,2:49.0,60,54,LAL,PHI,0,home,Sub,,,,,N. Young,A. Brown
+335,3,2:49.0,60,54,LAL,PHI,0,home,Sub,,,,,J. Randle,L. Nance
+336,3,2:49.0,60,54,LAL,PHI,0,away,Sub,,,,,T. McConnell,I. Canaan
+337,3,2:49.0,60,54,LAL,PHI,0,away,Sub,,,,,J. Sampson,I. Smith
+338,3,2:32.0,60,54,LAL,PHI,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Russell,R. Covington
+339,3,2:32.0,60,55,LAL,PHI,0,away,FreeThrow,,,make1,1,R. Covington,
+340,3,2:32.0,60,56,LAL,PHI,0,away,FreeThrow,,,make1,1,R. Covington,
+341,3,2:13.0,62,56,LAL,PHI,19,home,DK,,0,make2,2,J. Randle,
+342,3,2:02.0,62,58,LAL,PHI,11,away,JS,assist,14,make2,2,J. Okafor,T. McConnell
+343,3,1:48.0,62,58,LAL,PHI,14,home,BadPass,steal,,turnover,,D. Russell,N. Stauskas
+344,3,1:29.0,62,58,LAL,PHI,19,away,JS,,25,miss3,0,N. Stauskas,
+345,3,1:29.0,62,58,LAL,PHI,0,home,DefReb,,,DefReb,,J. Randle,
+346,3,1:23.0,62,58,LAL,PHI,6,home,LU,block,1,miss2,0,J. Randle,T. McConnell
+347,3,1:21.0,62,58,LAL,PHI,2,home,OffReb,,,OffReb,,B. Bass,
+348,3,1:18.0,62,58,LAL,PHI,3,home,LU,block,0,miss2,0,B. Bass,R. Covington
+349,3,1:16.0,62,58,LAL,PHI,2,home,OffReb,,,OffReb,,N. Young,
+350,3,1:10.0,62,58,LAL,PHI,6,home,JS,,25,miss3,0,N. Young,
+351,3,1:09.0,62,58,LAL,PHI,1,home,OffReb,,,OffReb,,D. Russell,
+352,3,1:07.0,62,58,LAL,PHI,2,home,LU,,0,miss2,0,D. Russell,
+353,3,1:07.0,62,58,LAL,PHI,0,home,OffReb,,,OffReb,,J. Randle,
+354,3,1:07.0,62,58,LAL,PHI,0,home,LostBall,,,turnover,,J. Randle,
+355,3,0:50.0,62,58,LAL,PHI,17,away,BadPass,steal,,turnover,,T. McConnell,D. Russell
+356,3,0:48.0,62,58,LAL,PHI,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,R. Covington,D. Russell
+357,3,0:39.0,62,58,LAL,PHI,9,home,BadPass,steal,,turnover,,D. Russell,R. Covington
+358,3,0:36.0,62,60,LAL,PHI,3,away,DK,assist,0,make2,2,R. Covington,T. McConnell
+359,3,0:27.0,62,60,LAL,PHI,9,home,JS,,19,miss2,0,D. Russell,
+360,3,0:26.0,62,60,LAL,PHI,1,away,DefReb,,,DefReb,,T. McConnell,
+361,3,0:02.0,62,60,LAL,PHI,24,away,JS,,7,miss2,0,J. Okafor,
+362,3,0:00.0,62,60,LAL,PHI,2,away,OffReb,,,OffReb,,Team,
+363,4,11:42.0,64,60,LAL,PHI,18,home,JS,,14,make2,2,N. Young,
+364,4,11:34.0,64,60,LAL,PHI,8,away,LostBall,steal,,turnover,,J. Okafor,B. Bass
+365,4,11:29.0,66,60,LAL,PHI,5,home,DK,,0,make2,2,J. Randle,
+366,4,11:05.0,66,60,LAL,PHI,24,away,JS,,23,miss3,0,T. McConnell,
+367,4,11:05.0,66,60,LAL,PHI,0,home,DefReb,,,DefReb,,N. Young,
+368,4,11:00.0,68,60,LAL,PHI,5,home,DK,assist,0,make2,2,B. Bass,L. Williams
+369,4,11:00.0,68,60,LAL,PHI,0,away,Timeout,,,,,,
+370,4,11:00.0,68,60,LAL,PHI,0,away,Sub,,,,,J. Grant,R. Covington
+371,4,10:38.0,68,62,LAL,PHI,22,away,LU,assist,1,make2,2,T. McConnell,N. Stauskas
+372,4,10:21.0,68,62,LAL,PHI,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Okafor,L. Williams
+373,4,10:21.0,69,62,LAL,PHI,0,home,FreeThrow,,,make1,1,L. Williams,
+374,4,10:21.0,70,62,LAL,PHI,0,home,FreeThrow,,,make1,1,L. Williams,
+375,4,10:06.0,70,64,LAL,PHI,15,away,LU,assist,0,make2,2,J. Okafor,T. McConnell
+376,4,9:47.0,70,64,LAL,PHI,19,home,JS,,11,miss2,0,D. Russell,
+377,4,9:45.0,70,64,LAL,PHI,2,away,DefReb,,,DefReb,,J. Okafor,
+378,4,9:38.0,70,66,LAL,PHI,7,away,LU,assist,1,make2,2,J. Grant,T. McConnell
+379,4,9:28.0,70,66,LAL,PHI,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Stauskas,B. Bass
+380,4,9:28.0,71,66,LAL,PHI,0,home,FreeThrow,,,make1,1,B. Bass,
+381,4,9:28.0,71,66,LAL,PHI,0,home,FreeThrow,,,make1,0,B. Bass,
+382,4,9:26.0,71,66,LAL,PHI,2,away,DefReb,,,DefReb,,J. Grant,
+383,4,9:07.0,71,68,LAL,PHI,19,away,LU,assist,1,make2,2,J. Grant,T. McConnell
+384,4,8:51.0,73,68,LAL,PHI,16,home,LU,assist,1,make2,2,J. Randle,L. Williams
+385,4,8:36.0,73,68,LAL,PHI,15,away,JS,,22,miss3,0,I. Canaan,
+386,4,8:36.0,73,68,LAL,PHI,0,home,DefReb,,,DefReb,,J. Randle,
+387,4,8:22.0,73,68,LAL,PHI,14,home,JS,,10,miss2,0,N. Young,
+388,4,8:21.0,73,68,LAL,PHI,1,away,DefReb,,,DefReb,,J. Okafor,
+389,4,8:10.0,73,70,LAL,PHI,11,away,DK,assist,0,make2,2,N. Stauskas,T. McConnell
+390,4,8:10.0,73,70,LAL,PHI,0,home,Timeout,,,,,,
+391,4,7:55.0,76,70,LAL,PHI,15,home,JS,assist,24,make3,3,N. Young,L. Williams
+392,4,7:36.0,76,70,LAL,PHI,19,away,LostBall,steal,,turnover,,N. Stauskas,N. Young
+393,4,7:30.0,78,70,LAL,PHI,6,home,DK,assist,0,make2,2,J. Randle,D. Russell
+394,4,7:18.0,78,70,LAL,PHI,12,away,JS,,23,miss3,0,N. Stauskas,
+395,4,7:17.0,78,70,LAL,PHI,1,home,DefReb,,,DefReb,,L. Williams,
+396,4,7:02.0,78,70,LAL,PHI,15,home,JS,,14,miss2,0,B. Bass,
+397,4,7:02.0,78,70,LAL,PHI,0,away,DefReb,,,DefReb,,J. Grant,
+398,4,6:57.0,78,70,LAL,PHI,5,away,LostBall,steal,,turnover,,T. McConnell,B. Bass
+399,4,6:49.0,81,70,LAL,PHI,8,home,JS,assist,24,make3,3,L. Williams,B. Bass
+400,4,6:27.0,81,72,LAL,PHI,22,away,JS,,3,make2,2,I. Canaan,
+401,4,6:12.0,83,72,LAL,PHI,15,home,LU,,1,make2,2,D. Russell,
+402,4,5:55.0,83,72,LAL,PHI,17,away,LU,,1,miss2,0,J. Okafor,
+403,4,5:55.0,83,72,LAL,PHI,0,home,DefReb,,,DefReb,,D. Russell,
+404,4,5:36.0,83,72,LAL,PHI,19,home,JS,,17,miss2,0,D. Russell,
+405,4,5:35.0,83,72,LAL,PHI,1,away,DefReb,,,DefReb,,T. McConnell,
+406,4,5:19.0,83,72,LAL,PHI,16,away,BadPass,steal,,turnover,,I. Canaan,D. Russell
+407,4,5:13.0,86,72,LAL,PHI,6,home,JS,assist,24,make3,3,L. Williams,N. Young
+408,4,5:13.0,86,72,LAL,PHI,0,away,Timeout,,,,,,
+409,4,5:13.0,86,72,LAL,PHI,0,away,Sub,,,,,R. Covington,I. Canaan
+410,4,5:13.0,86,72,LAL,PHI,0,away,Sub,,,,,N. Noel,J. Okafor
+411,4,5:13.0,86,72,LAL,PHI,0,away,Sub,,,,,I. Smith,T. McConnell
+412,4,5:13.0,86,72,LAL,PHI,0,home,Sub,,,,,J. Clarkson,D. Russell
+413,4,4:58.0,86,72,LAL,PHI,15,away,JS,,21,miss2,0,I. Smith,
+414,4,4:57.0,86,72,LAL,PHI,1,home,DefReb,,,DefReb,,J. Randle,
+415,4,4:32.0,88,72,LAL,PHI,25,home,JS,assist,19,make2,2,L. Williams,J. Clarkson
+416,4,4:28.0,88,72,LAL,PHI,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,I. Smith
+417,4,4:28.0,88,73,LAL,PHI,0,away,FreeThrow,,,make1,1,I. Smith,
+418,4,4:28.0,88,74,LAL,PHI,0,away,FreeThrow,,,make1,1,I. Smith,
+419,4,4:16.0,88,74,LAL,PHI,12,home,BadPass,steal,,turnover,,L. Williams,R. Covington
+420,4,4:05.0,88,74,LAL,PHI,11,away,JS,,7,miss2,0,I. Smith,
+421,4,4:04.0,88,74,LAL,PHI,1,home,DefReb,,,DefReb,,B. Bass,
+422,4,3:51.0,88,74,LAL,PHI,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Smith,J. Clarkson
+423,4,3:51.0,89,74,LAL,PHI,0,home,FreeThrow,,,make1,1,J. Clarkson,
+424,4,3:51.0,90,74,LAL,PHI,0,home,FreeThrow,,,make1,1,J. Clarkson,
+425,4,3:36.0,90,74,LAL,PHI,15,away,JS,,25,miss3,0,I. Smith,
+426,4,3:34.0,90,74,LAL,PHI,2,home,DefReb,,,DefReb,,N. Young,
+427,4,3:08.0,90,74,LAL,PHI,26,home,JS,,27,miss3,0,N. Young,
+428,4,3:08.0,90,74,LAL,PHI,0,away,DefReb,,,DefReb,,Team,
+429,4,3:08.0,90,74,LAL,PHI,0,home,Sub,,,,,L. Nance,J. Randle
+430,4,2:58.0,90,76,LAL,PHI,10,away,DK,assist,0,make2,2,N. Noel,J. Grant
+431,4,2:36.0,90,76,LAL,PHI,22,home,JS,,24,miss3,0,L. Williams,
+432,4,2:36.0,90,76,LAL,PHI,0,away,DefReb,,,DefReb,,Team,
+433,4,2:27.0,90,76,LAL,PHI,9,away,JS,,24,miss3,0,J. Grant,
+434,4,2:27.0,90,76,LAL,PHI,0,home,DefReb,,,DefReb,,Team,
+435,4,2:04.0,90,76,LAL,PHI,23,home,JS,,30,miss3,0,N. Young,
+436,4,2:03.0,90,76,LAL,PHI,1,home,OffReb,,,OffReb,,Team,
+437,4,2:03.0,90,76,LAL,PHI,0,home,ShotClockViolation,,,turnover,,Team,
+438,4,1:56.0,90,76,LAL,PHI,7,away,LU,block,2,miss2,0,I. Smith,B. Bass
+439,4,1:56.0,90,76,LAL,PHI,0,home,DefReb,,,DefReb,,Team,
+440,4,1:56.0,90,76,LAL,PHI,0,home,Timeout,,,,,,
+441,4,1:32.0,90,76,LAL,PHI,24,home,JS,,19,miss2,0,J. Clarkson,
+442,4,1:32.0,90,76,LAL,PHI,0,away,DefReb,,,DefReb,,I. Smith,
+443,4,1:26.0,90,78,LAL,PHI,6,away,LU,assist,1,make2,2,N. Noel,N. Stauskas
+444,4,1:15.0,90,78,LAL,PHI,11,home,JS,,24,miss3,0,N. Young,
+445,4,1:13.0,90,78,LAL,PHI,2,away,DefReb,,,DefReb,,R. Covington,
+446,4,1:07.0,90,81,LAL,PHI,6,away,JS,assist,23,make3,3,R. Covington,I. Smith
+447,4,0:51.0,90,81,LAL,PHI,16,home,LostBall,steal,,turnover,,N. Young,N. Noel
+448,4,0:48.0,90,81,LAL,PHI,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Clarkson,J. Grant
+449,4,0:48.0,90,81,LAL,PHI,0,away,FreeThrow,,,make1,0,J. Grant,
+450,4,0:48.0,90,81,LAL,PHI,0,away,OffReb,,,OffReb,,Team,
+451,4,0:48.0,90,82,LAL,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+452,4,0:44.0,90,82,LAL,PHI,4,home,Timeout,,,,,,
+453,4,0:40.0,90,82,LAL,PHI,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,L. Nance
+454,4,0:39.0,90,82,LAL,PHI,1,home,PersonalFoul,,,,,I. Smith,
+455,4,0:39.0,91,82,LAL,PHI,0,home,FreeThrow,,,make1,1,L. Williams,
+456,4,0:39.0,92,82,LAL,PHI,0,home,FreeThrow,,,make1,1,L. Williams,
+457,4,0:39.0,92,82,LAL,PHI,0,away,Timeout,,,,,,
+458,4,0:33.0,92,84,LAL,PHI,6,away,LU,assist,1,make2,2,N. Stauskas,N. Noel
+459,4,0:32.0,92,84,LAL,PHI,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,N. Stauskas,J. Clarkson
+460,4,0:32.0,92,84,LAL,PHI,0,home,FreeThrow,,,make1,0,J. Clarkson,
+461,4,0:32.0,92,84,LAL,PHI,0,home,OffReb,,,OffReb,,Team,
+462,4,0:32.0,93,84,LAL,PHI,0,home,FreeThrow,,,make1,1,J. Clarkson,
+463,4,0:23.0,93,84,LAL,PHI,9,away,JS,,24,miss3,0,I. Smith,
+464,4,0:21.0,93,84,LAL,PHI,2,home,DefReb,,,DefReb,,L. Williams,
+465,4,0:01.0,93,84,LAL,PHI,20,home,BadPass,steal,,turnover,,L. Williams,N. Noel

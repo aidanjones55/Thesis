@@ -1,0 +1,461 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:38.0,0,0,TOR,DET,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,G. Robinson
+1,1,11:38.0,0,1,TOR,DET,0,away,FreeThrow,,,make1,1,G. Robinson,
+2,1,11:38.0,0,1,TOR,DET,0,away,FreeThrow,,,make1,0,G. Robinson,
+3,1,11:38.0,0,1,TOR,DET,0,away,OffReb,,,OffReb,,Team,
+4,1,11:38.0,0,2,TOR,DET,0,away,FreeThrow,,,make1,1,G. Robinson,
+5,1,11:27.0,2,2,TOR,DET,11,home,LU,,1,make2,2,K. Leonard,
+6,1,11:27.0,2,2,TOR,DET,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Drummond,K. Leonard
+7,1,11:27.0,3,2,TOR,DET,0,home,FreeThrow,,,make1,1,K. Leonard,
+8,1,11:20.0,3,4,TOR,DET,7,away,LU,,1,make2,2,R. Jackson,
+9,1,11:10.0,3,4,TOR,DET,10,home,JS,,26,miss3,0,J. Valančiūnas,
+10,1,11:05.0,3,4,TOR,DET,5,away,DefReb,,,DefReb,,G. Robinson,
+11,1,11:00.0,3,4,TOR,DET,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Valančiūnas,A. Drummond
+12,1,10:55.0,3,4,TOR,DET,5,away,BadPass,,,turnover,,R. Jackson,
+13,1,10:41.0,5,4,TOR,DET,14,home,HS,assist,4,make2,2,J. Valančiūnas,K. Lowry
+14,1,10:18.0,5,7,TOR,DET,23,away,JS,assist,25,make3,3,B. Griffin,R. Bullock
+15,1,10:04.0,5,7,TOR,DET,14,home,OutOfBoundsLB,,,turnover,,J. Valančiūnas,
+16,1,9:49.0,5,7,TOR,DET,15,away,JS,,26,miss3,0,R. Jackson,
+17,1,9:45.0,5,7,TOR,DET,4,home,DefReb,,,DefReb,,K. Leonard,
+18,1,9:33.0,5,7,TOR,DET,12,home,JS,,9,miss2,0,P. Siakam,
+19,1,9:30.0,5,7,TOR,DET,3,away,DefReb,,,DefReb,,A. Drummond,
+20,1,9:20.0,5,7,TOR,DET,10,away,Timeout,,,,,,
+21,1,9:07.0,5,7,TOR,DET,13,away,JS,,23,miss3,0,R. Bullock,
+22,1,9:05.0,5,7,TOR,DET,2,home,DefReb,,,DefReb,,K. Leonard,
+23,1,8:55.0,7,7,TOR,DET,10,home,JS,,12,make2,2,K. Leonard,
+24,1,8:45.0,7,7,TOR,DET,10,away,Traveling,,,turnover,,G. Robinson,
+25,1,8:32.0,9,7,TOR,DET,13,home,LU,assist,2,make2,2,K. Leonard,P. Siakam
+26,1,8:19.0,9,7,TOR,DET,13,away,JS,,23,miss3,0,R. Bullock,
+27,1,8:17.0,9,7,TOR,DET,2,home,DefReb,,,DefReb,,K. Lowry,
+28,1,8:14.0,9,7,TOR,DET,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Robinson,K. Lowry
+29,1,7:58.0,11,7,TOR,DET,16,home,JS,,17,make2,2,K. Lowry,
+30,1,7:47.0,11,7,TOR,DET,11,away,HS,,7,miss2,0,A. Drummond,
+31,1,7:46.0,11,7,TOR,DET,1,home,DefReb,,,DefReb,,P. Siakam,
+32,1,7:38.0,11,7,TOR,DET,8,home,BadPass,,,turnover,,K. Lowry,
+33,1,7:19.0,11,7,TOR,DET,19,away,JS,,25,miss3,0,B. Griffin,
+34,1,7:15.0,11,7,TOR,DET,4,home,DefReb,,,DefReb,,K. Leonard,
+35,1,7:11.0,11,7,TOR,DET,4,home,LU,,3,miss2,0,P. Siakam,
+36,1,7:09.0,11,7,TOR,DET,2,away,DefReb,,,DefReb,,B. Griffin,
+37,1,7:03.0,11,7,TOR,DET,6,away,LU,,3,miss2,0,R. Jackson,
+38,1,7:03.0,11,7,TOR,DET,0,away,OffReb,,,OffReb,,A. Drummond,
+39,1,6:59.0,11,9,TOR,DET,4,away,LU,,0,make2,2,A. Drummond,
+40,1,6:50.0,11,9,TOR,DET,9,home,JS,,12,miss2,0,J. Valančiūnas,
+41,1,6:47.0,11,9,TOR,DET,3,away,DefReb,,,DefReb,,R. Bullock,
+42,1,6:43.0,11,12,TOR,DET,4,away,JS,assist,24,make3,3,G. Robinson,R. Jackson
+43,1,6:22.0,13,12,TOR,DET,21,home,JS,,11,make2,2,K. Leonard,
+44,1,6:04.0,13,15,TOR,DET,18,away,JS,assist,25,make3,3,R. Jackson,B. Griffin
+45,1,5:51.0,15,15,TOR,DET,13,home,LU,assist,3,make2,2,J. Valančiūnas,K. Lowry
+46,1,5:39.0,15,15,TOR,DET,12,away,JS,,23,miss3,0,G. Robinson,
+47,1,5:37.0,15,15,TOR,DET,2,home,DefReb,,,DefReb,,P. Siakam,
+48,1,5:37.0,15,15,TOR,DET,0,away,Sub,,,,,I. Smith,R. Jackson
+49,1,5:26.0,15,15,TOR,DET,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Bullock,K. Leonard
+50,1,5:26.0,16,15,TOR,DET,0,home,FreeThrow,,,make1,1,K. Leonard,
+51,1,5:26.0,16,15,TOR,DET,0,away,Sub,,,,,Z. Pachulia,A. Drummond
+52,1,5:26.0,17,15,TOR,DET,0,home,FreeThrow,,,make1,1,K. Leonard,
+53,1,5:10.0,17,15,TOR,DET,16,away,lost ball,steal,,turnover,,B. Griffin,K. Leonard
+54,1,5:06.0,19,15,TOR,DET,4,home,DK,assist,1,make2,2,P. Siakam,K. Leonard
+55,1,4:48.0,19,15,TOR,DET,18,away,lost ball,steal,,turnover,,Z. Pachulia,K. Leonard
+56,1,4:37.0,21,15,TOR,DET,11,home,LU,assist,3,make2,2,K. Lowry,P. Siakam
+57,1,4:28.0,21,17,TOR,DET,9,away,LU,assist,2,make2,2,Z. Pachulia,I. Smith
+58,1,4:28.0,21,17,TOR,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Valančiūnas,Z. Pachulia
+59,1,4:28.0,21,17,TOR,DET,0,home,Sub,,,,,G. Monroe,J. Valančiūnas
+60,1,4:28.0,21,18,TOR,DET,0,away,FreeThrow,,,make1,1,Z. Pachulia,
+61,1,4:15.0,21,18,TOR,DET,13,home,lost ball,steal,,turnover,,G. Monroe,B. Griffin
+62,1,4:11.0,21,20,TOR,DET,4,away,LU,assist,2,make2,2,B. Griffin,R. Bullock
+63,1,3:51.0,21,20,TOR,DET,20,home,LU,,2,miss2,0,D. Green,
+64,1,3:48.0,21,20,TOR,DET,3,home,OffReb,,,OffReb,,G. Monroe,
+65,1,3:48.0,23,20,TOR,DET,0,home,LU,,1,make2,2,G. Monroe,
+66,1,3:39.0,23,20,TOR,DET,9,away,JS,,8,miss2,0,B. Griffin,
+67,1,3:35.0,23,20,TOR,DET,4,home,DefReb,,,DefReb,,K. Leonard,
+68,1,3:29.0,23,20,TOR,DET,6,home,JS,,26,miss3,0,K. Leonard,
+69,1,3:27.0,23,20,TOR,DET,2,away,DefReb,,,DefReb,,B. Griffin,
+70,1,3:22.0,23,20,TOR,DET,5,away,JS,,7,miss2,0,I. Smith,
+71,1,3:19.0,23,20,TOR,DET,3,home,DefReb,,,DefReb,,K. Leonard,
+72,1,3:15.0,25,20,TOR,DET,4,home,LU,assist,1,make2,2,P. Siakam,K. Leonard
+73,1,2:53.0,25,20,TOR,DET,22,away,JS,,26,miss3,0,R. Bullock,
+74,1,2:49.0,25,20,TOR,DET,4,home,DefReb,,,DefReb,,K. Lowry,
+75,1,2:46.0,25,20,TOR,DET,3,home,bad pass,steal,,turnover,,K. Lowry,R. Bullock
+76,1,2:30.0,25,22,TOR,DET,16,away,LU,,4,make2,2,B. Griffin,
+77,1,2:30.0,25,22,TOR,DET,0,home,Timeout,,,,,,
+78,1,2:30.0,25,22,TOR,DET,0,away,Sub,,,,,J. Calderón,R. Bullock
+79,1,2:30.0,25,22,TOR,DET,0,away,Sub,,,,,L. Galloway,B. Griffin
+80,1,2:30.0,25,22,TOR,DET,0,away,Sub,,,,,S. Johnson,G. Robinson
+81,1,2:30.0,25,22,TOR,DET,0,home,Sub,,,,,O. Anunoby,K. Leonard
+82,1,2:30.0,25,22,TOR,DET,0,home,Sub,,,,,F. VanVleet,K. Lowry
+83,1,2:15.0,25,22,TOR,DET,15,home,LU,,2,miss2,0,P. Siakam,
+84,1,2:14.0,25,22,TOR,DET,1,home,OffReb,,,OffReb,,O. Anunoby,
+85,1,2:12.0,25,22,TOR,DET,2,home,LU,,2,miss2,0,O. Anunoby,
+86,1,2:09.0,25,22,TOR,DET,3,home,OffReb,,,OffReb,,P. Siakam,
+87,1,2:09.0,27,22,TOR,DET,0,home,LU,,1,make2,2,P. Siakam,
+88,1,1:55.0,27,22,TOR,DET,14,away,JS,,26,miss3,0,L. Galloway,
+89,1,1:53.0,27,22,TOR,DET,2,home,DefReb,,,DefReb,,G. Monroe,
+90,1,1:45.0,27,22,TOR,DET,8,home,LU,,4,miss2,0,D. Green,
+91,1,1:44.0,27,22,TOR,DET,1,home,OffReb,,,OffReb,,G. Monroe,
+92,1,1:44.0,27,22,TOR,DET,0,home,LU,,1,miss2,0,G. Monroe,
+93,1,1:41.0,27,22,TOR,DET,3,away,DefReb,,,DefReb,,S. Johnson,
+94,1,1:35.0,27,22,TOR,DET,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Monroe,Z. Pachulia
+95,1,1:35.0,27,22,TOR,DET,0,home,Sub,,,,,M. Richardson,D. Green
+96,1,1:35.0,27,22,TOR,DET,0,home,Sub,,,,,D. Wright,P. Siakam
+97,1,1:28.0,27,24,TOR,DET,7,away,HS,assist,4,make2,2,S. Johnson,L. Galloway
+98,1,1:04.0,29,24,TOR,DET,24,home,LU,assist,1,make2,2,G. Monroe,O. Anunoby
+99,1,0:58.0,29,26,TOR,DET,6,away,LU,assist,1,make2,2,L. Galloway,I. Smith
+100,1,0:39.0,31,26,TOR,DET,19,home,LU,,2,make2,2,G. Monroe,
+101,1,0:32.0,31,26,TOR,DET,7,away,LU,,1,miss2,0,Z. Pachulia,
+102,1,0:30.0,31,26,TOR,DET,2,away,OffReb,,,OffReb,,Z. Pachulia,
+103,1,0:30.0,31,26,TOR,DET,0,away,LU,,0,miss2,0,Z. Pachulia,
+104,1,0:29.0,31,26,TOR,DET,1,home,DefReb,,,DefReb,,G. Monroe,
+105,1,0:13.0,31,26,TOR,DET,16,home,JS,,6,miss2,0,F. VanVleet,
+106,1,0:12.0,31,26,TOR,DET,1,home,OffReb,,,OffReb,,F. VanVleet,
+107,1,0:10.0,31,26,TOR,DET,2,home,JS,,24,miss3,0,O. Anunoby,
+108,1,0:10.0,31,26,TOR,DET,0,home,OffReb,,,OffReb,,D. Wright,
+109,1,0:00.0,31,26,TOR,DET,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Johnson,D. Wright
+110,1,0:00.0,31,26,TOR,DET,0,home,JS,,16,miss2,0,O. Anunoby,
+111,1,0:00.0,31,26,TOR,DET,0,home,OffReb,,,OffReb,,Team,
+112,2,11:55.0,33,26,TOR,DET,5,home,DK,assist,1,make2,2,O. Anunoby,F. VanVleet
+113,2,11:39.0,33,29,TOR,DET,16,away,JS,assist,25,make3,3,L. Galloway,J. Calderón
+114,2,11:30.0,33,29,TOR,DET,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Calderón,M. Richardson
+115,2,11:23.0,33,29,TOR,DET,7,home,JS,,22,miss2,0,D. Wright,
+116,2,11:20.0,33,29,TOR,DET,3,away,DefReb,,,DefReb,,I. Smith,
+117,2,11:17.0,33,29,TOR,DET,3,away,JS,,26,miss3,0,L. Galloway,
+118,2,11:14.0,33,29,TOR,DET,3,home,DefReb,,,DefReb,,M. Richardson,
+119,2,11:07.0,36,29,TOR,DET,7,home,JS,assist,27,make3,3,O. Anunoby,F. VanVleet
+120,2,10:56.0,36,29,TOR,DET,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Richardson,A. Drummond
+121,2,10:47.0,36,29,TOR,DET,9,away,JS,,25,miss3,0,S. Johnson,
+122,2,10:44.0,36,29,TOR,DET,3,home,DefReb,,,DefReb,,G. Monroe,
+123,2,10:36.0,38,29,TOR,DET,8,home,LU,assist,2,make2,2,G. Monroe,F. VanVleet
+124,2,10:27.0,38,31,TOR,DET,9,away,LU,assist,1,make2,2,S. Johnson,I. Smith
+125,2,10:17.0,38,31,TOR,DET,10,home,JS,,16,miss2,0,F. VanVleet,
+126,2,10:16.0,38,31,TOR,DET,1,away,DefReb,,,DefReb,,J. Calderón,
+127,2,10:12.0,38,31,TOR,DET,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Anunoby,A. Drummond
+128,2,10:06.0,38,31,TOR,DET,6,away,HS,,10,miss2,0,A. Drummond,
+129,2,10:03.0,38,31,TOR,DET,3,home,DefReb,,,DefReb,,F. VanVleet,
+130,2,9:42.0,38,31,TOR,DET,21,home,JS,,26,miss3,0,F. VanVleet,
+131,2,9:40.0,38,31,TOR,DET,2,away,DefReb,,,DefReb,,Team,
+132,2,9:31.0,38,31,TOR,DET,9,away,lost ball,steal,,turnover,,J. Calderón,O. Anunoby
+133,2,9:14.0,38,31,TOR,DET,17,home,JS,block,9,miss2,0,M. Richardson,J. Calderón
+134,2,9:14.0,38,31,TOR,DET,0,home,OffReb,,,OffReb,,Team,
+135,2,9:14.0,38,31,TOR,DET,0,away,KickBallViolation,,,KickBallViolation,,Team,
+136,2,9:14.0,38,31,TOR,DET,0,home,Sub,,,,,K. Lowry,M. Richardson
+137,2,9:01.0,40,31,TOR,DET,13,home,JS,,15,make2,2,K. Lowry,
+138,2,8:56.0,40,31,TOR,DET,5,away,Timeout,,,,,,
+139,2,8:56.0,40,31,TOR,DET,0,away,Sub,,,,,B. Griffin,J. Calderón
+140,2,8:42.0,40,31,TOR,DET,14,away,JS,,26,miss3,0,S. Johnson,
+141,2,8:39.0,40,31,TOR,DET,3,home,DefReb,,,DefReb,,O. Anunoby,
+142,2,8:23.0,40,31,TOR,DET,16,home,JS,,26,miss3,0,O. Anunoby,
+143,2,8:20.0,40,31,TOR,DET,3,away,DefReb,,,DefReb,,I. Smith,
+144,2,8:15.0,40,31,TOR,DET,5,away,bad pass,steal,,turnover,,L. Galloway,F. VanVleet
+145,2,8:10.0,40,31,TOR,DET,5,home,LU,,2,miss2,0,O. Anunoby,
+146,2,8:07.0,40,31,TOR,DET,3,home,OffReb,,,OffReb,,O. Anunoby,
+147,2,8:07.0,40,31,TOR,DET,0,home,LU,,1,miss2,0,O. Anunoby,
+148,2,8:07.0,40,31,TOR,DET,0,away,DefReb,,,DefReb,,A. Drummond,
+149,2,7:55.0,40,31,TOR,DET,12,away,bad pass,steal,,turnover,,B. Griffin,G. Monroe
+150,2,7:47.0,40,31,TOR,DET,8,home,JS,,26,miss3,0,D. Wright,
+151,2,7:45.0,40,31,TOR,DET,2,away,DefReb,,,DefReb,,A. Drummond,
+152,2,7:38.0,40,33,TOR,DET,7,away,LU,assist,1,make2,2,B. Griffin,S. Johnson
+153,2,7:12.0,42,33,TOR,DET,26,home,LU,assist,2,make2,2,G. Monroe,K. Lowry
+154,2,7:02.0,42,36,TOR,DET,10,away,JS,assist,25,make3,3,B. Griffin,A. Drummond
+155,2,6:50.0,42,36,TOR,DET,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Smith,G. Monroe
+156,2,6:50.0,42,36,TOR,DET,0,home,Sub,,,,,K. Leonard,O. Anunoby
+157,2,6:50.0,42,36,TOR,DET,0,home,Sub,,,,,P. Siakam,G. Monroe
+158,2,6:50.0,42,36,TOR,DET,0,home,Sub,,,,,J. Valančiūnas,F. VanVleet
+159,2,6:42.0,44,36,TOR,DET,8,home,HS,,4,make2,2,J. Valančiūnas,
+160,2,6:31.0,44,36,TOR,DET,11,away,LU,,3,miss2,0,A. Drummond,
+161,2,6:28.0,44,36,TOR,DET,3,home,DefReb,,,DefReb,,K. Lowry,
+162,2,6:19.0,44,36,TOR,DET,9,home,JS,,24,miss3,0,D. Wright,
+163,2,6:17.0,44,36,TOR,DET,2,home,OffReb,,,OffReb,,K. Lowry,
+164,2,6:17.0,44,36,TOR,DET,0,home,BadPass,,,turnover,,K. Lowry,
+165,2,6:02.0,44,36,TOR,DET,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Siakam,B. Griffin
+166,2,5:55.0,44,39,TOR,DET,7,away,JS,assist,23,make3,3,B. Griffin,I. Smith
+167,2,5:43.0,44,39,TOR,DET,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Galloway,K. Lowry
+168,2,5:34.0,46,39,TOR,DET,9,home,HS,,2,make2,2,J. Valančiūnas,
+169,2,5:20.0,46,39,TOR,DET,14,away,HS,,3,miss2,0,B. Griffin,
+170,2,5:17.0,46,39,TOR,DET,3,home,DefReb,,,DefReb,,K. Leonard,
+171,2,5:12.0,48,39,TOR,DET,5,home,LU,assist,1,make2,2,P. Siakam,K. Leonard
+172,2,5:06.0,48,39,TOR,DET,6,away,Timeout,,,,,,
+173,2,5:06.0,48,39,TOR,DET,0,away,TechnicalFoul,,,TechnicalFoul,,A. Drummond,
+174,2,5:06.0,48,39,TOR,DET,0,home,Sub,,,,,D. Green,D. Wright
+175,2,5:06.0,49,39,TOR,DET,0,home,FreeThrow,,,make1,1,K. Leonard makes technical free throw,
+176,2,5:02.0,49,39,TOR,DET,4,away,D3SecTech,,,,,,
+177,2,5:02.0,49,40,TOR,DET,0,away,FreeThrow,,,make1,1,L. Galloway makes technical free throw,
+178,2,5:00.0,49,40,TOR,DET,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Siakam,B. Griffin
+179,2,4:47.0,49,40,TOR,DET,13,away,JS,,26,miss3,0,S. Johnson,
+180,2,4:43.0,49,40,TOR,DET,4,home,DefReb,,,DefReb,,J. Valančiūnas,
+181,2,4:26.0,49,40,TOR,DET,17,home,Traveling,,,turnover,,J. Valančiūnas,
+182,2,4:26.0,49,40,TOR,DET,0,away,Sub,,,,,R. Bullock,S. Johnson
+183,2,4:12.0,49,42,TOR,DET,14,away,HS,,9,make2,2,B. Griffin,
+184,2,4:04.0,51,42,TOR,DET,8,home,LU,assist,2,make2,2,P. Siakam,K. Lowry
+185,2,3:40.0,51,44,TOR,DET,24,away,JS,,6,make2,2,I. Smith,
+186,2,3:19.0,53,44,TOR,DET,21,home,JS,,13,make2,2,K. Leonard,
+187,2,3:11.0,53,44,TOR,DET,8,away,LU,,2,miss2,0,I. Smith,
+188,2,3:09.0,53,44,TOR,DET,2,home,DefReb,,,DefReb,,K. Leonard,
+189,2,3:05.0,53,44,TOR,DET,4,home,JS,,27,miss3,0,K. Leonard,
+190,2,3:02.0,53,44,TOR,DET,3,home,OffReb,,,OffReb,,P. Siakam,
+191,2,3:02.0,55,44,TOR,DET,0,home,LU,,3,make2,2,P. Siakam,
+192,2,3:02.0,55,44,TOR,DET,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Drummond,P. Siakam
+193,2,3:02.0,55,44,TOR,DET,0,away,Sub,,,,,G. Robinson,L. Galloway
+194,2,3:02.0,55,44,TOR,DET,0,home,FreeThrow,,,make1,0,P. Siakam,
+195,2,3:02.0,55,44,TOR,DET,0,away,DefReb,,,DefReb,,A. Drummond,
+196,2,2:47.0,55,44,TOR,DET,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Lowry,G. Robinson
+197,2,2:47.0,55,45,TOR,DET,0,away,FreeThrow,,,make1,1,G. Robinson,
+198,2,2:47.0,55,45,TOR,DET,0,away,Sub,,,,,R. Jackson,I. Smith
+199,2,2:47.0,55,46,TOR,DET,0,away,FreeThrow,,,make1,1,G. Robinson,
+200,2,2:39.0,55,46,TOR,DET,8,home,JS,,15,miss2,0,K. Lowry,
+201,2,2:37.0,55,46,TOR,DET,2,away,DefReb,,,DefReb,,A. Drummond,
+202,2,2:26.0,55,48,TOR,DET,11,away,HS,,2,make2,2,B. Griffin,
+203,2,2:15.0,55,48,TOR,DET,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jackson,J. Valančiūnas
+204,2,2:15.0,56,48,TOR,DET,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+205,2,2:15.0,56,48,TOR,DET,0,home,Sub,,,,,O. Anunoby,P. Siakam
+206,2,2:15.0,57,48,TOR,DET,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+207,2,2:03.0,57,48,TOR,DET,12,away,Traveling,,,turnover,,B. Griffin,
+208,2,2:03.0,57,48,TOR,DET,0,home,Sub,,,,,G. Monroe,J. Valančiūnas
+209,2,1:47.0,57,48,TOR,DET,16,home,JS,,24,miss3,0,O. Anunoby,
+210,2,1:44.0,57,48,TOR,DET,3,away,DefReb,,,DefReb,,A. Drummond,
+211,2,1:31.0,57,48,TOR,DET,13,away,HS,,4,miss2,0,A. Drummond,
+212,2,1:28.0,57,48,TOR,DET,3,home,DefReb,,,DefReb,,G. Monroe,
+213,2,1:24.0,57,48,TOR,DET,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,K. Lowry
+214,2,1:24.0,58,48,TOR,DET,0,home,FreeThrow,,,make1,1,K. Lowry,
+215,2,1:24.0,58,48,TOR,DET,0,home,FreeThrow,,,make1,0,K. Lowry,
+216,2,1:22.0,58,48,TOR,DET,2,away,DefReb,,,DefReb,,A. Drummond,
+217,2,1:16.0,58,48,TOR,DET,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Anunoby,B. Griffin
+218,2,1:16.0,58,49,TOR,DET,0,away,FreeThrow,,,make1,1,B. Griffin,
+219,2,1:16.0,58,49,TOR,DET,0,away,FreeThrow,,,make1,0,B. Griffin,
+220,2,1:11.0,58,49,TOR,DET,5,home,DefReb,,,DefReb,,D. Green,
+221,2,1:08.0,60,49,TOR,DET,3,home,DK,assist,1,make2,2,K. Leonard,D. Green
+222,2,1:00.0,60,49,TOR,DET,8,away,JS,,16,miss2,0,R. Jackson,
+223,2,0:57.0,60,49,TOR,DET,3,away,OffReb,,,OffReb,,A. Drummond,
+224,2,0:57.0,60,51,TOR,DET,0,away,LU,,0,make2,2,A. Drummond,
+225,2,0:39.0,62,51,TOR,DET,18,home,JS,assist,9,make2,2,D. Green,O. Anunoby
+226,2,0:32.0,62,53,TOR,DET,7,away,HS,assist,2,make2,2,A. Drummond,R. Jackson
+227,2,0:29.0,65,53,TOR,DET,3,home,JS,,26,make3,3,K. Lowry,
+228,2,0:15.0,65,53,TOR,DET,14,away,lost ball,steal,,turnover,,R. Jackson,K. Leonard
+229,2,0:10.0,65,53,TOR,DET,5,home,DK,block,2,miss2,0,K. Leonard,B. Griffin
+230,2,0:10.0,65,53,TOR,DET,0,home,OffReb,,,OffReb,,Team,
+231,2,0:00.0,65,53,TOR,DET,10,home,bad pass,steal,,turnover,,K. Lowry,B. Griffin
+232,3,11:46.0,65,53,TOR,DET,14,home,JS,,20,miss2,0,K. Leonard,
+233,3,11:43.0,65,53,TOR,DET,3,away,DefReb,,,DefReb,,B. Griffin,
+234,3,11:32.0,65,53,TOR,DET,11,away,HS,,8,miss2,0,A. Drummond,
+235,3,11:30.0,65,53,TOR,DET,2,home,DefReb,,,DefReb,,K. Leonard,
+236,3,11:19.0,68,53,TOR,DET,11,home,JS,assist,26,make3,3,D. Green,K. Lowry
+237,3,10:59.0,68,53,TOR,DET,20,away,JS,,26,miss3,0,R. Bullock,
+238,3,10:57.0,68,53,TOR,DET,2,home,DefReb,,,DefReb,,D. Green,
+239,3,10:49.0,70,53,TOR,DET,8,home,LU,,1,make2,2,K. Lowry,
+240,3,10:24.0,70,53,TOR,DET,25,away,JS,,28,miss3,0,B. Griffin,
+241,3,10:22.0,70,53,TOR,DET,2,home,DefReb,,,DefReb,,J. Valančiūnas,
+242,3,10:14.0,70,53,TOR,DET,8,home,bad pass,steal,,turnover,,K. Lowry,R. Bullock
+243,3,9:57.0,70,53,TOR,DET,17,away,JS,,26,miss3,0,R. Jackson,
+244,3,9:55.0,70,53,TOR,DET,2,home,DefReb,,,DefReb,,P. Siakam,
+245,3,9:44.0,70,53,TOR,DET,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jackson,K. Lowry
+246,3,9:35.0,70,53,TOR,DET,9,home,JS,,8,miss2,0,J. Valančiūnas,
+247,3,9:32.0,70,53,TOR,DET,3,away,DefReb,,,DefReb,,B. Griffin,
+248,3,9:25.0,70,53,TOR,DET,7,away,JS,,16,miss2,0,R. Bullock,
+249,3,9:24.0,70,53,TOR,DET,1,away,OffReb,,,OffReb,,Team,
+250,3,9:24.0,70,53,TOR,DET,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,P. Siakam,A. Drummond
+251,3,9:22.0,70,53,TOR,DET,2,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Bullock,K. Leonard
+252,3,9:22.0,70,53,TOR,DET,0,away,OffensiveFoul,,,turnover,,R. Bullock,
+253,3,9:01.0,70,53,TOR,DET,21,home,JS,,5,miss2,0,P. Siakam,
+254,3,8:59.0,70,53,TOR,DET,2,away,DefReb,,,DefReb,,B. Griffin,
+255,3,8:51.0,70,55,TOR,DET,8,away,LU,,2,make2,2,B. Griffin,
+256,3,8:34.0,70,55,TOR,DET,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Bullock,K. Leonard
+257,3,8:34.0,70,55,TOR,DET,0,home,FreeThrow,,,make1,0,K. Leonard,
+258,3,8:34.0,70,55,TOR,DET,0,home,OffReb,,,OffReb,,Team,
+259,3,8:34.0,71,55,TOR,DET,0,home,FreeThrow,,,make1,1,K. Leonard,
+260,3,8:13.0,71,57,TOR,DET,21,away,JS,,21,make2,2,B. Griffin,
+261,3,8:01.0,73,57,TOR,DET,12,home,HS,,4,make2,2,P. Siakam,
+262,3,7:35.0,73,57,TOR,DET,26,away,JS,,11,miss2,0,A. Drummond,
+263,3,7:33.0,73,57,TOR,DET,2,home,DefReb,,,DefReb,,K. Lowry,
+264,3,7:30.0,73,57,TOR,DET,3,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,P. Siakam,B. Griffin
+265,3,7:30.0,73,57,TOR,DET,0,home,OffensiveFoul,,,turnover,,P. Siakam,
+266,3,7:30.0,73,57,TOR,DET,0,home,Sub,,,,,F. VanVleet,D. Green
+267,3,7:17.0,73,57,TOR,DET,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Valančiūnas,A. Drummond
+268,3,7:17.0,73,58,TOR,DET,0,away,FreeThrow,,,make1,1,A. Drummond,
+269,3,7:17.0,73,58,TOR,DET,0,away,Sub,,,,,L. Galloway,G. Robinson
+270,3,7:17.0,73,58,TOR,DET,0,home,Sub,,,,,O. Anunoby,P. Siakam
+271,3,7:17.0,73,58,TOR,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+272,3,7:15.0,73,58,TOR,DET,2,home,DefReb,,,DefReb,,J. Valančiūnas,
+273,3,6:52.0,73,58,TOR,DET,23,home,JS,,24,miss3,0,F. VanVleet,
+274,3,6:48.0,73,58,TOR,DET,4,home,OffReb,,,OffReb,,J. Valančiūnas,
+275,3,6:48.0,75,58,TOR,DET,0,home,LU,,0,make2,2,J. Valančiūnas,
+276,3,6:40.0,75,58,TOR,DET,8,away,LU,,2,miss2,0,A. Drummond,
+277,3,6:37.0,75,58,TOR,DET,3,away,OffReb,,,OffReb,,A. Drummond,
+278,3,6:36.0,75,60,TOR,DET,1,away,JS,,2,make2,2,A. Drummond,
+279,3,6:23.0,77,60,TOR,DET,13,home,HS,assist,6,make2,2,J. Valančiūnas,K. Lowry
+280,3,6:10.0,77,60,TOR,DET,13,away,JS,,26,miss3,0,R. Bullock,
+281,3,6:09.0,77,60,TOR,DET,1,home,DefReb,,,DefReb,,Team,
+282,3,6:09.0,77,60,TOR,DET,0,home,Timeout,,,,,,
+283,3,5:58.0,79,60,TOR,DET,11,home,JS,,18,make2,2,K. Leonard,
+284,3,5:46.0,79,60,TOR,DET,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Valančiūnas,A. Drummond
+285,3,5:46.0,79,60,TOR,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+286,3,5:46.0,79,60,TOR,DET,0,away,OffReb,,,OffReb,,Team,
+287,3,5:46.0,79,60,TOR,DET,0,home,Sub,,,,,G. Monroe,J. Valančiūnas
+288,3,5:46.0,79,60,TOR,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+289,3,5:45.0,79,60,TOR,DET,1,home,DefReb,,,DefReb,,K. Leonard,
+290,3,5:29.0,79,60,TOR,DET,16,home,JS,,18,miss2,0,K. Leonard,
+291,3,5:26.0,79,60,TOR,DET,3,away,DefReb,,,DefReb,,B. Griffin,
+292,3,5:19.0,79,62,TOR,DET,7,away,LU,assist,5,make2,2,L. Galloway,R. Jackson
+293,3,5:12.0,79,62,TOR,DET,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Galloway,K. Lowry
+294,3,5:07.0,79,62,TOR,DET,5,home,OutOfBoundsLB,,,turnover,,K. Leonard,
+295,3,4:53.0,79,64,TOR,DET,14,away,JS,assist,18,make2,2,L. Galloway,B. Griffin
+296,3,4:24.0,79,64,TOR,DET,29,home,JS,block,16,miss2,0,F. VanVleet,A. Drummond
+297,3,4:21.0,79,64,TOR,DET,3,away,DefReb,,,DefReb,,R. Jackson,
+298,3,4:17.0,79,64,TOR,DET,4,away,JS,,23,miss3,0,R. Bullock,
+299,3,4:15.0,79,64,TOR,DET,2,home,DefReb,,,DefReb,,G. Monroe,
+300,3,4:10.0,81,64,TOR,DET,5,home,LU,,1,make2,2,F. VanVleet,
+301,3,3:57.0,81,66,TOR,DET,13,away,JS,assist,4,make2,2,B. Griffin,R. Jackson
+302,3,3:47.0,83,66,TOR,DET,10,home,LU,assist,2,make2,2,G. Monroe,K. Leonard
+303,3,3:47.0,83,66,TOR,DET,0,away,Timeout,,,,,,
+304,3,3:47.0,83,66,TOR,DET,0,away,Sub,,,,,J. Leuer,A. Drummond
+305,3,3:47.0,83,66,TOR,DET,0,away,Sub,,,,,I. Smith,R. Jackson
+306,3,3:35.0,83,66,TOR,DET,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Leuer,K. Lowry
+307,3,3:35.0,83,66,TOR,DET,0,away,OffensiveFoul,,,turnover,,J. Leuer,
+308,3,3:16.0,83,66,TOR,DET,19,home,JS,,13,miss2,0,K. Leonard,
+309,3,3:13.0,83,66,TOR,DET,3,home,OffReb,,,OffReb,,G. Monroe,
+310,3,3:13.0,85,66,TOR,DET,0,home,HS,,3,make2,2,G. Monroe,
+311,3,3:04.0,85,68,TOR,DET,9,away,LU,,4,make2,2,I. Smith,
+312,3,2:53.0,85,68,TOR,DET,11,home,LU,,2,miss2,0,G. Monroe,
+313,3,2:51.0,85,68,TOR,DET,2,away,DefReb,,,DefReb,,L. Galloway,
+314,3,2:31.0,85,70,TOR,DET,20,away,JS,,15,make2,2,I. Smith,
+315,3,2:14.0,85,70,TOR,DET,17,home,JS,,23,miss3,0,O. Anunoby,
+316,3,2:10.0,85,70,TOR,DET,4,away,DefReb,,,DefReb,,J. Leuer,
+317,3,2:01.0,85,73,TOR,DET,9,away,JS,assist,23,make3,3,R. Bullock,I. Smith
+318,3,2:01.0,85,73,TOR,DET,0,home,Timeout,,,,,,
+319,3,2:01.0,85,73,TOR,DET,0,home,Sub,,,,,M. Richardson,K. Leonard
+320,3,2:01.0,85,73,TOR,DET,0,home,Sub,,,,,D. Wright,K. Lowry
+321,3,1:47.0,87,73,TOR,DET,14,home,DK,assist,0,make2,2,O. Anunoby,F. VanVleet
+322,3,1:31.0,87,75,TOR,DET,16,away,LU,assist,1,make2,2,B. Griffin,J. Leuer
+323,3,1:21.0,87,75,TOR,DET,10,home,lost ball,steal,,turnover,,G. Monroe,B. Griffin
+324,3,1:14.0,87,75,TOR,DET,7,away,lost ball,steal,,turnover,,B. Griffin,O. Anunoby
+325,3,1:09.0,87,75,TOR,DET,5,home,JS,,26,miss3,0,M. Richardson,
+326,3,1:06.0,87,75,TOR,DET,3,away,DefReb,,,DefReb,,L. Galloway,
+327,3,0:59.0,87,75,TOR,DET,7,away,JS,,27,miss3,0,B. Griffin,
+328,3,0:57.0,87,75,TOR,DET,2,away,OffReb,,,OffReb,,B. Griffin,
+329,3,0:56.0,87,75,TOR,DET,1,away,bad pass,steal,,turnover,,B. Griffin,D. Wright
+330,3,0:55.0,87,75,TOR,DET,1,home,bad pass,steal,,turnover,,D. Wright,J. Leuer
+331,3,0:53.0,87,77,TOR,DET,2,away,LU,,1,make2,2,J. Leuer,
+332,3,0:32.0,87,77,TOR,DET,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Smith,G. Monroe
+333,3,0:32.0,87,77,TOR,DET,0,home,FreeThrow,,,make1,0,G. Monroe,
+334,3,0:32.0,87,77,TOR,DET,0,home,OffReb,,,OffReb,,Team,
+335,3,0:32.0,88,77,TOR,DET,0,home,FreeThrow,,,make1,1,G. Monroe,
+336,3,0:20.0,88,77,TOR,DET,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Anunoby,I. Smith
+337,3,0:14.0,88,77,TOR,DET,6,away,JS,,23,miss3,0,J. Leuer,
+338,3,0:11.0,88,77,TOR,DET,3,home,DefReb,,,DefReb,,D. Wright,
+339,3,0:00.0,88,77,TOR,DET,11,home,JS,,23,miss3,0,O. Anunoby,
+340,3,0:00.0,88,77,TOR,DET,0,home,OffReb,,,OffReb,,Team,
+341,4,11:49.0,88,77,TOR,DET,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Richardson,R. Bullock
+342,4,11:42.0,88,79,TOR,DET,7,away,JS,,12,make2,2,I. Smith,
+343,4,11:28.0,88,79,TOR,DET,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Johnson,O. Anunoby
+344,4,11:22.0,90,79,TOR,DET,6,home,JS,assist,20,make2,2,F. VanVleet,D. Wright
+345,4,11:12.0,90,79,TOR,DET,10,away,LU,,3,miss2,0,I. Smith,
+346,4,11:09.0,90,79,TOR,DET,3,away,OffReb,,,OffReb,,J. Leuer,
+347,4,11:09.0,90,81,TOR,DET,0,away,LU,,1,make2,2,J. Leuer,
+348,4,10:57.0,90,81,TOR,DET,12,home,BadPass,,,turnover,,G. Monroe,
+349,4,10:45.0,90,81,TOR,DET,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Leuer,F. VanVleet
+350,4,10:45.0,90,81,TOR,DET,0,away,OffensiveFoul,,,turnover,,J. Leuer,
+351,4,10:34.0,90,81,TOR,DET,11,home,LU,block,1,miss2,0,F. VanVleet,I. Smith
+352,4,10:32.0,90,81,TOR,DET,2,away,DefReb,,,DefReb,,J. Leuer,
+353,4,10:29.0,90,81,TOR,DET,3,away,JS,,23,miss3,0,L. Galloway,
+354,4,10:26.0,90,81,TOR,DET,3,home,DefReb,,,DefReb,,M. Richardson,
+355,4,10:18.0,90,81,TOR,DET,8,home,OutOfBoundsLB,,,turnover,,M. Richardson,
+356,4,10:03.0,90,81,TOR,DET,15,away,JS,block,24,miss3,0,I. Smith,O. Anunoby
+357,4,10:00.0,90,81,TOR,DET,3,home,DefReb,,,DefReb,,G. Monroe,
+358,4,9:54.0,90,81,TOR,DET,6,home,JS,,23,miss3,0,D. Wright,
+359,4,9:51.0,90,81,TOR,DET,3,away,DefReb,,,DefReb,,J. Leuer,
+360,4,9:51.0,90,81,TOR,DET,0,away,Sub,,,,,R. Jackson,I. Smith
+361,4,9:51.0,90,81,TOR,DET,0,home,Sub,,,,,K. Lowry,O. Anunoby
+362,4,9:51.0,90,81,TOR,DET,0,home,Sub,,,,,P. Siakam,M. Richardson
+363,4,9:37.0,90,81,TOR,DET,14,away,bad pass,steal,,turnover,,L. Galloway,P. Siakam
+364,4,9:31.0,92,81,TOR,DET,6,home,LU,assist,2,make2,2,G. Monroe,D. Wright
+365,4,9:20.0,92,83,TOR,DET,11,away,LU,assist,1,make2,2,S. Johnson,R. Jackson
+366,4,9:10.0,92,83,TOR,DET,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Leuer,P. Siakam
+367,4,9:10.0,92,83,TOR,DET,0,away,Sub,,,,,A. Drummond,R. Bullock
+368,4,9:10.0,92,83,TOR,DET,0,away,Sub,,,,,B. Griffin,J. Leuer
+369,4,9:03.0,92,83,TOR,DET,7,home,JS,,26,miss3,0,K. Lowry,
+370,4,9:01.0,92,83,TOR,DET,2,away,DefReb,,,DefReb,,B. Griffin,
+371,4,8:50.0,92,86,TOR,DET,11,away,JS,assist,28,make3,3,L. Galloway,B. Griffin
+372,4,8:25.0,92,86,TOR,DET,25,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Griffin,P. Siakam
+373,4,8:25.0,92,86,TOR,DET,0,home,Sub,,,,,K. Leonard,G. Monroe
+374,4,8:25.0,92,86,TOR,DET,0,home,Sub,,,,,J. Valančiūnas,D. Wright
+375,4,8:12.0,92,86,TOR,DET,13,home,JS,,7,miss2,0,J. Valančiūnas,
+376,4,8:09.0,92,86,TOR,DET,3,away,DefReb,,,DefReb,,B. Griffin,
+377,4,7:57.0,92,88,TOR,DET,12,away,JS,assist,13,make2,2,R. Jackson,A. Drummond
+378,4,7:55.0,92,88,TOR,DET,2,home,Timeout,,,,,,
+379,4,7:38.0,92,88,TOR,DET,17,home,JS,,3,miss2,0,K. Leonard,
+380,4,7:37.0,92,88,TOR,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+381,4,7:22.0,92,88,TOR,DET,15,away,HS,block,6,miss2,0,A. Drummond,J. Valančiūnas
+382,4,7:22.0,92,88,TOR,DET,0,away,OffReb,,,OffReb,,Team,
+383,4,7:20.0,92,88,TOR,DET,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,F. VanVleet,A. Drummond
+384,4,7:06.0,92,88,TOR,DET,14,away,JS,,63,miss3,0,B. Griffin,
+385,4,7:06.0,92,88,TOR,DET,0,away,OffReb,,,OffReb,,Team,
+386,4,7:06.0,92,88,TOR,DET,0,away,ShotClockViolation,,,turnover,,Team,
+387,4,6:59.0,95,88,TOR,DET,7,home,JS,assist,23,make3,3,P. Siakam,F. VanVleet
+388,4,6:44.0,95,90,TOR,DET,15,away,JS,,13,make2,2,R. Jackson,
+389,4,6:35.0,95,90,TOR,DET,9,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Leonard,S. Johnson
+390,4,6:35.0,95,90,TOR,DET,0,home,OffensiveFoul,,,turnover,,K. Leonard,
+391,4,6:17.0,95,93,TOR,DET,18,away,JS,assist,23,make3,3,S. Johnson,L. Galloway
+392,4,6:14.0,95,93,TOR,DET,3,home,BadPass,,,turnover,,J. Valančiūnas,
+393,4,6:08.0,95,93,TOR,DET,6,away,JS,,27,miss3,0,B. Griffin,
+394,4,6:05.0,95,93,TOR,DET,3,home,DefReb,,,DefReb,,P. Siakam,
+395,4,5:55.0,95,93,TOR,DET,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Johnson,J. Valančiūnas
+396,4,5:48.0,97,93,TOR,DET,7,home,LU,assist,2,make2,2,K. Leonard,K. Lowry
+397,4,5:32.0,97,96,TOR,DET,16,away,JS,assist,23,make3,3,S. Johnson,R. Jackson
+398,4,5:23.0,97,96,TOR,DET,9,home,lost ball,steal,,turnover,,K. Leonard,S. Johnson
+399,4,5:20.0,97,96,TOR,DET,3,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Drummond,K. Lowry
+400,4,5:20.0,97,96,TOR,DET,0,away,OffensiveFoul,,,turnover,,A. Drummond,
+401,4,5:12.0,97,96,TOR,DET,8,home,LU,block,3,miss2,0,J. Valančiūnas,B. Griffin
+402,4,5:12.0,97,96,TOR,DET,0,away,DefReb,,,DefReb,,Team,
+403,4,4:54.0,97,98,TOR,DET,18,away,JS,,11,make2,2,R. Jackson,
+404,4,4:42.0,97,98,TOR,DET,12,home,JS,,26,miss3,0,K. Lowry,
+405,4,4:42.0,97,98,TOR,DET,0,away,DefReb,,,DefReb,,B. Griffin,
+406,4,4:29.0,97,100,TOR,DET,13,away,LU,,2,make2,2,R. Jackson,
+407,4,4:29.0,97,100,TOR,DET,0,home,Timeout,,,,,,
+408,4,4:29.0,97,100,TOR,DET,0,home,Sub,,,,,O. Anunoby,F. VanVleet
+409,4,4:20.0,97,100,TOR,DET,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Galloway,O. Anunoby
+410,4,4:20.0,97,100,TOR,DET,0,home,FreeThrow,,,make1,0,O. Anunoby,
+411,4,4:20.0,97,100,TOR,DET,0,home,OffReb,,,OffReb,,Team,
+412,4,4:20.0,97,100,TOR,DET,0,home,FreeThrow,,,make1,0,O. Anunoby,
+413,4,4:18.0,97,100,TOR,DET,2,away,DefReb,,,DefReb,,B. Griffin,
+414,4,4:07.0,97,100,TOR,DET,11,away,JS,,12,miss2,0,R. Jackson,
+415,4,4:04.0,97,100,TOR,DET,3,home,DefReb,,,DefReb,,J. Valančiūnas,
+416,4,3:47.0,97,100,TOR,DET,17,home,lost ball,steal,,turnover,,K. Leonard,S. Johnson
+417,4,3:31.0,97,100,TOR,DET,16,away,Traveling,,,turnover,,R. Jackson,
+418,4,3:19.0,99,100,TOR,DET,12,home,LU,,2,make2,2,K. Leonard,
+419,4,3:19.0,99,100,TOR,DET,0,away,Timeout,,,,,,
+420,4,3:03.0,99,100,TOR,DET,16,away,JS,,27,miss3,0,R. Jackson,
+421,4,3:01.0,99,100,TOR,DET,2,home,DefReb,,,DefReb,,K. Lowry,
+422,4,3:00.0,99,100,TOR,DET,1,away,ClearPathFoul,,,ClearPathFoul,,K. Leonard,
+423,4,3:00.0,99,100,TOR,DET,0,home,FreeThrow,,,make1,0,K. Leonard misses clear path free throw 1 of 2,
+424,4,3:00.0,99,100,TOR,DET,0,home,OffReb,,,OffReb,,Team,
+425,4,3:00.0,100,100,TOR,DET,0,home,FreeThrow,,,make1,1,K. Leonard makes clear path free throw 2 of 2,
+426,4,2:52.0,100,100,TOR,DET,8,home,Traveling,,,turnover,,K. Leonard,
+427,4,2:36.0,100,100,TOR,DET,16,away,LU,,5,miss2,0,R. Jackson,
+428,4,2:32.0,100,100,TOR,DET,4,away,OffReb,,,OffReb,,A. Drummond,
+429,4,2:32.0,100,102,TOR,DET,0,away,DK,,1,make2,2,A. Drummond,
+430,4,2:25.0,100,102,TOR,DET,7,home,JS,,10,miss2,0,K. Leonard,
+431,4,2:22.0,100,102,TOR,DET,3,away,DefReb,,,DefReb,,B. Griffin,
+432,4,2:01.0,100,104,TOR,DET,21,away,JS,,12,make2,2,B. Griffin,
+433,4,1:42.0,100,104,TOR,DET,19,home,JS,,16,miss2,0,K. Lowry,
+434,4,1:36.0,100,104,TOR,DET,6,home,OffReb,,,OffReb,,J. Valančiūnas,
+435,4,1:36.0,100,104,TOR,DET,0,home,LU,,0,miss2,0,J. Valančiūnas,
+436,4,1:36.0,100,104,TOR,DET,0,away,DefReb,,,DefReb,,S. Johnson,
+437,4,1:15.0,100,104,TOR,DET,21,away,JS,,23,miss2,0,B. Griffin,
+438,4,1:13.0,100,104,TOR,DET,2,home,DefReb,,,DefReb,,P. Siakam,
+439,4,1:06.0,102,104,TOR,DET,7,home,LU,,1,make2,2,K. Lowry,
+440,4,0:55.0,102,104,TOR,DET,11,away,Timeout,,,,,,
+441,4,0:49.0,102,104,TOR,DET,6,away,JS,,3,miss2,0,R. Jackson,
+442,4,0:48.0,102,104,TOR,DET,1,home,DefReb,,,DefReb,,Team,
+443,4,0:38.0,104,104,TOR,DET,10,home,JS,,11,make2,2,K. Leonard,
+444,4,0:23.0,104,104,TOR,DET,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Leonard,B. Griffin
+445,4,0:11.0,104,104,TOR,DET,12,away,JS,,7,miss2,0,B. Griffin,
+446,4,0:10.0,104,104,TOR,DET,1,home,DefReb,,,DefReb,,K. Lowry,
+447,4,0:10.0,104,104,TOR,DET,0,home,Timeout,,,,,,
+448,4,0:10.0,104,104,TOR,DET,0,away,Sub,,,,,R. Bullock,R. Jackson
+449,4,0:02.0,104,104,TOR,DET,8,home,OutOfBoundsLB,,,turnover,,K. Leonard,
+450,4,0:02.0,104,104,TOR,DET,0,away,Timeout,,,,,,
+451,4,0:02.0,104,104,TOR,DET,0,away,Sub,,,,,J. Calderón,A. Drummond
+452,4,0:02.0,104,104,TOR,DET,0,away,Sub,,,,,R. Jackson,L. Galloway
+453,4,0:02.0,104,104,TOR,DET,0,away,Sub,,,,,G. Robinson,S. Johnson
+454,4,0:02.0,104,104,TOR,DET,0,home,Sub,,,,,F. VanVleet,J. Valančiūnas
+455,4,0:01.0,104,104,TOR,DET,1,away,LU,block,2,miss2,0,G. Robinson,P. Siakam
+456,4,0:01.0,104,104,TOR,DET,0,away,OffReb,,,OffReb,,Team,
+457,4,0:01.0,104,104,TOR,DET,0,away,Sub,,,,,A. Drummond,G. Robinson
+458,4,0:01.0,104,104,TOR,DET,0,home,Sub,,,,,J. Valančiūnas,F. VanVleet
+459,4,0:00.0,104,106,TOR,DET,1,away,JS,assist,5,make2,2,R. Bullock,J. Calderón

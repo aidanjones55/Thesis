@@ -1,0 +1,463 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:40.0,0,0,NYK,IND,20,home,InboundFoul,,,InboundFoul,,G. Hill,
+1,1,11:40.0,1,0,NYK,IND,0,home,FreeThrow,,,make1,1,J. Grant,
+2,1,11:40.0,1,0,NYK,IND,0,home,FreeThrow,,,make1,0,J. Grant,
+3,1,11:39.0,1,0,NYK,IND,1,away,DefReb,,,DefReb,,L. Allen,
+4,1,11:17.0,1,0,NYK,IND,22,away,BadPass,steal,,turnover,,L. Allen,J. Grant
+5,1,11:11.0,1,0,NYK,IND,6,home,JS,,24,miss3,0,S. Vujačić,
+6,1,11:10.0,1,0,NYK,IND,1,away,DefReb,,,DefReb,,P. George,
+7,1,11:04.0,1,0,NYK,IND,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Vujačić,I. Mahinmi
+8,1,11:04.0,1,0,NYK,IND,0,away,FreeThrow,,,make1,0,I. Mahinmi,
+9,1,11:04.0,1,0,NYK,IND,0,away,OffReb,,,OffReb,,Team,
+10,1,11:04.0,1,1,NYK,IND,0,away,FreeThrow,,,make1,1,I. Mahinmi,
+11,1,10:50.0,1,1,NYK,IND,14,home,LU,,1,miss2,0,S. Vujačić,
+12,1,10:49.0,1,1,NYK,IND,1,away,DefReb,,,DefReb,,L. Allen,
+13,1,10:42.0,1,1,NYK,IND,7,away,JS,,21,miss2,0,L. Allen,
+14,1,10:41.0,1,1,NYK,IND,1,home,DefReb,,,DefReb,,R. Lopez,
+15,1,10:30.0,3,1,NYK,IND,11,home,LU,,1,make2,2,J. Grant,
+16,1,10:17.0,3,3,NYK,IND,13,away,JS,assist,13,make2,2,P. George,I. Mahinmi
+17,1,9:54.0,6,3,NYK,IND,23,home,JS,assist,23,make3,3,D. Williams,J. Grant
+18,1,9:43.0,6,3,NYK,IND,11,away,LU,block,1,miss2,0,I. Mahinmi,R. Lopez
+19,1,9:42.0,6,3,NYK,IND,1,home,DefReb,,,DefReb,,S. Vujačić,
+20,1,9:37.0,6,3,NYK,IND,5,home,JS,,16,miss2,0,S. Vujačić,
+21,1,9:36.0,6,3,NYK,IND,1,away,DefReb,,,DefReb,,I. Mahinmi,
+22,1,9:28.0,6,3,NYK,IND,8,away,LostBall,steal,,turnover,,G. Hill,S. Vujačić
+23,1,9:19.0,6,3,NYK,IND,9,home,JS,,15,miss2,0,R. Lopez,
+24,1,9:18.0,6,3,NYK,IND,1,away,DefReb,,,DefReb,,M. Ellis,
+25,1,9:11.0,6,3,NYK,IND,7,away,JS,,26,miss3,0,P. George,
+26,1,9:10.0,6,3,NYK,IND,1,home,DefReb,,,DefReb,,Team,
+27,1,8:55.0,6,3,NYK,IND,15,home,JS,block,4,miss2,0,C. Early,P. George
+28,1,8:54.0,6,3,NYK,IND,1,away,DefReb,,,DefReb,,L. Allen,
+29,1,8:41.0,6,3,NYK,IND,13,away,JS,,18,miss2,0,P. George,
+30,1,8:40.0,6,3,NYK,IND,1,home,DefReb,,,DefReb,,D. Williams,
+31,1,8:24.0,6,3,NYK,IND,16,home,JS,,24,miss3,0,D. Williams,
+32,1,8:23.0,6,3,NYK,IND,1,away,DefReb,,,DefReb,,I. Mahinmi,
+33,1,8:15.0,6,3,NYK,IND,8,home,KickBallViolation,,,KickBallViolation,,C. Early,
+34,1,8:06.0,6,6,NYK,IND,9,away,JS,assist,24,make3,3,G. Hill,L. Allen
+35,1,7:43.0,6,6,NYK,IND,23,home,JS,,5,miss2,0,J. Grant,
+36,1,7:42.0,6,6,NYK,IND,1,home,OffReb,,,OffReb,,R. Lopez,
+37,1,7:42.0,6,6,NYK,IND,0,home,LU,,2,miss2,0,R. Lopez,
+38,1,7:41.0,6,6,NYK,IND,1,home,OffReb,,,OffReb,,R. Lopez,
+39,1,7:41.0,6,6,NYK,IND,0,home,LU,,2,miss2,0,R. Lopez,
+40,1,7:40.0,6,6,NYK,IND,1,home,OffReb,,,OffReb,,R. Lopez,
+41,1,7:40.0,6,6,NYK,IND,0,home,LU,,2,miss2,0,R. Lopez,
+42,1,7:39.0,6,6,NYK,IND,1,home,OffReb,,,OffReb,,S. Vujačić,
+43,1,7:25.0,8,6,NYK,IND,14,home,LU,assist,1,make2,2,D. Williams,J. Grant
+44,1,7:10.0,8,6,NYK,IND,15,away,JS,,24,miss3,0,M. Ellis,
+45,1,7:09.0,8,6,NYK,IND,1,home,DefReb,,,DefReb,,Team,
+46,1,6:54.0,11,6,NYK,IND,15,home,JS,assist,24,make3,3,S. Vujačić,D. Williams
+47,1,6:39.0,11,8,NYK,IND,15,away,JS,,3,make2,2,M. Ellis,
+48,1,6:25.0,11,8,NYK,IND,14,home,JS,,24,miss3,0,C. Early,
+49,1,6:24.0,11,8,NYK,IND,1,home,OffReb,,,OffReb,,J. Grant,
+50,1,6:20.0,11,8,NYK,IND,4,home,JS,,25,miss3,0,S. Vujačić,
+51,1,6:19.0,11,8,NYK,IND,1,away,DefReb,,,DefReb,,P. George,
+52,1,6:10.0,11,10,NYK,IND,9,away,LU,assist,0,make2,2,I. Mahinmi,P. George
+53,1,5:54.0,11,10,NYK,IND,16,home,JS,,17,miss2,0,D. Williams,
+54,1,5:53.0,11,10,NYK,IND,1,away,DefReb,,,DefReb,,P. George,
+55,1,5:42.0,11,10,NYK,IND,11,away,JS,,10,miss2,0,L. Allen,
+56,1,5:41.0,11,10,NYK,IND,1,home,DefReb,,,DefReb,,D. Williams,
+57,1,5:29.0,11,10,NYK,IND,12,home,BadPass,steal,,turnover,,S. Vujačić,G. Hill
+58,1,5:24.0,11,10,NYK,IND,5,away,JS,block,3,miss2,0,P. George,R. Lopez
+59,1,5:23.0,11,10,NYK,IND,1,home,DefReb,,,DefReb,,R. Lopez,
+60,1,5:19.0,11,10,NYK,IND,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Allen,D. Williams
+61,1,5:19.0,11,10,NYK,IND,0,home,Timeout,,,,,,
+62,1,5:19.0,11,10,NYK,IND,0,away,Sub,,,,,M. Turner,L. Allen
+63,1,5:19.0,11,10,NYK,IND,0,home,FreeThrow,,,make1,0,D. Williams,
+64,1,5:19.0,11,10,NYK,IND,0,home,OffReb,,,OffReb,,Team,
+65,1,5:19.0,12,10,NYK,IND,0,home,FreeThrow,,,make1,1,D. Williams,
+66,1,4:57.0,12,10,NYK,IND,22,away,JS,,24,miss3,0,G. Hill,
+67,1,4:56.0,12,10,NYK,IND,1,home,DefReb,,,DefReb,,R. Lopez,
+68,1,4:33.0,12,10,NYK,IND,23,home,JS,,23,miss3,0,C. Early,
+69,1,4:32.0,12,10,NYK,IND,1,away,DefReb,,,DefReb,,M. Ellis,
+70,1,4:25.0,12,10,NYK,IND,7,away,LU,,2,miss2,0,M. Ellis,
+71,1,4:24.0,12,10,NYK,IND,1,home,DefReb,,,DefReb,,D. Williams,
+72,1,4:18.0,15,10,NYK,IND,6,home,JS,assist,25,make3,3,S. Vujačić,D. Williams
+73,1,4:02.0,15,12,NYK,IND,16,away,JS,,19,make2,2,P. George,
+74,1,3:35.0,15,12,NYK,IND,27,home,JS,,25,miss3,0,D. Williams,
+75,1,3:34.0,15,12,NYK,IND,1,away,DefReb,,,DefReb,,I. Mahinmi,
+76,1,3:21.0,15,12,NYK,IND,13,away,JS,,4,miss2,0,M. Turner,
+77,1,3:20.0,15,12,NYK,IND,1,home,DefReb,,,DefReb,,J. Grant,
+78,1,3:05.0,18,12,NYK,IND,15,home,JS,,24,make3,3,J. Grant,
+79,1,2:50.0,18,12,NYK,IND,15,away,JS,,22,miss3,0,G. Hill,
+80,1,2:49.0,18,12,NYK,IND,1,away,OffReb,,,OffReb,,P. George,
+81,1,2:45.0,18,12,NYK,IND,4,away,BadPass,,,turnover,,P. George,
+82,1,2:45.0,18,12,NYK,IND,0,away,Timeout,,,,,,
+83,1,2:45.0,18,12,NYK,IND,0,home,Sub,,,,,A. Afflalo,C. Early
+84,1,2:45.0,18,12,NYK,IND,0,home,Sub,,,,,K. Séraphin,J. Grant
+85,1,2:45.0,18,12,NYK,IND,0,home,Sub,,,,,L. Galloway,S. Vujačić
+86,1,2:45.0,18,12,NYK,IND,0,away,Sub,,,,,R. Stuckey,M. Ellis
+87,1,2:45.0,18,12,NYK,IND,0,away,Sub,,,,,T. Lawson,G. Hill
+88,1,2:24.0,20,12,NYK,IND,21,home,LU,assist,2,make2,2,D. Williams,R. Lopez
+89,1,2:00.0,20,12,NYK,IND,24,away,JS,,16,miss2,0,T. Lawson,
+90,1,1:59.0,20,12,NYK,IND,1,home,DefReb,,,DefReb,,D. Williams,
+91,1,1:44.0,20,12,NYK,IND,15,home,JS,,8,miss2,0,D. Williams,
+92,1,1:43.0,20,12,NYK,IND,1,home,OffReb,,,OffReb,,K. Séraphin,
+93,1,1:38.0,20,12,NYK,IND,5,home,LostBall,steal,,turnover,,K. Séraphin,M. Turner
+94,1,1:27.0,20,14,NYK,IND,11,away,JS,assist,20,make2,2,R. Stuckey,I. Mahinmi
+95,1,1:10.0,20,14,NYK,IND,17,home,JS,,20,miss2,0,K. Séraphin,
+96,1,1:09.0,20,14,NYK,IND,1,away,DefReb,,,DefReb,,I. Mahinmi,
+97,1,1:01.0,20,14,NYK,IND,8,away,JS,,22,miss2,0,P. George,
+98,1,1:00.0,20,14,NYK,IND,1,home,DefReb,,,DefReb,,K. Séraphin,
+99,1,0:55.0,20,14,NYK,IND,5,home,JS,,20,miss2,0,A. Afflalo,
+100,1,0:54.0,20,14,NYK,IND,1,away,DefReb,,,DefReb,,R. Stuckey,
+101,1,0:46.0,20,14,NYK,IND,8,away,LU,block,1,miss2,0,R. Stuckey,R. Lopez
+102,1,0:45.0,20,14,NYK,IND,1,away,OffReb,,,OffReb,,I. Mahinmi,
+103,1,0:40.0,20,14,NYK,IND,5,away,LostBall,steal,,turnover,,R. Stuckey,L. Galloway
+104,1,0:36.0,20,14,NYK,IND,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. George,L. Galloway
+105,1,0:36.0,20,14,NYK,IND,0,home,FreeThrow,,,make1,0,L. Galloway,
+106,1,0:36.0,20,14,NYK,IND,0,home,OffReb,,,OffReb,,Team,
+107,1,0:36.0,20,14,NYK,IND,0,home,Sub,,,,,K. O'Quinn,R. Lopez
+108,1,0:36.0,20,14,NYK,IND,0,away,Sub,,,,,C. Miles,I. Mahinmi
+109,1,0:36.0,20,14,NYK,IND,0,away,Sub,,,,,S. Hill,P. George
+110,1,0:36.0,21,14,NYK,IND,0,home,FreeThrow,,,make1,1,L. Galloway,
+111,1,0:27.0,21,16,NYK,IND,9,away,JS,assist,19,make2,2,M. Turner,T. Lawson
+112,1,0:08.0,23,16,NYK,IND,19,home,JS,assist,21,make2,2,K. O'Quinn,L. Galloway
+113,1,0:03.0,23,18,NYK,IND,5,away,LU,,0,make2,2,M. Turner,
+114,1,0:00.0,23,18,NYK,IND,3,home,JS,,27,miss3,0,A. Afflalo,
+115,1,0:00.0,23,18,NYK,IND,0,home,OffReb,,,OffReb,,Team,
+116,2,11:39.0,23,20,NYK,IND,21,away,JS,,17,make2,2,C. Miles,
+117,2,11:12.0,23,20,NYK,IND,27,home,JS,,3,miss2,0,S. Vujačić,
+118,2,11:11.0,23,20,NYK,IND,1,home,OffReb,,,OffReb,,K. O'Quinn,
+119,2,11:02.0,23,20,NYK,IND,9,home,HS,,9,miss2,0,K. Séraphin,
+120,2,11:01.0,23,20,NYK,IND,1,away,DefReb,,,DefReb,,M. Turner,
+121,2,10:53.0,23,20,NYK,IND,8,away,JS,,18,miss2,0,M. Turner,
+122,2,10:52.0,23,20,NYK,IND,1,home,DefReb,,,DefReb,,K. O'Quinn,
+123,2,10:40.0,25,20,NYK,IND,12,home,HS,assist,5,make2,2,K. Séraphin,K. O'Quinn
+124,2,10:23.0,25,23,NYK,IND,17,away,JS,assist,23,make3,3,C. Miles,S. Hill
+125,2,10:04.0,27,23,NYK,IND,19,home,JS,assist,23,make2,2,S. Vujačić,L. Galloway
+126,2,9:55.0,27,25,NYK,IND,9,away,JS,assist,15,make2,2,R. Stuckey,T. Lawson
+127,2,9:39.0,27,25,NYK,IND,16,home,PersonalFoul,,,,,R. Stuckey,
+128,2,9:32.0,27,25,NYK,IND,7,home,JS,,10,miss2,0,A. Afflalo,
+129,2,9:31.0,27,25,NYK,IND,1,away,DefReb,,,DefReb,,M. Turner,
+130,2,9:21.0,27,25,NYK,IND,10,away,LU,,1,miss2,0,T. Lawson,
+131,2,9:20.0,27,25,NYK,IND,1,away,OffReb,,,OffReb,,M. Turner,
+132,2,9:20.0,27,27,NYK,IND,0,away,LU,,1,make2,2,M. Turner,
+133,2,9:18.0,27,27,NYK,IND,2,home,PersonalFoul,,,,,T. Lawson,
+134,2,9:07.0,27,27,NYK,IND,11,home,PersonalFoul,,,,,C. Miles,
+135,2,8:54.0,29,27,NYK,IND,13,home,LU,assist,1,make2,2,K. O'Quinn,S. Vujačić
+136,2,8:48.0,29,29,NYK,IND,6,away,LU,assist,2,make2,2,M. Turner,T. Lawson
+137,2,8:40.0,29,29,NYK,IND,8,home,JS,,18,miss2,0,L. Galloway,
+138,2,8:39.0,29,29,NYK,IND,1,away,DefReb,,,DefReb,,R. Stuckey,
+139,2,8:35.0,29,29,NYK,IND,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Afflalo,R. Stuckey
+140,2,8:35.0,29,31,NYK,IND,0,away,JS,,5,make2,2,R. Stuckey,
+141,2,8:35.0,29,31,NYK,IND,0,away,Timeout,,,,,,
+142,2,8:35.0,29,31,NYK,IND,0,home,Sub,,,,,D. Williams,K. Séraphin
+143,2,8:35.0,29,32,NYK,IND,0,away,FreeThrow,,,make1,1,R. Stuckey,
+144,2,8:22.0,29,32,NYK,IND,13,home,JS,,17,miss2,0,K. O'Quinn,
+145,2,8:21.0,29,32,NYK,IND,1,away,DefReb,,,DefReb,,S. Hill,
+146,2,8:09.0,29,34,NYK,IND,12,away,JS,assist,16,make2,2,M. Turner,T. Lawson
+147,2,7:52.0,29,34,NYK,IND,17,home,PersonalFoul,,,,,T. Lawson,
+148,2,7:39.0,31,34,NYK,IND,13,home,LU,assist,0,make2,2,K. O'Quinn,L. Galloway
+149,2,7:18.0,31,36,NYK,IND,21,away,LU,assist,1,make2,2,R. Stuckey,C. Miles
+150,2,6:56.0,33,36,NYK,IND,22,home,JS,,3,make2,2,L. Galloway,
+151,2,6:44.0,33,38,NYK,IND,12,away,JS,assist,19,make2,2,M. Turner,T. Lawson
+152,2,6:22.0,33,38,NYK,IND,22,home,JS,,21,miss2,0,L. Galloway,
+153,2,6:21.0,33,38,NYK,IND,1,away,DefReb,,,DefReb,,T. Lawson,
+154,2,6:12.0,33,38,NYK,IND,9,away,JS,,10,miss2,0,M. Turner,
+155,2,6:11.0,33,38,NYK,IND,1,home,DefReb,,,DefReb,,A. Afflalo,
+156,2,6:04.0,33,38,NYK,IND,7,home,JS,,24,miss3,0,S. Vujačić,
+157,2,6:03.0,33,38,NYK,IND,1,away,DefReb,,,DefReb,,T. Lawson,
+158,2,5:54.0,33,38,NYK,IND,9,away,JS,,23,miss3,0,C. Miles,
+159,2,5:53.0,33,38,NYK,IND,1,home,DefReb,,,DefReb,,A. Afflalo,
+160,2,5:38.0,33,38,NYK,IND,15,home,Timeout,,,,,,
+161,2,5:38.0,33,38,NYK,IND,0,home,Sub,,,,,R. Lopez,K. O'Quinn
+162,2,5:35.0,35,38,NYK,IND,3,home,DK,assist,0,make2,2,R. Lopez,S. Vujačić
+163,2,5:19.0,35,38,NYK,IND,16,away,PersonalFoul,,,,,L. Galloway,
+164,2,5:10.0,35,38,NYK,IND,9,away,JS,,24,miss3,0,C. Miles,
+165,2,5:09.0,35,38,NYK,IND,1,away,OffReb,,,OffReb,,R. Stuckey,
+166,2,5:04.0,35,38,NYK,IND,5,home,DefGoaltending,,,DefGoaltending,,R. Lopez,
+167,2,5:04.0,35,40,NYK,IND,0,away,LU,,2,make2,2,R. Stuckey,
+168,2,4:48.0,35,40,NYK,IND,16,home,LostBall,steal,,turnover,,D. Williams,T. Lawson
+169,2,4:42.0,35,40,NYK,IND,6,away,JS,,14,miss2,0,T. Lawson,
+170,2,4:41.0,35,40,NYK,IND,1,home,DefReb,,,DefReb,,R. Lopez,
+171,2,4:18.0,35,40,NYK,IND,23,home,JS,,7,miss2,0,R. Lopez,
+172,2,4:17.0,35,40,NYK,IND,1,away,DefReb,,,DefReb,,S. Hill,
+173,2,4:11.0,35,42,NYK,IND,6,away,DK,,0,make2,2,S. Hill,
+174,2,3:54.0,37,42,NYK,IND,17,home,JS,,18,make2,2,A. Afflalo,
+175,2,3:40.0,37,44,NYK,IND,14,away,LU,,2,make2,2,C. Miles,
+176,2,3:32.0,37,44,NYK,IND,8,home,Timeout,,,,,,
+177,2,3:32.0,37,44,NYK,IND,0,home,Sub,,,,,J. Grant,S. Vujačić
+178,2,3:32.0,37,44,NYK,IND,0,away,Sub,,,,,M. Ellis,T. Lawson
+179,2,3:32.0,37,44,NYK,IND,0,away,Sub,,,,,G. Hill,R. Stuckey
+180,2,3:32.0,37,44,NYK,IND,0,home,Sub,,,,,C. Early,L. Galloway
+181,2,3:24.0,37,44,NYK,IND,8,home,JS,,24,miss3,0,A. Afflalo,
+182,2,3:23.0,37,44,NYK,IND,1,home,OffReb,,,OffReb,,R. Lopez,
+183,2,3:23.0,37,44,NYK,IND,0,home,LU,,1,miss2,0,R. Lopez,
+184,2,3:22.0,37,44,NYK,IND,1,home,OffReb,,,OffReb,,A. Afflalo,
+185,2,3:16.0,37,44,NYK,IND,6,home,LU,,1,miss2,0,A. Afflalo,
+186,2,3:15.0,37,44,NYK,IND,1,home,OffReb,,,OffReb,,R. Lopez,
+187,2,3:13.0,37,44,NYK,IND,2,home,LU,,2,miss2,0,R. Lopez,
+188,2,3:12.0,37,44,NYK,IND,1,home,OffReb,,,OffReb,,A. Afflalo,
+189,2,3:08.0,37,44,NYK,IND,4,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Lopez,M. Turner
+190,2,3:08.0,37,44,NYK,IND,0,home,OffensiveFoul,,,turnover,,R. Lopez,
+191,2,2:57.0,37,44,NYK,IND,11,away,JS,,17,miss2,0,M. Turner,
+192,2,2:56.0,37,44,NYK,IND,1,away,OffReb,,,OffReb,,G. Hill,
+193,2,2:45.0,37,44,NYK,IND,11,away,HS,,6,miss2,0,M. Turner,
+194,2,2:44.0,37,44,NYK,IND,1,home,DefReb,,,DefReb,,A. Afflalo,
+195,2,2:35.0,37,44,NYK,IND,9,home,LU,,2,miss2,0,J. Grant,
+196,2,2:34.0,37,44,NYK,IND,1,away,DefReb,,,DefReb,,M. Turner,
+197,2,2:30.0,37,44,NYK,IND,4,away,BadPass,,,turnover,,S. Hill,
+198,2,2:30.0,37,44,NYK,IND,0,away,Timeout,,,,,,
+199,2,2:30.0,37,44,NYK,IND,0,away,Sub,,,,,I. Mahinmi,C. Miles
+200,2,2:30.0,37,44,NYK,IND,0,away,Sub,,,,,P. George,M. Turner
+201,2,2:10.0,37,44,NYK,IND,20,home,BadPass,steal,,turnover,,C. Early,S. Hill
+202,2,2:04.0,37,46,NYK,IND,6,away,LU,,0,make2,2,S. Hill,
+203,2,1:51.0,37,46,NYK,IND,13,home,LU,,1,miss2,0,J. Grant,
+204,2,1:50.0,37,46,NYK,IND,1,home,OffReb,,,OffReb,,R. Lopez,
+205,2,1:50.0,37,46,NYK,IND,0,home,LU,,0,miss2,0,R. Lopez,
+206,2,1:49.0,37,46,NYK,IND,1,home,OffReb,,,OffReb,,R. Lopez,
+207,2,1:49.0,39,46,NYK,IND,0,home,LU,,0,make2,2,R. Lopez,
+208,2,1:26.0,39,49,NYK,IND,23,away,JS,assist,23,make3,3,G. Hill,M. Ellis
+209,2,1:06.0,39,49,NYK,IND,20,home,JS,,22,miss2,0,C. Early,
+210,2,1:05.0,39,49,NYK,IND,1,away,DefReb,,,DefReb,,G. Hill,
+211,2,1:00.0,39,49,NYK,IND,5,away,LU,block,2,miss2,0,S. Hill,C. Early
+212,2,0:59.0,39,49,NYK,IND,1,home,DefReb,,,DefReb,,C. Early,
+213,2,0:54.0,41,49,NYK,IND,5,home,LU,assist,1,make2,2,D. Williams,A. Afflalo
+214,2,0:48.0,41,49,NYK,IND,6,away,PersonalFoul,,,,,A. Afflalo,
+215,2,0:40.0,41,51,NYK,IND,8,away,JS,,19,make2,2,G. Hill,
+216,2,0:40.0,41,51,NYK,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,G. Hill
+217,2,0:40.0,41,52,NYK,IND,0,away,FreeThrow,,,make1,1,G. Hill,
+218,2,0:27.0,41,52,NYK,IND,13,home,LU,,1,miss2,0,D. Williams,
+219,2,0:26.0,41,52,NYK,IND,1,away,DefReb,,,DefReb,,P. George,
+220,2,0:20.0,41,52,NYK,IND,6,away,Timeout,,,,,,
+221,2,0:20.0,41,52,NYK,IND,0,home,Sub,,,,,K. Séraphin,R. Lopez
+222,2,0:20.0,41,52,NYK,IND,0,away,Sub,,,,,C. Miles,S. Hill
+223,2,0:06.0,41,52,NYK,IND,14,away,PersonalFoul,,,,,K. Séraphin,
+224,2,0:06.0,41,53,NYK,IND,0,away,FreeThrow,,,make1,1,P. George,
+225,2,0:06.0,41,53,NYK,IND,0,away,Sub,,,,,S. Hill,C. Miles
+226,2,0:06.0,41,53,NYK,IND,0,home,Sub,,,,,L. Galloway,C. Early
+227,2,0:06.0,41,54,NYK,IND,0,away,FreeThrow,,,make1,1,P. George,
+228,2,0:03.0,41,54,NYK,IND,3,home,LU,,1,miss2,0,D. Williams,
+229,2,0:02.0,41,54,NYK,IND,1,away,DefReb,,,DefReb,,S. Hill,
+230,2,0:00.0,41,54,NYK,IND,2,away,JS,,61,miss3,0,S. Hill,
+231,2,0:00.0,41,54,NYK,IND,0,away,OffReb,,,OffReb,,Team,
+232,3,11:42.0,41,54,NYK,IND,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Early,P. George
+233,3,11:42.0,41,55,NYK,IND,0,away,FreeThrow,,,make1,1,P. George,
+234,3,11:42.0,41,56,NYK,IND,0,away,FreeThrow,,,make1,1,P. George,
+235,3,11:24.0,43,56,NYK,IND,18,home,JS,assist,17,make2,2,D. Williams,S. Vujačić
+236,3,10:56.0,43,56,NYK,IND,28,away,JS,,25,miss3,0,G. Hill,
+237,3,10:55.0,43,56,NYK,IND,1,home,DefReb,,,DefReb,,D. Williams,
+238,3,10:41.0,43,56,NYK,IND,14,home,JS,,20,miss2,0,D. Williams,
+239,3,10:40.0,43,56,NYK,IND,1,away,DefReb,,,DefReb,,P. George,
+240,3,10:32.0,43,56,NYK,IND,8,away,PersonalBlockFoul,,,,,C. Early,
+241,3,10:25.0,43,56,NYK,IND,7,away,JS,,19,miss2,0,M. Ellis,
+242,3,10:24.0,43,56,NYK,IND,1,home,DefReb,,,DefReb,,J. Grant,
+243,3,10:12.0,43,56,NYK,IND,12,home,Turnover,,,turnover,,Team,
+244,3,10:01.0,43,56,NYK,IND,11,away,LU,,2,miss2,0,M. Ellis,
+245,3,10:00.0,43,56,NYK,IND,1,home,DefReb,,,DefReb,,Team,
+246,3,9:53.0,43,56,NYK,IND,7,home,PersonalFoul,,,,,M. Ellis,
+247,3,9:37.0,43,56,NYK,IND,16,home,JS,,16,miss2,0,C. Early,
+248,3,9:36.0,43,56,NYK,IND,1,away,DefReb,,,DefReb,,G. Hill,
+249,3,9:22.0,43,59,NYK,IND,14,away,JS,assist,22,make3,3,P. George,I. Mahinmi
+250,3,9:04.0,43,59,NYK,IND,18,home,PersonalFoul,,,,,G. Hill,
+251,3,8:56.0,46,59,NYK,IND,8,home,JS,assist,25,make3,3,S. Vujačić,C. Early
+252,3,8:42.0,46,59,NYK,IND,14,away,OutOfBounds,,,turnover,,I. Mahinmi,
+253,3,8:36.0,46,59,NYK,IND,6,home,JS,,21,miss2,0,C. Early,
+254,3,8:35.0,46,59,NYK,IND,1,away,DefReb,,,DefReb,,M. Ellis,
+255,3,8:19.0,46,61,NYK,IND,16,away,JS,,16,make2,2,P. George,
+256,3,8:03.0,46,61,NYK,IND,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Mahinmi,C. Early
+257,3,8:03.0,47,61,NYK,IND,0,home,FreeThrow,,,make1,1,C. Early,
+258,3,8:03.0,47,61,NYK,IND,0,home,Sub,,,,,L. Galloway,J. Grant
+259,3,8:03.0,48,61,NYK,IND,0,home,FreeThrow,,,make1,1,C. Early,
+260,3,7:50.0,48,64,NYK,IND,13,away,JS,assist,23,make3,3,P. George,M. Ellis
+261,3,7:32.0,50,64,NYK,IND,18,home,DK,assist,0,make2,2,R. Lopez,L. Galloway
+262,3,7:16.0,50,64,NYK,IND,16,away,BadPass,,,turnover,,P. George,
+263,3,7:16.0,50,64,NYK,IND,0,home,Sub,,,,,A. Afflalo,C. Early
+264,3,7:03.0,50,64,NYK,IND,13,home,Timeout,,,,,,
+265,3,6:55.0,50,64,NYK,IND,8,home,LostBall,,,turnover,,S. Vujačić,
+266,3,6:34.0,50,66,NYK,IND,21,away,LU,,1,make2,2,P. George,
+267,3,6:18.0,50,66,NYK,IND,16,home,JS,,23,miss2,0,A. Afflalo,
+268,3,6:17.0,50,66,NYK,IND,1,away,DefReb,,,DefReb,,G. Hill,
+269,3,6:04.0,50,66,NYK,IND,13,away,JS,,26,miss3,0,G. Hill,
+270,3,6:03.0,50,66,NYK,IND,1,home,DefReb,,,DefReb,,D. Williams,
+271,3,5:56.0,50,66,NYK,IND,7,home,LU,block,3,miss2,0,D. Williams,I. Mahinmi
+272,3,5:55.0,50,66,NYK,IND,1,away,DefReb,,,DefReb,,L. Allen,
+273,3,5:50.0,50,66,NYK,IND,5,away,LU,block,0,miss2,0,G. Hill,R. Lopez
+274,3,5:49.0,50,66,NYK,IND,1,away,OffReb,,,OffReb,,I. Mahinmi,
+275,3,5:48.0,50,68,NYK,IND,1,away,LU,,2,make2,2,I. Mahinmi,
+276,3,5:29.0,53,68,NYK,IND,19,home,JS,assist,24,make3,3,S. Vujačić,R. Lopez
+277,3,5:20.0,53,68,NYK,IND,9,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,I. Mahinmi,S. Vujačić
+278,3,5:20.0,53,68,NYK,IND,0,away,OffensiveFoul,,,turnover,,I. Mahinmi,
+279,3,5:20.0,53,68,NYK,IND,0,home,Sub,,,,,K. Séraphin,D. Williams
+280,3,5:20.0,53,68,NYK,IND,0,home,Sub,,,,,J. Grant,S. Vujačić
+281,3,5:20.0,53,68,NYK,IND,0,away,Sub,,,,,M. Turner,L. Allen
+282,3,5:11.0,53,68,NYK,IND,9,home,LU,,2,miss2,0,L. Galloway,
+283,3,5:10.0,53,68,NYK,IND,1,home,OffReb,,,OffReb,,R. Lopez,
+284,3,5:10.0,53,68,NYK,IND,0,home,LU,,2,miss2,0,R. Lopez,
+285,3,5:09.0,53,68,NYK,IND,1,home,OffReb,,,OffReb,,R. Lopez,
+286,3,5:09.0,53,68,NYK,IND,0,home,LU,,2,miss2,0,R. Lopez,
+287,3,5:08.0,53,68,NYK,IND,1,away,DefReb,,,DefReb,,I. Mahinmi,
+288,3,4:50.0,53,68,NYK,IND,18,away,JS,,25,miss3,0,G. Hill,
+289,3,4:49.0,53,68,NYK,IND,1,home,DefReb,,,DefReb,,A. Afflalo,
+290,3,4:44.0,53,68,NYK,IND,5,home,LU,block,2,miss2,0,J. Grant,M. Turner
+291,3,4:43.0,53,68,NYK,IND,1,home,OffReb,,,OffReb,,L. Galloway,
+292,3,4:42.0,55,68,NYK,IND,1,home,LU,,1,make2,2,L. Galloway,
+293,3,4:33.0,55,68,NYK,IND,9,away,JS,,24,miss3,0,P. George,
+294,3,4:32.0,55,68,NYK,IND,1,home,DefReb,,,DefReb,,K. Séraphin,
+295,3,4:24.0,55,68,NYK,IND,8,home,JS,,10,miss2,0,K. Séraphin,
+296,3,4:23.0,55,68,NYK,IND,1,away,DefReb,,,DefReb,,G. Hill,
+297,3,4:15.0,55,68,NYK,IND,8,away,JS,,25,miss3,0,P. George,
+298,3,4:14.0,55,68,NYK,IND,1,home,DefReb,,,DefReb,,R. Lopez,
+299,3,3:52.0,55,68,NYK,IND,22,home,JS,,14,miss2,0,R. Lopez,
+300,3,3:51.0,55,68,NYK,IND,1,away,DefReb,,,DefReb,,P. George,
+301,3,3:46.0,55,68,NYK,IND,5,away,Timeout,,,,,,
+302,3,3:46.0,55,68,NYK,IND,0,away,Sub,,,,,C. Miles,P. George
+303,3,3:35.0,55,68,NYK,IND,11,away,JS,,18,miss2,0,M. Ellis,
+304,3,3:34.0,55,68,NYK,IND,1,home,DefReb,,,DefReb,,K. Séraphin,
+305,3,3:19.0,55,68,NYK,IND,15,home,JS,,25,miss3,0,L. Galloway,
+306,3,3:18.0,55,68,NYK,IND,1,home,OffReb,,,OffReb,,R. Lopez,
+307,3,3:18.0,57,68,NYK,IND,0,home,LU,,1,make2,2,R. Lopez,
+308,3,3:02.0,57,68,NYK,IND,16,away,BadPass,,,turnover,,I. Mahinmi,
+309,3,2:46.0,59,68,NYK,IND,16,home,HS,,7,make2,2,K. Séraphin,
+310,3,2:30.0,59,70,NYK,IND,16,away,HS,assist,4,make2,2,I. Mahinmi,M. Turner
+311,3,2:12.0,61,70,NYK,IND,18,home,HS,assist,7,make2,2,R. Lopez,A. Afflalo
+312,3,1:45.0,61,70,NYK,IND,27,away,LostBall,steal,,turnover,,I. Mahinmi,L. Galloway
+313,3,1:40.0,61,70,NYK,IND,5,away,DefGoaltending,,,DefGoaltending,,M. Turner,
+314,3,1:40.0,63,70,NYK,IND,0,home,LU,,2,make2,2,L. Galloway,
+315,3,1:30.0,63,70,NYK,IND,10,away,PersonalFoul,,,,,A. Afflalo,
+316,3,1:30.0,63,70,NYK,IND,0,away,Sub,,,,,T. Lawson,G. Hill
+317,3,1:30.0,63,70,NYK,IND,0,away,Sub,,,,,R. Stuckey,M. Ellis
+318,3,1:30.0,63,70,NYK,IND,0,home,Sub,,,,,K. O'Quinn,R. Lopez
+319,3,1:20.0,63,70,NYK,IND,10,away,JS,,24,miss3,0,C. Miles,
+320,3,1:19.0,63,70,NYK,IND,1,home,DefReb,,,DefReb,,K. Séraphin,
+321,3,0:59.0,63,70,NYK,IND,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Miles,L. Galloway
+322,3,0:59.0,64,70,NYK,IND,0,home,FreeThrow,,,make1,1,L. Galloway,
+323,3,0:59.0,64,70,NYK,IND,0,home,FreeThrow,,,make1,0,L. Galloway,
+324,3,0:59.0,64,70,NYK,IND,0,home,OffReb,,,OffReb,,Team,
+325,3,0:59.0,64,70,NYK,IND,0,away,Sub,,,,,S. Hill,I. Mahinmi
+326,3,0:59.0,65,70,NYK,IND,0,home,FreeThrow,,,make1,1,L. Galloway,
+327,3,0:44.0,65,70,NYK,IND,15,away,LostBall,steal,,turnover,,R. Stuckey,A. Afflalo
+328,3,0:39.0,65,70,NYK,IND,5,home,JS,,22,miss3,0,L. Galloway,
+329,3,0:38.0,65,70,NYK,IND,1,away,DefReb,,,DefReb,,C. Miles,
+330,3,0:36.0,65,70,NYK,IND,2,away,PersonalFoul,,,,,J. Grant,
+331,3,0:36.0,65,71,NYK,IND,0,away,FreeThrow,,,make1,1,R. Stuckey,
+332,3,0:36.0,65,71,NYK,IND,0,home,Sub,,,,,D. Williams,K. Séraphin
+333,3,0:36.0,65,72,NYK,IND,0,away,FreeThrow,,,make1,1,R. Stuckey,
+334,3,0:20.0,65,72,NYK,IND,16,home,JS,,16,miss2,0,K. O'Quinn,
+335,3,0:19.0,65,72,NYK,IND,1,away,DefReb,,,DefReb,,C. Miles,
+336,3,0:03.0,65,72,NYK,IND,16,away,JS,block,16,miss2,0,T. Lawson,A. Afflalo
+337,3,0:02.0,65,72,NYK,IND,1,away,OffReb,,,OffReb,,T. Lawson,
+338,3,0:00.0,65,74,NYK,IND,2,away,JS,,13,make2,2,T. Lawson,
+339,4,11:49.0,67,74,NYK,IND,11,home,JS,,8,make2,2,A. Afflalo,
+340,4,11:35.0,67,77,NYK,IND,14,away,JS,assist,25,make3,3,C. Miles,R. Stuckey
+341,4,11:22.0,69,77,NYK,IND,13,home,JS,,15,make2,2,A. Afflalo,
+342,4,11:22.0,69,77,NYK,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Miles,A. Afflalo
+343,4,11:22.0,70,77,NYK,IND,0,home,FreeThrow,,,make1,1,A. Afflalo,
+344,4,11:08.0,70,77,NYK,IND,14,away,JS,,12,miss2,0,T. Lawson,
+345,4,11:07.0,70,77,NYK,IND,1,home,DefReb,,,DefReb,,L. Galloway,
+346,4,10:46.0,70,77,NYK,IND,21,home,JS,,15,miss2,0,A. Afflalo,
+347,4,10:45.0,70,77,NYK,IND,1,home,OffReb,,,OffReb,,K. O'Quinn,
+348,4,10:42.0,70,77,NYK,IND,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,A. Afflalo
+349,4,10:42.0,71,77,NYK,IND,0,home,FreeThrow,,,make1,1,A. Afflalo,
+350,4,10:42.0,72,77,NYK,IND,0,home,FreeThrow,,,make1,1,A. Afflalo,
+351,4,10:23.0,72,77,NYK,IND,19,away,LU,,2,miss2,0,R. Stuckey,
+352,4,10:22.0,72,77,NYK,IND,1,home,DefReb,,,DefReb,,K. Séraphin,
+353,4,10:09.0,72,77,NYK,IND,13,home,JS,,24,miss3,0,J. Grant,
+354,4,10:08.0,72,77,NYK,IND,1,away,DefReb,,,DefReb,,C. Miles,
+355,4,10:03.0,72,77,NYK,IND,5,away,BadPass,,,turnover,,S. Hill,
+356,4,9:40.0,72,77,NYK,IND,23,home,JS,,10,miss2,0,K. Séraphin,
+357,4,9:39.0,72,77,NYK,IND,1,away,DefReb,,,DefReb,,M. Turner,
+358,4,9:26.0,72,77,NYK,IND,13,away,JS,,19,miss2,0,S. Hill,
+359,4,9:25.0,72,77,NYK,IND,1,home,DefReb,,,DefReb,,K. Séraphin,
+360,4,9:15.0,72,77,NYK,IND,10,home,PersonalFoul,,,,,T. Lawson,
+361,4,9:05.0,72,77,NYK,IND,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Stuckey,L. Galloway
+362,4,9:05.0,72,77,NYK,IND,0,home,FreeThrow,,,make1,0,L. Galloway,
+363,4,9:05.0,72,77,NYK,IND,0,home,OffReb,,,OffReb,,Team,
+364,4,9:05.0,72,77,NYK,IND,0,home,FreeThrow,,,make1,0,L. Galloway,
+365,4,9:04.0,72,77,NYK,IND,1,away,DefReb,,,DefReb,,M. Turner,
+366,4,8:50.0,72,77,NYK,IND,14,away,JS,,20,miss2,0,C. Miles,
+367,4,8:49.0,72,77,NYK,IND,1,home,DefReb,,,DefReb,,K. O'Quinn,
+368,4,8:34.0,72,77,NYK,IND,15,home,LU,,1,miss2,0,J. Grant,
+369,4,8:33.0,72,77,NYK,IND,1,away,DefReb,,,DefReb,,R. Stuckey,
+370,4,8:29.0,72,77,NYK,IND,4,away,LU,,2,miss2,0,R. Stuckey,
+371,4,8:28.0,72,77,NYK,IND,1,home,DefReb,,,DefReb,,A. Afflalo,
+372,4,8:21.0,72,77,NYK,IND,7,home,JS,,25,miss3,0,J. Grant,
+373,4,8:20.0,72,77,NYK,IND,1,away,DefReb,,,DefReb,,T. Lawson,
+374,4,8:09.0,72,77,NYK,IND,11,away,JS,,24,miss3,0,T. Lawson,
+375,4,8:08.0,72,77,NYK,IND,1,home,DefReb,,,DefReb,,K. O'Quinn,
+376,4,8:02.0,72,77,NYK,IND,6,home,Timeout,,,,,,
+377,4,8:02.0,72,77,NYK,IND,0,home,Sub,,,,,R. Lopez,J. Grant
+378,4,8:02.0,72,77,NYK,IND,0,home,Sub,,,,,S. Vujačić,K. O'Quinn
+379,4,7:54.0,74,77,NYK,IND,8,home,JS,assist,12,make2,2,S. Vujačić,R. Lopez
+380,4,7:29.0,74,79,NYK,IND,25,away,JS,,15,make2,2,R. Stuckey,
+381,4,7:08.0,74,79,NYK,IND,21,home,Traveling,,,turnover,,A. Afflalo,
+382,4,7:08.0,74,79,NYK,IND,0,away,Sub,,,,,I. Mahinmi,S. Hill
+383,4,6:52.0,74,79,NYK,IND,16,away,PersonalFoul,,,,,S. Vujačić,
+384,4,6:44.0,74,79,NYK,IND,8,away,BadPass,,,turnover,,M. Turner,
+385,4,6:33.0,76,79,NYK,IND,11,home,JS,assist,14,make2,2,A. Afflalo,L. Galloway
+386,4,6:22.0,76,79,NYK,IND,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Séraphin,R. Stuckey
+387,4,6:22.0,76,80,NYK,IND,0,away,FreeThrow,,,make1,1,R. Stuckey,
+388,4,6:22.0,76,80,NYK,IND,0,away,Sub,,,,,P. George,C. Miles
+389,4,6:22.0,76,80,NYK,IND,0,away,Sub,,,,,M. Ellis,T. Lawson
+390,4,6:22.0,76,81,NYK,IND,0,away,FreeThrow,,,make1,1,R. Stuckey,
+391,4,6:03.0,78,81,NYK,IND,19,home,JS,,11,make2,2,A. Afflalo,
+392,4,5:37.0,78,84,NYK,IND,26,away,JS,assist,23,make3,3,M. Ellis,I. Mahinmi
+393,4,5:19.0,78,84,NYK,IND,18,home,JS,,24,miss3,0,L. Galloway,
+394,4,5:18.0,78,84,NYK,IND,1,away,DefReb,,,DefReb,,P. George,
+395,4,5:09.0,78,84,NYK,IND,9,away,JS,,20,miss2,0,M. Ellis,
+396,4,5:08.0,78,84,NYK,IND,1,home,DefReb,,,DefReb,,Team,
+397,4,5:08.0,78,84,NYK,IND,0,away,Timeout,,,,,,
+398,4,5:08.0,78,84,NYK,IND,0,away,Sub,,,,,L. Allen,M. Turner
+399,4,5:08.0,78,84,NYK,IND,0,away,Sub,,,,,G. Hill,R. Stuckey
+400,4,4:55.0,81,84,NYK,IND,13,home,JS,,25,make3,3,S. Vujačić,
+401,4,4:29.0,81,84,NYK,IND,26,away,JS,block,6,miss2,0,P. George,R. Lopez
+402,4,4:28.0,81,84,NYK,IND,1,away,OffReb,,,OffReb,,Team,
+403,4,4:28.0,81,84,NYK,IND,0,away,ShotClockViolation,,,turnover,,Team,
+404,4,4:12.0,81,84,NYK,IND,16,home,JS,,9,miss2,0,K. Séraphin,
+405,4,4:11.0,81,84,NYK,IND,1,away,DefReb,,,DefReb,,M. Ellis,
+406,4,4:04.0,81,84,NYK,IND,7,away,JS,,9,miss2,0,M. Ellis,
+407,4,4:03.0,81,84,NYK,IND,1,home,DefReb,,,DefReb,,K. Séraphin,
+408,4,3:48.0,81,84,NYK,IND,15,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Séraphin,P. George
+409,4,3:48.0,81,84,NYK,IND,0,home,OffensiveFoul,,,turnover,,K. Séraphin,
+410,4,3:48.0,81,84,NYK,IND,0,away,Sub,,,,,M. Turner,L. Allen
+411,4,3:29.0,81,84,NYK,IND,19,away,LostBall,steal,,turnover,,P. George,L. Galloway
+412,4,3:13.0,83,84,NYK,IND,16,home,JS,assist,10,make2,2,K. Séraphin,L. Galloway
+413,4,2:50.0,83,84,NYK,IND,23,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Lopez,I. Mahinmi
+414,4,2:50.0,83,84,NYK,IND,0,away,Timeout,,,,,,
+415,4,2:50.0,83,84,NYK,IND,0,away,FreeThrow,,,make1,0,I. Mahinmi,
+416,4,2:50.0,83,84,NYK,IND,0,away,OffReb,,,OffReb,,Team,
+417,4,2:50.0,83,85,NYK,IND,0,away,FreeThrow,,,make1,1,I. Mahinmi,
+418,4,2:31.0,83,85,NYK,IND,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,S. Vujačić
+419,4,2:31.0,84,85,NYK,IND,0,home,FreeThrow,,,make1,1,S. Vujačić,
+420,4,2:31.0,85,85,NYK,IND,0,home,FreeThrow,,,make1,1,S. Vujačić,
+421,4,2:21.0,85,85,NYK,IND,10,away,LostBall,steal,,turnover,,M. Ellis,S. Vujačić
+422,4,2:16.0,85,85,NYK,IND,5,home,LostBall,steal,,turnover,,S. Vujačić,P. George
+423,4,2:12.0,85,85,NYK,IND,4,away,LU,block,2,miss2,0,P. George,R. Lopez
+424,4,2:11.0,85,85,NYK,IND,1,home,DefReb,,,DefReb,,S. Vujačić,
+425,4,1:58.0,85,85,NYK,IND,13,home,Timeout,,,,,,
+426,4,1:51.0,85,85,NYK,IND,7,home,JS,,22,miss2,0,A. Afflalo,
+427,4,1:50.0,85,85,NYK,IND,1,away,DefReb,,,DefReb,,I. Mahinmi,
+428,4,1:27.0,85,85,NYK,IND,23,away,JS,,25,miss3,0,M. Ellis,
+429,4,1:26.0,85,85,NYK,IND,1,home,DefReb,,,DefReb,,A. Afflalo,
+430,4,1:18.0,85,85,NYK,IND,8,home,PersonalFoul,,,,,G. Hill,
+431,4,1:18.0,86,85,NYK,IND,0,home,FreeThrow,,,make1,1,A. Afflalo,
+432,4,1:18.0,87,85,NYK,IND,0,home,FreeThrow,,,make1,1,A. Afflalo,
+433,4,0:59.0,87,85,NYK,IND,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Séraphin,I. Mahinmi
+434,4,0:59.0,87,86,NYK,IND,0,away,FreeThrow,,,make1,1,I. Mahinmi,
+435,4,0:59.0,87,87,NYK,IND,0,away,FreeThrow,,,make1,1,I. Mahinmi,
+436,4,0:47.0,87,87,NYK,IND,12,home,JS,,24,miss3,0,S. Vujačić,
+437,4,0:46.0,87,87,NYK,IND,1,away,DefReb,,,DefReb,,M. Ellis,
+438,4,0:39.0,87,87,NYK,IND,7,away,Timeout,,,,,,
+439,4,0:31.0,87,87,NYK,IND,8,away,LU,block,2,miss2,0,M. Ellis,K. Séraphin
+440,4,0:30.0,87,87,NYK,IND,1,away,OffReb,,,OffReb,,Team,
+441,4,0:30.0,87,87,NYK,IND,0,away,Timeout,,,,,,
+442,4,0:24.0,87,89,NYK,IND,6,away,JS,,19,make2,2,P. George,
+443,4,0:24.0,87,89,NYK,IND,0,home,Timeout,,,,,,
+444,4,0:20.0,87,89,NYK,IND,4,home,JS,,25,miss3,0,S. Vujačić,
+445,4,0:18.0,87,89,NYK,IND,2,away,DefReb,,,DefReb,,M. Ellis,
+446,4,0:17.0,87,89,NYK,IND,1,away,PersonalFoul,,,,,L. Galloway,
+447,4,0:17.0,87,90,NYK,IND,0,away,FreeThrow,,,make1,1,M. Ellis,
+448,4,0:17.0,87,91,NYK,IND,0,away,FreeThrow,,,make1,1,M. Ellis,
+449,4,0:17.0,87,91,NYK,IND,0,home,Timeout,,,,,,
+450,4,0:17.0,87,91,NYK,IND,0,home,OutOfBounds,,,turnover,,A. Afflalo,
+451,4,0:17.0,87,91,NYK,IND,0,away,Sub,,,,,S. Hill,I. Mahinmi
+452,4,0:16.0,87,91,NYK,IND,1,away,LostBall,,,turnover,,G. Hill,
+453,4,0:16.0,87,91,NYK,IND,0,away,Sub,,,,,I. Mahinmi,M. Turner
+454,4,0:11.0,87,91,NYK,IND,5,home,JS,,25,miss3,0,A. Afflalo,
+455,4,0:09.0,87,91,NYK,IND,2,away,DefReb,,,DefReb,,G. Hill,
+456,4,0:09.0,87,91,NYK,IND,0,away,PersonalFoul,,,,,S. Vujačić,
+457,4,0:09.0,87,91,NYK,IND,0,away,FreeThrow,,,make1,0,G. Hill,
+458,4,0:09.0,87,91,NYK,IND,0,away,OffReb,,,OffReb,,Team,
+459,4,0:09.0,87,92,NYK,IND,0,away,FreeThrow,,,make1,1,G. Hill,
+460,4,0:02.0,87,92,NYK,IND,7,home,JS,,25,miss3,0,A. Afflalo,
+461,4,0:02.0,87,92,NYK,IND,0,away,DefReb,,,DefReb,,P. George,

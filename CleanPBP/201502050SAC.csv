@@ -1,0 +1,447 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,2,0,SAC,DAL,15,home,DK,assist,0,make2,2,D. Cousins,R. Gay
+1,1,11:23.0,2,0,SAC,DAL,22,away,DK,,2,miss2,0,A. Aminu,
+2,1,11:22.0,2,0,SAC,DAL,1,home,DefReb,,,DefReb,,D. Cousins,
+3,1,11:18.0,4,0,SAC,DAL,4,home,DK,,0,make2,2,D. Cousins,
+4,1,11:02.0,4,0,SAC,DAL,16,away,JS,block,5,miss2,0,C. Parsons,J. Thompson
+5,1,10:59.0,4,0,SAC,DAL,3,home,DefReb,,,DefReb,,D. Cousins,
+6,1,10:57.0,4,0,SAC,DAL,2,home,BadPass,steal,,turnover,,D. Cousins,M. Ellis
+7,1,10:54.0,4,2,SAC,DAL,3,away,DK,assist,0,make2,2,A. Aminu,J. Barea
+8,1,10:31.0,4,2,SAC,DAL,23,home,JS,,16,miss2,0,R. Gay,
+9,1,10:30.0,4,2,SAC,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+10,1,10:16.0,4,2,SAC,DAL,14,away,LostBall,steal,,turnover,,T. Chandler,J. Thompson
+11,1,10:12.0,4,2,SAC,DAL,4,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Collison,J. Barea
+12,1,10:12.0,4,2,SAC,DAL,0,home,OffensiveFoul,,,turnover,,D. Collison,
+13,1,10:00.0,4,2,SAC,DAL,12,away,JS,,15,miss2,0,C. Parsons,
+14,1,9:59.0,4,2,SAC,DAL,1,home,DefReb,,,DefReb,,J. Thompson,
+15,1,9:54.0,6,2,SAC,DAL,5,home,LU,assist,1,make2,2,R. Gay,B. McLemore
+16,1,9:36.0,6,2,SAC,DAL,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. McLemore,A. Aminu
+17,1,9:29.0,6,4,SAC,DAL,7,away,DK,assist,0,make2,2,T. Chandler,M. Ellis
+18,1,9:26.0,6,4,SAC,DAL,3,away,DelayOfGame,,,DelayOfGame,,Team,
+19,1,9:16.0,6,4,SAC,DAL,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Chandler,D. Cousins
+20,1,9:16.0,6,4,SAC,DAL,0,home,FreeThrow,,,make1,0,D. Cousins,
+21,1,9:16.0,6,4,SAC,DAL,0,home,OffReb,,,OffReb,,Team,
+22,1,9:16.0,7,4,SAC,DAL,0,home,FreeThrow,,,make1,1,D. Cousins,
+23,1,9:03.0,7,7,SAC,DAL,13,away,JS,assist,23,make3,3,J. Barea,M. Ellis
+24,1,8:39.0,7,7,SAC,DAL,24,home,JS,,14,miss2,0,R. Gay,
+25,1,8:39.0,7,7,SAC,DAL,0,away,DefReb,,,DefReb,,J. Barea,
+26,1,8:25.0,7,7,SAC,DAL,14,away,JS,,24,miss3,0,C. Parsons,
+27,1,8:24.0,7,7,SAC,DAL,1,away,OffReb,,,OffReb,,T. Chandler,
+28,1,8:24.0,7,9,SAC,DAL,0,away,DK,,0,make2,2,T. Chandler,
+29,1,8:08.0,7,9,SAC,DAL,16,home,JS,,23,miss3,0,B. McLemore,
+30,1,8:07.0,7,9,SAC,DAL,1,away,DefReb,,,DefReb,,M. Ellis,
+31,1,8:05.0,7,9,SAC,DAL,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. McLemore,M. Ellis
+32,1,8:05.0,7,9,SAC,DAL,0,home,Sub,,,,,N. Stauskas,B. McLemore
+33,1,7:51.0,7,11,SAC,DAL,14,away,LU,,4,make2,2,M. Ellis,
+34,1,7:32.0,7,11,SAC,DAL,19,home,JS,,19,miss2,0,D. Cousins,
+35,1,7:31.0,7,11,SAC,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+36,1,7:21.0,7,11,SAC,DAL,10,away,JS,,10,miss2,0,C. Parsons,
+37,1,7:20.0,7,11,SAC,DAL,1,home,DefReb,,,DefReb,,D. Cousins,
+38,1,7:14.0,7,11,SAC,DAL,6,home,JS,,22,miss3,0,R. Gay,
+39,1,7:13.0,7,11,SAC,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+40,1,6:59.0,7,11,SAC,DAL,14,home,DefGoaltending,,,DefGoaltending,,D. Cousins,
+41,1,6:59.0,7,13,SAC,DAL,0,away,JS,assist,6,make2,2,M. Ellis,C. Parsons
+42,1,6:40.0,7,13,SAC,DAL,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,D. Cousins
+43,1,6:40.0,8,13,SAC,DAL,0,home,FreeThrow,,,make1,1,D. Cousins,
+44,1,6:40.0,8,13,SAC,DAL,0,away,Sub,,,,,D. Powell,T. Chandler
+45,1,6:40.0,9,13,SAC,DAL,0,home,FreeThrow,,,make1,1,D. Cousins,
+46,1,6:18.0,9,13,SAC,DAL,22,away,JS,,27,miss3,0,J. Barea,
+47,1,6:18.0,9,13,SAC,DAL,0,home,DefReb,,,DefReb,,R. Gay,
+48,1,6:12.0,9,13,SAC,DAL,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Powell,D. Cousins
+49,1,6:12.0,11,13,SAC,DAL,0,home,JS,assist,3,make2,2,D. Cousins,R. Gay
+50,1,6:12.0,12,13,SAC,DAL,0,home,FreeThrow,,,make1,1,D. Cousins,
+51,1,5:58.0,12,13,SAC,DAL,14,away,BadPass,,,turnover,,M. Ellis,
+52,1,5:58.0,12,13,SAC,DAL,0,home,Timeout,,,,,,
+53,1,5:58.0,12,13,SAC,DAL,0,away,Sub,,,,,G. Smith,D. Powell
+54,1,5:39.0,15,13,SAC,DAL,19,home,JS,assist,24,make3,3,N. Stauskas,D. Cousins
+55,1,5:23.0,15,13,SAC,DAL,16,away,JS,,3,miss2,0,A. Aminu,
+56,1,5:22.0,15,13,SAC,DAL,1,home,DefReb,,,DefReb,,N. Stauskas,
+57,1,5:17.0,17,13,SAC,DAL,5,home,LU,assist,2,make2,2,D. Collison,N. Stauskas
+58,1,4:58.0,17,13,SAC,DAL,19,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Collison,J. Barea
+59,1,4:58.0,17,13,SAC,DAL,0,away,Sub,,,,,C. Villanueva,C. Parsons
+60,1,4:58.0,17,13,SAC,DAL,0,away,Sub,,,,,D. Harris,J. Barea
+61,1,4:58.0,17,13,SAC,DAL,0,home,Sub,,,,,R. Sessions,D. Collison
+62,1,4:58.0,17,13,SAC,DAL,0,away,Sub,,,,,T. Chandler,G. Smith
+63,1,4:45.0,17,16,SAC,DAL,13,away,JS,,25,make3,3,D. Harris,
+64,1,4:23.0,17,16,SAC,DAL,22,home,BadPass,steal,,turnover,,D. Cousins,M. Ellis
+65,1,4:19.0,17,18,SAC,DAL,4,away,LU,,1,make2,2,M. Ellis,
+66,1,4:03.0,17,18,SAC,DAL,16,home,JS,,24,miss3,0,R. Gay,
+67,1,4:03.0,17,18,SAC,DAL,0,away,DefReb,,,DefReb,,T. Chandler,
+68,1,3:56.0,17,18,SAC,DAL,7,home,KickBallViolation,,,KickBallViolation,,R. Gay,
+69,1,3:56.0,17,18,SAC,DAL,0,home,Sub,,,,,D. Williams,J. Thompson
+70,1,3:48.0,17,18,SAC,DAL,8,away,JS,,25,miss3,0,C. Villanueva,
+71,1,3:47.0,17,18,SAC,DAL,1,home,DefReb,,,DefReb,,D. Cousins,
+72,1,3:42.0,19,18,SAC,DAL,5,home,DK,assist,0,make2,2,D. Williams,R. Sessions
+73,1,3:22.0,19,18,SAC,DAL,20,away,LU,block,2,miss2,0,T. Chandler,R. Gay
+74,1,3:20.0,19,18,SAC,DAL,2,home,DefReb,,,DefReb,,N. Stauskas,
+75,1,3:16.0,19,18,SAC,DAL,4,home,DK,,0,miss2,0,R. Gay,
+76,1,3:13.0,19,18,SAC,DAL,3,home,OffReb,,,OffReb,,N. Stauskas,
+77,1,3:12.0,19,18,SAC,DAL,1,home,BadPass,steal,,turnover,,N. Stauskas,A. Aminu
+78,1,3:05.0,19,18,SAC,DAL,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Sessions,T. Chandler
+79,1,2:58.0,19,18,SAC,DAL,7,away,HS,,4,miss2,0,C. Villanueva,
+80,1,2:56.0,19,18,SAC,DAL,2,home,DefReb,,,DefReb,,D. Cousins,
+81,1,2:47.0,19,18,SAC,DAL,9,home,LU,block,2,miss2,0,R. Gay,A. Aminu
+82,1,2:45.0,19,18,SAC,DAL,2,away,DefReb,,,DefReb,,A. Aminu,
+83,1,2:38.0,19,18,SAC,DAL,7,away,JS,,25,miss3,0,M. Ellis,
+84,1,2:37.0,19,18,SAC,DAL,1,away,OffReb,,,OffReb,,A. Aminu,
+85,1,2:21.0,19,18,SAC,DAL,16,away,JS,,24,miss3,0,D. Harris,
+86,1,2:21.0,19,18,SAC,DAL,0,home,DefReb,,,DefReb,,D. Cousins,
+87,1,2:06.0,21,18,SAC,DAL,15,home,LU,,2,make2,2,R. Sessions,
+88,1,2:06.0,21,18,SAC,DAL,0,away,Timeout,,,,,,
+89,1,2:06.0,21,18,SAC,DAL,0,away,Sub,,,,,R. Jefferson,A. Aminu
+90,1,2:06.0,21,18,SAC,DAL,0,away,Sub,,,,,C. Parsons,M. Ellis
+91,1,2:06.0,21,18,SAC,DAL,0,home,Sub,,,,,O. Casspi,R. Gay
+92,1,1:52.0,21,18,SAC,DAL,14,away,JS,,5,miss2,0,D. Harris,
+93,1,1:52.0,21,18,SAC,DAL,0,away,OffReb,,,OffReb,,T. Chandler,
+94,1,1:52.0,21,18,SAC,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Sessions,T. Chandler
+95,1,1:52.0,21,20,SAC,DAL,0,away,DK,,0,make2,2,T. Chandler,
+96,1,1:52.0,21,20,SAC,DAL,0,away,FreeThrow,,,make1,0,T. Chandler,
+97,1,1:51.0,21,20,SAC,DAL,1,home,DefReb,,,DefReb,,D. Williams,
+98,1,1:35.0,23,20,SAC,DAL,16,home,DK,,0,make2,2,D. Cousins,
+99,1,1:20.0,23,20,SAC,DAL,15,away,LU,,1,miss2,0,R. Jefferson,
+100,1,1:20.0,23,20,SAC,DAL,0,home,DefReb,,,DefReb,,Team,
+101,1,1:20.0,23,20,SAC,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Jefferson,D. Cousins
+102,1,1:05.0,23,20,SAC,DAL,15,home,JS,,24,miss3,0,N. Stauskas,
+103,1,1:05.0,23,20,SAC,DAL,0,away,DefReb,,,DefReb,,C. Villanueva,
+104,1,0:57.0,23,23,SAC,DAL,8,away,JS,assist,24,make3,3,R. Jefferson,C. Parsons
+105,1,0:34.0,23,23,SAC,DAL,23,home,JS,,24,miss3,0,N. Stauskas,
+106,1,0:33.0,23,23,SAC,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+107,1,0:15.0,23,23,SAC,DAL,18,away,LostBall,steal,,turnover,,C. Parsons,N. Stauskas
+108,1,0:00.0,23,23,SAC,DAL,15,home,JS,,15,miss2,0,D. Cousins,
+109,1,0:00.0,23,23,SAC,DAL,0,home,OffReb,,,OffReb,,Team,
+110,2,11:43.0,23,23,SAC,DAL,17,away,HS,,1,miss2,0,C. Villanueva,
+111,2,11:42.0,23,23,SAC,DAL,1,away,OffReb,,,OffReb,,C. Villanueva,
+112,2,11:42.0,23,25,SAC,DAL,0,away,TI,,1,make2,2,C. Villanueva,
+113,2,11:29.0,23,25,SAC,DAL,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jefferson,R. Gay
+114,2,11:29.0,23,25,SAC,DAL,0,home,Sub,,,,,C. Landry,J. Thompson
+115,2,11:18.0,23,25,SAC,DAL,11,home,JS,,16,miss2,0,R. Gay,
+116,2,11:18.0,23,25,SAC,DAL,0,away,DefReb,,,DefReb,,C. Parsons,
+117,2,11:04.0,23,25,SAC,DAL,14,away,LU,block,2,miss2,0,C. Villanueva,C. Landry
+118,2,11:04.0,23,25,SAC,DAL,0,away,OffReb,,,OffReb,,Team,
+119,2,10:59.0,23,25,SAC,DAL,5,away,JS,,23,miss3,0,C. Parsons,
+120,2,10:59.0,23,25,SAC,DAL,0,home,DefReb,,,DefReb,,C. Landry,
+121,2,10:44.0,23,25,SAC,DAL,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Villanueva,C. Landry
+122,2,10:36.0,23,25,SAC,DAL,8,home,JS,,9,miss2,0,R. Gay,
+123,2,10:35.0,23,25,SAC,DAL,1,away,DefReb,,,DefReb,,R. Jefferson,
+124,2,10:23.0,23,25,SAC,DAL,12,away,LU,,1,miss2,0,A. Aminu,
+125,2,10:22.0,23,25,SAC,DAL,1,home,DefReb,,,DefReb,,R. Gay,
+126,2,10:19.0,23,25,SAC,DAL,3,home,LU,block,2,miss2,0,C. Landry,A. Aminu
+127,2,10:16.0,23,25,SAC,DAL,3,home,OffReb,,,OffReb,,O. Casspi,
+128,2,10:15.0,25,25,SAC,DAL,1,home,DK,,0,make2,2,O. Casspi,
+129,2,10:15.0,25,25,SAC,DAL,0,home,DelayOfGame,,,DelayOfGame,,Team,
+130,2,10:08.0,25,25,SAC,DAL,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Landry,D. Harris
+131,2,10:08.0,25,26,SAC,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+132,2,10:08.0,25,27,SAC,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+133,2,9:53.0,27,27,SAC,DAL,15,home,JS,,10,make2,2,O. Casspi,
+134,2,9:53.0,27,27,SAC,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,O. Casspi
+135,2,9:53.0,28,27,SAC,DAL,0,home,FreeThrow,,,make1,1,O. Casspi,
+136,2,9:42.0,28,27,SAC,DAL,11,away,LU,,2,miss2,0,D. Harris,
+137,2,9:41.0,28,27,SAC,DAL,1,away,OffReb,,,OffReb,,A. Aminu,
+138,2,9:41.0,28,27,SAC,DAL,0,away,TI,,1,miss2,0,A. Aminu,
+139,2,9:40.0,28,27,SAC,DAL,1,home,DefReb,,,DefReb,,Team,
+140,2,9:25.0,30,27,SAC,DAL,15,home,JS,,3,make2,2,R. Gay,
+141,2,9:16.0,30,27,SAC,DAL,9,away,LU,,4,miss2,0,C. Parsons,
+142,2,9:15.0,30,27,SAC,DAL,1,home,DefReb,,,DefReb,,O. Casspi,
+143,2,9:11.0,30,27,SAC,DAL,4,away,ChargeFoul,DrawnBy,,ChargeFoul,,O. Casspi,D. Harris
+144,2,9:11.0,30,27,SAC,DAL,0,home,OffensiveFoul,,,turnover,,O. Casspi,
+145,2,9:11.0,30,27,SAC,DAL,0,away,Sub,,,,,M. Ellis,C. Parsons
+146,2,8:55.0,30,27,SAC,DAL,16,away,JS,,23,miss3,0,C. Villanueva,
+147,2,8:53.0,30,27,SAC,DAL,2,home,DefReb,,,DefReb,,N. Stauskas,
+148,2,8:47.0,30,27,SAC,DAL,6,home,LU,block,2,miss2,0,R. Sessions,C. Villanueva
+149,2,8:43.0,30,27,SAC,DAL,4,away,DefReb,,,DefReb,,A. Aminu,
+150,2,8:42.0,30,27,SAC,DAL,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Gay,D. Harris
+151,2,8:42.0,30,27,SAC,DAL,0,away,Timeout,,,,,,
+152,2,8:42.0,30,27,SAC,DAL,0,home,Sub,,,,,B. McLemore,N. Stauskas
+153,2,8:42.0,30,27,SAC,DAL,0,home,Sub,,,,,D. Collison,R. Sessions
+154,2,8:42.0,30,28,SAC,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+155,2,8:42.0,30,29,SAC,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+156,2,8:30.0,30,29,SAC,DAL,12,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Landry,D. Harris
+157,2,8:30.0,30,29,SAC,DAL,0,home,OffensiveFoul,,,turnover,,C. Landry,
+158,2,8:18.0,30,31,SAC,DAL,12,away,JS,assist,8,make2,2,C. Villanueva,D. Harris
+159,2,7:54.0,30,31,SAC,DAL,24,home,JS,,8,miss2,0,R. Gay,
+160,2,7:54.0,30,31,SAC,DAL,0,away,DefReb,,,DefReb,,R. Jefferson,
+161,2,7:40.0,30,31,SAC,DAL,14,away,JS,,23,miss3,0,R. Jefferson,
+162,2,7:40.0,30,31,SAC,DAL,0,away,OffReb,,,OffReb,,M. Ellis,
+163,2,7:36.0,30,33,SAC,DAL,4,away,LU,assist,2,make2,2,R. Jefferson,M. Ellis
+164,2,7:36.0,30,33,SAC,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Casspi,R. Jefferson
+165,2,7:36.0,30,33,SAC,DAL,0,away,Sub,,,,,T. Chandler,A. Aminu
+166,2,7:36.0,30,33,SAC,DAL,0,away,Sub,,,,,J. Barea,D. Harris
+167,2,7:36.0,30,33,SAC,DAL,0,home,Sub,,,,,D. Cousins,C. Landry
+168,2,7:36.0,30,33,SAC,DAL,0,away,FreeThrow,,,make1,0,R. Jefferson,
+169,2,7:32.0,30,33,SAC,DAL,4,home,DefReb,,,DefReb,,R. Gay,
+170,2,7:15.0,32,33,SAC,DAL,17,home,JS,assist,16,make2,2,D. Cousins,R. Gay
+171,2,7:00.0,32,33,SAC,DAL,15,away,JS,,26,miss3,0,C. Villanueva,
+172,2,6:59.0,32,33,SAC,DAL,1,home,DefReb,,,DefReb,,D. Collison,
+173,2,6:58.0,32,33,SAC,DAL,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Villanueva,R. Gay
+174,2,6:58.0,32,33,SAC,DAL,0,home,FreeThrow,,,make1,0,R. Gay,
+175,2,6:58.0,32,33,SAC,DAL,0,home,OffReb,,,OffReb,,Team,
+176,2,6:58.0,32,33,SAC,DAL,0,home,Sub,,,,,J. Thompson,O. Casspi
+177,2,6:58.0,32,33,SAC,DAL,0,away,Timeout,,,,,,
+178,2,6:58.0,33,33,SAC,DAL,0,home,FreeThrow,,,make1,1,R. Gay,
+179,2,6:45.0,33,33,SAC,DAL,13,away,BadPass,steal,,turnover,,M. Ellis,D. Cousins
+180,2,6:42.0,33,33,SAC,DAL,3,home,OutOfBounds,,,turnover,,D. Collison,
+181,2,6:16.0,33,33,SAC,DAL,26,away,JS,,9,miss2,0,R. Jefferson,
+182,2,6:15.0,33,33,SAC,DAL,1,home,DefReb,,,DefReb,,J. Thompson,
+183,2,6:02.0,33,33,SAC,DAL,13,home,JS,,3,miss2,0,D. Cousins,
+184,2,6:01.0,33,33,SAC,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+185,2,5:56.0,33,35,SAC,DAL,5,away,LU,assist,2,make2,2,C. Villanueva,J. Barea
+186,2,5:40.0,33,35,SAC,DAL,16,home,JS,,24,miss3,0,B. McLemore,
+187,2,5:37.0,33,35,SAC,DAL,3,home,OffReb,,,OffReb,,R. Gay,
+188,2,5:31.0,33,35,SAC,DAL,6,home,JS,,24,miss3,0,B. McLemore,
+189,2,5:31.0,33,35,SAC,DAL,0,away,DefReb,,,DefReb,,R. Jefferson,
+190,2,5:20.0,33,35,SAC,DAL,11,away,JS,,23,miss3,0,C. Villanueva,
+191,2,5:20.0,33,35,SAC,DAL,0,home,DefReb,,,DefReb,,R. Gay,
+192,2,5:16.0,35,35,SAC,DAL,4,home,DK,assist,0,make2,2,B. McLemore,R. Gay
+193,2,4:49.0,35,38,SAC,DAL,27,away,JS,assist,24,make3,3,R. Jefferson,J. Barea
+194,2,4:35.0,35,38,SAC,DAL,14,home,LostBall,steal,,turnover,,D. Collison,M. Ellis
+195,2,4:30.0,35,40,SAC,DAL,5,away,DK,assist,0,make2,2,T. Chandler,J. Barea
+196,2,4:27.0,35,40,SAC,DAL,3,home,Timeout,,,,,,
+197,2,4:27.0,35,40,SAC,DAL,0,away,Sub,,,,,A. Aminu,C. Villanueva
+198,2,4:27.0,35,40,SAC,DAL,0,away,Sub,,,,,C. Parsons,R. Jefferson
+199,2,4:10.0,35,40,SAC,DAL,17,home,JS,block,3,miss2,0,D. Cousins,A. Aminu
+200,2,4:08.0,35,40,SAC,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+201,2,4:04.0,35,42,SAC,DAL,4,away,DK,assist,0,make2,2,T. Chandler,M. Ellis
+202,2,3:40.0,35,42,SAC,DAL,24,home,JS,,7,miss2,0,J. Thompson,
+203,2,3:40.0,35,42,SAC,DAL,0,away,DefReb,,,DefReb,,T. Chandler,
+204,2,3:30.0,35,44,SAC,DAL,10,away,JS,,8,make2,2,J. Barea,
+205,2,3:18.0,35,44,SAC,DAL,12,home,BadPass,steal,,turnover,,R. Gay,A. Aminu
+206,2,3:10.0,35,47,SAC,DAL,8,away,JS,assist,23,make3,3,C. Parsons,M. Ellis
+207,2,3:10.0,35,47,SAC,DAL,0,home,Timeout,,,,,,
+208,2,2:56.0,35,47,SAC,DAL,14,home,BadPass,,,turnover,,D. Cousins,
+209,2,2:56.0,35,47,SAC,DAL,0,home,Sub,,,,,D. Williams,J. Thompson
+210,2,2:44.0,35,49,SAC,DAL,12,away,JS,,20,make2,2,M. Ellis,
+211,2,2:27.0,37,49,SAC,DAL,17,home,JS,,18,make2,2,D. Collison,
+212,2,2:00.0,37,52,SAC,DAL,27,away,JS,assist,24,make3,3,M. Ellis,C. Parsons
+213,2,1:46.0,39,52,SAC,DAL,14,home,LU,,0,make2,2,D. Collison,
+214,2,1:34.0,39,54,SAC,DAL,12,away,JS,,12,make2,2,J. Barea,
+215,2,1:16.0,39,54,SAC,DAL,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,R. Gay
+216,2,1:16.0,40,54,SAC,DAL,0,home,FreeThrow,,,make1,1,R. Gay,
+217,2,1:16.0,40,54,SAC,DAL,0,home,Sub,,,,,R. Sessions,D. Collison
+218,2,1:16.0,40,54,SAC,DAL,0,away,Sub,,,,,R. Jefferson,A. Aminu
+219,2,1:16.0,41,54,SAC,DAL,0,home,FreeThrow,,,make1,1,R. Gay,
+220,2,1:01.0,41,57,SAC,DAL,15,away,JS,,25,make3,3,M. Ellis,
+221,2,0:39.0,41,57,SAC,DAL,22,home,JS,,23,miss3,0,B. McLemore,
+222,2,0:38.0,41,57,SAC,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+223,2,0:32.0,41,57,SAC,DAL,6,away,JS,,24,miss3,0,J. Barea,
+224,2,0:31.0,41,57,SAC,DAL,1,away,OffReb,,,OffReb,,Team,
+225,2,0:31.0,41,57,SAC,DAL,0,away,Timeout,,,,,,
+226,2,0:31.0,41,57,SAC,DAL,0,home,Sub,,,,,N. Stauskas,B. McLemore
+227,2,0:29.0,41,57,SAC,DAL,2,away,BadPass,steal,,turnover,,J. Barea,R. Gay
+228,2,0:25.0,41,57,SAC,DAL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Parsons,R. Gay
+229,2,0:25.0,42,57,SAC,DAL,0,home,FreeThrow,,,make1,1,R. Gay,
+230,2,0:25.0,42,57,SAC,DAL,0,home,Sub,,,,,R. McCallum,N. Stauskas
+231,2,0:25.0,42,57,SAC,DAL,0,away,Sub,,,,,C. Villanueva,R. Jefferson
+232,2,0:25.0,43,57,SAC,DAL,0,home,FreeThrow,,,make1,1,R. Gay,
+233,2,0:07.0,43,57,SAC,DAL,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,T. Chandler
+234,2,0:00.0,43,60,SAC,DAL,7,away,JS,,25,make3,3,M. Ellis,
+235,3,11:44.0,43,60,SAC,DAL,16,home,KickBallViolation,,,KickBallViolation,,J. Thompson,
+236,3,11:36.0,43,60,SAC,DAL,8,away,JS,,25,miss3,0,A. Aminu,
+237,3,11:36.0,43,60,SAC,DAL,0,home,DefReb,,,DefReb,,R. Gay,
+238,3,11:17.0,43,60,SAC,DAL,19,home,JS,,24,miss3,0,R. Gay,
+239,3,11:16.0,43,60,SAC,DAL,1,away,DefReb,,,DefReb,,J. Barea,
+240,3,11:05.0,43,60,SAC,DAL,11,away,JS,,8,miss2,0,C. Parsons,
+241,3,11:04.0,43,60,SAC,DAL,1,home,DefReb,,,DefReb,,J. Thompson,
+242,3,10:55.0,43,60,SAC,DAL,9,home,BadPass,steal,,turnover,,D. Cousins,C. Parsons
+243,3,10:53.0,43,60,SAC,DAL,2,away,BadPass,,,turnover,,C. Parsons,
+244,3,10:44.0,45,60,SAC,DAL,9,home,JS,,5,make2,2,R. Sessions,
+245,3,10:22.0,45,62,SAC,DAL,22,away,JS,,10,make2,2,M. Ellis,
+246,3,10:06.0,45,62,SAC,DAL,16,home,JS,,23,miss3,0,B. McLemore,
+247,3,10:05.0,45,62,SAC,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+248,3,9:46.0,45,64,SAC,DAL,19,away,JS,assist,15,make2,2,T. Chandler,A. Aminu
+249,3,9:24.0,48,64,SAC,DAL,22,home,JS,assist,25,make3,3,B. McLemore,D. Cousins
+250,3,9:09.0,48,64,SAC,DAL,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Thompson,T. Chandler
+251,3,9:09.0,48,65,SAC,DAL,0,away,FreeThrow,,,make1,1,T. Chandler,
+252,3,9:09.0,48,66,SAC,DAL,0,away,FreeThrow,,,make1,1,T. Chandler,
+253,3,8:49.0,48,66,SAC,DAL,20,home,JS,,16,miss2,0,D. Cousins,
+254,3,8:49.0,48,66,SAC,DAL,0,away,DefReb,,,DefReb,,T. Chandler,
+255,3,8:36.0,48,66,SAC,DAL,13,away,JS,,21,miss2,0,M. Ellis,
+256,3,8:36.0,48,66,SAC,DAL,0,home,DefReb,,,DefReb,,R. Gay,
+257,3,8:21.0,48,66,SAC,DAL,15,away,ChargeFoul,DrawnBy,,ChargeFoul,,R. Gay,M. Ellis
+258,3,8:21.0,48,66,SAC,DAL,0,home,OffensiveFoul,,,turnover,,R. Gay,
+259,3,8:03.0,48,66,SAC,DAL,18,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Aminu,J. Thompson
+260,3,8:03.0,48,66,SAC,DAL,0,away,OffensiveFoul,,,turnover,,A. Aminu,
+261,3,7:46.0,48,66,SAC,DAL,17,home,JS,,5,miss2,0,D. Cousins,
+262,3,7:45.0,48,66,SAC,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+263,3,7:40.0,48,68,SAC,DAL,5,away,JS,,18,make2,2,J. Barea,
+264,3,7:23.0,48,68,SAC,DAL,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Barea,R. Sessions
+265,3,7:23.0,49,68,SAC,DAL,0,home,FreeThrow,,,make1,1,R. Sessions,
+266,3,7:23.0,49,68,SAC,DAL,0,away,Sub,,,,,R. Jefferson,A. Aminu
+267,3,7:23.0,49,68,SAC,DAL,0,home,FreeThrow,,,make1,0,R. Sessions,
+268,3,7:23.0,49,68,SAC,DAL,0,home,OffReb,,,OffReb,,D. Cousins,
+269,3,7:19.0,49,68,SAC,DAL,4,home,LostBall,steal,,turnover,,D. Cousins,R. Jefferson
+270,3,7:01.0,49,68,SAC,DAL,18,away,JS,,24,miss3,0,M. Ellis,
+271,3,7:01.0,49,68,SAC,DAL,0,home,DefReb,,,DefReb,,B. McLemore,
+272,3,6:55.0,49,68,SAC,DAL,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ellis,D. Cousins
+273,3,6:55.0,49,68,SAC,DAL,0,away,Sub,,,,,G. Smith,T. Chandler
+274,3,6:44.0,49,68,SAC,DAL,11,home,JS,,17,miss2,0,D. Cousins,
+275,3,6:43.0,49,68,SAC,DAL,1,away,DefReb,,,DefReb,,C. Parsons,
+276,3,6:34.0,49,71,SAC,DAL,9,away,JS,assist,25,make3,3,R. Jefferson,C. Parsons
+277,3,6:34.0,49,71,SAC,DAL,0,home,Timeout,,,,,,
+278,3,6:34.0,49,71,SAC,DAL,0,home,Sub,,,,,D. Williams,R. Gay
+279,3,6:34.0,49,71,SAC,DAL,0,home,Sub,,,,,O. Casspi,J. Thompson
+280,3,6:16.0,49,71,SAC,DAL,18,home,JS,,5,miss2,0,O. Casspi,
+281,3,6:15.0,49,71,SAC,DAL,1,away,DefReb,,,DefReb,,G. Smith,
+282,3,5:53.0,49,73,SAC,DAL,22,away,LU,,2,make2,2,J. Barea,
+283,3,5:28.0,49,73,SAC,DAL,25,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Smith,D. Cousins
+284,3,5:28.0,50,73,SAC,DAL,0,home,FreeThrow,,,make1,1,D. Cousins,
+285,3,5:28.0,51,73,SAC,DAL,0,home,FreeThrow,,,make1,1,D. Cousins,
+286,3,5:11.0,51,73,SAC,DAL,17,away,JS,,17,miss2,0,M. Ellis,
+287,3,5:11.0,51,73,SAC,DAL,0,home,DefReb,,,DefReb,,O. Casspi,
+288,3,4:59.0,51,73,SAC,DAL,12,home,BadPass,,,turnover,,D. Cousins,
+289,3,4:45.0,51,73,SAC,DAL,14,away,JS,,10,miss2,0,J. Barea,
+290,3,4:44.0,51,73,SAC,DAL,1,home,DefReb,,,DefReb,,O. Casspi,
+291,3,4:36.0,53,73,SAC,DAL,8,home,LU,assist,2,make2,2,D. Cousins,R. Sessions
+292,3,4:18.0,53,76,SAC,DAL,18,away,JS,assist,24,make3,3,C. Parsons,J. Barea
+293,3,3:58.0,53,76,SAC,DAL,20,away,Sub,,,,,T. Chandler,J. Barea
+294,3,3:58.0,53,76,SAC,DAL,0,away,Sub,,,,,C. Villanueva,G. Smith
+295,3,3:58.0,53,76,SAC,DAL,0,away,Sub,,,,,D. Harris,R. Jefferson
+296,3,3:46.0,55,76,SAC,DAL,12,home,JS,,16,make2,2,R. Sessions,
+297,3,3:27.0,55,78,SAC,DAL,19,away,JS,assist,13,make2,2,M. Ellis,T. Chandler
+298,3,3:10.0,55,78,SAC,DAL,17,home,JS,,16,miss2,0,D. Williams,
+299,3,3:09.0,55,78,SAC,DAL,1,away,DefReb,,,DefReb,,C. Parsons,
+300,3,3:02.0,55,78,SAC,DAL,7,away,JS,,24,miss3,0,M. Ellis,
+301,3,3:02.0,55,78,SAC,DAL,0,home,DefReb,,,DefReb,,B. McLemore,
+302,3,2:58.0,55,78,SAC,DAL,4,away,Timeout,,,,,,
+303,3,2:58.0,55,78,SAC,DAL,0,home,Sub,,,,,R. McCallum,R. Sessions
+304,3,2:58.0,55,78,SAC,DAL,0,away,Sub,,,,,R. Jefferson,C. Parsons
+305,3,2:44.0,57,78,SAC,DAL,14,home,JS,,19,make2,2,D. Williams,
+306,3,2:26.0,57,81,SAC,DAL,18,away,JS,assist,25,make3,3,D. Harris,M. Ellis
+307,3,2:14.0,57,81,SAC,DAL,12,away,KickBallViolation,,,KickBallViolation,,T. Chandler,
+308,3,2:01.0,57,81,SAC,DAL,13,home,JS,,22,miss3,0,R. McCallum,
+309,3,1:59.0,57,81,SAC,DAL,2,away,DefReb,,,DefReb,,R. Jefferson,
+310,3,1:51.0,57,81,SAC,DAL,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,D. Harris
+311,3,1:40.0,57,81,SAC,DAL,11,away,JS,,21,miss2,0,M. Ellis,
+312,3,1:39.0,57,81,SAC,DAL,1,home,DefReb,,,DefReb,,D. Cousins,
+313,3,1:33.0,57,81,SAC,DAL,6,home,JS,,18,miss2,0,B. McLemore,
+314,3,1:32.0,57,81,SAC,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+315,3,1:28.0,57,81,SAC,DAL,4,away,LU,block,2,miss2,0,M. Ellis,D. Cousins
+316,3,1:28.0,57,81,SAC,DAL,0,away,OffReb,,,OffReb,,Team,
+317,3,1:22.0,57,81,SAC,DAL,6,away,JS,,24,miss3,0,R. Jefferson,
+318,3,1:20.0,57,81,SAC,DAL,2,home,DefReb,,,DefReb,,B. McLemore,
+319,3,1:14.0,59,81,SAC,DAL,6,home,JS,assist,5,make2,2,D. Cousins,B. McLemore
+320,3,1:14.0,59,81,SAC,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,D. Cousins
+321,3,1:14.0,60,81,SAC,DAL,0,home,FreeThrow,,,make1,1,D. Cousins,
+322,3,0:58.0,60,83,SAC,DAL,16,away,LU,,3,make2,2,D. Harris,
+323,3,0:48.0,60,83,SAC,DAL,10,home,JS,,24,miss3,0,B. McLemore,
+324,3,0:47.0,60,83,SAC,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+325,3,0:36.0,60,83,SAC,DAL,11,away,Traveling,,,turnover,,M. Ellis,
+326,3,0:36.0,60,83,SAC,DAL,0,away,Sub,,,,,J. Barea,M. Ellis
+327,3,0:25.0,60,83,SAC,DAL,11,home,LostBall,,,turnover,,B. McLemore,
+328,3,0:04.0,60,83,SAC,DAL,21,away,JS,,25,miss3,0,D. Harris,
+329,3,0:03.0,60,83,SAC,DAL,1,home,DefReb,,,DefReb,,O. Casspi,
+330,4,11:40.0,60,83,SAC,DAL,20,home,LostBall,steal,,turnover,,N. Stauskas,T. Chandler
+331,4,11:20.0,60,83,SAC,DAL,20,away,JS,,23,miss3,0,J. Barea,
+332,4,11:20.0,60,83,SAC,DAL,0,home,DefReb,,,DefReb,,R. Gay,
+333,4,11:16.0,60,83,SAC,DAL,4,home,LU,,0,miss2,0,N. Stauskas,
+334,4,11:14.0,60,83,SAC,DAL,2,away,DefReb,,,DefReb,,Team,
+335,4,10:55.0,60,83,SAC,DAL,19,away,LU,block,1,miss2,0,T. Chandler,D. Cousins
+336,4,10:52.0,60,83,SAC,DAL,3,home,DefReb,,,DefReb,,D. Cousins,
+337,4,10:45.0,60,83,SAC,DAL,7,home,LU,block,1,miss2,0,D. Cousins,C. Villanueva
+338,4,10:45.0,60,83,SAC,DAL,0,home,OffReb,,,OffReb,,Team,
+339,4,10:35.0,60,83,SAC,DAL,10,home,JS,,22,miss3,0,R. Gay,
+340,4,10:34.0,60,83,SAC,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+341,4,10:20.0,60,83,SAC,DAL,14,away,JS,,25,miss3,0,C. Villanueva,
+342,4,10:19.0,60,83,SAC,DAL,1,home,DefReb,,,DefReb,,D. Cousins,
+343,4,10:15.0,60,83,SAC,DAL,4,home,LU,block,1,miss2,0,N. Stauskas,D. Harris
+344,4,10:14.0,60,83,SAC,DAL,1,home,OffReb,,,OffReb,,Team,
+345,4,10:00.0,60,83,SAC,DAL,14,home,JS,,20,miss2,0,R. McCallum,
+346,4,10:00.0,60,83,SAC,DAL,0,away,DefReb,,,DefReb,,T. Chandler,
+347,4,9:49.0,60,85,SAC,DAL,11,away,JS,assist,3,make2,2,T. Chandler,D. Harris
+348,4,9:32.0,60,85,SAC,DAL,17,home,JS,,25,miss3,0,N. Stauskas,
+349,4,9:31.0,60,85,SAC,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+350,4,9:27.0,60,85,SAC,DAL,4,away,Timeout,,,,,,
+351,4,9:27.0,60,85,SAC,DAL,0,away,Sub,,,,,G. Smith,T. Chandler
+352,4,9:16.0,60,87,SAC,DAL,11,away,JS,assist,20,make2,2,C. Villanueva,G. Smith
+353,4,9:01.0,63,87,SAC,DAL,15,home,JS,assist,25,make3,3,D. Williams,D. Cousins
+354,4,8:37.0,63,89,SAC,DAL,24,away,JS,assist,6,make2,2,J. Barea,C. Villanueva
+355,4,8:16.0,63,89,SAC,DAL,21,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Smith,D. Cousins
+356,4,8:06.0,63,89,SAC,DAL,10,home,JS,,24,miss3,0,N. Stauskas,
+357,4,8:06.0,63,89,SAC,DAL,0,away,DefReb,,,DefReb,,R. Jefferson,
+358,4,7:50.0,63,89,SAC,DAL,16,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Cousins,D. Harris
+359,4,7:41.0,63,89,SAC,DAL,9,away,JS,,25,miss3,0,C. Villanueva,
+360,4,7:41.0,63,89,SAC,DAL,0,home,DefReb,,,DefReb,,R. McCallum,
+361,4,7:24.0,65,89,SAC,DAL,17,home,JS,assist,3,make2,2,D. Cousins,D. Williams
+362,4,7:04.0,65,92,SAC,DAL,20,away,JS,assist,24,make3,3,D. Harris,C. Villanueva
+363,4,6:47.0,65,92,SAC,DAL,17,home,JS,,19,miss2,0,R. McCallum,
+364,4,6:46.0,65,92,SAC,DAL,1,away,DefReb,,,DefReb,,D. Harris,
+365,4,6:27.0,65,92,SAC,DAL,19,away,JS,,24,miss3,0,J. Barea,
+366,4,6:26.0,65,92,SAC,DAL,1,home,DefReb,,,DefReb,,R. Gay,
+367,4,6:17.0,65,92,SAC,DAL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,R. Gay
+368,4,6:17.0,66,92,SAC,DAL,0,home,FreeThrow,,,make1,1,R. Gay,
+369,4,6:17.0,66,92,SAC,DAL,0,away,Sub,,,,,R. Felton,D. Harris
+370,4,6:17.0,66,92,SAC,DAL,0,home,Sub,,,,,Q. Miller,D. Williams
+371,4,6:17.0,67,92,SAC,DAL,0,home,FreeThrow,,,make1,1,R. Gay,
+372,4,6:03.0,67,92,SAC,DAL,14,away,LU,,3,miss2,0,G. Smith,
+373,4,6:01.0,67,92,SAC,DAL,2,away,OffReb,,,OffReb,,C. Villanueva,
+374,4,6:01.0,67,92,SAC,DAL,0,away,TI,,1,miss2,0,C. Villanueva,
+375,4,6:00.0,67,92,SAC,DAL,1,home,DefReb,,,DefReb,,D. Cousins,
+376,4,5:55.0,67,92,SAC,DAL,5,away,Timeout,,,,,,
+377,4,5:55.0,67,92,SAC,DAL,0,home,Sub,,,,,R. Hollins,R. Gay
+378,4,5:55.0,67,92,SAC,DAL,0,home,Sub,,,,,C. Landry,D. Cousins
+379,4,5:50.0,67,92,SAC,DAL,5,home,LU,,2,miss2,0,R. McCallum,
+380,4,5:49.0,67,92,SAC,DAL,1,home,OffReb,,,OffReb,,C. Landry,
+381,4,5:49.0,67,92,SAC,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Felton,C. Landry
+382,4,5:49.0,67,92,SAC,DAL,0,home,FreeThrow,,,make1,0,C. Landry,
+383,4,5:49.0,67,92,SAC,DAL,0,home,OffReb,,,OffReb,,Team,
+384,4,5:49.0,67,92,SAC,DAL,0,home,FreeThrow,,,make1,0,C. Landry,
+385,4,5:48.0,67,92,SAC,DAL,1,away,DefReb,,,DefReb,,J. Barea,
+386,4,5:33.0,67,92,SAC,DAL,15,away,JS,,17,miss2,0,R. Jefferson,
+387,4,5:32.0,67,92,SAC,DAL,1,home,DefReb,,,DefReb,,R. Hollins,
+388,4,5:14.0,69,92,SAC,DAL,18,home,JS,,8,make2,2,R. Hollins,
+389,4,5:00.0,69,92,SAC,DAL,14,away,JS,,11,miss2,0,R. Felton,
+390,4,4:59.0,69,92,SAC,DAL,1,home,DefReb,,,DefReb,,R. Hollins,
+391,4,4:47.0,69,92,SAC,DAL,12,home,LU,,2,miss2,0,N. Stauskas,
+392,4,4:45.0,69,92,SAC,DAL,2,home,OffReb,,,OffReb,,C. Landry,
+393,4,4:39.0,69,92,SAC,DAL,6,home,JS,,23,miss3,0,R. McCallum,
+394,4,4:38.0,69,92,SAC,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+395,4,4:18.0,69,92,SAC,DAL,20,away,JS,,25,miss3,0,R. Jefferson,
+396,4,4:17.0,69,92,SAC,DAL,1,home,DefReb,,,DefReb,,Q. Miller,
+397,4,4:10.0,69,92,SAC,DAL,7,home,JS,,24,miss3,0,Q. Miller,
+398,4,4:09.0,69,92,SAC,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+399,4,4:03.0,69,94,SAC,DAL,6,away,LU,assist,2,make2,2,J. Barea,R. Felton
+400,4,3:46.0,69,94,SAC,DAL,17,home,LU,block,3,miss2,0,R. McCallum,J. Barea
+401,4,3:45.0,69,94,SAC,DAL,1,home,OffReb,,,OffReb,,R. McCallum,
+402,4,3:45.0,69,94,SAC,DAL,0,home,TI,,3,miss2,0,R. McCallum,
+403,4,3:44.0,69,94,SAC,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+404,4,3:40.0,69,94,SAC,DAL,4,away,Timeout,,,,,,
+405,4,3:40.0,69,94,SAC,DAL,0,away,Sub,,,,,D. Powell,J. Barea
+406,4,3:40.0,69,94,SAC,DAL,0,away,Sub,,,,,R. Ledo,C. Villanueva
+407,4,3:30.0,69,94,SAC,DAL,10,away,JS,,18,miss2,0,D. Powell,
+408,4,3:29.0,69,94,SAC,DAL,1,home,DefReb,,,DefReb,,R. McCallum,
+409,4,3:18.0,69,94,SAC,DAL,11,home,JS,,20,miss2,0,N. Stauskas,
+410,4,3:18.0,69,94,SAC,DAL,0,away,DefReb,,,DefReb,,D. Powell,
+411,4,3:07.0,69,94,SAC,DAL,11,away,LU,block,4,miss2,0,R. Ledo,Q. Miller
+412,4,3:07.0,69,94,SAC,DAL,0,away,OffReb,,,OffReb,,Team,
+413,4,3:00.0,69,96,SAC,DAL,7,away,JS,assist,18,make2,2,D. Powell,R. Felton
+414,4,2:47.0,69,96,SAC,DAL,13,home,LostBall,steal,,turnover,,C. Landry,D. Powell
+415,4,2:43.0,69,96,SAC,DAL,4,away,JS,,3,miss2,0,R. Felton,
+416,4,2:41.0,69,96,SAC,DAL,2,away,OffReb,,,OffReb,,R. Jefferson,
+417,4,2:39.0,69,98,SAC,DAL,2,away,DK,,0,make2,2,R. Jefferson,
+418,4,2:26.0,71,98,SAC,DAL,13,home,JS,,5,make2,2,C. Landry,
+419,4,2:26.0,71,98,SAC,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Powell,C. Landry
+420,4,2:26.0,71,98,SAC,DAL,0,home,Timeout,,,,,,
+421,4,2:26.0,72,98,SAC,DAL,0,home,FreeThrow,,,make1,1,C. Landry,
+422,4,2:14.0,72,98,SAC,DAL,12,away,JS,block,20,miss2,0,D. Powell,R. Hollins
+423,4,2:13.0,72,98,SAC,DAL,1,home,DefReb,,,DefReb,,R. McCallum,
+424,4,1:54.0,72,98,SAC,DAL,19,home,JS,,25,miss3,0,N. Stauskas,
+425,4,1:54.0,72,98,SAC,DAL,0,away,DefReb,,,DefReb,,G. Smith,
+426,4,1:53.0,72,98,SAC,DAL,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Landry,G. Smith
+427,4,1:33.0,72,98,SAC,DAL,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,Q. Miller,R. Jefferson
+428,4,1:33.0,72,98,SAC,DAL,0,away,FreeThrow,,,make1,0,R. Jefferson,
+429,4,1:33.0,72,98,SAC,DAL,0,away,OffReb,,,OffReb,,Team,
+430,4,1:33.0,72,99,SAC,DAL,0,away,FreeThrow,,,make1,1,R. Jefferson,
+431,4,1:21.0,74,99,SAC,DAL,12,home,JS,,14,make2,2,R. McCallum,
+432,4,1:13.0,74,99,SAC,DAL,8,away,LU,block,3,miss2,0,D. Powell,R. Hollins
+433,4,1:13.0,74,99,SAC,DAL,0,away,OffReb,,,OffReb,,Team,
+434,4,1:02.0,74,99,SAC,DAL,11,away,JS,,21,miss2,0,R. Felton,
+435,4,1:01.0,74,99,SAC,DAL,1,home,DefReb,,,DefReb,,R. Hollins,
+436,4,0:56.0,74,99,SAC,DAL,5,home,JS,,19,miss2,0,R. McCallum,
+437,4,0:55.0,74,99,SAC,DAL,1,home,OffReb,,,OffReb,,Team,
+438,4,0:52.0,74,99,SAC,DAL,3,home,JS,,17,miss2,0,C. Landry,
+439,4,0:51.0,74,99,SAC,DAL,1,away,DefReb,,,DefReb,,R. Ledo,
+440,4,0:42.0,74,99,SAC,DAL,9,away,JS,,25,miss3,0,R. Ledo,
+441,4,0:41.0,74,99,SAC,DAL,1,home,DefReb,,,DefReb,,R. Hollins,
+442,4,0:32.0,76,99,SAC,DAL,9,home,DK,,0,make2,2,R. Hollins,
+443,4,0:21.0,76,101,SAC,DAL,11,away,JS,assist,21,make2,2,D. Powell,R. Felton
+444,4,0:14.0,78,101,SAC,DAL,7,home,JS,,3,make2,2,R. McCallum,
+445,4,0:01.0,78,101,SAC,DAL,13,away,LostBall,steal,,turnover,,R. Ledo,Q. Miller

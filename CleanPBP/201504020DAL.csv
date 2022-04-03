@@ -1,0 +1,492 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:40.0,0,2,DAL,HOU,20,away,LU,assist,0,make2,2,D. Howard,T. Ariza
+1,1,11:24.0,2,2,DAL,HOU,16,home,JS,assist,7,make2,2,D. Nowitzki,C. Parsons
+2,1,10:59.0,2,4,DAL,HOU,25,away,JS,,12,make2,2,J. Harden,
+3,1,10:37.0,4,4,DAL,HOU,22,home,JS,assist,15,make2,2,D. Nowitzki,R. Rondo
+4,1,10:22.0,4,4,DAL,HOU,15,away,HS,,9,miss2,0,T. Jones,
+5,1,10:20.0,4,4,DAL,HOU,2,home,DefReb,,,DefReb,,T. Chandler,
+6,1,10:16.0,4,4,DAL,HOU,4,home,LU,,1,miss2,0,C. Parsons,
+7,1,10:15.0,4,4,DAL,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
+8,1,10:02.0,4,4,DAL,HOU,13,away,BadPass,steal,,turnover,,T. Jones,T. Chandler
+9,1,9:48.0,6,4,DAL,HOU,14,home,JS,assist,5,make2,2,T. Chandler,R. Rondo
+10,1,9:26.0,6,4,DAL,HOU,22,away,JS,,5,miss2,0,T. Jones,
+11,1,9:25.0,6,4,DAL,HOU,1,home,DefReb,,,DefReb,,T. Chandler,
+12,1,9:20.0,8,4,DAL,HOU,5,home,LU,assist,0,make2,2,M. Ellis,R. Rondo
+13,1,8:59.0,8,4,DAL,HOU,21,away,JS,,25,miss3,0,J. Terry,
+14,1,8:58.0,8,4,DAL,HOU,1,home,DefReb,,,DefReb,,T. Chandler,
+15,1,8:49.0,10,4,DAL,HOU,9,home,JS,assist,16,make2,2,T. Chandler,R. Rondo
+16,1,8:34.0,10,6,DAL,HOU,15,away,JS,assist,3,make2,2,T. Jones,J. Harden
+17,1,8:27.0,10,6,DAL,HOU,7,home,LU,,0,miss2,0,C. Parsons,
+18,1,8:26.0,10,6,DAL,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
+19,1,8:22.0,10,6,DAL,HOU,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ellis,J. Harden
+20,1,8:12.0,10,6,DAL,HOU,10,away,HS,,6,miss2,0,D. Howard,
+21,1,8:12.0,10,6,DAL,HOU,0,home,DefReb,,,DefReb,,D. Nowitzki,
+22,1,8:12.0,10,6,DAL,HOU,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Jones,D. Nowitzki
+23,1,8:00.0,10,6,DAL,HOU,12,home,BadPass,steal,,turnover,,M. Ellis,J. Terry
+24,1,7:57.0,10,8,DAL,HOU,3,away,LU,,0,make2,2,J. Terry,
+25,1,7:43.0,10,8,DAL,HOU,14,home,BadPass,,,turnover,,R. Rondo,
+26,1,7:36.0,10,8,DAL,HOU,7,away,JS,,25,miss3,0,J. Harden,
+27,1,7:35.0,10,8,DAL,HOU,1,home,DefReb,,,DefReb,,T. Chandler,
+28,1,7:28.0,10,8,DAL,HOU,7,home,JS,,25,miss3,0,D. Nowitzki,
+29,1,7:27.0,10,8,DAL,HOU,1,away,DefReb,,,DefReb,,J. Terry,
+30,1,7:22.0,10,8,DAL,HOU,5,away,LostBall,,,turnover,,D. Howard,
+31,1,7:15.0,10,8,DAL,HOU,7,home,HS,,5,miss2,0,T. Chandler,
+32,1,7:14.0,10,8,DAL,HOU,1,home,OffReb,,,OffReb,,R. Rondo,
+33,1,6:58.0,13,8,DAL,HOU,16,home,JS,assist,24,make3,3,C. Parsons,R. Rondo
+34,1,6:40.0,13,10,DAL,HOU,18,away,LU,assist,1,make2,2,T. Jones,J. Terry
+35,1,6:22.0,15,10,DAL,HOU,18,home,JS,,19,make2,2,R. Rondo,
+36,1,6:13.0,15,12,DAL,HOU,9,away,DK,assist,0,make2,2,T. Ariza,T. Jones
+37,1,5:59.0,15,12,DAL,HOU,14,home,JS,,8,miss2,0,M. Ellis,
+38,1,5:58.0,15,12,DAL,HOU,1,away,DefReb,,,DefReb,,D. Howard,
+39,1,5:46.0,15,12,DAL,HOU,12,away,JS,,4,miss2,0,T. Ariza,
+40,1,5:45.0,15,12,DAL,HOU,1,home,DefReb,,,DefReb,,D. Nowitzki,
+41,1,5:43.0,15,12,DAL,HOU,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Terry,C. Parsons
+42,1,5:43.0,15,12,DAL,HOU,0,home,Timeout,,,,,,
+43,1,5:43.0,15,12,DAL,HOU,0,home,Sub,,,,,A. Stoudemire,D. Nowitzki
+44,1,5:43.0,15,12,DAL,HOU,0,home,Sub,,,,,A. Aminu,T. Chandler
+45,1,5:43.0,15,12,DAL,HOU,0,away,Sub,,,,,J. Smith,T. Jones
+46,1,5:43.0,15,12,DAL,HOU,0,away,Sub,,,,,J. Dorsey,D. Howard
+47,1,5:43.0,15,12,DAL,HOU,0,away,Sub,,,,,P. Prigioni,J. Terry
+48,1,5:29.0,17,12,DAL,HOU,14,home,HS,,3,make2,2,A. Stoudemire,
+49,1,5:29.0,17,12,DAL,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Dorsey,A. Stoudemire
+50,1,5:29.0,18,12,DAL,HOU,0,home,FreeThrow,,,make1,1,A. Stoudemire,
+51,1,5:09.0,18,12,DAL,HOU,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Stoudemire,J. Dorsey
+52,1,5:09.0,18,12,DAL,HOU,0,away,FreeThrow,,,make1,0,J. Dorsey,
+53,1,5:09.0,18,12,DAL,HOU,0,away,OffReb,,,OffReb,,Team,
+54,1,5:09.0,18,12,DAL,HOU,0,away,FreeThrow,,,make1,0,J. Dorsey,
+55,1,5:08.0,18,12,DAL,HOU,1,home,DefReb,,,DefReb,,A. Stoudemire,
+56,1,4:49.0,18,12,DAL,HOU,19,home,LostBall,steal,,turnover,,A. Stoudemire,T. Ariza
+57,1,4:43.0,18,12,DAL,HOU,6,away,LU,,0,miss2,0,J. Dorsey,
+58,1,4:41.0,18,12,DAL,HOU,2,home,DefReb,,,DefReb,,R. Rondo,
+59,1,4:29.0,20,12,DAL,HOU,12,home,LU,,2,make2,2,A. Stoudemire,
+60,1,4:08.0,20,15,DAL,HOU,21,away,JS,assist,23,make3,3,P. Prigioni,J. Smith
+61,1,3:51.0,20,15,DAL,HOU,17,home,HS,,3,miss2,0,A. Stoudemire,
+62,1,3:49.0,20,15,DAL,HOU,2,away,DefReb,,,DefReb,,J. Dorsey,
+63,1,3:44.0,20,17,DAL,HOU,5,away,LU,assist,0,make2,2,T. Ariza,J. Harden
+64,1,3:32.0,20,17,DAL,HOU,12,home,JS,,21,miss2,0,R. Rondo,
+65,1,3:31.0,20,17,DAL,HOU,1,home,OffReb,,,OffReb,,A. Aminu,
+66,1,3:20.0,20,17,DAL,HOU,11,home,LostBall,steal,,turnover,,C. Parsons,P. Prigioni
+67,1,3:13.0,20,20,DAL,HOU,7,away,JS,assist,25,make3,3,J. Harden,T. Ariza
+68,1,3:06.0,20,20,DAL,HOU,7,home,Timeout,,,,,,
+69,1,3:06.0,20,20,DAL,HOU,0,away,Timeout,,,,,,
+70,1,3:06.0,20,20,DAL,HOU,0,home,Sub,,,,,D. Harris,R. Rondo
+71,1,3:06.0,20,20,DAL,HOU,0,away,Sub,,,,,C. Brewer,T. Ariza
+72,1,2:53.0,20,20,DAL,HOU,13,home,JS,,24,miss3,0,M. Ellis,
+73,1,2:52.0,20,20,DAL,HOU,1,away,DefReb,,,DefReb,,J. Harden,
+74,1,2:43.0,20,20,DAL,HOU,9,away,JS,,11,miss2,0,J. Harden,
+75,1,2:42.0,20,20,DAL,HOU,1,away,OffReb,,,OffReb,,J. Dorsey,
+76,1,2:40.0,20,22,DAL,HOU,2,away,LU,,1,make2,2,J. Dorsey,
+77,1,2:24.0,20,22,DAL,HOU,16,home,BadPass,steal,,turnover,,D. Harris,J. Dorsey
+78,1,2:19.0,20,22,DAL,HOU,5,away,LU,,1,miss2,0,J. Dorsey,
+79,1,2:19.0,20,22,DAL,HOU,0,away,OffReb,,,OffReb,,J. Dorsey,
+80,1,2:19.0,20,22,DAL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,J. Dorsey
+81,1,2:19.0,20,23,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Dorsey,
+82,1,2:19.0,20,23,DAL,HOU,0,home,Sub,,,,,J. Barea,C. Parsons
+83,1,2:19.0,20,23,DAL,HOU,0,home,Sub,,,,,D. Nowitzki,M. Ellis
+84,1,2:19.0,20,23,DAL,HOU,0,away,FreeThrow,,,make1,0,J. Dorsey,
+85,1,2:18.0,20,23,DAL,HOU,1,home,DefReb,,,DefReb,,A. Aminu,
+86,1,2:06.0,20,23,DAL,HOU,12,home,JS,,6,miss2,0,A. Aminu,
+87,1,2:04.0,20,23,DAL,HOU,2,home,OffReb,,,OffReb,,A. Stoudemire,
+88,1,2:04.0,22,23,DAL,HOU,0,home,TI,,0,make2,2,A. Stoudemire,
+89,1,1:55.0,22,23,DAL,HOU,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Stoudemire,J. Harden
+90,1,1:55.0,22,24,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+91,1,1:55.0,22,24,DAL,HOU,0,home,Sub,,,,,T. Chandler,A. Stoudemire
+92,1,1:55.0,22,25,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+93,1,1:48.0,24,25,DAL,HOU,7,home,DK,assist,0,make2,2,T. Chandler,J. Barea
+94,1,1:37.0,24,25,DAL,HOU,11,away,BadPass,steal,,turnover,,J. Dorsey,D. Nowitzki
+95,1,1:30.0,24,25,DAL,HOU,7,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Smith,A. Aminu
+96,1,1:30.0,24,25,DAL,HOU,0,home,FreeThrow,,,make1,0,A. Aminu,
+97,1,1:30.0,24,25,DAL,HOU,0,home,OffReb,,,OffReb,,Team,
+98,1,1:30.0,25,25,DAL,HOU,0,home,FreeThrow,,,make1,1,A. Aminu,
+99,1,1:28.0,25,25,DAL,HOU,2,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Barea,J. Dorsey
+100,1,1:28.0,25,25,DAL,HOU,0,away,FreeThrow,,,make1,0,J. Dorsey,
+101,1,1:28.0,25,25,DAL,HOU,0,away,OffReb,,,OffReb,,Team,
+102,1,1:28.0,25,25,DAL,HOU,0,away,FreeThrow,,,make1,0,J. Dorsey,
+103,1,1:27.0,25,25,DAL,HOU,1,away,OffReb,,,OffReb,,C. Brewer,
+104,1,1:21.0,25,28,DAL,HOU,6,away,JS,assist,24,make3,3,J. Harden,P. Prigioni
+105,1,0:56.0,25,28,DAL,HOU,25,home,JS,,4,miss2,0,D. Harris,
+106,1,0:55.0,25,28,DAL,HOU,1,away,DefReb,,,DefReb,,J. Dorsey,
+107,1,0:50.0,25,28,DAL,HOU,5,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Harden,D. Harris
+108,1,0:50.0,25,28,DAL,HOU,0,away,OffensiveFoul,,,turnover,,J. Harden,
+109,1,0:50.0,25,28,DAL,HOU,0,away,Sub,,,,,T. Jones,J. Dorsey
+110,1,0:36.0,25,28,DAL,HOU,14,home,LU,,1,miss2,0,J. Barea,
+111,1,0:34.0,25,28,DAL,HOU,2,away,DefReb,,,DefReb,,P. Prigioni,
+112,1,0:11.0,25,28,DAL,HOU,23,away,JS,block,4,miss2,0,C. Brewer,A. Aminu
+113,1,0:09.0,25,28,DAL,HOU,2,home,DefReb,,,DefReb,,D. Nowitzki,
+114,1,0:03.0,25,28,DAL,HOU,6,home,JS,,5,miss2,0,A. Aminu,
+115,1,0:02.0,25,28,DAL,HOU,1,away,DefReb,,,DefReb,,J. Smith,
+116,2,11:52.0,25,28,DAL,HOU,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Brewer,D. Harris
+117,2,11:37.0,25,28,DAL,HOU,15,home,JS,,20,miss2,0,A. Aminu,
+118,2,11:36.0,25,28,DAL,HOU,1,home,OffReb,,,OffReb,,D. Nowitzki,
+119,2,11:32.0,25,28,DAL,HOU,4,home,BadPass,steal,,turnover,,D. Nowitzki,T. Jones
+120,2,11:31.0,25,28,DAL,HOU,1,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Harris,C. Brewer
+121,2,11:31.0,25,29,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Brewer,
+122,2,11:31.0,25,30,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Brewer,
+123,2,11:11.0,25,30,DAL,HOU,20,home,JS,,24,miss3,0,J. Barea,
+124,2,11:10.0,25,30,DAL,HOU,1,home,OffReb,,,OffReb,,A. Stoudemire,
+125,2,11:01.0,25,30,DAL,HOU,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Prigioni,D. Nowitzki
+126,2,10:49.0,27,30,DAL,HOU,12,home,JS,assist,18,make2,2,A. Stoudemire,J. Barea
+127,2,10:37.0,27,30,DAL,HOU,12,away,JS,,24,miss3,0,T. Ariza,
+128,2,10:36.0,27,30,DAL,HOU,1,away,OffReb,,,OffReb,,D. Howard,
+129,2,10:36.0,27,30,DAL,HOU,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Harris,D. Howard
+130,2,10:36.0,27,30,DAL,HOU,0,home,Sub,,,,,M. Ellis,D. Harris
+131,2,10:26.0,27,30,DAL,HOU,10,away,BadPass,steal,,turnover,,P. Prigioni,A. Stoudemire
+132,2,10:22.0,29,30,DAL,HOU,4,home,LU,assist,1,make2,2,A. Aminu,J. Barea
+133,2,10:22.0,29,30,DAL,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Brewer,A. Aminu
+134,2,10:22.0,30,30,DAL,HOU,0,home,FreeThrow,,,make1,1,A. Aminu,
+135,2,10:05.0,30,30,DAL,HOU,17,away,LU,,1,miss2,0,C. Brewer,
+136,2,10:04.0,30,30,DAL,HOU,1,home,DefReb,,,DefReb,,A. Stoudemire,
+137,2,10:00.0,30,30,DAL,HOU,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Prigioni,M. Ellis
+138,2,10:00.0,31,30,DAL,HOU,0,home,FreeThrow,,,make1,1,M. Ellis,
+139,2,10:00.0,31,30,DAL,HOU,0,away,Sub,,,,,J. Terry,P. Prigioni
+140,2,10:00.0,31,30,DAL,HOU,0,home,FreeThrow,,,make1,0,M. Ellis,
+141,2,9:59.0,31,30,DAL,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
+142,2,9:42.0,31,30,DAL,HOU,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,D. Howard
+143,2,9:42.0,31,31,DAL,HOU,0,away,FreeThrow,,,make1,1,D. Howard,
+144,2,9:42.0,31,32,DAL,HOU,0,away,FreeThrow,,,make1,1,D. Howard,
+145,2,9:29.0,33,32,DAL,HOU,13,home,LU,assist,0,make2,2,J. Barea,A. Aminu
+146,2,9:15.0,33,32,DAL,HOU,14,away,BadPass,steal,,turnover,,J. Terry,A. Stoudemire
+147,2,9:10.0,35,32,DAL,HOU,5,home,LU,assist,1,make2,2,M. Ellis,J. Barea
+148,2,9:04.0,35,32,DAL,HOU,6,away,Timeout,,,,,,
+149,2,8:54.0,35,32,DAL,HOU,10,away,JS,,24,miss3,0,T. Ariza,
+150,2,8:53.0,35,32,DAL,HOU,1,home,DefReb,,,DefReb,,M. Ellis,
+151,2,8:42.0,35,32,DAL,HOU,11,home,JS,,15,miss2,0,D. Nowitzki,
+152,2,8:40.0,35,32,DAL,HOU,2,home,OffReb,,,OffReb,,A. Aminu,
+153,2,8:36.0,35,32,DAL,HOU,4,home,JS,,24,miss3,0,M. Ellis,
+154,2,8:35.0,35,32,DAL,HOU,1,away,DefReb,,,DefReb,,T. Jones,
+155,2,8:25.0,35,32,DAL,HOU,10,away,JS,block,5,miss2,0,D. Howard,A. Aminu
+156,2,8:23.0,35,32,DAL,HOU,2,home,DefReb,,,DefReb,,M. Ellis,
+157,2,8:18.0,35,32,DAL,HOU,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Terry,D. Nowitzki
+158,2,8:18.0,35,32,DAL,HOU,0,away,Timeout,,,,,,
+159,2,8:18.0,35,32,DAL,HOU,0,home,Sub,,,,,T. Chandler,A. Aminu
+160,2,8:18.0,35,32,DAL,HOU,0,home,Sub,,,,,C. Parsons,A. Stoudemire
+161,2,8:18.0,35,32,DAL,HOU,0,away,Sub,,,,,J. Smith,D. Howard
+162,2,8:18.0,36,32,DAL,HOU,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+163,2,8:18.0,37,32,DAL,HOU,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+164,2,7:55.0,37,32,DAL,HOU,23,away,JS,,24,miss3,0,J. Smith,
+165,2,7:54.0,37,32,DAL,HOU,1,away,OffReb,,,OffReb,,T. Jones,
+166,2,7:35.0,37,32,DAL,HOU,19,away,JS,,22,miss3,0,J. Smith,
+167,2,7:34.0,37,32,DAL,HOU,1,away,OffReb,,,OffReb,,J. Smith,
+168,2,7:25.0,37,35,DAL,HOU,9,away,JS,assist,22,make3,3,T. Ariza,J. Smith
+169,2,7:11.0,37,35,DAL,HOU,14,home,LU,block,2,miss2,0,J. Barea,J. Smith
+170,2,7:10.0,37,35,DAL,HOU,1,away,DefReb,,,DefReb,,J. Smith,
+171,2,7:06.0,37,35,DAL,HOU,4,away,JS,,24,miss3,0,J. Terry,
+172,2,7:06.0,37,35,DAL,HOU,0,away,OffReb,,,OffReb,,T. Ariza,
+173,2,7:06.0,37,35,DAL,HOU,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Chandler,T. Ariza
+174,2,7:06.0,37,35,DAL,HOU,0,away,Sub,,,,,J. Harden,C. Brewer
+175,2,7:06.0,37,35,DAL,HOU,0,home,Sub,,,,,R. Rondo,J. Barea
+176,2,7:06.0,37,35,DAL,HOU,0,home,Sub,,,,,C. Villanueva,D. Nowitzki
+177,2,6:59.0,37,35,DAL,HOU,7,away,BadPass,,,turnover,,J. Harden,
+178,2,6:43.0,37,35,DAL,HOU,16,home,JS,,22,miss3,0,C. Parsons,
+179,2,6:43.0,37,35,DAL,HOU,0,away,DefReb,,,DefReb,,J. Terry,
+180,2,6:31.0,37,37,DAL,HOU,12,away,JS,,7,make2,2,T. Ariza,
+181,2,6:11.0,40,37,DAL,HOU,20,home,JS,assist,22,make3,3,C. Villanueva,M. Ellis
+182,2,5:50.0,40,37,DAL,HOU,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Villanueva,T. Jones
+183,2,5:50.0,40,37,DAL,HOU,0,home,Timeout,,,,,,
+184,2,5:50.0,40,38,DAL,HOU,0,away,FreeThrow,,,make1,1,T. Jones,
+185,2,5:50.0,40,38,DAL,HOU,0,away,FreeThrow,,,make1,0,T. Jones,
+186,2,5:49.0,40,38,DAL,HOU,1,home,DefReb,,,DefReb,,T. Chandler,
+187,2,5:32.0,40,38,DAL,HOU,17,home,LostBall,,,turnover,,R. Rondo,
+188,2,5:32.0,40,38,DAL,HOU,0,away,Sub,,,,,C. Capela,T. Jones
+189,2,5:30.0,40,38,DAL,HOU,2,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,C. Villanueva,C. Capela
+190,2,5:30.0,40,38,DAL,HOU,0,away,FreeThrow,,,make1,0,C. Capela,
+191,2,5:30.0,40,38,DAL,HOU,0,away,OffReb,,,OffReb,,Team,
+192,2,5:30.0,40,38,DAL,HOU,0,away,FreeThrow,,,make1,0,C. Capela,
+193,2,5:30.0,40,38,DAL,HOU,0,away,OffReb,,,OffReb,,C. Capela,
+194,2,5:20.0,40,38,DAL,HOU,10,away,JS,,25,miss3,0,J. Harden,
+195,2,5:19.0,40,38,DAL,HOU,1,home,DefReb,,,DefReb,,T. Chandler,
+196,2,5:19.0,40,38,DAL,HOU,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Capela,T. Chandler
+197,2,5:19.0,41,38,DAL,HOU,0,home,FreeThrow,,,make1,1,T. Chandler,
+198,2,5:19.0,41,38,DAL,HOU,0,away,Sub,,,,,N. Johnson,C. Capela
+199,2,5:19.0,42,38,DAL,HOU,0,home,FreeThrow,,,make1,1,T. Chandler,
+200,2,4:55.0,42,38,DAL,HOU,24,away,HS,,7,miss2,0,N. Johnson,
+201,2,4:54.0,42,38,DAL,HOU,1,home,DefReb,,,DefReb,,C. Villanueva,
+202,2,4:47.0,42,38,DAL,HOU,7,home,JS,,24,miss3,0,C. Villanueva,
+203,2,4:46.0,42,38,DAL,HOU,1,home,OffReb,,,OffReb,,C. Parsons,
+204,2,4:35.0,42,38,DAL,HOU,11,home,JS,,22,miss3,0,M. Ellis,
+205,2,4:34.0,42,38,DAL,HOU,1,away,DefReb,,,DefReb,,N. Johnson,
+206,2,4:29.0,42,40,DAL,HOU,5,away,LU,assist,1,make2,2,J. Terry,N. Johnson
+207,2,4:15.0,42,40,DAL,HOU,14,home,BadPass,steal,,turnover,,M. Ellis,J. Harden
+208,2,4:09.0,42,40,DAL,HOU,6,away,JS,,24,miss3,0,J. Terry,
+209,2,4:07.0,42,40,DAL,HOU,2,away,OffReb,,,OffReb,,N. Johnson,
+210,2,4:07.0,42,40,DAL,HOU,0,away,TI,,1,miss2,0,N. Johnson,
+211,2,4:07.0,42,40,DAL,HOU,0,home,DefReb,,,DefReb,,C. Parsons,
+212,2,4:07.0,42,40,DAL,HOU,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Ariza,C. Parsons
+213,2,4:07.0,43,40,DAL,HOU,0,home,FreeThrow,,,make1,1,C. Parsons,
+214,2,4:07.0,43,40,DAL,HOU,0,home,Sub,,,,,A. Aminu,C. Villanueva
+215,2,4:07.0,44,40,DAL,HOU,0,home,FreeThrow,,,make1,1,C. Parsons,
+216,2,3:52.0,44,43,DAL,HOU,15,away,JS,assist,22,make3,3,T. Ariza,N. Johnson
+217,2,3:40.0,46,43,DAL,HOU,12,home,LU,assist,0,make2,2,R. Rondo,C. Parsons
+218,2,3:27.0,46,45,DAL,HOU,13,away,LU,,0,make2,2,J. Harden,
+219,2,3:18.0,48,45,DAL,HOU,9,home,LU,,0,make2,2,R. Rondo,
+220,2,3:10.0,48,45,DAL,HOU,8,away,JS,block,3,miss2,0,J. Smith,T. Chandler
+221,2,3:07.0,48,45,DAL,HOU,3,away,OffReb,,,OffReb,,N. Johnson,
+222,2,3:02.0,48,47,DAL,HOU,5,away,LU,,0,make2,2,J. Harden,
+223,2,2:47.0,50,47,DAL,HOU,15,home,JS,assist,20,make2,2,R. Rondo,C. Parsons
+224,2,2:33.0,50,47,DAL,HOU,14,away,Timeout,,,,,,
+225,2,2:33.0,50,47,DAL,HOU,0,away,Sub,,,,,T. Jones,J. Smith
+226,2,2:14.0,50,47,DAL,HOU,19,away,JS,,24,miss3,0,J. Harden,
+227,2,2:13.0,50,47,DAL,HOU,1,home,DefReb,,,DefReb,,M. Ellis,
+228,2,2:06.0,52,47,DAL,HOU,7,home,JS,assist,10,make2,2,M. Ellis,R. Rondo
+229,2,1:54.0,52,47,DAL,HOU,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Jones,R. Rondo
+230,2,1:54.0,52,47,DAL,HOU,0,away,OffensiveFoul,,,turnover,,T. Jones,
+231,2,1:43.0,52,47,DAL,HOU,11,home,JS,,22,miss3,0,A. Aminu,
+232,2,1:42.0,52,47,DAL,HOU,1,away,DefReb,,,DefReb,,T. Jones,
+233,2,1:36.0,52,47,DAL,HOU,6,away,LU,block,1,miss2,0,J. Harden,A. Aminu
+234,2,1:34.0,52,47,DAL,HOU,2,away,OffReb,,,OffReb,,N. Johnson,
+235,2,1:29.0,52,47,DAL,HOU,5,away,JS,,22,miss3,0,J. Harden,
+236,2,1:28.0,52,47,DAL,HOU,1,home,DefReb,,,DefReb,,T. Chandler,
+237,2,1:21.0,52,47,DAL,HOU,7,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,T. Jones,M. Ellis
+238,2,1:21.0,53,47,DAL,HOU,0,home,FreeThrow,,,make1,1,M. Ellis,
+239,2,1:21.0,53,47,DAL,HOU,0,away,Sub,,,,,J. Smith,T. Jones
+240,2,1:21.0,54,47,DAL,HOU,0,home,FreeThrow,,,make1,1,M. Ellis,
+241,2,1:04.0,54,47,DAL,HOU,17,away,HS,,4,miss2,0,J. Smith,
+242,2,1:04.0,54,47,DAL,HOU,0,home,DefReb,,,DefReb,,T. Chandler,
+243,2,1:02.0,54,47,DAL,HOU,2,away,TechnicalFoul,,,TechnicalFoul,,J. Smith,
+244,2,1:02.0,55,47,DAL,HOU,0,home,FreeThrow,,,make1,1,M. Ellis makes technical free throw,
+245,2,0:51.0,55,47,DAL,HOU,11,home,JS,,23,miss3,0,C. Parsons,
+246,2,0:51.0,55,47,DAL,HOU,0,away,DefReb,,,DefReb,,Team,
+247,2,0:33.0,55,47,DAL,HOU,18,away,JS,,22,miss3,0,T. Ariza,
+248,2,0:31.0,55,47,DAL,HOU,2,away,OffReb,,,OffReb,,J. Smith,
+249,2,0:31.0,55,47,DAL,HOU,0,away,TI,,0,miss2,0,J. Smith,
+250,2,0:30.0,55,47,DAL,HOU,1,home,DefReb,,,DefReb,,R. Rondo,
+251,2,0:13.0,55,47,DAL,HOU,17,home,JS,,16,miss2,0,M. Ellis,
+252,2,0:12.0,55,47,DAL,HOU,1,away,DefReb,,,DefReb,,N. Johnson,
+253,2,0:04.0,55,47,DAL,HOU,8,away,JS,,24,miss3,0,J. Harden,
+254,2,0:03.0,55,47,DAL,HOU,1,home,DefReb,,,DefReb,,R. Rondo,
+255,2,0:00.0,55,47,DAL,HOU,3,home,JS,,3,miss2,0,M. Ellis,
+256,2,0:00.0,55,47,DAL,HOU,0,home,OffReb,,,OffReb,,Team,
+257,3,11:48.0,55,47,DAL,HOU,12,home,BadPass,steal,,turnover,,C. Parsons,T. Ariza
+258,3,11:45.0,55,47,DAL,HOU,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Parsons,J. Harden
+259,3,11:45.0,55,48,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+260,3,11:45.0,55,49,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+261,3,11:21.0,55,49,DAL,HOU,24,home,JS,,17,miss2,0,M. Ellis,
+262,3,11:20.0,55,49,DAL,HOU,1,away,DefReb,,,DefReb,,T. Jones,
+263,3,11:15.0,55,49,DAL,HOU,5,away,BadPass,,,turnover,,J. Harden,
+264,3,10:58.0,55,49,DAL,HOU,17,home,JS,,19,miss2,0,D. Nowitzki,
+265,3,10:57.0,55,49,DAL,HOU,1,away,DefReb,,,DefReb,,D. Howard,
+266,3,10:52.0,55,49,DAL,HOU,5,home,ChargeFoul,DrawnBy,,ChargeFoul,,T. Jones,M. Ellis
+267,3,10:52.0,55,49,DAL,HOU,0,away,OffensiveFoul,,,turnover,,T. Jones,
+268,3,10:52.0,55,49,DAL,HOU,0,away,Sub,,,,,J. Smith,T. Jones
+269,3,10:29.0,55,49,DAL,HOU,23,home,JS,,17,miss2,0,R. Rondo,
+270,3,10:27.0,55,49,DAL,HOU,2,away,DefReb,,,DefReb,,Team,
+271,3,10:15.0,55,49,DAL,HOU,12,away,JS,,22,miss3,0,J. Terry,
+272,3,10:14.0,55,49,DAL,HOU,1,away,OffReb,,,OffReb,,J. Smith,
+273,3,10:08.0,55,51,DAL,HOU,6,away,JS,assist,17,make2,2,J. Smith,T. Ariza
+274,3,9:43.0,55,51,DAL,HOU,25,home,BadPass,,,turnover,,R. Rondo,
+275,3,9:26.0,55,54,DAL,HOU,17,away,JS,assist,22,make3,3,J. Terry,J. Harden
+276,3,9:25.0,55,54,DAL,HOU,1,home,Timeout,,,,,,
+277,3,9:25.0,55,54,DAL,HOU,0,home,Sub,,,,,D. Harris,R. Rondo
+278,3,9:13.0,57,54,DAL,HOU,12,home,LU,assist,1,make2,2,M. Ellis,T. Chandler
+279,3,9:01.0,57,54,DAL,HOU,12,away,BadPass,,,turnover,,J. Smith,
+280,3,8:49.0,60,54,DAL,HOU,12,home,JS,assist,22,make3,3,C. Parsons,D. Harris
+281,3,8:31.0,60,54,DAL,HOU,18,away,JS,,24,miss3,0,J. Terry,
+282,3,8:30.0,60,54,DAL,HOU,1,home,DefReb,,,DefReb,,C. Parsons,
+283,3,8:22.0,60,54,DAL,HOU,8,home,JS,,24,miss3,0,M. Ellis,
+284,3,8:21.0,60,54,DAL,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
+285,3,8:13.0,60,54,DAL,HOU,8,away,BadPass,steal,,turnover,,J. Smith,D. Harris
+286,3,8:07.0,63,54,DAL,HOU,6,home,JS,assist,24,make3,3,D. Nowitzki,M. Ellis
+287,3,8:06.0,63,54,DAL,HOU,1,away,Timeout,,,,,,
+288,3,8:06.0,63,54,DAL,HOU,0,away,Sub,,,,,J. Dorsey,D. Howard
+289,3,7:43.0,63,54,DAL,HOU,23,away,JS,,14,miss2,0,T. Ariza,
+290,3,7:42.0,63,54,DAL,HOU,1,away,OffReb,,,OffReb,,T. Ariza,
+291,3,7:39.0,63,54,DAL,HOU,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,T. Ariza
+292,3,7:39.0,63,55,DAL,HOU,0,away,FreeThrow,,,make1,1,T. Ariza,
+293,3,7:39.0,63,56,DAL,HOU,0,away,FreeThrow,,,make1,1,T. Ariza,
+294,3,7:14.0,65,56,DAL,HOU,25,home,JS,assist,20,make2,2,D. Harris,C. Parsons
+295,3,6:52.0,65,58,DAL,HOU,22,away,LU,assist,1,make2,2,J. Dorsey,J. Terry
+296,3,6:32.0,67,58,DAL,HOU,20,home,JS,,10,make2,2,D. Nowitzki,
+297,3,6:14.0,67,60,DAL,HOU,18,away,DK,,0,make2,2,J. Smith,
+298,3,6:14.0,67,60,DAL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,J. Smith
+299,3,6:14.0,67,60,DAL,HOU,0,away,Sub,,,,,P. Prigioni,J. Terry
+300,3,6:14.0,67,60,DAL,HOU,0,home,Sub,,,,,A. Aminu,D. Nowitzki
+301,3,6:14.0,67,61,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Smith,
+302,3,6:05.0,69,61,DAL,HOU,9,home,JS,,2,make2,2,M. Ellis,
+303,3,5:51.0,69,61,DAL,HOU,14,away,JS,,23,miss3,0,P. Prigioni,
+304,3,5:50.0,69,61,DAL,HOU,1,home,DefReb,,,DefReb,,A. Aminu,
+305,3,5:50.0,69,61,DAL,HOU,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Smith,A. Aminu
+306,3,5:40.0,69,61,DAL,HOU,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Dorsey,M. Ellis
+307,3,5:40.0,69,61,DAL,HOU,0,home,FreeThrow,,,make1,0,M. Ellis,
+308,3,5:40.0,69,61,DAL,HOU,0,home,OffReb,,,OffReb,,Team,
+309,3,5:40.0,69,61,DAL,HOU,0,home,FreeThrow,,,make1,0,M. Ellis,
+310,3,5:39.0,69,61,DAL,HOU,1,away,DefReb,,,DefReb,,J. Dorsey,
+311,3,5:14.0,69,61,DAL,HOU,25,away,JS,,24,miss3,0,J. Harden,
+312,3,5:13.0,69,61,DAL,HOU,1,home,DefReb,,,DefReb,,M. Ellis,
+313,3,5:06.0,69,61,DAL,HOU,7,home,JS,,23,miss3,0,C. Parsons,
+314,3,5:05.0,69,61,DAL,HOU,1,home,OffReb,,,OffReb,,A. Aminu,
+315,3,5:01.0,72,61,DAL,HOU,4,home,JS,assist,24,make3,3,C. Parsons,A. Aminu
+316,3,4:45.0,72,64,DAL,HOU,16,away,JS,assist,22,make3,3,T. Ariza,J. Smith
+317,3,4:34.0,72,64,DAL,HOU,11,home,JS,,24,miss3,0,D. Harris,
+318,3,4:33.0,72,64,DAL,HOU,1,away,DefReb,,,DefReb,,J. Harden,
+319,3,4:25.0,72,64,DAL,HOU,8,away,LostBall,,,turnover,,J. Harden,
+320,3,4:25.0,72,64,DAL,HOU,0,home,Sub,,,,,A. Stoudemire,T. Chandler
+321,3,4:25.0,72,64,DAL,HOU,0,away,Sub,,,,,C. Brewer,T. Ariza
+322,3,4:14.0,72,64,DAL,HOU,11,home,JS,,24,miss3,0,C. Parsons,
+323,3,4:14.0,72,64,DAL,HOU,0,away,DefReb,,,DefReb,,J. Dorsey,
+324,3,4:07.0,72,66,DAL,HOU,7,away,LU,assist,1,make2,2,C. Brewer,P. Prigioni
+325,3,4:07.0,72,66,DAL,HOU,0,home,Timeout,,,,,,
+326,3,4:07.0,72,66,DAL,HOU,0,home,Sub,,,,,R. Jefferson,C. Parsons
+327,3,3:52.0,72,66,DAL,HOU,15,home,LostBall,steal,,turnover,,M. Ellis,J. Smith
+328,3,3:45.0,72,66,DAL,HOU,7,away,JS,,22,miss3,0,C. Brewer,
+329,3,3:44.0,72,66,DAL,HOU,1,away,OffReb,,,OffReb,,J. Smith,
+330,3,3:35.0,72,66,DAL,HOU,9,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,A. Stoudemire,J. Harden
+331,3,3:35.0,72,66,DAL,HOU,0,away,FreeThrow,,,make1,0,J. Harden,
+332,3,3:35.0,72,66,DAL,HOU,0,away,OffReb,,,OffReb,,Team,
+333,3,3:35.0,72,67,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+334,3,3:21.0,74,67,DAL,HOU,14,home,JS,,2,make2,2,A. Stoudemire,
+335,3,3:15.0,74,69,DAL,HOU,6,away,LU,assist,1,make2,2,C. Brewer,J. Harden
+336,3,3:15.0,74,69,DAL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,C. Brewer
+337,3,3:15.0,74,70,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Brewer,
+338,3,3:06.0,76,70,DAL,HOU,9,home,JS,,17,make2,2,M. Ellis,
+339,3,2:53.0,76,73,DAL,HOU,13,away,JS,assist,24,make3,3,J. Smith,J. Harden
+340,3,2:36.0,76,73,DAL,HOU,17,home,JS,,5,miss2,0,R. Jefferson,
+341,3,2:34.0,76,73,DAL,HOU,2,away,DefReb,,,DefReb,,J. Dorsey,
+342,3,2:24.0,76,73,DAL,HOU,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,J. Harden
+343,3,2:24.0,76,74,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+344,3,2:24.0,76,74,DAL,HOU,0,away,Sub,,,,,N. Johnson,J. Dorsey
+345,3,2:24.0,76,74,DAL,HOU,0,home,Sub,,,,,D. Nowitzki,R. Jefferson
+346,3,2:24.0,76,74,DAL,HOU,0,home,Sub,,,,,J. Barea,M. Ellis
+347,3,2:24.0,76,74,DAL,HOU,0,away,FreeThrow,,,make1,0,J. Harden,
+348,3,2:23.0,76,74,DAL,HOU,1,home,DefReb,,,DefReb,,D. Nowitzki,
+349,3,2:00.0,78,74,DAL,HOU,23,home,JS,,14,make2,2,D. Nowitzki,
+350,3,1:55.0,78,74,DAL,HOU,5,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Aminu,J. Smith
+351,3,1:55.0,78,75,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Smith,
+352,3,1:55.0,78,76,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Smith,
+353,3,1:36.0,78,76,DAL,HOU,19,home,LU,,1,miss2,0,A. Stoudemire,
+354,3,1:35.0,78,76,DAL,HOU,1,away,DefReb,,,DefReb,,J. Harden,
+355,3,1:32.0,78,76,DAL,HOU,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,C. Brewer
+356,3,1:32.0,78,77,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Brewer,
+357,3,1:32.0,78,77,DAL,HOU,0,away,FreeThrow,,,make1,0,C. Brewer,
+358,3,1:31.0,78,77,DAL,HOU,1,home,DefReb,,,DefReb,,D. Nowitzki,
+359,3,1:14.0,78,77,DAL,HOU,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,D. Nowitzki
+360,3,1:14.0,78,77,DAL,HOU,0,home,FreeThrow,,,make1,0,D. Nowitzki,
+361,3,1:14.0,78,77,DAL,HOU,0,home,OffReb,,,OffReb,,Team,
+362,3,1:14.0,79,77,DAL,HOU,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+363,3,0:58.0,79,77,DAL,HOU,16,away,Traveling,,,turnover,,N. Johnson,
+364,3,0:37.0,81,77,DAL,HOU,21,home,LU,,1,make2,2,D. Harris,
+365,3,0:28.0,81,77,DAL,HOU,9,away,3sec,,,turnover,,C. Brewer,
+366,3,0:12.0,83,77,DAL,HOU,16,home,LU,,2,make2,2,J. Barea,
+367,3,0:00.0,83,77,DAL,HOU,12,away,JS,,17,miss2,0,J. Harden,
+368,3,0:00.0,83,77,DAL,HOU,0,away,OffReb,,,OffReb,,Team,
+369,4,11:43.0,83,77,DAL,HOU,17,away,HS,,3,miss2,0,D. Howard,
+370,4,11:42.0,83,77,DAL,HOU,1,home,DefReb,,,DefReb,,A. Stoudemire,
+371,4,11:25.0,83,77,DAL,HOU,17,home,HS,,3,miss2,0,D. Nowitzki,
+372,4,11:23.0,83,77,DAL,HOU,2,away,DefReb,,,DefReb,,C. Brewer,
+373,4,11:13.0,83,77,DAL,HOU,10,away,JS,,24,miss3,0,T. Ariza,
+374,4,11:12.0,83,77,DAL,HOU,1,away,OffReb,,,OffReb,,D. Howard,
+375,4,11:10.0,83,79,DAL,HOU,2,away,DK,,0,make2,2,D. Howard,
+376,4,10:44.0,83,79,DAL,HOU,26,home,JS,,13,miss2,0,J. Barea,
+377,4,10:43.0,83,79,DAL,HOU,1,away,DefReb,,,DefReb,,D. Howard,
+378,4,10:27.0,83,81,DAL,HOU,16,away,LU,assist,0,make2,2,C. Brewer,T. Ariza
+379,4,10:01.0,83,81,DAL,HOU,26,home,JS,,14,miss2,0,A. Aminu,
+380,4,10:00.0,83,81,DAL,HOU,1,away,DefReb,,,DefReb,,T. Jones,
+381,4,9:50.0,83,81,DAL,HOU,10,away,LU,block,0,miss2,0,D. Howard,A. Aminu
+382,4,9:49.0,83,81,DAL,HOU,1,home,DefReb,,,DefReb,,J. Barea,
+383,4,9:48.0,83,81,DAL,HOU,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,P. Prigioni,J. Barea
+384,4,9:48.0,83,81,DAL,HOU,0,home,Sub,,,,,T. Chandler,A. Stoudemire
+385,4,9:48.0,83,81,DAL,HOU,0,home,Sub,,,,,R. Jefferson,A. Aminu
+386,4,9:38.0,83,81,DAL,HOU,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Howard,T. Chandler
+387,4,9:38.0,83,81,DAL,HOU,0,home,FreeThrow,,,make1,0,T. Chandler,
+388,4,9:38.0,83,81,DAL,HOU,0,home,OffReb,,,OffReb,,Team,
+389,4,9:38.0,83,81,DAL,HOU,0,home,FreeThrow,,,make1,0,T. Chandler,
+390,4,9:37.0,83,81,DAL,HOU,1,away,DefReb,,,DefReb,,D. Howard,
+391,4,9:25.0,83,83,DAL,HOU,12,away,JS,,2,make2,2,T. Jones,
+392,4,9:22.0,83,83,DAL,HOU,3,home,Timeout,,,,,,
+393,4,9:07.0,83,83,DAL,HOU,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Howard,R. Jefferson
+394,4,9:07.0,84,83,DAL,HOU,0,home,FreeThrow,,,make1,1,R. Jefferson,
+395,4,9:07.0,85,83,DAL,HOU,0,home,FreeThrow,,,make1,1,R. Jefferson,
+396,4,8:49.0,85,83,DAL,HOU,18,away,BadPass,,,turnover,,C. Brewer,
+397,4,8:41.0,85,83,DAL,HOU,8,home,JS,,24,miss3,0,J. Barea,
+398,4,8:40.0,85,83,DAL,HOU,1,away,DefReb,,,DefReb,,D. Howard,
+399,4,8:27.0,85,85,DAL,HOU,13,away,DK,assist,0,make2,2,D. Howard,T. Jones
+400,4,8:02.0,88,85,DAL,HOU,25,home,JS,assist,24,make3,3,R. Jefferson,J. Barea
+401,4,7:56.0,88,85,DAL,HOU,6,away,BadPass,steal,,turnover,,P. Prigioni,R. Jefferson
+402,4,7:51.0,91,85,DAL,HOU,5,home,JS,assist,24,make3,3,D. Nowitzki,R. Jefferson
+403,4,7:51.0,91,85,DAL,HOU,0,away,Timeout,,,,,,
+404,4,7:51.0,91,85,DAL,HOU,0,home,Sub,,,,,A. Aminu,D. Nowitzki
+405,4,7:51.0,91,85,DAL,HOU,0,home,Sub,,,,,M. Ellis,D. Harris
+406,4,7:51.0,91,85,DAL,HOU,0,home,Sub,,,,,R. Rondo,J. Barea
+407,4,7:51.0,91,85,DAL,HOU,0,away,Sub,,,,,J. Smith,T. Ariza
+408,4,7:51.0,91,85,DAL,HOU,0,away,Sub,,,,,J. Harden,D. Howard
+409,4,7:37.0,91,88,DAL,HOU,14,away,JS,assist,23,make3,3,P. Prigioni,J. Harden
+410,4,7:19.0,94,88,DAL,HOU,18,home,JS,assist,23,make3,3,A. Aminu,R. Jefferson
+411,4,7:06.0,94,88,DAL,HOU,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ellis,P. Prigioni
+412,4,6:57.0,94,88,DAL,HOU,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,J. Harden
+413,4,6:57.0,94,88,DAL,HOU,0,away,Sub,,,,,J. Terry,P. Prigioni
+414,4,6:50.0,94,88,DAL,HOU,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jefferson,C. Brewer
+415,4,6:44.0,94,88,DAL,HOU,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,J. Harden
+416,4,6:40.0,94,91,DAL,HOU,4,away,JS,assist,24,make3,3,J. Smith,C. Brewer
+417,4,6:21.0,94,91,DAL,HOU,19,home,JS,,21,miss2,0,M. Ellis,
+418,4,6:20.0,94,91,DAL,HOU,1,home,OffReb,,,OffReb,,A. Aminu,
+419,4,6:18.0,94,91,DAL,HOU,2,home,LU,,2,miss2,0,T. Chandler,
+420,4,6:17.0,94,91,DAL,HOU,1,away,DefReb,,,DefReb,,J. Terry,
+421,4,5:55.0,94,91,DAL,HOU,22,away,JS,,11,miss2,0,T. Jones,
+422,4,5:54.0,94,91,DAL,HOU,1,home,DefReb,,,DefReb,,A. Aminu,
+423,4,5:43.0,94,91,DAL,HOU,11,home,JS,,16,miss2,0,M. Ellis,
+424,4,5:42.0,94,91,DAL,HOU,1,away,DefReb,,,DefReb,,J. Smith,
+425,4,5:42.0,94,91,DAL,HOU,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Aminu,C. Brewer
+426,4,5:42.0,94,92,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Brewer,
+427,4,5:42.0,94,92,DAL,HOU,0,away,Sub,,,,,T. Ariza,T. Jones
+428,4,5:42.0,94,92,DAL,HOU,0,home,Sub,,,,,D. Harris,R. Rondo
+429,4,5:42.0,94,92,DAL,HOU,0,home,Sub,,,,,D. Nowitzki,A. Aminu
+430,4,5:42.0,94,93,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Brewer,
+431,4,5:29.0,94,93,DAL,HOU,13,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,T. Ariza,M. Ellis
+432,4,5:29.0,95,93,DAL,HOU,0,home,FreeThrow,,,make1,1,M. Ellis,
+433,4,5:29.0,95,93,DAL,HOU,0,home,FreeThrow,,,make1,0,M. Ellis,
+434,4,5:28.0,95,93,DAL,HOU,1,away,DefReb,,,DefReb,,J. Terry,
+435,4,5:08.0,95,95,DAL,HOU,20,away,JS,assist,14,make2,2,C. Brewer,T. Ariza
+436,4,4:58.0,95,95,DAL,HOU,10,home,JS,,25,miss3,0,D. Harris,
+437,4,4:56.0,95,95,DAL,HOU,2,away,DefReb,,,DefReb,,C. Brewer,
+438,4,4:50.0,95,95,DAL,HOU,6,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Harden,M. Ellis
+439,4,4:50.0,95,95,DAL,HOU,0,away,OffensiveFoul,,,turnover,,J. Harden,
+440,4,4:28.0,95,95,DAL,HOU,22,home,JS,,19,miss2,0,M. Ellis,
+441,4,4:27.0,95,95,DAL,HOU,1,away,DefReb,,,DefReb,,Team,
+442,4,4:07.0,95,98,DAL,HOU,20,away,JS,assist,22,make3,3,J. Terry,T. Ariza
+443,4,4:05.0,95,98,DAL,HOU,2,home,Timeout,,,,,,
+444,4,4:05.0,95,98,DAL,HOU,0,home,Sub,,,,,A. Stoudemire,T. Chandler
+445,4,3:48.0,95,98,DAL,HOU,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Terry,D. Nowitzki
+446,4,3:48.0,96,98,DAL,HOU,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+447,4,3:48.0,96,98,DAL,HOU,0,home,Sub,,,,,A. Aminu,A. Stoudemire
+448,4,3:48.0,97,98,DAL,HOU,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+449,4,3:34.0,97,100,DAL,HOU,14,away,LU,,0,make2,2,J. Harden,
+450,4,3:15.0,97,100,DAL,HOU,19,home,LostBall,steal,,turnover,,M. Ellis,J. Smith
+451,4,3:07.0,97,100,DAL,HOU,8,away,JS,,24,miss3,0,J. Smith,
+452,4,3:06.0,97,100,DAL,HOU,1,home,DefReb,,,DefReb,,A. Aminu,
+453,4,2:46.0,97,100,DAL,HOU,20,home,JS,block,5,miss2,0,R. Jefferson,J. Smith
+454,4,2:45.0,97,100,DAL,HOU,1,away,DefReb,,,DefReb,,J. Smith,
+455,4,2:44.0,97,100,DAL,HOU,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jefferson,J. Harden
+456,4,2:44.0,97,101,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+457,4,2:44.0,97,101,DAL,HOU,0,home,Sub,,,,,J. Barea,R. Jefferson
+458,4,2:44.0,97,102,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+459,4,2:40.0,97,102,DAL,HOU,4,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Harris,J. Smith
+460,4,2:40.0,97,102,DAL,HOU,0,home,OffensiveFoul,,,turnover,,D. Harris,
+461,4,2:40.0,97,102,DAL,HOU,0,home,Sub,,,,,R. Rondo,D. Harris
+462,4,2:11.0,97,102,DAL,HOU,29,away,ShotClockViolation,,,turnover,,Team,
+463,4,1:55.0,97,102,DAL,HOU,16,home,JS,,24,miss3,0,M. Ellis,
+464,4,1:54.0,97,102,DAL,HOU,1,away,DefReb,,,DefReb,,J. Harden,
+465,4,1:30.0,97,102,DAL,HOU,24,away,ShotClockViolation,,,turnover,,Team,
+466,4,1:30.0,97,102,DAL,HOU,0,home,Sub,,,,,D. Harris,A. Aminu
+467,4,1:17.0,99,102,DAL,HOU,13,home,JS,,4,make2,2,D. Nowitzki,
+468,4,1:02.0,99,102,DAL,HOU,15,away,JS,,16,miss2,0,C. Brewer,
+469,4,1:01.0,99,102,DAL,HOU,1,away,OffReb,,,OffReb,,J. Smith,
+470,4,0:42.0,99,102,DAL,HOU,19,away,JS,,3,miss2,0,J. Smith,
+471,4,0:41.0,99,102,DAL,HOU,1,home,DefReb,,,DefReb,,D. Nowitzki,
+472,4,0:29.0,99,102,DAL,HOU,12,home,JS,,24,miss3,0,M. Ellis,
+473,4,0:28.0,99,102,DAL,HOU,1,away,DefReb,,,DefReb,,J. Smith,
+474,4,0:24.0,99,102,DAL,HOU,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,T. Ariza
+475,4,0:24.0,99,103,DAL,HOU,0,away,FreeThrow,,,make1,1,T. Ariza,
+476,4,0:24.0,99,104,DAL,HOU,0,away,FreeThrow,,,make1,1,T. Ariza,
+477,4,0:24.0,99,104,DAL,HOU,0,home,Timeout,,,,,,
+478,4,0:24.0,99,104,DAL,HOU,0,home,Sub,,,,,C. Villanueva,R. Rondo
+479,4,0:20.0,101,104,DAL,HOU,4,home,LU,,0,make2,2,M. Ellis,
+480,4,0:18.0,101,104,DAL,HOU,2,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Ellis,J. Harden
+481,4,0:18.0,101,105,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+482,4,0:18.0,101,106,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+483,4,0:11.0,101,106,DAL,HOU,7,home,LU,,1,miss2,0,J. Barea,
+484,4,0:10.0,101,106,DAL,HOU,1,away,DefReb,,,DefReb,,J. Smith,
+485,4,0:10.0,101,106,DAL,HOU,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Harris,J. Smith
+486,4,0:10.0,101,106,DAL,HOU,0,home,Sub,,,,,R. Rondo,D. Harris
+487,4,0:10.0,101,107,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Smith,
+488,4,0:10.0,101,108,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Smith,
+489,4,0:01.0,101,108,DAL,HOU,9,home,JS,,24,miss3,0,M. Ellis,
+490,4,0:00.0,101,108,DAL,HOU,1,away,DefReb,,,DefReb,,J. Smith,

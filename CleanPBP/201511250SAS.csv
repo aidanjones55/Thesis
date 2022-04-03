@@ -1,0 +1,428 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,2,0,SAS,DAL,17,home,JS,assist,18,make2,2,L. Aldridge,T. Parker
+1,1,11:27.0,2,0,SAS,DAL,16,away,JS,,20,miss2,0,D. Nowitzki,
+2,1,11:26.0,2,0,SAS,DAL,1,home,DefReb,,,DefReb,,T. Duncan,
+3,1,11:10.0,5,0,SAS,DAL,16,home,JS,assist,24,make3,3,K. Leonard,L. Aldridge
+4,1,10:43.0,5,2,SAS,DAL,27,away,JS,,7,make2,2,D. Williams,
+5,1,10:24.0,5,2,SAS,DAL,19,home,JS,,14,miss2,0,L. Aldridge,
+6,1,10:23.0,5,2,SAS,DAL,1,away,DefReb,,,DefReb,,W. Matthews,
+7,1,10:13.0,5,2,SAS,DAL,10,away,JS,,24,miss3,0,W. Matthews,
+8,1,10:11.0,5,2,SAS,DAL,2,home,DefReb,,,DefReb,,D. Green,
+9,1,10:00.0,5,2,SAS,DAL,11,home,JS,,6,miss2,0,T. Duncan,
+10,1,10:00.0,5,2,SAS,DAL,0,away,DefReb,,,DefReb,,D. Nowitzki,
+11,1,9:47.0,5,4,SAS,DAL,13,away,JS,,4,make2,2,D. Williams,
+12,1,9:28.0,8,4,SAS,DAL,19,home,JS,assist,22,make3,3,K. Leonard,T. Parker
+13,1,9:11.0,8,4,SAS,DAL,17,away,JS,,14,miss2,0,D. Williams,
+14,1,9:10.0,8,4,SAS,DAL,1,home,DefReb,,,DefReb,,D. Green,
+15,1,8:52.0,10,4,SAS,DAL,18,home,LU,,0,make2,2,T. Parker,
+16,1,8:29.0,10,6,SAS,DAL,23,away,DK,assist,0,make2,2,Z. Pachulia,D. Williams
+17,1,8:09.0,12,6,SAS,DAL,20,home,LU,assist,1,make2,2,T. Parker,T. Duncan
+18,1,8:01.0,12,6,SAS,DAL,8,away,LU,block,0,miss2,0,D. Williams,T. Duncan
+19,1,7:59.0,12,6,SAS,DAL,2,home,DefReb,,,DefReb,,D. Green,
+20,1,7:46.0,14,6,SAS,DAL,13,home,JS,assist,14,make2,2,L. Aldridge,D. Green
+21,1,7:46.0,14,6,SAS,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,L. Aldridge
+22,1,7:46.0,14,6,SAS,DAL,0,away,Timeout,,,,,,
+23,1,7:46.0,14,6,SAS,DAL,0,home,FreeThrow,,,make1,0,L. Aldridge,
+24,1,7:45.0,14,6,SAS,DAL,1,away,DefReb,,,DefReb,,W. Matthews,
+25,1,7:25.0,14,8,SAS,DAL,20,away,JS,,8,make2,2,R. Felton,
+26,1,7:08.0,14,8,SAS,DAL,17,home,JS,,25,miss3,0,D. Green,
+27,1,7:07.0,14,8,SAS,DAL,1,home,OffReb,,,OffReb,,K. Leonard,
+28,1,7:02.0,14,8,SAS,DAL,5,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,L. Aldridge,Z. Pachulia
+29,1,7:02.0,14,8,SAS,DAL,0,home,OffensiveFoul,,,turnover,,L. Aldridge,
+30,1,6:38.0,14,8,SAS,DAL,24,away,JS,,18,miss2,0,D. Williams,
+31,1,6:37.0,14,8,SAS,DAL,1,home,DefReb,,,DefReb,,K. Leonard,
+32,1,6:24.0,14,8,SAS,DAL,13,home,JS,,19,miss2,0,T. Duncan,
+33,1,6:24.0,14,8,SAS,DAL,0,away,DefReb,,,DefReb,,D. Nowitzki,
+34,1,6:14.0,14,8,SAS,DAL,10,away,JS,,23,miss3,0,W. Matthews,
+35,1,6:13.0,14,8,SAS,DAL,1,home,DefReb,,,DefReb,,T. Duncan,
+36,1,6:04.0,14,8,SAS,DAL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,Z. Pachulia,T. Parker
+37,1,6:04.0,15,8,SAS,DAL,0,home,FreeThrow,,,make1,1,T. Parker,
+38,1,6:04.0,15,8,SAS,DAL,0,home,Sub,,,,,M. Ginóbili,D. Green
+39,1,6:04.0,15,8,SAS,DAL,0,away,Sub,,,,,D. Powell,D. Nowitzki
+40,1,6:04.0,16,8,SAS,DAL,0,home,FreeThrow,,,make1,1,T. Parker,
+41,1,5:48.0,16,8,SAS,DAL,16,away,JS,,12,miss2,0,Z. Pachulia,
+42,1,5:47.0,16,8,SAS,DAL,1,home,DefReb,,,DefReb,,M. Ginóbili,
+43,1,5:33.0,16,8,SAS,DAL,14,home,JS,,23,miss3,0,K. Leonard,
+44,1,5:32.0,16,8,SAS,DAL,1,away,DefReb,,,DefReb,,D. Powell,
+45,1,5:31.0,16,8,SAS,DAL,1,away,LostBall,steal,,turnover,,D. Powell,M. Ginóbili
+46,1,5:31.0,16,8,SAS,DAL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Powell,M. Ginóbili
+47,1,5:24.0,16,8,SAS,DAL,7,home,JS,,14,miss2,0,M. Ginóbili,
+48,1,5:23.0,16,8,SAS,DAL,1,away,DefReb,,,DefReb,,D. Powell,
+49,1,5:15.0,16,8,SAS,DAL,8,away,JS,,17,miss2,0,R. Felton,
+50,1,5:14.0,16,8,SAS,DAL,1,home,DefReb,,,DefReb,,T. Duncan,
+51,1,4:59.0,18,8,SAS,DAL,15,home,JS,assist,12,make2,2,T. Duncan,K. Leonard
+52,1,4:42.0,18,8,SAS,DAL,17,away,JS,,17,miss2,0,D. Powell,
+53,1,4:41.0,18,8,SAS,DAL,1,home,DefReb,,,DefReb,,T. Parker,
+54,1,4:26.0,18,8,SAS,DAL,15,home,JS,,19,miss2,0,L. Aldridge,
+55,1,4:25.0,18,8,SAS,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+56,1,4:20.0,18,8,SAS,DAL,5,away,LU,,1,miss2,0,R. Felton,
+57,1,4:20.0,18,8,SAS,DAL,0,home,DefReb,,,DefReb,,Team,
+58,1,4:20.0,18,8,SAS,DAL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Pachulia,M. Ginóbili
+59,1,4:20.0,18,8,SAS,DAL,0,home,Sub,,,,,P. Mills,T. Parker
+60,1,4:20.0,18,8,SAS,DAL,0,home,Sub,,,,,B. Diaw,T. Duncan
+61,1,4:20.0,18,8,SAS,DAL,0,away,Sub,,,,,J. McGee,Z. Pachulia
+62,1,4:20.0,18,8,SAS,DAL,0,away,Sub,,,,,D. Harris,R. Felton
+63,1,3:59.0,18,8,SAS,DAL,21,home,JS,,18,miss2,0,L. Aldridge,
+64,1,3:58.0,18,8,SAS,DAL,1,home,OffReb,,,OffReb,,B. Diaw,
+65,1,3:53.0,18,8,SAS,DAL,5,home,JS,,25,miss3,0,M. Ginóbili,
+66,1,3:53.0,18,8,SAS,DAL,0,home,OffReb,,,OffReb,,L. Aldridge,
+67,1,3:48.0,20,8,SAS,DAL,5,home,LU,,1,make2,2,L. Aldridge,
+68,1,3:36.0,20,8,SAS,DAL,12,away,LU,,1,miss2,0,J. McGee,
+69,1,3:35.0,20,8,SAS,DAL,1,away,OffReb,,,OffReb,,W. Matthews,
+70,1,3:35.0,20,8,SAS,DAL,0,away,LU,,2,miss2,0,W. Matthews,
+71,1,3:33.0,20,8,SAS,DAL,2,away,OffReb,,,OffReb,,J. McGee,
+72,1,3:33.0,20,8,SAS,DAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Diaw,J. McGee
+73,1,3:33.0,20,8,SAS,DAL,0,home,Sub,,,,,D. West,L. Aldridge
+74,1,3:16.0,20,8,SAS,DAL,17,away,JS,,23,miss3,0,D. Harris,
+75,1,3:16.0,20,8,SAS,DAL,0,away,OffReb,,,OffReb,,D. Powell,
+76,1,3:13.0,20,8,SAS,DAL,3,away,LostBall,steal,,turnover,,D. Powell,K. Leonard
+77,1,2:58.0,20,8,SAS,DAL,15,home,JS,,15,miss2,0,K. Leonard,
+78,1,2:57.0,20,8,SAS,DAL,1,away,DefReb,,,DefReb,,J. McGee,
+79,1,2:43.0,20,8,SAS,DAL,14,home,Timeout,,,,,,
+80,1,2:43.0,20,8,SAS,DAL,0,away,Sub,,,,,D. Nowitzki,D. Powell
+81,1,2:43.0,20,8,SAS,DAL,0,away,Sub,,,,,J. Anderson,W. Matthews
+82,1,2:43.0,20,8,SAS,DAL,0,away,Sub,,,,,J. Barea,D. Williams
+83,1,2:33.0,20,10,SAS,DAL,10,away,DK,,0,make2,2,J. McGee,
+84,1,2:24.0,22,10,SAS,DAL,9,home,JS,assist,15,make2,2,D. West,K. Leonard
+85,1,2:17.0,22,10,SAS,DAL,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Mills,J. Anderson
+86,1,2:17.0,22,11,SAS,DAL,0,away,FreeThrow,,,make1,1,J. Anderson,
+87,1,2:17.0,22,11,SAS,DAL,0,away,FreeThrow,,,make1,0,J. Anderson,
+88,1,2:17.0,22,11,SAS,DAL,0,home,DefReb,,,DefReb,,K. Leonard,
+89,1,2:12.0,22,11,SAS,DAL,5,home,DblDribble,,,turnover,,K. Leonard,
+90,1,1:53.0,22,13,SAS,DAL,19,away,JS,assist,17,make2,2,J. McGee,J. Anderson
+91,1,1:25.0,24,13,SAS,DAL,28,home,JS,assist,19,make2,2,K. Leonard,M. Ginóbili
+92,1,1:16.0,24,15,SAS,DAL,9,away,LU,assist,2,make2,2,D. Nowitzki,J. Barea
+93,1,1:03.0,24,15,SAS,DAL,13,home,JS,,9,miss2,0,K. Leonard,
+94,1,1:01.0,24,15,SAS,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+95,1,0:56.0,24,15,SAS,DAL,5,away,Traveling,,,turnover,,D. Harris,
+96,1,0:56.0,24,15,SAS,DAL,0,home,Sub,,,,,D. Green,K. Leonard
+97,1,0:43.0,24,15,SAS,DAL,13,home,LU,,1,miss2,0,M. Ginóbili,
+98,1,0:42.0,24,15,SAS,DAL,1,away,DefReb,,,DefReb,,J. McGee,
+99,1,0:35.0,24,15,SAS,DAL,7,away,JS,,5,miss2,0,J. Barea,
+100,1,0:34.0,24,15,SAS,DAL,1,home,DefReb,,,DefReb,,M. Ginóbili,
+101,1,0:28.0,24,15,SAS,DAL,6,home,JS,,24,miss3,0,P. Mills,
+102,1,0:27.0,24,15,SAS,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+103,1,0:10.0,24,15,SAS,DAL,17,away,PersonalFoul,,,,,P. Mills,
+104,1,0:00.0,24,18,SAS,DAL,10,away,JS,assist,25,make3,3,J. Barea,D. Nowitzki
+105,2,11:41.0,24,18,SAS,DAL,19,away,JS,,24,miss3,0,D. Nowitzki,
+106,2,11:40.0,24,18,SAS,DAL,1,home,DefReb,,,DefReb,,P. Mills,
+107,2,11:29.0,24,18,SAS,DAL,11,home,JS,,18,miss2,0,P. Mills,
+108,2,11:29.0,24,18,SAS,DAL,0,away,DefReb,,,DefReb,,J. Anderson,
+109,2,11:19.0,24,18,SAS,DAL,10,away,JS,,3,miss2,0,J. McGee,
+110,2,11:19.0,24,18,SAS,DAL,0,home,DefReb,,,DefReb,,D. West,
+111,2,11:12.0,27,18,SAS,DAL,7,home,JS,assist,24,make3,3,D. Green,B. Diaw
+112,2,10:58.0,27,18,SAS,DAL,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. West,D. Nowitzki
+113,2,10:58.0,27,19,SAS,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+114,2,10:58.0,27,20,SAS,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+115,2,10:45.0,27,20,SAS,DAL,13,home,JS,,18,miss2,0,P. Mills,
+116,2,10:44.0,27,20,SAS,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+117,2,10:33.0,27,20,SAS,DAL,11,away,JS,,16,miss2,0,J. Barea,
+118,2,10:33.0,27,20,SAS,DAL,0,away,OffReb,,,OffReb,,J. McGee,
+119,2,10:29.0,27,20,SAS,DAL,4,away,JS,block,3,miss2,0,J. McGee,D. Green
+120,2,10:27.0,27,20,SAS,DAL,2,home,DefReb,,,DefReb,,D. West,
+121,2,10:19.0,29,20,SAS,DAL,8,home,JS,,19,make2,2,M. Ginóbili,
+122,2,10:04.0,29,20,SAS,DAL,15,away,JS,,23,miss3,0,J. Anderson,
+123,2,9:59.0,29,20,SAS,DAL,5,away,OffReb,,,OffReb,,D. Harris,
+124,2,9:57.0,29,22,SAS,DAL,2,away,LU,,2,make2,2,D. Harris,
+125,2,9:42.0,29,22,SAS,DAL,15,home,JS,,24,miss3,0,M. Ginóbili,
+126,2,9:41.0,29,22,SAS,DAL,1,away,DefReb,,,DefReb,,D. Harris,
+127,2,9:37.0,29,22,SAS,DAL,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. West,D. Harris
+128,2,9:37.0,29,23,SAS,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+129,2,9:37.0,29,23,SAS,DAL,0,away,Sub,,,,,D. Powell,J. McGee
+130,2,9:37.0,29,23,SAS,DAL,0,home,Sub,,,,,K. Anderson,M. Ginóbili
+131,2,9:37.0,29,23,SAS,DAL,0,home,Sub,,,,,T. Duncan,B. Diaw
+132,2,9:37.0,29,24,SAS,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+133,2,9:25.0,29,24,SAS,DAL,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,D. Green
+134,2,9:16.0,29,24,SAS,DAL,9,home,JS,,15,miss2,0,D. Green,
+135,2,9:14.0,29,24,SAS,DAL,2,away,DefReb,,,DefReb,,J. Anderson,
+136,2,9:09.0,29,24,SAS,DAL,5,away,LU,,1,miss2,0,J. Anderson,
+137,2,9:07.0,29,24,SAS,DAL,2,home,DefReb,,,DefReb,,T. Duncan,
+138,2,9:00.0,29,24,SAS,DAL,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Anderson,J. Barea
+139,2,9:00.0,29,24,SAS,DAL,0,home,OffensiveFoul,,,turnover,,K. Anderson,
+140,2,8:52.0,29,24,SAS,DAL,8,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Harris,D. West
+141,2,8:52.0,29,24,SAS,DAL,0,away,OffensiveFoul,,,turnover,,D. Harris,
+142,2,8:52.0,29,24,SAS,DAL,0,away,Timeout,,,,,,
+143,2,8:52.0,29,24,SAS,DAL,0,home,Sub,,,,,T. Parker,P. Mills
+144,2,8:52.0,29,24,SAS,DAL,0,home,Sub,,,,,L. Aldridge,D. West
+145,2,8:52.0,29,24,SAS,DAL,0,away,Sub,,,,,D. Williams,D. Harris
+146,2,8:52.0,29,24,SAS,DAL,0,away,Sub,,,,,W. Matthews,D. Nowitzki
+147,2,8:52.0,29,24,SAS,DAL,0,away,Sub,,,,,Z. Pachulia,J. Anderson
+148,2,8:35.0,29,24,SAS,DAL,17,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Duncan,D. Powell
+149,2,8:35.0,29,24,SAS,DAL,0,home,OffensiveFoul,,,turnover,,T. Duncan,
+150,2,8:25.0,29,26,SAS,DAL,10,away,JS,assist,15,make2,2,D. Powell,D. Williams
+151,2,8:15.0,29,26,SAS,DAL,10,home,PersonalFoul,,,,,J. Barea,
+152,2,8:08.0,31,26,SAS,DAL,7,home,JS,,7,make2,2,T. Parker,
+153,2,7:57.0,31,26,SAS,DAL,11,away,LU,,2,miss2,0,J. Barea,
+154,2,7:55.0,31,26,SAS,DAL,2,home,DefReb,,,DefReb,,T. Duncan,
+155,2,7:51.0,33,26,SAS,DAL,4,home,LU,,1,make2,2,T. Parker,
+156,2,7:51.0,33,26,SAS,DAL,0,away,Timeout,,,,,,
+157,2,7:51.0,33,26,SAS,DAL,0,home,Sub,,,,,K. Leonard,K. Anderson
+158,2,7:51.0,33,26,SAS,DAL,0,away,Sub,,,,,R. Felton,J. Barea
+159,2,7:34.0,33,26,SAS,DAL,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Duncan,Z. Pachulia
+160,2,7:34.0,33,27,SAS,DAL,0,away,FreeThrow,,,make1,1,Z. Pachulia,
+161,2,7:34.0,33,28,SAS,DAL,0,away,FreeThrow,,,make1,1,Z. Pachulia,
+162,2,7:24.0,33,28,SAS,DAL,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Pachulia,K. Leonard
+163,2,7:24.0,33,28,SAS,DAL,0,away,Sub,,,,,J. McGee,Z. Pachulia
+164,2,7:24.0,33,28,SAS,DAL,0,away,Sub,,,,,D. Nowitzki,D. Powell
+165,2,7:19.0,33,28,SAS,DAL,5,home,LostBall,steal,,turnover,,T. Parker,D. Nowitzki
+166,2,7:02.0,33,28,SAS,DAL,17,away,D3SecTech,,,,,,
+167,2,7:02.0,33,29,SAS,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki makes technical free throw,
+168,2,6:51.0,33,32,SAS,DAL,11,away,JS,assist,24,make3,3,R. Felton,D. Williams
+169,2,6:21.0,33,32,SAS,DAL,30,home,JS,,23,miss3,0,K. Leonard,
+170,2,6:21.0,33,32,SAS,DAL,0,home,OffReb,,,OffReb,,L. Aldridge,
+171,2,6:16.0,33,32,SAS,DAL,5,home,JS,,25,miss3,0,D. Green,
+172,2,6:16.0,33,32,SAS,DAL,0,home,OffReb,,,OffReb,,K. Leonard,
+173,2,6:13.0,33,32,SAS,DAL,3,home,JS,,20,miss2,0,L. Aldridge,
+174,2,6:12.0,33,32,SAS,DAL,1,away,DefReb,,,DefReb,,D. Williams,
+175,2,6:05.0,33,32,SAS,DAL,7,away,JS,,24,miss3,0,W. Matthews,
+176,2,6:04.0,33,32,SAS,DAL,1,home,DefReb,,,DefReb,,L. Aldridge,
+177,2,5:56.0,33,32,SAS,DAL,8,home,JS,,24,miss3,0,K. Leonard,
+178,2,5:55.0,33,32,SAS,DAL,1,away,DefReb,,,DefReb,,J. McGee,
+179,2,5:47.0,33,32,SAS,DAL,8,away,JS,,24,miss3,0,D. Williams,
+180,2,5:46.0,33,32,SAS,DAL,1,away,OffReb,,,OffReb,,D. Nowitzki,
+181,2,5:46.0,33,32,SAS,DAL,0,away,LostBall,,,turnover,,D. Nowitzki,
+182,2,5:46.0,33,32,SAS,DAL,0,home,Sub,,,,,M. Ginóbili,D. Green
+183,2,5:26.0,33,32,SAS,DAL,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Matthews,M. Ginóbili
+184,2,5:26.0,34,32,SAS,DAL,0,home,FreeThrow,,,make1,1,M. Ginóbili,
+185,2,5:26.0,35,32,SAS,DAL,0,home,FreeThrow,,,make1,1,M. Ginóbili,
+186,2,5:15.0,35,32,SAS,DAL,11,away,BadPass,,,turnover,,J. McGee,
+187,2,4:55.0,38,32,SAS,DAL,20,home,JS,assist,24,make3,3,K. Leonard,T. Parker
+188,2,4:33.0,38,32,SAS,DAL,22,away,JS,,17,miss2,0,W. Matthews,
+189,2,4:33.0,38,32,SAS,DAL,0,away,OffReb,,,OffReb,,Team,
+190,2,4:33.0,38,32,SAS,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Ginóbili,D. Nowitzki
+191,2,4:30.0,38,32,SAS,DAL,3,away,DiscontinueDribbleTurnover,,,turnover,,D. Williams,
+192,2,4:21.0,38,32,SAS,DAL,9,home,LostBall,steal,,turnover,,T. Duncan,R. Felton
+193,2,4:14.0,38,35,SAS,DAL,7,away,JS,assist,22,make3,3,W. Matthews,R. Felton
+194,2,3:50.0,40,35,SAS,DAL,24,home,JS,assist,14,make2,2,L. Aldridge,K. Leonard
+195,2,3:40.0,40,35,SAS,DAL,10,away,JS,,13,miss2,0,J. McGee,
+196,2,3:39.0,40,35,SAS,DAL,1,home,DefReb,,,DefReb,,T. Parker,
+197,2,3:30.0,40,35,SAS,DAL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. McGee,L. Aldridge
+198,2,3:30.0,41,35,SAS,DAL,0,home,FreeThrow,,,make1,1,L. Aldridge,
+199,2,3:30.0,41,35,SAS,DAL,0,away,Sub,,,,,D. Powell,J. McGee
+200,2,3:30.0,41,35,SAS,DAL,0,away,Sub,,,,,C. Villanueva,D. Nowitzki
+201,2,3:30.0,41,35,SAS,DAL,0,home,Sub,,,,,B. Diaw,T. Duncan
+202,2,3:30.0,42,35,SAS,DAL,0,home,FreeThrow,,,make1,1,L. Aldridge,
+203,2,3:16.0,42,35,SAS,DAL,14,away,JS,,24,miss3,0,C. Villanueva,
+204,2,3:16.0,42,35,SAS,DAL,0,home,DefReb,,,DefReb,,M. Ginóbili,
+205,2,3:03.0,42,35,SAS,DAL,13,home,JS,,16,miss2,0,T. Parker,
+206,2,3:03.0,42,35,SAS,DAL,0,away,DefReb,,,DefReb,,D. Williams,
+207,2,2:46.0,42,35,SAS,DAL,17,away,LU,,1,miss2,0,D. Williams,
+208,2,2:45.0,42,35,SAS,DAL,1,home,DefReb,,,DefReb,,T. Parker,
+209,2,2:39.0,44,35,SAS,DAL,6,home,LU,,2,make2,2,T. Parker,
+210,2,2:39.0,44,35,SAS,DAL,0,away,Timeout,,,,,,
+211,2,2:39.0,44,35,SAS,DAL,0,home,Timeout,,,,,,
+212,2,2:24.0,44,35,SAS,DAL,15,away,JS,block,5,miss2,0,R. Felton,L. Aldridge
+213,2,2:23.0,44,35,SAS,DAL,1,home,DefReb,,,DefReb,,B. Diaw,
+214,2,2:11.0,44,35,SAS,DAL,12,home,BadPass,steal,,turnover,,M. Ginóbili,D. Williams
+215,2,2:03.0,44,35,SAS,DAL,8,away,Sub,,,,,D. Nowitzki,C. Villanueva
+216,2,1:46.0,44,35,SAS,DAL,17,away,JS,,20,miss2,0,D. Williams,
+217,2,1:45.0,44,35,SAS,DAL,1,home,DefReb,,,DefReb,,M. Ginóbili,
+218,2,1:24.0,44,35,SAS,DAL,21,home,JS,,16,miss2,0,L. Aldridge,
+219,2,1:23.0,44,35,SAS,DAL,1,home,OffReb,,,OffReb,,B. Diaw,
+220,2,1:04.0,44,35,SAS,DAL,19,home,JS,,25,miss3,0,M. Ginóbili,
+221,2,1:04.0,44,35,SAS,DAL,0,home,OffReb,,,OffReb,,L. Aldridge,
+222,2,1:01.0,46,35,SAS,DAL,3,home,LU,,2,make2,2,L. Aldridge,
+223,2,0:45.0,46,37,SAS,DAL,16,away,LU,assist,2,make2,2,D. Powell,D. Nowitzki
+224,2,0:23.0,46,37,SAS,DAL,22,home,JS,,24,miss3,0,M. Ginóbili,
+225,2,0:23.0,46,37,SAS,DAL,0,away,DefReb,,,DefReb,,D. Nowitzki,
+226,2,0:02.0,46,39,SAS,DAL,21,away,JS,,5,make2,2,D. Williams,
+227,2,0:00.0,46,39,SAS,DAL,2,home,JS,,49,miss3,0,B. Diaw,
+228,2,0:00.0,46,39,SAS,DAL,0,home,OffReb,,,OffReb,,Team,
+229,3,11:45.0,46,39,SAS,DAL,15,away,JS,,11,miss2,0,D. Williams,
+230,3,11:44.0,46,39,SAS,DAL,1,home,DefReb,,,DefReb,,T. Parker,
+231,3,11:24.0,46,39,SAS,DAL,20,home,JS,block,7,miss2,0,L. Aldridge,D. Williams
+232,3,11:21.0,46,39,SAS,DAL,3,home,OffReb,,,OffReb,,L. Aldridge,
+233,3,11:19.0,46,39,SAS,DAL,2,home,JS,,25,miss3,0,D. Green,
+234,3,11:18.0,46,39,SAS,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+235,3,11:01.0,46,39,SAS,DAL,17,away,JS,,24,miss3,0,D. Williams,
+236,3,11:00.0,46,39,SAS,DAL,1,home,DefReb,,,DefReb,,T. Parker,
+237,3,10:44.0,48,39,SAS,DAL,16,home,JS,assist,17,make2,2,L. Aldridge,T. Duncan
+238,3,10:18.0,48,39,SAS,DAL,26,away,JS,,18,miss2,0,D. Williams,
+239,3,10:17.0,48,39,SAS,DAL,1,home,DefReb,,,DefReb,,T. Duncan,
+240,3,10:10.0,51,39,SAS,DAL,7,home,JS,assist,25,make3,3,D. Green,T. Parker
+241,3,9:59.0,51,39,SAS,DAL,11,away,Timeout,,,,,,
+242,3,9:40.0,51,41,SAS,DAL,19,away,JS,assist,11,make2,2,D. Nowitzki,D. Williams
+243,3,9:23.0,51,41,SAS,DAL,17,home,JS,,18,miss2,0,L. Aldridge,
+244,3,9:22.0,51,41,SAS,DAL,1,away,DefReb,,,DefReb,,D. Williams,
+245,3,9:13.0,51,41,SAS,DAL,9,away,JS,,26,miss3,0,W. Matthews,
+246,3,9:12.0,51,41,SAS,DAL,1,home,DefReb,,,DefReb,,T. Parker,
+247,3,9:03.0,51,41,SAS,DAL,9,home,JS,,15,miss2,0,T. Parker,
+248,3,9:02.0,51,41,SAS,DAL,1,away,DefReb,,,DefReb,,D. Williams,
+249,3,8:47.0,51,43,SAS,DAL,15,away,LU,assist,1,make2,2,D. Nowitzki,R. Felton
+250,3,8:20.0,51,43,SAS,DAL,27,home,JS,,18,miss2,0,T. Duncan,
+251,3,8:18.0,51,43,SAS,DAL,2,home,OffReb,,,OffReb,,L. Aldridge,
+252,3,8:18.0,53,43,SAS,DAL,0,home,LU,,1,make2,2,L. Aldridge,
+253,3,8:06.0,53,45,SAS,DAL,12,away,LU,assist,2,make2,2,W. Matthews,D. Williams
+254,3,7:40.0,53,45,SAS,DAL,26,home,LU,,3,miss2,0,D. Green,
+255,3,7:39.0,53,45,SAS,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+256,3,7:26.0,53,45,SAS,DAL,13,away,LU,block,0,miss2,0,Z. Pachulia,T. Duncan
+257,3,7:24.0,53,45,SAS,DAL,2,home,DefReb,,,DefReb,,D. Green,
+258,3,7:20.0,53,45,SAS,DAL,4,home,BadPass,,,turnover,,D. Green,
+259,3,7:10.0,53,45,SAS,DAL,10,away,BadPass,steal,,turnover,,W. Matthews,D. Green
+260,3,7:00.0,55,45,SAS,DAL,10,home,JS,assist,13,make2,2,K. Leonard,T. Parker
+261,3,6:35.0,55,45,SAS,DAL,25,away,LU,,1,miss2,0,Z. Pachulia,
+262,3,6:34.0,55,45,SAS,DAL,1,home,DefReb,,,DefReb,,L. Aldridge,
+263,3,6:10.0,55,45,SAS,DAL,24,home,ShotClockViolation,,,turnover,,Team,
+264,3,5:56.0,55,48,SAS,DAL,14,away,JS,assist,24,make3,3,W. Matthews,D. Williams
+265,3,5:55.0,55,48,SAS,DAL,1,home,Timeout,,,,,,
+266,3,5:55.0,55,48,SAS,DAL,0,away,Sub,,,,,C. Villanueva,D. Nowitzki
+267,3,5:55.0,55,48,SAS,DAL,0,home,Sub,,,,,M. Ginóbili,D. Green
+268,3,5:55.0,55,48,SAS,DAL,0,home,Sub,,,,,R. Butler,T. Duncan
+269,3,5:33.0,55,48,SAS,DAL,22,home,JS,,16,miss2,0,M. Ginóbili,
+270,3,5:32.0,55,48,SAS,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+271,3,5:19.0,55,48,SAS,DAL,13,away,JS,,19,miss2,0,D. Williams,
+272,3,5:18.0,55,48,SAS,DAL,1,home,DefReb,,,DefReb,,T. Parker,
+273,3,5:04.0,55,48,SAS,DAL,14,home,JS,,25,miss3,0,R. Butler,
+274,3,5:03.0,55,48,SAS,DAL,1,away,DefReb,,,DefReb,,W. Matthews,
+275,3,4:57.0,55,50,SAS,DAL,6,away,LU,,2,make2,2,W. Matthews,
+276,3,4:30.0,55,50,SAS,DAL,27,home,BadPass,steal,,turnover,,M. Ginóbili,W. Matthews
+277,3,4:24.0,55,50,SAS,DAL,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,Z. Pachulia,R. Butler
+278,3,4:24.0,55,50,SAS,DAL,0,away,OffensiveFoul,,,turnover,,Z. Pachulia,
+279,3,4:24.0,55,50,SAS,DAL,0,home,Sub,,,,,P. Mills,T. Parker
+280,3,4:24.0,55,50,SAS,DAL,0,away,Sub,,,,,D. Powell,Z. Pachulia
+281,3,4:12.0,55,50,SAS,DAL,12,home,LostBall,steal,,turnover,,K. Leonard,D. Williams
+282,3,4:07.0,55,52,SAS,DAL,5,away,LU,assist,2,make2,2,C. Villanueva,R. Felton
+283,3,3:50.0,55,52,SAS,DAL,17,home,BadPass,steal,,turnover,,M. Ginóbili,D. Williams
+284,3,3:44.0,55,52,SAS,DAL,6,away,JS,,24,miss3,0,C. Villanueva,
+285,3,3:43.0,55,52,SAS,DAL,1,away,OffReb,,,OffReb,,C. Villanueva,
+286,3,3:26.0,55,52,SAS,DAL,17,away,BadPass,steal,,turnover,,R. Felton,P. Mills
+287,3,3:06.0,55,52,SAS,DAL,20,home,JS,,24,miss3,0,P. Mills,
+288,3,3:05.0,55,52,SAS,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+289,3,2:48.0,55,52,SAS,DAL,17,away,JS,,17,miss2,0,R. Felton,
+290,3,2:47.0,55,52,SAS,DAL,1,home,DefReb,,,DefReb,,R. Butler,
+291,3,2:33.0,55,52,SAS,DAL,14,home,LU,,2,miss2,0,L. Aldridge,
+292,3,2:31.0,55,52,SAS,DAL,2,away,DefReb,,,DefReb,,R. Felton,
+293,3,2:24.0,55,54,SAS,DAL,7,away,LU,,2,make2,2,D. Williams,
+294,3,2:01.0,57,54,SAS,DAL,23,home,JS,,12,make2,2,K. Leonard,
+295,3,1:45.0,57,56,SAS,DAL,16,away,JS,,15,make2,2,C. Villanueva,
+296,3,1:25.0,57,56,SAS,DAL,20,away,Sub,,,,,J. Barea,R. Felton
+297,3,1:25.0,57,56,SAS,DAL,0,away,Sub,,,,,D. Nowitzki,D. Williams
+298,3,1:25.0,57,56,SAS,DAL,0,away,Sub,,,,,D. Harris,D. Powell
+299,3,1:25.0,57,56,SAS,DAL,0,home,Sub,,,,,D. West,L. Aldridge
+300,3,1:22.0,57,56,SAS,DAL,3,home,JS,,8,miss2,0,M. Ginóbili,
+301,3,1:21.0,57,56,SAS,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+302,3,1:11.0,57,56,SAS,DAL,10,away,JS,,18,miss2,0,W. Matthews,
+303,3,1:10.0,57,56,SAS,DAL,1,away,OffReb,,,OffReb,,D. Nowitzki,
+304,3,1:07.0,57,56,SAS,DAL,3,away,BadPass,steal,,turnover,,W. Matthews,K. Leonard
+305,3,1:03.0,57,56,SAS,DAL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Matthews,K. Leonard
+306,3,0:54.0,57,56,SAS,DAL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,D. West
+307,3,0:54.0,57,56,SAS,DAL,0,home,FreeThrow,,,make1,0,D. West,
+308,3,0:54.0,57,56,SAS,DAL,0,home,OffReb,,,OffReb,,Team,
+309,3,0:54.0,58,56,SAS,DAL,0,home,FreeThrow,,,make1,1,D. West,
+310,3,0:37.0,58,58,SAS,DAL,17,away,LU,,1,make2,2,D. Harris,
+311,3,0:37.0,58,58,SAS,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ginóbili,D. Harris
+312,3,0:37.0,58,58,SAS,DAL,0,away,FreeThrow,,,make1,0,D. Harris,
+313,3,0:37.0,58,58,SAS,DAL,0,home,DefReb,,,DefReb,,R. Butler,
+314,3,0:29.0,58,58,SAS,DAL,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Villanueva,K. Leonard
+315,3,0:29.0,59,58,SAS,DAL,0,home,FreeThrow,,,make1,1,K. Leonard,
+316,3,0:29.0,60,58,SAS,DAL,0,home,FreeThrow,,,make1,1,K. Leonard,
+317,3,0:06.0,60,60,SAS,DAL,23,away,JS,,8,make2,2,J. Barea,
+318,3,0:00.0,63,60,SAS,DAL,6,home,JS,assist,24,make3,3,D. West,K. Leonard
+319,4,11:44.0,63,60,SAS,DAL,16,home,JS,,24,miss3,0,P. Mills,
+320,4,11:42.0,63,60,SAS,DAL,2,away,DefReb,,,DefReb,,C. Villanueva,
+321,4,11:32.0,63,60,SAS,DAL,10,home,DefGoaltending,,,DefGoaltending,,R. Butler,
+322,4,11:32.0,63,62,SAS,DAL,0,away,LU,assist,3,make2,2,D. Harris,J. Barea
+323,4,11:20.0,63,62,SAS,DAL,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Villanueva,M. Ginóbili
+324,4,11:20.0,64,62,SAS,DAL,0,home,FreeThrow,,,make1,1,M. Ginóbili,
+325,4,11:20.0,64,62,SAS,DAL,0,home,Sub,,,,,T. Parker,R. Butler
+326,4,11:20.0,65,62,SAS,DAL,0,home,FreeThrow,,,make1,1,M. Ginóbili,
+327,4,11:03.0,65,64,SAS,DAL,17,away,LU,,2,make2,2,J. Barea,
+328,4,10:51.0,68,64,SAS,DAL,12,home,JS,assist,23,make3,3,P. Mills,T. Parker
+329,4,10:40.0,68,64,SAS,DAL,11,away,LU,,1,miss2,0,J. Barea,
+330,4,10:40.0,68,64,SAS,DAL,0,home,DefReb,,,DefReb,,D. Green,
+331,4,10:26.0,68,64,SAS,DAL,14,home,JS,,25,miss3,0,M. Ginóbili,
+332,4,10:25.0,68,64,SAS,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+333,4,10:11.0,68,64,SAS,DAL,14,away,JS,,24,miss3,0,C. Villanueva,
+334,4,10:10.0,68,64,SAS,DAL,1,home,DefReb,,,DefReb,,P. Mills,
+335,4,9:55.0,68,64,SAS,DAL,15,home,JS,,25,miss3,0,P. Mills,
+336,4,9:54.0,68,64,SAS,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+337,4,9:43.0,68,64,SAS,DAL,11,away,JS,,19,miss2,0,D. Nowitzki,
+338,4,9:42.0,68,64,SAS,DAL,1,home,DefReb,,,DefReb,,T. Parker,
+339,4,9:32.0,70,64,SAS,DAL,10,home,JS,assist,16,make2,2,D. West,T. Parker
+340,4,9:31.0,70,64,SAS,DAL,1,away,Timeout,,,,,,
+341,4,9:31.0,70,64,SAS,DAL,0,away,Sub,,,,,J. McGee,D. Nowitzki
+342,4,9:31.0,70,64,SAS,DAL,0,home,Sub,,,,,K. Leonard,M. Ginóbili
+343,4,9:11.0,70,64,SAS,DAL,20,away,BadPass,steal,,turnover,,C. Villanueva,P. Mills
+344,4,9:01.0,70,64,SAS,DAL,10,home,JS,,23,miss3,0,D. Green,
+345,4,9:00.0,70,64,SAS,DAL,1,home,OffReb,,,OffReb,,K. Leonard,
+346,4,9:00.0,70,64,SAS,DAL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,K. Leonard
+347,4,8:48.0,70,64,SAS,DAL,12,home,BadPass,steal,,turnover,,D. West,J. Barea
+348,4,8:43.0,70,66,SAS,DAL,5,away,LU,assist,0,make2,2,C. Villanueva,J. Barea
+349,4,8:27.0,70,66,SAS,DAL,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Felton,P. Mills
+350,4,8:27.0,70,66,SAS,DAL,0,home,Sub,,,,,T. Duncan,D. West
+351,4,8:14.0,72,66,SAS,DAL,13,home,JS,,13,make2,2,K. Leonard,
+352,4,7:52.0,72,66,SAS,DAL,22,away,JS,,6,miss2,0,C. Villanueva,
+353,4,7:51.0,72,66,SAS,DAL,1,home,DefReb,,,DefReb,,T. Duncan,
+354,4,7:44.0,72,66,SAS,DAL,7,home,JS,,23,miss3,0,D. Green,
+355,4,7:43.0,72,66,SAS,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+356,4,7:41.0,72,66,SAS,DAL,2,away,Timeout,,,,,,
+357,4,7:41.0,72,66,SAS,DAL,0,away,Sub,,,,,D. Nowitzki,J. Barea
+358,4,7:41.0,72,66,SAS,DAL,0,away,Sub,,,,,D. Williams,C. Villanueva
+359,4,7:26.0,72,68,SAS,DAL,15,away,JS,,9,make2,2,J. McGee,
+360,4,7:09.0,72,68,SAS,DAL,17,home,LU,,1,miss2,0,T. Parker,
+361,4,7:08.0,72,68,SAS,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+362,4,7:00.0,72,68,SAS,DAL,8,away,LU,,3,miss2,0,D. Williams,
+363,4,7:00.0,72,68,SAS,DAL,0,away,OffReb,,,OffReb,,J. McGee,
+364,4,7:00.0,72,68,SAS,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,J. McGee
+365,4,7:00.0,72,68,SAS,DAL,0,away,FreeThrow,,,make1,0,J. McGee,
+366,4,7:00.0,72,68,SAS,DAL,0,away,OffReb,,,OffReb,,Team,
+367,4,7:00.0,72,68,SAS,DAL,0,home,Sub,,,,,L. Aldridge,P. Mills
+368,4,7:00.0,72,69,SAS,DAL,0,away,FreeThrow,,,make1,1,J. McGee,
+369,4,6:42.0,72,69,SAS,DAL,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,L. Aldridge
+370,4,6:30.0,72,69,SAS,DAL,12,home,JS,,6,miss2,0,K. Leonard,
+371,4,6:29.0,72,69,SAS,DAL,1,away,DefReb,,,DefReb,,D. Harris,
+372,4,6:16.0,72,71,SAS,DAL,13,away,DK,assist,0,make2,2,J. McGee,R. Felton
+373,4,5:55.0,72,71,SAS,DAL,21,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,K. Leonard
+374,4,5:55.0,72,71,SAS,DAL,0,away,Timeout,,,,,,
+375,4,5:55.0,72,71,SAS,DAL,0,home,Sub,,,,,M. Ginóbili,D. Green
+376,4,5:55.0,72,71,SAS,DAL,0,away,Sub,,,,,W. Matthews,D. Harris
+377,4,5:55.0,73,71,SAS,DAL,0,home,FreeThrow,,,make1,1,K. Leonard,
+378,4,5:55.0,74,71,SAS,DAL,0,home,FreeThrow,,,make1,1,K. Leonard,
+379,4,5:40.0,74,73,SAS,DAL,15,away,JS,assist,11,make2,2,W. Matthews,D. Williams
+380,4,5:23.0,74,73,SAS,DAL,17,home,JS,,14,miss2,0,K. Leonard,
+381,4,5:22.0,74,73,SAS,DAL,1,away,DefReb,,,DefReb,,D. Williams,
+382,4,5:09.0,74,73,SAS,DAL,13,away,LostBall,,,turnover,,W. Matthews,
+383,4,4:54.0,76,73,SAS,DAL,15,home,JS,assist,21,make2,2,T. Parker,M. Ginóbili
+384,4,4:25.0,76,73,SAS,DAL,29,away,JS,,25,miss3,0,W. Matthews,
+385,4,4:24.0,76,73,SAS,DAL,1,home,DefReb,,,DefReb,,M. Ginóbili,
+386,4,4:18.0,76,73,SAS,DAL,6,home,BadPass,,,turnover,,M. Ginóbili,
+387,4,4:18.0,76,73,SAS,DAL,0,away,Sub,,,,,Z. Pachulia,J. McGee
+388,4,4:06.0,76,73,SAS,DAL,12,away,JS,,25,miss3,0,R. Felton,
+389,4,4:05.0,76,73,SAS,DAL,1,home,DefReb,,,DefReb,,K. Leonard,
+390,4,3:56.0,78,73,SAS,DAL,9,home,JS,assist,22,make2,2,T. Parker,K. Leonard
+391,4,3:54.0,78,73,SAS,DAL,2,away,Timeout,,,,,,
+392,4,3:41.0,78,75,SAS,DAL,13,away,JS,assist,16,make2,2,D. Nowitzki,D. Williams
+393,4,3:25.0,80,75,SAS,DAL,16,home,LU,assist,1,make2,2,M. Ginóbili,T. Duncan
+394,4,3:04.0,80,78,SAS,DAL,21,away,JS,assist,24,make3,3,W. Matthews,D. Williams
+395,4,2:39.0,82,78,SAS,DAL,25,home,JS,assist,19,make2,2,L. Aldridge,T. Parker
+396,4,2:16.0,82,80,SAS,DAL,23,away,JS,assist,14,make2,2,D. Nowitzki,R. Felton
+397,4,1:53.0,82,80,SAS,DAL,23,home,JS,,10,miss2,0,L. Aldridge,
+398,4,1:52.0,82,80,SAS,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+399,4,1:44.0,82,80,SAS,DAL,8,away,JS,,19,miss2,0,D. Williams,
+400,4,1:43.0,82,80,SAS,DAL,1,home,DefReb,,,DefReb,,K. Leonard,
+401,4,1:29.0,82,80,SAS,DAL,14,home,JS,,24,miss3,0,M. Ginóbili,
+402,4,1:28.0,82,80,SAS,DAL,1,home,OffReb,,,OffReb,,T. Duncan,
+403,4,1:11.0,82,80,SAS,DAL,17,home,JS,,19,miss2,0,T. Parker,
+404,4,1:05.0,82,80,SAS,DAL,6,home,OffReb,,,OffReb,,Team,
+405,4,1:05.0,82,80,SAS,DAL,0,away,Sub,,,,,D. Harris,R. Felton
+406,4,0:52.0,84,80,SAS,DAL,13,home,JS,assist,11,make2,2,K. Leonard,T. Duncan
+407,4,0:34.0,84,83,SAS,DAL,18,away,JS,assist,22,make3,3,D. Harris,W. Matthews
+408,4,0:15.0,87,83,SAS,DAL,19,home,JS,assist,24,make3,3,K. Leonard,M. Ginóbili
+409,4,0:15.0,87,83,SAS,DAL,0,away,Timeout,,,,,,
+410,4,0:15.0,87,83,SAS,DAL,0,home,Sub,,,,,D. Green,L. Aldridge
+411,4,0:15.0,87,83,SAS,DAL,0,away,Sub,,,,,C. Villanueva,Z. Pachulia
+412,4,0:13.0,87,83,SAS,DAL,2,away,JS,,23,miss3,0,W. Matthews,
+413,4,0:12.0,87,83,SAS,DAL,1,home,DefReb,,,DefReb,,T. Duncan,
+414,4,0:10.0,87,83,SAS,DAL,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,M. Ginóbili
+415,4,0:10.0,87,83,SAS,DAL,0,away,Sub,,,,,R. Felton,D. Harris
+416,4,0:10.0,88,83,SAS,DAL,0,home,FreeThrow,,,make1,1,M. Ginóbili,
+417,4,0:10.0,88,83,SAS,DAL,0,home,Sub,,,,,K. Anderson,T. Duncan
+418,4,0:10.0,88,83,SAS,DAL,0,home,FreeThrow,,,make1,0,M. Ginóbili,
+419,4,0:10.0,88,83,SAS,DAL,0,home,OffReb,,,OffReb,,K. Leonard,
+420,4,0:08.0,88,83,SAS,DAL,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Matthews,M. Ginóbili
+421,4,0:08.0,88,83,SAS,DAL,0,home,FreeThrow,,,make1,0,M. Ginóbili,
+422,4,0:08.0,88,83,SAS,DAL,0,home,OffReb,,,OffReb,,Team,
+423,4,0:08.0,88,83,SAS,DAL,0,home,FreeThrow,,,make1,0,M. Ginóbili,
+424,4,0:07.0,88,83,SAS,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+425,4,0:02.0,88,83,SAS,DAL,5,away,JS,,26,miss3,0,W. Matthews,
+426,4,0:01.0,88,83,SAS,DAL,1,home,DefReb,,,DefReb,,D. Green,

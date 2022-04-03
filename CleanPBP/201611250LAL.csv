@@ -1,0 +1,464 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,0,0,LAL,GSW,17,away,JS,,24,miss3,0,S. Curry,
+1,1,11:42.0,0,0,LAL,GSW,1,home,DefReb,,,DefReb,,B. Ingram,
+2,1,11:29.0,0,0,LAL,GSW,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Pachulia,T. Mozgov
+3,1,11:17.0,0,0,LAL,GSW,12,home,JS,,24,miss3,0,J. Clarkson,
+4,1,11:16.0,0,0,LAL,GSW,1,away,DefReb,,,DefReb,,D. Green,
+5,1,11:09.0,0,0,LAL,GSW,7,away,JS,block,25,miss3,0,K. Durant,B. Ingram
+6,1,11:08.0,0,0,LAL,GSW,1,home,DefReb,,,DefReb,,B. Ingram,
+7,1,11:04.0,2,0,LAL,GSW,4,home,DK,assist,0,make2,2,L. Deng,B. Ingram
+8,1,10:46.0,2,0,LAL,GSW,18,away,JS,,24,miss3,0,K. Thompson,
+9,1,10:46.0,2,0,LAL,GSW,0,home,DefReb,,,DefReb,,B. Ingram,
+10,1,10:41.0,2,0,LAL,GSW,5,home,LU,block,1,miss2,0,L. Deng,Z. Pachulia
+11,1,10:41.0,2,0,LAL,GSW,0,home,OffReb,,,OffReb,,Team,
+12,1,10:38.0,2,0,LAL,GSW,3,home,JS,,24,miss3,0,B. Ingram,
+13,1,10:37.0,2,0,LAL,GSW,1,home,OffReb,,,OffReb,,L. Deng,
+14,1,10:30.0,5,0,LAL,GSW,7,home,JS,assist,25,make3,3,J. Calderón,L. Deng
+15,1,10:30.0,5,0,LAL,GSW,0,away,Timeout,,,,,,
+16,1,10:15.0,5,0,LAL,GSW,15,away,D3SecTech,,,,,,
+17,1,10:15.0,5,1,LAL,GSW,0,away,FreeThrow,,,make1,1,S. Curry makes technical free throw,
+18,1,10:11.0,5,3,LAL,GSW,4,away,JS,assist,18,make2,2,K. Thompson,K. Durant
+19,1,9:56.0,7,3,LAL,GSW,15,home,JS,assist,19,make2,2,T. Mozgov,L. Deng
+20,1,9:43.0,7,5,LAL,GSW,13,away,JS,assist,19,make2,2,K. Durant,D. Green
+21,1,9:31.0,9,5,LAL,GSW,12,home,LU,assist,2,make2,2,T. Mozgov,J. Calderón
+22,1,9:19.0,9,5,LAL,GSW,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Calderón,D. Green
+23,1,9:15.0,9,5,LAL,GSW,4,away,JS,,14,miss2,0,K. Thompson,
+24,1,9:15.0,9,5,LAL,GSW,0,home,DefReb,,,DefReb,,T. Mozgov,
+25,1,9:06.0,9,5,LAL,GSW,9,home,JS,,7,miss2,0,L. Deng,
+26,1,9:05.0,9,5,LAL,GSW,1,away,DefReb,,,DefReb,,S. Curry,
+27,1,9:00.0,9,5,LAL,GSW,5,away,LU,,1,miss2,0,S. Curry,
+28,1,8:57.0,9,5,LAL,GSW,3,home,DefReb,,,DefReb,,J. Clarkson,
+29,1,8:54.0,9,5,LAL,GSW,3,home,JS,,25,miss3,0,B. Ingram,
+30,1,8:54.0,9,5,LAL,GSW,0,away,DefReb,,,DefReb,,Team,
+31,1,8:35.0,9,7,LAL,GSW,19,away,LU,assist,2,make2,2,D. Green,Z. Pachulia
+32,1,8:27.0,9,7,LAL,GSW,8,away,KickBallViolation,,,KickBallViolation,,K. Thompson,
+33,1,8:12.0,12,7,LAL,GSW,15,home,JS,assist,25,make3,3,J. Clarkson,L. Deng
+34,1,7:53.0,12,7,LAL,GSW,19,away,JS,,13,miss2,0,K. Durant,
+35,1,7:51.0,12,7,LAL,GSW,2,home,DefReb,,,DefReb,,T. Mozgov,
+36,1,7:34.0,12,7,LAL,GSW,17,home,LU,,1,miss2,0,B. Ingram,
+37,1,7:33.0,12,7,LAL,GSW,1,away,DefReb,,,DefReb,,Z. Pachulia,
+38,1,7:28.0,12,7,LAL,GSW,5,away,JS,,24,miss3,0,S. Curry,
+39,1,7:25.0,12,7,LAL,GSW,3,home,DefReb,,,DefReb,,J. Clarkson,
+40,1,7:15.0,12,7,LAL,GSW,10,home,JS,,27,miss3,0,L. Deng,
+41,1,7:14.0,12,7,LAL,GSW,1,away,DefReb,,,DefReb,,Z. Pachulia,
+42,1,7:13.0,12,7,LAL,GSW,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Mozgov,K. Durant
+43,1,7:13.0,12,7,LAL,GSW,0,away,FreeThrow,,,make1,0,K. Durant,
+44,1,7:13.0,12,7,LAL,GSW,0,away,OffReb,,,OffReb,,Team,
+45,1,7:13.0,12,8,LAL,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
+46,1,6:53.0,12,8,LAL,GSW,20,home,LostBall,,,turnover,,B. Ingram,
+47,1,6:37.0,12,10,LAL,GSW,16,away,DK,assist,0,make2,2,K. Durant,Z. Pachulia
+48,1,6:13.0,12,10,LAL,GSW,24,home,HS,,7,miss2,0,T. Mozgov,
+49,1,6:11.0,12,10,LAL,GSW,2,away,DefReb,,,DefReb,,D. Green,
+50,1,6:10.0,12,10,LAL,GSW,1,away,BadPass,,,turnover,,D. Green,
+51,1,6:10.0,12,10,LAL,GSW,0,home,Sub,,,,,L. Nance,B. Ingram
+52,1,6:10.0,12,10,LAL,GSW,0,home,Sub,,,,,M. Huertas,J. Calderón
+53,1,5:55.0,12,10,LAL,GSW,15,home,JS,block,5,miss2,0,L. Deng,D. Green
+54,1,5:53.0,12,10,LAL,GSW,2,home,OffReb,,,OffReb,,L. Nance,
+55,1,5:49.0,12,10,LAL,GSW,4,home,HS,,7,miss2,0,L. Nance,
+56,1,5:47.0,12,10,LAL,GSW,2,away,DefReb,,,DefReb,,D. Green,
+57,1,5:36.0,12,13,LAL,GSW,11,away,JS,assist,24,make3,3,S. Curry,K. Durant
+58,1,5:16.0,12,13,LAL,GSW,20,home,JS,,23,miss3,0,J. Clarkson,
+59,1,5:15.0,12,13,LAL,GSW,1,away,DefReb,,,DefReb,,Z. Pachulia,
+60,1,5:08.0,12,16,LAL,GSW,7,away,JS,,25,make3,3,K. Durant,
+61,1,5:08.0,12,16,LAL,GSW,0,home,Timeout,,,,,,
+62,1,5:08.0,12,16,LAL,GSW,0,away,Sub,,,,,A. Iguodala,K. Durant
+63,1,5:08.0,12,16,LAL,GSW,0,away,Sub,,,,,J. McGee,Z. Pachulia
+64,1,4:54.0,12,16,LAL,GSW,14,home,JS,,18,miss2,0,L. Deng,
+65,1,4:52.0,12,16,LAL,GSW,2,away,DefReb,,,DefReb,,D. Green,
+66,1,4:42.0,12,16,LAL,GSW,10,away,BadPass,steal,,turnover,,D. Green,J. Clarkson
+67,1,4:37.0,12,16,LAL,GSW,5,home,BadPass,steal,,turnover,,J. Clarkson,D. Green
+68,1,4:31.0,12,18,LAL,GSW,6,away,DK,assist,0,make2,2,K. Thompson,S. Curry
+69,1,4:18.0,12,18,LAL,GSW,13,home,BadPass,steal,,turnover,,M. Huertas,A. Iguodala
+70,1,4:14.0,12,20,LAL,GSW,4,away,LU,assist,2,make2,2,D. Green,A. Iguodala
+71,1,4:14.0,12,20,LAL,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,D. Green
+72,1,4:14.0,12,20,LAL,GSW,0,away,FreeThrow,,,make1,0,D. Green,
+73,1,4:14.0,12,20,LAL,GSW,0,home,Sub,,,,,L. Williams,J. Clarkson
+74,1,4:14.0,12,20,LAL,GSW,0,home,Sub,,,,,B. Ingram,L. Deng
+75,1,4:14.0,12,20,LAL,GSW,0,home,Sub,,,,,T. Black,T. Mozgov
+76,1,4:14.0,12,20,LAL,GSW,0,away,Sub,,,,,I. Clark,K. Thompson
+77,1,4:13.0,12,20,LAL,GSW,1,home,DefReb,,,DefReb,,L. Nance,
+78,1,3:53.0,12,20,LAL,GSW,20,home,JS,,6,miss2,0,M. Huertas,
+79,1,3:51.0,12,20,LAL,GSW,2,home,OffReb,,,OffReb,,T. Black,
+80,1,3:39.0,12,20,LAL,GSW,12,home,OutOfBounds,,,turnover,,B. Ingram,
+81,1,3:24.0,12,20,LAL,GSW,15,away,3sec,,,turnover,,J. McGee,
+82,1,3:02.0,12,20,LAL,GSW,22,home,JS,block,5,miss2,0,T. Black,J. McGee
+83,1,3:00.0,12,20,LAL,GSW,2,home,OffReb,,,OffReb,,L. Nance,
+84,1,2:57.0,14,20,LAL,GSW,3,home,LU,,2,make2,2,L. Nance,
+85,1,2:48.0,14,23,LAL,GSW,9,away,JS,,25,make3,3,S. Curry,
+86,1,2:36.0,16,23,LAL,GSW,12,home,JS,assist,19,make2,2,L. Nance,M. Huertas
+87,1,2:21.0,16,23,LAL,GSW,15,away,BadPass,steal,,turnover,,A. Iguodala,L. Nance
+88,1,2:16.0,16,23,LAL,GSW,5,home,BadPass,,,turnover,,L. Williams,
+89,1,2:16.0,16,23,LAL,GSW,0,away,Sub,,,,,K. Durant,D. Green
+90,1,1:57.0,16,23,LAL,GSW,19,away,JS,,13,miss2,0,K. Durant,
+91,1,1:55.0,16,23,LAL,GSW,2,home,DefReb,,,DefReb,,T. Black,
+92,1,1:45.0,18,23,LAL,GSW,10,home,JS,assist,16,make2,2,B. Ingram,M. Huertas
+93,1,1:33.0,18,23,LAL,GSW,12,away,JS,,32,miss3,0,S. Curry,
+94,1,1:33.0,18,23,LAL,GSW,0,home,DefReb,,,DefReb,,Team,
+95,1,1:33.0,18,23,LAL,GSW,0,away,Sub,,,,,D. West,J. McGee
+96,1,1:18.0,20,23,LAL,GSW,15,home,JS,,8,make2,2,L. Williams,
+97,1,1:04.0,20,26,LAL,GSW,14,away,JS,assist,24,make3,3,I. Clark,K. Durant
+98,1,0:54.0,20,26,LAL,GSW,10,home,JS,,15,miss2,0,T. Black,
+99,1,0:52.0,20,26,LAL,GSW,2,away,DefReb,,,DefReb,,A. Iguodala,
+100,1,0:44.0,20,28,LAL,GSW,8,away,DK,assist,0,make2,2,A. Iguodala,S. Curry
+101,1,0:44.0,20,28,LAL,GSW,0,home,Timeout,,,,,,
+102,1,0:44.0,20,28,LAL,GSW,0,away,Sub,,,,,K. Thompson,S. Curry
+103,1,0:24.0,20,28,LAL,GSW,20,home,JS,,17,miss2,0,B. Ingram,
+104,1,0:23.0,20,28,LAL,GSW,1,away,DefReb,,,DefReb,,A. Iguodala,
+105,1,0:06.0,20,30,LAL,GSW,17,away,JS,assist,17,make2,2,D. West,K. Durant
+106,1,0:01.0,20,30,LAL,GSW,5,home,LU,,1,miss2,0,L. Williams,
+107,1,0:00.0,20,30,LAL,GSW,1,home,OffReb,,,OffReb,,Team,
+108,2,11:47.0,22,30,LAL,GSW,13,home,DK,assist,0,make2,2,L. Nance,L. Williams
+109,2,11:31.0,22,30,LAL,GSW,16,away,JS,,17,miss2,0,K. Thompson,
+110,2,11:29.0,22,30,LAL,GSW,2,home,DefReb,,,DefReb,,B. Ingram,
+111,2,11:17.0,22,30,LAL,GSW,12,home,BadPass,steal,,turnover,,L. Williams,D. West
+112,2,11:07.0,22,33,LAL,GSW,10,away,JS,assist,23,make3,3,K. Durant,A. Iguodala
+113,2,10:58.0,22,33,LAL,GSW,9,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. West,T. Black
+114,2,10:58.0,22,33,LAL,GSW,0,away,Sub,,,,,K. Looney,D. West
+115,2,10:50.0,22,33,LAL,GSW,8,home,JS,,10,miss2,0,B. Ingram,
+116,2,10:47.0,22,33,LAL,GSW,3,home,OffReb,,,OffReb,,T. Black,
+117,2,10:43.0,22,33,LAL,GSW,4,home,JS,,25,miss3,0,L. Williams,
+118,2,10:41.0,22,33,LAL,GSW,2,away,DefReb,,,DefReb,,K. Durant,
+119,2,10:31.0,22,35,LAL,GSW,10,away,JS,,17,make2,2,A. Iguodala,
+120,2,10:18.0,22,35,LAL,GSW,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Looney,L. Nance
+121,2,10:18.0,22,35,LAL,GSW,0,home,FreeThrow,,,make1,0,L. Nance,
+122,2,10:18.0,22,35,LAL,GSW,0,home,OffReb,,,OffReb,,Team,
+123,2,10:18.0,23,35,LAL,GSW,0,home,FreeThrow,,,make1,1,L. Nance,
+124,2,10:07.0,23,35,LAL,GSW,11,away,BadPass,steal,,turnover,,K. Durant,J. Clarkson
+125,2,10:00.0,23,35,LAL,GSW,7,home,BadPass,steal,,turnover,,J. Clarkson,K. Looney
+126,2,9:47.0,23,37,LAL,GSW,13,away,HS,,10,make2,2,S. Livingston,
+127,2,9:47.0,23,37,LAL,GSW,0,home,Timeout,,,,,,
+128,2,9:47.0,23,37,LAL,GSW,0,away,Sub,,,,,P. McCaw,A. Iguodala
+129,2,9:40.0,23,37,LAL,GSW,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. McCaw,J. Clarkson
+130,2,9:35.0,23,37,LAL,GSW,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. McCaw,J. Clarkson
+131,2,9:35.0,24,37,LAL,GSW,0,home,FreeThrow,,,make1,1,J. Clarkson,
+132,2,9:35.0,25,37,LAL,GSW,0,home,FreeThrow,,,make1,1,J. Clarkson,
+133,2,9:22.0,25,37,LAL,GSW,13,away,JS,,17,miss2,0,K. Thompson,
+134,2,9:21.0,25,37,LAL,GSW,1,home,DefReb,,,DefReb,,L. Nance,
+135,2,9:16.0,25,37,LAL,GSW,5,home,Traveling,,,turnover,,L. Williams,
+136,2,9:03.0,25,39,LAL,GSW,13,away,JS,assist,12,make2,2,K. Durant,S. Livingston
+137,2,9:03.0,25,39,LAL,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,K. Durant
+138,2,9:03.0,25,40,LAL,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
+139,2,8:44.0,27,40,LAL,GSW,19,home,JS,,9,make2,2,L. Williams,
+140,2,8:33.0,27,40,LAL,GSW,11,away,JS,,17,miss2,0,S. Livingston,
+141,2,8:33.0,27,40,LAL,GSW,0,home,DefReb,,,DefReb,,L. Nance,
+142,2,8:23.0,29,40,LAL,GSW,10,home,JS,,9,make2,2,J. Clarkson,
+143,2,8:08.0,29,40,LAL,GSW,15,away,JS,,25,miss3,0,K. Durant,
+144,2,8:07.0,29,40,LAL,GSW,1,home,DefReb,,,DefReb,,B. Ingram,
+145,2,7:51.0,29,40,LAL,GSW,16,home,LU,,2,miss2,0,B. Ingram,
+146,2,7:49.0,29,40,LAL,GSW,2,away,DefReb,,,DefReb,,S. Livingston,
+147,2,7:44.0,29,40,LAL,GSW,5,away,JS,,24,miss3,0,P. McCaw,
+148,2,7:41.0,29,40,LAL,GSW,3,away,OffReb,,,OffReb,,K. Durant,
+149,2,7:27.0,29,43,LAL,GSW,14,away,JS,assist,24,make3,3,P. McCaw,K. Durant
+150,2,7:16.0,29,43,LAL,GSW,11,home,JS,block,7,miss2,0,L. Williams,K. Looney
+151,2,7:16.0,29,43,LAL,GSW,0,home,OffReb,,,OffReb,,Team,
+152,2,7:16.0,29,43,LAL,GSW,0,away,Sub,,,,,D. Green,K. Durant
+153,2,7:16.0,29,43,LAL,GSW,0,away,Sub,,,,,S. Curry,S. Livingston
+154,2,7:16.0,29,43,LAL,GSW,0,home,Sub,,,,,T. Robinson,L. Nance
+155,2,7:16.0,29,43,LAL,GSW,0,home,Sub,,,,,T. Mozgov,T. Black
+156,2,7:09.0,29,43,LAL,GSW,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Thompson,B. Ingram
+157,2,7:09.0,30,43,LAL,GSW,0,home,FreeThrow,,,make1,1,B. Ingram,
+158,2,7:09.0,30,43,LAL,GSW,0,away,Sub,,,,,I. Clark,K. Thompson
+159,2,7:09.0,31,43,LAL,GSW,0,home,FreeThrow,,,make1,1,B. Ingram,
+160,2,6:50.0,31,43,LAL,GSW,19,away,JS,,20,miss2,0,I. Clark,
+161,2,6:48.0,31,43,LAL,GSW,2,home,DefReb,,,DefReb,,T. Robinson,
+162,2,6:39.0,31,43,LAL,GSW,9,home,JS,,3,miss2,0,B. Ingram,
+163,2,6:38.0,31,43,LAL,GSW,1,home,OffReb,,,OffReb,,B. Ingram,
+164,2,6:35.0,31,43,LAL,GSW,3,home,LU,block,1,miss2,0,B. Ingram,K. Looney
+165,2,6:33.0,31,43,LAL,GSW,2,away,DefReb,,,DefReb,,P. McCaw,
+166,2,6:32.0,31,43,LAL,GSW,1,away,BadPass,steal,,turnover,,P. McCaw,B. Ingram
+167,2,6:28.0,31,43,LAL,GSW,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,J. Clarkson
+168,2,6:28.0,31,43,LAL,GSW,0,home,FreeThrow,,,make1,0,J. Clarkson,
+169,2,6:28.0,31,43,LAL,GSW,0,home,OffReb,,,OffReb,,Team,
+170,2,6:28.0,31,43,LAL,GSW,0,away,Sub,,,,,Z. Pachulia,K. Looney
+171,2,6:28.0,32,43,LAL,GSW,0,home,FreeThrow,,,make1,1,J. Clarkson,
+172,2,6:17.0,32,43,LAL,GSW,11,away,LU,,2,miss2,0,D. Green,
+173,2,6:17.0,32,43,LAL,GSW,0,home,DefReb,,,DefReb,,Team,
+174,2,6:17.0,32,43,LAL,GSW,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,Z. Pachulia,T. Mozgov
+175,2,6:17.0,32,43,LAL,GSW,0,home,FreeThrow,,,make1,0,T. Mozgov,
+176,2,6:17.0,32,43,LAL,GSW,0,home,OffReb,,,OffReb,,Team,
+177,2,6:17.0,32,43,LAL,GSW,0,home,FreeThrow,,,make1,0,T. Mozgov,
+178,2,6:17.0,32,43,LAL,GSW,0,home,Sub,,,,,L. Deng,B. Ingram
+179,2,6:14.0,32,43,LAL,GSW,3,away,DefReb,,,DefReb,,D. Green,
+180,2,5:57.0,32,43,LAL,GSW,17,away,JS,,21,miss2,0,S. Curry,
+181,2,5:56.0,32,43,LAL,GSW,1,home,DefReb,,,DefReb,,L. Deng,
+182,2,5:52.0,34,43,LAL,GSW,4,home,LU,,1,make2,2,L. Williams,
+183,2,5:44.0,34,43,LAL,GSW,8,away,Timeout,,,,,,
+184,2,5:44.0,34,43,LAL,GSW,0,home,Sub,,,,,J. Calderón,L. Williams
+185,2,5:30.0,34,43,LAL,GSW,14,away,JS,block,4,miss2,0,Z. Pachulia,T. Robinson
+186,2,5:29.0,34,43,LAL,GSW,1,home,DefReb,,,DefReb,,T. Robinson,
+187,2,5:20.0,36,43,LAL,GSW,9,home,LU,assist,2,make2,2,T. Robinson,T. Mozgov
+188,2,5:10.0,36,43,LAL,GSW,10,away,Sub,,,,,A. Iguodala,P. McCaw
+189,2,5:07.0,36,43,LAL,GSW,3,away,JS,,15,miss2,0,Z. Pachulia,
+190,2,5:06.0,36,43,LAL,GSW,1,home,DefReb,,,DefReb,,T. Robinson,
+191,2,4:45.0,39,43,LAL,GSW,21,home,JS,,26,make3,3,J. Clarkson,
+192,2,4:39.0,39,43,LAL,GSW,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Robinson,D. Green
+193,2,4:39.0,39,44,LAL,GSW,0,away,FreeThrow,,,make1,1,D. Green,
+194,2,4:39.0,39,44,LAL,GSW,0,away,FreeThrow,,,make1,0,D. Green,
+195,2,4:37.0,39,44,LAL,GSW,2,home,DefReb,,,DefReb,,T. Robinson,
+196,2,4:23.0,39,44,LAL,GSW,14,home,BadPass,steal,,turnover,,J. Clarkson,S. Curry
+197,2,4:17.0,39,44,LAL,GSW,6,away,DK,,0,miss2,0,S. Curry,
+198,2,4:13.0,39,44,LAL,GSW,4,home,DefReb,,,DefReb,,T. Robinson,
+199,2,4:05.0,39,44,LAL,GSW,8,home,BadPass,steal,,turnover,,J. Calderón,D. Green
+200,2,4:01.0,39,44,LAL,GSW,4,away,BadPass,steal,,turnover,,S. Curry,J. Clarkson
+201,2,3:45.0,39,44,LAL,GSW,16,home,HS,,0,miss2,0,T. Mozgov,
+202,2,3:41.0,39,44,LAL,GSW,4,home,OffReb,,,OffReb,,J. Calderón,
+203,2,3:35.0,39,44,LAL,GSW,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,Z. Pachulia,T. Mozgov
+204,2,3:35.0,40,44,LAL,GSW,0,home,FreeThrow,,,make1,1,T. Mozgov,
+205,2,3:35.0,40,44,LAL,GSW,0,away,Timeout,,,,,,
+206,2,3:35.0,40,44,LAL,GSW,0,away,Sub,,,,,K. Durant,Z. Pachulia
+207,2,3:35.0,40,44,LAL,GSW,0,away,Sub,,,,,K. Thompson,I. Clark
+208,2,3:35.0,41,44,LAL,GSW,0,home,FreeThrow,,,make1,1,T. Mozgov,
+209,2,3:24.0,41,46,LAL,GSW,11,away,DK,assist,0,make2,2,A. Iguodala,D. Green
+210,2,3:09.0,41,46,LAL,GSW,15,home,JS,,24,miss3,0,J. Clarkson,
+211,2,3:05.0,41,46,LAL,GSW,4,home,OffReb,,,OffReb,,T. Robinson,
+212,2,3:05.0,41,46,LAL,GSW,0,home,DK,,0,miss2,0,T. Robinson,
+213,2,3:03.0,41,46,LAL,GSW,2,away,DefReb,,,DefReb,,S. Curry,
+214,2,2:58.0,41,49,LAL,GSW,5,away,JS,assist,25,make3,3,K. Thompson,A. Iguodala
+215,2,2:34.0,43,49,LAL,GSW,24,home,JS,assist,19,make2,2,T. Mozgov,L. Deng
+216,2,2:21.0,43,51,LAL,GSW,13,away,JS,assist,22,make2,2,K. Durant,S. Curry
+217,2,2:02.0,43,51,LAL,GSW,19,home,JS,,14,miss2,0,J. Clarkson,
+218,2,2:00.0,43,51,LAL,GSW,2,away,DefReb,,,DefReb,,K. Durant,
+219,2,1:56.0,43,51,LAL,GSW,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Calderón,S. Curry
+220,2,1:56.0,43,51,LAL,GSW,0,away,Timeout,,,,,,
+221,2,1:56.0,43,51,LAL,GSW,0,home,Sub,,,,,B. Ingram,T. Mozgov
+222,2,1:46.0,43,51,LAL,GSW,10,away,JS,block,24,miss3,0,S. Curry,J. Calderón
+223,2,1:45.0,43,51,LAL,GSW,1,home,DefReb,,,DefReb,,T. Robinson,
+224,2,1:39.0,43,51,LAL,GSW,6,home,LostBall,steal,,turnover,,T. Robinson,D. Green
+225,2,1:30.0,43,51,LAL,GSW,9,away,JS,,24,miss3,0,K. Thompson,
+226,2,1:28.0,43,51,LAL,GSW,2,home,DefReb,,,DefReb,,B. Ingram,
+227,2,1:06.0,43,51,LAL,GSW,22,home,JS,,6,miss2,0,B. Ingram,
+228,2,1:05.0,43,51,LAL,GSW,1,away,DefReb,,,DefReb,,K. Durant,
+229,2,1:00.0,43,53,LAL,GSW,5,away,LU,assist,1,make2,2,K. Thompson,D. Green
+230,2,0:46.0,43,53,LAL,GSW,14,home,Traveling,,,turnover,,L. Deng,
+231,2,0:37.0,43,53,LAL,GSW,9,away,BadPass,steal,,turnover,,S. Curry,J. Clarkson
+232,2,0:18.0,43,53,LAL,GSW,19,home,LU,block,1,miss2,0,T. Robinson,K. Durant
+233,2,0:17.0,43,53,LAL,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
+234,2,0:01.0,43,53,LAL,GSW,16,away,JS,,14,miss2,0,K. Thompson,
+235,2,0:00.0,43,53,LAL,GSW,1,away,OffReb,,,OffReb,,Team,
+236,3,11:44.0,43,53,LAL,GSW,16,home,JS,,25,miss3,0,J. Calderón,
+237,3,11:44.0,43,53,LAL,GSW,0,away,DefReb,,,DefReb,,D. Green,
+238,3,11:26.0,43,53,LAL,GSW,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Ingram,K. Thompson
+239,3,11:26.0,43,54,LAL,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
+240,3,11:26.0,43,55,LAL,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
+241,3,11:04.0,43,55,LAL,GSW,22,home,JS,block,14,miss2,0,B. Ingram,Z. Pachulia
+242,3,11:03.0,43,55,LAL,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
+243,3,10:59.0,43,57,LAL,GSW,4,away,LU,assist,1,make2,2,S. Curry,D. Green
+244,3,10:52.0,43,57,LAL,GSW,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,T. Mozgov
+245,3,10:44.0,43,57,LAL,GSW,8,home,BadPass,steal,,turnover,,J. Calderón,K. Durant
+246,3,10:37.0,43,57,LAL,GSW,7,away,LU,,3,miss2,0,Z. Pachulia,
+247,3,10:33.0,43,57,LAL,GSW,4,home,DefReb,,,DefReb,,L. Deng,
+248,3,10:31.0,43,57,LAL,GSW,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,J. Clarkson
+249,3,10:26.0,43,57,LAL,GSW,5,home,JS,,18,miss2,0,L. Deng,
+250,3,10:25.0,43,57,LAL,GSW,1,away,DefReb,,,DefReb,,D. Green,
+251,3,10:15.0,43,57,LAL,GSW,10,away,JS,,24,miss3,0,D. Green,
+252,3,10:15.0,43,57,LAL,GSW,0,away,OffReb,,,OffReb,,Team,
+253,3,10:15.0,43,57,LAL,GSW,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Durant,J. Clarkson
+254,3,10:15.0,43,57,LAL,GSW,0,away,OffensiveFoul,,,turnover,,K. Durant,
+255,3,10:02.0,45,57,LAL,GSW,13,home,LU,assist,1,make2,2,L. Deng,J. Calderón
+256,3,9:54.0,45,59,LAL,GSW,8,away,LU,assist,2,make2,2,Z. Pachulia,K. Durant
+257,3,9:40.0,45,59,LAL,GSW,14,home,JS,,10,miss2,0,J. Calderón,
+258,3,9:40.0,45,59,LAL,GSW,0,away,DefReb,,,DefReb,,Z. Pachulia,
+259,3,9:40.0,45,59,LAL,GSW,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Calderón,Z. Pachulia
+260,3,9:24.0,45,61,LAL,GSW,16,away,JS,,16,make2,2,K. Durant,
+261,3,9:08.0,47,61,LAL,GSW,16,home,JS,assist,16,make2,2,B. Ingram,J. Calderón
+262,3,8:54.0,47,64,LAL,GSW,14,away,JS,assist,25,make3,3,D. Green,K. Durant
+263,3,8:40.0,47,64,LAL,GSW,14,home,JS,,14,miss2,0,J. Clarkson,
+264,3,8:36.0,47,64,LAL,GSW,4,away,DefReb,,,DefReb,,Z. Pachulia,
+265,3,8:22.0,47,64,LAL,GSW,14,away,BadPass,steal,,turnover,,Z. Pachulia,J. Calderón
+266,3,8:20.0,49,64,LAL,GSW,2,home,LU,assist,1,make2,2,J. Clarkson,J. Calderón
+267,3,8:20.0,49,64,LAL,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Durant,J. Clarkson
+268,3,8:20.0,50,64,LAL,GSW,0,home,FreeThrow,,,make1,1,J. Clarkson,
+269,3,8:02.0,50,64,LAL,GSW,18,away,JS,,13,miss2,0,K. Durant,
+270,3,8:00.0,50,64,LAL,GSW,2,home,DefReb,,,DefReb,,T. Mozgov,
+271,3,7:44.0,50,64,LAL,GSW,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Durant,T. Mozgov
+272,3,7:41.0,50,64,LAL,GSW,3,home,LostBall,steal,,turnover,,J. Calderón,S. Curry
+273,3,7:37.0,50,66,LAL,GSW,4,away,LU,,0,make2,2,S. Curry,
+274,3,7:22.0,50,66,LAL,GSW,15,home,BadPass,steal,,turnover,,J. Calderón,S. Curry
+275,3,7:16.0,50,68,LAL,GSW,6,away,DK,assist,0,make2,2,D. Green,Z. Pachulia
+276,3,7:16.0,50,68,LAL,GSW,0,home,Timeout,,,,,,
+277,3,7:12.0,50,68,LAL,GSW,4,home,LostBall,,,turnover,,B. Ingram,
+278,3,6:58.0,50,68,LAL,GSW,14,away,JS,,17,miss2,0,Z. Pachulia,
+279,3,6:57.0,50,68,LAL,GSW,1,home,DefReb,,,DefReb,,L. Deng,
+280,3,6:47.0,50,68,LAL,GSW,10,home,JS,,6,miss2,0,J. Clarkson,
+281,3,6:46.0,50,68,LAL,GSW,1,away,DefReb,,,DefReb,,Z. Pachulia,
+282,3,6:33.0,50,70,LAL,GSW,13,away,HS,assist,9,make2,2,K. Durant,S. Curry
+283,3,6:21.0,50,70,LAL,GSW,12,home,BadPass,,,turnover,,T. Mozgov,
+284,3,6:11.0,50,72,LAL,GSW,10,away,LU,assist,2,make2,2,D. Green,Z. Pachulia
+285,3,5:58.0,50,72,LAL,GSW,13,home,JS,,25,miss3,0,L. Deng,
+286,3,5:57.0,50,72,LAL,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
+287,3,5:50.0,50,72,LAL,GSW,7,away,JS,,28,miss3,0,K. Thompson,
+288,3,5:45.0,50,72,LAL,GSW,5,home,DefReb,,,DefReb,,B. Ingram,
+289,3,5:36.0,50,72,LAL,GSW,9,home,HS,,5,miss2,0,T. Mozgov,
+290,3,5:34.0,50,72,LAL,GSW,2,home,OffReb,,,OffReb,,T. Mozgov,
+291,3,5:28.0,50,72,LAL,GSW,6,home,JS,,24,miss3,0,J. Clarkson,
+292,3,5:27.0,50,72,LAL,GSW,1,away,DefReb,,,DefReb,,D. Green,
+293,3,5:24.0,50,72,LAL,GSW,3,away,LostBall,,,turnover,,K. Thompson,
+294,3,5:24.0,50,72,LAL,GSW,0,away,Sub,,,,,A. Iguodala,K. Durant
+295,3,5:24.0,50,72,LAL,GSW,0,home,Sub,,,,,L. Williams,J. Clarkson
+296,3,5:24.0,50,72,LAL,GSW,0,home,Sub,,,,,L. Nance,T. Mozgov
+297,3,5:01.0,52,72,LAL,GSW,23,home,LU,,2,make2,2,B. Ingram,
+298,3,5:01.0,52,72,LAL,GSW,0,home,JumpBallViolation,,,JumpBallViolation,,Team,
+299,3,4:43.0,52,72,LAL,GSW,18,away,JS,,22,miss2,0,K. Thompson,
+300,3,4:40.0,52,72,LAL,GSW,3,home,DefReb,,,DefReb,,L. Nance,
+301,3,4:25.0,54,72,LAL,GSW,15,home,HS,assist,6,make2,2,L. Nance,J. Calderón
+302,3,4:10.0,54,72,LAL,GSW,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,S. Curry
+303,3,4:10.0,54,73,LAL,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+304,3,4:10.0,54,73,LAL,GSW,0,home,Sub,,,,,M. Huertas,J. Calderón
+305,3,4:10.0,54,73,LAL,GSW,0,home,Sub,,,,,T. Black,L. Deng
+306,3,4:10.0,54,73,LAL,GSW,0,away,Sub,,,,,I. Clark,K. Thompson
+307,3,4:10.0,54,74,LAL,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+308,3,3:50.0,54,74,LAL,GSW,20,home,JS,,13,miss2,0,B. Ingram,
+309,3,3:49.0,54,74,LAL,GSW,1,home,OffReb,,,OffReb,,T. Black,
+310,3,3:45.0,56,74,LAL,GSW,4,home,HS,,8,make2,2,T. Black,
+311,3,3:22.0,56,74,LAL,GSW,23,away,JS,,12,miss2,0,A. Iguodala,
+312,3,3:21.0,56,74,LAL,GSW,1,away,OffReb,,,OffReb,,S. Curry,
+313,3,3:20.0,56,74,LAL,GSW,1,away,JS,,24,miss3,0,S. Curry,
+314,3,3:20.0,56,74,LAL,GSW,0,away,OffReb,,,OffReb,,Team,
+315,3,3:20.0,56,74,LAL,GSW,0,away,ShotClockViolation,,,turnover,,Team,
+316,3,3:20.0,56,74,LAL,GSW,0,away,Sub,,,,,D. West,Z. Pachulia
+317,3,3:04.0,56,74,LAL,GSW,16,home,LU,,3,miss2,0,L. Williams,
+318,3,3:04.0,56,74,LAL,GSW,0,away,DefReb,,,DefReb,,D. West,
+319,3,3:04.0,56,74,LAL,GSW,0,away,Timeout,,,,,,
+320,3,3:04.0,56,74,LAL,GSW,0,home,Sub,,,,,M. World Peace,B. Ingram
+321,3,3:04.0,56,74,LAL,GSW,0,away,Sub,,,,,K. Durant,D. Green
+322,3,3:04.0,56,74,LAL,GSW,0,away,Sub,,,,,P. McCaw,I. Clark
+323,3,2:45.0,56,74,LAL,GSW,19,away,JS,,25,miss3,0,A. Iguodala,
+324,3,2:45.0,56,74,LAL,GSW,0,home,DefReb,,,DefReb,,Team,
+325,3,2:35.0,56,74,LAL,GSW,10,home,JS,,9,miss2,0,M. Huertas,
+326,3,2:33.0,56,74,LAL,GSW,2,away,DefReb,,,DefReb,,A. Iguodala,
+327,3,2:22.0,56,74,LAL,GSW,11,away,JS,,14,miss2,0,K. Durant,
+328,3,2:20.0,56,74,LAL,GSW,2,home,DefReb,,,DefReb,,L. Williams,
+329,3,2:13.0,58,74,LAL,GSW,7,home,JS,,22,make2,2,L. Williams,
+330,3,2:04.0,58,74,LAL,GSW,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Huertas,D. West
+331,3,1:59.0,58,77,LAL,GSW,5,away,JS,assist,27,make3,3,S. Curry,A. Iguodala
+332,3,1:38.0,58,77,LAL,GSW,21,home,JS,,14,miss2,0,L. Williams,
+333,3,1:38.0,58,77,LAL,GSW,0,home,OffReb,,,OffReb,,T. Black,
+334,3,1:38.0,58,77,LAL,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Curry,T. Black
+335,3,1:38.0,59,77,LAL,GSW,0,home,FreeThrow,,,make1,1,T. Black,
+336,3,1:38.0,59,77,LAL,GSW,0,away,Sub,,,,,K. Thompson,S. Curry
+337,3,1:38.0,60,77,LAL,GSW,0,home,FreeThrow,,,make1,1,T. Black,
+338,3,1:21.0,60,77,LAL,GSW,17,away,JS,,25,miss3,0,K. Thompson,
+339,3,1:19.0,60,77,LAL,GSW,2,home,DefReb,,,DefReb,,L. Nance,
+340,3,1:10.0,62,77,LAL,GSW,9,home,JS,assist,7,make2,2,T. Black,M. Huertas
+341,3,0:59.0,62,79,LAL,GSW,11,away,LU,assist,2,make2,2,K. Thompson,D. West
+342,3,0:46.0,64,79,LAL,GSW,13,home,LU,assist,0,make2,2,L. Nance,M. World Peace
+343,3,0:25.0,64,79,LAL,GSW,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,K. Durant
+344,3,0:25.0,64,79,LAL,GSW,0,away,FreeThrow,,,make1,0,K. Durant,
+345,3,0:25.0,64,79,LAL,GSW,0,away,OffReb,,,OffReb,,Team,
+346,3,0:25.0,64,80,LAL,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
+347,3,0:04.0,64,80,LAL,GSW,21,home,JS,,20,miss2,0,L. Nance,
+348,3,0:01.0,64,80,LAL,GSW,3,away,DefReb,,,DefReb,,K. Thompson,
+349,4,11:50.0,64,80,LAL,GSW,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Clarkson,K. Durant
+350,4,11:44.0,64,80,LAL,GSW,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Black,K. Thompson
+351,4,11:44.0,64,80,LAL,GSW,0,away,FreeThrow,,,make1,0,K. Thompson,
+352,4,11:44.0,64,80,LAL,GSW,0,away,OffReb,,,OffReb,,Team,
+353,4,11:44.0,64,81,LAL,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
+354,4,11:25.0,64,81,LAL,GSW,19,home,JS,,17,miss2,0,L. Nance,
+355,4,11:24.0,64,81,LAL,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
+356,4,11:16.0,64,81,LAL,GSW,8,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. West,J. Clarkson
+357,4,11:16.0,64,81,LAL,GSW,0,away,OffensiveFoul,,,turnover,,D. West,
+358,4,11:02.0,64,81,LAL,GSW,14,home,BadPass,,,turnover,,L. Williams,
+359,4,10:40.0,64,84,LAL,GSW,22,away,JS,,25,make3,3,K. Durant,
+360,4,10:24.0,64,84,LAL,GSW,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. West,B. Ingram
+361,4,10:15.0,64,84,LAL,GSW,9,home,JS,,23,miss3,0,L. Williams,
+362,4,10:14.0,64,84,LAL,GSW,1,home,OffReb,,,OffReb,,L. Williams,
+363,4,10:08.0,64,84,LAL,GSW,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Durant,T. Black
+364,4,10:08.0,65,84,LAL,GSW,0,home,FreeThrow,,,make1,1,T. Black,
+365,4,10:08.0,66,84,LAL,GSW,0,home,FreeThrow,,,make1,1,T. Black,
+366,4,9:49.0,66,84,LAL,GSW,19,away,JS,,25,miss3,0,K. Durant,
+367,4,9:48.0,66,84,LAL,GSW,1,away,OffReb,,,OffReb,,D. West,
+368,4,9:44.0,66,84,LAL,GSW,4,away,BadPass,steal,,turnover,,D. West,T. Black
+369,4,9:31.0,66,84,LAL,GSW,13,home,JS,,23,miss3,0,B. Ingram,
+370,4,9:29.0,66,84,LAL,GSW,2,away,DefReb,,,DefReb,,A. Iguodala,
+371,4,9:11.0,66,86,LAL,GSW,18,away,JS,,16,make2,2,K. Durant,
+372,4,8:56.0,69,86,LAL,GSW,15,home,JS,assist,25,make3,3,J. Clarkson,T. Black
+373,4,8:36.0,69,86,LAL,GSW,20,away,JS,,17,miss2,0,K. Durant,
+374,4,8:34.0,69,86,LAL,GSW,2,home,DefReb,,,DefReb,,L. Williams,
+375,4,8:29.0,69,86,LAL,GSW,5,home,JS,,25,miss3,0,L. Williams,
+376,4,8:26.0,69,86,LAL,GSW,3,away,DefReb,,,DefReb,,K. Thompson,
+377,4,8:25.0,69,86,LAL,GSW,1,away,Timeout,,,,,,
+378,4,8:25.0,69,86,LAL,GSW,0,away,Sub,,,,,S. Curry,K. Durant
+379,4,8:25.0,69,86,LAL,GSW,0,away,Sub,,,,,K. Looney,A. Iguodala
+380,4,8:25.0,69,86,LAL,GSW,0,home,Sub,,,,,T. Robinson,L. Nance
+381,4,8:25.0,69,86,LAL,GSW,0,home,Sub,,,,,J. Calderón,T. Black
+382,4,8:07.0,69,88,LAL,GSW,18,away,JS,,13,make2,2,K. Thompson,
+383,4,7:50.0,69,88,LAL,GSW,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Livingston,L. Williams
+384,4,7:50.0,70,88,LAL,GSW,0,home,FreeThrow,,,make1,1,L. Williams,
+385,4,7:50.0,71,88,LAL,GSW,0,home,FreeThrow,,,make1,1,L. Williams,
+386,4,7:31.0,71,90,LAL,GSW,19,away,LU,assist,2,make2,2,K. Thompson,D. West
+387,4,7:16.0,73,90,LAL,GSW,15,home,JS,,8,make2,2,L. Williams,
+388,4,6:58.0,73,93,LAL,GSW,18,away,JS,assist,25,make3,3,S. Curry,D. West
+389,4,6:50.0,73,93,LAL,GSW,8,home,PersonalFoul,,,,,D. West,
+390,4,6:50.0,74,93,LAL,GSW,0,home,FreeThrow,,,make1,1,L. Williams,
+391,4,6:50.0,74,93,LAL,GSW,0,home,FreeThrow,,,make1,0,L. Williams,
+392,4,6:50.0,74,93,LAL,GSW,0,away,Sub,,,,,P. McCaw,K. Thompson
+393,4,6:50.0,74,93,LAL,GSW,0,away,Sub,,,,,Z. Pachulia,D. West
+394,4,6:48.0,74,93,LAL,GSW,2,away,DefReb,,,DefReb,,Team,
+395,4,6:35.0,74,95,LAL,GSW,13,away,DK,assist,0,make2,2,K. Looney,S. Curry
+396,4,6:18.0,74,95,LAL,GSW,17,home,JS,,27,miss3,0,L. Williams,
+397,4,6:17.0,74,95,LAL,GSW,1,away,DefReb,,,DefReb,,K. Looney,
+398,4,6:09.0,74,95,LAL,GSW,8,away,JS,,26,miss3,0,S. Curry,
+399,4,6:07.0,74,95,LAL,GSW,2,home,DefReb,,,DefReb,,T. Robinson,
+400,4,5:57.0,76,95,LAL,GSW,10,home,LU,assist,2,make2,2,T. Robinson,J. Calderón
+401,4,5:43.0,76,95,LAL,GSW,14,away,LostBall,steal,,turnover,,Z. Pachulia,J. Clarkson
+402,4,5:36.0,78,95,LAL,GSW,7,home,LU,assist,2,make2,2,J. Calderón,B. Ingram
+403,4,5:21.0,78,95,LAL,GSW,15,away,BadPass,steal,,turnover,,S. Curry,L. Williams
+404,4,5:17.0,78,95,LAL,GSW,4,away,DefGoaltending,,,DefGoaltending,,S. Livingston,
+405,4,5:17.0,80,95,LAL,GSW,0,home,LU,assist,1,make2,2,J. Calderón,L. Williams
+406,4,5:17.0,80,95,LAL,GSW,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
+407,4,5:17.0,80,95,LAL,GSW,0,away,Timeout,,,,,,
+408,4,5:07.0,80,95,LAL,GSW,10,away,LostBall,steal,,turnover,,Z. Pachulia,T. Robinson
+409,4,5:02.0,82,95,LAL,GSW,5,home,DK,,0,make2,2,T. Robinson,
+410,4,4:49.0,82,95,LAL,GSW,13,away,BadPass,steal,,turnover,,S. Livingston,B. Ingram
+411,4,4:35.0,82,95,LAL,GSW,14,home,JS,block,5,miss2,0,B. Ingram,Z. Pachulia
+412,4,4:34.0,82,95,LAL,GSW,1,home,OffReb,,,OffReb,,Team,
+413,4,4:34.0,82,95,LAL,GSW,0,away,Sub,,,,,K. Durant,P. McCaw
+414,4,4:34.0,82,95,LAL,GSW,0,away,Sub,,,,,A. Iguodala,Z. Pachulia
+415,4,4:29.0,82,95,LAL,GSW,5,home,LU,block,1,miss2,0,T. Robinson,K. Durant
+416,4,4:27.0,82,95,LAL,GSW,2,away,DefReb,,,DefReb,,S. Curry,
+417,4,4:24.0,82,95,LAL,GSW,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Calderón,S. Curry
+418,4,4:07.0,82,95,LAL,GSW,17,away,JS,,15,miss2,0,S. Livingston,
+419,4,4:03.0,82,95,LAL,GSW,4,home,DefReb,,,DefReb,,B. Ingram,
+420,4,3:45.0,82,95,LAL,GSW,18,home,JS,,25,miss3,0,B. Ingram,
+421,4,3:43.0,82,95,LAL,GSW,2,away,DefReb,,,DefReb,,K. Durant,
+422,4,3:31.0,82,97,LAL,GSW,12,away,LU,,2,make2,2,K. Durant,
+423,4,3:31.0,82,97,LAL,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Robinson,K. Durant
+424,4,3:31.0,82,97,LAL,GSW,0,home,Timeout,,,,,,
+425,4,3:31.0,82,97,LAL,GSW,0,away,Sub,,,,,K. Thompson,S. Livingston
+426,4,3:31.0,82,98,LAL,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
+427,4,3:20.0,82,98,LAL,GSW,11,home,LU,,1,miss2,0,T. Robinson,
+428,4,3:19.0,82,98,LAL,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
+429,4,3:02.0,82,100,LAL,GSW,17,away,DK,assist,0,make2,2,K. Looney,K. Durant
+430,4,2:50.0,82,100,LAL,GSW,12,home,JS,,24,miss3,0,J. Calderón,
+431,4,2:49.0,82,100,LAL,GSW,1,home,OffReb,,,OffReb,,T. Robinson,
+432,4,2:47.0,82,100,LAL,GSW,2,home,LU,,2,miss2,0,T. Robinson,
+433,4,2:42.0,82,100,LAL,GSW,5,away,DefReb,,,DefReb,,K. Durant,
+434,4,2:31.0,82,102,LAL,GSW,11,away,LU,assist,1,make2,2,S. Curry,K. Durant
+435,4,2:16.0,85,102,LAL,GSW,15,home,JS,,24,make3,3,J. Clarkson,
+436,4,1:56.0,85,102,LAL,GSW,20,away,JS,,25,miss3,0,K. Thompson,
+437,4,1:56.0,85,102,LAL,GSW,0,away,OffReb,,,OffReb,,S. Curry,
+438,4,1:56.0,85,104,LAL,GSW,0,away,LU,,2,make2,2,S. Curry,
+439,4,1:56.0,85,104,LAL,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Robinson,S. Curry
+440,4,1:56.0,85,104,LAL,GSW,0,away,Sub,,,,,J. McGee,K. Durant
+441,4,1:56.0,85,104,LAL,GSW,0,away,Sub,,,,,P. McCaw,K. Thompson
+442,4,1:56.0,85,104,LAL,GSW,0,away,Sub,,,,,J. McAdoo,A. Iguodala
+443,4,1:56.0,85,104,LAL,GSW,0,home,Sub,,,,,M. Huertas,L. Williams
+444,4,1:56.0,85,105,LAL,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+445,4,1:43.0,85,105,LAL,GSW,13,home,JS,,14,miss2,0,J. Clarkson,
+446,4,1:43.0,85,105,LAL,GSW,0,home,OffReb,,,OffReb,,T. Robinson,
+447,4,1:43.0,85,105,LAL,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. McGee,T. Robinson
+448,4,1:43.0,85,105,LAL,GSW,0,home,FreeThrow,,,make1,0,T. Robinson,
+449,4,1:43.0,85,105,LAL,GSW,0,home,OffReb,,,OffReb,,Team,
+450,4,1:43.0,85,105,LAL,GSW,0,home,FreeThrow,,,make1,0,T. Robinson,
+451,4,1:43.0,85,105,LAL,GSW,0,away,Sub,,,,,S. Livingston,S. Curry
+452,4,1:41.0,85,105,LAL,GSW,2,away,DefReb,,,DefReb,,J. McGee,
+453,4,1:19.0,85,105,LAL,GSW,22,away,JS,,15,miss2,0,S. Livingston,
+454,4,1:19.0,85,105,LAL,GSW,0,away,OffReb,,,OffReb,,Team,
+455,4,1:15.0,85,107,LAL,GSW,4,away,LU,assist,2,make2,2,K. Looney,P. McCaw
+456,4,1:02.0,85,107,LAL,GSW,13,home,LU,block,0,miss2,0,M. Huertas,J. McAdoo
+457,4,1:02.0,85,107,LAL,GSW,0,home,OffReb,,,OffReb,,Team,
+458,4,0:54.0,85,107,LAL,GSW,8,home,JS,,15,miss2,0,B. Ingram,
+459,4,0:51.0,85,107,LAL,GSW,3,away,DefReb,,,DefReb,,J. McGee,
+460,4,0:38.0,85,109,LAL,GSW,13,away,JS,,20,make2,2,J. McAdoo,
+461,4,0:16.0,85,109,LAL,GSW,22,home,JS,,26,miss3,0,J. Clarkson,
+462,4,0:15.0,85,109,LAL,GSW,1,away,DefReb,,,DefReb,,S. Livingston,

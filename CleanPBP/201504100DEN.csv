@@ -1,0 +1,576 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:38.0,0,0,DEN,DAL,22,home,HS,,3,miss2,0,K. Faried,
+1,1,11:36.0,0,0,DEN,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+2,1,11:26.0,0,2,DEN,DAL,10,away,JS,assist,18,make2,2,D. Nowitzki,R. Felton
+3,1,11:07.0,0,2,DEN,DAL,19,home,JS,,18,miss2,0,R. Foye,
+4,1,11:05.0,0,2,DEN,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+5,1,10:59.0,0,4,DEN,DAL,6,away,LU,assist,0,make2,2,R. Felton,M. Ellis
+6,1,10:51.0,0,4,DEN,DAL,8,home,JS,,23,miss3,0,R. Foye,
+7,1,10:50.0,0,4,DEN,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+8,1,10:44.0,0,4,DEN,DAL,6,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,K. Faried,R. Jefferson
+9,1,10:44.0,0,4,DEN,DAL,0,home,TechnicalFoul,,,TechnicalFoul,,K. Faried,
+10,1,10:44.0,0,5,DEN,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki makes technical free throw,
+11,1,10:31.0,0,7,DEN,DAL,13,away,JS,,11,make2,2,D. Nowitzki,
+12,1,10:12.0,2,7,DEN,DAL,19,home,LU,assist,2,make2,2,D. Gallinari,T. Lawson
+13,1,9:59.0,2,7,DEN,DAL,13,away,JS,,16,miss2,0,D. Nowitzki,
+14,1,9:57.0,2,7,DEN,DAL,2,away,OffReb,,,OffReb,,T. Chandler,
+15,1,9:54.0,2,7,DEN,DAL,3,away,LU,,2,miss2,0,T. Chandler,
+16,1,9:53.0,2,7,DEN,DAL,1,home,DefReb,,,DefReb,,K. Faried,
+17,1,9:44.0,2,7,DEN,DAL,9,home,JS,,10,miss2,0,W. Chandler,
+18,1,9:43.0,2,7,DEN,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+19,1,9:37.0,2,7,DEN,DAL,6,away,JS,,26,miss3,0,R. Jefferson,
+20,1,9:35.0,2,7,DEN,DAL,2,home,DefReb,,,DefReb,,W. Chandler,
+21,1,9:28.0,4,7,DEN,DAL,7,home,DK,,0,make2,2,W. Chandler,
+22,1,9:08.0,4,7,DEN,DAL,20,away,JS,,22,miss2,0,R. Felton,
+23,1,9:07.0,4,7,DEN,DAL,1,home,DefReb,,,DefReb,,K. Faried,
+24,1,8:57.0,4,7,DEN,DAL,10,home,LostBall,steal,,turnover,,W. Chandler,R. Felton
+25,1,8:54.0,4,7,DEN,DAL,3,away,LostBall,,,turnover,,R. Jefferson,
+26,1,8:40.0,4,7,DEN,DAL,14,home,HS,,3,miss2,0,K. Faried,
+27,1,8:39.0,4,7,DEN,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+28,1,8:31.0,4,9,DEN,DAL,8,away,LU,,1,make2,2,M. Ellis,
+29,1,8:22.0,6,9,DEN,DAL,9,home,LU,,2,make2,2,T. Lawson,
+30,1,8:10.0,6,9,DEN,DAL,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Chandler,D. Nowitzki
+31,1,8:05.0,6,9,DEN,DAL,5,away,BadPass,steal,,turnover,,R. Felton,K. Faried
+32,1,7:52.0,6,9,DEN,DAL,13,home,JS,,26,miss3,0,T. Lawson,
+33,1,7:51.0,6,9,DEN,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+34,1,7:43.0,6,11,DEN,DAL,8,away,LU,,2,make2,2,M. Ellis,
+35,1,7:29.0,6,11,DEN,DAL,14,home,LU,,1,miss2,0,T. Lawson,
+36,1,7:27.0,6,11,DEN,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+37,1,7:24.0,6,11,DEN,DAL,3,away,BadPass,steal,,turnover,,T. Chandler,R. Foye
+38,1,7:21.0,8,11,DEN,DAL,3,home,DK,,0,make2,2,K. Faried,
+39,1,7:13.0,8,11,DEN,DAL,8,away,JS,,25,miss3,0,D. Nowitzki,
+40,1,7:12.0,8,11,DEN,DAL,1,home,DefReb,,,DefReb,,D. Gallinari,
+41,1,6:57.0,11,11,DEN,DAL,15,home,JS,,25,make3,3,D. Gallinari,
+42,1,6:51.0,11,11,DEN,DAL,6,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Gallinari,R. Jefferson
+43,1,6:51.0,11,12,DEN,DAL,0,away,FreeThrow,,,make1,1,R. Jefferson,
+44,1,6:51.0,11,13,DEN,DAL,0,away,FreeThrow,,,make1,1,R. Jefferson,
+45,1,6:40.0,11,13,DEN,DAL,11,home,JS,,27,miss3,0,W. Chandler,
+46,1,6:39.0,11,13,DEN,DAL,1,home,OffReb,,,OffReb,,W. Chandler,
+47,1,6:36.0,13,13,DEN,DAL,3,home,DK,,0,make2,2,W. Chandler,
+48,1,6:18.0,13,15,DEN,DAL,18,away,LU,,1,make2,2,D. Nowitzki,
+49,1,6:03.0,13,15,DEN,DAL,15,home,JS,,26,miss3,0,D. Gallinari,
+50,1,6:01.0,13,15,DEN,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+51,1,5:48.0,13,15,DEN,DAL,13,away,BadPass,,,turnover,,M. Ellis,
+52,1,5:48.0,13,15,DEN,DAL,0,home,Timeout,,,,,,
+53,1,5:48.0,13,15,DEN,DAL,0,away,Sub,,,,,A. Aminu,R. Jefferson
+54,1,5:48.0,13,15,DEN,DAL,0,away,Sub,,,,,D. Harris,D. Nowitzki
+55,1,5:48.0,13,15,DEN,DAL,0,away,Sub,,,,,C. Villanueva,T. Chandler
+56,1,5:48.0,13,15,DEN,DAL,0,away,Sub,,,,,A. Stoudemire,M. Ellis
+57,1,5:48.0,13,15,DEN,DAL,0,away,Sub,,,,,J. Barea,R. Felton
+58,1,5:30.0,15,15,DEN,DAL,18,home,LU,assist,1,make2,2,K. Faried,R. Foye
+59,1,5:30.0,15,15,DEN,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,K. Faried
+60,1,5:30.0,15,15,DEN,DAL,0,home,FreeThrow,,,make1,0,K. Faried,
+61,1,5:29.0,15,15,DEN,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+62,1,5:15.0,15,18,DEN,DAL,14,away,JS,assist,25,make3,3,C. Villanueva,J. Barea
+63,1,4:50.0,15,18,DEN,DAL,25,home,JS,,3,miss2,0,R. Foye,
+64,1,4:48.0,15,18,DEN,DAL,2,away,DefReb,,,DefReb,,A. Stoudemire,
+65,1,4:40.0,15,20,DEN,DAL,8,away,LU,assist,1,make2,2,A. Stoudemire,J. Barea
+66,1,4:27.0,15,20,DEN,DAL,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Stoudemire,K. Faried
+67,1,4:27.0,16,20,DEN,DAL,0,home,FreeThrow,,,make1,1,K. Faried,
+68,1,4:27.0,16,20,DEN,DAL,0,home,Sub,,,,,J. Hickson,D. Gallinari
+69,1,4:27.0,16,20,DEN,DAL,0,home,Sub,,,,,W. Barton,R. Foye
+70,1,4:27.0,17,20,DEN,DAL,0,home,FreeThrow,,,make1,1,K. Faried,
+71,1,4:11.0,17,22,DEN,DAL,16,away,LU,,1,make2,2,A. Aminu,
+72,1,4:06.0,17,22,DEN,DAL,5,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Faried,C. Villanueva
+73,1,4:06.0,17,22,DEN,DAL,0,home,OffensiveFoul,,,turnover,,K. Faried,
+74,1,4:06.0,17,22,DEN,DAL,0,home,Sub,,,,,G. Harris,K. Faried
+75,1,3:47.0,17,25,DEN,DAL,19,away,JS,assist,24,make3,3,J. Barea,D. Harris
+76,1,3:33.0,17,25,DEN,DAL,14,home,JS,,23,miss3,0,W. Barton,
+77,1,3:31.0,17,25,DEN,DAL,2,away,DefReb,,,DefReb,,J. Barea,
+78,1,3:23.0,17,25,DEN,DAL,8,away,JS,,11,miss2,0,J. Barea,
+79,1,3:21.0,17,25,DEN,DAL,2,home,DefReb,,,DefReb,,W. Chandler,
+80,1,3:16.0,19,25,DEN,DAL,5,home,LU,,2,make2,2,W. Chandler,
+81,1,3:02.0,19,27,DEN,DAL,14,away,LU,assist,2,make2,2,A. Stoudemire,J. Barea
+82,1,2:46.0,19,27,DEN,DAL,16,home,JS,,15,miss2,0,W. Barton,
+83,1,2:45.0,19,27,DEN,DAL,1,home,OffReb,,,OffReb,,J. Hickson,
+84,1,2:42.0,21,27,DEN,DAL,3,home,JS,,9,make2,2,J. Hickson,
+85,1,2:38.0,21,27,DEN,DAL,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Barton,D. Harris
+86,1,2:38.0,21,27,DEN,DAL,0,away,Timeout,,,,,,
+87,1,2:38.0,21,27,DEN,DAL,0,away,FreeThrow,,,make1,0,D. Harris,
+88,1,2:38.0,21,27,DEN,DAL,0,away,OffReb,,,OffReb,,Team,
+89,1,2:38.0,21,28,DEN,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+90,1,2:28.0,21,28,DEN,DAL,10,home,JS,,5,miss2,0,J. Hickson,
+91,1,2:26.0,21,28,DEN,DAL,2,away,DefReb,,,DefReb,,J. Barea,
+92,1,2:20.0,21,30,DEN,DAL,6,away,LU,assist,2,make2,2,D. Harris,J. Barea
+93,1,2:02.0,21,30,DEN,DAL,18,home,JS,,23,miss3,0,W. Barton,
+94,1,2:00.0,21,30,DEN,DAL,2,away,DefReb,,,DefReb,,A. Stoudemire,
+95,1,1:52.0,21,30,DEN,DAL,8,away,JS,,25,miss3,0,C. Villanueva,
+96,1,1:51.0,21,30,DEN,DAL,1,home,DefReb,,,DefReb,,J. Hickson,
+97,1,1:44.0,21,30,DEN,DAL,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Barea,G. Harris
+98,1,1:44.0,21,30,DEN,DAL,0,home,Sub,,,,,J. Nurkić,W. Chandler
+99,1,1:31.0,21,30,DEN,DAL,13,home,JS,,6,miss2,0,J. Hickson,
+100,1,1:30.0,21,30,DEN,DAL,1,home,OffReb,,,OffReb,,J. Nurkić,
+101,1,1:18.0,23,30,DEN,DAL,12,home,LU,assist,1,make2,2,J. Nurkić,W. Barton
+102,1,1:07.0,23,30,DEN,DAL,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Barton,D. Harris
+103,1,1:07.0,23,31,DEN,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+104,1,1:07.0,23,31,DEN,DAL,0,home,Sub,,,,,E. Green,W. Barton
+105,1,1:07.0,23,32,DEN,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+106,1,0:56.0,23,32,DEN,DAL,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Barea,T. Lawson
+107,1,0:56.0,24,32,DEN,DAL,0,home,FreeThrow,,,make1,1,T. Lawson,
+108,1,0:56.0,24,32,DEN,DAL,0,away,Sub,,,,,R. Felton,J. Barea
+109,1,0:56.0,25,32,DEN,DAL,0,home,FreeThrow,,,make1,1,T. Lawson,
+110,1,0:33.0,25,32,DEN,DAL,23,away,JS,,24,miss3,0,C. Villanueva,
+111,1,0:31.0,25,32,DEN,DAL,2,home,DefReb,,,DefReb,,J. Nurkić,
+112,1,0:25.0,27,32,DEN,DAL,6,home,JS,assist,15,make2,2,T. Lawson,J. Nurkić
+113,1,0:04.0,27,35,DEN,DAL,21,away,JS,assist,24,make3,3,D. Harris,R. Felton
+114,1,0:00.0,27,35,DEN,DAL,4,home,JS,,26,miss3,0,E. Green,
+115,1,0:00.0,27,35,DEN,DAL,0,home,OffReb,,,OffReb,,Team,
+116,2,11:49.0,27,35,DEN,DAL,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Nurkić,D. Nowitzki
+117,2,11:43.0,27,37,DEN,DAL,6,away,DK,assist,0,make2,2,T. Chandler,M. Ellis
+118,2,11:25.0,27,37,DEN,DAL,18,home,JS,,20,miss2,0,R. Foye,
+119,2,11:23.0,27,37,DEN,DAL,2,away,DefReb,,,DefReb,,R. Felton,
+120,2,11:05.0,27,37,DEN,DAL,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Harris,T. Chandler
+121,2,10:56.0,27,37,DEN,DAL,9,away,JS,,8,miss2,0,M. Ellis,
+122,2,10:55.0,27,37,DEN,DAL,1,home,DefReb,,,DefReb,,G. Harris,
+123,2,10:43.0,27,37,DEN,DAL,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Chandler,J. Nurkić
+124,2,10:43.0,28,37,DEN,DAL,0,home,FreeThrow,,,make1,1,J. Nurkić,
+125,2,10:43.0,29,37,DEN,DAL,0,home,FreeThrow,,,make1,1,J. Nurkić,
+126,2,10:25.0,29,37,DEN,DAL,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Harris,D. Nowitzki
+127,2,10:25.0,29,38,DEN,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+128,2,10:25.0,29,39,DEN,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+129,2,10:13.0,32,39,DEN,DAL,12,home,JS,,26,make3,3,R. Foye,
+130,2,9:55.0,32,39,DEN,DAL,18,away,BadPass,,,turnover,,R. Jefferson,
+131,2,9:41.0,32,39,DEN,DAL,14,home,JS,,13,miss2,0,D. Gallinari,
+132,2,9:39.0,32,39,DEN,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+133,2,9:32.0,32,39,DEN,DAL,7,away,LU,,1,miss2,0,M. Ellis,
+134,2,9:31.0,32,39,DEN,DAL,1,away,OffReb,,,OffReb,,T. Chandler,
+135,2,9:31.0,32,41,DEN,DAL,0,away,LU,,1,make2,2,T. Chandler,
+136,2,9:12.0,34,41,DEN,DAL,19,home,HS,assist,1,make2,2,J. Nurkić,D. Gallinari
+137,2,9:05.0,34,41,DEN,DAL,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Foye,T. Chandler
+138,2,8:51.0,34,41,DEN,DAL,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Gallinari,D. Nowitzki
+139,2,8:51.0,34,41,DEN,DAL,0,away,Timeout,,,,,,
+140,2,8:51.0,34,41,DEN,DAL,0,home,Sub,,,,,W. Chandler,D. Gallinari
+141,2,8:51.0,34,42,DEN,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+142,2,8:51.0,34,43,DEN,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+143,2,8:37.0,34,43,DEN,DAL,14,home,JS,,24,miss3,0,R. Foye,
+144,2,8:37.0,34,43,DEN,DAL,0,home,OffReb,,,OffReb,,Team,
+145,2,8:37.0,34,43,DEN,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Chandler,J. Nurkić
+146,2,8:37.0,34,43,DEN,DAL,0,away,Sub,,,,,A. Stoudemire,T. Chandler
+147,2,8:29.0,34,43,DEN,DAL,8,home,JS,,23,miss3,0,G. Harris,
+148,2,8:27.0,34,43,DEN,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+149,2,8:20.0,34,45,DEN,DAL,7,away,DK,assist,0,make2,2,R. Jefferson,R. Felton
+150,2,8:03.0,34,45,DEN,DAL,17,home,JS,,19,miss2,0,W. Chandler,
+151,2,8:03.0,34,45,DEN,DAL,0,away,DefReb,,,DefReb,,Team,
+152,2,8:03.0,34,45,DEN,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Nurkić,A. Stoudemire
+153,2,8:03.0,34,46,DEN,DAL,0,away,FreeThrow,,,make1,1,A. Stoudemire,
+154,2,8:03.0,34,46,DEN,DAL,0,home,Sub,,,,,J. Hickson,J. Nurkić
+155,2,8:03.0,34,47,DEN,DAL,0,away,FreeThrow,,,make1,1,A. Stoudemire,
+156,2,7:50.0,34,47,DEN,DAL,13,home,LostBall,,,turnover,,J. Hickson,
+157,2,7:42.0,34,47,DEN,DAL,8,away,JS,,14,miss2,0,R. Felton,
+158,2,7:41.0,34,47,DEN,DAL,1,home,DefReb,,,DefReb,,W. Chandler,
+159,2,7:36.0,34,47,DEN,DAL,5,home,JS,,3,miss2,0,R. Foye,
+160,2,7:35.0,34,47,DEN,DAL,1,away,DefReb,,,DefReb,,Team,
+161,2,7:20.0,34,49,DEN,DAL,15,away,JS,assist,12,make2,2,D. Nowitzki,M. Ellis
+162,2,7:06.0,34,49,DEN,DAL,14,home,LU,,1,miss2,0,G. Harris,
+163,2,7:05.0,34,49,DEN,DAL,1,home,OffReb,,,OffReb,,J. Hickson,
+164,2,7:04.0,34,49,DEN,DAL,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,J. Hickson
+165,2,7:04.0,35,49,DEN,DAL,0,home,FreeThrow,,,make1,1,J. Hickson,
+166,2,7:04.0,35,49,DEN,DAL,0,home,FreeThrow,,,make1,0,J. Hickson,
+167,2,7:02.0,35,49,DEN,DAL,2,home,OffReb,,,OffReb,,W. Chandler,
+168,2,6:48.0,35,49,DEN,DAL,14,home,JS,,24,miss3,0,E. Green,
+169,2,6:44.0,35,49,DEN,DAL,4,away,DefReb,,,DefReb,,A. Stoudemire,
+170,2,6:28.0,35,49,DEN,DAL,16,away,JS,,4,miss2,0,R. Jefferson,
+171,2,6:23.0,35,49,DEN,DAL,5,home,DefReb,,,DefReb,,W. Chandler,
+172,2,6:15.0,35,49,DEN,DAL,8,home,JS,,5,miss2,0,E. Green,
+173,2,6:14.0,35,49,DEN,DAL,1,home,OffReb,,,OffReb,,J. Hickson,
+174,2,6:13.0,35,49,DEN,DAL,1,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Hickson,A. Stoudemire
+175,2,6:13.0,35,49,DEN,DAL,0,home,OffensiveFoul,,,turnover,,J. Hickson,
+176,2,6:13.0,35,49,DEN,DAL,0,home,Sub,,,,,T. Lawson,G. Harris
+177,2,5:57.0,35,51,DEN,DAL,16,away,JS,assist,4,make2,2,R. Jefferson,R. Felton
+178,2,5:44.0,37,51,DEN,DAL,13,home,JS,assist,9,make2,2,E. Green,T. Lawson
+179,2,5:43.0,37,51,DEN,DAL,1,away,Timeout,,,,,,
+180,2,5:43.0,37,51,DEN,DAL,0,away,Sub,,,,,D. Harris,R. Jefferson
+181,2,5:43.0,37,51,DEN,DAL,0,away,Sub,,,,,J. Barea,D. Nowitzki
+182,2,5:43.0,37,51,DEN,DAL,0,away,Sub,,,,,A. Aminu,M. Ellis
+183,2,5:43.0,37,51,DEN,DAL,0,away,Sub,,,,,C. Villanueva,R. Felton
+184,2,5:43.0,37,51,DEN,DAL,0,home,Sub,,,,,D. Gallinari,R. Foye
+185,2,5:43.0,37,51,DEN,DAL,0,home,Sub,,,,,K. Faried,J. Hickson
+186,2,5:27.0,37,53,DEN,DAL,16,away,LU,assist,2,make2,2,A. Stoudemire,J. Barea
+187,2,5:12.0,39,53,DEN,DAL,15,home,JS,,13,make2,2,T. Lawson,
+188,2,5:00.0,39,55,DEN,DAL,12,away,JS,assist,12,make2,2,A. Stoudemire,J. Barea
+189,2,4:44.0,39,55,DEN,DAL,16,home,JS,,23,miss3,0,E. Green,
+190,2,4:43.0,39,55,DEN,DAL,1,away,DefReb,,,DefReb,,A. Stoudemire,
+191,2,4:39.0,39,55,DEN,DAL,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Green,D. Harris
+192,2,4:39.0,39,55,DEN,DAL,0,away,FreeThrow,,,make1,0,D. Harris,
+193,2,4:39.0,39,55,DEN,DAL,0,away,OffReb,,,OffReb,,Team,
+194,2,4:39.0,39,56,DEN,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+195,2,4:27.0,41,56,DEN,DAL,12,home,JS,,20,make2,2,T. Lawson,
+196,2,4:18.0,41,56,DEN,DAL,9,away,LU,,3,miss2,0,C. Villanueva,
+197,2,4:17.0,41,56,DEN,DAL,1,away,OffReb,,,OffReb,,Team,
+198,2,4:17.0,41,56,DEN,DAL,0,home,Sub,,,,,R. Foye,E. Green
+199,2,4:09.0,41,56,DEN,DAL,8,away,JS,,23,miss3,0,C. Villanueva,
+200,2,4:08.0,41,56,DEN,DAL,1,home,DefReb,,,DefReb,,D. Gallinari,
+201,2,4:02.0,41,56,DEN,DAL,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,D. Gallinari
+202,2,4:02.0,42,56,DEN,DAL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+203,2,4:02.0,43,56,DEN,DAL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+204,2,3:41.0,43,56,DEN,DAL,21,away,JS,,25,miss3,0,J. Barea,
+205,2,3:40.0,43,56,DEN,DAL,1,home,DefReb,,,DefReb,,T. Lawson,
+206,2,3:34.0,43,56,DEN,DAL,6,home,JS,,17,miss2,0,T. Lawson,
+207,2,3:33.0,43,56,DEN,DAL,1,away,DefReb,,,DefReb,,A. Aminu,
+208,2,3:27.0,43,58,DEN,DAL,6,away,LU,assist,2,make2,2,J. Barea,A. Aminu
+209,2,3:18.0,45,58,DEN,DAL,9,home,LU,assist,1,make2,2,K. Faried,T. Lawson
+210,2,3:00.0,45,60,DEN,DAL,18,away,LU,assist,1,make2,2,A. Stoudemire,J. Barea
+211,2,2:54.0,45,60,DEN,DAL,6,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,C. Villanueva,D. Gallinari
+212,2,2:54.0,45,60,DEN,DAL,0,home,Timeout,,,,,,
+213,2,2:54.0,46,60,DEN,DAL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+214,2,2:54.0,47,60,DEN,DAL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+215,2,2:40.0,47,62,DEN,DAL,14,away,LU,assist,1,make2,2,A. Aminu,C. Villanueva
+216,2,2:22.0,47,62,DEN,DAL,18,home,JS,,22,miss3,0,W. Chandler,
+217,2,2:21.0,47,62,DEN,DAL,1,away,DefReb,,,DefReb,,A. Aminu,
+218,2,2:07.0,47,62,DEN,DAL,14,away,BadPass,steal,,turnover,,D. Harris,W. Chandler
+219,2,2:01.0,50,62,DEN,DAL,6,home,JS,assist,23,make3,3,R. Foye,D. Gallinari
+220,2,1:59.0,50,62,DEN,DAL,2,away,Timeout,,,,,,
+221,2,1:59.0,50,62,DEN,DAL,0,away,Sub,,,,,T. Chandler,J. Barea
+222,2,1:59.0,50,62,DEN,DAL,0,away,Sub,,,,,M. Ellis,A. Stoudemire
+223,2,1:59.0,50,62,DEN,DAL,0,away,Sub,,,,,D. Nowitzki,C. Villanueva
+224,2,1:59.0,50,62,DEN,DAL,0,home,Sub,,,,,W. Barton,D. Gallinari
+225,2,1:59.0,50,62,DEN,DAL,0,home,Sub,,,,,J. Nurkić,K. Faried
+226,2,1:45.0,50,64,DEN,DAL,14,away,JS,assist,18,make2,2,D. Nowitzki,D. Harris
+227,2,1:35.0,50,64,DEN,DAL,10,home,JS,,18,miss2,0,T. Lawson,
+228,2,1:34.0,50,64,DEN,DAL,1,home,OffReb,,,OffReb,,W. Chandler,
+229,2,1:30.0,50,64,DEN,DAL,4,home,JS,,26,miss3,0,W. Chandler,
+230,2,1:29.0,50,64,DEN,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+231,2,1:18.0,50,66,DEN,DAL,11,away,JS,assist,3,make2,2,A. Aminu,D. Harris
+232,2,1:03.0,50,66,DEN,DAL,15,home,JS,,3,miss2,0,J. Nurkić,
+233,2,1:02.0,50,66,DEN,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+234,2,0:58.0,50,69,DEN,DAL,4,away,JS,,24,make3,3,D. Harris,
+235,2,0:47.0,50,69,DEN,DAL,11,home,JS,,22,miss3,0,W. Chandler,
+236,2,0:46.0,50,69,DEN,DAL,1,home,OffReb,,,OffReb,,J. Nurkić,
+237,2,0:43.0,50,69,DEN,DAL,3,home,LU,block,2,miss2,0,J. Nurkić,D. Nowitzki
+238,2,0:43.0,50,69,DEN,DAL,0,home,OffReb,,,OffReb,,Team,
+239,2,0:39.0,50,69,DEN,DAL,4,home,BadPass,steal,,turnover,,R. Foye,D. Harris
+240,2,0:37.0,50,70,DEN,DAL,2,away,FreeThrow,,,make1,1,T. Chandler makes flagrant free throw 1 of 2,
+241,2,0:37.0,50,71,DEN,DAL,0,away,FreeThrow,,,make1,1,T. Chandler makes flagrant free throw 2 of 2,
+242,2,0:33.0,50,73,DEN,DAL,4,away,JS,assist,18,make2,2,M. Ellis,D. Nowitzki
+243,2,0:20.0,50,73,DEN,DAL,13,away,Sub,,,,,B. James,T. Chandler
+244,2,0:17.0,50,73,DEN,DAL,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,J. Nurkić
+245,2,0:17.0,51,73,DEN,DAL,0,home,FreeThrow,,,make1,1,J. Nurkić,
+246,2,0:17.0,51,73,DEN,DAL,0,away,Sub,,,,,J. Barea,A. Aminu
+247,2,0:17.0,51,73,DEN,DAL,0,away,Sub,,,,,C. Villanueva,B. James
+248,2,0:17.0,51,73,DEN,DAL,0,home,Sub,,,,,J. Lauvergne,W. Chandler
+249,2,0:17.0,52,73,DEN,DAL,0,home,FreeThrow,,,make1,1,J. Nurkić,
+250,2,0:00.0,52,73,DEN,DAL,17,away,JS,,9,miss2,0,M. Ellis,
+251,2,0:00.0,52,73,DEN,DAL,0,away,OffReb,,,OffReb,,Team,
+252,3,11:45.0,52,73,DEN,DAL,15,away,JS,,18,miss2,0,M. Ellis,
+253,3,11:43.0,52,73,DEN,DAL,2,home,DefReb,,,DefReb,,R. Foye,
+254,3,11:29.0,52,73,DEN,DAL,14,home,JS,,23,miss3,0,D. Gallinari,
+255,3,11:28.0,52,73,DEN,DAL,1,away,DefReb,,,DefReb,,R. Felton,
+256,3,11:21.0,52,73,DEN,DAL,7,away,JS,,25,miss3,0,D. Nowitzki,
+257,3,11:19.0,52,73,DEN,DAL,2,home,DefReb,,,DefReb,,K. Faried,
+258,3,11:03.0,54,73,DEN,DAL,16,home,JS,assist,19,make2,2,D. Gallinari,T. Lawson
+259,3,10:36.0,54,73,DEN,DAL,27,away,JS,,22,miss3,0,R. Jefferson,
+260,3,10:34.0,54,73,DEN,DAL,2,home,DefReb,,,DefReb,,D. Gallinari,
+261,3,10:29.0,54,73,DEN,DAL,5,home,JS,,26,miss3,0,R. Foye,
+262,3,10:28.0,54,73,DEN,DAL,1,home,OffReb,,,OffReb,,K. Faried,
+263,3,10:24.0,54,73,DEN,DAL,4,home,JS,block,5,miss2,0,K. Faried,T. Chandler
+264,3,10:22.0,54,73,DEN,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+265,3,10:18.0,54,75,DEN,DAL,4,away,LU,,2,make2,2,R. Felton,
+266,3,10:18.0,54,75,DEN,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Faried,R. Felton
+267,3,10:18.0,54,75,DEN,DAL,0,away,FreeThrow,,,make1,0,R. Felton,
+268,3,10:16.0,54,75,DEN,DAL,2,home,DefReb,,,DefReb,,K. Faried,
+269,3,10:01.0,54,75,DEN,DAL,15,home,JS,,26,miss3,0,R. Foye,
+270,3,9:59.0,54,75,DEN,DAL,2,away,DefReb,,,DefReb,,R. Jefferson,
+271,3,9:49.0,54,77,DEN,DAL,10,away,JS,assist,17,make2,2,D. Nowitzki,R. Jefferson
+272,3,9:36.0,54,77,DEN,DAL,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jefferson,K. Faried
+273,3,9:27.0,57,77,DEN,DAL,9,home,JS,assist,25,make3,3,D. Gallinari,K. Faried
+274,3,9:20.0,57,77,DEN,DAL,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Gallinari,R. Jefferson
+275,3,9:08.0,57,77,DEN,DAL,12,away,JS,,10,miss2,0,R. Jefferson,
+276,3,9:07.0,57,77,DEN,DAL,1,home,DefReb,,,DefReb,,D. Gallinari,
+277,3,9:04.0,57,77,DEN,DAL,3,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Faried,R. Jefferson
+278,3,9:04.0,57,77,DEN,DAL,0,home,OffensiveFoul,,,turnover,,K. Faried,
+279,3,8:53.0,57,80,DEN,DAL,11,away,JS,assist,24,make3,3,R. Jefferson,T. Chandler
+280,3,8:43.0,59,80,DEN,DAL,10,home,JS,,18,make2,2,T. Lawson,
+281,3,8:41.0,59,80,DEN,DAL,2,away,BadPass,steal,,turnover,,D. Nowitzki,R. Foye
+282,3,8:35.0,59,80,DEN,DAL,6,home,JS,,22,miss3,0,W. Chandler,
+283,3,8:34.0,59,80,DEN,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+284,3,8:28.0,59,82,DEN,DAL,6,away,LU,,2,make2,2,R. Felton,
+285,3,8:10.0,62,82,DEN,DAL,18,home,JS,assist,24,make3,3,R. Foye,T. Lawson
+286,3,8:01.0,62,82,DEN,DAL,9,away,LostBall,steal,,turnover,,M. Ellis,R. Foye
+287,3,8:01.0,62,82,DEN,DAL,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Ellis,R. Foye
+288,3,7:48.0,62,82,DEN,DAL,13,home,JS,block,4,miss2,0,W. Chandler,D. Nowitzki
+289,3,7:46.0,62,82,DEN,DAL,2,home,OffReb,,,OffReb,,W. Chandler,
+290,3,7:43.0,64,82,DEN,DAL,3,home,LU,,0,make2,2,W. Chandler,
+291,3,7:31.0,64,82,DEN,DAL,12,away,JS,,10,miss2,0,D. Nowitzki,
+292,3,7:30.0,64,82,DEN,DAL,1,away,OffReb,,,OffReb,,Team,
+293,3,7:30.0,64,82,DEN,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Faried,T. Chandler
+294,3,7:30.0,64,82,DEN,DAL,0,home,Sub,,,,,J. Hickson,K. Faried
+295,3,7:22.0,64,82,DEN,DAL,8,away,JS,,6,miss2,0,M. Ellis,
+296,3,7:21.0,64,82,DEN,DAL,1,home,DefReb,,,DefReb,,J. Hickson,
+297,3,7:12.0,64,82,DEN,DAL,9,home,JS,,19,miss2,0,T. Lawson,
+298,3,7:10.0,64,82,DEN,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+299,3,7:06.0,64,84,DEN,DAL,4,away,DK,assist,0,make2,2,R. Jefferson,R. Felton
+300,3,6:49.0,66,84,DEN,DAL,17,home,JS,assist,17,make2,2,D. Gallinari,T. Lawson
+301,3,6:35.0,66,84,DEN,DAL,14,away,JS,,22,miss3,0,R. Jefferson,
+302,3,6:33.0,66,84,DEN,DAL,2,home,DefReb,,,DefReb,,J. Hickson,
+303,3,6:21.0,66,84,DEN,DAL,12,home,LU,,1,miss2,0,J. Hickson,
+304,3,6:20.0,66,84,DEN,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+305,3,6:15.0,66,84,DEN,DAL,5,away,BadPass,steal,,turnover,,M. Ellis,D. Gallinari
+306,3,6:15.0,66,84,DEN,DAL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Felton,D. Gallinari
+307,3,6:15.0,66,84,DEN,DAL,0,away,Sub,,,,,A. Stoudemire,R. Jefferson
+308,3,6:15.0,66,84,DEN,DAL,0,away,Sub,,,,,C. Villanueva,D. Nowitzki
+309,3,6:15.0,66,84,DEN,DAL,0,away,Sub,,,,,J. Barea,T. Chandler
+310,3,6:15.0,66,84,DEN,DAL,0,away,Sub,,,,,A. Aminu,M. Ellis
+311,3,6:15.0,66,84,DEN,DAL,0,away,Sub,,,,,D. Harris,R. Felton
+312,3,6:04.0,68,84,DEN,DAL,11,home,LU,,2,make2,2,T. Lawson,
+313,3,5:53.0,68,86,DEN,DAL,11,away,LU,assist,1,make2,2,A. Stoudemire,J. Barea
+314,3,5:32.0,71,86,DEN,DAL,21,home,JS,assist,22,make3,3,R. Foye,T. Lawson
+315,3,5:17.0,71,86,DEN,DAL,15,away,JS,,14,miss2,0,A. Stoudemire,
+316,3,5:16.0,71,86,DEN,DAL,1,home,DefReb,,,DefReb,,T. Lawson,
+317,3,5:12.0,71,86,DEN,DAL,4,home,BadPass,,,turnover,,T. Lawson,
+318,3,5:12.0,71,86,DEN,DAL,0,home,Timeout,,,,,,
+319,3,5:02.0,71,86,DEN,DAL,10,away,JS,,7,miss2,0,D. Harris,
+320,3,5:01.0,71,86,DEN,DAL,1,away,OffReb,,,OffReb,,Team,
+321,3,5:01.0,71,86,DEN,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Foye,A. Stoudemire
+322,3,4:55.0,71,86,DEN,DAL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Hickson,A. Stoudemire
+323,3,4:55.0,71,87,DEN,DAL,0,away,FreeThrow,,,make1,1,A. Stoudemire,
+324,3,4:55.0,71,87,DEN,DAL,0,away,FreeThrow,,,make1,0,A. Stoudemire,
+325,3,4:53.0,71,87,DEN,DAL,2,home,DefReb,,,DefReb,,J. Hickson,
+326,3,4:36.0,71,87,DEN,DAL,17,home,JS,,18,miss2,0,D. Gallinari,
+327,3,4:35.0,71,87,DEN,DAL,1,home,OffReb,,,OffReb,,J. Hickson,
+328,3,4:35.0,71,87,DEN,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Stoudemire,J. Hickson
+329,3,4:35.0,71,87,DEN,DAL,0,home,FreeThrow,,,make1,0,J. Hickson,
+330,3,4:35.0,71,87,DEN,DAL,0,home,OffReb,,,OffReb,,Team,
+331,3,4:35.0,72,87,DEN,DAL,0,home,FreeThrow,,,make1,1,J. Hickson,
+332,3,4:11.0,72,87,DEN,DAL,24,away,LU,,1,miss2,0,A. Stoudemire,
+333,3,4:11.0,72,87,DEN,DAL,0,home,DefReb,,,DefReb,,Team,
+334,3,4:03.0,75,87,DEN,DAL,8,home,JS,assist,24,make3,3,D. Gallinari,W. Chandler
+335,3,4:02.0,75,87,DEN,DAL,1,away,Timeout,,,,,,
+336,3,3:47.0,75,87,DEN,DAL,15,away,LU,,1,miss2,0,D. Harris,
+337,3,3:46.0,75,87,DEN,DAL,1,home,DefReb,,,DefReb,,W. Chandler,
+338,3,3:36.0,75,87,DEN,DAL,10,home,LU,,1,miss2,0,T. Lawson,
+339,3,3:34.0,75,87,DEN,DAL,2,home,OffReb,,,OffReb,,J. Hickson,
+340,3,3:34.0,77,87,DEN,DAL,0,home,DK,,0,make2,2,J. Hickson,
+341,3,3:25.0,77,87,DEN,DAL,9,away,Traveling,,,turnover,,D. Harris,
+342,3,3:11.0,79,87,DEN,DAL,14,home,JS,,17,make2,2,T. Lawson,
+343,3,3:04.0,79,87,DEN,DAL,7,away,JS,,25,miss3,0,J. Barea,
+344,3,3:03.0,79,87,DEN,DAL,1,home,DefReb,,,DefReb,,D. Gallinari,
+345,3,2:51.0,81,87,DEN,DAL,12,home,DK,assist,0,make2,2,J. Hickson,T. Lawson
+346,3,2:51.0,81,87,DEN,DAL,0,away,Timeout,,,,,,
+347,3,2:51.0,81,87,DEN,DAL,0,away,Sub,,,,,D. Nowitzki,J. Barea
+348,3,2:51.0,81,87,DEN,DAL,0,away,Sub,,,,,R. Felton,C. Villanueva
+349,3,2:33.0,81,89,DEN,DAL,18,away,JS,,7,make2,2,D. Harris,
+350,3,2:17.0,81,89,DEN,DAL,16,home,JS,,24,miss3,0,T. Lawson,
+351,3,2:16.0,81,89,DEN,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+352,3,2:10.0,81,89,DEN,DAL,6,away,OutOfBounds,,,turnover,,A. Aminu,
+353,3,1:54.0,84,89,DEN,DAL,16,home,JS,,24,make3,3,D. Gallinari,
+354,3,1:34.0,84,89,DEN,DAL,20,away,JS,,24,miss3,0,R. Felton,
+355,3,1:32.0,84,89,DEN,DAL,2,home,DefReb,,,DefReb,,J. Hickson,
+356,3,1:25.0,84,89,DEN,DAL,7,home,JS,,25,miss3,0,D. Gallinari,
+357,3,1:23.0,84,89,DEN,DAL,2,home,OffReb,,,OffReb,,W. Chandler,
+358,3,1:14.0,84,89,DEN,DAL,9,home,BadPass,steal,,turnover,,T. Lawson,D. Harris
+359,3,1:08.0,84,91,DEN,DAL,6,away,DK,assist,0,make2,2,A. Aminu,D. Harris
+360,3,0:48.0,84,91,DEN,DAL,20,home,JS,,6,miss2,0,D. Gallinari,
+361,3,0:47.0,84,91,DEN,DAL,1,home,OffReb,,,OffReb,,Team,
+362,3,0:46.0,84,91,DEN,DAL,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,J. Hickson
+363,3,0:46.0,85,91,DEN,DAL,0,home,FreeThrow,,,make1,1,J. Hickson,
+364,3,0:46.0,85,91,DEN,DAL,0,away,Sub,,,,,T. Chandler,A. Stoudemire
+365,3,0:46.0,85,91,DEN,DAL,0,home,Sub,,,,,J. Nurkić,D. Gallinari
+366,3,0:46.0,86,91,DEN,DAL,0,home,FreeThrow,,,make1,1,J. Hickson,
+367,3,0:26.0,86,91,DEN,DAL,20,away,JS,,6,miss2,0,A. Aminu,
+368,3,0:25.0,86,91,DEN,DAL,1,away,OffReb,,,OffReb,,A. Aminu,
+369,3,0:23.0,86,91,DEN,DAL,2,away,LU,,1,miss2,0,A. Aminu,
+370,3,0:23.0,86,91,DEN,DAL,0,away,OffReb,,,OffReb,,A. Aminu,
+371,3,0:23.0,86,93,DEN,DAL,0,away,LU,,1,make2,2,A. Aminu,
+372,3,0:06.0,89,93,DEN,DAL,17,home,JS,assist,24,make3,3,R. Foye,T. Lawson
+373,3,0:01.0,89,93,DEN,DAL,5,away,JS,,19,miss2,0,R. Felton,
+374,3,0:00.0,89,93,DEN,DAL,1,away,OffReb,,,OffReb,,Team,
+375,4,11:44.0,91,93,DEN,DAL,16,home,DK,assist,0,make2,2,J. Hickson,T. Lawson
+376,4,11:23.0,91,95,DEN,DAL,21,away,JS,,17,make2,2,D. Nowitzki,
+377,4,11:10.0,91,95,DEN,DAL,13,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Nurkić,R. Jefferson
+378,4,11:10.0,91,95,DEN,DAL,0,home,OffensiveFoul,,,turnover,,J. Nurkić,
+379,4,10:53.0,91,98,DEN,DAL,17,away,JS,assist,24,make3,3,R. Jefferson,M. Ellis
+380,4,10:26.0,91,98,DEN,DAL,27,home,JS,,3,miss2,0,J. Nurkić,
+381,4,10:24.0,91,98,DEN,DAL,2,home,OffReb,,,OffReb,,J. Nurkić,
+382,4,10:20.0,91,98,DEN,DAL,4,home,JS,,3,miss2,0,J. Nurkić,
+383,4,10:19.0,91,98,DEN,DAL,1,home,OffReb,,,OffReb,,J. Hickson,
+384,4,10:13.0,93,98,DEN,DAL,6,home,LU,,2,make2,2,R. Foye,
+385,4,10:06.0,93,98,DEN,DAL,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Chandler,R. Jefferson
+386,4,10:06.0,93,99,DEN,DAL,0,away,FreeThrow,,,make1,1,R. Jefferson,
+387,4,10:06.0,93,99,DEN,DAL,0,home,Sub,,,,,D. Gallinari,W. Chandler
+388,4,10:06.0,93,100,DEN,DAL,0,away,FreeThrow,,,make1,1,R. Jefferson,
+389,4,9:51.0,93,100,DEN,DAL,15,home,LU,block,0,miss2,0,J. Hickson,D. Nowitzki
+390,4,9:50.0,93,100,DEN,DAL,1,home,OffReb,,,OffReb,,Team,
+391,4,9:38.0,95,100,DEN,DAL,12,home,JS,,18,make2,2,D. Gallinari,
+392,4,9:17.0,95,100,DEN,DAL,21,away,JS,,18,miss2,0,R. Felton,
+393,4,9:15.0,95,100,DEN,DAL,2,home,DefReb,,,DefReb,,R. Foye,
+394,4,9:09.0,95,100,DEN,DAL,6,home,BadPass,steal,,turnover,,R. Foye,D. Nowitzki
+395,4,9:06.0,95,100,DEN,DAL,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Gallinari,R. Jefferson
+396,4,9:06.0,95,100,DEN,DAL,0,away,Sub,,,,,J. Barea,R. Felton
+397,4,9:06.0,95,100,DEN,DAL,0,home,Sub,,,,,W. Barton,R. Foye
+398,4,8:53.0,95,102,DEN,DAL,13,away,JS,,15,make2,2,D. Nowitzki,
+399,4,8:41.0,95,102,DEN,DAL,12,home,LU,,1,miss2,0,T. Lawson,
+400,4,8:40.0,95,102,DEN,DAL,1,home,OffReb,,,OffReb,,J. Nurkić,
+401,4,8:40.0,95,102,DEN,DAL,0,home,TI,,1,miss2,0,J. Nurkić,
+402,4,8:38.0,95,102,DEN,DAL,2,home,OffReb,,,OffReb,,J. Hickson,
+403,4,8:32.0,95,102,DEN,DAL,6,home,BadPass,,,turnover,,J. Nurkić,
+404,4,8:32.0,95,102,DEN,DAL,0,away,Timeout,,,,,,
+405,4,8:32.0,95,102,DEN,DAL,0,away,Sub,,,,,A. Aminu,D. Nowitzki
+406,4,8:16.0,95,102,DEN,DAL,16,away,LU,,1,miss2,0,R. Jefferson,
+407,4,8:15.0,95,102,DEN,DAL,1,home,DefReb,,,DefReb,,W. Barton,
+408,4,8:03.0,97,102,DEN,DAL,12,home,LU,,0,make2,2,D. Gallinari,
+409,4,7:50.0,97,102,DEN,DAL,13,away,JS,,25,miss3,0,R. Jefferson,
+410,4,7:48.0,97,102,DEN,DAL,2,home,DefReb,,,DefReb,,J. Nurkić,
+411,4,7:40.0,97,102,DEN,DAL,8,home,JS,,7,miss2,0,T. Lawson,
+412,4,7:38.0,97,102,DEN,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+413,4,7:36.0,97,102,DEN,DAL,2,away,LostBall,steal,,turnover,,T. Chandler,J. Nurkić
+414,4,7:32.0,99,102,DEN,DAL,4,home,LU,assist,0,make2,2,J. Hickson,T. Lawson
+415,4,7:13.0,99,104,DEN,DAL,19,away,LU,,2,make2,2,M. Ellis,
+416,4,7:01.0,99,104,DEN,DAL,12,home,JS,,10,miss2,0,J. Hickson,
+417,4,7:00.0,99,104,DEN,DAL,1,home,OffReb,,,OffReb,,J. Nurkić,
+418,4,6:59.0,99,104,DEN,DAL,1,home,LU,,1,miss2,0,J. Nurkić,
+419,4,6:58.0,99,104,DEN,DAL,1,home,OffReb,,,OffReb,,D. Gallinari,
+420,4,6:57.0,99,104,DEN,DAL,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,D. Gallinari
+421,4,6:57.0,100,104,DEN,DAL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+422,4,6:57.0,101,104,DEN,DAL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+423,4,6:44.0,101,104,DEN,DAL,13,away,LostBall,steal,,turnover,,M. Ellis,W. Barton
+424,4,6:36.0,101,104,DEN,DAL,8,home,JS,block,25,miss3,0,D. Gallinari,A. Aminu
+425,4,6:35.0,101,104,DEN,DAL,1,home,OffReb,,,OffReb,,W. Barton,
+426,4,6:35.0,103,104,DEN,DAL,0,home,LU,,2,make2,2,W. Barton,
+427,4,6:35.0,103,104,DEN,DAL,0,away,Timeout,,,,,,
+428,4,6:35.0,103,104,DEN,DAL,0,away,Sub,,,,,A. Stoudemire,R. Jefferson
+429,4,6:35.0,103,104,DEN,DAL,0,away,Sub,,,,,D. Nowitzki,T. Chandler
+430,4,6:35.0,103,104,DEN,DAL,0,away,Sub,,,,,D. Harris,J. Barea
+431,4,6:20.0,103,104,DEN,DAL,15,away,JS,,16,miss2,0,M. Ellis,
+432,4,6:18.0,103,104,DEN,DAL,2,away,OffReb,,,OffReb,,A. Aminu,
+433,4,6:15.0,103,104,DEN,DAL,3,away,LU,,2,miss2,0,A. Aminu,
+434,4,6:14.0,103,104,DEN,DAL,1,away,OffReb,,,OffReb,,A. Aminu,
+435,4,6:10.0,103,104,DEN,DAL,4,away,JS,,15,miss2,0,D. Nowitzki,
+436,4,6:08.0,103,104,DEN,DAL,2,away,OffReb,,,OffReb,,A. Aminu,
+437,4,5:58.0,103,104,DEN,DAL,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nurkić,M. Ellis
+438,4,5:58.0,103,104,DEN,DAL,0,away,FreeThrow,,,make1,0,M. Ellis,
+439,4,5:58.0,103,104,DEN,DAL,0,away,OffReb,,,OffReb,,Team,
+440,4,5:58.0,103,104,DEN,DAL,0,home,Sub,,,,,K. Faried,J. Nurkić
+441,4,5:58.0,103,104,DEN,DAL,0,home,Sub,,,,,W. Chandler,J. Hickson
+442,4,5:58.0,103,105,DEN,DAL,0,away,FreeThrow,,,make1,1,M. Ellis,
+443,4,5:37.0,103,105,DEN,DAL,21,home,JS,,5,miss2,0,W. Chandler,
+444,4,5:35.0,103,105,DEN,DAL,2,home,OffReb,,,OffReb,,W. Chandler,
+445,4,5:32.0,105,105,DEN,DAL,3,home,LU,,2,make2,2,W. Chandler,
+446,4,5:16.0,105,107,DEN,DAL,16,away,LU,,3,make2,2,M. Ellis,
+447,4,5:06.0,107,107,DEN,DAL,10,home,LU,assist,0,make2,2,K. Faried,T. Lawson
+448,4,4:43.0,107,107,DEN,DAL,23,away,JS,,4,miss2,0,M. Ellis,
+449,4,4:42.0,107,107,DEN,DAL,1,home,DefReb,,,DefReb,,T. Lawson,
+450,4,4:38.0,107,107,DEN,DAL,4,home,JS,,16,miss2,0,T. Lawson,
+451,4,4:33.0,107,107,DEN,DAL,5,away,DefReb,,,DefReb,,D. Nowitzki,
+452,4,4:14.0,107,109,DEN,DAL,19,away,JS,,19,make2,2,M. Ellis,
+453,4,4:05.0,107,109,DEN,DAL,9,home,Timeout,,,,,,
+454,4,4:05.0,107,109,DEN,DAL,0,home,Sub,,,,,R. Foye,W. Barton
+455,4,3:59.0,109,109,DEN,DAL,6,home,DK,assist,0,make2,2,W. Chandler,T. Lawson
+456,4,3:43.0,109,112,DEN,DAL,16,away,JS,assist,25,make3,3,D. Harris,D. Nowitzki
+457,4,3:22.0,111,112,DEN,DAL,21,home,JS,,15,make2,2,D. Gallinari,
+458,4,3:07.0,111,112,DEN,DAL,15,away,LostBall,steal,,turnover,,D. Nowitzki,R. Foye
+459,4,3:00.0,111,112,DEN,DAL,7,home,BadPass,steal,,turnover,,R. Foye,A. Stoudemire
+460,4,2:52.0,111,112,DEN,DAL,8,away,JS,,26,miss3,0,D. Nowitzki,
+461,4,2:51.0,111,112,DEN,DAL,1,home,DefReb,,,DefReb,,R. Foye,
+462,4,2:45.0,113,112,DEN,DAL,6,home,DK,assist,0,make2,2,K. Faried,T. Lawson
+463,4,2:45.0,113,112,DEN,DAL,0,away,Timeout,,,,,,
+464,4,2:45.0,113,112,DEN,DAL,0,away,Sub,,,,,T. Chandler,A. Aminu
+465,4,2:45.0,113,112,DEN,DAL,0,away,Sub,,,,,R. Jefferson,A. Stoudemire
+466,4,2:28.0,113,115,DEN,DAL,17,away,JS,assist,24,make3,3,R. Jefferson,M. Ellis
+467,4,2:14.0,116,115,DEN,DAL,14,home,JS,assist,25,make3,3,W. Chandler,T. Lawson
+468,4,2:00.0,116,115,DEN,DAL,14,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Chandler,K. Faried
+469,4,2:00.0,116,115,DEN,DAL,0,away,OffensiveFoul,,,turnover,,T. Chandler,
+470,4,1:42.0,119,115,DEN,DAL,18,home,JS,assist,26,make3,3,T. Lawson,W. Chandler
+471,4,1:34.0,119,115,DEN,DAL,8,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,W. Chandler,D. Nowitzki
+472,4,1:28.0,119,117,DEN,DAL,6,away,JS,assist,17,make2,2,D. Nowitzki,D. Harris
+473,4,1:10.0,119,117,DEN,DAL,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,W. Chandler
+474,4,0:59.0,119,117,DEN,DAL,11,home,JS,,23,miss3,0,R. Foye,
+475,4,0:58.0,119,117,DEN,DAL,1,away,DefReb,,,DefReb,,D. Harris,
+476,4,0:53.0,119,117,DEN,DAL,5,home,DefGoaltending,,,DefGoaltending,,K. Faried,
+477,4,0:53.0,119,119,DEN,DAL,0,away,LU,,2,make2,2,D. Harris,
+478,4,0:53.0,119,119,DEN,DAL,0,home,Timeout,,,,,,
+479,4,0:53.0,119,119,DEN,DAL,0,away,Sub,,,,,A. Aminu,D. Nowitzki
+480,4,0:43.0,121,119,DEN,DAL,10,home,DK,assist,0,make2,2,K. Faried,T. Lawson
+481,4,0:43.0,121,119,DEN,DAL,0,away,Timeout,,,,,,
+482,4,0:43.0,121,119,DEN,DAL,0,away,Sub,,,,,D. Nowitzki,A. Aminu
+483,4,0:30.0,121,121,DEN,DAL,13,away,LU,assist,1,make2,2,R. Jefferson,D. Harris
+484,4,0:23.0,121,121,DEN,DAL,7,home,Timeout,,,,,,
+485,4,0:23.0,121,121,DEN,DAL,0,away,Sub,,,,,A. Aminu,D. Nowitzki
+486,4,0:08.0,121,121,DEN,DAL,15,home,JS,,19,miss2,0,T. Lawson,
+487,4,0:07.0,121,121,DEN,DAL,1,away,DefReb,,,DefReb,,R. Jefferson,
+488,4,0:06.0,121,121,DEN,DAL,1,away,LostBall,,,turnover,,M. Ellis,
+489,4,0:06.0,121,121,DEN,DAL,0,home,Timeout,,,,,,
+490,4,0:00.0,121,121,DEN,DAL,6,home,JS,,19,miss2,0,K. Faried,
+491,4,0:00.0,121,121,DEN,DAL,0,away,DefReb,,,DefReb,,R. Jefferson,
+492,1OT,4:45.0,121,123,DEN,DAL,435,away,JS,assist,3,make2,2,M. Ellis,D. Nowitzki
+493,1OT,4:28.0,123,123,DEN,DAL,17,home,LU,assist,2,make2,2,W. Chandler,R. Foye
+494,1OT,4:08.0,123,126,DEN,DAL,20,away,JS,assist,26,make3,3,R. Jefferson,D. Harris
+495,1OT,3:49.0,123,126,DEN,DAL,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,D. Gallinari
+496,1OT,3:49.0,124,126,DEN,DAL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+497,1OT,3:49.0,125,126,DEN,DAL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+498,1OT,3:37.0,125,126,DEN,DAL,12,away,JS,,17,miss2,0,D. Nowitzki,
+499,1OT,3:35.0,125,126,DEN,DAL,2,home,DefReb,,,DefReb,,R. Foye,
+500,1OT,3:23.0,125,126,DEN,DAL,12,home,LU,,1,miss2,0,W. Chandler,
+501,1OT,3:22.0,125,126,DEN,DAL,1,home,OffReb,,,OffReb,,R. Foye,
+502,1OT,3:18.0,128,126,DEN,DAL,4,home,JS,assist,25,make3,3,D. Gallinari,R. Foye
+503,1OT,2:56.0,128,126,DEN,DAL,22,away,JS,,12,miss2,0,D. Nowitzki,
+504,1OT,2:55.0,128,126,DEN,DAL,1,away,OffReb,,,OffReb,,T. Chandler,
+505,1OT,2:49.0,128,128,DEN,DAL,6,away,LU,assist,1,make2,2,D. Harris,D. Nowitzki
+506,1OT,2:35.0,128,128,DEN,DAL,14,home,JS,,25,miss3,0,R. Foye,
+507,1OT,2:34.0,128,128,DEN,DAL,1,home,OffReb,,,OffReb,,K. Faried,
+508,1OT,2:27.0,131,128,DEN,DAL,7,home,JS,assist,23,make3,3,W. Chandler,R. Foye
+509,1OT,2:26.0,131,128,DEN,DAL,1,away,Timeout,,,,,,
+510,1OT,2:17.0,131,130,DEN,DAL,9,away,JS,assist,19,make2,2,M. Ellis,D. Harris
+511,1OT,1:45.0,134,130,DEN,DAL,32,home,JS,assist,23,make3,3,D. Gallinari,T. Lawson
+512,1OT,1:33.0,134,132,DEN,DAL,12,away,JS,assist,14,make2,2,D. Nowitzki,R. Jefferson
+513,1OT,1:18.0,134,132,DEN,DAL,15,home,JS,,26,miss3,0,W. Chandler,
+514,1OT,1:17.0,134,132,DEN,DAL,1,away,DefReb,,,DefReb,,D. Harris,
+515,1OT,1:13.0,134,134,DEN,DAL,4,away,LU,assist,0,make2,2,M. Ellis,D. Harris
+516,1OT,0:57.0,134,134,DEN,DAL,16,home,JS,,20,miss2,0,T. Lawson,
+517,1OT,0:56.0,134,134,DEN,DAL,1,home,OffReb,,,OffReb,,Team,
+518,1OT,0:56.0,134,134,DEN,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Chandler,K. Faried
+519,1OT,0:42.0,134,134,DEN,DAL,14,home,LU,,1,miss2,0,W. Chandler,
+520,1OT,0:40.0,134,134,DEN,DAL,2,home,OffReb,,,OffReb,,K. Faried,
+521,1OT,0:40.0,134,134,DEN,DAL,0,home,LU,,0,miss2,0,K. Faried,
+522,1OT,0:38.0,134,134,DEN,DAL,2,home,OffReb,,,OffReb,,K. Faried,
+523,1OT,0:36.0,134,134,DEN,DAL,2,home,LostBall,steal,,turnover,,K. Faried,D. Harris
+524,1OT,0:22.0,134,134,DEN,DAL,14,away,JS,,17,miss2,0,D. Nowitzki,
+525,1OT,0:19.0,134,134,DEN,DAL,3,home,DefReb,,,DefReb,,T. Lawson,
+526,1OT,0:02.0,134,134,DEN,DAL,17,home,JS,,20,miss2,0,T. Lawson,
+527,1OT,0:01.0,134,134,DEN,DAL,1,away,DefReb,,,DefReb,,R. Jefferson,
+528,1OT,0:01.0,134,134,DEN,DAL,0,away,Timeout,,,,,,
+529,1OT,0:00.0,134,134,DEN,DAL,1,away,JS,,25,miss3,0,M. Ellis,
+530,1OT,0:00.0,134,134,DEN,DAL,0,away,OffReb,,,OffReb,,Team,
+531,2OT,4:45.0,134,134,DEN,DAL,435,away,JS,,25,miss3,0,C. Villanueva,
+532,2OT,4:43.0,134,134,DEN,DAL,2,home,DefReb,,,DefReb,,D. Gallinari,
+533,2OT,4:38.0,136,134,DEN,DAL,5,home,LU,,1,make2,2,D. Gallinari,
+534,2OT,4:16.0,136,136,DEN,DAL,22,away,JS,assist,19,make2,2,R. Felton,C. Villanueva
+535,2OT,3:52.0,136,136,DEN,DAL,24,home,BadPass,steal,,turnover,,W. Chandler,B. James
+536,2OT,3:35.0,136,136,DEN,DAL,17,away,LU,,2,miss2,0,A. Aminu,
+537,2OT,3:34.0,136,136,DEN,DAL,1,home,DefReb,,,DefReb,,D. Gallinari,
+538,2OT,3:24.0,136,136,DEN,DAL,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. James,K. Faried
+539,2OT,3:08.0,139,136,DEN,DAL,16,home,JS,assist,24,make3,3,D. Gallinari,T. Lawson
+540,2OT,2:58.0,139,139,DEN,DAL,10,away,JS,assist,27,make3,3,C. Villanueva,J. Barea
+541,2OT,2:45.0,139,139,DEN,DAL,13,home,JS,,24,miss3,0,W. Chandler,
+542,2OT,2:42.0,139,139,DEN,DAL,3,home,OffReb,,,OffReb,,K. Faried,
+543,2OT,2:39.0,139,139,DEN,DAL,3,home,JS,,25,miss3,0,R. Foye,
+544,2OT,2:36.0,139,139,DEN,DAL,3,home,OffReb,,,OffReb,,D. Gallinari,
+545,2OT,2:36.0,141,139,DEN,DAL,0,home,DK,,0,make2,2,D. Gallinari,
+546,2OT,2:23.0,141,139,DEN,DAL,13,away,BadPass,steal,,turnover,,J. Barea,R. Foye
+547,2OT,2:16.0,141,139,DEN,DAL,7,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,B. James,D. Gallinari
+548,2OT,2:16.0,142,139,DEN,DAL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+549,2OT,2:16.0,143,139,DEN,DAL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+550,2OT,2:05.0,143,139,DEN,DAL,11,away,JS,,25,miss3,0,C. Villanueva,
+551,2OT,2:04.0,143,139,DEN,DAL,1,away,OffReb,,,OffReb,,Team,
+552,2OT,2:04.0,143,139,DEN,DAL,0,away,Timeout,,,,,,
+553,2OT,1:54.0,143,142,DEN,DAL,10,away,JS,assist,24,make3,3,R. Felton,C. Villanueva
+554,2OT,1:42.0,143,142,DEN,DAL,12,home,JS,,26,miss3,0,R. Foye,
+555,2OT,1:40.0,143,142,DEN,DAL,2,away,DefReb,,,DefReb,,B. James,
+556,2OT,1:28.0,143,142,DEN,DAL,12,away,JS,,25,miss3,0,R. Felton,
+557,2OT,1:25.0,143,142,DEN,DAL,3,home,DefReb,,,DefReb,,T. Lawson,
+558,2OT,1:01.0,143,142,DEN,DAL,24,home,LostBall,steal,,turnover,,W. Chandler,R. Felton
+559,2OT,0:59.0,143,142,DEN,DAL,2,away,Timeout,,,,,,
+560,2OT,0:49.0,143,142,DEN,DAL,10,away,JS,,23,miss3,0,C. Villanueva,
+561,2OT,0:48.0,143,142,DEN,DAL,1,away,OffReb,,,OffReb,,C. Villanueva,
+562,2OT,0:45.0,143,142,DEN,DAL,3,away,JS,,3,miss2,0,C. Villanueva,
+563,2OT,0:44.0,143,142,DEN,DAL,1,away,OffReb,,,OffReb,,A. Aminu,
+564,2OT,0:42.0,143,142,DEN,DAL,2,away,LU,block,1,miss2,0,A. Aminu,D. Gallinari
+565,2OT,0:41.0,143,142,DEN,DAL,1,away,OffReb,,,OffReb,,A. Aminu,
+566,2OT,0:41.0,143,142,DEN,DAL,0,away,LU,,1,miss2,0,A. Aminu,
+567,2OT,0:41.0,143,142,DEN,DAL,0,home,DefReb,,,DefReb,,Team,
+568,2OT,0:41.0,143,142,DEN,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Villanueva,R. Foye
+569,2OT,0:23.0,143,142,DEN,DAL,18,home,JS,,26,miss3,0,D. Gallinari,
+570,2OT,0:22.0,143,142,DEN,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+571,2OT,0:02.0,143,144,DEN,DAL,20,away,LU,,0,make2,2,R. Felton,
+572,2OT,0:02.0,143,144,DEN,DAL,0,home,Timeout,,,,,,
+573,2OT,0:00.0,143,144,DEN,DAL,2,home,JS,block,4,miss2,0,K. Faried,R. Felton
+574,2OT,0:00.0,143,144,DEN,DAL,0,home,OffReb,,,OffReb,,Team,

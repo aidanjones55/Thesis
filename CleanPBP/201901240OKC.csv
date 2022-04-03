@@ -1,0 +1,453 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:48.0,0,0,OKC,NOP,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,S. Adams
+1,1,11:48.0,1,0,OKC,NOP,0,home,FreeThrow,,,make1,1,S. Adams,
+2,1,11:48.0,2,0,OKC,NOP,0,home,FreeThrow,,,make1,1,S. Adams,
+3,1,11:33.0,2,2,OKC,NOP,15,away,LU,assist,1,make2,2,S. Hill,J. Holiday
+4,1,11:16.0,2,2,OKC,NOP,17,home,lost ball,steal,,turnover,,S. Adams,J. Holiday
+5,1,10:58.0,2,4,OKC,NOP,18,away,JS,assist,7,make2,2,J. Holiday,S. Hill
+6,1,10:38.0,2,4,OKC,NOP,20,home,JS,,26,miss3,0,J. Grant,
+7,1,10:36.0,2,4,OKC,NOP,2,away,DefReb,,,DefReb,,Team,
+8,1,10:27.0,2,4,OKC,NOP,9,away,JS,,22,miss3,0,J. Holiday,
+9,1,10:26.0,2,4,OKC,NOP,1,away,OffReb,,,OffReb,,J. Okafor,
+10,1,10:26.0,2,6,OKC,NOP,0,away,LU,,1,make2,2,J. Okafor,
+11,1,10:09.0,4,6,OKC,NOP,17,home,DK,assist,0,make2,2,J. Grant,R. Westbrook
+12,1,9:58.0,4,6,OKC,NOP,11,away,JS,,26,miss3,0,D. Miller,
+13,1,9:56.0,4,6,OKC,NOP,2,home,DefReb,,,DefReb,,R. Westbrook,
+14,1,9:47.0,4,6,OKC,NOP,9,home,JS,,26,miss3,0,J. Grant,
+15,1,9:45.0,4,6,OKC,NOP,2,away,DefReb,,,DefReb,,Team,
+16,1,9:36.0,4,6,OKC,NOP,9,away,JS,,25,miss3,0,J. Holiday,
+17,1,9:34.0,4,6,OKC,NOP,2,away,OffReb,,,OffReb,,J. Okafor,
+18,1,9:34.0,4,8,OKC,NOP,0,away,LU,,1,make2,2,J. Okafor,
+19,1,9:33.0,4,8,OKC,NOP,1,home,Timeout,,,,,,
+20,1,9:24.0,7,8,OKC,NOP,9,home,JS,assist,26,make3,3,P. George,R. Westbrook
+21,1,9:06.0,7,8,OKC,NOP,18,away,JS,,16,miss2,0,D. Miller,
+22,1,9:04.0,7,8,OKC,NOP,2,home,DefReb,,,DefReb,,R. Westbrook,
+23,1,8:57.0,9,8,OKC,NOP,7,home,JS,assist,7,make2,2,T. Ferguson,R. Westbrook
+24,1,8:46.0,9,10,OKC,NOP,11,away,LU,assist,0,make2,2,J. Holiday,E. Payton
+25,1,8:36.0,11,10,OKC,NOP,10,home,LU,,1,make2,2,R. Westbrook,
+26,1,8:19.0,11,10,OKC,NOP,17,away,LU,,2,miss2,0,J. Holiday,
+27,1,8:18.0,11,10,OKC,NOP,1,home,DefReb,,,DefReb,,S. Adams,
+28,1,8:15.0,14,10,OKC,NOP,3,home,JS,assist,26,make3,3,P. George,S. Adams
+29,1,8:01.0,14,10,OKC,NOP,14,away,bad pass,steal,,turnover,,E. Payton,S. Adams
+30,1,7:56.0,16,10,OKC,NOP,5,home,DK,assist,1,make2,2,T. Ferguson,R. Westbrook
+31,1,7:52.0,16,10,OKC,NOP,4,away,Timeout,,,,,,
+32,1,7:40.0,16,12,OKC,NOP,12,away,JS,assist,14,make2,2,S. Hill,D. Miller
+33,1,7:26.0,18,12,OKC,NOP,14,home,DK,assist,0,make2,2,S. Adams,R. Westbrook
+34,1,7:15.0,18,12,OKC,NOP,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. George,E. Payton
+35,1,7:15.0,18,13,OKC,NOP,0,away,FreeThrow,,,make1,1,E. Payton,
+36,1,7:15.0,18,14,OKC,NOP,0,away,FreeThrow,,,make1,1,E. Payton,
+37,1,6:57.0,21,14,OKC,NOP,18,home,JS,assist,28,make3,3,P. George,R. Westbrook
+38,1,6:50.0,21,14,OKC,NOP,7,away,LU,,3,miss2,0,E. Payton,
+39,1,6:50.0,21,14,OKC,NOP,0,home,DefReb,,,DefReb,,P. George,
+40,1,6:44.0,21,14,OKC,NOP,6,home,JS,,26,miss3,0,P. George,
+41,1,6:44.0,21,14,OKC,NOP,0,home,OffReb,,,OffReb,,S. Adams,
+42,1,6:37.0,21,14,OKC,NOP,7,home,bad pass,steal,,turnover,,S. Adams,E. Payton
+43,1,6:32.0,21,16,OKC,NOP,5,away,DK,assist,0,make2,2,J. Okafor,E. Payton
+44,1,6:13.0,21,16,OKC,NOP,19,home,JS,,9,miss2,0,J. Grant,
+45,1,6:11.0,21,16,OKC,NOP,2,away,DefReb,,,DefReb,,J. Holiday,
+46,1,6:06.0,21,19,OKC,NOP,5,away,JS,assist,23,make3,3,D. Miller,J. Holiday
+47,1,5:52.0,21,19,OKC,NOP,14,home,JS,,26,miss3,0,T. Ferguson,
+48,1,5:49.0,21,19,OKC,NOP,3,away,DefReb,,,DefReb,,J. Okafor,
+49,1,5:38.0,21,19,OKC,NOP,11,away,JS,,26,miss3,0,S. Hill,
+50,1,5:36.0,21,19,OKC,NOP,2,home,DefReb,,,DefReb,,R. Westbrook,
+51,1,5:36.0,21,19,OKC,NOP,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,P. George
+52,1,5:36.0,21,19,OKC,NOP,0,away,Sub,,,,,F. Jackson,E. Payton
+53,1,5:36.0,21,19,OKC,NOP,0,home,Sub,,,,,D. Schröder,P. George
+54,1,5:24.0,21,19,OKC,NOP,12,home,JS,,27,miss3,0,T. Ferguson,
+55,1,5:21.0,21,19,OKC,NOP,3,away,DefReb,,,DefReb,,J. Holiday,
+56,1,5:13.0,21,19,OKC,NOP,8,away,bad pass,steal,,turnover,,J. Holiday,J. Grant
+57,1,4:57.0,23,19,OKC,NOP,16,home,LU,assist,1,make2,2,S. Adams,D. Schröder
+58,1,4:44.0,23,19,OKC,NOP,13,away,JS,,26,miss3,0,F. Jackson,
+59,1,4:41.0,23,19,OKC,NOP,3,home,DefReb,,,DefReb,,J. Grant,
+60,1,4:21.0,23,19,OKC,NOP,20,home,LU,,0,miss2,0,J. Grant,
+61,1,4:16.0,23,19,OKC,NOP,5,away,DefReb,,,DefReb,,S. Hill,
+62,1,4:13.0,23,19,OKC,NOP,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ferguson,S. Hill
+63,1,4:04.0,23,19,OKC,NOP,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Grant,J. Okafor
+64,1,3:57.0,23,19,OKC,NOP,7,away,bad pass,steal,,turnover,,J. Holiday,T. Ferguson
+65,1,3:52.0,25,19,OKC,NOP,5,home,LU,assist,2,make2,2,R. Westbrook,T. Ferguson
+66,1,3:42.0,25,21,OKC,NOP,10,away,JS,assist,6,make2,2,F. Jackson,J. Holiday
+67,1,3:27.0,25,21,OKC,NOP,15,home,JS,,18,miss2,0,R. Westbrook,
+68,1,3:24.0,25,21,OKC,NOP,3,away,DefReb,,,DefReb,,J. Holiday,
+69,1,3:22.0,25,21,OKC,NOP,2,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,F. Jackson,D. Schröder
+70,1,3:22.0,25,21,OKC,NOP,0,away,OffensiveFoul,,,turnover,,F. Jackson,
+71,1,3:07.0,25,21,OKC,NOP,15,home,LU,,1,miss2,0,S. Adams,
+72,1,3:01.0,25,21,OKC,NOP,6,away,DefReb,,,DefReb,,J. Okafor,
+73,1,3:01.0,25,21,OKC,NOP,0,away,lost ball,steal,,turnover,,J. Okafor,R. Westbrook
+74,1,3:00.0,25,21,OKC,NOP,1,home,Traveling,,,turnover,,S. Adams,
+75,1,3:00.0,25,21,OKC,NOP,0,away,Sub,,,,,C. Diallo,S. Hill
+76,1,3:00.0,25,21,OKC,NOP,0,away,Sub,,,,,K. Williams,J. Okafor
+77,1,3:00.0,25,21,OKC,NOP,0,home,Sub,,,,,N. Noel,S. Adams
+78,1,2:46.0,25,21,OKC,NOP,14,away,Traveling,,,turnover,,F. Jackson,
+79,1,2:46.0,25,21,OKC,NOP,0,home,Sub,,,,,P. George,R. Westbrook
+80,1,2:36.0,25,21,OKC,NOP,10,home,lost ball,steal,,turnover,,P. George,J. Holiday
+81,1,2:30.0,25,24,OKC,NOP,6,away,JS,assist,25,make3,3,D. Miller,J. Holiday
+82,1,2:14.0,25,24,OKC,NOP,16,home,JS,,28,miss3,0,T. Ferguson,
+83,1,2:11.0,25,24,OKC,NOP,3,away,DefReb,,,DefReb,,K. Williams,
+84,1,2:04.0,25,24,OKC,NOP,7,away,JS,,24,miss3,0,D. Miller,
+85,1,1:58.0,25,24,OKC,NOP,6,home,DefReb,,,DefReb,,J. Grant,
+86,1,1:48.0,28,24,OKC,NOP,10,home,JS,assist,23,make3,3,J. Grant,T. Ferguson
+87,1,1:38.0,28,26,OKC,NOP,10,away,JS,assist,15,make2,2,C. Diallo,F. Jackson
+88,1,1:20.0,28,26,OKC,NOP,18,home,JS,,25,miss3,0,D. Schröder,
+89,1,1:17.0,28,26,OKC,NOP,3,away,DefReb,,,DefReb,,D. Miller,
+90,1,1:06.0,28,26,OKC,NOP,11,away,JS,,23,miss3,0,F. Jackson,
+91,1,1:02.0,28,26,OKC,NOP,4,home,DefReb,,,DefReb,,D. Schröder,
+92,1,0:57.0,28,26,OKC,NOP,5,home,BadPass,,,turnover,,D. Schröder,
+93,1,0:57.0,28,26,OKC,NOP,0,home,Sub,,,,,A. Nader,T. Ferguson
+94,1,0:32.0,28,26,OKC,NOP,25,away,JS,,18,miss2,0,J. Holiday,
+95,1,0:30.0,28,26,OKC,NOP,2,home,DefReb,,,DefReb,,A. Nader,
+96,1,0:25.0,28,26,OKC,NOP,5,home,LU,block,8,miss2,0,D. Schröder,D. Miller
+97,1,0:23.0,28,26,OKC,NOP,2,away,DefReb,,,DefReb,,D. Miller,
+98,1,0:05.0,28,28,OKC,NOP,18,away,JS,assist,6,make2,2,C. Diallo,J. Holiday
+99,1,0:01.0,28,28,OKC,NOP,4,home,BadPass,,,turnover,,D. Schröder,
+100,2,11:43.0,28,28,OKC,NOP,17,away,JS,,15,miss2,0,C. Diallo,
+101,2,11:39.0,28,28,OKC,NOP,4,away,OffReb,,,OffReb,,K. Williams,
+102,2,11:38.0,28,28,OKC,NOP,1,away,LU,block,0,miss2,0,K. Williams,N. Noel
+103,2,11:35.0,28,28,OKC,NOP,3,away,OffReb,,,OffReb,,S. Hill,
+104,2,11:33.0,28,28,OKC,NOP,2,away,JS,,23,miss3,0,F. Jackson,
+105,2,11:30.0,28,28,OKC,NOP,3,home,DefReb,,,DefReb,,P. George,
+106,2,11:19.0,28,28,OKC,NOP,11,home,JS,,24,miss3,0,P. Patterson,
+107,2,11:19.0,28,28,OKC,NOP,0,away,DefReb,,,DefReb,,S. Hill,
+108,2,11:11.0,28,28,OKC,NOP,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Noel,C. Diallo
+109,2,11:11.0,28,29,OKC,NOP,0,away,FreeThrow,,,make1,1,C. Diallo,
+110,2,11:11.0,28,29,OKC,NOP,0,away,FreeThrow,,,make1,0,C. Diallo,
+111,2,11:09.0,28,29,OKC,NOP,2,home,DefReb,,,DefReb,,N. Noel,
+112,2,10:54.0,30,29,OKC,NOP,15,home,DK,assist,1,make2,2,A. Nader,P. George
+113,2,10:44.0,30,29,OKC,NOP,10,away,JS,,22,miss2,0,K. Williams,
+114,2,10:44.0,30,29,OKC,NOP,0,home,DefReb,,,DefReb,,P. George,
+115,2,10:37.0,30,29,OKC,NOP,7,home,LU,block,3,miss2,0,P. George,S. Hill
+116,2,10:37.0,30,29,OKC,NOP,0,away,DefReb,,,DefReb,,E. Payton,
+117,2,10:31.0,30,31,OKC,NOP,6,away,LU,assist,1,make2,2,F. Jackson,K. Williams
+118,2,10:18.0,30,31,OKC,NOP,13,home,JS,,14,miss2,0,N. Noel,
+119,2,10:15.0,30,31,OKC,NOP,3,home,OffReb,,,OffReb,,P. Patterson,
+120,2,10:14.0,32,31,OKC,NOP,1,home,LU,,1,make2,2,P. Patterson,
+121,2,9:56.0,32,31,OKC,NOP,18,away,JS,,24,miss3,0,K. Williams,
+122,2,9:54.0,32,31,OKC,NOP,2,home,DefReb,,,DefReb,,A. Nader,
+123,2,9:42.0,32,31,OKC,NOP,12,home,JS,,25,miss3,0,A. Nader,
+124,2,9:38.0,32,31,OKC,NOP,4,away,DefReb,,,DefReb,,S. Hill,
+125,2,9:35.0,32,31,OKC,NOP,3,away,OutOfBoundsLB,,,turnover,,C. Diallo,
+126,2,9:26.0,32,31,OKC,NOP,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,F. Jackson,A. Nader
+127,2,9:26.0,32,31,OKC,NOP,0,away,Sub,,,,,I. Clark,F. Jackson
+128,2,9:26.0,32,31,OKC,NOP,0,home,Sub,,,,,R. Westbrook,P. George
+129,2,9:15.0,34,31,OKC,NOP,11,home,LU,assist,1,make2,2,N. Noel,D. Schröder
+130,2,9:00.0,34,31,OKC,NOP,15,away,LU,,3,miss2,0,E. Payton,
+131,2,8:57.0,34,31,OKC,NOP,3,away,OffReb,,,OffReb,,E. Payton,
+132,2,8:56.0,34,33,OKC,NOP,1,away,LU,,1,make2,2,E. Payton,
+133,2,8:45.0,34,33,OKC,NOP,11,home,JS,,25,miss3,0,R. Westbrook,
+134,2,8:45.0,34,33,OKC,NOP,0,home,OffReb,,,OffReb,,P. Patterson,
+135,2,8:42.0,34,33,OKC,NOP,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Payton,D. Schröder
+136,2,8:42.0,34,33,OKC,NOP,0,away,Sub,,,,,J. Okafor,C. Diallo
+137,2,8:42.0,34,33,OKC,NOP,0,home,Sub,,,,,S. Adams,N. Noel
+138,2,8:38.0,34,33,OKC,NOP,4,home,DK,,1,miss2,0,R. Westbrook,
+139,2,8:37.0,34,33,OKC,NOP,1,home,OffReb,,,OffReb,,S. Adams,
+140,2,8:37.0,36,33,OKC,NOP,0,home,LU,,1,make2,2,S. Adams,
+141,2,8:21.0,36,36,OKC,NOP,16,away,JS,assist,26,make3,3,E. Payton,I. Clark
+142,2,8:07.0,36,36,OKC,NOP,14,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Westbrook,K. Williams
+143,2,8:07.0,36,36,OKC,NOP,0,home,OffensiveFoul,,,turnover,,R. Westbrook,
+144,2,7:52.0,36,36,OKC,NOP,15,home,KickBallViolation,,,KickBallViolation,,Team,
+145,2,7:52.0,36,36,OKC,NOP,0,away,Sub,,,,,D. Miller,S. Hill
+146,2,7:40.0,36,36,OKC,NOP,12,away,JS,,16,miss2,0,E. Payton,
+147,2,7:39.0,36,36,OKC,NOP,1,away,OffReb,,,OffReb,,Team,
+148,2,7:39.0,36,36,OKC,NOP,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Adams,J. Okafor
+149,2,7:34.0,36,39,OKC,NOP,5,away,JS,assist,26,make3,3,I. Clark,E. Payton
+150,2,7:17.0,36,39,OKC,NOP,17,home,JS,,25,miss3,0,A. Nader,
+151,2,7:15.0,36,39,OKC,NOP,2,home,OffReb,,,OffReb,,S. Adams,
+152,2,7:13.0,38,39,OKC,NOP,2,home,LU,,1,make2,2,S. Adams,
+153,2,7:04.0,38,39,OKC,NOP,9,away,bad pass,steal,,turnover,,D. Miller,R. Westbrook
+154,2,6:59.0,40,39,OKC,NOP,5,home,DK,assist,2,make2,2,R. Westbrook,D. Schröder
+155,2,6:55.0,40,39,OKC,NOP,4,away,Timeout,,,,,,
+156,2,6:55.0,40,39,OKC,NOP,0,home,Sub,,,,,P. George,A. Nader
+157,2,6:48.0,40,39,OKC,NOP,7,away,JS,,22,miss3,0,I. Clark,
+158,2,6:45.0,40,39,OKC,NOP,3,home,DefReb,,,DefReb,,R. Westbrook,
+159,2,6:35.0,40,39,OKC,NOP,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Williams,S. Adams
+160,2,6:35.0,40,39,OKC,NOP,0,away,Sub,,,,,J. Holiday,K. Williams
+161,2,6:35.0,40,39,OKC,NOP,0,home,Sub,,,,,J. Grant,P. Patterson
+162,2,6:28.0,42,39,OKC,NOP,7,home,LU,,0,make2,2,R. Westbrook,
+163,2,6:10.0,42,39,OKC,NOP,18,away,JS,,23,miss3,0,E. Payton,
+164,2,6:05.0,42,39,OKC,NOP,5,away,OffReb,,,OffReb,,J. Okafor,
+165,2,6:05.0,42,39,OKC,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. George,E. Payton
+166,2,6:05.0,42,40,OKC,NOP,0,away,FreeThrow,,,make1,1,E. Payton,
+167,2,6:05.0,42,40,OKC,NOP,0,home,Sub,,,,,T. Ferguson,D. Schröder
+168,2,6:05.0,42,41,OKC,NOP,0,away,FreeThrow,,,make1,1,E. Payton,
+169,2,5:58.0,44,41,OKC,NOP,7,home,DK,assist,1,make2,2,S. Adams,R. Westbrook
+170,2,5:41.0,44,43,OKC,NOP,17,away,LU,assist,1,make2,2,J. Okafor,E. Payton
+171,2,5:26.0,44,43,OKC,NOP,15,home,JS,,25,miss3,0,P. George,
+172,2,5:23.0,44,43,OKC,NOP,3,away,DefReb,,,DefReb,,J. Okafor,
+173,2,5:07.0,44,45,OKC,NOP,16,away,LU,,1,make2,2,D. Miller,
+174,2,5:00.0,44,45,OKC,NOP,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Miller,R. Westbrook
+175,2,5:00.0,45,45,OKC,NOP,0,home,FreeThrow,,,make1,1,R. Westbrook,
+176,2,5:00.0,46,45,OKC,NOP,0,home,FreeThrow,,,make1,1,R. Westbrook,
+177,2,4:48.0,46,45,OKC,NOP,12,away,JS,,25,miss3,0,E. Payton,
+178,2,4:44.0,46,45,OKC,NOP,4,home,DefReb,,,DefReb,,R. Westbrook,
+179,2,4:43.0,46,45,OKC,NOP,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Miller,R. Westbrook
+180,2,4:43.0,47,45,OKC,NOP,0,home,FreeThrow,,,make1,1,R. Westbrook,
+181,2,4:43.0,47,45,OKC,NOP,0,home,FreeThrow,,,make1,0,R. Westbrook,
+182,2,4:38.0,47,45,OKC,NOP,5,home,OffReb,,,OffReb,,S. Adams,
+183,2,4:38.0,47,45,OKC,NOP,0,home,LU,,0,miss2,0,S. Adams,
+184,2,4:38.0,47,45,OKC,NOP,0,home,OffReb,,,OffReb,,R. Westbrook,
+185,2,4:35.0,50,45,OKC,NOP,3,home,JS,assist,25,make3,3,T. Ferguson,P. George
+186,2,4:27.0,50,45,OKC,NOP,8,away,OutOfBoundsLB,,,turnover,,J. Holiday,
+187,2,4:27.0,50,45,OKC,NOP,0,away,Sub,,,,,S. Hill,E. Payton
+188,2,4:13.0,53,45,OKC,NOP,14,home,JS,assist,25,make3,3,J. Grant,R. Westbrook
+189,2,3:55.0,53,45,OKC,NOP,18,away,JS,,6,miss2,0,J. Okafor,
+190,2,3:53.0,53,45,OKC,NOP,2,home,DefReb,,,DefReb,,S. Adams,
+191,2,3:48.0,55,45,OKC,NOP,5,home,LU,assist,1,make2,2,J. Grant,P. George
+192,2,3:43.0,55,45,OKC,NOP,5,away,Timeout,,,,,,
+193,2,3:36.0,55,45,OKC,NOP,7,away,JS,,18,miss2,0,I. Clark,
+194,2,3:33.0,55,45,OKC,NOP,3,home,DefReb,,,DefReb,,R. Westbrook,
+195,2,3:21.0,55,45,OKC,NOP,12,home,JS,,14,miss2,0,R. Westbrook,
+196,2,3:18.0,55,45,OKC,NOP,3,away,DefReb,,,DefReb,,J. Okafor,
+197,2,3:14.0,55,45,OKC,NOP,4,away,JS,,23,miss3,0,I. Clark,
+198,2,3:11.0,55,45,OKC,NOP,3,home,DefReb,,,DefReb,,R. Westbrook,
+199,2,3:06.0,57,45,OKC,NOP,5,home,DK,assist,1,make2,2,S. Adams,R. Westbrook
+200,2,2:53.0,57,45,OKC,NOP,13,home,KickBallViolation,,,KickBallViolation,,Team,
+201,2,2:53.0,57,45,OKC,NOP,0,away,Sub,,,,,F. Jackson,I. Clark
+202,2,2:49.0,57,45,OKC,NOP,4,away,JS,,26,miss3,0,J. Holiday,
+203,2,2:47.0,57,45,OKC,NOP,2,home,DefReb,,,DefReb,,P. George,
+204,2,2:39.0,57,45,OKC,NOP,8,home,JS,,1,miss2,0,J. Grant,
+205,2,2:36.0,57,45,OKC,NOP,3,home,OffReb,,,OffReb,,S. Adams,
+206,2,2:27.0,59,45,OKC,NOP,9,home,HS,,5,make2,2,S. Adams,
+207,2,2:10.0,59,45,OKC,NOP,17,away,LU,,2,miss2,0,J. Holiday,
+208,2,2:08.0,59,45,OKC,NOP,2,away,OffReb,,,OffReb,,J. Okafor,
+209,2,2:07.0,59,47,OKC,NOP,1,away,LU,,1,make2,2,J. Okafor,
+210,2,1:58.0,61,47,OKC,NOP,9,home,DK,assist,1,make2,2,S. Adams,R. Westbrook
+211,2,1:48.0,61,49,OKC,NOP,10,away,LU,assist,0,make2,2,S. Hill,J. Holiday
+212,2,1:39.0,63,49,OKC,NOP,9,home,LU,assist,1,make2,2,T. Ferguson,R. Westbrook
+213,2,1:32.0,63,49,OKC,NOP,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Westbrook,D. Miller
+214,2,1:32.0,63,49,OKC,NOP,0,away,Sub,,,,,C. Diallo,J. Okafor
+215,2,1:28.0,63,49,OKC,NOP,4,away,lost ball,steal,,turnover,,J. Holiday,P. George
+216,2,1:24.0,65,49,OKC,NOP,4,home,LU,assist,1,make2,2,R. Westbrook,P. George
+217,2,1:06.0,65,51,OKC,NOP,18,away,LU,assist,1,make2,2,F. Jackson,S. Hill
+218,2,0:46.0,65,51,OKC,NOP,20,home,JS,,22,miss3,0,T. Ferguson,
+219,2,0:43.0,65,51,OKC,NOP,3,away,DefReb,,,DefReb,,J. Holiday,
+220,2,0:37.0,65,53,OKC,NOP,6,away,JS,assist,16,make2,2,D. Miller,J. Holiday
+221,2,0:26.0,65,53,OKC,NOP,11,home,JS,,18,miss2,0,T. Ferguson,
+222,2,0:24.0,65,53,OKC,NOP,2,away,DefReb,,,DefReb,,D. Miller,
+223,2,0:00.0,65,53,OKC,NOP,24,away,LU,,2,miss2,0,J. Holiday,
+224,2,0:00.0,65,53,OKC,NOP,0,home,DefReb,,,DefReb,,R. Westbrook,
+225,3,11:48.0,65,53,OKC,NOP,12,away,JS,,24,miss3,0,D. Miller,
+226,3,11:44.0,65,53,OKC,NOP,4,home,DefReb,,,DefReb,,R. Westbrook,
+227,3,11:37.0,67,53,OKC,NOP,7,home,JS,assist,23,make2,2,T. Ferguson,R. Westbrook
+228,3,11:20.0,67,53,OKC,NOP,17,away,JS,,26,miss3,0,E. Payton,
+229,3,11:17.0,67,53,OKC,NOP,3,home,DefReb,,,DefReb,,T. Ferguson,
+230,3,11:05.0,70,53,OKC,NOP,12,home,JS,assist,26,make3,3,R. Westbrook,P. George
+231,3,10:49.0,70,53,OKC,NOP,16,away,JS,,25,miss3,0,S. Hill,
+232,3,10:47.0,70,53,OKC,NOP,2,home,DefReb,,,DefReb,,R. Westbrook,
+233,3,10:39.0,73,53,OKC,NOP,8,home,JS,assist,23,make3,3,T. Ferguson,P. George
+234,3,10:38.0,73,53,OKC,NOP,1,away,Timeout,,,,,,
+235,3,10:22.0,73,53,OKC,NOP,16,away,JS,,12,miss2,0,J. Holiday,
+236,3,10:19.0,73,53,OKC,NOP,3,home,DefReb,,,DefReb,,R. Westbrook,
+237,3,10:09.0,73,53,OKC,NOP,10,home,JS,,23,miss3,0,P. George,
+238,3,10:06.0,73,53,OKC,NOP,3,away,DefReb,,,DefReb,,D. Miller,
+239,3,9:58.0,73,53,OKC,NOP,8,away,JS,,26,miss3,0,D. Miller,
+240,3,9:55.0,73,53,OKC,NOP,3,away,OffReb,,,OffReb,,Team,
+241,3,9:43.0,73,55,OKC,NOP,12,away,JS,assist,6,make2,2,E. Payton,J. Holiday
+242,3,9:32.0,75,55,OKC,NOP,11,home,JS,assist,21,make2,2,J. Grant,R. Westbrook
+243,3,9:15.0,75,55,OKC,NOP,17,away,JS,,16,miss2,0,D. Miller,
+244,3,9:12.0,75,55,OKC,NOP,3,home,DefReb,,,DefReb,,S. Adams,
+245,3,9:04.0,77,55,OKC,NOP,8,home,LU,,2,make2,2,P. George,
+246,3,8:47.0,77,57,OKC,NOP,17,away,LU,,3,make2,2,J. Holiday,
+247,3,8:47.0,77,57,OKC,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ferguson,J. Holiday
+248,3,8:47.0,77,58,OKC,NOP,0,away,FreeThrow,,,make1,1,J. Holiday,
+249,3,8:28.0,77,58,OKC,NOP,19,home,JS,,6,miss2,0,J. Grant,
+250,3,8:27.0,77,58,OKC,NOP,1,away,DefReb,,,DefReb,,Team,
+251,3,8:27.0,77,58,OKC,NOP,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Adams,J. Okafor
+252,3,8:13.0,77,61,OKC,NOP,14,away,JS,assist,26,make3,3,D. Miller,S. Hill
+253,3,7:59.0,77,61,OKC,NOP,14,home,JS,,16,miss2,0,R. Westbrook,
+254,3,7:57.0,77,61,OKC,NOP,2,away,DefReb,,,DefReb,,J. Holiday,
+255,3,7:53.0,77,64,OKC,NOP,4,away,JS,,26,make3,3,J. Holiday,
+256,3,7:52.0,77,64,OKC,NOP,1,home,Timeout,,,,,,
+257,3,7:43.0,77,64,OKC,NOP,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,J. Grant
+258,3,7:36.0,77,64,OKC,NOP,7,home,JS,block,24,miss3,0,T. Ferguson,J. Holiday
+259,3,7:31.0,77,64,OKC,NOP,5,home,OffReb,,,OffReb,,P. George,
+260,3,7:29.0,80,64,OKC,NOP,2,home,JS,,24,make3,3,P. George,
+261,3,7:02.0,80,64,OKC,NOP,27,away,JS,,8,miss2,0,S. Hill,
+262,3,6:58.0,80,64,OKC,NOP,4,home,DefReb,,,DefReb,,S. Adams,
+263,3,6:50.0,80,64,OKC,NOP,8,home,JS,,17,miss2,0,R. Westbrook,
+264,3,6:48.0,80,64,OKC,NOP,2,away,DefReb,,,DefReb,,D. Miller,
+265,3,6:40.0,80,64,OKC,NOP,8,away,JS,,8,miss2,0,J. Okafor,
+266,3,6:37.0,80,64,OKC,NOP,3,home,DefReb,,,DefReb,,S. Adams,
+267,3,6:31.0,80,64,OKC,NOP,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Holiday,P. George
+268,3,6:31.0,80,64,OKC,NOP,0,away,Sub,,,,,F. Jackson,E. Payton
+269,3,6:28.0,80,64,OKC,NOP,3,home,JS,,18,miss2,0,P. George,
+270,3,6:26.0,80,64,OKC,NOP,2,away,DefReb,,,DefReb,,D. Miller,
+271,3,6:13.0,80,66,OKC,NOP,13,away,DK,assist,0,make2,2,J. Okafor,J. Holiday
+272,3,5:58.0,80,66,OKC,NOP,15,home,LU,,2,miss2,0,J. Grant,
+273,3,5:57.0,80,66,OKC,NOP,1,home,OffReb,,,OffReb,,S. Adams,
+274,3,5:56.0,82,66,OKC,NOP,1,home,LU,,1,make2,2,S. Adams,
+275,3,5:45.0,82,68,OKC,NOP,11,away,LU,assist,1,make2,2,D. Miller,J. Holiday
+276,3,5:25.0,82,68,OKC,NOP,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,P. George
+277,3,5:25.0,82,68,OKC,NOP,0,home,FreeThrow,,,make1,0,P. George,
+278,3,5:25.0,82,68,OKC,NOP,0,home,OffReb,,,OffReb,,Team,
+279,3,5:25.0,83,68,OKC,NOP,0,home,FreeThrow,,,make1,1,P. George,
+280,3,5:17.0,83,70,OKC,NOP,8,away,LU,assist,1,make2,2,J. Okafor,J. Holiday
+281,3,5:17.0,83,70,OKC,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Westbrook,J. Okafor
+282,3,5:17.0,83,70,OKC,NOP,0,home,Sub,,,,,D. Schröder,P. George
+283,3,5:17.0,83,70,OKC,NOP,0,away,FreeThrow,,,make1,0,J. Okafor,
+284,3,5:15.0,83,70,OKC,NOP,2,home,DefReb,,,DefReb,,R. Westbrook,
+285,3,5:06.0,85,70,OKC,NOP,9,home,LU,,1,make2,2,R. Westbrook,
+286,3,5:06.0,85,70,OKC,NOP,0,away,Sub,,,,,K. Williams,S. Hill
+287,3,4:47.0,85,70,OKC,NOP,19,away,JS,,21,miss2,0,D. Miller,
+288,3,4:46.0,85,70,OKC,NOP,1,away,OffReb,,,OffReb,,Team,
+289,3,4:32.0,85,70,OKC,NOP,14,away,JS,,10,miss2,0,J. Okafor,
+290,3,4:31.0,85,70,OKC,NOP,1,home,DefReb,,,DefReb,,R. Westbrook,
+291,3,4:24.0,85,70,OKC,NOP,7,home,JS,,27,miss3,0,T. Ferguson,
+292,3,4:21.0,85,70,OKC,NOP,3,away,DefReb,,,DefReb,,J. Holiday,
+293,3,4:12.0,85,72,OKC,NOP,9,away,LU,assist,3,make2,2,J. Okafor,J. Holiday
+294,3,3:55.0,85,72,OKC,NOP,17,home,JS,,2,miss2,0,J. Grant,
+295,3,3:53.0,85,72,OKC,NOP,2,away,DefReb,,,DefReb,,J. Holiday,
+296,3,3:41.0,85,72,OKC,NOP,12,away,bad pass,steal,,turnover,,J. Holiday,J. Grant
+297,3,3:37.0,87,72,OKC,NOP,4,home,DK,,1,make2,2,J. Grant,
+298,3,3:26.0,87,74,OKC,NOP,11,away,DK,,0,make2,2,J. Okafor,
+299,3,3:07.0,90,74,OKC,NOP,19,home,JS,assist,25,make3,3,D. Schröder,R. Westbrook
+300,3,3:07.0,90,74,OKC,NOP,0,away,Sub,,,,,C. Diallo,J. Holiday
+301,3,3:07.0,90,74,OKC,NOP,0,away,Sub,,,,,E. Payton,J. Okafor
+302,3,3:07.0,90,74,OKC,NOP,0,home,Sub,,,,,P. George,S. Adams
+303,3,3:07.0,90,74,OKC,NOP,0,home,Sub,,,,,N. Noel,R. Westbrook
+304,3,2:51.0,90,74,OKC,NOP,16,away,bad pass,steal,,turnover,,E. Payton,D. Schröder
+305,3,2:36.0,93,74,OKC,NOP,15,home,JS,assist,26,make3,3,D. Schröder,J. Grant
+306,3,2:20.0,93,74,OKC,NOP,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Noel,F. Jackson
+307,3,2:09.0,93,74,OKC,NOP,11,away,JS,,23,miss3,0,F. Jackson,
+308,3,2:06.0,93,74,OKC,NOP,3,home,DefReb,,,DefReb,,N. Noel,
+309,3,1:56.0,96,74,OKC,NOP,10,home,JS,assist,25,make3,3,P. George,D. Schröder
+310,3,1:46.0,96,76,OKC,NOP,10,away,JS,,6,make2,2,E. Payton,
+311,3,1:36.0,98,76,OKC,NOP,10,home,LU,assist,1,make2,2,N. Noel,D. Schröder
+312,3,1:21.0,98,78,OKC,NOP,15,away,JS,,4,make2,2,E. Payton,
+313,3,1:05.0,98,78,OKC,NOP,16,home,DK,,1,miss2,0,J. Grant,
+314,3,1:02.0,98,78,OKC,NOP,3,away,DefReb,,,DefReb,,D. Miller,
+315,3,1:00.0,98,80,OKC,NOP,2,away,LU,assist,1,make2,2,K. Williams,D. Miller
+316,3,1:00.0,98,80,OKC,NOP,0,home,DefGoaltending,,,DefGoaltending,,Team,
+317,3,0:50.0,98,80,OKC,NOP,10,home,BackCourtTurnover,,,turnover,,P. George,
+318,3,0:50.0,98,80,OKC,NOP,0,away,Sub,,,,,S. Hill,D. Miller
+319,3,0:50.0,98,80,OKC,NOP,0,home,Sub,,,,,P. Patterson,J. Grant
+320,3,0:42.0,98,82,OKC,NOP,8,away,JS,assist,22,make2,2,C. Diallo,E. Payton
+321,3,0:34.0,98,82,OKC,NOP,8,home,JS,,30,miss3,0,P. George,
+322,3,0:32.0,98,82,OKC,NOP,2,away,DefReb,,,DefReb,,Team,
+323,3,0:24.0,98,82,OKC,NOP,8,away,LU,,1,miss2,0,E. Payton,
+324,3,0:24.0,98,82,OKC,NOP,0,home,DefReb,,,DefReb,,N. Noel,
+325,3,0:00.0,98,82,OKC,NOP,24,home,JS,,17,miss2,0,D. Schröder,
+326,3,0:00.0,98,82,OKC,NOP,0,home,OffReb,,,OffReb,,Team,
+327,4,11:46.0,100,82,OKC,NOP,14,home,DK,assist,0,make2,2,N. Noel,P. George
+328,4,11:31.0,100,84,OKC,NOP,15,away,JS,assist,10,make2,2,F. Jackson,E. Payton
+329,4,11:24.0,100,84,OKC,NOP,7,home,OutOfBoundsLB,,,turnover,,P. Patterson,
+330,4,11:12.0,100,86,OKC,NOP,12,away,JS,assist,7,make2,2,C. Diallo,F. Jackson
+331,4,10:52.0,102,86,OKC,NOP,20,home,LU,,2,make2,2,D. Schröder,
+332,4,10:37.0,102,88,OKC,NOP,15,away,JS,assist,11,make2,2,F. Jackson,E. Payton
+333,4,10:26.0,102,88,OKC,NOP,11,home,JS,,8,miss2,0,N. Noel,
+334,4,10:24.0,102,88,OKC,NOP,2,away,DefReb,,,DefReb,,E. Payton,
+335,4,10:14.0,102,90,OKC,NOP,10,away,DK,assist,0,make2,2,C. Diallo,E. Payton
+336,4,10:14.0,102,90,OKC,NOP,0,home,Timeout,,,,,,
+337,4,10:02.0,102,90,OKC,NOP,12,home,LU,,2,miss2,0,P. George,
+338,4,9:58.0,102,90,OKC,NOP,4,away,DefReb,,,DefReb,,C. Diallo,
+339,4,9:55.0,102,92,OKC,NOP,3,away,LU,assist,1,make2,2,F. Jackson,E. Payton
+340,4,9:46.0,104,92,OKC,NOP,9,home,LU,,1,make2,2,D. Schröder,
+341,4,9:27.0,104,92,OKC,NOP,19,away,JS,,15,miss2,0,F. Jackson,
+342,4,9:25.0,104,92,OKC,NOP,2,home,DefReb,,,DefReb,,A. Nader,
+343,4,9:05.0,104,92,OKC,NOP,20,home,JS,block,12,miss2,0,P. George,E. Payton
+344,4,9:02.0,104,92,OKC,NOP,3,home,OffReb,,,OffReb,,P. George,
+345,4,9:01.0,104,92,OKC,NOP,1,home,lost ball,steal,,turnover,,N. Noel,C. Diallo
+346,4,8:55.0,104,92,OKC,NOP,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Noel,S. Hill
+347,4,8:55.0,104,92,OKC,NOP,0,away,FreeThrow,,,make1,0,S. Hill,
+348,4,8:55.0,104,92,OKC,NOP,0,away,OffReb,,,OffReb,,Team,
+349,4,8:55.0,104,92,OKC,NOP,0,away,Sub,,,,,J. Holiday,F. Jackson
+350,4,8:55.0,104,92,OKC,NOP,0,home,Sub,,,,,S. Adams,P. George
+351,4,8:55.0,104,92,OKC,NOP,0,home,Sub,,,,,R. Westbrook,N. Noel
+352,4,8:55.0,104,93,OKC,NOP,0,away,FreeThrow,,,make1,1,S. Hill,
+353,4,8:35.0,104,93,OKC,NOP,20,home,JS,,16,miss2,0,D. Schröder,
+354,4,8:32.0,104,93,OKC,NOP,3,away,DefReb,,,DefReb,,K. Williams,
+355,4,8:26.0,104,95,OKC,NOP,6,away,LU,assist,1,make2,2,C. Diallo,E. Payton
+356,4,8:04.0,104,95,OKC,NOP,22,home,bad pass,steal,,turnover,,R. Westbrook,J. Holiday
+357,4,7:49.0,104,97,OKC,NOP,15,away,LU,,2,make2,2,J. Holiday,
+358,4,7:33.0,104,97,OKC,NOP,16,home,HS,,4,miss2,0,S. Adams,
+359,4,7:31.0,104,97,OKC,NOP,2,away,DefReb,,,DefReb,,K. Williams,
+360,4,7:25.0,104,97,OKC,NOP,6,away,JS,,25,miss3,0,S. Hill,
+361,4,7:22.0,104,97,OKC,NOP,3,home,DefReb,,,DefReb,,R. Westbrook,
+362,4,7:19.0,106,97,OKC,NOP,3,home,LU,assist,2,make2,2,P. Patterson,R. Westbrook
+363,4,7:05.0,106,97,OKC,NOP,14,away,JS,,23,miss3,0,J. Holiday,
+364,4,7:04.0,106,97,OKC,NOP,1,home,DefReb,,,DefReb,,Team,
+365,4,7:04.0,106,97,OKC,NOP,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Williams,R. Westbrook
+366,4,7:04.0,106,97,OKC,NOP,0,away,Sub,,,,,D. Miller,K. Williams
+367,4,6:54.0,109,97,OKC,NOP,10,home,JS,assist,26,make3,3,P. Patterson,R. Westbrook
+368,4,6:38.0,109,100,OKC,NOP,16,away,JS,assist,25,make3,3,D. Miller,E. Payton
+369,4,6:20.0,109,100,OKC,NOP,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,A. Nader
+370,4,6:20.0,110,100,OKC,NOP,0,home,FreeThrow,,,make1,1,A. Nader,
+371,4,6:20.0,110,100,OKC,NOP,0,home,Sub,,,,,P. George,D. Schröder
+372,4,6:20.0,110,100,OKC,NOP,0,home,FreeThrow,,,make1,0,A. Nader,
+373,4,6:17.0,110,100,OKC,NOP,3,home,OffReb,,,OffReb,,A. Nader,
+374,4,6:17.0,110,100,OKC,NOP,0,home,LU,,1,miss2,0,A. Nader,
+375,4,6:15.0,110,100,OKC,NOP,2,away,DefReb,,,DefReb,,J. Holiday,
+376,4,6:10.0,110,102,OKC,NOP,5,away,LU,assist,1,make2,2,C. Diallo,E. Payton
+377,4,5:57.0,110,102,OKC,NOP,13,home,LU,block,6,miss2,0,A. Nader,E. Payton
+378,4,5:57.0,110,102,OKC,NOP,0,home,OffReb,,,OffReb,,Team,
+379,4,5:57.0,110,102,OKC,NOP,0,home,Sub,,,,,T. Ferguson,A. Nader
+380,4,5:50.0,110,102,OKC,NOP,7,home,JS,,13,miss2,0,R. Westbrook,
+381,4,5:47.0,110,102,OKC,NOP,3,away,DefReb,,,DefReb,,E. Payton,
+382,4,5:38.0,110,102,OKC,NOP,9,away,JS,,26,miss3,0,J. Holiday,
+383,4,5:36.0,110,102,OKC,NOP,2,home,DefReb,,,DefReb,,P. George,
+384,4,5:30.0,112,102,OKC,NOP,6,home,JS,,18,make2,2,P. George,
+385,4,5:12.0,112,102,OKC,NOP,18,away,JS,,23,miss3,0,D. Miller,
+386,4,5:10.0,112,102,OKC,NOP,2,home,DefReb,,,DefReb,,P. George,
+387,4,4:58.0,112,102,OKC,NOP,12,home,JS,,15,miss2,0,R. Westbrook,
+388,4,4:55.0,112,102,OKC,NOP,3,home,OffReb,,,OffReb,,P. Patterson,
+389,4,4:55.0,114,102,OKC,NOP,0,home,LU,,1,make2,2,P. Patterson,
+390,4,4:55.0,114,102,OKC,NOP,0,away,Timeout,,,,,,
+391,4,4:55.0,114,102,OKC,NOP,0,away,Sub,,,,,F. Jackson,E. Payton
+392,4,4:55.0,114,102,OKC,NOP,0,home,Sub,,,,,J. Grant,P. Patterson
+393,4,4:46.0,114,102,OKC,NOP,9,away,LU,,2,miss2,0,C. Diallo,
+394,4,4:44.0,114,102,OKC,NOP,2,home,DefReb,,,DefReb,,R. Westbrook,
+395,4,4:42.0,114,102,OKC,NOP,2,home,lost ball,steal,,turnover,,R. Westbrook,J. Holiday
+396,4,4:37.0,114,102,OKC,NOP,5,away,LU,block,1,miss2,0,C. Diallo,P. George
+397,4,4:33.0,114,102,OKC,NOP,4,away,OffReb,,,OffReb,,C. Diallo,
+398,4,4:33.0,114,102,OKC,NOP,0,away,LU,,2,miss2,0,C. Diallo,
+399,4,4:30.0,114,102,OKC,NOP,3,home,DefReb,,,DefReb,,P. George,
+400,4,4:21.0,114,102,OKC,NOP,9,home,LU,,2,miss2,0,R. Westbrook,
+401,4,4:19.0,114,102,OKC,NOP,2,away,DefReb,,,DefReb,,F. Jackson,
+402,4,4:08.0,114,104,OKC,NOP,11,away,LU,,1,make2,2,J. Holiday,
+403,4,3:49.0,114,104,OKC,NOP,19,home,JS,,19,miss2,0,P. George,
+404,4,3:46.0,114,104,OKC,NOP,3,away,DefReb,,,DefReb,,C. Diallo,
+405,4,3:40.0,114,107,OKC,NOP,6,away,JS,assist,25,make3,3,D. Miller,J. Holiday
+406,4,3:24.0,116,107,OKC,NOP,16,home,LU,,2,make2,2,R. Westbrook,
+407,4,3:09.0,116,109,OKC,NOP,15,away,LU,,1,make2,2,J. Holiday,
+408,4,2:54.0,116,109,OKC,NOP,15,home,LU,,5,miss2,0,P. George,
+409,4,2:54.0,116,109,OKC,NOP,0,away,DefReb,,,DefReb,,Team,
+410,4,2:54.0,116,109,OKC,NOP,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Grant,D. Miller
+411,4,2:47.0,116,109,OKC,NOP,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,C. Diallo
+412,4,2:47.0,116,110,OKC,NOP,0,away,FreeThrow,,,make1,1,C. Diallo,
+413,4,2:47.0,116,110,OKC,NOP,0,away,FreeThrow,,,make1,0,C. Diallo,
+414,4,2:44.0,116,110,OKC,NOP,3,home,DefReb,,,DefReb,,T. Ferguson,
+415,4,2:36.0,116,110,OKC,NOP,8,home,JS,,25,miss3,0,R. Westbrook,
+416,4,2:34.0,116,110,OKC,NOP,2,home,OffReb,,,OffReb,,P. George,
+417,4,2:34.0,116,110,OKC,NOP,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Diallo,P. George
+418,4,2:34.0,116,110,OKC,NOP,0,home,FreeThrow,,,make1,0,P. George,
+419,4,2:34.0,116,110,OKC,NOP,0,home,OffReb,,,OffReb,,Team,
+420,4,2:34.0,116,110,OKC,NOP,0,home,FreeThrow,,,make1,0,P. George,
+421,4,2:34.0,116,110,OKC,NOP,0,home,OffReb,,,OffReb,,Team,
+422,4,2:26.0,116,110,OKC,NOP,8,home,lost ball,steal,,turnover,,S. Adams,S. Hill
+423,4,2:23.0,116,110,OKC,NOP,3,away,LU,,3,miss2,0,F. Jackson,
+424,4,2:21.0,116,110,OKC,NOP,2,home,DefReb,,,DefReb,,P. George,
+425,4,2:17.0,118,110,OKC,NOP,4,home,LU,,1,make2,2,R. Westbrook,
+426,4,2:10.0,118,113,OKC,NOP,7,away,JS,,26,make3,3,J. Holiday,
+427,4,1:47.0,121,113,OKC,NOP,23,home,JS,assist,25,make3,3,P. George,S. Adams
+428,4,1:38.0,121,116,OKC,NOP,9,away,JS,,25,make3,3,J. Holiday,
+429,4,1:18.0,121,116,OKC,NOP,20,home,JS,block,9,miss2,0,T. Ferguson,C. Diallo
+430,4,1:15.0,121,116,OKC,NOP,3,away,DefReb,,,DefReb,,S. Hill,
+431,4,1:00.0,121,116,OKC,NOP,15,away,JS,,22,miss3,0,F. Jackson,
+432,4,0:57.0,121,116,OKC,NOP,3,home,DefReb,,,DefReb,,S. Adams,
+433,4,0:45.0,121,116,OKC,NOP,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,R. Westbrook
+434,4,0:45.0,122,116,OKC,NOP,0,home,FreeThrow,,,make1,1,R. Westbrook,
+435,4,0:45.0,122,116,OKC,NOP,0,home,FreeThrow,,,make1,0,R. Westbrook,
+436,4,0:45.0,122,116,OKC,NOP,0,away,DefReb,,,DefReb,,C. Diallo,
+437,4,0:45.0,122,116,OKC,NOP,0,away,Timeout,,,,,,
+438,4,0:37.0,122,116,OKC,NOP,8,away,JS,,23,miss3,0,C. Diallo,
+439,4,0:33.0,122,116,OKC,NOP,4,home,DefReb,,,DefReb,,J. Grant,
+440,4,0:18.0,122,116,OKC,NOP,15,home,OutOfBoundsLB,,,turnover,,R. Westbrook,
+441,4,0:18.0,122,116,OKC,NOP,0,away,Timeout,,,,,,
+442,4,0:18.0,122,116,OKC,NOP,0,away,Sub,,,,,I. Clark,S. Hill
+443,4,0:14.0,122,116,OKC,NOP,4,away,JS,,21,miss2,0,I. Clark,
+444,4,0:13.0,122,116,OKC,NOP,1,home,DefReb,,,DefReb,,R. Westbrook,
+445,4,0:13.0,122,116,OKC,NOP,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,F. Jackson,R. Westbrook
+446,4,0:13.0,122,116,OKC,NOP,0,home,FreeThrow,,,make1,0,R. Westbrook,
+447,4,0:13.0,122,116,OKC,NOP,0,home,OffReb,,,OffReb,,Team,
+448,4,0:13.0,122,116,OKC,NOP,0,home,FreeThrow,,,make1,0,R. Westbrook,
+449,4,0:11.0,122,116,OKC,NOP,2,away,DefReb,,,DefReb,,J. Holiday,
+450,4,0:02.0,122,116,OKC,NOP,9,away,JS,,27,miss3,0,D. Miller,
+451,4,0:02.0,122,116,OKC,NOP,0,home,DefReb,,,DefReb,,T. Ferguson,

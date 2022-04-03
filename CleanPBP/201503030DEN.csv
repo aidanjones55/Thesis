@@ -1,0 +1,462 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:40.0,0,0,DEN,MIL,20,home,JS,,21,miss2,0,R. Foye,
+1,1,11:39.0,0,0,DEN,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+2,1,11:36.0,0,0,DEN,MIL,3,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Antetokounmpo,D. Gallinari
+3,1,11:36.0,0,0,DEN,MIL,0,away,OffensiveFoul,,,turnover,,G. Antetokounmpo,
+4,1,11:10.0,0,0,DEN,MIL,26,home,JS,,24,miss3,0,T. Lawson,
+5,1,11:08.0,0,0,DEN,MIL,2,away,DefReb,,,DefReb,,K. Middleton,
+6,1,10:57.0,0,0,DEN,MIL,11,away,HS,,5,miss2,0,K. Middleton,
+7,1,10:55.0,0,0,DEN,MIL,2,home,DefReb,,,DefReb,,W. Chandler,
+8,1,10:48.0,3,0,DEN,MIL,7,home,JS,assist,24,make3,3,D. Gallinari,W. Chandler
+9,1,10:47.0,3,0,DEN,MIL,1,home,TechnicalFoul,,,TechnicalFoul,,K. Faried,
+10,1,10:47.0,3,0,DEN,MIL,0,away,TechnicalFoul,,,TechnicalFoul,,Z. Pachulia,
+11,1,10:37.0,3,0,DEN,MIL,10,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,Z. Pachulia,K. Faried
+12,1,10:37.0,3,0,DEN,MIL,0,away,OffensiveFoul,,,turnover,,Z. Pachulia,
+13,1,10:16.0,6,0,DEN,MIL,21,home,JS,assist,24,make3,3,D. Gallinari,R. Foye
+14,1,10:00.0,6,0,DEN,MIL,16,away,LU,,1,miss2,0,M. Carter-Williams,
+15,1,9:59.0,6,0,DEN,MIL,1,home,DefReb,,,DefReb,,K. Faried,
+16,1,9:50.0,6,0,DEN,MIL,9,home,JS,,10,miss2,0,K. Faried,
+17,1,9:48.0,6,0,DEN,MIL,2,away,DefReb,,,DefReb,,G. Antetokounmpo,
+18,1,9:44.0,6,0,DEN,MIL,4,away,BadPass,steal,,turnover,,M. Carter-Williams,D. Gallinari
+19,1,9:39.0,8,0,DEN,MIL,5,home,DK,,0,make2,2,D. Gallinari,
+20,1,9:22.0,8,0,DEN,MIL,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Gallinari,G. Antetokounmpo
+21,1,9:18.0,8,0,DEN,MIL,4,away,D3SecTech,,,,,,
+22,1,9:18.0,8,1,DEN,MIL,0,away,FreeThrow,,,make1,1,K. Middleton makes technical free throw,
+23,1,9:09.0,8,1,DEN,MIL,9,away,JS,,19,miss2,0,E. İlyasova,
+24,1,9:08.0,8,1,DEN,MIL,1,home,DefReb,,,DefReb,,D. Gallinari,
+25,1,9:01.0,8,1,DEN,MIL,7,home,LostBall,steal,,turnover,,D. Gallinari,E. İlyasova
+26,1,8:56.0,8,3,DEN,MIL,5,away,DK,assist,0,make2,2,G. Antetokounmpo,E. İlyasova
+27,1,8:41.0,11,3,DEN,MIL,15,home,JS,assist,25,make3,3,W. Chandler,R. Foye
+28,1,8:25.0,11,3,DEN,MIL,16,away,LostBall,,,turnover,,Z. Pachulia,
+29,1,8:14.0,13,3,DEN,MIL,11,home,JS,assist,8,make2,2,K. Faried,T. Lawson
+30,1,8:13.0,13,3,DEN,MIL,1,away,Timeout,,,,,,
+31,1,8:13.0,13,3,DEN,MIL,0,away,Sub,,,,,J. Bayless,G. Antetokounmpo
+32,1,7:56.0,13,6,DEN,MIL,17,away,JS,assist,24,make3,3,K. Middleton,M. Carter-Williams
+33,1,7:36.0,15,6,DEN,MIL,20,home,JS,assist,9,make2,2,K. Faried,R. Foye
+34,1,7:36.0,15,6,DEN,MIL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,Z. Pachulia,K. Faried
+35,1,7:36.0,15,6,DEN,MIL,0,away,Sub,,,,,J. Henson,Z. Pachulia
+36,1,7:36.0,15,6,DEN,MIL,0,home,FreeThrow,,,make1,0,K. Faried,
+37,1,7:35.0,15,6,DEN,MIL,1,away,DefReb,,,DefReb,,J. Henson,
+38,1,7:24.0,15,6,DEN,MIL,11,away,D3SecTech,,,,,,
+39,1,7:24.0,15,7,DEN,MIL,0,away,FreeThrow,,,make1,1,K. Middleton makes technical free throw,
+40,1,7:16.0,15,9,DEN,MIL,8,away,LU,,1,make2,2,M. Carter-Williams,
+41,1,7:02.0,15,9,DEN,MIL,14,home,LU,block,1,miss2,0,T. Lawson,M. Carter-Williams
+42,1,7:01.0,15,9,DEN,MIL,1,home,OffReb,,,OffReb,,Team,
+43,1,6:53.0,18,9,DEN,MIL,8,home,JS,assist,26,make3,3,R. Foye,T. Lawson
+44,1,6:26.0,18,9,DEN,MIL,27,away,JS,,11,miss2,0,J. Bayless,
+45,1,6:25.0,18,9,DEN,MIL,1,home,DefReb,,,DefReb,,K. Faried,
+46,1,6:19.0,20,9,DEN,MIL,6,home,DK,assist,0,make2,2,K. Faried,T. Lawson
+47,1,6:07.0,20,9,DEN,MIL,12,away,JS,,17,miss2,0,K. Middleton,
+48,1,6:06.0,20,9,DEN,MIL,1,away,OffReb,,,OffReb,,Team,
+49,1,5:55.0,20,12,DEN,MIL,11,away,JS,assist,23,make3,3,M. Carter-Williams,K. Middleton
+50,1,5:50.0,20,12,DEN,MIL,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Henson,K. Faried
+51,1,5:50.0,20,12,DEN,MIL,0,away,Sub,,,,,J. Dudley,K. Middleton
+52,1,5:38.0,22,12,DEN,MIL,12,home,LU,assist,1,make2,2,W. Chandler,T. Lawson
+53,1,5:22.0,22,14,DEN,MIL,16,away,LU,assist,0,make2,2,J. Dudley,J. Bayless
+54,1,5:08.0,22,14,DEN,MIL,14,home,JS,,23,miss3,0,D. Gallinari,
+55,1,5:07.0,22,14,DEN,MIL,1,home,OffReb,,,OffReb,,Team,
+56,1,5:07.0,22,14,DEN,MIL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Bayless,K. Faried
+57,1,5:07.0,22,14,DEN,MIL,0,away,Sub,,,,,T. Ennis,M. Carter-Williams
+58,1,5:07.0,22,14,DEN,MIL,0,home,Sub,,,,,J. Hickson,K. Faried
+59,1,5:01.0,22,14,DEN,MIL,6,home,JS,,3,miss2,0,J. Hickson,
+60,1,4:59.0,22,14,DEN,MIL,2,away,DefReb,,,DefReb,,J. Bayless,
+61,1,4:56.0,22,14,DEN,MIL,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Foye,J. Bayless
+62,1,4:56.0,22,14,DEN,MIL,0,home,Sub,,,,,J. Nelson,R. Foye
+63,1,4:56.0,22,14,DEN,MIL,0,home,Sub,,,,,W. Barton,T. Lawson
+64,1,4:49.0,22,16,DEN,MIL,7,away,LU,,1,make2,2,J. Henson,
+65,1,4:49.0,22,16,DEN,MIL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hickson,J. Henson
+66,1,4:49.0,22,17,DEN,MIL,0,away,FreeThrow,,,make1,1,J. Henson,
+67,1,4:34.0,22,17,DEN,MIL,15,home,JS,,22,miss3,0,D. Gallinari,
+68,1,4:32.0,22,17,DEN,MIL,2,away,DefReb,,,DefReb,,J. Henson,
+69,1,4:21.0,22,20,DEN,MIL,11,away,JS,assist,24,make3,3,T. Ennis,E. İlyasova
+70,1,4:04.0,22,20,DEN,MIL,17,home,LU,,2,miss2,0,J. Hickson,
+71,1,4:03.0,22,20,DEN,MIL,1,away,DefReb,,,DefReb,,J. Dudley,
+72,1,3:47.0,22,20,DEN,MIL,16,away,JS,,24,miss3,0,J. Bayless,
+73,1,3:46.0,22,20,DEN,MIL,1,home,DefReb,,,DefReb,,D. Gallinari,
+74,1,3:41.0,22,20,DEN,MIL,5,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Gallinari,E. İlyasova
+75,1,3:41.0,22,20,DEN,MIL,0,home,OffensiveFoul,,,turnover,,D. Gallinari,
+76,1,3:41.0,22,20,DEN,MIL,0,home,Sub,,,,,D. Arthur,D. Gallinari
+77,1,3:25.0,22,20,DEN,MIL,16,away,BadPass,steal,,turnover,,E. İlyasova,J. Nelson
+78,1,3:23.0,22,20,DEN,MIL,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. İlyasova,W. Barton
+79,1,3:23.0,22,20,DEN,MIL,0,home,FreeThrow,,,make1,0,W. Barton,
+80,1,3:23.0,22,20,DEN,MIL,0,home,OffReb,,,OffReb,,Team,
+81,1,3:23.0,22,20,DEN,MIL,0,away,Sub,,,,,G. Antetokounmpo,E. İlyasova
+82,1,3:23.0,23,20,DEN,MIL,0,home,FreeThrow,,,make1,1,W. Barton,
+83,1,3:05.0,23,22,DEN,MIL,18,away,HS,assist,6,make2,2,J. Henson,J. Bayless
+84,1,2:53.0,23,22,DEN,MIL,12,home,JS,,22,miss3,0,W. Barton,
+85,1,2:51.0,23,22,DEN,MIL,2,away,DefReb,,,DefReb,,G. Antetokounmpo,
+86,1,2:32.0,23,25,DEN,MIL,19,away,JS,assist,24,make3,3,J. Bayless,T. Ennis
+87,1,2:17.0,25,25,DEN,MIL,15,home,JS,assist,10,make2,2,D. Arthur,J. Nelson
+88,1,2:05.0,25,25,DEN,MIL,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Nelson,J. Dudley
+89,1,2:05.0,25,25,DEN,MIL,0,home,Timeout,,,,,,
+90,1,2:05.0,25,25,DEN,MIL,0,home,Sub,,,,,G. Harris,W. Chandler
+91,1,2:01.0,25,27,DEN,MIL,4,away,DK,assist,0,make2,2,J. Bayless,J. Henson
+92,1,1:48.0,27,27,DEN,MIL,13,home,LU,,2,make2,2,J. Nelson,
+93,1,1:34.0,27,29,DEN,MIL,14,away,LU,,1,make2,2,G. Antetokounmpo,
+94,1,1:18.0,27,29,DEN,MIL,16,home,JS,,23,miss3,0,G. Harris,
+95,1,1:17.0,27,29,DEN,MIL,1,home,OffReb,,,OffReb,,J. Hickson,
+96,1,1:14.0,29,29,DEN,MIL,3,home,DK,,0,make2,2,J. Hickson,
+97,1,0:44.0,29,29,DEN,MIL,30,away,JS,,40,miss3,0,T. Ennis,
+98,1,0:43.0,29,29,DEN,MIL,1,home,DefReb,,,DefReb,,J. Hickson,
+99,1,0:38.0,29,29,DEN,MIL,5,home,JS,,24,miss3,0,J. Nelson,
+100,1,0:38.0,29,29,DEN,MIL,0,away,DefReb,,,DefReb,,Team,
+101,1,0:21.0,29,29,DEN,MIL,17,home,Sub,,,,,D. Gallinari,J. Nelson
+102,1,0:14.0,29,29,DEN,MIL,7,away,JS,,16,miss2,0,J. Dudley,
+103,1,0:12.0,29,29,DEN,MIL,2,home,DefReb,,,DefReb,,J. Hickson,
+104,1,0:03.0,29,29,DEN,MIL,9,home,LostBall,steal,,turnover,,W. Barton,T. Ennis
+105,1,0:01.0,29,29,DEN,MIL,2,away,DK,,1,miss2,0,G. Antetokounmpo,
+106,1,0:00.0,29,29,DEN,MIL,1,away,OffReb,,,OffReb,,Team,
+107,2,11:37.0,29,29,DEN,MIL,23,away,JS,,12,miss2,0,K. Middleton,
+108,2,11:35.0,29,29,DEN,MIL,2,home,DefReb,,,DefReb,,W. Barton,
+109,2,11:18.0,29,29,DEN,MIL,17,home,Traveling,,,turnover,,G. Harris,
+110,2,11:09.0,29,31,DEN,MIL,9,away,JS,,9,make2,2,K. Middleton,
+111,2,11:09.0,29,31,DEN,MIL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Harris,K. Middleton
+112,2,11:09.0,29,32,DEN,MIL,0,away,FreeThrow,,,make1,1,K. Middleton,
+113,2,10:59.0,29,32,DEN,MIL,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ennis,J. Nelson
+114,2,10:50.0,29,32,DEN,MIL,9,home,LostBall,steal,,turnover,,J. Nelson,K. Middleton
+115,2,10:45.0,29,34,DEN,MIL,5,away,LU,assist,1,make2,2,T. Ennis,K. Middleton
+116,2,10:36.0,31,34,DEN,MIL,9,home,JS,assist,19,make2,2,D. Arthur,W. Barton
+117,2,10:28.0,31,34,DEN,MIL,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Arthur,T. Ennis
+118,2,10:19.0,31,36,DEN,MIL,9,away,JS,assist,20,make2,2,G. Antetokounmpo,T. Ennis
+119,2,10:06.0,31,36,DEN,MIL,13,home,JS,,17,miss2,0,D. Arthur,
+120,2,10:04.0,31,36,DEN,MIL,2,home,OffReb,,,OffReb,,J. Hickson,
+121,2,10:01.0,31,36,DEN,MIL,3,home,LU,,2,miss2,0,J. Hickson,
+122,2,10:00.0,31,36,DEN,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+123,2,9:58.0,31,36,DEN,MIL,2,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Plumlee,D. Arthur
+124,2,9:58.0,31,36,DEN,MIL,0,away,OffensiveFoul,,,turnover,,M. Plumlee,
+125,2,9:58.0,31,36,DEN,MIL,0,home,Sub,,,,,K. Faried,G. Harris
+126,2,9:46.0,33,36,DEN,MIL,12,home,LU,assist,2,make2,2,J. Hickson,J. Nelson
+127,2,9:29.0,33,36,DEN,MIL,17,away,JS,,24,miss3,0,J. Dudley,
+128,2,9:27.0,33,36,DEN,MIL,2,home,DefReb,,,DefReb,,W. Barton,
+129,2,9:14.0,33,36,DEN,MIL,13,home,Sub,,,,,W. Chandler,D. Arthur
+130,2,9:14.0,33,36,DEN,MIL,0,away,Sub,,,,,E. İlyasova,T. Ennis
+131,2,9:14.0,33,36,DEN,MIL,0,away,Sub,,,,,M. Carter-Williams,J. Dudley
+132,2,9:14.0,33,36,DEN,MIL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. İlyasova,K. Faried
+133,2,9:11.0,33,36,DEN,MIL,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Middleton,W. Barton
+134,2,9:11.0,33,36,DEN,MIL,0,away,TechnicalFoul,,,TechnicalFoul,,K. Middleton,
+135,2,9:11.0,33,36,DEN,MIL,0,home,FreeThrow,,,make1,0,W. Barton misses technical free throw,
+136,2,9:11.0,33,36,DEN,MIL,0,home,OffReb,,,OffReb,,Team,
+137,2,9:11.0,33,36,DEN,MIL,0,home,FreeThrow,,,make1,0,W. Barton,
+138,2,9:11.0,33,36,DEN,MIL,0,home,OffReb,,,OffReb,,Team,
+139,2,9:11.0,34,36,DEN,MIL,0,home,FreeThrow,,,make1,1,W. Barton,
+140,2,9:01.0,34,36,DEN,MIL,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Chandler,G. Antetokounmpo
+141,2,8:46.0,34,38,DEN,MIL,15,away,JS,,4,make2,2,G. Antetokounmpo,
+142,2,8:35.0,34,38,DEN,MIL,11,home,JS,,25,miss3,0,J. Nelson,
+143,2,8:33.0,34,38,DEN,MIL,2,away,DefReb,,,DefReb,,K. Middleton,
+144,2,8:29.0,34,38,DEN,MIL,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Barton,K. Middleton
+145,2,8:29.0,34,38,DEN,MIL,0,home,Sub,,,,,D. Gallinari,J. Hickson
+146,2,8:29.0,34,38,DEN,MIL,0,home,Sub,,,,,R. Foye,J. Nelson
+147,2,8:29.0,34,38,DEN,MIL,0,home,Sub,,,,,T. Lawson,W. Barton
+148,2,8:29.0,34,39,DEN,MIL,0,away,FreeThrow,,,make1,1,K. Middleton,
+149,2,8:29.0,34,40,DEN,MIL,0,away,FreeThrow,,,make1,1,K. Middleton,
+150,2,8:10.0,34,40,DEN,MIL,19,home,LU,,2,miss2,0,W. Chandler,
+151,2,8:09.0,34,40,DEN,MIL,1,home,OffReb,,,OffReb,,K. Faried,
+152,2,8:08.0,34,40,DEN,MIL,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Carter-Williams,K. Faried
+153,2,8:08.0,35,40,DEN,MIL,0,home,FreeThrow,,,make1,1,K. Faried,
+154,2,8:08.0,36,40,DEN,MIL,0,home,FreeThrow,,,make1,1,K. Faried,
+155,2,7:57.0,36,40,DEN,MIL,11,away,LU,,2,miss2,0,M. Carter-Williams,
+156,2,7:55.0,36,40,DEN,MIL,2,away,OffReb,,,OffReb,,M. Plumlee,
+157,2,7:55.0,36,40,DEN,MIL,0,away,LU,,1,miss2,0,M. Plumlee,
+158,2,7:53.0,36,40,DEN,MIL,2,away,OffReb,,,OffReb,,M. Plumlee,
+159,2,7:46.0,36,43,DEN,MIL,7,away,JS,assist,24,make3,3,E. İlyasova,G. Antetokounmpo
+160,2,7:30.0,36,43,DEN,MIL,16,home,JS,,25,miss3,0,W. Chandler,
+161,2,7:28.0,36,43,DEN,MIL,2,away,DefReb,,,DefReb,,M. Carter-Williams,
+162,2,7:21.0,36,43,DEN,MIL,7,away,JS,,17,miss2,0,M. Carter-Williams,
+163,2,7:20.0,36,43,DEN,MIL,1,home,DefReb,,,DefReb,,K. Faried,
+164,2,7:10.0,36,43,DEN,MIL,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,K. Faried
+165,2,7:10.0,37,43,DEN,MIL,0,home,FreeThrow,,,make1,1,K. Faried,
+166,2,7:10.0,37,43,DEN,MIL,0,away,Sub,,,,,J. Bayless,G. Antetokounmpo
+167,2,7:10.0,38,43,DEN,MIL,0,home,FreeThrow,,,make1,1,K. Faried,
+168,2,6:54.0,38,43,DEN,MIL,16,away,JS,,5,miss2,0,E. İlyasova,
+169,2,6:53.0,38,43,DEN,MIL,1,away,OffReb,,,OffReb,,Team,
+170,2,6:53.0,38,43,DEN,MIL,0,home,Sub,,,,,D. Arthur,K. Faried
+171,2,6:41.0,38,45,DEN,MIL,12,away,JS,assist,18,make2,2,E. İlyasova,K. Middleton
+172,2,6:29.0,40,45,DEN,MIL,12,home,LU,assist,2,make2,2,D. Gallinari,D. Arthur
+173,2,6:07.0,40,45,DEN,MIL,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Arthur,J. Bayless
+174,2,6:07.0,40,46,DEN,MIL,0,away,FreeThrow,,,make1,1,J. Bayless,
+175,2,6:07.0,40,46,DEN,MIL,0,away,Sub,,,,,J. Henson,M. Plumlee
+176,2,6:07.0,40,47,DEN,MIL,0,away,FreeThrow,,,make1,1,J. Bayless,
+177,2,5:56.0,40,47,DEN,MIL,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. İlyasova,D. Gallinari
+178,2,5:56.0,40,47,DEN,MIL,0,home,Timeout,,,,,,
+179,2,5:56.0,40,47,DEN,MIL,0,away,Sub,,,,,J. Dudley,E. İlyasova
+180,2,5:56.0,40,47,DEN,MIL,0,away,Sub,,,,,T. Ennis,M. Carter-Williams
+181,2,5:56.0,41,47,DEN,MIL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+182,2,5:56.0,42,47,DEN,MIL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+183,2,5:32.0,42,47,DEN,MIL,24,away,JS,,24,miss3,0,T. Ennis,
+184,2,5:30.0,42,47,DEN,MIL,2,home,DefReb,,,DefReb,,W. Chandler,
+185,2,5:21.0,42,47,DEN,MIL,9,home,JS,,24,miss3,0,R. Foye,
+186,2,5:19.0,42,47,DEN,MIL,2,away,DefReb,,,DefReb,,J. Dudley,
+187,2,5:09.0,42,47,DEN,MIL,10,away,BadPass,steal,,turnover,,J. Bayless,W. Chandler
+188,2,5:01.0,42,47,DEN,MIL,8,home,JS,,25,miss3,0,D. Gallinari,
+189,2,5:00.0,42,47,DEN,MIL,1,home,OffReb,,,OffReb,,D. Arthur,
+190,2,4:46.0,42,47,DEN,MIL,14,home,JS,,10,miss2,0,W. Chandler,
+191,2,4:45.0,42,47,DEN,MIL,1,away,DefReb,,,DefReb,,J. Dudley,
+192,2,4:35.0,42,47,DEN,MIL,10,away,JS,,8,miss2,0,J. Bayless,
+193,2,4:34.0,42,47,DEN,MIL,1,away,OffReb,,,OffReb,,Team,
+194,2,4:34.0,42,47,DEN,MIL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Foye,J. Henson
+195,2,4:34.0,42,47,DEN,MIL,0,away,FreeThrow,,,make1,0,J. Henson,
+196,2,4:34.0,42,47,DEN,MIL,0,away,OffReb,,,OffReb,,Team,
+197,2,4:34.0,42,47,DEN,MIL,0,home,Sub,,,,,W. Barton,R. Foye
+198,2,4:34.0,42,48,DEN,MIL,0,away,FreeThrow,,,make1,1,J. Henson,
+199,2,4:14.0,44,48,DEN,MIL,20,home,DK,assist,0,make2,2,D. Gallinari,W. Chandler
+200,2,3:55.0,44,50,DEN,MIL,19,away,LU,assist,1,make2,2,J. Henson,J. Dudley
+201,2,3:46.0,44,50,DEN,MIL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ennis,T. Lawson
+202,2,3:46.0,45,50,DEN,MIL,0,home,FreeThrow,,,make1,1,T. Lawson,
+203,2,3:46.0,45,50,DEN,MIL,0,away,Sub,,,,,M. Carter-Williams,T. Ennis
+204,2,3:46.0,46,50,DEN,MIL,0,home,FreeThrow,,,make1,1,T. Lawson,
+205,2,3:36.0,46,50,DEN,MIL,10,away,BadPass,steal,,turnover,,M. Carter-Williams,D. Arthur
+206,2,3:31.0,48,50,DEN,MIL,5,home,LU,assist,0,make2,2,W. Chandler,T. Lawson
+207,2,3:21.0,48,50,DEN,MIL,10,away,JS,,24,miss3,0,M. Carter-Williams,
+208,2,3:20.0,48,50,DEN,MIL,1,home,DefReb,,,DefReb,,D. Gallinari,
+209,2,3:09.0,50,50,DEN,MIL,11,home,LU,assist,2,make2,2,D. Arthur,W. Chandler
+210,2,3:09.0,50,50,DEN,MIL,0,away,Timeout,,,,,,
+211,2,3:09.0,50,50,DEN,MIL,0,home,Sub,,,,,K. Faried,D. Arthur
+212,2,3:09.0,50,50,DEN,MIL,0,away,Sub,,,,,G. Antetokounmpo,K. Middleton
+213,2,2:54.0,50,50,DEN,MIL,15,away,JS,block,4,miss2,0,M. Carter-Williams,K. Faried
+214,2,2:53.0,50,50,DEN,MIL,1,away,OffReb,,,OffReb,,Team,
+215,2,2:52.0,50,50,DEN,MIL,1,away,LU,block,1,miss2,0,G. Antetokounmpo,D. Gallinari
+216,2,2:51.0,50,50,DEN,MIL,1,away,OffReb,,,OffReb,,Team,
+217,2,2:49.0,50,50,DEN,MIL,2,away,BadPass,steal,,turnover,,J. Dudley,T. Lawson
+218,2,2:44.0,50,50,DEN,MIL,5,home,LU,,1,miss2,0,W. Chandler,
+219,2,2:44.0,50,50,DEN,MIL,0,home,OffReb,,,OffReb,,Team,
+220,2,2:34.0,50,50,DEN,MIL,10,home,JS,,22,miss2,0,D. Gallinari,
+221,2,2:33.0,50,50,DEN,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+222,2,2:19.0,50,50,DEN,MIL,14,away,HS,,7,miss2,0,J. Henson,
+223,2,2:18.0,50,50,DEN,MIL,1,home,DefReb,,,DefReb,,D. Gallinari,
+224,2,2:05.0,50,50,DEN,MIL,13,home,JS,,22,miss3,0,D. Gallinari,
+225,2,2:04.0,50,50,DEN,MIL,1,away,DefReb,,,DefReb,,J. Bayless,
+226,2,1:57.0,50,50,DEN,MIL,7,away,JS,,23,miss3,0,M. Carter-Williams,
+227,2,1:56.0,50,50,DEN,MIL,1,home,DefReb,,,DefReb,,K. Faried,
+228,2,1:50.0,50,50,DEN,MIL,6,home,BadPass,steal,,turnover,,W. Barton,J. Henson
+229,2,1:50.0,50,50,DEN,MIL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Chandler,M. Carter-Williams
+230,2,1:50.0,50,50,DEN,MIL,0,away,FreeThrow,,,make1,0,M. Carter-Williams,
+231,2,1:50.0,50,50,DEN,MIL,0,away,OffReb,,,OffReb,,Team,
+232,2,1:50.0,50,50,DEN,MIL,0,away,FreeThrow,,,make1,0,M. Carter-Williams,
+233,2,1:49.0,50,50,DEN,MIL,1,away,OffReb,,,OffReb,,Team,
+234,2,1:38.0,50,50,DEN,MIL,11,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Antetokounmpo,D. Gallinari
+235,2,1:38.0,50,50,DEN,MIL,0,away,OffensiveFoul,,,turnover,,G. Antetokounmpo,
+236,2,1:25.0,53,50,DEN,MIL,13,home,JS,assist,22,make3,3,D. Gallinari,T. Lawson
+237,2,1:03.0,53,50,DEN,MIL,22,away,BadPass,steal,,turnover,,G. Antetokounmpo,W. Barton
+238,2,1:00.0,53,50,DEN,MIL,3,home,LU,block,1,miss2,0,W. Barton,G. Antetokounmpo
+239,2,0:59.0,53,50,DEN,MIL,1,home,OffReb,,,OffReb,,Team,
+240,2,0:59.0,53,50,DEN,MIL,0,home,Timeout,,,,,,
+241,2,0:49.0,53,50,DEN,MIL,10,home,JS,,25,miss3,0,W. Chandler,
+242,2,0:48.0,53,50,DEN,MIL,1,away,DefReb,,,DefReb,,M. Carter-Williams,
+243,2,0:37.0,53,50,DEN,MIL,11,away,JS,,24,miss3,0,J. Dudley,
+244,2,0:36.0,53,50,DEN,MIL,1,home,DefReb,,,DefReb,,K. Faried,
+245,2,0:30.0,55,50,DEN,MIL,6,home,LU,,0,make2,2,T. Lawson,
+246,2,0:10.0,55,50,DEN,MIL,20,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Chandler,G. Antetokounmpo
+247,2,0:10.0,55,50,DEN,MIL,0,away,FreeThrow,,,make1,0,G. Antetokounmpo,
+248,2,0:10.0,55,50,DEN,MIL,0,away,OffReb,,,OffReb,,Team,
+249,2,0:10.0,55,50,DEN,MIL,0,home,Sub,,,,,E. Green,W. Chandler
+250,2,0:10.0,55,51,DEN,MIL,0,away,FreeThrow,,,make1,1,G. Antetokounmpo,
+251,2,0:01.0,55,51,DEN,MIL,9,home,LU,block,2,miss2,0,T. Lawson,J. Henson
+252,2,0:00.0,55,51,DEN,MIL,1,home,OffReb,,,OffReb,,Team,
+253,3,11:42.0,55,51,DEN,MIL,18,away,JS,,10,miss2,0,K. Middleton,
+254,3,11:40.0,55,51,DEN,MIL,2,home,DefReb,,,DefReb,,K. Faried,
+255,3,11:30.0,55,51,DEN,MIL,10,home,LU,,2,miss2,0,K. Faried,
+256,3,11:29.0,55,51,DEN,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+257,3,11:12.0,55,53,DEN,MIL,17,away,JS,,4,make2,2,M. Carter-Williams,
+258,3,10:54.0,55,53,DEN,MIL,18,home,OffGoaltending,,,turnover,,K. Faried,
+259,3,10:32.0,55,53,DEN,MIL,22,away,JS,,14,miss2,0,K. Middleton,
+260,3,10:30.0,55,53,DEN,MIL,2,home,DefReb,,,DefReb,,D. Gallinari,
+261,3,10:17.0,55,53,DEN,MIL,13,home,JS,,24,miss3,0,R. Foye,
+262,3,10:15.0,55,53,DEN,MIL,2,away,DefReb,,,DefReb,,G. Antetokounmpo,
+263,3,10:06.0,55,53,DEN,MIL,9,away,JS,,6,miss2,0,K. Middleton,
+264,3,10:05.0,55,53,DEN,MIL,1,home,DefReb,,,DefReb,,Team,
+265,3,9:49.0,57,53,DEN,MIL,16,home,JS,,15,make2,2,T. Lawson,
+266,3,9:31.0,57,53,DEN,MIL,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Lawson,M. Carter-Williams
+267,3,9:22.0,57,53,DEN,MIL,9,away,JS,,2,miss2,0,K. Middleton,
+268,3,9:20.0,57,53,DEN,MIL,2,away,OffReb,,,OffReb,,K. Middleton,
+269,3,9:19.0,57,55,DEN,MIL,1,away,LU,,2,make2,2,K. Middleton,
+270,3,9:08.0,57,55,DEN,MIL,11,home,JS,block,3,miss2,0,D. Gallinari,E. İlyasova
+271,3,9:05.0,57,55,DEN,MIL,3,away,DefReb,,,DefReb,,E. İlyasova,
+272,3,9:02.0,57,55,DEN,MIL,3,away,JS,,7,miss2,0,Z. Pachulia,
+273,3,9:00.0,57,55,DEN,MIL,2,home,DefReb,,,DefReb,,W. Chandler,
+274,3,8:48.0,59,55,DEN,MIL,12,home,DK,assist,0,make2,2,K. Faried,T. Lawson
+275,3,8:34.0,59,55,DEN,MIL,14,away,BadPass,steal,,turnover,,Z. Pachulia,T. Lawson
+276,3,8:27.0,62,55,DEN,MIL,7,home,JS,assist,24,make3,3,T. Lawson,R. Foye
+277,3,8:27.0,62,55,DEN,MIL,0,away,Timeout,,,,,,
+278,3,8:27.0,62,55,DEN,MIL,0,away,Sub,,,,,J. Henson,Z. Pachulia
+279,3,8:15.0,62,58,DEN,MIL,12,away,JS,assist,25,make3,3,E. İlyasova,G. Antetokounmpo
+280,3,7:56.0,62,58,DEN,MIL,19,home,BadPass,steal,,turnover,,R. Foye,G. Antetokounmpo
+281,3,7:38.0,62,58,DEN,MIL,18,away,JS,,26,miss3,0,K. Middleton,
+282,3,7:36.0,62,58,DEN,MIL,2,home,DefReb,,,DefReb,,R. Foye,
+283,3,7:27.0,62,58,DEN,MIL,9,home,JS,,22,miss3,0,D. Gallinari,
+284,3,7:26.0,62,58,DEN,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+285,3,7:12.0,62,58,DEN,MIL,14,away,JS,,25,miss3,0,E. İlyasova,
+286,3,7:10.0,62,58,DEN,MIL,2,home,DefReb,,,DefReb,,D. Gallinari,
+287,3,6:55.0,64,58,DEN,MIL,15,home,LU,,0,make2,2,W. Chandler,
+288,3,6:41.0,64,61,DEN,MIL,14,away,JS,assist,25,make3,3,K. Middleton,M. Carter-Williams
+289,3,6:09.0,67,61,DEN,MIL,32,home,JS,assist,23,make3,3,W. Chandler,T. Lawson
+290,3,5:51.0,67,64,DEN,MIL,18,away,JS,assist,25,make3,3,K. Middleton,M. Carter-Williams
+291,3,5:32.0,67,64,DEN,MIL,19,home,JS,,25,miss3,0,T. Lawson,
+292,3,5:30.0,67,64,DEN,MIL,2,away,DefReb,,,DefReb,,K. Middleton,
+293,3,5:28.0,67,64,DEN,MIL,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Foye,K. Middleton
+294,3,5:28.0,67,64,DEN,MIL,0,away,Sub,,,,,J. Dudley,E. İlyasova
+295,3,5:22.0,67,64,DEN,MIL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Lawson,M. Carter-Williams
+296,3,5:09.0,67,66,DEN,MIL,13,away,JS,,19,make2,2,G. Antetokounmpo,
+297,3,4:50.0,67,66,DEN,MIL,19,home,DiscontinueDribbleTurnover,,,turnover,,W. Chandler,
+298,3,4:47.0,67,66,DEN,MIL,3,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Antetokounmpo,R. Foye
+299,3,4:47.0,67,66,DEN,MIL,0,away,OffensiveFoul,,,turnover,,G. Antetokounmpo,
+300,3,4:44.0,67,66,DEN,MIL,3,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,W. Chandler,G. Antetokounmpo
+301,3,4:44.0,67,66,DEN,MIL,0,home,OffensiveFoul,,,turnover,,W. Chandler,
+302,3,4:29.0,67,68,DEN,MIL,15,away,HS,,7,make2,2,J. Henson,
+303,3,4:15.0,67,68,DEN,MIL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Antetokounmpo,T. Lawson
+304,3,4:15.0,67,68,DEN,MIL,0,home,Sub,,,,,W. Barton,W. Chandler
+305,3,4:15.0,67,68,DEN,MIL,0,away,Sub,,,,,J. Bayless,G. Antetokounmpo
+306,3,4:07.0,67,68,DEN,MIL,8,home,BadPass,steal,,turnover,,T. Lawson,K. Middleton
+307,3,4:04.0,67,68,DEN,MIL,3,away,LU,block,2,miss2,0,K. Middleton,R. Foye
+308,3,4:03.0,67,68,DEN,MIL,1,away,OffReb,,,OffReb,,Team,
+309,3,3:58.0,67,68,DEN,MIL,5,away,JS,,17,miss2,0,K. Middleton,
+310,3,3:58.0,67,68,DEN,MIL,0,home,DefReb,,,DefReb,,T. Lawson,
+311,3,3:58.0,67,68,DEN,MIL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Carter-Williams,T. Lawson
+312,3,3:43.0,69,68,DEN,MIL,15,home,DK,assist,0,make2,2,D. Gallinari,T. Lawson
+313,3,3:20.0,69,68,DEN,MIL,23,away,HS,,7,miss2,0,J. Henson,
+314,3,3:19.0,69,68,DEN,MIL,1,home,DefReb,,,DefReb,,K. Faried,
+315,3,3:02.0,72,68,DEN,MIL,17,home,JS,assist,23,make3,3,R. Foye,W. Barton
+316,3,2:50.0,72,68,DEN,MIL,12,away,JS,,25,miss3,0,J. Dudley,
+317,3,2:49.0,72,68,DEN,MIL,1,home,DefReb,,,DefReb,,K. Faried,
+318,3,2:46.0,72,68,DEN,MIL,3,home,Timeout,,,,,,
+319,3,2:46.0,72,68,DEN,MIL,0,away,Sub,,,,,T. Ennis,M. Carter-Williams
+320,3,2:46.0,72,68,DEN,MIL,0,home,Sub,,,,,J. Nelson,T. Lawson
+321,3,2:46.0,73,68,DEN,MIL,0,home,FreeThrow,,,make1,1,D. Gallinari makes flagrant free throw 1 of 2,
+322,3,2:46.0,74,68,DEN,MIL,0,home,FreeThrow,,,make1,1,D. Gallinari makes flagrant free throw 2 of 2,
+323,3,2:37.0,74,68,DEN,MIL,9,home,BadPass,,,turnover,,D. Gallinari,
+324,3,2:19.0,74,68,DEN,MIL,18,away,JS,,27,miss3,0,T. Ennis,
+325,3,2:17.0,74,68,DEN,MIL,2,home,DefReb,,,DefReb,,K. Faried,
+326,3,2:06.0,74,68,DEN,MIL,11,home,LU,block,2,miss2,0,K. Faried,K. Middleton
+327,3,2:03.0,74,68,DEN,MIL,3,away,DefReb,,,DefReb,,T. Ennis,
+328,3,1:49.0,74,70,DEN,MIL,14,away,JS,,20,make2,2,K. Middleton,
+329,3,1:30.0,74,70,DEN,MIL,19,home,LU,,2,miss2,0,K. Faried,
+330,3,1:29.0,74,70,DEN,MIL,1,home,OffReb,,,OffReb,,K. Faried,
+331,3,1:29.0,76,70,DEN,MIL,0,home,TI,,2,make2,2,K. Faried,
+332,3,1:15.0,76,70,DEN,MIL,14,away,JS,,17,miss2,0,K. Middleton,
+333,3,1:14.0,76,70,DEN,MIL,1,away,OffReb,,,OffReb,,J. Henson,
+334,3,1:11.0,76,70,DEN,MIL,3,away,JS,,10,miss2,0,J. Dudley,
+335,3,1:09.0,76,70,DEN,MIL,2,home,DefReb,,,DefReb,,D. Gallinari,
+336,3,1:00.0,76,70,DEN,MIL,9,home,JS,,15,miss2,0,K. Faried,
+337,3,1:00.0,76,70,DEN,MIL,0,away,DefReb,,,DefReb,,J. Dudley,
+338,3,0:48.0,76,70,DEN,MIL,12,away,JS,,18,miss2,0,J. Bayless,
+339,3,0:48.0,76,70,DEN,MIL,0,home,DefReb,,,DefReb,,Team,
+340,3,0:48.0,76,70,DEN,MIL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Henson,K. Faried
+341,3,0:48.0,76,70,DEN,MIL,0,home,Sub,,,,,J. Hickson,K. Faried
+342,3,0:33.0,76,70,DEN,MIL,15,home,JS,,24,miss3,0,R. Foye,
+343,3,0:32.0,76,70,DEN,MIL,1,away,DefReb,,,DefReb,,J. Dudley,
+344,3,0:26.0,76,70,DEN,MIL,6,away,JS,,18,miss2,0,J. Bayless,
+345,3,0:25.0,76,70,DEN,MIL,1,away,OffReb,,,OffReb,,J. Henson,
+346,3,0:03.0,76,70,DEN,MIL,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Barton,J. Henson
+347,3,0:03.0,76,70,DEN,MIL,0,away,FreeThrow,,,make1,0,J. Henson,
+348,3,0:03.0,76,70,DEN,MIL,0,away,OffReb,,,OffReb,,Team,
+349,3,0:03.0,76,70,DEN,MIL,0,home,Sub,,,,,E. Green,W. Barton
+350,3,0:03.0,76,70,DEN,MIL,0,away,FreeThrow,,,make1,0,J. Henson,
+351,3,0:02.0,76,70,DEN,MIL,1,home,DefReb,,,DefReb,,J. Hickson,
+352,3,0:00.0,76,70,DEN,MIL,2,home,JS,,54,miss3,0,R. Foye,
+353,3,0:00.0,76,70,DEN,MIL,0,home,OffReb,,,OffReb,,Team,
+354,4,11:50.0,76,70,DEN,MIL,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Antetokounmpo,J. Nelson
+355,4,11:50.0,78,70,DEN,MIL,0,home,LU,,2,make2,2,J. Nelson,
+356,4,11:50.0,79,70,DEN,MIL,0,home,FreeThrow,,,make1,1,J. Nelson,
+357,4,11:43.0,79,70,DEN,MIL,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Green,T. Ennis
+358,4,11:34.0,79,70,DEN,MIL,9,away,JS,,4,miss2,0,J. Bayless,
+359,4,11:32.0,79,70,DEN,MIL,2,home,DefReb,,,DefReb,,J. Hickson,
+360,4,11:23.0,81,70,DEN,MIL,9,home,LU,,1,make2,2,J. Nelson,
+361,4,11:02.0,81,70,DEN,MIL,21,away,HS,,5,miss2,0,M. Plumlee,
+362,4,11:00.0,81,70,DEN,MIL,2,away,OffReb,,,OffReb,,E. İlyasova,
+363,4,10:59.0,81,72,DEN,MIL,1,away,LU,,2,make2,2,E. İlyasova,
+364,4,10:42.0,81,72,DEN,MIL,17,home,JS,,5,miss2,0,J. Hickson,
+365,4,10:39.0,81,72,DEN,MIL,3,away,DefReb,,,DefReb,,J. Bayless,
+366,4,10:33.0,81,72,DEN,MIL,6,away,LU,,1,miss2,0,T. Ennis,
+367,4,10:32.0,81,72,DEN,MIL,1,home,DefReb,,,DefReb,,D. Arthur,
+368,4,10:21.0,83,72,DEN,MIL,11,home,JS,,3,make2,2,J. Nelson,
+369,4,9:57.0,83,72,DEN,MIL,24,away,JS,,16,miss2,0,E. İlyasova,
+370,4,9:56.0,83,72,DEN,MIL,1,home,DefReb,,,DefReb,,J. Hickson,
+371,4,9:50.0,85,72,DEN,MIL,6,home,JS,assist,20,make2,2,D. Arthur,W. Barton
+372,4,9:50.0,85,72,DEN,MIL,0,away,Timeout,,,,,,
+373,4,9:50.0,85,72,DEN,MIL,0,away,Sub,,,,,K. Middleton,J. Bayless
+374,4,9:50.0,85,72,DEN,MIL,0,away,Sub,,,,,Z. Pachulia,T. Ennis
+375,4,9:50.0,85,72,DEN,MIL,0,away,Sub,,,,,M. Carter-Williams,M. Plumlee
+376,4,9:33.0,85,72,DEN,MIL,17,away,BadPass,steal,,turnover,,G. Antetokounmpo,W. Barton
+377,4,9:33.0,85,72,DEN,MIL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Middleton,W. Barton
+378,4,9:19.0,85,72,DEN,MIL,14,home,LU,block,2,miss2,0,J. Hickson,G. Antetokounmpo
+379,4,9:17.0,85,72,DEN,MIL,2,home,OffReb,,,OffReb,,J. Hickson,
+380,4,9:14.0,87,72,DEN,MIL,3,home,LU,,1,make2,2,J. Hickson,
+381,4,8:56.0,87,72,DEN,MIL,18,away,JS,,24,miss3,0,E. İlyasova,
+382,4,8:54.0,87,72,DEN,MIL,2,home,DefReb,,,DefReb,,J. Hickson,
+383,4,8:36.0,87,72,DEN,MIL,18,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,W. Barton,K. Middleton
+384,4,8:36.0,87,72,DEN,MIL,0,home,OffensiveFoul,,,turnover,,W. Barton,
+385,4,8:22.0,87,72,DEN,MIL,14,away,JS,,16,miss2,0,K. Middleton,
+386,4,8:20.0,87,72,DEN,MIL,2,away,OffReb,,,OffReb,,G. Antetokounmpo,
+387,4,8:20.0,87,74,DEN,MIL,0,away,TI,,1,make2,2,G. Antetokounmpo,
+388,4,8:01.0,87,74,DEN,MIL,19,home,JS,,22,miss3,0,E. Green,
+389,4,7:59.0,87,74,DEN,MIL,2,away,DefReb,,,DefReb,,K. Middleton,
+390,4,7:59.0,87,74,DEN,MIL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Nelson,K. Middleton
+391,4,7:59.0,87,74,DEN,MIL,0,home,Sub,,,,,K. Faried,D. Arthur
+392,4,7:48.0,87,74,DEN,MIL,11,away,LU,block,2,miss2,0,K. Middleton,W. Barton
+393,4,7:46.0,87,74,DEN,MIL,2,home,DefReb,,,DefReb,,W. Barton,
+394,4,7:34.0,87,74,DEN,MIL,12,home,JS,,24,miss3,0,J. Nelson,
+395,4,7:33.0,87,74,DEN,MIL,1,away,DefReb,,,DefReb,,K. Middleton,
+396,4,7:29.0,87,74,DEN,MIL,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Barton,G. Antetokounmpo
+397,4,7:29.0,87,75,DEN,MIL,0,away,FreeThrow,,,make1,1,G. Antetokounmpo,
+398,4,7:29.0,87,75,DEN,MIL,0,home,Sub,,,,,G. Harris,J. Nelson
+399,4,7:29.0,87,75,DEN,MIL,0,home,Sub,,,,,D. Gallinari,W. Barton
+400,4,7:29.0,87,76,DEN,MIL,0,away,FreeThrow,,,make1,1,G. Antetokounmpo,
+401,4,7:09.0,87,76,DEN,MIL,20,home,Timeout,,,,,,
+402,4,7:05.0,87,76,DEN,MIL,4,home,JS,,15,miss2,0,D. Gallinari,
+403,4,7:02.0,87,76,DEN,MIL,3,home,OffReb,,,OffReb,,G. Harris,
+404,4,6:56.0,87,76,DEN,MIL,6,home,LU,,3,miss2,0,G. Harris,
+405,4,6:55.0,87,76,DEN,MIL,1,away,DefReb,,,DefReb,,K. Middleton,
+406,4,6:42.0,87,78,DEN,MIL,13,away,JS,assist,18,make2,2,E. İlyasova,M. Carter-Williams
+407,4,6:28.0,87,78,DEN,MIL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Middleton,D. Gallinari
+408,4,6:20.0,90,78,DEN,MIL,8,home,JS,assist,24,make3,3,E. Green,J. Hickson
+409,4,6:20.0,90,78,DEN,MIL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Carter-Williams,E. Green
+410,4,6:20.0,91,78,DEN,MIL,0,home,FreeThrow,,,make1,1,E. Green,
+411,4,6:02.0,91,78,DEN,MIL,18,away,JS,,22,miss3,0,E. İlyasova,
+412,4,6:01.0,91,78,DEN,MIL,1,away,OffReb,,,OffReb,,G. Antetokounmpo,
+413,4,6:00.0,91,78,DEN,MIL,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Gallinari,G. Antetokounmpo
+414,4,6:00.0,91,79,DEN,MIL,0,away,FreeThrow,,,make1,1,G. Antetokounmpo,
+415,4,6:00.0,91,79,DEN,MIL,0,home,Sub,,,,,T. Lawson,G. Harris
+416,4,6:00.0,91,79,DEN,MIL,0,away,FreeThrow,,,make1,0,G. Antetokounmpo,
+417,4,5:58.0,91,79,DEN,MIL,2,home,DefReb,,,DefReb,,J. Hickson,
+418,4,5:37.0,93,79,DEN,MIL,21,home,JS,,17,make2,2,T. Lawson,
+419,4,5:23.0,93,82,DEN,MIL,14,away,JS,assist,25,make3,3,E. İlyasova,M. Carter-Williams
+420,4,5:08.0,93,82,DEN,MIL,15,home,JS,,18,miss2,0,J. Hickson,
+421,4,5:05.0,93,82,DEN,MIL,3,away,DefReb,,,DefReb,,E. İlyasova,
+422,4,5:00.0,93,82,DEN,MIL,5,away,LU,block,1,miss2,0,M. Carter-Williams,K. Faried
+423,4,4:59.0,93,82,DEN,MIL,1,away,OffReb,,,OffReb,,Team,
+424,4,4:59.0,93,82,DEN,MIL,0,home,Sub,,,,,R. Foye,E. Green
+425,4,4:50.0,93,84,DEN,MIL,9,away,LU,assist,1,make2,2,E. İlyasova,K. Middleton
+426,4,4:30.0,95,84,DEN,MIL,20,home,JS,,16,make2,2,T. Lawson,
+427,4,4:18.0,95,86,DEN,MIL,12,away,DK,,0,make2,2,M. Carter-Williams,
+428,4,4:18.0,95,86,DEN,MIL,0,home,Timeout,,,,,,
+429,4,4:18.0,95,86,DEN,MIL,0,away,Sub,,,,,J. Henson,Z. Pachulia
+430,4,4:05.0,95,86,DEN,MIL,13,home,JS,block,17,miss2,0,T. Lawson,G. Antetokounmpo
+431,4,4:02.0,95,86,DEN,MIL,3,away,DefReb,,,DefReb,,J. Henson,
+432,4,3:52.0,95,89,DEN,MIL,10,away,JS,assist,23,make3,3,G. Antetokounmpo,K. Middleton
+433,4,3:33.0,98,89,DEN,MIL,19,home,JS,assist,25,make3,3,D. Gallinari,J. Hickson
+434,4,3:21.0,98,89,DEN,MIL,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Lawson,M. Carter-Williams
+435,4,3:21.0,98,90,DEN,MIL,0,away,FreeThrow,,,make1,1,M. Carter-Williams,
+436,4,3:21.0,98,90,DEN,MIL,0,home,Sub,,,,,W. Chandler,J. Hickson
+437,4,3:21.0,98,91,DEN,MIL,0,away,FreeThrow,,,make1,1,M. Carter-Williams,
+438,4,3:09.0,98,91,DEN,MIL,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. İlyasova,D. Gallinari
+439,4,3:09.0,99,91,DEN,MIL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+440,4,3:09.0,100,91,DEN,MIL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+441,4,2:48.0,100,91,DEN,MIL,21,away,HS,,4,miss2,0,J. Henson,
+442,4,2:46.0,100,91,DEN,MIL,2,home,DefReb,,,DefReb,,K. Faried,
+443,4,2:28.0,100,91,DEN,MIL,18,home,JS,,7,miss2,0,W. Chandler,
+444,4,2:26.0,100,91,DEN,MIL,2,away,DefReb,,,DefReb,,M. Carter-Williams,
+445,4,2:22.0,100,91,DEN,MIL,4,home,DefGoaltending,,,DefGoaltending,,D. Gallinari,
+446,4,2:22.0,100,93,DEN,MIL,0,away,LU,,2,make2,2,E. İlyasova,
+447,4,2:06.0,100,93,DEN,MIL,16,home,JS,,24,miss3,0,T. Lawson,
+448,4,2:04.0,100,93,DEN,MIL,2,home,OffReb,,,OffReb,,T. Lawson,
+449,4,1:47.0,103,93,DEN,MIL,17,home,JS,assist,23,make3,3,R. Foye,T. Lawson
+450,4,1:47.0,103,93,DEN,MIL,0,away,Timeout,,,,,,
+451,4,1:39.0,103,93,DEN,MIL,8,away,JS,,26,miss3,0,K. Middleton,
+452,4,1:38.0,103,93,DEN,MIL,1,home,DefReb,,,DefReb,,K. Faried,
+453,4,1:17.0,103,93,DEN,MIL,21,home,JS,,26,miss3,0,W. Chandler,
+454,4,1:16.0,103,93,DEN,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
+455,4,1:03.0,103,93,DEN,MIL,13,away,JS,,18,miss2,0,G. Antetokounmpo,
+456,4,1:02.0,103,93,DEN,MIL,1,home,DefReb,,,DefReb,,K. Faried,
+457,4,0:38.0,106,93,DEN,MIL,24,home,JS,assist,23,make3,3,T. Lawson,R. Foye
+458,4,0:33.0,106,95,DEN,MIL,5,away,LU,assist,1,make2,2,E. İlyasova,K. Middleton
+459,4,0:14.0,106,95,DEN,MIL,19,home,JS,,25,miss3,0,R. Foye,
+460,4,0:13.0,106,95,DEN,MIL,1,away,DefReb,,,DefReb,,M. Carter-Williams,

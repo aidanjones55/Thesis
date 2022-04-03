@@ -1,0 +1,461 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:36.0,0,0,DET,ORL,24,home,JS,,26,miss3,0,R. Bullock,
+1,1,11:35.0,0,0,DET,ORL,1,home,OffReb,,,OffReb,,A. Drummond,
+2,1,11:34.0,0,0,DET,ORL,1,home,ShotClockViolation,,,turnover,,Team,
+3,1,11:09.0,0,0,DET,ORL,25,away,JS,,27,miss3,0,A. Gordon,
+4,1,11:08.0,0,0,DET,ORL,1,away,OffReb,,,OffReb,,Team,
+5,1,11:08.0,0,0,DET,ORL,0,away,ShotClockViolation,,,turnover,,Team,
+6,1,10:52.0,0,0,DET,ORL,16,home,HS,,7,miss2,0,A. Drummond,
+7,1,10:51.0,0,0,DET,ORL,1,away,DefReb,,,DefReb,,N. Vučević,
+8,1,10:43.0,0,2,DET,ORL,8,away,JS,assist,15,make2,2,N. Vučević,E. Fournier
+9,1,10:31.0,0,2,DET,ORL,12,home,lost ball,steal,,turnover,,R. Bullock,N. Vučević
+10,1,10:31.0,0,2,DET,ORL,0,away,OutOfBoundsLB,,,turnover,,E. Fournier,
+11,1,10:14.0,0,2,DET,ORL,17,home,JS,,10,miss2,0,B. Brown,
+12,1,10:11.0,0,2,DET,ORL,3,away,DefReb,,,DefReb,,A. Gordon,
+13,1,10:03.0,0,4,DET,ORL,8,away,JS,,15,make2,2,D. Augustin,
+14,1,9:41.0,3,4,DET,ORL,22,home,JS,assist,22,make3,3,R. Jackson,R. Bullock
+15,1,9:28.0,3,6,DET,ORL,13,away,LU,,1,make2,2,J. Isaac,
+16,1,9:18.0,3,6,DET,ORL,10,home,LU,,2,miss2,0,A. Drummond,
+17,1,9:16.0,3,6,DET,ORL,2,away,DefReb,,,DefReb,,D. Augustin,
+18,1,9:11.0,3,9,DET,ORL,5,away,JS,assist,25,make3,3,E. Fournier,D. Augustin
+19,1,8:48.0,3,9,DET,ORL,23,home,JS,,8,miss2,0,R. Jackson,
+20,1,8:47.0,3,9,DET,ORL,1,home,OffReb,,,OffReb,,A. Drummond,
+21,1,8:46.0,5,9,DET,ORL,1,home,HS,,2,make2,2,A. Drummond,
+22,1,8:36.0,5,9,DET,ORL,10,away,JS,,24,miss3,0,N. Vučević,
+23,1,8:33.0,5,9,DET,ORL,3,home,DefReb,,,DefReb,,B. Griffin,
+24,1,8:27.0,5,9,DET,ORL,6,home,bad pass,steal,,turnover,,B. Griffin,E. Fournier
+25,1,8:18.0,5,9,DET,ORL,9,away,JS,,25,miss3,0,E. Fournier,
+26,1,8:15.0,5,9,DET,ORL,3,away,OffReb,,,OffReb,,A. Gordon,
+27,1,8:03.0,5,9,DET,ORL,12,away,LU,block,3,miss2,0,D. Augustin,B. Brown
+28,1,8:01.0,5,9,DET,ORL,2,home,DefReb,,,DefReb,,A. Drummond,
+29,1,7:54.0,8,9,DET,ORL,7,home,JS,assist,25,make3,3,R. Bullock,B. Griffin
+30,1,7:38.0,8,11,DET,ORL,16,away,JS,,8,make2,2,D. Augustin,
+31,1,7:19.0,10,11,DET,ORL,19,home,LU,,0,make2,2,B. Griffin,
+32,1,7:00.0,10,13,DET,ORL,19,away,JS,,14,make2,2,E. Fournier,
+33,1,6:45.0,10,13,DET,ORL,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Fournier,B. Griffin
+34,1,6:45.0,10,13,DET,ORL,0,home,Timeout,,,,,,
+35,1,6:30.0,10,13,DET,ORL,15,home,ShotClockViolation,,,turnover,,Team,
+36,1,6:19.0,10,15,DET,ORL,11,away,DK,assist,0,make2,2,A. Gordon,D. Augustin
+37,1,6:01.0,12,15,DET,ORL,18,home,JS,assist,15,make2,2,R. Bullock,B. Griffin
+38,1,5:45.0,12,15,DET,ORL,16,away,JS,,26,miss3,0,A. Gordon,
+39,1,5:42.0,12,15,DET,ORL,3,home,DefReb,,,DefReb,,A. Drummond,
+40,1,5:42.0,12,15,DET,ORL,0,away,Sub,,,,,W. Iwundu,J. Isaac
+41,1,5:21.0,12,15,DET,ORL,21,home,bad pass,steal,,turnover,,R. Jackson,W. Iwundu
+42,1,5:19.0,12,17,DET,ORL,2,away,DK,,0,make2,2,W. Iwundu,
+43,1,4:53.0,14,17,DET,ORL,26,home,JS,assist,7,make2,2,R. Jackson,R. Bullock
+44,1,4:53.0,14,17,DET,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,R. Jackson
+45,1,4:53.0,14,17,DET,ORL,0,away,Sub,,,,,I. Briscoe,D. Augustin
+46,1,4:53.0,14,17,DET,ORL,0,home,Sub,,,,,L. Galloway,B. Brown
+47,1,4:53.0,15,17,DET,ORL,0,home,FreeThrow,,,make1,1,R. Jackson,
+48,1,4:35.0,15,19,DET,ORL,18,away,LU,,2,make2,2,E. Fournier,
+49,1,4:23.0,15,19,DET,ORL,12,home,JS,,10,miss2,0,B. Griffin,
+50,1,4:22.0,15,19,DET,ORL,1,home,OffReb,,,OffReb,,A. Drummond,
+51,1,4:22.0,17,19,DET,ORL,0,home,HS,,1,make2,2,A. Drummond,
+52,1,4:04.0,17,19,DET,ORL,18,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Gordon,B. Griffin
+53,1,4:04.0,17,19,DET,ORL,0,away,OffensiveFoul,,,turnover,,A. Gordon,
+54,1,4:04.0,17,19,DET,ORL,0,away,Sub,,,,,T. Ross,E. Fournier
+55,1,4:04.0,17,19,DET,ORL,0,home,Sub,,,,,I. Smith,R. Jackson
+56,1,3:55.0,17,19,DET,ORL,9,home,OutOfBoundsLB,,,turnover,,B. Griffin,
+57,1,3:44.0,17,19,DET,ORL,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Drummond,N. Vučević
+58,1,3:38.0,17,22,DET,ORL,6,away,JS,assist,25,make3,3,N. Vučević,I. Briscoe
+59,1,3:25.0,19,22,DET,ORL,13,home,HS,assist,3,make2,2,A. Drummond,R. Bullock
+60,1,3:10.0,19,22,DET,ORL,15,away,BadPass,,,turnover,,I. Briscoe,
+61,1,2:55.0,19,22,DET,ORL,15,home,JS,,23,miss3,0,L. Galloway,
+62,1,2:52.0,19,22,DET,ORL,3,home,OffReb,,,OffReb,,L. Galloway,
+63,1,2:43.0,21,22,DET,ORL,9,home,LU,,2,make2,2,B. Griffin,
+64,1,2:22.0,21,24,DET,ORL,21,away,LU,assist,1,make2,2,W. Iwundu,N. Vučević
+65,1,2:06.0,23,24,DET,ORL,16,home,LU,,2,make2,2,B. Griffin,
+66,1,1:56.0,23,26,DET,ORL,10,away,LU,,2,make2,2,I. Briscoe,
+67,1,1:45.0,23,26,DET,ORL,11,home,LU,,6,miss2,0,I. Smith,
+68,1,1:44.0,23,26,DET,ORL,1,home,OffReb,,,OffReb,,A. Drummond,
+69,1,1:42.0,23,26,DET,ORL,2,home,LU,,1,miss2,0,A. Drummond,
+70,1,1:42.0,23,26,DET,ORL,0,home,OffReb,,,OffReb,,A. Drummond,
+71,1,1:42.0,23,26,DET,ORL,0,home,LU,,3,miss2,0,A. Drummond,
+72,1,1:42.0,23,26,DET,ORL,0,away,DefReb,,,DefReb,,W. Iwundu,
+73,1,1:34.0,23,29,DET,ORL,8,away,JS,assist,25,make3,3,T. Ross,I. Briscoe
+74,1,1:18.0,26,29,DET,ORL,16,home,JS,assist,26,make3,3,R. Bullock,L. Galloway
+75,1,1:05.0,26,32,DET,ORL,13,away,JS,assist,26,make3,3,T. Ross,I. Briscoe
+76,1,0:47.0,26,32,DET,ORL,18,home,JS,,25,miss3,0,R. Bullock,
+77,1,0:45.0,26,32,DET,ORL,2,away,DefReb,,,DefReb,,I. Briscoe,
+78,1,0:41.0,26,32,DET,ORL,4,away,OutOfBoundsLB,,,turnover,,A. Gordon,
+79,1,0:41.0,26,32,DET,ORL,0,away,Timeout,,,,,,
+80,1,0:41.0,26,32,DET,ORL,0,away,Sub,,,,,K. Birch,A. Gordon
+81,1,0:41.0,26,32,DET,ORL,0,away,Sub,,,,,J. Isaac,N. Vučević
+82,1,0:41.0,26,32,DET,ORL,0,home,Sub,,,,,L. Kennard,R. Bullock
+83,1,0:20.0,26,32,DET,ORL,21,home,JS,,12,miss2,0,I. Smith,
+84,1,0:17.0,26,32,DET,ORL,3,away,DefReb,,,DefReb,,I. Briscoe,
+85,1,0:07.0,26,32,DET,ORL,10,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,I. Smith,I. Briscoe
+86,1,0:02.0,26,34,DET,ORL,5,away,LU,assist,0,make2,2,K. Birch,I. Briscoe
+87,1,0:00.0,26,34,DET,ORL,2,home,JS,,44,miss3,0,L. Galloway,
+88,1,0:00.0,26,34,DET,ORL,0,home,OffReb,,,OffReb,,Team,
+89,2,11:42.0,26,34,DET,ORL,18,away,JS,,27,miss3,0,T. Ross,
+90,2,11:37.0,26,34,DET,ORL,5,home,DefReb,,,DefReb,,L. Kennard,
+91,2,11:15.0,26,34,DET,ORL,22,home,JS,,14,miss2,0,S. Johnson,
+92,2,11:15.0,26,34,DET,ORL,0,home,OffReb,,,OffReb,,Team,
+93,2,11:15.0,26,34,DET,ORL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,E. Fournier,Z. Pachulia
+94,2,11:06.0,28,34,DET,ORL,9,home,JS,assist,16,make2,2,L. Galloway,Z. Pachulia
+95,2,10:52.0,28,37,DET,ORL,14,away,JS,,26,make3,3,T. Ross,
+96,2,10:45.0,28,37,DET,ORL,7,home,BadPass,,,turnover,,I. Smith,
+97,2,10:30.0,28,39,DET,ORL,15,away,JS,assist,18,make2,2,T. Ross,K. Birch
+98,2,10:13.0,30,39,DET,ORL,17,home,JS,assist,19,make2,2,L. Kennard,Z. Pachulia
+99,2,9:54.0,30,39,DET,ORL,19,away,D3SecTech,,,,,,
+100,2,9:54.0,30,40,DET,ORL,0,away,FreeThrow,,,make1,1,T. Ross makes technical free throw,
+101,2,9:47.0,30,40,DET,ORL,7,away,bad pass,steal,,turnover,,J. Isaac,S. Johnson
+102,2,9:41.0,30,40,DET,ORL,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Briscoe,I. Smith
+103,2,9:41.0,30,40,DET,ORL,0,home,FreeThrow,,,make1,0,I. Smith,
+104,2,9:41.0,30,40,DET,ORL,0,home,OffReb,,,OffReb,,Team,
+105,2,9:41.0,31,40,DET,ORL,0,home,FreeThrow,,,make1,1,I. Smith,
+106,2,9:26.0,31,40,DET,ORL,15,away,JS,,14,miss2,0,E. Fournier,
+107,2,9:23.0,31,40,DET,ORL,3,home,DefReb,,,DefReb,,L. Galloway,
+108,2,9:18.0,33,40,DET,ORL,5,home,JS,assist,16,make2,2,Z. Pachulia,I. Smith
+109,2,9:04.0,33,40,DET,ORL,14,away,BadPass,,,turnover,,T. Ross,
+110,2,8:46.0,35,40,DET,ORL,18,home,JS,assist,16,make2,2,L. Galloway,Z. Pachulia
+111,2,8:26.0,35,42,DET,ORL,20,away,LU,,1,make2,2,E. Fournier,
+112,2,8:21.0,38,42,DET,ORL,5,home,JS,assist,25,make3,3,L. Kennard,I. Smith
+113,2,8:21.0,38,42,DET,ORL,0,away,Timeout,,,,,,
+114,2,8:21.0,38,42,DET,ORL,0,home,Sub,,,,,R. Jackson,I. Smith
+115,2,8:10.0,38,42,DET,ORL,11,away,bad pass,steal,,turnover,,E. Fournier,L. Galloway
+116,2,8:05.0,38,42,DET,ORL,5,home,JS,,26,miss3,0,L. Kennard,
+117,2,7:58.0,38,42,DET,ORL,7,away,DefReb,,,DefReb,,J. Isaac,
+118,2,7:54.0,38,42,DET,ORL,4,away,JS,,26,miss3,0,T. Ross,
+119,2,7:51.0,38,42,DET,ORL,3,home,DefReb,,,DefReb,,S. Johnson,
+120,2,7:47.0,38,42,DET,ORL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Isaac,S. Johnson
+121,2,7:47.0,39,42,DET,ORL,0,home,FreeThrow,,,make1,1,S. Johnson,
+122,2,7:47.0,39,42,DET,ORL,0,away,Sub,,,,,W. Iwundu,E. Fournier
+123,2,7:47.0,40,42,DET,ORL,0,home,FreeThrow,,,make1,1,S. Johnson,
+124,2,7:30.0,40,45,DET,ORL,17,away,JS,assist,24,make3,3,T. Ross,I. Briscoe
+125,2,7:15.0,40,45,DET,ORL,15,home,LU,,5,miss2,0,L. Galloway,
+126,2,7:15.0,40,45,DET,ORL,0,away,DefReb,,,DefReb,,I. Briscoe,
+127,2,7:15.0,40,45,DET,ORL,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,Z. Pachulia,I. Briscoe
+128,2,7:06.0,40,45,DET,ORL,9,away,JS,,24,miss3,0,W. Iwundu,
+129,2,7:02.0,40,45,DET,ORL,4,home,DefReb,,,DefReb,,S. Johnson,
+130,2,6:48.0,40,45,DET,ORL,14,home,JS,,27,miss3,0,L. Kennard,
+131,2,6:45.0,40,45,DET,ORL,3,away,DefReb,,,DefReb,,J. Isaac,
+132,2,6:39.0,40,45,DET,ORL,6,away,JS,,13,miss2,0,I. Briscoe,
+133,2,6:38.0,40,45,DET,ORL,1,away,OffReb,,,OffReb,,Team,
+134,2,6:38.0,40,45,DET,ORL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,L. Kennard,J. Isaac
+135,2,6:38.0,40,45,DET,ORL,0,away,Sub,,,,,D. Augustin,I. Briscoe
+136,2,6:23.0,40,45,DET,ORL,15,away,LU,,7,miss2,0,D. Augustin,
+137,2,6:22.0,40,45,DET,ORL,1,home,DefReb,,,DefReb,,Z. Pachulia,
+138,2,6:14.0,40,45,DET,ORL,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ross,L. Galloway
+139,2,6:14.0,41,45,DET,ORL,0,home,FreeThrow,,,make1,1,L. Galloway,
+140,2,6:14.0,42,45,DET,ORL,0,home,FreeThrow,,,make1,1,L. Galloway,
+141,2,6:14.0,42,45,DET,ORL,0,away,Sub,,,,,A. Gordon,K. Birch
+142,2,6:14.0,42,45,DET,ORL,0,away,Sub,,,,,N. Vučević,W. Iwundu
+143,2,6:14.0,42,45,DET,ORL,0,home,Sub,,,,,B. Griffin,S. Johnson
+144,2,6:14.0,43,45,DET,ORL,0,home,FreeThrow,,,make1,1,L. Galloway,
+145,2,6:03.0,43,45,DET,ORL,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,A. Gordon
+146,2,6:03.0,43,46,DET,ORL,0,away,FreeThrow,,,make1,1,A. Gordon,
+147,2,6:03.0,43,46,DET,ORL,0,home,Sub,,,,,R. Bullock,L. Galloway
+148,2,6:03.0,43,47,DET,ORL,0,away,FreeThrow,,,make1,1,A. Gordon,
+149,2,5:46.0,43,47,DET,ORL,17,home,LU,,2,miss2,0,L. Kennard,
+150,2,5:44.0,43,47,DET,ORL,2,away,DefReb,,,DefReb,,T. Ross,
+151,2,5:25.0,43,47,DET,ORL,19,away,bad pass,steal,,turnover,,N. Vučević,L. Kennard
+152,2,5:19.0,46,47,DET,ORL,6,home,JS,assist,26,make3,3,R. Jackson,L. Kennard
+153,2,4:55.0,46,49,DET,ORL,24,away,LU,assist,1,make2,2,N. Vučević,T. Ross
+154,2,4:43.0,49,49,DET,ORL,12,home,JS,assist,28,make3,3,R. Bullock,B. Griffin
+155,2,4:22.0,49,49,DET,ORL,21,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jackson,D. Augustin
+156,2,4:22.0,49,49,DET,ORL,0,away,Sub,,,,,E. Fournier,J. Isaac
+157,2,4:22.0,49,49,DET,ORL,0,home,Sub,,,,,A. Drummond,Z. Pachulia
+158,2,4:16.0,49,51,DET,ORL,6,away,JS,assist,18,make2,2,N. Vučević,D. Augustin
+159,2,3:57.0,51,51,DET,ORL,19,home,LU,,2,make2,2,B. Griffin,
+160,2,3:35.0,51,53,DET,ORL,22,away,LU,assist,3,make2,2,D. Augustin,N. Vučević
+161,2,3:29.0,51,53,DET,ORL,6,home,Timeout,,,,,,
+162,2,3:29.0,51,53,DET,ORL,0,away,Sub,,,,,W. Iwundu,T. Ross
+163,2,3:29.0,51,53,DET,ORL,0,home,Sub,,,,,L. Galloway,R. Jackson
+164,2,3:29.0,51,53,DET,ORL,0,home,Sub,,,,,I. Smith,L. Kennard
+165,2,3:27.0,51,53,DET,ORL,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Gordon,B. Griffin
+166,2,3:27.0,51,53,DET,ORL,0,home,FreeThrow,,,make1,0,B. Griffin,
+167,2,3:27.0,51,53,DET,ORL,0,home,OffReb,,,OffReb,,Team,
+168,2,3:27.0,52,53,DET,ORL,0,home,FreeThrow,,,make1,1,B. Griffin,
+169,2,3:15.0,52,55,DET,ORL,12,away,JS,assist,16,make2,2,N. Vučević,E. Fournier
+170,2,2:57.0,55,55,DET,ORL,18,home,JS,assist,25,make3,3,L. Galloway,B. Griffin
+171,2,2:31.0,55,57,DET,ORL,26,away,LU,assist,3,make2,2,N. Vučević,E. Fournier
+172,2,2:16.0,55,57,DET,ORL,15,away,KickBallViolation,,,KickBallViolation,,Team,
+173,2,2:16.0,55,57,DET,ORL,0,away,Sub,,,,,J. Isaac,E. Fournier
+174,2,2:16.0,55,57,DET,ORL,0,away,Sub,,,,,T. Ross,A. Gordon
+175,2,2:09.0,55,57,DET,ORL,7,home,JS,,26,miss3,0,I. Smith,
+176,2,2:06.0,55,57,DET,ORL,3,away,DefReb,,,DefReb,,J. Isaac,
+177,2,1:55.0,55,59,DET,ORL,11,away,LU,assist,2,make2,2,N. Vučević,D. Augustin
+178,2,1:55.0,55,59,DET,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,N. Vučević
+179,2,1:55.0,55,59,DET,ORL,0,away,FreeThrow,,,make1,0,N. Vučević,
+180,2,1:52.0,55,59,DET,ORL,3,home,DefReb,,,DefReb,,L. Galloway,
+181,2,1:35.0,57,59,DET,ORL,17,home,LU,,2,make2,2,B. Griffin,
+182,2,1:20.0,57,61,DET,ORL,15,away,LU,assist,1,make2,2,J. Isaac,N. Vučević
+183,2,1:10.0,57,61,DET,ORL,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Isaac,B. Griffin
+184,2,1:10.0,58,61,DET,ORL,0,home,FreeThrow,,,make1,1,B. Griffin,
+185,2,1:10.0,58,61,DET,ORL,0,home,FreeThrow,,,make1,0,B. Griffin,
+186,2,1:08.0,58,61,DET,ORL,2,away,DefReb,,,DefReb,,N. Vučević,
+187,2,0:55.0,58,61,DET,ORL,13,away,JS,,25,miss3,0,N. Vučević,
+188,2,0:53.0,58,61,DET,ORL,2,home,DefReb,,,DefReb,,Team,
+189,2,0:44.0,58,61,DET,ORL,9,home,JS,,26,miss3,0,L. Galloway,
+190,2,0:41.0,58,61,DET,ORL,3,away,DefReb,,,DefReb,,N. Vučević,
+191,2,0:34.0,58,63,DET,ORL,7,away,LU,,7,make2,2,D. Augustin,
+192,2,0:16.0,58,63,DET,ORL,18,home,LU,,4,miss2,0,I. Smith,
+193,2,0:15.0,58,63,DET,ORL,1,away,DefReb,,,DefReb,,N. Vučević,
+194,2,0:00.0,58,63,DET,ORL,15,away,JS,,25,miss3,0,T. Ross,
+195,2,0:00.0,58,63,DET,ORL,0,away,OffReb,,,OffReb,,Team,
+196,3,11:37.0,58,66,DET,ORL,23,away,JS,assist,24,make3,3,D. Augustin,A. Gordon
+197,3,11:15.0,60,66,DET,ORL,22,home,LU,assist,3,make2,2,B. Griffin,R. Bullock
+198,3,10:58.0,60,66,DET,ORL,17,away,DK,block,3,miss2,0,N. Vučević,B. Griffin
+199,3,10:55.0,60,66,DET,ORL,3,home,DefReb,,,DefReb,,A. Drummond,
+200,3,10:44.0,60,66,DET,ORL,11,home,JS,,9,miss2,0,B. Griffin,
+201,3,10:43.0,60,66,DET,ORL,1,home,OffReb,,,OffReb,,A. Drummond,
+202,3,10:42.0,60,66,DET,ORL,1,home,LU,,1,miss2,0,A. Drummond,
+203,3,10:42.0,60,66,DET,ORL,0,away,DefReb,,,DefReb,,E. Fournier,
+204,3,10:36.0,60,66,DET,ORL,6,away,LU,,2,miss2,0,E. Fournier,
+205,3,10:33.0,60,66,DET,ORL,3,home,DefReb,,,DefReb,,B. Brown,
+206,3,10:29.0,62,66,DET,ORL,4,home,LU,assist,1,make2,2,A. Drummond,B. Brown
+207,3,10:11.0,62,68,DET,ORL,18,away,LU,,3,make2,2,A. Gordon,
+208,3,9:51.0,64,68,DET,ORL,20,home,DK,assist,1,make2,2,A. Drummond,R. Jackson
+209,3,9:45.0,64,68,DET,ORL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Brown,D. Augustin
+210,3,9:29.0,64,68,DET,ORL,16,away,JS,,23,miss3,0,J. Isaac,
+211,3,9:27.0,64,68,DET,ORL,2,home,DefReb,,,DefReb,,A. Drummond,
+212,3,9:16.0,64,68,DET,ORL,11,home,JS,,25,miss3,0,R. Bullock,
+213,3,9:13.0,64,68,DET,ORL,3,away,DefReb,,,DefReb,,A. Gordon,
+214,3,9:04.0,64,68,DET,ORL,9,away,JS,,24,miss3,0,A. Gordon,
+215,3,8:59.0,64,68,DET,ORL,5,away,OffReb,,,OffReb,,D. Augustin,
+216,3,8:53.0,64,71,DET,ORL,6,away,JS,assist,24,make3,3,E. Fournier,J. Isaac
+217,3,8:35.0,67,71,DET,ORL,18,home,JS,assist,22,make3,3,B. Brown,R. Jackson
+218,3,8:17.0,67,71,DET,ORL,18,away,JS,,24,miss3,0,J. Isaac,
+219,3,8:12.0,67,71,DET,ORL,5,away,OffReb,,,OffReb,,N. Vučević,
+220,3,8:12.0,67,71,DET,ORL,0,away,LU,,1,miss2,0,N. Vučević,
+221,3,8:11.0,67,71,DET,ORL,1,home,DefReb,,,DefReb,,A. Drummond,
+222,3,7:59.0,67,71,DET,ORL,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Augustin,B. Griffin
+223,3,7:49.0,69,71,DET,ORL,10,home,LU,assist,4,make2,2,R. Jackson,B. Griffin
+224,3,7:37.0,69,71,DET,ORL,12,away,JS,,8,miss2,0,N. Vučević,
+225,3,7:37.0,69,71,DET,ORL,0,home,DefReb,,,DefReb,,B. Griffin,
+226,3,7:25.0,69,71,DET,ORL,12,home,LU,,4,miss2,0,A. Drummond,
+227,3,7:21.0,69,71,DET,ORL,4,away,DefReb,,,DefReb,,A. Gordon,
+228,3,7:16.0,69,71,DET,ORL,5,away,JS,,26,miss3,0,D. Augustin,
+229,3,7:13.0,69,71,DET,ORL,3,home,DefReb,,,DefReb,,A. Drummond,
+230,3,7:08.0,69,71,DET,ORL,5,home,lost ball,steal,,turnover,,A. Drummond,A. Gordon
+231,3,7:05.0,69,71,DET,ORL,3,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Isaac,B. Griffin
+232,3,7:05.0,69,71,DET,ORL,0,away,OffensiveFoul,,,turnover,,J. Isaac,
+233,3,7:05.0,69,71,DET,ORL,0,home,Sub,,,,,Z. Pachulia,A. Drummond
+234,3,6:44.0,69,71,DET,ORL,21,home,JS,,26,miss3,0,R. Jackson,
+235,3,6:40.0,69,71,DET,ORL,4,away,DefReb,,,DefReb,,N. Vučević,
+236,3,6:28.0,69,71,DET,ORL,12,away,JS,,18,miss2,0,A. Gordon,
+237,3,6:25.0,69,71,DET,ORL,3,home,DefReb,,,DefReb,,B. Brown,
+238,3,6:03.0,69,71,DET,ORL,22,home,JS,,16,miss2,0,R. Jackson,
+239,3,5:58.0,69,71,DET,ORL,5,away,DefReb,,,DefReb,,N. Vučević,
+240,3,5:50.0,69,73,DET,ORL,8,away,LU,,1,make2,2,A. Gordon,
+241,3,5:45.0,69,73,DET,ORL,5,home,Timeout,,,,,,
+242,3,5:45.0,69,73,DET,ORL,0,away,Sub,,,,,W. Iwundu,J. Isaac
+243,3,5:45.0,69,73,DET,ORL,0,home,Sub,,,,,I. Smith,R. Jackson
+244,3,5:33.0,69,73,DET,ORL,12,home,JS,,25,miss3,0,R. Bullock,
+245,3,5:30.0,69,73,DET,ORL,3,away,DefReb,,,DefReb,,N. Vučević,
+246,3,5:15.0,69,73,DET,ORL,15,away,JS,,26,miss3,0,D. Augustin,
+247,3,5:13.0,69,73,DET,ORL,2,home,DefReb,,,DefReb,,B. Brown,
+248,3,5:06.0,71,73,DET,ORL,7,home,JS,,10,make2,2,B. Brown,
+249,3,4:44.0,71,73,DET,ORL,22,away,BadPass,,,turnover,,N. Vučević,
+250,3,4:44.0,71,73,DET,ORL,0,away,Sub,,,,,I. Briscoe,D. Augustin
+251,3,4:38.0,71,73,DET,ORL,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Iwundu,R. Bullock
+252,3,4:22.0,74,73,DET,ORL,16,home,JS,assist,26,make3,3,I. Smith,R. Bullock
+253,3,4:05.0,74,73,DET,ORL,17,away,LU,,2,miss2,0,A. Gordon,
+254,3,4:01.0,74,73,DET,ORL,4,away,OffReb,,,OffReb,,A. Gordon,
+255,3,4:00.0,74,75,DET,ORL,1,away,LU,,1,make2,2,A. Gordon,
+256,3,3:42.0,77,75,DET,ORL,18,home,JS,assist,23,make3,3,B. Brown,I. Smith
+257,3,3:26.0,77,75,DET,ORL,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Smith,W. Iwundu
+258,3,3:26.0,77,75,DET,ORL,0,away,FreeThrow,,,make1,0,W. Iwundu,
+259,3,3:26.0,77,75,DET,ORL,0,away,OffReb,,,OffReb,,Team,
+260,3,3:26.0,77,75,DET,ORL,0,away,Sub,,,,,T. Ross,E. Fournier
+261,3,3:26.0,77,76,DET,ORL,0,away,FreeThrow,,,make1,1,W. Iwundu,
+262,3,3:15.0,79,76,DET,ORL,11,home,DK,assist,1,make2,2,B. Griffin,R. Bullock
+263,3,2:53.0,79,78,DET,ORL,22,away,HS,assist,4,make2,2,N. Vučević,W. Iwundu
+264,3,2:42.0,82,78,DET,ORL,11,home,JS,,24,make3,3,B. Griffin,
+265,3,2:28.0,82,78,DET,ORL,14,away,JS,,18,miss2,0,I. Briscoe,
+266,3,2:28.0,82,78,DET,ORL,0,away,OffReb,,,OffReb,,Team,
+267,3,2:28.0,82,78,DET,ORL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Bullock,A. Gordon
+268,3,2:28.0,82,78,DET,ORL,0,away,Timeout,,,,,,
+269,3,2:28.0,82,78,DET,ORL,0,away,Sub,,,,,K. Birch,N. Vučević
+270,3,2:20.0,82,78,DET,ORL,8,away,HS,,6,miss2,0,K. Birch,
+271,3,2:17.0,82,78,DET,ORL,3,home,DefReb,,,DefReb,,B. Griffin,
+272,3,2:01.0,84,78,DET,ORL,16,home,LU,,4,make2,2,B. Griffin,
+273,3,1:49.0,84,78,DET,ORL,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Brown,T. Ross
+274,3,1:49.0,84,78,DET,ORL,0,home,Sub,,,,,L. Kennard,R. Bullock
+275,3,1:49.0,84,78,DET,ORL,0,away,FreeThrow,,,make1,0,T. Ross,
+276,3,1:49.0,84,78,DET,ORL,0,away,OffReb,,,OffReb,,Team,
+277,3,1:49.0,84,79,DET,ORL,0,away,FreeThrow,,,make1,1,T. Ross,
+278,3,1:29.0,84,79,DET,ORL,20,home,lost ball,steal,,turnover,,Z. Pachulia,I. Briscoe
+279,3,1:25.0,84,81,DET,ORL,4,away,LU,,1,make2,2,I. Briscoe,
+280,3,1:10.0,84,81,DET,ORL,15,home,LU,,3,miss2,0,B. Griffin,
+281,3,1:09.0,84,81,DET,ORL,1,home,OffReb,,,OffReb,,Z. Pachulia,
+282,3,1:09.0,86,81,DET,ORL,0,home,LU,,0,make2,2,Z. Pachulia,
+283,3,1:00.0,86,83,DET,ORL,9,away,DK,,1,make2,2,A. Gordon,
+284,3,0:47.0,86,83,DET,ORL,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Briscoe,I. Smith
+285,3,0:47.0,87,83,DET,ORL,0,home,FreeThrow,,,make1,1,I. Smith,
+286,3,0:47.0,87,83,DET,ORL,0,home,Sub,,,,,S. Johnson,B. Griffin
+287,3,0:47.0,88,83,DET,ORL,0,home,FreeThrow,,,make1,1,I. Smith,
+288,3,0:31.0,88,83,DET,ORL,16,away,JS,,28,miss3,0,T. Ross,
+289,3,0:26.0,88,83,DET,ORL,5,home,DefReb,,,DefReb,,S. Johnson,
+290,3,0:10.0,88,83,DET,ORL,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ross,Z. Pachulia
+291,3,0:10.0,89,83,DET,ORL,0,home,FreeThrow,,,make1,1,Z. Pachulia,
+292,3,0:10.0,90,83,DET,ORL,0,home,FreeThrow,,,make1,1,Z. Pachulia,
+293,3,0:02.0,90,83,DET,ORL,8,away,JS,,11,miss2,0,I. Briscoe,
+294,3,0:01.0,90,83,DET,ORL,1,away,OffReb,,,OffReb,,Team,
+295,3,0:01.0,90,83,DET,ORL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,Z. Pachulia,K. Birch
+296,3,0:01.0,90,84,DET,ORL,0,away,FreeThrow,,,make1,1,K. Birch,
+297,3,0:01.0,90,84,DET,ORL,0,away,FreeThrow,,,make1,0,K. Birch,
+298,3,0:01.0,90,84,DET,ORL,0,home,DefReb,,,DefReb,,Z. Pachulia,
+299,3,0:00.0,90,84,DET,ORL,1,home,JS,,72,miss3,0,Z. Pachulia,
+300,3,0:00.0,90,84,DET,ORL,0,home,OffReb,,,OffReb,,Team,
+301,4,11:44.0,92,84,DET,ORL,16,home,JS,,11,make2,2,L. Kennard,
+302,4,11:25.0,92,86,DET,ORL,19,away,JS,assist,18,make2,2,T. Ross,K. Birch
+303,4,10:59.0,95,86,DET,ORL,26,home,JS,assist,24,make3,3,L. Galloway,L. Kennard
+304,4,10:45.0,95,86,DET,ORL,14,away,bad pass,steal,,turnover,,I. Briscoe,S. Johnson
+305,4,10:35.0,95,86,DET,ORL,10,home,JS,,27,miss3,0,L. Galloway,
+306,4,10:30.0,95,86,DET,ORL,5,home,OffReb,,,OffReb,,A. Drummond,
+307,4,10:19.0,95,86,DET,ORL,11,home,ShotClockViolation,,,turnover,,Team,
+308,4,10:05.0,95,86,DET,ORL,14,away,JS,,26,miss3,0,I. Briscoe,
+309,4,10:02.0,95,86,DET,ORL,3,away,OffReb,,,OffReb,,K. Birch,
+310,4,10:01.0,95,86,DET,ORL,1,away,LU,,0,miss2,0,K. Birch,
+311,4,10:01.0,95,86,DET,ORL,0,home,DefReb,,,DefReb,,A. Drummond,
+312,4,9:46.0,97,86,DET,ORL,15,home,JS,,17,make2,2,L. Kennard,
+313,4,9:45.0,97,86,DET,ORL,1,away,Timeout,,,,,,
+314,4,9:27.0,97,89,DET,ORL,18,away,JS,assist,27,make3,3,E. Fournier,K. Birch
+315,4,9:06.0,97,89,DET,ORL,21,home,BackCourtTurnover,,,turnover,,A. Drummond,
+316,4,8:51.0,97,89,DET,ORL,15,away,JS,,26,miss3,0,E. Fournier,
+317,4,8:47.0,97,89,DET,ORL,4,home,DefReb,,,DefReb,,Team,
+318,4,8:30.0,97,89,DET,ORL,17,home,LU,,5,miss2,0,L. Kennard,
+319,4,8:28.0,97,89,DET,ORL,2,home,OffReb,,,OffReb,,A. Drummond,
+320,4,8:28.0,97,89,DET,ORL,0,home,HS,,2,miss2,0,A. Drummond,
+321,4,8:28.0,97,89,DET,ORL,0,home,OffReb,,,OffReb,,Team,
+322,4,8:16.0,97,89,DET,ORL,12,home,JS,,16,miss2,0,I. Smith,
+323,4,8:14.0,97,89,DET,ORL,2,away,DefReb,,,DefReb,,Team,
+324,4,7:59.0,97,92,DET,ORL,15,away,JS,assist,23,make3,3,J. Isaac,E. Fournier
+325,4,7:40.0,97,92,DET,ORL,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ross,S. Johnson
+326,4,7:40.0,97,92,DET,ORL,0,home,FreeThrow,,,make1,0,S. Johnson,
+327,4,7:40.0,97,92,DET,ORL,0,home,OffReb,,,OffReb,,Team,
+328,4,7:40.0,97,92,DET,ORL,0,away,Sub,,,,,W. Iwundu,E. Fournier
+329,4,7:40.0,98,92,DET,ORL,0,home,FreeThrow,,,make1,1,S. Johnson,
+330,4,7:23.0,98,94,DET,ORL,17,away,JS,,7,make2,2,I. Briscoe,
+331,4,7:23.0,98,94,DET,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Smith,I. Briscoe
+332,4,7:23.0,98,94,DET,ORL,0,away,Sub,,,,,E. Fournier,W. Iwundu
+333,4,7:23.0,98,94,DET,ORL,0,away,FreeThrow,,,make1,0,I. Briscoe,
+334,4,7:21.0,98,94,DET,ORL,2,home,DefReb,,,DefReb,,I. Smith,
+335,4,7:07.0,98,94,DET,ORL,14,home,JS,,19,miss2,0,I. Smith,
+336,4,7:03.0,98,94,DET,ORL,4,away,DefReb,,,DefReb,,I. Briscoe,
+337,4,6:58.0,98,94,DET,ORL,5,away,JS,,25,miss3,0,T. Ross,
+338,4,6:53.0,98,94,DET,ORL,5,home,DefReb,,,DefReb,,I. Smith,
+339,4,6:42.0,100,94,DET,ORL,11,home,LU,,7,make2,2,L. Kennard,
+340,4,6:42.0,100,94,DET,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ross,L. Kennard
+341,4,6:42.0,100,94,DET,ORL,0,away,Sub,,,,,D. Augustin,I. Briscoe
+342,4,6:42.0,100,94,DET,ORL,0,home,Sub,,,,,R. Jackson,I. Smith
+343,4,6:42.0,101,94,DET,ORL,0,home,FreeThrow,,,make1,1,L. Kennard,
+344,4,6:25.0,101,94,DET,ORL,17,away,JS,,27,miss3,0,J. Isaac,
+345,4,6:20.0,101,94,DET,ORL,5,home,DefReb,,,DefReb,,R. Jackson,
+346,4,6:11.0,101,94,DET,ORL,9,home,JS,block,7,miss2,0,R. Jackson,K. Birch
+347,4,6:10.0,101,94,DET,ORL,1,home,OffReb,,,OffReb,,R. Jackson,
+348,4,6:07.0,101,94,DET,ORL,3,home,JS,,23,miss3,0,S. Johnson,
+349,4,6:07.0,101,94,DET,ORL,0,away,DefReb,,,DefReb,,D. Augustin,
+350,4,5:49.0,101,97,DET,ORL,18,away,JS,assist,23,make3,3,J. Isaac,E. Fournier
+351,4,5:48.0,101,97,DET,ORL,1,home,Timeout,,,,,,
+352,4,5:48.0,101,97,DET,ORL,0,away,Sub,,,,,N. Vučević,K. Birch
+353,4,5:48.0,101,97,DET,ORL,0,home,Sub,,,,,R. Bullock,L. Galloway
+354,4,5:48.0,101,97,DET,ORL,0,home,Sub,,,,,B. Griffin,S. Johnson
+355,4,5:30.0,103,97,DET,ORL,18,home,HS,,5,make2,2,L. Kennard,
+356,4,5:05.0,103,97,DET,ORL,25,away,DK,block,2,miss2,0,N. Vučević,A. Drummond
+357,4,5:02.0,103,97,DET,ORL,3,home,DefReb,,,DefReb,,L. Kennard,
+358,4,5:02.0,103,97,DET,ORL,0,away,Sub,,,,,A. Gordon,T. Ross
+359,4,4:40.0,105,97,DET,ORL,22,home,LU,assist,1,make2,2,R. Bullock,A. Drummond
+360,4,4:20.0,105,99,DET,ORL,20,away,LU,,1,make2,2,E. Fournier,
+361,4,4:11.0,105,99,DET,ORL,9,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Drummond,D. Augustin
+362,4,4:11.0,105,99,DET,ORL,0,home,OffensiveFoul,,,turnover,,A. Drummond,
+363,4,4:02.0,105,102,DET,ORL,9,away,JS,assist,25,make3,3,N. Vučević,D. Augustin
+364,4,3:33.0,105,102,DET,ORL,29,home,JS,,12,miss2,0,B. Griffin,
+365,4,3:32.0,105,102,DET,ORL,1,away,DefReb,,,DefReb,,A. Gordon,
+366,4,3:28.0,105,102,DET,ORL,4,away,JS,,27,miss3,0,E. Fournier,
+367,4,3:25.0,105,102,DET,ORL,3,away,OffReb,,,OffReb,,N. Vučević,
+368,4,3:23.0,105,104,DET,ORL,2,away,LU,assist,2,make2,2,N. Vučević,J. Isaac
+369,4,3:06.0,105,104,DET,ORL,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Gordon,B. Griffin
+370,4,3:01.0,105,104,DET,ORL,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,B. Griffin
+371,4,3:01.0,106,104,DET,ORL,0,home,FreeThrow,,,make1,1,B. Griffin,
+372,4,3:01.0,107,104,DET,ORL,0,home,FreeThrow,,,make1,1,B. Griffin,
+373,4,3:01.0,107,104,DET,ORL,0,away,Timeout,,,,,,
+374,4,3:01.0,107,104,DET,ORL,0,away,Sub,,,,,T. Ross,J. Isaac
+375,4,2:44.0,107,104,DET,ORL,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Kennard,E. Fournier
+376,4,2:44.0,107,104,DET,ORL,0,away,FreeThrow,,,make1,0,E. Fournier,
+377,4,2:44.0,107,104,DET,ORL,0,away,OffReb,,,OffReb,,Team,
+378,4,2:44.0,107,105,DET,ORL,0,away,FreeThrow,,,make1,1,E. Fournier,
+379,4,2:33.0,107,105,DET,ORL,11,home,JS,,25,miss3,0,R. Bullock,
+380,4,2:30.0,107,105,DET,ORL,3,away,DefReb,,,DefReb,,A. Gordon,
+381,4,2:14.0,107,107,DET,ORL,16,away,DK,assist,1,make2,2,N. Vučević,D. Augustin
+382,4,2:01.0,107,107,DET,ORL,13,home,JS,,25,miss3,0,B. Griffin,
+383,4,1:57.0,107,107,DET,ORL,4,away,DefReb,,,DefReb,,T. Ross,
+384,4,1:51.0,107,109,DET,ORL,6,away,LU,,2,make2,2,D. Augustin,
+385,4,1:34.0,107,109,DET,ORL,17,home,bad pass,steal,,turnover,,R. Bullock,T. Ross
+386,4,1:12.0,107,109,DET,ORL,22,away,JS,,27,miss3,0,D. Augustin,
+387,4,1:09.0,107,109,DET,ORL,3,home,DefReb,,,DefReb,,L. Kennard,
+388,4,0:50.0,107,109,DET,ORL,19,home,JS,,30,miss3,0,R. Bullock,
+389,4,0:47.0,107,109,DET,ORL,3,home,OffReb,,,OffReb,,A. Drummond,
+390,4,0:36.0,107,109,DET,ORL,11,home,LU,,5,miss2,0,R. Jackson,
+391,4,0:35.0,107,109,DET,ORL,1,home,OffReb,,,OffReb,,A. Drummond,
+392,4,0:35.0,107,109,DET,ORL,0,home,LU,,2,miss2,0,A. Drummond,
+393,4,0:34.0,107,109,DET,ORL,1,home,OffReb,,,OffReb,,A. Drummond,
+394,4,0:32.0,109,109,DET,ORL,2,home,LU,,2,make2,2,A. Drummond,
+395,4,0:22.0,109,109,DET,ORL,10,away,JS,,19,miss2,0,N. Vučević,
+396,4,0:20.0,109,109,DET,ORL,2,home,DefReb,,,DefReb,,R. Jackson,
+397,4,0:20.0,109,109,DET,ORL,0,home,Timeout,,,,,,
+398,4,0:20.0,109,109,DET,ORL,0,away,Sub,,,,,J. Isaac,D. Augustin
+399,4,0:20.0,109,109,DET,ORL,0,away,Sub,,,,,W. Iwundu,T. Ross
+400,4,0:00.0,109,109,DET,ORL,20,home,JS,,20,miss2,0,B. Griffin,
+401,4,0:00.0,109,109,DET,ORL,0,home,OffReb,,,OffReb,,Team,
+402,1OT,4:39.0,111,109,DET,ORL,441,home,HS,assist,7,make2,2,A. Drummond,R. Jackson
+403,1OT,4:24.0,111,109,DET,ORL,15,away,JS,,17,miss2,0,N. Vučević,
+404,1OT,4:21.0,111,109,DET,ORL,3,home,DefReb,,,DefReb,,L. Kennard,
+405,1OT,4:12.0,113,109,DET,ORL,9,home,LU,,2,make2,2,R. Jackson,
+406,1OT,4:00.0,113,112,DET,ORL,12,away,JS,assist,27,make3,3,T. Ross,D. Augustin
+407,1OT,3:45.0,113,112,DET,ORL,15,home,LU,block,2,miss2,0,R. Jackson,T. Ross
+408,1OT,3:43.0,113,112,DET,ORL,2,away,DefReb,,,DefReb,,N. Vučević,
+409,1OT,3:39.0,113,115,DET,ORL,4,away,JS,assist,23,make3,3,T. Ross,A. Gordon
+410,1OT,3:23.0,115,115,DET,ORL,16,home,HS,,3,make2,2,B. Griffin,
+411,1OT,3:01.0,115,115,DET,ORL,22,away,JS,,13,miss2,0,N. Vučević,
+412,1OT,2:58.0,115,115,DET,ORL,3,home,DefReb,,,DefReb,,A. Drummond,
+413,1OT,2:38.0,115,115,DET,ORL,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,B. Griffin
+414,1OT,2:38.0,116,115,DET,ORL,0,home,FreeThrow,,,make1,1,B. Griffin,
+415,1OT,2:38.0,116,115,DET,ORL,0,home,Sub,,,,,B. Brown,L. Kennard
+416,1OT,2:38.0,117,115,DET,ORL,0,home,FreeThrow,,,make1,1,B. Griffin,
+417,1OT,2:28.0,117,115,DET,ORL,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Brown,T. Ross
+418,1OT,2:17.0,117,115,DET,ORL,11,away,JS,,26,miss3,0,T. Ross,
+419,1OT,2:12.0,117,115,DET,ORL,5,away,OffReb,,,OffReb,,N. Vučević,
+420,1OT,2:00.0,117,115,DET,ORL,12,away,JS,,27,miss3,0,E. Fournier,
+421,1OT,1:54.0,117,115,DET,ORL,6,away,OffReb,,,OffReb,,N. Vučević,
+422,1OT,1:54.0,117,115,DET,ORL,0,away,LU,,1,miss2,0,N. Vučević,
+423,1OT,1:53.0,117,115,DET,ORL,1,home,DefReb,,,DefReb,,A. Drummond,
+424,1OT,1:33.0,117,115,DET,ORL,20,home,JS,,14,miss2,0,B. Griffin,
+425,1OT,1:31.0,117,115,DET,ORL,2,away,DefReb,,,DefReb,,E. Fournier,
+426,1OT,1:24.0,117,115,DET,ORL,7,away,LU,block,2,miss2,0,A. Gordon,B. Griffin
+427,1OT,1:24.0,117,115,DET,ORL,0,home,DefReb,,,DefReb,,Team,
+428,1OT,1:07.0,117,115,DET,ORL,17,home,JS,,25,miss3,0,R. Bullock,
+429,1OT,1:04.0,117,115,DET,ORL,3,away,DefReb,,,DefReb,,A. Gordon,
+430,1OT,0:55.0,117,115,DET,ORL,9,away,LU,,1,miss2,0,D. Augustin,
+431,1OT,0:53.0,117,115,DET,ORL,2,home,DefReb,,,DefReb,,A. Drummond,
+432,1OT,0:49.0,117,115,DET,ORL,4,home,Timeout,,,,,,
+433,1OT,0:49.0,117,115,DET,ORL,0,away,Sub,,,,,J. Isaac,D. Augustin
+434,1OT,0:49.0,117,115,DET,ORL,0,away,Sub,,,,,W. Iwundu,T. Ross
+435,1OT,0:49.0,117,115,DET,ORL,0,home,Sub,,,,,L. Kennard,B. Brown
+436,1OT,0:42.0,117,115,DET,ORL,7,home,JS,block,11,miss2,0,R. Jackson,W. Iwundu
+437,1OT,0:42.0,117,115,DET,ORL,0,away,DefReb,,,DefReb,,N. Vučević,
+438,1OT,0:42.0,117,115,DET,ORL,0,away,Timeout,,,,,,
+439,1OT,0:42.0,117,115,DET,ORL,0,away,Sub,,,,,D. Augustin,J. Isaac
+440,1OT,0:42.0,117,115,DET,ORL,0,away,Sub,,,,,T. Ross,W. Iwundu
+441,1OT,0:42.0,117,115,DET,ORL,0,home,Sub,,,,,B. Brown,L. Kennard
+442,1OT,0:31.0,117,115,DET,ORL,11,away,HS,,6,miss2,0,N. Vučević,
+443,1OT,0:29.0,117,115,DET,ORL,2,home,DefReb,,,DefReb,,B. Griffin,
+444,1OT,0:14.0,119,115,DET,ORL,15,home,LU,assist,4,make2,2,B. Griffin,R. Jackson
+445,1OT,0:14.0,119,115,DET,ORL,0,away,Timeout,,,,,,
+446,1OT,0:09.0,119,115,DET,ORL,5,away,JS,,27,miss3,0,E. Fournier,
+447,1OT,0:04.0,119,115,DET,ORL,5,home,DefReb,,,DefReb,,A. Drummond,
+448,1OT,0:04.0,119,115,DET,ORL,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Gordon,R. Jackson
+449,1OT,0:04.0,119,115,DET,ORL,0,away,Sub,,,,,J. Isaac,A. Gordon
+450,1OT,0:04.0,119,115,DET,ORL,0,home,Sub,,,,,L. Galloway,B. Brown
+451,1OT,0:04.0,119,115,DET,ORL,0,home,Sub,,,,,L. Kennard,A. Drummond
+452,1OT,0:04.0,119,115,DET,ORL,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Isaac,B. Griffin
+453,1OT,0:03.0,119,115,DET,ORL,1,home,FreeThrow,,,make1,0,B. Griffin,
+454,1OT,0:03.0,119,115,DET,ORL,0,home,OffReb,,,OffReb,,Team,
+455,1OT,0:03.0,119,115,DET,ORL,0,home,Sub,,,,,B. Brown,L. Galloway
+456,1OT,0:03.0,119,115,DET,ORL,0,home,Sub,,,,,A. Drummond,L. Kennard
+457,1OT,0:03.0,120,115,DET,ORL,0,home,FreeThrow,,,make1,1,B. Griffin,
+458,1OT,0:01.0,120,115,DET,ORL,2,away,JS,,43,miss3,0,E. Fournier,
+459,1OT,0:00.0,120,115,DET,ORL,1,away,OffReb,,,OffReb,,Team,

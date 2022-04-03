@@ -1,0 +1,535 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:42.0,2,0,PHO,SAC,18,home,HS,,9,make2,2,M. Plumlee,
+1,1,11:30.0,2,0,PHO,SAC,12,home,KickBallViolation,,,KickBallViolation,,M. Morris,
+2,1,11:22.0,2,0,PHO,SAC,8,away,JS,,17,miss2,0,J. Thompson,
+3,1,11:20.0,2,0,PHO,SAC,2,home,DefReb,,,DefReb,,G. Dragić,
+4,1,11:16.0,2,0,PHO,SAC,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Collison,E. Bledsoe
+5,1,11:07.0,2,0,PHO,SAC,9,home,JS,,25,miss3,0,E. Bledsoe,
+6,1,11:05.0,2,0,PHO,SAC,2,away,DefReb,,,DefReb,,D. Cousins,
+7,1,10:54.0,2,0,PHO,SAC,11,away,JS,block,3,miss2,0,J. Thompson,M. Morris
+8,1,10:54.0,2,0,PHO,SAC,0,away,OffReb,,,OffReb,,Team,
+9,1,10:41.0,2,0,PHO,SAC,13,away,ShotClockViolation,,,turnover,,Team,
+10,1,10:25.0,2,0,PHO,SAC,16,home,JS,,8,miss2,0,E. Bledsoe,
+11,1,10:23.0,2,0,PHO,SAC,2,away,DefReb,,,DefReb,,R. Gay,
+12,1,10:19.0,2,0,PHO,SAC,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,B. McLemore
+13,1,10:19.0,2,1,PHO,SAC,0,away,FreeThrow,,,make1,1,B. McLemore,
+14,1,10:19.0,2,2,PHO,SAC,0,away,FreeThrow,,,make1,1,B. McLemore,
+15,1,10:07.0,2,2,PHO,SAC,12,home,JS,,17,miss2,0,M. Morris,
+16,1,10:05.0,2,2,PHO,SAC,2,away,DefReb,,,DefReb,,R. Gay,
+17,1,9:53.0,2,4,PHO,SAC,12,away,JS,,9,make2,2,J. Thompson,
+18,1,9:39.0,4,4,PHO,SAC,14,home,JS,assist,20,make2,2,M. Morris,M. Morris
+19,1,9:16.0,4,4,PHO,SAC,23,away,BadPass,steal,,turnover,,D. Collison,E. Bledsoe
+20,1,9:12.0,6,4,PHO,SAC,4,home,LU,,1,make2,2,E. Bledsoe,
+21,1,9:12.0,6,4,PHO,SAC,0,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Collison,E. Bledsoe
+22,1,9:12.0,6,4,PHO,SAC,0,away,Sub,,,,,R. Sessions,D. Collison
+23,1,9:12.0,7,4,PHO,SAC,0,home,FreeThrow,,,make1,1,E. Bledsoe,
+24,1,8:57.0,7,4,PHO,SAC,15,away,JS,block,5,miss2,0,R. Sessions,E. Bledsoe
+25,1,8:55.0,7,4,PHO,SAC,2,away,OffReb,,,OffReb,,J. Thompson,
+26,1,8:55.0,7,4,PHO,SAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Bledsoe,J. Thompson
+27,1,8:55.0,7,5,PHO,SAC,0,away,FreeThrow,,,make1,1,J. Thompson,
+28,1,8:55.0,7,5,PHO,SAC,0,away,FreeThrow,,,make1,0,J. Thompson,
+29,1,8:53.0,7,5,PHO,SAC,2,home,DefReb,,,DefReb,,M. Plumlee,
+30,1,8:42.0,9,5,PHO,SAC,11,home,LU,assist,1,make2,2,G. Dragić,E. Bledsoe
+31,1,8:26.0,9,5,PHO,SAC,16,home,ChargeFoul,DrawnBy,,ChargeFoul,,B. McLemore,M. Plumlee
+32,1,8:26.0,9,5,PHO,SAC,0,away,OffensiveFoul,,,turnover,,B. McLemore,
+33,1,8:14.0,11,5,PHO,SAC,12,home,LU,,0,make2,2,M. Morris,
+34,1,8:13.0,11,5,PHO,SAC,1,away,Timeout,,,,,,
+35,1,7:55.0,11,5,PHO,SAC,18,away,JS,,12,miss2,0,R. Gay,
+36,1,7:52.0,11,5,PHO,SAC,3,away,OffReb,,,OffReb,,J. Thompson,
+37,1,7:52.0,11,7,PHO,SAC,0,away,LU,,1,make2,2,J. Thompson,
+38,1,7:27.0,13,7,PHO,SAC,25,home,JS,,15,make2,2,M. Plumlee,
+39,1,7:12.0,13,7,PHO,SAC,15,away,LU,,2,miss2,0,R. Sessions,
+40,1,7:10.0,13,7,PHO,SAC,2,home,DefReb,,,DefReb,,M. Plumlee,
+41,1,6:59.0,15,7,PHO,SAC,11,home,LU,,1,make2,2,M. Morris,
+42,1,6:43.0,15,7,PHO,SAC,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,R. Gay
+43,1,6:36.0,15,7,PHO,SAC,7,away,BadPass,steal,,turnover,,R. Sessions,G. Dragić
+44,1,6:20.0,18,7,PHO,SAC,16,home,JS,assist,25,make3,3,G. Dragić,E. Bledsoe
+45,1,6:13.0,18,7,PHO,SAC,7,away,Timeout,,,,,,
+46,1,6:13.0,18,7,PHO,SAC,0,away,Sub,,,,,C. Landry,J. Thompson
+47,1,6:13.0,18,7,PHO,SAC,0,away,Sub,,,,,R. Evans,D. Cousins
+48,1,6:02.0,18,9,PHO,SAC,11,away,JS,assist,4,make2,2,B. McLemore,R. Evans
+49,1,6:02.0,18,9,PHO,SAC,0,home,DefGoaltending,,,DefGoaltending,,M. Morris,
+50,1,5:41.0,20,9,PHO,SAC,21,home,JS,assist,7,make2,2,M. Plumlee,E. Bledsoe
+51,1,5:30.0,20,9,PHO,SAC,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,C. Landry
+52,1,5:30.0,20,9,PHO,SAC,0,home,Sub,,,,,A. Len,M. Plumlee
+53,1,5:20.0,20,9,PHO,SAC,10,away,JS,,4,miss2,0,R. Gay,
+54,1,5:18.0,20,9,PHO,SAC,2,home,DefReb,,,DefReb,,E. Bledsoe,
+55,1,5:13.0,20,9,PHO,SAC,5,home,LU,,1,miss2,0,G. Dragić,
+56,1,5:11.0,20,9,PHO,SAC,2,away,DefReb,,,DefReb,,C. Landry,
+57,1,4:54.0,20,11,PHO,SAC,17,away,LU,,1,make2,2,R. Gay,
+58,1,4:33.0,22,11,PHO,SAC,21,home,JS,,12,make2,2,M. Morris,
+59,1,4:12.0,22,11,PHO,SAC,21,away,JS,,25,miss3,0,B. McLemore,
+60,1,4:09.0,22,11,PHO,SAC,3,home,DefReb,,,DefReb,,M. Morris,
+61,1,4:01.0,22,11,PHO,SAC,8,home,JS,,5,miss2,0,A. Len,
+62,1,3:59.0,22,11,PHO,SAC,2,away,DefReb,,,DefReb,,R. Evans,
+63,1,3:48.0,22,13,PHO,SAC,11,away,LU,,1,make2,2,R. Gay,
+64,1,3:27.0,22,13,PHO,SAC,21,home,JS,block,8,miss2,0,E. Bledsoe,R. Evans
+65,1,3:25.0,22,13,PHO,SAC,2,away,DefReb,,,DefReb,,C. Landry,
+66,1,3:20.0,22,15,PHO,SAC,5,away,LU,,2,make2,2,B. McLemore,
+67,1,3:14.0,22,15,PHO,SAC,6,home,Timeout,,,,,,
+68,1,3:14.0,22,15,PHO,SAC,0,home,Sub,,,,,G. Green,M. Morris
+69,1,3:14.0,22,15,PHO,SAC,0,home,Sub,,,,,P. Tucker,E. Bledsoe
+70,1,3:04.0,25,15,PHO,SAC,10,home,JS,assist,24,make3,3,M. Morris,G. Dragić
+71,1,2:41.0,25,17,PHO,SAC,23,away,LU,assist,1,make2,2,C. Landry,R. Sessions
+72,1,2:35.0,25,17,PHO,SAC,6,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Len,R. Sessions
+73,1,2:35.0,25,17,PHO,SAC,0,home,OffensiveFoul,,,turnover,,A. Len,
+74,1,2:21.0,25,17,PHO,SAC,14,away,JS,,18,miss2,0,R. Gay,
+75,1,2:19.0,25,17,PHO,SAC,2,away,OffReb,,,OffReb,,C. Landry,
+76,1,2:10.0,25,17,PHO,SAC,9,away,LU,,2,miss2,0,R. Gay,
+77,1,2:08.0,25,17,PHO,SAC,2,home,DefReb,,,DefReb,,G. Dragić,
+78,1,2:05.0,25,17,PHO,SAC,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. McLemore,G. Dragić
+79,1,2:05.0,26,17,PHO,SAC,0,home,FreeThrow,,,make1,1,G. Dragić,
+80,1,2:05.0,26,17,PHO,SAC,0,away,Sub,,,,,N. Stauskas,B. McLemore
+81,1,2:05.0,26,17,PHO,SAC,0,home,FreeThrow,,,make1,0,G. Dragić,
+82,1,2:04.0,26,17,PHO,SAC,1,away,DefReb,,,DefReb,,R. Evans,
+83,1,1:59.0,26,19,PHO,SAC,5,away,LU,,1,make2,2,R. Sessions,
+84,1,1:59.0,26,19,PHO,SAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dragić,R. Sessions
+85,1,1:59.0,26,20,PHO,SAC,0,away,FreeThrow,,,make1,1,R. Sessions,
+86,1,1:42.0,26,20,PHO,SAC,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Stauskas,A. Len
+87,1,1:42.0,28,20,PHO,SAC,0,home,LU,assist,1,make2,2,A. Len,M. Morris
+88,1,1:42.0,29,20,PHO,SAC,0,home,FreeThrow,,,make1,1,A. Len,
+89,1,1:30.0,29,23,PHO,SAC,12,away,JS,,25,make3,3,N. Stauskas,
+90,1,1:22.0,32,23,PHO,SAC,8,home,JS,assist,23,make3,3,G. Green,G. Dragić
+91,1,1:03.0,32,23,PHO,SAC,19,away,JS,block,5,miss2,0,R. Evans,P. Tucker
+92,1,1:03.0,32,23,PHO,SAC,0,away,OffReb,,,OffReb,,Team,
+93,1,1:03.0,32,23,PHO,SAC,0,home,Sub,,,,,S. Randolph,A. Len
+94,1,1:01.0,32,23,PHO,SAC,2,away,BadPass,steal,,turnover,,R. Gay,G. Dragić
+95,1,0:59.0,34,23,PHO,SAC,2,home,LU,,1,make2,2,G. Dragić,
+96,1,0:48.0,34,23,PHO,SAC,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Randolph,R. Evans
+97,1,0:48.0,34,24,PHO,SAC,0,away,FreeThrow,,,make1,1,R. Evans,
+98,1,0:48.0,34,25,PHO,SAC,0,away,FreeThrow,,,make1,1,R. Evans,
+99,1,0:31.0,36,25,PHO,SAC,17,home,LU,,1,make2,2,G. Dragić,
+100,1,0:15.0,36,25,PHO,SAC,16,away,LU,,2,miss2,0,R. Evans,
+101,1,0:13.0,36,25,PHO,SAC,2,home,DefReb,,,DefReb,,P. Tucker,
+102,1,0:01.0,36,25,PHO,SAC,12,home,JS,,23,miss3,0,G. Dragić,
+103,1,0:00.0,36,25,PHO,SAC,1,home,OffReb,,,OffReb,,Team,
+104,2,11:41.0,36,27,PHO,SAC,19,away,LU,assist,0,make2,2,C. Landry,N. Stauskas
+105,2,11:25.0,36,27,PHO,SAC,16,home,BadPass,steal,,turnover,,I. Thomas,R. Sessions
+106,2,11:22.0,36,29,PHO,SAC,3,away,LU,,1,make2,2,R. Sessions,
+107,2,11:02.0,36,29,PHO,SAC,20,home,Traveling,,,turnover,,S. Randolph,
+108,2,10:43.0,36,29,PHO,SAC,19,away,JS,,9,miss2,0,D. Cousins,
+109,2,10:40.0,36,29,PHO,SAC,3,home,DefReb,,,DefReb,,P. Tucker,
+110,2,10:32.0,36,29,PHO,SAC,8,home,JS,,23,miss3,0,P. Tucker,
+111,2,10:31.0,36,29,PHO,SAC,1,away,DefReb,,,DefReb,,D. Cousins,
+112,2,10:21.0,36,31,PHO,SAC,10,away,LU,assist,2,make2,2,C. Landry,R. Sessions
+113,2,10:01.0,36,31,PHO,SAC,20,home,JS,,24,miss3,0,P. Tucker,
+114,2,9:59.0,36,31,PHO,SAC,2,home,OffReb,,,OffReb,,M. Plumlee,
+115,2,9:57.0,36,31,PHO,SAC,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Landry,P. Tucker
+116,2,9:57.0,36,31,PHO,SAC,0,home,FreeThrow,,,make1,0,P. Tucker,
+117,2,9:57.0,36,31,PHO,SAC,0,home,OffReb,,,OffReb,,Team,
+118,2,9:57.0,36,31,PHO,SAC,0,home,Sub,,,,,M. Morris,S. Randolph
+119,2,9:57.0,37,31,PHO,SAC,0,home,FreeThrow,,,make1,1,P. Tucker,
+120,2,9:43.0,37,33,PHO,SAC,14,away,LU,assist,1,make2,2,N. Stauskas,C. Landry
+121,2,9:27.0,37,33,PHO,SAC,16,home,JS,,25,miss3,0,G. Green,
+122,2,9:25.0,37,33,PHO,SAC,2,away,DefReb,,,DefReb,,D. Cousins,
+123,2,9:20.0,37,33,PHO,SAC,5,away,JS,,7,miss2,0,R. Sessions,
+124,2,9:19.0,37,33,PHO,SAC,1,away,OffReb,,,OffReb,,C. Landry,
+125,2,9:19.0,37,33,PHO,SAC,0,away,TI,,0,miss2,0,C. Landry,
+126,2,9:18.0,37,33,PHO,SAC,1,home,DefReb,,,DefReb,,M. Plumlee,
+127,2,9:12.0,37,33,PHO,SAC,6,home,JS,,25,miss3,0,I. Thomas,
+128,2,9:09.0,37,33,PHO,SAC,3,away,DefReb,,,DefReb,,D. Cousins,
+129,2,9:00.0,37,33,PHO,SAC,9,away,JS,,25,miss3,0,N. Stauskas,
+130,2,8:58.0,37,33,PHO,SAC,2,home,DefReb,,,DefReb,,P. Tucker,
+131,2,8:55.0,37,33,PHO,SAC,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,O. Casspi,P. Tucker
+132,2,8:55.0,37,33,PHO,SAC,0,away,Timeout,,,,,,
+133,2,8:44.0,39,33,PHO,SAC,11,home,JS,assist,17,make2,2,M. Morris,I. Thomas
+134,2,8:18.0,39,33,PHO,SAC,26,away,LU,,2,miss2,0,D. Cousins,
+135,2,8:16.0,39,33,PHO,SAC,2,home,DefReb,,,DefReb,,M. Plumlee,
+136,2,8:10.0,39,33,PHO,SAC,6,home,JS,,24,miss3,0,G. Green,
+137,2,8:06.0,39,33,PHO,SAC,4,away,DefReb,,,DefReb,,O. Casspi,
+138,2,7:57.0,39,35,PHO,SAC,9,away,JS,assist,7,make2,2,D. Cousins,O. Casspi
+139,2,7:38.0,39,35,PHO,SAC,19,home,JS,block,3,miss2,0,M. Plumlee,C. Landry
+140,2,7:36.0,39,35,PHO,SAC,2,away,DefReb,,,DefReb,,N. Stauskas,
+141,2,7:36.0,39,35,PHO,SAC,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Green,N. Stauskas
+142,2,7:36.0,39,35,PHO,SAC,0,home,Sub,,,,,E. Bledsoe,G. Green
+143,2,7:21.0,39,35,PHO,SAC,15,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,M. Plumlee,D. Cousins
+144,2,7:07.0,39,35,PHO,SAC,14,away,LU,,2,miss2,0,R. Sessions,
+145,2,7:05.0,39,35,PHO,SAC,2,away,OffReb,,,OffReb,,O. Casspi,
+146,2,7:05.0,39,35,PHO,SAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,O. Casspi
+147,2,7:05.0,39,36,PHO,SAC,0,away,FreeThrow,,,make1,1,O. Casspi,
+148,2,7:05.0,39,37,PHO,SAC,0,away,FreeThrow,,,make1,1,O. Casspi,
+149,2,6:50.0,39,37,PHO,SAC,15,home,JS,,24,miss3,0,E. Bledsoe,
+150,2,6:48.0,39,37,PHO,SAC,2,away,DefReb,,,DefReb,,N. Stauskas,
+151,2,6:43.0,39,37,PHO,SAC,5,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Landry,M. Morris
+152,2,6:43.0,39,37,PHO,SAC,0,away,OffensiveFoul,,,turnover,,C. Landry,
+153,2,6:27.0,39,37,PHO,SAC,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,I. Thomas
+154,2,6:27.0,39,37,PHO,SAC,0,away,Sub,,,,,J. Thompson,C. Landry
+155,2,6:19.0,42,37,PHO,SAC,8,home,JS,assist,25,make3,3,P. Tucker,I. Thomas
+156,2,6:03.0,42,37,PHO,SAC,16,away,Sub,,,,,D. Collison,R. Sessions
+157,2,6:03.0,42,37,PHO,SAC,0,away,Sub,,,,,R. Gay,O. Casspi
+158,2,5:51.0,42,39,PHO,SAC,12,away,LU,,1,make2,2,D. Cousins,
+159,2,5:41.0,45,39,PHO,SAC,10,home,JS,assist,22,make3,3,P. Tucker,E. Bledsoe
+160,2,5:20.0,45,41,PHO,SAC,21,away,JS,assist,21,make2,2,N. Stauskas,J. Thompson
+161,2,5:04.0,48,41,PHO,SAC,16,home,JS,assist,25,make3,3,M. Morris,E. Bledsoe
+162,2,4:43.0,48,41,PHO,SAC,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,D. Cousins
+163,2,4:43.0,48,41,PHO,SAC,0,home,Timeout,,,,,,
+164,2,4:43.0,48,41,PHO,SAC,0,home,Sub,,,,,G. Dragić,I. Thomas
+165,2,4:43.0,48,41,PHO,SAC,0,away,FreeThrow,,,make1,0,D. Cousins,
+166,2,4:43.0,48,41,PHO,SAC,0,away,OffReb,,,OffReb,,Team,
+167,2,4:43.0,48,42,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+168,2,4:26.0,48,42,PHO,SAC,17,home,JS,,7,miss2,0,G. Dragić,
+169,2,4:24.0,48,42,PHO,SAC,2,home,OffReb,,,OffReb,,M. Plumlee,
+170,2,4:24.0,48,42,PHO,SAC,0,home,TI,,1,miss2,0,M. Plumlee,
+171,2,4:21.0,48,42,PHO,SAC,3,away,DefReb,,,DefReb,,D. Collison,
+172,2,4:06.0,48,42,PHO,SAC,15,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Thompson,G. Dragić
+173,2,4:06.0,48,42,PHO,SAC,0,away,OffensiveFoul,,,turnover,,J. Thompson,
+174,2,3:52.0,50,42,PHO,SAC,14,home,JS,,9,make2,2,E. Bledsoe,
+175,2,3:40.0,50,42,PHO,SAC,12,away,BadPass,steal,,turnover,,D. Collison,E. Bledsoe
+176,2,3:38.0,52,42,PHO,SAC,2,home,DK,,0,make2,2,E. Bledsoe,
+177,2,3:36.0,52,42,PHO,SAC,2,away,Timeout,,,,,,
+178,2,3:26.0,52,42,PHO,SAC,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Bledsoe,D. Cousins
+179,2,3:26.0,52,43,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+180,2,3:26.0,52,44,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+181,2,3:04.0,52,44,PHO,SAC,22,home,JS,,17,miss2,0,M. Morris,
+182,2,3:02.0,52,44,PHO,SAC,2,home,OffReb,,,OffReb,,P. Tucker,
+183,2,2:59.0,52,44,PHO,SAC,3,home,JS,,23,miss3,0,E. Bledsoe,
+184,2,2:57.0,52,44,PHO,SAC,2,away,DefReb,,,DefReb,,D. Cousins,
+185,2,2:52.0,52,44,PHO,SAC,5,away,LU,,2,miss2,0,R. Gay,
+186,2,2:48.0,52,44,PHO,SAC,4,home,DefReb,,,DefReb,,E. Bledsoe,
+187,2,2:39.0,52,44,PHO,SAC,9,home,BadPass,,,turnover,,P. Tucker,
+188,2,2:23.0,52,44,PHO,SAC,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Bledsoe,D. Cousins
+189,2,2:23.0,52,44,PHO,SAC,0,home,DelayOfGame,,,DelayOfGame,,Team,
+190,2,2:23.0,52,45,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+191,2,2:23.0,52,45,PHO,SAC,0,home,Sub,,,,,A. Len,M. Plumlee
+192,2,2:23.0,52,45,PHO,SAC,0,home,Sub,,,,,M. Morris,E. Bledsoe
+193,2,2:23.0,52,45,PHO,SAC,0,away,Sub,,,,,R. Sessions,D. Collison
+194,2,2:23.0,52,46,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+195,2,2:05.0,52,46,PHO,SAC,18,home,JS,,7,miss2,0,M. Morris,
+196,2,2:03.0,52,46,PHO,SAC,2,away,DefReb,,,DefReb,,R. Sessions,
+197,2,1:58.0,52,49,PHO,SAC,5,away,JS,assist,24,make3,3,R. Gay,R. Sessions
+198,2,1:42.0,52,49,PHO,SAC,16,home,LU,,1,miss2,0,A. Len,
+199,2,1:41.0,52,49,PHO,SAC,1,away,DefReb,,,DefReb,,D. Cousins,
+200,2,1:41.0,52,49,PHO,SAC,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Len,D. Cousins
+201,2,1:41.0,52,50,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+202,2,1:41.0,52,51,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+203,2,1:25.0,54,51,PHO,SAC,16,home,JS,,3,make2,2,P. Tucker,
+204,2,1:25.0,54,51,PHO,SAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Stauskas,P. Tucker
+205,2,1:25.0,55,51,PHO,SAC,0,home,FreeThrow,,,make1,1,P. Tucker,
+206,2,1:05.0,55,51,PHO,SAC,20,away,JS,block,7,miss2,0,R. Gay,A. Len
+207,2,1:02.0,55,51,PHO,SAC,3,home,DefReb,,,DefReb,,M. Morris,
+208,2,0:58.0,55,51,PHO,SAC,4,home,JS,,13,miss2,0,M. Morris,
+209,2,0:56.0,55,51,PHO,SAC,2,home,OffReb,,,OffReb,,M. Morris,
+210,2,0:56.0,57,51,PHO,SAC,0,home,DK,,0,make2,2,M. Morris,
+211,2,0:38.0,57,53,PHO,SAC,18,away,JS,assist,8,make2,2,J. Thompson,N. Stauskas
+212,2,0:28.0,57,53,PHO,SAC,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Thompson,M. Morris
+213,2,0:28.0,58,53,PHO,SAC,0,home,FreeThrow,,,make1,1,M. Morris,
+214,2,0:28.0,58,53,PHO,SAC,0,home,FreeThrow,,,make1,0,M. Morris,
+215,2,0:28.0,58,53,PHO,SAC,0,away,DefReb,,,DefReb,,D. Cousins,
+216,2,0:06.0,58,53,PHO,SAC,22,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Len,D. Cousins
+217,2,0:06.0,58,54,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+218,2,0:06.0,58,54,PHO,SAC,0,away,Sub,,,,,O. Casspi,N. Stauskas
+219,2,0:06.0,58,54,PHO,SAC,0,away,Sub,,,,,D. Williams,J. Thompson
+220,2,0:06.0,58,54,PHO,SAC,0,home,Sub,,,,,G. Green,A. Len
+221,2,0:06.0,58,54,PHO,SAC,0,home,Sub,,,,,I. Thomas,M. Morris
+222,2,0:06.0,58,55,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+223,2,0:00.0,58,55,PHO,SAC,6,home,JS,,22,miss2,0,M. Morris,
+224,2,0:00.0,58,55,PHO,SAC,0,home,OffReb,,,OffReb,,Team,
+225,3,11:40.0,58,55,PHO,SAC,20,away,JS,,18,miss2,0,D. Cousins,
+226,3,11:38.0,58,55,PHO,SAC,2,home,DefReb,,,DefReb,,M. Morris,
+227,3,11:20.0,60,55,PHO,SAC,18,home,JS,,17,make2,2,M. Morris,
+228,3,11:09.0,60,55,PHO,SAC,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,D. Collison
+229,3,11:09.0,60,56,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Collison,
+230,3,11:09.0,60,57,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Collison,
+231,3,10:58.0,62,57,PHO,SAC,11,home,JS,,17,make2,2,G. Dragić,
+232,3,10:40.0,62,57,PHO,SAC,18,away,LU,block,2,miss2,0,B. McLemore,M. Morris
+233,3,10:40.0,62,57,PHO,SAC,0,away,OffReb,,,OffReb,,Team,
+234,3,10:28.0,62,57,PHO,SAC,12,away,JS,,25,miss3,0,D. Collison,
+235,3,10:26.0,62,57,PHO,SAC,2,home,DefReb,,,DefReb,,M. Plumlee,
+236,3,10:18.0,62,57,PHO,SAC,8,home,BadPass,steal,,turnover,,E. Bledsoe,R. Gay
+237,3,10:14.0,62,57,PHO,SAC,4,away,BadPass,steal,,turnover,,R. Gay,M. Morris
+238,3,10:07.0,62,57,PHO,SAC,7,home,JS,,17,miss2,0,G. Dragić,
+239,3,10:04.0,62,57,PHO,SAC,3,away,DefReb,,,DefReb,,R. Gay,
+240,3,9:57.0,62,57,PHO,SAC,7,away,JS,,23,miss3,0,B. McLemore,
+241,3,9:55.0,62,57,PHO,SAC,2,home,DefReb,,,DefReb,,M. Morris,
+242,3,9:46.0,64,57,PHO,SAC,9,home,LU,,2,make2,2,E. Bledsoe,
+243,3,9:46.0,64,57,PHO,SAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Gay,E. Bledsoe
+244,3,9:46.0,64,57,PHO,SAC,0,home,FreeThrow,,,make1,0,E. Bledsoe,
+245,3,9:45.0,64,57,PHO,SAC,1,away,DefReb,,,DefReb,,D. Cousins,
+246,3,9:27.0,64,57,PHO,SAC,18,away,LU,block,1,miss2,0,D. Cousins,E. Bledsoe
+247,3,9:25.0,64,57,PHO,SAC,2,home,DefReb,,,DefReb,,E. Bledsoe,
+248,3,9:17.0,64,57,PHO,SAC,8,home,JS,,16,miss2,0,G. Dragić,
+249,3,9:15.0,64,57,PHO,SAC,2,home,OffReb,,,OffReb,,E. Bledsoe,
+250,3,9:09.0,64,57,PHO,SAC,6,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Cousins,M. Morris
+251,3,9:09.0,65,57,PHO,SAC,0,home,FreeThrow,,,make1,1,M. Morris,
+252,3,9:09.0,66,57,PHO,SAC,0,home,FreeThrow,,,make1,1,M. Morris,
+253,3,8:56.0,66,57,PHO,SAC,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,J. Thompson
+254,3,8:56.0,66,58,PHO,SAC,0,away,FreeThrow,,,make1,1,J. Thompson,
+255,3,8:56.0,66,58,PHO,SAC,0,away,FreeThrow,,,make1,0,J. Thompson,
+256,3,8:55.0,66,58,PHO,SAC,1,away,OffReb,,,OffReb,,D. Cousins,
+257,3,8:45.0,66,60,PHO,SAC,10,away,JS,,4,make2,2,R. Gay,
+258,3,8:24.0,66,60,PHO,SAC,21,home,Traveling,,,turnover,,M. Plumlee,
+259,3,8:05.0,66,62,PHO,SAC,19,away,LU,,2,make2,2,D. Cousins,
+260,3,7:50.0,66,62,PHO,SAC,15,home,JS,,25,miss3,0,M. Morris,
+261,3,7:48.0,66,62,PHO,SAC,2,away,DefReb,,,DefReb,,D. Cousins,
+262,3,7:42.0,66,62,PHO,SAC,6,away,JS,,19,miss2,0,D. Collison,
+263,3,7:40.0,66,62,PHO,SAC,2,home,DefReb,,,DefReb,,M. Morris,
+264,3,7:33.0,68,62,PHO,SAC,7,home,JS,,7,make2,2,E. Bledsoe,
+265,3,7:33.0,68,62,PHO,SAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. McLemore,E. Bledsoe
+266,3,7:33.0,68,62,PHO,SAC,0,away,TechnicalFoul,,,TechnicalFoul,,J. Thompson,
+267,3,7:33.0,69,62,PHO,SAC,0,home,FreeThrow,,,make1,1,E. Bledsoe makes technical free throw,
+268,3,7:33.0,69,62,PHO,SAC,0,home,Sub,,,,,A. Len,M. Plumlee
+269,3,7:33.0,70,62,PHO,SAC,0,home,FreeThrow,,,make1,1,E. Bledsoe,
+270,3,7:15.0,70,62,PHO,SAC,18,away,JS,,24,miss3,0,R. Gay,
+271,3,7:13.0,70,62,PHO,SAC,2,away,OffReb,,,OffReb,,B. McLemore,
+272,3,7:04.0,70,62,PHO,SAC,9,away,JS,,25,miss3,0,B. McLemore,
+273,3,7:02.0,70,62,PHO,SAC,2,away,OffReb,,,OffReb,,R. Gay,
+274,3,6:56.0,70,64,PHO,SAC,6,away,JS,assist,20,make2,2,B. McLemore,D. Collison
+275,3,6:34.0,70,64,PHO,SAC,22,home,BadPass,,,turnover,,M. Morris,
+276,3,6:27.0,70,64,PHO,SAC,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Len,D. Cousins
+277,3,6:14.0,70,64,PHO,SAC,13,away,JS,,4,miss2,0,R. Gay,
+278,3,6:12.0,70,64,PHO,SAC,2,home,DefReb,,,DefReb,,M. Morris,
+279,3,6:06.0,73,64,PHO,SAC,6,home,JS,assist,23,make3,3,E. Bledsoe,G. Dragić
+280,3,5:44.0,73,64,PHO,SAC,22,away,LU,,2,miss2,0,D. Cousins,
+281,3,5:43.0,73,64,PHO,SAC,1,home,DefReb,,,DefReb,,G. Dragić,
+282,3,5:43.0,73,64,PHO,SAC,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,G. Dragić
+283,3,5:43.0,73,64,PHO,SAC,0,home,Timeout,,,,,,
+284,3,5:25.0,73,64,PHO,SAC,18,home,JS,,24,miss3,0,M. Morris,
+285,3,5:23.0,73,64,PHO,SAC,2,away,DefReb,,,DefReb,,D. Cousins,
+286,3,5:10.0,73,66,PHO,SAC,13,away,LU,,2,make2,2,D. Cousins,
+287,3,4:55.0,73,66,PHO,SAC,15,home,JS,,18,miss2,0,E. Bledsoe,
+288,3,4:54.0,73,66,PHO,SAC,1,away,DefReb,,,DefReb,,R. Gay,
+289,3,4:44.0,73,68,PHO,SAC,10,away,LU,,0,make2,2,D. Collison,
+290,3,4:31.0,73,68,PHO,SAC,13,home,JS,,6,miss2,0,A. Len,
+291,3,4:29.0,73,68,PHO,SAC,2,away,DefReb,,,DefReb,,J. Thompson,
+292,3,4:23.0,73,70,PHO,SAC,6,away,LU,,1,make2,2,D. Collison,
+293,3,4:22.0,73,70,PHO,SAC,1,home,Timeout,,,,,,
+294,3,3:59.0,73,70,PHO,SAC,23,home,JS,,14,miss2,0,M. Morris,
+295,3,3:56.0,73,70,PHO,SAC,3,away,DefReb,,,DefReb,,D. Collison,
+296,3,3:50.0,73,70,PHO,SAC,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Len,D. Cousins
+297,3,3:50.0,73,70,PHO,SAC,0,home,Sub,,,,,I. Thomas,E. Bledsoe
+298,3,3:50.0,73,70,PHO,SAC,0,home,Sub,,,,,M. Plumlee,A. Len
+299,3,3:40.0,73,70,PHO,SAC,10,away,JS,,4,miss2,0,D. Cousins,
+300,3,3:38.0,73,70,PHO,SAC,2,home,DefReb,,,DefReb,,M. Morris,
+301,3,3:34.0,75,70,PHO,SAC,4,home,LU,assist,1,make2,2,M. Plumlee,I. Thomas
+302,3,3:14.0,75,70,PHO,SAC,20,away,JS,,24,miss3,0,R. Gay,
+303,3,3:12.0,75,70,PHO,SAC,2,home,DefReb,,,DefReb,,M. Plumlee,
+304,3,3:03.0,78,70,PHO,SAC,9,home,JS,assist,26,make3,3,I. Thomas,G. Dragić
+305,3,3:01.0,78,70,PHO,SAC,2,away,Timeout,,,,,,
+306,3,3:01.0,78,70,PHO,SAC,0,home,Sub,,,,,P. Tucker,M. Morris
+307,3,3:01.0,78,70,PHO,SAC,0,away,Sub,,,,,R. Sessions,D. Cousins
+308,3,3:01.0,78,70,PHO,SAC,0,away,Sub,,,,,C. Landry,B. McLemore
+309,3,3:01.0,78,70,PHO,SAC,0,away,Sub,,,,,N. Stauskas,D. Collison
+310,3,2:41.0,78,70,PHO,SAC,20,away,BadPass,steal,,turnover,,R. Gay,M. Morris
+311,3,2:35.0,78,70,PHO,SAC,6,home,LU,,1,miss2,0,G. Dragić,
+312,3,2:33.0,78,70,PHO,SAC,2,home,OffReb,,,OffReb,,M. Plumlee,
+313,3,2:33.0,80,70,PHO,SAC,0,home,LU,,1,make2,2,M. Plumlee,
+314,3,2:08.0,80,72,PHO,SAC,25,away,JS,assist,9,make2,2,C. Landry,R. Sessions
+315,3,1:53.0,80,72,PHO,SAC,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Stauskas,G. Dragić
+316,3,1:53.0,81,72,PHO,SAC,0,home,FreeThrow,,,make1,1,G. Dragić,
+317,3,1:53.0,81,72,PHO,SAC,0,home,Sub,,,,,M. Morris,M. Plumlee
+318,3,1:53.0,81,72,PHO,SAC,0,away,Sub,,,,,R. Evans,J. Thompson
+319,3,1:53.0,82,72,PHO,SAC,0,home,FreeThrow,,,make1,1,G. Dragić,
+320,3,1:39.0,82,72,PHO,SAC,14,away,JS,,19,miss2,0,C. Landry,
+321,3,1:38.0,82,72,PHO,SAC,1,away,OffReb,,,OffReb,,R. Evans,
+322,3,1:34.0,82,72,PHO,SAC,4,away,LU,,2,miss2,0,R. Evans,
+323,3,1:33.0,82,72,PHO,SAC,1,away,OffReb,,,OffReb,,R. Evans,
+324,3,1:31.0,82,72,PHO,SAC,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,R. Evans
+325,3,1:31.0,82,72,PHO,SAC,0,away,FreeThrow,,,make1,0,R. Evans,
+326,3,1:31.0,82,72,PHO,SAC,0,away,OffReb,,,OffReb,,Team,
+327,3,1:31.0,82,72,PHO,SAC,0,home,Sub,,,,,S. Randolph,M. Morris
+328,3,1:31.0,82,73,PHO,SAC,0,away,FreeThrow,,,make1,1,R. Evans,
+329,3,1:21.0,82,73,PHO,SAC,10,home,JS,,25,miss3,0,I. Thomas,
+330,3,1:20.0,82,73,PHO,SAC,1,away,DefReb,,,DefReb,,Team,
+331,3,1:20.0,82,73,PHO,SAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Randolph,R. Evans
+332,3,1:20.0,82,74,PHO,SAC,0,away,FreeThrow,,,make1,1,R. Evans,
+333,3,1:20.0,82,75,PHO,SAC,0,away,FreeThrow,,,make1,1,R. Evans,
+334,3,1:05.0,84,75,PHO,SAC,15,home,JS,,7,make2,2,G. Dragić,
+335,3,0:43.0,84,75,PHO,SAC,22,away,JS,,15,miss2,0,R. Gay,
+336,3,0:41.0,84,75,PHO,SAC,2,home,DefReb,,,DefReb,,P. Tucker,
+337,3,0:34.0,86,75,PHO,SAC,7,home,LU,,0,make2,2,G. Dragić,
+338,3,0:19.0,86,77,PHO,SAC,15,away,JS,,4,make2,2,R. Sessions,
+339,3,0:02.0,86,77,PHO,SAC,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Evans,G. Dragić
+340,3,0:02.0,87,77,PHO,SAC,0,home,FreeThrow,,,make1,1,G. Dragić,
+341,3,0:02.0,88,77,PHO,SAC,0,home,FreeThrow,,,make1,1,G. Dragić,
+342,3,0:00.0,88,77,PHO,SAC,2,away,BadPass,steal,,turnover,,R. Evans,P. Tucker
+343,4,11:49.0,88,77,PHO,SAC,11,home,JS,,25,miss3,0,S. Randolph,
+344,4,11:47.0,88,77,PHO,SAC,2,away,DefReb,,,DefReb,,O. Casspi,
+345,4,11:32.0,88,79,PHO,SAC,15,away,DK,assist,0,make2,2,N. Stauskas,R. Evans
+346,4,11:13.0,91,79,PHO,SAC,19,home,JS,assist,24,make3,3,G. Green,I. Thomas
+347,4,10:52.0,91,79,PHO,SAC,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Randolph,O. Casspi
+348,4,10:52.0,91,80,PHO,SAC,0,away,FreeThrow,,,make1,1,O. Casspi,
+349,4,10:52.0,91,81,PHO,SAC,0,away,FreeThrow,,,make1,1,O. Casspi,
+350,4,10:39.0,91,81,PHO,SAC,13,home,JS,,17,miss2,0,G. Green,
+351,4,10:37.0,91,81,PHO,SAC,2,away,DefReb,,,DefReb,,R. Sessions,
+352,4,10:28.0,91,81,PHO,SAC,9,away,3sec,,,turnover,,R. Evans,
+353,4,10:28.0,91,81,PHO,SAC,0,home,Sub,,,,,E. Bledsoe,G. Dragić
+354,4,10:02.0,91,81,PHO,SAC,26,home,BadPass,steal,,turnover,,E. Bledsoe,C. Landry
+355,4,9:58.0,91,83,PHO,SAC,4,away,LU,assist,1,make2,2,R. Sessions,O. Casspi
+356,4,9:49.0,91,83,PHO,SAC,9,home,JS,,24,miss3,0,G. Green,
+357,4,9:46.0,91,83,PHO,SAC,3,away,DefReb,,,DefReb,,R. Evans,
+358,4,9:29.0,91,83,PHO,SAC,17,away,JS,,25,miss3,0,N. Stauskas,
+359,4,9:28.0,91,83,PHO,SAC,1,home,DefReb,,,DefReb,,I. Thomas,
+360,4,9:16.0,91,83,PHO,SAC,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Evans,S. Randolph
+361,4,9:08.0,91,83,PHO,SAC,8,home,JS,,23,miss3,0,P. Tucker,
+362,4,9:06.0,91,83,PHO,SAC,2,away,DefReb,,,DefReb,,O. Casspi,
+363,4,8:54.0,91,83,PHO,SAC,12,away,JS,,4,miss2,0,R. Sessions,
+364,4,8:54.0,91,83,PHO,SAC,0,home,DefReb,,,DefReb,,Team,
+365,4,8:54.0,91,83,PHO,SAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Evans,I. Thomas
+366,4,8:54.0,91,83,PHO,SAC,0,away,Timeout,,,,,,
+367,4,8:54.0,91,83,PHO,SAC,0,away,Sub,,,,,D. Cousins,R. Evans
+368,4,8:31.0,91,83,PHO,SAC,23,home,JS,block,8,miss2,0,E. Bledsoe,D. Cousins
+369,4,8:29.0,91,83,PHO,SAC,2,away,DefReb,,,DefReb,,R. Sessions,
+370,4,8:26.0,91,83,PHO,SAC,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,O. Casspi
+371,4,8:26.0,91,83,PHO,SAC,0,home,Sub,,,,,M. Plumlee,S. Randolph
+372,4,8:08.0,91,83,PHO,SAC,18,away,JS,,9,miss2,0,D. Cousins,
+373,4,8:06.0,91,83,PHO,SAC,2,home,DefReb,,,DefReb,,M. Plumlee,
+374,4,7:59.0,93,83,PHO,SAC,7,home,LU,assist,1,make2,2,M. Plumlee,E. Bledsoe
+375,4,7:43.0,93,83,PHO,SAC,16,away,Traveling,,,turnover,,O. Casspi,
+376,4,7:43.0,93,83,PHO,SAC,0,away,Sub,,,,,D. Collison,R. Sessions
+377,4,7:28.0,93,83,PHO,SAC,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Landry,M. Plumlee
+378,4,7:28.0,94,83,PHO,SAC,0,home,FreeThrow,,,make1,1,M. Plumlee,
+379,4,7:28.0,94,83,PHO,SAC,0,away,Sub,,,,,R. Gay,O. Casspi
+380,4,7:28.0,94,83,PHO,SAC,0,home,FreeThrow,,,make1,0,M. Plumlee,
+381,4,7:27.0,94,83,PHO,SAC,1,away,DefReb,,,DefReb,,C. Landry,
+382,4,7:10.0,94,85,PHO,SAC,17,away,JS,,9,make2,2,D. Cousins,
+383,4,7:10.0,94,85,PHO,SAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,D. Cousins
+384,4,7:10.0,94,86,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+385,4,6:56.0,94,86,PHO,SAC,14,home,JS,,26,miss3,0,G. Green,
+386,4,6:55.0,94,86,PHO,SAC,1,away,DefReb,,,DefReb,,Team,
+387,4,6:32.0,94,88,PHO,SAC,23,away,JS,assist,8,make2,2,C. Landry,D. Collison
+388,4,6:15.0,94,88,PHO,SAC,17,home,JS,,25,miss3,0,E. Bledsoe,
+389,4,6:12.0,94,88,PHO,SAC,3,away,DefReb,,,DefReb,,D. Cousins,
+390,4,6:05.0,94,90,PHO,SAC,7,away,LU,,0,make2,2,D. Collison,
+391,4,6:04.0,94,90,PHO,SAC,1,home,Timeout,,,,,,
+392,4,6:04.0,94,90,PHO,SAC,0,home,Sub,,,,,G. Dragić,G. Green
+393,4,6:04.0,94,90,PHO,SAC,0,home,Sub,,,,,M. Morris,P. Tucker
+394,4,6:04.0,94,90,PHO,SAC,0,home,Sub,,,,,M. Morris,I. Thomas
+395,4,5:41.0,94,90,PHO,SAC,23,home,JS,block,5,miss2,0,M. Morris,D. Cousins
+396,4,5:39.0,94,90,PHO,SAC,2,away,DefReb,,,DefReb,,D. Cousins,
+397,4,5:32.0,94,92,PHO,SAC,7,away,JS,,18,make2,2,D. Collison,
+398,4,5:15.0,94,92,PHO,SAC,17,home,JS,,5,miss2,0,G. Dragić,
+399,4,5:13.0,94,92,PHO,SAC,2,away,DefReb,,,DefReb,,D. Cousins,
+400,4,4:59.0,94,92,PHO,SAC,14,away,LU,,2,miss2,0,D. Cousins,
+401,4,4:57.0,94,92,PHO,SAC,2,away,OffReb,,,OffReb,,D. Cousins,
+402,4,4:57.0,94,92,PHO,SAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,D. Cousins
+403,4,4:57.0,94,93,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+404,4,4:57.0,94,94,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+405,4,4:36.0,96,94,PHO,SAC,21,home,JS,assist,19,make2,2,M. Morris,E. Bledsoe
+406,4,4:13.0,96,94,PHO,SAC,23,away,JS,,27,miss3,0,D. Collison,
+407,4,4:12.0,96,94,PHO,SAC,1,home,DefReb,,,DefReb,,Team,
+408,4,3:52.0,96,94,PHO,SAC,20,home,JS,,7,miss2,0,M. Morris,
+409,4,3:50.0,96,94,PHO,SAC,2,away,DefReb,,,DefReb,,D. Cousins,
+410,4,3:36.0,96,96,PHO,SAC,14,away,JS,,18,make2,2,C. Landry,
+411,4,3:17.0,96,96,PHO,SAC,19,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Morris,D. Collison
+412,4,3:17.0,96,96,PHO,SAC,0,home,OffensiveFoul,,,turnover,,M. Morris,
+413,4,3:17.0,96,96,PHO,SAC,0,home,Sub,,,,,P. Tucker,M. Morris
+414,4,3:00.0,96,96,PHO,SAC,17,away,JS,,11,miss2,0,R. Gay,
+415,4,2:57.0,96,96,PHO,SAC,3,home,DefReb,,,DefReb,,M. Plumlee,
+416,4,2:43.0,96,96,PHO,SAC,14,home,HS,,7,miss2,0,M. Plumlee,
+417,4,2:40.0,96,96,PHO,SAC,3,away,DefReb,,,DefReb,,N. Stauskas,
+418,4,2:21.0,96,96,PHO,SAC,19,away,JS,,23,miss3,0,N. Stauskas,
+419,4,2:20.0,96,96,PHO,SAC,1,home,DefReb,,,DefReb,,Team,
+420,4,2:20.0,96,96,PHO,SAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Cousins,P. Tucker
+421,4,2:20.0,96,96,PHO,SAC,0,away,Timeout,,,,,,
+422,4,2:09.0,96,96,PHO,SAC,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,E. Bledsoe
+423,4,2:09.0,97,96,PHO,SAC,0,home,FreeThrow,,,make1,1,E. Bledsoe,
+424,4,2:09.0,97,96,PHO,SAC,0,home,FreeThrow,,,make1,0,E. Bledsoe,
+425,4,2:08.0,97,96,PHO,SAC,1,away,DefReb,,,DefReb,,D. Cousins,
+426,4,1:45.0,97,96,PHO,SAC,23,away,JS,,26,miss3,0,R. Gay,
+427,4,1:44.0,97,96,PHO,SAC,1,away,OffReb,,,OffReb,,C. Landry,
+428,4,1:37.0,97,98,PHO,SAC,7,away,LU,assist,1,make2,2,D. Cousins,D. Collison
+429,4,1:37.0,97,98,PHO,SAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,D. Cousins
+430,4,1:37.0,97,99,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
+431,4,1:19.0,97,99,PHO,SAC,18,home,LU,,2,miss2,0,E. Bledsoe,
+432,4,1:16.0,97,99,PHO,SAC,3,away,DefReb,,,DefReb,,D. Cousins,
+433,4,1:00.0,97,99,PHO,SAC,16,away,Traveling,,,turnover,,D. Cousins,
+434,4,1:00.0,97,99,PHO,SAC,0,away,Sub,,,,,J. Thompson,D. Cousins
+435,4,0:39.0,99,99,PHO,SAC,21,home,LU,,1,make2,2,E. Bledsoe,
+436,4,0:38.0,99,99,PHO,SAC,1,away,Timeout,,,,,,
+437,4,0:38.0,99,99,PHO,SAC,0,away,Sub,,,,,D. Cousins,J. Thompson
+438,4,0:35.0,99,99,PHO,SAC,3,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Cousins,M. Morris
+439,4,0:35.0,99,99,PHO,SAC,0,away,OffensiveFoul,,,turnover,,D. Cousins,
+440,4,0:35.0,99,99,PHO,SAC,0,away,Sub,,,,,J. Thompson,D. Cousins
+441,4,0:35.0,99,99,PHO,SAC,0,home,Timeout,,,,,,
+442,4,0:35.0,99,99,PHO,SAC,0,away,Sub,,,,,B. McLemore,N. Stauskas
+443,4,0:31.0,99,99,PHO,SAC,4,home,JS,,14,miss2,0,M. Morris,
+444,4,0:25.0,99,99,PHO,SAC,6,away,DefReb,,,DefReb,,J. Thompson,
+445,4,0:11.0,99,99,PHO,SAC,14,away,JS,,12,miss2,0,D. Collison,
+446,4,0:10.0,99,99,PHO,SAC,1,home,DefReb,,,DefReb,,M. Plumlee,
+447,4,0:10.0,99,99,PHO,SAC,0,home,Timeout,,,,,,
+448,4,0:10.0,99,99,PHO,SAC,0,home,Sub,,,,,I. Thomas,M. Plumlee
+449,4,0:10.0,99,99,PHO,SAC,0,away,Sub,,,,,R. McCallum,J. Thompson
+450,4,0:00.0,99,99,PHO,SAC,10,home,JS,,25,miss3,0,I. Thomas,
+451,4,0:00.0,99,99,PHO,SAC,0,home,OffReb,,,OffReb,,Team,
+452,1OT,4:43.0,101,99,PHO,SAC,437,home,JS,assist,18,make2,2,P. Tucker,E. Bledsoe
+453,1OT,4:21.0,101,99,PHO,SAC,22,away,JS,,14,miss2,0,R. Gay,
+454,1OT,4:19.0,101,99,PHO,SAC,2,home,DefReb,,,DefReb,,P. Tucker,
+455,1OT,4:06.0,103,99,PHO,SAC,13,home,LU,,1,make2,2,E. Bledsoe,
+456,1OT,4:05.0,103,99,PHO,SAC,1,away,Timeout,,,,,,
+457,1OT,3:54.0,103,99,PHO,SAC,11,away,JS,block,5,miss2,0,R. Gay,M. Morris
+458,1OT,3:51.0,103,99,PHO,SAC,3,home,DefReb,,,DefReb,,M. Plumlee,
+459,1OT,3:49.0,103,99,PHO,SAC,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Gay,E. Bledsoe
+460,1OT,3:34.0,106,99,PHO,SAC,15,home,JS,assist,25,make3,3,P. Tucker,M. Plumlee
+461,1OT,3:10.0,106,101,PHO,SAC,24,away,JS,,14,make2,2,D. Collison,
+462,1OT,2:49.0,106,101,PHO,SAC,21,home,JS,,25,miss3,0,P. Tucker,
+463,1OT,2:46.0,106,101,PHO,SAC,3,away,DefReb,,,DefReb,,B. McLemore,
+464,1OT,2:38.0,106,101,PHO,SAC,8,away,JS,,16,miss2,0,J. Thompson,
+465,1OT,2:36.0,106,101,PHO,SAC,2,home,DefReb,,,DefReb,,M. Morris,
+466,1OT,2:14.0,106,101,PHO,SAC,22,home,JS,,16,miss2,0,G. Dragić,
+467,1OT,2:11.0,106,101,PHO,SAC,3,away,DefReb,,,DefReb,,R. Gay,
+468,1OT,2:06.0,106,103,PHO,SAC,5,away,LU,,1,make2,2,D. Collison,
+469,1OT,1:45.0,106,103,PHO,SAC,21,home,LostBall,steal,,turnover,,E. Bledsoe,B. McLemore
+470,1OT,1:31.0,106,103,PHO,SAC,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,B. McLemore
+471,1OT,1:31.0,106,104,PHO,SAC,0,away,FreeThrow,,,make1,1,B. McLemore,
+472,1OT,1:31.0,106,105,PHO,SAC,0,away,FreeThrow,,,make1,1,B. McLemore,
+473,1OT,1:17.0,106,105,PHO,SAC,14,home,BadPass,steal,,turnover,,E. Bledsoe,D. Collison
+474,1OT,1:14.0,106,105,PHO,SAC,3,away,LU,,1,miss2,0,D. Collison,
+475,1OT,1:12.0,106,105,PHO,SAC,2,home,DefReb,,,DefReb,,P. Tucker,
+476,1OT,1:11.0,106,105,PHO,SAC,1,home,Timeout,,,,,,
+477,1OT,0:57.0,106,105,PHO,SAC,14,home,JS,,26,miss3,0,M. Morris,
+478,1OT,0:55.0,106,105,PHO,SAC,2,away,DefReb,,,DefReb,,B. McLemore,
+479,1OT,0:42.0,106,105,PHO,SAC,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Bledsoe,D. Collison
+480,1OT,0:42.0,106,105,PHO,SAC,0,away,FreeThrow,,,make1,0,D. Collison,
+481,1OT,0:42.0,106,105,PHO,SAC,0,away,OffReb,,,OffReb,,Team,
+482,1OT,0:42.0,106,106,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Collison,
+483,1OT,0:21.0,106,106,PHO,SAC,21,home,JS,,6,miss2,0,E. Bledsoe,
+484,1OT,0:19.0,106,106,PHO,SAC,2,away,DefReb,,,DefReb,,C. Landry,
+485,1OT,0:14.0,106,106,PHO,SAC,5,away,Timeout,,,,,,
+486,1OT,0:14.0,106,106,PHO,SAC,0,away,Sub,,,,,N. Stauskas,C. Landry
+487,1OT,0:00.0,106,106,PHO,SAC,14,away,JS,,34,miss3,0,R. Gay,
+488,1OT,0:00.0,106,106,PHO,SAC,0,away,OffReb,,,OffReb,,Team,
+489,2OT,4:35.0,106,106,PHO,SAC,445,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. McLemore,G. Dragić
+490,2OT,4:35.0,107,106,PHO,SAC,0,home,FreeThrow,,,make1,1,G. Dragić,
+491,2OT,4:35.0,108,106,PHO,SAC,0,home,FreeThrow,,,make1,1,G. Dragić,
+492,2OT,4:18.0,108,106,PHO,SAC,17,away,JS,,16,miss2,0,R. Gay,
+493,2OT,4:16.0,108,106,PHO,SAC,2,home,DefReb,,,DefReb,,M. Plumlee,
+494,2OT,3:53.0,108,106,PHO,SAC,23,home,LostBall,steal,,turnover,,E. Bledsoe,D. Collison
+495,2OT,3:38.0,108,108,PHO,SAC,15,away,JS,,4,make2,2,B. McLemore,
+496,2OT,3:18.0,108,108,PHO,SAC,20,home,JS,,12,miss2,0,G. Dragić,
+497,2OT,3:16.0,108,108,PHO,SAC,2,away,DefReb,,,DefReb,,R. Gay,
+498,2OT,3:05.0,108,108,PHO,SAC,11,away,JS,,4,miss2,0,D. Collison,
+499,2OT,3:05.0,108,108,PHO,SAC,0,away,OffReb,,,OffReb,,Team,
+500,2OT,3:05.0,108,108,PHO,SAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,G. Dragić,J. Thompson
+501,2OT,3:00.0,108,108,PHO,SAC,5,away,Traveling,,,turnover,,R. Gay,
+502,2OT,2:42.0,108,108,PHO,SAC,18,home,JS,,11,miss2,0,P. Tucker,
+503,2OT,2:42.0,108,108,PHO,SAC,0,home,OffReb,,,OffReb,,M. Plumlee,
+504,2OT,2:42.0,108,108,PHO,SAC,0,home,TI,,1,miss2,0,M. Plumlee,
+505,2OT,2:39.0,108,108,PHO,SAC,3,home,OffReb,,,OffReb,,M. Plumlee,
+506,2OT,2:39.0,110,108,PHO,SAC,0,home,LU,,1,make2,2,M. Plumlee,
+507,2OT,2:27.0,110,108,PHO,SAC,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Bledsoe,D. Collison
+508,2OT,2:21.0,110,108,PHO,SAC,6,away,JS,,20,miss2,0,D. Collison,
+509,2OT,2:19.0,110,108,PHO,SAC,2,home,DefReb,,,DefReb,,E. Bledsoe,
+510,2OT,2:08.0,112,108,PHO,SAC,11,home,LU,,1,make2,2,E. Bledsoe,
+511,2OT,2:08.0,112,108,PHO,SAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. McLemore,E. Bledsoe
+512,2OT,2:08.0,112,108,PHO,SAC,0,home,FreeThrow,,,make1,0,E. Bledsoe,
+513,2OT,2:07.0,112,108,PHO,SAC,1,away,DefReb,,,DefReb,,J. Thompson,
+514,2OT,1:49.0,112,111,PHO,SAC,18,away,JS,assist,22,make3,3,B. McLemore,R. Gay
+515,2OT,1:24.0,112,111,PHO,SAC,25,home,JS,,9,miss2,0,M. Plumlee,
+516,2OT,1:22.0,112,111,PHO,SAC,2,away,DefReb,,,DefReb,,R. Gay,
+517,2OT,1:07.0,112,113,PHO,SAC,15,away,JS,,9,make2,2,R. Gay,
+518,2OT,0:46.0,112,113,PHO,SAC,21,home,JS,,16,miss2,0,G. Dragić,
+519,2OT,0:44.0,112,113,PHO,SAC,2,away,DefReb,,,DefReb,,R. Gay,
+520,2OT,0:25.0,112,113,PHO,SAC,19,away,JS,,25,miss3,0,R. Gay,
+521,2OT,0:22.0,112,113,PHO,SAC,3,away,OffReb,,,OffReb,,C. Landry,
+522,2OT,0:19.0,112,113,PHO,SAC,3,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,G. Dragić,R. Gay
+523,2OT,0:19.0,112,113,PHO,SAC,0,home,Sub,,,,,G. Green,E. Bledsoe
+524,2OT,0:15.0,112,113,PHO,SAC,4,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,G. Dragić,D. Collison
+525,2OT,0:15.0,112,113,PHO,SAC,0,away,FreeThrow,,,make1,0,D. Collison,
+526,2OT,0:15.0,112,113,PHO,SAC,0,away,OffReb,,,OffReb,,Team,
+527,2OT,0:15.0,112,114,PHO,SAC,0,away,FreeThrow,,,make1,1,D. Collison,
+528,2OT,0:15.0,112,114,PHO,SAC,0,home,Timeout,,,,,,
+529,2OT,0:15.0,112,114,PHO,SAC,0,home,Sub,,,,,E. Bledsoe,G. Green
+530,2OT,0:04.0,112,114,PHO,SAC,11,home,JS,,23,miss3,0,P. Tucker,
+531,2OT,0:02.0,112,114,PHO,SAC,2,home,OffReb,,,OffReb,,M. Morris,
+532,2OT,0:00.0,112,114,PHO,SAC,2,home,JS,,15,miss2,0,M. Morris,
+533,2OT,0:00.0,112,114,PHO,SAC,0,home,OffReb,,,OffReb,,Team,

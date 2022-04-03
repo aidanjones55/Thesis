@@ -1,0 +1,478 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:42.0,3,0,IND,OKC,18,home,JS,assist,26,make3,3,P. George,J. Teague
+1,1,11:28.0,3,0,IND,OKC,14,away,JS,,26,miss3,0,V. Oladipo,
+2,1,11:28.0,3,0,IND,OKC,0,home,DefReb,,,DefReb,,Team,
+3,1,11:14.0,3,0,IND,OKC,14,home,LU,block,2,miss2,0,L. Allen,R. Westbrook
+4,1,11:14.0,3,0,IND,OKC,0,away,DefReb,,,DefReb,,A. Roberson,
+5,1,11:08.0,3,0,IND,OKC,6,away,JS,,16,miss2,0,V. Oladipo,
+6,1,11:07.0,3,0,IND,OKC,1,home,DefReb,,,DefReb,,L. Allen,
+7,1,11:01.0,3,0,IND,OKC,6,home,JS,,26,miss3,0,M. Turner,
+8,1,10:59.0,3,0,IND,OKC,2,home,OffReb,,,OffReb,,P. George,
+9,1,10:49.0,3,0,IND,OKC,10,home,JS,,26,miss3,0,J. Teague,
+10,1,10:49.0,3,0,IND,OKC,0,home,OffReb,,,OffReb,,Team,
+11,1,10:42.0,5,0,IND,OKC,7,home,JS,assist,19,make2,2,C. Miles,P. George
+12,1,10:25.0,5,2,IND,OKC,17,away,LU,,1,make2,2,S. Adams,
+13,1,10:08.0,5,2,IND,OKC,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Sabonis,M. Turner
+14,1,10:08.0,6,2,IND,OKC,0,home,FreeThrow,,,make1,1,M. Turner,
+15,1,10:08.0,6,2,IND,OKC,0,home,FreeThrow,,,make1,0,M. Turner,
+16,1,10:08.0,6,2,IND,OKC,0,away,DefReb,,,DefReb,,R. Westbrook,
+17,1,10:03.0,6,2,IND,OKC,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Miles,A. Roberson
+18,1,10:03.0,6,2,IND,OKC,0,away,FreeThrow,,,make1,0,A. Roberson,
+19,1,10:03.0,6,2,IND,OKC,0,away,OffReb,,,OffReb,,Team,
+20,1,10:03.0,6,3,IND,OKC,0,away,FreeThrow,,,make1,1,A. Roberson,
+21,1,9:54.0,6,3,IND,OKC,9,home,LostBall,,,turnover,,P. George,
+22,1,9:37.0,6,5,IND,OKC,17,away,DK,assist,2,make2,2,S. Adams,D. Sabonis
+23,1,9:14.0,6,5,IND,OKC,23,home,JS,,26,miss3,0,P. George,
+24,1,9:14.0,6,5,IND,OKC,0,away,DefReb,,,DefReb,,R. Westbrook,
+25,1,9:04.0,6,7,IND,OKC,10,away,JS,,16,make2,2,R. Westbrook,
+26,1,8:47.0,6,7,IND,OKC,17,home,BadPass,,,turnover,,P. George,
+27,1,8:41.0,6,9,IND,OKC,6,away,LU,assist,1,make2,2,V. Oladipo,R. Westbrook
+28,1,8:28.0,6,9,IND,OKC,13,home,JS,,24,miss3,0,C. Miles,
+29,1,8:27.0,6,9,IND,OKC,1,home,OffReb,,,OffReb,,M. Turner,
+30,1,8:23.0,6,9,IND,OKC,4,home,JS,,17,miss2,0,M. Turner,
+31,1,8:21.0,6,9,IND,OKC,2,away,DefReb,,,DefReb,,V. Oladipo,
+32,1,8:12.0,6,9,IND,OKC,9,away,JS,,15,miss2,0,R. Westbrook,
+33,1,8:12.0,6,9,IND,OKC,0,home,DefReb,,,DefReb,,L. Allen,
+34,1,8:02.0,6,9,IND,OKC,10,home,JS,,4,miss2,0,J. Teague,
+35,1,8:01.0,6,9,IND,OKC,1,home,OffReb,,,OffReb,,L. Allen,
+36,1,8:01.0,8,9,IND,OKC,0,home,DK,,0,make2,2,L. Allen,
+37,1,7:34.0,8,11,IND,OKC,27,away,JS,assist,13,make2,2,R. Westbrook,S. Adams
+38,1,7:21.0,8,11,IND,OKC,13,home,LU,,3,miss2,0,J. Teague,
+39,1,7:20.0,8,11,IND,OKC,1,away,DefReb,,,DefReb,,R. Westbrook,
+40,1,7:13.0,8,11,IND,OKC,7,away,DK,,0,miss2,0,V. Oladipo,
+41,1,7:13.0,8,11,IND,OKC,0,home,DefReb,,,DefReb,,P. George,
+42,1,7:03.0,11,11,IND,OKC,10,home,JS,assist,24,make3,3,J. Teague,M. Turner
+43,1,6:48.0,11,11,IND,OKC,15,away,LU,block,2,miss2,0,V. Oladipo,M. Turner
+44,1,6:47.0,11,11,IND,OKC,1,away,OffReb,,,OffReb,,D. Sabonis,
+45,1,6:37.0,11,11,IND,OKC,10,away,HS,,6,miss2,0,S. Adams,
+46,1,6:36.0,11,11,IND,OKC,1,home,DefReb,,,DefReb,,M. Turner,
+47,1,6:25.0,11,11,IND,OKC,11,home,BadPass,,,turnover,,P. George,
+48,1,6:25.0,11,11,IND,OKC,0,away,Timeout,,,,,,
+49,1,6:25.0,11,11,IND,OKC,0,away,Sub,,,,,A. Morrow,V. Oladipo
+50,1,6:11.0,11,13,IND,OKC,14,away,LU,,2,make2,2,S. Adams,
+51,1,5:55.0,11,13,IND,OKC,16,home,JS,,26,miss3,0,C. Miles,
+52,1,5:53.0,11,13,IND,OKC,2,away,DefReb,,,DefReb,,S. Adams,
+53,1,5:46.0,11,13,IND,OKC,7,away,JS,,16,miss2,0,R. Westbrook,
+54,1,5:46.0,11,13,IND,OKC,0,away,OffReb,,,OffReb,,S. Adams,
+55,1,5:46.0,11,13,IND,OKC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,P. George,S. Adams
+56,1,5:37.0,11,13,IND,OKC,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,R. Westbrook
+57,1,5:37.0,11,14,IND,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+58,1,5:37.0,11,15,IND,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+59,1,5:23.0,11,15,IND,OKC,14,home,LU,block,3,miss2,0,L. Allen,R. Westbrook
+60,1,5:22.0,11,15,IND,OKC,1,home,OffReb,,,OffReb,,L. Allen,
+61,1,5:16.0,11,15,IND,OKC,6,home,JS,,17,miss2,0,P. George,
+62,1,5:15.0,11,15,IND,OKC,1,home,OffReb,,,OffReb,,L. Allen,
+63,1,5:04.0,11,15,IND,OKC,11,home,JS,,5,miss2,0,M. Turner,
+64,1,5:03.0,11,15,IND,OKC,1,away,DefReb,,,DefReb,,A. Roberson,
+65,1,4:55.0,11,15,IND,OKC,8,away,BadPass,steal,,turnover,,R. Westbrook,P. George
+66,1,4:47.0,11,15,IND,OKC,8,home,JS,,24,miss3,0,J. Teague,
+67,1,4:44.0,11,15,IND,OKC,3,home,OffReb,,,OffReb,,P. George,
+68,1,4:41.0,11,15,IND,OKC,3,home,JS,,23,miss3,0,P. George,
+69,1,4:38.0,11,15,IND,OKC,3,away,DefReb,,,DefReb,,D. Sabonis,
+70,1,4:36.0,11,15,IND,OKC,2,home,ChargeFoul,DrawnBy,,ChargeFoul,,R. Westbrook,P. George
+71,1,4:36.0,11,15,IND,OKC,0,away,OffensiveFoul,,,turnover,,R. Westbrook,
+72,1,4:33.0,11,15,IND,OKC,3,home,JS,,25,miss3,0,P. George,
+73,1,4:31.0,11,15,IND,OKC,2,home,OffReb,,,OffReb,,P. George,
+74,1,4:25.0,11,15,IND,OKC,6,home,JS,,24,miss3,0,P. George,
+75,1,4:24.0,11,15,IND,OKC,1,away,DefReb,,,DefReb,,R. Westbrook,
+76,1,4:18.0,11,15,IND,OKC,6,away,JS,,23,miss2,0,R. Westbrook,
+77,1,4:18.0,11,15,IND,OKC,0,away,OffReb,,,OffReb,,S. Adams,
+78,1,4:18.0,11,15,IND,OKC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,P. George,S. Adams
+79,1,4:18.0,11,15,IND,OKC,0,away,Sub,,,,,J. Lauvergne,D. Sabonis
+80,1,4:18.0,11,15,IND,OKC,0,home,Sub,,,,,M. Ellis,C. Miles
+81,1,4:18.0,11,15,IND,OKC,0,home,Sub,,,,,G. Robinson,P. George
+82,1,4:07.0,11,15,IND,OKC,11,away,LU,,4,miss2,0,S. Adams,
+83,1,4:06.0,11,15,IND,OKC,1,home,DefReb,,,DefReb,,G. Robinson,
+84,1,3:43.0,11,15,IND,OKC,23,home,JS,,10,miss2,0,L. Allen,
+85,1,3:42.0,11,15,IND,OKC,1,away,DefReb,,,DefReb,,R. Westbrook,
+86,1,3:32.0,11,17,IND,OKC,10,away,LU,assist,2,make2,2,S. Adams,R. Westbrook
+87,1,3:20.0,11,17,IND,OKC,12,home,Timeout,,,,,,
+88,1,3:20.0,11,17,IND,OKC,0,away,Sub,,,,,V. Oladipo,A. Roberson
+89,1,3:20.0,11,17,IND,OKC,0,away,Sub,,,,,J. Grant,S. Adams
+90,1,3:20.0,11,17,IND,OKC,0,home,Sub,,,,,K. Séraphin,L. Allen
+91,1,3:13.0,11,17,IND,OKC,7,home,JS,block,7,miss2,0,M. Turner,J. Grant
+92,1,3:11.0,11,17,IND,OKC,2,away,DefReb,,,DefReb,,A. Morrow,
+93,1,3:02.0,11,17,IND,OKC,9,away,LostBall,steal,,turnover,,J. Lauvergne,M. Ellis
+94,1,2:58.0,13,17,IND,OKC,4,home,LU,assist,2,make2,2,J. Teague,G. Robinson
+95,1,2:47.0,13,17,IND,OKC,11,away,LU,block,3,miss2,0,R. Westbrook,M. Turner
+96,1,2:46.0,13,17,IND,OKC,1,home,DefReb,,,DefReb,,J. Teague,
+97,1,2:46.0,13,17,IND,OKC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Westbrook,J. Teague
+98,1,2:46.0,13,17,IND,OKC,0,away,Sub,,,,,C. Payne,R. Westbrook
+99,1,2:46.0,13,17,IND,OKC,0,home,Sub,,,,,R. Stuckey,M. Turner
+100,1,2:46.0,13,17,IND,OKC,0,home,Sub,,,,,A. Jefferson,J. Teague
+101,1,2:31.0,13,17,IND,OKC,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,V. Oladipo,R. Stuckey
+102,1,2:31.0,14,17,IND,OKC,0,home,FreeThrow,,,make1,1,R. Stuckey,
+103,1,2:31.0,15,17,IND,OKC,0,home,FreeThrow,,,make1,1,R. Stuckey,
+104,1,2:31.0,16,17,IND,OKC,0,home,FreeThrow,,,make1,1,R. Stuckey,
+105,1,2:12.0,16,17,IND,OKC,19,away,JS,,24,miss3,0,J. Grant,
+106,1,2:11.0,16,17,IND,OKC,1,home,DefReb,,,DefReb,,R. Stuckey,
+107,1,2:01.0,18,17,IND,OKC,10,home,JS,assist,6,make2,2,A. Jefferson,R. Stuckey
+108,1,1:49.0,18,19,IND,OKC,12,away,JS,assist,19,make2,2,J. Lauvergne,C. Payne
+109,1,1:32.0,18,19,IND,OKC,17,home,JS,,7,miss2,0,A. Jefferson,
+110,1,1:31.0,18,19,IND,OKC,1,away,DefReb,,,DefReb,,V. Oladipo,
+111,1,1:23.0,18,21,IND,OKC,8,away,JS,,13,make2,2,V. Oladipo,
+112,1,1:14.0,18,21,IND,OKC,9,home,BadPass,steal,,turnover,,R. Stuckey,A. Morrow
+113,1,1:09.0,18,23,IND,OKC,5,away,DK,assist,4,make2,2,J. Grant,V. Oladipo
+114,1,0:50.0,20,23,IND,OKC,19,home,LU,,2,make2,2,A. Jefferson,
+115,1,0:30.0,20,25,IND,OKC,20,away,DK,assist,4,make2,2,J. Lauvergne,V. Oladipo
+116,1,0:07.0,20,25,IND,OKC,23,home,LU,,3,miss2,0,M. Ellis,
+117,1,0:06.0,20,25,IND,OKC,1,away,DefReb,,,DefReb,,J. Grant,
+118,1,0:01.0,20,25,IND,OKC,5,away,LU,,4,miss2,0,J. Lauvergne,
+119,1,0:00.0,20,25,IND,OKC,1,home,DefReb,,,DefReb,,A. Jefferson,
+120,2,11:46.0,20,25,IND,OKC,14,away,JS,,23,miss3,0,A. Morrow,
+121,2,11:45.0,20,25,IND,OKC,1,home,DefReb,,,DefReb,,K. Séraphin,
+122,2,11:33.0,22,25,IND,OKC,12,home,LU,assist,2,make2,2,R. Stuckey,M. Ellis
+123,2,11:20.0,22,27,IND,OKC,13,away,JS,,5,make2,2,C. Payne,
+124,2,11:09.0,22,27,IND,OKC,11,home,LU,,2,miss2,0,R. Stuckey,
+125,2,11:07.0,22,27,IND,OKC,2,home,OffReb,,,OffReb,,A. Jefferson,
+126,2,10:56.0,22,27,IND,OKC,11,home,JS,,14,miss2,0,M. Ellis,
+127,2,10:56.0,22,27,IND,OKC,0,home,OffReb,,,OffReb,,A. Jefferson,
+128,2,10:54.0,22,27,IND,OKC,2,home,LU,,2,miss2,0,A. Jefferson,
+129,2,10:52.0,22,27,IND,OKC,2,away,DefReb,,,DefReb,,A. Morrow,
+130,2,10:37.0,22,29,IND,OKC,15,away,DK,,3,make2,2,J. Grant,
+131,2,10:25.0,22,29,IND,OKC,12,away,Sub,,,,,S. Adams,J. Lauvergne
+132,2,10:25.0,22,29,IND,OKC,0,away,Sub,,,,,Á. Abrines,A. Morrow
+133,2,10:14.0,22,29,IND,OKC,11,home,JS,block,4,miss2,0,R. Stuckey,V. Oladipo
+134,2,10:14.0,22,29,IND,OKC,0,home,OffReb,,,OffReb,,Team,
+135,2,10:11.0,24,29,IND,OKC,3,home,JS,assist,14,make2,2,G. Robinson,M. Ellis
+136,2,9:49.0,24,29,IND,OKC,22,away,OutOfBounds,,,turnover,,S. Adams,
+137,2,9:35.0,24,29,IND,OKC,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,Á. Abrines,G. Robinson
+138,2,9:35.0,25,29,IND,OKC,0,home,FreeThrow,,,make1,1,G. Robinson,
+139,2,9:35.0,25,29,IND,OKC,0,home,FreeThrow,,,make1,0,G. Robinson,
+140,2,9:34.0,25,29,IND,OKC,1,home,OffReb,,,OffReb,,G. Robinson,
+141,2,9:22.0,27,29,IND,OKC,12,home,LU,,2,make2,2,M. Ellis,
+142,2,9:08.0,27,29,IND,OKC,14,away,JS,,9,miss2,0,S. Adams,
+143,2,9:08.0,27,29,IND,OKC,0,home,DefReb,,,DefReb,,M. Ellis,
+144,2,8:58.0,27,29,IND,OKC,10,home,JS,block,4,miss2,0,A. Jefferson,J. Grant
+145,2,8:57.0,27,29,IND,OKC,1,away,DefReb,,,DefReb,,C. Payne,
+146,2,8:53.0,27,29,IND,OKC,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,V. Oladipo
+147,2,8:53.0,27,29,IND,OKC,0,away,Timeout,,,,,,
+148,2,8:53.0,27,30,IND,OKC,0,away,FreeThrow,,,make1,1,V. Oladipo,
+149,2,8:53.0,27,29,IND,OKC,0,away,Sub,,,,,R. Westbrook,C. Payne
+150,2,8:53.0,27,31,IND,OKC,0,away,FreeThrow,,,make1,1,V. Oladipo,
+151,2,8:32.0,29,31,IND,OKC,21,home,HS,assist,5,make2,2,K. Séraphin,A. Jefferson
+152,2,8:20.0,29,34,IND,OKC,12,away,JS,assist,26,make3,3,Á. Abrines,R. Westbrook
+153,2,7:56.0,29,34,IND,OKC,24,home,JS,,18,miss2,0,K. Séraphin,
+154,2,7:56.0,29,34,IND,OKC,0,away,DefReb,,,DefReb,,R. Westbrook,
+155,2,7:39.0,29,34,IND,OKC,17,away,JS,,26,miss3,0,Á. Abrines,
+156,2,7:39.0,29,34,IND,OKC,0,away,OffReb,,,OffReb,,R. Westbrook,
+157,2,7:28.0,29,37,IND,OKC,11,away,JS,assist,26,make3,3,Á. Abrines,R. Westbrook
+158,2,7:08.0,29,37,IND,OKC,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,M. Ellis
+159,2,7:08.0,29,37,IND,OKC,0,home,FreeThrow,,,make1,0,M. Ellis,
+160,2,7:08.0,29,37,IND,OKC,0,home,OffReb,,,OffReb,,Team,
+161,2,7:08.0,29,37,IND,OKC,0,home,FreeThrow,,,make1,0,M. Ellis,
+162,2,7:08.0,29,37,IND,OKC,0,away,DefReb,,,DefReb,,R. Westbrook,
+163,2,7:08.0,29,37,IND,OKC,0,away,Sub,,,,,C. Payne,V. Oladipo
+164,2,7:08.0,29,37,IND,OKC,0,home,Sub,,,,,P. George,G. Robinson
+165,2,7:08.0,29,37,IND,OKC,0,home,Sub,,,,,M. Turner,A. Jefferson
+166,2,7:08.0,29,37,IND,OKC,0,home,Sub,,,,,J. Teague,R. Stuckey
+167,2,7:08.0,29,37,IND,OKC,0,away,Sub,,,,,A. Roberson,Á. Abrines
+168,2,6:56.0,29,37,IND,OKC,12,away,JS,,17,miss2,0,R. Westbrook,
+169,2,6:55.0,29,37,IND,OKC,1,away,OffReb,,,OffReb,,S. Adams,
+170,2,6:51.0,29,37,IND,OKC,4,away,LU,block,1,miss2,0,S. Adams,K. Séraphin
+171,2,6:49.0,29,37,IND,OKC,2,away,OffReb,,,OffReb,,J. Grant,
+172,2,6:49.0,29,37,IND,OKC,0,away,Traveling,,,turnover,,J. Grant,
+173,2,6:27.0,29,37,IND,OKC,22,home,JS,,15,miss2,0,P. George,
+174,2,6:27.0,29,37,IND,OKC,0,home,OffReb,,,OffReb,,Team,
+175,2,6:27.0,29,37,IND,OKC,0,home,Sub,,,,,C. Miles,K. Séraphin
+176,2,6:03.0,29,37,IND,OKC,24,home,JS,,22,miss2,0,C. Miles,
+177,2,6:02.0,29,37,IND,OKC,1,away,DefReb,,,DefReb,,A. Roberson,
+178,2,5:51.0,29,39,IND,OKC,11,away,JS,,13,make2,2,R. Westbrook,
+179,2,5:47.0,29,39,IND,OKC,4,home,Timeout,,,,,,
+180,2,5:47.0,29,39,IND,OKC,0,home,Sub,,,,,L. Allen,M. Ellis
+181,2,5:32.0,29,39,IND,OKC,15,home,BadPass,steal,,turnover,,L. Allen,J. Grant
+182,2,5:17.0,29,41,IND,OKC,15,away,LU,assist,2,make2,2,A. Roberson,R. Westbrook
+183,2,4:59.0,29,41,IND,OKC,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Roberson,P. George
+184,2,4:59.0,30,41,IND,OKC,0,home,FreeThrow,,,make1,1,P. George,
+185,2,4:59.0,30,41,IND,OKC,0,home,FreeThrow,,,make1,0,P. George,
+186,2,4:58.0,30,41,IND,OKC,1,away,DefReb,,,DefReb,,R. Westbrook,
+187,2,4:53.0,30,41,IND,OKC,5,home,KickBallViolation,,,KickBallViolation,,P. George,
+188,2,4:38.0,30,41,IND,OKC,15,away,JS,,26,miss3,0,R. Westbrook,
+189,2,4:36.0,30,41,IND,OKC,2,home,DefReb,,,DefReb,,C. Miles,
+190,2,4:35.0,30,41,IND,OKC,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Payne,J. Teague
+191,2,4:35.0,30,41,IND,OKC,0,away,Sub,,,,,V. Oladipo,C. Payne
+192,2,4:11.0,30,41,IND,OKC,24,home,BadPass,steal,,turnover,,J. Teague,A. Roberson
+193,2,4:03.0,30,41,IND,OKC,8,away,JS,,13,miss2,0,R. Westbrook,
+194,2,4:03.0,30,41,IND,OKC,0,away,OffReb,,,OffReb,,Team,
+195,2,4:03.0,30,41,IND,OKC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Miles,S. Adams
+196,2,3:49.0,30,43,IND,OKC,14,away,DK,assist,3,make2,2,S. Adams,R. Westbrook
+197,2,3:39.0,30,43,IND,OKC,10,home,LU,block,4,miss2,0,J. Teague,J. Grant
+198,2,3:38.0,30,43,IND,OKC,1,away,DefReb,,,DefReb,,R. Westbrook,
+199,2,3:35.0,30,43,IND,OKC,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Miles,V. Oladipo
+200,2,3:35.0,30,44,IND,OKC,0,away,FreeThrow,,,make1,1,V. Oladipo,
+201,2,3:35.0,30,44,IND,OKC,0,home,Sub,,,,,G. Robinson,C. Miles
+202,2,3:35.0,30,45,IND,OKC,0,away,FreeThrow,,,make1,1,V. Oladipo,
+203,2,3:16.0,30,45,IND,OKC,19,home,JS,,25,miss3,0,M. Turner,
+204,2,3:14.0,30,45,IND,OKC,2,home,OffReb,,,OffReb,,P. George,
+205,2,3:14.0,30,45,IND,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,P. George
+206,2,3:14.0,31,45,IND,OKC,0,home,FreeThrow,,,make1,1,P. George,
+207,2,3:14.0,32,45,IND,OKC,0,home,FreeThrow,,,make1,1,P. George,
+208,2,2:54.0,32,45,IND,OKC,20,away,JS,,23,miss3,0,J. Grant,
+209,2,2:51.0,32,45,IND,OKC,3,home,DefReb,,,DefReb,,Team,
+210,2,2:51.0,32,45,IND,OKC,0,away,Timeout,,,,,,
+211,2,2:51.0,32,45,IND,OKC,0,away,Sub,,,,,J. Lauvergne,J. Grant
+212,2,2:40.0,32,45,IND,OKC,11,home,LU,block,4,miss2,0,M. Turner,S. Adams
+213,2,2:40.0,32,45,IND,OKC,0,home,OffReb,,,OffReb,,Team,
+214,2,2:34.0,32,45,IND,OKC,6,home,JS,,22,miss2,0,P. George,
+215,2,2:33.0,32,45,IND,OKC,1,away,DefReb,,,DefReb,,S. Adams,
+216,2,2:18.0,32,45,IND,OKC,15,away,JS,,25,miss3,0,V. Oladipo,
+217,2,2:17.0,32,45,IND,OKC,1,away,OffReb,,,OffReb,,R. Westbrook,
+218,2,2:07.0,32,45,IND,OKC,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Teague,J. Lauvergne
+219,2,2:07.0,32,45,IND,OKC,0,away,FreeThrow,,,make1,0,J. Lauvergne,
+220,2,2:07.0,32,45,IND,OKC,0,away,OffReb,,,OffReb,,Team,
+221,2,2:07.0,32,46,IND,OKC,0,away,FreeThrow,,,make1,1,J. Lauvergne,
+222,2,1:55.0,35,46,IND,OKC,12,home,JS,assist,26,make3,3,G. Robinson,J. Teague
+223,2,1:41.0,35,48,IND,OKC,14,away,DK,assist,2,make2,2,S. Adams,R. Westbrook
+224,2,1:22.0,37,48,IND,OKC,19,home,JS,,6,make2,2,J. Teague,
+225,2,1:03.0,37,50,IND,OKC,19,away,LU,,1,make2,2,A. Roberson,
+226,2,0:55.0,37,50,IND,OKC,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Roberson,J. Teague
+227,2,0:55.0,38,50,IND,OKC,0,home,FreeThrow,,,make1,1,J. Teague,
+228,2,0:55.0,38,50,IND,OKC,0,home,FreeThrow,,,make1,0,J. Teague,
+229,2,0:55.0,38,50,IND,OKC,0,away,DefReb,,,DefReb,,J. Lauvergne,
+230,2,0:55.0,38,50,IND,OKC,0,home,Sub,,,,,M. Ellis,P. George
+231,2,0:31.0,38,50,IND,OKC,24,away,JS,,24,miss3,0,V. Oladipo,
+232,2,0:30.0,38,50,IND,OKC,1,away,OffReb,,,OffReb,,A. Roberson,
+233,2,0:28.0,38,50,IND,OKC,2,away,LU,,3,miss2,0,A. Roberson,
+234,2,0:27.0,38,50,IND,OKC,1,away,OffReb,,,OffReb,,A. Roberson,
+235,2,0:27.0,38,52,IND,OKC,0,away,LU,,2,make2,2,A. Roberson,
+236,2,0:03.0,41,52,IND,OKC,24,home,JS,assist,25,make3,3,G. Robinson,M. Turner
+237,2,0:00.0,41,52,IND,OKC,3,away,JS,,34,miss3,0,R. Westbrook,
+238,2,0:00.0,41,52,IND,OKC,0,away,OffReb,,,OffReb,,Team,
+239,3,11:50.0,41,52,IND,OKC,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Turner,R. Westbrook
+240,3,11:41.0,41,52,IND,OKC,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,S. Adams
+241,3,11:41.0,41,53,IND,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+242,3,11:41.0,41,54,IND,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+243,3,11:18.0,43,54,IND,OKC,23,home,JS,assist,19,make2,2,M. Turner,J. Teague
+244,3,11:04.0,43,54,IND,OKC,14,away,JS,block,4,miss2,0,V. Oladipo,M. Turner
+245,3,11:03.0,43,54,IND,OKC,1,home,DefReb,,,DefReb,,C. Miles,
+246,3,10:57.0,43,54,IND,OKC,6,home,JS,,27,miss3,0,C. Miles,
+247,3,10:55.0,43,54,IND,OKC,2,home,OffReb,,,OffReb,,M. Turner,
+248,3,10:53.0,45,54,IND,OKC,2,home,LU,,1,make2,2,M. Turner,
+249,3,10:31.0,45,54,IND,OKC,22,away,JS,,23,miss3,0,V. Oladipo,
+250,3,10:30.0,45,54,IND,OKC,1,home,DefReb,,,DefReb,,J. Teague,
+251,3,10:30.0,45,54,IND,OKC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Sabonis,L. Allen
+252,3,10:21.0,45,54,IND,OKC,9,away,KickBallViolation,,,KickBallViolation,,S. Adams,
+253,3,10:07.0,47,54,IND,OKC,14,home,JS,assist,16,make2,2,P. George,L. Allen
+254,3,9:54.0,47,54,IND,OKC,13,away,HS,,6,miss2,0,D. Sabonis,
+255,3,9:53.0,47,54,IND,OKC,1,away,OffReb,,,OffReb,,S. Adams,
+256,3,9:51.0,47,54,IND,OKC,2,away,LostBall,steal,,turnover,,S. Adams,M. Turner
+257,3,9:46.0,47,54,IND,OKC,5,home,LU,,3,miss2,0,J. Teague,
+258,3,9:46.0,47,54,IND,OKC,0,away,DefReb,,,DefReb,,V. Oladipo,
+259,3,9:46.0,47,54,IND,OKC,0,away,Timeout,,,,,,
+260,3,9:28.0,47,54,IND,OKC,18,away,JS,,17,miss2,0,R. Westbrook,
+261,3,9:28.0,47,54,IND,OKC,0,home,DefReb,,,DefReb,,J. Teague,
+262,3,9:22.0,47,54,IND,OKC,6,home,LU,block,3,miss2,0,J. Teague,A. Roberson
+263,3,9:22.0,47,54,IND,OKC,0,home,OffReb,,,OffReb,,Team,
+264,3,9:22.0,47,54,IND,OKC,0,away,Sub,,,,,J. Lauvergne,D. Sabonis
+265,3,9:10.0,50,54,IND,OKC,12,home,JS,assist,23,make3,3,C. Miles,L. Allen
+266,3,8:54.0,50,54,IND,OKC,16,away,JS,,19,miss2,0,R. Westbrook,
+267,3,8:54.0,50,54,IND,OKC,0,home,DefReb,,,DefReb,,P. George,
+268,3,8:37.0,50,54,IND,OKC,17,home,JS,,24,miss3,0,C. Miles,
+269,3,8:37.0,50,54,IND,OKC,0,away,DefReb,,,DefReb,,R. Westbrook,
+270,3,8:23.0,50,54,IND,OKC,14,away,JS,,24,miss3,0,J. Lauvergne,
+271,3,8:23.0,50,54,IND,OKC,0,home,DefReb,,,DefReb,,Team,
+272,3,8:15.0,50,54,IND,OKC,8,home,JS,,27,miss3,0,P. George,
+273,3,8:14.0,50,54,IND,OKC,1,away,DefReb,,,DefReb,,R. Westbrook,
+274,3,8:06.0,50,54,IND,OKC,8,away,Traveling,,,turnover,,S. Adams,
+275,3,7:49.0,50,54,IND,OKC,17,home,JS,,19,miss2,0,M. Turner,
+276,3,7:48.0,50,54,IND,OKC,1,away,DefReb,,,DefReb,,R. Westbrook,
+277,3,7:40.0,50,54,IND,OKC,8,away,LU,block,3,miss2,0,S. Adams,M. Turner
+278,3,7:40.0,50,54,IND,OKC,0,home,DefReb,,,DefReb,,Team,
+279,3,7:22.0,52,54,IND,OKC,18,home,LU,assist,1,make2,2,P. George,L. Allen
+280,3,7:09.0,52,56,IND,OKC,13,away,LU,assist,3,make2,2,A. Roberson,R. Westbrook
+281,3,6:57.0,52,56,IND,OKC,12,home,BadPass,steal,,turnover,,P. George,V. Oladipo
+282,3,6:52.0,52,56,IND,OKC,5,away,LU,,3,miss2,0,V. Oladipo,
+283,3,6:44.0,52,56,IND,OKC,8,away,OffReb,,,OffReb,,J. Lauvergne,
+284,3,6:44.0,52,58,IND,OKC,0,away,LU,,3,make2,2,J. Lauvergne,
+285,3,6:38.0,52,58,IND,OKC,6,home,JS,,25,miss3,0,C. Miles,
+286,3,6:37.0,52,58,IND,OKC,1,away,DefReb,,,DefReb,,A. Roberson,
+287,3,6:22.0,52,58,IND,OKC,15,away,LU,block,3,miss2,0,A. Roberson,L. Allen
+288,3,6:20.0,52,58,IND,OKC,2,away,OffReb,,,OffReb,,S. Adams,
+289,3,6:19.0,52,58,IND,OKC,1,away,DK,,2,miss2,0,S. Adams,
+290,3,6:19.0,52,58,IND,OKC,0,home,DefReb,,,DefReb,,Team,
+291,3,6:09.0,52,58,IND,OKC,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Adams,J. Teague
+292,3,6:09.0,53,58,IND,OKC,0,home,FreeThrow,,,make1,1,J. Teague,
+293,3,6:09.0,54,58,IND,OKC,0,home,FreeThrow,,,make1,1,J. Teague,
+294,3,5:52.0,54,58,IND,OKC,17,away,LU,block,2,miss2,0,A. Roberson,L. Allen
+295,3,5:51.0,54,58,IND,OKC,1,home,DefReb,,,DefReb,,P. George,
+296,3,5:46.0,56,58,IND,OKC,5,home,LU,assist,3,make2,2,C. Miles,P. George
+297,3,5:46.0,56,58,IND,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,V. Oladipo,C. Miles
+298,3,5:46.0,57,58,IND,OKC,0,home,FreeThrow,,,make1,1,C. Miles,
+299,3,5:36.0,57,58,IND,OKC,10,away,JS,block,12,miss2,0,R. Westbrook,J. Teague
+300,3,5:34.0,57,58,IND,OKC,2,away,OffReb,,,OffReb,,S. Adams,
+301,3,5:29.0,57,61,IND,OKC,5,away,JS,,26,make3,3,R. Westbrook,
+302,3,5:15.0,57,61,IND,OKC,14,home,BadPass,steal,,turnover,,J. Teague,R. Westbrook
+303,3,5:11.0,57,63,IND,OKC,4,away,DK,assist,2,make2,2,V. Oladipo,R. Westbrook
+304,3,5:11.0,57,63,IND,OKC,0,home,Timeout,,,,,,
+305,3,5:11.0,57,63,IND,OKC,0,away,Sub,,,,,A. Morrow,V. Oladipo
+306,3,5:11.0,57,63,IND,OKC,0,home,Sub,,,,,G. Robinson,C. Miles
+307,3,4:55.0,57,63,IND,OKC,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Adams,M. Turner
+308,3,4:55.0,58,63,IND,OKC,0,home,FreeThrow,,,make1,1,M. Turner,
+309,3,4:55.0,59,63,IND,OKC,0,home,FreeThrow,,,make1,1,M. Turner,
+310,3,4:44.0,59,63,IND,OKC,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. George,R. Westbrook
+311,3,4:44.0,59,63,IND,OKC,0,away,FreeThrow,,,make1,0,R. Westbrook,
+312,3,4:44.0,59,63,IND,OKC,0,away,OffReb,,,OffReb,,Team,
+313,3,4:44.0,59,64,IND,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+314,3,4:23.0,62,64,IND,OKC,21,home,JS,assist,24,make3,3,G. Robinson,P. George
+315,3,4:09.0,62,64,IND,OKC,14,away,JS,,25,miss3,0,A. Morrow,
+316,3,4:09.0,62,64,IND,OKC,0,home,DefReb,,,DefReb,,Team,
+317,3,4:09.0,62,64,IND,OKC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Adams,M. Turner
+318,3,4:09.0,62,64,IND,OKC,0,home,FreeThrow,,,make1,0,M. Turner,
+319,3,4:09.0,62,64,IND,OKC,0,home,OffReb,,,OffReb,,Team,
+320,3,4:09.0,63,64,IND,OKC,0,home,FreeThrow,,,make1,1,M. Turner,
+321,3,3:59.0,63,64,IND,OKC,10,away,BadPass,,,turnover,,A. Roberson,
+322,3,3:49.0,63,64,IND,OKC,10,away,Sub,,,,,J. Grant,S. Adams
+323,3,3:42.0,65,64,IND,OKC,7,home,JS,,21,make2,2,P. George,
+324,3,3:25.0,65,66,IND,OKC,17,away,JS,,16,make2,2,R. Westbrook,
+325,3,3:11.0,65,66,IND,OKC,14,home,JS,,17,miss2,0,M. Turner,
+326,3,3:10.0,65,66,IND,OKC,1,away,DefReb,,,DefReb,,J. Lauvergne,
+327,3,3:06.0,65,66,IND,OKC,4,away,LostBall,steal,,turnover,,R. Westbrook,P. George
+328,3,2:59.0,67,66,IND,OKC,7,home,LU,assist,2,make2,2,G. Robinson,P. George
+329,3,2:47.0,67,68,IND,OKC,12,away,JS,,15,make2,2,R. Westbrook,
+330,3,2:35.0,69,68,IND,OKC,12,home,LU,,2,make2,2,J. Teague,
+331,3,2:23.0,69,68,IND,OKC,12,away,JS,,14,miss2,0,R. Westbrook,
+332,3,2:22.0,69,68,IND,OKC,1,home,DefReb,,,DefReb,,P. George,
+333,3,2:15.0,69,68,IND,OKC,7,home,LU,,3,miss2,0,J. Teague,
+334,3,2:14.0,69,68,IND,OKC,1,home,OffReb,,,OffReb,,M. Turner,
+335,3,2:11.0,69,68,IND,OKC,3,home,LU,block,2,miss2,0,M. Turner,J. Grant
+336,3,2:10.0,69,68,IND,OKC,1,away,DefReb,,,DefReb,,J. Lauvergne,
+337,3,2:01.0,69,68,IND,OKC,9,away,LostBall,steal,,turnover,,A. Roberson,P. George
+338,3,1:55.0,69,68,IND,OKC,6,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Grant,P. George
+339,3,1:55.0,69,68,IND,OKC,0,away,Timeout,,,,,,
+340,3,1:55.0,70,68,IND,OKC,0,home,FreeThrow,,,make1,1,P. George,
+341,3,1:55.0,69,68,IND,OKC,0,home,Sub,,,,,R. Stuckey,J. Teague
+342,3,1:55.0,69,68,IND,OKC,0,away,Sub,,,,,C. Payne,R. Westbrook
+343,3,1:55.0,71,68,IND,OKC,0,home,FreeThrow,,,make1,1,P. George,
+344,3,1:39.0,71,70,IND,OKC,16,away,DK,assist,3,make2,2,A. Roberson,C. Payne
+345,3,1:39.0,71,70,IND,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,A. Roberson
+346,3,1:39.0,71,70,IND,OKC,0,away,FreeThrow,,,make1,0,A. Roberson,
+347,3,1:39.0,71,70,IND,OKC,0,home,Sub,,,,,K. Séraphin,L. Allen
+348,3,1:39.0,71,70,IND,OKC,0,home,Sub,,,,,M. Ellis,P. George
+349,3,1:38.0,71,70,IND,OKC,1,away,OffReb,,,OffReb,,J. Grant,
+350,3,1:23.0,71,70,IND,OKC,15,away,JS,,20,miss2,0,C. Payne,
+351,3,1:23.0,71,70,IND,OKC,0,away,OffReb,,,OffReb,,J. Lauvergne,
+352,3,1:16.0,71,70,IND,OKC,7,away,JS,,26,miss3,0,A. Morrow,
+353,3,1:15.0,71,70,IND,OKC,1,away,OffReb,,,OffReb,,C. Payne,
+354,3,0:59.0,71,70,IND,OKC,16,away,LostBall,steal,,turnover,,J. Lauvergne,M. Turner
+355,3,0:50.0,71,70,IND,OKC,9,home,JS,,18,miss2,0,R. Stuckey,
+356,3,0:49.0,71,70,IND,OKC,1,away,DefReb,,,DefReb,,C. Payne,
+357,3,0:33.0,71,70,IND,OKC,16,away,LU,,2,miss2,0,C. Payne,
+358,3,0:33.0,71,70,IND,OKC,0,home,DefReb,,,DefReb,,K. Séraphin,
+359,3,0:18.0,71,70,IND,OKC,15,home,3sec,,,turnover,,M. Turner,
+360,3,0:18.0,71,70,IND,OKC,0,home,Sub,,,,,L. Allen,M. Turner
+361,3,0:18.0,71,70,IND,OKC,0,away,Sub,,,,,V. Oladipo,A. Roberson
+362,3,0:05.0,71,70,IND,OKC,13,away,BadPass,,,turnover,,C. Payne,
+363,3,0:00.0,73,70,IND,OKC,5,home,LU,,3,make2,2,R. Stuckey,
+364,4,11:36.0,73,70,IND,OKC,24,home,JS,,26,miss3,0,R. Stuckey,
+365,4,11:35.0,73,70,IND,OKC,1,away,DefReb,,,DefReb,,J. Lauvergne,
+366,4,11:22.0,73,70,IND,OKC,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Jefferson,V. Oladipo
+367,4,11:22.0,73,70,IND,OKC,0,away,Sub,,,,,Á. Abrines,A. Morrow
+368,4,11:17.0,73,70,IND,OKC,5,away,JS,,15,miss2,0,V. Oladipo,
+369,4,11:17.0,73,70,IND,OKC,0,home,DefReb,,,DefReb,,A. Jefferson,
+370,4,10:56.0,75,70,IND,OKC,21,home,JS,,4,make2,2,A. Jefferson,
+371,4,10:41.0,75,70,IND,OKC,15,away,BadPass,steal,,turnover,,C. Payne,G. Robinson
+372,4,10:37.0,75,70,IND,OKC,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Payne,R. Stuckey
+373,4,10:37.0,76,70,IND,OKC,0,home,FreeThrow,,,make1,1,R. Stuckey,
+374,4,10:37.0,77,70,IND,OKC,0,home,FreeThrow,,,make1,1,R. Stuckey,
+375,4,10:20.0,77,72,IND,OKC,17,away,JS,,4,make2,2,V. Oladipo,
+376,4,9:58.0,79,72,IND,OKC,22,home,JS,,12,make2,2,A. Jefferson,
+377,4,9:43.0,79,72,IND,OKC,15,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,Á. Abrines,R. Stuckey
+378,4,9:43.0,79,72,IND,OKC,0,away,OffensiveFoul,,,turnover,,Á. Abrines,
+379,4,9:43.0,79,72,IND,OKC,0,away,Sub,,,,,S. Adams,J. Lauvergne
+380,4,9:25.0,79,72,IND,OKC,18,home,JS,,10,miss2,0,A. Jefferson,
+381,4,9:24.0,79,72,IND,OKC,1,away,DefReb,,,DefReb,,V. Oladipo,
+382,4,9:10.0,79,72,IND,OKC,14,away,LU,block,3,miss2,0,J. Grant,K. Séraphin
+383,4,9:10.0,79,72,IND,OKC,0,away,OffReb,,,OffReb,,Team,
+384,4,9:03.0,79,72,IND,OKC,7,away,JS,,27,miss3,0,C. Payne,
+385,4,9:03.0,79,72,IND,OKC,0,home,DefReb,,,DefReb,,A. Jefferson,
+386,4,8:55.0,79,72,IND,OKC,8,away,KickBallViolation,,,KickBallViolation,,S. Adams,
+387,4,8:55.0,79,72,IND,OKC,0,away,Timeout,,,,,,
+388,4,8:55.0,79,72,IND,OKC,0,away,Sub,,,,,R. Westbrook,C. Payne
+389,4,8:55.0,79,72,IND,OKC,0,home,Sub,,,,,P. George,G. Robinson
+390,4,8:43.0,79,72,IND,OKC,12,home,LU,,2,miss2,0,A. Jefferson,
+391,4,8:43.0,79,72,IND,OKC,0,away,DefReb,,,DefReb,,R. Westbrook,
+392,4,8:29.0,79,72,IND,OKC,14,away,JS,,24,miss3,0,Á. Abrines,
+393,4,8:29.0,79,72,IND,OKC,0,home,DefReb,,,DefReb,,M. Ellis,
+394,4,8:17.0,79,72,IND,OKC,12,away,Sub,,,,,A. Roberson,V. Oladipo
+395,4,8:06.0,79,72,IND,OKC,11,home,JS,,13,miss2,0,P. George,
+396,4,8:05.0,79,72,IND,OKC,1,away,DefReb,,,DefReb,,Team,
+397,4,7:55.0,79,72,IND,OKC,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Séraphin,S. Adams
+398,4,7:55.0,79,72,IND,OKC,0,home,Sub,,,,,L. Allen,K. Séraphin
+399,4,7:55.0,79,72,IND,OKC,0,home,Sub,,,,,M. Turner,A. Jefferson
+400,4,7:55.0,79,72,IND,OKC,0,home,Sub,,,,,J. Teague,R. Stuckey
+401,4,7:48.0,79,72,IND,OKC,7,away,JS,,6,miss2,0,J. Grant,
+402,4,7:44.0,79,72,IND,OKC,4,away,OffReb,,,OffReb,,Á. Abrines,
+403,4,7:37.0,79,75,IND,OKC,7,away,JS,assist,24,make3,3,R. Westbrook,A. Roberson
+404,4,7:11.0,82,75,IND,OKC,26,home,JS,,25,make3,3,J. Teague,
+405,4,6:55.0,82,75,IND,OKC,16,away,BadPass,,,turnover,,R. Westbrook,
+406,4,6:55.0,82,75,IND,OKC,0,away,Sub,,,,,V. Oladipo,Á. Abrines
+407,4,6:47.0,84,75,IND,OKC,8,home,LU,assist,3,make2,2,M. Turner,M. Ellis
+408,4,6:47.0,84,75,IND,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Westbrook,M. Turner
+409,4,6:47.0,84,75,IND,OKC,0,home,FreeThrow,,,make1,0,M. Turner,
+410,4,6:47.0,84,75,IND,OKC,0,away,DefReb,,,DefReb,,R. Westbrook,
+411,4,6:43.0,84,75,IND,OKC,4,away,OffensiveFoul,,,turnover,,V. Oladipo,
+412,4,6:43.0,84,75,IND,OKC,0,home,ChargeFoul,DrawnBy,,ChargeFoul,,V. Oladipo,M. Ellis
+413,4,6:27.0,84,75,IND,OKC,16,home,JS,,25,miss3,0,P. George,
+414,4,6:27.0,84,75,IND,OKC,0,away,DefReb,,,DefReb,,V. Oladipo,
+415,4,6:19.0,84,78,IND,OKC,8,away,JS,,26,make3,3,R. Westbrook,
+416,4,5:52.0,86,78,IND,OKC,27,home,JS,,18,make2,2,P. George,
+417,4,5:35.0,86,78,IND,OKC,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Allen,J. Grant
+418,4,5:35.0,86,78,IND,OKC,0,home,Timeout,,,,,,
+419,4,5:35.0,86,78,IND,OKC,0,away,FreeThrow,,,make1,0,J. Grant,
+420,4,5:35.0,86,78,IND,OKC,0,away,OffReb,,,OffReb,,Team,
+421,4,5:35.0,86,79,IND,OKC,0,away,FreeThrow,,,make1,1,J. Grant,
+422,4,5:17.0,89,79,IND,OKC,18,home,JS,assist,26,make3,3,P. George,M. Ellis
+423,4,4:59.0,89,82,IND,OKC,18,away,JS,assist,25,make3,3,J. Grant,S. Adams
+424,4,4:47.0,91,82,IND,OKC,12,home,LU,,2,make2,2,J. Teague,
+425,4,4:37.0,91,82,IND,OKC,10,away,JS,,25,miss3,0,R. Westbrook,
+426,4,4:36.0,91,82,IND,OKC,1,away,OffReb,,,OffReb,,A. Roberson,
+427,4,4:34.0,91,82,IND,OKC,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,S. Adams
+428,4,4:34.0,91,83,IND,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+429,4,4:34.0,91,83,IND,OKC,0,away,FreeThrow,,,make1,0,S. Adams,
+430,4,4:34.0,91,83,IND,OKC,0,home,DefReb,,,DefReb,,Team,
+431,4,4:21.0,91,83,IND,OKC,13,home,JS,block,4,miss2,0,J. Teague,A. Roberson
+432,4,4:19.0,91,83,IND,OKC,2,away,DefReb,,,DefReb,,A. Roberson,
+433,4,4:11.0,91,83,IND,OKC,8,away,JS,,24,miss3,0,V. Oladipo,
+434,4,4:11.0,91,83,IND,OKC,0,home,DefReb,,,DefReb,,J. Teague,
+435,4,3:52.0,91,83,IND,OKC,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,L. Allen
+436,4,3:52.0,91,83,IND,OKC,0,home,FreeThrow,,,make1,0,L. Allen,
+437,4,3:52.0,91,83,IND,OKC,0,home,OffReb,,,OffReb,,Team,
+438,4,3:52.0,91,83,IND,OKC,0,home,FreeThrow,,,make1,0,L. Allen,
+439,4,3:52.0,91,83,IND,OKC,0,away,DefReb,,,DefReb,,A. Roberson,
+440,4,3:29.0,91,86,IND,OKC,23,away,JS,,26,make3,3,R. Westbrook,
+441,4,3:08.0,91,86,IND,OKC,21,home,LU,block,4,miss2,0,J. Teague,J. Grant
+442,4,3:08.0,91,86,IND,OKC,0,home,OffReb,,,OffReb,,Team,
+443,4,3:03.0,91,86,IND,OKC,5,home,JS,,26,miss3,0,P. George,
+444,4,3:02.0,91,86,IND,OKC,1,away,DefReb,,,DefReb,,R. Westbrook,
+445,4,2:44.0,91,86,IND,OKC,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Allen,V. Oladipo
+446,4,2:44.0,91,86,IND,OKC,0,away,Timeout,,,,,,
+447,4,2:44.0,91,87,IND,OKC,0,away,FreeThrow,,,make1,1,V. Oladipo,
+448,4,2:44.0,91,86,IND,OKC,0,home,Sub,,,,,G. Robinson,L. Allen
+449,4,2:44.0,91,86,IND,OKC,0,home,Sub,,,,,C. Miles,M. Ellis
+450,4,2:44.0,91,88,IND,OKC,0,away,FreeThrow,,,make1,1,V. Oladipo,
+451,4,2:22.0,91,88,IND,OKC,22,home,JS,,18,miss2,0,P. George,
+452,4,2:21.0,91,88,IND,OKC,1,away,DefReb,,,DefReb,,A. Roberson,
+453,4,2:05.0,91,90,IND,OKC,16,away,LU,,3,make2,2,R. Westbrook,
+454,4,1:48.0,91,90,IND,OKC,17,home,LU,,2,miss2,0,P. George,
+455,4,1:48.0,91,90,IND,OKC,0,away,DefReb,,,DefReb,,A. Roberson,
+456,4,1:40.0,91,90,IND,OKC,8,away,LU,,4,miss2,0,R. Westbrook,
+457,4,1:37.0,91,90,IND,OKC,3,away,OffReb,,,OffReb,,S. Adams,
+458,4,1:37.0,91,90,IND,OKC,0,away,LU,,3,miss2,0,S. Adams,
+459,4,1:36.0,91,90,IND,OKC,1,home,DefReb,,,DefReb,,M. Turner,
+460,4,1:30.0,91,90,IND,OKC,6,home,Timeout,,,,,,
+461,4,1:20.0,93,90,IND,OKC,10,home,JS,,15,make2,2,P. George,
+462,4,1:02.0,93,90,IND,OKC,18,away,JS,,26,miss3,0,R. Westbrook,
+463,4,1:02.0,93,90,IND,OKC,0,home,DefReb,,,DefReb,,Team,
+464,4,0:46.0,93,90,IND,OKC,16,home,LostBall,steal,,turnover,,P. George,A. Roberson
+465,4,0:33.0,93,90,IND,OKC,13,away,JS,,23,miss3,0,V. Oladipo,
+466,4,0:32.0,93,90,IND,OKC,1,home,DefReb,,,DefReb,,C. Miles,
+467,4,0:23.0,93,90,IND,OKC,9,home,Timeout,,,,,,
+468,4,0:08.0,93,90,IND,OKC,15,home,JS,,26,miss3,0,C. Miles,
+469,4,0:08.0,93,90,IND,OKC,0,away,DefReb,,,DefReb,,R. Westbrook,
+470,4,0:08.0,93,90,IND,OKC,0,away,Timeout,,,,,,
+471,4,0:08.0,93,90,IND,OKC,0,away,Sub,,,,,A. Morrow,A. Roberson
+472,4,0:08.0,93,90,IND,OKC,0,home,Sub,,,,,L. Allen,C. Miles
+473,4,0:04.0,93,90,IND,OKC,4,away,JS,,27,miss3,0,R. Westbrook,
+474,4,0:03.0,93,90,IND,OKC,1,away,OffReb,,,OffReb,,J. Grant,
+475,4,0:00.0,93,90,IND,OKC,3,away,JS,,23,miss3,0,R. Westbrook,
+476,4,0:00.0,93,90,IND,OKC,0,away,OffReb,,,OffReb,,Team,

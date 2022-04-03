@@ -1,0 +1,414 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:42.0,0,0,DET,MIA,18,away,LU,block,0,miss2,0,D. Wade,A. Drummond
+1,1,11:41.0,0,0,DET,MIA,1,away,OffReb,,,OffReb,,G. Green,
+2,1,11:38.0,0,0,DET,MIA,3,away,JS,,16,miss2,0,G. Green,
+3,1,11:35.0,0,0,DET,MIA,3,away,OffReb,,,OffReb,,G. Green,
+4,1,11:34.0,0,2,DET,MIA,1,away,LU,,0,make2,2,G. Green,
+5,1,11:20.0,0,2,DET,MIA,14,home,D3SecTech,,,,,,
+6,1,11:20.0,1,2,DET,MIA,0,home,FreeThrow,,,make1,1,K. Caldwell-Pope makes technical free throw,
+7,1,11:08.0,3,2,DET,MIA,12,home,HS,assist,6,make2,2,A. Drummond,E. İlyasova
+8,1,10:56.0,3,2,DET,MIA,12,away,LU,block,1,miss2,0,H. Whiteside,A. Drummond
+9,1,10:53.0,3,2,DET,MIA,3,away,OffReb,,,OffReb,,Team,
+10,1,10:47.0,3,2,DET,MIA,6,away,BadPass,,,turnover,,G. Dragić,
+11,1,10:37.0,3,2,DET,MIA,10,home,LU,,1,miss2,0,E. İlyasova,
+12,1,10:36.0,3,2,DET,MIA,1,home,OffReb,,,OffReb,,A. Drummond,
+13,1,10:35.0,3,2,DET,MIA,1,home,JS,,3,miss2,0,A. Drummond,
+14,1,10:34.0,3,2,DET,MIA,1,home,OffReb,,,OffReb,,Team,
+15,1,10:30.0,3,2,DET,MIA,4,home,JS,,18,miss2,0,R. Jackson,
+16,1,10:29.0,3,2,DET,MIA,1,home,OffReb,,,OffReb,,M. Morris,
+17,1,10:28.0,3,2,DET,MIA,1,home,JS,,29,miss3,0,K. Caldwell-Pope,
+18,1,10:28.0,3,2,DET,MIA,0,away,DefReb,,,DefReb,,D. Wade,
+19,1,10:10.0,3,4,DET,MIA,18,away,JS,,17,make2,2,D. Wade,
+20,1,9:52.0,3,4,DET,MIA,18,home,JS,block,3,miss2,0,A. Drummond,H. Whiteside
+21,1,9:50.0,3,4,DET,MIA,2,away,DefReb,,,DefReb,,D. Wade,
+22,1,9:40.0,3,4,DET,MIA,10,away,JS,,20,miss2,0,C. Bosh,
+23,1,9:39.0,3,4,DET,MIA,1,away,OffReb,,,OffReb,,H. Whiteside,
+24,1,9:32.0,3,4,DET,MIA,7,away,JS,,9,miss2,0,G. Green,
+25,1,9:32.0,3,4,DET,MIA,0,home,DefReb,,,DefReb,,M. Morris,
+26,1,9:25.0,3,4,DET,MIA,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Whiteside,E. İlyasova
+27,1,9:25.0,4,4,DET,MIA,0,home,FreeThrow,,,make1,1,E. İlyasova,
+28,1,9:25.0,5,4,DET,MIA,0,home,FreeThrow,,,make1,1,E. İlyasova,
+29,1,9:08.0,5,4,DET,MIA,17,away,Traveling,,,turnover,,D. Wade,
+30,1,8:47.0,5,4,DET,MIA,21,home,JS,,13,miss2,0,M. Morris,
+31,1,8:46.0,5,4,DET,MIA,1,away,DefReb,,,DefReb,,C. Bosh,
+32,1,8:33.0,5,6,DET,MIA,13,away,DK,assist,0,make2,2,H. Whiteside,C. Bosh
+33,1,8:18.0,5,6,DET,MIA,15,home,JS,,26,miss3,0,E. İlyasova,
+34,1,8:18.0,5,6,DET,MIA,0,away,DefReb,,,DefReb,,G. Green,
+35,1,8:08.0,5,6,DET,MIA,10,away,JS,,26,miss3,0,G. Dragić,
+36,1,8:07.0,5,6,DET,MIA,1,home,DefReb,,,DefReb,,K. Caldwell-Pope,
+37,1,7:56.0,5,6,DET,MIA,11,home,JS,,17,miss2,0,R. Jackson,
+38,1,7:55.0,5,6,DET,MIA,1,home,OffReb,,,OffReb,,Team,
+39,1,7:43.0,5,6,DET,MIA,12,home,HS,,6,miss2,0,A. Drummond,
+40,1,7:42.0,5,6,DET,MIA,1,home,OffReb,,,OffReb,,M. Morris,
+41,1,7:38.0,5,6,DET,MIA,4,home,LU,,0,miss2,0,M. Morris,
+42,1,7:38.0,5,6,DET,MIA,0,away,DefReb,,,DefReb,,G. Green,
+43,1,7:31.0,5,8,DET,MIA,7,away,DK,assist,0,make2,2,G. Green,G. Dragić
+44,1,7:06.0,7,8,DET,MIA,25,home,HS,assist,7,make2,2,A. Drummond,R. Jackson
+45,1,6:47.0,7,8,DET,MIA,19,away,BadPass,steal,,turnover,,G. Green,A. Drummond
+46,1,6:32.0,7,8,DET,MIA,15,home,JS,,23,miss3,0,K. Caldwell-Pope,
+47,1,6:32.0,7,8,DET,MIA,0,home,OffReb,,,OffReb,,A. Drummond,
+48,1,6:24.0,10,8,DET,MIA,8,home,JS,assist,25,make3,3,R. Jackson,E. İlyasova
+49,1,6:06.0,10,8,DET,MIA,18,away,BadPass,,,turnover,,G. Dragić,
+50,1,6:06.0,10,8,DET,MIA,0,away,Sub,,,,,J. Winslow,C. Bosh
+51,1,5:49.0,12,8,DET,MIA,17,home,HS,assist,4,make2,2,A. Drummond,E. İlyasova
+52,1,5:34.0,12,10,DET,MIA,15,away,DK,assist,0,make2,2,H. Whiteside,D. Wade
+53,1,5:22.0,14,10,DET,MIA,12,home,JS,,6,make2,2,R. Jackson,
+54,1,5:06.0,14,10,DET,MIA,16,away,JS,,9,miss2,0,H. Whiteside,
+55,1,5:05.0,14,10,DET,MIA,1,home,DefReb,,,DefReb,,A. Drummond,
+56,1,4:54.0,14,10,DET,MIA,11,home,HS,,4,miss2,0,E. İlyasova,
+57,1,4:53.0,14,10,DET,MIA,1,home,OffReb,,,OffReb,,A. Drummond,
+58,1,4:50.0,16,10,DET,MIA,3,home,LU,,0,make2,2,A. Drummond,
+59,1,4:49.0,16,10,DET,MIA,1,away,Timeout,,,,,,
+60,1,4:49.0,16,10,DET,MIA,0,home,Sub,,,,,S. Johnson,M. Morris
+61,1,4:38.0,16,10,DET,MIA,11,away,JS,,18,miss2,0,D. Wade,
+62,1,4:38.0,16,10,DET,MIA,0,home,DefReb,,,DefReb,,A. Drummond,
+63,1,4:20.0,19,10,DET,MIA,18,home,JS,assist,24,make3,3,R. Jackson,K. Caldwell-Pope
+64,1,4:05.0,19,10,DET,MIA,15,away,D3SecTech,,,,,,
+65,1,4:05.0,19,10,DET,MIA,0,away,FreeThrow,,,make1,0,D. Wade misses technical free throw,
+66,1,4:05.0,19,10,DET,MIA,0,away,OffReb,,,OffReb,,Team,
+67,1,3:56.0,19,10,DET,MIA,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Caldwell-Pope,D. Wade
+68,1,3:45.0,19,10,DET,MIA,11,away,JS,,19,miss2,0,D. Wade,
+69,1,3:44.0,19,10,DET,MIA,1,home,DefReb,,,DefReb,,A. Drummond,
+70,1,3:24.0,19,10,DET,MIA,20,home,JS,block,7,miss2,0,K. Caldwell-Pope,D. Wade
+71,1,3:22.0,19,10,DET,MIA,2,home,OffReb,,,OffReb,,E. İlyasova,
+72,1,3:18.0,19,10,DET,MIA,4,home,JS,,6,miss2,0,E. İlyasova,
+73,1,3:18.0,19,10,DET,MIA,0,away,DefReb,,,DefReb,,J. Winslow,
+74,1,3:16.0,19,10,DET,MIA,2,away,JS,,28,miss3,0,G. Green,
+75,1,3:16.0,19,10,DET,MIA,0,home,DefReb,,,DefReb,,Team,
+76,1,3:16.0,19,10,DET,MIA,0,away,Sub,,,,,C. Bosh,H. Whiteside
+77,1,2:59.0,19,10,DET,MIA,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Winslow,E. İlyasova
+78,1,2:59.0,19,10,DET,MIA,0,home,Timeout,,,,,,
+79,1,2:59.0,19,10,DET,MIA,0,home,Sub,,,,,S. Blake,R. Jackson
+80,1,2:59.0,19,10,DET,MIA,0,away,Sub,,,,,T. Johnson,D. Wade
+81,1,2:59.0,20,10,DET,MIA,0,home,FreeThrow,,,make1,1,E. İlyasova,
+82,1,2:59.0,21,10,DET,MIA,0,home,FreeThrow,,,make1,1,E. İlyasova,
+83,1,2:37.0,21,10,DET,MIA,22,away,LostBall,steal,,turnover,,C. Bosh,K. Caldwell-Pope
+84,1,2:29.0,21,10,DET,MIA,8,home,JS,,24,miss3,0,S. Johnson,
+85,1,2:29.0,21,10,DET,MIA,0,away,DefReb,,,DefReb,,J. Winslow,
+86,1,2:29.0,21,10,DET,MIA,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. İlyasova,J. Winslow
+87,1,2:29.0,21,10,DET,MIA,0,home,Sub,,,,,A. Tolliver,E. İlyasova
+88,1,2:29.0,21,10,DET,MIA,0,home,Sub,,,,,M. Morris,K. Caldwell-Pope
+89,1,2:17.0,21,12,DET,MIA,12,away,LU,assist,0,make2,2,G. Dragić,C. Bosh
+90,1,1:57.0,23,12,DET,MIA,20,home,JS,assist,4,make2,2,M. Morris,A. Tolliver
+91,1,1:40.0,23,15,DET,MIA,17,away,JS,assist,22,make3,3,C. Bosh,T. Johnson
+92,1,1:16.0,25,15,DET,MIA,24,home,JS,,3,make2,2,S. Johnson,
+93,1,1:01.0,25,17,DET,MIA,15,away,JS,,12,make2,2,G. Dragić,
+94,1,0:50.0,25,17,DET,MIA,11,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,S. Johnson,T. Johnson
+95,1,0:50.0,25,17,DET,MIA,0,home,OffensiveFoul,,,turnover,,S. Johnson,
+96,1,0:33.0,25,17,DET,MIA,17,away,JS,,25,miss3,0,G. Green,
+97,1,0:33.0,25,17,DET,MIA,0,home,DefReb,,,DefReb,,A. Drummond,
+98,1,0:23.0,25,17,DET,MIA,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Green,M. Morris
+99,1,0:10.0,25,17,DET,MIA,13,home,JS,,11,miss2,0,S. Johnson,
+100,1,0:09.0,25,17,DET,MIA,1,away,DefReb,,,DefReb,,C. Bosh,
+101,1,0:01.0,25,19,DET,MIA,8,away,JS,,10,make2,2,G. Dragić,
+102,2,11:34.0,25,19,DET,MIA,26,home,JS,,6,miss2,0,A. Baynes,
+103,2,11:32.0,25,19,DET,MIA,2,away,DefReb,,,DefReb,,J. Winslow,
+104,2,11:20.0,25,19,DET,MIA,12,away,JS,block,4,miss2,0,T. Johnson,S. Johnson
+105,2,11:19.0,25,19,DET,MIA,1,home,DefReb,,,DefReb,,A. Baynes,
+106,2,11:11.0,27,19,DET,MIA,8,home,LU,,0,make2,2,S. Johnson,
+107,2,11:11.0,27,19,DET,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Udrih,S. Johnson
+108,2,11:11.0,28,19,DET,MIA,0,home,FreeThrow,,,make1,1,S. Johnson,
+109,2,10:51.0,28,21,DET,MIA,20,away,JS,assist,19,make2,2,C. Bosh,B. Udrih
+110,2,10:30.0,28,21,DET,MIA,21,home,JS,,11,miss2,0,M. Morris,
+111,2,10:29.0,28,21,DET,MIA,1,home,OffReb,,,OffReb,,A. Baynes,
+112,2,10:18.0,30,21,DET,MIA,11,home,HS,assist,3,make2,2,A. Baynes,S. Blake
+113,2,10:03.0,30,24,DET,MIA,15,away,JS,assist,27,make3,3,J. McRoberts,B. Udrih
+114,2,9:45.0,33,24,DET,MIA,18,home,JS,assist,25,make3,3,A. Tolliver,S. Johnson
+115,2,9:35.0,33,24,DET,MIA,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Johnson,T. Johnson
+116,2,9:24.0,33,24,DET,MIA,11,away,JS,,4,miss2,0,C. Bosh,
+117,2,9:24.0,33,24,DET,MIA,0,away,OffReb,,,OffReb,,J. Winslow,
+118,2,9:13.0,33,24,DET,MIA,11,away,JS,,27,miss3,0,J. McRoberts,
+119,2,9:13.0,33,24,DET,MIA,0,home,DefReb,,,DefReb,,S. Johnson,
+120,2,9:09.0,33,24,DET,MIA,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. McRoberts,A. Baynes
+121,2,8:57.0,36,24,DET,MIA,12,home,JS,assist,23,make3,3,A. Tolliver,S. Blake
+122,2,8:51.0,36,24,DET,MIA,6,away,Timeout,,,,,,
+123,2,8:51.0,36,24,DET,MIA,0,home,Sub,,,,,K. Caldwell-Pope,S. Johnson
+124,2,8:44.0,36,24,DET,MIA,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Tolliver,C. Bosh
+125,2,8:44.0,36,25,DET,MIA,0,away,FreeThrow,,,make1,1,C. Bosh,
+126,2,8:44.0,36,26,DET,MIA,0,away,FreeThrow,,,make1,1,C. Bosh,
+127,2,8:22.0,36,26,DET,MIA,22,home,JS,,20,miss2,0,K. Caldwell-Pope,
+128,2,8:21.0,36,26,DET,MIA,1,away,DefReb,,,DefReb,,T. Johnson,
+129,2,8:06.0,36,26,DET,MIA,15,away,JS,,18,miss2,0,C. Bosh,
+130,2,8:05.0,36,26,DET,MIA,1,home,DefReb,,,DefReb,,M. Morris,
+131,2,7:51.0,36,26,DET,MIA,14,home,JS,,22,miss3,0,A. Tolliver,
+132,2,7:51.0,36,26,DET,MIA,0,away,DefReb,,,DefReb,,C. Bosh,
+133,2,7:42.0,36,26,DET,MIA,9,away,JS,,26,miss3,0,J. McRoberts,
+134,2,7:41.0,36,26,DET,MIA,1,home,DefReb,,,DefReb,,S. Blake,
+135,2,7:35.0,38,26,DET,MIA,6,home,LU,assist,0,make2,2,A. Baynes,S. Blake
+136,2,7:18.0,38,26,DET,MIA,17,away,JS,,20,miss2,0,J. McRoberts,
+137,2,7:17.0,38,26,DET,MIA,1,away,OffReb,,,OffReb,,T. Johnson,
+138,2,7:02.0,38,26,DET,MIA,15,away,JS,,22,miss3,0,B. Udrih,
+139,2,7:01.0,38,26,DET,MIA,1,home,DefReb,,,DefReb,,A. Baynes,
+140,2,6:49.0,41,26,DET,MIA,12,home,JS,assist,24,make3,3,A. Tolliver,S. Blake
+141,2,6:32.0,41,28,DET,MIA,17,away,LU,assist,0,make2,2,T. Johnson,J. McRoberts
+142,2,6:32.0,41,28,DET,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Baynes,T. Johnson
+143,2,6:32.0,41,28,DET,MIA,0,away,Sub,,,,,H. Whiteside,C. Bosh
+144,2,6:32.0,41,28,DET,MIA,0,away,Sub,,,,,G. Green,J. McRoberts
+145,2,6:32.0,41,28,DET,MIA,0,away,Sub,,,,,D. Wade,B. Udrih
+146,2,6:32.0,41,29,DET,MIA,0,away,FreeThrow,,,make1,1,T. Johnson,
+147,2,6:23.0,43,29,DET,MIA,9,home,DK,assist,0,make2,2,A. Baynes,K. Caldwell-Pope
+148,2,6:05.0,43,31,DET,MIA,18,away,JS,,7,make2,2,T. Johnson,
+149,2,6:05.0,43,31,DET,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Blake,T. Johnson
+150,2,6:05.0,43,32,DET,MIA,0,away,FreeThrow,,,make1,1,T. Johnson,
+151,2,6:05.0,43,32,DET,MIA,0,home,LostBall,,,turnover,,S. Blake,
+152,2,6:05.0,43,32,DET,MIA,0,away,Sub,,,,,G. Dragić,T. Johnson
+153,2,5:49.0,43,32,DET,MIA,16,away,JS,,3,miss2,0,G. Dragić,
+154,2,5:48.0,43,32,DET,MIA,1,away,OffReb,,,OffReb,,H. Whiteside,
+155,2,5:47.0,43,32,DET,MIA,1,away,BadPass,steal,,turnover,,H. Whiteside,K. Caldwell-Pope
+156,2,5:47.0,43,32,DET,MIA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dragić,S. Blake
+157,2,5:47.0,43,32,DET,MIA,0,home,Timeout,,,,,,
+158,2,5:47.0,43,32,DET,MIA,0,home,Sub,,,,,A. Drummond,S. Blake
+159,2,5:47.0,43,32,DET,MIA,0,home,Sub,,,,,R. Jackson,A. Baynes
+160,2,5:30.0,46,32,DET,MIA,17,home,JS,assist,25,make3,3,M. Morris,R. Jackson
+161,2,5:10.0,46,32,DET,MIA,20,away,JS,,6,miss2,0,D. Wade,
+162,2,5:09.0,46,32,DET,MIA,1,home,DefReb,,,DefReb,,A. Drummond,
+163,2,5:08.0,46,32,DET,MIA,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Winslow,K. Caldwell-Pope
+164,2,5:08.0,46,32,DET,MIA,0,home,Sub,,,,,E. İlyasova,A. Tolliver
+165,2,4:55.0,46,32,DET,MIA,13,home,JS,,17,miss2,0,M. Morris,
+166,2,4:55.0,46,32,DET,MIA,0,away,DefReb,,,DefReb,,J. Winslow,
+167,2,4:40.0,46,32,DET,MIA,15,away,BadPass,steal,,turnover,,D. Wade,A. Drummond
+168,2,4:26.0,48,32,DET,MIA,14,home,LU,,0,make2,2,A. Drummond,
+169,2,4:05.0,48,34,DET,MIA,21,away,JS,assist,8,make2,2,G. Green,G. Dragić
+170,2,3:48.0,48,34,DET,MIA,17,home,JS,block,6,miss2,0,A. Drummond,H. Whiteside
+171,2,3:48.0,48,34,DET,MIA,0,away,DefReb,,,DefReb,,Team,
+172,2,3:48.0,48,34,DET,MIA,0,home,Sub,,,,,S. Johnson,M. Morris
+173,2,3:48.0,48,34,DET,MIA,0,home,TechnicalFoul,,,TechnicalFoul,,A. Drummond,
+174,2,3:48.0,48,35,DET,MIA,0,away,FreeThrow,,,make1,1,G. Green makes technical free throw,
+175,2,3:30.0,48,35,DET,MIA,18,away,JS,block,3,miss2,0,G. Green,A. Drummond
+176,2,3:30.0,48,35,DET,MIA,0,home,DefReb,,,DefReb,,R. Jackson,
+177,2,3:26.0,48,35,DET,MIA,4,home,LU,block,1,miss2,0,A. Drummond,D. Wade
+178,2,3:26.0,48,35,DET,MIA,0,home,OffReb,,,OffReb,,Team,
+179,2,3:26.0,48,35,DET,MIA,0,away,Sub,,,,,C. Bosh,J. Winslow
+180,2,3:17.0,48,35,DET,MIA,9,home,LU,block,0,miss2,0,K. Caldwell-Pope,H. Whiteside
+181,2,3:17.0,48,35,DET,MIA,0,home,OffReb,,,OffReb,,Team,
+182,2,3:12.0,48,35,DET,MIA,5,home,OutOfBounds,,,turnover,,A. Drummond,
+183,2,2:53.0,48,35,DET,MIA,19,home,Timeout,,,,,,
+184,2,2:49.0,48,35,DET,MIA,4,away,JS,,6,miss2,0,C. Bosh,
+185,2,2:47.0,48,35,DET,MIA,2,home,DefReb,,,DefReb,,A. Drummond,
+186,2,2:39.0,48,35,DET,MIA,8,home,JS,,26,miss3,0,R. Jackson,
+187,2,2:38.0,48,35,DET,MIA,1,home,OffReb,,,OffReb,,S. Johnson,
+188,2,2:31.0,48,35,DET,MIA,7,home,LU,,2,miss2,0,S. Johnson,
+189,2,2:27.0,48,35,DET,MIA,4,home,OffReb,,,OffReb,,A. Drummond,
+190,2,2:22.0,50,35,DET,MIA,5,home,LU,,1,make2,2,A. Drummond,
+191,2,2:16.0,50,37,DET,MIA,6,away,JS,,16,make2,2,G. Dragić,
+192,2,2:01.0,50,37,DET,MIA,15,home,DK,,0,miss2,0,A. Drummond,
+193,2,2:00.0,50,37,DET,MIA,1,away,DefReb,,,DefReb,,C. Bosh,
+194,2,1:59.0,50,37,DET,MIA,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Johnson,G. Dragić
+195,2,1:59.0,50,38,DET,MIA,0,away,FreeThrow,,,make1,1,G. Dragić,
+196,2,1:59.0,50,38,DET,MIA,0,home,Sub,,,,,M. Morris,S. Johnson
+197,2,1:59.0,50,39,DET,MIA,0,away,FreeThrow,,,make1,1,G. Dragić,
+198,2,1:37.0,50,39,DET,MIA,22,away,DefGoaltending,,,DefGoaltending,,H. Whiteside,
+199,2,1:37.0,52,39,DET,MIA,0,home,JS,,4,make2,2,R. Jackson,
+200,2,1:20.0,52,39,DET,MIA,17,away,BadPass,,,turnover,,G. Green,
+201,2,1:20.0,52,39,DET,MIA,0,away,Sub,,,,,T. Johnson,G. Green
+202,2,1:06.0,54,39,DET,MIA,14,home,JS,,11,make2,2,R. Jackson,
+203,2,0:57.0,54,39,DET,MIA,9,away,JS,,4,miss2,0,G. Dragić,
+204,2,0:57.0,54,39,DET,MIA,0,home,DefReb,,,DefReb,,R. Jackson,
+205,2,0:50.0,57,39,DET,MIA,7,home,JS,assist,25,make3,3,E. İlyasova,R. Jackson
+206,2,0:43.0,57,41,DET,MIA,7,away,DK,assist,0,make2,2,H. Whiteside,D. Wade
+207,2,0:31.0,60,41,DET,MIA,12,home,JS,assist,27,make3,3,M. Morris,R. Jackson
+208,2,0:11.0,60,41,DET,MIA,20,away,JS,,26,miss3,0,T. Johnson,
+209,2,0:11.0,60,41,DET,MIA,0,away,OffReb,,,OffReb,,H. Whiteside,
+210,2,0:10.0,60,43,DET,MIA,1,away,LU,,1,make2,2,H. Whiteside,
+211,2,0:03.0,60,43,DET,MIA,7,home,JS,,4,miss2,0,R. Jackson,
+212,2,0:02.0,60,43,DET,MIA,1,home,OffReb,,,OffReb,,A. Drummond,
+213,2,0:02.0,60,43,DET,MIA,0,home,LU,,2,miss2,0,A. Drummond,
+214,2,0:01.0,60,43,DET,MIA,1,home,OffReb,,,OffReb,,A. Drummond,
+215,2,0:01.0,60,43,DET,MIA,0,home,LU,block,0,miss2,0,A. Drummond,G. Dragić
+216,2,0:00.0,60,43,DET,MIA,1,home,OffReb,,,OffReb,,Team,
+217,3,11:39.0,60,43,DET,MIA,21,home,JS,,23,miss3,0,K. Caldwell-Pope,
+218,3,11:39.0,60,43,DET,MIA,0,away,DefReb,,,DefReb,,H. Whiteside,
+219,3,11:29.0,60,43,DET,MIA,10,away,JS,,18,miss2,0,D. Wade,
+220,3,11:28.0,60,43,DET,MIA,1,home,DefReb,,,DefReb,,A. Drummond,
+221,3,11:17.0,62,43,DET,MIA,11,home,JS,assist,13,make2,2,M. Morris,K. Caldwell-Pope
+222,3,10:51.0,62,43,DET,MIA,26,away,HS,,5,miss2,0,D. Wade,
+223,3,10:49.0,62,43,DET,MIA,2,home,DefReb,,,DefReb,,A. Drummond,
+224,3,10:38.0,65,43,DET,MIA,11,home,JS,assist,26,make3,3,E. İlyasova,R. Jackson
+225,3,10:16.0,65,43,DET,MIA,22,away,JS,,12,miss2,0,C. Bosh,
+226,3,10:16.0,65,43,DET,MIA,0,away,OffReb,,,OffReb,,H. Whiteside,
+227,3,10:13.0,65,45,DET,MIA,3,away,DK,,0,make2,2,H. Whiteside,
+228,3,10:04.0,68,45,DET,MIA,9,home,JS,assist,26,make3,3,E. İlyasova,R. Jackson
+229,3,9:41.0,68,45,DET,MIA,23,away,JS,,11,miss2,0,G. Green,
+230,3,9:39.0,68,45,DET,MIA,2,home,DefReb,,,DefReb,,A. Drummond,
+231,3,9:31.0,68,45,DET,MIA,8,home,JS,,11,miss2,0,K. Caldwell-Pope,
+232,3,9:31.0,68,45,DET,MIA,0,away,DefReb,,,DefReb,,H. Whiteside,
+233,3,9:11.0,68,45,DET,MIA,20,away,3sec,,,turnover,,H. Whiteside,
+234,3,9:00.0,68,45,DET,MIA,11,home,LU,,0,miss2,0,R. Jackson,
+235,3,8:59.0,68,45,DET,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
+236,3,8:50.0,68,45,DET,MIA,9,away,JS,,13,miss2,0,G. Dragić,
+237,3,8:50.0,68,45,DET,MIA,0,home,DefReb,,,DefReb,,E. İlyasova,
+238,3,8:40.0,68,45,DET,MIA,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Bosh,E. İlyasova
+239,3,8:27.0,71,45,DET,MIA,13,home,JS,,26,make3,3,R. Jackson,
+240,3,8:27.0,71,45,DET,MIA,0,away,Timeout,,,,,,
+241,3,8:18.0,71,45,DET,MIA,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jackson,D. Wade
+242,3,8:09.0,71,45,DET,MIA,9,away,JS,,14,miss2,0,C. Bosh,
+243,3,8:08.0,71,45,DET,MIA,1,home,DefReb,,,DefReb,,K. Caldwell-Pope,
+244,3,8:03.0,71,45,DET,MIA,5,home,BadPass,steal,,turnover,,R. Jackson,D. Wade
+245,3,7:57.0,71,45,DET,MIA,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,H. Whiteside
+246,3,7:57.0,71,45,DET,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside,
+247,3,7:57.0,71,45,DET,MIA,0,away,OffReb,,,OffReb,,Team,
+248,3,7:57.0,71,46,DET,MIA,0,away,FreeThrow,,,make1,1,H. Whiteside,
+249,3,7:41.0,71,46,DET,MIA,16,home,JS,,14,miss2,0,K. Caldwell-Pope,
+250,3,7:41.0,71,46,DET,MIA,0,away,DefReb,,,DefReb,,H. Whiteside,
+251,3,7:22.0,71,46,DET,MIA,19,away,JS,,18,miss2,0,D. Wade,
+252,3,7:22.0,71,46,DET,MIA,0,home,DefReb,,,DefReb,,E. İlyasova,
+253,3,7:15.0,71,46,DET,MIA,7,home,DK,,0,miss2,0,K. Caldwell-Pope,
+254,3,7:13.0,71,46,DET,MIA,2,away,DefReb,,,DefReb,,G. Green,
+255,3,7:12.0,71,46,DET,MIA,1,away,JS,,16,miss2,0,D. Wade,
+256,3,7:10.0,71,46,DET,MIA,2,home,DefReb,,,DefReb,,R. Jackson,
+257,3,6:56.0,74,46,DET,MIA,14,home,JS,assist,26,make3,3,R. Jackson,K. Caldwell-Pope
+258,3,6:42.0,74,49,DET,MIA,14,away,JS,assist,25,make3,3,G. Green,C. Bosh
+259,3,6:10.0,74,49,DET,MIA,32,home,HS,,8,miss2,0,A. Drummond,
+260,3,6:08.0,74,49,DET,MIA,2,away,DefReb,,,DefReb,,C. Bosh,
+261,3,6:01.0,74,49,DET,MIA,7,away,JS,,22,miss3,0,G. Dragić,
+262,3,6:00.0,74,49,DET,MIA,1,home,DefReb,,,DefReb,,A. Drummond,
+263,3,5:40.0,74,49,DET,MIA,20,home,JS,,16,miss2,0,K. Caldwell-Pope,
+264,3,5:40.0,74,49,DET,MIA,0,home,OffReb,,,OffReb,,A. Drummond,
+265,3,5:37.0,76,49,DET,MIA,3,home,LU,,0,make2,2,A. Drummond,
+266,3,5:20.0,76,49,DET,MIA,17,away,LU,block,0,miss2,0,G. Dragić,A. Drummond
+267,3,5:19.0,76,49,DET,MIA,1,home,DefReb,,,DefReb,,M. Morris,
+268,3,5:13.0,76,49,DET,MIA,6,home,JS,,26,miss3,0,K. Caldwell-Pope,
+269,3,5:13.0,76,49,DET,MIA,0,away,DefReb,,,DefReb,,Team,
+270,3,5:13.0,76,49,DET,MIA,0,away,Sub,,,,,J. Winslow,C. Bosh
+271,3,5:00.0,76,49,DET,MIA,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Caldwell-Pope,D. Wade
+272,3,5:00.0,76,49,DET,MIA,0,home,Sub,,,,,S. Johnson,M. Morris
+273,3,4:48.0,76,52,DET,MIA,12,away,JS,assist,27,make3,3,G. Green,G. Dragić
+274,3,4:24.0,79,52,DET,MIA,24,home,JS,assist,23,make3,3,K. Caldwell-Pope,R. Jackson
+275,3,4:07.0,79,52,DET,MIA,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. İlyasova,J. Winslow
+276,3,4:07.0,79,52,DET,MIA,0,away,Sub,,,,,T. Johnson,D. Wade
+277,3,4:02.0,79,52,DET,MIA,5,away,JS,,17,miss2,0,G. Green,
+278,3,4:01.0,79,52,DET,MIA,1,away,OffReb,,,OffReb,,H. Whiteside,
+279,3,3:58.0,79,54,DET,MIA,3,away,DK,,0,make2,2,H. Whiteside,
+280,3,3:44.0,79,54,DET,MIA,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dragić,R. Jackson
+281,3,3:44.0,79,54,DET,MIA,0,home,Sub,,,,,A. Tolliver,E. İlyasova
+282,3,3:38.0,79,54,DET,MIA,6,home,Traveling,,,turnover,,S. Johnson,
+283,3,3:29.0,79,56,DET,MIA,9,away,JS,assist,12,make2,2,G. Green,G. Dragić
+284,3,3:13.0,79,56,DET,MIA,16,home,JS,,24,miss3,0,S. Johnson,
+285,3,3:12.0,79,56,DET,MIA,1,away,DefReb,,,DefReb,,J. Winslow,
+286,3,3:09.0,79,56,DET,MIA,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Johnson,G. Green
+287,3,3:09.0,79,56,DET,MIA,0,away,FreeThrow,,,make1,0,G. Green,
+288,3,3:09.0,79,56,DET,MIA,0,away,OffReb,,,OffReb,,Team,
+289,3,3:09.0,79,57,DET,MIA,0,away,FreeThrow,,,make1,1,G. Green,
+290,3,3:09.0,79,57,DET,MIA,0,away,OffGoaltending,,,turnover,,H. Whiteside,
+291,3,2:55.0,79,57,DET,MIA,14,home,Timeout,,,,,,
+292,3,2:55.0,79,57,DET,MIA,0,home,Sub,,,,,S. Blake,R. Jackson
+293,3,2:51.0,79,57,DET,MIA,4,home,JS,,17,miss2,0,A. Tolliver,
+294,3,2:51.0,79,57,DET,MIA,0,away,DefReb,,,DefReb,,H. Whiteside,
+295,3,2:27.0,79,59,DET,MIA,24,away,JS,,5,make2,2,G. Dragić,
+296,3,2:12.0,81,59,DET,MIA,15,home,LU,,0,make2,2,A. Drummond,
+297,3,2:12.0,81,59,DET,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Whiteside,A. Drummond
+298,3,2:12.0,81,59,DET,MIA,0,home,FreeThrow,,,make1,0,A. Drummond,
+299,3,2:11.0,81,59,DET,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
+300,3,1:54.0,81,59,DET,MIA,17,away,JS,,26,miss3,0,G. Green,
+301,3,1:54.0,81,59,DET,MIA,0,home,DefReb,,,DefReb,,A. Drummond,
+302,3,1:34.0,81,59,DET,MIA,20,home,JS,,19,miss2,0,S. Johnson,
+303,3,1:34.0,81,59,DET,MIA,0,away,DefReb,,,DefReb,,H. Whiteside,
+304,3,1:30.0,81,59,DET,MIA,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Blake,G. Dragić
+305,3,1:30.0,81,60,DET,MIA,0,away,FreeThrow,,,make1,1,G. Dragić,
+306,3,1:30.0,81,60,DET,MIA,0,away,FreeThrow,,,make1,0,G. Dragić,
+307,3,1:28.0,81,60,DET,MIA,2,home,DefReb,,,DefReb,,S. Johnson,
+308,3,1:07.0,81,60,DET,MIA,21,home,JS,,26,miss3,0,A. Tolliver,
+309,3,1:07.0,81,60,DET,MIA,0,home,OffReb,,,OffReb,,A. Drummond,
+310,3,1:04.0,83,60,DET,MIA,3,home,LU,,0,make2,2,A. Drummond,
+311,3,0:53.0,83,62,DET,MIA,11,away,JS,,19,make2,2,J. Winslow,
+312,3,0:35.0,83,62,DET,MIA,18,home,JS,,26,miss3,0,S. Blake,
+313,3,0:34.0,83,62,DET,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
+314,3,0:19.0,83,62,DET,MIA,15,away,JS,,20,miss2,0,T. Johnson,
+315,3,0:19.0,83,62,DET,MIA,0,home,DefReb,,,DefReb,,A. Drummond,
+316,3,0:02.0,83,62,DET,MIA,17,home,JS,,25,miss3,0,K. Caldwell-Pope,
+317,3,0:01.0,83,62,DET,MIA,1,home,OffReb,,,OffReb,,A. Tolliver,
+318,4,11:45.0,83,64,DET,MIA,15,away,LU,assist,0,make2,2,C. Bosh,G. Green
+319,4,11:15.0,85,64,DET,MIA,30,home,JS,,11,make2,2,M. Morris,
+320,4,11:02.0,85,64,DET,MIA,13,away,LU,block,2,miss2,0,J. Winslow,A. Baynes
+321,4,11:00.0,85,64,DET,MIA,2,home,DefReb,,,DefReb,,A. Tolliver,
+322,4,10:45.0,85,64,DET,MIA,15,home,JS,,4,miss2,0,S. Johnson,
+323,4,10:44.0,85,64,DET,MIA,1,away,DefReb,,,DefReb,,C. Bosh,
+324,4,10:31.0,85,64,DET,MIA,13,away,JS,,5,miss2,0,G. Green,
+325,4,10:30.0,85,64,DET,MIA,1,home,DefReb,,,DefReb,,A. Tolliver,
+326,4,10:08.0,85,64,DET,MIA,22,home,LU,,0,miss2,0,S. Johnson,
+327,4,10:07.0,85,64,DET,MIA,1,away,DefReb,,,DefReb,,C. Bosh,
+328,4,9:55.0,85,64,DET,MIA,12,home,KickBallViolation,,,KickBallViolation,,A. Tolliver,
+329,4,9:43.0,85,64,DET,MIA,12,away,JS,,26,miss3,0,G. Green,
+330,4,9:43.0,85,64,DET,MIA,0,home,DefReb,,,DefReb,,S. Johnson,
+331,4,9:30.0,85,64,DET,MIA,13,home,LostBall,,,turnover,,S. Blake,
+332,4,9:22.0,85,66,DET,MIA,8,away,DK,assist,0,make2,2,T. Johnson,C. Bosh
+333,4,9:01.0,85,66,DET,MIA,21,home,JS,,11,miss2,0,M. Morris,
+334,4,9:01.0,85,66,DET,MIA,0,away,DefReb,,,DefReb,,J. Winslow,
+335,4,8:57.0,85,66,DET,MIA,4,away,BadPass,steal,,turnover,,J. Winslow,M. Morris
+336,4,8:48.0,88,66,DET,MIA,9,home,JS,assist,25,make3,3,S. Blake,S. Johnson
+337,4,8:26.0,88,66,DET,MIA,22,away,Timeout,,,,,,
+338,4,8:26.0,88,66,DET,MIA,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Green,A. Tolliver
+339,4,8:26.0,88,66,DET,MIA,0,away,OffensiveFoul,,,turnover,,G. Green,
+340,4,8:08.0,88,66,DET,MIA,18,home,LU,block,0,miss2,0,S. Johnson,G. Green
+341,4,8:07.0,88,66,DET,MIA,1,home,OffReb,,,OffReb,,S. Johnson,
+342,4,8:05.0,90,66,DET,MIA,2,home,LU,,0,make2,2,S. Johnson,
+343,4,7:54.0,90,66,DET,MIA,11,away,JS,,26,miss3,0,T. Johnson,
+344,4,7:53.0,90,66,DET,MIA,1,home,DefReb,,,DefReb,,A. Baynes,
+345,4,7:33.0,90,66,DET,MIA,20,home,JS,,27,miss3,0,S. Blake,
+346,4,7:32.0,90,66,DET,MIA,1,away,DefReb,,,DefReb,,C. Bosh,
+347,4,7:14.0,90,66,DET,MIA,18,away,JS,,25,miss3,0,G. Green,
+348,4,7:14.0,90,66,DET,MIA,0,home,DefReb,,,DefReb,,Team,
+349,4,7:14.0,90,66,DET,MIA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Johnson,S. Blake
+350,4,7:01.0,90,66,DET,MIA,13,home,JS,,18,miss2,0,M. Morris,
+351,4,7:00.0,90,66,DET,MIA,1,away,DefReb,,,DefReb,,J. McRoberts,
+352,4,6:52.0,90,66,DET,MIA,8,away,BadPass,steal,,turnover,,J. McRoberts,S. Johnson
+353,4,6:36.0,90,66,DET,MIA,16,home,JS,,17,miss2,0,S. Johnson,
+354,4,6:36.0,90,66,DET,MIA,0,away,DefReb,,,DefReb,,J. Winslow,
+355,4,6:33.0,90,66,DET,MIA,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Johnson,J. Winslow
+356,4,6:33.0,90,67,DET,MIA,0,away,FreeThrow,,,make1,1,J. Winslow,
+357,4,6:33.0,90,67,DET,MIA,0,home,Sub,,,,,K. Caldwell-Pope,S. Johnson
+358,4,6:33.0,90,67,DET,MIA,0,home,Sub,,,,,R. Jackson,S. Blake
+359,4,6:33.0,90,67,DET,MIA,0,away,Sub,,,,,H. Whiteside,C. Bosh
+360,4,6:33.0,90,67,DET,MIA,0,away,FreeThrow,,,make1,0,J. Winslow,
+361,4,6:33.0,90,67,DET,MIA,0,home,DefReb,,,DefReb,,A. Baynes,
+362,4,6:17.0,93,67,DET,MIA,16,home,JS,assist,25,make3,3,A. Tolliver,A. Baynes
+363,4,6:01.0,93,67,DET,MIA,16,away,JS,,25,miss3,0,J. McRoberts,
+364,4,6:00.0,93,67,DET,MIA,1,home,DefReb,,,DefReb,,R. Jackson,
+365,4,5:39.0,93,67,DET,MIA,21,away,DefGoaltending,,,DefGoaltending,,H. Whiteside,
+366,4,5:39.0,95,67,DET,MIA,0,home,JS,,6,make2,2,K. Caldwell-Pope,
+367,4,5:39.0,95,67,DET,MIA,0,away,Timeout,,,,,,
+368,4,5:39.0,95,67,DET,MIA,0,home,Sub,,,,,A. Drummond,A. Baynes
+369,4,5:39.0,95,67,DET,MIA,0,away,Sub,,,,,J. Richardson,G. Green
+370,4,5:28.0,95,67,DET,MIA,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Caldwell-Pope,T. Johnson
+371,4,5:12.0,95,67,DET,MIA,16,away,JS,,26,miss3,0,J. McRoberts,
+372,4,5:11.0,95,67,DET,MIA,1,away,OffReb,,,OffReb,,T. Johnson,
+373,4,5:08.0,95,67,DET,MIA,3,away,DK,,0,miss2,0,T. Johnson,
+374,4,5:05.0,95,67,DET,MIA,3,home,DefReb,,,DefReb,,M. Morris,
+375,4,4:47.0,97,67,DET,MIA,18,home,JS,,15,make2,2,M. Morris,
+376,4,4:29.0,97,69,DET,MIA,18,away,JS,assist,12,make2,2,H. Whiteside,J. Winslow
+377,4,4:12.0,97,69,DET,MIA,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Johnson,R. Jackson
+378,4,4:12.0,97,69,DET,MIA,0,home,Sub,,,,,S. Blake,R. Jackson
+379,4,4:12.0,97,69,DET,MIA,0,away,Sub,,,,,U. Haslem,H. Whiteside
+380,4,4:12.0,97,69,DET,MIA,0,away,Sub,,,,,B. Udrih,T. Johnson
+381,4,4:12.0,97,69,DET,MIA,0,away,Sub,,,,,C. Andersen,J. McRoberts
+382,4,4:01.0,97,69,DET,MIA,11,home,LU,,0,miss2,0,K. Caldwell-Pope,
+383,4,3:59.0,97,69,DET,MIA,2,away,DefReb,,,DefReb,,J. Richardson,
+384,4,3:49.0,97,69,DET,MIA,10,away,LU,block,2,miss2,0,J. Richardson,A. Drummond
+385,4,3:47.0,97,69,DET,MIA,2,home,DefReb,,,DefReb,,S. Blake,
+386,4,3:31.0,97,69,DET,MIA,16,home,BadPass,steal,,turnover,,S. Blake,U. Haslem
+387,4,3:25.0,97,69,DET,MIA,6,away,LU,,1,miss2,0,J. Winslow,
+388,4,3:23.0,97,69,DET,MIA,2,home,DefReb,,,DefReb,,A. Tolliver,
+389,4,3:09.0,97,69,DET,MIA,14,home,JS,,26,miss3,0,M. Morris,
+390,4,3:08.0,97,69,DET,MIA,1,away,DefReb,,,DefReb,,U. Haslem,
+391,4,2:52.0,97,71,DET,MIA,16,away,JS,assist,19,make2,2,B. Udrih,U. Haslem
+392,4,2:45.0,97,71,DET,MIA,7,home,Timeout,,,,,,
+393,4,2:45.0,97,71,DET,MIA,0,away,Sub,,,,,G. Green,J. Winslow
+394,4,2:45.0,97,71,DET,MIA,0,home,Sub,,,,,D. Hilliard,M. Morris
+395,4,2:45.0,97,71,DET,MIA,0,home,Sub,,,,,R. Bullock,A. Drummond
+396,4,2:45.0,97,71,DET,MIA,0,home,Sub,,,,,J. Anthony,K. Caldwell-Pope
+397,4,2:33.0,97,71,DET,MIA,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Green,D. Hilliard
+398,4,2:23.0,97,71,DET,MIA,10,home,JS,,21,miss2,0,D. Hilliard,
+399,4,2:21.0,97,71,DET,MIA,2,home,OffReb,,,OffReb,,A. Tolliver,
+400,4,2:20.0,97,71,DET,MIA,1,home,LU,,1,miss2,0,A. Tolliver,
+401,4,2:18.0,97,71,DET,MIA,2,home,OffReb,,,OffReb,,J. Anthony,
+402,4,2:17.0,99,71,DET,MIA,1,home,LU,,1,make2,2,J. Anthony,
+403,4,1:57.0,99,73,DET,MIA,20,away,JS,assist,15,make2,2,U. Haslem,B. Udrih
+404,4,1:33.0,102,73,DET,MIA,24,home,JS,assist,26,make3,3,D. Hilliard,R. Bullock
+405,4,1:22.0,102,75,DET,MIA,11,away,JS,assist,12,make2,2,U. Haslem,J. Richardson
+406,4,1:06.0,104,75,DET,MIA,16,home,JS,assist,17,make2,2,D. Hilliard,A. Tolliver
+407,4,1:01.0,104,78,DET,MIA,5,away,JS,assist,26,make3,3,C. Andersen,B. Udrih
+408,4,0:37.0,104,78,DET,MIA,24,home,JS,,25,miss3,0,S. Blake,
+409,4,0:37.0,104,78,DET,MIA,0,home,OffReb,,,OffReb,,D. Hilliard,
+410,4,0:26.0,104,78,DET,MIA,11,home,HS,,5,miss2,0,J. Anthony,
+411,4,0:24.0,104,78,DET,MIA,2,away,DefReb,,,DefReb,,C. Andersen,
+412,4,0:17.0,104,81,DET,MIA,7,away,JS,assist,23,make3,3,U. Haslem,C. Andersen

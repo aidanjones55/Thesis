@@ -1,0 +1,442 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:47.0,0,2,SAS,WAS,13,away,DK,assist,1,make2,2,T. Bryant,B. Beal
+1,1,11:44.0,0,2,SAS,WAS,3,home,Timeout,,,,,,
+2,1,11:24.0,2,2,SAS,WAS,20,home,JS,,12,make2,2,L. Aldridge,
+3,1,11:07.0,2,2,SAS,WAS,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Gasol,J. Green
+4,1,11:07.0,2,3,SAS,WAS,0,away,FreeThrow,,,make1,1,J. Green,
+5,1,11:07.0,2,4,SAS,WAS,0,away,FreeThrow,,,make1,1,J. Green,
+6,1,10:50.0,2,4,SAS,WAS,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Green,L. Aldridge
+7,1,10:38.0,2,4,SAS,WAS,12,home,JS,,14,miss2,0,L. Aldridge,
+8,1,10:35.0,2,4,SAS,WAS,3,away,DefReb,,,DefReb,,T. Satoranský,
+9,1,10:17.0,2,4,SAS,WAS,18,away,JS,,7,miss2,0,T. Satoranský,
+10,1,10:14.0,2,4,SAS,WAS,3,home,DefReb,,,DefReb,,P. Gasol,
+11,1,10:05.0,2,4,SAS,WAS,9,home,JS,,19,miss2,0,P. Gasol,
+12,1,10:03.0,2,4,SAS,WAS,2,home,OffReb,,,OffReb,,Team,
+13,1,9:57.0,4,4,SAS,WAS,6,home,JS,assist,13,make2,2,L. Aldridge,R. Gay
+14,1,9:45.0,4,4,SAS,WAS,12,away,JS,,17,miss2,0,B. Beal,
+15,1,9:42.0,4,4,SAS,WAS,3,home,DefReb,,,DefReb,,P. Gasol,
+16,1,9:32.0,4,4,SAS,WAS,10,home,bad pass,steal,,turnover,,L. Aldridge,B. Beal
+17,1,9:25.0,4,6,SAS,WAS,7,away,JS,assist,13,make2,2,T. Bryant,B. Beal
+18,1,9:13.0,4,6,SAS,WAS,12,home,JS,,9,miss2,0,L. Aldridge,
+19,1,9:13.0,4,6,SAS,WAS,0,away,DefReb,,,DefReb,,Team,
+20,1,8:55.0,4,6,SAS,WAS,18,away,JS,,2,miss2,0,T. Ariza,
+21,1,8:55.0,4,6,SAS,WAS,0,away,OffReb,,,OffReb,,T. Ariza,
+22,1,8:55.0,4,6,SAS,WAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Gasol,T. Ariza
+23,1,8:55.0,4,7,SAS,WAS,0,away,FreeThrow,,,make1,1,T. Ariza,
+24,1,8:55.0,4,7,SAS,WAS,0,home,Sub,,,,,D. Bertāns,P. Gasol
+25,1,8:55.0,4,8,SAS,WAS,0,away,FreeThrow,,,make1,1,T. Ariza,
+26,1,8:35.0,6,8,SAS,WAS,20,home,DK,assist,1,make2,2,D. White,R. Gay
+27,1,8:20.0,6,10,SAS,WAS,15,away,JS,assist,13,make2,2,T. Bryant,T. Satoranský
+28,1,8:05.0,9,10,SAS,WAS,15,home,JS,assist,25,make3,3,D. Bertāns,L. Aldridge
+29,1,7:51.0,9,10,SAS,WAS,14,away,bad pass,steal,,turnover,,T. Satoranský,R. Gay
+30,1,7:47.0,9,10,SAS,WAS,4,home,OutOfBoundsLB,,,turnover,,D. Bertāns,
+31,1,7:28.0,9,10,SAS,WAS,19,away,JS,,25,miss3,0,T. Ariza,
+32,1,7:24.0,9,10,SAS,WAS,4,home,DefReb,,,DefReb,,L. Aldridge,
+33,1,7:15.0,11,10,SAS,WAS,9,home,JS,,9,make2,2,R. Gay,
+34,1,6:56.0,11,10,SAS,WAS,19,away,JS,,16,miss2,0,B. Beal,
+35,1,6:53.0,11,10,SAS,WAS,3,home,DefReb,,,DefReb,,L. Aldridge,
+36,1,6:43.0,13,10,SAS,WAS,10,home,JS,assist,17,make2,2,R. Gay,D. White
+37,1,6:30.0,13,10,SAS,WAS,13,away,LU,block,0,miss2,0,T. Ariza,L. Aldridge
+38,1,6:25.0,13,10,SAS,WAS,5,home,DefReb,,,DefReb,,D. Bertāns,
+39,1,6:20.0,13,10,SAS,WAS,5,home,JS,,25,miss3,0,B. Forbes,
+40,1,6:16.0,13,10,SAS,WAS,4,away,DefReb,,,DefReb,,T. Ariza,
+41,1,6:05.0,13,12,SAS,WAS,11,away,HS,assist,5,make2,2,J. Green,B. Beal
+42,1,5:49.0,15,12,SAS,WAS,16,home,LU,assist,1,make2,2,L. Aldridge,D. White
+43,1,5:32.0,15,12,SAS,WAS,17,away,JS,,27,miss3,0,J. Green,
+44,1,5:32.0,15,12,SAS,WAS,0,home,DefReb,,,DefReb,,R. Gay,
+45,1,5:23.0,17,12,SAS,WAS,9,home,LU,,5,make2,2,R. Gay,
+46,1,5:15.0,17,12,SAS,WAS,8,away,Timeout,,,,,,
+47,1,5:15.0,17,12,SAS,WAS,0,away,Sub,,,,,O. Porter,J. Green
+48,1,5:15.0,17,12,SAS,WAS,0,home,Sub,,,,,M. Belinelli,B. Forbes
+49,1,5:15.0,17,12,SAS,WAS,0,home,Sub,,,,,P. Mills,D. White
+50,1,5:04.0,17,15,SAS,WAS,11,away,JS,assist,22,make3,3,T. Ariza,T. Satoranský
+51,1,4:50.0,17,15,SAS,WAS,14,home,JS,,23,miss3,0,R. Gay,
+52,1,4:47.0,17,15,SAS,WAS,3,away,DefReb,,,DefReb,,T. Bryant,
+53,1,4:35.0,17,15,SAS,WAS,12,away,JS,,26,miss3,0,B. Beal,
+54,1,4:32.0,17,15,SAS,WAS,3,home,DefReb,,,DefReb,,R. Gay,
+55,1,4:17.0,17,15,SAS,WAS,15,home,HS,,5,miss2,0,L. Aldridge,
+56,1,4:15.0,17,15,SAS,WAS,2,away,DefReb,,,DefReb,,T. Bryant,
+57,1,4:09.0,17,15,SAS,WAS,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bertāns,T. Bryant
+58,1,4:09.0,17,16,SAS,WAS,0,away,FreeThrow,,,make1,1,T. Bryant,
+59,1,4:09.0,17,16,SAS,WAS,0,away,Sub,,,,,C. Randle,T. Satoranský
+60,1,4:09.0,17,16,SAS,WAS,0,home,Sub,,,,,D. Cunningham,R. Gay
+61,1,4:09.0,17,17,SAS,WAS,0,away,FreeThrow,,,make1,1,T. Bryant,
+62,1,3:49.0,19,17,SAS,WAS,20,home,LU,,1,make2,2,L. Aldridge,
+63,1,3:32.0,19,19,SAS,WAS,17,away,JS,assist,15,make2,2,O. Porter,C. Randle
+64,1,3:16.0,21,19,SAS,WAS,16,home,JS,,10,make2,2,L. Aldridge,
+65,1,3:05.0,21,19,SAS,WAS,11,away,bad pass,steal,,turnover,,C. Randle,P. Mills
+66,1,3:01.0,23,19,SAS,WAS,4,home,DK,assist,1,make2,2,D. Bertāns,P. Mills
+67,1,2:47.0,23,19,SAS,WAS,14,away,JS,,23,miss3,0,T. Ariza,
+68,1,2:47.0,23,19,SAS,WAS,0,home,DefReb,,,DefReb,,L. Aldridge,
+69,1,2:42.0,23,19,SAS,WAS,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Randle,P. Mills
+70,1,2:42.0,24,19,SAS,WAS,0,home,FreeThrow,,,make1,1,P. Mills,
+71,1,2:42.0,24,19,SAS,WAS,0,away,Sub,,,,,T. Brown,T. Ariza
+72,1,2:42.0,24,19,SAS,WAS,0,home,Sub,,,,,J. Poeltl,L. Aldridge
+73,1,2:42.0,25,19,SAS,WAS,0,home,FreeThrow,,,make1,1,P. Mills,
+74,1,2:29.0,25,19,SAS,WAS,13,away,JS,,23,miss3,0,C. Randle,
+75,1,2:23.0,25,19,SAS,WAS,6,home,DefReb,,,DefReb,,P. Mills,
+76,1,2:18.0,28,19,SAS,WAS,5,home,JS,,26,make3,3,P. Mills,
+77,1,2:01.0,28,19,SAS,WAS,17,away,JS,,18,miss2,0,O. Porter,
+78,1,1:58.0,28,19,SAS,WAS,3,away,OffReb,,,OffReb,,O. Porter,
+79,1,1:56.0,28,19,SAS,WAS,2,away,bad pass,steal,,turnover,,O. Porter,J. Poeltl
+80,1,1:53.0,31,19,SAS,WAS,3,home,JS,,25,make3,3,P. Mills,
+81,1,1:38.0,31,21,SAS,WAS,15,away,LU,assist,2,make2,2,T. Brown,O. Porter
+82,1,1:22.0,34,21,SAS,WAS,16,home,JS,assist,25,make3,3,M. Belinelli,P. Mills
+83,1,1:03.0,34,21,SAS,WAS,19,away,Traveling,,,turnover,,B. Beal,
+84,1,1:03.0,34,21,SAS,WAS,0,away,Sub,,,,,J. Green,B. Beal
+85,1,1:03.0,34,21,SAS,WAS,0,away,Sub,,,,,T. Satoranský,T. Bryant
+86,1,0:50.0,34,21,SAS,WAS,13,home,bad pass,steal,,turnover,,P. Mills,O. Porter
+87,1,0:44.0,34,24,SAS,WAS,6,away,JS,assist,24,make3,3,C. Randle,O. Porter
+88,1,0:33.0,36,24,SAS,WAS,11,home,LU,assist,1,make2,2,J. Poeltl,M. Belinelli
+89,1,0:33.0,36,24,SAS,WAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,O. Porter,J. Poeltl
+90,1,0:33.0,36,24,SAS,WAS,0,home,FreeThrow,,,make1,0,J. Poeltl,
+91,1,0:30.0,36,24,SAS,WAS,3,away,DefReb,,,DefReb,,T. Brown,
+92,1,0:26.0,36,24,SAS,WAS,4,away,BadPass,,,turnover,,J. Green,
+93,1,0:09.0,36,24,SAS,WAS,17,home,bad pass,steal,,turnover,,P. Mills,C. Randle
+94,1,0:09.0,36,24,SAS,WAS,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Bertāns,O. Porter
+95,1,0:09.0,36,24,SAS,WAS,0,home,Sub,,,,,R. Gay,D. Bertāns
+96,1,0:01.0,36,26,SAS,WAS,8,away,LU,assist,6,make2,2,T. Satoranský,T. Brown
+97,1,0:00.0,36,26,SAS,WAS,1,home,JS,,60,miss3,0,R. Gay,
+98,1,0:00.0,36,26,SAS,WAS,0,home,OffReb,,,OffReb,,Team,
+99,2,11:50.0,36,26,SAS,WAS,10,home,JS,,25,miss3,0,P. Mills,
+100,2,11:47.0,36,26,SAS,WAS,3,away,DefReb,,,DefReb,,T. Satoranský,
+101,2,11:34.0,36,29,SAS,WAS,13,away,JS,assist,26,make3,3,C. Randle,T. Ariza
+102,2,11:21.0,36,29,SAS,WAS,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,M. Belinelli
+103,2,11:21.0,37,29,SAS,WAS,0,home,FreeThrow,,,make1,1,M. Belinelli,
+104,2,11:21.0,37,29,SAS,WAS,0,home,Sub,,,,,R. Gay,D. Bertāns
+105,2,11:21.0,37,29,SAS,WAS,0,home,Sub,,,,,D. White,D. Cunningham
+106,2,11:21.0,38,29,SAS,WAS,0,home,FreeThrow,,,make1,1,M. Belinelli,
+107,2,11:06.0,38,29,SAS,WAS,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Poeltl,T. Brown
+108,2,11:06.0,38,30,SAS,WAS,0,away,FreeThrow,,,make1,1,T. Brown,
+109,2,11:06.0,38,30,SAS,WAS,0,away,FreeThrow,,,make1,0,T. Brown,
+110,2,11:04.0,38,30,SAS,WAS,2,home,DefReb,,,DefReb,,M. Belinelli,
+111,2,10:58.0,38,30,SAS,WAS,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Brown,J. Poeltl
+112,2,10:45.0,38,30,SAS,WAS,13,home,bad pass,steal,,turnover,,P. Mills,T. Ariza
+113,2,10:39.0,38,33,SAS,WAS,6,away,JS,assist,24,make3,3,J. Green,C. Randle
+114,2,10:26.0,38,33,SAS,WAS,13,home,JS,,25,miss3,0,R. Gay,
+115,2,10:23.0,38,33,SAS,WAS,3,away,DefReb,,,DefReb,,T. Satoranský,
+116,2,10:20.0,38,33,SAS,WAS,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Belinelli,C. Randle
+117,2,10:20.0,38,33,SAS,WAS,0,away,FreeThrow,,,make1,0,C. Randle,
+118,2,10:20.0,38,33,SAS,WAS,0,away,OffReb,,,OffReb,,Team,
+119,2,10:20.0,38,33,SAS,WAS,0,home,Sub,,,,,L. Aldridge,J. Poeltl
+120,2,10:20.0,38,34,SAS,WAS,0,away,FreeThrow,,,make1,1,C. Randle,
+121,2,10:07.0,40,34,SAS,WAS,13,home,LU,assist,2,make2,2,P. Mills,L. Aldridge
+122,2,9:56.0,40,37,SAS,WAS,11,away,JS,assist,26,make3,3,J. Green,C. Randle
+123,2,9:42.0,40,37,SAS,WAS,14,home,bad pass,steal,,turnover,,D. White,T. Ariza
+124,2,9:37.0,40,37,SAS,WAS,5,away,JS,,23,miss3,0,C. Randle,
+125,2,9:36.0,40,37,SAS,WAS,1,away,OffReb,,,OffReb,,Team,
+126,2,9:36.0,40,37,SAS,WAS,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Gay,T. Brown
+127,2,9:36.0,40,37,SAS,WAS,0,home,Sub,,,,,B. Forbes,P. Mills
+128,2,9:24.0,40,39,SAS,WAS,12,away,LU,assist,2,make2,2,T. Satoranský,T. Ariza
+129,2,9:24.0,40,39,SAS,WAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Belinelli,T. Satoranský
+130,2,9:24.0,40,40,SAS,WAS,0,away,FreeThrow,,,make1,1,T. Satoranský,
+131,2,9:24.0,40,40,SAS,WAS,0,home,Sub,,,,,L. Walker,M. Belinelli
+132,2,9:06.0,40,40,SAS,WAS,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ariza,D. White
+133,2,9:06.0,41,40,SAS,WAS,0,home,FreeThrow,,,make1,1,D. White,
+134,2,9:06.0,42,40,SAS,WAS,0,home,FreeThrow,,,make1,1,D. White,
+135,2,8:47.0,42,43,SAS,WAS,19,away,JS,assist,25,make3,3,J. Green,T. Satoranský
+136,2,8:33.0,44,43,SAS,WAS,14,home,JS,,16,make2,2,B. Forbes,
+137,2,8:24.0,44,43,SAS,WAS,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Walker,C. Randle
+138,2,8:24.0,44,44,SAS,WAS,0,away,FreeThrow,,,make1,1,C. Randle,
+139,2,8:24.0,44,45,SAS,WAS,0,away,FreeThrow,,,make1,1,C. Randle,
+140,2,8:12.0,44,45,SAS,WAS,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Randle,L. Aldridge
+141,2,8:12.0,44,45,SAS,WAS,0,away,Sub,,,,,B. Beal,T. Brown
+142,2,8:12.0,44,45,SAS,WAS,0,away,Sub,,,,,O. Porter,C. Randle
+143,2,8:00.0,44,45,SAS,WAS,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,O. Porter,R. Gay
+144,2,8:00.0,44,45,SAS,WAS,0,home,FreeThrow,,,make1,0,R. Gay,
+145,2,8:00.0,44,45,SAS,WAS,0,home,OffReb,,,OffReb,,Team,
+146,2,8:00.0,45,45,SAS,WAS,0,home,FreeThrow,,,make1,1,R. Gay,
+147,2,7:50.0,45,47,SAS,WAS,10,away,LU,,1,make2,2,T. Satoranský,
+148,2,7:49.0,45,47,SAS,WAS,1,home,Timeout,,,,,,
+149,2,7:49.0,45,47,SAS,WAS,0,home,Sub,,,,,D. Bertāns,L. Walker
+150,2,7:30.0,47,47,SAS,WAS,19,home,JS,,14,make2,2,L. Aldridge,
+151,2,7:13.0,47,50,SAS,WAS,17,away,JS,assist,25,make3,3,T. Satoranský,O. Porter
+152,2,7:08.0,47,50,SAS,WAS,5,home,Timeout,,,,,,
+153,2,7:00.0,50,50,SAS,WAS,8,home,JS,assist,23,make3,3,B. Forbes,L. Aldridge
+154,2,6:35.0,50,50,SAS,WAS,25,away,JS,,26,miss3,0,J. Green,
+155,2,6:31.0,50,50,SAS,WAS,4,home,DefReb,,,DefReb,,R. Gay,
+156,2,6:25.0,52,50,SAS,WAS,6,home,HS,assist,8,make2,2,L. Aldridge,R. Gay
+157,2,6:15.0,52,50,SAS,WAS,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Forbes,B. Beal
+158,2,6:15.0,52,50,SAS,WAS,0,away,FreeThrow,,,make1,0,B. Beal,
+159,2,6:15.0,52,50,SAS,WAS,0,away,OffReb,,,OffReb,,Team,
+160,2,6:15.0,52,50,SAS,WAS,0,away,Sub,,,,,T. Bryant,J. Green
+161,2,6:15.0,52,51,SAS,WAS,0,away,FreeThrow,,,make1,1,B. Beal,
+162,2,5:58.0,54,51,SAS,WAS,17,home,LU,assist,0,make2,2,D. White,L. Aldridge
+163,2,5:38.0,54,53,SAS,WAS,20,away,JS,,11,make2,2,B. Beal,
+164,2,5:26.0,54,53,SAS,WAS,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Bryant,L. Aldridge
+165,2,5:26.0,55,53,SAS,WAS,0,home,FreeThrow,,,make1,1,L. Aldridge,
+166,2,5:26.0,56,53,SAS,WAS,0,home,FreeThrow,,,make1,1,L. Aldridge,
+167,2,5:13.0,56,53,SAS,WAS,13,away,JS,,25,miss3,0,T. Ariza,
+168,2,5:09.0,56,53,SAS,WAS,4,home,DefReb,,,DefReb,,B. Forbes,
+169,2,4:57.0,59,53,SAS,WAS,12,home,JS,assist,23,make3,3,B. Forbes,D. Bertāns
+170,2,4:41.0,59,56,SAS,WAS,16,away,JS,assist,24,make3,3,T. Bryant,T. Satoranský
+171,2,4:29.0,59,56,SAS,WAS,12,home,JS,,7,miss2,0,R. Gay,
+172,2,4:29.0,59,56,SAS,WAS,0,home,OffReb,,,OffReb,,R. Gay,
+173,2,4:25.0,59,56,SAS,WAS,4,home,lost ball,steal,,turnover,,R. Gay,B. Beal
+174,2,4:21.0,59,59,SAS,WAS,4,away,JS,assist,26,make3,3,B. Beal,T. Satoranský
+175,2,4:07.0,59,59,SAS,WAS,14,home,D3SecTech,,,,,,
+176,2,4:07.0,60,59,SAS,WAS,0,home,FreeThrow,,,make1,1,L. Aldridge makes technical free throw,
+177,2,4:07.0,60,59,SAS,WAS,0,home,Sub,,,,,M. Belinelli,R. Gay
+178,2,4:07.0,60,59,SAS,WAS,0,home,Sub,,,,,P. Mills,D. White
+179,2,3:58.0,60,59,SAS,WAS,9,home,JS,,26,miss3,0,B. Forbes,
+180,2,3:53.0,60,59,SAS,WAS,5,away,DefReb,,,DefReb,,T. Bryant,
+181,2,3:45.0,60,59,SAS,WAS,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Mills,T. Bryant
+182,2,3:45.0,60,59,SAS,WAS,0,away,FreeThrow,,,make1,0,T. Bryant,
+183,2,3:45.0,60,59,SAS,WAS,0,away,OffReb,,,OffReb,,Team,
+184,2,3:45.0,60,60,SAS,WAS,0,away,FreeThrow,,,make1,1,T. Bryant,
+185,2,3:36.0,60,60,SAS,WAS,9,home,BadPass,,,turnover,,P. Mills,
+186,2,3:23.0,60,62,SAS,WAS,13,away,LU,,1,make2,2,B. Beal,
+187,2,3:23.0,60,62,SAS,WAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Forbes,B. Beal
+188,2,3:23.0,60,63,SAS,WAS,0,away,FreeThrow,,,make1,1,B. Beal,
+189,2,3:10.0,60,63,SAS,WAS,13,home,JS,,13,miss2,0,L. Aldridge,
+190,2,3:08.0,60,63,SAS,WAS,2,away,DefReb,,,DefReb,,T. Satoranský,
+191,2,2:56.0,60,63,SAS,WAS,12,away,LU,,2,miss2,0,B. Beal,
+192,2,2:51.0,60,63,SAS,WAS,5,away,OffReb,,,OffReb,,T. Satoranský,
+193,2,2:51.0,60,65,SAS,WAS,0,away,LU,,0,make2,2,T. Satoranský,
+194,2,2:46.0,63,65,SAS,WAS,5,home,JS,assist,25,make3,3,D. Bertāns,B. Forbes
+195,2,2:34.0,63,65,SAS,WAS,12,away,JS,,26,miss3,0,T. Ariza,
+196,2,2:34.0,63,65,SAS,WAS,0,away,OffReb,,,OffReb,,T. Satoranský,
+197,2,2:30.0,63,65,SAS,WAS,4,away,JS,,22,miss3,0,B. Beal,
+198,2,2:28.0,63,65,SAS,WAS,2,home,DefReb,,,DefReb,,D. Bertāns,
+199,2,2:18.0,65,65,SAS,WAS,10,home,LU,assist,3,make2,2,L. Aldridge,B. Forbes
+200,2,1:57.0,65,67,SAS,WAS,21,away,JS,assist,23,make2,2,O. Porter,B. Beal
+201,2,1:40.0,65,67,SAS,WAS,17,home,LU,,0,miss2,0,P. Mills,
+202,2,1:40.0,65,67,SAS,WAS,0,home,OffReb,,,OffReb,,L. Aldridge,
+203,2,1:33.0,67,67,SAS,WAS,7,home,DK,,1,make2,2,L. Aldridge,
+204,2,1:25.0,67,69,SAS,WAS,8,away,LU,assist,1,make2,2,T. Ariza,O. Porter
+205,2,1:11.0,70,69,SAS,WAS,14,home,JS,assist,26,make3,3,D. Bertāns,P. Mills
+206,2,0:45.0,70,69,SAS,WAS,26,away,JS,,10,miss2,0,O. Porter,
+207,2,0:43.0,70,69,SAS,WAS,2,home,DefReb,,,DefReb,,B. Forbes,
+208,2,0:36.0,70,69,SAS,WAS,7,home,JS,,23,miss3,0,M. Belinelli,
+209,2,0:33.0,70,69,SAS,WAS,3,home,OffReb,,,OffReb,,L. Aldridge,
+210,2,0:30.0,70,69,SAS,WAS,3,home,JS,,24,miss3,0,P. Mills,
+211,2,0:28.0,70,69,SAS,WAS,2,away,DefReb,,,DefReb,,T. Bryant,
+212,2,0:08.0,70,69,SAS,WAS,20,away,DK,block,1,miss2,0,B. Beal,L. Aldridge
+213,2,0:05.0,70,69,SAS,WAS,3,away,OffReb,,,OffReb,,T. Satoranský,
+214,2,0:04.0,70,69,SAS,WAS,1,away,JS,,22,miss3,0,T. Satoranský,
+215,2,0:02.0,70,69,SAS,WAS,2,home,DefReb,,,DefReb,,L. Aldridge,
+216,2,0:00.0,70,69,SAS,WAS,2,home,JS,,26,miss3,0,L. Aldridge,
+217,2,0:00.0,70,69,SAS,WAS,0,home,OffReb,,,OffReb,,Team,
+218,3,11:42.0,72,69,SAS,WAS,18,home,JS,,21,make2,2,R. Gay,
+219,3,11:28.0,72,69,SAS,WAS,14,away,JS,,25,miss3,0,T. Ariza,
+220,3,11:25.0,72,69,SAS,WAS,3,home,DefReb,,,DefReb,,D. White,
+221,3,11:17.0,72,69,SAS,WAS,8,home,JS,,10,miss2,0,D. White,
+222,3,11:15.0,72,69,SAS,WAS,2,away,DefReb,,,DefReb,,B. Beal,
+223,3,10:59.0,72,69,SAS,WAS,16,away,JS,,9,miss2,0,T. Satoranský,
+224,3,10:57.0,72,69,SAS,WAS,2,home,DefReb,,,DefReb,,P. Gasol,
+225,3,10:57.0,72,69,SAS,WAS,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Satoranský,D. White
+226,3,10:42.0,72,69,SAS,WAS,15,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,L. Aldridge,J. Green
+227,3,10:42.0,72,69,SAS,WAS,0,home,OffensiveFoul,,,turnover,,L. Aldridge,
+228,3,10:33.0,72,69,SAS,WAS,9,away,JS,,26,miss3,0,B. Beal,
+229,3,10:30.0,72,69,SAS,WAS,3,home,DefReb,,,DefReb,,B. Forbes,
+230,3,10:23.0,75,69,SAS,WAS,7,home,JS,assist,25,make3,3,P. Gasol,B. Forbes
+231,3,10:05.0,75,69,SAS,WAS,18,away,JS,,23,miss3,0,T. Satoranský,
+232,3,10:02.0,75,69,SAS,WAS,3,home,DefReb,,,DefReb,,L. Aldridge,
+233,3,9:55.0,75,69,SAS,WAS,7,home,JS,,24,miss3,0,B. Forbes,
+234,3,9:51.0,75,69,SAS,WAS,4,away,DefReb,,,DefReb,,T. Bryant,
+235,3,9:40.0,75,71,SAS,WAS,11,away,JS,,5,make2,2,J. Green,
+236,3,9:24.0,77,71,SAS,WAS,16,home,JS,,11,make2,2,L. Aldridge,
+237,3,8:57.0,77,73,SAS,WAS,27,away,JS,assist,16,make2,2,T. Ariza,T. Bryant
+238,3,8:39.0,77,73,SAS,WAS,18,home,HS,,5,miss2,0,P. Gasol,
+239,3,8:39.0,77,73,SAS,WAS,0,home,OffReb,,,OffReb,,P. Gasol,
+240,3,8:36.0,77,73,SAS,WAS,3,home,lost ball,steal,,turnover,,P. Gasol,T. Satoranský
+241,3,8:31.0,77,73,SAS,WAS,5,away,JS,,23,miss3,0,J. Green,
+242,3,8:26.0,77,73,SAS,WAS,5,home,DefReb,,,DefReb,,D. White,
+243,3,8:19.0,77,73,SAS,WAS,7,home,JS,,8,miss2,0,R. Gay,
+244,3,8:18.0,77,73,SAS,WAS,1,away,DefReb,,,DefReb,,T. Satoranský,
+245,3,8:07.0,77,73,SAS,WAS,11,away,JS,,19,miss2,0,T. Bryant,
+246,3,8:07.0,77,73,SAS,WAS,0,home,DefReb,,,DefReb,,D. White,
+247,3,7:46.0,77,73,SAS,WAS,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Beal,P. Gasol
+248,3,7:46.0,78,73,SAS,WAS,0,home,FreeThrow,,,make1,1,P. Gasol,
+249,3,7:46.0,79,73,SAS,WAS,0,home,FreeThrow,,,make1,1,P. Gasol,
+250,3,7:34.0,79,73,SAS,WAS,12,away,bad pass,steal,,turnover,,B. Beal,L. Aldridge
+251,3,7:29.0,81,73,SAS,WAS,5,home,LU,,1,make2,2,D. White,
+252,3,7:29.0,81,73,SAS,WAS,0,away,Timeout,,,,,,
+253,3,7:17.0,81,73,SAS,WAS,12,away,JS,,12,miss2,0,B. Beal,
+254,3,7:15.0,81,73,SAS,WAS,2,away,OffReb,,,OffReb,,B. Beal,
+255,3,7:13.0,81,73,SAS,WAS,2,away,JS,,25,miss3,0,J. Green,
+256,3,7:13.0,81,73,SAS,WAS,0,away,OffReb,,,OffReb,,Team,
+257,3,7:10.0,81,73,SAS,WAS,3,away,LU,,1,miss2,0,T. Satoranský,
+258,3,7:08.0,81,73,SAS,WAS,2,home,DefReb,,,DefReb,,L. Aldridge,
+259,3,6:58.0,83,73,SAS,WAS,10,home,JS,assist,19,make2,2,L. Aldridge,D. White
+260,3,6:45.0,83,73,SAS,WAS,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Aldridge,T. Ariza
+261,3,6:45.0,83,73,SAS,WAS,0,away,FreeThrow,,,make1,0,T. Ariza,
+262,3,6:45.0,83,73,SAS,WAS,0,away,OffReb,,,OffReb,,Team,
+263,3,6:45.0,83,73,SAS,WAS,0,home,Sub,,,,,P. Mills,B. Forbes
+264,3,6:45.0,83,73,SAS,WAS,0,away,FreeThrow,,,make1,0,T. Ariza,
+265,3,6:43.0,83,73,SAS,WAS,2,home,DefReb,,,DefReb,,P. Gasol,
+266,3,6:22.0,83,73,SAS,WAS,21,home,JS,,19,miss2,0,L. Aldridge,
+267,3,6:21.0,83,73,SAS,WAS,1,home,OffReb,,,OffReb,,P. Gasol,
+268,3,6:20.0,83,73,SAS,WAS,1,home,LU,,1,miss2,0,P. Gasol,
+269,3,6:18.0,83,73,SAS,WAS,2,away,DefReb,,,DefReb,,T. Bryant,
+270,3,6:11.0,83,73,SAS,WAS,7,away,JS,,25,miss3,0,T. Ariza,
+271,3,6:11.0,83,73,SAS,WAS,0,home,DefReb,,,DefReb,,P. Gasol,
+272,3,6:00.0,83,73,SAS,WAS,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Green,P. Gasol
+273,3,6:00.0,83,73,SAS,WAS,0,home,Sub,,,,,D. Bertāns,P. Gasol
+274,3,5:58.0,86,73,SAS,WAS,2,home,JS,assist,26,make3,3,P. Mills,D. Bertāns
+275,3,5:36.0,86,76,SAS,WAS,22,away,JS,assist,25,make3,3,B. Beal,T. Bryant
+276,3,5:31.0,86,76,SAS,WAS,5,home,bad pass,steal,,turnover,,D. Bertāns,B. Beal
+277,3,5:30.0,86,78,SAS,WAS,1,away,LU,assist,1,make2,2,T. Satoranský,B. Beal
+278,3,5:30.0,86,78,SAS,WAS,0,home,Timeout,,,,,,
+279,3,5:22.0,86,78,SAS,WAS,8,home,JS,,24,miss3,0,D. Bertāns,
+280,3,5:17.0,86,78,SAS,WAS,5,away,DefReb,,,DefReb,,T. Satoranský,
+281,3,5:12.0,86,78,SAS,WAS,5,away,JS,,24,miss3,0,B. Beal,
+282,3,5:10.0,86,78,SAS,WAS,2,home,DefReb,,,DefReb,,R. Gay,
+283,3,4:56.0,86,78,SAS,WAS,14,home,JS,,23,miss3,0,L. Aldridge,
+284,3,4:52.0,86,78,SAS,WAS,4,away,DefReb,,,DefReb,,T. Ariza,
+285,3,4:33.0,86,81,SAS,WAS,19,away,JS,assist,25,make3,3,T. Satoranský,J. Green
+286,3,4:04.0,86,81,SAS,WAS,29,home,JS,,14,miss2,0,R. Gay,
+287,3,4:00.0,86,81,SAS,WAS,4,home,OffReb,,,OffReb,,L. Aldridge,
+288,3,3:59.0,86,81,SAS,WAS,1,home,LU,,2,miss2,0,L. Aldridge,
+289,3,3:57.0,86,81,SAS,WAS,2,away,DefReb,,,DefReb,,T. Bryant,
+290,3,3:51.0,86,81,SAS,WAS,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Gay,T. Bryant
+291,3,3:51.0,86,82,SAS,WAS,0,away,FreeThrow,,,make1,1,T. Bryant,
+292,3,3:51.0,86,82,SAS,WAS,0,home,Sub,,,,,M. Belinelli,L. Aldridge
+293,3,3:51.0,86,82,SAS,WAS,0,home,Sub,,,,,J. Poeltl,R. Gay
+294,3,3:51.0,86,82,SAS,WAS,0,away,FreeThrow,,,make1,0,T. Bryant,
+295,3,3:49.0,86,82,SAS,WAS,2,home,DefReb,,,DefReb,,J. Poeltl,
+296,3,3:31.0,88,82,SAS,WAS,18,home,JS,,10,make2,2,D. White,
+297,3,3:21.0,88,82,SAS,WAS,10,away,JS,,25,miss3,0,T. Bryant,
+298,3,3:17.0,88,82,SAS,WAS,4,away,OffReb,,,OffReb,,T. Bryant,
+299,3,3:16.0,88,82,SAS,WAS,1,away,lost ball,steal,,turnover,,T. Bryant,D. White
+300,3,3:06.0,88,82,SAS,WAS,10,home,bad pass,steal,,turnover,,D. White,B. Beal
+301,3,2:57.0,88,82,SAS,WAS,9,away,Timeout,,,,,,
+302,3,2:57.0,88,82,SAS,WAS,0,away,Sub,,,,,O. Porter,T. Bryant
+303,3,2:42.0,88,82,SAS,WAS,15,away,JS,,24,miss3,0,T. Ariza,
+304,3,2:40.0,88,82,SAS,WAS,2,home,DefReb,,,DefReb,,D. Bertāns,
+305,3,2:36.0,91,82,SAS,WAS,4,home,JS,assist,28,make3,3,M. Belinelli,P. Mills
+306,3,2:23.0,91,84,SAS,WAS,13,away,LU,assist,1,make2,2,B. Beal,T. Satoranský
+307,3,2:16.0,93,84,SAS,WAS,7,home,LU,,2,make2,2,D. White,
+308,3,2:06.0,93,86,SAS,WAS,10,away,JS,assist,21,make2,2,B. Beal,J. Green
+309,3,1:41.0,96,86,SAS,WAS,25,home,JS,assist,26,make3,3,D. Bertāns,J. Poeltl
+310,3,1:21.0,96,86,SAS,WAS,20,away,JS,,21,miss2,0,J. Green,
+311,3,1:18.0,96,86,SAS,WAS,3,home,DefReb,,,DefReb,,M. Belinelli,
+312,3,1:07.0,99,86,SAS,WAS,11,home,JS,assist,27,make3,3,D. Bertāns,M. Belinelli
+313,3,0:44.0,99,86,SAS,WAS,23,away,JS,,10,miss2,0,O. Porter,
+314,3,0:42.0,99,86,SAS,WAS,2,home,DefReb,,,DefReb,,M. Belinelli,
+315,3,0:38.0,99,86,SAS,WAS,4,home,JS,,29,miss3,0,M. Belinelli,
+316,3,0:36.0,99,86,SAS,WAS,2,home,OffReb,,,OffReb,,Team,
+317,3,0:36.0,99,86,SAS,WAS,0,away,Sub,,,,,T. Brown,T. Satoranský
+318,3,0:36.0,99,86,SAS,WAS,0,home,Sub,,,,,B. Forbes,D. White
+319,3,0:29.0,99,86,SAS,WAS,7,home,JS,,27,miss3,0,D. Bertāns,
+320,3,0:26.0,99,86,SAS,WAS,3,away,DefReb,,,DefReb,,T. Ariza,
+321,3,0:06.0,99,86,SAS,WAS,20,away,JS,,24,miss3,0,B. Beal,
+322,3,0:04.0,99,86,SAS,WAS,2,home,DefReb,,,DefReb,,M. Belinelli,
+323,3,0:01.0,99,86,SAS,WAS,3,home,bad pass,steal,,turnover,,M. Belinelli,O. Porter
+324,3,0:00.0,99,86,SAS,WAS,1,away,JS,,33,miss3,0,O. Porter,
+325,3,0:00.0,99,86,SAS,WAS,0,away,OffReb,,,OffReb,,Team,
+326,4,11:47.0,99,86,SAS,WAS,13,away,lost ball,steal,,turnover,,O. Porter,P. Mills
+327,4,11:47.0,99,86,SAS,WAS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,B. Beal,B. Forbes
+328,4,11:36.0,99,86,SAS,WAS,11,home,DK,,1,miss2,0,J. Poeltl,
+329,4,11:33.0,99,86,SAS,WAS,3,away,DefReb,,,DefReb,,J. Green,
+330,4,11:31.0,99,89,SAS,WAS,2,away,JS,,25,make3,3,B. Beal,
+331,4,11:18.0,102,89,SAS,WAS,13,home,JS,assist,25,make3,3,B. Forbes,P. Mills
+332,4,11:04.0,102,92,SAS,WAS,14,away,JS,assist,25,make3,3,T. Ariza,B. Beal
+333,4,10:53.0,104,92,SAS,WAS,11,home,JS,assist,11,make2,2,D. Bertāns,P. Mills
+334,4,10:41.0,104,92,SAS,WAS,12,away,LU,,1,miss2,0,T. Ariza,
+335,4,10:39.0,104,92,SAS,WAS,2,home,DefReb,,,DefReb,,B. Forbes,
+336,4,10:25.0,104,92,SAS,WAS,14,home,JS,,26,miss3,0,P. Mills,
+337,4,10:23.0,104,92,SAS,WAS,2,home,OffReb,,,OffReb,,Team,
+338,4,10:23.0,104,92,SAS,WAS,0,away,Sub,,,,,C. Randle,J. Green
+339,4,10:15.0,106,92,SAS,WAS,8,home,LU,assist,1,make2,2,M. Belinelli,B. Forbes
+340,4,9:56.0,106,92,SAS,WAS,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Poeltl,T. Ariza
+341,4,9:56.0,106,93,SAS,WAS,0,away,FreeThrow,,,make1,1,T. Ariza,
+342,4,9:56.0,106,94,SAS,WAS,0,away,FreeThrow,,,make1,1,T. Ariza,
+343,4,9:41.0,108,94,SAS,WAS,15,home,LU,assist,1,make2,2,P. Mills,M. Belinelli
+344,4,9:41.0,108,94,SAS,WAS,0,away,Timeout,,,,,,
+345,4,9:25.0,108,94,SAS,WAS,16,away,BadPass,,,turnover,,B. Beal,
+346,4,9:09.0,108,94,SAS,WAS,16,home,JS,,25,miss3,0,D. Bertāns,
+347,4,9:05.0,108,94,SAS,WAS,4,away,DefReb,,,DefReb,,T. Brown,
+348,4,8:56.0,108,94,SAS,WAS,9,away,JS,,23,miss2,0,B. Beal,
+349,4,8:56.0,108,94,SAS,WAS,0,home,DefReb,,,DefReb,,J. Poeltl,
+350,4,8:45.0,110,94,SAS,WAS,11,home,JS,assist,10,make2,2,D. Bertāns,P. Mills
+351,4,8:36.0,110,94,SAS,WAS,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Forbes,B. Beal
+352,4,8:36.0,110,94,SAS,WAS,0,away,Sub,,,,,T. Satoranský,T. Brown
+353,4,8:36.0,110,94,SAS,WAS,0,home,Sub,,,,,L. Aldridge,D. Bertāns
+354,4,8:36.0,110,94,SAS,WAS,0,home,Sub,,,,,R. Gay,P. Mills
+355,4,8:36.0,110,94,SAS,WAS,0,home,Sub,,,,,D. White,J. Poeltl
+356,4,8:31.0,110,97,SAS,WAS,5,away,JS,assist,25,make3,3,T. Ariza,C. Randle
+357,4,8:17.0,113,97,SAS,WAS,14,home,JS,,26,make3,3,B. Forbes,
+358,4,8:06.0,113,97,SAS,WAS,11,away,JS,,25,miss3,0,T. Ariza,
+359,4,8:03.0,113,97,SAS,WAS,3,away,OffReb,,,OffReb,,B. Beal,
+360,4,8:03.0,113,99,SAS,WAS,0,away,LU,,1,make2,2,B. Beal,
+361,4,7:49.0,115,99,SAS,WAS,14,home,LU,,1,make2,2,D. White,
+362,4,7:30.0,115,102,SAS,WAS,19,away,JS,assist,24,make3,3,O. Porter,T. Satoranský
+363,4,7:30.0,115,102,SAS,WAS,0,home,Timeout,,,,,,
+364,4,7:30.0,115,102,SAS,WAS,0,away,Sub,,,,,J. Green,C. Randle
+365,4,7:08.0,117,102,SAS,WAS,22,home,DK,assist,1,make2,2,R. Gay,D. White
+366,4,7:00.0,117,105,SAS,WAS,8,away,JS,assist,25,make3,3,O. Porter,T. Satoranský
+367,4,6:40.0,117,105,SAS,WAS,20,home,PersonalFoul,DrawnBy,,PersonalFoul,,O. Porter,L. Aldridge
+368,4,6:37.0,120,105,SAS,WAS,3,home,JS,assist,25,make3,3,M. Belinelli,L. Aldridge
+369,4,6:23.0,120,105,SAS,WAS,14,away,JS,,19,miss2,0,B. Beal,
+370,4,6:20.0,120,105,SAS,WAS,3,home,DefReb,,,DefReb,,M. Belinelli,
+371,4,6:08.0,120,105,SAS,WAS,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Beal,D. White
+372,4,6:08.0,121,105,SAS,WAS,0,home,FreeThrow,,,make1,1,D. White,
+373,4,6:08.0,122,105,SAS,WAS,0,home,FreeThrow,,,make1,1,D. White,
+374,4,5:55.0,122,105,SAS,WAS,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Aldridge,T. Satoranský
+375,4,5:55.0,122,106,SAS,WAS,0,away,FreeThrow,,,make1,1,T. Satoranský,
+376,4,5:55.0,122,106,SAS,WAS,0,away,FreeThrow,,,make1,0,T. Satoranský,
+377,4,5:53.0,122,106,SAS,WAS,2,home,DefReb,,,DefReb,,R. Gay,
+378,4,5:39.0,124,106,SAS,WAS,14,home,HS,assist,4,make2,2,L. Aldridge,R. Gay
+379,4,5:39.0,124,106,SAS,WAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,L. Aldridge
+380,4,5:39.0,125,106,SAS,WAS,0,home,FreeThrow,,,make1,1,L. Aldridge,
+381,4,5:27.0,125,106,SAS,WAS,12,away,JS,,23,miss3,0,O. Porter,
+382,4,5:24.0,125,106,SAS,WAS,3,home,DefReb,,,DefReb,,D. White,
+383,4,5:06.0,125,106,SAS,WAS,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Green,L. Aldridge
+384,4,5:06.0,126,106,SAS,WAS,0,home,FreeThrow,,,make1,1,L. Aldridge,
+385,4,5:06.0,126,106,SAS,WAS,0,home,Sub,,,,,D. Bertāns,R. Gay
+386,4,5:06.0,127,106,SAS,WAS,0,home,FreeThrow,,,make1,1,L. Aldridge,
+387,4,4:58.0,127,108,SAS,WAS,8,away,LU,assist,7,make2,2,T. Satoranský,B. Beal
+388,4,4:58.0,127,108,SAS,WAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bertāns,T. Satoranský
+389,4,4:58.0,127,109,SAS,WAS,0,away,FreeThrow,,,make1,1,T. Satoranský,
+390,4,4:44.0,127,109,SAS,WAS,14,home,JS,,14,miss2,0,L. Aldridge,
+391,4,4:42.0,127,109,SAS,WAS,2,away,DefReb,,,DefReb,,B. Beal,
+392,4,4:35.0,127,112,SAS,WAS,7,away,JS,assist,26,make3,3,T. Ariza,J. Green
+393,4,4:35.0,127,112,SAS,WAS,0,away,Sub,,,,,T. Bryant,B. Beal
+394,4,4:35.0,127,112,SAS,WAS,0,away,Sub,,,,,J. McRae,J. Green
+395,4,4:35.0,127,112,SAS,WAS,0,away,Sub,,,,,C. Randle,T. Satoranský
+396,4,4:05.0,127,112,SAS,WAS,30,home,JS,,30,miss3,0,M. Belinelli,
+397,4,4:03.0,127,112,SAS,WAS,2,away,DefReb,,,DefReb,,T. Bryant,
+398,4,3:53.0,127,112,SAS,WAS,10,away,JS,,26,miss3,0,O. Porter,
+399,4,3:48.0,127,112,SAS,WAS,5,home,DefReb,,,DefReb,,D. White,
+400,4,3:30.0,129,112,SAS,WAS,18,home,LU,assist,1,make2,2,B. Forbes,L. Aldridge
+401,4,3:26.0,129,112,SAS,WAS,4,away,Timeout,,,,,,
+402,4,3:26.0,129,112,SAS,WAS,0,away,Sub,,,,,T. Brown,T. Ariza
+403,4,3:26.0,129,112,SAS,WAS,0,home,Sub,,,,,D. Cunningham,L. Aldridge
+404,4,3:26.0,129,112,SAS,WAS,0,home,Sub,,,,,C. Metu,M. Belinelli
+405,4,3:26.0,129,112,SAS,WAS,0,home,Sub,,,,,J. Poeltl,D. Bertāns
+406,4,3:26.0,129,112,SAS,WAS,0,home,Sub,,,,,Q. Pondexter,B. Forbes
+407,4,3:26.0,129,112,SAS,WAS,0,home,Sub,,,,,L. Walker,D. White
+408,4,3:16.0,129,112,SAS,WAS,10,away,JS,,13,miss2,0,J. McRae,
+409,4,3:14.0,129,112,SAS,WAS,2,home,DefReb,,,DefReb,,C. Metu,
+410,4,2:56.0,129,112,SAS,WAS,18,home,JS,,10,miss2,0,C. Metu,
+411,4,2:54.0,129,112,SAS,WAS,2,home,OffReb,,,OffReb,,J. Poeltl,
+412,4,2:52.0,131,112,SAS,WAS,2,home,JS,,12,make2,2,J. Poeltl,
+413,4,2:42.0,131,112,SAS,WAS,10,away,JS,,26,miss3,0,O. Porter,
+414,4,2:42.0,131,112,SAS,WAS,0,home,DefReb,,,DefReb,,Q. Pondexter,
+415,4,2:31.0,131,112,SAS,WAS,11,home,5 sec,,,turnover,,Team,
+416,4,2:15.0,131,115,SAS,WAS,16,away,JS,assist,24,make3,3,O. Porter,C. Randle
+417,4,2:03.0,131,115,SAS,WAS,12,home,JS,,21,miss2,0,L. Walker,
+418,4,2:03.0,131,115,SAS,WAS,0,away,DefReb,,,DefReb,,Team,
+419,4,2:03.0,131,115,SAS,WAS,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Metu,C. Randle
+420,4,2:03.0,131,116,SAS,WAS,0,away,FreeThrow,,,make1,1,C. Randle,
+421,4,2:03.0,131,117,SAS,WAS,0,away,FreeThrow,,,make1,1,C. Randle,
+422,4,1:51.0,131,117,SAS,WAS,12,home,3sec,,,turnover,,J. Poeltl,
+423,4,1:41.0,131,117,SAS,WAS,10,away,JS,,26,miss3,0,O. Porter,
+424,4,1:37.0,131,117,SAS,WAS,4,home,DefReb,,,DefReb,,D. Cunningham,
+425,4,1:19.0,131,117,SAS,WAS,18,home,bad pass,steal,,turnover,,C. Metu,O. Porter
+426,4,1:14.0,131,117,SAS,WAS,5,away,LU,block,2,miss2,0,T. Brown,L. Walker
+427,4,1:12.0,131,117,SAS,WAS,2,home,DefReb,,,DefReb,,J. Poeltl,
+428,4,1:06.0,131,117,SAS,WAS,6,home,JS,,26,miss3,0,L. Walker,
+429,4,1:03.0,131,117,SAS,WAS,3,away,DefReb,,,DefReb,,C. Randle,
+430,4,0:57.0,131,117,SAS,WAS,6,away,JS,,27,miss3,0,T. Brown,
+431,4,0:55.0,131,117,SAS,WAS,2,home,DefReb,,,DefReb,,D. Cunningham,
+432,4,0:41.0,131,117,SAS,WAS,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Bryant,C. Metu
+433,4,0:41.0,131,117,SAS,WAS,0,home,FreeThrow,,,make1,0,C. Metu,
+434,4,0:41.0,131,117,SAS,WAS,0,home,OffReb,,,OffReb,,Team,
+435,4,0:41.0,132,117,SAS,WAS,0,home,FreeThrow,,,make1,1,C. Metu,
+436,4,0:33.0,132,117,SAS,WAS,8,away,JS,block,6,miss2,0,J. McRae,J. Poeltl
+437,4,0:30.0,132,117,SAS,WAS,3,home,DefReb,,,DefReb,,J. Poeltl,
+438,4,0:25.0,132,117,SAS,WAS,5,home,LU,,1,miss2,0,C. Metu,
+439,4,0:23.0,132,117,SAS,WAS,2,away,DefReb,,,DefReb,,T. Bryant,
+440,4,0:13.0,132,119,SAS,WAS,10,away,HS,,6,make2,2,T. Bryant,

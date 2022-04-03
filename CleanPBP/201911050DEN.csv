@@ -1,0 +1,469 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,2,0,DEN,MIA,15,home,LU,assist,7,make2,2,P. Millsap,J. Murray
+1,1,11:45.0,2,0,DEN,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Adebayo,P. Millsap
+2,1,11:45.0,3,0,DEN,MIA,0,home,FreeThrow,,,make1,1,P. Millsap,
+3,1,11:27.0,3,0,DEN,MIA,18,away,bad pass,steal,,turnover,,J. Butler,G. Harris
+4,1,11:18.0,5,0,DEN,MIA,9,home,DK,assist,1,make2,2,G. Harris,N. Jokić
+5,1,11:00.0,5,2,DEN,MIA,18,away,JS,assist,9,make2,2,M. Leonard,J. Butler
+6,1,10:46.0,7,2,DEN,MIA,14,home,JS,assist,16,make2,2,J. Murray,P. Millsap
+7,1,10:25.0,7,2,DEN,MIA,21,away,LU,,3,miss2,0,M. Leonard,
+8,1,10:21.0,7,2,DEN,MIA,4,home,DefReb,,,DefReb,,W. Barton,
+9,1,10:21.0,9,2,DEN,MIA,0,home,JS,,7,make2,2,W. Barton,
+10,1,10:21.0,9,2,DEN,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Nunn,W. Barton
+11,1,10:21.0,10,2,DEN,MIA,0,home,FreeThrow,,,make1,1,W. Barton,
+12,1,10:01.0,10,4,DEN,MIA,20,away,DK,assist,0,make2,2,M. Leonard,K. Nunn
+13,1,10:01.0,10,4,DEN,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Millsap,M. Leonard
+14,1,10:01.0,10,5,DEN,MIA,0,away,FreeThrow,,,make1,1,M. Leonard,
+15,1,9:54.0,10,5,DEN,MIA,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Winslow,N. Jokić
+16,1,9:44.0,12,5,DEN,MIA,10,home,JS,,16,make2,2,N. Jokić,
+17,1,9:21.0,12,5,DEN,MIA,23,away,JS,,26,miss3,0,J. Butler,
+18,1,9:16.0,12,5,DEN,MIA,5,away,OffReb,,,OffReb,,J. Butler,
+19,1,9:13.0,12,8,DEN,MIA,3,away,JS,,26,make3,3,K. Nunn,
+20,1,8:55.0,14,8,DEN,MIA,18,home,JS,assist,7,make2,2,P. Millsap,J. Murray
+21,1,8:37.0,14,8,DEN,MIA,18,away,LU,,3,miss2,0,J. Winslow,
+22,1,8:33.0,14,8,DEN,MIA,4,away,OffReb,,,OffReb,,J. Butler,
+23,1,8:32.0,14,8,DEN,MIA,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,J. Butler
+24,1,8:32.0,14,9,DEN,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+25,1,8:32.0,14,9,DEN,MIA,0,away,FreeThrow,,,make1,0,J. Butler,
+26,1,8:29.0,14,9,DEN,MIA,3,home,DefReb,,,DefReb,,N. Jokić,
+27,1,8:21.0,14,9,DEN,MIA,8,home,JS,,13,miss2,0,W. Barton,
+28,1,8:18.0,14,9,DEN,MIA,3,away,DefReb,,,DefReb,,J. Winslow,
+29,1,8:06.0,14,9,DEN,MIA,12,away,JS,,16,miss2,0,J. Butler,
+30,1,8:04.0,14,9,DEN,MIA,2,home,DefReb,,,DefReb,,N. Jokić,
+31,1,8:02.0,14,9,DEN,MIA,2,home,BadPass,,,turnover,,N. Jokić,
+32,1,7:54.0,14,9,DEN,MIA,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Jokić,B. Adebayo
+33,1,7:40.0,14,11,DEN,MIA,14,away,LU,,2,make2,2,M. Leonard,
+34,1,7:24.0,14,11,DEN,MIA,16,home,lost ball,steal,,turnover,,N. Jokić,J. Butler
+35,1,7:19.0,14,11,DEN,MIA,5,away,LU,,3,miss2,0,J. Winslow,
+36,1,7:17.0,14,11,DEN,MIA,2,away,OffReb,,,OffReb,,J. Butler,
+37,1,7:13.0,14,11,DEN,MIA,4,away,JS,,26,miss3,0,K. Nunn,
+38,1,7:13.0,14,11,DEN,MIA,0,home,DefReb,,,DefReb,,W. Barton,
+39,1,7:04.0,17,11,DEN,MIA,9,home,JS,assist,27,make3,3,P. Millsap,W. Barton
+40,1,6:46.0,17,11,DEN,MIA,18,away,JS,,11,miss2,0,B. Adebayo,
+41,1,6:42.0,17,11,DEN,MIA,4,home,DefReb,,,DefReb,,W. Barton,
+42,1,6:30.0,17,11,DEN,MIA,12,home,JS,,25,miss3,0,N. Jokić,
+43,1,6:26.0,17,11,DEN,MIA,4,away,DefReb,,,DefReb,,J. Winslow,
+44,1,6:14.0,17,14,DEN,MIA,12,away,JS,assist,25,make3,3,M. Leonard,B. Adebayo
+45,1,5:55.0,17,14,DEN,MIA,19,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Leonard,N. Jokić
+46,1,5:55.0,17,14,DEN,MIA,0,home,Timeout,,,,,,
+47,1,5:55.0,17,14,DEN,MIA,0,away,Sub,,,,,G. Dragić,J. Winslow
+48,1,5:55.0,17,14,DEN,MIA,0,home,Sub,,,,,M. Plumlee,N. Jokić
+49,1,5:48.0,17,14,DEN,MIA,7,home,JS,,11,miss2,0,G. Harris,
+50,1,5:45.0,17,14,DEN,MIA,3,away,DefReb,,,DefReb,,K. Nunn,
+51,1,5:23.0,17,14,DEN,MIA,22,away,JS,,8,miss2,0,G. Dragić,
+52,1,5:20.0,17,14,DEN,MIA,3,home,DefReb,,,DefReb,,M. Plumlee,
+53,1,5:08.0,19,14,DEN,MIA,12,home,JS,assist,19,make2,2,J. Murray,P. Millsap
+54,1,4:43.0,19,16,DEN,MIA,25,away,LU,assist,3,make2,2,J. Butler,M. Leonard
+55,1,4:26.0,19,16,DEN,MIA,17,home,JS,,17,miss2,0,J. Murray,
+56,1,4:23.0,19,16,DEN,MIA,3,away,DefReb,,,DefReb,,B. Adebayo,
+57,1,4:05.0,19,16,DEN,MIA,18,away,lost ball,steal,,turnover,,B. Adebayo,M. Plumlee
+58,1,3:58.0,19,16,DEN,MIA,7,home,HS,,6,miss2,0,P. Millsap,
+59,1,3:58.0,19,16,DEN,MIA,0,away,DefReb,,,DefReb,,Team,
+60,1,3:58.0,19,16,DEN,MIA,0,away,Sub,,,,,D. Jones,B. Adebayo
+61,1,3:58.0,19,16,DEN,MIA,0,home,Sub,,,,,J. Grant,P. Millsap
+62,1,3:42.0,19,16,DEN,MIA,16,away,JS,,24,miss3,0,K. Nunn,
+63,1,3:37.0,19,16,DEN,MIA,5,home,DefReb,,,DefReb,,J. Grant,
+64,1,3:30.0,19,16,DEN,MIA,7,home,bad pass,steal,,turnover,,J. Murray,D. Jones
+65,1,3:26.0,19,18,DEN,MIA,4,away,LU,assist,2,make2,2,J. Butler,G. Dragić
+66,1,3:25.0,19,18,DEN,MIA,1,home,Timeout,,,,,,
+67,1,3:25.0,19,18,DEN,MIA,0,away,Sub,,,,,K. Olynyk,M. Leonard
+68,1,3:25.0,19,18,DEN,MIA,0,home,Sub,,,,,M. Beasley,W. Barton
+69,1,3:25.0,19,18,DEN,MIA,0,home,Sub,,,,,T. Craig,G. Harris
+70,1,3:02.0,19,18,DEN,MIA,23,home,JS,,19,miss2,0,J. Murray,
+71,1,2:59.0,19,18,DEN,MIA,3,away,DefReb,,,DefReb,,J. Butler,
+72,1,2:52.0,19,20,DEN,MIA,7,away,LU,assist,3,make2,2,D. Jones,G. Dragić
+73,1,2:36.0,21,20,DEN,MIA,16,home,JS,,6,make2,2,J. Grant,
+74,1,2:36.0,21,20,DEN,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jones,J. Grant
+75,1,2:36.0,21,20,DEN,MIA,0,away,Sub,,,,,T. Herro,K. Nunn
+76,1,2:36.0,21,20,DEN,MIA,0,home,Sub,,,,,M. Morris,J. Murray
+77,1,2:36.0,21,20,DEN,MIA,0,home,FreeThrow,,,make1,0,J. Grant,
+78,1,2:33.0,21,20,DEN,MIA,3,away,DefReb,,,DefReb,,T. Herro,
+79,1,2:19.0,21,20,DEN,MIA,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Craig,J. Butler
+80,1,2:19.0,21,21,DEN,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+81,1,2:19.0,21,22,DEN,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+82,1,2:07.0,23,22,DEN,MIA,12,home,JS,assist,8,make2,2,M. Morris,J. Grant
+83,1,1:58.0,23,22,DEN,MIA,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,J. Butler
+84,1,1:58.0,23,23,DEN,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+85,1,1:58.0,23,24,DEN,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+86,1,1:47.0,26,24,DEN,MIA,11,home,JS,assist,23,make3,3,T. Craig,M. Beasley
+87,1,1:26.0,26,24,DEN,MIA,21,away,OffGoaltending,,,turnover,,J. Butler,
+88,1,1:26.0,26,24,DEN,MIA,0,away,Sub,,,,,J. Winslow,J. Butler
+89,1,1:09.0,29,24,DEN,MIA,17,home,JS,assist,23,make3,3,J. Grant,M. Morris
+90,1,1:00.0,29,26,DEN,MIA,9,away,LU,,3,make2,2,G. Dragić,
+91,1,0:46.0,29,26,DEN,MIA,14,home,HS,,6,miss2,0,M. Plumlee,
+92,1,0:43.0,29,26,DEN,MIA,3,away,DefReb,,,DefReb,,G. Dragić,
+93,1,0:39.0,29,26,DEN,MIA,4,away,JS,,25,miss3,0,T. Herro,
+94,1,0:38.0,29,26,DEN,MIA,1,home,DefReb,,,DefReb,,Team,
+95,1,0:29.0,29,26,DEN,MIA,9,home,JS,,21,miss2,0,M. Morris,
+96,1,0:26.0,29,26,DEN,MIA,3,away,DefReb,,,DefReb,,K. Olynyk,
+97,1,0:20.0,29,26,DEN,MIA,6,away,LU,,4,miss2,0,K. Olynyk,
+98,1,0:18.0,29,26,DEN,MIA,2,away,OffReb,,,OffReb,,J. Winslow,
+99,1,0:18.0,29,28,DEN,MIA,0,away,LU,,0,make2,2,J. Winslow,
+100,1,0:00.0,29,28,DEN,MIA,18,home,JS,,13,miss2,0,J. Grant,
+101,1,0:00.0,29,28,DEN,MIA,0,home,OffReb,,,OffReb,,Team,
+102,2,11:43.0,29,28,DEN,MIA,17,away,bad pass,steal,,turnover,,G. Dragić,M. Plumlee
+103,2,11:39.0,31,28,DEN,MIA,4,home,DK,assist,2,make2,2,M. Plumlee,M. Morris
+104,2,11:27.0,31,31,DEN,MIA,12,away,JS,assist,26,make3,3,K. Olynyk,T. Herro
+105,2,11:11.0,33,31,DEN,MIA,16,home,LU,assist,4,make2,2,M. Plumlee,M. Morris
+106,2,10:59.0,33,31,DEN,MIA,12,away,bad pass,steal,,turnover,,T. Herro,J. Grant
+107,2,10:54.0,33,31,DEN,MIA,5,home,bad pass,steal,,turnover,,M. Morris,T. Herro
+108,2,10:44.0,33,34,DEN,MIA,10,away,JS,assist,25,make3,3,G. Dragić,J. Winslow
+109,2,10:29.0,33,34,DEN,MIA,15,home,JS,,25,miss3,0,J. Grant,
+110,2,10:25.0,33,34,DEN,MIA,4,away,DefReb,,,DefReb,,J. Winslow,
+111,2,10:15.0,33,36,DEN,MIA,10,away,LU,assist,3,make2,2,J. Winslow,K. Olynyk
+112,2,10:15.0,33,36,DEN,MIA,0,home,Timeout,,,,,,
+113,2,10:15.0,33,36,DEN,MIA,0,home,Sub,,,,,N. Jokić,M. Plumlee
+114,2,9:57.0,35,36,DEN,MIA,18,home,DK,assist,1,make2,2,J. Grant,T. Craig
+115,2,9:57.0,35,36,DEN,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,J. Grant
+116,2,9:57.0,36,36,DEN,MIA,0,home,FreeThrow,,,make1,1,J. Grant,
+117,2,9:41.0,36,38,DEN,MIA,16,away,DK,assist,2,make2,2,D. Jones,G. Dragić
+118,2,9:33.0,36,38,DEN,MIA,8,home,BadPass,,,turnover,,M. Beasley,
+119,2,9:19.0,36,40,DEN,MIA,14,away,LU,assist,2,make2,2,J. Winslow,G. Dragić
+120,2,8:57.0,36,40,DEN,MIA,22,home,JS,,5,miss2,0,N. Jokić,
+121,2,8:54.0,36,40,DEN,MIA,3,away,DefReb,,,DefReb,,K. Olynyk,
+122,2,8:47.0,36,40,DEN,MIA,7,away,LU,,2,miss2,0,G. Dragić,
+123,2,8:45.0,36,40,DEN,MIA,2,home,DefReb,,,DefReb,,N. Jokić,
+124,2,8:43.0,36,40,DEN,MIA,2,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Craig,K. Olynyk
+125,2,8:43.0,36,40,DEN,MIA,0,home,OffensiveFoul,,,turnover,,T. Craig,
+126,2,8:43.0,36,40,DEN,MIA,0,home,Sub,,,,,W. Barton,M. Beasley
+127,2,8:43.0,36,40,DEN,MIA,0,home,Sub,,,,,G. Harris,T. Craig
+128,2,8:32.0,36,40,DEN,MIA,11,away,JS,block,4,miss2,0,D. Jones,M. Morris
+129,2,8:29.0,36,40,DEN,MIA,3,home,DefReb,,,DefReb,,J. Grant,
+130,2,8:18.0,36,40,DEN,MIA,11,home,HS,,4,miss2,0,N. Jokić,
+131,2,8:15.0,36,40,DEN,MIA,3,away,DefReb,,,DefReb,,J. Winslow,
+132,2,8:12.0,36,40,DEN,MIA,3,away,HS,,5,miss2,0,J. Winslow,
+133,2,8:12.0,36,40,DEN,MIA,0,home,DefReb,,,DefReb,,Team,
+134,2,8:12.0,36,40,DEN,MIA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Winslow,N. Jokić
+135,2,8:12.0,36,40,DEN,MIA,0,away,Sub,,,,,B. Adebayo,D. Jones
+136,2,8:02.0,38,40,DEN,MIA,10,home,JS,assist,15,make2,2,G. Harris,N. Jokić
+137,2,7:45.0,38,40,DEN,MIA,17,away,JS,,21,miss2,0,T. Herro,
+138,2,7:42.0,38,40,DEN,MIA,3,away,OffReb,,,OffReb,,B. Adebayo,
+139,2,7:35.0,38,40,DEN,MIA,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,B. Adebayo
+140,2,7:35.0,38,41,DEN,MIA,0,away,FreeThrow,,,make1,1,B. Adebayo,
+141,2,7:35.0,38,41,DEN,MIA,0,home,Sub,,,,,J. Murray,M. Morris
+142,2,7:35.0,38,41,DEN,MIA,0,away,FreeThrow,,,make1,0,B. Adebayo,
+143,2,7:32.0,38,41,DEN,MIA,3,home,DefReb,,,DefReb,,N. Jokić,
+144,2,7:24.0,40,41,DEN,MIA,8,home,LU,assist,3,make2,2,W. Barton,N. Jokić
+145,2,7:24.0,40,41,DEN,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Herro,W. Barton
+146,2,7:24.0,40,41,DEN,MIA,0,away,Sub,,,,,K. Nunn,T. Herro
+147,2,7:24.0,40,41,DEN,MIA,0,home,Sub,,,,,M. Plumlee,N. Jokić
+148,2,7:24.0,40,41,DEN,MIA,0,home,FreeThrow,,,make1,0,W. Barton,
+149,2,7:20.0,40,41,DEN,MIA,4,away,DefReb,,,DefReb,,B. Adebayo,
+150,2,7:11.0,40,41,DEN,MIA,9,away,JS,,9,miss2,0,B. Adebayo,
+151,2,7:08.0,40,41,DEN,MIA,3,home,DefReb,,,DefReb,,M. Plumlee,
+152,2,7:02.0,40,41,DEN,MIA,6,home,JS,,20,miss2,0,W. Barton,
+153,2,6:59.0,40,41,DEN,MIA,3,away,DefReb,,,DefReb,,B. Adebayo,
+154,2,6:51.0,40,41,DEN,MIA,8,away,JS,,10,miss2,0,K. Nunn,
+155,2,6:48.0,40,41,DEN,MIA,3,home,DefReb,,,DefReb,,W. Barton,
+156,2,6:44.0,40,41,DEN,MIA,4,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,W. Barton,K. Olynyk
+157,2,6:44.0,40,41,DEN,MIA,0,home,OffensiveFoul,,,turnover,,W. Barton,
+158,2,6:44.0,40,41,DEN,MIA,0,home,Sub,,,,,P. Millsap,J. Grant
+159,2,6:43.0,40,41,DEN,MIA,1,away,Timeout,,,,,,
+160,2,6:43.0,40,41,DEN,MIA,0,away,Sub,,,,,J. Butler,G. Dragić
+161,2,6:43.0,40,41,DEN,MIA,0,away,Sub,,,,,M. Leonard,K. Olynyk
+162,2,6:43.0,40,41,DEN,MIA,0,away,Sub,,,,,D. Robinson,J. Winslow
+163,2,6:33.0,40,43,DEN,MIA,10,away,LU,assist,1,make2,2,J. Butler,B. Adebayo
+164,2,6:13.0,40,43,DEN,MIA,20,home,JS,,25,miss3,0,J. Murray,
+165,2,6:09.0,40,43,DEN,MIA,4,away,DefReb,,,DefReb,,K. Nunn,
+166,2,6:04.0,40,43,DEN,MIA,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Millsap,B. Adebayo
+167,2,5:48.0,40,43,DEN,MIA,16,away,ShotClockViolation,,,turnover,,Team,
+168,2,5:29.0,40,43,DEN,MIA,19,home,JS,,20,miss2,0,M. Plumlee,
+169,2,5:26.0,40,43,DEN,MIA,3,home,OffReb,,,OffReb,,J. Murray,
+170,2,5:25.0,42,43,DEN,MIA,1,home,LU,,2,make2,2,J. Murray,
+171,2,5:09.0,42,43,DEN,MIA,16,away,JS,,24,miss3,0,K. Nunn,
+172,2,5:05.0,42,43,DEN,MIA,4,home,DefReb,,,DefReb,,P. Millsap,
+173,2,5:04.0,44,43,DEN,MIA,1,home,LU,assist,3,make2,2,W. Barton,P. Millsap
+174,2,5:04.0,44,43,DEN,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Robinson,W. Barton
+175,2,5:04.0,45,43,DEN,MIA,0,home,FreeThrow,,,make1,1,W. Barton,
+176,2,4:52.0,45,43,DEN,MIA,12,away,OutOfBoundsLB,,,turnover,,M. Leonard,
+177,2,4:35.0,45,43,DEN,MIA,17,home,JS,block,16,miss2,0,P. Millsap,B. Adebayo
+178,2,4:31.0,45,43,DEN,MIA,4,home,OffReb,,,OffReb,,J. Murray,
+179,2,4:28.0,47,43,DEN,MIA,3,home,LU,,5,make2,2,J. Murray,
+180,2,4:10.0,47,43,DEN,MIA,18,away,JS,,11,miss2,0,M. Leonard,
+181,2,4:06.0,47,43,DEN,MIA,4,home,DefReb,,,DefReb,,W. Barton,
+182,2,4:03.0,47,43,DEN,MIA,3,home,JS,,25,miss3,0,G. Harris,
+183,2,3:59.0,47,43,DEN,MIA,4,away,DefReb,,,DefReb,,B. Adebayo,
+184,2,3:39.0,47,43,DEN,MIA,20,away,JS,,21,miss2,0,J. Butler,
+185,2,3:37.0,47,43,DEN,MIA,2,home,DefReb,,,DefReb,,M. Plumlee,
+186,2,3:24.0,49,43,DEN,MIA,13,home,JS,assist,15,make2,2,M. Plumlee,W. Barton
+187,2,3:23.0,49,43,DEN,MIA,1,away,Timeout,,,,,,
+188,2,3:23.0,49,43,DEN,MIA,0,away,Sub,,,,,T. Herro,K. Nunn
+189,2,3:03.0,49,43,DEN,MIA,20,away,JS,,28,miss3,0,D. Robinson,
+190,2,3:01.0,49,43,DEN,MIA,2,away,OffReb,,,OffReb,,Team,
+191,2,2:55.0,49,43,DEN,MIA,6,away,JS,,25,miss3,0,D. Robinson,
+192,2,2:50.0,49,43,DEN,MIA,5,home,DefReb,,,DefReb,,P. Millsap,
+193,2,2:33.0,52,43,DEN,MIA,17,home,JS,,25,make3,3,J. Murray,
+194,2,2:15.0,52,45,DEN,MIA,18,away,DK,assist,1,make2,2,T. Herro,B. Adebayo
+195,2,2:02.0,52,45,DEN,MIA,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Leonard,W. Barton
+196,2,2:02.0,53,45,DEN,MIA,0,home,FreeThrow,,,make1,1,W. Barton,
+197,2,2:02.0,53,45,DEN,MIA,0,away,Sub,,,,,G. Dragić,M. Leonard
+198,2,2:02.0,53,45,DEN,MIA,0,away,Sub,,,,,K. Olynyk,D. Robinson
+199,2,2:02.0,53,45,DEN,MIA,0,home,FreeThrow,,,make1,0,W. Barton,
+200,2,2:02.0,53,45,DEN,MIA,0,away,DefReb,,,DefReb,,K. Olynyk,
+201,2,1:42.0,53,45,DEN,MIA,20,away,JS,,20,miss2,0,K. Olynyk,
+202,2,1:36.0,53,45,DEN,MIA,6,home,DefReb,,,DefReb,,J. Murray,
+203,2,1:31.0,53,45,DEN,MIA,5,home,bad pass,steal,,turnover,,P. Millsap,K. Olynyk
+204,2,1:21.0,53,45,DEN,MIA,10,away,JS,,13,miss2,0,G. Dragić,
+205,2,1:18.0,53,45,DEN,MIA,3,home,DefReb,,,DefReb,,W. Barton,
+206,2,1:15.0,53,45,DEN,MIA,3,home,LU,block,3,miss2,0,M. Plumlee,G. Dragić
+207,2,1:15.0,53,45,DEN,MIA,0,home,OffReb,,,OffReb,,Team,
+208,2,1:05.0,53,45,DEN,MIA,10,home,JS,,9,miss2,0,M. Plumlee,
+209,2,1:02.0,53,45,DEN,MIA,3,home,OffReb,,,OffReb,,P. Millsap,
+210,2,0:56.0,53,45,DEN,MIA,6,home,LU,block,4,miss2,0,G. Harris,K. Olynyk
+211,2,0:53.0,53,45,DEN,MIA,3,home,OffReb,,,OffReb,,G. Harris,
+212,2,0:51.0,56,45,DEN,MIA,2,home,JS,assist,26,make3,3,W. Barton,M. Plumlee
+213,2,0:44.0,56,45,DEN,MIA,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Millsap,J. Butler
+214,2,0:44.0,56,45,DEN,MIA,0,home,Sub,,,,,J. Grant,P. Millsap
+215,2,0:33.0,56,48,DEN,MIA,11,away,JS,assist,26,make3,3,K. Olynyk,G. Dragić
+216,2,0:28.0,56,48,DEN,MIA,5,away,KickBallViolation,,,KickBallViolation,,Team,
+217,2,0:22.0,58,48,DEN,MIA,6,home,JS,assist,8,make2,2,G. Harris,M. Plumlee
+218,2,0:02.0,58,48,DEN,MIA,20,away,JS,,7,miss2,0,B. Adebayo,
+219,2,0:02.0,58,48,DEN,MIA,0,away,OffReb,,,OffReb,,K. Olynyk,
+220,2,0:00.0,58,48,DEN,MIA,2,away,JS,,9,miss2,0,K. Olynyk,
+221,2,0:00.0,58,48,DEN,MIA,0,away,OffReb,,,OffReb,,Team,
+222,3,11:47.0,58,51,DEN,MIA,13,away,JS,assist,26,make3,3,K. Nunn,J. Butler
+223,3,11:23.0,58,51,DEN,MIA,24,home,JS,,6,miss2,0,J. Murray,
+224,3,11:21.0,58,51,DEN,MIA,2,away,DefReb,,,DefReb,,B. Adebayo,
+225,3,11:15.0,58,51,DEN,MIA,6,away,JS,,6,miss2,0,M. Leonard,
+226,3,11:12.0,58,51,DEN,MIA,3,home,DefReb,,,DefReb,,W. Barton,
+227,3,10:52.0,58,51,DEN,MIA,20,home,JS,,25,miss3,0,N. Jokić,
+228,3,10:49.0,58,51,DEN,MIA,3,home,OffReb,,,OffReb,,T. Craig,
+229,3,10:48.0,58,51,DEN,MIA,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Adebayo,J. Murray
+230,3,10:48.0,58,51,DEN,MIA,0,home,FreeThrow,,,make1,0,J. Murray,
+231,3,10:48.0,58,51,DEN,MIA,0,home,OffReb,,,OffReb,,Team,
+232,3,10:48.0,59,51,DEN,MIA,0,home,FreeThrow,,,make1,1,J. Murray,
+233,3,10:48.0,59,51,DEN,MIA,0,home,FreeThrow,,,make1,0,J. Murray,
+234,3,10:44.0,59,51,DEN,MIA,4,away,DefReb,,,DefReb,,B. Adebayo,
+235,3,10:27.0,59,51,DEN,MIA,17,away,JS,,27,miss3,0,J. Butler,
+236,3,10:23.0,59,51,DEN,MIA,4,home,DefReb,,,DefReb,,P. Millsap,
+237,3,10:18.0,62,51,DEN,MIA,5,home,JS,assist,26,make3,3,N. Jokić,J. Murray
+238,3,9:56.0,62,53,DEN,MIA,22,away,JS,,9,make2,2,J. Winslow,
+239,3,9:40.0,62,53,DEN,MIA,16,home,JS,,25,miss3,0,N. Jokić,
+240,3,9:37.0,62,53,DEN,MIA,3,away,DefReb,,,DefReb,,B. Adebayo,
+241,3,9:32.0,62,53,DEN,MIA,5,away,JS,,26,miss3,0,K. Nunn,
+242,3,9:27.0,62,53,DEN,MIA,5,home,DefReb,,,DefReb,,P. Millsap,
+243,3,9:26.0,62,53,DEN,MIA,1,home,FlagrantFoul1,DrawnBy,,FlagrantFoul1,,M. Leonard,P. Millsap
+244,3,9:26.0,62,53,DEN,MIA,0,home,InstantReplay,,,RulingStands,,Team,
+245,3,9:26.0,63,53,DEN,MIA,0,home,FreeThrow,,,make1,1,P. Millsap makes flagrant free throw 1 of 2,
+246,3,9:26.0,64,53,DEN,MIA,0,home,FreeThrow,,,make1,1,P. Millsap makes flagrant free throw 2 of 2,
+247,3,9:26.0,64,53,DEN,MIA,0,home,Sub,,,,,J. Grant,P. Millsap
+248,3,9:17.0,66,53,DEN,MIA,9,home,LU,assist,2,make2,2,J. Grant,T. Craig
+249,3,9:01.0,66,53,DEN,MIA,16,away,JS,,4,miss2,0,B. Adebayo,
+250,3,8:57.0,66,53,DEN,MIA,4,home,DefReb,,,DefReb,,J. Grant,
+251,3,8:53.0,66,53,DEN,MIA,4,away,KickBallViolation,,,KickBallViolation,,Team,
+252,3,8:46.0,68,53,DEN,MIA,7,home,JS,assist,7,make2,2,J. Grant,T. Craig
+253,3,8:45.0,68,53,DEN,MIA,1,away,Timeout,,,,,,
+254,3,8:32.0,68,53,DEN,MIA,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Craig,B. Adebayo
+255,3,8:25.0,68,53,DEN,MIA,7,away,LU,block,7,miss2,0,J. Butler,N. Jokić
+256,3,8:25.0,68,53,DEN,MIA,0,away,OffReb,,,OffReb,,Team,
+257,3,8:20.0,68,53,DEN,MIA,5,away,LU,,6,miss2,0,B. Adebayo,
+258,3,8:17.0,68,53,DEN,MIA,3,home,DefReb,,,DefReb,,J. Murray,
+259,3,8:07.0,68,53,DEN,MIA,10,home,bad pass,steal,,turnover,,J. Murray,J. Butler
+260,3,8:07.0,68,53,DEN,MIA,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Jokić,J. Butler
+261,3,8:07.0,68,53,DEN,MIA,0,away,InstantReplay,,,RulingStands,,Team,
+262,3,8:07.0,68,53,DEN,MIA,0,home,Sub,,,,,M. Plumlee,N. Jokić
+263,3,7:51.0,68,53,DEN,MIA,16,away,bad pass,steal,,turnover,,J. Butler,W. Barton
+264,3,7:47.0,68,53,DEN,MIA,4,home,bad pass,steal,,turnover,,W. Barton,K. Nunn
+265,3,7:47.0,68,53,DEN,MIA,0,away,LU,block,3,miss2,0,K. Nunn,W. Barton
+266,3,7:47.0,68,53,DEN,MIA,0,home,DefReb,,,DefReb,,Team,
+267,3,7:32.0,68,53,DEN,MIA,15,home,JS,,16,miss2,0,J. Murray,
+268,3,7:29.0,68,53,DEN,MIA,3,away,DefReb,,,DefReb,,B. Adebayo,
+269,3,7:17.0,68,53,DEN,MIA,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,B. Adebayo
+270,3,7:17.0,68,53,DEN,MIA,0,away,FreeThrow,,,make1,0,B. Adebayo,
+271,3,7:17.0,68,53,DEN,MIA,0,away,OffReb,,,OffReb,,Team,
+272,3,7:17.0,68,53,DEN,MIA,0,away,Sub,,,,,K. Olynyk,M. Leonard
+273,3,7:17.0,68,53,DEN,MIA,0,away,FreeThrow,,,make1,0,B. Adebayo,
+274,3,7:14.0,68,53,DEN,MIA,3,home,DefReb,,,DefReb,,M. Plumlee,
+275,3,7:07.0,68,53,DEN,MIA,7,home,BadPass,,,turnover,,W. Barton,
+276,3,7:07.0,68,53,DEN,MIA,0,away,Sub,,,,,D. Jones,B. Adebayo
+277,3,6:58.0,68,53,DEN,MIA,9,away,JS,,14,miss2,0,J. Butler,
+278,3,6:56.0,68,53,DEN,MIA,2,away,OffReb,,,OffReb,,J. Butler,
+279,3,6:55.0,68,53,DEN,MIA,1,away,LU,,3,miss2,0,J. Butler,
+280,3,6:55.0,68,53,DEN,MIA,0,home,DefReb,,,DefReb,,W. Barton,
+281,3,6:53.0,68,53,DEN,MIA,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Jones,W. Barton
+282,3,6:43.0,68,53,DEN,MIA,10,home,JS,,25,miss3,0,J. Grant,
+283,3,6:40.0,68,53,DEN,MIA,3,home,OffReb,,,OffReb,,T. Craig,
+284,3,6:34.0,68,53,DEN,MIA,6,home,LU,,3,miss2,0,J. Murray,
+285,3,6:32.0,68,53,DEN,MIA,2,away,DefReb,,,DefReb,,J. Butler,
+286,3,6:26.0,68,53,DEN,MIA,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,K. Olynyk
+287,3,6:26.0,68,53,DEN,MIA,0,away,FreeThrow,,,make1,0,K. Olynyk,
+288,3,6:26.0,68,53,DEN,MIA,0,away,OffReb,,,OffReb,,Team,
+289,3,6:26.0,68,53,DEN,MIA,0,away,Sub,,,,,G. Dragić,J. Winslow
+290,3,6:26.0,68,54,DEN,MIA,0,away,FreeThrow,,,make1,1,K. Olynyk,
+291,3,6:08.0,68,54,DEN,MIA,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Olynyk,M. Plumlee
+292,3,6:00.0,68,54,DEN,MIA,8,home,JS,,23,miss3,0,J. Grant,
+293,3,5:57.0,68,54,DEN,MIA,3,home,OffReb,,,OffReb,,W. Barton,
+294,3,5:56.0,68,54,DEN,MIA,1,home,JS,,6,miss2,0,W. Barton,
+295,3,5:56.0,68,54,DEN,MIA,0,away,DefReb,,,DefReb,,Team,
+296,3,5:47.0,68,54,DEN,MIA,9,away,LU,,3,miss2,0,D. Jones,
+297,3,5:44.0,68,54,DEN,MIA,3,home,DefReb,,,DefReb,,W. Barton,
+298,3,5:41.0,70,54,DEN,MIA,3,home,LU,assist,1,make2,2,M. Plumlee,W. Barton
+299,3,5:23.0,70,54,DEN,MIA,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,J. Butler
+300,3,5:23.0,70,55,DEN,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+301,3,5:23.0,70,55,DEN,MIA,0,home,Sub,,,,,M. Beasley,T. Craig
+302,3,5:23.0,70,56,DEN,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+303,3,5:08.0,70,56,DEN,MIA,15,home,JS,,2,miss2,0,W. Barton,
+304,3,5:08.0,70,56,DEN,MIA,0,home,OffReb,,,OffReb,,M. Plumlee,
+305,3,5:08.0,72,56,DEN,MIA,0,home,DK,,3,make2,2,M. Plumlee,
+306,3,4:57.0,72,56,DEN,MIA,11,away,bad pass,steal,,turnover,,G. Dragić,J. Murray
+307,3,4:52.0,75,56,DEN,MIA,5,home,JS,assist,26,make3,3,W. Barton,J. Murray
+308,3,4:51.0,75,56,DEN,MIA,1,away,Timeout,,,,,,
+309,3,4:34.0,75,56,DEN,MIA,17,away,JS,,9,miss2,0,J. Butler,
+310,3,4:31.0,75,56,DEN,MIA,3,away,OffReb,,,OffReb,,D. Jones,
+311,3,4:25.0,75,56,DEN,MIA,6,away,JS,,26,miss3,0,D. Jones,
+312,3,4:22.0,75,56,DEN,MIA,3,home,DefReb,,,DefReb,,M. Plumlee,
+313,3,4:08.0,77,56,DEN,MIA,14,home,JS,assist,7,make2,2,J. Murray,M. Plumlee
+314,3,4:08.0,77,56,DEN,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Nunn,J. Murray
+315,3,4:08.0,78,56,DEN,MIA,0,home,FreeThrow,,,make1,1,J. Murray,
+316,3,3:48.0,78,59,DEN,MIA,20,away,JS,,26,make3,3,G. Dragić,
+317,3,3:28.0,78,59,DEN,MIA,20,home,lost ball,steal,,turnover,,J. Grant,D. Jones
+318,3,3:18.0,78,59,DEN,MIA,10,away,JS,,22,miss3,0,D. Jones,
+319,3,3:13.0,78,59,DEN,MIA,5,home,DefReb,,,DefReb,,M. Plumlee,
+320,3,3:13.0,78,59,DEN,MIA,0,home,Sub,,,,,M. Morris,J. Murray
+321,3,3:01.0,78,59,DEN,MIA,12,home,LU,,4,miss2,0,W. Barton,
+322,3,2:59.0,78,59,DEN,MIA,2,away,DefReb,,,DefReb,,J. Butler,
+323,3,2:59.0,78,59,DEN,MIA,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Plumlee,J. Butler
+324,3,2:59.0,78,60,DEN,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+325,3,2:59.0,78,60,DEN,MIA,0,home,Sub,,,,,N. Jokić,M. Plumlee
+326,3,2:59.0,78,61,DEN,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+327,3,2:39.0,81,61,DEN,MIA,20,home,JS,assist,25,make3,3,M. Beasley,J. Grant
+328,3,2:24.0,81,63,DEN,MIA,15,away,DK,assist,2,make2,2,D. Jones,G. Dragić
+329,3,2:07.0,84,63,DEN,MIA,17,home,JS,assist,26,make3,3,J. Grant,M. Morris
+330,3,1:56.0,84,63,DEN,MIA,11,away,JS,,27,miss3,0,G. Dragić,
+331,3,1:53.0,84,63,DEN,MIA,3,away,OffReb,,,OffReb,,Team,
+332,3,1:53.0,84,63,DEN,MIA,0,away,Sub,,,,,T. Herro,K. Nunn
+333,3,1:53.0,84,63,DEN,MIA,0,home,Sub,,,,,T. Craig,W. Barton
+334,3,1:51.0,84,63,DEN,MIA,2,away,JS,,15,miss2,0,T. Herro,
+335,3,1:45.0,84,63,DEN,MIA,6,home,DefReb,,,DefReb,,T. Craig,
+336,3,1:26.0,84,63,DEN,MIA,19,home,JS,,23,miss3,0,T. Craig,
+337,3,1:24.0,84,63,DEN,MIA,2,away,DefReb,,,DefReb,,T. Herro,
+338,3,1:17.0,84,63,DEN,MIA,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Beasley,J. Butler
+339,3,1:17.0,84,64,DEN,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+340,3,1:17.0,84,64,DEN,MIA,0,away,FreeThrow,,,make1,0,J. Butler,
+341,3,1:14.0,84,64,DEN,MIA,3,home,DefReb,,,DefReb,,T. Craig,
+342,3,1:04.0,86,64,DEN,MIA,10,home,JS,assist,17,make2,2,N. Jokić,M. Morris
+343,3,1:04.0,86,64,DEN,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,N. Jokić
+344,3,1:04.0,86,64,DEN,MIA,0,home,FreeThrow,,,make1,0,N. Jokić,
+345,3,0:58.0,86,64,DEN,MIA,6,away,DefReb,,,DefReb,,K. Olynyk,
+346,3,0:42.0,86,67,DEN,MIA,16,away,JS,assist,28,make3,3,K. Olynyk,J. Butler
+347,3,0:40.0,86,67,DEN,MIA,2,home,BadPass,,,turnover,,N. Jokić,
+348,3,0:40.0,86,67,DEN,MIA,0,home,Sub,,,,,M. Plumlee,N. Jokić
+349,3,0:26.0,86,69,DEN,MIA,14,away,DK,assist,1,make2,2,D. Jones,J. Butler
+350,3,0:03.0,88,69,DEN,MIA,23,home,JS,,4,make2,2,M. Morris,
+351,3,0:03.0,88,69,DEN,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dragić,M. Morris
+352,3,0:03.0,89,69,DEN,MIA,0,home,FreeThrow,,,make1,1,M. Morris,
+353,3,0:00.0,89,69,DEN,MIA,3,away,JS,,23,miss3,0,J. Butler,
+354,3,0:00.0,89,69,DEN,MIA,0,away,OffReb,,,OffReb,,Team,
+355,4,11:44.0,89,69,DEN,MIA,16,home,JS,,24,miss3,0,M. Beasley,
+356,4,11:41.0,89,69,DEN,MIA,3,away,DefReb,,,DefReb,,K. Olynyk,
+357,4,11:32.0,89,69,DEN,MIA,9,away,JS,,27,miss3,0,K. Olynyk,
+358,4,11:30.0,89,69,DEN,MIA,2,home,DefReb,,,DefReb,,M. Beasley,
+359,4,11:22.0,91,69,DEN,MIA,8,home,LU,assist,1,make2,2,M. Morris,N. Jokić
+360,4,11:09.0,91,69,DEN,MIA,13,away,bad pass,steal,,turnover,,J. Winslow,M. Morris
+361,4,11:04.0,91,69,DEN,MIA,5,home,JS,,25,miss3,0,M. Beasley,
+362,4,11:04.0,91,69,DEN,MIA,0,away,DefReb,,,DefReb,,Team,
+363,4,10:43.0,91,69,DEN,MIA,21,away,bad pass,steal,,turnover,,T. Herro,J. Grant
+364,4,10:39.0,93,69,DEN,MIA,4,home,JS,,17,make2,2,M. Morris,
+365,4,10:19.0,93,69,DEN,MIA,20,away,JS,,22,miss3,0,J. Winslow,
+366,4,10:14.0,93,69,DEN,MIA,5,home,DefReb,,,DefReb,,M. Morris,
+367,4,10:02.0,95,69,DEN,MIA,12,home,JS,assist,9,make2,2,N. Jokić,T. Craig
+368,4,10:02.0,95,69,DEN,MIA,0,away,Timeout,,,,,,
+369,4,10:02.0,95,69,DEN,MIA,0,away,Sub,,,,,B. Adebayo,D. Jones
+370,4,9:48.0,95,69,DEN,MIA,14,away,OutOfBoundsLB,,,turnover,,T. Herro,
+371,4,9:26.0,95,69,DEN,MIA,22,home,LU,block,5,miss2,0,J. Grant,B. Adebayo
+372,4,9:22.0,95,69,DEN,MIA,4,away,DefReb,,,DefReb,,T. Herro,
+373,4,9:22.0,95,69,DEN,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Craig,G. Dragić
+374,4,9:22.0,95,69,DEN,MIA,0,away,FreeThrow,,,make1,0,G. Dragić,
+375,4,9:22.0,95,69,DEN,MIA,0,away,OffReb,,,OffReb,,Team,
+376,4,9:22.0,95,69,DEN,MIA,0,away,Sub,,,,,K. Nunn,T. Herro
+377,4,9:22.0,95,70,DEN,MIA,0,away,FreeThrow,,,make1,1,G. Dragić,
+378,4,9:06.0,95,70,DEN,MIA,16,home,bad pass,steal,,turnover,,T. Craig,K. Olynyk
+379,4,9:02.0,95,70,DEN,MIA,4,away,lost ball,steal,,turnover,,G. Dragić,N. Jokić
+380,4,8:58.0,97,70,DEN,MIA,4,home,DK,assist,1,make2,2,T. Craig,N. Jokić
+381,4,8:39.0,97,70,DEN,MIA,19,away,LU,,3,miss2,0,B. Adebayo,
+382,4,8:38.0,97,70,DEN,MIA,1,away,OffReb,,,OffReb,,B. Adebayo,
+383,4,8:37.0,97,70,DEN,MIA,1,away,LU,,3,miss2,0,B. Adebayo,
+384,4,8:36.0,97,70,DEN,MIA,1,away,OffReb,,,OffReb,,B. Adebayo,
+385,4,8:36.0,97,72,DEN,MIA,0,away,LU,,1,make2,2,B. Adebayo,
+386,4,8:26.0,97,72,DEN,MIA,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Winslow,N. Jokić
+387,4,8:26.0,97,72,DEN,MIA,0,home,Sub,,,,,J. Murray,M. Beasley
+388,4,8:16.0,99,72,DEN,MIA,10,home,LU,assist,2,make2,2,J. Murray,M. Morris
+389,4,8:07.0,99,74,DEN,MIA,9,away,LU,assist,3,make2,2,B. Adebayo,G. Dragić
+390,4,8:07.0,99,74,DEN,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Craig,B. Adebayo
+391,4,8:07.0,99,74,DEN,MIA,0,home,Timeout,,,,,,
+392,4,8:07.0,99,74,DEN,MIA,0,home,InstantReplay,,,RulingStands,,Team,
+393,4,8:07.0,99,74,DEN,MIA,0,home,Sub,,,,,W. Barton,T. Craig
+394,4,8:07.0,99,75,DEN,MIA,0,away,FreeThrow,,,make1,1,B. Adebayo,
+395,4,7:47.0,99,75,DEN,MIA,20,home,JS,,15,miss2,0,N. Jokić,
+396,4,7:43.0,99,75,DEN,MIA,4,away,DefReb,,,DefReb,,K. Olynyk,
+397,4,7:35.0,99,75,DEN,MIA,8,away,JS,,24,miss3,0,K. Nunn,
+398,4,7:30.0,99,75,DEN,MIA,5,home,DefReb,,,DefReb,,N. Jokić,
+399,4,7:12.0,101,75,DEN,MIA,18,home,LU,assist,5,make2,2,J. Murray,W. Barton
+400,4,6:48.0,101,75,DEN,MIA,24,away,JS,,23,miss3,0,J. Winslow,
+401,4,6:46.0,101,75,DEN,MIA,2,home,DefReb,,,DefReb,,M. Morris,
+402,4,6:36.0,101,75,DEN,MIA,10,home,Traveling,,,turnover,,J. Murray,
+403,4,6:36.0,101,75,DEN,MIA,0,away,Sub,,,,,D. Robinson,G. Dragić
+404,4,6:26.0,101,78,DEN,MIA,10,away,JS,assist,24,make3,3,K. Olynyk,K. Nunn
+405,4,6:14.0,101,78,DEN,MIA,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Olynyk,N. Jokić
+406,4,6:14.0,101,78,DEN,MIA,0,away,Sub,,,,,J. Johnson,B. Adebayo
+407,4,6:14.0,101,78,DEN,MIA,0,away,Sub,,,,,C. Silva,K. Olynyk
+408,4,6:03.0,101,78,DEN,MIA,11,home,JS,,21,miss2,0,N. Jokić,
+409,4,5:59.0,101,78,DEN,MIA,4,away,DefReb,,,DefReb,,J. Winslow,
+410,4,5:47.0,101,80,DEN,MIA,12,away,LU,assist,3,make2,2,D. Robinson,K. Nunn
+411,4,5:31.0,101,80,DEN,MIA,16,home,JS,,23,miss3,0,J. Grant,
+412,4,5:29.0,101,80,DEN,MIA,2,away,DefReb,,,DefReb,,D. Robinson,
+413,4,5:17.0,101,80,DEN,MIA,12,away,JS,,16,miss2,0,K. Nunn,
+414,4,5:13.0,101,80,DEN,MIA,4,home,DefReb,,,DefReb,,J. Grant,
+415,4,5:06.0,101,80,DEN,MIA,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Silva,N. Jokić
+416,4,4:56.0,101,80,DEN,MIA,10,home,LU,block,3,miss2,0,N. Jokić,C. Silva
+417,4,4:53.0,101,80,DEN,MIA,3,away,DefReb,,,DefReb,,J. Johnson,
+418,4,4:46.0,101,80,DEN,MIA,7,away,JS,,17,miss2,0,J. Winslow,
+419,4,4:41.0,101,80,DEN,MIA,5,away,OffReb,,,OffReb,,C. Silva,
+420,4,4:39.0,101,80,DEN,MIA,2,away,JS,,17,miss2,0,C. Silva,
+421,4,4:36.0,101,80,DEN,MIA,3,home,DefReb,,,DefReb,,J. Murray,
+422,4,4:25.0,101,80,DEN,MIA,11,home,bad pass,steal,,turnover,,N. Jokić,J. Johnson
+423,4,4:22.0,101,82,DEN,MIA,3,away,JS,,14,make2,2,K. Nunn,
+424,4,4:22.0,101,82,DEN,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,K. Nunn
+425,4,4:22.0,101,82,DEN,MIA,0,home,Timeout,,,,,,
+426,4,4:22.0,101,82,DEN,MIA,0,home,Sub,,,,,M. Plumlee,N. Jokić
+427,4,4:22.0,101,82,DEN,MIA,0,away,FreeThrow,,,make1,0,K. Nunn,
+428,4,4:20.0,101,82,DEN,MIA,2,away,OffReb,,,OffReb,,Team,
+429,4,4:06.0,101,82,DEN,MIA,14,away,ShotClockViolation,,,turnover,,Team,
+430,4,3:50.0,103,82,DEN,MIA,16,home,JS,assist,20,make2,2,J. Murray,M. Morris
+431,4,3:33.0,103,82,DEN,MIA,17,away,JS,,25,miss3,0,K. Nunn,
+432,4,3:33.0,103,82,DEN,MIA,0,home,DefReb,,,DefReb,,Team,
+433,4,3:23.0,103,82,DEN,MIA,10,home,bad pass,steal,,turnover,,J. Murray,J. Johnson
+434,4,3:14.0,103,82,DEN,MIA,9,away,bad pass,steal,,turnover,,J. Winslow,J. Murray
+435,4,3:13.0,103,82,DEN,MIA,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Winslow,J. Grant
+436,4,3:13.0,103,82,DEN,MIA,0,home,Sub,,,,,M. Porter,W. Barton
+437,4,2:50.0,103,82,DEN,MIA,23,home,HS,,9,miss2,0,J. Grant,
+438,4,2:47.0,103,82,DEN,MIA,3,away,DefReb,,,DefReb,,C. Silva,
+439,4,2:44.0,103,84,DEN,MIA,3,away,LU,assist,3,make2,2,J. Winslow,C. Silva
+440,4,2:27.0,103,84,DEN,MIA,17,home,bad pass,steal,,turnover,,J. Murray,J. Johnson
+441,4,2:22.0,103,84,DEN,MIA,5,away,LU,,5,miss2,0,D. Robinson,
+442,4,2:21.0,103,84,DEN,MIA,1,away,OffReb,,,OffReb,,D. Robinson,
+443,4,2:16.0,103,84,DEN,MIA,5,away,JS,,23,miss3,0,D. Robinson,
+444,4,2:14.0,103,84,DEN,MIA,2,away,OffReb,,,OffReb,,C. Silva,
+445,4,2:05.0,103,84,DEN,MIA,9,away,JS,,20,miss2,0,K. Nunn,
+446,4,2:02.0,103,84,DEN,MIA,3,home,DefReb,,,DefReb,,J. Grant,
+447,4,2:00.0,105,84,DEN,MIA,2,home,LU,assist,2,make2,2,M. Morris,J. Grant
+448,4,1:45.0,105,86,DEN,MIA,15,away,LU,assist,2,make2,2,C. Silva,K. Nunn
+449,4,1:45.0,105,86,DEN,MIA,0,home,Timeout,,,,,,
+450,4,1:45.0,105,86,DEN,MIA,0,home,Sub,,,,,M. Beasley,J. Grant
+451,4,1:45.0,105,86,DEN,MIA,0,home,Sub,,,,,J. Hernangómez,J. Murray
+452,4,1:45.0,105,86,DEN,MIA,0,home,Sub,,,,,J. Vanderbilt,M. Plumlee
+453,4,1:33.0,105,86,DEN,MIA,12,home,JS,,23,miss3,0,J. Hernangómez,
+454,4,1:31.0,105,86,DEN,MIA,2,home,OffReb,,,OffReb,,M. Porter,
+455,4,1:31.0,107,86,DEN,MIA,0,home,DK,,0,make2,2,M. Porter,
+456,4,1:20.0,107,86,DEN,MIA,11,away,JS,,27,miss3,0,D. Robinson,
+457,4,1:15.0,107,86,DEN,MIA,5,home,DefReb,,,DefReb,,J. Hernangómez,
+458,4,1:06.0,109,86,DEN,MIA,9,home,JS,assist,15,make2,2,M. Porter,M. Morris
+459,4,0:55.0,109,86,DEN,MIA,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Porter,K. Nunn
+460,4,0:55.0,109,86,DEN,MIA,0,away,FreeThrow,,,make1,0,K. Nunn,
+461,4,0:55.0,109,86,DEN,MIA,0,away,OffReb,,,OffReb,,Team,
+462,4,0:55.0,109,87,DEN,MIA,0,away,FreeThrow,,,make1,1,K. Nunn,
+463,4,0:34.0,109,87,DEN,MIA,21,home,JS,,25,miss3,0,M. Morris,
+464,4,0:32.0,109,87,DEN,MIA,2,home,OffReb,,,OffReb,,Team,
+465,4,0:29.0,109,87,DEN,MIA,3,home,lost ball,steal,,turnover,,J. Vanderbilt,K. Nunn
+466,4,0:27.0,109,89,DEN,MIA,2,away,DK,,1,make2,2,K. Nunn,
+467,4,0:03.0,109,89,DEN,MIA,24,home,ShotClockViolation,,,turnover,,Team,

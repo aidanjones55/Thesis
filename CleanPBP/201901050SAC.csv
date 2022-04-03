@@ -1,0 +1,442 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:39.0,0,3,SAC,GSW,21,away,JS,assist,25,make3,3,K. Thompson,K. Durant
+1,1,11:19.0,0,3,SAC,GSW,20,home,JS,,12,miss2,0,B. Bogdanović,
+2,1,11:16.0,0,3,SAC,GSW,3,away,DefReb,,,DefReb,,K. Looney,
+3,1,11:10.0,0,5,SAC,GSW,6,away,JS,assist,19,make2,2,K. Thompson,D. Green
+4,1,11:02.0,0,5,SAC,GSW,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Curry,D. Fox
+5,1,11:02.0,1,5,SAC,GSW,0,home,FreeThrow,,,make1,1,D. Fox,
+6,1,11:02.0,2,5,SAC,GSW,0,home,FreeThrow,,,make1,1,D. Fox,
+7,1,10:48.0,2,5,SAC,GSW,14,away,bad pass,steal,,turnover,,D. Green,B. Bogdanović
+8,1,10:43.0,2,5,SAC,GSW,5,home,JS,,24,miss3,0,B. Hield,
+9,1,10:37.0,2,5,SAC,GSW,6,away,DefReb,,,DefReb,,K. Durant,
+10,1,10:25.0,2,5,SAC,GSW,12,away,JS,,23,miss3,0,K. Thompson,
+11,1,10:22.0,2,5,SAC,GSW,3,home,DefReb,,,DefReb,,W. Cauley-Stein,
+12,1,10:16.0,5,5,SAC,GSW,6,home,JS,assist,23,make3,3,B. Hield,B. Bogdanović
+13,1,10:03.0,5,5,SAC,GSW,13,away,JS,,25,miss3,0,S. Curry,
+14,1,10:01.0,5,5,SAC,GSW,2,home,DefReb,,,DefReb,,W. Cauley-Stein,
+15,1,9:55.0,7,5,SAC,GSW,6,home,JS,,17,make2,2,B. Hield,
+16,1,9:39.0,7,5,SAC,GSW,16,away,LU,,1,miss2,0,D. Green,
+17,1,9:35.0,7,5,SAC,GSW,4,away,OffReb,,,OffReb,,K. Looney,
+18,1,9:35.0,7,7,SAC,GSW,0,away,LU,,1,make2,2,K. Looney,
+19,1,9:25.0,7,7,SAC,GSW,10,home,JS,block,4,miss2,0,D. Fox,K. Looney
+20,1,9:22.0,7,7,SAC,GSW,3,away,DefReb,,,DefReb,,S. Curry,
+21,1,9:20.0,7,10,SAC,GSW,2,away,JS,,25,make3,3,S. Curry,
+22,1,9:04.0,7,10,SAC,GSW,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Looney,W. Cauley-Stein
+23,1,9:04.0,7,10,SAC,GSW,0,home,FreeThrow,,,make1,0,W. Cauley-Stein,
+24,1,9:04.0,7,10,SAC,GSW,0,home,OffReb,,,OffReb,,Team,
+25,1,9:04.0,8,10,SAC,GSW,0,home,FreeThrow,,,make1,1,W. Cauley-Stein,
+26,1,8:50.0,8,12,SAC,GSW,14,away,LU,,2,make2,2,D. Green,
+27,1,8:47.0,8,12,SAC,GSW,3,home,Timeout,,,,,,
+28,1,8:47.0,8,12,SAC,GSW,0,home,Sub,,,,,Y. Ferrell,D. Fox
+29,1,8:23.0,10,12,SAC,GSW,24,home,JS,,22,make2,2,B. Hield,
+30,1,8:05.0,10,14,SAC,GSW,18,away,JS,,17,make2,2,K. Durant,
+31,1,7:42.0,12,14,SAC,GSW,23,home,JS,,17,make2,2,B. Hield,
+32,1,7:21.0,12,16,SAC,GSW,21,away,LU,,2,make2,2,D. Green,
+33,1,7:05.0,12,16,SAC,GSW,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Thompson,B. Bogdanović
+34,1,7:02.0,12,16,SAC,GSW,3,home,bad pass,steal,,turnover,,B. Bogdanović,K. Thompson
+35,1,6:57.0,12,18,SAC,GSW,5,away,LU,,1,make2,2,K. Thompson,
+36,1,6:39.0,12,18,SAC,GSW,18,home,LU,,3,miss2,0,W. Cauley-Stein,
+37,1,6:34.0,12,18,SAC,GSW,5,home,OffReb,,,OffReb,,N. Bjelica,
+38,1,6:34.0,12,18,SAC,GSW,0,home,LU,,0,miss2,0,N. Bjelica,
+39,1,6:34.0,12,18,SAC,GSW,0,home,OffReb,,,OffReb,,W. Cauley-Stein,
+40,1,6:33.0,12,18,SAC,GSW,1,home,JS,,25,miss3,0,B. Hield,
+41,1,6:30.0,12,18,SAC,GSW,3,away,DefReb,,,DefReb,,D. Green,
+42,1,6:25.0,12,18,SAC,GSW,5,away,bad pass,steal,,turnover,,S. Curry,N. Bjelica
+43,1,6:21.0,14,18,SAC,GSW,4,home,LU,assist,2,make2,2,W. Cauley-Stein,N. Bjelica
+44,1,5:56.0,14,18,SAC,GSW,25,away,lost ball,steal,,turnover,,K. Thompson,Y. Ferrell
+45,1,5:51.0,17,18,SAC,GSW,5,home,JS,assist,26,make3,3,N. Bjelica,Y. Ferrell
+46,1,5:34.0,17,20,SAC,GSW,17,away,LU,assist,2,make2,2,K. Durant,D. Green
+47,1,5:19.0,17,20,SAC,GSW,15,home,JS,,23,miss2,0,B. Bogdanović,
+48,1,5:17.0,17,20,SAC,GSW,2,home,OffReb,,,OffReb,,W. Cauley-Stein,
+49,1,5:12.0,20,20,SAC,GSW,5,home,JS,assist,24,make3,3,B. Bogdanović,N. Bjelica
+50,1,5:05.0,20,22,SAC,GSW,7,away,LU,assist,2,make2,2,K. Thompson,D. Green
+51,1,5:05.0,20,22,SAC,GSW,0,home,DefGoaltending,,,DefGoaltending,,Team,
+52,1,4:46.0,20,22,SAC,GSW,19,home,LU,,4,miss2,0,B. Bogdanović,
+53,1,4:43.0,22,22,SAC,GSW,3,home,LU,,0,make2,2,N. Bjelica,
+54,1,4:43.0,22,22,SAC,GSW,0,home,OffReb,,,OffReb,,N. Bjelica,
+55,1,4:40.0,22,22,SAC,GSW,3,away,Timeout,,,,,,
+56,1,4:40.0,22,22,SAC,GSW,0,away,Sub,,,,,J. Bell,D. Green
+57,1,4:40.0,22,22,SAC,GSW,0,away,Sub,,,,,A. Iguodala,K. Looney
+58,1,4:40.0,22,22,SAC,GSW,0,home,Sub,,,,,J. Jackson,B. Bogdanović
+59,1,4:33.0,22,25,SAC,GSW,7,away,JS,assist,25,make3,3,S. Curry,K. Thompson
+60,1,4:10.0,22,25,SAC,GSW,23,home,JS,,23,miss3,0,B. Hield,
+61,1,4:06.0,22,25,SAC,GSW,4,away,DefReb,,,DefReb,,K. Durant,
+62,1,3:55.0,22,28,SAC,GSW,11,away,JS,assist,25,make3,3,K. Thompson,K. Durant
+63,1,3:35.0,22,28,SAC,GSW,20,home,LU,,4,miss2,0,N. Bjelica,
+64,1,3:32.0,22,28,SAC,GSW,3,away,DefReb,,,DefReb,,J. Bell,
+65,1,3:26.0,22,31,SAC,GSW,6,away,JS,assist,27,make3,3,S. Curry,K. Durant
+66,1,3:25.0,22,31,SAC,GSW,1,home,Timeout,,,,,,
+67,1,3:25.0,22,31,SAC,GSW,0,away,Sub,,,,,Q. Cook,S. Curry
+68,1,3:25.0,22,31,SAC,GSW,0,home,Sub,,,,,D. Fox,W. Cauley-Stein
+69,1,3:25.0,22,31,SAC,GSW,0,home,Sub,,,,,H. Giles,Y. Ferrell
+70,1,3:22.0,22,31,SAC,GSW,3,home,DelayOfGame,,,DelayOfGame,,Team,
+71,1,3:15.0,22,31,SAC,GSW,7,home,LU,block,2,miss2,0,D. Fox,K. Durant
+72,1,3:12.0,22,31,SAC,GSW,3,away,DefReb,,,DefReb,,Q. Cook,
+73,1,3:06.0,22,34,SAC,GSW,6,away,JS,assist,26,make3,3,Q. Cook,K. Durant
+74,1,3:06.0,22,34,SAC,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Fox,Q. Cook
+75,1,3:06.0,22,35,SAC,GSW,0,away,FreeThrow,,,make1,1,Q. Cook,
+76,1,2:52.0,22,35,SAC,GSW,14,home,JS,,23,miss3,0,J. Jackson,
+77,1,2:50.0,22,35,SAC,GSW,2,away,DefReb,,,DefReb,,A. Iguodala,
+78,1,2:45.0,22,37,SAC,GSW,5,away,DK,assist,1,make2,2,K. Durant,A. Iguodala
+79,1,2:31.0,22,37,SAC,GSW,14,home,HS,,5,miss2,0,H. Giles,
+80,1,2:29.0,22,37,SAC,GSW,2,away,DefReb,,,DefReb,,Q. Cook,
+81,1,2:15.0,22,37,SAC,GSW,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,H. Giles,J. Bell
+82,1,2:15.0,22,37,SAC,GSW,0,away,Sub,,,,,J. Jerebko,K. Thompson
+83,1,2:15.0,22,37,SAC,GSW,0,home,Sub,,,,,B. Bogdanović,B. Hield
+84,1,2:05.0,22,37,SAC,GSW,10,away,JS,,4,miss2,0,Q. Cook,
+85,1,2:02.0,22,37,SAC,GSW,3,away,OffReb,,,OffReb,,J. Bell,
+86,1,2:02.0,22,37,SAC,GSW,0,away,LU,,1,miss2,0,J. Bell,
+87,1,2:01.0,22,37,SAC,GSW,1,home,DefReb,,,DefReb,,J. Jackson,
+88,1,1:54.0,22,37,SAC,GSW,7,home,D3SecTech,,,,,,
+89,1,1:54.0,23,37,SAC,GSW,0,home,FreeThrow,,,make1,1,B. Bogdanović makes technical free throw,
+90,1,1:48.0,26,37,SAC,GSW,6,home,JS,assist,26,make3,3,N. Bjelica,D. Fox
+91,1,1:32.0,26,37,SAC,GSW,16,away,LU,,2,miss2,0,K. Durant,
+92,1,1:30.0,26,37,SAC,GSW,2,home,DefReb,,,DefReb,,J. Jackson,
+93,1,1:27.0,26,37,SAC,GSW,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,Q. Cook,H. Giles
+94,1,1:27.0,26,37,SAC,GSW,0,away,Sub,,,,,D. Green,J. Bell
+95,1,1:18.0,26,37,SAC,GSW,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,B. Bogdanović
+96,1,1:18.0,26,37,SAC,GSW,0,home,FreeThrow,,,make1,0,B. Bogdanović,
+97,1,1:18.0,26,37,SAC,GSW,0,home,OffReb,,,OffReb,,Team,
+98,1,1:18.0,27,37,SAC,GSW,0,home,FreeThrow,,,make1,1,B. Bogdanović,
+99,1,1:03.0,27,37,SAC,GSW,15,away,JS,,25,miss3,0,A. Iguodala,
+100,1,0:59.0,27,37,SAC,GSW,4,home,DefReb,,,DefReb,,H. Giles,
+101,1,0:46.0,27,37,SAC,GSW,13,home,JS,,20,miss2,0,H. Giles,
+102,1,0:44.0,27,37,SAC,GSW,2,away,DefReb,,,DefReb,,A. Iguodala,
+103,1,0:40.0,27,40,SAC,GSW,4,away,JS,assist,23,make3,3,Q. Cook,A. Iguodala
+104,1,0:22.0,27,40,SAC,GSW,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Durant,J. Jackson
+105,1,0:22.0,28,40,SAC,GSW,0,home,FreeThrow,,,make1,1,J. Jackson,
+106,1,0:22.0,28,40,SAC,GSW,0,home,Sub,,,,,B. McLemore,N. Bjelica
+107,1,0:22.0,29,40,SAC,GSW,0,home,FreeThrow,,,make1,1,J. Jackson,
+108,1,0:02.0,29,43,SAC,GSW,20,away,JS,,26,make3,3,K. Durant,
+109,2,11:44.0,32,43,SAC,GSW,16,home,JS,assist,25,make3,3,B. Bogdanović,D. Fox
+110,2,11:26.0,32,43,SAC,GSW,18,away,JS,,25,miss3,0,A. Iguodala,
+111,2,11:24.0,32,43,SAC,GSW,2,home,DefReb,,,DefReb,,H. Giles,
+112,2,11:20.0,32,43,SAC,GSW,4,home,JS,,25,miss3,0,D. Fox,
+113,2,11:17.0,32,43,SAC,GSW,3,away,DefReb,,,DefReb,,J. Jerebko,
+114,2,11:07.0,32,45,SAC,GSW,10,away,DK,assist,1,make2,2,A. Iguodala,D. Green
+115,2,10:45.0,34,45,SAC,GSW,22,home,JS,assist,4,make2,2,B. Bogdanović,H. Giles
+116,2,10:29.0,34,47,SAC,GSW,16,away,JS,,19,make2,2,S. Curry,
+117,2,10:10.0,34,47,SAC,GSW,19,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,D. Fox
+118,2,10:10.0,34,47,SAC,GSW,0,home,Sub,,,,,Y. Ferrell,D. Fox
+119,2,10:10.0,34,47,SAC,GSW,0,away,DelayOfGame,,,DelayOfGame,,Team,
+120,2,9:56.0,34,47,SAC,GSW,14,home,HS,,9,miss2,0,H. Giles,
+121,2,9:53.0,34,47,SAC,GSW,3,away,DefReb,,,DefReb,,J. Jerebko,
+122,2,9:53.0,34,49,SAC,GSW,0,away,LU,assist,1,make2,2,D. Green,S. Curry
+123,2,9:53.0,34,49,SAC,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,Y. Ferrell,D. Green
+124,2,9:53.0,34,50,SAC,GSW,0,away,FreeThrow,,,make1,1,D. Green,
+125,2,9:40.0,34,50,SAC,GSW,13,home,HS,,10,miss2,0,J. Jackson,
+126,2,9:37.0,34,50,SAC,GSW,3,home,OffReb,,,OffReb,,H. Giles,
+127,2,9:36.0,36,50,SAC,GSW,1,home,DK,assist,2,make2,2,J. Jackson,H. Giles
+128,2,9:19.0,36,50,SAC,GSW,17,away,JS,,24,miss3,0,S. Curry,
+129,2,9:15.0,36,50,SAC,GSW,4,home,DefReb,,,DefReb,,B. Bogdanović,
+130,2,8:59.0,39,50,SAC,GSW,16,home,JS,assist,23,make3,3,J. Jackson,H. Giles
+131,2,8:42.0,39,50,SAC,GSW,17,away,JS,,23,miss3,0,A. Iguodala,
+132,2,8:39.0,39,50,SAC,GSW,3,home,DefReb,,,DefReb,,Y. Ferrell,
+133,2,8:32.0,41,50,SAC,GSW,7,home,LU,,1,make2,2,Y. Ferrell,
+134,2,8:21.0,41,50,SAC,GSW,11,away,LU,,2,miss2,0,A. Iguodala,
+135,2,8:18.0,41,50,SAC,GSW,3,home,DefReb,,,DefReb,,B. Bogdanović,
+136,2,8:14.0,44,50,SAC,GSW,4,home,JS,assist,23,make3,3,B. McLemore,B. Bogdanović
+137,2,8:13.0,44,50,SAC,GSW,1,away,Timeout,,,,,,
+138,2,8:13.0,44,50,SAC,GSW,0,away,Sub,,,,,K. Looney,D. Green
+139,2,8:13.0,44,50,SAC,GSW,0,away,Sub,,,,,A. McKinnie,A. Iguodala
+140,2,8:13.0,44,50,SAC,GSW,0,away,Sub,,,,,K. Thompson,S. Livingston
+141,2,8:13.0,44,50,SAC,GSW,0,home,Sub,,,,,N. Bjelica,H. Giles
+142,2,7:59.0,44,50,SAC,GSW,14,away,JS,,18,miss2,0,K. Thompson,
+143,2,7:55.0,44,50,SAC,GSW,4,away,OffReb,,,OffReb,,A. McKinnie,
+144,2,7:49.0,44,50,SAC,GSW,6,away,DK,,2,miss2,0,A. McKinnie,
+145,2,7:45.0,44,50,SAC,GSW,4,home,DefReb,,,DefReb,,N. Bjelica,
+146,2,7:40.0,44,50,SAC,GSW,5,home,JS,,25,miss3,0,B. Bogdanović,
+147,2,7:38.0,44,50,SAC,GSW,2,away,DefReb,,,DefReb,,K. Thompson,
+148,2,7:34.0,44,50,SAC,GSW,4,away,lost ball,steal,,turnover,,S. Curry,B. McLemore
+149,2,7:27.0,47,50,SAC,GSW,7,home,JS,assist,25,make3,3,B. Bogdanović,Y. Ferrell
+150,2,7:13.0,47,50,SAC,GSW,14,away,bad pass,steal,,turnover,,S. Curry,J. Jackson
+151,2,7:12.0,47,50,SAC,GSW,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jerebko,J. Jackson
+152,2,7:02.0,47,50,SAC,GSW,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Thompson,B. Bogdanović
+153,2,7:02.0,48,50,SAC,GSW,0,home,FreeThrow,,,make1,1,B. Bogdanović,
+154,2,7:02.0,48,50,SAC,GSW,0,away,Sub,,,,,K. Durant,J. Jerebko
+155,2,7:02.0,49,50,SAC,GSW,0,home,FreeThrow,,,make1,1,B. Bogdanović,
+156,2,6:47.0,49,50,SAC,GSW,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,Y. Ferrell,K. Thompson
+157,2,6:39.0,49,53,SAC,GSW,8,away,JS,assist,26,make3,3,S. Curry,A. McKinnie
+158,2,6:19.0,49,53,SAC,GSW,20,home,LU,block,2,miss2,0,Y. Ferrell,K. Looney
+159,2,6:15.0,49,53,SAC,GSW,4,away,DefReb,,,DefReb,,K. Looney,
+160,2,6:11.0,49,56,SAC,GSW,4,away,JS,assist,26,make3,3,K. Thompson,K. Durant
+161,2,5:52.0,49,56,SAC,GSW,19,home,Timeout,,,,,,
+162,2,5:52.0,49,56,SAC,GSW,0,away,Sub,,,,,Q. Cook,S. Curry
+163,2,5:52.0,49,56,SAC,GSW,0,home,Sub,,,,,W. Cauley-Stein,B. Bogdanović
+164,2,5:52.0,49,56,SAC,GSW,0,home,Sub,,,,,B. Hield,B. McLemore
+165,2,5:43.0,52,56,SAC,GSW,9,home,JS,assist,24,make3,3,B. Hield,W. Cauley-Stein
+166,2,5:25.0,52,58,SAC,GSW,18,away,JS,assist,12,make2,2,K. Durant,Q. Cook
+167,2,5:08.0,55,58,SAC,GSW,17,home,JS,assist,25,make3,3,Y. Ferrell,W. Cauley-Stein
+168,2,4:50.0,55,58,SAC,GSW,18,away,JS,,16,miss2,0,Q. Cook,
+169,2,4:48.0,55,58,SAC,GSW,2,home,DefReb,,,DefReb,,W. Cauley-Stein,
+170,2,4:43.0,57,58,SAC,GSW,5,home,LU,,1,make2,2,J. Jackson,
+171,2,4:43.0,57,58,SAC,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Looney,J. Jackson
+172,2,4:43.0,57,58,SAC,GSW,0,home,Sub,,,,,D. Fox,Y. Ferrell
+173,2,4:43.0,58,58,SAC,GSW,0,home,FreeThrow,,,make1,1,J. Jackson,
+174,2,4:21.0,58,58,SAC,GSW,22,away,JS,,19,miss2,0,K. Durant,
+175,2,4:19.0,58,58,SAC,GSW,2,away,OffReb,,,OffReb,,K. Looney,
+176,2,4:15.0,58,61,SAC,GSW,4,away,JS,assist,25,make3,3,Q. Cook,K. Looney
+177,2,4:00.0,61,61,SAC,GSW,15,home,JS,assist,26,make3,3,B. Hield,W. Cauley-Stein
+178,2,3:40.0,61,61,SAC,GSW,20,away,JS,,23,miss3,0,A. McKinnie,
+179,2,3:36.0,61,61,SAC,GSW,4,home,DefReb,,,DefReb,,W. Cauley-Stein,
+180,2,3:33.0,63,61,SAC,GSW,3,home,LU,assist,2,make2,2,J. Jackson,B. Hield
+181,2,3:32.0,63,61,SAC,GSW,1,away,Timeout,,,,,,
+182,2,3:32.0,63,61,SAC,GSW,0,away,Sub,,,,,S. Curry,Q. Cook
+183,2,3:32.0,63,61,SAC,GSW,0,away,Sub,,,,,D. Green,K. Looney
+184,2,3:32.0,63,61,SAC,GSW,0,away,Sub,,,,,A. Iguodala,A. McKinnie
+185,2,3:09.0,63,61,SAC,GSW,23,away,JS,,12,miss2,0,K. Thompson,
+186,2,3:05.0,63,61,SAC,GSW,4,away,OffReb,,,OffReb,,K. Thompson,
+187,2,3:04.0,63,63,SAC,GSW,1,away,JS,,14,make2,2,K. Thompson,
+188,2,2:40.0,63,63,SAC,GSW,24,home,LU,,3,miss2,0,W. Cauley-Stein,
+189,2,2:38.0,63,63,SAC,GSW,2,away,DefReb,,,DefReb,,D. Green,
+190,2,2:30.0,63,65,SAC,GSW,8,away,JS,assist,21,make2,2,S. Curry,A. Iguodala
+191,2,2:10.0,63,65,SAC,GSW,20,home,JS,,7,miss2,0,D. Fox,
+192,2,2:06.0,63,65,SAC,GSW,4,away,DefReb,,,DefReb,,S. Curry,
+193,2,2:00.0,63,65,SAC,GSW,6,away,LU,,2,miss2,0,S. Curry,
+194,2,1:59.0,63,65,SAC,GSW,1,home,DefReb,,,DefReb,,N. Bjelica,
+195,2,1:56.0,65,65,SAC,GSW,3,home,DK,assist,1,make2,2,W. Cauley-Stein,B. Hield
+196,2,1:37.0,65,68,SAC,GSW,19,away,JS,assist,25,make3,3,A. Iguodala,K. Durant
+197,2,1:14.0,65,68,SAC,GSW,23,home,JS,,14,miss2,0,W. Cauley-Stein,
+198,2,1:11.0,65,68,SAC,GSW,3,home,OffReb,,,OffReb,,N. Bjelica,
+199,2,1:10.0,67,68,SAC,GSW,1,home,LU,,1,make2,2,N. Bjelica,
+200,2,0:51.0,67,68,SAC,GSW,19,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Hield,S. Curry
+201,2,0:51.0,67,68,SAC,GSW,0,home,Sub,,,,,B. Bogdanović,J. Jackson
+202,2,0:47.0,67,68,SAC,GSW,4,away,bad pass,steal,,turnover,,D. Green,N. Bjelica
+203,2,0:41.0,69,68,SAC,GSW,6,home,DK,assist,2,make2,2,W. Cauley-Stein,N. Bjelica
+204,2,0:34.0,69,70,SAC,GSW,7,away,LU,,7,make2,2,K. Durant,
+205,2,0:34.0,69,70,SAC,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,K. Durant
+206,2,0:34.0,69,70,SAC,GSW,0,away,FreeThrow,,,make1,0,K. Durant,
+207,2,0:31.0,69,70,SAC,GSW,3,away,OffReb,,,OffReb,,D. Green,
+208,2,0:28.0,69,70,SAC,GSW,3,away,JS,,27,miss3,0,K. Durant,
+209,2,0:26.0,69,70,SAC,GSW,2,home,DefReb,,,DefReb,,W. Cauley-Stein,
+210,2,0:07.0,69,70,SAC,GSW,19,home,JS,,16,miss2,0,D. Fox,
+211,2,0:03.0,69,70,SAC,GSW,4,home,OffReb,,,OffReb,,N. Bjelica,
+212,2,0:03.0,69,70,SAC,GSW,0,home,LU,,0,miss2,0,N. Bjelica,
+213,2,0:02.0,69,70,SAC,GSW,1,home,OffReb,,,OffReb,,B. Hield,
+214,2,0:01.0,69,70,SAC,GSW,1,home,LU,,2,miss2,0,B. Hield,
+215,2,0:01.0,69,70,SAC,GSW,0,home,OffReb,,,OffReb,,B. Hield,
+216,2,0:00.0,69,70,SAC,GSW,1,home,LU,,9,miss2,0,B. Hield,
+217,2,0:00.0,69,70,SAC,GSW,0,away,DefReb,,,DefReb,,D. Green,
+218,3,11:46.0,71,70,SAC,GSW,14,home,JS,assist,15,make2,2,W. Cauley-Stein,D. Fox
+219,3,11:23.0,71,70,SAC,GSW,23,away,JS,,25,miss3,0,D. Green,
+220,3,11:19.0,71,70,SAC,GSW,4,home,DefReb,,,DefReb,,W. Cauley-Stein,
+221,3,11:07.0,71,70,SAC,GSW,12,home,JS,,25,miss3,0,B. Hield,
+222,3,11:03.0,71,70,SAC,GSW,4,away,DefReb,,,DefReb,,D. Green,
+223,3,10:56.0,71,73,SAC,GSW,7,away,JS,assist,25,make3,3,S. Curry,K. Looney
+224,3,10:43.0,71,73,SAC,GSW,13,home,JS,,25,miss3,0,D. Fox,
+225,3,10:42.0,71,73,SAC,GSW,1,away,DefReb,,,DefReb,,Team,
+226,3,10:31.0,71,73,SAC,GSW,11,away,JS,,16,miss2,0,K. Durant,
+227,3,10:30.0,71,73,SAC,GSW,1,away,OffReb,,,OffReb,,K. Looney,
+228,3,10:30.0,71,75,SAC,GSW,0,away,DK,,0,make2,2,K. Looney,
+229,3,10:30.0,71,75,SAC,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,K. Looney
+230,3,10:30.0,71,76,SAC,GSW,0,away,FreeThrow,,,make1,1,K. Looney,
+231,3,10:06.0,71,76,SAC,GSW,24,home,LU,,7,miss2,0,B. Bogdanović,
+232,3,10:04.0,71,76,SAC,GSW,2,home,OffReb,,,OffReb,,W. Cauley-Stein,
+233,3,10:03.0,71,76,SAC,GSW,1,home,LU,,3,miss2,0,W. Cauley-Stein,
+234,3,9:59.0,71,76,SAC,GSW,4,home,OffReb,,,OffReb,,N. Bjelica,
+235,3,9:59.0,71,76,SAC,GSW,0,home,LU,,1,miss2,0,N. Bjelica,
+236,3,9:58.0,71,76,SAC,GSW,1,away,DefReb,,,DefReb,,K. Durant,
+237,3,9:56.0,71,78,SAC,GSW,2,away,JS,,6,make2,2,K. Durant,
+238,3,9:42.0,71,78,SAC,GSW,14,home,JS,,14,miss2,0,B. Hield,
+239,3,9:42.0,71,78,SAC,GSW,0,away,DefReb,,,DefReb,,K. Looney,
+240,3,9:33.0,71,81,SAC,GSW,9,away,JS,assist,25,make3,3,S. Curry,D. Green
+241,3,9:32.0,71,81,SAC,GSW,1,home,Timeout,,,,,,
+242,3,9:22.0,71,81,SAC,GSW,10,home,bad pass,steal,,turnover,,D. Fox,S. Curry
+243,3,9:19.0,71,81,SAC,GSW,3,away,JS,,26,miss3,0,S. Curry,
+244,3,9:15.0,71,81,SAC,GSW,4,home,DefReb,,,DefReb,,N. Bjelica,
+245,3,8:57.0,71,81,SAC,GSW,18,home,JS,,3,miss2,0,W. Cauley-Stein,
+246,3,8:56.0,71,81,SAC,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
+247,3,8:51.0,71,81,SAC,GSW,5,away,lost ball,steal,,turnover,,S. Curry,B. Bogdanović
+248,3,8:45.0,73,81,SAC,GSW,6,home,LU,assist,1,make2,2,D. Fox,B. Bogdanović
+249,3,8:33.0,73,81,SAC,GSW,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Hield,K. Thompson
+250,3,8:19.0,73,81,SAC,GSW,14,away,JS,,22,miss3,0,K. Durant,
+251,3,8:15.0,73,81,SAC,GSW,4,home,DefReb,,,DefReb,,N. Bjelica,
+252,3,8:07.0,76,81,SAC,GSW,8,home,JS,assist,25,make3,3,B. Hield,B. Bogdanović
+253,3,7:54.0,76,83,SAC,GSW,13,away,LU,assist,1,make2,2,D. Green,K. Thompson
+254,3,7:33.0,78,83,SAC,GSW,21,home,DK,assist,2,make2,2,W. Cauley-Stein,D. Fox
+255,3,7:19.0,78,86,SAC,GSW,14,away,JS,assist,25,make3,3,D. Green,K. Durant
+256,3,7:02.0,78,86,SAC,GSW,17,home,JS,,8,miss2,0,W. Cauley-Stein,
+257,3,7:00.0,78,86,SAC,GSW,2,home,OffReb,,,OffReb,,B. Hield,
+258,3,6:58.0,81,86,SAC,GSW,2,home,JS,assist,23,make3,3,B. Hield,W. Cauley-Stein
+259,3,6:42.0,81,86,SAC,GSW,16,away,lost ball,steal,,turnover,,K. Durant,W. Cauley-Stein
+260,3,6:36.0,84,86,SAC,GSW,6,home,JS,assist,25,make3,3,B. Hield,D. Fox
+261,3,6:34.0,84,86,SAC,GSW,2,away,Timeout,,,,,,
+262,3,6:34.0,84,86,SAC,GSW,0,home,Sub,,,,,J. Jackson,B. Bogdanović
+263,3,6:16.0,84,86,SAC,GSW,18,away,JS,,25,miss3,0,S. Curry,
+264,3,6:15.0,84,86,SAC,GSW,1,home,DefReb,,,DefReb,,Team,
+265,3,6:05.0,84,86,SAC,GSW,10,home,JS,,7,miss2,0,D. Fox,
+266,3,6:02.0,84,86,SAC,GSW,3,away,DefReb,,,DefReb,,K. Durant,
+267,3,5:58.0,84,86,SAC,GSW,4,away,JS,,8,miss2,0,K. Durant,
+268,3,5:58.0,84,86,SAC,GSW,0,away,OffReb,,,OffReb,,Team,
+269,3,5:58.0,84,86,SAC,GSW,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,N. Bjelica,D. Green
+270,3,5:47.0,84,86,SAC,GSW,11,away,JS,,25,miss3,0,K. Thompson,
+271,3,5:44.0,84,86,SAC,GSW,3,home,DefReb,,,DefReb,,B. Hield,
+272,3,5:44.0,84,86,SAC,GSW,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,S. Curry,B. Hield
+273,3,5:26.0,84,86,SAC,GSW,18,home,JS,,17,miss2,0,B. Hield,
+274,3,5:23.0,84,86,SAC,GSW,3,home,OffReb,,,OffReb,,W. Cauley-Stein,
+275,3,5:22.0,84,86,SAC,GSW,1,home,LU,block,2,miss2,0,W. Cauley-Stein,D. Green
+276,3,5:20.0,84,86,SAC,GSW,2,away,DefReb,,,DefReb,,D. Green,
+277,3,5:08.0,84,86,SAC,GSW,12,away,bad pass,steal,,turnover,,S. Curry,D. Fox
+278,3,5:03.0,86,86,SAC,GSW,5,home,DK,assist,1,make2,2,W. Cauley-Stein,D. Fox
+279,3,4:48.0,86,86,SAC,GSW,15,away,JS,,24,miss3,0,S. Curry,
+280,3,4:46.0,86,86,SAC,GSW,2,home,DefReb,,,DefReb,,W. Cauley-Stein,
+281,3,4:39.0,88,86,SAC,GSW,7,home,LU,assist,2,make2,2,N. Bjelica,D. Fox
+282,3,4:39.0,88,86,SAC,GSW,0,away,Timeout,,,,,,
+283,3,4:39.0,88,86,SAC,GSW,0,away,Sub,,,,,J. Bell,D. Green
+284,3,4:39.0,88,86,SAC,GSW,0,away,Sub,,,,,A. Iguodala,K. Looney
+285,3,4:27.0,88,88,SAC,GSW,12,away,JS,,16,make2,2,K. Durant,
+286,3,4:09.0,91,88,SAC,GSW,18,home,JS,assist,25,make3,3,B. Hield,W. Cauley-Stein
+287,3,3:48.0,91,88,SAC,GSW,21,away,JS,,25,miss3,0,K. Thompson,
+288,3,3:46.0,91,88,SAC,GSW,2,away,OffReb,,,OffReb,,Team,
+289,3,3:46.0,91,88,SAC,GSW,0,away,Sub,,,,,Q. Cook,S. Curry
+290,3,3:46.0,91,88,SAC,GSW,0,home,Sub,,,,,B. Bogdanović,N. Bjelica
+291,3,3:46.0,91,88,SAC,GSW,0,home,Sub,,,,,Y. Ferrell,D. Fox
+292,3,3:34.0,91,88,SAC,GSW,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Bogdanović,K. Durant
+293,3,3:34.0,91,89,SAC,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
+294,3,3:34.0,91,90,SAC,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
+295,3,3:13.0,94,90,SAC,GSW,21,home,JS,assist,25,make3,3,J. Jackson,B. Bogdanović
+296,3,2:48.0,94,90,SAC,GSW,25,away,JS,,25,miss3,0,A. Iguodala,
+297,3,2:47.0,94,90,SAC,GSW,1,away,OffReb,,,OffReb,,Team,
+298,3,2:47.0,94,90,SAC,GSW,0,away,ShotClockViolation,,,turnover,,Team,
+299,3,2:47.0,94,90,SAC,GSW,0,home,Sub,,,,,H. Giles,W. Cauley-Stein
+300,3,2:26.0,96,90,SAC,GSW,21,home,JS,assist,22,make2,2,B. Hield,J. Jackson
+301,3,2:16.0,96,90,SAC,GSW,10,away,bad pass,steal,,turnover,,A. Iguodala,B. Bogdanović
+302,3,2:12.0,99,90,SAC,GSW,4,home,JS,assist,25,make3,3,B. Hield,B. Bogdanović
+303,3,1:50.0,99,90,SAC,GSW,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,K. Durant
+304,3,1:50.0,99,91,SAC,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
+305,3,1:50.0,99,91,SAC,GSW,0,away,Sub,,,,,J. Jerebko,K. Thompson
+306,3,1:50.0,99,92,SAC,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
+307,3,1:35.0,101,92,SAC,GSW,15,home,LU,,3,make2,2,B. Bogdanović,
+308,3,1:25.0,101,92,SAC,GSW,10,away,JS,,25,miss3,0,K. Durant,
+309,3,1:21.0,101,92,SAC,GSW,4,home,DefReb,,,DefReb,,B. Bogdanović,
+310,3,1:14.0,101,92,SAC,GSW,7,home,LU,block,2,miss2,0,Y. Ferrell,A. Iguodala
+311,3,1:11.0,101,92,SAC,GSW,3,away,DefReb,,,DefReb,,A. Iguodala,
+312,3,1:08.0,101,92,SAC,GSW,3,away,JS,,23,miss3,0,Q. Cook,
+313,3,1:04.0,101,92,SAC,GSW,4,home,DefReb,,,DefReb,,H. Giles,
+314,3,0:42.0,101,92,SAC,GSW,22,home,JS,block,24,miss2,0,B. Bogdanović,K. Durant
+315,3,0:39.0,101,92,SAC,GSW,3,away,DefReb,,,DefReb,,A. Iguodala,
+316,3,0:36.0,101,92,SAC,GSW,3,away,LU,,2,miss2,0,A. Iguodala,
+317,3,0:32.0,101,92,SAC,GSW,4,away,OffReb,,,OffReb,,J. Jerebko,
+318,3,0:32.0,101,94,SAC,GSW,0,away,DK,,0,make2,2,J. Jerebko,
+319,3,0:32.0,101,94,SAC,GSW,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Durant,B. Bogdanović
+320,3,0:22.0,103,94,SAC,GSW,10,home,DK,,1,make2,2,H. Giles,
+321,3,0:03.0,103,96,SAC,GSW,19,away,JS,,3,make2,2,K. Durant,
+322,3,0:00.0,103,96,SAC,GSW,3,home,JS,,38,miss3,0,B. Bogdanović,
+323,3,0:00.0,103,96,SAC,GSW,0,home,OffReb,,,OffReb,,Team,
+324,4,11:48.0,103,99,SAC,GSW,12,away,JS,,25,make3,3,S. Curry,
+325,4,11:34.0,103,99,SAC,GSW,14,home,lost ball,steal,,turnover,,J. Jackson,J. Jerebko
+326,4,11:18.0,103,99,SAC,GSW,16,away,JS,,26,miss3,0,S. Curry,
+327,4,11:17.0,103,99,SAC,GSW,1,home,DefReb,,,DefReb,,Team,
+328,4,11:17.0,103,99,SAC,GSW,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Jerebko,J. Jackson
+329,4,11:01.0,103,99,SAC,GSW,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,H. Giles
+330,4,10:55.0,103,99,SAC,GSW,6,home,Traveling,,,turnover,,Y. Ferrell,
+331,4,10:43.0,103,99,SAC,GSW,12,away,JS,,22,miss3,0,J. Jerebko,
+332,4,10:40.0,103,99,SAC,GSW,3,home,DefReb,,,DefReb,,B. Bogdanović,
+333,4,10:36.0,103,99,SAC,GSW,4,home,JS,,26,miss3,0,B. Bogdanović,
+334,4,10:34.0,103,99,SAC,GSW,2,away,DefReb,,,DefReb,,D. Green,
+335,4,10:20.0,103,99,SAC,GSW,14,away,LU,,2,miss2,0,K. Thompson,
+336,4,10:17.0,103,99,SAC,GSW,3,away,OffReb,,,OffReb,,J. Jerebko,
+337,4,10:17.0,103,99,SAC,GSW,0,away,LU,,0,miss2,0,J. Jerebko,
+338,4,10:16.0,103,99,SAC,GSW,1,away,OffReb,,,OffReb,,K. Thompson,
+339,4,10:15.0,103,99,SAC,GSW,1,away,LU,,1,miss2,0,K. Thompson,
+340,4,10:13.0,103,99,SAC,GSW,2,away,OffReb,,,OffReb,,J. Jerebko,
+341,4,10:13.0,103,99,SAC,GSW,0,away,LU,,0,miss2,0,J. Jerebko,
+342,4,10:12.0,103,99,SAC,GSW,1,home,DefReb,,,DefReb,,J. Jackson,
+343,4,10:07.0,105,99,SAC,GSW,5,home,JS,assist,20,make2,2,B. McLemore,Y. Ferrell
+344,4,9:50.0,105,99,SAC,GSW,17,away,JS,,24,miss3,0,S. Curry,
+345,4,9:47.0,105,99,SAC,GSW,3,home,DefReb,,,DefReb,,B. Bogdanović,
+346,4,9:42.0,105,99,SAC,GSW,5,home,LU,,3,miss2,0,B. Bogdanović,
+347,4,9:40.0,105,99,SAC,GSW,2,away,DefReb,,,DefReb,,S. Curry,
+348,4,9:40.0,105,99,SAC,GSW,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,B. McLemore,S. Curry
+349,4,9:40.0,105,99,SAC,GSW,0,home,Sub,,,,,N. Bjelica,Y. Ferrell
+350,4,9:40.0,105,99,SAC,GSW,0,home,Sub,,,,,D. Fox,H. Giles
+351,4,9:35.0,105,101,SAC,GSW,5,away,LU,assist,1,make2,2,K. Thompson,S. Curry
+352,4,9:32.0,105,101,SAC,GSW,3,home,JS,,12,miss2,0,D. Fox,
+353,4,9:17.0,105,101,SAC,GSW,15,away,DefReb,,,DefReb,,J. Jerebko,
+354,4,9:09.0,105,101,SAC,GSW,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. McLemore,K. Thompson
+355,4,9:09.0,105,101,SAC,GSW,0,away,FreeThrow,,,make1,0,K. Thompson,
+356,4,9:09.0,105,101,SAC,GSW,0,away,OffReb,,,OffReb,,Team,
+357,4,9:09.0,105,101,SAC,GSW,0,away,Sub,,,,,A. McKinnie,A. Iguodala
+358,4,9:09.0,105,102,SAC,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
+359,4,8:54.0,105,102,SAC,GSW,15,home,JS,,23,miss3,0,B. McLemore,
+360,4,8:51.0,105,102,SAC,GSW,3,away,DefReb,,,DefReb,,J. Jerebko,
+361,4,8:43.0,105,102,SAC,GSW,8,away,lost ball,steal,,turnover,,A. McKinnie,D. Fox
+362,4,8:39.0,105,102,SAC,GSW,4,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,N. Bjelica,S. Curry
+363,4,8:39.0,105,102,SAC,GSW,0,home,OffensiveFoul,,,turnover,,N. Bjelica,
+364,4,8:24.0,105,102,SAC,GSW,15,away,JS,,25,miss3,0,J. Jerebko,
+365,4,8:20.0,105,102,SAC,GSW,4,home,DefReb,,,DefReb,,B. Bogdanović,
+366,4,8:02.0,105,102,SAC,GSW,18,home,JS,,17,miss2,0,B. Bogdanović,
+367,4,7:59.0,105,102,SAC,GSW,3,away,DefReb,,,DefReb,,J. Jerebko,
+368,4,7:53.0,105,105,SAC,GSW,6,away,JS,,27,make3,3,S. Curry,
+369,4,7:52.0,105,105,SAC,GSW,1,home,Timeout,,,,,,
+370,4,7:52.0,105,105,SAC,GSW,0,away,Sub,,,,,K. Durant,J. Jerebko
+371,4,7:52.0,105,105,SAC,GSW,0,away,Sub,,,,,K. Looney,K. Thompson
+372,4,7:52.0,105,105,SAC,GSW,0,home,Sub,,,,,W. Cauley-Stein,N. Bjelica
+373,4,7:35.0,105,105,SAC,GSW,17,home,Traveling,,,turnover,,B. McLemore,
+374,4,7:22.0,105,108,SAC,GSW,13,away,JS,assist,26,make3,3,K. Durant,K. Looney
+375,4,7:14.0,105,108,SAC,GSW,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,J. Jackson
+376,4,7:14.0,105,108,SAC,GSW,0,away,Sub,,,,,K. Thompson,D. Green
+377,4,7:14.0,105,108,SAC,GSW,0,home,Sub,,,,,B. Hield,B. McLemore
+378,4,7:04.0,105,108,SAC,GSW,10,home,bad pass,steal,,turnover,,W. Cauley-Stein,S. Curry
+379,4,6:54.0,105,111,SAC,GSW,10,away,JS,assist,26,make3,3,K. Durant,A. McKinnie
+380,4,6:29.0,108,111,SAC,GSW,25,home,JS,assist,24,make3,3,J. Jackson,B. Hield
+381,4,6:06.0,108,111,SAC,GSW,23,away,Traveling,,,turnover,,S. Curry,
+382,4,6:06.0,108,111,SAC,GSW,0,away,Sub,,,,,A. Iguodala,A. McKinnie
+383,4,5:52.0,110,111,SAC,GSW,14,home,JS,,17,make2,2,D. Fox,
+384,4,5:30.0,110,111,SAC,GSW,22,away,JS,,11,miss2,0,K. Durant,
+385,4,5:26.0,110,111,SAC,GSW,4,away,OffReb,,,OffReb,,K. Looney,
+386,4,5:23.0,110,111,SAC,GSW,3,away,JS,,26,miss3,0,K. Durant,
+387,4,5:19.0,110,111,SAC,GSW,4,home,DefReb,,,DefReb,,J. Jackson,
+388,4,5:14.0,113,111,SAC,GSW,5,home,JS,assist,27,make3,3,J. Jackson,B. Bogdanović
+389,4,4:57.0,113,114,SAC,GSW,17,away,JS,assist,26,make3,3,S. Curry,K. Durant
+390,4,4:37.0,115,114,SAC,GSW,20,home,JS,assist,7,make2,2,J. Jackson,W. Cauley-Stein
+391,4,4:28.0,115,116,SAC,GSW,9,away,JS,,4,make2,2,S. Curry,
+392,4,4:28.0,115,116,SAC,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,S. Curry
+393,4,4:28.0,115,116,SAC,GSW,0,home,Sub,,,,,N. Bjelica,B. Bogdanović
+394,4,4:28.0,115,117,SAC,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+395,4,4:13.0,115,117,SAC,GSW,15,home,LU,block,3,miss2,0,J. Jackson,K. Thompson
+396,4,4:11.0,115,117,SAC,GSW,2,away,DefReb,,,DefReb,,A. Iguodala,
+397,4,4:11.0,115,117,SAC,GSW,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,B. Hield,A. Iguodala
+398,4,3:55.0,115,117,SAC,GSW,16,away,JS,,22,miss2,0,S. Curry,
+399,4,3:52.0,115,117,SAC,GSW,3,home,DefReb,,,DefReb,,Team,
+400,4,3:44.0,115,117,SAC,GSW,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Looney,W. Cauley-Stein
+401,4,3:44.0,115,117,SAC,GSW,0,home,OffReb,,,OffReb,,Team,
+402,4,3:44.0,115,117,SAC,GSW,0,home,FreeThrow,,,make1,0,W. Cauley-Stein,
+403,4,3:44.0,115,117,SAC,GSW,0,away,Sub,,,,,D. Green,K. Looney
+404,4,3:44.0,116,117,SAC,GSW,0,home,FreeThrow,,,make1,1,W. Cauley-Stein,
+405,4,3:23.0,116,117,SAC,GSW,21,away,bad pass,steal,,turnover,,D. Green,W. Cauley-Stein
+406,4,3:18.0,119,117,SAC,GSW,5,home,JS,assist,25,make3,3,J. Jackson,B. Hield
+407,4,3:01.0,119,120,SAC,GSW,17,away,JS,assist,28,make3,3,S. Curry,K. Durant
+408,4,2:40.0,121,120,SAC,GSW,21,home,LU,,1,make2,2,D. Fox,
+409,4,2:21.0,121,120,SAC,GSW,19,away,JS,,25,miss3,0,S. Curry,
+410,4,2:17.0,121,120,SAC,GSW,4,home,DefReb,,,DefReb,,J. Jackson,
+411,4,2:14.0,121,120,SAC,GSW,3,home,JS,,26,miss3,0,J. Jackson,
+412,4,2:09.0,121,120,SAC,GSW,5,away,DefReb,,,DefReb,,S. Curry,
+413,4,2:03.0,121,122,SAC,GSW,6,away,LU,assist,2,make2,2,S. Curry,D. Green
+414,4,2:03.0,121,122,SAC,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,S. Curry
+415,4,2:03.0,121,122,SAC,GSW,0,away,Timeout,,,,,,
+416,4,2:03.0,121,122,SAC,GSW,0,home,Sub,,,,,B. Bogdanović,N. Bjelica
+417,4,2:03.0,121,123,SAC,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+418,4,1:40.0,121,123,SAC,GSW,23,home,JS,,26,miss3,0,B. Bogdanović,
+419,4,1:37.0,121,123,SAC,GSW,3,away,DefReb,,,DefReb,,A. Iguodala,
+420,4,1:37.0,121,123,SAC,GSW,0,home,Sub,,,,,N. Bjelica,B. Bogdanović
+421,4,1:15.0,121,123,SAC,GSW,22,away,JS,,26,miss3,0,S. Curry,
+422,4,1:12.0,121,123,SAC,GSW,3,home,DefReb,,,DefReb,,W. Cauley-Stein,
+423,4,1:00.0,121,123,SAC,GSW,12,home,bad pass,steal,,turnover,,D. Fox,D. Green
+424,4,0:56.0,121,125,SAC,GSW,4,away,DK,assist,1,make2,2,A. Iguodala,D. Green
+425,4,0:56.0,121,125,SAC,GSW,0,home,Timeout,,,,,,
+426,4,0:56.0,121,125,SAC,GSW,0,home,Sub,,,,,B. Bogdanović,N. Bjelica
+427,4,0:42.0,121,125,SAC,GSW,14,home,JS,,28,miss3,0,B. Bogdanović,
+428,4,0:39.0,121,125,SAC,GSW,3,away,DefReb,,,DefReb,,K. Durant,
+429,4,0:19.0,121,125,SAC,GSW,20,away,JS,,23,miss3,0,S. Curry,
+430,4,0:16.0,121,125,SAC,GSW,3,home,DefReb,,,DefReb,,B. Hield,
+431,4,0:13.0,121,125,SAC,GSW,3,home,JS,,25,miss3,0,D. Fox,
+432,4,0:09.0,121,125,SAC,GSW,4,home,OffReb,,,OffReb,,W. Cauley-Stein,
+433,4,0:09.0,123,125,SAC,GSW,0,home,JS,,2,make2,2,J. Jackson,
+434,4,0:09.0,123,125,SAC,GSW,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,B. Hield,S. Curry
+435,4,0:09.0,123,126,SAC,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+436,4,0:09.0,123,127,SAC,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+437,4,0:09.0,123,127,SAC,GSW,0,home,Timeout,,,,,,
+438,4,0:09.0,123,127,SAC,GSW,0,home,Sub,,,,,N. Bjelica,J. Jackson
+439,4,0:07.0,123,127,SAC,GSW,2,home,JS,block,29,miss3,0,B. Hield,D. Green
+440,4,0:02.0,123,127,SAC,GSW,5,away,DefReb,,,DefReb,,S. Curry,

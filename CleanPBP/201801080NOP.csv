@@ -1,0 +1,430 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,0,0,NOP,DET,19,away,JS,,23,miss3,0,A. Bradley,
+1,1,11:39.0,0,0,NOP,DET,2,home,DefReb,,,DefReb,,R. Rondo,
+2,1,11:36.0,2,0,NOP,DET,3,home,LU,assist,1,make2,2,J. Holiday,R. Rondo
+3,1,11:36.0,2,0,NOP,DET,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Smith,J. Holiday
+4,1,11:36.0,3,0,NOP,DET,0,home,FreeThrow,,,make1,1,J. Holiday,
+5,1,11:22.0,3,0,NOP,DET,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rondo,A. Drummond
+6,1,11:22.0,3,0,NOP,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+7,1,11:22.0,3,0,NOP,DET,0,away,OffReb,,,OffReb,,Team,
+8,1,11:22.0,3,0,NOP,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+9,1,11:19.0,3,0,NOP,DET,3,home,DefReb,,,DefReb,,D. Cousins,
+10,1,11:15.0,3,0,NOP,DET,4,home,LU,,1,miss2,0,R. Rondo,
+11,1,11:12.0,3,0,NOP,DET,3,away,DefReb,,,DefReb,,A. Drummond,
+12,1,11:10.0,3,0,NOP,DET,2,away,bad pass,steal,,turnover,,A. Drummond,D. Cousins
+13,1,11:05.0,3,0,NOP,DET,5,home,LU,,1,miss2,0,J. Holiday,
+14,1,11:02.0,3,0,NOP,DET,3,away,DefReb,,,DefReb,,I. Smith,
+15,1,10:59.0,3,0,NOP,DET,3,away,JS,,25,miss3,0,A. Bradley,
+16,1,10:59.0,3,0,NOP,DET,0,home,DefReb,,,DefReb,,A. Davis,
+17,1,10:51.0,3,0,NOP,DET,8,home,JS,,25,miss3,0,D. Cousins,
+18,1,10:46.0,3,0,NOP,DET,5,away,DefReb,,,DefReb,,A. Bradley,
+19,1,10:42.0,3,0,NOP,DET,4,away,bad pass,steal,,turnover,,I. Smith,D. Cousins
+20,1,10:37.0,5,0,NOP,DET,5,home,LU,assist,0,make2,2,E. Moore,A. Davis
+21,1,10:23.0,5,3,NOP,DET,14,away,JS,assist,25,make3,3,T. Harris,A. Bradley
+22,1,10:11.0,7,3,NOP,DET,12,home,HS,assist,5,make2,2,A. Davis,R. Rondo
+23,1,9:53.0,7,5,NOP,DET,18,away,LU,assist,1,make2,2,A. Drummond,A. Bradley
+24,1,9:43.0,7,5,NOP,DET,10,home,JS,,9,miss2,0,A. Davis,
+25,1,9:39.0,7,5,NOP,DET,4,away,DefReb,,,DefReb,,A. Drummond,
+26,1,9:19.0,7,7,NOP,DET,20,away,JS,assist,15,make2,2,I. Smith,A. Drummond
+27,1,9:06.0,7,7,NOP,DET,13,home,bad pass,steal,,turnover,,J. Holiday,A. Drummond
+28,1,9:01.0,7,7,NOP,DET,5,away,LU,block,4,miss2,0,I. Smith,J. Holiday
+29,1,8:57.0,7,7,NOP,DET,4,home,DefReb,,,DefReb,,R. Rondo,
+30,1,8:54.0,9,7,NOP,DET,3,home,LU,assist,0,make2,2,A. Davis,R. Rondo
+31,1,8:36.0,9,7,NOP,DET,18,away,BadPass,,,turnover,,A. Drummond,
+32,1,8:21.0,9,7,NOP,DET,15,home,LU,block,1,miss2,0,J. Holiday,A. Bradley
+33,1,8:21.0,9,7,NOP,DET,0,away,DefReb,,,DefReb,,R. Bullock,
+34,1,8:12.0,9,9,NOP,DET,9,away,LU,,2,make2,2,I. Smith,
+35,1,8:00.0,12,9,NOP,DET,12,home,JS,assist,25,make3,3,J. Holiday,R. Rondo
+36,1,7:45.0,12,9,NOP,DET,15,away,lost ball,steal,,turnover,,A. Bradley,R. Rondo
+37,1,7:42.0,14,9,NOP,DET,3,home,DK,assist,0,make2,2,A. Davis,R. Rondo
+38,1,7:27.0,14,11,NOP,DET,15,away,LU,assist,1,make2,2,A. Drummond,T. Harris
+39,1,7:16.0,16,11,NOP,DET,11,home,LU,,1,make2,2,R. Rondo,
+40,1,7:10.0,16,11,NOP,DET,6,away,Timeout,,,,,,
+41,1,7:03.0,16,11,NOP,DET,7,away,JS,,24,miss3,0,T. Harris,
+42,1,7:00.0,16,11,NOP,DET,3,home,DefReb,,,DefReb,,E. Moore,
+43,1,6:55.0,18,11,NOP,DET,5,home,HS,assist,6,make2,2,A. Davis,R. Rondo
+44,1,6:34.0,18,13,NOP,DET,21,away,JS,,7,make2,2,T. Harris,
+45,1,6:22.0,20,13,NOP,DET,12,home,LU,assist,1,make2,2,R. Rondo,D. Cousins
+46,1,6:00.0,20,13,NOP,DET,22,away,JS,,24,miss3,0,A. Bradley,
+47,1,5:57.0,20,13,NOP,DET,3,home,DefReb,,,DefReb,,R. Rondo,
+48,1,5:45.0,20,13,NOP,DET,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Smith,R. Rondo
+49,1,5:45.0,20,13,NOP,DET,0,away,Sub,,,,,A. Tolliver,R. Bullock
+50,1,5:45.0,20,13,NOP,DET,0,away,Sub,,,,,D. Buycks,I. Smith
+51,1,5:43.0,22,13,NOP,DET,2,home,LU,assist,2,make2,2,A. Davis,R. Rondo
+52,1,5:28.0,22,15,NOP,DET,15,away,LU,,2,make2,2,A. Bradley,
+53,1,5:18.0,24,15,NOP,DET,10,home,LU,assist,1,make2,2,E. Moore,R. Rondo
+54,1,5:04.0,24,15,NOP,DET,14,away,bad pass,steal,,turnover,,A. Bradley,J. Holiday
+55,1,5:03.0,24,15,NOP,DET,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bradley,A. Davis
+56,1,4:57.0,26,15,NOP,DET,6,home,JS,assist,17,make2,2,E. Moore,D. Cousins
+57,1,4:47.0,26,15,NOP,DET,10,away,Timeout,,,,,,
+58,1,4:35.0,26,18,NOP,DET,12,away,JS,assist,24,make3,3,T. Harris,A. Bradley
+59,1,4:19.0,26,18,NOP,DET,16,home,JS,,25,miss3,0,E. Moore,
+60,1,4:17.0,26,18,NOP,DET,2,away,DefReb,,,DefReb,,D. Buycks,
+61,1,4:09.0,26,18,NOP,DET,8,away,JS,,20,miss2,0,A. Bradley,
+62,1,4:05.0,26,18,NOP,DET,4,home,DefReb,,,DefReb,,R. Rondo,
+63,1,4:00.0,28,18,NOP,DET,5,home,DK,assist,0,make2,2,A. Davis,R. Rondo
+64,1,3:38.0,28,18,NOP,DET,22,away,JS,,24,miss3,0,D. Buycks,
+65,1,3:35.0,28,18,NOP,DET,3,home,DefReb,,,DefReb,,J. Holiday,
+66,1,3:25.0,28,18,NOP,DET,10,away,ChargeFoul,DrawnBy,,ChargeFoul,,R. Rondo,A. Tolliver
+67,1,3:25.0,28,18,NOP,DET,0,home,OffensiveFoul,,,turnover,,R. Rondo,
+68,1,3:25.0,28,18,NOP,DET,0,home,Sub,,,,,D. Miller,A. Davis
+69,1,3:25.0,28,18,NOP,DET,0,home,Sub,,,,,D. Cunningham,E. Moore
+70,1,3:25.0,28,18,NOP,DET,0,away,Sub,,,,,R. Bullock,A. Bradley
+71,1,3:07.0,28,18,NOP,DET,18,away,AFPFoul,DrawnBy,,AFPFoul,,D. Cousins,A. Drummond
+72,1,2:59.0,28,18,NOP,DET,8,away,LU,block,3,miss2,0,D. Buycks,D. Cunningham
+73,1,2:59.0,28,18,NOP,DET,0,away,OffReb,,,OffReb,,Team,
+74,1,2:55.0,28,18,NOP,DET,4,away,JS,,19,miss2,0,D. Buycks,
+75,1,2:51.0,28,18,NOP,DET,4,home,DefReb,,,DefReb,,D. Cousins,
+76,1,2:42.0,28,18,NOP,DET,9,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Cousins,D. Buycks
+77,1,2:42.0,28,18,NOP,DET,0,home,OffensiveFoul,,,turnover,,D. Cousins,
+78,1,2:42.0,28,18,NOP,DET,0,home,Sub,,,,,A. Davis,D. Cousins
+79,1,2:25.0,28,18,NOP,DET,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Miller,T. Harris
+80,1,2:25.0,28,19,NOP,DET,0,away,FreeThrow,,,make1,1,T. Harris,
+81,1,2:25.0,28,20,NOP,DET,0,away,FreeThrow,,,make1,1,T. Harris,
+82,1,2:14.0,28,20,NOP,DET,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Tolliver,A. Davis
+83,1,2:14.0,29,20,NOP,DET,0,home,FreeThrow,,,make1,1,A. Davis,
+84,1,2:14.0,29,20,NOP,DET,0,home,Sub,,,,,J. Nelson,R. Rondo
+85,1,2:14.0,30,20,NOP,DET,0,home,FreeThrow,,,make1,1,A. Davis,
+86,1,2:04.0,30,22,NOP,DET,10,away,LU,,1,make2,2,D. Buycks,
+87,1,1:51.0,30,22,NOP,DET,13,home,lost ball,steal,,turnover,,J. Holiday,A. Drummond
+88,1,1:40.0,30,25,NOP,DET,11,away,JS,assist,24,make3,3,R. Bullock,T. Harris
+89,1,1:23.0,33,25,NOP,DET,17,home,JS,assist,23,make3,3,D. Cunningham,D. Miller
+90,1,1:05.0,33,25,NOP,DET,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Miller,T. Harris
+91,1,1:05.0,33,26,NOP,DET,0,away,FreeThrow,,,make1,1,T. Harris,
+92,1,1:05.0,33,27,NOP,DET,0,away,FreeThrow,,,make1,1,T. Harris,
+93,1,0:55.0,36,27,NOP,DET,10,home,JS,assist,26,make3,3,J. Nelson,D. Miller
+94,1,0:50.0,36,30,NOP,DET,5,away,JS,assist,22,make3,3,R. Bullock,D. Buycks
+95,1,0:43.0,36,30,NOP,DET,7,home,JS,,25,miss3,0,J. Nelson,
+96,1,0:40.0,36,30,NOP,DET,3,away,DefReb,,,DefReb,,T. Harris,
+97,1,0:33.0,36,32,NOP,DET,7,away,HS,,10,make2,2,A. Drummond,
+98,1,0:20.0,36,32,NOP,DET,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Drummond,J. Holiday
+99,1,0:20.0,36,32,NOP,DET,0,home,FreeThrow,,,make1,0,J. Holiday,
+100,1,0:20.0,36,32,NOP,DET,0,home,OffReb,,,OffReb,,Team,
+101,1,0:20.0,37,32,NOP,DET,0,home,FreeThrow,,,make1,1,J. Holiday,
+102,1,0:00.0,37,34,NOP,DET,20,away,LU,assist,1,make2,2,A. Drummond,R. Bullock
+103,2,12:00.0,38,34,NOP,DET,0,home,FreeThrow,,,make1,1,D. Miller makes technical free throw,
+104,2,11:49.0,38,34,NOP,DET,11,home,JS,,25,miss3,0,D. Miller,
+105,2,11:45.0,38,34,NOP,DET,4,home,OffReb,,,OffReb,,D. Cousins,
+106,2,11:37.0,38,34,NOP,DET,8,home,bad pass,steal,,turnover,,D. Cousins,L. Kennard
+107,2,11:28.0,38,36,NOP,DET,9,away,LU,,2,make2,2,D. Buycks,
+108,2,11:15.0,38,36,NOP,DET,13,home,JS,,25,miss3,0,D. Miller,
+109,2,11:09.0,38,36,NOP,DET,6,away,DefReb,,,DefReb,,R. Bullock,
+110,2,10:50.0,38,36,NOP,DET,19,away,JS,,25,miss3,0,D. Buycks,
+111,2,10:50.0,38,36,NOP,DET,0,home,DefReb,,,DefReb,,Team,
+112,2,10:31.0,38,36,NOP,DET,19,home,JS,,8,miss2,0,D. Cousins,
+113,2,10:28.0,38,36,NOP,DET,3,away,DefReb,,,DefReb,,E. Moreland,
+114,2,10:23.0,38,38,NOP,DET,5,away,LU,,1,make2,2,D. Buycks,
+115,2,10:16.0,40,38,NOP,DET,7,home,JS,assist,9,make2,2,E. Moore,J. Nelson
+116,2,9:56.0,40,38,NOP,DET,20,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Miller,D. Buycks
+117,2,9:56.0,40,39,NOP,DET,0,away,FreeThrow,,,make1,1,D. Buycks,
+118,2,9:56.0,40,39,NOP,DET,0,home,Sub,,,,,J. Holiday,D. Miller
+119,2,9:56.0,40,40,NOP,DET,0,away,FreeThrow,,,make1,1,D. Buycks,
+120,2,9:43.0,40,40,NOP,DET,13,home,LU,,2,miss2,0,D. Cunningham,
+121,2,9:43.0,40,40,NOP,DET,0,away,DefReb,,,DefReb,,E. Moreland,
+122,2,9:34.0,40,40,NOP,DET,9,away,JS,,26,miss3,0,R. Bullock,
+123,2,9:34.0,40,40,NOP,DET,0,home,DefReb,,,DefReb,,D. Cousins,
+124,2,9:24.0,40,40,NOP,DET,10,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,E. Moreland,D. Cunningham
+125,2,9:24.0,40,40,NOP,DET,0,home,FreeThrow,,,make1,0,D. Cunningham,
+126,2,9:24.0,40,40,NOP,DET,0,home,OffReb,,,OffReb,,J. Nelson,
+127,2,9:24.0,40,40,NOP,DET,0,home,FreeThrow,,,make1,0,D. Cunningham,
+128,2,9:24.0,40,40,NOP,DET,0,home,OffReb,,,OffReb,,Team,
+129,2,9:24.0,40,41,NOP,DET,0,away,FreeThrow,,,make1,1,L. Kennard makes technical free throw,
+130,2,9:24.0,40,41,NOP,DET,0,home,TechnicalFoul,,,TechnicalFoul,,D. Cousins,
+131,2,9:24.0,40,42,NOP,DET,0,away,FreeThrow,,,make1,1,L. Kennard makes technical free throw,
+132,2,9:24.0,40,42,NOP,DET,0,away,Sub,,,,,I. Smith,D. Buycks
+133,2,9:16.0,40,42,NOP,DET,8,home,LU,,5,miss2,0,J. Holiday,
+134,2,9:13.0,40,42,NOP,DET,3,home,OffReb,,,OffReb,,J. Nelson,
+135,2,9:11.0,40,42,NOP,DET,2,home,Traveling,,,turnover,,J. Holiday,
+136,2,8:52.0,40,44,NOP,DET,19,away,JS,,17,make2,2,L. Kennard,
+137,2,8:41.0,40,44,NOP,DET,11,away,Sub,,,,,A. Bradley,R. Bullock
+138,2,8:40.0,40,44,NOP,DET,1,home,LU,,2,miss2,0,E. Moore,
+139,2,8:40.0,40,44,NOP,DET,0,away,DefReb,,,DefReb,,Team,
+140,2,8:19.0,40,46,NOP,DET,21,away,LU,,2,make2,2,A. Bradley,
+141,2,8:10.0,40,46,NOP,DET,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Moreland,D. Cousins
+142,2,8:10.0,40,46,NOP,DET,0,home,Sub,,,,,A. Davis,D. Cunningham
+143,2,8:05.0,40,46,NOP,DET,5,home,Traveling,,,turnover,,D. Cousins,
+144,2,7:52.0,40,46,NOP,DET,13,away,JS,,21,miss2,0,A. Bradley,
+145,2,7:49.0,40,46,NOP,DET,3,home,DefReb,,,DefReb,,A. Davis,
+146,2,7:42.0,40,46,NOP,DET,7,home,JS,,25,miss3,0,D. Cousins,
+147,2,7:37.0,40,46,NOP,DET,5,away,DefReb,,,DefReb,,A. Tolliver,
+148,2,7:32.0,40,46,NOP,DET,5,away,JS,,26,miss3,0,A. Tolliver,
+149,2,7:32.0,40,46,NOP,DET,0,home,DefReb,,,DefReb,,Team,
+150,2,7:16.0,42,46,NOP,DET,16,home,DK,assist,1,make2,2,D. Cousins,J. Nelson
+151,2,7:02.0,42,46,NOP,DET,14,away,JS,,13,miss2,0,I. Smith,
+152,2,7:02.0,42,46,NOP,DET,0,home,DefReb,,,DefReb,,A. Davis,
+153,2,6:53.0,42,46,NOP,DET,9,home,LU,block,1,miss2,0,J. Holiday,E. Moreland
+154,2,6:53.0,42,46,NOP,DET,0,home,OffReb,,,OffReb,,A. Davis,
+155,2,6:53.0,42,46,NOP,DET,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Tolliver,A. Davis
+156,2,6:53.0,42,46,NOP,DET,0,home,Timeout,,,,,,
+157,2,6:53.0,42,46,NOP,DET,0,home,Sub,,,,,R. Rondo,J. Nelson
+158,2,6:53.0,42,46,NOP,DET,0,away,Sub,,,,,A. Drummond,E. Moreland
+159,2,6:37.0,42,46,NOP,DET,16,home,DK,block,2,miss2,0,J. Holiday,A. Drummond
+160,2,6:29.0,42,46,NOP,DET,8,away,DefReb,,,DefReb,,L. Kennard,
+161,2,6:28.0,42,46,NOP,DET,1,away,LU,block,1,miss2,0,A. Drummond,A. Davis
+162,2,6:28.0,42,46,NOP,DET,0,home,DefReb,,,DefReb,,A. Davis,
+163,2,6:16.0,44,46,NOP,DET,12,home,JS,,5,make2,2,E. Moore,
+164,2,6:01.0,44,48,NOP,DET,15,away,JS,,12,make2,2,L. Kennard,
+165,2,5:53.0,44,48,NOP,DET,8,home,LU,,1,miss2,0,R. Rondo,
+166,2,5:53.0,44,48,NOP,DET,0,away,DefReb,,,DefReb,,A. Drummond,
+167,2,5:37.0,44,48,NOP,DET,16,away,JS,,25,miss3,0,A. Tolliver,
+168,2,5:34.0,44,48,NOP,DET,3,home,DefReb,,,DefReb,,J. Holiday,
+169,2,5:28.0,44,48,NOP,DET,6,home,Traveling,,,turnover,,E. Moore,
+170,2,5:28.0,44,48,NOP,DET,0,away,Sub,,,,,T. Harris,L. Kennard
+171,2,5:15.0,44,48,NOP,DET,13,away,bad pass,steal,,turnover,,A. Tolliver,E. Moore
+172,2,5:11.0,46,48,NOP,DET,4,home,LU,,0,make2,2,E. Moore,
+173,2,5:00.0,46,48,NOP,DET,11,away,bad pass,steal,,turnover,,I. Smith,R. Rondo
+174,2,4:58.0,46,48,NOP,DET,2,home,LU,,0,miss2,0,R. Rondo,
+175,2,4:58.0,46,48,NOP,DET,0,home,OffReb,,,OffReb,,A. Davis,
+176,2,4:57.0,46,48,NOP,DET,1,home,LU,,2,miss2,0,A. Davis,
+177,2,4:57.0,46,48,NOP,DET,0,home,OffReb,,,OffReb,,E. Moore,
+178,2,4:56.0,48,48,NOP,DET,1,home,LU,,1,make2,2,E. Moore,
+179,2,4:32.0,48,48,NOP,DET,24,away,LU,,2,miss2,0,A. Drummond,
+180,2,4:32.0,48,48,NOP,DET,0,away,OffReb,,,OffReb,,A. Drummond,
+181,2,4:27.0,48,50,NOP,DET,5,away,LU,,0,make2,2,A. Drummond,
+182,2,4:22.0,50,50,NOP,DET,5,home,HS,assist,3,make2,2,J. Holiday,R. Rondo
+183,2,4:13.0,50,50,NOP,DET,9,away,Timeout,,,,,,
+184,2,4:13.0,50,50,NOP,DET,0,home,Sub,,,,,D. Cunningham,D. Cousins
+185,2,3:57.0,50,50,NOP,DET,16,away,JS,,19,miss2,0,A. Bradley,
+186,2,3:53.0,50,50,NOP,DET,4,home,DefReb,,,DefReb,,D. Cunningham,
+187,2,3:38.0,52,50,NOP,DET,15,home,JS,,20,make2,2,R. Rondo,
+188,2,3:24.0,52,50,NOP,DET,14,away,BadPass,,,turnover,,A. Bradley,
+189,2,3:09.0,52,50,NOP,DET,15,home,JS,,24,miss3,0,D. Cunningham,
+190,2,3:04.0,52,50,NOP,DET,5,away,DefReb,,,DefReb,,I. Smith,
+191,2,2:55.0,52,52,NOP,DET,9,away,LU,assist,2,make2,2,A. Drummond,A. Bradley
+192,2,2:40.0,55,52,NOP,DET,15,home,JS,assist,22,make3,3,A. Davis,R. Rondo
+193,2,2:20.0,55,52,NOP,DET,20,away,LU,,6,miss2,0,T. Harris,
+194,2,2:14.0,55,52,NOP,DET,6,away,OffReb,,,OffReb,,T. Harris,
+195,2,2:14.0,55,52,NOP,DET,0,away,LU,,0,miss2,0,T. Harris,
+196,2,2:11.0,55,52,NOP,DET,3,home,DefReb,,,DefReb,,A. Davis,
+197,2,2:10.0,55,52,NOP,DET,1,home,BadPass,,,turnover,,J. Holiday,
+198,2,2:10.0,55,52,NOP,DET,0,away,Sub,,,,,R. Bullock,A. Tolliver
+199,2,2:00.0,55,52,NOP,DET,10,away,JS,,15,miss2,0,T. Harris,
+200,2,1:57.0,55,52,NOP,DET,3,away,OffReb,,,OffReb,,I. Smith,
+201,2,1:54.0,55,54,NOP,DET,3,away,JS,,15,make2,2,I. Smith,
+202,2,1:36.0,57,54,NOP,DET,18,home,DK,assist,1,make2,2,A. Davis,D. Cunningham
+203,2,1:20.0,57,54,NOP,DET,16,away,JS,,23,miss3,0,R. Bullock,
+204,2,1:18.0,57,54,NOP,DET,2,home,DefReb,,,DefReb,,A. Davis,
+205,2,1:07.0,57,54,NOP,DET,11,home,JS,,24,miss3,0,J. Holiday,
+206,2,1:04.0,57,54,NOP,DET,3,away,DefReb,,,DefReb,,I. Smith,
+207,2,1:00.0,57,54,NOP,DET,4,away,LU,block,2,miss2,0,I. Smith,J. Holiday
+208,2,0:57.0,57,54,NOP,DET,3,away,OffReb,,,OffReb,,A. Bradley,
+209,2,0:57.0,57,56,NOP,DET,0,away,JS,assist,18,make2,2,I. Smith,A. Bradley
+210,2,0:43.0,59,56,NOP,DET,14,home,LU,,1,make2,2,R. Rondo,
+211,2,0:26.0,59,56,NOP,DET,17,away,BadPass,,,turnover,,A. Drummond,
+212,2,0:26.0,59,56,NOP,DET,0,away,Sub,,,,,D. Buycks,I. Smith
+213,2,0:26.0,59,56,NOP,DET,0,home,Sub,,,,,D. Cousins,D. Cunningham
+214,2,0:26.0,59,56,NOP,DET,0,away,Sub,,,,,A. Tolliver,T. Harris
+215,2,0:04.0,59,56,NOP,DET,22,home,JS,,6,miss2,0,J. Holiday,
+216,2,0:00.0,59,56,NOP,DET,4,away,DefReb,,,DefReb,,A. Tolliver,
+217,2,0:00.0,59,56,NOP,DET,0,away,JS,,29,miss3,0,D. Buycks,
+218,2,0:00.0,59,56,NOP,DET,0,away,OffReb,,,OffReb,,Team,
+219,3,11:48.0,61,56,NOP,DET,12,home,DK,assist,0,make2,2,A. Davis,E. Moore
+220,3,11:33.0,61,56,NOP,DET,15,away,JS,,19,miss2,0,T. Harris,
+221,3,11:30.0,61,56,NOP,DET,3,home,DefReb,,,DefReb,,A. Davis,
+222,3,11:19.0,61,56,NOP,DET,11,home,LU,,1,miss2,0,J. Holiday,
+223,3,11:16.0,61,56,NOP,DET,3,away,DefReb,,,DefReb,,A. Bradley,
+224,3,11:02.0,61,58,NOP,DET,14,away,LU,assist,0,make2,2,I. Smith,A. Drummond
+225,3,10:49.0,61,58,NOP,DET,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Drummond,D. Cousins
+226,3,10:49.0,62,58,NOP,DET,0,home,FreeThrow,,,make1,1,D. Cousins,
+227,3,10:49.0,63,58,NOP,DET,0,home,FreeThrow,,,make1,1,D. Cousins,
+228,3,10:28.0,63,60,NOP,DET,21,away,LU,,1,make2,2,A. Tolliver,
+229,3,10:13.0,66,60,NOP,DET,15,home,JS,assist,24,make3,3,E. Moore,R. Rondo
+230,3,9:54.0,66,60,NOP,DET,19,away,JS,,18,miss2,0,A. Bradley,
+231,3,9:51.0,66,60,NOP,DET,3,home,DefReb,,,DefReb,,D. Cousins,
+232,3,9:45.0,68,60,NOP,DET,6,home,LU,assist,1,make2,2,E. Moore,R. Rondo
+233,3,9:45.0,68,60,NOP,DET,0,away,Timeout,,,,,,
+234,3,9:29.0,68,60,NOP,DET,16,away,JS,,25,miss3,0,A. Tolliver,
+235,3,9:24.0,68,60,NOP,DET,5,home,DefReb,,,DefReb,,A. Davis,
+236,3,9:13.0,70,60,NOP,DET,11,home,JS,,1,make2,2,E. Moore,
+237,3,8:59.0,70,62,NOP,DET,14,away,LU,assist,2,make2,2,A. Bradley,A. Drummond
+238,3,8:49.0,72,62,NOP,DET,10,home,LU,assist,2,make2,2,J. Holiday,R. Rondo
+239,3,8:33.0,72,62,NOP,DET,16,away,LU,block,3,miss2,0,A. Bradley,J. Holiday
+240,3,8:30.0,72,62,NOP,DET,3,away,OffReb,,,OffReb,,A. Drummond,
+241,3,8:30.0,72,62,NOP,DET,0,away,LU,,2,miss2,0,A. Drummond,
+242,3,8:30.0,72,62,NOP,DET,0,home,DefReb,,,DefReb,,Team,
+243,3,8:10.0,72,62,NOP,DET,20,home,JS,,4,miss2,0,D. Cousins,
+244,3,8:06.0,72,62,NOP,DET,4,away,DefReb,,,DefReb,,A. Drummond,
+245,3,8:00.0,72,62,NOP,DET,6,away,JS,,6,miss2,0,A. Drummond,
+246,3,8:00.0,72,62,NOP,DET,0,home,DefReb,,,DefReb,,D. Cousins,
+247,3,7:53.0,72,62,NOP,DET,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Tolliver,A. Davis
+248,3,7:53.0,73,62,NOP,DET,0,home,FreeThrow,,,make1,1,A. Davis,
+249,3,7:53.0,74,62,NOP,DET,0,home,FreeThrow,,,make1,1,A. Davis,
+250,3,7:39.0,74,62,NOP,DET,14,away,LU,,1,miss2,0,I. Smith,
+251,3,7:36.0,74,62,NOP,DET,3,away,OffReb,,,OffReb,,A. Tolliver,
+252,3,7:33.0,74,62,NOP,DET,3,away,JS,,22,miss3,0,I. Smith,
+253,3,7:33.0,74,62,NOP,DET,0,home,DefReb,,,DefReb,,Team,
+254,3,7:33.0,74,62,NOP,DET,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Tolliver,A. Davis
+255,3,7:18.0,76,62,NOP,DET,15,home,JS,assist,16,make2,2,A. Davis,E. Moore
+256,3,6:52.0,76,64,NOP,DET,26,away,JS,assist,11,make2,2,T. Harris,I. Smith
+257,3,6:34.0,76,64,NOP,DET,18,home,lost ball,steal,,turnover,,D. Cousins,A. Bradley
+258,3,6:27.0,76,64,NOP,DET,7,away,LU,,1,miss2,0,A. Drummond,
+259,3,6:24.0,76,64,NOP,DET,3,home,DefReb,,,DefReb,,E. Moore,
+260,3,6:23.0,78,64,NOP,DET,1,home,DK,assist,1,make2,2,A. Davis,D. Cousins
+261,3,6:06.0,78,67,NOP,DET,17,away,JS,assist,24,make3,3,A. Bradley,I. Smith
+262,3,5:41.0,80,67,NOP,DET,25,home,JS,,9,make2,2,A. Davis,
+263,3,5:28.0,80,69,NOP,DET,13,away,JS,,17,make2,2,I. Smith,
+264,3,5:03.0,80,69,NOP,DET,25,away,ChargeFoul,DrawnBy,,ChargeFoul,,J. Holiday,A. Bradley
+265,3,5:03.0,80,69,NOP,DET,0,home,OffensiveFoul,,,turnover,,J. Holiday,
+266,3,5:03.0,80,69,NOP,DET,0,home,Sub,,,,,D. Miller,J. Holiday
+267,3,4:52.0,80,71,NOP,DET,11,away,JS,,16,make2,2,A. Bradley,
+268,3,4:44.0,80,71,NOP,DET,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bradley,A. Davis
+269,3,4:44.0,80,71,NOP,DET,0,home,FreeThrow,,,make1,0,A. Davis,
+270,3,4:44.0,80,71,NOP,DET,0,home,OffReb,,,OffReb,,Team,
+271,3,4:44.0,81,71,NOP,DET,0,home,FreeThrow,,,make1,1,A. Davis,
+272,3,4:41.0,81,71,NOP,DET,3,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Davis,A. Tolliver
+273,3,4:41.0,81,71,NOP,DET,0,home,Sub,,,,,D. Cunningham,A. Davis
+274,3,4:41.0,81,71,NOP,DET,0,away,Sub,,,,,R. Bullock,A. Tolliver
+275,3,4:27.0,81,74,NOP,DET,14,away,JS,assist,22,make3,3,A. Bradley,T. Harris
+276,3,4:04.0,81,74,NOP,DET,23,home,JS,,23,miss3,0,E. Moore,
+277,3,4:01.0,81,74,NOP,DET,3,away,DefReb,,,DefReb,,A. Drummond,
+278,3,3:57.0,81,74,NOP,DET,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Moore,I. Smith
+279,3,3:57.0,81,75,NOP,DET,0,away,FreeThrow,,,make1,1,I. Smith,
+280,3,3:57.0,81,75,NOP,DET,0,home,Sub,,,,,I. Clark,E. Moore
+281,3,3:57.0,81,76,NOP,DET,0,away,FreeThrow,,,make1,1,I. Smith,
+282,3,3:43.0,81,76,NOP,DET,14,home,JS,,23,miss3,0,D. Cunningham,
+283,3,3:39.0,81,76,NOP,DET,4,away,DefReb,,,DefReb,,I. Smith,
+284,3,3:23.0,81,78,NOP,DET,16,away,LU,assist,6,make2,2,A. Bradley,T. Harris
+285,3,3:02.0,81,78,NOP,DET,21,home,JS,,25,miss3,0,R. Rondo,
+286,3,2:59.0,81,78,NOP,DET,3,away,DefReb,,,DefReb,,A. Drummond,
+287,3,2:56.0,81,78,NOP,DET,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rondo,I. Smith
+288,3,2:56.0,81,78,NOP,DET,0,home,Timeout,,,,,,
+289,3,2:56.0,81,79,NOP,DET,0,away,FreeThrow,,,make1,1,I. Smith,
+290,3,2:56.0,81,80,NOP,DET,0,away,FreeThrow,,,make1,1,I. Smith,
+291,3,2:47.0,81,80,NOP,DET,9,home,AFPFoul,DrawnBy,,AFPFoul,,A. Drummond,D. Cousins
+292,3,2:47.0,81,80,NOP,DET,0,home,FreeThrow,,,make1,0,D. Cousins,
+293,3,2:47.0,81,80,NOP,DET,0,home,OffReb,,,OffReb,,Team,
+294,3,2:47.0,82,80,NOP,DET,0,home,FreeThrow,,,make1,1,D. Cousins,
+295,3,2:37.0,82,80,NOP,DET,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cunningham,I. Smith
+296,3,2:37.0,82,80,NOP,DET,0,home,Turnover,,,turnover,,D. Cunningham,
+297,3,2:37.0,82,80,NOP,DET,0,home,Sub,,,,,J. Holiday,R. Rondo
+298,3,2:21.0,82,80,NOP,DET,16,away,JS,,16,miss2,0,R. Bullock,
+299,3,2:21.0,82,80,NOP,DET,0,home,DefReb,,,DefReb,,Team,
+300,3,2:07.0,84,80,NOP,DET,14,home,LU,,0,make2,2,I. Clark,
+301,3,1:49.0,84,82,NOP,DET,18,away,LU,,0,make2,2,A. Bradley,
+302,3,1:34.0,86,82,NOP,DET,15,home,JS,assist,16,make2,2,D. Miller,D. Cousins
+303,3,1:14.0,86,82,NOP,DET,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,T. Harris
+304,3,1:14.0,86,83,NOP,DET,0,away,FreeThrow,,,make1,1,T. Harris,
+305,3,1:14.0,86,83,NOP,DET,0,away,Sub,,,,,E. Moreland,A. Drummond
+306,3,1:14.0,86,83,NOP,DET,0,away,Sub,,,,,D. Buycks,I. Smith
+307,3,1:14.0,86,84,NOP,DET,0,away,FreeThrow,,,make1,1,T. Harris,
+308,3,1:06.0,86,84,NOP,DET,8,home,Turnover,,,turnover,,J. Holiday,
+309,3,0:55.0,86,84,NOP,DET,11,away,JS,,25,miss3,0,A. Bradley,
+310,3,0:52.0,86,84,NOP,DET,3,home,DefReb,,,DefReb,,I. Clark,
+311,3,0:31.0,86,84,NOP,DET,21,home,ShotClockViolation,,,turnover,,Team,
+312,3,0:09.0,86,84,NOP,DET,22,away,JS,,20,miss2,0,D. Buycks,
+313,3,0:05.0,86,84,NOP,DET,4,home,DefReb,,,DefReb,,D. Miller,
+314,3,0:00.0,86,84,NOP,DET,5,home,JS,,15,miss2,0,J. Holiday,
+315,3,0:00.0,86,84,NOP,DET,0,home,OffReb,,,OffReb,,Team,
+316,4,11:46.0,86,86,NOP,DET,14,away,JS,,12,make2,2,T. Harris,
+317,4,11:30.0,86,86,NOP,DET,16,home,BadPass,,,turnover,,D. Miller,
+318,4,11:06.0,86,89,NOP,DET,24,away,JS,assist,26,make3,3,T. Harris,E. Moreland
+319,4,10:43.0,86,89,NOP,DET,23,home,JS,,15,miss2,0,J. Holiday,
+320,4,10:39.0,86,89,NOP,DET,4,away,DefReb,,,DefReb,,L. Kennard,
+321,4,10:30.0,86,89,NOP,DET,9,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,E. Moreland,D. Cunningham
+322,4,10:30.0,86,89,NOP,DET,0,away,OffensiveFoul,,,turnover,,E. Moreland,
+323,4,10:30.0,86,89,NOP,DET,0,home,Sub,,,,,D. Cousins,C. Diallo
+324,4,10:15.0,86,89,NOP,DET,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,D. Cousins
+325,4,10:15.0,86,89,NOP,DET,0,home,FreeThrow,,,make1,0,D. Cousins,
+326,4,10:15.0,86,89,NOP,DET,0,home,OffReb,,,OffReb,,Team,
+327,4,10:15.0,87,89,NOP,DET,0,home,FreeThrow,,,make1,1,D. Cousins,
+328,4,10:03.0,87,89,NOP,DET,12,away,JS,,6,miss2,0,T. Harris,
+329,4,10:01.0,87,89,NOP,DET,2,home,DefReb,,,DefReb,,J. Holiday,
+330,4,9:51.0,90,89,NOP,DET,10,home,JS,assist,25,make3,3,D. Cousins,J. Holiday
+331,4,9:28.0,90,89,NOP,DET,23,away,JS,,10,miss2,0,T. Harris,
+332,4,9:25.0,90,89,NOP,DET,3,home,DefReb,,,DefReb,,D. Cunningham,
+333,4,9:16.0,92,89,NOP,DET,9,home,LU,assist,1,make2,2,D. Cousins,J. Holiday
+334,4,8:52.0,92,89,NOP,DET,24,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Clark,D. Buycks
+335,4,8:52.0,92,90,NOP,DET,0,away,FreeThrow,,,make1,1,D. Buycks,
+336,4,8:52.0,92,90,NOP,DET,0,away,Sub,,,,,A. Drummond,E. Moreland
+337,4,8:52.0,92,90,NOP,DET,0,away,Sub,,,,,A. Tolliver,T. Harris
+338,4,8:52.0,92,91,NOP,DET,0,away,FreeThrow,,,make1,1,D. Buycks,
+339,4,8:32.0,94,91,NOP,DET,20,home,LU,assist,0,make2,2,J. Holiday,D. Miller
+340,4,8:17.0,94,91,NOP,DET,15,away,bad pass,steal,,turnover,,D. Buycks,J. Holiday
+341,4,8:12.0,96,91,NOP,DET,5,home,LU,,1,make2,2,D. Cousins,
+342,4,8:12.0,96,91,NOP,DET,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Kennard,D. Cousins
+343,4,8:12.0,97,91,NOP,DET,0,home,FreeThrow,,,make1,1,D. Cousins,
+344,4,7:59.0,97,91,NOP,DET,13,away,JS,,19,miss2,0,L. Kennard,
+345,4,7:55.0,97,91,NOP,DET,4,home,DefReb,,,DefReb,,D. Cousins,
+346,4,7:40.0,99,91,NOP,DET,15,home,LU,,1,make2,2,D. Cousins,
+347,4,7:40.0,99,91,NOP,DET,0,away,Timeout,,,,,,
+348,4,7:40.0,99,91,NOP,DET,0,away,Sub,,,,,I. Smith,D. Buycks
+349,4,7:24.0,99,91,NOP,DET,16,away,LU,,1,miss2,0,L. Kennard,
+350,4,7:22.0,99,91,NOP,DET,2,away,OffReb,,,OffReb,,A. Drummond,
+351,4,7:22.0,99,91,NOP,DET,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Miller,A. Drummond
+352,4,7:13.0,99,91,NOP,DET,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Clark,R. Bullock
+353,4,7:13.0,99,92,NOP,DET,0,away,FreeThrow,,,make1,1,R. Bullock,
+354,4,7:13.0,99,93,NOP,DET,0,away,FreeThrow,,,make1,1,R. Bullock,
+355,4,6:52.0,101,93,NOP,DET,21,home,JS,assist,17,make2,2,D. Cunningham,J. Holiday
+356,4,6:35.0,101,93,NOP,DET,17,away,JS,,26,miss3,0,R. Bullock,
+357,4,6:32.0,101,93,NOP,DET,3,home,DefReb,,,DefReb,,J. Holiday,
+358,4,6:17.0,101,93,NOP,DET,15,home,JS,,26,miss3,0,D. Cousins,
+359,4,6:14.0,101,93,NOP,DET,3,home,OffReb,,,OffReb,,J. Holiday,
+360,4,6:11.0,101,93,NOP,DET,3,home,JS,,23,miss3,0,J. Holiday,
+361,4,6:09.0,101,93,NOP,DET,2,home,OffReb,,,OffReb,,D. Cunningham,
+362,4,6:06.0,101,93,NOP,DET,3,home,BadPass,,,turnover,,D. Cousins,
+363,4,6:06.0,101,93,NOP,DET,0,home,Sub,,,,,R. Rondo,I. Clark
+364,4,6:06.0,101,93,NOP,DET,0,home,Sub,,,,,E. Moore,D. Miller
+365,4,6:06.0,101,93,NOP,DET,0,away,Sub,,,,,T. Harris,L. Kennard
+366,4,6:06.0,101,93,NOP,DET,0,away,Sub,,,,,A. Bradley,A. Tolliver
+367,4,5:57.0,101,93,NOP,DET,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Moore,A. Bradley
+368,4,5:49.0,101,93,NOP,DET,8,away,LU,block,1,miss2,0,A. Bradley,D. Cousins
+369,4,5:49.0,101,93,NOP,DET,0,away,OffReb,,,OffReb,,Team,
+370,4,5:46.0,101,93,NOP,DET,3,away,Traveling,,,turnover,,A. Drummond,
+371,4,5:29.0,101,93,NOP,DET,17,home,LU,block,6,miss2,0,D. Cunningham,T. Harris
+372,4,5:24.0,101,93,NOP,DET,5,away,DefReb,,,DefReb,,A. Drummond,
+373,4,5:23.0,101,95,NOP,DET,1,away,LU,assist,1,make2,2,T. Harris,I. Smith
+374,4,5:13.0,103,95,NOP,DET,10,home,LU,assist,1,make2,2,D. Cousins,R. Rondo
+375,4,4:56.0,103,95,NOP,DET,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,A. Bradley
+376,4,4:56.0,103,95,NOP,DET,0,away,FreeThrow,,,make1,0,A. Bradley,
+377,4,4:56.0,103,95,NOP,DET,0,away,OffReb,,,OffReb,,Team,
+378,4,4:56.0,103,96,NOP,DET,0,away,FreeThrow,,,make1,1,A. Bradley,
+379,4,4:40.0,103,96,NOP,DET,16,home,JS,,24,miss3,0,J. Holiday,
+380,4,4:36.0,103,96,NOP,DET,4,away,DefReb,,,DefReb,,A. Drummond,
+381,4,4:26.0,103,99,NOP,DET,10,away,JS,assist,25,make3,3,A. Bradley,I. Smith
+382,4,4:26.0,103,99,NOP,DET,0,home,Timeout,,,,,,
+383,4,4:14.0,103,99,NOP,DET,12,home,JS,,25,miss3,0,D. Cousins,
+384,4,4:11.0,103,99,NOP,DET,3,away,DefReb,,,DefReb,,R. Bullock,
+385,4,4:04.0,103,101,NOP,DET,7,away,LU,assist,3,make2,2,A. Bradley,R. Bullock
+386,4,3:45.0,103,101,NOP,DET,19,home,OutOfBoundsLB,,,turnover,,J. Holiday,
+387,4,3:32.0,103,101,NOP,DET,13,away,JS,,22,miss3,0,R. Bullock,
+388,4,3:29.0,103,101,NOP,DET,3,home,DefReb,,,DefReb,,J. Holiday,
+389,4,3:10.0,105,101,NOP,DET,19,home,JS,,12,make2,2,E. Moore,
+390,4,2:42.0,105,101,NOP,DET,28,away,JS,,9,miss2,0,T. Harris,
+391,4,2:42.0,105,101,NOP,DET,0,away,OffReb,,,OffReb,,A. Drummond,
+392,4,2:39.0,105,101,NOP,DET,3,away,LU,,2,miss2,0,A. Drummond,
+393,4,2:39.0,105,101,NOP,DET,0,away,OffReb,,,OffReb,,T. Harris,
+394,4,2:39.0,105,101,NOP,DET,0,away,LU,block,1,miss2,0,T. Harris,D. Cunningham
+395,4,2:39.0,105,101,NOP,DET,0,away,OffReb,,,OffReb,,T. Harris,
+396,4,2:36.0,105,103,NOP,DET,3,away,LU,,1,make2,2,T. Harris,
+397,4,2:17.0,105,103,NOP,DET,19,home,lost ball,steal,,turnover,,E. Moore,T. Harris
+398,4,2:14.0,105,103,NOP,DET,3,away,LU,block,1,miss2,0,R. Bullock,D. Cousins
+399,4,2:14.0,105,103,NOP,DET,0,away,OffReb,,,OffReb,,Team,
+400,4,2:01.0,105,105,NOP,DET,13,away,LU,,0,make2,2,R. Bullock,
+401,4,1:49.0,105,105,NOP,DET,12,home,AFPFoul,DrawnBy,,AFPFoul,,R. Bullock,D. Cousins
+402,4,1:37.0,105,105,NOP,DET,12,home,LU,,2,miss2,0,J. Holiday,
+403,4,1:37.0,105,105,NOP,DET,0,home,OffReb,,,OffReb,,D. Cousins,
+404,4,1:37.0,107,105,NOP,DET,0,home,LU,,0,make2,2,D. Cousins,
+405,4,1:28.0,107,105,NOP,DET,9,away,JS,block,25,miss3,0,A. Bradley,J. Holiday
+406,4,1:28.0,107,105,NOP,DET,0,away,OffReb,,,OffReb,,I. Smith,
+407,4,1:23.0,107,105,NOP,DET,5,away,LU,,1,miss2,0,I. Smith,
+408,4,1:23.0,107,105,NOP,DET,0,home,DefReb,,,DefReb,,D. Cousins,
+409,4,1:21.0,109,105,NOP,DET,2,home,LU,,1,make2,2,R. Rondo,
+410,4,1:21.0,109,105,NOP,DET,0,away,Timeout,,,,,,
+411,4,1:14.0,109,105,NOP,DET,7,away,JS,,23,miss3,0,T. Harris,
+412,4,1:10.0,109,105,NOP,DET,4,away,OffReb,,,OffReb,,A. Drummond,
+413,4,1:04.0,109,107,NOP,DET,6,away,DK,assist,0,make2,2,A. Drummond,A. Bradley
+414,4,0:49.0,111,107,NOP,DET,15,home,LU,,1,make2,2,R. Rondo,
+415,4,0:39.0,111,109,NOP,DET,10,away,DK,assist,1,make2,2,A. Drummond,R. Bullock
+416,4,0:25.0,111,109,NOP,DET,14,home,JS,,24,miss3,0,D. Cousins,
+417,4,0:20.0,111,109,NOP,DET,5,away,DefReb,,,DefReb,,T. Harris,
+418,4,0:11.0,111,109,NOP,DET,9,away,JS,,21,miss2,0,A. Bradley,
+419,4,0:08.0,111,109,NOP,DET,3,home,DefReb,,,DefReb,,D. Cousins,
+420,4,0:05.0,111,109,NOP,DET,3,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Bradley,J. Holiday
+421,4,0:05.0,112,109,NOP,DET,0,home,FreeThrow,,,make1,1,J. Holiday,
+422,4,0:05.0,112,109,NOP,DET,0,away,Sub,,,,,E. Moreland,R. Bullock
+423,4,0:05.0,112,109,NOP,DET,0,home,FreeThrow,,,make1,0,J. Holiday,
+424,4,0:05.0,112,109,NOP,DET,0,away,DefReb,,,DefReb,,A. Drummond,
+425,4,0:05.0,112,109,NOP,DET,0,away,Timeout,,,,,,
+426,4,0:05.0,112,109,NOP,DET,0,away,Sub,,,,,R. Bullock,E. Moreland
+427,4,0:00.0,112,109,NOP,DET,5,away,JS,,23,miss3,0,A. Bradley,
+428,4,0:00.0,112,109,NOP,DET,0,home,DefReb,,,DefReb,,E. Moore,

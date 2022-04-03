@@ -1,0 +1,451 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:48.0,0,0,CHI,MIA,12,home,JS,,21,miss2,0,Z. LaVine,
+1,1,11:45.0,0,0,CHI,MIA,3,away,DefReb,,,DefReb,,J. Johnson,
+2,1,11:39.0,0,0,CHI,MIA,6,away,JS,,9,miss2,0,R. McGruder,
+3,1,11:34.0,0,0,CHI,MIA,5,home,DefReb,,,DefReb,,K. Dunn,
+4,1,11:15.0,3,0,CHI,MIA,19,home,JS,assist,26,make3,3,R. Lopez,Z. LaVine
+5,1,10:55.0,3,2,CHI,MIA,20,away,LU,assist,2,make2,2,J. Johnson,R. McGruder
+6,1,10:55.0,3,2,CHI,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,Z. LaVine,J. Johnson
+7,1,10:55.0,3,3,CHI,MIA,0,away,FreeThrow,,,make1,1,J. Johnson,
+8,1,10:37.0,3,3,CHI,MIA,18,home,JS,,25,miss3,0,L. Markkanen,
+9,1,10:33.0,3,3,CHI,MIA,4,away,DefReb,,,DefReb,,J. Richardson,
+10,1,10:24.0,3,3,CHI,MIA,9,away,JS,,9,miss2,0,J. Winslow,
+11,1,10:22.0,3,3,CHI,MIA,2,away,OffReb,,,OffReb,,H. Whiteside,
+12,1,10:16.0,3,6,CHI,MIA,6,away,JS,assist,26,make3,3,J. Richardson,J. Johnson
+13,1,9:53.0,3,6,CHI,MIA,23,home,HS,,6,miss2,0,R. Lopez,
+14,1,9:50.0,3,6,CHI,MIA,3,away,DefReb,,,DefReb,,R. McGruder,
+15,1,9:42.0,3,6,CHI,MIA,8,away,JS,,25,miss3,0,R. McGruder,
+16,1,9:39.0,3,6,CHI,MIA,3,home,DefReb,,,DefReb,,L. Markkanen,
+17,1,9:32.0,3,6,CHI,MIA,7,home,LU,,2,miss2,0,C. Hutchison,
+18,1,9:27.0,3,6,CHI,MIA,5,home,OffReb,,,OffReb,,L. Markkanen,
+19,1,9:27.0,3,6,CHI,MIA,0,home,LU,,0,miss2,0,L. Markkanen,
+20,1,9:26.0,3,6,CHI,MIA,1,away,DefReb,,,DefReb,,R. McGruder,
+21,1,9:24.0,3,6,CHI,MIA,2,away,JS,,25,miss3,0,J. Richardson,
+22,1,9:21.0,3,6,CHI,MIA,3,home,DefReb,,,DefReb,,C. Hutchison,
+23,1,9:11.0,3,6,CHI,MIA,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. McGruder,Z. LaVine
+24,1,9:11.0,4,6,CHI,MIA,0,home,FreeThrow,,,make1,1,Z. LaVine,
+25,1,9:11.0,5,6,CHI,MIA,0,home,FreeThrow,,,make1,1,Z. LaVine,
+26,1,8:55.0,5,6,CHI,MIA,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Hutchison,J. Winslow
+27,1,8:55.0,5,7,CHI,MIA,0,away,FreeThrow,,,make1,1,J. Winslow,
+28,1,8:55.0,5,7,CHI,MIA,0,away,FreeThrow,,,make1,0,J. Winslow,
+29,1,8:52.0,5,7,CHI,MIA,3,home,DefReb,,,DefReb,,C. Hutchison,
+30,1,8:46.0,5,7,CHI,MIA,6,home,JS,,14,miss2,0,K. Dunn,
+31,1,8:44.0,5,7,CHI,MIA,2,away,DefReb,,,DefReb,,Team,
+32,1,8:29.0,5,7,CHI,MIA,15,away,JS,,23,miss3,0,R. McGruder,
+33,1,8:25.0,5,7,CHI,MIA,4,home,DefReb,,,DefReb,,K. Dunn,
+34,1,8:20.0,5,7,CHI,MIA,5,home,LU,,4,miss2,0,C. Hutchison,
+35,1,8:20.0,5,7,CHI,MIA,0,home,OffReb,,,OffReb,,L. Markkanen,
+36,1,8:13.0,7,7,CHI,MIA,7,home,LU,,0,make2,2,L. Markkanen,
+37,1,8:11.0,7,7,CHI,MIA,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Markkanen,H. Whiteside
+38,1,7:58.0,7,7,CHI,MIA,13,away,JS,,24,miss3,0,R. McGruder,
+39,1,7:50.0,7,7,CHI,MIA,8,away,OffReb,,,OffReb,,H. Whiteside,
+40,1,7:50.0,7,7,CHI,MIA,0,away,LU,,1,miss2,0,H. Whiteside,
+41,1,7:49.0,7,7,CHI,MIA,1,home,DefReb,,,DefReb,,L. Markkanen,
+42,1,7:41.0,7,7,CHI,MIA,8,home,LU,,2,miss2,0,K. Dunn,
+43,1,7:39.0,7,7,CHI,MIA,2,away,DefReb,,,DefReb,,J. Winslow,
+44,1,7:37.0,7,7,CHI,MIA,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Hutchison,J. Winslow
+45,1,7:37.0,7,8,CHI,MIA,0,away,FreeThrow,,,make1,1,J. Winslow,
+46,1,7:37.0,7,8,CHI,MIA,0,home,Sub,,,,,W. Selden,C. Hutchison
+47,1,7:37.0,7,9,CHI,MIA,0,away,FreeThrow,,,make1,1,J. Winslow,
+48,1,7:25.0,9,9,CHI,MIA,12,home,JS,,9,make2,2,L. Markkanen,
+49,1,7:25.0,9,9,CHI,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,L. Markkanen
+50,1,7:25.0,10,9,CHI,MIA,0,home,FreeThrow,,,make1,1,L. Markkanen,
+51,1,7:13.0,10,9,CHI,MIA,12,away,DK,,3,miss2,0,J. Johnson,
+52,1,7:13.0,10,9,CHI,MIA,0,away,OffReb,,,OffReb,,H. Whiteside,
+53,1,7:09.0,10,11,CHI,MIA,4,away,DK,,1,make2,2,H. Whiteside,
+54,1,7:04.0,12,11,CHI,MIA,5,home,LU,,2,make2,2,Z. LaVine,
+55,1,6:51.0,12,13,CHI,MIA,13,away,LU,,2,make2,2,J. Richardson,
+56,1,6:44.0,12,13,CHI,MIA,7,home,LU,block,4,miss2,0,K. Dunn,H. Whiteside
+57,1,6:42.0,12,13,CHI,MIA,2,away,DefReb,,,DefReb,,J. Johnson,
+58,1,6:38.0,12,13,CHI,MIA,4,away,LU,,1,miss2,0,J. Winslow,
+59,1,6:28.0,12,13,CHI,MIA,10,home,DefReb,,,DefReb,,Z. LaVine,
+60,1,6:28.0,12,13,CHI,MIA,0,home,bad pass,steal,,turnover,,Z. LaVine,J. Johnson
+61,1,6:28.0,12,13,CHI,MIA,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,Z. LaVine,J. Johnson
+62,1,6:28.0,12,13,CHI,MIA,0,home,Timeout,,,,,,
+63,1,6:28.0,12,14,CHI,MIA,0,away,FreeThrow,,,make1,1,J. Johnson,
+64,1,6:28.0,12,14,CHI,MIA,0,home,Sub,,,,,S. Harrison,Z. LaVine
+65,1,6:28.0,12,15,CHI,MIA,0,away,FreeThrow,,,make1,1,J. Johnson,
+66,1,6:09.0,12,15,CHI,MIA,19,home,LU,,2,miss2,0,L. Markkanen,
+67,1,6:09.0,12,15,CHI,MIA,0,away,DefReb,,,DefReb,,H. Whiteside,
+68,1,5:59.0,12,17,CHI,MIA,10,away,JS,,7,make2,2,J. Richardson,
+69,1,5:48.0,12,17,CHI,MIA,11,home,JS,,5,miss2,0,W. Selden,
+70,1,5:46.0,12,17,CHI,MIA,2,home,OffReb,,,OffReb,,W. Selden,
+71,1,5:46.0,12,17,CHI,MIA,0,away,Sub,,,,,T. Johnson,R. McGruder
+72,1,5:46.0,12,17,CHI,MIA,0,away,Sub,,,,,D. Wade,J. Richardson
+73,1,5:34.0,12,17,CHI,MIA,12,home,LU,,2,miss2,0,K. Dunn,
+74,1,5:34.0,12,17,CHI,MIA,0,home,OffReb,,,OffReb,,L. Markkanen,
+75,1,5:30.0,14,17,CHI,MIA,4,home,DK,,0,make2,2,L. Markkanen,
+76,1,5:15.0,14,17,CHI,MIA,15,away,JS,,24,miss3,0,T. Johnson,
+77,1,5:15.0,14,17,CHI,MIA,0,home,DefReb,,,DefReb,,L. Markkanen,
+78,1,5:07.0,17,17,CHI,MIA,8,home,JS,assist,26,make3,3,L. Markkanen,K. Dunn
+79,1,4:46.0,17,17,CHI,MIA,21,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Harrison,H. Whiteside
+80,1,4:46.0,17,17,CHI,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside,
+81,1,4:46.0,17,17,CHI,MIA,0,away,OffReb,,,OffReb,,Team,
+82,1,4:46.0,17,17,CHI,MIA,0,away,FreeThrow,,,make1,0,H. Whiteside,
+83,1,4:44.0,17,17,CHI,MIA,2,home,DefReb,,,DefReb,,S. Harrison,
+84,1,4:30.0,19,17,CHI,MIA,14,home,HS,,5,make2,2,R. Lopez,
+85,1,4:30.0,19,17,CHI,MIA,0,away,DefGoaltending,,,DefGoaltending,,Team,
+86,1,4:08.0,19,17,CHI,MIA,22,away,JS,,23,miss2,0,D. Wade,
+87,1,4:01.0,19,17,CHI,MIA,7,away,OffReb,,,OffReb,,H. Whiteside,
+88,1,4:01.0,19,19,CHI,MIA,0,away,LU,,1,make2,2,H. Whiteside,
+89,1,3:53.0,19,19,CHI,MIA,8,home,JS,,12,miss2,0,K. Dunn,
+90,1,3:53.0,19,19,CHI,MIA,0,home,OffReb,,,OffReb,,Team,
+91,1,3:53.0,19,19,CHI,MIA,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Johnson,R. Lopez
+92,1,3:50.0,19,19,CHI,MIA,3,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,W. Selden,J. Winslow
+93,1,3:50.0,19,19,CHI,MIA,0,home,OffensiveFoul,,,turnover,,W. Selden,
+94,1,3:35.0,19,22,CHI,MIA,15,away,JS,assist,23,make3,3,D. Wade,H. Whiteside
+95,1,3:26.0,21,22,CHI,MIA,9,home,DK,assist,1,make2,2,W. Selden,S. Harrison
+96,1,3:14.0,21,22,CHI,MIA,12,away,lost ball,steal,,turnover,,T. Johnson,K. Dunn
+97,1,3:09.0,23,22,CHI,MIA,5,home,LU,,1,make2,2,K. Dunn,
+98,1,3:09.0,23,22,CHI,MIA,0,away,Timeout,,,,,,
+99,1,3:09.0,23,22,CHI,MIA,0,away,Sub,,,,,B. Adebayo,H. Whiteside
+100,1,3:09.0,23,22,CHI,MIA,0,away,Sub,,,,,J. Richardson,J. Winslow
+101,1,2:55.0,23,22,CHI,MIA,14,away,LU,,3,miss2,0,D. Wade,
+102,1,2:51.0,23,22,CHI,MIA,4,home,DefReb,,,DefReb,,R. Lopez,
+103,1,2:50.0,23,22,CHI,MIA,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Richardson,S. Harrison
+104,1,2:50.0,24,22,CHI,MIA,0,home,FreeThrow,,,make1,1,S. Harrison,
+105,1,2:50.0,24,22,CHI,MIA,0,away,Sub,,,,,K. Olynyk,J. Johnson
+106,1,2:50.0,24,22,CHI,MIA,0,home,Sub,,,,,J. Parker,R. Lopez
+107,1,2:50.0,24,22,CHI,MIA,0,home,Sub,,,,,B. Portis,L. Markkanen
+108,1,2:50.0,24,22,CHI,MIA,0,home,FreeThrow,,,make1,0,S. Harrison,
+109,1,2:47.0,24,22,CHI,MIA,3,away,DefReb,,,DefReb,,J. Richardson,
+110,1,2:37.0,24,22,CHI,MIA,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Selden,D. Wade
+111,1,2:37.0,24,23,CHI,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+112,1,2:37.0,24,24,CHI,MIA,0,away,FreeThrow,,,make1,1,D. Wade,
+113,1,2:18.0,26,24,CHI,MIA,19,home,LU,assist,2,make2,2,K. Dunn,B. Portis
+114,1,2:05.0,26,24,CHI,MIA,13,away,LU,,2,miss2,0,D. Wade,
+115,1,2:02.0,26,24,CHI,MIA,3,away,OffReb,,,OffReb,,D. Wade,
+116,1,2:02.0,26,26,CHI,MIA,0,away,LU,,1,make2,2,D. Wade,
+117,1,1:59.0,26,26,CHI,MIA,3,home,JS,,2,miss2,0,B. Portis,
+118,1,1:59.0,26,26,CHI,MIA,0,away,DefReb,,,DefReb,,K. Olynyk,
+119,1,1:42.0,26,26,CHI,MIA,17,away,JS,,25,miss3,0,T. Johnson,
+120,1,1:38.0,26,26,CHI,MIA,4,home,DefReb,,,DefReb,,K. Dunn,
+121,1,1:33.0,28,26,CHI,MIA,5,home,DK,assist,1,make2,2,J. Parker,K. Dunn
+122,1,1:21.0,28,28,CHI,MIA,12,away,DK,assist,1,make2,2,B. Adebayo,J. Richardson
+123,1,1:06.0,28,28,CHI,MIA,15,home,JS,,8,miss2,0,W. Selden,
+124,1,1:03.0,28,28,CHI,MIA,3,away,DefReb,,,DefReb,,K. Olynyk,
+125,1,0:52.0,28,28,CHI,MIA,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Harrison,K. Olynyk
+126,1,0:52.0,28,29,CHI,MIA,0,away,FreeThrow,,,make1,1,K. Olynyk,
+127,1,0:52.0,28,29,CHI,MIA,0,home,Sub,,,,,R. Arcidiacono,K. Dunn
+128,1,0:52.0,28,29,CHI,MIA,0,away,FreeThrow,,,make1,0,K. Olynyk,
+129,1,0:50.0,28,29,CHI,MIA,2,home,DefReb,,,DefReb,,J. Parker,
+130,1,0:34.0,28,29,CHI,MIA,16,home,LU,,2,miss2,0,W. Selden,
+131,1,0:31.0,28,29,CHI,MIA,3,away,DefReb,,,DefReb,,J. Richardson,
+132,1,0:26.0,28,29,CHI,MIA,5,away,JS,,26,miss3,0,D. Wade,
+133,1,0:23.0,28,29,CHI,MIA,3,home,DefReb,,,DefReb,,B. Portis,
+134,1,0:05.0,28,29,CHI,MIA,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Richardson,R. Arcidiacono
+135,1,0:05.0,29,29,CHI,MIA,0,home,FreeThrow,,,make1,1,R. Arcidiacono,
+136,1,0:05.0,30,29,CHI,MIA,0,home,FreeThrow,,,make1,1,R. Arcidiacono,
+137,1,0:00.0,30,31,CHI,MIA,5,away,JS,,9,make2,2,J. Richardson,
+138,2,11:44.0,30,31,CHI,MIA,16,away,bad pass,steal,,turnover,,D. Wade,R. Arcidiacono
+139,2,11:34.0,30,31,CHI,MIA,10,home,lost ball,steal,,turnover,,R. Arcidiacono,T. Johnson
+140,2,11:29.0,30,31,CHI,MIA,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Arcidiacono,T. Johnson
+141,2,11:29.0,30,31,CHI,MIA,0,away,FreeThrow,,,make1,0,T. Johnson,
+142,2,11:29.0,30,31,CHI,MIA,0,away,OffReb,,,OffReb,,Team,
+143,2,11:29.0,30,32,CHI,MIA,0,away,FreeThrow,,,make1,1,T. Johnson,
+144,2,11:12.0,32,32,CHI,MIA,17,home,HS,assist,6,make2,2,B. Portis,R. Arcidiacono
+145,2,11:01.0,32,34,CHI,MIA,11,away,LU,,0,make2,2,D. Waiters,
+146,2,10:51.0,32,34,CHI,MIA,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,B. Portis
+147,2,10:51.0,33,34,CHI,MIA,0,home,FreeThrow,,,make1,1,B. Portis,
+148,2,10:51.0,33,34,CHI,MIA,0,home,Sub,,,,,Z. LaVine,W. Selden
+149,2,10:51.0,34,34,CHI,MIA,0,home,FreeThrow,,,make1,1,B. Portis,
+150,2,10:46.0,34,34,CHI,MIA,5,away,BadPass,,,turnover,,K. Olynyk,
+151,2,10:35.0,36,34,CHI,MIA,11,home,HS,assist,6,make2,2,B. Portis,R. Arcidiacono
+152,2,10:35.0,36,34,CHI,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,B. Portis
+153,2,10:35.0,36,34,CHI,MIA,0,away,Sub,,,,,D. Jones,K. Olynyk
+154,2,10:35.0,37,34,CHI,MIA,0,home,FreeThrow,,,make1,1,B. Portis,
+155,2,10:18.0,37,34,CHI,MIA,17,away,lost ball,steal,,turnover,,T. Johnson,R. Arcidiacono
+156,2,10:12.0,37,34,CHI,MIA,6,home,JS,,26,miss3,0,J. Parker,
+157,2,10:08.0,37,34,CHI,MIA,4,away,DefReb,,,DefReb,,D. Waiters,
+158,2,9:56.0,37,34,CHI,MIA,12,away,JS,,26,miss3,0,D. Waiters,
+159,2,9:51.0,37,34,CHI,MIA,5,away,OffReb,,,OffReb,,D. Wade,
+160,2,9:51.0,37,34,CHI,MIA,0,away,LU,,1,miss2,0,D. Wade,
+161,2,9:49.0,37,34,CHI,MIA,2,away,OffReb,,,OffReb,,D. Wade,
+162,2,9:48.0,37,36,CHI,MIA,1,away,LU,,2,make2,2,D. Wade,
+163,2,9:38.0,39,36,CHI,MIA,10,home,JS,assist,20,make2,2,B. Portis,Z. LaVine
+164,2,9:25.0,39,36,CHI,MIA,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Portis,D. Waiters
+165,2,9:14.0,39,36,CHI,MIA,11,away,JS,,9,miss2,0,B. Adebayo,
+166,2,9:12.0,39,36,CHI,MIA,2,home,DefReb,,,DefReb,,B. Portis,
+167,2,9:04.0,39,36,CHI,MIA,8,home,JS,,26,miss3,0,B. Portis,
+168,2,9:02.0,39,36,CHI,MIA,2,away,DefReb,,,DefReb,,D. Waiters,
+169,2,8:51.0,39,36,CHI,MIA,11,away,JS,,22,miss2,0,T. Johnson,
+170,2,8:48.0,39,36,CHI,MIA,3,home,DefReb,,,DefReb,,B. Portis,
+171,2,8:46.0,39,36,CHI,MIA,2,home,Timeout,,,,,,
+172,2,8:46.0,39,36,CHI,MIA,0,away,Sub,,,,,J. Richardson,T. Johnson
+173,2,8:46.0,39,36,CHI,MIA,0,away,Sub,,,,,J. Winslow,D. Wade
+174,2,8:46.0,39,36,CHI,MIA,0,home,Sub,,,,,C. Hutchison,S. Harrison
+175,2,8:33.0,42,36,CHI,MIA,13,home,JS,assist,25,make3,3,R. Arcidiacono,J. Parker
+176,2,8:07.0,42,36,CHI,MIA,26,away,JS,,26,miss3,0,J. Richardson,
+177,2,8:04.0,42,36,CHI,MIA,3,home,DefReb,,,DefReb,,J. Parker,
+178,2,7:59.0,42,36,CHI,MIA,5,home,JS,block,8,miss2,0,Z. LaVine,B. Adebayo
+179,2,7:57.0,42,36,CHI,MIA,2,away,DefReb,,,DefReb,,Team,
+180,2,7:56.0,42,36,CHI,MIA,1,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,B. Portis,J. Winslow
+181,2,7:50.0,42,36,CHI,MIA,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Arcidiacono,J. Richardson
+182,2,7:38.0,42,38,CHI,MIA,12,away,DK,assist,1,make2,2,D. Jones,J. Winslow
+183,2,7:27.0,42,38,CHI,MIA,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jones,J. Parker
+184,2,7:27.0,43,38,CHI,MIA,0,home,FreeThrow,,,make1,1,J. Parker,
+185,2,7:27.0,43,38,CHI,MIA,0,home,Sub,,,,,L. Markkanen,B. Portis
+186,2,7:27.0,44,38,CHI,MIA,0,home,FreeThrow,,,make1,1,J. Parker,
+187,2,7:10.0,44,38,CHI,MIA,17,away,JS,,26,miss3,0,D. Waiters,
+188,2,7:05.0,44,38,CHI,MIA,5,home,DefReb,,,DefReb,,C. Hutchison,
+189,2,6:56.0,44,38,CHI,MIA,9,home,lost ball,steal,,turnover,,J. Parker,J. Winslow
+190,2,6:49.0,44,38,CHI,MIA,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Parker,D. Jones
+191,2,6:49.0,44,38,CHI,MIA,0,away,FreeThrow,,,make1,0,D. Jones,
+192,2,6:49.0,44,38,CHI,MIA,0,away,OffReb,,,OffReb,,Team,
+193,2,6:49.0,44,38,CHI,MIA,0,away,FreeThrow,,,make1,0,D. Jones,
+194,2,6:47.0,44,38,CHI,MIA,2,home,DefReb,,,DefReb,,R. Arcidiacono,
+195,2,6:37.0,47,38,CHI,MIA,10,home,JS,assist,26,make3,3,L. Markkanen,Z. LaVine
+196,2,6:35.0,47,38,CHI,MIA,2,away,Timeout,,,,,,
+197,2,6:35.0,47,38,CHI,MIA,0,away,Sub,,,,,J. Johnson,D. Jones
+198,2,6:21.0,47,38,CHI,MIA,14,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Waiters,Z. LaVine
+199,2,6:21.0,47,38,CHI,MIA,0,away,OffensiveFoul,,,turnover,,D. Waiters,
+200,2,6:03.0,47,38,CHI,MIA,18,home,JS,,20,miss2,0,J. Parker,
+201,2,6:00.0,47,38,CHI,MIA,3,away,DefReb,,,DefReb,,B. Adebayo,
+202,2,5:53.0,47,38,CHI,MIA,7,away,JS,,22,miss3,0,D. Waiters,
+203,2,5:51.0,47,38,CHI,MIA,2,home,DefReb,,,DefReb,,J. Parker,
+204,2,5:39.0,47,38,CHI,MIA,12,home,LU,block,1,miss2,0,R. Arcidiacono,B. Adebayo
+205,2,5:37.0,47,38,CHI,MIA,2,away,DefReb,,,DefReb,,D. Waiters,
+206,2,5:33.0,47,40,CHI,MIA,4,away,LU,,2,make2,2,J. Winslow,
+207,2,5:33.0,47,40,CHI,MIA,0,home,Timeout,,,,,,
+208,2,5:33.0,47,40,CHI,MIA,0,home,Sub,,,,,K. Dunn,R. Arcidiacono
+209,2,5:15.0,47,40,CHI,MIA,18,home,JS,,24,miss3,0,K. Dunn,
+210,2,5:08.0,47,40,CHI,MIA,7,home,OffReb,,,OffReb,,J. Parker,
+211,2,5:08.0,49,40,CHI,MIA,0,home,DK,,0,make2,2,J. Parker,
+212,2,4:53.0,49,42,CHI,MIA,15,away,LU,,2,make2,2,D. Waiters,
+213,2,4:53.0,49,42,CHI,MIA,0,home,DefGoaltending,,,DefGoaltending,,Team,
+214,2,4:28.0,49,42,CHI,MIA,25,home,JS,,19,miss2,0,L. Markkanen,
+215,2,4:28.0,49,42,CHI,MIA,0,away,DefReb,,,DefReb,,D. Waiters,
+216,2,4:28.0,49,42,CHI,MIA,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Winslow,J. Parker
+217,2,4:28.0,49,42,CHI,MIA,0,away,OffensiveFoul,,,turnover,,J. Winslow,
+218,2,4:28.0,49,42,CHI,MIA,0,away,Sub,,,,,H. Whiteside,B. Adebayo
+219,2,4:28.0,49,42,CHI,MIA,0,home,Sub,,,,,R. Lopez,J. Parker
+220,2,4:20.0,49,42,CHI,MIA,8,home,JS,,21,miss2,0,L. Markkanen,
+221,2,4:16.0,49,42,CHI,MIA,4,away,DefReb,,,DefReb,,D. Waiters,
+222,2,4:09.0,49,44,CHI,MIA,7,away,LU,,3,make2,2,D. Waiters,
+223,2,4:01.0,49,44,CHI,MIA,8,home,JS,,25,miss3,0,L. Markkanen,
+224,2,3:58.0,49,44,CHI,MIA,3,home,OffReb,,,OffReb,,K. Dunn,
+225,2,3:54.0,52,44,CHI,MIA,4,home,JS,,25,make3,3,Z. LaVine,
+226,2,3:41.0,52,46,CHI,MIA,13,away,JS,assist,9,make2,2,D. Waiters,J. Winslow
+227,2,3:41.0,52,46,CHI,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Hutchison,D. Waiters
+228,2,3:41.0,52,46,CHI,MIA,0,home,Sub,,,,,W. Selden,C. Hutchison
+229,2,3:41.0,52,46,CHI,MIA,0,away,FreeThrow,,,make1,0,D. Waiters,
+230,2,3:39.0,52,46,CHI,MIA,2,home,DefReb,,,DefReb,,Z. LaVine,
+231,2,3:24.0,55,46,CHI,MIA,15,home,JS,,27,make3,3,Z. LaVine,
+232,2,3:09.0,55,48,CHI,MIA,15,away,JS,,9,make2,2,J. Winslow,
+233,2,3:02.0,55,48,CHI,MIA,7,home,JS,,26,miss3,0,Z. LaVine,
+234,2,2:58.0,55,48,CHI,MIA,4,home,OffReb,,,OffReb,,R. Lopez,
+235,2,2:57.0,55,48,CHI,MIA,1,home,JS,,26,miss3,0,L. Markkanen,
+236,2,2:53.0,55,48,CHI,MIA,4,away,DefReb,,,DefReb,,H. Whiteside,
+237,2,2:44.0,55,50,CHI,MIA,9,away,LU,,4,make2,2,D. Waiters,
+238,2,2:36.0,55,50,CHI,MIA,8,home,JS,,12,miss2,0,K. Dunn,
+239,2,2:33.0,55,50,CHI,MIA,3,away,DefReb,,,DefReb,,D. Waiters,
+240,2,2:27.0,55,50,CHI,MIA,6,away,JS,,22,miss2,0,J. Richardson,
+241,2,2:25.0,55,50,CHI,MIA,2,home,DefReb,,,DefReb,,L. Markkanen,
+242,2,2:21.0,55,50,CHI,MIA,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Waiters,Z. LaVine
+243,2,2:21.0,56,50,CHI,MIA,0,home,FreeThrow,,,make1,1,Z. LaVine,
+244,2,2:21.0,56,50,CHI,MIA,0,away,Sub,,,,,D. Wade,J. Richardson
+245,2,2:21.0,57,50,CHI,MIA,0,home,FreeThrow,,,make1,1,Z. LaVine,
+246,2,2:07.0,57,53,CHI,MIA,14,away,JS,assist,26,make3,3,D. Waiters,J. Winslow
+247,2,1:48.0,57,53,CHI,MIA,19,home,LU,block,2,miss2,0,Z. LaVine,H. Whiteside
+248,2,1:48.0,57,53,CHI,MIA,0,home,OffReb,,,OffReb,,Team,
+249,2,1:41.0,57,53,CHI,MIA,7,home,HS,,5,miss2,0,K. Dunn,
+250,2,1:39.0,57,53,CHI,MIA,2,home,OffReb,,,OffReb,,R. Lopez,
+251,2,1:35.0,57,53,CHI,MIA,4,home,JS,,26,miss3,0,W. Selden,
+252,2,1:30.0,57,53,CHI,MIA,5,away,DefReb,,,DefReb,,H. Whiteside,
+253,2,1:20.0,57,53,CHI,MIA,10,away,JS,,25,miss3,0,D. Waiters,
+254,2,1:16.0,57,53,CHI,MIA,4,home,DefReb,,,DefReb,,R. Lopez,
+255,2,0:59.0,57,53,CHI,MIA,17,home,JS,,27,miss3,0,Z. LaVine,
+256,2,0:56.0,57,53,CHI,MIA,3,away,DefReb,,,DefReb,,J. Winslow,
+257,2,0:52.0,57,53,CHI,MIA,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,H. Whiteside,K. Dunn
+258,2,0:52.0,57,53,CHI,MIA,0,away,OffensiveFoul,,,turnover,,H. Whiteside,
+259,2,0:29.0,57,53,CHI,MIA,23,home,JS,,3,miss2,0,Z. LaVine,
+260,2,0:26.0,57,53,CHI,MIA,3,home,OffReb,,,OffReb,,R. Lopez,
+261,2,0:21.0,57,53,CHI,MIA,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Waiters,W. Selden
+262,2,0:21.0,57,53,CHI,MIA,0,away,Sub,,,,,T. Johnson,D. Waiters
+263,2,0:21.0,57,53,CHI,MIA,0,away,Sub,,,,,R. McGruder,H. Whiteside
+264,2,0:21.0,57,53,CHI,MIA,0,home,Sub,,,,,S. Harrison,Z. LaVine
+265,2,0:21.0,57,53,CHI,MIA,0,home,Sub,,,,,B. Portis,R. Lopez
+266,2,0:21.0,57,53,CHI,MIA,0,home,FreeThrow,,,make1,0,W. Selden,
+267,2,0:21.0,57,53,CHI,MIA,0,home,OffReb,,,OffReb,,Team,
+268,2,0:21.0,57,53,CHI,MIA,0,home,FreeThrow,,,make1,0,W. Selden,
+269,2,0:17.0,57,53,CHI,MIA,4,away,DefReb,,,DefReb,,D. Wade,
+270,2,0:04.0,57,55,CHI,MIA,13,away,LU,assist,2,make2,2,J. Johnson,D. Wade
+271,3,11:38.0,57,55,CHI,MIA,22,away,JS,,25,miss3,0,R. McGruder,
+272,3,11:34.0,57,55,CHI,MIA,4,home,DefReb,,,DefReb,,L. Markkanen,
+273,3,11:21.0,57,55,CHI,MIA,13,home,JS,,25,miss3,0,Z. LaVine,
+274,3,11:17.0,57,55,CHI,MIA,4,away,DefReb,,,DefReb,,J. Winslow,
+275,3,11:14.0,57,55,CHI,MIA,3,away,JS,,24,miss3,0,R. McGruder,
+276,3,11:11.0,57,55,CHI,MIA,3,home,DefReb,,,DefReb,,C. Hutchison,
+277,3,10:55.0,59,55,CHI,MIA,16,home,JS,,9,make2,2,K. Dunn,
+278,3,10:27.0,59,55,CHI,MIA,28,away,JS,,10,miss2,0,J. Johnson,
+279,3,10:24.0,59,55,CHI,MIA,3,home,DefReb,,,DefReb,,Z. LaVine,
+280,3,10:14.0,59,55,CHI,MIA,10,home,HS,,2,miss2,0,R. Lopez,
+281,3,10:12.0,59,55,CHI,MIA,2,away,DefReb,,,DefReb,,J. Winslow,
+282,3,10:05.0,59,58,CHI,MIA,7,away,JS,assist,26,make3,3,J. Johnson,J. Richardson
+283,3,9:40.0,62,58,CHI,MIA,25,home,JS,assist,25,make3,3,L. Markkanen,Z. LaVine
+284,3,9:19.0,62,60,CHI,MIA,21,away,DK,assist,1,make2,2,H. Whiteside,J. Winslow
+285,3,9:09.0,62,60,CHI,MIA,10,home,JS,,14,miss2,0,K. Dunn,
+286,3,9:06.0,62,60,CHI,MIA,3,away,DefReb,,,DefReb,,H. Whiteside,
+287,3,8:59.0,62,62,CHI,MIA,7,away,JS,,16,make2,2,J. Winslow,
+288,3,8:38.0,62,62,CHI,MIA,21,home,LU,block,2,miss2,0,L. Markkanen,H. Whiteside
+289,3,8:34.0,62,62,CHI,MIA,4,home,OffReb,,,OffReb,,R. Lopez,
+290,3,8:31.0,62,62,CHI,MIA,3,home,JS,,16,miss2,0,K. Dunn,
+291,3,8:31.0,62,62,CHI,MIA,0,home,OffReb,,,OffReb,,Team,
+292,3,8:31.0,62,62,CHI,MIA,0,home,ShotClockViolation,,,turnover,,Team,
+293,3,8:18.0,62,62,CHI,MIA,13,away,bad pass,steal,,turnover,,J. Johnson,L. Markkanen
+294,3,8:11.0,62,62,CHI,MIA,7,home,JS,,17,miss2,0,Z. LaVine,
+295,3,8:06.0,62,62,CHI,MIA,5,away,DefReb,,,DefReb,,H. Whiteside,
+296,3,7:54.0,62,64,CHI,MIA,12,away,JS,assist,15,make2,2,J. Winslow,H. Whiteside
+297,3,7:29.0,62,64,CHI,MIA,25,home,JS,,22,miss2,0,R. Lopez,
+298,3,7:25.0,62,64,CHI,MIA,4,away,DefReb,,,DefReb,,J. Johnson,
+299,3,7:10.0,62,64,CHI,MIA,15,away,LU,block,2,miss2,0,J. Johnson,L. Markkanen
+300,3,7:07.0,62,64,CHI,MIA,3,home,DefReb,,,DefReb,,R. Lopez,
+301,3,7:05.0,64,64,CHI,MIA,2,home,LU,,6,make2,2,Z. LaVine,
+302,3,7:05.0,64,64,CHI,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Winslow,Z. LaVine
+303,3,7:05.0,65,64,CHI,MIA,0,home,FreeThrow,,,make1,1,Z. LaVine,
+304,3,6:54.0,65,64,CHI,MIA,11,away,JS,,26,miss3,0,J. Winslow,
+305,3,6:50.0,65,64,CHI,MIA,4,home,DefReb,,,DefReb,,L. Markkanen,
+306,3,6:46.0,65,64,CHI,MIA,4,home,BadPass,,,turnover,,K. Dunn,
+307,3,6:46.0,65,64,CHI,MIA,0,home,Timeout,,,,,,
+308,3,6:28.0,65,66,CHI,MIA,18,away,JS,assist,4,make2,2,J. Richardson,H. Whiteside
+309,3,6:15.0,68,66,CHI,MIA,13,home,JS,assist,25,make3,3,L. Markkanen,K. Dunn
+310,3,5:55.0,68,66,CHI,MIA,20,away,bad pass,steal,,turnover,,J. Winslow,Z. LaVine
+311,3,5:48.0,68,66,CHI,MIA,7,home,JS,,26,miss3,0,L. Markkanen,
+312,3,5:45.0,68,66,CHI,MIA,3,away,DefReb,,,DefReb,,J. Winslow,
+313,3,5:35.0,68,66,CHI,MIA,10,away,bad pass,steal,,turnover,,J. Winslow,C. Hutchison
+314,3,5:26.0,68,66,CHI,MIA,9,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,Z. LaVine,J. Richardson
+315,3,5:26.0,68,66,CHI,MIA,0,home,OffensiveFoul,,,turnover,,Z. LaVine,
+316,3,5:26.0,68,66,CHI,MIA,0,away,Sub,,,,,D. Wade,R. McGruder
+317,3,5:26.0,68,66,CHI,MIA,0,home,Sub,,,,,W. Selden,Z. LaVine
+318,3,5:13.0,68,66,CHI,MIA,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Dunn,J. Richardson
+319,3,5:13.0,68,67,CHI,MIA,0,away,FreeThrow,,,make1,1,J. Richardson,
+320,3,5:13.0,68,68,CHI,MIA,0,away,FreeThrow,,,make1,1,J. Richardson,
+321,3,4:59.0,68,68,CHI,MIA,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Wade,R. Lopez
+322,3,4:48.0,68,68,CHI,MIA,11,home,JS,,14,miss2,0,L. Markkanen,
+323,3,4:43.0,68,68,CHI,MIA,5,away,DefReb,,,DefReb,,D. Wade,
+324,3,4:35.0,68,70,CHI,MIA,8,away,JS,,15,make2,2,D. Wade,
+325,3,4:21.0,68,70,CHI,MIA,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Wade,W. Selden
+326,3,4:21.0,69,70,CHI,MIA,0,home,FreeThrow,,,make1,1,W. Selden,
+327,3,4:21.0,69,70,CHI,MIA,0,away,Sub,,,,,T. Johnson,J. Winslow
+328,3,4:21.0,69,70,CHI,MIA,0,home,Sub,,,,,B. Portis,R. Lopez
+329,3,4:21.0,70,70,CHI,MIA,0,home,FreeThrow,,,make1,1,W. Selden,
+330,3,4:09.0,70,72,CHI,MIA,12,away,LU,assist,1,make2,2,J. Richardson,T. Johnson
+331,3,4:01.0,70,72,CHI,MIA,8,home,OutOfBoundsLB,,,turnover,,K. Dunn,
+332,3,3:46.0,70,72,CHI,MIA,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Selden,J. Johnson
+333,3,3:46.0,70,72,CHI,MIA,0,home,Sub,,,,,R. Arcidiacono,K. Dunn
+334,3,3:39.0,70,72,CHI,MIA,7,away,JS,,23,miss3,0,T. Johnson,
+335,3,3:36.0,70,72,CHI,MIA,3,home,DefReb,,,DefReb,,W. Selden,
+336,3,3:27.0,70,72,CHI,MIA,9,home,LU,,2,miss2,0,B. Portis,
+337,3,3:25.0,70,72,CHI,MIA,2,away,DefReb,,,DefReb,,D. Wade,
+338,3,3:11.0,70,75,CHI,MIA,14,away,JS,,23,make3,3,D. Wade,
+339,3,2:48.0,70,75,CHI,MIA,23,home,bad pass,steal,,turnover,,L. Markkanen,T. Johnson
+340,3,2:38.0,70,78,CHI,MIA,10,away,JS,assist,24,make3,3,J. Richardson,J. Johnson
+341,3,2:37.0,70,78,CHI,MIA,1,home,Timeout,,,,,,
+342,3,2:37.0,70,78,CHI,MIA,0,away,Sub,,,,,D. Jones,J. Johnson
+343,3,2:37.0,70,78,CHI,MIA,0,home,Sub,,,,,S. Harrison,C. Hutchison
+344,3,2:21.0,70,78,CHI,MIA,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jones,L. Markkanen
+345,3,2:21.0,71,78,CHI,MIA,0,home,FreeThrow,,,make1,1,L. Markkanen,
+346,3,2:21.0,71,78,CHI,MIA,0,home,FreeThrow,,,make1,0,L. Markkanen,
+347,3,2:18.0,71,78,CHI,MIA,3,away,DefReb,,,DefReb,,H. Whiteside,
+348,3,2:00.0,71,78,CHI,MIA,18,away,bad pass,steal,,turnover,,T. Johnson,L. Markkanen
+349,3,1:53.0,71,78,CHI,MIA,7,home,JS,,26,miss3,0,L. Markkanen,
+350,3,1:52.0,71,78,CHI,MIA,1,home,OffReb,,,OffReb,,Team,
+351,3,1:52.0,71,78,CHI,MIA,0,home,Sub,,,,,J. Parker,L. Markkanen
+352,3,1:49.0,71,78,CHI,MIA,3,home,Traveling,,,turnover,,B. Portis,
+353,3,1:41.0,71,78,CHI,MIA,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Harrison,D. Wade
+354,3,1:27.0,71,78,CHI,MIA,14,away,JS,,15,miss2,0,D. Wade,
+355,3,1:22.0,71,78,CHI,MIA,5,home,DefReb,,,DefReb,,B. Portis,
+356,3,1:14.0,71,78,CHI,MIA,8,home,LU,block,3,miss2,0,W. Selden,D. Jones
+357,3,1:11.0,71,78,CHI,MIA,3,away,DefReb,,,DefReb,,D. Wade,
+358,3,1:09.0,71,78,CHI,MIA,2,away,JS,,25,miss3,0,J. Richardson,
+359,3,1:05.0,71,78,CHI,MIA,4,home,DefReb,,,DefReb,,W. Selden,
+360,3,0:49.0,71,78,CHI,MIA,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Jones,J. Parker
+361,3,0:49.0,72,78,CHI,MIA,0,home,FreeThrow,,,make1,1,J. Parker,
+362,3,0:49.0,73,78,CHI,MIA,0,home,FreeThrow,,,make1,1,J. Parker,
+363,3,0:32.0,73,78,CHI,MIA,17,away,JS,,24,miss3,0,J. Richardson,
+364,3,0:32.0,73,78,CHI,MIA,0,away,OffReb,,,OffReb,,Team,
+365,3,0:30.0,73,78,CHI,MIA,2,away,Timeout,,,,,,
+366,3,0:29.0,73,80,CHI,MIA,1,away,LU,assist,5,make2,2,D. Jones,D. Wade
+367,3,0:29.0,73,80,CHI,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Parker,D. Jones
+368,3,0:29.0,73,81,CHI,MIA,0,away,FreeThrow,,,make1,1,D. Jones,
+369,3,0:10.0,76,81,CHI,MIA,19,home,JS,assist,26,make3,3,R. Arcidiacono,J. Parker
+370,3,0:00.0,76,83,CHI,MIA,10,away,JS,assist,6,make2,2,J. Richardson,D. Wade
+371,4,11:52.0,76,83,CHI,MIA,8,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,Z. LaVine,B. Adebayo
+372,4,11:52.0,76,83,CHI,MIA,0,home,OffensiveFoul,,,turnover,,Z. LaVine,
+373,4,11:39.0,76,85,CHI,MIA,13,away,LU,assist,1,make2,2,D. Jones,B. Adebayo
+374,4,11:23.0,79,85,CHI,MIA,16,home,JS,assist,25,make3,3,B. Portis,Z. LaVine
+375,4,10:58.0,79,88,CHI,MIA,25,away,JS,assist,26,make3,3,J. Richardson,D. Wade
+376,4,10:44.0,81,88,CHI,MIA,14,home,JS,,19,make2,2,Z. LaVine,
+377,4,10:25.0,81,91,CHI,MIA,19,away,JS,assist,25,make3,3,J. Richardson,T. Johnson
+378,4,10:10.0,83,91,CHI,MIA,15,home,HS,assist,7,make2,2,J. Parker,R. Arcidiacono
+379,4,10:10.0,83,91,CHI,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Wade,J. Parker
+380,4,10:10.0,83,91,CHI,MIA,0,away,Sub,,,,,D. Waiters,J. Richardson
+381,4,10:10.0,84,91,CHI,MIA,0,home,FreeThrow,,,make1,1,J. Parker,
+382,4,10:00.0,84,91,CHI,MIA,10,away,BadPass,,,turnover,,D. Wade,
+383,4,9:50.0,84,91,CHI,MIA,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Waiters,Z. LaVine
+384,4,9:40.0,86,91,CHI,MIA,10,home,HS,,7,make2,2,B. Portis,
+385,4,9:25.0,86,91,CHI,MIA,15,away,JS,,25,miss3,0,T. Johnson,
+386,4,9:21.0,86,91,CHI,MIA,4,home,DefReb,,,DefReb,,J. Parker,
+387,4,9:06.0,86,91,CHI,MIA,15,home,LU,,2,miss2,0,Z. LaVine,
+388,4,9:04.0,86,91,CHI,MIA,2,away,DefReb,,,DefReb,,D. Jones,
+389,4,8:59.0,86,93,CHI,MIA,5,away,LU,assist,1,make2,2,T. Johnson,D. Wade
+390,4,8:31.0,88,93,CHI,MIA,28,home,DK,assist,1,make2,2,Z. LaVine,B. Portis
+391,4,8:11.0,88,95,CHI,MIA,20,away,HS,,2,make2,2,B. Adebayo,
+392,4,8:04.0,88,95,CHI,MIA,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Portis,D. Jones
+393,4,8:04.0,88,95,CHI,MIA,0,home,OffensiveFoul,,,turnover,,B. Portis,
+394,4,8:04.0,88,95,CHI,MIA,0,home,Sub,,,,,K. Dunn,S. Harrison
+395,4,7:43.0,88,97,CHI,MIA,21,away,JS,assist,5,make2,2,T. Johnson,D. Waiters
+396,4,7:43.0,88,97,CHI,MIA,0,home,Timeout,,,,,,
+397,4,7:19.0,88,97,CHI,MIA,24,home,JS,,23,miss2,0,J. Parker,
+398,4,7:15.0,88,97,CHI,MIA,4,away,DefReb,,,DefReb,,D. Wade,
+399,4,7:03.0,88,100,CHI,MIA,12,away,JS,assist,23,make3,3,T. Johnson,D. Jones
+400,4,6:46.0,88,100,CHI,MIA,17,home,lost ball,steal,,turnover,,J. Parker,B. Adebayo
+401,4,6:46.0,88,100,CHI,MIA,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Parker,B. Adebayo
+402,4,6:46.0,88,100,CHI,MIA,0,home,Sub,,,,,L. Markkanen,J. Parker
+403,4,6:32.0,88,103,CHI,MIA,14,away,JS,assist,26,make3,3,D. Waiters,B. Adebayo
+404,4,6:16.0,88,103,CHI,MIA,16,home,JS,,26,miss3,0,L. Markkanen,
+405,4,6:12.0,88,103,CHI,MIA,4,away,DefReb,,,DefReb,,D. Wade,
+406,4,6:02.0,88,103,CHI,MIA,10,away,Traveling,,,turnover,,D. Wade,
+407,4,5:49.0,88,103,CHI,MIA,13,home,JS,,25,miss3,0,Z. LaVine,
+408,4,5:47.0,88,103,CHI,MIA,2,away,DefReb,,,DefReb,,D. Wade,
+409,4,5:33.0,88,105,CHI,MIA,14,away,LU,assist,1,make2,2,D. Jones,D. Waiters
+410,4,5:08.0,90,105,CHI,MIA,25,home,JS,,11,make2,2,B. Portis,
+411,4,4:48.0,90,105,CHI,MIA,20,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Arcidiacono,T. Johnson
+412,4,4:42.0,90,108,CHI,MIA,6,away,JS,assist,26,make3,3,T. Johnson,B. Adebayo
+413,4,4:21.0,92,108,CHI,MIA,21,home,LU,,2,make2,2,Z. LaVine,
+414,4,4:21.0,92,108,CHI,MIA,0,away,Timeout,,,,,,
+415,4,4:21.0,92,108,CHI,MIA,0,home,Sub,,,,,C. Hutchison,R. Arcidiacono
+416,4,4:04.0,92,111,CHI,MIA,17,away,JS,assist,25,make3,3,D. Waiters,D. Wade
+417,4,3:45.0,95,111,CHI,MIA,19,home,JS,assist,23,make3,3,C. Hutchison,Z. LaVine
+418,4,3:23.0,95,111,CHI,MIA,22,away,Timeout,,,,,,
+419,4,3:17.0,95,111,CHI,MIA,6,away,lost ball,steal,,turnover,,B. Adebayo,B. Portis
+420,4,3:12.0,97,111,CHI,MIA,5,home,LU,assist,1,make2,2,C. Hutchison,K. Dunn
+421,4,2:59.0,97,111,CHI,MIA,13,away,BadPass,,,turnover,,D. Wade,
+422,4,2:49.0,97,111,CHI,MIA,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Wade,Z. LaVine
+423,4,2:49.0,98,111,CHI,MIA,0,home,FreeThrow,,,make1,1,Z. LaVine,
+424,4,2:49.0,98,111,CHI,MIA,0,home,FreeThrow,,,make1,0,Z. LaVine,
+425,4,2:46.0,98,111,CHI,MIA,3,away,DefReb,,,DefReb,,D. Jones,
+426,4,2:35.0,98,114,CHI,MIA,11,away,JS,assist,26,make3,3,T. Johnson,D. Wade
+427,4,2:14.0,98,114,CHI,MIA,21,home,BadPass,,,turnover,,L. Markkanen,
+428,4,2:00.0,98,114,CHI,MIA,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Portis,B. Adebayo
+429,4,2:00.0,98,114,CHI,MIA,0,away,FreeThrow,,,make1,0,B. Adebayo,
+430,4,2:00.0,98,114,CHI,MIA,0,away,OffReb,,,OffReb,,Team,
+431,4,2:00.0,98,114,CHI,MIA,0,away,Sub,,,,,R. McGruder,D. Wade
+432,4,2:00.0,98,115,CHI,MIA,0,away,FreeThrow,,,make1,1,B. Adebayo,
+433,4,1:43.0,98,115,CHI,MIA,17,home,LU,,3,miss2,0,Z. LaVine,
+434,4,1:40.0,98,115,CHI,MIA,3,away,DefReb,,,DefReb,,T. Johnson,
+435,4,1:38.0,98,115,CHI,MIA,2,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Adebayo,K. Dunn
+436,4,1:38.0,98,115,CHI,MIA,0,away,OffensiveFoul,,,turnover,,B. Adebayo,
+437,4,1:29.0,101,115,CHI,MIA,9,home,JS,assist,25,make3,3,B. Portis,K. Dunn
+438,4,1:21.0,101,115,CHI,MIA,8,away,bad pass,steal,,turnover,,R. McGruder,K. Dunn
+439,4,1:11.0,101,115,CHI,MIA,10,home,JS,,24,miss3,0,Z. LaVine,
+440,4,1:07.0,101,115,CHI,MIA,4,away,DefReb,,,DefReb,,R. McGruder,
+441,4,0:49.0,101,117,CHI,MIA,18,away,LU,,2,make2,2,D. Waiters,
+442,4,0:31.0,101,117,CHI,MIA,18,home,JS,,8,miss2,0,C. Hutchison,
+443,4,0:31.0,101,117,CHI,MIA,0,home,OffReb,,,OffReb,,Team,
+444,4,0:31.0,101,117,CHI,MIA,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. McGruder,Z. LaVine
+445,4,0:21.0,101,117,CHI,MIA,10,home,HS,,6,miss2,0,K. Dunn,
+446,4,0:19.0,101,117,CHI,MIA,2,home,OffReb,,,OffReb,,B. Portis,
+447,4,0:19.0,101,117,CHI,MIA,0,home,LU,,1,miss2,0,B. Portis,
+448,4,0:19.0,101,117,CHI,MIA,0,home,OffReb,,,OffReb,,B. Portis,
+449,4,0:16.0,103,117,CHI,MIA,3,home,LU,,1,make2,2,B. Portis,

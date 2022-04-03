@@ -1,0 +1,481 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,3,0,LAC,BOS,19,home,JS,assist,23,make3,3,J. Redick,C. Paul
+1,1,11:27.0,3,0,LAC,BOS,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,A. Johnson
+2,1,11:27.0,3,1,LAC,BOS,0,away,FreeThrow,,,make1,1,A. Johnson,
+3,1,11:27.0,3,1,LAC,BOS,0,away,FreeThrow,,,make1,0,A. Johnson,
+4,1,11:26.0,3,1,LAC,BOS,1,home,DefReb,,,DefReb,,Team,
+5,1,11:09.0,5,1,LAC,BOS,17,home,DK,assist,0,make2,2,D. Jordan,C. Paul
+6,1,10:50.0,5,1,LAC,BOS,19,away,JS,,27,miss3,0,A. Bradley,
+7,1,10:49.0,5,1,LAC,BOS,1,home,DefReb,,,DefReb,,D. Jordan,
+8,1,10:40.0,7,1,LAC,BOS,9,home,JS,,18,make2,2,C. Paul,
+9,1,10:24.0,7,4,LAC,BOS,16,away,JS,,25,make3,3,I. Thomas,
+10,1,10:21.0,7,4,LAC,BOS,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,L. Mbah a Moute
+11,1,10:05.0,7,4,LAC,BOS,16,home,JS,,4,miss2,0,L. Mbah a Moute,
+12,1,10:05.0,7,4,LAC,BOS,0,home,OffReb,,,OffReb,,D. Jordan,
+13,1,10:05.0,7,4,LAC,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,D. Jordan
+14,1,10:05.0,7,4,LAC,BOS,0,home,FreeThrow,,,make1,0,D. Jordan,
+15,1,10:05.0,7,4,LAC,BOS,0,home,OffReb,,,OffReb,,Team,
+16,1,10:05.0,7,4,LAC,BOS,0,home,FreeThrow,,,make1,0,D. Jordan,
+17,1,10:02.0,7,4,LAC,BOS,3,away,DefReb,,,DefReb,,J. Brown,
+18,1,9:39.0,7,4,LAC,BOS,23,away,JS,,25,miss3,0,J. Brown,
+19,1,9:35.0,7,4,LAC,BOS,4,home,DefReb,,,DefReb,,B. Griffin,
+20,1,9:21.0,7,4,LAC,BOS,14,home,JS,,17,miss2,0,C. Paul,
+21,1,9:19.0,7,4,LAC,BOS,2,home,OffReb,,,OffReb,,Team,
+22,1,9:17.0,7,4,LAC,BOS,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Thomas,C. Paul
+23,1,9:17.0,8,4,LAC,BOS,0,home,FreeThrow,,,make1,1,C. Paul,
+24,1,9:17.0,8,4,LAC,BOS,0,home,FreeThrow,,,make1,0,C. Paul,
+25,1,9:17.0,8,4,LAC,BOS,0,home,OffReb,,,OffReb,,Team,
+26,1,9:17.0,8,4,LAC,BOS,0,home,FreeThrow,,,make1,0,C. Paul,
+27,1,9:16.0,8,4,LAC,BOS,1,away,DefReb,,,DefReb,,J. Brown,
+28,1,8:58.0,8,4,LAC,BOS,18,away,JS,,16,miss2,0,I. Thomas,
+29,1,8:56.0,8,4,LAC,BOS,2,home,DefReb,,,DefReb,,B. Griffin,
+30,1,8:50.0,8,4,LAC,BOS,6,home,LostBall,steal,,turnover,,C. Paul,A. Johnson
+31,1,8:49.0,8,4,LAC,BOS,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,J. Brown
+32,1,8:32.0,8,4,LAC,BOS,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Redick,J. Crowder
+33,1,8:32.0,8,5,LAC,BOS,0,away,FreeThrow,,,make1,1,J. Crowder,
+34,1,8:32.0,8,6,LAC,BOS,0,away,FreeThrow,,,make1,1,J. Crowder,
+35,1,8:20.0,8,6,LAC,BOS,12,home,JS,,18,miss2,0,J. Redick,
+36,1,8:19.0,8,6,LAC,BOS,1,away,DefReb,,,DefReb,,A. Bradley,
+37,1,7:57.0,8,6,LAC,BOS,22,away,JS,,26,miss3,0,J. Crowder,
+38,1,7:56.0,8,6,LAC,BOS,1,home,DefReb,,,DefReb,,D. Jordan,
+39,1,7:37.0,8,6,LAC,BOS,19,home,LU,,3,miss2,0,B. Griffin,
+40,1,7:35.0,8,6,LAC,BOS,2,away,DefReb,,,DefReb,,J. Crowder,
+41,1,7:32.0,8,8,LAC,BOS,3,away,LU,assist,2,make2,2,A. Johnson,I. Thomas
+42,1,7:29.0,8,8,LAC,BOS,3,home,BadPass,,,turnover,,C. Paul,
+43,1,7:20.0,8,8,LAC,BOS,9,away,JS,,19,miss2,0,I. Thomas,
+44,1,7:16.0,8,8,LAC,BOS,4,home,DefReb,,,DefReb,,J. Redick,
+45,1,7:01.0,10,8,LAC,BOS,15,home,JS,assist,21,make2,2,L. Mbah a Moute,B. Griffin
+46,1,6:49.0,10,10,LAC,BOS,12,away,LU,assist,2,make2,2,A. Johnson,J. Brown
+47,1,6:49.0,10,10,LAC,BOS,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Redick,J. Brown
+48,1,6:49.0,10,10,LAC,BOS,0,home,OffensiveFoul,,,turnover,,J. Redick,
+49,1,6:24.0,10,13,LAC,BOS,25,away,JS,assist,26,make3,3,A. Bradley,J. Brown
+50,1,6:10.0,12,13,LAC,BOS,14,home,JS,assist,19,make2,2,B. Griffin,L. Mbah a Moute
+51,1,5:54.0,12,13,LAC,BOS,16,away,LU,,3,miss2,0,J. Brown,
+52,1,5:49.0,12,13,LAC,BOS,5,home,DefReb,,,DefReb,,L. Mbah a Moute,
+53,1,5:39.0,14,13,LAC,BOS,10,home,HS,,7,make2,2,B. Griffin,
+54,1,5:16.0,14,13,LAC,BOS,23,away,BadPass,,,turnover,,I. Thomas,
+55,1,5:16.0,14,13,LAC,BOS,0,home,Timeout,,,,,,
+56,1,5:16.0,14,13,LAC,BOS,0,away,Sub,,,,,M. Smart,J. Brown
+57,1,5:16.0,14,13,LAC,BOS,0,away,Sub,,,,,K. Olynyk,A. Bradley
+58,1,5:16.0,14,13,LAC,BOS,0,home,Sub,,,,,A. Rivers,J. Redick
+59,1,5:00.0,14,13,LAC,BOS,16,home,LostBall,steal,,turnover,,B. Griffin,A. Johnson
+60,1,4:56.0,14,15,LAC,BOS,4,away,LU,assist,2,make2,2,I. Thomas,M. Smart
+61,1,4:29.0,14,15,LAC,BOS,27,home,JS,,25,miss3,0,B. Griffin,
+62,1,4:28.0,14,15,LAC,BOS,1,away,DefReb,,,DefReb,,M. Smart,
+63,1,4:20.0,14,15,LAC,BOS,8,away,JS,,25,miss3,0,K. Olynyk,
+64,1,4:19.0,14,15,LAC,BOS,1,home,DefReb,,,DefReb,,B. Griffin,
+65,1,4:05.0,16,15,LAC,BOS,14,home,JS,,17,make2,2,C. Paul,
+66,1,3:56.0,16,17,LAC,BOS,9,away,LU,,2,make2,2,I. Thomas,
+67,1,3:36.0,18,17,LAC,BOS,20,home,JS,assist,11,make2,2,C. Paul,B. Griffin
+68,1,3:20.0,18,17,LAC,BOS,16,away,JS,,26,miss3,0,J. Crowder,
+69,1,3:18.0,18,17,LAC,BOS,2,home,DefReb,,,DefReb,,C. Paul,
+70,1,3:07.0,18,17,LAC,BOS,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,B. Griffin
+71,1,3:07.0,18,17,LAC,BOS,0,home,FreeThrow,,,make1,0,B. Griffin,
+72,1,3:07.0,18,17,LAC,BOS,0,home,OffReb,,,OffReb,,Team,
+73,1,3:07.0,18,17,LAC,BOS,0,home,Sub,,,,,M. Speights,D. Jordan
+74,1,3:07.0,18,17,LAC,BOS,0,home,Sub,,,,,J. Crawford,L. Mbah a Moute
+75,1,3:07.0,19,17,LAC,BOS,0,home,FreeThrow,,,make1,1,B. Griffin,
+76,1,2:56.0,19,20,LAC,BOS,11,away,JS,assist,26,make3,3,I. Thomas,K. Olynyk
+77,1,2:35.0,19,20,LAC,BOS,21,home,JS,,12,miss2,0,C. Paul,
+78,1,2:32.0,19,20,LAC,BOS,3,away,DefReb,,,DefReb,,J. Crowder,
+79,1,2:22.0,19,23,LAC,BOS,10,away,JS,assist,27,make3,3,M. Smart,J. Crowder
+80,1,2:03.0,19,23,LAC,BOS,19,home,JS,,25,miss3,0,M. Speights,
+81,1,2:02.0,19,23,LAC,BOS,1,away,DefReb,,,DefReb,,J. Crowder,
+82,1,1:47.0,19,23,LAC,BOS,15,away,LU,,3,miss2,0,A. Johnson,
+83,1,1:43.0,19,23,LAC,BOS,4,home,DefReb,,,DefReb,,B. Griffin,
+84,1,1:23.0,19,23,LAC,BOS,20,home,JS,,18,miss2,0,C. Paul,
+85,1,1:22.0,19,23,LAC,BOS,1,away,DefReb,,,DefReb,,J. Crowder,
+86,1,1:13.0,19,23,LAC,BOS,9,away,JS,,24,miss3,0,J. Crowder,
+87,1,1:12.0,19,23,LAC,BOS,1,home,DefReb,,,DefReb,,C. Paul,
+88,1,0:52.0,19,23,LAC,BOS,20,home,JS,block,5,miss2,0,B. Griffin,A. Johnson
+89,1,0:50.0,19,23,LAC,BOS,2,away,DefReb,,,DefReb,,A. Johnson,
+90,1,0:45.0,19,23,LAC,BOS,5,away,JS,,25,miss3,0,I. Thomas,
+91,1,0:43.0,19,23,LAC,BOS,2,away,OffReb,,,OffReb,,K. Olynyk,
+92,1,0:43.0,19,23,LAC,BOS,0,away,Timeout,,,,,,
+93,1,0:43.0,19,23,LAC,BOS,0,home,Sub,,,,,R. Felton,C. Paul
+94,1,0:43.0,19,23,LAC,BOS,0,away,Sub,,,,,J. Young,J. Crowder
+95,1,0:43.0,19,23,LAC,BOS,0,away,Sub,,,,,J. Brown,A. Johnson
+96,1,0:43.0,19,23,LAC,BOS,0,away,Sub,,,,,T. Rozier,I. Thomas
+97,1,0:31.0,19,25,LAC,BOS,12,away,JS,,17,make2,2,M. Smart,
+98,1,0:09.0,22,25,LAC,BOS,22,home,JS,assist,26,make3,3,M. Speights,A. Rivers
+99,1,0:03.0,22,25,LAC,BOS,6,away,JS,block,9,miss2,0,K. Olynyk,R. Felton
+100,1,0:02.0,22,25,LAC,BOS,1,home,DefReb,,,DefReb,,M. Speights,
+101,2,11:43.0,22,25,LAC,BOS,17,away,JS,,26,miss3,0,J. Young,
+102,2,11:42.0,22,25,LAC,BOS,1,home,DefReb,,,DefReb,,W. Johnson,
+103,2,11:25.0,22,25,LAC,BOS,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brown,W. Johnson
+104,2,11:17.0,22,25,LAC,BOS,8,home,JS,,19,miss2,0,J. Crawford,
+105,2,11:16.0,22,25,LAC,BOS,1,away,DefReb,,,DefReb,,T. Rozier,
+106,2,11:03.0,22,25,LAC,BOS,13,away,JS,,25,miss3,0,M. Smart,
+107,2,11:00.0,22,25,LAC,BOS,3,away,OffReb,,,OffReb,,K. Olynyk,
+108,2,10:59.0,22,27,LAC,BOS,1,away,LU,,3,make2,2,K. Olynyk,
+109,2,10:47.0,22,27,LAC,BOS,12,home,LU,,4,miss2,0,A. Rivers,
+110,2,10:43.0,22,27,LAC,BOS,4,away,DefReb,,,DefReb,,J. Young,
+111,2,10:36.0,22,27,LAC,BOS,7,away,JS,,8,miss2,0,T. Rozier,
+112,2,10:35.0,22,27,LAC,BOS,1,home,DefReb,,,DefReb,,M. Speights,
+113,2,10:27.0,24,27,LAC,BOS,8,home,JS,,3,make2,2,R. Felton,
+114,2,10:14.0,24,27,LAC,BOS,13,away,LostBall,steal,,turnover,,T. Rozier,R. Felton
+115,2,10:09.0,26,27,LAC,BOS,5,home,LU,assist,1,make2,2,A. Rivers,R. Felton
+116,2,9:44.0,26,27,LAC,BOS,25,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,M. Smart
+117,2,9:44.0,26,28,LAC,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
+118,2,9:44.0,26,29,LAC,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
+119,2,9:44.0,26,30,LAC,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
+120,2,9:34.0,26,30,LAC,BOS,10,home,LostBall,,,turnover,,M. Speights,
+121,2,9:34.0,26,30,LAC,BOS,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Speights,J. Brown
+122,2,9:22.0,26,30,LAC,BOS,12,away,JS,,27,miss3,0,K. Olynyk,
+123,2,9:21.0,26,30,LAC,BOS,1,away,OffReb,,,OffReb,,J. Brown,
+124,2,9:16.0,26,30,LAC,BOS,5,away,JS,,26,miss3,0,T. Rozier,
+125,2,9:16.0,26,30,LAC,BOS,0,home,DefReb,,,DefReb,,M. Speights,
+126,2,9:16.0,26,30,LAC,BOS,0,home,Timeout,,,,,,
+127,2,9:02.0,26,30,LAC,BOS,14,home,JS,,15,miss2,0,J. Crawford,
+128,2,8:57.0,26,30,LAC,BOS,5,away,DefReb,,,DefReb,,T. Rozier,
+129,2,8:48.0,26,30,LAC,BOS,9,away,JS,,26,miss3,0,J. Young,
+130,2,8:47.0,26,30,LAC,BOS,1,home,DefReb,,,DefReb,,M. Speights,
+131,2,8:37.0,26,30,LAC,BOS,10,home,LU,block,2,miss2,0,R. Felton,J. Brown
+132,2,8:35.0,26,30,LAC,BOS,2,away,DefReb,,,DefReb,,M. Smart,
+133,2,8:34.0,26,30,LAC,BOS,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crawford,K. Olynyk
+134,2,8:34.0,26,30,LAC,BOS,0,away,Timeout,,,,,,
+135,2,8:34.0,26,30,LAC,BOS,0,away,Sub,,,,,A. Bradley,J. Young
+136,2,8:34.0,26,30,LAC,BOS,0,home,Sub,,,,,D. Jordan,M. Speights
+137,2,8:21.0,26,32,LAC,BOS,13,away,LU,assist,3,make2,2,J. Brown,T. Rozier
+138,2,7:58.0,26,32,LAC,BOS,23,home,LU,,4,miss2,0,J. Crawford,
+139,2,7:57.0,26,32,LAC,BOS,1,away,DefReb,,,DefReb,,A. Bradley,
+140,2,7:48.0,26,32,LAC,BOS,9,away,JS,,18,miss2,0,M. Smart,
+141,2,7:48.0,26,32,LAC,BOS,0,home,DefReb,,,DefReb,,Team,
+142,2,7:48.0,26,32,LAC,BOS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Brown,W. Johnson
+143,2,7:33.0,26,32,LAC,BOS,15,home,LostBall,steal,,turnover,,A. Rivers,K. Olynyk
+144,2,7:27.0,26,32,LAC,BOS,6,away,BadPass,steal,,turnover,,A. Bradley,W. Johnson
+145,2,7:19.0,26,32,LAC,BOS,8,home,JS,,18,miss2,0,J. Crawford,
+146,2,7:16.0,26,32,LAC,BOS,3,away,DefReb,,,DefReb,,K. Olynyk,
+147,2,7:00.0,26,32,LAC,BOS,16,away,JS,,27,miss3,0,A. Bradley,
+148,2,6:59.0,26,32,LAC,BOS,1,home,DefReb,,,DefReb,,A. Rivers,
+149,2,6:54.0,26,32,LAC,BOS,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brown,A. Rivers
+150,2,6:54.0,26,32,LAC,BOS,0,home,Sub,,,,,C. Paul,R. Felton
+151,2,6:54.0,26,32,LAC,BOS,0,home,Sub,,,,,J. Redick,A. Rivers
+152,2,6:54.0,26,32,LAC,BOS,0,away,Sub,,,,,J. Crowder,J. Brown
+153,2,6:54.0,26,32,LAC,BOS,0,away,Sub,,,,,J. Young,M. Smart
+154,2,6:54.0,26,32,LAC,BOS,0,home,Sub,,,,,B. Griffin,W. Johnson
+155,2,6:43.0,26,32,LAC,BOS,11,home,LU,,3,miss2,0,J. Crawford,
+156,2,6:41.0,26,32,LAC,BOS,2,away,DefReb,,,DefReb,,K. Olynyk,
+157,2,6:35.0,26,34,LAC,BOS,6,away,JS,assist,4,make2,2,T. Rozier,J. Crowder
+158,2,6:20.0,28,34,LAC,BOS,15,home,JS,assist,19,make2,2,B. Griffin,J. Redick
+159,2,5:57.0,28,34,LAC,BOS,23,away,JS,,25,miss3,0,J. Young,
+160,2,5:56.0,28,34,LAC,BOS,1,away,OffReb,,,OffReb,,K. Olynyk,
+161,2,5:53.0,28,37,LAC,BOS,3,away,JS,assist,25,make3,3,T. Rozier,A. Bradley
+162,2,5:33.0,30,37,LAC,BOS,20,home,LU,assist,4,make2,2,B. Griffin,J. Redick
+163,2,5:18.0,30,37,LAC,BOS,15,away,JS,,15,miss2,0,A. Bradley,
+164,2,5:15.0,30,37,LAC,BOS,3,away,OffReb,,,OffReb,,K. Olynyk,
+165,2,5:14.0,30,37,LAC,BOS,1,away,JS,,26,miss3,0,T. Rozier,
+166,2,5:13.0,30,37,LAC,BOS,1,home,DefReb,,,DefReb,,D. Jordan,
+167,2,5:07.0,30,37,LAC,BOS,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Young,J. Crawford
+168,2,5:07.0,30,37,LAC,BOS,0,home,Timeout,,,,,,
+169,2,5:07.0,31,37,LAC,BOS,0,home,FreeThrow,,,make1,1,J. Crawford,
+170,2,5:07.0,30,37,LAC,BOS,0,away,Sub,,,,,I. Thomas,K. Olynyk
+171,2,5:07.0,30,37,LAC,BOS,0,away,Sub,,,,,A. Johnson,T. Rozier
+172,2,5:07.0,32,37,LAC,BOS,0,home,FreeThrow,,,make1,1,J. Crawford,
+173,2,4:45.0,32,37,LAC,BOS,22,away,JS,,25,miss3,0,J. Crowder,
+174,2,4:45.0,32,37,LAC,BOS,0,home,DefReb,,,DefReb,,D. Jordan,
+175,2,4:45.0,32,37,LAC,BOS,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crowder,D. Jordan
+176,2,4:45.0,32,37,LAC,BOS,0,home,FreeThrow,,,make1,0,D. Jordan,
+177,2,4:45.0,32,37,LAC,BOS,0,home,OffReb,,,OffReb,,Team,
+178,2,4:45.0,32,37,LAC,BOS,0,home,FreeThrow,,,make1,0,D. Jordan,
+179,2,4:45.0,32,37,LAC,BOS,0,home,Sub,,,,,A. Rivers,J. Crawford
+180,2,4:44.0,32,37,LAC,BOS,1,away,DefReb,,,DefReb,,J. Crowder,
+181,2,4:28.0,32,37,LAC,BOS,16,away,LostBall,steal,,turnover,,I. Thomas,C. Paul
+182,2,4:24.0,34,37,LAC,BOS,4,home,LU,assist,3,make2,2,C. Paul,A. Rivers
+183,2,4:01.0,34,37,LAC,BOS,23,away,JS,,19,miss2,0,J. Crowder,
+184,2,3:58.0,34,37,LAC,BOS,3,home,DefReb,,,DefReb,,D. Jordan,
+185,2,3:51.0,34,37,LAC,BOS,7,home,JS,,17,miss2,0,B. Griffin,
+186,2,3:50.0,34,37,LAC,BOS,1,away,DefReb,,,DefReb,,A. Johnson,
+187,2,3:44.0,34,37,LAC,BOS,6,away,JS,,26,miss3,0,I. Thomas,
+188,2,3:42.0,34,37,LAC,BOS,2,home,DefReb,,,DefReb,,C. Paul,
+189,2,3:32.0,34,37,LAC,BOS,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crowder,D. Jordan
+190,2,3:32.0,34,37,LAC,BOS,0,home,FreeThrow,,,make1,0,D. Jordan,
+191,2,3:32.0,34,37,LAC,BOS,0,home,OffReb,,,OffReb,,Team,
+192,2,3:32.0,34,37,LAC,BOS,0,home,FreeThrow,,,make1,0,D. Jordan,
+193,2,3:32.0,34,37,LAC,BOS,0,away,Sub,,,,,M. Smart,J. Young
+194,2,3:31.0,34,37,LAC,BOS,1,away,DefReb,,,DefReb,,J. Crowder,
+195,2,3:14.0,34,40,LAC,BOS,17,away,JS,assist,27,make3,3,J. Crowder,M. Smart
+196,2,3:03.0,34,40,LAC,BOS,11,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Johnson,D. Jordan
+197,2,3:03.0,34,40,LAC,BOS,0,home,FreeThrow,,,make1,0,D. Jordan,
+198,2,3:03.0,34,40,LAC,BOS,0,home,OffReb,,,OffReb,,Team,
+199,2,3:03.0,35,40,LAC,BOS,0,home,FreeThrow,,,make1,1,D. Jordan,
+200,2,2:50.0,35,42,LAC,BOS,13,away,JS,assist,6,make2,2,M. Smart,A. Johnson
+201,2,2:38.0,35,42,LAC,BOS,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,C. Paul
+202,2,2:38.0,35,42,LAC,BOS,0,away,Timeout,,,,,,
+203,2,2:38.0,36,42,LAC,BOS,0,home,FreeThrow,,,make1,1,C. Paul,
+204,2,2:38.0,35,42,LAC,BOS,0,away,Sub,,,,,K. Olynyk,A. Johnson
+205,2,2:38.0,37,42,LAC,BOS,0,home,FreeThrow,,,make1,1,C. Paul,
+206,2,2:23.0,37,42,LAC,BOS,15,away,LU,block,4,miss2,0,M. Smart,D. Jordan
+207,2,2:21.0,37,42,LAC,BOS,2,home,DefReb,,,DefReb,,A. Rivers,
+208,2,2:14.0,37,42,LAC,BOS,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Olynyk,D. Jordan
+209,2,2:14.0,37,42,LAC,BOS,0,home,FreeThrow,,,make1,0,D. Jordan,
+210,2,2:14.0,37,42,LAC,BOS,0,home,OffReb,,,OffReb,,Team,
+211,2,2:14.0,37,42,LAC,BOS,0,home,FreeThrow,,,make1,0,D. Jordan,
+212,2,2:14.0,37,42,LAC,BOS,0,away,Sub,,,,,T. Rozier,A. Bradley
+213,2,2:13.0,37,42,LAC,BOS,1,away,DefReb,,,DefReb,,K. Olynyk,
+214,2,2:01.0,37,44,LAC,BOS,12,away,LU,,1,make2,2,I. Thomas,
+215,2,1:51.0,37,44,LAC,BOS,10,home,JS,,26,miss3,0,C. Paul,
+216,2,1:50.0,37,44,LAC,BOS,1,home,OffReb,,,OffReb,,D. Jordan,
+217,2,1:50.0,37,44,LAC,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,D. Jordan
+218,2,1:50.0,38,44,LAC,BOS,0,home,FreeThrow,,,make1,1,D. Jordan,
+219,2,1:50.0,38,44,LAC,BOS,0,home,FreeThrow,,,make1,0,D. Jordan,
+220,2,1:50.0,38,44,LAC,BOS,0,away,Sub,,,,,T. Zeller,K. Olynyk
+221,2,1:48.0,38,44,LAC,BOS,2,away,DefReb,,,DefReb,,J. Crowder,
+222,2,1:39.0,38,44,LAC,BOS,9,away,BadPass,,,turnover,,I. Thomas,
+223,2,1:15.0,38,44,LAC,BOS,24,home,JS,,26,miss3,0,B. Griffin,
+224,2,1:14.0,38,44,LAC,BOS,1,home,OffReb,,,OffReb,,C. Paul,
+225,2,1:11.0,38,44,LAC,BOS,3,home,LostBall,steal,,turnover,,C. Paul,M. Smart
+226,2,1:07.0,38,44,LAC,BOS,4,away,LU,,2,miss2,0,J. Crowder,
+227,2,1:06.0,38,44,LAC,BOS,1,home,DefReb,,,DefReb,,B. Griffin,
+228,2,1:00.0,40,44,LAC,BOS,6,home,JS,,8,make2,2,C. Paul,
+229,2,0:49.0,40,44,LAC,BOS,11,away,JS,,13,miss2,0,I. Thomas,
+230,2,0:45.0,40,44,LAC,BOS,4,home,DefReb,,,DefReb,,D. Jordan,
+231,2,0:30.0,40,44,LAC,BOS,15,home,JS,,15,miss2,0,C. Paul,
+232,2,0:29.0,40,44,LAC,BOS,1,away,DefReb,,,DefReb,,Team,
+233,2,0:28.0,40,44,LAC,BOS,1,home,Sub,,,,,L. Mbah a Moute,J. Redick
+234,2,0:11.0,40,46,LAC,BOS,17,away,JS,,16,make2,2,M. Smart,
+235,2,0:01.0,42,46,LAC,BOS,10,home,LU,,2,make2,2,C. Paul,
+236,2,0:01.0,42,46,LAC,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Zeller,C. Paul
+237,2,0:01.0,43,46,LAC,BOS,0,home,FreeThrow,,,make1,1,C. Paul,
+238,2,0:00.0,43,46,LAC,BOS,1,away,JS,,61,miss3,0,M. Smart,
+239,2,0:00.0,43,46,LAC,BOS,0,away,OffReb,,,OffReb,,Team,
+240,3,11:34.0,43,46,LAC,BOS,26,away,JS,,20,miss2,0,J. Crowder,
+241,3,11:32.0,43,46,LAC,BOS,2,away,OffReb,,,OffReb,,A. Johnson,
+242,3,11:23.0,43,46,LAC,BOS,9,away,LU,,2,miss2,0,I. Thomas,
+243,3,11:18.0,43,46,LAC,BOS,5,home,DefReb,,,DefReb,,J. Redick,
+244,3,11:12.0,43,46,LAC,BOS,6,home,JS,,18,miss2,0,J. Redick,
+245,3,11:10.0,43,46,LAC,BOS,2,home,OffReb,,,OffReb,,D. Jordan,
+246,3,11:10.0,43,46,LAC,BOS,0,home,DK,,0,miss2,0,D. Jordan,
+247,3,11:04.0,43,46,LAC,BOS,6,away,DefReb,,,DefReb,,J. Brown,
+248,3,11:02.0,43,46,LAC,BOS,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Redick,J. Brown
+249,3,10:53.0,43,46,LAC,BOS,9,away,LU,,2,miss2,0,J. Crowder,
+250,3,10:50.0,43,46,LAC,BOS,3,home,DefReb,,,DefReb,,L. Mbah a Moute,
+251,3,10:39.0,43,46,LAC,BOS,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bradley,B. Griffin
+252,3,10:39.0,44,46,LAC,BOS,0,home,FreeThrow,,,make1,1,B. Griffin,
+253,3,10:39.0,45,46,LAC,BOS,0,home,FreeThrow,,,make1,1,B. Griffin,
+254,3,10:22.0,45,48,LAC,BOS,17,away,JS,,7,make2,2,A. Bradley,
+255,3,9:59.0,47,48,LAC,BOS,23,home,DK,assist,0,make2,2,B. Griffin,C. Paul
+256,3,9:35.0,47,48,LAC,BOS,24,away,JS,,20,miss2,0,A. Bradley,
+257,3,9:34.0,47,48,LAC,BOS,1,home,DefReb,,,DefReb,,B. Griffin,
+258,3,9:15.0,47,48,LAC,BOS,19,home,JS,,21,miss2,0,J. Redick,
+259,3,9:15.0,47,48,LAC,BOS,0,away,DefReb,,,DefReb,,A. Bradley,
+260,3,9:15.0,47,48,LAC,BOS,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Jordan,A. Bradley
+261,3,8:57.0,47,48,LAC,BOS,18,away,JS,block,4,miss2,0,A. Johnson,D. Jordan
+262,3,8:55.0,47,48,LAC,BOS,2,away,OffReb,,,OffReb,,A. Johnson,
+263,3,8:48.0,47,50,LAC,BOS,7,away,JS,assist,22,make2,2,J. Crowder,A. Johnson
+264,3,8:28.0,47,50,LAC,BOS,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Brown,D. Jordan
+265,3,8:28.0,47,50,LAC,BOS,0,home,FreeThrow,,,make1,0,D. Jordan,
+266,3,8:28.0,47,50,LAC,BOS,0,home,OffReb,,,OffReb,,Team,
+267,3,8:28.0,48,50,LAC,BOS,0,home,FreeThrow,,,make1,1,D. Jordan,
+268,3,8:14.0,48,52,LAC,BOS,14,away,DK,,0,make2,2,A. Bradley,
+269,3,7:54.0,50,52,LAC,BOS,20,home,LU,assist,2,make2,2,L. Mbah a Moute,B. Griffin
+270,3,7:49.0,50,52,LAC,BOS,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Griffin,I. Thomas
+271,3,7:43.0,50,52,LAC,BOS,6,away,LU,block,4,miss2,0,A. Johnson,L. Mbah a Moute
+272,3,7:43.0,50,52,LAC,BOS,0,away,OffReb,,,OffReb,,Team,
+273,3,7:41.0,50,54,LAC,BOS,2,away,LU,assist,1,make2,2,A. Bradley,J. Brown
+274,3,7:29.0,50,54,LAC,BOS,12,home,JS,,26,miss3,0,J. Redick,
+275,3,7:28.0,50,54,LAC,BOS,1,away,DefReb,,,DefReb,,A. Johnson,
+276,3,7:19.0,50,57,LAC,BOS,9,away,JS,,26,make3,3,I. Thomas,
+277,3,6:54.0,50,57,LAC,BOS,25,home,JS,,26,miss3,0,L. Mbah a Moute,
+278,3,6:51.0,50,57,LAC,BOS,3,away,DefReb,,,DefReb,,I. Thomas,
+279,3,6:51.0,50,57,LAC,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Redick,A. Johnson
+280,3,6:51.0,50,58,LAC,BOS,0,away,FreeThrow,,,make1,1,A. Johnson,
+281,3,6:51.0,50,58,LAC,BOS,0,away,FreeThrow,,,make1,0,A. Johnson,
+282,3,6:51.0,50,58,LAC,BOS,0,away,Sub,,,,,M. Smart,J. Brown
+283,3,6:51.0,50,58,LAC,BOS,0,home,Sub,,,,,J. Crawford,D. Jordan
+284,3,6:51.0,50,58,LAC,BOS,0,home,Sub,,,,,M. Speights,J. Redick
+285,3,6:49.0,50,58,LAC,BOS,2,home,DefReb,,,DefReb,,M. Speights,
+286,3,6:38.0,50,58,LAC,BOS,11,home,JS,,19,miss2,0,B. Griffin,
+287,3,6:37.0,50,58,LAC,BOS,1,away,DefReb,,,DefReb,,I. Thomas,
+288,3,6:28.0,50,58,LAC,BOS,9,away,LU,,1,miss2,0,A. Bradley,
+289,3,6:27.0,50,58,LAC,BOS,1,home,DefReb,,,DefReb,,L. Mbah a Moute,
+290,3,6:20.0,50,58,LAC,BOS,7,home,JS,,28,miss3,0,M. Speights,
+291,3,6:19.0,50,58,LAC,BOS,1,away,DefReb,,,DefReb,,J. Crowder,
+292,3,6:11.0,50,58,LAC,BOS,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,I. Thomas
+293,3,6:11.0,50,59,LAC,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+294,3,6:11.0,50,59,LAC,BOS,0,home,Sub,,,,,A. Rivers,L. Mbah a Moute
+295,3,6:11.0,50,60,LAC,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+296,3,5:50.0,50,60,LAC,BOS,21,home,JS,,26,miss3,0,M. Speights,
+297,3,5:49.0,50,60,LAC,BOS,1,home,OffReb,,,OffReb,,B. Griffin,
+298,3,5:49.0,50,60,LAC,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,B. Griffin
+299,3,5:49.0,50,60,LAC,BOS,0,home,Timeout,,,,,,
+300,3,5:49.0,51,60,LAC,BOS,0,home,FreeThrow,,,make1,1,B. Griffin,
+301,3,5:49.0,50,60,LAC,BOS,0,away,Sub,,,,,K. Olynyk,A. Johnson
+302,3,5:49.0,50,60,LAC,BOS,0,away,Sub,,,,,T. Rozier,A. Bradley
+303,3,5:49.0,52,60,LAC,BOS,0,home,FreeThrow,,,make1,1,B. Griffin,
+304,3,5:34.0,52,60,LAC,BOS,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,I. Thomas
+305,3,5:34.0,52,61,LAC,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+306,3,5:34.0,52,62,LAC,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+307,3,5:17.0,52,62,LAC,BOS,17,home,JS,,6,miss2,0,A. Rivers,
+308,3,5:16.0,52,62,LAC,BOS,1,home,OffReb,,,OffReb,,M. Speights,
+309,3,5:12.0,52,62,LAC,BOS,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Smart,M. Speights
+310,3,5:12.0,52,62,LAC,BOS,0,home,FreeThrow,,,make1,0,M. Speights,
+311,3,5:12.0,52,62,LAC,BOS,0,home,OffReb,,,OffReb,,Team,
+312,3,5:12.0,53,62,LAC,BOS,0,home,FreeThrow,,,make1,1,M. Speights,
+313,3,4:46.0,53,64,LAC,BOS,26,away,LU,assist,0,make2,2,K. Olynyk,I. Thomas
+314,3,4:35.0,53,64,LAC,BOS,11,home,LostBall,steal,,turnover,,C. Paul,I. Thomas
+315,3,4:29.0,53,66,LAC,BOS,6,away,LU,assist,2,make2,2,J. Crowder,I. Thomas
+316,3,4:09.0,53,66,LAC,BOS,20,home,JS,,25,miss3,0,C. Paul,
+317,3,4:08.0,53,66,LAC,BOS,1,home,OffReb,,,OffReb,,M. Speights,
+318,3,4:07.0,55,66,LAC,BOS,1,home,LU,,1,make2,2,M. Speights,
+319,3,3:48.0,55,66,LAC,BOS,19,away,Traveling,,,turnover,,K. Olynyk,
+320,3,3:34.0,57,66,LAC,BOS,14,home,JS,,19,make2,2,C. Paul,
+321,3,3:16.0,57,66,LAC,BOS,18,away,JS,,25,miss3,0,J. Crowder,
+322,3,3:14.0,57,66,LAC,BOS,2,home,DefReb,,,DefReb,,C. Paul,
+323,3,3:08.0,60,66,LAC,BOS,6,home,JS,,25,make3,3,C. Paul,
+324,3,3:08.0,60,66,LAC,BOS,0,away,Timeout,,,,,,
+325,3,3:08.0,60,66,LAC,BOS,0,away,Sub,,,,,J. Brown,J. Crowder
+326,3,2:55.0,60,66,LAC,BOS,13,away,LostBall,steal,,turnover,,K. Olynyk,C. Paul
+327,3,2:45.0,62,66,LAC,BOS,10,home,JS,assist,6,make2,2,M. Speights,J. Crawford
+328,3,2:27.0,62,68,LAC,BOS,18,away,LU,assist,3,make2,2,I. Thomas,K. Olynyk
+329,3,2:27.0,62,68,LAC,BOS,0,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,B. Griffin,I. Thomas
+330,3,2:27.0,62,69,LAC,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+331,3,2:11.0,62,69,LAC,BOS,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Olynyk,B. Griffin
+332,3,2:11.0,63,69,LAC,BOS,0,home,FreeThrow,,,make1,1,B. Griffin,
+333,3,2:11.0,63,69,LAC,BOS,0,away,Sub,,,,,J. Young,I. Thomas
+334,3,2:11.0,63,69,LAC,BOS,0,home,Sub,,,,,R. Felton,C. Paul
+335,3,2:11.0,64,69,LAC,BOS,0,home,FreeThrow,,,make1,1,B. Griffin,
+336,3,1:57.0,64,69,LAC,BOS,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Rivers,M. Smart
+337,3,1:57.0,64,70,LAC,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
+338,3,1:57.0,64,70,LAC,BOS,0,away,Sub,,,,,J. Mickey,K. Olynyk
+339,3,1:57.0,64,71,LAC,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
+340,3,1:41.0,67,71,LAC,BOS,16,home,JS,,26,make3,3,J. Crawford,
+341,3,1:22.0,67,71,LAC,BOS,19,away,BadPass,steal,,turnover,,J. Young,J. Crawford
+342,3,1:14.0,70,71,LAC,BOS,8,home,JS,assist,24,make3,3,J. Crawford,A. Rivers
+343,3,0:54.0,70,71,LAC,BOS,20,away,JS,,4,miss2,0,T. Rozier,
+344,3,0:49.0,70,71,LAC,BOS,5,home,DefReb,,,DefReb,,R. Felton,
+345,3,0:48.0,72,71,LAC,BOS,1,home,HS,,5,make2,2,B. Griffin,
+346,3,0:35.0,72,71,LAC,BOS,13,home,ChargeFoul,DrawnBy,,ChargeFoul,,M. Smart,M. Speights
+347,3,0:35.0,72,71,LAC,BOS,0,away,OffensiveFoul,,,turnover,,M. Smart,
+348,3,0:35.0,72,71,LAC,BOS,0,away,Sub,,,,,A. Bradley,J. Brown
+349,3,0:31.0,75,71,LAC,BOS,4,home,JS,,29,make3,3,J. Crawford,
+350,3,0:17.0,75,71,LAC,BOS,14,away,LU,,3,miss2,0,A. Bradley,
+351,3,0:14.0,75,71,LAC,BOS,3,home,DefReb,,,DefReb,,M. Speights,
+352,3,0:04.0,75,71,LAC,BOS,10,home,JS,,28,miss3,0,J. Crawford,
+353,3,0:00.0,75,71,LAC,BOS,4,home,OffReb,,,OffReb,,Team,
+354,4,11:43.0,75,71,LAC,BOS,17,home,BadPass,steal,,turnover,,J. Crawford,J. Young
+355,4,11:25.0,75,74,LAC,BOS,18,away,JS,assist,26,make3,3,J. Young,T. Rozier
+356,4,11:04.0,75,74,LAC,BOS,21,home,JS,,25,miss3,0,W. Johnson,
+357,4,11:03.0,75,74,LAC,BOS,1,away,DefReb,,,DefReb,,M. Smart,
+358,4,10:49.0,75,74,LAC,BOS,14,away,HS,,5,miss2,0,K. Olynyk,
+359,4,10:45.0,75,74,LAC,BOS,4,home,DefReb,,,DefReb,,R. Felton,
+360,4,10:42.0,77,74,LAC,BOS,3,home,LU,,3,make2,2,R. Felton,
+361,4,10:42.0,77,74,LAC,BOS,0,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,K. Olynyk,R. Felton
+362,4,10:42.0,77,74,LAC,BOS,0,home,Sub,,,,,D. Jordan,M. Speights
+363,4,10:42.0,78,74,LAC,BOS,0,home,FreeThrow,,,make1,1,R. Felton,
+364,4,10:26.0,78,74,LAC,BOS,16,away,JS,,25,miss3,0,T. Rozier,
+365,4,10:25.0,78,74,LAC,BOS,1,home,DefReb,,,DefReb,,D. Jordan,
+366,4,10:14.0,80,74,LAC,BOS,11,home,LU,,3,make2,2,J. Crawford,
+367,4,10:01.0,80,74,LAC,BOS,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Rivers,M. Smart
+368,4,9:51.0,80,74,LAC,BOS,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Rivers,M. Smart
+369,4,9:51.0,80,74,LAC,BOS,0,away,FreeThrow,,,make1,0,M. Smart,
+370,4,9:51.0,80,74,LAC,BOS,0,away,OffReb,,,OffReb,,Team,
+371,4,9:51.0,80,75,LAC,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
+372,4,9:51.0,80,75,LAC,BOS,0,away,Sub,,,,,J. Brown,K. Olynyk
+373,4,9:51.0,80,76,LAC,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
+374,4,9:35.0,82,76,LAC,BOS,16,home,DK,assist,0,make2,2,D. Jordan,J. Crawford
+375,4,9:24.0,82,76,LAC,BOS,11,away,JS,,25,miss3,0,M. Smart,
+376,4,9:23.0,82,76,LAC,BOS,1,home,DefReb,,,DefReb,,D. Jordan,
+377,4,9:10.0,84,76,LAC,BOS,13,home,JS,,19,make2,2,J. Crawford,
+378,4,9:10.0,84,76,LAC,BOS,0,away,Timeout,,,,,,
+379,4,9:10.0,84,76,LAC,BOS,0,away,Sub,,,,,A. Bradley,T. Rozier
+380,4,9:10.0,84,76,LAC,BOS,0,away,Sub,,,,,I. Thomas,J. Young
+381,4,8:57.0,84,79,LAC,BOS,13,away,JS,assist,26,make3,3,J. Brown,I. Thomas
+382,4,8:45.0,84,79,LAC,BOS,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,R. Felton
+383,4,8:45.0,85,79,LAC,BOS,0,home,FreeThrow,,,make1,1,R. Felton,
+384,4,8:45.0,86,79,LAC,BOS,0,home,FreeThrow,,,make1,1,R. Felton,
+385,4,8:40.0,86,79,LAC,BOS,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Johnson,I. Thomas
+386,4,8:28.0,86,79,LAC,BOS,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Johnson,A. Bradley
+387,4,8:28.0,86,79,LAC,BOS,0,away,FreeThrow,,,make1,0,A. Bradley,
+388,4,8:28.0,86,79,LAC,BOS,0,away,OffReb,,,OffReb,,Team,
+389,4,8:28.0,86,80,LAC,BOS,0,away,FreeThrow,,,make1,1,A. Bradley,
+390,4,8:22.0,86,80,LAC,BOS,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bradley,R. Felton
+391,4,8:22.0,86,80,LAC,BOS,0,away,Sub,,,,,J. Crowder,A. Johnson
+392,4,8:05.0,88,80,LAC,BOS,17,home,JS,assist,15,make2,2,W. Johnson,J. Crawford
+393,4,7:41.0,88,80,LAC,BOS,24,away,LostBall,steal,,turnover,,A. Bradley,R. Felton
+394,4,7:37.0,90,80,LAC,BOS,4,home,DK,assist,0,make2,2,D. Jordan,R. Felton
+395,4,7:15.0,90,80,LAC,BOS,22,away,JS,,25,miss3,0,I. Thomas,
+396,4,7:14.0,90,80,LAC,BOS,1,home,DefReb,,,DefReb,,W. Johnson,
+397,4,7:05.0,92,80,LAC,BOS,9,home,LU,assist,2,make2,2,D. Jordan,J. Crawford
+398,4,6:50.0,92,80,LAC,BOS,15,away,LU,,1,miss2,0,I. Thomas,
+399,4,6:46.0,92,80,LAC,BOS,4,home,DefReb,,,DefReb,,D. Jordan,
+400,4,6:36.0,94,80,LAC,BOS,10,home,DK,assist,0,make2,2,D. Jordan,R. Felton
+401,4,6:35.0,94,80,LAC,BOS,1,away,Timeout,,,,,,
+402,4,6:35.0,94,80,LAC,BOS,0,away,Sub,,,,,K. Olynyk,J. Brown
+403,4,6:16.0,94,80,LAC,BOS,19,away,JS,,24,miss3,0,J. Crowder,
+404,4,6:14.0,94,80,LAC,BOS,2,home,DefReb,,,DefReb,,J. Crawford,
+405,4,6:08.0,96,80,LAC,BOS,6,home,DK,assist,0,make2,2,D. Jordan,J. Crawford
+406,4,5:49.0,96,82,LAC,BOS,19,away,LU,assist,2,make2,2,A. Bradley,I. Thomas
+407,4,5:33.0,99,82,LAC,BOS,16,home,JS,assist,25,make3,3,A. Rivers,R. Felton
+408,4,5:18.0,99,82,LAC,BOS,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Rivers,A. Bradley
+409,4,5:18.0,99,82,LAC,BOS,0,away,TechnicalFoul,,,TechnicalFoul,,I. Thomas,
+410,4,5:18.0,99,82,LAC,BOS,0,home,FreeThrow,,,make1,0,J. Crawford misses technical free throw,
+411,4,5:18.0,99,82,LAC,BOS,0,away,OffReb,,,OffReb,,Team,
+412,4,5:18.0,99,83,LAC,BOS,0,away,FreeThrow,,,make1,1,A. Bradley,
+413,4,5:18.0,99,83,LAC,BOS,0,away,Sub,,,,,T. Zeller,K. Olynyk
+414,4,5:18.0,99,84,LAC,BOS,0,away,FreeThrow,,,make1,1,A. Bradley,
+415,4,5:10.0,99,84,LAC,BOS,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,A. Rivers
+416,4,5:07.0,99,84,LAC,BOS,3,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Zeller,D. Jordan
+417,4,5:07.0,99,84,LAC,BOS,0,home,FreeThrow,,,make1,0,D. Jordan,
+418,4,5:07.0,99,84,LAC,BOS,0,home,OffReb,,,OffReb,,Team,
+419,4,5:07.0,99,84,LAC,BOS,0,home,FreeThrow,,,make1,0,D. Jordan,
+420,4,5:06.0,99,84,LAC,BOS,1,away,DefReb,,,DefReb,,T. Zeller,
+421,4,4:53.0,99,84,LAC,BOS,13,away,JS,,6,miss2,0,A. Bradley,
+422,4,4:52.0,99,84,LAC,BOS,1,home,DefReb,,,DefReb,,Team,
+423,4,4:52.0,99,84,LAC,BOS,0,home,Sub,,,,,B. Griffin,D. Jordan
+424,4,4:47.0,99,84,LAC,BOS,5,home,JS,,3,miss2,0,B. Griffin,
+425,4,4:46.0,99,84,LAC,BOS,1,home,OffReb,,,OffReb,,B. Griffin,
+426,4,4:31.0,99,84,LAC,BOS,15,home,LostBall,steal,,turnover,,A. Rivers,I. Thomas
+427,4,4:25.0,99,87,LAC,BOS,6,away,JS,assist,27,make3,3,I. Thomas,M. Smart
+428,4,4:24.0,99,87,LAC,BOS,1,home,Timeout,,,,,,
+429,4,4:12.0,99,87,LAC,BOS,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,A. Rivers
+430,4,4:12.0,100,87,LAC,BOS,0,home,FreeThrow,,,make1,1,A. Rivers,
+431,4,4:12.0,101,87,LAC,BOS,0,home,FreeThrow,,,make1,1,A. Rivers,
+432,4,4:04.0,101,87,LAC,BOS,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,I. Thomas
+433,4,4:04.0,101,88,LAC,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+434,4,4:04.0,101,89,LAC,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+435,4,3:49.0,104,89,LAC,BOS,15,home,JS,,26,make3,3,J. Crawford,
+436,4,3:49.0,104,89,LAC,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Zeller,J. Crawford
+437,4,3:49.0,105,89,LAC,BOS,0,home,FreeThrow,,,make1,1,J. Crawford,
+438,4,3:38.0,105,89,LAC,BOS,11,away,JS,block,25,miss3,0,I. Thomas,R. Felton
+439,4,3:36.0,105,89,LAC,BOS,2,home,DefReb,,,DefReb,,A. Rivers,
+440,4,3:33.0,107,89,LAC,BOS,3,home,DK,assist,0,make2,2,B. Griffin,R. Felton
+441,4,3:25.0,107,91,LAC,BOS,8,away,LU,,2,make2,2,M. Smart,
+442,4,3:25.0,107,91,LAC,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,M. Smart
+443,4,3:25.0,107,92,LAC,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
+444,4,3:12.0,107,92,LAC,BOS,13,home,BadPass,steal,,turnover,,A. Rivers,I. Thomas
+445,4,3:06.0,107,94,LAC,BOS,6,away,LU,,3,make2,2,I. Thomas,
+446,4,2:49.0,107,94,LAC,BOS,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,R. Felton
+447,4,2:49.0,108,94,LAC,BOS,0,home,FreeThrow,,,make1,1,R. Felton,
+448,4,2:49.0,108,94,LAC,BOS,0,away,Sub,,,,,J. Brown,A. Bradley
+449,4,2:49.0,109,94,LAC,BOS,0,home,FreeThrow,,,make1,1,R. Felton,
+450,4,2:34.0,109,96,LAC,BOS,15,away,LU,assist,2,make2,2,I. Thomas,T. Zeller
+451,4,2:15.0,109,96,LAC,BOS,19,home,LostBall,,,turnover,,R. Felton,
+452,4,2:09.0,109,98,LAC,BOS,6,away,LU,,4,make2,2,J. Brown,
+453,4,2:09.0,109,98,LAC,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Johnson,J. Brown
+454,4,2:09.0,109,98,LAC,BOS,0,home,Sub,,,,,C. Paul,A. Rivers
+455,4,2:09.0,109,99,LAC,BOS,0,away,FreeThrow,,,make1,1,J. Brown,
+456,4,1:54.0,109,99,LAC,BOS,15,home,LU,,4,miss2,0,J. Crawford,
+457,4,1:51.0,109,99,LAC,BOS,3,away,DefReb,,,DefReb,,J. Brown,
+458,4,1:46.0,109,99,LAC,BOS,5,away,JS,,25,miss3,0,M. Smart,
+459,4,1:44.0,109,99,LAC,BOS,2,home,DefReb,,,DefReb,,R. Felton,
+460,4,1:27.0,109,99,LAC,BOS,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crowder,B. Griffin
+461,4,1:27.0,110,99,LAC,BOS,0,home,FreeThrow,,,make1,1,B. Griffin,
+462,4,1:27.0,111,99,LAC,BOS,0,home,FreeThrow,,,make1,1,B. Griffin,
+463,4,1:18.0,111,99,LAC,BOS,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Johnson,I. Thomas
+464,4,1:18.0,111,99,LAC,BOS,0,away,FreeThrow,,,make1,0,I. Thomas,
+465,4,1:18.0,111,99,LAC,BOS,0,away,OffReb,,,OffReb,,Team,
+466,4,1:18.0,111,99,LAC,BOS,0,away,Sub,,,,,T. Rozier,T. Zeller
+467,4,1:18.0,111,100,LAC,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+468,4,0:57.0,111,100,LAC,BOS,21,home,LostBall,steal,,turnover,,C. Paul,J. Brown
+469,4,0:53.0,111,102,LAC,BOS,4,away,LU,assist,3,make2,2,M. Smart,J. Brown
+470,4,0:47.0,111,102,LAC,BOS,6,home,Timeout,,,,,,
+471,4,0:47.0,111,102,LAC,BOS,0,home,Sub,,,,,A. Rivers,W. Johnson
+472,4,0:36.0,111,102,LAC,BOS,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,C. Paul
+473,4,0:36.0,112,102,LAC,BOS,0,home,FreeThrow,,,make1,1,C. Paul,
+474,4,0:36.0,112,102,LAC,BOS,0,away,Sub,,,,,J. Young,I. Thomas
+475,4,0:36.0,112,102,LAC,BOS,0,away,Sub,,,,,J. Mickey,M. Smart
+476,4,0:36.0,112,102,LAC,BOS,0,away,Sub,,,,,T. Zeller,J. Crowder
+477,4,0:36.0,113,102,LAC,BOS,0,home,FreeThrow,,,make1,1,C. Paul,
+478,4,0:30.0,113,102,LAC,BOS,6,away,LostBall,steal,,turnover,,J. Brown,C. Paul
+479,4,0:07.0,116,102,LAC,BOS,23,home,JS,assist,28,make3,3,B. Griffin,C. Paul

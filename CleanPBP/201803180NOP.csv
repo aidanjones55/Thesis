@@ -1,0 +1,444 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,0,0,NOP,BOS,19,home,JS,,10,miss2,0,A. Davis,
+1,1,11:37.0,0,0,NOP,BOS,4,away,DefReb,,,DefReb,,A. Horford,
+2,1,11:17.0,0,0,NOP,BOS,20,away,JS,,15,miss2,0,J. Tatum,
+3,1,11:13.0,0,0,NOP,BOS,4,away,OffReb,,,OffReb,,A. Horford,
+4,1,11:12.0,0,3,NOP,BOS,1,away,JS,assist,22,make3,3,T. Rozier,A. Horford
+5,1,10:51.0,0,3,NOP,BOS,21,home,bad pass,steal,,turnover,,E. Moore,J. Tatum
+6,1,10:47.0,0,5,NOP,BOS,4,away,LU,,1,make2,2,J. Tatum,
+7,1,10:47.0,0,5,NOP,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,J. Tatum
+8,1,10:47.0,0,6,NOP,BOS,0,away,FreeThrow,,,make1,1,J. Tatum,
+9,1,10:36.0,0,6,NOP,BOS,11,home,JS,,8,miss2,0,R. Rondo,
+10,1,10:32.0,0,6,NOP,BOS,4,away,DefReb,,,DefReb,,T. Rozier,
+11,1,10:16.0,0,8,NOP,BOS,16,away,JS,,8,make2,2,M. Morris,
+12,1,10:02.0,0,8,NOP,BOS,14,home,JS,,25,miss3,0,E. Moore,
+13,1,9:58.0,0,8,NOP,BOS,4,away,DefReb,,,DefReb,,A. Baynes,
+14,1,9:52.0,0,8,NOP,BOS,6,away,JS,,27,miss3,0,T. Rozier,
+15,1,9:49.0,0,8,NOP,BOS,3,home,DefReb,,,DefReb,,Team,
+16,1,9:30.0,0,8,NOP,BOS,19,home,JS,,18,miss2,0,A. Davis,
+17,1,9:26.0,0,8,NOP,BOS,4,away,DefReb,,,DefReb,,J. Tatum,
+18,1,9:17.0,0,8,NOP,BOS,9,away,JS,,13,miss2,0,A. Horford,
+19,1,9:14.0,0,8,NOP,BOS,3,home,DefReb,,,DefReb,,Team,
+20,1,9:14.0,0,8,NOP,BOS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Baynes,E. Okafor
+21,1,9:00.0,0,8,NOP,BOS,14,home,LU,,5,miss2,0,E. Moore,
+22,1,8:59.0,0,8,NOP,BOS,1,away,DefReb,,,DefReb,,A. Baynes,
+23,1,8:49.0,0,8,NOP,BOS,10,away,JS,,22,miss3,0,T. Rozier,
+24,1,8:47.0,0,8,NOP,BOS,2,home,DefReb,,,DefReb,,E. Okafor,
+25,1,8:35.0,2,8,NOP,BOS,12,home,LU,assist,1,make2,2,R. Rondo,A. Davis
+26,1,8:15.0,2,8,NOP,BOS,20,away,LU,block,2,miss2,0,J. Tatum,E. Okafor
+27,1,8:15.0,2,8,NOP,BOS,0,away,OffReb,,,OffReb,,Team,
+28,1,8:11.0,2,8,NOP,BOS,4,away,DK,,2,miss2,0,A. Baynes,
+29,1,8:11.0,2,8,NOP,BOS,0,home,DefReb,,,DefReb,,A. Davis,
+30,1,8:00.0,2,8,NOP,BOS,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Tatum,A. Davis
+31,1,7:46.0,4,8,NOP,BOS,14,home,JS,assist,14,make2,2,A. Davis,R. Rondo
+32,1,7:28.0,4,10,NOP,BOS,18,away,LU,assist,3,make2,2,J. Tatum,A. Baynes
+33,1,7:20.0,4,10,NOP,BOS,8,home,LU,block,2,miss2,0,R. Rondo,A. Baynes
+34,1,7:17.0,4,10,NOP,BOS,3,home,OffReb,,,OffReb,,R. Rondo,
+35,1,7:17.0,4,10,NOP,BOS,0,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,A. Baynes,R. Rondo
+36,1,7:17.0,4,10,NOP,BOS,0,away,Sub,,,,,G. Monroe,A. Baynes
+37,1,7:09.0,6,10,NOP,BOS,8,home,JS,,8,make2,2,A. Davis,
+38,1,6:58.0,6,10,NOP,BOS,11,away,JS,,26,miss3,0,A. Horford,
+39,1,6:53.0,6,10,NOP,BOS,5,home,DefReb,,,DefReb,,J. Holiday,
+40,1,6:44.0,8,10,NOP,BOS,9,home,DK,assist,0,make2,2,A. Davis,R. Rondo
+41,1,6:28.0,8,10,NOP,BOS,16,away,bad pass,steal,,turnover,,G. Monroe,A. Davis
+42,1,6:23.0,8,10,NOP,BOS,5,home,lost ball,steal,,turnover,,A. Davis,T. Rozier
+43,1,6:18.0,8,13,NOP,BOS,5,away,JS,assist,26,make3,3,J. Tatum,T. Rozier
+44,1,6:07.0,10,13,NOP,BOS,11,home,DK,assist,0,make2,2,E. Okafor,J. Holiday
+45,1,5:45.0,10,15,NOP,BOS,22,away,HS,,3,make2,2,G. Monroe,
+46,1,5:36.0,10,15,NOP,BOS,9,home,bad pass,steal,,turnover,,R. Rondo,M. Morris
+47,1,5:20.0,10,15,NOP,BOS,16,away,LU,,3,miss2,0,G. Monroe,
+48,1,5:18.0,10,15,NOP,BOS,2,home,DefReb,,,DefReb,,A. Davis,
+49,1,5:06.0,10,15,NOP,BOS,12,home,JS,,25,miss3,0,A. Davis,
+50,1,5:02.0,10,15,NOP,BOS,4,home,OffReb,,,OffReb,,E. Okafor,
+51,1,4:56.0,10,15,NOP,BOS,6,home,JS,,22,miss3,0,J. Holiday,
+52,1,4:55.0,10,15,NOP,BOS,1,away,DefReb,,,DefReb,,T. Rozier,
+53,1,4:55.0,10,15,NOP,BOS,0,away,Timeout,,,,,,
+54,1,4:55.0,10,15,NOP,BOS,0,home,Sub,,,,,I. Clark,J. Holiday
+55,1,4:55.0,10,15,NOP,BOS,0,home,Sub,,,,,N. Mirotić,E. Okafor
+56,1,4:55.0,10,15,NOP,BOS,0,home,Sub,,,,,S. Hill,E. Moore
+57,1,4:55.0,10,15,NOP,BOS,0,away,Sub,,,,,A. Nader,J. Tatum
+58,1,4:40.0,10,15,NOP,BOS,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Mirotić,M. Morris
+59,1,4:40.0,10,16,NOP,BOS,0,away,FreeThrow,,,make1,1,M. Morris,
+60,1,4:40.0,10,17,NOP,BOS,0,away,FreeThrow,,,make1,1,M. Morris,
+61,1,4:28.0,12,17,NOP,BOS,12,home,LU,assist,2,make2,2,A. Davis,I. Clark
+62,1,4:16.0,12,17,NOP,BOS,12,away,LU,block,2,miss2,0,T. Rozier,I. Clark
+63,1,4:16.0,12,17,NOP,BOS,0,home,DefReb,,,DefReb,,Team,
+64,1,4:03.0,12,17,NOP,BOS,13,home,JS,,20,miss2,0,I. Clark,
+65,1,4:02.0,12,17,NOP,BOS,1,home,OffReb,,,OffReb,,N. Mirotić,
+66,1,4:02.0,12,17,NOP,BOS,0,home,LU,,1,miss2,0,N. Mirotić,
+67,1,4:01.0,12,17,NOP,BOS,1,away,DefReb,,,DefReb,,Team,
+68,1,3:55.0,12,20,NOP,BOS,6,away,JS,,27,make3,3,M. Morris,
+69,1,3:39.0,14,20,NOP,BOS,16,home,LU,assist,1,make2,2,N. Mirotić,S. Hill
+70,1,3:26.0,14,20,NOP,BOS,13,away,lost ball,steal,,turnover,,G. Monroe,I. Clark
+71,1,3:22.0,14,20,NOP,BOS,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,A. Davis
+72,1,3:21.0,14,20,NOP,BOS,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Horford,A. Davis
+73,1,3:21.0,15,20,NOP,BOS,0,home,FreeThrow,,,make1,1,A. Davis,
+74,1,3:21.0,16,20,NOP,BOS,0,home,FreeThrow,,,make1,1,A. Davis,
+75,1,3:11.0,16,20,NOP,BOS,10,away,JS,,26,miss3,0,M. Morris,
+76,1,3:07.0,16,20,NOP,BOS,4,home,DefReb,,,DefReb,,N. Mirotić,
+77,1,3:00.0,18,20,NOP,BOS,7,home,LU,,1,make2,2,N. Mirotić,
+78,1,2:46.0,18,20,NOP,BOS,14,away,JS,,14,miss2,0,M. Morris,
+79,1,2:46.0,18,20,NOP,BOS,0,home,DefReb,,,DefReb,,N. Mirotić,
+80,1,2:41.0,18,20,NOP,BOS,5,home,lost ball,steal,,turnover,,N. Mirotić,G. Monroe
+81,1,2:37.0,18,22,NOP,BOS,4,away,LU,,1,make2,2,G. Monroe,
+82,1,2:31.0,18,22,NOP,BOS,6,home,LU,,2,miss2,0,A. Davis,
+83,1,2:31.0,18,22,NOP,BOS,0,away,DefReb,,,DefReb,,M. Morris,
+84,1,2:24.0,18,22,NOP,BOS,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rondo,M. Morris
+85,1,2:24.0,18,22,NOP,BOS,0,home,Timeout,,,,,,
+86,1,2:24.0,18,22,NOP,BOS,0,home,Sub,,,,,L. Drew,R. Rondo
+87,1,2:24.0,18,22,NOP,BOS,0,away,Sub,,,,,S. Ojeleye,T. Rozier
+88,1,2:24.0,18,22,NOP,BOS,0,away,Sub,,,,,S. Larkin,A. Horford
+89,1,2:24.0,18,22,NOP,BOS,0,away,FreeThrow,,,make1,0,M. Morris,
+90,1,2:24.0,18,22,NOP,BOS,0,away,OffReb,,,OffReb,,Team,
+91,1,2:24.0,18,23,NOP,BOS,0,away,FreeThrow,,,make1,1,M. Morris,
+92,1,2:24.0,18,24,NOP,BOS,0,away,FreeThrow,,,make1,1,M. Morris,
+93,1,2:11.0,18,24,NOP,BOS,13,home,JS,,16,miss2,0,A. Davis,
+94,1,2:06.0,18,24,NOP,BOS,5,away,DefReb,,,DefReb,,M. Morris,
+95,1,1:45.0,18,24,NOP,BOS,21,away,JS,,7,miss2,0,A. Nader,
+96,1,1:42.0,18,24,NOP,BOS,3,home,DefReb,,,DefReb,,N. Mirotić,
+97,1,1:31.0,18,24,NOP,BOS,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Ojeleye,N. Mirotić
+98,1,1:31.0,18,24,NOP,BOS,0,home,Sub,,,,,C. Diallo,A. Davis
+99,1,1:31.0,19,24,NOP,BOS,0,home,FreeThrow,,,make1,1,N. Mirotić,
+100,1,1:31.0,19,24,NOP,BOS,0,home,FreeThrow,,,make1,0,N. Mirotić,
+101,1,1:26.0,19,24,NOP,BOS,5,away,DefReb,,,DefReb,,M. Morris,
+102,1,1:07.0,19,24,NOP,BOS,19,away,JS,,16,miss2,0,G. Monroe,
+103,1,1:03.0,19,24,NOP,BOS,4,home,DefReb,,,DefReb,,C. Diallo,
+104,1,0:56.0,19,24,NOP,BOS,7,home,JS,,26,miss3,0,N. Mirotić,
+105,1,0:51.0,19,24,NOP,BOS,5,away,DefReb,,,DefReb,,S. Ojeleye,
+106,1,0:45.0,19,26,NOP,BOS,6,away,JS,,13,make2,2,M. Morris,
+107,1,0:33.0,19,26,NOP,BOS,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Nader,N. Mirotić
+108,1,0:33.0,19,26,NOP,BOS,0,home,FreeThrow,,,make1,0,N. Mirotić,
+109,1,0:33.0,19,26,NOP,BOS,0,home,OffReb,,,OffReb,,Team,
+110,1,0:33.0,20,26,NOP,BOS,0,home,FreeThrow,,,make1,1,N. Mirotić,
+111,1,0:19.0,20,26,NOP,BOS,14,away,JS,,7,miss2,0,S. Larkin,
+112,1,0:18.0,20,26,NOP,BOS,1,away,OffReb,,,OffReb,,G. Monroe,
+113,1,0:18.0,20,28,NOP,BOS,0,away,LU,,1,make2,2,G. Monroe,
+114,1,0:18.0,20,28,NOP,BOS,0,home,DefGoaltending,,,DefGoaltending,,C. Diallo,
+115,1,0:04.0,20,28,NOP,BOS,14,home,JS,,26,miss3,0,N. Mirotić,
+116,1,0:00.0,20,28,NOP,BOS,4,away,DefReb,,,DefReb,,A. Nader,
+117,2,11:47.0,20,28,NOP,BOS,13,away,lost ball,steal,,turnover,,G. Monroe,I. Clark
+118,2,11:41.0,20,28,NOP,BOS,6,home,LU,,1,miss2,0,I. Clark,
+119,2,11:36.0,20,28,NOP,BOS,5,away,DefReb,,,DefReb,,G. Monroe,
+120,2,11:26.0,20,28,NOP,BOS,10,away,lost ball,steal,,turnover,,G. Monroe,N. Mirotić
+121,2,11:19.0,23,28,NOP,BOS,7,home,JS,assist,23,make3,3,I. Clark,J. Holiday
+122,2,11:02.0,23,28,NOP,BOS,17,away,JS,,26,miss3,0,S. Larkin,
+123,2,10:57.0,23,28,NOP,BOS,5,home,DefReb,,,DefReb,,N. Mirotić,
+124,2,10:51.0,23,28,NOP,BOS,6,home,bad pass,steal,,turnover,,J. Holiday,G. Monroe
+125,2,10:35.0,23,28,NOP,BOS,16,away,JS,,20,miss2,0,J. Tatum,
+126,2,10:31.0,23,28,NOP,BOS,4,home,DefReb,,,DefReb,,J. Holiday,
+127,2,10:20.0,23,28,NOP,BOS,11,home,JS,,26,miss3,0,I. Clark,
+128,2,10:16.0,23,28,NOP,BOS,4,away,DefReb,,,DefReb,,J. Tatum,
+129,2,10:03.0,23,28,NOP,BOS,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Clark,J. Tatum
+130,2,10:03.0,23,28,NOP,BOS,0,away,Sub,,,,,A. Baynes,G. Monroe
+131,2,10:03.0,23,28,NOP,BOS,0,away,FreeThrow,,,make1,0,J. Tatum,
+132,2,10:03.0,23,28,NOP,BOS,0,away,OffReb,,,OffReb,,Team,
+133,2,10:03.0,23,29,NOP,BOS,0,away,FreeThrow,,,make1,1,J. Tatum,
+134,2,9:54.0,23,29,NOP,BOS,9,home,JS,,21,miss2,0,N. Mirotić,
+135,2,9:52.0,23,29,NOP,BOS,2,away,DefReb,,,DefReb,,A. Baynes,
+136,2,9:45.0,23,29,NOP,BOS,7,away,JS,,24,miss3,0,S. Ojeleye,
+137,2,9:45.0,23,29,NOP,BOS,0,home,DefReb,,,DefReb,,D. Miller,
+138,2,9:31.0,23,29,NOP,BOS,14,home,JS,,9,miss2,0,N. Mirotić,
+139,2,9:29.0,23,29,NOP,BOS,2,away,DefReb,,,DefReb,,J. Tatum,
+140,2,9:17.0,23,29,NOP,BOS,12,away,JS,,26,miss3,0,A. Nader,
+141,2,9:15.0,23,29,NOP,BOS,2,home,DefReb,,,DefReb,,C. Diallo,
+142,2,9:05.0,25,29,NOP,BOS,10,home,DK,assist,0,make2,2,C. Diallo,D. Miller
+143,2,8:43.0,25,29,NOP,BOS,22,away,bad pass,steal,,turnover,,S. Larkin,N. Mirotić
+144,2,8:32.0,25,29,NOP,BOS,11,home,bad pass,steal,,turnover,,C. Diallo,J. Tatum
+145,2,8:24.0,25,31,NOP,BOS,8,away,JS,,17,make2,2,J. Tatum,
+146,2,8:15.0,25,31,NOP,BOS,9,home,JS,,17,miss2,0,I. Clark,
+147,2,8:08.0,25,31,NOP,BOS,7,away,DefReb,,,DefReb,,S. Larkin,
+148,2,7:52.0,25,34,NOP,BOS,16,away,JS,assist,22,make3,3,A. Nader,A. Baynes
+149,2,7:38.0,28,34,NOP,BOS,14,home,JS,assist,23,make3,3,D. Miller,J. Holiday
+150,2,7:20.0,28,34,NOP,BOS,18,away,bad pass,steal,,turnover,,J. Tatum,J. Holiday
+151,2,7:10.0,28,34,NOP,BOS,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Baynes,C. Diallo
+152,2,7:10.0,28,34,NOP,BOS,0,home,Sub,,,,,R. Rondo,N. Mirotić
+153,2,7:10.0,28,34,NOP,BOS,0,home,Sub,,,,,A. Davis,J. Holiday
+154,2,7:10.0,28,34,NOP,BOS,0,away,Sub,,,,,T. Rozier,A. Nader
+155,2,7:10.0,29,34,NOP,BOS,0,home,FreeThrow,,,make1,1,C. Diallo,
+156,2,7:10.0,30,34,NOP,BOS,0,home,FreeThrow,,,make1,1,C. Diallo,
+157,2,6:48.0,30,36,NOP,BOS,22,away,LU,,2,make2,2,J. Tatum,
+158,2,6:37.0,30,36,NOP,BOS,11,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Miller,J. Tatum
+159,2,6:37.0,30,36,NOP,BOS,0,home,OffensiveFoul,,,turnover,,D. Miller,
+160,2,6:37.0,30,36,NOP,BOS,0,home,Timeout,,,,,,
+161,2,6:37.0,30,36,NOP,BOS,0,home,Sub,,,,,S. Hill,I. Clark
+162,2,6:37.0,30,36,NOP,BOS,0,home,Sub,,,,,E. Moore,D. Miller
+163,2,6:24.0,30,38,NOP,BOS,13,away,JS,assist,12,make2,2,T. Rozier,J. Tatum
+164,2,6:04.0,30,38,NOP,BOS,20,home,JS,,13,miss2,0,E. Moore,
+165,2,6:00.0,30,38,NOP,BOS,4,away,DefReb,,,DefReb,,T. Rozier,
+166,2,5:49.0,30,38,NOP,BOS,11,away,HS,,10,miss2,0,A. Baynes,
+167,2,5:45.0,30,38,NOP,BOS,4,home,DefReb,,,DefReb,,A. Davis,
+168,2,5:32.0,32,38,NOP,BOS,13,home,JS,assist,13,make2,2,C. Diallo,E. Moore
+169,2,5:17.0,32,38,NOP,BOS,15,away,JS,,16,miss2,0,T. Rozier,
+170,2,5:15.0,32,38,NOP,BOS,2,home,DefReb,,,DefReb,,Team,
+171,2,5:15.0,32,38,NOP,BOS,0,away,Sub,,,,,A. Horford,S. Ojeleye
+172,2,4:55.0,34,38,NOP,BOS,20,home,JS,assist,13,make2,2,C. Diallo,R. Rondo
+173,2,4:41.0,34,40,NOP,BOS,14,away,LU,,1,make2,2,J. Tatum,
+174,2,4:30.0,34,40,NOP,BOS,11,home,JS,,16,miss2,0,C. Diallo,
+175,2,4:25.0,34,40,NOP,BOS,5,away,DefReb,,,DefReb,,J. Tatum,
+176,2,4:16.0,34,40,NOP,BOS,9,away,bad pass,steal,,turnover,,T. Rozier,E. Moore
+177,2,4:08.0,34,40,NOP,BOS,8,home,JS,,14,miss2,0,E. Moore,
+178,2,4:03.0,34,40,NOP,BOS,5,home,OffReb,,,OffReb,,C. Diallo,
+179,2,4:02.0,36,40,NOP,BOS,1,home,LU,,2,make2,2,C. Diallo,
+180,2,4:01.0,36,40,NOP,BOS,1,away,Timeout,,,,,,
+181,2,4:01.0,36,40,NOP,BOS,0,home,Sub,,,,,N. Mirotić,C. Diallo
+182,2,4:01.0,36,40,NOP,BOS,0,away,Sub,,,,,G. Monroe,J. Tatum
+183,2,4:01.0,36,40,NOP,BOS,0,away,Sub,,,,,M. Morris,A. Baynes
+184,2,3:47.0,36,42,NOP,BOS,14,away,JS,,20,make2,2,T. Rozier,
+185,2,3:30.0,36,42,NOP,BOS,17,home,JS,,15,miss2,0,A. Davis,
+186,2,3:25.0,36,42,NOP,BOS,5,away,DefReb,,,DefReb,,A. Horford,
+187,2,3:16.0,36,42,NOP,BOS,9,away,JS,,23,miss3,0,S. Larkin,
+188,2,3:12.0,36,42,NOP,BOS,4,home,DefReb,,,DefReb,,N. Mirotić,
+189,2,3:09.0,38,42,NOP,BOS,3,home,LU,assist,0,make2,2,A. Davis,R. Rondo
+190,2,3:09.0,38,42,NOP,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Horford,A. Davis
+191,2,3:09.0,38,42,NOP,BOS,0,home,Sub,,,,,D. Miller,S. Hill
+192,2,3:09.0,39,42,NOP,BOS,0,home,FreeThrow,,,make1,1,A. Davis,
+193,2,2:53.0,39,42,NOP,BOS,16,away,LU,,1,miss2,0,M. Morris,
+194,2,2:50.0,39,42,NOP,BOS,3,away,OffReb,,,OffReb,,G. Monroe,
+195,2,2:50.0,39,42,NOP,BOS,0,home,KickBallViolation,,,KickBallViolation,,A. Davis,
+196,2,2:42.0,39,42,NOP,BOS,8,away,HS,,7,miss2,0,G. Monroe,
+197,2,2:39.0,39,42,NOP,BOS,3,home,DefReb,,,DefReb,,A. Davis,
+198,2,2:26.0,41,42,NOP,BOS,13,home,LU,assist,4,make2,2,E. Moore,R. Rondo
+199,2,2:06.0,41,42,NOP,BOS,20,away,lost ball,steal,,turnover,,A. Horford,R. Rondo
+200,2,2:00.0,41,42,NOP,BOS,6,home,Sub,,,,,J. Holiday,R. Rondo
+201,2,1:57.0,43,42,NOP,BOS,3,home,DK,assist,0,make2,2,A. Davis,E. Moore
+202,2,1:27.0,43,44,NOP,BOS,30,away,JS,,20,make2,2,A. Horford,
+203,2,1:09.0,43,44,NOP,BOS,18,home,LU,,1,miss2,0,N. Mirotić,
+204,2,1:04.0,43,44,NOP,BOS,5,away,DefReb,,,DefReb,,G. Monroe,
+205,2,0:59.0,43,46,NOP,BOS,5,away,HS,assist,4,make2,2,G. Monroe,A. Horford
+206,2,0:46.0,45,46,NOP,BOS,13,home,JS,assist,9,make2,2,A. Davis,E. Moore
+207,2,0:35.0,45,49,NOP,BOS,11,away,JS,assist,26,make3,3,M. Morris,T. Rozier
+208,2,0:22.0,47,49,NOP,BOS,13,home,DK,assist,0,make2,2,A. Davis,N. Mirotić
+209,2,0:00.0,47,49,NOP,BOS,22,away,JS,,22,miss2,0,M. Morris,
+210,2,0:00.0,47,49,NOP,BOS,0,away,OffReb,,,OffReb,,Team,
+211,3,11:43.0,47,49,NOP,BOS,17,away,JS,,14,miss2,0,M. Morris,
+212,3,11:38.0,47,49,NOP,BOS,5,home,DefReb,,,DefReb,,E. Okafor,
+213,3,11:27.0,49,49,NOP,BOS,11,home,DK,assist,1,make2,2,E. Okafor,A. Davis
+214,3,11:14.0,49,52,NOP,BOS,13,away,JS,assist,24,make3,3,J. Tatum,T. Rozier
+215,3,10:51.0,52,52,NOP,BOS,23,home,JS,,24,make3,3,E. Moore,
+216,3,10:39.0,52,52,NOP,BOS,12,away,JS,,11,miss2,0,A. Horford,
+217,3,10:35.0,52,52,NOP,BOS,4,home,DefReb,,,DefReb,,E. Okafor,
+218,3,10:29.0,52,52,NOP,BOS,6,home,JS,,25,miss3,0,A. Davis,
+219,3,10:25.0,52,52,NOP,BOS,4,away,DefReb,,,DefReb,,T. Rozier,
+220,3,10:19.0,52,52,NOP,BOS,6,away,JS,,25,miss3,0,T. Rozier,
+221,3,10:15.0,52,52,NOP,BOS,4,home,DefReb,,,DefReb,,E. Moore,
+222,3,10:08.0,54,52,NOP,BOS,7,home,JS,assist,9,make2,2,E. Okafor,E. Moore
+223,3,9:46.0,54,52,NOP,BOS,22,away,LU,,1,miss2,0,T. Rozier,
+224,3,9:44.0,54,52,NOP,BOS,2,away,OffReb,,,OffReb,,A. Baynes,
+225,3,9:38.0,54,52,NOP,BOS,6,away,JS,,8,miss2,0,A. Horford,
+226,3,9:36.0,54,52,NOP,BOS,2,home,DefReb,,,DefReb,,A. Davis,
+227,3,9:31.0,54,52,NOP,BOS,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Baynes,A. Davis
+228,3,9:31.0,54,52,NOP,BOS,0,away,Sub,,,,,G. Monroe,A. Baynes
+229,3,9:24.0,56,52,NOP,BOS,7,home,DK,assist,1,make2,2,A. Davis,J. Holiday
+230,3,9:09.0,56,52,NOP,BOS,15,away,JS,,11,miss2,0,M. Morris,
+231,3,9:07.0,56,52,NOP,BOS,2,home,DefReb,,,DefReb,,E. Okafor,
+232,3,8:52.0,56,52,NOP,BOS,15,home,JS,,8,miss2,0,J. Holiday,
+233,3,8:47.0,56,52,NOP,BOS,5,home,OffReb,,,OffReb,,A. Davis,
+234,3,8:47.0,58,52,NOP,BOS,0,home,LU,,0,make2,2,A. Davis,
+235,3,8:45.0,58,52,NOP,BOS,2,away,Timeout,,,,,,
+236,3,8:26.0,58,52,NOP,BOS,19,away,JS,,21,miss2,0,T. Rozier,
+237,3,8:23.0,58,52,NOP,BOS,3,home,DefReb,,,DefReb,,E. Okafor,
+238,3,8:10.0,58,52,NOP,BOS,13,home,LU,,1,miss2,0,R. Rondo,
+239,3,8:08.0,58,52,NOP,BOS,2,away,DefReb,,,DefReb,,M. Morris,
+240,3,8:02.0,58,52,NOP,BOS,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,J. Tatum
+241,3,8:02.0,58,53,NOP,BOS,0,away,FreeThrow,,,make1,1,J. Tatum,
+242,3,8:02.0,58,53,NOP,BOS,0,away,FreeThrow,,,make1,0,J. Tatum,
+243,3,8:00.0,58,53,NOP,BOS,2,home,DefReb,,,DefReb,,E. Okafor,
+244,3,7:48.0,60,53,NOP,BOS,12,home,JS,assist,4,make2,2,J. Holiday,R. Rondo
+245,3,7:48.0,60,53,NOP,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Tatum,J. Holiday
+246,3,7:48.0,61,53,NOP,BOS,0,home,FreeThrow,,,make1,1,J. Holiday,
+247,3,7:33.0,61,55,NOP,BOS,15,away,JS,,16,make2,2,J. Tatum,
+248,3,7:23.0,61,55,NOP,BOS,10,home,OutOfBoundsLB,,,turnover,,E. Moore,
+249,3,7:23.0,61,55,NOP,BOS,0,away,Sub,,,,,S. Ojeleye,A. Horford
+250,3,7:11.0,61,57,NOP,BOS,12,away,LU,,1,make2,2,G. Monroe,
+251,3,6:54.0,64,57,NOP,BOS,17,home,JS,assist,24,make3,3,E. Moore,R. Rondo
+252,3,6:38.0,64,57,NOP,BOS,16,away,OutOfBounds,,,turnover,,S. Ojeleye,
+253,3,6:38.0,64,57,NOP,BOS,0,home,Sub,,,,,I. Clark,R. Rondo
+254,3,6:26.0,66,57,NOP,BOS,12,home,JS,assist,16,make2,2,A. Davis,E. Moore
+255,3,6:09.0,66,59,NOP,BOS,17,away,LU,,2,make2,2,T. Rozier,
+256,3,5:58.0,66,59,NOP,BOS,11,home,JS,,8,miss2,0,J. Holiday,
+257,3,5:55.0,66,59,NOP,BOS,3,away,DefReb,,,DefReb,,M. Morris,
+258,3,5:53.0,66,59,NOP,BOS,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Holiday,J. Tatum
+259,3,5:35.0,66,61,NOP,BOS,18,away,LU,assist,1,make2,2,T. Rozier,G. Monroe
+260,3,5:25.0,68,61,NOP,BOS,10,home,LU,assist,2,make2,2,I. Clark,A. Davis
+261,3,5:11.0,68,63,NOP,BOS,14,away,LU,,1,make2,2,G. Monroe,
+262,3,5:00.0,68,63,NOP,BOS,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Monroe,A. Davis
+263,3,5:00.0,68,63,NOP,BOS,0,home,FreeThrow,,,make1,0,A. Davis,
+264,3,5:00.0,68,63,NOP,BOS,0,home,OffReb,,,OffReb,,Team,
+265,3,5:00.0,68,63,NOP,BOS,0,home,Sub,,,,,N. Mirotić,E. Okafor
+266,3,5:00.0,68,63,NOP,BOS,0,away,Sub,,,,,S. Larkin,J. Tatum
+267,3,5:00.0,69,63,NOP,BOS,0,home,FreeThrow,,,make1,1,A. Davis,
+268,3,4:44.0,69,65,NOP,BOS,16,away,JS,,15,make2,2,T. Rozier,
+269,3,4:30.0,69,65,NOP,BOS,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Ojeleye,N. Mirotić
+270,3,4:30.0,70,65,NOP,BOS,0,home,FreeThrow,,,make1,1,N. Mirotić,
+271,3,4:30.0,71,65,NOP,BOS,0,home,FreeThrow,,,make1,1,N. Mirotić,
+272,3,4:30.0,71,65,NOP,BOS,0,home,Sub,,,,,R. Rondo,J. Holiday
+273,3,4:30.0,71,65,NOP,BOS,0,away,Sub,,,,,A. Nader,S. Ojeleye
+274,3,4:30.0,72,65,NOP,BOS,0,home,FreeThrow,,,make1,1,N. Mirotić,
+275,3,4:14.0,72,65,NOP,BOS,16,away,JS,,12,miss2,0,M. Morris,
+276,3,4:11.0,72,65,NOP,BOS,3,home,DefReb,,,DefReb,,A. Davis,
+277,3,4:07.0,75,65,NOP,BOS,4,home,JS,assist,27,make3,3,N. Mirotić,I. Clark
+278,3,3:41.0,75,65,NOP,BOS,26,away,LU,,3,miss2,0,G. Monroe,
+279,3,3:37.0,75,65,NOP,BOS,4,home,DefReb,,,DefReb,,N. Mirotić,
+280,3,3:37.0,75,65,NOP,BOS,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Nader,A. Davis
+281,3,3:37.0,76,65,NOP,BOS,0,home,FreeThrow,,,make1,1,A. Davis,
+282,3,3:37.0,76,65,NOP,BOS,0,away,Sub,,,,,A. Horford,M. Morris
+283,3,3:37.0,76,65,NOP,BOS,0,away,Sub,,,,,S. Ojeleye,G. Monroe
+284,3,3:37.0,76,65,NOP,BOS,0,home,FreeThrow,,,make1,0,A. Davis,
+285,3,3:35.0,76,65,NOP,BOS,2,away,DefReb,,,DefReb,,S. Ojeleye,
+286,3,3:25.0,76,65,NOP,BOS,10,away,JS,,24,miss3,0,T. Rozier,
+287,3,3:20.0,76,65,NOP,BOS,5,home,DefReb,,,DefReb,,N. Mirotić,
+288,3,3:12.0,76,65,NOP,BOS,8,home,JS,,11,miss2,0,A. Davis,
+289,3,3:07.0,76,65,NOP,BOS,5,away,DefReb,,,DefReb,,T. Rozier,
+290,3,2:59.0,76,65,NOP,BOS,8,away,JS,,16,miss2,0,S. Ojeleye,
+291,3,2:55.0,76,65,NOP,BOS,4,home,DefReb,,,DefReb,,A. Davis,
+292,3,2:44.0,76,65,NOP,BOS,11,home,LU,,1,miss2,0,A. Davis,
+293,3,2:41.0,76,65,NOP,BOS,3,away,DefReb,,,DefReb,,A. Horford,
+294,3,2:39.0,76,68,NOP,BOS,2,away,JS,assist,23,make3,3,S. Larkin,T. Rozier
+295,3,2:25.0,76,68,NOP,BOS,14,home,JS,,25,miss3,0,A. Davis,
+296,3,2:21.0,76,68,NOP,BOS,4,away,DefReb,,,DefReb,,S. Ojeleye,
+297,3,2:12.0,76,70,NOP,BOS,9,away,LU,assist,2,make2,2,A. Horford,T. Rozier
+298,3,2:03.0,76,70,NOP,BOS,9,home,Timeout,,,,,,
+299,3,2:03.0,76,70,NOP,BOS,0,home,Sub,,,,,J. Holiday,A. Davis
+300,3,2:03.0,76,70,NOP,BOS,0,home,Sub,,,,,C. Diallo,E. Moore
+301,3,2:03.0,76,70,NOP,BOS,0,away,Sub,,,,,J. Tatum,T. Rozier
+302,3,1:58.0,76,70,NOP,BOS,5,home,JS,,25,miss3,0,N. Mirotić,
+303,3,1:54.0,76,70,NOP,BOS,4,away,DefReb,,,DefReb,,J. Tatum,
+304,3,1:43.0,76,72,NOP,BOS,11,away,DK,assist,0,make2,2,A. Horford,S. Larkin
+305,3,1:36.0,78,72,NOP,BOS,7,home,DK,assist,0,make2,2,C. Diallo,I. Clark
+306,3,1:22.0,78,74,NOP,BOS,14,away,LU,,2,make2,2,S. Larkin,
+307,3,1:04.0,78,74,NOP,BOS,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Ojeleye,N. Mirotić
+308,3,1:04.0,79,74,NOP,BOS,0,home,FreeThrow,,,make1,1,N. Mirotić,
+309,3,1:04.0,80,74,NOP,BOS,0,home,FreeThrow,,,make1,1,N. Mirotić,
+310,3,0:53.0,80,76,NOP,BOS,11,away,JS,assist,15,make2,2,J. Tatum,S. Larkin
+311,3,0:41.0,80,76,NOP,BOS,12,home,lost ball,steal,,turnover,,N. Mirotić,A. Nader
+312,3,0:39.0,80,76,NOP,BOS,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Holiday,A. Nader
+313,3,0:31.0,80,76,NOP,BOS,8,away,bad pass,steal,,turnover,,J. Tatum,N. Mirotić
+314,3,0:27.0,82,76,NOP,BOS,4,home,LU,assist,0,make2,2,C. Diallo,N. Mirotić
+315,3,0:03.0,82,76,NOP,BOS,24,away,JS,,23,miss3,0,J. Tatum,
+316,3,0:00.0,82,76,NOP,BOS,3,home,DefReb,,,DefReb,,J. Holiday,
+317,4,11:46.0,82,76,NOP,BOS,14,home,JS,,25,miss3,0,N. Mirotić,
+318,4,11:42.0,82,76,NOP,BOS,4,away,DefReb,,,DefReb,,A. Nader,
+319,4,11:29.0,82,76,NOP,BOS,13,away,JS,,23,miss3,0,S. Larkin,
+320,4,11:26.0,82,76,NOP,BOS,3,home,DefReb,,,DefReb,,C. Diallo,
+321,4,11:03.0,82,76,NOP,BOS,23,home,LU,block,3,miss2,0,C. Diallo,A. Horford
+322,4,11:03.0,82,76,NOP,BOS,0,home,OffReb,,,OffReb,,Team,
+323,4,11:03.0,82,76,NOP,BOS,0,home,ShotClockViolation,,,turnover,,Team,
+324,4,10:54.0,82,76,NOP,BOS,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Clark,A. Nader
+325,4,10:54.0,82,76,NOP,BOS,0,away,FreeThrow,,,make1,0,A. Nader misses technical free throw,
+326,4,10:54.0,82,76,NOP,BOS,0,away,OffReb,,,OffReb,,Team,
+327,4,10:54.0,82,76,NOP,BOS,0,away,FreeThrow,,,make1,0,A. Nader,
+328,4,10:54.0,82,76,NOP,BOS,0,away,OffReb,,,OffReb,,Team,
+329,4,10:54.0,82,76,NOP,BOS,0,away,FreeThrow,,,make1,0,A. Nader,
+330,4,10:54.0,82,76,NOP,BOS,0,away,OffReb,,,OffReb,,Team,
+331,4,10:54.0,82,76,NOP,BOS,0,away,FreeThrow,,,make1,0,A. Nader,
+332,4,10:52.0,82,76,NOP,BOS,2,home,DefReb,,,DefReb,,C. Diallo,
+333,4,10:44.0,82,76,NOP,BOS,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Nader,J. Holiday
+334,4,10:44.0,82,76,NOP,BOS,0,away,Sub,,,,,G. Monroe,A. Horford
+335,4,10:31.0,84,76,NOP,BOS,13,home,HS,assist,7,make2,2,N. Mirotić,C. Diallo
+336,4,10:15.0,84,76,NOP,BOS,16,away,JS,,17,miss2,0,J. Tatum,
+337,4,10:12.0,84,76,NOP,BOS,3,home,DefReb,,,DefReb,,R. Rondo,
+338,4,10:04.0,84,76,NOP,BOS,8,home,lost ball,steal,,turnover,,N. Mirotić,A. Nader
+339,4,9:41.0,84,79,NOP,BOS,23,away,JS,assist,23,make3,3,S. Ojeleye,G. Monroe
+340,4,9:26.0,86,79,NOP,BOS,15,home,JS,assist,3,make2,2,C. Diallo,R. Rondo
+341,4,9:14.0,86,79,NOP,BOS,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Diallo,S. Larkin
+342,4,9:03.0,86,79,NOP,BOS,11,away,HS,,4,miss2,0,G. Monroe,
+343,4,9:01.0,86,79,NOP,BOS,2,home,DefReb,,,DefReb,,N. Mirotić,
+344,4,8:57.0,86,79,NOP,BOS,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Tatum,J. Holiday
+345,4,8:57.0,87,79,NOP,BOS,0,home,FreeThrow,,,make1,1,J. Holiday,
+346,4,8:57.0,87,79,NOP,BOS,0,away,Sub,,,,,M. Morris,J. Tatum
+347,4,8:57.0,87,79,NOP,BOS,0,away,Sub,,,,,T. Rozier,A. Nader
+348,4,8:57.0,88,79,NOP,BOS,0,home,FreeThrow,,,make1,1,J. Holiday,
+349,4,8:42.0,88,79,NOP,BOS,15,away,LU,block,1,miss2,0,T. Rozier,N. Mirotić
+350,4,8:38.0,88,79,NOP,BOS,4,home,DefReb,,,DefReb,,N. Mirotić,
+351,4,8:30.0,90,79,NOP,BOS,8,home,LU,assist,1,make2,2,R. Rondo,N. Mirotić
+352,4,8:12.0,90,79,NOP,BOS,18,away,LU,block,2,miss2,0,G. Monroe,N. Mirotić
+353,4,8:12.0,90,79,NOP,BOS,0,home,DefReb,,,DefReb,,Team,
+354,4,8:12.0,90,79,NOP,BOS,0,home,Sub,,,,,E. Moore,N. Mirotić
+355,4,8:12.0,90,79,NOP,BOS,0,home,Sub,,,,,A. Davis,J. Holiday
+356,4,8:01.0,92,79,NOP,BOS,11,home,JS,assist,12,make2,2,A. Davis,R. Rondo
+357,4,7:52.0,92,79,NOP,BOS,9,away,Timeout,,,,,,
+358,4,7:52.0,92,79,NOP,BOS,0,away,Sub,,,,,A. Horford,S. Ojeleye
+359,4,7:46.0,92,79,NOP,BOS,6,away,JS,,25,miss3,0,A. Horford,
+360,4,7:46.0,92,79,NOP,BOS,0,home,DefReb,,,DefReb,,R. Rondo,
+361,4,7:46.0,92,79,NOP,BOS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Larkin,R. Rondo
+362,4,7:34.0,92,79,NOP,BOS,12,home,JS,,6,miss2,0,I. Clark,
+363,4,7:31.0,92,79,NOP,BOS,3,away,DefReb,,,DefReb,,G. Monroe,
+364,4,7:16.0,92,79,NOP,BOS,15,away,JS,,24,miss3,0,T. Rozier,
+365,4,7:14.0,92,79,NOP,BOS,2,home,DefReb,,,DefReb,,A. Davis,
+366,4,6:57.0,94,79,NOP,BOS,17,home,JS,assist,16,make2,2,I. Clark,R. Rondo
+367,4,6:35.0,94,81,NOP,BOS,22,away,JS,assist,17,make2,2,M. Morris,A. Horford
+368,4,6:17.0,94,81,NOP,BOS,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Horford,I. Clark
+369,4,6:10.0,94,81,NOP,BOS,7,home,JS,,25,miss3,0,I. Clark,
+370,4,6:08.0,94,81,NOP,BOS,2,home,OffReb,,,OffReb,,Team,
+371,4,6:08.0,94,81,NOP,BOS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Morris,C. Diallo
+372,4,6:08.0,94,81,NOP,BOS,0,home,FreeThrow,,,make1,0,C. Diallo,
+373,4,6:08.0,94,81,NOP,BOS,0,home,OffReb,,,OffReb,,Team,
+374,4,6:08.0,95,81,NOP,BOS,0,home,FreeThrow,,,make1,1,C. Diallo,
+375,4,6:04.0,95,81,NOP,BOS,4,away,TechnicalFoul,,,TechnicalFoul,,M. Morris,
+376,4,6:04.0,96,81,NOP,BOS,0,home,FreeThrow,,,make1,1,I. Clark makes technical free throw,
+377,4,5:56.0,96,81,NOP,BOS,8,away,JS,,23,miss3,0,A. Horford,
+378,4,5:53.0,96,81,NOP,BOS,3,away,OffReb,,,OffReb,,T. Rozier,
+379,4,5:53.0,96,81,NOP,BOS,0,away,JS,,25,miss3,0,S. Larkin,
+380,4,5:49.0,96,81,NOP,BOS,4,home,DefReb,,,DefReb,,E. Moore,
+381,4,5:36.0,99,81,NOP,BOS,13,home,JS,assist,26,make3,3,E. Moore,R. Rondo
+382,4,5:21.0,99,81,NOP,BOS,15,away,JS,,20,miss2,0,A. Horford,
+383,4,5:16.0,99,81,NOP,BOS,5,home,DefReb,,,DefReb,,E. Moore,
+384,4,5:00.0,101,81,NOP,BOS,16,home,LU,,2,make2,2,A. Davis,
+385,4,4:48.0,101,81,NOP,BOS,12,away,LU,,2,miss2,0,G. Monroe,
+386,4,4:46.0,101,81,NOP,BOS,2,home,DefReb,,,DefReb,,A. Davis,
+387,4,4:41.0,101,81,NOP,BOS,5,home,JS,,25,miss3,0,E. Moore,
+388,4,4:37.0,101,81,NOP,BOS,4,away,DefReb,,,DefReb,,T. Rozier,
+389,4,4:30.0,101,81,NOP,BOS,7,away,JS,,24,miss3,0,M. Morris,
+390,4,4:27.0,101,81,NOP,BOS,3,away,OffReb,,,OffReb,,G. Monroe,
+391,4,4:25.0,101,81,NOP,BOS,2,away,LU,block,3,miss2,0,A. Horford,A. Davis
+392,4,4:21.0,101,81,NOP,BOS,4,away,OffReb,,,OffReb,,S. Larkin,
+393,4,4:16.0,101,81,NOP,BOS,5,away,HS,,6,miss2,0,M. Morris,
+394,4,4:14.0,101,81,NOP,BOS,2,away,OffReb,,,OffReb,,M. Morris,
+395,4,4:14.0,101,81,NOP,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Diallo,M. Morris
+396,4,4:14.0,101,81,NOP,BOS,0,away,FreeThrow,,,make1,0,M. Morris,
+397,4,4:14.0,101,81,NOP,BOS,0,away,OffReb,,,OffReb,,Team,
+398,4,4:14.0,101,81,NOP,BOS,0,home,Sub,,,,,J. Holiday,R. Rondo
+399,4,4:14.0,101,81,NOP,BOS,0,away,Sub,,,,,A. Baynes,T. Rozier
+400,4,4:14.0,101,81,NOP,BOS,0,away,Sub,,,,,G. Yabusele,G. Monroe
+401,4,4:14.0,101,81,NOP,BOS,0,away,Sub,,,,,A. Nader,A. Horford
+402,4,4:14.0,101,82,NOP,BOS,0,away,FreeThrow,,,make1,1,M. Morris,
+403,4,4:08.0,103,82,NOP,BOS,6,home,JS,,16,make2,2,J. Holiday,
+404,4,3:49.0,103,85,NOP,BOS,19,away,JS,assist,25,make3,3,A. Nader,A. Baynes
+405,4,3:35.0,105,85,NOP,BOS,14,home,JS,,13,make2,2,A. Davis,
+406,4,3:35.0,105,85,NOP,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Nader,A. Davis
+407,4,3:35.0,105,85,NOP,BOS,0,away,Sub,,,,,K. Allen,S. Larkin
+408,4,3:35.0,105,85,NOP,BOS,0,away,Sub,,,,,S. Ojeleye,M. Morris
+409,4,3:35.0,106,85,NOP,BOS,0,home,FreeThrow,,,make1,1,A. Davis,
+410,4,3:24.0,106,85,NOP,BOS,11,away,JS,,20,miss2,0,G. Yabusele,
+411,4,3:20.0,106,85,NOP,BOS,4,home,DefReb,,,DefReb,,A. Davis,
+412,4,3:15.0,106,85,NOP,BOS,5,home,Timeout,,,,,,
+413,4,3:15.0,106,85,NOP,BOS,0,home,Sub,,,,,C. Cooke,I. Clark
+414,4,3:15.0,106,85,NOP,BOS,0,home,Sub,,,,,E. Okafor,J. Holiday
+415,4,3:15.0,106,85,NOP,BOS,0,home,Sub,,,,,L. Drew,A. Davis
+416,4,3:15.0,106,85,NOP,BOS,0,home,Sub,,,,,D. Liggins,E. Moore
+417,4,3:15.0,106,85,NOP,BOS,0,away,Sub,,,,,J. Bird,A. Baynes
+418,4,2:58.0,106,85,NOP,BOS,17,home,ShotClockViolation,,,turnover,,Team,
+419,4,2:34.0,106,85,NOP,BOS,24,away,ShotClockViolation,,,turnover,,Team,
+420,4,2:12.0,108,85,NOP,BOS,22,home,JS,assist,12,make2,2,E. Okafor,L. Drew
+421,4,2:04.0,108,85,NOP,BOS,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Okafor,A. Nader
+422,4,2:04.0,108,85,NOP,BOS,0,away,FreeThrow,,,make1,0,A. Nader,
+423,4,2:04.0,108,85,NOP,BOS,0,away,OffReb,,,OffReb,,Team,
+424,4,2:04.0,108,86,NOP,BOS,0,away,FreeThrow,,,make1,1,A. Nader,
+425,4,1:54.0,108,86,NOP,BOS,10,home,LU,block,3,miss2,0,D. Liggins,G. Yabusele
+426,4,1:51.0,108,86,NOP,BOS,3,away,DefReb,,,DefReb,,A. Nader,
+427,4,1:49.0,108,86,NOP,BOS,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Drew,A. Nader
+428,4,1:49.0,108,87,NOP,BOS,0,away,FreeThrow,,,make1,1,A. Nader,
+429,4,1:49.0,108,87,NOP,BOS,0,away,FreeThrow,,,make1,0,A. Nader,
+430,4,1:46.0,108,87,NOP,BOS,3,home,DefReb,,,DefReb,,C. Diallo,
+431,4,1:39.0,108,87,NOP,BOS,7,home,JS,,13,miss2,0,L. Drew,
+432,4,1:37.0,108,87,NOP,BOS,2,away,DefReb,,,DefReb,,G. Yabusele,
+433,4,1:28.0,108,87,NOP,BOS,9,away,BadPass,,,turnover,,G. Yabusele,
+434,4,1:16.0,108,87,NOP,BOS,12,home,JS,,7,miss2,0,L. Drew,
+435,4,1:13.0,108,87,NOP,BOS,3,away,DefReb,,,DefReb,,G. Yabusele,
+436,4,1:02.0,108,87,NOP,BOS,11,away,LU,,7,miss2,0,A. Nader,
+437,4,0:58.0,108,87,NOP,BOS,4,away,OffReb,,,OffReb,,J. Bird,
+438,4,0:58.0,108,87,NOP,BOS,0,away,BadPass,,,turnover,,J. Bird,
+439,4,0:38.0,108,87,NOP,BOS,20,home,JS,,21,miss2,0,L. Drew,
+440,4,0:34.0,108,87,NOP,BOS,4,away,DefReb,,,DefReb,,K. Allen,
+441,4,0:29.0,108,89,NOP,BOS,5,away,LU,assist,1,make2,2,G. Yabusele,K. Allen
+442,4,0:05.0,108,89,NOP,BOS,24,home,ShotClockViolation,,,turnover,,Team,

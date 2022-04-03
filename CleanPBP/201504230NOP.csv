@@ -1,0 +1,519 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:42.0,0,0,NOP,GSW,18,away,HS,,6,miss2,0,A. Bogut,
+1,1,11:41.0,0,0,NOP,GSW,1,home,DefReb,,,DefReb,,A. Davis,
+2,1,11:23.0,2,0,NOP,GSW,18,home,JS,,6,make2,2,A. Davis,
+3,1,11:12.0,2,3,NOP,GSW,11,away,JS,assist,23,make3,3,K. Thompson,S. Curry
+4,1,10:57.0,5,3,NOP,GSW,15,home,JS,assist,27,make3,3,E. Gordon,A. Davis
+5,1,10:38.0,5,3,NOP,GSW,19,away,BadPass,steal,,turnover,,A. Bogut,T. Evans
+6,1,10:23.0,5,3,NOP,GSW,15,home,JS,,25,miss3,0,T. Evans,
+7,1,10:22.0,5,3,NOP,GSW,1,home,OffReb,,,OffReb,,A. Davis,
+8,1,10:07.0,7,3,NOP,GSW,15,home,JS,assist,15,make2,2,A. Davis,Q. Pondexter
+9,1,9:44.0,7,6,NOP,GSW,23,away,JS,assist,25,make3,3,S. Curry,K. Thompson
+10,1,9:27.0,7,6,NOP,GSW,17,home,JS,,26,miss3,0,E. Gordon,
+11,1,9:25.0,7,6,NOP,GSW,2,home,OffReb,,,OffReb,,Ö. Aşık,
+12,1,9:19.0,7,6,NOP,GSW,6,home,JS,,16,miss2,0,E. Gordon,
+13,1,9:18.0,7,6,NOP,GSW,1,away,DefReb,,,DefReb,,H. Barnes,
+14,1,9:12.0,7,9,NOP,GSW,6,away,JS,assist,25,make3,3,S. Curry,H. Barnes
+15,1,8:51.0,9,9,NOP,GSW,21,home,JS,assist,17,make2,2,A. Davis,Ö. Aşık
+16,1,8:43.0,9,11,NOP,GSW,8,away,JS,assist,17,make2,2,H. Barnes,S. Curry
+17,1,8:25.0,9,11,NOP,GSW,18,home,JS,,16,miss2,0,A. Davis,
+18,1,8:24.0,9,11,NOP,GSW,1,home,OffReb,,,OffReb,,Ö. Aşık,
+19,1,8:21.0,9,11,NOP,GSW,3,home,LU,,2,miss2,0,Ö. Aşık,
+20,1,8:20.0,9,11,NOP,GSW,1,away,DefReb,,,DefReb,,A. Bogut,
+21,1,8:11.0,9,14,NOP,GSW,9,away,JS,assist,24,make3,3,K. Thompson,A. Bogut
+22,1,7:51.0,9,14,NOP,GSW,20,home,JS,,24,miss3,0,E. Gordon,
+23,1,7:50.0,9,14,NOP,GSW,1,away,DefReb,,,DefReb,,D. Green,
+24,1,7:44.0,9,17,NOP,GSW,6,away,JS,assist,27,make3,3,K. Thompson,D. Green
+25,1,7:30.0,9,17,NOP,GSW,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,A. Davis
+26,1,7:21.0,9,17,NOP,GSW,9,home,JS,,14,miss2,0,A. Davis,
+27,1,7:18.0,9,17,NOP,GSW,3,away,DefReb,,,DefReb,,D. Green,
+28,1,7:18.0,9,17,NOP,GSW,0,away,Timeout,,,,,,
+29,1,6:58.0,9,17,NOP,GSW,20,away,JS,,8,miss2,0,D. Green,
+30,1,6:56.0,9,17,NOP,GSW,2,away,OffReb,,,OffReb,,A. Bogut,
+31,1,6:51.0,9,17,NOP,GSW,5,away,JS,,21,miss2,0,S. Curry,
+32,1,6:50.0,9,17,NOP,GSW,1,home,DefReb,,,DefReb,,Q. Pondexter,
+33,1,6:29.0,9,17,NOP,GSW,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,A. Davis
+34,1,6:29.0,9,17,NOP,GSW,0,home,FreeThrow,,,make1,0,A. Davis,
+35,1,6:29.0,9,17,NOP,GSW,0,home,OffReb,,,OffReb,,Team,
+36,1,6:29.0,9,17,NOP,GSW,0,away,Sub,,,,,A. Iguodala,D. Green
+37,1,6:29.0,10,17,NOP,GSW,0,home,FreeThrow,,,make1,1,A. Davis,
+38,1,6:07.0,10,17,NOP,GSW,22,away,JS,,25,miss3,0,K. Thompson,
+39,1,6:06.0,10,17,NOP,GSW,1,home,DefReb,,,DefReb,,T. Evans,
+40,1,5:54.0,10,17,NOP,GSW,12,home,LU,block,2,miss2,0,T. Evans,H. Barnes
+41,1,5:52.0,10,17,NOP,GSW,2,away,DefReb,,,DefReb,,A. Bogut,
+42,1,5:46.0,10,17,NOP,GSW,6,away,JS,,25,miss3,0,S. Curry,
+43,1,5:45.0,10,17,NOP,GSW,1,home,DefReb,,,DefReb,,E. Gordon,
+44,1,5:36.0,12,17,NOP,GSW,9,home,JS,assist,13,make2,2,A. Davis,E. Gordon
+45,1,5:26.0,12,19,NOP,GSW,10,away,LU,,2,make2,2,S. Curry,
+46,1,5:04.0,12,19,NOP,GSW,22,home,JS,,17,miss2,0,A. Davis,
+47,1,5:02.0,12,19,NOP,GSW,2,away,DefReb,,,DefReb,,A. Bogut,
+48,1,4:51.0,12,19,NOP,GSW,11,away,BadPass,steal,,turnover,,S. Curry,T. Evans
+49,1,4:47.0,14,19,NOP,GSW,4,home,DK,,0,make2,2,T. Evans,
+50,1,4:25.0,14,21,NOP,GSW,22,away,LU,assist,2,make2,2,A. Bogut,S. Curry
+51,1,4:12.0,14,21,NOP,GSW,13,away,ChargeFoul,DrawnBy,,ChargeFoul,,A. Davis,A. Bogut
+52,1,4:12.0,14,21,NOP,GSW,0,home,OffensiveFoul,,,turnover,,A. Davis,
+53,1,4:12.0,14,21,NOP,GSW,0,home,Sub,,,,,R. Anderson,Ö. Aşık
+54,1,4:12.0,14,21,NOP,GSW,0,away,Sub,,,,,L. Barbosa,K. Thompson
+55,1,3:53.0,14,21,NOP,GSW,19,away,HS,,8,miss2,0,A. Bogut,
+56,1,3:52.0,14,21,NOP,GSW,1,home,DefReb,,,DefReb,,T. Evans,
+57,1,3:48.0,16,21,NOP,GSW,4,home,LU,,2,make2,2,T. Evans,
+58,1,3:48.0,16,21,NOP,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Barnes,T. Evans
+59,1,3:48.0,16,21,NOP,GSW,0,home,Sub,,,,,N. Cole,E. Gordon
+60,1,3:48.0,17,21,NOP,GSW,0,home,FreeThrow,,,make1,1,T. Evans,
+61,1,3:34.0,17,21,NOP,GSW,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,Q. Pondexter,S. Curry
+62,1,3:34.0,17,22,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+63,1,3:34.0,17,22,NOP,GSW,0,away,Sub,,,,,F. Ezeli,A. Bogut
+64,1,3:34.0,17,22,NOP,GSW,0,home,Sub,,,,,J. Holiday,Q. Pondexter
+65,1,3:34.0,17,23,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+66,1,3:17.0,20,23,NOP,GSW,17,home,JS,assist,26,make3,3,N. Cole,T. Evans
+67,1,2:54.0,20,25,NOP,GSW,23,away,JS,,9,make2,2,F. Ezeli,
+68,1,2:31.0,20,25,NOP,GSW,23,home,JS,,16,miss2,0,J. Holiday,
+69,1,2:30.0,20,25,NOP,GSW,1,home,OffReb,,,OffReb,,A. Davis,
+70,1,2:30.0,22,25,NOP,GSW,0,home,DK,,0,make2,2,A. Davis,
+71,1,2:10.0,22,25,NOP,GSW,20,away,LostBall,steal,,turnover,,L. Barbosa,T. Evans
+72,1,2:05.0,24,25,NOP,GSW,5,home,DK,,0,make2,2,T. Evans,
+73,1,1:38.0,24,25,NOP,GSW,27,away,JS,,26,miss3,0,L. Barbosa,
+74,1,1:36.0,24,25,NOP,GSW,2,away,OffReb,,,OffReb,,F. Ezeli,
+75,1,1:33.0,24,25,NOP,GSW,3,away,JS,,13,miss2,0,H. Barnes,
+76,1,1:32.0,24,25,NOP,GSW,1,home,DefReb,,,DefReb,,R. Anderson,
+77,1,1:28.0,24,25,NOP,GSW,4,away,ChargeFoul,DrawnBy,,ChargeFoul,,T. Evans,A. Iguodala
+78,1,1:28.0,24,25,NOP,GSW,0,home,OffensiveFoul,,,turnover,,T. Evans,
+79,1,1:28.0,24,25,NOP,GSW,0,home,Timeout,,,,,,
+80,1,1:28.0,24,25,NOP,GSW,0,home,Sub,,,,,D. Cunningham,T. Evans
+81,1,1:15.0,24,25,NOP,GSW,13,away,JS,,25,miss3,0,L. Barbosa,
+82,1,1:14.0,24,25,NOP,GSW,1,home,DefReb,,,DefReb,,R. Anderson,
+83,1,0:54.0,26,25,NOP,GSW,20,home,JS,,4,make2,2,J. Holiday,
+84,1,0:48.0,26,25,NOP,GSW,6,away,JS,,28,miss3,0,S. Curry,
+85,1,0:46.0,26,25,NOP,GSW,2,home,DefReb,,,DefReb,,A. Davis,
+86,1,0:26.0,26,25,NOP,GSW,20,home,JS,,20,miss2,0,J. Holiday,
+87,1,0:24.0,26,25,NOP,GSW,2,home,OffReb,,,OffReb,,R. Anderson,
+88,1,0:06.0,26,25,NOP,GSW,18,home,JS,,26,miss3,0,N. Cole,
+89,1,0:04.0,26,25,NOP,GSW,2,away,DefReb,,,DefReb,,F. Ezeli,
+90,1,0:00.0,26,25,NOP,GSW,4,away,JS,,46,miss3,0,A. Iguodala,
+91,1,0:00.0,26,25,NOP,GSW,0,away,OffReb,,,OffReb,,Team,
+92,2,11:45.0,28,25,NOP,GSW,15,home,DK,assist,0,make2,2,R. Anderson,J. Holiday
+93,2,11:28.0,28,25,NOP,GSW,17,away,JS,,15,miss2,0,S. Livingston,
+94,2,11:26.0,28,25,NOP,GSW,2,home,DefReb,,,DefReb,,D. Cunningham,
+95,2,11:08.0,31,25,NOP,GSW,18,home,JS,assist,26,make3,3,N. Cole,J. Holiday
+96,2,10:57.0,31,25,NOP,GSW,11,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Cunningham,A. Iguodala
+97,2,10:45.0,31,25,NOP,GSW,12,away,JS,,15,miss2,0,K. Thompson,
+98,2,10:44.0,31,25,NOP,GSW,1,home,DefReb,,,DefReb,,D. Cunningham,
+99,2,10:38.0,33,25,NOP,GSW,6,home,JS,,5,make2,2,N. Cole,
+100,2,10:26.0,33,25,NOP,GSW,12,away,JS,,27,miss3,0,K. Thompson,
+101,2,10:23.0,33,25,NOP,GSW,3,home,DefReb,,,DefReb,,A. Davis,
+102,2,10:13.0,35,25,NOP,GSW,10,home,JS,,14,make2,2,J. Holiday,
+103,2,10:11.0,35,25,NOP,GSW,2,away,Timeout,,,,,,
+104,2,9:57.0,35,25,NOP,GSW,14,away,BadPass,steal,,turnover,,D. Green,A. Davis
+105,2,9:50.0,37,25,NOP,GSW,7,home,JS,assist,22,make2,2,D. Cunningham,R. Anderson
+106,2,9:34.0,37,25,NOP,GSW,16,away,JS,block,4,miss2,0,M. Speights,D. Cunningham
+107,2,9:32.0,37,25,NOP,GSW,2,home,DefReb,,,DefReb,,D. Cunningham,
+108,2,9:26.0,39,25,NOP,GSW,6,home,LU,,2,make2,2,N. Cole,
+109,2,9:20.0,39,25,NOP,GSW,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Holiday,S. Livingston
+110,2,9:15.0,39,27,NOP,GSW,5,away,DK,assist,0,make2,2,D. Green,K. Thompson
+111,2,8:54.0,39,27,NOP,GSW,21,home,JS,,16,miss2,0,J. Holiday,
+112,2,8:53.0,39,27,NOP,GSW,1,home,OffReb,,,OffReb,,R. Anderson,
+113,2,8:53.0,39,27,NOP,GSW,0,home,TI,,1,miss2,0,R. Anderson,
+114,2,8:52.0,39,27,NOP,GSW,1,away,DefReb,,,DefReb,,D. Green,
+115,2,8:44.0,39,27,NOP,GSW,8,away,JS,,24,miss3,0,A. Iguodala,
+116,2,8:43.0,39,27,NOP,GSW,1,home,DefReb,,,DefReb,,A. Davis,
+117,2,8:32.0,39,27,NOP,GSW,11,home,LU,,3,miss2,0,A. Davis,
+118,2,8:30.0,39,27,NOP,GSW,2,home,OffReb,,,OffReb,,J. Holiday,
+119,2,8:28.0,39,27,NOP,GSW,2,home,Sub,,,,,Q. Pondexter,A. Davis
+120,2,8:28.0,39,27,NOP,GSW,0,home,Sub,,,,,E. Gordon,J. Holiday
+121,2,8:19.0,39,27,NOP,GSW,9,home,JS,,23,miss2,0,N. Cole,
+122,2,8:18.0,39,27,NOP,GSW,1,away,DefReb,,,DefReb,,S. Livingston,
+123,2,8:16.0,39,29,NOP,GSW,2,away,LU,,2,make2,2,S. Livingston,
+124,2,8:16.0,39,29,NOP,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cunningham,S. Livingston
+125,2,8:16.0,39,30,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Livingston,
+126,2,8:01.0,42,30,NOP,GSW,15,home,JS,assist,26,make3,3,R. Anderson,E. Gordon
+127,2,7:49.0,42,32,NOP,GSW,12,away,HS,,4,make2,2,M. Speights,
+128,2,7:30.0,44,32,NOP,GSW,19,home,JS,assist,19,make2,2,R. Anderson,E. Gordon
+129,2,7:20.0,44,32,NOP,GSW,10,home,ChargeFoul,DrawnBy,,ChargeFoul,,M. Speights,R. Anderson
+130,2,7:20.0,44,32,NOP,GSW,0,away,OffensiveFoul,,,turnover,,M. Speights,
+131,2,7:20.0,44,32,NOP,GSW,0,away,Sub,,,,,H. Barnes,M. Speights
+132,2,7:08.0,44,32,NOP,GSW,12,home,OffensiveFoul,,,turnover,,R. Anderson,
+133,2,7:08.0,44,32,NOP,GSW,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Anderson,D. Green
+134,2,7:08.0,44,32,NOP,GSW,0,away,Sub,,,,,S. Curry,A. Iguodala
+135,2,7:08.0,44,32,NOP,GSW,0,home,Sub,,,,,T. Evans,D. Cunningham
+136,2,6:53.0,44,34,NOP,GSW,15,away,LU,,3,make2,2,S. Curry,
+137,2,6:32.0,46,34,NOP,GSW,21,home,LU,assist,2,make2,2,R. Anderson,E. Gordon
+138,2,6:21.0,46,34,NOP,GSW,11,away,JS,,23,miss3,0,K. Thompson,
+139,2,6:18.0,46,34,NOP,GSW,3,away,OffReb,,,OffReb,,H. Barnes,
+140,2,6:18.0,46,34,NOP,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,Q. Pondexter,H. Barnes
+141,2,6:18.0,46,35,NOP,GSW,0,away,FreeThrow,,,make1,1,H. Barnes,
+142,2,6:18.0,46,36,NOP,GSW,0,away,FreeThrow,,,make1,1,H. Barnes,
+143,2,6:02.0,48,36,NOP,GSW,16,home,JS,,17,make2,2,R. Anderson,
+144,2,5:54.0,48,36,NOP,GSW,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Anderson,S. Curry
+145,2,5:54.0,48,36,NOP,GSW,0,away,Timeout,,,,,,
+146,2,5:54.0,48,36,NOP,GSW,0,home,Sub,,,,,A. Davis,Q. Pondexter
+147,2,5:54.0,48,36,NOP,GSW,0,away,Sub,,,,,A. Bogut,H. Barnes
+148,2,5:54.0,48,37,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+149,2,5:54.0,48,37,NOP,GSW,0,away,FreeThrow,,,make1,0,S. Curry,
+150,2,5:54.0,48,37,NOP,GSW,0,away,OffReb,,,OffReb,,Team,
+151,2,5:54.0,48,38,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+152,2,5:42.0,48,38,NOP,GSW,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bogut,A. Davis
+153,2,5:27.0,48,38,NOP,GSW,15,home,JS,,28,miss3,0,R. Anderson,
+154,2,5:27.0,48,38,NOP,GSW,0,home,OffReb,,,OffReb,,Team,
+155,2,5:27.0,48,38,NOP,GSW,0,home,ShotClockViolation,,,turnover,,Team,
+156,2,5:13.0,48,38,NOP,GSW,14,away,JS,,27,miss3,0,D. Green,
+157,2,5:12.0,48,38,NOP,GSW,1,home,DefReb,,,DefReb,,T. Evans,
+158,2,5:08.0,50,38,NOP,GSW,4,home,DK,assist,0,make2,2,A. Davis,T. Evans
+159,2,4:48.0,50,38,NOP,GSW,20,away,LU,,2,miss2,0,K. Thompson,
+160,2,4:46.0,50,38,NOP,GSW,2,away,OffReb,,,OffReb,,K. Thompson,
+161,2,4:46.0,50,38,NOP,GSW,0,away,TI,,3,miss2,0,K. Thompson,
+162,2,4:42.0,50,38,NOP,GSW,4,home,DefReb,,,DefReb,,E. Gordon,
+163,2,4:35.0,52,38,NOP,GSW,7,home,JS,assist,12,make2,2,A. Davis,T. Evans
+164,2,4:17.0,52,38,NOP,GSW,18,away,LostBall,steal,,turnover,,K. Thompson,E. Gordon
+165,2,4:13.0,54,38,NOP,GSW,4,home,LU,assist,2,make2,2,N. Cole,T. Evans
+166,2,4:11.0,54,38,NOP,GSW,2,away,Timeout,,,,,,
+167,2,4:11.0,54,38,NOP,GSW,0,home,Sub,,,,,Ö. Aşık,R. Anderson
+168,2,3:49.0,54,38,NOP,GSW,22,away,LU,,2,miss2,0,S. Curry,
+169,2,3:49.0,54,38,NOP,GSW,0,home,DefReb,,,DefReb,,Team,
+170,2,3:39.0,54,38,NOP,GSW,10,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,Ö. Aşık,K. Thompson
+171,2,3:39.0,54,38,NOP,GSW,0,home,OffensiveFoul,,,turnover,,Ö. Aşık,
+172,2,3:39.0,54,38,NOP,GSW,0,away,Sub,,,,,A. Iguodala,S. Livingston
+173,2,3:28.0,54,38,NOP,GSW,11,away,JS,block,10,miss2,0,K. Thompson,E. Gordon
+174,2,3:27.0,54,38,NOP,GSW,1,away,OffReb,,,OffReb,,D. Green,
+175,2,3:27.0,54,40,NOP,GSW,0,away,LU,,2,make2,2,D. Green,
+176,2,3:03.0,54,40,NOP,GSW,24,home,JS,,23,miss3,0,N. Cole,
+177,2,3:02.0,54,40,NOP,GSW,1,away,DefReb,,,DefReb,,D. Green,
+178,2,2:44.0,54,43,NOP,GSW,18,away,JS,assist,25,make3,3,K. Thompson,S. Curry
+179,2,2:24.0,57,43,NOP,GSW,20,home,JS,assist,26,make3,3,T. Evans,A. Davis
+180,2,1:55.0,57,43,NOP,GSW,29,away,JS,,16,miss2,0,S. Curry,
+181,2,1:53.0,57,43,NOP,GSW,2,home,DefReb,,,DefReb,,A. Davis,
+182,2,1:46.0,59,43,NOP,GSW,7,home,LU,,2,make2,2,T. Evans,
+183,2,1:40.0,59,45,NOP,GSW,6,away,LU,assist,2,make2,2,A. Iguodala,S. Curry
+184,2,1:40.0,59,45,NOP,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Evans,A. Iguodala
+185,2,1:40.0,59,45,NOP,GSW,0,away,FreeThrow,,,make1,0,A. Iguodala,
+186,2,1:40.0,59,45,NOP,GSW,0,home,DefReb,,,DefReb,,Team,
+187,2,1:25.0,61,45,NOP,GSW,15,home,JS,,4,make2,2,T. Evans,
+188,2,1:07.0,61,47,NOP,GSW,18,away,JS,,12,make2,2,K. Thompson,
+189,2,0:50.0,61,47,NOP,GSW,17,home,HS,,10,miss2,0,A. Davis,
+190,2,0:47.0,61,47,NOP,GSW,3,away,DefReb,,,DefReb,,A. Iguodala,
+191,2,0:43.0,61,50,NOP,GSW,4,away,JS,assist,24,make3,3,K. Thompson,A. Iguodala
+192,2,0:23.0,63,50,NOP,GSW,20,home,LU,,3,make2,2,N. Cole,
+193,2,0:02.0,63,50,NOP,GSW,21,away,JS,,10,miss2,0,S. Curry,
+194,2,0:02.0,63,50,NOP,GSW,0,away,OffReb,,,OffReb,,A. Bogut,
+195,2,0:02.0,63,52,NOP,GSW,0,away,TI,,2,make2,2,A. Bogut,
+196,3,11:46.0,63,52,NOP,GSW,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Curry,E. Gordon
+197,3,11:33.0,63,52,NOP,GSW,13,home,JS,,20,miss2,0,T. Evans,
+198,3,11:32.0,63,52,NOP,GSW,1,away,DefReb,,,DefReb,,D. Green,
+199,3,11:20.0,63,55,NOP,GSW,12,away,JS,assist,25,make3,3,K. Thompson,S. Curry
+200,3,10:53.0,63,55,NOP,GSW,27,home,JS,,25,miss3,0,T. Evans,
+201,3,10:52.0,63,55,NOP,GSW,1,away,DefReb,,,DefReb,,D. Green,
+202,3,10:42.0,63,55,NOP,GSW,10,away,JS,,25,miss3,0,K. Thompson,
+203,3,10:41.0,63,55,NOP,GSW,1,home,DefReb,,,DefReb,,A. Davis,
+204,3,10:30.0,63,55,NOP,GSW,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,Q. Pondexter
+205,3,10:30.0,64,55,NOP,GSW,0,home,FreeThrow,,,make1,1,Q. Pondexter,
+206,3,10:30.0,65,55,NOP,GSW,0,home,FreeThrow,,,make1,1,Q. Pondexter,
+207,3,10:11.0,65,55,NOP,GSW,19,away,JS,,4,miss2,0,D. Green,
+208,3,10:10.0,65,55,NOP,GSW,1,home,DefReb,,,DefReb,,Ö. Aşık,
+209,3,9:52.0,67,55,NOP,GSW,18,home,JS,,4,make2,2,Q. Pondexter,
+210,3,9:44.0,67,55,NOP,GSW,8,away,JS,,26,miss3,0,S. Curry,
+211,3,9:43.0,67,55,NOP,GSW,1,home,DefReb,,,DefReb,,T. Evans,
+212,3,9:24.0,67,55,NOP,GSW,19,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Davis,H. Barnes
+213,3,9:24.0,67,55,NOP,GSW,0,home,OffensiveFoul,,,turnover,,A. Davis,
+214,3,9:03.0,67,55,NOP,GSW,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,Q. Pondexter,S. Curry
+215,3,9:03.0,67,56,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+216,3,9:03.0,67,56,NOP,GSW,0,home,TechnicalFoul,,,TechnicalFoul,,Q. Pondexter,
+217,3,9:03.0,67,57,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Curry makes technical free throw,
+218,3,9:03.0,67,58,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+219,3,8:47.0,67,58,NOP,GSW,16,home,BadPass,steal,,turnover,,T. Evans,D. Green
+220,3,8:37.0,67,58,NOP,GSW,10,away,JS,,25,miss3,0,S. Curry,
+221,3,8:35.0,67,58,NOP,GSW,2,home,DefReb,,,DefReb,,Team,
+222,3,8:35.0,67,58,NOP,GSW,0,home,Timeout,,,,,,
+223,3,8:17.0,67,58,NOP,GSW,18,home,JS,,4,miss2,0,E. Gordon,
+224,3,8:17.0,67,58,NOP,GSW,0,home,OffReb,,,OffReb,,E. Gordon,
+225,3,8:16.0,67,58,NOP,GSW,1,home,LU,,4,miss2,0,E. Gordon,
+226,3,8:15.0,67,58,NOP,GSW,1,home,OffReb,,,OffReb,,Ö. Aşık,
+227,3,8:13.0,67,58,NOP,GSW,2,home,LU,block,2,miss2,0,Ö. Aşık,H. Barnes
+228,3,8:12.0,67,58,NOP,GSW,1,away,DefReb,,,DefReb,,H. Barnes,
+229,3,8:04.0,67,58,NOP,GSW,8,away,LostBall,steal,,turnover,,S. Curry,A. Davis
+230,3,7:53.0,69,58,NOP,GSW,11,home,JS,,11,make2,2,A. Davis,
+231,3,7:29.0,69,58,NOP,GSW,24,away,JS,,10,miss2,0,H. Barnes,
+232,3,7:28.0,69,58,NOP,GSW,1,home,DefReb,,,DefReb,,A. Davis,
+233,3,7:15.0,71,58,NOP,GSW,13,home,JS,assist,17,make2,2,A. Davis,T. Evans
+234,3,6:49.0,71,58,NOP,GSW,26,away,LU,,2,miss2,0,H. Barnes,
+235,3,6:43.0,71,58,NOP,GSW,6,home,DefReb,,,DefReb,,E. Gordon,
+236,3,6:34.0,71,58,NOP,GSW,9,home,JS,,26,miss3,0,E. Gordon,
+237,3,6:33.0,71,58,NOP,GSW,1,home,OffReb,,,OffReb,,Q. Pondexter,
+238,3,6:19.0,71,58,NOP,GSW,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Thompson,A. Davis
+239,3,6:19.0,72,58,NOP,GSW,0,home,FreeThrow,,,make1,1,A. Davis,
+240,3,6:19.0,73,58,NOP,GSW,0,home,FreeThrow,,,make1,1,A. Davis,
+241,3,6:03.0,73,58,NOP,GSW,16,away,JS,,16,miss2,0,H. Barnes,
+242,3,6:02.0,73,58,NOP,GSW,1,home,DefReb,,,DefReb,,Ö. Aşık,
+243,3,5:58.0,73,58,NOP,GSW,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Curry,E. Gordon
+244,3,5:58.0,73,58,NOP,GSW,0,home,FreeThrow,,,make1,0,E. Gordon,
+245,3,5:58.0,73,58,NOP,GSW,0,home,OffReb,,,OffReb,,Team,
+246,3,5:58.0,73,58,NOP,GSW,0,away,Sub,,,,,A. Iguodala,H. Barnes
+247,3,5:58.0,74,58,NOP,GSW,0,home,FreeThrow,,,make1,1,E. Gordon,
+248,3,5:43.0,74,58,NOP,GSW,15,away,LU,block,3,miss2,0,S. Curry,A. Davis
+249,3,5:42.0,74,58,NOP,GSW,1,home,DefReb,,,DefReb,,Ö. Aşık,
+250,3,5:41.0,74,58,NOP,GSW,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,Ö. Aşık
+251,3,5:41.0,74,58,NOP,GSW,0,home,FreeThrow,,,make1,0,Ö. Aşık,
+252,3,5:41.0,74,58,NOP,GSW,0,home,OffReb,,,OffReb,,Team,
+253,3,5:41.0,74,58,NOP,GSW,0,away,Sub,,,,,M. Speights,D. Green
+254,3,5:41.0,75,58,NOP,GSW,0,home,FreeThrow,,,make1,1,Ö. Aşık,
+255,3,5:27.0,75,58,NOP,GSW,14,away,BadPass,steal,,turnover,,K. Thompson,Ö. Aşık
+256,3,5:21.0,77,58,NOP,GSW,6,home,LU,assist,2,make2,2,T. Evans,E. Gordon
+257,3,5:19.0,77,58,NOP,GSW,2,away,Timeout,,,,,,
+258,3,5:19.0,77,58,NOP,GSW,0,home,Sub,,,,,R. Anderson,Ö. Aşık
+259,3,5:19.0,77,58,NOP,GSW,0,away,Sub,,,,,H. Barnes,A. Bogut
+260,3,5:03.0,77,60,NOP,GSW,16,away,JS,assist,16,make2,2,K. Thompson,A. Iguodala
+261,3,5:03.0,77,60,NOP,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Anderson,K. Thompson
+262,3,5:03.0,77,61,NOP,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
+263,3,4:46.0,77,61,NOP,GSW,17,home,JS,,7,miss2,0,A. Davis,
+264,3,4:45.0,77,61,NOP,GSW,1,away,DefReb,,,DefReb,,M. Speights,
+265,3,4:34.0,77,61,NOP,GSW,11,away,LU,block,2,miss2,0,M. Speights,A. Davis
+266,3,4:33.0,77,61,NOP,GSW,1,away,OffReb,,,OffReb,,M. Speights,
+267,3,4:32.0,77,61,NOP,GSW,1,away,LU,block,1,miss2,0,M. Speights,A. Davis
+268,3,4:31.0,77,61,NOP,GSW,1,home,DefReb,,,DefReb,,A. Davis,
+269,3,4:23.0,77,61,NOP,GSW,8,home,OffensiveFoul,,,turnover,,T. Evans,
+270,3,4:23.0,77,61,NOP,GSW,0,away,ChargeFoul,DrawnBy,,ChargeFoul,,T. Evans,M. Speights
+271,3,4:07.0,77,61,NOP,GSW,16,away,JS,,26,miss3,0,A. Iguodala,
+272,3,4:05.0,77,61,NOP,GSW,2,away,OffReb,,,OffReb,,H. Barnes,
+273,3,4:01.0,77,64,NOP,GSW,4,away,JS,assist,25,make3,3,S. Curry,H. Barnes
+274,3,3:36.0,79,64,NOP,GSW,25,home,JS,assist,15,make2,2,R. Anderson,T. Evans
+275,3,3:24.0,79,64,NOP,GSW,12,away,JS,,21,miss2,0,M. Speights,
+276,3,3:23.0,79,64,NOP,GSW,1,home,DefReb,,,DefReb,,Q. Pondexter,
+277,3,3:12.0,79,64,NOP,GSW,11,home,JS,,21,miss2,0,R. Anderson,
+278,3,3:11.0,79,64,NOP,GSW,1,away,DefReb,,,DefReb,,S. Curry,
+279,3,3:05.0,79,67,NOP,GSW,6,away,JS,,25,make3,3,S. Curry,
+280,3,2:49.0,79,67,NOP,GSW,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Speights,A. Davis
+281,3,2:49.0,80,67,NOP,GSW,0,home,FreeThrow,,,make1,1,A. Davis,
+282,3,2:49.0,80,67,NOP,GSW,0,home,Sub,,,,,N. Cole,E. Gordon
+283,3,2:49.0,80,67,NOP,GSW,0,away,Sub,,,,,L. Barbosa,K. Thompson
+284,3,2:49.0,80,67,NOP,GSW,0,home,Sub,,,,,J. Holiday,T. Evans
+285,3,2:49.0,80,67,NOP,GSW,0,home,Sub,,,,,D. Cunningham,Q. Pondexter
+286,3,2:49.0,81,67,NOP,GSW,0,home,FreeThrow,,,make1,1,A. Davis,
+287,3,2:27.0,81,67,NOP,GSW,22,away,JS,,18,miss2,0,A. Iguodala,
+288,3,2:27.0,81,67,NOP,GSW,0,home,DefReb,,,DefReb,,Team,
+289,3,2:27.0,81,67,NOP,GSW,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Speights,R. Anderson
+290,3,2:27.0,82,67,NOP,GSW,0,home,FreeThrow,,,make1,1,R. Anderson,
+291,3,2:27.0,83,67,NOP,GSW,0,home,FreeThrow,,,make1,1,R. Anderson,
+292,3,2:16.0,83,67,NOP,GSW,11,away,JS,,26,miss3,0,S. Curry,
+293,3,2:15.0,83,67,NOP,GSW,1,home,DefReb,,,DefReb,,A. Davis,
+294,3,2:10.0,83,67,NOP,GSW,5,away,ChargeFoul,DrawnBy,,ChargeFoul,,N. Cole,S. Curry
+295,3,2:10.0,83,67,NOP,GSW,0,home,OffensiveFoul,,,turnover,,N. Cole,
+296,3,1:53.0,83,67,NOP,GSW,17,away,DK,block,0,miss2,0,M. Speights,D. Cunningham
+297,3,1:53.0,83,67,NOP,GSW,0,home,DefReb,,,DefReb,,Team,
+298,3,1:38.0,83,67,NOP,GSW,15,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,M. Speights,J. Holiday
+299,3,1:38.0,84,67,NOP,GSW,0,home,FreeThrow,,,make1,1,J. Holiday,
+300,3,1:38.0,85,67,NOP,GSW,0,home,FreeThrow,,,make1,1,J. Holiday,
+301,3,1:22.0,85,67,NOP,GSW,16,away,JS,,23,miss3,0,A. Iguodala,
+302,3,1:20.0,85,67,NOP,GSW,2,away,OffReb,,,OffReb,,S. Curry,
+303,3,1:17.0,85,69,NOP,GSW,3,away,DK,assist,0,make2,2,A. Iguodala,S. Curry
+304,3,1:17.0,85,69,NOP,GSW,0,home,Timeout,,,,,,
+305,3,1:03.0,87,69,NOP,GSW,14,home,JS,assist,20,make2,2,J. Holiday,A. Davis
+306,3,0:46.0,87,69,NOP,GSW,17,away,BadPass,,,turnover,,S. Curry,
+307,3,0:32.0,87,69,NOP,GSW,14,home,JS,block,14,miss2,0,A. Davis,M. Speights
+308,3,0:30.0,87,69,NOP,GSW,2,away,DefReb,,,DefReb,,S. Curry,
+309,3,0:28.0,87,69,NOP,GSW,2,away,LU,,3,miss2,0,L. Barbosa,
+310,3,0:28.0,87,69,NOP,GSW,0,away,OffReb,,,OffReb,,M. Speights,
+311,3,0:28.0,87,69,NOP,GSW,0,away,LU,block,3,miss2,0,M. Speights,J. Holiday
+312,3,0:26.0,87,69,NOP,GSW,2,home,DefReb,,,DefReb,,D. Cunningham,
+313,3,0:12.0,89,69,NOP,GSW,14,home,DK,assist,0,make2,2,D. Cunningham,R. Anderson
+314,3,0:02.0,89,69,NOP,GSW,10,away,JS,,26,miss3,0,S. Curry,
+315,3,0:00.0,89,69,NOP,GSW,2,home,DefReb,,,DefReb,,A. Davis,
+316,4,11:46.0,89,69,NOP,GSW,14,away,JS,,25,miss3,0,K. Thompson,
+317,4,11:44.0,89,69,NOP,GSW,2,away,OffReb,,,OffReb,,D. Green,
+318,4,11:40.0,89,71,NOP,GSW,4,away,LU,assist,2,make2,2,L. Barbosa,D. Green
+319,4,11:26.0,89,71,NOP,GSW,14,home,DK,,0,miss2,0,A. Davis,
+320,4,11:23.0,89,71,NOP,GSW,3,away,DefReb,,,DefReb,,D. Green,
+321,4,11:17.0,89,73,NOP,GSW,6,away,JS,assist,21,make2,2,L. Barbosa,A. Iguodala
+322,4,10:59.0,89,73,NOP,GSW,18,home,BadPass,steal,,turnover,,J. Holiday,D. Green
+323,4,10:38.0,89,73,NOP,GSW,21,away,JS,,23,miss3,0,A. Iguodala,
+324,4,10:37.0,89,73,NOP,GSW,1,home,DefReb,,,DefReb,,D. Cunningham,
+325,4,10:18.0,91,73,NOP,GSW,19,home,JS,assist,16,make2,2,D. Cunningham,J. Holiday
+326,4,10:02.0,91,73,NOP,GSW,16,away,JS,,7,miss2,0,L. Barbosa,
+327,4,10:01.0,91,73,NOP,GSW,1,home,DefReb,,,DefReb,,A. Davis,
+328,4,9:44.0,91,73,NOP,GSW,17,home,BadPass,,,turnover,,R. Anderson,
+329,4,9:44.0,91,73,NOP,GSW,0,home,Sub,,,,,Q. Pondexter,A. Davis
+330,4,9:27.0,91,75,NOP,GSW,17,away,LU,assist,2,make2,2,S. Livingston,A. Iguodala
+331,4,9:04.0,93,75,NOP,GSW,23,home,JS,assist,20,make2,2,R. Anderson,Q. Pondexter
+332,4,8:48.0,93,75,NOP,GSW,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Cole,L. Barbosa
+333,4,8:48.0,93,75,NOP,GSW,0,away,Timeout,,,,,,
+334,4,8:48.0,93,76,NOP,GSW,0,away,FreeThrow,,,make1,1,L. Barbosa,
+335,4,8:48.0,93,77,NOP,GSW,0,away,FreeThrow,,,make1,1,L. Barbosa,
+336,4,8:23.0,95,77,NOP,GSW,25,home,LU,assist,2,make2,2,Q. Pondexter,J. Holiday
+337,4,8:01.0,95,79,NOP,GSW,22,away,JS,,12,make2,2,S. Livingston,
+338,4,7:43.0,95,79,NOP,GSW,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Iguodala,R. Anderson
+339,4,7:43.0,96,79,NOP,GSW,0,home,FreeThrow,,,make1,1,R. Anderson,
+340,4,7:43.0,96,79,NOP,GSW,0,away,Sub,,,,,S. Curry,L. Barbosa
+341,4,7:43.0,96,79,NOP,GSW,0,home,Sub,,,,,T. Evans,J. Holiday
+342,4,7:43.0,97,79,NOP,GSW,0,home,FreeThrow,,,make1,1,R. Anderson,
+343,4,7:25.0,97,79,NOP,GSW,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,Q. Pondexter,K. Thompson
+344,4,7:25.0,97,79,NOP,GSW,0,away,FreeThrow,,,make1,0,K. Thompson,
+345,4,7:25.0,97,79,NOP,GSW,0,away,OffReb,,,OffReb,,Team,
+346,4,7:25.0,97,79,NOP,GSW,0,away,Sub,,,,,H. Barnes,A. Iguodala
+347,4,7:25.0,97,80,NOP,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
+348,4,7:11.0,97,80,NOP,GSW,14,home,JS,,4,miss2,0,Q. Pondexter,
+349,4,7:09.0,97,80,NOP,GSW,2,away,DefReb,,,DefReb,,K. Thompson,
+350,4,7:01.0,97,80,NOP,GSW,8,away,LU,,2,miss2,0,D. Green,
+351,4,7:00.0,97,80,NOP,GSW,1,away,OffReb,,,OffReb,,H. Barnes,
+352,4,7:00.0,97,82,NOP,GSW,0,away,DK,,0,make2,2,H. Barnes,
+353,4,6:37.0,99,82,NOP,GSW,23,home,JS,,16,make2,2,R. Anderson,
+354,4,6:22.0,99,82,NOP,GSW,15,away,LU,,2,miss2,0,S. Livingston,
+355,4,6:21.0,99,82,NOP,GSW,1,away,OffReb,,,OffReb,,S. Livingston,
+356,4,6:21.0,99,84,NOP,GSW,0,away,DK,,2,make2,2,S. Livingston,
+357,4,6:01.0,101,84,NOP,GSW,20,home,JS,,16,make2,2,R. Anderson,
+358,4,5:50.0,101,86,NOP,GSW,11,away,JS,,19,make2,2,S. Curry,
+359,4,5:35.0,101,86,NOP,GSW,15,home,JS,block,3,miss2,0,T. Evans,K. Thompson
+360,4,5:33.0,101,86,NOP,GSW,2,away,DefReb,,,DefReb,,D. Green,
+361,4,5:33.0,101,86,NOP,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Cole,S. Curry
+362,4,5:33.0,101,86,NOP,GSW,0,home,Timeout,,,,,,
+363,4,5:33.0,101,86,NOP,GSW,0,home,Sub,,,,,A. Davis,D. Cunningham
+364,4,5:33.0,101,87,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+365,4,5:33.0,101,88,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+366,4,5:19.0,101,88,NOP,GSW,14,home,BadPass,steal,,turnover,,T. Evans,H. Barnes
+367,4,5:15.0,101,88,NOP,GSW,4,away,JS,,25,miss3,0,S. Curry,
+368,4,5:13.0,101,88,NOP,GSW,2,home,DefReb,,,DefReb,,N. Cole,
+369,4,5:10.0,103,88,NOP,GSW,3,home,DK,,0,make2,2,N. Cole,
+370,4,4:53.0,103,90,NOP,GSW,17,away,JS,,8,make2,2,S. Livingston,
+371,4,4:41.0,103,90,NOP,GSW,12,home,BadPass,steal,,turnover,,N. Cole,D. Green
+372,4,4:40.0,103,90,NOP,GSW,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Cole,D. Green
+373,4,4:40.0,103,90,NOP,GSW,0,away,FreeThrow,,,make1,0,D. Green,
+374,4,4:40.0,103,90,NOP,GSW,0,away,OffReb,,,OffReb,,Team,
+375,4,4:40.0,103,90,NOP,GSW,0,home,Sub,,,,,E. Gordon,N. Cole
+376,4,4:40.0,103,91,NOP,GSW,0,away,FreeThrow,,,make1,1,D. Green,
+377,4,4:22.0,103,91,NOP,GSW,18,home,JS,,27,miss3,0,T. Evans,
+378,4,4:21.0,103,91,NOP,GSW,1,home,OffReb,,,OffReb,,Q. Pondexter,
+379,4,4:21.0,103,91,NOP,GSW,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Livingston,Q. Pondexter
+380,4,4:09.0,103,91,NOP,GSW,12,home,JS,block,16,miss2,0,A. Davis,D. Green
+381,4,4:07.0,103,91,NOP,GSW,2,home,OffReb,,,OffReb,,R. Anderson,
+382,4,4:05.0,103,91,NOP,GSW,2,home,LU,block,1,miss2,0,R. Anderson,K. Thompson
+383,4,4:03.0,103,91,NOP,GSW,2,away,DefReb,,,DefReb,,K. Thompson,
+384,4,3:56.0,103,91,NOP,GSW,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,K. Thompson
+385,4,3:56.0,103,92,NOP,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
+386,4,3:56.0,103,93,NOP,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
+387,4,3:41.0,103,93,NOP,GSW,15,home,LU,,2,miss2,0,A. Davis,
+388,4,3:40.0,103,93,NOP,GSW,1,away,DefReb,,,DefReb,,D. Green,
+389,4,3:36.0,103,93,NOP,GSW,4,away,JS,,24,miss3,0,S. Curry,
+390,4,3:35.0,103,93,NOP,GSW,1,away,OffReb,,,OffReb,,H. Barnes,
+391,4,3:35.0,103,95,NOP,GSW,0,away,DK,,0,make2,2,H. Barnes,
+392,4,3:33.0,103,95,NOP,GSW,2,home,Timeout,,,,,,
+393,4,3:13.0,103,95,NOP,GSW,20,home,LU,,3,miss2,0,T. Evans,
+394,4,3:12.0,103,95,NOP,GSW,1,home,OffReb,,,OffReb,,A. Davis,
+395,4,3:12.0,105,95,NOP,GSW,0,home,DK,,0,make2,2,A. Davis,
+396,4,2:47.0,105,97,NOP,GSW,25,away,JS,,8,make2,2,K. Thompson,
+397,4,2:23.0,105,97,NOP,GSW,24,home,OffGoaltending,,,turnover,,A. Davis,
+398,4,2:23.0,105,97,NOP,GSW,0,home,Sub,,,,,J. Holiday,R. Anderson
+399,4,2:16.0,105,97,NOP,GSW,7,away,LU,,2,miss2,0,S. Curry,
+400,4,2:14.0,105,97,NOP,GSW,2,away,OffReb,,,OffReb,,D. Green,
+401,4,2:14.0,105,99,NOP,GSW,0,away,TI,,2,make2,2,D. Green,
+402,4,1:49.0,105,99,NOP,GSW,25,home,JS,,32,miss3,0,J. Holiday,
+403,4,1:47.0,105,99,NOP,GSW,2,away,DefReb,,,DefReb,,S. Curry,
+404,4,1:42.0,105,99,NOP,GSW,5,away,JS,,27,miss3,0,S. Curry,
+405,4,1:40.0,105,99,NOP,GSW,2,away,OffReb,,,OffReb,,D. Green,
+406,4,1:40.0,105,101,NOP,GSW,0,away,LU,,1,make2,2,D. Green,
+407,4,1:23.0,105,101,NOP,GSW,17,home,LU,,3,miss2,0,T. Evans,
+408,4,1:22.0,105,101,NOP,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
+409,4,1:11.0,105,101,NOP,GSW,11,away,JS,,26,miss3,0,K. Thompson,
+410,4,1:10.0,105,101,NOP,GSW,1,home,DefReb,,,DefReb,,A. Davis,
+411,4,0:50.0,105,101,NOP,GSW,20,home,JS,,23,miss3,0,E. Gordon,
+412,4,0:48.0,105,101,NOP,GSW,2,away,DefReb,,,DefReb,,S. Curry,
+413,4,0:45.0,105,101,NOP,GSW,3,away,Timeout,,,,,,
+414,4,0:45.0,105,101,NOP,GSW,0,home,Sub,,,,,D. Cunningham,E. Gordon
+415,4,0:31.0,105,101,NOP,GSW,14,away,JS,,3,miss2,0,K. Thompson,
+416,4,0:28.0,105,101,NOP,GSW,3,away,OffReb,,,OffReb,,D. Green,
+417,4,0:28.0,105,101,NOP,GSW,0,away,TI,,2,miss2,0,D. Green,
+418,4,0:25.0,105,101,NOP,GSW,3,away,OffReb,,,OffReb,,S. Livingston,
+419,4,0:23.0,105,101,NOP,GSW,2,away,JS,,24,miss3,0,H. Barnes,
+420,4,0:21.0,105,101,NOP,GSW,2,away,OffReb,,,OffReb,,S. Livingston,
+421,4,0:21.0,105,101,NOP,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,S. Livingston
+422,4,0:21.0,105,102,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Livingston,
+423,4,0:21.0,105,102,NOP,GSW,0,away,FreeThrow,,,make1,0,S. Livingston,
+424,4,0:20.0,105,102,NOP,GSW,1,home,DefReb,,,DefReb,,Team,
+425,4,0:20.0,105,102,NOP,GSW,0,home,Timeout,,,,,,
+426,4,0:20.0,105,102,NOP,GSW,0,home,Sub,,,,,E. Gordon,Q. Pondexter
+427,4,0:20.0,105,102,NOP,GSW,0,home,Sub,,,,,R. Anderson,D. Cunningham
+428,4,0:20.0,105,102,NOP,GSW,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Curry,E. Gordon
+429,4,0:17.0,105,102,NOP,GSW,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Livingston,J. Holiday
+430,4,0:17.0,106,102,NOP,GSW,0,home,FreeThrow,,,make1,1,J. Holiday,
+431,4,0:17.0,106,102,NOP,GSW,0,home,Sub,,,,,D. Cunningham,E. Gordon
+432,4,0:17.0,106,102,NOP,GSW,0,home,Sub,,,,,Q. Pondexter,R. Anderson
+433,4,0:17.0,107,102,NOP,GSW,0,home,FreeThrow,,,make1,1,J. Holiday,
+434,4,0:17.0,107,102,NOP,GSW,0,away,Timeout,,,,,,
+435,4,0:17.0,107,102,NOP,GSW,0,away,Sub,,,,,M. Speights,S. Livingston
+436,4,0:12.0,107,105,NOP,GSW,5,away,JS,assist,24,make3,3,S. Curry,D. Green
+437,4,0:12.0,107,105,NOP,GSW,0,home,Timeout,,,,,,
+438,4,0:12.0,107,105,NOP,GSW,0,home,Sub,,,,,E. Gordon,Q. Pondexter
+439,4,0:12.0,107,105,NOP,GSW,0,home,Sub,,,,,R. Anderson,D. Cunningham
+440,4,0:12.0,107,105,NOP,GSW,0,away,Sub,,,,,S. Livingston,M. Speights
+441,4,0:10.0,107,105,NOP,GSW,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Green,A. Davis
+442,4,0:10.0,107,105,NOP,GSW,0,home,FreeThrow,,,make1,0,A. Davis,
+443,4,0:10.0,107,105,NOP,GSW,0,home,OffReb,,,OffReb,,Team,
+444,4,0:10.0,107,105,NOP,GSW,0,home,Sub,,,,,D. Cunningham,R. Anderson
+445,4,0:10.0,107,105,NOP,GSW,0,home,Sub,,,,,Q. Pondexter,E. Gordon
+446,4,0:10.0,107,105,NOP,GSW,0,away,Sub,,,,,M. Speights,S. Livingston
+447,4,0:10.0,108,105,NOP,GSW,0,home,FreeThrow,,,make1,1,A. Davis,
+448,4,0:10.0,108,105,NOP,GSW,0,away,Timeout,,,,,,
+449,4,0:06.0,108,105,NOP,GSW,4,away,JS,,25,miss3,0,S. Curry,
+450,4,0:03.0,108,105,NOP,GSW,3,away,OffReb,,,OffReb,,M. Speights,
+451,4,0:03.0,108,108,NOP,GSW,0,away,JS,assist,24,make3,3,S. Curry,M. Speights
+452,4,0:00.0,108,108,NOP,GSW,3,home,JS,,25,miss3,0,T. Evans,
+453,4,0:00.0,108,108,NOP,GSW,0,home,OffReb,,,OffReb,,Team,
+454,1OT,4:46.0,108,108,NOP,GSW,434,away,JS,,15,miss2,0,K. Thompson,
+455,1OT,4:45.0,108,108,NOP,GSW,1,away,OffReb,,,OffReb,,D. Green,
+456,1OT,4:27.0,108,111,NOP,GSW,18,away,JS,assist,26,make3,3,S. Curry,D. Green
+457,1OT,4:11.0,108,111,NOP,GSW,16,away,ChargeFoul,DrawnBy,,ChargeFoul,,A. Davis,A. Bogut
+458,1OT,4:11.0,108,111,NOP,GSW,0,home,OffensiveFoul,,,turnover,,A. Davis,
+459,1OT,4:01.0,108,111,NOP,GSW,10,away,LU,block,2,miss2,0,S. Curry,E. Gordon
+460,1OT,3:59.0,108,111,NOP,GSW,2,home,DefReb,,,DefReb,,Q. Pondexter,
+461,1OT,3:51.0,108,111,NOP,GSW,8,home,JS,,24,miss3,0,Q. Pondexter,
+462,1OT,3:49.0,108,111,NOP,GSW,2,away,DefReb,,,DefReb,,D. Green,
+463,1OT,3:41.0,108,111,NOP,GSW,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Gordon,A. Bogut
+464,1OT,3:36.0,108,111,NOP,GSW,5,away,JS,,26,miss3,0,D. Green,
+465,1OT,3:35.0,108,111,NOP,GSW,1,home,DefReb,,,DefReb,,Q. Pondexter,
+466,1OT,3:29.0,108,111,NOP,GSW,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Thompson,T. Evans
+467,1OT,3:29.0,109,111,NOP,GSW,0,home,FreeThrow,,,make1,1,T. Evans,
+468,1OT,3:29.0,109,111,NOP,GSW,0,home,Sub,,,,,Ö. Aşık,R. Anderson
+469,1OT,3:29.0,109,111,NOP,GSW,0,home,FreeThrow,,,make1,0,T. Evans,
+470,1OT,3:27.0,109,111,NOP,GSW,2,away,DefReb,,,DefReb,,H. Barnes,
+471,1OT,3:09.0,109,114,NOP,GSW,18,away,JS,assist,25,make3,3,H. Barnes,D. Green
+472,1OT,2:44.0,111,114,NOP,GSW,25,home,JS,,23,make2,2,E. Gordon,
+473,1OT,2:28.0,111,116,NOP,GSW,16,away,LU,assist,2,make2,2,D. Green,S. Curry
+474,1OT,2:28.0,111,116,NOP,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Gordon,D. Green
+475,1OT,2:28.0,111,117,NOP,GSW,0,away,FreeThrow,,,make1,1,D. Green,
+476,1OT,2:12.0,113,117,NOP,GSW,16,home,JS,assist,15,make2,2,A. Davis,T. Evans
+477,1OT,1:51.0,113,119,NOP,GSW,21,away,DK,assist,0,make2,2,A. Bogut,S. Curry
+478,1OT,1:51.0,113,119,NOP,GSW,0,home,Timeout,,,,,,
+479,1OT,1:51.0,113,119,NOP,GSW,0,home,Sub,,,,,R. Anderson,Ö. Aşık
+480,1OT,1:42.0,115,119,NOP,GSW,9,home,LU,,2,make2,2,T. Evans,
+481,1OT,1:22.0,115,119,NOP,GSW,20,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Bogut,R. Anderson
+482,1OT,1:22.0,115,119,NOP,GSW,0,away,OffensiveFoul,,,turnover,,A. Bogut,
+483,1OT,1:11.0,118,119,NOP,GSW,11,home,JS,assist,27,make3,3,R. Anderson,T. Evans
+484,1OT,0:56.0,118,119,NOP,GSW,15,away,JS,,26,miss3,0,S. Curry,
+485,1OT,0:52.0,118,119,NOP,GSW,4,away,OffReb,,,OffReb,,D. Green,
+486,1OT,0:44.0,118,119,NOP,GSW,8,away,Timeout,,,,,,
+487,1OT,0:37.0,118,119,NOP,GSW,7,away,JS,,22,miss2,0,S. Curry,
+488,1OT,0:36.0,118,119,NOP,GSW,1,home,DefReb,,,DefReb,,Team,
+489,1OT,0:36.0,118,119,NOP,GSW,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Green,A. Davis
+490,1OT,0:36.0,118,119,NOP,GSW,0,away,Sub,,,,,A. Iguodala,D. Green
+491,1OT,0:25.0,118,119,NOP,GSW,11,home,JS,,25,miss3,0,E. Gordon,
+492,1OT,0:24.0,118,119,NOP,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
+493,1OT,0:15.0,118,119,NOP,GSW,9,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Evans,S. Curry
+494,1OT,0:15.0,118,119,NOP,GSW,0,away,Sub,,,,,M. Speights,A. Bogut
+495,1OT,0:14.0,118,119,NOP,GSW,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Gordon,S. Curry
+496,1OT,0:14.0,118,120,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+497,1OT,0:14.0,118,120,NOP,GSW,0,away,Sub,,,,,A. Bogut,M. Speights
+498,1OT,0:14.0,118,121,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+499,1OT,0:14.0,118,121,NOP,GSW,0,home,Timeout,,,,,,
+500,1OT,0:14.0,118,121,NOP,GSW,0,home,Sub,,,,,J. Holiday,Q. Pondexter
+501,1OT,0:14.0,118,121,NOP,GSW,0,away,Sub,,,,,S. Livingston,A. Bogut
+502,1OT,0:11.0,118,121,NOP,GSW,3,home,AFPFoul,DrawnBy,,AFPFoul,,K. Thompson,A. Davis
+503,1OT,0:11.0,119,121,NOP,GSW,0,home,FreeThrow,,,make1,1,A. Davis,
+504,1OT,0:11.0,119,121,NOP,GSW,0,home,Timeout,,,,,,
+505,1OT,0:11.0,119,121,NOP,GSW,0,away,Sub,,,,,A. Bogut,S. Livingston
+506,1OT,0:07.0,119,121,NOP,GSW,4,home,JS,,9,miss2,0,A. Davis,
+507,1OT,0:06.0,119,121,NOP,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
+508,1OT,0:05.0,119,121,NOP,GSW,1,away,Timeout,,,,,,
+509,1OT,0:05.0,119,121,NOP,GSW,0,home,Sub,,,,,Q. Pondexter,E. Gordon
+510,1OT,0:05.0,119,121,NOP,GSW,0,home,Sub,,,,,D. Cunningham,R. Anderson
+511,1OT,0:05.0,119,121,NOP,GSW,0,away,Sub,,,,,M. Speights,A. Bogut
+512,1OT,0:03.0,119,121,NOP,GSW,2,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Evans,S. Curry
+513,1OT,0:03.0,119,122,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+514,1OT,0:03.0,119,122,NOP,GSW,0,away,Sub,,,,,S. Livingston,M. Speights
+515,1OT,0:03.0,119,123,NOP,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
+516,1OT,0:00.0,119,123,NOP,GSW,3,home,JS,,26,miss3,0,T. Evans,
+517,1OT,0:00.0,119,123,NOP,GSW,0,home,OffReb,,,OffReb,,Team,

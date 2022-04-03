@@ -1,0 +1,443 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:50.0,0,0,DEN,NOP,10,away,JS,,25,miss3,0,J. Redick,
+1,1,11:47.0,0,0,DEN,NOP,3,home,DefReb,,,DefReb,,W. Barton,
+2,1,11:41.0,0,0,DEN,NOP,6,home,JS,,25,miss3,0,G. Harris,
+3,1,11:37.0,0,0,DEN,NOP,4,away,DefReb,,,DefReb,,L. Ball,
+4,1,11:30.0,0,0,DEN,NOP,7,away,OutOfBoundsLB,,,turnover,,J. Redick,
+5,1,11:29.0,0,0,DEN,NOP,1,home,OutOfBounds,,,turnover,,G. Harris,
+6,1,11:18.0,0,0,DEN,NOP,11,away,bad pass,steal,,turnover,,J. Holiday,J. Murray
+7,1,11:13.0,0,0,DEN,NOP,5,home,JS,,24,miss3,0,W. Barton,
+8,1,11:09.0,0,0,DEN,NOP,4,away,DefReb,,,DefReb,,B. Ingram,
+9,1,11:00.0,0,2,DEN,NOP,9,away,JS,,16,make2,2,B. Ingram,
+10,1,10:44.0,0,2,DEN,NOP,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,N. Jokić
+11,1,10:44.0,1,2,DEN,NOP,0,home,FreeThrow,,,make1,1,N. Jokić,
+12,1,10:44.0,1,2,DEN,NOP,0,home,FreeThrow,,,make1,0,N. Jokić,
+13,1,10:43.0,1,2,DEN,NOP,1,home,OffReb,,,OffReb,,Team,
+14,1,10:40.0,1,2,DEN,NOP,3,home,JS,block,6,miss2,0,N. Jokić,D. Favors
+15,1,10:38.0,1,2,DEN,NOP,2,home,OffReb,,,OffReb,,N. Jokić,
+16,1,10:30.0,1,2,DEN,NOP,8,home,lost ball,steal,,turnover,,J. Murray,D. Favors
+17,1,10:20.0,1,4,DEN,NOP,10,away,JS,,4,make2,2,J. Holiday,
+18,1,9:58.0,1,4,DEN,NOP,22,home,LU,,2,miss2,0,N. Jokić,
+19,1,9:56.0,1,4,DEN,NOP,2,away,DefReb,,,DefReb,,B. Ingram,
+20,1,9:50.0,1,6,DEN,NOP,6,away,JS,assist,20,make2,2,J. Redick,B. Ingram
+21,1,9:37.0,1,6,DEN,NOP,13,home,JS,,25,miss3,0,P. Millsap,
+22,1,9:34.0,1,6,DEN,NOP,3,away,DefReb,,,DefReb,,D. Favors,
+23,1,9:29.0,1,6,DEN,NOP,5,away,JS,,25,miss3,0,J. Holiday,
+24,1,9:26.0,1,6,DEN,NOP,3,home,DefReb,,,DefReb,,P. Millsap,
+25,1,9:18.0,1,6,DEN,NOP,8,home,bad pass,steal,,turnover,,N. Jokić,J. Holiday
+26,1,9:17.0,1,6,DEN,NOP,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,N. Jokić,J. Holiday
+27,1,9:17.0,1,6,DEN,NOP,0,home,Timeout,,,,,,
+28,1,9:03.0,1,9,DEN,NOP,14,away,JS,assist,25,make3,3,B. Ingram,D. Favors
+29,1,8:44.0,4,9,DEN,NOP,19,home,JS,assist,23,make3,3,G. Harris,P. Millsap
+30,1,8:38.0,4,9,DEN,NOP,6,away,Timeout,,,,,,
+31,1,8:28.0,4,9,DEN,NOP,10,away,bad pass,steal,,turnover,,B. Ingram,G. Harris
+32,1,8:25.0,6,9,DEN,NOP,3,home,DK,,1,make2,2,G. Harris,
+33,1,8:12.0,6,11,DEN,NOP,13,away,LU,,2,make2,2,J. Holiday,
+34,1,7:51.0,6,11,DEN,NOP,21,home,lost ball,steal,,turnover,,P. Millsap,J. Holiday
+35,1,7:45.0,6,11,DEN,NOP,6,away,JS,,23,miss3,0,J. Redick,
+36,1,7:41.0,6,11,DEN,NOP,4,home,DefReb,,,DefReb,,W. Barton,
+37,1,7:41.0,6,11,DEN,NOP,0,home,Traveling,,,turnover,,W. Barton,
+38,1,7:25.0,6,11,DEN,NOP,16,away,BadPass,,,turnover,,J. Redick,
+39,1,7:09.0,8,11,DEN,NOP,16,home,HS,,3,make2,2,N. Jokić,
+40,1,6:56.0,8,11,DEN,NOP,13,away,lost ball,steal,,turnover,,J. Redick,G. Harris
+41,1,6:50.0,11,11,DEN,NOP,6,home,JS,assist,27,make3,3,G. Harris,N. Jokić
+42,1,6:35.0,11,11,DEN,NOP,15,home,KickBallViolation,,,KickBallViolation,,Team,
+43,1,6:35.0,11,11,DEN,NOP,0,away,Sub,,,,,J. Hayes,D. Favors
+44,1,6:35.0,11,11,DEN,NOP,0,home,Sub,,,,,J. Grant,P. Millsap
+45,1,6:32.0,11,11,DEN,NOP,3,away,JS,,26,miss3,0,L. Ball,
+46,1,6:30.0,11,11,DEN,NOP,2,home,DefReb,,,DefReb,,Team,
+47,1,6:19.0,11,11,DEN,NOP,11,home,JS,,17,miss2,0,J. Murray,
+48,1,6:17.0,11,11,DEN,NOP,2,away,DefReb,,,DefReb,,B. Ingram,
+49,1,6:05.0,11,13,DEN,NOP,12,away,JS,,20,make2,2,B. Ingram,
+50,1,5:48.0,11,13,DEN,NOP,17,home,bad pass,steal,,turnover,,N. Jokić,B. Ingram
+51,1,5:45.0,11,13,DEN,NOP,3,away,JS,,25,miss3,0,J. Redick,
+52,1,5:42.0,11,13,DEN,NOP,3,away,OffReb,,,OffReb,,J. Redick,
+53,1,5:40.0,11,13,DEN,NOP,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Murray,B. Ingram
+54,1,5:40.0,11,14,DEN,NOP,0,away,FreeThrow,,,make1,1,B. Ingram,
+55,1,5:40.0,11,14,DEN,NOP,0,away,Sub,,,,,J. Hart,J. Holiday
+56,1,5:40.0,11,15,DEN,NOP,0,away,FreeThrow,,,make1,1,B. Ingram,
+57,1,5:30.0,11,15,DEN,NOP,10,home,JS,,19,miss2,0,J. Grant,
+58,1,5:25.0,11,15,DEN,NOP,5,away,DefReb,,,DefReb,,J. Hart,
+59,1,5:23.0,11,17,DEN,NOP,2,away,LU,,3,make2,2,J. Hart,
+60,1,5:03.0,11,17,DEN,NOP,20,home,JS,,25,miss3,0,J. Murray,
+61,1,5:01.0,11,17,DEN,NOP,2,home,OffReb,,,OffReb,,Team,
+62,1,5:01.0,11,17,DEN,NOP,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Hayes,N. Jokić
+63,1,5:01.0,11,17,DEN,NOP,0,home,Sub,,,,,M. Porter,W. Barton
+64,1,4:52.0,13,17,DEN,NOP,9,home,JS,assist,4,make2,2,J. Grant,M. Porter
+65,1,4:35.0,13,17,DEN,NOP,17,away,bad pass,steal,,turnover,,L. Ball,N. Jokić
+66,1,4:31.0,16,17,DEN,NOP,4,home,JS,assist,23,make3,3,J. Grant,N. Jokić
+67,1,4:22.0,16,17,DEN,NOP,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Porter,J. Hart
+68,1,4:22.0,16,18,DEN,NOP,0,away,FreeThrow,,,make1,1,J. Hart,
+69,1,4:22.0,16,19,DEN,NOP,0,away,FreeThrow,,,make1,1,J. Hart,
+70,1,4:08.0,16,19,DEN,NOP,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hayes,N. Jokić
+71,1,4:08.0,17,19,DEN,NOP,0,home,FreeThrow,,,make1,1,N. Jokić,
+72,1,4:08.0,17,19,DEN,NOP,0,away,Sub,,,,,E. Moore,J. Hayes
+73,1,4:08.0,17,19,DEN,NOP,0,away,Sub,,,,,J. Okafor,J. Redick
+74,1,4:08.0,17,19,DEN,NOP,0,home,Sub,,,,,M. Morris,G. Harris
+75,1,4:08.0,18,19,DEN,NOP,0,home,FreeThrow,,,make1,1,N. Jokić,
+76,1,3:46.0,18,21,DEN,NOP,22,away,JS,,9,make2,2,E. Moore,
+77,1,3:35.0,18,21,DEN,NOP,11,home,JS,,26,miss3,0,M. Porter,
+78,1,3:32.0,18,21,DEN,NOP,3,away,DefReb,,,DefReb,,B. Ingram,
+79,1,3:14.0,18,23,DEN,NOP,18,away,LU,,2,make2,2,B. Ingram,
+80,1,2:57.0,18,23,DEN,NOP,17,home,LU,,3,miss2,0,M. Morris,
+81,1,2:55.0,18,23,DEN,NOP,2,away,DefReb,,,DefReb,,J. Hart,
+82,1,2:41.0,18,23,DEN,NOP,14,away,bad pass,steal,,turnover,,J. Hart,N. Jokić
+83,1,2:34.0,20,23,DEN,NOP,7,home,DK,assist,1,make2,2,M. Porter,M. Morris
+84,1,2:29.0,20,23,DEN,NOP,5,away,JS,,22,miss3,0,L. Ball,
+85,1,2:26.0,20,23,DEN,NOP,3,home,DefReb,,,DefReb,,N. Jokić,
+86,1,2:13.0,22,23,DEN,NOP,13,home,JS,assist,14,make2,2,J. Murray,N. Jokić
+87,1,2:04.0,22,23,DEN,NOP,9,away,Timeout,,,,,,
+88,1,2:04.0,22,23,DEN,NOP,0,away,Sub,,,,,J. Holiday,L. Ball
+89,1,2:04.0,22,23,DEN,NOP,0,away,Sub,,,,,K. Williams,B. Ingram
+90,1,2:04.0,22,23,DEN,NOP,0,home,Sub,,,,,W. Barton,N. Jokić
+91,1,2:04.0,22,23,DEN,NOP,0,home,Sub,,,,,M. Plumlee,J. Murray
+92,1,1:58.0,22,23,DEN,NOP,6,away,JS,,14,miss2,0,E. Moore,
+93,1,1:55.0,22,23,DEN,NOP,3,home,DefReb,,,DefReb,,M. Plumlee,
+94,1,1:35.0,22,23,DEN,NOP,20,home,JS,block,9,miss2,0,M. Morris,E. Moore
+95,1,1:34.0,22,23,DEN,NOP,1,away,DefReb,,,DefReb,,J. Hart,
+96,1,1:34.0,22,23,DEN,NOP,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Porter,J. Hart
+97,1,1:23.0,22,23,DEN,NOP,11,away,LU,block,4,miss2,0,J. Hart,M. Morris
+98,1,1:23.0,22,23,DEN,NOP,0,away,OffReb,,,OffReb,,Team,
+99,1,1:21.0,22,23,DEN,NOP,2,away,bad pass,steal,,turnover,,J. Holiday,M. Morris
+100,1,1:16.0,24,23,DEN,NOP,5,home,LU,assist,1,make2,2,W. Barton,M. Morris
+101,1,1:06.0,24,26,DEN,NOP,10,away,JS,assist,23,make3,3,J. Hart,J. Holiday
+102,1,0:51.0,26,26,DEN,NOP,15,home,LU,assist,3,make2,2,J. Grant,W. Barton
+103,1,0:46.0,26,29,DEN,NOP,5,away,JS,assist,24,make3,3,J. Hart,J. Holiday
+104,1,0:35.0,26,29,DEN,NOP,11,home,JS,,26,miss3,0,J. Grant,
+105,1,0:31.0,26,29,DEN,NOP,4,away,DefReb,,,DefReb,,K. Williams,
+106,1,0:24.0,26,29,DEN,NOP,7,away,Traveling,,,turnover,,J. Okafor,
+107,1,0:06.0,26,29,DEN,NOP,18,home,JS,,25,miss3,0,W. Barton,
+108,1,0:01.0,26,29,DEN,NOP,5,home,OffReb,,,OffReb,,J. Grant,
+109,2,11:45.0,28,29,DEN,NOP,15,home,JS,assist,7,make2,2,J. Grant,M. Beasley
+110,2,11:29.0,28,31,DEN,NOP,16,away,LU,,2,make2,2,J. Holiday,
+111,2,11:16.0,28,31,DEN,NOP,13,home,JS,,4,miss2,0,M. Beasley,
+112,2,11:14.0,28,31,DEN,NOP,2,away,DefReb,,,DefReb,,J. Okafor,
+113,2,11:02.0,28,31,DEN,NOP,12,away,JS,,25,miss3,0,J. Holiday,
+114,2,10:58.0,28,31,DEN,NOP,4,home,DefReb,,,DefReb,,J. Grant,
+115,2,10:41.0,28,31,DEN,NOP,17,home,HS,,4,miss2,0,J. Grant,
+116,2,10:39.0,28,31,DEN,NOP,2,away,DefReb,,,DefReb,,J. Hart,
+117,2,10:30.0,28,33,DEN,NOP,9,away,LU,,2,make2,2,J. Holiday,
+118,2,10:17.0,30,33,DEN,NOP,13,home,JS,,16,make2,2,M. Morris,
+119,2,10:01.0,30,33,DEN,NOP,16,away,JS,,5,miss2,0,J. Okafor,
+120,2,10:00.0,30,33,DEN,NOP,1,home,DefReb,,,DefReb,,W. Barton,
+121,2,9:52.0,30,33,DEN,NOP,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Okafor,W. Barton
+122,2,9:52.0,30,33,DEN,NOP,0,home,FreeThrow,,,make1,0,W. Barton,
+123,2,9:52.0,30,33,DEN,NOP,0,home,OffReb,,,OffReb,,Team,
+124,2,9:52.0,30,33,DEN,NOP,0,away,Sub,,,,,D. Favors,J. Okafor
+125,2,9:52.0,31,33,DEN,NOP,0,home,FreeThrow,,,make1,1,W. Barton,
+126,2,9:31.0,31,35,DEN,NOP,21,away,DK,assist,1,make2,2,D. Favors,J. Holiday
+127,2,9:12.0,31,35,DEN,NOP,19,home,HS,,5,miss2,0,M. Plumlee,
+128,2,9:10.0,31,35,DEN,NOP,2,away,DefReb,,,DefReb,,D. Favors,
+129,2,8:57.0,31,38,DEN,NOP,13,away,JS,assist,25,make3,3,E. Moore,D. Favors
+130,2,8:57.0,31,38,DEN,NOP,0,home,Timeout,,,,,,
+131,2,8:44.0,31,38,DEN,NOP,13,home,LU,block,3,miss2,0,M. Morris,D. Favors
+132,2,8:43.0,31,38,DEN,NOP,1,away,DefReb,,,DefReb,,K. Williams,
+133,2,8:34.0,31,38,DEN,NOP,9,away,Traveling,,,turnover,,J. Holiday,
+134,2,8:26.0,34,38,DEN,NOP,8,home,JS,assist,25,make3,3,M. Beasley,M. Morris
+135,2,8:13.0,34,38,DEN,NOP,13,away,JS,,24,miss3,0,E. Moore,
+136,2,8:11.0,34,38,DEN,NOP,2,home,DefReb,,,DefReb,,M. Beasley,
+137,2,8:06.0,34,38,DEN,NOP,5,home,Traveling,,,turnover,,W. Barton,
+138,2,8:06.0,34,38,DEN,NOP,0,home,Sub,,,,,G. Harris,W. Barton
+139,2,7:41.0,34,40,DEN,NOP,25,away,JS,,17,make2,2,E. Moore,
+140,2,7:23.0,34,40,DEN,NOP,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,J. Grant
+141,2,7:23.0,34,40,DEN,NOP,0,home,FreeThrow,,,make1,0,J. Grant,
+142,2,7:23.0,34,40,DEN,NOP,0,home,OffReb,,,OffReb,,Team,
+143,2,7:23.0,34,40,DEN,NOP,0,away,Sub,,,,,B. Ingram,J. Hart
+144,2,7:23.0,34,40,DEN,NOP,0,home,Sub,,,,,J. Murray,M. Morris
+145,2,7:23.0,35,40,DEN,NOP,0,home,FreeThrow,,,make1,1,J. Grant,
+146,2,7:08.0,35,40,DEN,NOP,15,away,JS,,23,miss3,0,J. Holiday,
+147,2,7:03.0,35,40,DEN,NOP,5,home,DefReb,,,DefReb,,G. Harris,
+148,2,6:55.0,37,40,DEN,NOP,8,home,JS,assist,6,make2,2,J. Grant,J. Murray
+149,2,6:45.0,37,40,DEN,NOP,10,away,Traveling,,,turnover,,J. Holiday,
+150,2,6:45.0,37,40,DEN,NOP,0,away,Sub,,,,,L. Ball,J. Holiday
+151,2,6:45.0,37,40,DEN,NOP,0,home,Sub,,,,,N. Jokić,J. Grant
+152,2,6:45.0,37,40,DEN,NOP,0,home,Sub,,,,,P. Millsap,M. Plumlee
+153,2,6:35.0,37,40,DEN,NOP,10,home,JS,,26,miss3,0,N. Jokić,
+154,2,6:32.0,37,40,DEN,NOP,3,home,OffReb,,,OffReb,,P. Millsap,
+155,2,6:30.0,40,40,DEN,NOP,2,home,JS,assist,25,make3,3,M. Beasley,P. Millsap
+156,2,6:10.0,40,43,DEN,NOP,20,away,JS,assist,23,make3,3,B. Ingram,K. Williams
+157,2,5:56.0,40,43,DEN,NOP,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Williams,J. Murray
+158,2,5:56.0,41,43,DEN,NOP,0,home,FreeThrow,,,make1,1,J. Murray,
+159,2,5:56.0,41,43,DEN,NOP,0,away,Sub,,,,,J. Redick,E. Moore
+160,2,5:56.0,42,43,DEN,NOP,0,home,FreeThrow,,,make1,1,J. Murray,
+161,2,5:48.0,42,43,DEN,NOP,8,away,JS,,25,miss3,0,B. Ingram,
+162,2,5:45.0,42,43,DEN,NOP,3,home,DefReb,,,DefReb,,N. Jokić,
+163,2,5:30.0,45,43,DEN,NOP,15,home,JS,assist,26,make3,3,M. Beasley,N. Jokić
+164,2,5:16.0,45,43,DEN,NOP,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Murray,D. Favors
+165,2,5:08.0,45,43,DEN,NOP,8,away,JS,,25,miss3,0,K. Williams,
+166,2,5:06.0,45,43,DEN,NOP,2,home,DefReb,,,DefReb,,N. Jokić,
+167,2,4:57.0,45,43,DEN,NOP,9,away,KickBallViolation,,,KickBallViolation,,Team,
+168,2,4:57.0,45,43,DEN,NOP,0,away,Sub,,,,,F. Jackson,K. Williams
+169,2,4:49.0,45,43,DEN,NOP,8,home,JS,,17,miss2,0,J. Murray,
+170,2,4:48.0,45,43,DEN,NOP,1,home,OffReb,,,OffReb,,Team,
+171,2,4:41.0,47,43,DEN,NOP,7,home,LU,assist,2,make2,2,G. Harris,P. Millsap
+172,2,4:22.0,47,43,DEN,NOP,19,away,lost ball,steal,,turnover,,D. Favors,P. Millsap
+173,2,4:17.0,49,43,DEN,NOP,5,home,LU,assist,2,make2,2,M. Beasley,P. Millsap
+174,2,4:12.0,49,43,DEN,NOP,5,away,Timeout,,,,,,
+175,2,4:00.0,49,45,DEN,NOP,12,away,JS,assist,19,make2,2,J. Redick,D. Favors
+176,2,3:44.0,49,45,DEN,NOP,16,home,JS,,25,miss3,0,M. Beasley,
+177,2,3:41.0,49,45,DEN,NOP,3,away,DefReb,,,DefReb,,D. Favors,
+178,2,3:35.0,49,45,DEN,NOP,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Murray,D. Favors
+179,2,3:35.0,49,45,DEN,NOP,0,home,Sub,,,,,M. Morris,J. Murray
+180,2,3:26.0,49,47,DEN,NOP,9,away,JS,assist,19,make2,2,J. Redick,D. Favors
+181,2,3:07.0,49,47,DEN,NOP,19,home,HS,,6,miss2,0,N. Jokić,
+182,2,3:05.0,49,47,DEN,NOP,2,away,DefReb,,,DefReb,,B. Ingram,
+183,2,2:50.0,49,49,DEN,NOP,15,away,DK,assist,1,make2,2,D. Favors,B. Ingram
+184,2,2:40.0,49,49,DEN,NOP,10,away,KickBallViolation,,,KickBallViolation,,Team,
+185,2,2:40.0,49,49,DEN,NOP,0,home,Sub,,,,,W. Barton,M. Beasley
+186,2,2:32.0,49,49,DEN,NOP,8,home,JS,,26,miss3,0,M. Morris,
+187,2,2:27.0,49,49,DEN,NOP,5,away,DefReb,,,DefReb,,J. Redick,
+188,2,2:17.0,49,49,DEN,NOP,10,away,JS,,25,miss3,0,L. Ball,
+189,2,2:13.0,49,49,DEN,NOP,4,home,DefReb,,,DefReb,,N. Jokić,
+190,2,2:04.0,49,49,DEN,NOP,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,F. Jackson,P. Millsap
+191,2,1:54.0,49,49,DEN,NOP,10,home,JS,,8,miss2,0,N. Jokić,
+192,2,1:49.0,49,49,DEN,NOP,5,away,DefReb,,,DefReb,,D. Favors,
+193,2,1:49.0,49,49,DEN,NOP,0,away,bad pass,steal,,turnover,,D. Favors,G. Harris
+194,2,1:46.0,49,49,DEN,NOP,3,home,HS,,3,miss2,0,N. Jokić,
+195,2,1:42.0,49,49,DEN,NOP,4,home,OffReb,,,OffReb,,N. Jokić,
+196,2,1:42.0,51,49,DEN,NOP,0,home,LU,,1,make2,2,N. Jokić,
+197,2,1:40.0,51,49,DEN,NOP,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Millsap,J. Redick
+198,2,1:40.0,51,50,DEN,NOP,0,away,FreeThrow,,,make1,1,J. Redick,
+199,2,1:40.0,51,51,DEN,NOP,0,away,FreeThrow,,,make1,1,J. Redick,
+200,2,1:40.0,51,52,DEN,NOP,0,away,FreeThrow,,,make1,1,J. Redick,
+201,2,1:24.0,51,52,DEN,NOP,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,N. Jokić
+202,2,1:24.0,52,52,DEN,NOP,0,home,FreeThrow,,,make1,1,N. Jokić,
+203,2,1:24.0,52,52,DEN,NOP,0,home,Sub,,,,,J. Grant,P. Millsap
+204,2,1:24.0,53,52,DEN,NOP,0,home,FreeThrow,,,make1,1,N. Jokić,
+205,2,1:10.0,53,52,DEN,NOP,14,away,JS,,23,miss3,0,F. Jackson,
+206,2,1:07.0,53,52,DEN,NOP,3,home,DefReb,,,DefReb,,N. Jokić,
+207,2,0:57.0,53,52,DEN,NOP,10,home,HS,,3,miss2,0,N. Jokić,
+208,2,0:55.0,53,52,DEN,NOP,2,away,DefReb,,,DefReb,,L. Ball,
+209,2,0:50.0,53,52,DEN,NOP,5,away,JS,,25,miss3,0,L. Ball,
+210,2,0:47.0,53,52,DEN,NOP,3,home,DefReb,,,DefReb,,W. Barton,
+211,2,0:37.0,53,52,DEN,NOP,10,home,JS,,23,miss3,0,G. Harris,
+212,2,0:34.0,53,52,DEN,NOP,3,home,OffReb,,,OffReb,,W. Barton,
+213,2,0:34.0,55,52,DEN,NOP,0,home,LU,,2,make2,2,W. Barton,
+214,2,0:26.0,55,55,DEN,NOP,8,away,JS,assist,26,make3,3,J. Redick,D. Favors
+215,2,0:03.0,55,55,DEN,NOP,23,home,LU,,5,miss2,0,W. Barton,
+216,2,0:00.0,55,55,DEN,NOP,3,away,DefReb,,,DefReb,,D. Favors,
+217,2,0:00.0,55,58,DEN,NOP,0,away,JS,assist,30,make3,3,J. Redick,D. Favors
+218,3,11:47.0,55,58,DEN,NOP,13,home,JS,,12,miss2,0,N. Jokić,
+219,3,11:44.0,55,58,DEN,NOP,3,away,DefReb,,,DefReb,,D. Favors,
+220,3,11:30.0,55,58,DEN,NOP,14,away,JS,,11,miss2,0,D. Favors,
+221,3,11:23.0,55,58,DEN,NOP,7,away,OffReb,,,OffReb,,L. Ball,
+222,3,11:23.0,55,60,DEN,NOP,0,away,LU,,1,make2,2,L. Ball,
+223,3,11:18.0,55,60,DEN,NOP,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Redick,G. Harris
+224,3,11:08.0,55,60,DEN,NOP,10,home,JS,,13,miss2,0,P. Millsap,
+225,3,11:05.0,55,60,DEN,NOP,3,away,DefReb,,,DefReb,,D. Favors,
+226,3,11:02.0,55,60,DEN,NOP,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Millsap,J. Redick
+227,3,10:55.0,55,62,DEN,NOP,7,away,DK,assist,1,make2,2,D. Favors,J. Holiday
+228,3,10:55.0,55,62,DEN,NOP,0,home,Timeout,,,,,,
+229,3,10:32.0,57,62,DEN,NOP,23,home,HS,,5,make2,2,N. Jokić,
+230,3,10:18.0,57,62,DEN,NOP,14,away,JS,,10,miss2,0,B. Ingram,
+231,3,10:15.0,57,62,DEN,NOP,3,home,DefReb,,,DefReb,,G. Harris,
+232,3,10:05.0,57,62,DEN,NOP,10,home,LU,block,3,miss2,0,G. Harris,D. Favors
+233,3,10:02.0,57,62,DEN,NOP,3,home,OffReb,,,OffReb,,W. Barton,
+234,3,10:01.0,59,62,DEN,NOP,1,home,LU,,1,make2,2,W. Barton,
+235,3,9:49.0,59,65,DEN,NOP,12,away,JS,assist,24,make3,3,B. Ingram,J. Holiday
+236,3,9:24.0,61,65,DEN,NOP,25,home,LU,assist,2,make2,2,N. Jokić,W. Barton
+237,3,9:08.0,61,65,DEN,NOP,16,away,JS,,22,miss3,0,J. Redick,
+238,3,9:06.0,61,65,DEN,NOP,2,home,DefReb,,,DefReb,,N. Jokić,
+239,3,9:02.0,61,65,DEN,NOP,4,home,bad pass,steal,,turnover,,N. Jokić,J. Holiday
+240,3,8:56.0,61,65,DEN,NOP,6,away,LU,,2,miss2,0,J. Holiday,
+241,3,8:56.0,61,65,DEN,NOP,0,away,OffReb,,,OffReb,,L. Ball,
+242,3,8:56.0,61,65,DEN,NOP,0,away,LU,,2,miss2,0,L. Ball,
+243,3,8:56.0,61,65,DEN,NOP,0,home,DefReb,,,DefReb,,J. Murray,
+244,3,8:49.0,63,65,DEN,NOP,7,home,LU,,4,make2,2,J. Murray,
+245,3,8:37.0,63,68,DEN,NOP,12,away,JS,assist,28,make3,3,B. Ingram,D. Favors
+246,3,8:15.0,63,68,DEN,NOP,22,home,bad pass,steal,,turnover,,N. Jokić,J. Holiday
+247,3,8:06.0,63,68,DEN,NOP,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Harris,J. Holiday
+248,3,8:06.0,63,69,DEN,NOP,0,away,FreeThrow,,,make1,1,J. Holiday,
+249,3,8:06.0,63,70,DEN,NOP,0,away,FreeThrow,,,make1,1,J. Holiday,
+250,3,8:06.0,63,71,DEN,NOP,0,away,FreeThrow,,,make1,1,J. Holiday,
+251,3,7:51.0,63,71,DEN,NOP,15,home,LU,,1,miss2,0,J. Murray,
+252,3,7:51.0,63,71,DEN,NOP,0,away,DefReb,,,DefReb,,Team,
+253,3,7:39.0,63,71,DEN,NOP,12,away,bad pass,steal,,turnover,,D. Favors,P. Millsap
+254,3,7:34.0,63,71,DEN,NOP,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,J. Murray
+255,3,7:34.0,64,71,DEN,NOP,0,home,FreeThrow,,,make1,1,J. Murray,
+256,3,7:34.0,64,71,DEN,NOP,0,away,Sub,,,,,J. Hayes,D. Favors
+257,3,7:34.0,65,71,DEN,NOP,0,home,FreeThrow,,,make1,1,J. Murray,
+258,3,7:21.0,65,71,DEN,NOP,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Millsap,J. Hayes
+259,3,7:21.0,65,71,DEN,NOP,0,away,Sub,,,,,J. Hart,L. Ball
+260,3,7:09.0,65,71,DEN,NOP,12,away,JS,,26,miss3,0,J. Redick,
+261,3,7:08.0,65,71,DEN,NOP,1,home,DefReb,,,DefReb,,Team,
+262,3,6:56.0,68,71,DEN,NOP,12,home,JS,assist,25,make3,3,N. Jokić,G. Harris
+263,3,6:45.0,68,71,DEN,NOP,11,away,JS,,25,miss3,0,J. Holiday,
+264,3,6:44.0,68,71,DEN,NOP,1,home,DefReb,,,DefReb,,Team,
+265,3,6:35.0,68,71,DEN,NOP,9,home,JS,,24,miss3,0,N. Jokić,
+266,3,6:32.0,68,71,DEN,NOP,3,away,DefReb,,,DefReb,,J. Redick,
+267,3,6:18.0,68,71,DEN,NOP,14,away,OutOfBounds,,,turnover,,B. Ingram,
+268,3,6:18.0,68,71,DEN,NOP,0,home,Sub,,,,,J. Grant,P. Millsap
+269,3,6:06.0,68,71,DEN,NOP,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hart,W. Barton
+270,3,6:06.0,68,71,DEN,NOP,0,home,FreeThrow,,,make1,0,W. Barton,
+271,3,6:06.0,68,71,DEN,NOP,0,home,OffReb,,,OffReb,,Team,
+272,3,6:06.0,69,71,DEN,NOP,0,home,FreeThrow,,,make1,1,W. Barton,
+273,3,5:52.0,69,71,DEN,NOP,14,away,JS,,18,miss2,0,B. Ingram,
+274,3,5:48.0,69,71,DEN,NOP,4,away,OffReb,,,OffReb,,J. Hayes,
+275,3,5:48.0,69,71,DEN,NOP,0,away,bad pass,steal,,turnover,,J. Hayes,G. Harris
+276,3,5:45.0,69,71,DEN,NOP,3,home,JS,,25,miss3,0,G. Harris,
+277,3,5:42.0,69,71,DEN,NOP,3,home,OffReb,,,OffReb,,J. Murray,
+278,3,5:33.0,69,71,DEN,NOP,9,home,lost ball,steal,,turnover,,J. Murray,J. Holiday
+279,3,5:26.0,69,71,DEN,NOP,7,away,LU,,2,miss2,0,J. Holiday,
+280,3,5:26.0,69,71,DEN,NOP,0,away,OffReb,,,OffReb,,J. Holiday,
+281,3,5:26.0,69,73,DEN,NOP,0,away,LU,,2,make2,2,J. Holiday,
+282,3,5:26.0,69,73,DEN,NOP,0,home,DefGoaltending,,,DefGoaltending,,Team,
+283,3,5:07.0,69,73,DEN,NOP,19,home,JS,,16,miss2,0,J. Murray,
+284,3,5:01.0,69,73,DEN,NOP,6,home,OffReb,,,OffReb,,N. Jokić,
+285,3,5:01.0,69,73,DEN,NOP,0,home,LU,,0,miss2,0,N. Jokić,
+286,3,5:01.0,69,73,DEN,NOP,0,home,OffReb,,,OffReb,,J. Murray,
+287,3,5:00.0,72,73,DEN,NOP,1,home,JS,assist,23,make3,3,G. Harris,J. Murray
+288,3,4:44.0,72,76,DEN,NOP,16,away,JS,,25,make3,3,J. Holiday,
+289,3,4:25.0,72,76,DEN,NOP,19,home,JS,,25,miss3,0,G. Harris,
+290,3,4:21.0,72,76,DEN,NOP,4,away,DefReb,,,DefReb,,J. Hart,
+291,3,4:18.0,72,76,DEN,NOP,3,away,LU,block,2,miss2,0,J. Hart,W. Barton
+292,3,4:15.0,72,76,DEN,NOP,3,home,DefReb,,,DefReb,,J. Murray,
+293,3,4:12.0,72,76,DEN,NOP,3,home,JS,,25,miss3,0,W. Barton,
+294,3,4:08.0,72,76,DEN,NOP,4,away,DefReb,,,DefReb,,B. Ingram,
+295,3,4:03.0,72,76,DEN,NOP,5,away,Timeout,,,,,,
+296,3,4:03.0,72,76,DEN,NOP,0,away,Sub,,,,,E. Moore,J. Hayes
+297,3,4:03.0,72,76,DEN,NOP,0,away,Sub,,,,,J. Okafor,J. Redick
+298,3,4:03.0,72,76,DEN,NOP,0,home,Sub,,,,,M. Beasley,G. Harris
+299,3,3:50.0,72,76,DEN,NOP,13,away,JS,,24,miss3,0,J. Holiday,
+300,3,3:45.0,72,76,DEN,NOP,5,away,OffReb,,,OffReb,,J. Okafor,
+301,3,3:41.0,72,78,DEN,NOP,4,away,LU,assist,2,make2,2,B. Ingram,J. Holiday
+302,3,3:23.0,74,78,DEN,NOP,18,home,JS,assist,14,make2,2,N. Jokić,J. Grant
+303,3,2:57.0,74,78,DEN,NOP,26,away,3sec,,,turnover,,J. Okafor,
+304,3,2:57.0,74,78,DEN,NOP,0,away,Sub,,,,,L. Ball,J. Holiday
+305,3,2:57.0,74,78,DEN,NOP,0,home,Sub,,,,,M. Morris,N. Jokić
+306,3,2:57.0,74,78,DEN,NOP,0,home,Sub,,,,,M. Plumlee,J. Murray
+307,3,2:41.0,74,78,DEN,NOP,16,home,JS,,6,miss2,0,J. Grant,
+308,3,2:39.0,74,78,DEN,NOP,2,away,DefReb,,,DefReb,,J. Hart,
+309,3,2:35.0,74,78,DEN,NOP,4,away,JS,,22,miss3,0,B. Ingram,
+310,3,2:31.0,74,78,DEN,NOP,4,home,DefReb,,,DefReb,,M. Beasley,
+311,3,2:11.0,74,78,DEN,NOP,20,home,LU,,3,miss2,0,W. Barton,
+312,3,2:08.0,74,78,DEN,NOP,3,home,OffReb,,,OffReb,,M. Plumlee,
+313,3,2:08.0,76,78,DEN,NOP,0,home,LU,,0,make2,2,M. Plumlee,
+314,3,1:56.0,76,78,DEN,NOP,12,away,JS,,24,miss3,0,J. Hart,
+315,3,1:53.0,76,78,DEN,NOP,3,away,OffReb,,,OffReb,,L. Ball,
+316,3,1:52.0,76,81,DEN,NOP,1,away,JS,,25,make3,3,L. Ball,
+317,3,1:39.0,76,81,DEN,NOP,13,home,LU,,2,miss2,0,M. Morris,
+318,3,1:38.0,76,81,DEN,NOP,1,home,OffReb,,,OffReb,,Team,
+319,3,1:31.0,78,81,DEN,NOP,7,home,LU,,3,make2,2,M. Beasley,
+320,3,1:21.0,78,81,DEN,NOP,10,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Okafor,M. Beasley
+321,3,1:21.0,78,81,DEN,NOP,0,away,OffensiveFoul,,,turnover,,J. Okafor,
+322,3,0:59.0,78,81,DEN,NOP,22,home,LU,,4,miss2,0,M. Beasley,
+323,3,0:55.0,78,81,DEN,NOP,4,away,DefReb,,,DefReb,,J. Hart,
+324,3,0:45.0,78,81,DEN,NOP,10,away,LU,,5,miss2,0,B. Ingram,
+325,3,0:44.0,78,81,DEN,NOP,1,away,OffReb,,,OffReb,,J. Okafor,
+326,3,0:43.0,78,81,DEN,NOP,1,away,JS,,27,miss3,0,E. Moore,
+327,3,0:37.0,78,81,DEN,NOP,6,away,OffReb,,,OffReb,,Team,
+328,3,0:37.0,78,81,DEN,NOP,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Beasley,J. Hart
+329,3,0:29.0,78,84,DEN,NOP,8,away,JS,,25,make3,3,B. Ingram,
+330,3,0:08.0,80,84,DEN,NOP,21,home,LU,,3,make2,2,W. Barton,
+331,4,11:49.0,80,86,DEN,NOP,11,away,JS,,19,make2,2,L. Ball,
+332,4,11:33.0,82,86,DEN,NOP,16,home,LU,assist,2,make2,2,G. Harris,M. Morris
+333,4,11:16.0,82,86,DEN,NOP,17,away,LU,,3,miss2,0,L. Ball,
+334,4,11:11.0,82,86,DEN,NOP,5,away,OffReb,,,OffReb,,D. Favors,
+335,4,11:11.0,82,86,DEN,NOP,0,away,LU,,1,miss2,0,D. Favors,
+336,4,11:10.0,82,86,DEN,NOP,1,away,OffReb,,,OffReb,,D. Favors,
+337,4,11:10.0,82,86,DEN,NOP,0,away,LU,,1,miss2,0,D. Favors,
+338,4,11:09.0,82,86,DEN,NOP,1,away,OffReb,,,OffReb,,J. Hart,
+339,4,11:03.0,82,86,DEN,NOP,6,away,JS,,4,miss2,0,D. Favors,
+340,4,11:01.0,82,86,DEN,NOP,2,home,DefReb,,,DefReb,,M. Plumlee,
+341,4,10:50.0,82,86,DEN,NOP,11,home,HS,,4,miss2,0,M. Plumlee,
+342,4,10:48.0,82,86,DEN,NOP,2,away,DefReb,,,DefReb,,D. Favors,
+343,4,10:42.0,82,86,DEN,NOP,6,away,JS,,16,miss2,0,J. Holiday,
+344,4,10:40.0,82,86,DEN,NOP,2,home,DefReb,,,DefReb,,M. Beasley,
+345,4,10:32.0,82,86,DEN,NOP,8,home,JS,,24,miss3,0,M. Beasley,
+346,4,10:28.0,82,86,DEN,NOP,4,away,DefReb,,,DefReb,,D. Favors,
+347,4,10:18.0,82,86,DEN,NOP,10,away,LU,block,2,miss2,0,D. Favors,M. Plumlee
+348,4,10:14.0,82,86,DEN,NOP,4,home,DefReb,,,DefReb,,M. Beasley,
+349,4,10:13.0,82,86,DEN,NOP,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Holiday,G. Harris
+350,4,10:05.0,84,86,DEN,NOP,8,home,HS,assist,4,make2,2,M. Plumlee,M. Morris
+351,4,9:49.0,84,89,DEN,NOP,16,away,JS,assist,23,make3,3,E. Moore,J. Holiday
+352,4,9:25.0,87,89,DEN,NOP,24,home,JS,assist,25,make3,3,J. Grant,M. Morris
+353,4,8:59.0,87,91,DEN,NOP,26,away,LU,,2,make2,2,J. Holiday,
+354,4,8:43.0,87,91,DEN,NOP,16,home,lost ball,steal,,turnover,,M. Plumlee,J. Holiday
+355,4,8:37.0,87,91,DEN,NOP,6,away,LU,,3,miss2,0,J. Hart,
+356,4,8:35.0,87,91,DEN,NOP,2,home,DefReb,,,DefReb,,M. Plumlee,
+357,4,8:32.0,90,91,DEN,NOP,3,home,JS,assist,24,make3,3,M. Morris,M. Beasley
+358,4,8:23.0,90,91,DEN,NOP,9,away,JS,,25,miss3,0,L. Ball,
+359,4,8:20.0,90,91,DEN,NOP,3,home,DefReb,,,DefReb,,M. Morris,
+360,4,8:12.0,90,91,DEN,NOP,8,home,JS,,25,miss3,0,G. Harris,
+361,4,8:09.0,90,91,DEN,NOP,3,away,DefReb,,,DefReb,,J. Holiday,
+362,4,8:03.0,90,91,DEN,NOP,6,away,JS,,25,miss3,0,J. Holiday,
+363,4,7:59.0,90,91,DEN,NOP,4,away,OffReb,,,OffReb,,Team,
+364,4,7:49.0,90,91,DEN,NOP,10,away,JS,,13,miss2,0,J. Holiday,
+365,4,7:48.0,90,91,DEN,NOP,1,away,OffReb,,,OffReb,,D. Favors,
+366,4,7:45.0,90,94,DEN,NOP,3,away,JS,assist,23,make3,3,J. Hart,E. Moore
+367,4,7:43.0,90,94,DEN,NOP,2,home,Timeout,,,,,,
+368,4,7:30.0,90,94,DEN,NOP,13,home,JS,,23,miss3,0,M. Beasley,
+369,4,7:27.0,90,94,DEN,NOP,3,away,DefReb,,,DefReb,,L. Ball,
+370,4,7:18.0,90,94,DEN,NOP,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Grant,E. Moore
+371,4,7:18.0,90,94,DEN,NOP,0,away,Sub,,,,,B. Ingram,J. Holiday
+372,4,7:11.0,90,94,DEN,NOP,7,away,JS,,7,miss2,0,L. Ball,
+373,4,7:09.0,90,94,DEN,NOP,2,home,DefReb,,,DefReb,,Team,
+374,4,7:09.0,90,94,DEN,NOP,0,away,Sub,,,,,J. Hayes,D. Favors
+375,4,6:53.0,90,94,DEN,NOP,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hayes,J. Grant
+376,4,6:53.0,91,94,DEN,NOP,0,home,FreeThrow,,,make1,1,J. Grant,
+377,4,6:53.0,92,94,DEN,NOP,0,home,FreeThrow,,,make1,1,J. Grant,
+378,4,6:31.0,92,94,DEN,NOP,22,away,JS,,13,miss2,0,E. Moore,
+379,4,6:29.0,92,94,DEN,NOP,2,home,DefReb,,,DefReb,,M. Plumlee,
+380,4,6:25.0,92,94,DEN,NOP,4,home,JS,,23,miss3,0,M. Beasley,
+381,4,6:20.0,92,94,DEN,NOP,5,home,OffReb,,,OffReb,,G. Harris,
+382,4,6:18.0,92,94,DEN,NOP,2,home,JS,,25,miss3,0,M. Beasley,
+383,4,6:16.0,92,94,DEN,NOP,2,away,DefReb,,,DefReb,,L. Ball,
+384,4,6:11.0,92,96,DEN,NOP,5,away,DK,assist,1,make2,2,J. Hayes,L. Ball
+385,4,6:11.0,92,96,DEN,NOP,0,away,Sub,,,,,D. Favors,J. Hayes
+386,4,6:11.0,92,96,DEN,NOP,0,home,Sub,,,,,W. Barton,M. Beasley
+387,4,6:11.0,92,96,DEN,NOP,0,home,Sub,,,,,N. Jokić,M. Morris
+388,4,6:11.0,92,96,DEN,NOP,0,home,Sub,,,,,J. Murray,M. Plumlee
+389,4,5:51.0,92,96,DEN,NOP,20,home,JS,,22,miss3,0,G. Harris,
+390,4,5:48.0,92,96,DEN,NOP,3,away,DefReb,,,DefReb,,E. Moore,
+391,4,5:36.0,92,99,DEN,NOP,12,away,JS,assist,25,make3,3,J. Hart,L. Ball
+392,4,5:34.0,92,99,DEN,NOP,2,home,Timeout,,,,,,
+393,4,5:21.0,95,99,DEN,NOP,13,home,JS,assist,24,make3,3,N. Jokić,J. Murray
+394,4,5:01.0,95,99,DEN,NOP,20,away,JS,,16,miss2,0,B. Ingram,
+395,4,4:57.0,95,99,DEN,NOP,4,away,OffReb,,,OffReb,,B. Ingram,
+396,4,4:47.0,95,99,DEN,NOP,10,away,JS,,12,miss2,0,B. Ingram,
+397,4,4:45.0,95,99,DEN,NOP,2,away,OffReb,,,OffReb,,Team,
+398,4,4:45.0,95,99,DEN,NOP,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,N. Jokić,D. Favors
+399,4,4:45.0,95,99,DEN,NOP,0,away,Sub,,,,,J. Holiday,J. Hart
+400,4,4:41.0,95,99,DEN,NOP,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,D. Favors
+401,4,4:41.0,95,100,DEN,NOP,0,away,FreeThrow,,,make1,1,D. Favors,
+402,4,4:41.0,95,100,DEN,NOP,0,away,Sub,,,,,J. Hart,E. Moore
+403,4,4:41.0,95,101,DEN,NOP,0,away,FreeThrow,,,make1,1,D. Favors,
+404,4,4:27.0,95,101,DEN,NOP,14,home,HS,,2,miss2,0,N. Jokić,
+405,4,4:26.0,95,101,DEN,NOP,1,away,DefReb,,,DefReb,,L. Ball,
+406,4,4:07.0,95,104,DEN,NOP,19,away,JS,assist,25,make3,3,L. Ball,D. Favors
+407,4,3:48.0,95,104,DEN,NOP,19,home,LU,block,9,miss2,0,J. Murray,B. Ingram
+408,4,3:45.0,95,104,DEN,NOP,3,home,OffReb,,,OffReb,,N. Jokić,
+409,4,3:44.0,97,104,DEN,NOP,1,home,LU,,1,make2,2,N. Jokić,
+410,4,3:19.0,97,104,DEN,NOP,25,away,JS,,24,miss3,0,L. Ball,
+411,4,3:16.0,97,104,DEN,NOP,3,away,OffReb,,,OffReb,,J. Holiday,
+412,4,3:12.0,97,104,DEN,NOP,4,away,Timeout,,,,,,
+413,4,3:06.0,97,107,DEN,NOP,6,away,JS,assist,26,make3,3,B. Ingram,J. Holiday
+414,4,2:48.0,97,107,DEN,NOP,18,home,bad pass,steal,,turnover,,N. Jokić,B. Ingram
+415,4,2:25.0,97,107,DEN,NOP,23,away,ShotClockViolation,,,turnover,,Team,
+416,4,2:25.0,97,107,DEN,NOP,0,home,Sub,,,,,M. Beasley,J. Grant
+417,4,2:16.0,97,107,DEN,NOP,9,home,JS,,25,miss3,0,J. Murray,
+418,4,2:14.0,97,107,DEN,NOP,2,away,DefReb,,,DefReb,,J. Holiday,
+419,4,2:04.0,97,109,DEN,NOP,10,away,JS,,13,make2,2,J. Holiday,
+420,4,2:02.0,97,109,DEN,NOP,2,home,Timeout,,,,,,
+421,4,1:48.0,97,109,DEN,NOP,14,home,JS,,25,miss3,0,M. Beasley,
+422,4,1:45.0,97,109,DEN,NOP,3,away,DefReb,,,DefReb,,D. Favors,
+423,4,1:42.0,97,109,DEN,NOP,3,away,LU,block,2,miss2,0,J. Hart,M. Beasley
+424,4,1:39.0,97,109,DEN,NOP,3,home,DefReb,,,DefReb,,W. Barton,
+425,4,1:31.0,97,109,DEN,NOP,8,home,JS,,18,miss2,0,J. Murray,
+426,4,1:27.0,97,109,DEN,NOP,4,home,OffReb,,,OffReb,,W. Barton,
+427,4,1:23.0,97,109,DEN,NOP,4,home,JS,,24,miss3,0,N. Jokić,
+428,4,1:19.0,97,109,DEN,NOP,4,away,DefReb,,,DefReb,,J. Hart,
+429,4,1:02.0,97,112,DEN,NOP,17,away,JS,assist,24,make3,3,B. Ingram,L. Ball
+430,4,0:55.0,97,112,DEN,NOP,7,home,JS,,24,miss3,0,M. Beasley,
+431,4,0:55.0,97,112,DEN,NOP,0,away,DefReb,,,DefReb,,L. Ball,
+432,4,0:44.0,97,112,DEN,NOP,11,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Murray,B. Ingram
+433,4,0:44.0,97,112,DEN,NOP,0,away,Sub,,,,,F. Jackson,J. Holiday
+434,4,0:44.0,97,112,DEN,NOP,0,away,Sub,,,,,K. Williams,B. Ingram
+435,4,0:44.0,97,112,DEN,NOP,0,home,Sub,,,,,V. Čančar,W. Barton
+436,4,0:44.0,97,112,DEN,NOP,0,home,Sub,,,,,J. Hernangómez,G. Harris
+437,4,0:44.0,97,112,DEN,NOP,0,home,Sub,,,,,M. Morris,N. Jokić
+438,4,0:44.0,97,112,DEN,NOP,0,home,Sub,,,,,M. Porter,J. Murray
+439,4,0:32.0,97,112,DEN,NOP,12,away,JS,,26,miss3,0,D. Favors,
+440,4,0:28.0,97,112,DEN,NOP,4,home,DefReb,,,DefReb,,M. Porter,
+441,4,0:20.0,100,112,DEN,NOP,8,home,JS,,25,make3,3,M. Porter,

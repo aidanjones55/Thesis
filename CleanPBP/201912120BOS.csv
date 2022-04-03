@@ -1,0 +1,448 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,0,0,BOS,PHI,19,away,OutOfBoundsLB,,,turnover,,B. Simmons,
+1,1,11:26.0,0,0,BOS,PHI,15,home,JS,,6,miss2,0,J. Brown,
+2,1,11:25.0,0,0,BOS,PHI,1,away,DefReb,,,DefReb,,M. Scott,
+3,1,11:11.0,0,0,BOS,PHI,14,away,JS,,27,miss3,0,T. Harris,
+4,1,11:09.0,0,0,BOS,PHI,2,home,DefReb,,,DefReb,,J. Tatum,
+5,1,10:57.0,2,0,BOS,PHI,12,home,HS,assist,6,make2,2,D. Theis,J. Tatum
+6,1,10:41.0,2,3,BOS,PHI,16,away,JS,assist,25,make3,3,M. Scott,J. Richardson
+7,1,10:27.0,2,3,BOS,PHI,14,home,JS,,17,miss2,0,K. Walker,
+8,1,10:25.0,2,3,BOS,PHI,2,away,DefReb,,,DefReb,,J. Embiid,
+9,1,10:04.0,2,3,BOS,PHI,21,away,JS,,14,miss2,0,J. Embiid,
+10,1,10:00.0,2,3,BOS,PHI,4,home,DefReb,,,DefReb,,G. Hayward,
+11,1,9:50.0,5,3,BOS,PHI,10,home,JS,assist,26,make3,3,K. Walker,G. Hayward
+12,1,9:33.0,5,3,BOS,PHI,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Theis,J. Embiid
+13,1,9:21.0,5,5,BOS,PHI,12,away,LU,,0,make2,2,J. Embiid,
+14,1,9:08.0,7,5,BOS,PHI,13,home,JS,,9,make2,2,J. Brown,
+15,1,8:54.0,7,5,BOS,PHI,14,away,bad pass,steal,,turnover,,B. Simmons,G. Hayward
+16,1,8:50.0,9,5,BOS,PHI,4,home,LU,,2,make2,2,K. Walker,
+17,1,8:34.0,9,7,BOS,PHI,16,away,JS,assist,17,make2,2,J. Embiid,T. Harris
+18,1,8:18.0,9,7,BOS,PHI,16,home,JS,,25,miss3,0,J. Tatum,
+19,1,8:17.0,9,7,BOS,PHI,1,away,DefReb,,,DefReb,,T. Harris,
+20,1,8:01.0,9,9,BOS,PHI,16,away,LU,assist,1,make2,2,B. Simmons,J. Embiid
+21,1,7:43.0,11,9,BOS,PHI,18,home,JS,,12,make2,2,G. Hayward,
+22,1,7:19.0,11,12,BOS,PHI,24,away,JS,assist,26,make3,3,M. Scott,J. Embiid
+23,1,7:03.0,11,12,BOS,PHI,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Harris,D. Theis
+24,1,6:57.0,11,12,BOS,PHI,6,home,JS,,25,miss3,0,G. Hayward,
+25,1,6:55.0,11,12,BOS,PHI,2,away,DefReb,,,DefReb,,Team,
+26,1,6:55.0,11,12,BOS,PHI,0,home,Timeout,,,,,,
+27,1,6:55.0,11,12,BOS,PHI,0,away,Sub,,,,,J. Ennis,J. Embiid
+28,1,6:55.0,11,12,BOS,PHI,0,away,Sub,,,,,K. O'Quinn,J. Richardson
+29,1,6:55.0,11,12,BOS,PHI,0,away,Sub,,,,,M. Thybulle,M. Scott
+30,1,6:35.0,11,12,BOS,PHI,20,away,JS,,12,miss2,0,J. Ennis,
+31,1,6:33.0,11,12,BOS,PHI,2,away,OffReb,,,OffReb,,K. O'Quinn,
+32,1,6:32.0,11,12,BOS,PHI,1,away,LU,block,11,miss2,0,T. Harris,J. Tatum
+33,1,6:31.0,11,12,BOS,PHI,1,home,DefReb,,,DefReb,,Team,
+34,1,6:16.0,13,12,BOS,PHI,15,home,LU,,3,make2,2,J. Brown,
+35,1,5:56.0,13,12,BOS,PHI,20,away,LU,,6,miss2,0,B. Simmons,
+36,1,5:54.0,13,12,BOS,PHI,2,home,DefReb,,,DefReb,,G. Hayward,
+37,1,5:48.0,15,12,BOS,PHI,6,home,LU,assist,3,make2,2,J. Tatum,G. Hayward
+38,1,5:48.0,15,12,BOS,PHI,0,away,Timeout,,,,,,
+39,1,5:48.0,15,12,BOS,PHI,0,home,Sub,,,,,S. Ojeleye,G. Hayward
+40,1,5:35.0,15,12,BOS,PHI,13,away,JS,,17,miss2,0,T. Harris,
+41,1,5:34.0,15,12,BOS,PHI,1,home,DefReb,,,DefReb,,J. Brown,
+42,1,5:20.0,18,12,BOS,PHI,14,home,JS,assist,26,make3,3,K. Walker,J. Brown
+43,1,4:58.0,18,15,BOS,PHI,22,away,JS,assist,24,make3,3,T. Harris,B. Simmons
+44,1,4:46.0,18,15,BOS,PHI,12,home,JS,,27,miss3,0,K. Walker,
+45,1,4:44.0,18,15,BOS,PHI,2,away,DefReb,,,DefReb,,J. Ennis,
+46,1,4:33.0,18,15,BOS,PHI,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Tatum,T. Harris
+47,1,4:33.0,18,15,BOS,PHI,0,home,Sub,,,,,J. Green,J. Brown
+48,1,4:33.0,18,15,BOS,PHI,0,home,Sub,,,,,E. Freedom,D. Theis
+49,1,4:26.0,18,15,BOS,PHI,7,away,JS,,25,miss3,0,T. Harris,
+50,1,4:25.0,18,15,BOS,PHI,1,home,DefReb,,,DefReb,,Team,
+51,1,4:25.0,18,15,BOS,PHI,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Ennis,J. Green
+52,1,4:16.0,20,15,BOS,PHI,9,home,DK,assist,1,make2,2,E. Freedom,K. Walker
+53,1,4:00.0,20,15,BOS,PHI,16,away,JS,,25,miss3,0,J. Ennis,
+54,1,3:59.0,20,15,BOS,PHI,1,away,OffReb,,,OffReb,,Team,
+55,1,3:57.0,20,18,BOS,PHI,2,away,JS,assist,26,make3,3,K. O'Quinn,B. Simmons
+56,1,3:45.0,23,18,BOS,PHI,12,home,JS,,27,make3,3,K. Walker,
+57,1,3:45.0,23,18,BOS,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Thybulle,K. Walker
+58,1,3:45.0,23,18,BOS,PHI,0,away,Sub,,,,,M. Scott,T. Harris
+59,1,3:45.0,24,18,BOS,PHI,0,home,FreeThrow,,,make1,1,K. Walker,
+60,1,3:36.0,24,18,BOS,PHI,9,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. O'Quinn,J. Tatum
+61,1,3:36.0,24,18,BOS,PHI,0,away,OffensiveFoul,,,turnover,,K. O'Quinn,
+62,1,3:36.0,24,18,BOS,PHI,0,away,Sub,,,,,J. Embiid,K. O'Quinn
+63,1,3:26.0,24,18,BOS,PHI,10,home,JS,,25,miss3,0,S. Ojeleye,
+64,1,3:24.0,24,18,BOS,PHI,2,away,DefReb,,,DefReb,,J. Embiid,
+65,1,3:20.0,24,18,BOS,PHI,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Ennis,S. Ojeleye
+66,1,3:20.0,24,18,BOS,PHI,0,away,OffensiveFoul,,,turnover,,J. Ennis,
+67,1,3:20.0,24,18,BOS,PHI,0,away,Sub,,,,,F. Korkmaz,J. Ennis
+68,1,3:10.0,26,18,BOS,PHI,10,home,LU,,4,make2,2,J. Tatum,
+69,1,2:59.0,26,21,BOS,PHI,11,away,JS,assist,24,make3,3,M. Thybulle,B. Simmons
+70,1,2:45.0,26,21,BOS,PHI,14,home,JS,,26,miss3,0,J. Tatum,
+71,1,2:44.0,26,21,BOS,PHI,1,away,DefReb,,,DefReb,,F. Korkmaz,
+72,1,2:36.0,26,24,BOS,PHI,8,away,JS,assist,25,make3,3,J. Embiid,B. Simmons
+73,1,2:23.0,26,24,BOS,PHI,13,home,JS,,26,miss3,0,K. Walker,
+74,1,2:21.0,26,24,BOS,PHI,2,away,DefReb,,,DefReb,,F. Korkmaz,
+75,1,2:15.0,26,26,BOS,PHI,6,away,HS,,8,make2,2,B. Simmons,
+76,1,1:51.0,26,26,BOS,PHI,24,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Simmons,J. Tatum
+77,1,1:51.0,27,26,BOS,PHI,0,home,FreeThrow,,,make1,1,J. Tatum,
+78,1,1:51.0,27,26,BOS,PHI,0,away,Sub,,,,,J. Richardson,M. Thybulle
+79,1,1:51.0,27,26,BOS,PHI,0,home,Sub,,,,,J. Brown,J. Green
+80,1,1:51.0,27,26,BOS,PHI,0,home,Sub,,,,,G. Hayward,K. Walker
+81,1,1:51.0,28,26,BOS,PHI,0,home,FreeThrow,,,make1,1,J. Tatum,
+82,1,1:44.0,28,26,BOS,PHI,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brown,J. Richardson
+83,1,1:44.0,28,26,BOS,PHI,0,home,Sub,,,,,B. Wanamaker,J. Tatum
+84,1,1:33.0,28,26,BOS,PHI,11,away,HS,,4,miss2,0,B. Simmons,
+85,1,1:32.0,28,26,BOS,PHI,1,away,OffReb,,,OffReb,,Team,
+86,1,1:32.0,28,26,BOS,PHI,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Ojeleye,J. Embiid
+87,1,1:32.0,28,27,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Embiid,
+88,1,1:32.0,28,28,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Embiid,
+89,1,1:12.0,30,28,BOS,PHI,20,home,HS,,3,make2,2,E. Freedom,
+90,1,0:52.0,30,28,BOS,PHI,20,away,LU,,2,miss2,0,J. Embiid,
+91,1,0:50.0,30,28,BOS,PHI,2,home,DefReb,,,DefReb,,E. Freedom,
+92,1,0:46.0,32,28,BOS,PHI,4,home,LU,,4,make2,2,J. Brown,
+93,1,0:30.0,32,28,BOS,PHI,16,away,JS,,15,miss2,0,J. Richardson,
+94,1,0:27.0,32,28,BOS,PHI,3,home,DefReb,,,DefReb,,Team,
+95,1,0:06.0,32,28,BOS,PHI,21,home,LU,,4,miss2,0,G. Hayward,
+96,1,0:05.0,32,28,BOS,PHI,1,home,OffReb,,,OffReb,,E. Freedom,
+97,1,0:05.0,34,28,BOS,PHI,0,home,LU,,0,make2,2,E. Freedom,
+98,2,11:47.0,34,28,BOS,PHI,13,home,HS,block,6,miss2,0,E. Freedom,J. Richardson
+99,2,11:46.0,34,28,BOS,PHI,1,home,OffReb,,,OffReb,,Team,
+100,2,11:43.0,36,28,BOS,PHI,3,home,JS,assist,8,make2,2,G. Hayward,B. Wanamaker
+101,2,11:33.0,36,28,BOS,PHI,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Freedom,J. Richardson
+102,2,11:31.0,36,30,BOS,PHI,2,away,LU,assist,2,make2,2,J. Richardson,R. Neto
+103,2,11:09.0,38,30,BOS,PHI,22,home,JS,assist,7,make2,2,B. Wanamaker,S. Ojeleye
+104,2,10:46.0,38,30,BOS,PHI,23,away,JS,,9,miss2,0,J. Embiid,
+105,2,10:43.0,38,30,BOS,PHI,3,home,DefReb,,,DefReb,,S. Ojeleye,
+106,2,10:31.0,38,30,BOS,PHI,12,home,lost ball,steal,,turnover,,J. Brown,M. Thybulle
+107,2,10:21.0,38,30,BOS,PHI,10,away,JS,,26,miss3,0,J. Embiid,
+108,2,10:20.0,38,30,BOS,PHI,1,away,OffReb,,,OffReb,,M. Thybulle,
+109,2,10:16.0,38,33,BOS,PHI,4,away,JS,assist,26,make3,3,M. Scott,M. Thybulle
+110,2,9:56.0,38,33,BOS,PHI,20,home,JS,block,15,miss2,0,G. Hayward,J. Richardson
+111,2,9:55.0,38,33,BOS,PHI,1,home,OffReb,,,OffReb,,G. Hayward,
+112,2,9:52.0,38,33,BOS,PHI,3,home,JS,,25,miss3,0,E. Freedom,
+113,2,9:51.0,38,33,BOS,PHI,1,away,DefReb,,,DefReb,,J. Richardson,
+114,2,9:42.0,38,35,BOS,PHI,9,away,JS,,15,make2,2,J. Richardson,
+115,2,9:29.0,38,35,BOS,PHI,13,home,JS,,26,miss3,0,G. Hayward,
+116,2,9:29.0,38,35,BOS,PHI,0,away,DefReb,,,DefReb,,R. Neto,
+117,2,9:16.0,38,35,BOS,PHI,13,away,JS,,17,miss2,0,J. Embiid,
+118,2,9:12.0,38,35,BOS,PHI,4,home,DefReb,,,DefReb,,J. Brown,
+119,2,8:58.0,38,35,BOS,PHI,14,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Brown,M. Scott
+120,2,8:58.0,38,35,BOS,PHI,0,home,OffensiveFoul,,,turnover,,J. Brown,
+121,2,8:47.0,38,35,BOS,PHI,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Hayward,J. Richardson
+122,2,8:36.0,38,35,BOS,PHI,11,away,JS,,26,miss3,0,J. Richardson,
+123,2,8:33.0,38,35,BOS,PHI,3,home,DefReb,,,DefReb,,S. Ojeleye,
+124,2,8:27.0,40,35,BOS,PHI,6,home,JS,assist,9,make2,2,G. Hayward,J. Brown
+125,2,8:13.0,40,38,BOS,PHI,14,away,JS,assist,26,make3,3,M. Scott,J. Richardson
+126,2,7:50.0,40,38,BOS,PHI,23,home,JS,,14,miss2,0,J. Brown,
+127,2,7:49.0,40,38,BOS,PHI,1,away,DefReb,,,DefReb,,J. Embiid,
+128,2,7:28.0,40,38,BOS,PHI,21,away,JS,,27,miss3,0,R. Neto,
+129,2,7:26.0,40,38,BOS,PHI,2,home,DefReb,,,DefReb,,J. Brown,
+130,2,7:19.0,40,38,BOS,PHI,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Neto,G. Hayward
+131,2,7:19.0,40,38,BOS,PHI,0,away,Sub,,,,,J. Ennis,J. Embiid
+132,2,7:19.0,40,38,BOS,PHI,0,away,Sub,,,,,T. Harris,R. Neto
+133,2,7:19.0,40,38,BOS,PHI,0,away,Sub,,,,,K. O'Quinn,J. Richardson
+134,2,7:19.0,40,38,BOS,PHI,0,away,Sub,,,,,B. Simmons,M. Scott
+135,2,7:19.0,40,38,BOS,PHI,0,home,Sub,,,,,J. Tatum,J. Brown
+136,2,7:19.0,40,38,BOS,PHI,0,home,Sub,,,,,D. Theis,E. Freedom
+137,2,7:19.0,40,38,BOS,PHI,0,home,Sub,,,,,K. Walker,B. Wanamaker
+138,2,7:06.0,42,38,BOS,PHI,13,home,JS,assist,15,make2,2,D. Theis,G. Hayward
+139,2,6:40.0,42,38,BOS,PHI,26,away,JS,block,24,miss3,0,M. Thybulle,S. Ojeleye
+140,2,6:39.0,42,38,BOS,PHI,1,away,OffReb,,,OffReb,,Team,
+141,2,6:39.0,42,38,BOS,PHI,0,away,ShotClockViolation,,,turnover,,Team,
+142,2,6:39.0,42,38,BOS,PHI,0,home,Timeout,,,,,,
+143,2,6:39.0,42,38,BOS,PHI,0,home,Sub,,,,,B. Wanamaker,G. Hayward
+144,2,6:24.0,44,38,BOS,PHI,15,home,JS,assist,8,make2,2,D. Theis,K. Walker
+145,2,6:08.0,44,38,BOS,PHI,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Tatum,T. Harris
+146,2,6:03.0,44,38,BOS,PHI,5,away,LU,block,4,miss2,0,T. Harris,D. Theis
+147,2,6:02.0,44,38,BOS,PHI,1,away,OffReb,,,OffReb,,T. Harris,
+148,2,6:01.0,44,40,BOS,PHI,1,away,LU,,2,make2,2,T. Harris,
+149,2,5:43.0,46,40,BOS,PHI,18,home,JS,,11,make2,2,K. Walker,
+150,2,5:22.0,46,40,BOS,PHI,21,away,JS,,24,miss3,0,K. O'Quinn,
+151,2,5:20.0,46,40,BOS,PHI,2,home,DefReb,,,DefReb,,S. Ojeleye,
+152,2,5:13.0,46,40,BOS,PHI,7,home,JS,,25,miss3,0,K. Walker,
+153,2,5:10.0,46,40,BOS,PHI,3,away,DefReb,,,DefReb,,B. Simmons,
+154,2,5:08.0,46,40,BOS,PHI,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Ojeleye,B. Simmons
+155,2,5:08.0,46,40,BOS,PHI,0,away,Sub,,,,,F. Korkmaz,M. Thybulle
+156,2,4:50.0,46,42,BOS,PHI,18,away,LU,,6,make2,2,F. Korkmaz,
+157,2,4:31.0,46,42,BOS,PHI,19,home,JS,,16,miss2,0,J. Tatum,
+158,2,4:31.0,46,42,BOS,PHI,0,home,OffReb,,,OffReb,,Team,
+159,2,4:31.0,46,42,BOS,PHI,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. O'Quinn,D. Theis
+160,2,4:26.0,46,42,BOS,PHI,5,home,JS,,25,miss3,0,K. Walker,
+161,2,4:24.0,46,42,BOS,PHI,2,home,OffReb,,,OffReb,,D. Theis,
+162,2,4:22.0,49,42,BOS,PHI,2,home,JS,assist,26,make3,3,K. Walker,D. Theis
+163,2,4:22.0,49,42,BOS,PHI,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,B. Simmons,D. Theis
+164,2,4:22.0,49,42,BOS,PHI,0,away,InstantReplay,,,RulingStands,,Team,
+165,2,4:22.0,49,42,BOS,PHI,0,away,Sub,,,,,J. Embiid,K. O'Quinn
+166,2,4:22.0,49,42,BOS,PHI,0,home,Sub,,,,,J. Brown,B. Wanamaker
+167,2,4:22.0,50,42,BOS,PHI,0,home,FreeThrow,,,make1,1,D. Theis,
+168,2,4:08.0,50,44,BOS,PHI,14,away,JS,assist,18,make2,2,T. Harris,J. Embiid
+169,2,3:50.0,50,44,BOS,PHI,18,home,JS,,25,miss3,0,J. Tatum,
+170,2,3:49.0,50,44,BOS,PHI,1,home,OffReb,,,OffReb,,D. Theis,
+171,2,3:39.0,50,44,BOS,PHI,10,home,LU,,0,miss2,0,K. Walker,
+172,2,3:38.0,50,44,BOS,PHI,1,away,DefReb,,,DefReb,,B. Simmons,
+173,2,3:27.0,50,44,BOS,PHI,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Theis,J. Embiid
+174,2,3:27.0,50,44,BOS,PHI,0,away,FreeThrow,,,make1,0,J. Embiid,
+175,2,3:27.0,50,44,BOS,PHI,0,away,OffReb,,,OffReb,,Team,
+176,2,3:27.0,50,44,BOS,PHI,0,home,Sub,,,,,G. Hayward,S. Ojeleye
+177,2,3:27.0,50,44,BOS,PHI,0,home,Sub,,,,,E. Freedom,D. Theis
+178,2,3:27.0,50,45,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Embiid,
+179,2,3:11.0,53,45,BOS,PHI,16,home,JS,,26,make3,3,J. Tatum,
+180,2,2:55.0,53,47,BOS,PHI,16,away,LU,assist,1,make2,2,F. Korkmaz,B. Simmons
+181,2,2:36.0,55,47,BOS,PHI,19,home,JS,,12,make2,2,K. Walker,
+182,2,2:36.0,55,47,BOS,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Simmons,K. Walker
+183,2,2:36.0,55,47,BOS,PHI,0,away,Timeout,,,,,,
+184,2,2:36.0,55,47,BOS,PHI,0,away,Sub,,,,,R. Neto,J. Ennis
+185,2,2:36.0,55,47,BOS,PHI,0,away,Sub,,,,,M. Scott,F. Korkmaz
+186,2,2:36.0,55,47,BOS,PHI,0,away,Sub,,,,,M. Thybulle,B. Simmons
+187,2,2:36.0,55,47,BOS,PHI,0,home,FreeThrow,,,make1,0,K. Walker,
+188,2,2:36.0,55,47,BOS,PHI,0,away,DefReb,,,DefReb,,T. Harris,
+189,2,2:23.0,55,47,BOS,PHI,13,away,JS,,10,miss2,0,T. Harris,
+190,2,2:20.0,55,47,BOS,PHI,3,home,DefReb,,,DefReb,,E. Freedom,
+191,2,2:00.0,55,47,BOS,PHI,20,home,JS,,12,miss2,0,J. Tatum,
+192,2,1:59.0,55,47,BOS,PHI,1,away,DefReb,,,DefReb,,T. Harris,
+193,2,1:46.0,55,47,BOS,PHI,13,away,JS,block,20,miss2,0,J. Embiid,E. Freedom
+194,2,1:46.0,55,47,BOS,PHI,0,away,OffReb,,,OffReb,,Team,
+195,2,1:46.0,55,47,BOS,PHI,0,away,InstantReplay,,,RulingStands,,Team,
+196,2,1:34.0,55,49,BOS,PHI,12,away,LU,assist,1,make2,2,J. Embiid,T. Harris
+197,2,1:16.0,55,49,BOS,PHI,18,home,JS,block,14,miss2,0,G. Hayward,T. Harris
+198,2,1:15.0,55,49,BOS,PHI,1,away,DefReb,,,DefReb,,T. Harris,
+199,2,1:05.0,55,51,BOS,PHI,10,away,HS,assist,6,make2,2,J. Embiid,T. Harris
+200,2,0:49.0,57,51,BOS,PHI,16,home,JS,assist,11,make2,2,E. Freedom,K. Walker
+201,2,0:37.0,57,54,BOS,PHI,12,away,JS,assist,26,make3,3,M. Thybulle,T. Harris
+202,2,0:30.0,57,54,BOS,PHI,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Scott,K. Walker
+203,2,0:30.0,58,54,BOS,PHI,0,home,FreeThrow,,,make1,1,K. Walker,
+204,2,0:30.0,58,54,BOS,PHI,0,home,FreeThrow,,,make1,0,K. Walker,
+205,2,0:30.0,58,54,BOS,PHI,0,home,OffReb,,,OffReb,,Team,
+206,2,0:30.0,58,54,BOS,PHI,0,home,Sub,,,,,S. Ojeleye,J. Tatum
+207,2,0:30.0,59,54,BOS,PHI,0,home,FreeThrow,,,make1,1,K. Walker,
+208,2,0:16.0,59,54,BOS,PHI,14,away,JS,,7,miss2,0,T. Harris,
+209,2,0:15.0,59,54,BOS,PHI,1,away,OffReb,,,OffReb,,T. Harris,
+210,2,0:14.0,59,54,BOS,PHI,1,away,LU,,4,miss2,0,T. Harris,
+211,2,0:13.0,59,54,BOS,PHI,1,away,OffReb,,,OffReb,,J. Embiid,
+212,2,0:12.0,59,56,BOS,PHI,1,away,DK,,2,make2,2,J. Embiid,
+213,2,0:00.0,59,56,BOS,PHI,12,away,InstantReplay,,,RulingStands,,Team,
+214,3,11:39.0,59,56,BOS,PHI,21,home,LU,,6,miss2,0,D. Theis,
+215,3,11:38.0,59,56,BOS,PHI,1,home,OffReb,,,OffReb,,D. Theis,
+216,3,11:38.0,59,56,BOS,PHI,0,home,LU,,5,miss2,0,D. Theis,
+217,3,11:36.0,59,56,BOS,PHI,2,away,DefReb,,,DefReb,,J. Embiid,
+218,3,11:15.0,59,59,BOS,PHI,21,away,JS,,27,make3,3,J. Richardson,
+219,3,10:52.0,59,59,BOS,PHI,23,home,JS,,27,miss3,0,K. Walker,
+220,3,10:49.0,59,59,BOS,PHI,3,home,OffReb,,,OffReb,,J. Brown,
+221,3,10:46.0,62,59,BOS,PHI,3,home,JS,assist,26,make3,3,G. Hayward,K. Walker
+222,3,10:21.0,62,61,BOS,PHI,25,away,LU,,5,make2,2,J. Embiid,
+223,3,10:06.0,65,61,BOS,PHI,15,home,JS,,27,make3,3,G. Hayward,
+224,3,9:46.0,65,61,BOS,PHI,20,away,LU,block,2,miss2,0,J. Embiid,G. Hayward
+225,3,9:45.0,65,61,BOS,PHI,1,home,DefReb,,,DefReb,,G. Hayward,
+226,3,9:39.0,65,61,BOS,PHI,6,home,JS,,23,miss3,0,J. Tatum,
+227,3,9:38.0,65,61,BOS,PHI,1,away,DefReb,,,DefReb,,J. Embiid,
+228,3,9:27.0,65,63,BOS,PHI,11,away,LU,assist,4,make2,2,T. Harris,J. Embiid
+229,3,9:08.0,65,63,BOS,PHI,19,home,JS,,26,miss3,0,D. Theis,
+230,3,9:06.0,65,63,BOS,PHI,2,away,DefReb,,,DefReb,,M. Scott,
+231,3,8:58.0,65,63,BOS,PHI,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Tatum,T. Harris
+232,3,8:58.0,65,63,BOS,PHI,0,away,TechnicalFoul,,,TechnicalFoul,,J. Tatum,
+233,3,8:58.0,65,63,BOS,PHI,0,away,FreeThrow,,,make1,0,T. Harris misses technical free throw,
+234,3,8:58.0,65,63,BOS,PHI,0,away,OffReb,,,OffReb,,Team,
+235,3,8:58.0,65,64,BOS,PHI,0,away,FreeThrow,,,make1,1,T. Harris,
+236,3,8:58.0,65,65,BOS,PHI,0,away,FreeThrow,,,make1,1,T. Harris,
+237,3,8:44.0,67,65,BOS,PHI,14,home,JS,,10,make2,2,G. Hayward,
+238,3,8:24.0,67,65,BOS,PHI,20,away,JS,,25,miss3,0,M. Scott,
+239,3,8:22.0,67,65,BOS,PHI,2,away,OffReb,,,OffReb,,Team,
+240,3,8:22.0,67,65,BOS,PHI,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,G. Hayward,B. Simmons
+241,3,8:18.0,67,65,BOS,PHI,4,away,JS,,16,miss2,0,T. Harris,
+242,3,8:17.0,67,65,BOS,PHI,1,home,DefReb,,,DefReb,,Team,
+243,3,8:17.0,67,65,BOS,PHI,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Embiid,J. Tatum
+244,3,7:58.0,67,65,BOS,PHI,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Embiid,G. Hayward
+245,3,7:58.0,68,65,BOS,PHI,0,home,FreeThrow,,,make1,1,G. Hayward,
+246,3,7:58.0,68,65,BOS,PHI,0,home,FreeThrow,,,make1,0,G. Hayward,
+247,3,7:58.0,68,65,BOS,PHI,0,away,DefReb,,,DefReb,,B. Simmons,
+248,3,7:44.0,68,65,BOS,PHI,14,away,JS,block,16,miss2,0,J. Richardson,K. Walker
+249,3,7:43.0,68,65,BOS,PHI,1,home,DefReb,,,DefReb,,K. Walker,
+250,3,7:39.0,68,65,BOS,PHI,4,home,LU,block,4,miss2,0,J. Tatum,B. Simmons
+251,3,7:38.0,68,65,BOS,PHI,1,away,DefReb,,,DefReb,,B. Simmons,
+252,3,7:33.0,68,67,BOS,PHI,5,away,DK,assist,1,make2,2,J. Embiid,T. Harris
+253,3,7:15.0,68,67,BOS,PHI,18,home,JS,,14,miss2,0,K. Walker,
+254,3,7:13.0,68,67,BOS,PHI,2,away,DefReb,,,DefReb,,M. Scott,
+255,3,7:07.0,68,70,BOS,PHI,6,away,JS,assist,25,make3,3,M. Scott,T. Harris
+256,3,6:41.0,68,70,BOS,PHI,26,home,Timeout,,,,,,
+257,3,6:38.0,68,70,BOS,PHI,3,home,JS,,26,miss3,0,J. Tatum,
+258,3,6:37.0,68,70,BOS,PHI,1,away,DefReb,,,DefReb,,J. Embiid,
+259,3,6:20.0,68,70,BOS,PHI,17,away,OutOfBoundsLB,,,turnover,,J. Embiid,
+260,3,6:04.0,68,70,BOS,PHI,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Embiid,K. Walker
+261,3,6:04.0,69,70,BOS,PHI,0,home,FreeThrow,,,make1,1,K. Walker,
+262,3,6:04.0,69,70,BOS,PHI,0,away,Sub,,,,,J. Ennis,J. Embiid
+263,3,6:04.0,69,70,BOS,PHI,0,away,Sub,,,,,K. O'Quinn,J. Richardson
+264,3,6:04.0,69,70,BOS,PHI,0,away,Sub,,,,,M. Thybulle,M. Scott
+265,3,6:04.0,69,70,BOS,PHI,0,home,Sub,,,,,J. Green,J. Tatum
+266,3,6:04.0,70,70,BOS,PHI,0,home,FreeThrow,,,make1,1,K. Walker,
+267,3,5:43.0,70,70,BOS,PHI,21,away,JS,,15,miss2,0,B. Simmons,
+268,3,5:42.0,70,70,BOS,PHI,1,away,OffReb,,,OffReb,,K. O'Quinn,
+269,3,5:40.0,70,70,BOS,PHI,2,away,LU,,4,miss2,0,K. O'Quinn,
+270,3,5:39.0,70,70,BOS,PHI,1,home,DefReb,,,DefReb,,D. Theis,
+271,3,5:27.0,72,70,BOS,PHI,12,home,LU,assist,6,make2,2,D. Theis,G. Hayward
+272,3,5:09.0,72,70,BOS,PHI,18,away,JS,,27,miss3,0,K. O'Quinn,
+273,3,5:07.0,72,70,BOS,PHI,2,away,OffReb,,,OffReb,,K. O'Quinn,
+274,3,5:04.0,72,72,BOS,PHI,3,away,LU,assist,2,make2,2,T. Harris,K. O'Quinn
+275,3,4:46.0,72,72,BOS,PHI,18,home,JS,,15,miss2,0,K. Walker,
+276,3,4:45.0,72,72,BOS,PHI,1,away,DefReb,,,DefReb,,T. Harris,
+277,3,4:30.0,72,74,BOS,PHI,15,away,JS,,10,make2,2,T. Harris,
+278,3,4:16.0,75,74,BOS,PHI,14,home,JS,assist,26,make3,3,D. Theis,K. Walker
+279,3,3:57.0,75,74,BOS,PHI,19,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Walker,B. Simmons
+280,3,3:57.0,75,74,BOS,PHI,0,home,Sub,,,,,J. Tatum,J. Brown
+281,3,3:57.0,75,74,BOS,PHI,0,home,Sub,,,,,B. Wanamaker,G. Hayward
+282,3,3:50.0,75,74,BOS,PHI,7,away,JS,,11,miss2,0,T. Harris,
+283,3,3:48.0,75,74,BOS,PHI,2,home,DefReb,,,DefReb,,D. Theis,
+284,3,3:41.0,75,74,BOS,PHI,7,home,bad pass,steal,,turnover,,K. Walker,T. Harris
+285,3,3:34.0,75,74,BOS,PHI,7,away,Timeout,,,,,,
+286,3,3:34.0,75,74,BOS,PHI,0,home,Sub,,,,,E. Freedom,J. Green
+287,3,3:34.0,75,74,BOS,PHI,0,home,Sub,,,,,S. Ojeleye,D. Theis
+288,3,3:26.0,75,76,BOS,PHI,8,away,JS,assist,10,make2,2,T. Harris,K. O'Quinn
+289,3,3:10.0,78,76,BOS,PHI,16,home,JS,assist,27,make3,3,K. Walker,J. Tatum
+290,3,2:54.0,78,76,BOS,PHI,16,away,bad pass,steal,,turnover,,B. Simmons,E. Freedom
+291,3,2:51.0,80,76,BOS,PHI,3,home,LU,,2,make2,2,E. Freedom,
+292,3,2:35.0,80,76,BOS,PHI,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Wanamaker,B. Simmons
+293,3,2:35.0,80,76,BOS,PHI,0,away,Sub,,,,,J. Embiid,J. Ennis
+294,3,2:35.0,80,76,BOS,PHI,0,away,Sub,,,,,F. Korkmaz,T. Harris
+295,3,2:35.0,80,76,BOS,PHI,0,away,Sub,,,,,M. Scott,K. O'Quinn
+296,3,2:35.0,80,76,BOS,PHI,0,home,Sub,,,,,J. Brown,K. Walker
+297,3,2:30.0,80,76,BOS,PHI,5,away,HS,,11,miss2,0,B. Simmons,
+298,3,2:28.0,80,76,BOS,PHI,2,home,DefReb,,,DefReb,,S. Ojeleye,
+299,3,2:19.0,80,76,BOS,PHI,9,home,JS,,12,miss2,0,J. Tatum,
+300,3,2:16.0,80,76,BOS,PHI,3,away,DefReb,,,DefReb,,M. Scott,
+301,3,1:59.0,80,76,BOS,PHI,17,away,JS,block,9,miss2,0,J. Embiid,E. Freedom
+302,3,1:55.0,80,76,BOS,PHI,4,away,OffReb,,,OffReb,,Team,
+303,3,1:53.0,80,76,BOS,PHI,2,away,JS,,26,miss3,0,F. Korkmaz,
+304,3,1:51.0,80,76,BOS,PHI,2,home,DefReb,,,DefReb,,J. Brown,
+305,3,1:45.0,80,76,BOS,PHI,6,home,LU,,4,miss2,0,J. Brown,
+306,3,1:42.0,80,76,BOS,PHI,3,away,DefReb,,,DefReb,,J. Embiid,
+307,3,1:37.0,80,79,BOS,PHI,5,away,JS,assist,23,make3,3,F. Korkmaz,M. Thybulle
+308,3,1:24.0,80,79,BOS,PHI,13,home,JS,,15,miss2,0,J. Tatum,
+309,3,1:22.0,80,79,BOS,PHI,2,away,DefReb,,,DefReb,,B. Simmons,
+310,3,1:18.0,80,79,BOS,PHI,4,away,BadPass,,,turnover,,B. Simmons,
+311,3,1:06.0,80,79,BOS,PHI,12,home,JS,,16,miss2,0,E. Freedom,
+312,3,1:05.0,80,79,BOS,PHI,1,home,OffReb,,,OffReb,,J. Tatum,
+313,3,1:05.0,80,79,BOS,PHI,0,home,LU,,1,miss2,0,J. Tatum,
+314,3,1:04.0,80,79,BOS,PHI,1,away,DefReb,,,DefReb,,J. Embiid,
+315,3,0:57.0,80,79,BOS,PHI,7,away,BadPass,,,turnover,,B. Simmons,
+316,3,0:44.0,80,79,BOS,PHI,13,home,JS,,10,miss2,0,J. Tatum,
+317,3,0:41.0,80,79,BOS,PHI,3,away,DefReb,,,DefReb,,B. Simmons,
+318,3,0:28.0,80,79,BOS,PHI,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Freedom,J. Embiid
+319,3,0:28.0,80,80,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Embiid,
+320,3,0:28.0,80,80,BOS,PHI,0,home,Sub,,,,,K. Walker,B. Wanamaker
+321,3,0:28.0,80,81,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Embiid,
+322,3,0:14.0,80,81,BOS,PHI,14,home,JS,,26,miss3,0,J. Brown,
+323,3,0:10.0,80,81,BOS,PHI,4,away,DefReb,,,DefReb,,F. Korkmaz,
+324,3,0:01.0,80,81,BOS,PHI,9,away,lost ball,steal,,turnover,,J. Embiid,E. Freedom
+325,4,11:49.0,80,81,BOS,PHI,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Wanamaker,J. Richardson
+326,4,11:43.0,80,81,BOS,PHI,6,away,JS,,17,miss2,0,J. Embiid,
+327,4,11:40.0,80,81,BOS,PHI,3,home,DefReb,,,DefReb,,S. Ojeleye,
+328,4,11:23.0,80,81,BOS,PHI,17,home,lost ball,steal,,turnover,,G. Hayward,J. Richardson
+329,4,11:15.0,80,81,BOS,PHI,8,away,JS,,24,miss3,0,M. Scott,
+330,4,11:14.0,80,81,BOS,PHI,1,home,DefReb,,,DefReb,,E. Freedom,
+331,4,11:04.0,80,81,BOS,PHI,10,home,JS,,16,miss2,0,G. Hayward,
+332,4,11:01.0,80,81,BOS,PHI,3,away,DefReb,,,DefReb,,J. Embiid,
+333,4,10:50.0,80,81,BOS,PHI,11,away,JS,,17,miss2,0,J. Richardson,
+334,4,10:48.0,80,81,BOS,PHI,2,home,DefReb,,,DefReb,,S. Ojeleye,
+335,4,10:41.0,80,81,BOS,PHI,7,home,lost ball,steal,,turnover,,J. Brown,J. Richardson
+336,4,10:40.0,80,81,BOS,PHI,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Freedom,J. Richardson
+337,4,10:40.0,80,81,BOS,PHI,0,away,Sub,,,,,J. Ennis,M. Thybulle
+338,4,10:32.0,80,84,BOS,PHI,8,away,JS,assist,26,make3,3,J. Richardson,J. Embiid
+339,4,10:15.0,82,84,BOS,PHI,17,home,JS,assist,18,make2,2,E. Freedom,B. Wanamaker
+340,4,9:56.0,82,86,BOS,PHI,19,away,HS,,8,make2,2,J. Embiid,
+341,4,9:40.0,84,86,BOS,PHI,16,home,JS,assist,17,make2,2,E. Freedom,B. Wanamaker
+342,4,9:21.0,84,88,BOS,PHI,19,away,LU,assist,3,make2,2,J. Ennis,J. Embiid
+343,4,9:01.0,84,88,BOS,PHI,20,home,JS,,17,miss2,0,J. Brown,
+344,4,8:59.0,84,88,BOS,PHI,2,away,DefReb,,,DefReb,,Team,
+345,4,8:59.0,84,88,BOS,PHI,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Brown,J. Embiid
+346,4,8:59.0,84,88,BOS,PHI,0,home,Sub,,,,,K. Walker,B. Wanamaker
+347,4,8:46.0,84,88,BOS,PHI,13,away,LU,,1,miss2,0,J. Richardson,
+348,4,8:45.0,84,88,BOS,PHI,1,home,DefReb,,,DefReb,,E. Freedom,
+349,4,8:28.0,84,88,BOS,PHI,17,home,JS,,23,miss3,0,S. Ojeleye,
+350,4,8:27.0,84,88,BOS,PHI,1,home,OffReb,,,OffReb,,E. Freedom,
+351,4,8:25.0,86,88,BOS,PHI,2,home,JS,,8,make2,2,E. Freedom,
+352,4,8:13.0,86,88,BOS,PHI,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Neto,K. Walker
+353,4,8:13.0,86,88,BOS,PHI,0,away,OffensiveFoul,,,turnover,,R. Neto,
+354,4,7:58.0,86,88,BOS,PHI,15,home,JS,,11,miss2,0,G. Hayward,
+355,4,7:57.0,86,88,BOS,PHI,1,away,DefReb,,,DefReb,,J. Richardson,
+356,4,7:47.0,86,88,BOS,PHI,10,away,bad pass,steal,,turnover,,J. Richardson,J. Brown
+357,4,7:46.0,86,88,BOS,PHI,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Richardson,J. Brown
+358,4,7:46.0,87,88,BOS,PHI,0,home,FreeThrow,,,make1,1,J. Brown,
+359,4,7:46.0,87,88,BOS,PHI,0,away,Sub,,,,,T. Harris,J. Embiid
+360,4,7:46.0,87,88,BOS,PHI,0,away,Sub,,,,,K. O'Quinn,R. Neto
+361,4,7:46.0,87,88,BOS,PHI,0,away,Sub,,,,,B. Simmons,J. Richardson
+362,4,7:46.0,87,88,BOS,PHI,0,away,Sub,,,,,M. Thybulle,M. Scott
+363,4,7:46.0,87,88,BOS,PHI,0,home,Sub,,,,,D. Theis,E. Freedom
+364,4,7:46.0,88,88,BOS,PHI,0,home,FreeThrow,,,make1,1,J. Brown,
+365,4,7:24.0,88,90,BOS,PHI,22,away,HS,,7,make2,2,T. Harris,
+366,4,7:12.0,88,90,BOS,PHI,12,home,JS,block,25,miss3,0,K. Walker,M. Thybulle
+367,4,7:10.0,88,90,BOS,PHI,2,away,DefReb,,,DefReb,,K. O'Quinn,
+368,4,6:57.0,88,92,BOS,PHI,13,away,JS,,14,make2,2,T. Harris,
+369,4,6:54.0,88,92,BOS,PHI,3,home,Timeout,,,,,,
+370,4,6:54.0,88,92,BOS,PHI,0,home,Sub,,,,,J. Tatum,S. Ojeleye
+371,4,6:40.0,88,92,BOS,PHI,14,home,LU,block,7,miss2,0,G. Hayward,T. Harris
+372,4,6:39.0,88,92,BOS,PHI,1,home,OffReb,,,OffReb,,Team,
+373,4,6:32.0,90,92,BOS,PHI,7,home,LU,assist,2,make2,2,D. Theis,K. Walker
+374,4,6:17.0,90,94,BOS,PHI,15,away,LU,assist,1,make2,2,T. Harris,K. O'Quinn
+375,4,6:00.0,92,94,BOS,PHI,17,home,JS,assist,12,make2,2,D. Theis,J. Tatum
+376,4,5:36.0,92,94,BOS,PHI,24,away,Timeout,,,,,,
+377,4,5:36.0,92,94,BOS,PHI,0,away,Sub,,,,,J. Embiid,K. O'Quinn
+378,4,5:35.0,92,94,BOS,PHI,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Walker,B. Simmons
+379,4,5:35.0,92,94,BOS,PHI,0,away,FreeThrow,,,make1,0,B. Simmons,
+380,4,5:35.0,92,94,BOS,PHI,0,away,OffReb,,,OffReb,,Team,
+381,4,5:35.0,92,95,BOS,PHI,0,away,FreeThrow,,,make1,1,B. Simmons,
+382,4,5:17.0,92,95,BOS,PHI,18,home,JS,,12,miss2,0,J. Tatum,
+383,4,5:16.0,92,95,BOS,PHI,1,away,DefReb,,,DefReb,,J. Embiid,
+384,4,4:53.0,92,95,BOS,PHI,23,away,JS,,27,miss3,0,J. Ennis,
+385,4,4:51.0,92,95,BOS,PHI,2,away,OffReb,,,OffReb,,J. Embiid,
+386,4,4:50.0,92,97,BOS,PHI,1,away,LU,,1,make2,2,J. Embiid,
+387,4,4:22.0,92,97,BOS,PHI,28,home,JS,,25,miss3,0,K. Walker,
+388,4,4:21.0,92,97,BOS,PHI,1,away,DefReb,,,DefReb,,J. Embiid,
+389,4,4:06.0,92,100,BOS,PHI,15,away,JS,assist,25,make3,3,J. Embiid,T. Harris
+390,4,4:04.0,92,100,BOS,PHI,2,home,Timeout,,,,,,
+391,4,4:04.0,92,100,BOS,PHI,0,away,Sub,,,,,J. Richardson,J. Ennis
+392,4,4:04.0,92,100,BOS,PHI,0,home,Sub,,,,,E. Freedom,D. Theis
+393,4,3:52.0,92,100,BOS,PHI,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Harris,G. Hayward
+394,4,3:45.0,95,100,BOS,PHI,7,home,JS,assist,23,make3,3,J. Tatum,G. Hayward
+395,4,3:31.0,95,100,BOS,PHI,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Freedom,J. Embiid
+396,4,3:31.0,95,101,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Embiid,
+397,4,3:31.0,95,102,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Embiid,
+398,4,3:17.0,97,102,BOS,PHI,14,home,LU,assist,3,make2,2,G. Hayward,K. Walker
+399,4,3:14.0,97,102,BOS,PHI,3,away,Timeout,,,,,,
+400,4,2:52.0,97,104,BOS,PHI,22,away,JS,,12,make2,2,J. Embiid,
+401,4,2:33.0,97,104,BOS,PHI,19,home,JS,,16,miss2,0,J. Brown,
+402,4,2:31.0,97,104,BOS,PHI,2,away,DefReb,,,DefReb,,B. Simmons,
+403,4,2:25.0,97,106,BOS,PHI,6,away,JS,assist,12,make2,2,J. Richardson,B. Simmons
+404,4,2:14.0,97,106,BOS,PHI,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Thybulle,K. Walker
+405,4,2:14.0,97,106,BOS,PHI,0,home,InstantReplay,,,RulingStands,,Team,
+406,4,2:14.0,98,106,BOS,PHI,0,home,FreeThrow,,,make1,1,K. Walker,
+407,4,2:14.0,99,106,BOS,PHI,0,home,FreeThrow,,,make1,1,K. Walker,
+408,4,2:14.0,100,106,BOS,PHI,0,home,FreeThrow,,,make1,1,K. Walker,
+409,4,2:02.0,100,106,BOS,PHI,12,away,JS,,15,miss2,0,J. Richardson,
+410,4,2:00.0,100,106,BOS,PHI,2,home,DefReb,,,DefReb,,E. Freedom,
+411,4,1:39.0,100,106,BOS,PHI,21,home,LU,,0,miss2,0,K. Walker,
+412,4,1:38.0,100,106,BOS,PHI,1,home,OffReb,,,OffReb,,E. Freedom,
+413,4,1:38.0,102,106,BOS,PHI,0,home,LU,,1,make2,2,E. Freedom,
+414,4,1:19.0,102,106,BOS,PHI,19,away,JS,,26,miss3,0,M. Thybulle,
+415,4,1:18.0,102,106,BOS,PHI,1,home,DefReb,,,DefReb,,E. Freedom,
+416,4,1:10.0,102,106,BOS,PHI,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Simmons,J. Tatum
+417,4,1:02.0,104,106,BOS,PHI,8,home,JS,,14,make2,2,G. Hayward,
+418,4,1:01.0,104,106,BOS,PHI,1,away,Timeout,,,,,,
+419,4,0:52.0,104,106,BOS,PHI,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Freedom,J. Richardson
+420,4,0:52.0,104,107,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Richardson,
+421,4,0:52.0,104,108,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Richardson,
+422,4,0:41.0,106,108,BOS,PHI,11,home,DK,assist,1,make2,2,E. Freedom,J. Tatum
+423,4,0:34.0,106,108,BOS,PHI,7,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,G. Hayward,B. Simmons
+424,4,0:34.0,106,109,BOS,PHI,0,away,FreeThrow,,,make1,1,B. Simmons,
+425,4,0:34.0,106,110,BOS,PHI,0,away,FreeThrow,,,make1,1,B. Simmons,
+426,4,0:34.0,106,110,BOS,PHI,0,home,Timeout,,,,,,
+427,4,0:27.0,109,110,BOS,PHI,7,home,JS,assist,25,make3,3,J. Tatum,K. Walker
+428,4,0:26.0,109,110,BOS,PHI,1,away,Timeout,,,,,,
+429,4,0:26.0,109,110,BOS,PHI,0,home,Sub,,,,,D. Theis,E. Freedom
+430,4,0:25.0,109,110,BOS,PHI,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Tatum,J. Embiid
+431,4,0:25.0,109,111,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Embiid,
+432,4,0:25.0,109,112,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Embiid,
+433,4,0:25.0,109,112,BOS,PHI,0,home,BadPass,,,turnover,,J. Tatum,
+434,4,0:22.0,109,112,BOS,PHI,3,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Theis,J. Embiid
+435,4,0:22.0,109,113,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Embiid,
+436,4,0:22.0,109,113,BOS,PHI,0,away,FreeThrow,,,make1,0,J. Embiid,
+437,4,0:22.0,109,113,BOS,PHI,0,home,DefReb,,,DefReb,,J. Tatum,
+438,4,0:14.0,109,113,BOS,PHI,8,home,DK,block,3,miss2,0,D. Theis,J. Embiid
+439,4,0:12.0,109,113,BOS,PHI,2,away,DefReb,,,DefReb,,B. Simmons,
+440,4,0:10.0,109,113,BOS,PHI,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brown,J. Embiid
+441,4,0:10.0,109,114,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Embiid,
+442,4,0:10.0,109,115,BOS,PHI,0,away,FreeThrow,,,make1,1,J. Embiid,
+443,4,0:10.0,109,115,BOS,PHI,0,home,Timeout,,,,,,
+444,4,0:10.0,109,115,BOS,PHI,0,home,Sub,,,,,E. Freedom,D. Theis
+445,4,0:08.0,109,115,BOS,PHI,2,home,JS,block,26,miss3,0,K. Walker,M. Thybulle
+446,4,0:07.0,109,115,BOS,PHI,1,away,DefReb,,,DefReb,,T. Harris,

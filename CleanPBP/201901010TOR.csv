@@ -1,0 +1,479 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:36.0,2,0,TOR,UTA,24,home,HS,,2,make2,2,S. Ibaka,
+1,1,11:23.0,2,2,TOR,UTA,13,away,LU,,1,make2,2,D. Mitchell,
+2,1,11:03.0,2,2,TOR,UTA,20,home,JS,,11,miss2,0,S. Ibaka,
+3,1,11:00.0,2,2,TOR,UTA,3,away,DefReb,,,DefReb,,R. Gobert,
+4,1,10:50.0,2,4,TOR,UTA,10,away,DK,assist,0,make2,2,R. Gobert,R. Rubio
+5,1,10:34.0,4,4,TOR,UTA,16,home,HS,assist,1,make2,2,D. Green,F. VanVleet
+6,1,10:17.0,4,4,TOR,UTA,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Siakam,D. Favors
+7,1,10:17.0,4,4,TOR,UTA,0,away,FreeThrow,,,make1,0,D. Favors,
+8,1,10:17.0,4,4,TOR,UTA,0,away,OffReb,,,OffReb,,Team,
+9,1,10:17.0,4,4,TOR,UTA,0,away,FreeThrow,,,make1,0,D. Favors,
+10,1,10:14.0,4,4,TOR,UTA,3,home,DefReb,,,DefReb,,P. Siakam,
+11,1,10:05.0,6,4,TOR,UTA,9,home,DK,assist,0,make2,2,P. Siakam,F. VanVleet
+12,1,9:52.0,6,4,TOR,UTA,13,away,JS,,24,miss3,0,J. Ingles,
+13,1,9:49.0,6,4,TOR,UTA,3,home,DefReb,,,DefReb,,F. VanVleet,
+14,1,9:39.0,6,4,TOR,UTA,10,home,BadPass,,,turnover,,K. Leonard,
+15,1,9:25.0,6,4,TOR,UTA,14,away,LU,block,1,miss2,0,R. Rubio,S. Ibaka
+16,1,9:25.0,6,4,TOR,UTA,0,away,OffReb,,,OffReb,,Team,
+17,1,9:17.0,6,4,TOR,UTA,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Ibaka,R. Gobert
+18,1,9:17.0,6,4,TOR,UTA,0,away,FreeThrow,,,make1,0,R. Gobert,
+19,1,9:17.0,6,4,TOR,UTA,0,away,OffReb,,,OffReb,,Team,
+20,1,9:17.0,6,5,TOR,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+21,1,9:01.0,8,5,TOR,UTA,16,home,LU,,2,make2,2,F. VanVleet,
+22,1,8:42.0,8,5,TOR,UTA,19,away,JS,,27,miss3,0,R. Rubio,
+23,1,8:39.0,8,5,TOR,UTA,3,home,DefReb,,,DefReb,,P. Siakam,
+24,1,8:30.0,11,5,TOR,UTA,9,home,JS,assist,24,make3,3,S. Ibaka,P. Siakam
+25,1,8:11.0,11,5,TOR,UTA,19,away,JS,,21,miss2,0,R. Rubio,
+26,1,8:08.0,11,5,TOR,UTA,3,home,DefReb,,,DefReb,,P. Siakam,
+27,1,7:59.0,11,5,TOR,UTA,9,home,JS,,23,miss2,0,F. VanVleet,
+28,1,7:57.0,11,5,TOR,UTA,2,away,DefReb,,,DefReb,,R. Gobert,
+29,1,7:38.0,11,5,TOR,UTA,19,away,JS,,26,miss3,0,J. Ingles,
+30,1,7:35.0,11,5,TOR,UTA,3,home,DefReb,,,DefReb,,K. Leonard,
+31,1,7:28.0,13,5,TOR,UTA,7,home,JS,,19,make2,2,K. Leonard,
+32,1,7:27.0,13,5,TOR,UTA,1,away,Timeout,,,,,,
+33,1,7:13.0,13,5,TOR,UTA,14,away,JS,,27,miss3,0,D. Mitchell,
+34,1,7:10.0,13,5,TOR,UTA,3,home,DefReb,,,DefReb,,S. Ibaka,
+35,1,7:03.0,13,5,TOR,UTA,7,home,HS,block,4,miss2,0,P. Siakam,D. Favors
+36,1,7:01.0,13,5,TOR,UTA,2,away,DefReb,,,DefReb,,R. Rubio,
+37,1,6:51.0,13,7,TOR,UTA,10,away,LU,assist,1,make2,2,D. Favors,R. Gobert
+38,1,6:34.0,13,7,TOR,UTA,17,home,HS,,5,miss2,0,K. Leonard,
+39,1,6:32.0,13,7,TOR,UTA,2,away,DefReb,,,DefReb,,D. Favors,
+40,1,6:15.0,13,7,TOR,UTA,17,away,JS,,23,miss3,0,D. Favors,
+41,1,6:12.0,13,7,TOR,UTA,3,home,DefReb,,,DefReb,,S. Ibaka,
+42,1,6:01.0,13,7,TOR,UTA,11,home,bad pass,steal,,turnover,,F. VanVleet,R. Gobert
+43,1,5:54.0,13,9,TOR,UTA,7,away,LU,assist,0,make2,2,D. Favors,J. Ingles
+44,1,5:35.0,13,9,TOR,UTA,19,home,lost ball,steal,,turnover,,D. Green,J. Ingles
+45,1,5:35.0,13,9,TOR,UTA,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,R. Gobert
+46,1,5:35.0,13,9,TOR,UTA,0,away,Sub,,,,,J. Crowder,D. Favors
+47,1,5:35.0,13,9,TOR,UTA,0,away,Sub,,,,,R. O'Neale,J. Ingles
+48,1,5:20.0,13,9,TOR,UTA,15,away,JS,,19,miss2,0,R. Rubio,
+49,1,5:18.0,13,9,TOR,UTA,2,home,DefReb,,,DefReb,,S. Ibaka,
+50,1,5:08.0,13,9,TOR,UTA,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crowder,K. Leonard
+51,1,5:08.0,14,9,TOR,UTA,0,home,FreeThrow,,,make1,1,K. Leonard,
+52,1,5:08.0,14,9,TOR,UTA,0,home,Sub,,,,,O. Anunoby,D. Green
+53,1,5:08.0,14,9,TOR,UTA,0,home,Sub,,,,,N. Powell,P. Siakam
+54,1,5:08.0,15,9,TOR,UTA,0,home,FreeThrow,,,make1,1,K. Leonard,
+55,1,4:50.0,15,11,TOR,UTA,18,away,HS,,4,make2,2,R. Gobert,
+56,1,4:50.0,15,11,TOR,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Powell,R. Gobert
+57,1,4:50.0,15,12,TOR,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+58,1,4:39.0,17,12,TOR,UTA,11,home,JS,assist,14,make2,2,K. Leonard,O. Anunoby
+59,1,4:28.0,17,12,TOR,UTA,11,away,JS,,19,miss2,0,D. Mitchell,
+60,1,4:26.0,17,12,TOR,UTA,2,home,DefReb,,,DefReb,,N. Powell,
+61,1,4:15.0,17,12,TOR,UTA,11,home,HS,,8,miss2,0,S. Ibaka,
+62,1,4:13.0,17,12,TOR,UTA,2,away,DefReb,,,DefReb,,R. Rubio,
+63,1,4:08.0,17,14,TOR,UTA,5,away,LU,assist,1,make2,2,D. Mitchell,R. Rubio
+64,1,3:47.0,19,14,TOR,UTA,21,home,LU,,1,make2,2,N. Powell,
+65,1,3:35.0,19,14,TOR,UTA,12,away,D3SecTech,,,,,,
+66,1,3:35.0,19,15,TOR,UTA,0,away,FreeThrow,,,make1,1,R. Rubio makes technical free throw,
+67,1,3:35.0,19,15,TOR,UTA,0,away,Sub,,,,,D. Exum,R. Rubio
+68,1,3:35.0,19,15,TOR,UTA,0,home,Sub,,,,,G. Monroe,S. Ibaka
+69,1,3:26.0,19,15,TOR,UTA,9,away,LU,,2,miss2,0,D. Exum,
+70,1,3:24.0,19,15,TOR,UTA,2,home,DefReb,,,DefReb,,F. VanVleet,
+71,1,3:12.0,22,15,TOR,UTA,12,home,JS,assist,25,make3,3,N. Powell,G. Monroe
+72,1,2:50.0,22,15,TOR,UTA,22,away,JS,,21,miss2,0,D. Mitchell,
+73,1,2:47.0,22,15,TOR,UTA,3,away,OffReb,,,OffReb,,R. Gobert,
+74,1,2:43.0,22,15,TOR,UTA,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Anunoby,J. Crowder
+75,1,2:43.0,22,15,TOR,UTA,0,home,Timeout,,,,,,
+76,1,2:43.0,22,15,TOR,UTA,0,away,Sub,,,,,D. Favors,R. Gobert
+77,1,2:43.0,22,15,TOR,UTA,0,away,Sub,,,,,J. Ingles,D. Mitchell
+78,1,2:43.0,22,15,TOR,UTA,0,away,Sub,,,,,K. Korver,R. O'Neale
+79,1,2:43.0,22,15,TOR,UTA,0,home,Sub,,,,,D. Wright,F. VanVleet
+80,1,2:43.0,22,16,TOR,UTA,0,away,FreeThrow,,,make1,1,J. Crowder,
+81,1,2:43.0,22,17,TOR,UTA,0,away,FreeThrow,,,make1,1,J. Crowder,
+82,1,2:31.0,24,17,TOR,UTA,12,home,JS,,19,make2,2,K. Leonard,
+83,1,2:14.0,24,17,TOR,UTA,17,away,JS,,27,miss3,0,K. Korver,
+84,1,2:11.0,24,17,TOR,UTA,3,away,OffReb,,,OffReb,,D. Favors,
+85,1,2:07.0,24,17,TOR,UTA,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Leonard,J. Crowder
+86,1,2:07.0,24,18,TOR,UTA,0,away,FreeThrow,,,make1,1,J. Crowder,
+87,1,2:07.0,24,19,TOR,UTA,0,away,FreeThrow,,,make1,1,J. Crowder,
+88,1,2:07.0,24,20,TOR,UTA,0,away,FreeThrow,,,make1,1,J. Crowder,
+89,1,1:50.0,24,20,TOR,UTA,17,home,JS,,20,miss2,0,K. Leonard,
+90,1,1:47.0,24,20,TOR,UTA,3,away,DefReb,,,DefReb,,D. Exum,
+91,1,1:35.0,24,22,TOR,UTA,12,away,DK,assist,1,make2,2,D. Favors,J. Ingles
+92,1,1:21.0,24,22,TOR,UTA,14,home,HS,,2,miss2,0,G. Monroe,
+93,1,1:17.0,24,22,TOR,UTA,4,home,OffReb,,,OffReb,,G. Monroe,
+94,1,1:17.0,24,22,TOR,UTA,0,home,LU,block,0,miss2,0,G. Monroe,D. Favors
+95,1,1:15.0,24,22,TOR,UTA,2,away,DefReb,,,DefReb,,J. Crowder,
+96,1,1:09.0,24,22,TOR,UTA,6,away,JS,,27,miss3,0,J. Crowder,
+97,1,1:06.0,24,22,TOR,UTA,3,home,DefReb,,,DefReb,,K. Leonard,
+98,1,1:00.0,26,22,TOR,UTA,6,home,JS,,11,make2,2,K. Leonard,
+99,1,0:46.0,26,22,TOR,UTA,14,away,LU,,2,miss2,0,D. Favors,
+100,1,0:44.0,26,22,TOR,UTA,2,away,OffReb,,,OffReb,,D. Favors,
+101,1,0:44.0,26,24,TOR,UTA,0,away,LU,,1,make2,2,D. Favors,
+102,1,0:34.0,26,24,TOR,UTA,10,home,OutOfBoundsLB,,,turnover,,D. Wright,
+103,1,0:34.0,26,24,TOR,UTA,0,home,Sub,,,,,D. Green,K. Leonard
+104,1,0:20.0,26,24,TOR,UTA,14,away,JS,,11,miss2,0,D. Favors,
+105,1,0:17.0,26,24,TOR,UTA,3,home,DefReb,,,DefReb,,O. Anunoby,
+106,1,0:02.0,26,24,TOR,UTA,15,home,JS,,26,miss3,0,N. Powell,
+107,1,0:02.0,26,24,TOR,UTA,0,away,DefReb,,,DefReb,,J. Ingles,
+108,2,11:43.0,26,24,TOR,UTA,17,away,JS,,26,miss3,0,J. Ingles,
+109,2,11:40.0,26,24,TOR,UTA,3,home,DefReb,,,DefReb,,P. Siakam,
+110,2,11:28.0,28,24,TOR,UTA,12,home,HS,,0,make2,2,G. Monroe,
+111,2,11:15.0,28,24,TOR,UTA,13,away,LU,,2,miss2,0,D. Exum,
+112,2,11:13.0,28,24,TOR,UTA,2,away,OffReb,,,OffReb,,D. Favors,
+113,2,11:13.0,28,26,TOR,UTA,0,away,LU,,1,make2,2,D. Favors,
+114,2,10:55.0,28,26,TOR,UTA,18,home,HS,,1,miss2,0,P. Siakam,
+115,2,10:53.0,28,26,TOR,UTA,2,away,DefReb,,,DefReb,,J. Crowder,
+116,2,10:47.0,28,26,TOR,UTA,6,away,bad pass,steal,,turnover,,J. Crowder,O. Anunoby
+117,2,10:44.0,30,26,TOR,UTA,3,home,DK,assist,1,make2,2,P. Siakam,O. Anunoby
+118,2,10:28.0,30,26,TOR,UTA,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Monroe,D. Favors
+119,2,10:28.0,30,27,TOR,UTA,0,away,FreeThrow,,,make1,1,D. Favors,
+120,2,10:28.0,30,27,TOR,UTA,0,away,Sub,,,,,T. Sefolosha,J. Crowder
+121,2,10:28.0,30,28,TOR,UTA,0,away,FreeThrow,,,make1,1,D. Favors,
+122,2,10:15.0,30,28,TOR,UTA,13,home,LU,,3,miss2,0,N. Powell,
+123,2,10:14.0,30,28,TOR,UTA,1,away,DefReb,,,DefReb,,J. Ingles,
+124,2,10:01.0,30,31,TOR,UTA,13,away,JS,assist,26,make3,3,T. Sefolosha,D. Exum
+125,2,9:46.0,30,31,TOR,UTA,15,home,bad pass,steal,,turnover,,D. Wright,J. Ingles
+126,2,9:41.0,30,33,TOR,UTA,5,away,LU,,1,make2,2,D. Exum,
+127,2,9:26.0,30,33,TOR,UTA,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Sefolosha,P. Siakam
+128,2,9:19.0,32,33,TOR,UTA,7,home,JS,,4,make2,2,N. Powell,
+129,2,9:05.0,32,35,TOR,UTA,14,away,LU,,1,make2,2,D. Exum,
+130,2,8:47.0,34,35,TOR,UTA,18,home,LU,,1,make2,2,O. Anunoby,
+131,2,8:24.0,34,35,TOR,UTA,23,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Siakam,J. Ingles
+132,2,8:24.0,34,35,TOR,UTA,0,away,FreeThrow,,,make1,0,J. Ingles,
+133,2,8:24.0,34,35,TOR,UTA,0,away,OffReb,,,OffReb,,Team,
+134,2,8:24.0,34,36,TOR,UTA,0,away,FreeThrow,,,make1,1,J. Ingles,
+135,2,8:24.0,34,36,TOR,UTA,0,home,Sub,,,,,D. Green,O. Anunoby
+136,2,8:24.0,34,37,TOR,UTA,0,away,FreeThrow,,,make1,1,J. Ingles,
+137,2,8:12.0,34,37,TOR,UTA,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,G. Monroe
+138,2,8:12.0,35,37,TOR,UTA,0,home,FreeThrow,,,make1,1,G. Monroe,
+139,2,8:12.0,35,37,TOR,UTA,0,away,Sub,,,,,D. Mitchell,J. Ingles
+140,2,8:12.0,36,37,TOR,UTA,0,home,FreeThrow,,,make1,1,G. Monroe,
+141,2,7:50.0,36,37,TOR,UTA,22,away,JS,,10,miss2,0,D. Mitchell,
+142,2,7:46.0,36,37,TOR,UTA,4,away,OffReb,,,OffReb,,D. Favors,
+143,2,7:43.0,36,37,TOR,UTA,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,D. Favors
+144,2,7:43.0,36,37,TOR,UTA,0,away,FreeThrow,,,make1,0,D. Favors,
+145,2,7:43.0,36,37,TOR,UTA,0,away,OffReb,,,OffReb,,Team,
+146,2,7:43.0,36,38,TOR,UTA,0,away,FreeThrow,,,make1,1,D. Favors,
+147,2,7:29.0,38,38,TOR,UTA,14,home,LU,,2,make2,2,N. Powell,
+148,2,7:06.0,38,38,TOR,UTA,23,away,LU,,2,miss2,0,D. Exum,
+149,2,7:04.0,38,38,TOR,UTA,2,home,DefReb,,,DefReb,,G. Monroe,
+150,2,6:55.0,38,38,TOR,UTA,9,home,JS,,12,miss2,0,D. Green,
+151,2,6:52.0,38,38,TOR,UTA,3,away,DefReb,,,DefReb,,D. Mitchell,
+152,2,6:48.0,38,38,TOR,UTA,4,away,LU,block,1,miss2,0,D. Mitchell,N. Powell
+153,2,6:46.0,38,38,TOR,UTA,2,home,DefReb,,,DefReb,,N. Powell,
+154,2,6:42.0,40,38,TOR,UTA,4,home,LU,assist,1,make2,2,P. Siakam,G. Monroe
+155,2,6:42.0,40,38,TOR,UTA,0,away,Timeout,,,,,,
+156,2,6:42.0,40,38,TOR,UTA,0,away,Sub,,,,,R. Gobert,D. Exum
+157,2,6:42.0,40,38,TOR,UTA,0,away,Sub,,,,,R. Rubio,D. Favors
+158,2,6:42.0,40,38,TOR,UTA,0,home,Sub,,,,,S. Ibaka,G. Monroe
+159,2,6:42.0,40,38,TOR,UTA,0,home,Sub,,,,,K. Leonard,N. Powell
+160,2,6:42.0,40,38,TOR,UTA,0,home,Sub,,,,,F. VanVleet,D. Wright
+161,2,6:26.0,40,41,TOR,UTA,16,away,JS,assist,23,make3,3,D. Mitchell,R. Rubio
+162,2,6:00.0,42,41,TOR,UTA,26,home,JS,assist,17,make2,2,F. VanVleet,S. Ibaka
+163,2,5:41.0,42,41,TOR,UTA,19,away,JS,,26,miss3,0,D. Mitchell,
+164,2,5:38.0,42,41,TOR,UTA,3,away,OffReb,,,OffReb,,T. Sefolosha,
+165,2,5:24.0,42,41,TOR,UTA,14,away,JS,,24,miss3,0,K. Korver,
+166,2,5:21.0,42,41,TOR,UTA,3,home,DefReb,,,DefReb,,S. Ibaka,
+167,2,5:10.0,44,41,TOR,UTA,11,home,LU,assist,0,make2,2,P. Siakam,D. Green
+168,2,4:51.0,44,41,TOR,UTA,19,away,JS,,16,miss2,0,T. Sefolosha,
+169,2,4:48.0,44,41,TOR,UTA,3,home,DefReb,,,DefReb,,K. Leonard,
+170,2,4:43.0,44,41,TOR,UTA,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Korver,K. Leonard
+171,2,4:43.0,44,41,TOR,UTA,0,away,Sub,,,,,J. Crowder,K. Korver
+172,2,4:43.0,44,41,TOR,UTA,0,away,Sub,,,,,J. Ingles,T. Sefolosha
+173,2,4:29.0,44,41,TOR,UTA,14,home,LU,,2,miss2,0,S. Ibaka,
+174,2,4:25.0,44,41,TOR,UTA,4,away,DefReb,,,DefReb,,J. Ingles,
+175,2,4:23.0,44,41,TOR,UTA,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Leonard,J. Crowder
+176,2,4:23.0,44,41,TOR,UTA,0,home,Timeout,,,,,,
+177,2,4:12.0,44,41,TOR,UTA,11,away,JS,,13,miss2,0,R. Rubio,
+178,2,4:09.0,44,41,TOR,UTA,3,home,DefReb,,,DefReb,,S. Ibaka,
+179,2,4:01.0,44,41,TOR,UTA,8,home,JS,,25,miss3,0,S. Ibaka,
+180,2,3:57.0,44,41,TOR,UTA,4,home,OffReb,,,OffReb,,D. Green,
+181,2,3:51.0,44,41,TOR,UTA,6,home,JS,,25,miss3,0,K. Leonard,
+182,2,3:48.0,44,41,TOR,UTA,3,away,DefReb,,,DefReb,,D. Mitchell,
+183,2,3:37.0,44,44,TOR,UTA,11,away,JS,assist,26,make3,3,J. Crowder,D. Mitchell
+184,2,3:24.0,46,44,TOR,UTA,13,home,HS,,5,make2,2,P. Siakam,
+185,2,3:08.0,46,46,TOR,UTA,16,away,DK,assist,1,make2,2,R. Gobert,J. Ingles
+186,2,2:59.0,46,46,TOR,UTA,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,F. VanVleet
+187,2,2:59.0,46,46,TOR,UTA,0,home,Sub,,,,,C. Miles,D. Green
+188,2,2:59.0,46,46,TOR,UTA,0,home,Sub,,,,,N. Powell,P. Siakam
+189,2,2:42.0,46,46,TOR,UTA,17,home,JS,,18,miss2,0,N. Powell,
+190,2,2:39.0,46,46,TOR,UTA,3,away,DefReb,,,DefReb,,R. Rubio,
+191,2,2:32.0,46,46,TOR,UTA,7,away,JS,,10,miss2,0,D. Mitchell,
+192,2,2:30.0,46,46,TOR,UTA,2,home,DefReb,,,DefReb,,K. Leonard,
+193,2,2:23.0,48,46,TOR,UTA,7,home,LU,,2,make2,2,K. Leonard,
+194,2,2:05.0,48,48,TOR,UTA,18,away,JS,,14,make2,2,D. Mitchell,
+195,2,2:05.0,48,48,TOR,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Powell,D. Mitchell
+196,2,2:05.0,48,49,TOR,UTA,0,away,FreeThrow,,,make1,1,D. Mitchell,
+197,2,1:41.0,48,49,TOR,UTA,24,home,ShotClockViolation,,,turnover,,Team,
+198,2,1:28.0,48,49,TOR,UTA,13,away,LU,,3,miss2,0,R. Rubio,
+199,2,1:26.0,48,49,TOR,UTA,2,home,DefReb,,,DefReb,,C. Miles,
+200,2,1:19.0,50,49,TOR,UTA,7,home,LU,assist,0,make2,2,K. Leonard,C. Miles
+201,2,1:19.0,50,49,TOR,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crowder,K. Leonard
+202,2,1:19.0,50,49,TOR,UTA,0,away,Sub,,,,,D. Favors,R. Gobert
+203,2,1:19.0,51,49,TOR,UTA,0,home,FreeThrow,,,make1,1,K. Leonard,
+204,2,1:03.0,51,49,TOR,UTA,16,away,LU,,1,miss2,0,D. Mitchell,
+205,2,1:01.0,51,49,TOR,UTA,2,home,DefReb,,,DefReb,,C. Miles,
+206,2,0:54.0,51,49,TOR,UTA,7,home,JS,,23,miss3,0,N. Powell,
+207,2,0:52.0,51,49,TOR,UTA,2,away,DefReb,,,DefReb,,J. Crowder,
+208,2,0:44.0,51,51,TOR,UTA,8,away,LU,assist,1,make2,2,D. Favors,R. Rubio
+209,2,0:33.0,51,51,TOR,UTA,11,home,JS,,27,miss3,0,F. VanVleet,
+210,2,0:29.0,51,51,TOR,UTA,4,away,DefReb,,,DefReb,,D. Favors,
+211,2,0:11.0,51,53,TOR,UTA,18,away,JS,,14,make2,2,D. Mitchell,
+212,2,0:01.0,51,53,TOR,UTA,10,home,JS,,26,miss3,0,K. Leonard,
+213,2,0:01.0,51,53,TOR,UTA,0,home,OffReb,,,OffReb,,Team,
+214,3,11:36.0,51,53,TOR,UTA,24,away,bad pass,steal,,turnover,,R. Rubio,S. Ibaka
+215,3,11:32.0,54,53,TOR,UTA,4,home,JS,assist,25,make3,3,F. VanVleet,S. Ibaka
+216,3,11:11.0,54,53,TOR,UTA,21,away,JS,,23,miss3,0,D. Favors,
+217,3,11:09.0,54,53,TOR,UTA,2,home,DefReb,,,DefReb,,S. Ibaka,
+218,3,10:55.0,54,53,TOR,UTA,14,home,HS,,1,miss2,0,S. Ibaka,
+219,3,10:54.0,54,53,TOR,UTA,1,away,DefReb,,,DefReb,,D. Favors,
+220,3,10:46.0,54,53,TOR,UTA,8,away,JS,,25,miss3,0,J. Ingles,
+221,3,10:43.0,54,53,TOR,UTA,3,home,DefReb,,,DefReb,,S. Ibaka,
+222,3,10:29.0,57,53,TOR,UTA,14,home,JS,assist,26,make3,3,P. Siakam,S. Ibaka
+223,3,10:05.0,57,53,TOR,UTA,24,away,JS,,25,miss3,0,D. Mitchell,
+224,3,10:02.0,57,53,TOR,UTA,3,home,DefReb,,,DefReb,,K. Leonard,
+225,3,9:56.0,60,53,TOR,UTA,6,home,JS,assist,23,make3,3,P. Siakam,F. VanVleet
+226,3,9:55.0,60,53,TOR,UTA,1,away,Timeout,,,,,,
+227,3,9:40.0,60,55,TOR,UTA,15,away,LU,assist,1,make2,2,D. Favors,R. Gobert
+228,3,9:26.0,60,55,TOR,UTA,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Ingles,K. Leonard
+229,3,9:20.0,60,55,TOR,UTA,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Gobert,K. Leonard
+230,3,9:20.0,60,55,TOR,UTA,0,home,FreeThrow,,,make1,0,K. Leonard,
+231,3,9:20.0,60,55,TOR,UTA,0,home,OffReb,,,OffReb,,Team,
+232,3,9:20.0,60,55,TOR,UTA,0,home,FreeThrow,,,make1,0,K. Leonard,
+233,3,9:18.0,60,55,TOR,UTA,2,away,DefReb,,,DefReb,,R. Gobert,
+234,3,9:02.0,60,55,TOR,UTA,16,away,JS,,25,miss3,0,R. Rubio,
+235,3,9:00.0,60,55,TOR,UTA,2,home,DefReb,,,DefReb,,S. Ibaka,
+236,3,8:49.0,62,55,TOR,UTA,11,home,JS,,11,make2,2,K. Leonard,
+237,3,8:32.0,62,55,TOR,UTA,17,away,JS,block,2,miss2,0,D. Mitchell,D. Green
+238,3,8:29.0,62,55,TOR,UTA,3,home,DefReb,,,DefReb,,F. VanVleet,
+239,3,8:29.0,62,55,TOR,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rubio,K. Leonard
+240,3,8:29.0,63,55,TOR,UTA,0,home,FreeThrow,,,make1,1,K. Leonard,
+241,3,8:29.0,64,55,TOR,UTA,0,home,FreeThrow,,,make1,1,K. Leonard,
+242,3,8:16.0,64,57,TOR,UTA,13,away,LU,,2,make2,2,R. Rubio,
+243,3,8:07.0,67,57,TOR,UTA,9,home,JS,assist,23,make3,3,P. Siakam,F. VanVleet
+244,3,7:58.0,67,57,TOR,UTA,9,away,JS,,25,miss3,0,R. Rubio,
+245,3,7:56.0,67,57,TOR,UTA,2,away,OffReb,,,OffReb,,D. Favors,
+246,3,7:56.0,67,57,TOR,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,F. VanVleet,D. Favors
+247,3,7:56.0,67,58,TOR,UTA,0,away,FreeThrow,,,make1,1,D. Favors,
+248,3,7:56.0,67,59,TOR,UTA,0,away,FreeThrow,,,make1,1,D. Favors,
+249,3,7:42.0,69,59,TOR,UTA,14,home,HS,,3,make2,2,K. Leonard,
+250,3,7:27.0,69,61,TOR,UTA,15,away,JS,,18,make2,2,R. Rubio,
+251,3,7:17.0,69,61,TOR,UTA,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Ingles,K. Leonard
+252,3,7:10.0,71,61,TOR,UTA,7,home,JS,assist,17,make2,2,S. Ibaka,F. VanVleet
+253,3,6:49.0,71,61,TOR,UTA,21,away,JS,,8,miss2,0,R. Rubio,
+254,3,6:47.0,71,61,TOR,UTA,2,home,DefReb,,,DefReb,,P. Siakam,
+255,3,6:44.0,71,61,TOR,UTA,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,P. Siakam
+256,3,6:44.0,72,61,TOR,UTA,0,home,FreeThrow,,,make1,1,P. Siakam,
+257,3,6:44.0,72,61,TOR,UTA,0,away,Sub,,,,,J. Crowder,D. Favors
+258,3,6:44.0,72,61,TOR,UTA,0,away,Sub,,,,,R. O'Neale,J. Ingles
+259,3,6:44.0,73,61,TOR,UTA,0,home,FreeThrow,,,make1,1,P. Siakam,
+260,3,6:32.0,73,64,TOR,UTA,12,away,JS,assist,26,make3,3,D. Mitchell,R. Rubio
+261,3,6:15.0,73,64,TOR,UTA,17,home,LU,,2,miss2,0,P. Siakam,
+262,3,6:13.0,73,64,TOR,UTA,2,away,DefReb,,,DefReb,,J. Crowder,
+263,3,6:08.0,73,66,TOR,UTA,5,away,LU,assist,0,make2,2,R. Rubio,R. O'Neale
+264,3,5:53.0,75,66,TOR,UTA,15,home,LU,,1,make2,2,K. Leonard,
+265,3,5:53.0,75,66,TOR,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Gobert,K. Leonard
+266,3,5:53.0,76,66,TOR,UTA,0,home,FreeThrow,,,make1,1,K. Leonard,
+267,3,5:33.0,76,69,TOR,UTA,20,away,JS,assist,26,make3,3,J. Crowder,R. Rubio
+268,3,5:23.0,78,69,TOR,UTA,10,home,LU,,1,make2,2,K. Leonard,
+269,3,5:13.0,78,69,TOR,UTA,10,away,JS,,19,miss2,0,R. Rubio,
+270,3,5:11.0,78,69,TOR,UTA,2,home,DefReb,,,DefReb,,D. Green,
+271,3,5:01.0,78,69,TOR,UTA,10,home,bad pass,steal,,turnover,,K. Leonard,R. Gobert
+272,3,4:55.0,78,69,TOR,UTA,6,away,LU,,1,miss2,0,J. Crowder,
+273,3,4:50.0,78,69,TOR,UTA,5,away,OffReb,,,OffReb,,D. Mitchell,
+274,3,4:50.0,78,69,TOR,UTA,0,away,LU,,0,miss2,0,D. Mitchell,
+275,3,4:49.0,78,69,TOR,UTA,1,away,OffReb,,,OffReb,,R. Gobert,
+276,3,4:49.0,78,71,TOR,UTA,0,away,DK,,0,make2,2,R. Gobert,
+277,3,4:45.0,78,71,TOR,UTA,4,home,Timeout,,,,,,
+278,3,4:45.0,78,71,TOR,UTA,0,home,Sub,,,,,N. Powell,D. Green
+279,3,4:33.0,78,71,TOR,UTA,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Gobert,P. Siakam
+280,3,4:33.0,79,71,TOR,UTA,0,home,FreeThrow,,,make1,1,P. Siakam,
+281,3,4:33.0,80,71,TOR,UTA,0,home,FreeThrow,,,make1,1,P. Siakam,
+282,3,4:20.0,80,73,TOR,UTA,13,away,LU,assist,1,make2,2,J. Crowder,R. Rubio
+283,3,3:56.0,82,73,TOR,UTA,24,home,JS,,16,make2,2,K. Leonard,
+284,3,3:41.0,82,73,TOR,UTA,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Siakam,J. Crowder
+285,3,3:41.0,82,73,TOR,UTA,0,away,Sub,,,,,D. Exum,R. Rubio
+286,3,3:41.0,82,73,TOR,UTA,0,home,Sub,,,,,O. Anunoby,S. Ibaka
+287,3,3:41.0,82,73,TOR,UTA,0,home,Sub,,,,,G. Monroe,P. Siakam
+288,3,3:28.0,82,76,TOR,UTA,13,away,JS,assist,26,make3,3,J. Crowder,D. Exum
+289,3,3:03.0,84,76,TOR,UTA,25,home,HS,,2,make2,2,N. Powell,
+290,3,2:52.0,84,76,TOR,UTA,11,away,LU,,2,miss2,0,D. Mitchell,
+291,3,2:50.0,84,76,TOR,UTA,2,home,DefReb,,,DefReb,,F. VanVleet,
+292,3,2:48.0,84,76,TOR,UTA,2,home,lost ball,steal,,turnover,,F. VanVleet,R. O'Neale
+293,3,2:40.0,84,78,TOR,UTA,8,away,DK,assist,1,make2,2,D. Exum,D. Mitchell
+294,3,2:26.0,84,78,TOR,UTA,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. O'Neale,K. Leonard
+295,3,2:26.0,84,78,TOR,UTA,0,home,FreeThrow,,,make1,0,K. Leonard,
+296,3,2:26.0,84,78,TOR,UTA,0,home,OffReb,,,OffReb,,Team,
+297,3,2:26.0,84,78,TOR,UTA,0,away,Sub,,,,,D. Favors,R. Gobert
+298,3,2:26.0,84,78,TOR,UTA,0,away,Sub,,,,,J. Ingles,D. Mitchell
+299,3,2:26.0,84,78,TOR,UTA,0,away,Sub,,,,,K. Korver,R. O'Neale
+300,3,2:26.0,85,78,TOR,UTA,0,home,FreeThrow,,,make1,1,K. Leonard,
+301,3,2:14.0,85,78,TOR,UTA,12,away,LU,,1,miss2,0,J. Crowder,
+302,3,2:11.0,85,78,TOR,UTA,3,home,DefReb,,,DefReb,,G. Monroe,
+303,3,2:09.0,87,78,TOR,UTA,2,home,LU,,3,make2,2,K. Leonard,
+304,3,2:09.0,87,78,TOR,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Exum,K. Leonard
+305,3,2:09.0,87,78,TOR,UTA,0,home,Sub,,,,,D. Wright,F. VanVleet
+306,3,2:09.0,88,78,TOR,UTA,0,home,FreeThrow,,,make1,1,K. Leonard,
+307,3,1:49.0,88,78,TOR,UTA,20,away,JS,,6,miss2,0,D. Exum,
+308,3,1:48.0,88,78,TOR,UTA,1,away,OffReb,,,OffReb,,D. Exum,
+309,3,1:45.0,88,81,TOR,UTA,3,away,JS,assist,25,make3,3,K. Korver,D. Exum
+310,3,1:29.0,90,81,TOR,UTA,16,home,JS,,16,make2,2,K. Leonard,
+311,3,1:12.0,90,81,TOR,UTA,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Powell,K. Korver
+312,3,1:12.0,90,81,TOR,UTA,0,home,Sub,,,,,D. Green,K. Leonard
+313,3,1:09.0,90,81,TOR,UTA,3,away,JS,block,27,miss3,0,K. Korver,N. Powell
+314,3,1:07.0,90,81,TOR,UTA,2,home,DefReb,,,DefReb,,N. Powell,
+315,3,0:56.0,90,81,TOR,UTA,11,home,LU,,2,miss2,0,G. Monroe,
+316,3,0:55.0,90,81,TOR,UTA,1,home,OffReb,,,OffReb,,G. Monroe,
+317,3,0:55.0,92,81,TOR,UTA,0,home,LU,,1,make2,2,G. Monroe,
+318,3,0:32.0,92,83,TOR,UTA,23,away,JS,,10,make2,2,J. Crowder,
+319,3,0:21.0,92,83,TOR,UTA,11,home,JS,block,3,miss2,0,N. Powell,D. Exum
+320,3,0:21.0,92,83,TOR,UTA,0,away,DefReb,,,DefReb,,J. Crowder,
+321,3,0:21.0,92,83,TOR,UTA,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Powell,J. Crowder
+322,3,0:21.0,92,84,TOR,UTA,0,away,FreeThrow,,,make1,1,J. Crowder,
+323,3,0:21.0,92,85,TOR,UTA,0,away,FreeThrow,,,make1,1,J. Crowder,
+324,3,0:03.0,95,85,TOR,UTA,18,home,JS,assist,23,make3,3,N. Powell,O. Anunoby
+325,4,11:48.0,95,85,TOR,UTA,12,home,JS,,24,miss3,0,D. Green,
+326,4,11:44.0,95,85,TOR,UTA,4,away,DefReb,,,DefReb,,J. Ingles,
+327,4,11:34.0,95,85,TOR,UTA,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Wright,J. Ingles
+328,4,11:30.0,95,85,TOR,UTA,4,away,bad pass,steal,,turnover,,J. Ingles,D. Wright
+329,4,11:27.0,95,85,TOR,UTA,3,home,LU,,1,miss2,0,D. Wright,
+330,4,11:24.0,95,85,TOR,UTA,3,away,DefReb,,,DefReb,,D. Exum,
+331,4,11:21.0,95,85,TOR,UTA,3,away,JS,,26,miss3,0,J. Crowder,
+332,4,11:17.0,95,85,TOR,UTA,4,home,DefReb,,,DefReb,,G. Monroe,
+333,4,11:10.0,95,85,TOR,UTA,7,home,JS,,27,miss3,0,D. Wright,
+334,4,11:08.0,95,85,TOR,UTA,2,away,DefReb,,,DefReb,,Team,
+335,4,11:08.0,95,85,TOR,UTA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Green,D. Favors
+336,4,10:53.0,95,87,TOR,UTA,15,away,LU,,2,make2,2,D. Exum,
+337,4,10:45.0,95,87,TOR,UTA,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Ingles,N. Powell
+338,4,10:38.0,97,87,TOR,UTA,7,home,LU,,2,make2,2,D. Wright,
+339,4,10:38.0,97,87,TOR,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,D. Wright
+340,4,10:38.0,97,87,TOR,UTA,0,home,FreeThrow,,,make1,0,D. Wright,
+341,4,10:36.0,97,87,TOR,UTA,2,away,DefReb,,,DefReb,,J. Crowder,
+342,4,10:18.0,97,87,TOR,UTA,18,away,LU,,3,miss2,0,D. Exum,
+343,4,10:16.0,97,87,TOR,UTA,2,home,DefReb,,,DefReb,,G. Monroe,
+344,4,10:12.0,99,87,TOR,UTA,4,home,LU,,2,make2,2,D. Wright,
+345,4,9:52.0,99,89,TOR,UTA,20,away,LU,assist,1,make2,2,J. Crowder,J. Ingles
+346,4,9:26.0,99,89,TOR,UTA,26,home,JS,,26,miss3,0,D. Wright,
+347,4,9:25.0,99,89,TOR,UTA,1,away,DefReb,,,DefReb,,K. Korver,
+348,4,9:17.0,99,89,TOR,UTA,8,away,JS,,22,miss2,0,J. Crowder,
+349,4,9:15.0,99,89,TOR,UTA,2,home,DefReb,,,DefReb,,O. Anunoby,
+350,4,9:08.0,99,89,TOR,UTA,7,home,JS,,4,miss2,0,O. Anunoby,
+351,4,9:06.0,99,89,TOR,UTA,2,away,DefReb,,,DefReb,,J. Ingles,
+352,4,9:03.0,99,91,TOR,UTA,3,away,LU,assist,1,make2,2,J. Crowder,J. Ingles
+353,4,9:03.0,99,91,TOR,UTA,0,home,DefGoaltending,,,DefGoaltending,,Team,
+354,4,8:50.0,99,91,TOR,UTA,13,home,LU,,1,miss2,0,D. Wright,
+355,4,8:50.0,99,91,TOR,UTA,0,away,DefReb,,,DefReb,,Team,
+356,4,8:50.0,99,91,TOR,UTA,0,away,Sub,,,,,T. Sefolosha,J. Crowder
+357,4,8:37.0,99,91,TOR,UTA,13,away,LU,block,2,miss2,0,D. Exum,G. Monroe
+358,4,8:34.0,99,91,TOR,UTA,3,home,DefReb,,,DefReb,,D. Green,
+359,4,8:30.0,101,91,TOR,UTA,4,home,LU,assist,1,make2,2,D. Wright,N. Powell
+360,4,8:12.0,101,91,TOR,UTA,18,away,LU,,5,miss2,0,D. Exum,
+361,4,8:09.0,101,91,TOR,UTA,3,away,OffReb,,,OffReb,,D. Favors,
+362,4,8:07.0,101,93,TOR,UTA,2,away,HS,,1,make2,2,D. Favors,
+363,4,8:01.0,101,93,TOR,UTA,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,G. Monroe
+364,4,8:01.0,102,93,TOR,UTA,0,home,FreeThrow,,,make1,1,G. Monroe,
+365,4,8:01.0,102,93,TOR,UTA,0,away,Sub,,,,,R. Gobert,D. Exum
+366,4,8:01.0,102,93,TOR,UTA,0,away,Sub,,,,,D. Mitchell,D. Favors
+367,4,8:01.0,102,93,TOR,UTA,0,away,Sub,,,,,R. Rubio,J. Ingles
+368,4,8:01.0,102,93,TOR,UTA,0,home,Sub,,,,,P. Siakam,N. Powell
+369,4,8:01.0,102,93,TOR,UTA,0,home,FreeThrow,,,make1,0,G. Monroe,
+370,4,7:58.0,102,93,TOR,UTA,3,away,DefReb,,,DefReb,,R. Gobert,
+371,4,7:50.0,102,93,TOR,UTA,8,away,bad pass,steal,,turnover,,R. Rubio,D. Wright
+372,4,7:44.0,102,93,TOR,UTA,6,home,Timeout,,,,,,
+373,4,7:41.0,102,93,TOR,UTA,3,home,BadPass,,,turnover,,G. Monroe,
+374,4,7:27.0,102,93,TOR,UTA,14,away,JS,block,6,miss2,0,R. Gobert,G. Monroe
+375,4,7:26.0,102,93,TOR,UTA,1,home,DefReb,,,DefReb,,Team,
+376,4,7:16.0,102,93,TOR,UTA,10,home,HS,,5,miss2,0,P. Siakam,
+377,4,7:13.0,102,93,TOR,UTA,3,away,DefReb,,,DefReb,,R. Rubio,
+378,4,7:09.0,102,95,TOR,UTA,4,away,LU,,1,make2,2,R. Rubio,
+379,4,6:50.0,104,95,TOR,UTA,19,home,JS,,13,make2,2,D. Wright,
+380,4,6:38.0,104,97,TOR,UTA,12,away,JS,,7,make2,2,R. Rubio,
+381,4,6:30.0,104,97,TOR,UTA,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,D. Wright
+382,4,6:30.0,104,97,TOR,UTA,0,away,Sub,,,,,D. Exum,K. Korver
+383,4,6:30.0,104,97,TOR,UTA,0,home,Sub,,,,,S. Ibaka,O. Anunoby
+384,4,6:30.0,104,97,TOR,UTA,0,home,Sub,,,,,K. Leonard,D. Green
+385,4,6:30.0,104,97,TOR,UTA,0,home,Sub,,,,,F. VanVleet,G. Monroe
+386,4,6:15.0,104,97,TOR,UTA,15,home,JS,,3,miss2,0,P. Siakam,
+387,4,6:13.0,104,97,TOR,UTA,2,away,DefReb,,,DefReb,,R. Gobert,
+388,4,6:04.0,104,97,TOR,UTA,9,away,JS,,27,miss3,0,R. Rubio,
+389,4,6:01.0,104,97,TOR,UTA,3,home,DefReb,,,DefReb,,P. Siakam,
+390,4,5:56.0,104,97,TOR,UTA,5,home,bad pass,steal,,turnover,,P. Siakam,D. Mitchell
+391,4,5:45.0,104,97,TOR,UTA,11,away,JS,,3,miss2,0,D. Mitchell,
+392,4,5:43.0,104,97,TOR,UTA,2,home,DefReb,,,DefReb,,P. Siakam,
+393,4,5:26.0,106,97,TOR,UTA,17,home,LU,,1,make2,2,K. Leonard,
+394,4,5:06.0,106,97,TOR,UTA,20,away,JS,,24,miss3,0,T. Sefolosha,
+395,4,5:05.0,106,97,TOR,UTA,1,away,OffReb,,,OffReb,,Team,
+396,4,5:05.0,106,97,TOR,UTA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Ibaka,R. Gobert
+397,4,5:05.0,106,97,TOR,UTA,0,away,Sub,,,,,J. Crowder,T. Sefolosha
+398,4,4:53.0,106,97,TOR,UTA,12,away,JS,,21,miss2,0,J. Crowder,
+399,4,4:51.0,106,97,TOR,UTA,2,away,OffReb,,,OffReb,,R. Gobert,
+400,4,4:49.0,106,99,TOR,UTA,2,away,LU,,2,make2,2,R. Gobert,
+401,4,4:44.0,108,99,TOR,UTA,5,home,LU,assist,1,make2,2,P. Siakam,K. Leonard
+402,4,4:44.0,108,99,TOR,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Mitchell,P. Siakam
+403,4,4:44.0,108,99,TOR,UTA,0,away,Timeout,,,,,,
+404,4,4:44.0,108,99,TOR,UTA,0,away,Sub,,,,,J. Ingles,D. Exum
+405,4,4:44.0,109,99,TOR,UTA,0,home,FreeThrow,,,make1,1,P. Siakam,
+406,4,4:33.0,109,102,TOR,UTA,11,away,JS,assist,25,make3,3,J. Crowder,R. Rubio
+407,4,4:12.0,109,102,TOR,UTA,21,home,JS,,18,miss2,0,K. Leonard,
+408,4,4:11.0,109,102,TOR,UTA,1,away,DefReb,,,DefReb,,J. Ingles,
+409,4,4:06.0,109,105,TOR,UTA,5,away,JS,assist,26,make3,3,J. Crowder,D. Mitchell
+410,4,3:51.0,109,105,TOR,UTA,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Ingles,K. Leonard
+411,4,3:51.0,110,105,TOR,UTA,0,home,FreeThrow,,,make1,1,K. Leonard,
+412,4,3:51.0,110,105,TOR,UTA,0,home,Sub,,,,,D. Green,D. Wright
+413,4,3:51.0,111,105,TOR,UTA,0,home,FreeThrow,,,make1,1,K. Leonard,
+414,4,3:51.0,111,105,TOR,UTA,0,away,Timeout,,,,,,
+415,4,3:41.0,111,105,TOR,UTA,10,away,JS,,23,miss3,0,D. Mitchell,
+416,4,3:39.0,111,105,TOR,UTA,2,home,DefReb,,,DefReb,,K. Leonard,
+417,4,3:30.0,113,105,TOR,UTA,9,home,LU,,2,make2,2,K. Leonard,
+418,4,3:15.0,113,105,TOR,UTA,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,R. Gobert
+419,4,3:15.0,113,106,TOR,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+420,4,3:15.0,113,107,TOR,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+421,4,3:03.0,113,107,TOR,UTA,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Ingles,K. Leonard
+422,4,3:03.0,114,107,TOR,UTA,0,home,FreeThrow,,,make1,1,K. Leonard,
+423,4,3:03.0,115,107,TOR,UTA,0,home,FreeThrow,,,make1,1,K. Leonard,
+424,4,2:46.0,115,107,TOR,UTA,17,away,JS,,24,miss3,0,J. Ingles,
+425,4,2:40.0,115,107,TOR,UTA,6,home,DefReb,,,DefReb,,P. Siakam,
+426,4,2:30.0,115,107,TOR,UTA,10,home,JS,block,4,miss2,0,S. Ibaka,R. Rubio
+427,4,2:30.0,115,107,TOR,UTA,0,home,OffReb,,,OffReb,,Team,
+428,4,2:19.0,115,107,TOR,UTA,11,home,JS,,23,miss3,0,P. Siakam,
+429,4,2:18.0,115,107,TOR,UTA,1,home,OffReb,,,OffReb,,Team,
+430,4,2:18.0,115,107,TOR,UTA,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Rubio,S. Ibaka
+431,4,2:18.0,115,107,TOR,UTA,0,home,FreeThrow,,,make1,0,S. Ibaka,
+432,4,2:18.0,115,107,TOR,UTA,0,home,OffReb,,,OffReb,,Team,
+433,4,2:18.0,116,107,TOR,UTA,0,home,FreeThrow,,,make1,1,S. Ibaka,
+434,4,2:09.0,116,109,TOR,UTA,9,away,JS,,10,make2,2,D. Mitchell,
+435,4,1:52.0,118,109,TOR,UTA,17,home,JS,,8,make2,2,K. Leonard,
+436,4,1:46.0,118,109,TOR,UTA,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Ibaka,D. Mitchell
+437,4,1:46.0,118,110,TOR,UTA,0,away,FreeThrow,,,make1,1,D. Mitchell,
+438,4,1:46.0,118,111,TOR,UTA,0,away,FreeThrow,,,make1,1,D. Mitchell,
+439,4,1:29.0,118,111,TOR,UTA,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rubio,S. Ibaka
+440,4,1:29.0,118,111,TOR,UTA,0,home,FreeThrow,,,make1,0,S. Ibaka,
+441,4,1:29.0,118,111,TOR,UTA,0,home,OffReb,,,OffReb,,Team,
+442,4,1:29.0,118,111,TOR,UTA,0,home,FreeThrow,,,make1,0,S. Ibaka,
+443,4,1:27.0,118,111,TOR,UTA,2,away,DefReb,,,DefReb,,R. Gobert,
+444,4,1:16.0,118,113,TOR,UTA,11,away,DK,assist,0,make2,2,R. Gobert,J. Ingles
+445,4,0:57.0,118,113,TOR,UTA,19,home,JS,,23,miss3,0,D. Green,
+446,4,0:56.0,118,113,TOR,UTA,1,away,DefReb,,,DefReb,,Team,
+447,4,0:56.0,118,113,TOR,UTA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Ibaka,R. Rubio
+448,4,0:56.0,118,113,TOR,UTA,0,away,FreeThrow,,,make1,0,R. Rubio,
+449,4,0:56.0,118,113,TOR,UTA,0,away,OffReb,,,OffReb,,Team,
+450,4,0:56.0,118,114,TOR,UTA,0,away,FreeThrow,,,make1,1,R. Rubio,
+451,4,0:39.0,118,114,TOR,UTA,17,home,JS,,23,miss3,0,S. Ibaka,
+452,4,0:36.0,118,114,TOR,UTA,3,home,OffReb,,,OffReb,,D. Green,
+453,4,0:25.0,118,114,TOR,UTA,11,home,JS,,26,miss3,0,K. Leonard,
+454,4,0:23.0,118,114,TOR,UTA,2,home,OffReb,,,OffReb,,P. Siakam,
+455,4,0:23.0,118,114,TOR,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Mitchell,P. Siakam
+456,4,0:23.0,119,114,TOR,UTA,0,home,FreeThrow,,,make1,1,P. Siakam,
+457,4,0:23.0,120,114,TOR,UTA,0,home,FreeThrow,,,make1,1,P. Siakam,
+458,4,0:23.0,120,114,TOR,UTA,0,away,Timeout,,,,,,
+459,4,0:20.0,120,114,TOR,UTA,3,away,JS,,29,miss3,0,D. Mitchell,
+460,4,0:18.0,120,114,TOR,UTA,2,home,DefReb,,,DefReb,,Team,
+461,4,0:18.0,120,114,TOR,UTA,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Crowder,F. VanVleet
+462,4,0:18.0,120,114,TOR,UTA,0,home,FreeThrow,,,make1,0,F. VanVleet,
+463,4,0:18.0,120,114,TOR,UTA,0,home,OffReb,,,OffReb,,Team,
+464,4,0:18.0,121,114,TOR,UTA,0,home,FreeThrow,,,make1,1,F. VanVleet,
+465,4,0:13.0,121,116,TOR,UTA,5,away,LU,,1,make2,2,R. Rubio,
+466,4,0:08.0,121,116,TOR,UTA,5,home,Timeout,,,,,,
+467,4,0:08.0,121,116,TOR,UTA,0,away,Sub,,,,,D. Exum,J. Ingles
+468,4,0:08.0,121,116,TOR,UTA,0,away,Sub,,,,,R. O'Neale,R. Rubio
+469,4,0:07.0,121,116,TOR,UTA,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Exum,K. Leonard
+470,4,0:07.0,122,116,TOR,UTA,0,home,FreeThrow,,,make1,1,K. Leonard,
+471,4,0:07.0,122,116,TOR,UTA,0,home,FreeThrow,,,make1,0,K. Leonard,
+472,4,0:06.0,122,116,TOR,UTA,1,away,DefReb,,,DefReb,,D. Mitchell,
+473,4,0:06.0,122,116,TOR,UTA,0,away,Timeout,,,,,,
+474,4,0:06.0,122,116,TOR,UTA,0,away,Sub,,,,,J. Ingles,D. Exum
+475,4,0:06.0,122,116,TOR,UTA,0,away,Sub,,,,,K. Korver,R. O'Neale
+476,4,0:05.0,122,116,TOR,UTA,1,away,JS,,26,miss3,0,D. Mitchell,
+477,4,0:01.0,122,116,TOR,UTA,4,home,DefReb,,,DefReb,,P. Siakam,

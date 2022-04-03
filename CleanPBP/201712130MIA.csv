@@ -1,0 +1,400 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:37.0,0,0,MIA,POR,23,away,JS,,23,miss3,0,A. Aminu,
+1,1,11:34.0,0,0,MIA,POR,3,home,DefReb,,,DefReb,,J. Johnson,
+2,1,11:24.0,0,0,MIA,POR,10,home,LU,block,2,miss2,0,J. Johnson,E. Turner
+3,1,11:21.0,0,0,MIA,POR,3,home,OffReb,,,OffReb,,Team,
+4,1,11:13.0,0,0,MIA,POR,8,home,JS,,19,miss2,0,J. Richardson,
+5,1,11:09.0,0,0,MIA,POR,4,home,OffReb,,,OffReb,,K. Olynyk,
+6,1,11:09.0,0,0,MIA,POR,0,home,OutOfBoundsLB,,,turnover,,K. Olynyk,
+7,1,10:51.0,0,2,MIA,POR,18,away,LU,assist,0,make2,2,Z. Collins,E. Turner
+8,1,10:31.0,2,2,MIA,POR,20,home,LU,,0,make2,2,J. Johnson,
+9,1,10:21.0,2,2,MIA,POR,10,away,OutOfBoundsLB,,,turnover,,A. Aminu,
+10,1,10:07.0,4,2,MIA,POR,14,home,LU,assist,0,make2,2,G. Dragić,J. Johnson
+11,1,9:51.0,4,2,MIA,POR,16,away,bad pass,steal,,turnover,,Z. Collins,K. Olynyk
+12,1,9:34.0,4,2,MIA,POR,17,home,JS,,15,miss2,0,D. Waiters,
+13,1,9:30.0,4,2,MIA,POR,4,away,DefReb,,,DefReb,,A. Aminu,
+14,1,9:25.0,4,2,MIA,POR,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dragić,C. McCollum
+15,1,9:25.0,4,3,MIA,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
+16,1,9:25.0,4,4,MIA,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
+17,1,9:17.0,7,4,MIA,POR,8,home,JS,assist,23,make3,3,J. Richardson,G. Dragić
+18,1,8:59.0,7,4,MIA,POR,18,away,JS,,12,miss2,0,Z. Collins,
+19,1,8:56.0,7,4,MIA,POR,3,home,DefReb,,,DefReb,,J. Johnson,
+20,1,8:40.0,7,4,MIA,POR,16,home,JS,,7,miss2,0,G. Dragić,
+21,1,8:38.0,7,4,MIA,POR,2,away,DefReb,,,DefReb,,Z. Collins,
+22,1,8:37.0,7,4,MIA,POR,1,home,KickBallViolation,,,KickBallViolation,,J. Johnson,
+23,1,8:32.0,7,4,MIA,POR,5,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,G. Dragić,Z. Collins
+24,1,8:32.0,7,4,MIA,POR,0,away,FreeThrow,,,make1,0,Z. Collins,
+25,1,8:32.0,7,4,MIA,POR,0,away,OffReb,,,OffReb,,Team,
+26,1,8:32.0,7,4,MIA,POR,0,home,Sub,,,,,W. Ellington,G. Dragić
+27,1,8:32.0,7,5,MIA,POR,0,away,FreeThrow,,,make1,1,Z. Collins,
+28,1,8:21.0,9,5,MIA,POR,11,home,LU,,0,make2,2,J. Johnson,
+29,1,8:07.0,9,5,MIA,POR,14,home,ChargeFoul,DrawnBy,,ChargeFoul,,D. Lillard,K. Olynyk
+30,1,8:07.0,9,5,MIA,POR,0,away,OffensiveFoul,,,turnover,,D. Lillard,
+31,1,7:53.0,9,5,MIA,POR,14,home,JS,,24,miss3,0,D. Waiters,
+32,1,7:50.0,9,5,MIA,POR,3,away,DefReb,,,DefReb,,E. Turner,
+33,1,7:42.0,9,5,MIA,POR,8,away,lost ball,steal,,turnover,,E. Turner,W. Ellington
+34,1,7:36.0,12,5,MIA,POR,6,home,JS,assist,26,make3,3,J. Richardson,J. Johnson
+35,1,7:15.0,12,5,MIA,POR,21,away,JS,,24,miss3,0,D. Lillard,
+36,1,7:10.0,12,5,MIA,POR,5,home,DefReb,,,DefReb,,J. Johnson,
+37,1,7:05.0,12,5,MIA,POR,5,home,JS,,25,miss3,0,J. Richardson,
+38,1,7:04.0,12,5,MIA,POR,1,home,OffReb,,,OffReb,,K. Olynyk,
+39,1,7:04.0,12,5,MIA,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,K. Olynyk
+40,1,7:04.0,13,5,MIA,POR,0,home,FreeThrow,,,make1,1,K. Olynyk,
+41,1,7:04.0,13,5,MIA,POR,0,home,FreeThrow,,,make1,0,K. Olynyk,
+42,1,7:01.0,13,5,MIA,POR,3,away,DefReb,,,DefReb,,A. Aminu,
+43,1,6:48.0,13,8,MIA,POR,13,away,JS,,23,make3,3,C. McCollum,
+44,1,6:31.0,13,8,MIA,POR,17,home,JS,,25,miss3,0,D. Waiters,
+45,1,6:29.0,13,8,MIA,POR,2,home,OffReb,,,OffReb,,K. Olynyk,
+46,1,6:29.0,13,8,MIA,POR,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Collins,K. Olynyk
+47,1,6:29.0,13,8,MIA,POR,0,home,Timeout,,,,,,
+48,1,6:20.0,16,8,MIA,POR,9,home,JS,assist,25,make3,3,W. Ellington,D. Waiters
+49,1,6:04.0,16,10,MIA,POR,16,away,JS,assist,16,make2,2,Z. Collins,C. McCollum
+50,1,5:44.0,18,10,MIA,POR,20,home,LU,,1,make2,2,J. Richardson,
+51,1,5:30.0,18,13,MIA,POR,14,away,JS,assist,24,make3,3,C. McCollum,D. Lillard
+52,1,5:11.0,21,13,MIA,POR,19,home,JS,assist,25,make3,3,J. Richardson,J. Johnson
+53,1,4:45.0,21,15,MIA,POR,26,away,JS,,9,make2,2,E. Turner,
+54,1,4:32.0,21,15,MIA,POR,13,home,JS,,25,miss3,0,K. Olynyk,
+55,1,4:27.0,21,15,MIA,POR,5,away,DefReb,,,DefReb,,D. Lillard,
+56,1,4:23.0,21,15,MIA,POR,4,away,JS,,24,miss3,0,C. McCollum,
+57,1,4:20.0,21,15,MIA,POR,3,home,DefReb,,,DefReb,,J. Johnson,
+58,1,4:09.0,21,15,MIA,POR,11,home,LU,block,1,miss2,0,D. Waiters,Z. Collins
+59,1,4:08.0,21,15,MIA,POR,1,home,OffReb,,,OffReb,,Team,
+60,1,4:07.0,21,15,MIA,POR,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Collins,D. Waiters
+61,1,4:07.0,21,15,MIA,POR,0,home,Sub,,,,,B. Adebayo,K. Olynyk
+62,1,4:07.0,21,15,MIA,POR,0,away,Sub,,,,,E. Davis,E. Turner
+63,1,4:07.0,21,15,MIA,POR,0,away,Sub,,,,,P. Connaughton,C. McCollum
+64,1,4:07.0,21,15,MIA,POR,0,away,Sub,,,,,M. Harkless,Z. Collins
+65,1,4:00.0,21,15,MIA,POR,7,home,JS,,23,miss3,0,J. Richardson,
+66,1,3:55.0,21,15,MIA,POR,5,away,DefReb,,,DefReb,,A. Aminu,
+67,1,3:51.0,21,18,MIA,POR,4,away,JS,,26,make3,3,D. Lillard,
+68,1,3:35.0,21,18,MIA,POR,16,home,Sub,,,,,J. Winslow,J. Johnson
+69,1,3:28.0,24,18,MIA,POR,7,home,JS,assist,23,make3,3,W. Ellington,B. Adebayo
+70,1,3:11.0,24,18,MIA,POR,17,away,bad pass,steal,,turnover,,E. Davis,J. Richardson
+71,1,3:05.0,27,18,MIA,POR,6,home,JS,assist,25,make3,3,W. Ellington,J. Winslow
+72,1,3:05.0,27,18,MIA,POR,0,away,Timeout,,,,,,
+73,1,3:02.0,27,18,MIA,POR,3,away,bad pass,steal,,turnover,,P. Connaughton,J. Richardson
+74,1,2:54.0,30,18,MIA,POR,8,home,JS,assist,23,make3,3,W. Ellington,J. Winslow
+75,1,2:34.0,30,21,MIA,POR,20,away,JS,assist,24,make3,3,A. Aminu,D. Lillard
+76,1,2:09.0,30,21,MIA,POR,25,home,JS,,12,miss2,0,D. Waiters,
+77,1,2:05.0,30,21,MIA,POR,4,away,DefReb,,,DefReb,,A. Aminu,
+78,1,1:47.0,30,21,MIA,POR,18,away,JS,,18,miss2,0,A. Aminu,
+79,1,1:47.0,30,21,MIA,POR,0,home,DefReb,,,DefReb,,Team,
+80,1,1:47.0,30,21,MIA,POR,0,home,Sub,,,,,J. Johnson,D. Waiters
+81,1,1:47.0,30,21,MIA,POR,0,away,Sub,,,,,S. Napier,A. Aminu
+82,1,1:34.0,30,21,MIA,POR,13,home,bad pass,steal,,turnover,,B. Adebayo,S. Napier
+83,1,1:11.0,30,21,MIA,POR,23,away,JS,,6,miss2,0,S. Napier,
+84,1,1:08.0,30,21,MIA,POR,3,home,DefReb,,,DefReb,,J. Johnson,
+85,1,1:01.0,33,21,MIA,POR,7,home,JS,assist,28,make3,3,W. Ellington,J. Johnson
+86,1,0:46.0,33,21,MIA,POR,15,away,JS,,24,miss3,0,P. Connaughton,
+87,1,0:44.0,33,21,MIA,POR,2,away,OffReb,,,OffReb,,M. Harkless,
+88,1,0:41.0,33,21,MIA,POR,3,away,JS,,23,miss3,0,D. Lillard,
+89,1,0:38.0,33,21,MIA,POR,3,home,DefReb,,,DefReb,,W. Ellington,
+90,1,0:25.0,33,21,MIA,POR,13,home,lost ball,steal,,turnover,,W. Ellington,M. Harkless
+91,1,0:02.0,33,21,MIA,POR,23,away,JS,,25,miss3,0,S. Napier,
+92,1,0:02.0,33,21,MIA,POR,0,home,DefReb,,,DefReb,,Team,
+93,2,11:50.0,33,21,MIA,POR,10,home,DiscontinueDribbleTurnover,,,turnover,,J. Winslow,
+94,2,11:38.0,33,21,MIA,POR,12,away,JS,,3,miss2,0,E. Davis,
+95,2,11:35.0,33,21,MIA,POR,3,home,DefReb,,,DefReb,,G. Dragić,
+96,2,11:30.0,33,21,MIA,POR,5,home,LU,,2,miss2,0,J. Johnson,
+97,2,11:28.0,33,21,MIA,POR,2,away,DefReb,,,DefReb,,E. Davis,
+98,2,11:19.0,33,21,MIA,POR,9,away,JS,,26,miss3,0,C. McCollum,
+99,2,11:15.0,33,21,MIA,POR,4,home,DefReb,,,DefReb,,G. Dragić,
+100,2,11:05.0,35,21,MIA,POR,10,home,LU,assist,0,make2,2,W. Ellington,J. Johnson
+101,2,11:05.0,35,21,MIA,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Connaughton,J. Johnson
+102,2,11:05.0,35,21,MIA,POR,0,away,Sub,,,,,J. Layman,P. Connaughton
+103,2,11:05.0,36,21,MIA,POR,0,home,FreeThrow,,,make1,1,W. Ellington,
+104,2,10:42.0,36,23,MIA,POR,23,away,JS,,16,make2,2,S. Napier,
+105,2,10:26.0,38,23,MIA,POR,16,home,DK,assist,0,make2,2,B. Adebayo,J. Johnson
+106,2,10:18.0,38,23,MIA,POR,8,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,E. Davis,G. Dragić
+107,2,10:18.0,38,23,MIA,POR,0,away,OffensiveFoul,,,turnover,,E. Davis,
+108,2,9:54.0,38,23,MIA,POR,24,home,JS,,18,miss2,0,J. Johnson,
+109,2,9:52.0,38,23,MIA,POR,2,home,OffReb,,,OffReb,,Team,
+110,2,9:51.0,38,23,MIA,POR,1,home,ShotClockViolation,,,turnover,,Team,
+111,2,9:35.0,38,23,MIA,POR,16,away,JS,,19,miss2,0,M. Harkless,
+112,2,9:27.0,38,23,MIA,POR,8,home,DefReb,,,DefReb,,W. Ellington,
+113,2,9:21.0,38,23,MIA,POR,6,home,JS,,25,miss3,0,G. Dragić,
+114,2,9:15.0,38,23,MIA,POR,6,away,DefReb,,,DefReb,,E. Davis,
+115,2,9:11.0,38,23,MIA,POR,4,away,lost ball,steal,,turnover,,S. Napier,G. Dragić
+116,2,8:58.0,38,23,MIA,POR,13,home,bad pass,steal,,turnover,,J. Johnson,S. Napier
+117,2,8:46.0,38,25,MIA,POR,12,away,JS,,18,make2,2,C. McCollum,
+118,2,8:27.0,38,25,MIA,POR,19,home,lost ball,steal,,turnover,,G. Dragić,S. Napier
+119,2,8:19.0,38,27,MIA,POR,8,away,JS,assist,8,make2,2,E. Davis,M. Harkless
+120,2,8:00.0,38,27,MIA,POR,19,home,JS,,0,miss2,0,G. Dragić,
+121,2,7:59.0,38,27,MIA,POR,1,home,OffReb,,,OffReb,,B. Adebayo,
+122,2,7:59.0,40,27,MIA,POR,0,home,DK,,0,make2,2,B. Adebayo,
+123,2,7:48.0,40,27,MIA,POR,11,away,LU,,2,miss2,0,E. Davis,
+124,2,7:48.0,40,27,MIA,POR,0,home,DefReb,,,DefReb,,B. Adebayo,
+125,2,7:34.0,43,27,MIA,POR,14,home,JS,assist,25,make3,3,W. Ellington,J. Johnson
+126,2,7:11.0,43,30,MIA,POR,23,away,JS,assist,24,make3,3,S. Napier,M. Harkless
+127,2,7:03.0,43,30,MIA,POR,8,home,Timeout,,,,,,
+128,2,7:03.0,43,30,MIA,POR,0,home,Sub,,,,,K. Olynyk,J. Johnson
+129,2,7:03.0,43,30,MIA,POR,0,home,Sub,,,,,D. Waiters,J. Winslow
+130,2,7:03.0,43,30,MIA,POR,0,away,Sub,,,,,A. Aminu,M. Harkless
+131,2,7:03.0,43,30,MIA,POR,0,away,Sub,,,,,Z. Collins,E. Davis
+132,2,7:03.0,43,30,MIA,POR,0,away,Sub,,,,,N. Vonleh,J. Layman
+133,2,6:42.0,43,30,MIA,POR,21,home,JS,,26,miss3,0,W. Ellington,
+134,2,6:40.0,43,30,MIA,POR,2,away,DefReb,,,DefReb,,N. Vonleh,
+135,2,6:35.0,43,30,MIA,POR,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Waiters,C. McCollum
+136,2,6:24.0,43,32,MIA,POR,11,away,DK,,0,make2,2,C. McCollum,
+137,2,6:03.0,43,32,MIA,POR,21,home,lost ball,steal,,turnover,,K. Olynyk,C. McCollum
+138,2,5:51.0,43,35,MIA,POR,12,away,JS,assist,25,make3,3,C. McCollum,S. Napier
+139,2,5:38.0,45,35,MIA,POR,13,home,LU,,0,make2,2,G. Dragić,
+140,2,5:21.0,45,35,MIA,POR,17,away,HS,,8,miss2,0,Z. Collins,
+141,2,5:18.0,45,35,MIA,POR,3,home,DefReb,,,DefReb,,B. Adebayo,
+142,2,5:09.0,47,35,MIA,POR,9,home,LU,assist,0,make2,2,K. Olynyk,G. Dragić
+143,2,5:09.0,47,35,MIA,POR,0,away,Timeout,,,,,,
+144,2,5:09.0,47,35,MIA,POR,0,home,Sub,,,,,J. Richardson,W. Ellington
+145,2,5:09.0,47,35,MIA,POR,0,away,Sub,,,,,D. Lillard,S. Napier
+146,2,4:59.0,47,35,MIA,POR,10,away,JS,,16,miss2,0,N. Vonleh,
+147,2,4:55.0,47,35,MIA,POR,4,away,OffReb,,,OffReb,,Z. Collins,
+148,2,4:52.0,47,35,MIA,POR,3,away,HS,,6,miss2,0,Z. Collins,
+149,2,4:49.0,47,35,MIA,POR,3,home,DefReb,,,DefReb,,J. Richardson,
+150,2,4:38.0,47,35,MIA,POR,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Vonleh,B. Adebayo
+151,2,4:26.0,47,35,MIA,POR,12,home,JS,,13,miss2,0,G. Dragić,
+152,2,4:21.0,47,35,MIA,POR,5,away,DefReb,,,DefReb,,D. Lillard,
+153,2,4:20.0,47,37,MIA,POR,1,away,JS,,10,make2,2,C. McCollum,
+154,2,4:20.0,47,37,MIA,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Richardson,C. McCollum
+155,2,4:20.0,47,37,MIA,POR,0,away,Sub,,,,,E. Turner,N. Vonleh
+156,2,4:20.0,47,38,MIA,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
+157,2,4:07.0,47,38,MIA,POR,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Turner,D. Waiters
+158,2,4:07.0,48,38,MIA,POR,0,home,FreeThrow,,,make1,1,D. Waiters,
+159,2,4:07.0,49,38,MIA,POR,0,home,FreeThrow,,,make1,1,D. Waiters,
+160,2,3:47.0,49,38,MIA,POR,20,away,JS,,25,miss3,0,Z. Collins,
+161,2,3:43.0,49,38,MIA,POR,4,home,DefReb,,,DefReb,,B. Adebayo,
+162,2,3:33.0,49,38,MIA,POR,10,home,Sub,,,,,J. Johnson,B. Adebayo
+163,2,3:25.0,51,38,MIA,POR,8,home,LU,,0,make2,2,D. Waiters,
+164,2,3:08.0,51,40,MIA,POR,17,away,DK,assist,0,make2,2,Z. Collins,D. Lillard
+165,2,2:55.0,51,40,MIA,POR,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Turner,D. Waiters
+166,2,2:40.0,53,40,MIA,POR,15,home,JS,assist,14,make2,2,K. Olynyk,G. Dragić
+167,2,2:18.0,53,42,MIA,POR,22,away,JS,,9,make2,2,E. Turner,
+168,2,2:03.0,53,42,MIA,POR,15,away,ChargeFoul,DrawnBy,,ChargeFoul,,G. Dragić,Z. Collins
+169,2,2:03.0,53,42,MIA,POR,0,home,OffensiveFoul,,,turnover,,G. Dragić,
+170,2,2:03.0,53,42,MIA,POR,0,home,Sub,,,,,W. Ellington,G. Dragić
+171,2,1:47.0,53,45,MIA,POR,16,away,JS,,24,make3,3,A. Aminu,
+172,2,1:31.0,55,45,MIA,POR,16,home,LU,,1,make2,2,D. Waiters,
+173,2,1:16.0,55,48,MIA,POR,15,away,JS,assist,29,make3,3,A. Aminu,D. Lillard
+174,2,1:00.0,58,48,MIA,POR,16,home,JS,assist,22,make3,3,D. Waiters,K. Olynyk
+175,2,0:51.0,58,48,MIA,POR,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Waiters,D. Lillard
+176,2,0:51.0,58,49,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+177,2,0:51.0,58,49,MIA,POR,0,away,Sub,,,,,E. Davis,Z. Collins
+178,2,0:51.0,58,50,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+179,2,0:43.0,58,50,MIA,POR,8,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Olynyk,E. Turner
+180,2,0:43.0,58,50,MIA,POR,0,home,OffensiveFoul,,,turnover,,K. Olynyk,
+181,2,0:43.0,58,50,MIA,POR,0,home,Sub,,,,,B. Adebayo,D. Waiters
+182,2,0:43.0,58,50,MIA,POR,0,away,Sub,,,,,Z. Collins,E. Davis
+183,2,0:18.0,58,50,MIA,POR,25,away,JS,,24,miss3,0,Z. Collins,
+184,2,0:15.0,58,50,MIA,POR,3,home,DefReb,,,DefReb,,B. Adebayo,
+185,2,0:03.0,60,50,MIA,POR,12,home,LU,,1,make2,2,J. Johnson,
+186,2,0:00.0,60,50,MIA,POR,3,away,JS,,25,miss3,0,C. McCollum,
+187,2,0:00.0,60,50,MIA,POR,0,away,OffReb,,,OffReb,,Team,
+188,3,11:44.0,60,50,MIA,POR,16,home,JS,,25,miss3,0,J. Richardson,
+189,3,11:40.0,60,50,MIA,POR,4,away,DefReb,,,DefReb,,A. Aminu,
+190,3,11:25.0,60,50,MIA,POR,15,away,JS,,10,miss2,0,C. McCollum,
+191,3,11:23.0,60,50,MIA,POR,2,home,DefReb,,,DefReb,,K. Olynyk,
+192,3,11:07.0,62,50,MIA,POR,16,home,LU,,1,make2,2,G. Dragić,
+193,3,10:42.0,62,52,MIA,POR,25,away,LU,assist,1,make2,2,Z. Collins,D. Lillard
+194,3,10:29.0,62,52,MIA,POR,13,home,LU,,1,miss2,0,G. Dragić,
+195,3,10:27.0,62,52,MIA,POR,2,away,DefReb,,,DefReb,,A. Aminu,
+196,3,10:22.0,62,52,MIA,POR,5,away,BadPass,,,turnover,,C. McCollum,
+197,3,10:10.0,62,52,MIA,POR,12,home,OutOfBounds,,,turnover,,G. Dragić,
+198,3,9:58.0,62,52,MIA,POR,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,C. McCollum
+199,3,9:58.0,62,53,MIA,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
+200,3,9:58.0,62,54,MIA,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
+201,3,9:32.0,64,54,MIA,POR,26,home,HS,,6,make2,2,J. Johnson,
+202,3,9:15.0,64,54,MIA,POR,17,away,JS,,24,miss3,0,D. Lillard,
+203,3,9:13.0,64,54,MIA,POR,2,home,DefReb,,,DefReb,,D. Waiters,
+204,3,9:03.0,67,54,MIA,POR,10,home,JS,assist,24,make3,3,K. Olynyk,D. Waiters
+205,3,8:46.0,67,54,MIA,POR,17,away,JS,,25,miss3,0,A. Aminu,
+206,3,8:43.0,67,54,MIA,POR,3,home,DefReb,,,DefReb,,G. Dragić,
+207,3,8:30.0,70,54,MIA,POR,13,home,JS,assist,22,make3,3,D. Waiters,J. Johnson
+208,3,8:10.0,70,56,MIA,POR,20,away,JS,,18,make2,2,C. McCollum,
+209,3,7:57.0,70,56,MIA,POR,13,home,JS,,24,miss3,0,K. Olynyk,
+210,3,7:55.0,70,56,MIA,POR,2,away,DefReb,,,DefReb,,A. Aminu,
+211,3,7:48.0,70,56,MIA,POR,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,D. Lillard
+212,3,7:48.0,70,57,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+213,3,7:48.0,70,58,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+214,3,7:39.0,70,58,MIA,POR,9,home,JS,,22,miss3,0,J. Richardson,
+215,3,7:37.0,70,58,MIA,POR,2,away,DefReb,,,DefReb,,E. Turner,
+216,3,7:26.0,70,58,MIA,POR,11,away,JS,,7,miss2,0,E. Turner,
+217,3,7:23.0,70,58,MIA,POR,3,home,DefReb,,,DefReb,,J. Johnson,
+218,3,7:15.0,70,58,MIA,POR,8,home,JS,,12,miss2,0,D. Waiters,
+219,3,7:13.0,70,58,MIA,POR,2,home,OffReb,,,OffReb,,J. Johnson,
+220,3,7:11.0,70,58,MIA,POR,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. McCollum,K. Olynyk
+221,3,7:00.0,70,58,MIA,POR,11,home,JS,,9,miss2,0,D. Waiters,
+222,3,6:58.0,70,58,MIA,POR,2,away,DefReb,,,DefReb,,Z. Collins,
+223,3,6:53.0,70,58,MIA,POR,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,Z. Collins
+224,3,6:53.0,70,58,MIA,POR,0,home,Timeout,,,,,,
+225,3,6:53.0,70,58,MIA,POR,0,away,FreeThrow,,,make1,0,Z. Collins,
+226,3,6:53.0,70,58,MIA,POR,0,away,OffReb,,,OffReb,,Team,
+227,3,6:53.0,70,58,MIA,POR,0,away,FreeThrow,,,make1,0,Z. Collins,
+228,3,6:51.0,70,58,MIA,POR,2,home,DefReb,,,DefReb,,K. Olynyk,
+229,3,6:28.0,70,58,MIA,POR,23,home,JS,,20,miss2,0,D. Waiters,
+230,3,6:24.0,70,58,MIA,POR,4,away,DefReb,,,DefReb,,A. Aminu,
+231,3,6:18.0,70,60,MIA,POR,6,away,LU,,1,make2,2,C. McCollum,
+232,3,5:56.0,70,60,MIA,POR,22,home,JS,,10,miss2,0,G. Dragić,
+233,3,5:56.0,70,60,MIA,POR,0,home,OffReb,,,OffReb,,Team,
+234,3,5:56.0,70,60,MIA,POR,0,home,Sub,,,,,B. Adebayo,K. Olynyk
+235,3,5:56.0,70,60,MIA,POR,0,home,Sub,,,,,W. Ellington,G. Dragić
+236,3,5:44.0,70,60,MIA,POR,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Aminu,J. Richardson
+237,3,5:39.0,70,60,MIA,POR,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Collins,D. Waiters
+238,3,5:26.0,70,60,MIA,POR,13,home,JS,,25,miss3,0,J. Johnson,
+239,3,5:22.0,70,60,MIA,POR,4,home,OffReb,,,OffReb,,W. Ellington,
+240,3,5:19.0,70,60,MIA,POR,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,Z. Collins,B. Adebayo
+241,3,5:19.0,70,60,MIA,POR,0,home,FreeThrow,,,make1,0,B. Adebayo,
+242,3,5:19.0,70,60,MIA,POR,0,home,OffReb,,,OffReb,,Team,
+243,3,5:19.0,70,60,MIA,POR,0,away,Sub,,,,,E. Davis,Z. Collins
+244,3,5:19.0,71,60,MIA,POR,0,home,FreeThrow,,,make1,1,B. Adebayo,
+245,3,4:57.0,71,62,MIA,POR,22,away,JS,,15,make2,2,D. Lillard,
+246,3,4:46.0,71,62,MIA,POR,11,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Adebayo,D. Lillard
+247,3,4:46.0,71,62,MIA,POR,0,home,OffensiveFoul,,,turnover,,B. Adebayo,
+248,3,4:26.0,71,62,MIA,POR,20,away,JS,,25,miss3,0,C. McCollum,
+249,3,4:25.0,71,62,MIA,POR,1,home,DefReb,,,DefReb,,J. Johnson,
+250,3,4:24.0,71,62,MIA,POR,1,home,JS,,24,miss3,0,W. Ellington,
+251,3,4:23.0,71,62,MIA,POR,1,home,OffReb,,,OffReb,,B. Adebayo,
+252,3,4:02.0,71,62,MIA,POR,21,home,OutOfBoundsLB,,,turnover,,D. Waiters,
+253,3,3:47.0,71,62,MIA,POR,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Johnson,E. Davis
+254,3,3:47.0,71,62,MIA,POR,0,home,Sub,,,,,K. Olynyk,J. Johnson
+255,3,3:47.0,71,62,MIA,POR,0,away,Sub,,,,,N. Vonleh,A. Aminu
+256,3,3:37.0,71,64,MIA,POR,10,away,JS,,13,make2,2,E. Turner,
+257,3,3:11.0,71,64,MIA,POR,26,home,lost ball,steal,,turnover,,B. Adebayo,E. Davis
+258,3,3:05.0,71,66,MIA,POR,6,away,DK,assist,0,make2,2,E. Davis,D. Lillard
+259,3,2:44.0,73,66,MIA,POR,21,home,LU,,9,make2,2,K. Olynyk,
+260,3,2:43.0,73,66,MIA,POR,1,away,Timeout,,,,,,
+261,3,2:43.0,73,66,MIA,POR,0,home,Sub,,,,,G. Dragić,D. Waiters
+262,3,2:43.0,73,66,MIA,POR,0,away,Sub,,,,,S. Napier,C. McCollum
+263,3,2:25.0,73,66,MIA,POR,18,away,JS,,26,miss3,0,D. Lillard,
+264,3,2:21.0,73,66,MIA,POR,4,home,DefReb,,,DefReb,,W. Ellington,
+265,3,2:07.0,73,66,MIA,POR,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,B. Adebayo
+266,3,2:07.0,74,66,MIA,POR,0,home,FreeThrow,,,make1,1,B. Adebayo,
+267,3,2:07.0,75,66,MIA,POR,0,home,FreeThrow,,,make1,1,B. Adebayo,
+268,3,1:44.0,75,68,MIA,POR,23,away,JS,,13,make2,2,E. Turner,
+269,3,1:15.0,75,68,MIA,POR,29,home,JS,,25,miss3,0,W. Ellington,
+270,3,1:13.0,75,68,MIA,POR,2,home,OffReb,,,OffReb,,G. Dragić,
+271,3,1:13.0,75,68,MIA,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Napier,G. Dragić
+272,3,1:13.0,75,68,MIA,POR,0,home,FreeThrow,,,make1,0,G. Dragić,
+273,3,1:13.0,75,68,MIA,POR,0,home,OffReb,,,OffReb,,Team,
+274,3,1:13.0,75,68,MIA,POR,0,away,Sub,,,,,P. Connaughton,E. Turner
+275,3,1:13.0,76,68,MIA,POR,0,home,FreeThrow,,,make1,1,G. Dragić,
+276,3,1:01.0,76,68,MIA,POR,12,away,JS,,12,miss2,0,D. Lillard,
+277,3,1:01.0,76,68,MIA,POR,0,away,OffReb,,,OffReb,,E. Davis,
+278,3,0:59.0,76,68,MIA,POR,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,E. Davis
+279,3,0:59.0,76,69,MIA,POR,0,away,FreeThrow,,,make1,1,E. Davis,
+280,3,0:59.0,76,70,MIA,POR,0,away,FreeThrow,,,make1,1,E. Davis,
+281,3,0:40.0,78,70,MIA,POR,19,home,LU,,1,make2,2,G. Dragić,
+282,3,0:28.0,78,70,MIA,POR,12,away,bad pass,steal,,turnover,,N. Vonleh,W. Ellington
+283,3,0:14.0,78,70,MIA,POR,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Connaughton,G. Dragić
+284,3,0:14.0,78,70,MIA,POR,0,home,FreeThrow,,,make1,0,G. Dragić,
+285,3,0:14.0,78,70,MIA,POR,0,home,OffReb,,,OffReb,,Team,
+286,3,0:14.0,78,70,MIA,POR,0,away,Sub,,,,,C. McCollum,N. Vonleh
+287,3,0:14.0,79,70,MIA,POR,0,home,FreeThrow,,,make1,1,G. Dragić,
+288,3,0:01.0,79,70,MIA,POR,13,away,LU,block,7,miss2,0,D. Lillard,W. Ellington
+289,3,0:00.0,79,70,MIA,POR,1,home,DefReb,,,DefReb,,K. Olynyk,
+290,4,11:45.0,79,72,MIA,POR,15,away,LU,,0,make2,2,S. Napier,
+291,4,11:23.0,79,72,MIA,POR,22,home,JS,,18,miss2,0,G. Dragić,
+292,4,11:18.0,79,72,MIA,POR,5,away,DefReb,,,DefReb,,E. Davis,
+293,4,11:16.0,79,72,MIA,POR,2,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Waiters,C. McCollum
+294,4,11:09.0,79,75,MIA,POR,7,away,JS,assist,23,make3,3,A. Aminu,C. McCollum
+295,4,10:53.0,81,75,MIA,POR,16,home,JS,,20,make2,2,D. Waiters,
+296,4,10:32.0,81,77,MIA,POR,21,away,LU,,1,make2,2,P. Connaughton,
+297,4,10:14.0,81,77,MIA,POR,18,home,JS,,17,miss2,0,D. Waiters,
+298,4,10:10.0,81,77,MIA,POR,4,away,DefReb,,,DefReb,,A. Aminu,
+299,4,10:03.0,81,77,MIA,POR,7,away,JS,,7,miss2,0,C. McCollum,
+300,4,10:03.0,81,77,MIA,POR,0,away,OffReb,,,OffReb,,Team,
+301,4,10:03.0,81,77,MIA,POR,0,home,Sub,,,,,J. Johnson,K. Olynyk
+302,4,9:56.0,81,79,MIA,POR,7,away,DK,assist,0,make2,2,E. Davis,C. McCollum
+303,4,9:46.0,81,79,MIA,POR,10,home,Timeout,,,,,,
+304,4,9:31.0,81,79,MIA,POR,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,B. Adebayo
+305,4,9:31.0,82,79,MIA,POR,0,home,FreeThrow,,,make1,1,B. Adebayo,
+306,4,9:31.0,83,79,MIA,POR,0,home,FreeThrow,,,make1,1,B. Adebayo,
+307,4,9:17.0,83,79,MIA,POR,14,home,KickBallViolation,,,KickBallViolation,,D. Waiters,
+308,4,9:09.0,83,79,MIA,POR,8,away,JS,,25,miss3,0,A. Aminu,
+309,4,9:07.0,83,79,MIA,POR,2,home,DefReb,,,DefReb,,Team,
+310,4,8:45.0,83,79,MIA,POR,22,home,lost ball,steal,,turnover,,J. Johnson,C. McCollum
+311,4,8:40.0,83,79,MIA,POR,5,away,JS,,25,miss3,0,P. Connaughton,
+312,4,8:34.0,83,79,MIA,POR,6,home,DefReb,,,DefReb,,G. Dragić,
+313,4,8:29.0,85,79,MIA,POR,5,home,LU,,0,make2,2,D. Waiters,
+314,4,8:09.0,85,79,MIA,POR,20,away,JS,,17,miss2,0,C. McCollum,
+315,4,8:06.0,85,79,MIA,POR,3,away,OffReb,,,OffReb,,P. Connaughton,
+316,4,8:03.0,85,82,MIA,POR,3,away,JS,assist,23,make3,3,A. Aminu,P. Connaughton
+317,4,7:46.0,85,82,MIA,POR,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. McCollum,D. Waiters
+318,4,7:46.0,86,82,MIA,POR,0,home,FreeThrow,,,make1,1,D. Waiters,
+319,4,7:46.0,86,82,MIA,POR,0,home,Sub,,,,,J. Richardson,G. Dragić
+320,4,7:46.0,86,82,MIA,POR,0,away,Sub,,,,,D. Lillard,P. Connaughton
+321,4,7:46.0,86,82,MIA,POR,0,home,FreeThrow,,,make1,0,D. Waiters,
+322,4,7:43.0,86,82,MIA,POR,3,away,DefReb,,,DefReb,,A. Aminu,
+323,4,7:30.0,86,84,MIA,POR,13,away,JS,,18,make2,2,C. McCollum,
+324,4,7:10.0,86,84,MIA,POR,20,home,JS,,23,miss3,0,D. Waiters,
+325,4,7:07.0,86,84,MIA,POR,3,away,DefReb,,,DefReb,,A. Aminu,
+326,4,7:04.0,86,84,MIA,POR,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Richardson,D. Lillard
+327,4,6:48.0,86,86,MIA,POR,16,away,DK,,0,make2,2,D. Lillard,
+328,4,6:31.0,88,86,MIA,POR,17,home,JS,,14,make2,2,J. Johnson,
+329,4,6:10.0,88,88,MIA,POR,21,away,LU,,3,make2,2,E. Davis,
+330,4,6:10.0,88,88,MIA,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Adebayo,E. Davis
+331,4,6:10.0,88,89,MIA,POR,0,away,FreeThrow,,,make1,1,E. Davis,
+332,4,5:56.0,91,89,MIA,POR,14,home,JS,assist,25,make3,3,W. Ellington,B. Adebayo
+333,4,5:56.0,91,89,MIA,POR,0,away,Timeout,,,,,,
+334,4,5:42.0,91,89,MIA,POR,14,away,JS,,27,miss3,0,D. Lillard,
+335,4,5:38.0,91,89,MIA,POR,4,home,DefReb,,,DefReb,,J. Johnson,
+336,4,5:22.0,91,89,MIA,POR,16,home,LU,,1,miss2,0,D. Waiters,
+337,4,5:22.0,91,89,MIA,POR,0,home,OffReb,,,OffReb,,B. Adebayo,
+338,4,5:22.0,91,89,MIA,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,B. Adebayo
+339,4,5:22.0,92,89,MIA,POR,0,home,FreeThrow,,,make1,1,B. Adebayo,
+340,4,5:22.0,92,89,MIA,POR,0,home,FreeThrow,,,make1,0,B. Adebayo,
+341,4,5:19.0,92,89,MIA,POR,3,away,DefReb,,,DefReb,,C. McCollum,
+342,4,5:08.0,92,91,MIA,POR,11,away,JS,,6,make2,2,S. Napier,
+343,4,4:44.0,92,91,MIA,POR,24,home,JS,,24,miss3,0,J. Johnson,
+344,4,4:39.0,92,91,MIA,POR,5,home,OffReb,,,OffReb,,J. Richardson,
+345,4,4:24.0,94,91,MIA,POR,15,home,DK,assist,1,make2,2,B. Adebayo,D. Waiters
+346,4,4:11.0,94,91,MIA,POR,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Richardson,C. McCollum
+347,4,4:11.0,94,92,MIA,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
+348,4,4:11.0,94,93,MIA,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
+349,4,3:58.0,94,93,MIA,POR,13,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Johnson,S. Napier
+350,4,3:58.0,94,93,MIA,POR,0,home,OffensiveFoul,,,turnover,,J. Johnson,
+351,4,3:58.0,94,93,MIA,POR,0,home,Sub,,,,,G. Dragić,W. Ellington
+352,4,3:49.0,94,93,MIA,POR,9,away,Traveling,,,turnover,,A. Aminu,
+353,4,3:49.0,94,93,MIA,POR,0,away,Timeout,,,,,,
+354,4,3:27.0,94,93,MIA,POR,22,home,LU,,1,miss2,0,J. Johnson,
+355,4,3:25.0,94,93,MIA,POR,2,away,DefReb,,,DefReb,,E. Davis,
+356,4,3:16.0,94,95,MIA,POR,9,away,LU,,1,make2,2,D. Lillard,
+357,4,3:04.0,94,95,MIA,POR,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. McCollum,D. Waiters
+358,4,3:04.0,94,95,MIA,POR,0,home,FreeThrow,,,make1,0,D. Waiters,
+359,4,3:04.0,94,95,MIA,POR,0,home,OffReb,,,OffReb,,Team,
+360,4,3:04.0,94,95,MIA,POR,0,home,FreeThrow,,,make1,0,D. Waiters,
+361,4,3:01.0,94,95,MIA,POR,3,away,DefReb,,,DefReb,,C. McCollum,
+362,4,2:50.0,94,95,MIA,POR,11,away,LU,,1,miss2,0,D. Lillard,
+363,4,2:48.0,94,95,MIA,POR,2,home,DefReb,,,DefReb,,D. Waiters,
+364,4,2:46.0,94,95,MIA,POR,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Napier,G. Dragić
+365,4,2:46.0,94,95,MIA,POR,0,home,FreeThrow,,,make1,0,G. Dragić,
+366,4,2:46.0,94,95,MIA,POR,0,home,OffReb,,,OffReb,,Team,
+367,4,2:46.0,95,95,MIA,POR,0,home,FreeThrow,,,make1,1,G. Dragić,
+368,4,2:23.0,95,95,MIA,POR,23,away,LU,,0,miss2,0,D. Lillard,
+369,4,2:21.0,95,95,MIA,POR,2,home,DefReb,,,DefReb,,J. Johnson,
+370,4,2:01.0,95,95,MIA,POR,20,home,JS,,16,miss2,0,D. Waiters,
+371,4,1:57.0,95,95,MIA,POR,4,away,DefReb,,,DefReb,,D. Lillard,
+372,4,1:52.0,95,95,MIA,POR,5,away,LU,,1,miss2,0,A. Aminu,
+373,4,1:48.0,95,95,MIA,POR,4,away,DefReb,,,DefReb,,Team,
+374,4,1:40.0,95,97,MIA,POR,8,away,LU,,1,make2,2,D. Lillard,
+375,4,1:40.0,95,97,MIA,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dragić,D. Lillard
+376,4,1:40.0,95,98,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+377,4,1:19.0,95,98,MIA,POR,21,home,JS,,15,miss2,0,G. Dragić,
+378,4,1:16.0,95,98,MIA,POR,3,away,DefReb,,,DefReb,,A. Aminu,
+379,4,1:02.0,95,98,MIA,POR,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Adebayo,D. Lillard
+380,4,1:02.0,95,99,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+381,4,1:02.0,95,100,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+382,4,1:02.0,95,100,MIA,POR,0,home,Timeout,,,,,,
+383,4,1:02.0,95,100,MIA,POR,0,home,Sub,,,,,K. Olynyk,B. Adebayo
+384,4,0:53.0,95,100,MIA,POR,9,home,JS,,24,miss3,0,J. Richardson,
+385,4,0:48.0,95,100,MIA,POR,5,away,DefReb,,,DefReb,,C. McCollum,
+386,4,0:28.0,95,100,MIA,POR,20,away,JS,,23,miss3,0,S. Napier,
+387,4,0:18.0,95,100,MIA,POR,10,away,OffReb,,,OffReb,,A. Aminu,
+388,4,0:18.0,95,100,MIA,POR,0,away,Timeout,,,,,,
+389,4,0:18.0,95,100,MIA,POR,0,home,Sub,,,,,B. Adebayo,K. Olynyk
+390,4,0:18.0,95,100,MIA,POR,0,away,Sub,,,,,E. Turner,E. Davis
+391,4,0:14.0,95,100,MIA,POR,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Johnson,E. Turner
+392,4,0:14.0,95,101,MIA,POR,0,away,FreeThrow,,,make1,1,E. Turner,
+393,4,0:14.0,95,102,MIA,POR,0,away,FreeThrow,,,make1,1,E. Turner,
+394,4,0:14.0,95,102,MIA,POR,0,home,Timeout,,,,,,
+395,4,0:14.0,95,102,MIA,POR,0,home,Sub,,,,,K. Olynyk,J. Johnson
+396,4,0:14.0,95,102,MIA,POR,0,home,Sub,,,,,W. Ellington,B. Adebayo
+397,4,0:12.0,95,102,MIA,POR,2,home,JS,,24,miss3,0,K. Olynyk,
+398,4,0:09.0,95,102,MIA,POR,3,away,DefReb,,,DefReb,,S. Napier,

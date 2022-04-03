@@ -1,0 +1,466 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:38.0,0,0,DEN,BRK,22,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Sampson,D. Sloan
+1,1,11:26.0,0,0,DEN,BRK,12,away,JS,,19,miss2,0,B. Lopez,
+2,1,11:25.0,0,0,DEN,BRK,1,home,DefReb,,,DefReb,,K. Faried,
+3,1,11:05.0,2,0,DEN,BRK,20,home,JS,assist,17,make2,2,K. Faried,J. Sampson
+4,1,10:44.0,2,2,DEN,BRK,21,away,LU,assist,1,make2,2,D. Sloan,B. Lopez
+5,1,10:26.0,2,2,DEN,BRK,18,home,JS,,6,miss2,0,E. Mudiay,
+6,1,10:26.0,2,2,DEN,BRK,0,home,OffReb,,,OffReb,,N. Jokić,
+7,1,10:24.0,2,2,DEN,BRK,2,home,LU,,1,miss2,0,N. Jokić,
+8,1,10:23.0,2,2,DEN,BRK,1,home,OffReb,,,OffReb,,K. Faried,
+9,1,10:23.0,4,2,DEN,BRK,0,home,DK,,0,make2,2,K. Faried,
+10,1,10:14.0,4,2,DEN,BRK,9,away,BadPass,steal,,turnover,,D. Sloan,G. Harris
+11,1,10:10.0,6,2,DEN,BRK,4,home,DK,,0,make2,2,G. Harris,
+12,1,9:50.0,6,2,DEN,BRK,20,away,BadPass,steal,,turnover,,W. Ellington,N. Jokić
+13,1,9:44.0,8,2,DEN,BRK,6,home,LU,assist,0,make2,2,E. Mudiay,N. Jokić
+14,1,9:29.0,8,2,DEN,BRK,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Mudiay,D. Sloan
+15,1,9:23.0,8,2,DEN,BRK,6,away,BadPass,steal,,turnover,,B. Bogdanović,E. Mudiay
+16,1,9:18.0,10,2,DEN,BRK,5,home,DK,assist,0,make2,2,G. Harris,E. Mudiay
+17,1,9:18.0,10,2,DEN,BRK,0,away,Timeout,,,,,,
+18,1,9:00.0,10,5,DEN,BRK,18,away,JS,assist,23,make3,3,W. Ellington,B. Bogdanović
+19,1,8:39.0,13,5,DEN,BRK,21,home,JS,assist,23,make3,3,E. Mudiay,G. Harris
+20,1,8:19.0,13,5,DEN,BRK,20,away,BadPass,,,turnover,,W. Ellington,
+21,1,8:08.0,13,5,DEN,BRK,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Ellington,N. Jokić
+22,1,8:02.0,13,5,DEN,BRK,6,home,BadPass,steal,,turnover,,E. Mudiay,B. Lopez
+23,1,7:42.0,13,8,DEN,BRK,20,away,JS,assist,26,make3,3,B. Bogdanović,D. Sloan
+24,1,7:24.0,13,8,DEN,BRK,18,home,Traveling,,,turnover,,N. Jokić,
+25,1,7:09.0,13,10,DEN,BRK,15,away,JS,assist,11,make2,2,B. Bogdanović,T. Young
+26,1,7:01.0,13,10,DEN,BRK,8,home,Traveling,,,turnover,,J. Sampson,
+27,1,6:45.0,13,13,DEN,BRK,16,away,JS,assist,24,make3,3,B. Bogdanović,W. Ellington
+28,1,6:45.0,13,13,DEN,BRK,0,home,Timeout,,,,,,
+29,1,6:34.0,13,13,DEN,BRK,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Lopez,K. Faried
+30,1,6:34.0,14,13,DEN,BRK,0,home,FreeThrow,,,make1,1,K. Faried,
+31,1,6:34.0,15,13,DEN,BRK,0,home,FreeThrow,,,make1,1,K. Faried,
+32,1,6:14.0,15,15,DEN,BRK,20,away,LU,,2,make2,2,B. Lopez,
+33,1,6:06.0,15,15,DEN,BRK,8,home,JS,,26,miss3,0,N. Jokić,
+34,1,6:03.0,15,15,DEN,BRK,3,home,OffReb,,,OffReb,,K. Faried,
+35,1,6:03.0,15,15,DEN,BRK,0,home,LU,,1,miss2,0,K. Faried,
+36,1,6:02.0,15,15,DEN,BRK,1,home,OffReb,,,OffReb,,K. Faried,
+37,1,6:02.0,15,15,DEN,BRK,0,home,LU,,1,miss2,0,K. Faried,
+38,1,6:01.0,15,15,DEN,BRK,1,away,DefReb,,,DefReb,,D. Sloan,
+39,1,5:50.0,15,18,DEN,BRK,11,away,JS,assist,24,make3,3,B. Bogdanović,D. Sloan
+40,1,5:37.0,17,18,DEN,BRK,13,home,JS,assist,5,make2,2,N. Jokić,E. Mudiay
+41,1,5:25.0,17,20,DEN,BRK,12,away,JS,,19,make2,2,D. Sloan,
+42,1,5:04.0,17,20,DEN,BRK,21,home,JS,block,19,miss2,0,E. Mudiay,D. Sloan
+43,1,5:03.0,17,20,DEN,BRK,1,home,OffReb,,,OffReb,,E. Mudiay,
+44,1,5:01.0,17,20,DEN,BRK,2,home,JS,,23,miss3,0,J. Sampson,
+45,1,4:59.0,17,20,DEN,BRK,2,home,OffReb,,,OffReb,,N. Jokić,
+46,1,4:59.0,19,20,DEN,BRK,0,home,LU,,0,make2,2,N. Jokić,
+47,1,4:48.0,19,20,DEN,BRK,11,away,JS,,18,miss2,0,D. Sloan,
+48,1,4:47.0,19,20,DEN,BRK,1,home,DefReb,,,DefReb,,G. Harris,
+49,1,4:29.0,19,20,DEN,BRK,18,home,JS,,25,miss3,0,E. Mudiay,
+50,1,4:28.0,19,20,DEN,BRK,1,away,DefReb,,,DefReb,,B. Lopez,
+51,1,4:06.0,19,23,DEN,BRK,22,away,JS,assist,23,make3,3,D. Sloan,B. Bogdanović
+52,1,3:43.0,19,23,DEN,BRK,23,home,LostBall,steal,,turnover,,N. Jokić,W. Ellington
+53,1,3:32.0,19,23,DEN,BRK,11,away,JS,block,20,miss2,0,B. Bogdanović,E. Mudiay
+54,1,3:30.0,19,23,DEN,BRK,2,home,DefReb,,,DefReb,,E. Mudiay,
+55,1,3:25.0,21,23,DEN,BRK,5,home,LU,assist,1,make2,2,G. Harris,E. Mudiay
+56,1,3:04.0,21,25,DEN,BRK,21,away,JS,assist,8,make2,2,B. Lopez,T. Young
+57,1,2:44.0,21,25,DEN,BRK,20,home,JS,,24,miss3,0,J. Sampson,
+58,1,2:43.0,21,25,DEN,BRK,1,away,DefReb,,,DefReb,,Team,
+59,1,2:43.0,21,25,DEN,BRK,0,home,Sub,,,,,W. Barton,N. Jokić
+60,1,2:43.0,21,25,DEN,BRK,0,home,Sub,,,,,J. Lauvergne,J. Sampson
+61,1,2:23.0,21,25,DEN,BRK,20,away,JS,,25,miss3,0,D. Sloan,
+62,1,2:23.0,21,25,DEN,BRK,0,home,DefReb,,,DefReb,,K. Faried,
+63,1,2:19.0,23,25,DEN,BRK,4,home,DK,assist,0,make2,2,E. Mudiay,K. Faried
+64,1,2:05.0,23,27,DEN,BRK,14,away,DK,assist,0,make2,2,B. Lopez,D. Sloan
+65,1,2:05.0,23,27,DEN,BRK,0,home,Timeout,,,,,,
+66,1,1:47.0,23,27,DEN,BRK,18,home,JS,,20,miss2,0,J. Lauvergne,
+67,1,1:46.0,23,27,DEN,BRK,1,away,DefReb,,,DefReb,,Team,
+68,1,1:46.0,23,27,DEN,BRK,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Faried,B. Bogdanović
+69,1,1:46.0,23,27,DEN,BRK,0,home,Sub,,,,,D. Augustin,K. Faried
+70,1,1:46.0,23,27,DEN,BRK,0,home,Sub,,,,,D. Arthur,E. Mudiay
+71,1,1:31.0,23,27,DEN,BRK,15,away,JS,block,24,miss3,0,B. Bogdanović,W. Barton
+72,1,1:29.0,23,27,DEN,BRK,2,home,DefReb,,,DefReb,,Team,
+73,1,1:29.0,23,27,DEN,BRK,0,away,Sub,,,,,T. Robinson,B. Lopez
+74,1,1:14.0,23,27,DEN,BRK,15,home,JS,,22,miss3,0,D. Arthur,
+75,1,1:12.0,23,27,DEN,BRK,2,away,DefReb,,,DefReb,,D. Sloan,
+76,1,1:00.0,23,29,DEN,BRK,12,away,JS,assist,4,make2,2,T. Young,D. Sloan
+77,1,0:36.0,23,29,DEN,BRK,24,home,JS,,4,miss2,0,W. Barton,
+78,1,0:34.0,23,29,DEN,BRK,2,away,DefReb,,,DefReb,,T. Robinson,
+79,1,0:22.0,23,31,DEN,BRK,12,away,JS,assist,18,make2,2,W. Ellington,D. Sloan
+80,1,0:01.0,25,31,DEN,BRK,21,home,JS,assist,18,make2,2,J. Lauvergne,W. Barton
+81,1,0:00.0,25,31,DEN,BRK,1,away,JS,,63,miss3,0,T. Robinson,
+82,1,0:00.0,25,31,DEN,BRK,0,away,OffReb,,,OffReb,,Team,
+83,2,11:40.0,25,31,DEN,BRK,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. McCullough,J. Lauvergne
+84,2,11:40.0,26,31,DEN,BRK,0,home,FreeThrow,,,make1,1,J. Lauvergne,
+85,2,11:40.0,27,31,DEN,BRK,0,home,FreeThrow,,,make1,1,J. Lauvergne,
+86,2,11:17.0,27,31,DEN,BRK,23,away,JS,,19,miss2,0,S. Larkin,
+87,2,11:16.0,27,31,DEN,BRK,1,home,DefReb,,,DefReb,,A. Toupane,
+88,2,11:09.0,29,31,DEN,BRK,7,home,LU,assist,2,make2,2,J. Lauvergne,W. Barton
+89,2,10:45.0,29,31,DEN,BRK,24,away,JS,,18,miss2,0,M. Brown,
+90,2,10:44.0,29,31,DEN,BRK,1,home,DefReb,,,DefReb,,D. Augustin,
+91,2,10:30.0,29,31,DEN,BRK,14,home,JS,,7,miss2,0,W. Barton,
+92,2,10:29.0,29,31,DEN,BRK,1,away,DefReb,,,DefReb,,T. Robinson,
+93,2,10:16.0,29,33,DEN,BRK,13,away,JS,assist,19,make2,2,C. McCullough,M. Brown
+94,2,10:00.0,29,33,DEN,BRK,16,home,JS,,4,miss2,0,D. Augustin,
+95,2,9:59.0,29,33,DEN,BRK,1,home,OffReb,,,OffReb,,J. Lauvergne,
+96,2,9:59.0,29,33,DEN,BRK,0,home,LU,,1,miss2,0,J. Lauvergne,
+97,2,9:58.0,29,33,DEN,BRK,1,away,DefReb,,,DefReb,,C. McCullough,
+98,2,9:54.0,29,33,DEN,BRK,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Toupane,M. Brown
+99,2,9:41.0,29,36,DEN,BRK,13,away,JS,assist,24,make3,3,M. Brown,S. Larkin
+100,2,9:33.0,29,36,DEN,BRK,8,home,BadPass,,,turnover,,D. Arthur,
+101,2,9:10.0,29,39,DEN,BRK,23,away,JS,,25,make3,3,S. Larkin,
+102,2,8:51.0,31,39,DEN,BRK,19,home,JS,assist,16,make2,2,J. Lauvergne,D. Arthur
+103,2,8:40.0,31,39,DEN,BRK,11,away,JS,,5,miss2,0,T. Robinson,
+104,2,8:40.0,31,39,DEN,BRK,0,away,OffReb,,,OffReb,,Team,
+105,2,8:40.0,31,39,DEN,BRK,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,W. Barton,C. McCullough
+106,2,8:40.0,31,39,DEN,BRK,0,away,Timeout,,,,,,
+107,2,8:34.0,31,42,DEN,BRK,6,away,JS,assist,25,make3,3,S. Larkin,M. Brown
+108,2,8:23.0,31,42,DEN,BRK,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Kilpatrick,A. Toupane
+109,2,8:16.0,34,42,DEN,BRK,7,home,JS,assist,25,make3,3,D. Augustin,J. Lauvergne
+110,2,8:01.0,34,44,DEN,BRK,15,away,JS,assist,8,make2,2,S. Kilpatrick,M. Brown
+111,2,7:46.0,36,44,DEN,BRK,15,home,LU,,2,make2,2,D. Augustin,
+112,2,7:28.0,36,47,DEN,BRK,18,away,JS,assist,24,make3,3,S. Kilpatrick,T. Robinson
+113,2,7:14.0,38,47,DEN,BRK,14,home,LU,assist,1,make2,2,W. Barton,D. Arthur
+114,2,7:01.0,38,47,DEN,BRK,13,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,A. Toupane,M. Brown
+115,2,6:54.0,38,47,DEN,BRK,7,away,LU,,2,miss2,0,S. Kilpatrick,
+116,2,6:54.0,38,47,DEN,BRK,0,away,OffReb,,,OffReb,,T. Robinson,
+117,2,6:52.0,38,49,DEN,BRK,2,away,LU,,1,make2,2,T. Robinson,
+118,2,6:52.0,38,49,DEN,BRK,0,home,Timeout,,,,,,
+119,2,6:32.0,41,49,DEN,BRK,20,home,JS,,25,make3,3,D. Augustin,
+120,2,6:32.0,41,49,DEN,BRK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Larkin,D. Augustin
+121,2,6:32.0,41,49,DEN,BRK,0,home,Sub,,,,,G. Harris,A. Toupane
+122,2,6:32.0,42,49,DEN,BRK,0,home,FreeThrow,,,make1,1,D. Augustin,
+123,2,6:18.0,42,51,DEN,BRK,14,away,JS,assist,6,make2,2,C. McCullough,S. Larkin
+124,2,6:01.0,44,51,DEN,BRK,17,home,DK,,0,make2,2,J. Lauvergne,
+125,2,5:43.0,44,51,DEN,BRK,18,away,JS,,15,miss2,0,T. Robinson,
+126,2,5:42.0,44,51,DEN,BRK,1,home,DefReb,,,DefReb,,J. Lauvergne,
+127,2,5:34.0,44,51,DEN,BRK,8,home,JS,,27,miss3,0,G. Harris,
+128,2,5:33.0,44,51,DEN,BRK,1,away,DefReb,,,DefReb,,S. Kilpatrick,
+129,2,5:14.0,44,53,DEN,BRK,19,away,JS,,16,make2,2,M. Brown,
+130,2,4:55.0,47,53,DEN,BRK,19,home,JS,assist,22,make3,3,W. Barton,D. Augustin
+131,2,4:41.0,47,53,DEN,BRK,14,away,JS,,14,miss2,0,S. Larkin,
+132,2,4:40.0,47,53,DEN,BRK,1,home,DefReb,,,DefReb,,Team,
+133,2,4:40.0,47,53,DEN,BRK,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Robinson,W. Barton
+134,2,4:40.0,47,53,DEN,BRK,0,away,Sub,,,,,B. Lopez,C. McCullough
+135,2,4:40.0,47,53,DEN,BRK,0,home,Sub,,,,,N. Jokić,D. Arthur
+136,2,4:40.0,47,53,DEN,BRK,0,home,Sub,,,,,K. Faried,J. Lauvergne
+137,2,4:20.0,47,53,DEN,BRK,20,home,JS,,16,miss2,0,N. Jokić,
+138,2,4:20.0,47,53,DEN,BRK,0,away,DefReb,,,DefReb,,T. Robinson,
+139,2,4:07.0,47,53,DEN,BRK,13,away,JS,,24,miss3,0,S. Kilpatrick,
+140,2,4:07.0,47,53,DEN,BRK,0,home,DefReb,,,DefReb,,N. Jokić,
+141,2,4:06.0,47,53,DEN,BRK,1,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Robinson,N. Jokić
+142,2,4:06.0,48,53,DEN,BRK,0,home,FreeThrow,,,make1,1,N. Jokić,
+143,2,4:06.0,48,53,DEN,BRK,0,away,Sub,,,,,T. Young,T. Robinson
+144,2,4:06.0,48,53,DEN,BRK,0,away,Sub,,,,,B. Bogdanović,S. Kilpatrick
+145,2,4:06.0,49,53,DEN,BRK,0,home,FreeThrow,,,make1,1,N. Jokić,
+146,2,3:50.0,49,55,DEN,BRK,16,away,JS,,6,make2,2,B. Bogdanović,
+147,2,3:35.0,49,55,DEN,BRK,15,home,JS,,26,miss3,0,G. Harris,
+148,2,3:34.0,49,55,DEN,BRK,1,home,OffReb,,,OffReb,,D. Augustin,
+149,2,3:34.0,49,55,DEN,BRK,0,home,JS,,26,miss3,0,D. Augustin,
+150,2,3:33.0,49,55,DEN,BRK,1,away,DefReb,,,DefReb,,T. Young,
+151,2,3:21.0,49,57,DEN,BRK,12,away,JS,assist,4,make2,2,B. Lopez,S. Larkin
+152,2,3:04.0,51,57,DEN,BRK,17,home,HS,assist,3,make2,2,K. Faried,D. Augustin
+153,2,2:44.0,51,59,DEN,BRK,20,away,LU,,1,make2,2,T. Young,
+154,2,2:23.0,51,59,DEN,BRK,21,away,Timeout,,,,,,
+155,2,2:23.0,51,59,DEN,BRK,0,home,Sub,,,,,E. Mudiay,D. Augustin
+156,2,2:20.0,51,59,DEN,BRK,3,home,JS,,23,miss3,0,G. Harris,
+157,2,2:19.0,51,59,DEN,BRK,1,home,OffReb,,,OffReb,,Team,
+158,2,2:13.0,51,59,DEN,BRK,6,home,BadPass,steal,,turnover,,K. Faried,T. Young
+159,2,2:08.0,51,59,DEN,BRK,5,away,LostBall,steal,,turnover,,B. Bogdanović,E. Mudiay
+160,2,1:46.0,51,59,DEN,BRK,22,home,JS,,19,miss2,0,E. Mudiay,
+161,2,1:45.0,51,59,DEN,BRK,1,away,DefReb,,,DefReb,,B. Bogdanović,
+162,2,1:31.0,51,59,DEN,BRK,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,B. Lopez
+163,2,1:31.0,51,60,DEN,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
+164,2,1:31.0,51,60,DEN,BRK,0,away,Sub,,,,,W. Ellington,M. Brown
+165,2,1:31.0,51,61,DEN,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
+166,2,1:21.0,51,61,DEN,BRK,10,home,JS,,24,miss3,0,W. Barton,
+167,2,1:20.0,51,61,DEN,BRK,1,home,OffReb,,,OffReb,,K. Faried,
+168,2,1:08.0,51,61,DEN,BRK,12,home,JS,,24,miss3,0,N. Jokić,
+169,2,1:08.0,51,61,DEN,BRK,0,home,OffReb,,,OffReb,,Team,
+170,2,1:08.0,51,61,DEN,BRK,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Young,K. Faried
+171,2,1:08.0,52,61,DEN,BRK,0,home,FreeThrow,,,make1,1,K. Faried,
+172,2,1:08.0,53,61,DEN,BRK,0,home,FreeThrow,,,make1,1,K. Faried,
+173,2,0:58.0,53,61,DEN,BRK,10,away,LU,,2,miss2,0,S. Larkin,
+174,2,0:57.0,53,61,DEN,BRK,1,home,DefReb,,,DefReb,,E. Mudiay,
+175,2,0:53.0,55,61,DEN,BRK,4,home,LU,,1,make2,2,E. Mudiay,
+176,2,0:34.0,55,61,DEN,BRK,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Mudiay,B. Lopez
+177,2,0:34.0,55,62,DEN,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
+178,2,0:34.0,55,63,DEN,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
+179,2,0:16.0,57,63,DEN,BRK,18,home,LU,assist,2,make2,2,N. Jokić,G. Harris
+180,2,0:01.0,57,63,DEN,BRK,15,away,LU,,2,miss2,0,B. Lopez,
+181,2,0:01.0,57,63,DEN,BRK,0,home,DefReb,,,DefReb,,N. Jokić,
+182,3,11:43.0,57,63,DEN,BRK,17,home,JS,,8,miss2,0,E. Mudiay,
+183,3,11:42.0,57,63,DEN,BRK,1,away,DefReb,,,DefReb,,B. Bogdanović,
+184,3,11:31.0,57,63,DEN,BRK,11,away,Traveling,,,turnover,,T. Young,
+185,3,11:22.0,59,63,DEN,BRK,9,home,LU,assist,1,make2,2,E. Mudiay,G. Harris
+186,3,11:06.0,59,65,DEN,BRK,16,away,LU,,2,make2,2,T. Young,
+187,3,10:51.0,59,65,DEN,BRK,15,home,JS,,4,miss2,0,N. Jokić,
+188,3,10:50.0,59,65,DEN,BRK,1,home,OffReb,,,OffReb,,J. Sampson,
+189,3,10:49.0,61,65,DEN,BRK,1,home,DK,,0,make2,2,J. Sampson,
+190,3,10:31.0,61,67,DEN,BRK,18,away,JS,,6,make2,2,T. Young,
+191,3,10:19.0,61,67,DEN,BRK,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Young,E. Mudiay
+192,3,10:19.0,62,67,DEN,BRK,0,home,FreeThrow,,,make1,1,E. Mudiay,
+193,3,10:19.0,63,67,DEN,BRK,0,home,FreeThrow,,,make1,1,E. Mudiay,
+194,3,10:05.0,63,70,DEN,BRK,14,away,JS,assist,24,make3,3,W. Ellington,B. Lopez
+195,3,9:54.0,66,70,DEN,BRK,11,home,JS,assist,24,make3,3,G. Harris,E. Mudiay
+196,3,9:31.0,66,70,DEN,BRK,23,away,JS,,24,miss3,0,B. Bogdanović,
+197,3,9:31.0,66,70,DEN,BRK,0,home,DefReb,,,DefReb,,N. Jokić,
+198,3,9:22.0,68,70,DEN,BRK,9,home,LU,assist,2,make2,2,G. Harris,E. Mudiay
+199,3,9:01.0,68,70,DEN,BRK,21,away,JS,,17,miss2,0,B. Bogdanović,
+200,3,9:00.0,68,70,DEN,BRK,1,home,DefReb,,,DefReb,,K. Faried,
+201,3,8:53.0,68,70,DEN,BRK,7,home,Traveling,,,turnover,,E. Mudiay,
+202,3,8:39.0,68,70,DEN,BRK,14,away,BadPass,steal,,turnover,,B. Bogdanović,G. Harris
+203,3,8:38.0,68,70,DEN,BRK,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Ellington,G. Harris
+204,3,8:28.0,70,70,DEN,BRK,10,home,LU,assist,2,make2,2,N. Jokić,J. Sampson
+205,3,8:28.0,70,70,DEN,BRK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Ellington,N. Jokić
+206,3,8:28.0,70,70,DEN,BRK,0,away,Timeout,,,,,,
+207,3,8:28.0,71,70,DEN,BRK,0,home,FreeThrow,,,make1,1,N. Jokić,
+208,3,8:08.0,71,72,DEN,BRK,20,away,JS,,18,make2,2,T. Young,
+209,3,7:45.0,73,72,DEN,BRK,23,home,LU,,1,make2,2,E. Mudiay,
+210,3,7:24.0,73,72,DEN,BRK,21,away,LU,block,2,miss2,0,B. Bogdanović,K. Faried
+211,3,7:23.0,73,72,DEN,BRK,1,away,OffReb,,,OffReb,,Team,
+212,3,7:19.0,73,72,DEN,BRK,4,away,JS,,15,miss2,0,B. Lopez,
+213,3,7:18.0,73,72,DEN,BRK,1,home,DefReb,,,DefReb,,K. Faried,
+214,3,7:15.0,73,72,DEN,BRK,3,home,BadPass,,,turnover,,K. Faried,
+215,3,6:58.0,73,72,DEN,BRK,17,away,JS,,19,miss2,0,T. Young,
+216,3,6:57.0,73,72,DEN,BRK,1,home,DefReb,,,DefReb,,E. Mudiay,
+217,3,6:51.0,75,72,DEN,BRK,6,home,DK,assist,0,make2,2,K. Faried,N. Jokić
+218,3,6:37.0,75,74,DEN,BRK,14,away,HS,assist,4,make2,2,T. Young,D. Sloan
+219,3,6:12.0,75,74,DEN,BRK,25,home,JS,,25,miss3,0,E. Mudiay,
+220,3,6:11.0,75,74,DEN,BRK,1,away,DefReb,,,DefReb,,W. Ellington,
+221,3,6:03.0,75,74,DEN,BRK,8,away,JS,,13,miss2,0,W. Ellington,
+222,3,6:02.0,75,74,DEN,BRK,1,home,DefReb,,,DefReb,,N. Jokić,
+223,3,5:53.0,75,74,DEN,BRK,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Lopez,G. Harris
+224,3,5:53.0,76,74,DEN,BRK,0,home,FreeThrow,,,make1,1,G. Harris,
+225,3,5:53.0,76,74,DEN,BRK,0,away,Sub,,,,,M. Brown,D. Sloan
+226,3,5:53.0,76,74,DEN,BRK,0,away,Sub,,,,,S. Larkin,W. Ellington
+227,3,5:53.0,76,74,DEN,BRK,0,away,Sub,,,,,S. Kilpatrick,B. Bogdanović
+228,3,5:53.0,77,74,DEN,BRK,0,home,FreeThrow,,,make1,1,G. Harris,
+229,3,5:42.0,77,74,DEN,BRK,11,away,D3SecTech,,,,,,
+230,3,5:42.0,77,75,DEN,BRK,0,away,FreeThrow,,,make1,1,M. Brown makes technical free throw,
+231,3,5:34.0,77,78,DEN,BRK,8,away,JS,assist,24,make3,3,M. Brown,B. Lopez
+232,3,5:25.0,77,78,DEN,BRK,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Brown,K. Faried
+233,3,5:25.0,78,78,DEN,BRK,0,home,FreeThrow,,,make1,1,K. Faried,
+234,3,5:25.0,78,78,DEN,BRK,0,home,FreeThrow,,,make1,0,K. Faried,
+235,3,5:23.0,78,78,DEN,BRK,2,away,DefReb,,,DefReb,,S. Kilpatrick,
+236,3,5:10.0,78,81,DEN,BRK,13,away,JS,assist,24,make3,3,S. Kilpatrick,M. Brown
+237,3,4:47.0,78,81,DEN,BRK,23,home,JS,,15,miss2,0,K. Faried,
+238,3,4:47.0,78,81,DEN,BRK,0,away,DefReb,,,DefReb,,M. Brown,
+239,3,4:31.0,78,83,DEN,BRK,16,away,HS,,5,make2,2,T. Young,
+240,3,4:30.0,78,83,DEN,BRK,1,home,Timeout,,,,,,
+241,3,4:05.0,80,83,DEN,BRK,25,home,HS,assist,4,make2,2,K. Faried,N. Jokić
+242,3,3:49.0,80,83,DEN,BRK,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,T. Young
+243,3,3:49.0,80,83,DEN,BRK,0,away,FreeThrow,,,make1,0,T. Young,
+244,3,3:49.0,80,83,DEN,BRK,0,away,OffReb,,,OffReb,,Team,
+245,3,3:49.0,80,83,DEN,BRK,0,home,Sub,,,,,W. Barton,J. Sampson
+246,3,3:49.0,80,83,DEN,BRK,0,away,FreeThrow,,,make1,0,T. Young,
+247,3,3:48.0,80,83,DEN,BRK,1,home,DefReb,,,DefReb,,N. Jokić,
+248,3,3:35.0,80,83,DEN,BRK,13,home,JS,,19,miss2,0,G. Harris,
+249,3,3:35.0,80,83,DEN,BRK,0,away,DefReb,,,DefReb,,B. Lopez,
+250,3,3:25.0,80,83,DEN,BRK,10,away,LU,,2,miss2,0,S. Kilpatrick,
+251,3,3:24.0,80,83,DEN,BRK,1,home,DefReb,,,DefReb,,N. Jokić,
+252,3,3:15.0,82,83,DEN,BRK,9,home,LU,assist,2,make2,2,K. Faried,E. Mudiay
+253,3,2:55.0,82,83,DEN,BRK,20,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Jokić,B. Lopez
+254,3,2:55.0,82,83,DEN,BRK,0,home,Sub,,,,,D. Arthur,K. Faried
+255,3,2:55.0,82,83,DEN,BRK,0,home,Sub,,,,,J. Lauvergne,N. Jokić
+256,3,2:52.0,82,83,DEN,BRK,3,home,KickBallViolation,,,KickBallViolation,,D. Arthur,
+257,3,2:46.0,82,83,DEN,BRK,6,away,D3SecTech,,,,,,
+258,3,2:46.0,82,84,DEN,BRK,0,away,FreeThrow,,,make1,1,M. Brown makes technical free throw,
+259,3,2:36.0,82,84,DEN,BRK,10,away,LU,,0,miss2,0,B. Lopez,
+260,3,2:35.0,82,84,DEN,BRK,1,home,DefReb,,,DefReb,,J. Lauvergne,
+261,3,2:31.0,82,84,DEN,BRK,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Young,G. Harris
+262,3,2:31.0,83,84,DEN,BRK,0,home,FreeThrow,,,make1,1,G. Harris,
+263,3,2:31.0,83,84,DEN,BRK,0,home,Sub,,,,,D. Augustin,E. Mudiay
+264,3,2:31.0,84,84,DEN,BRK,0,home,FreeThrow,,,make1,1,G. Harris,
+265,3,2:15.0,84,86,DEN,BRK,16,away,DK,assist,0,make2,2,B. Lopez,M. Brown
+266,3,1:56.0,84,86,DEN,BRK,19,home,LostBall,steal,,turnover,,J. Lauvergne,T. Young
+267,3,1:51.0,84,86,DEN,BRK,5,away,LU,,2,miss2,0,S. Kilpatrick,
+268,3,1:50.0,84,86,DEN,BRK,1,home,DefReb,,,DefReb,,D. Augustin,
+269,3,1:44.0,84,86,DEN,BRK,6,home,JS,,25,miss3,0,W. Barton,
+270,3,1:43.0,84,86,DEN,BRK,1,away,DefReb,,,DefReb,,T. Young,
+271,3,1:30.0,84,86,DEN,BRK,13,away,BadPass,steal,,turnover,,M. Brown,G. Harris
+272,3,1:27.0,86,86,DEN,BRK,3,home,DK,,0,make2,2,G. Harris,
+273,3,1:27.0,86,86,DEN,BRK,0,away,Timeout,,,,,,
+274,3,1:14.0,86,86,DEN,BRK,13,away,BadPass,steal,,turnover,,B. Lopez,W. Barton
+275,3,1:08.0,88,86,DEN,BRK,6,home,LU,,1,make2,2,W. Barton,
+276,3,0:50.0,88,86,DEN,BRK,18,away,HS,,4,miss2,0,T. Young,
+277,3,0:49.0,88,86,DEN,BRK,1,away,OffReb,,,OffReb,,B. Lopez,
+278,3,0:48.0,88,86,DEN,BRK,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Arthur,B. Lopez
+279,3,0:48.0,88,87,DEN,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
+280,3,0:48.0,88,88,DEN,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
+281,3,0:39.0,88,88,DEN,BRK,9,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Lauvergne,S. Larkin
+282,3,0:39.0,88,88,DEN,BRK,0,home,OffensiveFoul,,,turnover,,J. Lauvergne,
+283,3,0:39.0,88,88,DEN,BRK,0,away,Sub,,,,,T. Robinson,T. Young
+284,3,0:28.0,88,88,DEN,BRK,11,away,JS,,23,miss3,0,S. Kilpatrick,
+285,3,0:27.0,88,88,DEN,BRK,1,home,DefReb,,,DefReb,,D. Arthur,
+286,3,0:24.0,90,88,DEN,BRK,3,home,LU,assist,1,make2,2,G. Harris,D. Arthur
+287,3,0:00.0,90,90,DEN,BRK,24,away,JS,assist,17,make2,2,M. Brown,S. Larkin
+288,4,11:41.0,90,90,DEN,BRK,19,away,BadPass,,,turnover,,T. Robinson,
+289,4,11:22.0,90,90,DEN,BRK,19,home,JS,,24,miss3,0,J. Lauvergne,
+290,4,11:20.0,90,90,DEN,BRK,2,home,OffReb,,,OffReb,,J. Sampson,
+291,4,11:16.0,92,90,DEN,BRK,4,home,DK,assist,0,make2,2,J. Sampson,D. Arthur
+292,4,10:59.0,92,92,DEN,BRK,17,away,DK,assist,0,make2,2,C. McCullough,S. Larkin
+293,4,10:39.0,92,92,DEN,BRK,20,home,LU,,1,miss2,0,W. Barton,
+294,4,10:38.0,92,92,DEN,BRK,1,away,DefReb,,,DefReb,,T. Robinson,
+295,4,10:24.0,92,95,DEN,BRK,14,away,JS,assist,25,make3,3,M. Brown,S. Larkin
+296,4,10:01.0,92,95,DEN,BRK,23,home,LU,,2,miss2,0,W. Barton,
+297,4,10:00.0,92,95,DEN,BRK,1,home,OffReb,,,OffReb,,J. Sampson,
+298,4,9:57.0,92,95,DEN,BRK,3,home,LU,block,2,miss2,0,J. Sampson,C. McCullough
+299,4,9:55.0,92,95,DEN,BRK,2,away,DefReb,,,DefReb,,M. Brown,
+300,4,9:49.0,92,97,DEN,BRK,6,away,LU,assist,2,make2,2,S. Kilpatrick,M. Brown
+301,4,9:32.0,92,97,DEN,BRK,17,home,JS,,25,miss3,0,W. Barton,
+302,4,9:31.0,92,97,DEN,BRK,1,away,DefReb,,,DefReb,,T. Robinson,
+303,4,9:17.0,92,97,DEN,BRK,14,away,JS,,5,miss2,0,T. Robinson,
+304,4,9:16.0,92,97,DEN,BRK,1,home,DefReb,,,DefReb,,J. Lauvergne,
+305,4,9:12.0,92,97,DEN,BRK,4,home,LU,block,1,miss2,0,D. Augustin,C. McCullough
+306,4,9:11.0,92,97,DEN,BRK,1,home,OffReb,,,OffReb,,Team,
+307,4,8:57.0,94,97,DEN,BRK,14,home,HS,,4,make2,2,J. Lauvergne,
+308,4,8:47.0,94,97,DEN,BRK,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Arthur,S. Larkin
+309,4,8:47.0,94,97,DEN,BRK,0,away,Timeout,,,,,,
+310,4,8:47.0,94,98,DEN,BRK,0,away,FreeThrow,,,make1,1,S. Larkin,
+311,4,8:47.0,94,99,DEN,BRK,0,away,FreeThrow,,,make1,1,S. Larkin,
+312,4,8:27.0,96,99,DEN,BRK,20,home,JS,assist,11,make2,2,J. Sampson,W. Barton
+313,4,8:06.0,96,99,DEN,BRK,21,away,LU,,2,miss2,0,M. Brown,
+314,4,8:05.0,96,99,DEN,BRK,1,home,DefReb,,,DefReb,,J. Sampson,
+315,4,7:58.0,96,99,DEN,BRK,7,home,JS,,3,miss2,0,W. Barton,
+316,4,7:57.0,96,99,DEN,BRK,1,home,OffReb,,,OffReb,,J. Lauvergne,
+317,4,7:56.0,98,99,DEN,BRK,1,home,DK,,0,make2,2,J. Lauvergne,
+318,4,7:53.0,98,99,DEN,BRK,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Arthur,S. Kilpatrick
+319,4,7:53.0,98,100,DEN,BRK,0,away,FreeThrow,,,make1,1,S. Kilpatrick,
+320,4,7:53.0,98,101,DEN,BRK,0,away,FreeThrow,,,make1,1,S. Kilpatrick,
+321,4,7:28.0,98,101,DEN,BRK,25,home,JS,,22,miss2,0,J. Lauvergne,
+322,4,7:27.0,98,101,DEN,BRK,1,away,DefReb,,,DefReb,,M. Brown,
+323,4,7:08.0,98,101,DEN,BRK,19,away,JS,,22,miss3,0,S. Kilpatrick,
+324,4,7:07.0,98,101,DEN,BRK,1,home,DefReb,,,DefReb,,D. Arthur,
+325,4,6:58.0,98,101,DEN,BRK,9,home,JS,,4,miss2,0,W. Barton,
+326,4,6:58.0,98,101,DEN,BRK,0,home,OffReb,,,OffReb,,J. Sampson,
+327,4,6:58.0,98,101,DEN,BRK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. McCullough,J. Sampson
+328,4,6:58.0,98,101,DEN,BRK,0,home,FreeThrow,,,make1,0,J. Sampson,
+329,4,6:58.0,98,101,DEN,BRK,0,home,OffReb,,,OffReb,,Team,
+330,4,6:58.0,98,101,DEN,BRK,0,away,Sub,,,,,T. Young,C. McCullough
+331,4,6:58.0,99,101,DEN,BRK,0,home,FreeThrow,,,make1,1,J. Sampson,
+332,4,6:46.0,99,101,DEN,BRK,12,away,JS,,21,miss2,0,S. Kilpatrick,
+333,4,6:45.0,99,101,DEN,BRK,1,away,OffReb,,,OffReb,,M. Brown,
+334,4,6:42.0,99,101,DEN,BRK,3,away,JS,,15,miss2,0,M. Brown,
+335,4,6:41.0,99,101,DEN,BRK,1,home,DefReb,,,DefReb,,D. Arthur,
+336,4,6:28.0,102,101,DEN,BRK,13,home,JS,assist,24,make3,3,D. Augustin,J. Sampson
+337,4,6:10.0,102,101,DEN,BRK,18,away,LU,block,2,miss2,0,T. Robinson,D. Arthur
+338,4,6:09.0,102,101,DEN,BRK,1,away,OffReb,,,OffReb,,S. Larkin,
+339,4,6:01.0,102,101,DEN,BRK,8,away,HS,,9,miss2,0,T. Young,
+340,4,6:01.0,102,101,DEN,BRK,0,away,OffReb,,,OffReb,,Team,
+341,4,6:01.0,102,101,DEN,BRK,0,away,ShotClockViolation,,,turnover,,Team,
+342,4,6:01.0,102,101,DEN,BRK,0,away,Sub,,,,,B. Lopez,T. Robinson
+343,4,6:01.0,102,101,DEN,BRK,0,away,Sub,,,,,B. Bogdanović,S. Kilpatrick
+344,4,5:50.0,102,101,DEN,BRK,11,home,LU,block,1,miss2,0,D. Augustin,T. Young
+345,4,5:50.0,102,101,DEN,BRK,0,away,DefReb,,,DefReb,,T. Young,
+346,4,5:50.0,102,101,DEN,BRK,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lauvergne,T. Young
+347,4,5:50.0,102,101,DEN,BRK,0,home,Timeout,,,,,,
+348,4,5:50.0,102,101,DEN,BRK,0,home,Sub,,,,,N. Jokić,W. Barton
+349,4,5:50.0,102,101,DEN,BRK,0,home,Sub,,,,,G. Harris,J. Lauvergne
+350,4,5:50.0,102,101,DEN,BRK,0,home,Sub,,,,,E. Mudiay,D. Augustin
+351,4,5:37.0,102,101,DEN,BRK,13,away,JS,block,4,miss2,0,T. Young,G. Harris
+352,4,5:35.0,102,101,DEN,BRK,2,away,OffReb,,,OffReb,,T. Young,
+353,4,5:35.0,102,101,DEN,BRK,0,away,LU,block,1,miss2,0,T. Young,N. Jokić
+354,4,5:33.0,102,101,DEN,BRK,2,home,DefReb,,,DefReb,,G. Harris,
+355,4,5:16.0,102,101,DEN,BRK,17,home,Traveling,,,turnover,,J. Sampson,
+356,4,5:01.0,102,101,DEN,BRK,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Arthur,B. Lopez
+357,4,4:52.0,102,103,DEN,BRK,9,away,JS,,16,make2,2,S. Larkin,
+358,4,4:38.0,102,103,DEN,BRK,14,home,LostBall,,,turnover,,G. Harris,
+359,4,4:26.0,102,103,DEN,BRK,12,home,ChargeFoul,DrawnBy,,ChargeFoul,,B. Lopez,N. Jokić
+360,4,4:26.0,102,103,DEN,BRK,0,away,OffensiveFoul,,,turnover,,B. Lopez,
+361,4,4:26.0,102,103,DEN,BRK,0,home,Sub,,,,,K. Faried,D. Arthur
+362,4,4:08.0,102,103,DEN,BRK,18,home,JS,,26,miss3,0,G. Harris,
+363,4,4:07.0,102,103,DEN,BRK,1,away,DefReb,,,DefReb,,S. Larkin,
+364,4,3:58.0,102,103,DEN,BRK,9,away,JS,,26,miss3,0,B. Bogdanović,
+365,4,3:57.0,102,103,DEN,BRK,1,away,OffReb,,,OffReb,,S. Larkin,
+366,4,3:56.0,102,103,DEN,BRK,1,away,OutOfBounds,,,turnover,,S. Larkin,
+367,4,3:56.0,102,103,DEN,BRK,0,home,Sub,,,,,W. Barton,J. Sampson
+368,4,3:39.0,104,103,DEN,BRK,17,home,JS,,4,make2,2,N. Jokić,
+369,4,3:17.0,104,103,DEN,BRK,22,away,LU,,2,miss2,0,B. Lopez,
+370,4,3:16.0,104,103,DEN,BRK,1,home,DefReb,,,DefReb,,W. Barton,
+371,4,3:12.0,106,103,DEN,BRK,4,home,LU,,1,make2,2,W. Barton,
+372,4,3:12.0,106,103,DEN,BRK,0,away,Timeout,,,,,,
+373,4,2:58.0,106,103,DEN,BRK,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,B. Lopez
+374,4,2:58.0,106,104,DEN,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
+375,4,2:58.0,106,104,DEN,BRK,0,away,FreeThrow,,,make1,0,B. Lopez,
+376,4,2:57.0,106,104,DEN,BRK,1,home,DefReb,,,DefReb,,K. Faried,
+377,4,2:44.0,108,104,DEN,BRK,13,home,HS,assist,3,make2,2,N. Jokić,E. Mudiay
+378,4,2:25.0,108,106,DEN,BRK,19,away,LU,assist,2,make2,2,T. Young,M. Brown
+379,4,2:16.0,108,106,DEN,BRK,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Young,E. Mudiay
+380,4,2:12.0,108,106,DEN,BRK,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Larkin,E. Mudiay
+381,4,2:12.0,108,106,DEN,BRK,0,home,FreeThrow,,,make1,0,E. Mudiay,
+382,4,2:12.0,108,106,DEN,BRK,0,home,OffReb,,,OffReb,,Team,
+383,4,2:12.0,109,106,DEN,BRK,0,home,FreeThrow,,,make1,1,E. Mudiay,
+384,4,1:58.0,109,106,DEN,BRK,14,away,JS,,8,miss2,0,S. Larkin,
+385,4,1:57.0,109,106,DEN,BRK,1,home,DefReb,,,DefReb,,N. Jokić,
+386,4,1:49.0,109,106,DEN,BRK,8,home,JS,,23,miss3,0,G. Harris,
+387,4,1:47.0,109,106,DEN,BRK,2,away,DefReb,,,DefReb,,T. Young,
+388,4,1:36.0,109,108,DEN,BRK,11,away,JS,assist,14,make2,2,S. Larkin,B. Lopez
+389,4,1:16.0,109,108,DEN,BRK,20,home,JS,,24,miss3,0,W. Barton,
+390,4,1:16.0,109,108,DEN,BRK,0,away,DefReb,,,DefReb,,M. Brown,
+391,4,0:59.0,109,108,DEN,BRK,17,away,HS,,4,miss2,0,B. Lopez,
+392,4,0:59.0,109,108,DEN,BRK,0,home,DefReb,,,DefReb,,K. Faried,
+393,4,0:47.0,109,108,DEN,BRK,12,home,BadPass,steal,,turnover,,W. Barton,B. Lopez
+394,4,0:43.0,109,110,DEN,BRK,4,away,LU,assist,0,make2,2,M. Brown,S. Larkin
+395,4,0:43.0,109,110,DEN,BRK,0,home,Timeout,,,,,,
+396,4,0:43.0,109,110,DEN,BRK,0,home,Sub,,,,,D. Arthur,K. Faried
+397,4,0:33.0,109,110,DEN,BRK,10,home,LostBall,,,turnover,,G. Harris,
+398,4,0:13.0,109,110,DEN,BRK,20,away,LU,,1,miss2,0,T. Young,
+399,4,0:12.0,109,110,DEN,BRK,1,home,DefReb,,,DefReb,,N. Jokić,
+400,4,0:08.0,109,110,DEN,BRK,4,home,Timeout,,,,,,
+401,4,0:05.0,109,110,DEN,BRK,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Larkin,E. Mudiay
+402,4,0:05.0,111,110,DEN,BRK,0,home,LU,,3,make2,2,E. Mudiay,
+403,4,0:05.0,112,110,DEN,BRK,0,home,FreeThrow,,,make1,1,E. Mudiay,
+404,4,0:05.0,112,110,DEN,BRK,0,away,Timeout,,,,,,
+405,4,0:05.0,112,110,DEN,BRK,0,home,Sub,,,,,J. Sampson,W. Barton
+406,4,0:03.0,112,110,DEN,BRK,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Mudiay,B. Bogdanović
+407,4,0:03.0,112,110,DEN,BRK,0,away,FreeThrow,,,make1,0,B. Bogdanović,
+408,4,0:03.0,112,110,DEN,BRK,0,away,OffReb,,,OffReb,,Team,
+409,4,0:03.0,112,111,DEN,BRK,0,away,FreeThrow,,,make1,1,B. Bogdanović,
+410,4,0:03.0,112,112,DEN,BRK,0,away,FreeThrow,,,make1,1,B. Bogdanović,
+411,4,0:03.0,112,112,DEN,BRK,0,home,Timeout,,,,,,
+412,4,0:03.0,112,112,DEN,BRK,0,away,Sub,,,,,W. Ellington,B. Lopez
+413,4,0:03.0,112,112,DEN,BRK,0,home,Sub,,,,,W. Barton,J. Sampson
+414,4,0:02.0,112,112,DEN,BRK,1,home,JS,,27,miss3,0,G. Harris,
+415,4,0:00.0,112,112,DEN,BRK,2,home,OffReb,,,OffReb,,Team,
+416,1OT,4:43.0,112,112,DEN,BRK,437,away,JS,,23,miss3,0,M. Brown,
+417,1OT,4:42.0,112,112,DEN,BRK,1,away,OffReb,,,OffReb,,M. Brown,
+418,1OT,4:37.0,112,114,DEN,BRK,5,away,JS,,10,make2,2,M. Brown,
+419,1OT,4:28.0,114,114,DEN,BRK,9,home,DK,assist,0,make2,2,G. Harris,N. Jokić
+420,1OT,4:04.0,114,114,DEN,BRK,24,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,B. Lopez
+421,1OT,4:04.0,114,114,DEN,BRK,0,away,FreeThrow,,,make1,0,B. Lopez,
+422,1OT,4:04.0,114,114,DEN,BRK,0,away,OffReb,,,OffReb,,Team,
+423,1OT,4:04.0,114,115,DEN,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
+424,1OT,3:49.0,114,115,DEN,BRK,15,home,HS,,3,miss2,0,N. Jokić,
+425,1OT,3:48.0,114,115,DEN,BRK,1,home,OffReb,,,OffReb,,E. Mudiay,
+426,1OT,3:44.0,116,115,DEN,BRK,4,home,JS,,16,make2,2,E. Mudiay,
+427,1OT,3:25.0,116,117,DEN,BRK,19,away,LU,assist,2,make2,2,B. Bogdanović,B. Lopez
+428,1OT,2:57.0,116,117,DEN,BRK,28,home,JS,,6,miss2,0,N. Jokić,
+429,1OT,2:56.0,116,117,DEN,BRK,1,home,OffReb,,,OffReb,,E. Mudiay,
+430,1OT,2:56.0,116,117,DEN,BRK,0,home,LU,,2,miss2,0,E. Mudiay,
+431,1OT,2:55.0,116,117,DEN,BRK,1,home,OffReb,,,OffReb,,D. Arthur,
+432,1OT,2:51.0,116,117,DEN,BRK,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Lopez,N. Jokić
+433,1OT,2:48.0,116,117,DEN,BRK,3,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,E. Mudiay,S. Larkin
+434,1OT,2:48.0,116,117,DEN,BRK,0,home,OffensiveFoul,,,turnover,,E. Mudiay,
+435,1OT,2:38.0,116,119,DEN,BRK,10,away,DK,assist,0,make2,2,M. Brown,S. Larkin
+436,1OT,2:38.0,116,119,DEN,BRK,0,home,Timeout,,,,,,
+437,1OT,2:16.0,116,119,DEN,BRK,22,home,LU,,2,miss2,0,W. Barton,
+438,1OT,2:15.0,116,119,DEN,BRK,1,away,DefReb,,,DefReb,,M. Brown,
+439,1OT,1:53.0,116,119,DEN,BRK,22,away,LU,,1,miss2,0,T. Young,
+440,1OT,1:53.0,116,119,DEN,BRK,0,home,DefReb,,,DefReb,,W. Barton,
+441,1OT,1:40.0,116,119,DEN,BRK,13,home,JS,,24,miss3,0,W. Barton,
+442,1OT,1:39.0,116,119,DEN,BRK,1,away,DefReb,,,DefReb,,M. Brown,
+443,1OT,1:15.0,116,119,DEN,BRK,24,away,JS,,3,miss2,0,B. Lopez,
+444,1OT,1:15.0,116,119,DEN,BRK,0,home,DefReb,,,DefReb,,N. Jokić,
+445,1OT,1:02.0,118,119,DEN,BRK,13,home,LU,,1,make2,2,E. Mudiay,
+446,1OT,1:02.0,118,119,DEN,BRK,0,away,Timeout,,,,,,
+447,1OT,0:45.0,118,119,DEN,BRK,17,away,JS,,3,miss2,0,T. Young,
+448,1OT,0:45.0,118,119,DEN,BRK,0,home,DefReb,,,DefReb,,N. Jokić,
+449,1OT,0:40.0,118,119,DEN,BRK,5,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,S. Larkin,E. Mudiay
+450,1OT,0:40.0,119,119,DEN,BRK,0,home,FreeThrow,,,make1,1,E. Mudiay,
+451,1OT,0:40.0,120,119,DEN,BRK,0,home,FreeThrow,,,make1,1,E. Mudiay,
+452,1OT,0:40.0,120,119,DEN,BRK,0,away,Timeout,,,,,,
+453,1OT,0:32.0,120,119,DEN,BRK,8,away,LostBall,steal,,turnover,,B. Lopez,D. Arthur
+454,1OT,0:06.0,120,119,DEN,BRK,26,home,JS,,21,miss2,0,W. Barton,
+455,1OT,0:06.0,120,119,DEN,BRK,0,away,DefReb,,,DefReb,,Team,
+456,1OT,0:06.0,120,119,DEN,BRK,0,away,Timeout,,,,,,
+457,1OT,0:06.0,120,119,DEN,BRK,0,home,Sub,,,,,J. Sampson,W. Barton
+458,1OT,0:00.0,120,119,DEN,BRK,6,away,LU,,1,miss2,0,S. Larkin,
+459,1OT,0:00.0,120,119,DEN,BRK,0,away,OffReb,,,OffReb,,B. Lopez,
+460,1OT,0:00.0,120,121,DEN,BRK,0,away,LU,,1,make2,2,B. Lopez,
+461,1OT,0:00.0,120,121,DEN,BRK,0,home,Timeout,,,,,,
+462,1OT,0:00.0,120,121,DEN,BRK,0,home,Sub,,,,,M. Miller,J. Sampson
+463,1OT,0:00.0,120,121,DEN,BRK,0,home,HS,,10,miss2,0,N. Jokić,
+464,1OT,0:00.0,120,121,DEN,BRK,0,home,OffReb,,,OffReb,,Team,

@@ -1,0 +1,418 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:48.0,0,0,NOP,LAL,12,home,JS,,8,miss2,0,A. Davis,
+1,1,11:47.0,0,0,NOP,LAL,1,home,OffReb,,,OffReb,,E. Moore,
+2,1,11:38.0,0,0,NOP,LAL,9,home,JS,block,4,miss2,0,T. Frazier,J. Randle
+3,1,11:34.0,0,0,NOP,LAL,4,away,DefReb,,,DefReb,,J. Randle,
+4,1,11:25.0,0,0,NOP,LAL,9,away,JS,,26,miss3,0,J. Randle,
+5,1,11:25.0,0,0,NOP,LAL,0,home,DefReb,,,DefReb,,Ö. Aşık,
+6,1,11:15.0,2,0,NOP,LAL,10,home,JS,assist,15,make2,2,A. Davis,T. Frazier
+7,1,10:59.0,2,0,NOP,LAL,16,away,OffensiveFoul,,,turnover,,T. Mozgov,
+8,1,10:59.0,2,0,NOP,LAL,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Mozgov,D. Cunningham
+9,1,10:38.0,2,0,NOP,LAL,21,home,JS,,18,miss2,0,A. Davis,
+10,1,10:37.0,2,0,NOP,LAL,1,away,DefReb,,,DefReb,,L. Deng,
+11,1,10:24.0,2,2,NOP,LAL,13,away,JS,assist,18,make2,2,J. Randle,L. Deng
+12,1,9:59.0,4,2,NOP,LAL,25,home,LU,assist,2,make2,2,Ö. Aşık,T. Frazier
+13,1,9:43.0,4,5,NOP,LAL,16,away,JS,assist,23,make3,3,N. Young,D. Russell
+14,1,9:24.0,4,5,NOP,LAL,19,home,LU,,2,miss2,0,E. Moore,
+15,1,9:22.0,4,5,NOP,LAL,2,home,OffReb,,,OffReb,,E. Moore,
+16,1,9:22.0,6,5,NOP,LAL,0,home,LU,,5,make2,2,E. Moore,
+17,1,9:09.0,6,7,NOP,LAL,13,away,JS,assist,9,make2,2,J. Randle,L. Deng
+18,1,8:54.0,9,7,NOP,LAL,15,home,JS,assist,23,make3,3,E. Moore,T. Frazier
+19,1,8:40.0,9,7,NOP,LAL,14,away,JS,,20,miss2,0,J. Randle,
+20,1,8:39.0,9,7,NOP,LAL,1,home,DefReb,,,DefReb,,D. Cunningham,
+21,1,8:33.0,9,7,NOP,LAL,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Randle,A. Davis
+22,1,8:33.0,9,7,NOP,LAL,0,home,FreeThrow,,,make1,0,A. Davis,
+23,1,8:33.0,9,7,NOP,LAL,0,home,OffReb,,,OffReb,,Team,
+24,1,8:33.0,9,7,NOP,LAL,0,home,FreeThrow,,,make1,0,A. Davis,
+25,1,8:32.0,9,7,NOP,LAL,1,away,DefReb,,,DefReb,,J. Randle,
+26,1,8:23.0,9,7,NOP,LAL,9,away,LostBall,,,turnover,,J. Randle,
+27,1,8:13.0,9,7,NOP,LAL,10,home,JS,,11,miss2,0,A. Davis,
+28,1,8:13.0,9,7,NOP,LAL,0,away,DefReb,,,DefReb,,J. Randle,
+29,1,7:59.0,9,9,NOP,LAL,14,away,JS,,13,make2,2,D. Russell,
+30,1,7:48.0,11,9,NOP,LAL,11,home,JS,,13,make2,2,E. Moore,
+31,1,7:31.0,11,9,NOP,LAL,17,away,JS,,14,miss2,0,J. Randle,
+32,1,7:30.0,11,9,NOP,LAL,1,away,OffReb,,,OffReb,,T. Mozgov,
+33,1,7:24.0,11,9,NOP,LAL,6,away,JS,,13,miss2,0,N. Young,
+34,1,7:24.0,11,9,NOP,LAL,0,home,DefReb,,,DefReb,,T. Frazier,
+35,1,7:17.0,11,9,NOP,LAL,7,home,JS,,24,miss3,0,E. Moore,
+36,1,7:15.0,11,9,NOP,LAL,2,away,DefReb,,,DefReb,,J. Randle,
+37,1,6:57.0,11,11,NOP,LAL,18,away,JS,assist,12,make2,2,T. Mozgov,D. Russell
+38,1,6:38.0,11,11,NOP,LAL,19,home,LU,,2,miss2,0,D. Cunningham,
+39,1,6:36.0,11,11,NOP,LAL,2,home,OffReb,,,OffReb,,Ö. Aşık,
+40,1,6:36.0,11,11,NOP,LAL,0,home,LU,,2,miss2,0,Ö. Aşık,
+41,1,6:34.0,11,11,NOP,LAL,2,home,OffReb,,,OffReb,,A. Davis,
+42,1,6:34.0,13,11,NOP,LAL,0,home,LU,,3,make2,2,A. Davis,
+43,1,6:25.0,13,11,NOP,LAL,9,away,Timeout,,,,,,
+44,1,6:20.0,13,11,NOP,LAL,5,away,JS,,16,miss2,0,L. Deng,
+45,1,6:18.0,13,11,NOP,LAL,2,home,DefReb,,,DefReb,,T. Frazier,
+46,1,6:10.0,15,11,NOP,LAL,8,home,JS,,17,make2,2,T. Frazier,
+47,1,5:50.0,15,14,NOP,LAL,20,away,JS,assist,26,make3,3,N. Young,D. Russell
+48,1,5:28.0,17,14,NOP,LAL,22,home,JS,assist,14,make2,2,A. Davis,T. Frazier
+49,1,5:19.0,17,14,NOP,LAL,9,away,JS,,25,miss3,0,D. Russell,
+50,1,5:17.0,17,14,NOP,LAL,2,home,DefReb,,,DefReb,,D. Cunningham,
+51,1,5:08.0,17,14,NOP,LAL,9,home,LU,,2,miss2,0,A. Davis,
+52,1,5:07.0,17,14,NOP,LAL,1,away,DefReb,,,DefReb,,J. Randle,
+53,1,5:06.0,17,14,NOP,LAL,1,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Russell,T. Frazier
+54,1,5:06.0,17,14,NOP,LAL,0,away,OffensiveFoul,,,turnover,,D. Russell,
+55,1,5:06.0,17,14,NOP,LAL,0,away,Sub,,,,,B. Ingram,L. Deng
+56,1,4:53.0,17,14,NOP,LAL,13,home,LU,block,2,miss2,0,Ö. Aşık,T. Mozgov
+57,1,4:51.0,17,14,NOP,LAL,2,away,DefReb,,,DefReb,,J. Randle,
+58,1,4:43.0,17,14,NOP,LAL,8,away,JS,,6,miss2,0,J. Randle,
+59,1,4:42.0,17,14,NOP,LAL,1,home,DefReb,,,DefReb,,A. Davis,
+60,1,4:33.0,20,14,NOP,LAL,9,home,JS,assist,23,make3,3,D. Cunningham,T. Frazier
+61,1,4:19.0,20,14,NOP,LAL,14,away,Sub,,,,,T. Black,T. Mozgov
+62,1,4:19.0,20,14,NOP,LAL,0,away,Sub,,,,,J. Clarkson,N. Young
+63,1,4:19.0,20,14,NOP,LAL,0,home,Sub,,,,,A. Ajinça,Ö. Aşık
+64,1,4:19.0,20,14,NOP,LAL,0,away,LostBall,steal,,turnover,,D. Russell,E. Moore
+65,1,4:16.0,20,14,NOP,LAL,3,away,Sub,,,,,L. Williams,D. Russell
+66,1,4:06.0,20,14,NOP,LAL,10,home,JS,,25,miss3,0,A. Davis,
+67,1,4:06.0,20,14,NOP,LAL,0,away,DefReb,,,DefReb,,Team,
+68,1,3:58.0,20,14,NOP,LAL,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Frazier,B. Ingram
+69,1,3:41.0,20,16,NOP,LAL,17,away,HS,assist,9,make2,2,T. Black,B. Ingram
+70,1,3:33.0,20,16,NOP,LAL,8,home,BadPass,steal,,turnover,,T. Frazier,B. Ingram
+71,1,3:27.0,20,16,NOP,LAL,6,away,LU,block,2,miss2,0,J. Randle,A. Davis
+72,1,3:25.0,20,16,NOP,LAL,2,home,DefReb,,,DefReb,,A. Ajinça,
+73,1,3:17.0,20,16,NOP,LAL,8,home,JS,,19,miss2,0,E. Moore,
+74,1,3:16.0,20,16,NOP,LAL,1,home,OffReb,,,OffReb,,A. Ajinça,
+75,1,3:15.0,20,16,NOP,LAL,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,A. Davis
+76,1,3:15.0,21,16,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+77,1,3:15.0,21,16,NOP,LAL,0,home,Sub,,,,,B. Hield,E. Moore
+78,1,3:15.0,21,16,NOP,LAL,0,away,Sub,,,,,L. Nance,J. Randle
+79,1,3:15.0,22,16,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+80,1,2:56.0,22,18,NOP,LAL,19,away,JS,,9,make2,2,B. Ingram,
+81,1,2:47.0,22,18,NOP,LAL,9,home,LU,block,2,miss2,0,T. Frazier,T. Black
+82,1,2:45.0,22,18,NOP,LAL,2,away,DefReb,,,DefReb,,T. Black,
+83,1,2:39.0,22,20,NOP,LAL,6,away,LU,assist,3,make2,2,L. Nance,L. Williams
+84,1,2:28.0,22,20,NOP,LAL,11,home,Timeout,,,,,,
+85,1,2:28.0,22,20,NOP,LAL,0,home,Sub,,,,,L. Galloway,D. Cunningham
+86,1,2:28.0,22,20,NOP,LAL,0,home,Sub,,,,,S. Hill,T. Frazier
+87,1,2:23.0,22,20,NOP,LAL,5,home,JS,,10,miss2,0,A. Davis,
+88,1,2:21.0,22,20,NOP,LAL,2,away,DefReb,,,DefReb,,T. Black,
+89,1,2:00.0,22,22,NOP,LAL,21,away,JS,,15,make2,2,J. Clarkson,
+90,1,1:45.0,22,22,NOP,LAL,15,home,JS,,15,miss2,0,L. Galloway,
+91,1,1:44.0,22,22,NOP,LAL,1,away,DefReb,,,DefReb,,L. Nance,
+92,1,1:31.0,22,25,NOP,LAL,13,away,JS,assist,27,make3,3,J. Clarkson,T. Black
+93,1,1:19.0,22,25,NOP,LAL,12,home,JS,,22,miss3,0,L. Galloway,
+94,1,1:18.0,22,25,NOP,LAL,1,away,DefReb,,,DefReb,,J. Clarkson,
+95,1,1:11.0,22,27,NOP,LAL,7,away,JS,,5,make2,2,J. Clarkson,
+96,1,0:55.0,24,27,NOP,LAL,16,home,JS,assist,19,make2,2,A. Ajinça,L. Galloway
+97,1,0:46.0,24,27,NOP,LAL,9,away,JS,,16,miss2,0,L. Williams,
+98,1,0:45.0,24,27,NOP,LAL,1,home,DefReb,,,DefReb,,A. Davis,
+99,1,0:34.0,26,27,NOP,LAL,11,home,JS,,15,make2,2,B. Hield,
+100,1,0:16.0,26,27,NOP,LAL,18,away,JS,,13,miss2,0,B. Ingram,
+101,1,0:15.0,26,27,NOP,LAL,1,home,DefReb,,,DefReb,,A. Ajinça,
+102,1,0:08.0,26,27,NOP,LAL,7,home,BadPass,steal,,turnover,,S. Hill,L. Williams
+103,1,0:04.0,26,29,NOP,LAL,4,away,LU,assist,1,make2,2,B. Ingram,L. Williams
+104,1,0:04.0,26,29,NOP,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Ajinça,B. Ingram
+105,1,0:04.0,26,29,NOP,LAL,0,home,Sub,,,,,T. Jones,A. Davis
+106,1,0:04.0,26,29,NOP,LAL,0,home,Sub,,,,,A. Goodwin,B. Hield
+107,1,0:04.0,26,30,NOP,LAL,0,away,FreeThrow,,,make1,1,B. Ingram,
+108,1,0:00.0,26,30,NOP,LAL,4,home,JS,,21,miss2,0,S. Hill,
+109,1,0:00.0,26,30,NOP,LAL,0,home,OffReb,,,OffReb,,Team,
+110,2,11:46.0,26,30,NOP,LAL,14,away,JS,block,10,miss2,0,J. Clarkson,A. Ajinça
+111,2,11:44.0,26,30,NOP,LAL,2,home,DefReb,,,DefReb,,A. Ajinça,
+112,2,11:30.0,26,30,NOP,LAL,14,home,JS,,24,miss3,0,L. Galloway,
+113,2,11:30.0,26,30,NOP,LAL,0,away,DefReb,,,DefReb,,T. Black,
+114,2,11:17.0,26,30,NOP,LAL,13,away,JS,block,3,miss2,0,B. Ingram,S. Hill
+115,2,11:16.0,26,30,NOP,LAL,1,home,OffReb,,,OffReb,,L. Galloway,
+116,2,11:00.0,28,30,NOP,LAL,16,home,JS,,11,make2,2,A. Ajinça,
+117,2,10:40.0,28,30,NOP,LAL,20,away,BadPass,,,turnover,,J. Clarkson,
+118,2,10:26.0,28,30,NOP,LAL,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,A. Goodwin
+119,2,10:26.0,29,30,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Goodwin,
+120,2,10:26.0,30,30,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Goodwin,
+121,2,10:09.0,30,30,NOP,LAL,17,away,JS,,26,miss3,0,L. Williams,
+122,2,10:07.0,30,30,NOP,LAL,2,away,OffReb,,,OffReb,,T. Black,
+123,2,10:03.0,30,30,NOP,LAL,4,away,LU,,2,miss2,0,T. Black,
+124,2,10:03.0,30,30,NOP,LAL,0,home,DefReb,,,DefReb,,T. Jones,
+125,2,9:52.0,30,30,NOP,LAL,11,home,JS,,13,miss2,0,T. Jones,
+126,2,9:52.0,30,30,NOP,LAL,0,away,DefReb,,,DefReb,,L. Williams,
+127,2,9:43.0,30,32,NOP,LAL,9,away,JS,,9,make2,2,L. Williams,
+128,2,9:33.0,30,32,NOP,LAL,10,home,LU,,1,miss2,0,S. Hill,
+129,2,9:32.0,30,32,NOP,LAL,1,home,OffReb,,,OffReb,,A. Ajinça,
+130,2,9:27.0,30,32,NOP,LAL,5,home,LostBall,steal,,turnover,,T. Jones,L. Nance
+131,2,9:07.0,30,34,NOP,LAL,20,away,JS,assist,5,make2,2,L. Williams,J. Clarkson
+132,2,8:43.0,32,34,NOP,LAL,24,home,JS,assist,10,make2,2,T. Jones,L. Galloway
+133,2,8:35.0,32,36,NOP,LAL,8,away,LU,,1,make2,2,L. Williams,
+134,2,8:19.0,34,36,NOP,LAL,16,home,JS,assist,4,make2,2,L. Galloway,S. Hill
+135,2,8:07.0,34,39,NOP,LAL,12,away,JS,assist,26,make3,3,L. Williams,B. Ingram
+136,2,7:55.0,34,39,NOP,LAL,12,home,JS,,20,miss2,0,A. Ajinça,
+137,2,7:54.0,34,39,NOP,LAL,1,home,OffReb,,,OffReb,,L. Galloway,
+138,2,7:46.0,36,39,NOP,LAL,8,home,JS,,16,make2,2,L. Galloway,
+139,2,7:28.0,36,39,NOP,LAL,18,away,LU,,2,miss2,0,L. Williams,
+140,2,7:25.0,36,39,NOP,LAL,3,away,OffReb,,,OffReb,,L. Nance,
+141,2,7:25.0,36,41,NOP,LAL,0,away,LU,,4,make2,2,L. Nance,
+142,2,7:20.0,38,41,NOP,LAL,5,home,JS,assist,17,make2,2,A. Ajinça,S. Hill
+143,2,7:11.0,38,41,NOP,LAL,9,away,JS,,26,miss3,0,J. Clarkson,
+144,2,7:09.0,38,41,NOP,LAL,2,home,DefReb,,,DefReb,,L. Galloway,
+145,2,7:00.0,38,41,NOP,LAL,9,away,Timeout,,,,,,
+146,2,7:00.0,38,41,NOP,LAL,0,home,Sub,,,,,A. Davis,A. Ajinça
+147,2,7:00.0,38,41,NOP,LAL,0,home,Sub,,,,,B. Hield,A. Goodwin
+148,2,7:00.0,38,41,NOP,LAL,0,away,Sub,,,,,N. Young,J. Clarkson
+149,2,6:57.0,38,41,NOP,LAL,3,away,Sub,,,,,J. Randle,T. Black
+150,2,6:50.0,38,41,NOP,LAL,7,home,JS,,11,miss2,0,A. Davis,
+151,2,6:49.0,38,41,NOP,LAL,1,away,DefReb,,,DefReb,,L. Nance,
+152,2,6:34.0,38,43,NOP,LAL,15,away,JS,,5,make2,2,L. Williams,
+153,2,6:08.0,38,43,NOP,LAL,26,home,JS,,12,miss2,0,S. Hill,
+154,2,6:08.0,38,43,NOP,LAL,0,home,OffReb,,,OffReb,,T. Jones,
+155,2,6:05.0,38,43,NOP,LAL,3,home,LU,,2,miss2,0,T. Jones,
+156,2,6:04.0,38,43,NOP,LAL,1,away,DefReb,,,DefReb,,L. Nance,
+157,2,5:56.0,38,46,NOP,LAL,8,away,JS,assist,25,make3,3,N. Young,L. Williams
+158,2,5:38.0,38,46,NOP,LAL,18,home,JS,,25,miss3,0,B. Hield,
+159,2,5:38.0,38,46,NOP,LAL,0,away,DefReb,,,DefReb,,J. Randle,
+160,2,5:30.0,38,46,NOP,LAL,8,away,JS,,26,miss3,0,L. Williams,
+161,2,5:28.0,38,46,NOP,LAL,2,home,DefReb,,,DefReb,,T. Jones,
+162,2,5:28.0,38,46,NOP,LAL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Nance,A. Davis
+163,2,5:28.0,38,46,NOP,LAL,0,home,Timeout,,,,,,
+164,2,5:28.0,38,46,NOP,LAL,0,home,Sub,,,,,T. Frazier,L. Galloway
+165,2,5:28.0,38,46,NOP,LAL,0,away,Sub,,,,,D. Russell,B. Ingram
+166,2,5:28.0,38,46,NOP,LAL,0,away,Sub,,,,,L. Deng,L. Williams
+167,2,5:17.0,40,46,NOP,LAL,11,home,LU,assist,2,make2,2,A. Davis,B. Hield
+168,2,5:01.0,40,46,NOP,LAL,16,away,JS,,26,miss3,0,L. Deng,
+169,2,5:01.0,40,46,NOP,LAL,0,home,DefReb,,,DefReb,,Team,
+170,2,5:01.0,40,46,NOP,LAL,0,home,Sub,,,,,E. Moore,S. Hill
+171,2,4:48.0,40,46,NOP,LAL,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,T. Jones
+172,2,4:48.0,41,46,NOP,LAL,0,home,FreeThrow,,,make1,1,T. Jones,
+173,2,4:48.0,41,46,NOP,LAL,0,away,Sub,,,,,T. Robinson,J. Randle
+174,2,4:48.0,42,46,NOP,LAL,0,home,FreeThrow,,,make1,1,T. Jones,
+175,2,4:33.0,42,46,NOP,LAL,15,away,JS,,19,miss2,0,L. Nance,
+176,2,4:31.0,42,46,NOP,LAL,2,away,OffReb,,,OffReb,,N. Young,
+177,2,4:25.0,42,46,NOP,LAL,6,home,KickBallViolation,,,KickBallViolation,,T. Jones,
+178,2,4:15.0,42,46,NOP,LAL,10,away,JS,,16,miss2,0,L. Deng,
+179,2,4:15.0,42,46,NOP,LAL,0,home,DefReb,,,DefReb,,A. Davis,
+180,2,3:59.0,42,46,NOP,LAL,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Russell,A. Davis
+181,2,3:59.0,43,46,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+182,2,3:59.0,44,46,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+183,2,3:48.0,44,46,NOP,LAL,11,away,LU,,2,miss2,0,D. Russell,
+184,2,3:47.0,44,46,NOP,LAL,1,home,DefReb,,,DefReb,,A. Davis,
+185,2,3:39.0,46,46,NOP,LAL,8,home,LU,,2,make2,2,A. Davis,
+186,2,3:39.0,46,46,NOP,LAL,0,away,Timeout,,,,,,
+187,2,3:39.0,46,46,NOP,LAL,0,away,Sub,,,,,L. Williams,L. Nance
+188,2,3:38.0,46,46,NOP,LAL,1,away,Sub,,,,,J. Clarkson,L. Deng
+189,2,3:38.0,46,46,NOP,LAL,0,away,Sub,,,,,T. Mozgov,N. Young
+190,2,3:38.0,46,46,NOP,LAL,0,away,Sub,,,,,B. Ingram,D. Russell
+191,2,3:20.0,46,48,NOP,LAL,18,away,JS,,11,make2,2,B. Ingram,
+192,2,3:04.0,48,48,NOP,LAL,16,home,JS,,8,make2,2,A. Davis,
+193,2,2:49.0,48,48,NOP,LAL,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Hield,J. Clarkson
+194,2,2:42.0,48,50,NOP,LAL,7,away,JS,assist,9,make2,2,B. Ingram,L. Williams
+195,2,2:15.0,50,50,NOP,LAL,27,home,LU,assist,2,make2,2,A. Davis,T. Jones
+196,2,1:53.0,50,50,NOP,LAL,22,away,JS,,25,miss3,0,J. Clarkson,
+197,2,1:53.0,50,50,NOP,LAL,0,home,DefReb,,,DefReb,,E. Moore,
+198,2,1:41.0,52,50,NOP,LAL,12,home,JS,assist,8,make2,2,A. Davis,T. Frazier
+199,2,1:19.0,52,52,NOP,LAL,22,away,LU,,2,make2,2,L. Williams,
+200,2,1:19.0,52,52,NOP,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Jones,L. Williams
+201,2,1:19.0,52,53,NOP,LAL,0,away,FreeThrow,,,make1,1,L. Williams,
+202,2,1:08.0,52,53,NOP,LAL,11,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,T. Mozgov,A. Davis
+203,2,1:08.0,53,53,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+204,2,1:08.0,53,53,NOP,LAL,0,home,FreeThrow,,,make1,0,A. Davis,
+205,2,1:06.0,53,53,NOP,LAL,2,away,DefReb,,,DefReb,,T. Robinson,
+206,2,0:45.0,53,53,NOP,LAL,21,away,JS,,8,miss2,0,J. Clarkson,
+207,2,0:42.0,53,53,NOP,LAL,3,away,OffReb,,,OffReb,,T. Robinson,
+208,2,0:42.0,53,55,NOP,LAL,0,away,DK,,0,make2,2,T. Robinson,
+209,2,0:25.0,53,55,NOP,LAL,17,home,LostBall,steal,,turnover,,A. Davis,J. Clarkson
+210,2,0:22.0,53,55,NOP,LAL,3,away,Traveling,,,turnover,,J. Clarkson,
+211,2,0:00.0,56,55,NOP,LAL,22,home,JS,assist,25,make3,3,B. Hield,T. Frazier
+212,3,11:46.0,56,55,NOP,LAL,14,away,JS,,13,miss2,0,D. Russell,
+213,3,11:45.0,56,55,NOP,LAL,1,away,OffReb,,,OffReb,,L. Deng,
+214,3,11:41.0,56,55,NOP,LAL,4,away,JS,,25,miss3,0,N. Young,
+215,3,11:41.0,56,55,NOP,LAL,0,away,OffReb,,,OffReb,,Team,
+216,3,11:41.0,56,55,NOP,LAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,Ö. Aşık,T. Mozgov
+217,3,11:31.0,56,55,NOP,LAL,10,away,JS,,27,miss3,0,L. Deng,
+218,3,11:30.0,56,55,NOP,LAL,1,home,DefReb,,,DefReb,,Ö. Aşık,
+219,3,11:12.0,56,55,NOP,LAL,18,home,JS,,4,miss2,0,E. Moore,
+220,3,11:12.0,56,55,NOP,LAL,0,home,OffReb,,,OffReb,,Ö. Aşık,
+221,3,11:10.0,56,55,NOP,LAL,2,home,BadPass,steal,,turnover,,Ö. Aşık,J. Randle
+222,3,11:02.0,56,58,NOP,LAL,8,away,JS,assist,26,make3,3,D. Russell,J. Randle
+223,3,10:43.0,56,58,NOP,LAL,19,home,JS,,20,miss2,0,A. Davis,
+224,3,10:43.0,56,58,NOP,LAL,0,away,DefReb,,,DefReb,,D. Russell,
+225,3,10:34.0,56,61,NOP,LAL,9,away,JS,assist,26,make3,3,D. Russell,J. Randle
+226,3,10:14.0,58,61,NOP,LAL,20,home,JS,assist,19,make2,2,A. Davis,T. Frazier
+227,3,10:02.0,58,61,NOP,LAL,12,away,JS,,26,miss3,0,D. Russell,
+228,3,10:01.0,58,61,NOP,LAL,1,home,DefReb,,,DefReb,,D. Cunningham,
+229,3,9:50.0,58,61,NOP,LAL,11,home,LostBall,,,turnover,,T. Frazier,
+230,3,9:43.0,58,61,NOP,LAL,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,Ö. Aşık,T. Mozgov
+231,3,9:32.0,58,61,NOP,LAL,11,away,JS,,3,miss2,0,D. Russell,
+232,3,9:32.0,58,61,NOP,LAL,0,home,DefReb,,,DefReb,,A. Davis,
+233,3,9:22.0,60,61,NOP,LAL,10,home,LU,,2,make2,2,T. Frazier,
+234,3,8:53.0,60,61,NOP,LAL,29,away,JS,block,19,miss2,0,J. Randle,A. Davis
+235,3,8:52.0,60,61,NOP,LAL,1,home,DefReb,,,DefReb,,A. Davis,
+236,3,8:44.0,60,61,NOP,LAL,8,home,JS,,25,miss3,0,A. Davis,
+237,3,8:43.0,60,61,NOP,LAL,1,away,DefReb,,,DefReb,,T. Mozgov,
+238,3,8:33.0,60,63,NOP,LAL,10,away,JS,assist,14,make2,2,T. Mozgov,D. Russell
+239,3,8:14.0,62,63,NOP,LAL,19,home,LU,assist,3,make2,2,A. Davis,T. Frazier
+240,3,8:12.0,62,63,NOP,LAL,2,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Frazier,D. Russell
+241,3,8:12.0,62,63,NOP,LAL,0,home,Timeout,,,,,,
+242,3,8:12.0,62,63,NOP,LAL,0,home,Sub,,,,,T. Jones,A. Davis
+243,3,7:59.0,62,65,NOP,LAL,13,away,JS,assist,18,make2,2,T. Mozgov,J. Randle
+244,3,7:38.0,62,65,NOP,LAL,21,home,JS,,12,miss2,0,T. Frazier,
+245,3,7:37.0,62,65,NOP,LAL,1,away,DefReb,,,DefReb,,L. Deng,
+246,3,7:24.0,62,67,NOP,LAL,13,away,LU,assist,1,make2,2,D. Russell,J. Randle
+247,3,7:09.0,62,67,NOP,LAL,15,home,JS,,25,miss3,0,D. Cunningham,
+248,3,7:08.0,62,67,NOP,LAL,1,away,DefReb,,,DefReb,,Team,
+249,3,6:51.0,62,67,NOP,LAL,17,away,LostBall,steal,,turnover,,T. Mozgov,D. Cunningham
+250,3,6:45.0,62,67,NOP,LAL,6,home,LU,,2,miss2,0,E. Moore,
+251,3,6:44.0,62,67,NOP,LAL,1,away,DefReb,,,DefReb,,D. Russell,
+252,3,6:34.0,62,67,NOP,LAL,10,away,JS,,28,miss3,0,D. Russell,
+253,3,6:34.0,62,67,NOP,LAL,0,home,DefReb,,,DefReb,,Ö. Aşık,
+254,3,6:28.0,62,67,NOP,LAL,6,home,BadPass,steal,,turnover,,T. Frazier,J. Randle
+255,3,6:21.0,62,69,NOP,LAL,7,away,LU,assist,2,make2,2,J. Randle,N. Young
+256,3,6:21.0,62,69,NOP,LAL,0,home,Timeout,,,,,,
+257,3,6:21.0,62,69,NOP,LAL,0,home,Sub,,,,,B. Hield,D. Cunningham
+258,3,6:21.0,62,69,NOP,LAL,0,home,Sub,,,,,A. Ajinça,Ö. Aşık
+259,3,5:59.0,62,69,NOP,LAL,22,home,JS,block,8,miss2,0,T. Frazier,D. Russell
+260,3,5:58.0,62,69,NOP,LAL,1,away,DefReb,,,DefReb,,J. Randle,
+261,3,5:55.0,62,69,NOP,LAL,3,away,JS,,23,miss2,0,L. Deng,
+262,3,5:52.0,62,69,NOP,LAL,3,home,DefReb,,,DefReb,,A. Ajinça,
+263,3,5:49.0,62,69,NOP,LAL,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Young,A. Ajinça
+264,3,5:34.0,62,69,NOP,LAL,15,home,JS,,11,miss2,0,B. Hield,
+265,3,5:33.0,62,69,NOP,LAL,1,away,DefReb,,,DefReb,,L. Deng,
+266,3,5:22.0,62,72,NOP,LAL,11,away,JS,assist,26,make3,3,N. Young,T. Mozgov
+267,3,5:12.0,62,72,NOP,LAL,10,home,JS,,7,miss2,0,E. Moore,
+268,3,5:10.0,62,72,NOP,LAL,2,away,DefReb,,,DefReb,,T. Mozgov,
+269,3,5:04.0,62,75,NOP,LAL,6,away,JS,assist,26,make3,3,N. Young,D. Russell
+270,3,5:03.0,62,75,NOP,LAL,1,home,Timeout,,,,,,
+271,3,5:03.0,62,75,NOP,LAL,0,home,Sub,,,,,S. Hill,E. Moore
+272,3,4:49.0,62,75,NOP,LAL,14,home,JS,,8,miss2,0,B. Hield,
+273,3,4:49.0,62,75,NOP,LAL,0,away,DefReb,,,DefReb,,J. Randle,
+274,3,4:36.0,62,77,NOP,LAL,13,away,LU,assist,2,make2,2,T. Mozgov,J. Randle
+275,3,4:18.0,62,77,NOP,LAL,18,home,JS,,25,miss3,0,T. Jones,
+276,3,4:18.0,62,77,NOP,LAL,0,away,DefReb,,,DefReb,,Team,
+277,3,4:04.0,62,77,NOP,LAL,14,away,JS,,25,miss3,0,N. Young,
+278,3,4:03.0,62,77,NOP,LAL,1,away,OffReb,,,OffReb,,J. Randle,
+279,3,3:46.0,62,77,NOP,LAL,17,away,JS,,7,miss2,0,L. Deng,
+280,3,3:45.0,62,77,NOP,LAL,1,home,DefReb,,,DefReb,,T. Jones,
+281,3,3:33.0,62,77,NOP,LAL,12,home,JS,,6,miss2,0,T. Jones,
+282,3,3:33.0,62,77,NOP,LAL,0,away,DefReb,,,DefReb,,T. Mozgov,
+283,3,3:23.0,62,77,NOP,LAL,10,away,LostBall,steal,,turnover,,D. Russell,S. Hill
+284,3,3:19.0,64,77,NOP,LAL,4,home,LU,assist,2,make2,2,T. Jones,S. Hill
+285,3,3:19.0,64,77,NOP,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Young,T. Jones
+286,3,3:19.0,64,77,NOP,LAL,0,home,FreeThrow,,,make1,0,T. Jones,
+287,3,3:19.0,64,77,NOP,LAL,0,home,Sub,,,,,L. Galloway,T. Frazier
+288,3,3:17.0,64,77,NOP,LAL,2,away,DefReb,,,DefReb,,T. Mozgov,
+289,3,2:56.0,64,79,NOP,LAL,21,away,LU,assist,2,make2,2,J. Randle,N. Young
+290,3,2:47.0,66,79,NOP,LAL,9,home,JS,,22,make2,2,B. Hield,
+291,3,2:36.0,66,79,NOP,LAL,11,away,BadPass,,,turnover,,T. Mozgov,
+292,3,2:36.0,66,79,NOP,LAL,0,home,Sub,,,,,A. Davis,T. Jones
+293,3,2:36.0,66,79,NOP,LAL,0,away,Sub,,,,,B. Ingram,L. Deng
+294,3,2:36.0,66,79,NOP,LAL,0,away,Sub,,,,,T. Black,T. Mozgov
+295,3,2:36.0,66,79,NOP,LAL,0,away,Sub,,,,,J. Clarkson,N. Young
+296,3,2:18.0,69,79,NOP,LAL,18,home,JS,assist,25,make3,3,L. Galloway,A. Davis
+297,3,2:17.0,69,79,NOP,LAL,1,away,Timeout,,,,,,
+298,3,2:00.0,69,79,NOP,LAL,17,away,JS,block,5,miss2,0,J. Randle,A. Ajinça
+299,3,1:59.0,69,79,NOP,LAL,1,home,DefReb,,,DefReb,,L. Galloway,
+300,3,1:46.0,71,79,NOP,LAL,13,home,LU,,2,make2,2,B. Hield,
+301,3,1:23.0,71,79,NOP,LAL,23,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,J. Clarkson
+302,3,1:23.0,71,80,NOP,LAL,0,away,FreeThrow,,,make1,1,J. Clarkson,
+303,3,1:23.0,71,81,NOP,LAL,0,away,FreeThrow,,,make1,1,J. Clarkson,
+304,3,1:23.0,71,81,NOP,LAL,0,away,Sub,,,,,L. Williams,J. Randle
+305,3,1:23.0,71,81,NOP,LAL,0,away,Sub,,,,,L. Nance,D. Russell
+306,3,1:23.0,71,82,NOP,LAL,0,away,FreeThrow,,,make1,1,J. Clarkson,
+307,3,1:11.0,71,82,NOP,LAL,12,home,JS,,16,miss2,0,L. Galloway,
+308,3,1:11.0,71,82,NOP,LAL,0,away,DefReb,,,DefReb,,L. Nance,
+309,3,1:04.0,71,82,NOP,LAL,7,away,LU,,1,miss2,0,B. Ingram,
+310,3,1:03.0,71,82,NOP,LAL,1,home,DefReb,,,DefReb,,L. Galloway,
+311,3,0:50.0,71,82,NOP,LAL,13,home,JS,,26,miss3,0,B. Hield,
+312,3,0:49.0,71,82,NOP,LAL,1,away,DefReb,,,DefReb,,L. Williams,
+313,3,0:38.0,71,84,NOP,LAL,11,away,JS,assist,18,make2,2,L. Williams,L. Nance
+314,3,0:22.0,71,84,NOP,LAL,16,home,JS,,24,miss3,0,L. Galloway,
+315,3,0:21.0,71,84,NOP,LAL,1,home,OffReb,,,OffReb,,A. Ajinça,
+316,3,0:15.0,71,84,NOP,LAL,6,home,JS,,25,miss3,0,B. Hield,
+317,3,0:14.0,71,84,NOP,LAL,1,away,DefReb,,,DefReb,,L. Williams,
+318,3,0:00.0,71,84,NOP,LAL,14,away,DK,,0,miss2,0,T. Black,
+319,3,0:00.0,71,84,NOP,LAL,0,home,DefReb,,,DefReb,,B. Hield,
+320,4,11:50.0,71,84,NOP,LAL,10,home,BadPass,steal,,turnover,,L. Galloway,L. Nance
+321,4,11:44.0,71,86,NOP,LAL,6,away,DK,,0,make2,2,L. Nance,
+322,4,11:30.0,71,86,NOP,LAL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Nance,A. Davis
+323,4,11:24.0,73,86,NOP,LAL,6,home,JS,,4,make2,2,A. Davis,
+324,4,11:06.0,73,89,NOP,LAL,18,away,JS,assist,24,make3,3,J. Clarkson,B. Ingram
+325,4,10:47.0,76,89,NOP,LAL,19,home,JS,assist,25,make3,3,L. Galloway,A. Davis
+326,4,10:28.0,76,91,NOP,LAL,19,away,LU,assist,3,make2,2,T. Black,B. Ingram
+327,4,10:18.0,76,91,NOP,LAL,10,home,JS,,7,miss2,0,L. Galloway,
+328,4,10:17.0,76,91,NOP,LAL,1,away,DefReb,,,DefReb,,J. Clarkson,
+329,4,10:11.0,76,91,NOP,LAL,6,away,JS,,26,miss3,0,L. Williams,
+330,4,10:09.0,76,91,NOP,LAL,2,home,DefReb,,,DefReb,,B. Hield,
+331,4,10:06.0,78,91,NOP,LAL,3,home,LU,,2,make2,2,B. Hield,
+332,4,10:06.0,78,91,NOP,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Ingram,B. Hield
+333,4,10:06.0,79,91,NOP,LAL,0,home,FreeThrow,,,make1,1,B. Hield,
+334,4,9:49.0,79,91,NOP,LAL,17,away,BadPass,steal,,turnover,,J. Clarkson,L. Galloway
+335,4,9:39.0,79,91,NOP,LAL,10,home,LU,,2,miss2,0,A. Davis,
+336,4,9:39.0,79,91,NOP,LAL,0,away,DefReb,,,DefReb,,L. Nance,
+337,4,9:23.0,79,93,NOP,LAL,16,away,LU,,0,make2,2,J. Clarkson,
+338,4,8:55.0,81,93,NOP,LAL,28,home,LU,,2,make2,2,B. Hield,
+339,4,8:50.0,81,93,NOP,LAL,5,away,PersonalFoul,,,,,B. Hield,
+340,4,8:50.0,81,93,NOP,LAL,0,away,Timeout,,,,,,
+341,4,8:50.0,81,93,NOP,LAL,0,home,Sub,,,,,E. Moore,A. Ajinça
+342,4,8:50.0,81,93,NOP,LAL,0,home,Sub,,,,,T. Jones,S. Hill
+343,4,8:39.0,81,96,NOP,LAL,11,away,JS,,26,make3,3,L. Williams,
+344,4,8:32.0,81,96,NOP,LAL,7,home,PersonalFoul,,,,,L. Williams,
+345,4,8:21.0,81,96,NOP,LAL,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,A. Davis
+346,4,8:21.0,82,96,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+347,4,8:21.0,83,96,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+348,4,8:07.0,83,96,NOP,LAL,14,away,JS,,14,miss2,0,L. Williams,
+349,4,8:04.0,83,96,NOP,LAL,3,away,OffReb,,,OffReb,,T. Black,
+350,4,7:59.0,83,96,NOP,LAL,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Hield,B. Ingram
+351,4,7:59.0,83,97,NOP,LAL,0,away,FreeThrow,,,make1,1,B. Ingram,
+352,4,7:59.0,83,97,NOP,LAL,0,away,FreeThrow,,,make1,0,B. Ingram,
+353,4,7:57.0,83,97,NOP,LAL,2,home,DefReb,,,DefReb,,A. Davis,
+354,4,7:40.0,85,97,NOP,LAL,17,home,LU,,2,make2,2,A. Davis,
+355,4,7:39.0,85,97,NOP,LAL,1,away,Timeout,,,,,,
+356,4,7:39.0,85,97,NOP,LAL,0,away,Sub,,,,,D. Russell,B. Ingram
+357,4,7:23.0,85,99,NOP,LAL,16,away,DK,assist,0,make2,2,T. Black,L. Nance
+358,4,7:08.0,85,99,NOP,LAL,15,home,JS,,12,miss2,0,A. Davis,
+359,4,7:08.0,85,99,NOP,LAL,0,away,DefReb,,,DefReb,,L. Nance,
+360,4,6:59.0,85,99,NOP,LAL,9,away,JS,,17,miss2,0,L. Nance,
+361,4,6:58.0,85,99,NOP,LAL,1,home,DefReb,,,DefReb,,L. Galloway,
+362,4,6:44.0,85,99,NOP,LAL,14,home,JS,,25,miss3,0,T. Jones,
+363,4,6:41.0,85,99,NOP,LAL,3,away,DefReb,,,DefReb,,L. Nance,
+364,4,6:27.0,85,102,NOP,LAL,14,away,JS,assist,23,make3,3,J. Clarkson,T. Black
+365,4,6:02.0,85,102,NOP,LAL,25,home,JS,,10,miss2,0,A. Davis,
+366,4,6:02.0,85,102,NOP,LAL,0,away,DefReb,,,DefReb,,Team,
+367,4,6:02.0,85,102,NOP,LAL,0,away,Sub,,,,,J. Randle,T. Black
+368,4,5:48.0,85,104,NOP,LAL,14,away,LU,assist,2,make2,2,L. Williams,D. Russell
+369,4,5:30.0,87,104,NOP,LAL,18,home,LU,,2,make2,2,B. Hield,
+370,4,5:17.0,87,107,NOP,LAL,13,away,JS,assist,27,make3,3,J. Clarkson,J. Randle
+371,4,5:05.0,87,107,NOP,LAL,12,home,LU,block,2,miss2,0,E. Moore,J. Randle
+372,4,5:05.0,87,107,NOP,LAL,0,home,OffReb,,,OffReb,,Team,
+373,4,5:05.0,87,107,NOP,LAL,0,home,Timeout,,,,,,
+374,4,5:05.0,87,107,NOP,LAL,0,home,Sub,,,,,T. Frazier,E. Moore
+375,4,5:05.0,87,107,NOP,LAL,0,home,Sub,,,,,A. Ajinça,L. Galloway
+376,4,5:05.0,87,107,NOP,LAL,0,home,Sub,,,,,A. Goodwin,T. Jones
+377,4,4:51.0,87,107,NOP,LAL,14,home,BadPass,,,turnover,,T. Frazier,
+378,4,4:37.0,87,109,NOP,LAL,14,away,LU,assist,2,make2,2,D. Russell,J. Randle
+379,4,4:25.0,89,109,NOP,LAL,12,home,JS,assist,4,make2,2,A. Davis,T. Frazier
+380,4,4:25.0,89,109,NOP,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,A. Davis
+381,4,4:25.0,90,109,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Davis,
+382,4,4:25.0,90,109,NOP,LAL,0,away,DelayOfGame,,,DelayOfGame,,Team,
+383,4,4:04.0,90,109,NOP,LAL,21,away,JS,,8,miss2,0,J. Randle,
+384,4,4:03.0,90,109,NOP,LAL,1,away,OffReb,,,OffReb,,J. Randle,
+385,4,3:43.0,90,111,NOP,LAL,20,away,LU,,3,make2,2,D. Russell,
+386,4,3:29.0,92,111,NOP,LAL,14,home,LU,,2,make2,2,B. Hield,
+387,4,3:12.0,92,111,NOP,LAL,17,away,JS,,15,miss2,0,D. Russell,
+388,4,3:11.0,92,111,NOP,LAL,1,home,DefReb,,,DefReb,,B. Hield,
+389,4,3:01.0,92,111,NOP,LAL,10,home,BadPass,steal,,turnover,,B. Hield,L. Williams
+390,4,2:54.0,92,113,NOP,LAL,7,away,DK,assist,0,make2,2,J. Clarkson,L. Nance
+391,4,2:36.0,92,113,NOP,LAL,18,home,JS,,19,miss2,0,A. Davis,
+392,4,2:36.0,92,113,NOP,LAL,0,away,DefReb,,,DefReb,,J. Clarkson,
+393,4,2:30.0,92,113,NOP,LAL,6,away,Timeout,,,,,,
+394,4,2:30.0,92,113,NOP,LAL,0,away,Sub,,,,,M. Huertas,J. Clarkson
+395,4,2:30.0,92,113,NOP,LAL,0,away,Sub,,,,,J. Calderón,L. Williams
+396,4,2:30.0,92,113,NOP,LAL,0,away,Sub,,,,,T. Robinson,L. Nance
+397,4,2:30.0,92,113,NOP,LAL,0,home,Sub,,,,,D. Cunningham,A. Davis
+398,4,2:30.0,92,113,NOP,LAL,0,home,Sub,,,,,L. Galloway,B. Hield
+399,4,2:12.0,92,116,NOP,LAL,18,away,JS,assist,25,make3,3,D. Russell,J. Randle
+400,4,1:59.0,94,116,NOP,LAL,13,home,JS,,16,make2,2,L. Galloway,
+401,4,1:46.0,94,118,NOP,LAL,13,away,LU,assist,3,make2,2,T. Robinson,M. Huertas
+402,4,1:40.0,94,118,NOP,LAL,6,home,JS,,24,miss3,0,L. Galloway,
+403,4,1:38.0,94,118,NOP,LAL,2,away,DefReb,,,DefReb,,J. Calderón,
+404,4,1:27.0,94,120,NOP,LAL,11,away,LU,,2,make2,2,D. Russell,
+405,4,1:16.0,94,120,NOP,LAL,11,home,JS,,16,miss2,0,T. Frazier,
+406,4,1:16.0,94,120,NOP,LAL,0,home,OffReb,,,OffReb,,D. Cunningham,
+407,4,1:12.0,94,120,NOP,LAL,4,home,JS,,26,miss3,0,T. Frazier,
+408,4,1:11.0,94,120,NOP,LAL,1,away,DefReb,,,DefReb,,T. Robinson,
+409,4,0:56.0,94,120,NOP,LAL,15,away,JS,,25,miss3,0,M. Huertas,
+410,4,0:54.0,94,120,NOP,LAL,2,away,OffReb,,,OffReb,,T. Robinson,
+411,4,0:50.0,94,123,NOP,LAL,4,away,JS,assist,24,make3,3,J. Calderón,T. Robinson
+412,4,0:33.0,97,123,NOP,LAL,17,home,JS,assist,24,make3,3,A. Goodwin,D. Cunningham
+413,4,0:18.0,97,126,NOP,LAL,15,away,JS,assist,25,make3,3,D. Russell,M. Huertas
+414,4,0:13.0,97,126,NOP,LAL,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Russell,A. Goodwin
+415,4,0:13.0,98,126,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Goodwin,
+416,4,0:13.0,99,126,NOP,LAL,0,home,FreeThrow,,,make1,1,A. Goodwin,

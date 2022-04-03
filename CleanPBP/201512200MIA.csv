@@ -1,0 +1,436 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:37.0,0,0,MIA,POR,23,home,LU,,2,miss2,0,H. Whiteside,
+1,1,11:36.0,0,0,MIA,POR,1,away,DefReb,,,DefReb,,N. Vonleh,
+2,1,11:24.0,0,0,MIA,POR,12,away,JS,,24,miss3,0,A. Aminu,
+3,1,11:23.0,0,0,MIA,POR,1,home,DefReb,,,DefReb,,C. Bosh,
+4,1,11:09.0,2,0,MIA,POR,14,home,JS,assist,17,make2,2,C. Bosh,G. Dragić
+5,1,10:52.0,2,0,MIA,POR,17,away,JS,block,5,miss2,0,N. Vonleh,H. Whiteside
+6,1,10:50.0,2,0,MIA,POR,2,away,OffReb,,,OffReb,,D. Lillard,
+7,1,10:45.0,2,3,MIA,POR,5,away,JS,assist,24,make3,3,A. Aminu,D. Lillard
+8,1,10:32.0,2,3,MIA,POR,13,home,JS,,9,miss2,0,D. Wade,
+9,1,10:31.0,2,3,MIA,POR,1,away,DefReb,,,DefReb,,C. McCollum,
+10,1,10:18.0,2,3,MIA,POR,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Deng,M. Plumlee
+11,1,10:18.0,2,3,MIA,POR,0,away,FreeThrow,,,make1,0,M. Plumlee,
+12,1,10:18.0,2,3,MIA,POR,0,away,OffReb,,,OffReb,,Team,
+13,1,10:18.0,2,3,MIA,POR,0,away,FreeThrow,,,make1,0,M. Plumlee,
+14,1,10:17.0,2,3,MIA,POR,1,away,OffReb,,,OffReb,,N. Vonleh,
+15,1,10:09.0,2,3,MIA,POR,8,home,ChargeFoul,DrawnBy,,ChargeFoul,,N. Vonleh,C. Bosh
+16,1,10:09.0,2,3,MIA,POR,0,away,OffensiveFoul,,,turnover,,N. Vonleh,
+17,1,9:56.0,2,3,MIA,POR,13,home,BadPass,steal,,turnover,,C. Bosh,A. Aminu
+18,1,9:51.0,2,5,MIA,POR,5,away,DK,,0,make2,2,A. Aminu,
+19,1,9:40.0,2,5,MIA,POR,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Vonleh,C. Bosh
+20,1,9:29.0,2,5,MIA,POR,11,home,LU,,2,miss2,0,G. Dragić,
+21,1,9:28.0,2,5,MIA,POR,1,away,DefReb,,,DefReb,,C. McCollum,
+22,1,9:25.0,2,5,MIA,POR,3,away,JS,block,16,miss2,0,C. McCollum,G. Dragić
+23,1,9:24.0,2,5,MIA,POR,1,away,OffReb,,,OffReb,,Team,
+24,1,9:11.0,2,7,MIA,POR,13,away,JS,,16,make2,2,C. McCollum,
+25,1,8:55.0,2,7,MIA,POR,16,home,JS,,7,miss2,0,G. Dragić,
+26,1,8:54.0,2,7,MIA,POR,1,away,DefReb,,,DefReb,,N. Vonleh,
+27,1,8:47.0,2,7,MIA,POR,7,away,JS,,22,miss3,0,A. Aminu,
+28,1,8:46.0,2,7,MIA,POR,1,away,OffReb,,,OffReb,,M. Plumlee,
+29,1,8:41.0,2,7,MIA,POR,5,away,BadPass,steal,,turnover,,A. Aminu,G. Dragić
+30,1,8:34.0,5,7,MIA,POR,7,home,JS,assist,24,make3,3,C. Bosh,G. Dragić
+31,1,8:16.0,5,7,MIA,POR,18,away,JS,,22,miss2,0,C. McCollum,
+32,1,8:15.0,5,7,MIA,POR,1,home,DefReb,,,DefReb,,C. Bosh,
+33,1,8:07.0,8,7,MIA,POR,8,home,JS,assist,23,make3,3,L. Deng,G. Dragić
+34,1,7:47.0,8,7,MIA,POR,20,away,LostBall,steal,,turnover,,M. Plumlee,D. Wade
+35,1,7:38.0,11,7,MIA,POR,9,home,JS,assist,24,make3,3,L. Deng,G. Dragić
+36,1,7:17.0,11,7,MIA,POR,21,away,JS,,18,miss2,0,N. Vonleh,
+37,1,7:16.0,11,7,MIA,POR,1,away,OffReb,,,OffReb,,M. Plumlee,
+38,1,7:08.0,11,7,MIA,POR,8,away,JS,,23,miss3,0,C. McCollum,
+39,1,7:07.0,11,7,MIA,POR,1,home,DefReb,,,DefReb,,H. Whiteside,
+40,1,6:55.0,11,7,MIA,POR,12,home,JS,,11,miss2,0,C. Bosh,
+41,1,6:54.0,11,7,MIA,POR,1,away,DefReb,,,DefReb,,M. Plumlee,
+42,1,6:48.0,11,9,MIA,POR,6,away,LU,assist,2,make2,2,N. Vonleh,D. Lillard
+43,1,6:34.0,11,9,MIA,POR,14,home,LostBall,steal,,turnover,,H. Whiteside,A. Aminu
+44,1,6:28.0,11,12,MIA,POR,6,away,JS,assist,23,make3,3,C. McCollum,A. Aminu
+45,1,6:28.0,11,12,MIA,POR,0,home,Timeout,,,,,,
+46,1,6:18.0,13,12,MIA,POR,10,home,JS,assist,14,make2,2,C. Bosh,G. Dragić
+47,1,6:05.0,13,12,MIA,POR,13,away,D3SecTech,,,,,,
+48,1,6:05.0,13,13,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard makes technical free throw,
+49,1,5:57.0,13,15,MIA,POR,8,away,JS,assist,21,make2,2,A. Aminu,C. McCollum
+50,1,5:42.0,15,15,MIA,POR,15,home,LU,assist,2,make2,2,H. Whiteside,C. Bosh
+51,1,5:42.0,15,15,MIA,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,H. Whiteside
+52,1,5:42.0,15,15,MIA,POR,0,home,Sub,,,,,J. Winslow,C. Bosh
+53,1,5:42.0,15,15,MIA,POR,0,home,FreeThrow,,,make1,0,H. Whiteside,
+54,1,5:41.0,15,15,MIA,POR,1,away,DefReb,,,DefReb,,A. Aminu,
+55,1,5:27.0,15,15,MIA,POR,14,away,BadPass,steal,,turnover,,D. Lillard,D. Wade
+56,1,5:22.0,17,15,MIA,POR,5,home,JS,,7,make2,2,D. Wade,
+57,1,5:22.0,17,15,MIA,POR,0,away,DefGoaltending,,,DefGoaltending,,M. Plumlee,
+58,1,5:07.0,17,15,MIA,POR,15,away,Sub,,,,,M. Leonard,N. Vonleh
+59,1,4:59.0,17,18,MIA,POR,8,away,JS,,24,make3,3,C. McCollum,
+60,1,4:43.0,17,18,MIA,POR,16,home,JS,,4,miss2,0,D. Wade,
+61,1,4:41.0,17,18,MIA,POR,2,away,DefReb,,,DefReb,,M. Leonard,
+62,1,4:34.0,17,20,MIA,POR,7,away,LU,,2,make2,2,D. Lillard,
+63,1,4:09.0,19,20,MIA,POR,25,home,JS,,19,make2,2,D. Wade,
+64,1,3:56.0,19,20,MIA,POR,13,away,JS,,24,miss3,0,C. McCollum,
+65,1,3:55.0,19,20,MIA,POR,1,away,OffReb,,,OffReb,,M. Plumlee,
+66,1,3:54.0,19,20,MIA,POR,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Wade,D. Lillard
+67,1,3:54.0,19,21,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+68,1,3:54.0,19,21,MIA,POR,0,home,Sub,,,,,C. Bosh,H. Whiteside
+69,1,3:54.0,19,21,MIA,POR,0,away,Sub,,,,,A. Crabbe,C. McCollum
+70,1,3:54.0,19,21,MIA,POR,0,home,Sub,,,,,G. Green,D. Wade
+71,1,3:54.0,19,22,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+72,1,3:45.0,19,22,MIA,POR,9,home,LU,,1,miss2,0,G. Dragić,
+73,1,3:44.0,19,22,MIA,POR,1,home,OffReb,,,OffReb,,G. Dragić,
+74,1,3:42.0,21,22,MIA,POR,2,home,LU,,0,make2,2,G. Dragić,
+75,1,3:34.0,21,22,MIA,POR,8,away,BadPass,steal,,turnover,,D. Lillard,J. Winslow
+76,1,3:32.0,21,22,MIA,POR,2,away,Sub,,,,,E. Davis,M. Plumlee
+77,1,3:22.0,21,22,MIA,POR,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,G. Green
+78,1,3:22.0,22,22,MIA,POR,0,home,FreeThrow,,,make1,1,G. Green,
+79,1,3:22.0,22,22,MIA,POR,0,home,FreeThrow,,,make1,0,G. Green,
+80,1,3:21.0,22,22,MIA,POR,1,away,DefReb,,,DefReb,,E. Davis,
+81,1,3:05.0,22,22,MIA,POR,16,away,JS,,6,miss2,0,A. Crabbe,
+82,1,3:04.0,22,22,MIA,POR,1,away,OffReb,,,OffReb,,Team,
+83,1,2:57.0,22,22,MIA,POR,7,away,JS,,27,miss3,0,D. Lillard,
+84,1,2:56.0,22,22,MIA,POR,1,home,DefReb,,,DefReb,,C. Bosh,
+85,1,2:46.0,22,22,MIA,POR,10,home,JS,,24,miss3,0,C. Bosh,
+86,1,2:45.0,22,22,MIA,POR,1,away,DefReb,,,DefReb,,E. Davis,
+87,1,2:36.0,22,25,MIA,POR,9,away,JS,assist,24,make3,3,M. Leonard,D. Lillard
+88,1,2:14.0,22,25,MIA,POR,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,C. Bosh
+89,1,2:14.0,22,25,MIA,POR,0,away,Timeout,,,,,,
+90,1,2:14.0,22,25,MIA,POR,0,away,Sub,,,,,G. Henderson,A. Aminu
+91,1,2:14.0,22,25,MIA,POR,0,home,Sub,,,,,B. Udrih,L. Deng
+92,1,2:14.0,22,25,MIA,POR,0,home,Sub,,,,,U. Haslem,G. Dragić
+93,1,2:14.0,23,25,MIA,POR,0,home,FreeThrow,,,make1,1,C. Bosh,
+94,1,2:14.0,23,25,MIA,POR,0,home,FreeThrow,,,make1,0,C. Bosh,
+95,1,2:13.0,23,25,MIA,POR,1,away,DefReb,,,DefReb,,M. Leonard,
+96,1,1:56.0,23,27,MIA,POR,17,away,JS,assist,4,make2,2,E. Davis,D. Lillard
+97,1,1:40.0,23,27,MIA,POR,16,home,JS,,19,miss2,0,C. Bosh,
+98,1,1:39.0,23,27,MIA,POR,1,away,DefReb,,,DefReb,,M. Leonard,
+99,1,1:21.0,23,27,MIA,POR,18,away,OffensiveFoul,,,turnover,,D. Lillard,
+100,1,1:21.0,23,27,MIA,POR,0,home,ChargeFoul,DrawnBy,,ChargeFoul,,D. Lillard,U. Haslem
+101,1,1:06.0,23,27,MIA,POR,15,home,BadPass,,,turnover,,C. Bosh,
+102,1,0:55.0,23,27,MIA,POR,11,away,JS,,20,miss2,0,A. Crabbe,
+103,1,0:53.0,23,27,MIA,POR,2,home,DefReb,,,DefReb,,U. Haslem,
+104,1,0:42.0,23,27,MIA,POR,11,home,JS,,17,miss2,0,B. Udrih,
+105,1,0:41.0,23,27,MIA,POR,1,away,DefReb,,,DefReb,,A. Crabbe,
+106,1,0:34.0,23,27,MIA,POR,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Bosh,D. Lillard
+107,1,0:32.0,23,30,MIA,POR,2,away,JS,assist,24,make3,3,D. Lillard,A. Crabbe
+108,1,0:15.0,23,30,MIA,POR,17,home,JS,,18,miss2,0,G. Green,
+109,1,0:14.0,23,30,MIA,POR,1,away,DefReb,,,DefReb,,G. Henderson,
+110,1,0:00.0,23,32,MIA,POR,14,away,JS,,19,make2,2,D. Lillard,
+111,2,11:45.0,23,35,MIA,POR,15,away,JS,assist,23,make3,3,M. Leonard,C. McCollum
+112,2,11:27.0,23,35,MIA,POR,18,home,JS,,24,miss3,0,J. Winslow,
+113,2,11:26.0,23,35,MIA,POR,1,away,DefReb,,,DefReb,,M. Leonard,
+114,2,11:09.0,23,35,MIA,POR,17,away,JS,,23,miss3,0,G. Henderson,
+115,2,11:08.0,23,35,MIA,POR,1,home,DefReb,,,DefReb,,B. Udrih,
+116,2,10:52.0,26,35,MIA,POR,16,home,JS,assist,24,make3,3,G. Green,C. Bosh
+117,2,10:37.0,26,37,MIA,POR,15,away,DK,,0,make2,2,G. Henderson,
+118,2,10:34.0,26,37,MIA,POR,3,home,OutOfBounds,,,turnover,,B. Udrih,
+119,2,10:32.0,26,37,MIA,POR,2,away,BadPass,steal,,turnover,,G. Henderson,C. Bosh
+120,2,10:28.0,28,37,MIA,POR,4,home,LU,,1,make2,2,J. Winslow,
+121,2,10:28.0,28,37,MIA,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Leonard,J. Winslow
+122,2,10:28.0,29,37,MIA,POR,0,home,FreeThrow,,,make1,1,J. Winslow,
+123,2,10:05.0,29,37,MIA,POR,23,away,JS,,8,miss2,0,E. Davis,
+124,2,10:04.0,29,37,MIA,POR,1,home,DefReb,,,DefReb,,J. Winslow,
+125,2,9:50.0,32,37,MIA,POR,14,home,JS,assist,24,make3,3,C. Bosh,B. Udrih
+126,2,9:28.0,32,39,MIA,POR,22,away,LU,assist,1,make2,2,E. Davis,C. McCollum
+127,2,9:18.0,32,39,MIA,POR,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Leonard,B. Udrih
+128,2,9:10.0,32,39,MIA,POR,8,home,BadPass,steal,,turnover,,C. Bosh,A. Crabbe
+129,2,8:53.0,32,39,MIA,POR,17,away,BadPass,steal,,turnover,,G. Henderson,J. Winslow
+130,2,8:44.0,32,39,MIA,POR,9,home,JS,,5,miss2,0,C. Bosh,
+131,2,8:42.0,32,39,MIA,POR,2,away,DefReb,,,DefReb,,C. McCollum,
+132,2,8:33.0,32,39,MIA,POR,9,away,JS,,24,miss3,0,A. Crabbe,
+133,2,8:32.0,32,39,MIA,POR,1,home,DefReb,,,DefReb,,U. Haslem,
+134,2,8:29.0,32,39,MIA,POR,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Crabbe,B. Udrih
+135,2,8:29.0,32,39,MIA,POR,0,away,Timeout,,,,,,
+136,2,8:29.0,33,39,MIA,POR,0,home,FreeThrow,,,make1,1,B. Udrih,
+137,2,8:29.0,34,39,MIA,POR,0,home,FreeThrow,,,make1,1,B. Udrih,
+138,2,8:08.0,34,39,MIA,POR,21,away,JS,block,3,miss2,0,C. McCollum,J. Winslow
+139,2,8:07.0,34,39,MIA,POR,1,home,DefReb,,,DefReb,,C. Bosh,
+140,2,7:54.0,34,39,MIA,POR,13,home,JS,,9,miss2,0,B. Udrih,
+141,2,7:53.0,34,39,MIA,POR,1,away,DefReb,,,DefReb,,G. Henderson,
+142,2,7:44.0,34,39,MIA,POR,9,away,BadPass,,,turnover,,G. Henderson,
+143,2,7:31.0,36,39,MIA,POR,13,home,JS,assist,20,make2,2,G. Green,U. Haslem
+144,2,7:04.0,36,41,MIA,POR,27,away,JS,,18,make2,2,G. Henderson,
+145,2,6:59.0,36,41,MIA,POR,5,home,Timeout,,,,,,
+146,2,6:59.0,36,41,MIA,POR,0,home,Sub,,,,,L. Deng,C. Bosh
+147,2,6:59.0,36,41,MIA,POR,0,home,Sub,,,,,G. Dragić,U. Haslem
+148,2,6:59.0,36,41,MIA,POR,0,home,Sub,,,,,H. Whiteside,B. Udrih
+149,2,6:48.0,38,41,MIA,POR,11,home,DK,assist,0,make2,2,H. Whiteside,G. Green
+150,2,6:29.0,38,41,MIA,POR,19,away,JS,,17,miss2,0,G. Henderson,
+151,2,6:28.0,38,41,MIA,POR,1,home,DefReb,,,DefReb,,L. Deng,
+152,2,6:09.0,40,41,MIA,POR,19,home,LU,,1,make2,2,G. Dragić,
+153,2,5:57.0,40,43,MIA,POR,12,away,JS,,8,make2,2,C. McCollum,
+154,2,5:36.0,40,43,MIA,POR,21,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Davis,H. Whiteside
+155,2,5:36.0,40,43,MIA,POR,0,home,Sub,,,,,D. Wade,J. Winslow
+156,2,5:36.0,40,43,MIA,POR,0,away,Sub,,,,,D. Lillard,C. McCollum
+157,2,5:36.0,40,43,MIA,POR,0,away,Sub,,,,,M. Plumlee,E. Davis
+158,2,5:27.0,40,43,MIA,POR,9,away,Sub,,,,,A. Aminu,G. Henderson
+159,2,5:27.0,43,43,MIA,POR,0,home,JS,assist,24,make3,3,L. Deng,G. Dragić
+160,2,5:02.0,43,46,MIA,POR,25,away,JS,assist,24,make3,3,A. Aminu,M. Plumlee
+161,2,4:43.0,43,46,MIA,POR,19,home,JS,,10,miss2,0,D. Wade,
+162,2,4:42.0,43,46,MIA,POR,1,away,DefReb,,,DefReb,,M. Leonard,
+163,2,4:33.0,43,46,MIA,POR,9,away,BadPass,steal,,turnover,,M. Plumlee,G. Dragić
+164,2,4:26.0,43,46,MIA,POR,7,home,BadPass,steal,,turnover,,L. Deng,A. Aminu
+165,2,4:22.0,43,46,MIA,POR,4,away,BadPass,,,turnover,,A. Aminu,
+166,2,4:22.0,43,46,MIA,POR,0,away,Sub,,,,,M. Harkless,M. Leonard
+167,2,4:10.0,45,46,MIA,POR,12,home,JS,assist,7,make2,2,G. Dragić,D. Wade
+168,2,3:58.0,45,46,MIA,POR,12,away,JS,,24,miss3,0,A. Crabbe,
+169,2,3:58.0,45,46,MIA,POR,0,home,DefReb,,,DefReb,,Team,
+170,2,3:41.0,45,46,MIA,POR,17,home,HS,,2,miss2,0,H. Whiteside,
+171,2,3:39.0,45,46,MIA,POR,2,away,DefReb,,,DefReb,,M. Harkless,
+172,2,3:32.0,45,48,MIA,POR,7,away,LU,assist,0,make2,2,M. Harkless,D. Lillard
+173,2,3:16.0,45,48,MIA,POR,16,home,LU,,2,miss2,0,G. Dragić,
+174,2,3:15.0,45,48,MIA,POR,1,away,DefReb,,,DefReb,,M. Plumlee,
+175,2,3:06.0,45,51,MIA,POR,9,away,JS,assist,22,make3,3,A. Aminu,D. Lillard
+176,2,3:06.0,45,51,MIA,POR,0,home,Timeout,,,,,,
+177,2,2:45.0,47,51,MIA,POR,21,home,JS,,8,make2,2,D. Wade,
+178,2,2:31.0,47,51,MIA,POR,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Green,M. Plumlee
+179,2,2:31.0,47,51,MIA,POR,0,away,Timeout,,,,,,
+180,2,2:25.0,47,51,MIA,POR,6,away,JS,block,4,miss2,0,M. Plumlee,H. Whiteside
+181,2,2:24.0,47,51,MIA,POR,1,away,OffReb,,,OffReb,,M. Plumlee,
+182,2,2:21.0,47,54,MIA,POR,3,away,JS,assist,22,make3,3,A. Aminu,M. Harkless
+183,2,2:05.0,47,54,MIA,POR,16,home,LostBall,steal,,turnover,,D. Wade,D. Lillard
+184,2,2:01.0,47,56,MIA,POR,4,away,LU,,1,make2,2,D. Lillard,
+185,2,1:44.0,47,56,MIA,POR,17,home,JS,,3,miss2,0,H. Whiteside,
+186,2,1:43.0,47,56,MIA,POR,1,home,OffReb,,,OffReb,,D. Wade,
+187,2,1:41.0,50,56,MIA,POR,2,home,JS,assist,22,make3,3,L. Deng,D. Wade
+188,2,1:25.0,50,56,MIA,POR,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Wade,M. Plumlee
+189,2,1:25.0,50,57,MIA,POR,0,away,FreeThrow,,,make1,1,M. Plumlee,
+190,2,1:25.0,50,57,MIA,POR,0,home,Sub,,,,,C. Bosh,H. Whiteside
+191,2,1:25.0,50,58,MIA,POR,0,away,FreeThrow,,,make1,1,M. Plumlee,
+192,2,1:15.0,52,58,MIA,POR,10,home,HS,,5,make2,2,D. Wade,
+193,2,1:15.0,52,58,MIA,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,D. Wade
+194,2,1:15.0,52,58,MIA,POR,0,home,FreeThrow,,,make1,0,D. Wade,
+195,2,1:14.0,52,58,MIA,POR,1,away,DefReb,,,DefReb,,D. Lillard,
+196,2,1:03.0,52,58,MIA,POR,11,away,JS,,26,miss3,0,A. Aminu,
+197,2,1:03.0,52,58,MIA,POR,0,away,OffReb,,,OffReb,,Team,
+198,2,1:03.0,52,58,MIA,POR,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Bosh,M. Plumlee
+199,2,1:03.0,52,59,MIA,POR,0,away,FreeThrow,,,make1,1,M. Plumlee,
+200,2,1:03.0,52,60,MIA,POR,0,away,FreeThrow,,,make1,1,M. Plumlee,
+201,2,0:50.0,52,60,MIA,POR,13,home,BadPass,steal,,turnover,,C. Bosh,A. Crabbe
+202,2,0:47.0,52,62,MIA,POR,3,away,LU,,1,make2,2,A. Crabbe,
+203,2,0:27.0,52,62,MIA,POR,20,home,LostBall,,,turnover,,C. Bosh,
+204,2,0:27.0,52,62,MIA,POR,0,home,Sub,,,,,H. Whiteside,C. Bosh
+205,2,0:27.0,52,62,MIA,POR,0,home,Sub,,,,,J. Winslow,D. Wade
+206,2,0:27.0,52,62,MIA,POR,0,away,Sub,,,,,C. McCollum,M. Plumlee
+207,2,0:04.0,52,62,MIA,POR,23,away,JS,,24,miss3,0,C. McCollum,
+208,2,0:03.0,52,62,MIA,POR,1,home,DefReb,,,DefReb,,H. Whiteside,
+209,2,0:00.0,52,62,MIA,POR,3,home,JS,,42,miss3,0,G. Dragić,
+210,2,0:00.0,52,62,MIA,POR,0,home,OffReb,,,OffReb,,Team,
+211,3,11:40.0,52,62,MIA,POR,20,away,BadPass,steal,,turnover,,C. McCollum,H. Whiteside
+212,3,11:26.0,52,62,MIA,POR,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vonleh,C. Bosh
+213,3,11:26.0,53,62,MIA,POR,0,home,FreeThrow,,,make1,1,C. Bosh,
+214,3,11:26.0,54,62,MIA,POR,0,home,FreeThrow,,,make1,1,C. Bosh,
+215,3,11:11.0,54,62,MIA,POR,15,away,JS,,9,miss2,0,C. McCollum,
+216,3,11:10.0,54,62,MIA,POR,1,home,DefReb,,,DefReb,,H. Whiteside,
+217,3,10:53.0,54,62,MIA,POR,17,home,3sec,,,turnover,,H. Whiteside,
+218,3,10:36.0,54,62,MIA,POR,17,away,BadPass,steal,,turnover,,D. Lillard,C. Bosh
+219,3,10:19.0,56,62,MIA,POR,17,home,JS,assist,3,make2,2,H. Whiteside,L. Deng
+220,3,10:01.0,56,62,MIA,POR,18,away,JS,,24,miss3,0,C. McCollum,
+221,3,10:00.0,56,62,MIA,POR,1,home,DefReb,,,DefReb,,C. Bosh,
+222,3,9:50.0,56,62,MIA,POR,10,home,JS,,8,miss2,0,L. Deng,
+223,3,9:49.0,56,62,MIA,POR,1,away,DefReb,,,DefReb,,Team,
+224,3,9:49.0,56,62,MIA,POR,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,H. Whiteside,M. Plumlee
+225,3,9:30.0,56,64,MIA,POR,19,away,JS,assist,18,make2,2,D. Lillard,C. McCollum
+226,3,9:14.0,59,64,MIA,POR,16,home,JS,assist,24,make3,3,C. Bosh,G. Dragić
+227,3,8:51.0,59,64,MIA,POR,23,away,JS,,18,miss2,0,N. Vonleh,
+228,3,8:50.0,59,64,MIA,POR,1,home,DefReb,,,DefReb,,D. Wade,
+229,3,8:31.0,61,64,MIA,POR,19,home,HS,assist,3,make2,2,H. Whiteside,G. Dragić
+230,3,8:14.0,61,64,MIA,POR,17,away,JS,,10,miss2,0,C. McCollum,
+231,3,8:13.0,61,64,MIA,POR,1,home,DefReb,,,DefReb,,H. Whiteside,
+232,3,7:55.0,64,64,MIA,POR,18,home,JS,assist,22,make3,3,L. Deng,C. Bosh
+233,3,7:53.0,64,64,MIA,POR,2,away,Timeout,,,,,,
+234,3,7:53.0,64,64,MIA,POR,0,away,Sub,,,,,M. Leonard,N. Vonleh
+235,3,7:40.0,64,66,MIA,POR,13,away,LU,assist,0,make2,2,D. Lillard,M. Plumlee
+236,3,7:26.0,66,66,MIA,POR,14,home,DK,assist,0,make2,2,H. Whiteside,D. Wade
+237,3,7:26.0,66,66,MIA,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Leonard,H. Whiteside
+238,3,7:26.0,66,66,MIA,POR,0,home,FreeThrow,,,make1,0,H. Whiteside,
+239,3,7:25.0,66,66,MIA,POR,1,away,DefReb,,,DefReb,,M. Leonard,
+240,3,7:11.0,66,66,MIA,POR,14,away,JS,,23,miss3,0,M. Leonard,
+241,3,7:10.0,66,66,MIA,POR,1,home,DefReb,,,DefReb,,C. Bosh,
+242,3,7:00.0,66,66,MIA,POR,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lillard,D. Wade
+243,3,7:00.0,67,66,MIA,POR,0,home,FreeThrow,,,make1,1,D. Wade,
+244,3,7:00.0,67,66,MIA,POR,0,home,FreeThrow,,,make1,0,D. Wade,
+245,3,6:59.0,67,66,MIA,POR,1,away,DefReb,,,DefReb,,M. Leonard,
+246,3,6:43.0,67,66,MIA,POR,16,away,BadPass,steal,,turnover,,M. Plumlee,H. Whiteside
+247,3,6:39.0,69,66,MIA,POR,4,home,LU,assist,1,make2,2,D. Wade,H. Whiteside
+248,3,6:21.0,69,68,MIA,POR,18,away,LU,assist,1,make2,2,M. Plumlee,M. Leonard
+249,3,6:21.0,69,68,MIA,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Deng,M. Plumlee
+250,3,6:21.0,69,69,MIA,POR,0,away,FreeThrow,,,make1,1,M. Plumlee,
+251,3,6:07.0,69,69,MIA,POR,14,home,Sub,,,,,J. Winslow,C. Bosh
+252,3,5:56.0,71,69,MIA,POR,11,home,JS,,16,make2,2,D. Wade,
+253,3,5:42.0,71,72,MIA,POR,14,away,JS,,25,make3,3,D. Lillard,
+254,3,5:12.0,71,72,MIA,POR,30,home,ShotClockViolation,,,turnover,,Team,
+255,3,4:56.0,71,72,MIA,POR,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Deng,D. Lillard
+256,3,4:50.0,71,72,MIA,POR,6,away,LU,block,3,miss2,0,D. Lillard,H. Whiteside
+257,3,4:49.0,71,72,MIA,POR,1,away,OffReb,,,OffReb,,Team,
+258,3,4:48.0,71,72,MIA,POR,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dragić,D. Lillard
+259,3,4:48.0,71,72,MIA,POR,0,home,TechnicalFoul,,,TechnicalFoul,,G. Dragić,
+260,3,4:48.0,71,73,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard makes technical free throw,
+261,3,4:48.0,71,74,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+262,3,4:48.0,71,75,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+263,3,4:38.0,71,75,MIA,POR,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. McCollum,D. Wade
+264,3,4:26.0,71,75,MIA,POR,12,home,LostBall,steal,,turnover,,D. Wade,C. McCollum
+265,3,4:20.0,71,77,MIA,POR,6,away,LU,assist,2,make2,2,M. Plumlee,C. McCollum
+266,3,4:20.0,71,77,MIA,POR,0,home,Timeout,,,,,,
+267,3,4:20.0,71,77,MIA,POR,0,home,TechnicalFoul,,,TechnicalFoul,,D. Wade,
+268,3,4:20.0,71,77,MIA,POR,0,home,Sub,,,,,G. Green,D. Wade
+269,3,4:20.0,71,78,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard makes technical free throw,
+270,3,4:06.0,73,78,MIA,POR,14,home,JS,,16,make2,2,G. Dragić,
+271,3,3:37.0,73,78,MIA,POR,29,away,JS,,24,miss3,0,M. Plumlee,
+272,3,3:36.0,73,78,MIA,POR,1,home,DefReb,,,DefReb,,G. Dragić,
+273,3,3:20.0,73,78,MIA,POR,16,home,JS,,9,miss2,0,G. Dragić,
+274,3,3:19.0,73,78,MIA,POR,1,home,OffReb,,,OffReb,,H. Whiteside,
+275,3,3:17.0,75,78,MIA,POR,2,home,LU,,1,make2,2,H. Whiteside,
+276,3,3:08.0,75,78,MIA,POR,9,away,JS,,19,miss2,0,M. Leonard,
+277,3,3:07.0,75,78,MIA,POR,1,home,DefReb,,,DefReb,,J. Winslow,
+278,3,3:01.0,78,78,MIA,POR,6,home,JS,assist,24,make3,3,G. Green,J. Winslow
+279,3,2:40.0,78,81,MIA,POR,21,away,JS,assist,23,make3,3,C. McCollum,D. Lillard
+280,3,2:21.0,78,81,MIA,POR,19,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Lillard,L. Deng
+281,3,2:21.0,79,81,MIA,POR,0,home,FreeThrow,,,make1,1,L. Deng,
+282,3,2:21.0,79,81,MIA,POR,0,away,Sub,,,,,E. Davis,A. Aminu
+283,3,2:21.0,79,81,MIA,POR,0,away,Sub,,,,,M. Harkless,M. Plumlee
+284,3,2:21.0,79,81,MIA,POR,0,away,Sub,,,,,A. Crabbe,C. McCollum
+285,3,2:21.0,80,81,MIA,POR,0,home,FreeThrow,,,make1,1,L. Deng,
+286,3,2:09.0,80,81,MIA,POR,12,away,BadPass,steal,,turnover,,D. Lillard,J. Winslow
+287,3,2:03.0,80,81,MIA,POR,6,home,JS,,25,miss3,0,L. Deng,
+288,3,2:02.0,80,81,MIA,POR,1,away,DefReb,,,DefReb,,E. Davis,
+289,3,1:42.0,80,81,MIA,POR,20,away,JS,,23,miss3,0,A. Crabbe,
+290,3,1:41.0,80,81,MIA,POR,1,away,OffReb,,,OffReb,,M. Leonard,
+291,3,1:37.0,80,81,MIA,POR,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dragić,E. Davis
+292,3,1:37.0,80,81,MIA,POR,0,home,TechnicalFoul,,,TechnicalFoul,,G. Dragić,
+293,3,1:37.0,80,81,MIA,POR,0,home,Sub,,,,,B. Udrih,G. Dragić
+294,3,1:37.0,80,81,MIA,POR,0,home,Sub,,,,,C. Bosh,L. Deng
+295,3,1:37.0,80,82,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard makes technical free throw,
+296,3,1:37.0,80,83,MIA,POR,0,away,FreeThrow,,,make1,1,E. Davis,
+297,3,1:37.0,80,84,MIA,POR,0,away,FreeThrow,,,make1,1,E. Davis,
+298,3,1:20.0,82,84,MIA,POR,17,home,JS,assist,17,make2,2,C. Bosh,B. Udrih
+299,3,1:00.0,82,86,MIA,POR,20,away,HS,,6,make2,2,M. Leonard,
+300,3,0:45.0,82,86,MIA,POR,15,home,JS,,23,miss3,0,C. Bosh,
+301,3,0:44.0,82,86,MIA,POR,1,away,DefReb,,,DefReb,,M. Harkless,
+302,3,0:35.0,82,86,MIA,POR,9,away,JS,,3,miss2,0,M. Harkless,
+303,3,0:34.0,82,86,MIA,POR,1,home,DefReb,,,DefReb,,J. Winslow,
+304,3,0:28.0,82,86,MIA,POR,6,home,JS,,23,miss3,0,G. Green,
+305,3,0:26.0,82,86,MIA,POR,2,away,OffReb,,,OffReb,,Team,
+306,3,0:01.0,82,86,MIA,POR,25,away,JS,block,6,miss2,0,D. Lillard,H. Whiteside
+307,3,0:00.0,82,86,MIA,POR,1,away,OffReb,,,OffReb,,E. Davis,
+308,3,0:00.0,82,86,MIA,POR,0,away,JS,block,8,miss2,0,E. Davis,H. Whiteside
+309,3,0:00.0,82,86,MIA,POR,0,away,OffReb,,,OffReb,,Team,
+310,4,12:00.0,82,86,MIA,POR,0,home,TechnicalFoul,,,TechnicalFoul,,H. Whiteside,
+311,4,12:00.0,82,86,MIA,POR,0,away,FreeThrow,,,make1,0,D. Lillard misses technical free throw,
+312,4,12:00.0,82,86,MIA,POR,0,home,OffReb,,,OffReb,,Team,
+313,4,12:00.0,82,86,MIA,POR,0,away,Sub,,,,,M. Leonard,D. Lillard
+314,4,11:44.0,84,86,MIA,POR,16,home,LU,,1,make2,2,C. Bosh,
+315,4,11:15.0,84,88,MIA,POR,29,away,JS,,16,make2,2,C. McCollum,
+316,4,10:50.0,86,88,MIA,POR,25,home,JS,,16,make2,2,C. Bosh,
+317,4,10:36.0,86,88,MIA,POR,14,away,JS,,20,miss2,0,C. McCollum,
+318,4,10:35.0,86,88,MIA,POR,1,home,DefReb,,,DefReb,,Team,
+319,4,10:14.0,88,88,MIA,POR,21,home,LU,,1,make2,2,C. Bosh,
+320,4,10:14.0,88,88,MIA,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,C. Bosh
+321,4,10:14.0,89,88,MIA,POR,0,home,FreeThrow,,,make1,1,C. Bosh,
+322,4,9:56.0,89,88,MIA,POR,18,away,JS,,22,miss3,0,M. Harkless,
+323,4,9:55.0,89,88,MIA,POR,1,home,DefReb,,,DefReb,,H. Whiteside,
+324,4,9:46.0,89,88,MIA,POR,9,home,JS,,23,miss3,0,J. Winslow,
+325,4,9:43.0,89,88,MIA,POR,3,away,DefReb,,,DefReb,,A. Crabbe,
+326,4,9:31.0,89,88,MIA,POR,12,away,BadPass,,,turnover,,C. McCollum,
+327,4,9:18.0,91,88,MIA,POR,13,home,JS,,18,make2,2,C. Bosh,
+328,4,8:53.0,91,88,MIA,POR,25,away,JS,,8,miss2,0,A. Crabbe,
+329,4,8:52.0,91,88,MIA,POR,1,away,OffReb,,,OffReb,,M. Harkless,
+330,4,8:41.0,91,90,MIA,POR,11,away,LU,assist,0,make2,2,A. Crabbe,E. Davis
+331,4,8:17.0,91,90,MIA,POR,24,home,JS,,25,miss3,0,C. Bosh,
+332,4,8:16.0,91,90,MIA,POR,1,away,DefReb,,,DefReb,,M. Leonard,
+333,4,8:04.0,91,92,MIA,POR,12,away,LU,assist,2,make2,2,A. Crabbe,C. McCollum
+334,4,7:52.0,91,92,MIA,POR,12,home,JS,,23,miss3,0,C. Bosh,
+335,4,7:51.0,91,92,MIA,POR,1,home,OffReb,,,OffReb,,H. Whiteside,
+336,4,7:50.0,93,92,MIA,POR,1,home,LU,,1,make2,2,H. Whiteside,
+337,4,7:50.0,93,92,MIA,POR,0,away,Timeout,,,,,,
+338,4,7:50.0,93,92,MIA,POR,0,away,Sub,,,,,D. Lillard,C. McCollum
+339,4,7:50.0,93,92,MIA,POR,0,away,Sub,,,,,A. Aminu,M. Leonard
+340,4,7:50.0,93,92,MIA,POR,0,away,Sub,,,,,M. Plumlee,E. Davis
+341,4,7:38.0,93,92,MIA,POR,12,away,JS,,26,miss3,0,D. Lillard,
+342,4,7:37.0,93,92,MIA,POR,1,away,OffReb,,,OffReb,,A. Aminu,
+343,4,7:27.0,93,94,MIA,POR,10,away,JS,,17,make2,2,D. Lillard,
+344,4,7:11.0,95,94,MIA,POR,16,home,JS,,18,make2,2,C. Bosh,
+345,4,6:49.0,95,97,MIA,POR,22,away,JS,assist,25,make3,3,D. Lillard,A. Aminu
+346,4,6:27.0,97,97,MIA,POR,22,home,LU,assist,2,make2,2,G. Green,C. Bosh
+347,4,6:27.0,97,97,MIA,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,G. Green
+348,4,6:27.0,97,97,MIA,POR,0,home,Sub,,,,,D. Wade,J. Winslow
+349,4,6:27.0,97,97,MIA,POR,0,home,Sub,,,,,L. Deng,C. Bosh
+350,4,6:27.0,97,97,MIA,POR,0,home,FreeThrow,,,make1,0,G. Green,
+351,4,6:26.0,97,97,MIA,POR,1,away,DefReb,,,DefReb,,M. Harkless,
+352,4,6:15.0,97,97,MIA,POR,11,home,ChargeFoul,DrawnBy,,ChargeFoul,,M. Plumlee,G. Green
+353,4,6:15.0,97,97,MIA,POR,0,away,OffensiveFoul,,,turnover,,M. Plumlee,
+354,4,5:56.0,97,97,MIA,POR,19,home,JS,,17,miss2,0,D. Wade,
+355,4,5:55.0,97,97,MIA,POR,1,away,DefReb,,,DefReb,,A. Crabbe,
+356,4,5:49.0,97,97,MIA,POR,6,away,JS,,24,miss3,0,D. Lillard,
+357,4,5:48.0,97,97,MIA,POR,1,home,DefReb,,,DefReb,,H. Whiteside,
+358,4,5:28.0,100,97,MIA,POR,20,home,JS,assist,22,make3,3,G. Green,D. Wade
+359,4,5:15.0,100,97,MIA,POR,13,away,BadPass,,,turnover,,M. Plumlee,
+360,4,5:15.0,100,97,MIA,POR,0,away,Timeout,,,,,,
+361,4,5:03.0,100,97,MIA,POR,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Aminu,D. Wade
+362,4,5:03.0,100,97,MIA,POR,0,away,Sub,,,,,C. McCollum,M. Harkless
+363,4,4:48.0,103,97,MIA,POR,15,home,JS,assist,22,make3,3,G. Green,D. Wade
+364,4,4:25.0,103,97,MIA,POR,23,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Whiteside,A. Crabbe
+365,4,4:25.0,103,98,MIA,POR,0,away,FreeThrow,,,make1,1,A. Crabbe,
+366,4,4:25.0,103,99,MIA,POR,0,away,FreeThrow,,,make1,1,A. Crabbe,
+367,4,4:08.0,103,99,MIA,POR,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Aminu,D. Wade
+368,4,4:08.0,104,99,MIA,POR,0,home,FreeThrow,,,make1,1,D. Wade,
+369,4,4:08.0,104,99,MIA,POR,0,home,FreeThrow,,,make1,0,D. Wade,
+370,4,4:07.0,104,99,MIA,POR,1,away,DefReb,,,DefReb,,A. Crabbe,
+371,4,3:50.0,104,99,MIA,POR,17,away,JS,,24,miss3,0,D. Lillard,
+372,4,3:49.0,104,99,MIA,POR,1,home,DefReb,,,DefReb,,H. Whiteside,
+373,4,3:39.0,104,99,MIA,POR,10,home,JS,,23,miss3,0,G. Green,
+374,4,3:38.0,104,99,MIA,POR,1,home,OffReb,,,OffReb,,H. Whiteside,
+375,4,3:35.0,106,99,MIA,POR,3,home,HS,,4,make2,2,H. Whiteside,
+376,4,3:21.0,106,102,MIA,POR,14,away,JS,assist,25,make3,3,C. McCollum,D. Lillard
+377,4,3:19.0,106,102,MIA,POR,2,home,Timeout,,,,,,
+378,4,3:02.0,108,102,MIA,POR,17,home,DK,assist,0,make2,2,H. Whiteside,D. Wade
+379,4,2:48.0,108,102,MIA,POR,14,away,JS,,24,miss3,0,D. Lillard,
+380,4,2:47.0,108,102,MIA,POR,1,home,DefReb,,,DefReb,,H. Whiteside,
+381,4,2:40.0,108,102,MIA,POR,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Crabbe,H. Whiteside
+382,4,2:40.0,109,102,MIA,POR,0,home,FreeThrow,,,make1,1,H. Whiteside,
+383,4,2:40.0,110,102,MIA,POR,0,home,FreeThrow,,,make1,1,H. Whiteside,
+384,4,2:30.0,110,102,MIA,POR,10,away,JS,,24,miss3,0,C. McCollum,
+385,4,2:29.0,110,102,MIA,POR,1,home,DefReb,,,DefReb,,L. Deng,
+386,4,2:11.0,110,102,MIA,POR,18,home,JS,,24,miss3,0,B. Udrih,
+387,4,2:10.0,110,102,MIA,POR,1,away,DefReb,,,DefReb,,A. Aminu,
+388,4,2:01.0,110,102,MIA,POR,9,home,DefGoaltending,,,DefGoaltending,,H. Whiteside,
+389,4,2:01.0,110,104,MIA,POR,0,away,HS,,7,make2,2,D. Lillard,
+390,4,1:45.0,110,104,MIA,POR,16,home,JS,,16,miss2,0,D. Wade,
+391,4,1:45.0,110,104,MIA,POR,0,away,DefReb,,,DefReb,,M. Plumlee,
+392,4,1:38.0,110,104,MIA,POR,7,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Wade,C. McCollum
+393,4,1:38.0,110,104,MIA,POR,0,home,Sub,,,,,C. Bosh,L. Deng
+394,4,1:30.0,110,106,MIA,POR,8,away,LU,assist,1,make2,2,M. Plumlee,D. Lillard
+395,4,1:13.0,110,106,MIA,POR,17,home,JS,,16,miss2,0,C. Bosh,
+396,4,1:12.0,110,106,MIA,POR,1,away,DefReb,,,DefReb,,A. Aminu,
+397,4,1:01.0,110,106,MIA,POR,11,away,BadPass,,,turnover,,D. Lillard,
+398,4,1:01.0,110,106,MIA,POR,0,home,Timeout,,,,,,
+399,4,1:01.0,110,106,MIA,POR,0,away,Sub,,,,,E. Davis,C. McCollum
+400,4,0:44.0,112,106,MIA,POR,17,home,DK,assist,0,make2,2,H. Whiteside,D. Wade
+401,4,0:44.0,112,106,MIA,POR,0,away,Timeout,,,,,,
+402,4,0:44.0,112,106,MIA,POR,0,away,Sub,,,,,C. McCollum,M. Plumlee
+403,4,0:44.0,112,106,MIA,POR,0,away,Sub,,,,,M. Leonard,E. Davis
+404,4,0:44.0,112,106,MIA,POR,0,home,Sub,,,,,L. Deng,B. Udrih
+405,4,0:41.0,112,106,MIA,POR,3,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,H. Whiteside,D. Lillard
+406,4,0:41.0,112,106,MIA,POR,0,away,FreeThrow,,,make1,0,D. Lillard,
+407,4,0:41.0,112,106,MIA,POR,0,away,OffReb,,,OffReb,,Team,
+408,4,0:41.0,112,106,MIA,POR,0,home,Sub,,,,,B. Udrih,L. Deng
+409,4,0:41.0,112,106,MIA,POR,0,away,Sub,,,,,E. Davis,M. Leonard
+410,4,0:41.0,112,106,MIA,POR,0,away,Sub,,,,,M. Plumlee,C. McCollum
+411,4,0:41.0,112,107,MIA,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+412,4,0:36.0,112,107,MIA,POR,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Aminu,D. Wade
+413,4,0:36.0,113,107,MIA,POR,0,home,FreeThrow,,,make1,1,D. Wade,
+414,4,0:36.0,113,107,MIA,POR,0,away,Sub,,,,,M. Leonard,M. Plumlee
+415,4,0:36.0,113,107,MIA,POR,0,away,Sub,,,,,C. McCollum,E. Davis
+416,4,0:36.0,113,107,MIA,POR,0,home,Sub,,,,,L. Deng,B. Udrih
+417,4,0:36.0,114,107,MIA,POR,0,home,FreeThrow,,,make1,1,D. Wade,
+418,4,0:31.0,114,109,MIA,POR,5,away,JS,,6,make2,2,C. McCollum,
+419,4,0:31.0,114,109,MIA,POR,0,home,Timeout,,,,,,
+420,4,0:31.0,114,109,MIA,POR,0,away,Sub,,,,,E. Davis,C. McCollum
+421,4,0:31.0,114,109,MIA,POR,0,away,Sub,,,,,M. Plumlee,D. Lillard
+422,4,0:31.0,114,109,MIA,POR,0,away,Sub,,,,,T. Frazier,M. Leonard
+423,4,0:31.0,114,109,MIA,POR,0,home,Sub,,,,,B. Udrih,L. Deng
+424,4,0:29.0,114,109,MIA,POR,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Davis,D. Wade
+425,4,0:29.0,115,109,MIA,POR,0,home,FreeThrow,,,make1,1,D. Wade,
+426,4,0:29.0,116,109,MIA,POR,0,home,FreeThrow,,,make1,1,D. Wade,
+427,4,0:29.0,116,109,MIA,POR,0,away,Timeout,,,,,,
+428,4,0:29.0,116,109,MIA,POR,0,away,Sub,,,,,C. McCollum,A. Aminu
+429,4,0:29.0,116,109,MIA,POR,0,away,Sub,,,,,M. Leonard,E. Davis
+430,4,0:29.0,116,109,MIA,POR,0,away,Sub,,,,,D. Lillard,T. Frazier
+431,4,0:29.0,116,109,MIA,POR,0,home,Sub,,,,,L. Deng,H. Whiteside
+432,4,0:29.0,116,109,MIA,POR,0,home,Sub,,,,,J. Winslow,B. Udrih
+433,4,0:25.0,116,109,MIA,POR,4,away,JS,,24,miss3,0,D. Lillard,
+434,4,0:24.0,116,109,MIA,POR,1,home,DefReb,,,DefReb,,G. Green,

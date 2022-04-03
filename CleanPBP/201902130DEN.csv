@@ -1,0 +1,496 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,12:00.0,0,0,DEN,SAC,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
+1,1,11:39.0,0,0,DEN,SAC,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Murray,B. Hield
+2,1,11:39.0,0,1,DEN,SAC,0,away,FreeThrow,,,make1,1,B. Hield,
+3,1,11:39.0,0,2,DEN,SAC,0,away,FreeThrow,,,make1,1,B. Hield,
+4,1,11:24.0,2,2,DEN,SAC,15,home,LU,assist,1,make2,2,P. Millsap,N. Jokić
+5,1,11:13.0,2,4,DEN,SAC,11,away,JS,assist,15,make2,2,H. Barnes,N. Bjelica
+6,1,10:48.0,4,4,DEN,SAC,25,home,LU,,1,make2,2,N. Jokić,
+7,1,10:36.0,4,4,DEN,SAC,12,away,LU,,1,miss2,0,B. Hield,
+8,1,10:32.0,4,4,DEN,SAC,4,away,OffReb,,,OffReb,,W. Cauley-Stein,
+9,1,10:32.0,4,6,DEN,SAC,0,away,LU,,0,make2,2,W. Cauley-Stein,
+10,1,10:19.0,6,6,DEN,SAC,13,home,LU,assist,1,make2,2,M. Beasley,N. Jokić
+11,1,9:58.0,6,6,DEN,SAC,21,away,JS,,23,miss3,0,H. Barnes,
+12,1,9:56.0,6,6,DEN,SAC,2,home,DefReb,,,DefReb,,J. Murray,
+13,1,9:51.0,8,6,DEN,SAC,5,home,LU,assist,2,make2,2,W. Barton,J. Murray
+14,1,9:51.0,8,6,DEN,SAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,W. Barton
+15,1,9:51.0,8,6,DEN,SAC,0,home,FreeThrow,,,make1,0,W. Barton,
+16,1,9:49.0,8,6,DEN,SAC,2,away,DefReb,,,DefReb,,H. Barnes,
+17,1,9:38.0,8,8,DEN,SAC,11,away,JS,assist,17,make2,2,D. Fox,N. Bjelica
+18,1,9:22.0,8,8,DEN,SAC,16,home,lost ball,steal,,turnover,,J. Murray,W. Cauley-Stein
+19,1,9:09.0,8,11,DEN,SAC,13,away,JS,assist,25,make3,3,D. Fox,W. Cauley-Stein
+20,1,8:50.0,8,11,DEN,SAC,19,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Fox,N. Jokić
+21,1,8:47.0,10,11,DEN,SAC,3,home,JS,assist,18,make2,2,M. Beasley,W. Barton
+22,1,8:34.0,10,13,DEN,SAC,13,away,DK,assist,1,make2,2,W. Cauley-Stein,D. Fox
+23,1,8:22.0,10,13,DEN,SAC,12,home,lost ball,steal,,turnover,,W. Barton,N. Bjelica
+24,1,8:16.0,10,16,DEN,SAC,6,away,JS,assist,25,make3,3,N. Bjelica,W. Cauley-Stein
+25,1,8:14.0,10,16,DEN,SAC,2,home,Timeout,,,,,,
+26,1,7:53.0,12,16,DEN,SAC,21,home,LU,assist,2,make2,2,M. Beasley,J. Murray
+27,1,7:33.0,12,16,DEN,SAC,20,away,JS,,25,miss3,0,H. Barnes,
+28,1,7:28.0,12,16,DEN,SAC,5,away,OffReb,,,OffReb,,N. Bjelica,
+29,1,7:27.0,12,16,DEN,SAC,1,away,bad pass,steal,,turnover,,N. Bjelica,N. Jokić
+30,1,7:23.0,12,16,DEN,SAC,4,home,LU,,2,miss2,0,N. Jokić,
+31,1,7:21.0,12,16,DEN,SAC,2,away,DefReb,,,DefReb,,H. Barnes,
+32,1,7:15.0,12,18,DEN,SAC,6,away,JS,assist,6,make2,2,B. Hield,H. Barnes
+33,1,6:49.0,14,18,DEN,SAC,26,home,JS,,7,make2,2,J. Murray,
+34,1,6:39.0,14,18,DEN,SAC,10,away,HS,,4,miss2,0,W. Cauley-Stein,
+35,1,6:37.0,14,18,DEN,SAC,2,home,DefReb,,,DefReb,,P. Millsap,
+36,1,6:30.0,16,18,DEN,SAC,7,home,LU,,2,make2,2,P. Millsap,
+37,1,6:18.0,16,21,DEN,SAC,12,away,JS,assist,25,make3,3,N. Bjelica,D. Fox
+38,1,6:02.0,16,21,DEN,SAC,16,home,JS,,5,miss2,0,J. Murray,
+39,1,6:00.0,16,21,DEN,SAC,2,away,DefReb,,,DefReb,,B. Hield,
+40,1,5:55.0,16,23,DEN,SAC,5,away,JS,,20,make2,2,B. Hield,
+41,1,5:42.0,16,23,DEN,SAC,13,home,DK,,1,miss2,0,M. Beasley,
+42,1,5:40.0,16,23,DEN,SAC,2,away,DefReb,,,DefReb,,W. Cauley-Stein,
+43,1,5:36.0,16,25,DEN,SAC,4,away,DK,,1,make2,2,D. Fox,
+44,1,5:35.0,16,25,DEN,SAC,1,home,Timeout,,,,,,
+45,1,5:35.0,16,25,DEN,SAC,0,away,Sub,,,,,M. Bagley,N. Bjelica
+46,1,5:35.0,16,25,DEN,SAC,0,home,Sub,,,,,T. Craig,W. Barton
+47,1,5:35.0,16,25,DEN,SAC,0,home,Sub,,,,,M. Plumlee,P. Millsap
+48,1,5:23.0,16,25,DEN,SAC,12,home,JS,,24,miss3,0,T. Craig,
+49,1,5:20.0,16,25,DEN,SAC,3,away,DefReb,,,DefReb,,D. Fox,
+50,1,5:05.0,16,28,DEN,SAC,15,away,JS,assist,24,make3,3,B. Hield,H. Barnes
+51,1,4:49.0,16,28,DEN,SAC,16,home,JS,,25,miss3,0,N. Jokić,
+52,1,4:47.0,16,28,DEN,SAC,2,away,DefReb,,,DefReb,,M. Bagley,
+53,1,4:40.0,16,28,DEN,SAC,7,away,JS,,23,miss3,0,H. Barnes,
+54,1,4:36.0,16,28,DEN,SAC,4,home,DefReb,,,DefReb,,T. Craig,
+55,1,4:26.0,18,28,DEN,SAC,10,home,HS,assist,3,make2,2,M. Plumlee,N. Jokić
+56,1,4:01.0,18,31,DEN,SAC,25,away,JS,assist,25,make3,3,H. Barnes,W. Cauley-Stein
+57,1,3:51.0,18,31,DEN,SAC,10,home,JS,,24,miss3,0,M. Beasley,
+58,1,3:48.0,18,31,DEN,SAC,3,away,DefReb,,,DefReb,,D. Fox,
+59,1,3:41.0,18,33,DEN,SAC,7,away,JS,,15,make2,2,B. Hield,
+60,1,3:23.0,18,33,DEN,SAC,18,home,bad pass,steal,,turnover,,N. Jokić,W. Cauley-Stein
+61,1,3:12.0,18,33,DEN,SAC,11,away,Timeout,,,,,,
+62,1,3:12.0,18,33,DEN,SAC,0,away,Sub,,,,,B. Bogdanović,H. Barnes
+63,1,3:12.0,18,33,DEN,SAC,0,away,Sub,,,,,H. Giles,W. Cauley-Stein
+64,1,3:12.0,18,33,DEN,SAC,0,home,Sub,,,,,P. Millsap,M. Beasley
+65,1,3:12.0,18,33,DEN,SAC,0,home,Sub,,,,,M. Morris,N. Jokić
+66,1,3:12.0,18,33,DEN,SAC,0,home,Sub,,,,,I. Thomas,J. Murray
+67,1,3:10.0,18,33,DEN,SAC,2,away,JS,,25,miss3,0,B. Hield,
+68,1,3:06.0,18,33,DEN,SAC,4,home,DefReb,,,DefReb,,P. Millsap,
+69,1,2:53.0,18,33,DEN,SAC,13,home,LU,,1,miss2,0,M. Morris,
+70,1,2:52.0,18,33,DEN,SAC,1,home,OffReb,,,OffReb,,M. Plumlee,
+71,1,2:48.0,18,33,DEN,SAC,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,H. Giles,M. Plumlee
+72,1,2:40.0,20,33,DEN,SAC,8,home,JS,assist,5,make2,2,P. Millsap,I. Thomas
+73,1,2:40.0,20,33,DEN,SAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bagley,P. Millsap
+74,1,2:40.0,21,33,DEN,SAC,0,home,FreeThrow,,,make1,1,P. Millsap,
+75,1,2:25.0,21,33,DEN,SAC,15,away,lost ball,steal,,turnover,,B. Hield,T. Craig
+76,1,2:19.0,24,33,DEN,SAC,6,home,JS,assist,25,make3,3,P. Millsap,M. Morris
+77,1,2:08.0,24,33,DEN,SAC,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Millsap,H. Giles
+78,1,2:08.0,24,34,DEN,SAC,0,away,FreeThrow,,,make1,1,H. Giles,
+79,1,2:08.0,24,34,DEN,SAC,0,away,Sub,,,,,Y. Ferrell,D. Fox
+80,1,2:08.0,24,35,DEN,SAC,0,away,FreeThrow,,,make1,1,H. Giles,
+81,1,2:01.0,24,35,DEN,SAC,7,home,JS,,24,miss3,0,I. Thomas,
+82,1,1:57.0,24,35,DEN,SAC,4,away,DefReb,,,DefReb,,B. Bogdanović,
+83,1,1:44.0,24,35,DEN,SAC,13,away,LU,,3,miss2,0,H. Giles,
+84,1,1:42.0,24,35,DEN,SAC,2,home,DefReb,,,DefReb,,M. Plumlee,
+85,1,1:37.0,24,35,DEN,SAC,5,home,JS,,4,miss2,0,M. Morris,
+86,1,1:36.0,24,35,DEN,SAC,1,home,OffReb,,,OffReb,,P. Millsap,
+87,1,1:32.0,24,35,DEN,SAC,4,home,JS,,14,miss2,0,M. Plumlee,
+88,1,1:30.0,24,35,DEN,SAC,2,home,OffReb,,,OffReb,,P. Millsap,
+89,1,1:28.0,24,35,DEN,SAC,2,home,LU,,3,miss2,0,P. Millsap,
+90,1,1:28.0,24,35,DEN,SAC,0,home,OffReb,,,OffReb,,M. Plumlee,
+91,1,1:24.0,26,35,DEN,SAC,4,home,DK,,1,make2,2,M. Plumlee,
+92,1,1:13.0,26,35,DEN,SAC,11,away,JS,,13,miss2,0,Y. Ferrell,
+93,1,1:12.0,26,35,DEN,SAC,1,away,OffReb,,,OffReb,,Team,
+94,1,1:12.0,26,35,DEN,SAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,P. Millsap,M. Bagley
+95,1,1:12.0,26,35,DEN,SAC,0,away,Sub,,,,,A. Burks,B. Hield
+96,1,1:12.0,26,35,DEN,SAC,0,home,Sub,,,,,T. Lyles,P. Millsap
+97,1,0:59.0,26,37,DEN,SAC,13,away,JS,assist,15,make2,2,Y. Ferrell,A. Burks
+98,1,0:47.0,28,37,DEN,SAC,12,home,JS,,10,make2,2,T. Lyles,
+99,1,0:35.0,28,39,DEN,SAC,12,away,JS,assist,3,make2,2,B. Bogdanović,A. Burks
+100,1,0:30.0,30,39,DEN,SAC,5,home,DK,assist,1,make2,2,M. Plumlee,I. Thomas
+101,1,0:20.0,30,41,DEN,SAC,10,away,LU,,2,make2,2,M. Bagley,
+102,1,0:00.0,30,41,DEN,SAC,20,home,lost ball,steal,,turnover,,M. Plumlee,Y. Ferrell
+103,2,11:49.0,30,41,DEN,SAC,11,home,JS,,25,miss3,0,T. Craig,
+104,2,11:47.0,30,41,DEN,SAC,2,home,OffReb,,,OffReb,,Team,
+105,2,11:47.0,30,41,DEN,SAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,H. Giles,M. Plumlee
+106,2,11:34.0,32,41,DEN,SAC,13,home,JS,,8,make2,2,M. Morris,
+107,2,11:15.0,32,41,DEN,SAC,19,away,JS,,11,miss2,0,M. Bagley,
+108,2,11:08.0,32,41,DEN,SAC,7,away,OffReb,,,OffReb,,B. Bogdanović,
+109,2,11:08.0,32,43,DEN,SAC,0,away,LU,,0,make2,2,B. Bogdanović,
+110,2,10:46.0,32,43,DEN,SAC,22,home,LU,,2,miss2,0,T. Craig,
+111,2,10:44.0,32,43,DEN,SAC,2,away,DefReb,,,DefReb,,A. Burks,
+112,2,10:38.0,32,43,DEN,SAC,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Lyles,H. Giles
+113,2,10:38.0,32,44,DEN,SAC,0,away,FreeThrow,,,make1,1,H. Giles,
+114,2,10:38.0,32,44,DEN,SAC,0,home,Sub,,,,,W. Barton,T. Craig
+115,2,10:38.0,32,45,DEN,SAC,0,away,FreeThrow,,,make1,1,H. Giles,
+116,2,10:32.0,32,45,DEN,SAC,6,home,JS,,25,miss3,0,I. Thomas,
+117,2,10:28.0,32,45,DEN,SAC,4,away,DefReb,,,DefReb,,Y. Ferrell,
+118,2,10:20.0,32,45,DEN,SAC,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,M. Bagley
+119,2,10:20.0,32,46,DEN,SAC,0,away,FreeThrow,,,make1,1,M. Bagley,
+120,2,10:20.0,32,47,DEN,SAC,0,away,FreeThrow,,,make1,1,M. Bagley,
+121,2,10:11.0,32,47,DEN,SAC,9,home,JS,,13,miss2,0,T. Lyles,
+122,2,10:10.0,32,47,DEN,SAC,1,home,OffReb,,,OffReb,,Team,
+123,2,10:10.0,32,47,DEN,SAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,H. Giles,M. Plumlee
+124,2,10:10.0,32,47,DEN,SAC,0,away,Sub,,,,,H. Barnes,H. Giles
+125,2,10:05.0,32,47,DEN,SAC,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Barnes,T. Lyles
+126,2,10:05.0,33,47,DEN,SAC,0,home,FreeThrow,,,make1,1,T. Lyles,
+127,2,10:05.0,33,47,DEN,SAC,0,home,FreeThrow,,,make1,0,T. Lyles,
+128,2,10:02.0,33,47,DEN,SAC,3,away,DefReb,,,DefReb,,M. Bagley,
+129,2,9:48.0,33,47,DEN,SAC,14,away,JS,,18,miss2,0,Y. Ferrell,
+130,2,9:45.0,33,47,DEN,SAC,3,home,DefReb,,,DefReb,,M. Plumlee,
+131,2,9:34.0,33,47,DEN,SAC,11,home,LU,block,4,miss2,0,W. Barton,B. Bogdanović
+132,2,9:31.0,33,47,DEN,SAC,3,away,DefReb,,,DefReb,,M. Bagley,
+133,2,9:30.0,33,47,DEN,SAC,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,B. Bogdanović
+134,2,9:30.0,33,48,DEN,SAC,0,away,FreeThrow,,,make1,1,B. Bogdanović,
+135,2,9:30.0,33,49,DEN,SAC,0,away,FreeThrow,,,make1,1,B. Bogdanović,
+136,2,9:30.0,33,49,DEN,SAC,0,home,Sub,,,,,N. Jokić,M. Plumlee
+137,2,9:30.0,33,50,DEN,SAC,0,away,FreeThrow,,,make1,1,B. Bogdanović,
+138,2,9:17.0,33,50,DEN,SAC,13,home,LU,,2,miss2,0,T. Lyles,
+139,2,9:16.0,33,50,DEN,SAC,1,away,DefReb,,,DefReb,,H. Barnes,
+140,2,9:03.0,33,50,DEN,SAC,13,away,JS,,23,miss3,0,M. Bagley,
+141,2,8:59.0,33,50,DEN,SAC,4,home,DefReb,,,DefReb,,N. Jokić,
+142,2,8:55.0,33,50,DEN,SAC,4,home,JS,,25,miss3,0,M. Morris,
+143,2,8:51.0,33,50,DEN,SAC,4,away,DefReb,,,DefReb,,A. Burks,
+144,2,8:48.0,33,50,DEN,SAC,3,away,DiscontinueDribbleTurnover,,,turnover,,A. Burks,
+145,2,8:34.0,35,50,DEN,SAC,14,home,LU,assist,2,make2,2,N. Jokić,M. Morris
+146,2,8:12.0,35,50,DEN,SAC,22,away,JS,,24,miss3,0,B. Bogdanović,
+147,2,8:11.0,35,50,DEN,SAC,1,home,DefReb,,,DefReb,,Team,
+148,2,8:11.0,35,50,DEN,SAC,0,home,Sub,,,,,M. Beasley,I. Thomas
+149,2,7:55.0,37,50,DEN,SAC,16,home,LU,,2,make2,2,N. Jokić,
+150,2,7:35.0,37,52,DEN,SAC,20,away,LU,assist,3,make2,2,Y. Ferrell,M. Bagley
+151,2,7:12.0,37,52,DEN,SAC,23,home,JS,,12,miss2,0,M. Beasley,
+152,2,7:08.0,37,52,DEN,SAC,4,away,DefReb,,,DefReb,,H. Barnes,
+153,2,7:01.0,37,54,DEN,SAC,7,away,JS,assist,9,make2,2,B. Bogdanović,Y. Ferrell
+154,2,6:41.0,39,54,DEN,SAC,20,home,JS,,10,make2,2,M. Morris,
+155,2,6:21.0,39,54,DEN,SAC,20,away,JS,,23,miss2,0,B. Bogdanović,
+156,2,6:19.0,39,54,DEN,SAC,2,home,DefReb,,,DefReb,,T. Lyles,
+157,2,6:12.0,39,54,DEN,SAC,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Bogdanović,W. Barton
+158,2,6:12.0,39,54,DEN,SAC,0,home,Timeout,,,,,,
+159,2,6:12.0,39,54,DEN,SAC,0,away,Sub,,,,,N. Bjelica,M. Bagley
+160,2,6:12.0,39,54,DEN,SAC,0,away,Sub,,,,,W. Cauley-Stein,A. Burks
+161,2,6:12.0,39,54,DEN,SAC,0,home,Sub,,,,,P. Millsap,T. Lyles
+162,2,6:12.0,39,54,DEN,SAC,0,home,Sub,,,,,J. Murray,M. Morris
+163,2,6:12.0,40,54,DEN,SAC,0,home,FreeThrow,,,make1,1,W. Barton,
+164,2,6:12.0,41,54,DEN,SAC,0,home,FreeThrow,,,make1,1,W. Barton,
+165,2,5:53.0,41,54,DEN,SAC,19,away,JS,,13,miss2,0,B. Bogdanović,
+166,2,5:49.0,41,54,DEN,SAC,4,home,DefReb,,,DefReb,,P. Millsap,
+167,2,5:45.0,41,54,DEN,SAC,4,home,JS,,26,miss3,0,W. Barton,
+168,2,5:42.0,41,54,DEN,SAC,3,away,DefReb,,,DefReb,,W. Cauley-Stein,
+169,2,5:38.0,41,54,DEN,SAC,4,away,JS,,24,miss3,0,B. Bogdanović,
+170,2,5:36.0,41,54,DEN,SAC,2,away,OffReb,,,OffReb,,N. Bjelica,
+171,2,5:34.0,41,56,DEN,SAC,2,away,LU,,0,make2,2,N. Bjelica,
+172,2,5:17.0,44,56,DEN,SAC,17,home,JS,assist,26,make3,3,J. Murray,P. Millsap
+173,2,5:01.0,44,56,DEN,SAC,16,away,JS,,25,miss3,0,Y. Ferrell,
+174,2,4:57.0,44,56,DEN,SAC,4,home,DefReb,,,DefReb,,N. Jokić,
+175,2,4:52.0,44,56,DEN,SAC,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,M. Beasley
+176,2,4:52.0,44,56,DEN,SAC,0,away,Sub,,,,,D. Fox,B. Bogdanović
+177,2,4:52.0,44,56,DEN,SAC,0,away,Sub,,,,,B. Hield,Y. Ferrell
+178,2,4:52.0,45,56,DEN,SAC,0,home,FreeThrow,,,make1,1,M. Beasley,
+179,2,4:52.0,46,56,DEN,SAC,0,home,FreeThrow,,,make1,1,M. Beasley,
+180,2,4:44.0,46,56,DEN,SAC,8,away,BadPass,,,turnover,,D. Fox,
+181,2,4:32.0,46,56,DEN,SAC,12,home,BadPass,,,turnover,,J. Murray,
+182,2,4:18.0,46,56,DEN,SAC,14,away,bad pass,steal,,turnover,,D. Fox,P. Millsap
+183,2,4:14.0,48,56,DEN,SAC,4,home,DK,,1,make2,2,P. Millsap,
+184,2,3:59.0,48,56,DEN,SAC,15,away,JS,,23,miss3,0,H. Barnes,
+185,2,3:56.0,48,56,DEN,SAC,3,home,DefReb,,,DefReb,,M. Beasley,
+186,2,3:50.0,48,56,DEN,SAC,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,P. Millsap
+187,2,3:50.0,48,56,DEN,SAC,0,home,FreeThrow,,,make1,0,P. Millsap,
+188,2,3:50.0,48,56,DEN,SAC,0,home,OffReb,,,OffReb,,Team,
+189,2,3:50.0,49,56,DEN,SAC,0,home,FreeThrow,,,make1,1,P. Millsap,
+190,2,3:39.0,49,56,DEN,SAC,11,away,JS,,26,miss3,0,N. Bjelica,
+191,2,3:35.0,49,56,DEN,SAC,4,away,OffReb,,,OffReb,,W. Cauley-Stein,
+192,2,3:34.0,49,56,DEN,SAC,1,away,HS,,2,miss2,0,W. Cauley-Stein,
+193,2,3:32.0,49,56,DEN,SAC,2,away,OffReb,,,OffReb,,W. Cauley-Stein,
+194,2,3:30.0,49,56,DEN,SAC,2,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,W. Cauley-Stein,N. Jokić
+195,2,3:30.0,49,56,DEN,SAC,0,away,OffensiveFoul,,,turnover,,W. Cauley-Stein,
+196,2,3:11.0,49,56,DEN,SAC,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,N. Jokić
+197,2,3:11.0,50,56,DEN,SAC,0,home,FreeThrow,,,make1,1,N. Jokić,
+198,2,3:11.0,51,56,DEN,SAC,0,home,FreeThrow,,,make1,1,N. Jokić,
+199,2,3:07.0,51,56,DEN,SAC,4,away,Timeout,,,,,,
+200,2,3:07.0,51,56,DEN,SAC,0,away,Sub,,,,,M. Bagley,W. Cauley-Stein
+201,2,2:57.0,51,59,DEN,SAC,10,away,JS,assist,24,make3,3,N. Bjelica,H. Barnes
+202,2,2:45.0,51,59,DEN,SAC,12,away,KickBallViolation,,,KickBallViolation,,Team,
+203,2,2:34.0,51,59,DEN,SAC,11,home,JS,,13,miss2,0,P. Millsap,
+204,2,2:30.0,51,59,DEN,SAC,4,away,DefReb,,,DefReb,,D. Fox,
+205,2,2:14.0,51,59,DEN,SAC,16,away,JS,,22,miss2,0,B. Hield,
+206,2,2:09.0,51,59,DEN,SAC,5,home,DefReb,,,DefReb,,N. Jokić,
+207,2,2:06.0,53,59,DEN,SAC,3,home,LU,assist,2,make2,2,P. Millsap,N. Jokić
+208,2,1:58.0,53,59,DEN,SAC,8,away,JS,,5,miss2,0,D. Fox,
+209,2,1:56.0,53,59,DEN,SAC,2,home,DefReb,,,DefReb,,N. Jokić,
+210,2,1:53.0,53,59,DEN,SAC,3,home,LU,,3,miss2,0,W. Barton,
+211,2,1:49.0,53,59,DEN,SAC,4,away,DefReb,,,DefReb,,H. Barnes,
+212,2,1:46.0,53,59,DEN,SAC,3,away,LU,,2,miss2,0,B. Hield,
+213,2,1:41.0,53,59,DEN,SAC,5,away,OffReb,,,OffReb,,H. Barnes,
+214,2,1:41.0,53,61,DEN,SAC,0,away,LU,,0,make2,2,H. Barnes,
+215,2,1:38.0,53,61,DEN,SAC,3,home,LU,,2,miss2,0,M. Beasley,
+216,2,1:36.0,53,61,DEN,SAC,2,away,DefReb,,,DefReb,,N. Bjelica,
+217,2,1:33.0,53,61,DEN,SAC,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Murray,D. Fox
+218,2,1:33.0,53,61,DEN,SAC,0,away,TechnicalFoul,,,,,Team,
+219,2,1:33.0,53,61,DEN,SAC,0,away,TechnicalFoul,,,,,Team,
+220,2,1:33.0,53,61,DEN,SAC,0,home,Ejection,,,Ejection,,ejected from game,
+221,2,1:33.0,53,62,DEN,SAC,0,away,FreeThrow,,,make1,1,B. Hield makes technical free throw,
+222,2,1:33.0,53,63,DEN,SAC,0,away,FreeThrow,,,make1,1,B. Hield makes technical free throw,
+223,2,1:33.0,53,63,DEN,SAC,0,away,FreeThrow,,,make1,0,D. Fox,
+224,2,1:33.0,53,63,DEN,SAC,0,away,OffReb,,,OffReb,,Team,
+225,2,1:33.0,53,64,DEN,SAC,0,away,FreeThrow,,,make1,1,D. Fox,
+226,2,1:22.0,53,64,DEN,SAC,11,home,JS,,21,miss2,0,W. Barton,
+227,2,1:17.0,53,64,DEN,SAC,5,away,DefReb,,,DefReb,,H. Barnes,
+228,2,1:09.0,53,66,DEN,SAC,8,away,LU,assist,2,make2,2,H. Barnes,D. Fox
+229,2,0:58.0,56,66,DEN,SAC,11,home,JS,,26,make3,3,J. Murray,
+230,2,0:50.0,56,66,DEN,SAC,8,away,LU,,2,miss2,0,D. Fox,
+231,2,0:48.0,56,66,DEN,SAC,2,away,OffReb,,,OffReb,,B. Hield,
+232,2,0:42.0,56,66,DEN,SAC,6,away,bad pass,steal,,turnover,,B. Hield,P. Millsap
+233,2,0:36.0,56,66,DEN,SAC,6,home,DK,,2,miss2,0,M. Beasley,
+234,2,0:34.0,56,66,DEN,SAC,2,away,DefReb,,,DefReb,,H. Barnes,
+235,2,0:30.0,56,66,DEN,SAC,4,away,BackCourtTurnover,,,turnover,,D. Fox,
+236,2,0:21.0,56,66,DEN,SAC,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Fox,N. Jokić
+237,2,0:21.0,57,66,DEN,SAC,0,home,FreeThrow,,,make1,1,N. Jokić,
+238,2,0:21.0,57,66,DEN,SAC,0,home,Sub,,,,,T. Craig,P. Millsap
+239,2,0:21.0,58,66,DEN,SAC,0,home,FreeThrow,,,make1,1,N. Jokić,
+240,2,0:02.0,58,69,DEN,SAC,19,away,JS,assist,24,make3,3,M. Bagley,D. Fox
+241,2,0:00.0,58,69,DEN,SAC,2,home,JS,,83,miss3,0,W. Barton,
+242,2,0:00.0,58,69,DEN,SAC,0,home,OffReb,,,OffReb,,Team,
+243,3,11:49.0,60,69,DEN,SAC,11,home,JS,assist,4,make2,2,N. Jokić,W. Barton
+244,3,11:27.0,60,69,DEN,SAC,22,away,LU,,4,miss2,0,H. Barnes,
+245,3,11:25.0,60,69,DEN,SAC,2,home,DefReb,,,DefReb,,N. Jokić,
+246,3,11:22.0,62,69,DEN,SAC,3,home,LU,assist,1,make2,2,W. Barton,N. Jokić
+247,3,11:13.0,62,69,DEN,SAC,9,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Hield,J. Murray
+248,3,11:13.0,62,69,DEN,SAC,0,away,OffensiveFoul,,,turnover,,B. Hield,
+249,3,11:00.0,62,69,DEN,SAC,13,home,JS,,25,miss3,0,N. Jokić,
+250,3,10:57.0,62,69,DEN,SAC,3,away,DefReb,,,DefReb,,B. Hield,
+251,3,10:41.0,62,71,DEN,SAC,16,away,HS,assist,5,make2,2,N. Bjelica,D. Fox
+252,3,10:41.0,62,71,DEN,SAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Murray,N. Bjelica
+253,3,10:41.0,62,71,DEN,SAC,0,away,FreeThrow,,,make1,0,N. Bjelica,
+254,3,10:38.0,62,71,DEN,SAC,3,home,DefReb,,,DefReb,,P. Millsap,
+255,3,10:32.0,62,71,DEN,SAC,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,W. Barton
+256,3,10:32.0,63,71,DEN,SAC,0,home,FreeThrow,,,make1,1,W. Barton,
+257,3,10:32.0,64,71,DEN,SAC,0,home,FreeThrow,,,make1,1,W. Barton,
+258,3,10:23.0,64,71,DEN,SAC,9,away,JS,,26,miss3,0,N. Bjelica,
+259,3,10:20.0,64,71,DEN,SAC,3,home,DefReb,,,DefReb,,N. Jokić,
+260,3,10:12.0,64,71,DEN,SAC,8,home,lost ball,steal,,turnover,,J. Murray,W. Cauley-Stein
+261,3,10:06.0,64,73,DEN,SAC,6,away,LU,assist,2,make2,2,H. Barnes,D. Fox
+262,3,9:55.0,64,73,DEN,SAC,11,home,lost ball,steal,,turnover,,N. Jokić,W. Cauley-Stein
+263,3,9:51.0,64,75,DEN,SAC,4,away,DK,assist,1,make2,2,D. Fox,B. Hield
+264,3,9:26.0,64,75,DEN,SAC,25,home,JS,,20,miss2,0,M. Beasley,
+265,3,9:23.0,64,75,DEN,SAC,3,away,DefReb,,,DefReb,,H. Barnes,
+266,3,9:17.0,64,75,DEN,SAC,6,away,lost ball,steal,,turnover,,H. Barnes,M. Beasley
+267,3,9:15.0,66,75,DEN,SAC,2,home,DK,assist,1,make2,2,M. Beasley,J. Murray
+268,3,8:52.0,66,77,DEN,SAC,23,away,LU,assist,2,make2,2,B. Hield,D. Fox
+269,3,8:43.0,68,77,DEN,SAC,9,home,HS,,5,make2,2,P. Millsap,
+270,3,8:21.0,68,77,DEN,SAC,22,away,JS,,11,miss2,0,B. Hield,
+271,3,8:19.0,68,77,DEN,SAC,2,home,DefReb,,,DefReb,,P. Millsap,
+272,3,8:13.0,71,77,DEN,SAC,6,home,JS,assist,25,make3,3,M. Beasley,N. Jokić
+273,3,7:48.0,71,77,DEN,SAC,25,away,JS,,22,miss2,0,B. Hield,
+274,3,7:45.0,71,77,DEN,SAC,3,home,DefReb,,,DefReb,,W. Barton,
+275,3,7:40.0,73,77,DEN,SAC,5,home,LU,,2,make2,2,W. Barton,
+276,3,7:40.0,73,77,DEN,SAC,0,away,Timeout,,,,,,
+277,3,7:21.0,73,77,DEN,SAC,19,away,JS,,25,miss3,0,H. Barnes,
+278,3,7:18.0,73,77,DEN,SAC,3,home,DefReb,,,DefReb,,M. Beasley,
+279,3,7:00.0,73,77,DEN,SAC,18,home,JS,,24,miss3,0,M. Beasley,
+280,3,6:57.0,73,77,DEN,SAC,3,home,OffReb,,,OffReb,,N. Jokić,
+281,3,6:55.0,73,77,DEN,SAC,2,home,JS,,16,miss2,0,N. Jokić,
+282,3,6:55.0,73,77,DEN,SAC,0,home,OffReb,,,OffReb,,Team,
+283,3,6:55.0,73,77,DEN,SAC,0,home,ShotClockViolation,,,turnover,,Team,
+284,3,6:36.0,73,77,DEN,SAC,19,away,JS,,13,miss2,0,D. Fox,
+285,3,6:33.0,73,77,DEN,SAC,3,home,DefReb,,,DefReb,,M. Beasley,
+286,3,6:30.0,75,77,DEN,SAC,3,home,LU,,4,make2,2,M. Beasley,
+287,3,6:30.0,75,77,DEN,SAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,M. Beasley
+288,3,6:30.0,76,77,DEN,SAC,0,home,FreeThrow,,,make1,1,M. Beasley,
+289,3,6:09.0,76,77,DEN,SAC,21,away,JS,,11,miss2,0,B. Hield,
+290,3,6:06.0,76,77,DEN,SAC,3,home,DefReb,,,DefReb,,N. Jokić,
+291,3,6:03.0,76,77,DEN,SAC,3,home,JS,,25,miss3,0,P. Millsap,
+292,3,6:00.0,76,77,DEN,SAC,3,away,DefReb,,,DefReb,,W. Cauley-Stein,
+293,3,5:54.0,76,79,DEN,SAC,6,away,DK,assist,1,make2,2,W. Cauley-Stein,N. Bjelica
+294,3,5:39.0,76,79,DEN,SAC,15,home,HS,,6,miss2,0,N. Jokić,
+295,3,5:37.0,76,79,DEN,SAC,2,home,OffReb,,,OffReb,,P. Millsap,
+296,3,5:32.0,76,79,DEN,SAC,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,P. Millsap
+297,3,5:32.0,77,79,DEN,SAC,0,home,FreeThrow,,,make1,1,P. Millsap,
+298,3,5:32.0,77,79,DEN,SAC,0,away,Sub,,,,,H. Giles,W. Cauley-Stein
+299,3,5:32.0,78,79,DEN,SAC,0,home,FreeThrow,,,make1,1,P. Millsap,
+300,3,5:17.0,78,81,DEN,SAC,15,away,LU,assist,2,make2,2,H. Giles,D. Fox
+301,3,5:17.0,78,81,DEN,SAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,H. Giles
+302,3,5:17.0,78,81,DEN,SAC,0,home,Sub,,,,,M. Plumlee,P. Millsap
+303,3,5:17.0,78,82,DEN,SAC,0,away,FreeThrow,,,make1,1,H. Giles,
+304,3,5:04.0,78,82,DEN,SAC,13,home,JS,,25,miss3,0,J. Murray,
+305,3,5:02.0,78,82,DEN,SAC,2,away,DefReb,,,DefReb,,B. Hield,
+306,3,4:58.0,78,84,DEN,SAC,4,away,LU,,2,make2,2,B. Hield,
+307,3,4:50.0,78,84,DEN,SAC,8,home,lost ball,steal,,turnover,,W. Barton,H. Barnes
+308,3,4:44.0,78,84,DEN,SAC,6,away,JS,,24,miss3,0,B. Hield,
+309,3,4:41.0,78,84,DEN,SAC,3,home,DefReb,,,DefReb,,W. Barton,
+310,3,4:35.0,78,84,DEN,SAC,6,home,JS,,24,miss3,0,W. Barton,
+311,3,4:32.0,78,84,DEN,SAC,3,away,DefReb,,,DefReb,,Team,
+312,3,4:32.0,78,84,DEN,SAC,0,away,Sub,,,,,M. Bagley,H. Barnes
+313,3,4:32.0,78,84,DEN,SAC,0,away,Sub,,,,,B. Bogdanović,N. Bjelica
+314,3,4:32.0,78,84,DEN,SAC,0,home,Sub,,,,,T. Craig,W. Barton
+315,3,4:32.0,78,84,DEN,SAC,0,home,Sub,,,,,M. Morris,J. Murray
+316,3,4:19.0,78,84,DEN,SAC,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,D. Fox
+317,3,4:19.0,78,85,DEN,SAC,0,away,FreeThrow,,,make1,1,D. Fox,
+318,3,4:19.0,78,85,DEN,SAC,0,away,FreeThrow,,,make1,0,D. Fox,
+319,3,4:17.0,78,85,DEN,SAC,2,home,DefReb,,,DefReb,,N. Jokić,
+320,3,4:01.0,78,85,DEN,SAC,16,home,JS,,25,miss3,0,M. Beasley,
+321,3,3:56.0,78,85,DEN,SAC,5,away,DefReb,,,DefReb,,B. Bogdanović,
+322,3,3:52.0,78,85,DEN,SAC,4,away,JS,,23,miss3,0,B. Hield,
+323,3,3:48.0,78,85,DEN,SAC,4,home,DefReb,,,DefReb,,N. Jokić,
+324,3,3:45.0,80,85,DEN,SAC,3,home,DK,assist,1,make2,2,T. Craig,N. Jokić
+325,3,3:31.0,80,85,DEN,SAC,14,away,bad pass,steal,,turnover,,D. Fox,M. Morris
+326,3,3:27.0,80,85,DEN,SAC,4,home,JS,,26,miss3,0,M. Morris,
+327,3,3:24.0,80,85,DEN,SAC,3,away,DefReb,,,DefReb,,B. Bogdanović,
+328,3,3:15.0,80,85,DEN,SAC,9,away,JS,,24,miss3,0,B. Hield,
+329,3,3:11.0,80,85,DEN,SAC,4,home,DefReb,,,DefReb,,N. Jokić,
+330,3,3:06.0,83,85,DEN,SAC,5,home,JS,assist,25,make3,3,M. Beasley,N. Jokić
+331,3,2:52.0,83,85,DEN,SAC,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,D. Fox
+332,3,2:52.0,83,85,DEN,SAC,0,home,Timeout,,,,,,
+333,3,2:52.0,83,85,DEN,SAC,0,away,Sub,,,,,H. Barnes,D. Fox
+334,3,2:52.0,83,85,DEN,SAC,0,away,Sub,,,,,Y. Ferrell,B. Hield
+335,3,2:52.0,83,85,DEN,SAC,0,home,Sub,,,,,P. Millsap,M. Beasley
+336,3,2:52.0,83,85,DEN,SAC,0,home,Sub,,,,,I. Thomas,N. Jokić
+337,3,2:44.0,83,87,DEN,SAC,8,away,HS,assist,6,make2,2,M. Bagley,B. Bogdanović
+338,3,2:30.0,83,87,DEN,SAC,14,home,bad pass,steal,,turnover,,I. Thomas,H. Barnes
+339,3,2:26.0,83,87,DEN,SAC,4,away,LU,,4,miss2,0,H. Barnes,
+340,3,2:23.0,83,87,DEN,SAC,3,away,OffReb,,,OffReb,,H. Barnes,
+341,3,2:22.0,83,87,DEN,SAC,1,away,LU,,2,miss2,0,H. Barnes,
+342,3,2:21.0,83,87,DEN,SAC,1,away,OffReb,,,OffReb,,H. Barnes,
+343,3,2:21.0,83,87,DEN,SAC,0,away,LU,block,3,miss2,0,H. Barnes,P. Millsap
+344,3,2:18.0,83,87,DEN,SAC,3,home,DefReb,,,DefReb,,M. Morris,
+345,3,2:16.0,86,87,DEN,SAC,2,home,JS,assist,24,make3,3,I. Thomas,M. Plumlee
+346,3,2:01.0,86,87,DEN,SAC,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,B. Bogdanović
+347,3,2:01.0,86,88,DEN,SAC,0,away,FreeThrow,,,make1,1,B. Bogdanović,
+348,3,2:01.0,86,89,DEN,SAC,0,away,FreeThrow,,,make1,1,B. Bogdanović,
+349,3,1:45.0,88,89,DEN,SAC,16,home,JS,,4,make2,2,P. Millsap,
+350,3,1:38.0,88,89,DEN,SAC,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Plumlee,M. Bagley
+351,3,1:38.0,88,89,DEN,SAC,0,away,FreeThrow,,,make1,0,M. Bagley,
+352,3,1:38.0,88,89,DEN,SAC,0,away,OffReb,,,OffReb,,Team,
+353,3,1:38.0,88,89,DEN,SAC,0,away,FreeThrow,,,make1,0,M. Bagley,
+354,3,1:36.0,88,89,DEN,SAC,2,home,DefReb,,,DefReb,,T. Craig,
+355,3,1:15.0,88,89,DEN,SAC,21,home,LU,,3,miss2,0,P. Millsap,
+356,3,1:15.0,88,89,DEN,SAC,0,away,DefReb,,,DefReb,,Y. Ferrell,
+357,3,1:12.0,88,89,DEN,SAC,3,away,lost ball,steal,,turnover,,Y. Ferrell,M. Plumlee
+358,3,1:04.0,91,89,DEN,SAC,8,home,JS,,25,make3,3,I. Thomas,
+359,3,0:48.0,91,89,DEN,SAC,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Craig,H. Barnes
+360,3,0:48.0,91,90,DEN,SAC,0,away,FreeThrow,,,make1,1,H. Barnes,
+361,3,0:48.0,91,91,DEN,SAC,0,away,FreeThrow,,,make1,1,H. Barnes,
+362,3,0:31.0,93,91,DEN,SAC,17,home,JS,assist,11,make2,2,I. Thomas,M. Plumlee
+363,3,0:10.0,93,91,DEN,SAC,21,away,JS,,25,miss3,0,Y. Ferrell,
+364,3,0:09.0,93,91,DEN,SAC,1,home,DefReb,,,DefReb,,Team,
+365,3,0:09.0,93,91,DEN,SAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,H. Giles,P. Millsap
+366,3,0:03.0,93,91,DEN,SAC,6,home,lost ball,steal,,turnover,,I. Thomas,Y. Ferrell
+367,4,11:51.0,93,91,DEN,SAC,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,B. Bogdanović
+368,4,11:46.0,93,94,DEN,SAC,5,away,JS,assist,23,make3,3,H. Barnes,B. Bogdanović
+369,4,11:26.0,93,94,DEN,SAC,20,home,LU,,2,miss2,0,P. Millsap,
+370,4,11:26.0,93,94,DEN,SAC,0,away,DefReb,,,DefReb,,Team,
+371,4,11:26.0,93,94,DEN,SAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Craig,M. Bagley
+372,4,11:15.0,93,94,DEN,SAC,11,away,LU,,2,miss2,0,M. Bagley,
+373,4,11:11.0,93,94,DEN,SAC,4,home,DefReb,,,DefReb,,P. Millsap,
+374,4,11:08.0,93,94,DEN,SAC,3,home,JS,,24,miss3,0,M. Morris,
+375,4,11:04.0,93,94,DEN,SAC,4,home,OffReb,,,OffReb,,M. Plumlee,
+376,4,11:03.0,95,94,DEN,SAC,1,home,DK,assist,1,make2,2,P. Millsap,M. Plumlee
+377,4,10:47.0,95,94,DEN,SAC,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,B. Bogdanović
+378,4,10:47.0,95,94,DEN,SAC,0,home,Sub,,,,,M. Beasley,T. Craig
+379,4,10:39.0,95,94,DEN,SAC,8,away,JS,,25,miss3,0,B. Bogdanović,
+380,4,10:33.0,95,94,DEN,SAC,6,home,DefReb,,,DefReb,,P. Millsap,
+381,4,10:27.0,95,94,DEN,SAC,6,home,JS,,25,miss3,0,I. Thomas,
+382,4,10:27.0,95,94,DEN,SAC,0,home,OffReb,,,OffReb,,Team,
+383,4,10:27.0,95,94,DEN,SAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,H. Giles,M. Plumlee
+384,4,10:13.0,95,94,DEN,SAC,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Giles,M. Morris
+385,4,10:13.0,95,94,DEN,SAC,0,away,Sub,,,,,W. Cauley-Stein,H. Giles
+386,4,10:13.0,96,94,DEN,SAC,0,home,FreeThrow,,,make1,1,M. Morris,
+387,4,10:13.0,97,94,DEN,SAC,0,home,FreeThrow,,,make1,1,M. Morris,
+388,4,9:59.0,97,94,DEN,SAC,14,away,HS,,3,miss2,0,H. Barnes,
+389,4,9:56.0,97,94,DEN,SAC,3,home,DefReb,,,DefReb,,P. Millsap,
+390,4,9:54.0,99,94,DEN,SAC,2,home,DK,assist,1,make2,2,M. Morris,P. Millsap
+391,4,9:54.0,99,94,DEN,SAC,0,away,Timeout,,,,,,
+392,4,9:41.0,99,97,DEN,SAC,13,away,JS,assist,25,make3,3,H. Barnes,Y. Ferrell
+393,4,9:20.0,99,97,DEN,SAC,21,home,JS,,25,miss3,0,M. Beasley,
+394,4,9:18.0,99,97,DEN,SAC,2,home,OffReb,,,OffReb,,M. Plumlee,
+395,4,9:15.0,99,97,DEN,SAC,3,home,JS,,4,miss2,0,P. Millsap,
+396,4,9:13.0,99,97,DEN,SAC,2,away,DefReb,,,DefReb,,W. Cauley-Stein,
+397,4,9:01.0,99,99,DEN,SAC,12,away,LU,,2,make2,2,M. Bagley,
+398,4,8:46.0,99,99,DEN,SAC,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Cauley-Stein,I. Thomas
+399,4,8:46.0,99,99,DEN,SAC,0,away,Sub,,,,,B. Hield,Y. Ferrell
+400,4,8:46.0,99,99,DEN,SAC,0,home,Sub,,,,,N. Jokić,P. Millsap
+401,4,8:46.0,99,99,DEN,SAC,0,home,Sub,,,,,J. Murray,I. Thomas
+402,4,8:34.0,101,99,DEN,SAC,12,home,JS,,13,make2,2,N. Jokić,
+403,4,8:15.0,101,99,DEN,SAC,19,away,JS,,6,miss2,0,H. Barnes,
+404,4,8:13.0,101,99,DEN,SAC,2,home,DefReb,,,DefReb,,N. Jokić,
+405,4,7:57.0,103,99,DEN,SAC,16,home,LU,,2,make2,2,M. Plumlee,
+406,4,7:47.0,103,99,DEN,SAC,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Plumlee,B. Bogdanović
+407,4,7:47.0,103,99,DEN,SAC,0,away,Sub,,,,,D. Fox,M. Bagley
+408,4,7:47.0,103,99,DEN,SAC,0,away,Sub,,,,,K. Koufos,W. Cauley-Stein
+409,4,7:36.0,103,102,DEN,SAC,11,away,JS,,25,make3,3,B. Bogdanović,
+410,4,7:16.0,103,102,DEN,SAC,20,home,JS,,24,miss3,0,M. Beasley,
+411,4,7:14.0,103,102,DEN,SAC,2,away,DefReb,,,DefReb,,K. Koufos,
+412,4,7:08.0,103,105,DEN,SAC,6,away,JS,assist,25,make3,3,B. Hield,H. Barnes
+413,4,7:06.0,103,105,DEN,SAC,2,home,Timeout,,,,,,
+414,4,7:06.0,103,105,DEN,SAC,0,away,TechnicalFoul,,,TechnicalFoul,,B. Bogdanović,
+415,4,7:06.0,103,105,DEN,SAC,0,home,TechnicalFoul,,,TechnicalFoul,,M. Beasley,
+416,4,7:06.0,103,105,DEN,SAC,0,home,Sub,,,,,W. Barton,M. Morris
+417,4,6:54.0,103,105,DEN,SAC,12,home,LU,,2,miss2,0,N. Jokić,
+418,4,6:51.0,103,105,DEN,SAC,3,away,DefReb,,,DefReb,,K. Koufos,
+419,4,6:40.0,103,105,DEN,SAC,11,away,JS,,18,miss2,0,D. Fox,
+420,4,6:34.0,103,105,DEN,SAC,6,home,DefReb,,,DefReb,,M. Beasley,
+421,4,6:25.0,103,105,DEN,SAC,9,home,JS,,12,miss2,0,J. Murray,
+422,4,6:23.0,103,105,DEN,SAC,2,away,DefReb,,,DefReb,,K. Koufos,
+423,4,6:18.0,103,105,DEN,SAC,5,away,LU,,2,miss2,0,B. Hield,
+424,4,6:16.0,103,105,DEN,SAC,2,home,DefReb,,,DefReb,,N. Jokić,
+425,4,6:13.0,105,105,DEN,SAC,3,home,JS,assist,4,make2,2,M. Beasley,N. Jokić
+426,4,6:11.0,105,105,DEN,SAC,2,home,TechnicalFoul,,,TechnicalFoul,,M. Beasley,
+427,4,6:11.0,105,105,DEN,SAC,0,home,Ejection,,,Ejection,,M. Beasley,
+428,4,6:11.0,105,106,DEN,SAC,0,away,FreeThrow,,,make1,1,B. Hield makes technical free throw,
+429,4,6:11.0,105,106,DEN,SAC,0,home,Sub,,,,,M. Morris,M. Beasley
+430,4,5:50.0,105,106,DEN,SAC,21,away,DK,,3,miss2,0,B. Bogdanović,
+431,4,5:49.0,105,106,DEN,SAC,1,home,DefReb,,,DefReb,,N. Jokić,
+432,4,5:46.0,107,106,DEN,SAC,3,home,LU,assist,2,make2,2,M. Morris,N. Jokić
+433,4,5:26.0,107,106,DEN,SAC,20,away,JS,,25,miss3,0,D. Fox,
+434,4,5:23.0,107,106,DEN,SAC,3,home,DefReb,,,DefReb,,N. Jokić,
+435,4,5:11.0,107,106,DEN,SAC,12,home,bad pass,steal,,turnover,,W. Barton,K. Koufos
+436,4,5:07.0,107,108,DEN,SAC,4,away,DK,assist,1,make2,2,B. Hield,D. Fox
+437,4,4:45.0,107,108,DEN,SAC,22,home,LU,,0,miss2,0,N. Jokić,
+438,4,4:42.0,107,108,DEN,SAC,3,home,OffReb,,,OffReb,,N. Jokić,
+439,4,4:42.0,109,108,DEN,SAC,0,home,LU,,0,make2,2,N. Jokić,
+440,4,4:25.0,109,108,DEN,SAC,17,away,JS,,25,miss3,0,H. Barnes,
+441,4,4:23.0,109,108,DEN,SAC,2,home,DefReb,,,DefReb,,M. Morris,
+442,4,4:09.0,109,108,DEN,SAC,14,home,JS,,5,miss2,0,M. Morris,
+443,4,4:09.0,109,108,DEN,SAC,0,home,OffReb,,,OffReb,,N. Jokić,
+444,4,4:07.0,109,108,DEN,SAC,2,home,lost ball,steal,,turnover,,N. Jokić,B. Hield
+445,4,4:02.0,109,108,DEN,SAC,5,away,LU,,4,miss2,0,B. Hield,
+446,4,4:00.0,109,108,DEN,SAC,2,home,DefReb,,,DefReb,,J. Murray,
+447,4,3:56.0,109,108,DEN,SAC,4,home,JS,,25,miss3,0,J. Murray,
+448,4,3:53.0,109,108,DEN,SAC,3,home,OffReb,,,OffReb,,M. Plumlee,
+449,4,3:51.0,112,108,DEN,SAC,2,home,JS,assist,24,make3,3,W. Barton,J. Murray
+450,4,3:49.0,112,108,DEN,SAC,2,away,Timeout,,,,,,
+451,4,3:49.0,112,108,DEN,SAC,0,home,Sub,,,,,P. Millsap,M. Plumlee
+452,4,3:34.0,112,110,DEN,SAC,15,away,LU,assist,2,make2,2,D. Fox,B. Hield
+453,4,3:17.0,112,110,DEN,SAC,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Fox,J. Murray
+454,4,3:17.0,113,110,DEN,SAC,0,home,FreeThrow,,,make1,1,J. Murray,
+455,4,3:17.0,114,110,DEN,SAC,0,home,FreeThrow,,,make1,1,J. Murray,
+456,4,3:01.0,114,110,DEN,SAC,16,away,JS,,25,miss3,0,B. Bogdanović,
+457,4,2:59.0,114,110,DEN,SAC,2,away,OffReb,,,OffReb,,Team,
+458,4,2:57.0,114,110,DEN,SAC,2,away,JS,,17,miss2,0,B. Hield,
+459,4,2:54.0,114,110,DEN,SAC,3,home,DefReb,,,DefReb,,P. Millsap,
+460,4,2:42.0,114,110,DEN,SAC,12,home,LU,,2,miss2,0,N. Jokić,
+461,4,2:39.0,114,110,DEN,SAC,3,home,OffReb,,,OffReb,,M. Morris,
+462,4,2:32.0,116,110,DEN,SAC,7,home,LU,assist,1,make2,2,P. Millsap,N. Jokić
+463,4,2:15.0,116,112,DEN,SAC,17,away,JS,assist,5,make2,2,D. Fox,B. Hield
+464,4,1:55.0,116,112,DEN,SAC,20,home,JS,,23,miss3,0,W. Barton,
+465,4,1:51.0,116,112,DEN,SAC,4,away,DefReb,,,DefReb,,D. Fox,
+466,4,1:43.0,116,112,DEN,SAC,8,away,JS,,6,miss2,0,B. Bogdanović,
+467,4,1:41.0,116,112,DEN,SAC,2,home,DefReb,,,DefReb,,W. Barton,
+468,4,1:17.0,116,112,DEN,SAC,24,home,LU,,2,miss2,0,W. Barton,
+469,4,1:15.0,116,112,DEN,SAC,2,home,OffReb,,,OffReb,,P. Millsap,
+470,4,1:12.0,116,112,DEN,SAC,3,home,JS,,25,miss3,0,J. Murray,
+471,4,1:10.0,116,112,DEN,SAC,2,home,OffReb,,,OffReb,,Team,
+472,4,1:10.0,116,112,DEN,SAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,H. Barnes,N. Jokić
+473,4,1:10.0,117,112,DEN,SAC,0,home,FreeThrow,,,make1,1,N. Jokić,
+474,4,1:10.0,117,112,DEN,SAC,0,away,Sub,,,,,W. Cauley-Stein,K. Koufos
+475,4,1:10.0,118,112,DEN,SAC,0,home,FreeThrow,,,make1,1,N. Jokić,
+476,4,1:02.0,118,112,DEN,SAC,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,W. Cauley-Stein
+477,4,1:02.0,118,113,DEN,SAC,0,away,FreeThrow,,,make1,1,W. Cauley-Stein,
+478,4,1:02.0,118,114,DEN,SAC,0,away,FreeThrow,,,make1,1,W. Cauley-Stein,
+479,4,0:43.0,118,114,DEN,SAC,19,home,lost ball,steal,,turnover,,N. Jokić,W. Cauley-Stein
+480,4,0:39.0,118,116,DEN,SAC,4,away,LU,assist,2,make2,2,B. Bogdanović,D. Fox
+481,4,0:39.0,118,116,DEN,SAC,0,home,Timeout,,,,,,
+482,4,0:20.0,118,116,DEN,SAC,19,home,LU,,4,miss2,0,N. Jokić,
+483,4,0:18.0,118,116,DEN,SAC,2,away,DefReb,,,DefReb,,B. Hield,
+484,4,0:15.0,118,118,DEN,SAC,3,away,LU,,2,make2,2,B. Hield,
+485,4,0:15.0,118,118,DEN,SAC,0,home,Timeout,,,,,,
+486,4,0:00.0,118,118,DEN,SAC,15,home,JS,,4,miss2,0,N. Jokić,
+487,4,0:00.0,118,118,DEN,SAC,0,home,OffReb,,,OffReb,,N. Jokić,
+488,4,0:00.0,120,118,DEN,SAC,0,home,LU,,1,make2,2,N. Jokić,
+489,4,0:00.0,120,118,DEN,SAC,0,away,Timeout,,,,,,
+490,4,0:00.0,120,118,DEN,SAC,0,away,Sub,,,,,N. Bjelica,W. Cauley-Stein
+491,4,0:00.0,120,118,DEN,SAC,0,home,Sub,,,,,T. Craig,M. Morris
+492,4,0:00.0,120,118,DEN,SAC,0,home,Sub,,,,,M. Plumlee,J. Murray
+493,4,0:00.0,120,118,DEN,SAC,0,away,JS,,26,miss3,0,B. Hield,
+494,4,0:00.0,120,118,DEN,SAC,0,away,OffReb,,,OffReb,,Team,

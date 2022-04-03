@@ -1,0 +1,428 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:44.0,0,0,ORL,SAS,16,away,JS,,9,miss2,0,K. Leonard,
+1,1,11:43.0,0,0,ORL,SAS,1,home,DefReb,,,DefReb,,A. Gordon,
+2,1,11:29.0,0,0,ORL,SAS,14,home,HS,,10,miss2,0,N. Vučević,
+3,1,11:28.0,0,0,ORL,SAS,1,away,DefReb,,,DefReb,,D. Green,
+4,1,11:11.0,0,0,ORL,SAS,17,away,JS,,10,miss2,0,L. Aldridge,
+5,1,11:10.0,0,0,ORL,SAS,1,home,DefReb,,,DefReb,,A. Gordon,
+6,1,10:59.0,0,0,ORL,SAS,11,home,JS,,25,miss3,0,A. Gordon,
+7,1,10:58.0,0,0,ORL,SAS,1,away,DefReb,,,DefReb,,T. Duncan,
+8,1,10:42.0,0,0,ORL,SAS,16,away,OutOfBounds,,,turnover,,R. McCallum,
+9,1,10:29.0,0,0,ORL,SAS,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Aldridge,A. Gordon
+10,1,10:29.0,0,0,ORL,SAS,0,home,FreeThrow,,,make1,0,A. Gordon,
+11,1,10:29.0,0,0,ORL,SAS,0,home,OffReb,,,OffReb,,Team,
+12,1,10:29.0,1,0,ORL,SAS,0,home,FreeThrow,,,make1,1,A. Gordon,
+13,1,10:13.0,1,0,ORL,SAS,16,away,JS,,11,miss2,0,R. McCallum,
+14,1,10:12.0,1,0,ORL,SAS,1,home,DefReb,,,DefReb,,N. Vučević,
+15,1,10:05.0,3,0,ORL,SAS,7,home,JS,assist,17,make2,2,N. Vučević,A. Gordon
+16,1,9:49.0,3,0,ORL,SAS,16,away,JS,,7,miss2,0,T. Duncan,
+17,1,9:47.0,3,0,ORL,SAS,2,away,OffReb,,,OffReb,,L. Aldridge,
+18,1,9:43.0,3,0,ORL,SAS,4,away,JS,,8,miss2,0,L. Aldridge,
+19,1,9:42.0,3,0,ORL,SAS,1,away,OffReb,,,OffReb,,Team,
+20,1,9:33.0,3,0,ORL,SAS,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,V. Oladipo,D. Green
+21,1,9:33.0,3,1,ORL,SAS,0,away,FreeThrow,,,make1,1,D. Green,
+22,1,9:33.0,3,2,ORL,SAS,0,away,FreeThrow,,,make1,1,D. Green,
+23,1,9:20.0,3,2,ORL,SAS,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,E. Fournier
+24,1,9:20.0,4,2,ORL,SAS,0,home,FreeThrow,,,make1,1,E. Fournier,
+25,1,9:20.0,5,2,ORL,SAS,0,home,FreeThrow,,,make1,1,E. Fournier,
+26,1,9:03.0,5,4,ORL,SAS,17,away,JS,assist,14,make2,2,K. Leonard,T. Duncan
+27,1,8:52.0,5,4,ORL,SAS,11,home,JS,,19,miss2,0,N. Vučević,
+28,1,8:51.0,5,4,ORL,SAS,1,away,DefReb,,,DefReb,,R. McCallum,
+29,1,8:42.0,5,4,ORL,SAS,9,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Leonard,E. Fournier
+30,1,8:42.0,5,4,ORL,SAS,0,away,OffensiveFoul,,,turnover,,K. Leonard,
+31,1,8:28.0,5,4,ORL,SAS,14,home,JS,,24,miss3,0,E. Fournier,
+32,1,8:27.0,5,4,ORL,SAS,1,away,DefReb,,,DefReb,,Team,
+33,1,8:07.0,5,4,ORL,SAS,20,away,JS,,10,miss2,0,T. Duncan,
+34,1,8:06.0,5,4,ORL,SAS,1,home,DefReb,,,DefReb,,V. Oladipo,
+35,1,7:59.0,5,4,ORL,SAS,7,home,JS,,24,miss3,0,E. Payton,
+36,1,7:57.0,5,4,ORL,SAS,2,home,OffReb,,,OffReb,,E. Payton,
+37,1,7:51.0,7,4,ORL,SAS,6,home,JS,,7,make2,2,E. Payton,
+38,1,7:29.0,7,4,ORL,SAS,22,away,JS,,7,miss2,0,T. Duncan,
+39,1,7:27.0,7,4,ORL,SAS,2,away,OffReb,,,OffReb,,K. Leonard,
+40,1,7:23.0,7,4,ORL,SAS,4,away,JS,,24,miss3,0,D. Green,
+41,1,7:22.0,7,4,ORL,SAS,1,home,DefReb,,,DefReb,,N. Vučević,
+42,1,7:14.0,7,4,ORL,SAS,8,home,LU,block,2,miss2,0,N. Vučević,T. Duncan
+43,1,7:14.0,7,4,ORL,SAS,0,home,OffReb,,,OffReb,,Team,
+44,1,7:06.0,9,4,ORL,SAS,8,home,LU,assist,2,make2,2,E. Fournier,E. Payton
+45,1,6:53.0,9,6,ORL,SAS,13,away,JS,assist,17,make2,2,L. Aldridge,R. McCallum
+46,1,6:35.0,9,6,ORL,SAS,18,home,BadPass,,,turnover,,V. Oladipo,
+47,1,6:19.0,9,8,ORL,SAS,16,away,JS,,13,make2,2,K. Leonard,
+48,1,6:06.0,11,8,ORL,SAS,13,home,JS,assist,15,make2,2,V. Oladipo,E. Payton
+49,1,6:06.0,11,8,ORL,SAS,0,away,Timeout,,,,,,
+50,1,6:06.0,11,8,ORL,SAS,0,away,Sub,,,,,P. Mills,T. Duncan
+51,1,6:06.0,11,8,ORL,SAS,0,away,Sub,,,,,B. Diaw,R. McCallum
+52,1,5:54.0,11,8,ORL,SAS,12,away,HS,,6,miss2,0,L. Aldridge,
+53,1,5:53.0,11,8,ORL,SAS,1,home,DefReb,,,DefReb,,N. Vučević,
+54,1,5:40.0,13,8,ORL,SAS,13,home,JS,assist,9,make2,2,E. Payton,A. Gordon
+55,1,5:14.0,13,10,ORL,SAS,26,away,JS,assist,14,make2,2,L. Aldridge,P. Mills
+56,1,5:00.0,13,10,ORL,SAS,14,home,JS,,18,miss2,0,E. Fournier,
+57,1,4:59.0,13,10,ORL,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+58,1,4:48.0,13,12,ORL,SAS,11,away,JS,,12,make2,2,L. Aldridge,
+59,1,4:39.0,15,12,ORL,SAS,9,home,LU,assist,2,make2,2,E. Fournier,E. Payton
+60,1,4:28.0,15,12,ORL,SAS,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Payton,P. Mills
+61,1,4:28.0,15,12,ORL,SAS,0,away,Sub,,,,,J. Simmons,D. Green
+62,1,4:16.0,15,14,ORL,SAS,12,away,JS,,14,make2,2,K. Leonard,
+63,1,4:02.0,17,14,ORL,SAS,14,home,JS,,7,make2,2,N. Vučević,
+64,1,3:43.0,17,17,ORL,SAS,19,away,JS,assist,25,make3,3,K. Leonard,P. Mills
+65,1,3:19.0,19,17,ORL,SAS,24,home,JS,,16,make2,2,V. Oladipo,
+66,1,3:07.0,19,19,ORL,SAS,12,away,LU,assist,2,make2,2,L. Aldridge,B. Diaw
+67,1,3:07.0,19,19,ORL,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,L. Aldridge
+68,1,3:07.0,19,19,ORL,SAS,0,away,Sub,,,,,K. Anderson,K. Leonard
+69,1,3:07.0,19,19,ORL,SAS,0,home,Sub,,,,,M. Hezonja,V. Oladipo
+70,1,3:07.0,19,20,ORL,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
+71,1,2:52.0,19,20,ORL,SAS,15,away,ChargeFoul,DrawnBy,,ChargeFoul,,A. Gordon,J. Simmons
+72,1,2:52.0,19,20,ORL,SAS,0,home,OffensiveFoul,,,turnover,,A. Gordon,
+73,1,2:52.0,19,20,ORL,SAS,0,home,Timeout,,,,,,
+74,1,2:52.0,19,20,ORL,SAS,0,away,Sub,,,,,D. West,L. Aldridge
+75,1,2:42.0,19,20,ORL,SAS,10,away,BadPass,steal,,turnover,,D. West,N. Vučević
+76,1,2:33.0,19,20,ORL,SAS,9,home,LU,,2,miss2,0,N. Vučević,
+77,1,2:31.0,19,20,ORL,SAS,2,home,OffReb,,,OffReb,,N. Vučević,
+78,1,2:30.0,19,20,ORL,SAS,1,home,Traveling,,,turnover,,N. Vučević,
+79,1,2:10.0,19,20,ORL,SAS,20,away,Traveling,,,turnover,,B. Diaw,
+80,1,1:55.0,21,20,ORL,SAS,15,home,JS,assist,15,make2,2,N. Vučević,E. Fournier
+81,1,1:32.0,21,23,ORL,SAS,23,away,JS,assist,25,make3,3,P. Mills,B. Diaw
+82,1,1:32.0,21,23,ORL,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Fournier,P. Mills
+83,1,1:32.0,21,23,ORL,SAS,0,away,FreeThrow,,,make1,0,P. Mills,
+84,1,1:31.0,21,23,ORL,SAS,1,home,DefReb,,,DefReb,,A. Gordon,
+85,1,1:17.0,21,23,ORL,SAS,14,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,N. Vučević,D. West
+86,1,1:17.0,21,23,ORL,SAS,0,home,OffensiveFoul,,,turnover,,N. Vučević,
+87,1,1:17.0,21,23,ORL,SAS,0,home,Sub,,,,,D. Dedmon,N. Vučević
+88,1,0:57.0,21,25,ORL,SAS,20,away,JS,,9,make2,2,D. West,
+89,1,0:41.0,23,25,ORL,SAS,16,home,JS,,15,make2,2,E. Payton,
+90,1,0:32.0,23,27,ORL,SAS,9,away,JS,,16,make2,2,P. Mills,
+91,1,0:09.0,23,27,ORL,SAS,23,home,JS,,11,miss2,0,E. Fournier,
+92,1,0:07.0,23,27,ORL,SAS,2,home,OffReb,,,OffReb,,D. Dedmon,
+93,1,0:07.0,23,27,ORL,SAS,0,home,LU,,1,miss2,0,D. Dedmon,
+94,1,0:05.0,23,27,ORL,SAS,2,home,OffReb,,,OffReb,,D. Dedmon,
+95,1,0:05.0,23,27,ORL,SAS,0,home,LU,,2,miss2,0,D. Dedmon,
+96,1,0:03.0,23,27,ORL,SAS,2,home,OffReb,,,OffReb,,D. Dedmon,
+97,1,0:03.0,23,27,ORL,SAS,0,home,LU,block,1,miss2,0,D. Dedmon,K. Anderson
+98,1,0:03.0,23,27,ORL,SAS,0,away,DefReb,,,DefReb,,Team,
+99,1,0:00.0,23,29,ORL,SAS,3,away,JS,,10,make2,2,P. Mills,
+100,2,11:43.0,23,29,ORL,SAS,17,home,BadPass,,,turnover,,M. Hezonja,
+101,2,11:31.0,23,29,ORL,SAS,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Hezonja,K. Anderson
+102,2,11:31.0,23,30,ORL,SAS,0,away,FreeThrow,,,make1,1,K. Anderson,
+103,2,11:31.0,23,31,ORL,SAS,0,away,FreeThrow,,,make1,1,K. Anderson,
+104,2,11:15.0,23,31,ORL,SAS,16,home,JS,,25,miss3,0,M. Hezonja,
+105,2,11:14.0,23,31,ORL,SAS,1,away,DefReb,,,DefReb,,D. West,
+106,2,10:57.0,23,31,ORL,SAS,17,away,LU,,2,miss2,0,J. Simmons,
+107,2,10:56.0,23,31,ORL,SAS,1,home,DefReb,,,DefReb,,V. Oladipo,
+108,2,10:41.0,25,31,ORL,SAS,15,home,LU,,3,make2,2,M. Hezonja,
+109,2,10:26.0,25,31,ORL,SAS,15,away,JS,,18,miss2,0,D. West,
+110,2,10:25.0,25,31,ORL,SAS,1,home,DefReb,,,DefReb,,D. Dedmon,
+111,2,10:13.0,25,31,ORL,SAS,12,home,JS,block,17,miss2,0,S. Napier,P. Mills
+112,2,10:11.0,25,31,ORL,SAS,2,home,OffReb,,,OffReb,,D. Dedmon,
+113,2,10:02.0,27,31,ORL,SAS,9,home,DK,assist,0,make2,2,V. Oladipo,A. Nicholson
+114,2,9:43.0,27,31,ORL,SAS,19,away,LU,block,1,miss2,0,D. West,D. Dedmon
+115,2,9:40.0,27,31,ORL,SAS,3,away,OffReb,,,OffReb,,D. West,
+116,2,9:38.0,27,31,ORL,SAS,2,away,JS,,24,miss3,0,J. Simmons,
+117,2,9:37.0,27,31,ORL,SAS,1,home,DefReb,,,DefReb,,D. Dedmon,
+118,2,9:17.0,27,31,ORL,SAS,20,home,JS,,24,miss3,0,S. Napier,
+119,2,9:16.0,27,31,ORL,SAS,1,away,DefReb,,,DefReb,,K. Anderson,
+120,2,9:14.0,27,31,ORL,SAS,2,away,BadPass,,,turnover,,K. Anderson,
+121,2,9:14.0,27,31,ORL,SAS,0,home,Timeout,,,,,,
+122,2,9:14.0,27,31,ORL,SAS,0,away,Sub,,,,,T. Duncan,B. Diaw
+123,2,9:14.0,27,31,ORL,SAS,0,away,Sub,,,,,R. McCallum,P. Mills
+124,2,9:14.0,27,31,ORL,SAS,0,away,Sub,,,,,D. Green,J. Simmons
+125,2,9:05.0,27,31,ORL,SAS,9,home,JS,,18,miss2,0,V. Oladipo,
+126,2,9:03.0,27,31,ORL,SAS,2,away,DefReb,,,DefReb,,R. McCallum,
+127,2,8:54.0,27,31,ORL,SAS,9,away,LostBall,steal,,turnover,,D. West,V. Oladipo
+128,2,8:48.0,29,31,ORL,SAS,6,home,LU,assist,1,make2,2,M. Hezonja,D. Dedmon
+129,2,8:30.0,29,31,ORL,SAS,18,away,HS,,8,miss2,0,K. Anderson,
+130,2,8:28.0,29,31,ORL,SAS,2,home,DefReb,,,DefReb,,D. Dedmon,
+131,2,8:19.0,29,31,ORL,SAS,9,home,JS,,25,miss3,0,V. Oladipo,
+132,2,8:18.0,29,31,ORL,SAS,1,away,DefReb,,,DefReb,,R. McCallum,
+133,2,8:05.0,29,33,ORL,SAS,13,away,LU,assist,2,make2,2,T. Duncan,K. Anderson
+134,2,7:47.0,29,33,ORL,SAS,18,home,JS,,19,miss2,0,A. Nicholson,
+135,2,7:46.0,29,33,ORL,SAS,1,away,DefReb,,,DefReb,,T. Duncan,
+136,2,7:35.0,29,33,ORL,SAS,11,away,LostBall,steal,,turnover,,D. Green,M. Hezonja
+137,2,7:33.0,29,33,ORL,SAS,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. West,V. Oladipo
+138,2,7:33.0,29,33,ORL,SAS,0,away,Sub,,,,,K. Leonard,K. Anderson
+139,2,7:18.0,32,33,ORL,SAS,15,home,JS,assist,25,make3,3,M. Hezonja,D. Dedmon
+140,2,7:01.0,32,35,ORL,SAS,17,away,LU,assist,1,make2,2,D. West,D. Green
+141,2,6:44.0,35,35,ORL,SAS,17,home,JS,assist,24,make3,3,A. Nicholson,S. Napier
+142,2,6:18.0,35,37,ORL,SAS,26,away,JS,,15,make2,2,R. McCallum,
+143,2,6:01.0,35,37,ORL,SAS,17,home,JS,,26,miss3,0,A. Nicholson,
+144,2,6:00.0,35,37,ORL,SAS,1,away,DefReb,,,DefReb,,Team,
+145,2,6:00.0,35,37,ORL,SAS,0,away,Sub,,,,,L. Aldridge,D. West
+146,2,5:50.0,35,37,ORL,SAS,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Hezonja,R. McCallum
+147,2,5:50.0,35,37,ORL,SAS,0,away,Timeout,,,,,,
+148,2,5:50.0,35,37,ORL,SAS,0,home,Sub,,,,,E. Fournier,D. Dedmon
+149,2,5:50.0,35,37,ORL,SAS,0,home,Sub,,,,,N. Vučević,S. Napier
+150,2,5:50.0,35,37,ORL,SAS,0,home,Sub,,,,,E. Payton,M. Hezonja
+151,2,5:50.0,35,38,ORL,SAS,0,away,FreeThrow,,,make1,1,R. McCallum,
+152,2,5:50.0,35,39,ORL,SAS,0,away,FreeThrow,,,make1,1,R. McCallum,
+153,2,5:29.0,37,39,ORL,SAS,21,home,JS,assist,13,make2,2,N. Vučević,V. Oladipo
+154,2,5:16.0,37,41,ORL,SAS,13,away,LU,assist,2,make2,2,K. Leonard,T. Duncan
+155,2,5:03.0,37,41,ORL,SAS,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. McCallum,E. Payton
+156,2,5:03.0,37,41,ORL,SAS,0,home,FreeThrow,,,make1,0,E. Payton,
+157,2,5:03.0,37,41,ORL,SAS,0,home,OffReb,,,OffReb,,Team,
+158,2,5:03.0,38,41,ORL,SAS,0,home,FreeThrow,,,make1,1,E. Payton,
+159,2,4:47.0,38,41,ORL,SAS,16,away,JS,,15,miss2,0,K. Leonard,
+160,2,4:45.0,38,41,ORL,SAS,2,home,DefReb,,,DefReb,,A. Nicholson,
+161,2,4:35.0,38,41,ORL,SAS,10,home,JS,,26,miss3,0,E. Fournier,
+162,2,4:34.0,38,41,ORL,SAS,1,away,DefReb,,,DefReb,,D. Green,
+163,2,4:26.0,38,43,ORL,SAS,8,away,LU,assist,2,make2,2,L. Aldridge,T. Duncan
+164,2,4:04.0,40,43,ORL,SAS,22,home,LU,,1,make2,2,E. Fournier,
+165,2,3:45.0,40,43,ORL,SAS,19,away,JS,block,9,miss2,0,T. Duncan,A. Nicholson
+166,2,3:43.0,40,43,ORL,SAS,2,home,DefReb,,,DefReb,,N. Vučević,
+167,2,3:39.0,40,43,ORL,SAS,4,home,LU,block,0,miss2,0,E. Payton,T. Duncan
+168,2,3:36.0,40,43,ORL,SAS,3,away,DefReb,,,DefReb,,K. Leonard,
+169,2,3:29.0,40,45,ORL,SAS,7,away,LU,assist,2,make2,2,T. Duncan,L. Aldridge
+170,2,3:29.0,40,45,ORL,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Nicholson,T. Duncan
+171,2,3:29.0,40,45,ORL,SAS,0,away,Sub,,,,,P. Mills,R. McCallum
+172,2,3:29.0,40,46,ORL,SAS,0,away,FreeThrow,,,make1,1,T. Duncan,
+173,2,3:13.0,40,46,ORL,SAS,16,home,HS,,10,miss2,0,A. Nicholson,
+174,2,3:12.0,40,46,ORL,SAS,1,away,DefReb,,,DefReb,,L. Aldridge,
+175,2,3:04.0,40,48,ORL,SAS,8,away,JS,,8,make2,2,K. Leonard,
+176,2,2:46.0,40,48,ORL,SAS,18,home,JS,block,7,miss2,0,N. Vučević,K. Leonard
+177,2,2:44.0,40,48,ORL,SAS,2,away,DefReb,,,DefReb,,K. Leonard,
+178,2,2:40.0,40,50,ORL,SAS,4,away,LU,assist,1,make2,2,K. Leonard,P. Mills
+179,2,2:39.0,40,50,ORL,SAS,1,home,Timeout,,,,,,
+180,2,2:39.0,40,50,ORL,SAS,0,away,Timeout,,,,,,
+181,2,2:39.0,40,50,ORL,SAS,0,home,Sub,,,,,A. Gordon,A. Nicholson
+182,2,2:39.0,40,50,ORL,SAS,0,away,Sub,,,,,B. Diaw,T. Duncan
+183,2,2:22.0,40,50,ORL,SAS,17,home,Traveling,,,turnover,,N. Vučević,
+184,2,2:07.0,40,50,ORL,SAS,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Fournier,K. Leonard
+185,2,1:59.0,40,50,ORL,SAS,8,away,JS,,17,miss2,0,K. Leonard,
+186,2,1:57.0,40,50,ORL,SAS,2,home,DefReb,,,DefReb,,A. Gordon,
+187,2,1:45.0,43,50,ORL,SAS,12,home,JS,assist,26,make3,3,V. Oladipo,E. Payton
+188,2,1:27.0,43,50,ORL,SAS,18,away,LU,block,1,miss2,0,B. Diaw,A. Gordon
+189,2,1:25.0,43,50,ORL,SAS,2,home,DefReb,,,DefReb,,E. Payton,
+190,2,1:21.0,43,50,ORL,SAS,4,home,JS,,16,miss2,0,V. Oladipo,
+191,2,1:19.0,43,50,ORL,SAS,2,home,OffReb,,,OffReb,,A. Gordon,
+192,2,1:08.0,45,50,ORL,SAS,11,home,JS,assist,20,make2,2,E. Fournier,N. Vučević
+193,2,0:54.0,45,50,ORL,SAS,14,away,HS,,5,miss2,0,B. Diaw,
+194,2,0:52.0,45,50,ORL,SAS,2,home,DefReb,,,DefReb,,E. Payton,
+195,2,0:48.0,45,50,ORL,SAS,4,home,LostBall,steal,,turnover,,V. Oladipo,P. Mills
+196,2,0:40.0,45,50,ORL,SAS,8,away,JS,,24,miss3,0,D. Green,
+197,2,0:38.0,45,50,ORL,SAS,2,home,DefReb,,,DefReb,,N. Vučević,
+198,2,0:30.0,48,50,ORL,SAS,8,home,JS,assist,25,make3,3,E. Fournier,N. Vučević
+199,2,0:15.0,48,50,ORL,SAS,15,away,JS,,23,miss3,0,D. Green,
+200,2,0:13.0,48,50,ORL,SAS,2,home,DefReb,,,DefReb,,E. Fournier,
+201,2,0:07.0,48,50,ORL,SAS,6,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,P. Mills,E. Payton
+202,2,0:00.0,51,50,ORL,SAS,7,home,JS,assist,23,make3,3,V. Oladipo,E. Fournier
+203,3,11:47.0,51,50,ORL,SAS,13,home,BadPass,steal,,turnover,,V. Oladipo,K. Leonard
+204,3,11:42.0,51,50,ORL,SAS,5,away,OutOfBounds,,,turnover,,D. Green,
+205,3,11:31.0,51,50,ORL,SAS,11,home,JS,,11,miss2,0,V. Oladipo,
+206,3,11:30.0,51,50,ORL,SAS,1,home,OffReb,,,OffReb,,N. Vučević,
+207,3,11:30.0,51,50,ORL,SAS,0,home,LU,,1,miss2,0,N. Vučević,
+208,3,11:27.0,51,50,ORL,SAS,3,home,OffReb,,,OffReb,,N. Vučević,
+209,3,11:27.0,51,50,ORL,SAS,0,home,LU,,1,miss2,0,N. Vučević,
+210,3,11:26.0,51,50,ORL,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+211,3,11:16.0,51,50,ORL,SAS,10,away,BadPass,,,turnover,,T. Duncan,
+212,3,11:06.0,51,50,ORL,SAS,10,home,LU,,1,miss2,0,V. Oladipo,
+213,3,11:05.0,51,50,ORL,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+214,3,10:58.0,51,50,ORL,SAS,7,away,BadPass,steal,,turnover,,K. Leonard,E. Payton
+215,3,10:56.0,51,50,ORL,SAS,2,home,LostBall,steal,,turnover,,E. Payton,K. Leonard
+216,3,10:51.0,51,52,ORL,SAS,5,away,LU,assist,2,make2,2,L. Aldridge,K. Leonard
+217,3,10:32.0,51,52,ORL,SAS,19,home,LU,block,2,miss2,0,N. Vučević,T. Duncan
+218,3,10:32.0,51,52,ORL,SAS,0,home,OffReb,,,OffReb,,Team,
+219,3,10:28.0,51,52,ORL,SAS,4,home,LU,,2,miss2,0,N. Vučević,
+220,3,10:27.0,51,52,ORL,SAS,1,away,DefReb,,,DefReb,,R. McCallum,
+221,3,10:14.0,51,55,ORL,SAS,13,away,JS,assist,25,make3,3,K. Leonard,L. Aldridge
+222,3,9:55.0,51,55,ORL,SAS,19,home,HS,,5,miss2,0,N. Vučević,
+223,3,9:54.0,51,55,ORL,SAS,1,away,DefReb,,,DefReb,,T. Duncan,
+224,3,9:44.0,51,55,ORL,SAS,10,away,JS,block,8,miss2,0,T. Duncan,A. Gordon
+225,3,9:42.0,51,55,ORL,SAS,2,home,DefReb,,,DefReb,,E. Payton,
+226,3,9:34.0,51,55,ORL,SAS,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Duncan,E. Payton
+227,3,9:34.0,52,55,ORL,SAS,0,home,FreeThrow,,,make1,1,E. Payton,
+228,3,9:34.0,53,55,ORL,SAS,0,home,FreeThrow,,,make1,1,E. Payton,
+229,3,9:15.0,53,55,ORL,SAS,19,away,HS,,8,miss2,0,L. Aldridge,
+230,3,9:14.0,53,55,ORL,SAS,1,home,DefReb,,,DefReb,,A. Gordon,
+231,3,9:07.0,53,55,ORL,SAS,7,home,JS,,12,miss2,0,A. Gordon,
+232,3,9:06.0,53,55,ORL,SAS,1,away,DefReb,,,DefReb,,T. Duncan,
+233,3,8:57.0,53,57,ORL,SAS,9,away,LU,assist,2,make2,2,L. Aldridge,T. Duncan
+234,3,8:36.0,53,57,ORL,SAS,21,home,JS,,16,miss2,0,E. Payton,
+235,3,8:35.0,53,57,ORL,SAS,1,away,DefReb,,,DefReb,,R. McCallum,
+236,3,8:20.0,53,57,ORL,SAS,15,away,LU,block,2,miss2,0,T. Duncan,N. Vučević
+237,3,8:18.0,53,57,ORL,SAS,2,away,OffReb,,,OffReb,,T. Duncan,
+238,3,8:18.0,53,57,ORL,SAS,0,away,LU,,2,miss2,0,T. Duncan,
+239,3,8:18.0,53,57,ORL,SAS,0,away,OffReb,,,OffReb,,L. Aldridge,
+240,3,8:18.0,53,57,ORL,SAS,0,away,LU,,1,miss2,0,L. Aldridge,
+241,3,8:18.0,53,57,ORL,SAS,0,home,DefReb,,,DefReb,,Team,
+242,3,8:01.0,55,57,ORL,SAS,17,home,HS,assist,7,make2,2,N. Vučević,E. Fournier
+243,3,7:44.0,55,57,ORL,SAS,17,away,JS,,16,miss2,0,D. Green,
+244,3,7:43.0,55,57,ORL,SAS,1,home,DefReb,,,DefReb,,N. Vučević,
+245,3,7:34.0,57,57,ORL,SAS,9,home,JS,assist,17,make2,2,N. Vučević,E. Payton
+246,3,7:19.0,57,57,ORL,SAS,15,away,LU,,1,miss2,0,R. McCallum,
+247,3,7:17.0,57,57,ORL,SAS,2,home,DefReb,,,DefReb,,A. Gordon,
+248,3,7:07.0,57,57,ORL,SAS,10,home,JS,,25,miss3,0,V. Oladipo,
+249,3,7:06.0,57,57,ORL,SAS,1,away,DefReb,,,DefReb,,T. Duncan,
+250,3,6:55.0,57,57,ORL,SAS,11,away,JS,,25,miss3,0,R. McCallum,
+251,3,6:54.0,57,57,ORL,SAS,1,away,OffReb,,,OffReb,,T. Duncan,
+252,3,6:49.0,57,60,ORL,SAS,5,away,JS,assist,25,make3,3,D. Green,T. Duncan
+253,3,6:38.0,57,60,ORL,SAS,11,home,JS,,24,miss3,0,A. Gordon,
+254,3,6:37.0,57,60,ORL,SAS,1,away,DefReb,,,DefReb,,D. Green,
+255,3,6:32.0,57,60,ORL,SAS,5,away,LU,,2,miss2,0,L. Aldridge,
+256,3,6:30.0,57,60,ORL,SAS,2,home,DefReb,,,DefReb,,A. Gordon,
+257,3,6:18.0,60,60,ORL,SAS,12,home,JS,assist,24,make3,3,E. Fournier,N. Vučević
+258,3,6:10.0,60,60,ORL,SAS,8,away,Timeout,,,,,,
+259,3,6:10.0,60,60,ORL,SAS,0,away,Sub,,,,,P. Mills,T. Duncan
+260,3,6:10.0,60,60,ORL,SAS,0,away,Sub,,,,,J. Simmons,D. Green
+261,3,6:10.0,60,60,ORL,SAS,0,away,Sub,,,,,B. Diaw,R. McCallum
+262,3,5:54.0,60,60,ORL,SAS,16,away,BadPass,steal,,turnover,,J. Simmons,A. Gordon
+263,3,5:47.0,62,60,ORL,SAS,7,home,LU,assist,2,make2,2,V. Oladipo,A. Gordon
+264,3,5:28.0,62,60,ORL,SAS,19,away,LU,block,2,miss2,0,B. Diaw,N. Vučević
+265,3,5:26.0,62,60,ORL,SAS,2,home,DefReb,,,DefReb,,N. Vučević,
+266,3,5:23.0,62,60,ORL,SAS,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Simmons,V. Oladipo
+267,3,5:09.0,64,60,ORL,SAS,14,home,LU,,1,make2,2,E. Fournier,
+268,3,5:09.0,64,60,ORL,SAS,0,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Simmons,E. Fournier
+269,3,5:09.0,65,60,ORL,SAS,0,home,FreeThrow,,,make1,1,E. Fournier,
+270,3,4:58.0,65,60,ORL,SAS,11,away,JS,,9,miss2,0,K. Leonard,
+271,3,4:56.0,65,60,ORL,SAS,2,away,OffReb,,,OffReb,,P. Mills,
+272,3,4:47.0,65,63,ORL,SAS,9,away,JS,assist,25,make3,3,P. Mills,K. Leonard
+273,3,4:31.0,65,63,ORL,SAS,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Simmons,E. Fournier
+274,3,4:31.0,66,63,ORL,SAS,0,home,FreeThrow,,,make1,1,E. Fournier,
+275,3,4:31.0,66,63,ORL,SAS,0,away,Sub,,,,,K. Anderson,K. Leonard
+276,3,4:31.0,67,63,ORL,SAS,0,home,FreeThrow,,,make1,1,E. Fournier,
+277,3,4:17.0,67,63,ORL,SAS,14,away,HS,,6,miss2,0,L. Aldridge,
+278,3,4:16.0,67,63,ORL,SAS,1,home,DefReb,,,DefReb,,N. Vučević,
+279,3,4:07.0,69,63,ORL,SAS,9,home,LU,assist,2,make2,2,A. Gordon,E. Fournier
+280,3,4:07.0,69,63,ORL,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Aldridge,A. Gordon
+281,3,4:07.0,70,63,ORL,SAS,0,home,FreeThrow,,,make1,1,A. Gordon,
+282,3,3:54.0,70,63,ORL,SAS,13,away,JS,,18,miss2,0,L. Aldridge,
+283,3,3:51.0,70,63,ORL,SAS,3,home,DefReb,,,DefReb,,V. Oladipo,
+284,3,3:45.0,70,63,ORL,SAS,6,home,LU,,2,miss2,0,V. Oladipo,
+285,3,3:42.0,70,63,ORL,SAS,3,away,DefReb,,,DefReb,,B. Diaw,
+286,3,3:37.0,70,63,ORL,SAS,5,away,JS,,7,miss2,0,J. Simmons,
+287,3,3:35.0,70,63,ORL,SAS,2,home,DefReb,,,DefReb,,E. Fournier,
+288,3,3:31.0,70,63,ORL,SAS,4,home,Timeout,,,,,,
+289,3,3:31.0,70,63,ORL,SAS,0,away,Sub,,,,,D. West,L. Aldridge
+290,3,3:21.0,70,63,ORL,SAS,10,home,JS,,23,miss3,0,A. Gordon,
+291,3,3:20.0,70,63,ORL,SAS,1,home,OffReb,,,OffReb,,N. Vučević,
+292,3,3:20.0,70,63,ORL,SAS,0,home,LU,,2,miss2,0,N. Vučević,
+293,3,3:18.0,70,63,ORL,SAS,2,away,DefReb,,,DefReb,,B. Diaw,
+294,3,3:10.0,70,63,ORL,SAS,8,away,JS,,7,miss2,0,B. Diaw,
+295,3,3:09.0,70,63,ORL,SAS,1,home,DefReb,,,DefReb,,A. Gordon,
+296,3,2:45.0,70,63,ORL,SAS,24,home,JS,,14,miss2,0,E. Payton,
+297,3,2:43.0,70,63,ORL,SAS,2,away,DefReb,,,DefReb,,B. Diaw,
+298,3,2:25.0,70,63,ORL,SAS,18,away,JS,,23,miss3,0,K. Anderson,
+299,3,2:24.0,70,63,ORL,SAS,1,home,DefReb,,,DefReb,,A. Gordon,
+300,3,2:12.0,70,63,ORL,SAS,12,home,LU,block,2,miss2,0,A. Gordon,D. West
+301,3,2:12.0,70,63,ORL,SAS,0,home,OffReb,,,OffReb,,Team,
+302,3,2:12.0,70,63,ORL,SAS,0,home,Sub,,,,,M. Hezonja,V. Oladipo
+303,3,2:12.0,70,63,ORL,SAS,0,home,Sub,,,,,A. Nicholson,A. Gordon
+304,3,2:06.0,72,63,ORL,SAS,6,home,JS,assist,12,make2,2,E. Fournier,M. Hezonja
+305,3,1:55.0,72,65,ORL,SAS,11,away,LU,assist,2,make2,2,B. Diaw,P. Mills
+306,3,1:43.0,75,65,ORL,SAS,12,home,JS,assist,25,make3,3,M. Hezonja,N. Vučević
+307,3,1:11.0,75,67,ORL,SAS,32,away,JS,,18,make2,2,B. Diaw,
+308,3,0:47.0,77,67,ORL,SAS,24,home,JS,,9,make2,2,E. Payton,
+309,3,0:33.0,77,67,ORL,SAS,14,away,JS,,26,miss3,0,B. Diaw,
+310,3,0:32.0,77,67,ORL,SAS,1,away,OffReb,,,OffReb,,P. Mills,
+311,3,0:31.0,77,67,ORL,SAS,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Hezonja,P. Mills
+312,3,0:22.0,77,67,ORL,SAS,9,away,HS,,12,miss2,0,K. Anderson,
+313,3,0:20.0,77,67,ORL,SAS,2,home,DefReb,,,DefReb,,A. Nicholson,
+314,3,0:05.0,77,67,ORL,SAS,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Anderson,M. Hezonja
+315,3,0:05.0,78,67,ORL,SAS,0,home,FreeThrow,,,make1,1,M. Hezonja,
+316,3,0:05.0,78,67,ORL,SAS,0,home,Sub,,,,,D. Dedmon,N. Vučević
+317,3,0:05.0,79,67,ORL,SAS,0,home,FreeThrow,,,make1,1,M. Hezonja,
+318,3,0:00.0,79,67,ORL,SAS,5,away,JS,,13,miss2,0,J. Simmons,
+319,3,0:00.0,79,67,ORL,SAS,0,away,OffReb,,,OffReb,,Team,
+320,4,11:44.0,79,67,ORL,SAS,16,away,JS,,26,miss3,0,P. Mills,
+321,4,11:43.0,79,67,ORL,SAS,1,home,DefReb,,,DefReb,,E. Payton,
+322,4,11:25.0,79,67,ORL,SAS,18,home,HS,,11,miss2,0,A. Nicholson,
+323,4,11:23.0,79,67,ORL,SAS,2,home,OffReb,,,OffReb,,D. Dedmon,
+324,4,11:23.0,81,67,ORL,SAS,0,home,LU,,2,make2,2,D. Dedmon,
+325,4,11:02.0,81,67,ORL,SAS,21,away,JS,,11,miss2,0,P. Mills,
+326,4,11:00.0,81,67,ORL,SAS,2,home,DefReb,,,DefReb,,E. Payton,
+327,4,10:44.0,81,67,ORL,SAS,16,home,JS,,18,miss2,0,E. Fournier,
+328,4,10:43.0,81,67,ORL,SAS,1,home,OffReb,,,OffReb,,D. Dedmon,
+329,4,10:42.0,81,67,ORL,SAS,1,home,LU,,2,miss2,0,D. Dedmon,
+330,4,10:41.0,81,67,ORL,SAS,1,home,OffReb,,,OffReb,,Team,
+331,4,10:31.0,81,67,ORL,SAS,10,home,JS,,25,miss3,0,M. Hezonja,
+332,4,10:30.0,81,67,ORL,SAS,1,away,DefReb,,,DefReb,,P. Mills,
+333,4,10:22.0,81,67,ORL,SAS,8,away,LU,block,3,miss2,0,K. Anderson,A. Nicholson
+334,4,10:22.0,81,67,ORL,SAS,0,away,OffReb,,,OffReb,,Team,
+335,4,10:19.0,81,69,ORL,SAS,3,away,JS,assist,12,make2,2,D. Green,P. Mills
+336,4,10:03.0,81,69,ORL,SAS,16,home,LostBall,steal,,turnover,,D. Dedmon,K. Anderson
+337,4,9:58.0,81,72,ORL,SAS,5,away,JS,assist,25,make3,3,D. Green,K. Anderson
+338,4,9:31.0,81,72,ORL,SAS,27,home,JS,,20,miss2,0,E. Fournier,
+339,4,9:30.0,81,72,ORL,SAS,1,home,OffReb,,,OffReb,,A. Nicholson,
+340,4,9:14.0,83,72,ORL,SAS,16,home,JS,,8,make2,2,E. Payton,
+341,4,9:00.0,83,72,ORL,SAS,14,away,BadPass,steal,,turnover,,P. Mills,E. Payton
+342,4,8:56.0,83,72,ORL,SAS,4,away,ChargeFoul,DrawnBy,,ChargeFoul,,M. Hezonja,J. Simmons
+343,4,8:56.0,83,72,ORL,SAS,0,home,OffensiveFoul,,,turnover,,M. Hezonja,
+344,4,8:56.0,83,72,ORL,SAS,0,away,Timeout,,,,,,
+345,4,8:56.0,83,72,ORL,SAS,0,home,Sub,,,,,N. Vučević,M. Hezonja
+346,4,8:56.0,83,72,ORL,SAS,0,home,Sub,,,,,V. Oladipo,D. Dedmon
+347,4,8:56.0,83,72,ORL,SAS,0,away,Sub,,,,,K. Leonard,J. Simmons
+348,4,8:56.0,83,72,ORL,SAS,0,away,Sub,,,,,L. Aldridge,B. Marjanović
+349,4,8:46.0,83,74,ORL,SAS,10,away,LU,assist,1,make2,2,D. Green,P. Mills
+350,4,8:41.0,83,74,ORL,SAS,5,home,BadPass,,,turnover,,A. Nicholson,
+351,4,8:33.0,83,74,ORL,SAS,8,away,BadPass,steal,,turnover,,L. Aldridge,V. Oladipo
+352,4,8:13.0,85,74,ORL,SAS,20,home,JS,,14,make2,2,N. Vučević,
+353,4,7:51.0,85,74,ORL,SAS,22,away,JS,,25,miss3,0,D. Green,
+354,4,7:50.0,85,74,ORL,SAS,1,away,OffReb,,,OffReb,,P. Mills,
+355,4,7:47.0,85,76,ORL,SAS,3,away,JS,,13,make2,2,P. Mills,
+356,4,7:29.0,87,76,ORL,SAS,18,home,LU,assist,2,make2,2,E. Fournier,N. Vučević
+357,4,7:17.0,87,78,ORL,SAS,12,away,JS,,15,make2,2,K. Leonard,
+358,4,6:58.0,87,78,ORL,SAS,19,home,BadPass,steal,,turnover,,E. Payton,K. Anderson
+359,4,6:43.0,87,80,ORL,SAS,15,away,JS,assist,20,make2,2,K. Leonard,P. Mills
+360,4,6:29.0,87,80,ORL,SAS,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Mills,N. Vučević
+361,4,6:29.0,88,80,ORL,SAS,0,home,FreeThrow,,,make1,1,N. Vučević,
+362,4,6:29.0,89,80,ORL,SAS,0,home,FreeThrow,,,make1,1,N. Vučević,
+363,4,6:14.0,89,80,ORL,SAS,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Nicholson,L. Aldridge
+364,4,6:11.0,89,80,ORL,SAS,3,away,JS,,26,miss3,0,P. Mills,
+365,4,6:09.0,89,80,ORL,SAS,2,home,DefReb,,,DefReb,,N. Vučević,
+366,4,5:53.0,89,80,ORL,SAS,16,home,LU,,2,miss2,0,E. Fournier,
+367,4,5:52.0,89,80,ORL,SAS,1,away,DefReb,,,DefReb,,D. Green,
+368,4,5:45.0,89,83,ORL,SAS,7,away,JS,assist,23,make3,3,P. Mills,K. Anderson
+369,4,5:38.0,89,83,ORL,SAS,7,home,Timeout,,,,,,
+370,4,5:38.0,89,83,ORL,SAS,0,home,Sub,,,,,A. Gordon,A. Nicholson
+371,4,5:38.0,89,83,ORL,SAS,0,away,Sub,,,,,R. Butler,K. Anderson
+372,4,5:29.0,89,83,ORL,SAS,9,home,HS,,9,miss2,0,N. Vučević,
+373,4,5:28.0,89,83,ORL,SAS,1,away,DefReb,,,DefReb,,L. Aldridge,
+374,4,5:12.0,89,83,ORL,SAS,16,away,JS,,11,miss2,0,K. Leonard,
+375,4,5:11.0,89,83,ORL,SAS,1,away,OffReb,,,OffReb,,D. Green,
+376,4,5:06.0,89,86,ORL,SAS,5,away,JS,assist,24,make3,3,K. Leonard,D. Green
+377,4,4:45.0,91,86,ORL,SAS,21,home,HS,assist,10,make2,2,N. Vučević,E. Payton
+378,4,4:31.0,91,88,ORL,SAS,14,away,LU,,1,make2,2,P. Mills,
+379,4,4:16.0,91,88,ORL,SAS,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Leonard,N. Vučević
+380,4,4:10.0,91,88,ORL,SAS,6,home,JS,,22,miss2,0,E. Fournier,
+381,4,4:08.0,91,88,ORL,SAS,2,away,DefReb,,,DefReb,,L. Aldridge,
+382,4,4:02.0,91,88,ORL,SAS,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Payton,P. Mills
+383,4,3:52.0,91,88,ORL,SAS,10,away,JS,,25,miss3,0,D. Green,
+384,4,3:50.0,91,88,ORL,SAS,2,home,DefReb,,,DefReb,,A. Gordon,
+385,4,3:37.0,91,88,ORL,SAS,13,home,LU,block,2,miss2,0,N. Vučević,R. Butler
+386,4,3:36.0,91,88,ORL,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+387,4,3:28.0,91,88,ORL,SAS,8,away,LU,,2,miss2,0,P. Mills,
+388,4,3:27.0,91,88,ORL,SAS,1,home,DefReb,,,DefReb,,A. Gordon,
+389,4,3:09.0,93,88,ORL,SAS,18,home,LU,assist,2,make2,2,N. Vučević,E. Fournier
+390,4,3:09.0,93,88,ORL,SAS,0,away,Timeout,,,,,,
+391,4,2:54.0,93,88,ORL,SAS,15,away,JS,,23,miss3,0,D. Green,
+392,4,2:52.0,93,88,ORL,SAS,2,home,DefReb,,,DefReb,,A. Gordon,
+393,4,2:33.0,93,88,ORL,SAS,19,home,OutOfBounds,,,turnover,,V. Oladipo,
+394,4,2:23.0,93,88,ORL,SAS,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,L. Aldridge
+395,4,2:23.0,93,89,ORL,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
+396,4,2:23.0,93,90,ORL,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
+397,4,2:06.0,93,90,ORL,SAS,17,home,JS,,17,miss2,0,E. Payton,
+398,4,2:04.0,93,90,ORL,SAS,2,away,DefReb,,,DefReb,,R. Butler,
+399,4,1:57.0,93,90,ORL,SAS,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Fournier,K. Leonard
+400,4,1:50.0,93,90,ORL,SAS,7,away,JS,,16,miss2,0,K. Leonard,
+401,4,1:49.0,93,90,ORL,SAS,1,away,OffReb,,,OffReb,,P. Mills,
+402,4,1:42.0,93,90,ORL,SAS,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Vučević,L. Aldridge
+403,4,1:42.0,93,91,ORL,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
+404,4,1:42.0,93,92,ORL,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
+405,4,1:27.0,93,92,ORL,SAS,15,home,LU,block,2,miss2,0,V. Oladipo,D. Green
+406,4,1:25.0,93,92,ORL,SAS,2,away,DefReb,,,DefReb,,L. Aldridge,
+407,4,1:10.0,93,94,ORL,SAS,15,away,JS,,17,make2,2,L. Aldridge,
+408,4,1:10.0,93,94,ORL,SAS,0,home,Timeout,,,,,,
+409,4,1:03.0,93,94,ORL,SAS,7,home,Timeout,,,,,,
+410,4,1:01.0,93,94,ORL,SAS,2,home,BadPass,steal,,turnover,,E. Fournier,P. Mills
+411,4,1:01.0,93,94,ORL,SAS,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Payton,K. Leonard
+412,4,1:01.0,93,95,ORL,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+413,4,1:01.0,93,96,ORL,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+414,4,0:50.0,93,96,ORL,SAS,11,home,JS,block,6,miss2,0,E. Fournier,L. Aldridge
+415,4,0:48.0,93,96,ORL,SAS,2,away,DefReb,,,DefReb,,P. Mills,
+416,4,0:29.0,93,96,ORL,SAS,19,away,JS,,9,miss2,0,K. Leonard,
+417,4,0:26.0,93,96,ORL,SAS,3,home,DefReb,,,DefReb,,A. Gordon,
+418,4,0:16.0,93,96,ORL,SAS,10,home,LU,block,2,miss2,0,E. Fournier,L. Aldridge
+419,4,0:16.0,93,96,ORL,SAS,0,home,OffReb,,,OffReb,,Team,
+420,4,0:16.0,93,96,ORL,SAS,0,home,Timeout,,,,,,
+421,4,0:13.0,96,96,ORL,SAS,3,home,JS,assist,23,make3,3,E. Fournier,E. Payton
+422,4,0:13.0,96,96,ORL,SAS,0,away,Timeout,,,,,,
+423,4,0:13.0,96,96,ORL,SAS,0,away,Timeout,,,,,,
+424,4,0:01.0,96,98,ORL,SAS,12,away,JS,,19,make2,2,K. Leonard,
+425,4,0:01.0,96,98,ORL,SAS,0,home,LU,,1,miss2,0,E. Payton,
+426,4,0:00.0,96,98,ORL,SAS,1,away,DefReb,,,DefReb,,L. Aldridge,

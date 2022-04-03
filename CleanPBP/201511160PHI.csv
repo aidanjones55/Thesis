@@ -1,0 +1,483 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,0,0,PHI,DAL,19,home,JS,,17,miss2,0,N. Noel,
+1,1,11:39.0,0,0,PHI,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+2,1,11:24.0,0,0,PHI,DAL,15,away,JS,block,12,miss2,0,D. Williams,T. McConnell
+3,1,11:22.0,0,0,PHI,DAL,2,home,DefReb,,,DefReb,,T. McConnell,
+4,1,11:11.0,0,0,PHI,DAL,11,home,Traveling,,,turnover,,J. Okafor,
+5,1,10:49.0,0,0,PHI,DAL,22,away,JS,,25,miss3,0,W. Matthews,
+6,1,10:48.0,0,0,PHI,DAL,1,home,DefReb,,,DefReb,,N. Noel,
+7,1,10:40.0,0,0,PHI,DAL,8,home,LostBall,steal,,turnover,,N. Noel,D. Nowitzki
+8,1,10:38.0,0,0,PHI,DAL,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. McConnell,C. Parsons
+9,1,10:38.0,0,2,PHI,DAL,0,away,LU,assist,2,make2,2,C. Parsons,W. Matthews
+10,1,10:38.0,0,3,PHI,DAL,0,away,FreeThrow,,,make1,1,C. Parsons,
+11,1,10:15.0,0,3,PHI,DAL,23,home,BadPass,steal,,turnover,,J. Grant,W. Matthews
+12,1,10:07.0,0,3,PHI,DAL,8,away,JS,,26,miss3,0,C. Parsons,
+13,1,10:05.0,0,3,PHI,DAL,2,home,DefReb,,,DefReb,,N. Noel,
+14,1,9:46.0,0,3,PHI,DAL,19,home,JS,,26,miss3,0,N. Stauskas,
+15,1,9:44.0,0,3,PHI,DAL,2,away,DefReb,,,DefReb,,Z. Pachulia,
+16,1,9:29.0,0,5,PHI,DAL,15,away,LU,,1,make2,2,D. Williams,
+17,1,9:18.0,0,5,PHI,DAL,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,N. Noel
+18,1,9:09.0,0,5,PHI,DAL,9,home,JS,,16,miss2,0,N. Stauskas,
+19,1,9:05.0,0,5,PHI,DAL,4,away,DefReb,,,DefReb,,D. Nowitzki,
+20,1,8:56.0,0,5,PHI,DAL,9,away,JS,,7,miss2,0,W. Matthews,
+21,1,8:54.0,0,5,PHI,DAL,2,away,OffReb,,,OffReb,,Z. Pachulia,
+22,1,8:52.0,0,5,PHI,DAL,2,away,JS,,26,miss3,0,D. Nowitzki,
+23,1,8:50.0,0,5,PHI,DAL,2,home,DefReb,,,DefReb,,T. McConnell,
+24,1,8:36.0,0,5,PHI,DAL,14,home,JS,block,4,miss2,0,J. Okafor,D. Nowitzki
+25,1,8:34.0,0,5,PHI,DAL,2,home,OffReb,,,OffReb,,N. Noel,
+26,1,8:32.0,2,5,PHI,DAL,2,home,JS,,5,make2,2,N. Noel,
+27,1,8:15.0,2,7,PHI,DAL,17,away,JS,assist,18,make2,2,D. Nowitzki,D. Williams
+28,1,7:57.0,2,7,PHI,DAL,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Matthews,N. Stauskas
+29,1,7:48.0,2,7,PHI,DAL,9,home,LostBall,steal,,turnover,,T. McConnell,Z. Pachulia
+30,1,7:44.0,2,9,PHI,DAL,4,away,DK,,0,make2,2,C. Parsons,
+31,1,7:27.0,2,9,PHI,DAL,17,home,JS,,13,miss2,0,J. Grant,
+32,1,7:26.0,2,9,PHI,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+33,1,7:18.0,2,11,PHI,DAL,8,away,JS,,18,make2,2,C. Parsons,
+34,1,7:17.0,2,11,PHI,DAL,1,home,Timeout,,,,,,
+35,1,7:17.0,2,11,PHI,DAL,0,away,Sub,,,,,D. Harris,W. Matthews
+36,1,7:17.0,2,11,PHI,DAL,0,away,Sub,,,,,D. Powell,D. Nowitzki
+37,1,6:54.0,4,11,PHI,DAL,23,home,JS,,19,make2,2,T. McConnell,
+38,1,6:43.0,4,11,PHI,DAL,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Stauskas,D. Harris
+39,1,6:43.0,4,11,PHI,DAL,0,home,Sub,,,,,R. Covington,J. Okafor
+40,1,6:31.0,4,13,PHI,DAL,12,away,JS,assist,20,make2,2,C. Parsons,Z. Pachulia
+41,1,6:17.0,4,13,PHI,DAL,14,home,JS,,25,miss3,0,T. McConnell,
+42,1,6:15.0,4,13,PHI,DAL,2,away,DefReb,,,DefReb,,D. Harris,
+43,1,6:11.0,4,13,PHI,DAL,4,home,Sub,,,,,I. Canaan,T. McConnell
+44,1,6:08.0,4,15,PHI,DAL,3,away,JS,assist,1,make2,2,C. Parsons,D. Williams
+45,1,6:00.0,4,15,PHI,DAL,8,home,JS,,25,miss3,0,R. Covington,
+46,1,5:58.0,4,15,PHI,DAL,2,away,DefReb,,,DefReb,,D. Harris,
+47,1,5:48.0,4,15,PHI,DAL,10,away,BadPass,,,turnover,,D. Harris,
+48,1,5:39.0,4,15,PHI,DAL,9,home,BadPass,,,turnover,,N. Stauskas,
+49,1,5:27.0,4,15,PHI,DAL,12,away,LU,,2,miss2,0,Z. Pachulia,
+50,1,5:25.0,4,15,PHI,DAL,2,home,DefReb,,,DefReb,,J. Grant,
+51,1,5:19.0,4,15,PHI,DAL,6,home,BadPass,,,turnover,,J. Grant,
+52,1,5:06.0,4,15,PHI,DAL,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Noel,Z. Pachulia
+53,1,5:06.0,4,15,PHI,DAL,0,away,FreeThrow,,,make1,0,Z. Pachulia,
+54,1,5:06.0,4,15,PHI,DAL,0,away,OffReb,,,OffReb,,Team,
+55,1,5:06.0,4,15,PHI,DAL,0,home,Sub,,,,,J. Sampson,N. Stauskas
+56,1,5:06.0,4,16,PHI,DAL,0,away,FreeThrow,,,make1,1,Z. Pachulia,
+57,1,4:59.0,4,16,PHI,DAL,7,home,JS,block,3,miss2,0,J. Grant,C. Parsons
+58,1,4:56.0,4,16,PHI,DAL,3,away,DefReb,,,DefReb,,D. Harris,
+59,1,4:53.0,4,16,PHI,DAL,3,away,LU,,2,miss2,0,D. Williams,
+60,1,4:53.0,4,16,PHI,DAL,0,away,OffReb,,,OffReb,,Team,
+61,1,4:53.0,4,16,PHI,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Sampson,Z. Pachulia
+62,1,4:53.0,4,16,PHI,DAL,0,away,Sub,,,,,R. Felton,D. Williams
+63,1,4:45.0,4,16,PHI,DAL,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,D. Powell
+64,1,4:45.0,4,16,PHI,DAL,0,home,Sub,,,,,H. Thompson,J. Grant
+65,1,4:45.0,4,16,PHI,DAL,0,away,FreeThrow,,,make1,0,D. Powell,
+66,1,4:45.0,4,16,PHI,DAL,0,away,OffReb,,,OffReb,,Team,
+67,1,4:45.0,4,16,PHI,DAL,0,home,Sub,,,,,J. Okafor,N. Noel
+68,1,4:45.0,4,16,PHI,DAL,0,away,FreeThrow,,,make1,0,D. Powell,
+69,1,4:43.0,4,16,PHI,DAL,2,home,DefReb,,,DefReb,,R. Covington,
+70,1,4:26.0,4,16,PHI,DAL,17,home,JS,,26,miss3,0,I. Canaan,
+71,1,4:24.0,4,16,PHI,DAL,2,away,DefReb,,,DefReb,,Z. Pachulia,
+72,1,4:15.0,4,16,PHI,DAL,9,away,JS,,17,miss2,0,R. Felton,
+73,1,4:13.0,4,16,PHI,DAL,2,home,DefReb,,,DefReb,,J. Okafor,
+74,1,3:56.0,6,16,PHI,DAL,17,home,LU,assist,1,make2,2,J. Sampson,I. Canaan
+75,1,3:40.0,6,16,PHI,DAL,16,away,JS,,18,miss2,0,D. Harris,
+76,1,3:38.0,6,16,PHI,DAL,2,away,OffReb,,,OffReb,,D. Powell,
+77,1,3:38.0,6,16,PHI,DAL,0,away,LostBall,steal,,turnover,,D. Powell,H. Thompson
+78,1,3:30.0,8,16,PHI,DAL,8,home,LU,assist,2,make2,2,H. Thompson,R. Covington
+79,1,3:30.0,8,16,PHI,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Powell,H. Thompson
+80,1,3:30.0,8,16,PHI,DAL,0,away,Timeout,,,,,,
+81,1,3:30.0,8,16,PHI,DAL,0,away,Sub,,,,,W. Matthews,C. Parsons
+82,1,3:30.0,8,16,PHI,DAL,0,away,Sub,,,,,D. Nowitzki,Z. Pachulia
+83,1,3:30.0,9,16,PHI,DAL,0,home,FreeThrow,,,make1,1,H. Thompson,
+84,1,3:06.0,9,16,PHI,DAL,24,away,JS,,3,miss2,0,D. Harris,
+85,1,3:04.0,9,16,PHI,DAL,2,home,DefReb,,,DefReb,,I. Canaan,
+86,1,3:00.0,9,16,PHI,DAL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,R. Covington
+87,1,3:00.0,10,16,PHI,DAL,0,home,FreeThrow,,,make1,1,R. Covington,
+88,1,3:00.0,10,16,PHI,DAL,0,away,Sub,,,,,C. Villanueva,D. Nowitzki
+89,1,3:00.0,10,16,PHI,DAL,0,home,FreeThrow,,,make1,0,R. Covington,
+90,1,2:58.0,10,16,PHI,DAL,2,away,DefReb,,,DefReb,,D. Powell,
+91,1,2:48.0,10,16,PHI,DAL,10,away,LU,block,1,miss2,0,W. Matthews,J. Okafor
+92,1,2:46.0,10,16,PHI,DAL,2,home,DefReb,,,DefReb,,J. Okafor,
+93,1,2:44.0,10,16,PHI,DAL,2,home,BadPass,,,turnover,,J. Okafor,
+94,1,2:24.0,10,19,PHI,DAL,20,away,JS,assist,22,make3,3,C. Villanueva,R. Felton
+95,1,2:09.0,12,19,PHI,DAL,15,home,JS,assist,2,make2,2,J. Sampson,H. Thompson
+96,1,2:00.0,12,19,PHI,DAL,9,away,JS,,26,miss3,0,C. Villanueva,
+97,1,1:58.0,12,19,PHI,DAL,2,home,DefReb,,,DefReb,,R. Covington,
+98,1,1:57.0,12,19,PHI,DAL,1,home,Sub,,,,,J. Grant,R. Covington
+99,1,1:37.0,12,19,PHI,DAL,20,home,JS,,8,miss2,0,J. Okafor,
+100,1,1:35.0,12,19,PHI,DAL,2,home,OffReb,,,OffReb,,J. Grant,
+101,1,1:35.0,12,19,PHI,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Villanueva,J. Grant
+102,1,1:35.0,12,19,PHI,DAL,0,home,FreeThrow,,,make1,0,J. Grant,
+103,1,1:35.0,12,19,PHI,DAL,0,home,OffReb,,,OffReb,,Team,
+104,1,1:35.0,13,19,PHI,DAL,0,home,FreeThrow,,,make1,1,J. Grant,
+105,1,1:25.0,13,21,PHI,DAL,10,away,LU,,1,make2,2,D. Harris,
+106,1,1:00.0,15,21,PHI,DAL,25,home,LU,assist,0,make2,2,J. Okafor,J. Sampson
+107,1,0:53.0,15,23,PHI,DAL,7,away,JS,assist,1,make2,2,D. Powell,D. Harris
+108,1,0:53.0,15,23,PHI,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Okafor,D. Powell
+109,1,0:53.0,15,24,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Powell,
+110,1,0:38.0,15,24,PHI,DAL,15,home,BadPass,steal,,turnover,,I. Canaan,D. Harris
+111,1,0:35.0,15,26,PHI,DAL,3,away,LU,,1,make2,2,D. Harris,
+112,1,0:21.0,15,26,PHI,DAL,14,home,JS,,25,miss3,0,I. Canaan,
+113,1,0:17.0,15,26,PHI,DAL,4,away,DefReb,,,DefReb,,D. Powell,
+114,1,0:00.0,15,28,PHI,DAL,17,away,JS,,10,make2,2,R. Felton,
+115,2,11:43.0,15,30,PHI,DAL,17,away,JS,assist,3,make2,2,C. Parsons,R. Felton
+116,2,11:26.0,15,30,PHI,DAL,17,home,JS,,13,miss2,0,H. Thompson,
+117,2,11:25.0,15,30,PHI,DAL,1,away,DefReb,,,DefReb,,C. Villanueva,
+118,2,11:13.0,15,30,PHI,DAL,12,away,JS,,4,miss2,0,C. Villanueva,
+119,2,11:12.0,15,30,PHI,DAL,1,away,OffReb,,,OffReb,,C. Villanueva,
+120,2,11:11.0,15,30,PHI,DAL,1,away,LU,,1,miss2,0,C. Villanueva,
+121,2,11:09.0,15,30,PHI,DAL,2,away,OffReb,,,OffReb,,C. Villanueva,
+122,2,11:09.0,15,30,PHI,DAL,0,away,JS,,2,miss2,0,C. Villanueva,
+123,2,11:07.0,15,30,PHI,DAL,2,home,DefReb,,,DefReb,,J. Okafor,
+124,2,10:49.0,15,30,PHI,DAL,18,home,JS,,8,miss2,0,N. Stauskas,
+125,2,10:49.0,15,30,PHI,DAL,0,home,OffReb,,,OffReb,,Team,
+126,2,10:45.0,17,30,PHI,DAL,4,home,JS,assist,13,make2,2,T. McConnell,N. Stauskas
+127,2,10:28.0,17,30,PHI,DAL,17,away,DK,,0,miss2,0,D. Powell,
+128,2,10:27.0,17,30,PHI,DAL,1,home,DefReb,,,DefReb,,N. Stauskas,
+129,2,10:09.0,17,30,PHI,DAL,18,home,LostBall,steal,,turnover,,N. Noel,D. Powell
+130,2,10:06.0,17,30,PHI,DAL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Thompson,C. Parsons
+131,2,10:06.0,17,31,PHI,DAL,0,away,FreeThrow,,,make1,1,C. Parsons,
+132,2,10:06.0,17,31,PHI,DAL,0,away,Sub,,,,,Z. Pachulia,C. Villanueva
+133,2,10:06.0,17,31,PHI,DAL,0,away,Sub,,,,,D. Nowitzki,D. Powell
+134,2,10:06.0,17,32,PHI,DAL,0,away,FreeThrow,,,make1,1,C. Parsons,
+135,2,10:06.0,17,32,PHI,DAL,0,home,Timeout,,,,,,
+136,2,9:54.0,17,32,PHI,DAL,12,home,JS,,18,miss2,0,N. Noel,
+137,2,9:52.0,17,32,PHI,DAL,2,away,DefReb,,,DefReb,,C. Parsons,
+138,2,9:41.0,17,34,PHI,DAL,11,away,JS,assist,12,make2,2,D. Nowitzki,J. Barea
+139,2,9:26.0,17,34,PHI,DAL,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Pachulia,J. Okafor
+140,2,9:15.0,17,34,PHI,DAL,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Felton,J. Okafor
+141,2,9:15.0,18,34,PHI,DAL,0,home,FreeThrow,,,make1,1,J. Okafor,
+142,2,9:15.0,19,34,PHI,DAL,0,home,FreeThrow,,,make1,1,J. Okafor,
+143,2,9:07.0,19,34,PHI,DAL,8,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Barea,T. McConnell
+144,2,9:07.0,19,34,PHI,DAL,0,away,OffensiveFoul,,,turnover,,J. Barea,
+145,2,8:46.0,19,34,PHI,DAL,21,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. McConnell,J. Barea
+146,2,8:46.0,19,34,PHI,DAL,0,home,OffensiveFoul,,,turnover,,T. McConnell,
+147,2,8:35.0,19,34,PHI,DAL,11,away,JS,,15,miss2,0,D. Nowitzki,
+148,2,8:33.0,19,34,PHI,DAL,2,home,DefReb,,,DefReb,,N. Stauskas,
+149,2,8:29.0,19,34,PHI,DAL,4,home,OffensiveFoul,,,turnover,,J. Okafor,
+150,2,8:29.0,19,34,PHI,DAL,0,away,ChargeFoul,DrawnBy,,ChargeFoul,,J. Okafor,Z. Pachulia
+151,2,8:14.0,19,36,PHI,DAL,15,away,JS,,9,make2,2,J. Barea,
+152,2,8:01.0,19,36,PHI,DAL,13,home,LostBall,,,turnover,,T. McConnell,
+153,2,7:54.0,19,38,PHI,DAL,7,away,JS,,16,make2,2,C. Parsons,
+154,2,7:40.0,21,38,PHI,DAL,14,home,JS,,8,make2,2,J. Okafor,
+155,2,7:31.0,21,38,PHI,DAL,9,away,BadPass,steal,,turnover,,C. Parsons,N. Noel
+156,2,7:27.0,23,38,PHI,DAL,4,home,DK,,0,make2,2,N. Noel,
+157,2,7:14.0,23,38,PHI,DAL,13,away,Timeout,,,,,,
+158,2,7:14.0,23,38,PHI,DAL,0,away,Sub,,,,,D. Williams,R. Felton
+159,2,7:14.0,23,38,PHI,DAL,0,home,Sub,,,,,J. Grant,J. Okafor
+160,2,7:01.0,23,38,PHI,DAL,13,away,LU,,1,miss2,0,J. Barea,
+161,2,7:00.0,23,38,PHI,DAL,1,home,DefReb,,,DefReb,,H. Thompson,
+162,2,6:49.0,26,38,PHI,DAL,11,home,JS,assist,24,make3,3,H. Thompson,T. McConnell
+163,2,6:39.0,26,38,PHI,DAL,10,home,Sub,,,,,J. Sampson,N. Stauskas
+164,2,6:39.0,26,38,PHI,DAL,0,away,Sub,,,,,W. Matthews,C. Parsons
+165,2,6:24.0,26,38,PHI,DAL,15,away,JS,,16,miss2,0,D. Nowitzki,
+166,2,6:22.0,26,38,PHI,DAL,2,home,DefReb,,,DefReb,,H. Thompson,
+167,2,6:16.0,26,38,PHI,DAL,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,Z. Pachulia,J. Sampson
+168,2,6:16.0,26,38,PHI,DAL,0,away,Sub,,,,,D. Powell,Z. Pachulia
+169,2,6:16.0,26,38,PHI,DAL,0,away,Sub,,,,,D. Harris,J. Barea
+170,2,6:16.0,27,38,PHI,DAL,0,home,FreeThrow,,,make1,1,J. Sampson,
+171,2,6:16.0,27,38,PHI,DAL,0,home,FreeThrow,,,make1,0,J. Sampson,
+172,2,5:59.0,27,38,PHI,DAL,17,away,DefReb,,,DefReb,,D. Powell,
+173,2,5:54.0,27,38,PHI,DAL,5,away,JS,,14,miss2,0,D. Williams,
+174,2,5:52.0,27,38,PHI,DAL,2,home,DefReb,,,DefReb,,N. Noel,
+175,2,5:48.0,29,38,PHI,DAL,4,home,LU,,2,make2,2,J. Sampson,
+176,2,5:35.0,29,38,PHI,DAL,13,away,JS,,16,miss2,0,D. Nowitzki,
+177,2,5:33.0,29,38,PHI,DAL,2,away,OffReb,,,OffReb,,Team,
+178,2,5:22.0,29,40,PHI,DAL,11,away,JS,assist,1,make2,2,D. Harris,D. Williams
+179,2,5:10.0,31,40,PHI,DAL,12,home,LU,,2,make2,2,N. Noel,
+180,2,4:55.0,31,40,PHI,DAL,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Noel,D. Harris
+181,2,4:48.0,31,40,PHI,DAL,7,away,HS,,18,miss2,0,W. Matthews,
+182,2,4:45.0,31,40,PHI,DAL,3,home,DefReb,,,DefReb,,J. Sampson,
+183,2,4:41.0,33,40,PHI,DAL,4,home,DK,assist,0,make2,2,J. Grant,T. McConnell
+184,2,4:28.0,33,40,PHI,DAL,13,away,JS,,10,miss2,0,D. Nowitzki,
+185,2,4:27.0,33,40,PHI,DAL,1,home,DefReb,,,DefReb,,T. McConnell,
+186,2,4:09.0,33,40,PHI,DAL,18,home,Palming,,,turnover,,J. Sampson,
+187,2,4:09.0,33,40,PHI,DAL,0,home,Sub,,,,,I. Canaan,T. McConnell
+188,2,4:09.0,33,40,PHI,DAL,0,home,Sub,,,,,R. Covington,H. Thompson
+189,2,4:03.0,33,40,PHI,DAL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Grant,D. Nowitzki
+190,2,4:03.0,33,40,PHI,DAL,0,away,Sub,,,,,C. Villanueva,D. Nowitzki
+191,2,4:00.0,33,40,PHI,DAL,3,away,TechnicalFoul,,,TechnicalFoul,,D. Nowitzki,
+192,2,4:00.0,33,40,PHI,DAL,0,home,FreeThrow,,,make1,0,I. Canaan misses technical free throw,
+193,2,4:00.0,33,40,PHI,DAL,0,away,OffReb,,,OffReb,,Team,
+194,2,4:00.0,33,40,PHI,DAL,0,away,Sub,,,,,C. Parsons,W. Matthews
+195,2,3:52.0,33,40,PHI,DAL,8,away,JS,block,13,miss2,0,D. Williams,N. Noel
+196,2,3:50.0,33,40,PHI,DAL,2,home,DefReb,,,DefReb,,N. Noel,
+197,2,3:41.0,33,40,PHI,DAL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Villanueva,J. Grant
+198,2,3:41.0,34,40,PHI,DAL,0,home,FreeThrow,,,make1,1,J. Grant,
+199,2,3:41.0,35,40,PHI,DAL,0,home,FreeThrow,,,make1,1,J. Grant,
+200,2,3:30.0,35,42,PHI,DAL,11,away,LU,assist,0,make2,2,D. Powell,C. Parsons
+201,2,3:21.0,35,42,PHI,DAL,9,away,ChargeFoul,DrawnBy,,ChargeFoul,,J. Sampson,D. Williams
+202,2,3:21.0,35,42,PHI,DAL,0,home,OffensiveFoul,,,turnover,,J. Sampson,
+203,2,3:11.0,35,42,PHI,DAL,10,away,JS,,22,miss3,0,D. Williams,
+204,2,3:09.0,35,42,PHI,DAL,2,home,DefReb,,,DefReb,,J. Sampson,
+205,2,2:59.0,35,42,PHI,DAL,10,home,JS,,25,miss3,0,R. Covington,
+206,2,2:57.0,35,42,PHI,DAL,2,away,DefReb,,,DefReb,,D. Powell,
+207,2,2:50.0,35,45,PHI,DAL,7,away,JS,assist,25,make3,3,C. Parsons,D. Williams
+208,2,2:34.0,37,45,PHI,DAL,16,home,JS,assist,0,make2,2,J. Grant,J. Sampson
+209,2,2:17.0,37,47,PHI,DAL,17,away,JS,,14,make2,2,D. Williams,
+210,2,2:08.0,37,47,PHI,DAL,9,home,OutOfBounds,,,turnover,,J. Sampson,
+211,2,2:08.0,37,47,PHI,DAL,0,away,Timeout,,,,,,
+212,2,2:08.0,37,47,PHI,DAL,0,home,Sub,,,,,T. McConnell,J. Sampson
+213,2,2:08.0,37,47,PHI,DAL,0,away,Sub,,,,,D. Nowitzki,C. Villanueva
+214,2,2:00.0,37,47,PHI,DAL,8,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Powell,I. Canaan
+215,2,2:00.0,37,47,PHI,DAL,0,away,OffensiveFoul,,,turnover,,D. Powell,
+216,2,1:48.0,37,47,PHI,DAL,12,home,LostBall,steal,,turnover,,R. Covington,C. Parsons
+217,2,1:40.0,37,47,PHI,DAL,8,away,JS,,27,miss3,0,C. Parsons,
+218,2,1:40.0,37,47,PHI,DAL,0,home,DefReb,,,DefReb,,Team,
+219,2,1:29.0,39,47,PHI,DAL,11,home,JS,,9,make2,2,T. McConnell,
+220,2,1:20.0,39,47,PHI,DAL,9,home,ChargeFoul,DrawnBy,,ChargeFoul,,D. Williams,J. Grant
+221,2,1:20.0,39,47,PHI,DAL,0,away,OffensiveFoul,,,turnover,,D. Williams,
+222,2,1:20.0,39,47,PHI,DAL,0,away,DelayOfGame,,,DelayOfGame,,Team,
+223,2,1:07.0,39,47,PHI,DAL,13,home,BadPass,,,turnover,,N. Noel,
+224,2,0:58.0,39,47,PHI,DAL,9,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Grant,D. Nowitzki
+225,2,0:58.0,39,48,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+226,2,0:58.0,39,48,PHI,DAL,0,home,Sub,,,,,H. Thompson,J. Grant
+227,2,0:58.0,39,49,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+228,2,0:37.0,39,49,PHI,DAL,21,home,JS,,28,miss3,0,I. Canaan,
+229,2,0:36.0,39,49,PHI,DAL,1,home,OffReb,,,OffReb,,T. McConnell,
+230,2,0:32.0,39,49,PHI,DAL,4,home,JS,,29,miss3,0,R. Covington,
+231,2,0:31.0,39,49,PHI,DAL,1,home,OffReb,,,OffReb,,N. Noel,
+232,2,0:29.0,41,49,PHI,DAL,2,home,LU,,0,make2,2,R. Covington,
+233,2,0:07.0,41,49,PHI,DAL,22,away,LostBall,steal,,turnover,,D. Harris,T. McConnell
+234,2,0:01.0,44,49,PHI,DAL,6,home,JS,assist,25,make3,3,H. Thompson,T. McConnell
+235,2,0:01.0,44,49,PHI,DAL,0,home,DelayOfGame,,,DelayOfGame,,Team,
+236,2,0:00.0,44,49,PHI,DAL,1,away,JS,,85,miss3,0,D. Harris,
+237,2,0:00.0,44,49,PHI,DAL,0,away,OffReb,,,OffReb,,Team,
+238,3,11:44.0,44,49,PHI,DAL,16,away,LU,,2,miss2,0,D. Nowitzki,
+239,3,11:43.0,44,49,PHI,DAL,1,home,DefReb,,,DefReb,,J. Okafor,
+240,3,11:33.0,44,49,PHI,DAL,10,home,HS,,8,miss2,0,N. Noel,
+241,3,11:30.0,44,49,PHI,DAL,3,away,DefReb,,,DefReb,,Z. Pachulia,
+242,3,11:17.0,44,49,PHI,DAL,13,away,JS,,25,miss3,0,C. Parsons,
+243,3,11:15.0,44,49,PHI,DAL,2,home,DefReb,,,DefReb,,J. Okafor,
+244,3,10:50.0,44,49,PHI,DAL,25,home,JS,,15,miss2,0,J. Grant,
+245,3,10:49.0,44,49,PHI,DAL,1,away,DefReb,,,DefReb,,C. Parsons,
+246,3,10:45.0,44,49,PHI,DAL,4,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,N. Stauskas,W. Matthews
+247,3,10:45.0,44,50,PHI,DAL,0,away,FreeThrow,,,make1,1,W. Matthews,
+248,3,10:45.0,44,51,PHI,DAL,0,away,FreeThrow,,,make1,1,W. Matthews,
+249,3,10:25.0,44,51,PHI,DAL,20,home,LU,,1,miss2,0,N. Noel,
+250,3,10:24.0,44,51,PHI,DAL,1,away,DefReb,,,DefReb,,C. Parsons,
+251,3,10:19.0,44,51,PHI,DAL,5,away,JS,,26,miss3,0,W. Matthews,
+252,3,10:14.0,44,51,PHI,DAL,5,home,DefReb,,,DefReb,,N. Noel,
+253,3,10:03.0,44,51,PHI,DAL,11,home,JS,,15,miss2,0,N. Noel,
+254,3,10:01.0,44,51,PHI,DAL,2,away,DefReb,,,DefReb,,C. Parsons,
+255,3,9:47.0,44,51,PHI,DAL,14,away,JS,,17,miss2,0,D. Williams,
+256,3,9:45.0,44,51,PHI,DAL,2,home,DefReb,,,DefReb,,J. Okafor,
+257,3,9:20.0,44,51,PHI,DAL,25,home,JS,,25,miss3,0,J. Grant,
+258,3,9:18.0,44,51,PHI,DAL,2,away,DefReb,,,DefReb,,C. Parsons,
+259,3,9:08.0,44,51,PHI,DAL,10,away,BadPass,,,turnover,,D. Nowitzki,
+260,3,9:08.0,44,51,PHI,DAL,0,away,Sub,,,,,R. Felton,C. Parsons
+261,3,8:49.0,46,51,PHI,DAL,19,home,JS,,6,make2,2,J. Grant,
+262,3,8:28.0,46,51,PHI,DAL,21,away,BadPass,steal,,turnover,,Z. Pachulia,N. Noel
+263,3,8:23.0,46,51,PHI,DAL,5,home,JS,,24,miss3,0,N. Stauskas,
+264,3,8:20.0,46,51,PHI,DAL,3,away,DefReb,,,DefReb,,R. Felton,
+265,3,8:15.0,46,54,PHI,DAL,5,away,JS,assist,25,make3,3,D. Nowitzki,R. Felton
+266,3,8:14.0,46,54,PHI,DAL,1,home,Timeout,,,,,,
+267,3,8:14.0,46,54,PHI,DAL,0,home,Sub,,,,,H. Thompson,J. Grant
+268,3,8:14.0,46,54,PHI,DAL,0,home,Sub,,,,,R. Covington,N. Stauskas
+269,3,7:57.0,49,54,PHI,DAL,17,home,JS,assist,25,make3,3,H. Thompson,J. Okafor
+270,3,7:35.0,49,57,PHI,DAL,22,away,JS,assist,25,make3,3,W. Matthews,D. Williams
+271,3,7:29.0,49,57,PHI,DAL,6,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,W. Matthews,R. Covington
+272,3,7:17.0,51,57,PHI,DAL,12,home,HS,assist,1,make2,2,N. Noel,R. Covington
+273,3,7:05.0,51,57,PHI,DAL,12,away,JS,,18,miss2,0,D. Nowitzki,
+274,3,7:04.0,51,57,PHI,DAL,1,home,DefReb,,,DefReb,,N. Noel,
+275,3,6:50.0,51,57,PHI,DAL,14,home,LU,,2,miss2,0,J. Okafor,
+276,3,6:47.0,51,57,PHI,DAL,3,away,DefReb,,,DefReb,,D. Nowitzki,
+277,3,6:41.0,51,57,PHI,DAL,6,away,LostBall,,,turnover,,R. Felton,
+278,3,6:22.0,51,57,PHI,DAL,19,home,JS,,18,miss2,0,J. Okafor,
+279,3,6:21.0,51,57,PHI,DAL,1,home,OffReb,,,OffReb,,R. Covington,
+280,3,6:13.0,53,57,PHI,DAL,8,home,JS,,15,make2,2,T. McConnell,
+281,3,6:00.0,53,57,PHI,DAL,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,H. Thompson,D. Nowitzki
+282,3,6:00.0,53,57,PHI,DAL,0,home,Sub,,,,,J. Grant,J. Okafor
+283,3,5:59.0,53,57,PHI,DAL,1,away,BadPass,steal,,turnover,,W. Matthews,T. McConnell
+284,3,5:54.0,53,57,PHI,DAL,5,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Williams,J. Grant
+285,3,5:54.0,53,57,PHI,DAL,0,away,Sub,,,,,D. Powell,D. Nowitzki
+286,3,5:39.0,53,57,PHI,DAL,15,home,LU,,2,miss2,0,N. Noel,
+287,3,5:37.0,53,57,PHI,DAL,2,away,DefReb,,,DefReb,,D. Williams,
+288,3,5:35.0,53,57,PHI,DAL,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. McConnell,D. Williams
+289,3,5:21.0,53,57,PHI,DAL,14,away,JS,,25,miss3,0,D. Williams,
+290,3,5:19.0,53,57,PHI,DAL,2,away,OffReb,,,OffReb,,W. Matthews,
+291,3,5:17.0,53,57,PHI,DAL,2,away,JS,,26,miss3,0,W. Matthews,
+292,3,5:15.0,53,57,PHI,DAL,2,home,DefReb,,,DefReb,,N. Noel,
+293,3,4:59.0,55,57,PHI,DAL,16,home,JS,,17,make2,2,T. McConnell,
+294,3,4:52.0,55,57,PHI,DAL,7,away,Timeout,,,,,,
+295,3,4:52.0,55,57,PHI,DAL,0,home,Sub,,,,,J. Okafor,N. Noel
+296,3,4:52.0,55,57,PHI,DAL,0,away,Sub,,,,,D. Harris,W. Matthews
+297,3,4:42.0,55,57,PHI,DAL,10,away,JS,,16,miss2,0,D. Powell,
+298,3,4:40.0,55,57,PHI,DAL,2,home,DefReb,,,DefReb,,R. Covington,
+299,3,4:32.0,55,57,PHI,DAL,8,home,BadPass,,,turnover,,R. Covington,
+300,3,4:25.0,55,57,PHI,DAL,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Okafor,Z. Pachulia
+301,3,4:25.0,55,57,PHI,DAL,0,away,FreeThrow,,,make1,0,Z. Pachulia,
+302,3,4:25.0,55,57,PHI,DAL,0,away,OffReb,,,OffReb,,Team,
+303,3,4:25.0,55,57,PHI,DAL,0,home,Sub,,,,,I. Canaan,T. McConnell
+304,3,4:25.0,55,58,PHI,DAL,0,away,FreeThrow,,,make1,1,Z. Pachulia,
+305,3,4:12.0,55,58,PHI,DAL,13,home,BadPass,steal,,turnover,,H. Thompson,D. Harris
+306,3,4:12.0,55,58,PHI,DAL,0,away,ClearPathFoul,,,ClearPathFoul,,R. Covington,
+307,3,4:12.0,55,59,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Harris makes clear path free throw 1 of 2,
+308,3,4:12.0,55,60,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Harris makes clear path free throw 2 of 2,
+309,3,4:01.0,55,60,PHI,DAL,11,away,Traveling,,,turnover,,R. Felton,
+310,3,3:53.0,55,60,PHI,DAL,8,home,LostBall,steal,,turnover,,R. Covington,D. Harris
+311,3,3:46.0,55,60,PHI,DAL,7,away,BadPass,steal,,turnover,,D. Harris,J. Okafor
+312,3,3:39.0,55,60,PHI,DAL,7,home,JS,,26,miss3,0,I. Canaan,
+313,3,3:37.0,55,60,PHI,DAL,2,away,DefReb,,,DefReb,,D. Powell,
+314,3,3:30.0,55,60,PHI,DAL,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,D. Williams
+315,3,3:30.0,55,61,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Williams,
+316,3,3:30.0,55,61,PHI,DAL,0,home,Sub,,,,,J. Sampson,J. Grant
+317,3,3:30.0,55,61,PHI,DAL,0,away,Sub,,,,,C. Villanueva,Z. Pachulia
+318,3,3:30.0,55,62,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Williams,
+319,3,3:09.0,55,62,PHI,DAL,21,home,HS,,2,miss2,0,J. Okafor,
+320,3,3:09.0,55,62,PHI,DAL,0,away,DefReb,,,DefReb,,Team,
+321,3,2:57.0,55,64,PHI,DAL,12,away,JS,assist,1,make2,2,D. Powell,D. Williams
+322,3,2:45.0,55,64,PHI,DAL,12,home,LostBall,steal,,turnover,,R. Covington,D. Harris
+323,3,2:39.0,55,64,PHI,DAL,6,away,BadPass,steal,,turnover,,R. Felton,R. Covington
+324,3,2:27.0,55,64,PHI,DAL,12,home,JS,,23,miss3,0,R. Covington,
+325,3,2:26.0,55,64,PHI,DAL,1,away,DefReb,,,DefReb,,D. Powell,
+326,3,2:12.0,55,64,PHI,DAL,14,away,LostBall,steal,,turnover,,D. Williams,I. Canaan
+327,3,2:04.0,55,64,PHI,DAL,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Williams,J. Okafor
+328,3,2:04.0,55,64,PHI,DAL,0,home,Sub,,,,,T. McConnell,H. Thompson
+329,3,2:04.0,55,64,PHI,DAL,0,away,Sub,,,,,J. Barea,D. Williams
+330,3,2:04.0,55,64,PHI,DAL,0,away,Sub,,,,,D. Nowitzki,C. Villanueva
+331,3,1:56.0,55,64,PHI,DAL,8,home,JS,,3,miss2,0,R. Covington,
+332,3,1:56.0,55,64,PHI,DAL,0,home,OffReb,,,OffReb,,J. Okafor,
+333,3,1:56.0,55,64,PHI,DAL,0,home,JS,,1,miss2,0,J. Okafor,
+334,3,1:55.0,55,64,PHI,DAL,1,home,OffReb,,,OffReb,,J. Okafor,
+335,3,1:53.0,55,64,PHI,DAL,2,away,Sub,,,,,J. Anderson,R. Felton
+336,3,1:53.0,55,64,PHI,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,J. Okafor
+337,3,1:53.0,57,64,PHI,DAL,0,home,LU,,2,make2,2,J. Okafor,
+338,3,1:53.0,58,64,PHI,DAL,0,home,FreeThrow,,,make1,1,J. Okafor,
+339,3,1:34.0,58,64,PHI,DAL,19,away,JS,,17,miss2,0,D. Nowitzki,
+340,3,1:33.0,58,64,PHI,DAL,1,home,DefReb,,,DefReb,,J. Okafor,
+341,3,1:21.0,61,64,PHI,DAL,12,home,JS,assist,27,make3,3,I. Canaan,T. McConnell
+342,3,0:57.0,61,66,PHI,DAL,24,away,JS,,11,make2,2,J. Barea,
+343,3,0:49.0,63,66,PHI,DAL,8,home,LU,,1,make2,2,J. Okafor,
+344,3,0:38.0,63,66,PHI,DAL,11,away,PersonalBlockFoul,,,,,R. Covington,
+345,3,0:38.0,63,67,PHI,DAL,0,away,FreeThrow,,,make1,1,J. Barea,
+346,3,0:38.0,63,67,PHI,DAL,0,home,Sub,,,,,H. Thompson,J. Sampson
+347,3,0:38.0,63,67,PHI,DAL,0,away,Sub,,,,,Z. Pachulia,D. Powell
+348,3,0:38.0,63,68,PHI,DAL,0,away,FreeThrow,,,make1,1,J. Barea,
+349,3,0:29.0,63,68,PHI,DAL,9,home,JS,,25,miss3,0,I. Canaan,
+350,3,0:28.0,63,68,PHI,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+351,3,0:07.0,63,68,PHI,DAL,21,away,JS,,17,miss2,0,D. Harris,
+352,3,0:05.0,63,68,PHI,DAL,2,home,DefReb,,,DefReb,,J. Okafor,
+353,3,0:00.0,65,68,PHI,DAL,5,home,JS,assist,17,make2,2,R. Covington,T. McConnell
+354,4,11:48.0,65,68,PHI,DAL,12,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Okafor,Z. Pachulia
+355,4,11:48.0,65,68,PHI,DAL,0,home,OffensiveFoul,,,turnover,,J. Okafor,
+356,4,11:34.0,65,68,PHI,DAL,14,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,Z. Pachulia,I. Canaan
+357,4,11:34.0,65,68,PHI,DAL,0,away,OffensiveFoul,,,turnover,,Z. Pachulia,
+358,4,11:10.0,65,68,PHI,DAL,24,home,LU,,3,miss2,0,T. McConnell,
+359,4,11:08.0,65,68,PHI,DAL,2,away,DefReb,,,DefReb,,J. Barea,
+360,4,10:55.0,65,71,PHI,DAL,13,away,JS,,25,make3,3,J. Barea,
+361,4,10:32.0,67,71,PHI,DAL,23,home,LU,,1,make2,2,J. Okafor,
+362,4,10:21.0,67,71,PHI,DAL,11,away,JS,block,7,miss2,0,J. Barea,J. Okafor
+363,4,10:18.0,67,71,PHI,DAL,3,home,DefReb,,,DefReb,,T. McConnell,
+364,4,10:14.0,70,71,PHI,DAL,4,home,JS,,25,make3,3,T. McConnell,
+365,4,10:12.0,70,71,PHI,DAL,2,away,Timeout,,,,,,
+366,4,10:12.0,70,71,PHI,DAL,0,home,Sub,,,,,J. Grant,J. Sampson
+367,4,10:12.0,70,71,PHI,DAL,0,home,Sub,,,,,R. Covington,T. McConnell
+368,4,10:00.0,70,74,PHI,DAL,12,away,JS,assist,24,make3,3,D. Nowitzki,D. Harris
+369,4,9:39.0,70,74,PHI,DAL,21,home,JS,,23,miss3,0,I. Canaan,
+370,4,9:37.0,70,74,PHI,DAL,2,away,DefReb,,,DefReb,,Z. Pachulia,
+371,4,9:30.0,70,74,PHI,DAL,7,away,JS,,24,miss3,0,J. Barea,
+372,4,9:28.0,70,74,PHI,DAL,2,home,DefReb,,,DefReb,,J. Okafor,
+373,4,9:11.0,72,74,PHI,DAL,17,home,LU,,1,make2,2,J. Okafor,
+374,4,8:59.0,72,74,PHI,DAL,12,away,JS,,27,miss3,0,D. Nowitzki,
+375,4,8:58.0,72,74,PHI,DAL,1,home,DefReb,,,DefReb,,J. Grant,
+376,4,8:48.0,72,74,PHI,DAL,10,home,JS,,26,miss3,0,I. Canaan,
+377,4,8:47.0,72,74,PHI,DAL,1,home,OffReb,,,OffReb,,Team,
+378,4,8:47.0,72,74,PHI,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Harris,R. Covington
+379,4,8:47.0,72,74,PHI,DAL,0,away,Sub,,,,,D. Powell,D. Nowitzki
+380,4,8:40.0,72,74,PHI,DAL,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Matthews,R. Covington
+381,4,8:40.0,73,74,PHI,DAL,0,home,FreeThrow,,,make1,1,R. Covington,
+382,4,8:40.0,73,74,PHI,DAL,0,away,Sub,,,,,D. Williams,W. Matthews
+383,4,8:40.0,74,74,PHI,DAL,0,home,FreeThrow,,,make1,1,R. Covington,
+384,4,8:36.0,74,74,PHI,DAL,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,D. Harris
+385,4,8:28.0,74,74,PHI,DAL,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Okafor,D. Harris
+386,4,8:28.0,74,75,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+387,4,8:28.0,74,75,PHI,DAL,0,home,Sub,,,,,H. Thompson,J. Okafor
+388,4,8:28.0,74,75,PHI,DAL,0,away,FreeThrow,,,make1,0,D. Harris,
+389,4,8:27.0,74,75,PHI,DAL,1,home,DefReb,,,DefReb,,H. Thompson,
+390,4,8:07.0,74,75,PHI,DAL,20,home,JS,,4,miss2,0,N. Noel,
+391,4,8:07.0,74,75,PHI,DAL,0,home,OffReb,,,OffReb,,R. Covington,
+392,4,8:07.0,74,75,PHI,DAL,0,home,JS,,1,miss2,0,R. Covington,
+393,4,8:07.0,74,75,PHI,DAL,0,home,OffReb,,,OffReb,,Team,
+394,4,7:50.0,76,75,PHI,DAL,17,home,LU,assist,2,make2,2,J. Grant,N. Noel
+395,4,7:43.0,76,75,PHI,DAL,7,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,N. Noel,D. Williams
+396,4,7:43.0,76,76,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Williams,
+397,4,7:43.0,76,76,PHI,DAL,0,away,Sub,,,,,R. Felton,D. Harris
+398,4,7:43.0,76,76,PHI,DAL,0,away,Sub,,,,,W. Matthews,J. Barea
+399,4,7:43.0,76,77,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Williams,
+400,4,7:30.0,76,77,PHI,DAL,13,home,BadPass,steal,,turnover,,N. Noel,D. Powell
+401,4,7:25.0,76,77,PHI,DAL,5,away,LostBall,,,turnover,,D. Powell,
+402,4,7:07.0,78,77,PHI,DAL,18,home,LU,,2,make2,2,J. Grant,
+403,4,7:07.0,78,77,PHI,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Powell,J. Grant
+404,4,7:07.0,78,77,PHI,DAL,0,away,Timeout,,,,,,
+405,4,7:07.0,78,77,PHI,DAL,0,home,Sub,,,,,T. McConnell,R. Covington
+406,4,7:07.0,78,77,PHI,DAL,0,away,Sub,,,,,D. Nowitzki,Z. Pachulia
+407,4,7:07.0,78,77,PHI,DAL,0,away,Sub,,,,,J. Evans,D. Powell
+408,4,7:07.0,78,77,PHI,DAL,0,home,FreeThrow,,,make1,0,J. Grant,
+409,4,7:06.0,78,77,PHI,DAL,1,away,DefReb,,,DefReb,,D. Williams,
+410,4,6:45.0,78,79,PHI,DAL,21,away,JS,,21,make2,2,D. Nowitzki,
+411,4,6:27.0,78,79,PHI,DAL,18,home,Traveling,,,turnover,,N. Noel,
+412,4,6:13.0,78,79,PHI,DAL,14,away,LostBall,steal,,turnover,,J. Evans,J. Grant
+413,4,6:05.0,78,79,PHI,DAL,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,N. Noel
+414,4,6:05.0,78,79,PHI,DAL,0,home,FreeThrow,,,make1,0,N. Noel,
+415,4,6:05.0,78,79,PHI,DAL,0,home,OffReb,,,OffReb,,Team,
+416,4,6:05.0,78,79,PHI,DAL,0,away,Sub,,,,,D. Powell,J. Evans
+417,4,6:05.0,79,79,PHI,DAL,0,home,FreeThrow,,,make1,1,N. Noel,
+418,4,5:50.0,79,79,PHI,DAL,15,away,JS,,4,miss2,0,R. Felton,
+419,4,5:48.0,79,79,PHI,DAL,2,away,OffReb,,,OffReb,,D. Powell,
+420,4,5:46.0,79,79,PHI,DAL,2,away,JS,,25,miss3,0,D. Nowitzki,
+421,4,5:44.0,79,79,PHI,DAL,2,home,DefReb,,,DefReb,,T. McConnell,
+422,4,5:37.0,79,79,PHI,DAL,7,home,JS,,25,miss3,0,T. McConnell,
+423,4,5:35.0,79,79,PHI,DAL,2,away,DefReb,,,DefReb,,W. Matthews,
+424,4,5:22.0,79,79,PHI,DAL,13,away,JS,,22,miss3,0,W. Matthews,
+425,4,5:19.0,79,79,PHI,DAL,3,home,DefReb,,,DefReb,,T. McConnell,
+426,4,5:12.0,81,79,PHI,DAL,7,home,JS,assist,0,make2,2,N. Noel,H. Thompson
+427,4,5:00.0,81,79,PHI,DAL,12,away,OffensiveFoul,,,turnover,,W. Matthews,
+428,4,5:00.0,81,79,PHI,DAL,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,W. Matthews,J. Grant
+429,4,5:00.0,81,79,PHI,DAL,0,away,Timeout,,,,,,
+430,4,4:43.0,81,79,PHI,DAL,17,home,BadPass,steal,,turnover,,T. McConnell,W. Matthews
+431,4,4:39.0,81,81,PHI,DAL,4,away,LU,,0,make2,2,W. Matthews,
+432,4,4:23.0,81,81,PHI,DAL,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,N. Noel
+433,4,4:23.0,81,81,PHI,DAL,0,home,FreeThrow,,,make1,0,N. Noel,
+434,4,4:23.0,81,81,PHI,DAL,0,home,OffReb,,,OffReb,,Team,
+435,4,4:23.0,82,81,PHI,DAL,0,home,FreeThrow,,,make1,1,N. Noel,
+436,4,4:15.0,82,81,PHI,DAL,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Grant,D. Nowitzki
+437,4,4:15.0,82,81,PHI,DAL,0,home,Sub,,,,,J. Okafor,I. Canaan
+438,4,3:59.0,82,81,PHI,DAL,16,away,JS,,26,miss3,0,R. Felton,
+439,4,3:56.0,82,81,PHI,DAL,3,home,DefReb,,,DefReb,,N. Noel,
+440,4,3:45.0,82,81,PHI,DAL,11,away,ChargeFoul,DrawnBy,,ChargeFoul,,J. Grant,D. Nowitzki
+441,4,3:45.0,82,81,PHI,DAL,0,home,OffensiveFoul,,,turnover,,J. Grant,
+442,4,3:23.0,82,81,PHI,DAL,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. McConnell,D. Nowitzki
+443,4,3:23.0,82,82,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+444,4,3:23.0,82,82,PHI,DAL,0,away,Sub,,,,,Z. Pachulia,D. Powell
+445,4,3:23.0,82,83,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+446,4,3:23.0,82,83,PHI,DAL,0,home,Timeout,,,,,,
+447,4,3:23.0,82,83,PHI,DAL,0,home,Sub,,,,,I. Canaan,J. Grant
+448,4,2:59.0,82,83,PHI,DAL,24,home,JS,,6,miss2,0,J. Okafor,
+449,4,2:56.0,82,83,PHI,DAL,3,away,DefReb,,,DefReb,,Z. Pachulia,
+450,4,2:41.0,82,85,PHI,DAL,15,away,JS,,15,make2,2,D. Williams,
+451,4,2:29.0,82,85,PHI,DAL,12,home,BadPass,steal,,turnover,,H. Thompson,D. Williams
+452,4,2:20.0,82,85,PHI,DAL,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,H. Thompson,D. Nowitzki
+453,4,2:20.0,82,86,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+454,4,2:20.0,82,87,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+455,4,2:00.0,84,87,PHI,DAL,20,home,DK,assist,0,make2,2,J. Okafor,T. McConnell
+456,4,1:47.0,84,90,PHI,DAL,13,away,JS,assist,26,make3,3,D. Nowitzki,Z. Pachulia
+457,4,1:47.0,84,90,PHI,DAL,0,home,Timeout,,,,,,
+458,4,1:47.0,84,90,PHI,DAL,0,away,Sub,,,,,D. Powell,D. Nowitzki
+459,4,1:27.0,84,90,PHI,DAL,20,home,JS,,14,miss2,0,I. Canaan,
+460,4,1:25.0,84,90,PHI,DAL,2,away,DefReb,,,DefReb,,R. Felton,
+461,4,1:10.0,84,90,PHI,DAL,15,away,JS,,17,miss2,0,R. Felton,
+462,4,1:08.0,84,90,PHI,DAL,2,home,DefReb,,,DefReb,,N. Noel,
+463,4,0:54.0,86,90,PHI,DAL,14,home,HS,,3,make2,2,J. Okafor,
+464,4,0:54.0,86,90,PHI,DAL,0,away,Timeout,,,,,,
+465,4,0:54.0,86,90,PHI,DAL,0,home,Sub,,,,,J. Sampson,I. Canaan
+466,4,0:54.0,86,90,PHI,DAL,0,away,Sub,,,,,D. Nowitzki,D. Powell
+467,4,0:54.0,86,90,PHI,DAL,0,home,Sub,,,,,J. Grant,J. Okafor
+468,4,0:54.0,86,90,PHI,DAL,0,away,Sub,,,,,J. Barea,Z. Pachulia
+469,4,0:32.0,86,90,PHI,DAL,22,away,JS,,25,miss3,0,W. Matthews,
+470,4,0:30.0,86,90,PHI,DAL,2,home,DefReb,,,DefReb,,N. Noel,
+471,4,0:23.0,86,90,PHI,DAL,7,home,LU,,1,miss2,0,J. Grant,
+472,4,0:22.0,86,90,PHI,DAL,1,away,DefReb,,,DefReb,,D. Williams,
+473,4,0:22.0,86,90,PHI,DAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Sampson,D. Williams
+474,4,0:22.0,86,91,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Williams,
+475,4,0:22.0,86,91,PHI,DAL,0,home,Sub,,,,,I. Canaan,J. Sampson
+476,4,0:22.0,86,92,PHI,DAL,0,away,FreeThrow,,,make1,1,D. Williams,
+477,4,0:22.0,86,92,PHI,DAL,0,home,Timeout,,,,,,
+478,4,0:22.0,86,92,PHI,DAL,0,away,Sub,,,,,J. Evans,D. Nowitzki
+479,4,0:22.0,86,92,PHI,DAL,0,away,Sub,,,,,Z. Pachulia,J. Barea
+480,4,0:13.0,86,92,PHI,DAL,9,home,JS,,27,miss3,0,H. Thompson,
+481,4,0:11.0,86,92,PHI,DAL,2,away,DefReb,,,DefReb,,R. Felton,

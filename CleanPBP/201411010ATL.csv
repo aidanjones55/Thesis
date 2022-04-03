@@ -1,0 +1,434 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:40.0,2,0,ATL,IND,20,home,JS,,20,make2,2,J. Teague,
+1,1,11:21.0,2,2,ATL,IND,19,away,DK,assist,0,make2,2,R. Hibbert,S. Hill
+2,1,11:05.0,4,2,ATL,IND,16,home,JS,assist,21,make2,2,D. Carroll,A. Horford
+3,1,10:38.0,4,2,ATL,IND,27,away,JS,,20,miss2,0,L. Scola,
+4,1,10:37.0,4,2,ATL,IND,1,home,DefReb,,,DefReb,,Team,
+5,1,10:14.0,7,2,ATL,IND,23,home,JS,assist,25,make3,3,P. Millsap,D. Carroll
+6,1,9:48.0,7,2,ATL,IND,26,away,JS,,23,miss3,0,C. Miles,
+7,1,9:47.0,7,2,ATL,IND,1,home,DefReb,,,DefReb,,K. Korver,
+8,1,9:41.0,7,2,ATL,IND,6,home,LU,,2,miss2,0,J. Teague,
+9,1,9:41.0,7,2,ATL,IND,0,away,DefReb,,,DefReb,,Team,
+10,1,9:41.0,7,2,ATL,IND,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Horford,R. Hibbert
+11,1,9:29.0,7,2,ATL,IND,12,away,JS,,25,miss3,0,C. Miles,
+12,1,9:27.0,7,2,ATL,IND,2,away,OffReb,,,OffReb,,L. Scola,
+13,1,9:15.0,7,2,ATL,IND,12,home,DefGoaltending,,,DefGoaltending,,P. Millsap,
+14,1,9:15.0,7,4,ATL,IND,0,away,LU,assist,1,make2,2,D. Sloan,R. Hibbert
+15,1,9:01.0,9,4,ATL,IND,14,home,JS,assist,19,make2,2,J. Teague,A. Horford
+16,1,8:38.0,9,6,ATL,IND,23,away,LU,assist,1,make2,2,R. Hibbert,D. Sloan
+17,1,8:33.0,9,6,ATL,IND,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Sloan,J. Teague
+18,1,8:33.0,10,6,ATL,IND,0,home,FreeThrow,,,make1,1,J. Teague,
+19,1,8:33.0,11,6,ATL,IND,0,home,FreeThrow,,,make1,1,J. Teague,
+20,1,8:12.0,11,6,ATL,IND,21,away,JS,,24,miss3,0,S. Hill,
+21,1,8:11.0,11,6,ATL,IND,1,home,DefReb,,,DefReb,,Team,
+22,1,7:59.0,11,6,ATL,IND,12,home,JS,,24,miss3,0,D. Carroll,
+23,1,7:58.0,11,6,ATL,IND,1,away,DefReb,,,DefReb,,L. Scola,
+24,1,7:46.0,11,9,ATL,IND,12,away,JS,assist,24,make3,3,D. Sloan,C. Miles
+25,1,7:33.0,11,9,ATL,IND,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Miles,D. Carroll
+26,1,7:23.0,13,9,ATL,IND,10,home,JS,assist,19,make2,2,A. Horford,J. Teague
+27,1,7:08.0,13,11,ATL,IND,15,away,JS,assist,18,make2,2,L. Scola,S. Hill
+28,1,6:56.0,13,11,ATL,IND,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Sloan,J. Teague
+29,1,6:56.0,14,11,ATL,IND,0,home,FreeThrow,,,make1,1,J. Teague,
+30,1,6:56.0,14,11,ATL,IND,0,home,Sub,,,,,P. Antić,A. Horford
+31,1,6:56.0,14,11,ATL,IND,0,away,Sub,,,,,R. Stuckey,D. Sloan
+32,1,6:56.0,15,11,ATL,IND,0,home,FreeThrow,,,make1,1,J. Teague,
+33,1,6:41.0,15,11,ATL,IND,15,away,LU,block,1,miss2,0,S. Hill,P. Millsap
+34,1,6:39.0,15,11,ATL,IND,2,home,DefReb,,,DefReb,,P. Millsap,
+35,1,6:35.0,15,11,ATL,IND,4,away,ChargeFoul,DrawnBy,,ChargeFoul,,P. Millsap,L. Scola
+36,1,6:35.0,15,11,ATL,IND,0,home,OffensiveFoul,,,turnover,,P. Millsap,
+37,1,6:24.0,15,11,ATL,IND,11,away,JS,,18,miss2,0,L. Scola,
+38,1,6:23.0,15,11,ATL,IND,1,home,DefReb,,,DefReb,,D. Carroll,
+39,1,5:59.0,15,11,ATL,IND,24,home,ShotClockViolation,,,turnover,,Team,
+40,1,5:59.0,15,11,ATL,IND,0,home,Timeout,,,,,,
+41,1,5:41.0,15,11,ATL,IND,18,away,BadPass,steal,,turnover,,C. Miles,D. Carroll
+42,1,5:17.0,15,11,ATL,IND,24,home,LU,,1,miss2,0,J. Teague,
+43,1,5:15.0,15,11,ATL,IND,2,away,DefReb,,,DefReb,,L. Scola,
+44,1,5:07.0,15,11,ATL,IND,8,away,HS,,5,miss2,0,C. Miles,
+45,1,5:06.0,15,11,ATL,IND,1,home,DefReb,,,DefReb,,D. Carroll,
+46,1,4:55.0,15,11,ATL,IND,11,home,JS,,25,miss3,0,P. Millsap,
+47,1,4:54.0,15,11,ATL,IND,1,away,DefReb,,,DefReb,,S. Hill,
+48,1,4:34.0,15,11,ATL,IND,20,away,BadPass,,,turnover,,L. Scola,
+49,1,4:34.0,15,11,ATL,IND,0,home,Sub,,,,,K. Bazemore,K. Korver
+50,1,4:24.0,17,11,ATL,IND,10,home,JS,assist,16,make2,2,P. Millsap,J. Teague
+51,1,4:03.0,17,11,ATL,IND,21,away,JS,block,18,miss2,0,R. Stuckey,J. Teague
+52,1,4:02.0,17,11,ATL,IND,1,home,DefReb,,,DefReb,,K. Bazemore,
+53,1,3:44.0,19,11,ATL,IND,18,home,JS,,16,make2,2,P. Millsap,
+54,1,3:31.0,19,11,ATL,IND,13,away,OutOfBounds,,,turnover,,C. Miles,
+55,1,3:31.0,19,11,ATL,IND,0,home,Sub,,,,,T. Sefolosha,D. Carroll
+56,1,3:31.0,19,11,ATL,IND,0,away,Sub,,,,,C. Copeland,S. Hill
+57,1,3:16.0,22,11,ATL,IND,15,home,JS,assist,25,make3,3,J. Teague,P. Millsap
+58,1,3:15.0,22,11,ATL,IND,1,away,Timeout,,,,,,
+59,1,3:15.0,22,11,ATL,IND,0,away,Sub,,,,,L. Allen,L. Scola
+60,1,3:05.0,22,11,ATL,IND,10,away,JS,,15,miss2,0,C. Copeland,
+61,1,3:03.0,22,11,ATL,IND,2,away,OffReb,,,OffReb,,R. Hibbert,
+62,1,3:03.0,22,11,ATL,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Antić,R. Hibbert
+63,1,3:03.0,22,12,ATL,IND,0,away,FreeThrow,,,make1,1,R. Hibbert,
+64,1,3:03.0,22,13,ATL,IND,0,away,FreeThrow,,,make1,1,R. Hibbert,
+65,1,2:49.0,22,13,ATL,IND,14,home,JS,,5,miss2,0,T. Sefolosha,
+66,1,2:48.0,22,13,ATL,IND,1,away,DefReb,,,DefReb,,R. Hibbert,
+67,1,2:36.0,22,13,ATL,IND,12,away,JS,block,13,miss2,0,C. Miles,T. Sefolosha
+68,1,2:34.0,22,13,ATL,IND,2,home,DefReb,,,DefReb,,T. Sefolosha,
+69,1,2:32.0,22,13,ATL,IND,2,home,LostBall,steal,,turnover,,K. Bazemore,R. Stuckey
+70,1,2:25.0,22,13,ATL,IND,7,home,ChargeFoul,DrawnBy,,ChargeFoul,,R. Stuckey,P. Antić
+71,1,2:25.0,22,13,ATL,IND,0,away,OffensiveFoul,,,turnover,,R. Stuckey,
+72,1,2:25.0,22,13,ATL,IND,0,home,Sub,,,,,S. Mack,P. Millsap
+73,1,2:25.0,22,13,ATL,IND,0,home,Sub,,,,,M. Scott,J. Teague
+74,1,2:06.0,22,13,ATL,IND,19,home,JS,,23,miss3,0,T. Sefolosha,
+75,1,2:05.0,22,13,ATL,IND,1,away,DefReb,,,DefReb,,C. Miles,
+76,1,1:53.0,22,13,ATL,IND,12,away,JS,,19,miss2,0,R. Hibbert,
+77,1,1:52.0,22,13,ATL,IND,1,home,DefReb,,,DefReb,,S. Mack,
+78,1,1:36.0,22,13,ATL,IND,16,home,JS,,25,miss3,0,S. Mack,
+79,1,1:35.0,22,13,ATL,IND,1,away,DefReb,,,DefReb,,R. Hibbert,
+80,1,1:16.0,22,13,ATL,IND,19,away,JS,,25,miss3,0,R. Stuckey,
+81,1,1:14.0,22,13,ATL,IND,2,home,DefReb,,,DefReb,,K. Bazemore,
+82,1,1:07.0,25,13,ATL,IND,7,home,JS,assist,25,make3,3,P. Antić,K. Bazemore
+83,1,0:52.0,25,13,ATL,IND,15,away,Timeout,,,,,,
+84,1,0:52.0,25,13,ATL,IND,0,home,Sub,,,,,A. Horford,P. Antić
+85,1,0:52.0,25,13,ATL,IND,0,away,Sub,,,,,S. Hill,R. Stuckey
+86,1,0:47.0,25,13,ATL,IND,5,away,JS,block,6,miss2,0,C. Miles,A. Horford
+87,1,0:44.0,25,13,ATL,IND,3,home,DefReb,,,DefReb,,T. Sefolosha,
+88,1,0:41.0,25,13,ATL,IND,3,home,LU,block,2,miss2,0,T. Sefolosha,R. Hibbert
+89,1,0:39.0,25,13,ATL,IND,2,away,DefReb,,,DefReb,,L. Allen,
+90,1,0:21.0,25,15,ATL,IND,18,away,JS,assist,20,make2,2,C. Miles,R. Hibbert
+91,1,0:06.0,27,15,ATL,IND,15,home,JS,,7,make2,2,S. Mack,
+92,1,0:00.0,27,18,ATL,IND,6,away,JS,assist,33,make3,3,S. Hill,C. Miles
+93,2,11:39.0,27,18,ATL,IND,21,away,JS,,25,miss3,0,D. Sloan,
+94,2,11:38.0,27,18,ATL,IND,1,home,DefReb,,,DefReb,,M. Scott,
+95,2,11:33.0,27,18,ATL,IND,5,home,LostBall,steal,,turnover,,M. Scott,D. Rudež
+96,2,11:10.0,27,18,ATL,IND,23,away,Traveling,,,turnover,,D. Sloan,
+97,2,10:56.0,27,18,ATL,IND,14,home,JS,block,12,miss2,0,K. Bazemore,L. Allen
+98,2,10:54.0,27,18,ATL,IND,2,away,DefReb,,,DefReb,,I. Mahinmi,
+99,2,10:34.0,27,18,ATL,IND,20,away,BadPass,steal,,turnover,,D. Sloan,M. Scott
+100,2,10:30.0,27,18,ATL,IND,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Copeland,M. Scott
+101,2,10:30.0,28,18,ATL,IND,0,home,FreeThrow,,,make1,1,M. Scott,
+102,2,10:30.0,28,18,ATL,IND,0,home,FreeThrow,,,make1,0,M. Scott,
+103,2,10:29.0,28,18,ATL,IND,1,away,DefReb,,,DefReb,,L. Allen,
+104,2,10:13.0,28,18,ATL,IND,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Sefolosha,C. Copeland
+105,2,10:00.0,28,18,ATL,IND,13,away,LostBall,steal,,turnover,,L. Allen,T. Sefolosha
+106,2,9:54.0,28,18,ATL,IND,6,home,LU,,2,miss2,0,T. Sefolosha,
+107,2,9:52.0,28,18,ATL,IND,2,home,OffReb,,,OffReb,,M. Scott,
+108,2,9:49.0,31,18,ATL,IND,3,home,JS,assist,25,make3,3,K. Bazemore,M. Scott
+109,2,9:31.0,31,21,ATL,IND,18,away,JS,assist,25,make3,3,C. Copeland,D. Sloan
+110,2,9:18.0,31,21,ATL,IND,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Copeland,S. Mack
+111,2,9:18.0,32,21,ATL,IND,0,home,FreeThrow,,,make1,1,S. Mack,
+112,2,9:18.0,33,21,ATL,IND,0,home,FreeThrow,,,make1,1,S. Mack,
+113,2,9:02.0,33,23,ATL,IND,16,away,JS,assist,19,make2,2,L. Allen,D. Rudež
+114,2,8:40.0,35,23,ATL,IND,22,home,JS,assist,18,make2,2,A. Horford,T. Sefolosha
+115,2,8:13.0,35,23,ATL,IND,27,away,JS,,24,miss3,0,C. Copeland,
+116,2,8:11.0,35,23,ATL,IND,2,home,DefReb,,,DefReb,,M. Scott,
+117,2,8:06.0,37,23,ATL,IND,5,home,LU,assist,1,make2,2,A. Horford,S. Mack
+118,2,7:46.0,37,23,ATL,IND,20,away,JS,,25,miss3,0,C. Copeland,
+119,2,7:45.0,37,23,ATL,IND,1,home,DefReb,,,DefReb,,K. Bazemore,
+120,2,7:32.0,40,23,ATL,IND,13,home,JS,assist,25,make3,3,M. Scott,K. Bazemore
+121,2,7:31.0,40,23,ATL,IND,1,away,Timeout,,,,,,
+122,2,7:31.0,40,23,ATL,IND,0,home,Sub,,,,,J. Teague,K. Bazemore
+123,2,7:31.0,40,23,ATL,IND,0,home,Sub,,,,,D. Carroll,T. Sefolosha
+124,2,7:31.0,40,23,ATL,IND,0,home,Sub,,,,,K. Korver,S. Mack
+125,2,7:15.0,40,25,ATL,IND,16,away,LU,assist,1,make2,2,I. Mahinmi,C. Copeland
+126,2,7:15.0,40,25,ATL,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Scott,I. Mahinmi
+127,2,7:15.0,40,25,ATL,IND,0,home,Sub,,,,,P. Antić,A. Horford
+128,2,7:15.0,40,26,ATL,IND,0,away,FreeThrow,,,make1,1,I. Mahinmi,
+129,2,7:00.0,42,26,ATL,IND,15,home,JS,assist,14,make2,2,D. Carroll,K. Korver
+130,2,6:34.0,42,26,ATL,IND,26,away,JS,,10,miss2,0,L. Allen,
+131,2,6:34.0,42,26,ATL,IND,0,home,DefReb,,,DefReb,,Team,
+132,2,6:34.0,42,26,ATL,IND,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Allen,P. Antić
+133,2,6:34.0,42,26,ATL,IND,0,home,Sub,,,,,P. Millsap,M. Scott
+134,2,6:21.0,42,26,ATL,IND,13,home,JS,,23,miss3,0,D. Carroll,
+135,2,6:18.0,42,26,ATL,IND,3,away,DefReb,,,DefReb,,D. Sloan,
+136,2,6:15.0,42,28,ATL,IND,3,away,LU,,1,make2,2,C. Copeland,
+137,2,6:15.0,42,28,ATL,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Teague,C. Copeland
+138,2,6:15.0,42,28,ATL,IND,0,away,FreeThrow,,,make1,0,C. Copeland,
+139,2,6:15.0,42,28,ATL,IND,0,home,DefReb,,,DefReb,,D. Carroll,
+140,2,6:02.0,42,28,ATL,IND,13,home,JS,,17,miss2,0,K. Korver,
+141,2,6:00.0,42,28,ATL,IND,2,away,DefReb,,,DefReb,,L. Allen,
+142,2,5:51.0,42,28,ATL,IND,9,away,JS,,8,miss2,0,C. Copeland,
+143,2,5:50.0,42,28,ATL,IND,1,home,DefReb,,,DefReb,,J. Teague,
+144,2,5:35.0,42,28,ATL,IND,15,home,LU,,2,miss2,0,J. Teague,
+145,2,5:34.0,42,28,ATL,IND,1,away,DefReb,,,DefReb,,L. Allen,
+146,2,5:21.0,42,28,ATL,IND,13,away,LU,,1,miss2,0,C. Copeland,
+147,2,5:19.0,42,28,ATL,IND,2,away,OffReb,,,OffReb,,L. Allen,
+148,2,5:19.0,42,30,ATL,IND,0,away,TI,,0,make2,2,L. Allen,
+149,2,5:10.0,42,30,ATL,IND,9,home,Timeout,,,,,,
+150,2,5:01.0,44,30,ATL,IND,9,home,JS,assist,21,make2,2,P. Antić,K. Korver
+151,2,5:01.0,44,30,ATL,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Allen,P. Antić
+152,2,5:01.0,45,30,ATL,IND,0,home,FreeThrow,,,make1,1,P. Antić,
+153,2,4:52.0,45,30,ATL,IND,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Korver,D. Rudež
+154,2,4:47.0,45,32,ATL,IND,5,away,JS,assist,20,make2,2,L. Allen,D. Sloan
+155,2,4:34.0,45,32,ATL,IND,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Rudež,P. Antić
+156,2,4:34.0,46,32,ATL,IND,0,home,FreeThrow,,,make1,1,P. Antić,
+157,2,4:34.0,46,32,ATL,IND,0,away,Sub,,,,,R. Hibbert,I. Mahinmi
+158,2,4:34.0,46,32,ATL,IND,0,away,Sub,,,,,S. Hill,D. Rudež
+159,2,4:34.0,46,32,ATL,IND,0,home,FreeThrow,,,make1,0,P. Antić,
+160,2,4:32.0,46,32,ATL,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+161,2,4:10.0,46,32,ATL,IND,22,away,JS,block,18,miss2,0,D. Sloan,J. Teague
+162,2,4:08.0,46,32,ATL,IND,2,home,DefReb,,,DefReb,,K. Korver,
+163,2,4:04.0,48,32,ATL,IND,4,home,LU,assist,1,make2,2,P. Millsap,J. Teague
+164,2,3:48.0,48,32,ATL,IND,16,away,LostBall,steal,,turnover,,C. Copeland,P. Millsap
+165,2,3:42.0,48,32,ATL,IND,6,home,Traveling,,,turnover,,K. Korver,
+166,2,3:28.0,48,34,ATL,IND,14,away,DK,assist,0,make2,2,R. Hibbert,L. Allen
+167,2,3:07.0,48,34,ATL,IND,21,home,JS,,23,miss3,0,P. Antić,
+168,2,3:05.0,48,34,ATL,IND,2,away,DefReb,,,DefReb,,S. Hill,
+169,2,2:51.0,48,36,ATL,IND,14,away,JS,assist,11,make2,2,R. Hibbert,D. Sloan
+170,2,2:40.0,48,36,ATL,IND,11,home,LU,,1,miss2,0,J. Teague,
+171,2,2:38.0,48,36,ATL,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+172,2,2:32.0,48,39,ATL,IND,6,away,JS,assist,23,make3,3,C. Copeland,D. Sloan
+173,2,2:31.0,48,39,ATL,IND,1,home,Timeout,,,,,,
+174,2,2:31.0,48,39,ATL,IND,0,away,Timeout,,,,,,
+175,2,2:10.0,48,39,ATL,IND,21,home,Sub,,,,,A. Horford,P. Antić
+176,2,2:10.0,48,39,ATL,IND,0,home,LostBall,,,turnover,,A. Horford,
+177,2,1:55.0,48,39,ATL,IND,15,away,BadPass,steal,,turnover,,L. Allen,K. Korver
+178,2,1:51.0,48,39,ATL,IND,4,home,BadPass,steal,,turnover,,P. Millsap,D. Sloan
+179,2,1:35.0,48,39,ATL,IND,16,away,HS,,4,miss2,0,C. Copeland,
+180,2,1:33.0,48,39,ATL,IND,2,away,OffReb,,,OffReb,,Team,
+181,2,1:32.0,48,39,ATL,IND,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Korver,S. Hill
+182,2,1:32.0,48,40,ATL,IND,0,away,FreeThrow,,,make1,1,S. Hill,
+183,2,1:32.0,48,41,ATL,IND,0,away,FreeThrow,,,make1,1,S. Hill,
+184,2,1:16.0,48,41,ATL,IND,16,home,JS,,13,miss2,0,A. Horford,
+185,2,1:13.0,48,41,ATL,IND,3,away,DefReb,,,DefReb,,C. Copeland,
+186,2,1:00.0,48,41,ATL,IND,13,away,JS,,12,miss2,0,R. Hibbert,
+187,2,1:00.0,48,41,ATL,IND,0,home,DefReb,,,DefReb,,Team,
+188,2,1:00.0,48,41,ATL,IND,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,L. Allen,P. Millsap
+189,2,1:00.0,49,41,ATL,IND,0,home,FreeThrow,,,make1,1,P. Millsap,
+190,2,1:00.0,49,41,ATL,IND,0,away,Sub,,,,,L. Scola,L. Allen
+191,2,1:00.0,49,41,ATL,IND,0,home,FreeThrow,,,make1,0,P. Millsap,
+192,2,0:59.0,49,41,ATL,IND,1,away,DefReb,,,DefReb,,L. Scola,
+193,2,0:46.0,49,44,ATL,IND,13,away,JS,assist,25,make3,3,C. Copeland,D. Sloan
+194,2,0:31.0,49,44,ATL,IND,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Scola,J. Teague
+195,2,0:31.0,50,44,ATL,IND,0,home,FreeThrow,,,make1,1,J. Teague,
+196,2,0:31.0,50,44,ATL,IND,0,home,Sub,,,,,K. Bazemore,K. Korver
+197,2,0:31.0,51,44,ATL,IND,0,home,FreeThrow,,,make1,1,J. Teague,
+198,2,0:09.0,51,44,ATL,IND,22,away,LU,,1,miss2,0,D. Sloan,
+199,2,0:08.0,51,44,ATL,IND,1,home,DefReb,,,DefReb,,P. Millsap,
+200,2,0:04.0,51,44,ATL,IND,4,home,JS,,24,miss3,0,J. Teague,
+201,2,0:02.0,51,44,ATL,IND,2,home,OffReb,,,OffReb,,K. Bazemore,
+202,2,0:02.0,51,44,ATL,IND,0,home,LU,,0,miss2,0,K. Bazemore,
+203,2,0:01.0,51,44,ATL,IND,1,away,DefReb,,,DefReb,,R. Hibbert,
+204,3,11:39.0,51,44,ATL,IND,21,away,JS,,26,miss3,0,C. Miles,
+205,3,11:38.0,51,44,ATL,IND,1,home,DefReb,,,DefReb,,J. Teague,
+206,3,11:31.0,51,44,ATL,IND,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Hibbert,A. Horford
+207,3,11:17.0,51,44,ATL,IND,14,home,JS,block,6,miss2,0,D. Carroll,R. Hibbert
+208,3,11:15.0,51,44,ATL,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+209,3,11:08.0,51,44,ATL,IND,7,away,JS,,6,miss2,0,C. Miles,
+210,3,11:06.0,51,44,ATL,IND,2,home,DefReb,,,DefReb,,J. Teague,
+211,3,10:58.0,53,44,ATL,IND,8,home,LU,,2,make2,2,J. Teague,
+212,3,10:33.0,53,44,ATL,IND,25,away,JS,,25,miss3,0,D. Sloan,
+213,3,10:33.0,53,44,ATL,IND,0,away,OffReb,,,OffReb,,L. Scola,
+214,3,10:33.0,53,46,ATL,IND,0,away,LU,,1,make2,2,L. Scola,
+215,3,10:33.0,53,46,ATL,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Millsap,L. Scola
+216,3,10:33.0,53,47,ATL,IND,0,away,FreeThrow,,,make1,1,L. Scola,
+217,3,10:14.0,55,47,ATL,IND,19,home,JS,assist,16,make2,2,A. Horford,K. Korver
+218,3,9:59.0,55,47,ATL,IND,15,away,JS,,23,miss3,0,C. Miles,
+219,3,9:58.0,55,47,ATL,IND,1,home,DefReb,,,DefReb,,A. Horford,
+220,3,9:54.0,55,47,ATL,IND,4,home,BadPass,steal,,turnover,,A. Horford,L. Scola
+221,3,9:46.0,55,47,ATL,IND,8,away,LU,block,1,miss2,0,D. Sloan,A. Horford
+222,3,9:44.0,55,47,ATL,IND,2,home,DefReb,,,DefReb,,J. Teague,
+223,3,9:39.0,57,47,ATL,IND,5,home,LU,assist,0,make2,2,A. Horford,D. Carroll
+224,3,9:23.0,57,47,ATL,IND,16,away,JS,,17,miss2,0,L. Scola,
+225,3,9:20.0,57,47,ATL,IND,3,home,DefReb,,,DefReb,,D. Carroll,
+226,3,9:05.0,57,47,ATL,IND,15,home,LostBall,steal,,turnover,,A. Horford,S. Hill
+227,3,9:02.0,57,47,ATL,IND,3,away,BadPass,steal,,turnover,,C. Miles,J. Teague
+228,3,8:58.0,59,47,ATL,IND,4,home,DK,assist,0,make2,2,A. Horford,J. Teague
+229,3,8:41.0,59,47,ATL,IND,17,away,JS,,18,miss2,0,R. Hibbert,
+230,3,8:37.0,59,47,ATL,IND,4,home,DefReb,,,DefReb,,D. Carroll,
+231,3,8:28.0,59,47,ATL,IND,9,home,BadPass,,,turnover,,J. Teague,
+232,3,8:08.0,59,49,ATL,IND,20,away,JS,,8,make2,2,S. Hill,
+233,3,7:49.0,59,49,ATL,IND,19,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Scola,P. Millsap
+234,3,7:42.0,61,49,ATL,IND,7,home,JS,,15,make2,2,K. Korver,
+235,3,7:21.0,61,49,ATL,IND,21,away,LostBall,steal,,turnover,,R. Hibbert,J. Teague
+236,3,7:16.0,63,49,ATL,IND,5,home,LU,assist,0,make2,2,D. Carroll,J. Teague
+237,3,6:56.0,63,49,ATL,IND,20,away,JS,,25,miss3,0,C. Miles,
+238,3,6:55.0,63,49,ATL,IND,1,away,OffReb,,,OffReb,,Team,
+239,3,6:55.0,63,49,ATL,IND,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Korver,L. Scola
+240,3,6:55.0,63,49,ATL,IND,0,home,Sub,,,,,P. Antić,A. Horford
+241,3,6:43.0,63,52,ATL,IND,12,away,JS,assist,23,make3,3,C. Miles,D. Sloan
+242,3,6:37.0,63,52,ATL,IND,6,home,JS,,25,miss3,0,K. Korver,
+243,3,6:36.0,63,52,ATL,IND,1,away,DefReb,,,DefReb,,R. Hibbert,
+244,3,6:22.0,63,52,ATL,IND,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Korver,S. Hill
+245,3,6:22.0,63,52,ATL,IND,0,home,Sub,,,,,K. Bazemore,K. Korver
+246,3,6:22.0,63,52,ATL,IND,0,away,Sub,,,,,C. Copeland,C. Miles
+247,3,6:12.0,63,52,ATL,IND,10,away,JS,,25,miss3,0,D. Sloan,
+248,3,6:11.0,63,52,ATL,IND,1,home,DefReb,,,DefReb,,D. Carroll,
+249,3,5:54.0,63,52,ATL,IND,17,home,LU,,0,miss2,0,J. Teague,
+250,3,5:53.0,63,52,ATL,IND,1,away,DefReb,,,DefReb,,R. Hibbert,
+251,3,5:36.0,63,52,ATL,IND,17,away,JS,,17,miss2,0,D. Sloan,
+252,3,5:36.0,63,52,ATL,IND,0,home,DefReb,,,DefReb,,Team,
+253,3,5:36.0,63,52,ATL,IND,0,home,Timeout,,,,,,
+254,3,5:36.0,63,52,ATL,IND,0,away,Sub,,,,,C. Miles,S. Hill
+255,3,5:23.0,63,52,ATL,IND,13,home,JS,,11,miss2,0,P. Millsap,
+256,3,5:21.0,63,52,ATL,IND,2,away,DefReb,,,DefReb,,L. Scola,
+257,3,5:11.0,63,52,ATL,IND,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Bazemore,C. Copeland
+258,3,4:59.0,63,52,ATL,IND,12,away,JS,,8,miss2,0,C. Miles,
+259,3,4:58.0,63,52,ATL,IND,1,home,DefReb,,,DefReb,,P. Antić,
+260,3,4:50.0,63,52,ATL,IND,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Scola,P. Millsap
+261,3,4:41.0,63,52,ATL,IND,9,home,Traveling,,,turnover,,K. Bazemore,
+262,3,4:33.0,63,52,ATL,IND,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Antić,R. Hibbert
+263,3,4:33.0,63,53,ATL,IND,0,away,FreeThrow,,,make1,1,R. Hibbert,
+264,3,4:33.0,63,54,ATL,IND,0,away,FreeThrow,,,make1,1,R. Hibbert,
+265,3,4:17.0,63,54,ATL,IND,16,home,JS,,25,miss3,0,P. Antić,
+266,3,4:16.0,63,54,ATL,IND,1,away,DefReb,,,DefReb,,L. Scola,
+267,3,4:11.0,63,54,ATL,IND,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Millsap,C. Miles
+268,3,4:11.0,63,55,ATL,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+269,3,4:11.0,63,55,ATL,IND,0,home,Sub,,,,,S. Mack,J. Teague
+270,3,4:11.0,63,56,ATL,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+271,3,3:57.0,63,56,ATL,IND,14,home,JS,,18,miss2,0,P. Millsap,
+272,3,3:56.0,63,56,ATL,IND,1,away,DefReb,,,DefReb,,D. Sloan,
+273,3,3:45.0,63,56,ATL,IND,11,away,LostBall,steal,,turnover,,L. Scola,P. Millsap
+274,3,3:28.0,65,56,ATL,IND,17,home,LU,assist,2,make2,2,P. Millsap,S. Mack
+275,3,3:12.0,65,59,ATL,IND,16,away,JS,assist,25,make3,3,C. Miles,C. Copeland
+276,3,2:56.0,67,59,ATL,IND,16,home,JS,assist,6,make2,2,D. Carroll,P. Millsap
+277,3,2:30.0,67,59,ATL,IND,26,away,JS,,10,miss2,0,L. Scola,
+278,3,2:29.0,67,59,ATL,IND,1,home,DefReb,,,DefReb,,P. Millsap,
+279,3,2:10.0,69,59,ATL,IND,19,home,JS,,10,make2,2,S. Mack,
+280,3,2:01.0,69,59,ATL,IND,9,away,Timeout,,,,,,
+281,3,2:01.0,69,59,ATL,IND,0,home,Sub,,,,,T. Sefolosha,D. Carroll
+282,3,2:01.0,69,59,ATL,IND,0,home,Sub,,,,,M. Scott,P. Millsap
+283,3,2:01.0,69,59,ATL,IND,0,away,Sub,,,,,D. Rudež,C. Miles
+284,3,2:01.0,69,59,ATL,IND,0,away,Sub,,,,,S. Hill,D. Sloan
+285,3,1:48.0,69,59,ATL,IND,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Sefolosha,C. Copeland
+286,3,1:48.0,69,60,ATL,IND,0,away,FreeThrow,,,make1,1,C. Copeland,
+287,3,1:48.0,69,60,ATL,IND,0,away,FreeThrow,,,make1,0,C. Copeland,
+288,3,1:47.0,69,60,ATL,IND,1,home,DefReb,,,DefReb,,T. Sefolosha,
+289,3,1:40.0,69,60,ATL,IND,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,T. Sefolosha
+290,3,1:40.0,69,60,ATL,IND,0,home,FreeThrow,,,make1,0,T. Sefolosha,
+291,3,1:40.0,69,60,ATL,IND,0,home,OffReb,,,OffReb,,Team,
+292,3,1:40.0,69,60,ATL,IND,0,home,Sub,,,,,A. Horford,P. Antić
+293,3,1:40.0,69,60,ATL,IND,0,away,Sub,,,,,L. Allen,L. Scola
+294,3,1:40.0,70,60,ATL,IND,0,home,FreeThrow,,,make1,1,T. Sefolosha,
+295,3,1:17.0,70,60,ATL,IND,23,away,HS,,9,miss2,0,R. Hibbert,
+296,3,1:16.0,70,60,ATL,IND,1,away,OffReb,,,OffReb,,S. Hill,
+297,3,1:16.0,70,60,ATL,IND,0,away,TI,,1,miss2,0,S. Hill,
+298,3,1:13.0,70,60,ATL,IND,3,away,OffReb,,,OffReb,,S. Hill,
+299,3,1:03.0,70,60,ATL,IND,10,away,JS,,25,miss3,0,S. Hill,
+300,3,1:01.0,70,60,ATL,IND,2,home,DefReb,,,DefReb,,T. Sefolosha,
+301,3,0:49.0,70,60,ATL,IND,12,home,JS,,10,miss2,0,A. Horford,
+302,3,0:47.0,70,60,ATL,IND,2,away,DefReb,,,DefReb,,S. Hill,
+303,3,0:32.0,70,60,ATL,IND,15,home,KickBallViolation,,,KickBallViolation,,T. Sefolosha,
+304,3,0:22.0,70,60,ATL,IND,10,away,JS,,23,miss3,0,D. Rudež,
+305,3,0:19.0,70,60,ATL,IND,3,away,OffReb,,,OffReb,,L. Allen,
+306,3,0:05.0,70,63,ATL,IND,14,away,JS,assist,25,make3,3,C. Copeland,S. Hill
+307,3,0:00.0,70,63,ATL,IND,5,home,JS,,25,miss3,0,S. Mack,
+308,3,0:00.0,70,63,ATL,IND,0,home,OffReb,,,OffReb,,Team,
+309,4,11:47.0,70,63,ATL,IND,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Rudež,K. Korver
+310,4,11:47.0,70,63,ATL,IND,0,home,FreeThrow,,,make1,0,K. Korver,
+311,4,11:47.0,70,63,ATL,IND,0,home,OffReb,,,OffReb,,Team,
+312,4,11:47.0,71,63,ATL,IND,0,home,FreeThrow,,,make1,1,K. Korver,
+313,4,11:32.0,71,63,ATL,IND,15,away,JS,,24,miss3,0,D. Rudež,
+314,4,11:30.0,71,63,ATL,IND,2,home,DefReb,,,DefReb,,T. Sefolosha,
+315,4,11:23.0,73,63,ATL,IND,7,home,LU,assist,0,make2,2,T. Sefolosha,K. Korver
+316,4,11:02.0,73,63,ATL,IND,21,away,JS,,25,miss3,0,C. Copeland,
+317,4,10:59.0,73,63,ATL,IND,3,away,OffReb,,,OffReb,,Team,
+318,4,10:46.0,73,63,ATL,IND,13,home,DefGoaltending,,,DefGoaltending,,A. Horford,
+319,4,10:46.0,73,65,ATL,IND,0,away,HS,assist,1,make2,2,I. Mahinmi,L. Allen
+320,4,10:35.0,75,65,ATL,IND,11,home,JS,assist,19,make2,2,A. Horford,S. Mack
+321,4,10:28.0,75,65,ATL,IND,7,away,OffensiveFoul,,,turnover,,S. Hill,
+322,4,10:28.0,75,65,ATL,IND,0,home,ChargeFoul,DrawnBy,,ChargeFoul,,S. Hill,S. Mack
+323,4,10:28.0,75,65,ATL,IND,0,away,Sub,,,,,D. Sloan,D. Rudež
+324,4,10:17.0,75,65,ATL,IND,11,home,JS,,17,miss2,0,A. Horford,
+325,4,10:15.0,75,65,ATL,IND,2,away,DefReb,,,DefReb,,D. Sloan,
+326,4,9:56.0,75,65,ATL,IND,19,away,JS,,21,miss2,0,L. Allen,
+327,4,9:55.0,75,65,ATL,IND,1,home,DefReb,,,DefReb,,A. Horford,
+328,4,9:53.0,75,65,ATL,IND,2,home,ClearPathFoul,,,ClearPathFoul,,L. Allen,
+329,4,9:53.0,76,65,ATL,IND,0,home,FreeThrow,,,make1,1,M. Scott makes clear path free throw 1 of 2,
+330,4,9:53.0,76,65,ATL,IND,0,home,FreeThrow,,,make1,0,M. Scott misses clear path free throw 2 of 2,
+331,4,9:53.0,76,65,ATL,IND,0,home,OffReb,,,OffReb,,Team,
+332,4,9:44.0,78,65,ATL,IND,9,home,LU,assist,1,make2,2,A. Horford,S. Mack
+333,4,9:28.0,78,65,ATL,IND,16,away,JS,,20,miss2,0,L. Allen,
+334,4,9:27.0,78,65,ATL,IND,1,home,DefReb,,,DefReb,,K. Korver,
+335,4,9:09.0,78,65,ATL,IND,18,home,JS,,26,miss3,0,S. Mack,
+336,4,9:07.0,78,65,ATL,IND,2,away,DefReb,,,DefReb,,C. Copeland,
+337,4,8:43.0,78,67,ATL,IND,24,away,JS,,12,make2,2,D. Sloan,
+338,4,8:43.0,78,67,ATL,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Sefolosha,D. Sloan
+339,4,8:43.0,78,67,ATL,IND,0,away,Timeout,,,,,,
+340,4,8:43.0,78,68,ATL,IND,0,away,FreeThrow,,,make1,1,D. Sloan,
+341,4,8:25.0,78,68,ATL,IND,18,home,JS,,23,miss3,0,A. Horford,
+342,4,8:23.0,78,68,ATL,IND,2,away,DefReb,,,DefReb,,C. Copeland,
+343,4,8:07.0,78,71,ATL,IND,16,away,JS,assist,25,make3,3,S. Hill,L. Allen
+344,4,7:52.0,78,71,ATL,IND,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Allen,A. Horford
+345,4,7:52.0,79,71,ATL,IND,0,home,FreeThrow,,,make1,1,A. Horford,
+346,4,7:52.0,79,71,ATL,IND,0,home,Sub,,,,,P. Millsap,T. Sefolosha
+347,4,7:52.0,79,71,ATL,IND,0,home,Sub,,,,,D. Carroll,S. Mack
+348,4,7:52.0,79,71,ATL,IND,0,home,Sub,,,,,J. Teague,M. Scott
+349,4,7:52.0,80,71,ATL,IND,0,home,FreeThrow,,,make1,1,A. Horford,
+350,4,7:33.0,80,71,ATL,IND,19,away,Traveling,,,turnover,,S. Hill,
+351,4,7:33.0,80,71,ATL,IND,0,home,Sub,,,,,P. Antić,A. Horford
+352,4,7:23.0,83,71,ATL,IND,10,home,JS,assist,25,make3,3,K. Korver,J. Teague
+353,4,7:05.0,83,71,ATL,IND,18,away,JS,,19,miss2,0,L. Allen,
+354,4,7:03.0,83,71,ATL,IND,2,home,DefReb,,,DefReb,,D. Carroll,
+355,4,6:46.0,83,71,ATL,IND,17,home,LU,block,2,miss2,0,J. Teague,C. Copeland
+356,4,6:44.0,83,71,ATL,IND,2,away,DefReb,,,DefReb,,C. Copeland,
+357,4,6:37.0,83,74,ATL,IND,7,away,JS,assist,24,make3,3,D. Sloan,S. Hill
+358,4,6:28.0,83,74,ATL,IND,9,home,Timeout,,,,,,
+359,4,6:28.0,83,74,ATL,IND,0,away,Sub,,,,,L. Scola,L. Allen
+360,4,6:28.0,83,74,ATL,IND,0,away,Sub,,,,,R. Hibbert,I. Mahinmi
+361,4,6:18.0,83,74,ATL,IND,10,home,Traveling,,,turnover,,P. Antić,
+362,4,6:06.0,83,77,ATL,IND,12,away,JS,assist,25,make3,3,C. Copeland,S. Hill
+363,4,5:49.0,86,77,ATL,IND,17,home,JS,assist,25,make3,3,K. Korver,P. Antić
+364,4,5:34.0,86,77,ATL,IND,15,home,ChargeFoul,DrawnBy,,ChargeFoul,,C. Copeland,K. Korver
+365,4,5:34.0,86,77,ATL,IND,0,away,OffensiveFoul,,,turnover,,C. Copeland,
+366,4,5:22.0,86,77,ATL,IND,12,home,JS,,25,miss3,0,P. Millsap,
+367,4,5:20.0,86,77,ATL,IND,2,away,DefReb,,,DefReb,,L. Scola,
+368,4,5:04.0,86,77,ATL,IND,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Antić,R. Hibbert
+369,4,5:04.0,86,78,ATL,IND,0,away,FreeThrow,,,make1,1,R. Hibbert,
+370,4,5:04.0,86,79,ATL,IND,0,away,FreeThrow,,,make1,1,R. Hibbert,
+371,4,4:53.0,88,79,ATL,IND,11,home,DK,assist,0,make2,2,J. Teague,P. Antić
+372,4,4:29.0,88,79,ATL,IND,24,away,LostBall,steal,,turnover,,L. Scola,J. Teague
+373,4,4:26.0,88,79,ATL,IND,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Sloan,J. Teague
+374,4,4:16.0,88,79,ATL,IND,10,home,JS,,22,miss2,0,D. Carroll,
+375,4,4:14.0,88,79,ATL,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+376,4,4:02.0,88,81,ATL,IND,12,away,JS,assist,16,make2,2,L. Scola,C. Copeland
+377,4,3:50.0,88,81,ATL,IND,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Scola,P. Millsap
+378,4,3:50.0,88,81,ATL,IND,0,home,FreeThrow,,,make1,0,P. Millsap,
+379,4,3:50.0,88,81,ATL,IND,0,home,OffReb,,,OffReb,,Team,
+380,4,3:50.0,88,81,ATL,IND,0,home,Sub,,,,,A. Horford,P. Antić
+381,4,3:50.0,89,81,ATL,IND,0,home,FreeThrow,,,make1,1,P. Millsap,
+382,4,3:30.0,89,81,ATL,IND,20,away,Traveling,,,turnover,,C. Copeland,
+383,4,3:26.0,89,81,ATL,IND,4,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Carroll,L. Scola
+384,4,3:26.0,89,81,ATL,IND,0,home,OffensiveFoul,,,turnover,,D. Carroll,
+385,4,3:12.0,89,81,ATL,IND,14,away,JS,,25,miss3,0,D. Sloan,
+386,4,3:08.0,89,81,ATL,IND,4,away,OffReb,,,OffReb,,L. Scola,
+387,4,3:08.0,89,83,ATL,IND,0,away,TI,,0,make2,2,L. Scola,
+388,4,3:06.0,89,83,ATL,IND,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Sloan,J. Teague
+389,4,3:06.0,90,83,ATL,IND,0,home,FreeThrow,,,make1,1,J. Teague,
+390,4,3:06.0,91,83,ATL,IND,0,home,FreeThrow,,,make1,1,J. Teague,
+391,4,2:51.0,91,83,ATL,IND,15,away,BadPass,steal,,turnover,,C. Copeland,D. Carroll
+392,4,2:42.0,91,83,ATL,IND,9,home,LU,block,1,miss2,0,A. Horford,R. Hibbert
+393,4,2:42.0,91,83,ATL,IND,0,home,OffReb,,,OffReb,,A. Horford,
+394,4,2:42.0,93,83,ATL,IND,0,home,LU,,1,make2,2,A. Horford,
+395,4,2:42.0,93,83,ATL,IND,0,away,Timeout,,,,,,
+396,4,2:27.0,93,83,ATL,IND,15,away,JS,,24,miss3,0,C. Copeland,
+397,4,2:26.0,93,83,ATL,IND,1,away,OffReb,,,OffReb,,L. Scola,
+398,4,2:26.0,93,83,ATL,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Millsap,L. Scola
+399,4,2:26.0,93,84,ATL,IND,0,away,FreeThrow,,,make1,1,L. Scola,
+400,4,2:26.0,93,84,ATL,IND,0,away,FreeThrow,,,make1,0,L. Scola,
+401,4,2:25.0,93,84,ATL,IND,1,away,OffReb,,,OffReb,,C. Copeland,
+402,4,2:17.0,93,84,ATL,IND,8,away,JS,,25,miss3,0,S. Hill,
+403,4,2:15.0,93,84,ATL,IND,2,away,OffReb,,,OffReb,,C. Copeland,
+404,4,2:05.0,93,86,ATL,IND,10,away,JS,assist,6,make2,2,L. Scola,C. Copeland
+405,4,1:48.0,93,86,ATL,IND,17,home,LU,,1,miss2,0,D. Carroll,
+406,4,1:47.0,93,86,ATL,IND,1,away,DefReb,,,DefReb,,R. Hibbert,
+407,4,1:42.0,93,89,ATL,IND,5,away,JS,assist,24,make3,3,C. Copeland,S. Hill
+408,4,1:28.0,95,89,ATL,IND,14,home,JS,,13,make2,2,J. Teague,
+409,4,1:13.0,95,89,ATL,IND,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Horford,D. Sloan
+410,4,1:13.0,95,90,ATL,IND,0,away,FreeThrow,,,make1,1,D. Sloan,
+411,4,1:13.0,95,91,ATL,IND,0,away,FreeThrow,,,make1,1,D. Sloan,
+412,4,1:13.0,95,92,ATL,IND,0,away,FreeThrow,,,make1,1,D. Sloan,
+413,4,0:54.0,97,92,ATL,IND,19,home,JS,,18,make2,2,J. Teague,
+414,4,0:43.0,97,92,ATL,IND,11,away,JS,,8,miss2,0,D. Sloan,
+415,4,0:42.0,97,92,ATL,IND,1,home,DefReb,,,DefReb,,A. Horford,
+416,4,0:27.0,97,92,ATL,IND,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Sloan,J. Teague
+417,4,0:27.0,98,92,ATL,IND,0,home,FreeThrow,,,make1,1,J. Teague,
+418,4,0:27.0,99,92,ATL,IND,0,home,FreeThrow,,,make1,1,J. Teague,
+419,4,0:27.0,99,92,ATL,IND,0,away,Timeout,,,,,,
+420,4,0:27.0,99,92,ATL,IND,0,away,Sub,,,,,C. Miles,L. Scola
+421,4,0:22.0,99,92,ATL,IND,5,away,JS,,25,miss3,0,C. Copeland,
+422,4,0:21.0,99,92,ATL,IND,1,home,DefReb,,,DefReb,,D. Carroll,
+423,4,0:21.0,99,92,ATL,IND,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Miles,D. Carroll
+424,4,0:21.0,100,92,ATL,IND,0,home,FreeThrow,,,make1,1,D. Carroll,
+425,4,0:21.0,100,92,ATL,IND,0,home,FreeThrow,,,make1,0,D. Carroll,
+426,4,0:20.0,100,92,ATL,IND,1,away,DefReb,,,DefReb,,R. Hibbert,
+427,4,0:19.0,100,92,ATL,IND,1,away,Timeout,,,,,,
+428,4,0:07.0,100,92,ATL,IND,12,away,JS,,21,miss2,0,D. Sloan,
+429,4,0:06.0,100,92,ATL,IND,1,home,DefReb,,,DefReb,,D. Carroll,
+430,4,0:06.0,100,92,ATL,IND,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Miles,D. Carroll
+431,4,0:06.0,101,92,ATL,IND,0,home,FreeThrow,,,make1,1,D. Carroll,
+432,4,0:06.0,102,92,ATL,IND,0,home,FreeThrow,,,make1,1,D. Carroll,

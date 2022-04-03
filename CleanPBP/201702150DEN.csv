@@ -1,0 +1,456 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:36.0,0,0,DEN,MIN,24,home,JS,,20,miss2,0,G. Harris,
+1,1,11:35.0,0,0,DEN,MIN,1,home,OffReb,,,OffReb,,Team,
+2,1,11:35.0,0,0,DEN,MIN,0,home,ShotClockViolation,,,turnover,,Team,
+3,1,11:17.0,0,0,DEN,MIN,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,K. Towns
+4,1,11:17.0,0,1,DEN,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
+5,1,11:17.0,0,2,DEN,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
+6,1,10:58.0,2,2,DEN,MIN,19,home,JS,assist,21,make2,2,J. Nelson,J. Hernangómez
+7,1,10:41.0,2,4,DEN,MIN,17,away,JS,,19,make2,2,A. Wiggins,
+8,1,10:24.0,4,4,DEN,MIN,17,home,JS,assist,4,make2,2,N. Jokić,G. Harris
+9,1,10:09.0,4,4,DEN,MIN,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hernangómez,A. Wiggins
+10,1,10:09.0,4,4,DEN,MIN,0,away,FreeThrow,,,make1,0,A. Wiggins,
+11,1,10:09.0,4,4,DEN,MIN,0,away,OffReb,,,OffReb,,Team,
+12,1,10:09.0,4,5,DEN,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
+13,1,9:58.0,4,5,DEN,MIN,11,home,JS,,13,miss2,0,J. Nelson,
+14,1,9:57.0,4,5,DEN,MIN,1,away,DefReb,,,DefReb,,Team,
+15,1,9:39.0,4,5,DEN,MIN,18,away,JS,,24,miss3,0,R. Rubio,
+16,1,9:36.0,4,5,DEN,MIN,3,away,OffReb,,,OffReb,,K. Towns,
+17,1,9:36.0,4,7,DEN,MIN,0,away,LU,,2,make2,2,K. Towns,
+18,1,9:25.0,6,7,DEN,MIN,11,home,LU,,3,make2,2,J. Nelson,
+19,1,9:10.0,6,10,DEN,MIN,15,away,JS,,27,make3,3,A. Wiggins,
+20,1,9:00.0,6,10,DEN,MIN,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Wiggins,G. Harris
+21,1,9:00.0,7,10,DEN,MIN,0,home,FreeThrow,,,make1,1,G. Harris,
+22,1,9:00.0,8,10,DEN,MIN,0,home,FreeThrow,,,make1,1,G. Harris,
+23,1,8:52.0,8,10,DEN,MIN,8,away,BadPass,steal,,turnover,,R. Rubio,N. Jokić
+24,1,8:51.0,8,10,DEN,MIN,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dieng,N. Jokić
+25,1,8:38.0,8,10,DEN,MIN,13,home,JS,,23,miss2,0,J. Nelson,
+26,1,8:38.0,8,10,DEN,MIN,0,home,OffReb,,,OffReb,,N. Jokić,
+27,1,8:36.0,8,10,DEN,MIN,2,away,KickBallViolation,,,KickBallViolation,,K. Towns,
+28,1,8:29.0,8,10,DEN,MIN,7,home,JS,,26,miss3,0,G. Harris,
+29,1,8:28.0,8,10,DEN,MIN,1,away,DefReb,,,DefReb,,B. Rush,
+30,1,8:18.0,8,10,DEN,MIN,10,away,JS,,26,miss3,0,K. Towns,
+31,1,8:16.0,8,10,DEN,MIN,2,home,DefReb,,,DefReb,,J. Nelson,
+32,1,8:11.0,10,10,DEN,MIN,5,home,DK,assist,0,make2,2,M. Plumlee,J. Nelson
+33,1,7:50.0,10,10,DEN,MIN,21,away,JS,,4,miss2,0,K. Towns,
+34,1,7:50.0,10,10,DEN,MIN,0,home,DefReb,,,DefReb,,N. Jokić,
+35,1,7:44.0,12,10,DEN,MIN,6,home,JS,assist,6,make2,2,N. Jokić,J. Nelson
+36,1,7:21.0,12,12,DEN,MIN,23,away,JS,,16,make2,2,A. Wiggins,
+37,1,7:08.0,12,12,DEN,MIN,13,home,BadPass,steal,,turnover,,G. Harris,A. Wiggins
+38,1,7:02.0,12,12,DEN,MIN,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nelson,R. Rubio
+39,1,7:02.0,12,13,DEN,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+40,1,7:02.0,12,14,DEN,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+41,1,6:37.0,15,14,DEN,MIN,25,home,JS,assist,24,make3,3,J. Hernangómez,M. Plumlee
+42,1,6:26.0,15,14,DEN,MIN,11,away,BadPass,steal,,turnover,,R. Rubio,J. Hernangómez
+43,1,6:21.0,17,14,DEN,MIN,5,home,DK,assist,0,make2,2,G. Harris,J. Hernangómez
+44,1,5:58.0,17,14,DEN,MIN,23,away,LU,block,2,miss2,0,A. Wiggins,N. Jokić
+45,1,5:55.0,17,14,DEN,MIN,3,away,OffReb,,,OffReb,,A. Wiggins,
+46,1,5:55.0,17,16,DEN,MIN,0,away,JS,,15,make2,2,A. Wiggins,
+47,1,5:48.0,19,16,DEN,MIN,7,home,DK,assist,0,make2,2,M. Plumlee,J. Nelson
+48,1,5:32.0,19,16,DEN,MIN,16,away,LU,,2,miss2,0,A. Wiggins,
+49,1,5:31.0,19,16,DEN,MIN,1,away,OffReb,,,OffReb,,G. Dieng,
+50,1,5:25.0,19,19,DEN,MIN,6,away,JS,assist,24,make3,3,A. Wiggins,G. Dieng
+51,1,5:16.0,19,19,DEN,MIN,9,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,N. Jokić,G. Dieng
+52,1,5:16.0,19,19,DEN,MIN,0,home,OffensiveFoul,,,turnover,,N. Jokić,
+53,1,5:16.0,19,19,DEN,MIN,0,home,Timeout,,,,,,
+54,1,5:16.0,19,19,DEN,MIN,0,home,Sub,,,,,W. Barton,J. Hernangómez
+55,1,5:16.0,19,19,DEN,MIN,0,home,Sub,,,,,J. Murray,M. Plumlee
+56,1,5:16.0,19,19,DEN,MIN,0,home,Sub,,,,,J. O'Bryant,G. Harris
+57,1,5:05.0,19,19,DEN,MIN,11,away,OutOfBounds,,,turnover,,R. Rubio,
+58,1,4:41.0,21,19,DEN,MIN,24,home,JS,,22,make2,2,J. Nelson,
+59,1,4:25.0,21,19,DEN,MIN,16,away,JS,,21,miss2,0,B. Rush,
+60,1,4:23.0,21,19,DEN,MIN,2,home,DefReb,,,DefReb,,J. O'Bryant,
+61,1,4:14.0,21,19,DEN,MIN,9,home,JS,,26,miss3,0,N. Jokić,
+62,1,4:13.0,21,19,DEN,MIN,1,home,OffReb,,,OffReb,,J. O'Bryant,
+63,1,4:05.0,21,19,DEN,MIN,8,home,HS,,3,miss2,0,N. Jokić,
+64,1,4:04.0,21,19,DEN,MIN,1,away,DefReb,,,DefReb,,K. Towns,
+65,1,3:54.0,21,19,DEN,MIN,10,away,JS,,15,miss2,0,A. Wiggins,
+66,1,3:51.0,21,19,DEN,MIN,3,away,OffReb,,,OffReb,,K. Towns,
+67,1,3:51.0,21,21,DEN,MIN,0,away,DK,,0,make2,2,K. Towns,
+68,1,3:37.0,23,21,DEN,MIN,14,home,LU,,2,make2,2,J. Nelson,
+69,1,3:37.0,23,21,DEN,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dieng,J. Nelson
+70,1,3:37.0,23,21,DEN,MIN,0,away,Sub,,,,,S. Muhammad,G. Dieng
+71,1,3:37.0,23,21,DEN,MIN,0,away,Sub,,,,,N. Bjelica,B. Rush
+72,1,3:37.0,24,21,DEN,MIN,0,home,FreeThrow,,,make1,1,J. Nelson,
+73,1,3:34.0,24,21,DEN,MIN,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Murray,S. Muhammad
+74,1,3:34.0,24,22,DEN,MIN,0,away,FreeThrow,,,make1,1,S. Muhammad,
+75,1,3:34.0,24,22,DEN,MIN,0,home,Sub,,,,,J. Hernangómez,J. O'Bryant
+76,1,3:34.0,24,23,DEN,MIN,0,away,FreeThrow,,,make1,1,S. Muhammad,
+77,1,3:21.0,26,23,DEN,MIN,13,home,LU,assist,2,make2,2,J. Murray,J. Nelson
+78,1,3:13.0,26,26,DEN,MIN,8,away,JS,assist,25,make3,3,K. Towns,S. Muhammad
+79,1,2:59.0,26,26,DEN,MIN,14,home,JS,,25,miss3,0,N. Jokić,
+80,1,2:58.0,26,26,DEN,MIN,1,away,DefReb,,,DefReb,,N. Bjelica,
+81,1,2:50.0,26,26,DEN,MIN,8,away,HS,,4,miss2,0,K. Towns,
+82,1,2:50.0,26,26,DEN,MIN,0,home,DefReb,,,DefReb,,N. Jokić,
+83,1,2:44.0,29,26,DEN,MIN,6,home,JS,assist,24,make3,3,J. Murray,J. Nelson
+84,1,2:23.0,29,26,DEN,MIN,21,away,JS,,14,miss2,0,A. Wiggins,
+85,1,2:22.0,29,26,DEN,MIN,1,home,DefReb,,,DefReb,,N. Jokić,
+86,1,2:06.0,29,26,DEN,MIN,16,home,LostBall,steal,,turnover,,J. Nelson,R. Rubio
+87,1,2:00.0,29,28,DEN,MIN,6,away,LU,assist,2,make2,2,S. Muhammad,A. Wiggins
+88,1,1:52.0,29,28,DEN,MIN,8,home,Timeout,,,,,,
+89,1,1:52.0,29,28,DEN,MIN,0,away,Timeout,,,,,,
+90,1,1:52.0,29,28,DEN,MIN,0,home,Sub,,,,,M. Plumlee,J. Hernangómez
+91,1,1:52.0,29,28,DEN,MIN,0,home,Sub,,,,,G. Harris,J. Nelson
+92,1,1:52.0,29,28,DEN,MIN,0,home,Sub,,,,,J. Hernangómez,N. Jokić
+93,1,1:38.0,29,28,DEN,MIN,14,home,JS,,25,miss3,0,J. Murray,
+94,1,1:37.0,29,28,DEN,MIN,1,home,OffReb,,,OffReb,,W. Barton,
+95,1,1:31.0,29,28,DEN,MIN,6,home,LU,block,1,miss2,0,M. Plumlee,N. Bjelica
+96,1,1:28.0,29,28,DEN,MIN,3,away,DefReb,,,DefReb,,N. Bjelica,
+97,1,1:12.0,29,28,DEN,MIN,16,away,HS,,5,miss2,0,K. Towns,
+98,1,1:11.0,29,28,DEN,MIN,1,home,DefReb,,,DefReb,,M. Plumlee,
+99,1,1:10.0,29,28,DEN,MIN,1,away,Sub,,,,,K. Dunn,R. Rubio
+100,1,0:49.0,29,28,DEN,MIN,21,home,LostBall,steal,,turnover,,J. Murray,A. Wiggins
+101,1,0:38.0,29,30,DEN,MIN,11,away,HS,assist,6,make2,2,K. Towns,K. Dunn
+102,1,0:20.0,31,30,DEN,MIN,18,home,LU,,2,make2,2,W. Barton,
+103,1,0:01.0,31,32,DEN,MIN,19,away,JS,,11,make2,2,A. Wiggins,
+104,1,0:00.0,31,32,DEN,MIN,1,home,JS,,78,miss3,0,M. Plumlee,
+105,1,0:00.0,31,32,DEN,MIN,0,home,OffReb,,,OffReb,,Team,
+106,2,11:44.0,31,32,DEN,MIN,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Harris,S. Muhammad
+107,2,11:44.0,31,33,DEN,MIN,0,away,FreeThrow,,,make1,1,S. Muhammad,
+108,2,11:44.0,31,34,DEN,MIN,0,away,FreeThrow,,,make1,1,S. Muhammad,
+109,2,11:35.0,33,34,DEN,MIN,9,home,LU,,2,make2,2,M. Plumlee,
+110,2,11:22.0,33,34,DEN,MIN,13,away,JS,,12,miss2,0,K. Dunn,
+111,2,11:21.0,33,34,DEN,MIN,1,home,DefReb,,,DefReb,,M. Plumlee,
+112,2,11:13.0,33,34,DEN,MIN,8,home,JS,,22,miss2,0,J. Hernangómez,
+113,2,11:12.0,33,34,DEN,MIN,1,away,DefReb,,,DefReb,,K. Dunn,
+114,2,11:02.0,33,34,DEN,MIN,10,away,JS,,16,miss2,0,K. Dunn,
+115,2,11:01.0,33,34,DEN,MIN,1,home,DefReb,,,DefReb,,W. Barton,
+116,2,10:45.0,33,34,DEN,MIN,16,home,LU,,2,miss2,0,J. Murray,
+117,2,10:44.0,33,34,DEN,MIN,1,away,DefReb,,,DefReb,,S. Muhammad,
+118,2,10:41.0,33,36,DEN,MIN,3,away,LU,,2,make2,2,S. Muhammad,
+119,2,10:41.0,33,36,DEN,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hernangómez,S. Muhammad
+120,2,10:41.0,33,37,DEN,MIN,0,away,FreeThrow,,,make1,1,S. Muhammad,
+121,2,10:22.0,33,37,DEN,MIN,19,home,LU,,3,miss2,0,J. Murray,
+122,2,10:21.0,33,37,DEN,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
+123,2,10:15.0,33,37,DEN,MIN,6,away,LostBall,steal,,turnover,,T. Jones,G. Harris
+124,2,10:09.0,35,37,DEN,MIN,6,home,DK,,0,make2,2,G. Harris,
+125,2,9:47.0,35,37,DEN,MIN,22,away,JS,,16,miss2,0,G. Dieng,
+126,2,9:46.0,35,37,DEN,MIN,1,home,DefReb,,,DefReb,,W. Barton,
+127,2,9:35.0,35,37,DEN,MIN,11,home,BadPass,steal,,turnover,,J. Murray,G. Dieng
+128,2,9:31.0,35,39,DEN,MIN,4,away,LU,assist,1,make2,2,S. Muhammad,K. Dunn
+129,2,9:31.0,35,39,DEN,MIN,0,home,Timeout,,,,,,
+130,2,9:13.0,35,39,DEN,MIN,18,home,JS,,24,miss3,0,J. Hernangómez,
+131,2,9:12.0,35,39,DEN,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
+132,2,8:48.0,35,42,DEN,MIN,24,away,JS,assist,23,make3,3,G. Dieng,K. Dunn
+133,2,8:33.0,37,42,DEN,MIN,15,home,JS,assist,2,make2,2,W. Barton,M. Plumlee
+134,2,8:14.0,37,42,DEN,MIN,19,away,JS,,10,miss2,0,G. Dieng,
+135,2,8:14.0,37,42,DEN,MIN,0,home,DefReb,,,DefReb,,G. Harris,
+136,2,8:08.0,37,42,DEN,MIN,6,home,LostBall,steal,,turnover,,M. Plumlee,T. Jones
+137,2,8:02.0,37,44,DEN,MIN,6,away,DK,assist,0,make2,2,S. Muhammad,G. Dieng
+138,2,7:51.0,37,44,DEN,MIN,11,home,LU,block,1,miss2,0,J. Murray,K. Dunn
+139,2,7:51.0,37,44,DEN,MIN,0,home,OffReb,,,OffReb,,Team,
+140,2,7:48.0,37,44,DEN,MIN,3,home,Sub,,,,,J. Nelson,M. Plumlee
+141,2,7:48.0,37,44,DEN,MIN,0,home,Sub,,,,,N. Jokić,J. Murray
+142,2,7:37.0,40,44,DEN,MIN,11,home,JS,assist,29,make3,3,G. Harris,J. Nelson
+143,2,7:24.0,40,44,DEN,MIN,13,away,JS,,21,miss2,0,T. Jones,
+144,2,7:22.0,40,44,DEN,MIN,2,home,DefReb,,,DefReb,,J. Nelson,
+145,2,7:18.0,40,44,DEN,MIN,4,home,JS,,26,miss3,0,W. Barton,
+146,2,7:17.0,40,44,DEN,MIN,1,away,DefReb,,,DefReb,,S. Muhammad,
+147,2,7:08.0,40,46,DEN,MIN,9,away,JS,,21,make2,2,K. Dunn,
+148,2,6:52.0,40,46,DEN,MIN,16,home,JS,,23,miss3,0,G. Harris,
+149,2,6:51.0,40,46,DEN,MIN,1,home,OffReb,,,OffReb,,N. Jokić,
+150,2,6:47.0,42,46,DEN,MIN,4,home,LU,,2,make2,2,N. Jokić,
+151,2,6:30.0,42,46,DEN,MIN,17,away,JS,,6,miss2,0,N. Bjelica,
+152,2,6:29.0,42,46,DEN,MIN,1,home,DefReb,,,DefReb,,N. Jokić,
+153,2,6:26.0,42,46,DEN,MIN,3,away,DefGoaltending,,,DefGoaltending,,S. Muhammad,
+154,2,6:26.0,44,46,DEN,MIN,0,home,LU,assist,2,make2,2,G. Harris,N. Jokić
+155,2,6:06.0,44,46,DEN,MIN,20,away,LU,block,2,miss2,0,G. Dieng,N. Jokić
+156,2,6:06.0,44,46,DEN,MIN,0,home,DefReb,,,DefReb,,N. Jokić,
+157,2,6:06.0,44,46,DEN,MIN,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Bjelica,N. Jokić
+158,2,6:06.0,44,46,DEN,MIN,0,home,Sub,,,,,J. Murray,G. Harris
+159,2,6:06.0,44,46,DEN,MIN,0,away,Sub,,,,,K. Towns,G. Dieng
+160,2,6:06.0,44,46,DEN,MIN,0,away,Sub,,,,,A. Wiggins,S. Muhammad
+161,2,6:06.0,44,46,DEN,MIN,0,away,Sub,,,,,R. Rubio,T. Jones
+162,2,5:52.0,47,46,DEN,MIN,14,home,JS,assist,25,make3,3,J. Nelson,J. Hernangómez
+163,2,5:33.0,47,48,DEN,MIN,19,away,JS,,4,make2,2,A. Wiggins,
+164,2,5:16.0,47,48,DEN,MIN,17,home,JS,,26,miss3,0,N. Jokić,
+165,2,5:14.0,47,48,DEN,MIN,2,away,DefReb,,,DefReb,,K. Dunn,
+166,2,4:59.0,47,48,DEN,MIN,15,away,JS,,26,miss3,0,R. Rubio,
+167,2,4:57.0,47,48,DEN,MIN,2,home,DefReb,,,DefReb,,J. Hernangómez,
+168,2,4:33.0,47,48,DEN,MIN,24,home,JS,,25,miss3,0,J. Nelson,
+169,2,4:33.0,47,48,DEN,MIN,0,home,OffReb,,,OffReb,,J. Murray,
+170,2,4:32.0,47,48,DEN,MIN,1,home,LU,block,1,miss2,0,J. Murray,K. Dunn
+171,2,4:31.0,47,48,DEN,MIN,1,home,OffReb,,,OffReb,,Team,
+172,2,4:31.0,47,48,DEN,MIN,0,away,Timeout,,,,,,
+173,2,4:12.0,50,48,DEN,MIN,19,home,JS,,25,make3,3,J. Murray,
+174,2,3:54.0,50,50,DEN,MIN,18,away,JS,,19,make2,2,A. Wiggins,
+175,2,3:40.0,53,50,DEN,MIN,14,home,JS,assist,27,make3,3,N. Jokić,W. Barton
+176,2,3:20.0,53,50,DEN,MIN,20,away,LU,block,3,miss2,0,K. Towns,N. Jokić
+177,2,3:20.0,53,50,DEN,MIN,0,away,OffReb,,,OffReb,,R. Rubio,
+178,2,3:06.0,53,52,DEN,MIN,14,away,JS,assist,17,make2,2,R. Rubio,K. Towns
+179,2,2:45.0,53,52,DEN,MIN,21,home,LostBall,steal,,turnover,,J. Murray,K. Dunn
+180,2,2:39.0,53,54,DEN,MIN,6,away,LU,assist,2,make2,2,A. Wiggins,K. Dunn
+181,2,2:27.0,53,54,DEN,MIN,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Towns,N. Jokić
+182,2,2:27.0,53,54,DEN,MIN,0,away,Timeout,,,,,,
+183,2,2:27.0,53,54,DEN,MIN,0,home,FreeThrow,,,make1,0,N. Jokić,
+184,2,2:27.0,53,54,DEN,MIN,0,home,OffReb,,,OffReb,,Team,
+185,2,2:27.0,53,54,DEN,MIN,0,home,Sub,,,,,G. Harris,J. Murray
+186,2,2:27.0,54,54,DEN,MIN,0,home,FreeThrow,,,make1,1,N. Jokić,
+187,2,2:21.0,54,54,DEN,MIN,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Nelson,R. Rubio
+188,2,2:21.0,54,55,DEN,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+189,2,2:21.0,54,55,DEN,MIN,0,home,Sub,,,,,M. Plumlee,J. Hernangómez
+190,2,2:21.0,54,56,DEN,MIN,0,away,FreeThrow,,,make1,1,R. Rubio,
+191,2,2:08.0,54,56,DEN,MIN,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,M. Plumlee
+192,2,2:08.0,55,56,DEN,MIN,0,home,FreeThrow,,,make1,1,M. Plumlee,
+193,2,2:08.0,55,56,DEN,MIN,0,away,Sub,,,,,G. Dieng,N. Bjelica
+194,2,2:08.0,56,56,DEN,MIN,0,home,FreeThrow,,,make1,1,M. Plumlee,
+195,2,1:59.0,56,56,DEN,MIN,9,away,JS,,4,miss2,0,G. Dieng,
+196,2,1:58.0,56,56,DEN,MIN,1,away,OffReb,,,OffReb,,K. Towns,
+197,2,1:54.0,56,56,DEN,MIN,4,away,HS,,4,miss2,0,K. Towns,
+198,2,1:53.0,56,56,DEN,MIN,1,home,DefReb,,,DefReb,,M. Plumlee,
+199,2,1:40.0,56,56,DEN,MIN,13,home,JS,,16,miss2,0,N. Jokić,
+200,2,1:40.0,56,56,DEN,MIN,0,away,DefReb,,,DefReb,,K. Dunn,
+201,2,1:34.0,56,58,DEN,MIN,6,away,HS,assist,4,make2,2,K. Towns,K. Dunn
+202,2,1:22.0,56,58,DEN,MIN,12,home,JS,,16,miss2,0,W. Barton,
+203,2,1:21.0,56,58,DEN,MIN,1,away,DefReb,,,DefReb,,K. Towns,
+204,2,1:19.0,56,58,DEN,MIN,2,away,BadPass,steal,,turnover,,R. Rubio,G. Harris
+205,2,1:12.0,56,58,DEN,MIN,7,home,LU,,2,miss2,0,N. Jokić,
+206,2,1:11.0,56,58,DEN,MIN,1,home,OffReb,,,OffReb,,N. Jokić,
+207,2,1:10.0,56,58,DEN,MIN,1,home,LU,,2,miss2,0,N. Jokić,
+208,2,1:09.0,56,58,DEN,MIN,1,away,DefReb,,,DefReb,,K. Towns,
+209,2,1:09.0,56,58,DEN,MIN,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Jokić,K. Towns
+210,2,0:56.0,56,60,DEN,MIN,13,away,JS,,15,make2,2,A. Wiggins,
+211,2,0:47.0,56,60,DEN,MIN,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dieng,W. Barton
+212,2,0:47.0,57,60,DEN,MIN,0,home,FreeThrow,,,make1,1,W. Barton,
+213,2,0:47.0,57,60,DEN,MIN,0,away,Sub,,,,,N. Bjelica,G. Dieng
+214,2,0:47.0,57,60,DEN,MIN,0,home,Sub,,,,,J. Hernangómez,N. Jokić
+215,2,0:47.0,58,60,DEN,MIN,0,home,FreeThrow,,,make1,1,W. Barton,
+216,2,0:25.0,58,60,DEN,MIN,22,away,LU,block,2,miss2,0,N. Bjelica,M. Plumlee
+217,2,0:23.0,58,60,DEN,MIN,2,away,OffReb,,,OffReb,,N. Bjelica,
+218,2,0:21.0,58,62,DEN,MIN,2,away,LU,,1,make2,2,N. Bjelica,
+219,2,0:00.0,60,62,DEN,MIN,21,home,JS,assist,11,make2,2,G. Harris,J. Nelson
+220,3,11:41.0,60,64,DEN,MIN,19,away,LU,assist,2,make2,2,K. Towns,R. Rubio
+221,3,11:30.0,60,64,DEN,MIN,11,away,KickBallViolation,,,KickBallViolation,,G. Dieng,
+222,3,11:17.0,60,64,DEN,MIN,13,home,LU,,2,miss2,0,J. Nelson,
+223,3,11:16.0,60,64,DEN,MIN,1,home,OffReb,,,OffReb,,J. Nelson,
+224,3,11:02.0,60,64,DEN,MIN,14,home,JS,,20,miss2,0,G. Harris,
+225,3,11:00.0,60,64,DEN,MIN,2,away,DefReb,,,DefReb,,K. Towns,
+226,3,10:43.0,60,64,DEN,MIN,17,away,JS,,19,miss2,0,K. Towns,
+227,3,10:42.0,60,64,DEN,MIN,1,home,DefReb,,,DefReb,,M. Plumlee,
+228,3,10:36.0,60,64,DEN,MIN,6,home,LU,,2,miss2,0,G. Harris,
+229,3,10:35.0,60,64,DEN,MIN,1,away,DefReb,,,DefReb,,R. Rubio,
+230,3,10:33.0,60,64,DEN,MIN,2,away,LU,,3,miss2,0,A. Wiggins,
+231,3,10:32.0,60,64,DEN,MIN,1,home,DefReb,,,DefReb,,N. Jokić,
+232,3,10:31.0,60,64,DEN,MIN,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,N. Jokić
+233,3,10:20.0,60,64,DEN,MIN,11,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Hernangómez,A. Wiggins
+234,3,10:20.0,60,64,DEN,MIN,0,home,OffensiveFoul,,,turnover,,J. Hernangómez,
+235,3,10:14.0,60,64,DEN,MIN,6,away,JS,,18,miss2,0,A. Wiggins,
+236,3,10:13.0,60,64,DEN,MIN,1,home,DefReb,,,DefReb,,M. Plumlee,
+237,3,10:02.0,60,64,DEN,MIN,11,home,JS,,25,miss3,0,J. Hernangómez,
+238,3,10:01.0,60,64,DEN,MIN,1,home,OffReb,,,OffReb,,M. Plumlee,
+239,3,9:43.0,60,64,DEN,MIN,18,home,HS,,5,miss2,0,N. Jokić,
+240,3,9:41.0,60,64,DEN,MIN,2,away,DefReb,,,DefReb,,K. Towns,
+241,3,9:27.0,60,66,DEN,MIN,14,away,LU,,0,make2,2,K. Towns,
+242,3,9:12.0,60,66,DEN,MIN,15,home,LU,,1,miss2,0,J. Nelson,
+243,3,9:11.0,60,66,DEN,MIN,1,away,DefReb,,,DefReb,,K. Towns,
+244,3,9:03.0,60,68,DEN,MIN,8,away,LU,,1,make2,2,A. Wiggins,
+245,3,9:03.0,60,68,DEN,MIN,0,home,Timeout,,,,,,
+246,3,9:03.0,60,68,DEN,MIN,0,home,Sub,,,,,W. Barton,J. Hernangómez
+247,3,8:49.0,62,68,DEN,MIN,14,home,JS,assist,20,make2,2,W. Barton,J. Nelson
+248,3,8:34.0,62,68,DEN,MIN,15,away,LU,block,2,miss2,0,A. Wiggins,W. Barton
+249,3,8:33.0,62,68,DEN,MIN,1,home,DefReb,,,DefReb,,Team,
+250,3,8:21.0,62,68,DEN,MIN,12,home,JS,,25,miss3,0,W. Barton,
+251,3,8:20.0,62,68,DEN,MIN,1,away,DefReb,,,DefReb,,B. Rush,
+252,3,8:08.0,62,68,DEN,MIN,12,away,JS,,14,miss2,0,B. Rush,
+253,3,8:08.0,62,68,DEN,MIN,0,home,DefReb,,,DefReb,,Team,
+254,3,7:59.0,62,68,DEN,MIN,9,home,JS,,6,miss2,0,W. Barton,
+255,3,7:58.0,62,68,DEN,MIN,1,away,DefReb,,,DefReb,,K. Towns,
+256,3,7:48.0,62,68,DEN,MIN,10,away,JS,,24,miss3,0,G. Dieng,
+257,3,7:47.0,62,68,DEN,MIN,1,home,DefReb,,,DefReb,,W. Barton,
+258,3,7:44.0,62,68,DEN,MIN,3,home,LU,,1,miss2,0,W. Barton,
+259,3,7:43.0,62,68,DEN,MIN,1,home,OffReb,,,OffReb,,W. Barton,
+260,3,7:41.0,64,68,DEN,MIN,2,home,LU,,2,make2,2,W. Barton,
+261,3,7:41.0,64,68,DEN,MIN,0,away,Timeout,,,,,,
+262,3,7:17.0,64,68,DEN,MIN,24,away,JS,,13,miss2,0,K. Towns,
+263,3,7:17.0,64,68,DEN,MIN,0,home,DefReb,,,DefReb,,M. Plumlee,
+264,3,6:53.0,64,68,DEN,MIN,24,home,JS,,5,miss2,0,N. Jokić,
+265,3,6:53.0,64,68,DEN,MIN,0,away,DefReb,,,DefReb,,K. Towns,
+266,3,6:44.0,64,68,DEN,MIN,9,away,JS,,8,miss2,0,G. Dieng,
+267,3,6:44.0,64,68,DEN,MIN,0,home,DefReb,,,DefReb,,N. Jokić,
+268,3,6:37.0,64,68,DEN,MIN,7,home,LU,,2,miss2,0,N. Jokić,
+269,3,6:33.0,64,68,DEN,MIN,4,home,OffReb,,,OffReb,,N. Jokić,
+270,3,6:32.0,64,68,DEN,MIN,1,home,LU,,0,miss2,0,N. Jokić,
+271,3,6:32.0,64,68,DEN,MIN,0,away,DefReb,,,DefReb,,K. Towns,
+272,3,6:27.0,64,70,DEN,MIN,5,away,DK,assist,0,make2,2,G. Dieng,B. Rush
+273,3,6:06.0,64,70,DEN,MIN,21,away,DefGoaltending,,,DefGoaltending,,G. Dieng,
+274,3,6:06.0,66,70,DEN,MIN,0,home,LU,,1,make2,2,J. Nelson,
+275,3,5:53.0,66,70,DEN,MIN,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nelson,K. Towns
+276,3,5:53.0,66,70,DEN,MIN,0,away,FreeThrow,,,make1,0,K. Towns,
+277,3,5:53.0,66,70,DEN,MIN,0,away,OffReb,,,OffReb,,Team,
+278,3,5:53.0,66,71,DEN,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
+279,3,5:30.0,66,71,DEN,MIN,23,home,JS,,23,miss3,0,J. Nelson,
+280,3,5:29.0,66,71,DEN,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
+281,3,5:20.0,66,71,DEN,MIN,9,away,JS,,25,miss3,0,A. Wiggins,
+282,3,5:19.0,66,71,DEN,MIN,1,home,DefReb,,,DefReb,,N. Jokić,
+283,3,5:13.0,66,71,DEN,MIN,6,home,JS,,21,miss2,0,N. Jokić,
+284,3,5:11.0,66,71,DEN,MIN,2,away,DefReb,,,DefReb,,K. Towns,
+285,3,4:52.0,66,71,DEN,MIN,19,away,LU,,2,miss2,0,K. Towns,
+286,3,4:52.0,66,71,DEN,MIN,0,home,DefReb,,,DefReb,,N. Jokić,
+287,3,4:46.0,68,71,DEN,MIN,6,home,LU,assist,3,make2,2,G. Harris,N. Jokić
+288,3,4:30.0,68,71,DEN,MIN,16,away,JS,,25,miss3,0,R. Rubio,
+289,3,4:28.0,68,71,DEN,MIN,2,home,DefReb,,,DefReb,,G. Harris,
+290,3,4:18.0,68,71,DEN,MIN,10,home,JS,,25,miss3,0,W. Barton,
+291,3,4:17.0,68,71,DEN,MIN,1,away,DefReb,,,DefReb,,Team,
+292,3,4:17.0,68,71,DEN,MIN,0,home,Sub,,,,,J. Murray,G. Harris
+293,3,4:04.0,68,71,DEN,MIN,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,K. Towns
+294,3,4:04.0,68,72,DEN,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
+295,3,4:04.0,68,73,DEN,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
+296,3,3:55.0,68,73,DEN,MIN,9,home,JS,,26,miss3,0,J. Murray,
+297,3,3:54.0,68,73,DEN,MIN,1,away,DefReb,,,DefReb,,Team,
+298,3,3:35.0,68,73,DEN,MIN,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,A. Wiggins
+299,3,3:35.0,68,74,DEN,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
+300,3,3:35.0,68,74,DEN,MIN,0,home,Sub,,,,,J. O'Bryant,N. Jokić
+301,3,3:35.0,68,74,DEN,MIN,0,away,Sub,,,,,N. Bjelica,K. Towns
+302,3,3:35.0,68,75,DEN,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
+303,3,3:22.0,68,75,DEN,MIN,13,home,HS,,3,miss2,0,J. O'Bryant,
+304,3,3:21.0,68,75,DEN,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
+305,3,3:12.0,68,77,DEN,MIN,9,away,JS,assist,17,make2,2,A. Wiggins,R. Rubio
+306,3,3:02.0,68,77,DEN,MIN,10,home,BadPass,steal,,turnover,,J. Nelson,B. Rush
+307,3,2:53.0,68,77,DEN,MIN,9,away,JS,,24,miss3,0,B. Rush,
+308,3,2:52.0,68,77,DEN,MIN,1,home,DefReb,,,DefReb,,J. Nelson,
+309,3,2:46.0,71,77,DEN,MIN,6,home,JS,assist,23,make3,3,J. Murray,J. Nelson
+310,3,2:32.0,71,79,DEN,MIN,14,away,LU,assist,2,make2,2,B. Rush,R. Rubio
+311,3,2:15.0,73,79,DEN,MIN,17,home,LU,assist,2,make2,2,M. Plumlee,J. Nelson
+312,3,1:53.0,73,81,DEN,MIN,22,away,JS,assist,17,make2,2,G. Dieng,N. Bjelica
+313,3,1:37.0,75,81,DEN,MIN,16,home,JS,assist,14,make2,2,J. Nelson,M. Plumlee
+314,3,1:21.0,75,81,DEN,MIN,16,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Wiggins,J. Nelson
+315,3,1:21.0,75,81,DEN,MIN,0,away,OffensiveFoul,,,turnover,,A. Wiggins,
+316,3,1:21.0,75,81,DEN,MIN,0,home,Sub,,,,,G. Harris,J. Nelson
+317,3,1:21.0,75,81,DEN,MIN,0,home,Sub,,,,,J. Hernangómez,M. Plumlee
+318,3,1:21.0,75,81,DEN,MIN,0,away,Sub,,,,,S. Muhammad,B. Rush
+319,3,1:09.0,75,81,DEN,MIN,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,W. Barton
+320,3,1:09.0,76,81,DEN,MIN,0,home,FreeThrow,,,make1,1,W. Barton,
+321,3,1:09.0,76,81,DEN,MIN,0,home,FreeThrow,,,make1,0,W. Barton,
+322,3,1:09.0,76,81,DEN,MIN,0,away,Sub,,,,,K. Dunn,R. Rubio
+323,3,1:07.0,76,81,DEN,MIN,2,home,OffReb,,,OffReb,,J. O'Bryant,
+324,3,0:52.0,79,81,DEN,MIN,15,home,JS,,24,make3,3,J. Murray,
+325,3,0:49.0,79,81,DEN,MIN,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. O'Bryant,A. Wiggins
+326,3,0:49.0,79,82,DEN,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
+327,3,0:49.0,79,83,DEN,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
+328,3,0:27.0,79,83,DEN,MIN,22,home,JS,,23,miss3,0,J. Hernangómez,
+329,3,0:26.0,79,83,DEN,MIN,1,away,DefReb,,,DefReb,,K. Dunn,
+330,3,0:06.0,79,85,DEN,MIN,20,away,DK,,0,make2,2,A. Wiggins,
+331,3,0:00.0,79,85,DEN,MIN,6,home,LostBall,steal,,turnover,,J. Murray,G. Dieng
+332,4,11:43.0,79,85,DEN,MIN,17,home,LU,,2,miss2,0,G. Harris,
+333,4,11:42.0,79,85,DEN,MIN,1,away,DefReb,,,DefReb,,N. Bjelica,
+334,4,11:32.0,79,85,DEN,MIN,10,away,JS,,21,miss2,0,K. Dunn,
+335,4,11:30.0,79,85,DEN,MIN,2,home,DefReb,,,DefReb,,W. Barton,
+336,4,11:22.0,79,85,DEN,MIN,8,home,LU,,3,miss2,0,W. Barton,
+337,4,11:21.0,79,85,DEN,MIN,1,away,DefReb,,,DefReb,,K. Towns,
+338,4,11:03.0,79,85,DEN,MIN,18,away,JS,,11,miss2,0,S. Muhammad,
+339,4,11:03.0,79,85,DEN,MIN,0,home,DefReb,,,DefReb,,W. Barton,
+340,4,10:54.0,79,85,DEN,MIN,9,home,JS,,12,miss2,0,M. Plumlee,
+341,4,10:53.0,79,85,DEN,MIN,1,away,DefReb,,,DefReb,,K. Towns,
+342,4,10:44.0,79,85,DEN,MIN,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Harris,T. Jones
+343,4,10:30.0,79,85,DEN,MIN,14,away,JS,,25,miss3,0,T. Jones,
+344,4,10:29.0,79,85,DEN,MIN,1,home,DefReb,,,DefReb,,J. Murray,
+345,4,10:24.0,79,85,DEN,MIN,5,home,DK,,0,miss2,0,G. Harris,
+346,4,10:23.0,79,85,DEN,MIN,1,away,DefReb,,,DefReb,,S. Muhammad,
+347,4,10:09.0,79,87,DEN,MIN,14,away,LU,,2,make2,2,S. Muhammad,
+348,4,9:48.0,81,87,DEN,MIN,21,home,JS,,16,make2,2,W. Barton,
+349,4,9:33.0,81,89,DEN,MIN,15,away,LU,assist,2,make2,2,T. Jones,K. Towns
+350,4,9:18.0,81,89,DEN,MIN,15,home,JS,,23,miss3,0,J. Murray,
+351,4,9:17.0,81,89,DEN,MIN,1,home,OffReb,,,OffReb,,G. Harris,
+352,4,9:10.0,81,89,DEN,MIN,7,home,LU,,1,miss2,0,M. Plumlee,
+353,4,9:09.0,81,89,DEN,MIN,1,away,DefReb,,,DefReb,,K. Towns,
+354,4,8:55.0,81,92,DEN,MIN,14,away,JS,assist,27,make3,3,N. Bjelica,S. Muhammad
+355,4,8:55.0,81,92,DEN,MIN,0,home,Timeout,,,,,,
+356,4,8:55.0,81,92,DEN,MIN,0,home,Sub,,,,,N. Jokić,M. Plumlee
+357,4,8:32.0,81,92,DEN,MIN,23,home,JS,,28,miss3,0,J. Murray,
+358,4,8:31.0,81,92,DEN,MIN,1,away,DefReb,,,DefReb,,K. Towns,
+359,4,8:05.0,81,92,DEN,MIN,26,away,JS,,6,miss2,0,K. Towns,
+360,4,8:05.0,81,92,DEN,MIN,0,home,DefReb,,,DefReb,,N. Jokić,
+361,4,7:53.0,84,92,DEN,MIN,12,home,JS,assist,25,make3,3,G. Harris,N. Jokić
+362,4,7:33.0,84,92,DEN,MIN,20,away,LU,block,2,miss2,0,K. Towns,N. Jokić
+363,4,7:32.0,84,92,DEN,MIN,1,home,DefReb,,,DefReb,,W. Barton,
+364,4,7:31.0,84,92,DEN,MIN,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Bjelica,W. Barton
+365,4,7:31.0,84,92,DEN,MIN,0,away,Sub,,,,,A. Wiggins,T. Jones
+366,4,7:16.0,87,92,DEN,MIN,15,home,JS,assist,26,make3,3,G. Harris,W. Barton
+367,4,6:55.0,87,92,DEN,MIN,21,away,JS,,25,miss3,0,S. Muhammad,
+368,4,6:54.0,87,92,DEN,MIN,1,home,DefReb,,,DefReb,,W. Barton,
+369,4,6:44.0,87,92,DEN,MIN,10,home,JS,,25,miss3,0,W. Barton,
+370,4,6:43.0,87,92,DEN,MIN,1,away,DefReb,,,DefReb,,A. Wiggins,
+371,4,6:26.0,87,94,DEN,MIN,17,away,LU,,3,make2,2,K. Towns,
+372,4,6:14.0,87,94,DEN,MIN,12,home,HS,,4,miss2,0,N. Jokić,
+373,4,6:13.0,87,94,DEN,MIN,1,away,DefReb,,,DefReb,,Team,
+374,4,6:13.0,87,94,DEN,MIN,0,away,Sub,,,,,R. Rubio,K. Dunn
+375,4,6:13.0,87,94,DEN,MIN,0,away,Sub,,,,,B. Rush,S. Muhammad
+376,4,6:13.0,87,94,DEN,MIN,0,home,Sub,,,,,J. Nelson,J. Murray
+377,4,5:59.0,87,96,DEN,MIN,14,away,JS,,19,make2,2,A. Wiggins,
+378,4,5:47.0,89,96,DEN,MIN,12,home,LU,assist,3,make2,2,W. Barton,J. Nelson
+379,4,5:29.0,89,98,DEN,MIN,18,away,DK,,0,make2,2,A. Wiggins,
+380,4,5:29.0,89,98,DEN,MIN,0,home,Timeout,,,,,,
+381,4,5:29.0,89,98,DEN,MIN,0,away,Timeout,,,,,,
+382,4,5:29.0,89,98,DEN,MIN,0,home,Sub,,,,,M. Plumlee,J. Hernangómez
+383,4,5:16.0,92,98,DEN,MIN,13,home,JS,assist,24,make3,3,N. Jokić,G. Harris
+384,4,5:01.0,92,98,DEN,MIN,15,away,JS,,16,miss2,0,A. Wiggins,
+385,4,5:00.0,92,98,DEN,MIN,1,home,DefReb,,,DefReb,,J. Nelson,
+386,4,4:59.0,92,98,DEN,MIN,1,home,LostBall,steal,,turnover,,J. Nelson,R. Rubio
+387,4,4:46.0,92,100,DEN,MIN,13,away,DK,assist,0,make2,2,B. Rush,A. Wiggins
+388,4,4:34.0,92,100,DEN,MIN,12,home,JS,,25,miss3,0,J. Nelson,
+389,4,4:33.0,92,100,DEN,MIN,1,away,DefReb,,,DefReb,,K. Towns,
+390,4,4:17.0,92,100,DEN,MIN,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nelson,A. Wiggins
+391,4,4:17.0,92,101,DEN,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
+392,4,4:17.0,92,101,DEN,MIN,0,away,FreeThrow,,,make1,0,A. Wiggins,
+393,4,4:16.0,92,101,DEN,MIN,1,home,DefReb,,,DefReb,,J. Nelson,
+394,4,4:03.0,92,101,DEN,MIN,13,away,DefGoaltending,,,DefGoaltending,,K. Towns,
+395,4,4:03.0,94,101,DEN,MIN,0,home,JS,,5,make2,2,N. Jokić,
+396,4,3:45.0,94,101,DEN,MIN,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Barton,A. Wiggins
+397,4,3:45.0,94,101,DEN,MIN,0,away,FreeThrow,,,make1,0,A. Wiggins,
+398,4,3:45.0,94,101,DEN,MIN,0,away,OffReb,,,OffReb,,Team,
+399,4,3:45.0,94,102,DEN,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
+400,4,3:35.0,94,102,DEN,MIN,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Rush,G. Harris
+401,4,3:35.0,94,102,DEN,MIN,0,home,FreeThrow,,,make1,0,G. Harris,
+402,4,3:35.0,94,102,DEN,MIN,0,home,OffReb,,,OffReb,,Team,
+403,4,3:35.0,95,102,DEN,MIN,0,home,FreeThrow,,,make1,1,G. Harris,
+404,4,3:21.0,95,102,DEN,MIN,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Plumlee,K. Towns
+405,4,3:06.0,95,105,DEN,MIN,15,away,JS,assist,23,make3,3,B. Rush,R. Rubio
+406,4,2:56.0,97,105,DEN,MIN,10,home,LU,assist,1,make2,2,W. Barton,N. Jokić
+407,4,2:56.0,97,105,DEN,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Towns,W. Barton
+408,4,2:56.0,97,105,DEN,MIN,0,away,Timeout,,,,,,
+409,4,2:56.0,98,105,DEN,MIN,0,home,FreeThrow,,,make1,1,W. Barton,
+410,4,2:37.0,98,105,DEN,MIN,19,away,JS,,24,miss3,0,A. Wiggins,
+411,4,2:37.0,98,105,DEN,MIN,0,home,DefReb,,,DefReb,,J. Nelson,
+412,4,2:25.0,98,105,DEN,MIN,12,home,LostBall,steal,,turnover,,G. Harris,B. Rush
+413,4,2:06.0,98,105,DEN,MIN,19,away,Traveling,,,turnover,,B. Rush,
+414,4,1:53.0,98,105,DEN,MIN,13,home,LostBall,steal,,turnover,,N. Jokić,K. Towns
+415,4,1:49.0,98,105,DEN,MIN,4,away,LU,,2,miss2,0,A. Wiggins,
+416,4,1:49.0,98,105,DEN,MIN,0,away,OffReb,,,OffReb,,N. Bjelica,
+417,4,1:49.0,98,107,DEN,MIN,0,away,LU,,2,make2,2,N. Bjelica,
+418,4,1:49.0,98,107,DEN,MIN,0,home,Timeout,,,,,,
+419,4,1:39.0,98,107,DEN,MIN,10,home,LU,block,2,miss2,0,G. Harris,B. Rush
+420,4,1:38.0,98,107,DEN,MIN,1,home,OffReb,,,OffReb,,Team,
+421,4,1:38.0,98,107,DEN,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rubio,M. Plumlee
+422,4,1:38.0,98,107,DEN,MIN,0,home,FreeThrow,,,make1,0,M. Plumlee,
+423,4,1:38.0,98,107,DEN,MIN,0,home,OffReb,,,OffReb,,Team,
+424,4,1:38.0,98,107,DEN,MIN,0,home,FreeThrow,,,make1,0,M. Plumlee,
+425,4,1:35.0,98,107,DEN,MIN,3,home,OffReb,,,OffReb,,G. Harris,
+426,4,1:34.0,98,107,DEN,MIN,1,home,JS,,29,miss3,0,G. Harris,
+427,4,1:33.0,98,107,DEN,MIN,1,home,OffReb,,,OffReb,,M. Plumlee,
+428,4,1:32.0,98,107,DEN,MIN,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,M. Plumlee
+429,4,1:32.0,99,107,DEN,MIN,0,home,FreeThrow,,,make1,1,M. Plumlee,
+430,4,1:32.0,99,107,DEN,MIN,0,home,FreeThrow,,,make1,0,M. Plumlee,
+431,4,1:32.0,99,107,DEN,MIN,0,away,Sub,,,,,G. Dieng,N. Bjelica
+432,4,1:31.0,99,107,DEN,MIN,1,away,DefReb,,,DefReb,,A. Wiggins,
+433,4,1:30.0,99,107,DEN,MIN,1,home,TechnicalFoul,,,TechnicalFoul,,N. Jokić,
+434,4,1:30.0,99,108,DEN,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins makes technical free throw,
+435,4,1:13.0,99,108,DEN,MIN,17,away,JS,,25,miss3,0,R. Rubio,
+436,4,1:13.0,99,108,DEN,MIN,0,home,DefReb,,,DefReb,,M. Plumlee,
+437,4,1:07.0,99,108,DEN,MIN,6,home,JS,,26,miss3,0,J. Nelson,
+438,4,1:04.0,99,108,DEN,MIN,3,away,DefReb,,,DefReb,,R. Rubio,
+439,4,1:04.0,99,108,DEN,MIN,0,away,Timeout,,,,,,
+440,4,1:04.0,99,108,DEN,MIN,0,away,Sub,,,,,N. Bjelica,G. Dieng
+441,4,1:04.0,99,108,DEN,MIN,0,home,Sub,,,,,J. Hernangómez,N. Jokić
+442,4,1:04.0,99,108,DEN,MIN,0,away,Timeout,,,,,,
+443,4,1:04.0,99,108,DEN,MIN,0,away,Sub,,,,,T. Jones,B. Rush
+444,4,1:03.0,99,110,DEN,MIN,1,away,LU,assist,1,make2,2,T. Jones,R. Rubio
+445,4,1:02.0,99,110,DEN,MIN,1,home,Sub,,,,,N. Jokić,M. Plumlee
+446,4,0:52.0,99,110,DEN,MIN,10,home,JS,,26,miss3,0,J. Hernangómez,
+447,4,0:51.0,99,110,DEN,MIN,1,away,DefReb,,,DefReb,,A. Wiggins,
+448,4,0:32.0,99,110,DEN,MIN,19,away,JS,,23,miss3,0,T. Jones,
+449,4,0:31.0,99,110,DEN,MIN,1,away,OffReb,,,OffReb,,K. Towns,
+450,4,0:30.0,99,110,DEN,MIN,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,K. Towns
+451,4,0:30.0,99,111,DEN,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
+452,4,0:30.0,99,110,DEN,MIN,0,home,Sub,,,,,M. Plumlee,N. Jokić
+453,4,0:30.0,99,112,DEN,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
+454,4,0:21.0,99,112,DEN,MIN,9,home,BadPass,steal,,turnover,,J. Nelson,R. Rubio

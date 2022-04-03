@@ -1,0 +1,558 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:40.0,0,0,LAC,POR,20,home,LostBall,,,turnover,,J. Redick,
+1,1,11:22.0,0,2,LAC,POR,18,away,JS,assist,16,make2,2,N. Vonleh,C. McCollum
+2,1,11:11.0,0,2,LAC,POR,11,home,JS,,16,miss2,0,J. Redick,
+3,1,11:10.0,0,2,LAC,POR,1,away,DefReb,,,DefReb,,M. Plumlee,
+4,1,10:57.0,0,2,LAC,POR,13,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Plumlee,B. Griffin
+5,1,10:57.0,0,2,LAC,POR,0,away,OffensiveFoul,,,turnover,,M. Plumlee,
+6,1,10:46.0,0,2,LAC,POR,11,home,HS,,6,miss2,0,B. Griffin,
+7,1,10:44.0,0,2,LAC,POR,2,away,DefReb,,,DefReb,,A. Aminu,
+8,1,10:37.0,0,2,LAC,POR,7,away,JS,,20,miss2,0,N. Vonleh,
+9,1,10:36.0,0,2,LAC,POR,1,home,DefReb,,,DefReb,,D. Jordan,
+10,1,10:24.0,2,2,LAC,POR,12,home,JS,assist,13,make2,2,C. Paul,B. Griffin
+11,1,9:58.0,2,2,LAC,POR,26,away,JS,,17,miss2,0,N. Vonleh,
+12,1,9:58.0,2,2,LAC,POR,0,away,OffReb,,,OffReb,,Team,
+13,1,9:58.0,2,2,LAC,POR,0,away,ShotClockViolation,,,turnover,,Team,
+14,1,9:50.0,4,2,LAC,POR,8,home,JS,,16,make2,2,C. Paul,
+15,1,9:32.0,4,2,LAC,POR,18,away,JS,,12,miss2,0,C. McCollum,
+16,1,9:31.0,4,2,LAC,POR,1,away,OffReb,,,OffReb,,Team,
+17,1,9:14.0,4,2,LAC,POR,17,away,JS,,19,miss2,0,A. Aminu,
+18,1,9:13.0,4,2,LAC,POR,1,home,DefReb,,,DefReb,,D. Jordan,
+19,1,9:04.0,6,2,LAC,POR,9,home,DK,assist,0,make2,2,D. Jordan,C. Paul
+20,1,8:47.0,6,2,LAC,POR,17,away,JS,,28,miss3,0,D. Lillard,
+21,1,8:46.0,6,2,LAC,POR,1,home,DefReb,,,DefReb,,D. Jordan,
+22,1,8:36.0,6,2,LAC,POR,10,home,JS,,22,miss2,0,B. Griffin,
+23,1,8:36.0,6,2,LAC,POR,0,home,OffReb,,,OffReb,,C. Paul,
+24,1,8:26.0,6,2,LAC,POR,10,home,JS,,18,miss2,0,B. Griffin,
+25,1,8:26.0,6,2,LAC,POR,0,home,OffReb,,,OffReb,,D. Jordan,
+26,1,8:25.0,8,2,LAC,POR,1,home,LU,,1,make2,2,D. Jordan,
+27,1,8:25.0,8,2,LAC,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,D. Jordan
+28,1,8:25.0,8,2,LAC,POR,0,away,Sub,,,,,E. Davis,M. Plumlee
+29,1,8:25.0,9,2,LAC,POR,0,home,FreeThrow,,,make1,1,D. Jordan,
+30,1,8:08.0,9,2,LAC,POR,17,away,JS,,16,miss2,0,C. McCollum,
+31,1,8:08.0,9,2,LAC,POR,0,home,DefReb,,,DefReb,,L. Mbah a Moute,
+32,1,7:56.0,11,2,LAC,POR,12,home,DK,assist,0,make2,2,D. Jordan,L. Mbah a Moute
+33,1,7:55.0,11,2,LAC,POR,1,away,Timeout,,,,,,
+34,1,7:32.0,11,2,LAC,POR,23,away,LU,,1,miss2,0,A. Aminu,
+35,1,7:31.0,11,2,LAC,POR,1,home,DefReb,,,DefReb,,D. Jordan,
+36,1,7:13.0,11,2,LAC,POR,18,home,LU,,2,miss2,0,B. Griffin,
+37,1,7:12.0,11,2,LAC,POR,1,home,OffReb,,,OffReb,,B. Griffin,
+38,1,7:11.0,13,2,LAC,POR,1,home,LU,,2,make2,2,B. Griffin,
+39,1,6:57.0,13,2,LAC,POR,14,away,BadPass,steal,,turnover,,D. Lillard,B. Griffin
+40,1,6:54.0,13,2,LAC,POR,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vonleh,D. Jordan
+41,1,6:54.0,13,2,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+42,1,6:54.0,13,2,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+43,1,6:54.0,13,2,LAC,POR,0,away,Sub,,,,,M. Leonard,N. Vonleh
+44,1,6:54.0,13,2,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+45,1,6:52.0,13,2,LAC,POR,2,away,DefReb,,,DefReb,,C. McCollum,
+46,1,6:43.0,13,4,LAC,POR,9,away,JS,,17,make2,2,D. Lillard,
+47,1,6:23.0,16,4,LAC,POR,20,home,JS,assist,23,make3,3,J. Redick,C. Paul
+48,1,6:10.0,16,4,LAC,POR,13,away,JS,block,5,miss2,0,D. Lillard,D. Jordan
+49,1,6:07.0,16,4,LAC,POR,3,home,DefReb,,,DefReb,,D. Jordan,
+50,1,6:03.0,19,4,LAC,POR,4,home,JS,assist,24,make3,3,J. Redick,C. Paul
+51,1,5:42.0,19,7,LAC,POR,21,away,JS,assist,25,make3,3,A. Aminu,C. McCollum
+52,1,5:22.0,19,7,LAC,POR,20,home,JS,,20,miss2,0,B. Griffin,
+53,1,5:20.0,19,7,LAC,POR,2,away,DefReb,,,DefReb,,Team,
+54,1,5:06.0,19,7,LAC,POR,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Paul,E. Davis
+55,1,5:06.0,19,7,LAC,POR,0,away,FreeThrow,,,make1,0,E. Davis,
+56,1,5:06.0,19,7,LAC,POR,0,away,OffReb,,,OffReb,,Team,
+57,1,5:06.0,19,8,LAC,POR,0,away,FreeThrow,,,make1,1,E. Davis,
+58,1,4:53.0,19,8,LAC,POR,13,home,JS,,13,miss2,0,J. Redick,
+59,1,4:53.0,19,8,LAC,POR,0,home,OffReb,,,OffReb,,D. Jordan,
+60,1,4:49.0,19,8,LAC,POR,4,home,LU,,2,miss2,0,D. Jordan,
+61,1,4:47.0,19,8,LAC,POR,2,away,DefReb,,,DefReb,,M. Leonard,
+62,1,4:40.0,19,8,LAC,POR,7,away,HS,,12,miss2,0,E. Davis,
+63,1,4:38.0,19,8,LAC,POR,2,home,DefReb,,,DefReb,,D. Jordan,
+64,1,4:34.0,21,8,LAC,POR,4,home,DK,assist,0,make2,2,B. Griffin,C. Paul
+65,1,4:15.0,21,11,LAC,POR,19,away,JS,assist,27,make3,3,D. Lillard,C. McCollum
+66,1,4:00.0,21,11,LAC,POR,15,home,JS,,18,miss2,0,C. Paul,
+67,1,3:59.0,21,11,LAC,POR,1,away,DefReb,,,DefReb,,D. Lillard,
+68,1,3:52.0,21,11,LAC,POR,7,away,JS,,4,miss2,0,A. Aminu,
+69,1,3:51.0,21,11,LAC,POR,1,home,DefReb,,,DefReb,,B. Griffin,
+70,1,3:38.0,21,11,LAC,POR,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Leonard,B. Griffin
+71,1,3:38.0,21,11,LAC,POR,0,home,FreeThrow,,,make1,0,B. Griffin,
+72,1,3:38.0,21,11,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+73,1,3:38.0,21,11,LAC,POR,0,away,Sub,,,,,A. Crabbe,C. McCollum
+74,1,3:38.0,21,11,LAC,POR,0,away,Sub,,,,,M. Harkless,A. Aminu
+75,1,3:38.0,22,11,LAC,POR,0,home,FreeThrow,,,make1,1,B. Griffin,
+76,1,3:25.0,22,11,LAC,POR,13,away,JS,,26,miss3,0,D. Lillard,
+77,1,3:24.0,22,11,LAC,POR,1,home,DefReb,,,DefReb,,D. Jordan,
+78,1,3:12.0,24,11,LAC,POR,12,home,DK,assist,0,make2,2,B. Griffin,J. Redick
+79,1,2:55.0,24,11,LAC,POR,17,away,JS,,15,miss2,0,A. Crabbe,
+80,1,2:54.0,24,11,LAC,POR,1,away,OffReb,,,OffReb,,E. Davis,
+81,1,2:49.0,24,13,LAC,POR,5,away,HS,,5,make2,2,E. Davis,
+82,1,2:38.0,24,13,LAC,POR,11,home,JS,,20,miss2,0,B. Griffin,
+83,1,2:37.0,24,13,LAC,POR,1,home,OffReb,,,OffReb,,D. Jordan,
+84,1,2:35.0,24,13,LAC,POR,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,B. Griffin
+85,1,2:35.0,24,13,LAC,POR,0,home,Timeout,,,,,,
+86,1,2:35.0,24,13,LAC,POR,0,home,Sub,,,,,J. Crawford,L. Mbah a Moute
+87,1,2:35.0,24,13,LAC,POR,0,home,Sub,,,,,L. Stephenson,D. Jordan
+88,1,2:35.0,24,13,LAC,POR,0,home,Sub,,,,,J. Smith,J. Redick
+89,1,2:35.0,24,13,LAC,POR,0,home,FreeThrow,,,make1,0,B. Griffin,
+90,1,2:35.0,24,13,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+91,1,2:35.0,25,13,LAC,POR,0,home,FreeThrow,,,make1,1,B. Griffin,
+92,1,2:18.0,25,13,LAC,POR,17,away,JS,,17,miss2,0,M. Leonard,
+93,1,2:17.0,25,13,LAC,POR,1,home,DefReb,,,DefReb,,B. Griffin,
+94,1,2:12.0,25,13,LAC,POR,5,home,LostBall,,,turnover,,C. Paul,
+95,1,2:12.0,25,13,LAC,POR,0,home,Sub,,,,,A. Rivers,C. Paul
+96,1,2:12.0,25,13,LAC,POR,0,home,Sub,,,,,P. Pierce,B. Griffin
+97,1,1:57.0,25,15,LAC,POR,15,away,JS,,8,make2,2,D. Lillard,
+98,1,1:38.0,27,15,LAC,POR,19,home,JS,assist,16,make2,2,A. Rivers,J. Smith
+99,1,1:24.0,27,15,LAC,POR,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,M. Harkless
+100,1,1:24.0,27,15,LAC,POR,0,away,FreeThrow,,,make1,0,M. Harkless,
+101,1,1:24.0,27,15,LAC,POR,0,away,OffReb,,,OffReb,,Team,
+102,1,1:24.0,27,15,LAC,POR,0,away,FreeThrow,,,make1,0,M. Harkless,
+103,1,1:22.0,27,15,LAC,POR,2,home,DefReb,,,DefReb,,Team,
+104,1,1:12.0,27,15,LAC,POR,10,home,JS,,23,miss3,0,L. Stephenson,
+105,1,1:12.0,27,15,LAC,POR,0,home,OffReb,,,OffReb,,J. Smith,
+106,1,1:06.0,29,15,LAC,POR,6,home,LU,assist,3,make2,2,J. Crawford,J. Smith
+107,1,0:49.0,29,15,LAC,POR,17,away,JS,,5,miss2,0,D. Lillard,
+108,1,0:48.0,29,15,LAC,POR,1,away,OffReb,,,OffReb,,E. Davis,
+109,1,0:44.0,29,15,LAC,POR,4,away,LU,,2,miss2,0,E. Davis,
+110,1,0:43.0,29,15,LAC,POR,1,home,DefReb,,,DefReb,,L. Stephenson,
+111,1,0:39.0,29,15,LAC,POR,4,home,JS,,27,miss3,0,P. Pierce,
+112,1,0:38.0,29,15,LAC,POR,1,away,DefReb,,,DefReb,,M. Leonard,
+113,1,0:32.0,29,18,LAC,POR,6,away,JS,assist,24,make3,3,A. Crabbe,M. Harkless
+114,1,0:10.0,29,18,LAC,POR,22,home,JS,,15,miss2,0,P. Pierce,
+115,1,0:09.0,29,18,LAC,POR,1,away,DefReb,,,DefReb,,D. Lillard,
+116,1,0:03.0,29,18,LAC,POR,6,away,JS,,30,miss3,0,D. Lillard,
+117,1,0:00.0,29,18,LAC,POR,3,away,OffReb,,,OffReb,,Team,
+118,2,11:45.0,29,18,LAC,POR,15,away,JS,,25,miss3,0,C. McCollum,
+119,2,11:44.0,29,18,LAC,POR,1,away,OffReb,,,OffReb,,M. Harkless,
+120,2,11:43.0,29,18,LAC,POR,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,E. Davis
+121,2,11:43.0,29,19,LAC,POR,0,away,FreeThrow,,,make1,1,E. Davis,
+122,2,11:43.0,29,20,LAC,POR,0,away,FreeThrow,,,make1,1,E. Davis,
+123,2,11:24.0,29,20,LAC,POR,19,home,JS,,3,miss2,0,A. Rivers,
+124,2,11:23.0,29,20,LAC,POR,1,away,DefReb,,,DefReb,,M. Leonard,
+125,2,11:05.0,29,20,LAC,POR,18,away,JS,,17,miss2,0,C. McCollum,
+126,2,11:04.0,29,20,LAC,POR,1,home,DefReb,,,DefReb,,L. Stephenson,
+127,2,10:58.0,31,20,LAC,POR,6,home,LU,assist,3,make2,2,J. Smith,L. Stephenson
+128,2,10:42.0,31,20,LAC,POR,16,away,LU,block,1,miss2,0,C. McCollum,A. Rivers
+129,2,10:41.0,31,20,LAC,POR,1,home,DefReb,,,DefReb,,L. Stephenson,
+130,2,10:31.0,31,20,LAC,POR,10,home,LU,block,2,miss2,0,P. Pierce,E. Davis
+131,2,10:29.0,31,20,LAC,POR,2,away,DefReb,,,DefReb,,E. Davis,
+132,2,10:26.0,31,20,LAC,POR,3,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Smith,C. McCollum
+133,2,10:26.0,31,20,LAC,POR,0,away,Sub,,,,,A. Aminu,M. Leonard
+134,2,10:15.0,31,20,LAC,POR,11,away,JS,,21,miss2,0,A. Aminu,
+135,2,10:14.0,31,20,LAC,POR,1,away,OffReb,,,OffReb,,E. Davis,
+136,2,10:09.0,31,20,LAC,POR,5,away,LU,,2,miss2,0,C. McCollum,
+137,2,10:08.0,31,20,LAC,POR,1,home,DefReb,,,DefReb,,L. Stephenson,
+138,2,10:02.0,31,20,LAC,POR,6,home,LU,block,2,miss2,0,J. Smith,M. Harkless
+139,2,10:00.0,31,20,LAC,POR,2,away,DefReb,,,DefReb,,A. Aminu,
+140,2,9:55.0,31,20,LAC,POR,5,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,P. Pierce,A. Aminu
+141,2,9:55.0,31,20,LAC,POR,0,away,Sub,,,,,M. Plumlee,E. Davis
+142,2,9:45.0,31,20,LAC,POR,10,away,JS,,21,miss2,0,A. Crabbe,
+143,2,9:45.0,31,20,LAC,POR,0,home,DefReb,,,DefReb,,L. Stephenson,
+144,2,9:38.0,31,20,LAC,POR,7,home,JS,,25,miss3,0,J. Crawford,
+145,2,9:38.0,31,20,LAC,POR,0,away,DefReb,,,DefReb,,M. Plumlee,
+146,2,9:25.0,31,20,LAC,POR,13,away,JS,,4,miss2,0,M. Plumlee,
+147,2,9:25.0,31,20,LAC,POR,0,away,OffReb,,,OffReb,,M. Plumlee,
+148,2,9:25.0,31,20,LAC,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Pierce,M. Plumlee
+149,2,9:25.0,31,20,LAC,POR,0,away,FreeThrow,,,make1,0,M. Plumlee,
+150,2,9:25.0,31,20,LAC,POR,0,away,OffReb,,,OffReb,,Team,
+151,2,9:25.0,31,21,LAC,POR,0,away,FreeThrow,,,make1,1,M. Plumlee,
+152,2,9:18.0,31,21,LAC,POR,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Crabbe,J. Crawford
+153,2,9:18.0,31,21,LAC,POR,0,away,Sub,,,,,G. Henderson,A. Crabbe
+154,2,9:12.0,31,21,LAC,POR,6,home,JS,,13,miss2,0,J. Crawford,
+155,2,9:11.0,31,21,LAC,POR,1,away,DefReb,,,DefReb,,M. Harkless,
+156,2,9:05.0,31,21,LAC,POR,6,away,LU,,2,miss2,0,M. Harkless,
+157,2,9:04.0,31,21,LAC,POR,1,home,DefReb,,,DefReb,,J. Smith,
+158,2,8:51.0,34,21,LAC,POR,13,home,JS,assist,26,make3,3,J. Smith,L. Stephenson
+159,2,8:36.0,34,21,LAC,POR,15,away,HS,,5,miss2,0,M. Plumlee,
+160,2,8:36.0,34,21,LAC,POR,0,away,OffReb,,,OffReb,,Team,
+161,2,8:36.0,34,21,LAC,POR,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Rivers,C. McCollum
+162,2,8:36.0,34,21,LAC,POR,0,away,Timeout,,,,,,
+163,2,8:36.0,34,22,LAC,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
+164,2,8:36.0,34,23,LAC,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
+165,2,8:27.0,34,23,LAC,POR,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. McCollum,J. Crawford
+166,2,8:27.0,34,23,LAC,POR,0,home,FreeThrow,,,make1,0,J. Crawford,
+167,2,8:27.0,34,23,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+168,2,8:27.0,35,23,LAC,POR,0,home,FreeThrow,,,make1,1,J. Crawford,
+169,2,8:12.0,35,25,LAC,POR,15,away,HS,,3,make2,2,M. Harkless,
+170,2,7:58.0,35,25,LAC,POR,14,home,BadPass,steal,,turnover,,A. Rivers,C. McCollum
+171,2,7:54.0,35,25,LAC,POR,4,home,DefGoaltending,,,DefGoaltending,,J. Smith,
+172,2,7:54.0,35,27,LAC,POR,0,away,LU,,2,make2,2,C. McCollum,
+173,2,7:37.0,35,27,LAC,POR,17,home,HS,,4,miss2,0,P. Pierce,
+174,2,7:35.0,35,27,LAC,POR,2,away,DefReb,,,DefReb,,A. Aminu,
+175,2,7:29.0,35,27,LAC,POR,6,away,LU,block,3,miss2,0,C. McCollum,J. Smith
+176,2,7:28.0,35,27,LAC,POR,1,away,OffReb,,,OffReb,,M. Plumlee,
+177,2,7:28.0,35,29,LAC,POR,0,away,LU,,2,make2,2,M. Plumlee,
+178,2,7:28.0,35,29,LAC,POR,0,home,Timeout,,,,,,
+179,2,7:28.0,35,29,LAC,POR,0,home,Sub,,,,,C. Paul,J. Crawford
+180,2,7:28.0,35,29,LAC,POR,0,home,Sub,,,,,J. Redick,J. Smith
+181,2,7:28.0,35,29,LAC,POR,0,home,Sub,,,,,D. Jordan,L. Stephenson
+182,2,7:28.0,35,29,LAC,POR,0,home,Sub,,,,,B. Griffin,A. Rivers
+183,2,7:28.0,35,29,LAC,POR,0,home,Sub,,,,,L. Mbah a Moute,P. Pierce
+184,2,7:19.0,35,29,LAC,POR,9,home,BadPass,steal,,turnover,,C. Paul,M. Plumlee
+185,2,7:13.0,35,32,LAC,POR,6,away,JS,assist,25,make3,3,M. Harkless,C. McCollum
+186,2,6:53.0,35,32,LAC,POR,20,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Henderson,J. Redick
+187,2,6:47.0,35,32,LAC,POR,6,home,JS,,15,miss2,0,C. Paul,
+188,2,6:47.0,35,32,LAC,POR,0,home,OffReb,,,OffReb,,D. Jordan,
+189,2,6:41.0,35,32,LAC,POR,6,away,KickBallViolation,,,KickBallViolation,,C. McCollum,
+190,2,6:35.0,35,32,LAC,POR,6,home,HS,,3,miss2,0,B. Griffin,
+191,2,6:33.0,35,32,LAC,POR,2,away,DefReb,,,DefReb,,M. Plumlee,
+192,2,6:28.0,35,32,LAC,POR,5,away,LU,,2,miss2,0,A. Aminu,
+193,2,6:27.0,35,32,LAC,POR,1,home,DefReb,,,DefReb,,B. Griffin,
+194,2,6:25.0,35,32,LAC,POR,2,home,LostBall,steal,,turnover,,B. Griffin,M. Plumlee
+195,2,6:20.0,35,34,LAC,POR,5,away,LU,,2,make2,2,A. Aminu,
+196,2,6:08.0,35,34,LAC,POR,12,home,JS,,17,miss2,0,J. Redick,
+197,2,6:08.0,35,34,LAC,POR,0,away,DefReb,,,DefReb,,M. Plumlee,
+198,2,5:58.0,35,34,LAC,POR,10,away,JS,,17,miss2,0,C. McCollum,
+199,2,5:58.0,35,34,LAC,POR,0,home,DefReb,,,DefReb,,D. Jordan,
+200,2,5:46.0,35,34,LAC,POR,12,home,JS,,3,miss2,0,C. Paul,
+201,2,5:46.0,35,34,LAC,POR,0,away,DefReb,,,DefReb,,C. McCollum,
+202,2,5:33.0,35,36,LAC,POR,13,away,JS,assist,17,make2,2,G. Henderson,C. McCollum
+203,2,5:29.0,35,36,LAC,POR,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Aminu,B. Griffin
+204,2,5:24.0,35,36,LAC,POR,5,home,JS,,21,miss2,0,J. Redick,
+205,2,5:23.0,35,36,LAC,POR,1,away,DefReb,,,DefReb,,G. Henderson,
+206,2,5:13.0,35,38,LAC,POR,10,away,JS,assist,20,make2,2,M. Harkless,G. Henderson
+207,2,5:01.0,35,38,LAC,POR,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. McCollum,C. Paul
+208,2,5:01.0,36,38,LAC,POR,0,home,FreeThrow,,,make1,1,C. Paul,
+209,2,5:01.0,36,38,LAC,POR,0,away,Sub,,,,,D. Lillard,C. McCollum
+210,2,5:01.0,37,38,LAC,POR,0,home,FreeThrow,,,make1,1,C. Paul,
+211,2,4:41.0,37,40,LAC,POR,20,away,DK,assist,0,make2,2,M. Harkless,M. Plumlee
+212,2,4:30.0,37,40,LAC,POR,11,home,JS,,11,miss2,0,C. Paul,
+213,2,4:27.0,37,40,LAC,POR,3,away,DefReb,,,DefReb,,M. Plumlee,
+214,2,4:23.0,37,40,LAC,POR,4,away,BadPass,,,turnover,,M. Harkless,
+215,2,4:10.0,37,40,LAC,POR,13,home,JS,,18,miss2,0,B. Griffin,
+216,2,4:09.0,37,40,LAC,POR,1,home,OffReb,,,OffReb,,D. Jordan,
+217,2,4:06.0,37,40,LAC,POR,3,home,HS,,4,miss2,0,D. Jordan,
+218,2,4:06.0,37,40,LAC,POR,0,away,DefReb,,,DefReb,,Team,
+219,2,3:51.0,37,40,LAC,POR,15,away,LostBall,,,turnover,,M. Plumlee,
+220,2,3:51.0,37,40,LAC,POR,0,home,Sub,,,,,W. Johnson,L. Mbah a Moute
+221,2,3:40.0,37,40,LAC,POR,11,home,JS,,11,miss2,0,C. Paul,
+222,2,3:39.0,37,40,LAC,POR,1,away,DefReb,,,DefReb,,M. Plumlee,
+223,2,3:34.0,37,40,LAC,POR,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Johnson,M. Harkless
+224,2,3:34.0,37,41,LAC,POR,0,away,FreeThrow,,,make1,1,M. Harkless,
+225,2,3:34.0,37,42,LAC,POR,0,away,FreeThrow,,,make1,1,M. Harkless,
+226,2,3:34.0,37,42,LAC,POR,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,G. Henderson,D. Jordan
+227,2,3:34.0,37,42,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+228,2,3:34.0,37,42,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+229,2,3:34.0,38,42,LAC,POR,0,home,FreeThrow,,,make1,1,D. Jordan,
+230,2,3:16.0,38,42,LAC,POR,18,away,JS,,18,miss2,0,G. Henderson,
+231,2,3:16.0,38,42,LAC,POR,0,away,OffReb,,,OffReb,,A. Aminu,
+232,2,3:14.0,38,42,LAC,POR,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,A. Aminu
+233,2,3:14.0,38,42,LAC,POR,0,away,FreeThrow,,,make1,0,A. Aminu,
+234,2,3:14.0,38,42,LAC,POR,0,away,OffReb,,,OffReb,,Team,
+235,2,3:14.0,38,42,LAC,POR,0,away,FreeThrow,,,make1,0,A. Aminu,
+236,2,3:13.0,38,42,LAC,POR,1,home,DefReb,,,DefReb,,D. Jordan,
+237,2,3:12.0,38,42,LAC,POR,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Harkless,D. Jordan
+238,2,3:12.0,38,42,LAC,POR,0,away,Timeout,,,,,,
+239,2,3:12.0,39,42,LAC,POR,0,home,FreeThrow,,,make1,1,D. Jordan,
+240,2,3:12.0,39,42,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+241,2,3:10.0,39,42,LAC,POR,2,away,DefReb,,,DefReb,,A. Aminu,
+242,2,2:47.0,39,42,LAC,POR,23,away,JS,,26,miss3,0,A. Aminu,
+243,2,2:46.0,39,42,LAC,POR,1,home,DefReb,,,DefReb,,B. Griffin,
+244,2,2:29.0,41,42,LAC,POR,17,home,JS,assist,20,make2,2,B. Griffin,C. Paul
+245,2,2:11.0,41,42,LAC,POR,18,away,JS,,26,miss3,0,A. Aminu,
+246,2,2:10.0,41,42,LAC,POR,1,home,DefReb,,,DefReb,,D. Jordan,
+247,2,1:50.0,41,42,LAC,POR,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lillard,B. Griffin
+248,2,1:50.0,41,42,LAC,POR,0,home,FreeThrow,,,make1,0,B. Griffin,
+249,2,1:50.0,41,42,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+250,2,1:50.0,41,42,LAC,POR,0,away,Sub,,,,,C. McCollum,D. Lillard
+251,2,1:50.0,42,42,LAC,POR,0,home,FreeThrow,,,make1,1,B. Griffin,
+252,2,1:34.0,42,44,LAC,POR,16,away,DK,assist,0,make2,2,A. Aminu,C. McCollum
+253,2,1:20.0,42,44,LAC,POR,14,home,JS,,18,miss2,0,B. Griffin,
+254,2,1:19.0,42,44,LAC,POR,1,away,DefReb,,,DefReb,,G. Henderson,
+255,2,1:06.0,42,44,LAC,POR,13,away,BadPass,steal,,turnover,,C. McCollum,C. Paul
+256,2,1:03.0,42,44,LAC,POR,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Henderson,B. Griffin
+257,2,1:03.0,43,44,LAC,POR,0,home,FreeThrow,,,make1,1,B. Griffin,
+258,2,1:03.0,44,44,LAC,POR,0,home,FreeThrow,,,make1,1,B. Griffin,
+259,2,0:52.0,44,44,LAC,POR,11,away,JS,,24,miss3,0,M. Harkless,
+260,2,0:52.0,44,44,LAC,POR,0,home,DefReb,,,DefReb,,C. Paul,
+261,2,0:50.0,44,44,LAC,POR,2,home,LostBall,steal,,turnover,,C. Paul,M. Harkless
+262,2,0:45.0,44,46,LAC,POR,5,away,LU,assist,1,make2,2,M. Plumlee,A. Aminu
+263,2,0:37.0,44,46,LAC,POR,8,home,AFPFoul,DrawnBy,,AFPFoul,,M. Harkless,D. Jordan
+264,2,0:37.0,47,46,LAC,POR,0,home,JS,assist,24,make3,3,W. Johnson,C. Paul
+265,2,0:37.0,47,46,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+266,2,0:36.0,47,46,LAC,POR,1,home,OffReb,,,OffReb,,Team,
+267,2,0:36.0,47,46,LAC,POR,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Plumlee,B. Griffin
+268,2,0:36.0,48,46,LAC,POR,0,home,FreeThrow,,,make1,1,B. Griffin,
+269,2,0:36.0,48,46,LAC,POR,0,away,Sub,,,,,E. Davis,M. Plumlee
+270,2,0:36.0,48,46,LAC,POR,0,home,Sub,,,,,L. Mbah a Moute,J. Redick
+271,2,0:36.0,48,46,LAC,POR,0,home,Sub,,,,,A. Rivers,W. Johnson
+272,2,0:36.0,49,46,LAC,POR,0,home,FreeThrow,,,make1,1,B. Griffin,
+273,2,0:24.0,49,46,LAC,POR,12,away,BadPass,steal,,turnover,,M. Harkless,A. Rivers
+274,2,0:20.0,49,46,LAC,POR,4,home,LostBall,steal,,turnover,,B. Griffin,M. Harkless
+275,2,0:02.0,49,49,LAC,POR,18,away,JS,,28,make3,3,C. McCollum,
+276,2,0:00.0,49,49,LAC,POR,2,home,JS,,51,miss3,0,C. Paul,
+277,2,0:00.0,49,49,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+278,3,11:32.0,49,51,LAC,POR,28,away,LU,assist,3,make2,2,M. Plumlee,C. McCollum
+279,3,11:14.0,51,51,LAC,POR,18,home,JS,assist,20,make2,2,B. Griffin,J. Redick
+280,3,10:52.0,51,51,LAC,POR,22,away,BadPass,,,turnover,,M. Plumlee,
+281,3,10:40.0,51,51,LAC,POR,12,home,JS,,17,miss2,0,J. Redick,
+282,3,10:39.0,51,51,LAC,POR,1,home,OffReb,,,OffReb,,L. Mbah a Moute,
+283,3,10:26.0,53,51,LAC,POR,13,home,HS,,4,make2,2,B. Griffin,
+284,3,10:13.0,53,51,LAC,POR,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Redick,M. Plumlee
+285,3,10:13.0,53,51,LAC,POR,0,away,Sub,,,,,A. Crabbe,D. Lillard
+286,3,10:12.0,53,51,LAC,POR,1,away,OutOfBounds,,,turnover,,C. McCollum,
+287,3,9:53.0,53,51,LAC,POR,19,home,JS,,16,miss2,0,J. Redick,
+288,3,9:52.0,53,51,LAC,POR,1,home,OffReb,,,OffReb,,D. Jordan,
+289,3,9:46.0,53,51,LAC,POR,6,home,JS,,15,miss2,0,C. Paul,
+290,3,9:46.0,53,51,LAC,POR,0,home,OffReb,,,OffReb,,C. Paul,
+291,3,9:42.0,53,51,LAC,POR,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vonleh,D. Jordan
+292,3,9:42.0,53,51,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+293,3,9:42.0,53,51,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+294,3,9:42.0,54,51,LAC,POR,0,home,FreeThrow,,,make1,1,D. Jordan,
+295,3,9:25.0,54,51,LAC,POR,17,away,JS,,5,miss2,0,A. Aminu,
+296,3,9:25.0,54,51,LAC,POR,0,home,DefReb,,,DefReb,,Team,
+297,3,9:25.0,54,51,LAC,POR,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,N. Vonleh,B. Griffin
+298,3,9:06.0,54,51,LAC,POR,19,home,JS,,17,miss2,0,B. Griffin,
+299,3,9:05.0,54,51,LAC,POR,1,away,DefReb,,,DefReb,,A. Aminu,
+300,3,8:52.0,54,51,LAC,POR,13,away,JS,,28,miss3,0,A. Aminu,
+301,3,8:52.0,54,51,LAC,POR,0,home,DefReb,,,DefReb,,D. Jordan,
+302,3,8:33.0,56,51,LAC,POR,19,home,JS,assist,17,make2,2,C. Paul,B. Griffin
+303,3,8:21.0,56,51,LAC,POR,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,M. Plumlee
+304,3,8:21.0,56,52,LAC,POR,0,away,FreeThrow,,,make1,1,M. Plumlee,
+305,3,8:21.0,56,53,LAC,POR,0,away,FreeThrow,,,make1,1,M. Plumlee,
+306,3,8:08.0,56,53,LAC,POR,13,home,JS,,19,miss2,0,C. Paul,
+307,3,8:07.0,56,53,LAC,POR,1,home,OffReb,,,OffReb,,L. Mbah a Moute,
+308,3,8:04.0,58,53,LAC,POR,3,home,LU,,2,make2,2,L. Mbah a Moute,
+309,3,7:52.0,58,53,LAC,POR,12,away,JS,,25,miss3,0,C. McCollum,
+310,3,7:51.0,58,53,LAC,POR,1,home,DefReb,,,DefReb,,D. Jordan,
+311,3,7:38.0,58,53,LAC,POR,13,home,JS,,26,miss3,0,L. Mbah a Moute,
+312,3,7:38.0,58,53,LAC,POR,0,away,DefReb,,,DefReb,,M. Plumlee,
+313,3,7:32.0,58,55,LAC,POR,6,away,JS,assist,18,make2,2,A. Crabbe,A. Aminu
+314,3,7:09.0,58,55,LAC,POR,23,home,JS,,19,miss2,0,B. Griffin,
+315,3,7:09.0,58,55,LAC,POR,0,home,OffReb,,,OffReb,,L. Mbah a Moute,
+316,3,7:03.0,61,55,LAC,POR,6,home,JS,assist,25,make3,3,J. Redick,D. Jordan
+317,3,6:52.0,61,55,LAC,POR,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,M. Plumlee
+318,3,6:52.0,61,55,LAC,POR,0,away,FreeThrow,,,make1,0,M. Plumlee,
+319,3,6:52.0,61,55,LAC,POR,0,away,OffReb,,,OffReb,,Team,
+320,3,6:52.0,61,56,LAC,POR,0,away,FreeThrow,,,make1,1,M. Plumlee,
+321,3,6:42.0,61,56,LAC,POR,10,home,JS,,24,miss3,0,J. Redick,
+322,3,6:42.0,61,56,LAC,POR,0,away,DefReb,,,DefReb,,C. McCollum,
+323,3,6:35.0,61,56,LAC,POR,7,away,BadPass,steal,,turnover,,M. Plumlee,C. Paul
+324,3,6:30.0,61,56,LAC,POR,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vonleh,C. Paul
+325,3,6:30.0,62,56,LAC,POR,0,home,FreeThrow,,,make1,1,C. Paul,
+326,3,6:30.0,62,56,LAC,POR,0,away,Sub,,,,,M. Leonard,N. Vonleh
+327,3,6:30.0,63,56,LAC,POR,0,home,FreeThrow,,,make1,1,C. Paul,
+328,3,6:19.0,63,58,LAC,POR,11,away,LU,,2,make2,2,C. McCollum,
+329,3,6:17.0,63,58,LAC,POR,2,home,BadPass,,,turnover,,C. Paul,
+330,3,6:08.0,63,58,LAC,POR,9,away,Traveling,,,turnover,,C. McCollum,
+331,3,6:00.0,63,58,LAC,POR,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. McCollum,J. Redick
+332,3,5:50.0,63,58,LAC,POR,10,home,JS,,24,miss3,0,J. Redick,
+333,3,5:49.0,63,58,LAC,POR,1,home,OffReb,,,OffReb,,D. Jordan,
+334,3,5:34.0,65,58,LAC,POR,15,home,JS,assist,21,make2,2,B. Griffin,J. Redick
+335,3,5:17.0,65,58,LAC,POR,17,away,JS,,19,miss2,0,A. Crabbe,
+336,3,5:17.0,65,58,LAC,POR,0,home,DefReb,,,DefReb,,D. Jordan,
+337,3,5:11.0,65,58,LAC,POR,6,home,Timeout,,,,,,
+338,3,5:11.0,65,58,LAC,POR,0,home,Sub,,,,,A. Rivers,C. Paul
+339,3,5:11.0,65,58,LAC,POR,0,away,Sub,,,,,E. Davis,M. Plumlee
+340,3,5:11.0,65,58,LAC,POR,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Leonard,D. Jordan
+341,3,5:11.0,65,58,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+342,3,5:11.0,65,58,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+343,3,5:11.0,65,58,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+344,3,5:10.0,65,58,LAC,POR,1,away,DefReb,,,DefReb,,E. Davis,
+345,3,4:56.0,65,58,LAC,POR,14,away,JS,,25,miss3,0,A. Crabbe,
+346,3,4:55.0,65,58,LAC,POR,1,away,OffReb,,,OffReb,,M. Leonard,
+347,3,4:45.0,65,58,LAC,POR,10,away,LU,,2,miss2,0,E. Davis,
+348,3,4:45.0,65,58,LAC,POR,0,home,DefReb,,,DefReb,,B. Griffin,
+349,3,4:36.0,67,58,LAC,POR,9,home,LU,assist,2,make2,2,A. Rivers,B. Griffin
+350,3,4:12.0,67,58,LAC,POR,24,away,JS,,24,miss3,0,A. Aminu,
+351,3,4:11.0,67,58,LAC,POR,1,home,DefReb,,,DefReb,,L. Mbah a Moute,
+352,3,4:01.0,67,58,LAC,POR,10,home,JS,,25,miss3,0,A. Rivers,
+353,3,4:01.0,67,58,LAC,POR,0,away,DefReb,,,DefReb,,E. Davis,
+354,3,3:40.0,67,58,LAC,POR,21,away,JS,,23,miss3,0,A. Aminu,
+355,3,3:39.0,67,58,LAC,POR,1,away,OffReb,,,OffReb,,A. Aminu,
+356,3,3:38.0,67,58,LAC,POR,1,away,LostBall,,,turnover,,A. Aminu,
+357,3,3:38.0,67,58,LAC,POR,0,home,Sub,,,,,J. Crawford,J. Redick
+358,3,3:38.0,67,58,LAC,POR,0,away,Sub,,,,,M. Harkless,C. McCollum
+359,3,3:38.0,67,58,LAC,POR,0,away,Sub,,,,,T. Frazier,A. Aminu
+360,3,3:38.0,67,58,LAC,POR,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Frazier,D. Jordan
+361,3,3:38.0,67,58,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+362,3,3:38.0,67,58,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+363,3,3:38.0,67,58,LAC,POR,0,home,Sub,,,,,L. Stephenson,L. Mbah a Moute
+364,3,3:38.0,67,58,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+365,3,3:36.0,67,58,LAC,POR,2,away,DefReb,,,DefReb,,M. Leonard,
+366,3,3:24.0,67,58,LAC,POR,12,away,JS,,25,miss3,0,M. Leonard,
+367,3,3:24.0,67,58,LAC,POR,0,home,DefReb,,,DefReb,,B. Griffin,
+368,3,3:20.0,67,58,LAC,POR,4,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Leonard,D. Jordan
+369,3,3:20.0,67,58,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+370,3,3:20.0,67,58,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+371,3,3:20.0,67,58,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+372,3,3:19.0,67,58,LAC,POR,1,away,DefReb,,,DefReb,,T. Frazier,
+373,3,3:10.0,67,58,LAC,POR,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Griffin,M. Leonard
+374,3,3:10.0,67,58,LAC,POR,0,home,Sub,,,,,J. Smith,D. Jordan
+375,3,3:02.0,67,58,LAC,POR,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Griffin,M. Leonard
+376,3,3:02.0,67,59,LAC,POR,0,away,FreeThrow,,,make1,1,M. Leonard,
+377,3,3:02.0,67,60,LAC,POR,0,away,FreeThrow,,,make1,1,M. Leonard,
+378,3,2:57.0,67,60,LAC,POR,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Frazier,J. Crawford
+379,3,2:57.0,67,60,LAC,POR,0,away,Timeout,,,,,,
+380,3,2:57.0,68,60,LAC,POR,0,home,FreeThrow,,,make1,1,J. Crawford,
+381,3,2:57.0,69,60,LAC,POR,0,home,FreeThrow,,,make1,1,J. Crawford,
+382,3,2:43.0,69,60,LAC,POR,14,away,JS,,9,miss2,0,M. Leonard,
+383,3,2:43.0,69,60,LAC,POR,0,home,DefReb,,,DefReb,,B. Griffin,
+384,3,2:25.0,69,60,LAC,POR,18,home,JS,,22,miss2,0,J. Crawford,
+385,3,2:25.0,69,60,LAC,POR,0,away,DefReb,,,DefReb,,T. Frazier,
+386,3,2:16.0,69,60,LAC,POR,9,away,JS,,26,miss3,0,M. Leonard,
+387,3,2:12.0,69,60,LAC,POR,4,away,OffReb,,,OffReb,,E. Davis,
+388,3,2:08.0,69,62,LAC,POR,4,away,LU,,2,make2,2,E. Davis,
+389,3,1:53.0,69,62,LAC,POR,15,home,JS,,18,miss2,0,J. Crawford,
+390,3,1:51.0,69,62,LAC,POR,2,away,DefReb,,,DefReb,,E. Davis,
+391,3,1:46.0,69,64,LAC,POR,5,away,LU,assist,2,make2,2,E. Davis,T. Frazier
+392,3,1:46.0,69,64,LAC,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,E. Davis
+393,3,1:46.0,69,64,LAC,POR,0,home,Sub,,,,,P. Pierce,B. Griffin
+394,3,1:46.0,69,64,LAC,POR,0,away,Sub,,,,,C. McCollum,A. Crabbe
+395,3,1:46.0,69,64,LAC,POR,0,away,FreeThrow,,,make1,0,E. Davis,
+396,3,1:45.0,69,64,LAC,POR,1,home,DefReb,,,DefReb,,P. Pierce,
+397,3,1:29.0,71,64,LAC,POR,16,home,LU,assist,1,make2,2,J. Crawford,L. Stephenson
+398,3,1:22.0,71,64,LAC,POR,7,away,BadPass,,,turnover,,T. Frazier,
+399,3,1:12.0,71,64,LAC,POR,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,J. Smith
+400,3,1:12.0,71,64,LAC,POR,0,home,FreeThrow,,,make1,0,J. Smith,
+401,3,1:12.0,71,64,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+402,3,1:12.0,71,64,LAC,POR,0,home,FreeThrow,,,make1,0,J. Smith,
+403,3,1:12.0,71,64,LAC,POR,0,away,DefReb,,,DefReb,,M. Leonard,
+404,3,0:48.0,71,64,LAC,POR,24,away,JS,,25,miss3,0,C. McCollum,
+405,3,0:47.0,71,64,LAC,POR,1,home,DefReb,,,DefReb,,L. Stephenson,
+406,3,0:34.0,74,64,LAC,POR,13,home,JS,assist,26,make3,3,P. Pierce,J. Crawford
+407,3,0:22.0,74,64,LAC,POR,12,away,JS,,25,miss3,0,T. Frazier,
+408,3,0:21.0,74,64,LAC,POR,1,home,DefReb,,,DefReb,,L. Stephenson,
+409,3,0:03.0,74,64,LAC,POR,18,home,JS,,19,miss2,0,J. Crawford,
+410,3,0:00.0,74,64,LAC,POR,3,away,DefReb,,,DefReb,,C. McCollum,
+411,4,11:38.0,74,64,LAC,POR,22,home,BackCourtTurnover,,,turnover,,Team,
+412,4,11:11.0,74,66,LAC,POR,27,away,LU,,2,make2,2,M. Harkless,
+413,4,10:59.0,74,66,LAC,POR,12,home,JS,,22,miss2,0,A. Rivers,
+414,4,10:59.0,74,66,LAC,POR,0,away,DefReb,,,DefReb,,T. Frazier,
+415,4,10:47.0,74,66,LAC,POR,12,away,JS,,19,miss2,0,M. Leonard,
+416,4,10:46.0,74,66,LAC,POR,1,home,DefReb,,,DefReb,,L. Stephenson,
+417,4,10:37.0,77,66,LAC,POR,9,home,JS,assist,24,make3,3,J. Smith,J. Crawford
+418,4,10:17.0,77,68,LAC,POR,20,away,LU,,2,make2,2,C. McCollum,
+419,4,10:08.0,77,68,LAC,POR,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Davis,A. Rivers
+420,4,10:00.0,77,68,LAC,POR,8,home,JS,,6,miss2,0,A. Rivers,
+421,4,10:00.0,77,68,LAC,POR,0,away,DefReb,,,DefReb,,M. Harkless,
+422,4,10:00.0,77,68,LAC,POR,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Rivers,M. Harkless
+423,4,9:45.0,77,68,LAC,POR,15,away,LU,,2,miss2,0,C. McCollum,
+424,4,9:45.0,77,68,LAC,POR,0,home,DefReb,,,DefReb,,L. Stephenson,
+425,4,9:42.0,77,68,LAC,POR,3,home,LostBall,,,turnover,,L. Stephenson,
+426,4,9:35.0,77,68,LAC,POR,7,away,BadPass,,,turnover,,T. Frazier,
+427,4,9:18.0,77,68,LAC,POR,17,home,JS,,25,miss3,0,P. Pierce,
+428,4,9:17.0,77,68,LAC,POR,1,away,DefReb,,,DefReb,,E. Davis,
+429,4,9:11.0,77,70,LAC,POR,6,away,JS,assist,10,make2,2,M. Leonard,T. Frazier
+430,4,8:52.0,77,70,LAC,POR,19,home,JS,,21,miss2,0,J. Smith,
+431,4,8:51.0,77,70,LAC,POR,1,home,OffReb,,,OffReb,,A. Rivers,
+432,4,8:46.0,77,70,LAC,POR,5,home,JS,,8,miss2,0,J. Crawford,
+433,4,8:44.0,77,70,LAC,POR,2,home,OffReb,,,OffReb,,J. Smith,
+434,4,8:44.0,77,70,LAC,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Frazier,A. Rivers
+435,4,8:44.0,77,70,LAC,POR,0,home,Timeout,,,,,,
+436,4,8:44.0,77,70,LAC,POR,0,home,Sub,,,,,D. Jordan,J. Smith
+437,4,8:44.0,77,70,LAC,POR,0,away,Sub,,,,,A. Aminu,M. Leonard
+438,4,8:44.0,77,70,LAC,POR,0,away,Sub,,,,,G. Henderson,T. Frazier
+439,4,8:44.0,78,70,LAC,POR,0,home,FreeThrow,,,make1,1,A. Rivers,
+440,4,8:44.0,79,70,LAC,POR,0,home,FreeThrow,,,make1,1,A. Rivers,
+441,4,8:24.0,79,70,LAC,POR,20,away,LostBall,steal,,turnover,,M. Harkless,D. Jordan
+442,4,8:05.0,79,70,LAC,POR,19,home,JS,,25,miss3,0,A. Rivers,
+443,4,8:04.0,79,70,LAC,POR,1,away,DefReb,,,DefReb,,G. Henderson,
+444,4,7:56.0,79,70,LAC,POR,8,away,JS,,22,miss2,0,G. Henderson,
+445,4,7:55.0,79,70,LAC,POR,1,home,DefReb,,,DefReb,,L. Stephenson,
+446,4,7:48.0,81,70,LAC,POR,7,home,JS,,16,make2,2,L. Stephenson,
+447,4,7:24.0,81,70,LAC,POR,24,away,JS,,19,miss2,0,M. Harkless,
+448,4,7:24.0,81,70,LAC,POR,0,away,OffReb,,,OffReb,,E. Davis,
+449,4,7:18.0,81,72,LAC,POR,6,away,LU,,2,make2,2,E. Davis,
+450,4,7:02.0,83,72,LAC,POR,16,home,LU,,2,make2,2,J. Crawford,
+451,4,6:50.0,83,74,LAC,POR,12,away,JS,assist,19,make2,2,G. Henderson,C. McCollum
+452,4,6:49.0,83,74,LAC,POR,1,home,Timeout,,,,,,
+453,4,6:49.0,83,74,LAC,POR,0,home,Sub,,,,,B. Griffin,L. Stephenson
+454,4,6:49.0,83,74,LAC,POR,0,home,Sub,,,,,J. Redick,P. Pierce
+455,4,6:49.0,83,74,LAC,POR,0,away,Sub,,,,,M. Plumlee,M. Harkless
+456,4,6:35.0,85,74,LAC,POR,14,home,LU,assist,3,make2,2,B. Griffin,J. Crawford
+457,4,6:09.0,85,74,LAC,POR,26,away,ShotClockViolation,,,turnover,,Team,
+458,4,5:58.0,85,74,LAC,POR,11,home,JS,,25,miss3,0,J. Redick,
+459,4,5:57.0,85,74,LAC,POR,1,home,OffReb,,,OffReb,,D. Jordan,
+460,4,5:44.0,87,74,LAC,POR,13,home,JS,assist,20,make2,2,J. Crawford,B. Griffin
+461,4,5:30.0,87,76,LAC,POR,14,away,JS,assist,21,make2,2,G. Henderson,E. Davis
+462,4,5:10.0,89,76,LAC,POR,20,home,JS,assist,19,make2,2,J. Redick,B. Griffin
+463,4,5:04.0,89,76,LAC,POR,6,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Crawford,C. McCollum
+464,4,4:47.0,89,76,LAC,POR,17,away,JS,,25,miss3,0,G. Henderson,
+465,4,4:46.0,89,76,LAC,POR,1,away,OffReb,,,OffReb,,M. Plumlee,
+466,4,4:46.0,89,76,LAC,POR,0,away,LU,block,1,miss2,0,M. Plumlee,B. Griffin
+467,4,4:45.0,89,76,LAC,POR,1,away,OffReb,,,OffReb,,Team,
+468,4,4:45.0,89,76,LAC,POR,0,away,ShotClockViolation,,,turnover,,Team,
+469,4,4:34.0,89,76,LAC,POR,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Aminu,J. Crawford
+470,4,4:28.0,92,76,LAC,POR,6,home,JS,assist,25,make3,3,J. Redick,B. Griffin
+471,4,4:28.0,92,76,LAC,POR,0,away,Timeout,,,,,,
+472,4,4:12.0,92,76,LAC,POR,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Rivers,C. McCollum
+473,4,4:08.0,92,76,LAC,POR,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Redick,C. McCollum
+474,4,3:59.0,92,78,LAC,POR,9,away,DK,assist,0,make2,2,E. Davis,C. McCollum
+475,4,3:51.0,92,78,LAC,POR,8,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Davis,D. Jordan
+476,4,3:51.0,92,78,LAC,POR,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Davis,D. Jordan
+477,4,3:51.0,92,78,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+478,4,3:51.0,92,78,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+479,4,3:51.0,92,78,LAC,POR,0,away,Sub,,,,,M. Harkless,E. Davis
+480,4,3:51.0,93,78,LAC,POR,0,home,FreeThrow,,,make1,1,D. Jordan,
+481,4,3:42.0,93,78,LAC,POR,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,G. Henderson
+482,4,3:42.0,93,78,LAC,POR,0,home,TechnicalFoul,,,TechnicalFoul,,B. Griffin,
+483,4,3:42.0,93,78,LAC,POR,0,away,TechnicalFoul,,,TechnicalFoul,,G. Henderson,
+484,4,3:42.0,93,78,LAC,POR,0,away,FreeThrow,,,make1,0,G. Henderson,
+485,4,3:42.0,93,78,LAC,POR,0,away,OffReb,,,OffReb,,Team,
+486,4,3:42.0,93,79,LAC,POR,0,away,FreeThrow,,,make1,1,G. Henderson,
+487,4,3:42.0,93,79,LAC,POR,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Harkless,D. Jordan
+488,4,3:42.0,93,79,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+489,4,3:42.0,93,79,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+490,4,3:42.0,94,79,LAC,POR,0,home,FreeThrow,,,make1,1,D. Jordan,
+491,4,3:35.0,94,79,LAC,POR,7,away,Traveling,,,turnover,,M. Plumlee,
+492,4,3:35.0,94,79,LAC,POR,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Aminu,D. Jordan
+493,4,3:35.0,95,79,LAC,POR,0,home,FreeThrow,,,make1,1,D. Jordan,
+494,4,3:35.0,95,79,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+495,4,3:33.0,95,79,LAC,POR,2,away,DefReb,,,DefReb,,M. Plumlee,
+496,4,3:23.0,95,81,LAC,POR,10,away,JS,assist,5,make2,2,M. Harkless,C. McCollum
+497,4,3:20.0,95,81,LAC,POR,3,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Harkless,D. Jordan
+498,4,3:20.0,95,81,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+499,4,3:20.0,95,81,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+500,4,3:20.0,95,81,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+501,4,3:19.0,95,81,LAC,POR,1,away,DefReb,,,DefReb,,M. Plumlee,
+502,4,3:09.0,95,81,LAC,POR,10,away,BadPass,,,turnover,,C. McCollum,
+503,4,3:08.0,95,81,LAC,POR,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Aminu,D. Jordan
+504,4,3:08.0,95,81,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+505,4,3:08.0,95,81,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+506,4,3:08.0,96,81,LAC,POR,0,home,FreeThrow,,,make1,1,D. Jordan,
+507,4,2:58.0,96,81,LAC,POR,10,away,BadPass,steal,,turnover,,A. Aminu,J. Redick
+508,4,2:56.0,96,81,LAC,POR,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,G. Henderson,D. Jordan
+509,4,2:56.0,96,81,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+510,4,2:56.0,96,81,LAC,POR,0,home,OffReb,,,OffReb,,Team,
+511,4,2:56.0,96,81,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+512,4,2:54.0,96,81,LAC,POR,2,away,DefReb,,,DefReb,,M. Plumlee,
+513,4,2:46.0,96,81,LAC,POR,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,G. Henderson
+514,4,2:46.0,96,81,LAC,POR,0,away,FreeThrow,,,make1,0,G. Henderson,
+515,4,2:46.0,96,81,LAC,POR,0,away,OffReb,,,OffReb,,Team,
+516,4,2:46.0,96,82,LAC,POR,0,away,FreeThrow,,,make1,1,G. Henderson,
+517,4,2:46.0,96,82,LAC,POR,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Plumlee,D. Jordan
+518,4,2:46.0,97,82,LAC,POR,0,home,FreeThrow,,,make1,1,D. Jordan,
+519,4,2:46.0,97,82,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+520,4,2:46.0,97,82,LAC,POR,0,away,DefReb,,,DefReb,,Team,
+521,4,2:39.0,97,82,LAC,POR,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Jordan,C. McCollum
+522,4,2:39.0,97,82,LAC,POR,0,away,FreeThrow,,,make1,0,C. McCollum,
+523,4,2:39.0,97,82,LAC,POR,0,away,OffReb,,,OffReb,,Team,
+524,4,2:39.0,97,83,LAC,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
+525,4,2:39.0,97,83,LAC,POR,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,C. McCollum,D. Jordan
+526,4,2:39.0,98,83,LAC,POR,0,home,FreeThrow,,,make1,1,D. Jordan,
+527,4,2:39.0,99,83,LAC,POR,0,home,FreeThrow,,,make1,1,D. Jordan,
+528,4,2:22.0,99,83,LAC,POR,17,away,JS,block,3,miss2,0,M. Harkless,D. Jordan
+529,4,2:22.0,99,83,LAC,POR,0,away,OffReb,,,OffReb,,M. Harkless,
+530,4,2:21.0,99,83,LAC,POR,1,away,JS,,25,miss3,0,A. Aminu,
+531,4,2:19.0,99,83,LAC,POR,2,home,DefReb,,,DefReb,,D. Jordan,
+532,4,2:19.0,99,83,LAC,POR,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,G. Henderson,D. Jordan
+533,4,2:19.0,100,83,LAC,POR,0,home,FreeThrow,,,make1,1,D. Jordan,
+534,4,2:19.0,100,83,LAC,POR,0,away,Sub,,,,,P. Connaughton,A. Aminu
+535,4,2:19.0,100,83,LAC,POR,0,away,Sub,,,,,A. Crabbe,M. Plumlee
+536,4,2:19.0,100,83,LAC,POR,0,away,Sub,,,,,C. Alexander,C. McCollum
+537,4,2:19.0,100,83,LAC,POR,0,away,Sub,,,,,N. Vonleh,M. Harkless
+538,4,2:19.0,100,83,LAC,POR,0,away,Sub,,,,,T. Frazier,G. Henderson
+539,4,2:19.0,100,83,LAC,POR,0,home,Sub,,,,,L. Mbah a Moute,B. Griffin
+540,4,2:19.0,100,83,LAC,POR,0,home,FreeThrow,,,make1,0,D. Jordan,
+541,4,2:18.0,100,83,LAC,POR,1,away,DefReb,,,DefReb,,N. Vonleh,
+542,4,2:01.0,100,85,LAC,POR,17,away,JS,,19,make2,2,C. Alexander,
+543,4,1:45.0,100,85,LAC,POR,16,home,LU,,2,miss2,0,A. Rivers,
+544,4,1:44.0,100,85,LAC,POR,1,home,OffReb,,,OffReb,,D. Jordan,
+545,4,1:43.0,100,85,LAC,POR,1,home,LU,,2,miss2,0,D. Jordan,
+546,4,1:42.0,100,85,LAC,POR,1,away,DefReb,,,DefReb,,T. Frazier,
+547,4,1:35.0,100,85,LAC,POR,7,away,LU,,2,miss2,0,N. Vonleh,
+548,4,1:34.0,100,85,LAC,POR,1,home,DefReb,,,DefReb,,D. Jordan,
+549,4,1:26.0,100,85,LAC,POR,8,home,Timeout,,,,,,
+550,4,1:26.0,100,85,LAC,POR,0,home,Sub,,,,,W. Johnson,D. Jordan
+551,4,1:26.0,100,85,LAC,POR,0,home,Sub,,,,,L. Stephenson,J. Redick
+552,4,1:20.0,100,85,LAC,POR,6,home,BadPass,steal,,turnover,,L. Stephenson,C. Alexander
+553,4,0:58.0,100,87,LAC,POR,22,away,JS,,19,make2,2,T. Frazier,
+554,4,0:41.0,102,87,LAC,POR,17,home,LU,assist,3,make2,2,L. Mbah a Moute,J. Crawford
+555,4,0:30.0,102,87,LAC,POR,11,away,BadPass,steal,,turnover,,T. Frazier,J. Crawford
+556,4,0:07.0,102,87,LAC,POR,23,home,ShotClockViolation,,,turnover,,Team,

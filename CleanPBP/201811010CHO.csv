@@ -1,0 +1,508 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,0,0,CHO,OKC,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Zeller,S. Adams
+1,1,11:41.0,0,1,CHO,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+2,1,11:41.0,0,2,CHO,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+3,1,11:29.0,0,2,CHO,OKC,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ferguson,M. Williams
+4,1,11:22.0,0,2,CHO,OKC,7,home,bad pass,steal,,turnover,,K. Walker,S. Adams
+5,1,11:18.0,0,4,CHO,OKC,4,away,LU,assist,1,make2,2,P. George,R. Westbrook
+6,1,11:03.0,0,4,CHO,OKC,15,home,JS,,25,miss3,0,N. Batum,
+7,1,11:00.0,0,4,CHO,OKC,3,home,OffReb,,,OffReb,,C. Zeller,
+8,1,10:46.0,0,4,CHO,OKC,14,home,JS,,24,miss3,0,M. Williams,
+9,1,10:44.0,0,4,CHO,OKC,2,away,DefReb,,,DefReb,,S. Adams,
+10,1,10:35.0,0,6,CHO,OKC,9,away,JS,,11,make2,2,P. George,
+11,1,10:11.0,0,6,CHO,OKC,24,home,JS,,10,miss2,0,M. Williams,
+12,1,10:08.0,0,6,CHO,OKC,3,away,DefReb,,,DefReb,,S. Adams,
+13,1,10:07.0,0,6,CHO,OKC,1,away,bad pass,steal,,turnover,,R. Westbrook,N. Batum
+14,1,10:00.0,0,6,CHO,OKC,7,home,JS,,27,miss3,0,J. Lamb,
+15,1,9:57.0,0,6,CHO,OKC,3,away,DefReb,,,DefReb,,S. Adams,
+16,1,9:49.0,0,6,CHO,OKC,8,away,JS,,25,miss3,0,J. Grant,
+17,1,9:45.0,0,6,CHO,OKC,4,home,DefReb,,,DefReb,,J. Lamb,
+18,1,9:31.0,2,6,CHO,OKC,14,home,LU,assist,2,make2,2,C. Zeller,K. Walker
+19,1,9:17.0,2,6,CHO,OKC,14,away,JS,,19,miss2,0,P. George,
+20,1,9:15.0,2,6,CHO,OKC,2,home,DefReb,,,DefReb,,J. Lamb,
+21,1,9:08.0,4,6,CHO,OKC,7,home,JS,,6,make2,2,J. Lamb,
+22,1,8:48.0,4,6,CHO,OKC,20,away,JS,,24,miss3,0,P. George,
+23,1,8:45.0,4,6,CHO,OKC,3,home,DefReb,,,DefReb,,N. Batum,
+24,1,8:39.0,4,6,CHO,OKC,6,away,KickBallViolation,,,KickBallViolation,,Team,
+25,1,8:29.0,6,6,CHO,OKC,10,home,JS,assist,19,make2,2,J. Lamb,C. Zeller
+26,1,8:16.0,6,6,CHO,OKC,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Lamb,R. Westbrook
+27,1,8:16.0,6,7,CHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+28,1,8:16.0,6,8,CHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+29,1,8:04.0,8,8,CHO,OKC,12,home,LU,assist,0,make2,2,N. Batum,C. Zeller
+30,1,7:52.0,8,10,CHO,OKC,12,away,LU,,2,make2,2,R. Westbrook,
+31,1,7:27.0,8,10,CHO,OKC,25,home,JS,,25,miss3,0,J. Lamb,
+32,1,7:24.0,8,10,CHO,OKC,3,away,DefReb,,,DefReb,,P. George,
+33,1,7:16.0,8,10,CHO,OKC,8,away,LU,,4,miss2,0,P. George,
+34,1,7:12.0,8,10,CHO,OKC,4,away,OffReb,,,OffReb,,P. George,
+35,1,7:12.0,8,12,CHO,OKC,0,away,LU,,0,make2,2,P. George,
+36,1,6:52.0,8,12,CHO,OKC,20,home,JS,,26,miss3,0,M. Williams,
+37,1,6:49.0,8,12,CHO,OKC,3,home,OffReb,,,OffReb,,N. Batum,
+38,1,6:45.0,8,12,CHO,OKC,4,home,JS,,26,miss3,0,K. Walker,
+39,1,6:43.0,8,12,CHO,OKC,2,away,DefReb,,,DefReb,,P. George,
+40,1,6:40.0,8,12,CHO,OKC,3,away,JS,,25,miss3,0,P. George,
+41,1,6:40.0,8,12,CHO,OKC,0,home,DefReb,,,DefReb,,Team,
+42,1,6:40.0,8,12,CHO,OKC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Adams,C. Zeller
+43,1,6:40.0,8,12,CHO,OKC,0,home,Timeout,,,,,,
+44,1,6:40.0,8,12,CHO,OKC,0,home,Sub,,,,,M. Kidd-Gilchrist,M. Williams
+45,1,6:29.0,10,12,CHO,OKC,11,home,JS,assist,10,make2,2,N. Batum,K. Walker
+46,1,6:12.0,10,12,CHO,OKC,17,away,BadPass,,,turnover,,T. Ferguson,
+47,1,5:51.0,10,12,CHO,OKC,21,home,bad pass,steal,,turnover,,N. Batum,S. Adams
+48,1,5:46.0,10,12,CHO,OKC,5,away,bad pass,steal,,turnover,,S. Adams,K. Walker
+49,1,5:41.0,12,12,CHO,OKC,5,home,DK,assist,2,make2,2,J. Lamb,K. Walker
+50,1,5:20.0,12,12,CHO,OKC,21,away,JS,,25,miss3,0,T. Ferguson,
+51,1,5:20.0,12,12,CHO,OKC,0,away,OffReb,,,OffReb,,J. Grant,
+52,1,5:04.0,12,12,CHO,OKC,16,away,LU,,1,miss2,0,R. Westbrook,
+53,1,5:01.0,12,12,CHO,OKC,3,home,DefReb,,,DefReb,,C. Zeller,
+54,1,4:59.0,12,12,CHO,OKC,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ferguson,K. Walker
+55,1,4:59.0,13,12,CHO,OKC,0,home,FreeThrow,,,make1,1,K. Walker,
+56,1,4:59.0,13,12,CHO,OKC,0,away,Sub,,,,,D. Schröder,T. Ferguson
+57,1,4:59.0,13,12,CHO,OKC,0,home,Sub,,,,,W. Hernangómez,C. Zeller
+58,1,4:59.0,14,12,CHO,OKC,0,home,FreeThrow,,,make1,1,K. Walker,
+59,1,4:48.0,14,12,CHO,OKC,11,away,JS,,26,miss3,0,D. Schröder,
+60,1,4:44.0,14,12,CHO,OKC,4,away,OffReb,,,OffReb,,S. Adams,
+61,1,4:42.0,14,12,CHO,OKC,2,away,OffGoaltending,,,turnover,,S. Adams,
+62,1,4:36.0,14,12,CHO,OKC,6,home,bad pass,steal,,turnover,,N. Batum,P. George
+63,1,4:32.0,14,12,CHO,OKC,4,away,LU,,2,miss2,0,P. George,
+64,1,4:28.0,14,12,CHO,OKC,4,away,OffReb,,,OffReb,,S. Adams,
+65,1,4:27.0,14,12,CHO,OKC,1,away,LU,,2,miss2,0,S. Adams,
+66,1,4:27.0,14,12,CHO,OKC,0,home,DefReb,,,DefReb,,N. Batum,
+67,1,4:24.0,16,12,CHO,OKC,3,home,LU,assist,1,make2,2,M. Kidd-Gilchrist,J. Lamb
+68,1,4:24.0,16,12,CHO,OKC,0,away,Timeout,,,,,,
+69,1,4:24.0,16,12,CHO,OKC,0,home,Sub,,,,,M. Monk,J. Lamb
+70,1,4:08.0,16,12,CHO,OKC,16,away,JS,,26,miss3,0,J. Grant,
+71,1,4:04.0,16,12,CHO,OKC,4,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+72,1,4:01.0,16,12,CHO,OKC,3,home,LU,,1,miss2,0,M. Kidd-Gilchrist,
+73,1,3:59.0,16,12,CHO,OKC,2,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
+74,1,3:59.0,16,12,CHO,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Westbrook,M. Kidd-Gilchrist
+75,1,3:59.0,17,12,CHO,OKC,0,home,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
+76,1,3:59.0,18,12,CHO,OKC,0,home,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
+77,1,3:49.0,18,14,CHO,OKC,10,away,LU,,2,make2,2,R. Westbrook,
+78,1,3:49.0,18,14,CHO,OKC,0,away,TechnicalFoul,,,TechnicalFoul,,R. Westbrook,
+79,1,3:49.0,19,14,CHO,OKC,0,home,FreeThrow,,,make1,1,K. Walker makes technical free throw,
+80,1,3:49.0,19,14,CHO,OKC,0,away,Sub,,,,,P. Patterson,J. Grant
+81,1,3:39.0,19,14,CHO,OKC,10,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,W. Hernangómez,D. Schröder
+82,1,3:39.0,19,14,CHO,OKC,0,home,OffensiveFoul,,,turnover,,W. Hernangómez,
+83,1,3:28.0,19,16,CHO,OKC,11,away,DK,,1,make2,2,R. Westbrook,
+84,1,3:09.0,19,16,CHO,OKC,19,home,LU,block,2,miss2,0,M. Kidd-Gilchrist,S. Adams
+85,1,3:07.0,19,16,CHO,OKC,2,away,DefReb,,,DefReb,,P. Patterson,
+86,1,3:05.0,19,16,CHO,OKC,2,away,OffensiveFoul,,,turnover,,R. Westbrook,
+87,1,3:05.0,19,16,CHO,OKC,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Westbrook,K. Walker
+88,1,3:05.0,19,16,CHO,OKC,0,home,Sub,,,,,T. Parker,K. Walker
+89,1,2:54.0,19,16,CHO,OKC,11,home,BadPass,,,turnover,,M. Monk,
+90,1,2:54.0,19,16,CHO,OKC,0,away,Sub,,,,,Á. Abrines,R. Westbrook
+91,1,2:54.0,19,16,CHO,OKC,0,home,Sub,,,,,M. Bridges,N. Batum
+92,1,2:44.0,19,18,CHO,OKC,10,away,LU,,2,make2,2,D. Schröder,
+93,1,2:27.0,19,18,CHO,OKC,17,home,JS,,24,miss3,0,M. Bridges,
+94,1,2:23.0,19,18,CHO,OKC,4,away,DefReb,,,DefReb,,P. George,
+95,1,2:20.0,19,20,CHO,OKC,3,away,LU,,2,make2,2,D. Schröder,
+96,1,2:20.0,19,20,CHO,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Monk,D. Schröder
+97,1,2:20.0,19,21,CHO,OKC,0,away,FreeThrow,,,make1,1,D. Schröder,
+98,1,1:54.0,19,21,CHO,OKC,26,home,LU,,1,miss2,0,M. Bridges,
+99,1,1:52.0,19,21,CHO,OKC,2,away,DefReb,,,DefReb,,P. Patterson,
+100,1,1:45.0,19,21,CHO,OKC,7,away,JS,,17,miss2,0,P. George,
+101,1,1:43.0,19,21,CHO,OKC,2,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+102,1,1:35.0,19,21,CHO,OKC,8,home,LU,,2,miss2,0,T. Parker,
+103,1,1:30.0,19,21,CHO,OKC,5,away,DefReb,,,DefReb,,P. George,
+104,1,1:23.0,19,21,CHO,OKC,7,away,JS,,26,miss3,0,P. Patterson,
+105,1,1:23.0,19,21,CHO,OKC,0,away,OffReb,,,OffReb,,Team,
+106,1,1:23.0,19,21,CHO,OKC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,W. Hernangómez,S. Adams
+107,1,1:23.0,19,21,CHO,OKC,0,away,Sub,,,,,N. Noel,S. Adams
+108,1,1:19.0,19,21,CHO,OKC,4,away,bad pass,steal,,turnover,,P. George,M. Monk
+109,1,1:14.0,21,21,CHO,OKC,5,home,DK,assist,2,make2,2,M. Bridges,M. Monk
+110,1,0:56.0,21,21,CHO,OKC,18,away,bad pass,steal,,turnover,,D. Schröder,M. Kidd-Gilchrist
+111,1,0:52.0,21,21,CHO,OKC,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Schröder,T. Parker
+112,1,0:52.0,21,21,CHO,OKC,0,home,FreeThrow,,,make1,0,T. Parker,
+113,1,0:52.0,21,21,CHO,OKC,0,home,OffReb,,,OffReb,,Team,
+114,1,0:52.0,21,21,CHO,OKC,0,home,Sub,,,,,C. Zeller,W. Hernangómez
+115,1,0:52.0,22,21,CHO,OKC,0,home,FreeThrow,,,make1,1,T. Parker,
+116,1,0:34.0,22,21,CHO,OKC,18,away,JS,,25,miss3,0,P. George,
+117,1,0:31.0,22,21,CHO,OKC,3,home,DefReb,,,DefReb,,M. Bridges,
+118,1,0:17.0,22,21,CHO,OKC,14,home,JS,,25,miss3,0,M. Monk,
+119,1,0:13.0,22,21,CHO,OKC,4,away,DefReb,,,DefReb,,P. Patterson,
+120,1,0:02.0,22,24,CHO,OKC,11,away,JS,assist,26,make3,3,Á. Abrines,D. Schröder
+121,1,0:00.0,22,24,CHO,OKC,2,home,JS,,64,miss3,0,M. Bridges,
+122,1,0:00.0,22,24,CHO,OKC,0,home,OffReb,,,OffReb,,Team,
+123,2,11:44.0,24,24,CHO,OKC,16,home,DK,assist,1,make2,2,C. Zeller,M. Bridges
+124,2,11:30.0,24,24,CHO,OKC,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bridges,Á. Abrines
+125,2,11:30.0,24,25,CHO,OKC,0,away,FreeThrow,,,make1,1,Á. Abrines,
+126,2,11:30.0,24,26,CHO,OKC,0,away,FreeThrow,,,make1,1,Á. Abrines,
+127,2,11:06.0,26,26,CHO,OKC,24,home,JS,,11,make2,2,M. Monk,
+128,2,10:50.0,26,26,CHO,OKC,16,away,JS,,23,miss3,0,P. Patterson,
+129,2,10:47.0,26,26,CHO,OKC,3,home,DefReb,,,DefReb,,C. Zeller,
+130,2,10:40.0,26,26,CHO,OKC,7,home,bad pass,steal,,turnover,,M. Monk,N. Noel
+131,2,10:38.0,26,26,CHO,OKC,2,away,bad pass,steal,,turnover,,D. Schröder,M. Bridges
+132,2,10:31.0,29,26,CHO,OKC,7,home,JS,assist,25,make3,3,M. Monk,N. Batum
+133,2,10:31.0,29,26,CHO,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,Á. Abrines,M. Monk
+134,2,10:31.0,30,26,CHO,OKC,0,home,FreeThrow,,,make1,1,M. Monk,
+135,2,10:31.0,30,26,CHO,OKC,0,home,Sub,,,,,M. Williams,C. Zeller
+136,2,10:20.0,30,26,CHO,OKC,11,away,LU,block,2,miss2,0,D. Schröder,M. Bridges
+137,2,10:17.0,30,26,CHO,OKC,3,away,OffReb,,,OffReb,,D. Schröder,
+138,2,10:14.0,30,26,CHO,OKC,3,away,JS,,23,miss3,0,P. Patterson,
+139,2,10:12.0,30,26,CHO,OKC,2,home,DefReb,,,DefReb,,M. Bridges,
+140,2,9:58.0,32,26,CHO,OKC,14,home,DK,assist,1,make2,2,M. Bridges,T. Parker
+141,2,9:36.0,32,26,CHO,OKC,22,away,LU,,2,miss2,0,D. Schröder,
+142,2,9:30.0,32,26,CHO,OKC,6,away,OffReb,,,OffReb,,N. Noel,
+143,2,9:30.0,32,28,CHO,OKC,0,away,DK,,0,make2,2,N. Noel,
+144,2,9:27.0,34,28,CHO,OKC,3,home,LU,,1,make2,2,T. Parker,
+145,2,9:27.0,34,28,CHO,OKC,0,away,Timeout,,,,,,
+146,2,9:19.0,34,28,CHO,OKC,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Batum,Á. Abrines
+147,2,9:10.0,34,28,CHO,OKC,9,away,JS,,25,miss3,0,Á. Abrines,
+148,2,9:08.0,34,28,CHO,OKC,2,away,OffReb,,,OffReb,,H. Diallo,
+149,2,9:05.0,34,30,CHO,OKC,3,away,DK,,1,make2,2,H. Diallo,
+150,2,8:40.0,34,30,CHO,OKC,25,home,LU,block,4,miss2,0,T. Parker,N. Noel
+151,2,8:37.0,34,30,CHO,OKC,3,away,DefReb,,,DefReb,,N. Noel,
+152,2,8:34.0,34,30,CHO,OKC,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Williams,D. Schröder
+153,2,8:34.0,34,31,CHO,OKC,0,away,FreeThrow,,,make1,1,D. Schröder,
+154,2,8:34.0,34,31,CHO,OKC,0,away,Sub,,,,,J. Grant,H. Diallo
+155,2,8:34.0,34,31,CHO,OKC,0,away,Sub,,,,,R. Westbrook,P. Patterson
+156,2,8:34.0,34,31,CHO,OKC,0,home,Sub,,,,,M. Kidd-Gilchrist,N. Batum
+157,2,8:34.0,34,31,CHO,OKC,0,home,Sub,,,,,J. Lamb,M. Bridges
+158,2,8:34.0,34,31,CHO,OKC,0,away,FreeThrow,,,make1,0,D. Schröder,
+159,2,8:31.0,34,31,CHO,OKC,3,home,DefReb,,,DefReb,,J. Lamb,
+160,2,8:08.0,34,31,CHO,OKC,23,home,JS,,25,miss3,0,M. Monk,
+161,2,8:05.0,34,31,CHO,OKC,3,away,DefReb,,,DefReb,,R. Westbrook,
+162,2,7:57.0,34,31,CHO,OKC,8,away,JS,,10,miss2,0,R. Westbrook,
+163,2,7:54.0,34,31,CHO,OKC,3,home,DefReb,,,DefReb,,J. Lamb,
+164,2,7:45.0,34,31,CHO,OKC,9,home,JS,,22,miss3,0,M. Monk,
+165,2,7:43.0,34,31,CHO,OKC,2,away,DefReb,,,DefReb,,J. Grant,
+166,2,7:29.0,34,31,CHO,OKC,14,away,JS,,13,miss2,0,R. Westbrook,
+167,2,7:26.0,34,31,CHO,OKC,3,home,DefReb,,,DefReb,,M. Williams,
+168,2,7:21.0,34,31,CHO,OKC,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Grant,M. Kidd-Gilchrist
+169,2,7:21.0,34,31,CHO,OKC,0,away,Sub,,,,,S. Adams,N. Noel
+170,2,7:21.0,34,31,CHO,OKC,0,away,Sub,,,,,T. Ferguson,D. Schröder
+171,2,7:21.0,34,31,CHO,OKC,0,home,Sub,,,,,K. Walker,T. Parker
+172,2,7:21.0,34,31,CHO,OKC,0,home,Sub,,,,,C. Zeller,M. Williams
+173,2,7:03.0,34,31,CHO,OKC,18,home,JS,,11,miss2,0,C. Zeller,
+174,2,7:03.0,34,31,CHO,OKC,0,home,OffReb,,,OffReb,,Team,
+175,2,7:03.0,34,31,CHO,OKC,0,home,ShotClockViolation,,,turnover,,Team,
+176,2,6:53.0,34,31,CHO,OKC,10,away,LU,,1,miss2,0,S. Adams,
+177,2,6:50.0,34,31,CHO,OKC,3,away,OffReb,,,OffReb,,S. Adams,
+178,2,6:47.0,34,31,CHO,OKC,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kidd-Gilchrist,R. Westbrook
+179,2,6:47.0,34,32,CHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+180,2,6:47.0,34,32,CHO,OKC,0,home,Timeout,,,,,,
+181,2,6:47.0,34,32,CHO,OKC,0,away,Sub,,,,,P. George,Á. Abrines
+182,2,6:47.0,34,32,CHO,OKC,0,away,FreeThrow,,,make1,0,R. Westbrook,
+183,2,6:44.0,34,32,CHO,OKC,3,home,DefReb,,,DefReb,,K. Walker,
+184,2,6:35.0,34,32,CHO,OKC,9,home,JS,,27,miss3,0,J. Lamb,
+185,2,6:31.0,34,32,CHO,OKC,4,away,DefReb,,,DefReb,,J. Grant,
+186,2,6:18.0,34,32,CHO,OKC,13,away,LU,,1,miss2,0,S. Adams,
+187,2,6:18.0,34,32,CHO,OKC,0,away,OffReb,,,OffReb,,S. Adams,
+188,2,6:18.0,34,32,CHO,OKC,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Zeller,S. Adams
+189,2,6:18.0,34,33,CHO,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+190,2,6:18.0,34,33,CHO,OKC,0,away,FreeThrow,,,make1,0,S. Adams,
+191,2,6:07.0,34,33,CHO,OKC,11,home,DefReb,,,DefReb,,C. Zeller,
+192,2,6:01.0,34,33,CHO,OKC,6,home,JS,,26,miss3,0,M. Monk,
+193,2,5:58.0,34,33,CHO,OKC,3,away,DefReb,,,DefReb,,R. Westbrook,
+194,2,5:54.0,34,33,CHO,OKC,4,away,JS,,26,miss3,0,P. George,
+195,2,5:50.0,34,33,CHO,OKC,4,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+196,2,5:40.0,34,33,CHO,OKC,10,home,LU,,5,miss2,0,M. Kidd-Gilchrist,
+197,2,5:37.0,34,33,CHO,OKC,3,away,DefReb,,,DefReb,,J. Grant,
+198,2,5:34.0,34,33,CHO,OKC,3,away,JS,,15,miss2,0,R. Westbrook,
+199,2,5:32.0,34,33,CHO,OKC,2,home,DefReb,,,DefReb,,J. Lamb,
+200,2,5:23.0,36,33,CHO,OKC,9,home,LU,assist,1,make2,2,J. Lamb,C. Zeller
+201,2,5:13.0,36,33,CHO,OKC,10,away,JS,,18,miss2,0,P. George,
+202,2,5:09.0,36,33,CHO,OKC,4,home,DefReb,,,DefReb,,C. Zeller,
+203,2,5:06.0,36,33,CHO,OKC,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,C. Zeller
+204,2,5:06.0,37,33,CHO,OKC,0,home,FreeThrow,,,make1,1,C. Zeller,
+205,2,5:06.0,37,33,CHO,OKC,0,home,Sub,,,,,M. Bridges,M. Monk
+206,2,5:06.0,37,33,CHO,OKC,0,home,FreeThrow,,,make1,0,C. Zeller,
+207,2,5:03.0,37,33,CHO,OKC,3,away,DefReb,,,DefReb,,R. Westbrook,
+208,2,5:01.0,37,33,CHO,OKC,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Walker,R. Westbrook
+209,2,5:01.0,37,34,CHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+210,2,5:01.0,37,34,CHO,OKC,0,away,FreeThrow,,,make1,0,R. Westbrook,
+211,2,4:58.0,37,34,CHO,OKC,3,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+212,2,4:39.0,37,34,CHO,OKC,19,home,LU,block,2,miss2,0,M. Kidd-Gilchrist,J. Grant
+213,2,4:38.0,37,34,CHO,OKC,1,home,OffReb,,,OffReb,,Team,
+214,2,4:34.0,37,34,CHO,OKC,4,home,JS,,13,miss2,0,J. Lamb,
+215,2,4:29.0,37,34,CHO,OKC,5,away,DefReb,,,DefReb,,R. Westbrook,
+216,2,4:23.0,37,36,CHO,OKC,6,away,JS,assist,18,make2,2,R. Westbrook,J. Grant
+217,2,3:59.0,37,36,CHO,OKC,24,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Zeller,S. Adams
+218,2,3:59.0,37,36,CHO,OKC,0,home,OffensiveFoul,,,turnover,,C. Zeller,
+219,2,3:59.0,37,36,CHO,OKC,0,home,Sub,,,,,N. Batum,M. Kidd-Gilchrist
+220,2,3:59.0,37,36,CHO,OKC,0,home,Sub,,,,,W. Hernangómez,C. Zeller
+221,2,3:49.0,37,36,CHO,OKC,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Hernangómez,J. Grant
+222,2,3:49.0,37,37,CHO,OKC,0,away,FreeThrow,,,make1,1,J. Grant,
+223,2,3:49.0,37,37,CHO,OKC,0,away,FreeThrow,,,make1,0,J. Grant,
+224,2,3:48.0,37,37,CHO,OKC,1,home,DefReb,,,DefReb,,Team,
+225,2,3:48.0,37,37,CHO,OKC,0,home,Sub,,,,,T. Parker,J. Lamb
+226,2,3:37.0,37,37,CHO,OKC,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ferguson,K. Walker
+227,2,3:37.0,37,37,CHO,OKC,0,away,Sub,,,,,D. Schröder,T. Ferguson
+228,2,3:26.0,37,37,CHO,OKC,11,home,JS,block,8,miss2,0,W. Hernangómez,J. Grant
+229,2,3:26.0,37,37,CHO,OKC,0,home,OffReb,,,OffReb,,Team,
+230,2,3:21.0,40,37,CHO,OKC,5,home,JS,assist,23,make3,3,W. Hernangómez,N. Batum
+231,2,3:06.0,40,37,CHO,OKC,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bridges,J. Grant
+232,2,3:06.0,40,38,CHO,OKC,0,away,FreeThrow,,,make1,1,J. Grant,
+233,2,3:06.0,40,39,CHO,OKC,0,away,FreeThrow,,,make1,1,J. Grant,
+234,2,2:53.0,43,39,CHO,OKC,13,home,JS,assist,23,make3,3,N. Batum,T. Parker
+235,2,2:40.0,43,39,CHO,OKC,13,away,JS,,10,miss2,0,J. Grant,
+236,2,2:37.0,43,39,CHO,OKC,3,home,DefReb,,,DefReb,,K. Walker,
+237,2,2:27.0,43,39,CHO,OKC,10,home,LU,block,2,miss2,0,K. Walker,S. Adams
+238,2,2:27.0,43,39,CHO,OKC,0,home,OffReb,,,OffReb,,Team,
+239,2,2:21.0,43,39,CHO,OKC,6,home,JS,,20,miss2,0,N. Batum,
+240,2,2:18.0,43,39,CHO,OKC,3,away,DefReb,,,DefReb,,P. George,
+241,2,2:11.0,43,41,CHO,OKC,7,away,JS,,17,make2,2,P. George,
+242,2,1:50.0,43,41,CHO,OKC,21,home,LU,block,2,miss2,0,T. Parker,S. Adams
+243,2,1:47.0,43,41,CHO,OKC,3,away,DefReb,,,DefReb,,Team,
+244,2,1:43.0,43,41,CHO,OKC,4,away,LU,block,2,miss2,0,J. Grant,W. Hernangómez
+245,2,1:40.0,43,41,CHO,OKC,3,home,DefReb,,,DefReb,,Team,
+246,2,1:36.0,43,41,CHO,OKC,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Schröder,T. Parker
+247,2,1:36.0,44,41,CHO,OKC,0,home,FreeThrow,,,make1,1,T. Parker,
+248,2,1:36.0,44,41,CHO,OKC,0,away,Sub,,,,,Á. Abrines,J. Grant
+249,2,1:36.0,45,41,CHO,OKC,0,home,FreeThrow,,,make1,1,T. Parker,
+250,2,1:26.0,45,41,CHO,OKC,10,away,JS,,23,miss3,0,P. George,
+251,2,1:22.0,45,41,CHO,OKC,4,away,OffReb,,,OffReb,,R. Westbrook,
+252,2,1:18.0,45,44,CHO,OKC,4,away,JS,assist,26,make3,3,Á. Abrines,R. Westbrook
+253,2,1:08.0,45,44,CHO,OKC,10,home,LU,,7,miss2,0,W. Hernangómez,
+254,2,1:06.0,45,44,CHO,OKC,2,away,DefReb,,,DefReb,,S. Adams,
+255,2,0:55.0,45,44,CHO,OKC,11,away,JS,,25,miss3,0,D. Schröder,
+256,2,0:50.0,45,44,CHO,OKC,5,home,DefReb,,,DefReb,,N. Batum,
+257,2,0:48.0,47,44,CHO,OKC,2,home,LU,assist,2,make2,2,T. Parker,M. Bridges
+258,2,0:48.0,47,44,CHO,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,Á. Abrines,T. Parker
+259,2,0:48.0,48,44,CHO,OKC,0,home,FreeThrow,,,make1,1,T. Parker,
+260,2,0:39.0,48,44,CHO,OKC,9,away,LU,,1,miss2,0,R. Westbrook,
+261,2,0:36.0,48,44,CHO,OKC,3,home,DefReb,,,DefReb,,W. Hernangómez,
+262,2,0:29.0,48,44,CHO,OKC,7,home,JS,,26,miss3,0,K. Walker,
+263,2,0:29.0,48,44,CHO,OKC,0,away,DefReb,,,DefReb,,D. Schröder,
+264,2,0:05.0,48,44,CHO,OKC,24,away,JS,,26,miss3,0,Á. Abrines,
+265,2,0:03.0,48,44,CHO,OKC,2,home,DefReb,,,DefReb,,M. Bridges,
+266,2,0:03.0,48,44,CHO,OKC,0,home,JS,,46,miss3,0,M. Bridges,
+267,2,0:01.0,48,44,CHO,OKC,2,home,OffReb,,,OffReb,,W. Hernangómez,
+268,2,0:00.0,48,44,CHO,OKC,1,home,LU,,1,miss2,0,W. Hernangómez,
+269,2,0:00.0,48,44,CHO,OKC,0,home,OffReb,,,OffReb,,Team,
+270,3,11:44.0,51,44,CHO,OKC,16,home,JS,assist,23,make3,3,N. Batum,K. Walker
+271,3,11:28.0,51,44,CHO,OKC,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Walker,T. Ferguson
+272,3,11:19.0,51,44,CHO,OKC,9,away,JS,,16,miss2,0,R. Westbrook,
+273,3,11:17.0,51,44,CHO,OKC,2,home,DefReb,,,DefReb,,K. Walker,
+274,3,11:16.0,51,44,CHO,OKC,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ferguson,C. Zeller
+275,3,11:04.0,53,44,CHO,OKC,12,home,JS,assist,8,make2,2,M. Williams,K. Walker
+276,3,10:53.0,53,44,CHO,OKC,11,away,lost ball,steal,,turnover,,P. George,J. Lamb
+277,3,10:37.0,56,44,CHO,OKC,16,home,JS,assist,25,make3,3,J. Lamb,N. Batum
+278,3,10:37.0,56,44,CHO,OKC,0,away,Timeout,,,,,,
+279,3,10:37.0,56,44,CHO,OKC,0,away,Sub,,,,,Á. Abrines,T. Ferguson
+280,3,10:14.0,56,44,CHO,OKC,23,away,JS,,29,miss3,0,P. George,
+281,3,10:10.0,56,44,CHO,OKC,4,home,DefReb,,,DefReb,,C. Zeller,
+282,3,10:01.0,56,44,CHO,OKC,9,home,bad pass,steal,,turnover,,C. Zeller,R. Westbrook
+283,3,9:55.0,56,44,CHO,OKC,6,away,JS,,26,miss3,0,Á. Abrines,
+284,3,9:52.0,56,44,CHO,OKC,3,home,DefReb,,,DefReb,,C. Zeller,
+285,3,9:48.0,59,44,CHO,OKC,4,home,JS,assist,29,make3,3,K. Walker,N. Batum
+286,3,9:30.0,59,44,CHO,OKC,18,away,LU,,1,miss2,0,R. Westbrook,
+287,3,9:28.0,59,44,CHO,OKC,2,home,DefReb,,,DefReb,,J. Lamb,
+288,3,9:26.0,62,44,CHO,OKC,2,home,JS,assist,25,make3,3,K. Walker,J. Lamb
+289,3,9:11.0,62,44,CHO,OKC,15,away,bad pass,steal,,turnover,,R. Westbrook,N. Batum
+290,3,8:58.0,62,44,CHO,OKC,13,home,LU,,2,miss2,0,M. Williams,
+291,3,8:56.0,62,44,CHO,OKC,2,away,DefReb,,,DefReb,,R. Westbrook,
+292,3,8:49.0,62,47,CHO,OKC,7,away,JS,assist,23,make3,3,Á. Abrines,P. George
+293,3,8:27.0,62,47,CHO,OKC,22,home,JS,,16,miss2,0,N. Batum,
+294,3,8:25.0,62,47,CHO,OKC,2,away,DefReb,,,DefReb,,J. Grant,
+295,3,8:19.0,62,47,CHO,OKC,6,away,JS,,26,miss3,0,R. Westbrook,
+296,3,8:16.0,62,47,CHO,OKC,3,home,DefReb,,,DefReb,,J. Lamb,
+297,3,8:10.0,62,47,CHO,OKC,6,home,JS,,25,miss3,0,K. Walker,
+298,3,8:07.0,62,47,CHO,OKC,3,away,DefReb,,,DefReb,,P. George,
+299,3,7:56.0,62,47,CHO,OKC,11,away,JS,,25,miss3,0,R. Westbrook,
+300,3,7:54.0,62,47,CHO,OKC,2,home,DefReb,,,DefReb,,M. Williams,
+301,3,7:49.0,64,47,CHO,OKC,5,home,LU,,1,make2,2,K. Walker,
+302,3,7:49.0,64,47,CHO,OKC,0,away,Timeout,,,,,,
+303,3,7:49.0,64,47,CHO,OKC,0,away,Sub,,,,,D. Schröder,J. Grant
+304,3,7:49.0,64,47,CHO,OKC,0,home,Sub,,,,,M. Kidd-Gilchrist,M. Williams
+305,3,7:38.0,64,47,CHO,OKC,11,away,JS,,21,miss2,0,R. Westbrook,
+306,3,7:34.0,64,47,CHO,OKC,4,home,DefReb,,,DefReb,,J. Lamb,
+307,3,7:20.0,66,47,CHO,OKC,14,home,LU,assist,1,make2,2,K. Walker,C. Zeller
+308,3,7:13.0,66,47,CHO,OKC,7,away,JS,,29,miss3,0,P. George,
+309,3,7:12.0,66,47,CHO,OKC,1,home,DefReb,,,DefReb,,Team,
+310,3,7:12.0,66,47,CHO,OKC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Adams,C. Zeller
+311,3,6:53.0,66,47,CHO,OKC,19,home,JS,,25,miss3,0,J. Lamb,
+312,3,6:49.0,66,47,CHO,OKC,4,away,DefReb,,,DefReb,,P. George,
+313,3,6:41.0,66,49,CHO,OKC,8,away,LU,assist,1,make2,2,S. Adams,R. Westbrook
+314,3,6:26.0,66,49,CHO,OKC,15,home,bad pass,steal,,turnover,,N. Batum,R. Westbrook
+315,3,6:26.0,66,51,CHO,OKC,0,away,DK,,1,make2,2,R. Westbrook,
+316,3,6:26.0,66,51,CHO,OKC,0,home,Timeout,,,,,,
+317,3,6:10.0,66,51,CHO,OKC,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Westbrook,J. Lamb
+318,3,5:59.0,66,51,CHO,OKC,11,home,DK,block,1,miss2,0,C. Zeller,P. George
+319,3,5:56.0,66,51,CHO,OKC,3,home,OffReb,,,OffReb,,C. Zeller,
+320,3,5:49.0,66,51,CHO,OKC,7,home,JS,,26,miss3,0,J. Lamb,
+321,3,5:45.0,66,51,CHO,OKC,4,away,DefReb,,,DefReb,,S. Adams,
+322,3,5:40.0,66,54,CHO,OKC,5,away,JS,assist,26,make3,3,D. Schröder,R. Westbrook
+323,3,5:21.0,66,54,CHO,OKC,19,home,JS,,24,miss3,0,K. Walker,
+324,3,5:19.0,66,54,CHO,OKC,2,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
+325,3,5:19.0,66,54,CHO,OKC,0,home,LU,block,0,miss2,0,M. Kidd-Gilchrist,P. George
+326,3,5:19.0,66,54,CHO,OKC,0,home,OffReb,,,OffReb,,Team,
+327,3,5:19.0,66,54,CHO,OKC,0,home,Sub,,,,,T. Parker,J. Lamb
+328,3,5:15.0,66,54,CHO,OKC,4,home,JS,,25,miss3,0,N. Batum,
+329,3,5:14.0,66,54,CHO,OKC,1,away,DefReb,,,DefReb,,Team,
+330,3,4:52.0,66,56,CHO,OKC,22,away,LU,assist,1,make2,2,Á. Abrines,D. Schröder
+331,3,4:39.0,66,56,CHO,OKC,13,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Kidd-Gilchrist,P. George
+332,3,4:39.0,66,56,CHO,OKC,0,home,OffensiveFoul,,,turnover,,M. Kidd-Gilchrist,
+333,3,4:39.0,66,56,CHO,OKC,0,home,Sub,,,,,W. Hernangómez,C. Zeller
+334,3,4:21.0,66,59,CHO,OKC,18,away,JS,assist,25,make3,3,Á. Abrines,R. Westbrook
+335,3,4:00.0,66,59,CHO,OKC,21,home,JS,,23,miss3,0,T. Parker,
+336,3,3:57.0,66,59,CHO,OKC,3,home,OffReb,,,OffReb,,W. Hernangómez,
+337,3,3:55.0,66,59,CHO,OKC,2,home,JS,,25,miss3,0,K. Walker,
+338,3,3:53.0,66,59,CHO,OKC,2,away,DefReb,,,DefReb,,P. George,
+339,3,3:48.0,66,59,CHO,OKC,5,away,JS,,25,miss3,0,R. Westbrook,
+340,3,3:45.0,66,59,CHO,OKC,3,home,DefReb,,,DefReb,,W. Hernangómez,
+341,3,3:36.0,68,59,CHO,OKC,9,home,LU,,2,make2,2,K. Walker,
+342,3,3:30.0,68,61,CHO,OKC,6,away,LU,assist,2,make2,2,Á. Abrines,R. Westbrook
+343,3,3:10.0,68,61,CHO,OKC,20,home,bad pass,steal,,turnover,,T. Parker,S. Adams
+344,3,3:05.0,68,63,CHO,OKC,5,away,LU,assist,1,make2,2,Á. Abrines,R. Westbrook
+345,3,3:04.0,68,63,CHO,OKC,1,home,Timeout,,,,,,
+346,3,3:04.0,68,63,CHO,OKC,0,away,Sub,,,,,N. Noel,S. Adams
+347,3,3:04.0,68,63,CHO,OKC,0,home,Sub,,,,,M. Bridges,N. Batum
+348,3,3:04.0,68,63,CHO,OKC,0,home,Sub,,,,,M. Monk,K. Walker
+349,3,2:44.0,68,63,CHO,OKC,20,home,lost ball,steal,,turnover,,M. Monk,R. Westbrook
+350,3,2:37.0,68,65,CHO,OKC,7,away,DK,,2,make2,2,R. Westbrook,
+351,3,2:19.0,70,65,CHO,OKC,18,home,JS,,16,make2,2,M. Monk,
+352,3,1:55.0,70,67,CHO,OKC,24,away,DK,assist,1,make2,2,N. Noel,P. George
+353,3,1:36.0,73,67,CHO,OKC,19,home,JS,assist,25,make3,3,T. Parker,M. Monk
+354,3,1:21.0,73,67,CHO,OKC,15,away,JS,,28,miss3,0,P. George,
+355,3,1:18.0,73,67,CHO,OKC,3,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+356,3,1:05.0,73,67,CHO,OKC,13,home,Timeout,,,,,,
+357,3,1:05.0,73,67,CHO,OKC,0,away,Sub,,,,,H. Diallo,R. Westbrook
+358,3,0:56.0,73,67,CHO,OKC,9,home,JS,,19,miss2,0,T. Parker,
+359,3,0:52.0,73,67,CHO,OKC,4,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
+360,3,0:52.0,75,67,CHO,OKC,0,home,LU,,0,make2,2,M. Kidd-Gilchrist,
+361,3,0:47.0,75,70,CHO,OKC,5,away,JS,assist,25,make3,3,Á. Abrines,P. George
+362,3,0:36.0,75,70,CHO,OKC,11,home,JS,,28,miss3,0,M. Monk,
+363,3,0:32.0,75,70,CHO,OKC,4,home,OffReb,,,OffReb,,W. Hernangómez,
+364,3,0:26.0,75,70,CHO,OKC,6,home,JS,,24,miss3,0,M. Kidd-Gilchrist,
+365,3,0:26.0,75,70,CHO,OKC,0,home,OffReb,,,OffReb,,Team,
+366,3,0:26.0,75,70,CHO,OKC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,H. Diallo,W. Hernangómez
+367,3,0:26.0,75,70,CHO,OKC,0,away,Sub,,,,,J. Grant,N. Noel
+368,3,0:26.0,75,70,CHO,OKC,0,home,Sub,,,,,K. Walker,W. Hernangómez
+369,3,0:26.0,75,70,CHO,OKC,0,home,Sub,,,,,M. Williams,M. Kidd-Gilchrist
+370,3,0:17.0,75,70,CHO,OKC,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,Á. Abrines,M. Monk
+371,3,0:17.0,76,70,CHO,OKC,0,home,FreeThrow,,,make1,1,M. Monk,
+372,3,0:17.0,76,70,CHO,OKC,0,home,Sub,,,,,M. Kidd-Gilchrist,T. Parker
+373,3,0:17.0,76,70,CHO,OKC,0,home,Sub,,,,,J. Lamb,K. Walker
+374,3,0:17.0,77,70,CHO,OKC,0,home,FreeThrow,,,make1,1,M. Monk,
+375,3,0:04.0,77,72,CHO,OKC,13,away,LU,,1,make2,2,D. Schröder,
+376,3,0:04.0,77,72,CHO,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Monk,D. Schröder
+377,3,0:04.0,77,72,CHO,OKC,0,away,Sub,,,,,T. Ferguson,Á. Abrines
+378,3,0:04.0,77,72,CHO,OKC,0,home,Sub,,,,,K. Walker,M. Kidd-Gilchrist
+379,3,0:04.0,77,73,CHO,OKC,0,away,FreeThrow,,,make1,1,D. Schröder,
+380,3,0:00.0,77,73,CHO,OKC,4,home,bad pass,steal,,turnover,,M. Bridges,D. Schröder
+381,3,0:00.0,77,73,CHO,OKC,0,away,JS,,25,miss3,0,P. George,
+382,3,0:00.0,77,73,CHO,OKC,0,away,OffReb,,,OffReb,,Team,
+383,4,11:46.0,77,75,CHO,OKC,14,away,DK,assist,1,make2,2,J. Grant,D. Schröder
+384,4,11:30.0,80,75,CHO,OKC,16,home,JS,assist,26,make3,3,M. Monk,T. Parker
+385,4,11:23.0,80,75,CHO,OKC,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Monk,D. Schröder
+386,4,11:23.0,80,76,CHO,OKC,0,away,FreeThrow,,,make1,1,D. Schröder,
+387,4,11:23.0,80,77,CHO,OKC,0,away,FreeThrow,,,make1,1,D. Schröder,
+388,4,11:13.0,80,77,CHO,OKC,10,home,JS,,25,miss3,0,M. Monk,
+389,4,11:10.0,80,77,CHO,OKC,3,away,DefReb,,,DefReb,,J. Grant,
+390,4,11:03.0,80,77,CHO,OKC,7,away,LU,,1,miss2,0,D. Schröder,
+391,4,10:57.0,80,77,CHO,OKC,6,away,OffReb,,,OffReb,,H. Diallo,
+392,4,10:57.0,80,79,CHO,OKC,0,away,LU,,1,make2,2,H. Diallo,
+393,4,10:39.0,82,79,CHO,OKC,18,home,JS,,7,make2,2,T. Parker,
+394,4,10:18.0,82,79,CHO,OKC,21,away,JS,,25,miss3,0,D. Schröder,
+395,4,10:15.0,82,79,CHO,OKC,3,home,DefReb,,,DefReb,,N. Batum,
+396,4,10:11.0,82,79,CHO,OKC,4,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Williams,Á. Abrines
+397,4,10:11.0,82,79,CHO,OKC,0,home,OffensiveFoul,,,turnover,,M. Williams,
+398,4,9:59.0,82,81,CHO,OKC,12,away,DK,assist,1,make2,2,J. Grant,D. Schröder
+399,4,9:40.0,84,81,CHO,OKC,19,home,JS,assist,7,make2,2,M. Monk,N. Batum
+400,4,9:21.0,84,83,CHO,OKC,19,away,LU,,1,make2,2,D. Schröder,
+401,4,8:54.0,86,83,CHO,OKC,27,home,JS,assist,7,make2,2,M. Williams,T. Parker
+402,4,8:42.0,86,83,CHO,OKC,12,away,JS,,28,miss3,0,D. Schröder,
+403,4,8:39.0,86,83,CHO,OKC,3,home,DefReb,,,DefReb,,M. Bridges,
+404,4,8:33.0,88,83,CHO,OKC,6,home,LU,,1,make2,2,T. Parker,
+405,4,8:33.0,88,83,CHO,OKC,0,away,Timeout,,,,,,
+406,4,8:33.0,88,83,CHO,OKC,0,away,Sub,,,,,P. George,Á. Abrines
+407,4,8:33.0,88,83,CHO,OKC,0,away,Sub,,,,,R. Westbrook,D. Schröder
+408,4,8:27.0,88,83,CHO,OKC,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Batum,P. George
+409,4,8:15.0,88,83,CHO,OKC,12,away,JS,,24,miss3,0,H. Diallo,
+410,4,8:11.0,88,83,CHO,OKC,4,home,DefReb,,,DefReb,,M. Bridges,
+411,4,8:04.0,88,83,CHO,OKC,7,home,JS,,8,miss2,0,T. Parker,
+412,4,8:00.0,88,83,CHO,OKC,4,away,DefReb,,,DefReb,,T. Ferguson,
+413,4,7:53.0,88,86,CHO,OKC,7,away,JS,assist,23,make3,3,J. Grant,T. Ferguson
+414,4,7:36.0,88,86,CHO,OKC,17,home,lost ball,steal,,turnover,,N. Batum,P. George
+415,4,7:32.0,88,88,CHO,OKC,4,away,DK,,1,make2,2,H. Diallo,
+416,4,7:09.0,88,88,CHO,OKC,23,home,JS,,13,miss2,0,T. Parker,
+417,4,7:09.0,88,88,CHO,OKC,0,home,OffReb,,,OffReb,,T. Parker,
+418,4,7:09.0,88,88,CHO,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ferguson,T. Parker
+419,4,7:09.0,89,88,CHO,OKC,0,home,FreeThrow,,,make1,1,T. Parker,
+420,4,7:09.0,89,88,CHO,OKC,0,away,Sub,,,,,Á. Abrines,T. Ferguson
+421,4,7:09.0,89,88,CHO,OKC,0,away,Sub,,,,,S. Adams,J. Grant
+422,4,7:09.0,89,88,CHO,OKC,0,home,Sub,,,,,M. Kidd-Gilchrist,M. Bridges
+423,4,7:09.0,89,88,CHO,OKC,0,home,Sub,,,,,C. Zeller,M. Williams
+424,4,7:09.0,90,88,CHO,OKC,0,home,FreeThrow,,,make1,1,T. Parker,
+425,4,6:54.0,90,88,CHO,OKC,15,away,JS,,18,miss2,0,P. George,
+426,4,6:52.0,90,88,CHO,OKC,2,away,OffReb,,,OffReb,,S. Adams,
+427,4,6:48.0,90,90,CHO,OKC,4,away,JS,,19,make2,2,R. Westbrook,
+428,4,6:31.0,93,90,CHO,OKC,17,home,JS,assist,26,make3,3,M. Monk,N. Batum
+429,4,6:13.0,93,92,CHO,OKC,18,away,JS,,13,make2,2,R. Westbrook,
+430,4,5:47.0,93,92,CHO,OKC,26,home,JS,,23,miss3,0,M. Kidd-Gilchrist,
+431,4,5:45.0,93,92,CHO,OKC,2,away,DefReb,,,DefReb,,R. Westbrook,
+432,4,5:45.0,93,92,CHO,OKC,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Parker,R. Westbrook
+433,4,5:45.0,93,92,CHO,OKC,0,away,Sub,,,,,D. Schröder,H. Diallo
+434,4,5:45.0,93,92,CHO,OKC,0,home,Sub,,,,,J. Lamb,N. Batum
+435,4,5:45.0,93,92,CHO,OKC,0,home,Sub,,,,,K. Walker,T. Parker
+436,4,5:31.0,93,94,CHO,OKC,14,away,LU,assist,1,make2,2,D. Schröder,R. Westbrook
+437,4,5:13.0,93,94,CHO,OKC,18,home,JS,,26,miss3,0,M. Monk,
+438,4,5:09.0,93,94,CHO,OKC,4,away,DefReb,,,DefReb,,Á. Abrines,
+439,4,4:57.0,93,96,CHO,OKC,12,away,JS,,17,make2,2,R. Westbrook,
+440,4,4:37.0,93,96,CHO,OKC,20,home,JS,,26,miss3,0,J. Lamb,
+441,4,4:34.0,93,96,CHO,OKC,3,away,DefReb,,,DefReb,,Á. Abrines,
+442,4,4:26.0,93,96,CHO,OKC,8,away,JS,,28,miss3,0,P. George,
+443,4,4:23.0,93,96,CHO,OKC,3,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+444,4,4:21.0,95,96,CHO,OKC,2,home,LU,,1,make2,2,M. Kidd-Gilchrist,
+445,4,4:21.0,95,96,CHO,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,Á. Abrines,M. Kidd-Gilchrist
+446,4,4:21.0,96,96,CHO,OKC,0,home,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
+447,4,4:05.0,96,96,CHO,OKC,16,away,JS,,18,miss2,0,R. Westbrook,
+448,4,4:01.0,96,96,CHO,OKC,4,away,OffReb,,,OffReb,,S. Adams,
+449,4,3:57.0,96,96,CHO,OKC,4,away,JS,,25,miss3,0,Á. Abrines,
+450,4,3:57.0,96,96,CHO,OKC,0,away,OffReb,,,OffReb,,Team,
+451,4,3:57.0,96,96,CHO,OKC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Walker,S. Adams
+452,4,3:57.0,96,96,CHO,OKC,0,home,Sub,,,,,N. Batum,M. Monk
+453,4,3:49.0,96,98,CHO,OKC,8,away,LU,,1,make2,2,R. Westbrook,
+454,4,3:49.0,96,98,CHO,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Batum,R. Westbrook
+455,4,3:49.0,96,99,CHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+456,4,3:27.0,96,99,CHO,OKC,22,home,JS,,8,miss2,0,K. Walker,
+457,4,3:25.0,96,99,CHO,OKC,2,away,DefReb,,,DefReb,,P. George,
+458,4,3:14.0,96,99,CHO,OKC,11,away,JS,,28,miss3,0,Á. Abrines,
+459,4,3:09.0,96,99,CHO,OKC,5,away,OffReb,,,OffReb,,S. Adams,
+460,4,3:09.0,96,99,CHO,OKC,0,away,LU,,3,miss2,0,S. Adams,
+461,4,3:08.0,96,99,CHO,OKC,1,home,DefReb,,,DefReb,,N. Batum,
+462,4,2:49.0,96,99,CHO,OKC,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Schröder,J. Lamb
+463,4,2:49.0,96,99,CHO,OKC,0,home,Timeout,,,,,,
+464,4,2:49.0,97,99,CHO,OKC,0,home,FreeThrow,,,make1,1,J. Lamb,
+465,4,2:49.0,98,99,CHO,OKC,0,home,FreeThrow,,,make1,1,J. Lamb,
+466,4,2:35.0,98,99,CHO,OKC,14,away,LU,,2,miss2,0,Á. Abrines,
+467,4,2:35.0,98,99,CHO,OKC,0,away,OffReb,,,OffReb,,Team,
+468,4,2:33.0,98,99,CHO,OKC,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kidd-Gilchrist,P. George
+469,4,2:33.0,98,100,CHO,OKC,0,away,FreeThrow,,,make1,1,P. George,
+470,4,2:33.0,98,100,CHO,OKC,0,home,Sub,,,,,T. Parker,M. Kidd-Gilchrist
+471,4,2:33.0,98,101,CHO,OKC,0,away,FreeThrow,,,make1,1,P. George,
+472,4,2:12.0,98,101,CHO,OKC,21,home,bad pass,steal,,turnover,,C. Zeller,P. George
+473,4,2:07.0,98,101,CHO,OKC,5,away,LU,block,2,miss2,0,D. Schröder,C. Zeller
+474,4,2:04.0,98,101,CHO,OKC,3,home,DefReb,,,DefReb,,N. Batum,
+475,4,2:00.0,98,101,CHO,OKC,4,home,LU,block,2,miss2,0,K. Walker,P. George
+476,4,1:57.0,98,101,CHO,OKC,3,home,OffReb,,,OffReb,,K. Walker,
+477,4,1:57.0,98,101,CHO,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. George,K. Walker
+478,4,1:57.0,99,101,CHO,OKC,0,home,FreeThrow,,,make1,1,K. Walker,
+479,4,1:57.0,99,101,CHO,OKC,0,home,Sub,,,,,M. Kidd-Gilchrist,T. Parker
+480,4,1:57.0,100,101,CHO,OKC,0,home,FreeThrow,,,make1,1,K. Walker,
+481,4,1:43.0,100,103,CHO,OKC,14,away,JS,assist,20,make2,2,Á. Abrines,R. Westbrook
+482,4,1:27.0,102,103,CHO,OKC,16,home,JS,,20,make2,2,K. Walker,
+483,4,1:12.0,102,106,CHO,OKC,15,away,JS,assist,26,make3,3,D. Schröder,R. Westbrook
+484,4,0:53.0,102,106,CHO,OKC,19,home,JS,,26,miss3,0,K. Walker,
+485,4,0:51.0,102,106,CHO,OKC,2,away,DefReb,,,DefReb,,R. Westbrook,
+486,4,0:35.0,102,108,CHO,OKC,16,away,LU,,1,make2,2,R. Westbrook,
+487,4,0:35.0,102,108,CHO,OKC,0,home,Timeout,,,,,,
+488,4,0:35.0,102,108,CHO,OKC,0,away,Sub,,,,,T. Ferguson,Á. Abrines
+489,4,0:35.0,102,108,CHO,OKC,0,away,Sub,,,,,J. Grant,S. Adams
+490,4,0:35.0,102,108,CHO,OKC,0,home,Sub,,,,,M. Monk,M. Kidd-Gilchrist
+491,4,0:28.0,102,108,CHO,OKC,7,home,JS,,23,miss3,0,M. Monk,
+492,4,0:25.0,102,108,CHO,OKC,3,away,DefReb,,,DefReb,,D. Schröder,
+493,4,0:25.0,102,108,CHO,OKC,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Zeller,D. Schröder
+494,4,0:25.0,102,108,CHO,OKC,0,away,FreeThrow,,,make1,0,D. Schröder,
+495,4,0:25.0,102,108,CHO,OKC,0,away,OffReb,,,OffReb,,Team,
+496,4,0:25.0,102,108,CHO,OKC,0,away,Sub,,,,,S. Adams,J. Grant
+497,4,0:25.0,102,108,CHO,OKC,0,away,FreeThrow,,,make1,0,D. Schröder,
+498,4,0:22.0,102,108,CHO,OKC,3,home,DefReb,,,DefReb,,J. Lamb,
+499,4,0:17.0,104,108,CHO,OKC,5,home,LU,,1,make2,2,K. Walker,
+500,4,0:13.0,104,110,CHO,OKC,4,away,DK,assist,1,make2,2,R. Westbrook,D. Schröder
+501,4,0:07.0,107,110,CHO,OKC,6,home,JS,assist,26,make3,3,M. Monk,K. Walker
+502,4,0:05.0,107,110,CHO,OKC,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Batum,P. George
+503,4,0:05.0,107,111,CHO,OKC,0,away,FreeThrow,,,make1,1,P. George,
+504,4,0:05.0,107,111,CHO,OKC,0,away,FreeThrow,,,make1,0,P. George,
+505,4,0:02.0,107,111,CHO,OKC,3,home,DefReb,,,DefReb,,K. Walker,
+506,4,0:00.0,107,111,CHO,OKC,2,home,lost ball,steal,,turnover,,K. Walker,P. George

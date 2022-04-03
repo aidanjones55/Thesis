@@ -1,0 +1,468 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:48.0,0,0,CHO,CLE,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Smith,N. Batum
+1,1,11:34.0,2,0,CHO,CLE,14,home,DK,assist,1,make2,2,N. Batum,D. Howard
+2,1,11:15.0,2,0,CHO,CLE,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Howard,I. Shumpert
+3,1,11:15.0,2,1,CHO,CLE,0,away,FreeThrow,,,make1,1,I. Shumpert,
+4,1,11:15.0,2,2,CHO,CLE,0,away,FreeThrow,,,make1,1,I. Shumpert,
+5,1,10:57.0,2,2,CHO,CLE,18,home,JS,,5,miss2,0,M. Williams,
+6,1,10:54.0,2,2,CHO,CLE,3,away,DefReb,,,DefReb,,L. James,
+7,1,10:51.0,2,4,CHO,CLE,3,away,LU,,2,make2,2,L. James,
+8,1,10:51.0,2,4,CHO,CLE,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kidd-Gilchrist,L. James
+9,1,10:51.0,2,5,CHO,CLE,0,away,FreeThrow,,,make1,1,L. James,
+10,1,10:43.0,4,5,CHO,CLE,8,home,LU,assist,1,make2,2,N. Batum,K. Walker
+11,1,10:28.0,4,5,CHO,CLE,15,away,JS,,25,miss3,0,K. Love,
+12,1,10:25.0,4,5,CHO,CLE,3,home,DefReb,,,DefReb,,N. Batum,
+13,1,10:21.0,4,5,CHO,CLE,4,home,bad pass,steal,,turnover,,N. Batum,L. James
+14,1,10:16.0,4,7,CHO,CLE,5,away,LU,,1,make2,2,L. James,
+15,1,10:01.0,4,7,CHO,CLE,15,home,JS,,29,miss3,0,K. Walker,
+16,1,9:58.0,4,7,CHO,CLE,3,away,DefReb,,,DefReb,,L. James,
+17,1,9:52.0,4,10,CHO,CLE,6,away,JS,assist,25,make3,3,K. Love,J. Crowder
+18,1,9:39.0,4,10,CHO,CLE,13,away,ChargeFoul,DrawnBy,,ChargeFoul,,M. Williams,K. Love
+19,1,9:39.0,4,10,CHO,CLE,0,home,OffensiveFoul,,,turnover,,M. Williams,
+20,1,9:23.0,4,10,CHO,CLE,16,away,LU,,2,miss2,0,L. James,
+21,1,9:17.0,4,10,CHO,CLE,6,away,OffReb,,,OffReb,,J. Crowder,
+22,1,9:17.0,4,10,CHO,CLE,0,away,LU,,0,miss2,0,J. Crowder,
+23,1,9:16.0,4,10,CHO,CLE,1,home,DefReb,,,DefReb,,M. Williams,
+24,1,9:13.0,4,10,CHO,CLE,3,home,OutOfBounds,,,turnover,,D. Howard,
+25,1,8:57.0,4,12,CHO,CLE,16,away,JS,assist,3,make2,2,K. Love,J. Smith
+26,1,8:50.0,4,12,CHO,CLE,7,home,JS,,26,miss3,0,N. Batum,
+27,1,8:47.0,4,12,CHO,CLE,3,away,DefReb,,,DefReb,,K. Love,
+28,1,8:41.0,4,12,CHO,CLE,6,away,LU,,2,miss2,0,L. James,
+29,1,8:41.0,4,12,CHO,CLE,0,away,OffReb,,,OffReb,,I. Shumpert,
+30,1,8:35.0,4,12,CHO,CLE,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Howard,K. Love
+31,1,8:35.0,4,13,CHO,CLE,0,away,FreeThrow,,,make1,1,K. Love,
+32,1,8:35.0,4,14,CHO,CLE,0,away,FreeThrow,,,make1,1,K. Love,
+33,1,8:23.0,6,14,CHO,CLE,12,home,DK,assist,1,make2,2,N. Batum,K. Walker
+34,1,8:09.0,6,16,CHO,CLE,14,away,DK,assist,1,make2,2,L. James,J. Smith
+35,1,7:52.0,6,16,CHO,CLE,17,home,LU,block,3,miss2,0,M. Kidd-Gilchrist,K. Love
+36,1,7:48.0,6,16,CHO,CLE,4,away,DefReb,,,DefReb,,K. Love,
+37,1,7:38.0,6,19,CHO,CLE,10,away,JS,assist,25,make3,3,J. Crowder,I. Shumpert
+38,1,7:30.0,6,19,CHO,CLE,8,home,Timeout,,,,,,
+39,1,7:21.0,6,19,CHO,CLE,9,home,JS,,26,miss3,0,M. Williams,
+40,1,7:18.0,6,19,CHO,CLE,3,away,DefReb,,,DefReb,,J. Smith,
+41,1,7:08.0,6,19,CHO,CLE,10,away,bad pass,steal,,turnover,,K. Love,M. Kidd-Gilchrist
+42,1,7:06.0,8,19,CHO,CLE,2,home,LU,,0,make2,2,M. Williams,
+43,1,7:06.0,8,19,CHO,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crowder,M. Williams
+44,1,7:06.0,9,19,CHO,CLE,0,home,FreeThrow,,,make1,1,M. Williams,
+45,1,6:44.0,9,19,CHO,CLE,22,away,bad pass,steal,,turnover,,I. Shumpert,N. Batum
+46,1,6:41.0,9,19,CHO,CLE,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Shumpert,D. Howard
+47,1,6:41.0,9,19,CHO,CLE,0,home,FreeThrow,,,make1,0,D. Howard,
+48,1,6:41.0,9,19,CHO,CLE,0,home,OffReb,,,OffReb,,Team,
+49,1,6:41.0,10,19,CHO,CLE,0,home,FreeThrow,,,make1,1,D. Howard,
+50,1,6:27.0,10,19,CHO,CLE,14,away,JS,,13,miss2,0,K. Love,
+51,1,6:24.0,10,19,CHO,CLE,3,home,DefReb,,,DefReb,,M. Williams,
+52,1,6:18.0,12,19,CHO,CLE,6,home,HS,assist,6,make2,2,D. Howard,K. Walker
+53,1,6:07.0,12,19,CHO,CLE,11,away,bad pass,steal,,turnover,,J. Smith,N. Batum
+54,1,6:07.0,14,19,CHO,CLE,0,home,LU,,1,make2,2,N. Batum,
+55,1,6:07.0,14,19,CHO,CLE,0,away,Timeout,,,,,,
+56,1,6:07.0,14,19,CHO,CLE,0,home,Sub,,,,,J. Lamb,N. Batum
+57,1,5:56.0,14,19,CHO,CLE,11,away,JS,,22,miss2,0,J. Crowder,
+58,1,5:53.0,14,19,CHO,CLE,3,home,DefReb,,,DefReb,,D. Howard,
+59,1,5:48.0,17,19,CHO,CLE,5,home,JS,,25,make3,3,K. Walker,
+60,1,5:30.0,17,19,CHO,CLE,18,away,JS,,26,miss3,0,J. Smith,
+61,1,5:30.0,17,19,CHO,CLE,0,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+62,1,5:20.0,17,19,CHO,CLE,10,home,LU,,3,miss2,0,D. Howard,
+63,1,5:14.0,17,19,CHO,CLE,6,home,OffReb,,,OffReb,,D. Howard,
+64,1,5:14.0,19,19,CHO,CLE,0,home,LU,,0,make2,2,D. Howard,
+65,1,4:54.0,19,19,CHO,CLE,20,away,JS,,3,miss2,0,K. Love,
+66,1,4:48.0,19,19,CHO,CLE,6,away,OffReb,,,OffReb,,K. Love,
+67,1,4:48.0,19,21,CHO,CLE,0,away,LU,,0,make2,2,K. Love,
+68,1,4:36.0,21,21,CHO,CLE,12,home,LU,assist,1,make2,2,K. Walker,J. Lamb
+69,1,4:25.0,21,21,CHO,CLE,11,away,JS,,21,miss2,0,I. Shumpert,
+70,1,4:22.0,21,21,CHO,CLE,3,away,OffReb,,,OffReb,,J. Crowder,
+71,1,4:20.0,21,21,CHO,CLE,2,away,JS,,25,miss3,0,I. Shumpert,
+72,1,4:16.0,21,21,CHO,CLE,4,home,DefReb,,,DefReb,,M. Williams,
+73,1,3:57.0,21,21,CHO,CLE,19,home,JS,,29,miss3,0,J. Lamb,
+74,1,3:55.0,21,21,CHO,CLE,2,home,OffReb,,,OffReb,,D. Howard,
+75,1,3:53.0,21,21,CHO,CLE,2,home,lost ball,steal,,turnover,,D. Howard,I. Shumpert
+76,1,3:48.0,21,23,CHO,CLE,5,away,LU,,1,make2,2,L. James,
+77,1,3:28.0,21,23,CHO,CLE,20,home,LU,,2,miss2,0,M. Kidd-Gilchrist,
+78,1,3:28.0,21,23,CHO,CLE,0,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
+79,1,3:28.0,21,23,CHO,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Love,M. Kidd-Gilchrist
+80,1,3:28.0,22,23,CHO,CLE,0,home,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
+81,1,3:28.0,22,23,CHO,CLE,0,home,Sub,,,,,C. Zeller,D. Howard
+82,1,3:28.0,22,23,CHO,CLE,0,away,Sub,,,,,C. Frye,K. Love
+83,1,3:28.0,22,23,CHO,CLE,0,away,Sub,,,,,K. Korver,I. Shumpert
+84,1,3:28.0,23,23,CHO,CLE,0,home,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
+85,1,3:05.0,23,23,CHO,CLE,23,away,JS,,26,miss3,0,J. Smith,
+86,1,3:01.0,23,23,CHO,CLE,4,home,DefReb,,,DefReb,,J. Lamb,
+87,1,2:54.0,23,23,CHO,CLE,7,home,JS,,27,miss3,0,K. Walker,
+88,1,2:53.0,23,23,CHO,CLE,1,home,OffReb,,,OffReb,,Team,
+89,1,2:53.0,23,23,CHO,CLE,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Korver,C. Zeller
+90,1,2:53.0,24,23,CHO,CLE,0,home,FreeThrow,,,make1,1,C. Zeller,
+91,1,2:53.0,24,23,CHO,CLE,0,home,Sub,,,,,F. Kaminsky,M. Williams
+92,1,2:53.0,24,23,CHO,CLE,0,away,Sub,,,,,J. Green,J. Crowder
+93,1,2:53.0,24,23,CHO,CLE,0,home,FreeThrow,,,make1,0,C. Zeller,
+94,1,2:50.0,24,23,CHO,CLE,3,away,DefReb,,,DefReb,,J. Green,
+95,1,2:38.0,24,25,CHO,CLE,12,away,DK,assist,1,make2,2,J. Green,L. James
+96,1,2:25.0,26,25,CHO,CLE,13,home,JS,assist,17,make2,2,M. Kidd-Gilchrist,K. Walker
+97,1,2:02.0,26,28,CHO,CLE,23,away,JS,assist,28,make3,3,K. Korver,L. James
+98,1,1:39.0,28,28,CHO,CLE,23,home,JS,,12,make2,2,M. Kidd-Gilchrist,
+99,1,1:21.0,28,31,CHO,CLE,18,away,JS,assist,25,make3,3,J. Smith,L. James
+100,1,1:08.0,28,31,CHO,CLE,13,home,JS,,24,miss3,0,K. Walker,
+101,1,1:08.0,28,31,CHO,CLE,0,home,OffReb,,,OffReb,,Team,
+102,1,1:05.0,28,31,CHO,CLE,3,home,Sub,,,,,M. Monk,K. Walker
+103,1,1:05.0,28,31,CHO,CLE,0,away,Sub,,,,,D. Wade,J. Smith
+104,1,0:55.0,28,31,CHO,CLE,10,home,JS,,20,miss2,0,C. Zeller,
+105,1,0:52.0,28,31,CHO,CLE,3,away,DefReb,,,DefReb,,L. James,
+106,1,0:44.0,28,31,CHO,CLE,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kidd-Gilchrist,L. James
+107,1,0:44.0,28,32,CHO,CLE,0,away,FreeThrow,,,make1,1,L. James,
+108,1,0:44.0,28,32,CHO,CLE,0,home,Sub,,,,,D. Bacon,M. Kidd-Gilchrist
+109,1,0:44.0,28,33,CHO,CLE,0,away,FreeThrow,,,make1,1,L. James,
+110,1,0:24.0,30,33,CHO,CLE,20,home,JS,,10,make2,2,J. Lamb,
+111,1,0:01.0,30,36,CHO,CLE,23,away,JS,,25,make3,3,L. James,
+112,1,0:00.0,30,36,CHO,CLE,1,home,JS,,69,miss3,0,M. Monk,
+113,1,0:00.0,30,36,CHO,CLE,0,home,OffReb,,,OffReb,,Team,
+114,2,11:49.0,30,38,CHO,CLE,11,away,DK,assist,0,make2,2,J. Green,D. Wade
+115,2,11:34.0,30,38,CHO,CLE,15,home,JS,,9,miss2,0,D. Bacon,
+116,2,11:30.0,30,38,CHO,CLE,4,away,DefReb,,,DefReb,,C. Frye,
+117,2,11:14.0,30,38,CHO,CLE,16,away,JS,,8,miss2,0,D. Wade,
+118,2,11:10.0,30,38,CHO,CLE,4,home,DefReb,,,DefReb,,J. Lamb,
+119,2,11:05.0,32,38,CHO,CLE,5,home,JS,,21,make2,2,J. Lamb,
+120,2,10:46.0,32,38,CHO,CLE,19,away,JS,,25,miss3,0,C. Frye,
+121,2,10:43.0,32,38,CHO,CLE,3,home,DefReb,,,DefReb,,F. Kaminsky,
+122,2,10:38.0,34,38,CHO,CLE,5,home,LU,,2,make2,2,J. Lamb,
+123,2,10:38.0,34,38,CHO,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Frye,J. Lamb
+124,2,10:38.0,35,38,CHO,CLE,0,home,FreeThrow,,,make1,1,J. Lamb,
+125,2,10:28.0,35,40,CHO,CLE,10,away,LU,,1,make2,2,D. Wade,
+126,2,10:28.0,35,40,CHO,CLE,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bacon,D. Wade
+127,2,10:28.0,35,41,CHO,CLE,0,away,FreeThrow,,,make1,1,D. Wade,
+128,2,10:11.0,35,41,CHO,CLE,17,home,JS,,9,miss2,0,F. Kaminsky,
+129,2,10:08.0,35,41,CHO,CLE,3,away,DefReb,,,DefReb,,D. Wade,
+130,2,9:59.0,35,43,CHO,CLE,9,away,LU,assist,1,make2,2,I. Shumpert,D. Wade
+131,2,9:47.0,35,43,CHO,CLE,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,J. Lamb
+132,2,9:47.0,36,43,CHO,CLE,0,home,FreeThrow,,,make1,1,J. Lamb,
+133,2,9:47.0,36,43,CHO,CLE,0,home,Sub,,,,,N. Batum,D. Bacon
+134,2,9:47.0,37,43,CHO,CLE,0,home,FreeThrow,,,make1,1,J. Lamb,
+135,2,9:33.0,37,43,CHO,CLE,14,away,JS,,25,miss3,0,K. Korver,
+136,2,9:30.0,37,43,CHO,CLE,3,home,DefReb,,,DefReb,,M. Monk,
+137,2,9:23.0,39,43,CHO,CLE,7,home,JS,,11,make2,2,M. Monk,
+138,2,9:05.0,39,43,CHO,CLE,18,away,bad pass,steal,,turnover,,K. Korver,F. Kaminsky
+139,2,8:57.0,39,43,CHO,CLE,8,home,JS,,14,miss2,0,N. Batum,
+140,2,8:53.0,39,43,CHO,CLE,4,home,OffReb,,,OffReb,,C. Zeller,
+141,2,8:51.0,42,43,CHO,CLE,2,home,JS,assist,25,make3,3,M. Monk,N. Batum
+142,2,8:50.0,42,43,CHO,CLE,1,away,Timeout,,,,,,
+143,2,8:37.0,42,43,CHO,CLE,13,away,LU,,1,miss2,0,C. Frye,
+144,2,8:35.0,42,43,CHO,CLE,2,away,OffReb,,,OffReb,,I. Shumpert,
+145,2,8:33.0,42,43,CHO,CLE,2,away,JS,,25,miss3,0,K. Korver,
+146,2,8:29.0,42,43,CHO,CLE,4,home,DefReb,,,DefReb,,J. Lamb,
+147,2,8:25.0,42,43,CHO,CLE,4,home,JS,,25,miss3,0,M. Monk,
+148,2,8:25.0,42,43,CHO,CLE,0,away,DefReb,,,DefReb,,Team,
+149,2,8:12.0,42,45,CHO,CLE,13,away,JS,assist,0,make2,2,J. Green,D. Wade
+150,2,7:55.0,42,45,CHO,CLE,17,home,JS,,23,miss3,0,J. Lamb,
+151,2,7:55.0,42,45,CHO,CLE,0,away,DefReb,,,DefReb,,D. Wade,
+152,2,7:44.0,42,45,CHO,CLE,11,away,bad pass,steal,,turnover,,D. Wade,J. Lamb
+153,2,7:43.0,42,45,CHO,CLE,1,away,Sub,,,,,K. Love,C. Frye
+154,2,7:42.0,42,45,CHO,CLE,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Korver,J. Lamb
+155,2,7:42.0,42,45,CHO,CLE,0,away,Sub,,,,,L. James,I. Shumpert
+156,2,7:35.0,44,45,CHO,CLE,7,home,DK,assist,1,make2,2,C. Zeller,J. Lamb
+157,2,7:15.0,44,45,CHO,CLE,20,away,LU,block,6,miss2,0,K. Love,C. Zeller
+158,2,7:14.0,44,45,CHO,CLE,1,away,LU,block,10,miss2,0,J. Green,F. Kaminsky
+159,2,7:14.0,44,45,CHO,CLE,0,away,OffReb,,,OffReb,,J. Green,
+160,2,7:13.0,44,45,CHO,CLE,1,away,OffReb,,,OffReb,,D. Wade,
+161,2,7:10.0,44,45,CHO,CLE,3,away,JS,block,9,miss2,0,D. Wade,F. Kaminsky
+162,2,7:09.0,44,45,CHO,CLE,1,home,DefReb,,,DefReb,,M. Monk,
+163,2,7:04.0,44,45,CHO,CLE,5,away,LU,,0,miss2,0,D. Wade,
+164,2,7:04.0,44,45,CHO,CLE,0,away,OffReb,,,OffReb,,Team,
+165,2,6:57.0,44,45,CHO,CLE,7,away,JS,block,9,miss2,0,D. Wade,F. Kaminsky
+166,2,6:52.0,44,45,CHO,CLE,5,home,DefReb,,,DefReb,,M. Monk,
+167,2,6:51.0,46,45,CHO,CLE,1,home,LU,,1,make2,2,F. Kaminsky,
+168,2,6:39.0,46,45,CHO,CLE,12,away,JS,,25,miss3,0,K. Korver,
+169,2,6:39.0,46,45,CHO,CLE,0,home,DefReb,,,DefReb,,C. Zeller,
+170,2,6:29.0,46,45,CHO,CLE,10,home,JS,,22,miss3,0,F. Kaminsky,
+171,2,6:29.0,46,45,CHO,CLE,0,away,DefReb,,,DefReb,,K. Korver,
+172,2,6:22.0,46,45,CHO,CLE,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Zeller,J. Green
+173,2,6:22.0,46,46,CHO,CLE,0,away,FreeThrow,,,make1,1,J. Green,
+174,2,6:22.0,46,46,CHO,CLE,0,home,Sub,,,,,D. Howard,M. Monk
+175,2,6:22.0,46,46,CHO,CLE,0,home,Sub,,,,,M. Kidd-Gilchrist,J. Lamb
+176,2,6:22.0,46,46,CHO,CLE,0,home,Sub,,,,,K. Walker,C. Zeller
+177,2,6:22.0,46,46,CHO,CLE,0,away,Sub,,,,,J. Crowder,D. Wade
+178,2,6:22.0,46,46,CHO,CLE,0,away,Sub,,,,,J. Smith,K. Korver
+179,2,6:22.0,46,47,CHO,CLE,0,away,FreeThrow,,,make1,1,J. Green,
+180,2,6:10.0,48,47,CHO,CLE,12,home,JS,assist,15,make2,2,M. Kidd-Gilchrist,N. Batum
+181,2,5:50.0,48,47,CHO,CLE,20,away,JS,,25,miss3,0,K. Love,
+182,2,5:46.0,48,47,CHO,CLE,4,home,DefReb,,,DefReb,,N. Batum,
+183,2,5:39.0,48,47,CHO,CLE,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,D. Howard
+184,2,5:39.0,48,47,CHO,CLE,0,home,FreeThrow,,,make1,0,D. Howard,
+185,2,5:39.0,48,47,CHO,CLE,0,home,OffReb,,,OffReb,,Team,
+186,2,5:39.0,48,47,CHO,CLE,0,home,FreeThrow,,,make1,0,D. Howard,
+187,2,5:35.0,48,47,CHO,CLE,4,away,DefReb,,,DefReb,,J. Smith,
+188,2,5:27.0,48,47,CHO,CLE,8,home,KickBallViolation,,,KickBallViolation,,M. Kidd-Gilchrist,
+189,2,5:22.0,48,47,CHO,CLE,5,away,BadPass,,,turnover,,J. Green,
+190,2,5:13.0,48,47,CHO,CLE,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,K. Walker
+191,2,5:13.0,48,47,CHO,CLE,0,home,FreeThrow,,,make1,0,K. Walker,
+192,2,5:13.0,48,47,CHO,CLE,0,home,OffReb,,,OffReb,,Team,
+193,2,5:13.0,48,47,CHO,CLE,0,away,Sub,,,,,I. Shumpert,J. Green
+194,2,5:13.0,49,47,CHO,CLE,0,home,FreeThrow,,,make1,1,K. Walker,
+195,2,4:58.0,49,47,CHO,CLE,15,away,JS,,22,miss3,0,J. Smith,
+196,2,4:54.0,49,47,CHO,CLE,4,home,DefReb,,,DefReb,,K. Walker,
+197,2,4:48.0,49,47,CHO,CLE,6,home,HS,,5,miss2,0,D. Howard,
+198,2,4:46.0,49,47,CHO,CLE,2,away,DefReb,,,DefReb,,K. Love,
+199,2,4:40.0,49,49,CHO,CLE,6,away,LU,assist,1,make2,2,K. Love,I. Shumpert
+200,2,4:40.0,49,49,CHO,CLE,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,F. Kaminsky,K. Love
+201,2,4:40.0,49,50,CHO,CLE,0,away,FreeThrow,,,make1,1,K. Love,
+202,2,4:23.0,51,50,CHO,CLE,17,home,JS,assist,14,make2,2,M. Kidd-Gilchrist,D. Howard
+203,2,3:57.0,51,50,CHO,CLE,26,away,JS,,22,miss3,0,I. Shumpert,
+204,2,3:55.0,51,50,CHO,CLE,2,away,OffReb,,,OffReb,,L. James,
+205,2,3:47.0,51,52,CHO,CLE,8,away,DK,,0,make2,2,L. James,
+206,2,3:34.0,53,52,CHO,CLE,13,home,LU,assist,1,make2,2,N. Batum,K. Walker
+207,2,3:16.0,53,52,CHO,CLE,18,away,JS,,21,miss2,0,J. Smith,
+208,2,3:16.0,53,52,CHO,CLE,0,home,DefReb,,,DefReb,,F. Kaminsky,
+209,2,3:05.0,53,52,CHO,CLE,11,home,LU,block,3,miss2,0,K. Walker,I. Shumpert
+210,2,3:05.0,53,52,CHO,CLE,0,home,OffReb,,,OffReb,,Team,
+211,2,3:05.0,53,52,CHO,CLE,0,home,Sub,,,,,M. Williams,F. Kaminsky
+212,2,3:01.0,56,52,CHO,CLE,4,home,JS,assist,22,make3,3,N. Batum,M. Williams
+213,2,2:44.0,56,52,CHO,CLE,17,away,bad pass,steal,,turnover,,L. James,M. Kidd-Gilchrist
+214,2,2:39.0,56,52,CHO,CLE,5,home,LU,,2,miss2,0,M. Kidd-Gilchrist,
+215,2,2:39.0,56,52,CHO,CLE,0,home,OffReb,,,OffReb,,N. Batum,
+216,2,2:39.0,58,52,CHO,CLE,0,home,DK,,0,make2,2,N. Batum,
+217,2,2:23.0,58,52,CHO,CLE,16,away,JS,block,6,miss2,0,L. James,M. Kidd-Gilchrist
+218,2,2:23.0,58,52,CHO,CLE,0,away,OffReb,,,OffReb,,Team,
+219,2,2:23.0,58,52,CHO,CLE,0,home,Timeout,,,,,,
+220,2,2:23.0,58,52,CHO,CLE,0,home,Sub,,,,,J. Lamb,M. Kidd-Gilchrist
+221,2,2:15.0,58,54,CHO,CLE,8,away,JS,assist,12,make2,2,J. Smith,I. Shumpert
+222,2,1:57.0,60,54,CHO,CLE,18,home,LU,assist,9,make2,2,M. Williams,K. Walker
+223,2,1:57.0,60,54,CHO,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crowder,M. Williams
+224,2,1:57.0,61,54,CHO,CLE,0,home,FreeThrow,,,make1,1,M. Williams,
+225,2,1:44.0,61,56,CHO,CLE,13,away,LU,,2,make2,2,J. Smith,
+226,2,1:29.0,61,56,CHO,CLE,15,home,BadPass,,,turnover,,K. Walker,
+227,2,1:29.0,61,56,CHO,CLE,0,home,Sub,,,,,C. Zeller,D. Howard
+228,2,1:12.0,61,56,CHO,CLE,17,away,JS,,24,miss3,0,J. Crowder,
+229,2,1:12.0,61,56,CHO,CLE,0,away,OffReb,,,OffReb,,Team,
+230,2,1:12.0,61,56,CHO,CLE,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Zeller,K. Love
+231,2,1:12.0,61,56,CHO,CLE,0,away,Sub,,,,,D. Wade,J. Crowder
+232,2,1:05.0,61,59,CHO,CLE,7,away,JS,,26,make3,3,L. James,
+233,2,0:47.0,64,59,CHO,CLE,18,home,JS,,25,make3,3,K. Walker,
+234,2,0:42.0,64,59,CHO,CLE,5,away,JS,,26,miss3,0,L. James,
+235,2,0:37.0,64,59,CHO,CLE,5,home,DefReb,,,DefReb,,J. Lamb,
+236,2,0:33.0,66,59,CHO,CLE,4,home,LU,,1,make2,2,K. Walker,
+237,2,0:33.0,66,59,CHO,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. James,K. Walker
+238,2,0:33.0,67,59,CHO,CLE,0,home,FreeThrow,,,make1,1,K. Walker,
+239,2,0:18.0,67,61,CHO,CLE,15,away,LU,assist,2,make2,2,K. Love,J. Smith
+240,2,0:01.0,67,61,CHO,CLE,17,home,LU,block,3,miss2,0,C. Zeller,L. James
+241,2,0:01.0,67,61,CHO,CLE,0,away,DefReb,,,DefReb,,K. Love,
+242,2,0:00.0,67,61,CHO,CLE,1,away,JS,,41,miss3,0,J. Smith,
+243,2,0:00.0,67,61,CHO,CLE,0,away,OffReb,,,OffReb,,Team,
+244,3,11:47.0,67,63,CHO,CLE,13,away,LU,assist,1,make2,2,K. Love,L. James
+245,3,11:34.0,67,63,CHO,CLE,13,home,lost ball,steal,,turnover,,N. Batum,J. Smith
+246,3,11:15.0,67,63,CHO,CLE,19,away,LU,block,0,miss2,0,I. Shumpert,M. Williams
+247,3,11:11.0,67,63,CHO,CLE,4,home,DefReb,,,DefReb,,M. Williams,
+248,3,11:03.0,69,63,CHO,CLE,8,home,DK,assist,0,make2,2,M. Kidd-Gilchrist,N. Batum
+249,3,10:44.0,69,65,CHO,CLE,19,away,LU,assist,1,make2,2,K. Love,J. Crowder
+250,3,10:27.0,69,65,CHO,CLE,17,home,lost ball,steal,,turnover,,D. Howard,K. Love
+251,3,10:27.0,69,65,CHO,CLE,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Howard,K. Love
+252,3,10:20.0,69,65,CHO,CLE,7,away,OutOfBounds,,,turnover,,K. Love,
+253,3,10:08.0,69,65,CHO,CLE,12,home,JS,,19,miss2,0,M. Kidd-Gilchrist,
+254,3,10:04.0,69,65,CHO,CLE,4,away,DefReb,,,DefReb,,I. Shumpert,
+255,3,9:54.0,69,65,CHO,CLE,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Howard,K. Love
+256,3,9:54.0,69,65,CHO,CLE,0,home,Sub,,,,,C. Zeller,D. Howard
+257,3,9:46.0,69,68,CHO,CLE,8,away,JS,assist,23,make3,3,I. Shumpert,J. Crowder
+258,3,9:46.0,69,68,CHO,CLE,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Walker,I. Shumpert
+259,3,9:46.0,69,68,CHO,CLE,0,away,FreeThrow,,,make1,0,I. Shumpert,
+260,3,9:43.0,69,68,CHO,CLE,3,home,DefReb,,,DefReb,,C. Zeller,
+261,3,9:27.0,69,68,CHO,CLE,16,home,JS,,25,miss3,0,K. Walker,
+262,3,9:23.0,69,68,CHO,CLE,4,away,DefReb,,,DefReb,,J. Crowder,
+263,3,9:16.0,69,68,CHO,CLE,7,away,JS,,25,miss3,0,I. Shumpert,
+264,3,9:14.0,69,68,CHO,CLE,2,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+265,3,9:09.0,69,68,CHO,CLE,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,K. Walker
+266,3,9:09.0,70,68,CHO,CLE,0,home,FreeThrow,,,make1,1,K. Walker,
+267,3,9:09.0,70,68,CHO,CLE,0,home,FreeThrow,,,make1,0,K. Walker,
+268,3,9:06.0,70,68,CHO,CLE,3,away,DefReb,,,DefReb,,K. Love,
+269,3,8:56.0,70,70,CHO,CLE,10,away,JS,assist,20,make2,2,K. Love,L. James
+270,3,8:40.0,70,70,CHO,CLE,16,home,JS,,25,miss3,0,N. Batum,
+271,3,8:37.0,70,70,CHO,CLE,3,away,DefReb,,,DefReb,,J. Smith,
+272,3,8:19.0,70,73,CHO,CLE,18,away,JS,assist,26,make3,3,J. Smith,I. Shumpert
+273,3,8:02.0,73,73,CHO,CLE,17,home,JS,assist,25,make3,3,K. Walker,N. Batum
+274,3,7:40.0,73,76,CHO,CLE,22,away,JS,,26,make3,3,L. James,
+275,3,7:18.0,73,76,CHO,CLE,22,home,LU,,2,miss2,0,N. Batum,
+276,3,7:15.0,73,76,CHO,CLE,3,away,DefReb,,,DefReb,,K. Love,
+277,3,7:06.0,73,76,CHO,CLE,9,away,JS,,11,miss2,0,L. James,
+278,3,7:05.0,73,76,CHO,CLE,1,home,DefReb,,,DefReb,,Team,
+279,3,7:05.0,73,76,CHO,CLE,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Crowder,M. Williams
+280,3,6:52.0,76,76,CHO,CLE,13,home,JS,assist,25,make3,3,M. Williams,C. Zeller
+281,3,6:28.0,76,76,CHO,CLE,24,away,JS,,17,miss2,0,K. Love,
+282,3,6:21.0,76,76,CHO,CLE,7,home,DefReb,,,DefReb,,N. Batum,
+283,3,6:16.0,76,76,CHO,CLE,5,home,JS,,23,miss3,0,M. Williams,
+284,3,6:16.0,76,76,CHO,CLE,0,home,OffReb,,,OffReb,,Team,
+285,3,6:16.0,76,76,CHO,CLE,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,L. James,C. Zeller
+286,3,6:16.0,76,76,CHO,CLE,0,home,Timeout,,,,,,
+287,3,6:07.0,76,76,CHO,CLE,9,home,JS,,8,miss2,0,N. Batum,
+288,3,6:04.0,76,76,CHO,CLE,3,away,DefReb,,,DefReb,,K. Love,
+289,3,5:46.0,76,76,CHO,CLE,18,away,JS,,24,miss3,0,J. Crowder,
+290,3,5:42.0,76,76,CHO,CLE,4,away,OffReb,,,OffReb,,L. James,
+291,3,5:32.0,76,76,CHO,CLE,10,away,LU,,5,miss2,0,L. James,
+292,3,5:28.0,76,76,CHO,CLE,4,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+293,3,5:25.0,76,76,CHO,CLE,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Shumpert,C. Zeller
+294,3,5:25.0,77,76,CHO,CLE,0,home,FreeThrow,,,make1,1,C. Zeller,
+295,3,5:25.0,77,76,CHO,CLE,0,home,Sub,,,,,J. Lamb,N. Batum
+296,3,5:25.0,78,76,CHO,CLE,0,home,FreeThrow,,,make1,1,C. Zeller,
+297,3,5:05.0,78,76,CHO,CLE,20,away,BadPass,,,turnover,,J. Crowder,
+298,3,4:42.0,80,76,CHO,CLE,23,home,JS,,20,make2,2,M. Kidd-Gilchrist,
+299,3,4:26.0,80,76,CHO,CLE,16,home,ChargeFoul,DrawnBy,,ChargeFoul,,L. James,K. Walker
+300,3,4:26.0,80,76,CHO,CLE,0,away,OffensiveFoul,,,turnover,,L. James,
+301,3,4:26.0,80,76,CHO,CLE,0,away,Sub,,,,,C. Frye,K. Love
+302,3,4:11.0,80,76,CHO,CLE,15,home,JS,,25,miss3,0,K. Walker,
+303,3,4:02.0,80,76,CHO,CLE,9,away,DefReb,,,DefReb,,C. Frye,
+304,3,3:59.0,80,79,CHO,CLE,3,away,JS,,25,make3,3,L. James,
+305,3,3:39.0,82,79,CHO,CLE,20,home,JS,assist,7,make2,2,C. Zeller,J. Lamb
+306,3,3:31.0,82,79,CHO,CLE,8,home,ChargeFoul,DrawnBy,,ChargeFoul,,L. James,M. Kidd-Gilchrist
+307,3,3:31.0,82,79,CHO,CLE,0,away,OffensiveFoul,,,turnover,,L. James,
+308,3,3:31.0,82,79,CHO,CLE,0,away,Sub,,,,,D. Wade,L. James
+309,3,3:31.0,82,79,CHO,CLE,0,home,Sub,,,,,D. Bacon,M. Kidd-Gilchrist
+310,3,3:16.0,82,79,CHO,CLE,15,home,JS,,20,miss2,0,M. Williams,
+311,3,3:13.0,82,79,CHO,CLE,3,away,DefReb,,,DefReb,,D. Wade,
+312,3,3:05.0,82,79,CHO,CLE,8,away,JS,,2,miss2,0,J. Crowder,
+313,3,3:02.0,82,79,CHO,CLE,3,home,DefReb,,,DefReb,,K. Walker,
+314,3,3:00.0,82,79,CHO,CLE,2,home,JS,,26,miss3,0,J. Lamb,
+315,3,3:00.0,82,79,CHO,CLE,0,away,DefReb,,,DefReb,,D. Wade,
+316,3,2:54.0,82,79,CHO,CLE,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bacon,J. Crowder
+317,3,2:54.0,82,79,CHO,CLE,0,away,Timeout,,,,,,
+318,3,2:54.0,82,79,CHO,CLE,0,home,Sub,,,,,F. Kaminsky,M. Williams
+319,3,2:54.0,82,80,CHO,CLE,0,away,FreeThrow,,,make1,1,J. Crowder,
+320,3,2:54.0,82,81,CHO,CLE,0,away,FreeThrow,,,make1,1,J. Crowder,
+321,3,2:31.0,82,81,CHO,CLE,23,home,JS,,6,miss2,0,J. Lamb,
+322,3,2:30.0,82,81,CHO,CLE,1,away,DefReb,,,DefReb,,C. Frye,
+323,3,2:17.0,82,81,CHO,CLE,13,away,bad pass,steal,,turnover,,D. Wade,F. Kaminsky
+324,3,2:07.0,82,81,CHO,CLE,10,home,JS,,24,miss3,0,D. Bacon,
+325,3,2:04.0,82,81,CHO,CLE,3,home,OffReb,,,OffReb,,F. Kaminsky,
+326,3,2:02.0,82,81,CHO,CLE,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Wade,J. Lamb
+327,3,2:02.0,83,81,CHO,CLE,0,home,FreeThrow,,,make1,1,J. Lamb,
+328,3,2:02.0,83,81,CHO,CLE,0,away,Sub,,,,,K. Korver,J. Smith
+329,3,2:02.0,84,81,CHO,CLE,0,home,FreeThrow,,,make1,1,J. Lamb,
+330,3,1:46.0,84,81,CHO,CLE,16,away,JS,,25,miss3,0,K. Korver,
+331,3,1:41.0,84,81,CHO,CLE,5,away,OffReb,,,OffReb,,C. Frye,
+332,3,1:41.0,84,83,CHO,CLE,0,away,LU,,0,make2,2,C. Frye,
+333,3,1:28.0,84,83,CHO,CLE,13,home,bad pass,steal,,turnover,,J. Lamb,I. Shumpert
+334,3,1:13.0,84,86,CHO,CLE,15,away,JS,assist,27,make3,3,K. Korver,C. Frye
+335,3,0:56.0,84,86,CHO,CLE,17,home,JS,,8,miss2,0,F. Kaminsky,
+336,3,0:53.0,84,86,CHO,CLE,3,away,DefReb,,,DefReb,,C. Frye,
+337,3,0:50.0,84,86,CHO,CLE,3,away,JS,,28,miss3,0,K. Korver,
+338,3,0:46.0,84,86,CHO,CLE,4,home,DefReb,,,DefReb,,F. Kaminsky,
+339,3,0:36.0,84,86,CHO,CLE,10,home,LU,block,1,miss2,0,C. Zeller,C. Frye
+340,3,0:33.0,84,86,CHO,CLE,3,away,DefReb,,,DefReb,,D. Wade,
+341,3,0:25.0,84,86,CHO,CLE,8,away,JS,,25,miss3,0,C. Frye,
+342,3,0:25.0,84,86,CHO,CLE,0,away,OffReb,,,OffReb,,I. Shumpert,
+343,3,0:02.0,84,86,CHO,CLE,23,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Zeller,D. Wade
+344,3,0:02.0,84,87,CHO,CLE,0,away,FreeThrow,,,make1,1,D. Wade,
+345,3,0:02.0,84,88,CHO,CLE,0,away,FreeThrow,,,make1,1,D. Wade,
+346,4,11:48.0,84,88,CHO,CLE,12,home,lost ball,steal,,turnover,,C. Zeller,D. Wade
+347,4,11:38.0,84,88,CHO,CLE,10,away,JS,,19,miss2,0,D. Wade,
+348,4,11:34.0,84,88,CHO,CLE,4,home,DefReb,,,DefReb,,J. Lamb,
+349,4,11:28.0,86,88,CHO,CLE,6,home,LU,,0,make2,2,J. Lamb,
+350,4,11:11.0,86,91,CHO,CLE,17,away,JS,assist,27,make3,3,K. Korver,D. Wade
+351,4,10:56.0,86,91,CHO,CLE,15,home,JS,,10,miss2,0,M. Monk,
+352,4,10:54.0,86,91,CHO,CLE,2,away,DefReb,,,DefReb,,J. Green,
+353,4,10:51.0,86,91,CHO,CLE,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Zeller,J. Green
+354,4,10:51.0,86,91,CHO,CLE,0,away,FreeThrow,,,make1,0,J. Green,
+355,4,10:51.0,86,91,CHO,CLE,0,away,OffReb,,,OffReb,,Team,
+356,4,10:51.0,86,92,CHO,CLE,0,away,FreeThrow,,,make1,1,J. Green,
+357,4,10:35.0,86,92,CHO,CLE,16,home,bad pass,steal,,turnover,,J. Lamb,D. Wade
+358,4,10:25.0,86,92,CHO,CLE,10,away,JS,,26,miss3,0,I. Shumpert,
+359,4,10:21.0,86,92,CHO,CLE,4,away,OffReb,,,OffReb,,D. Wade,
+360,4,10:21.0,86,92,CHO,CLE,0,away,Turnover,,,turnover,,D. Wade,
+361,4,10:21.0,86,92,CHO,CLE,0,home,Sub,,,,,D. Howard,C. Zeller
+362,4,10:12.0,86,92,CHO,CLE,9,home,LU,,10,miss2,0,J. Lamb,
+363,4,10:09.0,86,92,CHO,CLE,3,away,DefReb,,,DefReb,,C. Frye,
+364,4,10:06.0,86,92,CHO,CLE,3,away,LU,,2,miss2,0,J. Green,
+365,4,10:06.0,86,92,CHO,CLE,0,away,OffReb,,,OffReb,,J. Green,
+366,4,10:01.0,86,95,CHO,CLE,5,away,JS,assist,25,make3,3,C. Frye,J. Green
+367,4,9:49.0,86,95,CHO,CLE,12,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Howard,C. Frye
+368,4,9:49.0,86,95,CHO,CLE,0,home,OffensiveFoul,,,turnover,,D. Howard,
+369,4,9:49.0,86,95,CHO,CLE,0,home,Sub,,,,,N. Batum,M. Monk
+370,4,9:49.0,86,95,CHO,CLE,0,home,Sub,,,,,C. Zeller,J. Lamb
+371,4,9:49.0,86,95,CHO,CLE,0,home,Sub,,,,,K. Walker,D. Howard
+372,4,9:37.0,86,95,CHO,CLE,12,away,JS,,12,miss2,0,D. Wade,
+373,4,9:37.0,86,95,CHO,CLE,0,home,DefReb,,,DefReb,,F. Kaminsky,
+374,4,9:14.0,86,95,CHO,CLE,23,home,LU,,3,miss2,0,K. Walker,
+375,4,9:08.0,86,95,CHO,CLE,6,home,OffReb,,,OffReb,,F. Kaminsky,
+376,4,9:08.0,88,95,CHO,CLE,0,home,DK,,0,make2,2,F. Kaminsky,
+377,4,8:58.0,88,95,CHO,CLE,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Zeller,I. Shumpert
+378,4,8:58.0,88,95,CHO,CLE,0,away,Sub,,,,,L. James,I. Shumpert
+379,4,8:58.0,88,95,CHO,CLE,0,home,Sub,,,,,M. Williams,C. Zeller
+380,4,8:49.0,88,95,CHO,CLE,9,away,JS,,25,miss3,0,K. Korver,
+381,4,8:44.0,88,95,CHO,CLE,5,home,DefReb,,,DefReb,,K. Walker,
+382,4,8:38.0,88,95,CHO,CLE,6,home,LU,,2,miss2,0,K. Walker,
+383,4,8:35.0,88,95,CHO,CLE,3,away,DefReb,,,DefReb,,C. Frye,
+384,4,8:23.0,88,95,CHO,CLE,12,away,JS,,15,miss2,0,L. James,
+385,4,8:23.0,88,95,CHO,CLE,0,home,DefReb,,,DefReb,,K. Walker,
+386,4,8:15.0,90,95,CHO,CLE,8,home,LU,assist,1,make2,2,F. Kaminsky,D. Bacon
+387,4,8:15.0,90,95,CHO,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Korver,F. Kaminsky
+388,4,8:15.0,91,95,CHO,CLE,0,home,FreeThrow,,,make1,1,F. Kaminsky,
+389,4,8:04.0,91,97,CHO,CLE,11,away,DK,assist,1,make2,2,D. Wade,L. James
+390,4,7:49.0,91,97,CHO,CLE,15,home,JS,,27,miss3,0,N. Batum,
+391,4,7:47.0,91,97,CHO,CLE,2,away,DefReb,,,DefReb,,C. Frye,
+392,4,7:31.0,91,99,CHO,CLE,16,away,LU,assist,2,make2,2,C. Frye,L. James
+393,4,7:31.0,91,99,CHO,CLE,0,home,Timeout,,,,,,
+394,4,7:31.0,91,99,CHO,CLE,0,home,Sub,,,,,M. Kidd-Gilchrist,D. Bacon
+395,4,7:31.0,91,99,CHO,CLE,0,home,Sub,,,,,D. Howard,M. Williams
+396,4,7:16.0,93,99,CHO,CLE,15,home,LU,assist,1,make2,2,D. Howard,N. Batum
+397,4,6:59.0,93,101,CHO,CLE,17,away,JS,assist,16,make2,2,C. Frye,D. Wade
+398,4,6:45.0,95,101,CHO,CLE,14,home,JS,,11,make2,2,K. Walker,
+399,4,6:27.0,95,103,CHO,CLE,18,away,LU,,1,make2,2,L. James,
+400,4,6:12.0,95,103,CHO,CLE,15,home,JS,,25,miss3,0,K. Walker,
+401,4,6:09.0,95,103,CHO,CLE,3,away,DefReb,,,DefReb,,J. Green,
+402,4,5:57.0,95,105,CHO,CLE,12,away,JS,,11,make2,2,L. James,
+403,4,5:57.0,95,105,CHO,CLE,0,home,Timeout,,,,,,
+404,4,5:43.0,97,105,CHO,CLE,14,home,LU,,1,make2,2,M. Kidd-Gilchrist,
+405,4,5:22.0,97,105,CHO,CLE,21,away,JS,,22,miss3,0,K. Korver,
+406,4,5:15.0,97,105,CHO,CLE,7,away,OffReb,,,OffReb,,J. Green,
+407,4,5:15.0,97,107,CHO,CLE,0,away,DK,,0,make2,2,J. Green,
+408,4,4:58.0,99,107,CHO,CLE,17,home,JS,assist,2,make2,2,M. Kidd-Gilchrist,K. Walker
+409,4,4:38.0,99,107,CHO,CLE,20,away,JS,,26,miss3,0,C. Frye,
+410,4,4:36.0,99,107,CHO,CLE,2,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+411,4,4:17.0,99,107,CHO,CLE,19,home,LU,,3,miss2,0,F. Kaminsky,
+412,4,4:13.0,99,107,CHO,CLE,4,away,DefReb,,,DefReb,,L. James,
+413,4,4:09.0,99,107,CHO,CLE,4,away,JS,,1,miss2,0,J. Green,
+414,4,4:06.0,99,107,CHO,CLE,3,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+415,4,3:59.0,99,107,CHO,CLE,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Korver,N. Batum
+416,4,3:59.0,100,107,CHO,CLE,0,home,FreeThrow,,,make1,1,N. Batum,
+417,4,3:59.0,100,107,CHO,CLE,0,home,Sub,,,,,M. Williams,F. Kaminsky
+418,4,3:59.0,100,107,CHO,CLE,0,away,Sub,,,,,J. Smith,C. Frye
+419,4,3:59.0,100,107,CHO,CLE,0,away,Sub,,,,,K. Love,D. Wade
+420,4,3:59.0,100,107,CHO,CLE,0,home,FreeThrow,,,make1,0,N. Batum,
+421,4,3:56.0,100,107,CHO,CLE,3,away,DefReb,,,DefReb,,J. Smith,
+422,4,3:37.0,100,109,CHO,CLE,19,away,LU,assist,2,make2,2,K. Love,L. James
+423,4,3:26.0,102,109,CHO,CLE,11,home,LU,,1,make2,2,K. Walker,
+424,4,3:26.0,102,109,CHO,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Love,K. Walker
+425,4,3:26.0,102,109,CHO,CLE,0,home,FreeThrow,,,make1,0,K. Walker,
+426,4,3:23.0,102,109,CHO,CLE,3,away,DefReb,,,DefReb,,K. Love,
+427,4,3:10.0,102,109,CHO,CLE,13,away,JS,,28,miss3,0,L. James,
+428,4,3:07.0,102,109,CHO,CLE,3,home,DefReb,,,DefReb,,N. Batum,
+429,4,3:03.0,102,109,CHO,CLE,4,home,bad pass,steal,,turnover,,N. Batum,L. James
+430,4,2:56.0,102,111,CHO,CLE,7,away,DK,,1,make2,2,L. James,
+431,4,2:48.0,102,111,CHO,CLE,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Love,D. Howard
+432,4,2:42.0,102,111,CHO,CLE,6,home,JS,,20,miss2,0,K. Walker,
+433,4,2:38.0,102,111,CHO,CLE,4,home,OffReb,,,OffReb,,D. Howard,
+434,4,2:38.0,102,111,CHO,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Korver,D. Howard
+435,4,2:38.0,102,111,CHO,CLE,0,home,FreeThrow,,,make1,0,D. Howard,
+436,4,2:38.0,102,111,CHO,CLE,0,home,OffReb,,,OffReb,,Team,
+437,4,2:38.0,103,111,CHO,CLE,0,home,FreeThrow,,,make1,1,D. Howard,
+438,4,2:14.0,103,111,CHO,CLE,24,away,LU,,2,miss2,0,L. James,
+439,4,2:12.0,103,111,CHO,CLE,2,away,OffReb,,,OffReb,,K. Love,
+440,4,2:11.0,103,111,CHO,CLE,1,away,LU,block,2,miss2,0,K. Love,M. Kidd-Gilchrist
+441,4,2:11.0,103,111,CHO,CLE,0,home,DefReb,,,DefReb,,D. Howard,
+442,4,2:05.0,103,111,CHO,CLE,6,home,JS,,26,miss3,0,N. Batum,
+443,4,2:05.0,103,111,CHO,CLE,0,away,DefReb,,,DefReb,,J. Smith,
+444,4,2:03.0,103,111,CHO,CLE,2,away,Timeout,,,,,,
+445,4,1:40.0,103,111,CHO,CLE,23,away,JS,,25,miss3,0,L. James,
+446,4,1:32.0,103,111,CHO,CLE,8,home,DefReb,,,DefReb,,K. Walker,
+447,4,1:28.0,105,111,CHO,CLE,4,home,DK,assist,0,make2,2,M. Kidd-Gilchrist,N. Batum
+448,4,1:04.0,105,111,CHO,CLE,24,away,JS,,12,miss2,0,L. James,
+449,4,1:02.0,105,111,CHO,CLE,2,away,OffReb,,,OffReb,,J. Green,
+450,4,1:02.0,105,113,CHO,CLE,0,away,LU,,0,make2,2,J. Green,
+451,4,0:53.0,105,113,CHO,CLE,9,home,bad pass,steal,,turnover,,N. Batum,J. Smith
+452,4,0:31.0,105,113,CHO,CLE,22,away,JS,,12,miss2,0,L. James,
+453,4,0:31.0,105,113,CHO,CLE,0,away,OffReb,,,OffReb,,Team,
+454,4,0:31.0,105,113,CHO,CLE,0,away,ShotClockViolation,,,turnover,,Team,
+455,4,0:31.0,105,113,CHO,CLE,0,home,Timeout,,,,,,
+456,4,0:31.0,105,113,CHO,CLE,0,home,Sub,,,,,F. Kaminsky,M. Williams
+457,4,0:31.0,105,113,CHO,CLE,0,away,Sub,,,,,J. Crowder,L. James
+458,4,0:31.0,105,113,CHO,CLE,0,away,Sub,,,,,I. Shumpert,K. Love
+459,4,0:25.0,105,113,CHO,CLE,6,home,JS,,25,miss3,0,N. Batum,
+460,4,0:24.0,105,113,CHO,CLE,1,away,DefReb,,,DefReb,,Team,
+461,4,0:24.0,105,113,CHO,CLE,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Howard,J. Green
+462,4,0:24.0,105,113,CHO,CLE,0,home,Sub,,,,,M. Williams,D. Howard
+463,4,0:21.0,105,113,CHO,CLE,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Williams,K. Korver
+464,4,0:21.0,105,114,CHO,CLE,0,away,FreeThrow,,,make1,1,K. Korver,
+465,4,0:21.0,105,115,CHO,CLE,0,away,FreeThrow,,,make1,1,K. Korver,
+466,4,0:14.0,107,115,CHO,CLE,7,home,LU,,0,make2,2,M. Kidd-Gilchrist,

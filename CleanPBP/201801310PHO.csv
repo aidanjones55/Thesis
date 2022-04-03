@@ -1,0 +1,463 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:38.0,3,0,PHO,DAL,22,home,JS,assist,25,make3,3,D. Booker,M. Chriss
+1,1,11:19.0,3,0,PHO,DAL,19,away,JS,,25,miss3,0,W. Matthews,
+2,1,11:15.0,3,0,PHO,DAL,4,home,DefReb,,,DefReb,,T. Chandler,
+3,1,11:09.0,3,0,PHO,DAL,6,home,lost ball,steal,,turnover,,D. Booker,D. Nowitzki
+4,1,11:05.0,3,2,PHO,DAL,4,away,DK,assist,1,make2,2,H. Barnes,D. Nowitzki
+5,1,10:43.0,5,2,PHO,DAL,22,home,LU,assist,9,make2,2,J. Jackson,T. Warren
+6,1,10:22.0,5,2,PHO,DAL,21,away,JS,,21,miss2,0,D. Smith,
+7,1,10:19.0,5,2,PHO,DAL,3,home,DefReb,,,DefReb,,J. Jackson,
+8,1,10:17.0,7,2,PHO,DAL,2,home,DK,assist,0,make2,2,M. Chriss,J. Jackson
+9,1,9:52.0,7,2,PHO,DAL,25,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Chandler,D. Nowitzki
+10,1,9:41.0,7,2,PHO,DAL,11,away,JS,,25,miss3,0,D. Nowitzki,
+11,1,9:36.0,7,2,PHO,DAL,5,away,OffReb,,,OffReb,,D. Powell,
+12,1,9:28.0,7,2,PHO,DAL,8,away,JS,,22,miss2,0,W. Matthews,
+13,1,9:27.0,7,2,PHO,DAL,1,home,DefReb,,,DefReb,,M. Chriss,
+14,1,9:14.0,7,2,PHO,DAL,13,home,JS,,13,miss2,0,D. Booker,
+15,1,9:11.0,7,2,PHO,DAL,3,away,DefReb,,,DefReb,,D. Powell,
+16,1,9:04.0,7,4,PHO,DAL,7,away,LU,,1,make2,2,D. Smith,
+17,1,8:41.0,7,4,PHO,DAL,23,home,DK,,0,miss2,0,M. Chriss,
+18,1,8:37.0,7,4,PHO,DAL,4,away,DefReb,,,DefReb,,D. Powell,
+19,1,8:29.0,7,4,PHO,DAL,8,away,JS,,22,miss3,0,H. Barnes,
+20,1,8:27.0,7,4,PHO,DAL,2,home,DefReb,,,DefReb,,T. Warren,
+21,1,8:23.0,9,4,PHO,DAL,4,home,LU,,0,make2,2,T. Warren,
+22,1,8:09.0,9,4,PHO,DAL,14,away,JS,,22,miss3,0,H. Barnes,
+23,1,8:07.0,9,4,PHO,DAL,2,home,DefReb,,,DefReb,,M. Chriss,
+24,1,8:00.0,9,4,PHO,DAL,7,home,JS,,24,miss3,0,M. Chriss,
+25,1,7:56.0,9,4,PHO,DAL,4,away,DefReb,,,DefReb,,D. Nowitzki,
+26,1,7:34.0,9,4,PHO,DAL,22,away,JS,,18,miss2,0,H. Barnes,
+27,1,7:32.0,9,4,PHO,DAL,2,home,DefReb,,,DefReb,,M. Chriss,
+28,1,7:25.0,11,4,PHO,DAL,7,home,JS,,22,make2,2,J. Jackson,
+29,1,7:23.0,11,4,PHO,DAL,2,away,Timeout,,,,,,
+30,1,7:23.0,11,4,PHO,DAL,0,home,Sub,,,,,J. Dudley,M. Chriss
+31,1,7:23.0,11,4,PHO,DAL,0,away,Sub,,,,,S. Mejri,D. Nowitzki
+32,1,7:23.0,11,4,PHO,DAL,0,away,Sub,,,,,Y. Ferrell,D. Powell
+33,1,7:11.0,11,4,PHO,DAL,12,away,JS,,16,miss2,0,H. Barnes,
+34,1,7:08.0,11,4,PHO,DAL,3,away,OffReb,,,OffReb,,H. Barnes,
+35,1,6:59.0,11,4,PHO,DAL,9,away,JS,,21,miss2,0,D. Smith,
+36,1,6:56.0,11,4,PHO,DAL,3,away,OffReb,,,OffReb,,S. Mejri,
+37,1,6:55.0,11,4,PHO,DAL,1,away,JS,,25,miss3,0,W. Matthews,
+38,1,6:52.0,11,4,PHO,DAL,3,home,DefReb,,,DefReb,,T. Chandler,
+39,1,6:40.0,11,4,PHO,DAL,12,home,JS,,15,miss2,0,T. Warren,
+40,1,6:38.0,11,4,PHO,DAL,2,away,DefReb,,,DefReb,,D. Smith,
+41,1,6:30.0,11,4,PHO,DAL,8,away,JS,,21,miss2,0,H. Barnes,
+42,1,6:26.0,11,4,PHO,DAL,4,home,DefReb,,,DefReb,,J. Jackson,
+43,1,6:19.0,13,4,PHO,DAL,7,home,JS,assist,8,make2,2,T. Warren,J. Jackson
+44,1,6:03.0,13,6,PHO,DAL,16,away,JS,,13,make2,2,Y. Ferrell,
+45,1,5:45.0,15,6,PHO,DAL,18,home,DK,assist,1,make2,2,T. Chandler,T. Warren
+46,1,5:23.0,15,6,PHO,DAL,22,away,LU,,2,miss2,0,S. Mejri,
+47,1,5:21.0,15,6,PHO,DAL,2,home,DefReb,,,DefReb,,J. Jackson,
+48,1,5:18.0,15,6,PHO,DAL,3,home,LU,,0,miss2,0,J. Jackson,
+49,1,5:16.0,15,6,PHO,DAL,2,home,OffReb,,,OffReb,,T. Warren,
+50,1,5:15.0,17,6,PHO,DAL,1,home,LU,,0,make2,2,T. Warren,
+51,1,5:01.0,17,6,PHO,DAL,14,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,H. Barnes,J. Jackson
+52,1,5:01.0,17,6,PHO,DAL,0,away,OffensiveFoul,,,turnover,,H. Barnes,
+53,1,5:01.0,17,6,PHO,DAL,0,home,Sub,,,,,T. Daniels,D. Booker
+54,1,5:01.0,17,6,PHO,DAL,0,home,Sub,,,,,D. Bender,T. Chandler
+55,1,5:01.0,17,6,PHO,DAL,0,home,Sub,,,,,I. Canaan,J. Jackson
+56,1,4:53.0,20,6,PHO,DAL,8,home,JS,,25,make3,3,T. Daniels,
+57,1,4:41.0,20,6,PHO,DAL,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bender,D. Smith
+58,1,4:41.0,20,7,PHO,DAL,0,away,FreeThrow,,,make1,1,D. Smith,
+59,1,4:41.0,20,7,PHO,DAL,0,away,Sub,,,,,D. Harris,W. Matthews
+60,1,4:41.0,20,8,PHO,DAL,0,away,FreeThrow,,,make1,1,D. Smith,
+61,1,4:31.0,23,8,PHO,DAL,10,home,JS,assist,22,make3,3,T. Daniels,I. Canaan
+62,1,4:29.0,23,8,PHO,DAL,2,away,Timeout,,,,,,
+63,1,4:10.0,23,10,PHO,DAL,19,away,LU,assist,0,make2,2,D. Harris,D. Smith
+64,1,3:57.0,23,10,PHO,DAL,13,home,LU,block,1,miss2,0,I. Canaan,S. Mejri
+65,1,3:54.0,23,10,PHO,DAL,3,away,DefReb,,,DefReb,,D. Harris,
+66,1,3:49.0,23,12,PHO,DAL,5,away,LU,,0,make2,2,D. Smith,
+67,1,3:24.0,23,12,PHO,DAL,25,home,JS,,25,miss3,0,T. Warren,
+68,1,3:21.0,23,12,PHO,DAL,3,away,DefReb,,,DefReb,,D. Smith,
+69,1,3:17.0,23,12,PHO,DAL,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Bender,D. Harris
+70,1,3:17.0,23,12,PHO,DAL,0,home,Sub,,,,,D. House,T. Warren
+71,1,3:17.0,23,12,PHO,DAL,0,away,Sub,,,,,M. Kleber,S. Mejri
+72,1,3:09.0,23,12,PHO,DAL,8,away,JS,,24,miss3,0,D. Smith,
+73,1,3:07.0,23,12,PHO,DAL,2,home,DefReb,,,DefReb,,T. Daniels,
+74,1,2:46.0,26,12,PHO,DAL,21,home,JS,assist,24,make3,3,D. House,D. Bender
+75,1,2:26.0,26,12,PHO,DAL,20,away,LU,,1,miss2,0,M. Kleber,
+76,1,2:22.0,26,12,PHO,DAL,4,away,OffReb,,,OffReb,,M. Kleber,
+77,1,2:22.0,26,12,PHO,DAL,0,away,LU,,0,miss2,0,M. Kleber,
+78,1,2:22.0,26,12,PHO,DAL,0,home,DefReb,,,DefReb,,D. House,
+79,1,2:15.0,26,12,PHO,DAL,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,D. Bender
+80,1,2:15.0,26,12,PHO,DAL,0,away,Sub,,,,,D. Nowitzki,D. Smith
+81,1,2:15.0,26,12,PHO,DAL,0,away,Sub,,,,,W. Matthews,H. Barnes
+82,1,2:05.0,29,12,PHO,DAL,10,home,JS,assist,25,make3,3,I. Canaan,D. House
+83,1,1:48.0,29,12,PHO,DAL,17,away,JS,,24,miss3,0,D. Nowitzki,
+84,1,1:45.0,29,12,PHO,DAL,3,home,DefReb,,,DefReb,,D. Bender,
+85,1,1:33.0,29,12,PHO,DAL,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,D. Bender
+86,1,1:24.0,29,12,PHO,DAL,9,home,Traveling,,,turnover,,I. Canaan,
+87,1,1:10.0,29,12,PHO,DAL,14,away,JS,,18,miss2,0,D. Harris,
+88,1,1:07.0,29,12,PHO,DAL,3,away,OffReb,,,OffReb,,M. Kleber,
+89,1,1:05.0,29,14,PHO,DAL,2,away,JS,assist,19,make2,2,Y. Ferrell,M. Kleber
+90,1,0:48.0,29,14,PHO,DAL,17,home,LU,block,5,miss2,0,D. House,M. Kleber
+91,1,0:47.0,29,14,PHO,DAL,1,home,OffReb,,,OffReb,,D. House,
+92,1,0:47.0,29,14,PHO,DAL,0,home,Timeout,,,,,,
+93,1,0:39.0,32,14,PHO,DAL,8,home,JS,assist,22,make3,3,D. House,J. Dudley
+94,1,0:32.0,32,14,PHO,DAL,7,away,bad pass,steal,,turnover,,D. Harris,I. Canaan
+95,1,0:26.0,32,14,PHO,DAL,6,home,JS,,25,miss3,0,J. Dudley,
+96,1,0:24.0,32,14,PHO,DAL,2,home,OffReb,,,OffReb,,D. House,
+97,1,0:23.0,35,14,PHO,DAL,1,home,JS,assist,25,make3,3,J. Dudley,D. House
+98,1,0:07.0,35,17,PHO,DAL,16,away,JS,assist,24,make3,3,D. Nowitzki,D. Harris
+99,1,0:02.0,35,17,PHO,DAL,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Matthews,I. Canaan
+100,1,0:02.0,35,17,PHO,DAL,0,home,Sub,,,,,M. Chriss,I. Canaan
+101,1,0:02.0,36,17,PHO,DAL,0,home,FreeThrow,,,make1,1,M. Chriss,
+102,1,0:02.0,36,17,PHO,DAL,0,home,FreeThrow,,,make1,0,M. Chriss,
+103,1,0:00.0,36,17,PHO,DAL,2,away,DefReb,,,DefReb,,M. Kleber,
+104,2,11:46.0,36,17,PHO,DAL,14,away,JS,,15,miss2,0,Y. Ferrell,
+105,2,11:43.0,36,17,PHO,DAL,3,away,OffReb,,,OffReb,,D. Nowitzki,
+106,2,11:39.0,36,19,PHO,DAL,4,away,JS,,22,make2,2,D. Nowitzki,
+107,2,11:24.0,38,19,PHO,DAL,15,home,DK,assist,1,make2,2,D. Bender,D. Booker
+108,2,11:10.0,38,19,PHO,DAL,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bender,D. Nowitzki
+109,2,11:10.0,38,19,PHO,DAL,0,away,FreeThrow,,,make1,0,D. Nowitzki,
+110,2,11:10.0,38,19,PHO,DAL,0,away,OffReb,,,OffReb,,Team,
+111,2,11:10.0,38,19,PHO,DAL,0,home,Sub,,,,,T. Chandler,D. Bender
+112,2,11:10.0,38,20,PHO,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+113,2,10:56.0,38,20,PHO,DAL,14,home,JS,,29,miss3,0,T. Daniels,
+114,2,10:53.0,38,20,PHO,DAL,3,away,DefReb,,,DefReb,,D. Nowitzki,
+115,2,10:36.0,38,22,PHO,DAL,17,away,JS,assist,7,make2,2,D. Harris,Y. Ferrell
+116,2,10:21.0,38,22,PHO,DAL,15,home,JS,,25,miss3,0,D. House,
+117,2,10:17.0,38,22,PHO,DAL,4,away,DefReb,,,DefReb,,Y. Ferrell,
+118,2,10:07.0,38,25,PHO,DAL,10,away,JS,assist,25,make3,3,Y. Ferrell,W. Matthews
+119,2,9:56.0,38,25,PHO,DAL,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Matthews,T. Chandler
+120,2,9:56.0,39,25,PHO,DAL,0,home,FreeThrow,,,make1,1,T. Chandler,
+121,2,9:56.0,39,25,PHO,DAL,0,home,Sub,,,,,J. Dudley,M. Chriss
+122,2,9:56.0,39,25,PHO,DAL,0,home,Sub,,,,,T. Warren,D. House
+123,2,9:56.0,39,25,PHO,DAL,0,home,Sub,,,,,J. Jackson,T. Daniels
+124,2,9:56.0,39,25,PHO,DAL,0,home,FreeThrow,,,make1,0,T. Chandler,
+125,2,9:54.0,39,25,PHO,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+126,2,9:47.0,39,27,PHO,DAL,7,away,LU,assist,0,make2,2,W. Matthews,D. Harris
+127,2,9:34.0,41,27,PHO,DAL,13,home,JS,,19,make2,2,T. Warren,
+128,2,9:20.0,41,27,PHO,DAL,14,away,bad pass,steal,,turnover,,W. Matthews,J. Dudley
+129,2,9:14.0,43,27,PHO,DAL,6,home,JS,,6,make2,2,J. Jackson,
+130,2,9:14.0,43,27,PHO,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,J. Jackson
+131,2,9:14.0,44,27,PHO,DAL,0,home,FreeThrow,,,make1,1,J. Jackson,
+132,2,9:07.0,44,27,PHO,DAL,7,away,JS,,24,miss3,0,D. Harris,
+133,2,9:02.0,44,27,PHO,DAL,5,home,DefReb,,,DefReb,,J. Dudley,
+134,2,8:59.0,44,27,PHO,DAL,3,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Booker,D. Harris
+135,2,8:59.0,44,27,PHO,DAL,0,home,OffensiveFoul,,,turnover,,D. Booker,
+136,2,8:45.0,44,30,PHO,DAL,14,away,JS,assist,25,make3,3,D. Harris,Y. Ferrell
+137,2,8:43.0,44,30,PHO,DAL,2,home,Timeout,,,,,,
+138,2,8:43.0,44,30,PHO,DAL,0,away,Sub,,,,,D. Smith,Y. Ferrell
+139,2,8:28.0,44,30,PHO,DAL,15,home,LU,,0,miss2,0,J. Jackson,
+140,2,8:27.0,44,30,PHO,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+141,2,8:22.0,44,33,PHO,DAL,5,away,JS,assist,26,make3,3,D. Nowitzki,D. Harris
+142,2,8:07.0,44,33,PHO,DAL,15,home,JS,,25,miss3,0,D. Booker,
+143,2,8:04.0,44,33,PHO,DAL,3,away,DefReb,,,DefReb,,D. Nowitzki,
+144,2,7:54.0,44,33,PHO,DAL,10,away,JS,,13,miss2,0,W. Matthews,
+145,2,7:54.0,44,33,PHO,DAL,0,away,OffReb,,,OffReb,,Team,
+146,2,7:54.0,44,33,PHO,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Dudley,D. Powell
+147,2,7:33.0,44,33,PHO,DAL,21,away,JS,,27,miss3,0,D. Harris,
+148,2,7:30.0,44,33,PHO,DAL,3,home,DefReb,,,DefReb,,Team,
+149,2,7:30.0,44,33,PHO,DAL,0,home,Sub,,,,,M. Chriss,J. Dudley
+150,2,7:13.0,44,33,PHO,DAL,17,home,JS,,7,miss2,0,T. Warren,
+151,2,7:10.0,44,33,PHO,DAL,3,away,DefReb,,,DefReb,,D. Nowitzki,
+152,2,7:05.0,44,33,PHO,DAL,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Chandler,D. Powell
+153,2,6:59.0,44,36,PHO,DAL,6,away,JS,assist,24,make3,3,D. Nowitzki,W. Matthews
+154,2,6:40.0,46,36,PHO,DAL,19,home,JS,,4,make2,2,M. Chriss,
+155,2,6:40.0,46,36,PHO,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Smith,M. Chriss
+156,2,6:40.0,47,36,PHO,DAL,0,home,FreeThrow,,,make1,1,M. Chriss,
+157,2,6:29.0,47,36,PHO,DAL,11,away,bad pass,steal,,turnover,,D. Smith,D. Booker
+158,2,6:23.0,47,36,PHO,DAL,6,home,bad pass,steal,,turnover,,M. Chriss,W. Matthews
+159,2,6:19.0,47,36,PHO,DAL,4,away,JS,,15,miss2,0,D. Smith,
+160,2,6:14.0,47,36,PHO,DAL,5,home,DefReb,,,DefReb,,M. Chriss,
+161,2,6:10.0,49,36,PHO,DAL,4,home,JS,assist,14,make2,2,T. Warren,M. Chriss
+162,2,6:06.0,49,36,PHO,DAL,4,away,Timeout,,,,,,
+163,2,6:06.0,49,36,PHO,DAL,0,away,Sub,,,,,H. Barnes,D. Powell
+164,2,6:06.0,49,36,PHO,DAL,0,away,Sub,,,,,Y. Ferrell,D. Harris
+165,2,6:00.0,49,36,PHO,DAL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jackson,D. Smith
+166,2,5:44.0,49,36,PHO,DAL,16,away,JS,,16,miss2,0,D. Smith,
+167,2,5:41.0,49,36,PHO,DAL,3,home,DefReb,,,DefReb,,D. Booker,
+168,2,5:24.0,49,36,PHO,DAL,17,home,JS,,25,miss3,0,J. Jackson,
+169,2,5:21.0,49,36,PHO,DAL,3,away,DefReb,,,DefReb,,H. Barnes,
+170,2,5:05.0,49,38,PHO,DAL,16,away,LU,,0,make2,2,W. Matthews,
+171,2,4:46.0,49,38,PHO,DAL,19,home,JS,,9,miss2,0,D. Booker,
+172,2,4:42.0,49,38,PHO,DAL,4,home,OffReb,,,OffReb,,T. Chandler,
+173,2,4:42.0,49,38,PHO,DAL,0,home,LU,,0,miss2,0,T. Chandler,
+174,2,4:41.0,49,38,PHO,DAL,1,home,OffReb,,,OffReb,,J. Jackson,
+175,2,4:37.0,49,38,PHO,DAL,4,home,lost ball,steal,,turnover,,D. Booker,W. Matthews
+176,2,4:32.0,49,38,PHO,DAL,5,away,bad pass,steal,,turnover,,Y. Ferrell,J. Jackson
+177,2,4:27.0,51,38,PHO,DAL,5,home,DK,assist,1,make2,2,T. Chandler,T. Warren
+178,2,4:09.0,51,38,PHO,DAL,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Booker,D. Smith
+179,2,4:09.0,51,38,PHO,DAL,0,away,FreeThrow,,,make1,0,D. Smith,
+180,2,4:09.0,51,38,PHO,DAL,0,away,OffReb,,,OffReb,,Team,
+181,2,4:09.0,51,38,PHO,DAL,0,home,Sub,,,,,T. Ulis,D. Booker
+182,2,4:09.0,51,38,PHO,DAL,0,home,Sub,,,,,J. Dudley,T. Chandler
+183,2,4:09.0,51,38,PHO,DAL,0,away,Sub,,,,,M. Kleber,D. Nowitzki
+184,2,4:09.0,51,38,PHO,DAL,0,away,FreeThrow,,,make1,0,D. Smith,
+185,2,4:09.0,51,38,PHO,DAL,0,home,DefReb,,,DefReb,,M. Chriss,
+186,2,3:49.0,53,38,PHO,DAL,20,home,JS,,15,make2,2,J. Jackson,
+187,2,3:39.0,53,40,PHO,DAL,10,away,LU,assist,0,make2,2,H. Barnes,D. Smith
+188,2,3:39.0,53,40,PHO,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Dudley,H. Barnes
+189,2,3:39.0,53,41,PHO,DAL,0,away,FreeThrow,,,make1,1,H. Barnes,
+190,2,3:23.0,53,41,PHO,DAL,16,home,JS,,17,miss2,0,T. Warren,
+191,2,3:21.0,53,41,PHO,DAL,2,away,DefReb,,,DefReb,,H. Barnes,
+192,2,3:14.0,53,41,PHO,DAL,7,away,LU,block,0,miss2,0,D. Smith,M. Chriss
+193,2,3:12.0,53,41,PHO,DAL,2,home,DefReb,,,DefReb,,J. Dudley,
+194,2,3:09.0,53,41,PHO,DAL,3,home,LU,,1,miss2,0,T. Warren,
+195,2,3:03.0,53,41,PHO,DAL,6,home,OffReb,,,OffReb,,J. Jackson,
+196,2,3:03.0,55,41,PHO,DAL,0,home,DK,,0,make2,2,J. Jackson,
+197,2,2:48.0,55,41,PHO,DAL,15,away,bad pass,steal,,turnover,,H. Barnes,J. Jackson
+198,2,2:28.0,55,41,PHO,DAL,20,home,JS,,15,miss2,0,T. Ulis,
+199,2,2:25.0,55,41,PHO,DAL,3,away,DefReb,,,DefReb,,H. Barnes,
+200,2,2:17.0,55,41,PHO,DAL,8,away,JS,,23,miss3,0,M. Kleber,
+201,2,2:16.0,55,41,PHO,DAL,1,home,DefReb,,,DefReb,,J. Jackson,
+202,2,2:10.0,55,41,PHO,DAL,6,home,JS,,26,miss3,0,J. Jackson,
+203,2,2:07.0,55,41,PHO,DAL,3,away,DefReb,,,DefReb,,Y. Ferrell,
+204,2,2:02.0,55,44,PHO,DAL,5,away,JS,,26,make3,3,Y. Ferrell,
+205,2,1:37.0,55,44,PHO,DAL,25,home,JS,,19,miss2,0,J. Dudley,
+206,2,1:33.0,55,44,PHO,DAL,4,away,DefReb,,,DefReb,,W. Matthews,
+207,2,1:16.0,55,44,PHO,DAL,17,away,JS,,20,miss2,0,Y. Ferrell,
+208,2,1:12.0,55,44,PHO,DAL,4,away,OffReb,,,OffReb,,M. Kleber,
+209,2,1:11.0,55,44,PHO,DAL,1,away,JS,,15,miss2,0,H. Barnes,
+210,2,1:06.0,55,44,PHO,DAL,5,away,OffReb,,,OffReb,,M. Kleber,
+211,2,1:06.0,55,46,PHO,DAL,0,away,DK,,0,make2,2,M. Kleber,
+212,2,0:41.0,55,46,PHO,DAL,25,home,JS,,14,miss2,0,T. Ulis,
+213,2,0:39.0,55,46,PHO,DAL,2,away,DefReb,,,DefReb,,H. Barnes,
+214,2,0:36.0,55,46,PHO,DAL,3,away,JS,,25,miss3,0,W. Matthews,
+215,2,0:33.0,55,46,PHO,DAL,3,home,DefReb,,,DefReb,,M. Chriss,
+216,2,0:30.0,55,46,PHO,DAL,3,home,bad pass,steal,,turnover,,M. Chriss,W. Matthews
+217,2,0:08.0,55,46,PHO,DAL,22,away,JS,,25,miss3,0,W. Matthews,
+218,2,0:04.0,55,46,PHO,DAL,4,home,DefReb,,,DefReb,,M. Chriss,
+219,2,0:00.0,57,46,PHO,DAL,4,home,LU,,17,make2,2,J. Jackson,
+220,3,11:41.0,57,46,PHO,DAL,19,away,lost ball,steal,,turnover,,H. Barnes,T. Warren
+221,3,11:37.0,57,46,PHO,DAL,4,home,DK,,0,miss2,0,J. Jackson,
+222,3,11:34.0,57,46,PHO,DAL,3,away,DefReb,,,DefReb,,D. Nowitzki,
+223,3,11:22.0,57,46,PHO,DAL,12,away,JS,,24,miss3,0,W. Matthews,
+224,3,11:18.0,57,46,PHO,DAL,4,home,DefReb,,,DefReb,,J. Jackson,
+225,3,11:06.0,59,46,PHO,DAL,12,home,LU,assist,2,make2,2,J. Jackson,D. Booker
+226,3,11:06.0,59,46,PHO,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Smith,J. Jackson
+227,3,11:06.0,60,46,PHO,DAL,0,home,FreeThrow,,,make1,1,J. Jackson,
+228,3,10:45.0,60,48,PHO,DAL,21,away,LU,assist,0,make2,2,D. Powell,D. Smith
+229,3,10:45.0,60,48,PHO,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Booker,D. Powell
+230,3,10:45.0,60,48,PHO,DAL,0,away,FreeThrow,,,make1,0,D. Powell,
+231,3,10:42.0,60,48,PHO,DAL,3,home,DefReb,,,DefReb,,M. Chriss,
+232,3,10:22.0,63,48,PHO,DAL,20,home,JS,,24,make3,3,D. Booker,
+233,3,10:03.0,63,48,PHO,DAL,19,away,bad pass,steal,,turnover,,D. Nowitzki,M. Chriss
+234,3,9:59.0,65,48,PHO,DAL,4,home,DK,assist,0,make2,2,M. Chriss,T. Chandler
+235,3,9:59.0,65,48,PHO,DAL,0,away,Timeout,,,,,,
+236,3,9:44.0,65,48,PHO,DAL,15,away,JS,,25,miss3,0,W. Matthews,
+237,3,9:42.0,65,48,PHO,DAL,2,home,DefReb,,,DefReb,,T. Warren,
+238,3,9:27.0,65,48,PHO,DAL,15,home,JS,,24,miss3,0,D. Booker,
+239,3,9:24.0,65,48,PHO,DAL,3,home,OffReb,,,OffReb,,T. Chandler,
+240,3,9:22.0,68,48,PHO,DAL,2,home,JS,assist,25,make3,3,J. Jackson,T. Warren
+241,3,8:50.0,68,51,PHO,DAL,32,away,JS,,25,make3,3,H. Barnes,
+242,3,8:30.0,68,51,PHO,DAL,20,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,T. Chandler
+243,3,8:30.0,68,51,PHO,DAL,0,home,Sub,,,,,J. Dudley,M. Chriss
+244,3,8:21.0,68,51,PHO,DAL,9,home,LU,,3,miss2,0,D. Booker,
+245,3,8:19.0,68,51,PHO,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+246,3,8:09.0,68,51,PHO,DAL,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Dudley,D. Smith
+247,3,8:09.0,68,51,PHO,DAL,0,away,FreeThrow,,,make1,0,D. Smith,
+248,3,8:09.0,68,51,PHO,DAL,0,away,OffReb,,,OffReb,,Team,
+249,3,8:09.0,68,51,PHO,DAL,0,away,FreeThrow,,,make1,0,D. Smith,
+250,3,8:07.0,68,51,PHO,DAL,2,home,DefReb,,,DefReb,,T. Chandler,
+251,3,7:55.0,68,51,PHO,DAL,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Powell,J. Dudley
+252,3,7:52.0,68,51,PHO,DAL,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,D. Booker
+253,3,7:43.0,70,51,PHO,DAL,9,home,JS,assist,16,make2,2,T. Warren,J. Dudley
+254,3,7:25.0,70,51,PHO,DAL,18,away,JS,,23,miss3,0,H. Barnes,
+255,3,7:20.0,70,51,PHO,DAL,5,home,DefReb,,,DefReb,,T. Chandler,
+256,3,7:00.0,70,51,PHO,DAL,20,home,lost ball,steal,,turnover,,T. Warren,W. Matthews
+257,3,7:00.0,70,51,PHO,DAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Dudley,H. Barnes
+258,3,7:00.0,70,51,PHO,DAL,0,away,Sub,,,,,D. Harris,D. Powell
+259,3,6:43.0,70,51,PHO,DAL,17,away,JS,,12,miss2,0,H. Barnes,
+260,3,6:40.0,70,51,PHO,DAL,3,home,DefReb,,,DefReb,,J. Jackson,
+261,3,6:27.0,70,51,PHO,DAL,13,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Booker,D. Harris
+262,3,6:27.0,70,51,PHO,DAL,0,home,OffensiveFoul,,,turnover,,D. Booker,
+263,3,6:27.0,70,51,PHO,DAL,0,home,Sub,,,,,D. Bender,T. Chandler
+264,3,6:27.0,70,51,PHO,DAL,0,away,Sub,,,,,M. Kleber,D. Nowitzki
+265,3,6:27.0,70,51,PHO,DAL,0,home,Sub,,,,,T. Ulis,D. Booker
+266,3,6:09.0,70,51,PHO,DAL,18,away,JS,,23,miss3,0,W. Matthews,
+267,3,6:06.0,70,51,PHO,DAL,3,away,OffReb,,,OffReb,,W. Matthews,
+268,3,6:06.0,70,51,PHO,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Dudley,D. Smith
+269,3,6:06.0,70,52,PHO,DAL,0,away,FreeThrow,,,make1,1,D. Smith,
+270,3,6:06.0,70,52,PHO,DAL,0,home,Sub,,,,,M. Chriss,J. Dudley
+271,3,6:06.0,70,52,PHO,DAL,0,away,Sub,,,,,K. Collinsworth,W. Matthews
+272,3,6:06.0,70,52,PHO,DAL,0,away,FreeThrow,,,make1,0,D. Smith,
+273,3,6:03.0,70,52,PHO,DAL,3,home,DefReb,,,DefReb,,D. Bender,
+274,3,5:48.0,72,52,PHO,DAL,15,home,JS,assist,11,make2,2,T. Warren,T. Ulis
+275,3,5:35.0,72,54,PHO,DAL,13,away,LU,,1,make2,2,D. Smith,
+276,3,5:35.0,72,54,PHO,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Warren,D. Smith
+277,3,5:35.0,72,55,PHO,DAL,0,away,FreeThrow,,,make1,1,D. Smith,
+278,3,5:18.0,72,55,PHO,DAL,17,home,lost ball,steal,,turnover,,J. Jackson,K. Collinsworth
+279,3,5:15.0,72,55,PHO,DAL,3,away,OutOfBoundsLB,,,turnover,,D. Smith,
+280,3,5:04.0,74,55,PHO,DAL,11,home,LU,,0,make2,2,T. Warren,
+281,3,5:04.0,74,55,PHO,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,T. Warren
+282,3,5:04.0,74,55,PHO,DAL,0,home,Sub,,,,,T. Daniels,J. Jackson
+283,3,5:04.0,74,55,PHO,DAL,0,home,FreeThrow,,,make1,0,T. Warren,
+284,3,5:01.0,74,55,PHO,DAL,3,away,DefReb,,,DefReb,,K. Collinsworth,
+285,3,4:51.0,74,55,PHO,DAL,10,away,JS,,25,miss3,0,D. Smith,
+286,3,4:47.0,74,55,PHO,DAL,4,home,DefReb,,,DefReb,,D. Bender,
+287,3,4:41.0,74,55,PHO,DAL,6,home,JS,,25,miss3,0,T. Daniels,
+288,3,4:37.0,74,55,PHO,DAL,4,away,DefReb,,,DefReb,,H. Barnes,
+289,3,4:28.0,74,55,PHO,DAL,9,away,LU,,4,miss2,0,H. Barnes,
+290,3,4:26.0,74,55,PHO,DAL,2,away,OffReb,,,OffReb,,M. Kleber,
+291,3,4:10.0,74,55,PHO,DAL,16,away,LU,,1,miss2,0,H. Barnes,
+292,3,4:08.0,74,55,PHO,DAL,2,away,OffReb,,,OffReb,,H. Barnes,
+293,3,4:08.0,74,55,PHO,DAL,0,away,LU,,0,miss2,0,H. Barnes,
+294,3,4:07.0,74,55,PHO,DAL,1,home,DefReb,,,DefReb,,M. Chriss,
+295,3,3:58.0,74,55,PHO,DAL,9,home,JS,,25,miss3,0,D. Bender,
+296,3,3:55.0,74,55,PHO,DAL,3,away,DefReb,,,DefReb,,D. Smith,
+297,3,3:49.0,74,55,PHO,DAL,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ulis,K. Collinsworth
+298,3,3:49.0,74,55,PHO,DAL,0,away,FreeThrow,,,make1,0,K. Collinsworth,
+299,3,3:49.0,74,55,PHO,DAL,0,away,OffReb,,,OffReb,,Team,
+300,3,3:49.0,74,55,PHO,DAL,0,home,Sub,,,,,D. House,T. Warren
+301,3,3:49.0,74,55,PHO,DAL,0,away,Sub,,,,,Y. Ferrell,D. Smith
+302,3,3:49.0,74,56,PHO,DAL,0,away,FreeThrow,,,make1,1,K. Collinsworth,
+303,3,3:34.0,74,56,PHO,DAL,15,home,JS,,22,miss3,0,T. Daniels,
+304,3,3:34.0,74,56,PHO,DAL,0,home,OffReb,,,OffReb,,Team,
+305,3,3:34.0,74,56,PHO,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Harris,M. Chriss
+306,3,3:34.0,75,56,PHO,DAL,0,home,FreeThrow,,,make1,1,M. Chriss,
+307,3,3:34.0,76,56,PHO,DAL,0,home,FreeThrow,,,make1,1,M. Chriss,
+308,3,3:26.0,76,56,PHO,DAL,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. House,H. Barnes
+309,3,3:26.0,76,57,PHO,DAL,0,away,FreeThrow,,,make1,1,H. Barnes,
+310,3,3:26.0,76,58,PHO,DAL,0,away,FreeThrow,,,make1,1,H. Barnes,
+311,3,3:12.0,78,58,PHO,DAL,14,home,JS,assist,13,make2,2,D. Bender,T. Daniels
+312,3,2:55.0,78,58,PHO,DAL,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. House,H. Barnes
+313,3,2:55.0,78,58,PHO,DAL,0,home,Timeout,,,,,,
+314,3,2:55.0,78,58,PHO,DAL,0,away,FreeThrow,,,make1,0,H. Barnes,
+315,3,2:55.0,78,58,PHO,DAL,0,away,OffReb,,,OffReb,,Team,
+316,3,2:55.0,78,58,PHO,DAL,0,away,FreeThrow,,,make1,0,H. Barnes,
+317,3,2:52.0,78,58,PHO,DAL,3,home,DefReb,,,DefReb,,M. Chriss,
+318,3,2:38.0,78,58,PHO,DAL,14,home,JS,,15,miss2,0,D. Bender,
+319,3,2:34.0,78,58,PHO,DAL,4,away,DefReb,,,DefReb,,K. Collinsworth,
+320,3,2:26.0,78,58,PHO,DAL,8,away,lost ball,steal,,turnover,,D. Harris,T. Ulis
+321,3,2:20.0,81,58,PHO,DAL,6,home,JS,assist,22,make3,3,T. Daniels,T. Ulis
+322,3,1:59.0,81,60,PHO,DAL,21,away,LU,,1,make2,2,H. Barnes,
+323,3,1:48.0,81,60,PHO,DAL,11,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Chriss,Y. Ferrell
+324,3,1:48.0,81,60,PHO,DAL,0,home,OffensiveFoul,,,turnover,,M. Chriss,
+325,3,1:37.0,81,60,PHO,DAL,11,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,M. Chriss,K. Collinsworth
+326,3,1:37.0,81,61,PHO,DAL,0,away,FreeThrow,,,make1,1,K. Collinsworth,
+327,3,1:37.0,81,61,PHO,DAL,0,away,FreeThrow,,,make1,0,K. Collinsworth,
+328,3,1:35.0,81,61,PHO,DAL,2,home,DefReb,,,DefReb,,M. Chriss,
+329,3,1:20.0,81,61,PHO,DAL,15,home,LU,block,4,miss2,0,D. House,M. Kleber
+330,3,1:20.0,81,61,PHO,DAL,0,home,OffReb,,,OffReb,,Team,
+331,3,1:13.0,81,61,PHO,DAL,7,home,JS,,25,miss3,0,T. Ulis,
+332,3,1:13.0,81,61,PHO,DAL,0,home,OffReb,,,OffReb,,Team,
+333,3,1:13.0,81,61,PHO,DAL,0,home,ShotClockViolation,,,turnover,,Team,
+334,3,0:58.0,81,61,PHO,DAL,15,away,JS,,24,miss3,0,K. Collinsworth,
+335,3,0:56.0,81,61,PHO,DAL,2,home,DefReb,,,DefReb,,D. House,
+336,3,0:48.0,81,61,PHO,DAL,8,home,bad pass,steal,,turnover,,D. Bender,H. Barnes
+337,3,0:42.0,81,61,PHO,DAL,6,away,OutOfBoundsLB,,,turnover,,D. Harris,
+338,3,0:35.0,81,61,PHO,DAL,7,home,LU,,1,miss2,0,T. Ulis,
+339,3,0:34.0,81,61,PHO,DAL,1,away,DefReb,,,DefReb,,H. Barnes,
+340,3,0:29.0,81,61,PHO,DAL,5,away,LU,,1,miss2,0,H. Barnes,
+341,3,0:27.0,81,61,PHO,DAL,2,home,DefReb,,,DefReb,,D. Bender,
+342,3,0:07.0,81,61,PHO,DAL,20,home,LU,,3,miss2,0,T. Ulis,
+343,3,0:04.0,81,61,PHO,DAL,3,away,DefReb,,,DefReb,,H. Barnes,
+344,3,0:00.0,81,61,PHO,DAL,4,away,JS,,27,miss3,0,Y. Ferrell,
+345,3,0:00.0,81,61,PHO,DAL,0,away,OffReb,,,OffReb,,Team,
+346,4,11:48.0,81,61,PHO,DAL,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Collinsworth,D. Booker
+347,4,11:37.0,81,61,PHO,DAL,11,home,JS,,25,miss3,0,D. Bender,
+348,4,11:35.0,81,61,PHO,DAL,2,home,OffReb,,,OffReb,,Team,
+349,4,11:35.0,81,61,PHO,DAL,0,away,LooseBallFoul,,,LooseBallFoul,,D. Nowitzki,
+350,4,11:35.0,81,61,PHO,DAL,0,away,TechnicalFoul,,,TechnicalFoul,,D. Nowitzki,
+351,4,11:35.0,82,61,PHO,DAL,0,home,FreeThrow,,,make1,1,D. Booker makes technical free throw,
+352,4,11:13.0,84,61,PHO,DAL,22,home,JS,,22,make2,2,D. Booker,
+353,4,10:56.0,84,61,PHO,DAL,17,away,JS,,25,miss3,0,D. Harris,
+354,4,10:53.0,84,61,PHO,DAL,3,away,OffReb,,,OffReb,,D. Powell,
+355,4,10:44.0,84,61,PHO,DAL,9,away,JS,,25,miss3,0,Y. Ferrell,
+356,4,10:43.0,84,61,PHO,DAL,1,away,OffReb,,,OffReb,,Team,
+357,4,10:43.0,84,61,PHO,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Bender,D. Powell
+358,4,10:43.0,84,61,PHO,DAL,0,away,Sub,,,,,W. Matthews,K. Collinsworth
+359,4,10:38.0,84,61,PHO,DAL,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Warren,D. Harris
+360,4,10:29.0,84,63,PHO,DAL,9,away,DK,assist,0,make2,2,D. Powell,D. Harris
+361,4,10:07.0,86,63,PHO,DAL,22,home,JS,,4,make2,2,T. Warren,
+362,4,9:53.0,86,63,PHO,DAL,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Daniels,D. Powell
+363,4,9:41.0,86,65,PHO,DAL,12,away,JS,assist,12,make2,2,D. Nowitzki,D. Harris
+364,4,9:23.0,86,65,PHO,DAL,18,home,JS,,23,miss3,0,T. Daniels,
+365,4,9:21.0,86,65,PHO,DAL,2,home,OffReb,,,OffReb,,T. Chandler,
+366,4,9:20.0,86,65,PHO,DAL,1,home,JS,,25,miss3,0,D. Booker,
+367,4,9:17.0,86,65,PHO,DAL,3,away,DefReb,,,DefReb,,D. Harris,
+368,4,9:13.0,86,65,PHO,DAL,4,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Bender,D. Powell
+369,4,9:13.0,86,66,PHO,DAL,0,away,FreeThrow,,,make1,1,D. Powell,
+370,4,9:13.0,86,66,PHO,DAL,0,away,FreeThrow,,,make1,0,D. Powell,
+371,4,9:13.0,86,66,PHO,DAL,0,away,OffReb,,,OffReb,,Team,
+372,4,9:13.0,86,66,PHO,DAL,0,home,Sub,,,,,J. Dudley,D. Bender
+373,4,8:51.0,86,66,PHO,DAL,22,home,JS,,26,miss3,0,D. Booker,
+374,4,8:50.0,86,66,PHO,DAL,1,away,DefReb,,,DefReb,,D. Harris,
+375,4,8:45.0,86,68,PHO,DAL,5,away,LU,,0,make2,2,D. Harris,
+376,4,8:45.0,86,68,PHO,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Warren,D. Harris
+377,4,8:45.0,86,69,PHO,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+378,4,8:20.0,86,69,PHO,DAL,25,home,lost ball,steal,,turnover,,D. Booker,W. Matthews
+379,4,8:13.0,86,69,PHO,DAL,7,away,LU,,2,miss2,0,W. Matthews,
+380,4,8:08.0,86,69,PHO,DAL,5,away,OffReb,,,OffReb,,D. Powell,
+381,4,8:08.0,86,69,PHO,DAL,0,away,LU,,0,miss2,0,D. Powell,
+382,4,8:08.0,86,69,PHO,DAL,0,away,OffReb,,,OffReb,,W. Matthews,
+383,4,8:07.0,86,69,PHO,DAL,1,away,JS,,23,miss3,0,Y. Ferrell,
+384,4,8:07.0,86,69,PHO,DAL,0,away,OffReb,,,OffReb,,D. Powell,
+385,4,8:03.0,86,69,PHO,DAL,4,away,JS,,23,miss3,0,W. Matthews,
+386,4,8:03.0,86,69,PHO,DAL,0,home,DefReb,,,DefReb,,Team,
+387,4,8:03.0,86,69,PHO,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Powell,T. Chandler
+388,4,7:46.0,86,69,PHO,DAL,17,home,JS,,15,miss2,0,T. Warren,
+389,4,7:43.0,86,69,PHO,DAL,3,away,DefReb,,,DefReb,,D. Nowitzki,
+390,4,7:32.0,86,71,PHO,DAL,11,away,DK,assist,0,make2,2,D. Powell,W. Matthews
+391,4,7:31.0,86,71,PHO,DAL,1,home,Timeout,,,,,,
+392,4,7:31.0,86,71,PHO,DAL,0,home,Sub,,,,,J. Jackson,T. Daniels
+393,4,7:16.0,86,71,PHO,DAL,15,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Chandler,D. Harris
+394,4,7:16.0,86,71,PHO,DAL,0,home,OffensiveFoul,,,turnover,,T. Chandler,
+395,4,7:16.0,86,71,PHO,DAL,0,home,Sub,,,,,D. House,T. Warren
+396,4,7:05.0,86,71,PHO,DAL,11,away,JS,,21,miss2,0,D. Nowitzki,
+397,4,7:02.0,86,71,PHO,DAL,3,home,DefReb,,,DefReb,,Team,
+398,4,6:47.0,86,71,PHO,DAL,15,home,JS,,25,miss3,0,J. Dudley,
+399,4,6:45.0,86,71,PHO,DAL,2,away,DefReb,,,DefReb,,D. Harris,
+400,4,6:32.0,86,71,PHO,DAL,13,away,JS,block,10,miss2,0,Y. Ferrell,J. Dudley
+401,4,6:29.0,86,71,PHO,DAL,3,home,DefReb,,,DefReb,,D. House,
+402,4,6:08.0,86,71,PHO,DAL,21,home,LU,block,2,miss2,0,D. House,W. Matthews
+403,4,6:08.0,86,71,PHO,DAL,0,away,DefReb,,,DefReb,,W. Matthews,
+404,4,6:08.0,86,71,PHO,DAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. House,W. Matthews
+405,4,6:08.0,86,72,PHO,DAL,0,away,FreeThrow,,,make1,1,W. Matthews,
+406,4,6:08.0,86,72,PHO,DAL,0,away,Sub,,,,,D. Smith,D. Harris
+407,4,6:08.0,86,73,PHO,DAL,0,away,FreeThrow,,,make1,1,W. Matthews,
+408,4,5:49.0,86,73,PHO,DAL,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Powell,T. Chandler
+409,4,5:49.0,86,73,PHO,DAL,0,home,FreeThrow,,,make1,0,T. Chandler,
+410,4,5:49.0,86,73,PHO,DAL,0,home,OffReb,,,OffReb,,Team,
+411,4,5:49.0,87,73,PHO,DAL,0,home,FreeThrow,,,make1,1,T. Chandler,
+412,4,5:39.0,87,73,PHO,DAL,10,away,JS,,26,miss3,0,W. Matthews,
+413,4,5:37.0,87,73,PHO,DAL,2,home,DefReb,,,DefReb,,Team,
+414,4,5:37.0,87,73,PHO,DAL,0,home,Sub,,,,,D. Bender,J. Dudley
+415,4,5:29.0,89,73,PHO,DAL,8,home,JS,,17,make2,2,D. Booker,
+416,4,5:26.0,89,73,PHO,DAL,3,away,Timeout,,,,,,
+417,4,5:26.0,89,73,PHO,DAL,0,home,Sub,,,,,T. Warren,D. House
+418,4,5:26.0,89,73,PHO,DAL,0,away,Sub,,,,,H. Barnes,D. Nowitzki
+419,4,5:16.0,89,73,PHO,DAL,10,away,JS,,21,miss2,0,W. Matthews,
+420,4,5:13.0,89,73,PHO,DAL,3,home,DefReb,,,DefReb,,T. Chandler,
+421,4,4:58.0,91,73,PHO,DAL,15,home,JS,,10,make2,2,J. Jackson,
+422,4,4:44.0,91,76,PHO,DAL,14,away,JS,assist,25,make3,3,H. Barnes,D. Smith
+423,4,4:16.0,91,76,PHO,DAL,28,home,JS,,25,miss3,0,D. Booker,
+424,4,4:14.0,91,76,PHO,DAL,2,away,DefReb,,,DefReb,,D. Smith,
+425,4,4:04.0,91,78,PHO,DAL,10,away,LU,,0,make2,2,D. Smith,
+426,4,4:04.0,91,78,PHO,DAL,0,home,Timeout,,,,,,
+427,4,4:04.0,91,78,PHO,DAL,0,home,Sub,,,,,M. Chriss,T. Chandler
+428,4,3:50.0,91,78,PHO,DAL,14,home,bad pass,steal,,turnover,,J. Jackson,H. Barnes
+429,4,3:42.0,91,78,PHO,DAL,8,away,LU,block,1,miss2,0,D. Smith,J. Jackson
+430,4,3:42.0,91,78,PHO,DAL,0,away,OffReb,,,OffReb,,Team,
+431,4,3:40.0,91,81,PHO,DAL,2,away,JS,assist,22,make3,3,Y. Ferrell,D. Smith
+432,4,3:20.0,91,81,PHO,DAL,20,home,bad pass,steal,,turnover,,J. Jackson,D. Smith
+433,4,3:17.0,91,84,PHO,DAL,3,away,JS,,25,make3,3,D. Smith,
+434,4,3:16.0,91,84,PHO,DAL,1,home,Timeout,,,,,,
+435,4,3:16.0,91,84,PHO,DAL,0,home,Sub,,,,,T. Daniels,J. Jackson
+436,4,3:08.0,93,84,PHO,DAL,8,home,LU,,2,make2,2,D. Booker,
+437,4,3:08.0,93,84,PHO,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Matthews,D. Booker
+438,4,3:08.0,94,84,PHO,DAL,0,home,FreeThrow,,,make1,1,D. Booker,
+439,4,3:00.0,94,84,PHO,DAL,8,away,LU,,1,miss2,0,W. Matthews,
+440,4,2:59.0,94,84,PHO,DAL,1,home,DefReb,,,DefReb,,D. Bender,
+441,4,2:59.0,94,84,PHO,DAL,0,away,TechnicalFoul,,,TechnicalFoul,,W. Matthews,
+442,4,2:59.0,95,84,PHO,DAL,0,home,FreeThrow,,,make1,1,D. Booker makes technical free throw,
+443,4,2:51.0,95,84,PHO,DAL,8,away,ChargeFoul,DrawnBy,,ChargeFoul,,M. Chriss,Y. Ferrell
+444,4,2:51.0,95,84,PHO,DAL,0,home,OffensiveFoul,,,turnover,,M. Chriss,
+445,4,2:44.0,95,84,PHO,DAL,7,away,JS,,19,miss2,0,W. Matthews,
+446,4,2:41.0,95,84,PHO,DAL,3,home,DefReb,,,DefReb,,D. Booker,
+447,4,2:26.0,97,84,PHO,DAL,15,home,JS,assist,4,make2,2,T. Warren,D. Bender
+448,4,2:26.0,97,84,PHO,DAL,0,away,Timeout,,,,,,
+449,4,2:26.0,97,84,PHO,DAL,0,away,Sub,,,,,K. Collinsworth,W. Matthews
+450,4,2:13.0,97,84,PHO,DAL,13,away,JS,,25,miss3,0,Y. Ferrell,
+451,4,2:09.0,97,84,PHO,DAL,4,home,DefReb,,,DefReb,,T. Warren,
+452,4,1:53.0,97,84,PHO,DAL,16,home,bad pass,steal,,turnover,,D. Bender,D. Powell
+453,4,1:50.0,97,86,PHO,DAL,3,away,DK,assist,0,make2,2,K. Collinsworth,D. Smith
+454,4,1:33.0,97,86,PHO,DAL,17,home,JS,,21,miss2,0,D. Booker,
+455,4,1:30.0,97,86,PHO,DAL,3,away,DefReb,,,DefReb,,D. Powell,
+456,4,1:16.0,97,86,PHO,DAL,14,away,bad pass,steal,,turnover,,Y. Ferrell,D. Booker
+457,4,0:56.0,100,86,PHO,DAL,20,home,JS,assist,22,make3,3,M. Chriss,D. Booker
+458,4,0:49.0,100,88,PHO,DAL,7,away,JS,,20,make2,2,D. Smith,
+459,4,0:27.0,102,88,PHO,DAL,22,home,DK,assist,0,make2,2,M. Chriss,D. Booker
+460,4,0:21.0,102,88,PHO,DAL,6,away,JS,,24,miss3,0,D. Smith,
+461,4,0:16.0,102,88,PHO,DAL,5,home,DefReb,,,DefReb,,M. Chriss,

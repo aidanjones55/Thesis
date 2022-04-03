@@ -1,0 +1,436 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,0,0,DAL,DET,17,away,HS,,11,miss2,0,A. Drummond,
+1,1,11:42.0,0,0,DAL,DET,1,home,DefReb,,,DefReb,,C. Parsons,
+2,1,11:25.0,0,0,DAL,DET,17,home,JS,,12,miss2,0,Z. Pachulia,
+3,1,11:24.0,0,0,DAL,DET,1,away,DefReb,,,DefReb,,T. Harris,
+4,1,11:18.0,0,0,DAL,DET,6,away,PersonalFoul,,,,,D. Williams,
+5,1,11:05.0,0,2,DAL,DET,13,away,HS,assist,6,make2,2,A. Drummond,T. Harris
+6,1,10:59.0,0,2,DAL,DET,6,home,PersonalFoul,,,,,R. Jackson,
+7,1,10:43.0,0,2,DAL,DET,16,home,JS,,24,miss3,0,C. Parsons,
+8,1,10:42.0,0,2,DAL,DET,1,home,OffReb,,,OffReb,,Z. Pachulia,
+9,1,10:38.0,3,2,DAL,DET,4,home,JS,assist,24,make3,3,D. Nowitzki,D. Williams
+10,1,10:27.0,3,2,DAL,DET,11,away,JS,,24,miss3,0,M. Morris,
+11,1,10:26.0,3,2,DAL,DET,1,home,DefReb,,,DefReb,,D. Nowitzki,
+12,1,10:14.0,6,2,DAL,DET,12,home,JS,assist,27,make3,3,W. Matthews,C. Parsons
+13,1,9:52.0,6,4,DAL,DET,22,away,JS,assist,15,make2,2,T. Harris,R. Jackson
+14,1,9:19.0,8,4,DAL,DET,33,home,JS,assist,15,make2,2,D. Nowitzki,D. Williams
+15,1,9:00.0,8,4,DAL,DET,19,away,JS,,10,miss2,0,K. Caldwell-Pope,
+16,1,8:59.0,8,4,DAL,DET,1,away,OffReb,,,OffReb,,K. Caldwell-Pope,
+17,1,8:55.0,8,6,DAL,DET,4,away,JS,,9,make2,2,K. Caldwell-Pope,
+18,1,8:48.0,8,6,DAL,DET,7,home,LostBall,steal,,turnover,,D. Williams,A. Drummond
+19,1,8:45.0,8,6,DAL,DET,3,away,BadPass,steal,,turnover,,A. Drummond,D. Nowitzki
+20,1,8:38.0,8,6,DAL,DET,7,home,JS,,22,miss3,0,D. Williams,
+21,1,8:37.0,8,6,DAL,DET,1,away,DefReb,,,DefReb,,Team,
+22,1,8:25.0,8,9,DAL,DET,12,away,JS,assist,25,make3,3,K. Caldwell-Pope,T. Harris
+23,1,8:09.0,10,9,DAL,DET,16,home,LU,assist,1,make2,2,C. Parsons,D. Nowitzki
+24,1,7:43.0,10,9,DAL,DET,26,away,PersonalFoul,,,,,Z. Pachulia,
+25,1,7:34.0,10,11,DAL,DET,9,away,JS,,5,make2,2,R. Jackson,
+26,1,7:15.0,12,11,DAL,DET,19,home,JS,assist,17,make2,2,Z. Pachulia,C. Parsons
+27,1,7:00.0,12,11,DAL,DET,15,away,JS,,26,miss3,0,R. Jackson,
+28,1,6:59.0,12,11,DAL,DET,1,home,DefReb,,,DefReb,,Z. Pachulia,
+29,1,6:51.0,14,11,DAL,DET,8,home,JS,,4,make2,2,C. Parsons,
+30,1,6:44.0,14,11,DAL,DET,7,away,Timeout,,,,,,
+31,1,6:44.0,14,11,DAL,DET,0,home,Sub,,,,,D. Harris,D. Nowitzki
+32,1,6:28.0,14,11,DAL,DET,16,away,LostBall,steal,,turnover,,A. Drummond,W. Matthews
+33,1,6:13.0,16,11,DAL,DET,15,home,JS,assist,9,make2,2,C. Parsons,D. Harris
+34,1,5:51.0,16,11,DAL,DET,22,away,JS,,25,miss3,0,K. Caldwell-Pope,
+35,1,5:50.0,16,11,DAL,DET,1,home,DefReb,,,DefReb,,D. Harris,
+36,1,5:37.0,16,11,DAL,DET,13,home,JS,,14,miss2,0,C. Parsons,
+37,1,5:36.0,16,11,DAL,DET,1,away,DefReb,,,DefReb,,M. Morris,
+38,1,5:21.0,16,13,DAL,DET,15,away,HS,,8,make2,2,A. Drummond,
+39,1,5:07.0,18,13,DAL,DET,14,home,JS,,5,make2,2,D. Williams,
+40,1,4:51.0,18,13,DAL,DET,16,away,JS,,22,miss3,0,K. Caldwell-Pope,
+41,1,4:50.0,18,13,DAL,DET,1,away,OffReb,,,OffReb,,A. Drummond,
+42,1,4:41.0,18,15,DAL,DET,9,away,JS,,16,make2,2,M. Morris,
+43,1,4:30.0,18,15,DAL,DET,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,Z. Pachulia
+44,1,4:30.0,19,15,DAL,DET,0,home,FreeThrow,,,make1,1,Z. Pachulia,
+45,1,4:30.0,19,15,DAL,DET,0,away,Sub,,,,,R. Bullock,T. Harris
+46,1,4:30.0,20,15,DAL,DET,0,home,FreeThrow,,,make1,1,Z. Pachulia,
+47,1,4:15.0,20,15,DAL,DET,15,away,JS,,5,miss2,0,M. Morris,
+48,1,4:14.0,20,15,DAL,DET,1,away,OffReb,,,OffReb,,A. Drummond,
+49,1,4:12.0,20,17,DAL,DET,2,away,LU,,2,make2,2,A. Drummond,
+50,1,3:54.0,20,17,DAL,DET,18,home,JS,,24,miss3,0,C. Parsons,
+51,1,3:53.0,20,17,DAL,DET,1,away,DefReb,,,DefReb,,R. Bullock,
+52,1,3:45.0,20,17,DAL,DET,8,away,LU,,0,miss2,0,R. Jackson,
+53,1,3:43.0,20,17,DAL,DET,2,home,DefReb,,,DefReb,,Z. Pachulia,
+54,1,3:39.0,23,17,DAL,DET,4,home,JS,assist,24,make3,3,W. Matthews,D. Harris
+55,1,3:21.0,23,17,DAL,DET,18,away,JS,,22,miss3,0,K. Caldwell-Pope,
+56,1,3:20.0,23,17,DAL,DET,1,home,DefReb,,,DefReb,,Z. Pachulia,
+57,1,3:10.0,23,17,DAL,DET,10,home,JS,,23,miss3,0,D. Harris,
+58,1,3:09.0,23,17,DAL,DET,1,away,DefReb,,,DefReb,,K. Caldwell-Pope,
+59,1,2:50.0,23,17,DAL,DET,19,away,JS,,12,miss2,0,K. Caldwell-Pope,
+60,1,2:49.0,23,17,DAL,DET,1,home,DefReb,,,DefReb,,D. Williams,
+61,1,2:40.0,23,17,DAL,DET,9,home,JS,,24,miss3,0,D. Williams,
+62,1,2:39.0,23,17,DAL,DET,1,away,DefReb,,,DefReb,,R. Bullock,
+63,1,2:31.0,23,17,DAL,DET,8,away,JS,,14,miss2,0,R. Jackson,
+64,1,2:30.0,23,17,DAL,DET,1,home,DefReb,,,DefReb,,Team,
+65,1,2:30.0,23,17,DAL,DET,0,home,Timeout,,,,,,
+66,1,2:30.0,23,17,DAL,DET,0,home,Sub,,,,,R. Felton,C. Parsons
+67,1,2:30.0,23,17,DAL,DET,0,home,Sub,,,,,D. Nowitzki,W. Matthews
+68,1,2:30.0,23,17,DAL,DET,0,away,Sub,,,,,S. Blake,R. Jackson
+69,1,2:12.0,23,17,DAL,DET,18,home,JS,,19,miss2,0,D. Nowitzki,
+70,1,2:11.0,23,17,DAL,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+71,1,2:00.0,23,19,DAL,DET,11,away,JS,,7,make2,2,M. Morris,
+72,1,1:41.0,25,19,DAL,DET,19,home,JS,,4,make2,2,D. Nowitzki,
+73,1,1:30.0,25,19,DAL,DET,11,away,JS,,24,miss3,0,K. Caldwell-Pope,
+74,1,1:28.0,25,19,DAL,DET,2,away,OffReb,,,OffReb,,R. Bullock,
+75,1,1:18.0,25,19,DAL,DET,10,away,JS,,24,miss3,0,M. Morris,
+76,1,1:17.0,25,19,DAL,DET,1,away,OffReb,,,OffReb,,A. Drummond,
+77,1,1:12.0,25,19,DAL,DET,5,away,HS,,9,miss2,0,A. Drummond,
+78,1,1:11.0,25,19,DAL,DET,1,home,DefReb,,,DefReb,,Z. Pachulia,
+79,1,1:04.0,25,19,DAL,DET,7,home,BadPass,steal,,turnover,,R. Felton,K. Caldwell-Pope
+80,1,0:56.0,25,21,DAL,DET,8,away,JS,assist,12,make2,2,A. Drummond,S. Blake
+81,1,0:38.0,27,21,DAL,DET,18,home,LU,,1,make2,2,R. Felton,
+82,1,0:38.0,27,21,DAL,DET,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Blake,R. Felton
+83,1,0:38.0,27,21,DAL,DET,0,home,Sub,,,,,D. Lee,Z. Pachulia
+84,1,0:38.0,27,21,DAL,DET,0,home,Sub,,,,,J. Barea,D. Williams
+85,1,0:38.0,28,21,DAL,DET,0,home,FreeThrow,,,make1,1,R. Felton,
+86,1,0:25.0,28,23,DAL,DET,13,away,DK,assist,0,make2,2,A. Drummond,K. Caldwell-Pope
+87,1,0:03.0,28,23,DAL,DET,22,home,LostBall,steal,,turnover,,R. Felton,S. Blake
+88,1,0:00.0,28,25,DAL,DET,3,away,LU,assist,0,make2,2,K. Caldwell-Pope,M. Morris
+89,1,0:00.0,28,25,DAL,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,K. Caldwell-Pope
+90,1,0:00.0,28,26,DAL,DET,0,away,FreeThrow,,,make1,1,K. Caldwell-Pope,
+91,2,11:37.0,28,26,DAL,DET,23,home,JS,,20,miss2,0,D. Harris,
+92,2,11:36.0,28,26,DAL,DET,1,away,DefReb,,,DefReb,,R. Bullock,
+93,2,11:24.0,28,26,DAL,DET,12,away,BadPass,steal,,turnover,,S. Blake,R. Felton
+94,2,11:20.0,30,26,DAL,DET,4,home,LU,,1,make2,2,D. Harris,
+95,2,11:00.0,30,28,DAL,DET,20,away,JS,,16,make2,2,R. Bullock,
+96,2,10:38.0,30,28,DAL,DET,22,home,JS,block,3,miss2,0,R. Felton,A. Baynes
+97,2,10:37.0,30,28,DAL,DET,1,home,OffReb,,,OffReb,,R. Felton,
+98,2,10:35.0,30,28,DAL,DET,2,home,JS,,9,miss2,0,D. Nowitzki,
+99,2,10:34.0,30,28,DAL,DET,1,away,DefReb,,,DefReb,,T. Harris,
+100,2,10:19.0,30,28,DAL,DET,15,away,JS,block,5,miss2,0,R. Bullock,D. Lee
+101,2,10:19.0,30,28,DAL,DET,0,away,OffReb,,,OffReb,,Team,
+102,2,10:11.0,30,28,DAL,DET,8,away,ShotClockViolation,,,turnover,,Team,
+103,2,9:58.0,30,28,DAL,DET,13,home,BadPass,steal,,turnover,,D. Harris,T. Harris
+104,2,9:50.0,30,28,DAL,DET,8,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Lee,T. Harris
+105,2,9:50.0,30,29,DAL,DET,0,away,FreeThrow,,,make1,1,T. Harris,
+106,2,9:50.0,30,29,DAL,DET,0,home,Sub,,,,,W. Matthews,D. Harris
+107,2,9:50.0,30,30,DAL,DET,0,away,FreeThrow,,,make1,1,T. Harris,
+108,2,9:34.0,30,30,DAL,DET,16,home,JS,,5,miss2,0,D. Lee,
+109,2,9:33.0,30,30,DAL,DET,1,away,DefReb,,,DefReb,,R. Bullock,
+110,2,9:23.0,30,30,DAL,DET,10,away,JS,,20,miss2,0,S. Blake,
+111,2,9:22.0,30,30,DAL,DET,1,away,OffReb,,,OffReb,,R. Bullock,
+112,2,9:20.0,30,30,DAL,DET,2,away,BadPass,steal,,turnover,,R. Bullock,R. Felton
+113,2,9:13.0,33,30,DAL,DET,7,home,JS,assist,23,make3,3,J. Barea,D. Nowitzki
+114,2,8:49.0,33,30,DAL,DET,24,away,JS,,7,miss2,0,T. Harris,
+115,2,8:48.0,33,30,DAL,DET,1,home,DefReb,,,DefReb,,D. Nowitzki,
+116,2,8:39.0,35,30,DAL,DET,9,home,JS,,3,make2,2,J. Barea,
+117,2,8:15.0,35,32,DAL,DET,24,away,JS,,2,make2,2,K. Caldwell-Pope,
+118,2,8:01.0,37,32,DAL,DET,14,home,DK,assist,0,make2,2,D. Lee,J. Barea
+119,2,7:51.0,37,32,DAL,DET,10,away,Timeout,,,,,,
+120,2,7:51.0,37,32,DAL,DET,0,home,Sub,,,,,C. Parsons,D. Nowitzki
+121,2,7:51.0,37,32,DAL,DET,0,away,Sub,,,,,M. Morris,K. Caldwell-Pope
+122,2,7:40.0,37,32,DAL,DET,11,away,BadPass,steal,,turnover,,T. Harris,D. Lee
+123,2,7:22.0,40,32,DAL,DET,18,home,JS,assist,22,make3,3,C. Parsons,D. Lee
+124,2,7:02.0,40,35,DAL,DET,20,away,JS,assist,23,make3,3,R. Bullock,S. Blake
+125,2,6:46.0,40,35,DAL,DET,16,home,JS,,24,miss3,0,W. Matthews,
+126,2,6:45.0,40,35,DAL,DET,1,away,DefReb,,,DefReb,,T. Harris,
+127,2,6:36.0,40,35,DAL,DET,9,away,LU,,2,miss2,0,R. Bullock,
+128,2,6:35.0,40,35,DAL,DET,1,home,DefReb,,,DefReb,,D. Lee,
+129,2,6:24.0,43,35,DAL,DET,11,home,JS,assist,24,make3,3,C. Parsons,J. Barea
+130,2,6:03.0,43,38,DAL,DET,21,away,JS,assist,24,make3,3,T. Harris,M. Morris
+131,2,5:43.0,43,38,DAL,DET,20,home,JS,,7,miss2,0,J. Barea,
+132,2,5:42.0,43,38,DAL,DET,1,away,DefReb,,,DefReb,,M. Morris,
+133,2,5:39.0,43,40,DAL,DET,3,away,JS,,7,make2,2,M. Morris,
+134,2,5:39.0,43,40,DAL,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Parsons,M. Morris
+135,2,5:39.0,43,40,DAL,DET,0,away,Timeout,,,,,,
+136,2,5:39.0,43,40,DAL,DET,0,away,Sub,,,,,A. Drummond,S. Blake
+137,2,5:39.0,43,40,DAL,DET,0,away,Sub,,,,,R. Jackson,A. Baynes
+138,2,5:39.0,43,41,DAL,DET,0,away,FreeThrow,,,make1,1,M. Morris,
+139,2,5:18.0,43,41,DAL,DET,21,home,JS,,21,miss2,0,R. Felton,
+140,2,5:17.0,43,41,DAL,DET,1,home,OffReb,,,OffReb,,D. Lee,
+141,2,5:15.0,43,41,DAL,DET,2,home,JS,block,3,miss2,0,D. Lee,A. Drummond
+142,2,5:13.0,43,41,DAL,DET,2,away,DefReb,,,DefReb,,A. Drummond,
+143,2,5:03.0,43,43,DAL,DET,10,away,LU,assist,2,make2,2,T. Harris,A. Drummond
+144,2,5:03.0,43,43,DAL,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lee,T. Harris
+145,2,5:03.0,43,43,DAL,DET,0,home,Sub,,,,,Z. Pachulia,D. Lee
+146,2,5:03.0,43,43,DAL,DET,0,home,Sub,,,,,D. Williams,J. Barea
+147,2,5:03.0,43,44,DAL,DET,0,away,FreeThrow,,,make1,1,T. Harris,
+148,2,4:46.0,43,44,DAL,DET,17,home,JS,,21,miss2,0,R. Felton,
+149,2,4:45.0,43,44,DAL,DET,1,home,OffReb,,,OffReb,,Z. Pachulia,
+150,2,4:25.0,43,44,DAL,DET,20,home,JS,,26,miss3,0,C. Parsons,
+151,2,4:24.0,43,44,DAL,DET,1,away,DefReb,,,DefReb,,R. Bullock,
+152,2,4:16.0,43,44,DAL,DET,8,away,JS,,22,miss3,0,M. Morris,
+153,2,4:15.0,43,44,DAL,DET,1,away,OffReb,,,OffReb,,A. Drummond,
+154,2,4:12.0,43,44,DAL,DET,3,away,LU,,0,miss2,0,A. Drummond,
+155,2,4:11.0,43,44,DAL,DET,1,away,OffReb,,,OffReb,,T. Harris,
+156,2,4:09.0,43,46,DAL,DET,2,away,LU,assist,0,make2,2,A. Drummond,T. Harris
+157,2,4:09.0,43,46,DAL,DET,0,home,Timeout,,,,,,
+158,2,4:09.0,43,46,DAL,DET,0,home,Sub,,,,,D. Nowitzki,R. Felton
+159,2,3:44.0,43,46,DAL,DET,25,home,JS,,25,miss3,0,W. Matthews,
+160,2,3:43.0,43,46,DAL,DET,1,away,DefReb,,,DefReb,,R. Jackson,
+161,2,3:31.0,43,46,DAL,DET,12,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,Z. Pachulia,A. Drummond
+162,2,3:31.0,43,46,DAL,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+163,2,3:31.0,43,46,DAL,DET,0,away,OffReb,,,OffReb,,Team,
+164,2,3:31.0,43,46,DAL,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+165,2,3:30.0,43,46,DAL,DET,1,home,DefReb,,,DefReb,,D. Nowitzki,
+166,2,3:22.0,43,46,DAL,DET,8,home,PersonalFoul,,,,,R. Bullock,
+167,2,3:15.0,43,46,DAL,DET,7,home,JS,,10,miss2,0,D. Williams,
+168,2,3:14.0,43,46,DAL,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+169,2,3:06.0,43,48,DAL,DET,8,away,HS,assist,6,make2,2,A. Drummond,R. Jackson
+170,2,2:58.0,43,48,DAL,DET,8,home,PersonalFoul,,,,,R. Jackson,
+171,2,2:47.0,45,48,DAL,DET,11,home,JS,,6,make2,2,C. Parsons,
+172,2,2:43.0,45,48,DAL,DET,4,away,PersonalTakeFoul,,,PersonalTakeFoul,,W. Matthews,
+173,2,2:43.0,45,49,DAL,DET,0,away,FreeThrow,,,make1,1,A. Drummond,
+174,2,2:43.0,45,49,DAL,DET,0,away,Sub,,,,,K. Caldwell-Pope,R. Jackson
+175,2,2:43.0,45,49,DAL,DET,0,away,Sub,,,,,S. Blake,R. Bullock
+176,2,2:43.0,45,49,DAL,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+177,2,2:43.0,45,49,DAL,DET,0,home,DefReb,,,DefReb,,D. Nowitzki,
+178,2,2:27.0,45,49,DAL,DET,16,home,BadPass,,,turnover,,D. Nowitzki,
+179,2,2:26.0,45,49,DAL,DET,1,away,PersonalTakeFoul,,,PersonalTakeFoul,,D. Nowitzki,
+180,2,2:26.0,45,49,DAL,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+181,2,2:26.0,45,49,DAL,DET,0,away,OffReb,,,OffReb,,Team,
+182,2,2:26.0,45,50,DAL,DET,0,away,FreeThrow,,,make1,1,A. Drummond,
+183,2,2:16.0,45,50,DAL,DET,10,home,JS,,6,miss2,0,D. Williams,
+184,2,2:15.0,45,50,DAL,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+185,2,2:06.0,45,52,DAL,DET,9,away,JS,assist,3,make2,2,A. Drummond,T. Harris
+186,2,2:06.0,45,52,DAL,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,A. Drummond
+187,2,2:06.0,45,52,DAL,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+188,2,2:06.0,45,52,DAL,DET,0,home,DefReb,,,DefReb,,Team,
+189,2,1:58.0,45,52,DAL,DET,8,home,JS,,6,miss2,0,C. Parsons,
+190,2,1:57.0,45,52,DAL,DET,1,away,DefReb,,,DefReb,,M. Morris,
+191,2,1:46.0,45,52,DAL,DET,11,away,JS,,22,miss3,0,T. Harris,
+192,2,1:45.0,45,52,DAL,DET,1,home,DefReb,,,DefReb,,W. Matthews,
+193,2,1:32.0,47,52,DAL,DET,13,home,JS,,15,make2,2,W. Matthews,
+194,2,1:25.0,47,52,DAL,DET,7,away,PersonalTakeFoul,,,PersonalTakeFoul,,D. Williams,
+195,2,1:25.0,47,53,DAL,DET,0,away,FreeThrow,,,make1,1,A. Drummond,
+196,2,1:25.0,47,53,DAL,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+197,2,1:25.0,47,53,DAL,DET,0,home,DefReb,,,DefReb,,D. Nowitzki,
+198,2,1:06.0,49,53,DAL,DET,19,home,JS,assist,20,make2,2,D. Nowitzki,C. Parsons
+199,2,0:59.0,49,53,DAL,DET,7,away,PersonalTakeFoul,,,PersonalTakeFoul,,W. Matthews,
+200,2,0:59.0,49,53,DAL,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+201,2,0:59.0,49,53,DAL,DET,0,away,OffReb,,,OffReb,,Team,
+202,2,0:59.0,49,54,DAL,DET,0,away,FreeThrow,,,make1,1,A. Drummond,
+203,2,0:52.0,49,54,DAL,DET,7,home,PersonalFoul,,,,,A. Drummond,
+204,2,0:52.0,49,54,DAL,DET,0,away,Sub,,,,,A. Baynes,A. Drummond
+205,2,0:45.0,49,54,DAL,DET,7,home,JS,block,5,miss2,0,D. Williams,A. Baynes
+206,2,0:43.0,49,54,DAL,DET,2,home,OffReb,,,OffReb,,D. Williams,
+207,2,0:41.0,52,54,DAL,DET,2,home,JS,assist,23,make3,3,C. Parsons,D. Williams
+208,2,0:29.0,52,54,DAL,DET,12,away,LostBall,,,turnover,,M. Morris,
+209,2,0:06.0,52,54,DAL,DET,23,home,JS,,25,miss3,0,C. Parsons,
+210,2,0:05.0,52,54,DAL,DET,1,home,OffReb,,,OffReb,,Team,
+211,2,0:05.0,52,54,DAL,DET,0,home,ShotClockViolation,,,turnover,,Team,
+212,2,0:05.0,52,54,DAL,DET,0,home,Sub,,,,,R. Felton,D. Nowitzki
+213,2,0:00.0,52,54,DAL,DET,5,away,JS,,26,miss3,0,K. Caldwell-Pope,
+214,2,0:00.0,52,54,DAL,DET,0,away,OffReb,,,OffReb,,Team,
+215,3,11:47.0,52,54,DAL,DET,13,home,JS,,14,miss2,0,Z. Pachulia,
+216,3,11:46.0,52,54,DAL,DET,1,away,DefReb,,,DefReb,,M. Morris,
+217,3,11:33.0,52,56,DAL,DET,13,away,HS,,10,make2,2,A. Drummond,
+218,3,11:20.0,54,56,DAL,DET,13,home,LU,assist,1,make2,2,Z. Pachulia,D. Williams
+219,3,10:55.0,54,56,DAL,DET,25,away,LostBall,,,turnover,,A. Drummond,
+220,3,10:38.0,54,56,DAL,DET,17,home,D3SecTech,,,,,,
+221,3,10:38.0,55,56,DAL,DET,0,home,FreeThrow,,,make1,1,D. Nowitzki makes technical free throw,
+222,3,10:26.0,55,56,DAL,DET,12,home,JS,,24,miss3,0,D. Nowitzki,
+223,3,10:25.0,55,56,DAL,DET,1,home,OffReb,,,OffReb,,Z. Pachulia,
+224,3,10:19.0,57,56,DAL,DET,6,home,JS,,17,make2,2,D. Williams,
+225,3,10:02.0,57,58,DAL,DET,17,away,DK,,0,make2,2,M. Morris,
+226,3,9:34.0,57,58,DAL,DET,28,home,JS,,24,miss3,0,D. Williams,
+227,3,9:33.0,57,58,DAL,DET,1,away,DefReb,,,DefReb,,T. Harris,
+228,3,9:25.0,57,58,DAL,DET,8,away,JS,,23,miss3,0,T. Harris,
+229,3,9:24.0,57,58,DAL,DET,1,home,DefReb,,,DefReb,,D. Nowitzki,
+230,3,9:12.0,57,58,DAL,DET,12,home,JS,,10,miss2,0,Z. Pachulia,
+231,3,9:11.0,57,58,DAL,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+232,3,9:00.0,57,61,DAL,DET,11,away,JS,,25,make3,3,R. Jackson,
+233,3,8:45.0,57,61,DAL,DET,15,home,JS,,8,miss2,0,D. Williams,
+234,3,8:44.0,57,61,DAL,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+235,3,8:33.0,57,61,DAL,DET,11,away,JS,,5,miss2,0,A. Drummond,
+236,3,8:30.0,57,61,DAL,DET,3,home,DefReb,,,DefReb,,Z. Pachulia,
+237,3,8:17.0,57,61,DAL,DET,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Drummond,Z. Pachulia
+238,3,8:17.0,57,61,DAL,DET,0,home,FreeThrow,,,make1,0,Z. Pachulia,
+239,3,8:17.0,57,61,DAL,DET,0,home,OffReb,,,OffReb,,Team,
+240,3,8:17.0,58,61,DAL,DET,0,home,FreeThrow,,,make1,1,Z. Pachulia,
+241,3,7:58.0,58,61,DAL,DET,19,away,JS,block,5,miss2,0,R. Jackson,D. Williams
+242,3,7:54.0,58,61,DAL,DET,4,away,OffReb,,,OffReb,,R. Jackson,
+243,3,7:51.0,58,63,DAL,DET,3,away,JS,,17,make2,2,M. Morris,
+244,3,7:41.0,58,63,DAL,DET,10,home,JS,,24,miss3,0,W. Matthews,
+245,3,7:40.0,58,63,DAL,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+246,3,7:33.0,58,65,DAL,DET,7,away,JS,,7,make2,2,T. Harris,
+247,3,7:33.0,58,65,DAL,DET,0,home,Timeout,,,,,,
+248,3,7:33.0,58,65,DAL,DET,0,home,TechnicalFoul,,,TechnicalFoul,,D. Williams,
+249,3,7:33.0,58,65,DAL,DET,0,away,FreeThrow,,,make1,0,R. Jackson misses technical free throw,
+250,3,7:33.0,58,65,DAL,DET,0,home,OffReb,,,OffReb,,Team,
+251,3,7:21.0,60,65,DAL,DET,12,home,JS,assist,19,make2,2,D. Nowitzki,C. Parsons
+252,3,6:59.0,60,65,DAL,DET,22,away,JS,,4,miss2,0,R. Jackson,
+253,3,6:58.0,60,65,DAL,DET,1,home,DefReb,,,DefReb,,Z. Pachulia,
+254,3,6:51.0,63,65,DAL,DET,7,home,JS,assist,24,make3,3,D. Nowitzki,D. Williams
+255,3,6:30.0,63,65,DAL,DET,21,away,JS,,24,miss3,0,T. Harris,
+256,3,6:29.0,63,65,DAL,DET,1,home,DefReb,,,DefReb,,D. Williams,
+257,3,6:17.0,63,65,DAL,DET,12,home,JS,,10,miss2,0,D. Nowitzki,
+258,3,6:16.0,63,65,DAL,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+259,3,5:59.0,63,65,DAL,DET,17,away,HS,,7,miss2,0,A. Drummond,
+260,3,5:58.0,63,65,DAL,DET,1,home,DefReb,,,DefReb,,D. Williams,
+261,3,5:38.0,63,65,DAL,DET,20,home,JS,,24,miss3,0,C. Parsons,
+262,3,5:36.0,63,65,DAL,DET,2,away,DefReb,,,DefReb,,A. Drummond,
+263,3,5:27.0,63,67,DAL,DET,9,away,JS,assist,17,make2,2,M. Morris,T. Harris
+264,3,5:14.0,63,67,DAL,DET,13,home,JS,,18,miss2,0,D. Williams,
+265,3,5:13.0,63,67,DAL,DET,1,away,DefReb,,,DefReb,,K. Caldwell-Pope,
+266,3,5:05.0,63,67,DAL,DET,8,away,JS,,25,miss3,0,K. Caldwell-Pope,
+267,3,5:04.0,63,67,DAL,DET,1,home,DefReb,,,DefReb,,Z. Pachulia,
+268,3,4:53.0,65,67,DAL,DET,11,home,JS,,9,make2,2,C. Parsons,
+269,3,4:36.0,65,70,DAL,DET,17,away,JS,assist,24,make3,3,T. Harris,R. Jackson
+270,3,4:31.0,65,70,DAL,DET,5,home,Timeout,,,,,,
+271,3,4:31.0,65,70,DAL,DET,0,home,Sub,,,,,R. Felton,D. Nowitzki
+272,3,4:31.0,65,70,DAL,DET,0,away,Sub,,,,,R. Bullock,M. Morris
+273,3,4:11.0,67,70,DAL,DET,20,home,LU,assist,1,make2,2,C. Parsons,Z. Pachulia
+274,3,3:46.0,67,70,DAL,DET,25,away,JS,,25,miss3,0,R. Bullock,
+275,3,3:46.0,67,70,DAL,DET,0,home,DefReb,,,DefReb,,Z. Pachulia,
+276,3,3:36.0,69,70,DAL,DET,10,home,JS,,18,make2,2,C. Parsons,
+277,3,3:17.0,69,70,DAL,DET,19,away,JS,,17,miss2,0,R. Jackson,
+278,3,3:16.0,69,70,DAL,DET,1,away,OffReb,,,OffReb,,A. Drummond,
+279,3,3:13.0,69,70,DAL,DET,3,away,HS,,4,miss2,0,A. Drummond,
+280,3,3:13.0,69,70,DAL,DET,0,home,DefReb,,,DefReb,,D. Williams,
+281,3,3:13.0,69,70,DAL,DET,0,away,LooseBallFoul,,,LooseBallFoul,,A. Drummond,
+282,3,2:59.0,69,70,DAL,DET,14,home,JS,,16,miss2,0,C. Parsons,
+283,3,2:58.0,69,70,DAL,DET,1,away,DefReb,,,DefReb,,T. Harris,
+284,3,2:46.0,69,70,DAL,DET,12,away,LU,,4,miss2,0,R. Jackson,
+285,3,2:46.0,69,70,DAL,DET,0,away,OffReb,,,OffReb,,K. Caldwell-Pope,
+286,3,2:44.0,69,70,DAL,DET,2,away,LU,,2,miss2,0,K. Caldwell-Pope,
+287,3,2:43.0,69,70,DAL,DET,1,away,OffReb,,,OffReb,,R. Jackson,
+288,3,2:43.0,69,72,DAL,DET,0,away,LU,,1,make2,2,R. Jackson,
+289,3,2:16.0,72,72,DAL,DET,27,home,JS,assist,26,make3,3,D. Williams,C. Parsons
+290,3,2:00.0,72,72,DAL,DET,16,away,JS,,24,miss3,0,T. Harris,
+291,3,1:59.0,72,72,DAL,DET,1,home,DefReb,,,DefReb,,C. Parsons,
+292,3,1:47.0,72,72,DAL,DET,12,home,JS,,20,miss2,0,R. Felton,
+293,3,1:46.0,72,72,DAL,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+294,3,1:40.0,72,72,DAL,DET,6,away,Timeout,,,,,,
+295,3,1:40.0,72,72,DAL,DET,0,away,Sub,,,,,S. Blake,R. Jackson
+296,3,1:24.0,72,72,DAL,DET,16,away,LU,,0,miss2,0,A. Drummond,
+297,3,1:22.0,72,72,DAL,DET,2,away,OffReb,,,OffReb,,A. Drummond,
+298,3,1:22.0,72,72,DAL,DET,0,away,LostBall,,,turnover,,T. Harris,
+299,3,1:00.0,72,72,DAL,DET,22,home,JS,,25,miss3,0,W. Matthews,
+300,3,0:58.0,72,72,DAL,DET,2,away,DefReb,,,DefReb,,T. Harris,
+301,3,0:39.0,72,74,DAL,DET,19,away,JS,assist,6,make2,2,T. Harris,S. Blake
+302,3,0:28.0,74,74,DAL,DET,11,home,JS,assist,12,make2,2,R. Felton,D. Williams
+303,3,0:08.0,74,76,DAL,DET,20,away,LU,assist,0,make2,2,A. Drummond,K. Caldwell-Pope
+304,3,0:08.0,74,76,DAL,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Parsons,A. Drummond
+305,3,0:08.0,74,76,DAL,DET,0,home,Sub,,,,,D. Nowitzki,C. Parsons
+306,3,0:08.0,74,76,DAL,DET,0,home,Sub,,,,,J. Barea,W. Matthews
+307,3,0:08.0,74,76,DAL,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+308,3,0:08.0,74,76,DAL,DET,0,home,DefReb,,,DefReb,,J. Barea,
+309,3,0:03.0,74,76,DAL,DET,5,home,JS,,28,miss3,0,D. Williams,
+310,3,0:00.0,74,76,DAL,DET,3,home,OffReb,,,OffReb,,Team,
+311,4,11:46.0,74,76,DAL,DET,14,away,JS,,15,miss2,0,M. Morris,
+312,4,11:45.0,74,76,DAL,DET,1,home,DefReb,,,DefReb,,D. Lee,
+313,4,11:29.0,74,76,DAL,DET,16,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,A. Baynes,D. Williams
+314,4,11:29.0,74,76,DAL,DET,0,home,FreeThrow,,,make1,0,D. Williams,
+315,4,11:29.0,74,76,DAL,DET,0,home,OffReb,,,OffReb,,Team,
+316,4,11:29.0,75,76,DAL,DET,0,home,FreeThrow,,,make1,1,D. Williams,
+317,4,11:11.0,75,79,DAL,DET,18,away,JS,assist,23,make3,3,S. Blake,K. Caldwell-Pope
+318,4,10:56.0,77,79,DAL,DET,15,home,JS,,6,make2,2,J. Barea,
+319,4,10:38.0,77,79,DAL,DET,18,away,JS,,24,miss3,0,R. Bullock,
+320,4,10:38.0,77,79,DAL,DET,0,home,DefReb,,,DefReb,,D. Lee,
+321,4,10:38.0,77,79,DAL,DET,0,away,LooseBallFoul,,,LooseBallFoul,,A. Baynes,
+322,4,10:24.0,79,79,DAL,DET,14,home,JS,assist,15,make2,2,D. Nowitzki,D. Williams
+323,4,10:07.0,79,79,DAL,DET,17,away,BadPass,steal,,turnover,,R. Bullock,J. Barea
+324,4,9:58.0,79,79,DAL,DET,9,home,JS,,23,miss3,0,D. Williams,
+325,4,9:58.0,79,79,DAL,DET,0,away,DefReb,,,DefReb,,K. Caldwell-Pope,
+326,4,9:45.0,79,79,DAL,DET,13,away,JS,,8,miss2,0,M. Morris,
+327,4,9:45.0,79,79,DAL,DET,0,away,OffReb,,,OffReb,,A. Baynes,
+328,4,9:45.0,79,79,DAL,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Felton,A. Baynes
+329,4,9:45.0,79,80,DAL,DET,0,away,FreeThrow,,,make1,1,A. Baynes,
+330,4,9:45.0,79,80,DAL,DET,0,home,Sub,,,,,D. Harris,D. Williams
+331,4,9:45.0,79,80,DAL,DET,0,away,FreeThrow,,,make1,0,A. Baynes,
+332,4,9:45.0,79,80,DAL,DET,0,home,DefReb,,,DefReb,,D. Nowitzki,
+333,4,9:31.0,81,80,DAL,DET,14,home,DK,assist,0,make2,2,D. Lee,D. Harris
+334,4,9:09.0,81,80,DAL,DET,22,away,JS,,16,miss2,0,K. Caldwell-Pope,
+335,4,9:08.0,81,80,DAL,DET,1,home,DefReb,,,DefReb,,D. Nowitzki,
+336,4,8:58.0,81,80,DAL,DET,10,home,JS,,23,miss3,0,R. Felton,
+337,4,8:57.0,81,80,DAL,DET,1,away,DefReb,,,DefReb,,M. Morris,
+338,4,8:47.0,81,80,DAL,DET,10,away,JS,,7,miss2,0,M. Morris,
+339,4,8:46.0,81,80,DAL,DET,1,home,DefReb,,,DefReb,,D. Nowitzki,
+340,4,8:33.0,81,80,DAL,DET,13,home,BadPass,steal,,turnover,,R. Felton,K. Caldwell-Pope
+341,4,8:29.0,81,82,DAL,DET,4,away,LU,,0,make2,2,K. Caldwell-Pope,
+342,4,8:03.0,81,82,DAL,DET,26,home,JS,,24,miss3,0,D. Harris,
+343,4,8:02.0,81,82,DAL,DET,1,away,DefReb,,,DefReb,,A. Baynes,
+344,4,7:41.0,81,85,DAL,DET,21,away,JS,assist,23,make3,3,M. Morris,S. Blake
+345,4,7:40.0,81,85,DAL,DET,1,home,Timeout,,,,,,
+346,4,7:40.0,81,85,DAL,DET,0,away,Sub,,,,,T. Harris,K. Caldwell-Pope
+347,4,7:40.0,81,85,DAL,DET,0,home,Sub,,,,,C. Parsons,D. Harris
+348,4,7:30.0,81,85,DAL,DET,10,home,JS,,8,miss2,0,D. Nowitzki,
+349,4,7:29.0,81,85,DAL,DET,1,away,DefReb,,,DefReb,,A. Baynes,
+350,4,7:16.0,81,87,DAL,DET,13,away,LU,,3,make2,2,S. Blake,
+351,4,7:04.0,81,87,DAL,DET,12,home,JS,,10,miss2,0,J. Barea,
+352,4,7:03.0,81,87,DAL,DET,1,away,DefReb,,,DefReb,,M. Morris,
+353,4,6:55.0,81,89,DAL,DET,8,away,JS,,22,make2,2,S. Blake,
+354,4,6:39.0,81,89,DAL,DET,16,home,JS,,10,miss2,0,D. Nowitzki,
+355,4,6:38.0,81,89,DAL,DET,1,away,DefReb,,,DefReb,,R. Bullock,
+356,4,6:30.0,81,89,DAL,DET,8,away,BadPass,,,turnover,,S. Blake,
+357,4,6:30.0,81,89,DAL,DET,0,home,Sub,,,,,Z. Pachulia,R. Felton
+358,4,6:30.0,81,89,DAL,DET,0,home,Sub,,,,,W. Matthews,D. Lee
+359,4,6:30.0,81,89,DAL,DET,0,home,Sub,,,,,D. Williams,J. Barea
+360,4,6:30.0,81,89,DAL,DET,0,away,Sub,,,,,A. Drummond,S. Blake
+361,4,6:30.0,81,89,DAL,DET,0,away,Sub,,,,,R. Jackson,A. Baynes
+362,4,6:07.0,83,89,DAL,DET,23,home,JS,,10,make2,2,W. Matthews,
+363,4,5:47.0,83,89,DAL,DET,20,away,LU,,2,miss2,0,A. Drummond,
+364,4,5:46.0,83,89,DAL,DET,1,home,DefReb,,,DefReb,,Z. Pachulia,
+365,4,5:34.0,83,89,DAL,DET,12,home,JS,,24,miss3,0,W. Matthews,
+366,4,5:33.0,83,89,DAL,DET,1,away,DefReb,,,DefReb,,M. Morris,
+367,4,5:21.0,83,92,DAL,DET,12,away,JS,assist,24,make3,3,M. Morris,R. Jackson
+368,4,5:11.0,85,92,DAL,DET,10,home,LU,assist,0,make2,2,D. Nowitzki,D. Williams
+369,4,4:53.0,85,92,DAL,DET,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Matthews,A. Drummond
+370,4,4:53.0,85,92,DAL,DET,0,away,Timeout,,,,,,
+371,4,4:53.0,85,92,DAL,DET,0,home,Sub,,,,,R. Felton,D. Nowitzki
+372,4,4:53.0,85,92,DAL,DET,0,away,Sub,,,,,K. Caldwell-Pope,R. Bullock
+373,4,4:53.0,85,92,DAL,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+374,4,4:53.0,85,92,DAL,DET,0,away,OffReb,,,OffReb,,Team,
+375,4,4:53.0,85,93,DAL,DET,0,away,FreeThrow,,,make1,1,A. Drummond,
+376,4,4:35.0,85,93,DAL,DET,18,home,BadPass,steal,,turnover,,W. Matthews,K. Caldwell-Pope
+377,4,4:32.0,85,93,DAL,DET,3,home,ChargeFoul,DrawnBy,,ChargeFoul,,K. Caldwell-Pope,D. Williams
+378,4,4:32.0,85,93,DAL,DET,0,away,OffensiveFoul,,,turnover,,K. Caldwell-Pope,
+379,4,4:32.0,85,93,DAL,DET,0,home,Sub,,,,,D. Nowitzki,W. Matthews
+380,4,4:24.0,85,93,DAL,DET,8,home,PersonalFoul,,,,,T. Harris,
+381,4,4:10.0,87,93,DAL,DET,14,home,JS,,10,make2,2,D. Nowitzki,
+382,4,3:51.0,87,93,DAL,DET,19,away,JS,,7,miss2,0,R. Jackson,
+383,4,3:49.0,87,93,DAL,DET,2,away,OffReb,,,OffReb,,R. Jackson,
+384,4,3:35.0,87,93,DAL,DET,14,away,HS,,6,miss2,0,A. Drummond,
+385,4,3:33.0,87,93,DAL,DET,2,home,DefReb,,,DefReb,,D. Nowitzki,
+386,4,3:12.0,87,93,DAL,DET,21,home,JS,,14,miss2,0,R. Felton,
+387,4,3:11.0,87,93,DAL,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+388,4,2:55.0,87,93,DAL,DET,16,away,Timeout,,,,,,
+389,4,2:49.0,87,93,DAL,DET,6,away,LU,,1,miss2,0,R. Jackson,
+390,4,2:48.0,87,93,DAL,DET,1,away,OffReb,,,OffReb,,Team,
+391,4,2:48.0,87,93,DAL,DET,0,away,ShotClockViolation,,,turnover,,Team,
+392,4,2:39.0,89,93,DAL,DET,9,home,DK,assist,0,make2,2,C. Parsons,D. Williams
+393,4,2:26.0,89,93,DAL,DET,13,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,Z. Pachulia,T. Harris
+394,4,2:26.0,89,94,DAL,DET,0,away,FreeThrow,,,make1,1,T. Harris,
+395,4,2:26.0,89,95,DAL,DET,0,away,FreeThrow,,,make1,1,T. Harris,
+396,4,2:07.0,91,95,DAL,DET,19,home,JS,assist,3,make2,2,Z. Pachulia,D. Nowitzki
+397,4,2:07.0,91,95,DAL,DET,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,Z. Pachulia
+398,4,2:07.0,92,95,DAL,DET,0,home,FreeThrow,,,make1,1,Z. Pachulia,
+399,4,1:43.0,92,95,DAL,DET,24,away,JS,,55,miss3,0,K. Caldwell-Pope,
+400,4,1:43.0,92,95,DAL,DET,0,away,OffReb,,,OffReb,,Team,
+401,4,1:43.0,92,95,DAL,DET,0,away,ShotClockViolation,,,turnover,,Team,
+402,4,1:21.0,92,95,DAL,DET,22,home,JS,,24,miss3,0,C. Parsons,
+403,4,1:21.0,92,95,DAL,DET,0,away,DefReb,,,DefReb,,Team,
+404,4,1:21.0,92,95,DAL,DET,0,away,Timeout,,,,,,
+405,4,1:21.0,92,95,DAL,DET,0,away,Sub,,,,,A. Baynes,A. Drummond
+406,4,0:59.0,92,98,DAL,DET,22,away,JS,,26,make3,3,R. Jackson,
+407,4,0:58.0,92,98,DAL,DET,1,home,Timeout,,,,,,
+408,4,0:49.0,92,98,DAL,DET,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Caldwell-Pope,D. Nowitzki
+409,4,0:49.0,93,98,DAL,DET,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+410,4,0:49.0,94,98,DAL,DET,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+411,4,0:33.0,94,98,DAL,DET,16,away,JS,,24,miss3,0,M. Morris,
+412,4,0:32.0,94,98,DAL,DET,1,home,DefReb,,,DefReb,,C. Parsons,
+413,4,0:25.0,94,98,DAL,DET,7,home,JS,,22,miss3,0,D. Nowitzki,
+414,4,0:24.0,94,98,DAL,DET,1,home,OffReb,,,OffReb,,C. Parsons,
+415,4,0:22.0,94,98,DAL,DET,2,home,BadPass,steal,,turnover,,D. Williams,M. Morris
+416,4,0:22.0,94,98,DAL,DET,0,away,ClearPathFoul,,,ClearPathFoul,,D. Williams,
+417,4,0:22.0,94,98,DAL,DET,0,away,FreeThrow,,,make1,0,M. Morris misses clear path free throw 1 of 2,
+418,4,0:22.0,94,98,DAL,DET,0,away,OffReb,,,OffReb,,Team,
+419,4,0:22.0,94,99,DAL,DET,0,away,FreeThrow,,,make1,1,M. Morris makes clear path free throw 2 of 2,
+420,4,0:22.0,94,99,DAL,DET,0,home,Sub,,,,,D. Harris,D. Nowitzki
+421,4,0:20.0,94,99,DAL,DET,2,away,PersonalFoul,,,,,R. Felton,
+422,4,0:20.0,94,100,DAL,DET,0,away,FreeThrow,,,make1,1,R. Jackson,
+423,4,0:20.0,94,100,DAL,DET,0,away,FreeThrow,,,make1,0,R. Jackson,
+424,4,0:20.0,94,100,DAL,DET,0,home,DefReb,,,DefReb,,Z. Pachulia,
+425,4,0:20.0,94,100,DAL,DET,0,home,Timeout,,,,,,
+426,4,0:20.0,94,100,DAL,DET,0,home,Sub,,,,,D. Nowitzki,Z. Pachulia
+427,4,0:20.0,94,100,DAL,DET,0,home,Sub,,,,,W. Matthews,D. Harris
+428,4,0:20.0,94,100,DAL,DET,0,home,Sub,,,,,C. Villanueva,R. Felton
+429,4,0:20.0,94,100,DAL,DET,0,away,Sub,,,,,R. Bullock,A. Baynes
+430,4,0:20.0,94,100,DAL,DET,0,home,Turnover5Second,,,turnover,,Team,
+431,4,0:19.0,94,100,DAL,DET,1,away,PersonalTakeFoul,,,PersonalTakeFoul,,C. Villanueva,
+432,4,0:19.0,94,101,DAL,DET,0,away,FreeThrow,,,make1,1,K. Caldwell-Pope,
+433,4,0:19.0,94,102,DAL,DET,0,away,FreeThrow,,,make1,1,K. Caldwell-Pope,
+434,4,0:09.0,96,102,DAL,DET,10,home,JS,assist,10,make2,2,D. Nowitzki,C. Parsons

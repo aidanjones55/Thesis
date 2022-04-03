@@ -1,0 +1,478 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:40.0,0,0,PHO,OKC,20,away,JS,,6,miss2,0,S. Adams,
+1,1,11:40.0,0,0,PHO,OKC,0,home,DefReb,,,DefReb,,A. Len,
+2,1,11:28.0,0,0,PHO,OKC,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Gibson,A. Len
+3,1,11:28.0,1,0,PHO,OKC,0,home,FreeThrow,,,make1,1,A. Len,
+4,1,11:28.0,1,0,PHO,OKC,0,home,FreeThrow,,,make1,0,A. Len,
+5,1,11:27.0,1,0,PHO,OKC,1,away,DefReb,,,DefReb,,R. Westbrook,
+6,1,11:13.0,1,2,PHO,OKC,14,away,JS,assist,16,make2,2,T. Gibson,S. Adams
+7,1,11:12.0,1,2,PHO,OKC,1,away,JumpBallViolation,,,JumpBallViolation,,Team,
+8,1,10:55.0,3,2,PHO,OKC,17,home,JS,,7,make2,2,M. Chriss,
+9,1,10:45.0,3,2,PHO,OKC,10,away,BadPass,,,turnover,,R. Westbrook,
+10,1,10:23.0,5,2,PHO,OKC,22,home,JS,,18,make2,2,T. Ulis,
+11,1,10:10.0,5,2,PHO,OKC,13,away,BadPass,steal,,turnover,,R. Westbrook,M. Chriss
+12,1,9:59.0,5,2,PHO,OKC,11,home,BadPass,,,turnover,,T. Ulis,
+13,1,9:40.0,5,2,PHO,OKC,19,away,LU,block,0,miss2,0,R. Westbrook,M. Chriss
+14,1,9:38.0,5,2,PHO,OKC,2,home,DefReb,,,DefReb,,A. Len,
+15,1,9:31.0,5,2,PHO,OKC,7,home,JS,,24,miss3,0,T. Warren,
+16,1,9:31.0,5,2,PHO,OKC,0,home,OffReb,,,OffReb,,M. Chriss,
+17,1,9:17.0,5,2,PHO,OKC,14,home,JS,,5,miss2,0,A. Len,
+18,1,9:16.0,5,2,PHO,OKC,1,away,DefReb,,,DefReb,,S. Adams,
+19,1,9:07.0,5,2,PHO,OKC,9,away,BadPass,steal,,turnover,,R. Westbrook,D. Booker
+20,1,9:01.0,7,2,PHO,OKC,6,home,LU,assist,1,make2,2,T. Warren,D. Booker
+21,1,9:01.0,7,2,PHO,OKC,0,away,Timeout,,,,,,
+22,1,8:44.0,7,2,PHO,OKC,17,away,JS,,16,miss2,0,R. Westbrook,
+23,1,8:43.0,7,2,PHO,OKC,1,away,OffReb,,,OffReb,,S. Adams,
+24,1,8:36.0,7,2,PHO,OKC,7,away,LU,,3,miss2,0,R. Westbrook,
+25,1,8:36.0,7,2,PHO,OKC,0,away,OffReb,,,OffReb,,R. Westbrook,
+26,1,8:36.0,7,2,PHO,OKC,0,away,BadPass,steal,,turnover,,R. Westbrook,M. Chriss
+27,1,8:26.0,10,2,PHO,OKC,10,home,JS,assist,26,make3,3,D. Booker,T. Ulis
+28,1,8:01.0,10,2,PHO,OKC,25,away,HS,,4,miss2,0,S. Adams,
+29,1,7:59.0,10,2,PHO,OKC,2,home,DefReb,,,DefReb,,T. Warren,
+30,1,7:52.0,10,2,PHO,OKC,7,home,JS,,5,miss2,0,T. Warren,
+31,1,7:52.0,10,2,PHO,OKC,0,home,OffReb,,,OffReb,,T. Warren,
+32,1,7:49.0,12,2,PHO,OKC,3,home,LU,,2,make2,2,T. Warren,
+33,1,7:30.0,12,2,PHO,OKC,19,away,JS,,19,miss2,0,V. Oladipo,
+34,1,7:29.0,12,2,PHO,OKC,1,home,DefReb,,,DefReb,,A. Len,
+35,1,7:15.0,12,2,PHO,OKC,14,home,DK,block,0,miss2,0,M. Chriss,T. Gibson
+36,1,7:12.0,12,2,PHO,OKC,3,home,OffReb,,,OffReb,,A. Len,
+37,1,7:12.0,14,2,PHO,OKC,0,home,LU,,1,make2,2,A. Len,
+38,1,6:57.0,14,4,PHO,OKC,15,away,JS,assist,4,make2,2,T. Gibson,R. Westbrook
+39,1,6:36.0,14,4,PHO,OKC,21,home,HS,,10,miss2,0,A. Len,
+40,1,6:34.0,14,4,PHO,OKC,2,away,DefReb,,,DefReb,,T. Gibson,
+41,1,6:29.0,14,4,PHO,OKC,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Warren,S. Adams
+42,1,6:29.0,14,4,PHO,OKC,0,away,FreeThrow,,,make1,0,S. Adams,
+43,1,6:29.0,14,4,PHO,OKC,0,away,OffReb,,,OffReb,,Team,
+44,1,6:29.0,14,5,PHO,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+45,1,6:09.0,16,5,PHO,OKC,20,home,LU,,2,make2,2,A. Len,
+46,1,6:02.0,16,5,PHO,OKC,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Chriss,V. Oladipo
+47,1,6:02.0,16,6,PHO,OKC,0,away,FreeThrow,,,make1,1,V. Oladipo,
+48,1,6:02.0,16,6,PHO,OKC,0,away,FreeThrow,,,make1,0,V. Oladipo,
+49,1,6:02.0,16,6,PHO,OKC,0,away,Sub,,,,,E. Freedom,S. Adams
+50,1,6:01.0,16,6,PHO,OKC,1,home,DefReb,,,DefReb,,A. Len,
+51,1,5:47.0,18,6,PHO,OKC,14,home,LU,,0,make2,2,T. Warren,
+52,1,5:33.0,18,8,PHO,OKC,14,away,DK,assist,0,make2,2,T. Gibson,R. Westbrook
+53,1,5:17.0,20,8,PHO,OKC,16,home,JS,assist,10,make2,2,T. Warren,T. Ulis
+54,1,5:01.0,20,8,PHO,OKC,16,away,JS,,25,miss3,0,D. McDermott,
+55,1,5:01.0,20,8,PHO,OKC,0,away,OffReb,,,OffReb,,R. Westbrook,
+56,1,4:58.0,20,8,PHO,OKC,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Len,R. Westbrook
+57,1,4:58.0,20,8,PHO,OKC,0,away,Sub,,,,,S. Adams,T. Gibson
+58,1,4:52.0,20,8,PHO,OKC,6,away,JS,,25,miss3,0,R. Westbrook,
+59,1,4:51.0,20,8,PHO,OKC,1,away,OffReb,,,OffReb,,S. Adams,
+60,1,4:44.0,20,8,PHO,OKC,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Booker,V. Oladipo
+61,1,4:44.0,20,8,PHO,OKC,0,away,FreeThrow,,,make1,0,V. Oladipo,
+62,1,4:44.0,20,8,PHO,OKC,0,away,OffReb,,,OffReb,,Team,
+63,1,4:44.0,20,8,PHO,OKC,0,away,FreeThrow,,,make1,0,V. Oladipo,
+64,1,4:44.0,20,8,PHO,OKC,0,away,OffReb,,,OffReb,,E. Freedom,
+65,1,4:44.0,20,8,PHO,OKC,0,home,Sub,,,,,A. Williams,A. Len
+66,1,4:41.0,20,8,PHO,OKC,3,away,LU,,0,miss2,0,E. Freedom,
+67,1,4:41.0,20,8,PHO,OKC,0,away,OffReb,,,OffReb,,E. Freedom,
+68,1,4:41.0,20,8,PHO,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Warren,E. Freedom
+69,1,4:41.0,20,9,PHO,OKC,0,away,FreeThrow,,,make1,1,E. Freedom,
+70,1,4:41.0,20,10,PHO,OKC,0,away,FreeThrow,,,make1,1,E. Freedom,
+71,1,4:29.0,22,10,PHO,OKC,12,home,LU,assist,2,make2,2,A. Williams,D. Booker
+72,1,4:16.0,22,10,PHO,OKC,13,away,Sub,,,,,S. Christon,V. Oladipo
+73,1,4:13.0,22,10,PHO,OKC,3,away,JS,,23,miss3,0,E. Freedom,
+74,1,4:12.0,22,10,PHO,OKC,1,away,OffReb,,,OffReb,,R. Westbrook,
+75,1,4:04.0,22,10,PHO,OKC,8,away,JS,,24,miss3,0,D. McDermott,
+76,1,4:04.0,22,10,PHO,OKC,0,away,OffReb,,,OffReb,,E. Freedom,
+77,1,4:01.0,22,12,PHO,OKC,3,away,LU,,2,make2,2,E. Freedom,
+78,1,3:49.0,22,12,PHO,OKC,12,home,JS,,13,miss2,0,D. Booker,
+79,1,3:47.0,22,12,PHO,OKC,2,away,DefReb,,,DefReb,,S. Adams,
+80,1,3:42.0,22,12,PHO,OKC,5,away,LU,,3,miss2,0,R. Westbrook,
+81,1,3:41.0,22,12,PHO,OKC,1,away,OffReb,,,OffReb,,D. McDermott,
+82,1,3:41.0,22,14,PHO,OKC,0,away,LU,,0,make2,2,D. McDermott,
+83,1,3:41.0,22,14,PHO,OKC,0,home,Timeout,,,,,,
+84,1,3:41.0,22,14,PHO,OKC,0,home,Sub,,,,,J. Dudley,M. Chriss
+85,1,3:28.0,22,14,PHO,OKC,13,home,JS,,24,miss3,0,J. Dudley,
+86,1,3:28.0,22,14,PHO,OKC,0,away,DefReb,,,DefReb,,S. Christon,
+87,1,3:14.0,22,14,PHO,OKC,14,away,LostBall,steal,,turnover,,R. Westbrook,T. Ulis
+88,1,3:11.0,24,14,PHO,OKC,3,home,LU,assist,2,make2,2,T. Warren,D. Booker
+89,1,3:11.0,24,14,PHO,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. McDermott,T. Warren
+90,1,3:11.0,25,14,PHO,OKC,0,home,FreeThrow,,,make1,1,T. Warren,
+91,1,2:57.0,25,14,PHO,OKC,14,away,LU,block,2,miss2,0,R. Westbrook,A. Williams
+92,1,2:56.0,25,14,PHO,OKC,1,home,DefReb,,,DefReb,,J. Dudley,
+93,1,2:43.0,25,14,PHO,OKC,13,home,JS,,27,miss3,0,T. Ulis,
+94,1,2:43.0,25,14,PHO,OKC,0,home,OffReb,,,OffReb,,T. Warren,
+95,1,2:38.0,25,14,PHO,OKC,5,home,JS,,25,miss3,0,J. Dudley,
+96,1,2:38.0,25,14,PHO,OKC,0,away,DefReb,,,DefReb,,R. Westbrook,
+97,1,2:28.0,25,14,PHO,OKC,10,away,D3SecTech,,,,,,
+98,1,2:28.0,25,15,PHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook makes technical free throw,
+99,1,2:28.0,25,15,PHO,OKC,0,away,Sub,,,,,N. Cole,R. Westbrook
+100,1,2:28.0,25,15,PHO,OKC,0,home,Sub,,,,,D. Jones,T. Ulis
+101,1,2:18.0,25,17,PHO,OKC,10,away,JS,,16,make2,2,S. Christon,
+102,1,1:59.0,27,17,PHO,OKC,19,home,LU,,2,make2,2,D. Booker,
+103,1,1:42.0,27,17,PHO,OKC,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Williams,E. Freedom
+104,1,1:42.0,27,18,PHO,OKC,0,away,FreeThrow,,,make1,1,E. Freedom,
+105,1,1:42.0,27,19,PHO,OKC,0,away,FreeThrow,,,make1,1,E. Freedom,
+106,1,1:25.0,27,19,PHO,OKC,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Christon,D. Booker
+107,1,1:25.0,27,19,PHO,OKC,0,home,FreeThrow,,,make1,0,D. Booker,
+108,1,1:25.0,27,19,PHO,OKC,0,home,OffReb,,,OffReb,,Team,
+109,1,1:25.0,28,19,PHO,OKC,0,home,FreeThrow,,,make1,1,D. Booker,
+110,1,1:01.0,28,19,PHO,OKC,24,away,JS,,18,miss2,0,S. Christon,
+111,1,1:01.0,28,19,PHO,OKC,0,away,OffReb,,,OffReb,,Team,
+112,1,1:01.0,28,19,PHO,OKC,0,away,ShotClockViolation,,,turnover,,Team,
+113,1,0:44.0,28,19,PHO,OKC,17,home,JS,,19,miss2,0,D. Booker,
+114,1,0:43.0,28,19,PHO,OKC,1,home,OffReb,,,OffReb,,A. Williams,
+115,1,0:40.0,28,19,PHO,OKC,3,home,LU,,1,miss2,0,D. Booker,
+116,1,0:40.0,28,19,PHO,OKC,0,home,OffReb,,,OffReb,,D. Jones,
+117,1,0:40.0,30,19,PHO,OKC,0,home,LU,,0,make2,2,D. Jones,
+118,1,0:24.0,30,19,PHO,OKC,16,away,JS,,16,miss2,0,D. McDermott,
+119,1,0:22.0,30,19,PHO,OKC,2,home,DefReb,,,DefReb,,D. Booker,
+120,1,0:02.0,32,19,PHO,OKC,20,home,LU,,2,make2,2,D. Booker,
+121,2,11:36.0,32,19,PHO,OKC,24,home,BadPass,steal,,turnover,,J. Dudley,N. Cole
+122,2,11:20.0,32,21,PHO,OKC,16,away,JS,,3,make2,2,E. Freedom,
+123,2,11:03.0,34,21,PHO,OKC,17,home,JS,,12,make2,2,T. Ulis,
+124,2,11:03.0,34,21,PHO,OKC,0,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,N. Cole,T. Ulis
+125,2,11:03.0,35,21,PHO,OKC,0,home,FreeThrow,,,make1,1,T. Ulis,
+126,2,10:45.0,35,23,PHO,OKC,18,away,LU,assist,2,make2,2,E. Freedom,V. Oladipo
+127,2,10:25.0,35,23,PHO,OKC,20,home,LU,,2,miss2,0,A. Williams,
+128,2,10:23.0,35,23,PHO,OKC,2,away,DefReb,,,DefReb,,E. Freedom,
+129,2,10:16.0,35,25,PHO,OKC,7,away,LU,,0,make2,2,V. Oladipo,
+130,2,10:05.0,35,25,PHO,OKC,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Cole,T. Ulis
+131,2,9:52.0,35,25,PHO,OKC,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Freedom,A. Williams
+132,2,9:52.0,36,25,PHO,OKC,0,home,FreeThrow,,,make1,1,A. Williams,
+133,2,9:52.0,36,25,PHO,OKC,0,home,Sub,,,,,D. Bender,R. Price
+134,2,9:52.0,37,25,PHO,OKC,0,home,FreeThrow,,,make1,1,A. Williams,
+135,2,9:33.0,37,25,PHO,OKC,19,away,JS,,19,miss2,0,E. Freedom,
+136,2,9:33.0,37,25,PHO,OKC,0,home,DefReb,,,DefReb,,Team,
+137,2,9:28.0,39,25,PHO,OKC,5,home,LU,assist,1,make2,2,A. Williams,T. Ulis
+138,2,9:13.0,39,27,PHO,OKC,15,away,LU,,1,make2,2,D. Sabonis,
+139,2,8:57.0,39,27,PHO,OKC,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Christon,A. Williams
+140,2,8:57.0,39,27,PHO,OKC,0,away,Timeout,,,,,,
+141,2,8:57.0,40,27,PHO,OKC,0,home,FreeThrow,,,make1,1,A. Williams,
+142,2,8:57.0,39,27,PHO,OKC,0,away,Sub,,,,,R. Westbrook,S. Christon
+143,2,8:57.0,39,27,PHO,OKC,0,away,Sub,,,,,D. McDermott,N. Cole
+144,2,8:57.0,40,27,PHO,OKC,0,home,FreeThrow,,,make1,0,A. Williams,
+145,2,8:56.0,40,27,PHO,OKC,1,away,DefReb,,,DefReb,,R. Westbrook,
+146,2,8:45.0,40,27,PHO,OKC,11,away,LU,block,2,miss2,0,E. Freedom,D. Bender
+147,2,8:44.0,40,27,PHO,OKC,1,home,DefReb,,,DefReb,,J. Dudley,
+148,2,8:40.0,40,27,PHO,OKC,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,V. Oladipo,D. Jones
+149,2,8:40.0,40,27,PHO,OKC,0,home,FreeThrow,,,make1,0,D. Jones,
+150,2,8:40.0,40,27,PHO,OKC,0,home,OffReb,,,OffReb,,Team,
+151,2,8:40.0,41,27,PHO,OKC,0,home,FreeThrow,,,make1,1,D. Jones,
+152,2,8:26.0,41,30,PHO,OKC,14,away,JS,assist,24,make3,3,D. Sabonis,V. Oladipo
+153,2,8:08.0,43,30,PHO,OKC,18,home,LU,assist,2,make2,2,D. Jones,J. Dudley
+154,2,7:54.0,43,30,PHO,OKC,14,away,JS,,15,miss2,0,V. Oladipo,
+155,2,7:54.0,43,30,PHO,OKC,0,home,DefReb,,,DefReb,,J. Dudley,
+156,2,7:44.0,45,30,PHO,OKC,10,home,LU,,2,make2,2,D. Bender,
+157,2,7:35.0,45,30,PHO,OKC,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ulis,R. Westbrook
+158,2,7:33.0,45,30,PHO,OKC,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ulis,R. Westbrook
+159,2,7:20.0,45,32,PHO,OKC,13,away,LU,,2,make2,2,V. Oladipo,
+160,2,7:10.0,47,32,PHO,OKC,10,home,LU,,3,make2,2,T. Ulis,
+161,2,7:10.0,47,32,PHO,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Freedom,T. Ulis
+162,2,7:10.0,47,32,PHO,OKC,0,away,Sub,,,,,S. Adams,E. Freedom
+163,2,7:10.0,48,32,PHO,OKC,0,home,FreeThrow,,,make1,1,T. Ulis,
+164,2,6:46.0,48,34,PHO,OKC,24,away,LU,assist,2,make2,2,S. Adams,V. Oladipo
+165,2,6:41.0,48,34,PHO,OKC,5,home,BadPass,,,turnover,,T. Ulis,
+166,2,6:31.0,48,34,PHO,OKC,10,away,JS,,26,miss3,0,R. Westbrook,
+167,2,6:31.0,48,34,PHO,OKC,0,home,DefReb,,,DefReb,,A. Williams,
+168,2,6:22.0,50,34,PHO,OKC,9,home,LU,assist,3,make2,2,J. Dudley,T. Ulis
+169,2,6:05.0,50,34,PHO,OKC,17,away,JS,,25,miss3,0,D. Sabonis,
+170,2,6:05.0,50,34,PHO,OKC,0,home,DefReb,,,DefReb,,D. Bender,
+171,2,5:57.0,53,34,PHO,OKC,8,home,JS,assist,25,make3,3,J. Dudley,D. Bender
+172,2,5:57.0,53,34,PHO,OKC,0,away,Timeout,,,,,,
+173,2,5:57.0,53,34,PHO,OKC,0,away,Sub,,,,,J. Grant,D. Sabonis
+174,2,5:57.0,53,34,PHO,OKC,0,home,Sub,,,,,D. Booker,T. Ulis
+175,2,5:48.0,53,34,PHO,OKC,9,away,LU,block,3,miss2,0,R. Westbrook,D. Jones
+176,2,5:48.0,53,34,PHO,OKC,0,away,OffReb,,,OffReb,,Team,
+177,2,5:38.0,53,34,PHO,OKC,10,away,LU,,1,miss2,0,R. Westbrook,
+178,2,5:37.0,53,34,PHO,OKC,1,away,OffReb,,,OffReb,,S. Adams,
+179,2,5:37.0,53,36,PHO,OKC,0,away,LU,,0,make2,2,S. Adams,
+180,2,5:25.0,53,36,PHO,OKC,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Westbrook,A. Williams
+181,2,5:25.0,54,36,PHO,OKC,0,home,FreeThrow,,,make1,1,A. Williams,
+182,2,5:25.0,55,36,PHO,OKC,0,home,FreeThrow,,,make1,1,A. Williams,
+183,2,5:08.0,55,39,PHO,OKC,17,away,JS,assist,23,make3,3,J. Grant,R. Westbrook
+184,2,4:54.0,58,39,PHO,OKC,14,home,JS,assist,25,make3,3,J. Dudley,A. Williams
+185,2,4:32.0,58,39,PHO,OKC,22,away,JS,,25,miss3,0,R. Westbrook,
+186,2,4:32.0,58,39,PHO,OKC,0,away,OffReb,,,OffReb,,S. Adams,
+187,2,4:21.0,58,42,PHO,OKC,11,away,JS,assist,26,make3,3,D. McDermott,S. Adams
+188,2,4:05.0,60,42,PHO,OKC,16,home,JS,assist,3,make2,2,A. Williams,D. Booker
+189,2,3:52.0,60,42,PHO,OKC,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Booker,S. Adams
+190,2,3:52.0,60,42,PHO,OKC,0,away,FreeThrow,,,make1,0,S. Adams,
+191,2,3:52.0,60,42,PHO,OKC,0,away,OffReb,,,OffReb,,Team,
+192,2,3:52.0,60,42,PHO,OKC,0,home,Sub,,,,,T. Warren,D. Bender
+193,2,3:52.0,60,43,PHO,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+194,2,3:32.0,62,43,PHO,OKC,20,home,JS,,19,make2,2,T. Warren,
+195,2,3:20.0,62,43,PHO,OKC,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Jones,R. Westbrook
+196,2,3:08.0,62,43,PHO,OKC,12,away,JS,,25,miss3,0,V. Oladipo,
+197,2,3:08.0,62,43,PHO,OKC,0,home,DefReb,,,DefReb,,T. Warren,
+198,2,2:51.0,64,43,PHO,OKC,17,home,LU,assist,1,make2,2,D. Jones,A. Williams
+199,2,2:39.0,64,43,PHO,OKC,12,away,JS,,23,miss3,0,J. Grant,
+200,2,2:38.0,64,43,PHO,OKC,1,home,DefReb,,,DefReb,,T. Warren,
+201,2,2:24.0,64,43,PHO,OKC,14,home,JS,,10,miss2,0,T. Warren,
+202,2,2:23.0,64,43,PHO,OKC,1,away,DefReb,,,DefReb,,V. Oladipo,
+203,2,2:14.0,64,43,PHO,OKC,9,away,JS,,24,miss3,0,R. Westbrook,
+204,2,2:14.0,64,43,PHO,OKC,0,home,DefReb,,,DefReb,,T. Warren,
+205,2,2:06.0,67,43,PHO,OKC,8,home,JS,,25,make3,3,D. Booker,
+206,2,2:04.0,67,43,PHO,OKC,2,away,Timeout,,,,,,
+207,2,2:04.0,67,43,PHO,OKC,0,home,Timeout,,,,,,
+208,2,2:04.0,67,43,PHO,OKC,0,home,Sub,,,,,M. Chriss,A. Williams
+209,2,2:04.0,67,43,PHO,OKC,0,home,Sub,,,,,T. Ulis,J. Dudley
+210,2,2:04.0,67,43,PHO,OKC,0,home,Sub,,,,,A. Len,D. Jones
+211,2,1:50.0,67,43,PHO,OKC,14,away,JS,,9,miss2,0,S. Adams,
+212,2,1:49.0,67,43,PHO,OKC,1,home,DefReb,,,DefReb,,T. Warren,
+213,2,1:32.0,67,43,PHO,OKC,17,home,LU,,3,miss2,0,D. Booker,
+214,2,1:32.0,67,43,PHO,OKC,0,home,OffReb,,,OffReb,,A. Len,
+215,2,1:32.0,67,43,PHO,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,V. Oladipo,A. Len
+216,2,1:32.0,68,43,PHO,OKC,0,home,FreeThrow,,,make1,1,A. Len,
+217,2,1:32.0,68,43,PHO,OKC,0,away,Sub,,,,,S. Christon,V. Oladipo
+218,2,1:32.0,69,43,PHO,OKC,0,home,FreeThrow,,,make1,1,A. Len,
+219,2,1:20.0,69,43,PHO,OKC,12,away,BadPass,steal,,turnover,,R. Westbrook,T. Ulis
+220,2,1:08.0,69,43,PHO,OKC,12,home,LU,block,2,miss2,0,A. Len,R. Westbrook
+221,2,1:06.0,69,43,PHO,OKC,2,home,OffReb,,,OffReb,,T. Warren,
+222,2,1:03.0,71,43,PHO,OKC,3,home,JS,,20,make2,2,T. Warren,
+223,2,0:50.0,71,45,PHO,OKC,13,away,JS,,17,make2,2,R. Westbrook,
+224,2,0:35.0,71,45,PHO,OKC,15,home,JS,,3,miss2,0,A. Len,
+225,2,0:33.0,71,45,PHO,OKC,2,away,DefReb,,,DefReb,,J. Grant,
+226,2,0:28.0,71,47,PHO,OKC,5,away,LU,,2,make2,2,R. Westbrook,
+227,2,0:28.0,71,47,PHO,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Len,R. Westbrook
+228,2,0:28.0,71,48,PHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+229,2,0:03.0,71,48,PHO,OKC,25,home,JS,,23,miss3,0,D. Booker,
+230,2,0:02.0,71,48,PHO,OKC,1,away,DefReb,,,DefReb,,R. Westbrook,
+231,2,0:00.0,71,48,PHO,OKC,2,away,JS,,23,miss3,0,D. McDermott,
+232,2,0:00.0,71,48,PHO,OKC,0,away,OffReb,,,OffReb,,Team,
+233,3,11:44.0,71,48,PHO,OKC,16,home,JS,,22,miss2,0,D. Booker,
+234,3,11:44.0,71,48,PHO,OKC,0,away,DefReb,,,DefReb,,T. Gibson,
+235,3,11:28.0,71,50,PHO,OKC,16,away,LU,assist,1,make2,2,T. Gibson,R. Westbrook
+236,3,11:07.0,71,50,PHO,OKC,21,home,JS,,16,miss2,0,A. Len,
+237,3,11:06.0,71,50,PHO,OKC,1,away,DefReb,,,DefReb,,D. McDermott,
+238,3,10:57.0,71,52,PHO,OKC,9,away,LU,assist,0,make2,2,S. Adams,R. Westbrook
+239,3,10:48.0,71,52,PHO,OKC,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Westbrook,T. Ulis
+240,3,10:38.0,71,52,PHO,OKC,10,home,JS,,12,miss2,0,D. Booker,
+241,3,10:37.0,71,52,PHO,OKC,1,away,DefReb,,,DefReb,,T. Gibson,
+242,3,10:36.0,71,54,PHO,OKC,1,away,LU,assist,2,make2,2,V. Oladipo,R. Westbrook
+243,3,10:36.0,71,54,PHO,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Booker,V. Oladipo
+244,3,10:36.0,71,54,PHO,OKC,0,away,FreeThrow,,,make1,0,V. Oladipo,
+245,3,10:36.0,71,54,PHO,OKC,0,home,Sub,,,,,A. Williams,M. Chriss
+246,3,10:36.0,71,54,PHO,OKC,0,home,Sub,,,,,J. Dudley,A. Len
+247,3,10:35.0,71,54,PHO,OKC,1,home,DefReb,,,DefReb,,Team,
+248,3,10:20.0,73,54,PHO,OKC,15,home,LU,,2,make2,2,T. Warren,
+249,3,10:06.0,73,56,PHO,OKC,14,away,JS,,11,make2,2,D. McDermott,
+250,3,9:46.0,75,56,PHO,OKC,20,home,JS,,18,make2,2,T. Ulis,
+251,3,9:34.0,75,56,PHO,OKC,12,away,JS,,17,miss2,0,T. Gibson,
+252,3,9:34.0,75,56,PHO,OKC,0,home,DefReb,,,DefReb,,D. Booker,
+253,3,9:24.0,75,56,PHO,OKC,10,home,LU,,2,miss2,0,J. Dudley,
+254,3,9:22.0,75,56,PHO,OKC,2,away,DefReb,,,DefReb,,S. Adams,
+255,3,9:18.0,75,56,PHO,OKC,4,away,JS,,25,miss3,0,V. Oladipo,
+256,3,9:14.0,75,56,PHO,OKC,4,home,DefReb,,,DefReb,,T. Warren,
+257,3,9:07.0,75,56,PHO,OKC,7,home,HS,,6,miss2,0,A. Williams,
+258,3,9:06.0,75,56,PHO,OKC,1,away,DefReb,,,DefReb,,V. Oladipo,
+259,3,8:54.0,75,58,PHO,OKC,12,away,LU,,2,make2,2,T. Gibson,
+260,3,8:54.0,75,58,PHO,OKC,0,home,Timeout,,,,,,
+261,3,8:32.0,75,58,PHO,OKC,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. McDermott,T. Ulis
+262,3,8:32.0,76,58,PHO,OKC,0,home,FreeThrow,,,make1,1,T. Ulis,
+263,3,8:32.0,77,58,PHO,OKC,0,home,FreeThrow,,,make1,1,T. Ulis,
+264,3,8:16.0,77,61,PHO,OKC,16,away,JS,,25,make3,3,R. Westbrook,
+265,3,7:55.0,77,61,PHO,OKC,21,home,OffensiveFoul,,,turnover,,A. Williams,
+266,3,7:55.0,77,61,PHO,OKC,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Williams,T. Gibson
+267,3,7:39.0,77,61,PHO,OKC,16,away,JS,,17,miss2,0,T. Gibson,
+268,3,7:39.0,77,61,PHO,OKC,0,home,DefReb,,,DefReb,,T. Warren,
+269,3,7:21.0,77,61,PHO,OKC,18,home,JS,,22,miss2,0,D. Booker,
+270,3,7:20.0,77,61,PHO,OKC,1,away,DefReb,,,DefReb,,Team,
+271,3,7:07.0,77,61,PHO,OKC,13,away,HS,,4,miss2,0,S. Adams,
+272,3,7:06.0,77,61,PHO,OKC,1,away,OffReb,,,OffReb,,R. Westbrook,
+273,3,7:02.0,77,64,PHO,OKC,4,away,JS,,24,make3,3,R. Westbrook,
+274,3,6:54.0,77,64,PHO,OKC,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Westbrook,T. Ulis
+275,3,6:45.0,77,64,PHO,OKC,9,home,BadPass,,,turnover,,D. Booker,
+276,3,6:33.0,77,64,PHO,OKC,12,away,FlagrantFoul1,DrawnBy,,FlagrantFoul1,,A. Williams,R. Westbrook
+277,3,6:33.0,77,65,PHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook makes flagrant free throw 1 of 2,
+278,3,6:33.0,77,66,PHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook makes flagrant free throw 2 of 2,
+279,3,6:25.0,77,66,PHO,OKC,8,away,JS,,25,miss3,0,R. Westbrook,
+280,3,6:22.0,77,66,PHO,OKC,3,home,DefReb,,,DefReb,,D. Booker,
+281,3,6:11.0,77,66,PHO,OKC,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Adams,D. Booker
+282,3,6:11.0,78,66,PHO,OKC,0,home,FreeThrow,,,make1,1,D. Booker,
+283,3,6:11.0,78,66,PHO,OKC,0,home,FreeThrow,,,make1,0,D. Booker,
+284,3,6:09.0,78,66,PHO,OKC,2,away,DefReb,,,DefReb,,R. Westbrook,
+285,3,5:50.0,78,66,PHO,OKC,19,away,JS,,4,miss2,0,S. Adams,
+286,3,5:50.0,78,66,PHO,OKC,0,away,OffReb,,,OffReb,,V. Oladipo,
+287,3,5:32.0,78,66,PHO,OKC,18,away,JS,,25,miss3,0,R. Westbrook,
+288,3,5:32.0,78,66,PHO,OKC,0,home,DefReb,,,DefReb,,T. Warren,
+289,3,5:20.0,80,66,PHO,OKC,12,home,LU,,1,make2,2,T. Warren,
+290,3,5:10.0,80,66,PHO,OKC,10,home,ChargeFoul,DrawnBy,,ChargeFoul,,R. Westbrook,J. Dudley
+291,3,5:10.0,80,66,PHO,OKC,0,away,OffensiveFoul,,,turnover,,R. Westbrook,
+292,3,5:10.0,80,66,PHO,OKC,0,home,TechnicalFoul,,,TechnicalFoul,,A. Williams,
+293,3,5:10.0,80,66,PHO,OKC,0,away,TechnicalFoul,,,TechnicalFoul,,T. Gibson,
+294,3,5:07.0,80,66,PHO,OKC,3,away,Sub,,,,,S. Christon,V. Oladipo
+295,3,4:56.0,80,66,PHO,OKC,11,home,JS,,13,miss2,0,D. Booker,
+296,3,4:56.0,80,66,PHO,OKC,0,away,DefReb,,,DefReb,,Team,
+297,3,4:42.0,80,66,PHO,OKC,14,away,JS,,24,miss3,0,S. Christon,
+298,3,4:42.0,80,66,PHO,OKC,0,home,DefReb,,,DefReb,,T. Warren,
+299,3,4:33.0,80,66,PHO,OKC,9,home,BadPass,,,turnover,,T. Ulis,
+300,3,4:19.0,80,68,PHO,OKC,14,away,LU,,2,make2,2,R. Westbrook,
+301,3,4:07.0,82,68,PHO,OKC,12,home,JS,assist,11,make2,2,D. Booker,J. Dudley
+302,3,3:48.0,82,68,PHO,OKC,19,away,LU,,2,miss2,0,T. Gibson,
+303,3,3:47.0,82,68,PHO,OKC,1,away,OffReb,,,OffReb,,R. Westbrook,
+304,3,3:39.0,82,70,PHO,OKC,8,away,LU,,2,make2,2,T. Gibson,
+305,3,3:21.0,82,70,PHO,OKC,18,home,JS,,14,miss2,0,D. Booker,
+306,3,3:21.0,82,70,PHO,OKC,0,away,DefReb,,,DefReb,,T. Gibson,
+307,3,3:11.0,82,70,PHO,OKC,10,away,JS,,25,miss3,0,R. Westbrook,
+308,3,3:09.0,82,70,PHO,OKC,2,away,OffReb,,,OffReb,,S. Adams,
+309,3,3:05.0,82,70,PHO,OKC,4,away,JS,,12,miss2,0,T. Gibson,
+310,3,3:05.0,82,70,PHO,OKC,0,away,OffReb,,,OffReb,,Team,
+311,3,3:05.0,82,70,PHO,OKC,0,home,LooseBallFoul,,,LooseBallFoul,,T. Warren,
+312,3,3:05.0,82,70,PHO,OKC,0,away,Sub,,,,,J. Grant,T. Gibson
+313,3,3:05.0,82,70,PHO,OKC,0,away,Sub,,,,,E. Freedom,S. Adams
+314,3,2:58.0,82,70,PHO,OKC,7,away,JS,,19,miss2,0,R. Westbrook,
+315,3,2:57.0,82,70,PHO,OKC,1,home,DefReb,,,DefReb,,T. Warren,
+316,3,2:40.0,84,70,PHO,OKC,17,home,LU,,1,make2,2,T. Warren,
+317,3,2:24.0,84,70,PHO,OKC,16,away,JS,,25,miss3,0,J. Grant,
+318,3,2:24.0,84,70,PHO,OKC,0,home,DefReb,,,DefReb,,A. Williams,
+319,3,2:14.0,87,70,PHO,OKC,10,home,JS,assist,24,make3,3,J. Dudley,T. Ulis
+320,3,2:13.0,87,70,PHO,OKC,1,away,Timeout,,,,,,
+321,3,2:13.0,87,70,PHO,OKC,0,away,Sub,,,,,V. Oladipo,R. Westbrook
+322,3,2:13.0,87,70,PHO,OKC,0,home,Sub,,,,,D. Jones,T. Ulis
+323,3,2:13.0,87,70,PHO,OKC,0,home,Sub,,,,,A. Len,A. Williams
+324,3,1:57.0,87,70,PHO,OKC,16,away,JS,block,6,miss2,0,E. Freedom,T. Warren
+325,3,1:56.0,87,70,PHO,OKC,1,home,DefReb,,,DefReb,,D. Booker,
+326,3,1:48.0,87,70,PHO,OKC,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,V. Oladipo,D. Jones
+327,3,1:48.0,88,70,PHO,OKC,0,home,FreeThrow,,,make1,1,D. Jones,
+328,3,1:48.0,89,70,PHO,OKC,0,home,FreeThrow,,,make1,1,D. Jones,
+329,3,1:32.0,89,70,PHO,OKC,16,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,V. Oladipo,D. Jones
+330,3,1:32.0,89,70,PHO,OKC,0,away,OffensiveFoul,,,turnover,,V. Oladipo,
+331,3,1:23.0,89,70,PHO,OKC,9,home,LU,,2,miss2,0,D. Booker,
+332,3,1:23.0,89,70,PHO,OKC,0,home,OffReb,,,OffReb,,A. Len,
+333,3,1:23.0,91,70,PHO,OKC,0,home,DK,,0,make2,2,A. Len,
+334,3,1:23.0,91,70,PHO,OKC,0,away,Timeout,,,,,,
+335,3,1:11.0,91,70,PHO,OKC,12,away,LU,,1,miss2,0,V. Oladipo,
+336,3,1:09.0,91,70,PHO,OKC,2,home,DefReb,,,DefReb,,D. Booker,
+337,3,1:01.0,91,70,PHO,OKC,8,home,JS,,17,miss2,0,T. Warren,
+338,3,1:00.0,91,70,PHO,OKC,1,away,DefReb,,,DefReb,,J. Grant,
+339,3,0:50.0,91,72,PHO,OKC,10,away,HS,,3,make2,2,E. Freedom,
+340,3,0:33.0,93,72,PHO,OKC,17,home,JS,,4,make2,2,D. Booker,
+341,3,0:22.0,93,72,PHO,OKC,11,away,LU,,2,miss2,0,E. Freedom,
+342,3,0:21.0,93,72,PHO,OKC,1,home,DefReb,,,DefReb,,T. Warren,
+343,3,0:02.0,93,72,PHO,OKC,19,home,JS,,26,miss3,0,D. Booker,
+344,3,0:02.0,93,72,PHO,OKC,0,home,OffReb,,,OffReb,,D. Jones,
+345,3,0:00.0,95,72,PHO,OKC,2,home,JS,,14,make2,2,D. Jones,
+346,4,11:40.0,95,72,PHO,OKC,20,away,JS,,3,miss2,0,J. Grant,
+347,4,11:40.0,95,72,PHO,OKC,0,away,OffReb,,,OffReb,,J. Grant,
+348,4,11:35.0,95,72,PHO,OKC,5,away,LU,block,2,miss2,0,E. Freedom,A. Len
+349,4,11:35.0,95,72,PHO,OKC,0,away,OffReb,,,OffReb,,Team,
+350,4,11:23.0,95,72,PHO,OKC,12,away,JS,,15,miss2,0,E. Freedom,
+351,4,11:23.0,95,72,PHO,OKC,0,home,DefReb,,,DefReb,,D. Jones,
+352,4,11:08.0,95,72,PHO,OKC,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Cole,D. Jones
+353,4,11:03.0,95,72,PHO,OKC,5,home,JS,,18,miss2,0,T. Ulis,
+354,4,11:01.0,95,72,PHO,OKC,2,home,OffReb,,,OffReb,,D. Jones,
+355,4,10:55.0,95,72,PHO,OKC,6,home,DK,block,0,miss2,0,A. Len,J. Grant
+356,4,10:53.0,95,72,PHO,OKC,2,away,DefReb,,,DefReb,,S. Christon,
+357,4,10:42.0,95,74,PHO,OKC,11,away,LU,,1,make2,2,E. Freedom,
+358,4,10:42.0,95,74,PHO,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Len,E. Freedom
+359,4,10:42.0,95,74,PHO,OKC,0,away,Sub,,,,,R. Westbrook,S. Christon
+360,4,10:42.0,95,75,PHO,OKC,0,away,FreeThrow,,,make1,1,E. Freedom,
+361,4,10:25.0,95,75,PHO,OKC,17,home,LU,,1,miss2,0,T. Ulis,
+362,4,10:23.0,95,75,PHO,OKC,2,away,DefReb,,,DefReb,,N. Cole,
+363,4,10:21.0,95,75,PHO,OKC,2,away,Timeout,,,,,,
+364,4,10:07.0,95,78,PHO,OKC,14,away,JS,assist,26,make3,3,N. Cole,R. Westbrook
+365,4,9:40.0,95,78,PHO,OKC,27,home,JS,,19,miss2,0,D. Bender,
+366,4,9:40.0,95,78,PHO,OKC,0,home,OffReb,,,OffReb,,Team,
+367,4,9:40.0,95,78,PHO,OKC,0,home,ShotClockViolation,,,turnover,,Team,
+368,4,9:29.0,95,78,PHO,OKC,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bender,E. Freedom
+369,4,9:29.0,95,79,PHO,OKC,0,away,FreeThrow,,,make1,1,E. Freedom,
+370,4,9:29.0,95,79,PHO,OKC,0,home,Sub,,,,,D. Booker,D. Bender
+371,4,9:29.0,95,80,PHO,OKC,0,away,FreeThrow,,,make1,1,E. Freedom,
+372,4,9:09.0,95,80,PHO,OKC,20,home,JS,,8,miss2,0,D. Booker,
+373,4,9:09.0,95,80,PHO,OKC,0,away,DefReb,,,DefReb,,Team,
+374,4,8:53.0,95,80,PHO,OKC,16,away,JS,,26,miss3,0,N. Cole,
+375,4,8:53.0,95,80,PHO,OKC,0,home,DefReb,,,DefReb,,J. Dudley,
+376,4,8:43.0,95,80,PHO,OKC,10,home,BadPass,,,turnover,,A. Len,
+377,4,8:31.0,95,80,PHO,OKC,12,away,JS,,26,miss3,0,R. Westbrook,
+378,4,8:29.0,95,80,PHO,OKC,2,home,DefReb,,,DefReb,,A. Len,
+379,4,8:19.0,95,80,PHO,OKC,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Cole,T. Ulis
+380,4,8:19.0,95,80,PHO,OKC,0,away,Sub,,,,,S. Adams,J. Grant
+381,4,8:05.0,98,80,PHO,OKC,14,home,JS,assist,26,make3,3,D. Booker,A. Len
+382,4,7:48.0,98,80,PHO,OKC,17,away,JS,,25,miss3,0,R. Westbrook,
+383,4,7:47.0,98,80,PHO,OKC,1,away,OffReb,,,OffReb,,K. Singler,
+384,4,7:36.0,98,80,PHO,OKC,11,away,LU,,0,miss2,0,E. Freedom,
+385,4,7:35.0,98,80,PHO,OKC,1,away,OffReb,,,OffReb,,S. Adams,
+386,4,7:35.0,98,82,PHO,OKC,0,away,LU,,1,make2,2,S. Adams,
+387,4,7:11.0,100,82,PHO,OKC,24,home,JS,,9,make2,2,D. Booker,
+388,4,7:11.0,100,82,PHO,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Freedom,D. Booker
+389,4,7:11.0,100,82,PHO,OKC,0,away,Sub,,,,,D. McDermott,N. Cole
+390,4,7:11.0,101,82,PHO,OKC,0,home,FreeThrow,,,make1,1,D. Booker,
+391,4,6:55.0,101,82,PHO,OKC,16,away,JS,,25,miss3,0,R. Westbrook,
+392,4,6:54.0,101,82,PHO,OKC,1,home,DefReb,,,DefReb,,A. Len,
+393,4,6:34.0,104,82,PHO,OKC,20,home,JS,assist,26,make3,3,D. Booker,J. Dudley
+394,4,6:28.0,104,82,PHO,OKC,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Jones,R. Westbrook
+395,4,6:23.0,104,82,PHO,OKC,5,away,BadPass,steal,,turnover,,R. Westbrook,A. Len
+396,4,6:13.0,107,82,PHO,OKC,10,home,JS,,27,make3,3,D. Booker,
+397,4,6:13.0,107,82,PHO,OKC,0,away,Timeout,,,,,,
+398,4,5:56.0,107,82,PHO,OKC,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Len,R. Westbrook
+399,4,5:56.0,107,83,PHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+400,4,5:56.0,107,83,PHO,OKC,0,away,Sub,,,,,J. Grant,E. Freedom
+401,4,5:56.0,107,84,PHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+402,4,5:33.0,107,84,PHO,OKC,23,home,JS,,26,miss3,0,D. Booker,
+403,4,5:32.0,107,84,PHO,OKC,1,away,DefReb,,,DefReb,,R. Westbrook,
+404,4,5:28.0,107,86,PHO,OKC,4,away,LU,,3,make2,2,R. Westbrook,
+405,4,5:28.0,107,86,PHO,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Dudley,R. Westbrook
+406,4,5:28.0,107,86,PHO,OKC,0,home,Sub,,,,,T. Warren,D. Jones
+407,4,5:28.0,107,87,PHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+408,4,5:09.0,109,87,PHO,OKC,19,home,JS,,9,make2,2,D. Booker,
+409,4,4:58.0,109,87,PHO,OKC,11,away,LU,,1,miss2,0,R. Westbrook,
+410,4,4:58.0,109,87,PHO,OKC,0,away,OffReb,,,OffReb,,S. Adams,
+411,4,4:55.0,109,87,PHO,OKC,3,away,LU,,1,miss2,0,S. Adams,
+412,4,4:53.0,109,87,PHO,OKC,2,home,DefReb,,,DefReb,,A. Len,
+413,4,4:36.0,109,87,PHO,OKC,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Singler,D. Booker
+414,4,4:36.0,111,87,PHO,OKC,0,home,JS,,9,make2,2,D. Booker,
+415,4,4:36.0,112,87,PHO,OKC,0,home,FreeThrow,,,make1,1,D. Booker,
+416,4,4:36.0,112,87,PHO,OKC,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Len,S. Adams
+417,4,4:36.0,112,87,PHO,OKC,0,home,PersonalFoul,,,,,S. Adams,
+418,4,4:24.0,112,90,PHO,OKC,12,away,JS,assist,25,make3,3,D. McDermott,R. Westbrook
+419,4,4:01.0,112,90,PHO,OKC,23,home,JS,,25,miss3,0,D. Booker,
+420,4,4:00.0,112,90,PHO,OKC,1,away,DefReb,,,DefReb,,D. McDermott,
+421,4,3:47.0,112,90,PHO,OKC,13,away,JS,,25,miss3,0,D. McDermott,
+422,4,3:46.0,112,90,PHO,OKC,1,away,OffReb,,,OffReb,,S. Adams,
+423,4,3:44.0,112,90,PHO,OKC,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Len,D. McDermott
+424,4,3:44.0,112,91,PHO,OKC,0,away,FreeThrow,,,make1,1,D. McDermott,
+425,4,3:44.0,112,90,PHO,OKC,0,home,Sub,,,,,A. Williams,A. Len
+426,4,3:44.0,112,91,PHO,OKC,0,away,FreeThrow,,,make1,0,D. McDermott,
+427,4,3:44.0,112,91,PHO,OKC,0,home,DefReb,,,DefReb,,Team,
+428,4,3:44.0,112,91,PHO,OKC,0,away,KickBallViolation,,,KickBallViolation,,K. Singler,
+429,4,3:27.0,112,91,PHO,OKC,17,home,JS,,19,miss2,0,J. Dudley,
+430,4,3:26.0,112,91,PHO,OKC,1,away,DefReb,,,DefReb,,D. McDermott,
+431,4,3:08.0,112,91,PHO,OKC,18,away,JS,,26,miss3,0,K. Singler,
+432,4,3:08.0,112,91,PHO,OKC,0,away,OffReb,,,OffReb,,R. Westbrook,
+433,4,3:06.0,112,91,PHO,OKC,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Williams,S. Adams
+434,4,3:06.0,112,92,PHO,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+435,4,3:06.0,112,93,PHO,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+436,4,2:42.0,114,93,PHO,OKC,24,home,JS,,22,make2,2,D. Booker,
+437,4,2:35.0,114,93,PHO,OKC,7,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Ulis,R. Westbrook
+438,4,2:35.0,114,93,PHO,OKC,0,away,Timeout,,,,,,
+439,4,2:35.0,114,94,PHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+440,4,2:35.0,114,95,PHO,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
+441,4,2:34.0,114,95,PHO,OKC,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,R. Westbrook,D. Booker
+442,4,2:34.0,115,95,PHO,OKC,0,home,FreeThrow,,,make1,1,D. Booker,
+443,4,2:34.0,115,95,PHO,OKC,0,away,Sub,,,,,D. Sabonis,S. Adams
+444,4,2:34.0,115,95,PHO,OKC,0,away,Sub,,,,,S. Christon,R. Westbrook
+445,4,2:34.0,116,95,PHO,OKC,0,home,FreeThrow,,,make1,1,D. Booker,
+446,4,2:17.0,116,95,PHO,OKC,17,away,JS,,19,miss2,0,J. Grant,
+447,4,2:15.0,116,95,PHO,OKC,2,away,OffReb,,,OffReb,,K. Singler,
+448,4,2:15.0,116,97,PHO,OKC,0,away,LU,,1,make2,2,K. Singler,
+449,4,1:54.0,116,97,PHO,OKC,21,home,LU,,2,miss2,0,D. Booker,
+450,4,1:53.0,116,97,PHO,OKC,1,away,DefReb,,,DefReb,,D. McDermott,
+451,4,1:46.0,116,97,PHO,OKC,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Dudley,J. Grant
+452,4,1:46.0,116,98,PHO,OKC,0,away,FreeThrow,,,make1,1,J. Grant,
+453,4,1:46.0,116,98,PHO,OKC,0,away,FreeThrow,,,make1,0,J. Grant,
+454,4,1:46.0,116,98,PHO,OKC,0,home,Sub,,,,,D. Bender,J. Dudley
+455,4,1:46.0,116,98,PHO,OKC,0,home,Sub,,,,,M. Chriss,D. Booker
+456,4,1:44.0,116,98,PHO,OKC,2,home,DefReb,,,DefReb,,A. Williams,
+457,4,1:26.0,116,98,PHO,OKC,18,home,JS,,25,miss3,0,D. Bender,
+458,4,1:26.0,116,98,PHO,OKC,0,away,DefReb,,,DefReb,,J. Grant,
+459,4,1:12.0,116,98,PHO,OKC,14,away,JS,,17,miss2,0,S. Christon,
+460,4,1:12.0,116,98,PHO,OKC,0,away,OffReb,,,OffReb,,Team,
+461,4,1:12.0,116,98,PHO,OKC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Williams,D. Sabonis
+462,4,1:12.0,116,98,PHO,OKC,0,away,FreeThrow,,,make1,0,D. Sabonis,
+463,4,1:12.0,116,98,PHO,OKC,0,away,OffReb,,,OffReb,,Team,
+464,4,1:12.0,116,99,PHO,OKC,0,away,FreeThrow,,,make1,1,D. Sabonis,
+465,4,0:52.0,116,99,PHO,OKC,20,home,JS,,9,miss2,0,T. Warren,
+466,4,0:52.0,116,99,PHO,OKC,0,home,OffReb,,,OffReb,,Team,
+467,4,0:52.0,116,99,PHO,OKC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Sabonis,M. Chriss
+468,4,0:52.0,117,99,PHO,OKC,0,home,FreeThrow,,,make1,1,M. Chriss,
+469,4,0:52.0,118,99,PHO,OKC,0,home,FreeThrow,,,make1,1,M. Chriss,
+470,4,0:44.0,118,99,PHO,OKC,8,away,JS,,26,miss3,0,D. McDermott,
+471,4,0:43.0,118,99,PHO,OKC,1,home,DefReb,,,DefReb,,T. Warren,
+472,4,0:21.0,118,99,PHO,OKC,22,home,JS,,24,miss3,0,D. Bender,
+473,4,0:21.0,118,99,PHO,OKC,0,home,OffReb,,,OffReb,,T. Warren,
+474,4,0:16.0,118,99,PHO,OKC,5,home,PersonalFoul,,,,,J. Grant,
+475,4,0:16.0,119,99,PHO,OKC,0,home,FreeThrow,,,make1,1,T. Warren,
+476,4,0:16.0,120,99,PHO,OKC,0,home,FreeThrow,,,make1,1,T. Warren,

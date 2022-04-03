@@ -1,0 +1,502 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:47.0,2,0,PHO,MEM,13,home,JS,assist,15,make2,2,D. Booker,T. Ulis
+1,1,11:29.0,2,2,PHO,MEM,18,away,JS,assist,21,make2,2,M. Gasol,B. Wright
+2,1,11:01.0,2,2,PHO,MEM,28,home,JS,block,12,miss2,0,T. Ulis,B. Wright
+3,1,11:01.0,2,2,PHO,MEM,0,home,OffReb,,,OffReb,,Team,
+4,1,11:01.0,2,2,PHO,MEM,0,home,ShotClockViolation,,,turnover,,Team,
+5,1,10:43.0,2,4,PHO,MEM,18,away,JS,,21,make2,2,D. Brooks,
+6,1,10:32.0,2,4,PHO,MEM,11,home,LU,,1,miss2,0,T. Warren,
+7,1,10:28.0,2,4,PHO,MEM,4,away,DefReb,,,DefReb,,M. Gasol,
+8,1,10:21.0,2,4,PHO,MEM,7,away,JS,,25,miss3,0,D. Brooks,
+9,1,10:18.0,2,4,PHO,MEM,3,home,DefReb,,,DefReb,,D. Booker,
+10,1,10:12.0,2,4,PHO,MEM,6,home,HS,,7,miss2,0,M. Chriss,
+11,1,10:09.0,2,4,PHO,MEM,3,away,DefReb,,,DefReb,,T. Evans,
+12,1,9:49.0,2,4,PHO,MEM,20,away,JS,,7,miss2,0,T. Evans,
+13,1,9:47.0,2,4,PHO,MEM,2,home,DefReb,,,DefReb,,T. Chandler,
+14,1,9:41.0,4,4,PHO,MEM,6,home,JS,,17,make2,2,T. Ulis,
+15,1,9:21.0,4,4,PHO,MEM,20,away,LU,block,2,miss2,0,D. Brooks,T. Chandler
+16,1,9:21.0,4,4,PHO,MEM,0,away,OffReb,,,OffReb,,Team,
+17,1,9:16.0,4,6,PHO,MEM,5,away,JS,,22,make2,2,T. Evans,
+18,1,8:49.0,4,6,PHO,MEM,27,home,BadPass,,,turnover,,T. Ulis,
+19,1,8:28.0,4,8,PHO,MEM,21,away,JS,assist,20,make2,2,M. Gasol,T. Evans
+20,1,8:20.0,4,8,PHO,MEM,8,home,LU,,3,miss2,0,D. Booker,
+21,1,8:20.0,4,8,PHO,MEM,0,home,OffReb,,,OffReb,,Team,
+22,1,8:20.0,4,8,PHO,MEM,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Brooks,T. Chandler
+23,1,8:18.0,4,8,PHO,MEM,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Harrison,D. Booker
+24,1,8:13.0,4,8,PHO,MEM,5,home,BadPass,,,turnover,,D. Booker,
+25,1,8:00.0,4,8,PHO,MEM,13,away,JS,,11,miss2,0,B. Wright,
+26,1,7:58.0,4,8,PHO,MEM,2,home,DefReb,,,DefReb,,T. Chandler,
+27,1,7:51.0,6,8,PHO,MEM,7,home,DK,assist,0,make2,2,T. Chandler,D. Booker
+28,1,7:31.0,6,8,PHO,MEM,20,away,HS,,2,miss2,0,T. Evans,
+29,1,7:30.0,6,8,PHO,MEM,1,home,DefReb,,,DefReb,,M. Chriss,
+30,1,7:25.0,9,8,PHO,MEM,5,home,JS,assist,26,make3,3,D. Booker,T. Ulis
+31,1,7:05.0,9,10,PHO,MEM,20,away,LU,assist,1,make2,2,B. Wright,A. Harrison
+32,1,6:52.0,12,10,PHO,MEM,13,home,JS,assist,25,make3,3,T. Ulis,D. Booker
+33,1,6:36.0,12,10,PHO,MEM,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ulis,A. Harrison
+34,1,6:36.0,12,10,PHO,MEM,0,home,Timeout,,,,,,
+35,1,6:36.0,12,10,PHO,MEM,0,away,Sub,,,,,K. Simmons,B. Wright
+36,1,6:36.0,12,10,PHO,MEM,0,away,Sub,,,,,J. Martin,T. Evans
+37,1,6:36.0,12,10,PHO,MEM,0,away,FreeThrow,,,make1,0,A. Harrison,
+38,1,6:36.0,12,10,PHO,MEM,0,away,OffReb,,,OffReb,,Team,
+39,1,6:36.0,12,10,PHO,MEM,0,away,FreeThrow,,,make1,0,A. Harrison,
+40,1,6:34.0,12,10,PHO,MEM,2,home,DefReb,,,DefReb,,M. Chriss,
+41,1,6:14.0,14,10,PHO,MEM,20,home,DK,assist,0,make2,2,T. Chandler,D. Booker
+42,1,5:56.0,14,10,PHO,MEM,18,away,JS,,20,miss2,0,A. Harrison,
+43,1,5:53.0,14,10,PHO,MEM,3,home,DefReb,,,DefReb,,M. Chriss,
+44,1,5:48.0,14,10,PHO,MEM,5,away,Sub,,,,,J. Ennis,D. Brooks
+45,1,5:45.0,17,10,PHO,MEM,3,home,JS,assist,23,make3,3,D. Booker,T. Ulis
+46,1,5:29.0,17,10,PHO,MEM,16,away,JS,,10,miss2,0,M. Gasol,
+47,1,5:26.0,17,10,PHO,MEM,3,away,OffReb,,,OffReb,,J. Ennis,
+48,1,5:22.0,17,10,PHO,MEM,4,away,JS,,23,miss3,0,A. Harrison,
+49,1,5:18.0,17,10,PHO,MEM,4,away,OffReb,,,OffReb,,J. Martin,
+50,1,5:17.0,17,10,PHO,MEM,1,away,JS,,25,miss3,0,M. Gasol,
+51,1,5:13.0,17,10,PHO,MEM,4,home,DefReb,,,DefReb,,T. Chandler,
+52,1,5:09.0,19,10,PHO,MEM,4,home,LU,assist,0,make2,2,M. Chriss,T. Ulis
+53,1,5:05.0,19,10,PHO,MEM,4,away,Timeout,,,,,,
+54,1,5:05.0,19,10,PHO,MEM,0,home,Sub,,,,,A. Len,D. Booker
+55,1,5:05.0,19,10,PHO,MEM,0,home,Sub,,,,,T. Daniels,T. Chandler
+56,1,5:05.0,19,10,PHO,MEM,0,away,Sub,,,,,T. Evans,A. Harrison
+57,1,4:46.0,19,10,PHO,MEM,19,away,JS,,25,miss3,0,K. Simmons,
+58,1,4:43.0,19,10,PHO,MEM,3,home,DefReb,,,DefReb,,T. Ulis,
+59,1,4:25.0,19,10,PHO,MEM,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Evans,A. Len
+60,1,4:14.0,19,10,PHO,MEM,11,home,LU,,0,miss2,0,T. Warren,
+61,1,4:12.0,19,10,PHO,MEM,2,away,DefReb,,,DefReb,,J. Martin,
+62,1,4:01.0,19,10,PHO,MEM,11,away,HS,,5,miss2,0,M. Gasol,
+63,1,3:59.0,19,10,PHO,MEM,2,home,DefReb,,,DefReb,,M. Chriss,
+64,1,3:50.0,19,10,PHO,MEM,9,home,JS,block,4,miss2,0,T. Ulis,M. Gasol
+65,1,3:47.0,19,10,PHO,MEM,3,home,OffReb,,,OffReb,,T. Ulis,
+66,1,3:43.0,19,10,PHO,MEM,4,home,LU,block,0,miss2,0,T. Ulis,M. Gasol
+67,1,3:40.0,19,10,PHO,MEM,3,away,DefReb,,,DefReb,,J. Ennis,
+68,1,3:37.0,19,10,PHO,MEM,3,away,Turnover,,,turnover,,J. Ennis,
+69,1,3:24.0,21,10,PHO,MEM,13,home,JS,assist,14,make2,2,T. Warren,A. Len
+70,1,3:05.0,21,10,PHO,MEM,19,away,LU,block,3,miss2,0,T. Evans,T. Daniels
+71,1,3:05.0,21,10,PHO,MEM,0,home,DefReb,,,DefReb,,Team,
+72,1,3:05.0,21,10,PHO,MEM,0,home,Sub,,,,,I. Canaan,T. Ulis
+73,1,3:03.0,21,10,PHO,MEM,2,home,bad pass,steal,,turnover,,M. Chriss,K. Simmons
+74,1,2:56.0,21,12,PHO,MEM,7,away,LU,,0,make2,2,K. Simmons,
+75,1,2:36.0,23,12,PHO,MEM,20,home,JS,assist,20,make2,2,T. Warren,I. Canaan
+76,1,2:19.0,23,12,PHO,MEM,17,away,JS,,19,miss2,0,T. Evans,
+77,1,2:16.0,23,12,PHO,MEM,3,home,DefReb,,,DefReb,,M. Chriss,
+78,1,2:14.0,23,12,PHO,MEM,2,home,bad pass,steal,,turnover,,M. Chriss,K. Simmons
+79,1,2:09.0,23,12,PHO,MEM,5,away,JS,,25,miss3,0,T. Evans,
+80,1,2:07.0,23,12,PHO,MEM,2,away,OffReb,,,OffReb,,Team,
+81,1,2:07.0,23,12,PHO,MEM,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Chriss,K. Simmons
+82,1,2:07.0,23,12,PHO,MEM,0,away,Sub,,,,,D. Davis,J. Ennis
+83,1,2:07.0,23,12,PHO,MEM,0,away,Sub,,,,,D. Brooks,M. Gasol
+84,1,2:07.0,23,12,PHO,MEM,0,home,Sub,,,,,D. Bender,M. Chriss
+85,1,2:01.0,23,14,PHO,MEM,6,away,LU,,1,make2,2,T. Evans,
+86,1,2:01.0,23,14,PHO,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bender,T. Evans
+87,1,2:01.0,23,15,PHO,MEM,0,away,FreeThrow,,,make1,1,T. Evans,
+88,1,1:48.0,25,15,PHO,MEM,13,home,LU,assist,0,make2,2,T. Warren,A. Len
+89,1,1:40.0,25,17,PHO,MEM,8,away,LU,,0,make2,2,T. Evans,
+90,1,1:19.0,25,17,PHO,MEM,21,home,JS,,24,miss3,0,D. Bender,
+91,1,1:15.0,25,17,PHO,MEM,4,away,DefReb,,,DefReb,,D. Davis,
+92,1,1:03.0,25,17,PHO,MEM,12,away,JS,,6,miss2,0,K. Simmons,
+93,1,1:03.0,25,17,PHO,MEM,0,away,LU,,0,miss2,0,D. Davis,
+94,1,1:03.0,25,17,PHO,MEM,0,home,DefReb,,,DefReb,,Team,
+95,1,1:03.0,25,17,PHO,MEM,0,away,DefReb,,,DefReb,,D. Davis,
+96,1,1:03.0,25,17,PHO,MEM,0,home,Sub,,,,,J. Jackson,T. Warren
+97,1,0:45.0,27,17,PHO,MEM,18,home,DK,assist,0,make2,2,A. Len,T. Daniels
+98,1,0:24.0,27,19,PHO,MEM,21,away,LU,assist,0,make2,2,J. Martin,T. Evans
+99,1,0:04.0,27,19,PHO,MEM,20,home,JS,,23,miss3,0,D. Bender,
+100,1,0:01.0,27,19,PHO,MEM,3,home,OffReb,,,OffReb,,A. Len,
+101,1,0:01.0,29,19,PHO,MEM,0,home,DK,,0,make2,2,A. Len,
+102,2,11:46.0,29,19,PHO,MEM,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,T. Evans
+103,2,11:46.0,29,20,PHO,MEM,0,away,FreeThrow,,,make1,1,T. Evans,
+104,2,11:46.0,29,20,PHO,MEM,0,away,FreeThrow,,,make1,0,T. Evans,
+105,2,11:46.0,29,20,PHO,MEM,0,home,DefReb,,,DefReb,,A. Len,
+106,2,11:46.0,29,21,PHO,MEM,0,away,FreeThrow,,,make1,1,T. Evans,
+107,2,11:32.0,29,21,PHO,MEM,14,home,JS,,23,miss3,0,T. Daniels,
+108,2,11:28.0,29,21,PHO,MEM,4,away,DefReb,,,DefReb,,B. Wright,
+109,2,11:24.0,29,21,PHO,MEM,4,away,DiscontinueDribbleTurnover,,,turnover,,T. Evans,
+110,2,11:13.0,29,21,PHO,MEM,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Davis,A. Len
+111,2,11:01.0,29,21,PHO,MEM,12,home,JS,,25,miss3,0,J. Jackson,
+112,2,10:58.0,29,21,PHO,MEM,3,away,DefReb,,,DefReb,,B. Wright,
+113,2,10:55.0,29,23,PHO,MEM,3,away,JS,assist,11,make2,2,B. Wright,D. Brooks
+114,2,10:42.0,29,23,PHO,MEM,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Davis,A. Len
+115,2,10:42.0,29,23,PHO,MEM,0,away,Sub,,,,,J. Martin,D. Davis
+116,2,10:31.0,29,23,PHO,MEM,11,home,bad pass,steal,,turnover,,A. Len,B. Wright
+117,2,10:31.0,29,23,PHO,MEM,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jackson,B. Wright
+118,2,10:31.0,29,23,PHO,MEM,0,home,Sub,,,,,D. Booker,J. Jackson
+119,2,10:21.0,29,26,PHO,MEM,10,away,JS,,24,make3,3,T. Evans,
+120,2,10:00.0,29,26,PHO,MEM,21,home,JS,,16,miss2,0,D. Booker,
+121,2,9:58.0,29,26,PHO,MEM,2,home,OffReb,,,OffReb,,Team,
+122,2,9:57.0,29,26,PHO,MEM,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Martin,A. Len
+123,2,9:43.0,32,26,PHO,MEM,14,home,JS,assist,22,make3,3,D. Bender,A. Len
+124,2,9:22.0,32,26,PHO,MEM,21,away,LU,block,1,miss2,0,A. Harrison,A. Len
+125,2,9:16.0,32,26,PHO,MEM,6,home,DefReb,,,DefReb,,D. Booker,
+126,2,9:13.0,32,26,PHO,MEM,3,home,bad pass,steal,,turnover,,T. Daniels,A. Harrison
+127,2,9:13.0,32,26,PHO,MEM,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Daniels,A. Harrison
+128,2,9:13.0,32,26,PHO,MEM,0,away,Sub,,,,,M. Gasol,T. Evans
+129,2,9:13.0,32,26,PHO,MEM,0,away,Sub,,,,,K. Simmons,B. Wright
+130,2,8:55.0,32,28,PHO,MEM,18,away,HS,,8,make2,2,M. Gasol,
+131,2,8:37.0,35,28,PHO,MEM,18,home,JS,assist,24,make3,3,T. Daniels,I. Canaan
+132,2,8:22.0,35,28,PHO,MEM,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Canaan,A. Harrison
+133,2,8:09.0,35,28,PHO,MEM,13,away,JS,,25,miss3,0,A. Harrison,
+134,2,8:06.0,35,28,PHO,MEM,3,home,DefReb,,,DefReb,,A. Len,
+135,2,7:58.0,35,28,PHO,MEM,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Harrison,D. Booker
+136,2,7:58.0,36,28,PHO,MEM,0,home,FreeThrow,,,make1,1,D. Booker,
+137,2,7:58.0,36,28,PHO,MEM,0,away,Sub,,,,,J. Ennis,D. Brooks
+138,2,7:58.0,37,28,PHO,MEM,0,home,FreeThrow,,,make1,1,D. Booker,
+139,2,7:41.0,37,28,PHO,MEM,17,away,LU,,1,miss2,0,J. Martin,
+140,2,7:39.0,37,28,PHO,MEM,2,home,DefReb,,,DefReb,,D. Bender,
+141,2,7:32.0,37,28,PHO,MEM,7,home,bad pass,steal,,turnover,,I. Canaan,M. Gasol
+142,2,7:25.0,37,30,PHO,MEM,7,away,LU,,0,make2,2,A. Harrison,
+143,2,7:08.0,37,30,PHO,MEM,17,home,Turnover,,,turnover,,D. Booker,
+144,2,6:56.0,37,30,PHO,MEM,12,home,Timeout,,,,,,
+145,2,6:56.0,37,30,PHO,MEM,0,home,Sub,,,,,T. Warren,T. Daniels
+146,2,6:56.0,37,30,PHO,MEM,0,home,Sub,,,,,M. Chriss,D. Bender
+147,2,6:55.0,37,30,PHO,MEM,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Len,M. Gasol
+148,2,6:55.0,37,31,PHO,MEM,0,away,FreeThrow,,,make1,1,M. Gasol,
+149,2,6:55.0,37,32,PHO,MEM,0,away,FreeThrow,,,make1,1,M. Gasol,
+150,2,6:35.0,37,32,PHO,MEM,20,home,JS,,25,miss3,0,D. Booker,
+151,2,6:32.0,37,32,PHO,MEM,3,away,DefReb,,,DefReb,,A. Harrison,
+152,2,6:13.0,37,32,PHO,MEM,19,away,LU,,3,miss2,0,M. Gasol,
+153,2,6:09.0,37,32,PHO,MEM,4,home,DefReb,,,DefReb,,M. Chriss,
+154,2,6:07.0,37,32,PHO,MEM,2,home,lost ball,steal,,turnover,,D. Booker,A. Harrison
+155,2,5:54.0,37,32,PHO,MEM,13,away,JS,,15,miss2,0,A. Harrison,
+156,2,5:50.0,37,32,PHO,MEM,4,home,DefReb,,,DefReb,,A. Len,
+157,2,5:30.0,37,32,PHO,MEM,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Simmons,D. Booker
+158,2,5:30.0,38,32,PHO,MEM,0,home,FreeThrow,,,make1,1,D. Booker,
+159,2,5:30.0,38,32,PHO,MEM,0,home,Sub,,,,,T. Chandler,I. Canaan
+160,2,5:30.0,38,32,PHO,MEM,0,home,Sub,,,,,T. Ulis,A. Len
+161,2,5:30.0,39,32,PHO,MEM,0,home,FreeThrow,,,make1,1,D. Booker,
+162,2,5:22.0,39,32,PHO,MEM,8,away,LU,,1,miss2,0,A. Harrison,
+163,2,5:17.0,39,32,PHO,MEM,5,away,OffReb,,,OffReb,,J. Ennis,
+164,2,5:17.0,39,34,PHO,MEM,0,away,LU,,0,make2,2,J. Ennis,
+165,2,5:06.0,41,34,PHO,MEM,11,home,LU,,0,make2,2,D. Booker,
+166,2,4:59.0,41,34,PHO,MEM,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Booker,A. Harrison
+167,2,4:59.0,41,34,PHO,MEM,0,away,FreeThrow,,,make1,0,A. Harrison,
+168,2,4:59.0,41,34,PHO,MEM,0,away,OffReb,,,OffReb,,Team,
+169,2,4:59.0,41,35,PHO,MEM,0,away,FreeThrow,,,make1,1,A. Harrison,
+170,2,4:47.0,43,35,PHO,MEM,12,home,DK,assist,0,make2,2,M. Chriss,D. Booker
+171,2,4:30.0,43,35,PHO,MEM,17,away,LU,,0,miss2,0,A. Harrison,
+172,2,4:26.0,43,35,PHO,MEM,4,away,OffReb,,,OffReb,,J. Martin,
+173,2,4:26.0,43,37,PHO,MEM,0,away,DK,,0,make2,2,J. Martin,
+174,2,4:16.0,43,37,PHO,MEM,10,home,JS,,25,miss3,0,D. Booker,
+175,2,4:14.0,43,37,PHO,MEM,2,away,DefReb,,,DefReb,,K. Simmons,
+176,2,4:08.0,43,37,PHO,MEM,6,away,JS,,22,miss3,0,J. Ennis,
+177,2,4:04.0,43,37,PHO,MEM,4,home,DefReb,,,DefReb,,D. Booker,
+178,2,4:04.0,43,37,PHO,MEM,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Simmons,D. Booker
+179,2,4:04.0,44,37,PHO,MEM,0,home,FreeThrow,,,make1,1,D. Booker,
+180,2,4:04.0,44,37,PHO,MEM,0,away,Sub,,,,,T. Evans,A. Harrison
+181,2,4:04.0,45,37,PHO,MEM,0,home,FreeThrow,,,make1,1,D. Booker,
+182,2,3:48.0,45,37,PHO,MEM,16,away,HS,,7,miss2,0,J. Martin,
+183,2,3:47.0,45,37,PHO,MEM,1,away,OffReb,,,OffReb,,K. Simmons,
+184,2,3:47.0,45,37,PHO,MEM,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Warren,K. Simmons
+185,2,3:47.0,45,38,PHO,MEM,0,away,FreeThrow,,,make1,1,K. Simmons,
+186,2,3:47.0,45,39,PHO,MEM,0,away,FreeThrow,,,make1,1,K. Simmons,
+187,2,3:32.0,47,39,PHO,MEM,15,home,JS,assist,17,make2,2,T. Warren,T. Chandler
+188,2,3:11.0,47,39,PHO,MEM,21,away,LU,,0,miss2,0,T. Evans,
+189,2,3:10.0,47,39,PHO,MEM,1,away,LU,,0,miss2,0,J. Martin,
+190,2,3:10.0,47,39,PHO,MEM,0,away,OffReb,,,OffReb,,J. Martin,
+191,2,3:09.0,47,39,PHO,MEM,1,home,DefReb,,,DefReb,,D. Booker,
+192,2,3:04.0,47,39,PHO,MEM,5,home,LU,,1,miss2,0,T. Chandler,
+193,2,3:04.0,47,39,PHO,MEM,0,away,DefReb,,,DefReb,,M. Gasol,
+194,2,2:56.0,47,41,PHO,MEM,8,away,LU,,0,make2,2,J. Martin,
+195,2,2:56.0,47,41,PHO,MEM,0,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,T. Chandler,M. Gasol
+196,2,2:56.0,47,41,PHO,MEM,0,away,Timeout,,,,,,
+197,2,2:56.0,47,42,PHO,MEM,0,away,FreeThrow,,,make1,1,M. Gasol,
+198,2,2:40.0,49,42,PHO,MEM,16,home,JS,assist,15,make2,2,T. Warren,T. Chandler
+199,2,2:31.0,49,42,PHO,MEM,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Warren,J. Ennis
+200,2,2:31.0,49,43,PHO,MEM,0,away,FreeThrow,,,make1,1,J. Ennis,
+201,2,2:31.0,49,43,PHO,MEM,0,home,Sub,,,,,T. Daniels,T. Warren
+202,2,2:31.0,49,44,PHO,MEM,0,away,FreeThrow,,,make1,1,J. Ennis,
+203,2,2:21.0,52,44,PHO,MEM,10,home,JS,,25,make3,3,T. Ulis,
+204,2,2:08.0,52,44,PHO,MEM,13,away,D3SecTech,,,,,,
+205,2,2:08.0,52,45,PHO,MEM,0,away,FreeThrow,,,make1,1,M. Gasol makes technical free throw,
+206,2,1:58.0,52,45,PHO,MEM,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Chriss,J. Ennis
+207,2,1:58.0,52,46,PHO,MEM,0,away,FreeThrow,,,make1,1,J. Ennis,
+208,2,1:58.0,52,46,PHO,MEM,0,home,Sub,,,,,D. Bender,M. Chriss
+209,2,1:58.0,52,47,PHO,MEM,0,away,FreeThrow,,,make1,1,J. Ennis,
+210,2,1:49.0,52,47,PHO,MEM,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Simmons,D. Booker
+211,2,1:49.0,53,47,PHO,MEM,0,home,FreeThrow,,,make1,1,D. Booker,
+212,2,1:49.0,53,47,PHO,MEM,0,away,Sub,,,,,D. Brooks,K. Simmons
+213,2,1:49.0,54,47,PHO,MEM,0,home,FreeThrow,,,make1,1,D. Booker,
+214,2,1:39.0,54,49,PHO,MEM,10,away,LU,,0,make2,2,T. Evans,
+215,2,1:26.0,54,49,PHO,MEM,13,home,JS,,22,miss3,0,D. Booker,
+216,2,1:25.0,54,49,PHO,MEM,1,home,OffReb,,,OffReb,,Team,
+217,2,1:25.0,54,49,PHO,MEM,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Evans,T. Chandler
+218,2,1:25.0,55,49,PHO,MEM,0,home,FreeThrow,,,make1,1,T. Chandler,
+219,2,1:25.0,55,49,PHO,MEM,0,home,FreeThrow,,,make1,0,T. Chandler,
+220,2,1:23.0,55,49,PHO,MEM,2,away,DefReb,,,DefReb,,J. Martin,
+221,2,1:13.0,55,51,PHO,MEM,10,away,JS,,5,make2,2,T. Evans,
+222,2,0:51.0,57,51,PHO,MEM,22,home,JS,,9,make2,2,D. Booker,
+223,2,0:39.0,57,51,PHO,MEM,12,away,JS,,22,miss3,0,D. Brooks,
+224,2,0:36.0,57,51,PHO,MEM,3,home,DefReb,,,DefReb,,T. Chandler,
+225,2,0:31.0,57,51,PHO,MEM,5,home,JS,,25,miss3,0,D. Booker,
+226,2,0:28.0,57,51,PHO,MEM,3,away,DefReb,,,DefReb,,M. Gasol,
+227,2,0:13.0,57,51,PHO,MEM,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Chandler,M. Gasol
+228,2,0:13.0,57,52,PHO,MEM,0,away,FreeThrow,,,make1,1,M. Gasol,
+229,2,0:13.0,57,52,PHO,MEM,0,home,Sub,,,,,I. Canaan,T. Chandler
+230,2,0:13.0,57,52,PHO,MEM,0,away,Sub,,,,,A. Harrison,T. Evans
+231,2,0:13.0,57,53,PHO,MEM,0,away,FreeThrow,,,make1,1,M. Gasol,
+232,2,0:01.0,57,53,PHO,MEM,12,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Booker,A. Harrison
+233,2,0:01.0,57,53,PHO,MEM,0,home,OffensiveFoul,,,turnover,,D. Booker,
+234,2,0:00.0,57,53,PHO,MEM,1,away,JS,,41,miss3,0,A. Harrison,
+235,2,0:00.0,57,53,PHO,MEM,0,away,OffReb,,,OffReb,,Team,
+236,3,11:47.0,57,53,PHO,MEM,13,away,HS,,2,miss2,0,T. Evans,
+237,3,11:45.0,57,53,PHO,MEM,2,away,OffReb,,,OffReb,,T. Evans,
+238,3,11:45.0,57,53,PHO,MEM,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ulis,A. Harrison
+239,3,11:27.0,57,53,PHO,MEM,18,away,JS,,25,miss3,0,D. Brooks,
+240,3,11:25.0,57,53,PHO,MEM,2,home,DefReb,,,DefReb,,T. Chandler,
+241,3,11:17.0,57,53,PHO,MEM,8,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,A. Harrison,T. Ulis
+242,3,11:10.0,57,53,PHO,MEM,7,home,JS,,14,miss2,0,D. Booker,
+243,3,11:07.0,57,53,PHO,MEM,3,away,DefReb,,,DefReb,,B. Wright,
+244,3,10:56.0,57,55,PHO,MEM,11,away,DK,,0,make2,2,A. Harrison,
+245,3,10:37.0,60,55,PHO,MEM,19,home,JS,assist,27,make3,3,D. Booker,T. Ulis
+246,3,10:10.0,60,55,PHO,MEM,27,away,lost ball,steal,,turnover,,M. Gasol,T. Ulis
+247,3,10:04.0,60,55,PHO,MEM,6,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Chandler,D. Brooks
+248,3,10:04.0,60,55,PHO,MEM,0,home,OffensiveFoul,,,turnover,,T. Chandler,
+249,3,9:44.0,60,57,PHO,MEM,20,away,LU,,0,make2,2,D. Brooks,
+250,3,9:39.0,60,57,PHO,MEM,5,home,PersonalFoul,,,,,D. Brooks,
+251,3,9:39.0,60,57,PHO,MEM,0,away,TechnicalFoul,,,TechnicalFoul,,D. Brooks,
+252,3,9:39.0,61,57,PHO,MEM,0,home,FreeThrow,,,make1,1,D. Booker makes technical free throw,
+253,3,9:21.0,61,57,PHO,MEM,18,home,JS,block,17,miss2,0,D. Booker,A. Harrison
+254,3,9:21.0,61,57,PHO,MEM,0,home,OffReb,,,OffReb,,Team,
+255,3,9:19.0,61,57,PHO,MEM,2,home,JS,,23,miss3,0,D. Booker,
+256,3,9:19.0,61,57,PHO,MEM,0,home,OffReb,,,OffReb,,Team,
+257,3,9:06.0,61,57,PHO,MEM,13,home,JS,,13,miss2,0,T. Ulis,
+258,3,9:06.0,61,57,PHO,MEM,0,away,DefReb,,,DefReb,,Team,
+259,3,9:06.0,61,57,PHO,MEM,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Chandler,M. Gasol
+260,3,9:06.0,61,57,PHO,MEM,0,home,Sub,,,,,A. Len,T. Chandler
+261,3,9:01.0,61,57,PHO,MEM,5,home,TechnicalFoul,,,TechnicalFoul,,T. Chandler,
+262,3,9:01.0,61,58,PHO,MEM,0,away,FreeThrow,,,make1,1,M. Gasol makes technical free throw,
+263,3,8:55.0,61,58,PHO,MEM,6,away,JS,,26,miss3,0,M. Gasol,
+264,3,8:52.0,61,58,PHO,MEM,3,home,DefReb,,,DefReb,,M. Chriss,
+265,3,8:47.0,61,58,PHO,MEM,5,home,JS,,24,miss3,0,T. Warren,
+266,3,8:43.0,61,58,PHO,MEM,4,away,DefReb,,,DefReb,,B. Wright,
+267,3,8:31.0,61,60,PHO,MEM,12,away,LU,assist,1,make2,2,B. Wright,T. Evans
+268,3,8:31.0,61,60,PHO,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Warren,B. Wright
+269,3,8:31.0,61,60,PHO,MEM,0,home,Sub,,,,,J. Jackson,T. Warren
+270,3,8:31.0,61,61,PHO,MEM,0,away,FreeThrow,,,make1,1,B. Wright,
+271,3,8:20.0,61,61,PHO,MEM,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Evans,A. Len
+272,3,8:13.0,61,61,PHO,MEM,7,home,JS,,18,miss2,0,A. Len,
+273,3,8:10.0,61,61,PHO,MEM,3,away,DefReb,,,DefReb,,T. Evans,
+274,3,7:52.0,61,61,PHO,MEM,18,away,JS,,10,miss2,0,A. Harrison,
+275,3,7:49.0,61,61,PHO,MEM,3,home,DefReb,,,DefReb,,M. Chriss,
+276,3,7:40.0,61,61,PHO,MEM,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Gasol,A. Len
+277,3,7:40.0,61,61,PHO,MEM,0,home,FreeThrow,,,make1,0,A. Len,
+278,3,7:40.0,61,61,PHO,MEM,0,home,OffReb,,,OffReb,,Team,
+279,3,7:40.0,61,61,PHO,MEM,0,away,Sub,,,,,K. Simmons,A. Harrison
+280,3,7:40.0,61,61,PHO,MEM,0,home,Sub,,,,,I. Canaan,T. Ulis
+281,3,7:40.0,62,61,PHO,MEM,0,home,FreeThrow,,,make1,1,A. Len,
+282,3,7:22.0,62,61,PHO,MEM,18,away,JS,block,8,miss2,0,M. Gasol,A. Len
+283,3,7:19.0,62,61,PHO,MEM,3,away,OffReb,,,OffReb,,M. Gasol,
+284,3,7:17.0,62,61,PHO,MEM,2,away,JS,,22,miss2,0,M. Gasol,
+285,3,7:16.0,62,61,PHO,MEM,1,home,DefReb,,,DefReb,,Team,
+286,3,7:16.0,62,61,PHO,MEM,0,home,Timeout,,,,,,
+287,3,6:58.0,62,61,PHO,MEM,18,home,JS,block,9,miss2,0,J. Jackson,T. Evans
+288,3,6:54.0,62,61,PHO,MEM,4,home,OffReb,,,OffReb,,J. Jackson,
+289,3,6:54.0,64,61,PHO,MEM,0,home,JS,,7,make2,2,J. Jackson,
+290,3,6:40.0,64,61,PHO,MEM,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Chriss,B. Wright
+291,3,6:40.0,64,61,PHO,MEM,0,home,Sub,,,,,D. Bender,M. Chriss
+292,3,6:29.0,64,61,PHO,MEM,11,away,JS,,24,miss3,0,D. Brooks,
+293,3,6:24.0,64,61,PHO,MEM,5,home,DefReb,,,DefReb,,D. Bender,
+294,3,6:16.0,64,61,PHO,MEM,8,home,LU,block,1,miss2,0,I. Canaan,B. Wright
+295,3,6:13.0,64,61,PHO,MEM,3,away,DefReb,,,DefReb,,K. Simmons,
+296,3,6:12.0,64,63,PHO,MEM,1,away,LU,,0,make2,2,K. Simmons,
+297,3,5:55.0,64,63,PHO,MEM,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Wright,A. Len
+298,3,5:55.0,64,63,PHO,MEM,0,home,FreeThrow,,,make1,0,A. Len,
+299,3,5:55.0,64,63,PHO,MEM,0,home,OffReb,,,OffReb,,Team,
+300,3,5:55.0,64,63,PHO,MEM,0,home,Sub,,,,,T. Daniels,D. Booker
+301,3,5:55.0,64,63,PHO,MEM,0,away,Sub,,,,,J. Martin,T. Evans
+302,3,5:55.0,64,63,PHO,MEM,0,away,Sub,,,,,A. Harrison,B. Wright
+303,3,5:55.0,65,63,PHO,MEM,0,home,FreeThrow,,,make1,1,A. Len,
+304,3,5:33.0,65,63,PHO,MEM,22,away,JS,,19,miss2,0,D. Brooks,
+305,3,5:30.0,65,63,PHO,MEM,3,home,DefReb,,,DefReb,,I. Canaan,
+306,3,5:25.0,65,63,PHO,MEM,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Martin,I. Canaan
+307,3,5:25.0,66,63,PHO,MEM,0,home,FreeThrow,,,make1,1,I. Canaan,
+308,3,5:25.0,67,63,PHO,MEM,0,home,FreeThrow,,,make1,1,I. Canaan,
+309,3,5:01.0,67,65,PHO,MEM,24,away,LU,,0,make2,2,A. Harrison,
+310,3,4:47.0,70,65,PHO,MEM,14,home,JS,assist,25,make3,3,T. Daniels,I. Canaan
+311,3,4:33.0,70,65,PHO,MEM,14,away,JS,,24,miss3,0,M. Gasol,
+312,3,4:31.0,70,65,PHO,MEM,2,home,DefReb,,,DefReb,,Team,
+313,3,4:31.0,70,65,PHO,MEM,0,away,Sub,,,,,J. Ennis,D. Brooks
+314,3,4:09.0,70,65,PHO,MEM,22,home,LU,,0,miss2,0,T. Daniels,
+315,3,4:05.0,70,65,PHO,MEM,4,away,DefReb,,,DefReb,,A. Harrison,
+316,3,4:00.0,70,65,PHO,MEM,5,away,OutOfBoundsLB,,,turnover,,K. Simmons,
+317,3,3:48.0,70,65,PHO,MEM,12,home,JS,,26,miss3,0,I. Canaan,
+318,3,3:44.0,70,65,PHO,MEM,4,away,DefReb,,,DefReb,,J. Ennis,
+319,3,3:34.0,70,67,PHO,MEM,10,away,LU,assist,0,make2,2,M. Gasol,J. Ennis
+320,3,3:10.0,70,67,PHO,MEM,24,home,LU,block,0,miss2,0,D. Bender,J. Martin
+321,3,3:06.0,70,67,PHO,MEM,4,home,OffReb,,,OffReb,,A. Len,
+322,3,3:05.0,70,67,PHO,MEM,1,home,bad pass,steal,,turnover,,A. Len,J. Ennis
+323,3,2:59.0,70,67,PHO,MEM,6,away,LU,,1,miss2,0,J. Martin,
+324,3,2:56.0,70,67,PHO,MEM,3,home,DefReb,,,DefReb,,J. Jackson,
+325,3,2:51.0,70,67,PHO,MEM,5,home,LU,block,1,miss2,0,A. Len,M. Gasol
+326,3,2:51.0,70,67,PHO,MEM,0,away,DefReb,,,DefReb,,M. Gasol,
+327,3,2:49.0,70,67,PHO,MEM,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Len,M. Gasol
+328,3,2:49.0,70,67,PHO,MEM,0,away,Timeout,,,,,,
+329,3,2:49.0,70,68,PHO,MEM,0,away,FreeThrow,,,make1,1,M. Gasol,
+330,3,2:49.0,70,68,PHO,MEM,0,away,Sub,,,,,T. Evans,K. Simmons
+331,3,2:49.0,70,69,PHO,MEM,0,away,FreeThrow,,,make1,1,M. Gasol,
+332,3,2:39.0,70,69,PHO,MEM,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Harrison,A. Len
+333,3,2:39.0,71,69,PHO,MEM,0,home,FreeThrow,,,make1,1,A. Len,
+334,3,2:39.0,71,69,PHO,MEM,0,away,Sub,,,,,D. Davis,A. Harrison
+335,3,2:39.0,71,69,PHO,MEM,0,away,Sub,,,,,D. Brooks,M. Gasol
+336,3,2:39.0,72,69,PHO,MEM,0,home,FreeThrow,,,make1,1,A. Len,
+337,3,2:20.0,72,71,PHO,MEM,19,away,JS,assist,13,make2,2,J. Martin,J. Ennis
+338,3,2:13.0,72,71,PHO,MEM,7,home,BadPass,,,turnover,,I. Canaan,
+339,3,2:02.0,72,74,PHO,MEM,11,away,JS,,26,make3,3,T. Evans,
+340,3,1:39.0,74,74,PHO,MEM,23,home,DK,assist,0,make2,2,A. Len,I. Canaan
+341,3,1:15.0,74,74,PHO,MEM,24,away,JS,,25,miss3,0,T. Evans,
+342,3,1:11.0,74,74,PHO,MEM,4,home,DefReb,,,DefReb,,J. Jackson,
+343,3,1:05.0,74,74,PHO,MEM,6,home,LU,block,1,miss2,0,J. Jackson,D. Davis
+344,3,1:03.0,74,74,PHO,MEM,2,away,DefReb,,,DefReb,,D. Brooks,
+345,3,1:00.0,74,74,PHO,MEM,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bender,J. Ennis
+346,3,1:00.0,74,75,PHO,MEM,0,away,FreeThrow,,,make1,1,J. Ennis,
+347,3,1:00.0,74,76,PHO,MEM,0,away,FreeThrow,,,make1,1,J. Ennis,
+348,3,0:42.0,74,76,PHO,MEM,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Martin,J. Jackson
+349,3,0:42.0,75,76,PHO,MEM,0,home,FreeThrow,,,make1,1,J. Jackson,
+350,3,0:42.0,76,76,PHO,MEM,0,home,FreeThrow,,,make1,1,J. Jackson,
+351,3,0:27.0,76,76,PHO,MEM,15,away,OffGoaltending,,,turnover,,D. Davis,
+352,3,0:05.0,76,76,PHO,MEM,22,home,JS,,23,miss3,0,D. Bender,
+353,3,0:02.0,76,76,PHO,MEM,3,away,DefReb,,,DefReb,,J. Ennis,
+354,4,11:39.0,76,76,PHO,MEM,21,home,bad pass,steal,,turnover,,J. Jackson,J. Martin
+355,4,11:35.0,76,78,PHO,MEM,4,away,DK,assist,0,make2,2,D. Davis,T. Evans
+356,4,11:13.0,76,78,PHO,MEM,22,home,lost ball,steal,,turnover,,J. Jackson,D. Brooks
+357,4,11:09.0,76,80,PHO,MEM,4,away,LU,assist,0,make2,2,D. Brooks,K. Simmons
+358,4,11:08.0,76,80,PHO,MEM,1,home,Timeout,,,,,,
+359,4,11:08.0,76,80,PHO,MEM,0,home,Sub,,,,,D. Booker,J. Jackson
+360,4,11:08.0,76,80,PHO,MEM,0,home,Sub,,,,,T. Warren,T. Daniels
+361,4,10:53.0,78,80,PHO,MEM,15,home,LU,assist,1,make2,2,A. Len,D. Booker
+362,4,10:31.0,78,82,PHO,MEM,22,away,JS,,21,make2,2,T. Evans,
+363,4,10:15.0,78,82,PHO,MEM,16,home,JS,,15,miss2,0,T. Warren,
+364,4,10:12.0,78,82,PHO,MEM,3,away,DefReb,,,DefReb,,K. Simmons,
+365,4,10:05.0,78,82,PHO,MEM,7,away,JS,,14,miss2,0,D. Davis,
+366,4,10:01.0,78,82,PHO,MEM,4,home,DefReb,,,DefReb,,D. Bender,
+367,4,9:54.0,78,82,PHO,MEM,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Brooks,D. Booker
+368,4,9:44.0,78,82,PHO,MEM,10,home,JS,,23,miss3,0,D. Bender,
+369,4,9:44.0,78,82,PHO,MEM,0,away,DefReb,,,DefReb,,D. Davis,
+370,4,9:34.0,78,82,PHO,MEM,10,away,LU,,1,miss2,0,T. Evans,
+371,4,9:34.0,78,82,PHO,MEM,0,home,DefReb,,,DefReb,,D. Bender,
+372,4,9:31.0,78,82,PHO,MEM,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Martin,D. Booker
+373,4,9:31.0,78,82,PHO,MEM,0,home,Sub,,,,,T. Ulis,I. Canaan
+374,4,9:31.0,78,82,PHO,MEM,0,home,Sub,,,,,M. Chriss,D. Bender
+375,4,9:31.0,78,82,PHO,MEM,0,away,Sub,,,,,B. Wright,J. Martin
+376,4,9:21.0,78,82,PHO,MEM,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Davis,T. Warren
+377,4,9:21.0,79,82,PHO,MEM,0,home,FreeThrow,,,make1,1,T. Warren,
+378,4,9:21.0,79,82,PHO,MEM,0,away,Sub,,,,,M. Gasol,D. Davis
+379,4,9:21.0,80,82,PHO,MEM,0,home,FreeThrow,,,make1,1,T. Warren,
+380,4,9:05.0,80,82,PHO,MEM,16,away,JS,,24,miss3,0,K. Simmons,
+381,4,9:04.0,80,82,PHO,MEM,1,home,DefReb,,,DefReb,,Team,
+382,4,8:52.0,80,82,PHO,MEM,12,home,JS,block,7,miss2,0,T. Warren,M. Gasol
+383,4,8:52.0,80,82,PHO,MEM,0,home,OffReb,,,OffReb,,Team,
+384,4,8:46.0,82,82,PHO,MEM,6,home,JS,assist,16,make2,2,D. Booker,A. Len
+385,4,8:32.0,82,82,PHO,MEM,14,away,LU,block,2,miss2,0,T. Evans,M. Chriss
+386,4,8:32.0,82,82,PHO,MEM,0,away,OffReb,,,OffReb,,Team,
+387,4,8:32.0,82,82,PHO,MEM,0,away,Timeout,,,,,,
+388,4,8:32.0,82,82,PHO,MEM,0,away,Sub,,,,,A. Harrison,K. Simmons
+389,4,8:24.0,82,82,PHO,MEM,8,away,JS,,25,miss3,0,M. Gasol,
+390,4,8:21.0,82,82,PHO,MEM,3,home,DefReb,,,DefReb,,M. Chriss,
+391,4,8:04.0,84,82,PHO,MEM,17,home,JS,,22,make2,2,D. Booker,
+392,4,7:41.0,84,82,PHO,MEM,23,away,JS,,2,miss2,0,B. Wright,
+393,4,7:39.0,84,82,PHO,MEM,2,home,DefReb,,,DefReb,,M. Chriss,
+394,4,7:26.0,84,82,PHO,MEM,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Wright,D. Booker
+395,4,7:26.0,84,82,PHO,MEM,0,home,FreeThrow,,,make1,0,D. Booker,
+396,4,7:26.0,84,82,PHO,MEM,0,home,OffReb,,,OffReb,,Team,
+397,4,7:26.0,85,82,PHO,MEM,0,home,FreeThrow,,,make1,1,D. Booker,
+398,4,7:26.0,85,82,PHO,MEM,0,away,Sub,,,,,J. Ennis,T. Evans
+399,4,7:26.0,86,82,PHO,MEM,0,home,FreeThrow,,,make1,1,D. Booker,
+400,4,7:15.0,86,82,PHO,MEM,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ulis,A. Harrison
+401,4,7:08.0,86,82,PHO,MEM,7,away,JS,,19,miss2,0,M. Gasol,
+402,4,7:05.0,86,82,PHO,MEM,3,home,DefReb,,,DefReb,,M. Chriss,
+403,4,7:01.0,88,82,PHO,MEM,4,home,JS,assist,10,make2,2,T. Warren,D. Booker
+404,4,7:01.0,88,82,PHO,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ennis,T. Warren
+405,4,7:01.0,88,82,PHO,MEM,0,home,FreeThrow,,,make1,0,T. Warren,
+406,4,6:59.0,88,82,PHO,MEM,2,away,DefReb,,,DefReb,,M. Gasol,
+407,4,6:47.0,88,82,PHO,MEM,12,away,JS,,7,miss2,0,D. Brooks,
+408,4,6:47.0,88,82,PHO,MEM,0,home,DefReb,,,DefReb,,A. Len,
+409,4,6:37.0,88,82,PHO,MEM,10,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Chriss,J. Ennis
+410,4,6:37.0,88,82,PHO,MEM,0,home,OffensiveFoul,,,turnover,,M. Chriss,
+411,4,6:16.0,88,82,PHO,MEM,21,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Booker,J. Ennis
+412,4,6:14.0,88,82,PHO,MEM,2,away,bad pass,steal,,turnover,,J. Ennis,M. Chriss
+413,4,6:12.0,88,82,PHO,MEM,2,home,BadPass,,,turnover,,M. Chriss,
+414,4,5:58.0,88,82,PHO,MEM,14,away,bad pass,steal,,turnover,,M. Gasol,M. Chriss
+415,4,5:57.0,88,82,PHO,MEM,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Brooks,M. Chriss
+416,4,5:57.0,88,82,PHO,MEM,0,home,FreeThrow,,,make1,0,M. Chriss,
+417,4,5:57.0,88,82,PHO,MEM,0,home,OffReb,,,OffReb,,Team,
+418,4,5:57.0,88,82,PHO,MEM,0,away,Sub,,,,,T. Evans,J. Ennis
+419,4,5:57.0,89,82,PHO,MEM,0,home,FreeThrow,,,make1,1,M. Chriss,
+420,4,5:39.0,89,82,PHO,MEM,18,away,HS,,6,miss2,0,M. Gasol,
+421,4,5:35.0,89,82,PHO,MEM,4,home,DefReb,,,DefReb,,M. Chriss,
+422,4,5:18.0,89,82,PHO,MEM,17,home,JS,,9,miss2,0,T. Warren,
+423,4,5:16.0,89,82,PHO,MEM,2,away,DefReb,,,DefReb,,T. Evans,
+424,4,5:00.0,89,82,PHO,MEM,16,away,lost ball,steal,,turnover,,M. Gasol,D. Booker
+425,4,4:56.0,91,82,PHO,MEM,4,home,LU,assist,1,make2,2,T. Warren,T. Ulis
+426,4,4:55.0,91,82,PHO,MEM,1,away,Timeout,,,,,,
+427,4,4:55.0,91,82,PHO,MEM,0,away,Sub,,,,,K. Simmons,B. Wright
+428,4,4:38.0,91,84,PHO,MEM,17,away,JS,,1,make2,2,A. Harrison,
+429,4,4:15.0,91,84,PHO,MEM,23,home,JS,,19,miss2,0,T. Warren,
+430,4,4:12.0,91,84,PHO,MEM,3,away,DefReb,,,DefReb,,K. Simmons,
+431,4,3:57.0,91,84,PHO,MEM,15,away,JS,,26,miss3,0,T. Evans,
+432,4,3:54.0,91,84,PHO,MEM,3,home,DefReb,,,DefReb,,T. Ulis,
+433,4,3:31.0,91,84,PHO,MEM,23,home,JS,block,18,miss2,0,T. Ulis,K. Simmons
+434,4,3:31.0,91,84,PHO,MEM,0,home,OffReb,,,OffReb,,Team,
+435,4,3:31.0,91,84,PHO,MEM,0,home,ShotClockViolation,,,turnover,,Team,
+436,4,3:31.0,91,84,PHO,MEM,0,away,Sub,,,,,J. Ennis,D. Brooks
+437,4,3:21.0,91,87,PHO,MEM,10,away,JS,assist,24,make3,3,A. Harrison,T. Evans
+438,4,3:20.0,91,87,PHO,MEM,1,home,Timeout,,,,,,
+439,4,3:07.0,93,87,PHO,MEM,13,home,JS,,18,make2,2,D. Booker,
+440,4,2:46.0,93,87,PHO,MEM,21,home,TechnicalFoul,,,TechnicalFoul,,A. Len,
+441,4,2:46.0,93,88,PHO,MEM,0,away,FreeThrow,,,make1,1,M. Gasol makes flagrant free throw 2 of 2,
+442,4,2:46.0,93,88,PHO,MEM,0,away,FreeThrow,,,make1,0,M. Gasol misses flagrant free throw 1 of 2,
+443,4,2:46.0,93,88,PHO,MEM,0,away,OffReb,,,OffReb,,Team,
+444,4,2:46.0,93,88,PHO,MEM,0,home,Sub,,,,,T. Chandler,A. Len
+445,4,2:35.0,93,88,PHO,MEM,11,away,DK,,0,miss2,0,M. Gasol,
+446,4,2:32.0,93,88,PHO,MEM,3,home,DefReb,,,DefReb,,D. Booker,
+447,4,2:28.0,93,88,PHO,MEM,4,home,JS,,9,miss2,0,D. Booker,
+448,4,2:26.0,93,88,PHO,MEM,2,home,OffReb,,,OffReb,,T. Chandler,
+449,4,2:08.0,93,88,PHO,MEM,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Harrison,M. Chriss
+450,4,2:08.0,93,88,PHO,MEM,0,home,FreeThrow,,,make1,0,M. Chriss,
+451,4,2:08.0,93,88,PHO,MEM,0,home,OffReb,,,OffReb,,Team,
+452,4,2:08.0,94,88,PHO,MEM,0,home,FreeThrow,,,make1,1,M. Chriss,
+453,4,1:56.0,94,88,PHO,MEM,12,away,Traveling,,,turnover,,J. Ennis,
+454,4,1:38.0,94,88,PHO,MEM,18,home,LU,,0,miss2,0,D. Booker,
+455,4,1:36.0,94,88,PHO,MEM,2,away,DefReb,,,DefReb,,T. Evans,
+456,4,1:34.0,94,88,PHO,MEM,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Booker,T. Evans
+457,4,1:25.0,94,90,PHO,MEM,9,away,LU,,0,make2,2,T. Evans,
+458,4,1:05.0,94,90,PHO,MEM,20,home,JS,,24,miss3,0,D. Booker,
+459,4,1:01.0,94,90,PHO,MEM,4,home,OffReb,,,OffReb,,M. Chriss,
+460,4,0:59.0,94,90,PHO,MEM,2,home,lost ball,steal,,turnover,,M. Chriss,T. Evans
+461,4,0:56.0,94,92,PHO,MEM,3,away,LU,assist,0,make2,2,J. Ennis,K. Simmons
+462,4,0:56.0,94,92,PHO,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Booker,J. Ennis
+463,4,0:56.0,94,92,PHO,MEM,0,home,Sub,,,,,T. Daniels,T. Ulis
+464,4,0:56.0,94,92,PHO,MEM,0,away,Sub,,,,,J. Martin,K. Simmons
+465,4,0:56.0,94,93,PHO,MEM,0,away,FreeThrow,,,make1,1,J. Ennis,
+466,4,0:41.0,94,93,PHO,MEM,15,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Booker,A. Harrison
+467,4,0:41.0,94,93,PHO,MEM,0,home,OffensiveFoul,,,turnover,,D. Booker,
+468,4,0:41.0,94,93,PHO,MEM,0,home,Sub,,,,,I. Canaan,M. Chriss
+469,4,0:41.0,94,93,PHO,MEM,0,home,Sub,,,,,J. Jackson,D. Booker
+470,4,0:20.0,94,93,PHO,MEM,21,away,bad pass,steal,,turnover,,M. Gasol,I. Canaan
+471,4,0:18.0,94,93,PHO,MEM,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Harrison,I. Canaan
+472,4,0:18.0,94,93,PHO,MEM,0,away,Sub,,,,,D. Brooks,A. Harrison
+473,4,0:18.0,95,93,PHO,MEM,0,home,FreeThrow,,,make1,1,I. Canaan,
+474,4,0:18.0,96,93,PHO,MEM,0,home,FreeThrow,,,make1,1,I. Canaan,
+475,4,0:18.0,96,93,PHO,MEM,0,away,Timeout,,,,,,
+476,4,0:18.0,96,93,PHO,MEM,0,home,Sub,,,,,M. Chriss,T. Daniels
+477,4,0:06.0,96,95,PHO,MEM,12,away,LU,,0,make2,2,T. Evans,
+478,4,0:06.0,96,95,PHO,MEM,0,home,Timeout,,,,,,
+479,4,0:06.0,96,95,PHO,MEM,0,home,Sub,,,,,D. Bender,T. Chandler
+480,4,0:06.0,96,95,PHO,MEM,0,home,Sub,,,,,T. Daniels,J. Jackson
+481,4,0:06.0,96,95,PHO,MEM,0,home,Sub,,,,,T. Ulis,M. Chriss
+482,4,0:06.0,96,95,PHO,MEM,0,away,Sub,,,,,K. Simmons,J. Ennis
+483,4,0:06.0,96,95,PHO,MEM,0,away,Sub,,,,,B. Wright,D. Brooks
+484,4,0:05.0,96,95,PHO,MEM,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,B. Wright,T. Warren
+485,4,0:05.0,97,95,PHO,MEM,0,home,FreeThrow,,,make1,1,T. Warren,
+486,4,0:05.0,97,95,PHO,MEM,0,home,Sub,,,,,M. Chriss,T. Ulis
+487,4,0:05.0,97,95,PHO,MEM,0,home,FreeThrow,,,make1,0,T. Warren,
+488,4,0:04.0,97,95,PHO,MEM,1,away,DefReb,,,DefReb,,B. Wright,
+489,4,0:04.0,97,95,PHO,MEM,0,away,Timeout,,,,,,
+490,4,0:04.0,97,95,PHO,MEM,0,home,Sub,,,,,T. Chandler,T. Daniels
+491,4,0:04.0,97,95,PHO,MEM,0,home,Sub,,,,,J. Jackson,D. Bender
+492,4,0:04.0,97,95,PHO,MEM,0,away,Sub,,,,,J. Ennis,B. Wright
+493,4,0:00.0,97,95,PHO,MEM,4,away,LU,,2,miss2,0,T. Evans,
+494,4,0:00.0,97,95,PHO,MEM,0,away,OffReb,,,OffReb,,J. Martin,
+495,4,0:00.0,97,97,PHO,MEM,0,away,DK,,0,make2,2,J. Martin,
+496,4,0:00.0,97,97,PHO,MEM,0,home,Timeout,,,,,,
+497,4,0:00.0,97,97,PHO,MEM,0,home,Sub,,,,,D. Bender,T. Warren
+498,4,0:00.0,97,97,PHO,MEM,0,home,Sub,,,,,T. Daniels,J. Jackson
+499,4,0:00.0,97,97,PHO,MEM,0,away,Sub,,,,,B. Wright,T. Evans
+500,4,0:00.0,99,97,PHO,MEM,0,home,DK,assist,0,make2,2,T. Chandler,D. Bender

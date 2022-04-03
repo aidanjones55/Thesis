@@ -1,0 +1,488 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,3,0,SAC,IND,17,home,JS,assist,25,make3,3,B. McLemore,R. Rondo
+1,1,11:31.0,3,0,SAC,IND,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,L. Allen,D. Cousins
+2,1,11:31.0,3,0,SAC,IND,0,away,OffensiveFoul,,,turnover,,L. Allen,
+3,1,11:13.0,3,0,SAC,IND,18,home,JS,,7,miss2,0,D. Cousins,
+4,1,11:12.0,3,0,SAC,IND,1,away,DefReb,,,DefReb,,P. George,
+5,1,10:57.0,3,0,SAC,IND,15,away,JS,,13,miss2,0,P. George,
+6,1,10:56.0,3,0,SAC,IND,1,away,OffReb,,,OffReb,,J. Hill,
+7,1,10:53.0,3,0,SAC,IND,3,away,JS,,6,miss2,0,J. Hill,
+8,1,10:52.0,3,0,SAC,IND,1,home,DefReb,,,DefReb,,D. Cousins,
+9,1,10:49.0,3,0,SAC,IND,3,home,OutOfBounds,,,turnover,,B. McLemore,
+10,1,10:27.0,3,0,SAC,IND,22,away,JS,,17,miss2,0,L. Allen,
+11,1,10:26.0,3,0,SAC,IND,1,home,DefReb,,,DefReb,,R. Rondo,
+12,1,10:20.0,3,0,SAC,IND,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Allen,D. Cousins
+13,1,10:20.0,4,0,SAC,IND,0,home,FreeThrow,,,make1,1,D. Cousins,
+14,1,10:20.0,4,0,SAC,IND,0,away,Sub,,,,,M. Turner,L. Allen
+15,1,10:20.0,5,0,SAC,IND,0,home,FreeThrow,,,make1,1,D. Cousins,
+16,1,9:56.0,5,0,SAC,IND,24,away,JS,block,19,miss2,0,J. Hill,B. McLemore
+17,1,9:55.0,5,0,SAC,IND,1,away,OffReb,,,OffReb,,J. Hill,
+18,1,9:55.0,5,0,SAC,IND,0,away,ShotClockViolation,,,turnover,,Team,
+19,1,9:46.0,5,0,SAC,IND,9,home,BadPass,steal,,turnover,,D. Cousins,M. Turner
+20,1,9:42.0,5,0,SAC,IND,4,away,JS,block,7,miss2,0,G. Robinson,W. Cauley-Stein
+21,1,9:40.0,5,0,SAC,IND,2,home,DefReb,,,DefReb,,B. McLemore,
+22,1,9:36.0,7,0,SAC,IND,4,home,DK,assist,0,make2,2,W. Cauley-Stein,R. Rondo
+23,1,9:35.0,7,0,SAC,IND,1,away,Timeout,,,,,,
+24,1,9:15.0,7,2,SAC,IND,20,away,JS,assist,7,make2,2,M. Turner,M. Ellis
+25,1,9:08.0,7,2,SAC,IND,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,D. Cousins
+26,1,9:08.0,8,2,SAC,IND,0,home,FreeThrow,,,make1,1,D. Cousins,
+27,1,9:08.0,9,2,SAC,IND,0,home,FreeThrow,,,make1,1,D. Cousins,
+28,1,8:57.0,9,4,SAC,IND,11,away,JS,,21,make2,2,M. Ellis,
+29,1,8:41.0,9,4,SAC,IND,16,home,JS,,27,miss3,0,O. Casspi,
+30,1,8:40.0,9,4,SAC,IND,1,home,OffReb,,,OffReb,,D. Cousins,
+31,1,8:40.0,9,4,SAC,IND,0,home,BadPass,,,turnover,,D. Cousins,
+32,1,8:32.0,9,4,SAC,IND,8,away,BadPass,steal,,turnover,,P. George,W. Cauley-Stein
+33,1,8:25.0,9,4,SAC,IND,7,home,LU,block,4,miss2,0,R. Rondo,M. Turner
+34,1,8:24.0,9,4,SAC,IND,1,away,DefReb,,,DefReb,,G. Robinson,
+35,1,8:22.0,9,4,SAC,IND,2,away,BadPass,steal,,turnover,,G. Robinson,D. Cousins
+36,1,8:18.0,11,4,SAC,IND,4,home,DK,assist,0,make2,2,D. Cousins,O. Casspi
+37,1,7:52.0,11,4,SAC,IND,26,away,JS,,20,miss2,0,M. Turner,
+38,1,7:52.0,11,4,SAC,IND,0,home,DefReb,,,DefReb,,D. Cousins,
+39,1,7:42.0,13,4,SAC,IND,10,home,JS,assist,4,make2,2,O. Casspi,R. Rondo
+40,1,7:25.0,13,4,SAC,IND,17,away,JS,,21,miss2,0,M. Ellis,
+41,1,7:24.0,13,4,SAC,IND,1,home,DefReb,,,DefReb,,R. Rondo,
+42,1,7:17.0,13,4,SAC,IND,7,home,JS,,25,miss3,0,B. McLemore,
+43,1,7:16.0,13,4,SAC,IND,1,away,DefReb,,,DefReb,,G. Robinson,
+44,1,7:07.0,13,4,SAC,IND,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,P. George
+45,1,7:07.0,13,5,SAC,IND,0,away,FreeThrow,,,make1,1,P. George,
+46,1,7:07.0,13,5,SAC,IND,0,away,Sub,,,,,G. Hill,G. Robinson
+47,1,7:07.0,13,6,SAC,IND,0,away,FreeThrow,,,make1,1,P. George,
+48,1,6:49.0,15,6,SAC,IND,18,home,JS,,4,make2,2,D. Cousins,
+49,1,6:34.0,15,6,SAC,IND,15,away,JS,,12,miss2,0,M. Turner,
+50,1,6:33.0,15,6,SAC,IND,1,home,DefReb,,,DefReb,,D. Cousins,
+51,1,6:26.0,17,6,SAC,IND,7,home,LU,,3,make2,2,R. Rondo,
+52,1,6:13.0,17,6,SAC,IND,13,away,JS,,20,miss2,0,J. Hill,
+53,1,6:12.0,17,6,SAC,IND,1,home,DefReb,,,DefReb,,R. Rondo,
+54,1,6:05.0,20,6,SAC,IND,7,home,JS,assist,25,make3,3,D. Cousins,R. Rondo
+55,1,5:46.0,20,8,SAC,IND,19,away,JS,,6,make2,2,J. Hill,
+56,1,5:30.0,22,8,SAC,IND,16,home,LU,,3,make2,2,D. Cousins,
+57,1,5:26.0,22,8,SAC,IND,4,home,Sub,,,,,K. Koufos,D. Cousins
+58,1,5:10.0,22,11,SAC,IND,16,away,JS,assist,23,make3,3,M. Ellis,G. Hill
+59,1,4:47.0,22,11,SAC,IND,23,home,JS,,24,miss3,0,O. Casspi,
+60,1,4:46.0,22,11,SAC,IND,1,away,DefReb,,,DefReb,,M. Turner,
+61,1,4:38.0,22,11,SAC,IND,8,away,BadPass,steal,,turnover,,J. Hill,B. McLemore
+62,1,4:33.0,22,11,SAC,IND,5,home,LU,,4,miss2,0,B. McLemore,
+63,1,4:32.0,22,11,SAC,IND,1,home,OffReb,,,OffReb,,R. Rondo,
+64,1,4:32.0,24,11,SAC,IND,0,home,LU,,2,make2,2,R. Rondo,
+65,1,4:32.0,24,11,SAC,IND,0,away,Timeout,,,,,,
+66,1,4:32.0,24,11,SAC,IND,0,home,Sub,,,,,M. Belinelli,B. McLemore
+67,1,4:16.0,24,11,SAC,IND,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,J. Hill
+68,1,4:02.0,24,13,SAC,IND,14,away,HS,,6,make2,2,J. Hill,
+69,1,3:43.0,24,13,SAC,IND,19,away,KickBallViolation,,,KickBallViolation,,G. Hill,
+70,1,3:36.0,24,13,SAC,IND,7,home,JS,,21,miss2,0,M. Belinelli,
+71,1,3:35.0,24,13,SAC,IND,1,away,DefReb,,,DefReb,,Team,
+72,1,3:23.0,24,15,SAC,IND,12,away,JS,,20,make2,2,M. Ellis,
+73,1,3:03.0,24,15,SAC,IND,20,home,JS,,7,miss2,0,K. Koufos,
+74,1,3:02.0,24,15,SAC,IND,1,home,OffReb,,,OffReb,,O. Casspi,
+75,1,3:02.0,26,15,SAC,IND,0,home,LU,,1,make2,2,O. Casspi,
+76,1,2:50.0,26,18,SAC,IND,12,away,JS,assist,24,make3,3,P. George,J. Hill
+77,1,2:50.0,26,18,SAC,IND,0,home,Timeout,,,,,,
+78,1,2:50.0,26,18,SAC,IND,0,home,Sub,,,,,J. Anderson,O. Casspi
+79,1,2:25.0,28,18,SAC,IND,25,home,LU,assist,3,make2,2,K. Koufos,W. Cauley-Stein
+80,1,1:58.0,28,21,SAC,IND,27,away,JS,assist,23,make3,3,M. Ellis,G. Hill
+81,1,1:36.0,28,21,SAC,IND,22,home,BadPass,steal,,turnover,,K. Koufos,G. Hill
+82,1,1:35.0,28,21,SAC,IND,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Koufos,G. Hill
+83,1,1:35.0,28,21,SAC,IND,0,away,Sub,,,,,J. Young,M. Ellis
+84,1,1:35.0,28,21,SAC,IND,0,home,Sub,,,,,D. Collison,W. Cauley-Stein
+85,1,1:35.0,28,21,SAC,IND,0,home,Sub,,,,,D. Cousins,R. Rondo
+86,1,1:20.0,28,23,SAC,IND,15,away,JS,,9,make2,2,P. George,
+87,1,1:01.0,31,23,SAC,IND,19,home,JS,assist,25,make3,3,J. Anderson,K. Koufos
+88,1,0:46.0,31,23,SAC,IND,15,away,JS,,19,miss2,0,M. Turner,
+89,1,0:45.0,31,23,SAC,IND,1,away,OffReb,,,OffReb,,J. Hill,
+90,1,0:45.0,31,25,SAC,IND,0,away,LU,,1,make2,2,J. Hill,
+91,1,0:33.0,31,25,SAC,IND,12,home,JS,,8,miss2,0,K. Koufos,
+92,1,0:32.0,31,25,SAC,IND,1,away,DefReb,,,DefReb,,M. Turner,
+93,1,0:18.0,31,25,SAC,IND,14,away,HS,,7,miss2,0,J. Hill,
+94,1,0:17.0,31,25,SAC,IND,1,home,DefReb,,,DefReb,,D. Cousins,
+95,1,0:06.0,31,25,SAC,IND,11,home,PersonalFoul,,,,,J. Young,
+96,1,0:06.0,31,25,SAC,IND,0,away,Sub,,,,,C. Miles,P. George
+97,1,0:00.0,31,25,SAC,IND,6,home,JS,,19,miss2,0,D. Cousins,
+98,1,0:00.0,31,25,SAC,IND,0,home,OffReb,,,OffReb,,Team,
+99,2,11:46.0,31,25,SAC,IND,14,away,JS,,22,miss2,0,M. Turner,
+100,2,11:46.0,31,25,SAC,IND,0,home,DefReb,,,DefReb,,J. Anderson,
+101,2,11:31.0,31,25,SAC,IND,15,home,LU,,4,miss2,0,D. Cousins,
+102,2,11:31.0,31,25,SAC,IND,0,away,DefReb,,,DefReb,,G. Hill,
+103,2,11:12.0,31,27,SAC,IND,19,away,LU,assist,3,make2,2,M. Turner,G. Hill
+104,2,11:01.0,31,27,SAC,IND,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Hill,M. Belinelli
+105,2,10:48.0,33,27,SAC,IND,13,home,LU,,2,make2,2,D. Cousins,
+106,2,10:38.0,33,27,SAC,IND,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Koufos,G. Hill
+107,2,10:34.0,33,27,SAC,IND,4,away,JS,,24,miss3,0,J. Young,
+108,2,10:33.0,33,27,SAC,IND,1,home,DefReb,,,DefReb,,D. Cousins,
+109,2,10:25.0,33,27,SAC,IND,8,home,BadPass,steal,,turnover,,D. Collison,G. Hill
+110,2,10:06.0,33,27,SAC,IND,19,away,JS,,9,miss2,0,C. Miles,
+111,2,10:04.0,33,27,SAC,IND,2,home,DefReb,,,DefReb,,Team,
+112,2,9:51.0,33,27,SAC,IND,13,home,OffensiveFoul,,,turnover,,M. Belinelli,
+113,2,9:51.0,33,27,SAC,IND,0,away,ChargeFoul,DrawnBy,,ChargeFoul,,M. Belinelli,C. Miles
+114,2,9:51.0,33,27,SAC,IND,0,home,Sub,,,,,W. Cauley-Stein,K. Koufos
+115,2,9:38.0,33,27,SAC,IND,13,away,JS,,20,miss2,0,C. Miles,
+116,2,9:37.0,33,27,SAC,IND,1,home,DefReb,,,DefReb,,W. Cauley-Stein,
+117,2,9:30.0,33,27,SAC,IND,7,home,JS,block,6,miss2,0,D. Collison,M. Turner
+118,2,9:29.0,33,27,SAC,IND,1,home,OffReb,,,OffReb,,W. Cauley-Stein,
+119,2,9:23.0,35,27,SAC,IND,6,home,JS,,4,make2,2,D. Cousins,
+120,2,9:08.0,35,27,SAC,IND,15,away,JS,,19,miss2,0,M. Turner,
+121,2,9:08.0,35,27,SAC,IND,0,away,OffReb,,,OffReb,,L. Allen,
+122,2,9:06.0,35,29,SAC,IND,2,away,JS,,5,make2,2,L. Allen,
+123,2,8:50.0,35,29,SAC,IND,16,home,JS,block,5,miss2,0,D. Cousins,L. Allen
+124,2,8:50.0,35,29,SAC,IND,0,home,OffReb,,,OffReb,,Team,
+125,2,8:50.0,35,29,SAC,IND,0,away,Timeout,,,,,,
+126,2,8:46.0,37,29,SAC,IND,4,home,JS,assist,19,make2,2,M. Belinelli,D. Collison
+127,2,8:29.0,37,29,SAC,IND,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Anderson,G. Hill
+128,2,8:21.0,37,31,SAC,IND,8,away,JS,,16,make2,2,J. Young,
+129,2,8:07.0,37,31,SAC,IND,14,home,JS,,19,miss2,0,M. Belinelli,
+130,2,8:06.0,37,31,SAC,IND,1,away,DefReb,,,DefReb,,M. Turner,
+131,2,7:58.0,37,31,SAC,IND,8,away,JS,,27,miss3,0,C. Miles,
+132,2,7:58.0,37,31,SAC,IND,0,home,DefReb,,,DefReb,,W. Cauley-Stein,
+133,2,7:43.0,37,31,SAC,IND,15,home,JS,,10,miss2,0,D. Cousins,
+134,2,7:42.0,37,31,SAC,IND,1,home,OffReb,,,OffReb,,W. Cauley-Stein,
+135,2,7:31.0,37,31,SAC,IND,11,home,JS,,7,miss2,0,D. Cousins,
+136,2,7:29.0,37,31,SAC,IND,2,away,DefReb,,,DefReb,,L. Allen,
+137,2,7:26.0,37,31,SAC,IND,3,away,BadPass,,,turnover,,J. Young,
+138,2,7:26.0,37,31,SAC,IND,0,home,Sub,,,,,R. Rondo,J. Anderson
+139,2,7:06.0,37,31,SAC,IND,20,home,JS,block,6,miss2,0,D. Collison,M. Turner
+140,2,7:04.0,37,31,SAC,IND,2,away,DefReb,,,DefReb,,L. Allen,
+141,2,6:57.0,37,31,SAC,IND,7,away,JS,,10,miss2,0,C. Miles,
+142,2,6:56.0,37,31,SAC,IND,1,home,DefReb,,,DefReb,,D. Cousins,
+143,2,6:50.0,39,31,SAC,IND,6,home,LU,,3,make2,2,D. Cousins,
+144,2,6:30.0,39,31,SAC,IND,20,away,JS,,23,miss3,0,J. Young,
+145,2,6:30.0,39,31,SAC,IND,0,home,DefReb,,,DefReb,,R. Rondo,
+146,2,6:17.0,39,31,SAC,IND,13,home,LostBall,,,turnover,,M. Belinelli,
+147,2,6:03.0,39,33,SAC,IND,14,away,JS,assist,21,make2,2,M. Turner,J. Young
+148,2,5:45.0,41,33,SAC,IND,18,home,DK,,0,make2,2,D. Cousins,
+149,2,5:44.0,41,33,SAC,IND,1,away,Timeout,,,,,,
+150,2,5:44.0,41,33,SAC,IND,0,away,Sub,,,,,M. Ellis,G. Hill
+151,2,5:44.0,41,33,SAC,IND,0,home,Sub,,,,,O. Casspi,M. Belinelli
+152,2,5:30.0,41,33,SAC,IND,14,away,JS,,25,miss3,0,C. Miles,
+153,2,5:29.0,41,33,SAC,IND,1,home,DefReb,,,DefReb,,D. Cousins,
+154,2,5:14.0,43,33,SAC,IND,15,home,LU,assist,2,make2,2,W. Cauley-Stein,R. Rondo
+155,2,4:51.0,43,35,SAC,IND,23,away,HS,,7,make2,2,M. Turner,
+156,2,4:31.0,45,35,SAC,IND,20,home,LU,assist,2,make2,2,D. Cousins,R. Rondo
+157,2,4:31.0,45,35,SAC,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,D. Cousins
+158,2,4:31.0,45,35,SAC,IND,0,away,Sub,,,,,J. Hill,M. Turner
+159,2,4:31.0,45,35,SAC,IND,0,home,Sub,,,,,B. McLemore,D. Collison
+160,2,4:31.0,45,35,SAC,IND,0,away,Sub,,,,,P. George,C. Miles
+161,2,4:31.0,46,35,SAC,IND,0,home,FreeThrow,,,make1,1,D. Cousins,
+162,2,4:18.0,46,35,SAC,IND,13,away,JS,,12,miss2,0,J. Young,
+163,2,4:17.0,46,35,SAC,IND,1,home,DefReb,,,DefReb,,W. Cauley-Stein,
+164,2,4:07.0,46,35,SAC,IND,10,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Cousins,J. Young
+165,2,4:07.0,46,35,SAC,IND,0,home,OffensiveFoul,,,turnover,,D. Cousins,
+166,2,3:56.0,46,37,SAC,IND,11,away,JS,,22,make2,2,M. Ellis,
+167,2,3:46.0,46,37,SAC,IND,10,home,JS,block,9,miss2,0,D. Cousins,P. George
+168,2,3:46.0,46,37,SAC,IND,0,home,OffReb,,,OffReb,,Team,
+169,2,3:32.0,46,37,SAC,IND,14,home,HS,,7,miss2,0,W. Cauley-Stein,
+170,2,3:31.0,46,37,SAC,IND,1,away,DefReb,,,DefReb,,J. Hill,
+171,2,3:18.0,46,37,SAC,IND,13,away,JS,,18,miss2,0,J. Young,
+172,2,3:17.0,46,37,SAC,IND,1,away,OffReb,,,OffReb,,L. Allen,
+173,2,3:11.0,46,37,SAC,IND,6,away,JS,,24,miss3,0,P. George,
+174,2,3:10.0,46,37,SAC,IND,1,home,DefReb,,,DefReb,,O. Casspi,
+175,2,2:55.0,46,37,SAC,IND,15,home,JS,,25,miss3,0,D. Cousins,
+176,2,2:55.0,46,37,SAC,IND,0,home,OffReb,,,OffReb,,R. Rondo,
+177,2,2:55.0,46,37,SAC,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,R. Rondo
+178,2,2:55.0,46,37,SAC,IND,0,home,Timeout,,,,,,
+179,2,2:55.0,46,37,SAC,IND,0,away,Sub,,,,,G. Hill,J. Young
+180,2,2:55.0,47,37,SAC,IND,0,home,FreeThrow,,,make1,1,R. Rondo,
+181,2,2:55.0,48,37,SAC,IND,0,home,FreeThrow,,,make1,1,R. Rondo,
+182,2,2:39.0,48,37,SAC,IND,16,away,BadPass,steal,,turnover,,P. George,R. Rondo
+183,2,2:34.0,48,37,SAC,IND,5,home,LostBall,steal,,turnover,,O. Casspi,M. Ellis
+184,2,2:26.0,48,40,SAC,IND,8,away,JS,assist,24,make3,3,P. George,M. Ellis
+185,2,2:08.0,48,40,SAC,IND,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Hill,D. Cousins
+186,2,1:59.0,48,40,SAC,IND,9,home,Traveling,,,turnover,,R. Rondo,
+187,2,1:49.0,48,42,SAC,IND,10,away,LU,assist,1,make2,2,L. Allen,M. Ellis
+188,2,1:28.0,48,42,SAC,IND,21,home,JS,,26,miss3,0,O. Casspi,
+189,2,1:26.0,48,42,SAC,IND,2,home,OffReb,,,OffReb,,B. McLemore,
+190,2,1:26.0,50,42,SAC,IND,0,home,LU,,2,make2,2,B. McLemore,
+191,2,1:00.0,50,42,SAC,IND,26,away,JS,,10,miss2,0,G. Hill,
+192,2,1:00.0,50,42,SAC,IND,0,away,OffReb,,,OffReb,,L. Allen,
+193,2,0:46.0,50,42,SAC,IND,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,J. Hill
+194,2,0:46.0,50,42,SAC,IND,0,away,FreeThrow,,,make1,0,J. Hill,
+195,2,0:46.0,50,42,SAC,IND,0,away,OffReb,,,OffReb,,Team,
+196,2,0:46.0,50,42,SAC,IND,0,home,Sub,,,,,K. Koufos,D. Cousins
+197,2,0:46.0,50,43,SAC,IND,0,away,FreeThrow,,,make1,1,J. Hill,
+198,2,0:33.0,50,43,SAC,IND,13,home,JS,,24,miss3,0,B. McLemore,
+199,2,0:32.0,50,43,SAC,IND,1,away,DefReb,,,DefReb,,M. Ellis,
+200,2,0:28.0,50,45,SAC,IND,4,away,DK,assist,0,make2,2,G. Hill,M. Ellis
+201,2,0:02.0,50,45,SAC,IND,26,home,JS,,11,miss2,0,R. Rondo,
+202,2,0:01.0,50,45,SAC,IND,1,away,DefReb,,,DefReb,,J. Hill,
+203,3,11:37.0,50,45,SAC,IND,23,away,JS,,19,miss2,0,P. George,
+204,3,11:36.0,50,45,SAC,IND,1,home,DefReb,,,DefReb,,D. Cousins,
+205,3,11:27.0,50,45,SAC,IND,9,home,JS,block,7,miss2,0,B. McLemore,P. George
+206,3,11:25.0,50,45,SAC,IND,2,home,OffReb,,,OffReb,,W. Cauley-Stein,
+207,3,11:25.0,52,45,SAC,IND,0,home,DK,,0,make2,2,W. Cauley-Stein,
+208,3,11:25.0,52,45,SAC,IND,0,home,TechnicalFoul,,,TechnicalFoul,,Team,
+209,3,11:25.0,52,46,SAC,IND,0,away,FreeThrow,,,make1,1,P. George makes technical free throw,
+210,3,11:11.0,52,48,SAC,IND,14,away,HS,assist,6,make2,2,L. Allen,M. Ellis
+211,3,10:59.0,52,48,SAC,IND,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hill,D. Cousins
+212,3,10:59.0,53,48,SAC,IND,0,home,FreeThrow,,,make1,1,D. Cousins,
+213,3,10:59.0,53,48,SAC,IND,0,home,FreeThrow,,,make1,0,D. Cousins,
+214,3,10:58.0,53,48,SAC,IND,1,away,DefReb,,,DefReb,,J. Hill,
+215,3,10:47.0,53,48,SAC,IND,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. McLemore,G. Robinson
+216,3,10:41.0,53,48,SAC,IND,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. McLemore,M. Ellis
+217,3,10:41.0,53,50,SAC,IND,0,away,JS,assist,20,make2,2,M. Ellis,J. Hill
+218,3,10:41.0,53,50,SAC,IND,0,away,FreeThrow,,,make1,0,M. Ellis,
+219,3,10:40.0,53,50,SAC,IND,1,home,DefReb,,,DefReb,,W. Cauley-Stein,
+220,3,10:26.0,55,50,SAC,IND,14,home,HS,,6,make2,2,O. Casspi,
+221,3,10:11.0,55,50,SAC,IND,15,away,JS,,16,miss2,0,L. Allen,
+222,3,10:11.0,55,50,SAC,IND,0,home,DefReb,,,DefReb,,W. Cauley-Stein,
+223,3,9:58.0,55,50,SAC,IND,13,home,LU,,2,miss2,0,B. McLemore,
+224,3,9:58.0,55,50,SAC,IND,0,away,DefReb,,,DefReb,,J. Hill,
+225,3,9:47.0,55,52,SAC,IND,11,away,DK,assist,0,make2,2,J. Hill,L. Allen
+226,3,9:35.0,55,52,SAC,IND,12,home,JS,,4,miss2,0,D. Cousins,
+227,3,9:34.0,55,52,SAC,IND,1,home,OffReb,,,OffReb,,D. Cousins,
+228,3,9:28.0,55,52,SAC,IND,6,home,LU,,2,miss2,0,B. McLemore,
+229,3,9:27.0,55,52,SAC,IND,1,away,DefReb,,,DefReb,,J. Hill,
+230,3,9:19.0,55,52,SAC,IND,8,away,JS,,25,miss3,0,P. George,
+231,3,9:18.0,55,52,SAC,IND,1,home,DefReb,,,DefReb,,O. Casspi,
+232,3,9:12.0,55,52,SAC,IND,6,away,KickBallViolation,,,KickBallViolation,,J. Hill,
+233,3,9:03.0,57,52,SAC,IND,9,home,HS,assist,5,make2,2,D. Cousins,R. Rondo
+234,3,8:43.0,57,54,SAC,IND,20,away,DK,assist,0,make2,2,J. Hill,P. George
+235,3,8:25.0,59,54,SAC,IND,18,home,JS,,13,make2,2,D. Cousins,
+236,3,8:25.0,59,54,SAC,IND,0,home,JumpBallViolation,,,JumpBallViolation,,Team,
+237,3,8:14.0,59,54,SAC,IND,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Cauley-Stein,J. Hill
+238,3,7:59.0,59,54,SAC,IND,15,away,JS,,13,miss2,0,J. Hill,
+239,3,7:59.0,59,54,SAC,IND,0,away,OffReb,,,OffReb,,Team,
+240,3,7:59.0,59,54,SAC,IND,0,away,ShotClockViolation,,,turnover,,Team,
+241,3,7:51.0,59,54,SAC,IND,8,home,JS,,23,miss3,0,B. McLemore,
+242,3,7:51.0,59,54,SAC,IND,0,home,OffReb,,,OffReb,,W. Cauley-Stein,
+243,3,7:46.0,61,54,SAC,IND,5,home,LU,assist,3,make2,2,O. Casspi,W. Cauley-Stein
+244,3,7:38.0,61,54,SAC,IND,8,away,JS,block,14,miss2,0,P. George,R. Rondo
+245,3,7:36.0,61,54,SAC,IND,2,away,OffReb,,,OffReb,,P. George,
+246,3,7:34.0,61,56,SAC,IND,2,away,JS,,16,make2,2,P. George,
+247,3,7:31.0,61,56,SAC,IND,3,home,LU,block,2,miss2,0,W. Cauley-Stein,L. Allen
+248,3,7:31.0,61,56,SAC,IND,0,home,OffReb,,,OffReb,,Team,
+249,3,7:27.0,61,56,SAC,IND,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Allen,R. Rondo
+250,3,7:27.0,62,56,SAC,IND,0,home,FreeThrow,,,make1,1,R. Rondo,
+251,3,7:27.0,63,56,SAC,IND,0,home,FreeThrow,,,make1,1,R. Rondo,
+252,3,7:10.0,63,56,SAC,IND,17,away,LostBall,steal,,turnover,,M. Ellis,W. Cauley-Stein
+253,3,7:00.0,63,56,SAC,IND,10,home,JS,block,5,miss2,0,D. Cousins,L. Allen
+254,3,6:58.0,63,56,SAC,IND,2,away,DefReb,,,DefReb,,G. Robinson,
+255,3,6:57.0,63,56,SAC,IND,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,M. Ellis
+256,3,6:57.0,63,56,SAC,IND,0,away,Sub,,,,,G. Hill,G. Robinson
+257,3,6:46.0,63,56,SAC,IND,11,away,JS,,17,miss2,0,G. Hill,
+258,3,6:45.0,63,56,SAC,IND,1,away,OffReb,,,OffReb,,L. Allen,
+259,3,6:35.0,63,58,SAC,IND,10,away,JS,,16,make2,2,J. Hill,
+260,3,6:27.0,63,58,SAC,IND,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. George,D. Cousins
+261,3,6:27.0,63,58,SAC,IND,0,home,FreeThrow,,,make1,0,D. Cousins,
+262,3,6:27.0,63,58,SAC,IND,0,home,OffReb,,,OffReb,,Team,
+263,3,6:27.0,63,58,SAC,IND,0,home,Sub,,,,,K. Koufos,W. Cauley-Stein
+264,3,6:27.0,64,58,SAC,IND,0,home,FreeThrow,,,make1,1,D. Cousins,
+265,3,6:17.0,64,60,SAC,IND,10,away,JS,,18,make2,2,M. Ellis,
+266,3,6:05.0,66,60,SAC,IND,12,home,DK,assist,0,make2,2,K. Koufos,D. Cousins
+267,3,5:53.0,66,60,SAC,IND,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,L. Allen,R. Rondo
+268,3,5:53.0,66,60,SAC,IND,0,away,OffensiveFoul,,,turnover,,L. Allen,
+269,3,5:53.0,66,60,SAC,IND,0,home,Timeout,,,,,,
+270,3,5:53.0,66,60,SAC,IND,0,home,Sub,,,,,J. Anderson,O. Casspi
+271,3,5:53.0,66,60,SAC,IND,0,home,Sub,,,,,D. Collison,B. McLemore
+272,3,5:53.0,66,60,SAC,IND,0,away,Sub,,,,,M. Turner,L. Allen
+273,3,5:34.0,66,60,SAC,IND,19,home,HS,,6,miss2,0,D. Cousins,
+274,3,5:33.0,66,60,SAC,IND,1,away,DefReb,,,DefReb,,M. Turner,
+275,3,5:22.0,66,62,SAC,IND,11,away,JS,,18,make2,2,P. George,
+276,3,5:04.0,69,62,SAC,IND,18,home,JS,assist,24,make3,3,D. Collison,D. Cousins
+277,3,4:52.0,69,64,SAC,IND,12,away,JS,assist,18,make2,2,J. Hill,M. Ellis
+278,3,4:38.0,71,64,SAC,IND,14,home,LU,,3,make2,2,D. Cousins,
+279,3,4:38.0,71,64,SAC,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hill,D. Cousins
+280,3,4:38.0,71,64,SAC,IND,0,home,FreeThrow,,,make1,0,D. Cousins,
+281,3,4:37.0,71,64,SAC,IND,1,away,DefReb,,,DefReb,,M. Turner,
+282,3,4:22.0,71,64,SAC,IND,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Anderson,P. George
+283,3,4:22.0,71,65,SAC,IND,0,away,FreeThrow,,,make1,1,P. George,
+284,3,4:22.0,71,66,SAC,IND,0,away,FreeThrow,,,make1,1,P. George,
+285,3,4:16.0,71,66,SAC,IND,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,K. Koufos
+286,3,4:16.0,72,66,SAC,IND,0,home,FreeThrow,,,make1,1,K. Koufos,
+287,3,4:16.0,72,66,SAC,IND,0,home,FreeThrow,,,make1,0,K. Koufos,
+288,3,4:16.0,72,66,SAC,IND,0,away,DefReb,,,DefReb,,P. George,
+289,3,4:03.0,72,68,SAC,IND,13,away,JS,,18,make2,2,P. George,
+290,3,3:50.0,72,68,SAC,IND,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. George,D. Cousins
+291,3,3:50.0,72,68,SAC,IND,0,home,FreeThrow,,,make1,0,D. Cousins,
+292,3,3:50.0,72,68,SAC,IND,0,home,OffReb,,,OffReb,,Team,
+293,3,3:50.0,73,68,SAC,IND,0,home,FreeThrow,,,make1,1,D. Cousins,
+294,3,3:35.0,73,68,SAC,IND,15,away,JS,,17,miss2,0,P. George,
+295,3,3:33.0,73,68,SAC,IND,2,home,DefReb,,,DefReb,,K. Koufos,
+296,3,3:28.0,73,68,SAC,IND,5,home,LU,block,4,miss2,0,J. Anderson,M. Turner
+297,3,3:26.0,73,68,SAC,IND,2,away,DefReb,,,DefReb,,P. George,
+298,3,3:09.0,73,68,SAC,IND,17,away,LostBall,steal,,turnover,,M. Ellis,D. Collison
+299,3,3:06.0,73,68,SAC,IND,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hill,K. Koufos
+300,3,3:06.0,73,68,SAC,IND,0,away,TechnicalFoul,,,TechnicalFoul,,Team,
+301,3,3:06.0,74,68,SAC,IND,0,home,FreeThrow,,,make1,1,D. Collison makes technical free throw,
+302,3,3:06.0,75,68,SAC,IND,0,home,FreeThrow,,,make1,1,K. Koufos,
+303,3,3:06.0,75,68,SAC,IND,0,away,Timeout,,,,,,
+304,3,3:06.0,75,68,SAC,IND,0,home,Sub,,,,,M. Belinelli,R. Rondo
+305,3,3:06.0,75,68,SAC,IND,0,away,Sub,,,,,C. Miles,P. George
+306,3,3:06.0,76,68,SAC,IND,0,home,FreeThrow,,,make1,1,K. Koufos,
+307,3,2:50.0,76,68,SAC,IND,16,away,HS,,8,miss2,0,M. Turner,
+308,3,2:49.0,76,68,SAC,IND,1,home,DefReb,,,DefReb,,J. Anderson,
+309,3,2:28.0,76,68,SAC,IND,21,home,JS,,9,miss2,0,K. Koufos,
+310,3,2:27.0,76,68,SAC,IND,1,home,OffReb,,,OffReb,,Team,
+311,3,2:06.0,76,68,SAC,IND,21,home,JS,,24,miss3,0,M. Belinelli,
+312,3,2:05.0,76,68,SAC,IND,1,away,DefReb,,,DefReb,,M. Ellis,
+313,3,1:45.0,76,68,SAC,IND,20,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Koufos,G. Hill
+314,3,1:45.0,76,69,SAC,IND,0,away,FreeThrow,,,make1,1,G. Hill,
+315,3,1:45.0,76,69,SAC,IND,0,away,Sub,,,,,J. Young,M. Ellis
+316,3,1:45.0,76,69,SAC,IND,0,away,FreeThrow,,,make1,0,G. Hill,
+317,3,1:44.0,76,69,SAC,IND,1,home,DefReb,,,DefReb,,K. Koufos,
+318,3,1:33.0,76,69,SAC,IND,11,home,JS,,19,miss2,0,D. Collison,
+319,3,1:33.0,76,69,SAC,IND,0,away,DefReb,,,DefReb,,C. Miles,
+320,3,1:18.0,76,69,SAC,IND,15,away,JS,,17,miss2,0,C. Miles,
+321,3,1:16.0,76,69,SAC,IND,2,home,DefReb,,,DefReb,,Team,
+322,3,1:00.0,76,69,SAC,IND,16,home,JS,,11,miss2,0,M. Belinelli,
+323,3,1:00.0,76,69,SAC,IND,0,away,DefReb,,,DefReb,,Team,
+324,3,1:00.0,76,69,SAC,IND,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Cousins,M. Turner
+325,3,1:00.0,76,70,SAC,IND,0,away,FreeThrow,,,make1,1,M. Turner,
+326,3,1:00.0,76,70,SAC,IND,0,home,Sub,,,,,W. Cauley-Stein,D. Cousins
+327,3,1:00.0,76,70,SAC,IND,0,away,FreeThrow,,,make1,0,M. Turner,
+328,3,0:57.0,76,70,SAC,IND,3,home,DefReb,,,DefReb,,Team,
+329,3,0:47.0,78,70,SAC,IND,10,home,JS,assist,20,make2,2,M. Belinelli,K. Koufos
+330,3,0:37.0,78,70,SAC,IND,10,away,JS,,11,miss2,0,G. Hill,
+331,3,0:36.0,78,70,SAC,IND,1,home,DefReb,,,DefReb,,J. Anderson,
+332,3,0:29.0,81,70,SAC,IND,7,home,JS,assist,23,make3,3,D. Collison,J. Anderson
+333,3,0:05.0,81,70,SAC,IND,24,away,JS,,8,miss2,0,J. Young,
+334,3,0:04.0,81,70,SAC,IND,1,home,DefReb,,,DefReb,,K. Koufos,
+335,3,0:01.0,81,70,SAC,IND,3,home,LU,,1,miss2,0,M. Belinelli,
+336,3,0:00.0,81,70,SAC,IND,1,away,DefReb,,,DefReb,,J. Hill,
+337,4,11:46.0,81,70,SAC,IND,14,home,JS,,25,miss3,0,M. Belinelli,
+338,4,11:46.0,81,70,SAC,IND,0,away,DefReb,,,DefReb,,M. Turner,
+339,4,11:25.0,81,70,SAC,IND,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Collison,G. Hill
+340,4,11:25.0,81,71,SAC,IND,0,away,FreeThrow,,,make1,1,G. Hill,
+341,4,11:25.0,81,72,SAC,IND,0,away,FreeThrow,,,make1,1,G. Hill,
+342,4,11:11.0,81,72,SAC,IND,14,home,JS,,8,miss2,0,K. Koufos,
+343,4,11:11.0,81,72,SAC,IND,0,away,DefReb,,,DefReb,,J. Young,
+344,4,11:03.0,81,72,SAC,IND,8,away,JS,,25,miss3,0,C. Miles,
+345,4,11:03.0,81,72,SAC,IND,0,home,DefReb,,,DefReb,,M. Belinelli,
+346,4,10:50.0,81,72,SAC,IND,13,home,BadPass,steal,,turnover,,K. Koufos,J. Young
+347,4,10:43.0,81,72,SAC,IND,7,away,LU,block,2,miss2,0,J. Young,J. Anderson
+348,4,10:41.0,81,72,SAC,IND,2,home,DefReb,,,DefReb,,W. Cauley-Stein,
+349,4,10:34.0,81,72,SAC,IND,7,home,JS,,24,miss3,0,J. Anderson,
+350,4,10:33.0,81,72,SAC,IND,1,away,DefReb,,,DefReb,,Team,
+351,4,10:33.0,81,72,SAC,IND,0,away,Sub,,,,,J. Hill,M. Turner
+352,4,10:33.0,81,72,SAC,IND,0,home,Sub,,,,,O. Casspi,W. Cauley-Stein
+353,4,10:14.0,81,74,SAC,IND,19,away,JS,assist,7,make2,2,L. Allen,G. Hill
+354,4,9:57.0,81,74,SAC,IND,17,home,JS,,16,miss2,0,D. Collison,
+355,4,9:57.0,81,74,SAC,IND,0,away,DefReb,,,DefReb,,C. Miles,
+356,4,9:44.0,81,74,SAC,IND,13,away,LU,,4,miss2,0,C. Miles,
+357,4,9:43.0,81,74,SAC,IND,1,home,DefReb,,,DefReb,,O. Casspi,
+358,4,9:38.0,81,74,SAC,IND,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Hill,D. Collison
+359,4,9:38.0,81,74,SAC,IND,0,away,Sub,,,,,P. George,C. Miles
+360,4,9:38.0,81,74,SAC,IND,0,away,Sub,,,,,M. Turner,L. Allen
+361,4,9:30.0,81,74,SAC,IND,8,home,LU,,3,miss2,0,D. Collison,
+362,4,9:29.0,81,74,SAC,IND,1,home,OffReb,,,OffReb,,K. Koufos,
+363,4,9:28.0,83,74,SAC,IND,1,home,LU,,3,make2,2,K. Koufos,
+364,4,9:18.0,83,74,SAC,IND,10,away,JS,,3,miss2,0,P. George,
+365,4,9:17.0,83,74,SAC,IND,1,away,OffReb,,,OffReb,,J. Hill,
+366,4,9:16.0,83,76,SAC,IND,1,away,JS,,4,make2,2,J. Hill,
+367,4,9:01.0,83,76,SAC,IND,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Hill,M. Belinelli
+368,4,9:01.0,84,76,SAC,IND,0,home,FreeThrow,,,make1,1,M. Belinelli,
+369,4,9:01.0,84,76,SAC,IND,0,home,Timeout,,,,,,
+370,4,9:01.0,84,76,SAC,IND,0,home,Sub,,,,,D. Cousins,J. Anderson
+371,4,9:01.0,84,76,SAC,IND,0,away,Sub,,,,,M. Ellis,G. Hill
+372,4,9:01.0,85,76,SAC,IND,0,home,FreeThrow,,,make1,1,M. Belinelli,
+373,4,9:01.0,86,76,SAC,IND,0,home,FreeThrow,,,make1,1,M. Belinelli,
+374,4,8:43.0,86,79,SAC,IND,18,away,JS,assist,24,make3,3,P. George,M. Ellis
+375,4,8:26.0,88,79,SAC,IND,17,home,JS,,9,make2,2,D. Cousins,
+376,4,8:16.0,88,79,SAC,IND,10,away,JS,,13,miss2,0,M. Ellis,
+377,4,8:16.0,88,79,SAC,IND,0,home,DefReb,,,DefReb,,O. Casspi,
+378,4,8:03.0,90,79,SAC,IND,13,home,LU,,2,make2,2,D. Cousins,
+379,4,7:45.0,90,79,SAC,IND,18,away,JS,,9,miss2,0,P. George,
+380,4,7:44.0,90,79,SAC,IND,1,home,DefReb,,,DefReb,,Team,
+381,4,7:29.0,90,79,SAC,IND,15,home,LostBall,steal,,turnover,,D. Cousins,J. Young
+382,4,7:20.0,90,81,SAC,IND,9,away,LU,assist,4,make2,2,M. Turner,J. Young
+383,4,7:08.0,90,81,SAC,IND,12,home,JS,,18,miss2,0,M. Belinelli,
+384,4,7:07.0,90,81,SAC,IND,1,away,DefReb,,,DefReb,,J. Hill,
+385,4,6:53.0,90,81,SAC,IND,14,away,Sub,,,,,L. Allen,J. Hill
+386,4,6:51.0,90,81,SAC,IND,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Casspi,P. George
+387,4,6:51.0,90,82,SAC,IND,0,away,FreeThrow,,,make1,1,P. George,
+388,4,6:51.0,90,83,SAC,IND,0,away,FreeThrow,,,make1,1,P. George,
+389,4,6:51.0,90,83,SAC,IND,0,home,Sub,,,,,R. Rondo,D. Collison
+390,4,6:51.0,90,84,SAC,IND,0,away,FreeThrow,,,make1,1,P. George,
+391,4,6:33.0,92,84,SAC,IND,18,home,HS,,5,make2,2,D. Cousins,
+392,4,6:17.0,92,84,SAC,IND,16,away,PersonalFoul,,,,,M. Belinelli,
+393,4,6:17.0,92,84,SAC,IND,0,away,Timeout,,,,,,
+394,4,6:17.0,92,84,SAC,IND,0,home,Sub,,,,,W. Cauley-Stein,K. Koufos
+395,4,6:17.0,92,84,SAC,IND,0,away,Sub,,,,,G. Hill,J. Young
+396,4,6:09.0,92,84,SAC,IND,8,away,JS,,22,miss3,0,P. George,
+397,4,6:09.0,92,84,SAC,IND,0,home,DefReb,,,DefReb,,Team,
+398,4,6:01.0,92,84,SAC,IND,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Turner,D. Cousins
+399,4,5:50.0,92,84,SAC,IND,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Turner,D. Cousins
+400,4,5:50.0,92,84,SAC,IND,0,away,Sub,,,,,J. Hill,M. Turner
+401,4,5:41.0,92,84,SAC,IND,9,home,JS,,23,miss3,0,M. Belinelli,
+402,4,5:40.0,92,84,SAC,IND,1,away,DefReb,,,DefReb,,J. Hill,
+403,4,5:33.0,92,84,SAC,IND,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Casspi,P. George
+404,4,5:22.0,92,86,SAC,IND,11,away,JS,,16,make2,2,P. George,
+405,4,5:06.0,94,86,SAC,IND,16,home,JS,assist,8,make2,2,D. Cousins,R. Rondo
+406,4,4:46.0,94,86,SAC,IND,20,away,JS,,22,miss3,0,G. Hill,
+407,4,4:46.0,94,86,SAC,IND,0,home,DefReb,,,DefReb,,R. Rondo,
+408,4,4:37.0,94,86,SAC,IND,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hill,D. Cousins
+409,4,4:37.0,95,86,SAC,IND,0,home,FreeThrow,,,make1,1,D. Cousins,
+410,4,4:37.0,95,86,SAC,IND,0,home,Sub,,,,,D. Collison,M. Belinelli
+411,4,4:37.0,95,86,SAC,IND,0,home,FreeThrow,,,make1,0,D. Cousins,
+412,4,4:36.0,95,86,SAC,IND,1,away,DefReb,,,DefReb,,J. Hill,
+413,4,4:23.0,95,89,SAC,IND,13,away,JS,,24,make3,3,P. George,
+414,4,4:04.0,97,89,SAC,IND,19,home,LU,assist,2,make2,2,D. Cousins,R. Rondo
+415,4,3:49.0,97,89,SAC,IND,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Casspi,P. George
+416,4,3:49.0,97,90,SAC,IND,0,away,FreeThrow,,,make1,1,P. George,
+417,4,3:49.0,97,90,SAC,IND,0,home,Sub,,,,,J. Anderson,O. Casspi
+418,4,3:49.0,97,91,SAC,IND,0,away,FreeThrow,,,make1,1,P. George,
+419,4,3:27.0,97,91,SAC,IND,22,home,JS,,20,miss2,0,D. Collison,
+420,4,3:26.0,97,91,SAC,IND,1,away,DefReb,,,DefReb,,L. Allen,
+421,4,3:15.0,97,91,SAC,IND,11,away,JS,,3,miss2,0,P. George,
+422,4,3:13.0,97,91,SAC,IND,2,home,DefReb,,,DefReb,,R. Rondo,
+423,4,3:08.0,99,91,SAC,IND,5,home,LU,assist,2,make2,2,D. Collison,R. Rondo
+424,4,2:55.0,99,91,SAC,IND,13,away,JS,,20,miss2,0,G. Hill,
+425,4,2:54.0,99,91,SAC,IND,1,home,DefReb,,,DefReb,,D. Cousins,
+426,4,2:50.0,99,91,SAC,IND,4,home,LU,,3,miss2,0,W. Cauley-Stein,
+427,4,2:48.0,99,91,SAC,IND,2,home,OffReb,,,OffReb,,D. Collison,
+428,4,2:48.0,101,91,SAC,IND,0,home,LU,,2,make2,2,D. Collison,
+429,4,2:48.0,101,91,SAC,IND,0,away,Timeout,,,,,,
+430,4,2:48.0,101,91,SAC,IND,0,away,Timeout,,,,,,
+431,4,2:48.0,101,91,SAC,IND,0,away,Sub,,,,,M. Turner,J. Hill
+432,4,2:33.0,101,91,SAC,IND,15,away,JS,,23,miss3,0,M. Ellis,
+433,4,2:32.0,101,91,SAC,IND,1,home,DefReb,,,DefReb,,W. Cauley-Stein,
+434,4,2:11.0,101,91,SAC,IND,21,home,JS,block,4,miss2,0,D. Cousins,M. Turner
+435,4,2:10.0,101,91,SAC,IND,1,away,DefReb,,,DefReb,,L. Allen,
+436,4,2:04.0,101,91,SAC,IND,6,away,LU,,3,miss2,0,M. Turner,
+437,4,2:03.0,101,91,SAC,IND,1,home,DefReb,,,DefReb,,R. Rondo,
+438,4,2:00.0,101,91,SAC,IND,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Allen,D. Cousins
+439,4,2:00.0,102,91,SAC,IND,0,home,FreeThrow,,,make1,1,D. Cousins,
+440,4,2:00.0,102,91,SAC,IND,0,home,FreeThrow,,,make1,0,D. Cousins,
+441,4,1:59.0,102,91,SAC,IND,1,away,DefReb,,,DefReb,,L. Allen,
+442,4,1:38.0,102,91,SAC,IND,21,away,JS,,24,miss3,0,M. Turner,
+443,4,1:37.0,102,91,SAC,IND,1,home,DefReb,,,DefReb,,D. Cousins,
+444,4,1:23.0,102,91,SAC,IND,14,home,OutOfBounds,,,turnover,,D. Cousins,
+445,4,1:23.0,102,91,SAC,IND,0,home,TechnicalFoul,,,TechnicalFoul,,D. Cousins,
+446,4,1:23.0,102,91,SAC,IND,0,away,FreeThrow,,,make1,0,P. George misses technical free throw,
+447,4,1:23.0,102,91,SAC,IND,0,away,OffReb,,,OffReb,,Team,
+448,4,1:09.0,102,91,SAC,IND,14,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Cousins,L. Allen
+449,4,1:09.0,102,92,SAC,IND,0,away,FreeThrow,,,make1,1,L. Allen,
+450,4,1:09.0,102,92,SAC,IND,0,away,FreeThrow,,,make1,0,L. Allen,
+451,4,1:07.0,102,92,SAC,IND,2,home,DefReb,,,DefReb,,D. Cousins,
+452,4,0:45.0,102,92,SAC,IND,22,home,ShotClockViolation,,,turnover,,Team,
+453,4,0:45.0,102,92,SAC,IND,0,away,Timeout,,,,,,
+454,4,0:37.0,102,92,SAC,IND,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Anderson,P. George
+455,4,0:37.0,102,93,SAC,IND,0,away,FreeThrow,,,make1,1,P. George,
+456,4,0:37.0,102,94,SAC,IND,0,away,FreeThrow,,,make1,1,P. George,
+457,4,0:37.0,102,94,SAC,IND,0,away,FreeThrow,,,make1,0,P. George,
+458,4,0:37.0,102,94,SAC,IND,0,home,DefReb,,,DefReb,,R. Rondo,
+459,4,0:31.0,102,94,SAC,IND,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ellis,R. Rondo
+460,4,0:31.0,102,94,SAC,IND,0,home,FreeThrow,,,make1,0,R. Rondo,
+461,4,0:31.0,102,94,SAC,IND,0,home,OffReb,,,OffReb,,Team,
+462,4,0:31.0,103,94,SAC,IND,0,home,FreeThrow,,,make1,1,R. Rondo,
+463,4,0:31.0,103,94,SAC,IND,0,away,Timeout,,,,,,
+464,4,0:31.0,103,94,SAC,IND,0,away,Sub,,,,,J. Young,L. Allen
+465,4,0:28.0,103,94,SAC,IND,3,away,JS,,23,miss3,0,P. George,
+466,4,0:28.0,103,94,SAC,IND,0,home,DefReb,,,DefReb,,Team,
+467,4,0:28.0,103,94,SAC,IND,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,P. George,D. Cousins
+468,4,0:28.0,104,94,SAC,IND,0,home,FreeThrow,,,make1,1,D. Cousins,
+469,4,0:28.0,104,94,SAC,IND,0,away,Sub,,,,,C. Miles,P. George
+470,4,0:28.0,104,94,SAC,IND,0,away,Sub,,,,,L. Allen,M. Ellis
+471,4,0:28.0,104,94,SAC,IND,0,home,FreeThrow,,,make1,0,D. Cousins,
+472,4,0:27.0,104,94,SAC,IND,1,home,OffReb,,,OffReb,,W. Cauley-Stein,
+473,4,0:25.0,104,94,SAC,IND,2,home,BadPass,steal,,turnover,,W. Cauley-Stein,C. Miles
+474,4,0:21.0,104,97,SAC,IND,4,away,JS,assist,25,make3,3,G. Hill,C. Miles
+475,4,0:20.0,104,97,SAC,IND,1,home,PersonalFoul,,,,,J. Young,
+476,4,0:20.0,105,97,SAC,IND,0,home,FreeThrow,,,make1,1,D. Cousins,
+477,4,0:20.0,105,97,SAC,IND,0,away,Sub,,,,,J. Hill,L. Allen
+478,4,0:20.0,106,97,SAC,IND,0,home,FreeThrow,,,make1,1,D. Cousins,
+479,4,0:19.0,106,97,SAC,IND,1,away,BadPass,steal,,turnover,,J. Hill,R. Rondo
+480,4,0:18.0,106,97,SAC,IND,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Hill,R. Rondo
+481,4,0:18.0,107,97,SAC,IND,0,home,FreeThrow,,,make1,1,R. Rondo,
+482,4,0:18.0,107,97,SAC,IND,0,home,Sub,,,,,K. Koufos,D. Cousins
+483,4,0:18.0,107,97,SAC,IND,0,home,Sub,,,,,B. McLemore,W. Cauley-Stein
+484,4,0:18.0,108,97,SAC,IND,0,home,FreeThrow,,,make1,1,R. Rondo,
+485,4,0:10.0,108,97,SAC,IND,8,away,JS,,20,miss2,0,J. Young,
+486,4,0:10.0,108,97,SAC,IND,0,home,DefReb,,,DefReb,,D. Collison,

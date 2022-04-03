@@ -1,0 +1,465 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,0,0,LAL,LAC,19,home,JS,,11,miss2,0,C. Boozer,
+1,1,11:39.0,0,0,LAL,LAC,2,home,OffReb,,,OffReb,,J. Hill,
+2,1,11:39.0,0,0,LAL,LAC,0,home,TI,,1,miss2,0,J. Hill,
+3,1,11:36.0,0,0,LAL,LAC,3,away,DefReb,,,DefReb,,D. Jordan,
+4,1,11:21.0,0,0,LAL,LAC,15,away,JS,,16,miss2,0,B. Griffin,
+5,1,11:17.0,0,0,LAL,LAC,4,home,DefReb,,,DefReb,,W. Johnson,
+6,1,11:09.0,3,0,LAL,LAC,8,home,JS,assist,25,make3,3,J. Lin,C. Boozer
+7,1,10:55.0,3,0,LAL,LAC,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Hill,B. Griffin
+8,1,10:49.0,3,2,LAL,LAC,6,away,JS,assist,7,make2,2,C. Paul,B. Griffin
+9,1,10:36.0,3,2,LAL,LAC,13,home,JS,,17,miss2,0,W. Johnson,
+10,1,10:35.0,3,2,LAL,LAC,1,away,DefReb,,,DefReb,,Team,
+11,1,10:27.0,3,4,LAL,LAC,8,away,DK,assist,0,make2,2,D. Jordan,B. Griffin
+12,1,10:18.0,3,4,LAL,LAC,9,home,BadPass,steal,,turnover,,J. Lin,C. Paul
+13,1,10:12.0,3,6,LAL,LAC,6,away,DK,assist,0,make2,2,B. Griffin,C. Paul
+14,1,9:58.0,3,6,LAL,LAC,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,W. Johnson
+15,1,9:51.0,3,6,LAL,LAC,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Barnes,K. Bryant
+16,1,9:51.0,3,6,LAL,LAC,0,home,FreeThrow,,,make1,0,K. Bryant,
+17,1,9:51.0,3,6,LAL,LAC,0,home,OffReb,,,OffReb,,Team,
+18,1,9:51.0,4,6,LAL,LAC,0,home,FreeThrow,,,make1,1,K. Bryant,
+19,1,9:37.0,4,6,LAL,LAC,14,away,JS,,24,miss3,0,J. Redick,
+20,1,9:36.0,4,6,LAL,LAC,1,home,DefReb,,,DefReb,,W. Johnson,
+21,1,9:21.0,4,6,LAL,LAC,15,home,JS,,24,miss3,0,J. Lin,
+22,1,9:20.0,4,6,LAL,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
+23,1,9:12.0,4,9,LAL,LAC,8,away,JS,assist,23,make3,3,M. Barnes,J. Redick
+24,1,9:00.0,4,9,LAL,LAC,12,home,BadPass,,,turnover,,K. Bryant,
+25,1,8:49.0,4,9,LAL,LAC,11,away,JS,,23,miss3,0,M. Barnes,
+26,1,8:48.0,4,9,LAL,LAC,1,away,OffReb,,,OffReb,,D. Jordan,
+27,1,8:40.0,4,11,LAL,LAC,8,away,JS,assist,19,make2,2,B. Griffin,C. Paul
+28,1,8:23.0,4,11,LAL,LAC,17,home,BadPass,,,turnover,,J. Lin,
+29,1,8:22.0,4,11,LAL,LAC,1,away,BadPass,steal,,turnover,,M. Barnes,W. Johnson
+30,1,8:09.0,6,11,LAL,LAC,13,home,JS,assist,14,make2,2,C. Boozer,J. Lin
+31,1,8:05.0,6,11,LAL,LAC,4,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,W. Johnson,M. Barnes
+32,1,7:56.0,6,13,LAL,LAC,9,away,JS,assist,17,make2,2,B. Griffin,C. Paul
+33,1,7:44.0,6,13,LAL,LAC,12,home,Traveling,,,turnover,,C. Boozer,
+34,1,7:32.0,6,13,LAL,LAC,12,away,JS,,27,miss3,0,C. Paul,
+35,1,7:31.0,6,13,LAL,LAC,1,home,DefReb,,,DefReb,,J. Lin,
+36,1,7:21.0,8,13,LAL,LAC,10,home,DK,,0,make2,2,K. Bryant,
+37,1,7:02.0,8,15,LAL,LAC,19,away,JS,assist,20,make2,2,J. Redick,C. Paul
+38,1,6:47.0,8,15,LAL,LAC,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,J. Hill
+39,1,6:47.0,9,15,LAL,LAC,0,home,FreeThrow,,,make1,1,J. Hill,
+40,1,6:47.0,10,15,LAL,LAC,0,home,FreeThrow,,,make1,1,J. Hill,
+41,1,6:36.0,10,18,LAL,LAC,11,away,JS,assist,25,make3,3,J. Redick,C. Paul
+42,1,6:21.0,10,18,LAL,LAC,15,home,JS,,18,miss2,0,J. Hill,
+43,1,6:20.0,10,18,LAL,LAC,1,away,DefReb,,,DefReb,,Team,
+44,1,6:09.0,10,18,LAL,LAC,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Lin,J. Redick
+45,1,6:09.0,10,19,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Redick,
+46,1,6:09.0,10,20,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Redick,
+47,1,6:05.0,10,20,LAL,LAC,4,home,Timeout,,,,,,
+48,1,5:53.0,12,20,LAL,LAC,12,home,JS,,19,make2,2,K. Bryant,
+49,1,5:36.0,12,22,LAL,LAC,17,away,LU,assist,1,make2,2,J. Redick,C. Paul
+50,1,5:26.0,12,22,LAL,LAC,10,home,JS,,19,miss2,0,W. Johnson,
+51,1,5:25.0,12,22,LAL,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
+52,1,5:08.0,12,22,LAL,LAC,17,away,JS,,20,miss2,0,B. Griffin,
+53,1,5:07.0,12,22,LAL,LAC,1,home,DefReb,,,DefReb,,K. Bryant,
+54,1,4:58.0,12,22,LAL,LAC,9,home,JS,,17,miss2,0,C. Boozer,
+55,1,4:57.0,12,22,LAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+56,1,4:44.0,12,22,LAL,LAC,13,home,Sub,,,,,E. Davis,C. Boozer
+57,1,4:34.0,12,25,LAL,LAC,10,away,JS,assist,25,make3,3,B. Griffin,C. Paul
+58,1,4:19.0,12,25,LAL,LAC,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Barnes,K. Bryant
+59,1,4:19.0,12,25,LAL,LAC,0,away,Sub,,,,,C. Douglas-Roberts,M. Barnes
+60,1,4:04.0,12,25,LAL,LAC,15,home,LU,,2,miss2,0,J. Lin,
+61,1,4:02.0,12,25,LAL,LAC,2,home,OffReb,,,OffReb,,E. Davis,
+62,1,4:02.0,12,25,LAL,LAC,0,home,TI,,1,miss2,0,E. Davis,
+63,1,4:01.0,12,25,LAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+64,1,3:51.0,12,27,LAL,LAC,10,away,HS,,0,make2,2,B. Griffin,
+65,1,3:29.0,14,27,LAL,LAC,22,home,LU,assist,1,make2,2,J. Hill,K. Bryant
+66,1,3:18.0,14,27,LAL,LAC,11,away,BadPass,steal,,turnover,,J. Redick,J. Lin
+67,1,3:14.0,16,27,LAL,LAC,4,home,LU,,1,make2,2,J. Lin,
+68,1,3:05.0,16,27,LAL,LAC,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Bryant,C. Paul
+69,1,3:05.0,16,27,LAL,LAC,0,away,Sub,,,,,J. Crawford,J. Redick
+70,1,3:05.0,16,27,LAL,LAC,0,home,Sub,,,,,W. Ellington,K. Bryant
+71,1,3:05.0,16,27,LAL,LAC,0,away,Timeout,,,,,,
+72,1,2:52.0,16,27,LAL,LAC,13,away,JS,,24,miss3,0,J. Crawford,
+73,1,2:51.0,16,27,LAL,LAC,1,home,DefReb,,,DefReb,,J. Hill,
+74,1,2:28.0,18,27,LAL,LAC,23,home,JS,,10,make2,2,J. Lin,
+75,1,2:20.0,18,27,LAL,LAC,8,away,JS,,11,miss2,0,C. Paul,
+76,1,2:16.0,18,27,LAL,LAC,4,home,DefReb,,,DefReb,,E. Davis,
+77,1,2:10.0,20,27,LAL,LAC,6,home,JS,assist,17,make2,2,J. Hill,J. Lin
+78,1,1:47.0,20,27,LAL,LAC,23,away,JS,,23,miss3,0,C. Douglas-Roberts,
+79,1,1:46.0,20,27,LAL,LAC,1,home,DefReb,,,DefReb,,J. Lin,
+80,1,1:39.0,20,27,LAL,LAC,7,home,LU,block,1,miss2,0,J. Lin,D. Jordan
+81,1,1:37.0,20,27,LAL,LAC,2,away,DefReb,,,DefReb,,C. Paul,
+82,1,1:19.0,20,30,LAL,LAC,18,away,JS,assist,23,make3,3,C. Paul,J. Crawford
+83,1,1:01.0,20,30,LAL,LAC,18,home,JS,,19,miss2,0,J. Hill,
+84,1,1:00.0,20,30,LAL,LAC,1,away,DefReb,,,DefReb,,C. Douglas-Roberts,
+85,1,0:51.0,20,30,LAL,LAC,9,away,JS,,19,miss2,0,B. Griffin,
+86,1,0:50.0,20,30,LAL,LAC,1,away,OffReb,,,OffReb,,D. Jordan,
+87,1,0:49.0,20,30,LAL,LAC,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hill,D. Jordan
+88,1,0:49.0,20,30,LAL,LAC,0,away,FreeThrow,,,make1,0,D. Jordan,
+89,1,0:49.0,20,30,LAL,LAC,0,away,OffReb,,,OffReb,,Team,
+90,1,0:49.0,20,30,LAL,LAC,0,home,Sub,,,,,R. Price,J. Lin
+91,1,0:49.0,20,30,LAL,LAC,0,home,Sub,,,,,R. Sacre,J. Hill
+92,1,0:49.0,20,30,LAL,LAC,0,away,Sub,,,,,J. Farmar,C. Paul
+93,1,0:49.0,20,31,LAL,LAC,0,away,FreeThrow,,,make1,1,D. Jordan,
+94,1,0:27.0,22,31,LAL,LAC,22,home,JS,assist,3,make2,2,E. Davis,R. Price
+95,1,0:03.0,22,31,LAL,LAC,24,away,ShotClockViolation,,,turnover,,Team,
+96,1,0:03.0,22,31,LAL,LAC,0,away,Sub,,,,,S. Hawes,D. Jordan
+97,1,0:00.0,22,31,LAL,LAC,3,home,JS,,24,miss3,0,W. Johnson,
+98,1,0:00.0,22,31,LAL,LAC,0,home,OffReb,,,OffReb,,Team,
+99,2,11:47.0,22,33,LAL,LAC,13,away,LU,assist,1,make2,2,S. Hawes,J. Crawford
+100,2,11:34.0,22,33,LAL,LAC,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crawford,W. Ellington
+101,2,11:27.0,24,33,LAL,LAC,7,home,JS,assist,16,make2,2,R. Sacre,R. Price
+102,2,11:09.0,24,36,LAL,LAC,18,away,JS,assist,25,make3,3,S. Hawes,J. Crawford
+103,2,10:44.0,24,36,LAL,LAC,25,home,JS,,25,miss3,0,R. Price,
+104,2,10:43.0,24,36,LAL,LAC,1,away,DefReb,,,DefReb,,S. Hawes,
+105,2,10:35.0,24,36,LAL,LAC,8,away,JS,,28,miss3,0,S. Hawes,
+106,2,10:34.0,24,36,LAL,LAC,1,home,DefReb,,,DefReb,,R. Price,
+107,2,10:28.0,26,36,LAL,LAC,6,home,LU,,2,make2,2,R. Price,
+108,2,10:15.0,26,36,LAL,LAC,13,away,JS,,23,miss3,0,C. Douglas-Roberts,
+109,2,10:14.0,26,36,LAL,LAC,1,home,DefReb,,,DefReb,,E. Davis,
+110,2,10:08.0,26,36,LAL,LAC,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Türkoğlu,R. Sacre
+111,2,10:08.0,26,36,LAL,LAC,0,away,Timeout,,,,,,
+112,2,10:08.0,27,36,LAL,LAC,0,home,FreeThrow,,,make1,1,R. Sacre,
+113,2,10:08.0,28,36,LAL,LAC,0,home,FreeThrow,,,make1,1,R. Sacre,
+114,2,9:55.0,28,38,LAL,LAC,13,away,JS,,20,make2,2,J. Crawford,
+115,2,9:55.0,28,38,LAL,LAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Ellington,J. Crawford
+116,2,9:55.0,28,39,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Crawford,
+117,2,9:41.0,28,39,LAL,LAC,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Douglas-Roberts,X. Henry
+118,2,9:41.0,28,39,LAL,LAC,0,home,FreeThrow,,,make1,0,X. Henry,
+119,2,9:41.0,28,39,LAL,LAC,0,home,OffReb,,,OffReb,,Team,
+120,2,9:41.0,29,39,LAL,LAC,0,home,FreeThrow,,,make1,1,X. Henry,
+121,2,9:25.0,29,39,LAL,LAC,16,away,JS,,24,miss3,0,J. Crawford,
+122,2,9:23.0,29,39,LAL,LAC,2,home,DefReb,,,DefReb,,R. Price,
+123,2,9:16.0,29,39,LAL,LAC,7,home,JS,,25,miss3,0,W. Ellington,
+124,2,9:15.0,29,39,LAL,LAC,1,away,DefReb,,,DefReb,,H. Türkoğlu,
+125,2,9:02.0,29,41,LAL,LAC,13,away,JS,assist,19,make2,2,J. Crawford,H. Türkoğlu
+126,2,8:45.0,29,41,LAL,LAC,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,H. Türkoğlu,E. Davis
+127,2,8:45.0,29,41,LAL,LAC,0,away,Timeout,,,,,,
+128,2,8:45.0,29,41,LAL,LAC,0,home,Sub,,,,,K. Bryant,W. Ellington
+129,2,8:32.0,31,41,LAL,LAC,13,home,JS,,18,make2,2,R. Price,
+130,2,8:17.0,31,41,LAL,LAC,15,away,JS,,22,miss3,0,J. Crawford,
+131,2,8:15.0,31,41,LAL,LAC,2,home,DefReb,,,DefReb,,K. Bryant,
+132,2,8:09.0,31,41,LAL,LAC,6,home,JS,,25,miss3,0,K. Bryant,
+133,2,8:07.0,31,41,LAL,LAC,2,away,DefReb,,,DefReb,,J. Farmar,
+134,2,8:01.0,31,44,LAL,LAC,6,away,JS,assist,26,make3,3,H. Türkoğlu,J. Farmar
+135,2,7:47.0,31,44,LAL,LAC,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Douglas-Roberts,K. Bryant
+136,2,7:47.0,32,44,LAL,LAC,0,home,FreeThrow,,,make1,1,K. Bryant,
+137,2,7:47.0,32,44,LAL,LAC,0,home,Sub,,,,,C. Boozer,E. Davis
+138,2,7:47.0,32,44,LAL,LAC,0,away,Sub,,,,,D. Jordan,H. Türkoğlu
+139,2,7:47.0,33,44,LAL,LAC,0,home,FreeThrow,,,make1,1,K. Bryant,
+140,2,7:25.0,33,44,LAL,LAC,22,away,JS,,26,miss3,0,J. Farmar,
+141,2,7:24.0,33,44,LAL,LAC,1,home,DefReb,,,DefReb,,R. Sacre,
+142,2,7:15.0,35,44,LAL,LAC,9,home,JS,,19,make2,2,R. Price,
+143,2,6:58.0,35,44,LAL,LAC,17,away,JS,,25,miss3,0,C. Douglas-Roberts,
+144,2,6:57.0,35,44,LAL,LAC,1,home,DefReb,,,DefReb,,R. Price,
+145,2,6:52.0,35,44,LAL,LAC,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Douglas-Roberts,X. Henry
+146,2,6:52.0,36,44,LAL,LAC,0,home,FreeThrow,,,make1,1,X. Henry,
+147,2,6:52.0,36,44,LAL,LAC,0,away,Sub,,,,,C. Paul,J. Farmar
+148,2,6:52.0,36,44,LAL,LAC,0,away,Sub,,,,,B. Griffin,C. Douglas-Roberts
+149,2,6:52.0,36,44,LAL,LAC,0,away,Sub,,,,,M. Barnes,S. Hawes
+150,2,6:52.0,36,44,LAL,LAC,0,home,Sub,,,,,J. Hill,R. Sacre
+151,2,6:52.0,36,44,LAL,LAC,0,home,FreeThrow,,,make1,0,X. Henry,
+152,2,6:51.0,36,44,LAL,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
+153,2,6:42.0,36,44,LAL,LAC,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Boozer,B. Griffin
+154,2,6:42.0,36,44,LAL,LAC,0,home,Sub,,,,,W. Johnson,X. Henry
+155,2,6:42.0,36,44,LAL,LAC,0,away,Sub,,,,,J. Redick,J. Crawford
+156,2,6:39.0,36,44,LAL,LAC,3,away,BadPass,,,turnover,,D. Jordan,
+157,2,6:28.0,36,44,LAL,LAC,11,home,Traveling,,,turnover,,K. Bryant,
+158,2,6:28.0,36,44,LAL,LAC,0,home,Sub,,,,,J. Lin,R. Price
+159,2,6:09.0,36,44,LAL,LAC,19,away,LU,block,2,miss2,0,B. Griffin,C. Boozer
+160,2,6:07.0,36,44,LAL,LAC,2,home,DefReb,,,DefReb,,W. Johnson,
+161,2,6:03.0,36,44,LAL,LAC,4,home,LostBall,steal,,turnover,,W. Johnson,J. Redick
+162,2,6:00.0,36,44,LAL,LAC,3,away,LostBall,steal,,turnover,,B. Griffin,K. Bryant
+163,2,5:53.0,38,44,LAL,LAC,7,home,LU,assist,0,make2,2,C. Boozer,K. Bryant
+164,2,5:47.0,38,44,LAL,LAC,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Johnson,C. Paul
+165,2,5:47.0,38,44,LAL,LAC,0,home,Timeout,,,,,,
+166,2,5:34.0,38,44,LAL,LAC,13,away,3sec,,,turnover,,D. Jordan,
+167,2,5:23.0,38,44,LAL,LAC,11,home,JS,,21,miss2,0,W. Johnson,
+168,2,5:22.0,38,44,LAL,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
+169,2,5:13.0,38,44,LAL,LAC,9,away,JS,,23,miss3,0,M. Barnes,
+170,2,5:12.0,38,44,LAL,LAC,1,home,DefReb,,,DefReb,,C. Boozer,
+171,2,5:04.0,38,44,LAL,LAC,8,home,JS,,25,miss3,0,J. Lin,
+172,2,5:04.0,38,44,LAL,LAC,0,away,DefReb,,,DefReb,,Team,
+173,2,5:04.0,38,44,LAL,LAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Hill,D. Jordan
+174,2,5:04.0,38,44,LAL,LAC,0,home,Sub,,,,,E. Davis,J. Hill
+175,2,4:56.0,38,44,LAL,LAC,8,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Paul,J. Lin
+176,2,4:56.0,38,44,LAL,LAC,0,away,OffensiveFoul,,,turnover,,C. Paul,
+177,2,4:45.0,38,44,LAL,LAC,11,home,BadPass,steal,,turnover,,J. Lin,C. Paul
+178,2,4:45.0,38,44,LAL,LAC,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Bryant,C. Paul
+179,2,4:45.0,38,44,LAL,LAC,0,away,TechnicalFoul,,,TechnicalFoul,,C. Paul,
+180,2,4:45.0,39,44,LAL,LAC,0,home,FreeThrow,,,make1,1,K. Bryant makes technical free throw,
+181,2,4:45.0,39,45,LAL,LAC,0,away,FreeThrow,,,make1,1,C. Paul,
+182,2,4:45.0,39,45,LAL,LAC,0,away,FreeThrow,,,make1,0,C. Paul,
+183,2,4:42.0,39,45,LAL,LAC,3,home,DefReb,,,DefReb,,C. Boozer,
+184,2,4:32.0,42,45,LAL,LAC,10,home,JS,assist,24,make3,3,K. Bryant,J. Lin
+185,2,4:25.0,42,45,LAL,LAC,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Boozer,C. Paul
+186,2,4:25.0,42,46,LAL,LAC,0,away,FreeThrow,,,make1,1,C. Paul,
+187,2,4:25.0,42,47,LAL,LAC,0,away,FreeThrow,,,make1,1,C. Paul,
+188,2,4:12.0,42,47,LAL,LAC,13,home,JS,,26,miss3,0,K. Bryant,
+189,2,4:11.0,42,47,LAL,LAC,1,home,OffReb,,,OffReb,,C. Boozer,
+190,2,3:59.0,44,47,LAL,LAC,12,home,HS,assist,4,make2,2,E. Davis,J. Lin
+191,2,3:43.0,44,49,LAL,LAC,16,away,DK,assist,0,make2,2,B. Griffin,J. Redick
+192,2,3:27.0,46,49,LAL,LAC,16,home,LU,,1,make2,2,C. Boozer,
+193,2,3:27.0,46,49,LAL,LAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,C. Boozer
+194,2,3:27.0,46,49,LAL,LAC,0,home,FreeThrow,,,make1,0,C. Boozer,
+195,2,3:26.0,46,49,LAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+196,2,3:10.0,46,49,LAL,LAC,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lin,C. Paul
+197,2,3:10.0,46,50,LAL,LAC,0,away,FreeThrow,,,make1,1,C. Paul,
+198,2,3:10.0,46,51,LAL,LAC,0,away,FreeThrow,,,make1,1,C. Paul,
+199,2,2:58.0,46,51,LAL,LAC,12,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,E. Davis,B. Griffin
+200,2,2:58.0,46,51,LAL,LAC,0,home,OffensiveFoul,,,turnover,,E. Davis,
+201,2,2:58.0,46,51,LAL,LAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,C. Paul
+202,2,2:58.0,46,51,LAL,LAC,0,away,Timeout,,,,,,
+203,2,2:58.0,46,52,LAL,LAC,0,away,FreeThrow,,,make1,1,C. Paul,
+204,2,2:58.0,46,53,LAL,LAC,0,away,FreeThrow,,,make1,1,C. Paul,
+205,2,2:39.0,46,53,LAL,LAC,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,C. Boozer
+206,2,2:39.0,47,53,LAL,LAC,0,home,FreeThrow,,,make1,1,C. Boozer,
+207,2,2:39.0,48,53,LAL,LAC,0,home,FreeThrow,,,make1,1,C. Boozer,
+208,2,2:26.0,48,53,LAL,LAC,13,away,JS,,26,miss3,0,C. Paul,
+209,2,2:25.0,48,53,LAL,LAC,1,away,OffReb,,,OffReb,,D. Jordan,
+210,2,2:22.0,48,55,LAL,LAC,3,away,DK,,0,make2,2,D. Jordan,
+211,2,2:10.0,50,55,LAL,LAC,12,home,DK,assist,0,make2,2,E. Davis,C. Boozer
+212,2,1:58.0,50,57,LAL,LAC,12,away,LU,,1,make2,2,B. Griffin,
+213,2,1:47.0,50,57,LAL,LAC,11,home,JS,,4,miss2,0,W. Johnson,
+214,2,1:46.0,50,57,LAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+215,2,1:38.0,50,57,LAL,LAC,8,away,HS,,4,miss2,0,B. Griffin,
+216,2,1:35.0,50,57,LAL,LAC,3,away,OffReb,,,OffReb,,M. Barnes,
+217,2,1:32.0,50,57,LAL,LAC,3,away,LostBall,steal,,turnover,,B. Griffin,K. Bryant
+218,2,1:26.0,50,57,LAL,LAC,6,home,LU,,2,miss2,0,C. Boozer,
+219,2,1:25.0,50,57,LAL,LAC,1,home,OffReb,,,OffReb,,C. Boozer,
+220,2,1:25.0,50,57,LAL,LAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,C. Boozer
+221,2,1:25.0,51,57,LAL,LAC,0,home,FreeThrow,,,make1,1,C. Boozer,
+222,2,1:25.0,51,57,LAL,LAC,0,home,FreeThrow,,,make1,0,C. Boozer,
+223,2,1:23.0,51,57,LAL,LAC,2,away,DefReb,,,DefReb,,D. Jordan,
+224,2,1:06.0,51,57,LAL,LAC,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,M. Barnes
+225,2,1:06.0,51,57,LAL,LAC,0,away,FreeThrow,,,make1,0,M. Barnes,
+226,2,1:06.0,51,57,LAL,LAC,0,away,OffReb,,,OffReb,,Team,
+227,2,1:06.0,51,57,LAL,LAC,0,home,Sub,,,,,R. Sacre,E. Davis
+228,2,1:06.0,51,58,LAL,LAC,0,away,FreeThrow,,,make1,1,M. Barnes,
+229,2,0:55.0,53,58,LAL,LAC,11,home,LU,,1,make2,2,K. Bryant,
+230,2,0:50.0,53,58,LAL,LAC,5,away,JS,,25,miss3,0,J. Redick,
+231,2,0:49.0,53,58,LAL,LAC,1,home,DefReb,,,DefReb,,Team,
+232,2,0:49.0,53,58,LAL,LAC,0,away,Sub,,,,,C. Douglas-Roberts,M. Barnes
+233,2,0:31.0,55,58,LAL,LAC,18,home,JS,,5,make2,2,J. Lin,
+234,2,0:09.0,55,61,LAL,LAC,22,away,JS,assist,23,make3,3,B. Griffin,C. Paul
+235,2,0:05.0,55,61,LAL,LAC,4,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,B. Griffin,K. Bryant
+236,2,0:05.0,55,61,LAL,LAC,0,home,FreeThrow,,,make1,0,K. Bryant,
+237,2,0:05.0,55,61,LAL,LAC,0,home,OffReb,,,OffReb,,Team,
+238,2,0:05.0,55,61,LAL,LAC,0,away,Sub,,,,,J. Crawford,B. Griffin
+239,2,0:05.0,55,61,LAL,LAC,0,away,Sub,,,,,S. Hawes,D. Jordan
+240,2,0:05.0,55,61,LAL,LAC,0,home,Sub,,,,,R. Price,R. Sacre
+241,2,0:05.0,56,61,LAL,LAC,0,home,FreeThrow,,,make1,1,K. Bryant,
+242,2,0:00.0,56,61,LAL,LAC,5,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,R. Price,S. Hawes
+243,2,0:00.0,56,61,LAL,LAC,0,away,FreeThrow,,,make1,0,S. Hawes,
+244,2,0:00.0,56,61,LAL,LAC,0,away,OffReb,,,OffReb,,Team,
+245,2,0:00.0,56,62,LAL,LAC,0,away,FreeThrow,,,make1,1,S. Hawes,
+246,3,11:43.0,56,62,LAL,LAC,17,away,HS,,7,miss2,0,B. Griffin,
+247,3,11:41.0,56,62,LAL,LAC,2,home,DefReb,,,DefReb,,C. Boozer,
+248,3,11:25.0,56,62,LAL,LAC,16,home,JS,,13,miss2,0,C. Boozer,
+249,3,11:23.0,56,62,LAL,LAC,2,away,DefReb,,,DefReb,,J. Redick,
+250,3,11:10.0,56,62,LAL,LAC,13,away,JS,,19,miss2,0,B. Griffin,
+251,3,11:09.0,56,62,LAL,LAC,1,home,DefReb,,,DefReb,,K. Bryant,
+252,3,11:01.0,56,62,LAL,LAC,8,home,JS,,13,miss2,0,K. Bryant,
+253,3,11:00.0,56,62,LAL,LAC,1,away,DefReb,,,DefReb,,J. Redick,
+254,3,10:48.0,56,62,LAL,LAC,12,away,LU,,2,miss2,0,C. Paul,
+255,3,10:47.0,56,62,LAL,LAC,1,home,DefReb,,,DefReb,,J. Hill,
+256,3,10:33.0,58,62,LAL,LAC,14,home,JS,assist,5,make2,2,J. Lin,K. Bryant
+257,3,10:15.0,58,62,LAL,LAC,18,away,JS,,19,miss2,0,B. Griffin,
+258,3,10:14.0,58,62,LAL,LAC,1,home,DefReb,,,DefReb,,W. Johnson,
+259,3,10:07.0,61,62,LAL,LAC,7,home,JS,assist,25,make3,3,W. Johnson,J. Lin
+260,3,9:40.0,61,62,LAL,LAC,27,away,JS,,26,miss3,0,J. Redick,
+261,3,9:39.0,61,62,LAL,LAC,1,home,DefReb,,,DefReb,,C. Boozer,
+262,3,9:29.0,63,62,LAL,LAC,10,home,LU,assist,1,make2,2,J. Hill,K. Bryant
+263,3,9:16.0,63,62,LAL,LAC,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Johnson,J. Redick
+264,3,9:04.0,63,65,LAL,LAC,12,away,JS,assist,23,make3,3,M. Barnes,B. Griffin
+265,3,8:49.0,65,65,LAL,LAC,15,home,DK,assist,0,make2,2,J. Hill,C. Boozer
+266,3,8:32.0,65,65,LAL,LAC,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Johnson,J. Redick
+267,3,8:32.0,65,66,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Redick,
+268,3,8:32.0,65,67,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Redick,
+269,3,8:13.0,68,67,LAL,LAC,19,home,JS,assist,26,make3,3,J. Lin,K. Bryant
+270,3,8:03.0,68,67,LAL,LAC,10,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Jordan,J. Lin
+271,3,8:03.0,68,67,LAL,LAC,0,away,OffensiveFoul,,,turnover,,D. Jordan,
+272,3,7:51.0,70,67,LAL,LAC,12,home,LU,,2,make2,2,K. Bryant,
+273,3,7:33.0,70,67,LAL,LAC,18,away,JS,,25,miss3,0,J. Redick,
+274,3,7:32.0,70,67,LAL,LAC,1,home,DefReb,,,DefReb,,C. Boozer,
+275,3,7:22.0,72,67,LAL,LAC,10,home,JS,assist,13,make2,2,J. Hill,K. Bryant
+276,3,7:21.0,72,67,LAL,LAC,1,away,Timeout,,,,,,
+277,3,7:09.0,72,67,LAL,LAC,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Boozer,B. Griffin
+278,3,7:00.0,72,67,LAL,LAC,9,away,JS,,26,miss3,0,C. Paul,
+279,3,6:59.0,72,67,LAL,LAC,1,home,DefReb,,,DefReb,,W. Johnson,
+280,3,6:39.0,74,67,LAL,LAC,20,home,JS,assist,15,make2,2,J. Hill,J. Lin
+281,3,6:20.0,74,67,LAL,LAC,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hill,B. Griffin
+282,3,6:20.0,74,67,LAL,LAC,0,away,FreeThrow,,,make1,0,B. Griffin,
+283,3,6:20.0,74,67,LAL,LAC,0,away,OffReb,,,OffReb,,Team,
+284,3,6:20.0,74,67,LAL,LAC,0,away,Sub,,,,,J. Crawford,J. Redick
+285,3,6:20.0,74,68,LAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+286,3,6:04.0,74,68,LAL,LAC,16,home,LU,,2,miss2,0,C. Boozer,
+287,3,6:03.0,74,68,LAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+288,3,5:56.0,74,68,LAL,LAC,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Boozer,B. Griffin
+289,3,5:56.0,74,69,LAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+290,3,5:56.0,74,70,LAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+291,3,5:39.0,76,70,LAL,LAC,17,home,JS,assist,20,make2,2,J. Hill,J. Lin
+292,3,5:27.0,76,72,LAL,LAC,12,away,HS,,3,make2,2,B. Griffin,
+293,3,5:11.0,76,72,LAL,LAC,16,home,LU,,1,miss2,0,C. Boozer,
+294,3,5:11.0,76,72,LAL,LAC,0,home,OffReb,,,OffReb,,J. Hill,
+295,3,5:11.0,76,72,LAL,LAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Jordan,J. Hill
+296,3,5:11.0,76,72,LAL,LAC,0,home,Sub,,,,,E. Davis,C. Boozer
+297,3,5:11.0,76,72,LAL,LAC,0,away,Sub,,,,,S. Hawes,D. Jordan
+298,3,4:52.0,76,72,LAL,LAC,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Barnes,K. Bryant
+299,3,4:52.0,76,72,LAL,LAC,0,home,FreeThrow,,,make1,0,K. Bryant,
+300,3,4:52.0,76,72,LAL,LAC,0,home,OffReb,,,OffReb,,Team,
+301,3,4:52.0,77,72,LAL,LAC,0,home,FreeThrow,,,make1,1,K. Bryant,
+302,3,4:45.0,77,72,LAL,LAC,7,home,KickBallViolation,,,KickBallViolation,,E. Davis,
+303,3,4:45.0,77,74,LAL,LAC,0,away,DK,assist,0,make2,2,B. Griffin,M. Barnes
+304,3,4:29.0,77,74,LAL,LAC,16,home,JS,,16,miss2,0,J. Hill,
+305,3,4:28.0,77,74,LAL,LAC,1,away,DefReb,,,DefReb,,C. Paul,
+306,3,4:08.0,77,74,LAL,LAC,20,away,LU,,2,miss2,0,S. Hawes,
+307,3,4:07.0,77,74,LAL,LAC,1,away,OffReb,,,OffReb,,B. Griffin,
+308,3,4:07.0,77,76,LAL,LAC,0,away,TI,,1,make2,2,B. Griffin,
+309,3,3:49.0,79,76,LAL,LAC,18,home,JS,,17,make2,2,W. Johnson,
+310,3,3:36.0,79,76,LAL,LAC,13,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,E. Davis,B. Griffin
+311,3,3:36.0,79,77,LAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+312,3,3:36.0,79,77,LAL,LAC,0,home,Sub,,,,,R. Sacre,E. Davis
+313,3,3:36.0,79,77,LAL,LAC,0,home,Sub,,,,,W. Ellington,K. Bryant
+314,3,3:36.0,79,77,LAL,LAC,0,away,Sub,,,,,C. Douglas-Roberts,M. Barnes
+315,3,3:36.0,79,78,LAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+316,3,3:24.0,79,78,LAL,LAC,12,home,JS,,25,miss3,0,J. Lin,
+317,3,3:22.0,79,78,LAL,LAC,2,home,OffReb,,,OffReb,,R. Sacre,
+318,3,3:22.0,81,78,LAL,LAC,0,home,DK,,0,make2,2,R. Sacre,
+319,3,3:12.0,81,78,LAL,LAC,10,away,Traveling,,,turnover,,B. Griffin,
+320,3,2:57.0,81,78,LAL,LAC,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Paul,R. Sacre
+321,3,2:57.0,81,78,LAL,LAC,0,home,Timeout,,,,,,
+322,3,2:57.0,81,78,LAL,LAC,0,home,Sub,,,,,J. Clarkson,W. Johnson
+323,3,2:57.0,82,78,LAL,LAC,0,home,FreeThrow,,,make1,1,R. Sacre,
+324,3,2:57.0,83,78,LAL,LAC,0,home,FreeThrow,,,make1,1,R. Sacre,
+325,3,2:41.0,83,78,LAL,LAC,16,away,JS,,14,miss2,0,J. Crawford,
+326,3,2:40.0,83,78,LAL,LAC,1,home,DefReb,,,DefReb,,J. Lin,
+327,3,2:27.0,85,78,LAL,LAC,13,home,LU,assist,1,make2,2,J. Hill,J. Lin
+328,3,2:14.0,85,78,LAL,LAC,13,away,Traveling,,,turnover,,S. Hawes,
+329,3,2:14.0,85,78,LAL,LAC,0,away,Sub,,,,,J. Farmar,C. Paul
+330,3,2:05.0,85,78,LAL,LAC,9,home,BadPass,steal,,turnover,,J. Lin,S. Hawes
+331,3,1:57.0,85,81,LAL,LAC,8,away,JS,assist,25,make3,3,S. Hawes,J. Crawford
+332,3,1:42.0,87,81,LAL,LAC,15,home,JS,assist,19,make2,2,W. Ellington,J. Lin
+333,3,1:31.0,87,81,LAL,LAC,11,away,BadPass,,,turnover,,S. Hawes,
+334,3,1:31.0,87,81,LAL,LAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Douglas-Roberts,J. Clarkson
+335,3,1:31.0,87,81,LAL,LAC,0,home,Sub,,,,,R. Price,J. Lin
+336,3,1:23.0,87,81,LAL,LAC,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hawes,J. Hill
+337,3,1:23.0,88,81,LAL,LAC,0,home,FreeThrow,,,make1,1,J. Hill,
+338,3,1:23.0,88,81,LAL,LAC,0,home,FreeThrow,,,make1,0,J. Hill,
+339,3,1:22.0,88,81,LAL,LAC,1,away,DefReb,,,DefReb,,S. Hawes,
+340,3,1:02.0,88,83,LAL,LAC,20,away,JS,,6,make2,2,B. Griffin,
+341,3,0:47.0,88,83,LAL,LAC,15,home,JS,,25,miss3,0,J. Clarkson,
+342,3,0:46.0,88,83,LAL,LAC,1,away,DefReb,,,DefReb,,C. Douglas-Roberts,
+343,3,0:39.0,88,83,LAL,LAC,7,away,LostBall,steal,,turnover,,B. Griffin,J. Clarkson
+344,3,0:33.0,88,83,LAL,LAC,6,home,LU,,1,miss2,0,J. Clarkson,
+345,3,0:33.0,88,83,LAL,LAC,0,home,OffReb,,,OffReb,,W. Ellington,
+346,3,0:33.0,90,83,LAL,LAC,0,home,TI,,2,make2,2,W. Ellington,
+347,3,0:18.0,90,83,LAL,LAC,15,away,BadPass,,,turnover,,J. Farmar,
+348,3,0:18.0,90,83,LAL,LAC,0,home,Sub,,,,,E. Davis,J. Hill
+349,3,0:07.0,90,83,LAL,LAC,11,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Sacre,J. Farmar
+350,3,0:07.0,90,83,LAL,LAC,0,home,OffensiveFoul,,,turnover,,R. Sacre,
+351,3,0:07.0,90,83,LAL,LAC,0,away,Sub,,,,,J. Redick,C. Douglas-Roberts
+352,3,0:01.0,90,86,LAL,LAC,6,away,JS,,31,make3,3,J. Crawford,
+353,4,11:39.0,90,86,LAL,LAC,21,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Sacre,J. Crawford
+354,4,11:39.0,90,86,LAL,LAC,0,home,OffensiveFoul,,,turnover,,R. Sacre,
+355,4,11:28.0,90,86,LAL,LAC,11,away,JS,,16,miss2,0,J. Redick,
+356,4,11:27.0,90,86,LAL,LAC,1,home,DefReb,,,DefReb,,W. Ellington,
+357,4,11:04.0,90,86,LAL,LAC,23,home,JS,,26,miss3,0,W. Ellington,
+358,4,11:03.0,90,86,LAL,LAC,1,home,OffReb,,,OffReb,,E. Davis,
+359,4,11:00.0,92,86,LAL,LAC,3,home,LU,,2,make2,2,E. Davis,
+360,4,10:46.0,92,88,LAL,LAC,14,away,DK,assist,0,make2,2,D. Jordan,J. Crawford
+361,4,10:27.0,92,88,LAL,LAC,19,home,JS,,12,miss2,0,R. Sacre,
+362,4,10:26.0,92,88,LAL,LAC,1,away,DefReb,,,DefReb,,S. Hawes,
+363,4,10:20.0,92,88,LAL,LAC,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Clarkson,J. Crawford
+364,4,10:20.0,92,89,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Crawford,
+365,4,10:20.0,92,90,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Crawford,
+366,4,10:04.0,95,90,LAL,LAC,16,home,JS,assist,26,make3,3,J. Clarkson,W. Ellington
+367,4,9:52.0,95,90,LAL,LAC,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Clarkson,D. Jordan
+368,4,9:46.0,95,93,LAL,LAC,6,away,JS,,26,make3,3,J. Crawford,
+369,4,9:31.0,95,93,LAL,LAC,15,home,JS,,25,miss3,0,W. Ellington,
+370,4,9:30.0,95,93,LAL,LAC,1,home,OffReb,,,OffReb,,E. Davis,
+371,4,9:30.0,97,93,LAL,LAC,0,home,TI,,2,make2,2,E. Davis,
+372,4,9:19.0,97,93,LAL,LAC,11,away,JS,,25,miss3,0,J. Crawford,
+373,4,9:17.0,97,93,LAL,LAC,2,home,DefReb,,,DefReb,,E. Davis,
+374,4,9:12.0,97,93,LAL,LAC,5,home,Traveling,,,turnover,,R. Sacre,
+375,4,9:12.0,97,93,LAL,LAC,0,away,Sub,,,,,C. Paul,J. Farmar
+376,4,9:12.0,97,93,LAL,LAC,0,home,Sub,,,,,K. Bryant,J. Clarkson
+377,4,9:01.0,97,95,LAL,LAC,11,away,DK,assist,0,make2,2,D. Jordan,C. Paul
+378,4,8:48.0,97,95,LAL,LAC,13,away,Timeout,,,,,,
+379,4,8:48.0,97,95,LAL,LAC,0,home,Sub,,,,,J. Hill,R. Sacre
+380,4,8:36.0,97,95,LAL,LAC,12,home,BadPass,steal,,turnover,,K. Bryant,J. Redick
+381,4,8:23.0,97,95,LAL,LAC,13,away,JS,,27,miss3,0,J. Redick,
+382,4,8:22.0,97,95,LAL,LAC,1,home,DefReb,,,DefReb,,R. Price,
+383,4,8:07.0,97,95,LAL,LAC,15,home,JS,,15,miss2,0,K. Bryant,
+384,4,8:07.0,97,95,LAL,LAC,0,away,DefReb,,,DefReb,,S. Hawes,
+385,4,8:07.0,97,95,LAL,LAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Hill,S. Hawes
+386,4,8:07.0,97,95,LAL,LAC,0,away,Sub,,,,,B. Griffin,S. Hawes
+387,4,7:55.0,97,97,LAL,LAC,12,away,DK,assist,0,make2,2,D. Jordan,C. Paul
+388,4,7:30.0,99,97,LAL,LAC,25,home,JS,assist,15,make2,2,J. Hill,R. Price
+389,4,7:14.0,99,97,LAL,LAC,16,away,JS,,27,miss3,0,C. Paul,
+390,4,7:13.0,99,97,LAL,LAC,1,home,DefReb,,,DefReb,,J. Hill,
+391,4,7:04.0,101,97,LAL,LAC,9,home,JS,assist,20,make2,2,J. Hill,R. Price
+392,4,6:39.0,101,97,LAL,LAC,25,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,B. Griffin
+393,4,6:39.0,101,98,LAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+394,4,6:39.0,101,98,LAL,LAC,0,home,Sub,,,,,C. Boozer,E. Davis
+395,4,6:39.0,101,98,LAL,LAC,0,home,Sub,,,,,W. Johnson,R. Price
+396,4,6:39.0,101,98,LAL,LAC,0,home,Sub,,,,,J. Lin,W. Ellington
+397,4,6:39.0,101,99,LAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+398,4,6:23.0,101,99,LAL,LAC,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Jordan,J. Hill
+399,4,6:18.0,101,99,LAL,LAC,5,home,JS,,17,miss2,0,K. Bryant,
+400,4,6:17.0,101,99,LAL,LAC,1,away,DefReb,,,DefReb,,Team,
+401,4,6:07.0,101,99,LAL,LAC,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Johnson,J. Crawford
+402,4,6:07.0,101,100,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Crawford,
+403,4,6:07.0,101,101,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Crawford,
+404,4,5:56.0,101,101,LAL,LAC,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,K. Bryant
+405,4,5:56.0,101,101,LAL,LAC,0,home,Timeout,,,,,,
+406,4,5:56.0,102,101,LAL,LAC,0,home,FreeThrow,,,make1,1,K. Bryant,
+407,4,5:56.0,103,101,LAL,LAC,0,home,FreeThrow,,,make1,1,K. Bryant,
+408,4,5:40.0,103,101,LAL,LAC,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Boozer,B. Griffin
+409,4,5:40.0,103,102,LAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+410,4,5:40.0,103,103,LAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+411,4,5:25.0,103,103,LAL,LAC,15,home,JS,,3,miss2,0,W. Johnson,
+412,4,5:24.0,103,103,LAL,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
+413,4,5:03.0,103,103,LAL,LAC,21,away,JS,,14,miss2,0,B. Griffin,
+414,4,5:01.0,103,103,LAL,LAC,2,home,DefReb,,,DefReb,,K. Bryant,
+415,4,4:39.0,106,103,LAL,LAC,22,home,JS,,25,make3,3,J. Lin,
+416,4,4:22.0,106,103,LAL,LAC,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Johnson,J. Crawford
+417,4,4:22.0,106,103,LAL,LAC,0,home,Sub,,,,,W. Ellington,W. Johnson
+418,4,4:22.0,106,104,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Crawford,
+419,4,4:22.0,106,105,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Crawford,
+420,4,4:22.0,106,106,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Crawford,
+421,4,4:06.0,106,106,LAL,LAC,16,home,JS,block,3,miss2,0,J. Lin,D. Jordan
+422,4,4:05.0,106,106,LAL,LAC,1,away,DefReb,,,DefReb,,J. Crawford,
+423,4,4:00.0,106,106,LAL,LAC,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Bryant,J. Crawford
+424,4,4:00.0,106,106,LAL,LAC,0,away,FreeThrow,,,make1,0,J. Crawford,
+425,4,4:00.0,106,106,LAL,LAC,0,away,OffReb,,,OffReb,,Team,
+426,4,4:00.0,106,107,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Crawford,
+427,4,3:43.0,106,107,LAL,LAC,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Redick,J. Lin
+428,4,3:39.0,106,107,LAL,LAC,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,K. Bryant
+429,4,3:28.0,106,107,LAL,LAC,11,home,JS,,25,miss3,0,K. Bryant,
+430,4,3:27.0,106,107,LAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+431,4,3:16.0,106,107,LAL,LAC,11,away,JS,,25,miss3,0,J. Crawford,
+432,4,3:15.0,106,107,LAL,LAC,1,home,DefReb,,,DefReb,,J. Lin,
+433,4,3:02.0,106,107,LAL,LAC,13,home,LostBall,steal,,turnover,,C. Boozer,D. Jordan
+434,4,2:59.0,106,107,LAL,LAC,3,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Griffin,J. Lin
+435,4,2:59.0,106,107,LAL,LAC,0,away,OffensiveFoul,,,turnover,,B. Griffin,
+436,4,2:59.0,106,107,LAL,LAC,0,away,Timeout,,,,,,
+437,4,2:43.0,106,107,LAL,LAC,16,home,JS,,16,miss2,0,K. Bryant,
+438,4,2:41.0,106,107,LAL,LAC,2,away,DefReb,,,DefReb,,J. Crawford,
+439,4,2:28.0,106,109,LAL,LAC,13,away,LU,assist,0,make2,2,B. Griffin,J. Redick
+440,4,2:04.0,109,109,LAL,LAC,24,home,JS,assist,25,make3,3,W. Ellington,K. Bryant
+441,4,1:37.0,109,112,LAL,LAC,27,away,JS,assist,28,make3,3,J. Crawford,B. Griffin
+442,4,1:19.0,111,112,LAL,LAC,18,home,JS,,15,make2,2,K. Bryant,
+443,4,1:01.0,111,112,LAL,LAC,18,away,JS,,14,miss2,0,B. Griffin,
+444,4,0:58.0,111,112,LAL,LAC,3,away,OffReb,,,OffReb,,D. Jordan,
+445,4,0:41.0,111,112,LAL,LAC,17,away,JS,block,5,miss2,0,C. Paul,J. Hill
+446,4,0:39.0,111,112,LAL,LAC,2,home,DefReb,,,DefReb,,W. Ellington,
+447,4,0:28.0,111,112,LAL,LAC,11,home,JS,,16,miss2,0,K. Bryant,
+448,4,0:26.0,111,112,LAL,LAC,2,away,DefReb,,,DefReb,,B. Griffin,
+449,4,0:21.0,111,112,LAL,LAC,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Bryant,B. Griffin
+450,4,0:21.0,111,113,LAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+451,4,0:21.0,111,114,LAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+452,4,0:21.0,111,114,LAL,LAC,0,home,Timeout,,,,,,
+453,4,0:17.0,111,114,LAL,LAC,4,home,JS,,25,miss3,0,K. Bryant,
+454,4,0:16.0,111,114,LAL,LAC,1,away,DefReb,,,DefReb,,J. Redick,
+455,4,0:15.0,111,114,LAL,LAC,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Lin,J. Redick
+456,4,0:15.0,111,115,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Redick,
+457,4,0:15.0,111,116,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Redick,
+458,4,0:15.0,111,116,LAL,LAC,0,home,Timeout,,,,,,
+459,4,0:11.0,111,116,LAL,LAC,4,home,JS,,13,miss2,0,J. Hill,
+460,4,0:10.0,111,116,LAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+461,4,0:06.0,111,116,LAL,LAC,4,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,K. Bryant,J. Redick
+462,4,0:06.0,111,117,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Redick,
+463,4,0:06.0,111,118,LAL,LAC,0,away,FreeThrow,,,make1,1,J. Redick,

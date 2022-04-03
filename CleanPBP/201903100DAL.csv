@@ -1,0 +1,455 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,0,0,DAL,HOU,19,away,JS,,23,miss3,0,P. Tucker,
+1,1,11:39.0,0,0,DAL,HOU,2,away,OffReb,,,OffReb,,C. Capela,
+2,1,11:35.0,0,0,DAL,HOU,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Powell,E. Gordon
+3,1,11:35.0,0,1,DAL,HOU,0,away,FreeThrow,,,make1,1,E. Gordon,
+4,1,11:35.0,0,1,DAL,HOU,0,away,FreeThrow,,,make1,0,E. Gordon,
+5,1,11:33.0,0,1,DAL,HOU,2,home,DefReb,,,DefReb,,L. Dončić,
+6,1,11:17.0,2,1,DAL,HOU,16,home,JS,assist,9,make2,2,J. Brunson,D. Powell
+7,1,11:00.0,2,3,DAL,HOU,17,away,LU,assist,2,make2,2,C. Capela,J. Harden
+8,1,10:41.0,5,3,DAL,HOU,19,home,JS,assist,25,make3,3,D. Powell,L. Dončić
+9,1,10:29.0,5,5,DAL,HOU,12,away,DK,assist,1,make2,2,C. Capela,C. Paul
+10,1,10:13.0,5,5,DAL,HOU,16,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Finney-Smith,J. Harden
+11,1,10:13.0,5,5,DAL,HOU,0,home,OffensiveFoul,,,turnover,,D. Finney-Smith,
+12,1,9:58.0,5,5,DAL,HOU,15,away,HS,,8,miss2,0,E. Gordon,
+13,1,9:56.0,5,5,DAL,HOU,2,away,OffReb,,,OffReb,,C. Capela,
+14,1,9:54.0,5,5,DAL,HOU,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Dončić,C. Capela
+15,1,9:54.0,5,6,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Capela,
+16,1,9:54.0,5,7,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Capela,
+17,1,9:40.0,5,7,DAL,HOU,14,home,JS,,23,miss3,0,D. Finney-Smith,
+18,1,9:37.0,5,7,DAL,HOU,3,away,DefReb,,,DefReb,,C. Paul,
+19,1,9:28.0,5,7,DAL,HOU,9,away,JS,,27,miss3,0,E. Gordon,
+20,1,9:26.0,5,7,DAL,HOU,2,away,OffReb,,,OffReb,,P. Tucker,
+21,1,9:23.0,5,7,DAL,HOU,3,away,BadPass,,,turnover,,C. Paul,
+22,1,9:12.0,7,7,DAL,HOU,11,home,JS,,5,make2,2,L. Dončić,
+23,1,8:58.0,7,9,DAL,HOU,14,away,DK,assist,1,make2,2,C. Capela,J. Harden
+24,1,8:39.0,7,9,DAL,HOU,19,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Finney-Smith,P. Tucker
+25,1,8:39.0,7,9,DAL,HOU,0,home,OffensiveFoul,,,turnover,,D. Finney-Smith,
+26,1,8:39.0,7,9,DAL,HOU,0,home,Sub,,,,,M. Kleber,D. Finney-Smith
+27,1,8:25.0,7,12,DAL,HOU,14,away,JS,assist,25,make3,3,E. Gordon,C. Capela
+28,1,8:12.0,7,12,DAL,HOU,13,home,OutOfBoundsLB,,,turnover,,L. Dončić,
+29,1,8:01.0,7,12,DAL,HOU,11,away,JS,,25,miss3,0,E. Gordon,
+30,1,7:58.0,7,12,DAL,HOU,3,home,DefReb,,,DefReb,,L. Dončić,
+31,1,7:49.0,10,12,DAL,HOU,9,home,JS,assist,23,make3,3,T. Hardaway,L. Dončić
+32,1,7:36.0,10,12,DAL,HOU,13,away,JS,,24,miss3,0,C. Paul,
+33,1,7:34.0,10,12,DAL,HOU,2,home,DefReb,,,DefReb,,J. Brunson,
+34,1,7:22.0,10,12,DAL,HOU,12,home,bad pass,steal,,turnover,,J. Brunson,C. Capela
+35,1,7:18.0,10,14,DAL,HOU,4,away,LU,,1,make2,2,J. Harden,
+36,1,7:18.0,10,14,DAL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Brunson,J. Harden
+37,1,7:18.0,10,15,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+38,1,7:03.0,10,15,DAL,HOU,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Harden,L. Dončić
+39,1,6:56.0,10,15,DAL,HOU,7,home,BadPass,,,turnover,,J. Brunson,
+40,1,6:56.0,10,15,DAL,HOU,0,home,Timeout,,,,,,
+41,1,6:56.0,10,15,DAL,HOU,0,away,Sub,,,,,G. Green,E. Gordon
+42,1,6:56.0,10,15,DAL,HOU,0,away,Sub,,,,,A. Rivers,C. Paul
+43,1,6:32.0,10,15,DAL,HOU,24,away,JS,,27,miss3,0,J. Harden,
+44,1,6:29.0,10,15,DAL,HOU,3,home,DefReb,,,DefReb,,L. Dončić,
+45,1,6:15.0,12,15,DAL,HOU,14,home,LU,assist,0,make2,2,J. Brunson,D. Powell
+46,1,6:15.0,12,15,DAL,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Rivers,J. Brunson
+47,1,6:15.0,13,15,DAL,HOU,0,home,FreeThrow,,,make1,1,J. Brunson,
+48,1,6:02.0,13,15,DAL,HOU,13,away,JS,,25,miss3,0,G. Green,
+49,1,5:59.0,13,15,DAL,HOU,3,home,DefReb,,,DefReb,,D. Powell,
+50,1,5:53.0,16,15,DAL,HOU,6,home,JS,assist,25,make3,3,J. Brunson,T. Hardaway
+51,1,5:46.0,16,15,DAL,HOU,7,away,BadPass,,,turnover,,G. Green,
+52,1,5:36.0,16,15,DAL,HOU,10,home,JS,,28,miss3,0,L. Dončić,
+53,1,5:32.0,16,15,DAL,HOU,4,away,DefReb,,,DefReb,,G. Green,
+54,1,5:11.0,16,15,DAL,HOU,21,away,JS,,12,miss2,0,J. Harden,
+55,1,5:08.0,16,15,DAL,HOU,3,home,DefReb,,,DefReb,,L. Dončić,
+56,1,4:52.0,16,15,DAL,HOU,16,home,BadPass,,,turnover,,L. Dončić,
+57,1,4:52.0,16,15,DAL,HOU,0,home,Sub,,,,,J. Jackson,J. Brunson
+58,1,4:39.0,16,15,DAL,HOU,13,away,JS,,26,miss3,0,J. Harden,
+59,1,4:35.0,16,15,DAL,HOU,4,home,DefReb,,,DefReb,,L. Dončić,
+60,1,4:26.0,16,15,DAL,HOU,9,home,LU,,4,miss2,0,L. Dončić,
+61,1,4:24.0,16,15,DAL,HOU,2,home,OffReb,,,OffReb,,L. Dončić,
+62,1,4:23.0,16,15,DAL,HOU,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Capela,L. Dončić
+63,1,4:23.0,17,15,DAL,HOU,0,home,FreeThrow,,,make1,1,L. Dončić,
+64,1,4:23.0,17,15,DAL,HOU,0,away,Sub,,,,,N. Hilário,C. Capela
+65,1,4:23.0,17,15,DAL,HOU,0,home,Sub,,,,,D. Nowitzki,D. Powell
+66,1,4:23.0,18,15,DAL,HOU,0,home,FreeThrow,,,make1,1,L. Dončić,
+67,1,4:10.0,18,18,DAL,HOU,13,away,JS,assist,25,make3,3,P. Tucker,A. Rivers
+68,1,4:00.0,18,18,DAL,HOU,10,home,BadPass,,,turnover,,T. Hardaway,
+69,1,3:42.0,18,18,DAL,HOU,18,away,JS,,13,miss2,0,J. Harden,
+70,1,3:40.0,18,18,DAL,HOU,2,home,DefReb,,,DefReb,,L. Dončić,
+71,1,3:22.0,18,18,DAL,HOU,18,home,JS,,23,miss3,0,M. Kleber,
+72,1,3:19.0,18,18,DAL,HOU,3,away,DefReb,,,DefReb,,J. Harden,
+73,1,3:16.0,18,18,DAL,HOU,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,G. Green
+74,1,3:16.0,18,19,DAL,HOU,0,away,FreeThrow,,,make1,1,G. Green,
+75,1,3:16.0,18,20,DAL,HOU,0,away,FreeThrow,,,make1,1,G. Green,
+76,1,3:01.0,18,20,DAL,HOU,15,home,JS,,9,miss2,0,T. Hardaway,
+77,1,2:59.0,18,20,DAL,HOU,2,away,DefReb,,,DefReb,,N. Hilário,
+78,1,2:53.0,18,22,DAL,HOU,6,away,LU,,1,make2,2,J. Harden,
+79,1,2:52.0,18,22,DAL,HOU,1,home,Timeout,,,,,,
+80,1,2:52.0,18,22,DAL,HOU,0,away,Sub,,,,,C. Paul,J. Harden
+81,1,2:52.0,18,22,DAL,HOU,0,away,Sub,,,,,I. Shumpert,P. Tucker
+82,1,2:52.0,18,22,DAL,HOU,0,home,Sub,,,,,J. Brunson,L. Dončić
+83,1,2:52.0,18,22,DAL,HOU,0,home,Sub,,,,,D. Harris,T. Hardaway
+84,1,2:41.0,20,22,DAL,HOU,11,home,LU,assist,3,make2,2,D. Nowitzki,D. Harris
+85,1,2:41.0,20,22,DAL,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Shumpert,D. Nowitzki
+86,1,2:41.0,20,22,DAL,HOU,0,home,FreeThrow,,,make1,0,D. Nowitzki,
+87,1,2:39.0,20,22,DAL,HOU,2,away,DefReb,,,DefReb,,I. Shumpert,
+88,1,2:27.0,20,22,DAL,HOU,12,away,JS,,10,miss2,0,G. Green,
+89,1,2:24.0,20,22,DAL,HOU,3,home,DefReb,,,DefReb,,D. Nowitzki,
+90,1,2:19.0,22,22,DAL,HOU,5,home,LU,,3,make2,2,J. Brunson,
+91,1,2:04.0,22,22,DAL,HOU,15,away,JS,,20,miss2,0,I. Shumpert,
+92,1,2:00.0,22,22,DAL,HOU,4,home,DefReb,,,DefReb,,M. Kleber,
+93,1,1:57.0,22,22,DAL,HOU,3,home,JS,,26,miss3,0,D. Nowitzki,
+94,1,1:53.0,22,22,DAL,HOU,4,away,DefReb,,,DefReb,,G. Green,
+95,1,1:41.0,22,22,DAL,HOU,12,away,JS,,24,miss3,0,C. Paul,
+96,1,1:38.0,22,22,DAL,HOU,3,home,DefReb,,,DefReb,,D. Nowitzki,
+97,1,1:34.0,22,22,DAL,HOU,4,home,JS,,25,miss3,0,J. Brunson,
+98,1,1:31.0,22,22,DAL,HOU,3,away,DefReb,,,DefReb,,G. Green,
+99,1,1:25.0,22,22,DAL,HOU,6,away,LU,block,3,miss2,0,G. Green,D. Nowitzki
+100,1,1:22.0,22,22,DAL,HOU,3,home,DefReb,,,DefReb,,M. Kleber,
+101,1,1:11.0,25,22,DAL,HOU,11,home,JS,assist,26,make3,3,D. Harris,D. Nowitzki
+102,1,0:53.0,25,25,DAL,HOU,18,away,JS,assist,25,make3,3,G. Green,C. Paul
+103,1,0:43.0,25,25,DAL,HOU,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Shumpert,D. Nowitzki
+104,1,0:43.0,25,25,DAL,HOU,0,away,DelayOfGame,,,DelayOfGame,,Team,
+105,1,0:43.0,25,25,DAL,HOU,0,home,FreeThrow,,,make1,0,D. Nowitzki,
+106,1,0:43.0,25,25,DAL,HOU,0,home,OffReb,,,OffReb,,Team,
+107,1,0:43.0,26,25,DAL,HOU,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+108,1,0:34.0,26,25,DAL,HOU,9,away,JS,,26,miss3,0,G. Green,
+109,1,0:31.0,26,25,DAL,HOU,3,home,DefReb,,,DefReb,,J. Brunson,
+110,1,0:17.0,26,25,DAL,HOU,14,home,JS,,13,miss2,0,D. Nowitzki,
+111,1,0:14.0,26,25,DAL,HOU,3,away,DefReb,,,DefReb,,N. Hilário,
+112,1,0:01.0,26,25,DAL,HOU,13,away,lost ball,steal,,turnover,,A. Rivers,D. Harris
+113,2,11:44.0,26,25,DAL,HOU,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Gordon,D. Nowitzki
+114,2,11:44.0,27,25,DAL,HOU,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+115,2,11:44.0,27,25,DAL,HOU,0,home,FreeThrow,,,make1,0,D. Nowitzki,
+116,2,11:42.0,27,25,DAL,HOU,2,away,DefReb,,,DefReb,,E. Gordon,
+117,2,11:28.0,27,28,DAL,HOU,14,away,JS,assist,25,make3,3,E. Gordon,C. Paul
+118,2,11:13.0,27,28,DAL,HOU,15,home,JS,,25,miss3,0,D. Harris,
+119,2,11:09.0,27,28,DAL,HOU,4,away,DefReb,,,DefReb,,C. Paul,
+120,2,11:03.0,27,31,DAL,HOU,6,away,JS,,25,make3,3,C. Paul,
+121,2,10:46.0,27,31,DAL,HOU,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Shumpert,J. Brunson
+122,2,10:36.0,27,31,DAL,HOU,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Hilário,D. Nowitzki
+123,2,10:36.0,28,31,DAL,HOU,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+124,2,10:36.0,29,31,DAL,HOU,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+125,2,10:21.0,29,31,DAL,HOU,15,away,JS,,22,miss3,0,I. Shumpert,
+126,2,10:18.0,29,31,DAL,HOU,3,home,DefReb,,,DefReb,,J. Brunson,
+127,2,10:14.0,29,31,DAL,HOU,4,home,bad pass,steal,,turnover,,J. Brunson,C. Paul
+128,2,10:12.0,29,31,DAL,HOU,2,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Jackson,G. Green
+129,2,10:12.0,29,31,DAL,HOU,0,away,Sub,,,,,C. Capela,N. Hilário
+130,2,10:01.0,29,31,DAL,HOU,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Powell,I. Shumpert
+131,2,10:01.0,29,31,DAL,HOU,0,home,Sub,,,,,M. Kleber,D. Powell
+132,2,9:55.0,29,31,DAL,HOU,6,away,JS,,25,miss3,0,C. Paul,
+133,2,9:53.0,29,31,DAL,HOU,2,home,DefReb,,,DefReb,,M. Kleber,
+134,2,9:41.0,29,31,DAL,HOU,12,home,LU,,5,miss2,0,M. Kleber,
+135,2,9:39.0,29,31,DAL,HOU,2,away,DefReb,,,DefReb,,Team,
+136,2,9:39.0,29,31,DAL,HOU,0,away,Sub,,,,,J. Harden,G. Green
+137,2,9:39.0,29,31,DAL,HOU,0,away,Sub,,,,,P. Tucker,I. Shumpert
+138,2,9:30.0,29,33,DAL,HOU,9,away,LU,,1,make2,2,E. Gordon,
+139,2,9:17.0,29,33,DAL,HOU,13,home,bad pass,steal,,turnover,,D. Harris,E. Gordon
+140,2,9:14.0,29,33,DAL,HOU,3,away,LU,block,1,miss2,0,E. Gordon,M. Kleber
+141,2,9:12.0,29,33,DAL,HOU,2,away,OffReb,,,OffReb,,E. Gordon,
+142,2,9:12.0,29,35,DAL,HOU,0,away,LU,,0,make2,2,E. Gordon,
+143,2,9:12.0,29,35,DAL,HOU,0,home,Timeout,,,,,,
+144,2,9:12.0,29,35,DAL,HOU,0,home,Sub,,,,,L. Dončić,J. Brunson
+145,2,9:12.0,29,35,DAL,HOU,0,home,Sub,,,,,D. Finney-Smith,D. Nowitzki
+146,2,8:57.0,29,35,DAL,HOU,15,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Harris,J. Harden
+147,2,8:57.0,29,35,DAL,HOU,0,home,OffensiveFoul,,,turnover,,D. Harris,
+148,2,8:34.0,29,35,DAL,HOU,23,away,JS,block,25,miss3,0,E. Gordon,J. Jackson
+149,2,8:32.0,29,35,DAL,HOU,2,home,DefReb,,,DefReb,,L. Dončić,
+150,2,8:23.0,31,35,DAL,HOU,9,home,LU,assist,1,make2,2,M. Kleber,L. Dončić
+151,2,8:11.0,31,35,DAL,HOU,12,away,JS,,13,miss2,0,C. Paul,
+152,2,8:07.0,31,35,DAL,HOU,4,home,DefReb,,,DefReb,,L. Dončić,
+153,2,8:01.0,31,35,DAL,HOU,6,home,JS,,23,miss3,0,J. Jackson,
+154,2,8:01.0,31,35,DAL,HOU,0,away,DefReb,,,DefReb,,E. Gordon,
+155,2,7:53.0,31,35,DAL,HOU,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,C. Capela
+156,2,7:53.0,31,35,DAL,HOU,0,away,FreeThrow,,,make1,0,C. Capela,
+157,2,7:53.0,31,35,DAL,HOU,0,away,OffReb,,,OffReb,,Team,
+158,2,7:53.0,31,35,DAL,HOU,0,away,Sub,,,,,A. Rivers,C. Paul
+159,2,7:53.0,31,36,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Capela,
+160,2,7:39.0,31,36,DAL,HOU,14,home,JS,,9,miss2,0,L. Dončić,
+161,2,7:37.0,31,36,DAL,HOU,2,home,OffReb,,,OffReb,,M. Kleber,
+162,2,7:35.0,33,36,DAL,HOU,2,home,LU,,1,make2,2,M. Kleber,
+163,2,7:17.0,33,38,DAL,HOU,18,away,JS,,11,make2,2,J. Harden,
+164,2,7:02.0,33,38,DAL,HOU,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Tucker,L. Dončić
+165,2,6:54.0,33,38,DAL,HOU,8,home,JS,,22,miss3,0,J. Jackson,
+166,2,6:51.0,33,38,DAL,HOU,3,away,DefReb,,,DefReb,,C. Capela,
+167,2,6:40.0,33,38,DAL,HOU,11,away,JS,,25,miss3,0,J. Harden,
+168,2,6:38.0,33,38,DAL,HOU,2,away,OffReb,,,OffReb,,P. Tucker,
+169,2,6:36.0,33,41,DAL,HOU,2,away,JS,assist,25,make3,3,E. Gordon,P. Tucker
+170,2,6:29.0,33,41,DAL,HOU,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Gordon,D. Harris
+171,2,6:29.0,34,41,DAL,HOU,0,home,FreeThrow,,,make1,1,D. Harris,
+172,2,6:29.0,35,41,DAL,HOU,0,home,FreeThrow,,,make1,1,D. Harris,
+173,2,6:13.0,35,41,DAL,HOU,16,away,JS,,25,miss3,0,J. Harden,
+174,2,6:09.0,35,41,DAL,HOU,4,home,DefReb,,,DefReb,,L. Dončić,
+175,2,5:46.0,35,41,DAL,HOU,23,home,HS,,2,miss2,0,J. Jackson,
+176,2,5:44.0,35,41,DAL,HOU,2,away,DefReb,,,DefReb,,C. Capela,
+177,2,5:26.0,35,41,DAL,HOU,18,away,JS,,26,miss3,0,J. Harden,
+178,2,5:23.0,35,41,DAL,HOU,3,home,DefReb,,,DefReb,,L. Dončić,
+179,2,5:07.0,35,41,DAL,HOU,16,home,JS,,25,miss3,0,L. Dončić,
+180,2,5:03.0,35,41,DAL,HOU,4,away,DefReb,,,DefReb,,J. Harden,
+181,2,5:02.0,35,43,DAL,HOU,1,away,LU,assist,1,make2,2,C. Capela,J. Harden
+182,2,5:00.0,35,43,DAL,HOU,2,home,TechnicalFoul,,,TechnicalFoul,,L. Dončić,
+183,2,5:00.0,35,44,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Harden makes technical free throw,
+184,2,5:00.0,35,44,DAL,HOU,0,home,Sub,,,,,J. Brunson,D. Harris
+185,2,5:00.0,35,44,DAL,HOU,0,home,Sub,,,,,T. Hardaway,J. Jackson
+186,2,4:46.0,35,44,DAL,HOU,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Gordon,M. Kleber
+187,2,4:46.0,36,44,DAL,HOU,0,home,FreeThrow,,,make1,1,M. Kleber,
+188,2,4:46.0,36,44,DAL,HOU,0,away,Sub,,,,,C. Paul,E. Gordon
+189,2,4:46.0,37,44,DAL,HOU,0,home,FreeThrow,,,make1,1,M. Kleber,
+190,2,4:33.0,37,44,DAL,HOU,13,away,JS,,25,miss3,0,J. Harden,
+191,2,4:32.0,37,44,DAL,HOU,1,away,OffReb,,,OffReb,,C. Capela,
+192,2,4:30.0,37,44,DAL,HOU,2,away,LU,,1,miss2,0,C. Capela,
+193,2,4:28.0,37,44,DAL,HOU,2,away,OffReb,,,OffReb,,C. Capela,
+194,2,4:27.0,37,46,DAL,HOU,1,away,LU,,0,make2,2,C. Capela,
+195,2,4:27.0,37,46,DAL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Finney-Smith,C. Capela
+196,2,4:27.0,37,46,DAL,HOU,0,home,Sub,,,,,C. Lee,D. Finney-Smith
+197,2,4:27.0,37,46,DAL,HOU,0,away,FreeThrow,,,make1,0,C. Capela,
+198,2,4:24.0,37,46,DAL,HOU,3,home,DefReb,,,DefReb,,M. Kleber,
+199,2,4:18.0,37,46,DAL,HOU,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harden,C. Lee
+200,2,4:18.0,37,46,DAL,HOU,0,home,FreeThrow,,,make1,0,C. Lee,
+201,2,4:18.0,37,46,DAL,HOU,0,home,OffReb,,,OffReb,,Team,
+202,2,4:18.0,38,46,DAL,HOU,0,home,FreeThrow,,,make1,1,C. Lee,
+203,2,3:56.0,38,49,DAL,HOU,22,away,JS,,27,make3,3,J. Harden,
+204,2,3:40.0,38,49,DAL,HOU,16,home,JS,,9,miss2,0,L. Dončić,
+205,2,3:37.0,38,49,DAL,HOU,3,away,DefReb,,,DefReb,,P. Tucker,
+206,2,3:30.0,38,49,DAL,HOU,7,away,bad pass,steal,,turnover,,J. Harden,M. Kleber
+207,2,3:26.0,38,49,DAL,HOU,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harden,J. Brunson
+208,2,3:26.0,39,49,DAL,HOU,0,home,FreeThrow,,,make1,1,J. Brunson,
+209,2,3:26.0,39,49,DAL,HOU,0,home,Sub,,,,,D. Powell,L. Dončić
+210,2,3:26.0,40,49,DAL,HOU,0,home,FreeThrow,,,make1,1,J. Brunson,
+211,2,3:18.0,40,49,DAL,HOU,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brunson,C. Paul
+212,2,3:18.0,40,50,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Paul,
+213,2,3:18.0,40,50,DAL,HOU,0,home,Sub,,,,,L. Dončić,C. Lee
+214,2,3:18.0,40,50,DAL,HOU,0,away,FreeThrow,,,make1,0,C. Paul,
+215,2,3:18.0,40,50,DAL,HOU,0,home,DefReb,,,DefReb,,L. Dončić,
+216,2,3:05.0,42,50,DAL,HOU,13,home,LU,assist,0,make2,2,J. Brunson,L. Dončić
+217,2,2:55.0,42,50,DAL,HOU,10,away,JS,,24,miss3,0,C. Paul,
+218,2,2:52.0,42,50,DAL,HOU,3,home,DefReb,,,DefReb,,L. Dončić,
+219,2,2:36.0,44,50,DAL,HOU,16,home,JS,assist,13,make2,2,M. Kleber,J. Brunson
+220,2,2:13.0,44,50,DAL,HOU,23,away,JS,,24,miss3,0,C. Paul,
+221,2,2:11.0,44,50,DAL,HOU,2,home,DefReb,,,DefReb,,J. Brunson,
+222,2,2:03.0,46,50,DAL,HOU,8,home,LU,assist,1,make2,2,D. Powell,J. Brunson
+223,2,1:49.0,46,50,DAL,HOU,14,away,bad pass,steal,,turnover,,A. Rivers,L. Dončić
+224,2,1:48.0,46,50,DAL,HOU,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,L. Dončić
+225,2,1:48.0,46,50,DAL,HOU,0,away,Timeout,,,,,,
+226,2,1:48.0,46,50,DAL,HOU,0,home,Sub,,,,,C. Lee,M. Kleber
+227,2,1:48.0,47,50,DAL,HOU,0,home,FreeThrow,,,make1,1,L. Dončić,
+228,2,1:48.0,48,50,DAL,HOU,0,home,FreeThrow,,,make1,1,L. Dončić,
+229,2,1:38.0,48,53,DAL,HOU,10,away,JS,assist,23,make3,3,P. Tucker,C. Paul
+230,2,1:20.0,50,53,DAL,HOU,18,home,JS,assist,10,make2,2,C. Lee,T. Hardaway
+231,2,0:57.0,50,56,DAL,HOU,23,away,JS,,26,make3,3,J. Harden,
+232,2,0:47.0,50,56,DAL,HOU,10,home,LU,block,3,miss2,0,J. Brunson,C. Paul
+233,2,0:46.0,50,56,DAL,HOU,1,away,DefReb,,,DefReb,,C. Capela,
+234,2,0:46.0,50,56,DAL,HOU,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Lee,C. Paul
+235,2,0:46.0,50,57,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Paul,
+236,2,0:46.0,50,57,DAL,HOU,0,home,Sub,,,,,M. Kleber,C. Lee
+237,2,0:46.0,50,58,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Paul,
+238,2,0:33.0,52,58,DAL,HOU,13,home,LU,,1,make2,2,L. Dončić,
+239,2,0:29.0,52,58,DAL,HOU,4,away,JS,,27,miss3,0,J. Harden,
+240,2,0:25.0,52,58,DAL,HOU,4,away,OffReb,,,OffReb,,C. Capela,
+241,2,0:15.0,52,58,DAL,HOU,10,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Harden,J. Brunson
+242,2,0:15.0,52,58,DAL,HOU,0,away,OffensiveFoul,,,turnover,,J. Harden,
+243,2,0:15.0,52,58,DAL,HOU,0,away,Sub,,,,,G. Green,J. Harden
+244,2,0:01.0,52,58,DAL,HOU,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Capela,L. Dončić
+245,2,0:01.0,53,58,DAL,HOU,0,home,FreeThrow,,,make1,1,L. Dončić,
+246,2,0:01.0,53,58,DAL,HOU,0,home,Sub,,,,,J. Jackson,J. Brunson
+247,2,0:01.0,54,58,DAL,HOU,0,home,FreeThrow,,,make1,1,L. Dončić,
+248,3,11:52.0,54,58,DAL,HOU,8,home,bad pass,steal,,turnover,,J. Brunson,C. Paul
+249,3,11:40.0,54,58,DAL,HOU,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Harden,L. Dončić
+250,3,11:40.0,54,58,DAL,HOU,0,away,OffensiveFoul,,,turnover,,J. Harden,
+251,3,11:40.0,54,58,DAL,HOU,0,away,Sub,,,,,A. Rivers,J. Harden
+252,3,11:22.0,54,58,DAL,HOU,18,home,JS,,22,miss3,0,J. Brunson,
+253,3,11:20.0,54,58,DAL,HOU,2,away,DefReb,,,DefReb,,Team,
+254,3,11:13.0,54,58,DAL,HOU,7,away,JS,,26,miss3,0,A. Rivers,
+255,3,11:07.0,54,58,DAL,HOU,6,away,OffReb,,,OffReb,,P. Tucker,
+256,3,11:02.0,54,61,DAL,HOU,5,away,JS,assist,25,make3,3,E. Gordon,C. Paul
+257,3,10:51.0,54,61,DAL,HOU,11,home,JS,,27,miss3,0,L. Dončić,
+258,3,10:49.0,54,61,DAL,HOU,2,away,DefReb,,,DefReb,,C. Paul,
+259,3,10:45.0,54,61,DAL,HOU,4,away,JS,,27,miss3,0,E. Gordon,
+260,3,10:42.0,54,61,DAL,HOU,3,home,DefReb,,,DefReb,,D. Powell,
+261,3,10:30.0,54,61,DAL,HOU,12,home,LU,,1,miss2,0,L. Dončić,
+262,3,10:27.0,54,61,DAL,HOU,3,home,OffReb,,,OffReb,,J. Brunson,
+263,3,10:25.0,54,61,DAL,HOU,2,home,JS,,26,miss3,0,T. Hardaway,
+264,3,10:20.0,54,61,DAL,HOU,5,away,DefReb,,,DefReb,,P. Tucker,
+265,3,10:18.0,54,61,DAL,HOU,2,away,BadPass,,,turnover,,C. Paul,
+266,3,10:18.0,54,61,DAL,HOU,0,away,DelayOfGame,,,DelayOfGame,,Team,
+267,3,10:18.0,54,61,DAL,HOU,0,home,FreeThrow,,,make1,0,L. Dončić misses technical free throw,
+268,3,10:18.0,54,61,DAL,HOU,0,home,OffReb,,,OffReb,,Team,
+269,3,10:09.0,54,61,DAL,HOU,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Paul,J. Brunson
+270,3,10:09.0,55,61,DAL,HOU,0,home,FreeThrow,,,make1,1,J. Brunson,
+271,3,10:09.0,56,61,DAL,HOU,0,home,FreeThrow,,,make1,1,J. Brunson,
+272,3,9:57.0,56,61,DAL,HOU,12,away,LU,block,1,miss2,0,C. Paul,D. Powell
+273,3,9:54.0,56,61,DAL,HOU,3,home,DefReb,,,DefReb,,D. Finney-Smith,
+274,3,9:34.0,56,61,DAL,HOU,20,home,lost ball,steal,,turnover,,J. Brunson,P. Tucker
+275,3,9:26.0,56,61,DAL,HOU,8,away,JS,,23,miss3,0,A. Rivers,
+276,3,9:21.0,56,61,DAL,HOU,5,home,DefReb,,,DefReb,,D. Powell,
+277,3,9:14.0,59,61,DAL,HOU,7,home,JS,assist,23,make3,3,T. Hardaway,L. Dončić
+278,3,8:58.0,59,63,DAL,HOU,16,away,LU,,0,make2,2,E. Gordon,
+279,3,8:34.0,59,63,DAL,HOU,24,home,JS,,15,miss2,0,T. Hardaway,
+280,3,8:32.0,59,63,DAL,HOU,2,away,DefReb,,,DefReb,,C. Capela,
+281,3,8:25.0,59,66,DAL,HOU,7,away,JS,assist,28,make3,3,E. Gordon,C. Paul
+282,3,8:03.0,61,66,DAL,HOU,22,home,JS,,9,make2,2,L. Dončić,
+283,3,7:58.0,61,66,DAL,HOU,5,away,LU,block,1,miss2,0,C. Capela,L. Dončić
+284,3,7:57.0,61,66,DAL,HOU,1,home,DefReb,,,DefReb,,D. Powell,
+285,3,7:51.0,61,66,DAL,HOU,6,home,LU,,1,miss2,0,L. Dončić,
+286,3,7:50.0,61,66,DAL,HOU,1,home,OffReb,,,OffReb,,D. Finney-Smith,
+287,3,7:49.0,61,66,DAL,HOU,1,home,LU,,0,miss2,0,D. Finney-Smith,
+288,3,7:48.0,61,66,DAL,HOU,1,away,DefReb,,,DefReb,,Team,
+289,3,7:48.0,61,66,DAL,HOU,0,away,Sub,,,,,G. Green,A. Rivers
+290,3,7:35.0,61,66,DAL,HOU,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Brunson,C. Capela
+291,3,7:35.0,61,66,DAL,HOU,0,away,FreeThrow,,,make1,0,C. Capela,
+292,3,7:35.0,61,66,DAL,HOU,0,away,OffReb,,,OffReb,,Team,
+293,3,7:35.0,61,66,DAL,HOU,0,home,Sub,,,,,M. Kleber,D. Finney-Smith
+294,3,7:35.0,61,67,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Capela,
+295,3,7:26.0,64,67,DAL,HOU,9,home,JS,,26,make3,3,L. Dončić,
+296,3,7:09.0,64,67,DAL,HOU,17,away,JS,,29,miss3,0,E. Gordon,
+297,3,7:05.0,64,67,DAL,HOU,4,home,DefReb,,,DefReb,,M. Kleber,
+298,3,7:02.0,64,67,DAL,HOU,3,home,JS,,7,miss2,0,J. Brunson,
+299,3,7:01.0,64,67,DAL,HOU,1,away,DefReb,,,DefReb,,Team,
+300,3,6:45.0,64,70,DAL,HOU,16,away,JS,assist,22,make3,3,G. Green,C. Paul
+301,3,6:18.0,64,70,DAL,HOU,27,home,JS,,30,miss3,0,L. Dončić,
+302,3,6:15.0,64,70,DAL,HOU,3,away,DefReb,,,DefReb,,Team,
+303,3,6:15.0,64,70,DAL,HOU,0,home,Timeout,,,,,,
+304,3,6:15.0,64,70,DAL,HOU,0,home,Sub,,,,,D. Finney-Smith,D. Powell
+305,3,6:01.0,64,70,DAL,HOU,14,away,JS,,23,miss3,0,E. Gordon,
+306,3,5:58.0,64,70,DAL,HOU,3,home,DefReb,,,DefReb,,M. Kleber,
+307,3,5:41.0,66,70,DAL,HOU,17,home,JS,assist,12,make2,2,M. Kleber,L. Dončić
+308,3,5:21.0,66,70,DAL,HOU,20,away,JS,,13,miss2,0,C. Paul,
+309,3,5:21.0,66,70,DAL,HOU,0,home,DefReb,,,DefReb,,D. Finney-Smith,
+310,3,5:01.0,66,70,DAL,HOU,20,home,JS,,25,miss3,0,D. Finney-Smith,
+311,3,4:57.0,66,70,DAL,HOU,4,away,DefReb,,,DefReb,,G. Green,
+312,3,4:40.0,66,70,DAL,HOU,17,away,JS,block,11,miss2,0,G. Green,M. Kleber
+313,3,4:37.0,66,70,DAL,HOU,3,away,OffReb,,,OffReb,,C. Capela,
+314,3,4:35.0,66,70,DAL,HOU,2,away,JS,,29,miss3,0,E. Gordon,
+315,3,4:33.0,66,70,DAL,HOU,2,away,OffReb,,,OffReb,,P. Tucker,
+316,3,4:32.0,66,70,DAL,HOU,1,away,JS,block,26,miss3,0,G. Green,M. Kleber
+317,3,4:30.0,66,70,DAL,HOU,2,away,OffReb,,,OffReb,,Team,
+318,3,4:30.0,66,70,DAL,HOU,0,away,Sub,,,,,A. Rivers,E. Gordon
+319,3,4:30.0,66,70,DAL,HOU,0,home,Sub,,,,,J. Jackson,J. Brunson
+320,3,4:19.0,66,73,DAL,HOU,11,away,JS,,25,make3,3,C. Paul,
+321,3,3:59.0,66,73,DAL,HOU,20,home,JS,,23,miss3,0,T. Hardaway,
+322,3,3:55.0,66,73,DAL,HOU,4,away,DefReb,,,DefReb,,C. Capela,
+323,3,3:34.0,66,73,DAL,HOU,21,away,bad pass,steal,,turnover,,C. Paul,L. Dončić
+324,3,3:28.0,66,73,DAL,HOU,6,home,bad pass,steal,,turnover,,L. Dončić,G. Green
+325,3,3:20.0,66,73,DAL,HOU,8,away,JS,,23,miss3,0,G. Green,
+326,3,3:18.0,66,73,DAL,HOU,2,home,DefReb,,,DefReb,,J. Jackson,
+327,3,3:03.0,68,73,DAL,HOU,15,home,LU,assist,2,make2,2,J. Jackson,D. Finney-Smith
+328,3,3:03.0,68,73,DAL,HOU,0,away,Timeout,,,,,,
+329,3,3:03.0,68,73,DAL,HOU,0,away,Sub,,,,,J. Harden,C. Capela
+330,3,3:03.0,68,73,DAL,HOU,0,away,Sub,,,,,N. Hilário,C. Paul
+331,3,2:40.0,68,73,DAL,HOU,23,away,JS,,15,miss2,0,G. Green,
+332,3,2:39.0,68,73,DAL,HOU,1,away,OffReb,,,OffReb,,Team,
+333,3,2:39.0,68,73,DAL,HOU,0,away,ShotClockViolation,,,turnover,,Team,
+334,3,2:26.0,68,73,DAL,HOU,13,home,JS,,24,miss3,0,T. Hardaway,
+335,3,2:22.0,68,73,DAL,HOU,4,home,OffReb,,,OffReb,,M. Kleber,
+336,3,2:21.0,68,73,DAL,HOU,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Hilário,L. Dončić
+337,3,2:21.0,69,73,DAL,HOU,0,home,FreeThrow,,,make1,1,L. Dončić,
+338,3,2:21.0,69,73,DAL,HOU,0,home,Sub,,,,,D. Harris,T. Hardaway
+339,3,2:21.0,70,73,DAL,HOU,0,home,FreeThrow,,,make1,1,L. Dončić,
+340,3,2:13.0,70,75,DAL,HOU,8,away,LU,,2,make2,2,J. Harden,
+341,3,2:13.0,70,75,DAL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,J. Harden
+342,3,2:13.0,70,76,DAL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+343,3,1:59.0,70,76,DAL,HOU,14,home,JS,,25,miss3,0,D. Finney-Smith,
+344,3,1:54.0,70,76,DAL,HOU,5,away,DefReb,,,DefReb,,G. Green,
+345,3,1:40.0,70,79,DAL,HOU,14,away,JS,,25,make3,3,J. Harden,
+346,3,1:21.0,70,79,DAL,HOU,19,home,JS,,14,miss2,0,J. Jackson,
+347,3,1:19.0,70,79,DAL,HOU,2,home,OffReb,,,OffReb,,D. Finney-Smith,
+348,3,1:18.0,72,79,DAL,HOU,1,home,LU,,2,make2,2,D. Finney-Smith,
+349,3,1:03.0,72,81,DAL,HOU,15,away,LU,assist,2,make2,2,A. Rivers,G. Green
+350,3,1:03.0,72,81,DAL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Harris,A. Rivers
+351,3,1:03.0,72,81,DAL,HOU,0,away,FreeThrow,,,make1,0,A. Rivers,
+352,3,1:00.0,72,81,DAL,HOU,3,home,DefReb,,,DefReb,,M. Kleber,
+353,3,0:40.0,72,81,DAL,HOU,20,home,JS,,24,miss3,0,M. Kleber,
+354,3,0:38.0,72,81,DAL,HOU,2,home,OffReb,,,OffReb,,J. Jackson,
+355,3,0:25.0,72,81,DAL,HOU,13,home,ShotClockViolation,,,turnover,,Team,
+356,3,0:01.0,72,81,DAL,HOU,24,away,LU,,2,miss2,0,J. Harden,
+357,3,0:01.0,72,81,DAL,HOU,0,away,OffReb,,,OffReb,,Team,
+358,4,11:45.0,72,84,DAL,HOU,15,away,JS,assist,24,make3,3,G. Green,N. Hilário
+359,4,11:29.0,75,84,DAL,HOU,16,home,JS,assist,25,make3,3,J. Jackson,D. Harris
+360,4,11:07.0,75,84,DAL,HOU,22,home,KickBallViolation,,,KickBallViolation,,Team,
+361,4,10:57.0,75,84,DAL,HOU,10,away,JS,,26,miss3,0,J. Harden,
+362,4,10:52.0,75,84,DAL,HOU,5,home,DefReb,,,DefReb,,D. Finney-Smith,
+363,4,10:36.0,78,84,DAL,HOU,16,home,JS,assist,25,make3,3,D. Harris,D. Finney-Smith
+364,4,10:16.0,78,86,DAL,HOU,20,away,JS,,5,make2,2,E. Gordon,
+365,4,10:03.0,80,86,DAL,HOU,13,home,JS,assist,8,make2,2,J. Jackson,J. Brunson
+366,4,9:45.0,80,86,DAL,HOU,18,away,JS,,23,miss3,0,G. Green,
+367,4,9:45.0,80,86,DAL,HOU,0,home,DefReb,,,DefReb,,D. Finney-Smith,
+368,4,9:36.0,80,86,DAL,HOU,9,home,JS,,8,miss2,0,J. Brunson,
+369,4,9:32.0,80,86,DAL,HOU,4,away,DefReb,,,DefReb,,A. Rivers,
+370,4,9:27.0,80,86,DAL,HOU,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Powell,N. Hilário
+371,4,9:27.0,80,86,DAL,HOU,0,away,FreeThrow,,,make1,0,N. Hilário,
+372,4,9:27.0,80,86,DAL,HOU,0,away,OffReb,,,OffReb,,Team,
+373,4,9:27.0,80,86,DAL,HOU,0,away,FreeThrow,,,make1,0,N. Hilário,
+374,4,9:24.0,80,86,DAL,HOU,3,home,DefReb,,,DefReb,,D. Harris,
+375,4,9:07.0,82,86,DAL,HOU,17,home,JS,assist,11,make2,2,J. Brunson,D. Powell
+376,4,8:55.0,82,86,DAL,HOU,12,away,LU,block,9,miss2,0,G. Green,D. Harris
+377,4,8:53.0,82,86,DAL,HOU,2,home,DefReb,,,DefReb,,Team,
+378,4,8:53.0,82,86,DAL,HOU,0,away,Sub,,,,,C. Capela,N. Hilário
+379,4,8:42.0,82,86,DAL,HOU,11,home,Traveling,,,turnover,,D. Powell,
+380,4,8:28.0,82,86,DAL,HOU,14,away,JS,,26,miss3,0,E. Gordon,
+381,4,8:25.0,82,86,DAL,HOU,3,away,OffReb,,,OffReb,,C. Capela,
+382,4,8:18.0,82,86,DAL,HOU,7,away,JS,,25,miss3,0,J. Harden,
+383,4,8:14.0,82,86,DAL,HOU,4,home,DefReb,,,DefReb,,J. Brunson,
+384,4,8:07.0,82,86,DAL,HOU,7,home,LU,block,2,miss2,0,D. Powell,C. Capela
+385,4,8:05.0,82,86,DAL,HOU,2,away,DefReb,,,DefReb,,G. Green,
+386,4,7:50.0,82,86,DAL,HOU,15,away,JS,,23,miss3,0,A. Rivers,
+387,4,7:46.0,82,86,DAL,HOU,4,home,DefReb,,,DefReb,,D. Powell,
+388,4,7:36.0,82,86,DAL,HOU,10,home,JS,,25,miss3,0,D. Powell,
+389,4,7:33.0,82,86,DAL,HOU,3,away,DefReb,,,DefReb,,G. Green,
+390,4,7:26.0,82,86,DAL,HOU,7,away,bad pass,steal,,turnover,,J. Harden,D. Powell
+391,4,7:21.0,84,86,DAL,HOU,5,home,DK,assist,1,make2,2,D. Finney-Smith,J. Brunson
+392,4,7:04.0,84,86,DAL,HOU,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brunson,G. Green
+393,4,7:04.0,84,86,DAL,HOU,0,away,Sub,,,,,C. Paul,G. Green
+394,4,7:04.0,84,86,DAL,HOU,0,away,Sub,,,,,P. Tucker,A. Rivers
+395,4,7:04.0,84,86,DAL,HOU,0,home,Sub,,,,,L. Dončić,J. Brunson
+396,4,7:04.0,84,86,DAL,HOU,0,home,Sub,,,,,M. Kleber,D. Powell
+397,4,6:56.0,84,88,DAL,HOU,8,away,LU,assist,1,make2,2,C. Capela,J. Harden
+398,4,6:56.0,84,88,DAL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kleber,C. Capela
+399,4,6:56.0,84,88,DAL,HOU,0,home,Timeout,,,,,,
+400,4,6:56.0,84,89,DAL,HOU,0,away,FreeThrow,,,make1,1,C. Capela,
+401,4,6:35.0,84,89,DAL,HOU,21,home,JS,,25,miss3,0,J. Jackson,
+402,4,6:32.0,84,89,DAL,HOU,3,away,DefReb,,,DefReb,,J. Harden,
+403,4,6:13.0,84,89,DAL,HOU,19,away,JS,,26,miss3,0,J. Harden,
+404,4,6:09.0,84,89,DAL,HOU,4,home,DefReb,,,DefReb,,L. Dončić,
+405,4,6:00.0,84,89,DAL,HOU,9,home,OutOfBoundsLB,,,turnover,,J. Jackson,
+406,4,5:42.0,84,89,DAL,HOU,18,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Capela,J. Jackson
+407,4,5:42.0,84,89,DAL,HOU,0,away,OffensiveFoul,,,turnover,,C. Capela,
+408,4,5:42.0,84,89,DAL,HOU,0,home,Sub,,,,,T. Hardaway,J. Jackson
+409,4,5:23.0,84,89,DAL,HOU,19,home,JS,,8,miss2,0,L. Dončić,
+410,4,5:22.0,84,89,DAL,HOU,1,home,OffReb,,,OffReb,,M. Kleber,
+411,4,5:22.0,84,89,DAL,HOU,0,home,JS,,25,miss3,0,D. Harris,
+412,4,5:20.0,84,89,DAL,HOU,2,away,DefReb,,,DefReb,,Team,
+413,4,5:20.0,84,89,DAL,HOU,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,L. Dončić,P. Tucker
+414,4,5:07.0,84,89,DAL,HOU,13,away,bad pass,steal,,turnover,,J. Harden,T. Hardaway
+415,4,5:03.0,86,89,DAL,HOU,4,home,LU,assist,1,make2,2,L. Dončić,M. Kleber
+416,4,4:45.0,86,89,DAL,HOU,18,away,JS,,27,miss3,0,J. Harden,
+417,4,4:43.0,86,89,DAL,HOU,2,home,DefReb,,,DefReb,,L. Dončić,
+418,4,4:33.0,86,89,DAL,HOU,10,home,OutOfBounds,,,turnover,,D. Harris,
+419,4,4:19.0,86,89,DAL,HOU,14,away,JS,,25,miss3,0,C. Paul,
+420,4,4:17.0,86,89,DAL,HOU,2,home,DefReb,,,DefReb,,Team,
+421,4,4:17.0,86,89,DAL,HOU,0,away,Timeout,,,,,,
+422,4,4:17.0,86,89,DAL,HOU,0,home,Sub,,,,,J. Brunson,D. Harris
+423,4,4:04.0,89,89,DAL,HOU,13,home,JS,assist,25,make3,3,T. Hardaway,L. Dončić
+424,4,3:42.0,89,91,DAL,HOU,22,away,JS,assist,4,make2,2,E. Gordon,C. Paul
+425,4,3:17.0,89,91,DAL,HOU,25,home,LU,,1,miss2,0,J. Brunson,
+426,4,3:17.0,89,91,DAL,HOU,0,away,DefReb,,,DefReb,,P. Tucker,
+427,4,3:06.0,89,91,DAL,HOU,11,away,JS,,0,miss2,0,C. Capela,
+428,4,3:04.0,89,91,DAL,HOU,2,home,DefReb,,,DefReb,,M. Kleber,
+429,4,2:52.0,89,91,DAL,HOU,12,home,JS,,28,miss3,0,T. Hardaway,
+430,4,2:48.0,89,91,DAL,HOU,4,away,DefReb,,,DefReb,,J. Harden,
+431,4,2:28.0,89,91,DAL,HOU,20,away,JS,block,25,miss3,0,J. Harden,L. Dončić
+432,4,2:26.0,89,91,DAL,HOU,2,away,OffReb,,,OffReb,,J. Harden,
+433,4,2:25.0,89,91,DAL,HOU,1,away,JS,,6,miss2,0,J. Harden,
+434,4,2:24.0,89,91,DAL,HOU,1,home,DefReb,,,DefReb,,Team,
+435,4,2:24.0,89,91,DAL,HOU,0,home,Sub,,,,,D. Powell,D. Finney-Smith
+436,4,2:00.0,89,91,DAL,HOU,24,home,JS,,16,miss2,0,T. Hardaway,
+437,4,1:57.0,89,91,DAL,HOU,3,home,OffReb,,,OffReb,,D. Powell,
+438,4,1:50.0,89,91,DAL,HOU,7,home,JS,,26,miss3,0,L. Dončić,
+439,4,1:48.0,89,91,DAL,HOU,2,home,OffReb,,,OffReb,,T. Hardaway,
+440,4,1:46.0,89,91,DAL,HOU,2,home,LU,block,8,miss2,0,T. Hardaway,J. Harden
+441,4,1:45.0,89,91,DAL,HOU,1,away,DefReb,,,DefReb,,Team,
+442,4,1:45.0,89,91,DAL,HOU,0,home,Sub,,,,,D. Finney-Smith,T. Hardaway
+443,4,1:29.0,89,94,DAL,HOU,16,away,JS,assist,22,make3,3,P. Tucker,C. Paul
+444,4,1:29.0,89,94,DAL,HOU,0,home,Timeout,,,,,,
+445,4,1:29.0,89,94,DAL,HOU,0,home,Sub,,,,,T. Hardaway,M. Kleber
+446,4,1:18.0,91,94,DAL,HOU,11,home,DK,assist,1,make2,2,D. Powell,L. Dončić
+447,4,0:55.0,91,94,DAL,HOU,23,away,JS,,20,miss2,0,J. Harden,
+448,4,0:53.0,91,94,DAL,HOU,2,home,DefReb,,,DefReb,,Team,
+449,4,0:31.0,93,94,DAL,HOU,22,home,DK,assist,0,make2,2,D. Powell,L. Dončić
+450,4,0:08.0,93,94,DAL,HOU,23,away,JS,,1,miss2,0,J. Harden,
+451,4,0:07.0,93,94,DAL,HOU,1,home,DefReb,,,DefReb,,J. Brunson,
+452,4,0:00.0,93,94,DAL,HOU,7,home,JS,block,14,miss2,0,J. Brunson,C. Paul
+453,4,0:00.0,93,94,DAL,HOU,0,home,OffReb,,,OffReb,,Team,

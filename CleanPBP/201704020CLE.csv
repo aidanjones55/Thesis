@@ -1,0 +1,529 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,0,0,CLE,IND,19,home,JS,,25,miss3,0,J. Smith,
+1,1,11:40.0,0,0,CLE,IND,1,home,OffReb,,,OffReb,,K. Love,
+2,1,11:34.0,2,0,CLE,IND,6,home,JS,,14,make2,2,K. Love,
+3,1,11:06.0,2,0,CLE,IND,28,away,ShotClockViolation,,,turnover,,Team,
+4,1,10:53.0,4,0,CLE,IND,13,home,JS,assist,21,make2,2,K. Love,J. Smith
+5,1,10:40.0,4,0,CLE,IND,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. James,P. George
+6,1,10:33.0,4,0,CLE,IND,7,away,LostBall,,,turnover,,J. Teague,
+7,1,10:23.0,4,0,CLE,IND,10,home,JS,,6,miss2,0,K. Irving,
+8,1,10:21.0,4,0,CLE,IND,2,home,OffReb,,,OffReb,,K. Irving,
+9,1,10:17.0,4,0,CLE,IND,4,home,JS,,26,miss3,0,K. Love,
+10,1,10:17.0,4,0,CLE,IND,0,away,DefReb,,,DefReb,,P. George,
+11,1,10:10.0,4,0,CLE,IND,7,away,JS,,16,miss2,0,P. George,
+12,1,10:09.0,4,0,CLE,IND,1,home,DefReb,,,DefReb,,T. Thompson,
+13,1,10:03.0,4,0,CLE,IND,6,home,LU,,2,miss2,0,L. James,
+14,1,10:01.0,4,0,CLE,IND,2,home,OffReb,,,OffReb,,T. Thompson,
+15,1,10:01.0,6,0,CLE,IND,0,home,LU,,1,make2,2,T. Thompson,
+16,1,9:40.0,6,3,CLE,IND,21,away,JS,assist,24,make3,3,M. Ellis,P. George
+17,1,9:21.0,6,3,CLE,IND,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Young,K. Love
+18,1,9:21.0,7,3,CLE,IND,0,home,FreeThrow,,,make1,1,K. Love,
+19,1,9:21.0,7,3,CLE,IND,0,home,FreeThrow,,,make1,0,K. Love,
+20,1,9:19.0,7,3,CLE,IND,2,away,DefReb,,,DefReb,,T. Young,
+21,1,9:04.0,7,3,CLE,IND,15,away,JS,,25,miss3,0,J. Teague,
+22,1,9:03.0,7,3,CLE,IND,1,home,DefReb,,,DefReb,,J. Smith,
+23,1,8:57.0,7,3,CLE,IND,6,home,LU,block,3,miss2,0,L. James,M. Turner
+24,1,8:56.0,7,3,CLE,IND,1,away,DefReb,,,DefReb,,M. Turner,
+25,1,8:48.0,7,5,CLE,IND,8,away,LU,assist,1,make2,2,T. Young,M. Ellis
+26,1,8:23.0,7,5,CLE,IND,25,home,ShotClockViolation,,,turnover,,Team,
+27,1,7:59.0,7,7,CLE,IND,24,away,DK,assist,0,make2,2,T. Young,J. Teague
+28,1,7:39.0,7,7,CLE,IND,20,home,LU,,0,miss2,0,K. Irving,
+29,1,7:37.0,7,7,CLE,IND,2,away,DefReb,,,DefReb,,P. George,
+30,1,7:29.0,7,9,CLE,IND,8,away,LU,,1,make2,2,P. George,
+31,1,7:21.0,7,9,CLE,IND,8,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Thompson,M. Ellis
+32,1,7:21.0,7,9,CLE,IND,0,home,OffensiveFoul,,,turnover,,T. Thompson,
+33,1,7:06.0,7,11,CLE,IND,15,away,DK,,0,make2,2,P. George,
+34,1,6:56.0,7,11,CLE,IND,10,home,LU,,2,miss2,0,T. Thompson,
+35,1,6:55.0,7,11,CLE,IND,1,home,OffReb,,,OffReb,,L. James,
+36,1,6:55.0,9,11,CLE,IND,0,home,LU,,0,make2,2,L. James,
+37,1,6:45.0,9,11,CLE,IND,10,away,JS,,17,miss2,0,M. Turner,
+38,1,6:44.0,9,11,CLE,IND,1,home,DefReb,,,DefReb,,K. Love,
+39,1,6:36.0,9,11,CLE,IND,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Young,T. Thompson
+40,1,6:36.0,9,11,CLE,IND,0,away,Sub,,,,,L. Allen,T. Young
+41,1,6:28.0,11,11,CLE,IND,8,home,JS,,15,make2,2,K. Irving,
+42,1,6:21.0,11,11,CLE,IND,7,away,LostBall,steal,,turnover,,J. Teague,J. Smith
+43,1,6:16.0,11,11,CLE,IND,5,home,LU,,1,miss2,0,L. James,
+44,1,6:15.0,11,11,CLE,IND,1,home,OffReb,,,OffReb,,L. James,
+45,1,6:15.0,13,11,CLE,IND,0,home,LU,,0,make2,2,L. James,
+46,1,6:14.0,13,11,CLE,IND,1,away,Timeout,,,,,,
+47,1,6:01.0,13,13,CLE,IND,13,away,JS,assist,12,make2,2,M. Turner,J. Teague
+48,1,5:38.0,13,13,CLE,IND,23,home,JS,,26,miss3,0,K. Irving,
+49,1,5:38.0,13,13,CLE,IND,0,away,DefReb,,,DefReb,,P. George,
+50,1,5:23.0,13,15,CLE,IND,15,away,HS,assist,7,make2,2,M. Ellis,P. George
+51,1,5:04.0,13,15,CLE,IND,19,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. George,T. Thompson
+52,1,5:04.0,13,15,CLE,IND,0,home,Sub,,,,,C. Frye,K. Love
+53,1,4:55.0,13,15,CLE,IND,9,home,JS,,24,miss3,0,C. Frye,
+54,1,4:54.0,13,15,CLE,IND,1,away,DefReb,,,DefReb,,L. Allen,
+55,1,4:32.0,13,15,CLE,IND,22,away,JS,block,7,miss2,0,J. Teague,K. Irving
+56,1,4:30.0,13,15,CLE,IND,2,home,DefReb,,,DefReb,,L. James,
+57,1,4:26.0,15,15,CLE,IND,4,home,DK,,0,make2,2,L. James,
+58,1,4:13.0,15,15,CLE,IND,13,away,BadPass,steal,,turnover,,P. George,J. Smith
+59,1,3:58.0,15,15,CLE,IND,15,home,JS,,17,miss2,0,K. Irving,
+60,1,3:56.0,15,15,CLE,IND,2,away,DefReb,,,DefReb,,M. Ellis,
+61,1,3:37.0,15,18,CLE,IND,19,away,JS,,25,make3,3,J. Teague,
+62,1,3:24.0,18,18,CLE,IND,13,home,JS,assist,26,make3,3,J. Smith,K. Irving
+63,1,3:12.0,18,21,CLE,IND,12,away,JS,assist,25,make3,3,P. George,J. Teague
+64,1,2:56.0,18,21,CLE,IND,16,home,LostBall,,,turnover,,K. Irving,
+65,1,2:56.0,18,21,CLE,IND,0,home,Timeout,,,,,,
+66,1,2:56.0,18,21,CLE,IND,0,home,Sub,,,,,I. Shumpert,L. James
+67,1,2:56.0,18,21,CLE,IND,0,away,Sub,,,,,C. Miles,M. Ellis
+68,1,2:56.0,18,21,CLE,IND,0,away,Sub,,,,,A. Brooks,J. Teague
+69,1,2:44.0,18,21,CLE,IND,12,away,JS,,24,miss3,0,P. George,
+70,1,2:43.0,18,21,CLE,IND,1,away,OffReb,,,OffReb,,C. Miles,
+71,1,2:36.0,18,21,CLE,IND,7,away,JS,,26,miss3,0,P. George,
+72,1,2:35.0,18,21,CLE,IND,1,home,DefReb,,,DefReb,,C. Frye,
+73,1,2:11.0,18,21,CLE,IND,24,home,JS,block,7,miss2,0,K. Irving,A. Brooks
+74,1,2:11.0,18,21,CLE,IND,0,home,OffReb,,,OffReb,,Team,
+75,1,2:11.0,18,21,CLE,IND,0,home,ShotClockViolation,,,turnover,,Team,
+76,1,2:11.0,18,21,CLE,IND,0,home,Sub,,,,,D. Williams,J. Smith
+77,1,1:57.0,18,24,CLE,IND,14,away,JS,assist,26,make3,3,C. Miles,P. George
+78,1,1:35.0,18,24,CLE,IND,22,home,JS,,8,miss2,0,K. Irving,
+79,1,1:35.0,18,24,CLE,IND,0,away,DefReb,,,DefReb,,L. Allen,
+80,1,1:19.0,18,24,CLE,IND,16,away,JS,,14,miss2,0,P. George,
+81,1,1:19.0,18,24,CLE,IND,0,home,DefReb,,,DefReb,,T. Thompson,
+82,1,1:12.0,18,24,CLE,IND,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Brooks,I. Shumpert
+83,1,1:12.0,19,24,CLE,IND,0,home,FreeThrow,,,make1,1,I. Shumpert,
+84,1,1:12.0,19,24,CLE,IND,0,away,Sub,,,,,K. Séraphin,M. Turner
+85,1,1:12.0,19,24,CLE,IND,0,away,Sub,,,,,L. Stephenson,P. George
+86,1,1:12.0,20,24,CLE,IND,0,home,FreeThrow,,,make1,1,I. Shumpert,
+87,1,1:00.0,20,27,CLE,IND,12,away,JS,assist,25,make3,3,C. Miles,A. Brooks
+88,1,0:48.0,22,27,CLE,IND,12,home,JS,assist,20,make2,2,C. Frye,K. Irving
+89,1,0:31.0,22,27,CLE,IND,17,away,JS,,28,miss3,0,A. Brooks,
+90,1,0:30.0,22,27,CLE,IND,1,home,DefReb,,,DefReb,,C. Frye,
+91,1,0:09.0,25,27,CLE,IND,21,home,JS,assist,23,make3,3,C. Frye,K. Irving
+92,1,0:02.0,25,27,CLE,IND,7,away,LostBall,,,turnover,,A. Brooks,
+93,1,0:02.0,25,27,CLE,IND,0,away,TechnicalFoul,,,TechnicalFoul,,A. Brooks,
+94,1,0:02.0,26,27,CLE,IND,0,home,FreeThrow,,,make1,1,K. Irving makes technical free throw,
+95,1,0:02.0,26,27,CLE,IND,0,home,Sub,,,,,L. James,T. Thompson
+96,1,0:00.0,26,27,CLE,IND,2,home,JS,,41,miss3,0,L. James,
+97,1,0:00.0,26,27,CLE,IND,0,home,OffReb,,,OffReb,,Team,
+98,2,11:43.0,26,29,CLE,IND,17,away,JS,assist,15,make2,2,C. Miles,L. Stephenson
+99,2,11:24.0,29,29,CLE,IND,19,home,JS,assist,25,make3,3,D. Williams,L. James
+100,2,11:08.0,29,29,CLE,IND,16,away,JS,,22,miss2,0,L. Stephenson,
+101,2,11:08.0,29,29,CLE,IND,0,home,DefReb,,,DefReb,,L. James,
+102,2,11:00.0,32,29,CLE,IND,8,home,JS,assist,25,make3,3,D. Williams,L. James
+103,2,10:40.0,32,29,CLE,IND,20,away,JS,,7,miss2,0,K. Séraphin,
+104,2,10:38.0,32,29,CLE,IND,2,home,DefReb,,,DefReb,,L. James,
+105,2,10:34.0,32,29,CLE,IND,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Stephenson,L. James
+106,2,10:34.0,34,29,CLE,IND,0,home,LU,,1,make2,2,L. James,
+107,2,10:34.0,34,29,CLE,IND,0,home,FreeThrow,,,make1,0,L. James,
+108,2,10:33.0,34,29,CLE,IND,1,away,DefReb,,,DefReb,,L. Allen,
+109,2,10:14.0,34,29,CLE,IND,19,away,JS,,16,miss2,0,K. Séraphin,
+110,2,10:13.0,34,29,CLE,IND,1,home,DefReb,,,DefReb,,L. James,
+111,2,10:06.0,34,29,CLE,IND,7,home,OutOfBounds,,,turnover,,I. Shumpert,
+112,2,9:53.0,34,29,CLE,IND,13,away,JS,,25,miss3,0,C. Miles,
+113,2,9:52.0,34,29,CLE,IND,1,home,DefReb,,,DefReb,,C. Frye,
+114,2,9:42.0,34,29,CLE,IND,10,home,JS,,25,miss3,0,C. Frye,
+115,2,9:41.0,34,29,CLE,IND,1,away,DefReb,,,DefReb,,L. Stephenson,
+116,2,9:40.0,34,29,CLE,IND,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Frye,K. Séraphin
+117,2,9:35.0,34,29,CLE,IND,5,away,LU,block,3,miss2,0,A. Brooks,C. Frye
+118,2,9:35.0,34,29,CLE,IND,0,away,OffReb,,,OffReb,,Team,
+119,2,9:27.0,34,29,CLE,IND,8,away,LostBall,steal,,turnover,,A. Brooks,I. Shumpert
+120,2,9:21.0,34,29,CLE,IND,6,home,LU,,2,miss2,0,R. Jefferson,
+121,2,9:18.0,34,29,CLE,IND,3,away,DefReb,,,DefReb,,C. Miles,
+122,2,9:07.0,34,31,CLE,IND,11,away,LU,,0,make2,2,L. Stephenson,
+123,2,8:47.0,34,31,CLE,IND,20,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Stephenson,L. James
+124,2,8:47.0,34,31,CLE,IND,0,away,Timeout,,,,,,
+125,2,8:47.0,34,31,CLE,IND,0,away,Sub,,,,,M. Turner,L. Allen
+126,2,8:47.0,34,31,CLE,IND,0,away,Sub,,,,,P. George,K. Séraphin
+127,2,8:35.0,34,31,CLE,IND,12,home,BadPass,steal,,turnover,,L. James,M. Turner
+128,2,8:27.0,34,34,CLE,IND,8,away,JS,assist,23,make3,3,C. Miles,L. Stephenson
+129,2,8:12.0,34,34,CLE,IND,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Brooks,L. James
+130,2,8:12.0,34,34,CLE,IND,0,home,FreeThrow,,,make1,0,L. James,
+131,2,8:12.0,34,34,CLE,IND,0,home,OffReb,,,OffReb,,Team,
+132,2,8:12.0,34,34,CLE,IND,0,home,Sub,,,,,K. Love,C. Frye
+133,2,8:12.0,35,34,CLE,IND,0,home,FreeThrow,,,make1,1,L. James,
+134,2,7:52.0,35,34,CLE,IND,20,away,JS,,23,miss3,0,A. Brooks,
+135,2,7:52.0,35,34,CLE,IND,0,home,DefReb,,,DefReb,,Team,
+136,2,7:29.0,35,34,CLE,IND,23,home,JS,,24,miss3,0,R. Jefferson,
+137,2,7:28.0,35,34,CLE,IND,1,home,OffReb,,,OffReb,,L. James,
+138,2,7:15.0,35,34,CLE,IND,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Brooks,D. Williams
+139,2,7:15.0,35,34,CLE,IND,0,home,FreeThrow,,,make1,0,D. Williams,
+140,2,7:15.0,35,34,CLE,IND,0,home,OffReb,,,OffReb,,Team,
+141,2,7:15.0,35,34,CLE,IND,0,away,Sub,,,,,J. Teague,A. Brooks
+142,2,7:15.0,35,34,CLE,IND,0,home,Sub,,,,,K. Irving,R. Jefferson
+143,2,7:15.0,36,34,CLE,IND,0,home,FreeThrow,,,make1,1,D. Williams,
+144,2,6:59.0,36,34,CLE,IND,16,away,JS,,17,miss2,0,L. Stephenson,
+145,2,6:57.0,36,34,CLE,IND,2,home,DefReb,,,DefReb,,I. Shumpert,
+146,2,6:40.0,38,34,CLE,IND,17,home,DK,assist,0,make2,2,L. James,D. Williams
+147,2,6:34.0,38,34,CLE,IND,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Love,M. Turner
+148,2,6:34.0,38,34,CLE,IND,0,home,Sub,,,,,J. Smith,D. Williams
+149,2,6:34.0,38,34,CLE,IND,0,away,Sub,,,,,M. Ellis,L. Stephenson
+150,2,6:21.0,38,36,CLE,IND,13,away,LU,assist,1,make2,2,P. George,C. Miles
+151,2,6:06.0,41,36,CLE,IND,15,home,JS,assist,25,make3,3,K. Love,I. Shumpert
+152,2,5:50.0,41,38,CLE,IND,16,away,LU,,0,make2,2,C. Miles,
+153,2,5:33.0,41,38,CLE,IND,17,home,Timeout,,,,,,
+154,2,5:26.0,44,38,CLE,IND,7,home,JS,,24,make3,3,J. Smith,
+155,2,5:12.0,44,38,CLE,IND,14,away,BadPass,steal,,turnover,,J. Teague,L. James
+156,2,5:07.0,46,38,CLE,IND,5,home,LU,,0,make2,2,L. James,
+157,2,4:57.0,46,38,CLE,IND,10,away,JS,,26,miss3,0,J. Teague,
+158,2,4:57.0,46,38,CLE,IND,0,away,OffReb,,,OffReb,,C. Miles,
+159,2,4:50.0,46,38,CLE,IND,7,away,JS,,25,miss3,0,M. Turner,
+160,2,4:50.0,46,38,CLE,IND,0,home,DefReb,,,DefReb,,L. James,
+161,2,4:34.0,48,38,CLE,IND,16,home,LU,assist,0,make2,2,L. James,K. Irving
+162,2,4:27.0,48,38,CLE,IND,7,away,Timeout,,,,,,
+163,2,4:27.0,48,38,CLE,IND,0,home,Sub,,,,,T. Thompson,L. James
+164,2,4:27.0,48,38,CLE,IND,0,away,Sub,,,,,T. Young,C. Miles
+165,2,4:19.0,48,38,CLE,IND,8,away,DK,block,0,miss2,0,P. George,I. Shumpert
+166,2,4:18.0,48,38,CLE,IND,1,away,OffReb,,,OffReb,,M. Ellis,
+167,2,4:15.0,48,38,CLE,IND,3,away,JS,,24,miss3,0,T. Young,
+168,2,4:12.0,48,38,CLE,IND,3,home,DefReb,,,DefReb,,Team,
+169,2,3:59.0,50,38,CLE,IND,13,home,JS,,19,make2,2,K. Irving,
+170,2,3:42.0,50,38,CLE,IND,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Irving,J. Teague
+171,2,3:42.0,50,39,CLE,IND,0,away,FreeThrow,,,make1,1,J. Teague,
+172,2,3:42.0,50,40,CLE,IND,0,away,FreeThrow,,,make1,1,J. Teague,
+173,2,3:42.0,50,41,CLE,IND,0,away,FreeThrow,,,make1,1,J. Teague,
+174,2,3:31.0,50,41,CLE,IND,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,K. Irving
+175,2,3:31.0,51,41,CLE,IND,0,home,FreeThrow,,,make1,1,K. Irving,
+176,2,3:31.0,52,41,CLE,IND,0,home,FreeThrow,,,make1,1,K. Irving,
+177,2,3:31.0,53,41,CLE,IND,0,home,FreeThrow,,,make1,1,K. Irving,
+178,2,3:17.0,53,44,CLE,IND,14,away,JS,assist,25,make3,3,P. George,J. Teague
+179,2,3:01.0,53,44,CLE,IND,16,home,JS,,20,miss2,0,K. Love,
+180,2,3:01.0,53,44,CLE,IND,0,away,DefReb,,,DefReb,,Team,
+181,2,3:01.0,53,44,CLE,IND,0,home,Sub,,,,,L. James,I. Shumpert
+182,2,2:41.0,53,46,CLE,IND,20,away,HS,assist,7,make2,2,M. Turner,P. George
+183,2,2:23.0,53,46,CLE,IND,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. George,T. Thompson
+184,2,2:23.0,54,46,CLE,IND,0,home,FreeThrow,,,make1,1,T. Thompson,
+185,2,2:23.0,55,46,CLE,IND,0,home,FreeThrow,,,make1,1,T. Thompson,
+186,2,2:14.0,55,49,CLE,IND,9,away,JS,assist,24,make3,3,J. Teague,M. Ellis
+187,2,1:52.0,58,49,CLE,IND,22,home,JS,assist,24,make3,3,J. Smith,L. James
+188,2,1:36.0,58,51,CLE,IND,16,away,LU,assist,0,make2,2,T. Young,P. George
+189,2,1:22.0,58,51,CLE,IND,14,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Irving,J. Teague
+190,2,1:22.0,58,51,CLE,IND,0,home,OffensiveFoul,,,turnover,,K. Irving,
+191,2,1:22.0,58,51,CLE,IND,0,home,Sub,,,,,D. Williams,K. Irving
+192,2,1:07.0,58,51,CLE,IND,15,away,JS,,16,miss2,0,M. Ellis,
+193,2,1:04.0,58,51,CLE,IND,3,away,OffReb,,,OffReb,,T. Young,
+194,2,1:04.0,58,51,CLE,IND,0,away,LU,,1,miss2,0,T. Young,
+195,2,1:04.0,58,51,CLE,IND,0,home,DefReb,,,DefReb,,L. James,
+196,2,0:58.0,60,51,CLE,IND,6,home,DK,assist,0,make2,2,T. Thompson,L. James
+197,2,0:47.0,60,51,CLE,IND,11,away,JS,,24,miss3,0,P. George,
+198,2,0:46.0,60,51,CLE,IND,1,home,DefReb,,,DefReb,,K. Love,
+199,2,0:30.0,60,51,CLE,IND,16,home,JS,,26,miss3,0,J. Smith,
+200,2,0:30.0,60,51,CLE,IND,0,away,DefReb,,,DefReb,,P. George,
+201,2,0:08.0,60,53,CLE,IND,22,away,JS,assist,20,make2,2,M. Turner,P. George
+202,2,0:02.0,60,53,CLE,IND,6,home,JS,,23,miss3,0,J. Smith,
+203,2,0:01.0,60,53,CLE,IND,1,home,OffReb,,,OffReb,,T. Thompson,
+204,3,11:48.0,60,53,CLE,IND,12,away,JS,,16,miss2,0,M. Turner,
+205,3,11:47.0,60,53,CLE,IND,1,home,DefReb,,,DefReb,,J. Smith,
+206,3,11:32.0,60,53,CLE,IND,15,home,JS,,26,miss3,0,K. Irving,
+207,3,11:32.0,60,53,CLE,IND,0,away,DefReb,,,DefReb,,M. Turner,
+208,3,11:21.0,60,55,CLE,IND,11,away,JS,assist,13,make2,2,T. Young,M. Ellis
+209,3,10:59.0,62,55,CLE,IND,22,home,JS,,22,make2,2,L. James,
+210,3,10:43.0,62,55,CLE,IND,16,away,LU,,1,miss2,0,P. George,
+211,3,10:41.0,62,55,CLE,IND,2,home,DefReb,,,DefReb,,K. Love,
+212,3,10:37.0,62,55,CLE,IND,4,home,LU,,1,miss2,0,K. Irving,
+213,3,10:36.0,62,55,CLE,IND,1,home,OffReb,,,OffReb,,T. Thompson,
+214,3,10:32.0,62,55,CLE,IND,4,home,JS,,25,miss3,0,J. Smith,
+215,3,10:32.0,62,55,CLE,IND,0,away,DefReb,,,DefReb,,Team,
+216,3,10:32.0,62,55,CLE,IND,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Thompson,J. Teague
+217,3,10:14.0,62,55,CLE,IND,18,away,JS,,25,miss3,0,M. Ellis,
+218,3,10:13.0,62,55,CLE,IND,1,home,DefReb,,,DefReb,,K. Irving,
+219,3,10:05.0,62,55,CLE,IND,8,home,JS,,25,miss3,0,L. James,
+220,3,10:05.0,62,55,CLE,IND,0,away,DefReb,,,DefReb,,M. Ellis,
+221,3,9:55.0,62,55,CLE,IND,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Irving,M. Turner
+222,3,9:48.0,62,58,CLE,IND,7,away,JS,,26,make3,3,J. Teague,
+223,3,9:28.0,64,58,CLE,IND,20,home,JS,assist,20,make2,2,K. Irving,L. James
+224,3,9:14.0,64,60,CLE,IND,14,away,JS,assist,5,make2,2,T. Young,P. George
+225,3,8:56.0,64,60,CLE,IND,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,K. Irving
+226,3,8:56.0,65,60,CLE,IND,0,home,FreeThrow,,,make1,1,K. Irving,
+227,3,8:56.0,66,60,CLE,IND,0,home,FreeThrow,,,make1,1,K. Irving,
+228,3,8:49.0,66,60,CLE,IND,7,away,JS,,6,miss2,0,J. Teague,
+229,3,8:47.0,66,60,CLE,IND,2,away,OffReb,,,OffReb,,T. Young,
+230,3,8:46.0,66,62,CLE,IND,1,away,DK,,0,make2,2,T. Young,
+231,3,8:25.0,66,62,CLE,IND,21,home,JS,,25,miss3,0,K. Irving,
+232,3,8:24.0,66,62,CLE,IND,1,away,DefReb,,,DefReb,,T. Young,
+233,3,8:17.0,66,62,CLE,IND,7,away,LU,block,0,miss2,0,M. Ellis,L. James
+234,3,8:16.0,66,62,CLE,IND,1,home,DefReb,,,DefReb,,L. James,
+235,3,8:14.0,66,62,CLE,IND,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Teague,T. Thompson
+236,3,8:05.0,66,62,CLE,IND,9,home,JS,,14,miss2,0,L. James,
+237,3,8:04.0,66,62,CLE,IND,1,away,DefReb,,,DefReb,,J. Teague,
+238,3,7:47.0,66,64,CLE,IND,17,away,JS,assist,4,make2,2,T. Young,J. Teague
+239,3,7:47.0,66,64,CLE,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,T. Young
+240,3,7:47.0,66,64,CLE,IND,0,home,DefGoaltending,,,DefGoaltending,,T. Thompson,
+241,3,7:47.0,66,65,CLE,IND,0,away,FreeThrow,,,make1,1,T. Young,
+242,3,7:32.0,69,65,CLE,IND,15,home,JS,assist,25,make3,3,K. Love,L. James
+243,3,7:27.0,69,65,CLE,IND,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. James,P. George
+244,3,7:10.0,69,68,CLE,IND,17,away,JS,,26,make3,3,P. George,
+245,3,6:55.0,71,68,CLE,IND,15,home,LU,,1,make2,2,L. James,
+246,3,6:55.0,71,68,CLE,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. George,L. James
+247,3,6:55.0,71,68,CLE,IND,0,home,FreeThrow,,,make1,0,L. James,
+248,3,6:54.0,71,68,CLE,IND,1,away,DefReb,,,DefReb,,T. Young,
+249,3,6:44.0,71,68,CLE,IND,10,away,JS,,14,miss2,0,J. Teague,
+250,3,6:43.0,71,68,CLE,IND,1,away,OffReb,,,OffReb,,T. Young,
+251,3,6:34.0,71,68,CLE,IND,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Thompson,P. George
+252,3,6:34.0,71,69,CLE,IND,0,away,FreeThrow,,,make1,1,P. George,
+253,3,6:34.0,71,69,CLE,IND,0,away,FreeThrow,,,make1,0,P. George,
+254,3,6:33.0,71,69,CLE,IND,1,home,DefReb,,,DefReb,,K. Love,
+255,3,6:12.0,71,69,CLE,IND,21,home,LostBall,steal,,turnover,,K. Love,P. George
+256,3,6:03.0,71,69,CLE,IND,9,away,JS,,25,miss3,0,P. George,
+257,3,6:03.0,71,69,CLE,IND,0,home,DefReb,,,DefReb,,J. Smith,
+258,3,5:49.0,71,69,CLE,IND,14,home,JS,,25,miss3,0,K. Love,
+259,3,5:48.0,71,69,CLE,IND,1,home,OffReb,,,OffReb,,K. Irving,
+260,3,5:28.0,71,69,CLE,IND,20,home,JS,,15,miss2,0,K. Irving,
+261,3,5:26.0,71,69,CLE,IND,2,away,DefReb,,,DefReb,,P. George,
+262,3,5:11.0,71,71,CLE,IND,15,away,JS,assist,16,make2,2,P. George,J. Teague
+263,3,5:11.0,71,71,CLE,IND,0,home,Timeout,,,,,,
+264,3,4:56.0,74,71,CLE,IND,15,home,JS,assist,23,make3,3,J. Smith,L. James
+265,3,4:38.0,74,71,CLE,IND,18,away,LostBall,steal,,turnover,,P. George,T. Thompson
+266,3,4:25.0,74,71,CLE,IND,13,home,LostBall,,,turnover,,K. Irving,
+267,3,4:10.0,74,71,CLE,IND,15,away,LU,,1,miss2,0,M. Turner,
+268,3,4:08.0,74,71,CLE,IND,2,home,DefReb,,,DefReb,,K. Love,
+269,3,3:54.0,74,71,CLE,IND,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. George,K. Love
+270,3,3:54.0,74,71,CLE,IND,0,home,Sub,,,,,C. Frye,K. Love
+271,3,3:54.0,74,71,CLE,IND,0,away,Sub,,,,,C. Miles,P. George
+272,3,3:38.0,74,71,CLE,IND,16,home,JS,,13,miss2,0,K. Irving,
+273,3,3:37.0,74,71,CLE,IND,1,away,DefReb,,,DefReb,,M. Ellis,
+274,3,3:35.0,74,71,CLE,IND,2,away,TechnicalFoul,,,TechnicalFoul,,Team,
+275,3,3:35.0,75,71,CLE,IND,0,home,FreeThrow,,,make1,1,K. Irving makes technical free throw,
+276,3,3:35.0,75,71,CLE,IND,0,away,Sub,,,,,L. Stephenson,M. Ellis
+277,3,3:23.0,75,73,CLE,IND,12,away,JS,,16,make2,2,J. Teague,
+278,3,2:59.0,75,73,CLE,IND,24,home,JS,,26,miss3,0,J. Smith,
+279,3,2:58.0,75,73,CLE,IND,1,away,DefReb,,,DefReb,,T. Young,
+280,3,2:41.0,75,75,CLE,IND,17,away,LU,,0,make2,2,L. Stephenson,
+281,3,2:14.0,78,75,CLE,IND,27,home,JS,,29,make3,3,L. James,
+282,3,2:01.0,78,77,CLE,IND,13,away,HS,assist,6,make2,2,T. Young,J. Teague
+283,3,2:01.0,78,77,CLE,IND,0,home,Timeout,,,,,,
+284,3,2:01.0,78,77,CLE,IND,0,away,Timeout,,,,,,
+285,3,2:01.0,78,77,CLE,IND,0,home,Sub,,,,,I. Shumpert,L. James
+286,3,2:01.0,78,77,CLE,IND,0,home,Sub,,,,,D. Williams,J. Smith
+287,3,1:40.0,80,77,CLE,IND,21,home,JS,assist,14,make2,2,C. Frye,D. Williams
+288,3,1:14.0,80,77,CLE,IND,26,away,JS,,25,miss3,0,J. Teague,
+289,3,1:13.0,80,77,CLE,IND,1,home,DefReb,,,DefReb,,T. Thompson,
+290,3,1:04.0,83,77,CLE,IND,9,home,JS,assist,27,make3,3,K. Irving,D. Williams
+291,3,0:41.0,83,77,CLE,IND,23,away,JS,,13,miss2,0,L. Stephenson,
+292,3,0:40.0,83,77,CLE,IND,1,home,DefReb,,,DefReb,,C. Frye,
+293,3,0:19.0,83,77,CLE,IND,21,home,JS,,25,miss3,0,I. Shumpert,
+294,3,0:19.0,83,77,CLE,IND,0,away,DefReb,,,DefReb,,T. Young,
+295,3,0:01.0,83,77,CLE,IND,18,away,LostBall,steal,,turnover,,L. Stephenson,K. Irving
+296,4,11:49.0,83,77,CLE,IND,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Allen,L. James
+297,4,11:38.0,86,77,CLE,IND,11,home,JS,assist,27,make3,3,L. James,D. Williams
+298,4,11:25.0,86,77,CLE,IND,13,away,JS,,26,miss3,0,C. Miles,
+299,4,11:25.0,86,77,CLE,IND,0,home,DefReb,,,DefReb,,R. Jefferson,
+300,4,11:17.0,88,77,CLE,IND,8,home,LU,,1,make2,2,D. Williams,
+301,4,11:04.0,88,77,CLE,IND,13,away,JS,,17,miss2,0,A. Brooks,
+302,4,11:04.0,88,77,CLE,IND,0,home,DefReb,,,DefReb,,L. James,
+303,4,10:58.0,88,77,CLE,IND,6,home,JS,,26,miss3,0,L. James,
+304,4,10:56.0,88,77,CLE,IND,2,away,DefReb,,,DefReb,,C. Miles,
+305,4,10:35.0,88,77,CLE,IND,21,away,JS,,26,miss3,0,L. Stephenson,
+306,4,10:34.0,88,77,CLE,IND,1,away,OffReb,,,OffReb,,T. Young,
+307,4,10:34.0,88,77,CLE,IND,0,away,LU,,0,miss2,0,T. Young,
+308,4,10:33.0,88,77,CLE,IND,1,home,DefReb,,,DefReb,,C. Frye,
+309,4,10:21.0,91,77,CLE,IND,12,home,JS,assist,25,make3,3,C. Frye,R. Jefferson
+310,4,10:21.0,91,77,CLE,IND,0,away,Timeout,,,,,,
+311,4,10:21.0,91,77,CLE,IND,0,away,Sub,,,,,P. George,T. Young
+312,4,10:10.0,91,79,CLE,IND,11,away,LU,assist,0,make2,2,L. Allen,C. Miles
+313,4,9:56.0,91,79,CLE,IND,14,home,BadPass,steal,,turnover,,D. Williams,C. Miles
+314,4,9:48.0,91,79,CLE,IND,8,away,JS,,15,miss2,0,A. Brooks,
+315,4,9:47.0,91,79,CLE,IND,1,away,OffReb,,,OffReb,,A. Brooks,
+316,4,9:47.0,91,79,CLE,IND,0,away,LU,,1,miss2,0,A. Brooks,
+317,4,9:46.0,91,79,CLE,IND,1,home,DefReb,,,DefReb,,C. Frye,
+318,4,9:46.0,91,79,CLE,IND,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Allen,C. Frye
+319,4,9:37.0,91,79,CLE,IND,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Stephenson,L. James
+320,4,9:37.0,92,79,CLE,IND,0,home,FreeThrow,,,make1,1,L. James,
+321,4,9:37.0,92,79,CLE,IND,0,home,FreeThrow,,,make1,0,L. James,
+322,4,9:36.0,92,79,CLE,IND,1,away,DefReb,,,DefReb,,L. Stephenson,
+323,4,9:17.0,92,79,CLE,IND,19,away,JS,,9,miss2,0,A. Brooks,
+324,4,9:17.0,92,79,CLE,IND,0,away,OffReb,,,OffReb,,L. Allen,
+325,4,9:17.0,92,81,CLE,IND,0,away,HS,,3,make2,2,L. Allen,
+326,4,9:17.0,92,81,CLE,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Williams,L. Allen
+327,4,9:17.0,92,82,CLE,IND,0,away,FreeThrow,,,make1,1,L. Allen,
+328,4,9:00.0,92,82,CLE,IND,17,home,LU,block,2,miss2,0,L. James,P. George
+329,4,9:00.0,92,82,CLE,IND,0,home,OffReb,,,OffReb,,L. James,
+330,4,8:59.0,92,82,CLE,IND,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Miles,L. James
+331,4,8:59.0,93,82,CLE,IND,0,home,FreeThrow,,,make1,1,L. James,
+332,4,8:59.0,94,82,CLE,IND,0,home,FreeThrow,,,make1,1,L. James,
+333,4,8:44.0,94,84,CLE,IND,15,away,JS,,18,make2,2,P. George,
+334,4,8:21.0,94,84,CLE,IND,23,home,JS,,24,miss3,0,D. Williams,
+335,4,8:20.0,94,84,CLE,IND,1,away,DefReb,,,DefReb,,C. Miles,
+336,4,8:09.0,94,84,CLE,IND,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Shumpert,P. George
+337,4,8:09.0,94,85,CLE,IND,0,away,FreeThrow,,,make1,1,P. George,
+338,4,8:09.0,94,86,CLE,IND,0,away,FreeThrow,,,make1,1,P. George,
+339,4,7:56.0,96,86,CLE,IND,13,home,DK,assist,0,make2,2,L. James,D. Williams
+340,4,7:40.0,96,86,CLE,IND,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. James,C. Miles
+341,4,7:40.0,96,87,CLE,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+342,4,7:40.0,96,88,CLE,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+343,4,7:40.0,96,89,CLE,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+344,4,7:25.0,96,89,CLE,IND,15,home,JS,,24,miss3,0,C. Frye,
+345,4,7:25.0,96,89,CLE,IND,0,away,DefReb,,,DefReb,,C. Miles,
+346,4,7:13.0,96,89,CLE,IND,12,away,JS,,26,miss3,0,P. George,
+347,4,7:13.0,96,89,CLE,IND,0,away,OffReb,,,OffReb,,A. Brooks,
+348,4,7:05.0,96,91,CLE,IND,8,away,JS,assist,9,make2,2,C. Miles,L. Stephenson
+349,4,6:48.0,96,91,CLE,IND,17,home,JS,,26,miss3,0,D. Williams,
+350,4,6:48.0,96,91,CLE,IND,0,away,DefReb,,,DefReb,,P. George,
+351,4,6:40.0,96,91,CLE,IND,8,away,JS,,19,miss2,0,L. Stephenson,
+352,4,6:39.0,96,91,CLE,IND,1,home,DefReb,,,DefReb,,L. James,
+353,4,6:17.0,96,91,CLE,IND,22,home,JS,,25,miss3,0,L. James,
+354,4,6:16.0,96,91,CLE,IND,1,away,DefReb,,,DefReb,,L. Stephenson,
+355,4,5:58.0,96,94,CLE,IND,18,away,JS,assist,26,make3,3,C. Miles,A. Brooks
+356,4,5:58.0,96,94,CLE,IND,0,home,Timeout,,,,,,
+357,4,5:58.0,96,94,CLE,IND,0,home,Sub,,,,,K. Irving,C. Frye
+358,4,5:58.0,96,94,CLE,IND,0,home,Sub,,,,,J. Smith,I. Shumpert
+359,4,5:58.0,96,94,CLE,IND,0,home,Sub,,,,,K. Love,D. Williams
+360,4,5:58.0,96,94,CLE,IND,0,home,Sub,,,,,T. Thompson,R. Jefferson
+361,4,5:42.0,96,94,CLE,IND,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Stephenson,L. James
+362,4,5:42.0,97,94,CLE,IND,0,home,FreeThrow,,,make1,1,L. James,
+363,4,5:42.0,97,94,CLE,IND,0,away,Sub,,,,,M. Turner,L. Allen
+364,4,5:42.0,98,94,CLE,IND,0,home,FreeThrow,,,make1,1,L. James,
+365,4,5:28.0,98,94,CLE,IND,14,away,JS,,25,miss3,0,P. George,
+366,4,5:27.0,98,94,CLE,IND,1,home,DefReb,,,DefReb,,J. Smith,
+367,4,5:13.0,98,94,CLE,IND,14,away,Sub,,,,,J. Teague,A. Brooks
+368,4,5:02.0,98,94,CLE,IND,11,home,JS,,7,miss2,0,T. Thompson,
+369,4,5:02.0,98,94,CLE,IND,0,away,DefReb,,,DefReb,,M. Turner,
+370,4,4:46.0,98,94,CLE,IND,16,away,JS,,23,miss3,0,C. Miles,
+371,4,4:46.0,98,94,CLE,IND,0,home,DefReb,,,DefReb,,K. Love,
+372,4,4:34.0,98,94,CLE,IND,12,home,Traveling,,,turnover,,K. Love,
+373,4,4:22.0,98,94,CLE,IND,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Love,M. Turner
+374,4,4:22.0,98,95,CLE,IND,0,away,FreeThrow,,,make1,1,M. Turner,
+375,4,4:22.0,98,96,CLE,IND,0,away,FreeThrow,,,make1,1,M. Turner,
+376,4,4:07.0,98,96,CLE,IND,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Stephenson,L. James
+377,4,4:07.0,98,96,CLE,IND,0,home,FreeThrow,,,make1,0,L. James,
+378,4,4:07.0,98,96,CLE,IND,0,home,OffReb,,,OffReb,,Team,
+379,4,4:07.0,98,96,CLE,IND,0,home,FreeThrow,,,make1,0,L. James,
+380,4,4:07.0,98,96,CLE,IND,0,away,Sub,,,,,M. Ellis,L. Stephenson
+381,4,4:05.0,98,96,CLE,IND,2,away,DefReb,,,DefReb,,J. Teague,
+382,4,3:48.0,98,99,CLE,IND,17,away,JS,assist,26,make3,3,J. Teague,P. George
+383,4,3:28.0,98,99,CLE,IND,20,home,JS,,24,miss3,0,L. James,
+384,4,3:28.0,98,99,CLE,IND,0,home,OffReb,,,OffReb,,T. Thompson,
+385,4,3:22.0,100,99,CLE,IND,6,home,DK,assist,0,make2,2,L. James,J. Smith
+386,4,3:06.0,100,99,CLE,IND,16,away,LostBall,steal,,turnover,,P. George,L. James
+387,4,2:47.0,100,99,CLE,IND,19,home,JS,,25,miss3,0,K. Love,
+388,4,2:46.0,100,99,CLE,IND,1,away,DefReb,,,DefReb,,J. Teague,
+389,4,2:38.0,100,99,CLE,IND,8,away,JS,,16,miss2,0,C. Miles,
+390,4,2:38.0,100,99,CLE,IND,0,home,DefReb,,,DefReb,,Team,
+391,4,2:38.0,100,99,CLE,IND,0,away,Timeout,,,,,,
+392,4,2:38.0,100,99,CLE,IND,0,home,Sub,,,,,I. Shumpert,T. Thompson
+393,4,2:23.0,102,99,CLE,IND,15,home,DK,assist,0,make2,2,L. James,K. Love
+394,4,2:00.0,102,101,CLE,IND,23,away,JS,,17,make2,2,P. George,
+395,4,1:35.0,102,101,CLE,IND,25,home,BadPass,steal,,turnover,,I. Shumpert,J. Teague
+396,4,1:25.0,102,104,CLE,IND,10,away,JS,assist,23,make3,3,C. Miles,P. George
+397,4,1:03.0,102,104,CLE,IND,22,home,Timeout,,,,,,
+398,4,1:03.0,102,104,CLE,IND,0,home,Sub,,,,,D. Williams,I. Shumpert
+399,4,1:01.0,104,104,CLE,IND,2,home,JS,assist,11,make2,2,L. James,D. Williams
+400,4,1:01.0,104,104,CLE,IND,0,away,Timeout,,,,,,
+401,4,1:01.0,104,104,CLE,IND,0,home,Sub,,,,,I. Shumpert,K. Love
+402,4,1:01.0,104,104,CLE,IND,0,home,Sub,,,,,T. Thompson,D. Williams
+403,4,0:47.0,104,104,CLE,IND,14,away,JS,,24,miss3,0,P. George,
+404,4,0:45.0,104,104,CLE,IND,2,home,DefReb,,,DefReb,,I. Shumpert,
+405,4,0:26.0,104,104,CLE,IND,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. George,T. Thompson
+406,4,0:26.0,104,104,CLE,IND,0,home,FreeThrow,,,make1,0,T. Thompson,
+407,4,0:26.0,104,104,CLE,IND,0,home,OffReb,,,OffReb,,Team,
+408,4,0:26.0,104,104,CLE,IND,0,home,FreeThrow,,,make1,0,T. Thompson,
+409,4,0:26.0,104,104,CLE,IND,0,away,DefReb,,,DefReb,,P. George,
+410,4,0:26.0,104,104,CLE,IND,0,away,Timeout,,,,,,
+411,4,0:26.0,104,104,CLE,IND,0,away,Sub,,,,,T. Young,C. Miles
+412,4,0:26.0,104,104,CLE,IND,0,away,Sub,,,,,C. Miles,T. Young
+413,4,0:03.0,104,104,CLE,IND,23,away,JS,,13,miss2,0,M. Turner,
+414,4,0:02.0,104,104,CLE,IND,1,home,DefReb,,,DefReb,,K. Irving,
+415,4,0:01.0,104,104,CLE,IND,1,home,Timeout,,,,,,
+416,4,0:01.0,104,104,CLE,IND,0,away,Sub,,,,,T. Young,C. Miles
+417,4,0:01.0,104,104,CLE,IND,0,home,Sub,,,,,K. Love,T. Thompson
+418,1OT,4:38.0,106,104,CLE,IND,442,home,DK,assist,0,make2,2,T. Thompson,K. Irving
+419,1OT,4:09.0,106,106,CLE,IND,29,away,JS,assist,14,make2,2,T. Young,J. Teague
+420,1OT,3:51.0,106,106,CLE,IND,18,home,BadPass,,,turnover,,T. Thompson,
+421,1OT,3:33.0,106,106,CLE,IND,18,away,LU,,1,miss2,0,M. Ellis,
+422,1OT,3:32.0,106,106,CLE,IND,1,home,DefReb,,,DefReb,,K. Love,
+423,1OT,3:22.0,109,106,CLE,IND,10,home,JS,,24,make3,3,K. Irving,
+424,1OT,3:07.0,109,106,CLE,IND,15,away,JS,,18,miss2,0,P. George,
+425,1OT,3:05.0,109,106,CLE,IND,2,away,OffReb,,,OffReb,,M. Ellis,
+426,1OT,3:05.0,109,108,CLE,IND,0,away,LU,,1,make2,2,M. Ellis,
+427,1OT,2:53.0,111,108,CLE,IND,12,home,DK,assist,0,make2,2,T. Thompson,K. Irving
+428,1OT,2:45.0,111,108,CLE,IND,8,away,JS,,25,miss3,0,P. George,
+429,1OT,2:44.0,111,108,CLE,IND,1,home,DefReb,,,DefReb,,T. Thompson,
+430,1OT,2:34.0,111,108,CLE,IND,10,home,JS,,15,miss2,0,K. Irving,
+431,1OT,2:33.0,111,108,CLE,IND,1,away,DefReb,,,DefReb,,P. George,
+432,1OT,2:30.0,111,108,CLE,IND,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. James,M. Ellis
+433,1OT,2:30.0,111,108,CLE,IND,0,home,Timeout,,,,,,
+434,1OT,2:30.0,111,108,CLE,IND,0,away,Sub,,,,,C. Miles,T. Young
+435,1OT,2:09.0,111,110,CLE,IND,21,away,DK,,0,make2,2,P. George,
+436,1OT,1:45.0,111,110,CLE,IND,24,home,JS,,6,miss2,0,J. Smith,
+437,1OT,1:45.0,111,110,CLE,IND,0,home,OffReb,,,OffReb,,Team,
+438,1OT,1:45.0,111,110,CLE,IND,0,home,ShotClockViolation,,,turnover,,Team,
+439,1OT,1:33.0,111,113,CLE,IND,12,away,JS,assist,24,make3,3,P. George,M. Turner
+440,1OT,1:16.0,111,113,CLE,IND,17,home,JS,,9,miss2,0,K. Irving,
+441,1OT,1:14.0,111,113,CLE,IND,2,home,OffReb,,,OffReb,,K. Love,
+442,1OT,1:02.0,111,113,CLE,IND,12,home,JS,,25,miss3,0,L. James,
+443,1OT,1:02.0,111,113,CLE,IND,0,away,DefReb,,,DefReb,,M. Ellis,
+444,1OT,0:39.0,111,113,CLE,IND,23,away,ShotClockViolation,,,turnover,,Team,
+445,1OT,0:39.0,111,113,CLE,IND,0,home,Timeout,,,,,,
+446,1OT,0:39.0,111,113,CLE,IND,0,away,Sub,,,,,T. Young,C. Miles
+447,1OT,0:39.0,111,113,CLE,IND,0,home,Sub,,,,,I. Shumpert,T. Thompson
+448,1OT,0:37.0,111,113,CLE,IND,2,home,BadPass,steal,,turnover,,K. Love,P. George
+449,1OT,0:31.0,111,113,CLE,IND,6,away,Timeout,,,,,,
+450,1OT,0:31.0,111,113,CLE,IND,0,home,Sub,,,,,T. Thompson,K. Love
+451,1OT,0:31.0,111,113,CLE,IND,0,away,Sub,,,,,C. Miles,T. Young
+452,1OT,0:17.0,111,113,CLE,IND,14,away,JS,,16,miss2,0,P. George,
+453,1OT,0:15.0,111,113,CLE,IND,2,home,DefReb,,,DefReb,,K. Irving,
+454,1OT,0:03.0,114,113,CLE,IND,12,home,JS,assist,25,make3,3,J. Smith,L. James
+455,1OT,0:03.0,114,113,CLE,IND,0,away,Timeout,,,,,,
+456,1OT,0:02.0,114,113,CLE,IND,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Thompson,P. George
+457,1OT,0:02.0,114,113,CLE,IND,0,away,FreeThrow,,,make1,0,P. George,
+458,1OT,0:02.0,114,113,CLE,IND,0,away,OffReb,,,OffReb,,Team,
+459,1OT,0:02.0,114,114,CLE,IND,0,away,FreeThrow,,,make1,1,P. George,
+460,1OT,0:02.0,114,114,CLE,IND,0,home,Timeout,,,,,,
+461,1OT,0:02.0,114,114,CLE,IND,0,home,BadPass,steal,,turnover,,K. Love,P. George
+462,1OT,0:02.0,114,114,CLE,IND,0,away,Sub,,,,,T. Young,C. Miles
+463,1OT,0:02.0,114,114,CLE,IND,0,home,Sub,,,,,K. Love,T. Thompson
+464,1OT,0:01.0,114,114,CLE,IND,1,away,Timeout,,,,,,
+465,1OT,0:01.0,114,114,CLE,IND,0,away,Sub,,,,,C. Miles,T. Young
+466,1OT,0:01.0,114,114,CLE,IND,0,home,Sub,,,,,T. Thompson,K. Irving
+467,1OT,0:00.0,114,114,CLE,IND,1,away,JS,,25,miss3,0,P. George,
+468,1OT,0:00.0,114,114,CLE,IND,0,away,OffReb,,,OffReb,,Team,
+469,2OT,4:51.0,114,114,CLE,IND,429,away,JS,,17,miss2,0,M. Ellis,
+470,2OT,4:51.0,114,114,CLE,IND,0,home,DefReb,,,DefReb,,K. Love,
+471,2OT,4:38.0,114,114,CLE,IND,13,home,JS,,24,miss2,0,K. Irving,
+472,2OT,4:37.0,114,114,CLE,IND,1,home,OffReb,,,OffReb,,J. Smith,
+473,2OT,4:32.0,114,114,CLE,IND,5,home,JS,,6,miss2,0,K. Irving,
+474,2OT,4:31.0,114,114,CLE,IND,1,home,OffReb,,,OffReb,,T. Thompson,
+475,2OT,4:31.0,116,114,CLE,IND,0,home,DK,,0,make2,2,T. Thompson,
+476,2OT,4:03.0,116,114,CLE,IND,28,away,JS,,12,miss2,0,P. George,
+477,2OT,4:01.0,116,114,CLE,IND,2,home,DefReb,,,DefReb,,K. Love,
+478,2OT,3:53.0,116,114,CLE,IND,8,home,LU,,0,miss2,0,L. James,
+479,2OT,3:52.0,116,114,CLE,IND,1,away,DefReb,,,DefReb,,P. George,
+480,2OT,3:35.0,116,116,CLE,IND,17,away,JS,,14,make2,2,P. George,
+481,2OT,3:35.0,116,116,CLE,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Irving,P. George
+482,2OT,3:35.0,116,117,CLE,IND,0,away,FreeThrow,,,make1,1,P. George,
+483,2OT,3:17.0,118,117,CLE,IND,18,home,HS,assist,6,make2,2,K. Love,L. James
+484,2OT,2:59.0,118,117,CLE,IND,18,away,JS,,26,miss3,0,J. Teague,
+485,2OT,2:58.0,118,117,CLE,IND,1,home,DefReb,,,DefReb,,L. James,
+486,2OT,2:37.0,118,117,CLE,IND,21,home,JS,,25,miss3,0,L. James,
+487,2OT,2:36.0,118,117,CLE,IND,1,home,OffReb,,,OffReb,,K. Love,
+488,2OT,2:36.0,120,117,CLE,IND,0,home,LU,,0,make2,2,K. Love,
+489,2OT,2:36.0,120,117,CLE,IND,0,away,Timeout,,,,,,
+490,2OT,2:36.0,120,117,CLE,IND,0,away,Sub,,,,,T. Young,M. Ellis
+491,2OT,2:25.0,120,120,CLE,IND,11,away,JS,assist,24,make3,3,P. George,M. Turner
+492,2OT,2:06.0,123,120,CLE,IND,19,home,JS,assist,23,make3,3,J. Smith,L. James
+493,2OT,1:47.0,123,122,CLE,IND,19,away,JS,assist,19,make2,2,P. George,J. Teague
+494,2OT,1:27.0,125,122,CLE,IND,20,home,JS,,8,make2,2,K. Love,
+495,2OT,1:12.0,125,124,CLE,IND,15,away,JS,assist,14,make2,2,P. George,J. Teague
+496,2OT,1:12.0,125,124,CLE,IND,0,home,Timeout,,,,,,
+497,2OT,0:58.0,128,124,CLE,IND,14,home,JS,assist,27,make3,3,L. James,K. Irving
+498,2OT,0:50.0,128,127,CLE,IND,8,away,JS,assist,26,make3,3,P. George,J. Teague
+499,2OT,0:27.0,131,127,CLE,IND,23,home,JS,assist,26,make3,3,K. Love,L. James
+500,2OT,0:27.0,131,127,CLE,IND,0,away,Timeout,,,,,,
+501,2OT,0:17.0,131,127,CLE,IND,10,away,JS,,25,miss3,0,C. Miles,
+502,2OT,0:17.0,131,127,CLE,IND,0,home,DefReb,,,DefReb,,L. James,
+503,2OT,0:17.0,131,127,CLE,IND,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Turner,L. James
+504,2OT,0:17.0,131,127,CLE,IND,0,home,Timeout,,,,,,
+505,2OT,0:17.0,131,127,CLE,IND,0,away,Sub,,,,,M. Ellis,P. George
+506,2OT,0:17.0,131,127,CLE,IND,0,home,Sub,,,,,I. Shumpert,T. Thompson
+507,2OT,0:16.0,131,127,CLE,IND,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Teague,K. Irving
+508,2OT,0:16.0,132,127,CLE,IND,0,home,FreeThrow,,,make1,1,K. Irving,
+509,2OT,0:16.0,132,127,CLE,IND,0,home,Sub,,,,,T. Thompson,K. Love
+510,2OT,0:16.0,133,127,CLE,IND,0,away,Sub,,,,,P. George,T. Young
+511,2OT,0:16.0,133,127,CLE,IND,0,home,FreeThrow,,,make1,1,K. Irving,
+512,2OT,0:16.0,133,127,CLE,IND,0,away,Timeout,,,,,,
+513,2OT,0:11.0,133,127,CLE,IND,5,away,JS,,25,miss3,0,P. George,
+514,2OT,0:10.0,133,127,CLE,IND,1,away,OffReb,,,OffReb,,J. Teague,
+515,2OT,0:08.0,133,127,CLE,IND,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Shumpert,C. Miles
+516,2OT,0:08.0,133,128,CLE,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+517,2OT,0:08.0,133,129,CLE,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+518,2OT,0:08.0,133,129,CLE,IND,0,home,Sub,,,,,K. Love,I. Shumpert
+519,2OT,0:08.0,133,129,CLE,IND,0,away,Sub,,,,,T. Young,P. George
+520,2OT,0:08.0,133,130,CLE,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+521,2OT,0:07.0,133,130,CLE,IND,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Young,K. Irving
+522,2OT,0:07.0,134,130,CLE,IND,0,home,FreeThrow,,,make1,1,K. Irving,
+523,2OT,0:07.0,134,130,CLE,IND,0,away,Sub,,,,,P. George,T. Young
+524,2OT,0:07.0,134,130,CLE,IND,0,home,Sub,,,,,I. Shumpert,K. Love
+525,2OT,0:07.0,135,130,CLE,IND,0,home,FreeThrow,,,make1,1,K. Irving,
+526,2OT,0:03.0,135,130,CLE,IND,4,away,JS,,28,miss3,0,J. Teague,
+527,2OT,0:02.0,135,130,CLE,IND,1,home,DefReb,,,DefReb,,L. James,

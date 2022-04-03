@@ -1,0 +1,472 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:36.0,0,0,NOP,HOU,24,home,JS,,22,miss3,0,S. Hill,
+1,1,11:36.0,0,0,NOP,HOU,0,home,OffReb,,,OffReb,,D. Cousins,
+2,1,11:36.0,0,0,NOP,HOU,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,N. Hilário,D. Cousins
+3,1,11:28.0,2,0,NOP,HOU,8,home,JS,assist,20,make2,2,D. Cousins,J. Holiday
+4,1,11:09.0,2,0,NOP,HOU,19,away,BadPass,,,turnover,,J. Harden,
+5,1,10:49.0,2,0,NOP,HOU,20,home,LostBall,steal,,turnover,,S. Hill,P. Beverley
+6,1,10:37.0,2,0,NOP,HOU,12,away,LostBall,,,turnover,,P. Beverley,
+7,1,10:37.0,2,0,NOP,HOU,0,home,DK,,0,miss2,0,A. Davis,
+8,1,10:37.0,2,0,NOP,HOU,0,away,DefReb,,,DefReb,,P. Beverley,
+9,1,10:37.0,2,0,NOP,HOU,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,E. Moore,P. Beverley
+10,1,10:27.0,2,0,NOP,HOU,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,N. Hilário
+11,1,10:27.0,2,0,NOP,HOU,0,away,FreeThrow,,,make1,0,N. Hilário,
+12,1,10:27.0,2,0,NOP,HOU,0,away,OffReb,,,OffReb,,Team,
+13,1,10:27.0,2,0,NOP,HOU,0,away,FreeThrow,,,make1,0,N. Hilário,
+14,1,10:24.0,2,0,NOP,HOU,3,home,DefReb,,,DefReb,,D. Cousins,
+15,1,10:11.0,5,0,NOP,HOU,13,home,JS,assist,23,make3,3,S. Hill,E. Moore
+16,1,10:00.0,5,0,NOP,HOU,11,away,JS,,24,miss3,0,T. Ariza,
+17,1,9:59.0,5,0,NOP,HOU,1,away,OffReb,,,OffReb,,P. Beverley,
+18,1,9:49.0,5,2,NOP,HOU,10,away,HS,,6,make2,2,P. Beverley,
+19,1,9:37.0,5,2,NOP,HOU,12,home,JS,,25,miss3,0,E. Moore,
+20,1,9:37.0,5,2,NOP,HOU,0,away,DefReb,,,DefReb,,P. Beverley,
+21,1,9:27.0,5,2,NOP,HOU,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,R. Anderson
+22,1,9:27.0,5,3,NOP,HOU,0,away,FreeThrow,,,make1,1,R. Anderson,
+23,1,9:27.0,5,4,NOP,HOU,0,away,FreeThrow,,,make1,1,R. Anderson,
+24,1,9:04.0,7,4,NOP,HOU,23,home,JS,,22,make2,2,D. Cousins,
+25,1,8:52.0,7,4,NOP,HOU,12,away,JS,,26,miss3,0,J. Harden,
+26,1,8:51.0,7,4,NOP,HOU,1,away,OffReb,,,OffReb,,R. Anderson,
+27,1,8:38.0,7,6,NOP,HOU,13,away,LU,,3,make2,2,J. Harden,
+28,1,8:17.0,7,6,NOP,HOU,21,home,LostBall,steal,,turnover,,J. Holiday,T. Ariza
+29,1,8:09.0,7,6,NOP,HOU,8,away,JS,,25,miss3,0,J. Harden,
+30,1,8:08.0,7,6,NOP,HOU,1,home,DefReb,,,DefReb,,J. Holiday,
+31,1,8:02.0,7,6,NOP,HOU,6,home,LostBall,,,turnover,,J. Holiday,
+32,1,7:37.0,7,6,NOP,HOU,25,away,LU,block,2,miss2,0,T. Ariza,A. Davis
+33,1,7:36.0,7,6,NOP,HOU,1,away,OffReb,,,OffReb,,R. Anderson,
+34,1,7:33.0,7,8,NOP,HOU,3,away,LU,,3,make2,2,R. Anderson,
+35,1,7:25.0,7,8,NOP,HOU,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ariza,A. Davis
+36,1,7:25.0,7,8,NOP,HOU,0,home,FreeThrow,,,make1,0,A. Davis,
+37,1,7:25.0,7,8,NOP,HOU,0,home,OffReb,,,OffReb,,Team,
+38,1,7:25.0,8,8,NOP,HOU,0,home,FreeThrow,,,make1,1,A. Davis,
+39,1,7:16.0,8,8,NOP,HOU,9,away,JS,,25,miss3,0,T. Ariza,
+40,1,7:14.0,8,8,NOP,HOU,2,home,DefReb,,,DefReb,,E. Moore,
+41,1,7:06.0,8,8,NOP,HOU,8,home,LU,block,1,miss2,0,A. Davis,N. Hilário
+42,1,7:05.0,8,8,NOP,HOU,1,away,DefReb,,,DefReb,,P. Beverley,
+43,1,6:54.0,8,8,NOP,HOU,11,away,JS,,25,miss3,0,J. Harden,
+44,1,6:54.0,8,8,NOP,HOU,0,home,DefReb,,,DefReb,,J. Holiday,
+45,1,6:45.0,10,8,NOP,HOU,9,home,LU,assist,1,make2,2,D. Cousins,E. Moore
+46,1,6:33.0,10,8,NOP,HOU,12,away,LostBall,steal,,turnover,,R. Anderson,J. Holiday
+47,1,6:20.0,10,8,NOP,HOU,13,home,JS,,22,miss2,0,E. Moore,
+48,1,6:20.0,10,8,NOP,HOU,0,away,DefReb,,,DefReb,,J. Harden,
+49,1,6:18.0,10,8,NOP,HOU,2,away,BadPass,steal,,turnover,,J. Harden,D. Cousins
+50,1,6:11.0,10,8,NOP,HOU,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harden,E. Moore
+51,1,6:11.0,11,8,NOP,HOU,0,home,FreeThrow,,,make1,1,E. Moore,
+52,1,6:11.0,11,8,NOP,HOU,0,away,Sub,,,,,C. Capela,N. Hilário
+53,1,6:11.0,12,8,NOP,HOU,0,home,FreeThrow,,,make1,1,E. Moore,
+54,1,5:56.0,12,8,NOP,HOU,15,away,JS,block,5,miss2,0,R. Anderson,D. Cousins
+55,1,5:52.0,12,8,NOP,HOU,4,away,OffReb,,,OffReb,,C. Capela,
+56,1,5:52.0,12,10,NOP,HOU,0,away,LU,,2,make2,2,C. Capela,
+57,1,5:38.0,12,10,NOP,HOU,14,home,JS,,27,miss3,0,D. Cousins,
+58,1,5:38.0,12,10,NOP,HOU,0,away,DefReb,,,DefReb,,T. Ariza,
+59,1,5:28.0,12,12,NOP,HOU,10,away,DK,assist,0,make2,2,C. Capela,J. Harden
+60,1,5:13.0,14,12,NOP,HOU,15,home,LU,assist,2,make2,2,A. Davis,S. Hill
+61,1,5:08.0,14,12,NOP,HOU,5,away,BadPass,steal,,turnover,,J. Harden,E. Moore
+62,1,5:02.0,14,12,NOP,HOU,6,home,Timeout,,,,,,
+63,1,5:02.0,14,12,NOP,HOU,0,home,Sub,,,,,D. Cunningham,D. Cousins
+64,1,5:02.0,14,12,NOP,HOU,0,away,Sub,,,,,E. Gordon,P. Beverley
+65,1,4:59.0,14,12,NOP,HOU,3,home,BadPass,,,turnover,,A. Davis,
+66,1,4:43.0,14,14,NOP,HOU,16,away,DK,assist,0,make2,2,C. Capela,J. Harden
+67,1,4:22.0,14,14,NOP,HOU,21,home,JS,,26,miss3,0,J. Holiday,
+68,1,4:21.0,14,14,NOP,HOU,1,away,DefReb,,,DefReb,,J. Harden,
+69,1,4:08.0,14,14,NOP,HOU,13,away,JS,,28,miss3,0,E. Gordon,
+70,1,4:07.0,14,14,NOP,HOU,1,home,DefReb,,,DefReb,,A. Davis,
+71,1,3:53.0,14,14,NOP,HOU,14,home,JS,,14,miss2,0,A. Davis,
+72,1,3:51.0,14,14,NOP,HOU,2,away,DefReb,,,DefReb,,R. Anderson,
+73,1,3:40.0,14,14,NOP,HOU,11,away,JS,,26,miss3,0,T. Ariza,
+74,1,3:39.0,14,14,NOP,HOU,1,home,DefReb,,,DefReb,,S. Hill,
+75,1,3:34.0,14,14,NOP,HOU,5,home,BadPass,steal,,turnover,,S. Hill,J. Harden
+76,1,3:29.0,14,16,NOP,HOU,5,away,LU,,2,make2,2,J. Harden,
+77,1,3:15.0,14,16,NOP,HOU,14,home,LostBall,,,turnover,,J. Holiday,
+78,1,3:15.0,14,16,NOP,HOU,0,away,Sub,,,,,L. Williams,R. Anderson
+79,1,3:15.0,14,16,NOP,HOU,0,home,Sub,,,,,T. Frazier,J. Holiday
+80,1,3:05.0,14,19,NOP,HOU,10,away,JS,assist,23,make3,3,L. Williams,J. Harden
+81,1,2:52.0,14,19,NOP,HOU,13,home,JS,,5,miss2,0,T. Frazier,
+82,1,2:52.0,14,19,NOP,HOU,0,away,DefReb,,,DefReb,,T. Ariza,
+83,1,2:42.0,14,22,NOP,HOU,10,away,JS,assist,23,make3,3,L. Williams,J. Harden
+84,1,2:27.0,14,22,NOP,HOU,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Gordon,A. Davis
+85,1,2:27.0,14,22,NOP,HOU,0,away,Timeout,,,,,,
+86,1,2:27.0,15,22,NOP,HOU,0,home,FreeThrow,,,make1,1,A. Davis,
+87,1,2:27.0,14,22,NOP,HOU,0,away,Sub,,,,,S. Dekker,T. Ariza
+88,1,2:27.0,14,22,NOP,HOU,0,home,Sub,,,,,O. Casspi,E. Moore
+89,1,2:27.0,16,22,NOP,HOU,0,home,FreeThrow,,,make1,1,A. Davis,
+90,1,2:14.0,16,25,NOP,HOU,13,away,JS,assist,27,make3,3,E. Gordon,J. Harden
+91,1,2:00.0,18,25,NOP,HOU,14,home,LU,assist,2,make2,2,A. Davis,T. Frazier
+92,1,2:00.0,18,25,NOP,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Capela,A. Davis
+93,1,2:00.0,19,25,NOP,HOU,0,home,FreeThrow,,,make1,1,A. Davis,
+94,1,1:44.0,19,25,NOP,HOU,16,away,JS,,26,miss3,0,E. Gordon,
+95,1,1:43.0,19,25,NOP,HOU,1,home,DefReb,,,DefReb,,O. Casspi,
+96,1,1:32.0,19,25,NOP,HOU,11,home,JS,,7,miss2,0,A. Davis,
+97,1,1:31.0,19,25,NOP,HOU,1,away,DefReb,,,DefReb,,S. Dekker,
+98,1,1:24.0,19,25,NOP,HOU,7,away,LU,block,1,miss2,0,C. Capela,A. Davis
+99,1,1:23.0,19,25,NOP,HOU,1,home,DefReb,,,DefReb,,T. Frazier,
+100,1,1:19.0,21,25,NOP,HOU,4,home,DK,assist,0,make2,2,D. Cunningham,A. Davis
+101,1,1:11.0,21,25,NOP,HOU,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cunningham,J. Harden
+102,1,1:11.0,21,26,NOP,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+103,1,1:11.0,21,27,NOP,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+104,1,1:11.0,21,27,NOP,HOU,0,home,Sub,,,,,D. Cousins,A. Davis
+105,1,1:11.0,21,28,NOP,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+106,1,0:57.0,24,28,NOP,HOU,14,home,JS,assist,25,make3,3,O. Casspi,D. Cousins
+107,1,0:50.0,24,28,NOP,HOU,7,away,LostBall,steal,,turnover,,J. Harden,D. Cousins
+108,1,0:46.0,26,28,NOP,HOU,4,home,DK,assist,0,make2,2,O. Casspi,S. Hill
+109,1,0:41.0,26,30,NOP,HOU,5,away,LU,,2,make2,2,E. Gordon,
+110,1,0:24.0,26,30,NOP,HOU,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Capela,D. Cousins
+111,1,0:24.0,27,30,NOP,HOU,0,home,FreeThrow,,,make1,1,D. Cousins,
+112,1,0:24.0,28,30,NOP,HOU,0,home,FreeThrow,,,make1,1,D. Cousins,
+113,1,0:02.0,28,30,NOP,HOU,22,away,LU,block,2,miss2,0,J. Harden,D. Cousins
+114,1,0:02.0,28,30,NOP,HOU,0,away,OffReb,,,OffReb,,Team,
+115,2,11:41.0,28,30,NOP,HOU,19,away,JS,,3,miss2,0,L. Williams,
+116,2,11:40.0,28,30,NOP,HOU,1,home,DefReb,,,DefReb,,D. Motiejūnas,
+117,2,11:27.0,30,30,NOP,HOU,13,home,LU,assist,2,make2,2,D. Cousins,D. Cunningham
+118,2,11:16.0,30,30,NOP,HOU,11,away,LU,,2,miss2,0,E. Gordon,
+119,2,11:16.0,30,30,NOP,HOU,0,home,DefReb,,,DefReb,,D. Cousins,
+120,2,11:07.0,30,30,NOP,HOU,9,home,LU,,1,miss2,0,O. Casspi,
+121,2,11:06.0,30,30,NOP,HOU,1,away,DefReb,,,DefReb,,N. Hilário,
+122,2,10:53.0,30,30,NOP,HOU,13,away,BadPass,steal,,turnover,,P. Beverley,D. Cousins
+123,2,10:46.0,30,30,NOP,HOU,7,away,ChargeFoul,DrawnBy,,ChargeFoul,,O. Casspi,P. Beverley
+124,2,10:46.0,30,30,NOP,HOU,0,home,OffensiveFoul,,,turnover,,O. Casspi,
+125,2,10:37.0,30,30,NOP,HOU,9,away,JS,,26,miss3,0,E. Gordon,
+126,2,10:35.0,30,30,NOP,HOU,2,home,DefReb,,,DefReb,,T. Frazier,
+127,2,10:28.0,30,30,NOP,HOU,7,home,JS,,25,miss3,0,T. Frazier,
+128,2,10:27.0,30,30,NOP,HOU,1,away,DefReb,,,DefReb,,S. Dekker,
+129,2,10:16.0,30,32,NOP,HOU,11,away,JS,assist,19,make2,2,N. Hilário,S. Dekker
+130,2,9:59.0,30,32,NOP,HOU,17,home,BadPass,steal,,turnover,,D. Motiejūnas,P. Beverley
+131,2,9:52.0,30,35,NOP,HOU,7,away,JS,assist,24,make3,3,S. Dekker,P. Beverley
+132,2,9:29.0,30,35,NOP,HOU,23,home,JS,,26,miss3,0,D. Motiejūnas,
+133,2,9:28.0,30,35,NOP,HOU,1,away,DefReb,,,DefReb,,P. Beverley,
+134,2,9:23.0,30,37,NOP,HOU,5,away,LU,assist,2,make2,2,S. Dekker,P. Beverley
+135,2,9:19.0,30,37,NOP,HOU,4,home,Timeout,,,,,,
+136,2,9:12.0,30,37,NOP,HOU,7,home,D3SecTech,,,,,,
+137,2,9:12.0,30,37,NOP,HOU,0,home,FreeThrow,,,make1,0,D. Cousins misses technical free throw,
+138,2,9:12.0,30,37,NOP,HOU,0,home,OffReb,,,OffReb,,Team,
+139,2,8:58.0,33,37,NOP,HOU,14,home,JS,assist,25,make3,3,D. Cunningham,T. Frazier
+140,2,8:40.0,33,37,NOP,HOU,18,away,JS,,27,miss3,0,L. Williams,
+141,2,8:40.0,33,37,NOP,HOU,0,home,DefReb,,,DefReb,,D. Cunningham,
+142,2,8:18.0,33,37,NOP,HOU,22,home,JS,,27,miss3,0,D. Cousins,
+143,2,8:17.0,33,37,NOP,HOU,1,away,DefReb,,,DefReb,,P. Beverley,
+144,2,8:10.0,33,40,NOP,HOU,7,away,JS,,25,make3,3,E. Gordon,
+145,2,7:52.0,35,40,NOP,HOU,18,home,LU,,2,make2,2,D. Cousins,
+146,2,7:42.0,35,43,NOP,HOU,10,away,JS,assist,27,make3,3,E. Gordon,P. Beverley
+147,2,7:28.0,35,43,NOP,HOU,14,home,BadPass,steal,,turnover,,D. Cunningham,E. Gordon
+148,2,7:20.0,35,43,NOP,HOU,8,away,JS,,28,miss3,0,E. Gordon,
+149,2,7:18.0,35,43,NOP,HOU,2,away,OffReb,,,OffReb,,L. Williams,
+150,2,7:09.0,35,46,NOP,HOU,9,away,JS,assist,26,make3,3,L. Williams,P. Beverley
+151,2,6:53.0,37,46,NOP,HOU,16,home,LU,assist,2,make2,2,D. Motiejūnas,D. Cousins
+152,2,6:53.0,37,46,NOP,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Dekker,D. Motiejūnas
+153,2,6:53.0,37,46,NOP,HOU,0,home,Sub,,,,,J. Holiday,D. Cousins
+154,2,6:53.0,37,46,NOP,HOU,0,home,Sub,,,,,A. Davis,D. Cunningham
+155,2,6:53.0,37,46,NOP,HOU,0,home,Sub,,,,,S. Hill,T. Frazier
+156,2,6:53.0,37,46,NOP,HOU,0,away,Sub,,,,,R. Anderson,S. Dekker
+157,2,6:53.0,38,46,NOP,HOU,0,home,FreeThrow,,,make1,1,D. Motiejūnas,
+158,2,6:40.0,38,46,NOP,HOU,13,away,JS,,25,miss3,0,P. Beverley,
+159,2,6:40.0,38,46,NOP,HOU,0,home,DefReb,,,DefReb,,Team,
+160,2,6:23.0,38,46,NOP,HOU,17,home,BadPass,steal,,turnover,,J. Holiday,E. Gordon
+161,2,6:15.0,38,46,NOP,HOU,8,away,JS,,17,miss2,0,L. Williams,
+162,2,6:13.0,38,46,NOP,HOU,2,away,OffReb,,,OffReb,,N. Hilário,
+163,2,6:11.0,38,46,NOP,HOU,2,away,LU,,2,miss2,0,N. Hilário,
+164,2,6:08.0,38,46,NOP,HOU,3,home,DefReb,,,DefReb,,D. Motiejūnas,
+165,2,6:01.0,38,46,NOP,HOU,7,home,JS,,21,miss2,0,A. Davis,
+166,2,6:01.0,38,46,NOP,HOU,0,away,DefReb,,,DefReb,,N. Hilário,
+167,2,5:51.0,38,46,NOP,HOU,10,away,JS,,27,miss3,0,L. Williams,
+168,2,5:50.0,38,46,NOP,HOU,1,home,DefReb,,,DefReb,,S. Hill,
+169,2,5:42.0,38,46,NOP,HOU,8,home,BadPass,steal,,turnover,,D. Motiejūnas,N. Hilário
+170,2,5:41.0,38,46,NOP,HOU,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Motiejūnas,P. Beverley
+171,2,5:41.0,38,46,NOP,HOU,0,away,Timeout,,,,,,
+172,2,5:41.0,38,46,NOP,HOU,0,away,Sub,,,,,T. Ariza,N. Hilário
+173,2,5:41.0,38,46,NOP,HOU,0,away,Sub,,,,,J. Harden,E. Gordon
+174,2,5:41.0,38,46,NOP,HOU,0,away,Sub,,,,,C. Capela,L. Williams
+175,2,5:41.0,38,46,NOP,HOU,0,home,Sub,,,,,E. Moore,O. Casspi
+176,2,5:25.0,38,46,NOP,HOU,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,R. Anderson
+177,2,5:10.0,38,46,NOP,HOU,15,away,JS,,26,miss3,0,J. Harden,
+178,2,5:09.0,38,46,NOP,HOU,1,home,DefReb,,,DefReb,,E. Moore,
+179,2,4:52.0,38,46,NOP,HOU,17,home,JS,block,4,miss2,0,A. Davis,C. Capela
+180,2,4:51.0,38,46,NOP,HOU,1,home,OffReb,,,OffReb,,A. Davis,
+181,2,4:51.0,38,46,NOP,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Capela,A. Davis
+182,2,4:51.0,39,46,NOP,HOU,0,home,FreeThrow,,,make1,1,A. Davis,
+183,2,4:51.0,39,46,NOP,HOU,0,away,Sub,,,,,M. Harrell,C. Capela
+184,2,4:51.0,39,46,NOP,HOU,0,home,Sub,,,,,D. Cousins,D. Motiejūnas
+185,2,4:51.0,40,46,NOP,HOU,0,home,FreeThrow,,,make1,1,A. Davis,
+186,2,4:42.0,40,46,NOP,HOU,9,away,JS,,25,miss3,0,T. Ariza,
+187,2,4:41.0,40,46,NOP,HOU,1,home,DefReb,,,DefReb,,E. Moore,
+188,2,4:28.0,42,46,NOP,HOU,13,home,HS,assist,6,make2,2,A. Davis,D. Cousins
+189,2,4:14.0,42,46,NOP,HOU,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,J. Harden
+190,2,4:03.0,42,46,NOP,HOU,11,away,LostBall,steal,,turnover,,P. Beverley,D. Cousins
+191,2,3:55.0,44,46,NOP,HOU,8,home,JS,assist,15,make2,2,J. Holiday,E. Moore
+192,2,3:44.0,44,46,NOP,HOU,11,home,Sub,,,,,O. Casspi,S. Hill
+193,2,3:28.0,44,48,NOP,HOU,16,away,DK,assist,0,make2,2,M. Harrell,J. Harden
+194,2,3:14.0,44,48,NOP,HOU,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Beverley,A. Davis
+195,2,3:14.0,44,48,NOP,HOU,0,away,Sub,,,,,E. Gordon,P. Beverley
+196,2,3:00.0,44,48,NOP,HOU,14,home,JS,,18,miss2,0,D. Cousins,
+197,2,2:59.0,44,48,NOP,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
+198,2,2:46.0,44,51,NOP,HOU,13,away,JS,assist,28,make3,3,R. Anderson,J. Harden
+199,2,2:41.0,44,51,NOP,HOU,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Anderson,D. Cousins
+200,2,2:41.0,44,51,NOP,HOU,0,away,Timeout,,,,,,
+201,2,2:30.0,44,51,NOP,HOU,11,home,LostBall,steal,,turnover,,D. Cousins,J. Harden
+202,2,2:23.0,44,51,NOP,HOU,7,away,JS,,27,miss3,0,R. Anderson,
+203,2,2:23.0,44,51,NOP,HOU,0,away,OffReb,,,OffReb,,M. Harrell,
+204,2,2:23.0,44,53,NOP,HOU,0,away,LU,,2,make2,2,M. Harrell,
+205,2,2:23.0,44,53,NOP,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Casspi,M. Harrell
+206,2,2:23.0,44,53,NOP,HOU,0,away,FreeThrow,,,make1,0,M. Harrell,
+207,2,2:20.0,44,53,NOP,HOU,3,home,DefReb,,,DefReb,,D. Cousins,
+208,2,2:10.0,44,53,NOP,HOU,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Harrell,A. Davis
+209,2,2:10.0,44,53,NOP,HOU,0,home,FreeThrow,,,make1,0,A. Davis,
+210,2,2:10.0,44,53,NOP,HOU,0,home,OffReb,,,OffReb,,Team,
+211,2,2:10.0,45,53,NOP,HOU,0,home,FreeThrow,,,make1,1,A. Davis,
+212,2,1:55.0,45,53,NOP,HOU,15,away,DK,block,0,miss2,0,M. Harrell,D. Cousins
+213,2,1:52.0,45,53,NOP,HOU,3,away,OffReb,,,OffReb,,M. Harrell,
+214,2,1:49.0,45,55,NOP,HOU,3,away,LU,,2,make2,2,M. Harrell,
+215,2,1:38.0,45,55,NOP,HOU,11,home,JS,,7,miss2,0,J. Holiday,
+216,2,1:38.0,45,55,NOP,HOU,0,away,DefReb,,,DefReb,,Team,
+217,2,1:38.0,45,55,NOP,HOU,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Cousins,R. Anderson
+218,2,1:38.0,45,56,NOP,HOU,0,away,FreeThrow,,,make1,1,R. Anderson,
+219,2,1:38.0,45,56,NOP,HOU,0,home,Sub,,,,,D. Motiejūnas,D. Cousins
+220,2,1:38.0,45,57,NOP,HOU,0,away,FreeThrow,,,make1,1,R. Anderson,
+221,2,1:20.0,45,57,NOP,HOU,18,home,LU,,2,miss2,0,E. Moore,
+222,2,1:19.0,45,57,NOP,HOU,1,home,OffReb,,,OffReb,,A. Davis,
+223,2,1:19.0,47,57,NOP,HOU,0,home,LU,,2,make2,2,A. Davis,
+224,2,1:03.0,47,60,NOP,HOU,16,away,JS,assist,24,make3,3,R. Anderson,M. Harrell
+225,2,0:55.0,47,60,NOP,HOU,8,home,JS,,24,miss3,0,J. Holiday,
+226,2,0:53.0,47,60,NOP,HOU,2,away,DefReb,,,DefReb,,T. Ariza,
+227,2,0:44.0,47,60,NOP,HOU,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Motiejūnas,J. Harden
+228,2,0:44.0,47,61,NOP,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+229,2,0:44.0,47,61,NOP,HOU,0,home,Sub,,,,,D. Cunningham,O. Casspi
+230,2,0:44.0,47,62,NOP,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+231,2,0:32.0,49,62,NOP,HOU,12,home,JS,,10,make2,2,A. Davis,
+232,2,0:30.0,49,62,NOP,HOU,2,home,TechnicalFoul,,,TechnicalFoul,,Team,
+233,2,0:30.0,49,63,NOP,HOU,0,away,FreeThrow,,,make1,1,J. Harden makes technical free throw,
+234,2,0:30.0,49,63,NOP,HOU,0,away,Timeout,,,,,,
+235,2,0:25.0,49,63,NOP,HOU,5,home,KickBallViolation,,,KickBallViolation,,E. Moore,
+236,2,0:12.0,49,63,NOP,HOU,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Motiejūnas,E. Gordon
+237,2,0:12.0,49,64,NOP,HOU,0,away,FreeThrow,,,make1,1,E. Gordon,
+238,2,0:12.0,49,65,NOP,HOU,0,away,FreeThrow,,,make1,1,E. Gordon,
+239,2,0:12.0,49,65,NOP,HOU,0,home,Sub,,,,,O. Casspi,D. Motiejūnas
+240,2,0:12.0,49,66,NOP,HOU,0,away,FreeThrow,,,make1,1,E. Gordon,
+241,2,0:04.0,49,66,NOP,HOU,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Gordon,A. Davis
+242,2,0:04.0,49,66,NOP,HOU,0,home,FreeThrow,,,make1,0,A. Davis,
+243,2,0:04.0,49,66,NOP,HOU,0,home,OffReb,,,OffReb,,Team,
+244,2,0:04.0,50,66,NOP,HOU,0,home,FreeThrow,,,make1,1,A. Davis,
+245,2,0:00.0,50,66,NOP,HOU,4,away,JS,,32,miss3,0,E. Gordon,
+246,2,0:00.0,50,66,NOP,HOU,0,away,OffReb,,,OffReb,,Team,
+247,3,11:36.0,50,66,NOP,HOU,24,away,JS,block,5,miss2,0,N. Hilário,D. Cousins
+248,3,11:36.0,50,66,NOP,HOU,0,away,OffReb,,,OffReb,,Team,
+249,3,11:36.0,50,66,NOP,HOU,0,away,ShotClockViolation,,,turnover,,Team,
+250,3,11:22.0,50,66,NOP,HOU,14,away,ChargeFoul,DrawnBy,,ChargeFoul,,A. Davis,T. Ariza
+251,3,11:22.0,50,66,NOP,HOU,0,home,OffensiveFoul,,,turnover,,A. Davis,
+252,3,11:09.0,50,66,NOP,HOU,13,away,LU,block,2,miss2,0,N. Hilário,J. Holiday
+253,3,11:08.0,50,66,NOP,HOU,1,home,DefReb,,,DefReb,,A. Davis,
+254,3,11:02.0,50,66,NOP,HOU,6,home,JS,,26,miss3,0,J. Holiday,
+255,3,11:01.0,50,66,NOP,HOU,1,away,DefReb,,,DefReb,,P. Beverley,
+256,3,10:50.0,50,66,NOP,HOU,11,away,BadPass,steal,,turnover,,N. Hilário,D. Cousins
+257,3,10:26.0,50,66,NOP,HOU,24,home,JS,,28,miss3,0,D. Cousins,
+258,3,10:25.0,50,66,NOP,HOU,1,away,DefReb,,,DefReb,,J. Harden,
+259,3,10:18.0,50,69,NOP,HOU,7,away,JS,assist,26,make3,3,T. Ariza,J. Harden
+260,3,10:18.0,50,69,NOP,HOU,0,home,Timeout,,,,,,
+261,3,10:09.0,50,69,NOP,HOU,9,home,JS,,7,miss2,0,J. Holiday,
+262,3,10:09.0,50,69,NOP,HOU,0,away,DefReb,,,DefReb,,J. Harden,
+263,3,10:01.0,50,71,NOP,HOU,8,away,JS,assist,6,make2,2,N. Hilário,J. Harden
+264,3,10:01.0,50,71,NOP,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,N. Hilário
+265,3,10:01.0,50,72,NOP,HOU,0,away,FreeThrow,,,make1,1,N. Hilário,
+266,3,9:47.0,50,72,NOP,HOU,14,home,LostBall,steal,,turnover,,J. Holiday,P. Beverley
+267,3,9:40.0,50,72,NOP,HOU,7,away,LostBall,steal,,turnover,,T. Ariza,A. Davis
+268,3,9:31.0,50,72,NOP,HOU,9,home,JS,,24,miss3,0,S. Hill,
+269,3,9:30.0,50,72,NOP,HOU,1,home,OffReb,,,OffReb,,J. Holiday,
+270,3,9:22.0,50,72,NOP,HOU,8,home,JS,,25,miss3,0,A. Davis,
+271,3,9:21.0,50,72,NOP,HOU,1,away,DefReb,,,DefReb,,P. Beverley,
+272,3,9:11.0,50,72,NOP,HOU,10,away,JS,,27,miss3,0,R. Anderson,
+273,3,9:10.0,50,72,NOP,HOU,1,home,DefReb,,,DefReb,,D. Cousins,
+274,3,9:03.0,50,72,NOP,HOU,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Beverley,A. Davis
+275,3,8:48.0,52,72,NOP,HOU,15,home,JS,assist,3,make2,2,A. Davis,S. Hill
+276,3,8:48.0,52,72,NOP,HOU,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,N. Hilário
+277,3,8:48.0,52,72,NOP,HOU,0,home,PersonalFoul,,,,,N. Hilário,
+278,3,8:48.0,52,72,NOP,HOU,0,home,Sub,,,,,D. Cunningham,E. Moore
+279,3,8:36.0,52,74,NOP,HOU,12,away,DK,assist,0,make2,2,N. Hilário,J. Harden
+280,3,8:21.0,54,74,NOP,HOU,15,home,LU,,2,make2,2,J. Holiday,
+281,3,8:05.0,54,76,NOP,HOU,16,away,LU,assist,2,make2,2,N. Hilário,T. Ariza
+282,3,7:49.0,54,76,NOP,HOU,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Hilário,D. Cousins
+283,3,7:42.0,54,76,NOP,HOU,7,home,JS,,26,miss3,0,J. Holiday,
+284,3,7:41.0,54,76,NOP,HOU,1,home,OffReb,,,OffReb,,A. Davis,
+285,3,7:38.0,54,76,NOP,HOU,3,home,LU,block,2,miss2,0,A. Davis,T. Ariza
+286,3,7:37.0,54,76,NOP,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
+287,3,7:23.0,54,76,NOP,HOU,14,away,JS,block,23,miss3,0,R. Anderson,J. Holiday
+288,3,7:21.0,54,76,NOP,HOU,2,home,DefReb,,,DefReb,,D. Cousins,
+289,3,7:14.0,54,76,NOP,HOU,7,home,JS,,25,miss3,0,A. Davis,
+290,3,7:12.0,54,76,NOP,HOU,2,away,DefReb,,,DefReb,,P. Beverley,
+291,3,7:12.0,54,76,NOP,HOU,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Cunningham,P. Beverley
+292,3,6:58.0,54,79,NOP,HOU,14,away,JS,,27,make3,3,J. Harden,
+293,3,6:44.0,54,79,NOP,HOU,14,home,BadPass,steal,,turnover,,J. Holiday,P. Beverley
+294,3,6:39.0,54,79,NOP,HOU,5,home,Timeout,,,,,,
+295,3,6:39.0,54,79,NOP,HOU,0,away,Sub,,,,,E. Gordon,P. Beverley
+296,3,6:36.0,54,82,NOP,HOU,3,away,JS,assist,23,make3,3,R. Anderson,T. Ariza
+297,3,6:22.0,54,82,NOP,HOU,14,home,BadPass,steal,,turnover,,S. Hill,N. Hilário
+298,3,6:17.0,54,82,NOP,HOU,5,away,LU,,1,miss2,0,N. Hilário,
+299,3,6:15.0,54,82,NOP,HOU,2,home,DefReb,,,DefReb,,S. Hill,
+300,3,6:08.0,56,82,NOP,HOU,7,home,DK,assist,0,make2,2,A. Davis,S. Hill
+301,3,5:46.0,56,82,NOP,HOU,22,away,JS,,27,miss3,0,J. Harden,
+302,3,5:46.0,56,82,NOP,HOU,0,home,DefReb,,,DefReb,,D. Cousins,
+303,3,5:37.0,56,82,NOP,HOU,9,home,BadPass,,,turnover,,J. Holiday,
+304,3,5:37.0,56,82,NOP,HOU,0,away,Sub,,,,,C. Capela,N. Hilário
+305,3,5:12.0,56,85,NOP,HOU,25,away,JS,assist,26,make3,3,T. Ariza,J. Harden
+306,3,4:56.0,58,85,NOP,HOU,16,home,LU,,2,make2,2,D. Cousins,
+307,3,4:44.0,58,87,NOP,HOU,12,away,JS,,18,make2,2,R. Anderson,
+308,3,4:28.0,58,87,NOP,HOU,16,home,LU,,2,miss2,0,A. Davis,
+309,3,4:27.0,58,87,NOP,HOU,1,away,DefReb,,,DefReb,,R. Anderson,
+310,3,4:23.0,58,87,NOP,HOU,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cunningham,C. Capela
+311,3,4:23.0,58,88,NOP,HOU,0,away,FreeThrow,,,make1,1,C. Capela,
+312,3,4:23.0,58,88,NOP,HOU,0,away,FreeThrow,,,make1,0,C. Capela,
+313,3,4:23.0,58,88,NOP,HOU,0,home,Sub,,,,,O. Casspi,D. Cousins
+314,3,4:21.0,58,88,NOP,HOU,2,home,DefReb,,,DefReb,,A. Davis,
+315,3,3:59.0,58,88,NOP,HOU,22,home,BadPass,,,turnover,,A. Davis,
+316,3,3:42.0,58,90,NOP,HOU,17,away,DK,assist,0,make2,2,C. Capela,J. Harden
+317,3,3:34.0,58,90,NOP,HOU,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Gordon,A. Davis
+318,3,3:34.0,58,90,NOP,HOU,0,away,Sub,,,,,L. Williams,R. Anderson
+319,3,3:20.0,58,90,NOP,HOU,14,home,JS,,25,miss3,0,O. Casspi,
+320,3,3:20.0,58,90,NOP,HOU,0,away,DefReb,,,DefReb,,C. Capela,
+321,3,3:04.0,58,90,NOP,HOU,16,away,LostBall,,,turnover,,C. Capela,
+322,3,3:04.0,58,90,NOP,HOU,0,home,Sub,,,,,T. Frazier,S. Hill
+323,3,2:56.0,60,90,NOP,HOU,8,home,LU,,2,make2,2,J. Holiday,
+324,3,2:43.0,60,90,NOP,HOU,13,away,JS,,27,miss3,0,L. Williams,
+325,3,2:42.0,60,90,NOP,HOU,1,away,OffReb,,,OffReb,,T. Ariza,
+326,3,2:39.0,60,90,NOP,HOU,3,away,LU,,1,miss2,0,T. Ariza,
+327,3,2:36.0,60,90,NOP,HOU,3,home,DefReb,,,DefReb,,A. Davis,
+328,3,2:30.0,60,90,NOP,HOU,6,home,LU,block,3,miss2,0,O. Casspi,C. Capela
+329,3,2:29.0,60,90,NOP,HOU,1,home,OffReb,,,OffReb,,T. Frazier,
+330,3,2:28.0,62,90,NOP,HOU,1,home,LU,assist,2,make2,2,A. Davis,T. Frazier
+331,3,2:28.0,62,90,NOP,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Capela,A. Davis
+332,3,2:28.0,62,90,NOP,HOU,0,away,Timeout,,,,,,
+333,3,2:28.0,63,90,NOP,HOU,0,home,FreeThrow,,,make1,1,A. Davis,
+334,3,2:14.0,63,90,NOP,HOU,14,away,JS,,28,miss3,0,E. Gordon,
+335,3,2:14.0,63,90,NOP,HOU,0,home,DefReb,,,DefReb,,A. Davis,
+336,3,2:00.0,65,90,NOP,HOU,14,home,LU,,2,make2,2,O. Casspi,
+337,3,1:48.0,65,93,NOP,HOU,12,away,JS,assist,23,make3,3,L. Williams,J. Harden
+338,3,1:36.0,65,93,NOP,HOU,12,home,JS,,18,miss2,0,A. Davis,
+339,3,1:35.0,65,93,NOP,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
+340,3,1:28.0,65,95,NOP,HOU,7,away,DK,assist,0,make2,2,C. Capela,L. Williams
+341,3,1:12.0,65,95,NOP,HOU,16,home,JS,,24,miss3,0,O. Casspi,
+342,3,1:12.0,65,95,NOP,HOU,0,away,DefReb,,,DefReb,,C. Capela,
+343,3,1:04.0,65,98,NOP,HOU,8,away,JS,assist,27,make3,3,T. Ariza,J. Harden
+344,3,0:52.0,65,98,NOP,HOU,12,home,JS,,24,miss3,0,D. Cunningham,
+345,3,0:52.0,65,98,NOP,HOU,0,home,OffReb,,,OffReb,,O. Casspi,
+346,3,0:47.0,65,98,NOP,HOU,5,home,LostBall,steal,,turnover,,O. Casspi,J. Harden
+347,3,0:41.0,65,98,NOP,HOU,6,away,JS,,26,miss3,0,T. Ariza,
+348,3,0:38.0,65,98,NOP,HOU,3,home,DefReb,,,DefReb,,J. Holiday,
+349,3,0:33.0,65,98,NOP,HOU,5,home,JS,,12,miss2,0,J. Holiday,
+350,3,0:30.0,65,98,NOP,HOU,3,away,DefReb,,,DefReb,,E. Gordon,
+351,3,0:27.0,65,98,NOP,HOU,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cunningham,E. Gordon
+352,3,0:27.0,65,99,NOP,HOU,0,away,FreeThrow,,,make1,1,E. Gordon,
+353,3,0:27.0,65,99,NOP,HOU,0,away,Sub,,,,,S. Dekker,T. Ariza
+354,3,0:27.0,65,100,NOP,HOU,0,away,FreeThrow,,,make1,1,E. Gordon,
+355,3,0:09.0,65,100,NOP,HOU,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Capela,A. Davis
+356,3,0:09.0,66,100,NOP,HOU,0,home,FreeThrow,,,make1,1,A. Davis,
+357,3,0:09.0,66,100,NOP,HOU,0,home,Sub,,,,,E. Moore,J. Holiday
+358,3,0:09.0,67,100,NOP,HOU,0,home,FreeThrow,,,make1,1,A. Davis,
+359,4,11:44.0,67,100,NOP,HOU,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Harrell,D. Cousins
+360,4,11:40.0,67,100,NOP,HOU,4,home,JS,,25,miss3,0,T. Frazier,
+361,4,11:39.0,67,100,NOP,HOU,1,away,DefReb,,,DefReb,,P. Beverley,
+362,4,11:22.0,67,100,NOP,HOU,17,away,JS,,26,miss3,0,S. Dekker,
+363,4,11:21.0,67,100,NOP,HOU,1,home,DefReb,,,DefReb,,D. Cousins,
+364,4,11:10.0,67,100,NOP,HOU,11,home,JS,,5,miss2,0,D. Cousins,
+365,4,11:09.0,67,100,NOP,HOU,1,home,OffReb,,,OffReb,,D. Cousins,
+366,4,11:09.0,69,100,NOP,HOU,0,home,LU,,2,make2,2,D. Cousins,
+367,4,10:55.0,69,100,NOP,HOU,14,away,JS,,26,miss3,0,E. Gordon,
+368,4,10:55.0,69,100,NOP,HOU,0,home,DefReb,,,DefReb,,Team,
+369,4,10:43.0,69,100,NOP,HOU,12,home,JS,,16,miss2,0,E. Moore,
+370,4,10:42.0,69,100,NOP,HOU,1,away,DefReb,,,DefReb,,L. Williams,
+371,4,10:35.0,69,100,NOP,HOU,7,away,LU,,2,miss2,0,L. Williams,
+372,4,10:33.0,69,100,NOP,HOU,2,home,DefReb,,,DefReb,,D. Cousins,
+373,4,10:20.0,71,100,NOP,HOU,13,home,JS,assist,4,make2,2,O. Casspi,D. Cousins
+374,4,10:01.0,71,100,NOP,HOU,19,away,JS,,26,miss3,0,P. Beverley,
+375,4,10:01.0,71,100,NOP,HOU,0,away,OffReb,,,OffReb,,S. Dekker,
+376,4,9:57.0,71,100,NOP,HOU,4,away,JS,,26,miss3,0,E. Gordon,
+377,4,9:56.0,71,100,NOP,HOU,1,home,DefReb,,,DefReb,,D. Cunningham,
+378,4,9:48.0,73,100,NOP,HOU,8,home,JS,,5,make2,2,E. Moore,
+379,4,9:41.0,73,100,NOP,HOU,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Casspi,P. Beverley
+380,4,9:34.0,73,100,NOP,HOU,7,away,JS,,26,miss3,0,L. Williams,
+381,4,9:34.0,73,100,NOP,HOU,0,home,DefReb,,,DefReb,,D. Cunningham,
+382,4,9:24.0,73,100,NOP,HOU,10,home,JS,,25,miss3,0,D. Cousins,
+383,4,9:23.0,73,100,NOP,HOU,1,home,OffReb,,,OffReb,,T. Frazier,
+384,4,9:21.0,73,100,NOP,HOU,2,home,LostBall,,,turnover,,T. Frazier,
+385,4,9:16.0,73,100,NOP,HOU,5,home,ChargeFoul,DrawnBy,,ChargeFoul,,P. Beverley,T. Frazier
+386,4,9:16.0,73,100,NOP,HOU,0,away,OffensiveFoul,,,turnover,,P. Beverley,
+387,4,9:04.0,73,100,NOP,HOU,12,home,JS,,26,miss3,0,T. Frazier,
+388,4,9:03.0,73,100,NOP,HOU,1,away,DefReb,,,DefReb,,M. Harrell,
+389,4,8:47.0,73,100,NOP,HOU,16,away,BadPass,steal,,turnover,,E. Gordon,D. Cunningham
+390,4,8:40.0,75,100,NOP,HOU,7,home,LU,assist,1,make2,2,E. Moore,T. Frazier
+391,4,8:30.0,75,102,NOP,HOU,10,away,LU,,2,make2,2,L. Williams,
+392,4,8:15.0,78,102,NOP,HOU,15,home,JS,assist,26,make3,3,O. Casspi,T. Frazier
+393,4,7:59.0,78,104,NOP,HOU,16,away,LU,assist,3,make2,2,M. Harrell,P. Beverley
+394,4,7:59.0,78,104,NOP,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Moore,M. Harrell
+395,4,7:59.0,78,104,NOP,HOU,0,away,Timeout,,,,,,
+396,4,7:59.0,78,104,NOP,HOU,0,away,FreeThrow,,,make1,0,M. Harrell,
+397,4,7:59.0,78,104,NOP,HOU,0,home,Sub,,,,,J. Holiday,E. Moore
+398,4,7:59.0,78,104,NOP,HOU,0,home,Sub,,,,,S. Hill,D. Cunningham
+399,4,7:57.0,78,104,NOP,HOU,2,home,DefReb,,,DefReb,,D. Cousins,
+400,4,7:41.0,78,104,NOP,HOU,16,home,JS,,26,miss3,0,S. Hill,
+401,4,7:41.0,78,104,NOP,HOU,0,home,OffReb,,,OffReb,,D. Cousins,
+402,4,7:41.0,78,104,NOP,HOU,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Harrell,D. Cousins
+403,4,7:24.0,78,104,NOP,HOU,17,home,JS,,19,miss2,0,D. Cousins,
+404,4,7:24.0,78,104,NOP,HOU,0,away,DefReb,,,DefReb,,P. Beverley,
+405,4,7:09.0,78,104,NOP,HOU,15,away,BadPass,,,turnover,,L. Williams,
+406,4,6:55.0,80,104,NOP,HOU,14,home,JS,assist,17,make2,2,D. Cousins,J. Holiday
+407,4,6:44.0,80,106,NOP,HOU,11,away,LU,assist,3,make2,2,M. Harrell,L. Williams
+408,4,6:35.0,82,106,NOP,HOU,9,home,LU,,2,make2,2,T. Frazier,
+409,4,6:26.0,82,108,NOP,HOU,9,away,LU,,2,make2,2,L. Williams,
+410,4,6:15.0,82,108,NOP,HOU,11,home,PersonalFoul,,,,,L. Williams,
+411,4,6:15.0,82,108,NOP,HOU,0,away,Sub,,,,,C. Capela,M. Harrell
+412,4,6:05.0,84,108,NOP,HOU,10,home,LU,assist,2,make2,2,D. Cousins,J. Holiday
+413,4,5:39.0,84,111,NOP,HOU,26,away,JS,assist,24,make3,3,L. Williams,E. Gordon
+414,4,5:21.0,87,111,NOP,HOU,18,home,JS,assist,26,make3,3,D. Cousins,S. Hill
+415,4,5:08.0,87,114,NOP,HOU,13,away,JS,,28,make3,3,E. Gordon,
+416,4,4:48.0,89,114,NOP,HOU,20,home,LU,,2,make2,2,D. Cousins,
+417,4,4:38.0,89,117,NOP,HOU,10,away,JS,,25,make3,3,L. Williams,
+418,4,4:38.0,89,117,NOP,HOU,0,home,Timeout,,,,,,
+419,4,4:38.0,89,117,NOP,HOU,0,home,Sub,,,,,A. Davis,S. Hill
+420,4,4:38.0,89,117,NOP,HOU,0,home,Sub,,,,,H. Thompson,O. Casspi
+421,4,4:29.0,89,117,NOP,HOU,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Dekker,A. Davis
+422,4,4:29.0,90,117,NOP,HOU,0,home,FreeThrow,,,make1,1,A. Davis,
+423,4,4:29.0,91,117,NOP,HOU,0,home,FreeThrow,,,make1,1,A. Davis,
+424,4,4:13.0,91,117,NOP,HOU,16,away,LU,,1,miss2,0,S. Dekker,
+425,4,4:13.0,91,117,NOP,HOU,0,home,DefReb,,,DefReb,,A. Davis,
+426,4,4:02.0,91,117,NOP,HOU,11,home,JS,,17,miss2,0,H. Thompson,
+427,4,4:02.0,91,117,NOP,HOU,0,away,DefReb,,,DefReb,,C. Capela,
+428,4,3:58.0,91,117,NOP,HOU,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Thompson,L. Williams
+429,4,3:58.0,91,118,NOP,HOU,0,away,FreeThrow,,,make1,1,L. Williams,
+430,4,3:58.0,91,119,NOP,HOU,0,away,FreeThrow,,,make1,1,L. Williams,
+431,4,3:40.0,91,119,NOP,HOU,18,home,JS,,19,miss2,0,A. Davis,
+432,4,3:40.0,91,119,NOP,HOU,0,home,OffReb,,,OffReb,,D. Cousins,
+433,4,3:34.0,93,119,NOP,HOU,6,home,LU,assist,2,make2,2,H. Thompson,D. Cousins
+434,4,3:29.0,93,119,NOP,HOU,5,away,JS,,27,miss3,0,E. Gordon,
+435,4,3:24.0,93,119,NOP,HOU,5,away,OffReb,,,OffReb,,C. Capela,
+436,4,3:24.0,93,121,NOP,HOU,0,away,LU,,2,make2,2,C. Capela,
+437,4,3:15.0,93,121,NOP,HOU,9,home,JS,,23,miss3,0,J. Holiday,
+438,4,3:14.0,93,121,NOP,HOU,1,away,DefReb,,,DefReb,,C. Capela,
+439,4,3:08.0,93,121,NOP,HOU,6,away,JS,,28,miss3,0,E. Gordon,
+440,4,3:06.0,93,121,NOP,HOU,2,away,OffReb,,,OffReb,,P. Beverley,
+441,4,3:00.0,93,121,NOP,HOU,6,away,Traveling,,,turnover,,P. Beverley,
+442,4,3:00.0,93,121,NOP,HOU,0,away,Sub,,,,,M. Harrell,P. Beverley
+443,4,3:00.0,93,121,NOP,HOU,0,away,Sub,,,,,B. Brown,E. Gordon
+444,4,2:48.0,93,121,NOP,HOU,12,home,JS,,15,miss2,0,A. Davis,
+445,4,2:48.0,93,121,NOP,HOU,0,away,DefReb,,,DefReb,,S. Dekker,
+446,4,2:39.0,93,121,NOP,HOU,9,away,JS,,28,miss3,0,B. Brown,
+447,4,2:39.0,93,121,NOP,HOU,0,home,DefReb,,,DefReb,,D. Cousins,
+448,4,2:31.0,93,121,NOP,HOU,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Harrell,D. Cousins
+449,4,2:31.0,93,121,NOP,HOU,0,away,Timeout,,,,,,
+450,4,2:31.0,94,121,NOP,HOU,0,home,FreeThrow,,,make1,1,D. Cousins,
+451,4,2:31.0,95,121,NOP,HOU,0,home,FreeThrow,,,make1,1,D. Cousins,
+452,4,2:12.0,95,123,NOP,HOU,19,away,LU,,1,make2,2,C. Capela,
+453,4,1:58.0,95,123,NOP,HOU,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Harrell,H. Thompson
+454,4,1:58.0,95,123,NOP,HOU,0,home,FreeThrow,,,make1,0,H. Thompson,
+455,4,1:58.0,95,123,NOP,HOU,0,home,OffReb,,,OffReb,,Team,
+456,4,1:58.0,96,123,NOP,HOU,0,home,FreeThrow,,,make1,1,H. Thompson,
+457,4,1:36.0,96,123,NOP,HOU,22,away,LostBall,steal,,turnover,,C. Capela,A. Davis
+458,4,1:27.0,96,123,NOP,HOU,9,home,LU,block,3,miss2,0,D. Cousins,C. Capela
+459,4,1:27.0,96,123,NOP,HOU,0,home,OffReb,,,OffReb,,Team,
+460,4,1:27.0,96,123,NOP,HOU,0,home,Sub,,,,,D. Motiejūnas,D. Cousins
+461,4,1:27.0,96,123,NOP,HOU,0,home,Sub,,,,,D. Cunningham,A. Davis
+462,4,1:24.0,96,123,NOP,HOU,3,home,JS,,25,miss3,0,J. Holiday,
+463,4,1:23.0,96,123,NOP,HOU,1,away,DefReb,,,DefReb,,C. Capela,
+464,4,1:11.0,96,126,NOP,HOU,12,away,JS,assist,23,make3,3,S. Dekker,M. Harrell
+465,4,1:01.0,96,126,NOP,HOU,10,home,JS,,25,miss3,0,H. Thompson,
+466,4,1:00.0,96,126,NOP,HOU,1,home,OffReb,,,OffReb,,D. Cunningham,
+467,4,0:48.0,99,126,NOP,HOU,12,home,JS,assist,25,make3,3,D. Motiejūnas,J. Holiday
+468,4,0:34.0,99,129,NOP,HOU,14,away,JS,assist,24,make3,3,L. Williams,B. Brown
+469,4,0:21.0,99,129,NOP,HOU,13,home,JS,,25,miss3,0,T. Frazier,
+470,4,0:20.0,99,129,NOP,HOU,1,away,DefReb,,,DefReb,,C. Capela,

@@ -1,0 +1,447 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:40.0,0,0,LAC,UTA,20,away,JS,,26,miss3,0,G. Hayward,
+1,1,11:39.0,0,0,LAC,UTA,1,home,DefReb,,,DefReb,,C. Paul,
+2,1,11:25.0,0,0,LAC,UTA,14,home,LostBall,steal,,turnover,,J. Redick,J. Ingles
+3,1,11:15.0,0,2,LAC,UTA,10,away,JS,,14,make2,2,G. Hill,
+4,1,10:56.0,2,2,LAC,UTA,19,home,JS,,16,make2,2,C. Paul,
+5,1,10:30.0,2,2,LAC,UTA,26,away,ShotClockViolation,,,turnover,,Team,
+6,1,10:11.0,2,2,LAC,UTA,19,home,JS,,21,miss2,0,L. Mbah a Moute,
+7,1,10:11.0,2,2,LAC,UTA,0,home,OffReb,,,OffReb,,D. Jordan,
+8,1,10:11.0,2,2,LAC,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Gobert,D. Jordan
+9,1,10:11.0,2,2,LAC,UTA,0,home,FreeThrow,,,make1,0,D. Jordan,
+10,1,10:11.0,2,2,LAC,UTA,0,home,OffReb,,,OffReb,,Team,
+11,1,10:11.0,3,2,LAC,UTA,0,home,FreeThrow,,,make1,1,D. Jordan,
+12,1,9:53.0,3,4,LAC,UTA,18,away,LU,assist,2,make2,2,B. Diaw,G. Hill
+13,1,9:41.0,3,4,LAC,UTA,12,home,LU,block,2,miss2,0,A. Rivers,B. Diaw
+14,1,9:39.0,3,4,LAC,UTA,2,away,DefReb,,,DefReb,,R. Gobert,
+15,1,9:34.0,3,4,LAC,UTA,5,away,JS,,24,miss3,0,G. Hill,
+16,1,9:31.0,3,4,LAC,UTA,3,away,OffReb,,,OffReb,,G. Hayward,
+17,1,9:18.0,3,4,LAC,UTA,13,away,OutOfBounds,,,turnover,,B. Diaw,
+18,1,9:05.0,3,4,LAC,UTA,13,home,Timeout,,,,,,
+19,1,8:57.0,3,4,LAC,UTA,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Gobert,L. Mbah a Moute
+20,1,8:57.0,4,4,LAC,UTA,0,home,FreeThrow,,,make1,1,L. Mbah a Moute,
+21,1,8:57.0,3,4,LAC,UTA,0,away,Sub,,,,,D. Favors,R. Gobert
+22,1,8:57.0,5,4,LAC,UTA,0,home,FreeThrow,,,make1,1,L. Mbah a Moute,
+23,1,8:49.0,5,4,LAC,UTA,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Mbah a Moute,G. Hayward
+24,1,8:42.0,5,6,LAC,UTA,7,away,LU,assist,2,make2,2,G. Hayward,B. Diaw
+25,1,8:32.0,5,6,LAC,UTA,10,home,JS,,5,miss2,0,C. Paul,
+26,1,8:31.0,5,6,LAC,UTA,1,away,DefReb,,,DefReb,,Team,
+27,1,8:31.0,5,6,LAC,UTA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Paul,D. Favors
+28,1,8:14.0,5,6,LAC,UTA,17,away,JS,,6,miss2,0,G. Hayward,
+29,1,8:13.0,5,6,LAC,UTA,1,away,OffReb,,,OffReb,,D. Favors,
+30,1,8:09.0,5,9,LAC,UTA,4,away,JS,assist,27,make3,3,G. Hill,D. Favors
+31,1,8:08.0,5,9,LAC,UTA,1,home,Timeout,,,,,,
+32,1,7:48.0,8,9,LAC,UTA,20,home,JS,assist,26,make3,3,A. Rivers,C. Paul
+33,1,7:34.0,8,11,LAC,UTA,14,away,JS,assist,13,make2,2,D. Favors,G. Hayward
+34,1,7:21.0,8,11,LAC,UTA,13,home,JS,,26,miss3,0,A. Rivers,
+35,1,7:19.0,8,11,LAC,UTA,2,away,DefReb,,,DefReb,,G. Hill,
+36,1,7:05.0,8,11,LAC,UTA,14,home,Sub,,,,,P. Pierce,L. Mbah a Moute
+37,1,6:58.0,8,11,LAC,UTA,7,away,JS,,14,miss2,0,G. Hill,
+38,1,6:56.0,8,11,LAC,UTA,2,home,DefReb,,,DefReb,,J. Redick,
+39,1,6:50.0,8,11,LAC,UTA,6,home,BadPass,steal,,turnover,,C. Paul,J. Ingles
+40,1,6:45.0,8,13,LAC,UTA,5,away,LU,assist,1,make2,2,J. Ingles,G. Hill
+41,1,6:24.0,10,13,LAC,UTA,21,home,DK,assist,0,make2,2,A. Rivers,P. Pierce
+42,1,6:08.0,10,16,LAC,UTA,16,away,JS,assist,25,make3,3,G. Hayward,B. Diaw
+43,1,5:59.0,10,16,LAC,UTA,9,home,JS,,4,miss2,0,C. Paul,
+44,1,5:58.0,10,16,LAC,UTA,1,home,OffReb,,,OffReb,,D. Jordan,
+45,1,5:58.0,12,16,LAC,UTA,0,home,DK,,0,make2,2,D. Jordan,
+46,1,5:42.0,12,16,LAC,UTA,16,away,JS,,19,miss2,0,B. Diaw,
+47,1,5:41.0,12,16,LAC,UTA,1,home,DefReb,,,DefReb,,D. Jordan,
+48,1,5:31.0,12,16,LAC,UTA,10,home,JS,,26,miss3,0,P. Pierce,
+49,1,5:30.0,12,16,LAC,UTA,1,away,DefReb,,,DefReb,,J. Ingles,
+50,1,5:15.0,12,16,LAC,UTA,15,away,JS,,20,miss2,0,G. Hayward,
+51,1,5:14.0,12,16,LAC,UTA,1,home,DefReb,,,DefReb,,P. Pierce,
+52,1,5:08.0,12,16,LAC,UTA,6,home,LU,,2,miss2,0,D. Jordan,
+53,1,5:06.0,12,16,LAC,UTA,2,away,DefReb,,,DefReb,,B. Diaw,
+54,1,5:03.0,12,16,LAC,UTA,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Pierce,G. Hayward
+55,1,5:03.0,12,17,LAC,UTA,0,away,FreeThrow,,,make1,1,G. Hayward,
+56,1,5:03.0,12,17,LAC,UTA,0,away,Sub,,,,,R. Hood,J. Ingles
+57,1,5:03.0,12,17,LAC,UTA,0,away,Sub,,,,,J. Johnson,B. Diaw
+58,1,5:03.0,12,17,LAC,UTA,0,home,Sub,,,,,J. Crawford,J. Redick
+59,1,5:03.0,12,18,LAC,UTA,0,away,FreeThrow,,,make1,1,G. Hayward,
+60,1,4:50.0,12,18,LAC,UTA,13,home,LU,,1,miss2,0,A. Rivers,
+61,1,4:49.0,12,18,LAC,UTA,1,away,DefReb,,,DefReb,,D. Favors,
+62,1,4:43.0,12,18,LAC,UTA,6,away,Traveling,,,turnover,,R. Hood,
+63,1,4:31.0,12,18,LAC,UTA,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hood,D. Jordan
+64,1,4:31.0,13,18,LAC,UTA,0,home,FreeThrow,,,make1,1,D. Jordan,
+65,1,4:31.0,13,18,LAC,UTA,0,home,FreeThrow,,,make1,0,D. Jordan,
+66,1,4:29.0,13,18,LAC,UTA,2,away,DefReb,,,DefReb,,D. Favors,
+67,1,4:07.0,13,18,LAC,UTA,22,away,JS,,16,miss2,0,G. Hayward,
+68,1,4:04.0,13,18,LAC,UTA,3,home,DefReb,,,DefReb,,D. Jordan,
+69,1,3:57.0,15,18,LAC,UTA,7,home,JS,,6,make2,2,C. Paul,
+70,1,3:56.0,15,18,LAC,UTA,1,away,Timeout,,,,,,
+71,1,3:56.0,15,18,LAC,UTA,0,home,Sub,,,,,R. Felton,A. Rivers
+72,1,3:32.0,15,18,LAC,UTA,24,away,JS,,12,miss2,0,G. Hill,
+73,1,3:31.0,15,18,LAC,UTA,1,away,OffReb,,,OffReb,,D. Favors,
+74,1,3:31.0,15,20,LAC,UTA,0,away,LU,,2,make2,2,D. Favors,
+75,1,3:19.0,18,20,LAC,UTA,12,home,JS,,27,make3,3,C. Paul,
+76,1,3:03.0,18,22,LAC,UTA,16,away,JS,assist,17,make2,2,R. Hood,D. Favors
+77,1,2:47.0,20,22,LAC,UTA,16,home,JS,,16,make2,2,C. Paul,
+78,1,2:32.0,20,24,LAC,UTA,15,away,JS,assist,12,make2,2,D. Favors,G. Hill
+79,1,2:12.0,20,24,LAC,UTA,20,home,JS,,27,miss3,0,J. Crawford,
+80,1,2:11.0,20,24,LAC,UTA,1,home,OffReb,,,OffReb,,D. Jordan,
+81,1,1:55.0,20,24,LAC,UTA,16,away,KickBallViolation,,,KickBallViolation,,G. Hayward,
+82,1,1:55.0,20,24,LAC,UTA,0,away,Sub,,,,,R. Neto,G. Hill
+83,1,1:44.0,20,24,LAC,UTA,11,home,JS,,17,miss2,0,C. Paul,
+84,1,1:43.0,20,24,LAC,UTA,1,away,DefReb,,,DefReb,,D. Favors,
+85,1,1:24.0,20,24,LAC,UTA,19,away,JS,,26,miss3,0,J. Johnson,
+86,1,1:22.0,20,24,LAC,UTA,2,home,DefReb,,,DefReb,,D. Jordan,
+87,1,1:09.0,22,24,LAC,UTA,13,home,DK,assist,0,make2,2,D. Jordan,C. Paul
+88,1,0:45.0,22,24,LAC,UTA,24,away,JS,,27,miss3,0,R. Neto,
+89,1,0:45.0,22,24,LAC,UTA,0,home,DefReb,,,DefReb,,Team,
+90,1,0:45.0,22,24,LAC,UTA,0,home,Sub,,,,,A. Rivers,C. Paul
+91,1,0:45.0,22,24,LAC,UTA,0,home,Sub,,,,,M. Speights,D. Jordan
+92,1,0:45.0,22,24,LAC,UTA,0,away,Sub,,,,,B. Diaw,D. Favors
+93,1,0:45.0,22,24,LAC,UTA,0,away,Sub,,,,,J. Ingles,G. Hayward
+94,1,0:34.0,24,24,LAC,UTA,11,home,LU,,2,make2,2,R. Felton,
+95,1,0:19.0,24,24,LAC,UTA,15,away,BadPass,,,turnover,,B. Diaw,
+96,1,0:19.0,24,24,LAC,UTA,0,home,Sub,,,,,C. Paul,P. Pierce
+97,1,0:19.0,24,24,LAC,UTA,0,away,Sub,,,,,D. Favors,B. Diaw
+98,1,0:02.0,24,24,LAC,UTA,17,home,JS,,21,miss2,0,R. Felton,
+99,1,0:01.0,24,24,LAC,UTA,1,away,DefReb,,,DefReb,,J. Ingles,
+100,2,11:43.0,24,24,LAC,UTA,17,home,JS,,5,miss2,0,A. Rivers,
+101,2,11:41.0,24,24,LAC,UTA,2,away,DefReb,,,DefReb,,R. Gobert,
+102,2,11:29.0,24,26,LAC,UTA,12,away,LU,,2,make2,2,R. Hood,
+103,2,11:29.0,24,26,LAC,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,R. Hood
+104,2,11:29.0,24,26,LAC,UTA,0,away,FreeThrow,,,make1,0,R. Hood,
+105,2,11:28.0,24,26,LAC,UTA,1,home,DefReb,,,DefReb,,M. Speights,
+106,2,11:07.0,24,26,LAC,UTA,21,home,JS,,26,miss3,0,M. Speights,
+107,2,11:06.0,24,26,LAC,UTA,1,away,DefReb,,,DefReb,,J. Johnson,
+108,2,10:52.0,24,29,LAC,UTA,14,away,JS,assist,26,make3,3,R. Hood,J. Johnson
+109,2,10:29.0,26,29,LAC,UTA,23,home,JS,,8,make2,2,J. Crawford,
+110,2,10:02.0,26,29,LAC,UTA,27,away,JS,,19,miss2,0,J. Johnson,
+111,2,10:02.0,26,29,LAC,UTA,0,home,DefReb,,,DefReb,,Team,
+112,2,10:02.0,26,29,LAC,UTA,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Gobert,M. Speights
+113,2,10:02.0,26,29,LAC,UTA,0,away,Sub,,,,,D. Favors,R. Gobert
+114,2,10:02.0,26,29,LAC,UTA,0,home,Sub,,,,,L. Mbah a Moute,P. Pierce
+115,2,9:46.0,26,29,LAC,UTA,16,home,BadPass,steal,,turnover,,M. Speights,R. Hood
+116,2,9:38.0,26,31,LAC,UTA,8,away,LU,assist,2,make2,2,D. Favors,J. Johnson
+117,2,9:21.0,26,31,LAC,UTA,17,home,JS,,16,miss2,0,J. Crawford,
+118,2,9:19.0,26,31,LAC,UTA,2,away,DefReb,,,DefReb,,D. Favors,
+119,2,9:12.0,26,31,LAC,UTA,7,away,JS,,12,miss2,0,D. Favors,
+120,2,9:09.0,26,31,LAC,UTA,3,home,DefReb,,,DefReb,,M. Speights,
+121,2,8:54.0,28,31,LAC,UTA,15,home,LU,,1,make2,2,A. Rivers,
+122,2,8:47.0,28,31,LAC,UTA,7,away,Timeout,,,,,,
+123,2,8:47.0,28,31,LAC,UTA,0,away,Sub,,,,,G. Hill,J. Ingles
+124,2,8:47.0,28,31,LAC,UTA,0,away,Sub,,,,,D. Exum,R. Hood
+125,2,8:47.0,28,31,LAC,UTA,0,away,Sub,,,,,G. Hayward,S. Mack
+126,2,8:47.0,28,31,LAC,UTA,0,home,Sub,,,,,J. Redick,R. Felton
+127,2,8:47.0,28,31,LAC,UTA,0,home,Sub,,,,,D. Jordan,M. Speights
+128,2,8:38.0,28,31,LAC,UTA,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Mbah a Moute,J. Johnson
+129,2,8:38.0,28,31,LAC,UTA,0,away,FreeThrow,,,make1,0,J. Johnson,
+130,2,8:38.0,28,31,LAC,UTA,0,away,OffReb,,,OffReb,,Team,
+131,2,8:38.0,28,31,LAC,UTA,0,away,FreeThrow,,,make1,0,J. Johnson,
+132,2,8:37.0,28,31,LAC,UTA,1,home,DefReb,,,DefReb,,D. Jordan,
+133,2,8:20.0,28,31,LAC,UTA,17,home,JS,,16,miss2,0,J. Crawford,
+134,2,8:17.0,28,31,LAC,UTA,3,away,DefReb,,,DefReb,,D. Favors,
+135,2,7:56.0,28,33,LAC,UTA,21,away,JS,,7,make2,2,J. Johnson,
+136,2,7:39.0,28,33,LAC,UTA,17,home,LostBall,steal,,turnover,,J. Crawford,D. Exum
+137,2,7:36.0,28,35,LAC,UTA,3,away,LU,assist,1,make2,2,G. Hill,D. Exum
+138,2,7:21.0,28,35,LAC,UTA,15,home,BadPass,,,turnover,,A. Rivers,
+139,2,7:21.0,28,35,LAC,UTA,0,home,Sub,,,,,C. Paul,J. Crawford
+140,2,7:07.0,28,37,LAC,UTA,14,away,JS,,3,make2,2,J. Johnson,
+141,2,6:50.0,28,37,LAC,UTA,17,home,JS,,26,miss3,0,L. Mbah a Moute,
+142,2,6:48.0,28,37,LAC,UTA,2,home,OffReb,,,OffReb,,D. Jordan,
+143,2,6:46.0,28,37,LAC,UTA,2,home,LostBall,steal,,turnover,,D. Jordan,D. Favors
+144,2,6:42.0,28,37,LAC,UTA,4,away,LU,,2,miss2,0,D. Exum,
+145,2,6:40.0,28,37,LAC,UTA,2,away,OffReb,,,OffReb,,D. Exum,
+146,2,6:40.0,28,37,LAC,UTA,0,away,LU,,2,miss2,0,D. Exum,
+147,2,6:36.0,28,37,LAC,UTA,4,home,DefReb,,,DefReb,,C. Paul,
+148,2,6:19.0,30,37,LAC,UTA,17,home,LU,,4,make2,2,A. Rivers,
+149,2,6:01.0,30,37,LAC,UTA,18,away,BadPass,steal,,turnover,,G. Hill,A. Rivers
+150,2,5:51.0,30,37,LAC,UTA,10,home,LU,,1,miss2,0,J. Redick,
+151,2,5:50.0,30,37,LAC,UTA,1,away,DefReb,,,DefReb,,J. Johnson,
+152,2,5:44.0,30,39,LAC,UTA,6,away,LU,assist,0,make2,2,D. Favors,D. Exum
+153,2,5:29.0,30,39,LAC,UTA,15,home,DK,,0,miss2,0,D. Jordan,
+154,2,5:25.0,30,39,LAC,UTA,4,away,DefReb,,,DefReb,,D. Favors,
+155,2,5:15.0,30,41,LAC,UTA,10,away,JS,assist,20,make2,2,G. Hill,D. Favors
+156,2,5:14.0,30,41,LAC,UTA,1,home,Timeout,,,,,,
+157,2,5:14.0,30,41,LAC,UTA,0,away,Sub,,,,,J. Withey,D. Favors
+158,2,5:14.0,30,41,LAC,UTA,0,away,Sub,,,,,R. Hood,D. Exum
+159,2,4:57.0,30,41,LAC,UTA,17,home,3sec,,,turnover,,D. Jordan,
+160,2,4:43.0,30,41,LAC,UTA,14,away,JS,,6,miss2,0,J. Johnson,
+161,2,4:39.0,30,41,LAC,UTA,4,home,DefReb,,,DefReb,,D. Jordan,
+162,2,4:19.0,30,41,LAC,UTA,20,home,JS,,27,miss3,0,C. Paul,
+163,2,4:19.0,30,41,LAC,UTA,0,home,OffReb,,,OffReb,,Team,
+164,2,4:19.0,30,41,LAC,UTA,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Withey,D. Jordan
+165,2,4:19.0,30,41,LAC,UTA,0,away,Sub,,,,,B. Diaw,J. Johnson
+166,2,4:05.0,30,41,LAC,UTA,14,home,JS,,19,miss2,0,A. Rivers,
+167,2,4:03.0,30,41,LAC,UTA,2,away,DefReb,,,DefReb,,R. Hood,
+168,2,3:49.0,30,41,LAC,UTA,14,away,HS,,4,miss2,0,B. Diaw,
+169,2,3:47.0,30,41,LAC,UTA,2,home,DefReb,,,DefReb,,D. Jordan,
+170,2,3:28.0,32,41,LAC,UTA,19,home,DK,assist,0,make2,2,D. Jordan,C. Paul
+171,2,3:13.0,32,41,LAC,UTA,15,away,JS,,5,miss2,0,G. Hayward,
+172,2,3:12.0,32,41,LAC,UTA,1,home,DefReb,,,DefReb,,A. Rivers,
+173,2,2:54.0,32,41,LAC,UTA,18,home,JS,,25,miss3,0,A. Rivers,
+174,2,2:53.0,32,41,LAC,UTA,1,home,OffReb,,,OffReb,,L. Mbah a Moute,
+175,2,2:51.0,32,41,LAC,UTA,2,home,LostBall,steal,,turnover,,A. Rivers,B. Diaw
+176,2,2:31.0,32,41,LAC,UTA,20,away,JS,,18,miss2,0,G. Hill,
+177,2,2:29.0,32,41,LAC,UTA,2,home,DefReb,,,DefReb,,D. Jordan,
+178,2,2:18.0,32,41,LAC,UTA,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Hill,D. Jordan
+179,2,2:18.0,32,41,LAC,UTA,0,away,Timeout,,,,,,
+180,2,2:18.0,32,41,LAC,UTA,0,home,FreeThrow,,,make1,0,D. Jordan,
+181,2,2:18.0,32,41,LAC,UTA,0,home,OffReb,,,OffReb,,Team,
+182,2,2:18.0,32,41,LAC,UTA,0,home,Sub,,,,,R. Felton,A. Rivers
+183,2,2:18.0,32,41,LAC,UTA,0,home,Sub,,,,,J. Crawford,L. Mbah a Moute
+184,2,2:18.0,32,41,LAC,UTA,0,home,Sub,,,,,P. Pierce,J. Redick
+185,2,2:18.0,32,41,LAC,UTA,0,away,Sub,,,,,J. Ingles,B. Diaw
+186,2,2:18.0,32,41,LAC,UTA,0,away,Sub,,,,,J. Johnson,R. Hood
+187,2,2:18.0,32,41,LAC,UTA,0,away,Sub,,,,,D. Favors,J. Withey
+188,2,2:18.0,33,41,LAC,UTA,0,home,FreeThrow,,,make1,1,D. Jordan,
+189,2,2:03.0,33,44,LAC,UTA,15,away,JS,assist,24,make3,3,J. Ingles,G. Hayward
+190,2,1:50.0,35,44,LAC,UTA,13,home,DK,assist,0,make2,2,D. Jordan,C. Paul
+191,2,1:25.0,35,44,LAC,UTA,25,away,JS,,14,miss2,0,J. Johnson,
+192,2,1:24.0,35,44,LAC,UTA,1,away,OffReb,,,OffReb,,D. Favors,
+193,2,1:10.0,35,44,LAC,UTA,14,away,JS,,12,miss2,0,D. Favors,
+194,2,1:09.0,35,44,LAC,UTA,1,home,DefReb,,,DefReb,,D. Jordan,
+195,2,0:56.0,37,44,LAC,UTA,13,home,JS,assist,13,make2,2,C. Paul,D. Jordan
+196,2,0:39.0,37,44,LAC,UTA,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Felton,J. Ingles
+197,2,0:39.0,37,45,LAC,UTA,0,away,FreeThrow,,,make1,1,J. Ingles,
+198,2,0:39.0,37,46,LAC,UTA,0,away,FreeThrow,,,make1,1,J. Ingles,
+199,2,0:29.0,39,46,LAC,UTA,10,home,JS,assist,7,make2,2,J. Crawford,C. Paul
+200,2,0:06.0,39,46,LAC,UTA,23,away,JS,,10,miss2,0,J. Johnson,
+201,2,0:05.0,39,46,LAC,UTA,1,away,OffReb,,,OffReb,,Team,
+202,2,0:05.0,39,46,LAC,UTA,0,away,ShotClockViolation,,,turnover,,Team,
+203,2,0:02.0,39,46,LAC,UTA,3,home,JS,,41,miss3,0,C. Paul,
+204,2,0:01.0,39,46,LAC,UTA,1,away,DefReb,,,DefReb,,G. Hayward,
+205,3,11:40.0,39,46,LAC,UTA,20,home,JS,,19,miss2,0,J. Redick,
+206,3,11:37.0,39,46,LAC,UTA,3,away,DefReb,,,DefReb,,R. Gobert,
+207,3,11:18.0,39,46,LAC,UTA,19,away,LU,,2,miss2,0,G. Hayward,
+208,3,11:17.0,39,46,LAC,UTA,1,home,DefReb,,,DefReb,,L. Mbah a Moute,
+209,3,11:14.0,41,46,LAC,UTA,3,home,LU,,2,make2,2,C. Paul,
+210,3,11:14.0,41,46,LAC,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Hill,C. Paul
+211,3,11:14.0,41,46,LAC,UTA,0,home,FreeThrow,,,make1,0,C. Paul,
+212,3,11:14.0,41,46,LAC,UTA,0,away,DefReb,,,DefReb,,R. Gobert,
+213,3,11:00.0,41,46,LAC,UTA,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Mbah a Moute,B. Diaw
+214,3,10:52.0,41,48,LAC,UTA,8,away,JS,,7,make2,2,G. Hayward,
+215,3,10:52.0,41,48,LAC,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Rivers,G. Hayward
+216,3,10:52.0,41,49,LAC,UTA,0,away,FreeThrow,,,make1,1,G. Hayward,
+217,3,10:28.0,41,49,LAC,UTA,24,home,ShotClockViolation,,,turnover,,Team,
+218,3,10:28.0,41,49,LAC,UTA,0,home,Sub,,,,,P. Pierce,L. Mbah a Moute
+219,3,10:16.0,41,49,LAC,UTA,12,away,JS,,19,miss2,0,G. Hayward,
+220,3,10:13.0,41,49,LAC,UTA,3,home,DefReb,,,DefReb,,J. Redick,
+221,3,10:05.0,41,49,LAC,UTA,8,home,LU,,5,miss2,0,C. Paul,
+222,3,10:04.0,41,49,LAC,UTA,1,home,OffReb,,,OffReb,,Team,
+223,3,9:51.0,41,49,LAC,UTA,13,home,LostBall,steal,,turnover,,C. Paul,J. Ingles
+224,3,9:48.0,41,51,LAC,UTA,3,away,DK,,0,make2,2,B. Diaw,
+225,3,9:47.0,41,51,LAC,UTA,1,home,JumpBallViolation,,,JumpBallViolation,,Team,
+226,3,9:35.0,41,51,LAC,UTA,12,home,JS,block,26,miss3,0,J. Redick,J. Ingles
+227,3,9:32.0,41,51,LAC,UTA,3,away,DefReb,,,DefReb,,G. Hayward,
+228,3,9:18.0,41,51,LAC,UTA,14,away,JS,,16,miss2,0,G. Hayward,
+229,3,9:17.0,41,51,LAC,UTA,1,home,DefReb,,,DefReb,,D. Jordan,
+230,3,9:08.0,41,51,LAC,UTA,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Gobert,D. Jordan
+231,3,9:08.0,41,51,LAC,UTA,0,away,Sub,,,,,D. Favors,R. Gobert
+232,3,9:00.0,44,51,LAC,UTA,8,home,JS,assist,28,make3,3,P. Pierce,C. Paul
+233,3,8:35.0,44,53,LAC,UTA,25,away,JS,assist,22,make2,2,B. Diaw,G. Hayward
+234,3,8:35.0,44,53,LAC,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Pierce,B. Diaw
+235,3,8:35.0,44,54,LAC,UTA,0,away,FreeThrow,,,make1,1,B. Diaw,
+236,3,8:28.0,44,54,LAC,UTA,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Hayward,A. Rivers
+237,3,8:28.0,44,54,LAC,UTA,0,home,Sub,,,,,J. Crawford,J. Redick
+238,3,8:14.0,44,54,LAC,UTA,14,home,JS,,26,miss3,0,A. Rivers,
+239,3,8:13.0,44,54,LAC,UTA,1,away,DefReb,,,DefReb,,J. Ingles,
+240,3,8:00.0,44,56,LAC,UTA,13,away,JS,assist,12,make2,2,D. Favors,G. Hill
+241,3,7:39.0,44,56,LAC,UTA,21,home,LU,,2,miss2,0,C. Paul,
+242,3,7:38.0,44,56,LAC,UTA,1,away,DefReb,,,DefReb,,G. Hill,
+243,3,7:34.0,44,58,LAC,UTA,4,away,LU,assist,2,make2,2,B. Diaw,G. Hill
+244,3,7:34.0,44,58,LAC,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Pierce,B. Diaw
+245,3,7:34.0,44,58,LAC,UTA,0,home,Timeout,,,,,,
+246,3,7:34.0,44,58,LAC,UTA,0,home,Sub,,,,,R. Felton,A. Rivers
+247,3,7:34.0,44,59,LAC,UTA,0,away,FreeThrow,,,make1,1,B. Diaw,
+248,3,7:11.0,44,59,LAC,UTA,23,home,JS,,24,miss3,0,C. Paul,
+249,3,7:10.0,44,59,LAC,UTA,1,home,OffReb,,,OffReb,,P. Pierce,
+250,3,7:10.0,44,59,LAC,UTA,0,home,ShotClockViolation,,,turnover,,Team,
+251,3,6:49.0,44,61,LAC,UTA,21,away,JS,,20,make2,2,G. Hill,
+252,3,6:28.0,46,61,LAC,UTA,21,home,JS,,16,make2,2,R. Felton,
+253,3,6:00.0,46,61,LAC,UTA,28,away,JS,,12,miss2,0,G. Hayward,
+254,3,5:58.0,46,61,LAC,UTA,2,home,DefReb,,,DefReb,,P. Pierce,
+255,3,5:53.0,48,61,LAC,UTA,5,home,DK,assist,0,make2,2,D. Jordan,J. Crawford
+256,3,5:34.0,48,61,LAC,UTA,19,away,BadPass,steal,,turnover,,G. Hill,P. Pierce
+257,3,5:27.0,48,61,LAC,UTA,7,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Favors,R. Felton
+258,3,5:27.0,48,61,LAC,UTA,0,away,Sub,,,,,J. Johnson,B. Diaw
+259,3,5:21.0,48,61,LAC,UTA,6,home,JS,,26,miss3,0,J. Crawford,
+260,3,5:19.0,48,61,LAC,UTA,2,away,DefReb,,,DefReb,,J. Johnson,
+261,3,5:12.0,48,61,LAC,UTA,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crawford,G. Hill
+262,3,5:12.0,48,62,LAC,UTA,0,away,FreeThrow,,,make1,1,G. Hill,
+263,3,5:12.0,48,62,LAC,UTA,0,away,Sub,,,,,R. Hood,J. Ingles
+264,3,5:12.0,48,63,LAC,UTA,0,away,FreeThrow,,,make1,1,G. Hill,
+265,3,4:54.0,48,63,LAC,UTA,18,home,JS,,27,miss3,0,P. Pierce,
+266,3,4:53.0,48,63,LAC,UTA,1,away,DefReb,,,DefReb,,R. Hood,
+267,3,4:53.0,48,63,LAC,UTA,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Jordan,R. Hood
+268,3,4:53.0,48,64,LAC,UTA,0,away,FreeThrow,,,make1,1,R. Hood,
+269,3,4:53.0,48,65,LAC,UTA,0,away,FreeThrow,,,make1,1,R. Hood,
+270,3,4:42.0,48,65,LAC,UTA,11,home,JS,,13,miss2,0,C. Paul,
+271,3,4:41.0,48,65,LAC,UTA,1,away,DefReb,,,DefReb,,J. Johnson,
+272,3,4:28.0,48,65,LAC,UTA,13,away,LU,,2,miss2,0,G. Hill,
+273,3,4:27.0,48,65,LAC,UTA,1,away,OffReb,,,OffReb,,G. Hill,
+274,3,4:24.0,48,68,LAC,UTA,3,away,JS,assist,26,make3,3,G. Hayward,J. Johnson
+275,3,4:05.0,48,68,LAC,UTA,19,home,JS,,5,miss2,0,R. Felton,
+276,3,4:03.0,48,68,LAC,UTA,2,home,OffReb,,,OffReb,,D. Jordan,
+277,3,4:02.0,48,68,LAC,UTA,1,home,LU,,3,miss2,0,D. Jordan,
+278,3,4:02.0,48,68,LAC,UTA,0,away,DefReb,,,DefReb,,D. Favors,
+279,3,4:02.0,48,68,LAC,UTA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Jordan,D. Favors
+280,3,4:02.0,48,68,LAC,UTA,0,away,FreeThrow,,,make1,0,D. Favors,
+281,3,4:02.0,48,68,LAC,UTA,0,away,OffReb,,,OffReb,,Team,
+282,3,4:02.0,48,68,LAC,UTA,0,home,Sub,,,,,M. Speights,D. Jordan
+283,3,4:02.0,48,68,LAC,UTA,0,away,Sub,,,,,J. Ingles,G. Hill
+284,3,4:02.0,48,69,LAC,UTA,0,away,FreeThrow,,,make1,1,D. Favors,
+285,3,3:43.0,50,69,LAC,UTA,19,home,JS,assist,17,make2,2,J. Crawford,R. Felton
+286,3,3:26.0,50,69,LAC,UTA,17,away,LU,,2,miss2,0,G. Hayward,
+287,3,3:23.0,50,69,LAC,UTA,3,away,OffReb,,,OffReb,,D. Favors,
+288,3,3:23.0,50,71,LAC,UTA,0,away,LU,,3,make2,2,D. Favors,
+289,3,3:09.0,53,71,LAC,UTA,14,home,JS,assist,27,make3,3,M. Speights,J. Crawford
+290,3,2:53.0,53,71,LAC,UTA,16,away,JS,,25,miss3,0,J. Ingles,
+291,3,2:53.0,53,71,LAC,UTA,0,home,DefReb,,,DefReb,,Team,
+292,3,2:53.0,53,71,LAC,UTA,0,away,Timeout,,,,,,
+293,3,2:53.0,53,71,LAC,UTA,0,home,Sub,,,,,A. Rivers,C. Paul
+294,3,2:45.0,53,71,LAC,UTA,8,home,JS,,27,miss3,0,M. Speights,
+295,3,2:43.0,53,71,LAC,UTA,2,away,DefReb,,,DefReb,,R. Hood,
+296,3,2:38.0,53,71,LAC,UTA,5,away,BadPass,steal,,turnover,,R. Hood,R. Felton
+297,3,2:32.0,55,71,LAC,UTA,6,home,LU,assist,3,make2,2,P. Pierce,R. Felton
+298,3,2:32.0,55,71,LAC,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,P. Pierce
+299,3,2:32.0,56,71,LAC,UTA,0,home,FreeThrow,,,make1,1,P. Pierce,
+300,3,2:21.0,56,71,LAC,UTA,11,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,A. Rivers,G. Hayward
+301,3,2:21.0,56,72,LAC,UTA,0,away,FreeThrow,,,make1,1,G. Hayward,
+302,3,2:21.0,56,73,LAC,UTA,0,away,FreeThrow,,,make1,1,G. Hayward,
+303,3,2:14.0,56,73,LAC,UTA,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Favors,M. Speights
+304,3,2:14.0,57,73,LAC,UTA,0,home,FreeThrow,,,make1,1,M. Speights,
+305,3,2:14.0,58,73,LAC,UTA,0,home,FreeThrow,,,make1,1,M. Speights,
+306,3,1:52.0,58,75,LAC,UTA,22,away,JS,assist,4,make2,2,D. Favors,J. Johnson
+307,3,1:40.0,58,75,LAC,UTA,12,home,JS,,6,miss2,0,J. Crawford,
+308,3,1:40.0,58,75,LAC,UTA,0,home,OffReb,,,OffReb,,Team,
+309,3,1:40.0,58,75,LAC,UTA,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Favors,M. Speights
+310,3,1:40.0,58,75,LAC,UTA,0,home,FreeThrow,,,make1,0,M. Speights,
+311,3,1:40.0,58,75,LAC,UTA,0,home,OffReb,,,OffReb,,Team,
+312,3,1:40.0,59,75,LAC,UTA,0,home,FreeThrow,,,make1,1,M. Speights,
+313,3,1:26.0,59,77,LAC,UTA,14,away,JS,,5,make2,2,J. Johnson,
+314,3,1:11.0,61,77,LAC,UTA,15,home,LU,,1,make2,2,R. Felton,
+315,3,0:48.0,61,77,LAC,UTA,23,away,JS,,18,miss2,0,J. Johnson,
+316,3,0:46.0,61,77,LAC,UTA,2,home,DefReb,,,DefReb,,A. Rivers,
+317,3,0:40.0,61,77,LAC,UTA,6,home,JS,,25,miss3,0,M. Speights,
+318,3,0:39.0,61,77,LAC,UTA,1,away,DefReb,,,DefReb,,G. Hayward,
+319,3,0:30.0,61,77,LAC,UTA,9,away,JS,,26,miss3,0,R. Hood,
+320,3,0:24.0,61,77,LAC,UTA,6,home,DefReb,,,DefReb,,J. Crawford,
+321,3,0:08.0,61,77,LAC,UTA,16,home,JS,,4,miss2,0,J. Crawford,
+322,3,0:07.0,61,77,LAC,UTA,1,home,OffReb,,,OffReb,,M. Speights,
+323,3,0:07.0,63,77,LAC,UTA,0,home,LU,,2,make2,2,M. Speights,
+324,3,0:00.0,63,79,LAC,UTA,7,away,LU,assist,1,make2,2,R. Hood,J. Johnson
+325,4,11:45.0,63,79,LAC,UTA,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,R. Gobert
+326,4,11:45.0,63,80,LAC,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+327,4,11:45.0,63,80,LAC,UTA,0,away,FreeThrow,,,make1,0,R. Gobert,
+328,4,11:43.0,63,80,LAC,UTA,2,home,DefReb,,,DefReb,,J. Crawford,
+329,4,11:30.0,63,80,LAC,UTA,13,home,LU,,3,miss2,0,A. Rivers,
+330,4,11:30.0,63,80,LAC,UTA,0,away,DefReb,,,DefReb,,Team,
+331,4,11:30.0,63,80,LAC,UTA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Speights,R. Gobert
+332,4,11:30.0,63,80,LAC,UTA,0,home,Sub,,,,,D. Jordan,M. Speights
+333,4,11:03.0,63,80,LAC,UTA,27,away,LU,,2,miss2,0,R. Gobert,
+334,4,11:01.0,63,80,LAC,UTA,2,home,DefReb,,,DefReb,,C. Paul,
+335,4,10:57.0,63,80,LAC,UTA,4,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Ingles,D. Jordan
+336,4,10:57.0,63,80,LAC,UTA,0,away,Sub,,,,,D. Exum,J. Johnson
+337,4,10:45.0,65,80,LAC,UTA,12,home,LU,assist,2,make2,2,D. Jordan,A. Rivers
+338,4,10:45.0,65,80,LAC,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Hill,D. Jordan
+339,4,10:45.0,65,80,LAC,UTA,0,home,FreeThrow,,,make1,0,D. Jordan,
+340,4,10:45.0,65,80,LAC,UTA,0,away,DefReb,,,DefReb,,Team,
+341,4,10:45.0,65,80,LAC,UTA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Felton,R. Gobert
+342,4,10:25.0,65,80,LAC,UTA,20,away,JS,,27,miss3,0,R. Hood,
+343,4,10:25.0,65,80,LAC,UTA,0,home,DefReb,,,DefReb,,D. Jordan,
+344,4,10:25.0,65,80,LAC,UTA,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Gobert,D. Jordan
+345,4,10:25.0,65,80,LAC,UTA,0,away,Sub,,,,,G. Hayward,R. Hood
+346,4,10:25.0,65,80,LAC,UTA,0,away,Sub,,,,,D. Favors,R. Gobert
+347,4,10:15.0,65,80,LAC,UTA,10,home,JS,,25,miss3,0,C. Paul,
+348,4,10:14.0,65,80,LAC,UTA,1,away,DefReb,,,DefReb,,D. Exum,
+349,4,9:59.0,65,80,LAC,UTA,15,away,LU,,2,miss2,0,D. Favors,
+350,4,9:58.0,65,80,LAC,UTA,1,home,DefReb,,,DefReb,,J. Crawford,
+351,4,9:53.0,67,80,LAC,UTA,5,home,JS,,19,make2,2,J. Crawford,
+352,4,9:29.0,67,82,LAC,UTA,24,away,JS,,21,make2,2,G. Hayward,
+353,4,9:19.0,69,82,LAC,UTA,10,home,JS,,19,make2,2,J. Crawford,
+354,4,9:08.0,69,84,LAC,UTA,11,away,JS,,4,make2,2,G. Hill,
+355,4,8:59.0,71,84,LAC,UTA,9,home,DK,assist,0,make2,2,D. Jordan,J. Crawford
+356,4,8:47.0,71,84,LAC,UTA,12,away,Timeout,,,,,,
+357,4,8:47.0,71,84,LAC,UTA,0,home,Sub,,,,,J. Redick,R. Felton
+358,4,8:47.0,71,84,LAC,UTA,0,away,Sub,,,,,J. Johnson,G. Hill
+359,4,8:34.0,71,86,LAC,UTA,13,away,JS,,9,make2,2,G. Hayward,
+360,4,8:34.0,71,86,LAC,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,G. Hayward
+361,4,8:34.0,71,87,LAC,UTA,0,away,FreeThrow,,,make1,1,G. Hayward,
+362,4,8:23.0,71,87,LAC,UTA,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ingles,D. Jordan
+363,4,8:23.0,72,87,LAC,UTA,0,home,FreeThrow,,,make1,1,D. Jordan,
+364,4,8:23.0,72,87,LAC,UTA,0,home,FreeThrow,,,make1,0,D. Jordan,
+365,4,8:21.0,72,87,LAC,UTA,2,away,DefReb,,,DefReb,,G. Hayward,
+366,4,8:03.0,72,89,LAC,UTA,18,away,JS,,4,make2,2,G. Hayward,
+367,4,7:47.0,74,89,LAC,UTA,16,home,LU,,2,make2,2,J. Crawford,
+368,4,7:23.0,74,91,LAC,UTA,24,away,JS,,6,make2,2,J. Ingles,
+369,4,7:05.0,77,91,LAC,UTA,18,home,JS,,28,make3,3,J. Crawford,
+370,4,6:48.0,77,91,LAC,UTA,17,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Hayward,C. Paul
+371,4,6:48.0,77,91,LAC,UTA,0,away,OffensiveFoul,,,turnover,,G. Hayward,
+372,4,6:40.0,77,91,LAC,UTA,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,D. Jordan
+373,4,6:40.0,78,91,LAC,UTA,0,home,FreeThrow,,,make1,1,D. Jordan,
+374,4,6:40.0,78,91,LAC,UTA,0,home,FreeThrow,,,make1,0,D. Jordan,
+375,4,6:40.0,78,91,LAC,UTA,0,home,Sub,,,,,R. Felton,J. Redick
+376,4,6:40.0,78,91,LAC,UTA,0,away,Sub,,,,,R. Hood,D. Exum
+377,4,6:37.0,78,91,LAC,UTA,3,away,DefReb,,,DefReb,,J. Ingles,
+378,4,6:19.0,78,94,LAC,UTA,18,away,JS,assist,26,make3,3,J. Ingles,R. Hood
+379,4,6:02.0,78,94,LAC,UTA,17,home,JS,,10,miss2,0,C. Paul,
+380,4,6:00.0,78,94,LAC,UTA,2,home,OffReb,,,OffReb,,R. Felton,
+381,4,5:55.0,80,94,LAC,UTA,5,home,LU,assist,1,make2,2,D. Jordan,C. Paul
+382,4,5:32.0,80,96,LAC,UTA,23,away,JS,,4,make2,2,J. Johnson,
+383,4,5:24.0,80,96,LAC,UTA,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,J. Crawford
+384,4,5:24.0,80,96,LAC,UTA,0,away,Timeout,,,,,,
+385,4,5:24.0,81,96,LAC,UTA,0,home,FreeThrow,,,make1,1,J. Crawford,
+386,4,5:24.0,80,96,LAC,UTA,0,away,Sub,,,,,R. Gobert,D. Favors
+387,4,5:24.0,82,96,LAC,UTA,0,home,FreeThrow,,,make1,1,J. Crawford,
+388,4,4:59.0,82,96,LAC,UTA,25,away,JS,,9,miss2,0,J. Ingles,
+389,4,4:57.0,82,96,LAC,UTA,2,home,DefReb,,,DefReb,,J. Crawford,
+390,4,4:51.0,84,96,LAC,UTA,6,home,LU,,3,make2,2,J. Crawford,
+391,4,4:51.0,84,96,LAC,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Hayward,J. Crawford
+392,4,4:51.0,84,96,LAC,UTA,0,away,Sub,,,,,G. Hill,R. Hood
+393,4,4:51.0,85,96,LAC,UTA,0,home,FreeThrow,,,make1,1,J. Crawford,
+394,4,4:34.0,85,96,LAC,UTA,17,away,JS,,22,miss2,0,G. Hill,
+395,4,4:34.0,85,96,LAC,UTA,0,home,DefReb,,,DefReb,,C. Paul,
+396,4,4:23.0,85,96,LAC,UTA,11,home,JS,,14,miss2,0,J. Crawford,
+397,4,4:20.0,85,96,LAC,UTA,3,away,DefReb,,,DefReb,,G. Hayward,
+398,4,4:12.0,85,98,LAC,UTA,8,away,JS,,12,make2,2,G. Hayward,
+399,4,3:58.0,87,98,LAC,UTA,14,home,LU,assist,3,make2,2,D. Jordan,C. Paul
+400,4,3:41.0,87,98,LAC,UTA,17,away,OffensiveFoul,,,turnover,,G. Hayward,
+401,4,3:41.0,87,98,LAC,UTA,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Hayward,J. Crawford
+402,4,3:34.0,87,98,LAC,UTA,7,away,KickBallViolation,,,KickBallViolation,,J. Johnson,
+403,4,3:34.0,87,98,LAC,UTA,0,home,Timeout,,,,,,
+404,4,3:34.0,87,98,LAC,UTA,0,home,Sub,,,,,J. Redick,R. Felton
+405,4,3:28.0,90,98,LAC,UTA,6,home,JS,assist,27,make3,3,J. Redick,C. Paul
+406,4,3:02.0,90,98,LAC,UTA,26,away,JS,,5,miss2,0,J. Johnson,
+407,4,2:59.0,90,98,LAC,UTA,3,away,OffReb,,,OffReb,,G. Hill,
+408,4,2:46.0,90,100,LAC,UTA,13,away,JS,,13,make2,2,G. Hill,
+409,4,2:31.0,90,100,LAC,UTA,15,home,LU,,1,miss2,0,J. Redick,
+410,4,2:30.0,90,100,LAC,UTA,1,away,DefReb,,,DefReb,,J. Ingles,
+411,4,2:14.0,90,100,LAC,UTA,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,J. Johnson
+412,4,2:14.0,90,101,LAC,UTA,0,away,FreeThrow,,,make1,1,J. Johnson,
+413,4,2:14.0,90,102,LAC,UTA,0,away,FreeThrow,,,make1,1,J. Johnson,
+414,4,2:05.0,90,102,LAC,UTA,9,home,LostBall,steal,,turnover,,C. Paul,J. Ingles
+415,4,2:03.0,90,102,LAC,UTA,2,away,Timeout,,,,,,
+416,4,2:03.0,90,102,LAC,UTA,0,home,Sub,,,,,R. Felton,J. Redick
+417,4,2:03.0,90,102,LAC,UTA,0,home,Sub,,,,,L. Mbah a Moute,J. Crawford
+418,4,1:44.0,90,102,LAC,UTA,19,away,JS,block,7,miss2,0,J. Johnson,L. Mbah a Moute
+419,4,1:42.0,90,102,LAC,UTA,2,away,OffReb,,,OffReb,,J. Johnson,
+420,4,1:42.0,90,102,LAC,UTA,0,away,JS,block,12,miss2,0,J. Johnson,L. Mbah a Moute
+421,4,1:42.0,90,102,LAC,UTA,0,away,OffReb,,,OffReb,,J. Johnson,
+422,4,1:40.0,90,102,LAC,UTA,2,away,ShotClockViolation,,,turnover,,Team,
+423,4,1:40.0,90,102,LAC,UTA,0,home,Timeout,,,,,,
+424,4,1:40.0,90,102,LAC,UTA,0,home,Sub,,,,,J. Redick,L. Mbah a Moute
+425,4,1:40.0,90,102,LAC,UTA,0,home,Sub,,,,,J. Crawford,R. Felton
+426,4,1:27.0,90,102,LAC,UTA,13,home,JS,,26,miss3,0,J. Crawford,
+427,4,1:26.0,90,102,LAC,UTA,1,home,OffReb,,,OffReb,,D. Jordan,
+428,4,1:26.0,90,102,LAC,UTA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Gobert,D. Jordan
+429,4,1:26.0,91,102,LAC,UTA,0,home,FreeThrow,,,make1,1,D. Jordan,
+430,4,1:26.0,90,102,LAC,UTA,0,away,Sub,,,,,B. Diaw,R. Gobert
+431,4,1:26.0,91,102,LAC,UTA,0,home,FreeThrow,,,make1,0,D. Jordan,
+432,4,1:25.0,91,102,LAC,UTA,1,away,DefReb,,,DefReb,,G. Hayward,
+433,4,1:02.0,91,102,LAC,UTA,23,away,JS,,17,miss2,0,G. Hayward,
+434,4,1:01.0,91,102,LAC,UTA,1,home,DefReb,,,DefReb,,D. Jordan,
+435,4,0:54.0,91,102,LAC,UTA,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Johnson,D. Jordan
+436,4,0:54.0,91,102,LAC,UTA,0,home,FreeThrow,,,make1,0,D. Jordan,
+437,4,0:54.0,91,102,LAC,UTA,0,home,OffReb,,,OffReb,,Team,
+438,4,0:54.0,91,102,LAC,UTA,0,home,FreeThrow,,,make1,0,D. Jordan,
+439,4,0:54.0,91,102,LAC,UTA,0,away,DefReb,,,DefReb,,G. Hayward,
+440,4,0:44.0,91,104,LAC,UTA,10,away,LU,assist,2,make2,2,G. Hayward,B. Diaw
+441,4,0:37.0,91,104,LAC,UTA,7,home,JS,,25,miss3,0,C. Paul,
+442,4,0:36.0,91,104,LAC,UTA,1,away,DefReb,,,DefReb,,J. Johnson,
+443,4,0:13.0,91,104,LAC,UTA,23,away,ShotClockViolation,,,turnover,,Team,
+444,4,0:07.0,91,104,LAC,UTA,6,home,JS,,27,miss3,0,C. Paul,
+445,4,0:06.0,91,104,LAC,UTA,1,away,DefReb,,,DefReb,,B. Diaw,

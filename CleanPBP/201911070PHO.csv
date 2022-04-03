@@ -1,0 +1,468 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:39.0,0,2,PHO,MIA,21,away,JS,,4,make2,2,J. Butler,
+1,1,11:20.0,3,2,PHO,MIA,19,home,JS,assist,26,make3,3,A. Baynes,D. Booker
+2,1,11:07.0,3,4,PHO,MIA,13,away,JS,,4,make2,2,K. Nunn,
+3,1,10:51.0,3,4,PHO,MIA,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Butler,D. Šarić
+4,1,10:45.0,3,4,PHO,MIA,6,home,JS,,26,miss3,0,D. Šarić,
+5,1,10:42.0,3,4,PHO,MIA,3,away,DefReb,,,DefReb,,J. Butler,
+6,1,10:29.0,3,6,PHO,MIA,13,away,LU,assist,1,make2,2,K. Nunn,B. Adebayo
+7,1,10:20.0,3,6,PHO,MIA,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Robinson,K. Oubre
+8,1,10:20.0,3,6,PHO,MIA,0,home,FreeThrow,,,make1,0,K. Oubre,
+9,1,10:20.0,3,6,PHO,MIA,0,home,OffReb,,,OffReb,,Team,
+10,1,10:20.0,4,6,PHO,MIA,0,home,FreeThrow,,,make1,1,K. Oubre,
+11,1,10:09.0,4,9,PHO,MIA,11,away,JS,assist,26,make3,3,M. Leonard,J. Butler
+12,1,9:49.0,4,9,PHO,MIA,20,home,LU,,0,miss2,0,A. Baynes,
+13,1,9:47.0,4,9,PHO,MIA,2,away,DefReb,,,DefReb,,B. Adebayo,
+14,1,9:45.0,4,9,PHO,MIA,2,away,bad pass,steal,,turnover,,B. Adebayo,D. Šarić
+15,1,9:33.0,4,9,PHO,MIA,12,home,lost ball,steal,,turnover,,D. Booker,D. Robinson
+16,1,9:28.0,4,9,PHO,MIA,5,away,JS,,26,miss3,0,D. Robinson,
+17,1,9:25.0,4,9,PHO,MIA,3,home,DefReb,,,DefReb,,R. Rubio,
+18,1,9:17.0,4,9,PHO,MIA,8,home,JS,,25,miss3,0,A. Baynes,
+19,1,9:13.0,4,9,PHO,MIA,4,away,DefReb,,,DefReb,,K. Nunn,
+20,1,9:09.0,4,9,PHO,MIA,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Leonard,K. Oubre
+21,1,9:09.0,4,9,PHO,MIA,0,away,OffensiveFoul,,,turnover,,M. Leonard,
+22,1,9:09.0,4,9,PHO,MIA,0,away,InstantReplay,,,RulingStands,,Team,
+23,1,8:58.0,6,9,PHO,MIA,11,home,DK,assist,0,make2,2,A. Baynes,R. Rubio
+24,1,8:42.0,6,11,PHO,MIA,16,away,JS,,9,make2,2,J. Butler,
+25,1,8:35.0,6,11,PHO,MIA,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Booker,K. Nunn
+26,1,8:35.0,6,11,PHO,MIA,0,home,OffensiveFoul,,,turnover,,D. Booker,
+27,1,8:25.0,6,11,PHO,MIA,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Baynes,B. Adebayo
+28,1,8:13.0,6,14,PHO,MIA,12,away,JS,,26,make3,3,J. Butler,
+29,1,8:00.0,6,14,PHO,MIA,13,home,LU,,0,miss2,0,R. Rubio,
+30,1,8:00.0,6,14,PHO,MIA,0,away,DefReb,,,DefReb,,Team,
+31,1,7:49.0,6,16,PHO,MIA,11,away,JS,,14,make2,2,K. Nunn,
+32,1,7:47.0,6,16,PHO,MIA,2,home,Timeout,,,,,,
+33,1,7:35.0,6,16,PHO,MIA,12,home,JS,,18,miss2,0,D. Booker,
+34,1,7:31.0,6,16,PHO,MIA,4,away,DefReb,,,DefReb,,B. Adebayo,
+35,1,7:22.0,6,16,PHO,MIA,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rubio,J. Butler
+36,1,7:22.0,6,17,PHO,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+37,1,7:22.0,6,18,PHO,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+38,1,7:06.0,8,18,PHO,MIA,16,home,LU,,1,make2,2,R. Rubio,
+39,1,6:52.0,8,18,PHO,MIA,14,away,JS,,16,miss2,0,D. Robinson,
+40,1,6:49.0,8,18,PHO,MIA,3,home,DefReb,,,DefReb,,R. Rubio,
+41,1,6:45.0,10,18,PHO,MIA,4,home,LU,,1,make2,2,R. Rubio,
+42,1,6:45.0,10,18,PHO,MIA,0,away,DefGoaltending,,,DefGoaltending,,Team,
+43,1,6:34.0,10,21,PHO,MIA,11,away,JS,assist,25,make3,3,M. Leonard,B. Adebayo
+44,1,6:23.0,10,21,PHO,MIA,11,home,JS,,25,miss3,0,R. Rubio,
+45,1,6:21.0,10,21,PHO,MIA,2,away,DefReb,,,DefReb,,K. Nunn,
+46,1,6:03.0,10,21,PHO,MIA,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Šarić,B. Adebayo
+47,1,6:03.0,10,22,PHO,MIA,0,away,FreeThrow,,,make1,1,B. Adebayo,
+48,1,6:03.0,10,22,PHO,MIA,0,away,Sub,,,,,G. Dragić,D. Robinson
+49,1,6:03.0,10,22,PHO,MIA,0,home,Sub,,,,,J. Carter,A. Baynes
+50,1,6:03.0,10,22,PHO,MIA,0,home,Sub,,,,,F. Kaminsky,R. Rubio
+51,1,6:03.0,10,22,PHO,MIA,0,away,FreeThrow,,,make1,0,B. Adebayo,
+52,1,6:01.0,10,22,PHO,MIA,2,home,DefReb,,,DefReb,,J. Carter,
+53,1,5:44.0,10,22,PHO,MIA,17,home,JS,,26,miss3,0,J. Carter,
+54,1,5:42.0,10,22,PHO,MIA,2,away,DefReb,,,DefReb,,B. Adebayo,
+55,1,5:34.0,10,22,PHO,MIA,8,away,JS,,25,miss3,0,K. Nunn,
+56,1,5:31.0,10,22,PHO,MIA,3,home,DefReb,,,DefReb,,D. Šarić,
+57,1,5:29.0,10,22,PHO,MIA,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Nunn,D. Booker
+58,1,5:23.0,13,22,PHO,MIA,6,home,JS,assist,25,make3,3,D. Šarić,J. Carter
+59,1,5:04.0,13,22,PHO,MIA,19,away,DK,block,1,miss2,0,M. Leonard,K. Oubre
+60,1,5:02.0,13,22,PHO,MIA,2,home,DefReb,,,DefReb,,D. Booker,
+61,1,4:59.0,15,22,PHO,MIA,3,home,LU,,1,make2,2,D. Booker,
+62,1,4:59.0,15,22,PHO,MIA,0,away,Timeout,,,,,,
+63,1,4:59.0,15,22,PHO,MIA,0,away,DelayOfGame,,,DelayOfGame,,Team,
+64,1,4:39.0,15,22,PHO,MIA,20,away,LU,block,1,miss2,0,J. Butler,K. Oubre
+65,1,4:39.0,15,22,PHO,MIA,0,home,DefReb,,,DefReb,,Team,
+66,1,4:26.0,18,22,PHO,MIA,13,home,JS,,27,make3,3,D. Booker,
+67,1,4:26.0,18,22,PHO,MIA,0,away,Sub,,,,,T. Herro,K. Nunn
+68,1,4:02.0,18,22,PHO,MIA,24,away,JS,,26,miss3,0,G. Dragić,
+69,1,3:59.0,18,22,PHO,MIA,3,home,DefReb,,,DefReb,,D. Šarić,
+70,1,3:47.0,20,22,PHO,MIA,12,home,LU,,1,make2,2,D. Šarić,
+71,1,3:47.0,20,22,PHO,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Adebayo,D. Šarić
+72,1,3:47.0,20,22,PHO,MIA,0,away,Sub,,,,,D. Jones,M. Leonard
+73,1,3:47.0,21,22,PHO,MIA,0,home,FreeThrow,,,make1,1,D. Šarić,
+74,1,3:42.0,21,22,PHO,MIA,5,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Dragić,J. Carter
+75,1,3:42.0,21,22,PHO,MIA,0,away,OffensiveFoul,,,turnover,,G. Dragić,
+76,1,3:42.0,21,22,PHO,MIA,0,away,TechnicalFoul,,,TechnicalFoul,,J. Carter,
+77,1,3:42.0,21,23,PHO,MIA,0,away,FreeThrow,,,make1,1,J. Butler makes technical free throw,
+78,1,3:35.0,21,23,PHO,MIA,7,home,LU,,3,miss2,0,K. Oubre,
+79,1,3:33.0,21,23,PHO,MIA,2,away,DefReb,,,DefReb,,D. Jones,
+80,1,3:19.0,21,25,PHO,MIA,14,away,LU,assist,1,make2,2,J. Butler,T. Herro
+81,1,3:14.0,21,25,PHO,MIA,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Jones,D. Booker
+82,1,3:14.0,22,25,PHO,MIA,0,home,FreeThrow,,,make1,1,D. Booker,
+83,1,3:14.0,22,25,PHO,MIA,0,home,Sub,,,,,M. Bridges,K. Oubre
+84,1,3:14.0,23,25,PHO,MIA,0,home,FreeThrow,,,make1,1,D. Booker,
+85,1,2:54.0,23,27,PHO,MIA,20,away,JS,assist,12,make2,2,J. Butler,T. Herro
+86,1,2:34.0,23,27,PHO,MIA,20,home,JS,,23,miss3,0,D. Šarić,
+87,1,2:32.0,23,27,PHO,MIA,2,home,OffReb,,,OffReb,,F. Kaminsky,
+88,1,2:26.0,23,27,PHO,MIA,6,home,LU,,1,miss2,0,D. Booker,
+89,1,2:21.0,23,27,PHO,MIA,5,home,OffReb,,,OffReb,,F. Kaminsky,
+90,1,2:21.0,25,27,PHO,MIA,0,home,LU,,1,make2,2,F. Kaminsky,
+91,1,2:08.0,25,27,PHO,MIA,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Carter,J. Butler
+92,1,2:08.0,25,28,PHO,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+93,1,2:08.0,25,28,PHO,MIA,0,away,Sub,,,,,K. Olynyk,B. Adebayo
+94,1,2:08.0,25,28,PHO,MIA,0,home,Sub,,,,,C. Johnson,D. Booker
+95,1,2:08.0,25,28,PHO,MIA,0,home,Sub,,,,,T. Johnson,D. Šarić
+96,1,2:08.0,25,29,PHO,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+97,1,1:57.0,25,29,PHO,MIA,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,T. Johnson
+98,1,1:57.0,26,29,PHO,MIA,0,home,FreeThrow,,,make1,1,T. Johnson,
+99,1,1:57.0,26,29,PHO,MIA,0,home,FreeThrow,,,make1,0,T. Johnson,
+100,1,1:53.0,26,29,PHO,MIA,4,home,OffReb,,,OffReb,,C. Johnson,
+101,1,1:51.0,26,29,PHO,MIA,2,home,JS,,26,miss3,0,T. Johnson,
+102,1,1:48.0,26,29,PHO,MIA,3,away,DefReb,,,DefReb,,G. Dragić,
+103,1,1:30.0,26,31,PHO,MIA,18,away,LU,assist,1,make2,2,J. Butler,G. Dragić
+104,1,1:16.0,26,31,PHO,MIA,14,home,LU,,1,miss2,0,F. Kaminsky,
+105,1,1:14.0,26,31,PHO,MIA,2,home,OffReb,,,OffReb,,M. Bridges,
+106,1,1:14.0,28,31,PHO,MIA,0,home,LU,,1,make2,2,M. Bridges,
+107,1,1:00.0,28,31,PHO,MIA,14,away,JS,,2,miss2,0,T. Herro,
+108,1,0:58.0,28,31,PHO,MIA,2,home,DefReb,,,DefReb,,F. Kaminsky,
+109,1,0:53.0,28,31,PHO,MIA,5,home,JS,,25,miss3,0,C. Johnson,
+110,1,0:49.0,28,31,PHO,MIA,4,home,OffReb,,,OffReb,,M. Bridges,
+111,1,0:40.0,30,31,PHO,MIA,9,home,JS,,11,make2,2,J. Carter,
+112,1,0:30.0,30,31,PHO,MIA,10,away,JS,,19,miss2,0,G. Dragić,
+113,1,0:27.0,30,31,PHO,MIA,3,home,DefReb,,,DefReb,,M. Bridges,
+114,1,0:03.0,30,31,PHO,MIA,24,home,LU,,0,miss2,0,M. Bridges,
+115,1,0:01.0,30,31,PHO,MIA,2,away,DefReb,,,DefReb,,G. Dragić,
+116,1,0:00.0,30,31,PHO,MIA,1,away,JS,,46,miss3,0,G. Dragić,
+117,1,0:00.0,30,31,PHO,MIA,0,away,OffReb,,,OffReb,,Team,
+118,2,11:42.0,30,31,PHO,MIA,18,home,JS,,25,miss3,0,M. Bridges,
+119,2,11:39.0,30,31,PHO,MIA,3,away,DefReb,,,DefReb,,D. Robinson,
+120,2,11:32.0,30,33,PHO,MIA,7,away,LU,,1,make2,2,G. Dragić,
+121,2,11:21.0,30,33,PHO,MIA,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Robinson,T. Johnson
+122,2,11:21.0,31,33,PHO,MIA,0,home,FreeThrow,,,make1,1,T. Johnson,
+123,2,11:21.0,32,33,PHO,MIA,0,home,FreeThrow,,,make1,1,T. Johnson,
+124,2,11:09.0,32,36,PHO,MIA,12,away,JS,assist,25,make3,3,T. Herro,G. Dragić
+125,2,10:57.0,32,36,PHO,MIA,12,home,bad pass,steal,,turnover,,T. Johnson,K. Olynyk
+126,2,10:52.0,32,36,PHO,MIA,5,away,JS,,2,miss2,0,T. Herro,
+127,2,10:46.0,32,36,PHO,MIA,6,away,OffReb,,,OffReb,,D. Jones,
+128,2,10:46.0,32,38,PHO,MIA,0,away,DK,,0,make2,2,D. Jones,
+129,2,10:37.0,32,38,PHO,MIA,9,home,JS,,26,miss3,0,T. Johnson,
+130,2,10:34.0,32,38,PHO,MIA,3,away,DefReb,,,DefReb,,D. Robinson,
+131,2,10:25.0,32,40,PHO,MIA,9,away,JS,assist,20,make2,2,T. Herro,D. Jones
+132,2,10:01.0,32,40,PHO,MIA,24,home,LU,,2,miss2,0,C. Johnson,
+133,2,9:59.0,32,40,PHO,MIA,2,away,DefReb,,,DefReb,,D. Jones,
+134,2,9:57.0,32,40,PHO,MIA,2,away,JS,,25,miss3,0,D. Robinson,
+135,2,9:53.0,32,40,PHO,MIA,4,home,DefReb,,,DefReb,,J. Carter,
+136,2,9:48.0,32,40,PHO,MIA,5,home,LU,,1,miss2,0,T. Johnson,
+137,2,9:45.0,32,40,PHO,MIA,3,away,DefReb,,,DefReb,,G. Dragić,
+138,2,9:37.0,32,43,PHO,MIA,8,away,JS,assist,24,make3,3,G. Dragić,D. Jones
+139,2,9:36.0,32,43,PHO,MIA,1,home,Timeout,,,,,,
+140,2,9:36.0,32,43,PHO,MIA,0,home,Sub,,,,,R. Rubio,J. Carter
+141,2,9:20.0,32,43,PHO,MIA,16,home,Palming,,,turnover,,R. Rubio,
+142,2,9:07.0,32,43,PHO,MIA,13,away,OutOfBounds,,,turnover,,K. Olynyk,
+143,2,9:07.0,32,43,PHO,MIA,0,home,Sub,,,,,A. Baynes,F. Kaminsky
+144,2,8:53.0,32,43,PHO,MIA,14,home,LU,,1,miss2,0,M. Bridges,
+145,2,8:51.0,32,43,PHO,MIA,2,away,DefReb,,,DefReb,,D. Jones,
+146,2,8:42.0,32,43,PHO,MIA,9,away,JS,,7,miss2,0,G. Dragić,
+147,2,8:40.0,32,43,PHO,MIA,2,home,DefReb,,,DefReb,,M. Bridges,
+148,2,8:34.0,34,43,PHO,MIA,6,home,LU,,1,make2,2,R. Rubio,
+149,2,8:34.0,34,43,PHO,MIA,0,away,DefGoaltending,,,DefGoaltending,,Team,
+150,2,8:21.0,34,43,PHO,MIA,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Bridges,K. Olynyk
+151,2,8:21.0,34,43,PHO,MIA,0,away,Sub,,,,,B. Adebayo,D. Jones
+152,2,8:21.0,34,43,PHO,MIA,0,home,Sub,,,,,D. Šarić,C. Johnson
+153,2,8:12.0,34,46,PHO,MIA,9,away,JS,assist,23,make3,3,T. Herro,G. Dragić
+154,2,7:44.0,34,46,PHO,MIA,28,home,JS,,23,miss3,0,R. Rubio,
+155,2,7:41.0,34,46,PHO,MIA,3,away,DefReb,,,DefReb,,K. Olynyk,
+156,2,7:34.0,34,46,PHO,MIA,7,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Olynyk,R. Rubio
+157,2,7:34.0,34,46,PHO,MIA,0,away,OffensiveFoul,,,turnover,,K. Olynyk,
+158,2,7:34.0,34,46,PHO,MIA,0,home,Sub,,,,,D. Booker,M. Bridges
+159,2,7:34.0,34,46,PHO,MIA,0,home,Sub,,,,,K. Oubre,T. Johnson
+160,2,7:21.0,34,46,PHO,MIA,13,home,Traveling,,,turnover,,D. Šarić,
+161,2,7:08.0,34,46,PHO,MIA,13,away,JS,,21,miss2,0,T. Herro,
+162,2,7:05.0,34,46,PHO,MIA,3,home,DefReb,,,DefReb,,R. Rubio,
+163,2,7:00.0,34,46,PHO,MIA,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Herro,D. Booker
+164,2,6:55.0,34,46,PHO,MIA,5,home,JS,,1,miss2,0,K. Oubre,
+165,2,6:51.0,34,46,PHO,MIA,4,home,OffReb,,,OffReb,,K. Oubre,
+166,2,6:51.0,36,46,PHO,MIA,0,home,DK,,1,make2,2,K. Oubre,
+167,2,6:38.0,36,48,PHO,MIA,13,away,JS,assist,12,make2,2,B. Adebayo,K. Olynyk
+168,2,6:23.0,38,48,PHO,MIA,15,home,LU,assist,1,make2,2,D. Booker,R. Rubio
+169,2,6:09.0,38,50,PHO,MIA,14,away,JS,,9,make2,2,B. Adebayo,
+170,2,5:48.0,41,50,PHO,MIA,21,home,JS,assist,27,make3,3,D. Šarić,K. Oubre
+171,2,5:46.0,41,50,PHO,MIA,2,away,Timeout,,,,,,
+172,2,5:46.0,41,50,PHO,MIA,0,away,Sub,,,,,J. Butler,G. Dragić
+173,2,5:46.0,41,50,PHO,MIA,0,away,Sub,,,,,M. Leonard,K. Olynyk
+174,2,5:46.0,41,50,PHO,MIA,0,away,Sub,,,,,K. Nunn,D. Robinson
+175,2,5:26.0,41,50,PHO,MIA,20,away,JS,,18,miss2,0,T. Herro,
+176,2,5:23.0,41,50,PHO,MIA,3,home,DefReb,,,DefReb,,R. Rubio,
+177,2,5:19.0,43,50,PHO,MIA,4,home,LU,,1,make2,2,D. Booker,
+178,2,5:04.0,43,50,PHO,MIA,15,away,JS,,23,miss3,0,K. Nunn,
+179,2,4:59.0,43,50,PHO,MIA,5,away,OffReb,,,OffReb,,B. Adebayo,
+180,2,4:59.0,43,52,PHO,MIA,0,away,LU,,0,make2,2,B. Adebayo,
+181,2,4:45.0,43,52,PHO,MIA,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Leonard,K. Oubre
+182,2,4:45.0,44,52,PHO,MIA,0,home,FreeThrow,,,make1,1,K. Oubre,
+183,2,4:45.0,45,52,PHO,MIA,0,home,FreeThrow,,,make1,1,K. Oubre,
+184,2,4:37.0,45,52,PHO,MIA,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Oubre,J. Butler
+185,2,4:22.0,45,52,PHO,MIA,15,away,JS,,7,miss2,0,M. Leonard,
+186,2,4:21.0,45,52,PHO,MIA,1,away,OffReb,,,OffReb,,Team,
+187,2,4:21.0,45,52,PHO,MIA,0,away,ShotClockViolation,,,turnover,,Team,
+188,2,4:05.0,45,52,PHO,MIA,16,home,bad pass,steal,,turnover,,D. Booker,B. Adebayo
+189,2,4:04.0,45,52,PHO,MIA,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,B. Adebayo
+190,2,3:56.0,45,52,PHO,MIA,8,away,JS,,22,miss2,0,T. Herro,
+191,2,3:49.0,45,52,PHO,MIA,7,home,DefReb,,,DefReb,,R. Rubio,
+192,2,3:39.0,47,52,PHO,MIA,10,home,HS,assist,6,make2,2,A. Baynes,D. Šarić
+193,2,3:39.0,47,52,PHO,MIA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Leonard,A. Baynes
+194,2,3:39.0,47,52,PHO,MIA,0,away,Sub,,,,,K. Olynyk,M. Leonard
+195,2,3:39.0,48,52,PHO,MIA,0,home,FreeThrow,,,make1,1,A. Baynes,
+196,2,3:20.0,48,55,PHO,MIA,19,away,JS,assist,26,make3,3,J. Butler,B. Adebayo
+197,2,3:06.0,48,55,PHO,MIA,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Olynyk,D. Booker
+198,2,3:06.0,49,55,PHO,MIA,0,home,FreeThrow,,,make1,1,D. Booker,
+199,2,3:06.0,49,55,PHO,MIA,0,away,Sub,,,,,G. Dragić,T. Herro
+200,2,3:06.0,49,55,PHO,MIA,0,away,Sub,,,,,D. Jones,K. Olynyk
+201,2,3:06.0,50,55,PHO,MIA,0,home,FreeThrow,,,make1,1,D. Booker,
+202,2,2:53.0,50,55,PHO,MIA,13,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Jones,A. Baynes
+203,2,2:53.0,50,55,PHO,MIA,0,away,OffensiveFoul,,,turnover,,D. Jones,
+204,2,2:43.0,53,55,PHO,MIA,10,home,JS,assist,25,make3,3,K. Oubre,R. Rubio
+205,2,2:29.0,53,55,PHO,MIA,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Oubre,J. Butler
+206,2,2:29.0,53,56,PHO,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+207,2,2:29.0,53,57,PHO,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+208,2,2:14.0,55,57,PHO,MIA,15,home,LU,,1,make2,2,D. Booker,
+209,2,1:56.0,55,57,PHO,MIA,18,away,DK,,1,miss2,0,D. Jones,
+210,2,1:54.0,55,57,PHO,MIA,2,home,DefReb,,,DefReb,,R. Rubio,
+211,2,1:44.0,55,57,PHO,MIA,10,home,JS,,23,miss3,0,D. Šarić,
+212,2,1:41.0,55,57,PHO,MIA,3,home,OffReb,,,OffReb,,A. Baynes,
+213,2,1:40.0,57,57,PHO,MIA,1,home,HS,,2,make2,2,A. Baynes,
+214,2,1:26.0,57,57,PHO,MIA,14,away,LU,,1,miss2,0,D. Jones,
+215,2,1:24.0,57,57,PHO,MIA,2,away,OffReb,,,OffReb,,J. Butler,
+216,2,1:22.0,57,59,PHO,MIA,2,away,LU,,2,make2,2,J. Butler,
+217,2,1:22.0,57,59,PHO,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Baynes,J. Butler
+218,2,1:22.0,57,59,PHO,MIA,0,away,Sub,,,,,J. Johnson,D. Jones
+219,2,1:22.0,57,60,PHO,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+220,2,1:05.0,57,60,PHO,MIA,17,home,Traveling,,,turnover,,R. Rubio,
+221,2,1:05.0,57,60,PHO,MIA,0,home,Sub,,,,,M. Bridges,A. Baynes
+222,2,1:05.0,57,60,PHO,MIA,0,home,Sub,,,,,T. Johnson,K. Oubre
+223,2,1:05.0,57,60,PHO,MIA,0,home,Sub,,,,,F. Kaminsky,R. Rubio
+224,2,0:52.0,57,62,PHO,MIA,13,away,LU,assist,5,make2,2,J. Butler,B. Adebayo
+225,2,0:35.0,57,62,PHO,MIA,17,home,JS,,28,miss3,0,D. Booker,
+226,2,0:32.0,57,62,PHO,MIA,3,away,DefReb,,,DefReb,,J. Butler,
+227,2,0:23.0,57,62,PHO,MIA,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,F. Kaminsky,J. Butler
+228,2,0:23.0,57,63,PHO,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+229,2,0:23.0,57,63,PHO,MIA,0,home,Sub,,,,,C. Johnson,M. Bridges
+230,2,0:23.0,57,64,PHO,MIA,0,away,FreeThrow,,,make1,1,J. Butler,
+231,2,0:04.0,57,64,PHO,MIA,19,home,LU,block,2,miss2,0,D. Booker,B. Adebayo
+232,2,0:01.0,57,64,PHO,MIA,3,away,DefReb,,,DefReb,,B. Adebayo,
+233,2,0:00.0,57,64,PHO,MIA,1,away,JS,,37,miss3,0,B. Adebayo,
+234,2,0:00.0,57,64,PHO,MIA,0,away,OffReb,,,OffReb,,Team,
+235,2,0:00.0,57,64,PHO,MIA,0,away,InstantReplay,,,RulingStands,,Team,
+236,3,11:45.0,57,64,PHO,MIA,15,home,JS,,10,miss2,0,K. Oubre,
+237,3,11:38.0,57,64,PHO,MIA,7,home,OffReb,,,OffReb,,A. Baynes,
+238,3,11:38.0,57,64,PHO,MIA,0,home,LU,,0,miss2,0,A. Baynes,
+239,3,11:37.0,57,64,PHO,MIA,1,away,DefReb,,,DefReb,,J. Butler,
+240,3,11:25.0,57,64,PHO,MIA,12,away,JS,,11,miss2,0,B. Adebayo,
+241,3,11:22.0,57,64,PHO,MIA,3,home,DefReb,,,DefReb,,R. Rubio,
+242,3,11:13.0,57,64,PHO,MIA,9,home,bad pass,steal,,turnover,,R. Rubio,B. Adebayo
+243,3,11:09.0,57,66,PHO,MIA,4,away,DK,assist,1,make2,2,K. Nunn,B. Adebayo
+244,3,10:56.0,59,66,PHO,MIA,13,home,LU,assist,1,make2,2,A. Baynes,D. Booker
+245,3,10:41.0,59,66,PHO,MIA,15,away,bad pass,steal,,turnover,,K. Nunn,R. Rubio
+246,3,10:34.0,59,66,PHO,MIA,7,home,3sec,,,turnover,,D. Šarić,
+247,3,10:31.0,59,68,PHO,MIA,3,away,DK,assist,0,make2,2,B. Adebayo,J. Butler
+248,3,10:12.0,59,68,PHO,MIA,19,home,JS,,20,miss2,0,D. Šarić,
+249,3,10:09.0,59,68,PHO,MIA,3,away,DefReb,,,DefReb,,D. Robinson,
+250,3,9:55.0,59,71,PHO,MIA,14,away,JS,assist,26,make3,3,K. Nunn,J. Butler
+251,3,9:37.0,59,71,PHO,MIA,18,home,JS,,25,miss3,0,A. Baynes,
+252,3,9:36.0,59,71,PHO,MIA,1,home,OffReb,,,OffReb,,Team,
+253,3,9:26.0,61,71,PHO,MIA,10,home,DK,,0,make2,2,K. Oubre,
+254,3,9:12.0,61,71,PHO,MIA,14,away,JS,,23,miss3,0,K. Nunn,
+255,3,9:08.0,61,71,PHO,MIA,4,home,DefReb,,,DefReb,,D. Šarić,
+256,3,9:01.0,61,71,PHO,MIA,7,home,JS,,25,miss3,0,D. Booker,
+257,3,9:01.0,61,71,PHO,MIA,0,home,OffReb,,,OffReb,,Team,
+258,3,9:01.0,61,71,PHO,MIA,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Leonard,A. Baynes
+259,3,9:01.0,61,71,PHO,MIA,0,away,Sub,,,,,K. Olynyk,M. Leonard
+260,3,8:58.0,61,71,PHO,MIA,3,home,bad pass,steal,,turnover,,K. Oubre,B. Adebayo
+261,3,8:53.0,61,71,PHO,MIA,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Oubre,D. Robinson
+262,3,8:53.0,61,72,PHO,MIA,0,away,FreeThrow,,,make1,1,D. Robinson,
+263,3,8:53.0,61,73,PHO,MIA,0,away,FreeThrow,,,make1,1,D. Robinson,
+264,3,8:53.0,61,74,PHO,MIA,0,away,FreeThrow,,,make1,1,D. Robinson,
+265,3,8:42.0,63,74,PHO,MIA,11,home,HS,assist,6,make2,2,A. Baynes,D. Šarić
+266,3,8:27.0,63,77,PHO,MIA,15,away,JS,assist,23,make3,3,D. Robinson,B. Adebayo
+267,3,8:15.0,63,77,PHO,MIA,12,home,JS,,27,miss3,0,D. Šarić,
+268,3,8:14.0,63,77,PHO,MIA,1,home,OffReb,,,OffReb,,Team,
+269,3,8:08.0,63,77,PHO,MIA,6,home,JS,,26,miss3,0,D. Šarić,
+270,3,8:04.0,63,77,PHO,MIA,4,away,DefReb,,,DefReb,,K. Olynyk,
+271,3,7:56.0,63,77,PHO,MIA,8,away,bad pass,steal,,turnover,,J. Butler,D. Booker
+272,3,7:52.0,65,77,PHO,MIA,4,home,DK,assist,1,make2,2,K. Oubre,D. Booker
+273,3,7:32.0,65,77,PHO,MIA,20,away,JS,,23,miss3,0,D. Robinson,
+274,3,7:30.0,65,77,PHO,MIA,2,home,DefReb,,,DefReb,,R. Rubio,
+275,3,7:22.0,65,77,PHO,MIA,8,home,LU,block,0,miss2,0,R. Rubio,K. Nunn
+276,3,7:20.0,65,77,PHO,MIA,2,away,DefReb,,,DefReb,,K. Olynyk,
+277,3,7:14.0,65,77,PHO,MIA,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,K. Olynyk
+278,3,7:05.0,65,77,PHO,MIA,9,away,JS,,26,miss3,0,K. Olynyk,
+279,3,7:03.0,65,77,PHO,MIA,2,home,DefReb,,,DefReb,,D. Šarić,
+280,3,6:56.0,65,77,PHO,MIA,7,home,DK,,0,miss2,0,A. Baynes,
+281,3,6:53.0,65,77,PHO,MIA,3,away,DefReb,,,DefReb,,D. Robinson,
+282,3,6:41.0,65,77,PHO,MIA,12,away,LU,,2,miss2,0,J. Butler,
+283,3,6:39.0,65,77,PHO,MIA,2,home,DefReb,,,DefReb,,R. Rubio,
+284,3,6:36.0,65,77,PHO,MIA,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,R. Rubio
+285,3,6:36.0,65,77,PHO,MIA,0,home,Timeout,,,,,,
+286,3,6:36.0,66,77,PHO,MIA,0,home,FreeThrow,,,make1,1,R. Rubio,
+287,3,6:36.0,67,77,PHO,MIA,0,home,FreeThrow,,,make1,1,R. Rubio,
+288,3,6:20.0,67,77,PHO,MIA,16,away,JS,,11,miss2,0,K. Nunn,
+289,3,6:17.0,67,77,PHO,MIA,3,home,DefReb,,,DefReb,,K. Oubre,
+290,3,5:54.0,67,77,PHO,MIA,23,home,LU,,0,miss2,0,R. Rubio,
+291,3,5:54.0,67,77,PHO,MIA,0,home,OffReb,,,OffReb,,Team,
+292,3,5:54.0,67,77,PHO,MIA,0,home,ShotClockViolation,,,turnover,,Team,
+293,3,5:54.0,67,77,PHO,MIA,0,away,Sub,,,,,J. Johnson,K. Olynyk
+294,3,5:39.0,67,79,PHO,MIA,15,away,JS,,21,make2,2,J. Butler,
+295,3,5:21.0,70,79,PHO,MIA,18,home,JS,assist,26,make3,3,D. Booker,A. Baynes
+296,3,5:06.0,70,79,PHO,MIA,15,away,JS,,23,miss3,0,J. Johnson,
+297,3,5:04.0,70,79,PHO,MIA,2,home,DefReb,,,DefReb,,A. Baynes,
+298,3,4:51.0,73,79,PHO,MIA,13,home,JS,assist,26,make3,3,R. Rubio,K. Oubre
+299,3,4:31.0,73,79,PHO,MIA,20,away,HS,,5,miss2,0,B. Adebayo,
+300,3,4:29.0,73,79,PHO,MIA,2,home,DefReb,,,DefReb,,R. Rubio,
+301,3,4:21.0,73,79,PHO,MIA,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Butler,K. Oubre
+302,3,4:21.0,73,79,PHO,MIA,0,home,FreeThrow,,,make1,0,K. Oubre,
+303,3,4:21.0,73,79,PHO,MIA,0,home,OffReb,,,OffReb,,Team,
+304,3,4:21.0,74,79,PHO,MIA,0,home,FreeThrow,,,make1,1,K. Oubre,
+305,3,4:21.0,74,79,PHO,MIA,0,away,Sub,,,,,G. Dragić,D. Robinson
+306,3,4:21.0,74,79,PHO,MIA,0,home,Sub,,,,,J. Carter,A. Baynes
+307,3,4:21.0,74,79,PHO,MIA,0,home,Sub,,,,,F. Kaminsky,R. Rubio
+308,3,4:21.0,74,79,PHO,MIA,0,home,FreeThrow,,,make1,0,K. Oubre,
+309,3,4:19.0,74,79,PHO,MIA,2,away,DefReb,,,DefReb,,B. Adebayo,
+310,3,4:15.0,74,79,PHO,MIA,4,away,Timeout,,,,,,
+311,3,4:15.0,74,79,PHO,MIA,0,home,Sub,,,,,M. Bridges,K. Oubre
+312,3,4:15.0,74,79,PHO,MIA,0,home,Sub,,,,,C. Johnson,D. Šarić
+313,3,3:56.0,74,79,PHO,MIA,19,away,bad pass,steal,,turnover,,K. Nunn,J. Carter
+314,3,3:51.0,74,79,PHO,MIA,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Butler,C. Johnson
+315,3,3:51.0,74,79,PHO,MIA,0,away,Timeout,,,,,,
+316,3,3:51.0,74,79,PHO,MIA,0,away,InstantReplay,,,RulingStands,,Team,
+317,3,3:51.0,74,79,PHO,MIA,0,away,Sub,,,,,T. Herro,K. Nunn
+318,3,3:51.0,75,79,PHO,MIA,0,home,FreeThrow,,,make1,1,C. Johnson,
+319,3,3:51.0,76,79,PHO,MIA,0,home,FreeThrow,,,make1,1,C. Johnson,
+320,3,3:26.0,76,79,PHO,MIA,25,away,LU,,1,miss2,0,J. Butler,
+321,3,3:23.0,76,79,PHO,MIA,3,home,DefReb,,,DefReb,,M. Bridges,
+322,3,3:05.0,76,79,PHO,MIA,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Adebayo,F. Kaminsky
+323,3,3:05.0,77,79,PHO,MIA,0,home,FreeThrow,,,make1,1,F. Kaminsky,
+324,3,3:05.0,77,79,PHO,MIA,0,home,FreeThrow,,,make1,0,F. Kaminsky,
+325,3,3:02.0,77,79,PHO,MIA,3,away,DefReb,,,DefReb,,B. Adebayo,
+326,3,2:48.0,77,81,PHO,MIA,14,away,DK,assist,1,make2,2,B. Adebayo,G. Dragić
+327,3,2:25.0,77,81,PHO,MIA,23,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,D. Booker
+328,3,2:25.0,78,81,PHO,MIA,0,home,FreeThrow,,,make1,1,D. Booker,
+329,3,2:25.0,79,81,PHO,MIA,0,home,FreeThrow,,,make1,1,D. Booker,
+330,3,2:06.0,79,83,PHO,MIA,19,away,JS,,11,make2,2,G. Dragić,
+331,3,1:43.0,79,83,PHO,MIA,23,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Adebayo,D. Booker
+332,3,1:43.0,80,83,PHO,MIA,0,home,FreeThrow,,,make1,1,D. Booker,
+333,3,1:43.0,81,83,PHO,MIA,0,home,FreeThrow,,,make1,1,D. Booker,
+334,3,1:29.0,81,86,PHO,MIA,14,away,JS,,25,make3,3,G. Dragić,
+335,3,1:29.0,81,86,PHO,MIA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Carter,G. Dragić
+336,3,1:29.0,81,86,PHO,MIA,0,away,Sub,,,,,D. Robinson,J. Butler
+337,3,1:29.0,81,86,PHO,MIA,0,home,Sub,,,,,T. Johnson,D. Booker
+338,3,1:29.0,81,87,PHO,MIA,0,away,FreeThrow,,,make1,1,G. Dragić,
+339,3,1:23.0,84,87,PHO,MIA,6,home,JS,assist,25,make3,3,T. Johnson,F. Kaminsky
+340,3,1:15.0,84,87,PHO,MIA,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Johnson,G. Dragić
+341,3,1:15.0,84,87,PHO,MIA,0,away,FreeThrow,,,make1,0,G. Dragić,
+342,3,1:15.0,84,87,PHO,MIA,0,away,OffReb,,,OffReb,,Team,
+343,3,1:15.0,84,88,PHO,MIA,0,away,FreeThrow,,,make1,1,G. Dragić,
+344,3,1:02.0,86,88,PHO,MIA,13,home,JS,,8,make2,2,T. Johnson,
+345,3,0:49.0,86,88,PHO,MIA,13,away,LU,block,11,miss2,0,G. Dragić,J. Carter
+346,3,0:47.0,86,88,PHO,MIA,2,home,DefReb,,,DefReb,,T. Johnson,
+347,3,0:44.0,86,88,PHO,MIA,3,home,LU,block,1,miss2,0,C. Johnson,D. Robinson
+348,3,0:39.0,86,88,PHO,MIA,5,away,DefReb,,,DefReb,,B. Adebayo,
+349,3,0:36.0,86,88,PHO,MIA,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Johnson,B. Adebayo
+350,3,0:36.0,86,89,PHO,MIA,0,away,FreeThrow,,,make1,1,B. Adebayo,
+351,3,0:36.0,86,90,PHO,MIA,0,away,FreeThrow,,,make1,1,B. Adebayo,
+352,3,0:21.0,86,90,PHO,MIA,15,home,JS,block,23,miss3,0,M. Bridges,J. Johnson
+353,3,0:19.0,86,90,PHO,MIA,2,away,DefReb,,,DefReb,,T. Herro,
+354,3,0:00.0,86,93,PHO,MIA,19,away,JS,,29,make3,3,G. Dragić,
+355,3,0:00.0,86,93,PHO,MIA,0,away,InstantReplay,,,RulingStands,,Team,
+356,4,11:39.0,86,93,PHO,MIA,21,away,LU,,1,miss2,0,K. Olynyk,
+357,4,11:37.0,86,93,PHO,MIA,2,home,DefReb,,,DefReb,,M. Bridges,
+358,4,11:25.0,86,93,PHO,MIA,12,home,LU,,2,miss2,0,K. Oubre,
+359,4,11:23.0,86,93,PHO,MIA,2,away,DefReb,,,DefReb,,J. Johnson,
+360,4,11:13.0,86,96,PHO,MIA,10,away,JS,assist,27,make3,3,G. Dragić,D. Robinson
+361,4,11:00.0,86,96,PHO,MIA,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Robinson,K. Oubre
+362,4,10:53.0,88,96,PHO,MIA,7,home,JS,assist,3,make2,2,K. Oubre,F. Kaminsky
+363,4,10:40.0,88,98,PHO,MIA,13,away,DK,,0,make2,2,J. Johnson,
+364,4,10:24.0,91,98,PHO,MIA,16,home,JS,assist,25,make3,3,M. Bridges,K. Oubre
+365,4,10:14.0,91,101,PHO,MIA,10,away,JS,assist,25,make3,3,G. Dragić,K. Olynyk
+366,4,10:12.0,91,101,PHO,MIA,2,home,Timeout,,,,,,
+367,4,10:12.0,91,101,PHO,MIA,0,home,Sub,,,,,D. Šarić,C. Johnson
+368,4,10:03.0,91,101,PHO,MIA,9,home,bad pass,steal,,turnover,,T. Johnson,K. Olynyk
+369,4,10:00.0,91,103,PHO,MIA,3,away,DK,,1,make2,2,K. Olynyk,
+370,4,9:48.0,91,103,PHO,MIA,12,home,LU,block,10,miss2,0,K. Oubre,J. Johnson
+371,4,9:45.0,91,103,PHO,MIA,3,away,DefReb,,,DefReb,,G. Dragić,
+372,4,9:33.0,91,103,PHO,MIA,12,away,Traveling,,,turnover,,J. Johnson,
+373,4,9:33.0,91,103,PHO,MIA,0,home,Sub,,,,,D. Booker,T. Johnson
+374,4,9:33.0,91,103,PHO,MIA,0,home,Sub,,,,,R. Rubio,K. Oubre
+375,4,9:17.0,91,103,PHO,MIA,16,home,JS,,23,miss3,0,M. Bridges,
+376,4,9:13.0,91,103,PHO,MIA,4,home,OffReb,,,OffReb,,M. Bridges,
+377,4,9:02.0,91,103,PHO,MIA,11,home,JS,,7,miss2,0,D. Booker,
+378,4,9:00.0,91,103,PHO,MIA,2,away,DefReb,,,DefReb,,T. Herro,
+379,4,8:59.0,91,103,PHO,MIA,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Booker,T. Herro
+380,4,8:59.0,91,103,PHO,MIA,0,home,Sub,,,,,A. Baynes,F. Kaminsky
+381,4,8:49.0,91,105,PHO,MIA,10,away,LU,assist,0,make2,2,G. Dragić,K. Olynyk
+382,4,8:34.0,93,105,PHO,MIA,15,home,LU,assist,1,make2,2,A. Baynes,R. Rubio
+383,4,8:19.0,93,107,PHO,MIA,15,away,JS,,11,make2,2,G. Dragić,
+384,4,8:07.0,93,107,PHO,MIA,12,home,LU,,0,miss2,0,D. Booker,
+385,4,8:03.0,93,107,PHO,MIA,4,home,OffReb,,,OffReb,,A. Baynes,
+386,4,8:03.0,93,107,PHO,MIA,0,home,LU,,0,miss2,0,A. Baynes,
+387,4,8:03.0,93,107,PHO,MIA,0,away,DefReb,,,DefReb,,K. Olynyk,
+388,4,7:53.0,93,109,PHO,MIA,10,away,JS,,19,make2,2,T. Herro,
+389,4,7:38.0,95,109,PHO,MIA,15,home,JS,assist,13,make2,2,A. Baynes,R. Rubio
+390,4,7:19.0,95,109,PHO,MIA,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Šarić,J. Johnson
+391,4,7:19.0,95,109,PHO,MIA,0,away,FreeThrow,,,make1,0,J. Johnson,
+392,4,7:19.0,95,109,PHO,MIA,0,away,OffReb,,,OffReb,,Team,
+393,4,7:19.0,95,110,PHO,MIA,0,away,FreeThrow,,,make1,1,J. Johnson,
+394,4,7:01.0,95,110,PHO,MIA,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,A. Baynes
+395,4,7:01.0,95,110,PHO,MIA,0,home,FreeThrow,,,make1,0,A. Baynes,
+396,4,7:01.0,95,110,PHO,MIA,0,home,OffReb,,,OffReb,,Team,
+397,4,7:01.0,95,110,PHO,MIA,0,home,Sub,,,,,C. Johnson,D. Šarić
+398,4,7:01.0,96,110,PHO,MIA,0,home,FreeThrow,,,make1,1,A. Baynes,
+399,4,6:47.0,96,113,PHO,MIA,14,away,JS,,26,make3,3,K. Olynyk,
+400,4,6:33.0,96,113,PHO,MIA,14,home,JS,,20,miss2,0,M. Bridges,
+401,4,6:30.0,96,113,PHO,MIA,3,away,DefReb,,,DefReb,,D. Robinson,
+402,4,6:28.0,96,113,PHO,MIA,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Bridges,J. Johnson
+403,4,6:24.0,96,113,PHO,MIA,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Johnson,D. Booker
+404,4,6:24.0,96,113,PHO,MIA,0,away,OffensiveFoul,,,turnover,,J. Johnson,
+405,4,6:24.0,96,113,PHO,MIA,0,away,Sub,,,,,J. Butler,D. Robinson
+406,4,6:24.0,96,113,PHO,MIA,0,home,Sub,,,,,T. Johnson,M. Bridges
+407,4,6:08.0,96,113,PHO,MIA,16,home,JS,,25,miss3,0,R. Rubio,
+408,4,6:06.0,96,113,PHO,MIA,2,away,DefReb,,,DefReb,,G. Dragić,
+409,4,5:54.0,96,115,PHO,MIA,12,away,JS,,5,make2,2,J. Butler,
+410,4,5:38.0,98,115,PHO,MIA,16,home,LU,assist,1,make2,2,C. Johnson,D. Booker
+411,4,5:26.0,98,115,PHO,MIA,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Booker,J. Butler
+412,4,5:26.0,98,115,PHO,MIA,0,away,Sub,,,,,B. Adebayo,J. Johnson
+413,4,5:17.0,98,115,PHO,MIA,9,away,BadPass,,,turnover,,G. Dragić,
+414,4,5:08.0,101,115,PHO,MIA,9,home,JS,assist,27,make3,3,T. Johnson,C. Johnson
+415,4,4:58.0,101,115,PHO,MIA,10,away,JS,,27,miss3,0,T. Herro,
+416,4,4:55.0,101,115,PHO,MIA,3,home,DefReb,,,DefReb,,D. Booker,
+417,4,4:50.0,103,115,PHO,MIA,5,home,DK,assist,1,make2,2,A. Baynes,D. Booker
+418,4,4:49.0,103,115,PHO,MIA,1,away,Timeout,,,,,,
+419,4,4:38.0,103,115,PHO,MIA,11,away,JS,,12,miss2,0,J. Butler,
+420,4,4:34.0,103,115,PHO,MIA,4,home,DefReb,,,DefReb,,C. Johnson,
+421,4,4:14.0,103,115,PHO,MIA,20,home,HS,,8,miss2,0,A. Baynes,
+422,4,4:12.0,103,115,PHO,MIA,2,away,DefReb,,,DefReb,,J. Butler,
+423,4,4:00.0,103,115,PHO,MIA,12,away,JS,,25,miss3,0,K. Olynyk,
+424,4,3:58.0,103,115,PHO,MIA,2,home,DefReb,,,DefReb,,D. Booker,
+425,4,3:51.0,103,115,PHO,MIA,7,home,JS,,25,miss3,0,R. Rubio,
+426,4,3:47.0,103,115,PHO,MIA,4,away,DefReb,,,DefReb,,K. Olynyk,
+427,4,3:31.0,103,115,PHO,MIA,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Baynes,B. Adebayo
+428,4,3:31.0,103,115,PHO,MIA,0,away,FreeThrow,,,make1,0,B. Adebayo,
+429,4,3:31.0,103,115,PHO,MIA,0,away,OffReb,,,OffReb,,Team,
+430,4,3:31.0,103,115,PHO,MIA,0,away,FreeThrow,,,make1,0,B. Adebayo,
+431,4,3:29.0,103,115,PHO,MIA,2,home,DefReb,,,DefReb,,C. Johnson,
+432,4,3:17.0,103,115,PHO,MIA,12,home,lost ball,steal,,turnover,,D. Booker,T. Herro
+433,4,3:14.0,103,117,PHO,MIA,3,away,LU,,0,make2,2,T. Herro,
+434,4,3:01.0,105,117,PHO,MIA,13,home,DK,assist,1,make2,2,A. Baynes,R. Rubio
+435,4,2:45.0,105,117,PHO,MIA,16,away,JS,,5,miss2,0,G. Dragić,
+436,4,2:43.0,105,117,PHO,MIA,2,home,DefReb,,,DefReb,,R. Rubio,
+437,4,2:41.0,105,117,PHO,MIA,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Olynyk,T. Johnson
+438,4,2:34.0,105,117,PHO,MIA,7,home,lost ball,steal,,turnover,,D. Booker,B. Adebayo
+439,4,2:33.0,105,117,PHO,MIA,1,away,Palming,,,turnover,,B. Adebayo,
+440,4,2:20.0,105,117,PHO,MIA,13,home,bad pass,steal,,turnover,,D. Booker,B. Adebayo
+441,4,1:57.0,105,119,PHO,MIA,23,away,JS,,8,make2,2,K. Olynyk,
+442,4,1:57.0,105,119,PHO,MIA,0,home,Timeout,,,,,,
+443,4,1:57.0,105,119,PHO,MIA,0,home,Sub,,,,,M. Bridges,A. Baynes
+444,4,1:57.0,105,119,PHO,MIA,0,home,Sub,,,,,J. Carter,D. Booker
+445,4,1:57.0,105,119,PHO,MIA,0,home,Sub,,,,,C. Diallo,T. Johnson
+446,4,1:57.0,105,119,PHO,MIA,0,home,Sub,,,,,E. Okobo,R. Rubio
+447,4,1:45.0,108,119,PHO,MIA,12,home,JS,assist,25,make3,3,C. Johnson,J. Carter
+448,4,1:23.0,108,119,PHO,MIA,22,away,LU,,2,miss2,0,G. Dragić,
+449,4,1:21.0,108,119,PHO,MIA,2,away,OffReb,,,OffReb,,G. Dragić,
+450,4,1:09.0,108,119,PHO,MIA,12,away,LU,,1,miss2,0,J. Butler,
+451,4,1:09.0,108,119,PHO,MIA,0,away,OffReb,,,OffReb,,B. Adebayo,
+452,4,1:09.0,108,121,PHO,MIA,0,away,DK,,1,make2,2,B. Adebayo,
+453,4,1:02.0,108,121,PHO,MIA,7,home,JS,,25,miss3,0,J. Carter,
+454,4,1:00.0,108,121,PHO,MIA,2,away,DefReb,,,DefReb,,B. Adebayo,
+455,4,0:44.0,108,124,PHO,MIA,16,away,JS,assist,25,make3,3,T. Herro,J. Butler
+456,4,0:42.0,108,124,PHO,MIA,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Butler,E. Okobo
+457,4,0:42.0,108,124,PHO,MIA,0,away,Sub,,,,,J. Johnson,B. Adebayo
+458,4,0:42.0,108,124,PHO,MIA,0,away,Sub,,,,,K. Nunn,J. Butler
+459,4,0:42.0,108,124,PHO,MIA,0,away,Sub,,,,,D. Robinson,G. Dragić
+460,4,0:42.0,108,124,PHO,MIA,0,away,Sub,,,,,C. Silva,K. Olynyk
+461,4,0:29.0,108,124,PHO,MIA,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Robinson,E. Okobo
+462,4,0:29.0,108,124,PHO,MIA,0,home,FreeThrow,,,make1,0,E. Okobo,
+463,4,0:29.0,108,124,PHO,MIA,0,home,OffReb,,,OffReb,,Team,
+464,4,0:29.0,108,124,PHO,MIA,0,home,FreeThrow,,,make1,0,E. Okobo,
+465,4,0:27.0,108,124,PHO,MIA,2,away,DefReb,,,DefReb,,D. Robinson,
+466,4,0:05.0,108,124,PHO,MIA,22,away,ShotClockViolation,,,turnover,,Team,

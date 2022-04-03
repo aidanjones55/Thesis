@@ -1,0 +1,414 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:51.0,0,0,PHO,CLE,9,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Liggins,D. Booker
+1,1,11:51.0,1,0,PHO,CLE,0,home,FreeThrow,,,make1,1,D. Booker,
+2,1,11:51.0,1,0,PHO,CLE,0,home,FreeThrow,,,make1,0,D. Booker,
+3,1,11:51.0,1,0,PHO,CLE,0,home,OffReb,,,OffReb,,Team,
+4,1,11:51.0,2,0,PHO,CLE,0,home,FreeThrow,,,make1,1,D. Booker,
+5,1,11:40.0,2,2,PHO,CLE,11,away,LU,,2,make2,2,L. James,
+6,1,11:26.0,4,2,PHO,CLE,14,home,DK,assist,0,make2,2,M. Chriss,T. Warren
+7,1,11:01.0,4,2,PHO,CLE,25,away,JS,,24,miss3,0,K. Love,
+8,1,10:59.0,4,2,PHO,CLE,2,home,DefReb,,,DefReb,,T. Chandler,
+9,1,10:53.0,6,2,PHO,CLE,6,home,LU,,2,make2,2,D. Booker,
+10,1,10:53.0,6,2,PHO,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Thompson,D. Booker
+11,1,10:53.0,6,2,PHO,CLE,0,home,FreeThrow,,,make1,0,D. Booker,
+12,1,10:52.0,6,2,PHO,CLE,1,home,OffReb,,,OffReb,,D. Booker,
+13,1,10:50.0,6,2,PHO,CLE,2,home,LU,,2,miss2,0,D. Booker,
+14,1,10:48.0,6,2,PHO,CLE,2,away,DefReb,,,DefReb,,D. Liggins,
+15,1,10:44.0,6,4,PHO,CLE,4,away,LU,,2,make2,2,D. Liggins,
+16,1,10:21.0,9,4,PHO,CLE,23,home,JS,assist,25,make3,3,E. Bledsoe,M. Chriss
+17,1,10:07.0,9,6,PHO,CLE,14,away,LU,,1,make2,2,K. Irving,
+18,1,10:07.0,9,6,PHO,CLE,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Chandler,K. Irving
+19,1,10:07.0,9,7,PHO,CLE,0,away,FreeThrow,,,make1,1,K. Irving,
+20,1,9:58.0,9,7,PHO,CLE,9,home,BadPass,steal,,turnover,,T. Chandler,D. Liggins
+21,1,9:54.0,9,9,PHO,CLE,4,away,JS,assist,8,make2,2,L. James,D. Liggins
+22,1,9:54.0,9,9,PHO,CLE,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Chriss,L. James
+23,1,9:54.0,9,10,PHO,CLE,0,away,FreeThrow,,,make1,1,L. James,
+24,1,9:40.0,11,10,PHO,CLE,14,home,LU,,1,make2,2,M. Chriss,
+25,1,9:25.0,11,10,PHO,CLE,15,away,BadPass,steal,,turnover,,K. Irving,E. Bledsoe
+26,1,9:20.0,11,10,PHO,CLE,5,home,LU,,1,miss2,0,D. Booker,
+27,1,9:19.0,11,10,PHO,CLE,1,home,OffReb,,,OffReb,,M. Chriss,
+28,1,9:17.0,11,10,PHO,CLE,2,home,LU,,2,miss2,0,M. Chriss,
+29,1,9:15.0,11,10,PHO,CLE,2,home,OffReb,,,OffReb,,T. Warren,
+30,1,9:05.0,11,10,PHO,CLE,10,home,JS,,25,miss3,0,D. Booker,
+31,1,9:03.0,11,10,PHO,CLE,2,away,DefReb,,,DefReb,,L. James,
+32,1,8:58.0,11,10,PHO,CLE,5,away,BadPass,steal,,turnover,,D. Liggins,M. Chriss
+33,1,8:37.0,11,10,PHO,CLE,21,home,JS,,23,miss3,0,E. Bledsoe,
+34,1,8:33.0,11,10,PHO,CLE,4,away,DefReb,,,DefReb,,L. James,
+35,1,8:25.0,11,10,PHO,CLE,8,away,JS,,14,miss2,0,K. Irving,
+36,1,8:23.0,11,10,PHO,CLE,2,home,DefReb,,,DefReb,,T. Chandler,
+37,1,7:59.0,11,10,PHO,CLE,24,home,JS,,16,miss2,0,D. Booker,
+38,1,7:57.0,11,10,PHO,CLE,2,away,DefReb,,,DefReb,,T. Thompson,
+39,1,7:47.0,11,12,PHO,CLE,10,away,HS,,8,make2,2,K. Love,
+40,1,7:34.0,13,12,PHO,CLE,13,home,LU,,2,make2,2,E. Bledsoe,
+41,1,7:14.0,13,12,PHO,CLE,20,away,LU,block,3,miss2,0,T. Thompson,M. Chriss
+42,1,7:11.0,13,12,PHO,CLE,3,away,OffReb,,,OffReb,,L. James,
+43,1,7:09.0,13,15,PHO,CLE,2,away,JS,assist,24,make3,3,K. Love,L. James
+44,1,6:49.0,13,15,PHO,CLE,20,home,DK,block,0,miss2,0,M. Chriss,D. Liggins
+45,1,6:46.0,13,15,PHO,CLE,3,home,OffReb,,,OffReb,,T. Chandler,
+46,1,6:42.0,16,15,PHO,CLE,4,home,JS,assist,24,make3,3,T. Warren,E. Bledsoe
+47,1,6:34.0,16,15,PHO,CLE,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Booker,T. Thompson
+48,1,6:34.0,16,16,PHO,CLE,0,away,FreeThrow,,,make1,1,T. Thompson,
+49,1,6:34.0,16,16,PHO,CLE,0,home,LaneViolation,,,LaneViolation,,A. Len,
+50,1,6:34.0,16,16,PHO,CLE,0,home,Sub,,,,,A. Len,T. Chandler
+51,1,6:34.0,16,17,PHO,CLE,0,away,FreeThrow,,,make1,1,T. Thompson,
+52,1,6:19.0,19,17,PHO,CLE,15,home,JS,assist,25,make3,3,E. Bledsoe,D. Booker
+53,1,6:00.0,19,20,PHO,CLE,19,away,JS,,26,make3,3,K. Irving,
+54,1,5:54.0,19,20,PHO,CLE,6,home,BadPass,steal,,turnover,,M. Chriss,D. Liggins
+55,1,5:51.0,19,22,PHO,CLE,3,away,LU,,1,make2,2,D. Liggins,
+56,1,5:38.0,19,22,PHO,CLE,13,home,JS,,15,miss2,0,A. Len,
+57,1,5:36.0,19,22,PHO,CLE,2,away,DefReb,,,DefReb,,L. James,
+58,1,5:33.0,19,22,PHO,CLE,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Warren,L. James
+59,1,5:33.0,19,22,PHO,CLE,0,home,Timeout,,,,,,
+60,1,5:33.0,19,23,PHO,CLE,0,away,FreeThrow,,,make1,1,L. James,
+61,1,5:33.0,19,22,PHO,CLE,0,home,Sub,,,,,P. Tucker,T. Warren
+62,1,5:33.0,19,23,PHO,CLE,0,away,FreeThrow,,,make1,0,L. James,
+63,1,5:32.0,19,23,PHO,CLE,1,away,OffReb,,,OffReb,,L. James,
+64,1,5:32.0,19,23,PHO,CLE,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,L. James
+65,1,5:32.0,19,24,PHO,CLE,0,away,FreeThrow,,,make1,1,L. James,
+66,1,5:32.0,19,24,PHO,CLE,0,away,FreeThrow,,,make1,0,L. James,
+67,1,5:30.0,19,24,PHO,CLE,2,home,DefReb,,,DefReb,,P. Tucker,
+68,1,5:14.0,21,24,PHO,CLE,16,home,JS,,8,make2,2,E. Bledsoe,
+69,1,4:57.0,21,24,PHO,CLE,17,away,JS,,9,miss2,0,L. James,
+70,1,4:54.0,21,24,PHO,CLE,3,home,DefReb,,,DefReb,,P. Tucker,
+71,1,4:48.0,21,24,PHO,CLE,6,home,JS,,23,miss3,0,M. Chriss,
+72,1,4:45.0,21,24,PHO,CLE,3,away,DefReb,,,DefReb,,T. Thompson,
+73,1,4:35.0,21,26,PHO,CLE,10,away,JS,,9,make2,2,K. Irving,
+74,1,4:14.0,21,26,PHO,CLE,21,home,JS,,10,miss2,0,E. Bledsoe,
+75,1,4:11.0,21,26,PHO,CLE,3,away,DefReb,,,DefReb,,K. Love,
+76,1,4:06.0,21,26,PHO,CLE,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Chriss,K. Love
+77,1,4:06.0,21,27,PHO,CLE,0,away,FreeThrow,,,make1,1,K. Love,
+78,1,4:06.0,21,27,PHO,CLE,0,home,Sub,,,,,B. Knight,E. Bledsoe
+79,1,4:06.0,21,27,PHO,CLE,0,home,Sub,,,,,D. Bender,M. Chriss
+80,1,4:06.0,21,27,PHO,CLE,0,away,Sub,,,,,I. Shumpert,D. Liggins
+81,1,4:06.0,21,28,PHO,CLE,0,away,FreeThrow,,,make1,1,K. Love,
+82,1,3:48.0,21,28,PHO,CLE,18,home,JS,,24,miss3,0,P. Tucker,
+83,1,3:46.0,21,28,PHO,CLE,2,away,DefReb,,,DefReb,,I. Shumpert,
+84,1,3:42.0,21,28,PHO,CLE,4,away,LU,,1,miss2,0,L. James,
+85,1,3:40.0,21,28,PHO,CLE,2,away,OffReb,,,OffReb,,T. Thompson,
+86,1,3:40.0,21,30,PHO,CLE,0,away,LU,,1,make2,2,T. Thompson,
+87,1,3:19.0,21,30,PHO,CLE,21,home,BadPass,steal,,turnover,,B. Knight,I. Shumpert
+88,1,3:16.0,21,32,PHO,CLE,3,away,LU,,0,make2,2,I. Shumpert,
+89,1,3:16.0,21,32,PHO,CLE,0,home,Timeout,,,,,,
+90,1,2:58.0,21,32,PHO,CLE,18,home,BadPass,steal,,turnover,,D. Bender,L. James
+91,1,2:53.0,21,34,PHO,CLE,5,away,LU,,1,make2,2,L. James,
+92,1,2:42.0,21,34,PHO,CLE,11,home,LU,,1,miss2,0,D. Booker,
+93,1,2:40.0,21,34,PHO,CLE,2,home,OffReb,,,OffReb,,D. Bender,
+94,1,2:40.0,23,34,PHO,CLE,0,home,LU,,2,make2,2,D. Bender,
+95,1,2:17.0,23,34,PHO,CLE,23,away,JS,,24,miss3,0,I. Shumpert,
+96,1,2:15.0,23,34,PHO,CLE,2,away,OffReb,,,OffReb,,T. Thompson,
+97,1,2:09.0,23,34,PHO,CLE,6,away,JS,block,5,miss2,0,K. Irving,A. Len
+98,1,2:07.0,23,34,PHO,CLE,2,away,OffReb,,,OffReb,,K. Irving,
+99,1,2:03.0,23,34,PHO,CLE,4,away,BadPass,steal,,turnover,,K. Irving,D. Bender
+100,1,1:58.0,25,34,PHO,CLE,5,home,LU,assist,1,make2,2,A. Len,P. Tucker
+101,1,1:56.0,25,34,PHO,CLE,2,away,Timeout,,,,,,
+102,1,1:56.0,25,34,PHO,CLE,0,home,Sub,,,,,L. Barbosa,D. Booker
+103,1,1:56.0,25,34,PHO,CLE,0,away,Sub,,,,,K. Felder,L. James
+104,1,1:56.0,25,34,PHO,CLE,0,away,Sub,,,,,R. Jefferson,K. Irving
+105,1,1:45.0,25,34,PHO,CLE,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Bender,K. Love
+106,1,1:45.0,25,35,PHO,CLE,0,away,FreeThrow,,,make1,1,K. Love,
+107,1,1:45.0,25,36,PHO,CLE,0,away,FreeThrow,,,make1,1,K. Love,
+108,1,1:25.0,25,36,PHO,CLE,20,home,JS,,10,miss2,0,A. Len,
+109,1,1:22.0,25,36,PHO,CLE,3,away,DefReb,,,DefReb,,Team,
+110,1,1:03.0,25,38,PHO,CLE,19,away,HS,,10,make2,2,K. Love,
+111,1,0:40.0,28,38,PHO,CLE,23,home,JS,assist,24,make3,3,D. Bender,L. Barbosa
+112,1,0:29.0,28,38,PHO,CLE,11,away,JS,,25,miss3,0,K. Love,
+113,1,0:27.0,28,38,PHO,CLE,2,home,DefReb,,,DefReb,,P. Tucker,
+114,1,0:24.0,28,38,PHO,CLE,3,home,BadPass,,,turnover,,L. Barbosa,
+115,1,0:24.0,28,38,PHO,CLE,0,away,Sub,,,,,C. Frye,T. Thompson
+116,1,0:24.0,28,38,PHO,CLE,0,away,Sub,,,,,L. James,K. Felder
+117,1,0:24.0,28,38,PHO,CLE,0,home,Sub,,,,,T. Warren,A. Len
+118,1,0:02.0,28,41,PHO,CLE,22,away,JS,assist,24,make3,3,I. Shumpert,L. James
+119,1,0:00.0,28,41,PHO,CLE,2,home,JS,,48,miss3,0,B. Knight,
+120,1,0:00.0,28,41,PHO,CLE,0,home,OffReb,,,OffReb,,Team,
+121,2,11:40.0,28,41,PHO,CLE,20,away,JS,,11,miss2,0,K. Felder,
+122,2,11:34.0,28,41,PHO,CLE,6,home,DefReb,,,DefReb,,T. Warren,
+123,2,11:25.0,28,41,PHO,CLE,9,home,LostBall,steal,,turnover,,L. Barbosa,R. Jefferson
+124,2,11:21.0,28,43,PHO,CLE,4,away,LU,,2,make2,2,L. James,
+125,2,11:21.0,28,43,PHO,CLE,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Warren,L. James
+126,2,11:21.0,28,44,PHO,CLE,0,away,FreeThrow,,,make1,1,L. James,
+127,2,11:02.0,28,44,PHO,CLE,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. James,B. Knight
+128,2,11:02.0,29,44,PHO,CLE,0,home,FreeThrow,,,make1,1,B. Knight,
+129,2,11:02.0,29,44,PHO,CLE,0,home,FreeThrow,,,make1,0,B. Knight,
+130,2,11:02.0,29,44,PHO,CLE,0,home,Sub,,,,,D. Booker,D. Bender
+131,2,11:02.0,29,44,PHO,CLE,0,home,Sub,,,,,E. Bledsoe,T. Warren
+132,2,11:00.0,29,44,PHO,CLE,2,away,DefReb,,,DefReb,,I. Shumpert,
+133,2,10:44.0,29,46,PHO,CLE,16,away,HS,,6,make2,2,C. Frye,
+134,2,10:30.0,31,46,PHO,CLE,14,home,LU,assist,1,make2,2,P. Tucker,E. Bledsoe
+135,2,10:17.0,31,46,PHO,CLE,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Barbosa,C. Frye
+136,2,10:16.0,31,46,PHO,CLE,1,away,BadPass,,,turnover,,L. James,
+137,2,10:16.0,31,46,PHO,CLE,0,home,Sub,,,,,M. Chriss,L. Barbosa
+138,2,10:00.0,33,46,PHO,CLE,16,home,DK,assist,0,make2,2,M. Chriss,B. Knight
+139,2,9:37.0,33,48,PHO,CLE,23,away,LU,,1,make2,2,K. Felder,
+140,2,9:25.0,33,48,PHO,CLE,12,home,JS,,24,miss3,0,B. Knight,
+141,2,9:23.0,33,48,PHO,CLE,2,away,DefReb,,,DefReb,,C. Frye,
+142,2,9:16.0,33,48,PHO,CLE,7,away,BadPass,steal,,turnover,,L. James,B. Knight
+143,2,9:03.0,33,48,PHO,CLE,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. James,M. Chriss
+144,2,9:03.0,34,48,PHO,CLE,0,home,FreeThrow,,,make1,1,M. Chriss,
+145,2,9:03.0,34,48,PHO,CLE,0,away,Sub,,,,,K. Irving,K. Felder
+146,2,9:03.0,35,48,PHO,CLE,0,home,FreeThrow,,,make1,1,M. Chriss,
+147,2,8:46.0,35,51,PHO,CLE,17,away,JS,assist,25,make3,3,C. Frye,I. Shumpert
+148,2,8:31.0,35,51,PHO,CLE,15,home,JS,,23,miss3,0,B. Knight,
+149,2,8:29.0,35,51,PHO,CLE,2,away,DefReb,,,DefReb,,L. James,
+150,2,8:15.0,35,53,PHO,CLE,14,away,DK,assist,0,make2,2,C. Frye,L. James
+151,2,8:14.0,35,53,PHO,CLE,1,home,Timeout,,,,,,
+152,2,8:14.0,35,53,PHO,CLE,0,away,Sub,,,,,D. Liggins,I. Shumpert
+153,2,7:55.0,37,53,PHO,CLE,19,home,JS,,8,make2,2,E. Bledsoe,
+154,2,7:55.0,37,53,PHO,CLE,0,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,C. Frye,E. Bledsoe
+155,2,7:55.0,38,53,PHO,CLE,0,home,FreeThrow,,,make1,1,E. Bledsoe,
+156,2,7:41.0,38,53,PHO,CLE,14,away,JS,,26,miss3,0,K. Irving,
+157,2,7:39.0,38,53,PHO,CLE,2,home,DefReb,,,DefReb,,E. Bledsoe,
+158,2,7:28.0,40,53,PHO,CLE,11,home,LU,,2,make2,2,P. Tucker,
+159,2,7:13.0,40,56,PHO,CLE,15,away,JS,assist,25,make3,3,C. Frye,K. Irving
+160,2,6:47.0,40,56,PHO,CLE,26,home,JS,,24,miss3,0,P. Tucker,
+161,2,6:45.0,40,56,PHO,CLE,2,away,DefReb,,,DefReb,,C. Frye,
+162,2,6:39.0,40,56,PHO,CLE,6,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,P. Tucker,L. James
+163,2,6:39.0,40,56,PHO,CLE,0,away,Sub,,,,,K. Love,L. James
+164,2,6:39.0,40,56,PHO,CLE,0,home,Sub,,,,,T. Chandler,B. Knight
+165,2,6:28.0,40,56,PHO,CLE,11,away,JS,,26,miss3,0,C. Frye,
+166,2,6:26.0,40,56,PHO,CLE,2,home,DefReb,,,DefReb,,D. Booker,
+167,2,6:20.0,40,56,PHO,CLE,6,home,BadPass,steal,,turnover,,P. Tucker,K. Irving
+168,2,6:12.0,40,56,PHO,CLE,8,away,JS,,25,miss3,0,K. Love,
+169,2,6:10.0,40,56,PHO,CLE,2,home,DefReb,,,DefReb,,T. Chandler,
+170,2,6:08.0,40,56,PHO,CLE,2,home,BadPass,,,turnover,,E. Bledsoe,
+171,2,5:54.0,40,56,PHO,CLE,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Chandler,K. Love
+172,2,5:54.0,40,56,PHO,CLE,0,away,Timeout,,,,,,
+173,2,5:54.0,40,56,PHO,CLE,0,home,Sub,,,,,T. Warren,P. Tucker
+174,2,5:48.0,40,58,PHO,CLE,6,away,JS,,15,make2,2,K. Irving,
+175,2,5:28.0,40,58,PHO,CLE,20,home,BadPass,,,turnover,,E. Bledsoe,
+176,2,5:13.0,40,58,PHO,CLE,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Bledsoe,K. Irving
+177,2,5:13.0,40,59,PHO,CLE,0,away,FreeThrow,,,make1,1,K. Irving,
+178,2,5:13.0,40,60,PHO,CLE,0,away,FreeThrow,,,make1,1,K. Irving,
+179,2,4:56.0,40,60,PHO,CLE,17,home,OutOfBounds,,,turnover,,T. Warren,
+180,2,4:40.0,40,60,PHO,CLE,16,away,JS,block,6,miss2,0,K. Irving,E. Bledsoe
+181,2,4:38.0,40,60,PHO,CLE,2,away,OffReb,,,OffReb,,K. Love,
+182,2,4:35.0,40,62,PHO,CLE,3,away,HS,,5,make2,2,K. Love,
+183,2,4:23.0,40,62,PHO,CLE,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,T. Chandler
+184,2,4:23.0,41,62,PHO,CLE,0,home,FreeThrow,,,make1,1,T. Chandler,
+185,2,4:23.0,41,62,PHO,CLE,0,away,Sub,,,,,T. Thompson,C. Frye
+186,2,4:23.0,41,62,PHO,CLE,0,home,Sub,,,,,D. Bender,T. Warren
+187,2,4:23.0,42,62,PHO,CLE,0,home,FreeThrow,,,make1,1,T. Chandler,
+188,2,4:06.0,42,62,PHO,CLE,17,away,JS,,24,miss3,0,K. Irving,
+189,2,4:02.0,42,62,PHO,CLE,4,home,DefReb,,,DefReb,,M. Chriss,
+190,2,3:59.0,44,62,PHO,CLE,3,home,LU,assist,2,make2,2,D. Booker,D. Bender
+191,2,3:58.0,44,62,PHO,CLE,1,away,Timeout,,,,,,
+192,2,3:43.0,44,62,PHO,CLE,15,away,LU,block,3,miss2,0,D. Liggins,D. Bender
+193,2,3:40.0,44,62,PHO,CLE,3,home,DefReb,,,DefReb,,T. Chandler,
+194,2,3:39.0,44,62,PHO,CLE,1,home,LostBall,steal,,turnover,,E. Bledsoe,D. Liggins
+195,2,3:35.0,44,62,PHO,CLE,4,away,OutOfBounds,,,turnover,,D. Liggins,
+196,2,3:22.0,44,62,PHO,CLE,13,home,JS,,23,miss3,0,D. Booker,
+197,2,3:20.0,44,62,PHO,CLE,2,home,OffReb,,,OffReb,,D. Bender,
+198,2,3:18.0,44,62,PHO,CLE,2,home,JS,,25,miss3,0,E. Bledsoe,
+199,2,3:16.0,44,62,PHO,CLE,2,away,DefReb,,,DefReb,,T. Thompson,
+200,2,3:01.0,44,62,PHO,CLE,15,away,LU,block,2,miss2,0,K. Love,M. Chriss
+201,2,3:00.0,44,62,PHO,CLE,1,away,OffReb,,,OffReb,,K. Love,
+202,2,3:00.0,44,62,PHO,CLE,0,away,Traveling,,,turnover,,K. Love,
+203,2,2:49.0,47,62,PHO,CLE,11,home,JS,assist,26,make3,3,D. Booker,E. Bledsoe
+204,2,2:37.0,47,62,PHO,CLE,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Chriss,T. Thompson
+205,2,2:37.0,47,63,PHO,CLE,0,away,FreeThrow,,,make1,1,T. Thompson,
+206,2,2:37.0,47,63,PHO,CLE,0,away,Sub,,,,,I. Shumpert,D. Liggins
+207,2,2:37.0,47,63,PHO,CLE,0,away,Sub,,,,,L. James,R. Jefferson
+208,2,2:37.0,47,63,PHO,CLE,0,home,Sub,,,,,P. Tucker,M. Chriss
+209,2,2:37.0,47,64,PHO,CLE,0,away,FreeThrow,,,make1,1,T. Thompson,
+210,2,2:21.0,47,64,PHO,CLE,16,home,LU,block,2,miss2,0,T. Chandler,K. Love
+211,2,2:18.0,47,64,PHO,CLE,3,home,OffReb,,,OffReb,,T. Chandler,
+212,2,2:18.0,49,64,PHO,CLE,0,home,LU,,2,make2,2,T. Chandler,
+213,2,1:59.0,49,67,PHO,CLE,19,away,JS,assist,23,make3,3,K. Love,K. Irving
+214,2,1:37.0,49,67,PHO,CLE,22,home,JS,,5,miss2,0,D. Booker,
+215,2,1:35.0,49,67,PHO,CLE,2,away,DefReb,,,DefReb,,K. Love,
+216,2,1:33.0,49,67,PHO,CLE,2,home,ChargeFoul,DrawnBy,,ChargeFoul,,T. Thompson,E. Bledsoe
+217,2,1:33.0,49,67,PHO,CLE,0,away,OffensiveFoul,,,turnover,,T. Thompson,
+218,2,1:15.0,49,67,PHO,CLE,18,home,JS,,24,miss3,0,D. Bender,
+219,2,1:13.0,49,67,PHO,CLE,2,away,DefReb,,,DefReb,,T. Thompson,
+220,2,1:09.0,49,67,PHO,CLE,4,away,LostBall,steal,,turnover,,K. Irving,D. Booker
+221,2,0:59.0,49,67,PHO,CLE,10,home,LU,,2,miss2,0,E. Bledsoe,
+222,2,0:57.0,49,67,PHO,CLE,2,home,OffReb,,,OffReb,,D. Bender,
+223,2,0:57.0,49,67,PHO,CLE,0,home,LU,,2,miss2,0,D. Bender,
+224,2,0:55.0,49,67,PHO,CLE,2,home,OffReb,,,OffReb,,D. Booker,
+225,2,0:49.0,49,67,PHO,CLE,6,home,LU,block,2,miss2,0,T. Chandler,I. Shumpert
+226,2,0:49.0,49,67,PHO,CLE,0,away,DefReb,,,DefReb,,T. Thompson,
+227,2,0:36.0,49,67,PHO,CLE,13,away,JS,,24,miss3,0,I. Shumpert,
+228,2,0:34.0,49,67,PHO,CLE,2,home,DefReb,,,DefReb,,P. Tucker,
+229,2,0:31.0,51,67,PHO,CLE,3,home,LU,assist,0,make2,2,D. Booker,P. Tucker
+230,2,0:13.0,51,69,PHO,CLE,18,away,DK,,0,make2,2,T. Thompson,
+231,2,0:02.0,53,69,PHO,CLE,11,home,LU,,1,make2,2,E. Bledsoe,
+232,3,11:36.0,53,69,PHO,CLE,24,away,LostBall,steal,,turnover,,L. James,T. Warren
+233,3,11:31.0,55,69,PHO,CLE,5,home,LU,,1,make2,2,T. Warren,
+234,3,11:17.0,55,71,PHO,CLE,14,away,JS,,14,make2,2,K. Irving,
+235,3,10:53.0,55,71,PHO,CLE,24,home,LU,,2,miss2,0,T. Warren,
+236,3,10:51.0,55,71,PHO,CLE,2,away,DefReb,,,DefReb,,K. Love,
+237,3,10:46.0,55,74,PHO,CLE,5,away,JS,,25,make3,3,K. Irving,
+238,3,10:33.0,55,74,PHO,CLE,13,home,HS,,5,miss2,0,T. Chandler,
+239,3,10:30.0,55,74,PHO,CLE,3,away,DefReb,,,DefReb,,L. James,
+240,3,10:27.0,55,74,PHO,CLE,3,away,BadPass,,,turnover,,K. Irving,
+241,3,10:11.0,57,74,PHO,CLE,16,home,DK,assist,0,make2,2,T. Chandler,D. Booker
+242,3,9:48.0,57,74,PHO,CLE,23,away,JS,,24,miss3,0,K. Love,
+243,3,9:46.0,57,74,PHO,CLE,2,away,OffReb,,,OffReb,,T. Thompson,
+244,3,9:43.0,57,77,PHO,CLE,3,away,JS,assist,25,make3,3,K. Love,T. Thompson
+245,3,9:23.0,60,77,PHO,CLE,20,home,JS,assist,24,make3,3,M. Chriss,D. Booker
+246,3,8:55.0,60,77,PHO,CLE,28,away,JS,,24,miss3,0,K. Irving,
+247,3,8:53.0,60,77,PHO,CLE,2,home,DefReb,,,DefReb,,E. Bledsoe,
+248,3,8:50.0,62,77,PHO,CLE,3,home,LU,assist,1,make2,2,T. Warren,M. Chriss
+249,3,8:32.0,62,77,PHO,CLE,18,away,JS,,25,miss3,0,L. James,
+250,3,8:30.0,62,77,PHO,CLE,2,home,DefReb,,,DefReb,,T. Chandler,
+251,3,8:25.0,65,77,PHO,CLE,5,home,JS,,25,make3,3,E. Bledsoe,
+252,3,8:24.0,65,77,PHO,CLE,1,away,Timeout,,,,,,
+253,3,8:00.0,65,77,PHO,CLE,24,away,JS,,20,miss2,0,K. Irving,
+254,3,7:56.0,65,77,PHO,CLE,4,home,DefReb,,,DefReb,,T. Chandler,
+255,3,7:50.0,65,77,PHO,CLE,6,home,JS,,21,miss2,0,M. Chriss,
+256,3,7:48.0,65,77,PHO,CLE,2,away,DefReb,,,DefReb,,K. Love,
+257,3,7:42.0,65,77,PHO,CLE,6,away,JS,,25,miss3,0,K. Love,
+258,3,7:38.0,65,77,PHO,CLE,4,away,OffReb,,,OffReb,,T. Thompson,
+259,3,7:33.0,65,79,PHO,CLE,5,away,LU,assist,1,make2,2,K. Love,K. Irving
+260,3,7:13.0,67,79,PHO,CLE,20,home,JS,,16,make2,2,E. Bledsoe,
+261,3,6:59.0,67,79,PHO,CLE,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Chandler,D. Liggins
+262,3,6:47.0,67,82,PHO,CLE,12,away,JS,assist,24,make3,3,D. Liggins,K. Love
+263,3,6:19.0,67,82,PHO,CLE,28,home,JS,,27,miss3,0,E. Bledsoe,
+264,3,6:17.0,67,82,PHO,CLE,2,home,OffReb,,,OffReb,,T. Chandler,
+265,3,6:17.0,69,82,PHO,CLE,0,home,LU,,1,make2,2,T. Chandler,
+266,3,6:00.0,69,82,PHO,CLE,17,away,JS,,9,miss2,0,L. James,
+267,3,5:57.0,69,82,PHO,CLE,3,home,DefReb,,,DefReb,,M. Chriss,
+268,3,5:55.0,71,82,PHO,CLE,2,home,DK,assist,0,make2,2,D. Booker,E. Bledsoe
+269,3,5:35.0,71,82,PHO,CLE,20,away,BadPass,steal,,turnover,,L. James,E. Bledsoe
+270,3,5:31.0,73,82,PHO,CLE,4,home,LU,assist,2,make2,2,T. Warren,M. Chriss
+271,3,5:10.0,73,82,PHO,CLE,21,away,LU,,2,miss2,0,T. Thompson,
+272,3,5:08.0,73,82,PHO,CLE,2,home,DefReb,,,DefReb,,T. Chandler,
+273,3,5:03.0,75,82,PHO,CLE,5,home,JS,assist,5,make2,2,T. Warren,M. Chriss
+274,3,5:02.0,75,82,PHO,CLE,1,away,Timeout,,,,,,
+275,3,4:42.0,75,82,PHO,CLE,20,away,JS,block,4,miss2,0,K. Irving,T. Chandler
+276,3,4:42.0,75,82,PHO,CLE,0,away,OffReb,,,OffReb,,Team,
+277,3,4:39.0,75,82,PHO,CLE,3,away,BadPass,steal,,turnover,,L. James,T. Warren
+278,3,4:34.0,77,82,PHO,CLE,5,home,LU,assist,2,make2,2,D. Booker,T. Warren
+279,3,4:17.0,77,84,PHO,CLE,17,away,LU,,2,make2,2,L. James,
+280,3,4:02.0,80,84,PHO,CLE,15,home,JS,assist,25,make3,3,D. Booker,E. Bledsoe
+281,3,3:42.0,80,84,PHO,CLE,20,away,OutOfBounds,,,turnover,,K. Irving,
+282,3,3:42.0,80,84,PHO,CLE,0,away,Sub,,,,,C. Frye,T. Thompson
+283,3,3:42.0,80,84,PHO,CLE,0,away,Sub,,,,,I. Shumpert,D. Liggins
+284,3,3:31.0,82,84,PHO,CLE,11,home,LU,assist,2,make2,2,T. Chandler,E. Bledsoe
+285,3,3:14.0,82,84,PHO,CLE,17,away,JS,,15,miss2,0,K. Love,
+286,3,3:12.0,82,84,PHO,CLE,2,home,DefReb,,,DefReb,,T. Chandler,
+287,3,3:09.0,82,84,PHO,CLE,3,home,JS,,25,miss3,0,D. Booker,
+288,3,3:05.0,82,84,PHO,CLE,4,away,DefReb,,,DefReb,,I. Shumpert,
+289,3,2:49.0,82,84,PHO,CLE,16,away,JS,block,5,miss2,0,I. Shumpert,M. Chriss
+290,3,2:48.0,82,84,PHO,CLE,1,away,OffReb,,,OffReb,,Team,
+291,3,2:45.0,82,84,PHO,CLE,3,away,JS,,25,miss3,0,K. Love,
+292,3,2:43.0,82,84,PHO,CLE,2,home,DefReb,,,DefReb,,T. Chandler,
+293,3,2:24.0,82,84,PHO,CLE,19,home,JS,,26,miss3,0,T. Warren,
+294,3,2:23.0,82,84,PHO,CLE,1,away,DefReb,,,DefReb,,Team,
+295,3,2:09.0,82,86,PHO,CLE,14,away,LU,assist,2,make2,2,L. James,K. Irving
+296,3,2:08.0,82,86,PHO,CLE,1,home,Timeout,,,,,,
+297,3,2:08.0,82,86,PHO,CLE,0,home,Sub,,,,,P. Tucker,M. Chriss
+298,3,1:54.0,84,86,PHO,CLE,14,home,JS,,21,make2,2,E. Bledsoe,
+299,3,1:40.0,84,88,PHO,CLE,14,away,LU,assist,2,make2,2,K. Irving,L. James
+300,3,1:26.0,84,88,PHO,CLE,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Love,E. Bledsoe
+301,3,1:26.0,85,88,PHO,CLE,0,home,FreeThrow,,,make1,1,E. Bledsoe,
+302,3,1:26.0,86,88,PHO,CLE,0,home,FreeThrow,,,make1,1,E. Bledsoe,
+303,3,1:08.0,86,88,PHO,CLE,18,away,JS,,24,miss3,0,C. Frye,
+304,3,1:06.0,86,88,PHO,CLE,2,away,OffReb,,,OffReb,,K. Love,
+305,3,1:02.0,86,88,PHO,CLE,4,away,JS,,25,miss3,0,C. Frye,
+306,3,1:01.0,86,88,PHO,CLE,1,home,DefReb,,,DefReb,,T. Chandler,
+307,3,0:51.0,88,88,PHO,CLE,10,home,JS,,11,make2,2,T. Warren,
+308,3,0:35.0,88,88,PHO,CLE,16,away,JS,,23,miss3,0,C. Frye,
+309,3,0:33.0,88,88,PHO,CLE,2,away,OffReb,,,OffReb,,K. Love,
+310,3,0:32.0,88,90,PHO,CLE,1,away,LU,,2,make2,2,K. Love,
+311,3,0:11.0,90,90,PHO,CLE,21,home,JS,,8,make2,2,D. Booker,
+312,3,0:00.0,90,93,PHO,CLE,11,away,JS,,25,make3,3,K. Irving,
+313,4,11:35.0,92,93,PHO,CLE,25,home,JS,assist,13,make2,2,T. Warren,D. Booker
+314,4,11:18.0,92,95,PHO,CLE,17,away,DK,,0,make2,2,L. James,
+315,4,10:55.0,92,95,PHO,CLE,23,home,JS,,26,miss3,0,D. Booker,
+316,4,10:53.0,92,95,PHO,CLE,2,away,DefReb,,,DefReb,,C. Frye,
+317,4,10:45.0,92,95,PHO,CLE,8,away,BadPass,steal,,turnover,,R. Jefferson,D. Booker
+318,4,10:42.0,94,95,PHO,CLE,3,home,DK,,0,make2,2,D. Booker,
+319,4,10:28.0,94,97,PHO,CLE,14,away,LU,,1,make2,2,L. James,
+320,4,10:06.0,94,97,PHO,CLE,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Felder,B. Knight
+321,4,10:06.0,95,97,PHO,CLE,0,home,FreeThrow,,,make1,1,B. Knight,
+322,4,10:06.0,95,97,PHO,CLE,0,home,Sub,,,,,D. Bender,T. Chandler
+323,4,10:06.0,96,97,PHO,CLE,0,home,FreeThrow,,,make1,1,B. Knight,
+324,4,9:49.0,96,99,PHO,CLE,17,away,LU,,1,make2,2,I. Shumpert,
+325,4,9:37.0,98,99,PHO,CLE,12,home,LU,,2,make2,2,D. Booker,
+326,4,9:15.0,98,99,PHO,CLE,22,away,LostBall,steal,,turnover,,L. James,P. Tucker
+327,4,9:09.0,98,99,PHO,CLE,6,home,JS,,5,miss2,0,B. Knight,
+328,4,9:06.0,98,99,PHO,CLE,3,home,OffReb,,,OffReb,,B. Knight,
+329,4,8:51.0,98,99,PHO,CLE,15,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Booker,L. James
+330,4,8:51.0,98,99,PHO,CLE,0,home,OffensiveFoul,,,turnover,,D. Booker,
+331,4,8:51.0,98,99,PHO,CLE,0,away,Timeout,,,,,,
+332,4,8:51.0,98,99,PHO,CLE,0,away,Sub,,,,,D. Liggins,L. James
+333,4,8:51.0,98,99,PHO,CLE,0,away,Sub,,,,,K. Irving,K. Felder
+334,4,8:35.0,98,99,PHO,CLE,16,away,LU,,3,miss2,0,R. Jefferson,
+335,4,8:33.0,98,99,PHO,CLE,2,home,DefReb,,,DefReb,,T. Warren,
+336,4,8:29.0,98,99,PHO,CLE,4,home,OffensiveFoul,,,turnover,,P. Tucker,
+337,4,8:29.0,98,99,PHO,CLE,0,away,ChargeFoul,DrawnBy,,ChargeFoul,,P. Tucker,C. Frye
+338,4,8:16.0,98,102,PHO,CLE,13,away,JS,,25,make3,3,K. Irving,
+339,4,8:00.0,98,102,PHO,CLE,16,home,JS,block,4,miss2,0,D. Booker,D. Liggins
+340,4,7:57.0,98,102,PHO,CLE,3,home,OffReb,,,OffReb,,D. Booker,
+341,4,7:53.0,98,102,PHO,CLE,4,home,JS,,25,miss3,0,D. Bender,
+342,4,7:51.0,98,102,PHO,CLE,2,away,DefReb,,,DefReb,,C. Frye,
+343,4,7:38.0,98,104,PHO,CLE,13,away,LU,,2,make2,2,K. Irving,
+344,4,7:38.0,98,104,PHO,CLE,0,home,Timeout,,,,,,
+345,4,7:38.0,98,104,PHO,CLE,0,home,Sub,,,,,E. Bledsoe,B. Knight
+346,4,7:38.0,98,104,PHO,CLE,0,home,Sub,,,,,M. Chriss,D. Bender
+347,4,7:24.0,98,104,PHO,CLE,14,home,BadPass,steal,,turnover,,D. Booker,D. Liggins
+348,4,7:23.0,98,104,PHO,CLE,1,away,BadPass,,,turnover,,K. Irving,
+349,4,7:02.0,98,104,PHO,CLE,21,home,JS,,26,miss3,0,D. Booker,
+350,4,7:01.0,98,104,PHO,CLE,1,away,DefReb,,,DefReb,,Team,
+351,4,6:39.0,98,104,PHO,CLE,22,away,LostBall,steal,,turnover,,K. Irving,T. Warren
+352,4,6:35.0,100,104,PHO,CLE,4,home,LU,assist,2,make2,2,D. Booker,E. Bledsoe
+353,4,6:10.0,100,107,PHO,CLE,25,away,JS,assist,23,make3,3,R. Jefferson,K. Irving
+354,4,5:56.0,100,107,PHO,CLE,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,P. Tucker
+355,4,5:56.0,101,107,PHO,CLE,0,home,FreeThrow,,,make1,1,P. Tucker,
+356,4,5:56.0,101,107,PHO,CLE,0,away,Sub,,,,,L. James,D. Liggins
+357,4,5:56.0,101,107,PHO,CLE,0,away,Sub,,,,,K. Love,C. Frye
+358,4,5:56.0,101,107,PHO,CLE,0,home,Sub,,,,,T. Chandler,T. Warren
+359,4,5:56.0,102,107,PHO,CLE,0,home,FreeThrow,,,make1,1,P. Tucker,
+360,4,5:39.0,102,107,PHO,CLE,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Chandler,K. Love
+361,4,5:39.0,102,108,PHO,CLE,0,away,FreeThrow,,,make1,1,K. Love,
+362,4,5:39.0,102,109,PHO,CLE,0,away,FreeThrow,,,make1,1,K. Love,
+363,4,5:24.0,104,109,PHO,CLE,15,home,LU,,1,make2,2,E. Bledsoe,
+364,4,5:03.0,104,109,PHO,CLE,21,away,JS,,24,miss3,0,R. Jefferson,
+365,4,5:03.0,104,109,PHO,CLE,0,away,OffReb,,,OffReb,,Team,
+366,4,5:01.0,104,109,PHO,CLE,2,away,BadPass,steal,,turnover,,R. Jefferson,P. Tucker
+367,4,4:58.0,106,109,PHO,CLE,3,home,DK,,0,make2,2,P. Tucker,
+368,4,4:32.0,106,109,PHO,CLE,26,away,JS,,26,miss3,0,K. Love,
+369,4,4:30.0,106,109,PHO,CLE,2,home,DefReb,,,DefReb,,T. Chandler,
+370,4,4:28.0,106,109,PHO,CLE,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. James,M. Chriss
+371,4,4:28.0,106,109,PHO,CLE,0,home,FreeThrow,,,make1,0,M. Chriss,
+372,4,4:28.0,106,109,PHO,CLE,0,home,OffReb,,,OffReb,,Team,
+373,4,4:28.0,106,109,PHO,CLE,0,away,Sub,,,,,T. Thompson,R. Jefferson
+374,4,4:28.0,107,109,PHO,CLE,0,home,FreeThrow,,,make1,1,M. Chriss,
+375,4,4:17.0,107,109,PHO,CLE,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Bledsoe,K. Irving
+376,4,4:05.0,107,109,PHO,CLE,12,away,JS,,16,miss2,0,K. Irving,
+377,4,4:03.0,107,109,PHO,CLE,2,away,OffReb,,,OffReb,,L. James,
+378,4,3:47.0,107,109,PHO,CLE,16,away,JS,,7,miss2,0,K. Irving,
+379,4,3:47.0,107,109,PHO,CLE,0,home,DefReb,,,DefReb,,Team,
+380,4,3:47.0,107,109,PHO,CLE,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Thompson,T. Chandler
+381,4,3:33.0,107,109,PHO,CLE,14,home,LU,,2,miss2,0,M. Chriss,
+382,4,3:31.0,107,109,PHO,CLE,2,home,OffReb,,,OffReb,,T. Chandler,
+383,4,3:22.0,107,109,PHO,CLE,9,home,JS,,24,miss3,0,E. Bledsoe,
+384,4,3:20.0,107,109,PHO,CLE,2,away,DefReb,,,DefReb,,K. Love,
+385,4,3:11.0,107,112,PHO,CLE,9,away,JS,,27,make3,3,L. James,
+386,4,2:55.0,109,112,PHO,CLE,16,home,LU,,1,make2,2,E. Bledsoe,
+387,4,2:46.0,109,115,PHO,CLE,9,away,JS,assist,26,make3,3,L. James,K. Irving
+388,4,2:23.0,109,115,PHO,CLE,23,home,JS,,17,miss2,0,M. Chriss,
+389,4,2:21.0,109,115,PHO,CLE,2,away,DefReb,,,DefReb,,K. Irving,
+390,4,2:12.0,109,115,PHO,CLE,9,away,BadPass,,,turnover,,L. James,
+391,4,2:12.0,109,115,PHO,CLE,0,away,Timeout,,,,,,
+392,4,1:52.0,111,115,PHO,CLE,20,home,LU,,2,make2,2,D. Booker,
+393,4,1:31.0,111,115,PHO,CLE,21,away,JS,,22,miss2,0,L. James,
+394,4,1:29.0,111,115,PHO,CLE,2,away,OffReb,,,OffReb,,K. Love,
+395,4,1:26.0,111,118,PHO,CLE,3,away,JS,assist,25,make3,3,I. Shumpert,K. Irving
+396,4,1:15.0,114,118,PHO,CLE,11,home,JS,,25,make3,3,E. Bledsoe,
+397,4,1:15.0,114,118,PHO,CLE,0,away,Timeout,,,,,,
+398,4,1:15.0,114,118,PHO,CLE,0,away,Sub,,,,,C. Frye,T. Thompson
+399,4,0:56.0,114,118,PHO,CLE,19,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Bledsoe,K. Irving
+400,4,0:44.0,114,120,PHO,CLE,12,away,LU,,2,make2,2,L. James,
+401,4,0:44.0,114,120,PHO,CLE,0,home,Timeout,,,,,,
+402,4,0:44.0,114,120,PHO,CLE,0,away,Sub,,,,,T. Thompson,K. Love
+403,4,0:44.0,114,120,PHO,CLE,0,away,Sub,,,,,D. Liggins,C. Frye
+404,4,0:34.0,116,120,PHO,CLE,10,home,LU,assist,2,make2,2,P. Tucker,E. Bledsoe
+405,4,0:12.0,116,120,PHO,CLE,22,away,JS,,26,miss3,0,L. James,
+406,4,0:11.0,116,120,PHO,CLE,1,home,DefReb,,,DefReb,,D. Booker,
+407,4,0:11.0,116,120,PHO,CLE,0,home,Timeout,,,,,,
+408,4,0:07.0,116,120,PHO,CLE,4,home,JS,block,3,miss2,0,D. Booker,I. Shumpert
+409,4,0:07.0,116,120,PHO,CLE,0,home,OffReb,,,OffReb,,Team,
+410,4,0:07.0,116,120,PHO,CLE,0,away,KickBallViolation,,,KickBallViolation,,D. Liggins,
+411,4,0:02.0,116,120,PHO,CLE,5,home,LU,,1,miss2,0,M. Chriss,
+412,4,0:02.0,116,120,PHO,CLE,0,away,DefReb,,,DefReb,,T. Thompson,

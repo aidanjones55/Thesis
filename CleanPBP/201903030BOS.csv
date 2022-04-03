@@ -1,0 +1,446 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:44.0,2,0,BOS,HOU,16,home,JS,,18,make2,2,K. Irving,
+1,1,11:30.0,2,0,BOS,HOU,14,home,KickBallViolation,,,KickBallViolation,,Team,
+2,1,11:21.0,2,0,BOS,HOU,9,away,JS,,12,miss2,0,C. Paul,
+3,1,11:19.0,2,0,BOS,HOU,2,home,DefReb,,,DefReb,,M. Morris,
+4,1,11:08.0,2,0,BOS,HOU,11,home,bad pass,steal,,turnover,,A. Horford,C. Capela
+5,1,10:58.0,2,2,BOS,HOU,10,away,LU,,3,make2,2,J. Harden,
+6,1,10:46.0,4,2,BOS,HOU,12,home,JS,assist,15,make2,2,A. Horford,K. Irving
+7,1,10:38.0,4,2,BOS,HOU,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Irving,C. Paul
+8,1,10:27.0,4,5,BOS,HOU,11,away,JS,assist,23,make3,3,E. Gordon,C. Paul
+9,1,10:10.0,6,5,BOS,HOU,17,home,JS,,8,make2,2,J. Tatum,
+10,1,9:49.0,6,5,BOS,HOU,21,away,JS,,26,miss3,0,C. Paul,
+11,1,9:47.0,6,5,BOS,HOU,2,home,DefReb,,,DefReb,,K. Irving,
+12,1,9:33.0,6,5,BOS,HOU,14,home,lost ball,steal,,turnover,,M. Morris,J. Harden
+13,1,9:29.0,6,7,BOS,HOU,4,away,LU,,2,make2,2,J. Harden,
+14,1,9:11.0,6,7,BOS,HOU,18,home,lost ball,steal,,turnover,,K. Irving,C. Paul
+15,1,9:07.0,6,9,BOS,HOU,4,away,LU,assist,1,make2,2,E. Gordon,C. Paul
+16,1,8:50.0,6,9,BOS,HOU,17,home,JS,,25,miss3,0,M. Smart,
+17,1,8:48.0,6,9,BOS,HOU,2,away,DefReb,,,DefReb,,C. Capela,
+18,1,8:37.0,6,9,BOS,HOU,11,away,JS,,23,miss3,0,E. Gordon,
+19,1,8:35.0,6,9,BOS,HOU,2,home,DefReb,,,DefReb,,M. Morris,
+20,1,8:26.0,6,9,BOS,HOU,9,home,BadPass,,,turnover,,M. Smart,
+21,1,8:22.0,6,9,BOS,HOU,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Tatum,E. Gordon
+22,1,8:22.0,6,10,BOS,HOU,0,away,FreeThrow,,,make1,1,E. Gordon,
+23,1,8:22.0,6,10,BOS,HOU,0,away,FreeThrow,,,make1,0,E. Gordon,
+24,1,8:22.0,6,10,BOS,HOU,0,home,DefReb,,,DefReb,,J. Tatum,
+25,1,8:08.0,6,10,BOS,HOU,14,home,JS,,23,miss3,0,J. Tatum,
+26,1,8:06.0,6,10,BOS,HOU,2,away,DefReb,,,DefReb,,C. Capela,
+27,1,7:54.0,6,12,BOS,HOU,12,away,DK,assist,1,make2,2,C. Capela,E. Gordon
+28,1,7:54.0,6,12,BOS,HOU,0,home,Timeout,,,,,,
+29,1,7:43.0,6,12,BOS,HOU,11,home,lost ball,steal,,turnover,,M. Morris,C. Paul
+30,1,7:39.0,6,15,BOS,HOU,4,away,JS,assist,26,make3,3,J. Harden,C. Paul
+31,1,7:15.0,8,15,BOS,HOU,24,home,HS,assist,12,make2,2,A. Horford,M. Smart
+32,1,6:59.0,8,17,BOS,HOU,16,away,DK,assist,2,make2,2,C. Capela,J. Harden
+33,1,6:46.0,10,17,BOS,HOU,13,home,JS,assist,16,make2,2,A. Horford,J. Tatum
+34,1,6:22.0,10,17,BOS,HOU,24,away,JS,,4,miss2,0,J. Harden,
+35,1,6:21.0,10,17,BOS,HOU,1,home,DefReb,,,DefReb,,M. Morris,
+36,1,6:19.0,12,17,BOS,HOU,2,home,DK,assist,1,make2,2,J. Tatum,K. Irving
+37,1,6:02.0,12,20,BOS,HOU,17,away,JS,assist,28,make3,3,E. Gordon,C. Paul
+38,1,5:41.0,12,20,BOS,HOU,21,home,JS,,14,miss2,0,J. Tatum,
+39,1,5:40.0,12,20,BOS,HOU,1,away,DefReb,,,DefReb,,C. Paul,
+40,1,5:33.0,12,20,BOS,HOU,7,away,JS,,27,miss3,0,C. Paul,
+41,1,5:30.0,12,20,BOS,HOU,3,home,DefReb,,,DefReb,,M. Smart,
+42,1,5:20.0,14,20,BOS,HOU,10,home,JS,,10,make2,2,K. Irving,
+43,1,5:10.0,14,22,BOS,HOU,10,away,LU,,2,make2,2,E. Gordon,
+44,1,5:03.0,14,22,BOS,HOU,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,K. Irving
+45,1,5:03.0,14,22,BOS,HOU,0,away,Sub,,,,,G. Green,E. Gordon
+46,1,5:03.0,14,22,BOS,HOU,0,away,Sub,,,,,A. Rivers,C. Paul
+47,1,5:03.0,14,22,BOS,HOU,0,home,Sub,,,,,A. Baynes,A. Horford
+48,1,5:03.0,14,22,BOS,HOU,0,home,Sub,,,,,J. Brown,M. Morris
+49,1,5:03.0,14,22,BOS,HOU,0,home,Sub,,,,,G. Hayward,M. Smart
+50,1,4:54.0,14,22,BOS,HOU,9,home,JS,,12,miss2,0,G. Hayward,
+51,1,4:52.0,14,22,BOS,HOU,2,away,DefReb,,,DefReb,,G. Green,
+52,1,4:36.0,14,22,BOS,HOU,16,away,JS,,24,miss3,0,J. Harden,
+53,1,4:34.0,14,22,BOS,HOU,2,away,OffReb,,,OffReb,,P. Tucker,
+54,1,4:32.0,14,22,BOS,HOU,2,away,JS,,26,miss3,0,G. Green,
+55,1,4:30.0,14,22,BOS,HOU,2,away,OffReb,,,OffReb,,C. Capela,
+56,1,4:19.0,14,24,BOS,HOU,11,away,LU,,3,make2,2,J. Harden,
+57,1,3:54.0,17,24,BOS,HOU,25,home,JS,assist,26,make3,3,K. Irving,J. Tatum
+58,1,3:38.0,17,24,BOS,HOU,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Brown,J. Harden
+59,1,3:38.0,17,25,BOS,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+60,1,3:38.0,17,25,BOS,HOU,0,away,Sub,,,,,N. Hilário,C. Capela
+61,1,3:38.0,17,26,BOS,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+62,1,3:28.0,17,26,BOS,HOU,10,home,JS,block,7,miss2,0,K. Irving,A. Rivers
+63,1,3:25.0,17,26,BOS,HOU,3,away,DefReb,,,DefReb,,A. Rivers,
+64,1,3:15.0,17,28,BOS,HOU,10,away,LU,,3,make2,2,J. Harden,
+65,1,3:02.0,17,28,BOS,HOU,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Rivers,A. Baynes
+66,1,2:55.0,17,28,BOS,HOU,7,home,JS,,25,miss3,0,J. Brown,
+67,1,2:53.0,17,28,BOS,HOU,2,away,DefReb,,,DefReb,,A. Rivers,
+68,1,2:45.0,17,28,BOS,HOU,8,away,JS,,28,miss3,0,J. Harden,
+69,1,2:42.0,17,28,BOS,HOU,3,home,DefReb,,,DefReb,,A. Baynes,
+70,1,2:26.0,17,28,BOS,HOU,16,home,LU,,1,miss2,0,J. Tatum,
+71,1,2:23.0,17,28,BOS,HOU,3,away,DefReb,,,DefReb,,G. Green,
+72,1,2:18.0,17,31,BOS,HOU,5,away,JS,assist,26,make3,3,P. Tucker,J. Harden
+73,1,1:58.0,17,31,BOS,HOU,20,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Baynes,N. Hilário
+74,1,1:58.0,17,31,BOS,HOU,0,home,OffensiveFoul,,,turnover,,A. Baynes,
+75,1,1:58.0,17,31,BOS,HOU,0,away,Timeout,,,,,,
+76,1,1:58.0,17,31,BOS,HOU,0,away,Sub,,,,,C. Paul,J. Harden
+77,1,1:58.0,17,31,BOS,HOU,0,home,Sub,,,,,T. Rozier,J. Tatum
+78,1,1:36.0,17,31,BOS,HOU,22,away,JS,,23,miss2,0,G. Green,
+79,1,1:34.0,17,31,BOS,HOU,2,away,OffReb,,,OffReb,,P. Tucker,
+80,1,1:34.0,17,31,BOS,HOU,0,away,BadPass,,,turnover,,P. Tucker,
+81,1,1:19.0,17,31,BOS,HOU,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Hilário,A. Baynes
+82,1,1:19.0,18,31,BOS,HOU,0,home,FreeThrow,,,make1,1,A. Baynes,
+83,1,1:19.0,19,31,BOS,HOU,0,home,FreeThrow,,,make1,1,A. Baynes,
+84,1,1:07.0,19,31,BOS,HOU,12,away,bad pass,steal,,turnover,,C. Paul,J. Brown
+85,1,1:03.0,19,31,BOS,HOU,4,home,LU,,2,miss2,0,T. Rozier,
+86,1,1:01.0,19,31,BOS,HOU,2,home,OffReb,,,OffReb,,A. Baynes,
+87,1,1:00.0,21,31,BOS,HOU,1,home,DK,,1,make2,2,A. Baynes,
+88,1,0:50.0,21,31,BOS,HOU,10,away,JS,,26,miss3,0,A. Rivers,
+89,1,0:48.0,21,31,BOS,HOU,2,home,DefReb,,,DefReb,,K. Irving,
+90,1,0:38.0,23,31,BOS,HOU,10,home,JS,assist,6,make2,2,J. Brown,K. Irving
+91,1,0:27.0,23,33,BOS,HOU,11,away,LU,assist,1,make2,2,N. Hilário,C. Paul
+92,1,0:27.0,23,33,BOS,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Brown,N. Hilário
+93,1,0:27.0,23,33,BOS,HOU,0,home,Sub,,,,,A. Horford,A. Baynes
+94,1,0:27.0,23,33,BOS,HOU,0,away,FreeThrow,,,make1,0,N. Hilário,
+95,1,0:27.0,23,33,BOS,HOU,0,home,DefReb,,,DefReb,,J. Brown,
+96,1,0:18.0,23,33,BOS,HOU,9,home,JS,,13,miss2,0,G. Hayward,
+97,1,0:14.0,23,33,BOS,HOU,4,away,DefReb,,,DefReb,,G. Green,
+98,1,0:00.0,23,33,BOS,HOU,14,away,Traveling,,,turnover,,G. Green,
+99,2,11:35.0,23,33,BOS,HOU,25,away,bad pass,steal,,turnover,,C. Paul,G. Hayward
+100,2,11:34.0,23,33,BOS,HOU,1,home,Traveling,,,turnover,,J. Brown,
+101,2,11:19.0,23,35,BOS,HOU,15,away,JS,,19,make2,2,C. Paul,
+102,2,10:57.0,23,35,BOS,HOU,22,home,JS,,27,miss3,0,G. Hayward,
+103,2,10:56.0,23,35,BOS,HOU,1,away,DefReb,,,DefReb,,C. Paul,
+104,2,10:42.0,23,37,BOS,HOU,14,away,LU,assist,3,make2,2,A. Rivers,C. Paul
+105,2,10:30.0,23,37,BOS,HOU,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Clark,M. Smart
+106,2,10:20.0,25,37,BOS,HOU,10,home,LU,assist,2,make2,2,A. Horford,G. Hayward
+107,2,10:09.0,25,40,BOS,HOU,11,away,JS,,28,make3,3,C. Paul,
+108,2,9:57.0,27,40,BOS,HOU,12,home,LU,assist,0,make2,2,T. Rozier,M. Smart
+109,2,9:34.0,27,40,BOS,HOU,23,away,JS,,23,miss3,0,A. Rivers,
+110,2,9:32.0,27,40,BOS,HOU,2,home,DefReb,,,DefReb,,A. Horford,
+111,2,9:29.0,27,40,BOS,HOU,3,home,JS,,25,miss3,0,M. Smart,
+112,2,9:28.0,27,40,BOS,HOU,1,away,DefReb,,,DefReb,,C. Paul,
+113,2,9:19.0,27,43,BOS,HOU,9,away,JS,assist,26,make3,3,E. Gordon,C. Paul
+114,2,9:00.0,27,43,BOS,HOU,19,home,LU,,2,miss2,0,G. Hayward,
+115,2,8:59.0,27,43,BOS,HOU,1,away,DefReb,,,DefReb,,G. Clark,
+116,2,8:52.0,27,43,BOS,HOU,7,away,BadPass,,,turnover,,C. Paul,
+117,2,8:52.0,27,43,BOS,HOU,0,away,Sub,,,,,C. Capela,N. Hilário
+118,2,8:52.0,27,43,BOS,HOU,0,home,Sub,,,,,M. Morris,G. Hayward
+119,2,8:52.0,27,43,BOS,HOU,0,home,TechnicalFoul,,,TechnicalFoul,,M. Morris,
+120,2,8:52.0,27,44,BOS,HOU,0,away,FreeThrow,,,make1,1,C. Paul makes technical free throw,
+121,2,8:52.0,27,44,BOS,HOU,0,away,Sub,,,,,G. Green,G. Clark
+122,2,8:52.0,27,44,BOS,HOU,0,away,Sub,,,,,J. Harden,A. Rivers
+123,2,8:36.0,29,44,BOS,HOU,16,home,JS,,10,make2,2,J. Brown,
+124,2,8:23.0,29,44,BOS,HOU,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Rozier,C. Capela
+125,2,8:09.0,29,44,BOS,HOU,14,away,JS,,26,miss3,0,J. Harden,
+126,2,8:07.0,29,44,BOS,HOU,2,home,DefReb,,,DefReb,,T. Rozier,
+127,2,7:54.0,31,44,BOS,HOU,13,home,JS,,19,make2,2,T. Rozier,
+128,2,7:29.0,31,44,BOS,HOU,25,away,bad pass,steal,,turnover,,C. Capela,M. Morris
+129,2,7:24.0,31,44,BOS,HOU,5,home,JS,,26,miss3,0,T. Rozier,
+130,2,7:21.0,31,44,BOS,HOU,3,home,OffReb,,,OffReb,,J. Brown,
+131,2,7:21.0,33,44,BOS,HOU,0,home,LU,,1,make2,2,J. Brown,
+132,2,7:07.0,33,44,BOS,HOU,14,away,JS,,27,miss3,0,J. Harden,
+133,2,7:05.0,33,44,BOS,HOU,2,home,DefReb,,,DefReb,,A. Horford,
+134,2,7:01.0,33,44,BOS,HOU,4,home,JS,,25,miss3,0,J. Brown,
+135,2,7:00.0,33,44,BOS,HOU,1,away,DefReb,,,DefReb,,C. Capela,
+136,2,6:51.0,33,44,BOS,HOU,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,C. Paul
+137,2,6:51.0,33,44,BOS,HOU,0,home,Timeout,,,,,,
+138,2,6:51.0,33,44,BOS,HOU,0,away,Sub,,,,,P. Tucker,C. Paul
+139,2,6:51.0,33,44,BOS,HOU,0,home,Sub,,,,,K. Irving,J. Brown
+140,2,6:37.0,33,47,BOS,HOU,14,away,JS,,27,make3,3,J. Harden,
+141,2,6:16.0,35,47,BOS,HOU,21,home,LU,assist,2,make2,2,A. Horford,M. Smart
+142,2,6:05.0,35,50,BOS,HOU,11,away,JS,assist,28,make3,3,E. Gordon,C. Capela
+143,2,5:48.0,35,50,BOS,HOU,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harden,K. Irving
+144,2,5:48.0,36,50,BOS,HOU,0,home,FreeThrow,,,make1,1,K. Irving,
+145,2,5:48.0,36,50,BOS,HOU,0,home,Sub,,,,,A. Baynes,A. Horford
+146,2,5:48.0,36,50,BOS,HOU,0,home,FreeThrow,,,make1,0,K. Irving,
+147,2,5:48.0,36,50,BOS,HOU,0,away,DefReb,,,DefReb,,J. Harden,
+148,2,5:35.0,36,50,BOS,HOU,13,away,LU,,7,miss2,0,J. Harden,
+149,2,5:31.0,36,50,BOS,HOU,4,home,DefReb,,,DefReb,,K. Irving,
+150,2,5:22.0,36,50,BOS,HOU,9,home,JS,,25,miss3,0,T. Rozier,
+151,2,5:20.0,36,50,BOS,HOU,2,away,DefReb,,,DefReb,,P. Tucker,
+152,2,5:14.0,36,53,BOS,HOU,6,away,JS,assist,24,make3,3,P. Tucker,E. Gordon
+153,2,5:02.0,36,53,BOS,HOU,12,home,JS,,23,miss3,0,A. Baynes,
+154,2,5:00.0,36,53,BOS,HOU,2,away,DefReb,,,DefReb,,P. Tucker,
+155,2,4:54.0,36,53,BOS,HOU,6,away,JS,,28,miss3,0,J. Harden,
+156,2,4:52.0,36,53,BOS,HOU,2,home,DefReb,,,DefReb,,A. Baynes,
+157,2,4:28.0,36,53,BOS,HOU,24,home,JS,,28,miss3,0,M. Morris,
+158,2,4:27.0,36,53,BOS,HOU,1,away,DefReb,,,DefReb,,Team,
+159,2,4:14.0,36,53,BOS,HOU,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Rozier,C. Capela
+160,2,4:14.0,36,54,BOS,HOU,0,away,FreeThrow,,,make1,1,C. Capela,
+161,2,4:14.0,36,54,BOS,HOU,0,home,Sub,,,,,J. Tatum,T. Rozier
+162,2,4:14.0,36,54,BOS,HOU,0,away,FreeThrow,,,make1,0,C. Capela,
+163,2,4:14.0,36,54,BOS,HOU,0,home,DefReb,,,DefReb,,J. Tatum,
+164,2,4:07.0,36,54,BOS,HOU,7,away,KickBallViolation,,,KickBallViolation,,Team,
+165,2,3:55.0,36,54,BOS,HOU,12,home,LU,block,2,miss2,0,M. Morris,J. Harden
+166,2,3:55.0,36,54,BOS,HOU,0,away,DefReb,,,DefReb,,Team,
+167,2,3:49.0,36,56,BOS,HOU,6,away,LU,,2,make2,2,J. Harden,
+168,2,3:32.0,36,56,BOS,HOU,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Gordon,A. Baynes
+169,2,3:32.0,36,56,BOS,HOU,0,away,Timeout,,,,,,
+170,2,3:32.0,36,56,BOS,HOU,0,home,Sub,,,,,J. Brown,A. Baynes
+171,2,3:32.0,36,56,BOS,HOU,0,home,Sub,,,,,A. Horford,M. Morris
+172,2,3:18.0,36,56,BOS,HOU,14,home,JS,,26,miss3,0,M. Smart,
+173,2,3:15.0,36,56,BOS,HOU,3,away,DefReb,,,DefReb,,E. Gordon,
+174,2,3:05.0,36,56,BOS,HOU,10,away,JS,,26,miss3,0,G. Green,
+175,2,3:03.0,36,56,BOS,HOU,2,home,DefReb,,,DefReb,,J. Brown,
+176,2,2:53.0,36,56,BOS,HOU,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Green,J. Tatum
+177,2,2:53.0,37,56,BOS,HOU,0,home,FreeThrow,,,make1,1,J. Tatum,
+178,2,2:53.0,37,56,BOS,HOU,0,away,Sub,,,,,C. Paul,G. Green
+179,2,2:53.0,37,56,BOS,HOU,0,home,FreeThrow,,,make1,0,J. Tatum,
+180,2,2:53.0,37,56,BOS,HOU,0,away,DefReb,,,DefReb,,J. Harden,
+181,2,2:42.0,37,56,BOS,HOU,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Irving,E. Gordon
+182,2,2:36.0,37,59,BOS,HOU,6,away,JS,assist,27,make3,3,E. Gordon,C. Paul
+183,2,2:08.0,37,59,BOS,HOU,28,home,JS,,20,miss2,0,J. Brown,
+184,2,2:06.0,37,59,BOS,HOU,2,away,DefReb,,,DefReb,,J. Harden,
+185,2,1:56.0,37,61,BOS,HOU,10,away,LU,,3,make2,2,J. Harden,
+186,2,1:43.0,39,61,BOS,HOU,13,home,JS,assist,2,make2,2,K. Irving,A. Horford
+187,2,1:29.0,39,61,BOS,HOU,14,away,JS,,26,miss3,0,P. Tucker,
+188,2,1:25.0,39,61,BOS,HOU,4,away,OffReb,,,OffReb,,C. Paul,
+189,2,1:18.0,39,61,BOS,HOU,7,away,JS,,34,miss3,0,J. Harden,
+190,2,1:16.0,39,61,BOS,HOU,2,home,DefReb,,,DefReb,,A. Horford,
+191,2,1:10.0,39,61,BOS,HOU,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,K. Irving
+192,2,1:10.0,40,61,BOS,HOU,0,home,FreeThrow,,,make1,1,K. Irving,
+193,2,1:10.0,41,61,BOS,HOU,0,home,FreeThrow,,,make1,1,K. Irving,
+194,2,1:04.0,41,61,BOS,HOU,6,away,BadPass,,,turnover,,J. Harden,
+195,2,0:55.0,41,61,BOS,HOU,9,home,JS,,23,miss3,0,A. Horford,
+196,2,0:53.0,41,61,BOS,HOU,2,away,DefReb,,,DefReb,,J. Harden,
+197,2,0:47.0,41,61,BOS,HOU,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Brown,C. Capela
+198,2,0:47.0,41,62,BOS,HOU,0,away,FreeThrow,,,make1,1,C. Capela,
+199,2,0:47.0,41,62,BOS,HOU,0,away,FreeThrow,,,make1,0,C. Capela,
+200,2,0:47.0,41,62,BOS,HOU,0,home,DefReb,,,DefReb,,A. Horford,
+201,2,0:33.0,41,62,BOS,HOU,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Paul,K. Irving
+202,2,0:33.0,42,62,BOS,HOU,0,home,FreeThrow,,,make1,1,K. Irving,
+203,2,0:33.0,42,62,BOS,HOU,0,home,Sub,,,,,T. Rozier,J. Brown
+204,2,0:33.0,43,62,BOS,HOU,0,home,FreeThrow,,,make1,1,K. Irving,
+205,2,0:11.0,43,62,BOS,HOU,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Rozier,J. Harden
+206,2,0:11.0,43,63,BOS,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+207,2,0:11.0,43,64,BOS,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+208,2,0:11.0,43,64,BOS,HOU,0,away,Sub,,,,,A. Rivers,C. Paul
+209,2,0:11.0,43,65,BOS,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+210,2,0:02.0,43,65,BOS,HOU,9,home,JS,,3,miss2,0,M. Smart,
+211,2,0:01.0,43,65,BOS,HOU,1,away,DefReb,,,DefReb,,E. Gordon,
+212,3,11:46.0,43,68,BOS,HOU,14,away,JS,assist,25,make3,3,E. Gordon,C. Paul
+213,3,11:28.0,43,68,BOS,HOU,18,home,JS,,18,miss2,0,K. Irving,
+214,3,11:26.0,43,68,BOS,HOU,2,away,DefReb,,,DefReb,,C. Capela,
+215,3,11:07.0,43,71,BOS,HOU,19,away,JS,assist,26,make3,3,E. Gordon,C. Paul
+216,3,11:05.0,43,71,BOS,HOU,2,home,Timeout,,,,,,
+217,3,10:52.0,43,71,BOS,HOU,13,home,JS,,13,miss2,0,J. Tatum,
+218,3,10:51.0,43,71,BOS,HOU,1,home,OffReb,,,OffReb,,A. Horford,
+219,3,10:51.0,43,71,BOS,HOU,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Harden,A. Horford
+220,3,10:46.0,46,71,BOS,HOU,5,home,JS,assist,28,make3,3,K. Irving,M. Smart
+221,3,10:25.0,46,74,BOS,HOU,21,away,JS,,25,make3,3,J. Harden,
+222,3,10:16.0,48,74,BOS,HOU,9,home,LU,,2,make2,2,K. Irving,
+223,3,10:03.0,48,74,BOS,HOU,13,away,LU,,3,miss2,0,C. Capela,
+224,3,9:58.0,48,74,BOS,HOU,5,home,DefReb,,,DefReb,,K. Irving,
+225,3,9:58.0,48,74,BOS,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Paul,K. Irving
+226,3,9:58.0,49,74,BOS,HOU,0,home,FreeThrow,,,make1,1,K. Irving,
+227,3,9:58.0,50,74,BOS,HOU,0,home,FreeThrow,,,make1,1,K. Irving,
+228,3,9:48.0,50,74,BOS,HOU,10,away,JS,,26,miss3,0,J. Harden,
+229,3,9:46.0,50,74,BOS,HOU,2,home,DefReb,,,DefReb,,K. Irving,
+230,3,9:35.0,53,74,BOS,HOU,11,home,JS,assist,25,make3,3,A. Horford,K. Irving
+231,3,9:17.0,53,77,BOS,HOU,18,away,JS,assist,28,make3,3,E. Gordon,C. Paul
+232,3,8:59.0,53,77,BOS,HOU,18,home,JS,,26,miss3,0,M. Morris,
+233,3,8:57.0,53,77,BOS,HOU,2,home,OffReb,,,OffReb,,A. Horford,
+234,3,8:56.0,56,77,BOS,HOU,1,home,JS,assist,26,make3,3,M. Smart,A. Horford
+235,3,8:34.0,56,77,BOS,HOU,22,away,JS,,26,miss3,0,E. Gordon,
+236,3,8:32.0,56,77,BOS,HOU,2,home,DefReb,,,DefReb,,K. Irving,
+237,3,8:26.0,56,77,BOS,HOU,6,home,bad pass,steal,,turnover,,K. Irving,J. Harden
+238,3,8:23.0,56,77,BOS,HOU,3,home,KickBallViolation,,,KickBallViolation,,Team,
+239,3,8:12.0,56,79,BOS,HOU,11,away,DK,assist,0,make2,2,C. Capela,C. Paul
+240,3,7:51.0,56,79,BOS,HOU,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,M. Morris
+241,3,7:51.0,56,79,BOS,HOU,0,home,FreeThrow,,,make1,0,M. Morris,
+242,3,7:51.0,56,79,BOS,HOU,0,home,OffReb,,,OffReb,,Team,
+243,3,7:51.0,56,79,BOS,HOU,0,home,FreeThrow,,,make1,0,M. Morris,
+244,3,7:49.0,56,79,BOS,HOU,2,away,DefReb,,,DefReb,,P. Tucker,
+245,3,7:35.0,56,79,BOS,HOU,14,away,bad pass,steal,,turnover,,J. Harden,M. Smart
+246,3,7:28.0,56,79,BOS,HOU,7,home,lost ball,steal,,turnover,,K. Irving,C. Paul
+247,3,7:08.0,56,79,BOS,HOU,20,away,JS,,27,miss3,0,J. Harden,
+248,3,7:08.0,56,79,BOS,HOU,0,away,OffReb,,,OffReb,,Team,
+249,3,7:08.0,56,79,BOS,HOU,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Tatum,P. Tucker
+250,3,7:08.0,56,79,BOS,HOU,0,away,Sub,,,,,A. Rivers,C. Paul
+251,3,6:55.0,56,79,BOS,HOU,13,away,LU,,5,miss2,0,E. Gordon,
+252,3,6:54.0,56,79,BOS,HOU,1,away,OffReb,,,OffReb,,C. Capela,
+253,3,6:52.0,56,81,BOS,HOU,2,away,DK,assist,1,make2,2,E. Gordon,C. Capela
+254,3,6:43.0,56,81,BOS,HOU,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Rivers,J. Tatum
+255,3,6:43.0,56,81,BOS,HOU,0,home,Sub,,,,,A. Baynes,M. Morris
+256,3,6:36.0,56,81,BOS,HOU,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Rivers,M. Smart
+257,3,6:36.0,57,81,BOS,HOU,0,home,FreeThrow,,,make1,1,M. Smart,
+258,3,6:36.0,58,81,BOS,HOU,0,home,FreeThrow,,,make1,1,M. Smart,
+259,3,6:36.0,59,81,BOS,HOU,0,home,FreeThrow,,,make1,1,M. Smart,
+260,3,6:23.0,59,81,BOS,HOU,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Horford,E. Gordon
+261,3,6:23.0,59,81,BOS,HOU,0,away,OffReb,,,OffReb,,Team,
+262,3,6:23.0,59,81,BOS,HOU,0,away,FreeThrow,,,make1,0,E. Gordon,
+263,3,6:23.0,59,81,BOS,HOU,0,away,FreeThrow,,,make1,0,E. Gordon,
+264,3,6:23.0,59,81,BOS,HOU,0,home,DefReb,,,DefReb,,A. Baynes,
+265,3,6:13.0,59,81,BOS,HOU,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Gordon,M. Smart
+266,3,6:13.0,60,81,BOS,HOU,0,home,FreeThrow,,,make1,1,M. Smart,
+267,3,6:13.0,61,81,BOS,HOU,0,home,FreeThrow,,,make1,1,M. Smart,
+268,3,5:50.0,61,81,BOS,HOU,23,away,JS,,25,miss3,0,J. Harden,
+269,3,5:47.0,61,81,BOS,HOU,3,away,OffReb,,,OffReb,,C. Capela,
+270,3,5:36.0,61,81,BOS,HOU,11,away,JS,,15,miss2,0,J. Harden,
+271,3,5:34.0,61,81,BOS,HOU,2,home,DefReb,,,DefReb,,K. Irving,
+272,3,5:24.0,61,81,BOS,HOU,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,A. Horford
+273,3,5:24.0,62,81,BOS,HOU,0,home,FreeThrow,,,make1,1,A. Horford,
+274,3,5:24.0,63,81,BOS,HOU,0,home,FreeThrow,,,make1,1,A. Horford,
+275,3,5:02.0,63,84,BOS,HOU,22,away,JS,,28,make3,3,J. Harden,
+276,3,4:49.0,63,84,BOS,HOU,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harden,A. Horford
+277,3,4:49.0,64,84,BOS,HOU,0,home,FreeThrow,,,make1,1,A. Horford,
+278,3,4:49.0,64,84,BOS,HOU,0,away,Sub,,,,,G. Green,C. Capela
+279,3,4:49.0,64,84,BOS,HOU,0,away,Sub,,,,,N. Hilário,E. Gordon
+280,3,4:49.0,65,84,BOS,HOU,0,home,FreeThrow,,,make1,1,A. Horford,
+281,3,4:34.0,65,84,BOS,HOU,15,away,JS,,25,miss3,0,P. Tucker,
+282,3,4:32.0,65,84,BOS,HOU,2,home,DefReb,,,DefReb,,J. Tatum,
+283,3,4:30.0,65,84,BOS,HOU,2,home,LU,,2,miss2,0,J. Tatum,
+284,3,4:29.0,65,84,BOS,HOU,1,home,OffReb,,,OffReb,,M. Smart,
+285,3,4:28.0,65,84,BOS,HOU,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Hilário,M. Smart
+286,3,4:28.0,66,84,BOS,HOU,0,home,FreeThrow,,,make1,1,M. Smart,
+287,3,4:28.0,67,84,BOS,HOU,0,home,FreeThrow,,,make1,1,M. Smart,
+288,3,4:09.0,67,84,BOS,HOU,19,away,JS,,3,miss2,0,J. Harden,
+289,3,4:08.0,67,84,BOS,HOU,1,home,DefReb,,,DefReb,,Team,
+290,3,4:08.0,67,84,BOS,HOU,0,away,Timeout,,,,,,
+291,3,3:55.0,67,84,BOS,HOU,13,home,JS,,23,miss3,0,K. Irving,
+292,3,3:53.0,67,84,BOS,HOU,2,away,DefReb,,,DefReb,,J. Harden,
+293,3,3:44.0,67,84,BOS,HOU,9,away,JS,,5,miss2,0,P. Tucker,
+294,3,3:42.0,67,84,BOS,HOU,2,home,DefReb,,,DefReb,,M. Smart,
+295,3,3:33.0,67,84,BOS,HOU,9,home,JS,,15,miss2,0,A. Baynes,
+296,3,3:31.0,67,84,BOS,HOU,2,away,DefReb,,,DefReb,,A. Rivers,
+297,3,3:12.0,67,84,BOS,HOU,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Tatum,J. Harden
+298,3,3:12.0,67,84,BOS,HOU,0,away,FreeThrow,,,make1,0,J. Harden,
+299,3,3:12.0,67,84,BOS,HOU,0,away,OffReb,,,OffReb,,Team,
+300,3,3:12.0,67,84,BOS,HOU,0,home,Sub,,,,,J. Brown,A. Horford
+301,3,3:12.0,67,84,BOS,HOU,0,home,Sub,,,,,G. Hayward,J. Tatum
+302,3,3:12.0,67,85,BOS,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+303,3,2:59.0,70,85,BOS,HOU,13,home,JS,assist,27,make3,3,M. Smart,K. Irving
+304,3,2:46.0,70,88,BOS,HOU,13,away,JS,assist,26,make3,3,A. Rivers,J. Harden
+305,3,2:32.0,73,88,BOS,HOU,14,home,JS,assist,27,make3,3,K. Irving,A. Baynes
+306,3,2:22.0,73,88,BOS,HOU,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Irving,J. Harden
+307,3,2:22.0,73,89,BOS,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+308,3,2:22.0,73,89,BOS,HOU,0,away,Sub,,,,,C. Paul,G. Green
+309,3,2:22.0,73,90,BOS,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+310,3,2:07.0,75,90,BOS,HOU,15,home,LU,,3,make2,2,G. Hayward,
+311,3,1:51.0,75,93,BOS,HOU,16,away,JS,,26,make3,3,J. Harden,
+312,3,1:40.0,75,93,BOS,HOU,11,home,LU,,2,miss2,0,A. Baynes,
+313,3,1:37.0,75,93,BOS,HOU,3,away,DefReb,,,DefReb,,J. Harden,
+314,3,1:34.0,75,93,BOS,HOU,3,away,JS,,26,miss3,0,J. Harden,
+315,3,1:32.0,75,93,BOS,HOU,2,home,DefReb,,,DefReb,,K. Irving,
+316,3,1:29.0,75,93,BOS,HOU,3,home,LU,block,4,miss2,0,J. Brown,C. Paul
+317,3,1:28.0,75,93,BOS,HOU,1,home,OffReb,,,OffReb,,Team,
+318,3,1:28.0,75,93,BOS,HOU,0,away,Sub,,,,,E. Gordon,A. Rivers
+319,3,1:28.0,75,93,BOS,HOU,0,home,Sub,,,,,D. Theis,A. Baynes
+320,3,1:26.0,78,93,BOS,HOU,2,home,JS,assist,24,make3,3,M. Smart,K. Irving
+321,3,1:02.0,78,95,BOS,HOU,24,away,JS,assist,8,make2,2,J. Harden,E. Gordon
+322,3,0:54.0,78,95,BOS,HOU,8,home,BadPass,,,turnover,,D. Theis,
+323,3,0:54.0,78,95,BOS,HOU,0,away,Sub,,,,,A. Rivers,P. Tucker
+324,3,0:54.0,78,95,BOS,HOU,0,home,Sub,,,,,T. Rozier,K. Irving
+325,3,0:46.0,78,95,BOS,HOU,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Rozier,C. Paul
+326,3,0:46.0,78,96,BOS,HOU,0,away,FreeThrow,,,make1,1,C. Paul,
+327,3,0:46.0,78,97,BOS,HOU,0,away,FreeThrow,,,make1,1,C. Paul,
+328,3,0:37.0,78,97,BOS,HOU,9,home,Traveling,,,turnover,,D. Theis,
+329,3,0:30.0,78,100,BOS,HOU,7,away,JS,,26,make3,3,C. Paul,
+330,3,0:06.0,78,100,BOS,HOU,24,home,JS,,25,miss3,0,J. Brown,
+331,3,0:04.0,78,100,BOS,HOU,2,away,DefReb,,,DefReb,,C. Paul,
+332,3,0:00.0,78,100,BOS,HOU,4,away,JS,,26,miss3,0,C. Paul,
+333,3,0:00.0,78,100,BOS,HOU,0,away,OffReb,,,OffReb,,Team,
+334,4,11:42.0,78,100,BOS,HOU,18,home,JS,,16,miss2,0,J. Tatum,
+335,4,11:38.0,78,100,BOS,HOU,4,home,OffReb,,,OffReb,,D. Theis,
+336,4,11:36.0,78,100,BOS,HOU,2,home,LU,,6,miss2,0,T. Rozier,
+337,4,11:35.0,78,100,BOS,HOU,1,away,DefReb,,,DefReb,,E. Gordon,
+338,4,11:21.0,78,100,BOS,HOU,14,away,JS,,26,miss3,0,E. Gordon,
+339,4,11:18.0,78,100,BOS,HOU,3,home,DefReb,,,DefReb,,G. Hayward,
+340,4,11:11.0,81,100,BOS,HOU,7,home,JS,assist,24,make3,3,J. Tatum,D. Theis
+341,4,10:42.0,81,100,BOS,HOU,29,away,JS,,25,miss3,0,G. Clark,
+342,4,10:40.0,81,100,BOS,HOU,2,home,DefReb,,,DefReb,,J. Brown,
+343,4,10:34.0,83,100,BOS,HOU,6,home,LU,,3,make2,2,J. Brown,
+344,4,10:34.0,83,100,BOS,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Clark,J. Brown
+345,4,10:34.0,84,100,BOS,HOU,0,home,FreeThrow,,,make1,1,J. Brown,
+346,4,10:14.0,84,100,BOS,HOU,20,away,JS,,29,miss3,0,E. Gordon,
+347,4,10:11.0,84,100,BOS,HOU,3,home,DefReb,,,DefReb,,D. Theis,
+348,4,10:01.0,84,100,BOS,HOU,10,home,JS,,23,miss3,0,J. Tatum,
+349,4,9:59.0,84,100,BOS,HOU,2,away,DefReb,,,DefReb,,C. Capela,
+350,4,9:46.0,84,100,BOS,HOU,13,away,bad pass,steal,,turnover,,C. Paul,G. Hayward
+351,4,9:44.0,86,100,BOS,HOU,2,home,DK,assist,1,make2,2,G. Hayward,T. Rozier
+352,4,9:44.0,86,100,BOS,HOU,0,away,Timeout,,,,,,
+353,4,9:44.0,86,100,BOS,HOU,0,away,Sub,,,,,J. Harden,G. Clark
+354,4,9:44.0,86,100,BOS,HOU,0,away,Sub,,,,,P. Tucker,E. Gordon
+355,4,9:28.0,86,100,BOS,HOU,16,away,bad pass,steal,,turnover,,C. Paul,J. Tatum
+356,4,9:27.0,86,100,BOS,HOU,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Harden,J. Tatum
+357,4,9:14.0,88,100,BOS,HOU,13,home,JS,,11,make2,2,G. Hayward,
+358,4,8:55.0,88,103,BOS,HOU,19,away,JS,assist,23,make3,3,P. Tucker,J. Harden
+359,4,8:38.0,90,103,BOS,HOU,17,home,LU,assist,2,make2,2,J. Brown,G. Hayward
+360,4,8:14.0,90,103,BOS,HOU,24,away,JS,,28,miss3,0,J. Harden,
+361,4,8:12.0,90,103,BOS,HOU,2,home,DefReb,,,DefReb,,J. Tatum,
+362,4,8:00.0,90,103,BOS,HOU,12,home,LU,,2,miss2,0,J. Tatum,
+363,4,7:59.0,90,103,BOS,HOU,1,away,DefReb,,,DefReb,,C. Capela,
+364,4,7:59.0,90,103,BOS,HOU,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Theis,C. Paul
+365,4,7:36.0,90,103,BOS,HOU,23,away,LU,,3,miss2,0,J. Harden,
+366,4,7:31.0,90,103,BOS,HOU,5,home,DefReb,,,DefReb,,T. Rozier,
+367,4,7:24.0,90,103,BOS,HOU,7,home,JS,,28,miss3,0,J. Tatum,
+368,4,7:22.0,90,103,BOS,HOU,2,home,OffReb,,,OffReb,,Team,
+369,4,7:14.0,92,103,BOS,HOU,8,home,DK,assist,1,make2,2,D. Theis,G. Hayward
+370,4,6:57.0,92,103,BOS,HOU,17,away,JS,,25,miss3,0,C. Paul,
+371,4,6:54.0,92,103,BOS,HOU,3,away,OffReb,,,OffReb,,P. Tucker,
+372,4,6:52.0,92,106,BOS,HOU,2,away,JS,assist,24,make3,3,C. Paul,P. Tucker
+373,4,6:34.0,94,106,BOS,HOU,18,home,LU,,1,make2,2,J. Tatum,
+374,4,6:15.0,94,106,BOS,HOU,19,away,JS,,25,miss3,0,A. Rivers,
+375,4,6:11.0,94,106,BOS,HOU,4,home,DefReb,,,DefReb,,G. Hayward,
+376,4,6:08.0,96,106,BOS,HOU,3,home,DK,assist,0,make2,2,J. Brown,G. Hayward
+377,4,5:49.0,96,106,BOS,HOU,19,away,lost ball,steal,,turnover,,J. Harden,D. Theis
+378,4,5:42.0,96,106,BOS,HOU,7,home,JS,,25,miss3,0,T. Rozier,
+379,4,5:38.0,96,106,BOS,HOU,4,away,DefReb,,,DefReb,,C. Paul,
+380,4,5:35.0,96,106,BOS,HOU,3,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Theis,C. Paul
+381,4,5:35.0,96,106,BOS,HOU,0,away,Timeout,,,,,,
+382,4,5:35.0,96,106,BOS,HOU,0,away,Sub,,,,,E. Gordon,C. Capela
+383,4,5:35.0,96,106,BOS,HOU,0,away,Sub,,,,,N. Hilário,C. Paul
+384,4,5:35.0,96,106,BOS,HOU,0,home,Sub,,,,,K. Irving,G. Hayward
+385,4,5:21.0,96,106,BOS,HOU,14,away,JS,,26,miss3,0,J. Harden,
+386,4,5:18.0,96,106,BOS,HOU,3,away,OffReb,,,OffReb,,N. Hilário,
+387,4,5:18.0,96,106,BOS,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Brown,N. Hilário
+388,4,5:18.0,96,107,BOS,HOU,0,away,FreeThrow,,,make1,1,N. Hilário,
+389,4,5:18.0,96,107,BOS,HOU,0,away,FreeThrow,,,make1,0,N. Hilário,
+390,4,5:18.0,96,107,BOS,HOU,0,home,DefReb,,,DefReb,,D. Theis,
+391,4,5:00.0,96,107,BOS,HOU,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Hilário,T. Rozier
+392,4,5:00.0,96,107,BOS,HOU,0,home,FreeThrow,,,make1,0,T. Rozier,
+393,4,5:00.0,96,107,BOS,HOU,0,home,OffReb,,,OffReb,,Team,
+394,4,5:00.0,96,107,BOS,HOU,0,home,FreeThrow,,,make1,0,T. Rozier,
+395,4,5:00.0,96,107,BOS,HOU,0,home,OffReb,,,OffReb,,Team,
+396,4,5:00.0,96,107,BOS,HOU,0,home,Sub,,,,,A. Horford,D. Theis
+397,4,5:00.0,96,107,BOS,HOU,0,home,FreeThrow,,,make1,0,T. Rozier,
+398,4,4:57.0,96,107,BOS,HOU,3,home,OffReb,,,OffReb,,J. Brown,
+399,4,4:52.0,96,107,BOS,HOU,5,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Harden,J. Tatum
+400,4,4:52.0,96,107,BOS,HOU,0,home,Sub,,,,,M. Smart,T. Rozier
+401,4,4:44.0,96,107,BOS,HOU,8,home,JS,,26,miss3,0,J. Brown,
+402,4,4:41.0,96,107,BOS,HOU,3,home,OffReb,,,OffReb,,M. Smart,
+403,4,4:40.0,98,107,BOS,HOU,1,home,LU,,1,make2,2,M. Smart,
+404,4,4:16.0,98,109,BOS,HOU,24,away,LU,,6,make2,2,J. Harden,
+405,4,4:01.0,100,109,BOS,HOU,15,home,LU,assist,3,make2,2,J. Tatum,M. Smart
+406,4,3:38.0,100,109,BOS,HOU,23,away,JS,,10,miss2,0,E. Gordon,
+407,4,3:35.0,100,109,BOS,HOU,3,away,OffReb,,,OffReb,,N. Hilário,
+408,4,3:24.0,100,112,BOS,HOU,11,away,JS,,26,make3,3,J. Harden,
+409,4,3:20.0,100,112,BOS,HOU,4,home,Timeout,,,,,,
+410,4,3:20.0,100,112,BOS,HOU,0,away,Sub,,,,,C. Capela,N. Hilário
+411,4,3:20.0,100,112,BOS,HOU,0,away,Sub,,,,,C. Paul,A. Rivers
+412,4,3:04.0,102,112,BOS,HOU,16,home,HS,assist,7,make2,2,A. Horford,M. Smart
+413,4,2:40.0,102,112,BOS,HOU,24,away,JS,,25,miss3,0,C. Paul,
+414,4,2:38.0,102,112,BOS,HOU,2,home,DefReb,,,DefReb,,J. Brown,
+415,4,2:31.0,104,112,BOS,HOU,7,home,DK,,1,make2,2,J. Brown,
+416,4,2:14.0,104,112,BOS,HOU,17,away,JS,,13,miss2,0,E. Gordon,
+417,4,2:13.0,104,112,BOS,HOU,1,home,DefReb,,,DefReb,,J. Tatum,
+418,4,2:06.0,104,112,BOS,HOU,7,home,LU,block,3,miss2,0,J. Tatum,P. Tucker
+419,4,2:04.0,104,112,BOS,HOU,2,away,DefReb,,,DefReb,,J. Harden,
+420,4,1:44.0,104,112,BOS,HOU,20,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Harden,J. Brown
+421,4,1:44.0,104,112,BOS,HOU,0,away,OffensiveFoul,,,turnover,,J. Harden,
+422,4,1:44.0,104,112,BOS,HOU,0,away,Sub,,,,,A. Rivers,J. Harden
+423,4,1:33.0,104,112,BOS,HOU,11,home,lost ball,steal,,turnover,,K. Irving,E. Gordon
+424,4,1:10.0,104,112,BOS,HOU,23,away,JS,,23,miss3,0,A. Rivers,
+425,4,1:07.0,104,112,BOS,HOU,3,away,OffReb,,,OffReb,,P. Tucker,
+426,4,0:56.0,104,112,BOS,HOU,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brown,C. Paul
+427,4,0:50.0,104,112,BOS,HOU,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,E. Gordon
+428,4,0:50.0,104,112,BOS,HOU,0,away,FreeThrow,,,make1,0,E. Gordon,
+429,4,0:50.0,104,112,BOS,HOU,0,away,OffReb,,,OffReb,,Team,
+430,4,0:50.0,104,112,BOS,HOU,0,home,Sub,,,,,A. Baynes,J. Tatum
+431,4,0:50.0,104,113,BOS,HOU,0,away,FreeThrow,,,make1,1,E. Gordon,
+432,4,0:50.0,104,113,BOS,HOU,0,home,Timeout,,,,,,
+433,4,0:50.0,104,113,BOS,HOU,0,home,Sub,,,,,J. Tatum,A. Baynes
+434,4,0:48.0,104,113,BOS,HOU,2,home,bad pass,steal,,turnover,,M. Smart,P. Tucker
+435,4,0:42.0,104,113,BOS,HOU,6,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Tatum,C. Paul
+436,4,0:42.0,104,114,BOS,HOU,0,away,FreeThrow,,,make1,1,C. Paul,
+437,4,0:42.0,104,114,BOS,HOU,0,away,FreeThrow,,,make1,0,C. Paul,
+438,4,0:41.0,104,114,BOS,HOU,1,home,DefReb,,,DefReb,,K. Irving,
+439,4,0:36.0,104,114,BOS,HOU,5,home,JS,,27,miss3,0,K. Irving,
+440,4,0:33.0,104,114,BOS,HOU,3,away,DefReb,,,DefReb,,P. Tucker,
+441,4,0:19.0,104,114,BOS,HOU,14,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Smart,A. Rivers
+442,4,0:19.0,104,114,BOS,HOU,0,away,FreeThrow,,,make1,0,A. Rivers,
+443,4,0:19.0,104,114,BOS,HOU,0,away,OffReb,,,OffReb,,Team,
+444,4,0:19.0,104,115,BOS,HOU,0,away,FreeThrow,,,make1,1,A. Rivers,

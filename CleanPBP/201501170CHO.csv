@@ -1,0 +1,496 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:44.0,2,0,CHO,IND,16,home,JS,assist,12,make2,2,G. Henderson,C. Zeller
+1,1,11:19.0,2,2,CHO,IND,25,away,HS,,9,make2,2,R. Hibbert,
+2,1,11:06.0,2,2,CHO,IND,13,home,JS,,14,miss2,0,M. Kidd-Gilchrist,
+3,1,11:06.0,2,2,CHO,IND,0,away,DefReb,,,DefReb,,D. West,
+4,1,10:52.0,2,2,CHO,IND,14,away,D3SecTech,,,,,,
+5,1,10:52.0,2,2,CHO,IND,0,away,FreeThrow,,,make1,0,C. Watson misses technical free throw,
+6,1,10:52.0,2,2,CHO,IND,0,away,OffReb,,,OffReb,,Team,
+7,1,10:38.0,2,2,CHO,IND,14,away,JS,,9,miss2,0,D. West,
+8,1,10:37.0,2,2,CHO,IND,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+9,1,10:32.0,2,2,CHO,IND,5,home,LU,block,0,miss2,0,B. Roberts,R. Hibbert
+10,1,10:29.0,2,2,CHO,IND,3,away,DefReb,,,DefReb,,R. Hibbert,
+11,1,10:16.0,2,2,CHO,IND,13,away,Timeout,,,,,,
+12,1,10:08.0,2,4,CHO,IND,8,away,JS,assist,18,make2,2,R. Hibbert,R. Stuckey
+13,1,9:54.0,2,4,CHO,IND,14,home,JS,,17,miss2,0,B. Roberts,
+14,1,9:53.0,2,4,CHO,IND,1,home,OffReb,,,OffReb,,B. Biyombo,
+15,1,9:45.0,2,4,CHO,IND,8,home,JS,block,5,miss2,0,M. Kidd-Gilchrist,R. Stuckey
+16,1,9:42.0,2,4,CHO,IND,3,away,DefReb,,,DefReb,,S. Hill,
+17,1,9:30.0,2,4,CHO,IND,12,away,LU,,0,miss2,0,D. West,
+18,1,9:29.0,2,4,CHO,IND,1,away,OffReb,,,OffReb,,D. West,
+19,1,9:29.0,2,6,CHO,IND,0,away,LU,,0,make2,2,D. West,
+20,1,9:10.0,2,6,CHO,IND,19,home,LU,,2,miss2,0,M. Kidd-Gilchrist,
+21,1,9:09.0,2,6,CHO,IND,1,home,OffReb,,,OffReb,,B. Biyombo,
+22,1,9:09.0,2,6,CHO,IND,0,home,TI,,0,miss2,0,B. Biyombo,
+23,1,9:07.0,2,6,CHO,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+24,1,8:57.0,2,6,CHO,IND,10,away,BadPass,,,turnover,,D. West,
+25,1,8:42.0,4,6,CHO,IND,15,home,JS,assist,19,make2,2,C. Zeller,G. Henderson
+26,1,8:27.0,4,6,CHO,IND,15,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. West,C. Zeller
+27,1,8:27.0,4,6,CHO,IND,0,away,OffensiveFoul,,,turnover,,D. West,
+28,1,8:16.0,4,6,CHO,IND,11,home,JS,,26,miss3,0,G. Henderson,
+29,1,8:14.0,4,6,CHO,IND,2,away,DefReb,,,DefReb,,D. West,
+30,1,7:56.0,4,8,CHO,IND,18,away,LU,,2,make2,2,R. Hibbert,
+31,1,7:36.0,6,8,CHO,IND,20,home,JS,,10,make2,2,M. Kidd-Gilchrist,
+32,1,7:19.0,6,8,CHO,IND,17,away,HS,,7,miss2,0,R. Hibbert,
+33,1,7:18.0,6,8,CHO,IND,1,home,DefReb,,,DefReb,,B. Biyombo,
+34,1,7:13.0,6,8,CHO,IND,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,G. Henderson
+35,1,7:13.0,7,8,CHO,IND,0,home,FreeThrow,,,make1,1,G. Henderson,
+36,1,7:13.0,8,8,CHO,IND,0,home,FreeThrow,,,make1,1,G. Henderson,
+37,1,7:00.0,8,10,CHO,IND,13,away,JS,,17,make2,2,R. Stuckey,
+38,1,6:45.0,10,10,CHO,IND,15,home,HS,assist,5,make2,2,C. Zeller,G. Henderson
+39,1,6:20.0,10,12,CHO,IND,25,away,JS,assist,17,make2,2,R. Stuckey,D. West
+40,1,6:06.0,10,12,CHO,IND,14,home,JS,,17,miss2,0,M. Kidd-Gilchrist,
+41,1,6:05.0,10,12,CHO,IND,1,away,DefReb,,,DefReb,,D. West,
+42,1,5:58.0,10,12,CHO,IND,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Zeller,D. West
+43,1,5:44.0,10,12,CHO,IND,14,away,BadPass,steal,,turnover,,R. Hibbert,C. Zeller
+44,1,5:34.0,10,12,CHO,IND,10,home,BadPass,steal,,turnover,,B. Biyombo,C. Watson
+45,1,5:12.0,10,14,CHO,IND,22,away,JS,,6,make2,2,D. West,
+46,1,4:57.0,10,14,CHO,IND,15,home,LU,,2,miss2,0,G. Henderson,
+47,1,4:55.0,10,14,CHO,IND,2,home,OffReb,,,OffReb,,B. Biyombo,
+48,1,4:55.0,12,14,CHO,IND,0,home,TI,,0,make2,2,B. Biyombo,
+49,1,4:45.0,12,14,CHO,IND,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Zeller,D. West
+50,1,4:45.0,12,14,CHO,IND,0,away,Sub,,,,,C. Miles,S. Hill
+51,1,4:45.0,12,14,CHO,IND,0,away,Sub,,,,,I. Mahinmi,R. Hibbert
+52,1,4:45.0,12,14,CHO,IND,0,home,Sub,,,,,L. Stephenson,C. Zeller
+53,1,4:45.0,12,14,CHO,IND,0,home,Sub,,,,,M. Williams,G. Henderson
+54,1,4:29.0,12,16,CHO,IND,16,away,LU,assist,1,make2,2,D. West,R. Stuckey
+55,1,4:13.0,12,16,CHO,IND,16,home,JS,,18,miss2,0,B. Roberts,
+56,1,4:11.0,12,16,CHO,IND,2,away,DefReb,,,DefReb,,C. Miles,
+57,1,3:55.0,12,16,CHO,IND,16,away,JS,,25,miss3,0,C. Miles,
+58,1,3:54.0,12,16,CHO,IND,1,home,DefReb,,,DefReb,,B. Biyombo,
+59,1,3:41.0,12,16,CHO,IND,13,home,LU,,1,miss2,0,M. Kidd-Gilchrist,
+60,1,3:41.0,12,16,CHO,IND,0,home,OffReb,,,OffReb,,Team,
+61,1,3:31.0,12,16,CHO,IND,10,home,BadPass,steal,,turnover,,L. Stephenson,C. Watson
+62,1,3:27.0,12,16,CHO,IND,4,away,LU,block,2,miss2,0,C. Watson,B. Biyombo
+63,1,3:25.0,12,16,CHO,IND,2,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+64,1,3:22.0,12,16,CHO,IND,3,away,ChargeFoul,DrawnBy,,ChargeFoul,,L. Stephenson,R. Stuckey
+65,1,3:22.0,12,16,CHO,IND,0,home,OffensiveFoul,,,turnover,,L. Stephenson,
+66,1,3:01.0,12,18,CHO,IND,21,away,JS,,21,make2,2,C. Miles,
+67,1,2:48.0,12,18,CHO,IND,13,home,JS,,25,miss3,0,L. Stephenson,
+68,1,2:47.0,12,18,CHO,IND,1,away,DefReb,,,DefReb,,C. Watson,
+69,1,2:36.0,12,18,CHO,IND,11,away,JS,,16,miss2,0,R. Stuckey,
+70,1,2:35.0,12,18,CHO,IND,1,home,DefReb,,,DefReb,,M. Williams,
+71,1,2:22.0,12,18,CHO,IND,13,home,JS,,24,miss3,0,M. Williams,
+72,1,2:21.0,12,18,CHO,IND,1,away,DefReb,,,DefReb,,R. Stuckey,
+73,1,2:01.0,12,18,CHO,IND,20,away,JS,,19,miss2,0,I. Mahinmi,
+74,1,2:00.0,12,18,CHO,IND,1,home,DefReb,,,DefReb,,M. Williams,
+75,1,1:53.0,12,18,CHO,IND,7,home,LostBall,steal,,turnover,,L. Stephenson,R. Stuckey
+76,1,1:53.0,12,18,CHO,IND,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Stephenson,R. Stuckey
+77,1,1:53.0,12,18,CHO,IND,0,home,Timeout,,,,,,
+78,1,1:53.0,12,18,CHO,IND,0,home,Sub,,,,,J. Maxiell,M. Kidd-Gilchrist
+79,1,1:53.0,12,18,CHO,IND,0,home,Sub,,,,,P. Hairston,B. Biyombo
+80,1,1:38.0,12,18,CHO,IND,15,away,JS,,17,miss2,0,R. Stuckey,
+81,1,1:37.0,12,18,CHO,IND,1,home,DefReb,,,DefReb,,J. Maxiell,
+82,1,1:21.0,15,18,CHO,IND,16,home,JS,assist,25,make3,3,L. Stephenson,B. Roberts
+83,1,1:03.0,15,18,CHO,IND,18,away,BadPass,steal,,turnover,,C. Miles,J. Maxiell
+84,1,0:58.0,15,18,CHO,IND,5,home,JS,,16,miss2,0,B. Roberts,
+85,1,0:55.0,15,18,CHO,IND,3,home,OffReb,,,OffReb,,L. Stephenson,
+86,1,0:45.0,17,18,CHO,IND,10,home,JS,assist,9,make2,2,M. Williams,L. Stephenson
+87,1,0:24.0,17,18,CHO,IND,21,away,JS,,19,miss2,0,C. Miles,
+88,1,0:22.0,17,18,CHO,IND,2,away,OffReb,,,OffReb,,R. Stuckey,
+89,1,0:03.0,17,20,CHO,IND,19,away,JS,assist,13,make2,2,C. Miles,R. Stuckey
+90,1,0:03.0,17,20,CHO,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Hairston,C. Miles
+91,1,0:03.0,17,20,CHO,IND,0,away,Sub,,,,,L. Scola,D. West
+92,1,0:03.0,17,20,CHO,IND,0,away,Sub,,,,,D. Sloan,C. Watson
+93,1,0:03.0,17,21,CHO,IND,0,away,FreeThrow,,,make1,1,C. Miles,
+94,1,0:00.0,17,21,CHO,IND,3,home,JS,,51,miss3,0,P. Hairston,
+95,1,0:00.0,17,21,CHO,IND,0,home,OffReb,,,OffReb,,Team,
+96,2,11:40.0,17,21,CHO,IND,20,away,BadPass,steal,,turnover,,L. Scola,P. Hairston
+97,2,11:30.0,19,21,CHO,IND,10,home,JS,assist,5,make2,2,L. Stephenson,G. Neal
+98,2,11:18.0,19,21,CHO,IND,12,away,JS,,25,miss3,0,C. Miles,
+99,2,11:12.0,19,21,CHO,IND,6,home,DefReb,,,DefReb,,L. Stephenson,
+100,2,11:01.0,19,21,CHO,IND,11,home,JS,,26,miss3,0,G. Neal,
+101,2,11:00.0,19,21,CHO,IND,1,away,DefReb,,,DefReb,,I. Mahinmi,
+102,2,10:49.0,19,23,CHO,IND,11,away,JS,assist,19,make2,2,D. Rudež,D. Sloan
+103,2,10:29.0,21,23,CHO,IND,20,home,LU,,2,make2,2,G. Neal,
+104,2,10:22.0,21,25,CHO,IND,7,away,LU,,1,make2,2,D. Sloan,
+105,2,10:05.0,21,25,CHO,IND,17,home,JS,,18,miss2,0,L. Stephenson,
+106,2,10:04.0,21,25,CHO,IND,1,away,DefReb,,,DefReb,,D. Sloan,
+107,2,9:59.0,21,25,CHO,IND,5,away,LU,,1,miss2,0,L. Scola,
+108,2,9:57.0,21,25,CHO,IND,2,home,DefReb,,,DefReb,,J. Maxiell,
+109,2,9:46.0,21,25,CHO,IND,11,home,JS,,2,miss2,0,L. Stephenson,
+110,2,9:45.0,21,25,CHO,IND,1,home,OffReb,,,OffReb,,L. Stephenson,
+111,2,9:45.0,23,25,CHO,IND,0,home,LU,,2,make2,2,L. Stephenson,
+112,2,9:19.0,23,25,CHO,IND,26,away,LU,block,1,miss2,0,I. Mahinmi,J. Maxiell
+113,2,9:18.0,23,25,CHO,IND,1,home,DefReb,,,DefReb,,J. Maxiell,
+114,2,9:09.0,25,25,CHO,IND,9,home,JS,,14,make2,2,G. Neal,
+115,2,8:54.0,25,25,CHO,IND,15,away,BadPass,,,turnover,,C. Miles,
+116,2,8:54.0,25,25,CHO,IND,0,away,Timeout,,,,,,
+117,2,8:42.0,27,25,CHO,IND,12,home,JS,,19,make2,2,G. Neal,
+118,2,8:29.0,27,25,CHO,IND,13,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,I. Mahinmi,J. Maxiell
+119,2,8:29.0,27,25,CHO,IND,0,away,OffensiveFoul,,,turnover,,I. Mahinmi,
+120,2,8:24.0,27,25,CHO,IND,5,home,Sub,,,,,C. Zeller,M. Williams
+121,2,8:10.0,27,25,CHO,IND,14,home,JS,,6,miss2,0,J. Maxiell,
+122,2,8:09.0,27,25,CHO,IND,1,away,DefReb,,,DefReb,,I. Mahinmi,
+123,2,8:01.0,27,25,CHO,IND,8,away,BadPass,,,turnover,,I. Mahinmi,
+124,2,7:50.0,27,25,CHO,IND,11,home,JS,,19,miss2,0,L. Stephenson,
+125,2,7:49.0,27,25,CHO,IND,1,away,DefReb,,,DefReb,,I. Mahinmi,
+126,2,7:35.0,27,25,CHO,IND,14,away,JS,,11,miss2,0,D. Rudež,
+127,2,7:34.0,27,25,CHO,IND,1,home,DefReb,,,DefReb,,G. Neal,
+128,2,7:33.0,27,25,CHO,IND,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Scola,C. Zeller
+129,2,7:15.0,29,25,CHO,IND,18,home,JS,assist,15,make2,2,C. Zeller,L. Stephenson
+130,2,7:13.0,29,25,CHO,IND,2,away,Timeout,,,,,,
+131,2,7:13.0,29,25,CHO,IND,0,home,Sub,,,,,G. Henderson,L. Stephenson
+132,2,6:57.0,29,25,CHO,IND,16,away,HS,,3,miss2,0,I. Mahinmi,
+133,2,6:55.0,29,25,CHO,IND,2,away,OffReb,,,OffReb,,L. Scola,
+134,2,6:55.0,29,25,CHO,IND,0,away,TI,,1,miss2,0,L. Scola,
+135,2,6:54.0,29,25,CHO,IND,1,home,DefReb,,,DefReb,,J. Maxiell,
+136,2,6:49.0,29,25,CHO,IND,5,home,JS,,25,miss3,0,P. Hairston,
+137,2,6:47.0,29,25,CHO,IND,2,away,DefReb,,,DefReb,,D. Rudež,
+138,2,6:40.0,29,27,CHO,IND,7,away,LU,,0,make2,2,D. Sloan,
+139,2,6:27.0,29,27,CHO,IND,13,home,JS,,16,miss2,0,G. Neal,
+140,2,6:26.0,29,27,CHO,IND,1,away,DefReb,,,DefReb,,D. Rudež,
+141,2,6:08.0,29,27,CHO,IND,18,away,JS,,17,miss2,0,L. Scola,
+142,2,6:07.0,29,27,CHO,IND,1,home,DefReb,,,DefReb,,G. Henderson,
+143,2,5:58.0,29,27,CHO,IND,9,home,JS,,20,miss2,0,G. Neal,
+144,2,5:57.0,29,27,CHO,IND,1,away,DefReb,,,DefReb,,I. Mahinmi,
+145,2,5:38.0,29,27,CHO,IND,19,away,JS,,26,miss3,0,C. Miles,
+146,2,5:37.0,29,27,CHO,IND,1,home,DefReb,,,DefReb,,C. Zeller,
+147,2,5:22.0,29,27,CHO,IND,15,home,JS,,12,miss2,0,G. Henderson,
+148,2,5:21.0,29,27,CHO,IND,1,away,DefReb,,,DefReb,,C. Miles,
+149,2,5:06.0,29,27,CHO,IND,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Hairston,I. Mahinmi
+150,2,5:06.0,29,27,CHO,IND,0,away,Sub,,,,,D. West,C. Miles
+151,2,5:06.0,29,27,CHO,IND,0,away,Sub,,,,,S. Hill,L. Scola
+152,2,5:06.0,29,27,CHO,IND,0,home,Sub,,,,,M. Kidd-Gilchrist,J. Maxiell
+153,2,5:06.0,29,27,CHO,IND,0,home,Sub,,,,,B. Roberts,P. Hairston
+154,2,5:06.0,29,27,CHO,IND,0,home,Sub,,,,,B. Biyombo,G. Neal
+155,2,4:55.0,29,29,CHO,IND,11,away,JS,assist,18,make2,2,D. West,D. Sloan
+156,2,4:39.0,29,29,CHO,IND,16,home,JS,,15,miss2,0,B. Roberts,
+157,2,4:37.0,29,29,CHO,IND,2,away,DefReb,,,DefReb,,S. Hill,
+158,2,4:26.0,29,31,CHO,IND,11,away,JS,assist,18,make2,2,D. West,S. Hill
+159,2,4:19.0,29,31,CHO,IND,7,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,I. Mahinmi,G. Henderson
+160,2,4:19.0,30,31,CHO,IND,0,home,FreeThrow,,,make1,1,G. Henderson,
+161,2,4:19.0,30,31,CHO,IND,0,away,Sub,,,,,R. Hibbert,I. Mahinmi
+162,2,4:19.0,31,31,CHO,IND,0,home,FreeThrow,,,make1,1,G. Henderson,
+163,2,4:03.0,31,33,CHO,IND,16,away,JS,assist,17,make2,2,D. West,S. Hill
+164,2,3:45.0,33,33,CHO,IND,18,home,JS,assist,17,make2,2,G. Henderson,M. Kidd-Gilchrist
+165,2,3:32.0,33,33,CHO,IND,13,away,JS,,9,miss2,0,D. West,
+166,2,3:31.0,33,33,CHO,IND,1,home,DefReb,,,DefReb,,B. Biyombo,
+167,2,3:08.0,33,33,CHO,IND,23,home,JS,,3,miss2,0,C. Zeller,
+168,2,3:07.0,33,33,CHO,IND,1,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
+169,2,3:07.0,33,33,CHO,IND,0,home,LU,block,2,miss2,0,M. Kidd-Gilchrist,D. West
+170,2,3:07.0,33,33,CHO,IND,0,away,DefReb,,,DefReb,,Team,
+171,2,3:07.0,33,33,CHO,IND,0,home,Sub,,,,,M. Williams,C. Zeller
+172,2,2:50.0,33,35,CHO,IND,17,away,JS,assist,6,make2,2,D. West,R. Hibbert
+173,2,2:35.0,33,35,CHO,IND,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,G. Henderson
+174,2,2:35.0,33,35,CHO,IND,0,home,Timeout,,,,,,
+175,2,2:26.0,33,35,CHO,IND,9,home,LostBall,steal,,turnover,,M. Kidd-Gilchrist,D. West
+176,2,2:05.0,33,38,CHO,IND,21,away,JS,assist,22,make3,3,D. Sloan,D. West
+177,2,1:46.0,33,38,CHO,IND,19,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. West,G. Henderson
+178,2,1:39.0,33,38,CHO,IND,7,home,JS,,25,miss3,0,M. Williams,
+179,2,1:37.0,33,38,CHO,IND,2,home,OffReb,,,OffReb,,Team,
+180,2,1:34.0,35,38,CHO,IND,3,home,JS,assist,19,make2,2,B. Roberts,M. Kidd-Gilchrist
+181,2,1:13.0,35,38,CHO,IND,21,away,BadPass,steal,,turnover,,R. Hibbert,M. Williams
+182,2,1:06.0,35,38,CHO,IND,7,home,LU,,2,miss2,0,M. Williams,
+183,2,1:05.0,35,38,CHO,IND,1,away,DefReb,,,DefReb,,R. Hibbert,
+184,2,0:54.0,35,40,CHO,IND,11,away,HS,,15,make2,2,R. Hibbert,
+185,2,0:39.0,35,40,CHO,IND,15,home,JS,,16,miss2,0,M. Kidd-Gilchrist,
+186,2,0:37.0,35,40,CHO,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+187,2,0:32.0,35,40,CHO,IND,5,away,Timeout,,,,,,
+188,2,0:32.0,35,40,CHO,IND,0,away,Sub,,,,,C. Miles,D. West
+189,2,0:19.0,35,40,CHO,IND,13,away,JS,,16,miss2,0,R. Hibbert,
+190,2,0:17.0,35,40,CHO,IND,2,home,DefReb,,,DefReb,,M. Williams,
+191,2,0:02.0,37,40,CHO,IND,15,home,JS,assist,9,make2,2,B. Roberts,G. Henderson
+192,3,11:43.0,37,40,CHO,IND,17,away,HS,,8,miss2,0,R. Hibbert,
+193,3,11:40.0,37,40,CHO,IND,3,home,DefReb,,,DefReb,,B. Biyombo,
+194,3,11:28.0,37,40,CHO,IND,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. West,C. Zeller
+195,3,11:19.0,37,40,CHO,IND,9,home,LU,,1,miss2,0,B. Biyombo,
+196,3,11:18.0,37,40,CHO,IND,1,home,OffReb,,,OffReb,,B. Biyombo,
+197,3,11:18.0,39,40,CHO,IND,0,home,TI,,1,make2,2,B. Biyombo,
+198,3,10:58.0,39,40,CHO,IND,20,away,JS,,25,miss3,0,C. Watson,
+199,3,10:57.0,39,40,CHO,IND,1,home,DefReb,,,DefReb,,G. Henderson,
+200,3,10:42.0,39,40,CHO,IND,15,home,LU,,2,miss2,0,M. Kidd-Gilchrist,
+201,3,10:41.0,39,40,CHO,IND,1,away,DefReb,,,DefReb,,S. Hill,
+202,3,10:26.0,39,42,CHO,IND,15,away,JS,assist,6,make2,2,D. West,R. Hibbert
+203,3,10:09.0,39,42,CHO,IND,17,home,LU,,1,miss2,0,C. Zeller,
+204,3,10:07.0,39,42,CHO,IND,2,away,DefReb,,,DefReb,,R. Stuckey,
+205,3,9:46.0,39,42,CHO,IND,21,away,HS,,7,miss2,0,R. Hibbert,
+206,3,9:44.0,39,42,CHO,IND,2,home,DefReb,,,DefReb,,G. Henderson,
+207,3,9:38.0,39,42,CHO,IND,6,home,BadPass,steal,,turnover,,B. Roberts,D. West
+208,3,9:15.0,39,42,CHO,IND,23,away,JS,,26,miss3,0,C. Watson,
+209,3,9:14.0,39,42,CHO,IND,1,away,OffReb,,,OffReb,,Team,
+210,3,9:14.0,39,42,CHO,IND,0,away,ShotClockViolation,,,turnover,,Team,
+211,3,9:03.0,41,42,CHO,IND,11,home,JS,assist,17,make2,2,G. Henderson,B. Roberts
+212,3,8:41.0,41,42,CHO,IND,22,away,JS,,18,miss2,0,R. Hibbert,
+213,3,8:40.0,41,42,CHO,IND,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+214,3,8:32.0,41,42,CHO,IND,8,home,JS,,19,miss2,0,B. Roberts,
+215,3,8:30.0,41,42,CHO,IND,2,away,DefReb,,,DefReb,,Team,
+216,3,8:30.0,41,42,CHO,IND,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,B. Biyombo,R. Hibbert
+217,3,8:18.0,41,44,CHO,IND,12,away,LU,,1,make2,2,C. Watson,
+218,3,7:55.0,41,44,CHO,IND,23,home,LU,block,1,miss2,0,B. Roberts,R. Hibbert
+219,3,7:53.0,41,44,CHO,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+220,3,7:49.0,41,44,CHO,IND,4,away,LostBall,,,turnover,,R. Stuckey,
+221,3,7:33.0,41,44,CHO,IND,16,home,JS,,9,miss2,0,G. Henderson,
+222,3,7:32.0,41,44,CHO,IND,1,away,DefReb,,,DefReb,,R. Hibbert,
+223,3,7:17.0,41,44,CHO,IND,15,away,JS,,11,miss2,0,D. West,
+224,3,7:15.0,41,44,CHO,IND,2,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+225,3,7:08.0,43,44,CHO,IND,7,home,LU,,2,make2,2,M. Kidd-Gilchrist,
+226,3,6:49.0,43,46,CHO,IND,19,away,JS,assist,17,make2,2,D. West,C. Watson
+227,3,6:33.0,43,46,CHO,IND,16,home,JS,,24,miss3,0,G. Henderson,
+228,3,6:32.0,43,46,CHO,IND,1,away,DefReb,,,DefReb,,R. Hibbert,
+229,3,6:22.0,43,48,CHO,IND,10,away,HS,assist,5,make2,2,R. Hibbert,C. Watson
+230,3,6:05.0,45,48,CHO,IND,17,home,JS,assist,12,make2,2,M. Kidd-Gilchrist,C. Zeller
+231,3,5:55.0,45,48,CHO,IND,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Biyombo,R. Hibbert
+232,3,5:55.0,45,48,CHO,IND,0,home,TechnicalFoul,,,TechnicalFoul,,B. Biyombo,
+233,3,5:55.0,45,48,CHO,IND,0,home,Timeout,,,,,,
+234,3,5:55.0,45,49,CHO,IND,0,away,FreeThrow,,,make1,1,C. Watson makes technical free throw,
+235,3,5:48.0,45,49,CHO,IND,7,away,Traveling,,,turnover,,S. Hill,
+236,3,5:29.0,45,49,CHO,IND,19,home,LU,block,1,miss2,0,M. Kidd-Gilchrist,R. Hibbert
+237,3,5:27.0,45,49,CHO,IND,2,away,DefReb,,,DefReb,,D. West,
+238,3,5:08.0,45,49,CHO,IND,19,away,OutOfBounds,,,turnover,,D. West,
+239,3,4:53.0,45,49,CHO,IND,15,home,LU,block,2,miss2,0,C. Zeller,R. Hibbert
+240,3,4:51.0,45,49,CHO,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+241,3,4:40.0,45,51,CHO,IND,11,away,LU,assist,0,make2,2,R. Stuckey,R. Hibbert
+242,3,4:40.0,45,51,CHO,IND,0,home,Timeout,,,,,,
+243,3,4:40.0,45,51,CHO,IND,0,home,Sub,,,,,M. Williams,C. Zeller
+244,3,4:40.0,45,51,CHO,IND,0,home,Sub,,,,,L. Stephenson,G. Henderson
+245,3,4:19.0,45,51,CHO,IND,21,home,Traveling,,,turnover,,M. Williams,
+246,3,4:11.0,45,51,CHO,IND,8,away,BadPass,,,turnover,,C. Watson,
+247,3,3:57.0,45,51,CHO,IND,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Stuckey,B. Biyombo
+248,3,3:57.0,45,51,CHO,IND,0,home,FreeThrow,,,make1,0,B. Biyombo,
+249,3,3:57.0,45,51,CHO,IND,0,home,OffReb,,,OffReb,,Team,
+250,3,3:57.0,45,51,CHO,IND,0,home,FreeThrow,,,make1,0,B. Biyombo,
+251,3,3:55.0,45,51,CHO,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+252,3,3:41.0,45,51,CHO,IND,14,away,BadPass,steal,,turnover,,R. Stuckey,M. Williams
+253,3,3:32.0,47,51,CHO,IND,9,home,LU,assist,1,make2,2,L. Stephenson,B. Roberts
+254,3,3:20.0,47,51,CHO,IND,12,away,Traveling,,,turnover,,R. Hibbert,
+255,3,3:09.0,47,51,CHO,IND,11,home,JS,,17,miss2,0,L. Stephenson,
+256,3,3:07.0,47,51,CHO,IND,2,away,DefReb,,,DefReb,,D. West,
+257,3,3:04.0,47,51,CHO,IND,3,home,ChargeFoul,DrawnBy,,ChargeFoul,,R. Stuckey,B. Roberts
+258,3,3:04.0,47,51,CHO,IND,0,away,OffensiveFoul,,,turnover,,R. Stuckey,
+259,3,3:02.0,47,51,CHO,IND,2,away,Sub,,,,,C. Miles,S. Hill
+260,3,2:44.0,47,51,CHO,IND,18,home,JS,,21,miss2,0,M. Williams,
+261,3,2:42.0,47,51,CHO,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+262,3,2:29.0,47,51,CHO,IND,13,away,JS,,24,miss3,0,C. Miles,
+263,3,2:28.0,47,51,CHO,IND,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+264,3,2:09.0,47,51,CHO,IND,19,home,LU,block,1,miss2,0,L. Stephenson,R. Hibbert
+265,3,2:07.0,47,51,CHO,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+266,3,2:01.0,47,51,CHO,IND,6,away,JS,,14,miss2,0,R. Stuckey,
+267,3,1:59.0,47,51,CHO,IND,2,home,DefReb,,,DefReb,,B. Biyombo,
+268,3,1:52.0,47,51,CHO,IND,7,home,JS,,25,miss3,0,M. Williams,
+269,3,1:50.0,47,51,CHO,IND,2,home,OffReb,,,OffReb,,B. Biyombo,
+270,3,1:49.0,47,51,CHO,IND,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. West,B. Biyombo
+271,3,1:49.0,47,51,CHO,IND,0,away,Timeout,,,,,,
+272,3,1:49.0,47,51,CHO,IND,0,away,Sub,,,,,L. Scola,D. West
+273,3,1:49.0,47,51,CHO,IND,0,home,Sub,,,,,P. Hairston,M. Kidd-Gilchrist
+274,3,1:49.0,48,51,CHO,IND,0,home,FreeThrow,,,make1,1,B. Biyombo,
+275,3,1:49.0,48,51,CHO,IND,0,home,FreeThrow,,,make1,0,B. Biyombo,
+276,3,1:47.0,48,51,CHO,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+277,3,1:27.0,48,51,CHO,IND,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Biyombo,R. Hibbert
+278,3,1:27.0,48,51,CHO,IND,0,away,FreeThrow,,,make1,0,R. Hibbert,
+279,3,1:27.0,48,51,CHO,IND,0,away,OffReb,,,OffReb,,Team,
+280,3,1:27.0,48,51,CHO,IND,0,home,Sub,,,,,J. Maxiell,B. Biyombo
+281,3,1:27.0,48,51,CHO,IND,0,away,Sub,,,,,D. Rudež,R. Stuckey
+282,3,1:27.0,48,51,CHO,IND,0,away,Sub,,,,,D. Sloan,C. Watson
+283,3,1:27.0,48,51,CHO,IND,0,away,FreeThrow,,,make1,0,R. Hibbert,
+284,3,1:24.0,48,51,CHO,IND,3,home,DefReb,,,DefReb,,M. Williams,
+285,3,1:12.0,48,51,CHO,IND,12,home,LU,,2,miss2,0,J. Maxiell,
+286,3,1:10.0,48,51,CHO,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+287,3,1:05.0,48,51,CHO,IND,5,away,JS,,24,miss3,0,C. Miles,
+288,3,1:02.0,48,51,CHO,IND,3,home,DefReb,,,DefReb,,M. Williams,
+289,3,0:58.0,48,51,CHO,IND,4,home,JS,,12,miss2,0,B. Roberts,
+290,3,0:55.0,48,51,CHO,IND,3,away,DefReb,,,DefReb,,L. Scola,
+291,3,0:38.0,48,51,CHO,IND,17,away,JS,,17,miss2,0,R. Hibbert,
+292,3,0:37.0,48,51,CHO,IND,1,home,DefReb,,,DefReb,,M. Williams,
+293,3,0:31.0,50,51,CHO,IND,6,home,LU,,1,make2,2,L. Stephenson,
+294,3,0:31.0,50,51,CHO,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Miles,L. Stephenson
+295,3,0:31.0,50,51,CHO,IND,0,away,Sub,,,,,I. Mahinmi,R. Hibbert
+296,3,0:31.0,50,51,CHO,IND,0,home,FreeThrow,,,make1,0,L. Stephenson,
+297,3,0:31.0,50,51,CHO,IND,0,home,OffReb,,,OffReb,,J. Maxiell,
+298,3,0:27.0,50,51,CHO,IND,4,home,JS,,25,miss3,0,P. Hairston,
+299,3,0:26.0,50,51,CHO,IND,1,away,DefReb,,,DefReb,,L. Scola,
+300,3,0:05.0,50,51,CHO,IND,21,away,JS,,25,miss3,0,D. Sloan,
+301,3,0:04.0,50,51,CHO,IND,1,home,DefReb,,,DefReb,,B. Roberts,
+302,3,0:00.0,50,51,CHO,IND,4,home,JS,,10,miss2,0,B. Roberts,
+303,3,0:00.0,50,51,CHO,IND,0,home,OffReb,,,OffReb,,Team,
+304,4,11:48.0,50,51,CHO,IND,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Mahinmi,L. Stephenson
+305,4,11:48.0,51,51,CHO,IND,0,home,FreeThrow,,,make1,1,L. Stephenson,
+306,4,11:48.0,52,51,CHO,IND,0,home,FreeThrow,,,make1,1,L. Stephenson,
+307,4,11:29.0,52,51,CHO,IND,19,away,BadPass,steal,,turnover,,I. Mahinmi,M. Williams
+308,4,11:22.0,54,51,CHO,IND,7,home,JS,,18,make2,2,G. Neal,
+309,4,11:05.0,54,51,CHO,IND,17,away,JS,,25,miss3,0,D. Rudež,
+310,4,11:05.0,54,51,CHO,IND,0,home,DefReb,,,DefReb,,Team,
+311,4,10:52.0,54,51,CHO,IND,13,home,LU,,0,miss2,0,L. Stephenson,
+312,4,10:52.0,54,51,CHO,IND,0,away,DefReb,,,DefReb,,Team,
+313,4,10:52.0,54,51,CHO,IND,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Maxiell,C. Miles
+314,4,10:31.0,54,51,CHO,IND,21,away,JS,block,6,miss2,0,L. Scola,M. Williams
+315,4,10:30.0,54,51,CHO,IND,1,away,OffReb,,,OffReb,,L. Scola,
+316,4,10:26.0,54,51,CHO,IND,4,away,JS,,25,miss3,0,D. Rudež,
+317,4,10:25.0,54,51,CHO,IND,1,home,DefReb,,,DefReb,,P. Hairston,
+318,4,10:14.0,54,51,CHO,IND,11,home,JS,,25,miss3,0,P. Hairston,
+319,4,10:13.0,54,51,CHO,IND,1,away,DefReb,,,DefReb,,I. Mahinmi,
+320,4,10:04.0,54,51,CHO,IND,9,away,JS,,27,miss3,0,C. Miles,
+321,4,10:03.0,54,51,CHO,IND,1,home,DefReb,,,DefReb,,Team,
+322,4,9:47.0,54,51,CHO,IND,16,home,JS,,20,miss2,0,M. Williams,
+323,4,9:45.0,54,51,CHO,IND,2,away,DefReb,,,DefReb,,C. Miles,
+324,4,9:32.0,54,53,CHO,IND,13,away,DK,assist,0,make2,2,I. Mahinmi,D. Sloan
+325,4,9:12.0,54,53,CHO,IND,20,home,LU,,1,miss2,0,J. Maxiell,
+326,4,9:11.0,54,53,CHO,IND,1,away,DefReb,,,DefReb,,I. Mahinmi,
+327,4,9:08.0,54,53,CHO,IND,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Neal,D. Sloan
+328,4,9:08.0,54,54,CHO,IND,0,away,FreeThrow,,,make1,1,D. Sloan,
+329,4,9:08.0,54,54,CHO,IND,0,home,Sub,,,,,C. Zeller,M. Williams
+330,4,9:08.0,54,55,CHO,IND,0,away,FreeThrow,,,make1,1,D. Sloan,
+331,4,8:56.0,54,55,CHO,IND,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Sloan,G. Neal
+332,4,8:56.0,54,55,CHO,IND,0,away,Timeout,,,,,,
+333,4,8:56.0,54,55,CHO,IND,0,home,FreeThrow,,,make1,0,G. Neal,
+334,4,8:56.0,54,55,CHO,IND,0,home,OffReb,,,OffReb,,Team,
+335,4,8:56.0,55,55,CHO,IND,0,home,FreeThrow,,,make1,1,G. Neal,
+336,4,8:43.0,55,57,CHO,IND,13,away,LU,,1,make2,2,D. Sloan,
+337,4,8:22.0,55,57,CHO,IND,21,home,JS,,14,miss2,0,G. Neal,
+338,4,8:20.0,55,57,CHO,IND,2,home,OffReb,,,OffReb,,C. Zeller,
+339,4,8:20.0,55,57,CHO,IND,0,home,TI,,1,miss2,0,C. Zeller,
+340,4,8:18.0,55,57,CHO,IND,2,away,DefReb,,,DefReb,,I. Mahinmi,
+341,4,8:11.0,55,57,CHO,IND,7,away,LU,block,0,miss2,0,L. Scola,C. Zeller
+342,4,8:10.0,55,57,CHO,IND,1,home,DefReb,,,DefReb,,L. Stephenson,
+343,4,8:10.0,55,57,CHO,IND,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Sloan,C. Zeller
+344,4,7:53.0,55,57,CHO,IND,17,home,JS,,28,miss3,0,G. Neal,
+345,4,7:52.0,55,57,CHO,IND,1,away,DefReb,,,DefReb,,I. Mahinmi,
+346,4,7:35.0,55,59,CHO,IND,17,away,JS,assist,17,make2,2,D. Rudež,D. Sloan
+347,4,7:17.0,55,59,CHO,IND,18,home,JS,,10,miss2,0,P. Hairston,
+348,4,7:16.0,55,59,CHO,IND,1,away,DefReb,,,DefReb,,D. Sloan,
+349,4,6:56.0,55,59,CHO,IND,20,away,JS,,15,miss2,0,C. Miles,
+350,4,6:55.0,55,59,CHO,IND,1,away,OffReb,,,OffReb,,L. Scola,
+351,4,6:43.0,55,61,CHO,IND,12,away,LU,,2,make2,2,D. Sloan,
+352,4,6:34.0,55,61,CHO,IND,9,home,Timeout,,,,,,
+353,4,6:34.0,55,61,CHO,IND,0,away,Sub,,,,,S. Hill,C. Miles
+354,4,6:26.0,55,61,CHO,IND,8,home,Sub,,,,,B. Biyombo,L. Stephenson
+355,4,6:26.0,55,61,CHO,IND,0,home,Sub,,,,,G. Henderson,J. Maxiell
+356,4,6:26.0,55,61,CHO,IND,0,home,Sub,,,,,M. Kidd-Gilchrist,P. Hairston
+357,4,6:17.0,55,61,CHO,IND,9,home,JS,,16,miss2,0,G. Henderson,
+358,4,6:15.0,55,61,CHO,IND,2,away,DefReb,,,DefReb,,Team,
+359,4,5:52.0,55,61,CHO,IND,23,away,JS,,27,miss3,0,D. Sloan,
+360,4,5:50.0,55,61,CHO,IND,2,home,DefReb,,,DefReb,,Team,
+361,4,5:33.0,55,61,CHO,IND,17,home,JS,,18,miss2,0,G. Neal,
+362,4,5:33.0,55,61,CHO,IND,0,away,DefReb,,,DefReb,,Team,
+363,4,5:33.0,55,61,CHO,IND,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,B. Biyombo,I. Mahinmi
+364,4,5:33.0,55,61,CHO,IND,0,home,Sub,,,,,B. Roberts,G. Neal
+365,4,5:33.0,55,61,CHO,IND,0,away,Sub,,,,,D. West,L. Scola
+366,4,5:18.0,55,61,CHO,IND,15,away,HS,block,5,miss2,0,I. Mahinmi,B. Biyombo
+367,4,5:15.0,55,61,CHO,IND,3,home,DefReb,,,DefReb,,C. Zeller,
+368,4,4:59.0,55,61,CHO,IND,16,home,LU,,1,miss2,0,G. Henderson,
+369,4,4:57.0,55,61,CHO,IND,2,away,DefReb,,,DefReb,,I. Mahinmi,
+370,4,4:46.0,55,61,CHO,IND,11,away,JS,,18,miss2,0,D. West,
+371,4,4:45.0,55,61,CHO,IND,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+372,4,4:36.0,55,61,CHO,IND,9,home,JS,,18,miss2,0,C. Zeller,
+373,4,4:33.0,55,61,CHO,IND,3,home,OffReb,,,OffReb,,B. Biyombo,
+374,4,4:30.0,55,61,CHO,IND,3,home,HS,,3,miss2,0,B. Biyombo,
+375,4,4:28.0,55,61,CHO,IND,2,away,DefReb,,,DefReb,,Team,
+376,4,4:25.0,55,61,CHO,IND,3,away,Sub,,,,,R. Stuckey,D. Rudež
+377,4,4:05.0,55,61,CHO,IND,20,away,JS,,5,miss2,0,D. West,
+378,4,4:04.0,55,61,CHO,IND,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+379,4,4:01.0,57,61,CHO,IND,3,home,LU,,1,make2,2,M. Kidd-Gilchrist,
+380,4,4:01.0,57,61,CHO,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,M. Kidd-Gilchrist
+381,4,4:01.0,57,61,CHO,IND,0,away,Sub,,,,,C. Watson,I. Mahinmi
+382,4,4:01.0,57,61,CHO,IND,0,away,Sub,,,,,R. Hibbert,D. Sloan
+383,4,4:01.0,57,61,CHO,IND,0,home,Sub,,,,,M. Williams,C. Zeller
+384,4,4:01.0,58,61,CHO,IND,0,home,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
+385,4,3:47.0,58,61,CHO,IND,14,away,JS,,14,miss2,0,D. West,
+386,4,3:46.0,58,61,CHO,IND,1,home,DefReb,,,DefReb,,B. Roberts,
+387,4,3:34.0,60,61,CHO,IND,12,home,JS,assist,6,make2,2,G. Henderson,M. Kidd-Gilchrist
+388,4,3:33.0,60,61,CHO,IND,1,away,Timeout,,,,,,
+389,4,3:15.0,60,63,CHO,IND,18,away,HS,assist,7,make2,2,R. Hibbert,R. Stuckey
+390,4,3:00.0,62,63,CHO,IND,15,home,JS,,15,make2,2,G. Henderson,
+391,4,2:35.0,62,63,CHO,IND,25,away,JS,,25,miss3,0,R. Stuckey,
+392,4,2:34.0,62,63,CHO,IND,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+393,4,2:24.0,62,63,CHO,IND,10,home,JS,,17,miss2,0,G. Henderson,
+394,4,2:22.0,62,63,CHO,IND,2,away,DefReb,,,DefReb,,S. Hill,
+395,4,2:12.0,62,63,CHO,IND,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Roberts,C. Watson
+396,4,2:12.0,62,64,CHO,IND,0,away,FreeThrow,,,make1,1,C. Watson,
+397,4,2:12.0,62,65,CHO,IND,0,away,FreeThrow,,,make1,1,C. Watson,
+398,4,1:55.0,62,65,CHO,IND,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,G. Henderson
+399,4,1:55.0,63,65,CHO,IND,0,home,FreeThrow,,,make1,1,G. Henderson,
+400,4,1:55.0,64,65,CHO,IND,0,home,FreeThrow,,,make1,1,G. Henderson,
+401,4,1:48.0,64,65,CHO,IND,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Williams,D. West
+402,4,1:48.0,64,66,CHO,IND,0,away,FreeThrow,,,make1,1,D. West,
+403,4,1:48.0,64,66,CHO,IND,0,away,FreeThrow,,,make1,0,D. West,
+404,4,1:47.0,64,66,CHO,IND,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+405,4,1:28.0,64,66,CHO,IND,19,home,JS,,16,miss2,0,G. Henderson,
+406,4,1:27.0,64,66,CHO,IND,1,home,OffReb,,,OffReb,,Team,
+407,4,1:27.0,64,66,CHO,IND,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Hibbert,B. Biyombo
+408,4,1:27.0,64,66,CHO,IND,0,home,FreeThrow,,,make1,0,B. Biyombo,
+409,4,1:27.0,64,66,CHO,IND,0,home,OffReb,,,OffReb,,Team,
+410,4,1:27.0,65,66,CHO,IND,0,home,FreeThrow,,,make1,1,B. Biyombo,
+411,4,1:04.0,65,66,CHO,IND,23,away,HS,,6,miss2,0,R. Hibbert,
+412,4,1:03.0,65,66,CHO,IND,1,home,DefReb,,,DefReb,,B. Biyombo,
+413,4,0:51.0,68,66,CHO,IND,12,home,JS,assist,25,make3,3,M. Williams,G. Henderson
+414,4,0:51.0,68,66,CHO,IND,0,away,Timeout,,,,,,
+415,4,0:51.0,68,66,CHO,IND,0,away,Sub,,,,,C. Miles,R. Stuckey
+416,4,0:40.0,68,66,CHO,IND,11,away,JS,,5,miss2,0,C. Miles,
+417,4,0:38.0,68,66,CHO,IND,2,away,OffReb,,,OffReb,,C. Miles,
+418,4,0:34.0,68,66,CHO,IND,4,away,JS,,25,miss3,0,C. Miles,
+419,4,0:34.0,68,66,CHO,IND,0,home,DefReb,,,DefReb,,Team,
+420,4,0:34.0,68,66,CHO,IND,0,away,Sub,,,,,R. Stuckey,C. Miles
+421,4,0:34.0,68,66,CHO,IND,0,home,Sub,,,,,G. Neal,M. Kidd-Gilchrist
+422,4,0:16.0,68,66,CHO,IND,18,home,JS,,25,miss3,0,G. Neal,
+423,4,0:15.0,68,66,CHO,IND,1,away,DefReb,,,DefReb,,D. West,
+424,4,0:13.0,68,66,CHO,IND,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Roberts,R. Stuckey
+425,4,0:13.0,68,67,CHO,IND,0,away,FreeThrow,,,make1,1,R. Stuckey,
+426,4,0:13.0,68,68,CHO,IND,0,away,FreeThrow,,,make1,1,R. Stuckey,
+427,4,0:13.0,68,68,CHO,IND,0,home,Timeout,,,,,,
+428,4,0:13.0,68,68,CHO,IND,0,home,Sub,,,,,C. Zeller,B. Biyombo
+429,4,0:03.0,68,68,CHO,IND,10,home,JS,,19,miss2,0,G. Henderson,
+430,4,0:02.0,68,68,CHO,IND,1,away,DefReb,,,DefReb,,C. Watson,
+431,1OT,4:37.0,68,68,CHO,IND,443,away,JS,,18,miss2,0,C. Watson,
+432,1OT,4:36.0,68,68,CHO,IND,1,home,DefReb,,,DefReb,,G. Henderson,
+433,1OT,4:32.0,70,68,CHO,IND,4,home,LU,,1,make2,2,G. Henderson,
+434,1OT,4:32.0,70,68,CHO,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Watson,G. Henderson
+435,1OT,4:32.0,71,68,CHO,IND,0,home,FreeThrow,,,make1,1,G. Henderson,
+436,1OT,4:17.0,71,68,CHO,IND,15,away,JS,,16,miss2,0,R. Stuckey,
+437,1OT,4:16.0,71,68,CHO,IND,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+438,1OT,4:04.0,71,68,CHO,IND,12,home,LU,block,2,miss2,0,B. Biyombo,R. Hibbert
+439,1OT,4:02.0,71,68,CHO,IND,2,away,DefReb,,,DefReb,,R. Stuckey,
+440,1OT,3:56.0,71,68,CHO,IND,6,away,LostBall,,,turnover,,C. Watson,
+441,1OT,3:43.0,71,68,CHO,IND,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,G. Henderson
+442,1OT,3:43.0,71,68,CHO,IND,0,home,FreeThrow,,,make1,0,G. Henderson,
+443,1OT,3:43.0,71,68,CHO,IND,0,home,OffReb,,,OffReb,,Team,
+444,1OT,3:43.0,71,68,CHO,IND,0,away,Sub,,,,,D. Sloan,C. Watson
+445,1OT,3:43.0,71,68,CHO,IND,0,away,Sub,,,,,D. Rudež,R. Stuckey
+446,1OT,3:43.0,72,68,CHO,IND,0,home,FreeThrow,,,make1,1,G. Henderson,
+447,1OT,3:27.0,72,68,CHO,IND,16,away,BadPass,steal,,turnover,,D. Sloan,M. Kidd-Gilchrist
+448,1OT,3:27.0,72,68,CHO,IND,0,home,Timeout,,,,,,
+449,1OT,3:09.0,72,68,CHO,IND,18,home,JS,,19,miss2,0,M. Williams,
+450,1OT,3:07.0,72,68,CHO,IND,2,home,OffReb,,,OffReb,,B. Biyombo,
+451,1OT,3:07.0,74,68,CHO,IND,0,home,TI,,0,make2,2,B. Biyombo,
+452,1OT,2:52.0,74,68,CHO,IND,15,away,JS,,5,miss2,0,D. Sloan,
+453,1OT,2:51.0,74,68,CHO,IND,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+454,1OT,2:37.0,74,68,CHO,IND,14,home,JS,,17,miss2,0,G. Henderson,
+455,1OT,2:35.0,74,68,CHO,IND,2,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
+456,1OT,2:18.0,74,68,CHO,IND,17,home,JS,block,4,miss2,0,B. Roberts,D. Rudež
+457,1OT,2:16.0,74,68,CHO,IND,2,away,DefReb,,,DefReb,,R. Hibbert,
+458,1OT,2:07.0,74,68,CHO,IND,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Kidd-Gilchrist,D. West
+459,1OT,1:58.0,74,68,CHO,IND,9,away,JS,,24,miss3,0,D. Rudež,
+460,1OT,1:57.0,74,68,CHO,IND,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+461,1OT,1:38.0,74,68,CHO,IND,19,home,LU,,2,miss2,0,G. Henderson,
+462,1OT,1:37.0,74,68,CHO,IND,1,away,DefReb,,,DefReb,,D. West,
+463,1OT,1:25.0,74,68,CHO,IND,12,away,JS,,7,miss2,0,S. Hill,
+464,1OT,1:24.0,74,68,CHO,IND,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+465,1OT,1:23.0,74,68,CHO,IND,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Hibbert,M. Kidd-Gilchrist
+466,1OT,1:09.0,76,68,CHO,IND,14,home,JS,assist,19,make2,2,M. Williams,B. Roberts
+467,1OT,1:09.0,76,68,CHO,IND,0,away,Timeout,,,,,,
+468,1OT,1:09.0,76,68,CHO,IND,0,away,Sub,,,,,C. Watson,S. Hill
+469,1OT,1:09.0,76,68,CHO,IND,0,away,Sub,,,,,R. Stuckey,D. Sloan
+470,1OT,0:54.0,76,68,CHO,IND,15,away,JS,,25,miss3,0,D. West,
+471,1OT,0:51.0,76,68,CHO,IND,3,home,DefReb,,,DefReb,,B. Biyombo,
+472,1OT,0:34.0,76,68,CHO,IND,17,home,LU,block,2,miss2,0,G. Henderson,D. West
+473,1OT,0:34.0,76,68,CHO,IND,0,home,OffReb,,,OffReb,,M. Williams,
+474,1OT,0:34.0,78,68,CHO,IND,0,home,JS,,21,make2,2,M. Williams,
+475,1OT,0:34.0,78,68,CHO,IND,0,away,Timeout,,,,,,
+476,1OT,0:34.0,78,68,CHO,IND,0,away,Sub,,,,,C. Miles,R. Hibbert
+477,1OT,0:34.0,78,68,CHO,IND,0,away,Sub,,,,,C. Copeland,R. Stuckey
+478,1OT,0:34.0,78,68,CHO,IND,0,home,Sub,,,,,C. Zeller,B. Biyombo
+479,1OT,0:30.0,78,71,CHO,IND,4,away,JS,assist,25,make3,3,C. Watson,D. Rudež
+480,1OT,0:30.0,78,71,CHO,IND,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,C. Watson,B. Roberts
+481,1OT,0:30.0,79,71,CHO,IND,0,home,FreeThrow,,,make1,1,B. Roberts,
+482,1OT,0:30.0,80,71,CHO,IND,0,home,FreeThrow,,,make1,1,B. Roberts,
+483,1OT,0:30.0,80,71,CHO,IND,0,away,Timeout,,,,,,
+484,1OT,0:26.0,80,71,CHO,IND,4,away,JS,,30,miss3,0,C. Copeland,
+485,1OT,0:24.0,80,71,CHO,IND,2,away,OffReb,,,OffReb,,C. Miles,
+486,1OT,0:19.0,80,71,CHO,IND,5,away,JS,,26,miss3,0,C. Copeland,
+487,1OT,0:18.0,80,71,CHO,IND,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
+488,1OT,0:18.0,80,71,CHO,IND,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. West,M. Kidd-Gilchrist
+489,1OT,0:18.0,80,71,CHO,IND,0,home,FreeThrow,,,make1,0,M. Kidd-Gilchrist,
+490,1OT,0:18.0,80,71,CHO,IND,0,home,OffReb,,,OffReb,,Team,
+491,1OT,0:18.0,80,71,CHO,IND,0,home,FreeThrow,,,make1,0,M. Kidd-Gilchrist,
+492,1OT,0:16.0,80,71,CHO,IND,2,away,DefReb,,,DefReb,,C. Copeland,
+493,1OT,0:12.0,80,71,CHO,IND,4,away,JS,,26,miss3,0,C. Miles,
+494,1OT,0:10.0,80,71,CHO,IND,2,home,DefReb,,,DefReb,,C. Zeller,

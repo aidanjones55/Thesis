@@ -1,0 +1,435 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:36.0,2,0,DAL,LAC,24,home,JS,,17,make2,2,H. Barnes,
+1,1,11:12.0,2,0,DAL,LAC,24,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,D. Jordan
+2,1,11:12.0,2,1,DAL,LAC,0,away,FreeThrow,,,make1,1,D. Jordan,
+3,1,11:12.0,2,1,DAL,LAC,0,away,FreeThrow,,,make1,0,D. Jordan,
+4,1,11:12.0,2,1,DAL,LAC,0,home,DefReb,,,DefReb,,D. Nowitzki,
+5,1,11:02.0,4,1,DAL,LAC,10,home,JS,,9,make2,2,H. Barnes,
+6,1,10:58.0,4,1,DAL,LAC,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Jordan,D. Nowitzki
+7,1,10:58.0,4,1,DAL,LAC,0,away,OffensiveFoul,,,turnover,,D. Jordan,
+8,1,10:47.0,4,1,DAL,LAC,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Redick,W. Matthews
+9,1,10:36.0,7,1,DAL,LAC,11,home,JS,assist,26,make3,3,D. Nowitzki,S. Curry
+10,1,10:18.0,7,3,DAL,LAC,18,away,JS,assist,18,make2,2,J. Redick,B. Griffin
+11,1,10:07.0,7,3,DAL,LAC,11,home,JS,,19,miss2,0,W. Matthews,
+12,1,10:06.0,7,3,DAL,LAC,1,home,OffReb,,,OffReb,,A. Bogut,
+13,1,10:04.0,7,3,DAL,LAC,2,home,LostBall,steal,,turnover,,A. Bogut,C. Paul
+14,1,9:57.0,7,3,DAL,LAC,7,away,BadPass,steal,,turnover,,B. Griffin,A. Bogut
+15,1,9:41.0,9,3,DAL,LAC,16,home,HS,assist,4,make2,2,A. Bogut,W. Matthews
+16,1,9:23.0,9,3,DAL,LAC,18,away,HS,,6,miss2,0,D. Jordan,
+17,1,9:22.0,9,3,DAL,LAC,1,home,DefReb,,,DefReb,,A. Bogut,
+18,1,9:14.0,9,3,DAL,LAC,8,home,JS,,15,miss2,0,H. Barnes,
+19,1,9:13.0,9,3,DAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+20,1,9:01.0,9,3,DAL,LAC,12,away,JS,,18,miss2,0,B. Griffin,
+21,1,9:00.0,9,3,DAL,LAC,1,home,DefReb,,,DefReb,,D. Nowitzki,
+22,1,8:48.0,9,3,DAL,LAC,12,home,JS,,25,miss3,0,D. Nowitzki,
+23,1,8:47.0,9,3,DAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+24,1,8:40.0,9,3,DAL,LAC,7,away,HS,,1,miss2,0,B. Griffin,
+25,1,8:39.0,9,3,DAL,LAC,1,home,DefReb,,,DefReb,,D. Nowitzki,
+26,1,8:21.0,9,3,DAL,LAC,18,home,JS,,19,miss2,0,D. Nowitzki,
+27,1,8:20.0,9,3,DAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+28,1,8:11.0,9,3,DAL,LAC,9,away,JS,,16,miss2,0,C. Paul,
+29,1,8:10.0,9,3,DAL,LAC,1,home,DefReb,,,DefReb,,D. Nowitzki,
+30,1,7:57.0,11,3,DAL,LAC,13,home,LU,assist,0,make2,2,H. Barnes,A. Bogut
+31,1,7:54.0,11,3,DAL,LAC,3,away,Timeout,,,,,,
+32,1,7:54.0,11,3,DAL,LAC,0,home,Sub,,,,,D. Finney-Smith,D. Nowitzki
+33,1,7:40.0,11,5,DAL,LAC,14,away,JS,assist,16,make2,2,J. Redick,B. Griffin
+34,1,7:24.0,13,5,DAL,LAC,16,home,HS,,3,make2,2,H. Barnes,
+35,1,7:04.0,13,5,DAL,LAC,20,away,JS,,17,miss2,0,B. Griffin,
+36,1,7:03.0,13,5,DAL,LAC,1,home,DefReb,,,DefReb,,S. Curry,
+37,1,6:48.0,13,5,DAL,LAC,15,home,JS,,25,miss3,0,S. Curry,
+38,1,6:47.0,13,5,DAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+39,1,6:39.0,13,7,DAL,LAC,8,away,DK,assist,0,make2,2,D. Jordan,B. Griffin
+40,1,6:25.0,13,7,DAL,LAC,14,home,JS,,19,miss2,0,S. Curry,
+41,1,6:24.0,13,7,DAL,LAC,1,home,OffReb,,,OffReb,,A. Bogut,
+42,1,6:24.0,15,7,DAL,LAC,0,home,LU,,0,make2,2,A. Bogut,
+43,1,6:10.0,15,7,DAL,LAC,14,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,S. Curry,C. Paul
+44,1,6:10.0,15,7,DAL,LAC,0,away,Sub,,,,,J. Crawford,L. Mbah a Moute
+45,1,6:10.0,15,7,DAL,LAC,0,home,Sub,,,,,J. Gibson,S. Curry
+46,1,6:02.0,15,7,DAL,LAC,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Gibson,C. Paul
+47,1,5:54.0,15,9,DAL,LAC,8,away,JS,,17,make2,2,C. Paul,
+48,1,5:42.0,15,9,DAL,LAC,12,home,BadPass,steal,,turnover,,J. Gibson,B. Griffin
+49,1,5:39.0,15,9,DAL,LAC,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Finney-Smith,B. Griffin
+50,1,5:39.0,15,10,DAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+51,1,5:39.0,15,11,DAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+52,1,5:21.0,15,11,DAL,LAC,18,home,BadPass,steal,,turnover,,W. Matthews,C. Paul
+53,1,5:14.0,15,11,DAL,LAC,7,away,JS,,23,miss3,0,J. Redick,
+54,1,5:13.0,15,11,DAL,LAC,1,home,DefReb,,,DefReb,,D. Finney-Smith,
+55,1,4:55.0,15,11,DAL,LAC,18,home,JS,,24,miss3,0,J. Gibson,
+56,1,4:54.0,15,11,DAL,LAC,1,away,DefReb,,,DefReb,,J. Crawford,
+57,1,4:46.0,15,14,DAL,LAC,8,away,JS,,24,make3,3,C. Paul,
+58,1,4:45.0,15,14,DAL,LAC,1,home,Timeout,,,,,,
+59,1,4:44.0,15,14,DAL,LAC,1,away,Sub,,,,,A. Rivers,J. Redick
+60,1,4:25.0,17,14,DAL,LAC,19,home,JS,assist,18,make2,2,J. Gibson,D. Finney-Smith
+61,1,4:12.0,17,14,DAL,LAC,13,away,BadPass,steal,,turnover,,B. Griffin,A. Bogut
+62,1,4:10.0,17,14,DAL,LAC,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,C. Paul,J. Gibson
+63,1,3:58.0,19,14,DAL,LAC,12,home,LU,assist,1,make2,2,W. Matthews,A. Bogut
+64,1,3:40.0,19,17,DAL,LAC,18,away,JS,assist,22,make3,3,A. Rivers,B. Griffin
+65,1,3:29.0,21,17,DAL,LAC,11,home,LU,assist,0,make2,2,W. Matthews,A. Bogut
+66,1,3:10.0,21,17,DAL,LAC,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bogut,D. Jordan
+67,1,3:10.0,21,18,DAL,LAC,0,away,FreeThrow,,,make1,1,D. Jordan,
+68,1,3:10.0,21,18,DAL,LAC,0,home,Sub,,,,,D. Nowitzki,H. Barnes
+69,1,3:10.0,21,18,DAL,LAC,0,home,Sub,,,,,S. Mejri,A. Bogut
+70,1,3:10.0,21,18,DAL,LAC,0,home,Sub,,,,,S. Curry,W. Matthews
+71,1,3:10.0,21,19,DAL,LAC,0,away,FreeThrow,,,make1,1,D. Jordan,
+72,1,2:52.0,21,19,DAL,LAC,18,home,JS,,24,miss3,0,D. Finney-Smith,
+73,1,2:51.0,21,19,DAL,LAC,1,away,DefReb,,,DefReb,,C. Paul,
+74,1,2:41.0,21,19,DAL,LAC,10,away,JS,,13,miss2,0,C. Paul,
+75,1,2:40.0,21,19,DAL,LAC,1,home,DefReb,,,DefReb,,S. Mejri,
+76,1,2:32.0,21,19,DAL,LAC,8,home,JS,,23,miss3,0,D. Finney-Smith,
+77,1,2:31.0,21,19,DAL,LAC,1,away,DefReb,,,DefReb,,A. Rivers,
+78,1,2:18.0,21,21,DAL,LAC,13,away,JS,assist,17,make2,2,B. Griffin,C. Paul
+79,1,2:01.0,21,21,DAL,LAC,17,home,JS,,14,miss2,0,D. Nowitzki,
+80,1,2:00.0,21,21,DAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+81,1,1:56.0,21,21,DAL,LAC,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Mejri,B. Griffin
+82,1,1:56.0,21,21,DAL,LAC,0,away,FreeThrow,,,make1,0,B. Griffin,
+83,1,1:56.0,21,21,DAL,LAC,0,away,OffReb,,,OffReb,,Team,
+84,1,1:56.0,21,21,DAL,LAC,0,away,FreeThrow,,,make1,0,B. Griffin,
+85,1,1:56.0,21,21,DAL,LAC,0,away,Sub,,,,,M. Speights,D. Jordan
+86,1,1:56.0,21,21,DAL,LAC,0,away,Sub,,,,,R. Felton,C. Paul
+87,1,1:56.0,21,21,DAL,LAC,0,home,Sub,,,,,J. Anderson,D. Finney-Smith
+88,1,1:55.0,21,21,DAL,LAC,1,home,DefReb,,,DefReb,,D. Nowitzki,
+89,1,1:30.0,21,21,DAL,LAC,25,home,JS,,24,miss3,0,J. Gibson,
+90,1,1:30.0,21,21,DAL,LAC,0,home,OffReb,,,OffReb,,S. Mejri,
+91,1,1:28.0,21,21,DAL,LAC,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,S. Mejri
+92,1,1:28.0,22,21,DAL,LAC,0,home,FreeThrow,,,make1,1,S. Mejri,
+93,1,1:28.0,22,21,DAL,LAC,0,home,FreeThrow,,,make1,0,S. Mejri,
+94,1,1:28.0,22,21,DAL,LAC,0,away,Sub,,,,,W. Johnson,B. Griffin
+95,1,1:27.0,22,21,DAL,LAC,1,away,DefReb,,,DefReb,,M. Speights,
+96,1,1:13.0,22,23,DAL,LAC,14,away,JS,assist,19,make2,2,W. Johnson,A. Rivers
+97,1,0:50.0,24,23,DAL,LAC,23,home,JS,,15,make2,2,D. Nowitzki,
+98,1,0:44.0,24,26,DAL,LAC,6,away,JS,,27,make3,3,J. Crawford,
+99,1,0:34.0,24,26,DAL,LAC,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Felton,J. Gibson
+100,1,0:34.0,25,26,DAL,LAC,0,home,FreeThrow,,,make1,1,J. Gibson,
+101,1,0:34.0,25,26,DAL,LAC,0,home,Sub,,,,,D. Finney-Smith,S. Mejri
+102,1,0:34.0,26,26,DAL,LAC,0,home,FreeThrow,,,make1,1,J. Gibson,
+103,1,0:14.0,26,29,DAL,LAC,20,away,JS,,24,make3,3,A. Rivers,
+104,1,0:13.0,26,29,DAL,LAC,1,home,BadPass,steal,,turnover,,J. Anderson,A. Rivers
+105,1,0:10.0,26,32,DAL,LAC,3,away,JS,,25,make3,3,A. Rivers,
+106,1,0:02.0,26,32,DAL,LAC,8,home,BadPass,,,turnover,,J. Gibson,
+107,1,0:01.0,26,32,DAL,LAC,1,away,JS,,56,miss3,0,J. Crawford,
+108,1,0:00.0,26,32,DAL,LAC,1,away,OffReb,,,OffReb,,Team,
+109,2,11:46.0,26,32,DAL,LAC,14,away,JS,,5,miss2,0,A. Rivers,
+110,2,11:46.0,26,32,DAL,LAC,0,home,DefReb,,,DefReb,,J. Anderson,
+111,2,11:32.0,26,32,DAL,LAC,14,home,JS,,10,miss2,0,D. Nowitzki,
+112,2,11:31.0,26,32,DAL,LAC,1,away,DefReb,,,DefReb,,M. Speights,
+113,2,11:16.0,26,32,DAL,LAC,15,away,JS,,23,miss3,0,W. Johnson,
+114,2,11:15.0,26,32,DAL,LAC,1,away,OffReb,,,OffReb,,M. Speights,
+115,2,11:12.0,26,34,DAL,LAC,3,away,DK,assist,0,make2,2,W. Johnson,M. Speights
+116,2,10:58.0,26,34,DAL,LAC,14,home,D3SecTech,,,,,,
+117,2,10:58.0,27,34,DAL,LAC,0,home,FreeThrow,,,make1,1,D. Nowitzki makes technical free throw,
+118,2,10:48.0,27,34,DAL,LAC,10,home,LU,,2,miss2,0,J. Gibson,
+119,2,10:46.0,27,34,DAL,LAC,2,away,DefReb,,,DefReb,,W. Johnson,
+120,2,10:42.0,27,36,DAL,LAC,4,away,LU,,1,make2,2,R. Felton,
+121,2,10:22.0,29,36,DAL,LAC,20,home,LU,,2,make2,2,D. Nowitzki,
+122,2,10:01.0,29,36,DAL,LAC,21,away,JS,,22,miss3,0,R. Felton,
+123,2,10:00.0,29,36,DAL,LAC,1,home,DefReb,,,DefReb,,D. Powell,
+124,2,9:54.0,29,36,DAL,LAC,6,home,LU,block,3,miss2,0,J. Anderson,W. Johnson
+125,2,9:52.0,29,36,DAL,LAC,2,away,DefReb,,,DefReb,,R. Felton,
+126,2,9:38.0,29,39,DAL,LAC,14,away,JS,assist,24,make3,3,M. Speights,W. Johnson
+127,2,9:37.0,29,39,DAL,LAC,1,home,Timeout,,,,,,
+128,2,9:37.0,29,39,DAL,LAC,0,home,Sub,,,,,W. Matthews,D. Nowitzki
+129,2,9:37.0,29,39,DAL,LAC,0,home,Sub,,,,,H. Barnes,J. Gibson
+130,2,9:23.0,29,39,DAL,LAC,14,home,JS,,24,miss3,0,H. Barnes,
+131,2,9:22.0,29,39,DAL,LAC,1,away,DefReb,,,DefReb,,J. Crawford,
+132,2,9:15.0,29,41,DAL,LAC,7,away,JS,,20,make2,2,J. Crawford,
+133,2,9:00.0,31,41,DAL,LAC,15,home,JS,,11,make2,2,S. Curry,
+134,2,8:39.0,31,44,DAL,LAC,21,away,JS,assist,23,make3,3,J. Crawford,R. Felton
+135,2,8:28.0,31,44,DAL,LAC,11,home,BadPass,steal,,turnover,,D. Powell,J. Crawford
+136,2,8:24.0,31,46,DAL,LAC,4,away,LU,assist,2,make2,2,A. Rivers,R. Felton
+137,2,8:24.0,31,46,DAL,LAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Anderson,A. Rivers
+138,2,8:24.0,31,46,DAL,LAC,0,away,FreeThrow,,,make1,0,A. Rivers,
+139,2,8:24.0,31,46,DAL,LAC,0,home,Sub,,,,,N. Brussino,J. Anderson
+140,2,8:23.0,31,46,DAL,LAC,1,home,DefReb,,,DefReb,,D. Powell,
+141,2,8:11.0,33,46,DAL,LAC,12,home,LU,,2,make2,2,W. Matthews,
+142,2,7:50.0,33,46,DAL,LAC,21,away,JS,,7,miss2,0,M. Speights,
+143,2,7:49.0,33,46,DAL,LAC,1,home,DefReb,,,DefReb,,H. Barnes,
+144,2,7:44.0,33,46,DAL,LAC,5,home,LostBall,steal,,turnover,,W. Matthews,M. Speights
+145,2,7:34.0,33,48,DAL,LAC,10,away,LU,assist,1,make2,2,M. Speights,J. Crawford
+146,2,7:15.0,35,48,DAL,LAC,19,home,JS,,15,make2,2,H. Barnes,
+147,2,6:57.0,35,48,DAL,LAC,18,away,JS,,24,miss3,0,J. Crawford,
+148,2,6:56.0,35,48,DAL,LAC,1,home,DefReb,,,DefReb,,W. Matthews,
+149,2,6:46.0,38,48,DAL,LAC,10,home,JS,assist,25,make3,3,N. Brussino,H. Barnes
+150,2,6:45.0,38,48,DAL,LAC,1,away,Timeout,,,,,,
+151,2,6:45.0,38,48,DAL,LAC,0,home,Sub,,,,,J. Gibson,S. Curry
+152,2,6:45.0,38,48,DAL,LAC,0,away,Sub,,,,,B. Griffin,M. Speights
+153,2,6:45.0,38,48,DAL,LAC,0,away,Sub,,,,,C. Paul,R. Felton
+154,2,6:45.0,38,48,DAL,LAC,0,away,Sub,,,,,D. Jordan,W. Johnson
+155,2,6:30.0,38,48,DAL,LAC,15,away,BadPass,steal,,turnover,,B. Griffin,H. Barnes
+156,2,6:16.0,38,48,DAL,LAC,14,home,JS,,18,miss2,0,N. Brussino,
+157,2,6:15.0,38,48,DAL,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
+158,2,6:06.0,38,48,DAL,LAC,9,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,N. Brussino,J. Crawford
+159,2,6:05.0,38,48,DAL,LAC,1,away,Sub,,,,,L. Mbah a Moute,J. Crawford
+160,2,6:05.0,38,48,DAL,LAC,0,away,Sub,,,,,J. Redick,A. Rivers
+161,2,6:05.0,38,48,DAL,LAC,0,home,Sub,,,,,A. Bogut,D. Powell
+162,2,5:58.0,38,48,DAL,LAC,7,away,JS,,16,miss2,0,J. Redick,
+163,2,5:57.0,38,48,DAL,LAC,1,home,DefReb,,,DefReb,,W. Matthews,
+164,2,5:40.0,38,48,DAL,LAC,17,home,JS,block,16,miss2,0,W. Matthews,L. Mbah a Moute
+165,2,5:38.0,38,48,DAL,LAC,2,home,OffReb,,,OffReb,,A. Bogut,
+166,2,5:34.0,41,48,DAL,LAC,4,home,JS,assist,25,make3,3,H. Barnes,A. Bogut
+167,2,5:13.0,41,50,DAL,LAC,21,away,HS,,7,make2,2,D. Jordan,
+168,2,5:00.0,41,50,DAL,LAC,13,home,LostBall,steal,,turnover,,A. Bogut,B. Griffin
+169,2,4:56.0,41,52,DAL,LAC,4,away,DK,,0,make2,2,B. Griffin,
+170,2,4:56.0,41,52,DAL,LAC,0,home,Timeout,,,,,,
+171,2,4:56.0,41,52,DAL,LAC,0,home,Sub,,,,,D. Nowitzki,J. Gibson
+172,2,4:56.0,41,52,DAL,LAC,0,home,Sub,,,,,S. Curry,N. Brussino
+173,2,4:32.0,41,52,DAL,LAC,24,home,JS,,25,miss3,0,H. Barnes,
+174,2,4:31.0,41,52,DAL,LAC,1,home,OffReb,,,OffReb,,A. Bogut,
+175,2,4:24.0,43,52,DAL,LAC,7,home,LU,assist,0,make2,2,H. Barnes,D. Nowitzki
+176,2,4:16.0,43,52,DAL,LAC,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Curry,C. Paul
+177,2,4:16.0,43,53,DAL,LAC,0,away,FreeThrow,,,make1,1,C. Paul,
+178,2,4:16.0,43,54,DAL,LAC,0,away,FreeThrow,,,make1,1,C. Paul,
+179,2,3:56.0,43,54,DAL,LAC,20,home,JS,,15,miss2,0,H. Barnes,
+180,2,3:55.0,43,54,DAL,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
+181,2,3:43.0,43,56,DAL,LAC,12,away,JS,,16,make2,2,C. Paul,
+182,2,3:25.0,43,56,DAL,LAC,18,home,LostBall,steal,,turnover,,D. Nowitzki,C. Paul
+183,2,3:20.0,43,58,DAL,LAC,5,away,LU,assist,2,make2,2,J. Redick,L. Mbah a Moute
+184,2,3:00.0,43,58,DAL,LAC,20,home,JS,,25,miss3,0,D. Nowitzki,
+185,2,2:59.0,43,58,DAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+186,2,2:54.0,43,58,DAL,LAC,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,H. Barnes,B. Griffin
+187,2,2:54.0,43,58,DAL,LAC,0,away,Timeout,,,,,,
+188,2,2:52.0,43,58,DAL,LAC,2,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,W. Matthews,D. Jordan
+189,2,2:52.0,43,59,DAL,LAC,0,away,FreeThrow,,,make1,1,D. Jordan,
+190,2,2:52.0,43,59,DAL,LAC,0,away,FreeThrow,,,make1,0,D. Jordan,
+191,2,2:51.0,43,59,DAL,LAC,1,home,DefReb,,,DefReb,,A. Bogut,
+192,2,2:33.0,43,59,DAL,LAC,18,home,JS,,16,miss2,0,D. Nowitzki,
+193,2,2:32.0,43,59,DAL,LAC,1,away,DefReb,,,DefReb,,J. Redick,
+194,2,2:22.0,43,59,DAL,LAC,10,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,A. Bogut,D. Jordan
+195,2,2:22.0,43,60,DAL,LAC,0,away,FreeThrow,,,make1,1,D. Jordan,
+196,2,2:22.0,43,60,DAL,LAC,0,away,FreeThrow,,,make1,0,D. Jordan,
+197,2,2:21.0,43,60,DAL,LAC,1,home,DefReb,,,DefReb,,A. Bogut,
+198,2,2:13.0,43,60,DAL,LAC,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Mbah a Moute,H. Barnes
+199,2,2:07.0,45,60,DAL,LAC,6,home,DK,assist,0,make2,2,H. Barnes,A. Bogut
+200,2,1:44.0,45,62,DAL,LAC,23,away,JS,assist,19,make2,2,C. Paul,D. Jordan
+201,2,1:27.0,45,62,DAL,LAC,17,home,JS,,16,miss2,0,D. Nowitzki,
+202,2,1:26.0,45,62,DAL,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
+203,2,1:17.0,45,65,DAL,LAC,9,away,JS,assist,24,make3,3,C. Paul,B. Griffin
+204,2,0:57.0,45,65,DAL,LAC,20,home,LostBall,steal,,turnover,,W. Matthews,D. Jordan
+205,2,0:54.0,45,65,DAL,LAC,3,away,LU,block,2,miss2,0,B. Griffin,W. Matthews
+206,2,0:53.0,45,65,DAL,LAC,1,away,OffReb,,,OffReb,,Team,
+207,2,0:53.0,45,65,DAL,LAC,0,away,OutOfBounds,,,turnover,,J. Redick,
+208,2,0:37.0,45,65,DAL,LAC,16,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,L. Mbah a Moute,H. Barnes
+209,2,0:34.0,45,65,DAL,LAC,3,home,JS,,22,miss2,0,H. Barnes,
+210,2,0:33.0,45,65,DAL,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
+211,2,0:14.0,45,68,DAL,LAC,19,away,JS,assist,23,make3,3,B. Griffin,C. Paul
+212,2,0:07.0,45,68,DAL,LAC,7,home,JS,,22,miss2,0,S. Curry,
+213,2,0:06.0,45,68,DAL,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
+214,2,0:00.0,45,68,DAL,LAC,6,away,LU,,2,miss2,0,D. Jordan,
+215,2,0:00.0,45,68,DAL,LAC,0,away,OffReb,,,OffReb,,Team,
+216,3,11:43.0,45,70,DAL,LAC,17,away,DK,assist,0,make2,2,D. Jordan,C. Paul
+217,3,11:15.0,45,70,DAL,LAC,28,home,JS,,14,miss2,0,H. Barnes,
+218,3,11:14.0,45,70,DAL,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
+219,3,11:04.0,45,72,DAL,LAC,10,away,JS,assist,18,make2,2,B. Griffin,J. Redick
+220,3,10:42.0,45,72,DAL,LAC,22,home,JS,,20,miss2,0,W. Matthews,
+221,3,10:41.0,45,72,DAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+222,3,10:32.0,45,72,DAL,LAC,9,away,JS,,24,miss3,0,J. Redick,
+223,3,10:31.0,45,72,DAL,LAC,1,home,DefReb,,,DefReb,,Team,
+224,3,10:31.0,45,72,DAL,LAC,0,home,Timeout,,,,,,
+225,3,10:12.0,45,72,DAL,LAC,19,home,JS,block,7,miss2,0,H. Barnes,D. Jordan
+226,3,10:10.0,45,72,DAL,LAC,2,away,DefReb,,,DefReb,,C. Paul,
+227,3,10:05.0,45,72,DAL,LAC,5,away,JS,,25,miss3,0,C. Paul,
+228,3,10:03.0,45,72,DAL,LAC,2,home,DefReb,,,DefReb,,A. Bogut,
+229,3,9:51.0,47,72,DAL,LAC,12,home,LU,,2,make2,2,H. Barnes,
+230,3,9:33.0,47,72,DAL,LAC,18,away,JS,,19,miss2,0,B. Griffin,
+231,3,9:32.0,47,72,DAL,LAC,1,home,DefReb,,,DefReb,,D. Nowitzki,
+232,3,9:24.0,47,72,DAL,LAC,8,home,LostBall,,,turnover,,S. Curry,
+233,3,9:07.0,47,74,DAL,LAC,17,away,HS,assist,5,make2,2,D. Jordan,B. Griffin
+234,3,9:07.0,47,74,DAL,LAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,D. Jordan
+235,3,9:07.0,47,74,DAL,LAC,0,home,TechnicalFoul,,,TechnicalFoul,,Team,
+236,3,9:07.0,47,75,DAL,LAC,0,away,FreeThrow,,,make1,1,J. Redick makes technical free throw,
+237,3,9:07.0,47,76,DAL,LAC,0,away,FreeThrow,,,make1,1,D. Jordan,
+238,3,9:00.0,47,76,DAL,LAC,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Bogut,C. Paul
+239,3,9:00.0,47,76,DAL,LAC,0,home,OffensiveFoul,,,turnover,,A. Bogut,
+240,3,8:54.0,47,76,DAL,LAC,6,away,FlagrantFoul1,DrawnBy,,FlagrantFoul1,,A. Bogut,C. Paul
+241,3,8:54.0,47,77,DAL,LAC,0,away,FreeThrow,,,make1,1,C. Paul makes flagrant free throw 1 of 2,
+242,3,8:54.0,47,78,DAL,LAC,0,away,FreeThrow,,,make1,1,C. Paul makes flagrant free throw 2 of 2,
+243,3,8:54.0,47,78,DAL,LAC,0,home,Sub,,,,,S. Mejri,A. Bogut
+244,3,8:49.0,47,78,DAL,LAC,5,away,LostBall,steal,,turnover,,B. Griffin,S. Curry
+245,3,8:45.0,49,78,DAL,LAC,4,home,LU,,1,make2,2,S. Curry,
+246,3,8:29.0,49,78,DAL,LAC,16,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,S. Mejri,B. Griffin
+247,3,8:24.0,49,78,DAL,LAC,5,away,JS,,26,miss3,0,J. Redick,
+248,3,8:23.0,49,78,DAL,LAC,1,home,DefReb,,,DefReb,,H. Barnes,
+249,3,8:11.0,52,78,DAL,LAC,12,home,JS,assist,24,make3,3,W. Matthews,H. Barnes
+250,3,7:55.0,52,78,DAL,LAC,16,away,JS,,24,miss3,0,L. Mbah a Moute,
+251,3,7:54.0,52,78,DAL,LAC,1,home,DefReb,,,DefReb,,Team,
+252,3,7:35.0,52,78,DAL,LAC,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Mbah a Moute,D. Nowitzki
+253,3,7:35.0,53,78,DAL,LAC,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+254,3,7:35.0,54,78,DAL,LAC,0,home,FreeThrow,,,make1,1,D. Nowitzki,
+255,3,7:19.0,54,78,DAL,LAC,16,away,LostBall,steal,,turnover,,J. Redick,S. Mejri
+256,3,7:14.0,57,78,DAL,LAC,5,home,JS,assist,25,make3,3,H. Barnes,S. Mejri
+257,3,6:56.0,57,78,DAL,LAC,18,away,DK,,0,miss2,0,D. Jordan,
+258,3,6:54.0,57,78,DAL,LAC,2,away,OffReb,,,OffReb,,C. Paul,
+259,3,6:53.0,57,80,DAL,LAC,1,away,JS,,10,make2,2,C. Paul,
+260,3,6:46.0,57,80,DAL,LAC,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Griffin,H. Barnes
+261,3,6:42.0,57,80,DAL,LAC,4,home,HS,,7,miss2,0,H. Barnes,
+262,3,6:40.0,57,80,DAL,LAC,2,home,OffReb,,,OffReb,,S. Mejri,
+263,3,6:40.0,57,80,DAL,LAC,0,home,LU,,1,miss2,0,S. Mejri,
+264,3,6:39.0,57,80,DAL,LAC,1,away,DefReb,,,DefReb,,L. Mbah a Moute,
+265,3,6:34.0,57,83,DAL,LAC,5,away,JS,assist,24,make3,3,J. Redick,C. Paul
+266,3,6:34.0,57,83,DAL,LAC,0,home,Timeout,,,,,,
+267,3,6:34.0,57,83,DAL,LAC,0,home,Sub,,,,,D. Finney-Smith,D. Nowitzki
+268,3,6:34.0,57,83,DAL,LAC,0,home,Sub,,,,,A. Bogut,S. Mejri
+269,3,6:12.0,57,83,DAL,LAC,22,home,BadPass,steal,,turnover,,W. Matthews,L. Mbah a Moute
+270,3,6:02.0,57,83,DAL,LAC,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Matthews,D. Jordan
+271,3,5:53.0,57,83,DAL,LAC,9,away,JS,,18,miss2,0,J. Redick,
+272,3,5:52.0,57,83,DAL,LAC,1,home,DefReb,,,DefReb,,W. Matthews,
+273,3,5:36.0,57,83,DAL,LAC,16,home,BadPass,steal,,turnover,,H. Barnes,C. Paul
+274,3,5:32.0,57,85,DAL,LAC,4,away,DK,assist,0,make2,2,D. Jordan,B. Griffin
+275,3,5:11.0,57,85,DAL,LAC,21,home,JS,,25,miss3,0,S. Curry,
+276,3,5:10.0,57,85,DAL,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
+277,3,5:00.0,57,85,DAL,LAC,10,away,JS,,25,miss3,0,C. Paul,
+278,3,4:59.0,57,85,DAL,LAC,1,home,DefReb,,,DefReb,,A. Bogut,
+279,3,4:51.0,57,85,DAL,LAC,8,home,DK,,1,miss2,0,D. Finney-Smith,
+280,3,4:50.0,57,85,DAL,LAC,1,away,DefReb,,,DefReb,,J. Redick,
+281,3,4:47.0,57,85,DAL,LAC,3,away,LostBall,steal,,turnover,,J. Redick,D. Finney-Smith
+282,3,4:36.0,59,85,DAL,LAC,11,home,JS,assist,18,make2,2,S. Curry,W. Matthews
+283,3,4:14.0,59,88,DAL,LAC,22,away,JS,assist,23,make3,3,L. Mbah a Moute,D. Jordan
+284,3,3:49.0,62,88,DAL,LAC,25,home,JS,,24,make3,3,W. Matthews,
+285,3,3:33.0,62,88,DAL,LAC,16,away,JS,,20,miss2,0,B. Griffin,
+286,3,3:32.0,62,88,DAL,LAC,1,away,OffReb,,,OffReb,,Team,
+287,3,3:30.0,62,88,DAL,LAC,2,away,Sub,,,,,J. Crawford,L. Mbah a Moute
+288,3,3:30.0,62,88,DAL,LAC,0,away,Sub,,,,,A. Rivers,J. Redick
+289,3,3:30.0,62,88,DAL,LAC,0,home,Sub,,,,,J. Gibson,S. Curry
+290,3,3:18.0,62,88,DAL,LAC,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bogut,B. Griffin
+291,3,3:18.0,62,88,DAL,LAC,0,away,FreeThrow,,,make1,0,B. Griffin,
+292,3,3:18.0,62,88,DAL,LAC,0,away,OffReb,,,OffReb,,Team,
+293,3,3:18.0,62,89,DAL,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
+294,3,3:11.0,62,89,DAL,LAC,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,J. Gibson
+295,3,3:11.0,63,89,DAL,LAC,0,home,FreeThrow,,,make1,1,J. Gibson,
+296,3,3:11.0,63,89,DAL,LAC,0,away,Sub,,,,,W. Johnson,C. Paul
+297,3,3:11.0,63,89,DAL,LAC,0,away,Sub,,,,,R. Felton,B. Griffin
+298,3,3:11.0,64,89,DAL,LAC,0,home,FreeThrow,,,make1,1,J. Gibson,
+299,3,2:52.0,64,89,DAL,LAC,19,away,JS,,22,miss2,0,J. Crawford,
+300,3,2:51.0,64,89,DAL,LAC,1,home,DefReb,,,DefReb,,W. Matthews,
+301,3,2:47.0,64,89,DAL,LAC,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,W. Matthews
+302,3,2:47.0,64,89,DAL,LAC,0,away,Timeout,,,,,,
+303,3,2:47.0,65,89,DAL,LAC,0,home,FreeThrow,,,make1,1,W. Matthews,
+304,3,2:47.0,66,89,DAL,LAC,0,home,FreeThrow,,,make1,1,W. Matthews,
+305,3,2:47.0,64,89,DAL,LAC,0,away,Sub,,,,,M. Speights,D. Jordan
+306,3,2:47.0,67,89,DAL,LAC,0,home,FreeThrow,,,make1,1,W. Matthews,
+307,3,2:31.0,67,91,DAL,LAC,16,away,JS,,18,make2,2,J. Crawford,
+308,3,2:20.0,67,91,DAL,LAC,11,home,BadPass,,,turnover,,W. Matthews,
+309,3,2:07.0,67,91,DAL,LAC,13,away,JS,,5,miss2,0,A. Rivers,
+310,3,2:06.0,67,91,DAL,LAC,1,away,OffReb,,,OffReb,,M. Speights,
+311,3,2:03.0,67,93,DAL,LAC,3,away,LU,,1,make2,2,M. Speights,
+312,3,1:45.0,67,93,DAL,LAC,18,home,JS,,25,miss3,0,J. Gibson,
+313,3,1:44.0,67,93,DAL,LAC,1,away,DefReb,,,DefReb,,M. Speights,
+314,3,1:36.0,67,93,DAL,LAC,8,away,JS,,28,miss3,0,M. Speights,
+315,3,1:35.0,67,93,DAL,LAC,1,home,DefReb,,,DefReb,,A. Bogut,
+316,3,1:14.0,67,93,DAL,LAC,21,home,JS,,11,miss2,0,W. Matthews,
+317,3,1:13.0,67,93,DAL,LAC,1,away,DefReb,,,DefReb,,M. Speights,
+318,3,1:05.0,67,93,DAL,LAC,8,away,LU,,0,miss2,0,J. Crawford,
+319,3,1:04.0,67,93,DAL,LAC,1,home,DefReb,,,DefReb,,H. Barnes,
+320,3,0:56.0,70,93,DAL,LAC,8,home,JS,assist,24,make3,3,W. Matthews,A. Bogut
+321,3,0:46.0,70,93,DAL,LAC,10,away,DK,block,0,miss2,0,W. Johnson,D. Finney-Smith
+322,3,0:43.0,70,93,DAL,LAC,3,home,DefReb,,,DefReb,,A. Bogut,
+323,3,0:39.0,70,93,DAL,LAC,4,home,LU,block,2,miss2,0,J. Gibson,M. Speights
+324,3,0:38.0,70,93,DAL,LAC,1,away,DefReb,,,DefReb,,M. Speights,
+325,3,0:34.0,70,93,DAL,LAC,4,away,JS,,25,miss3,0,W. Johnson,
+326,3,0:32.0,70,93,DAL,LAC,2,home,DefReb,,,DefReb,,H. Barnes,
+327,3,0:12.0,70,93,DAL,LAC,20,home,JS,,22,miss2,0,H. Barnes,
+328,3,0:11.0,70,93,DAL,LAC,1,away,DefReb,,,DefReb,,M. Speights,
+329,3,0:02.0,70,93,DAL,LAC,9,away,JS,,24,miss3,0,R. Felton,
+330,3,0:00.0,70,93,DAL,LAC,2,home,DefReb,,,DefReb,,A. Bogut,
+331,4,11:36.0,70,93,DAL,LAC,24,home,JS,,26,miss3,0,J. Gibson,
+332,4,11:35.0,70,93,DAL,LAC,1,away,DefReb,,,DefReb,,M. Speights,
+333,4,11:20.0,70,93,DAL,LAC,15,away,JS,,5,miss2,0,A. Rivers,
+334,4,11:18.0,70,93,DAL,LAC,2,away,OffReb,,,OffReb,,M. Speights,
+335,4,11:18.0,70,93,DAL,LAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Brussino,M. Speights
+336,4,11:18.0,70,93,DAL,LAC,0,away,TechnicalFoul,,,TechnicalFoul,,A. Rivers,
+337,4,11:18.0,71,93,DAL,LAC,0,home,FreeThrow,,,make1,1,S. Curry makes technical free throw,
+338,4,11:18.0,71,94,DAL,LAC,0,away,FreeThrow,,,make1,1,M. Speights,
+339,4,11:18.0,71,95,DAL,LAC,0,away,FreeThrow,,,make1,1,M. Speights,
+340,4,11:01.0,71,95,DAL,LAC,17,home,JS,,19,miss2,0,D. Powell,
+341,4,11:00.0,71,95,DAL,LAC,1,away,DefReb,,,DefReb,,R. Felton,
+342,4,10:57.0,71,95,DAL,LAC,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Powell,M. Speights
+343,4,10:57.0,71,96,DAL,LAC,0,away,FreeThrow,,,make1,1,M. Speights,
+344,4,10:57.0,71,96,DAL,LAC,0,home,Sub,,,,,J. Anderson,S. Curry
+345,4,10:57.0,71,97,DAL,LAC,0,away,FreeThrow,,,make1,1,M. Speights,
+346,4,10:48.0,71,97,DAL,LAC,9,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,M. Speights,D. Powell
+347,4,10:48.0,72,97,DAL,LAC,0,home,FreeThrow,,,make1,1,D. Powell,
+348,4,10:48.0,73,97,DAL,LAC,0,home,FreeThrow,,,make1,1,D. Powell,
+349,4,10:25.0,73,97,DAL,LAC,23,away,JS,,25,miss3,0,A. Rivers,
+350,4,10:24.0,73,97,DAL,LAC,1,away,OffReb,,,OffReb,,W. Johnson,
+351,4,10:15.0,73,97,DAL,LAC,9,away,JS,,24,miss3,0,J. Crawford,
+352,4,10:14.0,73,97,DAL,LAC,1,home,DefReb,,,DefReb,,D. Powell,
+353,4,10:05.0,75,97,DAL,LAC,9,home,LU,assist,1,make2,2,D. Powell,J. Gibson
+354,4,9:54.0,75,97,DAL,LAC,11,away,BadPass,steal,,turnover,,R. Felton,N. Brussino
+355,4,9:54.0,75,97,DAL,LAC,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Johnson,N. Brussino
+356,4,9:49.0,75,97,DAL,LAC,5,home,JS,,19,miss2,0,J. Gibson,
+357,4,9:48.0,75,97,DAL,LAC,1,away,DefReb,,,DefReb,,W. Johnson,
+358,4,9:40.0,75,99,DAL,LAC,8,away,LU,assist,1,make2,2,R. Felton,M. Speights
+359,4,9:39.0,75,99,DAL,LAC,1,home,Timeout,,,,,,
+360,4,9:34.0,75,99,DAL,LAC,5,home,LU,,1,miss2,0,D. Powell,
+361,4,9:32.0,75,99,DAL,LAC,2,away,DefReb,,,DefReb,,W. Johnson,
+362,4,9:11.0,75,101,DAL,LAC,21,away,JS,,15,make2,2,M. Speights,
+363,4,8:54.0,75,101,DAL,LAC,17,home,JS,,5,miss2,0,D. Powell,
+364,4,8:53.0,75,101,DAL,LAC,1,home,OffReb,,,OffReb,,D. Powell,
+365,4,8:53.0,77,101,DAL,LAC,0,home,LU,,2,make2,2,D. Powell,
+366,4,8:35.0,77,101,DAL,LAC,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Brussino,J. Crawford
+367,4,8:25.0,77,104,DAL,LAC,10,away,JS,,24,make3,3,J. Crawford,
+368,4,8:10.0,77,104,DAL,LAC,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Johnson,D. Powell
+369,4,8:08.0,77,104,DAL,LAC,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Speights,D. Powell
+370,4,8:08.0,77,104,DAL,LAC,0,home,Timeout,,,,,,
+371,4,7:53.0,79,104,DAL,LAC,15,home,LU,,0,make2,2,J. Anderson,
+372,4,7:34.0,79,104,DAL,LAC,19,away,JS,,21,miss2,0,J. Crawford,
+373,4,7:34.0,79,104,DAL,LAC,0,away,OffReb,,,OffReb,,Team,
+374,4,7:21.0,79,104,DAL,LAC,13,away,JS,,21,miss2,0,M. Speights,
+375,4,7:20.0,79,104,DAL,LAC,1,home,DefReb,,,DefReb,,J. Anderson,
+376,4,7:14.0,79,104,DAL,LAC,6,home,LostBall,,,turnover,,J. Anderson,
+377,4,7:13.0,79,104,DAL,LAC,1,away,Sub,,,,,B. Bass,W. Johnson
+378,4,7:13.0,79,104,DAL,LAC,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
+379,4,6:59.0,79,107,DAL,LAC,14,away,JS,assist,24,make3,3,A. Rivers,R. Felton
+380,4,6:39.0,79,107,DAL,LAC,20,home,JS,,17,miss2,0,D. Finney-Smith,
+381,4,6:38.0,79,107,DAL,LAC,1,away,DefReb,,,DefReb,,R. Felton,
+382,4,6:15.0,79,107,DAL,LAC,23,away,JS,,24,miss3,0,R. Felton,
+383,4,6:14.0,79,107,DAL,LAC,1,home,DefReb,,,DefReb,,J. Anderson,
+384,4,6:06.0,79,107,DAL,LAC,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,J. Anderson
+385,4,6:06.0,80,107,DAL,LAC,0,home,FreeThrow,,,make1,1,J. Anderson,
+386,4,6:06.0,81,107,DAL,LAC,0,home,FreeThrow,,,make1,1,J. Anderson,
+387,4,5:52.0,81,110,DAL,LAC,14,away,JS,assist,26,make3,3,A. Rivers,R. Felton
+388,4,5:34.0,83,110,DAL,LAC,18,home,LU,assist,1,make2,2,J. Gibson,D. Powell
+389,4,5:13.0,83,112,DAL,LAC,21,away,JS,assist,4,make2,2,M. Speights,J. Crawford
+390,4,4:56.0,86,112,DAL,LAC,17,home,JS,assist,24,make3,3,D. Finney-Smith,J. Gibson
+391,4,4:31.0,86,112,DAL,LAC,25,away,JS,,25,miss3,0,J. Crawford,
+392,4,4:31.0,86,112,DAL,LAC,0,home,DefReb,,,DefReb,,J. Anderson,
+393,4,4:20.0,88,112,DAL,LAC,11,home,JS,assist,12,make2,2,D. Powell,D. Finney-Smith
+394,4,3:59.0,88,115,DAL,LAC,21,away,JS,assist,25,make3,3,A. Rivers,B. Bass
+395,4,3:41.0,88,115,DAL,LAC,18,home,HS,,6,miss2,0,D. Powell,
+396,4,3:39.0,88,115,DAL,LAC,2,away,DefReb,,,DefReb,,M. Speights,
+397,4,3:30.0,88,115,DAL,LAC,9,away,JS,,8,miss2,0,B. Bass,
+398,4,3:29.0,88,115,DAL,LAC,1,away,OffReb,,,OffReb,,R. Felton,
+399,4,3:26.0,88,115,DAL,LAC,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Anderson,J. Crawford
+400,4,3:26.0,88,116,DAL,LAC,0,away,FreeThrow,,,make1,1,J. Crawford,
+401,4,3:26.0,88,116,DAL,LAC,0,home,Sub,,,,,A. Hammons,D. Powell
+402,4,3:26.0,88,117,DAL,LAC,0,away,FreeThrow,,,make1,1,J. Crawford,
+403,4,3:09.0,88,117,DAL,LAC,17,home,JS,,24,miss3,0,N. Brussino,
+404,4,3:08.0,88,117,DAL,LAC,1,home,OffReb,,,OffReb,,A. Hammons,
+405,4,2:58.0,90,117,DAL,LAC,10,home,LU,assist,2,make2,2,J. Anderson,N. Brussino
+406,4,2:43.0,90,119,DAL,LAC,15,away,LU,,1,make2,2,B. Bass,
+407,4,2:29.0,90,119,DAL,LAC,14,home,DK,,0,miss2,0,J. Anderson,
+408,4,2:27.0,90,119,DAL,LAC,2,home,OffReb,,,OffReb,,D. Finney-Smith,
+409,4,2:20.0,92,119,DAL,LAC,7,home,JS,,6,make2,2,J. Anderson,
+410,4,2:20.0,92,119,DAL,LAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,J. Anderson
+411,4,2:20.0,92,119,DAL,LAC,0,away,Timeout,,,,,,
+412,4,2:20.0,93,119,DAL,LAC,0,home,FreeThrow,,,make1,1,J. Anderson,
+413,4,2:07.0,93,119,DAL,LAC,13,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Finney-Smith,M. Speights
+414,4,2:07.0,93,119,DAL,LAC,0,away,FreeThrow,,,make1,0,M. Speights,
+415,4,2:07.0,93,119,DAL,LAC,0,away,OffReb,,,OffReb,,Team,
+416,4,2:07.0,93,120,DAL,LAC,0,away,FreeThrow,,,make1,1,M. Speights,
+417,4,1:58.0,95,120,DAL,LAC,9,home,LU,assist,1,make2,2,D. Finney-Smith,N. Brussino
+418,4,1:44.0,95,122,DAL,LAC,14,away,JS,,15,make2,2,B. Bass,
+419,4,1:36.0,95,122,DAL,LAC,8,home,LU,,2,miss2,0,A. Hammons,
+420,4,1:35.0,95,122,DAL,LAC,1,home,OffReb,,,OffReb,,A. Hammons,
+421,4,1:32.0,98,122,DAL,LAC,3,home,JS,assist,24,make3,3,D. Finney-Smith,A. Hammons
+422,4,1:17.0,98,122,DAL,LAC,15,away,JS,,16,miss2,0,B. Bass,
+423,4,1:16.0,98,122,DAL,LAC,1,home,DefReb,,,DefReb,,J. Anderson,
+424,4,1:07.0,98,122,DAL,LAC,9,home,JS,,18,miss2,0,J. Anderson,
+425,4,1:06.0,98,122,DAL,LAC,1,away,DefReb,,,DefReb,,M. Speights,
+426,4,1:03.0,98,122,DAL,LAC,3,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Anderson,A. Rivers
+427,4,1:03.0,98,123,DAL,LAC,0,away,FreeThrow,,,make1,1,A. Rivers,
+428,4,1:03.0,98,124,DAL,LAC,0,away,FreeThrow,,,make1,1,A. Rivers,
+429,4,0:53.0,101,124,DAL,LAC,10,home,JS,assist,23,make3,3,J. Anderson,D. Finney-Smith
+430,4,0:36.0,101,124,DAL,LAC,17,away,LU,block,2,miss2,0,B. Bass,N. Brussino
+431,4,0:35.0,101,124,DAL,LAC,1,home,DefReb,,,DefReb,,N. Brussino,
+432,4,0:30.0,104,124,DAL,LAC,5,home,JS,assist,25,make3,3,J. Gibson,N. Brussino
+433,4,0:06.0,104,124,DAL,LAC,24,away,ShotClockViolation,,,turnover,,Team,

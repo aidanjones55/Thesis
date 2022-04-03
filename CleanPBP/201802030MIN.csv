@@ -1,0 +1,440 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:42.0,0,0,MIN,NOP,18,away,JS,,20,miss2,0,A. Davis,
+1,1,11:38.0,0,0,MIN,NOP,4,home,DefReb,,,DefReb,,J. Teague,
+2,1,11:27.0,0,0,MIN,NOP,11,home,JS,,7,miss2,0,J. Teague,
+3,1,11:24.0,0,0,MIN,NOP,3,home,OffReb,,,OffReb,,T. Gibson,
+4,1,11:22.0,2,0,MIN,NOP,2,home,LU,,0,make2,2,T. Gibson,
+5,1,11:13.0,2,0,MIN,NOP,9,away,JS,,20,miss2,0,R. Rondo,
+6,1,11:13.0,2,0,MIN,NOP,0,home,DefReb,,,DefReb,,K. Towns,
+7,1,10:53.0,2,0,MIN,NOP,20,home,JS,,5,miss2,0,K. Towns,
+8,1,10:50.0,2,0,MIN,NOP,3,home,OffReb,,,OffReb,,K. Towns,
+9,1,10:49.0,4,0,MIN,NOP,1,home,LU,,1,make2,2,K. Towns,
+10,1,10:42.0,4,0,MIN,NOP,7,away,JS,,12,miss2,0,E. Moore,
+11,1,10:39.0,4,0,MIN,NOP,3,away,OffReb,,,OffReb,,E. Moore,
+12,1,10:38.0,4,0,MIN,NOP,1,away,OutOfBoundsLB,,,turnover,,E. Moore,
+13,1,10:23.0,6,0,MIN,NOP,15,home,DK,assist,0,make2,2,T. Gibson,J. Butler
+14,1,10:11.0,6,0,MIN,NOP,12,away,JS,,11,miss2,0,J. Holiday,
+15,1,10:09.0,6,0,MIN,NOP,2,away,OffReb,,,OffReb,,A. Davis,
+16,1,10:07.0,6,0,MIN,NOP,2,away,JS,,13,miss2,0,A. Davis,
+17,1,10:04.0,6,0,MIN,NOP,3,home,DefReb,,,DefReb,,T. Gibson,
+18,1,9:55.0,9,0,MIN,NOP,9,home,JS,assist,25,make3,3,K. Towns,J. Teague
+19,1,9:50.0,9,0,MIN,NOP,5,away,Timeout,,,,,,
+20,1,9:38.0,9,0,MIN,NOP,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Towns,A. Davis
+21,1,9:38.0,9,1,MIN,NOP,0,away,FreeThrow,,,make1,1,A. Davis,
+22,1,9:38.0,9,2,MIN,NOP,0,away,FreeThrow,,,make1,1,A. Davis,
+23,1,9:21.0,9,2,MIN,NOP,17,home,bad pass,steal,,turnover,,A. Wiggins,E. Moore
+24,1,9:17.0,9,4,MIN,NOP,4,away,LU,assist,0,make2,2,D. Cunningham,E. Moore
+25,1,8:53.0,9,4,MIN,NOP,24,home,bad pass,steal,,turnover,,J. Butler,J. Holiday
+26,1,8:47.0,9,4,MIN,NOP,6,away,JS,,25,miss3,0,E. Moore,
+27,1,8:44.0,9,4,MIN,NOP,3,home,DefReb,,,DefReb,,K. Towns,
+28,1,8:32.0,9,4,MIN,NOP,12,home,HS,,5,miss2,0,T. Gibson,
+29,1,8:28.0,9,4,MIN,NOP,4,home,OffReb,,,OffReb,,K. Towns,
+30,1,8:28.0,11,4,MIN,NOP,0,home,LU,,0,make2,2,K. Towns,
+31,1,8:19.0,11,4,MIN,NOP,9,away,LU,block,5,miss2,0,D. Cunningham,T. Gibson
+32,1,8:15.0,11,4,MIN,NOP,4,home,DefReb,,,DefReb,,J. Butler,
+33,1,8:07.0,11,4,MIN,NOP,8,home,JS,,5,miss2,0,A. Wiggins,
+34,1,8:05.0,11,4,MIN,NOP,2,away,DefReb,,,DefReb,,R. Rondo,
+35,1,7:56.0,11,4,MIN,NOP,9,away,JS,,11,miss2,0,A. Davis,
+36,1,7:53.0,11,4,MIN,NOP,3,home,DefReb,,,DefReb,,K. Towns,
+37,1,7:47.0,13,4,MIN,NOP,6,home,LU,assist,5,make2,2,A. Wiggins,J. Teague
+38,1,7:27.0,13,4,MIN,NOP,20,away,JS,,20,miss2,0,J. Holiday,
+39,1,7:24.0,13,4,MIN,NOP,3,home,DefReb,,,DefReb,,K. Towns,
+40,1,7:19.0,15,4,MIN,NOP,5,home,LU,,0,make2,2,J. Teague,
+41,1,7:05.0,15,4,MIN,NOP,14,away,JS,,23,miss3,0,D. Cunningham,
+42,1,7:02.0,15,4,MIN,NOP,3,home,DefReb,,,DefReb,,T. Gibson,
+43,1,6:50.0,15,4,MIN,NOP,12,home,LU,,1,miss2,0,J. Teague,
+44,1,6:48.0,15,4,MIN,NOP,2,away,DefReb,,,DefReb,,D. Cunningham,
+45,1,6:43.0,15,6,MIN,NOP,5,away,LU,assist,1,make2,2,A. Davis,R. Rondo
+46,1,6:30.0,17,6,MIN,NOP,13,home,DK,,1,make2,2,J. Butler,
+47,1,6:15.0,17,6,MIN,NOP,15,away,JS,,21,miss2,0,A. Davis,
+48,1,6:12.0,17,6,MIN,NOP,3,home,DefReb,,,DefReb,,J. Butler,
+49,1,6:07.0,20,6,MIN,NOP,5,home,JS,,25,make3,3,J. Butler,
+50,1,5:55.0,20,6,MIN,NOP,12,away,JS,,25,miss3,0,R. Rondo,
+51,1,5:52.0,20,6,MIN,NOP,3,home,DefReb,,,DefReb,,K. Towns,
+52,1,5:41.0,22,6,MIN,NOP,11,home,DK,,1,make2,2,T. Gibson,
+53,1,5:37.0,22,6,MIN,NOP,4,away,Timeout,,,,,,
+54,1,5:37.0,22,6,MIN,NOP,0,away,Sub,,,,,N. Mirotić,R. Rondo
+55,1,5:37.0,22,6,MIN,NOP,0,away,Sub,,,,,D. Miller,D. Cunningham
+56,1,5:27.0,22,6,MIN,NOP,10,away,JS,,24,miss3,0,N. Mirotić,
+57,1,5:23.0,22,6,MIN,NOP,4,away,OffReb,,,OffReb,,A. Davis,
+58,1,5:23.0,22,8,MIN,NOP,0,away,JS,,4,make2,2,A. Davis,
+59,1,5:15.0,22,8,MIN,NOP,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Mirotić,K. Towns
+60,1,5:06.0,22,8,MIN,NOP,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,K. Towns
+61,1,5:06.0,23,8,MIN,NOP,0,home,FreeThrow,,,make1,1,K. Towns,
+62,1,5:06.0,23,8,MIN,NOP,0,home,FreeThrow,,,make1,0,K. Towns,
+63,1,5:03.0,23,8,MIN,NOP,3,away,DefReb,,,DefReb,,N. Mirotić,
+64,1,4:50.0,23,8,MIN,NOP,13,away,LU,,1,miss2,0,A. Davis,
+65,1,4:48.0,23,8,MIN,NOP,2,home,DefReb,,,DefReb,,K. Towns,
+66,1,4:45.0,25,8,MIN,NOP,3,home,LU,assist,1,make2,2,K. Towns,J. Teague
+67,1,4:45.0,25,8,MIN,NOP,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Miller,K. Towns
+68,1,4:45.0,25,8,MIN,NOP,0,home,Sub,,,,,T. Jones,J. Teague
+69,1,4:45.0,26,8,MIN,NOP,0,home,FreeThrow,,,make1,1,K. Towns,
+70,1,4:24.0,26,10,MIN,NOP,21,away,JS,,11,make2,2,E. Moore,
+71,1,4:05.0,26,10,MIN,NOP,19,home,HS,,6,miss2,0,T. Gibson,
+72,1,4:03.0,26,10,MIN,NOP,2,away,DefReb,,,DefReb,,A. Davis,
+73,1,3:54.0,26,10,MIN,NOP,9,away,LU,,3,miss2,0,J. Holiday,
+74,1,3:50.0,26,10,MIN,NOP,4,away,OffReb,,,OffReb,,A. Davis,
+75,1,3:50.0,26,12,MIN,NOP,0,away,DK,,0,make2,2,A. Davis,
+76,1,3:34.0,26,12,MIN,NOP,16,home,JS,,13,miss2,0,A. Wiggins,
+77,1,3:31.0,26,12,MIN,NOP,3,away,DefReb,,,DefReb,,N. Mirotić,
+78,1,3:25.0,26,14,MIN,NOP,6,away,LU,assist,0,make2,2,A. Davis,J. Holiday
+79,1,3:08.0,26,14,MIN,NOP,17,home,JS,,19,miss2,0,K. Towns,
+80,1,3:05.0,26,14,MIN,NOP,3,away,DefReb,,,DefReb,,J. Holiday,
+81,1,3:03.0,26,16,MIN,NOP,2,away,DK,assist,0,make2,2,A. Davis,J. Holiday
+82,1,2:46.0,29,16,MIN,NOP,17,home,JS,assist,25,make3,3,A. Wiggins,K. Towns
+83,1,2:33.0,29,16,MIN,NOP,13,away,Traveling,,,turnover,,J. Holiday,
+84,1,2:33.0,29,16,MIN,NOP,0,home,Sub,,,,,G. Dieng,K. Towns
+85,1,2:33.0,29,16,MIN,NOP,0,home,Sub,,,,,N. Bjelica,T. Gibson
+86,1,2:33.0,29,16,MIN,NOP,0,away,Sub,,,,,I. Clark,E. Moore
+87,1,2:33.0,29,16,MIN,NOP,0,home,Sub,,,,,J. Crawford,A. Wiggins
+88,1,2:21.0,29,16,MIN,NOP,12,home,JS,,19,miss2,0,J. Butler,
+89,1,2:18.0,29,16,MIN,NOP,3,away,DefReb,,,DefReb,,I. Clark,
+90,1,2:09.0,29,18,MIN,NOP,9,away,JS,,10,make2,2,A. Davis,
+91,1,1:52.0,29,18,MIN,NOP,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Clark,J. Butler
+92,1,1:52.0,30,18,MIN,NOP,0,home,FreeThrow,,,make1,1,J. Butler,
+93,1,1:52.0,30,18,MIN,NOP,0,away,Sub,,,,,M. James,J. Holiday
+94,1,1:52.0,31,18,MIN,NOP,0,home,FreeThrow,,,make1,1,J. Butler,
+95,1,1:37.0,31,21,MIN,NOP,15,away,JS,assist,25,make3,3,N. Mirotić,A. Davis
+96,1,1:11.0,33,21,MIN,NOP,26,home,JS,assist,8,make2,2,G. Dieng,N. Bjelica
+97,1,1:00.0,33,23,MIN,NOP,11,away,JS,,20,make2,2,A. Davis,
+98,1,0:49.0,36,23,MIN,NOP,11,home,JS,assist,24,make3,3,N. Bjelica,J. Butler
+99,1,0:41.0,36,26,MIN,NOP,8,away,JS,assist,26,make3,3,A. Davis,M. James
+100,1,0:35.0,36,26,MIN,NOP,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Miller,J. Butler
+101,1,0:35.0,36,26,MIN,NOP,0,home,FreeThrow,,,make1,0,J. Butler,
+102,1,0:35.0,36,26,MIN,NOP,0,home,OffReb,,,OffReb,,Team,
+103,1,0:35.0,36,26,MIN,NOP,0,home,FreeThrow,,,make1,0,J. Butler,
+104,1,0:35.0,36,26,MIN,NOP,0,home,OffReb,,,OffReb,,Team,
+105,1,0:35.0,37,26,MIN,NOP,0,home,FreeThrow,,,make1,1,J. Butler,
+106,1,0:31.0,37,29,MIN,NOP,4,away,JS,assist,22,make3,3,D. Miller,M. James
+107,1,0:11.0,37,29,MIN,NOP,20,home,LU,block,2,miss2,0,J. Butler,D. Miller
+108,1,0:09.0,37,29,MIN,NOP,2,away,DefReb,,,DefReb,,D. Miller,
+109,1,0:08.0,37,29,MIN,NOP,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,G. Dieng,M. James
+110,1,0:02.0,37,29,MIN,NOP,6,away,JS,,15,miss2,0,M. James,
+111,1,0:02.0,37,29,MIN,NOP,0,home,DefReb,,,DefReb,,J. Butler,
+112,2,11:52.0,37,29,MIN,NOP,8,home,lost ball,steal,,turnover,,T. Jones,M. James
+113,2,11:49.0,37,31,MIN,NOP,3,away,LU,,0,make2,2,N. Mirotić,
+114,2,11:36.0,37,31,MIN,NOP,13,home,lost ball,steal,,turnover,,A. Wiggins,N. Mirotić
+115,2,11:29.0,37,31,MIN,NOP,7,away,bad pass,steal,,turnover,,N. Mirotić,A. Wiggins
+116,2,11:25.0,39,31,MIN,NOP,4,home,JS,assist,20,make2,2,T. Jones,A. Wiggins
+117,2,10:59.0,39,31,MIN,NOP,26,away,JS,,25,miss3,0,M. James,
+118,2,10:55.0,39,31,MIN,NOP,4,home,DefReb,,,DefReb,,T. Jones,
+119,2,10:49.0,39,31,MIN,NOP,6,home,LU,,5,miss2,0,N. Bjelica,
+120,2,10:46.0,39,31,MIN,NOP,3,home,OffReb,,,OffReb,,G. Dieng,
+121,2,10:38.0,39,31,MIN,NOP,8,home,JS,,14,miss2,0,G. Dieng,
+122,2,10:37.0,39,31,MIN,NOP,1,away,DefReb,,,DefReb,,C. Diallo,
+123,2,10:27.0,39,31,MIN,NOP,10,away,JS,,25,miss3,0,N. Mirotić,
+124,2,10:23.0,39,31,MIN,NOP,4,away,OffReb,,,OffReb,,C. Diallo,
+125,2,10:16.0,39,31,MIN,NOP,7,away,JS,,19,miss2,0,C. Diallo,
+126,2,10:13.0,39,31,MIN,NOP,3,home,DefReb,,,DefReb,,G. Dieng,
+127,2,10:04.0,41,31,MIN,NOP,9,home,JS,,15,make2,2,T. Jones,
+128,2,9:41.0,41,31,MIN,NOP,23,away,lost ball,steal,,turnover,,D. Miller,J. Crawford
+129,2,9:34.0,41,31,MIN,NOP,7,home,JS,,20,miss2,0,J. Crawford,
+130,2,9:30.0,41,31,MIN,NOP,4,away,DefReb,,,DefReb,,C. Diallo,
+131,2,9:22.0,41,31,MIN,NOP,8,away,lost ball,steal,,turnover,,M. James,T. Jones
+132,2,9:19.0,43,31,MIN,NOP,3,home,LU,,1,make2,2,T. Jones,
+133,2,8:58.0,43,33,MIN,NOP,21,away,JS,,12,make2,2,M. James,
+134,2,8:35.0,45,33,MIN,NOP,23,home,DK,assist,0,make2,2,N. Bjelica,J. Crawford
+135,2,8:22.0,45,33,MIN,NOP,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Bjelica,I. Clark
+136,2,8:16.0,45,33,MIN,NOP,6,away,JS,,19,miss2,0,M. James,
+137,2,8:13.0,45,33,MIN,NOP,3,home,DefReb,,,DefReb,,G. Dieng,
+138,2,8:10.0,45,33,MIN,NOP,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. James,T. Jones
+139,2,8:10.0,46,33,MIN,NOP,0,home,FreeThrow,,,make1,1,T. Jones,
+140,2,8:10.0,46,33,MIN,NOP,0,away,Sub,,,,,J. Holiday,M. James
+141,2,8:10.0,47,33,MIN,NOP,0,home,FreeThrow,,,make1,1,T. Jones,
+142,2,7:55.0,47,33,MIN,NOP,15,away,LU,,0,miss2,0,C. Diallo,
+143,2,7:51.0,47,33,MIN,NOP,4,home,DefReb,,,DefReb,,G. Dieng,
+144,2,7:40.0,49,33,MIN,NOP,11,home,LU,assist,1,make2,2,A. Wiggins,J. Crawford
+145,2,7:27.0,49,36,MIN,NOP,13,away,JS,assist,23,make3,3,I. Clark,J. Holiday
+146,2,7:07.0,51,36,MIN,NOP,20,home,JS,,19,make2,2,J. Crawford,
+147,2,6:50.0,51,36,MIN,NOP,17,away,JS,,11,miss2,0,J. Holiday,
+148,2,6:47.0,51,36,MIN,NOP,3,home,DefReb,,,DefReb,,G. Dieng,
+149,2,6:41.0,51,36,MIN,NOP,6,home,JS,,5,miss2,0,T. Jones,
+150,2,6:38.0,51,36,MIN,NOP,3,away,DefReb,,,DefReb,,C. Diallo,
+151,2,6:32.0,51,36,MIN,NOP,6,away,JS,,26,miss3,0,D. Miller,
+152,2,6:30.0,51,36,MIN,NOP,2,away,OffReb,,,OffReb,,N. Mirotić,
+153,2,6:28.0,51,36,MIN,NOP,2,away,LU,,0,miss2,0,N. Mirotić,
+154,2,6:28.0,51,36,MIN,NOP,0,away,OffReb,,,OffReb,,N. Mirotić,
+155,2,6:27.0,51,36,MIN,NOP,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Wiggins,N. Mirotić
+156,2,6:27.0,51,36,MIN,NOP,0,home,Timeout,,,,,,
+157,2,6:27.0,51,36,MIN,NOP,0,home,Sub,,,,,J. Teague,T. Jones
+158,2,6:27.0,51,36,MIN,NOP,0,home,Sub,,,,,K. Towns,G. Dieng
+159,2,6:27.0,51,36,MIN,NOP,0,away,Sub,,,,,D. Cunningham,D. Miller
+160,2,6:27.0,51,37,MIN,NOP,0,away,FreeThrow,,,make1,1,N. Mirotić,
+161,2,6:27.0,51,37,MIN,NOP,0,away,FreeThrow,,,make1,0,N. Mirotić,
+162,2,6:25.0,51,37,MIN,NOP,2,home,DefReb,,,DefReb,,J. Crawford,
+163,2,6:12.0,51,37,MIN,NOP,13,home,LU,block,1,miss2,0,K. Towns,C. Diallo
+164,2,6:10.0,51,37,MIN,NOP,2,away,DefReb,,,DefReb,,C. Diallo,
+165,2,6:05.0,51,37,MIN,NOP,5,away,bad pass,steal,,turnover,,J. Holiday,N. Bjelica
+166,2,6:00.0,53,37,MIN,NOP,5,home,JS,,11,make2,2,J. Crawford,
+167,2,6:00.0,53,37,MIN,NOP,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cunningham,J. Crawford
+168,2,6:00.0,53,37,MIN,NOP,0,away,Sub,,,,,A. Davis,N. Mirotić
+169,2,6:00.0,53,37,MIN,NOP,0,home,Sub,,,,,T. Gibson,N. Bjelica
+170,2,6:00.0,54,37,MIN,NOP,0,home,FreeThrow,,,make1,1,J. Crawford,
+171,2,5:40.0,54,39,MIN,NOP,20,away,JS,,6,make2,2,J. Holiday,
+172,2,5:40.0,54,39,MIN,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,J. Holiday
+173,2,5:40.0,54,40,MIN,NOP,0,away,FreeThrow,,,make1,1,J. Holiday,
+174,2,5:30.0,54,40,MIN,NOP,10,home,JS,,24,miss3,0,J. Crawford,
+175,2,5:26.0,54,40,MIN,NOP,4,home,OffReb,,,OffReb,,T. Gibson,
+176,2,5:16.0,54,40,MIN,NOP,10,home,Turnover,,,turnover,,K. Towns,
+177,2,5:01.0,54,40,MIN,NOP,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Gibson,A. Davis
+178,2,5:01.0,54,40,MIN,NOP,0,home,Sub,,,,,J. Butler,J. Crawford
+179,2,5:01.0,54,40,MIN,NOP,0,away,Sub,,,,,N. Mirotić,C. Diallo
+180,2,4:57.0,54,40,MIN,NOP,4,away,LU,,1,miss2,0,J. Holiday,
+181,2,4:54.0,54,40,MIN,NOP,3,home,DefReb,,,DefReb,,K. Towns,
+182,2,4:45.0,54,40,MIN,NOP,9,home,OutOfBoundsLB,,,turnover,,J. Teague,
+183,2,4:41.0,54,40,MIN,NOP,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Wiggins,A. Davis
+184,2,4:41.0,54,41,MIN,NOP,0,away,FreeThrow,,,make1,1,A. Davis,
+185,2,4:41.0,54,42,MIN,NOP,0,away,FreeThrow,,,make1,1,A. Davis,
+186,2,4:29.0,54,42,MIN,NOP,12,home,JS,,20,miss2,0,A. Wiggins,
+187,2,4:27.0,54,42,MIN,NOP,2,away,DefReb,,,DefReb,,I. Clark,
+188,2,4:21.0,54,44,MIN,NOP,6,away,JS,assist,19,make2,2,I. Clark,J. Holiday
+189,2,4:03.0,56,44,MIN,NOP,18,home,LU,,1,make2,2,J. Butler,
+190,2,3:54.0,56,44,MIN,NOP,9,away,bad pass,steal,,turnover,,J. Holiday,K. Towns
+191,2,3:50.0,58,44,MIN,NOP,4,home,DK,assist,0,make2,2,T. Gibson,J. Teague
+192,2,3:38.0,58,46,MIN,NOP,12,away,JS,assist,10,make2,2,A. Davis,J. Holiday
+193,2,3:31.0,58,46,MIN,NOP,7,home,DiscontinueDribbleTurnover,,,turnover,,J. Teague,
+194,2,3:26.0,58,46,MIN,NOP,5,away,JS,,15,miss2,0,I. Clark,
+195,2,3:22.0,58,46,MIN,NOP,4,away,OffReb,,,OffReb,,I. Clark,
+196,2,3:20.0,58,48,MIN,NOP,2,away,JS,,5,make2,2,I. Clark,
+197,2,3:00.0,60,48,MIN,NOP,20,home,JS,,7,make2,2,J. Butler,
+198,2,2:38.0,60,48,MIN,NOP,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Towns,J. Holiday
+199,2,2:38.0,60,48,MIN,NOP,0,away,Timeout,,,,,,
+200,2,2:38.0,60,49,MIN,NOP,0,away,FreeThrow,,,make1,1,J. Holiday,
+201,2,2:38.0,60,50,MIN,NOP,0,away,FreeThrow,,,make1,1,J. Holiday,
+202,2,2:26.0,60,50,MIN,NOP,12,home,JS,,24,miss3,0,J. Butler,
+203,2,2:22.0,60,50,MIN,NOP,4,home,OffReb,,,OffReb,,K. Towns,
+204,2,2:05.0,62,50,MIN,NOP,17,home,JS,,13,make2,2,J. Butler,
+205,2,1:40.0,62,50,MIN,NOP,25,away,JS,,19,miss2,0,A. Davis,
+206,2,1:38.0,62,50,MIN,NOP,2,home,DefReb,,,DefReb,,A. Wiggins,
+207,2,1:32.0,64,50,MIN,NOP,6,home,DK,assist,1,make2,2,J. Butler,J. Teague
+208,2,1:18.0,64,50,MIN,NOP,14,away,JS,,22,miss3,0,I. Clark,
+209,2,1:16.0,64,50,MIN,NOP,2,home,DefReb,,,DefReb,,K. Towns,
+210,2,0:55.0,64,50,MIN,NOP,21,home,ShotClockViolation,,,turnover,,Team,
+211,2,0:45.0,64,53,MIN,NOP,10,away,JS,assist,23,make3,3,D. Cunningham,J. Holiday
+212,2,0:31.0,64,53,MIN,NOP,14,home,DK,,1,miss2,0,K. Towns,
+213,2,0:28.0,64,53,MIN,NOP,3,away,DefReb,,,DefReb,,I. Clark,
+214,2,0:27.0,64,53,MIN,NOP,1,away,lost ball,steal,,turnover,,I. Clark,J. Butler
+215,2,0:27.0,66,53,MIN,NOP,0,home,DK,,1,make2,2,T. Gibson,
+216,2,0:09.0,66,53,MIN,NOP,18,away,JS,,26,miss3,0,N. Mirotić,
+217,2,0:06.0,66,53,MIN,NOP,3,home,DefReb,,,DefReb,,J. Butler,
+218,2,0:03.0,66,53,MIN,NOP,3,home,LU,block,2,miss2,0,A. Wiggins,J. Holiday
+219,2,0:03.0,66,53,MIN,NOP,0,home,OffReb,,,OffReb,,Team,
+220,2,0:02.0,66,53,MIN,NOP,1,home,JS,,22,miss3,0,J. Butler,
+221,2,0:02.0,66,53,MIN,NOP,0,home,OffReb,,,OffReb,,J. Butler,
+222,3,11:46.0,68,53,MIN,NOP,14,home,JS,,10,make2,2,J. Butler,
+223,3,11:26.0,68,53,MIN,NOP,20,away,JS,,8,miss2,0,E. Moore,
+224,3,11:23.0,68,53,MIN,NOP,3,home,DefReb,,,DefReb,,T. Gibson,
+225,3,11:17.0,71,53,MIN,NOP,6,home,JS,assist,25,make3,3,K. Towns,J. Teague
+226,3,11:06.0,71,55,MIN,NOP,11,away,LU,assist,0,make2,2,A. Davis,J. Holiday
+227,3,10:39.0,71,55,MIN,NOP,27,home,JS,,3,miss2,0,K. Towns,
+228,3,10:36.0,71,55,MIN,NOP,3,away,DefReb,,,DefReb,,J. Holiday,
+229,3,10:31.0,71,57,MIN,NOP,5,away,DK,assist,0,make2,2,A. Davis,E. Moore
+230,3,10:13.0,73,57,MIN,NOP,18,home,JS,,13,make2,2,A. Wiggins,
+231,3,9:57.0,73,57,MIN,NOP,16,away,JS,,24,miss3,0,A. Davis,
+232,3,9:55.0,73,57,MIN,NOP,2,home,DefReb,,,DefReb,,Team,
+233,3,9:39.0,73,57,MIN,NOP,16,home,bad pass,steal,,turnover,,J. Teague,A. Davis
+234,3,9:35.0,73,57,MIN,NOP,4,away,Traveling,,,turnover,,E. Moore,
+235,3,9:22.0,73,57,MIN,NOP,13,home,LU,block,3,miss2,0,K. Towns,A. Davis
+236,3,9:20.0,73,57,MIN,NOP,2,away,DefReb,,,DefReb,,J. Holiday,
+237,3,9:16.0,73,57,MIN,NOP,4,away,JS,,24,miss3,0,J. Holiday,
+238,3,9:12.0,73,57,MIN,NOP,4,home,DefReb,,,DefReb,,J. Butler,
+239,3,9:09.0,76,57,MIN,NOP,3,home,JS,,24,make3,3,J. Butler,
+240,3,9:07.0,76,57,MIN,NOP,2,away,Timeout,,,,,,
+241,3,9:07.0,76,57,MIN,NOP,0,away,Sub,,,,,N. Mirotić,E. Moore
+242,3,8:55.0,76,57,MIN,NOP,12,away,JS,,19,miss2,0,N. Mirotić,
+243,3,8:51.0,76,57,MIN,NOP,4,home,DefReb,,,DefReb,,J. Butler,
+244,3,8:42.0,78,57,MIN,NOP,9,home,LU,,1,make2,2,J. Butler,
+245,3,8:18.0,78,59,MIN,NOP,24,away,JS,assist,18,make2,2,R. Rondo,N. Mirotić
+246,3,7:59.0,78,59,MIN,NOP,19,home,JS,,25,miss3,0,A. Wiggins,
+247,3,7:56.0,78,59,MIN,NOP,3,away,DefReb,,,DefReb,,R. Rondo,
+248,3,7:50.0,78,61,MIN,NOP,6,away,LU,,2,make2,2,R. Rondo,
+249,3,7:37.0,80,61,MIN,NOP,13,home,LU,assist,1,make2,2,A. Wiggins,J. Butler
+250,3,7:22.0,80,61,MIN,NOP,15,away,OutOfBoundsLB,,,turnover,,A. Davis,
+251,3,7:07.0,80,61,MIN,NOP,15,home,lost ball,steal,,turnover,,T. Gibson,N. Mirotić
+252,3,7:01.0,80,61,MIN,NOP,6,away,JS,,7,miss2,0,J. Holiday,
+253,3,6:58.0,80,61,MIN,NOP,3,away,OffReb,,,OffReb,,N. Mirotić,
+254,3,6:53.0,80,61,MIN,NOP,5,away,JS,,24,miss3,0,D. Cunningham,
+255,3,6:50.0,80,61,MIN,NOP,3,home,DefReb,,,DefReb,,K. Towns,
+256,3,6:45.0,80,61,MIN,NOP,5,home,JS,,25,miss3,0,J. Teague,
+257,3,6:39.0,80,61,MIN,NOP,6,home,OffReb,,,OffReb,,A. Wiggins,
+258,3,6:39.0,82,61,MIN,NOP,0,home,LU,,0,make2,2,A. Wiggins,
+259,3,6:31.0,82,61,MIN,NOP,8,away,LU,,0,miss2,0,D. Cunningham,
+260,3,6:29.0,82,61,MIN,NOP,2,home,DefReb,,,DefReb,,T. Gibson,
+261,3,6:25.0,82,61,MIN,NOP,4,home,JS,,11,miss2,0,J. Teague,
+262,3,6:23.0,82,61,MIN,NOP,2,away,DefReb,,,DefReb,,N. Mirotić,
+263,3,6:11.0,82,63,MIN,NOP,12,away,LU,,0,make2,2,A. Davis,
+264,3,5:44.0,85,63,MIN,NOP,27,home,JS,assist,25,make3,3,J. Teague,T. Gibson
+265,3,5:21.0,85,66,MIN,NOP,23,away,JS,,23,make3,3,R. Rondo,
+266,3,5:07.0,85,66,MIN,NOP,14,home,bad pass,steal,,turnover,,J. Butler,N. Mirotić
+267,3,5:00.0,85,66,MIN,NOP,7,away,JS,,2,miss2,0,A. Davis,
+268,3,4:59.0,85,66,MIN,NOP,1,away,OffReb,,,OffReb,,A. Davis,
+269,3,4:59.0,85,68,MIN,NOP,0,away,LU,,2,make2,2,A. Davis,
+270,3,4:59.0,85,68,MIN,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Towns,A. Davis
+271,3,4:59.0,85,68,MIN,NOP,0,home,Sub,,,,,J. Crawford,J. Butler
+272,3,4:59.0,85,68,MIN,NOP,0,away,Sub,,,,,I. Clark,J. Holiday
+273,3,4:59.0,85,68,MIN,NOP,0,away,Sub,,,,,D. Miller,D. Cunningham
+274,3,4:59.0,85,69,MIN,NOP,0,away,FreeThrow,,,make1,1,A. Davis,
+275,3,4:37.0,85,69,MIN,NOP,22,home,JS,,7,miss2,0,J. Teague,
+276,3,4:34.0,85,69,MIN,NOP,3,away,DefReb,,,DefReb,,I. Clark,
+277,3,4:30.0,85,69,MIN,NOP,4,away,JS,,25,miss3,0,D. Miller,
+278,3,4:25.0,85,69,MIN,NOP,5,away,OffReb,,,OffReb,,N. Mirotić,
+279,3,4:21.0,85,69,MIN,NOP,4,away,JS,,24,miss3,0,I. Clark,
+280,3,4:18.0,85,69,MIN,NOP,3,home,DefReb,,,DefReb,,J. Teague,
+281,3,4:08.0,85,69,MIN,NOP,10,home,LU,block,4,miss2,0,T. Gibson,N. Mirotić
+282,3,4:05.0,85,69,MIN,NOP,3,home,OffReb,,,OffReb,,T. Gibson,
+283,3,4:04.0,87,69,MIN,NOP,1,home,LU,,2,make2,2,T. Gibson,
+284,3,3:55.0,87,69,MIN,NOP,9,away,JS,,24,miss3,0,A. Davis,
+285,3,3:55.0,87,69,MIN,NOP,0,away,OffReb,,,OffReb,,N. Mirotić,
+286,3,3:51.0,87,69,MIN,NOP,4,away,LU,block,3,miss2,0,A. Davis,J. Teague
+287,3,3:50.0,87,69,MIN,NOP,1,home,DefReb,,,DefReb,,Team,
+288,3,3:50.0,87,69,MIN,NOP,0,home,Sub,,,,,T. Jones,J. Teague
+289,3,3:38.0,87,69,MIN,NOP,12,home,JS,,23,miss3,0,T. Jones,
+290,3,3:36.0,87,69,MIN,NOP,2,away,DefReb,,,DefReb,,R. Rondo,
+291,3,3:28.0,87,69,MIN,NOP,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Jones,N. Mirotić
+292,3,3:28.0,87,70,MIN,NOP,0,away,FreeThrow,,,make1,1,N. Mirotić,
+293,3,3:28.0,87,71,MIN,NOP,0,away,FreeThrow,,,make1,1,N. Mirotić,
+294,3,3:09.0,87,71,MIN,NOP,19,home,bad pass,steal,,turnover,,J. Crawford,A. Davis
+295,3,3:05.0,87,71,MIN,NOP,4,away,JS,,22,miss3,0,I. Clark,
+296,3,2:59.0,87,71,MIN,NOP,6,away,OffReb,,,OffReb,,A. Davis,
+297,3,2:59.0,87,73,MIN,NOP,0,away,LU,,0,make2,2,A. Davis,
+298,3,2:47.0,87,73,MIN,NOP,12,home,LU,block,2,miss2,0,T. Jones,I. Clark
+299,3,2:47.0,87,73,MIN,NOP,0,home,OffReb,,,OffReb,,Team,
+300,3,2:47.0,87,73,MIN,NOP,0,home,Timeout,,,,,,
+301,3,2:45.0,90,73,MIN,NOP,2,home,JS,assist,22,make3,3,J. Crawford,T. Jones
+302,3,2:26.0,90,76,MIN,NOP,19,away,JS,assist,23,make3,3,N. Mirotić,R. Rondo
+303,3,2:06.0,90,76,MIN,NOP,20,home,JS,,26,miss3,0,A. Wiggins,
+304,3,2:03.0,90,76,MIN,NOP,3,away,DefReb,,,DefReb,,N. Mirotić,
+305,3,1:51.0,90,79,MIN,NOP,12,away,JS,assist,24,make3,3,N. Mirotić,I. Clark
+306,3,1:33.0,90,79,MIN,NOP,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,J. Crawford
+307,3,1:33.0,90,79,MIN,NOP,0,home,Sub,,,,,J. Butler,A. Wiggins
+308,3,1:33.0,90,79,MIN,NOP,0,away,Sub,,,,,J. Holiday,R. Rondo
+309,3,1:27.0,90,79,MIN,NOP,6,home,JS,,19,miss2,0,J. Crawford,
+310,3,1:22.0,90,79,MIN,NOP,5,home,OffReb,,,OffReb,,K. Towns,
+311,3,1:22.0,92,79,MIN,NOP,0,home,LU,,3,make2,2,K. Towns,
+312,3,1:22.0,92,79,MIN,NOP,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Miller,K. Towns
+313,3,1:22.0,93,79,MIN,NOP,0,home,FreeThrow,,,make1,1,K. Towns,
+314,3,1:12.0,93,81,MIN,NOP,10,away,LU,,1,make2,2,J. Holiday,
+315,3,0:58.0,93,81,MIN,NOP,14,home,JS,block,12,miss2,0,J. Butler,D. Miller
+316,3,0:55.0,93,81,MIN,NOP,3,away,DefReb,,,DefReb,,N. Mirotić,
+317,3,0:49.0,93,81,MIN,NOP,6,away,JS,,13,miss2,0,A. Davis,
+318,3,0:46.0,93,81,MIN,NOP,3,home,DefReb,,,DefReb,,T. Gibson,
+319,3,0:37.0,93,81,MIN,NOP,9,home,LU,,0,miss2,0,J. Butler,
+320,3,0:34.0,93,81,MIN,NOP,3,away,DefReb,,,DefReb,,I. Clark,
+321,3,0:29.0,93,81,MIN,NOP,5,away,JS,,24,miss3,0,J. Holiday,
+322,3,0:26.0,93,81,MIN,NOP,3,home,DefReb,,,DefReb,,J. Crawford,
+323,3,0:04.0,93,81,MIN,NOP,22,home,JS,,21,miss2,0,J. Crawford,
+324,3,0:04.0,93,81,MIN,NOP,0,home,OffReb,,,OffReb,,K. Towns,
+325,3,0:02.0,95,81,MIN,NOP,2,home,DK,,0,make2,2,K. Towns,
+326,4,11:37.0,95,81,MIN,NOP,23,away,JS,,24,miss3,0,I. Clark,
+327,4,11:35.0,95,81,MIN,NOP,2,away,OffReb,,,OffReb,,C. Diallo,
+328,4,11:35.0,95,81,MIN,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Butler,C. Diallo
+329,4,11:35.0,95,82,MIN,NOP,0,away,FreeThrow,,,make1,1,C. Diallo,
+330,4,11:35.0,95,83,MIN,NOP,0,away,FreeThrow,,,make1,1,C. Diallo,
+331,4,11:12.0,95,83,MIN,NOP,23,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Mirotić,J. Butler
+332,4,11:12.0,96,83,MIN,NOP,0,home,FreeThrow,,,make1,1,J. Butler,
+333,4,11:12.0,97,83,MIN,NOP,0,home,FreeThrow,,,make1,1,J. Butler,
+334,4,10:55.0,97,85,MIN,NOP,17,away,JS,assist,14,make2,2,D. Miller,J. Holiday
+335,4,10:30.0,97,85,MIN,NOP,25,home,JS,,28,miss3,0,J. Crawford,
+336,4,10:28.0,97,85,MIN,NOP,2,away,DefReb,,,DefReb,,C. Diallo,
+337,4,10:18.0,97,85,MIN,NOP,10,away,JS,,24,miss3,0,N. Mirotić,
+338,4,10:13.0,97,85,MIN,NOP,5,away,OffReb,,,OffReb,,C. Diallo,
+339,4,10:12.0,97,87,MIN,NOP,1,away,LU,assist,0,make2,2,N. Mirotić,C. Diallo
+340,4,10:12.0,97,87,MIN,NOP,0,home,Timeout,,,,,,
+341,4,10:01.0,99,87,MIN,NOP,11,home,JS,assist,15,make2,2,G. Dieng,J. Butler
+342,4,9:42.0,99,87,MIN,NOP,19,away,JS,,16,miss2,0,C. Diallo,
+343,4,9:39.0,99,87,MIN,NOP,3,home,DefReb,,,DefReb,,J. Butler,
+344,4,9:33.0,99,87,MIN,NOP,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Diallo,J. Butler
+345,4,9:33.0,99,87,MIN,NOP,0,home,FreeThrow,,,make1,0,J. Butler,
+346,4,9:33.0,99,87,MIN,NOP,0,home,OffReb,,,OffReb,,Team,
+347,4,9:33.0,100,87,MIN,NOP,0,home,FreeThrow,,,make1,1,J. Butler,
+348,4,9:18.0,100,87,MIN,NOP,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Jones,C. Diallo
+349,4,9:18.0,100,88,MIN,NOP,0,away,FreeThrow,,,make1,1,C. Diallo,
+350,4,9:18.0,100,89,MIN,NOP,0,away,FreeThrow,,,make1,1,C. Diallo,
+351,4,9:05.0,100,89,MIN,NOP,13,home,JS,,25,miss3,0,N. Bjelica,
+352,4,9:01.0,100,89,MIN,NOP,4,away,DefReb,,,DefReb,,D. Miller,
+353,4,8:50.0,100,89,MIN,NOP,11,away,JS,block,10,miss2,0,C. Diallo,J. Crawford
+354,4,8:47.0,100,89,MIN,NOP,3,home,DefReb,,,DefReb,,N. Bjelica,
+355,4,8:41.0,100,89,MIN,NOP,6,home,bad pass,steal,,turnover,,J. Crawford,N. Mirotić
+356,4,8:24.0,100,89,MIN,NOP,17,away,JS,,3,miss2,0,C. Diallo,
+357,4,8:22.0,100,89,MIN,NOP,2,home,DefReb,,,DefReb,,G. Dieng,
+358,4,8:17.0,103,89,MIN,NOP,5,home,JS,assist,22,make3,3,T. Jones,J. Butler
+359,4,8:15.0,103,89,MIN,NOP,2,away,Timeout,,,,,,
+360,4,8:15.0,103,89,MIN,NOP,0,away,Sub,,,,,A. Davis,N. Mirotić
+361,4,8:02.0,103,89,MIN,NOP,13,away,JS,,12,miss2,0,J. Holiday,
+362,4,8:00.0,103,89,MIN,NOP,2,home,DefReb,,,DefReb,,N. Bjelica,
+363,4,7:44.0,105,89,MIN,NOP,16,home,LU,assist,1,make2,2,T. Jones,J. Butler
+364,4,7:30.0,105,91,MIN,NOP,14,away,JS,assist,8,make2,2,A. Davis,J. Holiday
+365,4,7:15.0,105,91,MIN,NOP,15,home,JS,,23,miss3,0,J. Crawford,
+366,4,7:13.0,105,91,MIN,NOP,2,away,DefReb,,,DefReb,,A. Davis,
+367,4,7:05.0,105,91,MIN,NOP,8,away,JS,,21,miss2,0,A. Davis,
+368,4,7:02.0,105,91,MIN,NOP,3,home,DefReb,,,DefReb,,N. Bjelica,
+369,4,6:51.0,105,91,MIN,NOP,11,home,JS,,20,miss2,0,G. Dieng,
+370,4,6:51.0,105,91,MIN,NOP,0,away,DefReb,,,DefReb,,C. Diallo,
+371,4,6:38.0,105,93,MIN,NOP,13,away,JS,,16,make2,2,I. Clark,
+372,4,6:19.0,105,93,MIN,NOP,19,home,JS,,26,miss3,0,N. Bjelica,
+373,4,6:15.0,105,93,MIN,NOP,4,away,DefReb,,,DefReb,,J. Holiday,
+374,4,6:10.0,105,93,MIN,NOP,5,away,lost ball,steal,,turnover,,A. Davis,T. Jones
+375,4,6:06.0,107,93,MIN,NOP,4,home,LU,,1,make2,2,T. Jones,
+376,4,5:50.0,107,93,MIN,NOP,16,away,JS,,8,miss2,0,A. Davis,
+377,4,5:48.0,107,93,MIN,NOP,2,away,OffReb,,,OffReb,,C. Diallo,
+378,4,5:48.0,107,95,MIN,NOP,0,away,LU,,0,make2,2,C. Diallo,
+379,4,5:48.0,107,95,MIN,NOP,0,home,Timeout,,,,,,
+380,4,5:48.0,107,95,MIN,NOP,0,home,Sub,,,,,T. Gibson,T. Jones
+381,4,5:48.0,107,95,MIN,NOP,0,home,Sub,,,,,K. Towns,G. Dieng
+382,4,5:48.0,107,95,MIN,NOP,0,home,Sub,,,,,J. Teague,N. Bjelica
+383,4,5:48.0,107,95,MIN,NOP,0,home,Sub,,,,,A. Wiggins,J. Crawford
+384,4,5:48.0,107,95,MIN,NOP,0,away,Sub,,,,,N. Mirotić,C. Diallo
+385,4,5:48.0,107,95,MIN,NOP,0,away,Sub,,,,,R. Rondo,D. Miller
+386,4,5:30.0,107,95,MIN,NOP,18,home,JS,,21,miss2,0,J. Butler,
+387,4,5:26.0,107,95,MIN,NOP,4,away,DefReb,,,DefReb,,A. Davis,
+388,4,5:18.0,107,97,MIN,NOP,8,away,DK,assist,0,make2,2,A. Davis,R. Rondo
+389,4,4:53.0,107,97,MIN,NOP,25,home,JS,,12,miss2,0,J. Butler,
+390,4,4:51.0,107,97,MIN,NOP,2,away,DefReb,,,DefReb,,A. Davis,
+391,4,4:47.0,107,97,MIN,NOP,4,away,JS,,25,miss3,0,A. Davis,
+392,4,4:45.0,107,97,MIN,NOP,2,home,DefReb,,,DefReb,,Team,
+393,4,4:32.0,109,97,MIN,NOP,13,home,JS,,4,make2,2,J. Butler,
+394,4,4:21.0,109,99,MIN,NOP,11,away,LU,,3,make2,2,J. Holiday,
+395,4,4:03.0,112,99,MIN,NOP,18,home,JS,assist,25,make3,3,K. Towns,J. Butler
+396,4,3:38.0,112,99,MIN,NOP,25,away,bad pass,steal,,turnover,,I. Clark,J. Butler
+397,4,3:35.0,114,99,MIN,NOP,3,home,DK,,1,make2,2,J. Butler,
+398,4,3:35.0,114,99,MIN,NOP,0,away,Timeout,,,,,,
+399,4,3:22.0,114,101,MIN,NOP,13,away,LU,,1,make2,2,R. Rondo,
+400,4,2:53.0,114,101,MIN,NOP,29,home,JS,,17,miss2,0,J. Butler,
+401,4,2:49.0,114,101,MIN,NOP,4,away,DefReb,,,DefReb,,N. Mirotić,
+402,4,2:44.0,114,101,MIN,NOP,5,away,JS,,20,miss2,0,I. Clark,
+403,4,2:41.0,114,101,MIN,NOP,3,away,OffReb,,,OffReb,,N. Mirotić,
+404,4,2:39.0,114,101,MIN,NOP,2,away,JS,,24,miss3,0,J. Holiday,
+405,4,2:39.0,114,101,MIN,NOP,0,home,DefReb,,,DefReb,,K. Towns,
+406,4,2:27.0,114,101,MIN,NOP,12,home,LU,,0,miss2,0,A. Wiggins,
+407,4,2:25.0,114,101,MIN,NOP,2,away,DefReb,,,DefReb,,J. Holiday,
+408,4,2:23.0,114,101,MIN,NOP,2,away,JS,,24,miss3,0,I. Clark,
+409,4,2:20.0,114,101,MIN,NOP,3,away,OffReb,,,OffReb,,I. Clark,
+410,4,2:11.0,114,101,MIN,NOP,9,away,JS,,24,miss3,0,N. Mirotić,
+411,4,2:11.0,114,101,MIN,NOP,0,home,DefReb,,,DefReb,,A. Wiggins,
+412,4,1:48.0,114,101,MIN,NOP,23,home,JS,block,19,miss2,0,J. Butler,J. Holiday
+413,4,1:47.0,114,101,MIN,NOP,1,home,OffReb,,,OffReb,,Team,
+414,4,1:47.0,114,101,MIN,NOP,0,home,ShotClockViolation,,,turnover,,Team,
+415,4,1:47.0,114,101,MIN,NOP,0,away,Sub,,,,,C. Cooke,J. Holiday
+416,4,1:47.0,114,101,MIN,NOP,0,away,Sub,,,,,M. James,A. Davis
+417,4,1:47.0,114,101,MIN,NOP,0,away,Sub,,,,,C. Diallo,R. Rondo
+418,4,1:35.0,114,103,MIN,NOP,12,away,JS,assist,15,make2,2,C. Diallo,N. Mirotić
+419,4,1:16.0,114,103,MIN,NOP,19,home,LU,,3,miss2,0,K. Towns,
+420,4,1:15.0,114,103,MIN,NOP,1,home,OffReb,,,OffReb,,K. Towns,
+421,4,1:14.0,114,103,MIN,NOP,1,home,LU,,1,miss2,0,K. Towns,
+422,4,1:14.0,114,103,MIN,NOP,0,away,DefReb,,,DefReb,,C. Cooke,
+423,4,1:03.0,114,103,MIN,NOP,11,away,lost ball,steal,,turnover,,N. Mirotić,J. Teague
+424,4,0:57.0,116,103,MIN,NOP,6,home,LU,,1,make2,2,A. Wiggins,
+425,4,0:53.0,116,103,MIN,NOP,4,away,JS,,25,miss3,0,I. Clark,
+426,4,0:51.0,116,103,MIN,NOP,2,away,OffReb,,,OffReb,,Team,
+427,4,0:51.0,116,103,MIN,NOP,0,home,Sub,,,,,G. Dieng,J. Teague
+428,4,0:51.0,116,103,MIN,NOP,0,home,Sub,,,,,M. Georges-Hunt,J. Butler
+429,4,0:51.0,116,103,MIN,NOP,0,home,Sub,,,,,A. Brooks,K. Towns
+430,4,0:50.0,116,105,MIN,NOP,1,away,JS,assist,12,make2,2,C. Diallo,M. James
+431,4,0:36.0,118,105,MIN,NOP,14,home,JS,assist,21,make2,2,G. Dieng,A. Brooks
+432,4,0:28.0,118,107,MIN,NOP,8,away,LU,assist,1,make2,2,N. Mirotić,M. James
+433,4,0:28.0,118,107,MIN,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Gibson,N. Mirotić
+434,4,0:28.0,118,107,MIN,NOP,0,away,FreeThrow,,,make1,0,N. Mirotić,
+435,4,0:27.0,118,107,MIN,NOP,1,home,DefReb,,,DefReb,,T. Gibson,
+436,4,0:04.0,118,107,MIN,NOP,23,home,ShotClockViolation,,,turnover,,Team,
+437,4,0:00.0,118,107,MIN,NOP,4,away,JS,,32,miss3,0,C. Cooke,
+438,4,0:00.0,118,107,MIN,NOP,0,away,OffReb,,,OffReb,,Team,

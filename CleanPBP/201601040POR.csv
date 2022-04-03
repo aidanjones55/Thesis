@@ -1,0 +1,473 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:31.0,0,0,POR,MEM,29,away,JS,,32,miss3,0,J. Green,
+1,1,11:31.0,0,0,POR,MEM,0,away,OffReb,,,OffReb,,Team,
+2,1,11:31.0,0,0,POR,MEM,0,away,ShotClockViolation,,,turnover,,Team,
+3,1,11:15.0,0,0,POR,MEM,16,home,LU,,1,miss2,0,M. Plumlee,
+4,1,11:14.0,0,0,POR,MEM,1,away,DefReb,,,DefReb,,M. Gasol,
+5,1,10:56.0,0,0,POR,MEM,18,away,JS,,9,miss2,0,M. Conley,
+6,1,10:56.0,0,0,POR,MEM,0,home,DefReb,,,DefReb,,M. Plumlee,
+7,1,10:49.0,0,0,POR,MEM,7,home,BadPass,,,turnover,,A. Aminu,
+8,1,10:30.0,0,0,POR,MEM,19,away,JS,,24,miss3,0,M. Conley,
+9,1,10:30.0,0,0,POR,MEM,0,home,DefReb,,,DefReb,,A. Aminu,
+10,1,10:18.0,0,0,POR,MEM,12,home,JS,,25,miss3,0,D. Lillard,
+11,1,10:17.0,0,0,POR,MEM,1,away,DefReb,,,DefReb,,Team,
+12,1,10:06.0,0,2,POR,MEM,11,away,JS,assist,4,make2,2,C. Lee,M. Conley
+13,1,9:50.0,0,2,POR,MEM,16,home,JS,,17,miss2,0,C. McCollum,
+14,1,9:50.0,0,2,POR,MEM,0,away,DefReb,,,DefReb,,M. Conley,
+15,1,9:35.0,0,2,POR,MEM,15,away,LU,block,2,miss2,0,J. Green,N. Vonleh
+16,1,9:34.0,0,2,POR,MEM,1,home,DefReb,,,DefReb,,M. Plumlee,
+17,1,9:22.0,0,2,POR,MEM,12,home,HS,,6,miss2,0,M. Plumlee,
+18,1,9:21.0,0,2,POR,MEM,1,away,DefReb,,,DefReb,,J. Green,
+19,1,9:11.0,0,2,POR,MEM,10,away,D3SecTech,,,,,,
+20,1,9:11.0,0,3,POR,MEM,0,away,FreeThrow,,,make1,1,C. Lee makes technical free throw,
+21,1,8:58.0,0,3,POR,MEM,13,away,JS,,14,miss2,0,M. Gasol,
+22,1,8:57.0,0,3,POR,MEM,1,home,DefReb,,,DefReb,,N. Vonleh,
+23,1,8:46.0,0,3,POR,MEM,11,home,JS,,19,miss2,0,M. Plumlee,
+24,1,8:45.0,0,3,POR,MEM,1,home,OffReb,,,OffReb,,N. Vonleh,
+25,1,8:41.0,0,3,POR,MEM,4,home,LU,block,2,miss2,0,N. Vonleh,J. Green
+26,1,8:41.0,0,3,POR,MEM,0,home,OffReb,,,OffReb,,A. Aminu,
+27,1,8:41.0,0,3,POR,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Gasol,A. Aminu
+28,1,8:41.0,1,3,POR,MEM,0,home,FreeThrow,,,make1,1,A. Aminu,
+29,1,8:41.0,2,3,POR,MEM,0,home,FreeThrow,,,make1,1,A. Aminu,
+30,1,8:28.0,2,5,POR,MEM,13,away,JS,assist,4,make2,2,C. Lee,M. Conley
+31,1,8:09.0,2,5,POR,MEM,19,home,JS,,25,miss3,0,A. Aminu,
+32,1,8:08.0,2,5,POR,MEM,1,away,DefReb,,,DefReb,,M. Conley,
+33,1,8:03.0,2,5,POR,MEM,5,away,LU,,0,miss2,0,M. Barnes,
+34,1,8:02.0,2,5,POR,MEM,1,away,OffReb,,,OffReb,,M. Barnes,
+35,1,8:02.0,2,5,POR,MEM,0,away,LU,,0,miss2,0,M. Barnes,
+36,1,8:00.0,2,5,POR,MEM,2,away,OffReb,,,OffReb,,M. Barnes,
+37,1,8:00.0,2,5,POR,MEM,0,away,LU,,0,miss2,0,M. Barnes,
+38,1,7:59.0,2,5,POR,MEM,1,home,DefReb,,,DefReb,,N. Vonleh,
+39,1,7:49.0,2,5,POR,MEM,10,home,BadPass,steal,,turnover,,N. Vonleh,M. Barnes
+40,1,7:32.0,2,5,POR,MEM,17,away,HS,,2,miss2,0,M. Gasol,
+41,1,7:28.0,2,5,POR,MEM,4,home,DefReb,,,DefReb,,A. Aminu,
+42,1,7:14.0,4,5,POR,MEM,14,home,HS,,3,make2,2,N. Vonleh,
+43,1,6:51.0,4,5,POR,MEM,23,away,HS,,4,miss2,0,M. Conley,
+44,1,6:49.0,4,5,POR,MEM,2,home,DefReb,,,DefReb,,D. Lillard,
+45,1,6:43.0,4,5,POR,MEM,6,home,LU,,2,miss2,0,C. McCollum,
+46,1,6:43.0,4,5,POR,MEM,0,home,OffReb,,,OffReb,,A. Aminu,
+47,1,6:43.0,6,5,POR,MEM,0,home,LU,,0,make2,2,A. Aminu,
+48,1,6:20.0,6,5,POR,MEM,23,away,JS,,24,miss3,0,M. Barnes,
+49,1,6:20.0,6,5,POR,MEM,0,home,DefReb,,,DefReb,,D. Lillard,
+50,1,6:14.0,6,5,POR,MEM,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Green,D. Lillard
+51,1,6:05.0,6,5,POR,MEM,9,home,JS,,24,miss3,0,D. Lillard,
+52,1,6:05.0,6,5,POR,MEM,0,away,DefReb,,,DefReb,,J. Green,
+53,1,5:54.0,6,5,POR,MEM,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Lillard,M. Barnes
+54,1,5:54.0,6,5,POR,MEM,0,home,Timeout,,,,,,
+55,1,5:54.0,6,5,POR,MEM,0,away,Sub,,,,,Z. Randolph,J. Green
+56,1,5:54.0,6,5,POR,MEM,0,home,Sub,,,,,A. Crabbe,C. McCollum
+57,1,5:54.0,6,5,POR,MEM,0,home,Sub,,,,,M. Leonard,N. Vonleh
+58,1,5:42.0,6,5,POR,MEM,12,away,JS,,23,miss3,0,M. Conley,
+59,1,5:41.0,6,5,POR,MEM,1,home,DefReb,,,DefReb,,A. Crabbe,
+60,1,5:30.0,6,5,POR,MEM,11,home,BadPass,steal,,turnover,,M. Leonard,C. Lee
+61,1,5:14.0,6,5,POR,MEM,16,away,JS,,22,miss3,0,C. Lee,
+62,1,5:13.0,6,5,POR,MEM,1,home,DefReb,,,DefReb,,M. Leonard,
+63,1,5:01.0,6,5,POR,MEM,12,home,JS,,11,miss2,0,M. Leonard,
+64,1,5:00.0,6,5,POR,MEM,1,away,DefReb,,,DefReb,,C. Lee,
+65,1,4:48.0,6,5,POR,MEM,12,away,JS,,11,miss2,0,M. Gasol,
+66,1,4:47.0,6,5,POR,MEM,1,home,DefReb,,,DefReb,,A. Crabbe,
+67,1,4:34.0,6,5,POR,MEM,13,home,BadPass,,,turnover,,M. Plumlee,
+68,1,4:34.0,6,5,POR,MEM,0,away,Sub,,,,,J. Green,M. Gasol
+69,1,4:34.0,6,5,POR,MEM,0,home,Sub,,,,,G. Henderson,A. Aminu
+70,1,4:16.0,6,5,POR,MEM,18,away,LU,,2,miss2,0,C. Lee,
+71,1,4:16.0,6,5,POR,MEM,0,away,OffReb,,,OffReb,,Z. Randolph,
+72,1,4:16.0,6,7,POR,MEM,0,away,LU,,0,make2,2,Z. Randolph,
+73,1,3:51.0,6,7,POR,MEM,25,home,JS,,23,miss3,0,G. Henderson,
+74,1,3:51.0,6,7,POR,MEM,0,home,OffReb,,,OffReb,,Team,
+75,1,3:51.0,6,7,POR,MEM,0,home,ShotClockViolation,,,turnover,,Team,
+76,1,3:51.0,6,7,POR,MEM,0,home,Sub,,,,,E. Davis,M. Plumlee
+77,1,3:51.0,6,7,POR,MEM,0,away,Sub,,,,,T. Allen,M. Barnes
+78,1,3:35.0,6,9,POR,MEM,16,away,JS,,19,make2,2,Z. Randolph,
+79,1,3:20.0,6,9,POR,MEM,15,home,JS,,12,miss2,0,D. Lillard,
+80,1,3:19.0,6,9,POR,MEM,1,away,DefReb,,,DefReb,,J. Green,
+81,1,3:11.0,6,11,POR,MEM,8,away,JS,,3,make2,2,J. Green,
+82,1,3:06.0,6,11,POR,MEM,5,home,BadPass,,,turnover,,D. Lillard,
+83,1,3:06.0,6,11,POR,MEM,0,away,Timeout,,,,,,
+84,1,3:06.0,6,11,POR,MEM,0,home,Sub,,,,,C. McCollum,D. Lillard
+85,1,3:06.0,6,11,POR,MEM,0,away,Sub,,,,,M. Chalmers,M. Conley
+86,1,2:47.0,6,11,POR,MEM,19,away,JS,,6,miss2,0,Z. Randolph,
+87,1,2:46.0,6,11,POR,MEM,1,home,DefReb,,,DefReb,,M. Leonard,
+88,1,2:34.0,6,11,POR,MEM,12,home,JS,,24,miss3,0,C. McCollum,
+89,1,2:33.0,6,11,POR,MEM,1,away,DefReb,,,DefReb,,J. Green,
+90,1,2:25.0,6,13,POR,MEM,8,away,JS,assist,3,make2,2,Z. Randolph,J. Green
+91,1,2:03.0,8,13,POR,MEM,22,home,JS,assist,11,make2,2,A. Crabbe,C. McCollum
+92,1,1:45.0,8,15,POR,MEM,18,away,JS,assist,21,make2,2,J. Green,M. Chalmers
+93,1,1:33.0,8,15,POR,MEM,12,home,LostBall,,,turnover,,E. Davis,
+94,1,1:33.0,8,15,POR,MEM,0,home,Sub,,,,,M. Harkless,M. Leonard
+95,1,1:10.0,8,15,POR,MEM,23,away,LU,,2,miss2,0,J. Green,
+96,1,1:09.0,8,15,POR,MEM,1,home,DefReb,,,DefReb,,E. Davis,
+97,1,0:59.0,10,15,POR,MEM,10,home,DK,assist,0,make2,2,G. Henderson,C. McCollum
+98,1,0:46.0,10,17,POR,MEM,13,away,LU,assist,2,make2,2,C. Lee,Z. Randolph
+99,1,0:30.0,12,17,POR,MEM,16,home,JS,assist,13,make2,2,G. Henderson,C. McCollum
+100,1,0:30.0,12,17,POR,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Chalmers,G. Henderson
+101,1,0:30.0,13,17,POR,MEM,0,home,FreeThrow,,,make1,1,G. Henderson,
+102,1,0:12.0,13,17,POR,MEM,18,away,JS,,6,miss2,0,Z. Randolph,
+103,1,0:11.0,13,17,POR,MEM,1,home,DefReb,,,DefReb,,C. McCollum,
+104,1,0:03.0,15,17,POR,MEM,8,home,HS,assist,2,make2,2,E. Davis,M. Harkless
+105,1,0:00.0,15,17,POR,MEM,3,away,JS,,51,miss3,0,M. Chalmers,
+106,1,0:00.0,15,17,POR,MEM,0,away,OffReb,,,OffReb,,Team,
+107,2,11:46.0,17,17,POR,MEM,14,home,JS,,4,make2,2,C. McCollum,
+108,2,11:17.0,17,20,POR,MEM,29,away,JS,assist,22,make3,3,T. Allen,M. Chalmers
+109,2,10:56.0,17,20,POR,MEM,21,home,JS,,17,miss2,0,G. Henderson,
+110,2,10:55.0,17,20,POR,MEM,1,away,DefReb,,,DefReb,,M. Chalmers,
+111,2,10:46.0,17,22,POR,MEM,9,away,JS,assist,18,make2,2,Z. Randolph,M. Chalmers
+112,2,10:26.0,17,22,POR,MEM,20,home,JS,,23,miss3,0,M. Harkless,
+113,2,10:26.0,17,22,POR,MEM,0,away,DefReb,,,DefReb,,C. Lee,
+114,2,10:11.0,17,22,POR,MEM,15,away,JS,block,4,miss2,0,T. Allen,E. Davis
+115,2,10:10.0,17,22,POR,MEM,1,away,OffReb,,,OffReb,,Z. Randolph,
+116,2,10:10.0,17,24,POR,MEM,0,away,LU,,0,make2,2,Z. Randolph,
+117,2,9:46.0,17,24,POR,MEM,24,home,JS,,3,miss2,0,E. Davis,
+118,2,9:46.0,17,24,POR,MEM,0,away,DefReb,,,DefReb,,Z. Randolph,
+119,2,9:42.0,17,24,POR,MEM,4,away,OffensiveFoul,,,turnover,,T. Allen,
+120,2,9:42.0,17,24,POR,MEM,0,home,ChargeFoul,DrawnBy,,ChargeFoul,,T. Allen,G. Henderson
+121,2,9:42.0,17,24,POR,MEM,0,away,Sub,,,,,J. Green,J. Green
+122,2,9:24.0,17,24,POR,MEM,18,home,JS,,26,miss3,0,C. McCollum,
+123,2,9:23.0,17,24,POR,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
+124,2,9:08.0,17,24,POR,MEM,15,away,LU,block,2,miss2,0,M. Chalmers,E. Davis
+125,2,9:05.0,17,24,POR,MEM,3,home,DefReb,,,DefReb,,M. Harkless,
+126,2,9:00.0,17,24,POR,MEM,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Allen,G. Henderson
+127,2,8:58.0,17,24,POR,MEM,2,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,E. Davis,M. Chalmers
+128,2,8:58.0,17,24,POR,MEM,0,home,OffensiveFoul,,,turnover,,E. Davis,
+129,2,8:58.0,17,24,POR,MEM,0,away,Timeout,,,,,,
+130,2,8:58.0,17,24,POR,MEM,0,away,Sub,,,,,M. Gasol,Z. Randolph
+131,2,8:58.0,17,24,POR,MEM,0,home,Sub,,,,,D. Lillard,A. Crabbe
+132,2,8:58.0,17,24,POR,MEM,0,home,DelayOfGame,,,DelayOfGame,,Team,
+133,2,8:44.0,17,26,POR,MEM,14,away,LU,assist,2,make2,2,C. Lee,M. Gasol
+134,2,8:22.0,17,26,POR,MEM,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Lee,C. McCollum
+135,2,8:22.0,18,26,POR,MEM,0,home,FreeThrow,,,make1,1,C. McCollum,
+136,2,8:22.0,18,26,POR,MEM,0,away,Sub,,,,,M. Barnes,C. Lee
+137,2,8:22.0,19,26,POR,MEM,0,home,FreeThrow,,,make1,1,C. McCollum,
+138,2,8:09.0,19,28,POR,MEM,13,away,JS,,20,make2,2,M. Chalmers,
+139,2,7:47.0,19,28,POR,MEM,22,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Barnes,C. McCollum
+140,2,7:42.0,19,28,POR,MEM,5,home,BadPass,steal,,turnover,,C. McCollum,M. Gasol
+141,2,7:34.0,19,28,POR,MEM,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lillard,M. Chalmers
+142,2,7:34.0,19,29,POR,MEM,0,away,FreeThrow,,,make1,1,M. Chalmers,
+143,2,7:34.0,19,29,POR,MEM,0,home,Sub,,,,,M. Plumlee,E. Davis
+144,2,7:34.0,19,29,POR,MEM,0,home,Sub,,,,,A. Aminu,G. Henderson
+145,2,7:34.0,19,29,POR,MEM,0,away,FreeThrow,,,make1,0,M. Chalmers,
+146,2,7:32.0,19,29,POR,MEM,2,home,DefReb,,,DefReb,,M. Harkless,
+147,2,7:14.0,19,29,POR,MEM,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Chalmers,M. Plumlee
+148,2,6:59.0,19,29,POR,MEM,15,home,JS,,25,miss3,0,A. Aminu,
+149,2,6:58.0,19,29,POR,MEM,1,away,DefReb,,,DefReb,,J. Green,
+150,2,6:39.0,19,29,POR,MEM,19,away,JS,,5,miss2,0,T. Allen,
+151,2,6:38.0,19,29,POR,MEM,1,away,OffReb,,,OffReb,,J. Green,
+152,2,6:38.0,19,29,POR,MEM,0,away,LU,,1,miss2,0,J. Green,
+153,2,6:37.0,19,29,POR,MEM,1,away,OffReb,,,OffReb,,T. Allen,
+154,2,6:28.0,19,29,POR,MEM,9,away,JS,,22,miss2,0,T. Allen,
+155,2,6:27.0,19,29,POR,MEM,1,home,DefReb,,,DefReb,,A. Aminu,
+156,2,6:11.0,19,29,POR,MEM,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Chalmers,D. Lillard
+157,2,6:11.0,20,29,POR,MEM,0,home,FreeThrow,,,make1,1,D. Lillard,
+158,2,6:11.0,21,29,POR,MEM,0,home,FreeThrow,,,make1,1,D. Lillard,
+159,2,6:11.0,21,29,POR,MEM,0,away,Sub,,,,,M. Conley,M. Chalmers
+160,2,6:11.0,22,29,POR,MEM,0,home,FreeThrow,,,make1,1,D. Lillard,
+161,2,5:55.0,22,29,POR,MEM,16,away,LU,,2,miss2,0,T. Allen,
+162,2,5:53.0,22,29,POR,MEM,2,home,DefReb,,,DefReb,,D. Lillard,
+163,2,5:45.0,24,29,POR,MEM,8,home,LU,assist,1,make2,2,A. Aminu,M. Harkless
+164,2,5:45.0,24,29,POR,MEM,0,away,Timeout,,,,,,
+165,2,5:45.0,24,29,POR,MEM,0,away,Sub,,,,,Z. Randolph,J. Green
+166,2,5:45.0,24,29,POR,MEM,0,away,Sub,,,,,J. Green,T. Allen
+167,2,5:45.0,24,29,POR,MEM,0,home,Sub,,,,,A. Crabbe,C. McCollum
+168,2,5:31.0,24,29,POR,MEM,14,away,HS,,8,miss2,0,M. Gasol,
+169,2,5:29.0,24,29,POR,MEM,2,home,DefReb,,,DefReb,,A. Aminu,
+170,2,5:18.0,26,29,POR,MEM,11,home,LU,assist,2,make2,2,M. Plumlee,M. Harkless
+171,2,5:05.0,26,29,POR,MEM,13,away,D3SecTech,,,,,,
+172,2,5:05.0,26,30,POR,MEM,0,away,FreeThrow,,,make1,1,M. Conley makes technical free throw,
+173,2,5:01.0,26,30,POR,MEM,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Crabbe,M. Barnes
+174,2,5:01.0,26,31,POR,MEM,0,away,FreeThrow,,,make1,1,M. Barnes,
+175,2,5:01.0,26,32,POR,MEM,0,away,FreeThrow,,,make1,1,M. Barnes,
+176,2,4:45.0,26,32,POR,MEM,16,home,JS,,24,miss3,0,A. Aminu,
+177,2,4:44.0,26,32,POR,MEM,1,away,DefReb,,,DefReb,,M. Gasol,
+178,2,4:29.0,26,34,POR,MEM,15,away,HS,,2,make2,2,Z. Randolph,
+179,2,4:18.0,26,34,POR,MEM,11,home,JS,,20,miss2,0,A. Crabbe,
+180,2,4:17.0,26,34,POR,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
+181,2,4:02.0,26,34,POR,MEM,15,away,LostBall,steal,,turnover,,M. Gasol,M. Plumlee
+182,2,3:46.0,26,34,POR,MEM,16,home,LU,,1,miss2,0,M. Plumlee,
+183,2,3:46.0,26,34,POR,MEM,0,home,OffReb,,,OffReb,,Team,
+184,2,3:46.0,26,34,POR,MEM,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Barnes,M. Plumlee
+185,2,3:46.0,27,34,POR,MEM,0,home,FreeThrow,,,make1,1,M. Plumlee,
+186,2,3:46.0,27,34,POR,MEM,0,home,FreeThrow,,,make1,0,M. Plumlee,
+187,2,3:45.0,27,34,POR,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
+188,2,3:34.0,27,34,POR,MEM,11,away,JS,,8,miss2,0,M. Conley,
+189,2,3:34.0,27,34,POR,MEM,0,home,DefReb,,,DefReb,,A. Crabbe,
+190,2,3:28.0,30,34,POR,MEM,6,home,JS,assist,23,make3,3,A. Aminu,D. Lillard
+191,2,3:08.0,30,34,POR,MEM,20,away,LostBall,steal,,turnover,,M. Gasol,M. Plumlee
+192,2,3:02.0,30,34,POR,MEM,6,home,BadPass,,,turnover,,D. Lillard,
+193,2,2:46.0,30,36,POR,MEM,16,away,JS,assist,20,make2,2,M. Conley,Z. Randolph
+194,2,2:45.0,30,36,POR,MEM,1,home,Timeout,,,,,,
+195,2,2:45.0,30,36,POR,MEM,0,home,Sub,,,,,C. McCollum,M. Harkless
+196,2,2:34.0,32,36,POR,MEM,11,home,JS,assist,14,make2,2,A. Crabbe,D. Lillard
+197,2,2:15.0,32,38,POR,MEM,19,away,JS,assist,19,make2,2,M. Gasol,M. Barnes
+198,2,1:50.0,32,38,POR,MEM,25,home,JS,,24,miss3,0,D. Lillard,
+199,2,1:49.0,32,38,POR,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
+200,2,1:48.0,32,38,POR,MEM,1,away,LostBall,,,turnover,,Z. Randolph,
+201,2,1:34.0,32,38,POR,MEM,14,home,JS,,13,miss2,0,A. Aminu,
+202,2,1:34.0,32,38,POR,MEM,0,away,DefReb,,,DefReb,,M. Gasol,
+203,2,1:24.0,32,38,POR,MEM,10,away,LU,,1,miss2,0,J. Green,
+204,2,1:24.0,32,38,POR,MEM,0,home,DefReb,,,DefReb,,A. Aminu,
+205,2,1:16.0,32,38,POR,MEM,8,home,JS,,23,miss3,0,D. Lillard,
+206,2,1:15.0,32,38,POR,MEM,1,away,DefReb,,,DefReb,,M. Barnes,
+207,2,1:03.0,32,38,POR,MEM,12,away,LostBall,,,turnover,,Z. Randolph,
+208,2,0:48.0,32,38,POR,MEM,15,home,JS,,9,miss2,0,A. Crabbe,
+209,2,0:47.0,32,38,POR,MEM,1,away,DefReb,,,DefReb,,M. Barnes,
+210,2,0:33.0,32,38,POR,MEM,14,away,BadPass,steal,,turnover,,Z. Randolph,A. Crabbe
+211,2,0:26.0,34,38,POR,MEM,7,home,JS,,13,make2,2,C. McCollum,
+212,2,0:25.0,34,38,POR,MEM,1,away,Timeout,,,,,,
+213,2,0:25.0,34,38,POR,MEM,0,home,Sub,,,,,M. Harkless,D. Lillard
+214,2,0:01.0,34,38,POR,MEM,24,away,JS,,4,miss2,0,J. Green,
+215,2,0:01.0,34,38,POR,MEM,0,away,OffReb,,,OffReb,,Team,
+216,2,0:01.0,34,38,POR,MEM,0,away,ShotClockViolation,,,turnover,,Team,
+217,2,0:01.0,34,38,POR,MEM,0,home,Timeout,,,,,,
+218,2,0:01.0,34,38,POR,MEM,0,away,Sub,,,,,T. Allen,Z. Randolph
+219,2,0:01.0,34,38,POR,MEM,0,home,Sub,,,,,D. Lillard,M. Harkless
+220,2,0:01.0,34,38,POR,MEM,0,home,Sub,,,,,P. Connaughton,M. Plumlee
+221,2,0:01.0,34,38,POR,MEM,0,home,BadPass,steal,,turnover,,P. Connaughton,M. Barnes
+222,2,0:00.0,34,38,POR,MEM,1,away,JS,,51,miss3,0,M. Barnes,
+223,2,0:00.0,34,38,POR,MEM,0,away,OffReb,,,OffReb,,Team,
+224,3,11:42.0,34,38,POR,MEM,18,home,JS,,17,miss2,0,C. McCollum,
+225,3,11:40.0,34,38,POR,MEM,2,away,DefReb,,,DefReb,,J. Green,
+226,3,11:25.0,34,38,POR,MEM,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vonleh,C. Lee
+227,3,11:25.0,34,39,POR,MEM,0,away,FreeThrow,,,make1,1,C. Lee,
+228,3,11:25.0,34,40,POR,MEM,0,away,FreeThrow,,,make1,1,C. Lee,
+229,3,11:11.0,34,40,POR,MEM,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Barnes,N. Vonleh
+230,3,11:04.0,37,40,POR,MEM,7,home,JS,assist,24,make3,3,D. Lillard,C. McCollum
+231,3,10:50.0,37,40,POR,MEM,14,away,LostBall,steal,,turnover,,M. Gasol,A. Aminu
+232,3,10:44.0,37,40,POR,MEM,6,home,JS,,24,miss3,0,C. McCollum,
+233,3,10:43.0,37,40,POR,MEM,1,home,OffReb,,,OffReb,,M. Plumlee,
+234,3,10:42.0,37,40,POR,MEM,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Green,M. Plumlee
+235,3,10:33.0,40,40,POR,MEM,9,home,JS,assist,25,make3,3,C. McCollum,D. Lillard
+236,3,10:26.0,40,40,POR,MEM,7,away,Timeout,,,,,,
+237,3,10:12.0,40,40,POR,MEM,14,away,LostBall,steal,,turnover,,J. Green,C. McCollum
+238,3,10:06.0,40,40,POR,MEM,6,home,JS,block,3,miss2,0,D. Lillard,J. Green
+239,3,10:05.0,40,40,POR,MEM,1,home,OffReb,,,OffReb,,N. Vonleh,
+240,3,10:02.0,40,40,POR,MEM,3,home,BadPass,steal,,turnover,,D. Lillard,C. Lee
+241,3,9:48.0,40,40,POR,MEM,14,away,LU,,1,miss2,0,M. Conley,
+242,3,9:47.0,40,40,POR,MEM,1,home,DefReb,,,DefReb,,N. Vonleh,
+243,3,9:30.0,40,40,POR,MEM,17,home,HS,,7,miss2,0,M. Plumlee,
+244,3,9:29.0,40,40,POR,MEM,1,away,DefReb,,,DefReb,,M. Barnes,
+245,3,9:14.0,40,40,POR,MEM,15,away,JS,,8,miss2,0,M. Gasol,
+246,3,9:13.0,40,40,POR,MEM,1,home,DefReb,,,DefReb,,A. Aminu,
+247,3,9:05.0,40,40,POR,MEM,8,home,JS,,22,miss3,0,C. McCollum,
+248,3,9:05.0,40,40,POR,MEM,0,home,OffReb,,,OffReb,,N. Vonleh,
+249,3,9:03.0,40,40,POR,MEM,2,home,LU,,0,miss2,0,N. Vonleh,
+250,3,9:02.0,40,40,POR,MEM,1,away,DefReb,,,DefReb,,M. Gasol,
+251,3,8:51.0,40,42,POR,MEM,11,away,JS,,18,make2,2,C. Lee,
+252,3,8:30.0,42,42,POR,MEM,21,home,JS,,20,make2,2,C. McCollum,
+253,3,8:12.0,42,44,POR,MEM,18,away,JS,,18,make2,2,J. Green,
+254,3,7:48.0,42,44,POR,MEM,24,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Gasol,M. Plumlee
+255,3,7:48.0,42,44,POR,MEM,0,home,FreeThrow,,,make1,0,M. Plumlee,
+256,3,7:48.0,42,44,POR,MEM,0,home,OffReb,,,OffReb,,Team,
+257,3,7:48.0,42,44,POR,MEM,0,away,Sub,,,,,Z. Randolph,M. Gasol
+258,3,7:48.0,42,44,POR,MEM,0,away,Sub,,,,,M. Chalmers,M. Conley
+259,3,7:48.0,42,44,POR,MEM,0,home,FreeThrow,,,make1,0,M. Plumlee,
+260,3,7:48.0,42,44,POR,MEM,0,away,DefReb,,,DefReb,,Team,
+261,3,7:30.0,42,46,POR,MEM,18,away,JS,assist,17,make2,2,Z. Randolph,C. Lee
+262,3,7:12.0,42,46,POR,MEM,18,home,JS,,24,miss3,0,D. Lillard,
+263,3,7:11.0,42,46,POR,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
+264,3,7:00.0,42,46,POR,MEM,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,M. Barnes
+265,3,7:00.0,42,46,POR,MEM,0,away,FreeThrow,,,make1,0,M. Barnes,
+266,3,7:00.0,42,46,POR,MEM,0,away,OffReb,,,OffReb,,Team,
+267,3,7:00.0,42,47,POR,MEM,0,away,FreeThrow,,,make1,1,M. Barnes,
+268,3,6:46.0,42,47,POR,MEM,14,home,JS,,24,miss3,0,D. Lillard,
+269,3,6:46.0,42,47,POR,MEM,0,away,DefReb,,,DefReb,,Team,
+270,3,6:46.0,42,47,POR,MEM,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,N. Vonleh,J. Green
+271,3,6:33.0,42,47,POR,MEM,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,J. Green
+272,3,6:33.0,42,47,POR,MEM,0,away,FreeThrow,,,make1,0,J. Green,
+273,3,6:33.0,42,47,POR,MEM,0,away,OffReb,,,OffReb,,Team,
+274,3,6:33.0,42,47,POR,MEM,0,home,Sub,,,,,M. Harkless,N. Vonleh
+275,3,6:33.0,42,47,POR,MEM,0,away,FreeThrow,,,make1,0,J. Green,
+276,3,6:31.0,42,47,POR,MEM,2,home,DefReb,,,DefReb,,A. Aminu,
+277,3,6:20.0,42,47,POR,MEM,11,home,JS,,6,miss2,0,A. Aminu,
+278,3,6:20.0,42,47,POR,MEM,0,away,DefReb,,,DefReb,,Z. Randolph,
+279,3,6:06.0,42,49,POR,MEM,14,away,JS,assist,21,make2,2,Z. Randolph,M. Chalmers
+280,3,6:03.0,42,49,POR,MEM,3,home,Timeout,,,,,,
+281,3,5:49.0,42,49,POR,MEM,14,home,BadPass,steal,,turnover,,A. Aminu,M. Barnes
+282,3,5:42.0,42,52,POR,MEM,7,away,JS,assist,24,make3,3,M. Chalmers,C. Lee
+283,3,5:28.0,44,52,POR,MEM,14,home,LU,,0,make2,2,D. Lillard,
+284,3,5:28.0,44,52,POR,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,D. Lillard
+285,3,5:28.0,45,52,POR,MEM,0,home,FreeThrow,,,make1,1,D. Lillard,
+286,3,5:11.0,45,52,POR,MEM,17,away,JS,,5,miss2,0,J. Green,
+287,3,5:11.0,45,52,POR,MEM,0,away,OffReb,,,OffReb,,J. Green,
+288,3,5:08.0,45,52,POR,MEM,3,away,LU,,2,miss2,0,J. Green,
+289,3,5:07.0,45,52,POR,MEM,1,home,DefReb,,,DefReb,,A. Aminu,
+290,3,5:02.0,45,52,POR,MEM,5,home,Sub,,,,,A. Crabbe,A. Aminu
+291,3,5:02.0,45,52,POR,MEM,0,away,Sub,,,,,T. Allen,J. Green
+292,3,5:01.0,45,52,POR,MEM,1,home,BadPass,steal,,turnover,,A. Crabbe,M. Chalmers
+293,3,4:47.0,45,52,POR,MEM,14,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,M. Plumlee,M. Chalmers
+294,3,4:47.0,45,53,POR,MEM,0,away,FreeThrow,,,make1,1,M. Chalmers,
+295,3,4:47.0,45,53,POR,MEM,0,home,Sub,,,,,G. Henderson,C. McCollum
+296,3,4:47.0,45,53,POR,MEM,0,home,Sub,,,,,E. Davis,M. Plumlee
+297,3,4:47.0,45,53,POR,MEM,0,home,LaneViolation,,,LaneViolation,,D. Lillard,
+298,3,4:47.0,45,53,POR,MEM,0,away,FreeThrow,,,make1,0,M. Chalmers,
+299,3,4:46.0,45,53,POR,MEM,1,home,DefReb,,,DefReb,,A. Crabbe,
+300,3,4:24.0,45,53,POR,MEM,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Barnes,E. Davis
+301,3,4:24.0,45,53,POR,MEM,0,home,FreeThrow,,,make1,0,E. Davis,
+302,3,4:24.0,45,53,POR,MEM,0,home,OffReb,,,OffReb,,Team,
+303,3,4:24.0,45,53,POR,MEM,0,home,FreeThrow,,,make1,0,E. Davis,
+304,3,4:23.0,45,53,POR,MEM,1,away,DefReb,,,DefReb,,M. Barnes,
+305,3,4:05.0,45,55,POR,MEM,18,away,JS,assist,20,make2,2,Z. Randolph,T. Allen
+306,3,3:57.0,45,55,POR,MEM,8,home,JS,,4,miss2,0,G. Henderson,
+307,3,3:56.0,45,55,POR,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
+308,3,3:37.0,45,57,POR,MEM,19,away,JS,assist,21,make2,2,T. Allen,C. Lee
+309,3,3:24.0,47,57,POR,MEM,13,home,DK,assist,0,make2,2,G. Henderson,D. Lillard
+310,3,3:04.0,47,57,POR,MEM,20,away,JS,,18,miss2,0,Z. Randolph,
+311,3,3:04.0,47,57,POR,MEM,0,away,OffReb,,,OffReb,,T. Allen,
+312,3,3:02.0,47,57,POR,MEM,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Henderson,T. Allen
+313,3,3:02.0,47,57,POR,MEM,0,away,FreeThrow,,,make1,0,T. Allen,
+314,3,3:02.0,47,57,POR,MEM,0,away,OffReb,,,OffReb,,Team,
+315,3,3:02.0,47,58,POR,MEM,0,away,FreeThrow,,,make1,1,T. Allen,
+316,3,2:54.0,47,58,POR,MEM,8,home,BadPass,,,turnover,,D. Lillard,
+317,3,2:54.0,47,58,POR,MEM,0,home,TechnicalFoul,,,TechnicalFoul,,G. Henderson,
+318,3,2:54.0,47,59,POR,MEM,0,away,FreeThrow,,,make1,1,C. Lee makes technical free throw,
+319,3,2:54.0,47,59,POR,MEM,0,away,Sub,,,,,J. Green,M. Barnes
+320,3,2:38.0,47,59,POR,MEM,16,away,HS,,5,miss2,0,Z. Randolph,
+321,3,2:37.0,47,59,POR,MEM,1,home,DefReb,,,DefReb,,Team,
+322,3,2:28.0,49,59,POR,MEM,9,home,JS,,18,make2,2,D. Lillard,
+323,3,2:12.0,49,59,POR,MEM,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,Z. Randolph
+324,3,2:12.0,49,60,POR,MEM,0,away,FreeThrow,,,make1,1,Z. Randolph,
+325,3,2:12.0,49,60,POR,MEM,0,home,Sub,,,,,C. McCollum,M. Harkless
+326,3,2:12.0,49,61,POR,MEM,0,away,FreeThrow,,,make1,1,Z. Randolph,
+327,3,2:02.0,49,61,POR,MEM,10,home,JS,,25,miss3,0,C. McCollum,
+328,3,2:00.0,49,61,POR,MEM,2,away,DefReb,,,DefReb,,Z. Randolph,
+329,3,1:41.0,49,61,POR,MEM,19,away,JS,,24,miss3,0,M. Chalmers,
+330,3,1:40.0,49,61,POR,MEM,1,home,DefReb,,,DefReb,,A. Crabbe,
+331,3,1:36.0,49,61,POR,MEM,4,home,LostBall,steal,,turnover,,D. Lillard,M. Chalmers
+332,3,1:31.0,49,63,POR,MEM,5,away,JS,,9,make2,2,M. Chalmers,
+333,3,1:31.0,49,63,POR,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lillard,M. Chalmers
+334,3,1:31.0,49,64,POR,MEM,0,away,FreeThrow,,,make1,1,M. Chalmers,
+335,3,1:19.0,49,64,POR,MEM,12,home,JS,,24,miss3,0,A. Crabbe,
+336,3,1:18.0,49,64,POR,MEM,1,away,DefReb,,,DefReb,,J. Green,
+337,3,1:02.0,49,66,POR,MEM,16,away,DK,assist,0,make2,2,J. Green,Z. Randolph
+338,3,0:52.0,49,66,POR,MEM,10,home,BadPass,steal,,turnover,,D. Lillard,T. Allen
+339,3,0:49.0,49,68,POR,MEM,3,away,LU,,0,make2,2,T. Allen,
+340,3,0:40.0,49,68,POR,MEM,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Chalmers,D. Lillard
+341,3,0:40.0,50,68,POR,MEM,0,home,FreeThrow,,,make1,1,D. Lillard,
+342,3,0:40.0,51,68,POR,MEM,0,home,FreeThrow,,,make1,1,D. Lillard,
+343,3,0:40.0,51,68,POR,MEM,0,home,Sub,,,,,A. Aminu,G. Henderson
+344,3,0:40.0,52,68,POR,MEM,0,home,FreeThrow,,,make1,1,D. Lillard,
+345,3,0:27.0,52,68,POR,MEM,13,away,BadPass,steal,,turnover,,M. Chalmers,D. Lillard
+346,3,0:27.0,52,68,POR,MEM,0,home,BadPass,,,turnover,,D. Lillard,
+347,3,0:27.0,52,68,POR,MEM,0,home,Sub,,,,,M. Harkless,D. Lillard
+348,3,0:27.0,52,68,POR,MEM,0,away,Sub,,,,,J. Green,T. Allen
+349,3,0:07.0,52,68,POR,MEM,20,away,HS,,6,miss2,0,Z. Randolph,
+350,3,0:07.0,52,68,POR,MEM,0,away,OffReb,,,OffReb,,C. Lee,
+351,3,0:01.0,52,70,POR,MEM,6,away,JS,,18,make2,2,C. Lee,
+352,4,12:00.0,52,70,POR,MEM,0,away,DelayOfGame,,,DelayOfGame,,Team,
+353,4,11:41.0,52,70,POR,MEM,19,away,JS,,18,miss2,0,C. Lee,
+354,4,11:41.0,52,70,POR,MEM,0,away,OffReb,,,OffReb,,J. Green,
+355,4,11:41.0,52,70,POR,MEM,0,away,OutOfBounds,,,turnover,,J. Green,
+356,4,11:30.0,54,70,POR,MEM,11,home,JS,,11,make2,2,C. McCollum,
+357,4,11:13.0,54,72,POR,MEM,17,away,LU,assist,2,make2,2,J. Green,M. Chalmers
+358,4,11:00.0,54,72,POR,MEM,13,away,ChargeFoul,DrawnBy,,ChargeFoul,,C. McCollum,M. Chalmers
+359,4,11:00.0,54,72,POR,MEM,0,home,OffensiveFoul,,,turnover,,C. McCollum,
+360,4,10:54.0,54,72,POR,MEM,6,away,LU,block,2,miss2,0,M. Chalmers,M. Harkless
+361,4,10:54.0,54,72,POR,MEM,0,away,OffReb,,,OffReb,,Team,
+362,4,10:46.0,54,74,POR,MEM,8,away,JS,assist,20,make2,2,J. Green,M. Chalmers
+363,4,10:43.0,54,74,POR,MEM,3,away,TechnicalFoul,,,TechnicalFoul,,Team,
+364,4,10:43.0,54,74,POR,MEM,0,home,FreeThrow,,,make1,0,C. McCollum misses technical free throw,
+365,4,10:43.0,54,74,POR,MEM,0,home,OffReb,,,OffReb,,Team,
+366,4,10:34.0,54,74,POR,MEM,9,away,ChargeFoul,DrawnBy,,ChargeFoul,,C. McCollum,J. Green
+367,4,10:34.0,54,74,POR,MEM,0,home,OffensiveFoul,,,turnover,,C. McCollum,
+368,4,10:34.0,54,74,POR,MEM,0,away,Sub,,,,,M. Gasol,Z. Randolph
+369,4,10:16.0,54,74,POR,MEM,18,away,LostBall,steal,,turnover,,M. Gasol,M. Harkless
+370,4,10:12.0,56,74,POR,MEM,4,home,DK,,0,make2,2,M. Harkless,
+371,4,9:48.0,56,74,POR,MEM,24,away,JS,,24,miss3,0,M. Chalmers,
+372,4,9:47.0,56,74,POR,MEM,1,home,DefReb,,,DefReb,,A. Aminu,
+373,4,9:42.0,56,74,POR,MEM,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Gasol,M. Harkless
+374,4,9:42.0,56,74,POR,MEM,0,home,FreeThrow,,,make1,0,M. Harkless,
+375,4,9:42.0,56,74,POR,MEM,0,home,OffReb,,,OffReb,,Team,
+376,4,9:42.0,56,74,POR,MEM,0,home,FreeThrow,,,make1,0,M. Harkless,
+377,4,9:41.0,56,74,POR,MEM,1,home,OffReb,,,OffReb,,A. Aminu,
+378,4,9:37.0,56,74,POR,MEM,4,home,JS,,24,miss3,0,C. McCollum,
+379,4,9:36.0,56,74,POR,MEM,1,away,DefReb,,,DefReb,,J. Green,
+380,4,9:31.0,56,74,POR,MEM,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. McCollum,M. Chalmers
+381,4,9:31.0,56,74,POR,MEM,0,away,Timeout,,,,,,
+382,4,9:14.0,56,74,POR,MEM,17,away,JS,,21,miss2,0,M. Gasol,
+383,4,9:14.0,56,74,POR,MEM,0,home,DefReb,,,DefReb,,A. Aminu,
+384,4,9:05.0,58,74,POR,MEM,9,home,JS,,3,make2,2,C. McCollum,
+385,4,8:43.0,58,74,POR,MEM,22,away,JS,,19,miss2,0,M. Gasol,
+386,4,8:43.0,58,74,POR,MEM,0,home,DefReb,,,DefReb,,A. Aminu,
+387,4,8:36.0,60,74,POR,MEM,7,home,LU,,1,make2,2,A. Aminu,
+388,4,8:36.0,60,74,POR,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,A. Aminu
+389,4,8:36.0,60,74,POR,MEM,0,away,Sub,,,,,Z. Randolph,J. Green
+390,4,8:36.0,60,74,POR,MEM,0,away,Sub,,,,,J. Green,C. Lee
+391,4,8:36.0,61,74,POR,MEM,0,home,FreeThrow,,,make1,1,A. Aminu,
+392,4,8:19.0,61,74,POR,MEM,17,away,JS,,4,miss2,0,J. Green,
+393,4,8:18.0,61,74,POR,MEM,1,away,OffReb,,,OffReb,,Z. Randolph,
+394,4,8:15.0,61,74,POR,MEM,3,away,LU,,1,miss2,0,Z. Randolph,
+395,4,8:14.0,61,74,POR,MEM,1,away,OffReb,,,OffReb,,Z. Randolph,
+396,4,8:10.0,61,74,POR,MEM,4,away,JS,,24,miss3,0,J. Green,
+397,4,8:09.0,61,74,POR,MEM,1,away,OffReb,,,OffReb,,M. Gasol,
+398,4,8:09.0,61,74,POR,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,M. Gasol
+399,4,8:09.0,61,74,POR,MEM,0,away,FreeThrow,,,make1,0,M. Gasol,
+400,4,8:09.0,61,74,POR,MEM,0,away,OffReb,,,OffReb,,Team,
+401,4,8:09.0,61,75,POR,MEM,0,away,FreeThrow,,,make1,1,M. Gasol,
+402,4,7:58.0,61,75,POR,MEM,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Chalmers,C. McCollum
+403,4,7:58.0,61,75,POR,MEM,0,home,FreeThrow,,,make1,0,C. McCollum,
+404,4,7:58.0,61,75,POR,MEM,0,home,OffReb,,,OffReb,,Team,
+405,4,7:58.0,61,75,POR,MEM,0,away,Sub,,,,,M. Conley,M. Chalmers
+406,4,7:58.0,62,75,POR,MEM,0,home,FreeThrow,,,make1,1,C. McCollum,
+407,4,7:48.0,62,75,POR,MEM,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Leonard,Z. Randolph
+408,4,7:48.0,62,76,POR,MEM,0,away,FreeThrow,,,make1,1,Z. Randolph,
+409,4,7:48.0,62,76,POR,MEM,0,home,Sub,,,,,D. Lillard,M. Harkless
+410,4,7:48.0,62,77,POR,MEM,0,away,FreeThrow,,,make1,1,Z. Randolph,
+411,4,7:24.0,65,77,POR,MEM,24,home,JS,,24,make3,3,A. Aminu,
+412,4,7:03.0,65,80,POR,MEM,21,away,JS,assist,24,make3,3,M. Conley,M. Gasol
+413,4,6:50.0,68,80,POR,MEM,13,home,JS,,24,make3,3,A. Crabbe,
+414,4,6:25.0,68,80,POR,MEM,25,away,JS,,24,miss3,0,M. Conley,
+415,4,6:24.0,68,80,POR,MEM,1,home,DefReb,,,DefReb,,M. Leonard,
+416,4,6:18.0,68,80,POR,MEM,6,home,JS,block,6,miss2,0,C. McCollum,M. Gasol
+417,4,6:18.0,68,80,POR,MEM,0,home,OffReb,,,OffReb,,Team,
+418,4,6:11.0,71,80,POR,MEM,7,home,JS,,26,make3,3,D. Lillard,
+419,4,5:50.0,71,80,POR,MEM,21,away,JS,,7,miss2,0,T. Allen,
+420,4,5:48.0,71,80,POR,MEM,2,away,OffReb,,,OffReb,,T. Allen,
+421,4,5:38.0,71,80,POR,MEM,10,away,Timeout,,,,,,
+422,4,5:38.0,71,80,POR,MEM,0,away,Timeout,,,,,,
+423,4,5:38.0,71,80,POR,MEM,0,away,Sub,,,,,C. Lee,J. Green
+424,4,5:28.0,71,80,POR,MEM,10,away,HS,,6,miss2,0,M. Gasol,
+425,4,5:27.0,71,80,POR,MEM,1,home,DefReb,,,DefReb,,C. McCollum,
+426,4,5:16.0,71,80,POR,MEM,11,home,JS,,24,miss3,0,A. Aminu,
+427,4,5:14.0,71,80,POR,MEM,2,away,DefReb,,,DefReb,,T. Allen,
+428,4,5:02.0,71,82,POR,MEM,12,away,LU,,2,make2,2,M. Conley,
+429,4,4:54.0,73,82,POR,MEM,8,home,JS,assist,19,make2,2,A. Crabbe,D. Lillard
+430,4,4:37.0,73,82,POR,MEM,17,away,JS,,12,miss2,0,M. Conley,
+431,4,4:37.0,73,82,POR,MEM,0,away,OffReb,,,OffReb,,Z. Randolph,
+432,4,4:36.0,73,84,POR,MEM,1,away,HS,,3,make2,2,Z. Randolph,
+433,4,4:21.0,76,84,POR,MEM,15,home,JS,assist,24,make3,3,M. Leonard,D. Lillard
+434,4,3:55.0,76,86,POR,MEM,26,away,JS,,19,make2,2,Z. Randolph,
+435,4,3:44.0,76,86,POR,MEM,11,home,JS,,27,miss3,0,D. Lillard,
+436,4,3:43.0,76,86,POR,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
+437,4,3:26.0,76,88,POR,MEM,17,away,JS,assist,7,make2,2,M. Gasol,M. Conley
+438,4,3:26.0,76,88,POR,MEM,0,home,Timeout,,,,,,
+439,4,3:21.0,76,88,POR,MEM,5,home,LostBall,steal,,turnover,,M. Leonard,Z. Randolph
+440,4,2:59.0,76,88,POR,MEM,22,away,JS,,10,miss2,0,Z. Randolph,
+441,4,2:58.0,76,88,POR,MEM,1,home,DefReb,,,DefReb,,M. Leonard,
+442,4,2:47.0,76,88,POR,MEM,11,home,JS,,24,miss3,0,D. Lillard,
+443,4,2:45.0,76,88,POR,MEM,2,away,DefReb,,,DefReb,,Z. Randolph,
+444,4,2:34.0,76,88,POR,MEM,11,away,JS,,3,miss2,0,M. Conley,
+445,4,2:34.0,76,88,POR,MEM,0,home,DefReb,,,DefReb,,M. Leonard,
+446,4,2:22.0,76,88,POR,MEM,12,home,LU,,1,miss2,0,C. McCollum,
+447,4,2:22.0,76,88,POR,MEM,0,away,DefReb,,,DefReb,,M. Gasol,
+448,4,2:03.0,76,90,POR,MEM,19,away,JS,assist,18,make2,2,M. Gasol,M. Conley
+449,4,1:51.0,76,90,POR,MEM,12,home,LU,,2,miss2,0,C. McCollum,
+450,4,1:50.0,76,90,POR,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
+451,4,1:36.0,76,90,POR,MEM,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Aminu,Z. Randolph
+452,4,1:29.0,76,90,POR,MEM,7,away,JS,,20,miss2,0,M. Gasol,
+453,4,1:28.0,76,90,POR,MEM,1,away,OffReb,,,OffReb,,Z. Randolph,
+454,4,1:09.0,76,90,POR,MEM,19,away,JS,,19,miss2,0,M. Conley,
+455,4,1:08.0,76,90,POR,MEM,1,home,DefReb,,,DefReb,,A. Crabbe,
+456,4,1:05.0,78,90,POR,MEM,3,home,DK,assist,1,make2,2,M. Leonard,D. Lillard
+457,4,1:04.0,78,90,POR,MEM,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,C. McCollum,M. Conley
+458,4,1:04.0,78,90,POR,MEM,0,away,FreeThrow,,,make1,0,M. Conley,
+459,4,1:04.0,78,90,POR,MEM,0,away,OffReb,,,OffReb,,Team,
+460,4,1:04.0,78,90,POR,MEM,0,away,Sub,,,,,M. Chalmers,Z. Randolph
+461,4,1:04.0,78,90,POR,MEM,0,home,Sub,,,,,T. Frazier,A. Aminu
+462,4,1:04.0,78,90,POR,MEM,0,home,Sub,,,,,P. Connaughton,C. McCollum
+463,4,1:04.0,78,90,POR,MEM,0,home,Sub,,,,,N. Vonleh,D. Lillard
+464,4,1:04.0,78,90,POR,MEM,0,away,Sub,,,,,R. Hollins,M. Gasol
+465,4,1:04.0,78,91,POR,MEM,0,away,FreeThrow,,,make1,1,M. Conley,
+466,4,1:00.0,78,91,POR,MEM,4,away,Sub,,,,,J. Green,M. Conley
+467,4,0:46.0,78,91,POR,MEM,14,home,Traveling,,,turnover,,T. Frazier,
+468,4,0:26.0,78,91,POR,MEM,20,away,HS,,5,miss2,0,R. Hollins,
+469,4,0:26.0,78,91,POR,MEM,0,away,OffReb,,,OffReb,,Team,
+470,4,0:23.0,78,91,POR,MEM,3,away,JS,,25,miss3,0,M. Chalmers,
+471,4,0:21.0,78,91,POR,MEM,2,away,OffReb,,,OffReb,,R. Hollins,

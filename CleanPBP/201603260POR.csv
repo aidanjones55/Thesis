@@ -1,0 +1,496 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:37.0,0,0,POR,PHI,23,home,JS,,23,miss3,0,C. McCollum,
+1,1,11:37.0,0,0,POR,PHI,0,away,DefReb,,,DefReb,,H. Thompson,
+2,1,11:32.0,0,0,POR,PHI,5,away,PersonalFoul,,,,,M. Plumlee,
+3,1,11:14.0,0,0,POR,PHI,18,away,JS,,18,miss2,0,I. Canaan,
+4,1,11:14.0,0,0,POR,PHI,0,home,DefReb,,,DefReb,,D. Lillard,
+5,1,11:03.0,0,0,POR,PHI,11,home,JS,,24,miss3,0,A. Aminu,
+6,1,11:03.0,0,0,POR,PHI,0,away,DefReb,,,DefReb,,I. Smith,
+7,1,10:44.0,0,0,POR,PHI,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,J. Grant
+8,1,10:44.0,0,1,POR,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+9,1,10:44.0,0,1,POR,PHI,0,away,FreeThrow,,,make1,0,J. Grant,
+10,1,10:43.0,0,1,POR,PHI,1,home,DefReb,,,DefReb,,M. Harkless,
+11,1,10:35.0,2,1,POR,PHI,8,home,JS,,19,make2,2,D. Lillard,
+12,1,10:22.0,2,3,POR,PHI,13,away,JS,assist,20,make2,2,C. Landry,I. Smith
+13,1,10:08.0,2,3,POR,PHI,14,home,JS,,9,miss2,0,C. McCollum,
+14,1,10:05.0,2,3,POR,PHI,3,home,OffReb,,,OffReb,,M. Plumlee,
+15,1,10:01.0,5,3,POR,PHI,4,home,JS,assist,23,make3,3,C. McCollum,D. Lillard
+16,1,9:52.0,5,3,POR,PHI,9,away,JS,,24,miss3,0,I. Canaan,
+17,1,9:50.0,5,3,POR,PHI,2,home,DefReb,,,DefReb,,M. Harkless,
+18,1,9:35.0,5,3,POR,PHI,15,home,BadPass,steal,,turnover,,C. McCollum,H. Thompson
+19,1,9:26.0,5,5,POR,PHI,9,away,JS,assist,11,make2,2,H. Thompson,I. Smith
+20,1,9:06.0,7,5,POR,PHI,20,home,DK,,0,make2,2,M. Harkless,
+21,1,8:55.0,7,7,POR,PHI,11,away,JS,assist,17,make2,2,C. Landry,I. Smith
+22,1,8:32.0,9,7,POR,PHI,23,home,JS,assist,6,make2,2,M. Plumlee,C. McCollum
+23,1,8:17.0,9,10,POR,PHI,15,away,JS,assist,23,make3,3,I. Smith,C. Landry
+24,1,7:59.0,9,10,POR,PHI,18,home,JS,,22,miss3,0,M. Harkless,
+25,1,7:57.0,9,10,POR,PHI,2,away,DefReb,,,DefReb,,I. Canaan,
+26,1,7:46.0,9,10,POR,PHI,11,away,LostBall,steal,,turnover,,J. Grant,C. McCollum
+27,1,7:40.0,11,10,POR,PHI,6,home,LU,,1,make2,2,C. McCollum,
+28,1,7:24.0,11,10,POR,PHI,16,away,BadPass,steal,,turnover,,I. Smith,C. McCollum
+29,1,7:23.0,11,10,POR,PHI,1,home,PersonalFoul,,,,,C. Landry,
+30,1,7:06.0,14,10,POR,PHI,17,home,JS,assist,24,make3,3,A. Aminu,C. McCollum
+31,1,6:51.0,14,10,POR,PHI,15,away,OutOfBounds,,,turnover,,J. Grant,
+32,1,6:42.0,14,10,POR,PHI,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Landry,M. Harkless
+33,1,6:42.0,15,10,POR,PHI,0,home,FreeThrow,,,make1,1,M. Harkless,
+34,1,6:42.0,15,10,POR,PHI,0,away,Sub,,,,,R. Holmes,C. Landry
+35,1,6:42.0,15,10,POR,PHI,0,away,Sub,,,,,R. Covington,H. Thompson
+36,1,6:42.0,16,10,POR,PHI,0,home,FreeThrow,,,make1,1,M. Harkless,
+37,1,6:32.0,16,12,POR,PHI,10,away,JS,,7,make2,2,I. Smith,
+38,1,6:22.0,16,12,POR,PHI,10,home,LU,block,2,miss2,0,D. Lillard,R. Holmes
+39,1,6:21.0,16,12,POR,PHI,1,away,DefReb,,,DefReb,,R. Covington,
+40,1,6:12.0,16,12,POR,PHI,9,away,JS,,18,miss2,0,I. Canaan,
+41,1,6:11.0,16,12,POR,PHI,1,home,DefReb,,,DefReb,,A. Aminu,
+42,1,6:04.0,19,12,POR,PHI,7,home,JS,assist,23,make3,3,M. Harkless,A. Aminu
+43,1,5:50.0,19,12,POR,PHI,14,away,JS,,19,miss2,0,R. Holmes,
+44,1,5:50.0,19,12,POR,PHI,0,home,DefReb,,,DefReb,,A. Aminu,
+45,1,5:41.0,19,12,POR,PHI,9,home,JS,,25,miss3,0,D. Lillard,
+46,1,5:40.0,19,12,POR,PHI,1,away,DefReb,,,DefReb,,R. Holmes,
+47,1,5:33.0,19,12,POR,PHI,7,away,JS,,25,miss3,0,R. Covington,
+48,1,5:32.0,19,12,POR,PHI,1,away,OffReb,,,OffReb,,J. Grant,
+49,1,5:30.0,19,12,POR,PHI,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,J. Grant
+50,1,5:30.0,19,12,POR,PHI,0,home,Timeout,,,,,,
+51,1,5:30.0,19,12,POR,PHI,0,home,Sub,,,,,A. Crabbe,C. McCollum
+52,1,5:30.0,19,13,POR,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+53,1,5:30.0,19,14,POR,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+54,1,5:15.0,21,14,POR,PHI,15,home,LU,,1,make2,2,M. Harkless,
+55,1,5:06.0,21,14,POR,PHI,9,away,JS,,17,miss2,0,I. Smith,
+56,1,5:05.0,21,14,POR,PHI,1,home,DefReb,,,DefReb,,M. Harkless,
+57,1,4:56.0,23,14,POR,PHI,9,home,LU,assist,1,make2,2,A. Aminu,D. Lillard
+58,1,4:56.0,23,14,POR,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Holmes,A. Aminu
+59,1,4:56.0,23,14,POR,PHI,0,away,Sub,,,,,N. Stauskas,J. Grant
+60,1,4:56.0,23,14,POR,PHI,0,away,Sub,,,,,T. McConnell,I. Canaan
+61,1,4:56.0,24,14,POR,PHI,0,home,FreeThrow,,,make1,1,A. Aminu,
+62,1,4:41.0,24,16,POR,PHI,15,away,JS,assist,20,make2,2,I. Smith,N. Stauskas
+63,1,4:24.0,24,16,POR,PHI,17,home,JS,,19,miss2,0,A. Crabbe,
+64,1,4:23.0,24,16,POR,PHI,1,away,DefReb,,,DefReb,,Team,
+65,1,4:23.0,24,16,POR,PHI,0,home,Sub,,,,,G. Henderson,A. Aminu
+66,1,4:23.0,24,16,POR,PHI,0,home,Sub,,,,,E. Davis,M. Plumlee
+67,1,4:09.0,24,19,POR,PHI,14,away,JS,assist,24,make3,3,R. Covington,T. McConnell
+68,1,3:53.0,24,19,POR,PHI,16,home,JS,,17,miss2,0,D. Lillard,
+69,1,3:52.0,24,19,POR,PHI,1,away,DefReb,,,DefReb,,I. Smith,
+70,1,3:43.0,24,19,POR,PHI,9,away,JS,,23,miss3,0,N. Stauskas,
+71,1,3:43.0,24,19,POR,PHI,0,away,OffReb,,,OffReb,,R. Holmes,
+72,1,3:41.0,24,19,POR,PHI,2,away,LU,block,1,miss2,0,R. Holmes,M. Harkless
+73,1,3:41.0,24,19,POR,PHI,0,away,OffReb,,,OffReb,,Team,
+74,1,3:41.0,24,19,POR,PHI,0,away,Sub,,,,,S. Weems,I. Smith
+75,1,3:41.0,24,19,POR,PHI,0,home,Sub,,,,,N. Vonleh,M. Harkless
+76,1,3:38.0,24,19,POR,PHI,3,away,JS,block,5,miss2,0,R. Holmes,G. Henderson
+77,1,3:36.0,24,19,POR,PHI,2,away,OffReb,,,OffReb,,N. Stauskas,
+78,1,3:30.0,24,19,POR,PHI,6,away,JS,,23,miss3,0,S. Weems,
+79,1,3:29.0,24,19,POR,PHI,1,home,DefReb,,,DefReb,,N. Vonleh,
+80,1,3:14.0,24,19,POR,PHI,15,home,HS,,6,miss2,0,G. Henderson,
+81,1,3:14.0,24,19,POR,PHI,0,away,DefReb,,,DefReb,,S. Weems,
+82,1,2:58.0,24,19,POR,PHI,16,away,JS,,26,miss3,0,R. Covington,
+83,1,2:57.0,24,19,POR,PHI,1,home,DefReb,,,DefReb,,E. Davis,
+84,1,2:44.0,24,19,POR,PHI,13,home,OutOfBounds,,,turnover,,G. Henderson,
+85,1,2:44.0,24,19,POR,PHI,0,away,Timeout,,,,,,
+86,1,2:31.0,24,19,POR,PHI,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,R. Holmes
+87,1,2:31.0,24,20,POR,PHI,0,away,FreeThrow,,,make1,1,R. Holmes,
+88,1,2:31.0,24,21,POR,PHI,0,away,FreeThrow,,,make1,1,R. Holmes,
+89,1,2:12.0,24,21,POR,PHI,19,home,PersonalFoul,,,,,R. Covington,
+90,1,2:02.0,26,21,POR,PHI,10,home,LU,assist,2,make2,2,E. Davis,D. Lillard
+91,1,1:41.0,26,23,POR,PHI,21,away,LU,assist,2,make2,2,R. Holmes,S. Weems
+92,1,1:26.0,28,23,POR,PHI,15,home,LU,assist,0,make2,2,E. Davis,D. Lillard
+93,1,1:12.0,28,25,POR,PHI,14,away,JS,,8,make2,2,T. McConnell,
+94,1,0:47.0,31,25,POR,PHI,25,home,JS,assist,22,make3,3,G. Henderson,D. Lillard
+95,1,0:33.0,31,25,POR,PHI,14,away,JS,,25,miss3,0,R. Covington,
+96,1,0:32.0,31,25,POR,PHI,1,home,DefReb,,,DefReb,,A. Crabbe,
+97,1,0:20.0,31,25,POR,PHI,12,home,LostBall,,,turnover,,G. Henderson,
+98,1,0:20.0,31,25,POR,PHI,0,away,Sub,,,,,J. Grant,R. Holmes
+99,1,0:20.0,31,25,POR,PHI,0,away,Sub,,,,,H. Thompson,S. Weems
+100,1,0:00.0,31,27,POR,PHI,20,away,LU,,0,make2,2,T. McConnell,
+101,2,11:37.0,31,27,POR,PHI,23,away,LostBall,steal,,turnover,,R. Covington,C. McCollum
+102,2,11:32.0,33,27,POR,PHI,5,home,LU,assist,1,make2,2,A. Crabbe,C. McCollum
+103,2,11:23.0,33,29,POR,PHI,9,away,LU,,1,make2,2,J. Grant,
+104,2,11:06.0,33,29,POR,PHI,17,home,LU,,0,miss2,0,E. Davis,
+105,2,11:04.0,33,29,POR,PHI,2,home,OffReb,,,OffReb,,N. Vonleh,
+106,2,10:57.0,35,29,POR,PHI,7,home,JS,,18,make2,2,G. Henderson,
+107,2,10:41.0,35,29,POR,PHI,16,away,JS,,23,miss3,0,S. Weems,
+108,2,10:40.0,35,29,POR,PHI,1,home,DefReb,,,DefReb,,N. Vonleh,
+109,2,10:27.0,35,29,POR,PHI,13,home,JS,,12,miss2,0,C. McCollum,
+110,2,10:25.0,35,29,POR,PHI,2,away,DefReb,,,DefReb,,J. Grant,
+111,2,10:16.0,35,29,POR,PHI,9,away,JS,,22,miss3,0,R. Covington,
+112,2,10:16.0,35,29,POR,PHI,0,home,DefReb,,,DefReb,,C. McCollum,
+113,2,10:00.0,37,29,POR,PHI,16,home,JS,assist,19,make2,2,G. Henderson,C. McCollum
+114,2,9:37.0,37,29,POR,PHI,23,away,JS,,24,miss3,0,J. Grant,
+115,2,9:36.0,37,29,POR,PHI,1,home,DefReb,,,DefReb,,N. Vonleh,
+116,2,9:22.0,39,29,POR,PHI,14,home,HS,,6,make2,2,N. Vonleh,
+117,2,9:21.0,39,29,POR,PHI,1,away,Timeout,,,,,,
+118,2,9:21.0,39,29,POR,PHI,0,away,Sub,,,,,H. Thompson,R. Covington
+119,2,9:21.0,39,29,POR,PHI,0,away,Sub,,,,,C. Landry,S. Weems
+120,2,9:02.0,39,29,POR,PHI,19,away,BadPass,steal,,turnover,,T. McConnell,G. Henderson
+121,2,8:56.0,39,29,POR,PHI,6,home,JS,,22,miss3,0,A. Crabbe,
+122,2,8:54.0,39,29,POR,PHI,2,away,DefReb,,,DefReb,,J. Grant,
+123,2,8:42.0,39,29,POR,PHI,12,away,JS,,24,miss3,0,H. Thompson,
+124,2,8:42.0,39,29,POR,PHI,0,home,DefReb,,,DefReb,,E. Davis,
+125,2,8:29.0,39,29,POR,PHI,13,home,JS,,16,miss2,0,G. Henderson,
+126,2,8:28.0,39,29,POR,PHI,1,away,DefReb,,,DefReb,,N. Stauskas,
+127,2,8:21.0,39,32,POR,PHI,7,away,JS,,24,make3,3,N. Stauskas,
+128,2,8:01.0,41,32,POR,PHI,20,home,JS,,15,make2,2,G. Henderson,
+129,2,7:44.0,41,32,POR,PHI,17,away,JS,,24,miss3,0,H. Thompson,
+130,2,7:41.0,41,32,POR,PHI,3,home,DefReb,,,DefReb,,E. Davis,
+131,2,7:34.0,41,32,POR,PHI,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Landry,E. Davis
+132,2,7:34.0,41,32,POR,PHI,0,home,FreeThrow,,,make1,0,E. Davis,
+133,2,7:34.0,41,32,POR,PHI,0,home,OffReb,,,OffReb,,Team,
+134,2,7:34.0,41,32,POR,PHI,0,away,Sub,,,,,I. Canaan,C. Landry
+135,2,7:34.0,41,32,POR,PHI,0,away,Sub,,,,,I. Smith,N. Stauskas
+136,2,7:34.0,41,32,POR,PHI,0,away,Sub,,,,,R. Covington,T. McConnell
+137,2,7:34.0,41,32,POR,PHI,0,home,FreeThrow,,,make1,0,E. Davis,
+138,2,7:33.0,41,32,POR,PHI,1,away,DefReb,,,DefReb,,H. Thompson,
+139,2,7:22.0,41,34,POR,PHI,11,away,LU,,2,make2,2,J. Grant,
+140,2,7:22.0,41,34,POR,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,J. Grant
+141,2,7:22.0,41,35,POR,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+142,2,7:12.0,41,35,POR,PHI,10,home,OffensiveFoul,,,turnover,,N. Vonleh,
+143,2,7:12.0,41,35,POR,PHI,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,N. Vonleh,I. Smith
+144,2,6:58.0,41,35,POR,PHI,14,away,JS,block,3,miss2,0,R. Covington,E. Davis
+145,2,6:56.0,41,35,POR,PHI,2,home,DefReb,,,DefReb,,N. Vonleh,
+146,2,6:50.0,43,35,POR,PHI,6,home,JS,,5,make2,2,C. McCollum,
+147,2,6:32.0,43,35,POR,PHI,18,away,JS,,24,miss3,0,I. Canaan,
+148,2,6:30.0,43,35,POR,PHI,2,home,DefReb,,,DefReb,,G. Henderson,
+149,2,6:22.0,43,35,POR,PHI,8,home,LostBall,steal,,turnover,,G. Henderson,R. Covington
+150,2,6:14.0,43,38,POR,PHI,8,away,JS,assist,23,make3,3,H. Thompson,I. Smith
+151,2,6:13.0,43,38,POR,PHI,1,home,Timeout,,,,,,
+152,2,6:13.0,43,38,POR,PHI,0,home,Sub,,,,,M. Harkless,G. Henderson
+153,2,6:13.0,43,38,POR,PHI,0,home,Sub,,,,,A. Aminu,N. Vonleh
+154,2,6:01.0,43,38,POR,PHI,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,C. McCollum
+155,2,6:01.0,44,38,POR,PHI,0,home,FreeThrow,,,make1,1,C. McCollum,
+156,2,6:01.0,45,38,POR,PHI,0,home,FreeThrow,,,make1,1,C. McCollum,
+157,2,5:50.0,45,38,POR,PHI,11,away,JS,,24,miss3,0,I. Smith,
+158,2,5:48.0,45,38,POR,PHI,2,home,DefReb,,,DefReb,,Team,
+159,2,5:33.0,47,38,POR,PHI,15,home,JS,assist,18,make2,2,C. McCollum,A. Crabbe
+160,2,5:19.0,47,38,POR,PHI,14,away,JS,,25,miss3,0,R. Covington,
+161,2,5:19.0,47,38,POR,PHI,0,home,DefReb,,,DefReb,,A. Aminu,
+162,2,5:10.0,49,38,POR,PHI,9,home,JS,,18,make2,2,C. McCollum,
+163,2,5:05.0,49,38,POR,PHI,5,away,Timeout,,,,,,
+164,2,5:05.0,49,38,POR,PHI,0,home,Sub,,,,,D. Lillard,C. McCollum
+165,2,5:05.0,49,38,POR,PHI,0,home,Sub,,,,,B. Roberts,A. Crabbe
+166,2,4:51.0,49,38,POR,PHI,14,away,JS,,24,miss3,0,H. Thompson,
+167,2,4:50.0,49,38,POR,PHI,1,home,DefReb,,,DefReb,,E. Davis,
+168,2,4:29.0,49,38,POR,PHI,21,home,JS,,25,miss3,0,D. Lillard,
+169,2,4:28.0,49,38,POR,PHI,1,away,DefReb,,,DefReb,,I. Smith,
+170,2,4:23.0,49,38,POR,PHI,5,away,JS,,24,miss3,0,I. Canaan,
+171,2,4:22.0,49,38,POR,PHI,1,home,DefReb,,,DefReb,,E. Davis,
+172,2,4:04.0,51,38,POR,PHI,18,home,JS,assist,15,make2,2,A. Aminu,B. Roberts
+173,2,3:55.0,51,38,POR,PHI,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,R. Covington
+174,2,3:55.0,51,39,POR,PHI,0,away,FreeThrow,,,make1,1,R. Covington,
+175,2,3:55.0,51,39,POR,PHI,0,home,Sub,,,,,M. Plumlee,E. Davis
+176,2,3:55.0,51,39,POR,PHI,0,away,Sub,,,,,E. Brand,J. Grant
+177,2,3:55.0,51,40,POR,PHI,0,away,FreeThrow,,,make1,1,R. Covington,
+178,2,3:35.0,51,40,POR,PHI,20,home,JS,,6,miss2,0,A. Aminu,
+179,2,3:33.0,51,40,POR,PHI,2,away,DefReb,,,DefReb,,H. Thompson,
+180,2,3:23.0,51,40,POR,PHI,10,away,JS,,24,miss3,0,R. Covington,
+181,2,3:23.0,51,40,POR,PHI,0,home,DefReb,,,DefReb,,D. Lillard,
+182,2,3:14.0,54,40,POR,PHI,9,home,JS,assist,22,make3,3,A. Aminu,M. Plumlee
+183,2,2:56.0,54,40,POR,PHI,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Roberts,I. Canaan
+184,2,2:56.0,54,40,POR,PHI,0,away,Timeout,,,,,,
+185,2,2:56.0,54,40,POR,PHI,0,away,Sub,,,,,N. Stauskas,R. Covington
+186,2,2:56.0,54,41,POR,PHI,0,away,FreeThrow,,,make1,1,I. Canaan,
+187,2,2:56.0,54,42,POR,PHI,0,away,FreeThrow,,,make1,1,I. Canaan,
+188,2,2:41.0,54,42,POR,PHI,15,home,BadPass,steal,,turnover,,D. Lillard,E. Brand
+189,2,2:33.0,54,42,POR,PHI,8,away,JS,,24,miss3,0,H. Thompson,
+190,2,2:33.0,54,42,POR,PHI,0,home,DefReb,,,DefReb,,B. Roberts,
+191,2,2:16.0,54,42,POR,PHI,17,home,JS,,6,miss2,0,M. Plumlee,
+192,2,2:15.0,54,42,POR,PHI,1,home,OffReb,,,OffReb,,M. Harkless,
+193,2,2:15.0,54,42,POR,PHI,0,home,LU,,0,miss2,0,M. Harkless,
+194,2,2:14.0,54,42,POR,PHI,1,away,DefReb,,,DefReb,,E. Brand,
+195,2,2:04.0,54,44,POR,PHI,10,away,JS,,9,make2,2,I. Canaan,
+196,2,1:45.0,54,44,POR,PHI,19,home,JS,,13,miss2,0,B. Roberts,
+197,2,1:44.0,54,44,POR,PHI,1,home,OffReb,,,OffReb,,M. Plumlee,
+198,2,1:38.0,54,44,POR,PHI,6,home,JS,,25,miss3,0,M. Harkless,
+199,2,1:37.0,54,44,POR,PHI,1,away,DefReb,,,DefReb,,I. Canaan,
+200,2,1:20.0,54,47,POR,PHI,17,away,JS,assist,25,make3,3,N. Stauskas,I. Smith
+201,2,1:06.0,54,47,POR,PHI,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Canaan,D. Lillard
+202,2,1:06.0,55,47,POR,PHI,0,home,FreeThrow,,,make1,1,D. Lillard,
+203,2,1:06.0,55,47,POR,PHI,0,home,Sub,,,,,C. McCollum,B. Roberts
+204,2,1:06.0,56,47,POR,PHI,0,home,FreeThrow,,,make1,1,D. Lillard,
+205,2,0:58.0,56,49,POR,PHI,8,away,JS,,7,make2,2,I. Canaan,
+206,2,0:48.0,56,49,POR,PHI,10,home,JS,,14,miss2,0,D. Lillard,
+207,2,0:47.0,56,49,POR,PHI,1,away,DefReb,,,DefReb,,I. Smith,
+208,2,0:39.0,56,49,POR,PHI,8,away,JS,,20,miss2,0,I. Canaan,
+209,2,0:38.0,56,49,POR,PHI,1,home,DefReb,,,DefReb,,M. Plumlee,
+210,2,0:31.0,56,49,POR,PHI,7,home,LU,,1,miss2,0,C. McCollum,
+211,2,0:30.0,56,49,POR,PHI,1,away,DefReb,,,DefReb,,N. Stauskas,
+212,2,0:28.0,56,49,POR,PHI,2,away,LostBall,steal,,turnover,,N. Stauskas,M. Plumlee
+213,2,0:27.0,56,49,POR,PHI,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Brand,M. Plumlee
+214,2,0:27.0,57,49,POR,PHI,0,home,FreeThrow,,,make1,1,M. Plumlee,
+215,2,0:27.0,57,49,POR,PHI,0,away,Sub,,,,,R. Covington,E. Brand
+216,2,0:27.0,57,49,POR,PHI,0,home,FreeThrow,,,make1,0,M. Plumlee,
+217,2,0:27.0,57,49,POR,PHI,0,away,DefReb,,,DefReb,,I. Smith,
+218,2,0:04.0,57,49,POR,PHI,23,away,JS,,22,miss2,0,I. Smith,
+219,2,0:02.0,57,49,POR,PHI,2,home,DefReb,,,DefReb,,A. Aminu,
+220,3,11:46.0,57,51,POR,PHI,14,away,JS,assist,20,make2,2,C. Landry,J. Grant
+221,3,11:28.0,60,51,POR,PHI,18,home,JS,,24,make3,3,D. Lillard,
+222,3,11:11.0,60,51,POR,PHI,17,away,LU,,2,miss2,0,J. Grant,
+223,3,11:11.0,60,51,POR,PHI,0,away,OffReb,,,OffReb,,H. Thompson,
+224,3,11:11.0,60,51,POR,PHI,0,away,OutOfBounds,,,turnover,,H. Thompson,
+225,3,10:50.0,60,51,POR,PHI,21,home,LU,block,1,miss2,0,M. Harkless,H. Thompson
+226,3,10:49.0,60,51,POR,PHI,1,away,DefReb,,,DefReb,,H. Thompson,
+227,3,10:35.0,60,51,POR,PHI,14,away,LU,,2,miss2,0,J. Grant,
+228,3,10:34.0,60,51,POR,PHI,1,away,OffReb,,,OffReb,,J. Grant,
+229,3,10:32.0,60,51,POR,PHI,2,away,LU,,2,miss2,0,J. Grant,
+230,3,10:30.0,60,51,POR,PHI,2,home,DefReb,,,DefReb,,M. Plumlee,
+231,3,10:22.0,60,51,POR,PHI,8,home,JS,,24,miss3,0,D. Lillard,
+232,3,10:21.0,60,51,POR,PHI,1,away,DefReb,,,DefReb,,I. Smith,
+233,3,10:13.0,60,51,POR,PHI,8,away,LU,,0,miss2,0,I. Smith,
+234,3,10:12.0,60,51,POR,PHI,1,away,OffReb,,,OffReb,,I. Smith,
+235,3,10:12.0,60,53,POR,PHI,0,away,LU,,0,make2,2,I. Smith,
+236,3,9:51.0,63,53,POR,PHI,21,home,JS,assist,25,make3,3,A. Aminu,D. Lillard
+237,3,9:34.0,63,53,POR,PHI,17,away,PersonalFoul,,,,,C. McCollum,
+238,3,9:26.0,63,53,POR,PHI,8,away,JS,,19,miss2,0,C. Landry,
+239,3,9:25.0,63,53,POR,PHI,1,home,DefReb,,,DefReb,,D. Lillard,
+240,3,9:18.0,65,53,POR,PHI,7,home,JS,,19,make2,2,D. Lillard,
+241,3,9:11.0,65,53,POR,PHI,7,away,Timeout,,,,,,
+242,3,9:02.0,65,53,POR,PHI,9,away,LU,block,2,miss2,0,I. Canaan,C. McCollum
+243,3,9:02.0,65,53,POR,PHI,0,home,DefReb,,,DefReb,,M. Plumlee,
+244,3,8:53.0,67,53,POR,PHI,9,home,LU,,2,make2,2,M. Harkless,
+245,3,8:41.0,67,55,POR,PHI,12,away,JS,assist,21,make2,2,C. Landry,I. Smith
+246,3,8:23.0,69,55,POR,PHI,18,home,LU,assist,2,make2,2,C. McCollum,A. Aminu
+247,3,8:00.0,69,55,POR,PHI,23,away,JS,,22,miss3,0,I. Canaan,
+248,3,7:59.0,69,55,POR,PHI,1,home,DefReb,,,DefReb,,M. Harkless,
+249,3,7:48.0,71,55,POR,PHI,11,home,LU,assist,1,make2,2,M. Plumlee,D. Lillard
+250,3,7:38.0,71,57,POR,PHI,10,away,DK,,0,make2,2,I. Smith,
+251,3,7:23.0,71,57,POR,PHI,15,home,JS,block,6,miss2,0,C. McCollum,J. Grant
+252,3,7:23.0,71,57,POR,PHI,0,home,OffReb,,,OffReb,,Team,
+253,3,7:15.0,71,57,POR,PHI,8,home,JS,,25,miss3,0,D. Lillard,
+254,3,7:14.0,71,57,POR,PHI,1,away,DefReb,,,DefReb,,C. Landry,
+255,3,7:03.0,71,57,POR,PHI,11,away,JS,,24,miss3,0,I. Canaan,
+256,3,7:01.0,71,57,POR,PHI,2,home,DefReb,,,DefReb,,M. Harkless,
+257,3,6:54.0,71,57,POR,PHI,7,home,PersonalFoul,,,,,H. Thompson,
+258,3,6:54.0,71,57,POR,PHI,0,away,Sub,,,,,R. Covington,C. Landry
+259,3,6:48.0,73,57,POR,PHI,6,home,LU,,1,make2,2,D. Lillard,
+260,3,6:38.0,73,57,POR,PHI,10,away,JS,,24,miss3,0,R. Covington,
+261,3,6:37.0,73,57,POR,PHI,1,away,OffReb,,,OffReb,,J. Grant,
+262,3,6:34.0,73,57,POR,PHI,3,away,JS,,17,miss2,0,J. Grant,
+263,3,6:33.0,73,57,POR,PHI,1,home,DefReb,,,DefReb,,D. Lillard,
+264,3,6:28.0,73,57,POR,PHI,5,home,PersonalFoul,,,,,J. Grant,
+265,3,6:28.0,73,57,POR,PHI,0,away,Sub,,,,,N. Stauskas,I. Canaan
+266,3,6:18.0,73,57,POR,PHI,10,home,JS,,24,miss3,0,A. Aminu,
+267,3,6:17.0,73,57,POR,PHI,1,away,DefReb,,,DefReb,,I. Smith,
+268,3,6:14.0,73,57,POR,PHI,3,away,PersonalFoul,,,,,C. McCollum,
+269,3,5:59.0,73,59,POR,PHI,15,away,DK,assist,0,make2,2,J. Grant,H. Thompson
+270,3,5:54.0,73,59,POR,PHI,5,home,BadPass,,,turnover,,D. Lillard,
+271,3,5:41.0,73,61,POR,PHI,13,away,LU,,2,make2,2,I. Smith,
+272,3,5:21.0,73,61,POR,PHI,20,home,LU,block,2,miss2,0,D. Lillard,J. Grant
+273,3,5:21.0,73,61,POR,PHI,0,away,DefReb,,,DefReb,,R. Covington,
+274,3,5:13.0,73,61,POR,PHI,8,away,JS,,3,miss2,0,I. Smith,
+275,3,5:13.0,73,61,POR,PHI,0,home,DefReb,,,DefReb,,D. Lillard,
+276,3,5:09.0,73,61,POR,PHI,4,home,BadPass,steal,,turnover,,M. Harkless,R. Covington
+277,3,5:06.0,73,61,POR,PHI,3,away,BadPass,steal,,turnover,,R. Covington,M. Harkless
+278,3,5:03.0,75,61,POR,PHI,3,home,DK,assist,0,make2,2,M. Plumlee,M. Harkless
+279,3,4:44.0,75,64,POR,PHI,19,away,JS,assist,24,make3,3,N. Stauskas,J. Grant
+280,3,4:23.0,75,64,POR,PHI,21,away,Sub,,,,,K. Marshall,H. Thompson
+281,3,4:23.0,75,64,POR,PHI,0,away,Sub,,,,,T. McConnell,J. Grant
+282,3,4:23.0,75,64,POR,PHI,0,away,Sub,,,,,E. Brand,I. Smith
+283,3,4:23.0,75,64,POR,PHI,0,home,Sub,,,,,E. Davis,A. Aminu
+284,3,4:23.0,75,64,POR,PHI,0,home,Sub,,,,,G. Henderson,M. Plumlee
+285,3,4:23.0,75,64,POR,PHI,0,home,Sub,,,,,A. Crabbe,C. McCollum
+286,3,4:19.0,75,64,POR,PHI,4,home,HS,,4,miss2,0,E. Davis,
+287,3,4:19.0,75,64,POR,PHI,0,away,DefReb,,,DefReb,,R. Covington,
+288,3,4:10.0,75,64,POR,PHI,9,away,JS,,12,miss2,0,T. McConnell,
+289,3,4:09.0,75,64,POR,PHI,1,home,DefReb,,,DefReb,,E. Davis,
+290,3,4:00.0,75,64,POR,PHI,9,home,JS,,19,miss2,0,D. Lillard,
+291,3,3:59.0,75,64,POR,PHI,1,away,DefReb,,,DefReb,,E. Brand,
+292,3,3:49.0,75,64,POR,PHI,10,away,LU,,1,miss2,0,N. Stauskas,
+293,3,3:49.0,75,64,POR,PHI,0,home,DefReb,,,DefReb,,E. Davis,
+294,3,3:28.0,77,64,POR,PHI,21,home,LU,assist,0,make2,2,M. Harkless,G. Henderson
+295,3,3:28.0,77,64,POR,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Brand,M. Harkless
+296,3,3:28.0,78,64,POR,PHI,0,home,FreeThrow,,,make1,1,M. Harkless,
+297,3,3:09.0,78,64,POR,PHI,19,away,JS,,24,miss3,0,K. Marshall,
+298,3,3:08.0,78,64,POR,PHI,1,home,DefReb,,,DefReb,,Team,
+299,3,2:54.0,80,64,POR,PHI,14,home,JS,,17,make2,2,D. Lillard,
+300,3,2:36.0,80,64,POR,PHI,18,away,LU,,2,miss2,0,R. Covington,
+301,3,2:35.0,80,64,POR,PHI,1,away,OffReb,,,OffReb,,R. Covington,
+302,3,2:34.0,80,66,POR,PHI,1,away,JS,,3,make2,2,R. Covington,
+303,3,2:34.0,80,66,POR,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Harkless,R. Covington
+304,3,2:34.0,80,66,POR,PHI,0,home,Timeout,,,,,,
+305,3,2:34.0,80,67,POR,PHI,0,away,FreeThrow,,,make1,1,R. Covington,
+306,3,2:09.0,80,67,POR,PHI,25,home,JS,,21,miss2,0,D. Lillard,
+307,3,2:07.0,80,67,POR,PHI,2,away,DefReb,,,DefReb,,R. Covington,
+308,3,1:59.0,80,69,POR,PHI,8,away,LU,assist,2,make2,2,R. Covington,T. McConnell
+309,3,1:59.0,80,69,POR,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lillard,R. Covington
+310,3,1:59.0,80,69,POR,PHI,0,home,Sub,,,,,C. McCollum,D. Lillard
+311,3,1:59.0,80,69,POR,PHI,0,home,Sub,,,,,A. Aminu,M. Harkless
+312,3,1:59.0,80,70,POR,PHI,0,away,FreeThrow,,,make1,1,R. Covington,
+313,3,1:52.0,80,70,POR,PHI,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. McCollum,T. McConnell
+314,3,1:52.0,80,70,POR,PHI,0,home,OffensiveFoul,,,turnover,,C. McCollum,
+315,3,1:42.0,80,72,POR,PHI,10,away,LU,,1,make2,2,R. Covington,
+316,3,1:42.0,80,72,POR,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,R. Covington
+317,3,1:42.0,80,72,POR,PHI,0,away,FreeThrow,,,make1,0,R. Covington,
+318,3,1:41.0,80,72,POR,PHI,1,home,DefReb,,,DefReb,,G. Henderson,
+319,3,1:21.0,80,72,POR,PHI,20,home,JS,,19,miss2,0,C. McCollum,
+320,3,1:21.0,80,72,POR,PHI,0,home,OffReb,,,OffReb,,A. Aminu,
+321,3,1:20.0,80,72,POR,PHI,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Brand,A. Aminu
+322,3,1:20.0,81,72,POR,PHI,0,home,FreeThrow,,,make1,1,A. Aminu,
+323,3,1:20.0,82,72,POR,PHI,0,home,FreeThrow,,,make1,1,A. Aminu,
+324,3,1:07.0,82,72,POR,PHI,13,away,JS,,10,miss2,0,T. McConnell,
+325,3,1:06.0,82,72,POR,PHI,1,home,DefReb,,,DefReb,,E. Davis,
+326,3,0:58.0,82,72,POR,PHI,8,home,JS,,8,miss2,0,C. McCollum,
+327,3,0:57.0,82,72,POR,PHI,1,home,OffReb,,,OffReb,,E. Davis,
+328,3,0:49.0,82,72,POR,PHI,8,home,PersonalFoul,,,,,T. McConnell,
+329,3,0:49.0,83,72,POR,PHI,0,home,FreeThrow,,,make1,1,C. McCollum,
+330,3,0:49.0,84,72,POR,PHI,0,home,FreeThrow,,,make1,1,C. McCollum,
+331,3,0:26.0,84,74,POR,PHI,23,away,JS,assist,18,make2,2,E. Brand,K. Marshall
+332,3,0:05.0,86,74,POR,PHI,21,home,LU,,2,make2,2,C. McCollum,
+333,3,0:00.0,86,74,POR,PHI,5,away,JS,,25,miss3,0,N. Stauskas,
+334,3,0:00.0,86,74,POR,PHI,0,home,DefReb,,,DefReb,,E. Davis,
+335,4,11:44.0,86,74,POR,PHI,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Stauskas,G. Henderson
+336,4,11:44.0,87,74,POR,PHI,0,home,FreeThrow,,,make1,1,G. Henderson,
+337,4,11:44.0,88,74,POR,PHI,0,home,FreeThrow,,,make1,1,G. Henderson,
+338,4,11:20.0,88,76,POR,PHI,24,away,JS,,20,make2,2,N. Stauskas,
+339,4,10:58.0,90,76,POR,PHI,22,home,JS,assist,23,make2,2,A. Crabbe,E. Davis
+340,4,10:46.0,90,76,POR,PHI,12,away,JS,,25,miss3,0,H. Thompson,
+341,4,10:45.0,90,76,POR,PHI,1,home,DefReb,,,DefReb,,E. Davis,
+342,4,10:36.0,90,76,POR,PHI,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Smith,E. Davis
+343,4,10:36.0,91,76,POR,PHI,0,home,FreeThrow,,,make1,1,E. Davis,
+344,4,10:36.0,92,76,POR,PHI,0,home,FreeThrow,,,make1,1,E. Davis,
+345,4,10:27.0,92,76,POR,PHI,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Davis,C. Landry
+346,4,10:27.0,92,77,POR,PHI,0,away,FreeThrow,,,make1,1,C. Landry,
+347,4,10:27.0,92,78,POR,PHI,0,away,FreeThrow,,,make1,1,C. Landry,
+348,4,10:18.0,92,78,POR,PHI,9,home,JS,,24,miss3,0,C. McCollum,
+349,4,10:18.0,92,78,POR,PHI,0,away,DefReb,,,DefReb,,N. Stauskas,
+350,4,10:04.0,92,80,POR,PHI,14,away,LU,,2,make2,2,C. Landry,
+351,4,9:50.0,92,80,POR,PHI,14,home,JS,,24,miss3,0,A. Crabbe,
+352,4,9:49.0,92,80,POR,PHI,1,home,OffReb,,,OffReb,,A. Aminu,
+353,4,9:47.0,92,80,POR,PHI,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Landry,A. Aminu
+354,4,9:47.0,93,80,POR,PHI,0,home,FreeThrow,,,make1,1,A. Aminu,
+355,4,9:47.0,94,80,POR,PHI,0,home,FreeThrow,,,make1,1,A. Aminu,
+356,4,9:34.0,94,80,POR,PHI,13,away,LU,,1,miss2,0,I. Smith,
+357,4,9:33.0,94,80,POR,PHI,1,home,DefReb,,,DefReb,,E. Davis,
+358,4,9:27.0,94,80,POR,PHI,6,home,LU,,1,miss2,0,C. McCollum,
+359,4,9:26.0,94,80,POR,PHI,1,away,DefReb,,,DefReb,,C. Landry,
+360,4,9:19.0,94,80,POR,PHI,7,away,Traveling,,,turnover,,I. Smith,
+361,4,9:01.0,94,80,POR,PHI,18,home,JS,,18,miss2,0,A. Crabbe,
+362,4,9:00.0,94,80,POR,PHI,1,away,DefReb,,,DefReb,,N. Stauskas,
+363,4,8:49.0,94,80,POR,PHI,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Henderson,N. Stauskas
+364,4,8:49.0,94,80,POR,PHI,0,away,Timeout,,,,,,
+365,4,8:49.0,94,80,POR,PHI,0,home,Sub,,,,,D. Lillard,C. McCollum
+366,4,8:49.0,94,81,POR,PHI,0,away,FreeThrow,,,make1,1,N. Stauskas,
+367,4,8:49.0,94,82,POR,PHI,0,away,FreeThrow,,,make1,1,N. Stauskas,
+368,4,8:30.0,96,82,POR,PHI,19,home,DK,assist,0,make2,2,A. Aminu,E. Davis
+369,4,8:16.0,96,82,POR,PHI,14,away,BadPass,,,turnover,,N. Stauskas,
+370,4,8:16.0,96,82,POR,PHI,0,home,Sub,,,,,M. Plumlee,E. Davis
+371,4,8:16.0,96,82,POR,PHI,0,away,Sub,,,,,R. Covington,I. Canaan
+372,4,8:05.0,96,82,POR,PHI,11,home,PersonalFoul,,,,,H. Thompson,
+373,4,8:05.0,96,82,POR,PHI,0,away,Sub,,,,,J. Grant,C. Landry
+374,4,7:56.0,96,82,POR,PHI,9,home,JS,,12,miss2,0,A. Crabbe,
+375,4,7:54.0,96,82,POR,PHI,2,away,DefReb,,,DefReb,,I. Smith,
+376,4,7:43.0,96,82,POR,PHI,11,away,JS,,22,miss3,0,N. Stauskas,
+377,4,7:42.0,96,82,POR,PHI,1,home,DefReb,,,DefReb,,M. Plumlee,
+378,4,7:30.0,96,82,POR,PHI,12,home,JS,,24,miss3,0,A. Aminu,
+379,4,7:30.0,96,82,POR,PHI,0,away,DefReb,,,DefReb,,I. Smith,
+380,4,7:21.0,96,85,POR,PHI,9,away,JS,assist,25,make3,3,H. Thompson,J. Grant
+381,4,7:05.0,96,85,POR,PHI,16,home,JS,,24,miss3,0,G. Henderson,
+382,4,7:04.0,96,85,POR,PHI,1,away,DefReb,,,DefReb,,R. Covington,
+383,4,6:52.0,96,85,POR,PHI,12,away,PersonalFoul,,,,,M. Plumlee,
+384,4,6:43.0,96,85,POR,PHI,9,away,JS,,14,miss2,0,H. Thompson,
+385,4,6:42.0,96,85,POR,PHI,1,home,DefReb,,,DefReb,,M. Plumlee,
+386,4,6:29.0,96,85,POR,PHI,13,home,JS,,22,miss3,0,A. Crabbe,
+387,4,6:29.0,96,85,POR,PHI,0,away,DefReb,,,DefReb,,R. Covington,
+388,4,6:25.0,96,87,POR,PHI,4,away,LU,,1,make2,2,I. Smith,
+389,4,6:25.0,96,87,POR,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lillard,I. Smith
+390,4,6:25.0,96,87,POR,PHI,0,away,Sub,,,,,K. Marshall,N. Stauskas
+391,4,6:25.0,96,87,POR,PHI,0,home,Sub,,,,,C. McCollum,A. Crabbe
+392,4,6:25.0,96,87,POR,PHI,0,away,FreeThrow,,,make1,0,I. Smith,
+393,4,6:23.0,96,87,POR,PHI,2,home,DefReb,,,DefReb,,G. Henderson,
+394,4,6:12.0,96,87,POR,PHI,11,home,BadPass,steal,,turnover,,G. Henderson,I. Smith
+395,4,6:10.0,96,87,POR,PHI,2,away,LostBall,steal,,turnover,,I. Smith,C. McCollum
+396,4,6:04.0,96,87,POR,PHI,6,home,LU,block,0,miss2,0,M. Plumlee,J. Grant
+397,4,6:04.0,96,87,POR,PHI,0,home,OffReb,,,OffReb,,M. Plumlee,
+398,4,6:04.0,96,87,POR,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,M. Plumlee
+399,4,6:04.0,96,87,POR,PHI,0,home,FreeThrow,,,make1,0,M. Plumlee,
+400,4,6:04.0,96,87,POR,PHI,0,home,OffReb,,,OffReb,,Team,
+401,4,6:04.0,97,87,POR,PHI,0,home,FreeThrow,,,make1,1,M. Plumlee,
+402,4,5:54.0,97,87,POR,PHI,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,J. Grant
+403,4,5:54.0,97,87,POR,PHI,0,home,Timeout,,,,,,
+404,4,5:54.0,97,88,POR,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+405,4,5:54.0,97,88,POR,PHI,0,away,FreeThrow,,,make1,0,J. Grant,
+406,4,5:53.0,97,88,POR,PHI,1,home,DefReb,,,DefReb,,C. McCollum,
+407,4,5:41.0,97,88,POR,PHI,12,home,JS,,8,miss2,0,D. Lillard,
+408,4,5:39.0,97,88,POR,PHI,2,home,OffReb,,,OffReb,,M. Plumlee,
+409,4,5:39.0,97,88,POR,PHI,0,home,LU,,1,miss2,0,M. Plumlee,
+410,4,5:38.0,97,88,POR,PHI,1,home,OffReb,,,OffReb,,M. Plumlee,
+411,4,5:38.0,97,88,POR,PHI,0,home,LU,,1,miss2,0,M. Plumlee,
+412,4,5:37.0,97,88,POR,PHI,1,away,DefReb,,,DefReb,,J. Grant,
+413,4,5:24.0,97,90,POR,PHI,13,away,LU,assist,0,make2,2,J. Grant,H. Thompson
+414,4,5:24.0,97,90,POR,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,J. Grant
+415,4,5:24.0,97,90,POR,PHI,0,home,Sub,,,,,M. Harkless,M. Plumlee
+416,4,5:24.0,97,90,POR,PHI,0,home,Sub,,,,,E. Davis,G. Henderson
+417,4,5:24.0,97,90,POR,PHI,0,away,FreeThrow,,,make1,0,J. Grant,
+418,4,5:21.0,97,90,POR,PHI,3,away,OffReb,,,OffReb,,I. Smith,
+419,4,5:17.0,97,90,POR,PHI,4,away,JS,,23,miss3,0,H. Thompson,
+420,4,5:16.0,97,90,POR,PHI,1,away,OffReb,,,OffReb,,J. Grant,
+421,4,5:10.0,97,92,POR,PHI,6,away,LU,,1,make2,2,R. Covington,
+422,4,4:53.0,97,92,POR,PHI,17,home,JS,,7,miss2,0,D. Lillard,
+423,4,4:52.0,97,92,POR,PHI,1,away,DefReb,,,DefReb,,R. Covington,
+424,4,4:43.0,97,92,POR,PHI,9,away,JS,,15,miss2,0,J. Grant,
+425,4,4:41.0,97,92,POR,PHI,2,home,DefReb,,,DefReb,,A. Aminu,
+426,4,4:23.0,97,92,POR,PHI,18,home,JS,,6,miss2,0,C. McCollum,
+427,4,4:23.0,97,92,POR,PHI,0,away,DefReb,,,DefReb,,I. Smith,
+428,4,4:17.0,97,94,POR,PHI,6,away,LU,assist,1,make2,2,R. Covington,I. Smith
+429,4,4:17.0,97,94,POR,PHI,0,home,Timeout,,,,,,
+430,4,3:59.0,97,94,POR,PHI,18,home,JS,,6,miss2,0,C. McCollum,
+431,4,3:58.0,97,94,POR,PHI,1,away,DefReb,,,DefReb,,R. Covington,
+432,4,3:43.0,97,97,POR,PHI,15,away,JS,assist,22,make3,3,H. Thompson,I. Smith
+433,4,3:22.0,97,97,POR,PHI,21,home,LU,block,2,miss2,0,D. Lillard,J. Grant
+434,4,3:21.0,97,97,POR,PHI,1,away,DefReb,,,DefReb,,H. Thompson,
+435,4,3:15.0,97,100,POR,PHI,6,away,JS,assist,24,make3,3,H. Thompson,K. Marshall
+436,4,2:56.0,97,100,POR,PHI,19,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Grant,C. McCollum
+437,4,2:56.0,99,100,POR,PHI,0,home,LU,,1,make2,2,C. McCollum,
+438,4,2:56.0,100,100,POR,PHI,0,home,FreeThrow,,,make1,1,C. McCollum,
+439,4,2:47.0,100,100,POR,PHI,9,away,BadPass,steal,,turnover,,K. Marshall,C. McCollum
+440,4,2:37.0,103,100,POR,PHI,10,home,JS,assist,26,make3,3,D. Lillard,C. McCollum
+441,4,2:36.0,103,100,POR,PHI,1,away,Timeout,,,,,,
+442,4,2:23.0,103,100,POR,PHI,13,away,JS,,29,miss3,0,R. Covington,
+443,4,2:23.0,103,100,POR,PHI,0,home,DefReb,,,DefReb,,M. Harkless,
+444,4,2:11.0,103,100,POR,PHI,12,home,JS,,8,miss2,0,D. Lillard,
+445,4,2:09.0,103,100,POR,PHI,2,away,DefReb,,,DefReb,,R. Covington,
+446,4,2:07.0,103,100,POR,PHI,2,away,BadPass,steal,,turnover,,R. Covington,E. Davis
+447,4,2:01.0,103,100,POR,PHI,6,home,JS,,24,miss3,0,A. Aminu,
+448,4,2:00.0,103,100,POR,PHI,1,away,DefReb,,,DefReb,,I. Smith,
+449,4,1:50.0,103,100,POR,PHI,10,away,JS,,22,miss3,0,K. Marshall,
+450,4,1:50.0,103,100,POR,PHI,0,home,DefReb,,,DefReb,,A. Aminu,
+451,4,1:32.0,103,100,POR,PHI,18,home,JS,,18,miss2,0,C. McCollum,
+452,4,1:32.0,103,100,POR,PHI,0,home,OffReb,,,OffReb,,Team,
+453,4,1:32.0,103,100,POR,PHI,0,home,PersonalFoul,,,,,H. Thompson,
+454,4,1:32.0,104,100,POR,PHI,0,home,FreeThrow,,,make1,1,M. Harkless,
+455,4,1:32.0,104,100,POR,PHI,0,away,Sub,,,,,N. Stauskas,K. Marshall
+456,4,1:32.0,104,100,POR,PHI,0,home,FreeThrow,,,make1,0,M. Harkless,
+457,4,1:31.0,104,100,POR,PHI,1,away,DefReb,,,DefReb,,H. Thompson,
+458,4,1:31.0,104,100,POR,PHI,0,away,Timeout,,,,,,
+459,4,1:31.0,104,100,POR,PHI,0,away,Timeout,,,,,,
+460,4,1:27.0,104,103,POR,PHI,4,away,JS,assist,27,make3,3,H. Thompson,I. Smith
+461,4,1:11.0,104,103,POR,PHI,16,home,JS,,22,miss2,0,C. McCollum,
+462,4,1:10.0,104,103,POR,PHI,1,away,DefReb,,,DefReb,,R. Covington,
+463,4,0:59.0,104,103,POR,PHI,11,away,LU,,1,miss2,0,R. Covington,
+464,4,0:59.0,104,103,POR,PHI,0,home,DefReb,,,DefReb,,E. Davis,
+465,4,0:47.0,104,103,POR,PHI,12,home,JS,,23,miss3,0,A. Aminu,
+466,4,0:47.0,104,103,POR,PHI,0,home,OffReb,,,OffReb,,M. Harkless,
+467,4,0:47.0,104,103,POR,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Stauskas,M. Harkless
+468,4,0:47.0,105,103,POR,PHI,0,home,FreeThrow,,,make1,1,M. Harkless,
+469,4,0:47.0,105,103,POR,PHI,0,home,FreeThrow,,,make1,0,M. Harkless,
+470,4,0:46.0,105,103,POR,PHI,1,away,DefReb,,,DefReb,,I. Smith,
+471,4,0:36.0,105,103,POR,PHI,10,away,LU,block,1,miss2,0,J. Grant,E. Davis
+472,4,0:36.0,105,103,POR,PHI,0,away,OffReb,,,OffReb,,Team,
+473,4,0:24.0,105,105,POR,PHI,12,away,JS,,14,make2,2,I. Smith,
+474,4,0:23.0,105,105,POR,PHI,1,home,Timeout,,,,,,
+475,4,0:23.0,105,105,POR,PHI,0,home,Sub,,,,,B. Roberts,M. Harkless
+476,4,0:23.0,105,105,POR,PHI,0,home,Sub,,,,,A. Crabbe,A. Aminu
+477,4,0:23.0,105,105,POR,PHI,0,away,Sub,,,,,T. McConnell,N. Stauskas
+478,4,0:08.0,107,105,POR,PHI,15,home,LU,,0,make2,2,C. McCollum,
+479,4,0:08.0,107,105,POR,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Covington,C. McCollum
+480,4,0:08.0,107,105,POR,PHI,0,home,Sub,,,,,M. Harkless,B. Roberts
+481,4,0:08.0,107,105,POR,PHI,0,home,Sub,,,,,A. Aminu,A. Crabbe
+482,4,0:08.0,107,105,POR,PHI,0,away,Sub,,,,,C. Landry,H. Thompson
+483,4,0:08.0,108,105,POR,PHI,0,home,FreeThrow,,,make1,1,C. McCollum,
+484,4,0:08.0,108,105,POR,PHI,0,away,Timeout,,,,,,
+485,4,0:08.0,108,105,POR,PHI,0,away,Sub,,,,,N. Stauskas,T. McConnell
+486,4,0:08.0,108,105,POR,PHI,0,away,Sub,,,,,H. Thompson,C. Landry
+487,4,0:07.0,108,105,POR,PHI,1,away,PersonalTakeFoul,,,PersonalTakeFoul,,C. McCollum,
+488,4,0:07.0,108,105,POR,PHI,0,away,FreeThrow,,,make1,0,J. Grant,
+489,4,0:07.0,108,105,POR,PHI,0,away,OffReb,,,OffReb,,Team,
+490,4,0:07.0,108,105,POR,PHI,0,away,Sub,,,,,T. McConnell,N. Stauskas
+491,4,0:07.0,108,105,POR,PHI,0,home,Sub,,,,,B. Roberts,M. Harkless
+492,4,0:07.0,108,105,POR,PHI,0,home,Sub,,,,,A. Crabbe,E. Davis
+493,4,0:07.0,108,105,POR,PHI,0,away,FreeThrow,,,make1,0,J. Grant,
+494,4,0:07.0,108,105,POR,PHI,0,home,DefReb,,,DefReb,,Team,

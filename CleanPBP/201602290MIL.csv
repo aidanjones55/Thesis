@@ -1,0 +1,490 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:42.0,2,0,MIL,HOU,18,home,JS,assist,6,make2,2,J. Parker,O. Mayo
+1,1,11:21.0,2,0,MIL,HOU,21,away,JS,,22,miss2,0,J. Smith,
+2,1,11:20.0,2,0,MIL,HOU,1,home,DefReb,,,DefReb,,O. Mayo,
+3,1,11:13.0,2,0,MIL,HOU,7,home,JS,,17,miss2,0,K. Middleton,
+4,1,11:11.0,2,0,MIL,HOU,2,home,OffReb,,,OffReb,,J. Parker,
+5,1,11:05.0,4,0,MIL,HOU,6,home,LU,,0,make2,2,J. Parker,
+6,1,11:01.0,4,2,MIL,HOU,4,away,LU,assist,2,make2,2,J. Smith,T. Ariza
+7,1,11:01.0,4,2,MIL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Mayo,J. Smith
+8,1,11:01.0,4,2,MIL,HOU,0,away,FreeThrow,,,make1,0,J. Smith,
+9,1,10:58.0,4,2,MIL,HOU,3,home,DefReb,,,DefReb,,G. Antetokounmpo,
+10,1,10:51.0,6,2,MIL,HOU,7,home,JS,,16,make2,2,G. Antetokounmpo,
+11,1,10:35.0,6,2,MIL,HOU,16,away,LU,block,2,miss2,0,D. Howard,M. Plumlee
+12,1,10:32.0,6,2,MIL,HOU,3,away,OffReb,,,OffReb,,T. Ariza,
+13,1,10:25.0,6,2,MIL,HOU,7,away,JS,,24,miss3,0,T. Ariza,
+14,1,10:23.0,6,2,MIL,HOU,2,home,DefReb,,,DefReb,,G. Antetokounmpo,
+15,1,10:06.0,8,2,MIL,HOU,17,home,JS,,17,make2,2,J. Parker,
+16,1,9:49.0,8,4,MIL,HOU,17,away,JS,,8,make2,2,P. Beverley,
+17,1,9:32.0,8,4,MIL,HOU,17,home,D3SecTech,,,,,,
+18,1,9:32.0,9,4,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton makes technical free throw,
+19,1,9:22.0,9,4,MIL,HOU,10,home,DK,,0,miss2,0,J. Parker,
+20,1,9:20.0,9,4,MIL,HOU,2,away,DefReb,,,DefReb,,T. Ariza,
+21,1,9:05.0,9,4,MIL,HOU,15,away,JS,,23,miss3,0,J. Smith,
+22,1,9:03.0,9,4,MIL,HOU,2,home,DefReb,,,DefReb,,G. Antetokounmpo,
+23,1,8:58.0,9,4,MIL,HOU,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,G. Antetokounmpo
+24,1,8:58.0,10,4,MIL,HOU,0,home,FreeThrow,,,make1,1,G. Antetokounmpo,
+25,1,8:58.0,10,4,MIL,HOU,0,home,FreeThrow,,,make1,0,G. Antetokounmpo,
+26,1,8:56.0,10,4,MIL,HOU,2,away,DefReb,,,DefReb,,J. Harden,
+27,1,8:46.0,10,6,MIL,HOU,10,away,LU,assist,1,make2,2,D. Howard,J. Harden
+28,1,8:33.0,12,6,MIL,HOU,13,home,HS,,4,make2,2,M. Plumlee,
+29,1,8:21.0,12,6,MIL,HOU,12,away,LU,,1,miss2,0,P. Beverley,
+30,1,8:21.0,12,6,MIL,HOU,0,away,OffReb,,,OffReb,,D. Howard,
+31,1,8:21.0,12,6,MIL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Mayo,D. Howard
+32,1,8:21.0,12,7,MIL,HOU,0,away,FreeThrow,,,make1,1,D. Howard,
+33,1,8:21.0,12,7,MIL,HOU,0,home,Sub,,,,,J. Bayless,O. Mayo
+34,1,8:21.0,12,8,MIL,HOU,0,away,FreeThrow,,,make1,1,D. Howard,
+35,1,7:59.0,14,8,MIL,HOU,22,home,JS,assist,11,make2,2,J. Parker,K. Middleton
+36,1,7:47.0,14,8,MIL,HOU,12,away,D3SecTech,,,,,,
+37,1,7:47.0,14,9,MIL,HOU,0,away,FreeThrow,,,make1,1,J. Harden makes technical free throw,
+38,1,7:38.0,14,11,MIL,HOU,9,away,DK,assist,0,make2,2,D. Howard,T. Ariza
+39,1,7:23.0,14,11,MIL,HOU,15,home,JS,,19,miss2,0,J. Parker,
+40,1,7:21.0,14,11,MIL,HOU,2,away,DefReb,,,DefReb,,J. Harden,
+41,1,7:09.0,14,11,MIL,HOU,12,away,LostBall,steal,,turnover,,J. Smith,J. Parker
+42,1,7:06.0,14,11,MIL,HOU,3,away,KickBallViolation,,,KickBallViolation,,T. Ariza,
+43,1,6:48.0,16,11,MIL,HOU,18,home,JS,assist,7,make2,2,J. Parker,M. Plumlee
+44,1,6:40.0,16,13,MIL,HOU,8,away,DK,assist,0,make2,2,D. Howard,J. Harden
+45,1,6:40.0,16,13,MIL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,D. Howard
+46,1,6:40.0,16,13,MIL,HOU,0,away,Sub,,,,,D. Motiejūnas,J. Smith
+47,1,6:40.0,16,13,MIL,HOU,0,home,Sub,,,,,G. Monroe,M. Plumlee
+48,1,6:40.0,16,14,MIL,HOU,0,away,FreeThrow,,,make1,1,D. Howard,
+49,1,6:28.0,16,14,MIL,HOU,12,home,BadPass,,,turnover,,J. Parker,
+50,1,6:13.0,16,17,MIL,HOU,15,away,JS,assist,23,make3,3,D. Motiejūnas,T. Ariza
+51,1,5:45.0,18,17,MIL,HOU,28,home,JS,,22,make2,2,K. Middleton,
+52,1,5:19.0,18,17,MIL,HOU,26,away,HS,,7,miss2,0,D. Howard,
+53,1,5:18.0,18,17,MIL,HOU,1,home,DefReb,,,DefReb,,Team,
+54,1,5:18.0,18,17,MIL,HOU,0,home,Timeout,,,,,,
+55,1,5:18.0,18,17,MIL,HOU,0,away,Sub,,,,,T. Jones,D. Howard
+56,1,5:02.0,20,17,MIL,HOU,16,home,LU,assist,2,make2,2,G. Monroe,K. Middleton
+57,1,4:37.0,20,19,MIL,HOU,25,away,LU,assist,2,make2,2,T. Jones,T. Ariza
+58,1,4:26.0,20,19,MIL,HOU,11,away,ChargeFoul,DrawnBy,,ChargeFoul,,G. Antetokounmpo,D. Motiejūnas
+59,1,4:26.0,20,19,MIL,HOU,0,home,OffensiveFoul,,,turnover,,G. Antetokounmpo,
+60,1,4:10.0,20,21,MIL,HOU,16,away,JS,assist,9,make2,2,T. Ariza,J. Harden
+61,1,3:49.0,20,21,MIL,HOU,21,home,JS,,23,miss3,0,K. Middleton,
+62,1,3:48.0,20,21,MIL,HOU,1,home,OffReb,,,OffReb,,G. Monroe,
+63,1,3:45.0,22,21,MIL,HOU,3,home,LU,,2,make2,2,G. Monroe,
+64,1,3:25.0,22,21,MIL,HOU,20,away,JS,,8,miss2,0,P. Beverley,
+65,1,3:24.0,22,21,MIL,HOU,1,away,OffReb,,,OffReb,,T. Jones,
+66,1,3:24.0,22,21,MIL,HOU,0,away,LU,,1,miss2,0,T. Jones,
+67,1,3:23.0,22,21,MIL,HOU,1,home,DefReb,,,DefReb,,G. Monroe,
+68,1,3:17.0,22,21,MIL,HOU,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Beverley,K. Middleton
+69,1,3:17.0,23,21,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton,
+70,1,3:17.0,23,21,MIL,HOU,0,away,Sub,,,,,C. Brewer,P. Beverley
+71,1,3:17.0,23,21,MIL,HOU,0,away,Sub,,,,,T. Lawson,T. Ariza
+72,1,3:17.0,24,21,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton,
+73,1,3:03.0,24,21,MIL,HOU,14,away,BadPass,,,turnover,,D. Motiejūnas,
+74,1,2:45.0,26,21,MIL,HOU,18,home,JS,,20,make2,2,G. Antetokounmpo,
+75,1,2:26.0,26,24,MIL,HOU,19,away,JS,assist,25,make3,3,J. Harden,C. Brewer
+76,1,2:04.0,26,24,MIL,HOU,22,home,JS,,14,miss2,0,G. Monroe,
+77,1,2:02.0,26,24,MIL,HOU,2,away,DefReb,,,DefReb,,D. Motiejūnas,
+78,1,1:57.0,26,24,MIL,HOU,5,away,LU,block,2,miss2,0,C. Brewer,G. Antetokounmpo
+79,1,1:54.0,26,24,MIL,HOU,3,away,OffReb,,,OffReb,,D. Motiejūnas,
+80,1,1:50.0,26,24,MIL,HOU,4,away,LU,,1,miss2,0,J. Harden,
+81,1,1:50.0,26,24,MIL,HOU,0,home,DefReb,,,DefReb,,G. Antetokounmpo,
+82,1,1:44.0,26,24,MIL,HOU,6,home,BadPass,steal,,turnover,,G. Antetokounmpo,T. Lawson
+83,1,1:33.0,26,24,MIL,HOU,11,away,JS,,24,miss3,0,T. Lawson,
+84,1,1:31.0,26,24,MIL,HOU,2,home,DefReb,,,DefReb,,G. Antetokounmpo,
+85,1,1:21.0,28,24,MIL,HOU,10,home,LU,assist,1,make2,2,J. Parker,G. Antetokounmpo
+86,1,1:21.0,28,24,MIL,HOU,0,away,Timeout,,,,,,
+87,1,1:21.0,28,24,MIL,HOU,0,away,Sub,,,,,D. Howard,J. Harden
+88,1,1:21.0,28,24,MIL,HOU,0,away,Sub,,,,,J. Terry,D. Motiejūnas
+89,1,0:58.0,28,24,MIL,HOU,23,away,JS,,16,miss2,0,T. Jones,
+90,1,0:57.0,28,24,MIL,HOU,1,home,DefReb,,,DefReb,,G. Antetokounmpo,
+91,1,0:52.0,28,24,MIL,HOU,5,home,LU,,1,miss2,0,G. Antetokounmpo,
+92,1,0:50.0,28,24,MIL,HOU,2,away,DefReb,,,DefReb,,C. Brewer,
+93,1,0:44.0,28,24,MIL,HOU,6,away,JS,,25,miss3,0,J. Terry,
+94,1,0:40.0,28,24,MIL,HOU,4,home,DefReb,,,DefReb,,G. Antetokounmpo,
+95,1,0:31.0,30,24,MIL,HOU,9,home,DK,assist,0,make2,2,J. Parker,G. Antetokounmpo
+96,1,0:08.0,30,26,MIL,HOU,23,away,JS,assist,8,make2,2,T. Jones,T. Lawson
+97,1,0:02.0,30,26,MIL,HOU,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Terry,K. Middleton
+98,1,0:02.0,31,26,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton,
+99,1,0:02.0,31,26,MIL,HOU,0,home,Sub,,,,,J. O'Bryant,J. Parker
+100,1,0:02.0,31,26,MIL,HOU,0,home,Sub,,,,,R. Vaughn,G. Antetokounmpo
+101,1,0:02.0,32,26,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton,
+102,1,0:00.0,32,26,MIL,HOU,2,away,JS,,47,miss3,0,C. Brewer,
+103,1,0:00.0,32,26,MIL,HOU,0,away,OffReb,,,OffReb,,Team,
+104,2,11:47.0,32,26,MIL,HOU,13,away,BadPass,steal,,turnover,,J. Terry,G. Antetokounmpo
+105,2,11:34.0,32,26,MIL,HOU,13,home,JS,,23,miss3,0,G. Antetokounmpo,
+106,2,11:33.0,32,26,MIL,HOU,1,home,OffReb,,,OffReb,,J. Bayless,
+107,2,11:28.0,34,26,MIL,HOU,5,home,JS,assist,14,make2,2,R. Vaughn,J. Bayless
+108,2,11:04.0,34,26,MIL,HOU,24,away,JS,,16,miss2,0,J. Terry,
+109,2,11:02.0,34,26,MIL,HOU,2,away,OffReb,,,OffReb,,D. Howard,
+110,2,11:02.0,34,26,MIL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Monroe,D. Howard
+111,2,11:02.0,34,26,MIL,HOU,0,away,FreeThrow,,,make1,0,D. Howard,
+112,2,11:02.0,34,26,MIL,HOU,0,away,OffReb,,,OffReb,,Team,
+113,2,11:02.0,34,26,MIL,HOU,0,away,FreeThrow,,,make1,0,D. Howard,
+114,2,11:01.0,34,26,MIL,HOU,1,home,DefReb,,,DefReb,,G. Monroe,
+115,2,10:44.0,36,26,MIL,HOU,17,home,LU,assist,1,make2,2,G. Monroe,J. Bayless
+116,2,10:35.0,36,26,MIL,HOU,9,away,3sec,,,turnover,,D. Howard,
+117,2,10:19.0,39,26,MIL,HOU,16,home,JS,assist,27,make3,3,R. Vaughn,J. Bayless
+118,2,10:10.0,39,26,MIL,HOU,9,away,Timeout,,,,,,
+119,2,10:10.0,39,26,MIL,HOU,0,away,Sub,,,,,J. Smith,T. Jones
+120,2,10:00.0,39,26,MIL,HOU,10,away,LostBall,steal,,turnover,,T. Lawson,J. Bayless
+121,2,9:44.0,39,26,MIL,HOU,16,home,JS,,12,miss2,0,G. Monroe,
+122,2,9:43.0,39,26,MIL,HOU,1,away,DefReb,,,DefReb,,D. Howard,
+123,2,9:36.0,39,26,MIL,HOU,7,away,JS,,25,miss3,0,J. Smith,
+124,2,9:33.0,39,26,MIL,HOU,3,home,DefReb,,,DefReb,,G. Monroe,
+125,2,9:28.0,41,26,MIL,HOU,5,home,LU,,2,make2,2,G. Antetokounmpo,
+126,2,9:28.0,41,26,MIL,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Brewer,G. Antetokounmpo
+127,2,9:28.0,41,26,MIL,HOU,0,away,Sub,,,,,T. Ariza,C. Brewer
+128,2,9:28.0,41,26,MIL,HOU,0,away,Sub,,,,,J. Harden,T. Lawson
+129,2,9:28.0,41,26,MIL,HOU,0,away,Sub,,,,,P. Beverley,J. Terry
+130,2,9:28.0,41,26,MIL,HOU,0,home,FreeThrow,,,make1,0,G. Antetokounmpo,
+131,2,9:26.0,41,26,MIL,HOU,2,away,DefReb,,,DefReb,,D. Howard,
+132,2,9:14.0,41,26,MIL,HOU,12,away,JS,,4,miss2,0,P. Beverley,
+133,2,9:12.0,41,26,MIL,HOU,2,away,OffReb,,,OffReb,,J. Smith,
+134,2,9:07.0,41,29,MIL,HOU,5,away,JS,assist,22,make3,3,P. Beverley,T. Ariza
+135,2,8:56.0,43,29,MIL,HOU,11,home,JS,assist,18,make2,2,R. Vaughn,J. O'Bryant
+136,2,8:40.0,43,31,MIL,HOU,16,away,DK,assist,0,make2,2,D. Howard,J. Harden
+137,2,8:23.0,43,31,MIL,HOU,17,home,JS,,19,miss2,0,J. O'Bryant,
+138,2,8:21.0,43,31,MIL,HOU,2,away,DefReb,,,DefReb,,P. Beverley,
+139,2,8:15.0,43,34,MIL,HOU,6,away,JS,assist,23,make3,3,T. Ariza,J. Smith
+140,2,8:14.0,43,34,MIL,HOU,1,home,Timeout,,,,,,
+141,2,8:14.0,43,34,MIL,HOU,0,home,Sub,,,,,K. Middleton,J. O'Bryant
+142,2,8:14.0,43,34,MIL,HOU,0,home,Sub,,,,,J. Parker,G. Antetokounmpo
+143,2,7:56.0,43,34,MIL,HOU,18,home,JS,,22,miss2,0,J. Bayless,
+144,2,7:54.0,43,34,MIL,HOU,2,away,DefReb,,,DefReb,,T. Ariza,
+145,2,7:51.0,43,34,MIL,HOU,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Vaughn,P. Beverley
+146,2,7:51.0,43,34,MIL,HOU,0,away,FreeThrow,,,make1,0,P. Beverley,
+147,2,7:51.0,43,34,MIL,HOU,0,away,OffReb,,,OffReb,,Team,
+148,2,7:51.0,43,35,MIL,HOU,0,away,FreeThrow,,,make1,1,P. Beverley,
+149,2,7:43.0,43,35,MIL,HOU,8,home,BadPass,steal,,turnover,,J. Bayless,J. Harden
+150,2,7:38.0,43,37,MIL,HOU,5,away,DK,assist,0,make2,2,T. Ariza,J. Harden
+151,2,7:23.0,45,37,MIL,HOU,15,home,JS,assist,21,make2,2,J. Parker,R. Vaughn
+152,2,6:57.0,45,39,MIL,HOU,26,away,JS,assist,21,make2,2,P. Beverley,T. Ariza
+153,2,6:57.0,45,39,MIL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Bayless,P. Beverley
+154,2,6:57.0,45,40,MIL,HOU,0,away,FreeThrow,,,make1,1,P. Beverley,
+155,2,6:46.0,45,40,MIL,HOU,11,home,JS,,7,miss2,0,J. Parker,
+156,2,6:46.0,45,40,MIL,HOU,0,home,OffReb,,,OffReb,,Team,
+157,2,6:46.0,45,40,MIL,HOU,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Ariza,G. Monroe
+158,2,6:41.0,45,40,MIL,HOU,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Howard,J. Parker
+159,2,6:41.0,45,40,MIL,HOU,0,away,Sub,,,,,D. Motiejūnas,D. Howard
+160,2,6:41.0,46,40,MIL,HOU,0,home,FreeThrow,,,make1,1,J. Parker,
+161,2,6:41.0,47,40,MIL,HOU,0,home,FreeThrow,,,make1,1,J. Parker,
+162,2,6:22.0,47,40,MIL,HOU,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Monroe,T. Ariza
+163,2,6:22.0,47,41,MIL,HOU,0,away,FreeThrow,,,make1,1,T. Ariza,
+164,2,6:22.0,47,42,MIL,HOU,0,away,FreeThrow,,,make1,1,T. Ariza,
+165,2,6:11.0,47,42,MIL,HOU,11,home,D3SecTech,,,,,,
+166,2,6:11.0,48,42,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton makes technical free throw,
+167,2,6:03.0,48,42,MIL,HOU,8,home,LU,,1,miss2,0,G. Monroe,
+168,2,6:01.0,48,42,MIL,HOU,2,home,OffReb,,,OffReb,,G. Monroe,
+169,2,5:56.0,50,42,MIL,HOU,5,home,LU,,1,make2,2,G. Monroe,
+170,2,5:34.0,50,44,MIL,HOU,22,away,JS,assist,8,make2,2,J. Harden,J. Smith
+171,2,5:22.0,53,44,MIL,HOU,12,home,JS,assist,24,make3,3,J. Bayless,J. Parker
+172,2,5:07.0,53,47,MIL,HOU,15,away,JS,assist,25,make3,3,T. Ariza,J. Harden
+173,2,4:49.0,53,47,MIL,HOU,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Motiejūnas,G. Monroe
+174,2,4:42.0,53,47,MIL,HOU,7,home,JS,,16,miss2,0,G. Monroe,
+175,2,4:41.0,53,47,MIL,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
+176,2,4:27.0,53,50,MIL,HOU,14,away,JS,assist,24,make3,3,J. Harden,J. Smith
+177,2,4:26.0,53,50,MIL,HOU,1,home,Timeout,,,,,,
+178,2,4:26.0,53,50,MIL,HOU,0,home,Sub,,,,,O. Mayo,J. Bayless
+179,2,4:26.0,53,50,MIL,HOU,0,home,Sub,,,,,G. Antetokounmpo,R. Vaughn
+180,2,4:26.0,53,50,MIL,HOU,0,home,DelayOfGame,,,DelayOfGame,,Team,
+181,2,4:23.0,53,50,MIL,HOU,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ariza,G. Antetokounmpo
+182,2,4:23.0,53,50,MIL,HOU,0,home,FreeThrow,,,make1,0,G. Antetokounmpo,
+183,2,4:23.0,53,50,MIL,HOU,0,home,OffReb,,,OffReb,,Team,
+184,2,4:23.0,53,50,MIL,HOU,0,home,FreeThrow,,,make1,0,G. Antetokounmpo,
+185,2,4:22.0,53,50,MIL,HOU,1,away,DefReb,,,DefReb,,D. Motiejūnas,
+186,2,4:11.0,53,50,MIL,HOU,11,away,JS,,4,miss2,0,P. Beverley,
+187,2,4:09.0,53,50,MIL,HOU,2,home,DefReb,,,DefReb,,G. Monroe,
+188,2,3:54.0,55,50,MIL,HOU,15,home,LU,,2,make2,2,K. Middleton,
+189,2,3:45.0,55,52,MIL,HOU,9,away,LU,,1,make2,2,J. Harden,
+190,2,3:45.0,55,52,MIL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Monroe,J. Harden
+191,2,3:45.0,55,52,MIL,HOU,0,home,Sub,,,,,M. Plumlee,G. Monroe
+192,2,3:45.0,55,52,MIL,HOU,0,away,Sub,,,,,D. Howard,J. Smith
+193,2,3:45.0,55,53,MIL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+194,2,3:33.0,55,53,MIL,HOU,12,home,BadPass,steal,,turnover,,O. Mayo,T. Ariza
+195,2,3:30.0,55,53,MIL,HOU,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Antetokounmpo,D. Motiejūnas
+196,2,3:30.0,55,54,MIL,HOU,0,away,FreeThrow,,,make1,1,D. Motiejūnas,
+197,2,3:30.0,55,55,MIL,HOU,0,away,FreeThrow,,,make1,1,D. Motiejūnas,
+198,2,3:11.0,55,55,MIL,HOU,19,home,JS,,12,miss2,0,O. Mayo,
+199,2,3:09.0,55,55,MIL,HOU,2,home,OffReb,,,OffReb,,M. Plumlee,
+200,2,3:09.0,55,55,MIL,HOU,0,home,LU,,0,miss2,0,M. Plumlee,
+201,2,3:08.0,55,55,MIL,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
+202,2,2:53.0,55,55,MIL,HOU,15,away,JS,,23,miss3,0,P. Beverley,
+203,2,2:52.0,55,55,MIL,HOU,1,away,OffReb,,,OffReb,,T. Ariza,
+204,2,2:48.0,55,55,MIL,HOU,4,away,JS,,24,miss3,0,P. Beverley,
+205,2,2:47.0,55,55,MIL,HOU,1,home,DefReb,,,DefReb,,G. Antetokounmpo,
+206,2,2:39.0,57,55,MIL,HOU,8,home,LU,assist,0,make2,2,J. Parker,G. Antetokounmpo
+207,2,2:15.0,57,58,MIL,HOU,24,away,JS,assist,25,make3,3,T. Ariza,D. Motiejūnas
+208,2,2:00.0,57,58,MIL,HOU,15,home,JS,,22,miss2,0,J. Parker,
+209,2,1:58.0,57,58,MIL,HOU,2,away,DefReb,,,DefReb,,D. Howard,
+210,2,1:52.0,57,60,MIL,HOU,6,away,LU,,1,make2,2,J. Harden,
+211,2,1:37.0,57,60,MIL,HOU,15,home,BadPass,steal,,turnover,,J. Parker,J. Harden
+212,2,1:35.0,57,60,MIL,HOU,2,away,DblDribble,,,turnover,,P. Beverley,
+213,2,1:35.0,57,60,MIL,HOU,0,away,Timeout,,,,,,
+214,2,1:30.0,59,60,MIL,HOU,5,home,DK,assist,1,make2,2,M. Plumlee,J. Parker
+215,2,1:11.0,59,60,MIL,HOU,19,away,BadPass,steal,,turnover,,J. Harden,G. Antetokounmpo
+216,2,1:06.0,61,60,MIL,HOU,5,home,LU,assist,0,make2,2,K. Middleton,G. Antetokounmpo
+217,2,0:55.0,61,60,MIL,HOU,11,away,LostBall,steal,,turnover,,J. Harden,J. Parker
+218,2,0:51.0,63,60,MIL,HOU,4,home,DK,assist,0,make2,2,G. Antetokounmpo,J. Parker
+219,2,0:41.0,63,60,MIL,HOU,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Middleton,D. Motiejūnas
+220,2,0:41.0,63,60,MIL,HOU,0,away,FreeThrow,,,make1,0,D. Motiejūnas,
+221,2,0:41.0,63,60,MIL,HOU,0,away,OffReb,,,OffReb,,Team,
+222,2,0:41.0,63,61,MIL,HOU,0,away,FreeThrow,,,make1,1,D. Motiejūnas,
+223,2,0:25.0,63,61,MIL,HOU,16,home,JS,,14,miss2,0,G. Antetokounmpo,
+224,2,0:24.0,63,61,MIL,HOU,1,home,OffReb,,,OffReb,,M. Plumlee,
+225,2,0:07.0,63,61,MIL,HOU,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Motiejūnas,K. Middleton
+226,2,0:07.0,64,61,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton,
+227,2,0:07.0,64,61,MIL,HOU,0,home,Sub,,,,,J. Bayless,O. Mayo
+228,2,0:07.0,64,61,MIL,HOU,0,away,Sub,,,,,J. Terry,D. Motiejūnas
+229,2,0:07.0,65,61,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton,
+230,2,0:01.0,65,64,MIL,HOU,6,away,JS,assist,23,make3,3,J. Terry,T. Ariza
+231,2,0:00.0,65,64,MIL,HOU,1,home,BadPass,steal,,turnover,,J. Parker,J. Harden
+232,3,11:50.0,65,64,MIL,HOU,10,away,JS,block,5,miss2,0,D. Howard,K. Middleton
+233,3,11:48.0,65,64,MIL,HOU,2,home,DefReb,,,DefReb,,O. Mayo,
+234,3,11:46.0,65,64,MIL,HOU,2,home,BadPass,,,turnover,,O. Mayo,
+235,3,11:34.0,65,64,MIL,HOU,12,away,JS,,5,miss2,0,D. Howard,
+236,3,11:31.0,65,64,MIL,HOU,3,home,DefReb,,,DefReb,,M. Plumlee,
+237,3,11:27.0,65,64,MIL,HOU,4,home,LU,,1,miss2,0,J. Parker,
+238,3,11:25.0,65,64,MIL,HOU,2,away,DefReb,,,DefReb,,D. Howard,
+239,3,11:15.0,65,64,MIL,HOU,10,away,LU,,1,miss2,0,J. Smith,
+240,3,11:11.0,65,64,MIL,HOU,4,away,OffReb,,,OffReb,,D. Howard,
+241,3,11:11.0,65,64,MIL,HOU,0,away,LU,,1,miss2,0,D. Howard,
+242,3,11:11.0,65,64,MIL,HOU,0,away,OffReb,,,OffReb,,D. Howard,
+243,3,11:11.0,65,64,MIL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,D. Howard
+244,3,11:11.0,65,65,MIL,HOU,0,away,FreeThrow,,,make1,1,D. Howard,
+245,3,11:11.0,65,65,MIL,HOU,0,away,FreeThrow,,,make1,0,D. Howard,
+246,3,11:09.0,65,65,MIL,HOU,2,away,OffReb,,,OffReb,,T. Ariza,
+247,3,11:05.0,65,67,MIL,HOU,4,away,HS,assist,5,make2,2,D. Howard,T. Ariza
+248,3,10:55.0,65,67,MIL,HOU,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ariza,M. Plumlee
+249,3,10:55.0,66,67,MIL,HOU,0,home,FreeThrow,,,make1,1,M. Plumlee,
+250,3,10:55.0,66,67,MIL,HOU,0,home,FreeThrow,,,make1,0,M. Plumlee,
+251,3,10:54.0,66,67,MIL,HOU,1,away,DefReb,,,DefReb,,J. Harden,
+252,3,10:37.0,66,67,MIL,HOU,17,away,JS,,25,miss3,0,J. Harden,
+253,3,10:36.0,66,67,MIL,HOU,1,home,DefReb,,,DefReb,,G. Antetokounmpo,
+254,3,10:35.0,66,67,MIL,HOU,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Beverley,G. Antetokounmpo
+255,3,10:27.0,66,67,MIL,HOU,8,away,DefGoaltending,,,DefGoaltending,,D. Howard,
+256,3,10:27.0,68,67,MIL,HOU,0,home,JS,,4,make2,2,J. Parker,
+257,3,10:11.0,68,69,MIL,HOU,16,away,DK,assist,0,make2,2,D. Howard,T. Ariza
+258,3,9:52.0,68,69,MIL,HOU,19,home,BadPass,steal,,turnover,,G. Antetokounmpo,J. Smith
+259,3,9:43.0,68,72,MIL,HOU,9,away,JS,,23,make3,3,T. Ariza,
+260,3,9:35.0,68,72,MIL,HOU,8,home,BadPass,steal,,turnover,,J. Parker,P. Beverley
+261,3,9:26.0,68,72,MIL,HOU,9,away,JS,,24,miss3,0,P. Beverley,
+262,3,9:24.0,68,72,MIL,HOU,2,home,DefReb,,,DefReb,,Team,
+263,3,9:24.0,68,72,MIL,HOU,0,home,Timeout,,,,,,
+264,3,9:02.0,70,72,MIL,HOU,22,home,JS,,17,make2,2,K. Middleton,
+265,3,8:39.0,70,74,MIL,HOU,23,away,HS,assist,3,make2,2,J. Smith,T. Ariza
+266,3,8:26.0,72,74,MIL,HOU,13,home,DK,assist,0,make2,2,M. Plumlee,J. Parker
+267,3,8:07.0,72,76,MIL,HOU,19,away,DK,assist,1,make2,2,D. Howard,J. Harden
+268,3,7:52.0,72,76,MIL,HOU,15,home,JS,,25,miss3,0,O. Mayo,
+269,3,7:50.0,72,76,MIL,HOU,2,away,DefReb,,,DefReb,,D. Howard,
+270,3,7:42.0,72,76,MIL,HOU,8,away,BadPass,steal,,turnover,,J. Harden,K. Middleton
+271,3,7:42.0,72,76,MIL,HOU,0,home,Traveling,,,turnover,,O. Mayo,
+272,3,7:32.0,72,76,MIL,HOU,10,away,BadPass,steal,,turnover,,D. Howard,G. Antetokounmpo
+273,3,7:30.0,72,76,MIL,HOU,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Harden,G. Antetokounmpo
+274,3,7:23.0,72,76,MIL,HOU,7,home,LU,,2,miss2,0,M. Plumlee,
+275,3,7:21.0,72,76,MIL,HOU,2,home,OffReb,,,OffReb,,M. Plumlee,
+276,3,7:20.0,72,76,MIL,HOU,1,home,LU,,1,miss2,0,M. Plumlee,
+277,3,7:18.0,72,76,MIL,HOU,2,home,OffReb,,,OffReb,,Team,
+278,3,7:18.0,72,76,MIL,HOU,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Howard,M. Plumlee
+279,3,7:18.0,72,76,MIL,HOU,0,home,TechnicalFoul,,,TechnicalFoul,,O. Mayo,
+280,3,7:18.0,72,77,MIL,HOU,0,away,FreeThrow,,,make1,1,J. Harden makes technical free throw,
+281,3,7:18.0,72,77,MIL,HOU,0,home,Sub,,,,,J. Bayless,O. Mayo
+282,3,7:15.0,74,77,MIL,HOU,3,home,DK,assist,0,make2,2,G. Antetokounmpo,J. Parker
+283,3,6:50.0,74,77,MIL,HOU,25,away,JS,,24,miss3,0,J. Harden,
+284,3,6:49.0,74,77,MIL,HOU,1,home,DefReb,,,DefReb,,G. Antetokounmpo,
+285,3,6:43.0,76,77,MIL,HOU,6,home,DK,assist,0,make2,2,J. Parker,G. Antetokounmpo
+286,3,6:34.0,76,79,MIL,HOU,9,away,DK,assist,0,make2,2,D. Howard,T. Ariza
+287,3,6:18.0,76,79,MIL,HOU,16,home,LostBall,steal,,turnover,,G. Antetokounmpo,T. Ariza
+288,3,6:16.0,76,81,MIL,HOU,2,away,LU,,1,make2,2,D. Howard,
+289,3,6:16.0,76,81,MIL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Parker,D. Howard
+290,3,6:16.0,76,81,MIL,HOU,0,away,Sub,,,,,D. Motiejūnas,J. Smith
+291,3,6:16.0,76,81,MIL,HOU,0,away,FreeThrow,,,make1,0,D. Howard,
+292,3,6:15.0,76,81,MIL,HOU,1,home,DefReb,,,DefReb,,G. Antetokounmpo,
+293,3,5:57.0,76,81,MIL,HOU,18,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Howard,G. Antetokounmpo
+294,3,5:57.0,76,81,MIL,HOU,0,home,FreeThrow,,,make1,0,G. Antetokounmpo,
+295,3,5:57.0,76,81,MIL,HOU,0,home,OffReb,,,OffReb,,Team,
+296,3,5:57.0,76,81,MIL,HOU,0,home,FreeThrow,,,make1,0,G. Antetokounmpo,
+297,3,5:56.0,76,81,MIL,HOU,1,away,DefReb,,,DefReb,,D. Howard,
+298,3,5:38.0,76,81,MIL,HOU,18,away,LostBall,steal,,turnover,,D. Motiejūnas,K. Middleton
+299,3,5:32.0,76,81,MIL,HOU,6,home,BadPass,steal,,turnover,,G. Antetokounmpo,D. Motiejūnas
+300,3,5:23.0,76,81,MIL,HOU,9,away,JS,,23,miss3,0,T. Ariza,
+301,3,5:21.0,76,81,MIL,HOU,2,home,DefReb,,,DefReb,,M. Plumlee,
+302,3,5:06.0,76,81,MIL,HOU,15,home,JS,,24,miss3,0,J. Bayless,
+303,3,5:04.0,76,81,MIL,HOU,2,away,DefReb,,,DefReb,,J. Harden,
+304,3,5:01.0,76,81,MIL,HOU,3,home,DefGoaltending,,,DefGoaltending,,J. Bayless,
+305,3,5:01.0,76,83,MIL,HOU,0,away,LU,assist,1,make2,2,P. Beverley,J. Harden
+306,3,4:37.0,76,83,MIL,HOU,24,away,Sub,,,,,T. Jones,D. Howard
+307,3,4:25.0,76,83,MIL,HOU,12,home,JS,,18,miss2,0,J. Parker,
+308,3,4:23.0,76,83,MIL,HOU,2,away,DefReb,,,DefReb,,T. Jones,
+309,3,4:21.0,76,83,MIL,HOU,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Middleton,D. Motiejūnas
+310,3,4:21.0,76,83,MIL,HOU,0,home,Sub,,,,,G. Monroe,M. Plumlee
+311,3,4:21.0,76,83,MIL,HOU,0,away,Sub,,,,,J. Terry,P. Beverley
+312,3,4:07.0,76,83,MIL,HOU,14,away,JS,,22,miss3,0,J. Harden,
+313,3,4:06.0,76,83,MIL,HOU,1,home,DefReb,,,DefReb,,J. Parker,
+314,3,4:01.0,78,83,MIL,HOU,5,home,LU,,1,make2,2,J. Parker,
+315,3,3:51.0,78,83,MIL,HOU,10,away,BadPass,steal,,turnover,,T. Ariza,K. Middleton
+316,3,3:44.0,80,83,MIL,HOU,7,home,DK,assist,0,make2,2,J. Parker,G. Antetokounmpo
+317,3,3:44.0,80,83,MIL,HOU,0,away,Timeout,,,,,,
+318,3,3:44.0,80,83,MIL,HOU,0,away,Sub,,,,,C. Brewer,T. Ariza
+319,3,3:30.0,80,83,MIL,HOU,14,away,HS,,0,miss2,0,D. Motiejūnas,
+320,3,3:27.0,80,83,MIL,HOU,3,home,DefReb,,,DefReb,,G. Antetokounmpo,
+321,3,3:08.0,83,83,MIL,HOU,19,home,JS,assist,24,make3,3,K. Middleton,G. Monroe
+322,3,2:54.0,83,83,MIL,HOU,14,away,LostBall,steal,,turnover,,J. Harden,K. Middleton
+323,3,2:48.0,83,83,MIL,HOU,6,home,DK,,0,miss2,0,J. Parker,
+324,3,2:45.0,83,83,MIL,HOU,3,away,DefReb,,,DefReb,,T. Jones,
+325,3,2:32.0,83,83,MIL,HOU,13,away,JS,,23,miss3,0,J. Terry,
+326,3,2:31.0,83,83,MIL,HOU,1,away,OffReb,,,OffReb,,D. Motiejūnas,
+327,3,2:24.0,83,86,MIL,HOU,7,away,JS,assist,22,make3,3,J. Terry,D. Motiejūnas
+328,3,2:05.0,86,86,MIL,HOU,19,home,JS,assist,23,make3,3,J. Bayless,G. Antetokounmpo
+329,3,1:46.0,86,86,MIL,HOU,19,away,JS,,24,miss3,0,C. Brewer,
+330,3,1:44.0,86,86,MIL,HOU,2,home,DefReb,,,DefReb,,J. Bayless,
+331,3,1:36.0,86,86,MIL,HOU,8,home,BadPass,steal,,turnover,,J. Parker,C. Brewer
+332,3,1:34.0,86,86,MIL,HOU,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Bayless,J. Harden
+333,3,1:34.0,86,86,MIL,HOU,0,away,Sub,,,,,T. Ariza,J. Harden
+334,3,1:34.0,86,86,MIL,HOU,0,away,Sub,,,,,D. Howard,D. Motiejūnas
+335,3,1:24.0,86,86,MIL,HOU,10,away,LU,block,1,miss2,0,C. Brewer,G. Antetokounmpo
+336,3,1:21.0,86,86,MIL,HOU,3,home,DefReb,,,DefReb,,K. Middleton,
+337,3,1:16.0,86,86,MIL,HOU,5,home,JS,,24,miss3,0,J. Bayless,
+338,3,1:15.0,86,86,MIL,HOU,1,home,OffReb,,,OffReb,,K. Middleton,
+339,3,1:11.0,88,86,MIL,HOU,4,home,LU,assist,2,make2,2,G. Monroe,K. Middleton
+340,3,0:57.0,88,86,MIL,HOU,14,away,LU,,2,miss2,0,D. Howard,
+341,3,0:55.0,88,86,MIL,HOU,2,away,OffReb,,,OffReb,,D. Howard,
+342,3,0:55.0,88,86,MIL,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Monroe,D. Howard
+343,3,0:55.0,88,87,MIL,HOU,0,away,FreeThrow,,,make1,1,D. Howard,
+344,3,0:55.0,88,87,MIL,HOU,0,home,Sub,,,,,R. Vaughn,J. Parker
+345,3,0:55.0,88,87,MIL,HOU,0,home,Sub,,,,,M. Plumlee,G. Monroe
+346,3,0:55.0,88,87,MIL,HOU,0,away,FreeThrow,,,make1,0,D. Howard,
+347,3,0:55.0,88,87,MIL,HOU,0,home,DefReb,,,DefReb,,G. Antetokounmpo,
+348,3,0:39.0,88,87,MIL,HOU,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ariza,K. Middleton
+349,3,0:39.0,89,87,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton,
+350,3,0:39.0,89,87,MIL,HOU,0,away,Sub,,,,,J. Harden,T. Jones
+351,3,0:39.0,90,87,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton,
+352,3,0:30.0,90,89,MIL,HOU,9,away,LU,,2,make2,2,J. Harden,
+353,3,0:08.0,92,89,MIL,HOU,22,home,JS,,5,make2,2,J. Bayless,
+354,3,0:00.0,92,92,MIL,HOU,8,away,JS,,25,make3,3,J. Harden,
+355,4,11:39.0,92,92,MIL,HOU,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Howard,G. Antetokounmpo
+356,4,11:39.0,93,92,MIL,HOU,0,home,FreeThrow,,,make1,1,G. Antetokounmpo,
+357,4,11:39.0,94,92,MIL,HOU,0,home,FreeThrow,,,make1,1,G. Antetokounmpo,
+358,4,11:19.0,94,92,MIL,HOU,20,away,BadPass,steal,,turnover,,J. Terry,K. Middleton
+359,4,11:17.0,94,92,MIL,HOU,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Beverley,R. Vaughn
+360,4,11:10.0,96,92,MIL,HOU,7,home,JS,,18,make2,2,G. Antetokounmpo,
+361,4,10:54.0,96,92,MIL,HOU,16,away,HS,,3,miss2,0,D. Howard,
+362,4,10:52.0,96,92,MIL,HOU,2,home,DefReb,,,DefReb,,G. Antetokounmpo,
+363,4,10:46.0,96,92,MIL,HOU,6,home,JS,,24,miss3,0,J. Bayless,
+364,4,10:44.0,96,92,MIL,HOU,2,away,DefReb,,,DefReb,,P. Beverley,
+365,4,10:40.0,96,92,MIL,HOU,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Monroe,P. Beverley
+366,4,10:40.0,96,93,MIL,HOU,0,away,FreeThrow,,,make1,1,P. Beverley,
+367,4,10:40.0,96,93,MIL,HOU,0,home,Sub,,,,,M. Plumlee,G. Monroe
+368,4,10:40.0,96,93,MIL,HOU,0,away,Sub,,,,,J. Smith,T. Jones
+369,4,10:40.0,96,94,MIL,HOU,0,away,FreeThrow,,,make1,1,P. Beverley,
+370,4,10:30.0,96,94,MIL,HOU,10,home,JS,,22,miss2,0,G. Antetokounmpo,
+371,4,10:27.0,96,94,MIL,HOU,3,away,DefReb,,,DefReb,,J. Smith,
+372,4,10:21.0,96,94,MIL,HOU,6,away,BadPass,steal,,turnover,,P. Beverley,G. Antetokounmpo
+373,4,10:17.0,96,94,MIL,HOU,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,G. Antetokounmpo
+374,4,10:17.0,96,94,MIL,HOU,0,home,FreeThrow,,,make1,0,G. Antetokounmpo,
+375,4,10:17.0,96,94,MIL,HOU,0,home,OffReb,,,OffReb,,Team,
+376,4,10:17.0,97,94,MIL,HOU,0,home,FreeThrow,,,make1,1,G. Antetokounmpo,
+377,4,10:02.0,97,94,MIL,HOU,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Antetokounmpo,J. Smith
+378,4,9:50.0,97,94,MIL,HOU,12,away,JS,,3,miss2,0,D. Howard,
+379,4,9:49.0,97,94,MIL,HOU,1,away,OffReb,,,OffReb,,D. Howard,
+380,4,9:47.0,97,96,MIL,HOU,2,away,LU,,1,make2,2,D. Howard,
+381,4,9:39.0,97,96,MIL,HOU,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Brewer,K. Middleton
+382,4,9:25.0,99,96,MIL,HOU,14,home,JS,,18,make2,2,G. Antetokounmpo,
+383,4,9:04.0,99,99,MIL,HOU,21,away,JS,assist,25,make3,3,J. Terry,P. Beverley
+384,4,8:46.0,99,99,MIL,HOU,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Brewer,K. Middleton
+385,4,8:46.0,99,99,MIL,HOU,0,away,Timeout,,,,,,
+386,4,8:46.0,99,99,MIL,HOU,0,away,Sub,,,,,D. Motiejūnas,D. Howard
+387,4,8:46.0,99,99,MIL,HOU,0,away,Sub,,,,,J. Harden,C. Brewer
+388,4,8:46.0,99,99,MIL,HOU,0,home,Sub,,,,,J. Parker,G. Antetokounmpo
+389,4,8:46.0,100,99,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton,
+390,4,8:46.0,101,99,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton,
+391,4,8:33.0,101,99,MIL,HOU,13,away,HS,,4,miss2,0,D. Motiejūnas,
+392,4,8:31.0,101,99,MIL,HOU,2,home,DefReb,,,DefReb,,J. Parker,
+393,4,8:12.0,101,99,MIL,HOU,19,home,HS,,3,miss2,0,M. Plumlee,
+394,4,8:10.0,101,99,MIL,HOU,2,away,DefReb,,,DefReb,,J. Harden,
+395,4,8:00.0,101,102,MIL,HOU,10,away,JS,assist,23,make3,3,J. Smith,J. Harden
+396,4,7:47.0,101,102,MIL,HOU,13,home,JS,,25,miss3,0,K. Middleton,
+397,4,7:46.0,101,102,MIL,HOU,1,away,DefReb,,,DefReb,,D. Motiejūnas,
+398,4,7:38.0,101,102,MIL,HOU,8,away,JS,,23,miss3,0,J. Smith,
+399,4,7:37.0,101,102,MIL,HOU,1,home,DefReb,,,DefReb,,M. Plumlee,
+400,4,7:20.0,103,102,MIL,HOU,17,home,JS,,9,make2,2,K. Middleton,
+401,4,7:20.0,103,102,MIL,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harden,K. Middleton
+402,4,7:20.0,104,102,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton,
+403,4,7:08.0,104,102,MIL,HOU,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Middleton,D. Motiejūnas
+404,4,7:08.0,104,102,MIL,HOU,0,away,Sub,,,,,T. Ariza,J. Terry
+405,4,6:58.0,104,102,MIL,HOU,10,away,LostBall,,,turnover,,P. Beverley,
+406,4,6:58.0,104,102,MIL,HOU,0,home,Sub,,,,,G. Antetokounmpo,R. Vaughn
+407,4,6:37.0,106,102,MIL,HOU,21,home,HS,assist,8,make2,2,M. Plumlee,G. Antetokounmpo
+408,4,6:26.0,106,104,MIL,HOU,11,away,LU,,1,make2,2,J. Harden,
+409,4,6:10.0,109,104,MIL,HOU,16,home,JS,assist,22,make3,3,J. Parker,G. Antetokounmpo
+410,4,5:59.0,109,104,MIL,HOU,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,J. Harden
+411,4,5:59.0,109,104,MIL,HOU,0,home,Timeout,,,,,,
+412,4,5:59.0,109,104,MIL,HOU,0,away,Sub,,,,,D. Howard,D. Motiejūnas
+413,4,5:59.0,109,105,MIL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+414,4,5:59.0,109,106,MIL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+415,4,5:39.0,109,106,MIL,HOU,20,home,JS,,19,miss2,0,J. Parker,
+416,4,5:39.0,109,106,MIL,HOU,0,away,DefReb,,,DefReb,,Team,
+417,4,5:39.0,109,106,MIL,HOU,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Plumlee,T. Ariza
+418,4,5:39.0,109,107,MIL,HOU,0,away,FreeThrow,,,make1,1,T. Ariza,
+419,4,5:39.0,109,108,MIL,HOU,0,away,FreeThrow,,,make1,1,T. Ariza,
+420,4,5:29.0,111,108,MIL,HOU,10,home,LU,assist,1,make2,2,J. Parker,J. Bayless
+421,4,5:29.0,111,108,MIL,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,J. Parker
+422,4,5:29.0,112,108,MIL,HOU,0,home,FreeThrow,,,make1,1,J. Parker,
+423,4,5:15.0,112,111,MIL,HOU,14,away,JS,assist,25,make3,3,J. Smith,P. Beverley
+424,4,4:55.0,114,111,MIL,HOU,20,home,JS,,6,make2,2,K. Middleton,
+425,4,4:31.0,114,111,MIL,HOU,24,away,HS,,4,miss2,0,J. Smith,
+426,4,4:30.0,114,111,MIL,HOU,1,home,DefReb,,,DefReb,,J. Parker,
+427,4,4:17.0,114,111,MIL,HOU,13,home,JS,,10,miss2,0,J. Parker,
+428,4,4:16.0,114,111,MIL,HOU,1,home,OffReb,,,OffReb,,M. Plumlee,
+429,4,4:13.0,117,111,MIL,HOU,3,home,JS,assist,24,make3,3,J. Bayless,M. Plumlee
+430,4,4:10.0,117,111,MIL,HOU,3,away,Timeout,,,,,,
+431,4,3:53.0,117,111,MIL,HOU,17,away,JS,,23,miss3,0,J. Smith,
+432,4,3:51.0,117,111,MIL,HOU,2,away,OffReb,,,OffReb,,P. Beverley,
+433,4,3:44.0,117,111,MIL,HOU,7,away,LU,,1,miss2,0,J. Harden,
+434,4,3:44.0,117,111,MIL,HOU,0,away,OffReb,,,OffReb,,Team,
+435,4,3:44.0,117,111,MIL,HOU,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Bayless,D. Howard
+436,4,3:44.0,117,112,MIL,HOU,0,away,FreeThrow,,,make1,1,D. Howard,
+437,4,3:44.0,117,112,MIL,HOU,0,away,FreeThrow,,,make1,0,D. Howard,
+438,4,3:43.0,117,112,MIL,HOU,1,home,DefReb,,,DefReb,,G. Antetokounmpo,
+439,4,3:28.0,119,112,MIL,HOU,15,home,LU,assist,0,make2,2,J. Parker,K. Middleton
+440,4,3:17.0,119,112,MIL,HOU,11,away,JS,,22,miss3,0,P. Beverley,
+441,4,3:15.0,119,112,MIL,HOU,2,away,OffReb,,,OffReb,,T. Ariza,
+442,4,3:08.0,119,112,MIL,HOU,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,D. Howard
+443,4,3:08.0,119,112,MIL,HOU,0,away,FreeThrow,,,make1,0,D. Howard,
+444,4,3:08.0,119,112,MIL,HOU,0,away,OffReb,,,OffReb,,Team,
+445,4,3:08.0,119,112,MIL,HOU,0,away,Sub,,,,,C. Brewer,J. Smith
+446,4,3:08.0,119,112,MIL,HOU,0,away,FreeThrow,,,make1,0,D. Howard,
+447,4,3:04.0,119,112,MIL,HOU,4,home,DefReb,,,DefReb,,J. Bayless,
+448,4,2:46.0,122,112,MIL,HOU,18,home,JS,assist,23,make3,3,J. Bayless,G. Antetokounmpo
+449,4,2:35.0,122,112,MIL,HOU,11,away,LU,,1,miss2,0,J. Harden,
+450,4,2:34.0,122,112,MIL,HOU,1,home,DefReb,,,DefReb,,G. Antetokounmpo,
+451,4,2:29.0,125,112,MIL,HOU,5,home,JS,assist,25,make3,3,J. Bayless,G. Antetokounmpo
+452,4,2:27.0,125,112,MIL,HOU,2,away,Timeout,,,,,,
+453,4,2:27.0,125,112,MIL,HOU,0,away,Sub,,,,,J. Terry,C. Brewer
+454,4,2:13.0,125,115,MIL,HOU,14,away,JS,assist,24,make3,3,J. Terry,P. Beverley
+455,4,1:57.0,125,115,MIL,HOU,16,home,BadPass,steal,,turnover,,M. Plumlee,J. Terry
+456,4,1:51.0,125,117,MIL,HOU,6,away,DK,,0,make2,2,D. Howard,
+457,4,1:31.0,125,117,MIL,HOU,20,home,LostBall,steal,,turnover,,K. Middleton,P. Beverley
+458,4,1:27.0,125,117,MIL,HOU,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Antetokounmpo,J. Harden
+459,4,1:27.0,125,118,MIL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+460,4,1:27.0,125,119,MIL,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
+461,4,1:06.0,125,119,MIL,HOU,21,home,JS,,19,miss2,0,G. Antetokounmpo,
+462,4,1:04.0,125,119,MIL,HOU,2,home,OffReb,,,OffReb,,M. Plumlee,
+463,4,1:02.0,125,119,MIL,HOU,2,home,JS,,20,miss2,0,K. Middleton,
+464,4,1:02.0,125,119,MIL,HOU,0,home,OffReb,,,OffReb,,Team,
+465,4,1:02.0,125,119,MIL,HOU,0,home,ShotClockViolation,,,turnover,,Team,
+466,4,0:42.0,125,119,MIL,HOU,20,away,JS,,8,miss2,0,J. Harden,
+467,4,0:41.0,125,119,MIL,HOU,1,away,OffReb,,,OffReb,,D. Howard,
+468,4,0:41.0,125,121,MIL,HOU,0,away,LU,,0,make2,2,D. Howard,
+469,4,0:20.0,125,121,MIL,HOU,21,home,BadPass,,,turnover,,K. Middleton,
+470,4,0:20.0,125,121,MIL,HOU,0,away,Timeout,,,,,,
+471,4,0:20.0,125,121,MIL,HOU,0,away,Turnover5Second,,,turnover,,Team,
+472,4,0:20.0,125,121,MIL,HOU,0,home,Timeout,,,,,,
+473,4,0:20.0,125,121,MIL,HOU,0,away,Sub,,,,,C. Brewer,J. Terry
+474,4,0:20.0,125,121,MIL,HOU,0,home,Sub,,,,,O. Mayo,M. Plumlee
+475,4,0:20.0,125,121,MIL,HOU,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,P. Beverley,J. Bayless
+476,4,0:20.0,126,121,MIL,HOU,0,home,FreeThrow,,,make1,1,J. Bayless,
+477,4,0:20.0,126,121,MIL,HOU,0,home,FreeThrow,,,make1,0,J. Bayless,
+478,4,0:19.0,126,121,MIL,HOU,1,away,DefReb,,,DefReb,,J. Harden,
+479,4,0:18.0,126,121,MIL,HOU,1,away,Timeout,,,,,,
+480,4,0:18.0,126,121,MIL,HOU,0,away,Sub,,,,,J. Terry,C. Brewer
+481,4,0:18.0,126,121,MIL,HOU,0,home,Sub,,,,,M. Plumlee,O. Mayo
+482,4,0:12.0,126,121,MIL,HOU,6,away,JS,,24,miss3,0,J. Harden,
+483,4,0:11.0,126,121,MIL,HOU,1,home,DefReb,,,DefReb,,Team,
+484,4,0:10.0,126,121,MIL,HOU,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Harden,K. Middleton
+485,4,0:10.0,127,121,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton,
+486,4,0:10.0,128,121,MIL,HOU,0,home,FreeThrow,,,make1,1,K. Middleton,
+487,4,0:06.0,128,121,MIL,HOU,4,away,JS,,25,miss3,0,P. Beverley,
+488,4,0:05.0,128,121,MIL,HOU,1,home,DefReb,,,DefReb,,G. Antetokounmpo,

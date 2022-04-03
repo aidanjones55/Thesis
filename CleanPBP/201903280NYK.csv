@@ -1,0 +1,474 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,0,0,NYK,TOR,15,away,LU,,1,miss2,0,F. VanVleet,
+1,1,11:43.0,0,0,NYK,TOR,2,home,DefReb,,,DefReb,,D. Jordan,
+2,1,11:21.0,0,0,NYK,TOR,22,home,LU,block,6,miss2,0,D. Jordan,P. Siakam
+3,1,11:20.0,0,0,NYK,TOR,1,home,OffReb,,,OffReb,,Team,
+4,1,11:20.0,0,0,NYK,TOR,0,home,ShotClockViolation,,,turnover,,Team,
+5,1,11:10.0,0,0,NYK,TOR,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,M. Gasol
+6,1,11:10.0,0,1,NYK,TOR,0,away,FreeThrow,,,make1,1,M. Gasol,
+7,1,11:10.0,0,2,NYK,TOR,0,away,FreeThrow,,,make1,1,M. Gasol,
+8,1,10:53.0,0,2,NYK,TOR,17,home,lost ball,steal,,turnover,,D. Jordan,K. Lowry
+9,1,10:48.0,0,2,NYK,TOR,5,away,JS,,22,miss3,0,P. Siakam,
+10,1,10:46.0,0,2,NYK,TOR,2,home,DefReb,,,DefReb,,D. Jordan,
+11,1,10:37.0,2,2,NYK,TOR,9,home,JS,,17,make2,2,E. Mudiay,
+12,1,10:29.0,2,4,NYK,TOR,8,away,DK,assist,0,make2,2,P. Siakam,K. Lowry
+13,1,10:10.0,4,4,NYK,TOR,19,home,LU,,1,make2,2,M. Hezonja,
+14,1,9:58.0,4,4,NYK,TOR,12,away,JS,,26,miss3,0,M. Gasol,
+15,1,9:56.0,4,4,NYK,TOR,2,home,DefReb,,,DefReb,,D. Jordan,
+16,1,9:48.0,4,4,NYK,TOR,8,home,lost ball,steal,,turnover,,M. Hezonja,P. Siakam
+17,1,9:42.0,4,7,NYK,TOR,6,away,JS,,26,make3,3,D. Green,
+18,1,9:27.0,6,7,NYK,TOR,15,home,DK,assist,0,make2,2,M. Hezonja,D. Jordan
+19,1,9:04.0,6,10,NYK,TOR,23,away,JS,assist,24,make3,3,D. Green,M. Gasol
+20,1,8:52.0,8,10,NYK,TOR,12,home,JS,assist,14,make2,2,E. Mudiay,D. Jordan
+21,1,8:45.0,8,10,NYK,TOR,7,away,LU,block,1,miss2,0,F. VanVleet,K. Knox
+22,1,8:43.0,8,10,NYK,TOR,2,home,DefReb,,,DefReb,,M. Hezonja,
+23,1,8:36.0,8,10,NYK,TOR,7,home,JS,,25,miss3,0,K. Knox,
+24,1,8:34.0,8,10,NYK,TOR,2,away,DefReb,,,DefReb,,M. Gasol,
+25,1,8:23.0,8,10,NYK,TOR,11,away,HS,,9,miss2,0,P. Siakam,
+26,1,8:21.0,8,10,NYK,TOR,2,home,DefReb,,,DefReb,,M. Hezonja,
+27,1,8:12.0,8,10,NYK,TOR,9,home,JS,,16,miss2,0,E. Mudiay,
+28,1,8:10.0,8,10,NYK,TOR,2,away,DefReb,,,DefReb,,M. Gasol,
+29,1,8:01.0,8,10,NYK,TOR,9,away,JS,,19,miss2,0,M. Gasol,
+30,1,7:59.0,8,10,NYK,TOR,2,home,DefReb,,,DefReb,,D. Jordan,
+31,1,7:53.0,8,10,NYK,TOR,6,home,JS,,14,miss2,0,M. Hezonja,
+32,1,7:51.0,8,10,NYK,TOR,2,away,DefReb,,,DefReb,,K. Lowry,
+33,1,7:47.0,8,12,NYK,TOR,4,away,LU,assist,1,make2,2,P. Siakam,F. VanVleet
+34,1,7:28.0,8,12,NYK,TOR,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,K. Knox
+35,1,7:28.0,8,12,NYK,TOR,0,home,FreeThrow,,,make1,0,K. Knox,
+36,1,7:28.0,8,12,NYK,TOR,0,home,OffReb,,,OffReb,,Team,
+37,1,7:28.0,8,12,NYK,TOR,0,home,FreeThrow,,,make1,0,K. Knox,
+38,1,7:26.0,8,12,NYK,TOR,2,away,DefReb,,,DefReb,,M. Gasol,
+39,1,7:12.0,8,12,NYK,TOR,14,away,JS,,30,miss3,0,K. Lowry,
+40,1,7:10.0,8,12,NYK,TOR,2,home,DefReb,,,DefReb,,D. Jordan,
+41,1,7:01.0,8,12,NYK,TOR,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Lowry,D. Jordan
+42,1,7:01.0,9,12,NYK,TOR,0,home,FreeThrow,,,make1,1,D. Jordan,
+43,1,7:01.0,10,12,NYK,TOR,0,home,FreeThrow,,,make1,1,D. Jordan,
+44,1,6:45.0,10,14,NYK,TOR,16,away,LU,assist,2,make2,2,K. Lowry,M. Gasol
+45,1,6:33.0,10,14,NYK,TOR,12,home,bad pass,steal,,turnover,,E. Mudiay,M. Gasol
+46,1,6:31.0,10,16,NYK,TOR,2,away,LU,assist,1,make2,2,K. Lowry,F. VanVleet
+47,1,6:31.0,10,16,NYK,TOR,0,home,DefGoaltending,,,DefGoaltending,,Team,
+48,1,6:12.0,10,16,NYK,TOR,19,home,HS,,13,miss2,0,K. Knox,
+49,1,6:10.0,10,16,NYK,TOR,2,away,DefReb,,,DefReb,,P. Siakam,
+50,1,6:03.0,10,19,NYK,TOR,7,away,JS,assist,23,make3,3,K. Lowry,P. Siakam
+51,1,5:56.0,10,19,NYK,TOR,7,home,Timeout,,,,,,
+52,1,5:54.0,10,19,NYK,TOR,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Gasol,D. Jordan
+53,1,5:43.0,10,19,NYK,TOR,11,home,JS,,27,miss3,0,M. Hezonja,
+54,1,5:41.0,10,19,NYK,TOR,2,away,DefReb,,,DefReb,,D. Green,
+55,1,5:35.0,10,19,NYK,TOR,6,away,JS,,29,miss3,0,D. Green,
+56,1,5:33.0,10,19,NYK,TOR,2,home,DefReb,,,DefReb,,D. Dotson,
+57,1,5:26.0,10,19,NYK,TOR,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Siakam,M. Hezonja
+58,1,5:26.0,10,19,NYK,TOR,0,home,Sub,,,,,M. Robinson,D. Dotson
+59,1,5:26.0,10,19,NYK,TOR,0,home,Sub,,,,,D. Smith,D. Jordan
+60,1,5:11.0,10,19,NYK,TOR,15,home,JS,,26,miss3,0,E. Mudiay,
+61,1,5:09.0,10,19,NYK,TOR,2,home,OffReb,,,OffReb,,M. Robinson,
+62,1,5:06.0,10,19,NYK,TOR,3,home,LU,,5,miss2,0,M. Hezonja,
+63,1,5:04.0,10,19,NYK,TOR,2,home,OffReb,,,OffReb,,M. Robinson,
+64,1,5:04.0,10,19,NYK,TOR,0,home,LU,,1,miss2,0,M. Robinson,
+65,1,5:02.0,10,19,NYK,TOR,2,home,OffReb,,,OffReb,,M. Robinson,
+66,1,5:02.0,10,19,NYK,TOR,0,home,DK,,1,miss2,0,M. Robinson,
+67,1,5:00.0,10,19,NYK,TOR,2,away,DefReb,,,DefReb,,F. VanVleet,
+68,1,4:52.0,10,19,NYK,TOR,8,away,JS,,28,miss3,0,F. VanVleet,
+69,1,4:50.0,10,19,NYK,TOR,2,away,OffReb,,,OffReb,,D. Green,
+70,1,4:50.0,10,19,NYK,TOR,0,away,LU,,0,miss2,0,D. Green,
+71,1,4:48.0,10,19,NYK,TOR,2,away,OffReb,,,OffReb,,P. Siakam,
+72,1,4:44.0,10,22,NYK,TOR,4,away,JS,assist,30,make3,3,F. VanVleet,P. Siakam
+73,1,4:29.0,10,22,NYK,TOR,15,home,JS,,25,miss3,0,M. Hezonja,
+74,1,4:27.0,10,22,NYK,TOR,2,home,OffReb,,,OffReb,,D. Smith,
+75,1,4:23.0,10,22,NYK,TOR,4,home,JS,,18,miss2,0,K. Knox,
+76,1,4:21.0,10,22,NYK,TOR,2,away,DefReb,,,DefReb,,K. Lowry,
+77,1,4:18.0,10,22,NYK,TOR,3,away,JS,,28,miss3,0,D. Green,
+78,1,4:16.0,10,22,NYK,TOR,2,home,DefReb,,,DefReb,,E. Mudiay,
+79,1,4:06.0,10,22,NYK,TOR,10,home,JS,,25,miss3,0,D. Smith,
+80,1,4:04.0,10,22,NYK,TOR,2,home,OffReb,,,OffReb,,E. Mudiay,
+81,1,4:03.0,10,22,NYK,TOR,1,home,LU,,2,miss2,0,E. Mudiay,
+82,1,4:02.0,10,22,NYK,TOR,1,away,DefReb,,,DefReb,,Team,
+83,1,3:50.0,10,22,NYK,TOR,12,away,JS,,25,miss3,0,K. Lowry,
+84,1,3:48.0,10,22,NYK,TOR,2,home,DefReb,,,DefReb,,M. Robinson,
+85,1,3:39.0,12,22,NYK,TOR,9,home,DK,assist,1,make2,2,M. Robinson,M. Hezonja
+86,1,3:20.0,12,25,NYK,TOR,19,away,JS,assist,22,make3,3,D. Green,M. Gasol
+87,1,3:07.0,12,25,NYK,TOR,13,home,JS,,25,miss3,0,E. Mudiay,
+88,1,3:05.0,12,25,NYK,TOR,2,away,DefReb,,,DefReb,,M. Gasol,
+89,1,2:59.0,12,25,NYK,TOR,6,away,JS,,25,miss3,0,F. VanVleet,
+90,1,2:57.0,12,25,NYK,TOR,2,away,OffReb,,,OffReb,,Team,
+91,1,2:57.0,12,25,NYK,TOR,0,away,Timeout,,,,,,
+92,1,2:57.0,12,25,NYK,TOR,0,away,Sub,,,,,S. Ibaka,M. Gasol
+93,1,2:57.0,12,25,NYK,TOR,0,away,Sub,,,,,J. Lin,D. Green
+94,1,2:57.0,12,25,NYK,TOR,0,away,Sub,,,,,P. McCaw,K. Lowry
+95,1,2:57.0,12,25,NYK,TOR,0,away,Sub,,,,,N. Powell,P. Siakam
+96,1,2:57.0,12,25,NYK,TOR,0,home,Sub,,,,,K. Allen,K. Knox
+97,1,2:57.0,12,25,NYK,TOR,0,home,Sub,,,,,D. Dotson,E. Mudiay
+98,1,2:51.0,12,28,NYK,TOR,6,away,JS,assist,26,make3,3,F. VanVleet,P. McCaw
+99,1,2:34.0,12,28,NYK,TOR,17,home,bad pass,steal,,turnover,,M. Hezonja,F. VanVleet
+100,1,2:29.0,12,28,NYK,TOR,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Hezonja,P. McCaw
+101,1,2:29.0,12,28,NYK,TOR,0,home,Sub,,,,,L. Thomas,M. Hezonja
+102,1,2:21.0,12,28,NYK,TOR,8,away,JS,block,20,miss2,0,J. Lin,K. Allen
+103,1,2:17.0,12,28,NYK,TOR,4,home,DefReb,,,DefReb,,Team,
+104,1,2:10.0,14,28,NYK,TOR,7,home,JS,,5,make2,2,K. Allen,
+105,1,1:52.0,14,28,NYK,TOR,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Allen,N. Powell
+106,1,1:38.0,14,28,NYK,TOR,14,away,JS,,27,miss3,0,F. VanVleet,
+107,1,1:36.0,14,28,NYK,TOR,2,away,OffReb,,,OffReb,,S. Ibaka,
+108,1,1:32.0,14,28,NYK,TOR,4,away,JS,,26,miss3,0,N. Powell,
+109,1,1:30.0,14,28,NYK,TOR,2,home,DefReb,,,DefReb,,D. Dotson,
+110,1,1:20.0,14,28,NYK,TOR,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Lin,K. Allen
+111,1,1:20.0,15,28,NYK,TOR,0,home,FreeThrow,,,make1,1,K. Allen,
+112,1,1:20.0,16,28,NYK,TOR,0,home,FreeThrow,,,make1,1,K. Allen,
+113,1,1:04.0,16,28,NYK,TOR,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Thomas,S. Ibaka
+114,1,1:04.0,16,28,NYK,TOR,0,away,FreeThrow,,,make1,0,S. Ibaka,
+115,1,1:04.0,16,28,NYK,TOR,0,away,OffReb,,,OffReb,,Team,
+116,1,1:04.0,16,28,NYK,TOR,0,away,FreeThrow,,,make1,0,S. Ibaka,
+117,1,1:02.0,16,28,NYK,TOR,2,home,DefReb,,,DefReb,,M. Robinson,
+118,1,0:52.0,16,28,NYK,TOR,10,home,JS,,10,miss2,0,K. Allen,
+119,1,0:51.0,16,28,NYK,TOR,1,away,DefReb,,,DefReb,,Team,
+120,1,0:32.0,16,28,NYK,TOR,19,away,LU,,2,miss2,0,N. Powell,
+121,1,0:31.0,16,28,NYK,TOR,1,away,OffReb,,,OffReb,,S. Ibaka,
+122,1,0:31.0,16,30,NYK,TOR,0,away,LU,,0,make2,2,S. Ibaka,
+123,1,0:12.0,18,30,NYK,TOR,19,home,JS,,15,make2,2,D. Smith,
+124,1,0:00.0,18,30,NYK,TOR,12,away,LU,,3,miss2,0,F. VanVleet,
+125,1,0:00.0,18,30,NYK,TOR,0,home,DefReb,,,DefReb,,D. Dotson,
+126,2,12:00.0,18,30,NYK,TOR,0,away,TechnicalFoul,,,TechnicalFoul,,F. VanVleet,
+127,2,12:00.0,18,30,NYK,TOR,0,away,Sub,,,,,K. Lowry,F. VanVleet
+128,2,12:00.0,19,30,NYK,TOR,0,home,FreeThrow,,,make1,1,D. Dotson makes technical free throw,
+129,2,11:50.0,19,30,NYK,TOR,10,home,JS,,26,miss3,0,D. Dotson,
+130,2,11:48.0,19,30,NYK,TOR,2,away,DefReb,,,DefReb,,N. Powell,
+131,2,11:32.0,19,32,NYK,TOR,16,away,JS,assist,22,make2,2,S. Ibaka,J. Lin
+132,2,11:19.0,19,32,NYK,TOR,13,home,LU,,2,miss2,0,D. Smith,
+133,2,11:17.0,19,32,NYK,TOR,2,home,OffReb,,,OffReb,,M. Robinson,
+134,2,11:17.0,19,32,NYK,TOR,0,home,LU,,1,miss2,0,M. Robinson,
+135,2,11:15.0,19,32,NYK,TOR,2,home,OffReb,,,OffReb,,M. Robinson,
+136,2,11:15.0,21,32,NYK,TOR,0,home,DK,,1,make2,2,M. Robinson,
+137,2,10:53.0,21,32,NYK,TOR,22,away,JS,,15,miss2,0,S. Ibaka,
+138,2,10:51.0,21,32,NYK,TOR,2,home,DefReb,,,DefReb,,D. Smith,
+139,2,10:41.0,23,32,NYK,TOR,10,home,DK,assist,0,make2,2,M. Robinson,K. Allen
+140,2,10:29.0,23,32,NYK,TOR,12,away,JS,block,20,miss2,0,K. Lowry,M. Robinson
+141,2,10:27.0,23,32,NYK,TOR,2,home,DefReb,,,DefReb,,D. Smith,
+142,2,10:16.0,23,32,NYK,TOR,11,home,JS,,10,miss2,0,D. Smith,
+143,2,10:14.0,23,32,NYK,TOR,2,away,DefReb,,,DefReb,,S. Ibaka,
+144,2,10:01.0,23,32,NYK,TOR,13,away,JS,,26,miss3,0,K. Lowry,
+145,2,9:59.0,23,32,NYK,TOR,2,home,DefReb,,,DefReb,,D. Smith,
+146,2,9:51.0,23,32,NYK,TOR,8,home,LU,,2,miss2,0,D. Dotson,
+147,2,9:49.0,23,32,NYK,TOR,2,home,OffReb,,,OffReb,,M. Robinson,
+148,2,9:46.0,25,32,NYK,TOR,3,home,LU,,0,make2,2,M. Robinson,
+149,2,9:31.0,25,32,NYK,TOR,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Robinson,S. Ibaka
+150,2,9:24.0,25,32,NYK,TOR,7,away,LU,,1,miss2,0,N. Powell,
+151,2,9:22.0,25,32,NYK,TOR,2,home,DefReb,,,DefReb,,L. Thomas,
+152,2,9:20.0,25,32,NYK,TOR,2,home,OutOfBoundsLB,,,turnover,,K. Allen,
+153,2,9:06.0,25,32,NYK,TOR,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Allen,S. Ibaka
+154,2,8:55.0,25,35,NYK,TOR,11,away,JS,assist,22,make3,3,N. Powell,J. Lin
+155,2,8:41.0,25,35,NYK,TOR,14,home,JS,,26,miss3,0,K. Allen,
+156,2,8:39.0,25,35,NYK,TOR,2,away,DefReb,,,DefReb,,J. Lin,
+157,2,8:34.0,25,35,NYK,TOR,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Allen,J. Lin
+158,2,8:34.0,25,35,NYK,TOR,0,home,Sub,,,,,K. Knox,K. Allen
+159,2,8:26.0,25,35,NYK,TOR,8,away,HS,,6,miss2,0,S. Ibaka,
+160,2,8:23.0,25,35,NYK,TOR,3,home,DefReb,,,DefReb,,M. Robinson,
+161,2,8:20.0,25,35,NYK,TOR,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Lowry,D. Smith
+162,2,8:20.0,25,35,NYK,TOR,0,home,Sub,,,,,E. Mudiay,D. Smith
+163,2,8:05.0,27,35,NYK,TOR,15,home,LU,assist,1,make2,2,D. Dotson,E. Mudiay
+164,2,7:55.0,27,35,NYK,TOR,10,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Lowry,M. Robinson
+165,2,7:55.0,27,35,NYK,TOR,0,away,OffensiveFoul,,,turnover,,K. Lowry,
+166,2,7:55.0,27,35,NYK,TOR,0,away,Sub,,,,,P. Siakam,K. Lowry
+167,2,7:45.0,29,35,NYK,TOR,10,home,JS,,12,make2,2,K. Knox,
+168,2,7:22.0,29,35,NYK,TOR,23,away,LU,,4,miss2,0,P. McCaw,
+169,2,7:20.0,29,35,NYK,TOR,2,home,DefReb,,,DefReb,,K. Knox,
+170,2,7:16.0,29,35,NYK,TOR,4,home,LU,block,2,miss2,0,E. Mudiay,S. Ibaka
+171,2,7:14.0,29,35,NYK,TOR,2,away,DefReb,,,DefReb,,P. McCaw,
+172,2,7:14.0,29,35,NYK,TOR,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Dotson,N. Powell
+173,2,7:06.0,29,35,NYK,TOR,8,away,JS,,9,miss2,0,P. Siakam,
+174,2,7:04.0,29,35,NYK,TOR,2,home,DefReb,,,DefReb,,M. Robinson,
+175,2,6:53.0,29,35,NYK,TOR,11,home,JS,,24,miss3,0,K. Knox,
+176,2,6:51.0,29,35,NYK,TOR,2,away,DefReb,,,DefReb,,J. Lin,
+177,2,6:43.0,29,38,NYK,TOR,8,away,JS,assist,24,make3,3,P. McCaw,J. Lin
+178,2,6:23.0,29,38,NYK,TOR,20,home,JS,,27,miss3,0,D. Dotson,
+179,2,6:21.0,29,38,NYK,TOR,2,away,DefReb,,,DefReb,,P. Siakam,
+180,2,6:12.0,29,40,NYK,TOR,9,away,LU,,2,make2,2,S. Ibaka,
+181,2,6:12.0,29,40,NYK,TOR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Mudiay,S. Ibaka
+182,2,6:12.0,29,40,NYK,TOR,0,home,Timeout,,,,,,
+183,2,6:12.0,29,40,NYK,TOR,0,away,Sub,,,,,M. Gasol,J. Lin
+184,2,6:12.0,29,40,NYK,TOR,0,away,Sub,,,,,D. Green,P. McCaw
+185,2,6:12.0,29,40,NYK,TOR,0,away,Sub,,,,,F. VanVleet,N. Powell
+186,2,6:12.0,29,40,NYK,TOR,0,home,Sub,,,,,D. Jordan,M. Robinson
+187,2,6:12.0,29,40,NYK,TOR,0,away,FreeThrow,,,make1,0,S. Ibaka,
+188,2,6:10.0,29,40,NYK,TOR,2,home,DefReb,,,DefReb,,L. Thomas,
+189,2,5:53.0,29,40,NYK,TOR,17,home,JS,,21,miss2,0,E. Mudiay,
+190,2,5:51.0,29,40,NYK,TOR,2,away,DefReb,,,DefReb,,S. Ibaka,
+191,2,5:41.0,29,40,NYK,TOR,10,home,KickBallViolation,,,KickBallViolation,,Team,
+192,2,5:41.0,29,40,NYK,TOR,0,home,Sub,,,,,M. Hezonja,L. Thomas
+193,2,5:27.0,29,43,NYK,TOR,14,away,JS,assist,25,make3,3,P. Siakam,S. Ibaka
+194,2,5:00.0,29,43,NYK,TOR,27,home,JS,block,23,miss3,0,K. Knox,F. VanVleet
+195,2,4:58.0,29,43,NYK,TOR,2,home,OffReb,,,OffReb,,K. Knox,
+196,2,4:55.0,29,43,NYK,TOR,3,home,JS,,22,miss2,0,K. Knox,
+197,2,4:53.0,29,43,NYK,TOR,2,away,DefReb,,,DefReb,,F. VanVleet,
+198,2,4:46.0,29,43,NYK,TOR,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Mudiay,P. Siakam
+199,2,4:46.0,29,44,NYK,TOR,0,away,FreeThrow,,,make1,1,P. Siakam,
+200,2,4:46.0,29,44,NYK,TOR,0,away,FreeThrow,,,make1,0,P. Siakam,
+201,2,4:45.0,29,44,NYK,TOR,1,home,DefReb,,,DefReb,,Team,
+202,2,4:45.0,29,44,NYK,TOR,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Ibaka,M. Hezonja
+203,2,4:35.0,29,44,NYK,TOR,10,home,JS,,21,miss2,0,D. Dotson,
+204,2,4:33.0,29,44,NYK,TOR,2,away,DefReb,,,DefReb,,P. Siakam,
+205,2,4:27.0,29,47,NYK,TOR,6,away,JS,assist,23,make3,3,D. Green,P. Siakam
+206,2,4:17.0,29,47,NYK,TOR,10,home,Timeout,,,,,,
+207,2,4:07.0,29,47,NYK,TOR,10,home,Traveling,,,turnover,,K. Knox,
+208,2,3:44.0,29,47,NYK,TOR,23,away,JS,,23,miss3,0,P. Siakam,
+209,2,3:42.0,29,47,NYK,TOR,2,home,DefReb,,,DefReb,,D. Dotson,
+210,2,3:34.0,29,47,NYK,TOR,8,home,Traveling,,,turnover,,D. Dotson,
+211,2,3:19.0,29,47,NYK,TOR,15,away,LU,block,3,miss2,0,F. VanVleet,K. Knox
+212,2,3:17.0,29,47,NYK,TOR,2,home,DefReb,,,DefReb,,E. Mudiay,
+213,2,3:07.0,29,47,NYK,TOR,10,home,JS,,23,miss3,0,M. Hezonja,
+214,2,3:05.0,29,47,NYK,TOR,2,home,OffReb,,,OffReb,,E. Mudiay,
+215,2,3:03.0,31,47,NYK,TOR,2,home,LU,,2,make2,2,E. Mudiay,
+216,2,2:42.0,31,47,NYK,TOR,21,away,Timeout,,,,,,
+217,2,2:42.0,31,47,NYK,TOR,0,away,Sub,,,,,N. Powell,S. Ibaka
+218,2,2:42.0,31,47,NYK,TOR,0,home,Sub,,,,,M. Robinson,D. Dotson
+219,2,2:42.0,31,47,NYK,TOR,0,home,Sub,,,,,D. Smith,K. Knox
+220,2,2:37.0,31,49,NYK,TOR,5,away,JS,assist,10,make2,2,P. Siakam,F. VanVleet
+221,2,2:22.0,31,49,NYK,TOR,15,home,bad pass,steal,,turnover,,E. Mudiay,N. Powell
+222,2,2:11.0,31,52,NYK,TOR,11,away,JS,assist,23,make3,3,N. Powell,M. Gasol
+223,2,2:04.0,31,52,NYK,TOR,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Powell,M. Hezonja
+224,2,1:50.0,31,52,NYK,TOR,14,home,Traveling,,,turnover,,D. Smith,
+225,2,1:50.0,31,52,NYK,TOR,0,away,Sub,,,,,J. Lin,D. Green
+226,2,1:31.0,31,52,NYK,TOR,19,away,JS,,23,miss3,0,J. Lin,
+227,2,1:30.0,31,52,NYK,TOR,1,home,DefReb,,,DefReb,,M. Hezonja,
+228,2,1:15.0,31,52,NYK,TOR,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Lin,D. Smith
+229,2,1:15.0,32,52,NYK,TOR,0,home,FreeThrow,,,make1,1,D. Smith,
+230,2,1:15.0,33,52,NYK,TOR,0,home,FreeThrow,,,make1,1,D. Smith,
+231,2,1:09.0,33,52,NYK,TOR,6,away,JS,,12,miss2,0,P. Siakam,
+232,2,1:07.0,33,52,NYK,TOR,2,away,OffReb,,,OffReb,,P. Siakam,
+233,2,0:54.0,33,52,NYK,TOR,13,away,HS,,7,miss2,0,M. Gasol,
+234,2,0:52.0,33,52,NYK,TOR,2,home,DefReb,,,DefReb,,D. Jordan,
+235,2,0:45.0,33,52,NYK,TOR,7,home,OutOfBoundsLB,,,turnover,,D. Smith,
+236,2,0:31.0,33,55,NYK,TOR,14,away,JS,assist,25,make3,3,P. Siakam,F. VanVleet
+237,2,0:07.0,36,55,NYK,TOR,24,home,JS,,24,make3,3,D. Smith,
+238,2,0:00.0,36,55,NYK,TOR,7,away,JS,,27,miss3,0,F. VanVleet,
+239,2,0:00.0,36,55,NYK,TOR,0,away,OffReb,,,OffReb,,Team,
+240,3,11:48.0,38,55,NYK,TOR,12,home,LU,assist,1,make2,2,D. Dotson,K. Knox
+241,3,11:48.0,38,55,NYK,TOR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Gasol,D. Dotson
+242,3,11:48.0,39,55,NYK,TOR,0,home,FreeThrow,,,make1,1,D. Dotson,
+243,3,11:36.0,39,55,NYK,TOR,12,away,bad pass,steal,,turnover,,K. Lowry,K. Knox
+244,3,11:32.0,39,55,NYK,TOR,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,F. VanVleet,E. Mudiay
+245,3,11:32.0,39,55,NYK,TOR,0,home,OffReb,,,OffReb,,Team,
+246,3,11:32.0,39,55,NYK,TOR,0,home,FreeThrow,,,make1,0,E. Mudiay,
+247,3,11:32.0,40,55,NYK,TOR,0,home,FreeThrow,,,make1,1,E. Mudiay,
+248,3,11:21.0,40,58,NYK,TOR,11,away,JS,assist,23,make3,3,D. Green,P. Siakam
+249,3,11:04.0,40,58,NYK,TOR,17,home,JS,,12,miss2,0,K. Knox,
+250,3,11:02.0,40,58,NYK,TOR,2,away,DefReb,,,DefReb,,M. Gasol,
+251,3,10:56.0,40,58,NYK,TOR,6,away,JS,,25,miss3,0,P. Siakam,
+252,3,10:54.0,40,58,NYK,TOR,2,home,DefReb,,,DefReb,,K. Knox,
+253,3,10:47.0,40,58,NYK,TOR,7,home,JS,,10,miss2,0,E. Mudiay,
+254,3,10:47.0,40,58,NYK,TOR,0,away,DefReb,,,DefReb,,Team,
+255,3,10:47.0,40,58,NYK,TOR,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Jordan,M. Gasol
+256,3,10:32.0,40,58,NYK,TOR,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Knox,M. Gasol
+257,3,10:21.0,40,60,NYK,TOR,11,away,HS,,2,make2,2,P. Siakam,
+258,3,10:03.0,40,60,NYK,TOR,18,home,JS,block,24,miss3,0,D. Dotson,F. VanVleet
+259,3,10:01.0,40,60,NYK,TOR,2,home,OffReb,,,OffReb,,M. Hezonja,
+260,3,9:52.0,40,60,NYK,TOR,9,home,HS,,7,miss2,0,D. Jordan,
+261,3,9:51.0,40,60,NYK,TOR,1,away,DefReb,,,DefReb,,K. Lowry,
+262,3,9:31.0,40,63,NYK,TOR,20,away,JS,assist,25,make3,3,F. VanVleet,D. Green
+263,3,9:30.0,40,63,NYK,TOR,1,home,Timeout,,,,,,
+264,3,9:13.0,40,63,NYK,TOR,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Siakam,K. Knox
+265,3,9:08.0,40,63,NYK,TOR,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Gasol,M. Hezonja
+266,3,9:08.0,41,63,NYK,TOR,0,home,FreeThrow,,,make1,1,M. Hezonja,
+267,3,9:08.0,42,63,NYK,TOR,0,home,FreeThrow,,,make1,1,M. Hezonja,
+268,3,8:52.0,42,63,NYK,TOR,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Dotson,P. Siakam
+269,3,8:52.0,42,63,NYK,TOR,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Knox,D. Green
+270,3,8:51.0,42,63,NYK,TOR,1,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Green,M. Hezonja
+271,3,8:51.0,42,63,NYK,TOR,0,away,OffensiveFoul,,,turnover,,D. Green,
+272,3,8:38.0,42,63,NYK,TOR,13,home,lost ball,steal,,turnover,,K. Knox,D. Green
+273,3,8:34.0,42,65,NYK,TOR,4,away,DK,assist,1,make2,2,P. Siakam,D. Green
+274,3,8:22.0,42,65,NYK,TOR,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Gasol,D. Jordan
+275,3,8:22.0,43,65,NYK,TOR,0,home,FreeThrow,,,make1,1,D. Jordan,
+276,3,8:22.0,43,65,NYK,TOR,0,home,FreeThrow,,,make1,0,D. Jordan,
+277,3,8:20.0,43,65,NYK,TOR,2,away,DefReb,,,DefReb,,D. Green,
+278,3,8:09.0,43,65,NYK,TOR,11,away,JS,,24,miss3,0,P. Siakam,
+279,3,8:07.0,43,65,NYK,TOR,2,home,DefReb,,,DefReb,,D. Jordan,
+280,3,8:01.0,45,65,NYK,TOR,6,home,LU,,0,make2,2,M. Hezonja,
+281,3,7:53.0,45,67,NYK,TOR,8,away,LU,assist,1,make2,2,P. Siakam,K. Lowry
+282,3,7:33.0,45,67,NYK,TOR,20,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Siakam,E. Mudiay
+283,3,7:33.0,46,67,NYK,TOR,0,home,FreeThrow,,,make1,1,E. Mudiay,
+284,3,7:33.0,47,67,NYK,TOR,0,home,FreeThrow,,,make1,1,E. Mudiay,
+285,3,7:26.0,47,67,NYK,TOR,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Hezonja,P. Siakam
+286,3,7:26.0,47,68,NYK,TOR,0,away,FreeThrow,,,make1,1,P. Siakam,
+287,3,7:26.0,47,69,NYK,TOR,0,away,FreeThrow,,,make1,1,P. Siakam,
+288,3,7:17.0,50,69,NYK,TOR,9,home,JS,assist,26,make3,3,K. Knox,D. Jordan
+289,3,6:51.0,50,72,NYK,TOR,26,away,JS,,26,make3,3,F. VanVleet,
+290,3,6:36.0,53,72,NYK,TOR,15,home,JS,assist,23,make3,3,D. Dotson,M. Hezonja
+291,3,6:23.0,53,72,NYK,TOR,13,away,JS,,25,miss3,0,D. Green,
+292,3,6:21.0,53,72,NYK,TOR,2,away,OffReb,,,OffReb,,D. Green,
+293,3,6:18.0,53,72,NYK,TOR,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dotson,P. Siakam
+294,3,6:18.0,53,72,NYK,TOR,0,home,Sub,,,,,L. Thomas,M. Hezonja
+295,3,6:18.0,53,73,NYK,TOR,0,away,FreeThrow,,,make1,1,P. Siakam,
+296,3,6:18.0,53,74,NYK,TOR,0,away,FreeThrow,,,make1,1,P. Siakam,
+297,3,6:08.0,53,74,NYK,TOR,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,K. Knox
+298,3,6:08.0,53,74,NYK,TOR,0,home,FreeThrow,,,make1,0,K. Knox,
+299,3,6:08.0,53,74,NYK,TOR,0,home,OffReb,,,OffReb,,Team,
+300,3,6:08.0,54,74,NYK,TOR,0,home,FreeThrow,,,make1,1,K. Knox,
+301,3,5:45.0,54,76,NYK,TOR,23,away,JS,,13,make2,2,P. Siakam,
+302,3,5:32.0,54,76,NYK,TOR,13,home,bad pass,steal,,turnover,,D. Jordan,K. Lowry
+303,3,5:22.0,54,76,NYK,TOR,10,away,JS,,26,miss3,0,M. Gasol,
+304,3,5:20.0,54,76,NYK,TOR,2,home,DefReb,,,DefReb,,D. Dotson,
+305,3,5:11.0,56,76,NYK,TOR,9,home,JS,assist,12,make2,2,E. Mudiay,D. Jordan
+306,3,5:11.0,56,76,NYK,TOR,0,away,Sub,,,,,S. Ibaka,D. Green
+307,3,5:11.0,56,76,NYK,TOR,0,home,Sub,,,,,M. Robinson,D. Dotson
+308,3,5:11.0,56,76,NYK,TOR,0,home,Sub,,,,,D. Smith,D. Jordan
+309,3,4:47.0,56,76,NYK,TOR,24,away,JS,,32,miss3,0,K. Lowry,
+310,3,4:45.0,56,76,NYK,TOR,2,home,DefReb,,,DefReb,,M. Robinson,
+311,3,4:40.0,56,76,NYK,TOR,5,home,JS,,7,miss2,0,L. Thomas,
+312,3,4:38.0,56,76,NYK,TOR,2,away,DefReb,,,DefReb,,K. Lowry,
+313,3,4:32.0,56,76,NYK,TOR,6,away,JS,,23,miss3,0,S. Ibaka,
+314,3,4:30.0,56,76,NYK,TOR,2,home,DefReb,,,DefReb,,M. Robinson,
+315,3,4:18.0,56,76,NYK,TOR,12,home,JS,,18,miss2,0,E. Mudiay,
+316,3,4:17.0,56,76,NYK,TOR,1,away,DefReb,,,DefReb,,S. Ibaka,
+317,3,4:04.0,56,76,NYK,TOR,13,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Gasol,D. Smith
+318,3,4:04.0,56,76,NYK,TOR,0,away,OffensiveFoul,,,turnover,,M. Gasol,
+319,3,4:04.0,56,76,NYK,TOR,0,away,Sub,,,,,N. Powell,M. Gasol
+320,3,4:04.0,56,76,NYK,TOR,0,home,Sub,,,,,K. Allen,E. Mudiay
+321,3,3:54.0,58,76,NYK,TOR,10,home,JS,,1,make2,2,K. Allen,
+322,3,3:38.0,58,78,NYK,TOR,16,away,HS,assist,8,make2,2,S. Ibaka,F. VanVleet
+323,3,3:27.0,60,78,NYK,TOR,11,home,DK,assist,1,make2,2,M. Robinson,D. Smith
+324,3,3:12.0,60,78,NYK,TOR,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Thomas,P. Siakam
+325,3,3:12.0,60,79,NYK,TOR,0,away,FreeThrow,,,make1,1,P. Siakam,
+326,3,3:12.0,60,80,NYK,TOR,0,away,FreeThrow,,,make1,1,P. Siakam,
+327,3,3:01.0,60,80,NYK,TOR,11,home,JS,,22,miss2,0,D. Smith,
+328,3,2:59.0,60,80,NYK,TOR,2,home,OffReb,,,OffReb,,Team,
+329,3,2:59.0,60,80,NYK,TOR,0,away,Timeout,,,,,,
+330,3,2:59.0,60,80,NYK,TOR,0,away,Sub,,,,,J. Lin,P. Siakam
+331,3,2:59.0,60,80,NYK,TOR,0,away,Sub,,,,,P. McCaw,F. VanVleet
+332,3,2:47.0,60,80,NYK,TOR,12,home,JS,,19,miss2,0,D. Smith,
+333,3,2:45.0,60,80,NYK,TOR,2,away,DefReb,,,DefReb,,P. McCaw,
+334,3,2:32.0,60,80,NYK,TOR,13,away,JS,,26,miss3,0,P. McCaw,
+335,3,2:30.0,60,80,NYK,TOR,2,home,DefReb,,,DefReb,,D. Smith,
+336,3,2:21.0,63,80,NYK,TOR,9,home,JS,assist,23,make3,3,K. Knox,L. Thomas
+337,3,2:02.0,63,80,NYK,TOR,19,away,JS,,29,miss3,0,K. Lowry,
+338,3,2:00.0,63,80,NYK,TOR,2,home,DefReb,,,DefReb,,Team,
+339,3,1:46.0,63,80,NYK,TOR,14,home,BadPass,,,turnover,,K. Allen,
+340,3,1:37.0,63,80,NYK,TOR,9,away,JS,,24,miss3,0,K. Lowry,
+341,3,1:35.0,63,80,NYK,TOR,2,home,DefReb,,,DefReb,,M. Robinson,
+342,3,1:31.0,63,80,NYK,TOR,4,home,LU,block,3,miss2,0,D. Smith,S. Ibaka
+343,3,1:30.0,63,80,NYK,TOR,1,away,DefReb,,,DefReb,,P. McCaw,
+344,3,1:21.0,63,80,NYK,TOR,9,away,TechnicalFoul,,,TechnicalFoul,,K. Lowry,
+345,3,1:21.0,64,80,NYK,TOR,0,home,FreeThrow,,,make1,1,K. Allen makes technical free throw,
+346,3,1:21.0,64,80,NYK,TOR,0,home,KickBallViolation,,,KickBallViolation,,Team,
+347,3,1:16.0,64,80,NYK,TOR,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Robinson,J. Lin
+348,3,1:16.0,64,81,NYK,TOR,0,away,FreeThrow,,,make1,1,J. Lin,
+349,3,1:16.0,64,82,NYK,TOR,0,away,FreeThrow,,,make1,1,J. Lin,
+350,3,1:04.0,64,82,NYK,TOR,12,home,BadPass,,,turnover,,K. Allen,
+351,3,0:51.0,64,82,NYK,TOR,13,away,LU,,3,miss2,0,J. Lin,
+352,3,0:49.0,64,82,NYK,TOR,2,home,DefReb,,,DefReb,,M. Robinson,
+353,3,0:36.0,64,82,NYK,TOR,13,home,OutOfBoundsLB,,,turnover,,K. Allen,
+354,3,0:29.0,64,82,NYK,TOR,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Thomas,N. Powell
+355,3,0:29.0,64,82,NYK,TOR,0,home,Sub,,,,,D. Dotson,K. Allen
+356,3,0:29.0,64,83,NYK,TOR,0,away,FreeThrow,,,make1,1,N. Powell,
+357,3,0:29.0,64,84,NYK,TOR,0,away,FreeThrow,,,make1,1,N. Powell,
+358,3,0:05.0,64,84,NYK,TOR,24,home,JS,,23,miss3,0,D. Smith,
+359,3,0:02.0,64,84,NYK,TOR,3,away,DefReb,,,DefReb,,N. Powell,
+360,3,0:01.0,64,87,NYK,TOR,1,away,JS,,25,make3,3,N. Powell,
+361,4,11:38.0,64,89,NYK,TOR,22,away,LU,assist,0,make2,2,P. Siakam,F. VanVleet
+362,4,11:28.0,64,89,NYK,TOR,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Siakam,L. Thomas
+363,4,11:23.0,64,89,NYK,TOR,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Powell,L. Thomas
+364,4,11:14.0,64,89,NYK,TOR,9,home,JS,,25,miss3,0,D. Dotson,
+365,4,11:12.0,64,89,NYK,TOR,2,away,DefReb,,,DefReb,,N. Powell,
+366,4,11:05.0,64,89,NYK,TOR,7,away,LU,,2,miss2,0,J. Lin,
+367,4,11:03.0,64,89,NYK,TOR,2,home,DefReb,,,DefReb,,M. Robinson,
+368,4,10:57.0,64,89,NYK,TOR,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,F. VanVleet,L. Thomas
+369,4,10:51.0,64,89,NYK,TOR,6,home,JS,,9,miss2,0,D. Smith,
+370,4,10:49.0,64,89,NYK,TOR,2,away,DefReb,,,DefReb,,J. Lin,
+371,4,10:44.0,64,91,NYK,TOR,5,away,LU,assist,1,make2,2,S. Ibaka,P. Siakam
+372,4,10:27.0,64,91,NYK,TOR,17,home,JS,,26,miss3,0,D. Smith,
+373,4,10:25.0,64,91,NYK,TOR,2,away,DefReb,,,DefReb,,S. Ibaka,
+374,4,10:03.0,64,91,NYK,TOR,22,away,LU,,7,miss2,0,P. Siakam,
+375,4,10:02.0,64,91,NYK,TOR,1,home,DefReb,,,DefReb,,Team,
+376,4,9:50.0,64,91,NYK,TOR,12,home,JS,,18,miss2,0,J. Jenkins,
+377,4,9:48.0,64,91,NYK,TOR,2,home,OffReb,,,OffReb,,M. Robinson,
+378,4,9:46.0,66,91,NYK,TOR,2,home,DK,,1,make2,2,M. Robinson,
+379,4,9:35.0,66,91,NYK,TOR,11,away,LU,,1,miss2,0,N. Powell,
+380,4,9:34.0,66,91,NYK,TOR,1,home,DefReb,,,DefReb,,L. Thomas,
+381,4,9:28.0,66,91,NYK,TOR,6,home,JS,,26,miss3,0,L. Thomas,
+382,4,9:26.0,66,91,NYK,TOR,2,away,DefReb,,,DefReb,,J. Lin,
+383,4,9:20.0,66,93,NYK,TOR,6,away,LU,,1,make2,2,J. Lin,
+384,4,9:05.0,66,93,NYK,TOR,15,home,JS,,23,miss3,0,L. Thomas,
+385,4,9:03.0,66,93,NYK,TOR,2,away,DefReb,,,DefReb,,S. Ibaka,
+386,4,8:58.0,66,95,NYK,TOR,5,away,LU,assist,2,make2,2,J. Lin,F. VanVleet
+387,4,8:51.0,66,95,NYK,TOR,7,home,Timeout,,,,,,
+388,4,8:51.0,66,95,NYK,TOR,0,home,Sub,,,,,K. Allen,D. Dotson
+389,4,8:51.0,66,95,NYK,TOR,0,home,Sub,,,,,H. Ellenson,D. Smith
+390,4,8:51.0,66,95,NYK,TOR,0,home,Sub,,,,,L. Kornet,L. Thomas
+391,4,8:40.0,66,95,NYK,TOR,11,home,JS,,16,miss2,0,K. Allen,
+392,4,8:36.0,66,95,NYK,TOR,4,away,DefReb,,,DefReb,,F. VanVleet,
+393,4,8:17.0,66,95,NYK,TOR,19,away,3sec,,,turnover,,S. Ibaka,
+394,4,7:55.0,66,95,NYK,TOR,22,home,bad pass,steal,,turnover,,L. Kornet,N. Powell
+395,4,7:52.0,66,97,NYK,TOR,3,away,DK,assist,2,make2,2,P. Siakam,F. VanVleet
+396,4,7:37.0,68,97,NYK,TOR,15,home,JS,,8,make2,2,K. Allen,
+397,4,7:10.0,68,97,NYK,TOR,27,away,LU,block,3,miss2,0,F. VanVleet,M. Robinson
+398,4,7:09.0,68,97,NYK,TOR,1,away,OffReb,,,OffReb,,Team,
+399,4,7:09.0,68,97,NYK,TOR,0,away,ShotClockViolation,,,turnover,,Team,
+400,4,7:09.0,68,97,NYK,TOR,0,away,Sub,,,,,P. McCaw,P. Siakam
+401,4,7:09.0,68,97,NYK,TOR,0,away,Sub,,,,,M. Miller,F. VanVleet
+402,4,6:51.0,68,97,NYK,TOR,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. McCaw,J. Jenkins
+403,4,6:51.0,69,97,NYK,TOR,0,home,FreeThrow,,,make1,1,J. Jenkins,
+404,4,6:51.0,70,97,NYK,TOR,0,home,FreeThrow,,,make1,1,J. Jenkins,
+405,4,6:41.0,70,97,NYK,TOR,10,away,JS,,26,miss3,0,S. Ibaka,
+406,4,6:39.0,70,97,NYK,TOR,2,home,DefReb,,,DefReb,,J. Jenkins,
+407,4,6:30.0,70,97,NYK,TOR,9,home,JS,,18,miss2,0,J. Jenkins,
+408,4,6:28.0,70,97,NYK,TOR,2,away,DefReb,,,DefReb,,S. Ibaka,
+409,4,6:20.0,70,97,NYK,TOR,8,away,bad pass,steal,,turnover,,N. Powell,M. Robinson
+410,4,6:13.0,70,97,NYK,TOR,7,home,JS,,5,miss2,0,H. Ellenson,
+411,4,6:11.0,70,97,NYK,TOR,2,away,DefReb,,,DefReb,,S. Ibaka,
+412,4,6:05.0,70,97,NYK,TOR,6,away,JS,,22,miss3,0,M. Miller,
+413,4,6:03.0,70,97,NYK,TOR,2,home,DefReb,,,DefReb,,M. Robinson,
+414,4,5:54.0,72,97,NYK,TOR,9,home,LU,,0,make2,2,K. Allen,
+415,4,5:33.0,72,100,NYK,TOR,21,away,JS,assist,26,make3,3,M. Miller,P. McCaw
+416,4,5:12.0,72,100,NYK,TOR,21,home,JS,,23,miss3,0,H. Ellenson,
+417,4,5:10.0,72,100,NYK,TOR,2,away,DefReb,,,DefReb,,S. Ibaka,
+418,4,5:00.0,72,100,NYK,TOR,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Kornet,S. Ibaka
+419,4,5:00.0,72,100,NYK,TOR,0,away,Sub,,,,,C. Boucher,S. Ibaka
+420,4,5:00.0,72,100,NYK,TOR,0,away,Sub,,,,,J. Meeks,N. Powell
+421,4,4:49.0,72,103,NYK,TOR,11,away,JS,assist,26,make3,3,C. Boucher,J. Meeks
+422,4,4:28.0,72,103,NYK,TOR,21,home,JS,,17,miss2,0,J. Jenkins,
+423,4,4:27.0,72,103,NYK,TOR,1,home,OffReb,,,OffReb,,Team,
+424,4,4:27.0,72,103,NYK,TOR,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Boucher,M. Robinson
+425,4,4:27.0,73,103,NYK,TOR,0,home,FreeThrow,,,make1,1,M. Robinson,
+426,4,4:27.0,74,103,NYK,TOR,0,home,FreeThrow,,,make1,1,M. Robinson,
+427,4,4:15.0,74,105,NYK,TOR,12,away,LU,assist,1,make2,2,J. Lin,J. Meeks
+428,4,4:00.0,77,105,NYK,TOR,15,home,JS,assist,25,make3,3,K. Allen,H. Ellenson
+429,4,3:33.0,77,108,NYK,TOR,27,away,JS,assist,27,make3,3,J. Meeks,J. Lin
+430,4,3:24.0,80,108,NYK,TOR,9,home,JS,assist,27,make3,3,L. Kornet,J. Jenkins
+431,4,3:11.0,80,108,NYK,TOR,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Robinson,J. Lin
+432,4,3:11.0,80,109,NYK,TOR,0,away,FreeThrow,,,make1,1,J. Lin,
+433,4,3:11.0,80,109,NYK,TOR,0,away,FreeThrow,,,make1,0,J. Lin,
+434,4,3:09.0,80,109,NYK,TOR,2,home,DefReb,,,DefReb,,M. Robinson,
+435,4,2:54.0,80,109,NYK,TOR,15,home,JS,,26,miss3,0,J. Jenkins,
+436,4,2:52.0,80,109,NYK,TOR,2,away,DefReb,,,DefReb,,J. Meeks,
+437,4,2:50.0,80,109,NYK,TOR,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Allen,M. Miller
+438,4,2:50.0,80,109,NYK,TOR,0,home,Timeout,,,,,,
+439,4,2:50.0,80,110,NYK,TOR,0,away,FreeThrow,,,make1,1,M. Miller,
+440,4,2:50.0,80,111,NYK,TOR,0,away,FreeThrow,,,make1,1,M. Miller,
+441,4,2:35.0,82,111,NYK,TOR,15,home,LU,,2,make2,2,K. Allen,
+442,4,2:19.0,82,111,NYK,TOR,16,away,JS,,23,miss3,0,J. Meeks,
+443,4,2:17.0,82,111,NYK,TOR,2,home,DefReb,,,DefReb,,K. Allen,
+444,4,2:15.0,82,111,NYK,TOR,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Meeks,K. Allen
+445,4,2:15.0,83,111,NYK,TOR,0,home,FreeThrow,,,make1,1,K. Allen,
+446,4,2:15.0,84,111,NYK,TOR,0,home,FreeThrow,,,make1,1,K. Allen,
+447,4,1:59.0,84,111,NYK,TOR,16,away,lost ball,steal,,turnover,,M. Miller,H. Ellenson
+448,4,1:55.0,84,111,NYK,TOR,4,home,LU,block,2,miss2,0,H. Ellenson,M. Miller
+449,4,1:54.0,84,111,NYK,TOR,1,home,OffReb,,,OffReb,,M. Robinson,
+450,4,1:54.0,84,111,NYK,TOR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Boucher,M. Robinson
+451,4,1:54.0,85,111,NYK,TOR,0,home,FreeThrow,,,make1,1,M. Robinson,
+452,4,1:54.0,85,111,NYK,TOR,0,home,FreeThrow,,,make1,0,M. Robinson,
+453,4,1:52.0,85,111,NYK,TOR,2,away,DefReb,,,DefReb,,C. Boucher,
+454,4,1:37.0,85,113,NYK,TOR,15,away,LU,assist,2,make2,2,J. Meeks,J. Lin
+455,4,1:19.0,87,113,NYK,TOR,18,home,HS,assist,4,make2,2,H. Ellenson,L. Kornet
+456,4,1:19.0,87,113,NYK,TOR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Boucher,H. Ellenson
+457,4,1:19.0,88,113,NYK,TOR,0,home,FreeThrow,,,make1,1,H. Ellenson,
+458,4,1:09.0,88,113,NYK,TOR,10,away,Traveling,,,turnover,,C. Boucher,
+459,4,1:01.0,90,113,NYK,TOR,8,home,DK,assist,1,make2,2,M. Robinson,K. Allen
+460,4,0:43.0,90,116,NYK,TOR,18,away,JS,assist,26,make3,3,J. Lin,J. Meeks
+461,4,0:28.0,92,116,NYK,TOR,15,home,DK,assist,1,make2,2,M. Robinson,L. Kornet
+462,4,0:28.0,92,116,NYK,TOR,0,home,TechnicalFoul,,,TechnicalFoul,,M. Robinson,
+463,4,0:28.0,92,117,NYK,TOR,0,away,FreeThrow,,,make1,1,J. Meeks makes technical free throw,
+464,4,0:16.0,92,117,NYK,TOR,12,away,JS,,26,miss3,0,M. Miller,
+465,4,0:12.0,92,117,NYK,TOR,4,home,DefReb,,,DefReb,,M. Robinson,
+466,4,0:03.0,92,117,NYK,TOR,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Lin,M. Robinson
+467,4,0:03.0,92,117,NYK,TOR,0,home,FreeThrow,,,make1,0,M. Robinson,
+468,4,0:03.0,92,117,NYK,TOR,0,home,OffReb,,,OffReb,,Team,
+469,4,0:03.0,92,117,NYK,TOR,0,home,FreeThrow,,,make1,0,M. Robinson,
+470,4,0:01.0,92,117,NYK,TOR,2,home,OffReb,,,OffReb,,M. Robinson,
+471,4,0:00.0,92,117,NYK,TOR,1,home,LU,,4,miss2,0,M. Robinson,
+472,4,0:00.0,92,117,NYK,TOR,0,away,DefReb,,,DefReb,,J. Lin,

@@ -1,0 +1,444 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,0,2,DEN,ORL,17,away,JS,assist,9,make2,2,T. Harris,N. Vučević
+1,1,11:29.0,0,2,DEN,ORL,14,home,JS,,16,miss2,0,J. Hickson,
+2,1,11:28.0,0,2,DEN,ORL,1,away,DefReb,,,DefReb,,T. Harris,
+3,1,11:22.0,0,4,DEN,ORL,6,away,DK,,0,make2,2,N. Vučević,
+4,1,10:53.0,2,4,DEN,ORL,29,home,JS,assist,20,make2,2,D. Gallinari,R. Foye
+5,1,10:42.0,2,6,DEN,ORL,11,away,JS,,4,make2,2,E. Payton,
+6,1,10:24.0,2,6,DEN,ORL,18,home,JS,,6,miss2,0,K. Faried,
+7,1,10:24.0,2,6,DEN,ORL,0,away,DefReb,,,DefReb,,N. Vučević,
+8,1,10:22.0,2,6,DEN,ORL,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Faried,C. Frye
+9,1,10:14.0,2,6,DEN,ORL,8,away,JS,,23,miss3,0,C. Frye,
+10,1,10:13.0,2,6,DEN,ORL,1,home,DefReb,,,DefReb,,R. Foye,
+11,1,9:58.0,5,6,DEN,ORL,15,home,JS,assist,24,make3,3,D. Gallinari,K. Faried
+12,1,9:43.0,5,6,DEN,ORL,15,away,JS,,20,miss2,0,N. Vučević,
+13,1,9:42.0,5,6,DEN,ORL,1,home,DefReb,,,DefReb,,E. Mudiay,
+14,1,9:26.0,5,6,DEN,ORL,16,home,JS,,26,miss3,0,E. Mudiay,
+15,1,9:26.0,5,6,DEN,ORL,0,away,DefReb,,,DefReb,,N. Vučević,
+16,1,9:23.0,5,6,DEN,ORL,3,away,LostBall,steal,,turnover,,C. Frye,K. Faried
+17,1,9:22.0,5,6,DEN,ORL,1,home,OutOfBounds,,,turnover,,K. Faried,
+18,1,9:15.0,5,6,DEN,ORL,7,away,LU,,2,miss2,0,E. Fournier,
+19,1,9:14.0,5,6,DEN,ORL,1,home,DefReb,,,DefReb,,J. Hickson,
+20,1,9:08.0,5,6,DEN,ORL,6,home,LU,block,2,miss2,0,J. Hickson,T. Harris
+21,1,9:06.0,5,6,DEN,ORL,2,home,OffReb,,,OffReb,,E. Mudiay,
+22,1,9:02.0,5,6,DEN,ORL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,J. Hickson
+23,1,9:02.0,5,6,DEN,ORL,0,home,FreeThrow,,,make1,0,J. Hickson,
+24,1,9:02.0,5,6,DEN,ORL,0,home,OffReb,,,OffReb,,Team,
+25,1,9:02.0,6,6,DEN,ORL,0,home,FreeThrow,,,make1,1,J. Hickson,
+26,1,8:46.0,6,8,DEN,ORL,16,away,LU,,1,make2,2,E. Payton,
+27,1,8:34.0,6,8,DEN,ORL,12,home,BadPass,steal,,turnover,,R. Foye,C. Frye
+28,1,8:30.0,6,10,DEN,ORL,4,away,DK,assist,0,make2,2,T. Harris,E. Payton
+29,1,8:07.0,6,10,DEN,ORL,23,home,BadPass,steal,,turnover,,E. Mudiay,C. Frye
+30,1,7:58.0,6,10,DEN,ORL,9,away,JS,,17,miss2,0,N. Vučević,
+31,1,7:57.0,6,10,DEN,ORL,1,home,DefReb,,,DefReb,,D. Gallinari,
+32,1,7:37.0,9,10,DEN,ORL,20,home,JS,assist,23,make3,3,R. Foye,E. Mudiay
+33,1,7:20.0,9,10,DEN,ORL,17,away,JS,,19,miss2,0,E. Fournier,
+34,1,7:19.0,9,10,DEN,ORL,1,home,DefReb,,,DefReb,,D. Gallinari,
+35,1,7:16.0,9,10,DEN,ORL,3,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,E. Fournier,D. Gallinari
+36,1,7:16.0,10,10,DEN,ORL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+37,1,7:16.0,11,10,DEN,ORL,0,home,FreeThrow,,,make1,1,D. Gallinari,
+38,1,7:00.0,11,10,DEN,ORL,16,away,HS,,7,miss2,0,N. Vučević,
+39,1,7:00.0,11,10,DEN,ORL,0,home,DefReb,,,DefReb,,K. Faried,
+40,1,6:56.0,11,10,DEN,ORL,4,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,E. Fournier,E. Mudiay
+41,1,6:56.0,12,10,DEN,ORL,0,home,FreeThrow,,,make1,1,E. Mudiay,
+42,1,6:56.0,12,10,DEN,ORL,0,away,Sub,,,,,V. Oladipo,E. Fournier
+43,1,6:56.0,13,10,DEN,ORL,0,home,FreeThrow,,,make1,1,E. Mudiay,
+44,1,6:41.0,13,12,DEN,ORL,15,away,HS,assist,3,make2,2,N. Vučević,E. Payton
+45,1,6:28.0,15,12,DEN,ORL,13,home,LU,,1,make2,2,J. Hickson,
+46,1,6:12.0,15,12,DEN,ORL,16,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Frye,K. Faried
+47,1,6:12.0,15,12,DEN,ORL,0,away,OffensiveFoul,,,turnover,,C. Frye,
+48,1,6:02.0,15,12,DEN,ORL,10,home,BadPass,steal,,turnover,,J. Hickson,N. Vučević
+49,1,5:58.0,15,14,DEN,ORL,4,away,LU,assist,1,make2,2,T. Harris,E. Payton
+50,1,5:58.0,15,14,DEN,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Foye,T. Harris
+51,1,5:58.0,15,14,DEN,ORL,0,home,Timeout,,,,,,
+52,1,5:58.0,15,15,DEN,ORL,0,away,FreeThrow,,,make1,1,T. Harris,
+53,1,5:32.0,15,15,DEN,ORL,26,home,JS,,12,miss2,0,K. Faried,
+54,1,5:31.0,15,15,DEN,ORL,1,away,DefReb,,,DefReb,,V. Oladipo,
+55,1,5:26.0,15,15,DEN,ORL,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Foye,V. Oladipo
+56,1,5:26.0,15,15,DEN,ORL,0,away,FreeThrow,,,make1,0,V. Oladipo,
+57,1,5:26.0,15,15,DEN,ORL,0,away,OffReb,,,OffReb,,Team,
+58,1,5:26.0,15,15,DEN,ORL,0,home,Sub,,,,,W. Barton,R. Foye
+59,1,5:26.0,15,16,DEN,ORL,0,away,FreeThrow,,,make1,1,V. Oladipo,
+60,1,5:05.0,17,16,DEN,ORL,21,home,JS,assist,9,make2,2,K. Faried,E. Mudiay
+61,1,4:40.0,17,16,DEN,ORL,25,away,JS,,24,miss3,0,T. Harris,
+62,1,4:39.0,17,16,DEN,ORL,1,home,DefReb,,,DefReb,,W. Barton,
+63,1,4:33.0,17,16,DEN,ORL,6,home,JS,,14,miss2,0,W. Barton,
+64,1,4:31.0,17,16,DEN,ORL,2,away,DefReb,,,DefReb,,N. Vučević,
+65,1,4:22.0,17,16,DEN,ORL,9,away,LU,block,1,miss2,0,E. Payton,E. Mudiay
+66,1,4:20.0,17,16,DEN,ORL,2,home,DefReb,,,DefReb,,J. Hickson,
+67,1,4:15.0,19,16,DEN,ORL,5,home,LU,assist,1,make2,2,W. Barton,K. Faried
+68,1,3:57.0,19,18,DEN,ORL,18,away,JS,,20,make2,2,V. Oladipo,
+69,1,3:47.0,19,18,DEN,ORL,10,home,BackCourtTurnover,,,turnover,,E. Mudiay,
+70,1,3:47.0,19,18,DEN,ORL,0,away,Sub,,,,,A. Nicholson,C. Frye
+71,1,3:47.0,19,18,DEN,ORL,0,home,Sub,,,,,D. Arthur,E. Mudiay
+72,1,3:47.0,19,18,DEN,ORL,0,home,Sub,,,,,J. Nelson,K. Faried
+73,1,3:32.0,19,20,DEN,ORL,15,away,JS,,10,make2,2,T. Harris,
+74,1,3:18.0,21,20,DEN,ORL,14,home,JS,assist,17,make2,2,D. Gallinari,J. Nelson
+75,1,3:06.0,21,20,DEN,ORL,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Harris,D. Gallinari
+76,1,3:06.0,21,20,DEN,ORL,0,away,OffensiveFoul,,,turnover,,T. Harris,
+77,1,3:06.0,21,20,DEN,ORL,0,away,Sub,,,,,M. Hezonja,T. Harris
+78,1,2:53.0,21,20,DEN,ORL,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Hezonja,D. Gallinari
+79,1,2:53.0,21,20,DEN,ORL,0,away,Timeout,,,,,,
+80,1,2:53.0,21,20,DEN,ORL,0,away,Sub,,,,,J. Smith,N. Vučević
+81,1,2:39.0,21,20,DEN,ORL,14,home,LU,,2,miss2,0,D. Gallinari,
+82,1,2:39.0,21,20,DEN,ORL,0,away,DefReb,,,DefReb,,A. Nicholson,
+83,1,2:26.0,21,20,DEN,ORL,13,away,JS,,19,miss2,0,J. Smith,
+84,1,2:26.0,21,20,DEN,ORL,0,away,OffReb,,,OffReb,,A. Nicholson,
+85,1,2:20.0,21,20,DEN,ORL,6,away,JS,,24,miss3,0,V. Oladipo,
+86,1,2:20.0,21,20,DEN,ORL,0,home,DefReb,,,DefReb,,J. Nelson,
+87,1,2:06.0,21,20,DEN,ORL,14,home,LU,,1,miss2,0,J. Hickson,
+88,1,2:05.0,21,20,DEN,ORL,1,away,DefReb,,,DefReb,,A. Nicholson,
+89,1,1:48.0,21,20,DEN,ORL,17,away,BadPass,,,turnover,,A. Nicholson,
+90,1,1:48.0,21,20,DEN,ORL,0,home,Sub,,,,,N. Jokić,J. Hickson
+91,1,1:48.0,21,20,DEN,ORL,0,away,Sub,,,,,S. Napier,E. Payton
+92,1,1:33.0,23,20,DEN,ORL,15,home,DK,assist,0,make2,2,D. Gallinari,J. Nelson
+93,1,1:17.0,23,22,DEN,ORL,16,away,LU,,1,make2,2,V. Oladipo,
+94,1,1:03.0,26,22,DEN,ORL,14,home,JS,,26,make3,3,J. Nelson,
+95,1,0:50.0,26,24,DEN,ORL,13,away,HS,,6,make2,2,A. Nicholson,
+96,1,0:38.0,26,24,DEN,ORL,12,home,LostBall,steal,,turnover,,J. Nelson,S. Napier
+97,1,0:34.0,26,24,DEN,ORL,4,away,BadPass,steal,,turnover,,S. Napier,W. Barton
+98,1,0:10.0,26,24,DEN,ORL,24,home,LU,,1,miss2,0,D. Gallinari,
+99,1,0:10.0,26,24,DEN,ORL,0,away,DefReb,,,DefReb,,A. Nicholson,
+100,1,0:06.0,26,24,DEN,ORL,4,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,N. Jokić,J. Smith
+101,1,0:01.0,26,24,DEN,ORL,5,away,JS,,25,miss3,0,S. Napier,
+102,1,0:01.0,26,24,DEN,ORL,0,away,OffReb,,,OffReb,,Team,
+103,1,0:01.0,26,24,DEN,ORL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Nelson,J. Smith
+104,1,0:01.0,26,25,DEN,ORL,0,away,FreeThrow,,,make1,1,J. Smith,
+105,1,0:01.0,26,26,DEN,ORL,0,away,FreeThrow,,,make1,1,J. Smith,
+106,2,11:41.0,26,26,DEN,ORL,19,home,JS,,13,miss2,0,W. Barton,
+107,2,11:41.0,26,26,DEN,ORL,0,away,DefReb,,,DefReb,,M. Hezonja,
+108,2,11:38.0,26,26,DEN,ORL,3,away,LostBall,steal,,turnover,,M. Hezonja,D. Arthur
+109,2,11:36.0,26,26,DEN,ORL,2,home,JS,,20,miss2,0,D. Arthur,
+110,2,11:35.0,26,26,DEN,ORL,1,home,OffReb,,,OffReb,,Team,
+111,2,11:23.0,26,26,DEN,ORL,12,home,HS,,9,miss2,0,N. Jokić,
+112,2,11:22.0,26,26,DEN,ORL,1,away,DefReb,,,DefReb,,A. Nicholson,
+113,2,11:04.0,26,28,DEN,ORL,18,away,LU,,1,make2,2,A. Nicholson,
+114,2,10:53.0,29,28,DEN,ORL,11,home,JS,assist,25,make3,3,W. Barton,N. Jokić
+115,2,10:40.0,29,28,DEN,ORL,13,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Nicholson,D. Arthur
+116,2,10:40.0,29,28,DEN,ORL,0,away,OffensiveFoul,,,turnover,,A. Nicholson,
+117,2,10:26.0,29,28,DEN,ORL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Smith,N. Jokić
+118,2,10:22.0,29,28,DEN,ORL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Fournier,W. Barton
+119,2,10:22.0,29,28,DEN,ORL,0,home,FreeThrow,,,make1,0,W. Barton,
+120,2,10:22.0,29,28,DEN,ORL,0,home,OffReb,,,OffReb,,Team,
+121,2,10:22.0,29,28,DEN,ORL,0,away,Sub,,,,,E. Payton,E. Fournier
+122,2,10:22.0,30,28,DEN,ORL,0,home,FreeThrow,,,make1,1,W. Barton,
+123,2,10:11.0,30,28,DEN,ORL,11,away,JS,,23,miss3,0,V. Oladipo,
+124,2,10:08.0,30,28,DEN,ORL,3,away,OffReb,,,OffReb,,M. Hezonja,
+125,2,10:08.0,30,28,DEN,ORL,0,away,LU,,1,miss2,0,M. Hezonja,
+126,2,10:07.0,30,28,DEN,ORL,1,away,OffReb,,,OffReb,,A. Nicholson,
+127,2,9:59.0,30,30,DEN,ORL,8,away,JS,assist,18,make2,2,A. Nicholson,V. Oladipo
+128,2,9:46.0,32,30,DEN,ORL,13,home,LU,,2,make2,2,W. Barton,
+129,2,9:32.0,32,30,DEN,ORL,14,away,JS,,4,miss2,0,E. Payton,
+130,2,9:30.0,32,30,DEN,ORL,2,home,DefReb,,,DefReb,,D. Arthur,
+131,2,9:18.0,32,30,DEN,ORL,12,home,JS,,22,miss3,0,W. Barton,
+132,2,9:18.0,32,30,DEN,ORL,0,away,DefReb,,,DefReb,,V. Oladipo,
+133,2,9:10.0,32,30,DEN,ORL,8,away,JS,,5,miss2,0,V. Oladipo,
+134,2,9:09.0,32,30,DEN,ORL,1,home,DefReb,,,DefReb,,N. Jokić,
+135,2,9:05.0,32,30,DEN,ORL,4,home,LU,,2,miss2,0,W. Barton,
+136,2,9:03.0,32,30,DEN,ORL,2,away,DefReb,,,DefReb,,J. Smith,
+137,2,8:55.0,32,30,DEN,ORL,8,away,LostBall,steal,,turnover,,A. Nicholson,M. Miller
+138,2,8:42.0,34,30,DEN,ORL,13,home,JS,assist,14,make2,2,N. Jokić,M. Miller
+139,2,8:26.0,34,30,DEN,ORL,16,away,LU,block,0,miss2,0,J. Smith,J. Nelson
+140,2,8:26.0,34,30,DEN,ORL,0,away,OffReb,,,OffReb,,Team,
+141,2,8:26.0,34,30,DEN,ORL,0,away,Timeout,,,,,,
+142,2,8:26.0,34,30,DEN,ORL,0,home,Sub,,,,,K. Faried,D. Arthur
+143,2,8:22.0,34,30,DEN,ORL,4,away,JS,,18,miss2,0,J. Smith,
+144,2,8:21.0,34,30,DEN,ORL,1,home,DefReb,,,DefReb,,M. Miller,
+145,2,8:14.0,34,30,DEN,ORL,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Miller,J. Smith
+146,2,8:14.0,34,30,DEN,ORL,0,home,OffensiveFoul,,,turnover,,M. Miller,
+147,2,8:04.0,34,30,DEN,ORL,10,away,JS,,15,miss2,0,V. Oladipo,
+148,2,8:03.0,34,30,DEN,ORL,1,home,DefReb,,,DefReb,,K. Faried,
+149,2,7:41.0,34,30,DEN,ORL,22,home,JS,block,24,miss3,0,J. Nelson,V. Oladipo
+150,2,7:40.0,34,30,DEN,ORL,1,home,OffReb,,,OffReb,,K. Faried,
+151,2,7:38.0,34,30,DEN,ORL,2,home,JS,,4,miss2,0,K. Faried,
+152,2,7:37.0,34,30,DEN,ORL,1,away,DefReb,,,DefReb,,A. Nicholson,
+153,2,7:29.0,34,30,DEN,ORL,8,away,JS,,24,miss3,0,A. Nicholson,
+154,2,7:28.0,34,30,DEN,ORL,1,home,DefReb,,,DefReb,,J. Nelson,
+155,2,7:23.0,34,30,DEN,ORL,5,home,LU,,2,miss2,0,W. Barton,
+156,2,7:22.0,34,30,DEN,ORL,1,away,DefReb,,,DefReb,,A. Nicholson,
+157,2,7:15.0,34,30,DEN,ORL,7,home,ChargeFoul,DrawnBy,,ChargeFoul,,V. Oladipo,J. Nelson
+158,2,7:15.0,34,30,DEN,ORL,0,away,OffensiveFoul,,,turnover,,V. Oladipo,
+159,2,7:15.0,34,30,DEN,ORL,0,away,Sub,,,,,T. Harris,J. Smith
+160,2,7:15.0,34,30,DEN,ORL,0,away,Sub,,,,,C. Frye,A. Nicholson
+161,2,7:15.0,34,30,DEN,ORL,0,away,Sub,,,,,N. Vučević,M. Hezonja
+162,2,6:54.0,34,30,DEN,ORL,21,home,JS,,24,miss3,0,W. Barton,
+163,2,6:53.0,34,30,DEN,ORL,1,away,DefReb,,,DefReb,,T. Harris,
+164,2,6:38.0,34,30,DEN,ORL,15,away,LostBall,steal,,turnover,,V. Oladipo,J. Nelson
+165,2,6:33.0,34,30,DEN,ORL,5,home,LU,,2,miss2,0,J. Nelson,
+166,2,6:32.0,34,30,DEN,ORL,1,away,DefReb,,,DefReb,,T. Harris,
+167,2,6:32.0,34,30,DEN,ORL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Miller,T. Harris
+168,2,6:32.0,34,30,DEN,ORL,0,home,Sub,,,,,J. Hickson,N. Jokić
+169,2,6:32.0,34,30,DEN,ORL,0,home,Sub,,,,,E. Mudiay,J. Nelson
+170,2,6:32.0,34,30,DEN,ORL,0,home,Sub,,,,,D. Gallinari,M. Miller
+171,2,6:22.0,34,32,DEN,ORL,10,away,DK,assist,0,make2,2,N. Vučević,V. Oladipo
+172,2,6:05.0,34,32,DEN,ORL,17,home,JS,,5,miss2,0,W. Barton,
+173,2,6:04.0,34,32,DEN,ORL,1,home,OffReb,,,OffReb,,J. Hickson,
+174,2,6:02.0,34,32,DEN,ORL,2,home,BadPass,steal,,turnover,,J. Hickson,T. Harris
+175,2,5:57.0,34,32,DEN,ORL,5,away,BadPass,,,turnover,,T. Harris,
+176,2,5:57.0,34,32,DEN,ORL,0,home,Timeout,,,,,,
+177,2,5:39.0,34,32,DEN,ORL,18,home,LU,block,2,miss2,0,K. Faried,V. Oladipo
+178,2,5:38.0,34,32,DEN,ORL,1,away,DefReb,,,DefReb,,C. Frye,
+179,2,5:16.0,34,32,DEN,ORL,22,away,JS,,23,miss3,0,C. Frye,
+180,2,5:15.0,34,32,DEN,ORL,1,home,DefReb,,,DefReb,,J. Hickson,
+181,2,5:04.0,36,32,DEN,ORL,11,home,LU,assist,1,make2,2,W. Barton,E. Mudiay
+182,2,4:53.0,36,32,DEN,ORL,11,away,BadPass,steal,,turnover,,E. Payton,W. Barton
+183,2,4:50.0,38,32,DEN,ORL,3,home,LU,,1,make2,2,W. Barton,
+184,2,4:50.0,38,32,DEN,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Payton,W. Barton
+185,2,4:50.0,39,32,DEN,ORL,0,home,FreeThrow,,,make1,1,W. Barton,
+186,2,4:42.0,39,32,DEN,ORL,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hickson,T. Harris
+187,2,4:42.0,39,33,DEN,ORL,0,away,FreeThrow,,,make1,1,T. Harris,
+188,2,4:42.0,39,34,DEN,ORL,0,away,FreeThrow,,,make1,1,T. Harris,
+189,2,4:21.0,39,34,DEN,ORL,21,home,JS,,21,miss2,0,D. Gallinari,
+190,2,4:20.0,39,34,DEN,ORL,1,home,OffReb,,,OffReb,,J. Hickson,
+191,2,4:17.0,41,34,DEN,ORL,3,home,DK,,0,make2,2,J. Hickson,
+192,2,3:57.0,41,34,DEN,ORL,20,away,JS,,26,miss3,0,V. Oladipo,
+193,2,3:56.0,41,34,DEN,ORL,1,home,DefReb,,,DefReb,,K. Faried,
+194,2,3:50.0,41,34,DEN,ORL,6,home,OutOfBounds,,,turnover,,E. Mudiay,
+195,2,3:31.0,41,34,DEN,ORL,19,away,JS,,20,miss2,0,T. Harris,
+196,2,3:30.0,41,34,DEN,ORL,1,away,OffReb,,,OffReb,,N. Vučević,
+197,2,3:22.0,41,36,DEN,ORL,8,away,LU,assist,1,make2,2,T. Harris,N. Vučević
+198,2,3:07.0,43,36,DEN,ORL,15,home,DK,assist,0,make2,2,K. Faried,W. Barton
+199,2,2:50.0,43,38,DEN,ORL,17,away,DK,assist,0,make2,2,T. Harris,N. Vučević
+200,2,2:33.0,43,38,DEN,ORL,17,away,Timeout,,,,,,
+201,2,2:33.0,43,38,DEN,ORL,0,away,Sub,,,,,M. Hezonja,V. Oladipo
+202,2,2:20.0,43,38,DEN,ORL,13,home,JS,,21,miss2,0,D. Gallinari,
+203,2,2:19.0,43,38,DEN,ORL,1,away,DefReb,,,DefReb,,M. Hezonja,
+204,2,1:57.0,43,38,DEN,ORL,22,away,HS,,6,miss2,0,C. Frye,
+205,2,1:57.0,43,38,DEN,ORL,0,home,DefReb,,,DefReb,,K. Faried,
+206,2,1:51.0,45,38,DEN,ORL,6,home,LU,,1,make2,2,E. Mudiay,
+207,2,1:36.0,45,38,DEN,ORL,15,away,BadPass,steal,,turnover,,E. Payton,E. Mudiay
+208,2,1:35.0,45,38,DEN,ORL,1,home,BadPass,steal,,turnover,,E. Mudiay,E. Payton
+209,2,1:33.0,45,38,DEN,ORL,2,away,DK,block,1,miss2,0,E. Payton,K. Faried
+210,2,1:32.0,45,38,DEN,ORL,1,home,DefReb,,,DefReb,,D. Gallinari,
+211,2,1:13.0,45,38,DEN,ORL,19,home,JS,,15,miss2,0,K. Faried,
+212,2,1:13.0,45,38,DEN,ORL,0,home,OffReb,,,OffReb,,Team,
+213,2,1:13.0,45,38,DEN,ORL,0,away,LooseBallFoul,,,LooseBallFoul,,N. Vučević,
+214,2,1:05.0,47,38,DEN,ORL,8,home,JS,assist,12,make2,2,E. Mudiay,D. Gallinari
+215,2,0:50.0,47,40,DEN,ORL,15,away,LU,,1,make2,2,M. Hezonja,
+216,2,0:42.0,47,40,DEN,ORL,8,home,BadPass,,,turnover,,E. Mudiay,
+217,2,0:26.0,47,40,DEN,ORL,16,away,HS,,6,miss2,0,T. Harris,
+218,2,0:25.0,47,40,DEN,ORL,1,home,DefReb,,,DefReb,,K. Faried,
+219,2,0:24.0,47,40,DEN,ORL,1,home,Traveling,,,turnover,,K. Faried,
+220,2,0:04.0,47,40,DEN,ORL,20,away,JS,,5,miss2,0,M. Hezonja,
+221,2,0:03.0,47,40,DEN,ORL,1,home,DefReb,,,DefReb,,K. Faried,
+222,2,0:01.0,47,40,DEN,ORL,2,home,JS,,24,miss3,0,W. Barton,
+223,2,0:00.0,47,40,DEN,ORL,1,home,OffReb,,,OffReb,,Team,
+224,3,11:36.0,47,40,DEN,ORL,24,home,ShotClockViolation,,,turnover,,Team,
+225,3,11:26.0,47,40,DEN,ORL,10,away,JS,,24,miss3,0,E. Fournier,
+226,3,11:25.0,47,40,DEN,ORL,1,home,DefReb,,,DefReb,,D. Gallinari,
+227,3,11:06.0,47,40,DEN,ORL,19,home,JS,,24,miss3,0,R. Foye,
+228,3,11:05.0,47,40,DEN,ORL,1,away,DefReb,,,DefReb,,T. Harris,
+229,3,10:52.0,47,40,DEN,ORL,13,away,3sec,,,turnover,,N. Vučević,
+230,3,10:35.0,47,40,DEN,ORL,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Frye,K. Faried
+231,3,10:35.0,48,40,DEN,ORL,0,home,FreeThrow,,,make1,1,K. Faried,
+232,3,10:35.0,49,40,DEN,ORL,0,home,FreeThrow,,,make1,1,K. Faried,
+233,3,10:24.0,49,40,DEN,ORL,11,away,BadPass,steal,,turnover,,E. Fournier,D. Gallinari
+234,3,10:17.0,49,40,DEN,ORL,7,home,JS,block,4,miss2,0,J. Hickson,T. Harris
+235,3,10:15.0,49,40,DEN,ORL,2,away,DefReb,,,DefReb,,E. Payton,
+236,3,10:09.0,49,42,DEN,ORL,6,away,LU,,1,make2,2,E. Payton,
+237,3,9:56.0,49,42,DEN,ORL,13,home,BadPass,steal,,turnover,,D. Gallinari,N. Vučević
+238,3,9:50.0,49,44,DEN,ORL,6,away,LU,,1,make2,2,E. Payton,
+239,3,9:50.0,49,44,DEN,ORL,0,home,Timeout,,,,,,
+240,3,9:36.0,51,44,DEN,ORL,14,home,DK,assist,0,make2,2,J. Hickson,E. Mudiay
+241,3,9:27.0,51,44,DEN,ORL,9,away,JS,block,4,miss2,0,N. Vučević,J. Hickson
+242,3,9:26.0,51,44,DEN,ORL,1,away,OffReb,,,OffReb,,N. Vučević,
+243,3,9:25.0,51,46,DEN,ORL,1,away,LU,,2,make2,2,N. Vučević,
+244,3,9:25.0,51,46,DEN,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Mudiay,N. Vučević
+245,3,9:25.0,51,46,DEN,ORL,0,away,FreeThrow,,,make1,0,N. Vučević,
+246,3,9:22.0,51,46,DEN,ORL,3,home,DefReb,,,DefReb,,J. Hickson,
+247,3,9:13.0,51,46,DEN,ORL,9,home,JS,,13,miss2,0,E. Mudiay,
+248,3,9:12.0,51,46,DEN,ORL,1,away,DefReb,,,DefReb,,T. Harris,
+249,3,8:57.0,51,48,DEN,ORL,15,away,LU,assist,2,make2,2,E. Payton,C. Frye
+250,3,8:38.0,51,48,DEN,ORL,19,home,LU,,2,miss2,0,K. Faried,
+251,3,8:37.0,51,48,DEN,ORL,1,away,DefReb,,,DefReb,,C. Frye,
+252,3,8:33.0,51,48,DEN,ORL,4,away,LU,block,1,miss2,0,E. Payton,K. Faried
+253,3,8:33.0,51,48,DEN,ORL,0,away,OffReb,,,OffReb,,Team,
+254,3,8:33.0,51,48,DEN,ORL,0,home,Sub,,,,,W. Barton,R. Foye
+255,3,8:15.0,51,48,DEN,ORL,18,away,LU,,2,miss2,0,E. Payton,
+256,3,8:15.0,51,48,DEN,ORL,0,away,OffReb,,,OffReb,,N. Vučević,
+257,3,8:15.0,51,50,DEN,ORL,0,away,DK,,0,make2,2,N. Vučević,
+258,3,8:15.0,51,50,DEN,ORL,0,home,Timeout,,,,,,
+259,3,8:15.0,51,50,DEN,ORL,0,home,Sub,,,,,J. Nelson,K. Faried
+260,3,8:15.0,51,50,DEN,ORL,0,home,Sub,,,,,M. Miller,E. Mudiay
+261,3,7:53.0,51,50,DEN,ORL,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Fournier,J. Hickson
+262,3,7:53.0,51,50,DEN,ORL,0,home,FreeThrow,,,make1,0,J. Hickson,
+263,3,7:53.0,51,50,DEN,ORL,0,home,OffReb,,,OffReb,,Team,
+264,3,7:53.0,51,50,DEN,ORL,0,home,FreeThrow,,,make1,0,J. Hickson,
+265,3,7:51.0,51,50,DEN,ORL,2,away,DefReb,,,DefReb,,T. Harris,
+266,3,7:38.0,51,50,DEN,ORL,13,away,LU,block,1,miss2,0,E. Fournier,W. Barton
+267,3,7:34.0,51,50,DEN,ORL,4,away,OffReb,,,OffReb,,N. Vučević,
+268,3,7:34.0,51,52,DEN,ORL,0,away,LU,,1,make2,2,N. Vučević,
+269,3,7:20.0,54,52,DEN,ORL,14,home,JS,assist,24,make3,3,J. Nelson,D. Gallinari
+270,3,7:02.0,54,54,DEN,ORL,18,away,JS,assist,17,make2,2,N. Vučević,E. Fournier
+271,3,6:50.0,54,54,DEN,ORL,12,home,JS,,24,miss3,0,M. Miller,
+272,3,6:49.0,54,54,DEN,ORL,1,away,DefReb,,,DefReb,,N. Vučević,
+273,3,6:36.0,54,54,DEN,ORL,13,away,BadPass,steal,,turnover,,N. Vučević,J. Nelson
+274,3,6:31.0,54,54,DEN,ORL,5,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Hickson,C. Frye
+275,3,6:31.0,54,54,DEN,ORL,0,home,OffensiveFoul,,,turnover,,J. Hickson,
+276,3,6:10.0,54,54,DEN,ORL,21,away,JS,,18,miss2,0,T. Harris,
+277,3,6:10.0,54,54,DEN,ORL,0,home,DefReb,,,DefReb,,J. Hickson,
+278,3,6:04.0,54,54,DEN,ORL,6,home,JS,,26,miss3,0,J. Nelson,
+279,3,6:03.0,54,54,DEN,ORL,1,away,DefReb,,,DefReb,,T. Harris,
+280,3,5:55.0,54,56,DEN,ORL,8,away,LU,,0,make2,2,E. Payton,
+281,3,5:26.0,56,56,DEN,ORL,29,home,DK,assist,0,make2,2,J. Hickson,M. Miller
+282,3,5:05.0,56,58,DEN,ORL,21,away,JS,assist,19,make2,2,N. Vučević,T. Harris
+283,3,4:50.0,56,58,DEN,ORL,15,home,LU,,2,miss2,0,J. Hickson,
+284,3,4:50.0,56,58,DEN,ORL,0,away,DefReb,,,DefReb,,N. Vučević,
+285,3,4:44.0,56,58,DEN,ORL,6,away,Sub,,,,,V. Oladipo,E. Fournier
+286,3,4:44.0,56,58,DEN,ORL,0,home,Sub,,,,,N. Jokić,J. Hickson
+287,3,4:36.0,56,60,DEN,ORL,8,away,JS,assist,22,make2,2,T. Harris,V. Oladipo
+288,3,4:24.0,56,60,DEN,ORL,12,home,JS,,26,miss3,0,M. Miller,
+289,3,4:24.0,56,60,DEN,ORL,0,away,DefReb,,,DefReb,,T. Harris,
+290,3,4:04.0,56,60,DEN,ORL,20,away,JS,,26,miss3,0,V. Oladipo,
+291,3,4:03.0,56,60,DEN,ORL,1,home,DefReb,,,DefReb,,N. Jokić,
+292,3,3:53.0,56,60,DEN,ORL,10,home,LostBall,steal,,turnover,,W. Barton,T. Harris
+293,3,3:53.0,56,60,DEN,ORL,0,away,Sub,,,,,S. Napier,E. Payton
+294,3,3:53.0,56,60,DEN,ORL,0,away,Sub,,,,,A. Nicholson,C. Frye
+295,3,3:33.0,56,62,DEN,ORL,20,away,JS,,10,make2,2,V. Oladipo,
+296,3,3:20.0,56,62,DEN,ORL,13,home,JS,block,6,miss2,0,W. Barton,V. Oladipo
+297,3,3:19.0,56,62,DEN,ORL,1,home,OffReb,,,OffReb,,M. Miller,
+298,3,3:18.0,56,62,DEN,ORL,1,home,Sub,,,,,K. Faried,M. Miller
+299,3,3:09.0,59,62,DEN,ORL,9,home,JS,assist,25,make3,3,W. Barton,J. Nelson
+300,3,3:07.0,59,62,DEN,ORL,2,away,Timeout,,,,,,
+301,3,2:48.0,59,62,DEN,ORL,19,away,LU,,1,miss2,0,A. Nicholson,
+302,3,2:46.0,59,62,DEN,ORL,2,away,OffReb,,,OffReb,,Team,
+303,3,2:30.0,59,62,DEN,ORL,16,away,JS,,25,miss3,0,S. Napier,
+304,3,2:29.0,59,62,DEN,ORL,1,home,DefReb,,,DefReb,,D. Gallinari,
+305,3,2:20.0,59,62,DEN,ORL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Nicholson,K. Faried
+306,3,2:05.0,59,62,DEN,ORL,15,home,JS,block,22,miss3,0,W. Barton,V. Oladipo
+307,3,2:04.0,59,62,DEN,ORL,1,home,OffReb,,,OffReb,,Team,
+308,3,2:04.0,59,62,DEN,ORL,0,home,ShotClockViolation,,,turnover,,Team,
+309,3,2:04.0,59,62,DEN,ORL,0,away,Sub,,,,,J. Smith,N. Vučević
+310,3,1:49.0,59,62,DEN,ORL,15,away,JS,,22,miss2,0,J. Smith,
+311,3,1:48.0,59,62,DEN,ORL,1,home,DefReb,,,DefReb,,K. Faried,
+312,3,1:32.0,59,62,DEN,ORL,16,home,JS,,24,miss3,0,D. Gallinari,
+313,3,1:31.0,59,62,DEN,ORL,1,away,DefReb,,,DefReb,,V. Oladipo,
+314,3,1:11.0,59,62,DEN,ORL,20,away,JS,,28,miss3,0,T. Harris,
+315,3,1:10.0,59,62,DEN,ORL,1,home,DefReb,,,DefReb,,N. Jokić,
+316,3,0:55.0,61,62,DEN,ORL,15,home,JS,,20,make2,2,D. Gallinari,
+317,3,0:42.0,61,62,DEN,ORL,13,away,LostBall,,,turnover,,V. Oladipo,
+318,3,0:30.0,61,62,DEN,ORL,12,home,JS,,12,miss2,0,N. Jokić,
+319,3,0:28.0,61,62,DEN,ORL,2,away,DefReb,,,DefReb,,A. Nicholson,
+320,3,0:14.0,61,62,DEN,ORL,14,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,W. Barton,V. Oladipo
+321,3,0:06.0,61,62,DEN,ORL,8,away,LU,,2,miss2,0,V. Oladipo,
+322,3,0:06.0,61,62,DEN,ORL,0,home,DefReb,,,DefReb,,K. Faried,
+323,3,0:02.0,63,62,DEN,ORL,4,home,LU,assist,1,make2,2,W. Barton,K. Faried
+324,3,0:02.0,63,62,DEN,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,W. Barton
+325,3,0:02.0,63,62,DEN,ORL,0,home,FreeThrow,,,make1,0,W. Barton,
+326,3,0:01.0,63,62,DEN,ORL,1,away,DefReb,,,DefReb,,T. Harris,
+327,4,11:47.0,63,62,DEN,ORL,13,away,JS,,26,miss3,0,E. Fournier,
+328,4,11:46.0,63,62,DEN,ORL,1,home,DefReb,,,DefReb,,K. Faried,
+329,4,11:22.0,63,62,DEN,ORL,24,home,JS,,19,miss2,0,J. Nelson,
+330,4,11:21.0,63,62,DEN,ORL,1,home,OffReb,,,OffReb,,N. Jokić,
+331,4,11:19.0,65,62,DEN,ORL,2,home,LU,,1,make2,2,N. Jokić,
+332,4,11:04.0,65,62,DEN,ORL,15,away,JS,,19,miss2,0,J. Smith,
+333,4,11:03.0,65,62,DEN,ORL,1,home,DefReb,,,DefReb,,W. Barton,
+334,4,10:50.0,65,62,DEN,ORL,13,home,JS,,25,miss3,0,W. Barton,
+335,4,10:49.0,65,62,DEN,ORL,1,away,DefReb,,,DefReb,,J. Smith,
+336,4,10:44.0,65,62,DEN,ORL,5,away,JS,,20,miss2,0,S. Napier,
+337,4,10:43.0,65,62,DEN,ORL,1,home,DefReb,,,DefReb,,W. Barton,
+338,4,10:35.0,65,62,DEN,ORL,8,home,Sub,,,,,R. Foye,D. Gallinari
+339,4,10:20.0,65,62,DEN,ORL,15,home,LU,,1,miss2,0,K. Faried,
+340,4,10:20.0,65,62,DEN,ORL,0,away,DefReb,,,DefReb,,A. Nicholson,
+341,4,10:06.0,65,64,DEN,ORL,14,away,JS,assist,19,make2,2,S. Napier,J. Smith
+342,4,9:54.0,65,64,DEN,ORL,12,home,LU,,2,miss2,0,W. Barton,
+343,4,9:54.0,65,64,DEN,ORL,0,away,DefReb,,,DefReb,,J. Smith,
+344,4,9:35.0,65,66,DEN,ORL,19,away,JS,,4,make2,2,A. Nicholson,
+345,4,9:30.0,65,66,DEN,ORL,5,home,Timeout,,,,,,
+346,4,9:30.0,65,66,DEN,ORL,0,home,Sub,,,,,E. Mudiay,J. Nelson
+347,4,9:15.0,65,66,DEN,ORL,15,home,JS,,10,miss2,0,N. Jokić,
+348,4,9:13.0,65,66,DEN,ORL,2,away,DefReb,,,DefReb,,A. Nicholson,
+349,4,8:59.0,65,68,DEN,ORL,14,away,LU,,3,make2,2,S. Napier,
+350,4,8:42.0,65,68,DEN,ORL,17,home,LU,,1,miss2,0,K. Faried,
+351,4,8:41.0,65,68,DEN,ORL,1,away,DefReb,,,DefReb,,A. Nicholson,
+352,4,8:37.0,65,68,DEN,ORL,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Barton,V. Oladipo
+353,4,8:30.0,65,68,DEN,ORL,7,away,LostBall,steal,,turnover,,J. Smith,W. Barton
+354,4,8:25.0,67,68,DEN,ORL,5,home,LU,,1,make2,2,W. Barton,
+355,4,8:05.0,67,68,DEN,ORL,20,away,LU,,2,miss2,0,A. Nicholson,
+356,4,8:04.0,67,68,DEN,ORL,1,home,DefReb,,,DefReb,,W. Barton,
+357,4,7:52.0,67,68,DEN,ORL,12,home,JS,,4,miss2,0,N. Jokić,
+358,4,7:51.0,67,68,DEN,ORL,1,home,OffReb,,,OffReb,,K. Faried,
+359,4,7:36.0,67,68,DEN,ORL,15,home,Traveling,,,turnover,,R. Foye,
+360,4,7:36.0,67,68,DEN,ORL,0,away,Sub,,,,,N. Vučević,J. Smith
+361,4,7:25.0,67,70,DEN,ORL,11,away,LU,,1,make2,2,V. Oladipo,
+362,4,7:02.0,67,70,DEN,ORL,23,home,JS,,24,miss3,0,W. Barton,
+363,4,7:02.0,67,70,DEN,ORL,0,away,DefReb,,,DefReb,,E. Fournier,
+364,4,6:56.0,67,70,DEN,ORL,6,away,LostBall,,,turnover,,V. Oladipo,
+365,4,6:56.0,67,70,DEN,ORL,0,home,Sub,,,,,J. Hickson,N. Jokić
+366,4,6:39.0,67,70,DEN,ORL,17,home,JS,block,5,miss2,0,E. Mudiay,N. Vučević
+367,4,6:37.0,67,70,DEN,ORL,2,home,OffReb,,,OffReb,,E. Mudiay,
+368,4,6:35.0,67,70,DEN,ORL,2,home,JS,,4,miss2,0,J. Hickson,
+369,4,6:34.0,67,70,DEN,ORL,1,away,DefReb,,,DefReb,,A. Nicholson,
+370,4,6:20.0,67,72,DEN,ORL,14,away,JS,,7,make2,2,V. Oladipo,
+371,4,6:18.0,67,72,DEN,ORL,2,home,BadPass,steal,,turnover,,J. Hickson,V. Oladipo
+372,4,6:11.0,67,72,DEN,ORL,7,away,JS,,24,miss3,0,E. Fournier,
+373,4,6:10.0,67,72,DEN,ORL,1,home,DefReb,,,DefReb,,R. Foye,
+374,4,6:01.0,67,72,DEN,ORL,9,home,Sub,,,,,J. Nelson,E. Mudiay
+375,4,6:01.0,67,72,DEN,ORL,0,home,Sub,,,,,D. Gallinari,W. Barton
+376,4,5:51.0,67,72,DEN,ORL,10,home,JS,,21,miss2,0,J. Nelson,
+377,4,5:49.0,67,72,DEN,ORL,2,home,OffReb,,,OffReb,,Team,
+378,4,5:49.0,67,72,DEN,ORL,0,away,Timeout,,,,,,
+379,4,5:36.0,67,72,DEN,ORL,13,home,LU,,1,miss2,0,K. Faried,
+380,4,5:35.0,67,72,DEN,ORL,1,home,OffReb,,,OffReb,,J. Hickson,
+381,4,5:34.0,67,72,DEN,ORL,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,V. Oladipo,J. Hickson
+382,4,5:34.0,68,72,DEN,ORL,0,home,FreeThrow,,,make1,1,J. Hickson,
+383,4,5:34.0,68,72,DEN,ORL,0,home,Sub,,,,,W. Barton,R. Foye
+384,4,5:34.0,68,72,DEN,ORL,0,home,FreeThrow,,,make1,0,J. Hickson,
+385,4,5:34.0,68,72,DEN,ORL,0,away,DefReb,,,DefReb,,N. Vučević,
+386,4,5:12.0,68,72,DEN,ORL,22,away,JS,,22,miss3,0,S. Napier,
+387,4,5:11.0,68,72,DEN,ORL,1,home,DefReb,,,DefReb,,J. Hickson,
+388,4,4:55.0,71,72,DEN,ORL,16,home,JS,assist,24,make3,3,W. Barton,J. Nelson
+389,4,4:34.0,71,74,DEN,ORL,21,away,LU,,1,make2,2,S. Napier,
+390,4,4:13.0,71,74,DEN,ORL,21,home,JS,,23,miss3,0,D. Gallinari,
+391,4,4:13.0,71,74,DEN,ORL,0,away,DefReb,,,DefReb,,A. Nicholson,
+392,4,3:54.0,71,74,DEN,ORL,19,away,JS,,12,miss2,0,V. Oladipo,
+393,4,3:53.0,71,74,DEN,ORL,1,home,DefReb,,,DefReb,,J. Hickson,
+394,4,3:31.0,71,74,DEN,ORL,22,home,JS,,23,miss3,0,D. Gallinari,
+395,4,3:31.0,71,74,DEN,ORL,0,away,DefReb,,,DefReb,,Team,
+396,4,3:31.0,71,74,DEN,ORL,0,away,Timeout,,,,,,
+397,4,3:31.0,71,74,DEN,ORL,0,away,Sub,,,,,E. Payton,A. Nicholson
+398,4,3:31.0,71,74,DEN,ORL,0,away,Sub,,,,,T. Harris,S. Napier
+399,4,3:20.0,71,74,DEN,ORL,11,away,LU,,2,miss2,0,T. Harris,
+400,4,3:18.0,71,74,DEN,ORL,2,away,OffReb,,,OffReb,,E. Payton,
+401,4,3:15.0,71,74,DEN,ORL,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Barton,N. Vučević
+402,4,3:08.0,71,74,DEN,ORL,7,away,JS,,6,miss2,0,V. Oladipo,
+403,4,3:07.0,71,74,DEN,ORL,1,away,OffReb,,,OffReb,,E. Payton,
+404,4,3:07.0,71,74,DEN,ORL,0,away,JS,,4,miss2,0,E. Payton,
+405,4,3:06.0,71,74,DEN,ORL,1,home,DefReb,,,DefReb,,J. Hickson,
+406,4,2:50.0,71,74,DEN,ORL,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,K. Faried
+407,4,2:50.0,71,74,DEN,ORL,0,home,FreeThrow,,,make1,0,K. Faried,
+408,4,2:50.0,71,74,DEN,ORL,0,home,OffReb,,,OffReb,,Team,
+409,4,2:50.0,72,74,DEN,ORL,0,home,FreeThrow,,,make1,1,K. Faried,
+410,4,2:38.0,72,77,DEN,ORL,12,away,JS,assist,24,make3,3,E. Fournier,E. Payton
+411,4,2:18.0,72,77,DEN,ORL,20,home,JS,,25,miss3,0,J. Nelson,
+412,4,2:17.0,72,77,DEN,ORL,1,away,DefReb,,,DefReb,,E. Fournier,
+413,4,2:14.0,72,77,DEN,ORL,3,home,Sub,,,,,R. Foye,J. Hickson
+414,4,2:04.0,72,77,DEN,ORL,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Faried,N. Vučević
+415,4,1:55.0,72,77,DEN,ORL,9,away,HS,,9,miss2,0,N. Vučević,
+416,4,1:54.0,72,77,DEN,ORL,1,home,DefReb,,,DefReb,,J. Nelson,
+417,4,1:48.0,72,77,DEN,ORL,6,home,LU,,0,miss2,0,K. Faried,
+418,4,1:47.0,72,77,DEN,ORL,1,away,DefReb,,,DefReb,,N. Vučević,
+419,4,1:44.0,72,79,DEN,ORL,3,away,JS,,11,make2,2,E. Payton,
+420,4,1:44.0,72,79,DEN,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nelson,E. Payton
+421,4,1:44.0,72,80,DEN,ORL,0,away,FreeThrow,,,make1,1,E. Payton,
+422,4,1:44.0,72,80,DEN,ORL,0,home,Timeout,,,,,,
+423,4,1:39.0,74,80,DEN,ORL,5,home,LU,assist,1,make2,2,R. Foye,J. Nelson
+424,4,1:26.0,74,80,DEN,ORL,13,away,LU,block,2,miss2,0,E. Payton,D. Gallinari
+425,4,1:25.0,74,80,DEN,ORL,1,away,OffReb,,,OffReb,,N. Vučević,
+426,4,1:24.0,74,82,DEN,ORL,1,away,LU,,0,make2,2,N. Vučević,
+427,4,1:18.0,74,82,DEN,ORL,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Fournier,K. Faried
+428,4,1:18.0,74,82,DEN,ORL,0,home,FreeThrow,,,make1,0,K. Faried,
+429,4,1:18.0,74,82,DEN,ORL,0,home,OffReb,,,OffReb,,Team,
+430,4,1:18.0,74,82,DEN,ORL,0,home,FreeThrow,,,make1,0,K. Faried,
+431,4,1:16.0,74,82,DEN,ORL,2,away,DefReb,,,DefReb,,N. Vučević,
+432,4,0:56.0,74,82,DEN,ORL,20,away,BadPass,steal,,turnover,,N. Vučević,W. Barton
+433,4,0:50.0,74,82,DEN,ORL,6,home,JS,,25,miss3,0,W. Barton,
+434,4,0:47.0,74,82,DEN,ORL,3,away,DefReb,,,DefReb,,E. Payton,
+435,4,0:38.0,74,82,DEN,ORL,9,home,DefGoaltending,,,DefGoaltending,,K. Faried,
+436,4,0:38.0,74,84,DEN,ORL,0,away,LU,,3,make2,2,E. Payton,
+437,4,0:38.0,74,84,DEN,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Faried,E. Payton
+438,4,0:38.0,74,85,DEN,ORL,0,away,FreeThrow,,,make1,1,E. Payton,
+439,4,0:23.0,74,85,DEN,ORL,15,home,LU,block,1,miss2,0,D. Gallinari,N. Vučević
+440,4,0:21.0,74,85,DEN,ORL,2,home,OffReb,,,OffReb,,D. Gallinari,
+441,4,0:16.0,74,85,DEN,ORL,5,home,LU,,2,miss2,0,D. Gallinari,
+442,4,0:15.0,74,85,DEN,ORL,1,away,DefReb,,,DefReb,,E. Payton,

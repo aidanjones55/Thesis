@@ -1,0 +1,481 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:37.0,0,0,NOP,WAS,23,home,JS,,20,miss2,0,A. Davis,
+1,1,11:32.0,0,0,NOP,WAS,5,away,DefReb,,,DefReb,,J. Wall,
+2,1,11:23.0,0,2,NOP,WAS,9,away,JS,,20,make2,2,B. Beal,
+3,1,11:10.0,2,2,NOP,WAS,13,home,LU,,2,make2,2,J. Holiday,
+4,1,11:05.0,2,2,NOP,WAS,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Frazier,B. Beal
+5,1,10:56.0,2,2,NOP,WAS,9,away,JS,,17,miss2,0,O. Porter,
+6,1,10:52.0,2,2,NOP,WAS,4,home,DefReb,,,DefReb,,N. Mirotić,
+7,1,10:46.0,4,2,NOP,WAS,6,home,LU,assist,2,make2,2,J. Holiday,N. Mirotić
+8,1,10:32.0,4,2,NOP,WAS,14,away,JS,,25,miss3,0,J. Wall,
+9,1,10:30.0,4,2,NOP,WAS,2,home,DefReb,,,DefReb,,Team,
+10,1,10:16.0,4,2,NOP,WAS,14,home,OutOfBoundsLB,,,turnover,,A. Davis,
+11,1,10:03.0,4,2,NOP,WAS,13,away,bad pass,steal,,turnover,,B. Beal,N. Mirotić
+12,1,9:59.0,7,2,NOP,WAS,4,home,JS,assist,26,make3,3,N. Mirotić,T. Frazier
+13,1,9:44.0,7,2,NOP,WAS,15,away,JS,,9,miss2,0,B. Beal,
+14,1,9:43.0,7,2,NOP,WAS,1,away,OffReb,,,OffReb,,O. Porter,
+15,1,9:41.0,7,2,NOP,WAS,2,away,JS,,24,miss3,0,J. Wall,
+16,1,9:41.0,7,2,NOP,WAS,0,home,DefReb,,,DefReb,,J. Holiday,
+17,1,9:31.0,7,2,NOP,WAS,10,home,JS,,16,miss2,0,N. Mirotić,
+18,1,9:27.0,7,2,NOP,WAS,4,home,OffReb,,,OffReb,,Team,
+19,1,9:25.0,7,2,NOP,WAS,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Beal,A. Davis
+20,1,9:18.0,7,2,NOP,WAS,7,home,LU,,3,miss2,0,A. Davis,
+21,1,9:15.0,7,2,NOP,WAS,3,home,OffReb,,,OffReb,,A. Davis,
+22,1,9:15.0,7,2,NOP,WAS,0,home,LU,,1,miss2,0,A. Davis,
+23,1,9:15.0,7,2,NOP,WAS,0,home,OffReb,,,OffReb,,E. Moore,
+24,1,9:13.0,7,2,NOP,WAS,2,home,JS,,24,miss3,0,E. Moore,
+25,1,9:11.0,7,2,NOP,WAS,2,away,DefReb,,,DefReb,,J. Wall,
+26,1,9:09.0,7,4,NOP,WAS,2,away,LU,assist,2,make2,2,O. Porter,J. Wall
+27,1,8:54.0,7,4,NOP,WAS,15,home,JS,,23,miss3,0,N. Mirotić,
+28,1,8:51.0,7,4,NOP,WAS,3,away,DefReb,,,DefReb,,J. Wall,
+29,1,8:46.0,7,4,NOP,WAS,5,away,LU,,1,miss2,0,K. Oubre,
+30,1,8:43.0,7,4,NOP,WAS,3,home,DefReb,,,DefReb,,E. Moore,
+31,1,8:33.0,10,4,NOP,WAS,10,home,JS,assist,26,make3,3,J. Holiday,A. Davis
+32,1,8:21.0,10,4,NOP,WAS,12,away,LU,block,1,miss2,0,B. Beal,J. Holiday
+33,1,8:17.0,10,4,NOP,WAS,4,away,OffReb,,,OffReb,,J. Wall,
+34,1,8:16.0,10,4,NOP,WAS,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Mirotić,J. Wall
+35,1,8:16.0,10,5,NOP,WAS,0,away,FreeThrow,,,make1,1,J. Wall,
+36,1,8:16.0,10,5,NOP,WAS,0,away,FreeThrow,,,make1,0,J. Wall,
+37,1,8:14.0,10,5,NOP,WAS,2,home,DefReb,,,DefReb,,J. Holiday,
+38,1,8:04.0,12,5,NOP,WAS,10,home,JS,assist,14,make2,2,A. Davis,E. Moore
+39,1,7:55.0,12,5,NOP,WAS,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Moore,O. Porter
+40,1,7:48.0,12,5,NOP,WAS,7,away,bad pass,steal,,turnover,,B. Beal,A. Davis
+41,1,7:44.0,12,5,NOP,WAS,4,home,BadPass,,,turnover,,T. Frazier,
+42,1,7:29.0,12,7,NOP,WAS,15,away,JS,,18,make2,2,J. Wall,
+43,1,7:20.0,12,7,NOP,WAS,9,home,JS,,24,miss3,0,J. Holiday,
+44,1,7:17.0,12,7,NOP,WAS,3,away,DefReb,,,DefReb,,O. Porter,
+45,1,7:11.0,12,7,NOP,WAS,6,away,LU,block,7,miss2,0,K. Oubre,A. Davis
+46,1,7:07.0,12,7,NOP,WAS,4,home,DefReb,,,DefReb,,J. Holiday,
+47,1,7:06.0,12,7,NOP,WAS,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Wall,T. Frazier
+48,1,7:06.0,13,7,NOP,WAS,0,home,FreeThrow,,,make1,1,T. Frazier,
+49,1,7:06.0,14,7,NOP,WAS,0,home,FreeThrow,,,make1,1,T. Frazier,
+50,1,6:54.0,14,10,NOP,WAS,12,away,JS,assist,25,make3,3,K. Oubre,B. Beal
+51,1,6:34.0,16,10,NOP,WAS,20,home,LU,assist,2,make2,2,J. Holiday,T. Frazier
+52,1,6:20.0,16,10,NOP,WAS,14,away,JS,,26,miss3,0,J. Wall,
+53,1,6:17.0,16,10,NOP,WAS,3,home,DefReb,,,DefReb,,A. Davis,
+54,1,6:10.0,16,10,NOP,WAS,7,home,JS,,26,miss3,0,N. Mirotić,
+55,1,6:07.0,16,10,NOP,WAS,3,away,DefReb,,,DefReb,,K. Oubre,
+56,1,5:58.0,16,10,NOP,WAS,9,away,JS,,25,miss3,0,B. Beal,
+57,1,5:54.0,16,10,NOP,WAS,4,home,DefReb,,,DefReb,,N. Mirotić,
+58,1,5:46.0,18,10,NOP,WAS,8,home,LU,assist,2,make2,2,J. Holiday,T. Frazier
+59,1,5:46.0,18,10,NOP,WAS,0,away,Timeout,,,,,,
+60,1,5:46.0,18,10,NOP,WAS,0,away,Sub,,,,,M. Morris,T. Bryant
+61,1,5:46.0,18,10,NOP,WAS,0,home,Sub,,,,,S. Hill,T. Frazier
+62,1,5:46.0,18,10,NOP,WAS,0,home,Sub,,,,,D. Miller,N. Mirotić
+63,1,5:46.0,18,10,NOP,WAS,0,home,Sub,,,,,J. Randle,E. Moore
+64,1,5:35.0,18,13,NOP,WAS,11,away,JS,assist,25,make3,3,K. Oubre,B. Beal
+65,1,5:19.0,18,13,NOP,WAS,16,home,JS,,25,miss3,0,J. Holiday,
+66,1,5:16.0,18,13,NOP,WAS,3,home,OffReb,,,OffReb,,Team,
+67,1,5:07.0,18,13,NOP,WAS,9,home,JS,,24,miss3,0,D. Miller,
+68,1,5:04.0,18,13,NOP,WAS,3,away,DefReb,,,DefReb,,B. Beal,
+69,1,4:50.0,18,13,NOP,WAS,14,away,JS,,25,miss3,0,J. Wall,
+70,1,4:48.0,18,13,NOP,WAS,2,home,DefReb,,,DefReb,,J. Randle,
+71,1,4:44.0,20,13,NOP,WAS,4,home,LU,,2,make2,2,J. Randle,
+72,1,4:35.0,20,13,NOP,WAS,9,away,JS,,25,miss3,0,B. Beal,
+73,1,4:31.0,20,13,NOP,WAS,4,home,DefReb,,,DefReb,,D. Miller,
+74,1,4:29.0,23,13,NOP,WAS,2,home,JS,,26,make3,3,J. Holiday,
+75,1,4:14.0,23,13,NOP,WAS,15,away,JS,,6,miss2,0,M. Morris,
+76,1,4:09.0,23,13,NOP,WAS,5,away,OffReb,,,OffReb,,K. Oubre,
+77,1,4:09.0,23,15,NOP,WAS,0,away,DK,,0,make2,2,K. Oubre,
+78,1,3:54.0,23,15,NOP,WAS,15,home,BadPass,,,turnover,,D. Miller,
+79,1,3:54.0,23,15,NOP,WAS,0,away,Sub,,,,,J. Green,O. Porter
+80,1,3:43.0,23,15,NOP,WAS,11,away,JS,,26,miss3,0,K. Oubre,
+81,1,3:38.0,23,15,NOP,WAS,5,home,DefReb,,,DefReb,,A. Davis,
+82,1,3:28.0,23,15,NOP,WAS,10,home,JS,,26,miss3,0,D. Miller,
+83,1,3:24.0,23,15,NOP,WAS,4,home,OffReb,,,OffReb,,S. Hill,
+84,1,3:19.0,23,15,NOP,WAS,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,A. Davis
+85,1,3:19.0,24,15,NOP,WAS,0,home,FreeThrow,,,make1,1,A. Davis,
+86,1,3:19.0,24,15,NOP,WAS,0,away,Sub,,,,,A. Rivers,B. Beal
+87,1,3:19.0,25,15,NOP,WAS,0,home,FreeThrow,,,make1,1,A. Davis,
+88,1,2:57.0,25,15,NOP,WAS,22,away,lost ball,steal,,turnover,,J. Wall,D. Miller
+89,1,2:51.0,25,15,NOP,WAS,6,home,lost ball,steal,,turnover,,J. Randle,K. Oubre
+90,1,2:40.0,25,15,NOP,WAS,11,away,LU,,2,miss2,0,J. Wall,
+91,1,2:38.0,25,15,NOP,WAS,2,home,DefReb,,,DefReb,,A. Davis,
+92,1,2:33.0,25,15,NOP,WAS,5,home,Timeout,,,,,,
+93,1,2:33.0,25,15,NOP,WAS,0,away,Sub,,,,,T. Satoranský,J. Wall
+94,1,2:33.0,25,15,NOP,WAS,0,home,Sub,,,,,C. Diallo,A. Davis
+95,1,2:25.0,27,15,NOP,WAS,8,home,JS,assist,7,make2,2,J. Randle,J. Holiday
+96,1,2:02.0,27,15,NOP,WAS,23,away,JS,,16,miss2,0,J. Green,
+97,1,1:58.0,27,15,NOP,WAS,4,home,DefReb,,,DefReb,,S. Hill,
+98,1,1:54.0,27,15,NOP,WAS,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Rivers,C. Diallo
+99,1,1:54.0,28,15,NOP,WAS,0,home,FreeThrow,,,make1,1,C. Diallo,
+100,1,1:54.0,29,15,NOP,WAS,0,home,FreeThrow,,,make1,1,C. Diallo,
+101,1,1:47.0,29,15,NOP,WAS,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Holiday,M. Morris
+102,1,1:42.0,29,15,NOP,WAS,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Miller,T. Satoranský
+103,1,1:42.0,29,16,NOP,WAS,0,away,FreeThrow,,,make1,1,T. Satoranský,
+104,1,1:42.0,29,16,NOP,WAS,0,away,FreeThrow,,,make1,0,T. Satoranský,
+105,1,1:39.0,29,16,NOP,WAS,3,home,DefReb,,,DefReb,,C. Diallo,
+106,1,1:31.0,29,16,NOP,WAS,8,home,bad pass,steal,,turnover,,J. Holiday,A. Rivers
+107,1,1:28.0,29,18,NOP,WAS,3,away,LU,assist,2,make2,2,K. Oubre,A. Rivers
+108,1,1:28.0,29,18,NOP,WAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Miller,K. Oubre
+109,1,1:28.0,29,18,NOP,WAS,0,away,FreeThrow,,,make1,0,K. Oubre,
+110,1,1:25.0,29,18,NOP,WAS,3,away,OffReb,,,OffReb,,M. Morris,
+111,1,1:16.0,29,18,NOP,WAS,9,away,JS,,4,miss2,0,A. Rivers,
+112,1,1:11.0,29,18,NOP,WAS,5,away,OffReb,,,OffReb,,J. Green,
+113,1,1:11.0,29,18,NOP,WAS,0,away,LU,,0,miss2,0,J. Green,
+114,1,1:10.0,29,18,NOP,WAS,1,home,DefReb,,,DefReb,,C. Diallo,
+115,1,1:10.0,29,18,NOP,WAS,0,home,Sub,,,,,I. Clark,J. Holiday
+116,1,1:10.0,29,18,NOP,WAS,0,home,Sub,,,,,E. Moore,D. Miller
+117,1,1:02.0,31,18,NOP,WAS,8,home,JS,,6,make2,2,J. Randle,
+118,1,0:48.0,31,18,NOP,WAS,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,T. Satoranský
+119,1,0:48.0,31,19,NOP,WAS,0,away,FreeThrow,,,make1,1,T. Satoranský,
+120,1,0:48.0,31,20,NOP,WAS,0,away,FreeThrow,,,make1,1,T. Satoranský,
+121,1,0:39.0,31,20,NOP,WAS,9,home,bad pass,steal,,turnover,,J. Randle,A. Rivers
+122,1,0:37.0,31,22,NOP,WAS,2,away,DK,assist,1,make2,2,K. Oubre,A. Rivers
+123,1,0:27.0,31,22,NOP,WAS,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Rivers,S. Hill
+124,1,0:27.0,31,22,NOP,WAS,0,home,FreeThrow,,,make1,0,S. Hill,
+125,1,0:27.0,31,22,NOP,WAS,0,home,OffReb,,,OffReb,,Team,
+126,1,0:27.0,31,22,NOP,WAS,0,home,FreeThrow,,,make1,0,S. Hill,
+127,1,0:23.0,31,22,NOP,WAS,4,away,DefReb,,,DefReb,,K. Oubre,
+128,1,0:07.0,31,22,NOP,WAS,16,away,JS,,25,miss3,0,M. Morris,
+129,1,0:03.0,31,22,NOP,WAS,4,away,OffReb,,,OffReb,,J. Green,
+130,1,0:02.0,31,22,NOP,WAS,1,away,JS,,8,miss2,0,J. Green,
+131,1,0:00.0,31,22,NOP,WAS,2,away,OffReb,,,OffReb,,T. Satoranský,
+132,1,0:00.0,31,24,NOP,WAS,0,away,LU,,2,make2,2,T. Satoranský,
+133,2,11:46.0,31,26,NOP,WAS,14,away,DK,assist,1,make2,2,J. Green,A. Rivers
+134,2,11:19.0,31,26,NOP,WAS,27,home,JS,,22,miss3,0,C. Diallo,
+135,2,11:16.0,31,26,NOP,WAS,3,away,DefReb,,,DefReb,,M. Morris,
+136,2,11:08.0,31,26,NOP,WAS,8,away,JS,,26,miss3,0,A. Rivers,
+137,2,11:06.0,31,26,NOP,WAS,2,home,DefReb,,,DefReb,,C. Diallo,
+138,2,10:59.0,31,26,NOP,WAS,7,home,JS,,26,miss3,0,T. Frazier,
+139,2,10:59.0,31,26,NOP,WAS,0,home,OffReb,,,OffReb,,C. Diallo,
+140,2,10:48.0,31,26,NOP,WAS,11,home,bad pass,steal,,turnover,,C. Diallo,A. Rivers
+141,2,10:44.0,31,26,NOP,WAS,4,away,lost ball,steal,,turnover,,A. Rivers,N. Mirotić
+142,2,10:41.0,33,26,NOP,WAS,3,home,DK,assist,1,make2,2,C. Diallo,N. Mirotić
+143,2,10:27.0,33,28,NOP,WAS,14,away,JS,,15,make2,2,M. Morris,
+144,2,10:27.0,33,28,NOP,WAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Frazier,M. Morris
+145,2,10:27.0,33,28,NOP,WAS,0,home,Sub,,,,,J. Randle,C. Diallo
+146,2,10:27.0,33,28,NOP,WAS,0,away,FreeThrow,,,make1,0,M. Morris,
+147,2,10:25.0,33,28,NOP,WAS,2,home,DefReb,,,DefReb,,J. Randle,
+148,2,10:17.0,33,28,NOP,WAS,8,home,JS,,25,miss3,0,W. Johnson,
+149,2,10:13.0,33,28,NOP,WAS,4,away,DefReb,,,DefReb,,T. Satoranský,
+150,2,10:08.0,33,28,NOP,WAS,5,away,JS,,2,miss2,0,T. Satoranský,
+151,2,10:06.0,33,28,NOP,WAS,2,home,DefReb,,,DefReb,,N. Mirotić,
+152,2,10:02.0,36,28,NOP,WAS,4,home,JS,assist,29,make3,3,N. Mirotić,T. Frazier
+153,2,9:36.0,36,30,NOP,WAS,26,away,LU,,1,make2,2,K. Oubre,
+154,2,9:28.0,38,30,NOP,WAS,8,home,LU,assist,1,make2,2,N. Mirotić,T. Frazier
+155,2,9:12.0,38,30,NOP,WAS,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Mirotić,K. Oubre
+156,2,9:12.0,38,30,NOP,WAS,0,away,Sub,,,,,B. Beal,K. Oubre
+157,2,9:06.0,38,30,NOP,WAS,6,away,LU,,1,miss2,0,M. Morris,
+158,2,9:04.0,38,30,NOP,WAS,2,home,DefReb,,,DefReb,,J. Randle,
+159,2,8:58.0,38,30,NOP,WAS,6,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Randle,M. Morris
+160,2,8:58.0,38,30,NOP,WAS,0,home,OffensiveFoul,,,turnover,,J. Randle,
+161,2,8:49.0,38,30,NOP,WAS,9,away,JS,,26,miss3,0,A. Rivers,
+162,2,8:46.0,38,30,NOP,WAS,3,home,DefReb,,,DefReb,,N. Mirotić,
+163,2,8:38.0,41,30,NOP,WAS,8,home,JS,,25,make3,3,T. Frazier,
+164,2,8:19.0,41,33,NOP,WAS,19,away,JS,assist,26,make3,3,M. Morris,B. Beal
+165,2,8:05.0,41,33,NOP,WAS,14,home,bad pass,steal,,turnover,,N. Mirotić,T. Satoranský
+166,2,7:58.0,41,36,NOP,WAS,7,away,JS,assist,22,make3,3,J. Green,A. Rivers
+167,2,7:48.0,41,36,NOP,WAS,10,home,Timeout,,,,,,
+168,2,7:48.0,41,36,NOP,WAS,0,home,Sub,,,,,A. Davis,W. Johnson
+169,2,7:48.0,41,36,NOP,WAS,0,home,Sub,,,,,J. Holiday,J. Randle
+170,2,7:28.0,41,36,NOP,WAS,20,home,LU,,3,miss2,0,A. Davis,
+171,2,7:28.0,41,36,NOP,WAS,0,home,OffReb,,,OffReb,,N. Mirotić,
+172,2,7:28.0,41,36,NOP,WAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Beal,N. Mirotić
+173,2,7:28.0,42,36,NOP,WAS,0,home,FreeThrow,,,make1,1,N. Mirotić,
+174,2,7:28.0,43,36,NOP,WAS,0,home,FreeThrow,,,make1,1,N. Mirotić,
+175,2,7:13.0,43,38,NOP,WAS,15,away,JS,assist,9,make2,2,M. Morris,B. Beal
+176,2,7:03.0,43,38,NOP,WAS,10,home,JS,,28,miss3,0,N. Mirotić,
+177,2,7:03.0,43,38,NOP,WAS,0,away,DefReb,,,DefReb,,A. Rivers,
+178,2,6:49.0,43,38,NOP,WAS,14,away,JS,,4,miss2,0,T. Satoranský,
+179,2,6:47.0,43,38,NOP,WAS,2,home,DefReb,,,DefReb,,A. Davis,
+180,2,6:42.0,46,38,NOP,WAS,5,home,JS,assist,26,make3,3,E. Moore,J. Holiday
+181,2,6:26.0,46,40,NOP,WAS,16,away,LU,assist,2,make2,2,J. Green,B. Beal
+182,2,6:18.0,48,40,NOP,WAS,8,home,LU,,2,make2,2,T. Frazier,
+183,2,6:18.0,48,40,NOP,WAS,0,away,Timeout,,,,,,
+184,2,6:18.0,48,40,NOP,WAS,0,away,Sub,,,,,K. Oubre,J. Green
+185,2,6:18.0,48,40,NOP,WAS,0,away,Sub,,,,,J. Wall,T. Satoranský
+186,2,5:59.0,48,40,NOP,WAS,19,away,lost ball,steal,,turnover,,B. Beal,E. Moore
+187,2,5:53.0,48,40,NOP,WAS,6,home,JS,,26,miss3,0,E. Moore,
+188,2,5:53.0,48,40,NOP,WAS,0,home,OffReb,,,OffReb,,Team,
+189,2,5:49.0,51,40,NOP,WAS,4,home,JS,assist,24,make3,3,T. Frazier,E. Moore
+190,2,5:49.0,51,40,NOP,WAS,0,home,Sub,,,,,J. Randle,N. Mirotić
+191,2,5:20.0,51,40,NOP,WAS,29,away,JS,,27,miss3,0,M. Morris,
+192,2,5:14.0,51,40,NOP,WAS,6,home,DefReb,,,DefReb,,J. Randle,
+193,2,5:05.0,53,40,NOP,WAS,9,home,JS,,15,make2,2,A. Davis,
+194,2,4:44.0,53,40,NOP,WAS,21,away,JS,block,3,miss2,0,M. Morris,J. Randle
+195,2,4:40.0,53,40,NOP,WAS,4,home,DefReb,,,DefReb,,T. Frazier,
+196,2,4:40.0,53,40,NOP,WAS,0,home,LU,block,3,miss2,0,E. Moore,B. Beal
+197,2,4:40.0,53,40,NOP,WAS,0,home,OffReb,,,OffReb,,Team,
+198,2,4:40.0,53,40,NOP,WAS,0,away,Sub,,,,,O. Porter,A. Rivers
+199,2,4:32.0,53,40,NOP,WAS,8,home,JS,,21,miss2,0,A. Davis,
+200,2,4:29.0,53,40,NOP,WAS,3,home,OffReb,,,OffReb,,J. Holiday,
+201,2,4:20.0,53,40,NOP,WAS,9,home,JS,,27,miss3,0,J. Holiday,
+202,2,4:15.0,53,40,NOP,WAS,5,away,DefReb,,,DefReb,,B. Beal,
+203,2,4:06.0,53,40,NOP,WAS,9,away,bad pass,steal,,turnover,,M. Morris,T. Frazier
+204,2,4:02.0,55,40,NOP,WAS,4,home,DK,assist,1,make2,2,J. Randle,T. Frazier
+205,2,4:02.0,55,40,NOP,WAS,0,away,Timeout,,,,,,
+206,2,4:02.0,55,40,NOP,WAS,0,home,Sub,,,,,D. Miller,E. Moore
+207,2,3:51.0,55,40,NOP,WAS,11,away,JS,,23,miss3,0,K. Oubre,
+208,2,3:47.0,55,40,NOP,WAS,4,home,DefReb,,,DefReb,,A. Davis,
+209,2,3:27.0,55,40,NOP,WAS,20,home,LU,block,3,miss2,0,J. Randle,K. Oubre
+210,2,3:27.0,55,40,NOP,WAS,0,home,OffReb,,,OffReb,,Team,
+211,2,3:27.0,55,40,NOP,WAS,0,home,AFPFoul,DrawnBy,,AFPFoul,,M. Morris,A. Davis
+212,2,3:27.0,56,40,NOP,WAS,0,home,FreeThrow,,,make1,1,A. Davis,
+213,2,3:17.0,56,40,NOP,WAS,10,home,JS,,25,miss3,0,T. Frazier,
+214,2,3:14.0,56,40,NOP,WAS,3,away,DefReb,,,DefReb,,O. Porter,
+215,2,3:09.0,56,40,NOP,WAS,5,away,JS,,8,miss2,0,K. Oubre,
+216,2,3:07.0,56,40,NOP,WAS,2,home,DefReb,,,DefReb,,A. Davis,
+217,2,2:57.0,56,40,NOP,WAS,10,home,LU,,5,miss2,0,J. Randle,
+218,2,2:54.0,56,40,NOP,WAS,3,away,DefReb,,,DefReb,,M. Morris,
+219,2,2:49.0,56,40,NOP,WAS,5,away,JS,,24,miss3,0,M. Morris,
+220,2,2:45.0,56,40,NOP,WAS,4,home,DefReb,,,DefReb,,J. Holiday,
+221,2,2:30.0,56,40,NOP,WAS,15,home,JS,,12,miss2,0,A. Davis,
+222,2,2:28.0,56,40,NOP,WAS,2,home,OffReb,,,OffReb,,J. Randle,
+223,2,2:26.0,56,40,NOP,WAS,2,home,LU,,3,miss2,0,J. Randle,
+224,2,2:24.0,56,40,NOP,WAS,2,home,OffReb,,,OffReb,,J. Randle,
+225,2,2:23.0,58,40,NOP,WAS,1,home,LU,,2,make2,2,J. Randle,
+226,2,1:58.0,58,43,NOP,WAS,25,away,JS,assist,25,make3,3,J. Wall,B. Beal
+227,2,1:43.0,60,43,NOP,WAS,15,home,LU,,2,make2,2,J. Holiday,
+228,2,1:32.0,60,43,NOP,WAS,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,J. Wall
+229,2,1:32.0,60,44,NOP,WAS,0,away,FreeThrow,,,make1,1,J. Wall,
+230,2,1:32.0,60,44,NOP,WAS,0,away,Sub,,,,,J. Green,M. Morris
+231,2,1:32.0,60,45,NOP,WAS,0,away,FreeThrow,,,make1,1,J. Wall,
+232,2,1:19.0,62,45,NOP,WAS,13,home,LU,assist,1,make2,2,A. Davis,J. Holiday
+233,2,0:59.0,62,45,NOP,WAS,20,away,LU,,5,miss2,0,K. Oubre,
+234,2,0:59.0,62,45,NOP,WAS,0,away,OffReb,,,OffReb,,O. Porter,
+235,2,0:58.0,62,45,NOP,WAS,1,away,LU,,0,miss2,0,O. Porter,
+236,2,0:58.0,62,45,NOP,WAS,0,away,OffReb,,,OffReb,,K. Oubre,
+237,2,0:55.0,62,45,NOP,WAS,3,away,LU,block,0,miss2,0,K. Oubre,A. Davis
+238,2,0:54.0,62,45,NOP,WAS,1,home,DefReb,,,DefReb,,J. Holiday,
+239,2,0:52.0,64,45,NOP,WAS,2,home,LU,assist,3,make2,2,J. Randle,T. Frazier
+240,2,0:52.0,64,45,NOP,WAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Wall,J. Randle
+241,2,0:52.0,65,45,NOP,WAS,0,home,FreeThrow,,,make1,1,J. Randle,
+242,2,0:40.0,65,47,NOP,WAS,12,away,LU,assist,2,make2,2,B. Beal,J. Wall
+243,2,0:33.0,65,47,NOP,WAS,7,home,bad pass,steal,,turnover,,T. Frazier,B. Beal
+244,2,0:29.0,65,47,NOP,WAS,4,away,bad pass,steal,,turnover,,B. Beal,T. Frazier
+245,2,0:26.0,65,47,NOP,WAS,3,home,JS,,26,miss3,0,D. Miller,
+246,2,0:25.0,65,47,NOP,WAS,1,home,OffReb,,,OffReb,,J. Randle,
+247,2,0:25.0,67,47,NOP,WAS,0,home,LU,,1,make2,2,J. Randle,
+248,2,0:04.0,67,47,NOP,WAS,21,away,LU,,1,miss2,0,B. Beal,
+249,2,0:02.0,67,47,NOP,WAS,2,home,DefReb,,,DefReb,,A. Davis,
+250,2,0:00.0,67,47,NOP,WAS,2,home,JS,,39,miss3,0,A. Davis,
+251,2,0:00.0,67,47,NOP,WAS,0,home,OffReb,,,OffReb,,Team,
+252,3,11:48.0,67,47,NOP,WAS,12,away,JS,,25,miss3,0,O. Porter,
+253,3,11:43.0,67,47,NOP,WAS,5,home,DefReb,,,DefReb,,T. Frazier,
+254,3,11:41.0,69,47,NOP,WAS,2,home,LU,assist,3,make2,2,E. Moore,T. Frazier
+255,3,11:22.0,69,49,NOP,WAS,19,away,LU,assist,2,make2,2,J. Wall,B. Beal
+256,3,11:13.0,69,49,NOP,WAS,9,home,bad pass,steal,,turnover,,J. Holiday,O. Porter
+257,3,11:03.0,69,49,NOP,WAS,10,away,bad pass,steal,,turnover,,J. Wall,J. Holiday
+258,3,10:51.0,71,49,NOP,WAS,12,home,LU,assist,3,make2,2,A. Davis,T. Frazier
+259,3,10:35.0,71,51,NOP,WAS,16,away,JS,assist,21,make2,2,B. Beal,J. Wall
+260,3,10:28.0,71,51,NOP,WAS,7,home,LU,,1,miss2,0,E. Moore,
+261,3,10:25.0,71,51,NOP,WAS,3,away,DefReb,,,DefReb,,T. Bryant,
+262,3,10:17.0,71,53,NOP,WAS,8,away,JS,assist,9,make2,2,K. Oubre,J. Wall
+263,3,10:01.0,71,53,NOP,WAS,16,home,bad pass,steal,,turnover,,J. Holiday,B. Beal
+264,3,9:57.0,71,56,NOP,WAS,4,away,JS,assist,23,make3,3,O. Porter,J. Wall
+265,3,9:55.0,71,56,NOP,WAS,2,home,Timeout,,,,,,
+266,3,9:41.0,71,56,NOP,WAS,14,home,lost ball,steal,,turnover,,E. Moore,K. Oubre
+267,3,9:37.0,71,56,NOP,WAS,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Frazier,T. Bryant
+268,3,9:24.0,71,58,NOP,WAS,13,away,JS,,17,make2,2,J. Wall,
+269,3,9:10.0,71,58,NOP,WAS,14,home,JS,,27,miss3,0,A. Davis,
+270,3,9:10.0,71,58,NOP,WAS,0,away,DefReb,,,DefReb,,B. Beal,
+271,3,9:02.0,71,60,NOP,WAS,8,away,JS,,16,make2,2,J. Wall,
+272,3,8:50.0,73,60,NOP,WAS,12,home,LU,,2,make2,2,A. Davis,
+273,3,8:30.0,73,62,NOP,WAS,20,away,LU,assist,2,make2,2,B. Beal,J. Wall
+274,3,8:21.0,75,62,NOP,WAS,9,home,JS,assist,13,make2,2,E. Moore,T. Frazier
+275,3,8:06.0,75,62,NOP,WAS,15,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Bryant,T. Frazier
+276,3,8:06.0,75,62,NOP,WAS,0,away,OffensiveFoul,,,turnover,,T. Bryant,
+277,3,7:58.0,75,62,NOP,WAS,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,O. Porter,A. Davis
+278,3,7:57.0,78,62,NOP,WAS,1,home,JS,assist,26,make3,3,A. Davis,T. Frazier
+279,3,7:43.0,78,64,NOP,WAS,14,away,JS,,13,make2,2,J. Wall,
+280,3,7:26.0,78,64,NOP,WAS,17,home,JS,,23,miss2,0,N. Mirotić,
+281,3,7:24.0,78,64,NOP,WAS,2,home,OffReb,,,OffReb,,A. Davis,
+282,3,7:24.0,80,64,NOP,WAS,0,home,JS,,7,make2,2,A. Davis,
+283,3,7:24.0,80,64,NOP,WAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Bryant,A. Davis
+284,3,7:24.0,80,64,NOP,WAS,0,away,Sub,,,,,M. Morris,T. Bryant
+285,3,7:24.0,81,64,NOP,WAS,0,home,FreeThrow,,,make1,1,A. Davis,
+286,3,7:05.0,81,66,NOP,WAS,19,away,LU,,3,make2,2,B. Beal,
+287,3,6:44.0,83,66,NOP,WAS,21,home,JS,,13,make2,2,E. Moore,
+288,3,6:31.0,83,66,NOP,WAS,13,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Wall,J. Holiday
+289,3,6:31.0,83,66,NOP,WAS,0,away,OffensiveFoul,,,turnover,,J. Wall,
+290,3,6:25.0,83,66,NOP,WAS,6,home,JS,,26,miss3,0,A. Davis,
+291,3,6:20.0,83,66,NOP,WAS,5,away,DefReb,,,DefReb,,K. Oubre,
+292,3,6:13.0,83,66,NOP,WAS,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,J. Wall
+293,3,6:13.0,83,67,NOP,WAS,0,away,FreeThrow,,,make1,1,J. Wall,
+294,3,6:13.0,83,67,NOP,WAS,0,away,FreeThrow,,,make1,0,J. Wall,
+295,3,6:10.0,83,67,NOP,WAS,3,home,DefReb,,,DefReb,,T. Frazier,
+296,3,6:05.0,83,67,NOP,WAS,5,home,OutOfBoundsLB,,,turnover,,A. Davis,
+297,3,5:51.0,83,67,NOP,WAS,14,away,JS,,26,miss3,0,K. Oubre,
+298,3,5:47.0,83,67,NOP,WAS,4,home,DefReb,,,DefReb,,J. Holiday,
+299,3,5:37.0,83,67,NOP,WAS,10,home,JS,,4,miss2,0,E. Moore,
+300,3,5:35.0,83,67,NOP,WAS,2,home,OffReb,,,OffReb,,T. Frazier,
+301,3,5:31.0,86,67,NOP,WAS,4,home,JS,assist,26,make3,3,A. Davis,J. Holiday
+302,3,5:28.0,86,67,NOP,WAS,3,away,Timeout,,,,,,
+303,3,5:28.0,86,67,NOP,WAS,0,home,Sub,,,,,W. Johnson,T. Frazier
+304,3,5:28.0,86,67,NOP,WAS,0,home,Sub,,,,,D. Miller,N. Mirotić
+305,3,5:28.0,86,67,NOP,WAS,0,home,Sub,,,,,J. Randle,E. Moore
+306,3,5:22.0,86,67,NOP,WAS,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Johnson,M. Morris
+307,3,5:08.0,86,69,NOP,WAS,14,away,LU,,3,make2,2,B. Beal,
+308,3,4:45.0,86,69,NOP,WAS,23,home,LU,,2,miss2,0,J. Holiday,
+309,3,4:45.0,86,69,NOP,WAS,0,away,DefReb,,,DefReb,,J. Wall,
+310,3,4:40.0,86,69,NOP,WAS,5,away,LU,,2,miss2,0,J. Wall,
+311,3,4:37.0,86,69,NOP,WAS,3,home,DefReb,,,DefReb,,A. Davis,
+312,3,4:30.0,86,69,NOP,WAS,7,home,LU,,1,miss2,0,J. Randle,
+313,3,4:30.0,86,69,NOP,WAS,0,home,OffReb,,,OffReb,,A. Davis,
+314,3,4:30.0,86,69,NOP,WAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Beal,A. Davis
+315,3,4:30.0,87,69,NOP,WAS,0,home,FreeThrow,,,make1,1,A. Davis,
+316,3,4:30.0,88,69,NOP,WAS,0,home,FreeThrow,,,make1,1,A. Davis,
+317,3,4:24.0,88,69,NOP,WAS,6,away,JS,,25,miss3,0,B. Beal,
+318,3,4:22.0,88,69,NOP,WAS,2,home,DefReb,,,DefReb,,J. Randle,
+319,3,4:16.0,88,69,NOP,WAS,6,home,BadPass,,,turnover,,A. Davis,
+320,3,4:05.0,88,72,NOP,WAS,11,away,JS,assist,26,make3,3,K. Oubre,B. Beal
+321,3,3:53.0,88,72,NOP,WAS,12,home,JS,,19,miss2,0,D. Miller,
+322,3,3:49.0,88,72,NOP,WAS,4,away,DefReb,,,DefReb,,O. Porter,
+323,3,3:42.0,88,75,NOP,WAS,7,away,JS,assist,28,make3,3,B. Beal,J. Wall
+324,3,3:24.0,88,75,NOP,WAS,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,A. Davis
+325,3,3:24.0,88,75,NOP,WAS,0,away,Sub,,,,,J. Green,O. Porter
+326,3,3:12.0,88,75,NOP,WAS,12,home,JS,,23,miss3,0,J. Randle,
+327,3,3:09.0,88,75,NOP,WAS,3,away,DefReb,,,DefReb,,K. Oubre,
+328,3,3:05.0,88,75,NOP,WAS,4,away,JS,,28,miss3,0,B. Beal,
+329,3,2:57.0,88,75,NOP,WAS,8,home,DefReb,,,DefReb,,D. Miller,
+330,3,2:55.0,88,75,NOP,WAS,2,home,JS,,12,miss2,0,A. Davis,
+331,3,2:53.0,88,75,NOP,WAS,2,away,DefReb,,,DefReb,,M. Morris,
+332,3,2:40.0,88,75,NOP,WAS,13,away,JS,,26,miss3,0,J. Wall,
+333,3,2:37.0,88,75,NOP,WAS,3,home,DefReb,,,DefReb,,A. Davis,
+334,3,2:35.0,88,75,NOP,WAS,2,home,OutOfBounds,,,turnover,,J. Randle,
+335,3,2:24.0,88,75,NOP,WAS,11,away,JS,,27,miss3,0,M. Morris,
+336,3,2:21.0,88,75,NOP,WAS,3,home,DefReb,,,DefReb,,J. Randle,
+337,3,2:13.0,90,75,NOP,WAS,8,home,LU,,2,make2,2,J. Holiday,
+338,3,2:00.0,90,75,NOP,WAS,13,away,bad pass,steal,,turnover,,J. Wall,D. Miller
+339,3,1:55.0,90,75,NOP,WAS,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Wall,J. Holiday
+340,3,1:55.0,90,75,NOP,WAS,0,away,TechnicalFoul,,,TechnicalFoul,,J. Wall,
+341,3,1:55.0,91,75,NOP,WAS,0,home,FreeThrow,,,make1,1,A. Davis makes technical free throw,
+342,3,1:55.0,91,75,NOP,WAS,0,away,Sub,,,,,T. Satoranský,J. Wall
+343,3,1:55.0,91,75,NOP,WAS,0,home,Sub,,,,,N. Mirotić,A. Davis
+344,3,1:55.0,91,75,NOP,WAS,0,home,FreeThrow,,,make1,0,J. Holiday,
+345,3,1:55.0,91,75,NOP,WAS,0,home,OffReb,,,OffReb,,Team,
+346,3,1:55.0,92,75,NOP,WAS,0,home,FreeThrow,,,make1,1,J. Holiday,
+347,3,1:46.0,92,75,NOP,WAS,9,away,JS,,23,miss3,0,J. Green,
+348,3,1:38.0,92,75,NOP,WAS,8,away,OffReb,,,OffReb,,M. Morris,
+349,3,1:38.0,92,77,NOP,WAS,0,away,LU,,1,make2,2,M. Morris,
+350,3,1:38.0,92,77,NOP,WAS,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Randle,J. Green
+351,3,1:38.0,92,77,NOP,WAS,0,home,OffensiveFoul,,,turnover,,J. Randle,
+352,3,1:38.0,92,77,NOP,WAS,0,away,Sub,,,,,A. Rivers,K. Oubre
+353,3,1:29.0,92,77,NOP,WAS,9,away,D3SecTech,,,,,,
+354,3,1:29.0,92,78,NOP,WAS,0,away,FreeThrow,,,make1,1,B. Beal makes technical free throw,
+355,3,1:20.0,92,81,NOP,WAS,9,away,JS,assist,25,make3,3,M. Morris,B. Beal
+356,3,1:11.0,92,81,NOP,WAS,9,home,LU,,2,miss2,0,N. Mirotić,
+357,3,1:10.0,92,81,NOP,WAS,1,away,DefReb,,,DefReb,,Team,
+358,3,1:01.0,92,81,NOP,WAS,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Johnson,B. Beal
+359,3,1:01.0,92,81,NOP,WAS,0,home,Sub,,,,,S. Hill,W. Johnson
+360,3,0:59.0,92,81,NOP,WAS,2,away,JS,,17,miss2,0,T. Satoranský,
+361,3,0:56.0,92,81,NOP,WAS,3,home,DefReb,,,DefReb,,N. Mirotić,
+362,3,0:51.0,94,81,NOP,WAS,5,home,DK,,4,make2,2,J. Holiday,
+363,3,0:43.0,94,81,NOP,WAS,8,away,Traveling,,,turnover,,T. Satoranský,
+364,3,0:34.0,94,81,NOP,WAS,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Satoranský,J. Holiday
+365,3,0:34.0,94,81,NOP,WAS,0,home,FreeThrow,,,make1,0,J. Holiday,
+366,3,0:34.0,94,81,NOP,WAS,0,home,OffReb,,,OffReb,,Team,
+367,3,0:34.0,95,81,NOP,WAS,0,home,FreeThrow,,,make1,1,J. Holiday,
+368,3,0:13.0,95,81,NOP,WAS,21,away,JS,,28,miss3,0,J. Green,
+369,3,0:08.0,95,81,NOP,WAS,5,home,DefReb,,,DefReb,,N. Mirotić,
+370,3,0:01.0,98,81,NOP,WAS,7,home,JS,assist,29,make3,3,N. Mirotić,J. Holiday
+371,4,11:45.0,100,81,NOP,WAS,15,home,JS,,8,make2,2,J. Randle,
+372,4,11:32.0,100,81,NOP,WAS,13,away,JS,,20,miss2,0,B. Beal,
+373,4,11:27.0,100,81,NOP,WAS,5,home,DefReb,,,DefReb,,E. Moore,
+374,4,11:19.0,100,81,NOP,WAS,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Satoranský,E. Moore
+375,4,11:19.0,101,81,NOP,WAS,0,home,FreeThrow,,,make1,1,E. Moore,
+376,4,11:19.0,101,81,NOP,WAS,0,home,FreeThrow,,,make1,0,E. Moore,
+377,4,11:16.0,101,81,NOP,WAS,3,away,DefReb,,,DefReb,,M. Morris,
+378,4,11:03.0,101,81,NOP,WAS,13,away,JS,block,6,miss2,0,J. Green,N. Mirotić
+379,4,11:00.0,101,81,NOP,WAS,3,home,DefReb,,,DefReb,,J. Randle,
+380,4,10:50.0,101,81,NOP,WAS,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Rivers,N. Mirotić
+381,4,10:50.0,102,81,NOP,WAS,0,home,FreeThrow,,,make1,1,N. Mirotić,
+382,4,10:50.0,103,81,NOP,WAS,0,home,FreeThrow,,,make1,1,N. Mirotić,
+383,4,10:34.0,103,81,NOP,WAS,16,away,BadPass,,,turnover,,A. Rivers,
+384,4,10:23.0,103,81,NOP,WAS,11,home,JS,,27,miss3,0,N. Mirotić,
+385,4,10:21.0,103,81,NOP,WAS,2,away,DefReb,,,DefReb,,M. Morris,
+386,4,10:15.0,103,84,NOP,WAS,6,away,JS,assist,27,make3,3,M. Morris,A. Rivers
+387,4,10:04.0,105,84,NOP,WAS,11,home,LU,,2,make2,2,T. Frazier,
+388,4,9:54.0,105,84,NOP,WAS,10,away,bad pass,steal,,turnover,,T. Satoranský,J. Randle
+389,4,9:45.0,105,84,NOP,WAS,9,home,LU,,3,miss2,0,N. Mirotić,
+390,4,9:43.0,105,84,NOP,WAS,2,home,OffReb,,,OffReb,,J. Randle,
+391,4,9:43.0,107,84,NOP,WAS,0,home,LU,,0,make2,2,J. Randle,
+392,4,9:28.0,107,84,NOP,WAS,15,away,JS,,23,miss3,0,A. Rivers,
+393,4,9:24.0,107,84,NOP,WAS,4,home,DefReb,,,DefReb,,N. Mirotić,
+394,4,9:18.0,107,84,NOP,WAS,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Satoranský,E. Moore
+395,4,9:14.0,107,84,NOP,WAS,4,home,lost ball,steal,,turnover,,J. Randle,M. Morris
+396,4,9:09.0,107,86,NOP,WAS,5,away,LU,,2,make2,2,A. Rivers,
+397,4,8:51.0,107,86,NOP,WAS,18,home,JS,,26,miss3,0,T. Frazier,
+398,4,8:48.0,107,86,NOP,WAS,3,away,DefReb,,,DefReb,,B. Beal,
+399,4,8:42.0,107,86,NOP,WAS,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Mirotić,B. Beal
+400,4,8:42.0,107,86,NOP,WAS,0,home,Sub,,,,,A. Davis,J. Randle
+401,4,8:29.0,107,88,NOP,WAS,13,away,JS,assist,15,make2,2,M. Morris,B. Beal
+402,4,8:12.0,107,88,NOP,WAS,17,home,LU,,2,miss2,0,A. Davis,
+403,4,8:08.0,107,88,NOP,WAS,4,home,OffReb,,,OffReb,,A. Davis,
+404,4,8:08.0,109,88,NOP,WAS,0,home,DK,,0,make2,2,A. Davis,
+405,4,8:00.0,109,91,NOP,WAS,8,away,JS,assist,26,make3,3,J. Green,B. Beal
+406,4,7:40.0,109,91,NOP,WAS,20,home,JS,,26,miss3,0,A. Davis,
+407,4,7:37.0,109,91,NOP,WAS,3,home,OffReb,,,OffReb,,T. Frazier,
+408,4,7:28.0,109,91,NOP,WAS,9,home,JS,,25,miss3,0,T. Frazier,
+409,4,7:22.0,109,91,NOP,WAS,6,away,DefReb,,,DefReb,,A. Rivers,
+410,4,7:17.0,109,91,NOP,WAS,5,away,JS,,25,miss3,0,M. Morris,
+411,4,7:14.0,109,91,NOP,WAS,3,away,OffReb,,,OffReb,,B. Beal,
+412,4,7:12.0,109,91,NOP,WAS,2,away,JS,,27,miss3,0,J. Green,
+413,4,7:07.0,109,91,NOP,WAS,5,home,DefReb,,,DefReb,,A. Davis,
+414,4,7:05.0,109,91,NOP,WAS,2,home,Timeout,,,,,,
+415,4,7:05.0,109,91,NOP,WAS,0,away,Sub,,,,,K. Oubre,B. Beal
+416,4,7:05.0,109,91,NOP,WAS,0,away,Sub,,,,,O. Porter,J. Green
+417,4,7:05.0,109,91,NOP,WAS,0,home,Sub,,,,,J. Holiday,E. Moore
+418,4,6:55.0,109,91,NOP,WAS,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,O. Porter,A. Davis
+419,4,6:48.0,109,91,NOP,WAS,7,home,JS,,24,miss3,0,N. Mirotić,
+420,4,6:44.0,109,91,NOP,WAS,4,away,DefReb,,,DefReb,,Team,
+421,4,6:24.0,109,91,NOP,WAS,20,away,JS,,13,miss2,0,O. Porter,
+422,4,6:20.0,109,91,NOP,WAS,4,home,DefReb,,,DefReb,,N. Mirotić,
+423,4,6:10.0,109,91,NOP,WAS,10,home,lost ball,steal,,turnover,,T. Frazier,A. Rivers
+424,4,6:03.0,109,91,NOP,WAS,7,away,LU,,1,miss2,0,A. Rivers,
+425,4,5:56.0,109,91,NOP,WAS,7,away,OffReb,,,OffReb,,M. Morris,
+426,4,5:56.0,109,93,NOP,WAS,0,away,LU,,1,make2,2,M. Morris,
+427,4,5:46.0,109,93,NOP,WAS,10,home,JS,,25,miss3,0,J. Holiday,
+428,4,5:39.0,109,93,NOP,WAS,7,away,DefReb,,,DefReb,,M. Morris,
+429,4,5:36.0,109,96,NOP,WAS,3,away,JS,assist,26,make3,3,K. Oubre,T. Satoranský
+430,4,5:17.0,109,96,NOP,WAS,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,A. Davis
+431,4,5:17.0,109,96,NOP,WAS,0,home,FreeThrow,,,make1,0,A. Davis,
+432,4,5:17.0,109,96,NOP,WAS,0,home,OffReb,,,OffReb,,Team,
+433,4,5:17.0,109,96,NOP,WAS,0,home,Sub,,,,,J. Randle,N. Mirotić
+434,4,5:17.0,110,96,NOP,WAS,0,home,FreeThrow,,,make1,1,A. Davis,
+435,4,5:08.0,110,96,NOP,WAS,9,away,JS,,26,miss3,0,K. Oubre,
+436,4,5:04.0,110,96,NOP,WAS,4,home,DefReb,,,DefReb,,T. Frazier,
+437,4,4:56.0,110,96,NOP,WAS,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Oubre,J. Randle
+438,4,4:56.0,111,96,NOP,WAS,0,home,FreeThrow,,,make1,1,J. Randle,
+439,4,4:56.0,112,96,NOP,WAS,0,home,FreeThrow,,,make1,1,J. Randle,
+440,4,4:42.0,112,96,NOP,WAS,14,away,OutOfBoundsLB,,,turnover,,A. Rivers,
+441,4,4:27.0,114,96,NOP,WAS,15,home,LU,,1,make2,2,J. Holiday,
+442,4,4:12.0,114,99,NOP,WAS,15,away,JS,assist,26,make3,3,M. Morris,O. Porter
+443,4,3:58.0,114,99,NOP,WAS,14,home,JS,,6,miss2,0,J. Holiday,
+444,4,3:57.0,114,99,NOP,WAS,1,home,OffReb,,,OffReb,,S. Hill,
+445,4,3:56.0,116,99,NOP,WAS,1,home,LU,,0,make2,2,S. Hill,
+446,4,3:39.0,116,99,NOP,WAS,17,away,JS,,23,miss2,0,O. Porter,
+447,4,3:37.0,116,99,NOP,WAS,2,home,DefReb,,,DefReb,,A. Davis,
+448,4,3:34.0,116,99,NOP,WAS,3,home,Timeout,,,,,,
+449,4,3:34.0,116,99,NOP,WAS,0,away,Sub,,,,,T. Brown,M. Morris
+450,4,3:34.0,116,99,NOP,WAS,0,away,Sub,,,,,T. Bryant,K. Oubre
+451,4,3:34.0,116,99,NOP,WAS,0,away,Sub,,,,,D. Robinson,O. Porter
+452,4,3:14.0,116,99,NOP,WAS,20,home,lost ball,steal,,turnover,,J. Randle,D. Robinson
+453,4,3:10.0,116,99,NOP,WAS,4,away,BadPass,,,turnover,,T. Satoranský,
+454,4,2:55.0,116,99,NOP,WAS,15,home,JS,,21,miss2,0,J. Holiday,
+455,4,2:49.0,116,99,NOP,WAS,6,home,OffReb,,,OffReb,,S. Hill,
+456,4,2:42.0,118,99,NOP,WAS,7,home,JS,,11,make2,2,J. Holiday,
+457,4,2:31.0,118,99,NOP,WAS,11,away,LU,,3,miss2,0,T. Brown,
+458,4,2:27.0,118,99,NOP,WAS,4,home,DefReb,,,DefReb,,J. Randle,
+459,4,2:13.0,120,99,NOP,WAS,14,home,LU,assist,2,make2,2,J. Randle,A. Davis
+460,4,2:01.0,120,101,NOP,WAS,12,away,JS,assist,23,make2,2,T. Satoranský,D. Robinson
+461,4,1:39.0,123,101,NOP,WAS,22,home,JS,assist,22,make3,3,J. Holiday,A. Davis
+462,4,1:38.0,123,101,NOP,WAS,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Frazier,T. Satoranský
+463,4,1:38.0,123,101,NOP,WAS,0,home,Sub,,,,,I. Clark,A. Davis
+464,4,1:38.0,123,101,NOP,WAS,0,home,Sub,,,,,C. Diallo,S. Hill
+465,4,1:38.0,123,101,NOP,WAS,0,home,Sub,,,,,J. Okafor,J. Holiday
+466,4,1:38.0,123,101,NOP,WAS,0,home,Sub,,,,,K. Williams,J. Randle
+467,4,1:21.0,123,101,NOP,WAS,17,away,JS,,26,miss3,0,A. Rivers,
+468,4,1:16.0,123,101,NOP,WAS,5,home,DefReb,,,DefReb,,J. Okafor,
+469,4,0:58.0,125,101,NOP,WAS,18,home,JS,assist,13,make2,2,C. Diallo,T. Frazier
+470,4,0:37.0,125,103,NOP,WAS,21,away,LU,,4,make2,2,D. Robinson,
+471,4,0:37.0,125,103,NOP,WAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Okafor,D. Robinson
+472,4,0:37.0,125,103,NOP,WAS,0,away,FreeThrow,,,make1,0,D. Robinson,
+473,4,0:37.0,125,103,NOP,WAS,0,home,DefReb,,,DefReb,,C. Diallo,
+474,4,0:16.0,125,103,NOP,WAS,21,home,JS,,16,miss2,0,K. Williams,
+475,4,0:12.0,125,103,NOP,WAS,4,away,DefReb,,,DefReb,,T. Bryant,
+476,4,0:05.0,125,103,NOP,WAS,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Diallo,T. Brown
+477,4,0:05.0,125,103,NOP,WAS,0,away,FreeThrow,,,make1,0,T. Brown,
+478,4,0:05.0,125,103,NOP,WAS,0,away,OffReb,,,OffReb,,Team,
+479,4,0:05.0,125,104,NOP,WAS,0,away,FreeThrow,,,make1,1,T. Brown,

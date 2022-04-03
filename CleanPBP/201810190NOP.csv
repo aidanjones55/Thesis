@@ -1,0 +1,487 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:42.0,0,0,NOP,SAC,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,A. Davis
+1,1,11:42.0,0,0,NOP,SAC,0,home,FreeThrow,,,make1,0,A. Davis,
+2,1,11:42.0,0,0,NOP,SAC,0,home,OffReb,,,OffReb,,Team,
+3,1,11:42.0,1,0,NOP,SAC,0,home,FreeThrow,,,make1,1,A. Davis,
+4,1,11:23.0,1,3,NOP,SAC,19,away,JS,assist,26,make3,3,B. Hield,Y. Ferrell
+5,1,11:10.0,1,3,NOP,SAC,13,home,JS,,28,miss3,0,J. Holiday,
+6,1,11:09.0,1,3,NOP,SAC,1,home,OffReb,,,OffReb,,E. Payton,
+7,1,11:01.0,4,3,NOP,SAC,8,home,JS,assist,26,make3,3,N. Mirotić,E. Moore
+8,1,10:48.0,4,5,NOP,SAC,13,away,JS,assist,14,make2,2,W. Cauley-Stein,D. Fox
+9,1,10:33.0,6,5,NOP,SAC,15,home,JS,assist,6,make2,2,E. Payton,A. Davis
+10,1,10:18.0,6,5,NOP,SAC,15,away,JS,block,9,miss2,0,N. Bjelica,E. Moore
+11,1,10:09.0,6,5,NOP,SAC,9,home,DefReb,,,DefReb,,N. Mirotić,
+12,1,10:07.0,8,5,NOP,SAC,2,home,JS,assist,6,make2,2,J. Holiday,N. Mirotić
+13,1,9:56.0,8,7,NOP,SAC,11,away,DK,assist,0,make2,2,W. Cauley-Stein,B. Hield
+14,1,9:45.0,8,7,NOP,SAC,11,home,BadPass,,,turnover,,A. Davis,
+15,1,9:36.0,8,7,NOP,SAC,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Moore,Y. Ferrell
+16,1,9:30.0,8,7,NOP,SAC,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Davis,W. Cauley-Stein
+17,1,9:24.0,8,7,NOP,SAC,6,away,JS,block,14,miss2,0,D. Fox,E. Payton
+18,1,9:21.0,8,7,NOP,SAC,3,home,DefReb,,,DefReb,,E. Payton,
+19,1,9:18.0,10,7,NOP,SAC,3,home,LU,,5,make2,2,N. Mirotić,
+20,1,9:18.0,10,7,NOP,SAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,N. Mirotić
+21,1,9:18.0,11,7,NOP,SAC,0,home,FreeThrow,,,make1,1,N. Mirotić,
+22,1,9:02.0,11,9,NOP,SAC,16,away,LU,,2,make2,2,W. Cauley-Stein,
+23,1,8:49.0,11,9,NOP,SAC,13,home,JS,,9,miss2,0,A. Davis,
+24,1,8:49.0,11,9,NOP,SAC,0,home,OffReb,,,OffReb,,Team,
+25,1,8:49.0,11,9,NOP,SAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,N. Bjelica,N. Mirotić
+26,1,8:49.0,11,9,NOP,SAC,0,away,Sub,,,,,M. Bagley,N. Bjelica
+27,1,8:44.0,13,9,NOP,SAC,5,home,LU,assist,1,make2,2,E. Moore,A. Davis
+28,1,8:31.0,13,11,NOP,SAC,13,away,JS,,14,make2,2,D. Fox,
+29,1,8:20.0,13,11,NOP,SAC,11,home,bad pass,steal,,turnover,,J. Holiday,M. Bagley
+30,1,8:08.0,13,11,NOP,SAC,12,away,LU,,3,miss2,0,W. Cauley-Stein,
+31,1,8:04.0,13,11,NOP,SAC,4,home,DefReb,,,DefReb,,N. Mirotić,
+32,1,8:02.0,13,11,NOP,SAC,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Bagley,A. Davis
+33,1,8:02.0,13,11,NOP,SAC,0,away,Sub,,,,,I. Shumpert,Y. Ferrell
+34,1,7:55.0,13,11,NOP,SAC,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,A. Davis
+35,1,7:55.0,13,11,NOP,SAC,0,home,FreeThrow,,,make1,0,A. Davis,
+36,1,7:55.0,13,11,NOP,SAC,0,home,OffReb,,,OffReb,,Team,
+37,1,7:55.0,13,11,NOP,SAC,0,away,Sub,,,,,H. Giles,W. Cauley-Stein
+38,1,7:55.0,13,11,NOP,SAC,0,home,FreeThrow,,,make1,0,A. Davis,
+39,1,7:50.0,13,11,NOP,SAC,5,away,DefReb,,,DefReb,,H. Giles,
+40,1,7:44.0,13,13,NOP,SAC,6,away,JS,,17,make2,2,B. Hield,
+41,1,7:34.0,15,13,NOP,SAC,10,home,LU,,4,make2,2,E. Moore,
+42,1,7:25.0,15,13,NOP,SAC,9,away,LU,,2,miss2,0,D. Fox,
+43,1,7:22.0,15,13,NOP,SAC,3,away,OffReb,,,OffReb,,H. Giles,
+44,1,7:20.0,15,13,NOP,SAC,2,away,LU,,1,miss2,0,H. Giles,
+45,1,7:18.0,15,13,NOP,SAC,2,home,DefReb,,,DefReb,,J. Holiday,
+46,1,7:14.0,17,13,NOP,SAC,4,home,LU,assist,2,make2,2,N. Mirotić,J. Holiday
+47,1,7:05.0,17,13,NOP,SAC,9,away,Timeout,,,,,,
+48,1,6:56.0,17,13,NOP,SAC,9,away,JS,,9,miss2,0,H. Giles,
+49,1,6:52.0,17,13,NOP,SAC,4,home,DefReb,,,DefReb,,N. Mirotić,
+50,1,6:40.0,17,13,NOP,SAC,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Shumpert,J. Holiday
+51,1,6:40.0,18,13,NOP,SAC,0,home,FreeThrow,,,make1,1,J. Holiday,
+52,1,6:40.0,19,13,NOP,SAC,0,home,FreeThrow,,,make1,1,J. Holiday,
+53,1,6:29.0,19,13,NOP,SAC,11,away,JS,,18,miss2,0,B. Hield,
+54,1,6:27.0,19,13,NOP,SAC,2,home,DefReb,,,DefReb,,E. Payton,
+55,1,6:22.0,21,13,NOP,SAC,5,home,DK,assist,1,make2,2,A. Davis,J. Holiday
+56,1,6:16.0,21,15,NOP,SAC,6,away,DK,assist,0,make2,2,M. Bagley,B. Hield
+57,1,6:11.0,21,15,NOP,SAC,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,H. Giles,A. Davis
+58,1,6:11.0,22,15,NOP,SAC,0,home,FreeThrow,,,make1,1,A. Davis,
+59,1,6:11.0,23,15,NOP,SAC,0,home,FreeThrow,,,make1,1,A. Davis,
+60,1,6:01.0,23,17,NOP,SAC,10,away,JS,assist,12,make2,2,H. Giles,D. Fox
+61,1,5:52.0,25,17,NOP,SAC,9,home,LU,,1,make2,2,A. Davis,
+62,1,5:40.0,25,19,NOP,SAC,12,away,LU,,2,make2,2,B. Hield,
+63,1,5:35.0,25,19,NOP,SAC,5,away,KickBallViolation,,,KickBallViolation,,Team,
+64,1,5:35.0,25,19,NOP,SAC,0,home,Sub,,,,,D. Miller,J. Holiday
+65,1,5:35.0,25,19,NOP,SAC,0,home,Sub,,,,,J. Randle,N. Mirotić
+66,1,5:30.0,27,19,NOP,SAC,5,home,DK,assist,0,make2,2,A. Davis,E. Payton
+67,1,5:13.0,27,19,NOP,SAC,17,away,bad pass,steal,,turnover,,H. Giles,E. Moore
+68,1,5:13.0,27,19,NOP,SAC,0,home,LU,block,3,miss2,0,E. Moore,B. Hield
+69,1,5:13.0,27,19,NOP,SAC,0,home,OffReb,,,OffReb,,Team,
+70,1,5:02.0,27,19,NOP,SAC,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Giles,A. Davis
+71,1,5:02.0,28,19,NOP,SAC,0,home,FreeThrow,,,make1,1,A. Davis,
+72,1,5:02.0,29,19,NOP,SAC,0,home,FreeThrow,,,make1,1,A. Davis,
+73,1,4:53.0,29,19,NOP,SAC,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Randle,D. Fox
+74,1,4:46.0,29,21,NOP,SAC,7,away,LU,,2,make2,2,M. Bagley,
+75,1,4:34.0,29,21,NOP,SAC,12,home,JS,,26,miss3,0,E. Moore,
+76,1,4:30.0,29,21,NOP,SAC,4,away,DefReb,,,DefReb,,D. Fox,
+77,1,4:26.0,29,21,NOP,SAC,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,M. Bagley
+78,1,4:26.0,29,22,NOP,SAC,0,away,FreeThrow,,,make1,1,M. Bagley,
+79,1,4:26.0,29,22,NOP,SAC,0,home,Sub,,,,,S. Hill,E. Moore
+80,1,4:26.0,29,23,NOP,SAC,0,away,FreeThrow,,,make1,1,M. Bagley,
+81,1,4:26.0,29,23,NOP,SAC,0,home,3sec,,,turnover,,A. Davis,
+82,1,4:26.0,29,23,NOP,SAC,0,away,Sub,,,,,J. Jackson,D. Fox
+83,1,4:26.0,29,23,NOP,SAC,0,away,Sub,,,,,F. Mason,B. Hield
+84,1,3:59.0,29,23,NOP,SAC,27,away,JS,,14,miss2,0,H. Giles,
+85,1,3:59.0,29,23,NOP,SAC,0,home,DefReb,,,DefReb,,J. Randle,
+86,1,3:47.0,29,23,NOP,SAC,12,home,JS,,5,miss2,0,J. Randle,
+87,1,3:44.0,29,23,NOP,SAC,3,away,DefReb,,,DefReb,,H. Giles,
+88,1,3:29.0,29,23,NOP,SAC,15,away,HS,,7,miss2,0,H. Giles,
+89,1,3:26.0,29,23,NOP,SAC,3,home,DefReb,,,DefReb,,E. Payton,
+90,1,3:22.0,29,23,NOP,SAC,4,home,JS,,26,miss3,0,D. Miller,
+91,1,3:17.0,29,23,NOP,SAC,5,away,DefReb,,,DefReb,,J. Jackson,
+92,1,3:16.0,29,23,NOP,SAC,1,away,Traveling,,,turnover,,J. Jackson,
+93,1,2:57.0,32,23,NOP,SAC,19,home,JS,assist,26,make3,3,J. Randle,E. Payton
+94,1,2:36.0,32,23,NOP,SAC,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Miller,M. Bagley
+95,1,2:36.0,32,23,NOP,SAC,0,home,Timeout,,,,,,
+96,1,2:36.0,32,23,NOP,SAC,0,home,Sub,,,,,I. Clark,A. Davis
+97,1,2:36.0,32,23,NOP,SAC,0,home,Sub,,,,,N. Mirotić,E. Payton
+98,1,2:36.0,32,24,NOP,SAC,0,away,FreeThrow,,,make1,1,M. Bagley,
+99,1,2:36.0,32,25,NOP,SAC,0,away,FreeThrow,,,make1,1,M. Bagley,
+100,1,2:24.0,34,25,NOP,SAC,12,home,LU,,5,make2,2,J. Randle,
+101,1,2:11.0,34,25,NOP,SAC,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Clark,F. Mason
+102,1,2:11.0,34,26,NOP,SAC,0,away,FreeThrow,,,make1,1,F. Mason,
+103,1,2:11.0,34,27,NOP,SAC,0,away,FreeThrow,,,make1,1,F. Mason,
+104,1,2:02.0,34,27,NOP,SAC,9,home,bad pass,steal,,turnover,,I. Clark,M. Bagley
+105,1,1:58.0,34,29,NOP,SAC,4,away,DK,,1,make2,2,M. Bagley,
+106,1,1:41.0,36,29,NOP,SAC,17,home,HS,assist,4,make2,2,N. Mirotić,I. Clark
+107,1,1:28.0,36,29,NOP,SAC,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Clark,H. Giles
+108,1,1:28.0,36,30,NOP,SAC,0,away,FreeThrow,,,make1,1,H. Giles,
+109,1,1:28.0,36,30,NOP,SAC,0,away,FreeThrow,,,make1,0,H. Giles,
+110,1,1:26.0,36,30,NOP,SAC,2,home,DefReb,,,DefReb,,J. Randle,
+111,1,1:12.0,36,30,NOP,SAC,14,home,LU,block,2,miss2,0,J. Randle,M. Bagley
+112,1,1:07.0,36,30,NOP,SAC,5,away,DefReb,,,DefReb,,M. Bagley,
+113,1,1:03.0,36,32,NOP,SAC,4,away,LU,,1,make2,2,F. Mason,
+114,1,0:49.0,38,32,NOP,SAC,14,home,JS,,22,make2,2,N. Mirotić,
+115,1,0:30.0,38,32,NOP,SAC,19,away,LU,,1,miss2,0,H. Giles,
+116,1,0:27.0,38,32,NOP,SAC,3,home,DefReb,,,DefReb,,S. Hill,
+117,1,0:22.0,40,32,NOP,SAC,5,home,LU,,1,make2,2,J. Randle,
+118,1,0:02.0,40,32,NOP,SAC,20,away,JS,,27,miss3,0,J. Jackson,
+119,1,0:02.0,40,32,NOP,SAC,0,home,DefReb,,,DefReb,,J. Randle,
+120,2,11:40.0,40,32,NOP,SAC,20,away,LU,,3,miss2,0,W. Cauley-Stein,
+121,2,11:38.0,40,32,NOP,SAC,2,home,DefReb,,,DefReb,,J. Randle,
+122,2,11:32.0,40,32,NOP,SAC,6,home,JS,,27,miss3,0,N. Mirotić,
+123,2,11:26.0,40,32,NOP,SAC,6,home,OffReb,,,OffReb,,J. Holiday,
+124,2,11:25.0,40,32,NOP,SAC,1,home,LU,,2,miss2,0,J. Holiday,
+125,2,11:23.0,40,32,NOP,SAC,2,away,DefReb,,,DefReb,,W. Cauley-Stein,
+126,2,11:19.0,40,32,NOP,SAC,4,away,JS,,1,miss2,0,F. Mason,
+127,2,11:17.0,40,32,NOP,SAC,2,home,DefReb,,,DefReb,,J. Holiday,
+128,2,11:13.0,40,32,NOP,SAC,4,home,JS,,25,miss3,0,D. Miller,
+129,2,11:10.0,40,32,NOP,SAC,3,away,DefReb,,,DefReb,,W. Cauley-Stein,
+130,2,10:58.0,40,34,NOP,SAC,12,away,JS,,10,make2,2,H. Giles,
+131,2,10:31.0,40,34,NOP,SAC,27,home,LU,,2,miss2,0,J. Holiday,
+132,2,10:28.0,40,34,NOP,SAC,3,home,OffReb,,,OffReb,,J. Holiday,
+133,2,10:21.0,40,34,NOP,SAC,7,home,bad pass,steal,,turnover,,J. Holiday,J. Jackson
+134,2,10:17.0,40,36,NOP,SAC,4,away,LU,assist,3,make2,2,F. Mason,J. Jackson
+135,2,10:01.0,43,36,NOP,SAC,16,home,JS,assist,26,make3,3,I. Clark,J. Holiday
+136,2,9:42.0,43,36,NOP,SAC,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Mirotić,Y. Ferrell
+137,2,9:42.0,43,37,NOP,SAC,0,away,FreeThrow,,,make1,1,Y. Ferrell,
+138,2,9:42.0,43,37,NOP,SAC,0,away,Sub,,,,,D. Fox,F. Mason
+139,2,9:42.0,43,38,NOP,SAC,0,away,FreeThrow,,,make1,1,Y. Ferrell,
+140,2,9:26.0,43,38,NOP,SAC,16,home,JS,,6,miss2,0,J. Holiday,
+141,2,9:23.0,43,38,NOP,SAC,3,away,DefReb,,,DefReb,,W. Cauley-Stein,
+142,2,9:19.0,43,38,NOP,SAC,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,H. Giles,J. Holiday
+143,2,9:19.0,43,38,NOP,SAC,0,away,OffensiveFoul,,,turnover,,H. Giles,
+144,2,9:19.0,43,38,NOP,SAC,0,away,Sub,,,,,N. Bjelica,H. Giles
+145,2,9:07.0,43,38,NOP,SAC,12,home,LU,,5,miss2,0,J. Holiday,
+146,2,9:03.0,43,38,NOP,SAC,4,away,DefReb,,,DefReb,,N. Bjelica,
+147,2,8:53.0,43,40,NOP,SAC,10,away,LU,assist,3,make2,2,W. Cauley-Stein,N. Bjelica
+148,2,8:43.0,43,40,NOP,SAC,10,home,JS,,27,miss3,0,N. Mirotić,
+149,2,8:43.0,43,40,NOP,SAC,0,away,DefReb,,,DefReb,,D. Fox,
+150,2,8:35.0,43,40,NOP,SAC,8,away,JS,,26,miss3,0,D. Fox,
+151,2,8:30.0,43,40,NOP,SAC,5,home,DefReb,,,DefReb,,J. Randle,
+152,2,8:25.0,46,40,NOP,SAC,5,home,JS,assist,24,make3,3,D. Miller,J. Holiday
+153,2,8:14.0,46,43,NOP,SAC,11,away,JS,,24,make3,3,Y. Ferrell,
+154,2,8:03.0,46,43,NOP,SAC,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jackson,N. Mirotić
+155,2,8:03.0,46,43,NOP,SAC,0,home,Sub,,,,,A. Davis,I. Clark
+156,2,8:03.0,46,43,NOP,SAC,0,home,Sub,,,,,E. Moore,D. Miller
+157,2,8:03.0,46,43,NOP,SAC,0,home,Sub,,,,,E. Payton,J. Randle
+158,2,7:54.0,48,43,NOP,SAC,9,home,LU,assist,3,make2,2,A. Davis,E. Payton
+159,2,7:46.0,48,45,NOP,SAC,8,away,DK,assist,1,make2,2,N. Bjelica,D. Fox
+160,2,7:37.0,48,45,NOP,SAC,9,home,bad pass,steal,,turnover,,E. Payton,Y. Ferrell
+161,2,7:35.0,48,47,NOP,SAC,2,away,LU,assist,2,make2,2,D. Fox,Y. Ferrell
+162,2,7:35.0,48,47,NOP,SAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Mirotić,Y. Ferrell
+163,2,7:35.0,48,47,NOP,SAC,0,home,Timeout,,,,,,
+164,2,7:35.0,48,48,NOP,SAC,0,away,FreeThrow,,,make1,1,D. Fox,
+165,2,7:16.0,48,48,NOP,SAC,19,home,LU,,3,miss2,0,A. Davis,
+166,2,7:11.0,48,48,NOP,SAC,5,home,OffReb,,,OffReb,,E. Payton,
+167,2,7:11.0,50,48,NOP,SAC,0,home,LU,,1,make2,2,E. Payton,
+168,2,6:59.0,50,48,NOP,SAC,12,away,JS,,7,miss2,0,D. Fox,
+169,2,6:56.0,50,48,NOP,SAC,3,home,DefReb,,,DefReb,,A. Davis,
+170,2,6:51.0,50,48,NOP,SAC,5,home,LU,,1,miss2,0,E. Payton,
+171,2,6:47.0,50,48,NOP,SAC,4,away,DefReb,,,DefReb,,W. Cauley-Stein,
+172,2,6:45.0,50,50,NOP,SAC,2,away,LU,assist,1,make2,2,N. Bjelica,W. Cauley-Stein
+173,2,6:38.0,50,50,NOP,SAC,7,home,BadPass,,,turnover,,E. Payton,
+174,2,6:38.0,50,50,NOP,SAC,0,away,Sub,,,,,B. Hield,J. Jackson
+175,2,6:17.0,50,50,NOP,SAC,21,away,lost ball,steal,,turnover,,B. Hield,J. Holiday
+176,2,6:17.0,50,50,NOP,SAC,0,home,OutOfBounds,,,turnover,,J. Holiday,
+177,2,6:15.0,50,50,NOP,SAC,2,away,bad pass,steal,,turnover,,D. Fox,A. Davis
+178,2,6:10.0,52,50,NOP,SAC,5,home,LU,assist,1,make2,2,N. Mirotić,J. Holiday
+179,2,6:10.0,52,50,NOP,SAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,N. Mirotić
+180,2,6:10.0,52,50,NOP,SAC,0,away,Sub,,,,,M. Bagley,N. Bjelica
+181,2,6:10.0,52,50,NOP,SAC,0,home,FreeThrow,,,make1,0,N. Mirotić,
+182,2,6:10.0,52,50,NOP,SAC,0,away,DefReb,,,DefReb,,M. Bagley,
+183,2,5:56.0,52,52,NOP,SAC,14,away,LU,,4,make2,2,M. Bagley,
+184,2,5:36.0,54,52,NOP,SAC,20,home,LU,assist,2,make2,2,N. Mirotić,J. Holiday
+185,2,5:27.0,54,52,NOP,SAC,9,away,BackCourtTurnover,,,turnover,,D. Fox,
+186,2,5:27.0,54,52,NOP,SAC,0,home,Sub,,,,,J. Randle,N. Mirotić
+187,2,5:10.0,54,52,NOP,SAC,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bagley,J. Randle
+188,2,5:10.0,54,52,NOP,SAC,0,home,FreeThrow,,,make1,0,J. Randle,
+189,2,5:10.0,54,52,NOP,SAC,0,home,OffReb,,,OffReb,,Team,
+190,2,5:10.0,54,52,NOP,SAC,0,home,FreeThrow,,,make1,0,J. Randle,
+191,2,5:08.0,54,52,NOP,SAC,2,away,DefReb,,,DefReb,,M. Bagley,
+192,2,4:55.0,54,54,NOP,SAC,13,away,LU,,6,make2,2,M. Bagley,
+193,2,4:37.0,54,54,NOP,SAC,18,home,JS,,6,miss2,0,E. Payton,
+194,2,4:32.0,54,54,NOP,SAC,5,home,OffReb,,,OffReb,,A. Davis,
+195,2,4:32.0,54,54,NOP,SAC,0,home,BadPass,,,turnover,,A. Davis,
+196,2,4:16.0,54,54,NOP,SAC,16,away,LU,,2,miss2,0,B. Hield,
+197,2,4:14.0,54,54,NOP,SAC,2,home,DefReb,,,DefReb,,A. Davis,
+198,2,4:10.0,54,54,NOP,SAC,4,home,JS,,24,miss3,0,E. Moore,
+199,2,4:06.0,54,54,NOP,SAC,4,home,OffReb,,,OffReb,,J. Holiday,
+200,2,4:04.0,56,54,NOP,SAC,2,home,JS,assist,11,make2,2,E. Moore,A. Davis
+201,2,3:50.0,56,56,NOP,SAC,14,away,LU,,1,make2,2,Y. Ferrell,
+202,2,3:41.0,56,56,NOP,SAC,9,home,Traveling,,,turnover,,A. Davis,
+203,2,3:41.0,56,56,NOP,SAC,0,away,Timeout,,,,,,
+204,2,3:29.0,56,56,NOP,SAC,12,away,lost ball,steal,,turnover,,D. Fox,J. Holiday
+205,2,3:23.0,58,56,NOP,SAC,6,home,LU,assist,2,make2,2,J. Randle,J. Holiday
+206,2,3:11.0,58,56,NOP,SAC,12,away,lost ball,steal,,turnover,,W. Cauley-Stein,A. Davis
+207,2,3:03.0,60,56,NOP,SAC,8,home,LU,assist,2,make2,2,J. Holiday,E. Moore
+208,2,2:48.0,60,56,NOP,SAC,15,away,JS,,11,miss2,0,D. Fox,
+209,2,2:41.0,60,56,NOP,SAC,7,away,OffReb,,,OffReb,,W. Cauley-Stein,
+210,2,2:41.0,60,56,NOP,SAC,0,away,LU,,0,miss2,0,W. Cauley-Stein,
+211,2,2:40.0,60,56,NOP,SAC,1,home,DefReb,,,DefReb,,A. Davis,
+212,2,2:32.0,62,56,NOP,SAC,8,home,LU,,3,make2,2,J. Holiday,
+213,2,2:16.0,62,56,NOP,SAC,16,away,JS,,24,miss3,0,M. Bagley,
+214,2,2:13.0,62,56,NOP,SAC,3,home,DefReb,,,DefReb,,E. Payton,
+215,2,2:08.0,62,56,NOP,SAC,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Bagley,J. Randle
+216,2,1:55.0,62,56,NOP,SAC,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,A. Davis
+217,2,1:55.0,63,56,NOP,SAC,0,home,FreeThrow,,,make1,1,A. Davis,
+218,2,1:55.0,63,56,NOP,SAC,0,away,Sub,,,,,S. Labissière,W. Cauley-Stein
+219,2,1:55.0,63,56,NOP,SAC,0,home,Sub,,,,,N. Mirotić,J. Randle
+220,2,1:55.0,64,56,NOP,SAC,0,home,FreeThrow,,,make1,1,A. Davis,
+221,2,1:39.0,64,56,NOP,SAC,16,away,JS,,27,miss3,0,Y. Ferrell,
+222,2,1:36.0,64,56,NOP,SAC,3,home,DefReb,,,DefReb,,A. Davis,
+223,2,1:32.0,66,56,NOP,SAC,4,home,LU,assist,1,make2,2,N. Mirotić,A. Davis
+224,2,1:15.0,66,59,NOP,SAC,17,away,JS,assist,26,make3,3,B. Hield,D. Fox
+225,2,1:11.0,66,59,NOP,SAC,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Hield,N. Mirotić
+226,2,1:11.0,66,59,NOP,SAC,0,home,FreeThrow,,,make1,0,N. Mirotić,
+227,2,1:11.0,66,59,NOP,SAC,0,home,OffReb,,,OffReb,,Team,
+228,2,1:11.0,67,59,NOP,SAC,0,home,FreeThrow,,,make1,1,N. Mirotić,
+229,2,0:57.0,67,61,NOP,SAC,14,away,JS,,22,make2,2,B. Hield,
+230,2,0:44.0,69,61,NOP,SAC,13,home,DK,assist,1,make2,2,A. Davis,E. Payton
+231,2,0:33.0,69,61,NOP,SAC,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Moore,D. Fox
+232,2,0:33.0,69,62,NOP,SAC,0,away,FreeThrow,,,make1,1,D. Fox,
+233,2,0:33.0,69,63,NOP,SAC,0,away,FreeThrow,,,make1,1,D. Fox,
+234,2,0:25.0,69,63,NOP,SAC,8,home,JS,,27,miss3,0,N. Mirotić,
+235,2,0:21.0,69,63,NOP,SAC,4,home,OffReb,,,OffReb,,A. Davis,
+236,2,0:19.0,71,63,NOP,SAC,2,home,LU,assist,4,make2,2,J. Holiday,A. Davis
+237,2,0:08.0,71,63,NOP,SAC,11,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,S. Labissière,J. Holiday
+238,2,0:08.0,71,63,NOP,SAC,0,away,OffensiveFoul,,,turnover,,S. Labissière,
+239,2,0:03.0,71,63,NOP,SAC,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Labissière,A. Davis
+240,2,0:03.0,72,63,NOP,SAC,0,home,FreeThrow,,,make1,1,A. Davis,
+241,2,0:03.0,72,63,NOP,SAC,0,home,FreeThrow,,,make1,0,A. Davis,
+242,2,0:01.0,72,63,NOP,SAC,2,home,OffReb,,,OffReb,,N. Mirotić,
+243,2,0:00.0,72,63,NOP,SAC,1,home,LU,,3,miss2,0,N. Mirotić,
+244,2,0:00.0,72,63,NOP,SAC,0,home,OffReb,,,OffReb,,A. Davis,
+245,2,0:00.0,72,63,NOP,SAC,0,home,LU,,1,miss2,0,A. Davis,
+246,2,0:00.0,72,63,NOP,SAC,0,away,DefReb,,,DefReb,,D. Fox,
+247,3,11:45.0,72,65,NOP,SAC,15,away,DK,assist,0,make2,2,W. Cauley-Stein,D. Fox
+248,3,11:23.0,72,65,NOP,SAC,22,home,JS,,7,miss2,0,J. Holiday,
+249,3,11:20.0,72,65,NOP,SAC,3,away,DefReb,,,DefReb,,W. Cauley-Stein,
+250,3,11:17.0,72,67,NOP,SAC,3,away,JS,,8,make2,2,D. Fox,
+251,3,11:00.0,75,67,NOP,SAC,17,home,JS,assist,26,make3,3,E. Payton,J. Holiday
+252,3,10:45.0,75,69,NOP,SAC,15,away,LU,,1,make2,2,D. Fox,
+253,3,10:40.0,77,69,NOP,SAC,5,home,LU,assist,1,make2,2,E. Moore,E. Payton
+254,3,10:21.0,77,69,NOP,SAC,19,away,LU,block,2,miss2,0,W. Cauley-Stein,A. Davis
+255,3,10:18.0,77,69,NOP,SAC,3,home,DefReb,,,DefReb,,N. Mirotić,
+256,3,10:11.0,79,69,NOP,SAC,7,home,LU,,1,make2,2,E. Payton,
+257,3,9:58.0,79,69,NOP,SAC,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Payton,D. Fox
+258,3,9:58.0,79,70,NOP,SAC,0,away,FreeThrow,,,make1,1,D. Fox,
+259,3,9:58.0,79,70,NOP,SAC,0,away,FreeThrow,,,make1,0,D. Fox,
+260,3,9:55.0,79,70,NOP,SAC,3,home,DefReb,,,DefReb,,N. Mirotić,
+261,3,9:41.0,79,70,NOP,SAC,14,home,JS,,8,miss2,0,E. Moore,
+262,3,9:34.0,79,70,NOP,SAC,7,home,OffReb,,,OffReb,,A. Davis,
+263,3,9:33.0,81,70,NOP,SAC,1,home,LU,,1,make2,2,A. Davis,
+264,3,9:26.0,81,70,NOP,SAC,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Mirotić,W. Cauley-Stein
+265,3,9:26.0,81,70,NOP,SAC,0,away,FreeThrow,,,make1,0,W. Cauley-Stein,
+266,3,9:26.0,81,70,NOP,SAC,0,away,OffReb,,,OffReb,,Team,
+267,3,9:26.0,81,71,NOP,SAC,0,away,FreeThrow,,,make1,1,W. Cauley-Stein,
+268,3,9:13.0,81,71,NOP,SAC,13,home,JS,,5,miss2,0,A. Davis,
+269,3,9:09.0,81,71,NOP,SAC,4,away,DefReb,,,DefReb,,Y. Ferrell,
+270,3,9:07.0,81,71,NOP,SAC,2,away,JS,,26,miss3,0,N. Bjelica,
+271,3,9:02.0,81,71,NOP,SAC,5,away,OffReb,,,OffReb,,B. Hield,
+272,3,9:01.0,81,73,NOP,SAC,1,away,LU,,2,make2,2,B. Hield,
+273,3,8:54.0,83,73,NOP,SAC,7,home,LU,,4,make2,2,E. Payton,
+274,3,8:46.0,83,73,NOP,SAC,8,away,JS,,26,miss3,0,N. Bjelica,
+275,3,8:43.0,83,73,NOP,SAC,3,home,DefReb,,,DefReb,,A. Davis,
+276,3,8:38.0,85,73,NOP,SAC,5,home,JS,assist,15,make2,2,N. Mirotić,E. Payton
+277,3,8:24.0,85,75,NOP,SAC,14,away,JS,,9,make2,2,D. Fox,
+278,3,8:12.0,85,75,NOP,SAC,12,home,JS,,19,miss2,0,N. Mirotić,
+279,3,8:08.0,85,75,NOP,SAC,4,away,DefReb,,,DefReb,,Y. Ferrell,
+280,3,7:57.0,85,77,NOP,SAC,11,away,LU,,3,make2,2,D. Fox,
+281,3,7:39.0,88,77,NOP,SAC,18,home,JS,assist,28,make3,3,A. Davis,J. Holiday
+282,3,7:29.0,88,77,NOP,SAC,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Moore,D. Fox
+283,3,7:29.0,88,77,NOP,SAC,0,away,Sub,,,,,M. Bagley,N. Bjelica
+284,3,7:21.0,88,77,NOP,SAC,8,away,OutOfBoundsLB,,,turnover,,Y. Ferrell,
+285,3,7:11.0,90,77,NOP,SAC,10,home,LU,,3,make2,2,J. Holiday,
+286,3,6:57.0,90,77,NOP,SAC,14,away,lost ball,steal,,turnover,,D. Fox,J. Holiday
+287,3,6:53.0,92,77,NOP,SAC,4,home,LU,assist,1,make2,2,E. Moore,J. Holiday
+288,3,6:53.0,92,77,NOP,SAC,0,away,Timeout,,,,,,
+289,3,6:53.0,92,77,NOP,SAC,0,away,Sub,,,,,I. Shumpert,Y. Ferrell
+290,3,6:53.0,92,77,NOP,SAC,0,home,Sub,,,,,J. Randle,N. Mirotić
+291,3,6:34.0,92,79,NOP,SAC,19,away,DK,assist,1,make2,2,W. Cauley-Stein,B. Hield
+292,3,6:17.0,92,79,NOP,SAC,17,home,JS,,13,miss2,0,E. Moore,
+293,3,6:12.0,92,79,NOP,SAC,5,away,DefReb,,,DefReb,,D. Fox,
+294,3,6:10.0,92,82,NOP,SAC,2,away,JS,assist,26,make3,3,B. Hield,D. Fox
+295,3,6:01.0,92,82,NOP,SAC,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Cauley-Stein,J. Holiday
+296,3,6:01.0,93,82,NOP,SAC,0,home,FreeThrow,,,make1,1,J. Holiday,
+297,3,6:01.0,93,82,NOP,SAC,0,away,Sub,,,,,H. Giles,W. Cauley-Stein
+298,3,6:01.0,94,82,NOP,SAC,0,home,FreeThrow,,,make1,1,J. Holiday,
+299,3,5:43.0,94,82,NOP,SAC,18,away,LU,,2,miss2,0,H. Giles,
+300,3,5:40.0,94,82,NOP,SAC,3,home,DefReb,,,DefReb,,A. Davis,
+301,3,5:39.0,94,82,NOP,SAC,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bagley,J. Randle
+302,3,5:39.0,94,82,NOP,SAC,0,home,FreeThrow,,,make1,0,J. Randle,
+303,3,5:39.0,94,82,NOP,SAC,0,home,OffReb,,,OffReb,,Team,
+304,3,5:39.0,94,82,NOP,SAC,0,home,FreeThrow,,,make1,0,J. Randle,
+305,3,5:36.0,94,82,NOP,SAC,3,away,DefReb,,,DefReb,,M. Bagley,
+306,3,5:22.0,94,82,NOP,SAC,14,away,Traveling,,,turnover,,B. Hield,
+307,3,5:22.0,94,82,NOP,SAC,0,away,Sub,,,,,F. Mason,D. Fox
+308,3,5:22.0,94,82,NOP,SAC,0,home,Sub,,,,,D. Miller,E. Payton
+309,3,5:10.0,94,82,NOP,SAC,12,home,JS,,26,miss3,0,E. Moore,
+310,3,5:05.0,94,82,NOP,SAC,5,away,DefReb,,,DefReb,,B. Hield,
+311,3,5:03.0,94,82,NOP,SAC,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Miller,M. Bagley
+312,3,4:56.0,94,82,NOP,SAC,7,away,JS,,18,miss2,0,H. Giles,
+313,3,4:52.0,94,82,NOP,SAC,4,home,DefReb,,,DefReb,,J. Randle,
+314,3,4:46.0,94,82,NOP,SAC,6,home,LU,,2,miss2,0,J. Randle,
+315,3,4:43.0,94,82,NOP,SAC,3,away,DefReb,,,DefReb,,H. Giles,
+316,3,4:38.0,94,82,NOP,SAC,5,away,JS,,24,miss3,0,I. Shumpert,
+317,3,4:34.0,94,82,NOP,SAC,4,home,DefReb,,,DefReb,,J. Holiday,
+318,3,4:20.0,96,82,NOP,SAC,14,home,JS,,15,make2,2,A. Davis,
+319,3,4:08.0,96,82,NOP,SAC,12,away,JS,,13,miss2,0,F. Mason,
+320,3,4:05.0,96,82,NOP,SAC,3,home,DefReb,,,DefReb,,J. Randle,
+321,3,3:55.0,96,82,NOP,SAC,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Giles,J. Holiday
+322,3,3:55.0,97,82,NOP,SAC,0,home,FreeThrow,,,make1,1,J. Holiday,
+323,3,3:55.0,97,82,NOP,SAC,0,away,Sub,,,,,J. Jackson,B. Hield
+324,3,3:55.0,97,82,NOP,SAC,0,home,Sub,,,,,S. Hill,E. Moore
+325,3,3:55.0,97,82,NOP,SAC,0,home,FreeThrow,,,make1,0,J. Holiday,
+326,3,3:52.0,97,82,NOP,SAC,3,away,DefReb,,,DefReb,,I. Shumpert,
+327,3,3:38.0,97,82,NOP,SAC,14,away,HS,,9,miss2,0,H. Giles,
+328,3,3:35.0,97,82,NOP,SAC,3,home,DefReb,,,DefReb,,J. Randle,
+329,3,3:30.0,97,82,NOP,SAC,5,home,JS,,27,miss3,0,S. Hill,
+330,3,3:29.0,97,82,NOP,SAC,1,away,DefReb,,,DefReb,,Team,
+331,3,3:29.0,97,82,NOP,SAC,0,home,Sub,,,,,I. Clark,J. Holiday
+332,3,3:14.0,97,82,NOP,SAC,15,away,JS,,15,miss2,0,J. Jackson,
+333,3,3:11.0,97,82,NOP,SAC,3,away,OffReb,,,OffReb,,J. Jackson,
+334,3,3:06.0,97,82,NOP,SAC,5,away,LU,block,8,miss2,0,F. Mason,A. Davis
+335,3,3:02.0,97,82,NOP,SAC,4,home,DefReb,,,DefReb,,J. Randle,
+336,3,2:58.0,100,82,NOP,SAC,4,home,JS,assist,27,make3,3,S. Hill,A. Davis
+337,3,2:42.0,100,82,NOP,SAC,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Randle,M. Bagley
+338,3,2:42.0,100,82,NOP,SAC,0,home,Timeout,,,,,,
+339,3,2:42.0,100,82,NOP,SAC,0,home,Sub,,,,,N. Mirotić,A. Davis
+340,3,2:42.0,100,83,NOP,SAC,0,away,FreeThrow,,,make1,1,M. Bagley,
+341,3,2:42.0,100,83,NOP,SAC,0,away,FreeThrow,,,make1,0,M. Bagley,
+342,3,2:40.0,100,83,NOP,SAC,2,home,DefReb,,,DefReb,,J. Randle,
+343,3,2:27.0,102,83,NOP,SAC,13,home,LU,assist,4,make2,2,J. Randle,N. Mirotić
+344,3,2:13.0,102,83,NOP,SAC,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Miller,H. Giles
+345,3,2:13.0,102,83,NOP,SAC,0,away,FreeThrow,,,make1,0,H. Giles,
+346,3,2:13.0,102,83,NOP,SAC,0,away,OffReb,,,OffReb,,Team,
+347,3,2:13.0,102,83,NOP,SAC,0,away,FreeThrow,,,make1,0,H. Giles,
+348,3,2:10.0,102,83,NOP,SAC,3,home,DefReb,,,DefReb,,J. Randle,
+349,3,1:53.0,105,83,NOP,SAC,17,home,JS,assist,27,make3,3,D. Miller,S. Hill
+350,3,1:53.0,105,83,NOP,SAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bagley,D. Miller
+351,3,1:53.0,106,83,NOP,SAC,0,home,FreeThrow,,,make1,1,D. Miller,
+352,3,1:39.0,106,83,NOP,SAC,14,away,LU,,2,miss2,0,F. Mason,
+353,3,1:35.0,106,83,NOP,SAC,4,home,DefReb,,,DefReb,,N. Mirotić,
+354,3,1:24.0,108,83,NOP,SAC,11,home,JS,,9,make2,2,J. Randle,
+355,3,1:08.0,108,83,NOP,SAC,16,away,LU,,2,miss2,0,F. Mason,
+356,3,1:05.0,108,83,NOP,SAC,3,away,OffReb,,,OffReb,,M. Bagley,
+357,3,1:04.0,108,85,NOP,SAC,1,away,DK,,0,make2,2,M. Bagley,
+358,3,0:59.0,108,85,NOP,SAC,5,home,JS,,26,miss3,0,J. Randle,
+359,3,0:57.0,108,85,NOP,SAC,2,away,DefReb,,,DefReb,,M. Bagley,
+360,3,0:43.0,108,87,NOP,SAC,14,away,LU,assist,1,make2,2,F. Mason,H. Giles
+361,3,0:28.0,108,87,NOP,SAC,15,home,bad pass,steal,,turnover,,D. Miller,F. Mason
+362,3,0:24.0,108,89,NOP,SAC,4,away,LU,assist,2,make2,2,M. Bagley,F. Mason
+363,3,0:05.0,110,89,NOP,SAC,19,home,LU,,2,make2,2,I. Clark,
+364,3,0:01.0,110,89,NOP,SAC,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,F. Mason
+365,3,0:01.0,110,89,NOP,SAC,0,away,FreeThrow,,,make1,0,F. Mason,
+366,3,0:01.0,110,89,NOP,SAC,0,away,OffReb,,,OffReb,,Team,
+367,3,0:01.0,110,90,NOP,SAC,0,away,FreeThrow,,,make1,1,F. Mason,
+368,3,0:00.0,110,90,NOP,SAC,1,home,JS,,24,miss3,0,D. Miller,
+369,3,0:00.0,110,90,NOP,SAC,0,away,DefReb,,,DefReb,,Team,
+370,4,11:49.0,113,90,NOP,SAC,11,home,JS,assist,26,make3,3,N. Mirotić,D. Miller
+371,4,11:30.0,113,90,NOP,SAC,19,away,JS,,26,miss3,0,M. Bagley,
+372,4,11:28.0,113,90,NOP,SAC,2,home,DefReb,,,DefReb,,J. Randle,
+373,4,11:22.0,113,90,NOP,SAC,6,home,LU,,2,miss2,0,J. Randle,
+374,4,11:19.0,113,90,NOP,SAC,3,away,DefReb,,,DefReb,,J. Jackson,
+375,4,11:17.0,113,92,NOP,SAC,2,away,JS,,7,make2,2,F. Mason,
+376,4,11:00.0,113,92,NOP,SAC,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Giles,I. Clark
+377,4,11:00.0,114,92,NOP,SAC,0,home,FreeThrow,,,make1,1,I. Clark,
+378,4,11:00.0,115,92,NOP,SAC,0,home,FreeThrow,,,make1,1,I. Clark,
+379,4,10:49.0,115,92,NOP,SAC,11,away,JS,,9,miss2,0,J. Jackson,
+380,4,10:48.0,115,92,NOP,SAC,1,home,DefReb,,,DefReb,,Team,
+381,4,10:48.0,115,92,NOP,SAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Randle,J. Jackson
+382,4,10:48.0,115,92,NOP,SAC,0,home,Turnover,,,turnover,,J. Randle,
+383,4,10:40.0,115,92,NOP,SAC,8,away,JS,,25,miss3,0,J. Jackson,
+384,4,10:37.0,115,92,NOP,SAC,3,home,DefReb,,,DefReb,,N. Mirotić,
+385,4,10:29.0,118,92,NOP,SAC,8,home,JS,,26,make3,3,N. Mirotić,
+386,4,10:20.0,118,92,NOP,SAC,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,F. Mason
+387,4,10:20.0,118,92,NOP,SAC,0,away,Sub,,,,,B. Hield,I. Shumpert
+388,4,10:15.0,118,94,NOP,SAC,5,away,DK,assist,3,make2,2,H. Giles,F. Mason
+389,4,9:57.0,118,94,NOP,SAC,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Giles,N. Mirotić
+390,4,9:57.0,118,94,NOP,SAC,0,away,Sub,,,,,W. Cauley-Stein,H. Giles
+391,4,9:57.0,119,94,NOP,SAC,0,home,FreeThrow,,,make1,1,N. Mirotić,
+392,4,9:57.0,119,94,NOP,SAC,0,home,FreeThrow,,,make1,0,N. Mirotić,
+393,4,9:55.0,119,94,NOP,SAC,2,away,DefReb,,,DefReb,,J. Jackson,
+394,4,9:45.0,119,94,NOP,SAC,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Clark,B. Hield
+395,4,9:38.0,119,96,NOP,SAC,7,away,LU,assist,2,make2,2,F. Mason,M. Bagley
+396,4,9:27.0,122,96,NOP,SAC,11,home,JS,assist,26,make3,3,N. Mirotić,S. Hill
+397,4,9:16.0,122,98,NOP,SAC,11,away,LU,assist,2,make2,2,J. Jackson,F. Mason
+398,4,9:06.0,125,98,NOP,SAC,10,home,JS,,27,make3,3,I. Clark,
+399,4,8:51.0,125,100,NOP,SAC,15,away,JS,,4,make2,2,W. Cauley-Stein,
+400,4,8:34.0,128,100,NOP,SAC,17,home,JS,,25,make3,3,N. Mirotić,
+401,4,8:26.0,128,100,NOP,SAC,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Mirotić,M. Bagley
+402,4,8:26.0,128,100,NOP,SAC,0,away,Sub,,,,,D. Fox,F. Mason
+403,4,8:18.0,128,100,NOP,SAC,8,away,JS,,8,miss2,0,W. Cauley-Stein,
+404,4,8:14.0,128,100,NOP,SAC,4,home,DefReb,,,DefReb,,J. Randle,
+405,4,8:08.0,128,100,NOP,SAC,6,home,JS,,26,miss3,0,N. Mirotić,
+406,4,8:04.0,128,100,NOP,SAC,4,away,DefReb,,,DefReb,,D. Fox,
+407,4,7:56.0,128,100,NOP,SAC,8,away,HS,,10,miss2,0,J. Jackson,
+408,4,7:54.0,128,100,NOP,SAC,2,home,DefReb,,,DefReb,,J. Randle,
+409,4,7:46.0,128,100,NOP,SAC,8,home,JS,,6,miss2,0,J. Randle,
+410,4,7:41.0,128,100,NOP,SAC,5,home,OffReb,,,OffReb,,N. Mirotić,
+411,4,7:41.0,128,100,NOP,SAC,0,home,LU,,0,miss2,0,N. Mirotić,
+412,4,7:40.0,128,100,NOP,SAC,1,away,DefReb,,,DefReb,,M. Bagley,
+413,4,7:33.0,128,100,NOP,SAC,7,away,JS,,16,miss2,0,B. Hield,
+414,4,7:32.0,128,100,NOP,SAC,1,away,OffReb,,,OffReb,,W. Cauley-Stein,
+415,4,7:32.0,128,102,NOP,SAC,0,away,LU,,1,make2,2,W. Cauley-Stein,
+416,4,7:32.0,128,102,NOP,SAC,0,home,Timeout,,,,,,
+417,4,7:32.0,128,102,NOP,SAC,0,home,Sub,,,,,J. Okafor,J. Randle
+418,4,7:15.0,128,102,NOP,SAC,17,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,I. Clark,D. Fox
+419,4,7:15.0,128,102,NOP,SAC,0,home,OffensiveFoul,,,turnover,,I. Clark,
+420,4,6:58.0,128,102,NOP,SAC,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Okafor,W. Cauley-Stein
+421,4,6:58.0,128,104,NOP,SAC,0,away,JS,,8,make2,2,W. Cauley-Stein,
+422,4,6:58.0,128,105,NOP,SAC,0,away,FreeThrow,,,make1,1,W. Cauley-Stein,
+423,4,6:45.0,130,105,NOP,SAC,13,home,JS,,15,make2,2,N. Mirotić,
+424,4,6:28.0,130,105,NOP,SAC,17,away,JS,,16,miss2,0,D. Fox,
+425,4,6:28.0,130,105,NOP,SAC,0,away,OffReb,,,OffReb,,D. Fox,
+426,4,6:23.0,130,105,NOP,SAC,5,away,JS,,26,miss3,0,B. Hield,
+427,4,6:20.0,130,105,NOP,SAC,3,home,DefReb,,,DefReb,,J. Okafor,
+428,4,6:08.0,130,105,NOP,SAC,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Hield,N. Mirotić
+429,4,6:04.0,130,105,NOP,SAC,4,home,JS,,26,miss3,0,D. Miller,
+430,4,6:04.0,130,105,NOP,SAC,0,away,DefReb,,,DefReb,,D. Fox,
+431,4,5:59.0,130,105,NOP,SAC,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,D. Fox
+432,4,5:59.0,130,106,NOP,SAC,0,away,FreeThrow,,,make1,1,D. Fox,
+433,4,5:59.0,130,106,NOP,SAC,0,away,Sub,,,,,S. Labissière,M. Bagley
+434,4,5:59.0,130,106,NOP,SAC,0,away,Sub,,,,,B. McLemore,B. Hield
+435,4,5:59.0,130,106,NOP,SAC,0,home,Sub,,,,,F. Jackson,N. Mirotić
+436,4,5:59.0,130,107,NOP,SAC,0,away,FreeThrow,,,make1,1,D. Fox,
+437,4,5:40.0,130,107,NOP,SAC,19,home,JS,,7,miss2,0,F. Jackson,
+438,4,5:37.0,130,107,NOP,SAC,3,home,OffReb,,,OffReb,,J. Okafor,
+439,4,5:37.0,130,107,NOP,SAC,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Labissière,J. Okafor
+440,4,5:37.0,130,107,NOP,SAC,0,away,Sub,,,,,F. Mason,D. Fox
+441,4,5:30.0,130,107,NOP,SAC,7,home,HS,,14,miss2,0,J. Okafor,
+442,4,5:27.0,130,107,NOP,SAC,3,away,DefReb,,,DefReb,,F. Mason,
+443,4,5:15.0,130,109,NOP,SAC,12,away,LU,,4,make2,2,S. Labissière,
+444,4,5:00.0,133,109,NOP,SAC,15,home,JS,assist,28,make3,3,I. Clark,D. Miller
+445,4,4:45.0,133,109,NOP,SAC,15,away,JS,,20,miss2,0,B. McLemore,
+446,4,4:41.0,133,109,NOP,SAC,4,home,DefReb,,,DefReb,,D. Miller,
+447,4,4:36.0,136,109,NOP,SAC,5,home,JS,,26,make3,3,D. Miller,
+448,4,4:26.0,136,112,NOP,SAC,10,away,JS,assist,26,make3,3,S. Labissière,F. Mason
+449,4,4:09.0,136,112,NOP,SAC,17,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Okafor,S. Labissière
+450,4,4:09.0,136,112,NOP,SAC,0,home,OffensiveFoul,,,turnover,,J. Okafor,
+451,4,4:09.0,136,112,NOP,SAC,0,away,Timeout,,,,,,
+452,4,4:09.0,136,112,NOP,SAC,0,away,Sub,,,,,M. Bagley,W. Cauley-Stein
+453,4,4:09.0,136,112,NOP,SAC,0,away,Sub,,,,,I. Shumpert,J. Jackson
+454,4,4:09.0,136,112,NOP,SAC,0,home,Sub,,,,,C. Diallo,I. Clark
+455,4,4:09.0,136,112,NOP,SAC,0,home,Sub,,,,,T. Frazier,D. Miller
+456,4,3:58.0,136,112,NOP,SAC,11,away,JS,,23,miss3,0,S. Labissière,
+457,4,3:54.0,136,112,NOP,SAC,4,home,DefReb,,,DefReb,,J. Okafor,
+458,4,3:41.0,136,112,NOP,SAC,13,home,bad pass,steal,,turnover,,S. Hill,M. Bagley
+459,4,3:32.0,136,114,NOP,SAC,9,away,JS,,20,make2,2,F. Mason,
+460,4,3:14.0,139,114,NOP,SAC,18,home,JS,assist,26,make3,3,F. Jackson,J. Okafor
+461,4,2:57.0,139,117,NOP,SAC,17,away,JS,assist,26,make3,3,I. Shumpert,M. Bagley
+462,4,2:42.0,141,117,NOP,SAC,15,home,LU,assist,1,make2,2,C. Diallo,F. Jackson
+463,4,2:26.0,141,120,NOP,SAC,16,away,JS,assist,24,make3,3,F. Mason,M. Bagley
+464,4,2:15.0,143,120,NOP,SAC,11,home,JS,,6,make2,2,F. Jackson,
+465,4,2:04.0,143,120,NOP,SAC,11,away,JS,,26,miss3,0,S. Labissière,
+466,4,2:01.0,143,120,NOP,SAC,3,away,OffReb,,,OffReb,,M. Bagley,
+467,4,1:59.0,143,120,NOP,SAC,2,away,JS,,27,miss3,0,B. McLemore,
+468,4,1:55.0,143,120,NOP,SAC,4,home,DefReb,,,DefReb,,C. Diallo,
+469,4,1:43.0,143,120,NOP,SAC,12,home,JS,,26,miss3,0,T. Frazier,
+470,4,1:41.0,143,120,NOP,SAC,2,away,DefReb,,,DefReb,,I. Shumpert,
+471,4,1:34.0,143,123,NOP,SAC,7,away,JS,,27,make3,3,I. Shumpert,
+472,4,1:24.0,145,123,NOP,SAC,10,home,JS,assist,10,make2,2,J. Okafor,F. Jackson
+473,4,1:14.0,145,123,NOP,SAC,10,away,JS,,27,miss3,0,F. Mason,
+474,4,1:10.0,145,123,NOP,SAC,4,home,DefReb,,,DefReb,,C. Diallo,
+475,4,1:05.0,147,123,NOP,SAC,5,home,LU,assist,2,make2,2,C. Diallo,T. Frazier
+476,4,0:54.0,147,123,NOP,SAC,11,away,JS,,26,miss3,0,M. Bagley,
+477,4,0:51.0,147,123,NOP,SAC,3,away,OffReb,,,OffReb,,S. Labissière,
+478,4,0:49.0,147,123,NOP,SAC,2,away,OffGoaltending,,,turnover,,M. Bagley,
+479,4,0:35.0,147,123,NOP,SAC,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Labissière,J. Okafor
+480,4,0:35.0,148,123,NOP,SAC,0,home,FreeThrow,,,make1,1,J. Okafor,
+481,4,0:35.0,149,123,NOP,SAC,0,home,FreeThrow,,,make1,1,J. Okafor,
+482,4,0:35.0,149,123,NOP,SAC,0,away,Timeout,,,,,,
+483,4,0:34.0,149,126,NOP,SAC,1,away,JS,assist,27,make3,3,B. McLemore,F. Mason
+484,4,0:15.0,149,126,NOP,SAC,19,home,3sec,,,turnover,,C. Diallo,
+485,4,0:06.0,149,129,NOP,SAC,9,away,JS,assist,24,make3,3,I. Shumpert,F. Mason

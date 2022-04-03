@@ -1,0 +1,464 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:40.0,0,0,ORL,NOP,20,away,LU,,2,miss2,0,T. Jones,
+1,1,11:38.0,0,0,ORL,NOP,2,away,OffReb,,,OffReb,,D. Cunningham,
+2,1,11:38.0,0,0,ORL,NOP,0,away,LU,,1,miss2,0,D. Cunningham,
+3,1,11:35.0,0,0,ORL,NOP,3,home,DefReb,,,DefReb,,N. Vučević,
+4,1,11:33.0,0,0,ORL,NOP,2,home,LU,,1,miss2,0,E. Payton,
+5,1,11:30.0,0,0,ORL,NOP,3,away,DefReb,,,DefReb,,Ö. Aşık,
+6,1,11:24.0,0,0,ORL,NOP,6,away,LU,,1,miss2,0,T. Frazier,
+7,1,11:22.0,0,0,ORL,NOP,2,away,OffReb,,,OffReb,,D. Cunningham,
+8,1,11:22.0,0,0,ORL,NOP,0,away,LU,,1,miss2,0,D. Cunningham,
+9,1,11:21.0,0,0,ORL,NOP,1,home,DefReb,,,DefReb,,N. Vučević,
+10,1,11:15.0,0,0,ORL,NOP,6,home,JS,,14,miss2,0,N. Vučević,
+11,1,11:12.0,0,0,ORL,NOP,3,away,DefReb,,,DefReb,,D. Cunningham,
+12,1,11:04.0,0,0,ORL,NOP,8,away,JS,,14,miss2,0,E. Moore,
+13,1,11:02.0,0,0,ORL,NOP,2,home,DefReb,,,DefReb,,N. Vučević,
+14,1,10:40.0,0,0,ORL,NOP,22,home,LU,,2,miss2,0,J. Green,
+15,1,10:37.0,0,0,ORL,NOP,3,away,DefReb,,,DefReb,,Ö. Aşık,
+16,1,10:29.0,0,0,ORL,NOP,8,away,JS,,23,miss3,0,D. Cunningham,
+17,1,10:28.0,0,0,ORL,NOP,1,home,DefReb,,,DefReb,,S. Ibaka,
+18,1,10:12.0,0,0,ORL,NOP,16,home,JS,,28,miss3,0,E. Fournier,
+19,1,10:11.0,0,0,ORL,NOP,1,away,DefReb,,,DefReb,,T. Jones,
+20,1,10:00.0,0,0,ORL,NOP,11,away,JS,,27,miss3,0,T. Jones,
+21,1,9:59.0,0,0,ORL,NOP,1,home,DefReb,,,DefReb,,N. Vučević,
+22,1,9:55.0,0,0,ORL,NOP,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Moore,E. Payton
+23,1,9:55.0,0,0,ORL,NOP,0,home,FreeThrow,,,make1,0,E. Payton,
+24,1,9:55.0,0,0,ORL,NOP,0,home,OffReb,,,OffReb,,Team,
+25,1,9:55.0,1,0,ORL,NOP,0,home,FreeThrow,,,make1,1,E. Payton,
+26,1,9:40.0,1,0,ORL,NOP,15,away,Traveling,,,turnover,,E. Moore,
+27,1,9:29.0,1,0,ORL,NOP,11,home,LostBall,steal,,turnover,,E. Fournier,E. Moore
+28,1,9:21.0,1,0,ORL,NOP,8,away,JS,block,18,miss2,0,T. Frazier,E. Payton
+29,1,9:19.0,1,0,ORL,NOP,2,home,DefReb,,,DefReb,,N. Vučević,
+30,1,9:11.0,1,0,ORL,NOP,8,home,JS,,26,miss3,0,S. Ibaka,
+31,1,9:10.0,1,0,ORL,NOP,1,away,DefReb,,,DefReb,,Ö. Aşık,
+32,1,8:52.0,1,2,ORL,NOP,18,away,HS,,4,make2,2,T. Jones,
+33,1,8:28.0,1,2,ORL,NOP,24,home,JS,,12,miss2,0,E. Payton,
+34,1,8:26.0,1,2,ORL,NOP,2,away,DefReb,,,DefReb,,T. Frazier,
+35,1,8:01.0,1,2,ORL,NOP,25,away,JS,,5,miss2,0,T. Jones,
+36,1,8:00.0,1,2,ORL,NOP,1,away,OffReb,,,OffReb,,Team,
+37,1,7:50.0,1,4,ORL,NOP,10,away,JS,assist,18,make2,2,D. Cunningham,T. Frazier
+38,1,7:39.0,3,4,ORL,NOP,11,home,HS,,3,make2,2,N. Vučević,
+39,1,7:21.0,3,6,ORL,NOP,18,away,JS,,4,make2,2,E. Moore,
+40,1,7:02.0,5,6,ORL,NOP,19,home,HS,,6,make2,2,S. Ibaka,
+41,1,6:45.0,5,6,ORL,NOP,17,away,BadPass,,,turnover,,D. Cunningham,
+42,1,6:29.0,7,6,ORL,NOP,16,home,JS,,18,make2,2,S. Ibaka,
+43,1,6:17.0,7,6,ORL,NOP,12,away,LU,block,3,miss2,0,T. Jones,N. Vučević
+44,1,6:16.0,7,6,ORL,NOP,1,home,DefReb,,,DefReb,,S. Ibaka,
+45,1,6:07.0,7,6,ORL,NOP,9,home,LostBall,steal,,turnover,,J. Green,D. Cunningham
+46,1,5:53.0,7,6,ORL,NOP,14,away,JS,,6,miss2,0,T. Frazier,
+47,1,5:52.0,7,6,ORL,NOP,1,home,DefReb,,,DefReb,,S. Ibaka,
+48,1,5:35.0,7,6,ORL,NOP,17,away,KickBallViolation,,,KickBallViolation,,D. Cunningham,
+49,1,5:35.0,7,6,ORL,NOP,0,home,Timeout,,,,,,
+50,1,5:35.0,7,6,ORL,NOP,0,away,Sub,,,,,A. Ajinça,Ö. Aşık
+51,1,5:32.0,7,6,ORL,NOP,3,home,IllegalScreen,,,turnover,,S. Ibaka,
+52,1,5:06.0,7,8,ORL,NOP,26,away,JS,,16,make2,2,E. Moore,
+53,1,4:46.0,9,8,ORL,NOP,20,home,JS,assist,17,make2,2,N. Vučević,E. Payton
+54,1,4:30.0,9,10,ORL,NOP,16,away,JS,assist,9,make2,2,E. Moore,T. Jones
+55,1,4:15.0,9,10,ORL,NOP,15,home,JS,,19,miss2,0,S. Ibaka,
+56,1,4:14.0,9,10,ORL,NOP,1,home,OffReb,,,OffReb,,N. Vučević,
+57,1,4:05.0,9,10,ORL,NOP,9,home,JS,,27,miss3,0,J. Green,
+58,1,4:04.0,9,10,ORL,NOP,1,away,DefReb,,,DefReb,,T. Jones,
+59,1,3:51.0,9,10,ORL,NOP,13,away,JS,,18,miss2,0,E. Moore,
+60,1,3:50.0,9,10,ORL,NOP,1,away,OffReb,,,OffReb,,Team,
+61,1,3:49.0,9,10,ORL,NOP,1,home,Sub,,,,,A. Gordon,N. Vučević
+62,1,3:49.0,9,10,ORL,NOP,0,home,Sub,,,,,B. Biyombo,J. Green
+63,1,3:49.0,9,10,ORL,NOP,0,away,Sub,,,,,B. Hield,E. Moore
+64,1,3:43.0,9,12,ORL,NOP,6,away,HS,,7,make2,2,D. Cunningham,
+65,1,3:23.0,12,12,ORL,NOP,20,home,JS,,27,make3,3,E. Fournier,
+66,1,3:13.0,12,12,ORL,NOP,10,away,BadPass,steal,,turnover,,T. Frazier,E. Payton
+67,1,3:11.0,12,12,ORL,NOP,2,home,JS,block,3,miss2,0,E. Payton,T. Frazier
+68,1,3:11.0,12,12,ORL,NOP,0,home,OffReb,,,OffReb,,Team,
+69,1,3:11.0,12,12,ORL,NOP,0,away,Sub,,,,,L. Galloway,T. Frazier
+70,1,3:11.0,12,12,ORL,NOP,0,home,Sub,,,,,D. Augustin,E. Payton
+71,1,3:00.0,14,12,ORL,NOP,11,home,DK,assist,0,make2,2,B. Biyombo,A. Gordon
+72,1,2:36.0,14,14,ORL,NOP,24,away,LU,,1,make2,2,T. Jones,
+73,1,2:27.0,14,14,ORL,NOP,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Hield,E. Fournier
+74,1,2:27.0,14,14,ORL,NOP,0,away,Timeout,,,,,,
+75,1,2:27.0,14,14,ORL,NOP,0,away,Sub,,,,,S. Hill,D. Cunningham
+76,1,2:27.0,14,14,ORL,NOP,0,home,Sub,,,,,D. Rudež,S. Ibaka
+77,1,2:17.0,14,14,ORL,NOP,10,home,JS,block,4,miss2,0,B. Biyombo,A. Ajinça
+78,1,2:15.0,14,14,ORL,NOP,2,home,OffReb,,,OffReb,,D. Rudež,
+79,1,2:09.0,16,14,ORL,NOP,6,home,JS,,4,make2,2,E. Fournier,
+80,1,1:45.0,16,14,ORL,NOP,24,away,HS,,6,miss2,0,A. Ajinça,
+81,1,1:45.0,16,14,ORL,NOP,0,home,DefReb,,,DefReb,,Team,
+82,1,1:45.0,16,14,ORL,NOP,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Jones,D. Rudež
+83,1,1:45.0,16,14,ORL,NOP,0,away,Sub,,,,,D. Cunningham,T. Jones
+84,1,1:33.0,18,14,ORL,NOP,12,home,JS,,5,make2,2,D. Augustin,
+85,1,1:19.0,18,14,ORL,NOP,14,away,JS,,27,miss3,0,L. Galloway,
+86,1,1:17.0,18,14,ORL,NOP,2,home,DefReb,,,DefReb,,B. Biyombo,
+87,1,1:15.0,18,14,ORL,NOP,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,A. Gordon
+88,1,1:15.0,18,14,ORL,NOP,0,home,FreeThrow,,,make1,0,A. Gordon,
+89,1,1:15.0,18,14,ORL,NOP,0,home,OffReb,,,OffReb,,Team,
+90,1,1:15.0,19,14,ORL,NOP,0,home,FreeThrow,,,make1,1,A. Gordon,
+91,1,1:03.0,19,14,ORL,NOP,12,away,JS,,26,miss3,0,B. Hield,
+92,1,1:02.0,19,14,ORL,NOP,1,home,DefReb,,,DefReb,,D. Augustin,
+93,1,0:58.0,19,14,ORL,NOP,4,home,LU,block,1,miss2,0,D. Augustin,S. Hill
+94,1,0:57.0,19,14,ORL,NOP,1,away,DefReb,,,DefReb,,Team,
+95,1,0:46.0,19,14,ORL,NOP,11,away,LU,,1,miss2,0,A. Ajinça,
+96,1,0:43.0,19,14,ORL,NOP,3,home,DefReb,,,DefReb,,D. Rudež,
+97,1,0:36.0,19,14,ORL,NOP,7,home,JS,,24,miss3,0,D. Augustin,
+98,1,0:34.0,19,14,ORL,NOP,2,away,DefReb,,,DefReb,,B. Hield,
+99,1,0:34.0,19,14,ORL,NOP,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Biyombo,A. Ajinça
+100,1,0:24.0,19,17,ORL,NOP,10,away,JS,assist,28,make3,3,L. Galloway,B. Hield
+101,1,0:06.0,21,17,ORL,NOP,18,home,LU,,1,make2,2,E. Fournier,
+102,1,0:02.0,21,17,ORL,NOP,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Gordon,S. Hill
+103,1,0:02.0,21,18,ORL,NOP,0,away,FreeThrow,,,make1,1,S. Hill,
+104,1,0:02.0,21,19,ORL,NOP,0,away,FreeThrow,,,make1,1,S. Hill,
+105,2,11:41.0,21,19,ORL,NOP,19,home,LostBall,steal,,turnover,,A. Gordon,D. Cunningham
+106,2,11:22.0,21,19,ORL,NOP,19,away,LU,block,2,miss2,0,S. Hill,A. Gordon
+107,2,11:19.0,21,19,ORL,NOP,3,home,DefReb,,,DefReb,,A. Gordon,
+108,2,11:12.0,21,19,ORL,NOP,7,home,JS,,16,miss2,0,A. Gordon,
+109,2,11:11.0,21,19,ORL,NOP,1,away,DefReb,,,DefReb,,B. Hield,
+110,2,10:59.0,21,19,ORL,NOP,12,away,LU,,3,miss2,0,A. Ajinça,
+111,2,10:58.0,21,19,ORL,NOP,1,away,OffReb,,,OffReb,,A. Ajinça,
+112,2,10:58.0,21,19,ORL,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Biyombo,A. Ajinça
+113,2,10:58.0,21,20,ORL,NOP,0,away,FreeThrow,,,make1,1,A. Ajinça,
+114,2,10:58.0,21,21,ORL,NOP,0,away,FreeThrow,,,make1,1,A. Ajinça,
+115,2,10:47.0,21,21,ORL,NOP,11,home,JS,,25,miss3,0,D. Rudež,
+116,2,10:46.0,21,21,ORL,NOP,1,away,DefReb,,,DefReb,,B. Hield,
+117,2,10:35.0,21,23,ORL,NOP,11,away,JS,assist,19,make2,2,A. Ajinça,B. Hield
+118,2,10:20.0,21,23,ORL,NOP,15,home,JS,,17,miss2,0,A. Gordon,
+119,2,10:19.0,21,23,ORL,NOP,1,away,DefReb,,,DefReb,,D. Cunningham,
+120,2,10:13.0,21,23,ORL,NOP,6,away,LostBall,steal,,turnover,,B. Hield,C. Watson
+121,2,10:09.0,21,23,ORL,NOP,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Galloway,B. Biyombo
+122,2,10:09.0,21,23,ORL,NOP,0,home,FreeThrow,,,make1,0,B. Biyombo,
+123,2,10:09.0,21,23,ORL,NOP,0,home,OffReb,,,OffReb,,Team,
+124,2,10:09.0,22,23,ORL,NOP,0,home,FreeThrow,,,make1,1,B. Biyombo,
+125,2,9:58.0,22,23,ORL,NOP,11,away,JS,,26,miss3,0,L. Galloway,
+126,2,9:56.0,22,23,ORL,NOP,2,home,DefReb,,,DefReb,,C. Watson,
+127,2,9:49.0,25,23,ORL,NOP,7,home,JS,assist,27,make3,3,D. Rudež,C. Watson
+128,2,9:38.0,25,23,ORL,NOP,11,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Ajinça,D. Augustin
+129,2,9:38.0,25,23,ORL,NOP,0,away,OffensiveFoul,,,turnover,,A. Ajinça,
+130,2,9:29.0,25,23,ORL,NOP,9,home,JS,,18,miss2,0,A. Gordon,
+131,2,9:27.0,25,23,ORL,NOP,2,home,OffReb,,,OffReb,,B. Biyombo,
+132,2,9:25.0,27,23,ORL,NOP,2,home,LU,,4,make2,2,A. Gordon,
+133,2,9:25.0,27,23,ORL,NOP,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Ajinça,A. Gordon
+134,2,9:25.0,27,23,ORL,NOP,0,home,FreeThrow,,,make1,0,A. Gordon,
+135,2,9:25.0,27,23,ORL,NOP,0,away,Sub,,,,,Ö. Aşık,A. Ajinça
+136,2,9:23.0,27,23,ORL,NOP,2,away,DefReb,,,DefReb,,D. Cunningham,
+137,2,9:12.0,27,25,ORL,NOP,11,away,JS,assist,12,make2,2,L. Galloway,B. Hield
+138,2,8:58.0,27,25,ORL,NOP,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Galloway,D. Augustin
+139,2,8:58.0,27,25,ORL,NOP,0,away,Timeout,,,,,,
+140,2,8:58.0,28,25,ORL,NOP,0,home,FreeThrow,,,make1,1,D. Augustin,
+141,2,8:58.0,27,25,ORL,NOP,0,away,Sub,,,,,E. Moore,D. Cunningham
+142,2,8:58.0,27,25,ORL,NOP,0,away,Sub,,,,,T. Frazier,L. Galloway
+143,2,8:58.0,29,25,ORL,NOP,0,home,FreeThrow,,,make1,1,D. Augustin,
+144,2,8:38.0,29,25,ORL,NOP,20,away,JS,,14,miss2,0,B. Hield,
+145,2,8:36.0,29,25,ORL,NOP,2,home,DefReb,,,DefReb,,B. Biyombo,
+146,2,8:19.0,29,25,ORL,NOP,17,home,JS,,17,miss2,0,D. Augustin,
+147,2,8:18.0,29,25,ORL,NOP,1,away,DefReb,,,DefReb,,T. Frazier,
+148,2,8:08.0,29,28,ORL,NOP,10,away,JS,assist,25,make3,3,B. Hield,S. Hill
+149,2,7:44.0,32,28,ORL,NOP,24,home,JS,assist,26,make3,3,D. Rudež,B. Biyombo
+150,2,7:28.0,32,28,ORL,NOP,16,away,JS,,15,miss2,0,E. Moore,
+151,2,7:26.0,32,28,ORL,NOP,2,home,DefReb,,,DefReb,,C. Watson,
+152,2,7:16.0,32,28,ORL,NOP,10,away,KickBallViolation,,,KickBallViolation,,T. Frazier,
+153,2,7:16.0,32,28,ORL,NOP,0,home,Sub,,,,,N. Vučević,D. Rudež
+154,2,7:16.0,32,28,ORL,NOP,0,away,Sub,,,,,T. Jones,B. Hield
+155,2,7:08.0,32,28,ORL,NOP,8,home,JS,,21,miss2,0,A. Gordon,
+156,2,7:07.0,32,28,ORL,NOP,1,away,DefReb,,,DefReb,,Ö. Aşık,
+157,2,6:50.0,32,28,ORL,NOP,17,away,JS,,9,miss2,0,E. Moore,
+158,2,6:49.0,32,28,ORL,NOP,1,home,DefReb,,,DefReb,,N. Vučević,
+159,2,6:46.0,32,28,ORL,NOP,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Frazier,C. Watson
+160,2,6:46.0,33,28,ORL,NOP,0,home,FreeThrow,,,make1,1,C. Watson,
+161,2,6:46.0,34,28,ORL,NOP,0,home,FreeThrow,,,make1,1,C. Watson,
+162,2,6:32.0,34,28,ORL,NOP,14,away,LostBall,steal,,turnover,,Ö. Aşık,A. Gordon
+163,2,6:28.0,36,28,ORL,NOP,4,home,LU,assist,1,make2,2,D. Augustin,A. Gordon
+164,2,6:21.0,36,28,ORL,NOP,7,away,Timeout,,,,,,
+165,2,6:21.0,36,28,ORL,NOP,0,away,Sub,,,,,B. Hield,S. Hill
+166,2,6:13.0,36,28,ORL,NOP,8,away,JS,,16,miss2,0,T. Frazier,
+167,2,6:11.0,36,28,ORL,NOP,2,home,DefReb,,,DefReb,,N. Vučević,
+168,2,5:54.0,36,28,ORL,NOP,17,home,JS,,26,miss3,0,D. Augustin,
+169,2,5:53.0,36,28,ORL,NOP,1,away,DefReb,,,DefReb,,B. Hield,
+170,2,5:40.0,36,28,ORL,NOP,13,away,Traveling,,,turnover,,B. Hield,
+171,2,5:24.0,36,28,ORL,NOP,16,home,BackCourtTurnover,,,turnover,,D. Augustin,
+172,2,5:24.0,36,28,ORL,NOP,0,home,Sub,,,,,E. Payton,D. Augustin
+173,2,5:24.0,36,28,ORL,NOP,0,home,Sub,,,,,J. Green,A. Gordon
+174,2,5:12.0,36,28,ORL,NOP,12,away,D3SecTech,,,,,,
+175,2,5:12.0,36,29,ORL,NOP,0,away,FreeThrow,,,make1,1,B. Hield makes technical free throw,
+176,2,4:58.0,36,29,ORL,NOP,14,away,JS,,22,miss2,0,B. Hield,
+177,2,4:56.0,36,29,ORL,NOP,2,away,OffReb,,,OffReb,,Ö. Aşık,
+178,2,4:56.0,36,29,ORL,NOP,0,away,LU,,3,miss2,0,Ö. Aşık,
+179,2,4:54.0,36,29,ORL,NOP,2,home,DefReb,,,DefReb,,E. Payton,
+180,2,4:50.0,39,29,ORL,NOP,4,home,JS,assist,27,make3,3,C. Watson,E. Payton
+181,2,4:33.0,39,29,ORL,NOP,17,away,JS,,8,miss2,0,T. Jones,
+182,2,4:31.0,39,29,ORL,NOP,2,home,DefReb,,,DefReb,,E. Payton,
+183,2,4:27.0,39,29,ORL,NOP,4,away,KickBallViolation,,,KickBallViolation,,T. Frazier,
+184,2,4:27.0,39,29,ORL,NOP,0,home,Sub,,,,,S. Ibaka,B. Biyombo
+185,2,4:27.0,39,29,ORL,NOP,0,away,Sub,,,,,A. Goodwin,B. Hield
+186,2,4:27.0,39,29,ORL,NOP,0,away,Sub,,,,,A. Ajinça,Ö. Aşık
+187,2,4:17.0,39,29,ORL,NOP,10,home,JS,,11,miss2,0,N. Vučević,
+188,2,4:16.0,39,29,ORL,NOP,1,away,DefReb,,,DefReb,,T. Jones,
+189,2,4:03.0,39,29,ORL,NOP,13,away,HS,,8,miss2,0,A. Ajinça,
+190,2,4:02.0,39,29,ORL,NOP,1,home,DefReb,,,DefReb,,C. Watson,
+191,2,3:54.0,42,29,ORL,NOP,8,home,JS,assist,24,make3,3,S. Ibaka,C. Watson
+192,2,3:33.0,42,29,ORL,NOP,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,T. Jones
+193,2,3:33.0,42,30,ORL,NOP,0,away,FreeThrow,,,make1,1,T. Jones,
+194,2,3:33.0,42,30,ORL,NOP,0,home,Sub,,,,,E. Fournier,C. Watson
+195,2,3:33.0,42,31,ORL,NOP,0,away,FreeThrow,,,make1,1,T. Jones,
+196,2,3:22.0,42,31,ORL,NOP,11,home,JS,,17,miss2,0,N. Vučević,
+197,2,3:21.0,42,31,ORL,NOP,1,away,DefReb,,,DefReb,,T. Jones,
+198,2,3:14.0,42,33,ORL,NOP,7,away,LU,assist,3,make2,2,A. Ajinça,T. Jones
+199,2,2:56.0,45,33,ORL,NOP,18,home,JS,assist,24,make3,3,S. Ibaka,E. Fournier
+200,2,2:40.0,45,33,ORL,NOP,16,away,BadPass,steal,,turnover,,T. Frazier,E. Fournier
+201,2,2:34.0,47,33,ORL,NOP,6,home,LU,assist,3,make2,2,S. Ibaka,E. Payton
+202,2,2:26.0,47,33,ORL,NOP,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Fournier,T. Frazier
+203,2,2:26.0,47,33,ORL,NOP,0,home,Timeout,,,,,,
+204,2,2:17.0,47,35,ORL,NOP,9,away,JS,assist,5,make2,2,E. Moore,T. Frazier
+205,2,2:00.0,49,35,ORL,NOP,17,home,LU,,1,make2,2,E. Payton,
+206,2,1:53.0,49,35,ORL,NOP,7,away,LostBall,,,turnover,,T. Frazier,
+207,2,1:41.0,49,35,ORL,NOP,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Ajinça,N. Vučević
+208,2,1:41.0,49,35,ORL,NOP,0,home,FreeThrow,,,make1,0,N. Vučević,
+209,2,1:41.0,49,35,ORL,NOP,0,home,OffReb,,,OffReb,,Team,
+210,2,1:41.0,49,35,ORL,NOP,0,home,FreeThrow,,,make1,0,N. Vučević,
+211,2,1:41.0,49,35,ORL,NOP,0,away,Sub,,,,,Ö. Aşık,A. Ajinça
+212,2,1:40.0,49,35,ORL,NOP,1,away,DefReb,,,DefReb,,Ö. Aşık,
+213,2,1:27.0,49,35,ORL,NOP,13,away,JS,,18,miss2,0,E. Moore,
+214,2,1:26.0,49,35,ORL,NOP,1,home,DefReb,,,DefReb,,N. Vučević,
+215,2,1:24.0,49,35,ORL,NOP,2,home,DblDribble,,,turnover,,E. Payton,
+216,2,1:09.0,49,35,ORL,NOP,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Ibaka,T. Jones
+217,2,1:09.0,49,36,ORL,NOP,0,away,FreeThrow,,,make1,1,T. Jones,
+218,2,1:09.0,49,36,ORL,NOP,0,home,Timeout,,,,,,
+219,2,1:09.0,49,37,ORL,NOP,0,away,FreeThrow,,,make1,1,T. Jones,
+220,2,0:59.0,52,37,ORL,NOP,10,home,JS,assist,25,make3,3,E. Fournier,J. Green
+221,2,0:39.0,52,40,ORL,NOP,20,away,JS,assist,29,make3,3,T. Jones,E. Moore
+222,2,0:27.0,52,40,ORL,NOP,12,home,BadPass,,,turnover,,N. Vučević,
+223,2,0:04.0,52,40,ORL,NOP,23,away,JS,,26,miss3,0,E. Moore,
+224,2,0:03.0,52,40,ORL,NOP,1,home,DefReb,,,DefReb,,J. Green,
+225,2,0:00.0,52,40,ORL,NOP,3,home,JS,block,61,miss3,0,J. Green,A. Goodwin
+226,2,0:00.0,52,40,ORL,NOP,0,home,OffReb,,,OffReb,,Team,
+227,3,11:35.0,52,40,ORL,NOP,25,home,JS,,26,miss3,0,J. Green,
+228,3,11:34.0,52,40,ORL,NOP,1,away,DefReb,,,DefReb,,Ö. Aşık,
+229,3,11:14.0,52,40,ORL,NOP,20,away,BadPass,steal,,turnover,,E. Moore,E. Payton
+230,3,11:08.0,54,40,ORL,NOP,6,home,DK,,0,make2,2,E. Payton,
+231,3,10:47.0,54,40,ORL,NOP,21,away,JS,block,5,miss2,0,T. Frazier,N. Vučević
+232,3,10:45.0,54,40,ORL,NOP,2,home,DefReb,,,DefReb,,S. Ibaka,
+233,3,10:45.0,54,40,ORL,NOP,0,home,LostBall,,,turnover,,S. Ibaka,
+234,3,10:27.0,54,42,ORL,NOP,18,away,LU,,3,make2,2,T. Jones,
+235,3,10:12.0,54,42,ORL,NOP,15,home,JS,,18,miss2,0,J. Green,
+236,3,10:10.0,54,42,ORL,NOP,2,away,DefReb,,,DefReb,,T. Jones,
+237,3,10:04.0,54,42,ORL,NOP,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Fournier,T. Jones
+238,3,10:04.0,54,42,ORL,NOP,0,away,Sub,,,,,D. Cunningham,S. Hill
+239,3,9:57.0,54,42,ORL,NOP,7,away,JS,,18,miss2,0,D. Cunningham,
+240,3,9:56.0,54,42,ORL,NOP,1,away,OffReb,,,OffReb,,Ö. Aşık,
+241,3,9:53.0,54,42,ORL,NOP,3,away,JS,,26,miss3,0,T. Frazier,
+242,3,9:51.0,54,42,ORL,NOP,2,away,OffReb,,,OffReb,,D. Cunningham,
+243,3,9:51.0,54,42,ORL,NOP,0,away,LU,,2,miss2,0,D. Cunningham,
+244,3,9:49.0,54,42,ORL,NOP,2,home,DefReb,,,DefReb,,E. Fournier,
+245,3,9:40.0,54,42,ORL,NOP,9,home,JS,,18,miss2,0,N. Vučević,
+246,3,9:39.0,54,42,ORL,NOP,1,home,OffReb,,,OffReb,,E. Payton,
+247,3,9:37.0,54,42,ORL,NOP,2,home,JS,,25,miss3,0,E. Payton,
+248,3,9:35.0,54,42,ORL,NOP,2,away,DefReb,,,DefReb,,T. Jones,
+249,3,9:26.0,54,44,ORL,NOP,9,away,JS,assist,8,make2,2,T. Jones,E. Moore
+250,3,9:26.0,54,44,ORL,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Ibaka,T. Jones
+251,3,9:26.0,54,45,ORL,NOP,0,away,FreeThrow,,,make1,1,T. Jones,
+252,3,9:13.0,54,45,ORL,NOP,13,home,LU,,1,miss2,0,J. Green,
+253,3,9:11.0,54,45,ORL,NOP,2,away,DefReb,,,DefReb,,T. Jones,
+254,3,8:56.0,54,47,ORL,NOP,15,away,JS,assist,17,make2,2,E. Moore,T. Frazier
+255,3,8:56.0,54,47,ORL,NOP,0,home,Timeout,,,,,,
+256,3,8:31.0,54,47,ORL,NOP,25,home,HS,,9,miss2,0,S. Ibaka,
+257,3,8:30.0,54,47,ORL,NOP,1,away,DefReb,,,DefReb,,Ö. Aşık,
+258,3,8:17.0,54,49,ORL,NOP,13,away,JS,assist,18,make2,2,T. Jones,E. Moore
+259,3,8:05.0,54,49,ORL,NOP,12,home,JS,block,6,miss2,0,N. Vučević,T. Jones
+260,3,8:02.0,54,49,ORL,NOP,3,away,DefReb,,,DefReb,,Ö. Aşık,
+261,3,7:56.0,54,52,ORL,NOP,6,away,JS,assist,26,make3,3,T. Jones,E. Moore
+262,3,7:45.0,54,52,ORL,NOP,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Moore,E. Fournier
+263,3,7:33.0,56,52,ORL,NOP,12,home,JS,assist,16,make2,2,N. Vučević,E. Fournier
+264,3,7:13.0,56,52,ORL,NOP,20,away,LU,block,3,miss2,0,T. Jones,N. Vučević
+265,3,7:10.0,56,52,ORL,NOP,3,home,DefReb,,,DefReb,,E. Payton,
+266,3,7:06.0,56,52,ORL,NOP,4,home,JS,,27,miss3,0,J. Green,
+267,3,7:04.0,56,52,ORL,NOP,2,home,OffReb,,,OffReb,,S. Ibaka,
+268,3,7:02.0,58,52,ORL,NOP,2,home,JS,,10,make2,2,S. Ibaka,
+269,3,6:47.0,58,52,ORL,NOP,15,away,JS,,28,miss3,0,E. Moore,
+270,3,6:45.0,58,52,ORL,NOP,2,home,DefReb,,,DefReb,,S. Ibaka,
+271,3,6:38.0,58,52,ORL,NOP,7,home,JS,,26,miss3,0,E. Fournier,
+272,3,6:38.0,58,52,ORL,NOP,0,away,DefReb,,,DefReb,,D. Cunningham,
+273,3,6:30.0,58,52,ORL,NOP,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,Ö. Aşık
+274,3,6:30.0,58,52,ORL,NOP,0,away,FreeThrow,,,make1,0,Ö. Aşık,
+275,3,6:30.0,58,52,ORL,NOP,0,away,OffReb,,,OffReb,,Team,
+276,3,6:30.0,58,52,ORL,NOP,0,away,FreeThrow,,,make1,0,Ö. Aşık,
+277,3,6:29.0,58,52,ORL,NOP,1,home,DefReb,,,DefReb,,J. Green,
+278,3,6:15.0,58,52,ORL,NOP,14,home,LU,block,3,miss2,0,J. Green,D. Cunningham
+279,3,6:12.0,58,52,ORL,NOP,3,away,DefReb,,,DefReb,,T. Frazier,
+280,3,6:08.0,58,54,ORL,NOP,4,away,JS,,12,make2,2,T. Frazier,
+281,3,5:55.0,58,54,ORL,NOP,13,home,JS,,21,miss2,0,J. Green,
+282,3,5:53.0,58,54,ORL,NOP,2,home,OffReb,,,OffReb,,N. Vučević,
+283,3,5:53.0,58,54,ORL,NOP,0,home,LU,,1,miss2,0,N. Vučević,
+284,3,5:51.0,58,54,ORL,NOP,2,away,DefReb,,,DefReb,,T. Jones,
+285,3,5:36.0,58,54,ORL,NOP,15,away,JS,,18,miss2,0,T. Jones,
+286,3,5:35.0,58,54,ORL,NOP,1,home,DefReb,,,DefReb,,N. Vučević,
+287,3,5:27.0,58,54,ORL,NOP,8,home,3sec,,,turnover,,S. Ibaka,
+288,3,5:27.0,58,54,ORL,NOP,0,home,Sub,,,,,B. Biyombo,N. Vučević
+289,3,5:27.0,58,54,ORL,NOP,0,home,Sub,,,,,A. Gordon,J. Green
+290,3,5:27.0,58,54,ORL,NOP,0,away,Sub,,,,,A. Ajinça,Ö. Aşık
+291,3,5:15.0,58,54,ORL,NOP,12,away,JS,,18,miss2,0,A. Ajinça,
+292,3,5:14.0,58,54,ORL,NOP,1,home,DefReb,,,DefReb,,S. Ibaka,
+293,3,5:04.0,58,54,ORL,NOP,10,home,JS,block,3,miss2,0,E. Payton,A. Ajinça
+294,3,5:01.0,58,54,ORL,NOP,3,away,DefReb,,,DefReb,,E. Moore,
+295,3,4:46.0,58,54,ORL,NOP,15,away,LostBall,steal,,turnover,,E. Moore,E. Payton
+296,3,4:42.0,58,54,ORL,NOP,4,home,LU,block,1,miss2,0,E. Fournier,D. Cunningham
+297,3,4:38.0,58,54,ORL,NOP,4,away,DefReb,,,DefReb,,A. Ajinça,
+298,3,4:35.0,58,54,ORL,NOP,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Payton,T. Frazier
+299,3,4:35.0,58,55,ORL,NOP,0,away,FreeThrow,,,make1,1,T. Frazier,
+300,3,4:35.0,58,55,ORL,NOP,0,away,Sub,,,,,B. Hield,E. Moore
+301,3,4:35.0,58,55,ORL,NOP,0,away,Sub,,,,,S. Hill,T. Jones
+302,3,4:35.0,58,56,ORL,NOP,0,away,FreeThrow,,,make1,1,T. Frazier,
+303,3,4:23.0,58,56,ORL,NOP,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Hield,E. Fournier
+304,3,4:23.0,59,56,ORL,NOP,0,home,FreeThrow,,,make1,1,E. Fournier,
+305,3,4:23.0,60,56,ORL,NOP,0,home,FreeThrow,,,make1,1,E. Fournier,
+306,3,4:09.0,60,56,ORL,NOP,14,away,LostBall,,,turnover,,D. Cunningham,
+307,3,3:59.0,62,56,ORL,NOP,10,home,LU,,1,make2,2,E. Fournier,
+308,3,3:37.0,62,56,ORL,NOP,22,away,LostBall,,,turnover,,T. Frazier,
+309,3,3:25.0,62,56,ORL,NOP,12,home,LU,,3,miss2,0,E. Fournier,
+310,3,3:23.0,62,56,ORL,NOP,2,home,OffReb,,,OffReb,,B. Biyombo,
+311,3,3:09.0,62,56,ORL,NOP,14,home,HS,,7,miss2,0,S. Ibaka,
+312,3,3:08.0,62,56,ORL,NOP,1,away,DefReb,,,DefReb,,A. Ajinça,
+313,3,3:00.0,62,56,ORL,NOP,8,away,JS,,18,miss2,0,D. Cunningham,
+314,3,3:00.0,62,56,ORL,NOP,0,home,DefReb,,,DefReb,,Team,
+315,3,2:39.0,62,56,ORL,NOP,21,home,JS,,26,miss3,0,E. Payton,
+316,3,2:38.0,62,56,ORL,NOP,1,away,DefReb,,,DefReb,,S. Hill,
+317,3,2:35.0,62,56,ORL,NOP,3,away,Timeout,,,,,,
+318,3,2:35.0,62,56,ORL,NOP,0,home,Sub,,,,,D. Rudež,S. Ibaka
+319,3,2:35.0,62,56,ORL,NOP,0,home,Sub,,,,,D. Augustin,E. Payton
+320,3,2:35.0,62,56,ORL,NOP,0,away,Sub,,,,,L. Galloway,T. Frazier
+321,3,2:20.0,62,56,ORL,NOP,15,away,JS,,27,miss3,0,L. Galloway,
+322,3,2:18.0,62,56,ORL,NOP,2,home,DefReb,,,DefReb,,A. Gordon,
+323,3,2:04.0,62,56,ORL,NOP,14,home,LU,,3,miss2,0,A. Gordon,
+324,3,2:04.0,62,56,ORL,NOP,0,home,OffReb,,,OffReb,,B. Biyombo,
+325,3,2:04.0,62,56,ORL,NOP,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Galloway,B. Biyombo
+326,3,1:55.0,62,56,ORL,NOP,9,home,BadPass,steal,,turnover,,D. Augustin,L. Galloway
+327,3,1:51.0,62,58,ORL,NOP,4,away,LU,,1,make2,2,L. Galloway,
+328,3,1:33.0,62,58,ORL,NOP,18,home,JS,block,8,miss2,0,A. Gordon,A. Ajinça
+329,3,1:32.0,62,58,ORL,NOP,1,away,DefReb,,,DefReb,,D. Cunningham,
+330,3,1:20.0,62,61,ORL,NOP,12,away,JS,assist,26,make3,3,D. Cunningham,B. Hield
+331,3,0:56.0,62,61,ORL,NOP,24,home,JS,,26,miss3,0,E. Fournier,
+332,3,0:55.0,62,61,ORL,NOP,1,home,OffReb,,,OffReb,,B. Biyombo,
+333,3,0:54.0,64,61,ORL,NOP,1,home,LU,,2,make2,2,B. Biyombo,
+334,3,0:44.0,64,61,ORL,NOP,10,away,BadPass,,,turnover,,S. Hill,
+335,3,0:35.0,64,61,ORL,NOP,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Ajinça,E. Fournier
+336,3,0:35.0,64,61,ORL,NOP,0,home,TechnicalFoul,,,TechnicalFoul,,E. Fournier,
+337,3,0:35.0,64,61,ORL,NOP,0,away,FreeThrow,,,make1,0,L. Galloway misses technical free throw,
+338,3,0:35.0,64,61,ORL,NOP,0,home,OffReb,,,OffReb,,Team,
+339,3,0:35.0,64,61,ORL,NOP,0,home,FreeThrow,,,make1,0,E. Fournier,
+340,3,0:35.0,64,61,ORL,NOP,0,home,OffReb,,,OffReb,,Team,
+341,3,0:35.0,64,61,ORL,NOP,0,away,Sub,,,,,T. Jones,A. Ajinça
+342,3,0:35.0,65,61,ORL,NOP,0,home,FreeThrow,,,make1,1,E. Fournier,
+343,3,0:25.0,65,63,ORL,NOP,10,away,DK,assist,0,make2,2,T. Jones,B. Hield
+344,3,0:02.0,65,63,ORL,NOP,23,home,JS,,7,miss2,0,E. Fournier,
+345,3,0:01.0,65,63,ORL,NOP,1,away,DefReb,,,DefReb,,L. Galloway,
+346,4,11:43.0,65,63,ORL,NOP,17,away,JS,,5,miss2,0,T. Jones,
+347,4,11:42.0,65,63,ORL,NOP,1,home,DefReb,,,DefReb,,A. Gordon,
+348,4,11:26.0,67,63,ORL,NOP,16,home,JS,,16,make2,2,A. Gordon,
+349,4,11:15.0,67,66,ORL,NOP,11,away,JS,assist,24,make3,3,L. Galloway,S. Hill
+350,4,10:58.0,67,66,ORL,NOP,17,home,JS,,26,miss3,0,A. Gordon,
+351,4,10:57.0,67,66,ORL,NOP,1,home,OffReb,,,OffReb,,B. Biyombo,
+352,4,10:46.0,69,66,ORL,NOP,11,home,LU,assist,2,make2,2,A. Gordon,D. Augustin
+353,4,10:27.0,69,66,ORL,NOP,19,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Biyombo,T. Jones
+354,4,10:20.0,69,68,ORL,NOP,7,away,LU,,2,make2,2,B. Hield,
+355,4,9:56.0,69,68,ORL,NOP,24,home,HS,,5,miss2,0,B. Biyombo,
+356,4,9:55.0,69,68,ORL,NOP,1,away,DefReb,,,DefReb,,Team,
+357,4,9:41.0,69,68,ORL,NOP,14,away,JS,,5,miss2,0,T. Jones,
+358,4,9:41.0,69,68,ORL,NOP,0,away,OffReb,,,OffReb,,Team,
+359,4,9:41.0,69,68,ORL,NOP,0,away,Sub,,,,,A. Ajinça,D. Cunningham
+360,4,9:30.0,69,70,ORL,NOP,11,away,JS,,18,make2,2,B. Hield,
+361,4,9:16.0,71,70,ORL,NOP,14,home,JS,,10,make2,2,D. Augustin,
+362,4,9:02.0,71,70,ORL,NOP,14,away,LU,,1,miss2,0,S. Hill,
+363,4,9:00.0,71,70,ORL,NOP,2,home,DefReb,,,DefReb,,A. Gordon,
+364,4,8:50.0,74,70,ORL,NOP,10,home,JS,assist,25,make3,3,D. Augustin,A. Gordon
+365,4,8:36.0,74,73,ORL,NOP,14,away,JS,assist,27,make3,3,L. Galloway,S. Hill
+366,4,8:22.0,77,73,ORL,NOP,14,home,JS,assist,25,make3,3,D. Rudež,C. Watson
+367,4,8:07.0,77,73,ORL,NOP,15,away,LostBall,steal,,turnover,,S. Hill,D. Augustin
+368,4,8:02.0,77,73,ORL,NOP,5,home,LU,,3,miss2,0,D. Augustin,
+369,4,8:02.0,77,73,ORL,NOP,0,home,OffReb,,,OffReb,,D. Rudež,
+370,4,8:02.0,77,73,ORL,NOP,0,away,DefGoaltending,,,DefGoaltending,,B. Hield,
+371,4,8:02.0,79,73,ORL,NOP,0,home,LU,,2,make2,2,D. Rudež,
+372,4,8:02.0,79,73,ORL,NOP,0,away,Timeout,,,,,,
+373,4,7:43.0,79,73,ORL,NOP,19,away,JS,,26,miss3,0,L. Galloway,
+374,4,7:42.0,79,73,ORL,NOP,1,home,DefReb,,,DefReb,,C. Watson,
+375,4,7:28.0,79,73,ORL,NOP,14,home,JS,,26,miss3,0,D. Augustin,
+376,4,7:25.0,79,73,ORL,NOP,3,away,DefReb,,,DefReb,,B. Hield,
+377,4,7:16.0,79,73,ORL,NOP,9,away,JS,,29,miss3,0,B. Hield,
+378,4,7:15.0,79,73,ORL,NOP,1,away,OffReb,,,OffReb,,Team,
+379,4,7:15.0,79,73,ORL,NOP,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Watson,T. Jones
+380,4,7:15.0,79,73,ORL,NOP,0,away,Sub,,,,,E. Moore,B. Hield
+381,4,7:15.0,79,73,ORL,NOP,0,home,Sub,,,,,N. Vučević,D. Rudež
+382,4,7:05.0,79,73,ORL,NOP,10,away,LostBall,,,turnover,,T. Jones,
+383,4,6:49.0,79,73,ORL,NOP,16,home,JS,,16,miss2,0,N. Vučević,
+384,4,6:48.0,79,73,ORL,NOP,1,away,DefReb,,,DefReb,,T. Jones,
+385,4,6:34.0,79,75,ORL,NOP,14,away,JS,assist,20,make2,2,E. Moore,L. Galloway
+386,4,6:14.0,79,75,ORL,NOP,20,away,Sub,,,,,D. Cunningham,S. Hill
+387,4,6:14.0,79,75,ORL,NOP,0,home,Sub,,,,,E. Fournier,C. Watson
+388,4,6:14.0,79,75,ORL,NOP,0,home,Sub,,,,,E. Payton,D. Augustin
+389,4,6:12.0,79,75,ORL,NOP,2,home,LostBall,steal,,turnover,,B. Biyombo,E. Moore
+390,4,6:08.0,79,77,ORL,NOP,4,away,DK,assist,0,make2,2,T. Jones,L. Galloway
+391,4,6:08.0,79,77,ORL,NOP,0,home,Timeout,,,,,,
+392,4,6:08.0,79,77,ORL,NOP,0,home,Sub,,,,,S. Ibaka,B. Biyombo
+393,4,5:45.0,81,77,ORL,NOP,23,home,HS,assist,5,make2,2,S. Ibaka,E. Fournier
+394,4,5:33.0,81,77,ORL,NOP,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Payton,T. Jones
+395,4,5:17.0,81,79,ORL,NOP,16,away,JS,,16,make2,2,L. Galloway,
+396,4,5:02.0,81,79,ORL,NOP,15,home,JS,,8,miss2,0,E. Fournier,
+397,4,5:01.0,81,79,ORL,NOP,1,away,DefReb,,,DefReb,,A. Ajinça,
+398,4,4:38.0,81,79,ORL,NOP,23,away,ShotClockViolation,,,turnover,,Team,
+399,4,4:19.0,84,79,ORL,NOP,19,home,JS,assist,26,make3,3,A. Gordon,S. Ibaka
+400,4,3:49.0,84,79,ORL,NOP,30,away,HS,,5,miss2,0,T. Jones,
+401,4,3:48.0,84,79,ORL,NOP,1,home,DefReb,,,DefReb,,N. Vučević,
+402,4,3:28.0,84,79,ORL,NOP,20,home,JS,,23,miss3,0,E. Payton,
+403,4,3:26.0,84,79,ORL,NOP,2,home,OffReb,,,OffReb,,S. Ibaka,
+404,4,3:26.0,84,79,ORL,NOP,0,home,LU,,1,miss2,0,S. Ibaka,
+405,4,3:24.0,84,79,ORL,NOP,2,away,DefReb,,,DefReb,,D. Cunningham,
+406,4,3:08.0,84,79,ORL,NOP,16,away,JS,,9,miss2,0,L. Galloway,
+407,4,3:05.0,84,79,ORL,NOP,3,away,OffReb,,,OffReb,,L. Galloway,
+408,4,3:03.0,84,79,ORL,NOP,2,away,Timeout,,,,,,
+409,4,3:03.0,84,79,ORL,NOP,0,home,Sub,,,,,B. Biyombo,N. Vučević
+410,4,2:49.0,84,79,ORL,NOP,14,away,LU,block,2,miss2,0,E. Moore,E. Payton
+411,4,2:49.0,84,79,ORL,NOP,0,away,OffReb,,,OffReb,,E. Moore,
+412,4,2:49.0,84,79,ORL,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Ibaka,E. Moore
+413,4,2:49.0,84,80,ORL,NOP,0,away,FreeThrow,,,make1,1,E. Moore,
+414,4,2:49.0,84,80,ORL,NOP,0,home,Sub,,,,,C. Watson,A. Gordon
+415,4,2:49.0,84,81,ORL,NOP,0,away,FreeThrow,,,make1,1,E. Moore,
+416,4,2:36.0,84,81,ORL,NOP,13,home,3sec,,,turnover,,B. Biyombo,
+417,4,2:21.0,84,81,ORL,NOP,15,away,JS,,13,miss2,0,A. Ajinça,
+418,4,2:19.0,84,81,ORL,NOP,2,home,DefReb,,,DefReb,,C. Watson,
+419,4,2:12.0,84,81,ORL,NOP,7,home,JS,,6,miss2,0,C. Watson,
+420,4,2:11.0,84,81,ORL,NOP,1,away,DefReb,,,DefReb,,A. Ajinça,
+421,4,1:49.0,84,81,ORL,NOP,22,away,JS,,14,miss2,0,E. Moore,
+422,4,1:48.0,84,81,ORL,NOP,1,home,DefReb,,,DefReb,,B. Biyombo,
+423,4,1:29.0,84,81,ORL,NOP,19,home,JS,,21,miss2,0,E. Fournier,
+424,4,1:28.0,84,81,ORL,NOP,1,away,DefReb,,,DefReb,,A. Ajinça,
+425,4,1:23.0,84,81,ORL,NOP,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Biyombo,T. Jones
+426,4,1:23.0,84,81,ORL,NOP,0,away,FreeThrow,,,make1,0,T. Jones,
+427,4,1:23.0,84,81,ORL,NOP,0,away,OffReb,,,OffReb,,Team,
+428,4,1:23.0,84,81,ORL,NOP,0,home,Sub,,,,,A. Gordon,C. Watson
+429,4,1:23.0,84,81,ORL,NOP,0,home,Sub,,,,,N. Vučević,B. Biyombo
+430,4,1:23.0,84,82,ORL,NOP,0,away,FreeThrow,,,make1,1,T. Jones,
+431,4,1:09.0,86,82,ORL,NOP,14,home,HS,assist,6,make2,2,N. Vučević,E. Payton
+432,4,0:50.0,86,82,ORL,NOP,19,away,JS,,27,miss3,0,L. Galloway,
+433,4,0:48.0,86,82,ORL,NOP,2,home,DefReb,,,DefReb,,N. Vučević,
+434,4,0:31.0,86,82,ORL,NOP,17,home,JS,,25,miss3,0,S. Ibaka,
+435,4,0:29.0,86,82,ORL,NOP,2,home,OffReb,,,OffReb,,N. Vučević,
+436,4,0:28.0,88,82,ORL,NOP,1,home,HS,,4,make2,2,N. Vučević,
+437,4,0:28.0,88,82,ORL,NOP,0,away,Timeout,,,,,,
+438,4,0:28.0,88,82,ORL,NOP,0,home,Sub,,,,,B. Biyombo,N. Vučević
+439,4,0:28.0,88,82,ORL,NOP,0,away,Sub,,,,,T. Frazier,D. Cunningham
+440,4,0:21.0,88,82,ORL,NOP,7,away,JS,,25,miss3,0,T. Jones,
+441,4,0:20.0,88,82,ORL,NOP,1,home,DefReb,,,DefReb,,Team,
+442,4,0:20.0,88,82,ORL,NOP,0,away,Sub,,,,,D. Cunningham,A. Ajinça
+443,4,0:20.0,88,82,ORL,NOP,0,home,Sub,,,,,D. Augustin,A. Gordon
+444,4,0:20.0,88,82,ORL,NOP,0,home,Sub,,,,,C. Watson,B. Biyombo
+445,4,0:20.0,88,82,ORL,NOP,0,home,Timeout,,,,,,
+446,4,0:20.0,88,82,ORL,NOP,0,home,Sub,,,,,J. Green,E. Payton
+447,4,0:19.0,88,82,ORL,NOP,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Jones,C. Watson
+448,4,0:17.0,88,82,ORL,NOP,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Moore,E. Fournier
+449,4,0:17.0,88,82,ORL,NOP,0,home,FreeThrow,,,make1,0,E. Fournier,
+450,4,0:17.0,88,82,ORL,NOP,0,home,OffReb,,,OffReb,,Team,
+451,4,0:17.0,89,82,ORL,NOP,0,home,FreeThrow,,,make1,1,E. Fournier,
+452,4,0:17.0,89,82,ORL,NOP,0,away,Timeout,,,,,,
+453,4,0:17.0,89,82,ORL,NOP,0,home,Sub,,,,,B. Biyombo,J. Green
+454,4,0:17.0,89,82,ORL,NOP,0,home,Sub,,,,,A. Gordon,D. Augustin
+455,4,0:17.0,89,82,ORL,NOP,0,home,Sub,,,,,E. Payton,C. Watson
+456,4,0:17.0,89,82,ORL,NOP,0,away,Sub,,,,,B. Hield,D. Cunningham
+457,4,0:16.0,89,82,ORL,NOP,1,away,JS,block,25,miss3,0,E. Moore,B. Biyombo
+458,4,0:15.0,89,82,ORL,NOP,1,away,OffReb,,,OffReb,,E. Moore,
+459,4,0:14.0,89,82,ORL,NOP,1,away,Traveling,,,turnover,,E. Moore,
+460,4,0:14.0,89,82,ORL,NOP,0,home,Sub,,,,,D. Augustin,E. Payton
+461,4,0:14.0,89,82,ORL,NOP,0,home,Sub,,,,,C. Watson,A. Gordon
+462,4,0:14.0,89,82,ORL,NOP,0,home,Sub,,,,,J. Green,B. Biyombo

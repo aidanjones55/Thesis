@@ -1,0 +1,520 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:39.0,2,0,MEM,ATL,21,home,HS,,11,make2,2,J. Valančiūnas,
+1,1,11:23.0,2,3,MEM,ATL,16,away,JS,assist,26,make3,3,K. Huerter,J. Collins
+2,1,11:08.0,2,3,MEM,ATL,15,home,JS,,8,miss2,0,D. Brooks,
+3,1,11:06.0,2,3,MEM,ATL,2,away,DefReb,,,DefReb,,J. Collins,
+4,1,11:00.0,2,5,MEM,ATL,6,away,LU,assist,2,make2,2,J. Collins,T. Young
+5,1,10:48.0,2,5,MEM,ATL,12,home,JS,,1,miss2,0,J. Morant,
+6,1,10:43.0,2,5,MEM,ATL,5,home,OffReb,,,OffReb,,J. Valančiūnas,
+7,1,10:43.0,4,5,MEM,ATL,0,home,DK,,0,make2,2,J. Valančiūnas,
+8,1,10:39.0,4,5,MEM,ATL,4,away,lost ball,steal,,turnover,,T. Young,D. Brooks
+9,1,10:31.0,6,5,MEM,ATL,8,home,JS,assist,1,make2,2,J. Valančiūnas,J. Morant
+10,1,10:17.0,6,5,MEM,ATL,14,away,JS,,26,miss3,0,D. Dedmon,
+11,1,10:13.0,6,5,MEM,ATL,4,home,DefReb,,,DefReb,,D. Melton,
+12,1,10:09.0,8,5,MEM,ATL,4,home,JS,,3,make2,2,D. Brooks,
+13,1,10:09.0,8,5,MEM,ATL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Hunter,D. Brooks
+14,1,10:09.0,8,5,MEM,ATL,0,home,FreeThrow,,,make1,0,D. Brooks,
+15,1,10:05.0,8,5,MEM,ATL,4,away,DefReb,,,DefReb,,D. Dedmon,
+16,1,9:47.0,8,5,MEM,ATL,18,away,JS,,24,miss3,0,D. Hunter,
+17,1,9:45.0,8,5,MEM,ATL,2,away,OffReb,,,OffReb,,D. Dedmon,
+18,1,9:42.0,8,5,MEM,ATL,3,away,LU,,2,miss2,0,D. Dedmon,
+19,1,9:39.0,8,5,MEM,ATL,3,away,OffReb,,,OffReb,,D. Dedmon,
+20,1,9:29.0,8,5,MEM,ATL,10,away,JS,,25,miss3,0,J. Collins,
+21,1,9:26.0,8,5,MEM,ATL,3,home,DefReb,,,DefReb,,J. Valančiūnas,
+22,1,9:18.0,8,5,MEM,ATL,8,home,JS,,10,miss2,0,D. Melton,
+23,1,9:17.0,8,5,MEM,ATL,1,home,OffReb,,,OffReb,,J. Valančiūnas,
+24,1,9:17.0,8,5,MEM,ATL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,J. Valančiūnas
+25,1,9:17.0,9,5,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+26,1,9:17.0,10,5,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+27,1,8:59.0,10,5,MEM,ATL,18,away,Traveling,,,turnover,,D. Hunter,
+28,1,8:47.0,10,5,MEM,ATL,12,home,bad pass,steal,,turnover,,J. Morant,K. Huerter
+29,1,8:43.0,10,5,MEM,ATL,4,away,bad pass,steal,,turnover,,K. Huerter,J. Morant
+30,1,8:36.0,13,5,MEM,ATL,7,home,JS,assist,23,make3,3,D. Melton,K. Anderson
+31,1,8:33.0,13,5,MEM,ATL,3,away,Timeout,,,,,,
+32,1,8:13.0,13,5,MEM,ATL,20,away,Palming,,,turnover,,T. Young,
+33,1,8:05.0,16,5,MEM,ATL,8,home,JS,assist,26,make3,3,D. Brooks,J. Morant
+34,1,7:51.0,16,5,MEM,ATL,14,away,JS,,30,miss3,0,T. Young,
+35,1,7:49.0,16,5,MEM,ATL,2,home,DefReb,,,DefReb,,J. Valančiūnas,
+36,1,7:41.0,16,5,MEM,ATL,8,home,JS,,22,miss2,0,D. Melton,
+37,1,7:39.0,16,5,MEM,ATL,2,away,DefReb,,,DefReb,,K. Huerter,
+38,1,7:30.0,16,8,MEM,ATL,9,away,JS,assist,26,make3,3,J. Collins,K. Huerter
+39,1,7:14.0,16,8,MEM,ATL,16,home,JS,,25,miss3,0,K. Anderson,
+40,1,7:12.0,16,8,MEM,ATL,2,away,DefReb,,,DefReb,,K. Huerter,
+41,1,7:04.0,16,8,MEM,ATL,8,away,bad pass,steal,,turnover,,T. Young,K. Anderson
+42,1,6:55.0,16,8,MEM,ATL,9,home,bad pass,steal,,turnover,,K. Anderson,J. Collins
+43,1,6:46.0,16,8,MEM,ATL,9,away,JS,,26,miss3,0,D. Dedmon,
+44,1,6:43.0,16,8,MEM,ATL,3,home,DefReb,,,DefReb,,K. Anderson,
+45,1,6:37.0,18,8,MEM,ATL,6,home,LU,assist,1,make2,2,D. Melton,K. Anderson
+46,1,6:22.0,18,8,MEM,ATL,15,away,JS,,10,miss2,0,K. Huerter,
+47,1,6:22.0,18,8,MEM,ATL,0,home,DefReb,,,DefReb,,Team,
+48,1,6:22.0,18,8,MEM,ATL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Dedmon,J. Valančiūnas
+49,1,6:22.0,18,8,MEM,ATL,0,away,Sub,,,,,B. Fernando,D. Dedmon
+50,1,6:22.0,18,8,MEM,ATL,0,away,Sub,,,,,C. Reddish,D. Hunter
+51,1,6:22.0,18,8,MEM,ATL,0,away,Sub,,,,,J. Teague,T. Young
+52,1,6:09.0,20,8,MEM,ATL,13,home,JS,assist,7,make2,2,J. Morant,J. Valančiūnas
+53,1,5:55.0,20,8,MEM,ATL,14,away,JS,,23,miss3,0,K. Huerter,
+54,1,5:54.0,20,8,MEM,ATL,1,away,OffReb,,,OffReb,,J. Collins,
+55,1,5:54.0,20,8,MEM,ATL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Brooks,J. Collins
+56,1,5:54.0,20,8,MEM,ATL,0,away,FreeThrow,,,make1,0,J. Collins,
+57,1,5:54.0,20,8,MEM,ATL,0,away,OffReb,,,OffReb,,Team,
+58,1,5:54.0,20,8,MEM,ATL,0,home,Sub,,,,,T. Jones,D. Melton
+59,1,5:54.0,20,9,MEM,ATL,0,away,FreeThrow,,,make1,1,J. Collins,
+60,1,5:33.0,22,9,MEM,ATL,21,home,JS,,21,make2,2,K. Anderson,
+61,1,5:22.0,22,9,MEM,ATL,11,away,JS,,20,miss2,0,C. Reddish,
+62,1,5:19.0,22,9,MEM,ATL,3,home,DefReb,,,DefReb,,J. Morant,
+63,1,5:10.0,22,9,MEM,ATL,9,home,JS,,9,miss2,0,K. Anderson,
+64,1,5:09.0,22,9,MEM,ATL,1,home,OffReb,,,OffReb,,J. Valančiūnas,
+65,1,5:08.0,24,9,MEM,ATL,1,home,LU,,2,make2,2,J. Valančiūnas,
+66,1,4:52.0,24,9,MEM,ATL,16,away,LU,block,2,miss2,0,J. Collins,K. Anderson
+67,1,4:49.0,24,9,MEM,ATL,3,home,DefReb,,,DefReb,,D. Brooks,
+68,1,4:47.0,24,9,MEM,ATL,2,home,LU,,2,miss2,0,T. Jones,
+69,1,4:47.0,24,9,MEM,ATL,0,away,DefReb,,,DefReb,,Team,
+70,1,4:47.0,24,9,MEM,ATL,0,home,Sub,,,,,G. Dieng,K. Anderson
+71,1,4:47.0,24,9,MEM,ATL,0,home,Sub,,,,,J. Jackson,J. Morant
+72,1,4:36.0,24,9,MEM,ATL,11,away,JS,,12,miss2,0,K. Huerter,
+73,1,4:33.0,24,9,MEM,ATL,3,home,DefReb,,,DefReb,,J. Jackson,
+74,1,4:18.0,26,9,MEM,ATL,15,home,LU,assist,1,make2,2,J. Valančiūnas,J. Jackson
+75,1,4:02.0,26,9,MEM,ATL,16,away,JS,,28,miss3,0,J. Teague,
+76,1,4:00.0,26,9,MEM,ATL,2,home,DefReb,,,DefReb,,D. Brooks,
+77,1,3:55.0,26,9,MEM,ATL,5,home,JS,,25,miss3,0,T. Jones,
+78,1,3:51.0,26,9,MEM,ATL,4,away,DefReb,,,DefReb,,K. Huerter,
+79,1,3:41.0,26,9,MEM,ATL,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Valančiūnas,C. Reddish
+80,1,3:41.0,26,10,MEM,ATL,0,away,FreeThrow,,,make1,1,C. Reddish,
+81,1,3:41.0,26,10,MEM,ATL,0,away,Sub,,,,,T. Graham,B. Fernando
+82,1,3:41.0,26,10,MEM,ATL,0,away,Sub,,,,,D. Jones,K. Huerter
+83,1,3:41.0,26,10,MEM,ATL,0,home,Sub,,,,,A. Tolliver,J. Valančiūnas
+84,1,3:41.0,26,11,MEM,ATL,0,away,FreeThrow,,,make1,1,C. Reddish,
+85,1,3:25.0,26,11,MEM,ATL,16,home,JS,,26,miss3,0,D. Brooks,
+86,1,3:21.0,26,11,MEM,ATL,4,away,DefReb,,,DefReb,,C. Reddish,
+87,1,2:57.0,26,11,MEM,ATL,24,away,JS,,8,miss2,0,T. Graham,
+88,1,2:53.0,26,11,MEM,ATL,4,home,DefReb,,,DefReb,,T. Jones,
+89,1,2:48.0,26,11,MEM,ATL,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Reddish,J. Jackson
+90,1,2:48.0,26,11,MEM,ATL,0,home,Timeout,,,,,,
+91,1,2:48.0,26,11,MEM,ATL,0,away,Sub,,,,,V. Carter,J. Collins
+92,1,2:48.0,26,11,MEM,ATL,0,home,Sub,,,,,J. Konchar,D. Brooks
+93,1,2:48.0,27,11,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Jackson,
+94,1,2:48.0,28,11,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Jackson,
+95,1,2:33.0,28,13,MEM,ATL,15,away,LU,assist,1,make2,2,C. Reddish,D. Jones
+96,1,2:21.0,30,13,MEM,ATL,12,home,DK,assist,0,make2,2,J. Konchar,G. Dieng
+97,1,2:06.0,30,13,MEM,ATL,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Konchar,J. Teague
+98,1,2:06.0,30,14,MEM,ATL,0,away,FreeThrow,,,make1,1,J. Teague,
+99,1,2:06.0,30,15,MEM,ATL,0,away,FreeThrow,,,make1,1,J. Teague,
+100,1,1:48.0,32,15,MEM,ATL,18,home,LU,assist,9,make2,2,J. Jackson,T. Jones
+101,1,1:28.0,32,15,MEM,ATL,20,away,JS,,6,miss2,0,J. Teague,
+102,1,1:26.0,32,15,MEM,ATL,2,away,OffReb,,,OffReb,,T. Graham,
+103,1,1:21.0,32,15,MEM,ATL,5,away,JS,,23,miss3,0,T. Graham,
+104,1,1:18.0,32,15,MEM,ATL,3,home,DefReb,,,DefReb,,J. Konchar,
+105,1,1:03.0,32,15,MEM,ATL,15,home,JS,,23,miss3,0,A. Tolliver,
+106,1,1:00.0,32,15,MEM,ATL,3,home,OffReb,,,OffReb,,J. Konchar,
+107,1,0:59.0,35,15,MEM,ATL,1,home,JS,assist,25,make3,3,J. Jackson,J. Konchar
+108,1,0:53.0,35,17,MEM,ATL,6,away,JS,,8,make2,2,J. Teague,
+109,1,0:53.0,35,17,MEM,ATL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Jones,J. Teague
+110,1,0:53.0,35,18,MEM,ATL,0,away,FreeThrow,,,make1,1,J. Teague,
+111,1,0:40.0,35,18,MEM,ATL,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jones,J. Jackson
+112,1,0:40.0,36,18,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Jackson,
+113,1,0:40.0,36,18,MEM,ATL,0,away,Sub,,,,,T. Young,T. Graham
+114,1,0:40.0,36,18,MEM,ATL,0,home,FreeThrow,,,make1,0,J. Jackson,
+115,1,0:39.0,36,18,MEM,ATL,1,away,DefReb,,,DefReb,,D. Jones,
+116,1,0:32.0,36,18,MEM,ATL,7,away,JS,,26,miss3,0,V. Carter,
+117,1,0:29.0,36,18,MEM,ATL,3,home,DefReb,,,DefReb,,J. Konchar,
+118,1,0:10.0,38,18,MEM,ATL,19,home,JS,,23,make2,2,J. Jackson,
+119,1,0:04.0,38,18,MEM,ATL,6,away,JS,,28,miss3,0,T. Young,
+120,1,0:00.0,38,18,MEM,ATL,4,home,DefReb,,,DefReb,,J. Konchar,
+121,2,11:51.0,38,18,MEM,ATL,9,away,OutOfBoundsLB,,,turnover,,T. Young,
+122,2,11:34.0,38,18,MEM,ATL,17,home,JS,,25,miss3,0,A. Tolliver,
+123,2,11:31.0,38,18,MEM,ATL,3,away,DefReb,,,DefReb,,C. Reddish,
+124,2,11:25.0,38,20,MEM,ATL,6,away,DK,assist,1,make2,2,J. Collins,C. Reddish
+125,2,11:16.0,38,20,MEM,ATL,9,home,BadPass,,,turnover,,J. Jackson,
+126,2,11:16.0,38,20,MEM,ATL,0,home,Sub,,,,,J. Morant,T. Jones
+127,2,11:01.0,38,20,MEM,ATL,15,away,LU,block,2,miss2,0,J. Collins,J. Jackson
+128,2,10:57.0,38,20,MEM,ATL,4,home,DefReb,,,DefReb,,A. Tolliver,
+129,2,10:48.0,38,20,MEM,ATL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Collins,J. Morant
+130,2,10:48.0,38,20,MEM,ATL,0,home,FreeThrow,,,make1,0,J. Morant,
+131,2,10:48.0,38,20,MEM,ATL,0,home,OffReb,,,OffReb,,Team,
+132,2,10:48.0,39,20,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Morant,
+133,2,10:35.0,39,20,MEM,ATL,13,away,JS,,22,miss2,0,C. Reddish,
+134,2,10:31.0,39,20,MEM,ATL,4,home,DefReb,,,DefReb,,J. Jackson,
+135,2,10:22.0,39,20,MEM,ATL,9,home,HS,block,6,miss2,0,J. Jackson,J. Collins
+136,2,10:22.0,39,20,MEM,ATL,0,home,OffReb,,,OffReb,,J. Konchar,
+137,2,10:17.0,39,20,MEM,ATL,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,V. Carter,J. Morant
+138,2,10:17.0,39,20,MEM,ATL,0,away,Sub,,,,,D. Hunter,V. Carter
+139,2,10:05.0,39,20,MEM,ATL,12,home,Traveling,,,turnover,,J. Morant,
+140,2,9:52.0,39,20,MEM,ATL,13,away,JS,,17,miss2,0,K. Huerter,
+141,2,9:50.0,39,20,MEM,ATL,2,home,DefReb,,,DefReb,,G. Dieng,
+142,2,9:41.0,39,20,MEM,ATL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Huerter,G. Dieng
+143,2,9:32.0,41,20,MEM,ATL,9,home,DK,assist,1,make2,2,G. Dieng,J. Konchar
+144,2,9:18.0,41,20,MEM,ATL,14,away,JS,,17,miss2,0,D. Hunter,
+145,2,9:15.0,41,20,MEM,ATL,3,home,DefReb,,,DefReb,,J. Konchar,
+146,2,9:01.0,43,20,MEM,ATL,14,home,LU,assist,1,make2,2,G. Dieng,J. Jackson
+147,2,9:01.0,43,20,MEM,ATL,0,away,Timeout,,,,,,
+148,2,8:51.0,43,20,MEM,ATL,10,away,JS,,22,miss2,0,D. Hunter,
+149,2,8:49.0,43,20,MEM,ATL,2,home,DefReb,,,DefReb,,G. Dieng,
+150,2,8:42.0,43,20,MEM,ATL,7,home,bad pass,steal,,turnover,,J. Morant,C. Reddish
+151,2,8:39.0,43,22,MEM,ATL,3,away,DK,,1,make2,2,C. Reddish,
+152,2,8:27.0,43,22,MEM,ATL,12,home,JS,,23,miss3,0,J. Jackson,
+153,2,8:25.0,43,22,MEM,ATL,2,away,DefReb,,,DefReb,,T. Young,
+154,2,8:22.0,43,24,MEM,ATL,3,away,LU,,1,make2,2,T. Young,
+155,2,8:22.0,43,24,MEM,ATL,0,home,DefGoaltending,,,DefGoaltending,,Team,
+156,2,8:20.0,43,24,MEM,ATL,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,C. Reddish,J. Morant
+157,2,8:20.0,43,24,MEM,ATL,0,away,Sub,,,,,D. Dedmon,D. Hunter
+158,2,8:20.0,43,24,MEM,ATL,0,away,Sub,,,,,T. Graham,C. Reddish
+159,2,8:20.0,43,24,MEM,ATL,0,home,Sub,,,,,K. Anderson,J. Konchar
+160,2,8:20.0,43,24,MEM,ATL,0,home,Sub,,,,,D. Melton,A. Tolliver
+161,2,8:08.0,45,24,MEM,ATL,12,home,JS,,7,make2,2,J. Morant,
+162,2,7:57.0,45,24,MEM,ATL,11,away,JS,,23,miss3,0,T. Graham,
+163,2,7:55.0,45,24,MEM,ATL,2,home,DefReb,,,DefReb,,J. Jackson,
+164,2,7:49.0,47,24,MEM,ATL,6,home,JS,,1,make2,2,J. Jackson,
+165,2,7:36.0,47,24,MEM,ATL,13,away,JS,,23,miss3,0,D. Dedmon,
+166,2,7:33.0,47,24,MEM,ATL,3,away,OffReb,,,OffReb,,J. Collins,
+167,2,7:30.0,47,24,MEM,ATL,3,away,JS,,25,miss3,0,K. Huerter,
+168,2,7:27.0,47,24,MEM,ATL,3,away,OffReb,,,OffReb,,T. Graham,
+169,2,7:20.0,47,26,MEM,ATL,7,away,LU,assist,1,make2,2,J. Collins,K. Huerter
+170,2,7:06.0,47,26,MEM,ATL,14,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Dieng,T. Young
+171,2,7:06.0,47,26,MEM,ATL,0,home,OffensiveFoul,,,turnover,,G. Dieng,
+172,2,7:06.0,47,26,MEM,ATL,0,home,Sub,,,,,D. Brooks,G. Dieng
+173,2,7:06.0,47,26,MEM,ATL,0,home,Sub,,,,,J. Valančiūnas,J. Jackson
+174,2,6:53.0,47,29,MEM,ATL,13,away,JS,assist,25,make3,3,K. Huerter,T. Graham
+175,2,6:32.0,47,29,MEM,ATL,21,home,JS,,11,miss2,0,D. Brooks,
+176,2,6:32.0,47,29,MEM,ATL,0,home,OffReb,,,OffReb,,J. Valančiūnas,
+177,2,6:29.0,49,29,MEM,ATL,3,home,LU,,0,make2,2,J. Valančiūnas,
+178,2,6:18.0,49,29,MEM,ATL,11,away,JS,,2,miss2,0,T. Young,
+179,2,6:16.0,49,29,MEM,ATL,2,home,DefReb,,,DefReb,,J. Valančiūnas,
+180,2,5:59.0,49,29,MEM,ATL,17,home,JS,,9,miss2,0,J. Morant,
+181,2,5:56.0,49,29,MEM,ATL,3,away,DefReb,,,DefReb,,J. Collins,
+182,2,5:45.0,49,29,MEM,ATL,11,away,JS,,11,miss2,0,T. Young,
+183,2,5:43.0,49,29,MEM,ATL,2,home,DefReb,,,DefReb,,D. Brooks,
+184,2,5:39.0,49,29,MEM,ATL,4,home,LU,,3,miss2,0,D. Brooks,
+185,2,5:35.0,49,29,MEM,ATL,4,away,DefReb,,,DefReb,,D. Dedmon,
+186,2,5:33.0,49,29,MEM,ATL,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Valančiūnas,D. Dedmon
+187,2,5:33.0,49,30,MEM,ATL,0,away,FreeThrow,,,make1,1,D. Dedmon,
+188,2,5:33.0,49,30,MEM,ATL,0,away,Sub,,,,,D. Hunter,T. Graham
+189,2,5:33.0,49,30,MEM,ATL,0,away,Sub,,,,,J. Teague,K. Huerter
+190,2,5:33.0,49,30,MEM,ATL,0,home,Sub,,,,,T. Jones,J. Morant
+191,2,5:33.0,49,31,MEM,ATL,0,away,FreeThrow,,,make1,1,D. Dedmon,
+192,2,5:21.0,49,31,MEM,ATL,12,home,JS,,8,miss2,0,D. Brooks,
+193,2,5:18.0,49,31,MEM,ATL,3,away,DefReb,,,DefReb,,D. Dedmon,
+194,2,5:12.0,49,31,MEM,ATL,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Melton,T. Young
+195,2,5:12.0,49,31,MEM,ATL,0,away,TechnicalFoul,,,TechnicalFoul,,D. Brooks,
+196,2,5:12.0,49,31,MEM,ATL,0,home,TechnicalFoul,,,TechnicalFoul,,D. Dedmon,
+197,2,5:12.0,49,32,MEM,ATL,0,away,FreeThrow,,,make1,1,T. Young,
+198,2,5:12.0,49,33,MEM,ATL,0,away,FreeThrow,,,make1,1,T. Young,
+199,2,5:12.0,49,33,MEM,ATL,0,home,Timeout,,,,,,
+200,2,5:12.0,49,34,MEM,ATL,0,away,FreeThrow,,,make1,1,T. Young,
+201,2,4:52.0,51,34,MEM,ATL,20,home,JS,,11,make2,2,J. Valančiūnas,
+202,2,4:41.0,51,34,MEM,ATL,11,away,JS,,25,miss3,0,D. Dedmon,
+203,2,4:38.0,51,34,MEM,ATL,3,home,DefReb,,,DefReb,,K. Anderson,
+204,2,4:31.0,54,34,MEM,ATL,7,home,JS,assist,26,make3,3,D. Melton,D. Brooks
+205,2,4:09.0,54,34,MEM,ATL,22,away,JS,,23,miss3,0,D. Hunter,
+206,2,4:06.0,54,34,MEM,ATL,3,home,DefReb,,,DefReb,,D. Melton,
+207,2,4:01.0,54,34,MEM,ATL,5,home,JS,,25,miss3,0,D. Brooks,
+208,2,3:57.0,54,34,MEM,ATL,4,away,DefReb,,,DefReb,,J. Teague,
+209,2,3:57.0,54,34,MEM,ATL,0,away,Sub,,,,,C. Reddish,T. Young
+210,2,3:47.0,54,34,MEM,ATL,10,away,JS,,25,miss3,0,J. Teague,
+211,2,3:45.0,54,34,MEM,ATL,2,away,OffReb,,,OffReb,,D. Hunter,
+212,2,3:38.0,54,34,MEM,ATL,7,away,bad pass,steal,,turnover,,D. Hunter,T. Jones
+213,2,3:33.0,54,34,MEM,ATL,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Reddish,D. Brooks
+214,2,3:33.0,55,34,MEM,ATL,0,home,FreeThrow,,,make1,1,D. Brooks,
+215,2,3:33.0,56,34,MEM,ATL,0,home,FreeThrow,,,make1,1,D. Brooks,
+216,2,3:18.0,56,34,MEM,ATL,15,away,JS,,23,miss3,0,D. Hunter,
+217,2,3:15.0,56,34,MEM,ATL,3,home,DefReb,,,DefReb,,K. Anderson,
+218,2,3:06.0,58,34,MEM,ATL,9,home,JS,assist,13,make2,2,K. Anderson,T. Jones
+219,2,3:01.0,58,34,MEM,ATL,5,away,Timeout,,,,,,
+220,2,3:01.0,58,34,MEM,ATL,0,away,Sub,,,,,V. Carter,D. Dedmon
+221,2,3:01.0,58,34,MEM,ATL,0,away,Sub,,,,,K. Huerter,J. Teague
+222,2,2:54.0,58,34,MEM,ATL,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Brooks,C. Reddish
+223,2,2:42.0,58,34,MEM,ATL,12,away,LU,block,2,miss2,0,J. Collins,J. Valančiūnas
+224,2,2:39.0,58,34,MEM,ATL,3,home,DefReb,,,DefReb,,J. Valančiūnas,
+225,2,2:33.0,58,34,MEM,ATL,6,home,JS,,25,miss3,0,D. Melton,
+226,2,2:29.0,58,34,MEM,ATL,4,home,OffReb,,,OffReb,,J. Valančiūnas,
+227,2,2:29.0,60,34,MEM,ATL,0,home,LU,,0,make2,2,J. Valančiūnas,
+228,2,2:18.0,60,37,MEM,ATL,11,away,JS,assist,26,make3,3,C. Reddish,J. Collins
+229,2,2:06.0,60,37,MEM,ATL,12,home,JS,,25,miss3,0,D. Brooks,
+230,2,2:02.0,60,37,MEM,ATL,4,away,DefReb,,,DefReb,,K. Huerter,
+231,2,1:57.0,60,37,MEM,ATL,5,away,JS,,26,miss3,0,V. Carter,
+232,2,1:56.0,60,37,MEM,ATL,1,home,DefReb,,,DefReb,,Team,
+233,2,1:56.0,60,37,MEM,ATL,0,away,Sub,,,,,J. Teague,C. Reddish
+234,2,1:56.0,60,37,MEM,ATL,0,home,Sub,,,,,J. Jackson,D. Brooks
+235,2,1:56.0,60,37,MEM,ATL,0,home,Sub,,,,,J. Morant,T. Jones
+236,2,1:46.0,60,37,MEM,ATL,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Collins,J. Valančiūnas
+237,2,1:46.0,60,37,MEM,ATL,0,home,FreeThrow,,,make1,0,J. Valančiūnas,
+238,2,1:46.0,60,37,MEM,ATL,0,home,OffReb,,,OffReb,,Team,
+239,2,1:46.0,61,37,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+240,2,1:34.0,61,40,MEM,ATL,12,away,JS,assist,23,make3,3,J. Teague,D. Hunter
+241,2,1:07.0,64,40,MEM,ATL,27,home,JS,assist,24,make3,3,K. Anderson,D. Melton
+242,2,0:56.0,64,42,MEM,ATL,11,away,LU,assist,1,make2,2,V. Carter,J. Teague
+243,2,0:38.0,66,42,MEM,ATL,18,home,DK,assist,0,make2,2,J. Valančiūnas,J. Morant
+244,2,0:32.0,66,45,MEM,ATL,6,away,JS,assist,29,make3,3,J. Collins,J. Teague
+245,2,0:11.0,66,45,MEM,ATL,21,home,JS,,25,miss3,0,J. Jackson,
+246,2,0:08.0,66,45,MEM,ATL,3,away,DefReb,,,DefReb,,D. Hunter,
+247,2,0:07.0,66,45,MEM,ATL,1,away,bad pass,steal,,turnover,,D. Hunter,D. Melton
+248,2,0:02.0,66,45,MEM,ATL,5,home,JS,,24,miss3,0,J. Jackson,
+249,2,0:02.0,66,45,MEM,ATL,0,home,OffReb,,,OffReb,,J. Valančiūnas,
+250,2,0:01.0,66,45,MEM,ATL,1,home,LU,,0,miss2,0,J. Valančiūnas,
+251,2,0:01.0,66,45,MEM,ATL,0,home,OffReb,,,OffReb,,K. Anderson,
+252,3,11:45.0,66,45,MEM,ATL,15,away,LU,,1,miss2,0,J. Collins,
+253,3,11:44.0,66,45,MEM,ATL,1,away,OffReb,,,OffReb,,J. Collins,
+254,3,11:43.0,66,45,MEM,ATL,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Valančiūnas,J. Collins
+255,3,11:43.0,66,46,MEM,ATL,0,away,FreeThrow,,,make1,1,J. Collins,
+256,3,11:43.0,66,47,MEM,ATL,0,away,FreeThrow,,,make1,1,J. Collins,
+257,3,11:31.0,66,47,MEM,ATL,12,home,JS,,26,miss3,0,D. Brooks,
+258,3,11:28.0,66,47,MEM,ATL,3,away,DefReb,,,DefReb,,T. Young,
+259,3,11:27.0,66,49,MEM,ATL,1,away,LU,assist,2,make2,2,D. Hunter,T. Young
+260,3,11:27.0,66,49,MEM,ATL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Brooks,D. Hunter
+261,3,11:27.0,66,50,MEM,ATL,0,away,FreeThrow,,,make1,1,D. Hunter,
+262,3,11:05.0,66,50,MEM,ATL,22,home,bad pass,steal,,turnover,,J. Morant,T. Young
+263,3,10:56.0,66,52,MEM,ATL,9,away,DK,assist,1,make2,2,J. Collins,K. Huerter
+264,3,10:56.0,66,52,MEM,ATL,0,home,Timeout,,,,,,
+265,3,10:40.0,66,52,MEM,ATL,16,home,Traveling,,,turnover,,D. Melton,
+266,3,10:30.0,66,52,MEM,ATL,10,away,JS,,29,miss3,0,T. Young,
+267,3,10:27.0,66,52,MEM,ATL,3,home,DefReb,,,DefReb,,D. Melton,
+268,3,10:20.0,68,52,MEM,ATL,7,home,JS,assist,5,make2,2,K. Anderson,J. Morant
+269,3,10:09.0,68,52,MEM,ATL,11,away,LU,,3,miss2,0,D. Hunter,
+270,3,10:07.0,68,52,MEM,ATL,2,home,DefReb,,,DefReb,,J. Morant,
+271,3,10:05.0,68,52,MEM,ATL,2,home,Traveling,,,turnover,,J. Morant,
+272,3,9:53.0,68,52,MEM,ATL,12,away,JS,,27,miss3,0,D. Dedmon,
+273,3,9:48.0,68,52,MEM,ATL,5,home,DefReb,,,DefReb,,J. Morant,
+274,3,9:39.0,70,52,MEM,ATL,9,home,JS,assist,17,make2,2,D. Brooks,J. Morant
+275,3,9:23.0,70,54,MEM,ATL,16,away,JS,,16,make2,2,T. Young,
+276,3,9:02.0,73,54,MEM,ATL,21,home,JS,assist,23,make3,3,K. Anderson,D. Melton
+277,3,8:43.0,73,54,MEM,ATL,19,away,JS,,28,miss3,0,T. Young,
+278,3,8:41.0,73,54,MEM,ATL,2,home,DefReb,,,DefReb,,J. Valančiūnas,
+279,3,8:33.0,73,54,MEM,ATL,8,home,lost ball,steal,,turnover,,K. Anderson,J. Collins
+280,3,8:30.0,73,56,MEM,ATL,3,away,LU,,1,make2,2,T. Young,
+281,3,8:30.0,73,56,MEM,ATL,0,home,DefGoaltending,,,DefGoaltending,,Team,
+282,3,8:18.0,73,56,MEM,ATL,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Hunter,J. Morant
+283,3,8:18.0,73,56,MEM,ATL,0,home,FreeThrow,,,make1,0,J. Morant,
+284,3,8:18.0,73,56,MEM,ATL,0,home,OffReb,,,OffReb,,Team,
+285,3,8:18.0,74,56,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Morant,
+286,3,8:12.0,74,56,MEM,ATL,6,away,JS,,26,miss3,0,D. Hunter,
+287,3,8:08.0,74,56,MEM,ATL,4,home,DefReb,,,DefReb,,D. Brooks,
+288,3,7:54.0,74,56,MEM,ATL,14,home,JS,,18,miss2,0,D. Brooks,
+289,3,7:53.0,74,56,MEM,ATL,1,away,DefReb,,,DefReb,,Team,
+290,3,7:47.0,74,56,MEM,ATL,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Melton,T. Young
+291,3,7:47.0,74,56,MEM,ATL,0,away,FreeThrow,,,make1,0,T. Young,
+292,3,7:47.0,74,56,MEM,ATL,0,away,OffReb,,,OffReb,,Team,
+293,3,7:47.0,74,56,MEM,ATL,0,away,Sub,,,,,T. Graham,J. Collins
+294,3,7:47.0,74,56,MEM,ATL,0,away,FreeThrow,,,make1,0,T. Young,
+295,3,7:44.0,74,56,MEM,ATL,3,away,OffReb,,,OffReb,,Team,
+296,3,7:42.0,74,58,MEM,ATL,2,away,LU,assist,0,make2,2,K. Huerter,T. Young
+297,3,7:29.0,77,58,MEM,ATL,13,home,JS,assist,23,make3,3,D. Melton,J. Morant
+298,3,7:21.0,77,58,MEM,ATL,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Brooks,D. Dedmon
+299,3,7:21.0,77,59,MEM,ATL,0,away,FreeThrow,,,make1,1,D. Dedmon,
+300,3,7:21.0,77,60,MEM,ATL,0,away,FreeThrow,,,make1,1,D. Dedmon,
+301,3,7:11.0,80,60,MEM,ATL,10,home,JS,assist,26,make3,3,J. Morant,J. Valančiūnas
+302,3,7:01.0,80,60,MEM,ATL,10,away,JS,,27,miss3,0,T. Young,
+303,3,6:57.0,80,60,MEM,ATL,4,away,OffReb,,,OffReb,,D. Hunter,
+304,3,6:57.0,80,62,MEM,ATL,0,away,LU,,0,make2,2,D. Hunter,
+305,3,6:47.0,80,62,MEM,ATL,10,home,JS,,26,miss3,0,J. Valančiūnas,
+306,3,6:46.0,80,62,MEM,ATL,1,away,DefReb,,,DefReb,,T. Young,
+307,3,6:39.0,80,62,MEM,ATL,7,away,bad pass,steal,,turnover,,D. Hunter,D. Melton
+308,3,6:30.0,83,62,MEM,ATL,9,home,JS,assist,26,make3,3,J. Morant,K. Anderson
+309,3,6:29.0,83,62,MEM,ATL,1,away,Timeout,,,,,,
+310,3,6:29.0,83,62,MEM,ATL,0,away,Sub,,,,,J. Collins,D. Dedmon
+311,3,6:29.0,83,62,MEM,ATL,0,away,Sub,,,,,B. Fernando,K. Huerter
+312,3,6:29.0,83,62,MEM,ATL,0,away,Sub,,,,,J. Teague,D. Hunter
+313,3,6:29.0,83,62,MEM,ATL,0,home,Sub,,,,,J. Jackson,D. Brooks
+314,3,6:15.0,83,62,MEM,ATL,14,away,JS,,9,miss2,0,B. Fernando,
+315,3,6:12.0,83,62,MEM,ATL,3,home,DefReb,,,DefReb,,J. Valančiūnas,
+316,3,6:07.0,85,62,MEM,ATL,5,home,LU,assist,1,make2,2,J. Morant,J. Jackson
+317,3,5:47.0,85,65,MEM,ATL,20,away,JS,assist,27,make3,3,T. Graham,J. Teague
+318,3,5:35.0,85,65,MEM,ATL,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Fernando,J. Valančiūnas
+319,3,5:29.0,87,65,MEM,ATL,6,home,JS,assist,19,make2,2,J. Valančiūnas,K. Anderson
+320,3,5:18.0,87,65,MEM,ATL,11,away,JS,,26,miss3,0,T. Young,
+321,3,5:16.0,87,65,MEM,ATL,2,home,DefReb,,,DefReb,,D. Melton,
+322,3,5:14.0,87,65,MEM,ATL,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Collins,J. Jackson
+323,3,5:14.0,87,65,MEM,ATL,0,home,FreeThrow,,,make1,0,J. Jackson,
+324,3,5:14.0,87,65,MEM,ATL,0,home,OffReb,,,OffReb,,Team,
+325,3,5:14.0,87,65,MEM,ATL,0,away,Sub,,,,,V. Carter,T. Graham
+326,3,5:14.0,87,65,MEM,ATL,0,away,Sub,,,,,B. Goodwin,T. Young
+327,3,5:14.0,87,65,MEM,ATL,0,home,Sub,,,,,G. Dieng,K. Anderson
+328,3,5:14.0,87,65,MEM,ATL,0,home,Sub,,,,,T. Jones,D. Melton
+329,3,5:14.0,87,65,MEM,ATL,0,home,FreeThrow,,,make1,0,J. Jackson,
+330,3,5:11.0,87,65,MEM,ATL,3,away,DefReb,,,DefReb,,B. Fernando,
+331,3,5:05.0,87,65,MEM,ATL,6,away,JS,,26,miss3,0,J. Collins,
+332,3,5:01.0,87,65,MEM,ATL,4,home,DefReb,,,DefReb,,T. Jones,
+333,3,4:48.0,87,65,MEM,ATL,13,home,JS,,26,miss3,0,J. Jackson,
+334,3,4:43.0,87,65,MEM,ATL,5,home,OffReb,,,OffReb,,G. Dieng,
+335,3,4:41.0,89,65,MEM,ATL,2,home,LU,assist,1,make2,2,J. Jackson,G. Dieng
+336,3,4:30.0,89,65,MEM,ATL,11,home,KickBallViolation,,,KickBallViolation,,Team,
+337,3,4:24.0,89,67,MEM,ATL,6,away,JS,assist,15,make2,2,J. Teague,B. Fernando
+338,3,4:06.0,89,67,MEM,ATL,18,home,JS,,9,miss2,0,J. Morant,
+339,3,4:03.0,89,67,MEM,ATL,3,away,DefReb,,,DefReb,,B. Fernando,
+340,3,3:58.0,89,67,MEM,ATL,5,away,JS,,26,miss3,0,V. Carter,
+341,3,3:54.0,89,67,MEM,ATL,4,home,DefReb,,,DefReb,,G. Dieng,
+342,3,3:46.0,89,67,MEM,ATL,8,home,LU,block,1,miss2,0,J. Jackson,J. Teague
+343,3,3:46.0,89,67,MEM,ATL,0,away,DefReb,,,DefReb,,B. Fernando,
+344,3,3:46.0,89,67,MEM,ATL,0,away,TechnicalFoul,,,TechnicalFoul,,J. Jackson,
+345,3,3:46.0,89,68,MEM,ATL,0,away,FreeThrow,,,make1,1,J. Collins makes technical free throw,
+346,3,3:46.0,89,68,MEM,ATL,0,home,Sub,,,,,J. Konchar,J. Morant
+347,3,3:28.0,89,68,MEM,ATL,18,away,LU,block,7,miss2,0,J. Collins,J. Valančiūnas
+348,3,3:26.0,89,68,MEM,ATL,2,home,DefReb,,,DefReb,,Team,
+349,3,3:05.0,89,68,MEM,ATL,21,home,JS,,26,miss3,0,J. Jackson,
+350,3,3:01.0,89,68,MEM,ATL,4,away,DefReb,,,DefReb,,J. Teague,
+351,3,2:57.0,89,68,MEM,ATL,4,away,JS,,25,miss3,0,B. Goodwin,
+352,3,2:55.0,89,68,MEM,ATL,2,home,DefReb,,,DefReb,,J. Konchar,
+353,3,2:43.0,89,68,MEM,ATL,12,home,JS,,25,miss3,0,T. Jones,
+354,3,2:38.0,89,68,MEM,ATL,5,away,DefReb,,,DefReb,,V. Carter,
+355,3,2:25.0,89,68,MEM,ATL,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,J. Collins
+356,3,2:25.0,89,69,MEM,ATL,0,away,FreeThrow,,,make1,1,J. Collins,
+357,3,2:25.0,89,69,MEM,ATL,0,away,Sub,,,,,K. Huerter,J. Teague
+358,3,2:25.0,89,69,MEM,ATL,0,home,Sub,,,,,A. Tolliver,J. Valančiūnas
+359,3,2:25.0,89,70,MEM,ATL,0,away,FreeThrow,,,make1,1,J. Collins,
+360,3,2:25.0,89,70,MEM,ATL,0,away,Sub,,,,,D. Hunter,B. Fernando
+361,3,2:13.0,89,70,MEM,ATL,12,home,bad pass,steal,,turnover,,J. Konchar,B. Goodwin
+362,3,2:09.0,89,72,MEM,ATL,4,away,LU,,1,make2,2,B. Goodwin,
+363,3,1:45.0,89,72,MEM,ATL,24,home,JS,,25,miss3,0,J. Jackson,
+364,3,1:42.0,89,72,MEM,ATL,3,home,OffReb,,,OffReb,,A. Tolliver,
+365,3,1:33.0,89,72,MEM,ATL,9,home,OutOfBoundsLB,,,turnover,,G. Dieng,
+366,3,1:24.0,89,72,MEM,ATL,9,away,JS,,9,miss2,0,K. Huerter,
+367,3,1:22.0,89,72,MEM,ATL,2,home,DefReb,,,DefReb,,Team,
+368,3,1:09.0,91,72,MEM,ATL,13,home,JS,,9,make2,2,T. Jones,
+369,3,0:52.0,91,72,MEM,ATL,17,away,bad pass,steal,,turnover,,B. Goodwin,J. Jackson
+370,3,0:46.0,91,72,MEM,ATL,6,home,LU,,2,miss2,0,J. Konchar,
+371,3,0:42.0,91,72,MEM,ATL,4,away,DefReb,,,DefReb,,J. Collins,
+372,3,0:38.0,91,75,MEM,ATL,4,away,JS,assist,25,make3,3,K. Huerter,V. Carter
+373,3,0:25.0,91,75,MEM,ATL,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Goodwin,T. Jones
+374,3,0:25.0,91,75,MEM,ATL,0,away,Sub,,,,,T. Graham,J. Collins
+375,3,0:24.0,91,75,MEM,ATL,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Goodwin,T. Jones
+376,3,0:24.0,92,75,MEM,ATL,0,home,FreeThrow,,,make1,1,T. Jones,
+377,3,0:24.0,92,75,MEM,ATL,0,away,Sub,,,,,J. Collins,B. Goodwin
+378,3,0:24.0,92,75,MEM,ATL,0,away,Sub,,,,,T. Young,T. Graham
+379,3,0:24.0,93,75,MEM,ATL,0,home,FreeThrow,,,make1,1,T. Jones,
+380,3,0:03.0,93,78,MEM,ATL,21,away,JS,,26,make3,3,T. Young,
+381,3,0:01.0,93,78,MEM,ATL,2,home,JS,,11,miss2,0,G. Dieng,
+382,3,0:01.0,93,78,MEM,ATL,0,home,OffReb,,,OffReb,,Team,
+383,4,11:46.0,95,78,MEM,ATL,14,home,JS,,17,make2,2,J. Jackson,
+384,4,11:33.0,95,78,MEM,ATL,13,away,JS,,26,miss3,0,V. Carter,
+385,4,11:30.0,95,78,MEM,ATL,3,home,DefReb,,,DefReb,,J. Konchar,
+386,4,11:24.0,97,78,MEM,ATL,6,home,JS,,13,make2,2,T. Jones,
+387,4,11:14.0,97,78,MEM,ATL,10,away,BadPass,,,turnover,,T. Young,
+388,4,10:52.0,97,78,MEM,ATL,22,home,JS,,10,miss2,0,J. Jackson,
+389,4,10:48.0,97,78,MEM,ATL,4,home,OffReb,,,OffReb,,J. Konchar,
+390,4,10:48.0,97,78,MEM,ATL,0,home,LU,,1,miss2,0,J. Konchar,
+391,4,10:47.0,97,78,MEM,ATL,1,away,DefReb,,,DefReb,,D. Hunter,
+392,4,10:36.0,97,78,MEM,ATL,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Jones,T. Young
+393,4,10:28.0,97,78,MEM,ATL,8,away,JS,,12,miss2,0,D. Hunter,
+394,4,10:24.0,97,78,MEM,ATL,4,away,OffReb,,,OffReb,,D. Dedmon,
+395,4,10:24.0,97,80,MEM,ATL,0,away,LU,,0,make2,2,D. Dedmon,
+396,4,10:13.0,97,80,MEM,ATL,11,home,JS,,26,miss3,0,G. Dieng,
+397,4,10:09.0,97,80,MEM,ATL,4,home,OffReb,,,OffReb,,J. Konchar,
+398,4,10:05.0,97,80,MEM,ATL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Hunter,J. Jackson
+399,4,10:05.0,98,80,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Jackson,
+400,4,10:05.0,98,80,MEM,ATL,0,home,FreeThrow,,,make1,0,J. Jackson,
+401,4,10:03.0,98,80,MEM,ATL,2,away,DefReb,,,DefReb,,D. Dedmon,
+402,4,9:47.0,98,80,MEM,ATL,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,T. Young
+403,4,9:47.0,98,81,MEM,ATL,0,away,FreeThrow,,,make1,1,T. Young,
+404,4,9:47.0,98,81,MEM,ATL,0,home,Sub,,,,,D. Melton,J. Konchar
+405,4,9:47.0,98,82,MEM,ATL,0,away,FreeThrow,,,make1,1,T. Young,
+406,4,9:31.0,98,82,MEM,ATL,16,home,bad pass,steal,,turnover,,T. Jones,D. Dedmon
+407,4,9:28.0,98,82,MEM,ATL,3,away,JS,,25,miss3,0,T. Young,
+408,4,9:24.0,98,82,MEM,ATL,4,away,OffReb,,,OffReb,,D. Dedmon,
+409,4,9:24.0,98,82,MEM,ATL,0,away,LU,,1,miss2,0,D. Dedmon,
+410,4,9:24.0,98,82,MEM,ATL,0,away,OffReb,,,OffReb,,D. Hunter,
+411,4,9:24.0,98,82,MEM,ATL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,D. Hunter
+412,4,9:24.0,98,82,MEM,ATL,0,away,FreeThrow,,,make1,0,D. Hunter,
+413,4,9:24.0,98,82,MEM,ATL,0,away,OffReb,,,OffReb,,Team,
+414,4,9:24.0,98,82,MEM,ATL,0,away,Sub,,,,,T. Graham,V. Carter
+415,4,9:24.0,98,82,MEM,ATL,0,home,Sub,,,,,J. Morant,T. Jones
+416,4,9:24.0,98,83,MEM,ATL,0,away,FreeThrow,,,make1,1,D. Hunter,
+417,4,9:15.0,98,83,MEM,ATL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,G. Dieng
+418,4,9:15.0,98,83,MEM,ATL,0,home,FreeThrow,,,make1,0,G. Dieng,
+419,4,9:15.0,98,83,MEM,ATL,0,home,OffReb,,,OffReb,,Team,
+420,4,9:15.0,98,83,MEM,ATL,0,home,FreeThrow,,,make1,0,G. Dieng,
+421,4,9:11.0,98,83,MEM,ATL,4,away,DefReb,,,DefReb,,D. Dedmon,
+422,4,9:03.0,98,83,MEM,ATL,8,away,JS,,25,miss3,0,D. Dedmon,
+423,4,9:03.0,98,83,MEM,ATL,0,away,OffReb,,,OffReb,,Team,
+424,4,9:03.0,98,83,MEM,ATL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dieng,D. Hunter
+425,4,8:55.0,98,83,MEM,ATL,8,away,JS,,26,miss3,0,T. Young,
+426,4,8:52.0,98,83,MEM,ATL,3,home,DefReb,,,DefReb,,J. Jackson,
+427,4,8:32.0,101,83,MEM,ATL,20,home,JS,assist,26,make3,3,J. Morant,D. Melton
+428,4,8:20.0,101,83,MEM,ATL,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dieng,T. Young
+429,4,8:20.0,101,84,MEM,ATL,0,away,FreeThrow,,,make1,1,T. Young,
+430,4,8:20.0,101,84,MEM,ATL,0,away,Sub,,,,,J. Collins,D. Hunter
+431,4,8:20.0,101,84,MEM,ATL,0,home,Sub,,,,,K. Anderson,G. Dieng
+432,4,8:20.0,101,84,MEM,ATL,0,home,Sub,,,,,D. Brooks,J. Jackson
+433,4,8:20.0,101,84,MEM,ATL,0,home,Sub,,,,,J. Valančiūnas,A. Tolliver
+434,4,8:20.0,101,85,MEM,ATL,0,away,FreeThrow,,,make1,1,T. Young,
+435,4,8:06.0,101,85,MEM,ATL,14,home,BadPass,,,turnover,,J. Morant,
+436,4,7:56.0,101,85,MEM,ATL,10,away,bad pass,steal,,turnover,,K. Huerter,J. Morant
+437,4,7:55.0,101,85,MEM,ATL,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Young,D. Melton
+438,4,7:39.0,104,85,MEM,ATL,16,home,JS,,23,make3,3,J. Morant,
+439,4,7:27.0,104,85,MEM,ATL,12,away,JS,,24,miss3,0,D. Dedmon,
+440,4,7:23.0,104,85,MEM,ATL,4,away,OffReb,,,OffReb,,K. Huerter,
+441,4,7:21.0,104,85,MEM,ATL,2,away,JS,,25,miss3,0,T. Young,
+442,4,7:18.0,104,85,MEM,ATL,3,away,OffReb,,,OffReb,,D. Dedmon,
+443,4,7:17.0,104,85,MEM,ATL,1,away,JS,,5,miss2,0,D. Dedmon,
+444,4,7:14.0,104,85,MEM,ATL,3,home,DefReb,,,DefReb,,D. Melton,
+445,4,7:12.0,104,85,MEM,ATL,2,home,bad pass,steal,,turnover,,D. Melton,T. Young
+446,4,7:08.0,104,87,MEM,ATL,4,away,DK,assist,1,make2,2,J. Collins,T. Young
+447,4,7:08.0,104,87,MEM,ATL,0,home,Timeout,,,,,,
+448,4,7:08.0,104,87,MEM,ATL,0,away,Sub,,,,,D. Hunter,D. Dedmon
+449,4,7:01.0,104,87,MEM,ATL,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Hunter,J. Valančiūnas
+450,4,7:01.0,105,87,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+451,4,7:01.0,106,87,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+452,4,6:50.0,106,89,MEM,ATL,11,away,DK,assist,0,make2,2,J. Collins,T. Graham
+453,4,6:30.0,106,89,MEM,ATL,20,home,JS,,26,miss3,0,D. Brooks,
+454,4,6:27.0,106,89,MEM,ATL,3,away,DefReb,,,DefReb,,T. Young,
+455,4,6:19.0,106,92,MEM,ATL,8,away,JS,assist,25,make3,3,T. Graham,K. Huerter
+456,4,6:05.0,106,92,MEM,ATL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Graham,J. Valančiūnas
+457,4,6:05.0,106,92,MEM,ATL,0,home,FreeThrow,,,make1,0,J. Valančiūnas,
+458,4,6:05.0,106,92,MEM,ATL,0,home,OffReb,,,OffReb,,Team,
+459,4,6:05.0,107,92,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+460,4,5:58.0,107,92,MEM,ATL,7,away,lost ball,steal,,turnover,,K. Huerter,D. Melton
+461,4,5:56.0,109,92,MEM,ATL,2,home,DK,assist,0,make2,2,D. Melton,D. Brooks
+462,4,5:44.0,109,92,MEM,ATL,12,away,LU,block,3,miss2,0,T. Young,J. Morant
+463,4,5:40.0,109,92,MEM,ATL,4,home,DefReb,,,DefReb,,J. Morant,
+464,4,5:30.0,109,92,MEM,ATL,10,home,bad pass,steal,,turnover,,D. Brooks,K. Huerter
+465,4,5:28.0,109,92,MEM,ATL,2,away,Palming,,,turnover,,K. Huerter,
+466,4,5:10.0,109,92,MEM,ATL,18,home,JS,,27,miss3,0,D. Melton,
+467,4,5:07.0,109,92,MEM,ATL,3,away,DefReb,,,DefReb,,T. Young,
+468,4,4:55.0,109,92,MEM,ATL,12,away,JS,,12,miss2,0,D. Hunter,
+469,4,4:52.0,109,92,MEM,ATL,3,home,DefReb,,,DefReb,,J. Valančiūnas,
+470,4,4:38.0,109,92,MEM,ATL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Young,J. Morant
+471,4,4:38.0,110,92,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Morant,
+472,4,4:38.0,110,92,MEM,ATL,0,away,Sub,,,,,J. Teague,T. Young
+473,4,4:38.0,111,92,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Morant,
+474,4,4:29.0,111,95,MEM,ATL,9,away,JS,assist,26,make3,3,J. Collins,K. Huerter
+475,4,4:09.0,111,95,MEM,ATL,20,home,JS,,2,miss2,0,D. Melton,
+476,4,4:05.0,111,95,MEM,ATL,4,away,DefReb,,,DefReb,,J. Collins,
+477,4,4:01.0,111,95,MEM,ATL,4,away,JS,,26,miss3,0,K. Huerter,
+478,4,4:00.0,111,95,MEM,ATL,1,home,DefReb,,,DefReb,,J. Valančiūnas,
+479,4,4:00.0,111,95,MEM,ATL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Hunter,J. Valančiūnas
+480,4,4:00.0,112,95,MEM,ATL,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+481,4,4:00.0,112,95,MEM,ATL,0,away,Sub,,,,,V. Carter,T. Graham
+482,4,4:00.0,112,95,MEM,ATL,0,home,FreeThrow,,,make1,0,J. Valančiūnas,
+483,4,3:58.0,112,95,MEM,ATL,2,away,DefReb,,,DefReb,,J. Collins,
+484,4,3:44.0,112,98,MEM,ATL,14,away,JS,assist,23,make3,3,V. Carter,K. Huerter
+485,4,3:26.0,112,98,MEM,ATL,18,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Hunter,D. Brooks
+486,4,3:26.0,112,98,MEM,ATL,0,away,Sub,,,,,B. Goodwin,D. Hunter
+487,4,3:26.0,112,98,MEM,ATL,0,home,FreeThrow,,,make1,0,D. Brooks,
+488,4,3:26.0,112,98,MEM,ATL,0,home,OffReb,,,OffReb,,Team,
+489,4,3:26.0,113,98,MEM,ATL,0,home,FreeThrow,,,make1,1,D. Brooks,
+490,4,3:16.0,113,98,MEM,ATL,10,away,JS,,25,miss3,0,V. Carter,
+491,4,3:14.0,113,98,MEM,ATL,2,home,DefReb,,,DefReb,,J. Valančiūnas,
+492,4,2:59.0,116,98,MEM,ATL,15,home,JS,assist,25,make3,3,D. Brooks,K. Anderson
+493,4,2:46.0,116,101,MEM,ATL,13,away,JS,assist,26,make3,3,B. Goodwin,J. Collins
+494,4,2:18.0,116,101,MEM,ATL,28,home,JS,,11,miss2,0,D. Brooks,
+495,4,2:18.0,116,101,MEM,ATL,0,away,DefReb,,,DefReb,,V. Carter,
+496,4,2:05.0,116,101,MEM,ATL,13,away,JS,,13,miss2,0,J. Teague,
+497,4,2:02.0,116,101,MEM,ATL,3,home,DefReb,,,DefReb,,D. Melton,
+498,4,1:44.0,116,101,MEM,ATL,18,home,JS,,2,miss2,0,J. Morant,
+499,4,1:42.0,116,101,MEM,ATL,2,home,OffReb,,,OffReb,,J. Valančiūnas,
+500,4,1:41.0,116,101,MEM,ATL,1,home,LU,,2,miss2,0,J. Valančiūnas,
+501,4,1:40.0,116,101,MEM,ATL,1,home,OffReb,,,OffReb,,J. Morant,
+502,4,1:40.0,118,101,MEM,ATL,0,home,LU,,1,make2,2,J. Morant,
+503,4,1:15.0,118,101,MEM,ATL,25,away,JS,block,12,miss2,0,J. Teague,J. Valančiūnas
+504,4,1:10.0,118,101,MEM,ATL,5,home,DefReb,,,DefReb,,J. Valančiūnas,
+505,4,1:10.0,118,101,MEM,ATL,0,home,Timeout,,,,,,
+506,4,1:10.0,118,101,MEM,ATL,0,away,Sub,,,,,B. Fernando,J. Collins
+507,4,1:10.0,118,101,MEM,ATL,0,away,Sub,,,,,T. Graham,K. Huerter
+508,4,1:10.0,118,101,MEM,ATL,0,home,Sub,,,,,M. Guduric,K. Anderson
+509,4,1:10.0,118,101,MEM,ATL,0,home,Sub,,,,,J. Konchar,D. Brooks
+510,4,1:10.0,118,101,MEM,ATL,0,home,Sub,,,,,A. Tolliver,D. Melton
+511,4,1:10.0,118,101,MEM,ATL,0,home,Sub,,,,,J. Uthoff,J. Morant
+512,4,1:10.0,118,101,MEM,ATL,0,home,Sub,,,,,Y. Watanabe,J. Valančiūnas
+513,4,0:50.0,118,101,MEM,ATL,20,home,JS,,26,miss3,0,M. Guduric,
+514,4,0:49.0,118,101,MEM,ATL,1,away,DefReb,,,DefReb,,B. Fernando,
+515,4,0:30.0,118,101,MEM,ATL,19,away,JS,,27,miss3,0,B. Goodwin,
+516,4,0:28.0,118,101,MEM,ATL,2,home,DefReb,,,DefReb,,Team,
+517,4,0:28.0,118,101,MEM,ATL,0,away,Sub,,,,,D. Jones,V. Carter
+518,4,0:04.0,118,101,MEM,ATL,24,home,ShotClockViolation,,,turnover,,Team,

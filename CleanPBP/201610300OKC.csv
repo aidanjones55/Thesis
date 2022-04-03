@@ -1,0 +1,480 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,0,0,OKC,LAL,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Young,S. Adams
+1,1,11:43.0,1,0,OKC,LAL,0,home,FreeThrow,,,make1,1,S. Adams,
+2,1,11:43.0,2,0,OKC,LAL,0,home,FreeThrow,,,make1,1,S. Adams,
+3,1,11:23.0,2,2,OKC,LAL,20,away,JS,,4,make2,2,J. Randle,
+4,1,11:23.0,2,2,OKC,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Sabonis,J. Randle
+5,1,11:23.0,2,3,OKC,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+6,1,11:11.0,4,3,OKC,LAL,12,home,DK,assist,0,make2,2,S. Adams,R. Westbrook
+7,1,10:55.0,4,5,OKC,LAL,16,away,LU,assist,2,make2,2,J. Randle,D. Russell
+8,1,10:43.0,4,5,OKC,LAL,12,home,JS,,12,miss2,0,V. Oladipo,
+9,1,10:43.0,4,5,OKC,LAL,0,home,OffReb,,,OffReb,,Team,
+10,1,10:43.0,4,5,OKC,LAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Mozgov,S. Adams
+11,1,10:33.0,6,5,OKC,LAL,10,home,DK,assist,0,make2,2,S. Adams,R. Westbrook
+12,1,10:09.0,6,5,OKC,LAL,24,away,JS,,26,miss3,0,N. Young,
+13,1,10:09.0,6,5,OKC,LAL,0,away,OffReb,,,OffReb,,D. Russell,
+14,1,9:56.0,6,5,OKC,LAL,13,away,JS,,6,miss2,0,D. Russell,
+15,1,9:55.0,6,5,OKC,LAL,1,away,OffReb,,,OffReb,,T. Mozgov,
+16,1,9:47.0,6,8,OKC,LAL,8,away,JS,assist,24,make3,3,D. Russell,J. Randle
+17,1,9:22.0,8,8,OKC,LAL,25,home,JS,,16,make2,2,R. Westbrook,
+18,1,9:12.0,8,10,OKC,LAL,10,away,JS,,4,make2,2,J. Randle,
+19,1,9:12.0,8,10,OKC,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Sabonis,J. Randle
+20,1,9:12.0,8,10,OKC,LAL,0,home,Sub,,,,,E. İlyasova,D. Sabonis
+21,1,9:12.0,8,11,OKC,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+22,1,9:01.0,8,11,OKC,LAL,11,home,LU,,2,miss2,0,V. Oladipo,
+23,1,9:01.0,8,11,OKC,LAL,0,away,DefReb,,,DefReb,,Team,
+24,1,8:49.0,8,11,OKC,LAL,12,away,JS,,24,miss3,0,L. Deng,
+25,1,8:47.0,8,11,OKC,LAL,2,home,DefReb,,,DefReb,,R. Westbrook,
+26,1,8:35.0,8,11,OKC,LAL,12,home,JS,,12,miss2,0,R. Westbrook,
+27,1,8:35.0,8,11,OKC,LAL,0,away,DefReb,,,DefReb,,D. Russell,
+28,1,8:26.0,8,14,OKC,LAL,9,away,JS,assist,24,make3,3,D. Russell,J. Randle
+29,1,8:15.0,8,14,OKC,LAL,11,home,JS,,12,miss2,0,R. Westbrook,
+30,1,8:14.0,8,14,OKC,LAL,1,home,OffReb,,,OffReb,,S. Adams,
+31,1,8:11.0,8,14,OKC,LAL,3,home,LostBall,steal,,turnover,,S. Adams,D. Russell
+32,1,8:03.0,8,16,OKC,LAL,8,away,DK,assist,0,make2,2,T. Mozgov,L. Deng
+33,1,8:02.0,8,16,OKC,LAL,1,home,Timeout,,,,,,
+34,1,7:47.0,8,16,OKC,LAL,15,home,JS,,22,miss3,0,A. Roberson,
+35,1,7:47.0,8,16,OKC,LAL,0,away,DefReb,,,DefReb,,Team,
+36,1,7:32.0,8,16,OKC,LAL,15,away,BadPass,steal,,turnover,,L. Deng,A. Roberson
+37,1,7:24.0,11,16,OKC,LAL,8,home,JS,assist,25,make3,3,V. Oladipo,R. Westbrook
+38,1,7:13.0,11,16,OKC,LAL,11,away,LostBall,,,turnover,,T. Mozgov,
+39,1,6:58.0,13,16,OKC,LAL,15,home,LU,assist,1,make2,2,A. Roberson,S. Adams
+40,1,6:38.0,13,16,OKC,LAL,20,away,JS,,23,miss3,0,N. Young,
+41,1,6:38.0,13,16,OKC,LAL,0,home,DefReb,,,DefReb,,S. Adams,
+42,1,6:32.0,16,16,OKC,LAL,6,home,JS,,25,make3,3,R. Westbrook,
+43,1,6:09.0,16,16,OKC,LAL,23,away,JS,,23,miss3,0,N. Young,
+44,1,6:08.0,16,16,OKC,LAL,1,home,DefReb,,,DefReb,,Team,
+45,1,5:53.0,16,16,OKC,LAL,15,home,JS,,23,miss3,0,V. Oladipo,
+46,1,5:52.0,16,16,OKC,LAL,1,away,DefReb,,,DefReb,,Team,
+47,1,5:52.0,16,16,OKC,LAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Adams,T. Mozgov
+48,1,5:52.0,16,16,OKC,LAL,0,away,Sub,,,,,J. Clarkson,N. Young
+49,1,5:33.0,16,16,OKC,LAL,19,away,JS,,8,miss2,0,J. Randle,
+50,1,5:32.0,16,16,OKC,LAL,1,home,DefReb,,,DefReb,,Team,
+51,1,5:17.0,16,16,OKC,LAL,15,home,JS,,8,miss2,0,S. Adams,
+52,1,5:17.0,16,16,OKC,LAL,0,home,OffReb,,,OffReb,,R. Westbrook,
+53,1,5:15.0,16,16,OKC,LAL,2,home,LU,block,2,miss2,0,R. Westbrook,L. Deng
+54,1,5:14.0,16,16,OKC,LAL,1,away,DefReb,,,DefReb,,J. Clarkson,
+55,1,5:04.0,16,18,OKC,LAL,10,away,LU,assist,2,make2,2,J. Randle,J. Clarkson
+56,1,4:58.0,16,18,OKC,LAL,6,home,LU,block,3,miss2,0,S. Adams,T. Mozgov
+57,1,4:58.0,16,18,OKC,LAL,0,home,OffReb,,,OffReb,,Team,
+58,1,4:58.0,16,18,OKC,LAL,0,home,Sub,,,,,E. Freedom,S. Adams
+59,1,4:58.0,16,18,OKC,LAL,0,away,Sub,,,,,B. Ingram,J. Randle
+60,1,4:58.0,16,18,OKC,LAL,0,away,Sub,,,,,L. Nance,T. Mozgov
+61,1,4:45.0,18,18,OKC,LAL,13,home,LU,,1,make2,2,V. Oladipo,
+62,1,4:35.0,18,18,OKC,LAL,10,away,LU,block,1,miss2,0,D. Russell,R. Westbrook
+63,1,4:34.0,18,18,OKC,LAL,1,home,DefReb,,,DefReb,,E. İlyasova,
+64,1,4:30.0,20,18,OKC,LAL,4,home,DK,assist,0,make2,2,E. Freedom,R. Westbrook
+65,1,4:23.0,20,18,OKC,LAL,7,away,Timeout,,,,,,
+66,1,4:23.0,20,18,OKC,LAL,0,home,Sub,,,,,K. Singler,V. Oladipo
+67,1,4:13.0,20,18,OKC,LAL,10,away,JS,,3,miss2,0,L. Nance,
+68,1,4:13.0,20,18,OKC,LAL,0,home,DefReb,,,DefReb,,E. İlyasova,
+69,1,4:08.0,22,18,OKC,LAL,5,home,LU,assist,1,make2,2,E. Freedom,R. Westbrook
+70,1,3:54.0,22,18,OKC,LAL,14,away,JS,,15,miss2,0,J. Clarkson,
+71,1,3:52.0,22,18,OKC,LAL,2,home,DefReb,,,DefReb,,E. Freedom,
+72,1,3:43.0,22,18,OKC,LAL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Russell,R. Westbrook
+73,1,3:43.0,22,18,OKC,LAL,0,away,Sub,,,,,L. Williams,D. Russell
+74,1,3:43.0,22,18,OKC,LAL,0,away,Sub,,,,,M. World Peace,L. Deng
+75,1,3:39.0,22,18,OKC,LAL,4,home,D3SecTech,,,,,,
+76,1,3:39.0,23,18,OKC,LAL,0,home,FreeThrow,,,make1,1,R. Westbrook makes technical free throw,
+77,1,3:31.0,23,18,OKC,LAL,8,home,JS,,14,miss2,0,R. Westbrook,
+78,1,3:30.0,23,18,OKC,LAL,1,away,DefReb,,,DefReb,,Team,
+79,1,3:15.0,23,20,OKC,LAL,15,away,LU,assist,2,make2,2,J. Clarkson,L. Williams
+80,1,3:07.0,23,20,OKC,LAL,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Ingram,E. Freedom
+81,1,3:07.0,23,20,OKC,LAL,0,home,Sub,,,,,S. Christon,R. Westbrook
+82,1,2:50.0,25,20,OKC,LAL,17,home,JS,,9,make2,2,E. Freedom,
+83,1,2:38.0,25,20,OKC,LAL,12,away,JS,,25,miss3,0,M. World Peace,
+84,1,2:38.0,25,20,OKC,LAL,0,home,DefReb,,,DefReb,,A. Roberson,
+85,1,2:29.0,25,20,OKC,LAL,9,home,JS,,24,miss3,0,E. İlyasova,
+86,1,2:29.0,25,20,OKC,LAL,0,away,DefReb,,,DefReb,,L. Nance,
+87,1,2:21.0,25,22,OKC,LAL,8,away,JS,,9,make2,2,L. Williams,
+88,1,2:08.0,28,22,OKC,LAL,13,home,JS,assist,22,make3,3,S. Christon,A. Roberson
+89,1,1:48.0,28,22,OKC,LAL,20,away,JS,,7,miss2,0,J. Clarkson,
+90,1,1:48.0,28,22,OKC,LAL,0,home,DefReb,,,DefReb,,A. Roberson,
+91,1,1:38.0,28,22,OKC,LAL,10,home,JS,,23,miss3,0,E. İlyasova,
+92,1,1:37.0,28,22,OKC,LAL,1,home,OffReb,,,OffReb,,Team,
+93,1,1:36.0,28,22,OKC,LAL,1,home,Sub,,,,,V. Oladipo,A. Roberson
+94,1,1:25.0,30,22,OKC,LAL,11,home,LU,,2,make2,2,E. Freedom,
+95,1,1:23.0,30,22,OKC,LAL,2,away,Timeout,,,,,,
+96,1,1:12.0,30,22,OKC,LAL,11,away,JS,,25,miss3,0,L. Williams,
+97,1,1:10.0,30,22,OKC,LAL,2,away,OffReb,,,OffReb,,L. Nance,
+98,1,1:06.0,30,22,OKC,LAL,4,away,LU,,2,miss2,0,M. World Peace,
+99,1,1:06.0,30,22,OKC,LAL,0,home,DefReb,,,DefReb,,E. İlyasova,
+100,1,0:53.0,30,22,OKC,LAL,13,home,BadPass,steal,,turnover,,K. Singler,M. World Peace
+101,1,0:48.0,30,22,OKC,LAL,5,away,BadPass,steal,,turnover,,L. Williams,S. Christon
+102,1,0:45.0,30,22,OKC,LAL,3,home,BadPass,steal,,turnover,,S. Christon,J. Clarkson
+103,1,0:40.0,30,22,OKC,LAL,5,away,JS,,24,miss3,0,B. Ingram,
+104,1,0:39.0,30,22,OKC,LAL,1,away,OffReb,,,OffReb,,Team,
+105,1,0:37.0,30,24,OKC,LAL,2,away,JS,assist,16,make2,2,J. Clarkson,B. Ingram
+106,1,0:22.0,30,24,OKC,LAL,15,home,LostBall,steal,,turnover,,E. Freedom,L. Nance
+107,1,0:17.0,30,24,OKC,LAL,5,away,BadPass,,,turnover,,B. Ingram,
+108,1,0:03.0,30,24,OKC,LAL,14,home,JS,,16,miss2,0,S. Christon,
+109,1,0:02.0,30,24,OKC,LAL,1,away,DefReb,,,DefReb,,L. Williams,
+110,2,11:46.0,30,24,OKC,LAL,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Singler,B. Ingram
+111,2,11:39.0,30,24,OKC,LAL,7,away,JS,,10,miss2,0,B. Ingram,
+112,2,11:39.0,30,24,OKC,LAL,0,home,DefReb,,,DefReb,,Team,
+113,2,11:39.0,30,24,OKC,LAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Black,E. Freedom
+114,2,11:31.0,30,24,OKC,LAL,8,home,BadPass,,,turnover,,K. Singler,
+115,2,11:13.0,30,26,OKC,LAL,18,away,JS,assist,13,make2,2,B. Ingram,L. Nance
+116,2,10:46.0,30,26,OKC,LAL,27,home,JS,,18,miss2,0,V. Oladipo,
+117,2,10:45.0,30,26,OKC,LAL,1,away,DefReb,,,DefReb,,T. Black,
+118,2,10:34.0,30,26,OKC,LAL,11,away,JS,,15,miss2,0,B. Ingram,
+119,2,10:33.0,30,26,OKC,LAL,1,home,DefReb,,,DefReb,,J. Lauvergne,
+120,2,10:24.0,30,26,OKC,LAL,9,home,LU,,2,miss2,0,S. Christon,
+121,2,10:23.0,30,26,OKC,LAL,1,away,DefReb,,,DefReb,,B. Ingram,
+122,2,10:11.0,30,28,OKC,LAL,12,away,LU,assist,2,make2,2,J. Clarkson,L. Williams
+123,2,9:59.0,30,28,OKC,LAL,12,home,JS,,13,miss2,0,E. Freedom,
+124,2,9:58.0,30,28,OKC,LAL,1,away,DefReb,,,DefReb,,B. Ingram,
+125,2,9:45.0,30,30,OKC,LAL,13,away,JS,,6,make2,2,J. Clarkson,
+126,2,9:23.0,30,30,OKC,LAL,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Clarkson,V. Oladipo
+127,2,9:23.0,31,30,OKC,LAL,0,home,FreeThrow,,,make1,1,V. Oladipo,
+128,2,9:23.0,31,30,OKC,LAL,0,home,Sub,,,,,S. Adams,E. Freedom
+129,2,9:23.0,31,30,OKC,LAL,0,away,Sub,,,,,J. Calderón,B. Ingram
+130,2,9:23.0,32,30,OKC,LAL,0,home,FreeThrow,,,make1,1,V. Oladipo,
+131,2,9:09.0,32,30,OKC,LAL,14,away,BadPass,steal,,turnover,,L. Nance,J. Lauvergne
+132,2,8:54.0,34,30,OKC,LAL,15,home,JS,assist,19,make2,2,J. Lauvergne,V. Oladipo
+133,2,8:37.0,34,30,OKC,LAL,17,away,JS,,3,miss2,0,T. Black,
+134,2,8:36.0,34,30,OKC,LAL,1,home,DefReb,,,DefReb,,J. Lauvergne,
+135,2,8:27.0,34,30,OKC,LAL,9,home,JS,,24,miss3,0,J. Lauvergne,
+136,2,8:26.0,34,30,OKC,LAL,1,away,DefReb,,,DefReb,,T. Black,
+137,2,8:14.0,34,30,OKC,LAL,12,away,LU,block,1,miss2,0,J. Clarkson,S. Adams
+138,2,8:13.0,34,30,OKC,LAL,1,home,DefReb,,,DefReb,,S. Adams,
+139,2,8:05.0,37,30,OKC,LAL,8,home,JS,assist,25,make3,3,V. Oladipo,S. Christon
+140,2,7:42.0,37,30,OKC,LAL,23,away,ShootingFoul,DrawnBy,,ShootingFoul,,V. Oladipo,L. Williams
+141,2,7:42.0,37,30,OKC,LAL,0,away,Timeout,,,,,,
+142,2,7:42.0,37,30,OKC,LAL,0,away,FreeThrow,,,make1,0,L. Williams,
+143,2,7:42.0,37,30,OKC,LAL,0,away,OffReb,,,OffReb,,Team,
+144,2,7:42.0,37,30,OKC,LAL,0,home,Sub,,,,,A. Morrow,K. Singler
+145,2,7:42.0,37,30,OKC,LAL,0,home,Sub,,,,,R. Westbrook,S. Christon
+146,2,7:42.0,37,30,OKC,LAL,0,away,Sub,,,,,N. Young,J. Clarkson
+147,2,7:42.0,37,30,OKC,LAL,0,away,Sub,,,,,J. Randle,L. Nance
+148,2,7:42.0,37,30,OKC,LAL,0,away,Sub,,,,,T. Mozgov,T. Black
+149,2,7:42.0,37,31,OKC,LAL,0,away,FreeThrow,,,make1,1,L. Williams,
+150,2,7:31.0,37,31,OKC,LAL,11,home,DK,,0,miss2,0,S. Adams,
+151,2,7:31.0,37,31,OKC,LAL,0,away,DefReb,,,DefReb,,J. Randle,
+152,2,7:16.0,37,31,OKC,LAL,15,away,BadPass,steal,,turnover,,J. Calderón,A. Morrow
+153,2,7:11.0,39,31,OKC,LAL,5,home,LU,assist,2,make2,2,V. Oladipo,R. Westbrook
+154,2,6:56.0,39,31,OKC,LAL,15,away,LU,,0,miss2,0,L. Williams,
+155,2,6:55.0,39,31,OKC,LAL,1,away,OffReb,,,OffReb,,T. Mozgov,
+156,2,6:52.0,39,31,OKC,LAL,3,away,JS,,22,miss3,0,N. Young,
+157,2,6:51.0,39,31,OKC,LAL,1,home,DefReb,,,DefReb,,R. Westbrook,
+158,2,6:45.0,41,31,OKC,LAL,6,home,LU,,1,make2,2,R. Westbrook,
+159,2,6:30.0,41,33,OKC,LAL,15,away,HS,assist,3,make2,2,T. Mozgov,N. Young
+160,2,6:13.0,43,33,OKC,LAL,17,home,JS,assist,4,make2,2,A. Morrow,J. Lauvergne
+161,2,5:57.0,43,33,OKC,LAL,16,away,JS,,27,miss3,0,L. Williams,
+162,2,5:57.0,43,33,OKC,LAL,0,home,DefReb,,,DefReb,,S. Adams,
+163,2,5:48.0,45,33,OKC,LAL,9,home,DK,assist,2,make2,2,S. Adams,R. Westbrook
+164,2,5:31.0,45,33,OKC,LAL,17,away,JS,,25,miss3,0,J. Calderón,
+165,2,5:30.0,45,33,OKC,LAL,1,home,DefReb,,,DefReb,,R. Westbrook,
+166,2,5:25.0,47,33,OKC,LAL,5,home,JS,assist,23,make2,2,A. Morrow,R. Westbrook
+167,2,5:09.0,47,33,OKC,LAL,16,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Lauvergne,J. Randle
+168,2,5:09.0,47,33,OKC,LAL,0,home,Timeout,,,,,,
+169,2,5:09.0,47,33,OKC,LAL,0,home,Sub,,,,,A. Roberson,V. Oladipo
+170,2,5:09.0,47,33,OKC,LAL,0,home,Sub,,,,,E. Freedom,J. Lauvergne
+171,2,5:09.0,47,33,OKC,LAL,0,away,Sub,,,,,L. Deng,L. Williams
+172,2,5:09.0,47,33,OKC,LAL,0,away,Sub,,,,,D. Russell,J. Calderón
+173,2,5:03.0,47,36,OKC,LAL,6,away,JS,assist,22,make3,3,N. Young,L. Deng
+174,2,4:47.0,47,36,OKC,LAL,16,home,JS,,24,miss2,0,A. Morrow,
+175,2,4:47.0,47,36,OKC,LAL,0,away,DefReb,,,DefReb,,J. Randle,
+176,2,4:38.0,47,36,OKC,LAL,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Adams,J. Randle
+177,2,4:38.0,47,38,OKC,LAL,0,away,LU,assist,1,make2,2,J. Randle,L. Deng
+178,2,4:38.0,47,39,OKC,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+179,2,4:25.0,47,39,OKC,LAL,13,home,BadPass,steal,,turnover,,R. Westbrook,J. Randle
+180,2,4:18.0,47,42,OKC,LAL,7,away,JS,assist,25,make3,3,N. Young,J. Randle
+181,2,4:16.0,47,42,OKC,LAL,2,home,Timeout,,,,,,
+182,2,4:01.0,47,42,OKC,LAL,15,home,JS,,23,miss3,0,A. Morrow,
+183,2,3:59.0,47,42,OKC,LAL,2,away,DefReb,,,DefReb,,N. Young,
+184,2,3:53.0,47,42,OKC,LAL,6,away,JS,,24,miss3,0,N. Young,
+185,2,3:52.0,47,42,OKC,LAL,1,home,DefReb,,,DefReb,,S. Adams,
+186,2,3:40.0,50,42,OKC,LAL,12,home,JS,assist,23,make3,3,R. Westbrook,A. Morrow
+187,2,3:27.0,50,42,OKC,LAL,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Morrow,J. Randle
+188,2,3:27.0,50,43,OKC,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+189,2,3:27.0,50,43,OKC,LAL,0,away,FreeThrow,,,make1,0,J. Randle,
+190,2,3:27.0,50,43,OKC,LAL,0,home,DefReb,,,DefReb,,R. Westbrook,
+191,2,3:10.0,50,43,OKC,LAL,17,home,JS,,22,miss3,0,R. Westbrook,
+192,2,3:09.0,50,43,OKC,LAL,1,home,OffReb,,,OffReb,,S. Adams,
+193,2,3:04.0,52,43,OKC,LAL,5,home,DK,assist,0,make2,2,R. Westbrook,S. Adams
+194,2,2:51.0,52,46,OKC,LAL,13,away,JS,,24,make3,3,D. Russell,
+195,2,2:29.0,54,46,OKC,LAL,22,home,JS,assist,18,make2,2,A. Morrow,A. Roberson
+196,2,2:08.0,54,46,OKC,LAL,21,away,JS,,16,miss2,0,D. Russell,
+197,2,2:07.0,54,46,OKC,LAL,1,home,DefReb,,,DefReb,,E. Freedom,
+198,2,1:55.0,54,46,OKC,LAL,12,home,JS,,11,miss2,0,S. Adams,
+199,2,1:54.0,54,46,OKC,LAL,1,away,DefReb,,,DefReb,,D. Russell,
+200,2,1:46.0,54,46,OKC,LAL,8,away,JS,,3,miss2,0,L. Deng,
+201,2,1:46.0,54,46,OKC,LAL,0,home,DefReb,,,DefReb,,E. Freedom,
+202,2,1:45.0,54,46,OKC,LAL,1,away,ChargeFoul,DrawnBy,,ChargeFoul,,R. Westbrook,D. Russell
+203,2,1:45.0,54,46,OKC,LAL,0,home,OffensiveFoul,,,turnover,,R. Westbrook,
+204,2,1:45.0,54,46,OKC,LAL,0,away,Timeout,,,,,,
+205,2,1:45.0,54,46,OKC,LAL,0,away,Sub,,,,,J. Clarkson,L. Deng
+206,2,1:45.0,54,46,OKC,LAL,0,home,Sub,,,,,V. Oladipo,A. Morrow
+207,2,1:39.0,54,46,OKC,LAL,6,away,JS,,25,miss3,0,D. Russell,
+208,2,1:37.0,54,46,OKC,LAL,2,home,DefReb,,,DefReb,,E. Freedom,
+209,2,1:24.0,56,46,OKC,LAL,13,home,DK,assist,0,make2,2,S. Adams,R. Westbrook
+210,2,0:54.0,56,46,OKC,LAL,30,away,LostBall,,,turnover,,J. Clarkson,
+211,2,0:36.0,56,46,OKC,LAL,18,home,LU,,2,miss2,0,R. Westbrook,
+212,2,0:35.0,56,46,OKC,LAL,1,home,OffReb,,,OffReb,,R. Westbrook,
+213,2,0:35.0,56,46,OKC,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,R. Westbrook
+214,2,0:35.0,57,46,OKC,LAL,0,home,FreeThrow,,,make1,1,R. Westbrook,
+215,2,0:35.0,57,46,OKC,LAL,0,home,Sub,,,,,D. Sabonis,S. Adams
+216,2,0:35.0,58,46,OKC,LAL,0,home,FreeThrow,,,make1,1,R. Westbrook,
+217,2,0:22.0,58,46,OKC,LAL,13,away,JS,,25,miss3,0,J. Clarkson,
+218,2,0:21.0,58,46,OKC,LAL,1,home,DefReb,,,DefReb,,A. Roberson,
+219,2,0:01.0,58,46,OKC,LAL,20,home,JS,,23,miss3,0,E. Freedom,
+220,2,0:01.0,58,46,OKC,LAL,0,away,DefReb,,,DefReb,,N. Young,
+221,3,11:49.0,58,46,OKC,LAL,11,away,LostBall,steal,,turnover,,T. Mozgov,D. Sabonis
+222,3,11:29.0,58,46,OKC,LAL,20,home,JS,,4,miss2,0,V. Oladipo,
+223,3,11:28.0,58,46,OKC,LAL,1,away,DefReb,,,DefReb,,J. Randle,
+224,3,11:18.0,58,46,OKC,LAL,10,away,JS,,25,miss3,0,N. Young,
+225,3,11:18.0,58,46,OKC,LAL,0,away,OffReb,,,OffReb,,L. Deng,
+226,3,11:07.0,58,48,OKC,LAL,11,away,LU,assist,1,make2,2,N. Young,T. Mozgov
+227,3,10:50.0,58,48,OKC,LAL,17,home,HS,,4,miss2,0,D. Sabonis,
+228,3,10:50.0,58,48,OKC,LAL,0,home,OffReb,,,OffReb,,Team,
+229,3,10:50.0,58,48,OKC,LAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,L. Deng,S. Adams
+230,3,10:37.0,58,48,OKC,LAL,13,home,HS,,2,miss2,0,S. Adams,
+231,3,10:37.0,58,48,OKC,LAL,0,away,DefReb,,,DefReb,,J. Randle,
+232,3,10:31.0,58,48,OKC,LAL,6,away,LU,block,2,miss2,0,D. Russell,D. Sabonis
+233,3,10:29.0,58,48,OKC,LAL,2,home,DefReb,,,DefReb,,S. Adams,
+234,3,10:24.0,58,48,OKC,LAL,5,home,JS,,26,miss3,0,V. Oladipo,
+235,3,10:24.0,58,48,OKC,LAL,0,home,OffReb,,,OffReb,,R. Westbrook,
+236,3,10:17.0,58,48,OKC,LAL,7,home,LostBall,steal,,turnover,,S. Adams,N. Young
+237,3,10:10.0,58,48,OKC,LAL,7,away,LU,block,1,miss2,0,T. Mozgov,S. Adams
+238,3,10:09.0,58,48,OKC,LAL,1,home,DefReb,,,DefReb,,S. Adams,
+239,3,10:04.0,58,48,OKC,LAL,5,home,JS,,22,miss2,0,V. Oladipo,
+240,3,10:03.0,58,48,OKC,LAL,1,home,OffReb,,,OffReb,,R. Westbrook,
+241,3,10:02.0,58,48,OKC,LAL,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,V. Oladipo
+242,3,10:02.0,60,48,OKC,LAL,0,home,LU,assist,2,make2,2,V. Oladipo,R. Westbrook
+243,3,10:02.0,61,48,OKC,LAL,0,home,FreeThrow,,,make1,1,V. Oladipo,
+244,3,9:51.0,61,50,OKC,LAL,11,away,DK,assist,0,make2,2,T. Mozgov,D. Russell
+245,3,9:38.0,63,50,OKC,LAL,13,home,DK,assist,0,make2,2,A. Roberson,V. Oladipo
+246,3,9:10.0,63,50,OKC,LAL,28,away,JS,,25,miss3,0,D. Russell,
+247,3,9:10.0,63,50,OKC,LAL,0,away,OffReb,,,OffReb,,Team,
+248,3,9:10.0,63,50,OKC,LAL,0,away,ShotClockViolation,,,turnover,,Team,
+249,3,8:57.0,63,50,OKC,LAL,13,home,JS,,8,miss2,0,R. Westbrook,
+250,3,8:57.0,63,50,OKC,LAL,0,away,DefReb,,,DefReb,,N. Young,
+251,3,8:48.0,63,50,OKC,LAL,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Sabonis,N. Young
+252,3,8:48.0,63,51,OKC,LAL,0,away,FreeThrow,,,make1,1,N. Young,
+253,3,8:48.0,63,52,OKC,LAL,0,away,FreeThrow,,,make1,1,N. Young,
+254,3,8:40.0,63,52,OKC,LAL,8,home,BadPass,steal,,turnover,,R. Westbrook,J. Randle
+255,3,8:35.0,63,52,OKC,LAL,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Sabonis,J. Randle
+256,3,8:35.0,63,53,OKC,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+257,3,8:35.0,63,53,OKC,LAL,0,home,Sub,,,,,E. İlyasova,D. Sabonis
+258,3,8:35.0,63,54,OKC,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+259,3,8:14.0,63,54,OKC,LAL,21,home,LU,,1,miss2,0,S. Adams,
+260,3,8:13.0,63,54,OKC,LAL,1,away,DefReb,,,DefReb,,T. Mozgov,
+261,3,8:06.0,63,54,OKC,LAL,7,away,BadPass,steal,,turnover,,D. Russell,R. Westbrook
+262,3,8:02.0,65,54,OKC,LAL,4,home,LU,assist,2,make2,2,A. Roberson,R. Westbrook
+263,3,7:52.0,65,54,OKC,LAL,10,away,JS,,4,miss2,0,J. Randle,
+264,3,7:51.0,65,54,OKC,LAL,1,away,OffReb,,,OffReb,,J. Randle,
+265,3,7:46.0,65,54,OKC,LAL,5,away,JS,,25,miss3,0,L. Deng,
+266,3,7:45.0,65,54,OKC,LAL,1,home,DefReb,,,DefReb,,S. Adams,
+267,3,7:32.0,65,54,OKC,LAL,13,home,JS,,19,miss2,0,V. Oladipo,
+268,3,7:31.0,65,54,OKC,LAL,1,away,DefReb,,,DefReb,,T. Mozgov,
+269,3,7:22.0,65,54,OKC,LAL,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Westbrook,D. Russell
+270,3,7:22.0,65,54,OKC,LAL,0,away,Sub,,,,,B. Ingram,L. Deng
+271,3,7:10.0,65,54,OKC,LAL,12,away,JS,,24,miss3,0,D. Russell,
+272,3,7:10.0,65,54,OKC,LAL,0,away,OffReb,,,OffReb,,Team,
+273,3,7:02.0,65,54,OKC,LAL,8,away,Traveling,,,turnover,,T. Mozgov,
+274,3,7:02.0,65,54,OKC,LAL,0,home,Timeout,,,,,,
+275,3,6:47.0,68,54,OKC,LAL,15,home,JS,,24,make3,3,R. Westbrook,
+276,3,6:30.0,68,57,OKC,LAL,17,away,JS,assist,25,make3,3,D. Russell,B. Ingram
+277,3,6:10.0,68,57,OKC,LAL,20,home,JS,,23,miss3,0,A. Roberson,
+278,3,6:09.0,68,57,OKC,LAL,1,away,DefReb,,,DefReb,,Team,
+279,3,6:09.0,68,57,OKC,LAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Westbrook,N. Young
+280,3,5:55.0,68,57,OKC,LAL,14,away,JS,,6,miss2,0,B. Ingram,
+281,3,5:54.0,68,57,OKC,LAL,1,home,DefReb,,,DefReb,,S. Adams,
+282,3,5:48.0,68,57,OKC,LAL,6,home,JS,,24,miss3,0,V. Oladipo,
+283,3,5:47.0,68,57,OKC,LAL,1,away,DefReb,,,DefReb,,J. Randle,
+284,3,5:40.0,68,57,OKC,LAL,7,away,BadPass,steal,,turnover,,J. Randle,S. Adams
+285,3,5:20.0,71,57,OKC,LAL,20,home,JS,assist,25,make3,3,V. Oladipo,R. Westbrook
+286,3,5:05.0,71,57,OKC,LAL,15,away,JS,,23,miss3,0,B. Ingram,
+287,3,5:05.0,71,57,OKC,LAL,0,away,OffReb,,,OffReb,,T. Mozgov,
+288,3,4:59.0,71,57,OKC,LAL,6,away,JS,,25,miss3,0,D. Russell,
+289,3,4:59.0,71,57,OKC,LAL,0,home,DefReb,,,DefReb,,R. Westbrook,
+290,3,4:53.0,71,57,OKC,LAL,6,home,LU,,2,miss2,0,V. Oladipo,
+291,3,4:51.0,71,57,OKC,LAL,2,away,DefReb,,,DefReb,,D. Russell,
+292,3,4:49.0,71,57,OKC,LAL,2,away,DiscontinueDribbleTurnover,,,turnover,,N. Young,
+293,3,4:49.0,71,57,OKC,LAL,0,away,Sub,,,,,J. Clarkson,N. Young
+294,3,4:35.0,73,57,OKC,LAL,14,home,DK,assist,0,make2,2,A. Roberson,R. Westbrook
+295,3,4:28.0,73,59,OKC,LAL,7,away,JS,assist,18,make2,2,T. Mozgov,D. Russell
+296,3,4:13.0,73,59,OKC,LAL,15,home,JS,,18,miss2,0,R. Westbrook,
+297,3,4:12.0,73,59,OKC,LAL,1,home,OffReb,,,OffReb,,S. Adams,
+298,3,4:03.0,73,59,OKC,LAL,9,home,JS,,26,miss3,0,A. Roberson,
+299,3,4:01.0,73,59,OKC,LAL,2,away,DefReb,,,DefReb,,D. Russell,
+300,3,3:48.0,73,59,OKC,LAL,13,away,JS,,9,miss2,0,D. Russell,
+301,3,3:47.0,73,59,OKC,LAL,1,home,DefReb,,,DefReb,,R. Westbrook,
+302,3,3:43.0,73,59,OKC,LAL,4,home,BadPass,steal,,turnover,,R. Westbrook,J. Randle
+303,3,3:37.0,73,59,OKC,LAL,6,away,LU,block,3,miss2,0,D. Russell,A. Roberson
+304,3,3:35.0,73,59,OKC,LAL,2,away,OffReb,,,OffReb,,J. Clarkson,
+305,3,3:33.0,73,61,OKC,LAL,2,away,LU,,2,make2,2,J. Clarkson,
+306,3,3:13.0,73,61,OKC,LAL,20,home,JS,,24,miss3,0,E. İlyasova,
+307,3,3:11.0,73,61,OKC,LAL,2,away,DefReb,,,DefReb,,J. Randle,
+308,3,3:06.0,73,61,OKC,LAL,5,away,BadPass,steal,,turnover,,J. Randle,S. Adams
+309,3,3:01.0,73,61,OKC,LAL,5,home,LostBall,,,turnover,,V. Oladipo,
+310,3,3:01.0,73,61,OKC,LAL,0,home,Sub,,,,,E. Freedom,S. Adams
+311,3,3:01.0,73,61,OKC,LAL,0,home,Sub,,,,,K. Singler,A. Roberson
+312,3,3:01.0,73,61,OKC,LAL,0,away,Sub,,,,,L. Williams,J. Randle
+313,3,3:01.0,73,61,OKC,LAL,0,away,Sub,,,,,L. Deng,D. Russell
+314,3,3:01.0,73,61,OKC,LAL,0,away,Timeout,,,,,,
+315,3,3:01.0,73,61,OKC,LAL,0,home,Sub,,,,,S. Christon,V. Oladipo
+316,3,3:01.0,73,61,OKC,LAL,0,away,Sub,,,,,T. Black,T. Mozgov
+317,3,2:39.0,73,61,OKC,LAL,22,away,JS,,2,miss2,0,B. Ingram,
+318,3,2:39.0,73,61,OKC,LAL,0,away,OffReb,,,OffReb,,B. Ingram,
+319,3,2:39.0,73,63,OKC,LAL,0,away,LU,,2,make2,2,B. Ingram,
+320,3,2:24.0,73,63,OKC,LAL,15,home,JS,,23,miss3,0,K. Singler,
+321,3,2:23.0,73,63,OKC,LAL,1,away,DefReb,,,DefReb,,J. Clarkson,
+322,3,2:17.0,73,65,OKC,LAL,6,away,LU,,1,make2,2,L. Williams,
+323,3,1:59.0,73,65,OKC,LAL,18,home,JS,,25,miss3,0,E. İlyasova,
+324,3,1:59.0,73,65,OKC,LAL,0,home,OffReb,,,OffReb,,Team,
+325,3,1:55.0,73,65,OKC,LAL,4,home,JS,,16,miss2,0,E. Freedom,
+326,3,1:55.0,73,65,OKC,LAL,0,home,OffReb,,,OffReb,,E. İlyasova,
+327,3,1:52.0,73,65,OKC,LAL,3,home,LU,,2,miss2,0,E. İlyasova,
+328,3,1:51.0,73,65,OKC,LAL,1,away,DefReb,,,DefReb,,T. Black,
+329,3,1:42.0,73,67,OKC,LAL,9,away,JS,,4,make2,2,J. Clarkson,
+330,3,1:30.0,73,67,OKC,LAL,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Clarkson,R. Westbrook
+331,3,1:30.0,73,67,OKC,LAL,0,home,Sub,,,,,V. Oladipo,R. Westbrook
+332,3,1:16.0,73,67,OKC,LAL,14,home,JS,,25,miss3,0,V. Oladipo,
+333,3,1:15.0,73,67,OKC,LAL,1,away,DefReb,,,DefReb,,Team,
+334,3,1:00.0,73,67,OKC,LAL,15,away,BadPass,steal,,turnover,,J. Clarkson,E. İlyasova
+335,3,0:55.0,73,67,OKC,LAL,5,home,JS,,4,miss2,0,V. Oladipo,
+336,3,0:55.0,73,67,OKC,LAL,0,home,OffReb,,,OffReb,,K. Singler,
+337,3,0:55.0,75,67,OKC,LAL,0,home,LU,,2,make2,2,K. Singler,
+338,3,0:42.0,75,67,OKC,LAL,13,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,K. Singler,B. Ingram
+339,3,0:42.0,75,68,OKC,LAL,0,away,FreeThrow,,,make1,1,B. Ingram,
+340,3,0:42.0,75,69,OKC,LAL,0,away,FreeThrow,,,make1,1,B. Ingram,
+341,3,0:29.0,75,69,OKC,LAL,13,home,LostBall,steal,,turnover,,E. İlyasova,L. Deng
+342,3,0:05.0,75,71,OKC,LAL,24,away,JS,,16,make2,2,B. Ingram,
+343,3,0:00.0,77,71,OKC,LAL,5,home,LU,assist,2,make2,2,K. Singler,V. Oladipo
+344,4,11:41.0,77,71,OKC,LAL,19,home,LU,,2,miss2,0,V. Oladipo,
+345,4,11:40.0,77,71,OKC,LAL,1,home,OffReb,,,OffReb,,E. Freedom,
+346,4,11:40.0,79,71,OKC,LAL,0,home,DK,,0,make2,2,E. Freedom,
+347,4,11:27.0,79,71,OKC,LAL,13,away,BadPass,steal,,turnover,,T. Black,V. Oladipo
+348,4,11:24.0,81,71,OKC,LAL,3,home,DK,,0,make2,2,V. Oladipo,
+349,4,10:58.0,81,71,OKC,LAL,26,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Freedom,L. Williams
+350,4,10:58.0,81,72,OKC,LAL,0,away,FreeThrow,,,make1,1,L. Williams,
+351,4,10:58.0,81,73,OKC,LAL,0,away,FreeThrow,,,make1,1,L. Williams,
+352,4,10:47.0,83,73,OKC,LAL,11,home,LU,,2,make2,2,S. Christon,
+353,4,10:47.0,83,73,OKC,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Black,S. Christon
+354,4,10:47.0,83,73,OKC,LAL,0,home,FreeThrow,,,make1,0,S. Christon,
+355,4,10:46.0,83,73,OKC,LAL,1,away,DefReb,,,DefReb,,B. Ingram,
+356,4,10:32.0,83,73,OKC,LAL,14,away,BadPass,steal,,turnover,,J. Clarkson,S. Christon
+357,4,10:28.0,83,73,OKC,LAL,4,home,BadPass,steal,,turnover,,V. Oladipo,B. Ingram
+358,4,10:21.0,83,73,OKC,LAL,7,away,PersonalBlockFoul,,,,,E. İlyasova,
+359,4,10:17.0,83,73,OKC,LAL,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Singler,J. Clarkson
+360,4,10:11.0,83,73,OKC,LAL,6,away,JS,,17,miss2,0,L. Williams,
+361,4,10:10.0,83,73,OKC,LAL,1,away,OffReb,,,OffReb,,T. Black,
+362,4,10:08.0,83,75,OKC,LAL,2,away,LU,,1,make2,2,T. Black,
+363,4,9:56.0,83,75,OKC,LAL,12,home,JS,,9,miss2,0,S. Christon,
+364,4,9:55.0,83,75,OKC,LAL,1,away,DefReb,,,DefReb,,L. Deng,
+365,4,9:47.0,83,75,OKC,LAL,8,away,JS,,10,miss2,0,L. Williams,
+366,4,9:46.0,83,75,OKC,LAL,1,home,DefReb,,,DefReb,,E. Freedom,
+367,4,9:37.0,83,75,OKC,LAL,9,home,BadPass,steal,,turnover,,E. İlyasova,L. Williams
+368,4,9:34.0,83,75,OKC,LAL,3,away,BadPass,steal,,turnover,,L. Williams,K. Singler
+369,4,9:26.0,83,75,OKC,LAL,8,home,BadPass,steal,,turnover,,V. Oladipo,J. Clarkson
+370,4,9:14.0,83,75,OKC,LAL,12,away,JS,,25,miss3,0,B. Ingram,
+371,4,9:13.0,83,75,OKC,LAL,1,home,DefReb,,,DefReb,,V. Oladipo,
+372,4,9:13.0,83,75,OKC,LAL,0,home,Timeout,,,,,,
+373,4,9:13.0,83,75,OKC,LAL,0,away,Sub,,,,,D. Russell,L. Deng
+374,4,9:13.0,83,75,OKC,LAL,0,away,Sub,,,,,N. Young,B. Ingram
+375,4,9:13.0,83,75,OKC,LAL,0,away,Sub,,,,,L. Nance,L. Williams
+376,4,8:59.0,85,75,OKC,LAL,14,home,HS,,4,make2,2,E. Freedom,
+377,4,8:34.0,85,75,OKC,LAL,25,away,LU,block,2,miss2,0,J. Clarkson,E. İlyasova
+378,4,8:33.0,85,75,OKC,LAL,1,away,OffReb,,,OffReb,,J. Clarkson,
+379,4,8:29.0,85,75,OKC,LAL,4,away,JS,,24,miss3,0,J. Clarkson,
+380,4,8:29.0,85,75,OKC,LAL,0,home,DefReb,,,DefReb,,E. İlyasova,
+381,4,8:23.0,85,75,OKC,LAL,6,home,Sub,,,,,R. Westbrook,S. Christon
+382,4,8:17.0,85,75,OKC,LAL,6,home,D3SecTech,,,,,,
+383,4,8:17.0,86,75,OKC,LAL,0,home,FreeThrow,,,make1,1,R. Westbrook makes technical free throw,
+384,4,8:17.0,86,75,OKC,LAL,0,away,Sub,,,,,J. Randle,T. Black
+385,4,8:17.0,86,75,OKC,LAL,0,home,Sub,,,,,S. Christon,V. Oladipo
+386,4,8:12.0,86,75,OKC,LAL,5,home,JS,,17,miss2,0,R. Westbrook,
+387,4,8:12.0,86,75,OKC,LAL,0,away,DefReb,,,DefReb,,J. Clarkson,
+388,4,7:58.0,86,75,OKC,LAL,14,away,JS,,17,miss2,0,D. Russell,
+389,4,7:57.0,86,75,OKC,LAL,1,home,DefReb,,,DefReb,,E. İlyasova,
+390,4,7:50.0,88,75,OKC,LAL,7,home,LU,,2,make2,2,R. Westbrook,
+391,4,7:40.0,88,75,OKC,LAL,10,away,JS,,25,miss3,0,J. Randle,
+392,4,7:39.0,88,75,OKC,LAL,1,home,DefReb,,,DefReb,,K. Singler,
+393,4,7:29.0,88,75,OKC,LAL,10,home,OffGoaltending,,,turnover,,E. Freedom,
+394,4,7:20.0,88,75,OKC,LAL,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Freedom,J. Clarkson
+395,4,7:10.0,88,77,OKC,LAL,10,away,DK,assist,0,make2,2,L. Nance,J. Clarkson
+396,4,7:01.0,90,77,OKC,LAL,9,home,LU,assist,1,make2,2,E. Freedom,R. Westbrook
+397,4,6:49.0,90,79,OKC,LAL,12,away,JS,,6,make2,2,D. Russell,
+398,4,6:35.0,92,79,OKC,LAL,14,home,DK,assist,0,make2,2,E. Freedom,R. Westbrook
+399,4,6:21.0,92,79,OKC,LAL,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Christon,D. Russell
+400,4,6:21.0,92,80,OKC,LAL,0,away,FreeThrow,,,make1,1,D. Russell,
+401,4,6:21.0,92,80,OKC,LAL,0,away,Sub,,,,,L. Williams,L. Nance
+402,4,6:21.0,92,80,OKC,LAL,0,home,Sub,,,,,A. Roberson,K. Singler
+403,4,6:21.0,92,80,OKC,LAL,0,home,Sub,,,,,V. Oladipo,S. Christon
+404,4,6:21.0,92,81,OKC,LAL,0,away,FreeThrow,,,make1,1,D. Russell,
+405,4,6:12.0,92,81,OKC,LAL,9,home,BadPass,steal,,turnover,,R. Westbrook,D. Russell
+406,4,6:07.0,92,83,OKC,LAL,5,away,LU,,2,make2,2,D. Russell,
+407,4,5:49.0,92,83,OKC,LAL,18,away,Timeout,,,,,,
+408,4,5:49.0,92,83,OKC,LAL,0,home,Sub,,,,,S. Adams,E. Freedom
+409,4,5:41.0,92,83,OKC,LAL,8,home,JS,,25,miss3,0,E. İlyasova,
+410,4,5:39.0,92,83,OKC,LAL,2,home,OffReb,,,OffReb,,R. Westbrook,
+411,4,5:39.0,92,83,OKC,LAL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Randle,R. Westbrook
+412,4,5:30.0,95,83,OKC,LAL,9,home,JS,assist,24,make3,3,R. Westbrook,V. Oladipo
+413,4,5:13.0,95,85,OKC,LAL,17,away,LU,assist,2,make2,2,J. Randle,D. Russell
+414,4,4:58.0,95,85,OKC,LAL,15,home,LU,,0,miss2,0,R. Westbrook,
+415,4,4:57.0,95,85,OKC,LAL,1,away,DefReb,,,DefReb,,J. Randle,
+416,4,4:52.0,95,85,OKC,LAL,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. İlyasova,N. Young
+417,4,4:52.0,95,86,OKC,LAL,0,away,FreeThrow,,,make1,1,N. Young,
+418,4,4:52.0,95,87,OKC,LAL,0,away,FreeThrow,,,make1,1,N. Young,
+419,4,4:52.0,95,88,OKC,LAL,0,away,FreeThrow,,,make1,1,N. Young,
+420,4,4:47.0,95,88,OKC,LAL,5,home,BadPass,steal,,turnover,,R. Westbrook,N. Young
+421,4,4:44.0,95,91,OKC,LAL,3,away,JS,assist,25,make3,3,N. Young,D. Russell
+422,4,4:35.0,95,91,OKC,LAL,9,home,PersonalFoul,,,,,L. Williams,
+423,4,4:21.0,97,91,OKC,LAL,14,home,JS,assist,7,make2,2,S. Adams,A. Roberson
+424,4,4:10.0,97,91,OKC,LAL,11,away,BadPass,steal,,turnover,,D. Russell,S. Adams
+425,4,4:06.0,99,91,OKC,LAL,4,home,DK,,0,make2,2,R. Westbrook,
+426,4,4:06.0,99,91,OKC,LAL,0,away,Timeout,,,,,,
+427,4,4:06.0,99,91,OKC,LAL,0,home,Sub,,,,,S. Christon,E. İlyasova
+428,4,3:57.0,99,91,OKC,LAL,9,home,ChargeFoul,DrawnBy,,ChargeFoul,,N. Young,V. Oladipo
+429,4,3:57.0,99,91,OKC,LAL,0,away,OffensiveFoul,,,turnover,,N. Young,
+430,4,3:48.0,99,91,OKC,LAL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,R. Westbrook
+431,4,3:48.0,100,91,OKC,LAL,0,home,FreeThrow,,,make1,1,R. Westbrook,
+432,4,3:48.0,101,91,OKC,LAL,0,home,FreeThrow,,,make1,1,R. Westbrook,
+433,4,3:33.0,101,91,OKC,LAL,15,away,JS,,23,miss3,0,J. Clarkson,
+434,4,3:31.0,101,91,OKC,LAL,2,home,DefReb,,,DefReb,,A. Roberson,
+435,4,3:19.0,103,91,OKC,LAL,12,home,DK,assist,0,make2,2,S. Adams,R. Westbrook
+436,4,3:07.0,103,91,OKC,LAL,12,away,JS,,25,miss3,0,N. Young,
+437,4,3:07.0,103,91,OKC,LAL,0,away,OffReb,,,OffReb,,Team,
+438,4,3:07.0,103,91,OKC,LAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,V. Oladipo,J. Randle
+439,4,3:07.0,103,91,OKC,LAL,0,away,FreeThrow,,,make1,0,J. Randle,
+440,4,3:07.0,103,91,OKC,LAL,0,away,OffReb,,,OffReb,,Team,
+441,4,3:07.0,103,91,OKC,LAL,0,away,FreeThrow,,,make1,0,J. Randle,
+442,4,3:07.0,103,91,OKC,LAL,0,away,Sub,,,,,B. Ingram,L. Williams
+443,4,3:06.0,103,91,OKC,LAL,1,home,DefReb,,,DefReb,,R. Westbrook,
+444,4,2:51.0,106,91,OKC,LAL,15,home,JS,,25,make3,3,R. Westbrook,
+445,4,2:36.0,106,91,OKC,LAL,15,away,LU,,1,miss2,0,J. Clarkson,
+446,4,2:36.0,106,91,OKC,LAL,0,home,DefReb,,,DefReb,,Team,
+447,4,2:16.0,106,91,OKC,LAL,20,home,BadPass,steal,,turnover,,R. Westbrook,J. Clarkson
+448,4,2:11.0,106,91,OKC,LAL,5,away,JS,,25,miss3,0,D. Russell,
+449,4,2:10.0,106,91,OKC,LAL,1,home,DefReb,,,DefReb,,S. Adams,
+450,4,1:49.0,108,91,OKC,LAL,21,home,JS,,15,make2,2,R. Westbrook,
+451,4,1:49.0,108,91,OKC,LAL,0,away,Timeout,,,,,,
+452,4,1:49.0,108,91,OKC,LAL,0,home,Sub,,,,,Á. Abrines,R. Westbrook
+453,4,1:38.0,108,93,OKC,LAL,11,away,JS,,14,make2,2,D. Russell,
+454,4,1:17.0,108,93,OKC,LAL,21,home,JS,,5,miss2,0,S. Christon,
+455,4,1:17.0,108,93,OKC,LAL,0,away,DefReb,,,DefReb,,J. Randle,
+456,4,1:07.0,108,93,OKC,LAL,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,V. Oladipo,B. Ingram
+457,4,1:07.0,108,94,OKC,LAL,0,away,FreeThrow,,,make1,1,B. Ingram,
+458,4,1:07.0,108,94,OKC,LAL,0,away,FreeThrow,,,make1,0,B. Ingram,
+459,4,1:06.0,108,94,OKC,LAL,1,home,DefReb,,,DefReb,,A. Roberson,
+460,4,1:04.0,108,94,OKC,LAL,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,N. Young,A. Roberson
+461,4,1:04.0,108,94,OKC,LAL,0,home,FreeThrow,,,make1,0,A. Roberson,
+462,4,1:04.0,108,94,OKC,LAL,0,home,OffReb,,,OffReb,,Team,
+463,4,1:04.0,108,94,OKC,LAL,0,home,FreeThrow,,,make1,0,A. Roberson,
+464,4,1:04.0,108,94,OKC,LAL,0,away,DefReb,,,DefReb,,B. Ingram,
+465,4,1:04.0,108,94,OKC,LAL,0,home,Sub,,,,,J. Lauvergne,S. Adams
+466,4,0:53.0,108,94,OKC,LAL,11,away,LU,,2,miss2,0,D. Russell,
+467,4,0:52.0,108,94,OKC,LAL,1,away,OffReb,,,OffReb,,Team,
+468,4,0:50.0,108,94,OKC,LAL,2,away,BadPass,steal,,turnover,,D. Russell,Á. Abrines
+469,4,0:50.0,108,94,OKC,LAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,N. Young,Á. Abrines
+470,4,0:50.0,109,94,OKC,LAL,0,home,FreeThrow,,,make1,1,Á. Abrines,
+471,4,0:50.0,109,94,OKC,LAL,0,home,Sub,,,,,K. Singler,A. Roberson
+472,4,0:50.0,110,94,OKC,LAL,0,home,FreeThrow,,,make1,1,Á. Abrines,
+473,4,0:40.0,110,94,OKC,LAL,10,away,BadPass,steal,,turnover,,J. Clarkson,J. Lauvergne
+474,4,0:35.0,112,94,OKC,LAL,5,home,LU,assist,2,make2,2,Á. Abrines,S. Christon
+475,4,0:35.0,112,94,OKC,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Young,Á. Abrines
+476,4,0:35.0,113,94,OKC,LAL,0,home,FreeThrow,,,make1,1,Á. Abrines,
+477,4,0:26.0,113,96,OKC,LAL,9,away,JS,,6,make2,2,J. Randle,
+478,4,0:02.0,113,96,OKC,LAL,24,home,ShotClockViolation,,,turnover,,Team,

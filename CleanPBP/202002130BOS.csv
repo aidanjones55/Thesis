@@ -1,0 +1,595 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:42.0,0,2,BOS,LAC,18,away,LU,,2,make2,2,K. Leonard,
+1,1,11:23.0,0,2,BOS,LAC,19,home,LU,block,1,miss2,0,K. Walker,I. Zubac
+2,1,11:21.0,0,2,BOS,LAC,2,home,OffReb,,,OffReb,,D. Theis,
+3,1,11:19.0,0,2,BOS,LAC,2,home,LU,block,1,miss2,0,D. Theis,P. George
+4,1,11:18.0,0,2,BOS,LAC,1,away,DefReb,,,DefReb,,P. George,
+5,1,11:12.0,0,4,BOS,LAC,6,away,DK,assist,1,make2,2,I. Zubac,P. George
+6,1,11:12.0,0,4,BOS,LAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Tatum,I. Zubac
+7,1,11:12.0,0,5,BOS,LAC,0,away,FreeThrow,,,make1,1,I. Zubac,
+8,1,10:53.0,0,5,BOS,LAC,19,home,JS,,14,miss2,0,G. Hayward,
+9,1,10:51.0,0,5,BOS,LAC,2,away,DefReb,,,DefReb,,I. Zubac,
+10,1,10:41.0,0,7,BOS,LAC,10,away,JS,,10,make2,2,M. Morris,
+11,1,10:23.0,0,7,BOS,LAC,18,home,JS,,20,miss2,0,D. Theis,
+12,1,10:21.0,0,7,BOS,LAC,2,away,DefReb,,,DefReb,,K. Leonard,
+13,1,10:11.0,0,7,BOS,LAC,10,away,JS,,24,miss3,0,K. Leonard,
+14,1,10:09.0,0,7,BOS,LAC,2,home,DefReb,,,DefReb,,G. Hayward,
+15,1,10:05.0,3,7,BOS,LAC,4,home,JS,assist,25,make3,3,M. Smart,G. Hayward
+16,1,9:45.0,3,7,BOS,LAC,20,away,lost ball,steal,,turnover,,M. Morris,M. Smart
+17,1,9:39.0,6,7,BOS,LAC,6,home,JS,,26,make3,3,M. Smart,
+18,1,9:26.0,6,7,BOS,LAC,13,away,JS,,12,miss2,0,K. Leonard,
+19,1,9:24.0,6,7,BOS,LAC,2,home,DefReb,,,DefReb,,D. Theis,
+20,1,9:18.0,6,7,BOS,LAC,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,M. Smart
+21,1,9:18.0,6,7,BOS,LAC,0,home,TechnicalFoul,,,TechnicalFoul,,M. Morris,
+22,1,9:18.0,6,7,BOS,LAC,0,home,FreeThrow,,,make1,0,M. Smart misses technical free throw,
+23,1,9:18.0,6,7,BOS,LAC,0,home,OffReb,,,OffReb,,Team,
+24,1,9:18.0,7,7,BOS,LAC,0,home,FreeThrow,,,make1,1,M. Smart,
+25,1,9:18.0,7,7,BOS,LAC,0,home,FreeThrow,,,make1,0,M. Smart,
+26,1,9:18.0,7,7,BOS,LAC,0,home,OffReb,,,OffReb,,Team,
+27,1,9:18.0,8,7,BOS,LAC,0,home,FreeThrow,,,make1,1,M. Smart,
+28,1,9:10.0,8,7,BOS,LAC,8,away,bad pass,steal,,turnover,,L. Shamet,M. Smart
+29,1,9:07.0,10,7,BOS,LAC,3,home,DK,,2,make2,2,M. Smart,
+30,1,8:53.0,10,7,BOS,LAC,14,away,OutOfBoundsLB,,,turnover,,P. George,
+31,1,8:40.0,10,7,BOS,LAC,13,home,JS,,23,miss3,0,M. Smart,
+32,1,8:37.0,10,7,BOS,LAC,3,home,OffReb,,,OffReb,,G. Hayward,
+33,1,8:36.0,10,7,BOS,LAC,1,home,JS,,16,miss2,0,G. Hayward,
+34,1,8:34.0,10,7,BOS,LAC,2,away,DefReb,,,DefReb,,M. Morris,
+35,1,8:31.0,10,7,BOS,LAC,3,away,JS,block,6,miss2,0,P. George,D. Theis
+36,1,8:29.0,10,7,BOS,LAC,2,away,OffReb,,,OffReb,,Team,
+37,1,8:22.0,10,7,BOS,LAC,7,away,JS,,9,miss2,0,K. Leonard,
+38,1,8:20.0,10,7,BOS,LAC,2,home,DefReb,,,DefReb,,K. Walker,
+39,1,8:07.0,10,7,BOS,LAC,13,home,JS,,27,miss3,0,M. Smart,
+40,1,8:05.0,10,7,BOS,LAC,2,away,DefReb,,,DefReb,,K. Leonard,
+41,1,8:01.0,10,9,BOS,LAC,4,away,DK,assist,2,make2,2,I. Zubac,K. Leonard
+42,1,7:48.0,10,9,BOS,LAC,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Zubac,K. Walker
+43,1,7:48.0,11,9,BOS,LAC,0,home,FreeThrow,,,make1,1,K. Walker,
+44,1,7:48.0,11,9,BOS,LAC,0,home,Sub,,,,,E. Freedom,D. Theis
+45,1,7:48.0,12,9,BOS,LAC,0,home,FreeThrow,,,make1,1,K. Walker,
+46,1,7:36.0,12,11,BOS,LAC,12,away,JS,,15,make2,2,K. Leonard,
+47,1,7:15.0,15,11,BOS,LAC,21,home,JS,,23,make3,3,J. Tatum,
+48,1,6:53.0,15,13,BOS,LAC,22,away,LU,,3,make2,2,P. George,
+49,1,6:44.0,15,13,BOS,LAC,9,home,Timeout,,,,,,
+50,1,6:36.0,15,13,BOS,LAC,8,home,LU,block,3,miss2,0,E. Freedom,K. Leonard
+51,1,6:34.0,15,13,BOS,LAC,2,away,DefReb,,,DefReb,,K. Leonard,
+52,1,6:31.0,15,15,BOS,LAC,3,away,DK,,2,make2,2,K. Leonard,
+53,1,6:19.0,15,15,BOS,LAC,12,home,LU,,2,miss2,0,E. Freedom,
+54,1,6:17.0,15,15,BOS,LAC,2,away,DefReb,,,DefReb,,I. Zubac,
+55,1,6:11.0,15,15,BOS,LAC,6,away,JS,,14,miss2,0,P. George,
+56,1,6:09.0,15,15,BOS,LAC,2,home,DefReb,,,DefReb,,G. Hayward,
+57,1,5:59.0,15,15,BOS,LAC,10,home,JS,,17,miss2,0,G. Hayward,
+58,1,5:58.0,15,15,BOS,LAC,1,home,OffReb,,,OffReb,,Team,
+59,1,5:58.0,15,15,BOS,LAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Morris,E. Freedom
+60,1,5:58.0,15,15,BOS,LAC,0,away,Sub,,,,,J. Green,M. Morris
+61,1,5:51.0,18,15,BOS,LAC,7,home,JS,assist,25,make3,3,J. Tatum,M. Smart
+62,1,5:33.0,18,15,BOS,LAC,18,away,LU,,1,miss2,0,K. Leonard,
+63,1,5:31.0,18,15,BOS,LAC,2,home,DefReb,,,DefReb,,E. Freedom,
+64,1,5:18.0,20,15,BOS,LAC,13,home,JS,,14,make2,2,J. Tatum,
+65,1,5:03.0,20,15,BOS,LAC,15,away,LU,block,6,miss2,0,P. George,E. Freedom
+66,1,5:02.0,20,15,BOS,LAC,1,away,OffReb,,,OffReb,,Team,
+67,1,5:02.0,20,15,BOS,LAC,0,away,Sub,,,,,M. Harrell,P. George
+68,1,5:02.0,20,15,BOS,LAC,0,away,Sub,,,,,L. Williams,I. Zubac
+69,1,5:02.0,20,15,BOS,LAC,0,home,Sub,,,,,B. Wanamaker,K. Walker
+70,1,4:52.0,20,15,BOS,LAC,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Smart,K. Leonard
+71,1,4:52.0,20,16,BOS,LAC,0,away,FreeThrow,,,make1,1,K. Leonard,
+72,1,4:52.0,20,17,BOS,LAC,0,away,FreeThrow,,,make1,1,K. Leonard,
+73,1,4:36.0,20,17,BOS,LAC,16,home,lost ball,steal,,turnover,,J. Tatum,M. Harrell
+74,1,4:31.0,20,17,BOS,LAC,5,away,JS,,23,miss3,0,L. Shamet,
+75,1,4:28.0,20,17,BOS,LAC,3,home,DefReb,,,DefReb,,J. Tatum,
+76,1,4:22.0,20,17,BOS,LAC,6,home,JS,,27,miss3,0,M. Smart,
+77,1,4:19.0,20,17,BOS,LAC,3,away,DefReb,,,DefReb,,L. Shamet,
+78,1,3:56.0,20,17,BOS,LAC,23,away,JS,,28,miss3,0,L. Williams,
+79,1,3:54.0,20,17,BOS,LAC,2,home,DefReb,,,DefReb,,E. Freedom,
+80,1,3:48.0,20,17,BOS,LAC,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Williams,J. Tatum
+81,1,3:48.0,20,17,BOS,LAC,0,home,Sub,,,,,D. Theis,G. Hayward
+82,1,3:48.0,20,17,BOS,LAC,0,home,Sub,,,,,G. Williams,E. Freedom
+83,1,3:39.0,23,17,BOS,LAC,9,home,JS,,26,make3,3,J. Tatum,
+84,1,3:26.0,23,19,BOS,LAC,13,away,JS,,12,make2,2,K. Leonard,
+85,1,3:15.0,23,19,BOS,LAC,11,home,JS,,26,miss3,0,J. Tatum,
+86,1,3:13.0,23,19,BOS,LAC,2,away,DefReb,,,DefReb,,L. Williams,
+87,1,3:09.0,23,22,BOS,LAC,4,away,JS,assist,27,make3,3,K. Leonard,L. Williams
+88,1,2:53.0,23,22,BOS,LAC,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Shamet,J. Tatum
+89,1,2:53.0,23,22,BOS,LAC,0,away,Timeout,,,,,,
+90,1,2:53.0,23,22,BOS,LAC,0,home,FreeThrow,,,make1,0,J. Tatum,
+91,1,2:53.0,23,22,BOS,LAC,0,home,OffReb,,,OffReb,,Team,
+92,1,2:53.0,24,22,BOS,LAC,0,home,FreeThrow,,,make1,1,J. Tatum,
+93,1,2:42.0,24,22,BOS,LAC,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Theis,K. Leonard
+94,1,2:42.0,24,23,BOS,LAC,0,away,FreeThrow,,,make1,1,K. Leonard,
+95,1,2:42.0,24,23,BOS,LAC,0,away,Sub,,,,,R. McGruder,L. Shamet
+96,1,2:42.0,24,24,BOS,LAC,0,away,FreeThrow,,,make1,1,K. Leonard,
+97,1,2:26.0,24,24,BOS,LAC,16,home,JS,block,6,miss2,0,B. Wanamaker,L. Williams
+98,1,2:24.0,24,24,BOS,LAC,2,away,DefReb,,,DefReb,,K. Leonard,
+99,1,2:12.0,24,24,BOS,LAC,12,away,bad pass,steal,,turnover,,L. Williams,J. Tatum
+100,1,2:06.0,26,24,BOS,LAC,6,home,LU,,1,make2,2,J. Tatum,
+101,1,1:55.0,26,24,BOS,LAC,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Theis,M. Harrell
+102,1,1:55.0,26,25,BOS,LAC,0,away,FreeThrow,,,make1,1,M. Harrell,
+103,1,1:55.0,26,25,BOS,LAC,0,away,Sub,,,,,P. George,K. Leonard
+104,1,1:55.0,26,25,BOS,LAC,0,home,Sub,,,,,S. Ojeleye,M. Smart
+105,1,1:55.0,26,25,BOS,LAC,0,home,Sub,,,,,K. Walker,D. Theis
+106,1,1:55.0,26,26,BOS,LAC,0,away,FreeThrow,,,make1,1,M. Harrell,
+107,1,1:44.0,26,26,BOS,LAC,11,home,LU,block,5,miss2,0,B. Wanamaker,L. Williams
+108,1,1:43.0,26,26,BOS,LAC,1,home,OffReb,,,OffReb,,Team,
+109,1,1:38.0,26,26,BOS,LAC,5,home,JS,,21,miss2,0,J. Tatum,
+110,1,1:36.0,26,26,BOS,LAC,2,away,DefReb,,,DefReb,,L. Williams,
+111,1,1:23.0,26,26,BOS,LAC,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Wanamaker,M. Harrell
+112,1,1:23.0,26,27,BOS,LAC,0,away,FreeThrow,,,make1,1,M. Harrell,
+113,1,1:23.0,26,27,BOS,LAC,0,home,Sub,,,,,G. Hayward,J. Tatum
+114,1,1:23.0,26,28,BOS,LAC,0,away,FreeThrow,,,make1,1,M. Harrell,
+115,1,1:05.0,28,28,BOS,LAC,18,home,JS,,8,make2,2,G. Hayward,
+116,1,0:54.0,28,28,BOS,LAC,11,away,JS,,23,miss3,0,P. George,
+117,1,0:52.0,28,28,BOS,LAC,2,away,OffReb,,,OffReb,,J. Green,
+118,1,0:51.0,28,28,BOS,LAC,1,away,LU,,0,miss2,0,J. Green,
+119,1,0:50.0,28,28,BOS,LAC,1,home,DefReb,,,DefReb,,K. Walker,
+120,1,0:46.0,28,28,BOS,LAC,4,home,JS,,25,miss3,0,K. Walker,
+121,1,0:43.0,28,28,BOS,LAC,3,away,DefReb,,,DefReb,,J. Green,
+122,1,0:28.0,28,30,BOS,LAC,15,away,DK,,1,make2,2,M. Harrell,
+123,1,0:14.0,28,30,BOS,LAC,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. George,B. Wanamaker
+124,1,0:14.0,29,30,BOS,LAC,0,home,FreeThrow,,,make1,1,B. Wanamaker,
+125,1,0:14.0,29,30,BOS,LAC,0,away,Sub,,,,,K. Leonard,J. Green
+126,1,0:14.0,29,30,BOS,LAC,0,away,Sub,,,,,L. Shamet,R. McGruder
+127,1,0:14.0,30,30,BOS,LAC,0,home,FreeThrow,,,make1,1,B. Wanamaker,
+128,1,0:01.0,30,32,BOS,LAC,13,away,HS,,7,make2,2,M. Harrell,
+129,1,0:01.0,30,32,BOS,LAC,0,home,JS,,58,miss3,0,K. Walker,
+130,1,0:00.0,30,32,BOS,LAC,1,home,OffReb,,,OffReb,,Team,
+131,2,11:46.0,30,32,BOS,LAC,14,home,LU,,3,miss2,0,G. Hayward,
+132,2,11:44.0,30,32,BOS,LAC,2,away,DefReb,,,DefReb,,M. Harrell,
+133,2,11:34.0,30,32,BOS,LAC,10,away,JS,,18,miss2,0,L. Williams,
+134,2,11:33.0,30,32,BOS,LAC,1,home,DefReb,,,DefReb,,E. Freedom,
+135,2,11:21.0,32,32,BOS,LAC,12,home,LU,,1,make2,2,E. Freedom,
+136,2,11:10.0,32,32,BOS,LAC,11,away,JS,,27,miss3,0,P. George,
+137,2,11:09.0,32,32,BOS,LAC,1,home,DefReb,,,DefReb,,Team,
+138,2,11:02.0,35,32,BOS,LAC,7,home,JS,,26,make3,3,K. Walker,
+139,2,10:49.0,35,35,BOS,LAC,13,away,JS,assist,23,make3,3,R. McGruder,L. Williams
+140,2,10:28.0,35,35,BOS,LAC,21,home,JS,,24,miss3,0,G. Hayward,
+141,2,10:26.0,35,35,BOS,LAC,2,away,DefReb,,,DefReb,,J. Green,
+142,2,10:21.0,35,37,BOS,LAC,5,away,LU,assist,3,make2,2,L. Williams,M. Harrell
+143,2,10:03.0,35,37,BOS,LAC,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. George,K. Walker
+144,2,9:53.0,35,37,BOS,LAC,10,home,JS,,30,miss3,0,K. Walker,
+145,2,9:52.0,35,37,BOS,LAC,1,away,DefReb,,,DefReb,,Team,
+146,2,9:36.0,35,37,BOS,LAC,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Freedom,L. Williams
+147,2,9:36.0,35,38,BOS,LAC,0,away,FreeThrow,,,make1,1,L. Williams,
+148,2,9:36.0,35,38,BOS,LAC,0,away,FreeThrow,,,make1,0,L. Williams,
+149,2,9:36.0,35,38,BOS,LAC,0,home,DefReb,,,DefReb,,G. Hayward,
+150,2,9:28.0,38,38,BOS,LAC,8,home,JS,assist,25,make3,3,K. Walker,B. Wanamaker
+151,2,9:28.0,38,38,BOS,LAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. McGruder,K. Walker
+152,2,9:28.0,38,38,BOS,LAC,0,away,Sub,,,,,M. Morris,J. Green
+153,2,9:28.0,39,38,BOS,LAC,0,home,FreeThrow,,,make1,1,K. Walker,
+154,2,9:18.0,39,38,BOS,LAC,10,away,JS,,5,miss2,0,L. Williams,
+155,2,9:16.0,39,38,BOS,LAC,2,home,DefReb,,,DefReb,,E. Freedom,
+156,2,9:12.0,41,38,BOS,LAC,4,home,LU,,1,make2,2,B. Wanamaker,
+157,2,8:57.0,41,40,BOS,LAC,15,away,JS,,12,make2,2,P. George,
+158,2,8:45.0,43,40,BOS,LAC,12,home,LU,,1,make2,2,K. Walker,
+159,2,8:45.0,43,40,BOS,LAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Harrell,K. Walker
+160,2,8:45.0,43,40,BOS,LAC,0,away,Sub,,,,,L. Shamet,R. McGruder
+161,2,8:45.0,43,40,BOS,LAC,0,home,FreeThrow,,,make1,0,K. Walker,
+162,2,8:45.0,43,40,BOS,LAC,0,away,DefReb,,,DefReb,,M. Morris,
+163,2,8:29.0,43,43,BOS,LAC,16,away,JS,assist,24,make3,3,L. Williams,M. Morris
+164,2,8:14.0,45,43,BOS,LAC,15,home,LU,assist,2,make2,2,E. Freedom,K. Walker
+165,2,8:03.0,45,43,BOS,LAC,11,away,JS,,23,miss3,0,L. Shamet,
+166,2,8:01.0,45,43,BOS,LAC,2,home,DefReb,,,DefReb,,E. Freedom,
+167,2,7:53.0,45,43,BOS,LAC,8,home,LU,,2,miss2,0,K. Walker,
+168,2,7:52.0,45,43,BOS,LAC,1,home,OffReb,,,OffReb,,E. Freedom,
+169,2,7:50.0,47,43,BOS,LAC,2,home,LU,,1,make2,2,E. Freedom,
+170,2,7:32.0,47,43,BOS,LAC,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Freedom,M. Harrell
+171,2,7:32.0,47,44,BOS,LAC,0,away,FreeThrow,,,make1,1,M. Harrell,
+172,2,7:32.0,47,44,BOS,LAC,0,away,Sub,,,,,K. Leonard,L. Williams
+173,2,7:32.0,47,44,BOS,LAC,0,home,Sub,,,,,M. Smart,K. Walker
+174,2,7:32.0,47,45,BOS,LAC,0,away,FreeThrow,,,make1,1,M. Harrell,
+175,2,7:20.0,47,45,BOS,LAC,12,home,LU,,5,miss2,0,G. Hayward,
+176,2,7:17.0,47,45,BOS,LAC,3,away,DefReb,,,DefReb,,M. Harrell,
+177,2,7:07.0,47,45,BOS,LAC,10,away,BadPass,,,turnover,,L. Shamet,
+178,2,7:02.0,47,45,BOS,LAC,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Shamet,B. Wanamaker
+179,2,6:48.0,47,45,BOS,LAC,14,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,E. Freedom,M. Harrell
+180,2,6:48.0,47,45,BOS,LAC,0,home,OffensiveFoul,,,turnover,,E. Freedom,
+181,2,6:48.0,47,45,BOS,LAC,0,home,Timeout,,,,,,
+182,2,6:48.0,47,45,BOS,LAC,0,home,Sub,,,,,J. Tatum,G. Hayward
+183,2,6:31.0,47,47,BOS,LAC,17,away,JS,assist,11,make2,2,M. Harrell,K. Leonard
+184,2,6:07.0,47,47,BOS,LAC,24,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Leonard,B. Wanamaker
+185,2,6:07.0,48,47,BOS,LAC,0,home,FreeThrow,,,make1,1,B. Wanamaker,
+186,2,6:07.0,48,47,BOS,LAC,0,away,Sub,,,,,L. Williams,P. George
+187,2,6:07.0,49,47,BOS,LAC,0,home,FreeThrow,,,make1,1,B. Wanamaker,
+188,2,5:55.0,49,47,BOS,LAC,12,away,JS,,11,miss2,0,K. Leonard,
+189,2,5:53.0,49,47,BOS,LAC,2,home,DefReb,,,DefReb,,S. Ojeleye,
+190,2,5:42.0,49,47,BOS,LAC,11,home,JS,,26,miss3,0,J. Tatum,
+191,2,5:40.0,49,47,BOS,LAC,2,away,DefReb,,,DefReb,,L. Williams,
+192,2,5:34.0,49,49,BOS,LAC,6,away,LU,assist,1,make2,2,M. Harrell,L. Williams
+193,2,5:16.0,49,49,BOS,LAC,18,home,Traveling,,,turnover,,E. Freedom,
+194,2,5:16.0,49,49,BOS,LAC,0,away,Sub,,,,,I. Zubac,M. Harrell
+195,2,5:16.0,49,49,BOS,LAC,0,home,Sub,,,,,D. Theis,E. Freedom
+196,2,5:04.0,49,49,BOS,LAC,12,away,JS,,23,miss3,0,M. Morris,
+197,2,5:03.0,49,49,BOS,LAC,1,away,OffReb,,,OffReb,,Team,
+198,2,4:56.0,49,51,BOS,LAC,7,away,JS,assist,5,make2,2,L. Williams,I. Zubac
+199,2,4:56.0,49,51,BOS,LAC,0,home,Sub,,,,,K. Walker,B. Wanamaker
+200,2,4:32.0,49,51,BOS,LAC,24,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Zubac,J. Tatum
+201,2,4:32.0,50,51,BOS,LAC,0,home,FreeThrow,,,make1,1,J. Tatum,
+202,2,4:32.0,50,51,BOS,LAC,0,home,Sub,,,,,G. Hayward,S. Ojeleye
+203,2,4:32.0,50,51,BOS,LAC,0,home,FreeThrow,,,make1,0,J. Tatum,
+204,2,4:32.0,50,51,BOS,LAC,0,away,DefReb,,,DefReb,,K. Leonard,
+205,2,4:08.0,50,53,BOS,LAC,24,away,JS,,10,make2,2,K. Leonard,
+206,2,3:56.0,50,53,BOS,LAC,12,home,JS,,22,miss3,0,G. Hayward,
+207,2,3:53.0,50,53,BOS,LAC,3,home,OffReb,,,OffReb,,D. Theis,
+208,2,3:50.0,50,53,BOS,LAC,3,home,JS,,25,miss3,0,M. Smart,
+209,2,3:48.0,50,53,BOS,LAC,2,away,DefReb,,,DefReb,,I. Zubac,
+210,2,3:39.0,50,53,BOS,LAC,9,away,JS,,20,miss2,0,K. Leonard,
+211,2,3:37.0,50,53,BOS,LAC,2,home,DefReb,,,DefReb,,G. Hayward,
+212,2,3:34.0,50,53,BOS,LAC,3,home,DiscontinueDribbleTurnover,,,turnover,,M. Smart,
+213,2,3:11.0,50,53,BOS,LAC,23,away,HS,,7,miss2,0,L. Williams,
+214,2,3:09.0,50,53,BOS,LAC,2,home,DefReb,,,DefReb,,K. Walker,
+215,2,3:02.0,50,53,BOS,LAC,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,K. Walker
+216,2,3:02.0,51,53,BOS,LAC,0,home,FreeThrow,,,make1,1,K. Walker,
+217,2,3:02.0,51,53,BOS,LAC,0,away,Sub,,,,,J. Green,M. Morris
+218,2,3:02.0,52,53,BOS,LAC,0,home,FreeThrow,,,make1,1,K. Walker,
+219,2,2:56.0,52,53,BOS,LAC,6,away,lost ball,steal,,turnover,,I. Zubac,D. Theis
+220,2,2:53.0,54,53,BOS,LAC,3,home,DK,,0,make2,2,D. Theis,
+221,2,2:41.0,54,53,BOS,LAC,12,away,JS,,26,miss3,0,J. Green,
+222,2,2:39.0,54,53,BOS,LAC,2,home,DefReb,,,DefReb,,G. Hayward,
+223,2,2:24.0,54,53,BOS,LAC,15,home,JS,,25,miss3,0,M. Smart,
+224,2,2:21.0,54,53,BOS,LAC,3,away,DefReb,,,DefReb,,J. Green,
+225,2,2:12.0,54,53,BOS,LAC,9,away,JS,,26,miss3,0,K. Leonard,
+226,2,2:08.0,54,53,BOS,LAC,4,home,DefReb,,,DefReb,,K. Walker,
+227,2,1:59.0,56,53,BOS,LAC,9,home,JS,,9,make2,2,M. Smart,
+228,2,1:43.0,56,53,BOS,LAC,16,away,Timeout,,,,,,
+229,2,1:43.0,56,53,BOS,LAC,0,away,Sub,,,,,M. Harrell,I. Zubac
+230,2,1:37.0,56,53,BOS,LAC,6,away,LU,,2,miss2,0,J. Green,
+231,2,1:36.0,56,53,BOS,LAC,1,away,OffReb,,,OffReb,,M. Harrell,
+232,2,1:35.0,56,55,BOS,LAC,1,away,LU,,0,make2,2,M. Harrell,
+233,2,1:20.0,58,55,BOS,LAC,15,home,LU,assist,1,make2,2,D. Theis,G. Hayward
+234,2,1:07.0,58,58,BOS,LAC,13,away,JS,assist,26,make3,3,L. Shamet,L. Williams
+235,2,0:51.0,60,58,BOS,LAC,16,home,LU,assist,1,make2,2,D. Theis,G. Hayward
+236,2,0:30.0,60,58,BOS,LAC,21,away,JS,,17,miss2,0,L. Shamet,
+237,2,0:27.0,60,58,BOS,LAC,3,home,DefReb,,,DefReb,,J. Tatum,
+238,2,0:18.0,60,58,BOS,LAC,9,home,JS,,26,miss3,0,G. Hayward,
+239,2,0:15.0,60,58,BOS,LAC,3,away,DefReb,,,DefReb,,M. Harrell,
+240,2,0:01.0,60,58,BOS,LAC,14,away,JS,,47,miss3,0,L. Williams,
+241,2,0:00.0,60,58,BOS,LAC,1,away,OffReb,,,OffReb,,Team,
+242,3,11:42.0,63,58,BOS,LAC,18,home,JS,assist,23,make3,3,G. Hayward,K. Walker
+243,3,11:21.0,63,58,BOS,LAC,21,away,LU,block,2,miss2,0,L. Williams,D. Theis
+244,3,11:19.0,63,58,BOS,LAC,2,home,DefReb,,,DefReb,,K. Walker,
+245,3,11:17.0,63,58,BOS,LAC,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,G. Hayward
+246,3,11:17.0,64,58,BOS,LAC,0,home,FreeThrow,,,make1,1,G. Hayward,
+247,3,11:17.0,65,58,BOS,LAC,0,home,FreeThrow,,,make1,1,G. Hayward,
+248,3,11:10.0,65,58,BOS,LAC,7,away,Timeout,,,,,,
+249,3,10:54.0,65,58,BOS,LAC,16,away,JS,,12,miss2,0,K. Leonard,
+250,3,10:52.0,65,58,BOS,LAC,2,home,DefReb,,,DefReb,,J. Tatum,
+251,3,10:41.0,65,58,BOS,LAC,11,home,Traveling,,,turnover,,D. Theis,
+252,3,10:22.0,65,58,BOS,LAC,19,away,JS,,12,miss2,0,L. Williams,
+253,3,10:19.0,65,58,BOS,LAC,3,home,DefReb,,,DefReb,,K. Walker,
+254,3,10:05.0,65,58,BOS,LAC,14,home,JS,,23,miss3,0,J. Tatum,
+255,3,10:03.0,65,58,BOS,LAC,2,away,DefReb,,,DefReb,,K. Leonard,
+256,3,9:59.0,65,58,BOS,LAC,4,away,LU,,1,miss2,0,I. Zubac,
+257,3,9:58.0,65,58,BOS,LAC,1,away,OffReb,,,OffReb,,I. Zubac,
+258,3,9:58.0,65,58,BOS,LAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Theis,I. Zubac
+259,3,9:58.0,65,59,BOS,LAC,0,away,FreeThrow,,,make1,1,I. Zubac,
+260,3,9:58.0,65,60,BOS,LAC,0,away,FreeThrow,,,make1,1,I. Zubac,
+261,3,9:39.0,67,60,BOS,LAC,19,home,JS,,10,make2,2,M. Smart,
+262,3,9:21.0,67,60,BOS,LAC,18,away,BackCourtTurnover,,,turnover,,L. Shamet,
+263,3,9:12.0,69,60,BOS,LAC,9,home,JS,assist,7,make2,2,D. Theis,K. Walker
+264,3,9:00.0,69,60,BOS,LAC,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Theis,K. Leonard
+265,3,9:00.0,69,61,BOS,LAC,0,away,FreeThrow,,,make1,1,K. Leonard,
+266,3,9:00.0,69,61,BOS,LAC,0,away,Sub,,,,,M. Harrell,I. Zubac
+267,3,9:00.0,69,61,BOS,LAC,0,home,Sub,,,,,E. Freedom,D. Theis
+268,3,9:00.0,69,62,BOS,LAC,0,away,FreeThrow,,,make1,1,K. Leonard,
+269,3,8:51.0,72,62,BOS,LAC,9,home,JS,assist,24,make3,3,G. Hayward,M. Smart
+270,3,8:33.0,72,64,BOS,LAC,18,away,JS,assist,19,make2,2,M. Morris,M. Harrell
+271,3,8:15.0,72,64,BOS,LAC,18,home,JS,,23,miss3,0,M. Smart,
+272,3,8:12.0,72,64,BOS,LAC,3,away,DefReb,,,DefReb,,L. Shamet,
+273,3,8:02.0,72,66,BOS,LAC,10,away,JS,,11,make2,2,L. Williams,
+274,3,7:47.0,75,66,BOS,LAC,15,home,JS,assist,26,make3,3,M. Smart,K. Walker
+275,3,7:32.0,75,66,BOS,LAC,15,away,LU,,1,miss2,0,K. Leonard,
+276,3,7:31.0,75,66,BOS,LAC,1,away,OffReb,,,OffReb,,K. Leonard,
+277,3,7:30.0,75,68,BOS,LAC,1,away,LU,,1,make2,2,K. Leonard,
+278,3,7:15.0,75,68,BOS,LAC,15,home,JS,,26,miss3,0,M. Smart,
+279,3,7:13.0,75,68,BOS,LAC,2,away,DefReb,,,DefReb,,M. Morris,
+280,3,7:01.0,75,70,BOS,LAC,12,away,LU,assist,2,make2,2,L. Shamet,L. Williams
+281,3,6:44.0,77,70,BOS,LAC,17,home,LU,assist,1,make2,2,J. Tatum,E. Freedom
+282,3,6:34.0,77,70,BOS,LAC,10,away,JS,,25,miss3,0,L. Shamet,
+283,3,6:32.0,77,70,BOS,LAC,2,home,DefReb,,,DefReb,,J. Tatum,
+284,3,6:24.0,77,70,BOS,LAC,8,away,KickBallViolation,,,KickBallViolation,,Team,
+285,3,6:24.0,77,70,BOS,LAC,0,home,Sub,,,,,B. Wanamaker,K. Walker
+286,3,6:17.0,77,70,BOS,LAC,7,home,LU,block,4,miss2,0,G. Hayward,M. Morris
+287,3,6:15.0,77,70,BOS,LAC,2,away,DefReb,,,DefReb,,L. Williams,
+288,3,6:10.0,77,70,BOS,LAC,5,away,LU,,1,miss2,0,M. Harrell,
+289,3,6:09.0,77,70,BOS,LAC,1,home,DefReb,,,DefReb,,E. Freedom,
+290,3,6:08.0,77,70,BOS,LAC,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,L. Williams,J. Tatum
+291,3,6:08.0,77,70,BOS,LAC,0,away,Sub,,,,,A. Coffey,L. Williams
+292,3,5:58.0,77,70,BOS,LAC,10,home,JS,,23,miss3,0,G. Hayward,
+293,3,5:56.0,77,70,BOS,LAC,2,away,DefReb,,,DefReb,,K. Leonard,
+294,3,5:45.0,77,72,BOS,LAC,11,away,LU,assist,1,make2,2,K. Leonard,M. Harrell
+295,3,5:24.0,77,72,BOS,LAC,21,home,LU,block,3,miss2,0,J. Tatum,M. Harrell
+296,3,5:23.0,77,72,BOS,LAC,1,home,OffReb,,,OffReb,,Team,
+297,3,5:17.0,79,72,BOS,LAC,6,home,JS,assist,14,make2,2,M. Smart,E. Freedom
+298,3,5:06.0,79,72,BOS,LAC,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Smart,L. Shamet
+299,3,5:06.0,79,73,BOS,LAC,0,away,FreeThrow,,,make1,1,L. Shamet,
+300,3,5:06.0,79,74,BOS,LAC,0,away,FreeThrow,,,make1,1,L. Shamet,
+301,3,5:06.0,79,74,BOS,LAC,0,home,Sub,,,,,S. Ojeleye,G. Hayward
+302,3,5:06.0,79,75,BOS,LAC,0,away,FreeThrow,,,make1,1,L. Shamet,
+303,3,4:57.0,79,75,BOS,LAC,9,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Tatum,L. Shamet
+304,3,4:57.0,79,75,BOS,LAC,0,home,OffensiveFoul,,,turnover,,J. Tatum,
+305,3,4:31.0,79,75,BOS,LAC,26,away,JS,,29,miss3,0,M. Morris,
+306,3,4:30.0,79,75,BOS,LAC,1,home,DefReb,,,DefReb,,M. Smart,
+307,3,4:22.0,79,75,BOS,LAC,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Shamet,M. Smart
+308,3,4:22.0,79,75,BOS,LAC,0,away,Sub,,,,,J. Green,M. Morris
+309,3,4:16.0,79,75,BOS,LAC,6,home,LU,block,7,miss2,0,J. Tatum,M. Harrell
+310,3,4:15.0,79,75,BOS,LAC,1,home,OffReb,,,OffReb,,Team,
+311,3,4:15.0,79,75,BOS,LAC,0,home,Timeout,,,,,,
+312,3,4:15.0,79,75,BOS,LAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,S. Ojeleye
+313,3,4:15.0,80,75,BOS,LAC,0,home,FreeThrow,,,make1,1,S. Ojeleye,
+314,3,4:15.0,81,75,BOS,LAC,0,home,FreeThrow,,,make1,1,S. Ojeleye,
+315,3,4:00.0,81,78,BOS,LAC,15,away,JS,assist,26,make3,3,L. Shamet,K. Leonard
+316,3,3:33.0,81,78,BOS,LAC,27,home,JS,,5,miss2,0,M. Smart,
+317,3,3:31.0,81,78,BOS,LAC,2,home,OffReb,,,OffReb,,Team,
+318,3,3:31.0,81,78,BOS,LAC,0,home,ShotClockViolation,,,turnover,,Team,
+319,3,3:18.0,81,78,BOS,LAC,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Tatum,K. Leonard
+320,3,3:18.0,81,78,BOS,LAC,0,home,Sub,,,,,K. Walker,M. Smart
+321,3,3:04.0,81,78,BOS,LAC,14,away,ShotClockViolation,,,turnover,,Team,
+322,3,2:49.0,84,78,BOS,LAC,15,home,JS,assist,26,make3,3,B. Wanamaker,S. Ojeleye
+323,3,2:31.0,84,78,BOS,LAC,18,away,JS,,23,miss2,0,K. Leonard,
+324,3,2:29.0,84,78,BOS,LAC,2,home,DefReb,,,DefReb,,J. Tatum,
+325,3,2:16.0,84,78,BOS,LAC,13,home,Traveling,,,turnover,,B. Wanamaker,
+326,3,2:16.0,84,78,BOS,LAC,0,away,Sub,,,,,L. Williams,K. Leonard
+327,3,2:06.0,84,78,BOS,LAC,10,away,JS,,6,miss2,0,M. Harrell,
+328,3,2:04.0,84,78,BOS,LAC,2,away,OffReb,,,OffReb,,M. Harrell,
+329,3,2:02.0,84,78,BOS,LAC,2,away,JS,,26,miss3,0,L. Shamet,
+330,3,2:00.0,84,78,BOS,LAC,2,home,DefReb,,,DefReb,,Team,
+331,3,2:00.0,84,78,BOS,LAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Green,E. Freedom
+332,3,2:00.0,85,78,BOS,LAC,0,home,FreeThrow,,,make1,1,E. Freedom,
+333,3,2:00.0,86,78,BOS,LAC,0,home,FreeThrow,,,make1,1,E. Freedom,
+334,3,1:54.0,86,80,BOS,LAC,6,away,LU,,1,make2,2,L. Williams,
+335,3,1:37.0,86,80,BOS,LAC,17,home,HS,,7,miss2,0,E. Freedom,
+336,3,1:35.0,86,80,BOS,LAC,2,away,DefReb,,,DefReb,,J. Green,
+337,3,1:28.0,86,80,BOS,LAC,7,away,JS,,14,miss2,0,L. Williams,
+338,3,1:27.0,86,80,BOS,LAC,1,away,OffReb,,,OffReb,,M. Harrell,
+339,3,1:26.0,86,80,BOS,LAC,1,away,LU,,1,miss2,0,M. Harrell,
+340,3,1:25.0,86,80,BOS,LAC,1,home,DefReb,,,DefReb,,E. Freedom,
+341,3,1:20.0,86,80,BOS,LAC,5,home,JS,,26,miss3,0,K. Walker,
+342,3,1:18.0,86,80,BOS,LAC,2,away,DefReb,,,DefReb,,J. Green,
+343,3,1:06.0,86,80,BOS,LAC,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Wanamaker,L. Shamet
+344,3,1:06.0,86,81,BOS,LAC,0,away,FreeThrow,,,make1,1,L. Shamet,
+345,3,1:06.0,86,81,BOS,LAC,0,home,Sub,,,,,G. Williams,E. Freedom
+346,3,1:06.0,86,82,BOS,LAC,0,away,FreeThrow,,,make1,1,L. Shamet,
+347,3,0:54.0,86,82,BOS,LAC,12,home,JS,,2,miss2,0,K. Walker,
+348,3,0:52.0,86,82,BOS,LAC,2,away,DefReb,,,DefReb,,A. Coffey,
+349,3,0:46.0,86,82,BOS,LAC,6,away,JS,,10,miss2,0,A. Coffey,
+350,3,0:45.0,86,82,BOS,LAC,1,away,OffReb,,,OffReb,,J. Green,
+351,3,0:44.0,86,84,BOS,LAC,1,away,LU,,0,make2,2,J. Green,
+352,3,0:32.0,88,84,BOS,LAC,12,home,DK,assist,2,make2,2,J. Tatum,K. Walker
+353,3,0:27.0,88,87,BOS,LAC,5,away,JS,,25,make3,3,L. Williams,
+354,3,0:06.0,91,87,BOS,LAC,21,home,JS,,26,make3,3,J. Tatum,
+355,3,0:00.0,91,87,BOS,LAC,6,away,JS,,26,miss3,0,L. Williams,
+356,3,0:00.0,91,87,BOS,LAC,0,away,OffReb,,,OffReb,,Team,
+357,4,11:52.0,91,89,BOS,LAC,8,away,DK,,2,make2,2,L. Williams,
+358,4,11:32.0,91,89,BOS,LAC,20,home,LU,,1,miss2,0,B. Wanamaker,
+359,4,11:31.0,91,89,BOS,LAC,1,away,DefReb,,,DefReb,,Team,
+360,4,11:31.0,91,89,BOS,LAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,G. Williams,M. Harrell
+361,4,11:31.0,91,89,BOS,LAC,0,home,Sub,,,,,G. Hayward,J. Tatum
+362,4,11:19.0,91,89,BOS,LAC,12,away,JS,,25,miss3,0,L. Williams,
+363,4,11:17.0,91,89,BOS,LAC,2,home,DefReb,,,DefReb,,K. Walker,
+364,4,11:06.0,91,89,BOS,LAC,11,home,LU,,2,miss2,0,G. Williams,
+365,4,11:04.0,91,89,BOS,LAC,2,away,DefReb,,,DefReb,,J. Green,
+366,4,10:55.0,91,89,BOS,LAC,9,away,JS,,23,miss3,0,A. Coffey,
+367,4,10:53.0,91,89,BOS,LAC,2,home,DefReb,,,DefReb,,B. Wanamaker,
+368,4,10:47.0,94,89,BOS,LAC,6,home,JS,assist,27,make3,3,K. Walker,B. Wanamaker
+369,4,10:36.0,94,89,BOS,LAC,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Williams,L. Williams
+370,4,10:36.0,94,90,BOS,LAC,0,away,FreeThrow,,,make1,1,L. Williams,
+371,4,10:36.0,94,91,BOS,LAC,0,away,FreeThrow,,,make1,1,L. Williams,
+372,4,10:22.0,96,91,BOS,LAC,14,home,JS,assist,10,make2,2,G. Hayward,G. Williams
+373,4,9:58.0,96,93,BOS,LAC,24,away,LU,,3,make2,2,L. Williams,
+374,4,9:45.0,96,93,BOS,LAC,13,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Williams,L. Williams
+375,4,9:45.0,96,93,BOS,LAC,0,home,OffensiveFoul,,,turnover,,G. Williams,
+376,4,9:45.0,96,93,BOS,LAC,0,home,Sub,,,,,M. Smart,S. Ojeleye
+377,4,9:45.0,96,93,BOS,LAC,0,home,Sub,,,,,D. Theis,G. Williams
+378,4,9:34.0,96,93,BOS,LAC,11,away,LU,,1,miss2,0,L. Williams,
+379,4,9:32.0,96,93,BOS,LAC,2,home,DefReb,,,DefReb,,K. Walker,
+380,4,9:27.0,96,93,BOS,LAC,5,home,LU,,3,miss2,0,B. Wanamaker,
+381,4,9:25.0,96,93,BOS,LAC,2,away,DefReb,,,DefReb,,M. Harrell,
+382,4,9:17.0,96,93,BOS,LAC,8,away,LU,,3,miss2,0,M. Harrell,
+383,4,9:15.0,96,93,BOS,LAC,2,home,DefReb,,,DefReb,,M. Smart,
+384,4,9:12.0,96,93,BOS,LAC,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,M. Smart
+385,4,9:12.0,97,93,BOS,LAC,0,home,FreeThrow,,,make1,1,M. Smart,
+386,4,9:12.0,98,93,BOS,LAC,0,home,FreeThrow,,,make1,1,M. Smart,
+387,4,8:57.0,98,93,BOS,LAC,15,away,JS,,11,miss2,0,L. Williams,
+388,4,8:56.0,98,93,BOS,LAC,1,away,OffReb,,,OffReb,,L. Williams,
+389,4,8:55.0,98,95,BOS,LAC,1,away,LU,,1,make2,2,L. Williams,
+390,4,8:42.0,98,95,BOS,LAC,13,home,JS,,17,miss2,0,K. Walker,
+391,4,8:40.0,98,95,BOS,LAC,2,away,DefReb,,,DefReb,,M. Harrell,
+392,4,8:31.0,98,95,BOS,LAC,9,away,JS,,13,miss2,0,L. Williams,
+393,4,8:28.0,98,95,BOS,LAC,3,home,DefReb,,,DefReb,,D. Theis,
+394,4,8:17.0,98,95,BOS,LAC,11,home,bad pass,steal,,turnover,,D. Theis,M. Harrell
+395,4,8:13.0,98,95,BOS,LAC,4,away,JS,,27,miss3,0,J. Green,
+396,4,8:11.0,98,95,BOS,LAC,2,away,OffReb,,,OffReb,,Team,
+397,4,8:11.0,98,95,BOS,LAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,G. Hayward,A. Coffey
+398,4,8:11.0,98,95,BOS,LAC,0,away,Sub,,,,,K. Leonard,J. Green
+399,4,8:11.0,98,95,BOS,LAC,0,away,Timeout,,,,,,
+400,4,8:11.0,98,95,BOS,LAC,0,home,Sub,,,,,J. Tatum,K. Walker
+401,4,8:05.0,98,95,BOS,LAC,6,away,JS,,26,miss3,0,M. Morris,
+402,4,8:03.0,98,95,BOS,LAC,2,home,DefReb,,,DefReb,,J. Tatum,
+403,4,7:49.0,98,95,BOS,LAC,14,home,LU,block,9,miss2,0,G. Hayward,M. Morris
+404,4,7:47.0,98,95,BOS,LAC,2,away,DefReb,,,DefReb,,M. Morris,
+405,4,7:42.0,98,95,BOS,LAC,5,away,LU,block,6,miss2,0,M. Harrell,J. Tatum
+406,4,7:40.0,98,95,BOS,LAC,2,home,DefReb,,,DefReb,,J. Tatum,
+407,4,7:35.0,98,95,BOS,LAC,5,home,LU,,0,miss2,0,J. Tatum,
+408,4,7:33.0,98,95,BOS,LAC,2,home,OffReb,,,OffReb,,G. Hayward,
+409,4,7:31.0,100,95,BOS,LAC,2,home,LU,,2,make2,2,G. Hayward,
+410,4,7:31.0,100,95,BOS,LAC,0,away,Sub,,,,,L. Shamet,L. Williams
+411,4,7:11.0,100,95,BOS,LAC,20,away,lost ball,steal,,turnover,,M. Harrell,B. Wanamaker
+412,4,7:06.0,103,95,BOS,LAC,5,home,JS,assist,22,make3,3,M. Smart,B. Wanamaker
+413,4,7:05.0,103,95,BOS,LAC,1,away,Timeout,,,,,,
+414,4,6:53.0,103,95,BOS,LAC,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Wanamaker,K. Leonard
+415,4,6:40.0,103,98,BOS,LAC,13,away,JS,,27,make3,3,L. Shamet,
+416,4,6:25.0,103,98,BOS,LAC,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Shamet,D. Theis
+417,4,6:25.0,103,98,BOS,LAC,0,away,Sub,,,,,L. Williams,A. Coffey
+418,4,6:16.0,103,98,BOS,LAC,9,home,DiscontinueDribbleTurnover,,,turnover,,J. Tatum,
+419,4,6:16.0,103,98,BOS,LAC,0,away,TechnicalFoul,,,TechnicalFoul,,J. Tatum,
+420,4,6:16.0,103,99,BOS,LAC,0,away,FreeThrow,,,make1,1,K. Leonard makes technical free throw,
+421,4,6:01.0,103,99,BOS,LAC,15,away,bad pass,steal,,turnover,,L. Williams,M. Smart
+422,4,5:56.0,105,99,BOS,LAC,5,home,DK,assist,2,make2,2,J. Tatum,G. Hayward
+423,4,5:50.0,105,99,BOS,LAC,6,away,LU,,0,miss2,0,L. Williams,
+424,4,5:48.0,105,99,BOS,LAC,2,away,OffReb,,,OffReb,,M. Harrell,
+425,4,5:48.0,105,99,BOS,LAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Theis,M. Harrell
+426,4,5:48.0,105,99,BOS,LAC,0,away,FreeThrow,,,make1,0,M. Harrell,
+427,4,5:48.0,105,99,BOS,LAC,0,away,OffReb,,,OffReb,,Team,
+428,4,5:48.0,105,99,BOS,LAC,0,home,Sub,,,,,G. Williams,D. Theis
+429,4,5:48.0,105,100,BOS,LAC,0,away,FreeThrow,,,make1,1,M. Harrell,
+430,4,5:33.0,105,100,BOS,LAC,15,home,LU,,5,miss2,0,G. Hayward,
+431,4,5:31.0,105,100,BOS,LAC,2,away,DefReb,,,DefReb,,M. Morris,
+432,4,5:26.0,105,100,BOS,LAC,5,away,JS,,26,miss3,0,L. Williams,
+433,4,5:24.0,105,100,BOS,LAC,2,away,OffReb,,,OffReb,,M. Harrell,
+434,4,5:23.0,105,100,BOS,LAC,1,away,JS,,26,miss3,0,K. Leonard,
+435,4,5:21.0,105,100,BOS,LAC,2,home,DefReb,,,DefReb,,M. Smart,
+436,4,5:09.0,105,100,BOS,LAC,12,home,JS,,25,miss3,0,M. Smart,
+437,4,5:07.0,105,100,BOS,LAC,2,away,DefReb,,,DefReb,,K. Leonard,
+438,4,5:02.0,105,100,BOS,LAC,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Williams,M. Harrell
+439,4,5:02.0,105,101,BOS,LAC,0,away,FreeThrow,,,make1,1,M. Harrell,
+440,4,5:02.0,105,101,BOS,LAC,0,home,Sub,,,,,E. Freedom,B. Wanamaker
+441,4,5:02.0,105,101,BOS,LAC,0,home,Sub,,,,,K. Walker,G. Williams
+442,4,5:02.0,105,102,BOS,LAC,0,away,FreeThrow,,,make1,1,M. Harrell,
+443,4,4:49.0,105,102,BOS,LAC,13,home,Traveling,,,turnover,,K. Walker,
+444,4,4:36.0,105,104,BOS,LAC,13,away,JS,,8,make2,2,L. Williams,
+445,4,4:35.0,105,104,BOS,LAC,1,home,Timeout,,,,,,
+446,4,4:35.0,105,104,BOS,LAC,0,home,Sub,,,,,D. Theis,E. Freedom
+447,4,4:17.0,105,104,BOS,LAC,18,home,JS,,2,miss2,0,K. Walker,
+448,4,4:16.0,105,104,BOS,LAC,1,home,OffReb,,,OffReb,,D. Theis,
+449,4,4:15.0,107,104,BOS,LAC,1,home,LU,,0,make2,2,D. Theis,
+450,4,4:00.0,107,107,BOS,LAC,15,away,JS,assist,26,make3,3,L. Williams,K. Leonard
+451,4,3:38.0,107,107,BOS,LAC,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Harrell,D. Theis
+452,4,3:38.0,108,107,BOS,LAC,0,home,FreeThrow,,,make1,1,D. Theis,
+453,4,3:38.0,109,107,BOS,LAC,0,home,FreeThrow,,,make1,1,D. Theis,
+454,4,3:25.0,109,109,BOS,LAC,13,away,JS,assist,11,make2,2,K. Leonard,L. Williams
+455,4,3:05.0,109,109,BOS,LAC,20,home,JS,,27,miss3,0,K. Walker,
+456,4,3:04.0,109,109,BOS,LAC,1,away,DefReb,,,DefReb,,Team,
+457,4,2:43.0,109,109,BOS,LAC,21,away,JS,,26,miss3,0,L. Williams,
+458,4,2:41.0,109,109,BOS,LAC,2,home,DefReb,,,DefReb,,G. Hayward,
+459,4,2:28.0,112,109,BOS,LAC,13,home,JS,assist,26,make3,3,J. Tatum,M. Smart
+460,4,2:11.0,112,109,BOS,LAC,17,away,Traveling,,,turnover,,M. Harrell,
+461,4,1:59.0,112,109,BOS,LAC,12,home,JS,,26,miss3,0,M. Smart,
+462,4,1:57.0,112,109,BOS,LAC,2,away,DefReb,,,DefReb,,M. Morris,
+463,4,1:48.0,112,111,BOS,LAC,9,away,JS,,6,make2,2,L. Williams,
+464,4,1:30.0,114,111,BOS,LAC,18,home,JS,,12,make2,2,J. Tatum,
+465,4,1:25.0,114,111,BOS,LAC,5,away,DiscontinueDribbleTurnover,,,turnover,,K. Leonard,
+466,4,1:25.0,114,111,BOS,LAC,0,away,Sub,,,,,A. Coffey,L. Williams
+467,4,1:08.0,114,111,BOS,LAC,17,home,LU,block,3,miss2,0,D. Theis,M. Harrell
+468,4,1:07.0,114,111,BOS,LAC,1,away,DefReb,,,DefReb,,Team,
+469,4,1:07.0,114,111,BOS,LAC,0,away,Sub,,,,,L. Williams,A. Coffey
+470,4,0:52.0,114,111,BOS,LAC,15,away,JS,,26,miss3,0,K. Leonard,
+471,4,0:49.0,114,111,BOS,LAC,3,away,OffReb,,,OffReb,,M. Morris,
+472,4,0:46.0,114,114,BOS,LAC,3,away,JS,assist,25,make3,3,M. Morris,L. Williams
+473,4,0:31.0,114,114,BOS,LAC,15,home,lost ball,steal,,turnover,,M. Smart,L. Williams
+474,4,0:25.0,114,114,BOS,LAC,6,away,Timeout,,,,,,
+475,4,0:10.0,114,114,BOS,LAC,15,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Leonard,K. Walker
+476,4,0:10.0,114,114,BOS,LAC,0,away,OffensiveFoul,,,turnover,,K. Leonard,
+477,4,0:10.0,114,114,BOS,LAC,0,away,InstantReplay,,,RulingStands,,Team,
+478,4,0:10.0,114,114,BOS,LAC,0,away,Timeout,,,,,,
+479,4,0:10.0,114,114,BOS,LAC,0,away,Sub,,,,,A. Coffey,L. Williams
+480,4,0:05.0,114,114,BOS,LAC,5,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Coffey,J. Tatum
+481,4,0:05.0,114,114,BOS,LAC,0,home,Timeout,,,,,,
+482,4,0:00.0,114,114,BOS,LAC,5,home,JS,,15,miss2,0,K. Walker,
+483,4,0:00.0,114,114,BOS,LAC,0,home,OffReb,,,OffReb,,Team,
+484,1OT,4:47.0,114,114,BOS,LAC,433,away,LU,,3,miss2,0,K. Leonard,
+485,1OT,4:45.0,114,114,BOS,LAC,2,away,OffReb,,,OffReb,,K. Leonard,
+486,1OT,4:43.0,114,116,BOS,LAC,2,away,JS,,13,make2,2,K. Leonard,
+487,1OT,4:28.0,114,116,BOS,LAC,15,home,DK,,2,miss2,0,D. Theis,
+488,1OT,4:25.0,114,116,BOS,LAC,3,away,DefReb,,,DefReb,,M. Harrell,
+489,1OT,4:22.0,114,116,BOS,LAC,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Smart,M. Harrell
+490,1OT,4:22.0,114,117,BOS,LAC,0,away,FreeThrow,,,make1,1,M. Harrell,
+491,1OT,4:22.0,114,117,BOS,LAC,0,away,FreeThrow,,,make1,0,M. Harrell,
+492,1OT,4:22.0,114,117,BOS,LAC,0,home,DefReb,,,DefReb,,G. Hayward,
+493,1OT,4:00.0,114,117,BOS,LAC,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Leonard,J. Tatum
+494,1OT,4:00.0,115,117,BOS,LAC,0,home,FreeThrow,,,make1,1,J. Tatum,
+495,1OT,4:00.0,116,117,BOS,LAC,0,home,FreeThrow,,,make1,1,J. Tatum,
+496,1OT,3:45.0,116,117,BOS,LAC,15,away,JS,,15,miss2,0,K. Leonard,
+497,1OT,3:43.0,116,117,BOS,LAC,2,away,OffReb,,,OffReb,,M. Harrell,
+498,1OT,3:43.0,116,117,BOS,LAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Theis,M. Harrell
+499,1OT,3:43.0,116,117,BOS,LAC,0,home,Sub,,,,,E. Freedom,D. Theis
+500,1OT,3:43.0,116,117,BOS,LAC,0,away,FreeThrow,,,make1,0,M. Harrell,
+501,1OT,3:43.0,116,117,BOS,LAC,0,away,OffReb,,,OffReb,,Team,
+502,1OT,3:43.0,116,117,BOS,LAC,0,away,FreeThrow,,,make1,0,M. Harrell,
+503,1OT,3:43.0,116,117,BOS,LAC,0,home,DefReb,,,DefReb,,G. Hayward,
+504,1OT,3:31.0,116,117,BOS,LAC,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,J. Tatum
+505,1OT,3:31.0,117,117,BOS,LAC,0,home,FreeThrow,,,make1,1,J. Tatum,
+506,1OT,3:31.0,117,117,BOS,LAC,0,home,FreeThrow,,,make1,0,J. Tatum,
+507,1OT,3:31.0,117,117,BOS,LAC,0,away,DefReb,,,DefReb,,K. Leonard,
+508,1OT,3:17.0,117,119,BOS,LAC,14,away,JS,,9,make2,2,L. Williams,
+509,1OT,2:55.0,117,119,BOS,LAC,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Harrell,J. Tatum
+510,1OT,2:55.0,117,119,BOS,LAC,0,home,FreeThrow,,,make1,0,J. Tatum,
+511,1OT,2:55.0,117,119,BOS,LAC,0,home,OffReb,,,OffReb,,Team,
+512,1OT,2:55.0,117,119,BOS,LAC,0,home,Sub,,,,,G. Williams,E. Freedom
+513,1OT,2:55.0,118,119,BOS,LAC,0,home,FreeThrow,,,make1,1,J. Tatum,
+514,1OT,2:37.0,118,122,BOS,LAC,18,away,JS,assist,25,make3,3,M. Morris,L. Williams
+515,1OT,2:22.0,121,122,BOS,LAC,15,home,JS,assist,26,make3,3,M. Smart,K. Walker
+516,1OT,2:05.0,121,124,BOS,LAC,17,away,JS,,17,make2,2,L. Williams,
+517,1OT,1:53.0,121,124,BOS,LAC,12,home,JS,,24,miss3,0,K. Walker,
+518,1OT,1:50.0,121,124,BOS,LAC,3,away,DefReb,,,DefReb,,M. Morris,
+519,1OT,1:30.0,121,124,BOS,LAC,20,away,JS,,9,miss2,0,K. Leonard,
+520,1OT,1:28.0,121,124,BOS,LAC,2,home,DefReb,,,DefReb,,G. Hayward,
+521,1OT,1:22.0,121,124,BOS,LAC,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Shamet,M. Smart
+522,1OT,1:22.0,122,124,BOS,LAC,0,home,FreeThrow,,,make1,1,M. Smart,
+523,1OT,1:22.0,123,124,BOS,LAC,0,home,FreeThrow,,,make1,1,M. Smart,
+524,1OT,1:06.0,123,124,BOS,LAC,16,away,JS,,21,miss2,0,L. Williams,
+525,1OT,1:04.0,123,124,BOS,LAC,2,home,DefReb,,,DefReb,,J. Tatum,
+526,1OT,0:53.0,125,124,BOS,LAC,11,home,LU,,1,make2,2,J. Tatum,
+527,1OT,0:53.0,125,124,BOS,LAC,0,away,Timeout,,,,,,
+528,1OT,0:40.0,125,124,BOS,LAC,13,away,JS,,14,miss2,0,K. Leonard,
+529,1OT,0:38.0,125,124,BOS,LAC,2,home,DefReb,,,DefReb,,K. Walker,
+530,1OT,0:24.0,127,124,BOS,LAC,14,home,LU,assist,2,make2,2,J. Tatum,K. Walker
+531,1OT,0:24.0,127,124,BOS,LAC,0,away,Timeout,,,,,,
+532,1OT,0:23.0,127,124,BOS,LAC,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Hayward,L. Williams
+533,1OT,0:21.0,127,127,BOS,LAC,2,away,JS,assist,25,make3,3,L. Shamet,M. Morris
+534,1OT,0:01.0,127,127,BOS,LAC,20,home,JS,,27,miss3,0,J. Tatum,
+535,1OT,0:00.0,127,127,BOS,LAC,1,home,OffReb,,,OffReb,,Team,
+536,2OT,4:36.0,127,127,BOS,LAC,444,away,JS,,27,miss3,0,M. Morris,
+537,2OT,4:34.0,127,127,BOS,LAC,2,home,DefReb,,,DefReb,,J. Tatum,
+538,2OT,4:19.0,127,127,BOS,LAC,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Leonard,G. Williams
+539,2OT,4:15.0,127,127,BOS,LAC,4,home,JS,,14,miss2,0,G. Hayward,
+540,2OT,4:13.0,127,127,BOS,LAC,2,away,DefReb,,,DefReb,,L. Williams,
+541,2OT,4:04.0,127,127,BOS,LAC,9,away,JS,,9,miss2,0,L. Williams,
+542,2OT,4:02.0,127,127,BOS,LAC,2,home,DefReb,,,DefReb,,G. Hayward,
+543,2OT,3:54.0,130,127,BOS,LAC,8,home,JS,,26,make3,3,K. Walker,
+544,2OT,3:37.0,130,127,BOS,LAC,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Smart,L. Williams
+545,2OT,3:37.0,130,127,BOS,LAC,0,away,FreeThrow,,,make1,0,L. Williams,
+546,2OT,3:37.0,130,127,BOS,LAC,0,away,OffReb,,,OffReb,,Team,
+547,2OT,3:37.0,130,128,BOS,LAC,0,away,FreeThrow,,,make1,1,L. Williams,
+548,2OT,3:23.0,130,128,BOS,LAC,14,home,JS,,15,miss2,0,G. Hayward,
+549,2OT,3:21.0,130,128,BOS,LAC,2,away,DefReb,,,DefReb,,Team,
+550,2OT,3:21.0,130,128,BOS,LAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,G. Williams,M. Morris
+551,2OT,3:09.0,130,130,BOS,LAC,12,away,LU,,2,make2,2,M. Harrell,
+552,2OT,2:47.0,130,130,BOS,LAC,22,home,JS,,25,miss3,0,J. Tatum,
+553,2OT,2:46.0,130,130,BOS,LAC,1,away,DefReb,,,DefReb,,M. Harrell,
+554,2OT,2:41.0,130,130,BOS,LAC,5,away,JS,,26,miss3,0,K. Leonard,
+555,2OT,2:38.0,130,130,BOS,LAC,3,home,DefReb,,,DefReb,,M. Smart,
+556,2OT,2:37.0,130,130,BOS,LAC,1,home,bad pass,steal,,turnover,,M. Smart,K. Leonard
+557,2OT,2:35.0,130,130,BOS,LAC,2,away,bad pass,steal,,turnover,,K. Leonard,M. Smart
+558,2OT,2:33.0,132,130,BOS,LAC,2,home,LU,,1,make2,2,M. Smart,
+559,2OT,2:24.0,132,130,BOS,LAC,9,away,LU,block,2,miss2,0,L. Shamet,G. Williams
+560,2OT,2:21.0,132,130,BOS,LAC,3,home,DefReb,,,DefReb,,G. Williams,
+561,2OT,2:01.0,134,130,BOS,LAC,20,home,LU,,2,make2,2,J. Tatum,
+562,2OT,2:01.0,134,130,BOS,LAC,0,away,Timeout,,,,,,
+563,2OT,1:52.0,134,132,BOS,LAC,9,away,DK,,1,make2,2,M. Harrell,
+564,2OT,1:36.0,137,132,BOS,LAC,16,home,JS,assist,26,make3,3,G. Hayward,J. Tatum
+565,2OT,1:22.0,137,132,BOS,LAC,14,away,bad pass,steal,,turnover,,L. Williams,G. Williams
+566,2OT,1:04.0,137,132,BOS,LAC,18,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Tatum,L. Shamet
+567,2OT,1:04.0,137,132,BOS,LAC,0,home,OffensiveFoul,,,turnover,,J. Tatum,
+568,2OT,0:55.0,137,132,BOS,LAC,9,away,LU,block,4,miss2,0,L. Williams,G. Hayward
+569,2OT,0:54.0,137,132,BOS,LAC,1,home,DefReb,,,DefReb,,Team,
+570,2OT,0:35.0,137,132,BOS,LAC,19,home,JS,,24,miss3,0,G. Hayward,
+571,2OT,0:33.0,137,132,BOS,LAC,2,home,OffReb,,,OffReb,,G. Hayward,
+572,2OT,0:24.0,137,132,BOS,LAC,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Williams,J. Tatum
+573,2OT,0:24.0,137,132,BOS,LAC,0,away,Sub,,,,,A. Coffey,M. Morris
+574,2OT,0:13.0,137,132,BOS,LAC,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Harrell,G. Hayward
+575,2OT,0:13.0,138,132,BOS,LAC,0,home,FreeThrow,,,make1,1,G. Hayward,
+576,2OT,0:13.0,138,132,BOS,LAC,0,away,Sub,,,,,M. Morris,A. Coffey
+577,2OT,0:13.0,139,132,BOS,LAC,0,home,FreeThrow,,,make1,1,G. Hayward,
+578,2OT,0:12.0,139,132,BOS,LAC,1,away,bad pass,steal,,turnover,,M. Morris,G. Hayward
+579,2OT,0:12.0,139,132,BOS,LAC,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Williams,G. Hayward
+580,2OT,0:12.0,140,132,BOS,LAC,0,home,FreeThrow,,,make1,1,G. Hayward,
+581,2OT,0:12.0,140,132,BOS,LAC,0,away,Sub,,,,,A. Coffey,M. Harrell
+582,2OT,0:12.0,140,132,BOS,LAC,0,away,Sub,,,,,T. Mann,K. Leonard
+583,2OT,0:12.0,140,132,BOS,LAC,0,away,Sub,,,,,J. Motley,L. Williams
+584,2OT,0:12.0,140,132,BOS,LAC,0,home,Sub,,,,,C. Edwards,M. Smart
+585,2OT,0:12.0,140,132,BOS,LAC,0,home,Sub,,,,,S. Ojeleye,J. Tatum
+586,2OT,0:12.0,140,132,BOS,LAC,0,home,Sub,,,,,B. Wanamaker,K. Walker
+587,2OT,0:12.0,141,132,BOS,LAC,0,home,FreeThrow,,,make1,1,G. Hayward,
+588,2OT,0:03.0,141,132,BOS,LAC,9,away,JS,,14,miss2,0,T. Mann,
+589,2OT,0:02.0,141,132,BOS,LAC,1,away,OffReb,,,OffReb,,J. Motley,
+590,2OT,0:02.0,141,132,BOS,LAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Wanamaker,J. Motley
+591,2OT,0:02.0,141,132,BOS,LAC,0,away,FreeThrow,,,make1,0,J. Motley,
+592,2OT,0:02.0,141,132,BOS,LAC,0,away,OffReb,,,OffReb,,Team,
+593,2OT,0:02.0,141,133,BOS,LAC,0,away,FreeThrow,,,make1,1,J. Motley,

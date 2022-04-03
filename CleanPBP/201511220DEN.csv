@@ -1,0 +1,463 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:44.0,0,2,DEN,GSW,16,away,HS,assist,4,make2,2,A. Bogut,S. Curry
+1,1,11:20.0,3,2,DEN,GSW,24,home,JS,assist,26,make3,3,D. Gallinari,G. Harris
+2,1,11:02.0,3,2,DEN,GSW,18,away,JS,,25,miss3,0,K. Thompson,
+3,1,11:01.0,3,2,DEN,GSW,1,home,DefReb,,,DefReb,,D. Arthur,
+4,1,10:44.0,3,2,DEN,GSW,17,home,LU,,2,miss2,0,D. Gallinari,
+5,1,10:43.0,3,2,DEN,GSW,1,home,OffReb,,,OffReb,,N. Jokić,
+6,1,10:43.0,3,2,DEN,GSW,0,home,LU,,1,miss2,0,N. Jokić,
+7,1,10:41.0,3,2,DEN,GSW,2,away,DefReb,,,DefReb,,D. Green,
+8,1,10:27.0,3,4,DEN,GSW,14,away,LU,assist,0,make2,2,S. Curry,A. Bogut
+9,1,10:02.0,3,4,DEN,GSW,25,home,JS,,29,miss3,0,E. Mudiay,
+10,1,10:01.0,3,4,DEN,GSW,1,home,OffReb,,,OffReb,,Team,
+11,1,10:01.0,3,4,DEN,GSW,0,home,ShotClockViolation,,,turnover,,Team,
+12,1,9:52.0,3,6,DEN,GSW,9,away,DK,assist,0,make2,2,A. Bogut,S. Curry
+13,1,9:38.0,3,6,DEN,GSW,14,home,JS,block,7,miss2,0,N. Jokić,A. Bogut
+14,1,9:36.0,3,6,DEN,GSW,2,away,DefReb,,,DefReb,,A. Bogut,
+15,1,9:17.0,3,9,DEN,GSW,19,away,JS,assist,27,make3,3,D. Green,K. Thompson
+16,1,9:02.0,5,9,DEN,GSW,15,home,DK,assist,0,make2,2,G. Harris,E. Mudiay
+17,1,8:50.0,5,9,DEN,GSW,12,away,JS,,25,miss3,0,S. Curry,
+18,1,8:48.0,5,9,DEN,GSW,2,home,DefReb,,,DefReb,,N. Jokić,
+19,1,8:38.0,7,9,DEN,GSW,10,home,LU,assist,1,make2,2,G. Harris,N. Jokić
+20,1,8:25.0,7,9,DEN,GSW,13,away,JS,,25,miss3,0,S. Curry,
+21,1,8:24.0,7,9,DEN,GSW,1,home,DefReb,,,DefReb,,Team,
+22,1,8:11.0,7,9,DEN,GSW,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Barnes,D. Gallinari
+23,1,8:11.0,8,9,DEN,GSW,0,home,FreeThrow,,,make1,1,D. Gallinari,
+24,1,8:11.0,9,9,DEN,GSW,0,home,FreeThrow,,,make1,1,D. Gallinari,
+25,1,7:55.0,9,9,DEN,GSW,16,away,JS,,24,miss3,0,D. Green,
+26,1,7:54.0,9,9,DEN,GSW,1,away,OffReb,,,OffReb,,A. Bogut,
+27,1,7:43.0,9,11,DEN,GSW,11,away,LU,assist,1,make2,2,H. Barnes,K. Thompson
+28,1,7:31.0,11,11,DEN,GSW,12,home,JS,assist,11,make2,2,D. Arthur,N. Jokić
+29,1,7:18.0,11,11,DEN,GSW,13,away,BadPass,,,turnover,,H. Barnes,
+30,1,7:02.0,11,11,DEN,GSW,16,home,JS,,20,miss2,0,D. Gallinari,
+31,1,7:01.0,11,11,DEN,GSW,1,away,DefReb,,,DefReb,,A. Bogut,
+32,1,7:00.0,11,11,DEN,GSW,1,away,OutOfBounds,,,turnover,,A. Bogut,
+33,1,6:56.0,11,11,DEN,GSW,4,home,LU,,1,miss2,0,G. Harris,
+34,1,6:55.0,11,11,DEN,GSW,1,home,OffReb,,,OffReb,,N. Jokić,
+35,1,6:55.0,11,11,DEN,GSW,0,home,JS,,2,miss2,0,N. Jokić,
+36,1,6:52.0,11,11,DEN,GSW,3,away,DefReb,,,DefReb,,D. Green,
+37,1,6:48.0,11,11,DEN,GSW,4,away,LU,,1,miss2,0,H. Barnes,
+38,1,6:47.0,11,11,DEN,GSW,1,away,OffReb,,,OffReb,,D. Green,
+39,1,6:46.0,11,11,DEN,GSW,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Arthur,D. Green
+40,1,6:33.0,11,11,DEN,GSW,13,away,JS,,9,miss2,0,K. Thompson,
+41,1,6:32.0,11,11,DEN,GSW,1,home,DefReb,,,DefReb,,N. Jokić,
+42,1,6:31.0,11,11,DEN,GSW,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bogut,E. Mudiay
+43,1,6:31.0,12,11,DEN,GSW,0,home,FreeThrow,,,make1,1,E. Mudiay,
+44,1,6:31.0,13,11,DEN,GSW,0,home,FreeThrow,,,make1,1,E. Mudiay,
+45,1,6:17.0,13,13,DEN,GSW,14,away,JS,,17,make2,2,K. Thompson,
+46,1,6:04.0,15,13,DEN,GSW,13,home,JS,,4,make2,2,D. Gallinari,
+47,1,5:45.0,15,15,DEN,GSW,19,away,HS,assist,4,make2,2,A. Bogut,D. Green
+48,1,5:36.0,15,15,DEN,GSW,9,home,LostBall,steal,,turnover,,E. Mudiay,A. Bogut
+49,1,5:29.0,15,15,DEN,GSW,7,away,OutOfBounds,,,turnover,,K. Thompson,
+50,1,5:29.0,15,15,DEN,GSW,0,home,Timeout,,,,,,
+51,1,5:29.0,15,15,DEN,GSW,0,away,Sub,,,,,A. Iguodala,H. Barnes
+52,1,5:15.0,15,15,DEN,GSW,14,home,JS,,15,miss2,0,E. Mudiay,
+53,1,5:14.0,15,15,DEN,GSW,1,away,DefReb,,,DefReb,,A. Bogut,
+54,1,4:59.0,15,15,DEN,GSW,15,away,LU,block,0,miss2,0,A. Bogut,N. Jokić
+55,1,4:58.0,15,15,DEN,GSW,1,away,OffReb,,,OffReb,,Team,
+56,1,4:51.0,15,17,DEN,GSW,7,away,DK,assist,0,make2,2,A. Bogut,K. Thompson
+57,1,4:49.0,15,17,DEN,GSW,2,home,inboundTurnover,,,turnover,,E. Mudiay,
+58,1,4:43.0,15,17,DEN,GSW,6,away,JS,,5,miss2,0,K. Thompson,
+59,1,4:42.0,15,17,DEN,GSW,1,home,DefReb,,,DefReb,,G. Harris,
+60,1,4:24.0,15,17,DEN,GSW,18,home,JS,,26,miss3,0,E. Mudiay,
+61,1,4:22.0,15,17,DEN,GSW,2,away,DefReb,,,DefReb,,K. Thompson,
+62,1,4:17.0,15,20,DEN,GSW,5,away,JS,,24,make3,3,S. Curry,
+63,1,4:17.0,15,20,DEN,GSW,0,home,Timeout,,,,,,
+64,1,4:17.0,15,20,DEN,GSW,0,home,Sub,,,,,J. Nelson,E. Mudiay
+65,1,4:17.0,15,20,DEN,GSW,0,away,Sub,,,,,F. Ezeli,A. Bogut
+66,1,4:03.0,15,20,DEN,GSW,14,home,BadPass,steal,,turnover,,N. Jokić,S. Curry
+67,1,3:58.0,15,22,DEN,GSW,5,away,LU,,1,make2,2,S. Curry,
+68,1,3:52.0,15,22,DEN,GSW,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,F. Ezeli,N. Jokić
+69,1,3:52.0,16,22,DEN,GSW,0,home,FreeThrow,,,make1,1,N. Jokić,
+70,1,3:52.0,17,22,DEN,GSW,0,home,FreeThrow,,,make1,1,N. Jokić,
+71,1,3:35.0,17,22,DEN,GSW,17,away,JS,,26,miss3,0,S. Curry,
+72,1,3:34.0,17,22,DEN,GSW,1,home,DefReb,,,DefReb,,N. Jokić,
+73,1,3:26.0,17,22,DEN,GSW,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Iguodala,D. Arthur
+74,1,3:26.0,17,22,DEN,GSW,0,home,FreeThrow,,,make1,0,D. Arthur,
+75,1,3:26.0,17,22,DEN,GSW,0,home,OffReb,,,OffReb,,Team,
+76,1,3:26.0,17,22,DEN,GSW,0,home,Sub,,,,,J. Hickson,N. Jokić
+77,1,3:26.0,17,22,DEN,GSW,0,home,FreeThrow,,,make1,0,D. Arthur,
+78,1,3:24.0,17,22,DEN,GSW,2,away,DefReb,,,DefReb,,A. Iguodala,
+79,1,3:13.0,17,22,DEN,GSW,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Harris,S. Curry
+80,1,3:13.0,17,22,DEN,GSW,0,away,Sub,,,,,S. Livingston,K. Thompson
+81,1,2:59.0,17,24,DEN,GSW,14,away,DK,assist,0,make2,2,F. Ezeli,S. Curry
+82,1,2:40.0,19,24,DEN,GSW,19,home,JS,,20,make2,2,J. Nelson,
+83,1,2:28.0,19,27,DEN,GSW,12,away,JS,assist,24,make3,3,A. Iguodala,S. Livingston
+84,1,2:12.0,19,27,DEN,GSW,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,D. Gallinari
+85,1,2:12.0,20,27,DEN,GSW,0,home,FreeThrow,,,make1,1,D. Gallinari,
+86,1,2:12.0,20,27,DEN,GSW,0,home,Sub,,,,,W. Barton,D. Arthur
+87,1,2:12.0,21,27,DEN,GSW,0,home,FreeThrow,,,make1,1,D. Gallinari,
+88,1,2:00.0,21,27,DEN,GSW,12,away,JS,,17,miss2,0,S. Curry,
+89,1,1:59.0,21,27,DEN,GSW,1,home,DefReb,,,DefReb,,W. Barton,
+90,1,1:54.0,21,27,DEN,GSW,5,home,LostBall,steal,,turnover,,W. Barton,S. Livingston
+91,1,1:31.0,21,27,DEN,GSW,23,away,BackCourtTurnover,,,turnover,,S. Curry,
+92,1,1:31.0,21,27,DEN,GSW,0,away,Sub,,,,,L. Barbosa,S. Curry
+93,1,1:22.0,21,27,DEN,GSW,9,away,KickBallViolation,,,KickBallViolation,,L. Barbosa,
+94,1,1:14.0,21,27,DEN,GSW,8,home,JS,block,1,miss2,0,J. Hickson,F. Ezeli
+95,1,1:13.0,21,27,DEN,GSW,1,away,DefReb,,,DefReb,,D. Green,
+96,1,1:04.0,21,29,DEN,GSW,9,away,JS,assist,3,make2,2,A. Iguodala,D. Green
+97,1,0:47.0,21,29,DEN,GSW,17,home,LostBall,steal,,turnover,,D. Gallinari,S. Livingston
+98,1,0:43.0,21,29,DEN,GSW,4,away,BadPass,steal,,turnover,,D. Green,W. Barton
+99,1,0:40.0,23,29,DEN,GSW,3,home,DK,,0,make2,2,W. Barton,
+100,1,0:27.0,23,32,DEN,GSW,13,away,JS,assist,23,make3,3,D. Green,L. Barbosa
+101,1,0:08.0,23,32,DEN,GSW,19,home,BadPass,steal,,turnover,,J. Nelson,A. Iguodala
+102,1,0:04.0,23,34,DEN,GSW,4,away,JS,assist,0,make2,2,S. Livingston,A. Iguodala
+103,1,0:01.0,23,34,DEN,GSW,3,home,JS,,30,miss3,0,D. Gallinari,
+104,1,0:00.0,23,34,DEN,GSW,1,home,OffReb,,,OffReb,,Team,
+105,2,11:44.0,25,34,DEN,GSW,16,home,LU,,0,make2,2,J. Nelson,
+106,2,11:29.0,25,34,DEN,GSW,15,away,JS,,7,miss2,0,L. Barbosa,
+107,2,11:28.0,25,34,DEN,GSW,1,home,DefReb,,,DefReb,,J. Hickson,
+108,2,11:22.0,27,34,DEN,GSW,6,home,JS,assist,16,make2,2,W. Barton,J. Hickson
+109,2,11:03.0,27,34,DEN,GSW,19,away,JS,,17,miss2,0,S. Livingston,
+110,2,11:00.0,27,34,DEN,GSW,3,away,OffReb,,,OffReb,,F. Ezeli,
+111,2,11:00.0,27,34,DEN,GSW,0,away,LU,,1,miss2,0,F. Ezeli,
+112,2,10:57.0,27,34,DEN,GSW,3,home,DefReb,,,DefReb,,J. Hickson,
+113,2,10:42.0,27,34,DEN,GSW,15,home,BadPass,steal,,turnover,,W. Barton,H. Barnes
+114,2,10:41.0,27,34,DEN,GSW,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Foye,H. Barnes
+115,2,10:24.0,27,36,DEN,GSW,17,away,JS,,12,make2,2,H. Barnes,
+116,2,10:14.0,27,36,DEN,GSW,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,F. Ezeli,J. Hickson
+117,2,10:14.0,27,36,DEN,GSW,0,home,FreeThrow,,,make1,0,J. Hickson,
+118,2,10:14.0,27,36,DEN,GSW,0,home,OffReb,,,OffReb,,Team,
+119,2,10:14.0,27,36,DEN,GSW,0,home,FreeThrow,,,make1,0,J. Hickson,
+120,2,10:12.0,27,36,DEN,GSW,2,away,DefReb,,,DefReb,,F. Ezeli,
+121,2,10:03.0,27,36,DEN,GSW,9,away,JS,,9,miss2,0,S. Livingston,
+122,2,10:02.0,27,36,DEN,GSW,1,away,OffReb,,,OffReb,,Team,
+123,2,10:02.0,27,36,DEN,GSW,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Nelson,H. Barnes
+124,2,9:49.0,27,36,DEN,GSW,13,away,HS,,6,miss2,0,F. Ezeli,
+125,2,9:47.0,27,36,DEN,GSW,2,home,DefReb,,,DefReb,,D. Arthur,
+126,2,9:40.0,29,36,DEN,GSW,7,home,JS,,11,make2,2,W. Barton,
+127,2,9:40.0,29,36,DEN,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Iguodala,W. Barton
+128,2,9:40.0,30,36,DEN,GSW,0,home,FreeThrow,,,make1,1,W. Barton,
+129,2,9:25.0,30,36,DEN,GSW,15,away,JS,,22,miss3,0,S. Livingston,
+130,2,9:24.0,30,36,DEN,GSW,1,home,DefReb,,,DefReb,,J. Hickson,
+131,2,9:18.0,30,36,DEN,GSW,6,home,BadPass,steal,,turnover,,J. Nelson,L. Barbosa
+132,2,9:03.0,30,36,DEN,GSW,15,away,Traveling,,,turnover,,L. Barbosa,
+133,2,9:03.0,30,36,DEN,GSW,0,away,Timeout,,,,,,
+134,2,9:01.0,30,36,DEN,GSW,2,away,Sub,,,,,J. McAdoo,F. Ezeli
+135,2,8:45.0,30,36,DEN,GSW,16,home,LostBall,steal,,turnover,,J. Nelson,H. Barnes
+136,2,8:39.0,30,38,DEN,GSW,6,away,DK,assist,0,make2,2,A. Iguodala,H. Barnes
+137,2,8:26.0,30,38,DEN,GSW,13,home,BadPass,steal,,turnover,,J. Nelson,J. McAdoo
+138,2,8:21.0,30,38,DEN,GSW,5,away,LU,,0,miss2,0,L. Barbosa,
+139,2,8:20.0,30,38,DEN,GSW,1,away,OffReb,,,OffReb,,J. McAdoo,
+140,2,8:20.0,30,40,DEN,GSW,0,away,JS,,1,make2,2,J. McAdoo,
+141,2,8:19.0,30,40,DEN,GSW,1,home,Timeout,,,,,,
+142,2,8:19.0,30,40,DEN,GSW,0,home,Sub,,,,,E. Mudiay,J. Nelson
+143,2,8:00.0,32,40,DEN,GSW,19,home,LU,,2,make2,2,J. Hickson,
+144,2,7:49.0,32,40,DEN,GSW,11,away,JS,,14,miss2,0,S. Livingston,
+145,2,7:49.0,32,40,DEN,GSW,0,home,DefReb,,,DefReb,,D. Arthur,
+146,2,7:39.0,34,40,DEN,GSW,10,home,JS,assist,17,make2,2,D. Arthur,R. Foye
+147,2,7:23.0,34,42,DEN,GSW,16,away,LU,assist,1,make2,2,S. Livingston,H. Barnes
+148,2,7:02.0,37,42,DEN,GSW,21,home,JS,assist,24,make3,3,D. Arthur,W. Barton
+149,2,6:51.0,37,42,DEN,GSW,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hickson,J. McAdoo
+150,2,6:51.0,37,42,DEN,GSW,0,away,FreeThrow,,,make1,0,J. McAdoo,
+151,2,6:51.0,37,42,DEN,GSW,0,away,OffReb,,,OffReb,,Team,
+152,2,6:51.0,37,42,DEN,GSW,0,away,Sub,,,,,S. Curry,L. Barbosa
+153,2,6:51.0,37,42,DEN,GSW,0,away,Sub,,,,,K. Thompson,A. Iguodala
+154,2,6:51.0,37,43,DEN,GSW,0,away,FreeThrow,,,make1,1,J. McAdoo,
+155,2,6:41.0,37,43,DEN,GSW,10,home,LU,,1,miss2,0,J. Hickson,
+156,2,6:40.0,37,43,DEN,GSW,1,away,DefReb,,,DefReb,,H. Barnes,
+157,2,6:33.0,37,43,DEN,GSW,7,away,JS,block,7,miss2,0,J. McAdoo,W. Barton
+158,2,6:32.0,37,43,DEN,GSW,1,away,OffReb,,,OffReb,,J. McAdoo,
+159,2,6:31.0,37,43,DEN,GSW,1,away,LostBall,,,turnover,,J. McAdoo,
+160,2,6:13.0,39,43,DEN,GSW,18,home,JS,assist,18,make2,2,D. Arthur,E. Mudiay
+161,2,5:53.0,39,45,DEN,GSW,20,away,JS,assist,16,make2,2,J. McAdoo,S. Livingston
+162,2,5:37.0,41,45,DEN,GSW,16,home,DK,assist,0,make2,2,W. Barton,J. Hickson
+163,2,5:30.0,41,45,DEN,GSW,7,away,BadPass,,,turnover,,S. Curry,
+164,2,5:30.0,41,45,DEN,GSW,0,away,Sub,,,,,A. Bogut,J. McAdoo
+165,2,5:30.0,41,45,DEN,GSW,0,away,Sub,,,,,D. Green,H. Barnes
+166,2,5:30.0,41,45,DEN,GSW,0,home,Sub,,,,,D. Gallinari,J. Hickson
+167,2,5:17.0,41,45,DEN,GSW,13,home,LU,,1,miss2,0,E. Mudiay,
+168,2,5:16.0,41,45,DEN,GSW,1,home,OffReb,,,OffReb,,D. Arthur,
+169,2,5:13.0,41,45,DEN,GSW,3,home,JS,,24,miss3,0,W. Barton,
+170,2,5:12.0,41,45,DEN,GSW,1,away,DefReb,,,DefReb,,D. Green,
+171,2,5:09.0,41,45,DEN,GSW,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Arthur,K. Thompson
+172,2,5:09.0,41,45,DEN,GSW,0,away,Sub,,,,,I. Clark,S. Livingston
+173,2,5:02.0,41,47,DEN,GSW,7,away,JS,assist,12,make2,2,K. Thompson,S. Curry
+174,2,4:48.0,41,47,DEN,GSW,14,home,LU,,2,miss2,0,D. Arthur,
+175,2,4:47.0,41,47,DEN,GSW,1,away,DefReb,,,DefReb,,S. Curry,
+176,2,4:44.0,41,47,DEN,GSW,3,away,BadPass,steal,,turnover,,S. Curry,R. Foye
+177,2,4:38.0,43,47,DEN,GSW,6,home,DK,assist,0,make2,2,D. Arthur,W. Barton
+178,2,4:27.0,43,49,DEN,GSW,11,away,JS,,5,make2,2,S. Curry,
+179,2,4:12.0,45,49,DEN,GSW,15,home,LU,assist,1,make2,2,D. Arthur,E. Mudiay
+180,2,3:56.0,45,49,DEN,GSW,16,away,JS,,20,miss2,0,K. Thompson,
+181,2,3:55.0,45,49,DEN,GSW,1,home,DefReb,,,DefReb,,D. Gallinari,
+182,2,3:48.0,45,49,DEN,GSW,7,home,LU,block,2,miss2,0,D. Gallinari,A. Bogut
+183,2,3:48.0,45,49,DEN,GSW,0,home,OffReb,,,OffReb,,Team,
+184,2,3:48.0,45,49,DEN,GSW,0,home,Sub,,,,,G. Harris,D. Arthur
+185,2,3:48.0,45,49,DEN,GSW,0,home,Sub,,,,,N. Jokić,R. Foye
+186,2,3:42.0,45,49,DEN,GSW,6,home,JS,,17,miss2,0,E. Mudiay,
+187,2,3:42.0,45,49,DEN,GSW,0,home,OffReb,,,OffReb,,Team,
+188,2,3:42.0,45,49,DEN,GSW,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Green,N. Jokić
+189,2,3:30.0,47,49,DEN,GSW,12,home,JS,,5,make2,2,E. Mudiay,
+190,2,3:08.0,47,49,DEN,GSW,22,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,E. Mudiay,K. Thompson
+191,2,3:08.0,47,50,DEN,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
+192,2,3:08.0,47,50,DEN,GSW,0,away,FreeThrow,,,make1,0,K. Thompson,
+193,2,3:07.0,47,50,DEN,GSW,1,away,OffReb,,,OffReb,,D. Green,
+194,2,3:03.0,47,50,DEN,GSW,4,away,LU,,0,miss2,0,K. Thompson,
+195,2,3:02.0,47,50,DEN,GSW,1,home,DefReb,,,DefReb,,D. Gallinari,
+196,2,2:50.0,49,50,DEN,GSW,12,home,DK,assist,0,make2,2,D. Gallinari,E. Mudiay
+197,2,2:26.0,49,50,DEN,GSW,24,away,JS,,26,miss3,0,S. Curry,
+198,2,2:25.0,49,50,DEN,GSW,1,home,DefReb,,,DefReb,,W. Barton,
+199,2,2:19.0,51,50,DEN,GSW,6,home,LU,,1,make2,2,W. Barton,
+200,2,2:19.0,51,50,DEN,GSW,0,away,Timeout,,,,,,
+201,2,2:19.0,51,50,DEN,GSW,0,away,Sub,,,,,A. Iguodala,A. Bogut
+202,2,2:19.0,51,50,DEN,GSW,0,away,Sub,,,,,H. Barnes,I. Clark
+203,2,2:08.0,51,53,DEN,GSW,11,away,JS,assist,25,make3,3,K. Thompson,S. Curry
+204,2,1:49.0,51,53,DEN,GSW,19,home,JS,,24,miss3,0,D. Gallinari,
+205,2,1:49.0,51,53,DEN,GSW,0,away,DefReb,,,DefReb,,S. Curry,
+206,2,1:43.0,51,53,DEN,GSW,6,away,LU,,0,miss2,0,S. Curry,
+207,2,1:42.0,51,53,DEN,GSW,1,home,DefReb,,,DefReb,,D. Gallinari,
+208,2,1:41.0,51,53,DEN,GSW,1,home,LostBall,steal,,turnover,,D. Gallinari,S. Curry
+209,2,1:39.0,51,53,DEN,GSW,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Gallinari,K. Thompson
+210,2,1:39.0,51,54,DEN,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
+211,2,1:39.0,51,55,DEN,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
+212,2,1:18.0,51,55,DEN,GSW,21,home,JS,,26,miss3,0,D. Gallinari,
+213,2,1:18.0,51,55,DEN,GSW,0,away,DefReb,,,DefReb,,S. Curry,
+214,2,1:06.0,51,58,DEN,GSW,12,away,JS,assist,23,make3,3,H. Barnes,K. Thompson
+215,2,1:00.0,51,58,DEN,GSW,6,home,Timeout,,,,,,
+216,2,1:00.0,51,58,DEN,GSW,0,home,Sub,,,,,D. Arthur,N. Jokić
+217,2,0:49.0,51,58,DEN,GSW,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Thompson,D. Gallinari
+218,2,0:49.0,52,58,DEN,GSW,0,home,FreeThrow,,,make1,1,D. Gallinari,
+219,2,0:49.0,53,58,DEN,GSW,0,home,FreeThrow,,,make1,1,D. Gallinari,
+220,2,0:36.0,53,61,DEN,GSW,13,away,JS,assist,24,make3,3,K. Thompson,S. Curry
+221,2,0:19.0,55,61,DEN,GSW,17,home,JS,,11,make2,2,E. Mudiay,
+222,2,0:04.0,55,64,DEN,GSW,15,away,JS,assist,24,make3,3,K. Thompson,S. Curry
+223,2,0:00.0,55,64,DEN,GSW,4,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,K. Thompson,W. Barton
+224,2,0:00.0,56,64,DEN,GSW,0,home,FreeThrow,,,make1,1,W. Barton,
+225,2,0:00.0,57,64,DEN,GSW,0,home,FreeThrow,,,make1,1,W. Barton,
+226,2,0:00.0,58,64,DEN,GSW,0,home,FreeThrow,,,make1,1,W. Barton,
+227,3,11:46.0,58,64,DEN,GSW,14,home,BadPass,steal,,turnover,,D. Gallinari,H. Barnes
+228,3,11:30.0,58,66,DEN,GSW,16,away,JS,,16,make2,2,S. Curry,
+229,3,11:13.0,58,66,DEN,GSW,17,home,JS,,6,miss2,0,G. Harris,
+230,3,11:11.0,58,66,DEN,GSW,2,away,DefReb,,,DefReb,,K. Thompson,
+231,3,10:47.0,58,68,DEN,GSW,24,away,JS,,22,make2,2,S. Curry,
+232,3,10:39.0,58,68,DEN,GSW,8,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Gallinari,A. Bogut
+233,3,10:39.0,58,68,DEN,GSW,0,home,OffensiveFoul,,,turnover,,D. Gallinari,
+234,3,10:27.0,58,68,DEN,GSW,12,away,JS,,25,miss3,0,S. Curry,
+235,3,10:26.0,58,68,DEN,GSW,1,home,DefReb,,,DefReb,,N. Jokić,
+236,3,10:19.0,60,68,DEN,GSW,7,home,JS,assist,5,make2,2,N. Jokić,E. Mudiay
+237,3,10:06.0,60,68,DEN,GSW,13,away,BadPass,steal,,turnover,,D. Green,D. Gallinari
+238,3,10:04.0,60,68,DEN,GSW,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Bogut,D. Gallinari
+239,3,9:51.0,60,68,DEN,GSW,13,home,LU,,2,miss2,0,E. Mudiay,
+240,3,9:51.0,60,68,DEN,GSW,0,away,DefReb,,,DefReb,,H. Barnes,
+241,3,9:45.0,60,68,DEN,GSW,6,away,JS,,23,miss3,0,K. Thompson,
+242,3,9:43.0,60,68,DEN,GSW,2,home,DefReb,,,DefReb,,N. Jokić,
+243,3,9:34.0,62,68,DEN,GSW,9,home,JS,assist,7,make2,2,D. Arthur,E. Mudiay
+244,3,9:15.0,62,71,DEN,GSW,19,away,JS,assist,25,make3,3,S. Curry,H. Barnes
+245,3,8:55.0,65,71,DEN,GSW,20,home,JS,,24,make3,3,E. Mudiay,
+246,3,8:28.0,65,73,DEN,GSW,27,away,JS,,17,make2,2,K. Thompson,
+247,3,8:16.0,65,73,DEN,GSW,12,home,JS,,6,miss2,0,E. Mudiay,
+248,3,8:15.0,65,73,DEN,GSW,1,away,DefReb,,,DefReb,,A. Bogut,
+249,3,8:07.0,65,73,DEN,GSW,8,away,JS,,14,miss2,0,K. Thompson,
+250,3,8:07.0,65,73,DEN,GSW,0,home,DefReb,,,DefReb,,D. Arthur,
+251,3,8:01.0,67,73,DEN,GSW,6,home,JS,assist,21,make2,2,G. Harris,E. Mudiay
+252,3,7:46.0,67,76,DEN,GSW,15,away,JS,assist,24,make3,3,D. Green,A. Bogut
+253,3,7:46.0,67,76,DEN,GSW,0,home,Timeout,,,,,,
+254,3,7:30.0,67,76,DEN,GSW,16,home,JS,,16,miss2,0,D. Arthur,
+255,3,7:30.0,67,76,DEN,GSW,0,away,DefReb,,,DefReb,,S. Curry,
+256,3,7:16.0,67,76,DEN,GSW,14,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Bogut,D. Gallinari
+257,3,7:16.0,67,76,DEN,GSW,0,away,OffensiveFoul,,,turnover,,A. Bogut,
+258,3,6:58.0,69,76,DEN,GSW,18,home,JS,,13,make2,2,E. Mudiay,
+259,3,6:37.0,69,76,DEN,GSW,21,away,LostBall,steal,,turnover,,A. Bogut,N. Jokić
+260,3,6:36.0,69,76,DEN,GSW,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Green,D. Gallinari
+261,3,6:27.0,69,76,DEN,GSW,9,home,JS,,18,miss2,0,E. Mudiay,
+262,3,6:26.0,69,76,DEN,GSW,1,away,DefReb,,,DefReb,,A. Bogut,
+263,3,6:20.0,69,78,DEN,GSW,6,away,LU,assist,1,make2,2,H. Barnes,D. Green
+264,3,6:20.0,69,78,DEN,GSW,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Gallinari,H. Barnes
+265,3,6:20.0,69,79,DEN,GSW,0,away,FreeThrow,,,make1,1,H. Barnes,
+266,3,5:55.0,69,79,DEN,GSW,25,home,JS,,16,miss2,0,D. Gallinari,
+267,3,5:54.0,69,79,DEN,GSW,1,home,OffReb,,,OffReb,,D. Arthur,
+268,3,5:47.0,69,79,DEN,GSW,7,home,LU,,0,miss2,0,G. Harris,
+269,3,5:47.0,69,79,DEN,GSW,0,home,OffReb,,,OffReb,,G. Harris,
+270,3,5:47.0,69,79,DEN,GSW,0,home,LU,block,0,miss2,0,G. Harris,A. Bogut
+271,3,5:45.0,69,79,DEN,GSW,2,home,OffReb,,,OffReb,,G. Harris,
+272,3,5:31.0,69,79,DEN,GSW,14,home,BadPass,steal,,turnover,,D. Arthur,S. Curry
+273,3,5:26.0,69,79,DEN,GSW,5,away,LU,,1,miss2,0,S. Curry,
+274,3,5:25.0,69,79,DEN,GSW,1,home,DefReb,,,DefReb,,D. Arthur,
+275,3,5:22.0,69,79,DEN,GSW,3,home,LU,,2,miss2,0,D. Arthur,
+276,3,5:21.0,69,79,DEN,GSW,1,home,OffReb,,,OffReb,,D. Arthur,
+277,3,5:20.0,69,79,DEN,GSW,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,D. Arthur
+278,3,5:20.0,70,79,DEN,GSW,0,home,FreeThrow,,,make1,1,D. Arthur,
+279,3,5:20.0,70,79,DEN,GSW,0,away,Sub,,,,,A. Iguodala,D. Green
+280,3,5:20.0,71,79,DEN,GSW,0,home,FreeThrow,,,make1,1,D. Arthur,
+281,3,5:06.0,71,79,DEN,GSW,14,away,LostBall,,,turnover,,S. Curry,
+282,3,5:06.0,71,79,DEN,GSW,0,home,Sub,,,,,W. Barton,D. Arthur
+283,3,5:06.0,71,79,DEN,GSW,0,away,Sub,,,,,F. Ezeli,A. Bogut
+284,3,4:44.0,71,79,DEN,GSW,22,home,LU,,1,miss2,0,E. Mudiay,
+285,3,4:43.0,71,79,DEN,GSW,1,home,OffReb,,,OffReb,,E. Mudiay,
+286,3,4:43.0,73,79,DEN,GSW,0,home,JS,,1,make2,2,E. Mudiay,
+287,3,4:36.0,73,79,DEN,GSW,7,home,ChargeFoul,DrawnBy,,ChargeFoul,,F. Ezeli,D. Gallinari
+288,3,4:36.0,73,79,DEN,GSW,0,away,OffensiveFoul,,,turnover,,F. Ezeli,
+289,3,4:19.0,73,79,DEN,GSW,17,home,JS,,20,miss2,0,E. Mudiay,
+290,3,4:18.0,73,79,DEN,GSW,1,home,OffReb,,,OffReb,,D. Gallinari,
+291,3,4:13.0,73,79,DEN,GSW,5,home,LU,,1,miss2,0,D. Gallinari,
+292,3,4:12.0,73,79,DEN,GSW,1,home,OffReb,,,OffReb,,N. Jokić,
+293,3,4:06.0,73,79,DEN,GSW,6,home,LostBall,steal,,turnover,,G. Harris,A. Iguodala
+294,3,4:02.0,73,79,DEN,GSW,4,away,LU,block,1,miss2,0,H. Barnes,E. Mudiay
+295,3,4:01.0,73,79,DEN,GSW,1,away,OffReb,,,OffReb,,Team,
+296,3,4:01.0,73,79,DEN,GSW,0,away,Timeout,,,,,,
+297,3,4:01.0,73,79,DEN,GSW,0,away,TechnicalFoul,,,TechnicalFoul,,Team,
+298,3,4:01.0,73,79,DEN,GSW,0,home,Sub,,,,,J. Nelson,E. Mudiay
+299,3,4:01.0,73,79,DEN,GSW,0,home,FreeThrow,,,make1,0,D. Gallinari misses technical free throw,
+300,3,4:01.0,73,79,DEN,GSW,0,away,OffReb,,,OffReb,,Team,
+301,3,3:58.0,73,79,DEN,GSW,3,away,JS,,24,miss3,0,K. Thompson,
+302,3,3:56.0,73,79,DEN,GSW,2,home,DefReb,,,DefReb,,W. Barton,
+303,3,3:48.0,73,79,DEN,GSW,8,home,BadPass,steal,,turnover,,W. Barton,A. Iguodala
+304,3,3:45.0,73,79,DEN,GSW,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nelson,H. Barnes
+305,3,3:45.0,73,80,DEN,GSW,0,away,FreeThrow,,,make1,1,H. Barnes,
+306,3,3:45.0,73,81,DEN,GSW,0,away,FreeThrow,,,make1,1,H. Barnes,
+307,3,3:34.0,73,81,DEN,GSW,11,home,JS,,8,miss2,0,W. Barton,
+308,3,3:30.0,73,81,DEN,GSW,4,home,OffReb,,,OffReb,,W. Barton,
+309,3,3:26.0,73,81,DEN,GSW,4,home,JS,,23,miss3,0,G. Harris,
+310,3,3:24.0,73,81,DEN,GSW,2,home,OffReb,,,OffReb,,N. Jokić,
+311,3,3:24.0,73,81,DEN,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Iguodala,N. Jokić
+312,3,3:24.0,73,81,DEN,GSW,0,home,FreeThrow,,,make1,0,N. Jokić,
+313,3,3:24.0,73,81,DEN,GSW,0,home,OffReb,,,OffReb,,Team,
+314,3,3:24.0,73,81,DEN,GSW,0,home,FreeThrow,,,make1,0,N. Jokić,
+315,3,3:23.0,73,81,DEN,GSW,1,away,DefReb,,,DefReb,,F. Ezeli,
+316,3,3:06.0,73,83,DEN,GSW,17,away,DK,assist,0,make2,2,H. Barnes,A. Iguodala
+317,3,2:50.0,73,83,DEN,GSW,16,home,JS,,22,miss3,0,G. Harris,
+318,3,2:49.0,73,83,DEN,GSW,1,away,DefReb,,,DefReb,,A. Iguodala,
+319,3,2:40.0,73,83,DEN,GSW,9,away,DK,,0,miss2,0,F. Ezeli,
+320,3,2:39.0,73,83,DEN,GSW,1,away,OffReb,,,OffReb,,H. Barnes,
+321,3,2:30.0,73,86,DEN,GSW,9,away,JS,assist,24,make3,3,S. Curry,H. Barnes
+322,3,2:16.0,73,86,DEN,GSW,14,home,JS,,4,miss2,0,W. Barton,
+323,3,2:16.0,73,86,DEN,GSW,0,away,DefReb,,,DefReb,,A. Iguodala,
+324,3,2:16.0,73,86,DEN,GSW,0,away,LostBall,,,turnover,,A. Iguodala,
+325,3,2:16.0,73,86,DEN,GSW,0,home,Sub,,,,,R. Foye,G. Harris
+326,3,2:16.0,73,86,DEN,GSW,0,home,Sub,,,,,D. Arthur,N. Jokić
+327,3,2:16.0,73,86,DEN,GSW,0,away,Sub,,,,,S. Livingston,K. Thompson
+328,3,2:01.0,73,86,DEN,GSW,15,home,JS,,17,miss2,0,D. Gallinari,
+329,3,1:59.0,73,86,DEN,GSW,2,away,DefReb,,,DefReb,,F. Ezeli,
+330,3,1:50.0,73,86,DEN,GSW,9,away,JS,,3,miss2,0,F. Ezeli,
+331,3,1:48.0,73,86,DEN,GSW,2,away,OffReb,,,OffReb,,F. Ezeli,
+332,3,1:46.0,73,86,DEN,GSW,2,away,LU,,1,miss2,0,F. Ezeli,
+333,3,1:46.0,73,86,DEN,GSW,0,home,DefReb,,,DefReb,,D. Gallinari,
+334,3,1:43.0,73,86,DEN,GSW,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Livingston,D. Gallinari
+335,3,1:43.0,74,86,DEN,GSW,0,home,FreeThrow,,,make1,1,D. Gallinari,
+336,3,1:43.0,74,86,DEN,GSW,0,away,Sub,,,,,L. Barbosa,S. Curry
+337,3,1:43.0,75,86,DEN,GSW,0,home,FreeThrow,,,make1,1,D. Gallinari,
+338,3,1:24.0,75,86,DEN,GSW,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Arthur,F. Ezeli
+339,3,1:24.0,75,86,DEN,GSW,0,away,FreeThrow,,,make1,0,F. Ezeli,
+340,3,1:24.0,75,86,DEN,GSW,0,away,OffReb,,,OffReb,,Team,
+341,3,1:24.0,75,86,DEN,GSW,0,home,Sub,,,,,E. Mudiay,D. Gallinari
+342,3,1:24.0,75,87,DEN,GSW,0,away,FreeThrow,,,make1,1,F. Ezeli,
+343,3,1:03.0,75,87,DEN,GSW,21,home,JS,,6,miss2,0,E. Mudiay,
+344,3,1:02.0,75,87,DEN,GSW,1,away,DefReb,,,DefReb,,F. Ezeli,
+345,3,0:54.0,75,87,DEN,GSW,8,away,DK,,0,miss2,0,F. Ezeli,
+346,3,0:53.0,75,87,DEN,GSW,1,home,DefReb,,,DefReb,,J. Nelson,
+347,3,0:51.0,77,87,DEN,GSW,2,home,DK,assist,0,make2,2,D. Arthur,E. Mudiay
+348,3,0:38.0,77,90,DEN,GSW,13,away,JS,assist,24,make3,3,A. Iguodala,L. Barbosa
+349,3,0:26.0,79,90,DEN,GSW,12,home,JS,assist,2,make2,2,E. Mudiay,J. Nelson
+350,3,0:15.0,79,90,DEN,GSW,11,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Nelson,F. Ezeli
+351,3,0:15.0,79,90,DEN,GSW,0,away,FreeThrow,,,make1,0,F. Ezeli,
+352,3,0:15.0,79,90,DEN,GSW,0,away,OffReb,,,OffReb,,Team,
+353,3,0:15.0,79,91,DEN,GSW,0,away,FreeThrow,,,make1,1,F. Ezeli,
+354,3,0:02.0,79,91,DEN,GSW,13,home,JS,block,25,miss3,0,E. Mudiay,A. Iguodala
+355,3,0:00.0,79,91,DEN,GSW,2,away,DefReb,,,DefReb,,L. Barbosa,
+356,4,11:42.0,79,93,DEN,GSW,18,away,JS,,16,make2,2,L. Barbosa,
+357,4,11:22.0,79,93,DEN,GSW,20,home,JS,,25,miss3,0,R. Foye,
+358,4,11:21.0,79,93,DEN,GSW,1,away,DefReb,,,DefReb,,M. Speights,
+359,4,11:09.0,79,95,DEN,GSW,12,away,JS,,10,make2,2,A. Iguodala,
+360,4,10:54.0,79,95,DEN,GSW,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,E. Mudiay
+361,4,10:54.0,80,95,DEN,GSW,0,home,FreeThrow,,,make1,1,E. Mudiay,
+362,4,10:54.0,81,95,DEN,GSW,0,home,FreeThrow,,,make1,1,E. Mudiay,
+363,4,10:38.0,81,95,DEN,GSW,16,away,JS,,26,miss3,0,L. Barbosa,
+364,4,10:38.0,81,95,DEN,GSW,0,away,OffReb,,,OffReb,,I. Clark,
+365,4,10:30.0,81,95,DEN,GSW,8,away,LostBall,,,turnover,,I. Clark,
+366,4,10:15.0,83,95,DEN,GSW,15,home,JS,,3,make2,2,W. Barton,
+367,4,10:15.0,83,95,DEN,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Clark,W. Barton
+368,4,10:15.0,84,95,DEN,GSW,0,home,FreeThrow,,,make1,1,W. Barton,
+369,4,9:59.0,84,95,DEN,GSW,16,away,JS,,19,miss2,0,M. Speights,
+370,4,9:58.0,84,95,DEN,GSW,1,home,DefReb,,,DefReb,,W. Barton,
+371,4,9:46.0,84,95,DEN,GSW,12,home,JS,,17,miss2,0,E. Mudiay,
+372,4,9:45.0,84,95,DEN,GSW,1,away,DefReb,,,DefReb,,Team,
+373,4,9:31.0,84,97,DEN,GSW,14,away,LU,assist,2,make2,2,I. Clark,A. Iguodala
+374,4,9:13.0,84,97,DEN,GSW,18,home,BadPass,steal,,turnover,,W. Barton,A. Iguodala
+375,4,9:09.0,84,99,DEN,GSW,4,away,LU,assist,1,make2,2,I. Clark,L. Barbosa
+376,4,9:09.0,84,99,DEN,GSW,0,home,Timeout,,,,,,
+377,4,8:50.0,84,99,DEN,GSW,19,home,LU,block,2,miss2,0,R. Foye,I. Clark
+378,4,8:48.0,84,99,DEN,GSW,2,away,DefReb,,,DefReb,,M. Speights,
+379,4,8:40.0,84,99,DEN,GSW,8,away,JS,,26,miss3,0,I. Clark,
+380,4,8:38.0,84,99,DEN,GSW,2,away,OffReb,,,OffReb,,M. Speights,
+381,4,8:38.0,84,101,DEN,GSW,0,away,JS,,2,make2,2,M. Speights,
+382,4,8:32.0,84,101,DEN,GSW,6,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,E. Mudiay,M. Speights
+383,4,8:32.0,84,101,DEN,GSW,0,home,OffensiveFoul,,,turnover,,E. Mudiay,
+384,4,8:32.0,84,101,DEN,GSW,0,home,Sub,,,,,G. Harris,R. Foye
+385,4,8:32.0,84,101,DEN,GSW,0,home,Sub,,,,,D. Gallinari,W. Barton
+386,4,8:31.0,84,101,DEN,GSW,1,away,Sub,,,,,D. Green,I. Clark
+387,4,8:16.0,84,101,DEN,GSW,15,away,BadPass,steal,,turnover,,S. Livingston,G. Harris
+388,4,8:16.0,84,101,DEN,GSW,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Speights,G. Harris
+389,4,7:58.0,84,101,DEN,GSW,18,home,JS,,19,miss2,0,D. Gallinari,
+390,4,7:57.0,84,101,DEN,GSW,1,away,DefReb,,,DefReb,,M. Speights,
+391,4,7:49.0,84,101,DEN,GSW,8,away,BadPass,steal,,turnover,,D. Green,E. Mudiay
+392,4,7:41.0,84,101,DEN,GSW,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Barbosa,J. Nelson
+393,4,7:31.0,84,101,DEN,GSW,10,home,LU,,1,miss2,0,E. Mudiay,
+394,4,7:30.0,84,101,DEN,GSW,1,away,DefReb,,,DefReb,,D. Green,
+395,4,7:24.0,84,103,DEN,GSW,6,away,LU,assist,0,make2,2,M. Speights,D. Green
+396,4,7:06.0,86,103,DEN,GSW,18,home,JS,assist,14,make2,2,D. Arthur,G. Harris
+397,4,6:47.0,86,103,DEN,GSW,19,away,JS,,16,miss2,0,S. Livingston,
+398,4,6:46.0,86,103,DEN,GSW,1,home,DefReb,,,DefReb,,J. Nelson,
+399,4,6:35.0,86,103,DEN,GSW,11,home,JS,,21,miss2,0,E. Mudiay,
+400,4,6:32.0,86,103,DEN,GSW,3,away,DefReb,,,DefReb,,M. Speights,
+401,4,6:15.0,86,103,DEN,GSW,17,away,BadPass,steal,,turnover,,S. Livingston,D. Arthur
+402,4,6:15.0,86,103,DEN,GSW,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Iguodala,G. Harris
+403,4,6:15.0,87,103,DEN,GSW,0,home,FreeThrow,,,make1,1,G. Harris,
+404,4,6:15.0,87,103,DEN,GSW,0,away,Timeout,,,,,,
+405,4,6:15.0,87,103,DEN,GSW,0,home,Sub,,,,,N. Jokić,D. Arthur
+406,4,6:15.0,87,103,DEN,GSW,0,away,Sub,,,,,K. Thompson,A. Iguodala
+407,4,6:15.0,87,103,DEN,GSW,0,home,FreeThrow,,,make1,0,G. Harris,
+408,4,6:13.0,87,103,DEN,GSW,2,away,DefReb,,,DefReb,,M. Speights,
+409,4,5:57.0,87,103,DEN,GSW,16,away,JS,,17,miss2,0,M. Speights,
+410,4,5:56.0,87,103,DEN,GSW,1,home,DefReb,,,DefReb,,E. Mudiay,
+411,4,5:37.0,87,103,DEN,GSW,19,home,OffensiveFoul,,,turnover,,G. Harris,
+412,4,5:37.0,87,103,DEN,GSW,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Harris,M. Speights
+413,4,5:37.0,87,103,DEN,GSW,0,away,Sub,,,,,H. Barnes,M. Speights
+414,4,5:20.0,87,103,DEN,GSW,17,away,JS,,21,miss2,0,K. Thompson,
+415,4,5:19.0,87,103,DEN,GSW,1,home,DefReb,,,DefReb,,N. Jokić,
+416,4,5:10.0,87,103,DEN,GSW,9,home,JS,,21,miss2,0,N. Jokić,
+417,4,5:08.0,87,103,DEN,GSW,2,away,DefReb,,,DefReb,,S. Livingston,
+418,4,5:02.0,87,106,DEN,GSW,6,away,JS,assist,23,make3,3,L. Barbosa,K. Thompson
+419,4,4:48.0,87,106,DEN,GSW,14,home,JS,,19,miss2,0,J. Nelson,
+420,4,4:48.0,87,106,DEN,GSW,0,away,DefReb,,,DefReb,,S. Livingston,
+421,4,4:45.0,87,108,DEN,GSW,3,away,LU,assist,1,make2,2,D. Green,S. Livingston
+422,4,4:45.0,87,108,DEN,GSW,0,home,Timeout,,,,,,
+423,4,4:43.0,87,108,DEN,GSW,2,home,Sub,,,,,W. Barton,E. Mudiay
+424,4,4:27.0,87,108,DEN,GSW,16,home,LU,block,1,miss2,0,D. Gallinari,D. Green
+425,4,4:24.0,87,108,DEN,GSW,3,away,DefReb,,,DefReb,,S. Livingston,
+426,4,4:06.0,87,108,DEN,GSW,18,away,LU,,1,miss2,0,H. Barnes,
+427,4,4:05.0,87,108,DEN,GSW,1,home,DefReb,,,DefReb,,N. Jokić,
+428,4,3:56.0,87,108,DEN,GSW,9,home,LU,block,3,miss2,0,D. Gallinari,K. Thompson
+429,4,3:53.0,87,108,DEN,GSW,3,home,OffReb,,,OffReb,,D. Gallinari,
+430,4,3:49.0,90,108,DEN,GSW,4,home,JS,assist,24,make3,3,G. Harris,D. Gallinari
+431,4,3:26.0,90,108,DEN,GSW,23,away,JS,,25,miss3,0,D. Green,
+432,4,3:24.0,90,108,DEN,GSW,2,home,DefReb,,,DefReb,,W. Barton,
+433,4,3:11.0,92,108,DEN,GSW,13,home,LU,assist,2,make2,2,N. Jokić,D. Gallinari
+434,4,2:48.0,92,110,DEN,GSW,23,away,JS,,20,make2,2,L. Barbosa,
+435,4,2:30.0,94,110,DEN,GSW,18,home,JS,assist,2,make2,2,D. Gallinari,G. Harris
+436,4,2:30.0,94,110,DEN,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Barnes,D. Gallinari
+437,4,2:30.0,94,110,DEN,GSW,0,away,Timeout,,,,,,
+438,4,2:30.0,94,110,DEN,GSW,0,away,Sub,,,,,A. Iguodala,S. Livingston
+439,4,2:30.0,94,110,DEN,GSW,0,away,Sub,,,,,I. Clark,L. Barbosa
+440,4,2:30.0,95,110,DEN,GSW,0,home,FreeThrow,,,make1,1,D. Gallinari,
+441,4,2:19.0,95,112,DEN,GSW,11,away,DK,assist,0,make2,2,D. Green,K. Thompson
+442,4,2:19.0,95,112,DEN,GSW,0,away,TechnicalFoul,,,TechnicalFoul,,D. Green,
+443,4,2:19.0,96,112,DEN,GSW,0,home,FreeThrow,,,make1,1,D. Gallinari makes technical free throw,
+444,4,2:10.0,96,112,DEN,GSW,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,N. Jokić
+445,4,2:10.0,97,112,DEN,GSW,0,home,FreeThrow,,,make1,1,N. Jokić,
+446,4,2:10.0,97,112,DEN,GSW,0,home,Sub,,,,,K. Papanikolaou,D. Gallinari
+447,4,2:10.0,98,112,DEN,GSW,0,home,FreeThrow,,,make1,1,N. Jokić,
+448,4,1:53.0,98,115,DEN,GSW,17,away,JS,assist,24,make3,3,H. Barnes,K. Thompson
+449,4,1:45.0,100,115,DEN,GSW,8,home,LU,assist,0,make2,2,G. Harris,J. Nelson
+450,4,1:30.0,100,115,DEN,GSW,15,away,LostBall,steal,,turnover,,D. Green,N. Jokić
+451,4,1:25.0,102,115,DEN,GSW,5,home,LU,assist,2,make2,2,N. Jokić,W. Barton
+452,4,1:25.0,102,115,DEN,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Clark,N. Jokić
+453,4,1:25.0,102,115,DEN,GSW,0,away,Sub,,,,,J. McAdoo,D. Green
+454,4,1:25.0,103,115,DEN,GSW,0,home,FreeThrow,,,make1,1,N. Jokić,
+455,4,1:09.0,103,115,DEN,GSW,16,away,JS,,23,miss3,0,A. Iguodala,
+456,4,1:09.0,103,115,DEN,GSW,0,away,OffReb,,,OffReb,,J. McAdoo,
+457,4,1:03.0,103,115,DEN,GSW,6,away,BadPass,steal,,turnover,,H. Barnes,K. Papanikolaou
+458,4,0:57.0,105,115,DEN,GSW,6,home,LU,,2,make2,2,W. Barton,
+459,4,0:36.0,105,118,DEN,GSW,21,away,JS,assist,26,make3,3,K. Thompson,I. Clark
+460,4,0:23.0,105,118,DEN,GSW,13,home,JS,,24,miss3,0,J. Nelson,
+461,4,0:22.0,105,118,DEN,GSW,1,away,DefReb,,,DefReb,,K. Thompson,

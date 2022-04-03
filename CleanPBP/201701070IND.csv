@@ -1,0 +1,464 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,0,0,IND,NYK,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,J. Noah
+1,1,11:43.0,0,0,IND,NYK,0,away,FreeThrow,,,make1,0,J. Noah,
+2,1,11:43.0,0,0,IND,NYK,0,away,OffReb,,,OffReb,,Team,
+3,1,11:43.0,0,0,IND,NYK,0,away,FreeThrow,,,make1,0,J. Noah,
+4,1,11:42.0,0,0,IND,NYK,1,home,DefReb,,,DefReb,,G. Robinson,
+5,1,11:28.0,2,0,IND,NYK,14,home,JS,assist,17,make2,2,M. Turner,J. Teague
+6,1,11:09.0,2,2,IND,NYK,19,away,JS,,16,make2,2,D. Rose,
+7,1,10:56.0,2,2,IND,NYK,13,home,JS,,20,miss2,0,G. Robinson,
+8,1,10:56.0,2,2,IND,NYK,0,away,DefReb,,,DefReb,,D. Rose,
+9,1,10:35.0,2,4,IND,NYK,21,away,LU,assist,3,make2,2,D. Rose,J. Noah
+10,1,10:27.0,2,4,IND,NYK,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Lee,J. Teague
+11,1,10:27.0,3,4,IND,NYK,0,home,FreeThrow,,,make1,1,J. Teague,
+12,1,10:27.0,4,4,IND,NYK,0,home,FreeThrow,,,make1,1,J. Teague,
+13,1,10:12.0,4,4,IND,NYK,15,away,BadPass,steal,,turnover,,K. Porziņģis,T. Young
+14,1,10:07.0,4,4,IND,NYK,5,home,JS,,26,miss3,0,J. Teague,
+15,1,10:06.0,4,4,IND,NYK,1,away,DefReb,,,DefReb,,J. Noah,
+16,1,9:54.0,4,4,IND,NYK,12,away,BadPass,steal,,turnover,,K. Porziņģis,P. George
+17,1,9:48.0,6,4,IND,NYK,6,home,LU,assist,4,make2,2,T. Young,P. George
+18,1,9:34.0,6,4,IND,NYK,14,away,JS,,8,miss2,0,C. Anthony,
+19,1,9:34.0,6,4,IND,NYK,0,home,DefReb,,,DefReb,,J. Teague,
+20,1,9:27.0,6,4,IND,NYK,7,home,JS,,27,miss3,0,M. Turner,
+21,1,9:26.0,6,4,IND,NYK,1,away,DefReb,,,DefReb,,C. Lee,
+22,1,9:15.0,6,7,IND,NYK,11,away,JS,assist,26,make3,3,K. Porziņģis,C. Lee
+23,1,9:03.0,6,7,IND,NYK,12,home,JS,,16,miss2,0,P. George,
+24,1,9:03.0,6,7,IND,NYK,0,away,DefReb,,,DefReb,,K. Porziņģis,
+25,1,8:51.0,6,9,IND,NYK,12,away,DK,assist,3,make2,2,J. Noah,K. Porziņģis
+26,1,8:37.0,9,9,IND,NYK,14,home,JS,assist,26,make3,3,P. George,J. Teague
+27,1,8:25.0,9,9,IND,NYK,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Noah,P. George
+28,1,8:25.0,9,9,IND,NYK,0,away,OffensiveFoul,,,turnover,,J. Noah,
+29,1,8:11.0,11,9,IND,NYK,14,home,JS,assist,16,make2,2,P. George,J. Teague
+30,1,7:57.0,11,9,IND,NYK,14,away,JS,,15,miss2,0,C. Lee,
+31,1,7:56.0,11,9,IND,NYK,1,home,DefReb,,,DefReb,,J. Teague,
+32,1,7:45.0,14,9,IND,NYK,11,home,JS,assist,24,make3,3,G. Robinson,J. Teague
+33,1,7:28.0,14,9,IND,NYK,17,away,LostBall,steal,,turnover,,K. Porziņģis,T. Young
+34,1,7:21.0,14,9,IND,NYK,7,home,JS,,24,miss3,0,G. Robinson,
+35,1,7:21.0,14,9,IND,NYK,0,away,DefReb,,,DefReb,,C. Lee,
+36,1,7:11.0,14,9,IND,NYK,10,away,BadPass,,,turnover,,J. Noah,
+37,1,6:50.0,14,9,IND,NYK,21,home,JS,block,4,miss2,0,T. Young,K. Porziņģis
+38,1,6:48.0,14,9,IND,NYK,2,away,DefReb,,,DefReb,,C. Lee,
+39,1,6:38.0,14,12,IND,NYK,10,away,JS,assist,27,make3,3,C. Lee,J. Noah
+40,1,6:29.0,16,12,IND,NYK,9,home,JS,,11,make2,2,J. Teague,
+41,1,6:17.0,16,15,IND,NYK,12,away,JS,assist,26,make3,3,K. Porziņģis,C. Anthony
+42,1,6:05.0,16,15,IND,NYK,12,home,LostBall,steal,,turnover,,J. Teague,J. Noah
+43,1,5:58.0,16,15,IND,NYK,7,away,LU,,3,miss2,0,D. Rose,
+44,1,5:58.0,16,15,IND,NYK,0,home,DefReb,,,DefReb,,G. Robinson,
+45,1,5:36.0,19,15,IND,NYK,22,home,JS,,26,make3,3,J. Teague,
+46,1,5:19.0,19,15,IND,NYK,17,away,JS,,26,miss3,0,K. Porziņģis,
+47,1,5:18.0,19,15,IND,NYK,1,away,OffReb,,,OffReb,,J. Noah,
+48,1,5:14.0,19,15,IND,NYK,4,away,JS,,26,miss3,0,C. Anthony,
+49,1,5:13.0,19,15,IND,NYK,1,home,DefReb,,,DefReb,,M. Turner,
+50,1,5:01.0,19,15,IND,NYK,12,home,JS,,21,miss2,0,P. George,
+51,1,5:00.0,19,15,IND,NYK,1,away,DefReb,,,DefReb,,J. Noah,
+52,1,4:53.0,19,15,IND,NYK,7,away,JS,,25,miss3,0,C. Lee,
+53,1,4:53.0,19,15,IND,NYK,0,away,OffReb,,,OffReb,,Team,
+54,1,4:53.0,19,15,IND,NYK,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Teague,K. Porziņģis
+55,1,4:53.0,19,15,IND,NYK,0,home,Timeout,,,,,,
+56,1,4:53.0,19,15,IND,NYK,0,away,Sub,,,,,K. O'Quinn,K. Porziņģis
+57,1,4:53.0,19,15,IND,NYK,0,away,Sub,,,,,L. Thomas,J. Noah
+58,1,4:53.0,19,15,IND,NYK,0,home,Sub,,,,,K. Séraphin,T. Young
+59,1,4:53.0,19,15,IND,NYK,0,home,Sub,,,,,M. Ellis,G. Robinson
+60,1,4:45.0,19,15,IND,NYK,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. George,C. Anthony
+61,1,4:45.0,19,15,IND,NYK,0,home,Sub,,,,,A. Jefferson,M. Turner
+62,1,4:36.0,19,15,IND,NYK,9,away,JS,,17,miss2,0,C. Anthony,
+63,1,4:35.0,19,15,IND,NYK,1,home,DefReb,,,DefReb,,A. Jefferson,
+64,1,4:15.0,21,15,IND,NYK,20,home,LU,assist,2,make2,2,K. Séraphin,P. George
+65,1,4:00.0,21,17,IND,NYK,15,away,JS,assist,18,make2,2,C. Lee,C. Anthony
+66,1,3:35.0,23,17,IND,NYK,25,home,JS,assist,5,make2,2,A. Jefferson,J. Teague
+67,1,3:31.0,23,17,IND,NYK,4,away,BadPass,steal,,turnover,,K. O'Quinn,P. George
+68,1,3:26.0,23,17,IND,NYK,5,home,JS,,24,miss3,0,P. George,
+69,1,3:26.0,23,17,IND,NYK,0,away,DefReb,,,DefReb,,D. Rose,
+70,1,3:18.0,23,20,IND,NYK,8,away,JS,assist,27,make3,3,L. Thomas,C. Anthony
+71,1,3:06.0,23,20,IND,NYK,12,home,JS,,16,miss2,0,P. George,
+72,1,3:06.0,23,20,IND,NYK,0,home,OffReb,,,OffReb,,A. Jefferson,
+73,1,3:06.0,23,20,IND,NYK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Anthony,A. Jefferson
+74,1,3:06.0,24,20,IND,NYK,0,home,FreeThrow,,,make1,1,A. Jefferson,
+75,1,3:06.0,24,20,IND,NYK,0,away,Sub,,,,,W. Hernangómez,C. Anthony
+76,1,3:06.0,25,20,IND,NYK,0,home,FreeThrow,,,make1,1,A. Jefferson,
+77,1,2:56.0,25,22,IND,NYK,10,away,DK,assist,2,make2,2,W. Hernangómez,L. Thomas
+78,1,2:44.0,25,22,IND,NYK,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Thomas,J. Teague
+79,1,2:44.0,25,22,IND,NYK,0,away,Timeout,,,,,,
+80,1,2:44.0,26,22,IND,NYK,0,home,FreeThrow,,,make1,1,J. Teague,
+81,1,2:44.0,25,22,IND,NYK,0,home,Sub,,,,,C. Miles,P. George
+82,1,2:44.0,27,22,IND,NYK,0,home,FreeThrow,,,make1,1,J. Teague,
+83,1,2:27.0,27,22,IND,NYK,17,away,BadPass,steal,,turnover,,C. Lee,A. Jefferson
+84,1,2:15.0,27,22,IND,NYK,12,home,JS,,6,miss2,0,A. Jefferson,
+85,1,2:14.0,27,22,IND,NYK,1,away,DefReb,,,DefReb,,W. Hernangómez,
+86,1,2:04.0,27,24,IND,NYK,10,away,JS,,6,make2,2,D. Rose,
+87,1,1:52.0,29,24,IND,NYK,12,home,JS,,18,make2,2,M. Ellis,
+88,1,1:43.0,29,24,IND,NYK,9,home,ChargeFoul,DrawnBy,,ChargeFoul,,D. Rose,A. Jefferson
+89,1,1:43.0,29,24,IND,NYK,0,away,OffensiveFoul,,,turnover,,D. Rose,
+90,1,1:43.0,29,24,IND,NYK,0,away,Sub,,,,,B. Jennings,C. Lee
+91,1,1:43.0,29,24,IND,NYK,0,home,Sub,,,,,A. Brooks,J. Teague
+92,1,1:24.0,29,24,IND,NYK,19,home,JS,block,6,miss2,0,A. Jefferson,K. O'Quinn
+93,1,1:24.0,29,24,IND,NYK,0,away,DefReb,,,DefReb,,W. Hernangómez,
+94,1,1:18.0,29,24,IND,NYK,6,away,BadPass,steal,,turnover,,B. Jennings,C. Miles
+95,1,1:12.0,31,24,IND,NYK,6,home,LU,,4,make2,2,C. Miles,
+96,1,1:00.0,31,24,IND,NYK,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Séraphin,D. Rose
+97,1,1:00.0,31,25,IND,NYK,0,away,FreeThrow,,,make1,1,D. Rose,
+98,1,1:00.0,31,26,IND,NYK,0,away,FreeThrow,,,make1,1,D. Rose,
+99,1,0:47.0,31,26,IND,NYK,13,home,BadPass,,,turnover,,A. Brooks,
+100,1,0:37.0,31,26,IND,NYK,10,away,JS,,17,miss2,0,D. Rose,
+101,1,0:36.0,31,26,IND,NYK,1,home,DefReb,,,DefReb,,K. Séraphin,
+102,1,0:29.0,31,26,IND,NYK,7,home,LU,block,3,miss2,0,M. Ellis,W. Hernangómez
+103,1,0:28.0,31,26,IND,NYK,1,home,OffReb,,,OffReb,,A. Jefferson,
+104,1,0:27.0,33,26,IND,NYK,1,home,LU,,3,make2,2,A. Jefferson,
+105,1,0:03.0,33,29,IND,NYK,24,away,JS,assist,27,make3,3,W. Hernangómez,B. Jennings
+106,1,0:00.0,33,29,IND,NYK,3,home,JS,,41,miss3,0,M. Ellis,
+107,1,0:00.0,33,29,IND,NYK,0,home,OffReb,,,OffReb,,Team,
+108,2,11:43.0,36,29,IND,NYK,17,home,JS,assist,26,make3,3,C. Miles,A. Jefferson
+109,2,11:26.0,36,31,IND,NYK,17,away,JS,,18,make2,2,J. Holiday,
+110,2,11:09.0,38,31,IND,NYK,17,home,JS,assist,20,make2,2,K. Séraphin,A. Brooks
+111,2,10:52.0,38,31,IND,NYK,17,away,JS,,19,miss2,0,K. Porziņģis,
+112,2,10:51.0,38,31,IND,NYK,1,home,DefReb,,,DefReb,,A. Brooks,
+113,2,10:41.0,40,31,IND,NYK,10,home,HS,,10,make2,2,K. Séraphin,
+114,2,10:27.0,40,31,IND,NYK,14,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Holiday,A. Jefferson
+115,2,10:27.0,40,31,IND,NYK,0,away,OffensiveFoul,,,turnover,,J. Holiday,
+116,2,10:10.0,40,31,IND,NYK,17,home,JS,,5,miss2,0,A. Brooks,
+117,2,10:10.0,40,31,IND,NYK,0,away,DefReb,,,DefReb,,Team,
+118,2,10:10.0,40,31,IND,NYK,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Séraphin,W. Hernangómez
+119,2,10:01.0,40,31,IND,NYK,9,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,K. Séraphin,B. Jennings
+120,2,10:01.0,40,31,IND,NYK,0,home,Sub,,,,,T. Young,K. Séraphin
+121,2,9:53.0,40,31,IND,NYK,8,away,DK,,1,miss2,0,W. Hernangómez,
+122,2,9:53.0,40,31,IND,NYK,0,away,OffReb,,,OffReb,,K. Porziņģis,
+123,2,9:51.0,40,31,IND,NYK,2,away,HS,,6,miss2,0,K. Porziņģis,
+124,2,9:51.0,40,31,IND,NYK,0,home,DefReb,,,DefReb,,T. Young,
+125,2,9:51.0,40,31,IND,NYK,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Porziņģis,T. Young
+126,2,9:39.0,40,31,IND,NYK,12,home,JS,,27,miss3,0,C. Miles,
+127,2,9:39.0,40,31,IND,NYK,0,away,DefReb,,,DefReb,,K. Porziņģis,
+128,2,9:28.0,40,31,IND,NYK,11,away,JS,,17,miss2,0,J. Holiday,
+129,2,9:27.0,40,31,IND,NYK,1,home,DefReb,,,DefReb,,A. Brooks,
+130,2,9:20.0,43,31,IND,NYK,7,home,JS,assist,26,make3,3,M. Ellis,A. Brooks
+131,2,8:57.0,43,31,IND,NYK,23,away,JS,,12,miss2,0,W. Hernangómez,
+132,2,8:56.0,43,31,IND,NYK,1,home,DefReb,,,DefReb,,T. Young,
+133,2,8:42.0,45,31,IND,NYK,14,home,JS,,15,make2,2,A. Jefferson,
+134,2,8:37.0,45,31,IND,NYK,5,away,Timeout,,,,,,
+135,2,8:37.0,45,31,IND,NYK,0,away,Sub,,,,,J. Noah,L. Thomas
+136,2,8:37.0,45,31,IND,NYK,0,away,Sub,,,,,M. Kuzminskas,W. Hernangómez
+137,2,8:25.0,45,31,IND,NYK,12,away,JS,,26,miss3,0,K. Porziņģis,
+138,2,8:24.0,45,31,IND,NYK,1,away,OffReb,,,OffReb,,Team,
+139,2,8:24.0,45,31,IND,NYK,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Young,J. Noah
+140,2,8:16.0,45,31,IND,NYK,8,away,JS,,15,miss2,0,B. Jennings,
+141,2,8:16.0,45,31,IND,NYK,0,home,DefReb,,,DefReb,,A. Jefferson,
+142,2,7:56.0,45,31,IND,NYK,20,home,JS,,19,miss2,0,C. Miles,
+143,2,7:56.0,45,31,IND,NYK,0,away,DefReb,,,DefReb,,J. Noah,
+144,2,7:46.0,45,31,IND,NYK,10,away,JS,,26,miss3,0,J. Holiday,
+145,2,7:45.0,45,31,IND,NYK,1,home,DefReb,,,DefReb,,C. Miles,
+146,2,7:38.0,45,31,IND,NYK,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kuzminskas,M. Ellis
+147,2,7:38.0,45,31,IND,NYK,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
+148,2,7:38.0,46,31,IND,NYK,0,home,FreeThrow,,,make1,1,M. Ellis,
+149,2,7:38.0,46,31,IND,NYK,0,home,Sub,,,,,M. Turner,A. Jefferson
+150,2,7:38.0,47,31,IND,NYK,0,home,FreeThrow,,,make1,1,M. Ellis,
+151,2,7:19.0,47,31,IND,NYK,19,away,BadPass,steal,,turnover,,M. Kuzminskas,T. Young
+152,2,7:02.0,47,31,IND,NYK,17,home,JS,,17,miss2,0,A. Brooks,
+153,2,7:01.0,47,31,IND,NYK,1,away,DefReb,,,DefReb,,J. Noah,
+154,2,6:56.0,47,31,IND,NYK,5,home,ChargeFoul,DrawnBy,,ChargeFoul,,K. Porziņģis,C. Miles
+155,2,6:56.0,47,31,IND,NYK,0,away,OffensiveFoul,,,turnover,,K. Porziņģis,
+156,2,6:35.0,47,31,IND,NYK,21,home,BadPass,steal,,turnover,,A. Brooks,J. Holiday
+157,2,6:30.0,47,33,IND,NYK,5,away,DK,assist,2,make2,2,K. Porziņģis,M. Kuzminskas
+158,2,6:12.0,47,33,IND,NYK,18,home,HS,,9,miss2,0,M. Turner,
+159,2,6:11.0,47,33,IND,NYK,1,home,OffReb,,,OffReb,,C. Miles,
+160,2,6:10.0,49,33,IND,NYK,1,home,LU,,2,make2,2,C. Miles,
+161,2,5:59.0,49,33,IND,NYK,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Miles,M. Kuzminskas
+162,2,5:59.0,49,33,IND,NYK,0,away,Timeout,,,,,,
+163,2,5:59.0,49,33,IND,NYK,0,home,Sub,,,,,P. George,C. Miles
+164,2,5:59.0,49,33,IND,NYK,0,away,Sub,,,,,C. Anthony,M. Kuzminskas
+165,2,5:51.0,49,33,IND,NYK,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. George,C. Anthony
+166,2,5:51.0,49,33,IND,NYK,0,away,FreeThrow,,,make1,0,C. Anthony,
+167,2,5:51.0,49,33,IND,NYK,0,away,OffReb,,,OffReb,,Team,
+168,2,5:51.0,49,34,IND,NYK,0,away,FreeThrow,,,make1,1,C. Anthony,
+169,2,5:40.0,49,34,IND,NYK,11,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Holiday,M. Ellis
+170,2,5:40.0,49,34,IND,NYK,0,home,Sub,,,,,J. Teague,A. Brooks
+171,2,5:40.0,49,34,IND,NYK,0,home,Sub,,,,,G. Robinson,M. Ellis
+172,2,5:28.0,51,34,IND,NYK,12,home,JS,,13,make2,2,P. George,
+173,2,5:12.0,51,34,IND,NYK,16,away,LU,,2,miss2,0,C. Anthony,
+174,2,5:11.0,51,34,IND,NYK,1,home,DefReb,,,DefReb,,T. Young,
+175,2,5:04.0,51,34,IND,NYK,7,home,BadPass,,,turnover,,T. Young,
+176,2,5:04.0,51,34,IND,NYK,0,away,Sub,,,,,C. Lee,B. Jennings
+177,2,5:04.0,51,34,IND,NYK,0,away,Sub,,,,,D. Rose,J. Holiday
+178,2,4:49.0,51,34,IND,NYK,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,C. Anthony
+179,2,4:49.0,51,35,IND,NYK,0,away,FreeThrow,,,make1,1,C. Anthony,
+180,2,4:49.0,51,36,IND,NYK,0,away,FreeThrow,,,make1,1,C. Anthony,
+181,2,4:31.0,53,36,IND,NYK,18,home,LU,assist,2,make2,2,T. Young,M. Turner
+182,2,4:16.0,53,36,IND,NYK,15,away,JS,,7,miss2,0,C. Anthony,
+183,2,4:15.0,53,36,IND,NYK,1,away,OffReb,,,OffReb,,J. Noah,
+184,2,4:14.0,53,36,IND,NYK,1,away,LU,,2,miss2,0,J. Noah,
+185,2,4:13.0,53,36,IND,NYK,1,home,DefReb,,,DefReb,,M. Turner,
+186,2,4:00.0,53,36,IND,NYK,13,home,JS,,18,miss2,0,P. George,
+187,2,3:59.0,53,36,IND,NYK,1,home,OffReb,,,OffReb,,M. Turner,
+188,2,3:58.0,55,36,IND,NYK,1,home,LU,,3,make2,2,M. Turner,
+189,2,3:43.0,55,36,IND,NYK,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. George,C. Lee
+190,2,3:43.0,55,37,IND,NYK,0,away,FreeThrow,,,make1,1,C. Lee,
+191,2,3:43.0,55,37,IND,NYK,0,home,Sub,,,,,C. Miles,P. George
+192,2,3:43.0,55,38,IND,NYK,0,away,FreeThrow,,,make1,1,C. Lee,
+193,2,3:28.0,55,38,IND,NYK,15,home,JS,,20,miss2,0,M. Turner,
+194,2,3:27.0,55,38,IND,NYK,1,away,DefReb,,,DefReb,,C. Lee,
+195,2,3:13.0,55,38,IND,NYK,14,home,KickBallViolation,,,KickBallViolation,,M. Turner,
+196,2,3:07.0,55,40,IND,NYK,6,away,LU,assist,2,make2,2,C. Anthony,J. Noah
+197,2,2:43.0,55,40,IND,NYK,24,home,JS,,24,miss3,0,G. Robinson,
+198,2,2:43.0,55,40,IND,NYK,0,home,OffReb,,,OffReb,,Team,
+199,2,2:43.0,55,40,IND,NYK,0,home,ShotClockViolation,,,turnover,,Team,
+200,2,2:43.0,55,40,IND,NYK,0,home,Timeout,,,,,,
+201,2,2:20.0,55,40,IND,NYK,23,away,JS,,26,miss3,0,C. Lee,
+202,2,2:20.0,55,40,IND,NYK,0,home,DefReb,,,DefReb,,G. Robinson,
+203,2,2:02.0,55,40,IND,NYK,18,home,JS,,25,miss3,0,C. Miles,
+204,2,2:01.0,55,40,IND,NYK,1,away,DefReb,,,DefReb,,C. Anthony,
+205,2,1:48.0,55,40,IND,NYK,13,away,JS,,17,miss2,0,D. Rose,
+206,2,1:48.0,55,40,IND,NYK,0,home,DefReb,,,DefReb,,M. Turner,
+207,2,1:34.0,55,40,IND,NYK,14,home,JS,block,3,miss2,0,M. Turner,K. Porziņģis
+208,2,1:33.0,55,40,IND,NYK,1,home,OffReb,,,OffReb,,M. Turner,
+209,2,1:33.0,57,40,IND,NYK,0,home,LU,,2,make2,2,M. Turner,
+210,2,1:12.0,57,40,IND,NYK,21,away,JS,,20,miss2,0,K. Porziņģis,
+211,2,1:11.0,57,40,IND,NYK,1,home,DefReb,,,DefReb,,G. Robinson,
+212,2,0:55.0,57,40,IND,NYK,16,home,JS,,17,miss2,0,M. Turner,
+213,2,0:53.0,57,40,IND,NYK,2,home,OffReb,,,OffReb,,J. Teague,
+214,2,0:50.0,60,40,IND,NYK,3,home,JS,assist,24,make3,3,J. Teague,T. Young
+215,2,0:33.0,60,43,IND,NYK,17,away,JS,assist,24,make3,3,K. Porziņģis,C. Anthony
+216,2,0:28.0,60,43,IND,NYK,5,home,Timeout,,,,,,
+217,2,0:28.0,60,43,IND,NYK,0,home,Sub,,,,,A. Jefferson,M. Turner
+218,2,0:14.0,60,43,IND,NYK,14,home,JS,,25,miss3,0,C. Miles,
+219,2,0:13.0,60,43,IND,NYK,1,home,OffReb,,,OffReb,,A. Jefferson,
+220,2,0:02.0,62,43,IND,NYK,11,home,LU,assist,4,make2,2,C. Miles,J. Teague
+221,2,0:00.0,62,43,IND,NYK,2,away,JS,,48,miss3,0,D. Rose,
+222,2,0:00.0,62,43,IND,NYK,0,away,OffReb,,,OffReb,,Team,
+223,3,11:42.0,62,43,IND,NYK,18,home,JS,,23,miss2,0,M. Turner,
+224,3,11:41.0,62,43,IND,NYK,1,away,DefReb,,,DefReb,,C. Anthony,
+225,3,11:26.0,62,45,IND,NYK,15,away,JS,assist,19,make2,2,C. Anthony,K. Porziņģis
+226,3,11:05.0,64,45,IND,NYK,21,home,JS,assist,16,make2,2,P. George,T. Young
+227,3,10:55.0,64,45,IND,NYK,10,away,DK,,2,miss2,0,K. Porziņģis,
+228,3,10:54.0,64,45,IND,NYK,1,home,DefReb,,,DefReb,,T. Young,
+229,3,10:49.0,64,45,IND,NYK,5,home,BadPass,steal,,turnover,,T. Young,C. Lee
+230,3,10:43.0,64,47,IND,NYK,6,away,LU,assist,2,make2,2,J. Noah,D. Rose
+231,3,10:23.0,64,47,IND,NYK,20,home,Traveling,,,turnover,,P. George,
+232,3,10:05.0,64,49,IND,NYK,18,away,JS,,16,make2,2,C. Anthony,
+233,3,9:54.0,64,49,IND,NYK,11,home,BadPass,steal,,turnover,,J. Teague,D. Rose
+234,3,9:46.0,64,49,IND,NYK,8,away,JS,,26,miss3,0,C. Anthony,
+235,3,9:45.0,64,49,IND,NYK,1,home,DefReb,,,DefReb,,T. Young,
+236,3,9:36.0,67,49,IND,NYK,9,home,JS,assist,26,make3,3,T. Young,J. Teague
+237,3,9:21.0,67,51,IND,NYK,15,away,JS,,17,make2,2,D. Rose,
+238,3,9:06.0,69,51,IND,NYK,15,home,JS,,14,make2,2,J. Teague,
+239,3,8:52.0,69,51,IND,NYK,14,away,JS,,20,miss2,0,C. Lee,
+240,3,8:51.0,69,51,IND,NYK,1,home,DefReb,,,DefReb,,M. Turner,
+241,3,8:45.0,69,51,IND,NYK,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Anthony,G. Robinson
+242,3,8:37.0,71,51,IND,NYK,8,home,DK,assist,3,make2,2,M. Turner,P. George
+243,3,8:23.0,71,51,IND,NYK,14,away,LU,,1,miss2,0,C. Lee,
+244,3,8:22.0,71,51,IND,NYK,1,home,DefReb,,,DefReb,,T. Young,
+245,3,8:15.0,71,51,IND,NYK,7,home,JS,,25,miss3,0,P. George,
+246,3,8:15.0,71,51,IND,NYK,0,away,DefReb,,,DefReb,,K. Porziņģis,
+247,3,8:03.0,71,51,IND,NYK,12,away,LU,,3,miss2,0,J. Noah,
+248,3,8:02.0,71,51,IND,NYK,1,home,DefReb,,,DefReb,,M. Turner,
+249,3,7:48.0,71,51,IND,NYK,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Rose,J. Teague
+250,3,7:48.0,72,51,IND,NYK,0,home,FreeThrow,,,make1,1,J. Teague,
+251,3,7:48.0,73,51,IND,NYK,0,home,FreeThrow,,,make1,1,J. Teague,
+252,3,7:48.0,73,51,IND,NYK,0,away,Sub,,,,,L. Thomas,K. Porziņģis
+253,3,7:48.0,74,51,IND,NYK,0,home,FreeThrow,,,make1,1,J. Teague,
+254,3,7:30.0,74,53,IND,NYK,18,away,JS,assist,13,make2,2,C. Anthony,D. Rose
+255,3,7:16.0,76,53,IND,NYK,14,home,JS,,11,make2,2,G. Robinson,
+256,3,7:14.0,76,53,IND,NYK,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Teague,D. Rose
+257,3,7:01.0,76,55,IND,NYK,13,away,JS,,6,make2,2,D. Rose,
+258,3,6:50.0,76,55,IND,NYK,11,home,JS,,18,miss2,0,G. Robinson,
+259,3,6:49.0,76,55,IND,NYK,1,home,OffReb,,,OffReb,,M. Turner,
+260,3,6:45.0,79,55,IND,NYK,4,home,JS,assist,26,make3,3,T. Young,M. Turner
+261,3,6:35.0,79,57,IND,NYK,10,away,JS,,7,make2,2,D. Rose,
+262,3,6:31.0,79,57,IND,NYK,4,home,LostBall,steal,,turnover,,J. Teague,C. Lee
+263,3,6:19.0,79,57,IND,NYK,12,away,JS,,19,miss2,0,D. Rose,
+264,3,6:18.0,79,57,IND,NYK,1,home,DefReb,,,DefReb,,G. Robinson,
+265,3,6:15.0,79,57,IND,NYK,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Noah,J. Teague
+266,3,6:15.0,79,57,IND,NYK,0,away,Sub,,,,,K. O'Quinn,J. Noah
+267,3,6:02.0,79,57,IND,NYK,13,home,LU,,2,miss2,0,T. Young,
+268,3,6:02.0,79,57,IND,NYK,0,home,OffReb,,,OffReb,,T. Young,
+269,3,6:00.0,81,57,IND,NYK,2,home,LU,,3,make2,2,T. Young,
+270,3,5:46.0,81,59,IND,NYK,14,away,JS,,13,make2,2,C. Anthony,
+271,3,5:46.0,81,59,IND,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Robinson,C. Anthony
+272,3,5:46.0,81,59,IND,NYK,0,home,Timeout,,,,,,
+273,3,5:46.0,81,59,IND,NYK,0,home,Sub,,,,,K. Séraphin,T. Young
+274,3,5:46.0,81,60,IND,NYK,0,away,FreeThrow,,,make1,1,C. Anthony,
+275,3,5:31.0,83,60,IND,NYK,15,home,JS,assist,17,make2,2,K. Séraphin,P. George
+276,3,5:13.0,83,62,IND,NYK,18,away,JS,assist,4,make2,2,K. O'Quinn,L. Thomas
+277,3,5:13.0,83,62,IND,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Robinson,K. O'Quinn
+278,3,5:13.0,83,63,IND,NYK,0,away,FreeThrow,,,make1,1,K. O'Quinn,
+279,3,4:57.0,85,63,IND,NYK,16,home,JS,,19,make2,2,P. George,
+280,3,4:35.0,85,63,IND,NYK,22,away,JS,,26,miss3,0,D. Rose,
+281,3,4:32.0,85,63,IND,NYK,3,away,OffReb,,,OffReb,,L. Thomas,
+282,3,4:29.0,85,65,IND,NYK,3,away,LU,assist,2,make2,2,K. O'Quinn,C. Anthony
+283,3,4:22.0,85,65,IND,NYK,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Séraphin,L. Thomas
+284,3,4:22.0,85,65,IND,NYK,0,home,OffensiveFoul,,,turnover,,K. Séraphin,
+285,3,4:10.0,85,65,IND,NYK,12,away,BadPass,steal,,turnover,,D. Rose,P. George
+286,3,4:04.0,87,65,IND,NYK,6,home,JS,,5,make2,2,P. George,
+287,3,3:51.0,87,65,IND,NYK,13,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. O'Quinn,J. Teague
+288,3,3:51.0,87,65,IND,NYK,0,away,OffensiveFoul,,,turnover,,K. O'Quinn,
+289,3,3:35.0,87,65,IND,NYK,16,home,LostBall,steal,,turnover,,P. George,D. Rose
+290,3,3:30.0,87,67,IND,NYK,5,away,DK,assist,3,make2,2,C. Lee,D. Rose
+291,3,3:10.0,87,67,IND,NYK,20,home,Traveling,,,turnover,,K. Séraphin,
+292,3,3:10.0,87,67,IND,NYK,0,away,Sub,,,,,B. Jennings,D. Rose
+293,3,2:57.0,87,67,IND,NYK,13,away,JS,,5,miss2,0,L. Thomas,
+294,3,2:56.0,87,67,IND,NYK,1,home,DefReb,,,DefReb,,P. George,
+295,3,2:42.0,87,67,IND,NYK,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. O'Quinn,P. George
+296,3,2:42.0,87,67,IND,NYK,0,away,Timeout,,,,,,
+297,3,2:42.0,88,67,IND,NYK,0,home,FreeThrow,,,make1,1,P. George,
+298,3,2:42.0,87,67,IND,NYK,0,home,Sub,,,,,A. Brooks,G. Robinson
+299,3,2:42.0,87,67,IND,NYK,0,home,Sub,,,,,M. Ellis,J. Teague
+300,3,2:42.0,89,67,IND,NYK,0,home,FreeThrow,,,make1,1,P. George,
+301,3,2:19.0,89,67,IND,NYK,23,away,JS,,26,miss3,0,L. Thomas,
+302,3,2:18.0,89,67,IND,NYK,1,home,DefReb,,,DefReb,,P. George,
+303,3,2:03.0,91,67,IND,NYK,15,home,JS,assist,11,make2,2,M. Turner,M. Ellis
+304,3,2:03.0,91,67,IND,NYK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Anthony,M. Turner
+305,3,2:03.0,92,67,IND,NYK,0,home,FreeThrow,,,make1,1,M. Turner,
+306,3,1:54.0,92,67,IND,NYK,9,away,JS,,13,miss2,0,C. Lee,
+307,3,1:52.0,92,67,IND,NYK,2,home,DefReb,,,DefReb,,M. Turner,
+308,3,1:36.0,92,67,IND,NYK,16,home,BadPass,steal,,turnover,,P. George,K. O'Quinn
+309,3,1:25.0,92,70,IND,NYK,11,away,JS,assist,26,make3,3,C. Anthony,B. Jennings
+310,3,1:06.0,92,70,IND,NYK,19,home,JS,,11,miss2,0,M. Turner,
+311,3,1:05.0,92,70,IND,NYK,1,away,DefReb,,,DefReb,,K. O'Quinn,
+312,3,0:54.0,92,70,IND,NYK,11,away,LU,,2,miss2,0,C. Anthony,
+313,3,0:54.0,92,70,IND,NYK,0,home,DefReb,,,DefReb,,P. George,
+314,3,0:49.0,92,70,IND,NYK,5,home,LU,,3,miss2,0,P. George,
+315,3,0:49.0,92,70,IND,NYK,0,home,OffReb,,,OffReb,,A. Brooks,
+316,3,0:49.0,94,70,IND,NYK,0,home,LU,,2,make2,2,A. Brooks,
+317,3,0:35.0,94,70,IND,NYK,14,away,JS,,6,miss2,0,B. Jennings,
+318,3,0:35.0,94,70,IND,NYK,0,home,DefReb,,,DefReb,,M. Turner,
+319,3,0:22.0,96,70,IND,NYK,13,home,DK,assist,1,make2,2,M. Turner,K. Séraphin
+320,3,0:05.0,96,70,IND,NYK,17,away,JS,,26,miss3,0,C. Anthony,
+321,3,0:05.0,96,70,IND,NYK,0,home,DefReb,,,DefReb,,K. Séraphin,
+322,3,0:00.0,96,70,IND,NYK,5,home,JS,,40,miss3,0,P. George,
+323,3,0:00.0,96,70,IND,NYK,0,home,OffReb,,,OffReb,,Team,
+324,4,11:49.0,96,70,IND,NYK,11,away,JS,,25,miss3,0,M. Kuzminskas,
+325,4,11:48.0,96,70,IND,NYK,1,home,DefReb,,,DefReb,,M. Ellis,
+326,4,11:27.0,99,70,IND,NYK,21,home,JS,assist,25,make3,3,C. Miles,K. Séraphin
+327,4,11:12.0,99,73,IND,NYK,15,away,JS,assist,24,make3,3,B. Jennings,M. Kuzminskas
+328,4,10:53.0,101,73,IND,NYK,19,home,JS,assist,6,make2,2,A. Jefferson,M. Ellis
+329,4,10:45.0,101,75,IND,NYK,8,away,LU,,3,make2,2,B. Jennings,
+330,4,10:28.0,101,75,IND,NYK,17,home,JS,,7,miss2,0,A. Jefferson,
+331,4,10:26.0,101,75,IND,NYK,2,home,OffReb,,,OffReb,,K. Séraphin,
+332,4,10:26.0,101,75,IND,NYK,0,home,LU,,2,miss2,0,K. Séraphin,
+333,4,10:25.0,101,75,IND,NYK,1,away,DefReb,,,DefReb,,M. Kuzminskas,
+334,4,10:18.0,101,77,IND,NYK,7,away,JS,,20,make2,2,B. Jennings,
+335,4,10:08.0,101,77,IND,NYK,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Jennings,A. Brooks
+336,4,10:00.0,101,77,IND,NYK,8,home,LostBall,steal,,turnover,,M. Ellis,R. Baker
+337,4,9:57.0,101,79,IND,NYK,3,away,LU,assist,1,make2,2,W. Hernangómez,R. Baker
+338,4,9:57.0,101,79,IND,NYK,0,away,FlagrantFoul1,DrawnBy,,FlagrantFoul1,,A. Brooks,W. Hernangómez
+339,4,9:57.0,101,80,IND,NYK,0,away,FreeThrow,,,make1,1,W. Hernangómez makes flagrant free throw 1 of 1,
+340,4,9:50.0,101,80,IND,NYK,7,away,JS,,26,miss3,0,B. Jennings,
+341,4,9:49.0,101,80,IND,NYK,1,home,DefReb,,,DefReb,,K. Séraphin,
+342,4,9:36.0,101,80,IND,NYK,13,home,BadPass,,,turnover,,C. Miles,
+343,4,9:31.0,101,80,IND,NYK,5,away,JS,,5,miss2,0,W. Hernangómez,
+344,4,9:30.0,101,80,IND,NYK,1,home,DefReb,,,DefReb,,K. Séraphin,
+345,4,9:22.0,101,80,IND,NYK,8,home,LU,,3,miss2,0,M. Ellis,
+346,4,9:22.0,101,80,IND,NYK,0,home,OffReb,,,OffReb,,A. Jefferson,
+347,4,9:22.0,101,80,IND,NYK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kuzminskas,A. Jefferson
+348,4,9:22.0,102,80,IND,NYK,0,home,FreeThrow,,,make1,1,A. Jefferson,
+349,4,9:22.0,103,80,IND,NYK,0,home,FreeThrow,,,make1,1,A. Jefferson,
+350,4,9:08.0,103,80,IND,NYK,14,away,BadPass,steal,,turnover,,W. Hernangómez,C. Miles
+351,4,8:54.0,106,80,IND,NYK,14,home,JS,assist,23,make3,3,C. Miles,A. Jefferson
+352,4,8:44.0,106,83,IND,NYK,10,away,JS,assist,27,make3,3,K. Porziņģis,B. Jennings
+353,4,8:30.0,106,83,IND,NYK,14,home,JS,,27,miss3,0,C. Miles,
+354,4,8:30.0,106,83,IND,NYK,0,away,DefReb,,,DefReb,,Team,
+355,4,8:30.0,106,83,IND,NYK,0,away,Timeout,,,,,,
+356,4,8:15.0,106,83,IND,NYK,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Miles,M. Kuzminskas
+357,4,8:15.0,106,84,IND,NYK,0,away,FreeThrow,,,make1,1,M. Kuzminskas,
+358,4,8:15.0,106,85,IND,NYK,0,away,FreeThrow,,,make1,1,M. Kuzminskas,
+359,4,8:04.0,106,85,IND,NYK,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Baker,A. Jefferson
+360,4,8:04.0,107,85,IND,NYK,0,home,FreeThrow,,,make1,1,A. Jefferson,
+361,4,8:04.0,108,85,IND,NYK,0,home,FreeThrow,,,make1,1,A. Jefferson,
+362,4,7:43.0,108,88,IND,NYK,21,away,JS,assist,27,make3,3,M. Kuzminskas,R. Baker
+363,4,7:28.0,108,88,IND,NYK,15,home,OutOfBounds,,,turnover,,M. Ellis,
+364,4,7:22.0,108,91,IND,NYK,6,away,JS,,25,make3,3,B. Jennings,
+365,4,7:06.0,108,91,IND,NYK,16,home,JS,,6,miss2,0,A. Jefferson,
+366,4,7:06.0,108,91,IND,NYK,0,away,DefReb,,,DefReb,,M. Kuzminskas,
+367,4,6:59.0,108,93,IND,NYK,7,away,JS,,12,make2,2,B. Jennings,
+368,4,6:59.0,108,93,IND,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Brooks,B. Jennings
+369,4,6:59.0,108,93,IND,NYK,0,away,FreeThrow,,,make1,0,B. Jennings,
+370,4,6:59.0,108,93,IND,NYK,0,home,DefReb,,,DefReb,,A. Jefferson,
+371,4,6:59.0,108,93,IND,NYK,0,home,Sub,,,,,J. Teague,A. Brooks
+372,4,6:42.0,108,93,IND,NYK,17,home,JS,block,6,miss2,0,A. Jefferson,K. Porziņģis
+373,4,6:40.0,108,93,IND,NYK,2,away,DefReb,,,DefReb,,B. Jennings,
+374,4,6:34.0,108,93,IND,NYK,6,away,JS,,26,miss3,0,M. Kuzminskas,
+375,4,6:34.0,108,93,IND,NYK,0,away,OffReb,,,OffReb,,B. Jennings,
+376,4,6:30.0,108,93,IND,NYK,4,away,JS,,10,miss2,0,B. Jennings,
+377,4,6:28.0,108,93,IND,NYK,2,home,DefReb,,,DefReb,,M. Ellis,
+378,4,6:26.0,108,93,IND,NYK,2,home,Timeout,,,,,,
+379,4,6:26.0,108,93,IND,NYK,0,home,Sub,,,,,P. George,K. Séraphin
+380,4,6:26.0,108,93,IND,NYK,0,home,Sub,,,,,M. Turner,A. Jefferson
+381,4,6:26.0,108,93,IND,NYK,0,home,Sub,,,,,T. Young,C. Miles
+382,4,6:10.0,108,93,IND,NYK,16,home,DK,,4,miss2,0,P. George,
+383,4,6:09.0,108,93,IND,NYK,1,away,DefReb,,,DefReb,,R. Baker,
+384,4,6:01.0,108,93,IND,NYK,8,away,LU,,4,miss2,0,W. Hernangómez,
+385,4,6:00.0,108,93,IND,NYK,1,away,OffReb,,,OffReb,,M. Kuzminskas,
+386,4,5:59.0,108,95,IND,NYK,1,away,LU,,2,make2,2,M. Kuzminskas,
+387,4,5:55.0,108,95,IND,NYK,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Baker,M. Ellis
+388,4,5:55.0,109,95,IND,NYK,0,home,FreeThrow,,,make1,1,M. Ellis,
+389,4,5:55.0,110,95,IND,NYK,0,home,FreeThrow,,,make1,1,M. Ellis,
+390,4,5:37.0,110,97,IND,NYK,18,away,LU,,4,make2,2,M. Kuzminskas,
+391,4,5:24.0,110,97,IND,NYK,13,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Turner,B. Jennings
+392,4,5:24.0,110,97,IND,NYK,0,home,OffensiveFoul,,,turnover,,M. Turner,
+393,4,5:24.0,110,97,IND,NYK,0,home,Sub,,,,,G. Robinson,M. Ellis
+394,4,5:13.0,110,97,IND,NYK,11,away,BadPass,steal,,turnover,,B. Jennings,J. Teague
+395,4,5:01.0,110,97,IND,NYK,12,home,LU,block,3,miss2,0,J. Teague,K. Porziņģis
+396,4,5:00.0,110,97,IND,NYK,1,away,DefReb,,,DefReb,,R. Baker,
+397,4,4:57.0,110,99,IND,NYK,3,away,DK,assist,3,make2,2,M. Kuzminskas,B. Jennings
+398,4,4:41.0,110,99,IND,NYK,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Baker,P. George
+399,4,4:41.0,111,99,IND,NYK,0,home,FreeThrow,,,make1,1,P. George,
+400,4,4:41.0,112,99,IND,NYK,0,home,FreeThrow,,,make1,1,P. George,
+401,4,4:29.0,112,99,IND,NYK,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Teague,B. Jennings
+402,4,4:29.0,112,99,IND,NYK,0,away,FreeThrow,,,make1,0,B. Jennings,
+403,4,4:29.0,112,99,IND,NYK,0,away,OffReb,,,OffReb,,Team,
+404,4,4:29.0,112,100,IND,NYK,0,away,FreeThrow,,,make1,1,B. Jennings,
+405,4,4:07.0,112,100,IND,NYK,22,home,BadPass,,,turnover,,M. Turner,
+406,4,3:58.0,112,100,IND,NYK,9,away,JS,,26,miss3,0,M. Kuzminskas,
+407,4,3:57.0,112,100,IND,NYK,1,home,DefReb,,,DefReb,,J. Teague,
+408,4,3:50.0,114,100,IND,NYK,7,home,DK,assist,0,make2,2,T. Young,J. Teague
+409,4,3:50.0,114,100,IND,NYK,0,away,Timeout,,,,,,
+410,4,3:39.0,114,102,IND,NYK,11,away,DK,assist,1,make2,2,M. Kuzminskas,K. Porziņģis
+411,4,3:18.0,116,102,IND,NYK,21,home,JS,,19,make2,2,P. George,
+412,4,3:02.0,116,102,IND,NYK,16,away,JS,,26,miss3,0,W. Hernangómez,
+413,4,3:01.0,116,102,IND,NYK,1,home,DefReb,,,DefReb,,T. Young,
+414,4,2:41.0,116,102,IND,NYK,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Porziņģis,J. Teague
+415,4,2:41.0,117,102,IND,NYK,0,home,FreeThrow,,,make1,1,J. Teague,
+416,4,2:41.0,118,102,IND,NYK,0,home,FreeThrow,,,make1,1,J. Teague,
+417,4,2:28.0,118,102,IND,NYK,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,K. Porziņģis
+418,4,2:28.0,118,103,IND,NYK,0,away,FreeThrow,,,make1,1,K. Porziņģis,
+419,4,2:28.0,118,104,IND,NYK,0,away,FreeThrow,,,make1,1,K. Porziņģis,
+420,4,2:14.0,118,104,IND,NYK,14,home,LostBall,steal,,turnover,,P. George,K. Porziņģis
+421,4,2:08.0,118,107,IND,NYK,6,away,JS,,27,make3,3,B. Jennings,
+422,4,1:55.0,118,107,IND,NYK,13,home,LostBall,,,turnover,,G. Robinson,
+423,4,1:50.0,118,107,IND,NYK,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Young,B. Jennings
+424,4,1:50.0,118,108,IND,NYK,0,away,FreeThrow,,,make1,1,B. Jennings,
+425,4,1:50.0,118,108,IND,NYK,0,away,FreeThrow,,,make1,0,B. Jennings,
+426,4,1:49.0,118,108,IND,NYK,1,home,DefReb,,,DefReb,,T. Young,
+427,4,1:49.0,118,108,IND,NYK,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Porziņģis,T. Young
+428,4,1:49.0,119,108,IND,NYK,0,home,FreeThrow,,,make1,1,T. Young,
+429,4,1:49.0,120,108,IND,NYK,0,home,FreeThrow,,,make1,1,T. Young,
+430,4,1:49.0,120,108,IND,NYK,0,away,Timeout,,,,,,
+431,4,1:43.0,120,108,IND,NYK,6,away,LostBall,steal,,turnover,,K. Porziņģis,T. Young
+432,4,1:42.0,120,108,IND,NYK,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Kuzminskas,T. Young
+433,4,1:42.0,120,108,IND,NYK,0,home,FreeThrow,,,make1,0,T. Young,
+434,4,1:42.0,120,108,IND,NYK,0,home,OffReb,,,OffReb,,Team,
+435,4,1:42.0,120,108,IND,NYK,0,home,FreeThrow,,,make1,0,T. Young,
+436,4,1:42.0,120,108,IND,NYK,0,away,DefReb,,,DefReb,,W. Hernangómez,
+437,4,1:42.0,120,108,IND,NYK,0,home,Sub,,,,,C. Miles,P. George
+438,4,1:35.0,120,108,IND,NYK,7,away,JS,,26,miss3,0,B. Jennings,
+439,4,1:34.0,120,108,IND,NYK,1,home,DefReb,,,DefReb,,C. Miles,
+440,4,1:17.0,120,108,IND,NYK,17,home,LU,block,2,miss2,0,J. Teague,W. Hernangómez
+441,4,1:17.0,120,108,IND,NYK,0,home,OffReb,,,OffReb,,Team,
+442,4,1:17.0,120,108,IND,NYK,0,away,Sub,,,,,J. Holiday,K. Porziņģis
+443,4,1:17.0,120,108,IND,NYK,0,home,Sub,,,,,J. Young,J. Teague
+444,4,1:17.0,120,108,IND,NYK,0,home,Sub,,,,,K. Séraphin,T. Young
+445,4,1:17.0,120,108,IND,NYK,0,home,Sub,,,,,G. Niang,M. Turner
+446,4,1:12.0,120,108,IND,NYK,5,home,JS,,26,miss3,0,J. Young,
+447,4,1:11.0,120,108,IND,NYK,1,away,DefReb,,,DefReb,,W. Hernangómez,
+448,4,1:03.0,120,108,IND,NYK,8,away,JS,,26,miss3,0,W. Hernangómez,
+449,4,1:02.0,120,108,IND,NYK,1,home,DefReb,,,DefReb,,G. Robinson,
+450,4,0:44.0,120,108,IND,NYK,18,home,JS,,23,miss2,0,K. Séraphin,
+451,4,0:42.0,120,108,IND,NYK,2,away,DefReb,,,DefReb,,B. Jennings,
+452,4,0:38.0,120,108,IND,NYK,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Young,R. Baker
+453,4,0:38.0,120,108,IND,NYK,0,away,FreeThrow,,,make1,0,R. Baker,
+454,4,0:38.0,120,108,IND,NYK,0,away,OffReb,,,OffReb,,Team,
+455,4,0:38.0,120,109,IND,NYK,0,away,FreeThrow,,,make1,1,R. Baker,
+456,4,0:26.0,123,109,IND,NYK,12,home,JS,assist,23,make3,3,G. Robinson,J. Young
+457,4,0:21.0,123,109,IND,NYK,5,home,TechnicalFoul,,,TechnicalFoul,,J. Young,
+458,4,0:21.0,123,109,IND,NYK,0,away,TechnicalFoul,,,TechnicalFoul,,B. Jennings,
+459,4,0:21.0,123,109,IND,NYK,0,home,Sub,,,,,A. Brooks,J. Young
+460,4,0:21.0,123,109,IND,NYK,0,away,Sub,,,,,C. Lee,B. Jennings
+461,4,0:16.0,123,109,IND,NYK,5,away,JS,,26,miss3,0,R. Baker,
+462,4,0:14.0,123,109,IND,NYK,2,home,DefReb,,,DefReb,,C. Miles,

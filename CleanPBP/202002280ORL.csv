@@ -1,0 +1,475 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:48.0,2,0,ORL,MIN,12,home,LU,assist,2,make2,2,N. Vučević,A. Gordon
+1,1,11:35.0,2,0,ORL,MIN,13,away,LU,,4,miss2,0,D. Russell,
+2,1,11:33.0,2,0,ORL,MIN,2,home,DefReb,,,DefReb,,N. Vučević,
+3,1,11:26.0,2,0,ORL,MIN,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Okogie,A. Gordon
+4,1,11:26.0,2,0,ORL,MIN,0,home,FreeThrow,,,make1,0,A. Gordon,
+5,1,11:26.0,2,0,ORL,MIN,0,home,OffReb,,,OffReb,,Team,
+6,1,11:26.0,3,0,ORL,MIN,0,home,FreeThrow,,,make1,1,A. Gordon,
+7,1,11:11.0,3,0,ORL,MIN,15,away,bad pass,steal,,turnover,,J. Hernangómez,M. Fultz
+8,1,11:06.0,5,0,ORL,MIN,5,home,DK,assist,0,make2,2,J. Ennis,A. Gordon
+9,1,11:06.0,5,0,ORL,MIN,0,away,Timeout,,,,,,
+10,1,10:53.0,5,2,ORL,MIN,13,away,JS,,9,make2,2,D. Russell,
+11,1,10:33.0,5,2,ORL,MIN,20,home,LU,block,1,miss2,0,M. Fultz,D. Russell
+12,1,10:24.0,5,2,ORL,MIN,9,home,OffReb,,,OffReb,,A. Gordon,
+13,1,10:24.0,5,2,ORL,MIN,0,home,LU,,0,miss2,0,A. Gordon,
+14,1,10:23.0,5,2,ORL,MIN,1,away,DefReb,,,DefReb,,J. Hernangómez,
+15,1,10:21.0,5,2,ORL,MIN,2,away,JS,,8,miss2,0,D. Russell,
+16,1,10:19.0,5,2,ORL,MIN,2,home,DefReb,,,DefReb,,A. Gordon,
+17,1,10:18.0,5,2,ORL,MIN,1,home,bad pass,steal,,turnover,,A. Gordon,J. Hernangómez
+18,1,10:13.0,5,2,ORL,MIN,5,away,BadPass,,,turnover,,D. Russell,
+19,1,10:02.0,7,2,ORL,MIN,11,home,JS,assist,17,make2,2,M. Fultz,N. Vučević
+20,1,9:51.0,7,2,ORL,MIN,11,away,LU,block,10,miss2,0,N. Reid,N. Vučević
+21,1,9:51.0,7,2,ORL,MIN,0,away,OffReb,,,OffReb,,Team,
+22,1,9:42.0,7,2,ORL,MIN,9,away,JS,,26,miss3,0,J. Hernangómez,
+23,1,9:39.0,7,2,ORL,MIN,3,home,DefReb,,,DefReb,,J. Ennis,
+24,1,9:33.0,9,2,ORL,MIN,6,home,LU,assist,0,make2,2,E. Fournier,M. Fultz
+25,1,9:19.0,9,5,ORL,MIN,14,away,JS,assist,24,make3,3,J. Okogie,J. Hernangómez
+26,1,8:55.0,11,5,ORL,MIN,24,home,JS,,14,make2,2,E. Fournier,
+27,1,8:47.0,11,5,ORL,MIN,8,away,BadPass,,,turnover,,D. Russell,
+28,1,8:40.0,11,5,ORL,MIN,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Fultz,J. Hernangómez
+29,1,8:40.0,11,5,ORL,MIN,0,home,OffensiveFoul,,,turnover,,M. Fultz,
+30,1,8:28.0,11,7,ORL,MIN,12,away,JS,,14,make2,2,M. Beasley,
+31,1,8:15.0,13,7,ORL,MIN,13,home,JS,assist,3,make2,2,N. Vučević,M. Fultz
+32,1,8:01.0,13,9,ORL,MIN,14,away,LU,assist,1,make2,2,J. Hernangómez,J. Okogie
+33,1,7:44.0,13,9,ORL,MIN,17,home,JS,,26,miss3,0,J. Ennis,
+34,1,7:41.0,13,9,ORL,MIN,3,away,DefReb,,,DefReb,,J. Hernangómez,
+35,1,7:34.0,13,9,ORL,MIN,7,away,JS,,27,miss3,0,M. Beasley,
+36,1,7:30.0,13,9,ORL,MIN,4,home,DefReb,,,DefReb,,J. Ennis,
+37,1,7:24.0,13,9,ORL,MIN,6,home,BadPass,,,turnover,,N. Vučević,
+38,1,7:12.0,13,9,ORL,MIN,12,away,JS,,7,miss2,0,D. Russell,
+39,1,7:10.0,13,9,ORL,MIN,2,home,DefReb,,,DefReb,,A. Gordon,
+40,1,6:55.0,13,9,ORL,MIN,15,home,JS,,26,miss3,0,A. Gordon,
+41,1,6:51.0,13,9,ORL,MIN,4,away,DefReb,,,DefReb,,N. Reid,
+42,1,6:40.0,13,12,ORL,MIN,11,away,JS,assist,27,make3,3,N. Reid,D. Russell
+43,1,6:28.0,15,12,ORL,MIN,12,home,JS,assist,18,make2,2,M. Fultz,A. Gordon
+44,1,6:06.0,15,15,ORL,MIN,22,away,JS,,27,make3,3,D. Russell,
+45,1,5:54.0,17,15,ORL,MIN,12,home,JS,assist,12,make2,2,N. Vučević,M. Fultz
+46,1,5:44.0,17,17,ORL,MIN,10,away,JS,,20,make2,2,D. Russell,
+47,1,5:33.0,17,17,ORL,MIN,11,home,Timeout,,,,,,
+48,1,5:33.0,17,17,ORL,MIN,0,away,Sub,,,,,J. Layman,M. Beasley
+49,1,5:33.0,17,17,ORL,MIN,0,home,Sub,,,,,T. Ross,J. Ennis
+50,1,5:33.0,17,17,ORL,MIN,0,away,DelayOfGame,,,DelayOfGame,,Team,
+51,1,5:24.0,19,17,ORL,MIN,9,home,LU,assist,2,make2,2,A. Gordon,N. Vučević
+52,1,5:12.0,19,19,ORL,MIN,12,away,DK,assist,1,make2,2,J. Okogie,J. Hernangómez
+53,1,5:01.0,19,19,ORL,MIN,11,home,JS,,27,miss3,0,N. Vučević,
+54,1,5:01.0,19,19,ORL,MIN,0,away,DefReb,,,DefReb,,D. Russell,
+55,1,4:49.0,19,21,ORL,MIN,12,away,JS,,19,make2,2,D. Russell,
+56,1,4:36.0,19,21,ORL,MIN,13,home,LU,block,5,miss2,0,N. Vučević,N. Reid
+57,1,4:36.0,19,21,ORL,MIN,0,home,OffReb,,,OffReb,,Team,
+58,1,4:36.0,19,21,ORL,MIN,0,away,Sub,,,,,J. Culver,J. Hernangómez
+59,1,4:36.0,19,21,ORL,MIN,0,away,Sub,,,,,J. Johnson,J. Okogie
+60,1,4:35.0,19,21,ORL,MIN,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Russell,M. Fultz
+61,1,4:35.0,19,21,ORL,MIN,0,home,FreeThrow,,,make1,0,M. Fultz,
+62,1,4:35.0,19,21,ORL,MIN,0,home,OffReb,,,OffReb,,Team,
+63,1,4:35.0,20,21,ORL,MIN,0,home,FreeThrow,,,make1,1,M. Fultz,
+64,1,4:24.0,20,24,ORL,MIN,11,away,JS,assist,25,make3,3,D. Russell,N. Reid
+65,1,4:07.0,20,24,ORL,MIN,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Culver,E. Fournier
+66,1,4:07.0,20,24,ORL,MIN,0,away,Sub,,,,,K. Martin,N. Reid
+67,1,4:07.0,20,24,ORL,MIN,0,home,Sub,,,,,D. Augustin,E. Fournier
+68,1,4:07.0,20,24,ORL,MIN,0,home,Sub,,,,,M. Carter-Williams,M. Fultz
+69,1,4:01.0,23,24,ORL,MIN,6,home,JS,assist,28,make3,3,T. Ross,A. Gordon
+70,1,3:47.0,23,24,ORL,MIN,14,away,DK,block,2,miss2,0,J. Layman,A. Gordon
+71,1,3:42.0,23,24,ORL,MIN,5,home,DefReb,,,DefReb,,N. Vučević,
+72,1,3:38.0,25,24,ORL,MIN,4,home,JS,assist,15,make2,2,M. Carter-Williams,T. Ross
+73,1,3:28.0,25,24,ORL,MIN,10,away,JS,,23,miss3,0,J. Johnson,
+74,1,3:25.0,25,24,ORL,MIN,3,home,DefReb,,,DefReb,,A. Gordon,
+75,1,3:16.0,27,24,ORL,MIN,9,home,JS,assist,5,make2,2,N. Vučević,A. Gordon
+76,1,3:02.0,27,24,ORL,MIN,14,away,JS,,27,miss3,0,D. Russell,
+77,1,2:59.0,27,24,ORL,MIN,3,home,DefReb,,,DefReb,,A. Gordon,
+78,1,2:50.0,29,24,ORL,MIN,9,home,JS,,9,make2,2,A. Gordon,
+79,1,2:50.0,29,24,ORL,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Martin,A. Gordon
+80,1,2:50.0,29,24,ORL,MIN,0,home,Sub,,,,,M. Bamba,N. Vučević
+81,1,2:50.0,30,24,ORL,MIN,0,home,FreeThrow,,,make1,1,A. Gordon,
+82,1,2:37.0,30,26,ORL,MIN,13,away,LU,assist,4,make2,2,J. Layman,D. Russell
+83,1,2:23.0,30,26,ORL,MIN,14,home,LU,,4,miss2,0,M. Bamba,
+84,1,2:21.0,30,26,ORL,MIN,2,away,DefReb,,,DefReb,,J. Culver,
+85,1,2:15.0,30,28,ORL,MIN,6,away,LU,assist,2,make2,2,J. Johnson,J. Culver
+86,1,1:56.0,30,28,ORL,MIN,19,home,HS,,4,miss2,0,A. Gordon,
+87,1,1:54.0,30,28,ORL,MIN,2,away,DefReb,,,DefReb,,D. Russell,
+88,1,1:47.0,30,31,ORL,MIN,7,away,JS,assist,26,make3,3,J. Culver,J. Johnson
+89,1,1:32.0,30,31,ORL,MIN,15,home,JS,,27,miss3,0,T. Ross,
+90,1,1:31.0,30,31,ORL,MIN,1,home,OffReb,,,OffReb,,M. Bamba,
+91,1,1:30.0,32,31,ORL,MIN,1,home,DK,,0,make2,2,M. Bamba,
+92,1,1:12.0,32,31,ORL,MIN,18,away,LU,,3,miss2,0,J. Culver,
+93,1,1:10.0,32,31,ORL,MIN,2,home,DefReb,,,DefReb,,M. Bamba,
+94,1,1:02.0,35,31,ORL,MIN,8,home,JS,assist,25,make3,3,M. Carter-Williams,T. Ross
+95,1,0:43.0,35,33,ORL,MIN,19,away,JS,assist,11,make2,2,K. Martin,D. Russell
+96,1,0:32.0,35,33,ORL,MIN,11,home,JS,,27,miss3,0,A. Gordon,
+97,1,0:28.0,35,33,ORL,MIN,4,away,DefReb,,,DefReb,,J. Johnson,
+98,1,0:22.0,35,33,ORL,MIN,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bamba,K. Martin
+99,1,0:22.0,35,34,ORL,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+100,1,0:22.0,35,34,ORL,MIN,0,away,Sub,,,,,J. Okogie,D. Russell
+101,1,0:22.0,35,34,ORL,MIN,0,home,Sub,,,,,J. Ennis,A. Gordon
+102,1,0:22.0,35,35,ORL,MIN,0,away,FreeThrow,,,make1,1,K. Martin,
+103,1,0:00.0,35,35,ORL,MIN,22,home,JS,block,14,miss2,0,D. Augustin,J. Johnson
+104,1,0:00.0,35,35,ORL,MIN,0,home,OffReb,,,OffReb,,Team,
+105,2,11:48.0,35,37,ORL,MIN,12,away,LU,,4,make2,2,J. Johnson,
+106,2,11:28.0,35,37,ORL,MIN,20,home,OutOfBounds,,,turnover,,M. Bamba,
+107,2,11:15.0,35,37,ORL,MIN,13,away,JS,,25,miss3,0,J. Culver,
+108,2,11:11.0,35,37,ORL,MIN,4,home,DefReb,,,DefReb,,M. Bamba,
+109,2,11:02.0,35,37,ORL,MIN,9,home,LU,,1,miss2,0,M. Carter-Williams,
+110,2,11:00.0,35,37,ORL,MIN,2,away,DefReb,,,DefReb,,M. Beasley,
+111,2,10:56.0,35,37,ORL,MIN,4,away,LU,block,6,miss2,0,M. Beasley,J. Ennis
+112,2,10:56.0,35,37,ORL,MIN,0,home,DefReb,,,DefReb,,Team,
+113,2,10:40.0,35,37,ORL,MIN,16,home,JS,,7,miss2,0,T. Ross,
+114,2,10:38.0,35,37,ORL,MIN,2,home,OffReb,,,OffReb,,J. Ennis,
+115,2,10:36.0,37,37,ORL,MIN,2,home,JS,,2,make2,2,J. Ennis,
+116,2,10:26.0,37,37,ORL,MIN,10,away,JS,,26,miss3,0,K. Martin,
+117,2,10:26.0,37,37,ORL,MIN,0,home,DefReb,,,DefReb,,M. Carter-Williams,
+118,2,10:11.0,39,37,ORL,MIN,15,home,JS,,16,make2,2,D. Augustin,
+119,2,9:54.0,39,39,ORL,MIN,17,away,LU,,4,make2,2,J. Johnson,
+120,2,9:34.0,39,39,ORL,MIN,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Martin,M. Carter-Williams
+121,2,9:34.0,40,39,ORL,MIN,0,home,FreeThrow,,,make1,1,M. Carter-Williams,
+122,2,9:34.0,41,39,ORL,MIN,0,home,FreeThrow,,,make1,1,M. Carter-Williams,
+123,2,9:23.0,41,41,ORL,MIN,11,away,LU,assist,4,make2,2,J. Culver,J. McLaughlin
+124,2,9:23.0,41,41,ORL,MIN,0,home,DefGoaltending,,,DefGoaltending,,Team,
+125,2,9:08.0,43,41,ORL,MIN,15,home,LU,assist,2,make2,2,M. Bamba,J. Ennis
+126,2,9:08.0,43,41,ORL,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,M. Bamba
+127,2,9:08.0,44,41,ORL,MIN,0,home,FreeThrow,,,make1,1,M. Bamba,
+128,2,8:59.0,44,43,ORL,MIN,9,away,LU,,2,make2,2,J. Johnson,
+129,2,8:59.0,44,43,ORL,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bamba,J. Johnson
+130,2,8:59.0,44,43,ORL,MIN,0,away,FreeThrow,,,make1,0,J. Johnson,
+131,2,8:59.0,44,43,ORL,MIN,0,home,DefReb,,,DefReb,,Team,
+132,2,8:46.0,47,43,ORL,MIN,13,home,JS,assist,25,make3,3,T. Ross,D. Augustin
+133,2,8:35.0,47,45,ORL,MIN,11,away,LU,,1,make2,2,J. Johnson,
+134,2,8:21.0,47,45,ORL,MIN,14,home,JS,,27,miss3,0,T. Ross,
+135,2,8:21.0,47,45,ORL,MIN,0,home,OffReb,,,OffReb,,Team,
+136,2,8:21.0,47,45,ORL,MIN,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Martin,J. Ennis
+137,2,8:21.0,47,45,ORL,MIN,0,away,Sub,,,,,J. Hernangómez,K. Martin
+138,2,8:21.0,47,45,ORL,MIN,0,home,Sub,,,,,N. Vučević,M. Bamba
+139,2,8:12.0,49,45,ORL,MIN,9,home,JS,assist,6,make2,2,T. Ross,D. Augustin
+140,2,8:04.0,49,45,ORL,MIN,8,away,LU,block,3,miss2,0,J. Culver,M. Carter-Williams
+141,2,8:03.0,49,45,ORL,MIN,1,home,DefReb,,,DefReb,,N. Vučević,
+142,2,7:50.0,49,45,ORL,MIN,13,home,JS,,27,miss3,0,T. Ross,
+143,2,7:48.0,49,45,ORL,MIN,2,home,OffReb,,,OffReb,,D. Augustin,
+144,2,7:37.0,51,45,ORL,MIN,11,home,JS,,3,make2,2,N. Vučević,
+145,2,7:35.0,51,45,ORL,MIN,2,away,Timeout,,,,,,
+146,2,7:35.0,51,45,ORL,MIN,0,away,Sub,,,,,N. Reid,J. Johnson
+147,2,7:35.0,51,45,ORL,MIN,0,home,Sub,,,,,A. Gordon,J. Ennis
+148,2,7:24.0,51,45,ORL,MIN,11,away,LU,,2,miss2,0,N. Reid,
+149,2,7:22.0,51,45,ORL,MIN,2,home,DefReb,,,DefReb,,T. Ross,
+150,2,7:13.0,51,45,ORL,MIN,9,home,JS,block,13,miss2,0,N. Vučević,N. Reid
+151,2,7:13.0,51,45,ORL,MIN,0,away,DefReb,,,DefReb,,Team,
+152,2,7:02.0,51,45,ORL,MIN,11,away,JS,,3,miss2,0,M. Beasley,
+153,2,7:01.0,51,45,ORL,MIN,1,home,DefReb,,,DefReb,,N. Vučević,
+154,2,6:51.0,53,45,ORL,MIN,10,home,LU,assist,2,make2,2,N. Vučević,D. Augustin
+155,2,6:40.0,53,45,ORL,MIN,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Augustin,J. McLaughlin
+156,2,6:40.0,53,46,ORL,MIN,0,away,FreeThrow,,,make1,1,J. McLaughlin,
+157,2,6:40.0,53,46,ORL,MIN,0,away,Sub,,,,,J. Okogie,J. Culver
+158,2,6:40.0,53,46,ORL,MIN,0,home,Sub,,,,,E. Fournier,D. Augustin
+159,2,6:40.0,53,46,ORL,MIN,0,home,Sub,,,,,M. Fultz,M. Carter-Williams
+160,2,6:40.0,53,46,ORL,MIN,0,away,FreeThrow,,,make1,0,J. McLaughlin,
+161,2,6:37.0,53,46,ORL,MIN,3,home,DefReb,,,DefReb,,A. Gordon,
+162,2,6:28.0,53,46,ORL,MIN,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Reid,N. Vučević
+163,2,6:28.0,53,46,ORL,MIN,0,away,Sub,,,,,D. Russell,J. McLaughlin
+164,2,6:23.0,53,46,ORL,MIN,5,home,JS,,27,miss3,0,A. Gordon,
+165,2,6:20.0,53,46,ORL,MIN,3,away,DefReb,,,DefReb,,J. Okogie,
+166,2,6:12.0,53,48,ORL,MIN,8,away,LU,assist,1,make2,2,M. Beasley,J. Okogie
+167,2,6:00.0,53,48,ORL,MIN,12,home,JS,,27,miss3,0,T. Ross,
+168,2,5:57.0,53,48,ORL,MIN,3,away,DefReb,,,DefReb,,J. Okogie,
+169,2,5:46.0,53,48,ORL,MIN,11,away,JS,,26,miss3,0,M. Beasley,
+170,2,5:43.0,53,48,ORL,MIN,3,home,DefReb,,,DefReb,,N. Vučević,
+171,2,5:37.0,56,48,ORL,MIN,6,home,JS,assist,26,make3,3,T. Ross,M. Fultz
+172,2,5:26.0,56,48,ORL,MIN,11,away,bad pass,steal,,turnover,,D. Russell,E. Fournier
+173,2,5:21.0,56,48,ORL,MIN,5,home,JS,,28,miss3,0,N. Vučević,
+174,2,5:18.0,56,48,ORL,MIN,3,home,OffReb,,,OffReb,,M. Fultz,
+175,2,5:17.0,58,48,ORL,MIN,1,home,LU,,1,make2,2,M. Fultz,
+176,2,5:17.0,58,48,ORL,MIN,0,away,Timeout,,,,,,
+177,2,5:01.0,58,48,ORL,MIN,16,away,JS,,26,miss3,0,J. Hernangómez,
+178,2,4:58.0,58,48,ORL,MIN,3,home,DefReb,,,DefReb,,M. Fultz,
+179,2,4:51.0,60,48,ORL,MIN,7,home,JS,assist,9,make2,2,E. Fournier,N. Vučević
+180,2,4:33.0,60,48,ORL,MIN,18,away,JS,,26,miss3,0,N. Reid,
+181,2,4:30.0,60,48,ORL,MIN,3,home,DefReb,,,DefReb,,N. Vučević,
+182,2,4:23.0,60,48,ORL,MIN,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Reid,M. Fultz
+183,2,4:23.0,60,48,ORL,MIN,0,home,FreeThrow,,,make1,0,M. Fultz,
+184,2,4:23.0,60,48,ORL,MIN,0,home,OffReb,,,OffReb,,Team,
+185,2,4:23.0,60,48,ORL,MIN,0,away,Sub,,,,,J. Johnson,M. Beasley
+186,2,4:23.0,60,48,ORL,MIN,0,away,Sub,,,,,J. McLaughlin,N. Reid
+187,2,4:23.0,61,48,ORL,MIN,0,home,FreeThrow,,,make1,1,M. Fultz,
+188,2,4:07.0,61,51,ORL,MIN,16,away,JS,assist,26,make3,3,D. Russell,J. Hernangómez
+189,2,3:46.0,61,51,ORL,MIN,21,home,JS,,26,miss3,0,A. Gordon,
+190,2,3:43.0,61,51,ORL,MIN,3,away,DefReb,,,DefReb,,J. Okogie,
+191,2,3:40.0,61,51,ORL,MIN,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Fournier,J. Okogie
+192,2,3:40.0,61,51,ORL,MIN,0,away,TechnicalFoul,,,TechnicalFoul,,E. Fournier,
+193,2,3:40.0,61,52,ORL,MIN,0,away,FreeThrow,,,make1,1,J. Okogie makes technical free throw,
+194,2,3:40.0,61,53,ORL,MIN,0,away,FreeThrow,,,make1,1,J. Okogie,
+195,2,3:40.0,61,53,ORL,MIN,0,away,FreeThrow,,,make1,0,J. Okogie,
+196,2,3:37.0,61,53,ORL,MIN,3,away,OffReb,,,OffReb,,J. Hernangómez,
+197,2,3:35.0,61,56,ORL,MIN,2,away,JS,assist,26,make3,3,J. McLaughlin,J. Okogie
+198,2,3:28.0,61,56,ORL,MIN,7,home,Timeout,,,,,,
+199,2,3:23.0,63,56,ORL,MIN,5,home,JS,assist,19,make2,2,N. Vučević,M. Fultz
+200,2,3:08.0,63,56,ORL,MIN,15,away,LU,,5,miss2,0,J. McLaughlin,
+201,2,3:06.0,63,56,ORL,MIN,2,away,OffReb,,,OffReb,,J. Hernangómez,
+202,2,3:05.0,63,56,ORL,MIN,1,away,LU,,3,miss2,0,J. Hernangómez,
+203,2,3:02.0,63,56,ORL,MIN,3,home,DefReb,,,DefReb,,N. Vučević,
+204,2,2:58.0,63,56,ORL,MIN,4,home,JS,,27,miss3,0,T. Ross,
+205,2,2:54.0,63,56,ORL,MIN,4,away,DefReb,,,DefReb,,J. Okogie,
+206,2,2:41.0,63,59,ORL,MIN,13,away,JS,assist,30,make3,3,D. Russell,J. McLaughlin
+207,2,2:27.0,63,59,ORL,MIN,14,home,LU,,4,miss2,0,M. Fultz,
+208,2,2:25.0,63,59,ORL,MIN,2,away,DefReb,,,DefReb,,J. Hernangómez,
+209,2,2:19.0,63,59,ORL,MIN,6,away,JS,,27,miss3,0,D. Russell,
+210,2,2:16.0,63,59,ORL,MIN,3,home,DefReb,,,DefReb,,N. Vučević,
+211,2,2:02.0,63,59,ORL,MIN,14,home,JS,,27,miss3,0,T. Ross,
+212,2,1:58.0,63,59,ORL,MIN,4,away,DefReb,,,DefReb,,J. Hernangómez,
+213,2,1:51.0,63,61,ORL,MIN,7,away,LU,,1,make2,2,J. Johnson,
+214,2,1:36.0,63,61,ORL,MIN,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Russell,A. Gordon
+215,2,1:36.0,64,61,ORL,MIN,0,home,FreeThrow,,,make1,1,A. Gordon,
+216,2,1:36.0,64,61,ORL,MIN,0,home,Sub,,,,,J. Ennis,T. Ross
+217,2,1:36.0,65,61,ORL,MIN,0,home,FreeThrow,,,make1,1,A. Gordon,
+218,2,1:28.0,65,61,ORL,MIN,8,away,JS,,26,miss3,0,D. Russell,
+219,2,1:25.0,65,61,ORL,MIN,3,home,DefReb,,,DefReb,,A. Gordon,
+220,2,1:18.0,65,61,ORL,MIN,7,home,JS,,26,miss3,0,N. Vučević,
+221,2,1:15.0,65,61,ORL,MIN,3,away,DefReb,,,DefReb,,J. Johnson,
+222,2,1:08.0,65,61,ORL,MIN,7,away,BadPass,,,turnover,,J. Johnson,
+223,2,1:08.0,65,61,ORL,MIN,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Johnson,M. Fultz
+224,2,1:08.0,66,61,ORL,MIN,0,home,FreeThrow,,,make1,1,M. Fultz,
+225,2,1:08.0,67,61,ORL,MIN,0,home,FreeThrow,,,make1,1,M. Fultz,
+226,2,0:47.0,67,61,ORL,MIN,21,away,bad pass,steal,,turnover,,J. Johnson,J. Ennis
+227,2,0:44.0,67,61,ORL,MIN,3,home,lost ball,steal,,turnover,,M. Fultz,J. Hernangómez
+228,2,0:42.0,67,63,ORL,MIN,2,away,LU,assist,1,make2,2,J. Okogie,J. Hernangómez
+229,2,0:42.0,67,63,ORL,MIN,0,home,DefGoaltending,,,DefGoaltending,,Team,
+230,2,0:23.0,67,63,ORL,MIN,19,home,JS,,24,miss3,0,M. Fultz,
+231,2,0:22.0,67,63,ORL,MIN,1,home,OffReb,,,OffReb,,Team,
+232,2,0:18.0,69,63,ORL,MIN,4,home,LU,,3,make2,2,N. Vučević,
+233,2,0:01.0,69,65,ORL,MIN,17,away,DK,assist,2,make2,2,J. Johnson,J. McLaughlin
+234,2,0:00.0,69,65,ORL,MIN,1,home,JS,,74,miss3,0,M. Fultz,
+235,2,0:00.0,69,65,ORL,MIN,0,home,OffReb,,,OffReb,,Team,
+236,3,11:48.0,69,65,ORL,MIN,12,away,BadPass,,,turnover,,J. Okogie,
+237,3,11:36.0,71,65,ORL,MIN,12,home,LU,,3,make2,2,E. Fournier,
+238,3,11:25.0,71,67,ORL,MIN,11,away,JS,,14,make2,2,D. Russell,
+239,3,11:07.0,74,67,ORL,MIN,18,home,JS,assist,27,make3,3,A. Gordon,M. Fultz
+240,3,10:50.0,74,67,ORL,MIN,17,away,JS,,28,miss3,0,J. Okogie,
+241,3,10:47.0,74,67,ORL,MIN,3,home,DefReb,,,DefReb,,J. Ennis,
+242,3,10:38.0,74,67,ORL,MIN,9,home,JS,,22,miss2,0,M. Fultz,
+243,3,10:34.0,74,67,ORL,MIN,4,away,DefReb,,,DefReb,,J. Hernangómez,
+244,3,10:27.0,74,67,ORL,MIN,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Fultz,D. Russell
+245,3,10:27.0,74,67,ORL,MIN,0,away,FreeThrow,,,make1,0,D. Russell,
+246,3,10:27.0,74,67,ORL,MIN,0,away,OffReb,,,OffReb,,Team,
+247,3,10:27.0,74,68,ORL,MIN,0,away,FreeThrow,,,make1,1,D. Russell,
+248,3,10:17.0,74,68,ORL,MIN,10,home,bad pass,steal,,turnover,,E. Fournier,M. Beasley
+249,3,10:10.0,74,70,ORL,MIN,7,away,JS,,15,make2,2,M. Beasley,
+250,3,9:53.0,74,70,ORL,MIN,17,home,JS,,25,miss3,0,M. Fultz,
+251,3,9:50.0,74,70,ORL,MIN,3,away,DefReb,,,DefReb,,J. Hernangómez,
+252,3,9:45.0,74,72,ORL,MIN,5,away,JS,,14,make2,2,D. Russell,
+253,3,9:31.0,76,72,ORL,MIN,14,home,LU,assist,2,make2,2,N. Vučević,E. Fournier
+254,3,9:13.0,76,74,ORL,MIN,18,away,LU,assist,1,make2,2,N. Reid,D. Russell
+255,3,9:13.0,76,74,ORL,MIN,0,home,Timeout,,,,,,
+256,3,9:00.0,76,74,ORL,MIN,13,home,JS,,23,miss3,0,A. Gordon,
+257,3,8:55.0,76,74,ORL,MIN,5,away,DefReb,,,DefReb,,M. Beasley,
+258,3,8:43.0,76,77,ORL,MIN,12,away,JS,assist,26,make3,3,J. Hernangómez,N. Reid
+259,3,8:30.0,76,77,ORL,MIN,13,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,E. Fournier,D. Russell
+260,3,8:30.0,76,77,ORL,MIN,0,home,OffensiveFoul,,,turnover,,E. Fournier,
+261,3,8:20.0,76,79,ORL,MIN,10,away,LU,assist,1,make2,2,M. Beasley,J. Hernangómez
+262,3,8:05.0,78,79,ORL,MIN,15,home,DK,assist,1,make2,2,A. Gordon,N. Vučević
+263,3,7:46.0,78,79,ORL,MIN,19,away,OutOfBoundsLB,,,turnover,,J. Okogie,
+264,3,7:34.0,78,79,ORL,MIN,12,home,JS,,26,miss3,0,J. Ennis,
+265,3,7:31.0,78,79,ORL,MIN,3,away,DefReb,,,DefReb,,J. Hernangómez,
+266,3,7:24.0,78,79,ORL,MIN,7,away,LU,,2,miss2,0,M. Beasley,
+267,3,7:21.0,78,79,ORL,MIN,3,home,DefReb,,,DefReb,,J. Ennis,
+268,3,7:19.0,78,79,ORL,MIN,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Reid,A. Gordon
+269,3,7:19.0,78,79,ORL,MIN,0,home,Timeout,,,,,,
+270,3,7:19.0,78,79,ORL,MIN,0,home,InstantReplay,,,RulingStands,,Team,
+271,3,7:13.0,81,79,ORL,MIN,6,home,JS,assist,26,make3,3,E. Fournier,A. Gordon
+272,3,6:57.0,81,79,ORL,MIN,16,away,JS,,23,miss3,0,J. Okogie,
+273,3,6:54.0,81,79,ORL,MIN,3,home,DefReb,,,DefReb,,E. Fournier,
+274,3,6:48.0,81,79,ORL,MIN,6,home,JS,,26,miss3,0,E. Fournier,
+275,3,6:43.0,81,79,ORL,MIN,5,away,DefReb,,,DefReb,,J. Hernangómez,
+276,3,6:38.0,81,79,ORL,MIN,5,away,JS,,28,miss3,0,J. Hernangómez,
+277,3,6:35.0,81,79,ORL,MIN,3,away,OffReb,,,OffReb,,J. Okogie,
+278,3,6:35.0,81,81,ORL,MIN,0,away,LU,,1,make2,2,J. Okogie,
+279,3,6:35.0,81,81,ORL,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,J. Okogie
+280,3,6:35.0,81,82,ORL,MIN,0,away,FreeThrow,,,make1,1,J. Okogie,
+281,3,6:16.0,81,82,ORL,MIN,19,home,lost ball,steal,,turnover,,E. Fournier,D. Russell
+282,3,6:10.0,81,84,ORL,MIN,6,away,LU,assist,1,make2,2,N. Reid,J. Okogie
+283,3,6:10.0,81,84,ORL,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,N. Reid
+284,3,6:10.0,81,84,ORL,MIN,0,home,Sub,,,,,T. Ross,J. Ennis
+285,3,6:10.0,81,84,ORL,MIN,0,away,FreeThrow,,,make1,0,N. Reid,
+286,3,6:05.0,81,84,ORL,MIN,5,home,DefReb,,,DefReb,,A. Gordon,
+287,3,5:46.0,81,84,ORL,MIN,19,home,JS,,24,miss3,0,T. Ross,
+288,3,5:44.0,81,84,ORL,MIN,2,away,DefReb,,,DefReb,,J. Hernangómez,
+289,3,5:44.0,81,84,ORL,MIN,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ross,D. Russell
+290,3,5:23.0,81,87,ORL,MIN,21,away,JS,,23,make3,3,D. Russell,
+291,3,5:07.0,83,87,ORL,MIN,16,home,DK,assist,1,make2,2,N. Vučević,E. Fournier
+292,3,4:55.0,83,89,ORL,MIN,12,away,JS,,22,make2,2,D. Russell,
+293,3,4:55.0,83,89,ORL,MIN,0,home,Timeout,,,,,,
+294,3,4:55.0,83,89,ORL,MIN,0,away,Sub,,,,,J. Johnson,J. Hernangómez
+295,3,4:55.0,83,89,ORL,MIN,0,away,Sub,,,,,J. Layman,J. Okogie
+296,3,4:38.0,85,89,ORL,MIN,17,home,LU,assist,2,make2,2,M. Fultz,A. Gordon
+297,3,4:25.0,85,89,ORL,MIN,13,away,JS,,27,miss3,0,D. Russell,
+298,3,4:23.0,85,89,ORL,MIN,2,home,DefReb,,,DefReb,,N. Vučević,
+299,3,4:16.0,85,89,ORL,MIN,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,N. Vučević
+300,3,4:16.0,86,89,ORL,MIN,0,home,FreeThrow,,,make1,1,N. Vučević,
+301,3,4:16.0,87,89,ORL,MIN,0,home,FreeThrow,,,make1,1,N. Vučević,
+302,3,4:06.0,87,92,ORL,MIN,10,away,JS,assist,27,make3,3,J. Layman,J. Johnson
+303,3,3:55.0,87,92,ORL,MIN,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Reid,N. Vučević
+304,3,3:55.0,87,92,ORL,MIN,0,away,Sub,,,,,K. Martin,N. Reid
+305,3,3:55.0,87,92,ORL,MIN,0,home,Sub,,,,,D. Augustin,E. Fournier
+306,3,3:55.0,87,92,ORL,MIN,0,home,Sub,,,,,M. Carter-Williams,M. Fultz
+307,3,3:50.0,90,92,ORL,MIN,5,home,JS,assist,26,make3,3,T. Ross,A. Gordon
+308,3,3:38.0,90,94,ORL,MIN,12,away,LU,assist,2,make2,2,J. Johnson,D. Russell
+309,3,3:38.0,90,94,ORL,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,J. Johnson
+310,3,3:38.0,90,94,ORL,MIN,0,away,Sub,,,,,J. Culver,M. Beasley
+311,3,3:38.0,90,94,ORL,MIN,0,away,FreeThrow,,,make1,0,J. Johnson,
+312,3,3:34.0,90,94,ORL,MIN,4,home,DefReb,,,DefReb,,M. Carter-Williams,
+313,3,3:32.0,90,94,ORL,MIN,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Martin,M. Carter-Williams
+314,3,3:32.0,91,94,ORL,MIN,0,home,FreeThrow,,,make1,1,M. Carter-Williams,
+315,3,3:32.0,92,94,ORL,MIN,0,home,FreeThrow,,,make1,1,M. Carter-Williams,
+316,3,3:19.0,92,94,ORL,MIN,13,away,JS,,26,miss3,0,J. Layman,
+317,3,3:17.0,92,94,ORL,MIN,2,away,OffReb,,,OffReb,,K. Martin,
+318,3,3:16.0,92,94,ORL,MIN,1,away,DK,,2,miss2,0,K. Martin,
+319,3,3:13.0,92,94,ORL,MIN,3,home,DefReb,,,DefReb,,M. Carter-Williams,
+320,3,3:10.0,92,94,ORL,MIN,3,home,lost ball,steal,,turnover,,M. Carter-Williams,J. Johnson
+321,3,3:05.0,92,94,ORL,MIN,5,away,OutOfBounds,,,turnover,,K. Martin,
+322,3,2:52.0,94,94,ORL,MIN,13,home,LU,assist,1,make2,2,A. Gordon,M. Carter-Williams
+323,3,2:35.0,94,94,ORL,MIN,17,away,LU,,3,miss2,0,J. Layman,
+324,3,2:33.0,94,94,ORL,MIN,2,home,DefReb,,,DefReb,,D. Augustin,
+325,3,2:24.0,97,94,ORL,MIN,9,home,JS,assist,26,make3,3,D. Augustin,N. Vučević
+326,3,2:11.0,97,94,ORL,MIN,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Augustin,J. Johnson
+327,3,2:11.0,97,95,ORL,MIN,0,away,FreeThrow,,,make1,1,J. Johnson,
+328,3,2:11.0,97,95,ORL,MIN,0,away,Sub,,,,,J. McLaughlin,D. Russell
+329,3,2:11.0,97,95,ORL,MIN,0,home,Sub,,,,,M. Bamba,A. Gordon
+330,3,2:11.0,97,95,ORL,MIN,0,home,Sub,,,,,J. Ennis,N. Vučević
+331,3,2:11.0,97,95,ORL,MIN,0,away,FreeThrow,,,make1,0,J. Johnson,
+332,3,2:08.0,97,95,ORL,MIN,3,home,DefReb,,,DefReb,,J. Ennis,
+333,3,2:00.0,97,95,ORL,MIN,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Culver,D. Augustin
+334,3,2:00.0,98,95,ORL,MIN,0,home,FreeThrow,,,make1,1,D. Augustin,
+335,3,2:00.0,99,95,ORL,MIN,0,home,FreeThrow,,,make1,1,D. Augustin,
+336,3,1:50.0,99,95,ORL,MIN,10,away,LU,block,4,miss2,0,K. Martin,M. Bamba
+337,3,1:50.0,99,95,ORL,MIN,0,away,OffReb,,,OffReb,,Team,
+338,3,1:49.0,99,95,ORL,MIN,1,away,BackCourtTurnover,,,turnover,,J. McLaughlin,
+339,3,1:33.0,99,95,ORL,MIN,16,home,lost ball,steal,,turnover,,J. Ennis,K. Martin
+340,3,1:21.0,99,95,ORL,MIN,12,away,LU,,5,miss2,0,J. Culver,
+341,3,1:18.0,99,95,ORL,MIN,3,home,DefReb,,,DefReb,,M. Bamba,
+342,3,1:15.0,99,95,ORL,MIN,3,home,JS,,28,miss3,0,D. Augustin,
+343,3,1:13.0,99,95,ORL,MIN,2,home,OffReb,,,OffReb,,J. Ennis,
+344,3,1:12.0,101,95,ORL,MIN,1,home,LU,,1,make2,2,J. Ennis,
+345,3,1:00.0,101,95,ORL,MIN,12,away,JS,,28,miss3,0,J. Johnson,
+346,3,1:00.0,101,95,ORL,MIN,0,home,DefReb,,,DefReb,,M. Bamba,
+347,3,0:38.0,101,95,ORL,MIN,22,home,LU,,3,miss2,0,D. Augustin,
+348,3,0:36.0,101,95,ORL,MIN,2,home,OffReb,,,OffReb,,M. Bamba,
+349,3,0:34.0,101,95,ORL,MIN,2,home,JS,,23,miss2,0,T. Ross,
+350,3,0:34.0,101,95,ORL,MIN,0,home,OffReb,,,OffReb,,M. Bamba,
+351,3,0:34.0,103,95,ORL,MIN,0,home,LU,,1,make2,2,M. Bamba,
+352,3,0:23.0,103,95,ORL,MIN,11,away,JS,,27,miss3,0,J. Culver,
+353,3,0:23.0,103,95,ORL,MIN,0,home,DefReb,,,DefReb,,M. Bamba,
+354,3,0:01.0,103,95,ORL,MIN,22,home,JS,,25,miss3,0,D. Augustin,
+355,3,0:01.0,103,95,ORL,MIN,0,away,DefReb,,,DefReb,,Team,
+356,3,0:01.0,103,95,ORL,MIN,0,away,TechnicalFoul,,,TechnicalFoul,,D. Augustin,
+357,3,0:01.0,103,96,ORL,MIN,0,away,FreeThrow,,,make1,1,J. McLaughlin makes technical free throw,
+358,3,0:00.0,103,96,ORL,MIN,1,away,JS,,59,miss3,0,J. McLaughlin,
+359,3,0:00.0,103,96,ORL,MIN,0,away,OffReb,,,OffReb,,Team,
+360,4,11:46.0,105,96,ORL,MIN,14,home,JS,,18,make2,2,T. Ross,
+361,4,11:28.0,105,99,ORL,MIN,18,away,JS,,26,make3,3,M. Beasley,
+362,4,11:10.0,107,99,ORL,MIN,18,home,JS,assist,20,make2,2,T. Ross,A. Gordon
+363,4,10:58.0,107,99,ORL,MIN,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bamba,J. Layman
+364,4,10:58.0,107,100,ORL,MIN,0,away,FreeThrow,,,make1,1,J. Layman,
+365,4,10:58.0,107,101,ORL,MIN,0,away,FreeThrow,,,make1,1,J. Layman,
+366,4,10:42.0,107,101,ORL,MIN,16,home,JS,block,10,miss2,0,M. Bamba,J. Johnson
+367,4,10:38.0,107,101,ORL,MIN,4,away,DefReb,,,DefReb,,J. McLaughlin,
+368,4,10:32.0,107,101,ORL,MIN,6,away,JS,,26,miss3,0,M. Beasley,
+369,4,10:26.0,107,101,ORL,MIN,6,home,DefReb,,,DefReb,,M. Carter-Williams,
+370,4,10:24.0,110,101,ORL,MIN,2,home,JS,assist,28,make3,3,T. Ross,M. Carter-Williams
+371,4,10:09.0,110,101,ORL,MIN,15,away,JS,,25,miss3,0,M. Beasley,
+372,4,10:06.0,110,101,ORL,MIN,3,away,OffReb,,,OffReb,,J. Culver,
+373,4,10:06.0,110,101,ORL,MIN,0,away,BadPass,,,turnover,,J. Johnson,
+374,4,9:53.0,110,101,ORL,MIN,13,home,bad pass,steal,,turnover,,M. Carter-Williams,J. Johnson
+375,4,9:48.0,110,103,ORL,MIN,5,away,DK,assist,1,make2,2,J. Layman,M. Beasley
+376,4,9:33.0,113,103,ORL,MIN,15,home,JS,,27,make3,3,T. Ross,
+377,4,9:31.0,113,103,ORL,MIN,2,away,Timeout,,,,,,
+378,4,9:31.0,113,103,ORL,MIN,0,away,Sub,,,,,N. Reid,J. Johnson
+379,4,9:12.0,113,103,ORL,MIN,19,away,JS,,26,miss3,0,J. McLaughlin,
+380,4,9:09.0,113,103,ORL,MIN,3,home,DefReb,,,DefReb,,M. Carter-Williams,
+381,4,9:04.0,113,103,ORL,MIN,5,home,LU,,2,miss2,0,M. Carter-Williams,
+382,4,9:01.0,113,103,ORL,MIN,3,home,OffReb,,,OffReb,,A. Gordon,
+383,4,9:01.0,113,103,ORL,MIN,0,home,JS,,26,miss3,0,T. Ross,
+384,4,9:01.0,113,103,ORL,MIN,0,away,DefReb,,,DefReb,,Team,
+385,4,9:01.0,113,103,ORL,MIN,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Bamba,N. Reid
+386,4,8:48.0,113,103,ORL,MIN,13,away,LU,,2,miss2,0,J. Layman,
+387,4,8:45.0,113,103,ORL,MIN,3,home,DefReb,,,DefReb,,A. Gordon,
+388,4,8:41.0,113,103,ORL,MIN,4,home,bad pass,steal,,turnover,,A. Gordon,J. Layman
+389,4,8:35.0,113,103,ORL,MIN,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Layman,A. Gordon
+390,4,8:35.0,113,103,ORL,MIN,0,away,OffensiveFoul,,,turnover,,J. Layman,
+391,4,8:35.0,113,103,ORL,MIN,0,away,Sub,,,,,J. Hernangómez,J. Culver
+392,4,8:35.0,113,103,ORL,MIN,0,away,Sub,,,,,J. Okogie,J. Layman
+393,4,8:24.0,115,103,ORL,MIN,11,home,DK,assist,2,make2,2,T. Ross,A. Gordon
+394,4,8:12.0,115,103,ORL,MIN,12,away,bad pass,steal,,turnover,,J. McLaughlin,M. Carter-Williams
+395,4,8:08.0,117,103,ORL,MIN,4,home,LU,,1,make2,2,D. Augustin,
+396,4,8:08.0,117,103,ORL,MIN,0,away,Timeout,,,,,,
+397,4,8:08.0,117,103,ORL,MIN,0,away,Sub,,,,,D. Russell,J. McLaughlin
+398,4,7:52.0,117,103,ORL,MIN,16,away,JS,,27,miss3,0,M. Beasley,
+399,4,7:49.0,117,103,ORL,MIN,3,home,DefReb,,,DefReb,,M. Carter-Williams,
+400,4,7:47.0,117,103,ORL,MIN,2,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Bamba,N. Reid
+401,4,7:47.0,117,103,ORL,MIN,0,home,OffensiveFoul,,,turnover,,M. Bamba,
+402,4,7:34.0,117,106,ORL,MIN,13,away,JS,,26,make3,3,M. Beasley,
+403,4,7:19.0,119,106,ORL,MIN,15,home,LU,assist,1,make2,2,T. Ross,A. Gordon
+404,4,7:07.0,119,109,ORL,MIN,12,away,JS,assist,26,make3,3,J. Hernangómez,D. Russell
+405,4,7:07.0,119,109,ORL,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bamba,J. Hernangómez
+406,4,7:07.0,119,109,ORL,MIN,0,home,Sub,,,,,N. Vučević,M. Bamba
+407,4,7:07.0,119,110,ORL,MIN,0,away,FreeThrow,,,make1,1,J. Hernangómez,
+408,4,6:53.0,119,110,ORL,MIN,14,home,JS,,21,miss2,0,T. Ross,
+409,4,6:49.0,119,110,ORL,MIN,4,away,DefReb,,,DefReb,,M. Beasley,
+410,4,6:45.0,119,110,ORL,MIN,4,away,bad pass,steal,,turnover,,D. Russell,T. Ross
+411,4,6:30.0,119,110,ORL,MIN,15,home,JS,,26,miss3,0,D. Augustin,
+412,4,6:27.0,119,110,ORL,MIN,3,away,DefReb,,,DefReb,,J. Hernangómez,
+413,4,6:14.0,119,113,ORL,MIN,13,away,JS,,27,make3,3,M. Beasley,
+414,4,5:52.0,119,113,ORL,MIN,22,home,JS,,27,miss3,0,N. Vučević,
+415,4,5:50.0,119,113,ORL,MIN,2,home,OffReb,,,OffReb,,M. Carter-Williams,
+416,4,5:41.0,122,113,ORL,MIN,9,home,JS,assist,28,make3,3,D. Augustin,A. Gordon
+417,4,5:31.0,122,113,ORL,MIN,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Carter-Williams,D. Russell
+418,4,5:31.0,122,113,ORL,MIN,0,away,Sub,,,,,J. Johnson,N. Reid
+419,4,5:31.0,122,113,ORL,MIN,0,home,Sub,,,,,E. Fournier,D. Augustin
+420,4,5:31.0,122,113,ORL,MIN,0,home,Sub,,,,,M. Fultz,M. Carter-Williams
+421,4,5:23.0,122,116,ORL,MIN,8,away,JS,assist,28,make3,3,J. Hernangómez,J. Johnson
+422,4,5:03.0,122,116,ORL,MIN,20,home,JS,,27,miss3,0,E. Fournier,
+423,4,5:01.0,122,116,ORL,MIN,2,away,DefReb,,,DefReb,,M. Beasley,
+424,4,4:53.0,122,116,ORL,MIN,8,away,LU,block,2,miss2,0,M. Beasley,A. Gordon
+425,4,4:49.0,122,116,ORL,MIN,4,home,DefReb,,,DefReb,,T. Ross,
+426,4,4:46.0,124,116,ORL,MIN,3,home,LU,assist,1,make2,2,N. Vučević,T. Ross
+427,4,4:28.0,124,116,ORL,MIN,18,away,JS,,16,miss2,0,D. Russell,
+428,4,4:24.0,124,116,ORL,MIN,4,home,DefReb,,,DefReb,,T. Ross,
+429,4,4:18.0,127,116,ORL,MIN,6,home,JS,assist,25,make3,3,T. Ross,M. Fultz
+430,4,4:17.0,127,116,ORL,MIN,1,away,Timeout,,,,,,
+431,4,4:00.0,127,116,ORL,MIN,17,away,bad pass,steal,,turnover,,J. Hernangómez,T. Ross
+432,4,3:56.0,127,116,ORL,MIN,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Johnson,N. Vučević
+433,4,3:52.0,129,116,ORL,MIN,4,home,LU,assist,2,make2,2,T. Ross,E. Fournier
+434,4,3:42.0,129,119,ORL,MIN,10,away,JS,assist,27,make3,3,J. Hernangómez,D. Russell
+435,4,3:17.0,129,119,ORL,MIN,25,home,LU,block,4,miss2,0,T. Ross,J. Hernangómez
+436,4,3:14.0,129,119,ORL,MIN,3,away,DefReb,,,DefReb,,D. Russell,
+437,4,3:08.0,129,119,ORL,MIN,6,away,JS,,9,miss2,0,M. Beasley,
+438,4,3:05.0,129,119,ORL,MIN,3,home,DefReb,,,DefReb,,T. Ross,
+439,4,2:56.0,129,119,ORL,MIN,9,home,lost ball,steal,,turnover,,M. Fultz,J. Okogie
+440,4,2:55.0,129,119,ORL,MIN,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ross,J. Okogie
+441,4,2:55.0,129,120,ORL,MIN,0,away,FreeThrow,,,make1,1,J. Okogie,
+442,4,2:55.0,129,121,ORL,MIN,0,away,FreeThrow,,,make1,1,J. Okogie,
+443,4,2:34.0,131,121,ORL,MIN,21,home,HS,,10,make2,2,N. Vučević,
+444,4,2:25.0,131,121,ORL,MIN,9,away,JS,,25,miss3,0,D. Russell,
+445,4,2:25.0,131,121,ORL,MIN,0,home,DefReb,,,DefReb,,Team,
+446,4,2:25.0,131,121,ORL,MIN,0,away,Sub,,,,,J. McLaughlin,J. Okogie
+447,4,2:08.0,131,121,ORL,MIN,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,N. Vučević
+448,4,2:08.0,131,121,ORL,MIN,0,home,FreeThrow,,,make1,0,N. Vučević,
+449,4,2:08.0,131,121,ORL,MIN,0,home,OffReb,,,OffReb,,Team,
+450,4,2:08.0,132,121,ORL,MIN,0,home,FreeThrow,,,make1,1,N. Vučević,
+451,4,1:57.0,132,121,ORL,MIN,11,away,JS,block,20,miss2,0,D. Russell,E. Fournier
+452,4,1:55.0,132,121,ORL,MIN,2,home,DefReb,,,DefReb,,M. Fultz,
+453,4,1:54.0,134,121,ORL,MIN,1,home,LU,,0,make2,2,M. Fultz,
+454,4,1:54.0,134,121,ORL,MIN,0,away,Timeout,,,,,,
+455,4,1:48.0,134,123,ORL,MIN,6,away,LU,assist,2,make2,2,J. Hernangómez,J. Johnson
+456,4,1:48.0,134,123,ORL,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,J. Hernangómez
+457,4,1:48.0,134,124,ORL,MIN,0,away,FreeThrow,,,make1,1,J. Hernangómez,
+458,4,1:31.0,134,124,ORL,MIN,17,home,bad pass,steal,,turnover,,E. Fournier,J. McLaughlin
+459,4,1:27.0,134,124,ORL,MIN,4,away,JS,,27,miss3,0,J. Hernangómez,
+460,4,1:24.0,134,124,ORL,MIN,3,home,DefReb,,,DefReb,,A. Gordon,
+461,4,1:13.0,136,124,ORL,MIN,11,home,LU,,2,make2,2,A. Gordon,
+462,4,1:04.0,136,124,ORL,MIN,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Vučević,J. McLaughlin
+463,4,1:04.0,136,125,ORL,MIN,0,away,FreeThrow,,,make1,1,J. McLaughlin,
+464,4,1:04.0,136,125,ORL,MIN,0,away,FreeThrow,,,make1,0,J. McLaughlin,
+465,4,0:59.0,136,125,ORL,MIN,5,home,DefReb,,,DefReb,,N. Vučević,
+466,4,0:53.0,136,125,ORL,MIN,6,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Beasley,A. Gordon
+467,4,0:41.0,136,125,ORL,MIN,12,home,JS,,27,miss3,0,E. Fournier,
+468,4,0:38.0,136,125,ORL,MIN,3,away,DefReb,,,DefReb,,J. Johnson,
+469,4,0:35.0,136,125,ORL,MIN,3,away,JS,,28,miss3,0,M. Beasley,
+470,4,0:32.0,136,125,ORL,MIN,3,away,OffReb,,,OffReb,,J. Hernangómez,
+471,4,0:29.0,136,125,ORL,MIN,3,away,JS,,23,miss3,0,D. Russell,
+472,4,0:26.0,136,125,ORL,MIN,3,home,DefReb,,,DefReb,,T. Ross,
+473,4,0:05.0,136,125,ORL,MIN,21,home,ShotClockViolation,,,turnover,,Team,

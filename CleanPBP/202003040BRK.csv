@@ -1,0 +1,463 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:39.0,0,0,BRK,MEM,21,home,JS,,25,miss3,0,C. LeVert,
+1,1,11:38.0,0,0,BRK,MEM,1,home,OffReb,,,OffReb,,J. Harris,
+2,1,11:27.0,0,0,BRK,MEM,11,home,JS,,14,miss2,0,T. Prince,
+3,1,11:23.0,0,0,BRK,MEM,4,away,DefReb,,,DefReb,,D. Melton,
+4,1,11:03.0,0,0,BRK,MEM,20,away,JS,,19,miss2,0,D. Melton,
+5,1,11:01.0,0,0,BRK,MEM,2,home,DefReb,,,DefReb,,J. Allen,
+6,1,10:48.0,3,0,BRK,MEM,13,home,JS,assist,25,make3,3,T. Prince,C. LeVert
+7,1,10:35.0,3,3,BRK,MEM,13,away,JS,assist,26,make3,3,K. Anderson,J. Valančiūnas
+8,1,10:08.0,3,3,BRK,MEM,27,home,JS,,23,miss3,0,S. Dinwiddie,
+9,1,10:06.0,3,3,BRK,MEM,2,away,DefReb,,,DefReb,,Team,
+10,1,9:56.0,3,5,BRK,MEM,10,away,JS,,12,make2,2,J. Morant,
+11,1,9:42.0,3,5,BRK,MEM,14,home,JS,,13,miss2,0,T. Prince,
+12,1,9:39.0,3,5,BRK,MEM,3,home,OffReb,,,OffReb,,T. Prince,
+13,1,9:34.0,3,5,BRK,MEM,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Brooks,C. LeVert
+14,1,9:34.0,3,5,BRK,MEM,0,home,FreeThrow,,,make1,0,C. LeVert,
+15,1,9:34.0,3,5,BRK,MEM,0,home,OffReb,,,OffReb,,Team,
+16,1,9:34.0,4,5,BRK,MEM,0,home,FreeThrow,,,make1,1,C. LeVert,
+17,1,9:20.0,4,5,BRK,MEM,14,away,JS,,20,miss2,0,D. Brooks,
+18,1,9:17.0,4,5,BRK,MEM,3,away,OffReb,,,OffReb,,K. Anderson,
+19,1,9:07.0,4,5,BRK,MEM,10,away,HS,,8,miss2,0,J. Valančiūnas,
+20,1,9:07.0,4,5,BRK,MEM,0,away,OffReb,,,OffReb,,Team,
+21,1,8:58.0,4,5,BRK,MEM,9,away,LU,,4,miss2,0,J. Valančiūnas,
+22,1,8:55.0,4,5,BRK,MEM,3,home,DefReb,,,DefReb,,J. Allen,
+23,1,8:47.0,6,5,BRK,MEM,8,home,LU,,8,make2,2,C. LeVert,
+24,1,8:28.0,6,5,BRK,MEM,19,away,JS,,26,miss3,0,K. Anderson,
+25,1,8:21.0,6,5,BRK,MEM,7,home,DefReb,,,DefReb,,S. Dinwiddie,
+26,1,8:12.0,6,5,BRK,MEM,9,home,JS,,9,miss2,0,C. LeVert,
+27,1,8:11.0,6,5,BRK,MEM,1,home,OffReb,,,OffReb,,Team,
+28,1,8:08.0,9,5,BRK,MEM,3,home,JS,assist,23,make3,3,J. Harris,C. LeVert
+29,1,7:59.0,9,5,BRK,MEM,9,away,lost ball,steal,,turnover,,D. Brooks,J. Harris
+30,1,7:53.0,9,5,BRK,MEM,6,home,JS,,25,miss3,0,S. Dinwiddie,
+31,1,7:50.0,9,5,BRK,MEM,3,away,DefReb,,,DefReb,,J. Valančiūnas,
+32,1,7:41.0,9,5,BRK,MEM,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. LeVert,D. Brooks
+33,1,7:41.0,9,5,BRK,MEM,0,away,FreeThrow,,,make1,0,D. Brooks,
+34,1,7:41.0,9,5,BRK,MEM,0,away,OffReb,,,OffReb,,Team,
+35,1,7:41.0,9,6,BRK,MEM,0,away,FreeThrow,,,make1,1,D. Brooks,
+36,1,7:28.0,9,6,BRK,MEM,13,home,JS,,24,miss3,0,T. Prince,
+37,1,7:25.0,9,6,BRK,MEM,3,away,DefReb,,,DefReb,,J. Valančiūnas,
+38,1,7:17.0,9,6,BRK,MEM,8,away,JS,,11,miss2,0,J. Morant,
+39,1,7:13.0,9,6,BRK,MEM,4,away,OffReb,,,OffReb,,J. Valančiūnas,
+40,1,7:13.0,9,6,BRK,MEM,0,away,LU,,1,miss2,0,J. Valančiūnas,
+41,1,7:13.0,9,6,BRK,MEM,0,away,OffReb,,,OffReb,,J. Valančiūnas,
+42,1,7:09.0,9,6,BRK,MEM,4,away,JS,,25,miss3,0,D. Brooks,
+43,1,7:05.0,9,6,BRK,MEM,4,home,DefReb,,,DefReb,,J. Allen,
+44,1,6:56.0,11,6,BRK,MEM,9,home,LU,assist,3,make2,2,T. Prince,C. LeVert
+45,1,6:41.0,11,6,BRK,MEM,15,away,JS,,9,miss2,0,K. Anderson,
+46,1,6:39.0,11,6,BRK,MEM,2,home,DefReb,,,DefReb,,C. LeVert,
+47,1,6:29.0,13,6,BRK,MEM,10,home,JS,,14,make2,2,T. Prince,
+48,1,6:27.0,13,6,BRK,MEM,2,away,Timeout,,,,,,
+49,1,6:27.0,13,6,BRK,MEM,0,home,Sub,,,,,T. Luwawu-Cabarrot,C. LeVert
+50,1,6:11.0,13,6,BRK,MEM,16,away,JS,block,10,miss2,0,J. Morant,S. Dinwiddie
+51,1,6:08.0,13,6,BRK,MEM,3,away,OffReb,,,OffReb,,J. Morant,
+52,1,6:05.0,13,6,BRK,MEM,3,away,JS,,23,miss3,0,D. Melton,
+53,1,6:02.0,13,6,BRK,MEM,3,home,DefReb,,,DefReb,,T. Prince,
+54,1,5:50.0,13,6,BRK,MEM,12,home,JS,,10,miss2,0,T. Prince,
+55,1,5:46.0,13,6,BRK,MEM,4,away,DefReb,,,DefReb,,K. Anderson,
+56,1,5:37.0,13,8,BRK,MEM,9,away,JS,,4,make2,2,D. Brooks,
+57,1,5:19.0,13,8,BRK,MEM,18,home,JS,,25,miss3,0,S. Dinwiddie,
+58,1,5:17.0,13,8,BRK,MEM,2,away,DefReb,,,DefReb,,K. Anderson,
+59,1,5:12.0,13,11,BRK,MEM,5,away,JS,,25,make3,3,D. Brooks,
+60,1,5:02.0,13,11,BRK,MEM,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Anderson,T. Prince
+61,1,5:02.0,13,11,BRK,MEM,0,away,Sub,,,,,G. Dieng,K. Anderson
+62,1,5:02.0,13,11,BRK,MEM,0,away,Sub,,,,,T. Jones,D. Melton
+63,1,5:02.0,13,11,BRK,MEM,0,home,Sub,,,,,W. Chandler,J. Allen
+64,1,5:02.0,13,11,BRK,MEM,0,home,Sub,,,,,D. Jordan,T. Prince
+65,1,4:54.0,13,11,BRK,MEM,8,home,LU,,7,miss2,0,J. Harris,
+66,1,4:54.0,13,11,BRK,MEM,0,away,DefReb,,,DefReb,,Team,
+67,1,4:54.0,13,11,BRK,MEM,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Jordan,G. Dieng
+68,1,4:38.0,13,11,BRK,MEM,16,away,JS,,18,miss2,0,D. Brooks,
+69,1,4:34.0,13,11,BRK,MEM,4,away,OffReb,,,OffReb,,G. Dieng,
+70,1,4:30.0,13,14,BRK,MEM,4,away,JS,,25,make3,3,J. Morant,
+71,1,4:29.0,13,14,BRK,MEM,1,home,Timeout,,,,,,
+72,1,4:07.0,13,14,BRK,MEM,22,home,JS,,25,miss3,0,W. Chandler,
+73,1,4:04.0,13,14,BRK,MEM,3,away,DefReb,,,DefReb,,J. Valančiūnas,
+74,1,3:55.0,13,14,BRK,MEM,9,away,LU,,5,miss2,0,J. Morant,
+75,1,3:53.0,13,14,BRK,MEM,2,home,DefReb,,,DefReb,,W. Chandler,
+76,1,3:44.0,13,14,BRK,MEM,9,home,JS,,25,miss3,0,J. Harris,
+77,1,3:40.0,13,14,BRK,MEM,4,away,DefReb,,,DefReb,,G. Dieng,
+78,1,3:35.0,13,16,BRK,MEM,5,away,JS,,10,make2,2,D. Brooks,
+79,1,3:26.0,16,16,BRK,MEM,9,home,JS,assist,24,make3,3,J. Harris,S. Dinwiddie
+80,1,3:11.0,16,19,BRK,MEM,15,away,JS,assist,25,make3,3,T. Jones,J. Morant
+81,1,2:54.0,16,19,BRK,MEM,17,home,JS,,25,miss3,0,J. Harris,
+82,1,2:50.0,16,19,BRK,MEM,4,away,DefReb,,,DefReb,,T. Jones,
+83,1,2:41.0,16,19,BRK,MEM,9,away,JS,,12,miss2,0,D. Brooks,
+84,1,2:38.0,16,19,BRK,MEM,3,home,DefReb,,,DefReb,,W. Chandler,
+85,1,2:32.0,18,19,BRK,MEM,6,home,LU,assist,2,make2,2,D. Jordan,S. Dinwiddie
+86,1,2:19.0,18,19,BRK,MEM,13,away,JS,,25,miss3,0,J. Morant,
+87,1,2:17.0,18,19,BRK,MEM,2,home,DefReb,,,DefReb,,Team,
+88,1,2:17.0,18,19,BRK,MEM,0,away,Sub,,,,,J. Jackson,D. Brooks
+89,1,2:17.0,18,19,BRK,MEM,0,away,Sub,,,,,J. Konchar,J. Morant
+90,1,2:17.0,18,19,BRK,MEM,0,away,Sub,,,,,A. Tolliver,J. Valančiūnas
+91,1,2:17.0,18,19,BRK,MEM,0,home,Sub,,,,,C. Chiozza,S. Dinwiddie
+92,1,2:17.0,18,19,BRK,MEM,0,home,Sub,,,,,C. LeVert,J. Harris
+93,1,1:59.0,18,19,BRK,MEM,18,home,lost ball,steal,,turnover,,C. Chiozza,A. Tolliver
+94,1,1:50.0,18,19,BRK,MEM,9,away,JS,,25,miss3,0,A. Tolliver,
+95,1,1:48.0,18,19,BRK,MEM,2,home,DefReb,,,DefReb,,T. Luwawu-Cabarrot,
+96,1,1:34.0,20,19,BRK,MEM,14,home,JS,assist,16,make2,2,T. Luwawu-Cabarrot,C. LeVert
+97,1,1:14.0,20,19,BRK,MEM,20,away,JS,,24,miss3,0,J. Jackson,
+98,1,1:14.0,20,19,BRK,MEM,0,away,OffReb,,,OffReb,,G. Dieng,
+99,1,1:08.0,20,19,BRK,MEM,6,away,JS,,23,miss3,0,J. Konchar,
+100,1,1:04.0,20,19,BRK,MEM,4,home,DefReb,,,DefReb,,C. LeVert,
+101,1,0:57.0,20,19,BRK,MEM,7,home,JS,,13,miss2,0,C. LeVert,
+102,1,0:53.0,20,19,BRK,MEM,4,home,OffReb,,,OffReb,,D. Jordan,
+103,1,0:49.0,20,19,BRK,MEM,4,home,JS,,23,miss3,0,T. Luwawu-Cabarrot,
+104,1,0:44.0,20,19,BRK,MEM,5,home,OffReb,,,OffReb,,D. Jordan,
+105,1,0:40.0,20,19,BRK,MEM,4,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Jordan,A. Tolliver
+106,1,0:40.0,20,19,BRK,MEM,0,home,OffensiveFoul,,,turnover,,D. Jordan,
+107,1,0:28.0,20,19,BRK,MEM,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. LeVert,J. Jackson
+108,1,0:28.0,20,20,BRK,MEM,0,away,FreeThrow,,,make1,1,J. Jackson,
+109,1,0:28.0,20,20,BRK,MEM,0,away,TechnicalFoul,,,TechnicalFoul,,D. Jordan,
+110,1,0:28.0,20,21,BRK,MEM,0,away,FreeThrow,,,make1,1,T. Jones makes technical free throw,
+111,1,0:28.0,20,22,BRK,MEM,0,away,FreeThrow,,,make1,1,J. Jackson,
+112,1,0:28.0,20,22,BRK,MEM,0,home,Sub,,,,,S. Dinwiddie,W. Chandler
+113,1,0:28.0,20,22,BRK,MEM,0,home,Sub,,,,,J. Harris,C. Chiozza
+114,1,0:11.0,22,22,BRK,MEM,17,home,JS,,10,make2,2,C. LeVert,
+115,1,0:11.0,22,22,BRK,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Konchar,C. LeVert
+116,1,0:11.0,22,22,BRK,MEM,0,home,Sub,,,,,W. Chandler,J. Harris
+117,1,0:11.0,23,22,BRK,MEM,0,home,FreeThrow,,,make1,1,C. LeVert,
+118,1,0:01.0,23,22,BRK,MEM,10,away,JS,,26,miss3,0,J. Jackson,
+119,1,0:01.0,23,22,BRK,MEM,0,away,OffReb,,,OffReb,,Team,
+120,2,11:41.0,23,22,BRK,MEM,19,away,JS,,25,miss3,0,A. Tolliver,
+121,2,11:38.0,23,22,BRK,MEM,3,home,DefReb,,,DefReb,,D. Jordan,
+122,2,11:27.0,23,22,BRK,MEM,11,home,JS,,11,miss2,0,C. LeVert,
+123,2,11:24.0,23,22,BRK,MEM,3,away,DefReb,,,DefReb,,G. Dieng,
+124,2,11:18.0,23,25,BRK,MEM,6,away,JS,assist,24,make3,3,J. Jackson,T. Jones
+125,2,11:06.0,23,25,BRK,MEM,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Tolliver,T. Prince
+126,2,10:53.0,23,25,BRK,MEM,13,home,JS,,25,miss3,0,T. Prince,
+127,2,10:48.0,23,25,BRK,MEM,5,away,DefReb,,,DefReb,,G. Dieng,
+128,2,10:43.0,23,25,BRK,MEM,5,away,JS,,25,miss3,0,J. Jackson,
+129,2,10:43.0,23,25,BRK,MEM,0,home,DefReb,,,DefReb,,Team,
+130,2,10:32.0,23,25,BRK,MEM,11,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Jackson,D. Jordan
+131,2,10:32.0,23,25,BRK,MEM,0,home,TechnicalFoul,,,TechnicalFoul,,J. Jackson,
+132,2,10:32.0,24,25,BRK,MEM,0,home,FreeThrow,,,make1,1,T. Prince makes technical free throw,
+133,2,10:18.0,24,25,BRK,MEM,14,home,LU,block,2,miss2,0,T. Prince,G. Dieng
+134,2,10:18.0,24,25,BRK,MEM,0,home,OffReb,,,OffReb,,Team,
+135,2,10:18.0,24,25,BRK,MEM,0,home,ShotClockViolation,,,turnover,,Team,
+136,2,10:06.0,24,25,BRK,MEM,12,away,LU,,8,miss2,0,T. Jones,
+137,2,10:03.0,24,25,BRK,MEM,3,away,OffReb,,,OffReb,,G. Dieng,
+138,2,9:56.0,24,25,BRK,MEM,7,away,JS,,17,miss2,0,G. Dieng,
+139,2,9:52.0,24,25,BRK,MEM,4,home,DefReb,,,DefReb,,C. Chiozza,
+140,2,9:50.0,24,25,BRK,MEM,2,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Prince,J. Jackson
+141,2,9:50.0,24,25,BRK,MEM,0,home,OffensiveFoul,,,turnover,,T. Prince,
+142,2,9:39.0,24,28,BRK,MEM,11,away,JS,,25,make3,3,T. Jones,
+143,2,9:28.0,27,28,BRK,MEM,11,home,JS,assist,25,make3,3,C. Chiozza,C. LeVert
+144,2,9:13.0,27,28,BRK,MEM,15,away,JS,,14,miss2,0,T. Jones,
+145,2,9:12.0,27,28,BRK,MEM,1,home,DefReb,,,DefReb,,D. Jordan,
+146,2,9:05.0,29,28,BRK,MEM,7,home,LU,,1,make2,2,C. Chiozza,
+147,2,9:05.0,29,28,BRK,MEM,0,away,DefGoaltending,,,DefGoaltending,,Team,
+148,2,8:53.0,29,28,BRK,MEM,12,away,JS,,26,miss3,0,A. Tolliver,
+149,2,8:49.0,29,28,BRK,MEM,4,home,DefReb,,,DefReb,,C. Chiozza,
+150,2,8:48.0,31,28,BRK,MEM,1,home,LU,,2,make2,2,C. Chiozza,
+151,2,8:48.0,31,28,BRK,MEM,0,away,Timeout,,,,,,
+152,2,8:48.0,31,28,BRK,MEM,0,away,Sub,,,,,D. Melton,G. Dieng
+153,2,8:48.0,31,28,BRK,MEM,0,away,Sub,,,,,J. Morant,J. Jackson
+154,2,8:48.0,31,28,BRK,MEM,0,away,Sub,,,,,J. Valančiūnas,T. Jones
+155,2,8:33.0,31,28,BRK,MEM,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Luwawu-Cabarrot,D. Melton
+156,2,8:18.0,31,28,BRK,MEM,15,away,HS,,3,miss2,0,J. Valančiūnas,
+157,2,8:15.0,31,28,BRK,MEM,3,home,DefReb,,,DefReb,,T. Prince,
+158,2,8:06.0,31,28,BRK,MEM,9,home,Traveling,,,turnover,,D. Jordan,
+159,2,7:55.0,31,30,BRK,MEM,11,away,JS,,10,make2,2,J. Morant,
+160,2,7:42.0,33,30,BRK,MEM,13,home,JS,,13,make2,2,C. LeVert,
+161,2,7:22.0,33,33,BRK,MEM,20,away,JS,assist,23,make3,3,D. Melton,J. Konchar
+162,2,7:06.0,33,33,BRK,MEM,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Konchar,T. Luwawu-Cabarrot
+163,2,7:06.0,34,33,BRK,MEM,0,home,FreeThrow,,,make1,1,T. Luwawu-Cabarrot,
+164,2,7:06.0,34,33,BRK,MEM,0,away,Sub,,,,,K. Anderson,J. Konchar
+165,2,7:06.0,34,33,BRK,MEM,0,away,Sub,,,,,D. Brooks,A. Tolliver
+166,2,7:06.0,34,33,BRK,MEM,0,home,Sub,,,,,S. Dinwiddie,C. Chiozza
+167,2,7:06.0,34,33,BRK,MEM,0,home,Sub,,,,,J. Harris,C. LeVert
+168,2,7:06.0,35,33,BRK,MEM,0,home,FreeThrow,,,make1,1,T. Luwawu-Cabarrot,
+169,2,6:53.0,35,33,BRK,MEM,13,away,JS,,23,miss3,0,K. Anderson,
+170,2,6:48.0,35,33,BRK,MEM,5,away,OffReb,,,OffReb,,J. Morant,
+171,2,6:40.0,35,33,BRK,MEM,8,away,HS,,7,miss2,0,J. Valančiūnas,
+172,2,6:37.0,35,33,BRK,MEM,3,home,DefReb,,,DefReb,,J. Harris,
+173,2,6:25.0,35,33,BRK,MEM,12,home,JS,,25,miss3,0,S. Dinwiddie,
+174,2,6:22.0,35,33,BRK,MEM,3,away,DefReb,,,DefReb,,J. Valančiūnas,
+175,2,6:17.0,35,33,BRK,MEM,5,away,JS,,25,miss3,0,D. Melton,
+176,2,6:12.0,35,33,BRK,MEM,5,away,OffReb,,,OffReb,,K. Anderson,
+177,2,6:11.0,35,35,BRK,MEM,1,away,JS,,12,make2,2,K. Anderson,
+178,2,6:10.0,35,35,BRK,MEM,1,home,Timeout,,,,,,
+179,2,6:10.0,35,35,BRK,MEM,0,home,Sub,,,,,J. Allen,D. Jordan
+180,2,6:10.0,35,35,BRK,MEM,0,home,Sub,,,,,W. Chandler,T. Luwawu-Cabarrot
+181,2,5:49.0,35,35,BRK,MEM,21,home,JS,,20,miss2,0,S. Dinwiddie,
+182,2,5:47.0,35,35,BRK,MEM,2,home,OffReb,,,OffReb,,J. Allen,
+183,2,5:45.0,35,35,BRK,MEM,2,home,HS,,3,miss2,0,J. Allen,
+184,2,5:43.0,35,35,BRK,MEM,2,away,DefReb,,,DefReb,,J. Morant,
+185,2,5:36.0,35,35,BRK,MEM,7,away,BadPass,,,turnover,,K. Anderson,
+186,2,5:23.0,35,35,BRK,MEM,13,home,JS,,24,miss3,0,T. Prince,
+187,2,5:19.0,35,35,BRK,MEM,4,home,OffReb,,,OffReb,,S. Dinwiddie,
+188,2,5:15.0,35,35,BRK,MEM,4,home,JS,,25,miss3,0,W. Chandler,
+189,2,5:15.0,35,35,BRK,MEM,0,home,OffReb,,,OffReb,,Team,
+190,2,5:15.0,35,35,BRK,MEM,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Brooks,J. Allen
+191,2,5:05.0,35,35,BRK,MEM,10,home,DK,,2,miss2,0,J. Allen,
+192,2,5:03.0,35,35,BRK,MEM,2,away,DefReb,,,DefReb,,D. Melton,
+193,2,4:58.0,35,37,BRK,MEM,5,away,DK,assist,1,make2,2,J. Morant,D. Melton
+194,2,4:40.0,37,37,BRK,MEM,18,home,JS,,9,make2,2,W. Chandler,
+195,2,4:31.0,37,40,BRK,MEM,9,away,JS,assist,25,make3,3,D. Melton,J. Morant
+196,2,4:16.0,37,40,BRK,MEM,15,home,lost ball,steal,,turnover,,W. Chandler,J. Morant
+197,2,4:15.0,37,40,BRK,MEM,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Chandler,D. Brooks
+198,2,4:03.0,37,40,BRK,MEM,12,away,JS,,9,miss2,0,J. Morant,
+199,2,4:01.0,37,40,BRK,MEM,2,away,OffReb,,,OffReb,,J. Valančiūnas,
+200,2,3:59.0,37,42,BRK,MEM,2,away,HS,,1,make2,2,J. Valančiūnas,
+201,2,3:52.0,37,42,BRK,MEM,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Brooks,S. Dinwiddie
+202,2,3:52.0,38,42,BRK,MEM,0,home,FreeThrow,,,make1,1,S. Dinwiddie,
+203,2,3:52.0,38,42,BRK,MEM,0,away,Sub,,,,,J. Jackson,D. Brooks
+204,2,3:52.0,38,42,BRK,MEM,0,home,Sub,,,,,C. LeVert,T. Prince
+205,2,3:52.0,39,42,BRK,MEM,0,home,FreeThrow,,,make1,1,S. Dinwiddie,
+206,2,3:43.0,39,42,BRK,MEM,9,away,bad pass,steal,,turnover,,J. Valančiūnas,S. Dinwiddie
+207,2,3:38.0,41,42,BRK,MEM,5,home,LU,,2,make2,2,S. Dinwiddie,
+208,2,3:32.0,41,42,BRK,MEM,6,away,JS,,16,miss2,0,J. Morant,
+209,2,3:30.0,41,42,BRK,MEM,2,home,DefReb,,,DefReb,,J. Harris,
+210,2,3:17.0,41,42,BRK,MEM,13,home,JS,,15,miss2,0,C. LeVert,
+211,2,3:12.0,41,42,BRK,MEM,5,away,DefReb,,,DefReb,,J. Valančiūnas,
+212,2,3:10.0,41,42,BRK,MEM,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Chandler,D. Melton
+213,2,2:58.0,41,42,BRK,MEM,12,away,JS,,25,miss3,0,D. Melton,
+214,2,2:55.0,41,42,BRK,MEM,3,home,DefReb,,,DefReb,,W. Chandler,
+215,2,2:48.0,41,42,BRK,MEM,7,home,bad pass,steal,,turnover,,J. Harris,J. Jackson
+216,2,2:43.0,41,44,BRK,MEM,5,away,DK,assist,2,make2,2,J. Jackson,D. Melton
+217,2,2:26.0,41,44,BRK,MEM,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Valančiūnas,J. Allen
+218,2,2:26.0,41,44,BRK,MEM,0,home,FreeThrow,,,make1,0,J. Allen,
+219,2,2:26.0,41,44,BRK,MEM,0,home,OffReb,,,OffReb,,Team,
+220,2,2:26.0,41,44,BRK,MEM,0,away,Sub,,,,,T. Jones,K. Anderson
+221,2,2:26.0,41,44,BRK,MEM,0,away,Sub,,,,,A. Tolliver,J. Jackson
+222,2,2:26.0,41,44,BRK,MEM,0,home,FreeThrow,,,make1,0,J. Allen,
+223,2,2:23.0,41,44,BRK,MEM,3,away,DefReb,,,DefReb,,A. Tolliver,
+224,2,2:04.0,41,44,BRK,MEM,19,away,bad pass,steal,,turnover,,A. Tolliver,J. Harris
+225,2,1:51.0,41,44,BRK,MEM,13,home,JS,,25,miss3,0,J. Harris,
+226,2,1:46.0,41,44,BRK,MEM,5,away,DefReb,,,DefReb,,J. Valančiūnas,
+227,2,1:42.0,41,46,BRK,MEM,4,away,DK,assist,2,make2,2,J. Valančiūnas,T. Jones
+228,2,1:30.0,43,46,BRK,MEM,12,home,DK,assist,1,make2,2,J. Allen,S. Dinwiddie
+229,2,1:08.0,43,49,BRK,MEM,22,away,JS,assist,26,make3,3,T. Jones,D. Melton
+230,2,0:58.0,43,49,BRK,MEM,10,home,JS,,28,miss3,0,S. Dinwiddie,
+231,2,0:55.0,43,49,BRK,MEM,3,away,DefReb,,,DefReb,,J. Valančiūnas,
+232,2,0:41.0,43,49,BRK,MEM,14,away,JS,,9,miss2,0,J. Morant,
+233,2,0:37.0,43,49,BRK,MEM,4,home,DefReb,,,DefReb,,C. LeVert,
+234,2,0:29.0,45,49,BRK,MEM,8,home,JS,,13,make2,2,C. LeVert,
+235,2,0:06.0,45,51,BRK,MEM,23,away,JS,assist,6,make2,2,J. Valančiūnas,J. Morant
+236,2,0:06.0,45,51,BRK,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Dinwiddie,J. Valančiūnas
+237,2,0:06.0,45,52,BRK,MEM,0,away,FreeThrow,,,make1,1,J. Valančiūnas,
+238,2,0:00.0,45,52,BRK,MEM,6,home,JS,block,26,miss3,0,C. LeVert,D. Melton
+239,2,0:00.0,45,52,BRK,MEM,0,home,OffReb,,,OffReb,,Team,
+240,3,11:41.0,45,52,BRK,MEM,19,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Valančiūnas,J. Allen
+241,3,11:41.0,45,52,BRK,MEM,0,away,OffensiveFoul,,,turnover,,J. Valančiūnas,
+242,3,11:25.0,45,52,BRK,MEM,16,home,JS,,5,miss2,0,T. Prince,
+243,3,11:20.0,45,52,BRK,MEM,5,away,DefReb,,,DefReb,,J. Valančiūnas,
+244,3,11:07.0,45,54,BRK,MEM,13,away,LU,,5,make2,2,D. Brooks,
+245,3,10:45.0,47,54,BRK,MEM,22,home,JS,assist,2,make2,2,T. Prince,J. Harris
+246,3,10:33.0,47,54,BRK,MEM,12,away,JS,,23,miss3,0,D. Melton,
+247,3,10:30.0,47,54,BRK,MEM,3,away,OffReb,,,OffReb,,J. Morant,
+248,3,10:29.0,47,56,BRK,MEM,1,away,LU,,0,make2,2,J. Morant,
+249,3,10:14.0,47,56,BRK,MEM,15,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,S. Dinwiddie,D. Melton
+250,3,10:14.0,47,56,BRK,MEM,0,home,OffensiveFoul,,,turnover,,S. Dinwiddie,
+251,3,9:54.0,47,56,BRK,MEM,20,away,JS,,11,miss2,0,K. Anderson,
+252,3,9:48.0,47,56,BRK,MEM,6,home,DefReb,,,DefReb,,C. LeVert,
+253,3,9:40.0,47,56,BRK,MEM,8,home,LU,block,2,miss2,0,C. LeVert,J. Valančiūnas
+254,3,9:38.0,47,56,BRK,MEM,2,away,DefReb,,,DefReb,,J. Valančiūnas,
+255,3,9:33.0,47,56,BRK,MEM,5,away,JS,,26,miss3,0,D. Brooks,
+256,3,9:29.0,47,56,BRK,MEM,4,home,DefReb,,,DefReb,,J. Allen,
+257,3,9:22.0,47,56,BRK,MEM,7,home,JS,,25,miss3,0,C. LeVert,
+258,3,9:20.0,47,56,BRK,MEM,2,away,DefReb,,,DefReb,,J. Valančiūnas,
+259,3,9:14.0,47,58,BRK,MEM,6,away,DK,,1,make2,2,D. Brooks,
+260,3,8:49.0,47,58,BRK,MEM,25,home,JS,,27,miss3,0,S. Dinwiddie,
+261,3,8:46.0,47,58,BRK,MEM,3,away,DefReb,,,DefReb,,J. Valančiūnas,
+262,3,8:29.0,47,60,BRK,MEM,17,away,JS,,10,make2,2,K. Anderson,
+263,3,8:28.0,47,60,BRK,MEM,1,home,Timeout,,,,,,
+264,3,8:13.0,47,60,BRK,MEM,15,home,JS,,25,miss3,0,T. Prince,
+265,3,8:09.0,47,60,BRK,MEM,4,away,DefReb,,,DefReb,,D. Melton,
+266,3,8:04.0,47,60,BRK,MEM,5,away,LU,,4,miss2,0,D. Melton,
+267,3,8:02.0,47,60,BRK,MEM,2,home,DefReb,,,DefReb,,S. Dinwiddie,
+268,3,7:54.0,47,60,BRK,MEM,8,home,JS,,24,miss3,0,J. Harris,
+269,3,7:51.0,47,60,BRK,MEM,3,away,DefReb,,,DefReb,,J. Valančiūnas,
+270,3,7:40.0,47,62,BRK,MEM,11,away,JS,assist,7,make2,2,K. Anderson,J. Valančiūnas
+271,3,7:21.0,47,62,BRK,MEM,19,home,JS,,13,miss2,0,C. LeVert,
+272,3,7:19.0,47,62,BRK,MEM,2,away,DefReb,,,DefReb,,J. Valančiūnas,
+273,3,7:13.0,47,64,BRK,MEM,6,away,LU,assist,4,make2,2,J. Valančiūnas,D. Brooks
+274,3,6:56.0,50,64,BRK,MEM,17,home,JS,assist,25,make3,3,T. Prince,S. Dinwiddie
+275,3,6:40.0,50,67,BRK,MEM,16,away,JS,assist,25,make3,3,D. Melton,J. Morant
+276,3,6:22.0,53,67,BRK,MEM,18,home,JS,assist,26,make3,3,J. Harris,C. LeVert
+277,3,6:03.0,53,67,BRK,MEM,19,away,JS,,16,miss2,0,D. Brooks,
+278,3,6:00.0,53,67,BRK,MEM,3,home,DefReb,,,DefReb,,T. Prince,
+279,3,5:56.0,53,67,BRK,MEM,4,home,JS,,25,miss3,0,T. Prince,
+280,3,5:52.0,53,67,BRK,MEM,4,away,DefReb,,,DefReb,,J. Morant,
+281,3,5:38.0,53,67,BRK,MEM,14,away,JS,,22,miss2,0,J. Morant,
+282,3,5:36.0,53,67,BRK,MEM,2,home,DefReb,,,DefReb,,J. Harris,
+283,3,5:31.0,53,67,BRK,MEM,5,home,LU,,3,miss2,0,C. LeVert,
+284,3,5:30.0,53,67,BRK,MEM,1,home,OffReb,,,OffReb,,J. Allen,
+285,3,5:30.0,55,67,BRK,MEM,0,home,LU,,1,make2,2,J. Allen,
+286,3,5:30.0,55,67,BRK,MEM,0,away,Timeout,,,,,,
+287,3,5:30.0,55,67,BRK,MEM,0,away,Sub,,,,,T. Jones,D. Melton
+288,3,5:30.0,55,67,BRK,MEM,0,home,Sub,,,,,W. Chandler,J. Allen
+289,3,5:30.0,55,67,BRK,MEM,0,home,Sub,,,,,C. Chiozza,S. Dinwiddie
+290,3,5:30.0,55,67,BRK,MEM,0,home,Sub,,,,,T. Luwawu-Cabarrot,T. Prince
+291,3,5:16.0,55,67,BRK,MEM,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Chiozza,J. Morant
+292,3,5:16.0,55,68,BRK,MEM,0,away,FreeThrow,,,make1,1,J. Morant,
+293,3,5:16.0,55,69,BRK,MEM,0,away,FreeThrow,,,make1,1,J. Morant,
+294,3,5:12.0,55,69,BRK,MEM,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Brooks,C. LeVert
+295,3,5:12.0,55,69,BRK,MEM,0,away,Sub,,,,,J. Jackson,D. Brooks
+296,3,4:59.0,57,69,BRK,MEM,13,home,LU,,3,make2,2,C. LeVert,
+297,3,4:35.0,57,69,BRK,MEM,24,away,JS,,6,miss2,0,J. Morant,
+298,3,4:34.0,57,69,BRK,MEM,1,away,OffReb,,,OffReb,,J. Morant,
+299,3,4:22.0,57,69,BRK,MEM,12,away,LU,block,2,miss2,0,T. Jones,J. Harris
+300,3,4:20.0,57,69,BRK,MEM,2,away,OffReb,,,OffReb,,T. Jones,
+301,3,4:20.0,57,69,BRK,MEM,0,away,LU,block,2,miss2,0,T. Jones,T. Luwawu-Cabarrot
+302,3,4:19.0,57,69,BRK,MEM,1,home,DefReb,,,DefReb,,J. Harris,
+303,3,4:12.0,57,69,BRK,MEM,7,home,LU,,2,miss2,0,J. Harris,
+304,3,4:09.0,57,69,BRK,MEM,3,away,DefReb,,,DefReb,,K. Anderson,
+305,3,4:07.0,57,69,BRK,MEM,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Luwawu-Cabarrot,J. Morant
+306,3,4:07.0,57,69,BRK,MEM,0,away,Sub,,,,,G. Dieng,K. Anderson
+307,3,4:07.0,57,69,BRK,MEM,0,away,Sub,,,,,A. Tolliver,J. Valančiūnas
+308,3,4:00.0,57,72,BRK,MEM,7,away,JS,assist,25,make3,3,J. Jackson,T. Jones
+309,3,3:49.0,57,72,BRK,MEM,11,home,LU,,1,miss2,0,J. Harris,
+310,3,3:46.0,57,72,BRK,MEM,3,home,OffReb,,,OffReb,,J. Harris,
+311,3,3:45.0,57,72,BRK,MEM,1,home,LU,,1,miss2,0,J. Harris,
+312,3,3:41.0,57,72,BRK,MEM,4,home,OffReb,,,OffReb,,J. Harris,
+313,3,3:41.0,59,72,BRK,MEM,0,home,LU,,1,make2,2,J. Harris,
+314,3,3:39.0,59,72,BRK,MEM,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Chiozza,J. Jackson
+315,3,3:39.0,59,72,BRK,MEM,0,away,FreeThrow,,,make1,0,J. Jackson,
+316,3,3:39.0,59,72,BRK,MEM,0,away,OffReb,,,OffReb,,Team,
+317,3,3:39.0,59,72,BRK,MEM,0,away,Sub,,,,,J. Konchar,J. Morant
+318,3,3:39.0,59,73,BRK,MEM,0,away,FreeThrow,,,make1,1,J. Jackson,
+319,3,3:35.0,61,73,BRK,MEM,4,home,LU,assist,2,make2,2,C. LeVert,C. Chiozza
+320,3,3:35.0,61,73,BRK,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,C. LeVert
+321,3,3:35.0,61,73,BRK,MEM,0,home,FreeThrow,,,make1,0,C. LeVert,
+322,3,3:31.0,61,73,BRK,MEM,4,away,DefReb,,,DefReb,,G. Dieng,
+323,3,3:21.0,61,76,BRK,MEM,10,away,JS,assist,25,make3,3,J. Jackson,T. Jones
+324,3,3:12.0,61,76,BRK,MEM,9,home,JS,,25,miss3,0,C. LeVert,
+325,3,3:08.0,61,76,BRK,MEM,4,away,DefReb,,,DefReb,,T. Jones,
+326,3,3:00.0,61,76,BRK,MEM,8,away,BadPass,,,turnover,,G. Dieng,
+327,3,2:44.0,63,76,BRK,MEM,16,home,LU,,1,make2,2,C. Chiozza,
+328,3,2:15.0,63,76,BRK,MEM,29,away,bad pass,steal,,turnover,,G. Dieng,C. LeVert
+329,3,2:11.0,63,76,BRK,MEM,4,home,LU,,1,miss2,0,C. LeVert,
+330,3,2:07.0,63,76,BRK,MEM,4,away,DefReb,,,DefReb,,G. Dieng,
+331,3,2:02.0,63,78,BRK,MEM,5,away,JS,,4,make2,2,J. Jackson,
+332,3,1:53.0,63,78,BRK,MEM,9,home,JS,,26,miss3,0,W. Chandler,
+333,3,1:53.0,63,78,BRK,MEM,0,home,OffReb,,,OffReb,,C. Chiozza,
+334,3,1:47.0,63,78,BRK,MEM,6,home,bad pass,steal,,turnover,,C. Chiozza,A. Tolliver
+335,3,1:41.0,63,80,BRK,MEM,6,away,LU,assist,1,make2,2,T. Jones,J. Jackson
+336,3,1:32.0,63,80,BRK,MEM,9,home,JS,,25,miss3,0,C. LeVert,
+337,3,1:28.0,63,80,BRK,MEM,4,away,DefReb,,,DefReb,,G. Dieng,
+338,3,1:28.0,63,80,BRK,MEM,0,home,Sub,,,,,R. Kurucs,C. LeVert
+339,3,1:12.0,63,80,BRK,MEM,16,away,JS,,10,miss2,0,T. Jones,
+340,3,1:08.0,63,80,BRK,MEM,4,home,DefReb,,,DefReb,,J. Harris,
+341,3,1:02.0,65,80,BRK,MEM,6,home,LU,assist,3,make2,2,J. Harris,T. Luwawu-Cabarrot
+342,3,0:39.0,65,80,BRK,MEM,23,away,JS,,25,miss3,0,T. Jones,
+343,3,0:37.0,65,80,BRK,MEM,2,away,OffReb,,,OffReb,,Team,
+344,3,0:37.0,65,80,BRK,MEM,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Harris,J. Konchar
+345,3,0:32.0,65,82,BRK,MEM,5,away,LU,assist,7,make2,2,G. Dieng,T. Jones
+346,3,0:18.0,65,82,BRK,MEM,14,home,JS,,25,miss3,0,T. Luwawu-Cabarrot,
+347,3,0:08.0,65,82,BRK,MEM,10,away,DefReb,,,DefReb,,T. Jones,
+348,3,0:00.0,65,82,BRK,MEM,8,away,LU,,6,miss2,0,T. Jones,
+349,3,0:00.0,65,82,BRK,MEM,0,away,OffReb,,,OffReb,,Team,
+350,4,11:46.0,65,82,BRK,MEM,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Jones,R. Kurucs
+351,4,11:46.0,65,82,BRK,MEM,0,home,FreeThrow,,,make1,0,R. Kurucs,
+352,4,11:46.0,65,82,BRK,MEM,0,home,OffReb,,,OffReb,,Team,
+353,4,11:46.0,66,82,BRK,MEM,0,home,FreeThrow,,,make1,1,R. Kurucs,
+354,4,11:31.0,66,85,BRK,MEM,15,away,JS,assist,24,make3,3,J. Jackson,T. Jones
+355,4,11:19.0,66,85,BRK,MEM,12,home,JS,,26,miss3,0,C. Chiozza,
+356,4,11:15.0,66,85,BRK,MEM,4,away,DefReb,,,DefReb,,G. Dieng,
+357,4,11:08.0,66,85,BRK,MEM,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Chiozza,A. Tolliver
+358,4,11:08.0,66,86,BRK,MEM,0,away,FreeThrow,,,make1,1,A. Tolliver,
+359,4,11:08.0,66,86,BRK,MEM,0,home,Sub,,,,,T. Prince,W. Chandler
+360,4,11:08.0,66,87,BRK,MEM,0,away,FreeThrow,,,make1,1,A. Tolliver,
+361,4,10:55.0,66,87,BRK,MEM,13,home,LU,block,5,miss2,0,T. Prince,G. Dieng
+362,4,10:52.0,66,87,BRK,MEM,3,home,OffReb,,,OffReb,,S. Dinwiddie,
+363,4,10:51.0,66,87,BRK,MEM,1,home,JS,,26,miss3,0,S. Dinwiddie,
+364,4,10:49.0,66,87,BRK,MEM,2,away,DefReb,,,DefReb,,T. Jones,
+365,4,10:42.0,66,90,BRK,MEM,7,away,JS,,25,make3,3,T. Jones,
+366,4,10:31.0,66,90,BRK,MEM,11,home,LU,,1,miss2,0,R. Kurucs,
+367,4,10:27.0,66,90,BRK,MEM,4,away,DefReb,,,DefReb,,G. Dieng,
+368,4,10:19.0,66,90,BRK,MEM,8,away,JS,,26,miss3,0,J. Jackson,
+369,4,10:16.0,66,90,BRK,MEM,3,home,DefReb,,,DefReb,,R. Kurucs,
+370,4,10:07.0,68,90,BRK,MEM,9,home,JS,,16,make2,2,T. Prince,
+371,4,9:49.0,68,92,BRK,MEM,18,away,JS,,11,make2,2,G. Dieng,
+372,4,9:24.0,68,92,BRK,MEM,25,home,JS,,26,miss3,0,T. Prince,
+373,4,9:20.0,68,92,BRK,MEM,4,away,DefReb,,,DefReb,,G. Dieng,
+374,4,9:09.0,68,95,BRK,MEM,11,away,JS,,23,make3,3,T. Jones,
+375,4,9:09.0,68,95,BRK,MEM,0,home,Timeout,,,,,,
+376,4,9:09.0,68,95,BRK,MEM,0,home,Sub,,,,,J. Allen,S. Dinwiddie
+377,4,9:09.0,68,95,BRK,MEM,0,home,Sub,,,,,T. Luwawu-Cabarrot,D. Jordan
+378,4,8:52.0,68,95,BRK,MEM,17,home,OutOfBoundsLB,,,turnover,,T. Prince,
+379,4,8:36.0,68,95,BRK,MEM,16,away,JS,,5,miss2,0,J. Jackson,
+380,4,8:34.0,68,95,BRK,MEM,2,home,DefReb,,,DefReb,,T. Prince,
+381,4,8:23.0,68,95,BRK,MEM,11,home,bad pass,steal,,turnover,,R. Kurucs,J. Jackson
+382,4,8:16.0,68,95,BRK,MEM,7,away,BadPass,,,turnover,,J. Jackson,
+383,4,8:09.0,68,95,BRK,MEM,7,home,LU,,2,miss2,0,T. Prince,
+384,4,8:07.0,68,95,BRK,MEM,2,away,DefReb,,,DefReb,,G. Dieng,
+385,4,8:00.0,68,95,BRK,MEM,7,away,JS,,25,miss3,0,J. Jackson,
+386,4,8:00.0,68,95,BRK,MEM,0,home,DefReb,,,DefReb,,Team,
+387,4,8:00.0,68,95,BRK,MEM,0,home,Sub,,,,,T. Pinson,T. Prince
+388,4,7:45.0,68,95,BRK,MEM,15,home,JS,,26,miss3,0,T. Luwawu-Cabarrot,
+389,4,7:41.0,68,95,BRK,MEM,4,away,DefReb,,,DefReb,,J. Konchar,
+390,4,7:25.0,68,95,BRK,MEM,16,away,JS,block,6,miss2,0,G. Dieng,T. Pinson
+391,4,7:25.0,68,95,BRK,MEM,0,away,OffReb,,,OffReb,,Team,
+392,4,7:25.0,68,95,BRK,MEM,0,home,KickBallViolation,,,KickBallViolation,,Team,
+393,4,7:25.0,68,95,BRK,MEM,0,away,Sub,,,,,K. Anderson,J. Jackson
+394,4,7:25.0,68,95,BRK,MEM,0,away,Sub,,,,,D. Brooks,T. Jones
+395,4,7:25.0,68,95,BRK,MEM,0,away,Sub,,,,,J. Morant,A. Tolliver
+396,4,7:15.0,68,98,BRK,MEM,10,away,JS,assist,23,make3,3,K. Anderson,J. Morant
+397,4,6:56.0,68,98,BRK,MEM,19,home,JS,,23,miss3,0,T. Luwawu-Cabarrot,
+398,4,6:54.0,68,98,BRK,MEM,2,away,DefReb,,,DefReb,,J. Morant,
+399,4,6:43.0,68,100,BRK,MEM,11,away,LU,,1,make2,2,J. Morant,
+400,4,6:24.0,68,100,BRK,MEM,19,home,JS,,25,miss3,0,R. Kurucs,
+401,4,6:18.0,68,100,BRK,MEM,6,home,OffReb,,,OffReb,,J. Allen,
+402,4,6:16.0,68,100,BRK,MEM,2,home,JS,,25,miss3,0,R. Kurucs,
+403,4,6:14.0,68,100,BRK,MEM,2,away,DefReb,,,DefReb,,G. Dieng,
+404,4,6:02.0,68,100,BRK,MEM,12,away,lost ball,steal,,turnover,,D. Brooks,T. Pinson
+405,4,5:57.0,70,100,BRK,MEM,5,home,LU,assist,2,make2,2,T. Luwawu-Cabarrot,R. Kurucs
+406,4,5:43.0,70,100,BRK,MEM,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Allen,G. Dieng
+407,4,5:43.0,70,101,BRK,MEM,0,away,FreeThrow,,,make1,1,G. Dieng,
+408,4,5:43.0,70,101,BRK,MEM,0,away,Sub,,,,,Y. Watanabe,J. Konchar
+409,4,5:43.0,70,102,BRK,MEM,0,away,FreeThrow,,,make1,1,G. Dieng,
+410,4,5:29.0,73,102,BRK,MEM,14,home,JS,assist,25,make3,3,C. Chiozza,T. Pinson
+411,4,5:21.0,73,102,BRK,MEM,8,away,Timeout,,,,,,
+412,4,5:21.0,73,102,BRK,MEM,0,away,Sub,,,,,M. Guduric,K. Anderson
+413,4,5:21.0,73,102,BRK,MEM,0,away,Sub,,,,,J. Konchar,D. Brooks
+414,4,5:21.0,73,102,BRK,MEM,0,away,Sub,,,,,A. Tolliver,G. Dieng
+415,4,5:21.0,73,102,BRK,MEM,0,away,Sub,,,,,J. Uthoff,J. Morant
+416,4,5:09.0,73,105,BRK,MEM,12,away,JS,assist,24,make3,3,M. Guduric,A. Tolliver
+417,4,4:49.0,73,105,BRK,MEM,20,home,LU,block,3,miss2,0,T. Pinson,A. Tolliver
+418,4,4:46.0,73,105,BRK,MEM,3,away,DefReb,,,DefReb,,Y. Watanabe,
+419,4,4:43.0,73,108,BRK,MEM,3,away,JS,assist,25,make3,3,Y. Watanabe,J. Konchar
+420,4,4:33.0,73,108,BRK,MEM,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,Y. Watanabe,T. Luwawu-Cabarrot
+421,4,4:33.0,74,108,BRK,MEM,0,home,FreeThrow,,,make1,1,T. Luwawu-Cabarrot,
+422,4,4:33.0,75,108,BRK,MEM,0,home,FreeThrow,,,make1,1,T. Luwawu-Cabarrot,
+423,4,4:27.0,75,108,BRK,MEM,6,away,bad pass,steal,,turnover,,J. Konchar,C. Chiozza
+424,4,4:24.0,75,108,BRK,MEM,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Uthoff,C. Chiozza
+425,4,4:24.0,76,108,BRK,MEM,0,home,FreeThrow,,,make1,1,C. Chiozza,
+426,4,4:24.0,77,108,BRK,MEM,0,home,FreeThrow,,,make1,1,C. Chiozza,
+427,4,4:11.0,77,108,BRK,MEM,13,away,JS,,25,miss3,0,J. Uthoff,
+428,4,4:10.0,77,108,BRK,MEM,1,away,OffReb,,,OffReb,,Team,
+429,4,4:02.0,77,108,BRK,MEM,8,away,JS,,26,miss3,0,Y. Watanabe,
+430,4,3:59.0,77,108,BRK,MEM,3,home,DefReb,,,DefReb,,J. Allen,
+431,4,3:48.0,77,108,BRK,MEM,11,home,lost ball,steal,,turnover,,J. Allen,Y. Watanabe
+432,4,3:40.0,77,111,BRK,MEM,8,away,JS,,25,make3,3,M. Guduric,
+433,4,3:26.0,77,111,BRK,MEM,14,home,JS,,26,miss3,0,T. Pinson,
+434,4,3:22.0,77,111,BRK,MEM,4,away,DefReb,,,DefReb,,A. Tolliver,
+435,4,3:20.0,77,111,BRK,MEM,2,away,BadPass,,,turnover,,J. Konchar,
+436,4,3:06.0,77,111,BRK,MEM,14,home,JS,,25,miss3,0,T. Luwawu-Cabarrot,
+437,4,3:05.0,77,111,BRK,MEM,1,away,DefReb,,,DefReb,,Team,
+438,4,3:05.0,77,111,BRK,MEM,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Kurucs,J. Konchar
+439,4,2:43.0,77,111,BRK,MEM,22,away,JS,,25,miss3,0,J. Uthoff,
+440,4,2:38.0,77,111,BRK,MEM,5,away,OffReb,,,OffReb,,M. Guduric,
+441,4,2:36.0,77,111,BRK,MEM,2,away,JS,,25,miss3,0,A. Tolliver,
+442,4,2:34.0,77,111,BRK,MEM,2,away,OffReb,,,OffReb,,Y. Watanabe,
+443,4,2:27.0,77,113,BRK,MEM,7,away,JS,,3,make2,2,Y. Watanabe,
+444,4,2:11.0,77,113,BRK,MEM,16,home,JS,,26,miss3,0,C. Chiozza,
+445,4,2:09.0,77,113,BRK,MEM,2,away,DefReb,,,DefReb,,Team,
+446,4,1:50.0,77,113,BRK,MEM,19,away,JS,,8,miss2,0,J. Uthoff,
+447,4,1:47.0,77,113,BRK,MEM,3,away,OffReb,,,OffReb,,J. Konchar,
+448,4,1:45.0,77,113,BRK,MEM,2,away,JS,,25,miss3,0,Y. Watanabe,
+449,4,1:44.0,77,113,BRK,MEM,1,away,OffReb,,,OffReb,,J. Konchar,
+450,4,1:43.0,77,116,BRK,MEM,1,away,JS,,25,make3,3,J. Konchar,
+451,4,1:31.0,77,116,BRK,MEM,12,home,lost ball,steal,,turnover,,J. Allen,J. Uthoff
+452,4,1:12.0,77,116,BRK,MEM,19,away,LU,,1,miss2,0,A. Tolliver,
+453,4,1:12.0,77,116,BRK,MEM,0,away,OffReb,,,OffReb,,J. Konchar,
+454,4,1:12.0,77,118,BRK,MEM,0,away,LU,,0,make2,2,J. Konchar,
+455,4,1:00.0,77,118,BRK,MEM,12,home,LU,,1,miss2,0,C. Chiozza,
+456,4,0:59.0,77,118,BRK,MEM,1,home,OffReb,,,OffReb,,J. Allen,
+457,4,0:59.0,79,118,BRK,MEM,0,home,LU,,1,make2,2,J. Allen,
+458,4,0:36.0,79,118,BRK,MEM,23,away,JS,,11,miss2,0,A. Tolliver,
+459,4,0:36.0,79,118,BRK,MEM,0,away,OffReb,,,OffReb,,Team,
+460,4,0:36.0,79,118,BRK,MEM,0,away,ShotClockViolation,,,turnover,,Team,
+461,4,0:23.0,79,118,BRK,MEM,13,home,lost ball,steal,,turnover,,J. Allen,J. Konchar

@@ -1,0 +1,484 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:35.0,0,0,NOP,BOS,25,home,ShotClockViolation,,,turnover,,Team,
+1,1,11:11.0,0,0,NOP,BOS,24,away,ShotClockViolation,,,turnover,,Team,
+2,1,10:59.0,0,0,NOP,BOS,12,home,LU,block,8,miss2,0,B. Ingram,D. Theis
+3,1,10:57.0,0,0,NOP,BOS,2,away,DefReb,,,DefReb,,K. Walker,
+4,1,10:54.0,0,0,NOP,BOS,3,away,LU,,2,miss2,0,G. Hayward,
+5,1,10:51.0,0,0,NOP,BOS,3,home,DefReb,,,DefReb,,J. Holiday,
+6,1,10:44.0,0,0,NOP,BOS,7,home,LU,,3,miss2,0,J. Holiday,
+7,1,10:42.0,0,0,NOP,BOS,2,away,DefReb,,,DefReb,,M. Smart,
+8,1,10:21.0,0,0,NOP,BOS,21,away,LU,,1,miss2,0,K. Walker,
+9,1,10:19.0,0,0,NOP,BOS,2,home,DefReb,,,DefReb,,Z. Williamson,
+10,1,10:17.0,0,0,NOP,BOS,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brown,B. Ingram
+11,1,10:13.0,0,0,NOP,BOS,4,home,LU,,2,miss2,0,D. Favors,
+12,1,10:10.0,0,0,NOP,BOS,3,away,DefReb,,,DefReb,,D. Theis,
+13,1,10:00.0,0,3,NOP,BOS,10,away,JS,,26,make3,3,M. Smart,
+14,1,9:36.0,0,3,NOP,BOS,24,home,JS,,12,miss2,0,J. Holiday,
+15,1,9:35.0,0,3,NOP,BOS,1,away,DefReb,,,DefReb,,J. Brown,
+16,1,9:32.0,0,3,NOP,BOS,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,Z. Williamson,J. Brown
+17,1,9:32.0,0,4,NOP,BOS,0,away,FreeThrow,,,make1,1,J. Brown,
+18,1,9:32.0,0,5,NOP,BOS,0,away,FreeThrow,,,make1,1,J. Brown,
+19,1,9:25.0,2,5,NOP,BOS,7,home,DK,assist,0,make2,2,D. Favors,J. Holiday
+20,1,9:08.0,2,5,NOP,BOS,17,away,LU,,2,miss2,0,J. Brown,
+21,1,9:05.0,2,5,NOP,BOS,3,home,DefReb,,,DefReb,,D. Favors,
+22,1,9:00.0,2,5,NOP,BOS,5,home,JS,,23,miss3,0,L. Ball,
+23,1,8:58.0,2,5,NOP,BOS,2,away,DefReb,,,DefReb,,M. Smart,
+24,1,8:46.0,2,5,NOP,BOS,12,away,LU,,2,miss2,0,J. Brown,
+25,1,8:45.0,2,5,NOP,BOS,1,home,DefReb,,,DefReb,,Z. Williamson,
+26,1,8:34.0,2,5,NOP,BOS,11,home,JS,,26,miss3,0,J. Holiday,
+27,1,8:30.0,2,5,NOP,BOS,4,away,DefReb,,,DefReb,,D. Theis,
+28,1,8:23.0,2,7,NOP,BOS,7,away,JS,assist,16,make2,2,G. Hayward,M. Smart
+29,1,8:09.0,2,7,NOP,BOS,14,home,JS,,9,miss2,0,Z. Williamson,
+30,1,8:07.0,2,7,NOP,BOS,2,home,OffReb,,,OffReb,,Z. Williamson,
+31,1,8:05.0,4,7,NOP,BOS,2,home,LU,,2,make2,2,Z. Williamson,
+32,1,8:05.0,4,7,NOP,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Smart,Z. Williamson
+33,1,8:05.0,5,7,NOP,BOS,0,home,FreeThrow,,,make1,1,Z. Williamson,
+34,1,7:57.0,5,7,NOP,BOS,8,away,JS,,27,miss3,0,K. Walker,
+35,1,7:53.0,5,7,NOP,BOS,4,home,DefReb,,,DefReb,,J. Holiday,
+36,1,7:41.0,8,7,NOP,BOS,12,home,JS,assist,25,make3,3,L. Ball,J. Holiday
+37,1,7:25.0,8,7,NOP,BOS,16,away,bad pass,steal,,turnover,,D. Theis,L. Ball
+38,1,7:10.0,8,7,NOP,BOS,15,home,JS,,25,miss3,0,Z. Williamson,
+39,1,7:08.0,8,7,NOP,BOS,2,home,OffReb,,,OffReb,,Z. Williamson,
+40,1,7:06.0,8,7,NOP,BOS,2,home,JS,,9,miss2,0,Z. Williamson,
+41,1,7:05.0,8,7,NOP,BOS,1,home,OffReb,,,OffReb,,Z. Williamson,
+42,1,7:04.0,8,7,NOP,BOS,1,home,LU,,3,miss2,0,Z. Williamson,
+43,1,7:03.0,8,7,NOP,BOS,1,home,OffReb,,,OffReb,,Z. Williamson,
+44,1,7:03.0,8,7,NOP,BOS,0,home,LU,,1,miss2,0,Z. Williamson,
+45,1,7:02.0,8,7,NOP,BOS,1,away,DefReb,,,DefReb,,M. Smart,
+46,1,6:49.0,8,7,NOP,BOS,13,away,JS,,25,miss3,0,M. Smart,
+47,1,6:47.0,8,7,NOP,BOS,2,home,DefReb,,,DefReb,,B. Ingram,
+48,1,6:40.0,11,7,NOP,BOS,7,home,JS,assist,26,make3,3,L. Ball,J. Holiday
+49,1,6:38.0,11,7,NOP,BOS,2,away,Timeout,,,,,,
+50,1,6:38.0,11,7,NOP,BOS,0,away,Sub,,,,,S. Ojeleye,J. Brown
+51,1,6:26.0,11,7,NOP,BOS,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Ingram,G. Hayward
+52,1,6:26.0,11,8,NOP,BOS,0,away,FreeThrow,,,make1,1,G. Hayward,
+53,1,6:26.0,11,9,NOP,BOS,0,away,FreeThrow,,,make1,1,G. Hayward,
+54,1,6:12.0,13,9,NOP,BOS,14,home,LU,assist,2,make2,2,Z. Williamson,B. Ingram
+55,1,6:02.0,13,9,NOP,BOS,10,away,JS,,26,miss3,0,K. Walker,
+56,1,6:02.0,13,9,NOP,BOS,0,away,OffReb,,,OffReb,,D. Theis,
+57,1,6:00.0,13,11,NOP,BOS,2,away,LU,,2,make2,2,D. Theis,
+58,1,5:41.0,13,11,NOP,BOS,19,home,JS,,23,miss3,0,B. Ingram,
+59,1,5:38.0,13,11,NOP,BOS,3,away,DefReb,,,DefReb,,Team,
+60,1,5:38.0,13,11,NOP,BOS,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Favors,D. Theis
+61,1,5:38.0,13,11,NOP,BOS,0,home,Sub,,,,,J. Redick,Z. Williamson
+62,1,5:28.0,13,11,NOP,BOS,10,away,bad pass,steal,,turnover,,G. Hayward,D. Favors
+63,1,5:26.0,13,11,NOP,BOS,2,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Ingram,K. Walker
+64,1,5:26.0,13,11,NOP,BOS,0,home,OffensiveFoul,,,turnover,,B. Ingram,
+65,1,5:26.0,13,11,NOP,BOS,0,home,Sub,,,,,J. Hart,B. Ingram
+66,1,5:07.0,13,13,NOP,BOS,19,away,LU,assist,3,make2,2,G. Hayward,K. Walker
+67,1,5:07.0,13,13,NOP,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hart,G. Hayward
+68,1,5:07.0,13,14,NOP,BOS,0,away,FreeThrow,,,make1,1,G. Hayward,
+69,1,5:02.0,16,14,NOP,BOS,5,home,JS,assist,26,make3,3,J. Holiday,L. Ball
+70,1,4:56.0,16,14,NOP,BOS,6,home,TechnicalFoul,,,,,Team,
+71,1,4:56.0,16,14,NOP,BOS,0,home,FreeThrow,,,make1,0,J. Redick misses technical free throw,
+72,1,4:56.0,16,14,NOP,BOS,0,away,DefReb,,,DefReb,,Team,
+73,1,4:56.0,16,14,NOP,BOS,0,away,Sub,,,,,J. Green,M. Smart
+74,1,4:37.0,16,16,NOP,BOS,19,away,DK,assist,1,make2,2,D. Theis,K. Walker
+75,1,4:25.0,18,16,NOP,BOS,12,home,LU,assist,2,make2,2,L. Ball,D. Favors
+76,1,4:11.0,18,16,NOP,BOS,14,away,JS,,26,miss3,0,D. Theis,
+77,1,4:08.0,18,16,NOP,BOS,3,away,OffReb,,,OffReb,,S. Ojeleye,
+78,1,4:06.0,18,16,NOP,BOS,2,away,LU,block,2,miss2,0,K. Walker,J. Hart
+79,1,4:04.0,18,16,NOP,BOS,2,away,OffReb,,,OffReb,,Team,
+80,1,4:04.0,18,16,NOP,BOS,0,home,Sub,,,,,J. Hayes,L. Ball
+81,1,4:04.0,18,16,NOP,BOS,0,home,Sub,,,,,F. Jackson,D. Favors
+82,1,3:59.0,18,16,NOP,BOS,5,away,JS,,17,miss2,0,G. Hayward,
+83,1,3:56.0,18,16,NOP,BOS,3,home,DefReb,,,DefReb,,J. Redick,
+84,1,3:50.0,21,16,NOP,BOS,6,home,JS,,25,make3,3,J. Holiday,
+85,1,3:33.0,21,16,NOP,BOS,17,away,JS,,26,miss3,0,K. Walker,
+86,1,3:31.0,21,16,NOP,BOS,2,away,OffReb,,,OffReb,,J. Green,
+87,1,3:31.0,21,18,NOP,BOS,0,away,DK,,1,make2,2,J. Green,
+88,1,3:13.0,24,18,NOP,BOS,18,home,JS,assist,24,make3,3,J. Redick,F. Jackson
+89,1,3:03.0,24,18,NOP,BOS,10,away,LU,,2,miss2,0,K. Walker,
+90,1,3:00.0,24,18,NOP,BOS,3,home,DefReb,,,DefReb,,J. Hayes,
+91,1,2:55.0,26,18,NOP,BOS,5,home,DK,assist,1,make2,2,J. Hayes,J. Holiday
+92,1,2:37.0,26,18,NOP,BOS,18,away,LU,,1,miss2,0,G. Hayward,
+93,1,2:34.0,26,18,NOP,BOS,3,home,DefReb,,,DefReb,,J. Hayes,
+94,1,2:29.0,26,18,NOP,BOS,5,home,bad pass,steal,,turnover,,J. Hayes,G. Hayward
+95,1,2:28.0,26,20,NOP,BOS,1,away,DK,assist,3,make2,2,D. Theis,G. Hayward
+96,1,2:18.0,26,20,NOP,BOS,10,home,JS,,25,miss3,0,J. Holiday,
+97,1,2:18.0,26,20,NOP,BOS,0,away,DefReb,,,DefReb,,K. Walker,
+98,1,2:06.0,26,20,NOP,BOS,12,away,JS,,26,miss3,0,D. Theis,
+99,1,2:03.0,26,20,NOP,BOS,3,home,DefReb,,,DefReb,,J. Redick,
+100,1,1:52.0,26,20,NOP,BOS,11,home,BadPass,,,turnover,,J. Holiday,
+101,1,1:52.0,26,20,NOP,BOS,0,home,Timeout,,,,,,
+102,1,1:52.0,26,20,NOP,BOS,0,away,Sub,,,,,J. Brown,J. Green
+103,1,1:52.0,26,20,NOP,BOS,0,away,Sub,,,,,B. Wanamaker,D. Theis
+104,1,1:52.0,26,20,NOP,BOS,0,away,Sub,,,,,G. Williams,K. Walker
+105,1,1:34.0,26,20,NOP,BOS,18,away,bad pass,steal,,turnover,,G. Williams,F. Jackson
+106,1,1:23.0,26,20,NOP,BOS,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Wanamaker,J. Redick
+107,1,1:19.0,26,20,NOP,BOS,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Brown,J. Redick
+108,1,1:19.0,27,20,NOP,BOS,0,home,FreeThrow,,,make1,1,J. Redick,
+109,1,1:19.0,28,20,NOP,BOS,0,home,FreeThrow,,,make1,1,J. Redick,
+110,1,1:05.0,28,20,NOP,BOS,14,away,JS,,17,miss2,0,G. Hayward,
+111,1,1:01.0,28,20,NOP,BOS,4,home,DefReb,,,DefReb,,J. Redick,
+112,1,0:58.0,28,20,NOP,BOS,3,home,BadPass,,,turnover,,J. Holiday,
+113,1,0:47.0,28,20,NOP,BOS,11,away,JS,,27,miss3,0,B. Wanamaker,
+114,1,0:43.0,28,20,NOP,BOS,4,home,DefReb,,,DefReb,,J. Redick,
+115,1,0:36.0,30,20,NOP,BOS,7,home,JS,,22,make2,2,J. Redick,
+116,1,0:30.0,30,20,NOP,BOS,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Hayward,J. Hayes
+117,1,0:30.0,30,20,NOP,BOS,0,away,OffensiveFoul,,,turnover,,G. Hayward,
+118,1,0:10.0,32,20,NOP,BOS,20,home,LU,,2,make2,2,J. Holiday,
+119,1,0:02.0,32,20,NOP,BOS,8,away,JS,,25,miss3,0,J. Brown,
+120,1,0:02.0,32,20,NOP,BOS,0,home,DefReb,,,DefReb,,J. Hart,
+121,2,11:51.0,32,22,NOP,BOS,9,away,JS,assist,15,make2,2,J. Brown,M. Smart
+122,2,11:34.0,32,22,NOP,BOS,17,home,JS,,26,miss3,0,L. Ball,
+123,2,11:31.0,32,22,NOP,BOS,3,away,DefReb,,,DefReb,,G. Williams,
+124,2,11:25.0,32,22,NOP,BOS,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Smart,N. Melli
+125,2,11:25.0,32,22,NOP,BOS,0,away,OffensiveFoul,,,turnover,,M. Smart,
+126,2,11:09.0,34,22,NOP,BOS,16,home,LU,assist,2,make2,2,Z. Williamson,L. Ball
+127,2,10:54.0,34,22,NOP,BOS,15,away,OutOfBoundsLB,,,turnover,,B. Wanamaker,
+128,2,10:43.0,34,22,NOP,BOS,11,home,HS,,5,miss2,0,Z. Williamson,
+129,2,10:40.0,34,22,NOP,BOS,3,home,OffReb,,,OffReb,,Z. Williamson,
+130,2,10:40.0,34,22,NOP,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Wanamaker,Z. Williamson
+131,2,10:40.0,34,22,NOP,BOS,0,home,FreeThrow,,,make1,0,Z. Williamson,
+132,2,10:40.0,34,22,NOP,BOS,0,home,OffReb,,,OffReb,,Team,
+133,2,10:40.0,34,22,NOP,BOS,0,away,Sub,,,,,K. Walker,B. Wanamaker
+134,2,10:40.0,34,22,NOP,BOS,0,home,FreeThrow,,,make1,0,Z. Williamson,
+135,2,10:36.0,34,22,NOP,BOS,4,away,DefReb,,,DefReb,,G. Williams,
+136,2,10:17.0,34,24,NOP,BOS,19,away,LU,assist,2,make2,2,J. Brown,K. Walker
+137,2,9:52.0,34,24,NOP,BOS,25,home,BadPass,,,turnover,,J. Redick,
+138,2,9:43.0,34,24,NOP,BOS,9,away,JS,,7,miss2,0,M. Smart,
+139,2,9:40.0,34,24,NOP,BOS,3,away,OffReb,,,OffReb,,G. Williams,
+140,2,9:33.0,34,26,NOP,BOS,7,away,LU,assist,2,make2,2,M. Smart,K. Walker
+141,2,9:27.0,34,26,NOP,BOS,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Williams,Z. Williamson
+142,2,9:27.0,34,26,NOP,BOS,0,home,FreeThrow,,,make1,0,Z. Williamson,
+143,2,9:27.0,34,26,NOP,BOS,0,home,OffReb,,,OffReb,,Team,
+144,2,9:27.0,34,26,NOP,BOS,0,home,FreeThrow,,,make1,0,Z. Williamson,
+145,2,9:24.0,34,26,NOP,BOS,3,away,DefReb,,,DefReb,,J. Green,
+146,2,9:16.0,34,26,NOP,BOS,8,away,JS,block,4,miss2,0,K. Walker,L. Ball
+147,2,9:15.0,34,26,NOP,BOS,1,home,DefReb,,,DefReb,,N. Melli,
+148,2,9:09.0,34,26,NOP,BOS,6,home,BadPass,,,turnover,,L. Ball,
+149,2,8:57.0,34,26,NOP,BOS,12,away,JS,,25,miss3,0,M. Smart,
+150,2,8:56.0,34,26,NOP,BOS,1,home,DefReb,,,DefReb,,N. Melli,
+151,2,8:42.0,34,26,NOP,BOS,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Green,B. Ingram
+152,2,8:40.0,36,26,NOP,BOS,2,home,DK,assist,1,make2,2,Z. Williamson,L. Ball
+153,2,8:18.0,36,29,NOP,BOS,22,away,JS,assist,25,make3,3,K. Walker,G. Williams
+154,2,8:02.0,39,29,NOP,BOS,16,home,JS,assist,25,make3,3,N. Melli,Z. Williamson
+155,2,7:47.0,39,31,NOP,BOS,15,away,JS,,10,make2,2,K. Walker,
+156,2,7:35.0,39,31,NOP,BOS,12,home,bad pass,steal,,turnover,,J. Redick,J. Green
+157,2,7:34.0,39,31,NOP,BOS,1,away,OutOfBoundsLB,,,turnover,,J. Green,
+158,2,7:34.0,39,31,NOP,BOS,0,home,Sub,,,,,J. Hart,J. Redick
+159,2,7:23.0,42,31,NOP,BOS,11,home,JS,assist,27,make3,3,B. Ingram,Z. Williamson
+160,2,7:06.0,42,33,NOP,BOS,17,away,LU,,2,make2,2,K. Walker,
+161,2,6:56.0,42,33,NOP,BOS,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Williams,B. Ingram
+162,2,6:56.0,42,33,NOP,BOS,0,home,Timeout,,,,,,
+163,2,6:56.0,42,33,NOP,BOS,0,home,DelayOfGame,,,DelayOfGame,,Team,
+164,2,6:56.0,43,33,NOP,BOS,0,home,FreeThrow,,,make1,1,B. Ingram,
+165,2,6:56.0,44,33,NOP,BOS,0,home,FreeThrow,,,make1,1,B. Ingram,
+166,2,6:39.0,44,33,NOP,BOS,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,Z. Williamson,K. Walker
+167,2,6:39.0,44,34,NOP,BOS,0,away,FreeThrow,,,make1,1,K. Walker,
+168,2,6:39.0,44,35,NOP,BOS,0,away,FreeThrow,,,make1,1,K. Walker,
+169,2,6:20.0,44,35,NOP,BOS,19,home,DK,block,1,miss2,0,N. Melli,G. Williams
+170,2,6:17.0,44,35,NOP,BOS,3,away,DefReb,,,DefReb,,K. Walker,
+171,2,6:12.0,44,35,NOP,BOS,5,away,JS,,25,miss3,0,M. Smart,
+172,2,6:09.0,44,35,NOP,BOS,3,home,DefReb,,,DefReb,,N. Melli,
+173,2,6:09.0,44,35,NOP,BOS,0,away,Sub,,,,,G. Hayward,M. Smart
+174,2,6:09.0,44,35,NOP,BOS,0,away,Sub,,,,,D. Theis,G. Williams
+175,2,6:09.0,44,35,NOP,BOS,0,home,Sub,,,,,D. Favors,Z. Williamson
+176,2,5:54.0,44,35,NOP,BOS,15,home,JS,,19,miss2,0,B. Ingram,
+177,2,5:52.0,44,35,NOP,BOS,2,away,DefReb,,,DefReb,,D. Theis,
+178,2,5:39.0,44,35,NOP,BOS,13,away,LU,,2,miss2,0,J. Brown,
+179,2,5:37.0,44,35,NOP,BOS,2,home,DefReb,,,DefReb,,J. Hart,
+180,2,5:32.0,44,35,NOP,BOS,5,home,LU,block,2,miss2,0,J. Hart,D. Theis
+181,2,5:31.0,44,35,NOP,BOS,1,away,DefReb,,,DefReb,,G. Hayward,
+182,2,5:23.0,44,37,NOP,BOS,8,away,LU,,2,make2,2,G. Hayward,
+183,2,5:13.0,47,37,NOP,BOS,10,home,JS,assist,24,make3,3,B. Ingram,L. Ball
+184,2,5:00.0,47,37,NOP,BOS,13,away,JS,,26,miss3,0,K. Walker,
+185,2,4:58.0,47,37,NOP,BOS,2,home,DefReb,,,DefReb,,J. Hart,
+186,2,4:48.0,49,37,NOP,BOS,10,home,LU,assist,1,make2,2,D. Favors,N. Melli
+187,2,4:45.0,49,37,NOP,BOS,3,away,Timeout,,,,,,
+188,2,4:45.0,49,37,NOP,BOS,0,away,Sub,,,,,M. Smart,J. Green
+189,2,4:45.0,49,37,NOP,BOS,0,home,Sub,,,,,E. Moore,N. Melli
+190,2,4:31.0,49,39,NOP,BOS,14,away,HS,assist,3,make2,2,J. Brown,M. Smart
+191,2,4:12.0,49,39,NOP,BOS,19,home,bad pass,steal,,turnover,,L. Ball,J. Brown
+192,2,4:06.0,49,39,NOP,BOS,6,away,bad pass,steal,,turnover,,K. Walker,B. Ingram
+193,2,4:00.0,49,39,NOP,BOS,6,home,LU,block,1,miss2,0,B. Ingram,K. Walker
+194,2,3:59.0,49,39,NOP,BOS,1,home,OffReb,,,OffReb,,Team,
+195,2,3:59.0,49,39,NOP,BOS,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Ingram,M. Smart
+196,2,3:59.0,49,39,NOP,BOS,0,home,OffensiveFoul,,,turnover,,B. Ingram,
+197,2,3:59.0,49,39,NOP,BOS,0,home,Sub,,,,,J. Holiday,B. Ingram
+198,2,3:42.0,49,39,NOP,BOS,17,away,JS,,30,miss3,0,J. Brown,
+199,2,3:39.0,49,39,NOP,BOS,3,home,DefReb,,,DefReb,,L. Ball,
+200,2,3:33.0,52,39,NOP,BOS,6,home,JS,assist,25,make3,3,E. Moore,L. Ball
+201,2,3:14.0,52,42,NOP,BOS,19,away,JS,assist,25,make3,3,G. Hayward,D. Theis
+202,2,3:02.0,52,42,NOP,BOS,12,home,JS,,28,miss3,0,L. Ball,
+203,2,2:59.0,52,42,NOP,BOS,3,home,OffReb,,,OffReb,,J. Hart,
+204,2,2:54.0,52,42,NOP,BOS,5,home,JS,,25,miss3,0,L. Ball,
+205,2,2:52.0,52,42,NOP,BOS,2,home,OffReb,,,OffReb,,Team,
+206,2,2:52.0,52,42,NOP,BOS,0,away,Sub,,,,,B. Wanamaker,K. Walker
+207,2,2:48.0,52,42,NOP,BOS,4,home,JS,,12,miss2,0,J. Holiday,
+208,2,2:46.0,52,42,NOP,BOS,2,home,OffReb,,,OffReb,,D. Favors,
+209,2,2:46.0,52,42,NOP,BOS,0,home,LU,,0,miss2,0,D. Favors,
+210,2,2:43.0,52,42,NOP,BOS,3,home,OffReb,,,OffReb,,J. Hart,
+211,2,2:41.0,52,42,NOP,BOS,2,home,JS,,25,miss3,0,J. Holiday,
+212,2,2:39.0,52,42,NOP,BOS,2,home,OffReb,,,OffReb,,L. Ball,
+213,2,2:33.0,52,42,NOP,BOS,6,home,JS,,25,miss3,0,J. Hart,
+214,2,2:30.0,52,42,NOP,BOS,3,home,OffReb,,,OffReb,,J. Holiday,
+215,2,2:20.0,55,42,NOP,BOS,10,home,JS,assist,24,make3,3,J. Hart,J. Holiday
+216,2,2:06.0,55,42,NOP,BOS,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Moore,G. Hayward
+217,2,2:01.0,55,42,NOP,BOS,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Hart,J. Brown
+218,2,1:54.0,55,42,NOP,BOS,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Moore,M. Smart
+219,2,1:48.0,55,42,NOP,BOS,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,G. Hayward,J. Hart
+220,2,1:48.0,55,42,NOP,BOS,0,away,OffensiveFoul,,,turnover,,G. Hayward,
+221,2,1:32.0,57,42,NOP,BOS,16,home,LU,,1,make2,2,J. Holiday,
+222,2,1:14.0,57,42,NOP,BOS,18,away,JS,,23,miss3,0,G. Hayward,
+223,2,1:12.0,57,42,NOP,BOS,2,home,DefReb,,,DefReb,,J. Hart,
+224,2,1:07.0,59,42,NOP,BOS,5,home,LU,assist,2,make2,2,D. Favors,L. Ball
+225,2,1:07.0,59,42,NOP,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Theis,D. Favors
+226,2,1:07.0,59,42,NOP,BOS,0,away,Sub,,,,,K. Walker,J. Brown
+227,2,1:07.0,60,42,NOP,BOS,0,home,FreeThrow,,,make1,1,D. Favors,
+228,2,0:57.0,60,42,NOP,BOS,10,away,BadPass,,,turnover,,K. Walker,
+229,2,0:49.0,60,42,NOP,BOS,8,home,JS,,25,miss3,0,E. Moore,
+230,2,0:47.0,60,42,NOP,BOS,2,away,DefReb,,,DefReb,,D. Theis,
+231,2,0:35.0,60,42,NOP,BOS,12,away,JS,,8,miss2,0,M. Smart,
+232,2,0:32.0,60,42,NOP,BOS,3,home,DefReb,,,DefReb,,D. Favors,
+233,2,0:26.0,60,42,NOP,BOS,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Theis,D. Favors
+234,2,0:26.0,60,42,NOP,BOS,0,home,Sub,,,,,F. Jackson,J. Hart
+235,2,0:26.0,61,42,NOP,BOS,0,home,FreeThrow,,,make1,1,D. Favors,
+236,2,0:26.0,62,42,NOP,BOS,0,home,FreeThrow,,,make1,1,D. Favors,
+237,2,0:06.0,62,42,NOP,BOS,20,away,JS,,25,miss3,0,M. Smart,
+238,2,0:02.0,62,42,NOP,BOS,4,home,DefReb,,,DefReb,,Team,
+239,3,11:43.0,62,42,NOP,BOS,17,away,JS,,7,miss2,0,M. Smart,
+240,3,11:41.0,62,42,NOP,BOS,2,away,OffReb,,,OffReb,,D. Theis,
+241,3,11:41.0,62,44,NOP,BOS,0,away,LU,,0,make2,2,D. Theis,
+242,3,11:26.0,64,44,NOP,BOS,15,home,JS,,5,make2,2,J. Holiday,
+243,3,11:03.0,64,44,NOP,BOS,23,away,JS,,24,miss3,0,G. Hayward,
+244,3,11:00.0,64,44,NOP,BOS,3,home,DefReb,,,DefReb,,D. Favors,
+245,3,10:53.0,64,44,NOP,BOS,7,home,JS,,27,miss3,0,L. Ball,
+246,3,10:52.0,64,44,NOP,BOS,1,home,OffReb,,,OffReb,,Team,
+247,3,10:52.0,64,44,NOP,BOS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Theis,D. Favors
+248,3,10:50.0,66,44,NOP,BOS,2,home,LU,assist,1,make2,2,J. Holiday,L. Ball
+249,3,10:33.0,66,44,NOP,BOS,17,away,LU,,3,miss2,0,K. Walker,
+250,3,10:31.0,66,44,NOP,BOS,2,home,DefReb,,,DefReb,,D. Favors,
+251,3,10:21.0,66,44,NOP,BOS,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,Z. Williamson
+252,3,10:18.0,66,44,NOP,BOS,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,J. Holiday
+253,3,10:08.0,66,44,NOP,BOS,10,home,bad pass,steal,,turnover,,B. Ingram,K. Walker
+254,3,10:08.0,66,44,NOP,BOS,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Ingram,J. Brown
+255,3,9:56.0,66,46,NOP,BOS,12,away,LU,,2,make2,2,K. Walker,
+256,3,9:44.0,68,46,NOP,BOS,12,home,LU,,2,make2,2,B. Ingram,
+257,3,9:44.0,68,46,NOP,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Hayward,B. Ingram
+258,3,9:44.0,69,46,NOP,BOS,0,home,FreeThrow,,,make1,1,B. Ingram,
+259,3,9:28.0,69,46,NOP,BOS,16,away,lost ball,steal,,turnover,,M. Smart,Z. Williamson
+260,3,9:24.0,69,46,NOP,BOS,4,home,bad pass,steal,,turnover,,Z. Williamson,K. Walker
+261,3,9:18.0,69,49,NOP,BOS,6,away,JS,assist,23,make3,3,J. Brown,M. Smart
+262,3,9:07.0,69,49,NOP,BOS,11,home,JS,,17,miss2,0,B. Ingram,
+263,3,9:04.0,69,49,NOP,BOS,3,home,OffReb,,,OffReb,,L. Ball,
+264,3,8:58.0,71,49,NOP,BOS,6,home,JS,,6,make2,2,J. Holiday,
+265,3,8:50.0,71,51,NOP,BOS,8,away,LU,,2,make2,2,J. Brown,
+266,3,8:40.0,71,51,NOP,BOS,10,home,LU,,1,miss2,0,D. Favors,
+267,3,8:37.0,71,51,NOP,BOS,3,away,DefReb,,,DefReb,,G. Hayward,
+268,3,8:33.0,71,53,NOP,BOS,4,away,DK,,1,make2,2,G. Hayward,
+269,3,8:25.0,71,53,NOP,BOS,8,home,Timeout,,,,,,
+270,3,8:25.0,71,53,NOP,BOS,0,home,Sub,,,,,J. Hart,B. Ingram
+271,3,8:15.0,71,53,NOP,BOS,10,home,JS,,25,miss3,0,J. Hart,
+272,3,8:12.0,71,53,NOP,BOS,3,home,OffReb,,,OffReb,,D. Favors,
+273,3,7:56.0,71,53,NOP,BOS,16,home,JS,,27,miss3,0,L. Ball,
+274,3,7:53.0,71,53,NOP,BOS,3,away,DefReb,,,DefReb,,M. Smart,
+275,3,7:47.0,71,53,NOP,BOS,6,away,JS,,23,miss3,0,K. Walker,
+276,3,7:43.0,71,53,NOP,BOS,4,home,DefReb,,,DefReb,,J. Hart,
+277,3,7:43.0,71,53,NOP,BOS,0,home,Sub,,,,,J. Redick,L. Ball
+278,3,7:34.0,73,53,NOP,BOS,9,home,JS,assist,7,make2,2,D. Favors,J. Redick
+279,3,7:17.0,73,55,NOP,BOS,17,away,LU,,2,make2,2,K. Walker,
+280,3,7:05.0,75,55,NOP,BOS,12,home,JS,,10,make2,2,J. Holiday,
+281,3,6:48.0,75,57,NOP,BOS,17,away,JS,,20,make2,2,J. Brown,
+282,3,6:37.0,75,57,NOP,BOS,11,home,LU,,3,miss2,0,J. Holiday,
+283,3,6:34.0,75,57,NOP,BOS,3,away,DefReb,,,DefReb,,K. Walker,
+284,3,6:31.0,75,57,NOP,BOS,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Redick,J. Brown
+285,3,6:31.0,75,57,NOP,BOS,0,away,Sub,,,,,V. Poirier,D. Theis
+286,3,6:31.0,75,57,NOP,BOS,0,home,Sub,,,,,J. Hayes,D. Favors
+287,3,6:31.0,75,58,NOP,BOS,0,away,FreeThrow,,,make1,1,J. Brown,
+288,3,6:31.0,75,58,NOP,BOS,0,away,FreeThrow,,,make1,0,J. Brown,
+289,3,6:31.0,75,58,NOP,BOS,0,away,OffReb,,,OffReb,,J. Brown,
+290,3,6:21.0,75,58,NOP,BOS,10,away,JS,,23,miss3,0,G. Hayward,
+291,3,6:20.0,75,58,NOP,BOS,1,away,OffReb,,,OffReb,,Team,
+292,3,6:20.0,75,58,NOP,BOS,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Hayes,V. Poirier
+293,3,6:17.0,75,58,NOP,BOS,3,away,LU,,2,miss2,0,K. Walker,
+294,3,6:16.0,75,58,NOP,BOS,1,home,DefReb,,,DefReb,,Team,
+295,3,6:16.0,75,58,NOP,BOS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,V. Poirier,J. Hayes
+296,3,6:16.0,76,58,NOP,BOS,0,home,FreeThrow,,,make1,1,J. Hayes,
+297,3,6:16.0,76,58,NOP,BOS,0,home,FreeThrow,,,make1,0,J. Hayes,
+298,3,6:14.0,76,58,NOP,BOS,2,away,DefReb,,,DefReb,,V. Poirier,
+299,3,6:04.0,76,60,NOP,BOS,10,away,JS,assist,15,make2,2,G. Hayward,M. Smart
+300,3,5:49.0,76,60,NOP,BOS,15,home,JS,,26,miss3,0,J. Redick,
+301,3,5:48.0,76,60,NOP,BOS,1,home,OffReb,,,OffReb,,Z. Williamson,
+302,3,5:48.0,78,60,NOP,BOS,0,home,DK,,1,make2,2,Z. Williamson,
+303,3,5:21.0,78,60,NOP,BOS,27,away,BadPass,,,turnover,,J. Brown,
+304,3,5:21.0,78,60,NOP,BOS,0,home,Sub,,,,,F. Jackson,Z. Williamson
+305,3,5:09.0,81,60,NOP,BOS,12,home,JS,assist,26,make3,3,J. Redick,J. Hayes
+306,3,4:58.0,81,63,NOP,BOS,11,away,JS,,25,make3,3,K. Walker,
+307,3,4:41.0,81,63,NOP,BOS,17,home,Traveling,,,turnover,,J. Hayes,
+308,3,4:41.0,81,63,NOP,BOS,0,away,Sub,,,,,C. Edwards,J. Brown
+309,3,4:41.0,81,63,NOP,BOS,0,away,Sub,,,,,J. Green,M. Smart
+310,3,4:29.0,81,66,NOP,BOS,12,away,JS,assist,25,make3,3,G. Hayward,J. Green
+311,3,4:19.0,81,66,NOP,BOS,10,home,JS,,24,miss3,0,J. Hart,
+312,3,4:16.0,81,66,NOP,BOS,3,home,OffReb,,,OffReb,,J. Holiday,
+313,3,4:12.0,81,66,NOP,BOS,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Walker,J. Hayes
+314,3,4:12.0,82,66,NOP,BOS,0,home,FreeThrow,,,make1,1,J. Hayes,
+315,3,4:12.0,83,66,NOP,BOS,0,home,FreeThrow,,,make1,1,J. Hayes,
+316,3,4:00.0,83,68,NOP,BOS,12,away,LU,,2,make2,2,K. Walker,
+317,3,3:52.0,83,68,NOP,BOS,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Edwards,J. Hayes
+318,3,3:52.0,84,68,NOP,BOS,0,home,FreeThrow,,,make1,1,J. Hayes,
+319,3,3:52.0,84,68,NOP,BOS,0,home,FreeThrow,,,make1,0,J. Hayes,
+320,3,3:49.0,84,68,NOP,BOS,3,away,DefReb,,,DefReb,,G. Hayward,
+321,3,3:37.0,84,70,NOP,BOS,12,away,LU,assist,1,make2,2,V. Poirier,J. Green
+322,3,3:31.0,84,70,NOP,BOS,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Green,J. Redick
+323,3,3:31.0,85,70,NOP,BOS,0,home,FreeThrow,,,make1,1,J. Redick,
+324,3,3:31.0,86,70,NOP,BOS,0,home,FreeThrow,,,make1,1,J. Redick,
+325,3,3:17.0,86,70,NOP,BOS,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,F. Jackson,K. Walker
+326,3,3:17.0,86,71,NOP,BOS,0,away,FreeThrow,,,make1,1,K. Walker,
+327,3,3:17.0,86,72,NOP,BOS,0,away,FreeThrow,,,make1,1,K. Walker,
+328,3,3:11.0,86,72,NOP,BOS,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Green,J. Holiday
+329,3,3:11.0,86,72,NOP,BOS,0,home,FreeThrow,,,make1,0,J. Holiday,
+330,3,3:11.0,86,72,NOP,BOS,0,home,OffReb,,,OffReb,,Team,
+331,3,3:11.0,86,72,NOP,BOS,0,away,Sub,,,,,S. Ojeleye,G. Hayward
+332,3,3:11.0,87,72,NOP,BOS,0,home,FreeThrow,,,make1,1,J. Holiday,
+333,3,2:59.0,87,75,NOP,BOS,12,away,JS,assist,26,make3,3,K. Walker,J. Green
+334,3,2:49.0,87,75,NOP,BOS,10,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Hayes,C. Edwards
+335,3,2:49.0,87,75,NOP,BOS,0,home,OffensiveFoul,,,turnover,,J. Hayes,
+336,3,2:49.0,87,75,NOP,BOS,0,away,Timeout,,,,,,
+337,3,2:41.0,87,77,NOP,BOS,8,away,LU,assist,1,make2,2,S. Ojeleye,J. Green
+338,3,2:27.0,87,77,NOP,BOS,14,home,JS,,15,miss2,0,J. Redick,
+339,3,2:23.0,87,77,NOP,BOS,4,away,DefReb,,,DefReb,,J. Green,
+340,3,2:10.0,87,77,NOP,BOS,13,away,JS,,22,miss3,0,S. Ojeleye,
+341,3,2:08.0,87,77,NOP,BOS,2,home,DefReb,,,DefReb,,Team,
+342,3,1:49.0,87,77,NOP,BOS,19,home,LU,,1,miss2,0,J. Holiday,
+343,3,1:48.0,87,77,NOP,BOS,1,home,OffReb,,,OffReb,,J. Holiday,
+344,3,1:48.0,87,77,NOP,BOS,0,home,LU,,1,miss2,0,J. Holiday,
+345,3,1:47.0,87,77,NOP,BOS,1,home,OffReb,,,OffReb,,J. Hayes,
+346,3,1:45.0,87,77,NOP,BOS,2,home,DK,block,3,miss2,0,J. Hayes,V. Poirier
+347,3,1:44.0,87,77,NOP,BOS,1,away,DefReb,,,DefReb,,Team,
+348,3,1:34.0,87,77,NOP,BOS,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Holiday,K. Walker
+349,3,1:34.0,87,78,NOP,BOS,0,away,FreeThrow,,,make1,1,K. Walker,
+350,3,1:34.0,87,79,NOP,BOS,0,away,FreeThrow,,,make1,1,K. Walker,
+351,3,1:17.0,87,79,NOP,BOS,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Walker,F. Jackson
+352,3,1:17.0,87,79,NOP,BOS,0,home,FreeThrow,,,make1,0,F. Jackson,
+353,3,1:17.0,87,79,NOP,BOS,0,home,OffReb,,,OffReb,,Team,
+354,3,1:17.0,88,79,NOP,BOS,0,home,FreeThrow,,,make1,1,F. Jackson,
+355,3,1:01.0,88,79,NOP,BOS,16,away,LU,,2,miss2,0,C. Edwards,
+356,3,1:01.0,88,79,NOP,BOS,0,away,OffReb,,,OffReb,,Team,
+357,3,0:52.0,88,79,NOP,BOS,9,away,JS,,15,miss2,0,V. Poirier,
+358,3,0:49.0,88,79,NOP,BOS,3,home,DefReb,,,DefReb,,J. Hart,
+359,3,0:41.0,91,79,NOP,BOS,8,home,JS,,25,make3,3,J. Holiday,
+360,3,0:29.0,91,79,NOP,BOS,12,away,JS,,24,miss3,0,K. Walker,
+361,3,0:27.0,91,79,NOP,BOS,2,away,OffReb,,,OffReb,,J. Green,
+362,3,0:26.0,91,81,NOP,BOS,1,away,LU,,0,make2,2,J. Green,
+363,3,0:02.0,91,81,NOP,BOS,24,home,ShotClockViolation,,,turnover,,Team,
+364,3,0:02.0,91,81,NOP,BOS,0,away,Sub,,,,,M. Smart,C. Edwards
+365,3,0:02.0,91,81,NOP,BOS,0,away,Sub,,,,,D. Theis,V. Poirier
+366,3,0:00.0,91,81,NOP,BOS,2,away,JS,,45,miss3,0,M. Smart,
+367,3,0:00.0,91,81,NOP,BOS,0,away,OffReb,,,OffReb,,Team,
+368,4,11:48.0,93,81,NOP,BOS,12,home,JS,assist,19,make2,2,J. Redick,L. Ball
+369,4,11:30.0,93,83,NOP,BOS,18,away,LU,,2,make2,2,G. Hayward,
+370,4,11:14.0,95,83,NOP,BOS,16,home,LU,,3,make2,2,B. Ingram,
+371,4,10:55.0,95,85,NOP,BOS,19,away,DK,,0,make2,2,G. Hayward,
+372,4,10:41.0,95,85,NOP,BOS,14,home,BadPass,,,turnover,,Z. Williamson,
+373,4,10:29.0,95,87,NOP,BOS,12,away,DK,assist,0,make2,2,J. Brown,S. Ojeleye
+374,4,10:22.0,95,87,NOP,BOS,7,home,Timeout,,,,,,
+375,4,10:20.0,95,87,NOP,BOS,2,home,Traveling,,,turnover,,Z. Williamson,
+376,4,10:11.0,95,87,NOP,BOS,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hart,D. Theis
+377,4,10:11.0,95,87,NOP,BOS,0,away,FreeThrow,,,make1,0,D. Theis,
+378,4,10:11.0,95,87,NOP,BOS,0,away,OffReb,,,OffReb,,Team,
+379,4,10:11.0,95,87,NOP,BOS,0,away,FreeThrow,,,make1,0,D. Theis,
+380,4,10:08.0,95,87,NOP,BOS,3,home,DefReb,,,DefReb,,Z. Williamson,
+381,4,9:58.0,95,87,NOP,BOS,10,home,bad pass,steal,,turnover,,Z. Williamson,S. Ojeleye
+382,4,9:51.0,95,89,NOP,BOS,7,away,DK,assist,0,make2,2,D. Theis,M. Smart
+383,4,9:47.0,95,89,NOP,BOS,4,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,G. Hayward,J. Hart
+384,4,9:47.0,95,89,NOP,BOS,0,away,Sub,,,,,V. Poirier,D. Theis
+385,4,9:37.0,97,89,NOP,BOS,10,home,LU,assist,2,make2,2,J. Hart,B. Ingram
+386,4,9:19.0,97,89,NOP,BOS,18,away,lost ball,steal,,turnover,,G. Hayward,J. Hart
+387,4,9:15.0,97,89,NOP,BOS,4,home,LU,,3,miss2,0,J. Hart,
+388,4,9:13.0,97,89,NOP,BOS,2,away,DefReb,,,DefReb,,V. Poirier,
+389,4,9:07.0,97,89,NOP,BOS,6,away,bad pass,steal,,turnover,,M. Smart,J. Hart
+390,4,9:03.0,97,89,NOP,BOS,4,home,LU,,2,miss2,0,J. Redick,
+391,4,9:01.0,97,89,NOP,BOS,2,away,DefReb,,,DefReb,,V. Poirier,
+392,4,8:56.0,97,91,NOP,BOS,5,away,LU,,2,make2,2,M. Smart,
+393,4,8:56.0,97,91,NOP,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,Z. Williamson,M. Smart
+394,4,8:56.0,97,91,NOP,BOS,0,away,FreeThrow,,,make1,0,M. Smart,
+395,4,8:54.0,97,91,NOP,BOS,2,home,DefReb,,,DefReb,,B. Ingram,
+396,4,8:50.0,100,91,NOP,BOS,4,home,JS,assist,25,make3,3,J. Redick,L. Ball
+397,4,8:37.0,100,91,NOP,BOS,13,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,S. Ojeleye,J. Redick
+398,4,8:37.0,100,91,NOP,BOS,0,away,OffensiveFoul,,,turnover,,S. Ojeleye,
+399,4,8:21.0,102,91,NOP,BOS,16,home,LU,assist,3,make2,2,Z. Williamson,L. Ball
+400,4,8:20.0,102,91,NOP,BOS,1,away,Timeout,,,,,,
+401,4,8:20.0,102,91,NOP,BOS,0,away,Sub,,,,,D. Theis,S. Ojeleye
+402,4,8:20.0,102,91,NOP,BOS,0,away,Sub,,,,,K. Walker,V. Poirier
+403,4,8:20.0,102,91,NOP,BOS,0,home,Sub,,,,,D. Favors,Z. Williamson
+404,4,8:12.0,102,91,NOP,BOS,8,away,LU,block,3,miss2,0,M. Smart,J. Redick
+405,4,8:12.0,102,91,NOP,BOS,0,home,DefReb,,,DefReb,,Team,
+406,4,7:56.0,102,91,NOP,BOS,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brown,D. Favors
+407,4,7:53.0,102,91,NOP,BOS,3,home,JS,,17,miss2,0,D. Favors,
+408,4,7:49.0,102,91,NOP,BOS,4,away,DefReb,,,DefReb,,G. Hayward,
+409,4,7:43.0,102,91,NOP,BOS,6,away,JS,,23,miss3,0,J. Brown,
+410,4,7:40.0,102,91,NOP,BOS,3,home,DefReb,,,DefReb,,B. Ingram,
+411,4,7:35.0,105,91,NOP,BOS,5,home,JS,assist,25,make3,3,B. Ingram,J. Hart
+412,4,7:12.0,105,91,NOP,BOS,23,away,LU,block,4,miss2,0,J. Brown,D. Favors
+413,4,7:11.0,105,91,NOP,BOS,1,home,DefReb,,,DefReb,,D. Favors,
+414,4,7:05.0,105,91,NOP,BOS,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Theis,B. Ingram
+415,4,6:59.0,105,91,NOP,BOS,6,home,JS,,26,miss3,0,J. Redick,
+416,4,6:55.0,105,91,NOP,BOS,4,away,DefReb,,,DefReb,,D. Theis,
+417,4,6:50.0,105,93,NOP,BOS,5,away,LU,assist,2,make2,2,D. Theis,M. Smart
+418,4,6:50.0,105,93,NOP,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Ball,D. Theis
+419,4,6:50.0,105,94,NOP,BOS,0,away,FreeThrow,,,make1,1,D. Theis,
+420,4,6:40.0,105,94,NOP,BOS,10,home,BadPass,,,turnover,,D. Favors,
+421,4,6:19.0,105,96,NOP,BOS,21,away,LU,,2,make2,2,K. Walker,
+422,4,6:19.0,105,96,NOP,BOS,0,home,Sub,,,,,J. Holiday,J. Redick
+423,4,6:02.0,108,96,NOP,BOS,17,home,JS,assist,23,make3,3,J. Hart,L. Ball
+424,4,5:45.0,108,96,NOP,BOS,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Ball,K. Walker
+425,4,5:45.0,108,96,NOP,BOS,0,home,Timeout,,,,,,
+426,4,5:45.0,108,96,NOP,BOS,0,home,InstantReplay,,,RulingStands,,Team,
+427,4,5:45.0,108,97,NOP,BOS,0,away,FreeThrow,,,make1,1,K. Walker,
+428,4,5:45.0,108,98,NOP,BOS,0,away,FreeThrow,,,make1,1,K. Walker,
+429,4,5:45.0,108,99,NOP,BOS,0,away,FreeThrow,,,make1,1,K. Walker,
+430,4,5:34.0,110,99,NOP,BOS,11,home,DK,assist,1,make2,2,D. Favors,L. Ball
+431,4,5:17.0,110,99,NOP,BOS,17,away,JS,,26,miss3,0,J. Brown,
+432,4,5:14.0,110,99,NOP,BOS,3,home,DefReb,,,DefReb,,L. Ball,
+433,4,5:10.0,112,99,NOP,BOS,4,home,DK,assist,1,make2,2,D. Favors,L. Ball
+434,4,4:50.0,112,101,NOP,BOS,20,away,DK,assist,1,make2,2,D. Theis,J. Brown
+435,4,4:30.0,112,101,NOP,BOS,20,home,BadPass,,,turnover,,L. Ball,
+436,4,4:30.0,112,101,NOP,BOS,0,home,Sub,,,,,Z. Williamson,J. Hart
+437,4,4:22.0,112,101,NOP,BOS,8,away,JS,,24,miss3,0,M. Smart,
+438,4,4:19.0,112,101,NOP,BOS,3,home,DefReb,,,DefReb,,J. Holiday,
+439,4,4:06.0,115,101,NOP,BOS,13,home,JS,assist,27,make3,3,J. Holiday,L. Ball
+440,4,4:05.0,115,101,NOP,BOS,1,away,Timeout,,,,,,
+441,4,3:41.0,115,104,NOP,BOS,24,away,JS,,25,make3,3,K. Walker,
+442,4,3:26.0,115,104,NOP,BOS,15,home,JS,,18,miss2,0,B. Ingram,
+443,4,3:24.0,115,104,NOP,BOS,2,away,DefReb,,,DefReb,,K. Walker,
+444,4,3:24.0,115,104,NOP,BOS,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Williamson,K. Walker
+445,4,3:24.0,115,105,NOP,BOS,0,away,FreeThrow,,,make1,1,K. Walker,
+446,4,3:24.0,115,106,NOP,BOS,0,away,FreeThrow,,,make1,1,K. Walker,
+447,4,3:17.0,115,106,NOP,BOS,7,home,JS,,26,miss3,0,L. Ball,
+448,4,3:15.0,115,106,NOP,BOS,2,away,DefReb,,,DefReb,,D. Theis,
+449,4,3:03.0,115,106,NOP,BOS,12,away,LU,block,2,miss2,0,D. Theis,D. Favors
+450,4,3:00.0,115,106,NOP,BOS,3,home,DefReb,,,DefReb,,L. Ball,
+451,4,2:56.0,117,106,NOP,BOS,4,home,LU,assist,2,make2,2,Z. Williamson,L. Ball
+452,4,2:44.0,117,106,NOP,BOS,12,away,JS,,15,miss2,0,K. Walker,
+453,4,2:39.0,117,106,NOP,BOS,5,home,DefReb,,,DefReb,,L. Ball,
+454,4,2:20.0,117,106,NOP,BOS,19,home,JS,,12,miss2,0,B. Ingram,
+455,4,2:20.0,117,106,NOP,BOS,0,away,DefReb,,,DefReb,,G. Hayward,
+456,4,2:13.0,117,108,NOP,BOS,7,away,LU,assist,2,make2,2,J. Brown,G. Hayward
+457,4,1:54.0,119,108,NOP,BOS,19,home,DK,assist,1,make2,2,Z. Williamson,B. Ingram
+458,4,1:54.0,119,108,NOP,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Walker,Z. Williamson
+459,4,1:54.0,119,108,NOP,BOS,0,home,FreeThrow,,,make1,0,Z. Williamson,
+460,4,1:51.0,119,108,NOP,BOS,3,away,DefReb,,,DefReb,,G. Hayward,
+461,4,1:47.0,119,108,NOP,BOS,4,away,LU,,3,miss2,0,K. Walker,
+462,4,1:44.0,119,108,NOP,BOS,3,home,DefReb,,,DefReb,,D. Favors,
+463,4,1:41.0,119,108,NOP,BOS,3,home,JS,,23,miss3,0,B. Ingram,
+464,4,1:38.0,119,108,NOP,BOS,3,home,OffReb,,,OffReb,,D. Favors,
+465,4,1:26.0,119,108,NOP,BOS,12,home,JS,,24,miss3,0,J. Holiday,
+466,4,1:23.0,119,108,NOP,BOS,3,away,DefReb,,,DefReb,,D. Theis,
+467,4,1:12.0,119,108,NOP,BOS,11,away,OutOfBounds,,,turnover,,J. Brown,
+468,4,1:12.0,119,108,NOP,BOS,0,away,Sub,,,,,C. Edwards,J. Brown
+469,4,1:12.0,119,108,NOP,BOS,0,away,Sub,,,,,J. Green,G. Hayward
+470,4,1:12.0,119,108,NOP,BOS,0,away,Sub,,,,,S. Ojeleye,M. Smart
+471,4,1:12.0,119,108,NOP,BOS,0,away,Sub,,,,,V. Poirier,D. Theis
+472,4,1:12.0,119,108,NOP,BOS,0,away,Sub,,,,,G. Williams,K. Walker
+473,4,1:01.0,119,108,NOP,BOS,11,home,LU,,2,miss2,0,Z. Williamson,
+474,4,0:59.0,119,108,NOP,BOS,2,home,OffReb,,,OffReb,,Z. Williamson,
+475,4,0:59.0,121,108,NOP,BOS,0,home,LU,,1,make2,2,Z. Williamson,
+476,4,0:49.0,121,108,NOP,BOS,10,away,JS,,25,miss3,0,C. Edwards,
+477,4,0:47.0,121,108,NOP,BOS,2,home,DefReb,,,DefReb,,Z. Williamson,
+478,4,0:26.0,121,108,NOP,BOS,21,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Williams,Z. Williamson
+479,4,0:26.0,122,108,NOP,BOS,0,home,FreeThrow,,,make1,1,Z. Williamson,
+480,4,0:26.0,123,108,NOP,BOS,0,home,FreeThrow,,,make1,1,Z. Williamson,
+481,4,0:10.0,123,108,NOP,BOS,16,away,JS,,24,miss3,0,G. Williams,
+482,4,0:07.0,123,108,NOP,BOS,3,home,DefReb,,,DefReb,,D. Favors,

@@ -1,0 +1,507 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,0,0,NYK,SAS,15,home,JS,,11,miss2,0,A. Bargnani,
+1,1,11:44.0,0,0,NYK,SAS,1,away,DefReb,,,DefReb,,D. Green,
+2,1,11:29.0,0,2,NYK,SAS,15,away,DK,assist,0,make2,2,T. Duncan,T. Splitter
+3,1,11:05.0,0,2,NYK,SAS,24,home,JS,,16,miss2,0,L. Thomas,
+4,1,11:04.0,0,2,NYK,SAS,1,away,DefReb,,,DefReb,,T. Duncan,
+5,1,10:49.0,0,4,NYK,SAS,15,away,LU,,2,make2,2,T. Parker,
+6,1,10:39.0,0,4,NYK,SAS,10,home,LU,,2,miss2,0,L. Thomas,
+7,1,10:38.0,0,4,NYK,SAS,1,away,DefReb,,,DefReb,,T. Splitter,
+8,1,10:34.0,0,4,NYK,SAS,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Shved,K. Leonard
+9,1,10:34.0,0,5,NYK,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+10,1,10:34.0,0,6,NYK,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+11,1,10:13.0,0,6,NYK,SAS,21,home,LU,block,2,miss2,0,A. Shved,K. Leonard
+12,1,10:12.0,0,6,NYK,SAS,1,home,OffReb,,,OffReb,,L. Thomas,
+13,1,10:10.0,0,6,NYK,SAS,2,home,JS,,19,miss2,0,L. Thomas,
+14,1,10:09.0,0,6,NYK,SAS,1,home,OffReb,,,OffReb,,L. Amundson,
+15,1,10:08.0,0,6,NYK,SAS,1,home,LU,,2,miss2,0,L. Amundson,
+16,1,10:07.0,0,6,NYK,SAS,1,home,OffReb,,,OffReb,,L. Amundson,
+17,1,10:06.0,0,6,NYK,SAS,1,home,LU,block,2,miss2,0,L. Amundson,T. Splitter
+18,1,10:05.0,0,6,NYK,SAS,1,home,OffReb,,,OffReb,,Team,
+19,1,9:54.0,0,6,NYK,SAS,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Splitter,A. Bargnani
+20,1,9:54.0,1,6,NYK,SAS,0,home,FreeThrow,,,make1,1,A. Bargnani,
+21,1,9:54.0,2,6,NYK,SAS,0,home,FreeThrow,,,make1,1,A. Bargnani,
+22,1,9:45.0,2,8,NYK,SAS,9,away,DK,assist,0,make2,2,K. Leonard,T. Duncan
+23,1,9:21.0,4,8,NYK,SAS,24,home,JS,,3,make2,2,A. Bargnani,
+24,1,9:01.0,4,8,NYK,SAS,20,away,JS,,19,miss2,0,T. Duncan,
+25,1,9:00.0,4,8,NYK,SAS,1,home,DefReb,,,DefReb,,A. Bargnani,
+26,1,8:53.0,4,8,NYK,SAS,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,A. Shved
+27,1,8:53.0,5,8,NYK,SAS,0,home,FreeThrow,,,make1,1,A. Shved,
+28,1,8:53.0,5,8,NYK,SAS,0,away,Sub,,,,,M. Belinelli,D. Green
+29,1,8:53.0,6,8,NYK,SAS,0,home,FreeThrow,,,make1,1,A. Shved,
+30,1,8:36.0,6,8,NYK,SAS,17,away,JS,,10,miss2,0,T. Duncan,
+31,1,8:34.0,6,8,NYK,SAS,2,home,DefReb,,,DefReb,,A. Bargnani,
+32,1,8:30.0,8,8,NYK,SAS,4,home,DK,assist,0,make2,2,L. Amundson,A. Shved
+33,1,8:08.0,8,8,NYK,SAS,22,away,LU,,0,miss2,0,M. Belinelli,
+34,1,8:07.0,8,8,NYK,SAS,1,home,DefReb,,,DefReb,,A. Shved,
+35,1,8:01.0,8,8,NYK,SAS,6,home,JS,,24,miss3,0,L. Galloway,
+36,1,8:00.0,8,8,NYK,SAS,1,home,OffReb,,,OffReb,,A. Bargnani,
+37,1,7:59.0,8,8,NYK,SAS,1,home,BadPass,,,turnover,,A. Bargnani,
+38,1,7:59.0,8,8,NYK,SAS,0,away,Sub,,,,,R. Williams,K. Leonard
+39,1,7:39.0,8,8,NYK,SAS,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Amundson,T. Duncan
+40,1,7:39.0,8,9,NYK,SAS,0,away,FreeThrow,,,make1,1,T. Duncan,
+41,1,7:39.0,8,10,NYK,SAS,0,away,FreeThrow,,,make1,1,T. Duncan,
+42,1,7:19.0,8,10,NYK,SAS,20,home,BadPass,steal,,turnover,,L. Galloway,R. Williams
+43,1,7:10.0,8,10,NYK,SAS,9,away,JS,,18,miss2,0,T. Parker,
+44,1,7:09.0,8,10,NYK,SAS,1,home,DefReb,,,DefReb,,Team,
+45,1,6:51.0,10,10,NYK,SAS,18,home,JS,assist,18,make2,2,A. Bargnani,L. Amundson
+46,1,6:32.0,10,12,NYK,SAS,19,away,LU,assist,0,make2,2,T. Parker,T. Duncan
+47,1,6:22.0,12,12,NYK,SAS,10,home,LU,assist,1,make2,2,L. Galloway,L. Amundson
+48,1,6:21.0,12,12,NYK,SAS,1,away,Timeout,,,,,,
+49,1,6:21.0,12,12,NYK,SAS,0,away,Sub,,,,,B. Diaw,T. Splitter
+50,1,5:59.0,12,12,NYK,SAS,22,away,LU,,2,miss2,0,M. Belinelli,
+51,1,5:58.0,12,12,NYK,SAS,1,home,DefReb,,,DefReb,,L. Amundson,
+52,1,5:41.0,12,12,NYK,SAS,17,home,BadPass,steal,,turnover,,L. Amundson,M. Belinelli
+53,1,5:35.0,12,14,NYK,SAS,6,away,LU,assist,1,make2,2,T. Parker,M. Belinelli
+54,1,5:13.0,12,14,NYK,SAS,22,home,BadPass,steal,,turnover,,A. Shved,M. Belinelli
+55,1,5:06.0,12,14,NYK,SAS,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Amundson,M. Belinelli
+56,1,5:06.0,12,15,NYK,SAS,0,away,FreeThrow,,,make1,1,M. Belinelli,
+57,1,5:06.0,12,15,NYK,SAS,0,home,Sub,,,,,C. Aldrich,L. Amundson
+58,1,5:06.0,12,16,NYK,SAS,0,away,FreeThrow,,,make1,1,M. Belinelli,
+59,1,4:47.0,14,16,NYK,SAS,19,home,JS,assist,15,make2,2,A. Bargnani,A. Shved
+60,1,4:30.0,14,16,NYK,SAS,17,away,JS,,11,miss2,0,B. Diaw,
+61,1,4:29.0,14,16,NYK,SAS,1,home,DefReb,,,DefReb,,A. Bargnani,
+62,1,4:15.0,14,16,NYK,SAS,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Williams,A. Shved
+63,1,4:15.0,15,16,NYK,SAS,0,home,FreeThrow,,,make1,1,A. Shved,
+64,1,4:15.0,16,16,NYK,SAS,0,home,FreeThrow,,,make1,1,A. Shved,
+65,1,4:01.0,16,18,NYK,SAS,14,away,JS,assist,20,make2,2,B. Diaw,T. Parker
+66,1,3:40.0,18,18,NYK,SAS,21,home,JS,assist,4,make2,2,L. Thomas,A. Bargnani
+67,1,3:22.0,18,20,NYK,SAS,18,away,JS,,5,make2,2,T. Parker,
+68,1,3:05.0,20,20,NYK,SAS,17,home,JS,,14,make2,2,L. Thomas,
+69,1,2:46.0,20,22,NYK,SAS,19,away,JS,assist,8,make2,2,T. Duncan,T. Parker
+70,1,2:33.0,20,22,NYK,SAS,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Duncan,A. Shved
+71,1,2:33.0,20,22,NYK,SAS,0,home,Timeout,,,,,,
+72,1,2:33.0,20,22,NYK,SAS,0,away,Sub,,,,,P. Mills,T. Duncan
+73,1,2:33.0,20,22,NYK,SAS,0,away,Sub,,,,,K. Leonard,T. Parker
+74,1,2:33.0,20,22,NYK,SAS,0,away,Sub,,,,,T. Splitter,R. Williams
+75,1,2:33.0,20,22,NYK,SAS,0,home,Sub,,,,,J. Smith,L. Thomas
+76,1,2:33.0,20,22,NYK,SAS,0,home,Sub,,,,,T. Wear,A. Bargnani
+77,1,2:33.0,20,22,NYK,SAS,0,home,FreeThrow,,,make1,0,A. Shved,
+78,1,2:33.0,20,22,NYK,SAS,0,home,OffReb,,,OffReb,,Team,
+79,1,2:33.0,20,22,NYK,SAS,0,home,Sub,,,,,S. Larkin,L. Galloway
+80,1,2:33.0,20,22,NYK,SAS,0,home,FreeThrow,,,make1,0,A. Shved,
+81,1,2:32.0,20,22,NYK,SAS,1,away,DefReb,,,DefReb,,T. Splitter,
+82,1,2:19.0,20,25,NYK,SAS,13,away,JS,assist,25,make3,3,K. Leonard,B. Diaw
+83,1,2:04.0,20,25,NYK,SAS,15,home,JS,,16,miss2,0,S. Larkin,
+84,1,2:03.0,20,25,NYK,SAS,1,away,DefReb,,,DefReb,,M. Belinelli,
+85,1,1:50.0,20,25,NYK,SAS,13,away,JS,,9,miss2,0,K. Leonard,
+86,1,1:48.0,20,25,NYK,SAS,2,home,DefReb,,,DefReb,,C. Aldrich,
+87,1,1:39.0,20,25,NYK,SAS,9,home,LU,,1,miss2,0,A. Shved,
+88,1,1:38.0,20,25,NYK,SAS,1,away,DefReb,,,DefReb,,B. Diaw,
+89,1,1:30.0,20,25,NYK,SAS,8,away,BadPass,steal,,turnover,,P. Mills,S. Larkin
+90,1,1:24.0,20,25,NYK,SAS,6,home,LU,,2,miss2,0,A. Shved,
+91,1,1:23.0,20,25,NYK,SAS,1,away,DefReb,,,DefReb,,M. Belinelli,
+92,1,1:06.0,20,25,NYK,SAS,17,away,JS,,25,miss3,0,P. Mills,
+93,1,1:05.0,20,25,NYK,SAS,1,away,OffReb,,,OffReb,,T. Splitter,
+94,1,1:03.0,20,25,NYK,SAS,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Aldrich,T. Splitter
+95,1,1:03.0,20,25,NYK,SAS,0,home,Sub,,,,,L. Galloway,A. Shved
+96,1,0:59.0,20,25,NYK,SAS,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Wear,K. Leonard
+97,1,0:59.0,20,26,NYK,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+98,1,0:59.0,20,27,NYK,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+99,1,0:43.0,22,27,NYK,SAS,16,home,JS,assist,3,make2,2,S. Larkin,L. Galloway
+100,1,0:43.0,22,27,NYK,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Mills,S. Larkin
+101,1,0:43.0,23,27,NYK,SAS,0,home,FreeThrow,,,make1,1,S. Larkin,
+102,1,0:36.0,23,27,NYK,SAS,7,away,JS,block,15,miss2,0,P. Mills,S. Larkin
+103,1,0:34.0,23,27,NYK,SAS,2,home,DefReb,,,DefReb,,C. Aldrich,
+104,1,0:22.0,25,27,NYK,SAS,12,home,JS,,6,make2,2,L. Galloway,
+105,1,0:05.0,25,27,NYK,SAS,17,away,JS,,4,miss2,0,B. Diaw,
+106,1,0:04.0,25,27,NYK,SAS,1,away,OffReb,,,OffReb,,P. Mills,
+107,1,0:04.0,25,27,NYK,SAS,0,away,TI,,2,miss2,0,P. Mills,
+108,1,0:02.0,25,27,NYK,SAS,2,away,OffReb,,,OffReb,,T. Splitter,
+109,1,0:02.0,25,29,NYK,SAS,0,away,TI,,2,make2,2,T. Splitter,
+110,2,11:48.0,25,29,NYK,SAS,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Larkin,P. Mills
+111,2,11:48.0,25,29,NYK,SAS,0,away,FreeThrow,,,make1,0,P. Mills,
+112,2,11:48.0,25,29,NYK,SAS,0,away,OffReb,,,OffReb,,Team,
+113,2,11:48.0,25,29,NYK,SAS,0,away,Sub,,,,,D. Green,M. Belinelli
+114,2,11:48.0,25,30,NYK,SAS,0,away,FreeThrow,,,make1,1,P. Mills,
+115,2,11:24.0,25,30,NYK,SAS,24,home,JS,,15,miss2,0,J. Smith,
+116,2,11:23.0,25,30,NYK,SAS,1,away,DefReb,,,DefReb,,T. Splitter,
+117,2,11:09.0,25,30,NYK,SAS,14,away,JS,,25,miss3,0,P. Mills,
+118,2,11:08.0,25,30,NYK,SAS,1,home,DefReb,,,DefReb,,C. Aldrich,
+119,2,10:49.0,25,30,NYK,SAS,19,home,LU,,1,miss2,0,J. Smith,
+120,2,10:48.0,25,30,NYK,SAS,1,away,DefReb,,,DefReb,,T. Splitter,
+121,2,10:35.0,25,30,NYK,SAS,13,away,JS,,25,miss3,0,D. Green,
+122,2,10:33.0,25,30,NYK,SAS,2,away,OffReb,,,OffReb,,T. Splitter,
+123,2,10:13.0,25,30,NYK,SAS,20,away,JS,,19,miss2,0,K. Leonard,
+124,2,10:12.0,25,30,NYK,SAS,1,away,OffReb,,,OffReb,,T. Splitter,
+125,2,10:10.0,25,30,NYK,SAS,2,away,JS,,38,miss3,0,B. Diaw,
+126,2,10:09.0,25,30,NYK,SAS,1,away,OffReb,,,OffReb,,Team,
+127,2,10:09.0,25,30,NYK,SAS,0,away,ShotClockViolation,,,turnover,,Team,
+128,2,9:52.0,27,30,NYK,SAS,17,home,LU,,1,make2,2,J. Smith,
+129,2,9:40.0,27,32,NYK,SAS,12,away,LU,assist,0,make2,2,B. Diaw,P. Mills
+130,2,9:29.0,27,32,NYK,SAS,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Leonard,T. Wear
+131,2,9:29.0,28,32,NYK,SAS,0,home,FreeThrow,,,make1,1,T. Wear,
+132,2,9:29.0,28,32,NYK,SAS,0,away,Sub,,,,,M. Bonner,B. Diaw
+133,2,9:29.0,28,32,NYK,SAS,0,away,Timeout,,,,,,
+134,2,9:29.0,29,32,NYK,SAS,0,home,FreeThrow,,,make1,1,T. Wear,
+135,2,9:14.0,29,34,NYK,SAS,15,away,HS,,8,make2,2,M. Bonner,
+136,2,9:03.0,29,34,NYK,SAS,11,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Wear,P. Mills
+137,2,9:03.0,29,34,NYK,SAS,0,home,OffensiveFoul,,,turnover,,T. Wear,
+138,2,8:50.0,29,34,NYK,SAS,13,away,JS,,19,miss2,0,P. Mills,
+139,2,8:49.0,29,34,NYK,SAS,1,away,OffReb,,,OffReb,,Team,
+140,2,8:49.0,29,34,NYK,SAS,0,away,Sub,,,,,T. Parker,P. Mills
+141,2,8:41.0,29,36,NYK,SAS,8,away,JS,,21,make2,2,D. Green,
+142,2,8:24.0,29,36,NYK,SAS,17,home,JS,,9,miss2,0,J. Smith,
+143,2,8:23.0,29,36,NYK,SAS,1,away,DefReb,,,DefReb,,D. Green,
+144,2,8:16.0,29,36,NYK,SAS,7,away,LU,block,2,miss2,0,T. Splitter,C. Aldrich
+145,2,8:15.0,29,36,NYK,SAS,1,away,OffReb,,,OffReb,,T. Splitter,
+146,2,8:14.0,29,36,NYK,SAS,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Aldrich,T. Splitter
+147,2,8:14.0,29,37,NYK,SAS,0,away,FreeThrow,,,make1,1,T. Splitter,
+148,2,8:14.0,29,37,NYK,SAS,0,home,Sub,,,,,A. Bargnani,C. Aldrich
+149,2,8:14.0,29,37,NYK,SAS,0,home,Sub,,,,,A. Shved,S. Larkin
+150,2,8:14.0,29,38,NYK,SAS,0,away,FreeThrow,,,make1,1,T. Splitter,
+151,2,7:56.0,29,38,NYK,SAS,18,home,BadPass,steal,,turnover,,A. Bargnani,D. Green
+152,2,7:44.0,29,40,NYK,SAS,12,away,HS,,4,make2,2,T. Splitter,
+153,2,7:43.0,29,40,NYK,SAS,1,home,Timeout,,,,,,
+154,2,7:43.0,29,40,NYK,SAS,0,home,Sub,,,,,L. Thomas,T. Wear
+155,2,7:24.0,29,40,NYK,SAS,19,home,JS,,12,miss2,0,A. Bargnani,
+156,2,7:23.0,29,40,NYK,SAS,1,away,DefReb,,,DefReb,,D. Green,
+157,2,7:14.0,29,42,NYK,SAS,9,away,LU,assist,2,make2,2,T. Splitter,T. Parker
+158,2,6:51.0,31,42,NYK,SAS,23,home,LU,,2,make2,2,A. Shved,
+159,2,6:35.0,31,44,NYK,SAS,16,away,JS,,5,make2,2,T. Parker,
+160,2,6:19.0,33,44,NYK,SAS,16,home,LU,assist,0,make2,2,A. Shved,A. Bargnani
+161,2,5:59.0,33,44,NYK,SAS,20,away,LU,,0,miss2,0,T. Splitter,
+162,2,5:58.0,33,44,NYK,SAS,1,away,OffReb,,,OffReb,,T. Splitter,
+163,2,5:58.0,33,44,NYK,SAS,0,away,TI,,0,miss2,0,T. Splitter,
+164,2,5:57.0,33,44,NYK,SAS,1,home,DefReb,,,DefReb,,J. Smith,
+165,2,5:48.0,33,44,NYK,SAS,9,home,JS,,24,miss3,0,J. Smith,
+166,2,5:47.0,33,44,NYK,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+167,2,5:34.0,33,46,NYK,SAS,13,away,HS,,4,make2,2,T. Splitter,
+168,2,5:13.0,35,46,NYK,SAS,21,home,JS,assist,15,make2,2,L. Thomas,A. Shved
+169,2,4:56.0,35,46,NYK,SAS,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Thomas,T. Splitter
+170,2,4:56.0,35,46,NYK,SAS,0,away,Sub,,,,,T. Duncan,T. Splitter
+171,2,4:56.0,35,46,NYK,SAS,0,home,Sub,,,,,L. Amundson,J. Smith
+172,2,4:50.0,35,48,NYK,SAS,6,away,JS,,4,make2,2,T. Parker,
+173,2,4:34.0,37,48,NYK,SAS,16,home,LU,,1,make2,2,A. Shved,
+174,2,4:14.0,37,48,NYK,SAS,20,away,JS,,3,miss2,0,T. Duncan,
+175,2,4:13.0,37,48,NYK,SAS,1,home,DefReb,,,DefReb,,A. Bargnani,
+176,2,3:58.0,37,48,NYK,SAS,15,home,JS,block,15,miss2,0,L. Thomas,K. Leonard
+177,2,3:57.0,37,48,NYK,SAS,1,away,DefReb,,,DefReb,,Team,
+178,2,3:57.0,37,48,NYK,SAS,0,away,Sub,,,,,M. Belinelli,K. Leonard
+179,2,3:39.0,37,48,NYK,SAS,18,away,JS,,5,miss2,0,M. Bonner,
+180,2,3:38.0,37,48,NYK,SAS,1,home,DefReb,,,DefReb,,L. Amundson,
+181,2,3:30.0,37,48,NYK,SAS,8,home,JS,,25,miss3,0,A. Shved,
+182,2,3:29.0,37,48,NYK,SAS,1,away,DefReb,,,DefReb,,T. Parker,
+183,2,3:21.0,37,48,NYK,SAS,8,away,BadPass,steal,,turnover,,T. Parker,A. Shved
+184,2,3:17.0,37,48,NYK,SAS,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Belinelli,A. Shved
+185,2,3:17.0,37,48,NYK,SAS,0,home,Sub,,,,,S. Larkin,A. Shved
+186,2,2:58.0,37,48,NYK,SAS,19,home,JS,,20,miss2,0,L. Galloway,
+187,2,2:57.0,37,48,NYK,SAS,1,away,DefReb,,,DefReb,,T. Parker,
+188,2,2:54.0,37,48,NYK,SAS,3,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,L. Galloway,T. Parker
+189,2,2:54.0,37,48,NYK,SAS,0,away,Timeout,,,,,,
+190,2,2:54.0,37,48,NYK,SAS,0,away,Sub,,,,,C. Joseph,T. Parker
+191,2,2:34.0,37,48,NYK,SAS,20,away,JS,,25,miss3,0,D. Green,
+192,2,2:33.0,37,48,NYK,SAS,1,home,DefReb,,,DefReb,,L. Amundson,
+193,2,2:23.0,40,48,NYK,SAS,10,home,JS,,25,make3,3,L. Galloway,
+194,2,2:01.0,40,48,NYK,SAS,22,away,BadPass,steal,,turnover,,M. Belinelli,L. Galloway
+195,2,1:57.0,40,48,NYK,SAS,4,home,LU,,2,miss2,0,L. Galloway,
+196,2,1:56.0,40,48,NYK,SAS,1,home,OffReb,,,OffReb,,L. Amundson,
+197,2,1:56.0,42,48,NYK,SAS,0,home,LU,,2,make2,2,L. Amundson,
+198,2,1:33.0,42,50,NYK,SAS,23,away,JS,,4,make2,2,T. Duncan,
+199,2,1:15.0,42,50,NYK,SAS,18,home,JS,,13,miss2,0,L. Amundson,
+200,2,1:14.0,42,50,NYK,SAS,1,away,DefReb,,,DefReb,,M. Belinelli,
+201,2,1:05.0,42,50,NYK,SAS,9,away,JS,,19,miss2,0,D. Green,
+202,2,1:04.0,42,50,NYK,SAS,1,home,DefReb,,,DefReb,,A. Bargnani,
+203,2,0:52.0,42,50,NYK,SAS,12,home,JS,,27,miss3,0,A. Bargnani,
+204,2,0:51.0,42,50,NYK,SAS,1,away,DefReb,,,DefReb,,C. Joseph,
+205,2,0:33.0,42,52,NYK,SAS,18,away,JS,,4,make2,2,T. Duncan,
+206,2,0:26.0,42,52,NYK,SAS,7,home,Timeout,,,,,,
+207,2,0:26.0,42,52,NYK,SAS,0,away,Sub,,,,,B. Diaw,M. Bonner
+208,2,0:26.0,42,52,NYK,SAS,0,home,Sub,,,,,A. Shved,S. Larkin
+209,2,0:16.0,42,52,NYK,SAS,10,home,JS,,14,miss2,0,A. Bargnani,
+210,2,0:14.0,42,52,NYK,SAS,2,home,OffReb,,,OffReb,,A. Shved,
+211,2,0:10.0,42,52,NYK,SAS,4,home,JS,,3,miss2,0,A. Shved,
+212,2,0:09.0,42,52,NYK,SAS,1,away,DefReb,,,DefReb,,T. Duncan,
+213,2,0:03.0,42,52,NYK,SAS,6,away,LU,block,3,miss2,0,C. Joseph,A. Bargnani
+214,2,0:01.0,42,52,NYK,SAS,2,home,DefReb,,,DefReb,,L. Amundson,
+215,2,0:00.0,42,52,NYK,SAS,1,home,JS,,48,miss3,0,L. Amundson,
+216,2,0:00.0,42,52,NYK,SAS,0,home,OffReb,,,OffReb,,Team,
+217,3,11:40.0,42,52,NYK,SAS,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Galloway,T. Duncan
+218,3,11:40.0,42,53,NYK,SAS,0,away,FreeThrow,,,make1,1,T. Duncan,
+219,3,11:40.0,42,54,NYK,SAS,0,away,FreeThrow,,,make1,1,T. Duncan,
+220,3,11:26.0,42,54,NYK,SAS,14,home,JS,,17,miss2,0,A. Bargnani,
+221,3,11:25.0,42,54,NYK,SAS,1,home,OffReb,,,OffReb,,L. Amundson,
+222,3,11:14.0,44,54,NYK,SAS,11,home,JS,assist,16,make2,2,A. Bargnani,A. Shved
+223,3,11:07.0,44,54,NYK,SAS,7,away,LU,block,1,miss2,0,T. Splitter,A. Bargnani
+224,3,11:06.0,44,54,NYK,SAS,1,home,DefReb,,,DefReb,,L. Amundson,
+225,3,10:43.0,44,54,NYK,SAS,23,home,BadPass,steal,,turnover,,A. Bargnani,T. Parker
+226,3,10:34.0,44,54,NYK,SAS,9,away,LU,block,0,miss2,0,T. Parker,L. Amundson
+227,3,10:33.0,44,54,NYK,SAS,1,home,DefReb,,,DefReb,,L. Galloway,
+228,3,10:27.0,46,54,NYK,SAS,6,home,JS,assist,11,make2,2,A. Bargnani,L. Galloway
+229,3,10:18.0,46,54,NYK,SAS,9,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Parker,A. Shved
+230,3,10:18.0,46,54,NYK,SAS,0,away,OffensiveFoul,,,turnover,,T. Parker,
+231,3,9:55.0,46,54,NYK,SAS,23,home,JS,,19,miss2,0,L. Galloway,
+232,3,9:54.0,46,54,NYK,SAS,1,home,OffReb,,,OffReb,,L. Amundson,
+233,3,9:52.0,46,54,NYK,SAS,2,home,LU,block,2,miss2,0,L. Amundson,D. Green
+234,3,9:51.0,46,54,NYK,SAS,1,home,OffReb,,,OffReb,,L. Amundson,
+235,3,9:38.0,46,54,NYK,SAS,13,home,JS,,19,miss2,0,L. Thomas,
+236,3,9:37.0,46,54,NYK,SAS,1,away,DefReb,,,DefReb,,T. Parker,
+237,3,9:30.0,46,56,NYK,SAS,7,away,DK,assist,0,make2,2,T. Splitter,T. Parker
+238,3,9:05.0,46,56,NYK,SAS,25,home,JS,,6,miss2,0,L. Amundson,
+239,3,9:03.0,46,56,NYK,SAS,2,away,DefReb,,,DefReb,,T. Splitter,
+240,3,8:47.0,46,56,NYK,SAS,16,away,JS,,14,miss2,0,D. Green,
+241,3,8:46.0,46,56,NYK,SAS,1,home,DefReb,,,DefReb,,L. Amundson,
+242,3,8:38.0,46,56,NYK,SAS,8,home,JS,block,4,miss2,0,A. Shved,T. Duncan
+243,3,8:37.0,46,56,NYK,SAS,1,away,DefReb,,,DefReb,,T. Duncan,
+244,3,8:28.0,46,59,NYK,SAS,9,away,JS,assist,23,make3,3,D. Green,T. Parker
+245,3,8:23.0,46,59,NYK,SAS,5,home,Timeout,,,,,,
+246,3,8:23.0,46,59,NYK,SAS,0,away,Sub,,,,,B. Diaw,T. Splitter
+247,3,8:17.0,49,59,NYK,SAS,6,home,JS,assist,25,make3,3,L. Galloway,A. Shved
+248,3,8:00.0,49,59,NYK,SAS,17,away,JS,,7,miss2,0,B. Diaw,
+249,3,7:58.0,49,59,NYK,SAS,2,home,DefReb,,,DefReb,,L. Amundson,
+250,3,7:43.0,49,59,NYK,SAS,15,home,JS,,14,miss2,0,A. Bargnani,
+251,3,7:42.0,49,59,NYK,SAS,1,home,OffReb,,,OffReb,,L. Amundson,
+252,3,7:42.0,51,59,NYK,SAS,0,home,LU,,1,make2,2,L. Amundson,
+253,3,7:27.0,51,59,NYK,SAS,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Amundson,T. Parker
+254,3,7:14.0,51,59,NYK,SAS,13,away,LU,,0,miss2,0,D. Green,
+255,3,7:13.0,51,59,NYK,SAS,1,away,OffReb,,,OffReb,,T. Duncan,
+256,3,7:13.0,51,61,NYK,SAS,0,away,LU,,2,make2,2,T. Duncan,
+257,3,6:48.0,53,61,NYK,SAS,25,home,LU,,1,make2,2,A. Shved,
+258,3,6:48.0,53,61,NYK,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Duncan,A. Shved
+259,3,6:48.0,53,61,NYK,SAS,0,home,Sub,,,,,T. Wear,L. Thomas
+260,3,6:48.0,53,61,NYK,SAS,0,home,FreeThrow,,,make1,0,A. Shved,
+261,3,6:47.0,53,61,NYK,SAS,1,away,DefReb,,,DefReb,,T. Duncan,
+262,3,6:34.0,53,61,NYK,SAS,13,away,JS,,20,miss2,0,T. Duncan,
+263,3,6:33.0,53,61,NYK,SAS,1,home,DefReb,,,DefReb,,L. Galloway,
+264,3,6:24.0,55,61,NYK,SAS,9,home,LU,assist,1,make2,2,A. Bargnani,L. Galloway
+265,3,6:17.0,55,63,NYK,SAS,7,away,LU,assist,2,make2,2,D. Green,B. Diaw
+266,3,6:17.0,55,63,NYK,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Shved,D. Green
+267,3,6:17.0,55,64,NYK,SAS,0,away,FreeThrow,,,make1,1,D. Green,
+268,3,6:05.0,57,64,NYK,SAS,12,home,JS,,15,make2,2,L. Galloway,
+269,3,5:53.0,57,64,NYK,SAS,12,away,LostBall,steal,,turnover,,K. Leonard,T. Wear
+270,3,5:35.0,59,64,NYK,SAS,18,home,JS,assist,21,make2,2,L. Galloway,T. Wear
+271,3,5:20.0,59,64,NYK,SAS,15,away,LU,block,1,miss2,0,T. Parker,L. Amundson
+272,3,5:19.0,59,64,NYK,SAS,1,home,DefReb,,,DefReb,,A. Bargnani,
+273,3,5:15.0,61,64,NYK,SAS,4,home,JS,,15,make2,2,L. Galloway,
+274,3,5:14.0,61,64,NYK,SAS,1,away,Timeout,,,,,,
+275,3,4:58.0,61,64,NYK,SAS,16,away,JS,,9,miss2,0,K. Leonard,
+276,3,4:56.0,61,64,NYK,SAS,2,home,DefReb,,,DefReb,,Team,
+277,3,4:41.0,61,64,NYK,SAS,15,home,JS,,23,miss3,0,T. Wear,
+278,3,4:40.0,61,64,NYK,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+279,3,4:33.0,61,66,NYK,SAS,7,away,LU,assist,2,make2,2,B. Diaw,K. Leonard
+280,3,4:12.0,63,66,NYK,SAS,21,home,JS,assist,11,make2,2,L. Amundson,L. Galloway
+281,3,3:55.0,63,66,NYK,SAS,17,away,JS,,19,miss2,0,B. Diaw,
+282,3,3:54.0,63,66,NYK,SAS,1,home,DefReb,,,DefReb,,T. Wear,
+283,3,3:47.0,63,66,NYK,SAS,7,home,JS,,25,miss3,0,A. Shved,
+284,3,3:46.0,63,66,NYK,SAS,1,away,DefReb,,,DefReb,,D. Green,
+285,3,3:40.0,63,66,NYK,SAS,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Wear,T. Parker
+286,3,3:40.0,63,67,NYK,SAS,0,away,FreeThrow,,,make1,1,T. Parker,
+287,3,3:40.0,63,67,NYK,SAS,0,away,Sub,,,,,M. Belinelli,D. Green
+288,3,3:40.0,63,67,NYK,SAS,0,away,Sub,,,,,J. Ayres,T. Duncan
+289,3,3:40.0,63,67,NYK,SAS,0,home,Sub,,,,,J. Smith,A. Bargnani
+290,3,3:40.0,63,68,NYK,SAS,0,away,FreeThrow,,,make1,1,T. Parker,
+291,3,3:20.0,63,68,NYK,SAS,20,home,BadPass,steal,,turnover,,L. Amundson,B. Diaw
+292,3,3:07.0,63,70,NYK,SAS,13,away,JS,,4,make2,2,B. Diaw,
+293,3,2:47.0,63,70,NYK,SAS,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Diaw,L. Amundson
+294,3,2:47.0,63,70,NYK,SAS,0,home,FreeThrow,,,make1,0,L. Amundson,
+295,3,2:47.0,63,70,NYK,SAS,0,home,OffReb,,,OffReb,,Team,
+296,3,2:47.0,63,70,NYK,SAS,0,away,Sub,,,,,C. Joseph,T. Parker
+297,3,2:47.0,64,70,NYK,SAS,0,home,FreeThrow,,,make1,1,L. Amundson,
+298,3,2:33.0,64,73,NYK,SAS,14,away,JS,assist,25,make3,3,M. Belinelli,C. Joseph
+299,3,2:11.0,64,73,NYK,SAS,22,home,JS,,16,miss2,0,J. Smith,
+300,3,2:10.0,64,73,NYK,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+301,3,2:00.0,64,73,NYK,SAS,10,away,JS,,24,miss3,0,B. Diaw,
+302,3,1:59.0,64,73,NYK,SAS,1,away,OffReb,,,OffReb,,J. Ayres,
+303,3,1:52.0,64,73,NYK,SAS,7,away,LU,,0,miss2,0,C. Joseph,
+304,3,1:51.0,64,73,NYK,SAS,1,away,OffReb,,,OffReb,,J. Ayres,
+305,3,1:51.0,64,75,NYK,SAS,0,away,LU,,2,make2,2,J. Ayres,
+306,3,1:26.0,66,75,NYK,SAS,25,home,LU,,1,make2,2,A. Shved,
+307,3,1:19.0,66,75,NYK,SAS,7,away,JS,,4,miss2,0,K. Leonard,
+308,3,1:18.0,66,75,NYK,SAS,1,away,OffReb,,,OffReb,,Team,
+309,3,1:18.0,66,75,NYK,SAS,0,home,Sub,,,,,C. Aldrich,L. Amundson
+310,3,1:18.0,66,75,NYK,SAS,0,home,Sub,,,,,S. Larkin,A. Shved
+311,3,1:18.0,66,75,NYK,SAS,0,away,Sub,,,,,D. Green,K. Leonard
+312,3,1:12.0,66,75,NYK,SAS,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Belinelli,L. Galloway
+313,3,1:12.0,66,75,NYK,SAS,0,away,OffensiveFoul,,,turnover,,M. Belinelli,
+314,3,1:03.0,66,75,NYK,SAS,9,home,JS,,17,miss2,0,L. Galloway,
+315,3,1:02.0,66,75,NYK,SAS,1,away,DefReb,,,DefReb,,C. Joseph,
+316,3,0:53.0,66,75,NYK,SAS,9,away,HS,,6,miss2,0,J. Ayres,
+317,3,0:52.0,66,75,NYK,SAS,1,home,DefReb,,,DefReb,,C. Aldrich,
+318,3,0:32.0,68,75,NYK,SAS,20,home,LU,,1,make2,2,L. Galloway,
+319,3,0:19.0,68,75,NYK,SAS,13,away,LU,,1,miss2,0,J. Ayres,
+320,3,0:17.0,68,75,NYK,SAS,2,home,DefReb,,,DefReb,,J. Smith,
+321,3,0:02.0,68,75,NYK,SAS,15,home,JS,,18,miss2,0,J. Smith,
+322,3,0:00.0,68,75,NYK,SAS,2,away,DefReb,,,DefReb,,M. Belinelli,
+323,4,11:43.0,70,75,NYK,SAS,17,home,JS,assist,14,make2,2,T. Wear,A. Shved
+324,4,11:33.0,70,75,NYK,SAS,10,away,BadPass,steal,,turnover,,D. Green,A. Shved
+325,4,11:32.0,70,75,NYK,SAS,1,home,Timeout,,,,,,
+326,4,11:14.0,70,75,NYK,SAS,18,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Ayres,J. Smith
+327,4,11:14.0,71,75,NYK,SAS,0,home,FreeThrow,,,make1,1,J. Smith,
+328,4,11:14.0,72,75,NYK,SAS,0,home,FreeThrow,,,make1,1,J. Smith,
+329,4,11:02.0,72,75,NYK,SAS,12,away,LU,block,3,miss2,0,C. Joseph,J. Smith
+330,4,11:01.0,72,75,NYK,SAS,1,away,OffReb,,,OffReb,,Team,
+331,4,10:49.0,72,75,NYK,SAS,12,away,JS,,23,miss3,0,D. Green,
+332,4,10:48.0,72,75,NYK,SAS,1,home,DefReb,,,DefReb,,A. Shved,
+333,4,10:26.0,74,75,NYK,SAS,22,home,JS,assist,17,make2,2,T. Wear,J. Smith
+334,4,10:01.0,74,75,NYK,SAS,25,away,LU,,1,miss2,0,B. Diaw,
+335,4,10:00.0,74,75,NYK,SAS,1,away,OffReb,,,OffReb,,J. Ayres,
+336,4,10:00.0,74,77,NYK,SAS,0,away,TI,,0,make2,2,J. Ayres,
+337,4,9:44.0,77,77,NYK,SAS,16,home,JS,,24,make3,3,A. Shved,
+338,4,9:32.0,77,77,NYK,SAS,12,away,LU,block,2,miss2,0,D. Green,C. Aldrich
+339,4,9:31.0,77,77,NYK,SAS,1,away,OffReb,,,OffReb,,Team,
+340,4,9:31.0,77,77,NYK,SAS,0,away,Sub,,,,,T. Splitter,J. Ayres
+341,4,9:31.0,77,77,NYK,SAS,0,away,Sub,,,,,M. Bonner,B. Diaw
+342,4,9:20.0,77,79,NYK,SAS,11,away,JS,,14,make2,2,C. Joseph,
+343,4,8:59.0,77,79,NYK,SAS,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Bonner,C. Aldrich
+344,4,8:59.0,77,79,NYK,SAS,0,away,Timeout,,,,,,
+345,4,8:59.0,78,79,NYK,SAS,0,home,FreeThrow,,,make1,1,C. Aldrich,
+346,4,8:59.0,78,79,NYK,SAS,0,home,FreeThrow,,,make1,0,C. Aldrich,
+347,4,8:58.0,78,79,NYK,SAS,1,away,DefReb,,,DefReb,,C. Joseph,
+348,4,8:43.0,78,79,NYK,SAS,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Shved,M. Belinelli
+349,4,8:43.0,78,80,NYK,SAS,0,away,FreeThrow,,,make1,1,M. Belinelli,
+350,4,8:43.0,78,81,NYK,SAS,0,away,FreeThrow,,,make1,1,M. Belinelli,
+351,4,8:43.0,78,81,NYK,SAS,0,away,Sub,,,,,T. Parker,C. Joseph
+352,4,8:43.0,78,82,NYK,SAS,0,away,FreeThrow,,,make1,1,M. Belinelli,
+353,4,8:19.0,78,82,NYK,SAS,24,home,ShotClockViolation,,,turnover,,Team,
+354,4,8:06.0,78,82,NYK,SAS,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Wear,M. Belinelli
+355,4,8:06.0,78,83,NYK,SAS,0,away,FreeThrow,,,make1,1,M. Belinelli,
+356,4,8:06.0,78,83,NYK,SAS,0,home,Sub,,,,,L. Galloway,A. Shved
+357,4,8:06.0,78,84,NYK,SAS,0,away,FreeThrow,,,make1,1,M. Belinelli,
+358,4,7:48.0,80,84,NYK,SAS,18,home,JS,assist,14,make2,2,J. Smith,S. Larkin
+359,4,7:37.0,80,84,NYK,SAS,11,away,DK,,0,miss2,0,D. Green,
+360,4,7:35.0,80,84,NYK,SAS,2,home,DefReb,,,DefReb,,L. Galloway,
+361,4,7:29.0,80,84,NYK,SAS,6,home,LU,,3,miss2,0,C. Aldrich,
+362,4,7:28.0,80,84,NYK,SAS,1,home,OffReb,,,OffReb,,Team,
+363,4,7:28.0,80,84,NYK,SAS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Belinelli,J. Smith
+364,4,7:17.0,82,84,NYK,SAS,11,home,JS,,22,make2,2,L. Galloway,
+365,4,7:04.0,82,84,NYK,SAS,13,away,JS,,23,miss3,0,T. Parker,
+366,4,7:03.0,82,84,NYK,SAS,1,home,DefReb,,,DefReb,,J. Smith,
+367,4,6:48.0,84,84,NYK,SAS,15,home,JS,assist,16,make2,2,J. Smith,C. Aldrich
+368,4,6:31.0,84,84,NYK,SAS,17,away,JS,,24,miss3,0,M. Belinelli,
+369,4,6:30.0,84,84,NYK,SAS,1,home,DefReb,,,DefReb,,T. Wear,
+370,4,6:07.0,84,84,NYK,SAS,23,home,JS,,21,miss2,0,T. Wear,
+371,4,6:06.0,84,84,NYK,SAS,1,home,OffReb,,,OffReb,,C. Aldrich,
+372,4,6:02.0,86,84,NYK,SAS,4,home,HS,,4,make2,2,C. Aldrich,
+373,4,5:53.0,86,84,NYK,SAS,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Larkin,T. Parker
+374,4,5:53.0,86,84,NYK,SAS,0,home,Timeout,,,,,,
+375,4,5:53.0,86,84,NYK,SAS,0,away,Sub,,,,,K. Leonard,D. Green
+376,4,5:53.0,86,84,NYK,SAS,0,away,Sub,,,,,T. Duncan,M. Bonner
+377,4,5:53.0,86,84,NYK,SAS,0,away,FreeThrow,,,make1,0,T. Parker,
+378,4,5:53.0,86,84,NYK,SAS,0,away,OffReb,,,OffReb,,Team,
+379,4,5:53.0,86,85,NYK,SAS,0,away,FreeThrow,,,make1,1,T. Parker,
+380,4,5:36.0,86,85,NYK,SAS,17,home,JS,,25,miss3,0,L. Galloway,
+381,4,5:35.0,86,85,NYK,SAS,1,home,OffReb,,,OffReb,,J. Smith,
+382,4,5:26.0,88,85,NYK,SAS,9,home,JS,assist,19,make2,2,L. Galloway,J. Smith
+383,4,4:58.0,88,85,NYK,SAS,28,away,JS,,12,miss2,0,T. Parker,
+384,4,4:57.0,88,85,NYK,SAS,1,home,DefReb,,,DefReb,,C. Aldrich,
+385,4,4:47.0,88,85,NYK,SAS,10,home,JS,,8,miss2,0,S. Larkin,
+386,4,4:46.0,88,85,NYK,SAS,1,away,DefReb,,,DefReb,,T. Splitter,
+387,4,4:32.0,88,87,NYK,SAS,14,away,JS,,6,make2,2,T. Parker,
+388,4,4:07.0,90,87,NYK,SAS,25,home,LU,assist,3,make2,2,S. Larkin,C. Aldrich
+389,4,3:55.0,90,89,NYK,SAS,12,away,JS,assist,16,make2,2,K. Leonard,T. Duncan
+390,4,3:40.0,90,89,NYK,SAS,15,home,JS,,11,miss2,0,L. Galloway,
+391,4,3:39.0,90,89,NYK,SAS,1,home,OffReb,,,OffReb,,C. Aldrich,
+392,4,3:39.0,90,89,NYK,SAS,0,home,TI,,2,miss2,0,C. Aldrich,
+393,4,3:38.0,90,89,NYK,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+394,4,3:33.0,90,89,NYK,SAS,5,away,JS,,9,miss2,0,T. Parker,
+395,4,3:31.0,90,89,NYK,SAS,2,home,DefReb,,,DefReb,,T. Wear,
+396,4,3:07.0,90,89,NYK,SAS,24,home,ShotClockViolation,,,turnover,,Team,
+397,4,3:07.0,90,89,NYK,SAS,0,away,Timeout,,,,,,
+398,4,3:07.0,90,89,NYK,SAS,0,home,Sub,,,,,L. Amundson,C. Aldrich
+399,4,3:07.0,90,89,NYK,SAS,0,home,Sub,,,,,L. Thomas,T. Wear
+400,4,2:54.0,90,91,NYK,SAS,13,away,JS,assist,6,make2,2,T. Duncan,T. Splitter
+401,4,2:29.0,92,91,NYK,SAS,25,home,JS,,8,make2,2,J. Smith,
+402,4,2:12.0,92,91,NYK,SAS,17,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Leonard,L. Thomas
+403,4,2:12.0,92,91,NYK,SAS,0,away,OffensiveFoul,,,turnover,,K. Leonard,
+404,4,2:02.0,92,91,NYK,SAS,10,away,KickBallViolation,,,KickBallViolation,,T. Splitter,
+405,4,1:49.0,92,91,NYK,SAS,13,home,LostBall,steal,,turnover,,L. Galloway,K. Leonard
+406,4,1:40.0,92,91,NYK,SAS,9,home,DefGoaltending,,,DefGoaltending,,L. Amundson,
+407,4,1:40.0,92,93,NYK,SAS,0,away,LU,,1,make2,2,T. Parker,
+408,4,1:40.0,92,93,NYK,SAS,0,home,Timeout,,,,,,
+409,4,1:27.0,94,93,NYK,SAS,13,home,LU,assist,2,make2,2,L. Thomas,S. Larkin
+410,4,1:14.0,94,93,NYK,SAS,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Thomas,K. Leonard
+411,4,1:14.0,94,93,NYK,SAS,0,away,FreeThrow,,,make1,0,K. Leonard,
+412,4,1:14.0,94,93,NYK,SAS,0,away,OffReb,,,OffReb,,Team,
+413,4,1:14.0,94,94,NYK,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+414,4,0:55.0,94,94,NYK,SAS,19,home,JS,,25,miss3,0,S. Larkin,
+415,4,0:53.0,94,94,NYK,SAS,2,away,DefReb,,,DefReb,,T. Parker,
+416,4,0:35.0,94,94,NYK,SAS,18,away,JS,,21,miss2,0,T. Parker,
+417,4,0:34.0,94,94,NYK,SAS,1,away,OffReb,,,OffReb,,T. Splitter,
+418,4,0:33.0,94,94,NYK,SAS,1,away,LU,block,0,miss2,0,T. Splitter,S. Larkin
+419,4,0:31.0,94,94,NYK,SAS,2,away,OffReb,,,OffReb,,Team,
+420,4,0:31.0,94,94,NYK,SAS,0,away,Timeout,,,,,,
+421,4,0:31.0,94,94,NYK,SAS,0,away,Sub,,,,,B. Diaw,T. Splitter
+422,4,0:31.0,94,94,NYK,SAS,0,home,Sub,,,,,C. Aldrich,J. Smith
+423,4,0:25.0,94,96,NYK,SAS,6,away,JS,assist,20,make2,2,M. Belinelli,T. Parker
+424,4,0:21.0,94,96,NYK,SAS,4,home,Timeout,,,,,,
+425,4,0:21.0,94,96,NYK,SAS,0,home,Sub,,,,,J. Smith,L. Thomas
+426,4,0:21.0,94,96,NYK,SAS,0,home,Sub,,,,,A. Shved,C. Aldrich
+427,4,0:11.0,94,96,NYK,SAS,10,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Duncan,L. Galloway
+428,4,0:06.0,96,96,NYK,SAS,5,home,LU,assist,1,make2,2,L. Amundson,A. Shved
+429,4,0:06.0,96,96,NYK,SAS,0,away,Timeout,,,,,,
+430,4,0:06.0,96,96,NYK,SAS,0,home,Sub,,,,,L. Thomas,A. Shved
+431,4,0:03.0,96,96,NYK,SAS,3,away,JS,,17,miss2,0,K. Leonard,
+432,4,0:02.0,96,96,NYK,SAS,1,away,OffReb,,,OffReb,,B. Diaw,
+433,1OT,4:43.0,96,98,NYK,SAS,437,away,JS,,8,make2,2,T. Parker,
+434,1OT,4:21.0,96,98,NYK,SAS,22,home,JS,,25,miss3,0,L. Galloway,
+435,1OT,4:20.0,96,98,NYK,SAS,1,home,OffReb,,,OffReb,,A. Bargnani,
+436,1OT,4:16.0,98,98,NYK,SAS,4,home,LU,,1,make2,2,A. Bargnani,
+437,1OT,4:03.0,98,98,NYK,SAS,13,away,BadPass,,,turnover,,T. Parker,
+438,1OT,3:49.0,98,98,NYK,SAS,14,home,JS,,16,miss2,0,A. Bargnani,
+439,1OT,3:48.0,98,98,NYK,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
+440,1OT,3:37.0,98,98,NYK,SAS,11,away,JS,,4,miss2,0,T. Parker,
+441,1OT,3:36.0,98,98,NYK,SAS,1,away,OffReb,,,OffReb,,T. Parker,
+442,1OT,3:34.0,98,98,NYK,SAS,2,away,LU,block,1,miss2,0,T. Parker,A. Bargnani
+443,1OT,3:33.0,98,98,NYK,SAS,1,home,DefReb,,,DefReb,,L. Galloway,
+444,1OT,3:26.0,98,98,NYK,SAS,7,home,JS,,12,miss2,0,A. Bargnani,
+445,1OT,3:25.0,98,98,NYK,SAS,1,away,DefReb,,,DefReb,,Team,
+446,1OT,3:08.0,98,98,NYK,SAS,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Thomas,K. Leonard
+447,1OT,3:08.0,98,98,NYK,SAS,0,away,FreeThrow,,,make1,0,K. Leonard,
+448,1OT,3:08.0,98,98,NYK,SAS,0,away,OffReb,,,OffReb,,Team,
+449,1OT,3:08.0,98,99,NYK,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
+450,1OT,2:55.0,98,99,NYK,SAS,13,home,LU,,2,miss2,0,L. Thomas,
+451,1OT,2:54.0,98,99,NYK,SAS,1,away,DefReb,,,DefReb,,T. Duncan,
+452,1OT,2:45.0,98,99,NYK,SAS,9,away,JS,,5,miss2,0,K. Leonard,
+453,1OT,2:44.0,98,99,NYK,SAS,1,home,DefReb,,,DefReb,,A. Bargnani,
+454,1OT,2:24.0,98,99,NYK,SAS,20,home,JS,,4,miss2,0,A. Bargnani,
+455,1OT,2:23.0,98,99,NYK,SAS,1,away,DefReb,,,DefReb,,T. Duncan,
+456,1OT,2:04.0,98,99,NYK,SAS,19,away,LU,,2,miss2,0,T. Duncan,
+457,1OT,2:03.0,98,99,NYK,SAS,1,home,DefReb,,,DefReb,,A. Bargnani,
+458,1OT,1:57.0,98,99,NYK,SAS,6,home,Timeout,,,,,,
+459,1OT,1:57.0,98,99,NYK,SAS,0,away,Sub,,,,,M. Belinelli,D. Green
+460,1OT,1:44.0,98,99,NYK,SAS,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Diaw,A. Shved
+461,1OT,1:44.0,99,99,NYK,SAS,0,home,FreeThrow,,,make1,1,A. Shved,
+462,1OT,1:44.0,99,99,NYK,SAS,0,home,FreeThrow,,,make1,0,A. Shved,
+463,1OT,1:44.0,99,99,NYK,SAS,0,home,OffReb,,,OffReb,,Team,
+464,1OT,1:44.0,100,99,NYK,SAS,0,home,FreeThrow,,,make1,1,A. Shved,
+465,1OT,1:25.0,100,99,NYK,SAS,19,away,JS,,7,miss2,0,T. Parker,
+466,1OT,1:24.0,100,99,NYK,SAS,1,away,OffReb,,,OffReb,,T. Duncan,
+467,1OT,1:24.0,100,99,NYK,SAS,0,away,TI,,2,miss2,0,T. Duncan,
+468,1OT,1:23.0,100,99,NYK,SAS,1,home,DefReb,,,DefReb,,L. Amundson,
+469,1OT,1:02.0,100,99,NYK,SAS,21,home,JS,,28,miss3,0,A. Shved,
+470,1OT,1:01.0,100,99,NYK,SAS,1,home,OffReb,,,OffReb,,L. Amundson,
+471,1OT,0:42.0,100,99,NYK,SAS,19,home,LostBall,,,turnover,,L. Amundson,
+472,1OT,0:29.0,100,99,NYK,SAS,13,away,BadPass,steal,,turnover,,K. Leonard,L. Thomas
+473,1OT,0:27.0,100,99,NYK,SAS,2,home,BadPass,,,turnover,,L. Thomas,
+474,1OT,0:27.0,100,99,NYK,SAS,0,away,Sub,,,,,D. Green,M. Belinelli
+475,1OT,0:27.0,100,99,NYK,SAS,0,home,Sub,,,,,J. Smith,A. Bargnani
+476,1OT,0:22.0,100,99,NYK,SAS,5,away,JS,,24,miss3,0,D. Green,
+477,1OT,0:19.0,100,99,NYK,SAS,3,home,DefReb,,,DefReb,,J. Smith,
+478,1OT,0:16.0,100,99,NYK,SAS,3,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,B. Diaw,J. Smith
+479,1OT,0:16.0,101,99,NYK,SAS,0,home,FreeThrow,,,make1,1,J. Smith,
+480,1OT,0:16.0,101,99,NYK,SAS,0,home,FreeThrow,,,make1,0,J. Smith,
+481,1OT,0:15.0,101,99,NYK,SAS,1,away,DefReb,,,DefReb,,T. Parker,
+482,1OT,0:15.0,101,99,NYK,SAS,0,away,Timeout,,,,,,
+483,1OT,0:09.0,101,99,NYK,SAS,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Amundson,T. Duncan
+484,1OT,0:09.0,101,100,NYK,SAS,0,away,FreeThrow,,,make1,1,T. Duncan,
+485,1OT,0:09.0,101,100,NYK,SAS,0,away,FreeThrow,,,make1,0,T. Duncan,
+486,1OT,0:08.0,101,100,NYK,SAS,1,home,DefReb,,,DefReb,,L. Amundson,
+487,1OT,0:08.0,101,100,NYK,SAS,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,B. Diaw,L. Amundson
+488,1OT,0:08.0,101,100,NYK,SAS,0,home,FreeThrow,,,make1,0,L. Amundson,
+489,1OT,0:08.0,101,100,NYK,SAS,0,home,OffReb,,,OffReb,,Team,
+490,1OT,0:08.0,101,100,NYK,SAS,0,away,Sub,,,,,T. Splitter,T. Parker
+491,1OT,0:08.0,101,100,NYK,SAS,0,home,Sub,,,,,C. Aldrich,L. Thomas
+492,1OT,0:08.0,102,100,NYK,SAS,0,home,FreeThrow,,,make1,1,L. Amundson,
+493,1OT,0:08.0,102,100,NYK,SAS,0,away,Timeout,,,,,,
+494,1OT,0:08.0,102,100,NYK,SAS,0,away,Sub,,,,,M. Belinelli,T. Splitter
+495,1OT,0:08.0,102,100,NYK,SAS,0,away,Sub,,,,,T. Parker,B. Diaw
+496,1OT,0:08.0,102,100,NYK,SAS,0,home,Sub,,,,,L. Thomas,C. Aldrich
+497,1OT,0:08.0,102,100,NYK,SAS,0,home,Sub,,,,,T. Wear,J. Smith
+498,1OT,0:04.0,102,100,NYK,SAS,4,away,BadPass,steal,,turnover,,T. Duncan,A. Shved
+499,1OT,0:03.0,102,100,NYK,SAS,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Parker,A. Shved
+500,1OT,0:03.0,103,100,NYK,SAS,0,home,FreeThrow,,,make1,1,A. Shved,
+501,1OT,0:03.0,104,100,NYK,SAS,0,home,FreeThrow,,,make1,1,A. Shved,
+502,1OT,0:03.0,104,100,NYK,SAS,0,away,Timeout,,,,,,
+503,1OT,0:03.0,104,100,NYK,SAS,0,away,Sub,,,,,B. Diaw,D. Green
+504,1OT,0:01.0,104,100,NYK,SAS,2,away,JS,,25,miss3,0,T. Parker,
+505,1OT,0:00.0,104,100,NYK,SAS,1,away,OffReb,,,OffReb,,Team,

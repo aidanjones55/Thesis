@@ -1,0 +1,416 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:46.0,2,0,MIN,UTA,14,home,JS,,8,make2,2,A. Wiggins,
+1,1,11:25.0,2,2,MIN,UTA,21,away,JS,,18,make2,2,R. Rubio,
+2,1,11:04.0,5,2,MIN,UTA,21,home,JS,assist,26,make3,3,A. Wiggins,K. Towns
+3,1,10:38.0,5,2,MIN,UTA,26,away,JS,,19,miss2,0,R. Rubio,
+4,1,10:37.0,5,2,MIN,UTA,1,home,DefReb,,,DefReb,,Team,
+5,1,10:25.0,7,2,MIN,UTA,12,home,LU,assist,2,make2,2,T. Jones,T. Gibson
+6,1,10:09.0,7,2,MIN,UTA,16,away,JS,,24,miss3,0,J. Ingles,
+7,1,10:05.0,7,2,MIN,UTA,4,home,DefReb,,,DefReb,,A. Wiggins,
+8,1,9:59.0,9,2,MIN,UTA,6,home,LU,,0,make2,2,A. Wiggins,
+9,1,9:59.0,9,2,MIN,UTA,0,away,Timeout,,,,,,
+10,1,9:45.0,9,2,MIN,UTA,14,away,JS,,23,miss3,0,D. Favors,
+11,1,9:41.0,9,2,MIN,UTA,4,home,DefReb,,,DefReb,,N. Bjelica,
+12,1,9:25.0,9,2,MIN,UTA,16,home,JS,,17,miss2,0,A. Wiggins,
+13,1,9:21.0,9,2,MIN,UTA,4,away,DefReb,,,DefReb,,R. Rubio,
+14,1,9:13.0,9,5,MIN,UTA,8,away,JS,assist,27,make3,3,D. Mitchell,R. Rubio
+15,1,8:56.0,9,5,MIN,UTA,17,home,LU,block,3,miss2,0,N. Bjelica,D. Favors
+16,1,8:53.0,9,5,MIN,UTA,3,home,OffReb,,,OffReb,,N. Bjelica,
+17,1,8:52.0,9,5,MIN,UTA,1,home,JS,,26,miss3,0,T. Jones,
+18,1,8:51.0,9,5,MIN,UTA,1,away,DefReb,,,DefReb,,R. Rubio,
+19,1,8:45.0,9,7,MIN,UTA,6,away,DK,assist,0,make2,2,D. Favors,J. Ingles
+20,1,8:45.0,9,7,MIN,UTA,0,home,Timeout,,,,,,
+21,1,8:31.0,9,7,MIN,UTA,14,home,JS,,6,miss2,0,A. Wiggins,
+22,1,8:26.0,9,7,MIN,UTA,5,home,OffReb,,,OffReb,,A. Wiggins,
+23,1,8:26.0,11,7,MIN,UTA,0,home,LU,,0,make2,2,A. Wiggins,
+24,1,8:15.0,11,7,MIN,UTA,11,away,bad pass,steal,,turnover,,R. Gobert,A. Wiggins
+25,1,8:06.0,13,7,MIN,UTA,9,home,DK,assist,3,make2,2,T. Gibson,A. Wiggins
+26,1,7:47.0,13,7,MIN,UTA,19,away,bad pass,steal,,turnover,,R. Gobert,T. Jones
+27,1,7:40.0,13,7,MIN,UTA,7,home,bad pass,steal,,turnover,,K. Towns,D. Mitchell
+28,1,7:37.0,13,9,MIN,UTA,3,away,LU,assist,5,make2,2,D. Favors,D. Mitchell
+29,1,7:37.0,13,9,MIN,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Towns,D. Favors
+30,1,7:37.0,13,9,MIN,UTA,0,away,FreeThrow,,,make1,0,D. Favors,
+31,1,7:37.0,13,9,MIN,UTA,0,home,DefReb,,,DefReb,,T. Gibson,
+32,1,7:21.0,13,9,MIN,UTA,16,home,JS,,12,miss2,0,A. Wiggins,
+33,1,7:17.0,13,9,MIN,UTA,4,away,DefReb,,,DefReb,,D. Mitchell,
+34,1,7:07.0,13,11,MIN,UTA,10,away,JS,,8,make2,2,R. Rubio,
+35,1,6:46.0,13,11,MIN,UTA,21,home,JS,,5,miss2,0,N. Bjelica,
+36,1,6:43.0,13,11,MIN,UTA,3,away,DefReb,,,DefReb,,R. Gobert,
+37,1,6:37.0,13,11,MIN,UTA,6,away,LU,,0,miss2,0,D. Mitchell,
+38,1,6:35.0,13,11,MIN,UTA,2,home,DefReb,,,DefReb,,T. Gibson,
+39,1,6:24.0,15,11,MIN,UTA,11,home,JS,,12,make2,2,A. Wiggins,
+40,1,6:05.0,15,11,MIN,UTA,19,away,JS,,8,miss2,0,R. Rubio,
+41,1,6:03.0,15,11,MIN,UTA,2,home,DefReb,,,DefReb,,K. Towns,
+42,1,5:45.0,17,11,MIN,UTA,18,home,LU,assist,1,make2,2,T. Gibson,T. Jones
+43,1,5:29.0,17,13,MIN,UTA,16,away,LU,assist,2,make2,2,D. Favors,R. Rubio
+44,1,5:17.0,17,13,MIN,UTA,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Favors,K. Towns
+45,1,5:17.0,17,13,MIN,UTA,0,home,Sub,,,,,J. Crawford,N. Bjelica
+46,1,5:17.0,17,13,MIN,UTA,0,away,Sub,,,,,J. Crowder,J. Ingles
+47,1,5:17.0,17,13,MIN,UTA,0,away,Sub,,,,,R. O'Neale,D. Favors
+48,1,5:05.0,17,13,MIN,UTA,12,home,LU,,2,miss2,0,A. Wiggins,
+49,1,5:05.0,17,13,MIN,UTA,0,away,DefReb,,,DefReb,,R. Gobert,
+50,1,4:59.0,17,13,MIN,UTA,6,away,JS,,25,miss3,0,R. O'Neale,
+51,1,4:58.0,17,13,MIN,UTA,1,away,OffReb,,,OffReb,,Team,
+52,1,4:44.0,17,16,MIN,UTA,14,away,JS,assist,22,make3,3,J. Crowder,R. O'Neale
+53,1,4:36.0,17,16,MIN,UTA,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crowder,T. Gibson
+54,1,4:36.0,17,16,MIN,UTA,0,home,Sub,,,,,G. Dieng,K. Towns
+55,1,4:26.0,17,16,MIN,UTA,10,home,JS,,18,miss2,0,G. Dieng,
+56,1,4:26.0,17,16,MIN,UTA,0,away,DefReb,,,DefReb,,R. Gobert,
+57,1,4:16.0,17,16,MIN,UTA,10,home,ChargeFoul,DrawnBy,,ChargeFoul,,D. Mitchell,A. Wiggins
+58,1,4:16.0,17,16,MIN,UTA,0,away,OffensiveFoul,,,turnover,,D. Mitchell,
+59,1,3:54.0,20,16,MIN,UTA,22,home,JS,,28,make3,3,J. Crawford,
+60,1,3:41.0,20,16,MIN,UTA,13,away,JS,,15,miss2,0,R. Rubio,
+61,1,3:38.0,20,16,MIN,UTA,3,home,DefReb,,,DefReb,,G. Dieng,
+62,1,3:36.0,20,16,MIN,UTA,2,home,lost ball,steal,,turnover,,G. Dieng,R. Rubio
+63,1,3:32.0,20,16,MIN,UTA,4,away,JS,,24,miss3,0,D. Mitchell,
+64,1,3:32.0,20,16,MIN,UTA,0,home,DefReb,,,DefReb,,A. Wiggins,
+65,1,3:32.0,20,16,MIN,UTA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crowder,A. Wiggins
+66,1,3:32.0,20,16,MIN,UTA,0,away,Sub,,,,,D. Exum,R. Rubio
+67,1,3:17.0,20,16,MIN,UTA,15,home,bad pass,steal,,turnover,,G. Dieng,J. Crowder
+68,1,3:09.0,20,18,MIN,UTA,8,away,DK,assist,1,make2,2,R. O'Neale,D. Mitchell
+69,1,2:51.0,20,18,MIN,UTA,18,home,JS,,18,miss2,0,A. Wiggins,
+70,1,2:48.0,20,18,MIN,UTA,3,away,DefReb,,,DefReb,,D. Exum,
+71,1,2:38.0,20,20,MIN,UTA,10,away,JS,,1,make2,2,D. Exum,
+72,1,2:18.0,20,20,MIN,UTA,20,home,LU,block,1,miss2,0,A. Wiggins,R. Gobert
+73,1,2:16.0,20,20,MIN,UTA,2,away,DefReb,,,DefReb,,R. O'Neale,
+74,1,2:14.0,20,20,MIN,UTA,2,away,OutOfBoundsLB,,,turnover,,R. O'Neale,
+75,1,2:14.0,20,20,MIN,UTA,0,away,Sub,,,,,D. Favors,R. Gobert
+76,1,2:00.0,20,20,MIN,UTA,14,home,JS,,26,miss3,0,J. Crawford,
+77,1,1:57.0,20,20,MIN,UTA,3,away,DefReb,,,DefReb,,D. Exum,
+78,1,1:51.0,20,20,MIN,UTA,6,away,LU,,2,miss2,0,D. Exum,
+79,1,1:47.0,20,20,MIN,UTA,4,away,OffReb,,,OffReb,,D. Favors,
+80,1,1:37.0,20,22,MIN,UTA,10,away,JS,assist,10,make2,2,D. Mitchell,D. Exum
+81,1,1:15.0,22,22,MIN,UTA,22,home,LU,,0,make2,2,J. Crawford,
+82,1,1:02.0,22,24,MIN,UTA,13,away,DK,assist,2,make2,2,D. Favors,D. Exum
+83,1,0:40.0,24,24,MIN,UTA,22,home,JS,assist,9,make2,2,T. Gibson,A. Wiggins
+84,1,0:32.0,24,26,MIN,UTA,8,away,LU,,1,make2,2,D. Exum,
+85,1,0:11.0,24,26,MIN,UTA,21,home,JS,,27,miss3,0,J. Crawford,
+86,1,0:09.0,24,26,MIN,UTA,2,away,DefReb,,,DefReb,,D. Exum,
+87,1,0:06.0,24,28,MIN,UTA,3,away,LU,assist,1,make2,2,J. Crowder,D. Exum
+88,1,0:04.0,24,28,MIN,UTA,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Exum,T. Jones
+89,1,0:04.0,24,28,MIN,UTA,0,home,Sub,,,,,A. Brooks,T. Jones
+90,1,0:00.0,26,28,MIN,UTA,4,home,LU,,1,make2,2,A. Brooks,
+91,2,11:43.0,26,28,MIN,UTA,17,away,JS,,24,miss3,0,J. Crowder,
+92,2,11:38.0,26,28,MIN,UTA,5,home,DefReb,,,DefReb,,G. Dieng,
+93,2,11:23.0,28,28,MIN,UTA,15,home,LU,,1,make2,2,A. Brooks,
+94,2,11:06.0,28,30,MIN,UTA,17,away,LU,assist,1,make2,2,J. Jerebko,J. Ingles
+95,2,10:52.0,28,30,MIN,UTA,14,home,JS,,27,miss3,0,A. Brooks,
+96,2,10:50.0,28,30,MIN,UTA,2,away,DefReb,,,DefReb,,J. Crowder,
+97,2,10:38.0,28,30,MIN,UTA,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Brooks,D. Exum
+98,2,10:32.0,28,33,MIN,UTA,6,away,JS,,25,make3,3,J. Ingles,
+99,2,10:13.0,30,33,MIN,UTA,19,home,LU,assist,0,make2,2,K. Towns,A. Brooks
+100,2,9:58.0,30,35,MIN,UTA,15,away,JS,assist,15,make2,2,D. Favors,J. Ingles
+101,2,9:40.0,30,35,MIN,UTA,18,home,lost ball,steal,,turnover,,N. Bjelica,J. Crowder
+102,2,9:38.0,30,35,MIN,UTA,2,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,G. Dieng,J. Crowder
+103,2,9:38.0,30,35,MIN,UTA,0,away,Sub,,,,,R. O'Neale,J. Crowder
+104,2,9:32.0,30,37,MIN,UTA,6,away,LU,,1,make2,2,D. Exum,
+105,2,9:20.0,30,37,MIN,UTA,12,home,JS,,26,miss3,0,K. Towns,
+106,2,9:17.0,30,37,MIN,UTA,3,away,DefReb,,,DefReb,,R. O'Neale,
+107,2,9:04.0,30,37,MIN,UTA,13,away,JS,,24,miss3,0,J. Jerebko,
+108,2,9:00.0,30,37,MIN,UTA,4,home,DefReb,,,DefReb,,N. Bjelica,
+109,2,8:53.0,30,37,MIN,UTA,7,home,JS,,16,miss2,0,J. Crawford,
+110,2,8:49.0,30,37,MIN,UTA,4,away,DefReb,,,DefReb,,R. O'Neale,
+111,2,8:35.0,30,39,MIN,UTA,14,away,JS,assist,20,make2,2,J. Jerebko,J. Ingles
+112,2,8:09.0,30,39,MIN,UTA,26,home,JS,,27,miss3,0,A. Brooks,
+113,2,8:03.0,30,39,MIN,UTA,6,away,DefReb,,,DefReb,,J. Jerebko,
+114,2,7:55.0,30,41,MIN,UTA,8,away,LU,assist,0,make2,2,J. Jerebko,J. Ingles
+115,2,7:55.0,30,41,MIN,UTA,0,home,Timeout,,,,,,
+116,2,7:55.0,30,41,MIN,UTA,0,home,Sub,,,,,T. Jones,G. Dieng
+117,2,7:55.0,30,41,MIN,UTA,0,home,Sub,,,,,T. Gibson,N. Bjelica
+118,2,7:55.0,30,41,MIN,UTA,0,home,Sub,,,,,A. Wiggins,A. Brooks
+119,2,7:55.0,30,41,MIN,UTA,0,away,Sub,,,,,R. Gobert,D. Favors
+120,2,7:38.0,32,41,MIN,UTA,17,home,HS,,7,make2,2,K. Towns,
+121,2,7:21.0,32,43,MIN,UTA,17,away,JS,,7,make2,2,D. Exum,
+122,2,7:06.0,34,43,MIN,UTA,15,home,LU,assist,2,make2,2,K. Towns,T. Jones
+123,2,7:06.0,34,43,MIN,UTA,0,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Jerebko,K. Towns
+124,2,7:06.0,35,43,MIN,UTA,0,home,FreeThrow,,,make1,1,K. Towns,
+125,2,6:53.0,35,45,MIN,UTA,13,away,LU,assist,2,make2,2,J. Jerebko,R. Gobert
+126,2,6:38.0,37,45,MIN,UTA,15,home,DK,assist,0,make2,2,A. Wiggins,K. Towns
+127,2,6:36.0,37,45,MIN,UTA,2,away,Timeout,,,,,,
+128,2,6:36.0,37,45,MIN,UTA,0,away,Sub,,,,,R. Rubio,J. Ingles
+129,2,6:36.0,37,45,MIN,UTA,0,away,Sub,,,,,D. Mitchell,J. Jerebko
+130,2,6:36.0,37,45,MIN,UTA,0,away,Sub,,,,,J. Crowder,D. Exum
+131,2,6:23.0,37,48,MIN,UTA,13,away,JS,assist,25,make3,3,R. Rubio,D. Mitchell
+132,2,6:06.0,37,48,MIN,UTA,17,home,bad pass,steal,,turnover,,T. Jones,D. Mitchell
+133,2,5:53.0,37,48,MIN,UTA,13,away,JS,,22,miss3,0,J. Crowder,
+134,2,5:51.0,37,48,MIN,UTA,2,home,DefReb,,,DefReb,,K. Towns,
+135,2,5:51.0,37,48,MIN,UTA,0,home,BadPass,,,turnover,,K. Towns,
+136,2,5:39.0,37,48,MIN,UTA,12,away,LU,,3,miss2,0,J. Crowder,
+137,2,5:36.0,37,48,MIN,UTA,3,away,OffReb,,,OffReb,,R. Gobert,
+138,2,5:35.0,37,50,MIN,UTA,1,away,DK,,0,make2,2,R. Gobert,
+139,2,5:11.0,37,50,MIN,UTA,24,home,JS,,20,miss2,0,A. Wiggins,
+140,2,5:10.0,37,50,MIN,UTA,1,home,OffReb,,,OffReb,,Team,
+141,2,5:10.0,37,50,MIN,UTA,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. O'Neale,T. Gibson
+142,2,5:00.0,39,50,MIN,UTA,10,home,LU,,0,make2,2,T. Jones,
+143,2,5:00.0,39,50,MIN,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rubio,T. Jones
+144,2,5:00.0,39,50,MIN,UTA,0,away,Sub,,,,,D. Favors,R. O'Neale
+145,2,5:00.0,40,50,MIN,UTA,0,home,FreeThrow,,,make1,1,T. Jones,
+146,2,4:51.0,40,50,MIN,UTA,9,away,JS,,26,miss3,0,D. Mitchell,
+147,2,4:49.0,40,50,MIN,UTA,2,home,DefReb,,,DefReb,,J. Crawford,
+148,2,4:43.0,42,50,MIN,UTA,6,home,JS,,12,make2,2,J. Crawford,
+149,2,4:28.0,42,50,MIN,UTA,15,away,JS,,16,miss2,0,R. Rubio,
+150,2,4:26.0,42,50,MIN,UTA,2,home,DefReb,,,DefReb,,K. Towns,
+151,2,4:21.0,42,50,MIN,UTA,5,home,LU,,5,miss2,0,T. Gibson,
+152,2,4:20.0,42,50,MIN,UTA,1,home,OffReb,,,OffReb,,K. Towns,
+153,2,4:19.0,42,50,MIN,UTA,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rubio,K. Towns
+154,2,4:19.0,43,50,MIN,UTA,0,home,FreeThrow,,,make1,1,K. Towns,
+155,2,4:19.0,44,50,MIN,UTA,0,home,FreeThrow,,,make1,1,K. Towns,
+156,2,4:09.0,44,50,MIN,UTA,10,away,Traveling,,,turnover,,D. Mitchell,
+157,2,3:53.0,44,50,MIN,UTA,16,home,JS,,27,miss3,0,A. Wiggins,
+158,2,3:51.0,44,50,MIN,UTA,2,away,DefReb,,,DefReb,,R. Rubio,
+159,2,3:45.0,44,50,MIN,UTA,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Gibson,R. Gobert
+160,2,3:45.0,44,50,MIN,UTA,0,away,FreeThrow,,,make1,0,R. Gobert,
+161,2,3:45.0,44,50,MIN,UTA,0,away,OffReb,,,OffReb,,Team,
+162,2,3:45.0,44,50,MIN,UTA,0,away,Sub,,,,,J. Ingles,J. Crowder
+163,2,3:45.0,44,50,MIN,UTA,0,away,FreeThrow,,,make1,0,R. Gobert,
+164,2,3:43.0,44,50,MIN,UTA,2,home,DefReb,,,DefReb,,T. Gibson,
+165,2,3:34.0,44,50,MIN,UTA,9,home,JS,,25,miss3,0,K. Towns,
+166,2,3:31.0,44,50,MIN,UTA,3,away,DefReb,,,DefReb,,R. Gobert,
+167,2,3:20.0,44,53,MIN,UTA,11,away,JS,assist,22,make3,3,R. Rubio,J. Ingles
+168,2,2:57.0,44,53,MIN,UTA,23,home,JS,,11,miss2,0,T. Gibson,
+169,2,2:53.0,44,53,MIN,UTA,4,away,DefReb,,,DefReb,,R. Gobert,
+170,2,2:50.0,44,53,MIN,UTA,3,away,bad pass,steal,,turnover,,R. Gobert,A. Wiggins
+171,2,2:43.0,46,53,MIN,UTA,7,home,LU,assist,0,make2,2,K. Towns,T. Jones
+172,2,2:19.0,46,53,MIN,UTA,24,away,JS,,23,miss3,0,J. Ingles,
+173,2,2:16.0,46,53,MIN,UTA,3,away,OffReb,,,OffReb,,D. Favors,
+174,2,2:14.0,46,56,MIN,UTA,2,away,JS,assist,25,make3,3,R. Rubio,D. Favors
+175,2,1:59.0,48,56,MIN,UTA,15,home,LU,,0,make2,2,A. Wiggins,
+176,2,1:59.0,48,56,MIN,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Gobert,A. Wiggins
+177,2,1:59.0,48,56,MIN,UTA,0,home,FreeThrow,,,make1,0,A. Wiggins,
+178,2,1:59.0,48,56,MIN,UTA,0,away,DefReb,,,DefReb,,R. Gobert,
+179,2,1:43.0,48,56,MIN,UTA,16,away,Traveling,,,turnover,,D. Mitchell,
+180,2,1:30.0,50,56,MIN,UTA,13,home,JS,,7,make2,2,A. Wiggins,
+181,2,1:12.0,50,56,MIN,UTA,18,away,bad pass,steal,,turnover,,D. Mitchell,T. Jones
+182,2,1:11.0,50,56,MIN,UTA,1,home,DK,,0,miss2,0,T. Jones,
+183,2,1:10.0,50,56,MIN,UTA,1,away,DefReb,,,DefReb,,Team,
+184,2,0:52.0,50,58,MIN,UTA,18,away,JS,,9,make2,2,D. Mitchell,
+185,2,0:42.0,50,58,MIN,UTA,10,home,JS,,19,miss2,0,J. Crawford,
+186,2,0:39.0,50,58,MIN,UTA,3,away,DefReb,,,DefReb,,D. Favors,
+187,2,0:33.0,50,61,MIN,UTA,6,away,JS,assist,27,make3,3,R. Rubio,J. Ingles
+188,2,0:25.0,50,61,MIN,UTA,8,home,LU,block,1,miss2,0,T. Jones,R. Rubio
+189,2,0:23.0,50,61,MIN,UTA,2,home,OffReb,,,OffReb,,Team,
+190,2,0:12.0,50,61,MIN,UTA,11,home,LU,,3,miss2,0,T. Jones,
+191,2,0:09.0,50,61,MIN,UTA,3,away,DefReb,,,DefReb,,R. Gobert,
+192,2,0:01.0,50,61,MIN,UTA,8,away,JS,,12,miss2,0,D. Mitchell,
+193,2,0:01.0,50,61,MIN,UTA,0,home,DefReb,,,DefReb,,T. Gibson,
+194,3,11:46.0,50,63,MIN,UTA,14,away,JS,assist,7,make2,2,D. Mitchell,R. Rubio
+195,3,11:24.0,53,63,MIN,UTA,22,home,JS,assist,22,make3,3,T. Jones,A. Wiggins
+196,3,11:11.0,53,65,MIN,UTA,13,away,LU,assist,1,make2,2,D. Mitchell,D. Favors
+197,3,10:47.0,53,65,MIN,UTA,24,home,JS,,28,miss3,0,T. Jones,
+198,3,10:45.0,53,65,MIN,UTA,2,away,DefReb,,,DefReb,,J. Ingles,
+199,3,10:37.0,53,67,MIN,UTA,8,away,LU,,2,make2,2,R. Rubio,
+200,3,10:15.0,53,67,MIN,UTA,22,home,JS,,14,miss2,0,N. Bjelica,
+201,3,10:12.0,53,67,MIN,UTA,3,home,OffReb,,,OffReb,,T. Gibson,
+202,3,10:00.0,53,67,MIN,UTA,12,home,JS,,16,miss2,0,A. Wiggins,
+203,3,9:58.0,53,67,MIN,UTA,2,away,DefReb,,,DefReb,,R. Rubio,
+204,3,9:53.0,53,67,MIN,UTA,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Gibson,R. Gobert
+205,3,9:53.0,53,68,MIN,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+206,3,9:53.0,53,69,MIN,UTA,0,away,FreeThrow,,,make1,1,R. Gobert,
+207,3,9:36.0,55,69,MIN,UTA,17,home,JS,assist,10,make2,2,K. Towns,N. Bjelica
+208,3,9:15.0,55,71,MIN,UTA,21,away,JS,,8,make2,2,D. Mitchell,
+209,3,9:00.0,55,71,MIN,UTA,15,home,JS,block,7,miss2,0,T. Gibson,R. Gobert
+210,3,8:58.0,55,71,MIN,UTA,2,away,DefReb,,,DefReb,,R. Gobert,
+211,3,8:42.0,55,71,MIN,UTA,16,away,JS,,23,miss3,0,D. Favors,
+212,3,8:38.0,55,71,MIN,UTA,4,home,DefReb,,,DefReb,,A. Wiggins,
+213,3,8:32.0,55,71,MIN,UTA,6,home,JS,block,7,miss2,0,A. Wiggins,D. Favors
+214,3,8:31.0,55,71,MIN,UTA,1,home,OffReb,,,OffReb,,Team,
+215,3,8:18.0,55,71,MIN,UTA,13,home,Timeout,,,,,,
+216,3,8:15.0,55,71,MIN,UTA,3,home,JS,,25,miss3,0,N. Bjelica,
+217,3,8:12.0,55,71,MIN,UTA,3,away,DefReb,,,DefReb,,J. Ingles,
+218,3,8:03.0,55,71,MIN,UTA,9,away,JS,,24,miss3,0,R. Rubio,
+219,3,7:59.0,55,71,MIN,UTA,4,home,DefReb,,,DefReb,,N. Bjelica,
+220,3,7:53.0,55,71,MIN,UTA,6,home,LU,,6,miss2,0,T. Jones,
+221,3,7:52.0,55,71,MIN,UTA,1,away,DefReb,,,DefReb,,Team,
+222,3,7:41.0,55,71,MIN,UTA,11,away,bad pass,steal,,turnover,,R. Rubio,T. Jones
+223,3,7:37.0,57,71,MIN,UTA,4,home,LU,,0,make2,2,T. Jones,
+224,3,7:20.0,57,73,MIN,UTA,17,away,JS,,15,make2,2,D. Mitchell,
+225,3,7:05.0,57,73,MIN,UTA,15,home,JS,,17,miss2,0,T. Gibson,
+226,3,7:02.0,57,73,MIN,UTA,3,away,DefReb,,,DefReb,,J. Ingles,
+227,3,6:46.0,57,73,MIN,UTA,16,away,JS,,25,miss3,0,J. Ingles,
+228,3,6:44.0,57,73,MIN,UTA,2,home,DefReb,,,DefReb,,K. Towns,
+229,3,6:26.0,57,73,MIN,UTA,18,home,JS,,13,miss2,0,A. Wiggins,
+230,3,6:22.0,57,73,MIN,UTA,4,away,DefReb,,,DefReb,,J. Ingles,
+231,3,6:07.0,57,76,MIN,UTA,15,away,JS,assist,22,make3,3,R. Rubio,J. Ingles
+232,3,5:59.0,57,76,MIN,UTA,8,home,Timeout,,,,,,
+233,3,5:59.0,57,76,MIN,UTA,0,away,Sub,,,,,J. Crowder,R. Gobert
+234,3,5:45.0,59,76,MIN,UTA,14,home,LU,,0,make2,2,T. Jones,
+235,3,5:32.0,59,76,MIN,UTA,13,away,JS,,17,miss2,0,D. Favors,
+236,3,5:30.0,59,76,MIN,UTA,2,away,OffReb,,,OffReb,,R. Rubio,
+237,3,5:27.0,59,76,MIN,UTA,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Bjelica,J. Ingles
+238,3,5:23.0,59,78,MIN,UTA,4,away,JS,assist,18,make2,2,J. Crowder,J. Ingles
+239,3,5:08.0,62,78,MIN,UTA,15,home,JS,assist,22,make3,3,T. Jones,A. Wiggins
+240,3,5:00.0,62,78,MIN,UTA,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Bjelica,D. Favors
+241,3,5:00.0,62,78,MIN,UTA,0,home,Sub,,,,,J. Crawford,N. Bjelica
+242,3,5:00.0,62,78,MIN,UTA,0,away,Sub,,,,,R. O'Neale,J. Ingles
+243,3,4:52.0,62,78,MIN,UTA,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,D. Favors
+244,3,4:52.0,62,78,MIN,UTA,0,away,FreeThrow,,,make1,0,D. Favors,
+245,3,4:52.0,62,78,MIN,UTA,0,away,OffReb,,,OffReb,,Team,
+246,3,4:52.0,62,79,MIN,UTA,0,away,FreeThrow,,,make1,1,D. Favors,
+247,3,4:38.0,62,79,MIN,UTA,14,home,JS,,26,miss3,0,K. Towns,
+248,3,4:34.0,62,79,MIN,UTA,4,away,DefReb,,,DefReb,,R. Rubio,
+249,3,4:27.0,62,81,MIN,UTA,7,away,JS,assist,18,make2,2,R. Rubio,R. O'Neale
+250,3,3:57.0,62,81,MIN,UTA,30,home,JS,,22,miss3,0,J. Crawford,
+251,3,3:54.0,62,81,MIN,UTA,3,home,OffReb,,,OffReb,,T. Gibson,
+252,3,3:54.0,62,81,MIN,UTA,0,home,BadPass,,,turnover,,K. Towns,
+253,3,3:54.0,62,81,MIN,UTA,0,away,Sub,,,,,D. Exum,R. Rubio
+254,3,3:41.0,62,81,MIN,UTA,13,away,JS,,19,miss2,0,D. Mitchell,
+255,3,3:37.0,62,81,MIN,UTA,4,home,DefReb,,,DefReb,,K. Towns,
+256,3,3:34.0,62,81,MIN,UTA,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. O'Neale,A. Wiggins
+257,3,3:29.0,64,81,MIN,UTA,5,home,LU,,0,make2,2,A. Wiggins,
+258,3,3:10.0,64,83,MIN,UTA,19,away,JS,,10,make2,2,R. O'Neale,
+259,3,2:57.0,66,83,MIN,UTA,13,home,LU,assist,1,make2,2,K. Towns,J. Crawford
+260,3,2:44.0,66,83,MIN,UTA,13,away,bad pass,steal,,turnover,,J. Crowder,T. Jones
+261,3,2:35.0,66,83,MIN,UTA,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,K. Towns
+262,3,2:35.0,67,83,MIN,UTA,0,home,FreeThrow,,,make1,1,K. Towns,
+263,3,2:35.0,67,83,MIN,UTA,0,away,Sub,,,,,J. Jerebko,D. Favors
+264,3,2:35.0,67,83,MIN,UTA,0,away,Sub,,,,,R. Gobert,D. Mitchell
+265,3,2:35.0,68,83,MIN,UTA,0,home,FreeThrow,,,make1,1,K. Towns,
+266,3,2:22.0,68,85,MIN,UTA,13,away,DK,assist,2,make2,2,R. Gobert,D. Exum
+267,3,2:10.0,68,85,MIN,UTA,12,home,Turnover,,,turnover,,J. Crawford,
+268,3,2:10.0,68,85,MIN,UTA,0,home,Sub,,,,,G. Dieng,K. Towns
+269,3,2:10.0,68,85,MIN,UTA,0,home,Sub,,,,,A. Brooks,T. Jones
+270,3,1:57.0,68,85,MIN,UTA,13,away,JS,,25,miss3,0,J. Crowder,
+271,3,1:54.0,68,85,MIN,UTA,3,home,DefReb,,,DefReb,,A. Wiggins,
+272,3,1:43.0,71,85,MIN,UTA,11,home,JS,,24,make3,3,A. Brooks,
+273,3,1:40.0,71,85,MIN,UTA,3,away,Timeout,,,,,,
+274,3,1:30.0,71,85,MIN,UTA,10,away,BadPass,,,turnover,,R. O'Neale,
+275,3,1:12.0,71,85,MIN,UTA,18,home,LU,,0,miss2,0,A. Brooks,
+276,3,1:09.0,71,85,MIN,UTA,3,away,DefReb,,,DefReb,,R. Gobert,
+277,3,0:51.0,71,85,MIN,UTA,18,away,JS,block,12,miss2,0,D. Exum,G. Dieng
+278,3,0:49.0,71,85,MIN,UTA,2,home,DefReb,,,DefReb,,G. Dieng,
+279,3,0:49.0,71,85,MIN,UTA,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Crowder,A. Brooks
+280,3,0:36.0,71,85,MIN,UTA,13,home,bad pass,steal,,turnover,,A. Wiggins,R. O'Neale
+281,3,0:32.0,71,85,MIN,UTA,4,away,BadPass,,,turnover,,R. O'Neale,
+282,3,0:07.0,71,85,MIN,UTA,25,home,JS,,9,miss2,0,J. Crawford,
+283,3,0:06.0,71,85,MIN,UTA,1,away,DefReb,,,DefReb,,R. Gobert,
+284,3,0:01.0,71,85,MIN,UTA,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Wiggins,D. Exum
+285,3,0:01.0,71,86,MIN,UTA,0,away,FreeThrow,,,make1,1,D. Exum,
+286,3,0:01.0,71,87,MIN,UTA,0,away,FreeThrow,,,make1,1,D. Exum,
+287,3,0:01.0,71,87,MIN,UTA,0,home,JS,,88,miss3,0,A. Brooks,
+288,3,0:00.0,71,87,MIN,UTA,1,home,OffReb,,,OffReb,,Team,
+289,4,11:48.0,71,87,MIN,UTA,12,home,JS,,26,miss3,0,K. Towns,
+290,4,11:44.0,71,87,MIN,UTA,4,away,DefReb,,,DefReb,,R. Gobert,
+291,4,11:28.0,71,90,MIN,UTA,16,away,JS,assist,24,make3,3,J. Crowder,D. Exum
+292,4,11:15.0,74,90,MIN,UTA,13,home,JS,assist,25,make3,3,N. Bjelica,J. Crawford
+293,4,10:58.0,74,93,MIN,UTA,17,away,JS,assist,23,make3,3,J. Jerebko,J. Crowder
+294,4,10:43.0,74,93,MIN,UTA,15,home,JS,,11,miss2,0,A. Brooks,
+295,4,10:40.0,74,93,MIN,UTA,3,away,DefReb,,,DefReb,,J. Crowder,
+296,4,10:34.0,74,93,MIN,UTA,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Brooks,D. Exum
+297,4,10:34.0,74,94,MIN,UTA,0,away,FreeThrow,,,make1,1,D. Exum,
+298,4,10:34.0,74,95,MIN,UTA,0,away,FreeThrow,,,make1,1,D. Exum,
+299,4,10:13.0,76,95,MIN,UTA,21,home,JS,,8,make2,2,N. Bjelica,
+300,4,10:05.0,76,95,MIN,UTA,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Brooks,D. Exum
+301,4,10:05.0,76,96,MIN,UTA,0,away,FreeThrow,,,make1,1,D. Exum,
+302,4,10:05.0,76,97,MIN,UTA,0,away,FreeThrow,,,make1,1,D. Exum,
+303,4,9:41.0,76,97,MIN,UTA,24,home,JS,block,14,miss2,0,K. Towns,R. Gobert
+304,4,9:40.0,76,97,MIN,UTA,1,home,OffReb,,,OffReb,,Team,
+305,4,9:40.0,76,97,MIN,UTA,0,home,ShotClockViolation,,,turnover,,Team,
+306,4,9:29.0,76,99,MIN,UTA,11,away,JS,assist,9,make2,2,J. Ingles,J. Jerebko
+307,4,9:07.0,76,99,MIN,UTA,22,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crowder,N. Bjelica
+308,4,9:07.0,76,99,MIN,UTA,0,home,Sub,,,,,A. Wiggins,G. Dieng
+309,4,9:00.0,76,99,MIN,UTA,7,home,bad pass,steal,,turnover,,J. Crawford,J. Ingles
+310,4,8:56.0,76,99,MIN,UTA,4,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,A. Brooks,J. Jerebko
+311,4,8:56.0,76,100,MIN,UTA,0,away,FreeThrow,,,make1,1,J. Jerebko,
+312,4,8:56.0,76,101,MIN,UTA,0,away,FreeThrow,,,make1,1,J. Jerebko,
+313,4,8:43.0,76,101,MIN,UTA,13,home,LU,,4,miss2,0,K. Towns,
+314,4,8:41.0,76,101,MIN,UTA,2,away,DefReb,,,DefReb,,R. Gobert,
+315,4,8:21.0,76,101,MIN,UTA,20,away,bad pass,steal,,turnover,,D. Exum,N. Bjelica
+316,4,8:15.0,76,101,MIN,UTA,6,home,bad pass,steal,,turnover,,J. Crawford,D. Exum
+317,4,8:09.0,76,101,MIN,UTA,6,away,JS,,23,miss3,0,J. Crowder,
+318,4,8:05.0,76,101,MIN,UTA,4,home,DefReb,,,DefReb,,A. Wiggins,
+319,4,8:01.0,76,101,MIN,UTA,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ingles,A. Wiggins
+320,4,8:01.0,77,101,MIN,UTA,0,home,FreeThrow,,,make1,1,A. Wiggins,
+321,4,8:01.0,77,101,MIN,UTA,0,away,Sub,,,,,R. Rubio,D. Exum
+322,4,8:01.0,77,101,MIN,UTA,0,away,Sub,,,,,D. Favors,R. Gobert
+323,4,8:01.0,78,101,MIN,UTA,0,home,FreeThrow,,,make1,1,A. Wiggins,
+324,4,7:43.0,78,101,MIN,UTA,18,away,JS,,9,miss2,0,J. Crowder,
+325,4,7:43.0,78,101,MIN,UTA,0,home,DefReb,,,DefReb,,Team,
+326,4,7:29.0,78,101,MIN,UTA,14,home,JS,,12,miss2,0,J. Crawford,
+327,4,7:26.0,78,101,MIN,UTA,3,away,DefReb,,,DefReb,,R. Rubio,
+328,4,7:16.0,78,101,MIN,UTA,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,D. Favors
+329,4,7:16.0,78,102,MIN,UTA,0,away,FreeThrow,,,make1,1,D. Favors,
+330,4,7:16.0,78,102,MIN,UTA,0,home,Sub,,,,,T. Jones,J. Crawford
+331,4,7:16.0,78,102,MIN,UTA,0,home,Sub,,,,,T. Gibson,A. Brooks
+332,4,7:16.0,78,102,MIN,UTA,0,away,Sub,,,,,R. O'Neale,J. Ingles
+333,4,7:16.0,78,102,MIN,UTA,0,away,Sub,,,,,D. Mitchell,J. Jerebko
+334,4,7:16.0,78,103,MIN,UTA,0,away,FreeThrow,,,make1,1,D. Favors,
+335,4,6:54.0,78,103,MIN,UTA,22,home,JS,,16,miss2,0,A. Wiggins,
+336,4,6:53.0,78,103,MIN,UTA,1,home,OffReb,,,OffReb,,N. Bjelica,
+337,4,6:53.0,78,103,MIN,UTA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,N. Bjelica
+338,4,6:53.0,78,103,MIN,UTA,0,home,Timeout,,,,,,
+339,4,6:51.0,80,103,MIN,UTA,2,home,JS,assist,6,make2,2,K. Towns,T. Jones
+340,4,6:51.0,80,103,MIN,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,K. Towns
+341,4,6:51.0,81,103,MIN,UTA,0,home,FreeThrow,,,make1,1,K. Towns,
+342,4,6:40.0,81,103,MIN,UTA,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Towns,D. Favors
+343,4,6:40.0,81,104,MIN,UTA,0,away,FreeThrow,,,make1,1,D. Favors,
+344,4,6:40.0,81,104,MIN,UTA,0,away,FreeThrow,,,make1,0,D. Favors,
+345,4,6:38.0,81,104,MIN,UTA,2,home,DefReb,,,DefReb,,K. Towns,
+346,4,6:20.0,83,104,MIN,UTA,18,home,JS,,13,make2,2,A. Wiggins,
+347,4,5:59.0,83,106,MIN,UTA,21,away,JS,,13,make2,2,D. Mitchell,
+348,4,5:44.0,83,106,MIN,UTA,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,N. Bjelica
+349,4,5:44.0,84,106,MIN,UTA,0,home,FreeThrow,,,make1,1,N. Bjelica,
+350,4,5:44.0,84,106,MIN,UTA,0,away,Sub,,,,,R. Gobert,J. Crowder
+351,4,5:44.0,85,106,MIN,UTA,0,home,FreeThrow,,,make1,1,N. Bjelica,
+352,4,5:33.0,85,106,MIN,UTA,11,away,lost ball,steal,,turnover,,D. Mitchell,N. Bjelica
+353,4,5:23.0,85,106,MIN,UTA,10,home,JS,,10,miss2,0,T. Jones,
+354,4,5:20.0,85,106,MIN,UTA,3,away,DefReb,,,DefReb,,R. O'Neale,
+355,4,5:14.0,85,108,MIN,UTA,6,away,DK,assist,3,make2,2,D. Favors,D. Mitchell
+356,4,5:06.0,85,108,MIN,UTA,8,home,Timeout,,,,,,
+357,4,5:06.0,85,108,MIN,UTA,0,home,Sub,,,,,G. Dieng,A. Wiggins
+358,4,5:06.0,85,108,MIN,UTA,0,home,Sub,,,,,M. Georges-Hunt,K. Towns
+359,4,5:06.0,85,108,MIN,UTA,0,home,Sub,,,,,A. Brooks,T. Gibson
+360,4,4:48.0,85,108,MIN,UTA,18,home,LU,block,2,miss2,0,M. Georges-Hunt,R. Gobert
+361,4,4:46.0,85,108,MIN,UTA,2,away,DefReb,,,DefReb,,D. Mitchell,
+362,4,4:43.0,85,110,MIN,UTA,3,away,LU,assist,0,make2,2,D. Mitchell,R. O'Neale
+363,4,4:32.0,85,110,MIN,UTA,11,home,JS,,25,miss3,0,N. Bjelica,
+364,4,4:29.0,85,110,MIN,UTA,3,away,DefReb,,,DefReb,,R. O'Neale,
+365,4,4:11.0,85,110,MIN,UTA,18,away,LU,,1,miss2,0,R. Gobert,
+366,4,4:09.0,85,110,MIN,UTA,2,away,OffReb,,,OffReb,,D. Mitchell,
+367,4,4:09.0,85,112,MIN,UTA,0,away,DK,,0,make2,2,D. Mitchell,
+368,4,3:51.0,85,112,MIN,UTA,18,home,LU,,8,miss2,0,A. Brooks,
+369,4,3:49.0,85,112,MIN,UTA,2,home,OffReb,,,OffReb,,A. Brooks,
+370,4,3:44.0,85,112,MIN,UTA,5,home,ShotClockViolation,,,turnover,,Team,
+371,4,3:44.0,85,112,MIN,UTA,0,home,Sub,,,,,J. Patton,T. Jones
+372,4,3:44.0,85,112,MIN,UTA,0,home,Sub,,,,,A. Brown,N. Bjelica
+373,4,3:44.0,85,112,MIN,UTA,0,away,Sub,,,,,J. Jerebko,R. Rubio
+374,4,3:44.0,85,112,MIN,UTA,0,away,Sub,,,,,D. Exum,D. Favors
+375,4,3:44.0,85,112,MIN,UTA,0,away,Sub,,,,,E. Udoh,R. O'Neale
+376,4,3:44.0,85,112,MIN,UTA,0,away,Sub,,,,,A. Burks,R. Gobert
+377,4,3:44.0,85,112,MIN,UTA,0,away,Sub,,,,,G. Niang,D. Mitchell
+378,4,3:28.0,85,112,MIN,UTA,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Brooks,E. Udoh
+379,4,3:28.0,85,112,MIN,UTA,0,away,FreeThrow,,,make1,0,E. Udoh,
+380,4,3:28.0,85,112,MIN,UTA,0,away,OffReb,,,OffReb,,Team,
+381,4,3:28.0,85,112,MIN,UTA,0,away,Sub,,,,,D. Stockton,D. Exum
+382,4,3:28.0,85,113,MIN,UTA,0,away,FreeThrow,,,make1,1,E. Udoh,
+383,4,3:22.0,85,113,MIN,UTA,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Stockton,A. Brooks
+384,4,3:22.0,86,113,MIN,UTA,0,home,FreeThrow,,,make1,1,A. Brooks,
+385,4,3:22.0,87,113,MIN,UTA,0,home,FreeThrow,,,make1,1,A. Brooks,
+386,4,3:15.0,87,113,MIN,UTA,7,away,JS,,25,miss3,0,D. Stockton,
+387,4,3:12.0,87,113,MIN,UTA,3,home,DefReb,,,DefReb,,G. Dieng,
+388,4,3:05.0,87,113,MIN,UTA,7,home,BadPass,,,turnover,,A. Brooks,
+389,4,2:54.0,87,113,MIN,UTA,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Georges-Hunt,G. Niang
+390,4,2:54.0,87,114,MIN,UTA,0,away,FreeThrow,,,make1,1,G. Niang,
+391,4,2:54.0,87,114,MIN,UTA,0,away,FreeThrow,,,make1,0,G. Niang,
+392,4,2:51.0,87,114,MIN,UTA,3,away,OffReb,,,OffReb,,G. Niang,
+393,4,2:39.0,87,114,MIN,UTA,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Patton,D. Stockton
+394,4,2:39.0,87,115,MIN,UTA,0,away,FreeThrow,,,make1,1,D. Stockton,
+395,4,2:39.0,87,116,MIN,UTA,0,away,FreeThrow,,,make1,1,D. Stockton,
+396,4,2:27.0,90,116,MIN,UTA,12,home,JS,assist,26,make3,3,A. Brooks,G. Dieng
+397,4,2:10.0,90,116,MIN,UTA,17,away,JS,,23,miss3,0,G. Niang,
+398,4,2:06.0,90,116,MIN,UTA,4,home,DefReb,,,DefReb,,G. Dieng,
+399,4,1:58.0,92,116,MIN,UTA,8,home,HS,assist,10,make2,2,J. Patton,A. Brooks
+400,4,1:43.0,92,116,MIN,UTA,15,away,bad pass,steal,,turnover,,A. Burks,J. Patton
+401,4,1:34.0,92,116,MIN,UTA,9,home,LU,,4,miss2,0,J. Patton,
+402,4,1:32.0,92,116,MIN,UTA,2,away,DefReb,,,DefReb,,A. Burks,
+403,4,1:27.0,92,118,MIN,UTA,5,away,JS,,23,make2,2,A. Burks,
+404,4,1:19.0,92,118,MIN,UTA,8,home,JS,,10,miss2,0,A. Brooks,
+405,4,1:18.0,92,118,MIN,UTA,1,away,DefReb,,,DefReb,,A. Burks,
+406,4,1:16.0,92,118,MIN,UTA,2,away,lost ball,steal,,turnover,,A. Burks,G. Dieng
+407,4,1:12.0,95,118,MIN,UTA,4,home,JS,assist,22,make3,3,A. Brown,G. Dieng
+408,4,1:06.0,95,121,MIN,UTA,6,away,JS,,27,make3,3,D. Stockton,
+409,4,0:54.0,97,121,MIN,UTA,12,home,DK,assist,1,make2,2,G. Dieng,A. Brown
+410,4,0:35.0,97,121,MIN,UTA,19,away,JS,,26,miss3,0,G. Niang,
+411,4,0:31.0,97,121,MIN,UTA,4,home,DefReb,,,DefReb,,A. Brooks,
+412,4,0:27.0,97,121,MIN,UTA,4,home,JS,,27,miss3,0,A. Brooks,
+413,4,0:24.0,97,121,MIN,UTA,3,away,DefReb,,,DefReb,,G. Niang,
+414,4,0:01.0,97,121,MIN,UTA,23,away,ShotClockViolation,,,turnover,,Team,

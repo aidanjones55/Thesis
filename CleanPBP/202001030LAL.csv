@@ -1,0 +1,437 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,2,0,LAL,NOP,19,home,DK,assist,2,make2,2,A. Davis,L. James
+1,1,11:26.0,2,3,LAL,NOP,15,away,JS,assist,25,make3,3,L. Ball,J. Redick
+2,1,11:08.0,4,3,LAL,NOP,18,home,LU,assist,2,make2,2,A. Davis,L. James
+3,1,11:06.0,4,3,LAL,NOP,2,away,DK,block,2,miss2,0,B. Ingram,J. McGee
+4,1,11:06.0,4,3,LAL,NOP,0,away,OffReb,,,OffReb,,Team,
+5,1,11:00.0,4,3,LAL,NOP,6,away,LU,block,3,miss2,0,B. Ingram,A. Davis
+6,1,10:59.0,4,3,LAL,NOP,1,away,OffReb,,,OffReb,,B. Ingram,
+7,1,10:59.0,4,3,LAL,NOP,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Davis,B. Ingram
+8,1,10:56.0,4,6,LAL,NOP,3,away,JS,assist,27,make3,3,L. Ball,J. Redick
+9,1,10:40.0,4,6,LAL,NOP,16,home,LU,block,1,miss2,0,D. Green,D. Favors
+10,1,10:37.0,4,6,LAL,NOP,3,away,DefReb,,,DefReb,,B. Ingram,
+11,1,10:34.0,4,6,LAL,NOP,3,away,JS,,25,miss3,0,J. Holiday,
+12,1,10:31.0,4,6,LAL,NOP,3,home,DefReb,,,DefReb,,L. James,
+13,1,10:24.0,6,6,LAL,NOP,7,home,LU,assist,2,make2,2,A. Davis,L. James
+14,1,10:14.0,6,8,LAL,NOP,10,away,LU,assist,2,make2,2,J. Redick,D. Favors
+15,1,10:04.0,6,8,LAL,NOP,10,home,OutOfBoundsLB,,,turnover,,L. James,
+16,1,9:54.0,6,8,LAL,NOP,10,away,JS,,25,miss3,0,B. Ingram,
+17,1,9:51.0,6,8,LAL,NOP,3,home,DefReb,,,DefReb,,D. Green,
+18,1,9:49.0,6,8,LAL,NOP,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Favors,A. Davis
+19,1,9:44.0,8,8,LAL,NOP,5,home,LU,assist,0,make2,2,D. Green,L. James
+20,1,9:25.0,8,8,LAL,NOP,19,away,JS,,28,miss3,0,L. Ball,
+21,1,9:23.0,8,8,LAL,NOP,2,home,DefReb,,,DefReb,,A. Davis,
+22,1,9:10.0,8,8,LAL,NOP,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Ball,L. James
+23,1,9:10.0,9,8,LAL,NOP,0,home,FreeThrow,,,make1,1,L. James,
+24,1,9:10.0,9,8,LAL,NOP,0,home,FreeThrow,,,make1,0,L. James,
+25,1,9:08.0,9,8,LAL,NOP,2,away,DefReb,,,DefReb,,Team,
+26,1,9:02.0,9,8,LAL,NOP,6,away,JS,,20,miss2,0,B. Ingram,
+27,1,8:59.0,9,8,LAL,NOP,3,home,DefReb,,,DefReb,,A. Davis,
+28,1,8:42.0,12,8,LAL,NOP,17,home,JS,assist,23,make3,3,D. Green,L. James
+29,1,8:30.0,12,10,LAL,NOP,12,away,LU,,2,make2,2,B. Ingram,
+30,1,8:15.0,14,10,LAL,NOP,15,home,LU,,3,make2,2,L. James,
+31,1,8:07.0,14,10,LAL,NOP,8,away,JS,,28,miss3,0,B. Ingram,
+32,1,8:07.0,14,10,LAL,NOP,0,away,OffReb,,,OffReb,,Team,
+33,1,7:54.0,14,12,LAL,NOP,13,away,JS,,3,make2,2,D. Favors,
+34,1,7:39.0,17,12,LAL,NOP,15,home,JS,assist,26,make3,3,D. Green,A. Davis
+35,1,7:27.0,17,12,LAL,NOP,12,away,JS,,9,miss2,0,D. Favors,
+36,1,7:24.0,17,12,LAL,NOP,3,home,DefReb,,,DefReb,,A. Davis,
+37,1,7:17.0,17,12,LAL,NOP,7,home,LU,block,2,miss2,0,J. McGee,B. Ingram
+38,1,7:17.0,17,12,LAL,NOP,0,home,OffReb,,,OffReb,,Team,
+39,1,7:16.0,17,12,LAL,NOP,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,L. James
+40,1,7:16.0,17,12,LAL,NOP,0,away,Sub,,,,,J. Hayes,D. Favors
+41,1,7:16.0,18,12,LAL,NOP,0,home,FreeThrow,,,make1,1,L. James,
+42,1,7:16.0,18,12,LAL,NOP,0,home,FreeThrow,,,make1,0,L. James,
+43,1,7:15.0,18,12,LAL,NOP,1,away,DefReb,,,DefReb,,Team,
+44,1,7:15.0,18,12,LAL,NOP,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. McGee,J. Hayes
+45,1,7:03.0,18,12,LAL,NOP,12,away,JS,,21,miss2,0,L. Ball,
+46,1,7:00.0,18,12,LAL,NOP,3,home,DefReb,,,DefReb,,D. Green,
+47,1,6:50.0,18,12,LAL,NOP,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Ingram,A. Davis
+48,1,6:50.0,18,12,LAL,NOP,0,home,Timeout,,,,,,
+49,1,6:50.0,19,12,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Davis,
+50,1,6:50.0,20,12,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Davis,
+51,1,6:41.0,20,12,LAL,NOP,9,away,bad pass,steal,,turnover,,L. Ball,J. McGee
+52,1,6:38.0,20,12,LAL,NOP,3,home,LU,block,4,miss2,0,J. McGee,J. Hayes
+53,1,6:38.0,20,12,LAL,NOP,0,away,DefReb,,,DefReb,,Team,
+54,1,6:38.0,20,12,LAL,NOP,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. McGee,B. Ingram
+55,1,6:28.0,20,14,LAL,NOP,10,away,LU,assist,2,make2,2,J. Holiday,J. Hayes
+56,1,6:28.0,20,14,LAL,NOP,0,home,DefGoaltending,,,DefGoaltending,,Team,
+57,1,6:17.0,20,14,LAL,NOP,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Ball,A. Bradley
+58,1,6:17.0,21,14,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Bradley,
+59,1,6:17.0,21,14,LAL,NOP,0,away,Sub,,,,,E. Moore,L. Ball
+60,1,6:17.0,22,14,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Bradley,
+61,1,6:03.0,22,14,LAL,NOP,14,away,bad pass,steal,,turnover,,B. Ingram,A. Davis
+62,1,5:54.0,22,14,LAL,NOP,9,home,JS,,20,miss2,0,A. Davis,
+63,1,5:53.0,22,14,LAL,NOP,1,home,OffReb,,,OffReb,,D. Green,
+64,1,5:46.0,24,14,LAL,NOP,7,home,LU,,3,make2,2,J. McGee,
+65,1,5:37.0,24,14,LAL,NOP,9,away,LU,,2,miss2,0,B. Ingram,
+66,1,5:35.0,24,14,LAL,NOP,2,home,DefReb,,,DefReb,,A. Davis,
+67,1,5:30.0,26,14,LAL,NOP,5,home,DK,assist,1,make2,2,A. Davis,D. Green
+68,1,5:23.0,26,14,LAL,NOP,7,away,Timeout,,,,,,
+69,1,5:12.0,26,17,LAL,NOP,11,away,JS,assist,27,make3,3,J. Redick,J. Hayes
+70,1,4:49.0,26,17,LAL,NOP,23,home,ShotClockViolation,,,turnover,,Team,
+71,1,4:37.0,26,17,LAL,NOP,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,B. Ingram
+72,1,4:37.0,26,17,LAL,NOP,0,home,Sub,,,,,K. Caldwell-Pope,A. Bradley
+73,1,4:37.0,26,17,LAL,NOP,0,home,Sub,,,,,K. Kuzma,J. McGee
+74,1,4:24.0,26,17,LAL,NOP,13,away,JS,,32,miss3,0,B. Ingram,
+75,1,4:23.0,26,17,LAL,NOP,1,away,OffReb,,,OffReb,,Team,
+76,1,4:23.0,26,17,LAL,NOP,0,away,ShotClockViolation,,,turnover,,Team,
+77,1,4:12.0,26,17,LAL,NOP,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Moore,K. Caldwell-Pope
+78,1,4:12.0,27,17,LAL,NOP,0,home,FreeThrow,,,make1,1,K. Caldwell-Pope,
+79,1,4:12.0,28,17,LAL,NOP,0,home,FreeThrow,,,make1,1,K. Caldwell-Pope,
+80,1,3:59.0,28,17,LAL,NOP,13,away,JS,,16,miss2,0,B. Ingram,
+81,1,3:57.0,28,17,LAL,NOP,2,away,OffReb,,,OffReb,,J. Hayes,
+82,1,3:55.0,28,17,LAL,NOP,2,away,lost ball,steal,,turnover,,J. Hayes,D. Green
+83,1,3:48.0,31,17,LAL,NOP,7,home,JS,assist,24,make3,3,K. Kuzma,L. James
+84,1,3:34.0,31,19,LAL,NOP,14,away,DK,assist,1,make2,2,J. Hayes,B. Ingram
+85,1,3:19.0,34,19,LAL,NOP,15,home,JS,assist,24,make3,3,D. Green,L. James
+86,1,3:07.0,34,19,LAL,NOP,12,away,JS,,26,miss3,0,J. Holiday,
+87,1,3:05.0,34,19,LAL,NOP,2,home,DefReb,,,DefReb,,L. James,
+88,1,3:00.0,37,19,LAL,NOP,5,home,JS,assist,22,make3,3,D. Green,L. James
+89,1,2:47.0,37,21,LAL,NOP,13,away,LU,,2,make2,2,B. Ingram,
+90,1,2:31.0,37,21,LAL,NOP,16,home,JS,,11,miss2,0,K. Kuzma,
+91,1,2:30.0,37,21,LAL,NOP,1,home,OffReb,,,OffReb,,A. Davis,
+92,1,2:29.0,39,21,LAL,NOP,1,home,DK,,1,make2,2,A. Davis,
+93,1,2:23.0,39,21,LAL,NOP,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Caldwell-Pope,J. Holiday
+94,1,2:23.0,39,22,LAL,NOP,0,away,FreeThrow,,,make1,1,J. Holiday,
+95,1,2:23.0,39,22,LAL,NOP,0,away,Sub,,,,,J. Hart,B. Ingram
+96,1,2:23.0,39,22,LAL,NOP,0,home,Sub,,,,,R. Rondo,L. James
+97,1,2:23.0,39,23,LAL,NOP,0,away,FreeThrow,,,make1,1,J. Holiday,
+98,1,2:20.0,39,23,LAL,NOP,3,home,OutOfBoundsLB,,,turnover,,R. Rondo,
+99,1,2:11.0,39,25,LAL,NOP,9,away,DK,assist,3,make2,2,J. Hayes,J. Holiday
+100,1,1:58.0,39,25,LAL,NOP,13,home,JS,,26,miss3,0,D. Green,
+101,1,1:54.0,39,25,LAL,NOP,4,away,DefReb,,,DefReb,,J. Redick,
+102,1,1:46.0,39,28,LAL,NOP,8,away,JS,assist,26,make3,3,J. Redick,J. Hayes
+103,1,1:30.0,42,28,LAL,NOP,16,home,JS,assist,27,make3,3,D. Green,K. Kuzma
+104,1,1:20.0,42,28,LAL,NOP,10,away,bad pass,steal,,turnover,,J. Holiday,A. Davis
+105,1,1:18.0,42,28,LAL,NOP,2,home,bad pass,steal,,turnover,,A. Davis,J. Holiday
+106,1,1:11.0,42,28,LAL,NOP,7,away,LU,,1,miss2,0,J. Redick,
+107,1,1:08.0,42,28,LAL,NOP,3,home,DefReb,,,DefReb,,A. Davis,
+108,1,1:01.0,42,28,LAL,NOP,7,home,LU,,1,miss2,0,K. Caldwell-Pope,
+109,1,0:59.0,42,28,LAL,NOP,2,away,DefReb,,,DefReb,,J. Hart,
+110,1,0:52.0,42,28,LAL,NOP,7,away,JS,,21,miss2,0,J. Holiday,
+111,1,0:50.0,42,28,LAL,NOP,2,home,DefReb,,,DefReb,,A. Davis,
+112,1,0:29.0,42,28,LAL,NOP,21,home,JS,,26,miss3,0,A. Davis,
+113,1,0:26.0,42,28,LAL,NOP,3,away,DefReb,,,DefReb,,J. Holiday,
+114,1,0:11.0,42,30,LAL,NOP,15,away,DK,,2,make2,2,J. Holiday,
+115,1,0:01.0,42,30,LAL,NOP,10,home,JS,,26,miss3,0,K. Kuzma,
+116,1,0:00.0,42,30,LAL,NOP,1,home,OffReb,,,OffReb,,Team,
+117,2,11:37.0,42,30,LAL,NOP,23,away,JS,,21,miss2,0,E. Moore,
+118,2,11:33.0,42,30,LAL,NOP,4,away,OffReb,,,OffReb,,D. Favors,
+119,2,11:33.0,42,30,LAL,NOP,0,away,LU,,0,miss2,0,D. Favors,
+120,2,11:32.0,42,30,LAL,NOP,1,home,DefReb,,,DefReb,,K. Caldwell-Pope,
+121,2,11:22.0,42,30,LAL,NOP,10,home,LU,,2,miss2,0,K. Caldwell-Pope,
+122,2,11:20.0,42,30,LAL,NOP,2,away,DefReb,,,DefReb,,D. Favors,
+123,2,11:16.0,42,30,LAL,NOP,4,away,JS,,23,miss3,0,E. Moore,
+124,2,11:12.0,42,30,LAL,NOP,4,home,DefReb,,,DefReb,,R. Rondo,
+125,2,11:00.0,45,30,LAL,NOP,12,home,JS,assist,28,make3,3,T. Daniels,R. Rondo
+126,2,10:41.0,45,32,LAL,NOP,19,away,JS,,7,make2,2,E. Moore,
+127,2,10:19.0,47,32,LAL,NOP,22,home,LU,,3,make2,2,K. Caldwell-Pope,
+128,2,10:15.0,47,32,LAL,NOP,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Howard,L. Ball
+129,2,10:15.0,47,33,LAL,NOP,0,away,FreeThrow,,,make1,1,L. Ball,
+130,2,10:15.0,47,33,LAL,NOP,0,away,FreeThrow,,,make1,0,L. Ball,
+131,2,10:13.0,47,33,LAL,NOP,2,home,DefReb,,,DefReb,,R. Rondo,
+132,2,10:05.0,49,33,LAL,NOP,8,home,LU,,1,make2,2,R. Rondo,
+133,2,10:00.0,49,35,LAL,NOP,5,away,DK,,3,make2,2,L. Ball,
+134,2,9:40.0,49,35,LAL,NOP,20,home,JS,block,4,miss2,0,R. Rondo,E. Moore
+135,2,9:37.0,49,35,LAL,NOP,3,away,DefReb,,,DefReb,,E. Moore,
+136,2,9:25.0,49,35,LAL,NOP,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Kuzma,B. Ingram
+137,2,9:22.0,49,35,LAL,NOP,3,home,KickBallViolation,,,KickBallViolation,,Team,
+138,2,9:15.0,49,37,LAL,NOP,7,away,JS,,20,make2,2,L. Ball,
+139,2,8:56.0,49,37,LAL,NOP,19,home,JS,,19,miss2,0,K. Caldwell-Pope,
+140,2,8:53.0,49,37,LAL,NOP,3,away,DefReb,,,DefReb,,J. Hart,
+141,2,8:46.0,49,39,LAL,NOP,7,away,JS,assist,11,make2,2,B. Ingram,J. Hart
+142,2,8:44.0,49,39,LAL,NOP,2,home,Timeout,,,,,,
+143,2,8:44.0,49,39,LAL,NOP,0,home,Sub,,,,,L. James,K. Caldwell-Pope
+144,2,8:22.0,49,39,LAL,NOP,22,away,KickBallViolation,,,KickBallViolation,,Team,
+145,2,8:12.0,49,39,LAL,NOP,10,home,JS,,19,miss2,0,L. James,
+146,2,8:09.0,49,39,LAL,NOP,3,away,DefReb,,,DefReb,,D. Favors,
+147,2,8:02.0,49,41,LAL,NOP,7,away,JS,,18,make2,2,B. Ingram,
+148,2,7:48.0,49,41,LAL,NOP,14,home,JS,,13,miss2,0,R. Rondo,
+149,2,7:45.0,49,41,LAL,NOP,3,away,DefReb,,,DefReb,,L. Ball,
+150,2,7:32.0,49,44,LAL,NOP,13,away,JS,assist,25,make3,3,E. Moore,B. Ingram
+151,2,7:15.0,51,44,LAL,NOP,17,home,LU,assist,2,make2,2,K. Kuzma,R. Rondo
+152,2,7:02.0,51,44,LAL,NOP,13,away,JS,,27,miss3,0,J. Hart,
+153,2,6:59.0,51,44,LAL,NOP,3,home,DefReb,,,DefReb,,K. Kuzma,
+154,2,6:51.0,53,44,LAL,NOP,8,home,LU,assist,2,make2,2,K. Kuzma,R. Rondo
+155,2,6:45.0,53,46,LAL,NOP,6,away,DK,assist,1,make2,2,B. Ingram,L. Ball
+156,2,6:44.0,53,46,LAL,NOP,1,home,Timeout,,,,,,
+157,2,6:44.0,53,46,LAL,NOP,0,away,Sub,,,,,J. Holiday,B. Ingram
+158,2,6:44.0,53,46,LAL,NOP,0,home,Sub,,,,,A. Bradley,T. Daniels
+159,2,6:44.0,53,46,LAL,NOP,0,home,Sub,,,,,A. Davis,K. Kuzma
+160,2,6:44.0,53,46,LAL,NOP,0,home,Sub,,,,,D. Green,R. Rondo
+161,2,6:24.0,56,46,LAL,NOP,20,home,JS,assist,23,make3,3,L. James,D. Green
+162,2,6:09.0,56,46,LAL,NOP,15,away,bad pass,steal,,turnover,,J. Holiday,A. Davis
+163,2,5:55.0,56,46,LAL,NOP,14,home,HS,,6,miss2,0,L. James,
+164,2,5:53.0,56,46,LAL,NOP,2,away,DefReb,,,DefReb,,J. Hart,
+165,2,5:46.0,56,48,LAL,NOP,7,away,JS,,5,make2,2,E. Moore,
+166,2,5:22.0,58,48,LAL,NOP,24,home,LU,,2,make2,2,A. Davis,
+167,2,5:11.0,58,48,LAL,NOP,11,away,JS,,17,miss2,0,E. Moore,
+168,2,5:08.0,58,48,LAL,NOP,3,home,DefReb,,,DefReb,,A. Bradley,
+169,2,4:57.0,60,48,LAL,NOP,11,home,JS,,12,make2,2,D. Green,
+170,2,4:41.0,60,51,LAL,NOP,16,away,JS,assist,25,make3,3,J. Hart,D. Favors
+171,2,4:28.0,62,51,LAL,NOP,13,home,LU,assist,3,make2,2,A. Bradley,L. James
+172,2,4:14.0,62,51,LAL,NOP,14,away,Traveling,,,turnover,,E. Moore,
+173,2,4:14.0,62,51,LAL,NOP,0,away,Sub,,,,,J. Redick,E. Moore
+174,2,3:59.0,64,51,LAL,NOP,15,home,DK,assist,1,make2,2,D. Howard,D. Green
+175,2,3:45.0,64,53,LAL,NOP,14,away,LU,,1,make2,2,J. Holiday,
+176,2,3:27.0,64,53,LAL,NOP,18,home,LU,,3,miss2,0,A. Davis,
+177,2,3:23.0,64,53,LAL,NOP,4,away,DefReb,,,DefReb,,D. Favors,
+178,2,3:14.0,64,55,LAL,NOP,9,away,DK,assist,1,make2,2,D. Favors,J. Holiday
+179,2,3:01.0,64,55,LAL,NOP,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Hart,L. James
+180,2,3:01.0,64,55,LAL,NOP,0,away,Sub,,,,,B. Ingram,J. Hart
+181,2,2:49.0,64,55,LAL,NOP,12,home,JS,,27,miss3,0,L. James,
+182,2,2:47.0,64,55,LAL,NOP,2,home,OffReb,,,OffReb,,D. Green,
+183,2,2:41.0,64,55,LAL,NOP,6,home,BadPass,,,turnover,,A. Davis,
+184,2,2:29.0,64,55,LAL,NOP,12,away,JS,,26,miss3,0,L. Ball,
+185,2,2:26.0,64,55,LAL,NOP,3,home,DefReb,,,DefReb,,D. Howard,
+186,2,2:21.0,64,55,LAL,NOP,5,home,LU,block,1,miss2,0,A. Bradley,D. Favors
+187,2,2:17.0,64,55,LAL,NOP,4,away,DefReb,,,DefReb,,J. Holiday,
+188,2,2:14.0,64,58,LAL,NOP,3,away,JS,assist,25,make3,3,J. Redick,J. Holiday
+189,2,2:13.0,64,58,LAL,NOP,1,home,Timeout,,,,,,
+190,2,2:13.0,64,58,LAL,NOP,0,away,Sub,,,,,E. Moore,L. Ball
+191,2,2:13.0,64,58,LAL,NOP,0,home,Sub,,,,,K. Caldwell-Pope,D. Howard
+192,2,2:00.0,64,58,LAL,NOP,13,home,LU,,4,miss2,0,L. James,
+193,2,1:56.0,64,58,LAL,NOP,4,away,DefReb,,,DefReb,,D. Favors,
+194,2,1:50.0,64,60,LAL,NOP,6,away,LU,,2,make2,2,E. Moore,
+195,2,1:36.0,64,60,LAL,NOP,14,home,LU,block,2,miss2,0,L. James,D. Favors
+196,2,1:36.0,64,60,LAL,NOP,0,home,OffReb,,,OffReb,,A. Davis,
+197,2,1:36.0,66,60,LAL,NOP,0,home,LU,,2,make2,2,A. Davis,
+198,2,1:36.0,66,60,LAL,NOP,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Ingram,A. Davis
+199,2,1:36.0,66,60,LAL,NOP,0,away,Sub,,,,,J. Hayes,D. Favors
+200,2,1:36.0,67,60,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Davis,
+201,2,1:18.0,67,60,LAL,NOP,18,away,bad pass,steal,,turnover,,J. Redick,L. James
+202,2,1:15.0,69,60,LAL,NOP,3,home,LU,,3,make2,2,L. James,
+203,2,1:02.0,69,62,LAL,NOP,13,away,JS,,12,make2,2,B. Ingram,
+204,2,0:49.0,69,62,LAL,NOP,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hayes,A. Davis
+205,2,0:49.0,70,62,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Davis,
+206,2,0:49.0,70,62,LAL,NOP,0,away,Sub,,,,,J. Hart,B. Ingram
+207,2,0:49.0,71,62,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Davis,
+208,2,0:43.0,71,62,LAL,NOP,6,away,JS,,27,miss3,0,E. Moore,
+209,2,0:40.0,71,62,LAL,NOP,3,home,DefReb,,,DefReb,,L. James,
+210,2,0:33.0,71,62,LAL,NOP,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hayes,D. Green
+211,2,0:33.0,71,62,LAL,NOP,0,home,FreeThrow,,,make1,0,D. Green,
+212,2,0:33.0,71,62,LAL,NOP,0,home,OffReb,,,OffReb,,Team,
+213,2,0:33.0,72,62,LAL,NOP,0,home,FreeThrow,,,make1,1,D. Green,
+214,2,0:24.0,72,62,LAL,NOP,9,away,JS,,28,miss3,0,E. Moore,
+215,2,0:20.0,72,62,LAL,NOP,4,home,DefReb,,,DefReb,,A. Davis,
+216,2,0:06.0,72,62,LAL,NOP,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Moore,A. Davis
+217,2,0:06.0,73,62,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Davis,
+218,2,0:06.0,74,62,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Davis,
+219,2,0:04.0,74,62,LAL,NOP,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Caldwell-Pope,J. Hart
+220,2,0:00.0,74,62,LAL,NOP,4,away,JS,,23,miss3,0,J. Hart,
+221,2,0:00.0,74,62,LAL,NOP,0,away,OffReb,,,OffReb,,Team,
+222,3,11:47.0,74,62,LAL,NOP,13,away,JS,,24,miss3,0,B. Ingram,
+223,3,11:44.0,74,62,LAL,NOP,3,home,DefReb,,,DefReb,,J. McGee,
+224,3,11:26.0,74,62,LAL,NOP,18,home,bad pass,steal,,turnover,,L. James,L. Ball
+225,3,11:04.0,74,64,LAL,NOP,22,away,JS,,13,make2,2,L. Ball,
+226,3,10:46.0,74,64,LAL,NOP,18,home,JS,,5,miss2,0,J. McGee,
+227,3,10:44.0,74,64,LAL,NOP,2,away,DefReb,,,DefReb,,D. Favors,
+228,3,10:35.0,74,67,LAL,NOP,9,away,JS,assist,24,make3,3,J. Redick,L. Ball
+229,3,10:19.0,76,67,LAL,NOP,16,home,JS,assist,19,make2,2,A. Davis,L. James
+230,3,10:02.0,76,67,LAL,NOP,17,away,JS,,26,miss3,0,J. Redick,
+231,3,10:00.0,76,67,LAL,NOP,2,away,OffReb,,,OffReb,,J. Redick,
+232,3,9:58.0,76,67,LAL,NOP,2,away,JS,,23,miss3,0,J. Holiday,
+233,3,9:55.0,76,67,LAL,NOP,3,home,DefReb,,,DefReb,,L. James,
+234,3,9:50.0,79,67,LAL,NOP,5,home,JS,assist,26,make3,3,A. Bradley,L. James
+235,3,9:39.0,79,67,LAL,NOP,11,away,LU,,1,miss2,0,J. Holiday,
+236,3,9:34.0,79,67,LAL,NOP,5,away,OffReb,,,OffReb,,D. Favors,
+237,3,9:31.0,79,67,LAL,NOP,3,away,JS,,17,miss2,0,D. Favors,
+238,3,9:28.0,79,67,LAL,NOP,3,home,DefReb,,,DefReb,,J. McGee,
+239,3,9:17.0,79,67,LAL,NOP,11,home,JS,,27,miss3,0,A. Bradley,
+240,3,9:14.0,79,67,LAL,NOP,3,away,DefReb,,,DefReb,,J. Redick,
+241,3,9:10.0,79,67,LAL,NOP,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bradley,B. Ingram
+242,3,8:57.0,79,67,LAL,NOP,13,away,JS,,7,miss2,0,J. Redick,
+243,3,8:55.0,79,67,LAL,NOP,2,home,DefReb,,,DefReb,,J. McGee,
+244,3,8:51.0,81,67,LAL,NOP,4,home,DK,assist,2,make2,2,J. McGee,A. Bradley
+245,3,8:51.0,81,67,LAL,NOP,0,away,Timeout,,,,,,
+246,3,8:42.0,81,67,LAL,NOP,9,away,Traveling,,,turnover,,B. Ingram,
+247,3,8:22.0,81,67,LAL,NOP,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Favors,J. McGee
+248,3,8:22.0,82,67,LAL,NOP,0,home,FreeThrow,,,make1,1,J. McGee,
+249,3,8:22.0,83,67,LAL,NOP,0,home,FreeThrow,,,make1,1,J. McGee,
+250,3,8:04.0,83,67,LAL,NOP,18,away,LU,,2,miss2,0,J. Holiday,
+251,3,7:59.0,83,67,LAL,NOP,5,away,OffReb,,,OffReb,,D. Favors,
+252,3,7:59.0,83,69,LAL,NOP,0,away,DK,,1,make2,2,D. Favors,
+253,3,7:54.0,86,69,LAL,NOP,5,home,JS,assist,27,make3,3,A. Davis,L. James
+254,3,7:41.0,86,72,LAL,NOP,13,away,JS,assist,26,make3,3,B. Ingram,L. Ball
+255,3,7:15.0,86,72,LAL,NOP,26,home,JS,,20,miss2,0,A. Davis,
+256,3,7:12.0,86,72,LAL,NOP,3,away,DefReb,,,DefReb,,J. Redick,
+257,3,7:10.0,86,72,LAL,NOP,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. James,J. Redick
+258,3,7:04.0,86,72,LAL,NOP,6,away,JS,,16,miss2,0,J. Redick,
+259,3,7:02.0,86,72,LAL,NOP,2,home,DefReb,,,DefReb,,J. McGee,
+260,3,6:43.0,86,72,LAL,NOP,19,home,JS,block,9,miss2,0,L. James,J. Holiday
+261,3,6:42.0,86,72,LAL,NOP,1,home,OffReb,,,OffReb,,Team,
+262,3,6:39.0,86,72,LAL,NOP,3,home,JS,,23,miss2,0,L. James,
+263,3,6:35.0,86,72,LAL,NOP,4,home,OffReb,,,OffReb,,J. McGee,
+264,3,6:32.0,86,72,LAL,NOP,3,home,JS,,27,miss3,0,D. Green,
+265,3,6:30.0,86,72,LAL,NOP,2,home,OffReb,,,OffReb,,J. McGee,
+266,3,6:30.0,86,72,LAL,NOP,0,home,OffGoaltending,,,turnover,,A. Davis,
+267,3,6:21.0,86,74,LAL,NOP,9,away,JS,,3,make2,2,L. Ball,
+268,3,6:06.0,89,74,LAL,NOP,15,home,JS,assist,26,make3,3,A. Davis,L. James
+269,3,5:50.0,89,74,LAL,NOP,16,away,JS,,27,miss3,0,B. Ingram,
+270,3,5:48.0,89,74,LAL,NOP,2,home,DefReb,,,DefReb,,A. Davis,
+271,3,5:41.0,89,74,LAL,NOP,7,home,JS,,24,miss3,0,D. Green,
+272,3,5:38.0,89,74,LAL,NOP,3,away,DefReb,,,DefReb,,J. Redick,
+273,3,5:28.0,89,74,LAL,NOP,10,away,JS,,3,miss2,0,B. Ingram,
+274,3,5:26.0,89,74,LAL,NOP,2,away,OffReb,,,OffReb,,D. Favors,
+275,3,5:22.0,89,74,LAL,NOP,4,away,JS,,27,miss3,0,L. Ball,
+276,3,5:20.0,89,74,LAL,NOP,2,home,DefReb,,,DefReb,,D. Green,
+277,3,5:14.0,89,74,LAL,NOP,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Redick,J. McGee
+278,3,5:14.0,89,74,LAL,NOP,0,away,Sub,,,,,J. Hayes,D. Favors
+279,3,5:07.0,91,74,LAL,NOP,7,home,DK,assist,4,make2,2,L. James,D. Green
+280,3,4:58.0,91,74,LAL,NOP,9,away,JS,,23,miss3,0,B. Ingram,
+281,3,4:56.0,91,74,LAL,NOP,2,home,DefReb,,,DefReb,,L. James,
+282,3,4:49.0,94,74,LAL,NOP,7,home,JS,assist,28,make3,3,A. Davis,D. Green
+283,3,4:36.0,94,74,LAL,NOP,13,away,JS,,6,miss2,0,J. Holiday,
+284,3,4:36.0,94,74,LAL,NOP,0,away,OffReb,,,OffReb,,Team,
+285,3,4:36.0,94,74,LAL,NOP,0,away,Sub,,,,,J. Hart,J. Holiday
+286,3,4:36.0,94,74,LAL,NOP,0,away,Sub,,,,,E. Moore,J. Redick
+287,3,4:24.0,94,74,LAL,NOP,12,away,JS,,25,miss3,0,J. Hart,
+288,3,4:20.0,94,74,LAL,NOP,4,home,DefReb,,,DefReb,,J. McGee,
+289,3,4:18.0,94,74,LAL,NOP,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Moore,A. Davis
+290,3,4:18.0,95,74,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Davis,
+291,3,4:18.0,95,74,LAL,NOP,0,home,Sub,,,,,K. Caldwell-Pope,A. Bradley
+292,3,4:18.0,95,74,LAL,NOP,0,home,Sub,,,,,K. Kuzma,J. McGee
+293,3,4:18.0,96,74,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Davis,
+294,3,4:02.0,96,74,LAL,NOP,16,away,JS,,8,miss2,0,B. Ingram,
+295,3,3:59.0,96,74,LAL,NOP,3,away,OffReb,,,OffReb,,J. Hayes,
+296,3,3:59.0,96,74,LAL,NOP,0,away,LU,,1,miss2,0,J. Hayes,
+297,3,3:57.0,96,74,LAL,NOP,2,home,DefReb,,,DefReb,,L. James,
+298,3,3:46.0,96,74,LAL,NOP,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Hayes,L. James
+299,3,3:46.0,96,74,LAL,NOP,0,home,Sub,,,,,T. Daniels,D. Green
+300,3,3:46.0,96,74,LAL,NOP,0,home,Sub,,,,,R. Rondo,L. James
+301,3,3:38.0,96,74,LAL,NOP,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Ingram,A. Davis
+302,3,3:38.0,97,74,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Davis,
+303,3,3:38.0,98,74,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Davis,
+304,3,3:31.0,98,76,LAL,NOP,7,away,JS,,19,make2,2,L. Ball,
+305,3,3:18.0,98,76,LAL,NOP,13,home,JS,,6,miss2,0,K. Kuzma,
+306,3,3:15.0,98,76,LAL,NOP,3,away,DefReb,,,DefReb,,J. Hayes,
+307,3,3:04.0,98,76,LAL,NOP,11,away,JS,,23,miss3,0,L. Ball,
+308,3,3:02.0,98,76,LAL,NOP,2,home,DefReb,,,DefReb,,R. Rondo,
+309,3,2:56.0,100,76,LAL,NOP,6,home,DK,assist,4,make2,2,A. Davis,R. Rondo
+310,3,2:56.0,100,76,LAL,NOP,0,away,Timeout,,,,,,
+311,3,2:42.0,100,76,LAL,NOP,14,away,JS,,15,miss2,0,B. Ingram,
+312,3,2:42.0,100,76,LAL,NOP,0,away,OffReb,,,OffReb,,Team,
+313,3,2:35.0,100,76,LAL,NOP,7,away,JS,,26,miss3,0,J. Hart,
+314,3,2:32.0,100,76,LAL,NOP,3,home,DefReb,,,DefReb,,R. Rondo,
+315,3,2:10.0,100,76,LAL,NOP,22,home,LU,,3,miss2,0,R. Rondo,
+316,3,2:06.0,100,76,LAL,NOP,4,away,DefReb,,,DefReb,,L. Ball,
+317,3,1:58.0,100,79,LAL,NOP,8,away,JS,,26,make3,3,B. Ingram,
+318,3,1:50.0,100,79,LAL,NOP,8,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Kuzma,B. Ingram
+319,3,1:50.0,100,79,LAL,NOP,0,home,OffensiveFoul,,,turnover,,K. Kuzma,
+320,3,1:39.0,100,81,LAL,NOP,11,away,JS,assist,11,make2,2,J. Hayes,L. Ball
+321,3,1:15.0,100,81,LAL,NOP,24,home,BackCourtTurnover,,,turnover,,T. Daniels,
+322,3,1:03.0,100,83,LAL,NOP,12,away,JS,,8,make2,2,E. Moore,
+323,3,1:02.0,100,83,LAL,NOP,1,home,Timeout,,,,,,
+324,3,0:50.0,100,83,LAL,NOP,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Hart,A. Davis
+325,3,0:50.0,101,83,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Davis,
+326,3,0:50.0,102,83,LAL,NOP,0,home,FreeThrow,,,make1,1,A. Davis,
+327,3,0:39.0,102,83,LAL,NOP,11,away,JS,,19,miss2,0,B. Ingram,
+328,3,0:36.0,102,83,LAL,NOP,3,home,DefReb,,,DefReb,,R. Rondo,
+329,3,0:26.0,105,83,LAL,NOP,10,home,JS,assist,27,make3,3,K. Kuzma,R. Rondo
+330,3,0:05.0,105,83,LAL,NOP,21,away,JS,,27,miss3,0,L. Ball,
+331,3,0:03.0,105,83,LAL,NOP,2,home,DefReb,,,DefReb,,A. Davis,
+332,3,0:00.0,105,83,LAL,NOP,3,home,JS,block,34,miss3,0,K. Kuzma,J. Hart
+333,3,0:00.0,105,83,LAL,NOP,0,home,OffReb,,,OffReb,,Team,
+334,4,11:48.0,105,83,LAL,NOP,12,home,JS,,27,miss3,0,K. Caldwell-Pope,
+335,4,11:45.0,105,83,LAL,NOP,3,away,DefReb,,,DefReb,,E. Moore,
+336,4,11:33.0,105,85,LAL,NOP,12,away,HS,assist,2,make2,2,D. Favors,J. Holiday
+337,4,11:33.0,105,85,LAL,NOP,0,home,DefGoaltending,,,DefGoaltending,,Team,
+338,4,11:18.0,105,85,LAL,NOP,15,home,JS,,11,miss2,0,K. Kuzma,
+339,4,11:15.0,105,85,LAL,NOP,3,away,DefReb,,,DefReb,,D. Favors,
+340,4,11:02.0,105,87,LAL,NOP,13,away,JS,,8,make2,2,J. Holiday,
+341,4,10:43.0,105,87,LAL,NOP,19,home,JS,,27,miss3,0,K. Caldwell-Pope,
+342,4,10:41.0,105,87,LAL,NOP,2,away,DefReb,,,DefReb,,J. Hart,
+343,4,10:34.0,105,90,LAL,NOP,7,away,JS,assist,25,make3,3,E. Moore,J. Holiday
+344,4,10:33.0,105,90,LAL,NOP,1,home,Timeout,,,,,,
+345,4,10:23.0,105,90,LAL,NOP,10,home,BackCourtTurnover,,,turnover,,D. Howard,
+346,4,10:06.0,105,92,LAL,NOP,17,away,LU,assist,1,make2,2,D. Favors,E. Moore
+347,4,9:47.0,105,92,LAL,NOP,19,home,JS,,4,miss2,0,K. Kuzma,
+348,4,9:45.0,105,92,LAL,NOP,2,away,DefReb,,,DefReb,,K. Williams,
+349,4,9:33.0,105,92,LAL,NOP,12,away,LU,block,2,miss2,0,J. Holiday,K. Kuzma
+350,4,9:33.0,105,92,LAL,NOP,0,away,OffReb,,,OffReb,,Team,
+351,4,9:29.0,105,92,LAL,NOP,4,away,LU,block,3,miss2,0,E. Moore,D. Howard
+352,4,9:27.0,105,92,LAL,NOP,2,home,DefReb,,,DefReb,,K. Caldwell-Pope,
+353,4,9:27.0,105,92,LAL,NOP,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,K. Williams,L. James
+354,4,9:27.0,105,92,LAL,NOP,0,home,Sub,,,,,A. Bradley,R. Rondo
+355,4,9:18.0,107,92,LAL,NOP,9,home,JS,,21,make2,2,L. James,
+356,4,9:06.0,107,92,LAL,NOP,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bradley,J. Holiday
+357,4,9:06.0,107,93,LAL,NOP,0,away,FreeThrow,,,make1,1,J. Holiday,
+358,4,9:06.0,107,94,LAL,NOP,0,away,FreeThrow,,,make1,1,J. Holiday,
+359,4,8:56.0,107,94,LAL,NOP,10,home,JS,,15,miss2,0,L. James,
+360,4,8:53.0,107,94,LAL,NOP,3,home,OffReb,,,OffReb,,D. Howard,
+361,4,8:50.0,107,94,LAL,NOP,3,home,JS,,22,miss3,0,A. Bradley,
+362,4,8:47.0,107,94,LAL,NOP,3,away,DefReb,,,DefReb,,D. Favors,
+363,4,8:41.0,107,94,LAL,NOP,6,away,JS,,27,miss3,0,J. Hart,
+364,4,8:39.0,107,94,LAL,NOP,2,home,DefReb,,,DefReb,,D. Howard,
+365,4,8:26.0,107,94,LAL,NOP,13,home,JS,,24,miss3,0,K. Caldwell-Pope,
+366,4,8:23.0,107,94,LAL,NOP,3,away,DefReb,,,DefReb,,K. Williams,
+367,4,8:21.0,107,96,LAL,NOP,2,away,DK,assist,2,make2,2,J. Hart,J. Holiday
+368,4,8:02.0,109,96,LAL,NOP,19,home,LU,,2,make2,2,L. James,
+369,4,8:02.0,109,96,LAL,NOP,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Williams,L. James
+370,4,8:02.0,109,96,LAL,NOP,0,home,FreeThrow,,,make1,0,L. James,
+371,4,8:00.0,109,96,LAL,NOP,2,away,DefReb,,,DefReb,,E. Moore,
+372,4,7:54.0,109,98,LAL,NOP,6,away,LU,,2,make2,2,E. Moore,
+373,4,7:36.0,109,98,LAL,NOP,18,home,JS,,29,miss3,0,L. James,
+374,4,7:33.0,109,98,LAL,NOP,3,away,DefReb,,,DefReb,,D. Favors,
+375,4,7:28.0,109,98,LAL,NOP,5,away,JS,,27,miss3,0,D. Favors,
+376,4,7:24.0,109,98,LAL,NOP,4,home,DefReb,,,DefReb,,K. Kuzma,
+377,4,7:13.0,109,98,LAL,NOP,11,home,3sec,,,turnover,,D. Howard,
+378,4,7:13.0,109,98,LAL,NOP,0,home,Sub,,,,,A. Davis,L. James
+379,4,7:13.0,109,98,LAL,NOP,0,home,Sub,,,,,R. Rondo,K. Kuzma
+380,4,7:04.0,109,98,LAL,NOP,9,away,JS,,27,miss3,0,J. Holiday,
+381,4,7:01.0,109,98,LAL,NOP,3,home,DefReb,,,DefReb,,A. Davis,
+382,4,6:52.0,109,98,LAL,NOP,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hart,K. Caldwell-Pope
+383,4,6:52.0,110,98,LAL,NOP,0,home,FreeThrow,,,make1,1,K. Caldwell-Pope,
+384,4,6:52.0,110,98,LAL,NOP,0,home,FreeThrow,,,make1,0,K. Caldwell-Pope,
+385,4,6:49.0,110,98,LAL,NOP,3,away,DefReb,,,DefReb,,D. Favors,
+386,4,6:38.0,110,100,LAL,NOP,11,away,DK,assist,1,make2,2,D. Favors,E. Moore
+387,4,6:18.0,110,100,LAL,NOP,20,home,bad pass,steal,,turnover,,A. Bradley,J. Hart
+388,4,6:13.0,110,100,LAL,NOP,5,away,lost ball,steal,,turnover,,J. Hart,A. Bradley
+389,4,5:54.0,110,100,LAL,NOP,19,home,JS,,26,miss3,0,A. Davis,
+390,4,5:51.0,110,100,LAL,NOP,3,away,DefReb,,,DefReb,,K. Williams,
+391,4,5:51.0,110,100,LAL,NOP,0,away,Timeout,,,,,,
+392,4,5:51.0,110,100,LAL,NOP,0,away,Sub,,,,,L. Ball,J. Holiday
+393,4,5:51.0,110,100,LAL,NOP,0,away,Sub,,,,,B. Ingram,K. Williams
+394,4,5:51.0,110,100,LAL,NOP,0,home,Sub,,,,,D. Green,D. Howard
+395,4,5:51.0,110,100,LAL,NOP,0,home,Sub,,,,,L. James,R. Rondo
+396,4,5:27.0,110,100,LAL,NOP,24,away,JS,,17,miss2,0,B. Ingram,
+397,4,5:26.0,110,100,LAL,NOP,1,away,OffReb,,,OffReb,,D. Favors,
+398,4,5:20.0,110,102,LAL,NOP,6,away,JS,,3,make2,2,L. Ball,
+399,4,4:55.0,112,102,LAL,NOP,25,home,LU,,3,make2,2,L. James,
+400,4,4:41.0,112,102,LAL,NOP,14,away,JS,,26,miss3,0,E. Moore,
+401,4,4:38.0,112,102,LAL,NOP,3,home,DefReb,,,DefReb,,L. James,
+402,4,4:27.0,114,102,LAL,NOP,11,home,JS,assist,13,make2,2,A. Davis,L. James
+403,4,4:19.0,114,104,LAL,NOP,8,away,LU,assist,0,make2,2,D. Favors,B. Ingram
+404,4,4:19.0,114,104,LAL,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,D. Favors
+405,4,4:19.0,114,104,LAL,NOP,0,away,Sub,,,,,J. Redick,J. Hart
+406,4,4:19.0,114,105,LAL,NOP,0,away,FreeThrow,,,make1,1,D. Favors,
+407,4,4:00.0,114,105,LAL,NOP,19,home,LU,block,3,miss2,0,A. Davis,D. Favors
+408,4,3:56.0,114,105,LAL,NOP,4,home,OffReb,,,OffReb,,A. Bradley,
+409,4,3:55.0,114,105,LAL,NOP,1,home,JS,,14,miss2,0,A. Bradley,
+410,4,3:52.0,114,105,LAL,NOP,3,away,DefReb,,,DefReb,,B. Ingram,
+411,4,3:46.0,114,105,LAL,NOP,6,away,bad pass,steal,,turnover,,B. Ingram,D. Green
+412,4,3:42.0,116,105,LAL,NOP,4,home,DK,assist,1,make2,2,A. Davis,L. James
+413,4,3:28.0,116,105,LAL,NOP,14,away,Timeout,,,,,,
+414,4,3:28.0,116,105,LAL,NOP,0,away,Sub,,,,,J. Holiday,E. Moore
+415,4,3:11.0,116,105,LAL,NOP,17,away,JS,,4,miss2,0,J. Holiday,
+416,4,3:09.0,116,105,LAL,NOP,2,home,DefReb,,,DefReb,,L. James,
+417,4,2:57.0,116,105,LAL,NOP,12,home,JS,,25,miss3,0,D. Green,
+418,4,2:57.0,116,105,LAL,NOP,0,away,DefReb,,,DefReb,,Team,
+419,4,2:57.0,116,105,LAL,NOP,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Davis,D. Favors
+420,4,2:49.0,116,107,LAL,NOP,8,away,DK,,2,make2,2,L. Ball,
+421,4,2:29.0,116,107,LAL,NOP,20,home,LU,block,5,miss2,0,L. James,B. Ingram
+422,4,2:27.0,116,107,LAL,NOP,2,away,DefReb,,,DefReb,,J. Holiday,
+423,4,2:25.0,116,109,LAL,NOP,2,away,DK,assist,3,make2,2,B. Ingram,L. Ball
+424,4,2:08.0,119,109,LAL,NOP,17,home,JS,assist,25,make3,3,D. Green,K. Caldwell-Pope
+425,4,2:08.0,119,109,LAL,NOP,0,away,Timeout,,,,,,
+426,4,1:49.0,119,109,LAL,NOP,19,away,JS,,12,miss2,0,B. Ingram,
+427,4,1:46.0,119,109,LAL,NOP,3,home,DefReb,,,DefReb,,A. Davis,
+428,4,1:25.0,119,109,LAL,NOP,21,home,ShotClockViolation,,,turnover,,Team,
+429,4,1:25.0,119,109,LAL,NOP,0,home,InstantReplay,,,RulingStands,,Team,
+430,4,1:18.0,119,109,LAL,NOP,7,away,bad pass,steal,,turnover,,J. Holiday,L. James
+431,4,0:57.0,121,109,LAL,NOP,21,home,JS,,13,make2,2,A. Davis,
+432,4,0:49.0,121,111,LAL,NOP,8,away,DK,,2,make2,2,B. Ingram,
+433,4,0:35.0,121,111,LAL,NOP,14,home,lost ball,steal,,turnover,,K. Caldwell-Pope,L. Ball
+434,4,0:34.0,121,113,LAL,NOP,1,away,DK,,1,make2,2,L. Ball,
+435,4,0:11.0,123,113,LAL,NOP,23,home,JS,,9,make2,2,D. Green,

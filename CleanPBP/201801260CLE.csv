@@ -1,0 +1,400 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:37.0,0,0,CLE,IND,23,home,JS,,22,miss3,0,J. Smith,
+1,1,11:34.0,0,0,CLE,IND,3,home,OffReb,,,OffReb,,K. Love,
+2,1,11:31.0,0,0,CLE,IND,3,home,JS,,25,miss3,0,K. Love,
+3,1,11:27.0,0,0,CLE,IND,4,away,DefReb,,,DefReb,,V. Oladipo,
+4,1,11:21.0,0,0,CLE,IND,6,away,JS,,25,miss3,0,T. Young,
+5,1,11:18.0,0,0,CLE,IND,3,home,DefReb,,,DefReb,,T. Thompson,
+6,1,11:05.0,2,0,CLE,IND,13,home,LU,assist,0,make2,2,K. Love,I. Thomas
+7,1,10:45.0,2,2,CLE,IND,20,away,JS,,14,make2,2,B. Bogdanović,
+8,1,10:34.0,2,2,CLE,IND,11,home,JS,,14,miss2,0,I. Thomas,
+9,1,10:32.0,2,2,CLE,IND,2,away,DefReb,,,DefReb,,D. Sabonis,
+10,1,10:30.0,2,2,CLE,IND,2,away,JS,,25,miss3,0,B. Bogdanović,
+11,1,10:30.0,2,2,CLE,IND,0,away,OffReb,,,OffReb,,V. Oladipo,
+12,1,10:17.0,2,2,CLE,IND,13,away,LU,,0,miss2,0,B. Bogdanović,
+13,1,10:15.0,2,2,CLE,IND,2,home,DefReb,,,DefReb,,T. Thompson,
+14,1,10:10.0,4,2,CLE,IND,5,home,DK,,1,make2,2,L. James,
+15,1,10:02.0,4,4,CLE,IND,8,away,JS,assist,0,make2,2,V. Oladipo,B. Bogdanović
+16,1,9:52.0,4,4,CLE,IND,10,home,LU,,2,miss2,0,T. Thompson,
+17,1,9:52.0,4,4,CLE,IND,0,home,OffReb,,,OffReb,,T. Thompson,
+18,1,9:42.0,6,4,CLE,IND,10,home,LU,,0,make2,2,T. Thompson,
+19,1,9:40.0,6,4,CLE,IND,2,away,JS,,11,miss2,0,V. Oladipo,
+20,1,9:30.0,6,4,CLE,IND,10,away,OffReb,,,OffReb,,T. Young,
+21,1,9:30.0,6,6,CLE,IND,0,away,DK,,0,make2,2,T. Young,
+22,1,9:12.0,6,6,CLE,IND,18,home,JS,,6,miss2,0,J. Smith,
+23,1,9:12.0,6,6,CLE,IND,0,home,OffReb,,,OffReb,,T. Thompson,
+24,1,9:08.0,8,6,CLE,IND,4,home,LU,,1,make2,2,T. Thompson,
+25,1,8:51.0,8,6,CLE,IND,17,away,bad pass,steal,,turnover,,T. Young,L. James
+26,1,8:45.0,11,6,CLE,IND,6,home,JS,assist,25,make3,3,J. Smith,L. James
+27,1,8:25.0,11,6,CLE,IND,20,away,JS,,18,miss2,0,D. Sabonis,
+28,1,8:22.0,11,6,CLE,IND,3,home,DefReb,,,DefReb,,K. Love,
+29,1,8:14.0,13,6,CLE,IND,8,home,LU,,0,make2,2,I. Thomas,
+30,1,7:57.0,13,6,CLE,IND,17,away,JS,,20,miss2,0,D. Sabonis,
+31,1,7:54.0,13,6,CLE,IND,3,home,DefReb,,,DefReb,,K. Love,
+32,1,7:46.0,13,6,CLE,IND,8,home,JS,,25,miss3,0,K. Love,
+33,1,7:44.0,13,6,CLE,IND,2,away,DefReb,,,DefReb,,D. Sabonis,
+34,1,7:34.0,13,6,CLE,IND,10,away,JS,,19,miss2,0,B. Bogdanović,
+35,1,7:30.0,13,6,CLE,IND,4,home,DefReb,,,DefReb,,K. Love,
+36,1,7:25.0,13,6,CLE,IND,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Bogdanović,L. James
+37,1,7:22.0,13,6,CLE,IND,3,home,BadPass,,,turnover,,K. Love,
+38,1,7:15.0,13,6,CLE,IND,7,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,K. Love,D. Collison
+39,1,7:08.0,13,6,CLE,IND,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,V. Oladipo
+40,1,7:08.0,13,7,CLE,IND,0,away,FreeThrow,,,make1,1,V. Oladipo,
+41,1,7:08.0,13,8,CLE,IND,0,away,FreeThrow,,,make1,1,V. Oladipo,
+42,1,6:55.0,13,8,CLE,IND,13,home,bad pass,steal,,turnover,,L. James,T. Young
+43,1,6:49.0,13,10,CLE,IND,6,away,LU,assist,1,make2,2,D. Sabonis,V. Oladipo
+44,1,6:49.0,13,10,CLE,IND,0,home,Timeout,,,,,,
+45,1,6:33.0,16,10,CLE,IND,16,home,JS,assist,28,make3,3,K. Love,I. Thomas
+46,1,6:15.0,16,12,CLE,IND,18,away,JS,assist,8,make2,2,T. Young,D. Collison
+47,1,6:07.0,16,12,CLE,IND,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Bogdanović,K. Love
+48,1,6:07.0,16,12,CLE,IND,0,away,Sub,,,,,L. Stephenson,B. Bogdanović
+49,1,6:03.0,16,12,CLE,IND,4,home,JS,,25,miss3,0,J. Smith,
+50,1,6:00.0,16,12,CLE,IND,3,away,DefReb,,,DefReb,,D. Sabonis,
+51,1,5:53.0,16,14,CLE,IND,7,away,LU,,1,make2,2,D. Collison,
+52,1,5:33.0,18,14,CLE,IND,20,home,LU,assist,1,make2,2,T. Thompson,I. Thomas
+53,1,5:25.0,18,17,CLE,IND,8,away,JS,,26,make3,3,D. Collison,
+54,1,5:13.0,18,17,CLE,IND,12,home,JS,,26,miss3,0,I. Thomas,
+55,1,5:10.0,18,17,CLE,IND,3,home,OffReb,,,OffReb,,K. Love,
+56,1,5:07.0,21,17,CLE,IND,3,home,JS,assist,25,make3,3,J. Smith,K. Love
+57,1,4:44.0,21,17,CLE,IND,23,away,JS,,25,miss3,0,D. Collison,
+58,1,4:39.0,21,17,CLE,IND,5,home,DefReb,,,DefReb,,L. James,
+59,1,4:35.0,21,17,CLE,IND,4,home,JS,,26,miss3,0,I. Thomas,
+60,1,4:35.0,21,17,CLE,IND,0,away,DefReb,,,DefReb,,D. Sabonis,
+61,1,4:29.0,21,20,CLE,IND,6,away,JS,assist,23,make3,3,V. Oladipo,D. Collison
+62,1,4:16.0,21,20,CLE,IND,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Stephenson,L. James
+63,1,4:16.0,21,20,CLE,IND,0,away,Sub,,,,,A. Jefferson,D. Sabonis
+64,1,4:05.0,23,20,CLE,IND,11,home,LU,,3,make2,2,L. James,
+65,1,4:05.0,23,20,CLE,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Stephenson,L. James
+66,1,4:05.0,23,20,CLE,IND,0,home,FreeThrow,,,make1,0,L. James,
+67,1,4:04.0,23,20,CLE,IND,1,away,DefReb,,,DefReb,,V. Oladipo,
+68,1,3:42.0,23,20,CLE,IND,22,away,JS,,18,miss2,0,T. Young,
+69,1,3:39.0,23,20,CLE,IND,3,home,DefReb,,,DefReb,,T. Thompson,
+70,1,3:34.0,26,20,CLE,IND,5,home,JS,assist,25,make3,3,J. Smith,L. James
+71,1,3:33.0,26,20,CLE,IND,1,away,Timeout,,,,,,
+72,1,3:12.0,26,20,CLE,IND,21,away,LU,,2,miss2,0,A. Jefferson,
+73,1,3:10.0,26,20,CLE,IND,2,home,DefReb,,,DefReb,,K. Love,
+74,1,3:01.0,26,20,CLE,IND,9,home,JS,,22,miss2,0,L. James,
+75,1,2:59.0,26,20,CLE,IND,2,away,DefReb,,,DefReb,,V. Oladipo,
+76,1,2:54.0,26,22,CLE,IND,5,away,LU,,1,make2,2,V. Oladipo,
+77,1,2:54.0,26,22,CLE,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Thompson,V. Oladipo
+78,1,2:54.0,26,22,CLE,IND,0,home,Sub,,,,,D. Rose,I. Thomas
+79,1,2:54.0,26,22,CLE,IND,0,away,Sub,,,,,C. Joseph,D. Collison
+80,1,2:54.0,26,23,CLE,IND,0,away,FreeThrow,,,make1,1,V. Oladipo,
+81,1,2:40.0,26,23,CLE,IND,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Jefferson,L. James
+82,1,2:40.0,27,23,CLE,IND,0,home,FreeThrow,,,make1,1,L. James,
+83,1,2:40.0,27,23,CLE,IND,0,home,Sub,,,,,C. Frye,T. Thompson
+84,1,2:40.0,28,23,CLE,IND,0,home,FreeThrow,,,make1,1,L. James,
+85,1,2:29.0,28,26,CLE,IND,11,away,JS,assist,22,make3,3,L. Stephenson,V. Oladipo
+86,1,2:16.0,31,26,CLE,IND,13,home,JS,assist,24,make3,3,J. Smith,C. Frye
+87,1,1:55.0,31,26,CLE,IND,21,away,JS,,26,miss3,0,L. Stephenson,
+88,1,1:55.0,31,26,CLE,IND,0,home,DefReb,,,DefReb,,K. Love,
+89,1,1:48.0,31,26,CLE,IND,7,home,Turnover,,,turnover,,L. James,
+90,1,1:48.0,31,26,CLE,IND,0,home,Sub,,,,,J. Crowder,K. Love
+91,1,1:48.0,31,26,CLE,IND,0,away,Sub,,,,,A. Poythress,T. Young
+92,1,1:37.0,31,26,CLE,IND,11,away,JS,,28,miss3,0,V. Oladipo,
+93,1,1:33.0,31,26,CLE,IND,4,home,DefReb,,,DefReb,,J. Crowder,
+94,1,1:27.0,33,26,CLE,IND,6,home,LU,,0,make2,2,D. Rose,
+95,1,1:11.0,33,28,CLE,IND,16,away,JS,assist,16,make2,2,A. Jefferson,V. Oladipo
+96,1,1:04.0,33,28,CLE,IND,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,V. Oladipo,J. Crowder
+97,1,1:04.0,34,28,CLE,IND,0,home,FreeThrow,,,make1,1,J. Crowder,
+98,1,1:04.0,34,28,CLE,IND,0,away,Sub,,,,,J. Young,V. Oladipo
+99,1,1:04.0,35,28,CLE,IND,0,home,FreeThrow,,,make1,1,J. Crowder,
+100,1,0:43.0,35,28,CLE,IND,21,away,JS,block,16,miss2,0,A. Jefferson,C. Frye
+101,1,0:40.0,35,28,CLE,IND,3,home,DefReb,,,DefReb,,L. James,
+102,1,0:29.0,38,28,CLE,IND,11,home,JS,assist,25,make3,3,D. Rose,L. James
+103,1,0:10.0,38,31,CLE,IND,19,away,JS,,25,make3,3,L. Stephenson,
+104,2,11:51.0,38,31,CLE,IND,9,away,JS,,15,miss2,0,A. Jefferson,
+105,2,11:47.0,38,31,CLE,IND,4,home,DefReb,,,DefReb,,D. Rose,
+106,2,11:40.0,38,31,CLE,IND,7,home,JS,,23,miss3,0,C. Frye,
+107,2,11:40.0,38,31,CLE,IND,0,away,DefReb,,,DefReb,,A. Jefferson,
+108,2,11:15.0,38,34,CLE,IND,25,away,JS,,25,make3,3,C. Joseph,
+109,2,10:52.0,40,34,CLE,IND,23,home,JS,assist,11,make2,2,J. Green,J. Crowder
+110,2,10:43.0,40,34,CLE,IND,9,away,JS,,28,miss3,0,L. Stephenson,
+111,2,10:42.0,40,34,CLE,IND,1,away,OffReb,,,OffReb,,C. Joseph,
+112,2,10:40.0,40,34,CLE,IND,2,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,K. Korver,C. Joseph
+113,2,10:40.0,40,34,CLE,IND,0,away,Sub,,,,,D. Sabonis,A. Jefferson
+114,2,10:35.0,40,37,CLE,IND,5,away,JS,assist,26,make3,3,C. Joseph,A. Poythress
+115,2,10:20.0,42,37,CLE,IND,15,home,LU,assist,1,make2,2,J. Green,K. Korver
+116,2,10:11.0,42,37,CLE,IND,9,away,JS,,12,miss2,0,C. Joseph,
+117,2,10:09.0,42,37,CLE,IND,2,home,DefReb,,,DefReb,,K. Korver,
+118,2,10:05.0,42,37,CLE,IND,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Young,D. Rose
+119,2,9:51.0,44,37,CLE,IND,14,home,JS,,16,make2,2,J. Green,
+120,2,9:28.0,44,37,CLE,IND,23,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Korver,D. Sabonis
+121,2,9:28.0,44,38,CLE,IND,0,away,FreeThrow,,,make1,1,D. Sabonis,
+122,2,9:28.0,44,39,CLE,IND,0,away,FreeThrow,,,make1,1,D. Sabonis,
+123,2,9:18.0,46,39,CLE,IND,10,home,JS,,5,make2,2,D. Rose,
+124,2,8:56.0,46,39,CLE,IND,22,away,JS,,23,miss2,0,J. Young,
+125,2,8:56.0,46,39,CLE,IND,0,home,DefReb,,,DefReb,,Team,
+126,2,8:50.0,46,39,CLE,IND,6,home,LU,,2,miss2,0,J. Green,
+127,2,8:46.0,46,39,CLE,IND,4,away,DefReb,,,DefReb,,L. Stephenson,
+128,2,8:29.0,46,39,CLE,IND,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crowder,C. Joseph
+129,2,8:19.0,46,39,CLE,IND,10,away,OutOfBoundsLB,,,turnover,,D. Sabonis,
+130,2,8:06.0,46,39,CLE,IND,13,home,JS,,25,miss3,0,J. Crowder,
+131,2,8:03.0,46,39,CLE,IND,3,away,DefReb,,,DefReb,,A. Poythress,
+132,2,7:59.0,46,39,CLE,IND,4,away,JS,,14,miss2,0,L. Stephenson,
+133,2,7:55.0,46,39,CLE,IND,4,home,DefReb,,,DefReb,,J. Crowder,
+134,2,7:52.0,46,39,CLE,IND,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Sabonis,J. Green
+135,2,7:52.0,47,39,CLE,IND,0,home,FreeThrow,,,make1,1,J. Green,
+136,2,7:52.0,47,39,CLE,IND,0,away,Sub,,,,,D. Collison,J. Young
+137,2,7:52.0,47,39,CLE,IND,0,home,FreeThrow,,,make1,0,J. Green,
+138,2,7:50.0,47,39,CLE,IND,2,away,DefReb,,,DefReb,,D. Sabonis,
+139,2,7:26.0,47,41,CLE,IND,24,away,JS,,14,make2,2,L. Stephenson,
+140,2,7:15.0,49,41,CLE,IND,11,home,LU,assist,1,make2,2,C. Frye,D. Rose
+141,2,6:57.0,49,41,CLE,IND,18,away,JS,,19,miss2,0,C. Joseph,
+142,2,6:56.0,49,41,CLE,IND,1,away,LU,,0,miss2,0,A. Poythress,
+143,2,6:56.0,49,41,CLE,IND,0,away,OffReb,,,OffReb,,A. Poythress,
+144,2,6:51.0,49,41,CLE,IND,5,away,OffReb,,,OffReb,,Team,
+145,2,6:51.0,49,41,CLE,IND,0,home,Timeout,,,,,,
+146,2,6:51.0,49,41,CLE,IND,0,away,Sub,,,,,V. Oladipo,L. Stephenson
+147,2,6:36.0,49,44,CLE,IND,15,away,JS,assist,24,make3,3,D. Collison,C. Joseph
+148,2,6:24.0,51,44,CLE,IND,12,home,DK,assist,1,make2,2,J. Green,D. Rose
+149,2,6:06.0,51,46,CLE,IND,18,away,DK,assist,0,make2,2,A. Poythress,D. Sabonis
+150,2,5:57.0,51,46,CLE,IND,9,home,JS,,26,miss3,0,D. Rose,
+151,2,5:57.0,51,46,CLE,IND,0,away,DefReb,,,DefReb,,V. Oladipo,
+152,2,5:49.0,51,46,CLE,IND,8,away,bad pass,steal,,turnover,,V. Oladipo,J. Crowder
+153,2,5:36.0,53,46,CLE,IND,13,home,JS,assist,20,make2,2,C. Frye,J. Green
+154,2,5:19.0,53,48,CLE,IND,17,away,HS,assist,6,make2,2,D. Sabonis,D. Collison
+155,2,5:19.0,53,48,CLE,IND,0,home,Timeout,,,,,,
+156,2,5:19.0,53,48,CLE,IND,0,home,Sub,,,,,K. Love,D. Rose
+157,2,5:19.0,53,48,CLE,IND,0,home,Sub,,,,,J. Smith,C. Frye
+158,2,5:19.0,53,48,CLE,IND,0,home,Sub,,,,,I. Thomas,K. Korver
+159,2,5:19.0,53,48,CLE,IND,0,home,Sub,,,,,T. Thompson,J. Green
+160,2,5:19.0,53,48,CLE,IND,0,home,Sub,,,,,L. James,J. Crowder
+161,2,5:19.0,53,48,CLE,IND,0,away,Sub,,,,,T. Young,A. Poythress
+162,2,5:19.0,53,48,CLE,IND,0,away,Sub,,,,,B. Bogdanović,C. Joseph
+163,2,5:03.0,53,48,CLE,IND,16,home,JS,,13,miss2,0,L. James,
+164,2,5:01.0,53,48,CLE,IND,2,away,DefReb,,,DefReb,,D. Sabonis,
+165,2,4:55.0,53,48,CLE,IND,6,away,LU,,1,miss2,0,T. Young,
+166,2,4:52.0,53,48,CLE,IND,3,home,DefReb,,,DefReb,,L. James,
+167,2,4:48.0,53,48,CLE,IND,4,home,lost ball,steal,,turnover,,I. Thomas,D. Collison
+168,2,4:36.0,53,48,CLE,IND,12,away,JS,,23,miss3,0,T. Young,
+169,2,4:36.0,53,48,CLE,IND,0,home,DefReb,,,DefReb,,I. Thomas,
+170,2,4:23.0,53,48,CLE,IND,13,home,bad pass,steal,,turnover,,L. James,T. Young
+171,2,4:17.0,53,48,CLE,IND,6,away,LU,,0,miss2,0,V. Oladipo,
+172,2,4:13.0,53,48,CLE,IND,4,away,OffReb,,,OffReb,,D. Collison,
+173,2,4:08.0,53,50,CLE,IND,5,away,LU,assist,1,make2,2,D. Sabonis,D. Collison
+174,2,3:44.0,53,50,CLE,IND,24,home,JS,,6,miss2,0,T. Thompson,
+175,2,3:41.0,53,50,CLE,IND,3,home,OffReb,,,OffReb,,T. Thompson,
+176,2,3:39.0,56,50,CLE,IND,2,home,JS,assist,26,make3,3,I. Thomas,T. Thompson
+177,2,3:24.0,56,52,CLE,IND,15,away,JS,assist,11,make2,2,D. Sabonis,V. Oladipo
+178,2,3:12.0,56,52,CLE,IND,12,home,JS,,22,miss3,0,J. Smith,
+179,2,3:12.0,56,52,CLE,IND,0,away,DefReb,,,DefReb,,D. Collison,
+180,2,3:07.0,56,52,CLE,IND,5,away,LU,block,7,miss2,0,D. Collison,I. Thomas
+181,2,3:06.0,56,52,CLE,IND,1,home,DefReb,,,DefReb,,K. Love,
+182,2,2:58.0,58,52,CLE,IND,8,home,LU,assist,2,make2,2,T. Thompson,L. James
+183,2,2:58.0,58,52,CLE,IND,0,away,Timeout,,,,,,
+184,2,2:47.0,58,52,CLE,IND,11,away,JS,,25,miss3,0,B. Bogdanović,
+185,2,2:45.0,58,52,CLE,IND,2,home,DefReb,,,DefReb,,T. Thompson,
+186,2,2:37.0,61,52,CLE,IND,8,home,JS,assist,24,make3,3,K. Love,L. James
+187,2,2:24.0,61,55,CLE,IND,13,away,JS,assist,25,make3,3,B. Bogdanović,V. Oladipo
+188,2,2:09.0,63,55,CLE,IND,15,home,LU,assist,0,make2,2,L. James,K. Love
+189,2,1:52.0,63,55,CLE,IND,17,away,JS,,25,miss3,0,V. Oladipo,
+190,2,1:49.0,63,55,CLE,IND,3,home,DefReb,,,DefReb,,T. Thompson,
+191,2,1:44.0,66,55,CLE,IND,5,home,JS,assist,22,make3,3,J. Smith,I. Thomas
+192,2,1:27.0,66,57,CLE,IND,17,away,LU,,0,make2,2,V. Oladipo,
+193,2,1:27.0,66,57,CLE,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Love,V. Oladipo
+194,2,1:27.0,66,57,CLE,IND,0,away,FreeThrow,,,make1,0,V. Oladipo,
+195,2,1:24.0,66,57,CLE,IND,3,home,DefReb,,,DefReb,,L. James,
+196,2,1:14.0,68,57,CLE,IND,10,home,DK,assist,1,make2,2,T. Thompson,L. James
+197,2,0:53.0,68,60,CLE,IND,21,away,JS,assist,27,make3,3,D. Sabonis,B. Bogdanović
+198,2,0:39.0,68,60,CLE,IND,14,home,Sub,,,,,J. Green,K. Love
+199,2,0:39.0,68,60,CLE,IND,0,away,Sub,,,,,A. Poythress,B. Bogdanović
+200,2,0:32.0,71,60,CLE,IND,7,home,JS,assist,24,make3,3,J. Smith,I. Thomas
+201,2,0:13.0,71,60,CLE,IND,19,away,JS,,26,miss3,0,V. Oladipo,
+202,2,0:09.0,71,60,CLE,IND,4,home,DefReb,,,DefReb,,L. James,
+203,2,0:00.0,73,60,CLE,IND,9,home,JS,,16,make2,2,L. James,
+204,3,11:38.0,73,60,CLE,IND,22,away,JS,,17,miss2,0,D. Collison,
+205,3,11:34.0,73,60,CLE,IND,4,away,OffReb,,,OffReb,,D. Sabonis,
+206,3,11:31.0,73,60,CLE,IND,3,away,JS,,26,miss3,0,V. Oladipo,
+207,3,11:29.0,73,60,CLE,IND,2,home,DefReb,,,DefReb,,L. James,
+208,3,11:25.0,75,60,CLE,IND,4,home,LU,assist,0,make2,2,J. Smith,L. James
+209,3,11:08.0,75,60,CLE,IND,17,away,JS,,17,miss2,0,B. Bogdanović,
+210,3,11:05.0,75,60,CLE,IND,3,home,DefReb,,,DefReb,,L. James,
+211,3,11:02.0,75,60,CLE,IND,3,home,JS,,25,miss3,0,K. Love,
+212,3,10:59.0,75,60,CLE,IND,3,away,DefReb,,,DefReb,,B. Bogdanović,
+213,3,10:45.0,75,62,CLE,IND,14,away,LU,assist,0,make2,2,V. Oladipo,T. Young
+214,3,10:25.0,75,62,CLE,IND,20,home,PersonalFoul,DrawnBy,,PersonalFoul,,V. Oladipo,J. Smith
+215,3,10:13.0,75,62,CLE,IND,12,home,bad pass,steal,,turnover,,L. James,D. Collison
+216,3,10:05.0,75,64,CLE,IND,8,away,LU,,0,make2,2,D. Collison,
+217,3,9:54.0,78,64,CLE,IND,11,home,JS,,25,make3,3,I. Thomas,
+218,3,9:44.0,78,64,CLE,IND,10,away,lost ball,steal,,turnover,,V. Oladipo,J. Smith
+219,3,9:36.0,78,64,CLE,IND,8,home,BadPass,,,turnover,,L. James,
+220,3,9:24.0,78,64,CLE,IND,12,away,lost ball,steal,,turnover,,T. Young,K. Love
+221,3,9:16.0,80,64,CLE,IND,8,home,JS,,21,make2,2,L. James,
+222,3,9:16.0,80,64,CLE,IND,0,away,Timeout,,,,,,
+223,3,9:08.0,80,64,CLE,IND,8,away,JS,,26,miss3,0,B. Bogdanović,
+224,3,9:03.0,80,64,CLE,IND,5,home,DefReb,,,DefReb,,I. Thomas,
+225,3,8:57.0,80,64,CLE,IND,6,home,JS,,17,miss2,0,L. James,
+226,3,8:55.0,80,64,CLE,IND,2,away,DefReb,,,DefReb,,D. Sabonis,
+227,3,8:40.0,80,64,CLE,IND,15,away,JS,,14,miss2,0,D. Collison,
+228,3,8:37.0,80,64,CLE,IND,3,home,DefReb,,,DefReb,,L. James,
+229,3,8:28.0,80,64,CLE,IND,9,home,JS,,29,miss3,0,K. Love,
+230,3,8:25.0,80,64,CLE,IND,3,away,DefReb,,,DefReb,,V. Oladipo,
+231,3,8:15.0,80,67,CLE,IND,10,away,JS,assist,26,make3,3,D. Collison,D. Sabonis
+232,3,7:59.0,80,67,CLE,IND,16,home,JS,block,24,miss3,0,I. Thomas,D. Collison
+233,3,7:58.0,80,67,CLE,IND,1,away,DefReb,,,DefReb,,B. Bogdanović,
+234,3,7:42.0,80,67,CLE,IND,16,away,bad pass,steal,,turnover,,D. Collison,J. Smith
+235,3,7:37.0,80,67,CLE,IND,5,home,JS,,24,miss3,0,J. Smith,
+236,3,7:36.0,80,67,CLE,IND,1,away,DefReb,,,DefReb,,Team,
+237,3,7:19.0,80,67,CLE,IND,17,away,bad pass,steal,,turnover,,D. Sabonis,L. James
+238,3,7:15.0,80,67,CLE,IND,4,home,bad pass,steal,,turnover,,I. Thomas,B. Bogdanović
+239,3,7:06.0,80,70,CLE,IND,9,away,JS,assist,25,make3,3,V. Oladipo,D. Collison
+240,3,7:06.0,80,70,CLE,IND,0,home,Timeout,,,,,,
+241,3,6:47.0,83,70,CLE,IND,19,home,JS,assist,24,make3,3,J. Smith,L. James
+242,3,6:32.0,83,70,CLE,IND,15,away,JS,,12,miss2,0,D. Collison,
+243,3,6:32.0,83,70,CLE,IND,0,away,OffReb,,,OffReb,,D. Sabonis,
+244,3,6:24.0,83,70,CLE,IND,8,away,LU,,3,miss2,0,T. Young,
+245,3,6:19.0,83,70,CLE,IND,5,home,DefReb,,,DefReb,,T. Thompson,
+246,3,6:17.0,83,70,CLE,IND,2,home,JS,,25,miss3,0,I. Thomas,
+247,3,6:17.0,83,70,CLE,IND,0,away,DefReb,,,DefReb,,D. Sabonis,
+248,3,6:12.0,83,70,CLE,IND,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Thompson,T. Young
+249,3,6:12.0,83,71,CLE,IND,0,away,FreeThrow,,,make1,1,T. Young,
+250,3,6:12.0,83,72,CLE,IND,0,away,FreeThrow,,,make1,1,T. Young,
+251,3,5:54.0,83,72,CLE,IND,18,home,lost ball,steal,,turnover,,I. Thomas,D. Collison
+252,3,5:54.0,83,72,CLE,IND,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Smith,D. Collison
+253,3,5:43.0,83,75,CLE,IND,11,away,JS,assist,25,make3,3,V. Oladipo,B. Bogdanović
+254,3,5:26.0,83,75,CLE,IND,17,home,lost ball,steal,,turnover,,I. Thomas,V. Oladipo
+255,3,5:26.0,83,75,CLE,IND,0,home,TechnicalFoul,,,TechnicalFoul,,I. Thomas,
+256,3,5:26.0,83,76,CLE,IND,0,away,FreeThrow,,,make1,1,B. Bogdanović makes technical free throw,
+257,3,5:26.0,83,76,CLE,IND,0,home,Sub,,,,,D. Rose,I. Thomas
+258,3,5:12.0,83,76,CLE,IND,14,away,JS,,11,miss2,0,D. Sabonis,
+259,3,5:10.0,83,76,CLE,IND,2,home,DefReb,,,DefReb,,T. Thompson,
+260,3,4:52.0,83,76,CLE,IND,18,home,JS,,24,miss3,0,L. James,
+261,3,4:49.0,83,76,CLE,IND,3,away,DefReb,,,DefReb,,T. Young,
+262,3,4:48.0,83,76,CLE,IND,1,away,OutOfBoundsLB,,,turnover,,D. Sabonis,
+263,3,4:33.0,83,76,CLE,IND,15,away,Sub,,,,,C. Joseph,D. Collison
+264,3,4:24.0,85,76,CLE,IND,9,home,JS,,20,make2,2,D. Rose,
+265,3,4:08.0,85,76,CLE,IND,16,away,JS,,26,miss3,0,V. Oladipo,
+266,3,4:05.0,85,76,CLE,IND,3,home,DefReb,,,DefReb,,D. Rose,
+267,3,3:53.0,87,76,CLE,IND,12,home,JS,assist,16,make2,2,D. Rose,L. James
+268,3,3:37.0,87,78,CLE,IND,16,away,LU,,1,make2,2,B. Bogdanović,
+269,3,3:20.0,90,78,CLE,IND,17,home,JS,assist,23,make3,3,D. Rose,L. James
+270,3,3:08.0,90,78,CLE,IND,12,away,bad pass,steal,,turnover,,V. Oladipo,J. Smith
+271,3,3:03.0,90,78,CLE,IND,5,home,BadPass,,,turnover,,J. Smith,
+272,3,3:03.0,90,78,CLE,IND,0,away,Sub,,,,,A. Jefferson,D. Sabonis
+273,3,2:49.0,90,78,CLE,IND,14,away,JS,,25,miss3,0,B. Bogdanović,
+274,3,2:46.0,90,78,CLE,IND,3,home,DefReb,,,DefReb,,K. Love,
+275,3,2:45.0,92,78,CLE,IND,1,home,DK,assist,1,make2,2,L. James,K. Love
+276,3,2:45.0,92,78,CLE,IND,0,away,Timeout,,,,,,
+277,3,2:45.0,92,78,CLE,IND,0,away,Sub,,,,,L. Stephenson,B. Bogdanović
+278,3,2:29.0,92,78,CLE,IND,16,away,JS,,12,miss2,0,A. Jefferson,
+279,3,2:27.0,92,78,CLE,IND,2,away,OffReb,,,OffReb,,A. Jefferson,
+280,3,2:25.0,92,78,CLE,IND,2,away,HS,,9,miss2,0,A. Jefferson,
+281,3,2:25.0,92,78,CLE,IND,0,home,DefReb,,,DefReb,,K. Love,
+282,3,2:15.0,94,78,CLE,IND,10,home,JS,,19,make2,2,L. James,
+283,3,1:52.0,94,78,CLE,IND,23,away,BadPass,,,turnover,,L. Stephenson,
+284,3,1:39.0,96,78,CLE,IND,13,home,JS,assist,15,make2,2,K. Love,L. James
+285,3,1:17.0,96,78,CLE,IND,22,away,LU,block,5,miss2,0,V. Oladipo,L. James
+286,3,1:17.0,96,78,CLE,IND,0,away,OffReb,,,OffReb,,Team,
+287,3,1:17.0,96,78,CLE,IND,0,home,Sub,,,,,J. Crowder,L. James
+288,3,1:14.0,96,78,CLE,IND,3,away,JS,,17,miss2,0,C. Joseph,
+289,3,1:09.0,96,78,CLE,IND,5,home,DefReb,,,DefReb,,K. Love,
+290,3,1:05.0,96,78,CLE,IND,4,home,JS,,25,miss3,0,J. Crowder,
+291,3,1:01.0,96,78,CLE,IND,4,away,DefReb,,,DefReb,,C. Joseph,
+292,3,0:48.0,96,78,CLE,IND,13,away,bad pass,steal,,turnover,,V. Oladipo,K. Love
+293,3,0:43.0,96,78,CLE,IND,5,home,JS,,19,miss2,0,D. Rose,
+294,3,0:40.0,96,78,CLE,IND,3,away,DefReb,,,DefReb,,L. Stephenson,
+295,3,0:36.0,96,78,CLE,IND,4,away,bad pass,steal,,turnover,,L. Stephenson,D. Rose
+296,3,0:31.0,96,78,CLE,IND,5,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,T. Young,J. Crowder
+297,3,0:31.0,96,78,CLE,IND,0,home,FreeThrow,,,make1,0,J. Crowder,
+298,3,0:31.0,96,78,CLE,IND,0,away,DefReb,,,DefReb,,T. Young,
+299,3,0:31.0,97,78,CLE,IND,0,home,FreeThrow,,,make1,1,J. Crowder,
+300,3,0:12.0,97,80,CLE,IND,19,away,DK,assist,1,make2,2,T. Young,C. Joseph
+301,3,0:03.0,97,80,CLE,IND,9,home,lost ball,steal,,turnover,,D. Rose,A. Jefferson
+302,3,0:00.0,97,80,CLE,IND,3,away,JS,,42,miss3,0,V. Oladipo,
+303,3,0:00.0,97,80,CLE,IND,0,away,OffReb,,,OffReb,,Team,
+304,4,11:49.0,97,80,CLE,IND,11,home,bad pass,steal,,turnover,,L. James,D. Collison
+305,4,11:45.0,97,82,CLE,IND,4,away,LU,,1,make2,2,B. Bogdanović,
+306,4,11:31.0,97,82,CLE,IND,14,home,JS,,26,miss3,0,C. Frye,
+307,4,11:29.0,97,82,CLE,IND,2,home,OffReb,,,OffReb,,J. Green,
+308,4,11:11.0,99,82,CLE,IND,18,home,JS,,14,make2,2,J. Green,
+309,4,10:56.0,99,84,CLE,IND,15,away,JS,assist,17,make2,2,A. Jefferson,L. Stephenson
+310,4,10:37.0,99,84,CLE,IND,19,home,JS,,20,miss2,0,L. James,
+311,4,10:33.0,99,84,CLE,IND,4,away,DefReb,,,DefReb,,L. Stephenson,
+312,4,10:30.0,99,84,CLE,IND,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Frye,L. Stephenson
+313,4,10:30.0,99,84,CLE,IND,0,away,FreeThrow,,,make1,0,L. Stephenson,
+314,4,10:30.0,99,84,CLE,IND,0,away,OffReb,,,OffReb,,Team,
+315,4,10:30.0,99,85,CLE,IND,0,away,FreeThrow,,,make1,1,L. Stephenson,
+316,4,10:19.0,101,85,CLE,IND,11,home,LU,,1,make2,2,L. James,
+317,4,10:04.0,101,85,CLE,IND,15,away,JS,,26,miss3,0,C. Joseph,
+318,4,10:01.0,101,85,CLE,IND,3,home,DefReb,,,DefReb,,C. Frye,
+319,4,9:58.0,101,85,CLE,IND,3,home,BadPass,,,turnover,,L. James,
+320,4,9:42.0,101,87,CLE,IND,16,away,JS,,17,make2,2,D. Collison,
+321,4,9:21.0,103,87,CLE,IND,21,home,LU,,1,make2,2,L. James,
+322,4,9:08.0,103,89,CLE,IND,13,away,LU,,0,make2,2,L. Stephenson,
+323,4,9:07.0,103,89,CLE,IND,1,home,Traveling,,,turnover,,L. James,
+324,4,8:57.0,103,91,CLE,IND,10,away,DK,assist,0,make2,2,A. Jefferson,B. Bogdanović
+325,4,8:43.0,103,91,CLE,IND,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Joseph,J. Green
+326,4,8:35.0,103,91,CLE,IND,8,home,JS,,24,miss3,0,K. Korver,
+327,4,8:32.0,103,91,CLE,IND,3,away,DefReb,,,DefReb,,A. Jefferson,
+328,4,8:17.0,103,93,CLE,IND,15,away,LU,assist,0,make2,2,C. Joseph,D. Collison
+329,4,8:17.0,103,93,CLE,IND,0,home,Timeout,,,,,,
+330,4,8:17.0,103,93,CLE,IND,0,home,Sub,,,,,I. Thomas,K. Korver
+331,4,8:17.0,103,93,CLE,IND,0,away,Sub,,,,,V. Oladipo,L. Stephenson
+332,4,8:17.0,103,93,CLE,IND,0,away,Sub,,,,,D. Sabonis,A. Jefferson
+333,4,7:59.0,103,93,CLE,IND,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Bogdanović,L. James
+334,4,7:59.0,104,93,CLE,IND,0,home,FreeThrow,,,make1,1,L. James,
+335,4,7:59.0,104,93,CLE,IND,0,home,Sub,,,,,J. Smith,C. Frye
+336,4,7:59.0,105,93,CLE,IND,0,home,FreeThrow,,,make1,1,L. James,
+337,4,7:35.0,105,96,CLE,IND,24,away,JS,assist,25,make3,3,V. Oladipo,C. Joseph
+338,4,7:16.0,105,96,CLE,IND,19,home,JS,,24,miss3,0,J. Smith,
+339,4,7:15.0,105,96,CLE,IND,1,home,OffReb,,,OffReb,,J. Crowder,
+340,4,7:15.0,105,96,CLE,IND,0,home,LU,,0,miss2,0,J. Crowder,
+341,4,7:12.0,105,96,CLE,IND,3,home,OffReb,,,OffReb,,J. Green,
+342,4,7:00.0,105,96,CLE,IND,12,home,JS,,23,miss2,0,I. Thomas,
+343,4,6:57.0,105,96,CLE,IND,3,away,DefReb,,,DefReb,,D. Sabonis,
+344,4,6:46.0,105,98,CLE,IND,11,away,LU,assist,0,make2,2,D. Collison,V. Oladipo
+345,4,6:18.0,107,98,CLE,IND,28,home,JS,assist,14,make2,2,I. Thomas,J. Green
+346,4,6:07.0,107,98,CLE,IND,11,away,LU,block,2,miss2,0,V. Oladipo,J. Green
+347,4,6:07.0,107,98,CLE,IND,0,home,DefReb,,,DefReb,,L. James,
+348,4,5:57.0,107,98,CLE,IND,10,home,JS,,25,miss3,0,I. Thomas,
+349,4,5:57.0,107,98,CLE,IND,0,away,DefReb,,,DefReb,,C. Joseph,
+350,4,5:47.0,107,98,CLE,IND,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Smith,D. Sabonis
+351,4,5:47.0,107,98,CLE,IND,0,home,Sub,,,,,T. Thompson,J. Green
+352,4,5:47.0,107,98,CLE,IND,0,home,Sub,,,,,K. Love,J. Crowder
+353,4,5:47.0,107,98,CLE,IND,0,away,Sub,,,,,T. Young,C. Joseph
+354,4,5:37.0,107,98,CLE,IND,10,away,JS,,6,miss2,0,B. Bogdanović,
+355,4,5:37.0,107,98,CLE,IND,0,home,DefReb,,,DefReb,,K. Love,
+356,4,5:25.0,107,98,CLE,IND,12,home,JS,,22,miss3,0,J. Smith,
+357,4,5:22.0,107,98,CLE,IND,3,away,DefReb,,,DefReb,,T. Young,
+358,4,5:18.0,107,98,CLE,IND,4,away,JS,,25,miss3,0,B. Bogdanović,
+359,4,5:15.0,107,98,CLE,IND,3,home,DefReb,,,DefReb,,L. James,
+360,4,4:55.0,109,98,CLE,IND,20,home,JS,,22,make2,2,L. James,
+361,4,4:54.0,109,98,CLE,IND,1,away,Timeout,,,,,,
+362,4,4:54.0,109,98,CLE,IND,0,away,Sub,,,,,L. Stephenson,B. Bogdanović
+363,4,4:35.0,109,100,CLE,IND,19,away,LU,assist,1,make2,2,D. Sabonis,D. Collison
+364,4,4:18.0,109,100,CLE,IND,17,home,bad pass,steal,,turnover,,T. Thompson,D. Collison
+365,4,4:15.0,109,102,CLE,IND,3,away,LU,,1,make2,2,D. Collison,
+366,4,3:57.0,111,102,CLE,IND,18,home,JS,,16,make2,2,I. Thomas,
+367,4,3:43.0,111,102,CLE,IND,14,away,JS,,16,miss2,0,D. Collison,
+368,4,3:40.0,111,102,CLE,IND,3,home,DefReb,,,DefReb,,K. Love,
+369,4,3:31.0,111,102,CLE,IND,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Stephenson,L. James
+370,4,3:17.0,111,102,CLE,IND,14,home,JS,,25,miss3,0,I. Thomas,
+371,4,3:17.0,111,102,CLE,IND,0,home,OffReb,,,OffReb,,Team,
+372,4,3:17.0,111,102,CLE,IND,0,home,ShotClockViolation,,,turnover,,Team,
+373,4,3:02.0,111,102,CLE,IND,15,away,bad pass,steal,,turnover,,D. Sabonis,L. James
+374,4,2:45.0,111,102,CLE,IND,17,home,lost ball,steal,,turnover,,L. James,T. Young
+375,4,2:38.0,111,104,CLE,IND,7,away,DK,assist,1,make2,2,D. Sabonis,L. Stephenson
+376,4,2:18.0,111,104,CLE,IND,20,home,bad pass,steal,,turnover,,I. Thomas,D. Collison
+377,4,2:10.0,111,104,CLE,IND,8,away,turnover,steal,,turnover,,V. Oladipo,T. Thompson
+378,4,1:55.0,111,104,CLE,IND,15,home,BadPass,,,turnover,,L. James,
+379,4,1:44.0,111,106,CLE,IND,11,away,JS,assist,20,make2,2,T. Young,V. Oladipo
+380,4,1:20.0,111,106,CLE,IND,24,home,bad pass,steal,,turnover,,L. James,D. Sabonis
+381,4,1:11.0,111,106,CLE,IND,9,away,JS,,24,miss3,0,D. Collison,
+382,4,1:07.0,111,106,CLE,IND,4,home,DefReb,,,DefReb,,Team,
+383,4,1:07.0,111,106,CLE,IND,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Young,K. Love
+384,4,1:07.0,111,106,CLE,IND,0,home,Timeout,,,,,,
+385,4,1:07.0,111,106,CLE,IND,0,home,Sub,,,,,K. Korver,T. Thompson
+386,4,0:53.0,113,106,CLE,IND,14,home,LU,,1,make2,2,L. James,
+387,4,0:36.0,113,106,CLE,IND,17,away,lost ball,steal,,turnover,,D. Collison,L. James
+388,4,0:15.0,113,106,CLE,IND,21,home,JS,,25,miss3,0,L. James,
+389,4,0:14.0,113,106,CLE,IND,1,away,DefReb,,,DefReb,,T. Young,
+390,4,0:13.0,113,106,CLE,IND,1,away,bad pass,steal,,turnover,,T. Young,J. Smith
+391,4,0:06.0,113,106,CLE,IND,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Collison,K. Korver
+392,4,0:06.0,114,106,CLE,IND,0,home,FreeThrow,,,make1,1,K. Korver,
+393,4,0:06.0,115,106,CLE,IND,0,home,FreeThrow,,,make1,1,K. Korver,
+394,4,0:06.0,115,106,CLE,IND,0,away,Timeout,,,,,,
+395,4,0:06.0,115,106,CLE,IND,0,home,Sub,,,,,C. Osman,K. Love
+396,4,0:06.0,115,106,CLE,IND,0,home,Sub,,,,,J. Crowder,L. James
+397,4,0:06.0,115,106,CLE,IND,0,away,Sub,,,,,C. Joseph,T. Young
+398,4,0:03.0,115,108,CLE,IND,3,away,LU,,1,make2,2,V. Oladipo,

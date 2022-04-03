@@ -1,0 +1,429 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:35.0,0,0,LAL,ORL,25,home,LU,,1,miss2,0,J. Randle,
+1,1,11:33.0,0,0,LAL,ORL,2,home,OffReb,,,OffReb,,J. Randle,
+2,1,11:33.0,2,0,LAL,ORL,0,home,LU,,0,make2,2,J. Randle,
+3,1,11:19.0,2,0,LAL,ORL,14,away,JS,,17,miss2,0,J. Smith,
+4,1,11:18.0,2,0,LAL,ORL,1,home,DefReb,,,DefReb,,J. Randle,
+5,1,11:16.0,2,0,LAL,ORL,2,home,PersonalFoul,,,,,J. Smith,
+6,1,11:08.0,2,0,LAL,ORL,8,home,LostBall,steal,,turnover,,D. Russell,E. Payton
+7,1,11:03.0,2,0,LAL,ORL,5,away,LostBall,,,turnover,,E. Payton,
+8,1,10:42.0,2,0,LAL,ORL,21,home,HS,,4,miss2,0,R. Hibbert,
+9,1,10:40.0,2,0,LAL,ORL,2,away,DefReb,,,DefReb,,E. Payton,
+10,1,10:29.0,2,0,LAL,ORL,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Russell,E. Payton
+11,1,10:29.0,2,0,LAL,ORL,0,away,FreeThrow,,,make1,0,E. Payton,
+12,1,10:29.0,2,0,LAL,ORL,0,away,OffReb,,,OffReb,,Team,
+13,1,10:29.0,2,0,LAL,ORL,0,away,FreeThrow,,,make1,0,E. Payton,
+14,1,10:28.0,2,0,LAL,ORL,1,home,DefReb,,,DefReb,,J. Randle,
+15,1,10:02.0,5,0,LAL,ORL,26,home,JS,assist,25,make3,3,J. Clarkson,R. Hibbert
+16,1,9:40.0,5,2,LAL,ORL,22,away,HS,assist,2,make2,2,J. Smith,A. Gordon
+17,1,9:11.0,7,2,LAL,ORL,29,home,JS,,6,make2,2,J. Randle,
+18,1,9:01.0,7,2,LAL,ORL,10,away,JS,,24,miss3,0,A. Gordon,
+19,1,9:01.0,7,2,LAL,ORL,0,home,DefReb,,,DefReb,,N. Young,
+20,1,8:42.0,7,2,LAL,ORL,19,home,JS,,25,miss3,0,N. Young,
+21,1,8:41.0,7,2,LAL,ORL,1,away,DefReb,,,DefReb,,J. Smith,
+22,1,8:35.0,7,4,LAL,ORL,6,away,LU,,2,make2,2,E. Fournier,
+23,1,8:15.0,9,4,LAL,ORL,20,home,JS,assist,11,make2,2,D. Russell,J. Clarkson
+24,1,8:02.0,9,4,LAL,ORL,13,away,JS,,24,miss3,0,A. Gordon,
+25,1,8:01.0,9,4,LAL,ORL,1,home,DefReb,,,DefReb,,J. Randle,
+26,1,7:47.0,9,4,LAL,ORL,14,home,LU,block,2,miss2,0,J. Randle,J. Smith
+27,1,7:45.0,9,4,LAL,ORL,2,away,DefReb,,,DefReb,,A. Gordon,
+28,1,7:40.0,9,6,LAL,ORL,5,away,LU,assist,1,make2,2,V. Oladipo,A. Gordon
+29,1,7:22.0,9,6,LAL,ORL,18,home,JS,,17,miss2,0,N. Young,
+30,1,7:20.0,9,6,LAL,ORL,2,away,DefReb,,,DefReb,,A. Gordon,
+31,1,7:08.0,9,8,LAL,ORL,12,away,JS,,17,make2,2,V. Oladipo,
+32,1,6:49.0,9,8,LAL,ORL,19,home,JS,,24,miss3,0,J. Randle,
+33,1,6:48.0,9,8,LAL,ORL,1,away,DefReb,,,DefReb,,V. Oladipo,
+34,1,6:42.0,9,10,LAL,ORL,6,away,JS,,17,make2,2,V. Oladipo,
+35,1,6:32.0,9,10,LAL,ORL,10,home,JS,,26,miss3,0,D. Russell,
+36,1,6:31.0,9,10,LAL,ORL,1,away,DefReb,,,DefReb,,E. Fournier,
+37,1,6:21.0,9,13,LAL,ORL,10,away,JS,assist,24,make3,3,E. Payton,E. Fournier
+38,1,6:02.0,9,13,LAL,ORL,19,home,BadPass,,,turnover,,J. Clarkson,
+39,1,5:42.0,9,13,LAL,ORL,20,away,JS,,9,miss2,0,V. Oladipo,
+40,1,5:40.0,9,13,LAL,ORL,2,home,DefReb,,,DefReb,,D. Russell,
+41,1,5:19.0,11,13,LAL,ORL,21,home,HS,assist,4,make2,2,J. Randle,J. Clarkson
+42,1,5:03.0,11,15,LAL,ORL,16,away,JS,,15,make2,2,E. Payton,
+43,1,4:43.0,11,15,LAL,ORL,20,home,JS,,24,miss3,0,J. Clarkson,
+44,1,4:42.0,11,15,LAL,ORL,1,away,DefReb,,,DefReb,,J. Smith,
+45,1,4:32.0,11,15,LAL,ORL,10,away,JS,,19,miss2,0,J. Smith,
+46,1,4:30.0,11,15,LAL,ORL,2,home,DefReb,,,DefReb,,J. Clarkson,
+47,1,4:20.0,13,15,LAL,ORL,10,home,LU,,2,make2,2,J. Clarkson,
+48,1,4:06.0,13,17,LAL,ORL,14,away,JS,,6,make2,2,E. Payton,
+49,1,3:59.0,13,17,LAL,ORL,7,home,Timeout,,,,,,
+50,1,3:59.0,13,17,LAL,ORL,0,away,Sub,,,,,D. Dedmon,J. Smith
+51,1,3:59.0,13,17,LAL,ORL,0,home,Sub,,,,,B. Bass,R. Hibbert
+52,1,3:59.0,13,17,LAL,ORL,0,home,Sub,,,,,M. Huertas,D. Russell
+53,1,3:52.0,15,17,LAL,ORL,7,home,LU,,1,make2,2,M. Huertas,
+54,1,3:35.0,15,17,LAL,ORL,17,away,JS,,10,miss2,0,E. Payton,
+55,1,3:32.0,15,17,LAL,ORL,3,away,OffReb,,,OffReb,,D. Dedmon,
+56,1,3:29.0,15,19,LAL,ORL,3,away,HS,,10,make2,2,D. Dedmon,
+57,1,3:08.0,15,19,LAL,ORL,21,home,JS,,16,miss2,0,J. Randle,
+58,1,3:07.0,15,19,LAL,ORL,1,away,DefReb,,,DefReb,,D. Dedmon,
+59,1,2:57.0,15,19,LAL,ORL,10,away,LostBall,steal,,turnover,,D. Dedmon,J. Randle
+60,1,2:53.0,17,19,LAL,ORL,4,home,LU,,1,make2,2,J. Randle,
+61,1,2:28.0,17,19,LAL,ORL,25,away,JS,,9,miss2,0,E. Payton,
+62,1,2:26.0,17,19,LAL,ORL,2,away,OffReb,,,OffReb,,E. Payton,
+63,1,2:21.0,17,22,LAL,ORL,5,away,JS,assist,25,make3,3,V. Oladipo,E. Payton
+64,1,2:10.0,17,22,LAL,ORL,11,home,BadPass,steal,,turnover,,J. Randle,V. Oladipo
+65,1,2:07.0,17,24,LAL,ORL,3,away,DK,,0,make2,2,V. Oladipo,
+66,1,1:40.0,17,24,LAL,ORL,27,home,JS,,24,miss3,0,N. Young,
+67,1,1:38.0,17,24,LAL,ORL,2,away,DefReb,,,DefReb,,V. Oladipo,
+68,1,1:30.0,17,24,LAL,ORL,8,away,JS,,11,miss2,0,V. Oladipo,
+69,1,1:25.0,17,24,LAL,ORL,5,home,DefReb,,,DefReb,,M. Huertas,
+70,1,1:14.0,20,24,LAL,ORL,11,home,JS,assist,25,make3,3,J. Clarkson,B. Bass
+71,1,1:07.0,20,24,LAL,ORL,7,away,Timeout,,,,,,
+72,1,1:07.0,20,24,LAL,ORL,0,away,Sub,,,,,M. Hezonja,E. Fournier
+73,1,1:07.0,20,24,LAL,ORL,0,away,Sub,,,,,E. İlyasova,A. Gordon
+74,1,1:07.0,20,24,LAL,ORL,0,away,Sub,,,,,B. Jennings,E. Payton
+75,1,1:07.0,20,24,LAL,ORL,0,home,Sub,,,,,M. World Peace,N. Young
+76,1,1:07.0,20,24,LAL,ORL,0,home,Sub,,,,,L. Nance,J. Randle
+77,1,0:54.0,20,24,LAL,ORL,13,away,JS,,24,miss3,0,V. Oladipo,
+78,1,0:53.0,20,24,LAL,ORL,1,away,OffReb,,,OffReb,,D. Dedmon,
+79,1,0:49.0,20,24,LAL,ORL,4,away,JS,,24,miss3,0,M. Hezonja,
+80,1,0:47.0,20,24,LAL,ORL,2,home,DefReb,,,DefReb,,J. Clarkson,
+81,1,0:27.0,20,24,LAL,ORL,20,home,JS,,24,miss3,0,J. Clarkson,
+82,1,0:26.0,20,24,LAL,ORL,1,away,DefReb,,,DefReb,,E. İlyasova,
+83,1,0:18.0,20,26,LAL,ORL,8,away,HS,assist,12,make2,2,D. Dedmon,B. Jennings
+84,1,0:02.0,20,26,LAL,ORL,16,home,JS,,24,miss3,0,J. Clarkson,
+85,1,0:01.0,20,26,LAL,ORL,1,away,DefReb,,,DefReb,,M. Hezonja,
+86,2,11:38.0,20,26,LAL,ORL,22,away,JS,,25,miss3,0,B. Jennings,
+87,2,11:37.0,20,26,LAL,ORL,1,home,DefReb,,,DefReb,,L. Nance,
+88,2,11:14.0,23,26,LAL,ORL,23,home,JS,assist,24,make3,3,M. World Peace,B. Bass
+89,2,10:57.0,23,26,LAL,ORL,17,away,JS,,21,miss2,0,M. Hezonja,
+90,2,10:55.0,23,26,LAL,ORL,2,home,DefReb,,,DefReb,,B. Bass,
+91,2,10:50.0,23,26,LAL,ORL,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Hezonja,B. Bass
+92,2,10:50.0,24,26,LAL,ORL,0,home,FreeThrow,,,make1,1,B. Bass,
+93,2,10:50.0,25,26,LAL,ORL,0,home,FreeThrow,,,make1,1,B. Bass,
+94,2,10:34.0,25,26,LAL,ORL,16,away,JS,,18,miss2,0,E. İlyasova,
+95,2,10:33.0,25,26,LAL,ORL,1,home,DefReb,,,DefReb,,B. Bass,
+96,2,10:20.0,25,26,LAL,ORL,13,home,JS,,18,miss2,0,M. Huertas,
+97,2,10:18.0,25,26,LAL,ORL,2,away,DefReb,,,DefReb,,E. İlyasova,
+98,2,10:09.0,25,26,LAL,ORL,9,away,JS,,4,miss2,0,B. Jennings,
+99,2,10:08.0,25,26,LAL,ORL,1,home,DefReb,,,DefReb,,B. Bass,
+100,2,10:02.0,25,26,LAL,ORL,6,home,JS,block,3,miss2,0,J. Clarkson,D. Dedmon
+101,2,10:00.0,25,26,LAL,ORL,2,home,OffReb,,,OffReb,,L. Nance,
+102,2,9:54.0,25,26,LAL,ORL,6,home,PersonalFoul,,,,,D. Dedmon,
+103,2,9:47.0,27,26,LAL,ORL,7,home,JS,assist,15,make2,2,L. Nance,M. Huertas
+104,2,9:31.0,27,26,LAL,ORL,16,home,Sub,,,,,D. Russell,J. Clarkson
+105,2,9:20.0,27,26,LAL,ORL,11,away,JS,,25,miss3,0,C. Watson,
+106,2,9:19.0,27,26,LAL,ORL,1,home,DefReb,,,DefReb,,M. World Peace,
+107,2,9:13.0,27,26,LAL,ORL,6,home,3sec,,,turnover,,B. Bass,
+108,2,9:01.0,27,26,LAL,ORL,12,away,JS,,19,miss2,0,B. Jennings,
+109,2,9:00.0,27,26,LAL,ORL,1,away,OffReb,,,OffReb,,Team,
+110,2,8:52.0,27,26,LAL,ORL,8,away,JS,,4,miss2,0,B. Jennings,
+111,2,8:50.0,27,26,LAL,ORL,2,home,DefReb,,,DefReb,,B. Bass,
+112,2,8:50.0,27,26,LAL,ORL,0,home,BadPass,,,turnover,,B. Bass,
+113,2,8:50.0,27,26,LAL,ORL,0,away,Timeout,,,,,,
+114,2,8:50.0,27,26,LAL,ORL,0,away,Sub,,,,,E. Fournier,B. Jennings
+115,2,8:42.0,27,26,LAL,ORL,8,away,JS,,15,miss2,0,E. İlyasova,
+116,2,8:40.0,27,26,LAL,ORL,2,home,DefReb,,,DefReb,,L. Nance,
+117,2,8:28.0,27,26,LAL,ORL,12,home,JS,,22,miss3,0,D. Russell,
+118,2,8:26.0,27,26,LAL,ORL,2,away,DefReb,,,DefReb,,D. Dedmon,
+119,2,8:10.0,27,28,LAL,ORL,16,away,JS,,17,make2,2,M. Hezonja,
+120,2,8:10.0,27,28,LAL,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Bass,M. Hezonja
+121,2,8:10.0,27,29,LAL,ORL,0,away,FreeThrow,,,make1,1,M. Hezonja,
+122,2,7:53.0,27,29,LAL,ORL,17,home,PersonalFoul,,,,,D. Dedmon,
+123,2,7:41.0,27,29,LAL,ORL,12,home,LU,,3,miss2,0,M. Huertas,
+124,2,7:36.0,27,29,LAL,ORL,5,away,DefReb,,,DefReb,,D. Dedmon,
+125,2,7:30.0,27,29,LAL,ORL,6,away,BadPass,steal,,turnover,,M. Hezonja,D. Russell
+126,2,7:26.0,29,29,LAL,ORL,4,home,LU,,1,make2,2,D. Russell,
+127,2,7:17.0,29,29,LAL,ORL,9,away,PersonalFoul,,,,,M. World Peace,
+128,2,7:10.0,29,31,LAL,ORL,7,away,LU,assist,1,make2,2,E. İlyasova,C. Watson
+129,2,6:57.0,29,31,LAL,ORL,13,home,JS,,18,miss2,0,L. Nance,
+130,2,6:55.0,29,31,LAL,ORL,2,away,DefReb,,,DefReb,,D. Dedmon,
+131,2,6:46.0,29,31,LAL,ORL,9,away,JS,,21,miss2,0,E. İlyasova,
+132,2,6:44.0,29,31,LAL,ORL,2,home,DefReb,,,DefReb,,M. Huertas,
+133,2,6:38.0,29,31,LAL,ORL,6,home,LU,,1,miss2,0,B. Bass,
+134,2,6:37.0,29,31,LAL,ORL,1,home,OffReb,,,OffReb,,L. Nance,
+135,2,6:33.0,31,31,LAL,ORL,4,home,HS,,2,make2,2,L. Nance,
+136,2,6:23.0,31,33,LAL,ORL,10,away,JS,assist,19,make2,2,E. Fournier,C. Watson
+137,2,6:02.0,31,33,LAL,ORL,21,home,LU,,2,miss2,0,B. Bass,
+138,2,6:01.0,31,33,LAL,ORL,1,away,DefReb,,,DefReb,,E. İlyasova,
+139,2,5:54.0,31,35,LAL,ORL,7,away,LU,assist,4,make2,2,C. Watson,E. Fournier
+140,2,5:48.0,31,35,LAL,ORL,6,home,Timeout,,,,,,
+141,2,5:48.0,31,35,LAL,ORL,0,away,Sub,,,,,A. Gordon,D. Dedmon
+142,2,5:48.0,31,35,LAL,ORL,0,away,Sub,,,,,V. Oladipo,M. Hezonja
+143,2,5:48.0,31,35,LAL,ORL,0,away,Sub,,,,,J. Smith,E. İlyasova
+144,2,5:48.0,31,35,LAL,ORL,0,home,Sub,,,,,N. Young,B. Bass
+145,2,5:48.0,31,35,LAL,ORL,0,home,Sub,,,,,R. Hibbert,L. Nance
+146,2,5:48.0,31,35,LAL,ORL,0,home,Sub,,,,,J. Randle,M. World Peace
+147,2,5:31.0,31,35,LAL,ORL,17,home,HS,,5,miss2,0,J. Randle,
+148,2,5:29.0,31,35,LAL,ORL,2,away,DefReb,,,DefReb,,V. Oladipo,
+149,2,5:19.0,31,35,LAL,ORL,10,away,JS,,17,miss2,0,J. Smith,
+150,2,5:18.0,31,35,LAL,ORL,1,home,DefReb,,,DefReb,,R. Hibbert,
+151,2,5:08.0,31,35,LAL,ORL,10,home,BadPass,steal,,turnover,,M. Huertas,C. Watson
+152,2,5:03.0,31,35,LAL,ORL,5,away,LU,block,1,miss2,0,V. Oladipo,R. Hibbert
+153,2,5:03.0,31,35,LAL,ORL,0,away,OffReb,,,OffReb,,Team,
+154,2,4:53.0,31,37,LAL,ORL,10,away,LU,assist,1,make2,2,E. Fournier,C. Watson
+155,2,4:37.0,34,37,LAL,ORL,16,home,JS,assist,26,make3,3,D. Russell,J. Randle
+156,2,4:22.0,34,37,LAL,ORL,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,C. Watson
+157,2,4:22.0,34,38,LAL,ORL,0,away,FreeThrow,,,make1,1,C. Watson,
+158,2,4:22.0,34,39,LAL,ORL,0,away,FreeThrow,,,make1,1,C. Watson,
+159,2,4:06.0,34,39,LAL,ORL,16,home,JS,,17,miss2,0,N. Young,
+160,2,4:06.0,34,39,LAL,ORL,0,home,OffReb,,,OffReb,,Team,
+161,2,4:06.0,34,39,LAL,ORL,0,away,LooseBallFoul,,,LooseBallFoul,,J. Smith,
+162,2,4:06.0,34,39,LAL,ORL,0,home,Sub,,,,,J. Clarkson,M. Huertas
+163,2,4:06.0,34,39,LAL,ORL,0,away,Sub,,,,,E. İlyasova,J. Smith
+164,2,3:46.0,34,39,LAL,ORL,20,home,LU,,2,miss2,0,D. Russell,
+165,2,3:43.0,34,39,LAL,ORL,3,away,DefReb,,,DefReb,,C. Watson,
+166,2,3:39.0,34,39,LAL,ORL,4,away,JS,,25,miss3,0,E. Fournier,
+167,2,3:37.0,34,39,LAL,ORL,2,home,DefReb,,,DefReb,,J. Randle,
+168,2,3:17.0,37,39,LAL,ORL,20,home,JS,,27,make3,3,J. Clarkson,
+169,2,3:01.0,37,41,LAL,ORL,16,away,DK,assist,0,make2,2,A. Gordon,C. Watson
+170,2,2:35.0,37,41,LAL,ORL,26,home,JS,,24,miss3,0,N. Young,
+171,2,2:33.0,37,41,LAL,ORL,2,away,DefReb,,,DefReb,,A. Gordon,
+172,2,2:26.0,37,44,LAL,ORL,7,away,JS,assist,24,make3,3,E. Fournier,C. Watson
+173,2,2:16.0,37,44,LAL,ORL,10,home,PersonalFoul,,,,,E. İlyasova,
+174,2,2:16.0,37,44,LAL,ORL,0,away,Timeout,,,,,,
+175,2,2:16.0,38,44,LAL,ORL,0,home,FreeThrow,,,make1,1,R. Hibbert,
+176,2,2:16.0,39,44,LAL,ORL,0,home,FreeThrow,,,make1,1,R. Hibbert,
+177,2,2:09.0,39,44,LAL,ORL,7,away,PersonalFoul,,,,,J. Clarkson,
+178,2,2:00.0,39,44,LAL,ORL,9,away,JS,,24,miss3,0,E. Fournier,
+179,2,1:59.0,39,44,LAL,ORL,1,home,DefReb,,,DefReb,,J. Randle,
+180,2,1:47.0,41,44,LAL,ORL,12,home,LU,assist,2,make2,2,J. Randle,D. Russell
+181,2,1:47.0,41,44,LAL,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,J. Randle
+182,2,1:47.0,41,44,LAL,ORL,0,home,FreeThrow,,,make1,0,J. Randle,
+183,2,1:43.0,41,44,LAL,ORL,4,home,OffReb,,,OffReb,,R. Hibbert,
+184,2,1:42.0,43,44,LAL,ORL,1,home,DK,,0,make2,2,R. Hibbert,
+185,2,1:23.0,43,46,LAL,ORL,19,away,JS,,4,make2,2,E. Fournier,
+186,2,1:23.0,43,46,LAL,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,E. Fournier
+187,2,1:23.0,43,47,LAL,ORL,0,away,FreeThrow,,,make1,1,E. Fournier,
+188,2,1:08.0,43,47,LAL,ORL,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. İlyasova,R. Hibbert
+189,2,1:08.0,43,47,LAL,ORL,0,home,FreeThrow,,,make1,0,R. Hibbert,
+190,2,1:08.0,43,47,LAL,ORL,0,home,OffReb,,,OffReb,,Team,
+191,2,1:08.0,43,47,LAL,ORL,0,home,FreeThrow,,,make1,0,R. Hibbert,
+192,2,1:05.0,43,47,LAL,ORL,3,away,DefReb,,,DefReb,,A. Gordon,
+193,2,0:50.0,43,49,LAL,ORL,15,away,LU,,1,make2,2,E. Fournier,
+194,2,0:43.0,43,49,LAL,ORL,7,home,JS,,23,miss3,0,D. Russell,
+195,2,0:41.0,43,49,LAL,ORL,2,away,DefReb,,,DefReb,,E. Fournier,
+196,2,0:37.0,43,49,LAL,ORL,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Russell,V. Oladipo
+197,2,0:37.0,43,50,LAL,ORL,0,away,FreeThrow,,,make1,1,V. Oladipo,
+198,2,0:37.0,43,51,LAL,ORL,0,away,FreeThrow,,,make1,1,V. Oladipo,
+199,2,0:14.0,45,51,LAL,ORL,23,home,JS,assist,5,make2,2,D. Russell,R. Hibbert
+200,2,0:00.0,45,51,LAL,ORL,14,away,Traveling,,,turnover,,V. Oladipo,
+201,3,11:42.0,45,51,LAL,ORL,18,away,JS,,17,miss2,0,E. Payton,
+202,3,11:41.0,45,51,LAL,ORL,1,home,DefReb,,,DefReb,,J. Clarkson,
+203,3,11:18.0,47,51,LAL,ORL,23,home,LU,assist,2,make2,2,D. Russell,N. Young
+204,3,11:03.0,47,53,LAL,ORL,15,away,JS,assist,18,make2,2,V. Oladipo,E. Payton
+205,3,10:47.0,49,53,LAL,ORL,16,home,JS,assist,19,make2,2,R. Hibbert,J. Clarkson
+206,3,10:20.0,49,53,LAL,ORL,27,away,JS,,18,miss2,0,V. Oladipo,
+207,3,10:18.0,49,53,LAL,ORL,2,home,DefReb,,,DefReb,,J. Clarkson,
+208,3,10:06.0,49,53,LAL,ORL,12,home,PersonalFoul,,,,,V. Oladipo,
+209,3,9:59.0,51,53,LAL,ORL,7,home,LU,,2,make2,2,D. Russell,
+210,3,9:44.0,51,55,LAL,ORL,15,away,JS,assist,7,make2,2,J. Smith,V. Oladipo
+211,3,9:24.0,51,55,LAL,ORL,20,home,PersonalFoul,,,,,J. Smith,
+212,3,9:20.0,53,55,LAL,ORL,4,home,LU,,1,make2,2,D. Russell,
+213,3,9:20.0,53,55,LAL,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Payton,D. Russell
+214,3,9:20.0,54,55,LAL,ORL,0,home,FreeThrow,,,make1,1,D. Russell,
+215,3,8:56.0,54,55,LAL,ORL,24,away,ShotClockViolation,,,turnover,,Team,
+216,3,8:32.0,54,55,LAL,ORL,24,home,JS,,31,miss3,0,J. Clarkson,
+217,3,8:31.0,54,55,LAL,ORL,1,away,DefReb,,,DefReb,,E. Fournier,
+218,3,8:25.0,54,55,LAL,ORL,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,A. Gordon
+219,3,8:25.0,54,55,LAL,ORL,0,away,FreeThrow,,,make1,0,A. Gordon,
+220,3,8:25.0,54,55,LAL,ORL,0,away,OffReb,,,OffReb,,Team,
+221,3,8:25.0,54,55,LAL,ORL,0,away,Sub,,,,,C. Watson,E. Payton
+222,3,8:25.0,54,56,LAL,ORL,0,away,FreeThrow,,,make1,1,A. Gordon,
+223,3,8:10.0,54,56,LAL,ORL,15,home,LostBall,steal,,turnover,,D. Russell,A. Gordon
+224,3,8:05.0,54,58,LAL,ORL,5,away,DK,assist,0,make2,2,A. Gordon,V. Oladipo
+225,3,7:49.0,54,58,LAL,ORL,16,home,PersonalFoul,,,,,J. Smith,
+226,3,7:49.0,54,58,LAL,ORL,0,away,Sub,,,,,D. Dedmon,J. Smith
+227,3,7:39.0,56,58,LAL,ORL,10,home,JS,,7,make2,2,D. Russell,
+228,3,7:21.0,56,60,LAL,ORL,18,away,JS,,4,make2,2,V. Oladipo,
+229,3,7:07.0,58,60,LAL,ORL,14,home,JS,assist,7,make2,2,J. Clarkson,R. Hibbert
+230,3,6:55.0,58,60,LAL,ORL,12,away,PersonalFoul,,,,,J. Clarkson,
+231,3,6:50.0,58,60,LAL,ORL,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,E. Fournier
+232,3,6:50.0,58,60,LAL,ORL,0,away,FreeThrow,,,make1,0,E. Fournier,
+233,3,6:50.0,58,60,LAL,ORL,0,away,OffReb,,,OffReb,,Team,
+234,3,6:50.0,58,61,LAL,ORL,0,away,FreeThrow,,,make1,1,E. Fournier,
+235,3,6:35.0,60,61,LAL,ORL,15,home,LU,assist,0,make2,2,J. Randle,D. Russell
+236,3,6:35.0,60,61,LAL,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,J. Randle
+237,3,6:35.0,61,61,LAL,ORL,0,home,FreeThrow,,,make1,1,J. Randle,
+238,3,6:35.0,61,61,LAL,ORL,0,away,TechnicalFoul,,,TechnicalFoul,,D. Dedmon,
+239,3,6:35.0,62,61,LAL,ORL,0,home,FreeThrow,,,make1,1,J. Clarkson makes technical free throw,
+240,3,6:26.0,62,61,LAL,ORL,9,away,LostBall,steal,,turnover,,C. Watson,D. Russell
+241,3,6:20.0,64,61,LAL,ORL,6,home,LU,,3,make2,2,D. Russell,
+242,3,6:09.0,64,63,LAL,ORL,11,away,JS,,8,make2,2,E. Fournier,
+243,3,5:56.0,64,63,LAL,ORL,13,home,JS,,16,miss2,0,D. Russell,
+244,3,5:55.0,64,63,LAL,ORL,1,home,OffReb,,,OffReb,,J. Randle,
+245,3,5:55.0,64,63,LAL,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,J. Randle
+246,3,5:55.0,64,63,LAL,ORL,0,home,Timeout,,,,,,
+247,3,5:55.0,64,63,LAL,ORL,0,home,Sub,,,,,M. World Peace,N. Young
+248,3,5:55.0,65,63,LAL,ORL,0,home,FreeThrow,,,make1,1,J. Randle,
+249,3,5:55.0,66,63,LAL,ORL,0,home,FreeThrow,,,make1,1,J. Randle,
+250,3,5:48.0,66,63,LAL,ORL,7,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Watson,D. Russell
+251,3,5:48.0,66,63,LAL,ORL,0,away,OffensiveFoul,,,turnover,,C. Watson,
+252,3,5:43.0,66,63,LAL,ORL,5,home,PersonalFoul,,,,,E. Fournier,
+253,3,5:43.0,66,63,LAL,ORL,0,home,FreeThrow,,,make1,0,M. World Peace,
+254,3,5:43.0,66,63,LAL,ORL,0,home,OffReb,,,OffReb,,Team,
+255,3,5:43.0,67,63,LAL,ORL,0,home,FreeThrow,,,make1,1,M. World Peace,
+256,3,5:37.0,67,63,LAL,ORL,6,away,PersonalFoul,,,,,M. World Peace,
+257,3,5:31.0,67,63,LAL,ORL,6,away,PersonalFoul,,,,,M. World Peace,
+258,3,5:31.0,67,64,LAL,ORL,0,away,FreeThrow,,,make1,1,E. Fournier,
+259,3,5:31.0,67,64,LAL,ORL,0,away,Sub,,,,,E. İlyasova,A. Gordon
+260,3,5:31.0,67,65,LAL,ORL,0,away,FreeThrow,,,make1,1,E. Fournier,
+261,3,5:13.0,70,65,LAL,ORL,18,home,JS,,24,make3,3,J. Clarkson,
+262,3,5:01.0,70,65,LAL,ORL,12,away,PersonalFoul,,,,,M. World Peace,
+263,3,5:01.0,70,66,LAL,ORL,0,away,FreeThrow,,,make1,1,V. Oladipo,
+264,3,5:01.0,70,67,LAL,ORL,0,away,FreeThrow,,,make1,1,V. Oladipo,
+265,3,4:50.0,70,67,LAL,ORL,11,home,JS,,25,miss3,0,J. Clarkson,
+266,3,4:48.0,70,67,LAL,ORL,2,home,OffReb,,,OffReb,,J. Randle,
+267,3,4:43.0,72,67,LAL,ORL,5,home,DK,,0,make2,2,J. Randle,
+268,3,4:30.0,72,67,LAL,ORL,13,away,BadPass,steal,,turnover,,E. Fournier,J. Randle
+269,3,4:27.0,74,67,LAL,ORL,3,home,DK,,0,make2,2,J. Randle,
+270,3,4:26.0,74,67,LAL,ORL,1,away,Timeout,,,,,,
+271,3,4:26.0,74,67,LAL,ORL,0,home,Sub,,,,,B. Bass,R. Hibbert
+272,3,4:03.0,74,69,LAL,ORL,23,away,JS,assist,5,make2,2,E. Fournier,E. İlyasova
+273,3,3:51.0,74,69,LAL,ORL,12,home,PersonalFoul,,,,,E. İlyasova,
+274,3,3:51.0,75,69,LAL,ORL,0,home,FreeThrow,,,make1,1,J. Randle,
+275,3,3:51.0,75,69,LAL,ORL,0,home,Sub,,,,,M. Huertas,J. Clarkson
+276,3,3:51.0,76,69,LAL,ORL,0,home,FreeThrow,,,make1,1,J. Randle,
+277,3,3:43.0,76,69,LAL,ORL,8,away,JS,,25,miss3,0,E. İlyasova,
+278,3,3:43.0,76,69,LAL,ORL,0,home,DefReb,,,DefReb,,Team,
+279,3,3:20.0,79,69,LAL,ORL,23,home,JS,assist,25,make3,3,M. Huertas,M. World Peace
+280,3,3:04.0,79,69,LAL,ORL,16,away,PersonalFoul,,,,,J. Randle,
+281,3,3:04.0,79,69,LAL,ORL,0,away,FreeThrow,,,make1,0,C. Watson,
+282,3,3:04.0,79,69,LAL,ORL,0,away,OffReb,,,OffReb,,Team,
+283,3,3:04.0,79,69,LAL,ORL,0,away,Sub,,,,,A. Nicholson,E. İlyasova
+284,3,3:04.0,79,70,LAL,ORL,0,away,FreeThrow,,,make1,1,C. Watson,
+285,3,2:55.0,79,70,LAL,ORL,9,home,BadPass,steal,,turnover,,M. Huertas,D. Dedmon
+286,3,2:49.0,79,70,LAL,ORL,6,home,Sub,,,,,L. Nance,J. Randle
+287,3,2:34.0,79,73,LAL,ORL,15,away,JS,,25,make3,3,V. Oladipo,
+288,3,2:17.0,79,73,LAL,ORL,17,home,DK,block,0,miss2,0,B. Bass,V. Oladipo
+289,3,2:15.0,79,73,LAL,ORL,2,away,DefReb,,,DefReb,,D. Dedmon,
+290,3,2:12.0,79,73,LAL,ORL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Russell,C. Watson
+291,3,2:12.0,79,74,LAL,ORL,0,away,FreeThrow,,,make1,1,C. Watson,
+292,3,2:12.0,79,74,LAL,ORL,0,home,Sub,,,,,R. Kelly,M. World Peace
+293,3,2:12.0,79,74,LAL,ORL,0,away,Sub,,,,,M. Hezonja,E. Fournier
+294,3,2:12.0,79,75,LAL,ORL,0,away,FreeThrow,,,make1,1,C. Watson,
+295,3,1:55.0,82,75,LAL,ORL,17,home,JS,assist,26,make3,3,D. Russell,M. Huertas
+296,3,1:43.0,82,75,LAL,ORL,12,away,JS,,20,miss2,0,V. Oladipo,
+297,3,1:42.0,82,75,LAL,ORL,1,home,DefReb,,,DefReb,,M. Huertas,
+298,3,1:24.0,82,75,LAL,ORL,18,home,JS,,20,miss2,0,R. Kelly,
+299,3,1:23.0,82,75,LAL,ORL,1,away,DefReb,,,DefReb,,D. Dedmon,
+300,3,1:03.0,82,75,LAL,ORL,20,away,LostBall,steal,,turnover,,V. Oladipo,D. Russell
+301,3,0:58.0,82,75,LAL,ORL,5,home,JS,,24,miss3,0,D. Russell,
+302,3,0:56.0,82,75,LAL,ORL,2,home,OffReb,,,OffReb,,L. Nance,
+303,3,0:55.0,82,75,LAL,ORL,1,home,LU,,0,miss2,0,L. Nance,
+304,3,0:53.0,82,75,LAL,ORL,2,home,OffReb,,,OffReb,,R. Kelly,
+305,3,0:53.0,82,75,LAL,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Watson,R. Kelly
+306,3,0:53.0,83,75,LAL,ORL,0,home,FreeThrow,,,make1,1,R. Kelly,
+307,3,0:53.0,84,75,LAL,ORL,0,home,FreeThrow,,,make1,1,R. Kelly,
+308,3,0:43.0,84,75,LAL,ORL,10,away,JS,,19,miss2,0,C. Watson,
+309,3,0:40.0,84,75,LAL,ORL,3,home,DefReb,,,DefReb,,L. Nance,
+310,3,0:23.0,84,75,LAL,ORL,17,home,JS,,16,miss2,0,D. Russell,
+311,3,0:22.0,84,75,LAL,ORL,1,away,DefReb,,,DefReb,,V. Oladipo,
+312,3,0:01.0,84,77,LAL,ORL,21,away,JS,,18,make2,2,V. Oladipo,
+313,3,0:01.0,84,77,LAL,ORL,0,home,JS,,60,miss3,0,L. Nance,
+314,3,0:00.0,84,77,LAL,ORL,1,home,OffReb,,,OffReb,,Team,
+315,4,11:46.0,84,77,LAL,ORL,14,home,Traveling,,,turnover,,L. Nance,
+316,4,11:31.0,84,79,LAL,ORL,15,away,HS,,3,make2,2,A. Nicholson,
+317,4,11:13.0,84,79,LAL,ORL,18,home,JS,,23,miss3,0,M. Huertas,
+318,4,11:12.0,84,79,LAL,ORL,1,home,OffReb,,,OffReb,,L. Nance,
+319,4,11:10.0,86,79,LAL,ORL,2,home,DK,assist,0,make2,2,B. Bass,D. Russell
+320,4,10:55.0,86,79,LAL,ORL,15,away,HS,,7,miss2,0,A. Nicholson,
+321,4,10:53.0,86,79,LAL,ORL,2,home,DefReb,,,DefReb,,M. Huertas,
+322,4,10:50.0,86,79,LAL,ORL,3,home,BadPass,,,turnover,,M. Huertas,
+323,4,10:32.0,86,81,LAL,ORL,18,away,JS,assist,15,make2,2,J. Smith,E. Fournier
+324,4,10:05.0,88,81,LAL,ORL,27,home,JS,,5,make2,2,B. Bass,
+325,4,9:46.0,88,81,LAL,ORL,19,away,JS,,16,miss2,0,M. Hezonja,
+326,4,9:45.0,88,81,LAL,ORL,1,home,DefReb,,,DefReb,,L. Nance,
+327,4,9:37.0,88,81,LAL,ORL,8,home,PersonalFoul,,,,,M. Hezonja,
+328,4,9:37.0,88,81,LAL,ORL,0,home,Sub,,,,,J. Clarkson,D. Russell
+329,4,9:27.0,90,81,LAL,ORL,10,home,HS,assist,4,make2,2,L. Nance,B. Bass
+330,4,9:17.0,90,83,LAL,ORL,10,away,JS,assist,18,make2,2,J. Smith,E. Payton
+331,4,8:57.0,92,83,LAL,ORL,20,home,JS,assist,9,make2,2,J. Clarkson,M. Huertas
+332,4,8:46.0,92,83,LAL,ORL,11,away,PersonalFoul,,,,,J. Clarkson,
+333,4,8:46.0,92,83,LAL,ORL,0,away,Timeout,,,,,,
+334,4,8:29.0,92,83,LAL,ORL,17,away,JS,,27,miss3,0,E. Fournier,
+335,4,8:27.0,92,83,LAL,ORL,2,home,DefReb,,,DefReb,,M. Huertas,
+336,4,8:22.0,92,83,LAL,ORL,5,home,LU,,0,miss2,0,L. Nance,
+337,4,8:18.0,92,83,LAL,ORL,4,away,DefReb,,,DefReb,,E. Fournier,
+338,4,8:12.0,92,83,LAL,ORL,6,away,JS,,26,miss3,0,A. Nicholson,
+339,4,8:11.0,92,83,LAL,ORL,1,home,DefReb,,,DefReb,,B. Bass,
+340,4,7:56.0,94,83,LAL,ORL,15,home,JS,assist,19,make2,2,L. Nance,M. Huertas
+341,4,7:40.0,94,83,LAL,ORL,16,away,JS,,18,miss2,0,J. Smith,
+342,4,7:38.0,94,83,LAL,ORL,2,home,DefReb,,,DefReb,,M. Huertas,
+343,4,7:33.0,94,83,LAL,ORL,5,home,BadPass,,,turnover,,M. Huertas,
+344,4,7:33.0,94,83,LAL,ORL,0,away,Sub,,,,,V. Oladipo,M. Hezonja
+345,4,7:17.0,94,83,LAL,ORL,16,away,LostBall,steal,,turnover,,A. Nicholson,L. Nance
+346,4,7:11.0,96,83,LAL,ORL,6,home,LU,assist,1,make2,2,J. Clarkson,M. Huertas
+347,4,7:11.0,96,83,LAL,ORL,0,home,JumpBallViolation,,,JumpBallViolation,,Team,
+348,4,6:50.0,96,83,LAL,ORL,21,away,JS,,8,miss2,0,E. Payton,
+349,4,6:47.0,96,83,LAL,ORL,3,home,DefReb,,,DefReb,,L. Nance,
+350,4,6:33.0,96,83,LAL,ORL,14,home,LostBall,,,turnover,,M. Huertas,
+351,4,6:33.0,96,83,LAL,ORL,0,away,Sub,,,,,A. Gordon,A. Nicholson
+352,4,6:18.0,96,83,LAL,ORL,15,away,LostBall,steal,,turnover,,J. Smith,L. Nance
+353,4,6:18.0,96,83,LAL,ORL,0,home,PersonalTakeFoul,,,PersonalTakeFoul,,E. Fournier,
+354,4,6:18.0,96,83,LAL,ORL,0,away,Sub,,,,,C. Watson,E. Payton
+355,4,6:05.0,96,83,LAL,ORL,13,home,Traveling,,,turnover,,M. Huertas,
+356,4,5:55.0,96,83,LAL,ORL,10,away,PersonalFoul,,,,,R. Kelly,
+357,4,5:55.0,96,83,LAL,ORL,0,home,Timeout,,,,,,
+358,4,5:45.0,96,83,LAL,ORL,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Kelly,E. Fournier
+359,4,5:45.0,96,84,LAL,ORL,0,away,FreeThrow,,,make1,1,E. Fournier,
+360,4,5:45.0,96,85,LAL,ORL,0,away,FreeThrow,,,make1,1,E. Fournier,
+361,4,5:32.0,96,85,LAL,ORL,13,home,DK,block,0,miss2,0,L. Nance,A. Gordon
+362,4,5:29.0,96,85,LAL,ORL,3,away,DefReb,,,DefReb,,C. Watson,
+363,4,5:13.0,96,87,LAL,ORL,16,away,JS,,12,make2,2,V. Oladipo,
+364,4,5:02.0,96,87,LAL,ORL,11,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,L. Nance,V. Oladipo
+365,4,5:02.0,96,87,LAL,ORL,0,home,OffensiveFoul,,,turnover,,L. Nance,
+366,4,5:02.0,96,87,LAL,ORL,0,home,Sub,,,,,M. World Peace,R. Kelly
+367,4,4:36.0,96,87,LAL,ORL,26,away,LU,,2,miss2,0,C. Watson,
+368,4,4:34.0,96,87,LAL,ORL,2,home,DefReb,,,DefReb,,M. World Peace,
+369,4,4:30.0,96,87,LAL,ORL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,B. Bass
+370,4,4:30.0,97,87,LAL,ORL,0,home,FreeThrow,,,make1,1,B. Bass,
+371,4,4:30.0,97,87,LAL,ORL,0,home,Sub,,,,,J. Randle,L. Nance
+372,4,4:30.0,97,87,LAL,ORL,0,home,Sub,,,,,D. Russell,M. Huertas
+373,4,4:30.0,98,87,LAL,ORL,0,home,FreeThrow,,,make1,1,B. Bass,
+374,4,4:15.0,98,87,LAL,ORL,15,away,JS,,25,miss3,0,C. Watson,
+375,4,4:14.0,98,87,LAL,ORL,1,home,DefReb,,,DefReb,,J. Randle,
+376,4,3:59.0,100,87,LAL,ORL,15,home,LU,assist,1,make2,2,J. Randle,M. World Peace
+377,4,3:46.0,100,87,LAL,ORL,13,away,JS,,20,miss2,0,J. Smith,
+378,4,3:44.0,100,87,LAL,ORL,2,away,OffReb,,,OffReb,,C. Watson,
+379,4,3:41.0,100,87,LAL,ORL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. World Peace,C. Watson
+380,4,3:41.0,100,88,LAL,ORL,0,away,FreeThrow,,,make1,1,C. Watson,
+381,4,3:41.0,100,88,LAL,ORL,0,away,FreeThrow,,,make1,0,C. Watson,
+382,4,3:40.0,100,88,LAL,ORL,1,home,DefReb,,,DefReb,,J. Randle,
+383,4,3:24.0,100,88,LAL,ORL,16,home,JS,,23,miss3,0,J. Clarkson,
+384,4,3:23.0,100,88,LAL,ORL,1,home,OffReb,,,OffReb,,D. Russell,
+385,4,3:01.0,100,88,LAL,ORL,22,home,JS,,26,miss3,0,J. Randle,
+386,4,3:01.0,100,88,LAL,ORL,0,home,OffReb,,,OffReb,,Team,
+387,4,3:01.0,100,88,LAL,ORL,0,away,LooseBallFoul,,,LooseBallFoul,,E. Fournier,
+388,4,2:46.0,103,88,LAL,ORL,15,home,JS,,26,make3,3,J. Clarkson,
+389,4,2:45.0,103,88,LAL,ORL,1,away,Timeout,,,,,,
+390,4,2:45.0,103,88,LAL,ORL,0,home,Sub,,,,,L. Nance,B. Bass
+391,4,2:34.0,103,90,LAL,ORL,11,away,LU,assist,1,make2,2,J. Smith,A. Gordon
+392,4,2:34.0,103,90,LAL,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,J. Smith
+393,4,2:34.0,103,90,LAL,ORL,0,away,FreeThrow,,,make1,0,J. Smith,
+394,4,2:33.0,103,90,LAL,ORL,1,home,DefReb,,,DefReb,,L. Nance,
+395,4,2:15.0,103,90,LAL,ORL,18,home,BadPass,,,turnover,,J. Randle,
+396,4,2:09.0,103,92,LAL,ORL,6,away,LU,,0,make2,2,C. Watson,
+397,4,1:59.0,103,92,LAL,ORL,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,D. Russell
+398,4,1:59.0,103,92,LAL,ORL,0,away,Sub,,,,,E. İlyasova,J. Smith
+399,4,1:59.0,104,92,LAL,ORL,0,home,FreeThrow,,,make1,1,D. Russell,
+400,4,1:59.0,104,92,LAL,ORL,0,home,FreeThrow,,,make1,0,D. Russell,
+401,4,1:58.0,104,92,LAL,ORL,1,away,DefReb,,,DefReb,,E. İlyasova,
+402,4,1:50.0,104,92,LAL,ORL,8,away,LU,block,1,miss2,0,V. Oladipo,M. World Peace
+403,4,1:48.0,104,92,LAL,ORL,2,home,DefReb,,,DefReb,,J. Randle,
+404,4,1:44.0,106,92,LAL,ORL,4,home,JS,,8,make2,2,D. Russell,
+405,4,1:44.0,106,92,LAL,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. İlyasova,D. Russell
+406,4,1:44.0,107,92,LAL,ORL,0,home,FreeThrow,,,make1,1,D. Russell,
+407,4,1:44.0,107,92,LAL,ORL,0,away,Timeout,,,,,,
+408,4,1:44.0,107,92,LAL,ORL,0,away,Sub,,,,,D. Marble,E. Fournier
+409,4,1:44.0,107,92,LAL,ORL,0,away,Sub,,,,,M. Hezonja,A. Gordon
+410,4,1:44.0,107,92,LAL,ORL,0,away,Sub,,,,,A. Nicholson,V. Oladipo
+411,4,1:44.0,107,92,LAL,ORL,0,away,Sub,,,,,S. Napier,E. İlyasova
+412,4,1:44.0,107,92,LAL,ORL,0,away,Sub,,,,,D. Dedmon,C. Watson
+413,4,1:39.0,107,94,LAL,ORL,5,away,LU,,1,make2,2,D. Marble,
+414,4,1:16.0,107,94,LAL,ORL,23,home,JS,,20,miss2,0,D. Russell,
+415,4,1:16.0,107,94,LAL,ORL,0,away,DefReb,,,DefReb,,A. Nicholson,
+416,4,1:16.0,107,94,LAL,ORL,0,away,Timeout,,,,,,
+417,4,1:12.0,107,94,LAL,ORL,4,away,JS,,25,miss3,0,M. Hezonja,
+418,4,1:11.0,107,94,LAL,ORL,1,home,DefReb,,,DefReb,,J. Clarkson,
+419,4,0:46.0,107,94,LAL,ORL,25,home,LU,,2,miss2,0,J. Randle,
+420,4,0:44.0,107,94,LAL,ORL,2,away,DefReb,,,DefReb,,D. Dedmon,
+421,4,0:40.0,107,94,LAL,ORL,4,away,PersonalFoul,,,,,L. Nance,
+422,4,0:40.0,107,94,LAL,ORL,0,away,FreeThrow,,,make1,0,D. Dedmon,
+423,4,0:40.0,107,94,LAL,ORL,0,away,OffReb,,,OffReb,,Team,
+424,4,0:40.0,107,95,LAL,ORL,0,away,FreeThrow,,,make1,1,D. Dedmon,
+425,4,0:20.0,107,95,LAL,ORL,20,home,JS,,25,miss3,0,J. Clarkson,
+426,4,0:19.0,107,95,LAL,ORL,1,away,DefReb,,,DefReb,,D. Dedmon,
+427,4,0:06.0,107,98,LAL,ORL,13,away,JS,assist,24,make3,3,M. Hezonja,S. Napier

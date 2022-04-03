@@ -1,0 +1,457 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:41.0,0,0,DEN,POR,19,away,JS,,25,miss3,0,C. McCollum,
+1,1,11:38.0,0,0,DEN,POR,3,home,DefReb,,,DefReb,,J. Grant,
+2,1,11:30.0,0,0,DEN,POR,8,home,JS,,25,miss3,0,J. Murray,
+3,1,11:26.0,0,0,DEN,POR,4,away,DefReb,,,DefReb,,C. Anthony,
+4,1,11:20.0,0,0,DEN,POR,6,away,LU,,3,miss2,0,D. Lillard,
+5,1,11:18.0,0,0,DEN,POR,2,home,DefReb,,,DefReb,,W. Barton,
+6,1,11:07.0,0,0,DEN,POR,11,home,JS,,6,miss2,0,W. Barton,
+7,1,11:06.0,0,0,DEN,POR,1,home,OffReb,,,OffReb,,W. Barton,
+8,1,11:05.0,0,0,DEN,POR,1,home,LU,,2,miss2,0,W. Barton,
+9,1,11:05.0,0,0,DEN,POR,0,away,DefReb,,,DefReb,,Team,
+10,1,11:05.0,0,0,DEN,POR,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,W. Barton,H. Whiteside
+11,1,10:54.0,0,2,DEN,POR,11,away,DK,assist,0,make2,2,H. Whiteside,D. Lillard
+12,1,10:34.0,2,2,DEN,POR,20,home,DK,assist,1,make2,2,G. Harris,J. Murray
+13,1,10:17.0,2,2,DEN,POR,17,away,JS,,23,miss3,0,C. Anthony,
+14,1,10:14.0,2,2,DEN,POR,3,home,DefReb,,,DefReb,,J. Murray,
+15,1,9:59.0,2,2,DEN,POR,15,home,LU,,2,miss2,0,N. Jokić,
+16,1,9:56.0,2,2,DEN,POR,3,home,OffReb,,,OffReb,,N. Jokić,
+17,1,9:56.0,2,2,DEN,POR,0,home,LU,,1,miss2,0,N. Jokić,
+18,1,9:55.0,2,2,DEN,POR,1,home,OffReb,,,OffReb,,N. Jokić,
+19,1,9:55.0,4,2,DEN,POR,0,home,LU,,1,make2,2,N. Jokić,
+20,1,9:51.0,4,2,DEN,POR,4,away,JS,,27,miss3,0,D. Lillard,
+21,1,9:49.0,4,2,DEN,POR,2,home,DefReb,,,DefReb,,N. Jokić,
+22,1,9:38.0,4,2,DEN,POR,11,home,BadPass,,,turnover,,N. Jokić,
+23,1,9:26.0,4,2,DEN,POR,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Ariza,J. Murray
+24,1,9:26.0,4,2,DEN,POR,0,away,OffensiveFoul,,,turnover,,T. Ariza,
+25,1,9:12.0,4,2,DEN,POR,14,home,OutOfBoundsLB,,,turnover,,N. Jokić,
+26,1,8:56.0,4,2,DEN,POR,16,away,LU,,2,miss2,0,D. Lillard,
+27,1,8:52.0,4,2,DEN,POR,4,away,OffReb,,,OffReb,,H. Whiteside,
+28,1,8:52.0,4,4,DEN,POR,0,away,DK,,0,make2,2,H. Whiteside,
+29,1,8:39.0,4,4,DEN,POR,13,home,D3SecTech,,,,,,
+30,1,8:39.0,5,4,DEN,POR,0,home,FreeThrow,,,make1,1,J. Murray makes technical free throw,
+31,1,8:33.0,8,4,DEN,POR,6,home,JS,assist,23,make3,3,J. Grant,G. Harris
+32,1,8:11.0,8,4,DEN,POR,22,away,JS,,22,miss3,0,T. Ariza,
+33,1,8:08.0,8,4,DEN,POR,3,home,DefReb,,,DefReb,,W. Barton,
+34,1,8:03.0,8,4,DEN,POR,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Anthony,J. Grant
+35,1,7:55.0,10,4,DEN,POR,8,home,LU,assist,2,make2,2,N. Jokić,W. Barton
+36,1,7:44.0,10,4,DEN,POR,11,away,D3SecTech,,,,,,
+37,1,7:44.0,10,5,DEN,POR,0,away,FreeThrow,,,make1,1,D. Lillard makes technical free throw,
+38,1,7:31.0,10,5,DEN,POR,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,C. Anthony
+39,1,7:31.0,10,6,DEN,POR,0,away,FreeThrow,,,make1,1,C. Anthony,
+40,1,7:31.0,10,7,DEN,POR,0,away,FreeThrow,,,make1,1,C. Anthony,
+41,1,7:20.0,12,7,DEN,POR,11,home,LU,assist,3,make2,2,W. Barton,N. Jokić
+42,1,7:10.0,12,9,DEN,POR,10,away,LU,,1,make2,2,D. Lillard,
+43,1,6:44.0,12,9,DEN,POR,26,home,JS,,6,miss2,0,W. Barton,
+44,1,6:42.0,12,9,DEN,POR,2,away,DefReb,,,DefReb,,T. Ariza,
+45,1,6:29.0,12,11,DEN,POR,13,away,HS,assist,7,make2,2,H. Whiteside,D. Lillard
+46,1,6:16.0,14,11,DEN,POR,13,home,DK,assist,1,make2,2,J. Murray,N. Jokić
+47,1,5:56.0,14,14,DEN,POR,20,away,JS,assist,23,make3,3,T. Ariza,C. McCollum
+48,1,5:43.0,14,14,DEN,POR,13,home,JS,,25,miss3,0,N. Jokić,
+49,1,5:41.0,14,14,DEN,POR,2,away,DefReb,,,DefReb,,T. Ariza,
+50,1,5:35.0,14,14,DEN,POR,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,T. Ariza
+51,1,5:35.0,14,14,DEN,POR,0,home,Timeout,,,,,,
+52,1,5:35.0,14,14,DEN,POR,0,home,Sub,,,,,M. Morris,J. Murray
+53,1,5:35.0,14,15,DEN,POR,0,away,FreeThrow,,,make1,1,T. Ariza,
+54,1,5:35.0,14,16,DEN,POR,0,away,FreeThrow,,,make1,1,T. Ariza,
+55,1,5:21.0,14,16,DEN,POR,14,home,JS,,7,miss2,0,N. Jokić,
+56,1,5:18.0,14,16,DEN,POR,3,away,DefReb,,,DefReb,,C. Anthony,
+57,1,5:12.0,14,18,DEN,POR,6,away,LU,,2,make2,2,D. Lillard,
+58,1,5:03.0,17,18,DEN,POR,9,home,JS,assist,24,make3,3,N. Jokić,M. Morris
+59,1,4:45.0,17,18,DEN,POR,18,away,lost ball,steal,,turnover,,T. Ariza,J. Grant
+60,1,4:39.0,17,18,DEN,POR,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,H. Whiteside,N. Jokić
+61,1,4:39.0,17,18,DEN,POR,0,away,Sub,,,,,N. Little,C. Anthony
+62,1,4:39.0,17,18,DEN,POR,0,away,Sub,,,,,G. Trent,C. McCollum
+63,1,4:39.0,17,18,DEN,POR,0,home,Sub,,,,,T. Craig,J. Grant
+64,1,4:39.0,17,18,DEN,POR,0,home,Sub,,,,,J. Hernangómez,G. Harris
+65,1,4:27.0,19,18,DEN,POR,12,home,HS,,6,make2,2,N. Jokić,
+66,1,4:15.0,19,20,DEN,POR,12,away,JS,,13,make2,2,D. Lillard,
+67,1,3:53.0,22,20,DEN,POR,22,home,JS,assist,25,make3,3,W. Barton,N. Jokić
+68,1,3:37.0,22,23,DEN,POR,16,away,JS,assist,25,make3,3,N. Little,D. Lillard
+69,1,3:20.0,22,23,DEN,POR,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Little,J. Hernangómez
+70,1,3:20.0,23,23,DEN,POR,0,home,FreeThrow,,,make1,1,J. Hernangómez,
+71,1,3:20.0,23,23,DEN,POR,0,home,Sub,,,,,M. Beasley,W. Barton
+72,1,3:20.0,24,23,DEN,POR,0,home,FreeThrow,,,make1,1,J. Hernangómez,
+73,1,3:08.0,24,23,DEN,POR,12,away,JS,,6,miss2,0,D. Lillard,
+74,1,3:05.0,24,23,DEN,POR,3,away,OffReb,,,OffReb,,D. Lillard,
+75,1,3:03.0,24,23,DEN,POR,2,away,LU,block,1,miss2,0,D. Lillard,N. Jokić
+76,1,3:03.0,24,23,DEN,POR,0,home,DefReb,,,DefReb,,Team,
+77,1,2:53.0,27,23,DEN,POR,10,home,JS,assist,25,make3,3,N. Jokić,M. Morris
+78,1,2:51.0,27,23,DEN,POR,2,away,Timeout,,,,,,
+79,1,2:51.0,27,23,DEN,POR,0,away,Sub,,,,,A. Simons,T. Ariza
+80,1,2:51.0,27,23,DEN,POR,0,away,Sub,,,,,C. Swanigan,H. Whiteside
+81,1,2:33.0,27,23,DEN,POR,18,away,Traveling,,,turnover,,A. Simons,
+82,1,2:23.0,27,23,DEN,POR,10,home,bad pass,steal,,turnover,,J. Hernangómez,G. Trent
+83,1,2:15.0,27,23,DEN,POR,8,away,LU,,2,miss2,0,N. Little,
+84,1,2:13.0,27,23,DEN,POR,2,home,DefReb,,,DefReb,,J. Hernangómez,
+85,1,2:08.0,30,23,DEN,POR,5,home,JS,,27,make3,3,N. Jokić,
+86,1,1:48.0,30,23,DEN,POR,20,away,JS,,13,miss2,0,D. Lillard,
+87,1,1:46.0,30,23,DEN,POR,2,home,DefReb,,,DefReb,,N. Jokić,
+88,1,1:39.0,30,23,DEN,POR,7,home,LU,,3,miss2,0,T. Craig,
+89,1,1:38.0,30,23,DEN,POR,1,home,OffReb,,,OffReb,,N. Jokić,
+90,1,1:35.0,30,23,DEN,POR,3,home,JS,,23,miss3,0,M. Beasley,
+91,1,1:31.0,30,23,DEN,POR,4,away,DefReb,,,DefReb,,C. Swanigan,
+92,1,1:26.0,30,23,DEN,POR,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Craig,D. Lillard
+93,1,1:26.0,30,24,DEN,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+94,1,1:26.0,30,24,DEN,POR,0,home,Sub,,,,,J. Grant,N. Jokić
+95,1,1:26.0,30,25,DEN,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+96,1,1:12.0,30,25,DEN,POR,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Swanigan,J. Grant
+97,1,1:12.0,31,25,DEN,POR,0,home,FreeThrow,,,make1,1,J. Grant,
+98,1,1:12.0,32,25,DEN,POR,0,home,FreeThrow,,,make1,1,J. Grant,
+99,1,0:58.0,32,27,DEN,POR,14,away,LU,,0,make2,2,D. Lillard,
+100,1,0:45.0,34,27,DEN,POR,13,home,JS,,21,make2,2,M. Morris,
+101,1,0:33.0,34,27,DEN,POR,12,away,DK,block,2,miss2,0,D. Lillard,J. Grant
+102,1,0:30.0,34,27,DEN,POR,3,away,OffReb,,,OffReb,,C. Swanigan,
+103,1,0:29.0,34,27,DEN,POR,1,away,JS,,25,miss3,0,A. Simons,
+104,1,0:26.0,34,27,DEN,POR,3,home,DefReb,,,DefReb,,J. Hernangómez,
+105,1,0:03.0,34,27,DEN,POR,23,home,LU,,4,miss2,0,M. Morris,
+106,1,0:03.0,34,27,DEN,POR,0,away,DefReb,,,DefReb,,Team,
+107,1,0:03.0,34,27,DEN,POR,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Craig,G. Trent
+108,1,0:03.0,34,27,DEN,POR,0,away,FreeThrow,,,make1,0,G. Trent,
+109,1,0:03.0,34,27,DEN,POR,0,away,OffReb,,,OffReb,,Team,
+110,1,0:03.0,34,28,DEN,POR,0,away,FreeThrow,,,make1,1,G. Trent,
+111,1,0:01.0,36,28,DEN,POR,2,home,LU,,2,make2,2,M. Beasley,
+112,1,0:01.0,36,28,DEN,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Trent,M. Beasley
+113,1,0:00.0,36,28,DEN,POR,1,home,InstantReplay,,,RulingStands,,Team,
+114,1,0:01.0,37,28,DEN,POR,719,home,FreeThrow,,,make1,1,M. Beasley,
+115,2,11:46.0,39,28,DEN,POR,14,home,DK,assist,1,make2,2,J. Grant,M. Morris
+116,2,11:27.0,39,28,DEN,POR,19,away,JS,,13,miss2,0,C. McCollum,
+117,2,11:24.0,39,28,DEN,POR,3,home,DefReb,,,DefReb,,J. Grant,
+118,2,11:17.0,39,28,DEN,POR,7,home,Traveling,,,turnover,,J. Hernangómez,
+119,2,10:58.0,39,28,DEN,POR,19,away,LU,,2,miss2,0,C. Anthony,
+120,2,10:56.0,39,28,DEN,POR,2,home,DefReb,,,DefReb,,J. Hernangómez,
+121,2,10:52.0,39,28,DEN,POR,4,home,JS,,26,miss3,0,M. Beasley,
+122,2,10:48.0,39,28,DEN,POR,4,away,DefReb,,,DefReb,,G. Trent,
+123,2,10:39.0,39,28,DEN,POR,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Hernangómez,C. Anthony
+124,2,10:28.0,39,28,DEN,POR,11,away,JS,,5,miss2,0,C. McCollum,
+125,2,10:22.0,39,28,DEN,POR,6,away,OffReb,,,OffReb,,C. McCollum,
+126,2,10:22.0,39,30,DEN,POR,0,away,LU,,0,make2,2,C. McCollum,
+127,2,10:09.0,39,30,DEN,POR,13,home,LU,,2,miss2,0,J. Hernangómez,
+128,2,10:07.0,39,30,DEN,POR,2,away,DefReb,,,DefReb,,G. Trent,
+129,2,10:04.0,39,30,DEN,POR,3,away,JS,,26,miss3,0,C. Anthony,
+130,2,10:01.0,39,30,DEN,POR,3,home,DefReb,,,DefReb,,J. Hernangómez,
+131,2,9:41.0,39,30,DEN,POR,20,home,JS,,25,miss3,0,M. Beasley,
+132,2,9:38.0,39,30,DEN,POR,3,home,OffReb,,,OffReb,,T. Craig,
+133,2,9:36.0,41,30,DEN,POR,2,home,LU,,2,make2,2,T. Craig,
+134,2,9:15.0,41,30,DEN,POR,21,away,JS,,27,miss3,0,G. Trent,
+135,2,9:12.0,41,30,DEN,POR,3,home,DefReb,,,DefReb,,J. Hernangómez,
+136,2,9:05.0,41,30,DEN,POR,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Simons,J. Grant
+137,2,9:05.0,41,30,DEN,POR,0,away,Sub,,,,,T. Ariza,G. Trent
+138,2,8:56.0,41,30,DEN,POR,9,home,JS,,15,miss2,0,J. Grant,
+139,2,8:53.0,41,30,DEN,POR,3,away,DefReb,,,DefReb,,T. Ariza,
+140,2,8:32.0,41,30,DEN,POR,21,away,JS,block,12,miss2,0,C. McCollum,T. Craig
+141,2,8:29.0,41,30,DEN,POR,3,home,DefReb,,,DefReb,,T. Craig,
+142,2,8:27.0,41,30,DEN,POR,2,home,JS,,24,miss3,0,M. Morris,
+143,2,8:23.0,41,30,DEN,POR,4,home,OffReb,,,OffReb,,J. Grant,
+144,2,8:22.0,41,30,DEN,POR,1,home,LU,,1,miss2,0,J. Grant,
+145,2,8:22.0,41,30,DEN,POR,0,away,DefReb,,,DefReb,,W. Gabriel,
+146,2,8:21.0,41,30,DEN,POR,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Grant,W. Gabriel
+147,2,8:21.0,41,30,DEN,POR,0,away,Sub,,,,,H. Whiteside,W. Gabriel
+148,2,8:21.0,41,30,DEN,POR,0,home,Sub,,,,,N. Jokić,J. Grant
+149,2,7:59.0,41,30,DEN,POR,22,away,JS,,25,miss3,0,C. McCollum,
+150,2,7:55.0,41,30,DEN,POR,4,home,DefReb,,,DefReb,,J. Hernangómez,
+151,2,7:54.0,41,30,DEN,POR,1,home,FlagrantFoul1,DrawnBy,,FlagrantFoul1,,C. McCollum,T. Craig
+152,2,7:54.0,41,30,DEN,POR,0,home,InstantReplay,,,RulingStands,,Team,
+153,2,7:54.0,41,30,DEN,POR,0,home,FreeThrow,,,make1,0,T. Craig misses flagrant free throw 1 of 2,
+154,2,7:54.0,41,30,DEN,POR,0,home,OffReb,,,OffReb,,Team,
+155,2,7:54.0,42,30,DEN,POR,0,home,FreeThrow,,,make1,1,T. Craig makes flagrant free throw 2 of 2,
+156,2,7:45.0,42,30,DEN,POR,9,home,JS,,26,miss3,0,N. Jokić,
+157,2,7:42.0,42,30,DEN,POR,3,away,DefReb,,,DefReb,,T. Ariza,
+158,2,7:22.0,42,32,DEN,POR,20,away,LU,,2,make2,2,A. Simons,
+159,2,7:09.0,42,32,DEN,POR,13,home,JS,,13,miss2,0,M. Beasley,
+160,2,7:06.0,42,32,DEN,POR,3,away,DefReb,,,DefReb,,H. Whiteside,
+161,2,6:52.0,42,32,DEN,POR,14,away,HS,,5,miss2,0,H. Whiteside,
+162,2,6:51.0,42,32,DEN,POR,1,home,DefReb,,,DefReb,,N. Jokić,
+163,2,6:33.0,42,32,DEN,POR,18,home,JS,block,4,miss2,0,M. Morris,C. McCollum
+164,2,6:30.0,42,32,DEN,POR,3,home,OffReb,,,OffReb,,N. Jokić,
+165,2,6:30.0,44,32,DEN,POR,0,home,LU,,1,make2,2,N. Jokić,
+166,2,6:11.0,44,32,DEN,POR,19,away,JS,,22,miss3,0,T. Ariza,
+167,2,6:09.0,44,32,DEN,POR,2,home,DefReb,,,DefReb,,T. Craig,
+168,2,6:04.0,44,32,DEN,POR,5,home,LU,block,2,miss2,0,T. Craig,H. Whiteside
+169,2,6:04.0,44,32,DEN,POR,0,home,OffReb,,,OffReb,,Team,
+170,2,6:04.0,44,32,DEN,POR,0,home,Timeout,,,,,,
+171,2,6:04.0,44,32,DEN,POR,0,away,Sub,,,,,D. Lillard,A. Simons
+172,2,6:04.0,44,32,DEN,POR,0,home,Sub,,,,,W. Barton,M. Beasley
+173,2,6:04.0,44,32,DEN,POR,0,home,Sub,,,,,G. Harris,T. Craig
+174,2,6:04.0,44,32,DEN,POR,0,home,Sub,,,,,J. Murray,M. Morris
+175,2,5:48.0,46,32,DEN,POR,16,home,DK,assist,1,make2,2,J. Hernangómez,N. Jokić
+176,2,5:48.0,46,32,DEN,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Anthony,J. Hernangómez
+177,2,5:48.0,47,32,DEN,POR,0,home,FreeThrow,,,make1,1,J. Hernangómez,
+178,2,5:34.0,47,32,DEN,POR,14,away,JS,,25,miss3,0,D. Lillard,
+179,2,5:34.0,47,32,DEN,POR,0,home,DefReb,,,DefReb,,Team,
+180,2,5:18.0,47,32,DEN,POR,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. McCollum,W. Barton
+181,2,5:18.0,47,32,DEN,POR,0,away,Sub,,,,,G. Trent,C. Anthony
+182,2,5:16.0,47,32,DEN,POR,2,home,LU,block,5,miss2,0,J. Hernangómez,G. Trent
+183,2,5:13.0,47,32,DEN,POR,3,home,OffReb,,,OffReb,,J. Hernangómez,
+184,2,5:07.0,47,32,DEN,POR,6,home,JS,,24,miss3,0,J. Murray,
+185,2,5:03.0,47,32,DEN,POR,4,away,DefReb,,,DefReb,,H. Whiteside,
+186,2,4:57.0,47,34,DEN,POR,6,away,LU,assist,1,make2,2,G. Trent,D. Lillard
+187,2,4:46.0,49,34,DEN,POR,11,home,LU,,1,make2,2,W. Barton,
+188,2,4:31.0,49,34,DEN,POR,15,away,JS,,23,miss3,0,G. Trent,
+189,2,4:28.0,49,34,DEN,POR,3,home,DefReb,,,DefReb,,W. Barton,
+190,2,4:21.0,49,34,DEN,POR,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ariza,J. Murray
+191,2,4:21.0,50,34,DEN,POR,0,home,FreeThrow,,,make1,1,J. Murray,
+192,2,4:21.0,50,34,DEN,POR,0,home,Sub,,,,,J. Grant,J. Hernangómez
+193,2,4:21.0,51,34,DEN,POR,0,home,FreeThrow,,,make1,1,J. Murray,
+194,2,4:00.0,51,34,DEN,POR,21,away,JS,,6,miss2,0,D. Lillard,
+195,2,3:58.0,51,34,DEN,POR,2,home,DefReb,,,DefReb,,N. Jokić,
+196,2,3:55.0,51,34,DEN,POR,3,home,bad pass,steal,,turnover,,J. Murray,T. Ariza
+197,2,3:45.0,51,34,DEN,POR,10,away,JS,,18,miss2,0,C. McCollum,
+198,2,3:42.0,51,34,DEN,POR,3,home,DefReb,,,DefReb,,N. Jokić,
+199,2,3:32.0,51,34,DEN,POR,10,home,DK,block,2,miss2,0,G. Harris,G. Trent
+200,2,3:32.0,51,34,DEN,POR,0,home,OffReb,,,OffReb,,Team,
+201,2,3:20.0,53,34,DEN,POR,12,home,LU,assist,2,make2,2,J. Murray,N. Jokić
+202,2,3:20.0,53,34,DEN,POR,0,away,Timeout,,,,,,
+203,2,3:20.0,53,34,DEN,POR,0,away,Sub,,,,,C. Anthony,G. Trent
+204,2,3:06.0,53,34,DEN,POR,14,away,LU,block,2,miss2,0,D. Lillard,N. Jokić
+205,2,3:06.0,53,34,DEN,POR,0,away,OffReb,,,OffReb,,Team,
+206,2,2:59.0,53,34,DEN,POR,7,away,JS,,12,miss2,0,C. Anthony,
+207,2,2:57.0,53,34,DEN,POR,2,home,DefReb,,,DefReb,,W. Barton,
+208,2,2:50.0,55,34,DEN,POR,7,home,DK,,1,make2,2,J. Grant,
+209,2,2:28.0,55,34,DEN,POR,22,away,LU,,1,miss2,0,H. Whiteside,
+210,2,2:25.0,55,34,DEN,POR,3,home,DefReb,,,DefReb,,J. Murray,
+211,2,2:20.0,58,34,DEN,POR,5,home,JS,assist,26,make3,3,J. Grant,J. Murray
+212,2,1:56.0,58,34,DEN,POR,24,away,LU,,1,miss2,0,H. Whiteside,
+213,2,1:55.0,58,34,DEN,POR,1,home,DefReb,,,DefReb,,J. Grant,
+214,2,1:50.0,58,34,DEN,POR,5,home,LU,,2,miss2,0,J. Grant,
+215,2,1:49.0,58,34,DEN,POR,1,away,DefReb,,,DefReb,,T. Ariza,
+216,2,1:41.0,58,34,DEN,POR,8,away,JS,,25,miss3,0,C. Anthony,
+217,2,1:39.0,58,34,DEN,POR,2,home,DefReb,,,DefReb,,Team,
+218,2,1:39.0,58,34,DEN,POR,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,H. Whiteside,N. Jokić
+219,2,1:39.0,59,34,DEN,POR,0,home,FreeThrow,,,make1,1,N. Jokić,
+220,2,1:39.0,60,34,DEN,POR,0,home,FreeThrow,,,make1,1,N. Jokić,
+221,2,1:19.0,60,34,DEN,POR,20,away,JS,,25,miss3,0,C. McCollum,
+222,2,1:16.0,60,34,DEN,POR,3,home,DefReb,,,DefReb,,N. Jokić,
+223,2,1:01.0,60,34,DEN,POR,15,home,Traveling,,,turnover,,J. Murray,
+224,2,0:53.0,60,36,DEN,POR,8,away,LU,,0,make2,2,D. Lillard,
+225,2,0:38.0,62,36,DEN,POR,15,home,DK,assist,1,make2,2,J. Grant,J. Murray
+226,2,0:33.0,62,38,DEN,POR,5,away,JS,,13,make2,2,C. McCollum,
+227,2,0:10.0,64,38,DEN,POR,23,home,JS,assist,20,make2,2,N. Jokić,J. Murray
+228,2,0:00.0,64,38,DEN,POR,10,away,JS,,23,miss3,0,D. Lillard,
+229,2,0:00.0,64,38,DEN,POR,0,away,OffReb,,,OffReb,,Team,
+230,3,11:51.0,66,38,DEN,POR,9,home,JS,assist,18,make2,2,J. Murray,J. Grant
+231,3,11:35.0,66,40,DEN,POR,16,away,JS,assist,2,make2,2,C. McCollum,T. Ariza
+232,3,11:35.0,66,40,DEN,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Barton,C. McCollum
+233,3,11:35.0,66,41,DEN,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
+234,3,11:10.0,68,41,DEN,POR,25,home,JS,,7,make2,2,N. Jokić,
+235,3,10:54.0,68,41,DEN,POR,16,away,JS,,14,miss2,0,H. Whiteside,
+236,3,10:51.0,68,41,DEN,POR,3,home,DefReb,,,DefReb,,N. Jokić,
+237,3,10:46.0,68,41,DEN,POR,5,home,BadPass,,,turnover,,N. Jokić,
+238,3,10:33.0,68,44,DEN,POR,13,away,JS,assist,25,make3,3,C. McCollum,T. Ariza
+239,3,10:12.0,71,44,DEN,POR,21,home,JS,assist,23,make3,3,J. Murray,N. Jokić
+240,3,10:02.0,71,44,DEN,POR,10,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,H. Whiteside,W. Barton
+241,3,10:02.0,71,44,DEN,POR,0,away,OffensiveFoul,,,turnover,,H. Whiteside,
+242,3,9:46.0,71,44,DEN,POR,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Whiteside,J. Murray
+243,3,9:46.0,71,44,DEN,POR,0,home,FreeThrow,,,make1,0,J. Murray,
+244,3,9:46.0,71,44,DEN,POR,0,home,OffReb,,,OffReb,,Team,
+245,3,9:46.0,72,44,DEN,POR,0,home,FreeThrow,,,make1,1,J. Murray,
+246,3,9:38.0,72,47,DEN,POR,8,away,JS,,27,make3,3,D. Lillard,
+247,3,9:12.0,72,47,DEN,POR,26,home,LU,,3,miss2,0,N. Jokić,
+248,3,9:11.0,72,47,DEN,POR,1,away,DefReb,,,DefReb,,T. Ariza,
+249,3,8:58.0,72,47,DEN,POR,13,away,JS,,27,miss3,0,C. McCollum,
+250,3,8:56.0,72,47,DEN,POR,2,home,DefReb,,,DefReb,,Team,
+251,3,8:48.0,75,47,DEN,POR,8,home,JS,assist,25,make3,3,W. Barton,G. Harris
+252,3,8:26.0,75,47,DEN,POR,22,away,JS,,25,miss3,0,D. Lillard,
+253,3,8:23.0,75,47,DEN,POR,3,home,DefReb,,,DefReb,,N. Jokić,
+254,3,8:18.0,78,47,DEN,POR,5,home,JS,assist,26,make3,3,W. Barton,J. Grant
+255,3,8:17.0,78,47,DEN,POR,1,away,Timeout,,,,,,
+256,3,8:06.0,78,47,DEN,POR,11,away,bad pass,steal,,turnover,,C. McCollum,N. Jokić
+257,3,8:04.0,78,47,DEN,POR,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Anthony,J. Murray
+258,3,8:04.0,78,47,DEN,POR,0,home,InstantReplay,,,RulingStands,,Team,
+259,3,8:04.0,78,47,DEN,POR,0,home,FreeThrow,,,make1,0,J. Murray,
+260,3,8:04.0,78,47,DEN,POR,0,home,OffReb,,,OffReb,,Team,
+261,3,8:04.0,79,47,DEN,POR,0,home,FreeThrow,,,make1,1,J. Murray,
+262,3,7:48.0,79,47,DEN,POR,16,away,LU,,1,miss2,0,D. Lillard,
+263,3,7:43.0,79,47,DEN,POR,5,away,OffReb,,,OffReb,,H. Whiteside,
+264,3,7:43.0,79,49,DEN,POR,0,away,LU,,1,make2,2,H. Whiteside,
+265,3,7:24.0,79,49,DEN,POR,19,home,JS,,24,miss3,0,J. Murray,
+266,3,7:22.0,79,49,DEN,POR,2,away,DefReb,,,DefReb,,H. Whiteside,
+267,3,7:15.0,79,52,DEN,POR,7,away,JS,assist,23,make3,3,C. McCollum,D. Lillard
+268,3,6:54.0,82,52,DEN,POR,21,home,JS,,24,make3,3,J. Murray,
+269,3,6:41.0,82,54,DEN,POR,13,away,LU,,1,make2,2,D. Lillard,
+270,3,6:40.0,82,54,DEN,POR,1,home,Timeout,,,,,,
+271,3,6:30.0,82,54,DEN,POR,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,H. Whiteside,N. Jokić
+272,3,6:30.0,82,54,DEN,POR,0,away,Sub,,,,,C. Swanigan,H. Whiteside
+273,3,6:22.0,85,54,DEN,POR,8,home,JS,assist,25,make3,3,W. Barton,J. Murray
+274,3,6:03.0,85,56,DEN,POR,19,away,HS,assist,5,make2,2,C. Swanigan,D. Lillard
+275,3,5:42.0,88,56,DEN,POR,21,home,JS,assist,24,make3,3,J. Murray,N. Jokić
+276,3,5:29.0,88,56,DEN,POR,13,away,JS,,26,miss3,0,D. Lillard,
+277,3,5:28.0,88,56,DEN,POR,1,home,DefReb,,,DefReb,,Team,
+278,3,5:28.0,88,56,DEN,POR,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Swanigan,N. Jokić
+279,3,5:15.0,90,56,DEN,POR,13,home,JS,assist,9,make2,2,N. Jokić,J. Murray
+280,3,5:01.0,90,58,DEN,POR,14,away,LU,,2,make2,2,C. McCollum,
+281,3,4:42.0,90,58,DEN,POR,19,home,LU,,3,miss2,0,G. Harris,
+282,3,4:40.0,90,58,DEN,POR,2,away,DefReb,,,DefReb,,C. Swanigan,
+283,3,4:36.0,90,61,DEN,POR,4,away,JS,assist,27,make3,3,C. McCollum,D. Lillard
+284,3,4:34.0,90,61,DEN,POR,2,home,Timeout,,,,,,
+285,3,4:34.0,90,61,DEN,POR,0,home,Sub,,,,,M. Morris,J. Murray
+286,3,4:21.0,92,61,DEN,POR,13,home,HS,assist,2,make2,2,N. Jokić,G. Harris
+287,3,4:11.0,92,63,DEN,POR,10,away,JS,,7,make2,2,C. McCollum,
+288,3,3:56.0,92,63,DEN,POR,15,home,JS,,25,miss3,0,J. Grant,
+289,3,3:53.0,92,63,DEN,POR,3,away,DefReb,,,DefReb,,C. McCollum,
+290,3,3:47.0,92,63,DEN,POR,6,away,LU,block,4,miss2,0,C. McCollum,N. Jokić
+291,3,3:47.0,92,63,DEN,POR,0,home,DefReb,,,DefReb,,Team,
+292,3,3:47.0,92,63,DEN,POR,0,home,Sub,,,,,T. Craig,J. Grant
+293,3,3:47.0,92,63,DEN,POR,0,home,Sub,,,,,J. Hernangómez,G. Harris
+294,3,3:32.0,95,63,DEN,POR,15,home,JS,assist,25,make3,3,M. Morris,N. Jokić
+295,3,3:22.0,95,63,DEN,POR,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Craig,D. Lillard
+296,3,3:22.0,95,63,DEN,POR,0,away,Sub,,,,,N. Little,C. Anthony
+297,3,3:22.0,95,63,DEN,POR,0,away,Sub,,,,,G. Trent,T. Ariza
+298,3,3:05.0,95,66,DEN,POR,17,away,JS,,27,make3,3,G. Trent,
+299,3,2:42.0,97,66,DEN,POR,23,home,LU,assist,1,make2,2,M. Morris,N. Jokić
+300,3,2:38.0,97,66,DEN,POR,4,away,bad pass,steal,,turnover,,C. McCollum,N. Jokić
+301,3,2:35.0,97,66,DEN,POR,3,home,bad pass,steal,,turnover,,N. Jokić,D. Lillard
+302,3,2:35.0,97,66,DEN,POR,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Craig,D. Lillard
+303,3,2:35.0,97,66,DEN,POR,0,home,Sub,,,,,M. Beasley,W. Barton
+304,3,2:20.0,97,66,DEN,POR,15,away,LU,,5,miss2,0,D. Lillard,
+305,3,2:17.0,97,66,DEN,POR,3,away,OffReb,,,OffReb,,N. Little,
+306,3,2:15.0,97,66,DEN,POR,2,away,JS,,25,miss3,0,G. Trent,
+307,3,2:09.0,97,66,DEN,POR,6,away,OffReb,,,OffReb,,C. Swanigan,
+308,3,2:08.0,97,66,DEN,POR,1,away,LU,block,1,miss2,0,C. Swanigan,J. Hernangómez
+309,3,2:08.0,97,66,DEN,POR,0,home,DefReb,,,DefReb,,N. Jokić,
+310,3,2:05.0,97,66,DEN,POR,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. McCollum,M. Beasley
+311,3,2:05.0,97,66,DEN,POR,0,home,TechnicalFoul,,,TechnicalFoul,,D. Lillard,
+312,3,2:05.0,97,66,DEN,POR,0,home,FreeThrow,,,make1,0,M. Beasley misses technical free throw,
+313,3,2:05.0,97,66,DEN,POR,0,home,OffReb,,,OffReb,,Team,
+314,3,2:05.0,97,66,DEN,POR,0,home,FreeThrow,,,make1,0,M. Beasley,
+315,3,2:05.0,97,66,DEN,POR,0,home,OffReb,,,OffReb,,Team,
+316,3,2:05.0,97,66,DEN,POR,0,home,FreeThrow,,,make1,0,M. Beasley,
+317,3,2:03.0,97,66,DEN,POR,2,away,DefReb,,,DefReb,,C. Swanigan,
+318,3,1:53.0,97,68,DEN,POR,10,away,LU,assist,2,make2,2,C. Swanigan,D. Lillard
+319,3,1:31.0,97,68,DEN,POR,22,home,LU,,1,miss2,0,T. Craig,
+320,3,1:31.0,97,68,DEN,POR,0,home,OffReb,,,OffReb,,T. Craig,
+321,3,1:31.0,97,68,DEN,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Little,T. Craig
+322,3,1:31.0,97,68,DEN,POR,0,home,FreeThrow,,,make1,0,T. Craig,
+323,3,1:31.0,97,68,DEN,POR,0,home,OffReb,,,OffReb,,Team,
+324,3,1:31.0,98,68,DEN,POR,0,home,FreeThrow,,,make1,1,T. Craig,
+325,3,1:21.0,98,68,DEN,POR,10,away,JS,,27,miss3,0,N. Little,
+326,3,1:18.0,98,68,DEN,POR,3,home,DefReb,,,DefReb,,M. Beasley,
+327,3,1:03.0,98,68,DEN,POR,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Trent,N. Jokić
+328,3,1:03.0,99,68,DEN,POR,0,home,FreeThrow,,,make1,1,N. Jokić,
+329,3,1:03.0,100,68,DEN,POR,0,home,FreeThrow,,,make1,1,N. Jokić,
+330,3,0:50.0,100,68,DEN,POR,13,away,LU,,2,miss2,0,C. McCollum,
+331,3,0:49.0,100,68,DEN,POR,1,home,DefReb,,,DefReb,,M. Beasley,
+332,3,0:40.0,100,68,DEN,POR,9,home,JS,,23,miss3,0,M. Beasley,
+333,3,0:36.0,100,68,DEN,POR,4,away,DefReb,,,DefReb,,D. Lillard,
+334,3,0:28.0,100,71,DEN,POR,8,away,JS,assist,26,make3,3,G. Trent,D. Lillard
+335,3,0:12.0,100,71,DEN,POR,16,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Beasley,C. Swanigan
+336,3,0:12.0,100,71,DEN,POR,0,home,OffensiveFoul,,,turnover,,M. Beasley,
+337,3,0:12.0,100,71,DEN,POR,0,away,Sub,,,,,A. Simons,C. Swanigan
+338,3,0:12.0,100,71,DEN,POR,0,home,Sub,,,,,J. Grant,N. Jokić
+339,3,0:05.0,100,71,DEN,POR,7,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Grant,C. McCollum
+340,3,0:05.0,100,71,DEN,POR,0,home,Sub,,,,,G. Harris,T. Craig
+341,3,0:01.0,100,73,DEN,POR,4,away,LU,,3,make2,2,D. Lillard,
+342,3,0:01.0,100,73,DEN,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hernangómez,D. Lillard
+343,3,0:01.0,100,74,DEN,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
+344,4,11:53.0,100,74,DEN,POR,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Grant,C. Swanigan
+345,4,11:45.0,100,74,DEN,POR,8,away,JS,,18,miss2,0,G. Trent,
+346,4,11:35.0,100,74,DEN,POR,10,away,OffReb,,,OffReb,,N. Little,
+347,4,11:35.0,100,74,DEN,POR,0,away,LU,,1,miss2,0,N. Little,
+348,4,11:35.0,100,74,DEN,POR,0,home,DefReb,,,DefReb,,J. Hernangómez,
+349,4,11:32.0,102,74,DEN,POR,3,home,LU,,3,make2,2,J. Hernangómez,
+350,4,11:16.0,102,74,DEN,POR,16,away,bad pass,steal,,turnover,,N. Little,J. Hernangómez
+351,4,11:13.0,102,74,DEN,POR,3,home,LU,block,1,miss2,0,J. Hernangómez,N. Little
+352,4,11:13.0,102,74,DEN,POR,0,home,OffReb,,,OffReb,,Team,
+353,4,11:10.0,105,74,DEN,POR,3,home,JS,assist,26,make3,3,J. Grant,M. Beasley
+354,4,10:53.0,105,74,DEN,POR,17,away,JS,,25,miss3,0,A. Simons,
+355,4,10:51.0,105,74,DEN,POR,2,home,DefReb,,,DefReb,,M. Beasley,
+356,4,10:42.0,105,74,DEN,POR,9,home,JS,,2,miss2,0,M. Beasley,
+357,4,10:41.0,105,74,DEN,POR,1,away,DefReb,,,DefReb,,C. Swanigan,
+358,4,10:35.0,105,76,DEN,POR,6,away,LU,assist,1,make2,2,C. Swanigan,M. Hezonja
+359,4,10:14.0,105,76,DEN,POR,21,home,JS,,26,miss3,0,J. Grant,
+360,4,10:10.0,105,76,DEN,POR,4,away,DefReb,,,DefReb,,N. Little,
+361,4,9:58.0,105,76,DEN,POR,12,away,JS,block,11,miss2,0,C. Swanigan,J. Hernangómez
+362,4,9:56.0,105,76,DEN,POR,2,home,DefReb,,,DefReb,,T. Craig,
+363,4,9:53.0,107,76,DEN,POR,3,home,LU,,2,make2,2,T. Craig,
+364,4,9:53.0,107,76,DEN,POR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Little,T. Craig
+365,4,9:53.0,108,76,DEN,POR,0,home,FreeThrow,,,make1,1,T. Craig,
+366,4,9:42.0,108,76,DEN,POR,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,G. Trent
+367,4,9:36.0,108,76,DEN,POR,6,away,BadPass,,,turnover,,C. Swanigan,
+368,4,9:25.0,108,76,DEN,POR,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Little,T. Craig
+369,4,9:16.0,108,76,DEN,POR,9,home,JS,,22,miss3,0,M. Beasley,
+370,4,9:14.0,108,76,DEN,POR,2,home,OffReb,,,OffReb,,J. Hernangómez,
+371,4,9:05.0,108,76,DEN,POR,9,home,JS,,2,miss2,0,M. Morris,
+372,4,9:03.0,108,76,DEN,POR,2,away,DefReb,,,DefReb,,C. Swanigan,
+373,4,8:57.0,108,78,DEN,POR,6,away,DK,assist,1,make2,2,G. Trent,A. Simons
+374,4,8:42.0,111,78,DEN,POR,15,home,JS,assist,25,make3,3,M. Beasley,M. Morris
+375,4,8:17.0,111,80,DEN,POR,25,away,LU,,2,make2,2,M. Hezonja,
+376,4,7:56.0,111,80,DEN,POR,21,home,JS,,26,miss3,0,J. Hernangómez,
+377,4,7:56.0,111,80,DEN,POR,0,away,DefReb,,,DefReb,,C. Swanigan,
+378,4,7:40.0,111,80,DEN,POR,16,away,LU,,3,miss2,0,M. Hezonja,
+379,4,7:38.0,111,80,DEN,POR,2,away,OffReb,,,OffReb,,C. Swanigan,
+380,4,7:38.0,111,80,DEN,POR,0,away,LU,,1,miss2,0,C. Swanigan,
+381,4,7:38.0,111,80,DEN,POR,0,away,OffReb,,,OffReb,,Team,
+382,4,7:38.0,111,80,DEN,POR,0,home,Sub,,,,,P. Dozier,T. Craig
+383,4,7:29.0,111,82,DEN,POR,9,away,JS,,21,make2,2,A. Simons,
+384,4,7:26.0,111,82,DEN,POR,3,home,Timeout,,,,,,
+385,4,7:26.0,111,82,DEN,POR,0,away,Sub,,,,,W. Gabriel,G. Trent
+386,4,7:26.0,111,82,DEN,POR,0,home,Sub,,,,,J. Vanderbilt,J. Grant
+387,4,7:10.0,111,82,DEN,POR,16,home,JS,,22,miss3,0,M. Beasley,
+388,4,7:06.0,111,82,DEN,POR,4,away,DefReb,,,DefReb,,C. Swanigan,
+389,4,7:04.0,111,82,DEN,POR,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Dozier,M. Hezonja
+390,4,7:04.0,111,83,DEN,POR,0,away,FreeThrow,,,make1,1,M. Hezonja,
+391,4,7:04.0,111,83,DEN,POR,0,away,FreeThrow,,,make1,0,M. Hezonja,
+392,4,7:01.0,111,83,DEN,POR,3,home,DefReb,,,DefReb,,J. Vanderbilt,
+393,4,6:53.0,111,83,DEN,POR,8,home,bad pass,steal,,turnover,,J. Vanderbilt,N. Little
+394,4,6:48.0,111,83,DEN,POR,5,away,DK,,1,miss2,0,W. Gabriel,
+395,4,6:46.0,111,83,DEN,POR,2,home,DefReb,,,DefReb,,J. Hernangómez,
+396,4,6:43.0,111,83,DEN,POR,3,home,JS,,24,miss3,0,P. Dozier,
+397,4,6:38.0,111,83,DEN,POR,5,away,DefReb,,,DefReb,,N. Little,
+398,4,6:29.0,111,85,DEN,POR,9,away,JS,,19,make2,2,M. Hezonja,
+399,4,6:14.0,111,85,DEN,POR,15,home,LU,,2,miss2,0,M. Beasley,
+400,4,6:12.0,111,85,DEN,POR,2,away,DefReb,,,DefReb,,N. Little,
+401,4,6:07.0,111,85,DEN,POR,5,away,JS,,25,miss3,0,N. Little,
+402,4,6:03.0,111,85,DEN,POR,4,home,DefReb,,,DefReb,,P. Dozier,
+403,4,5:45.0,111,85,DEN,POR,18,home,JS,,14,miss2,0,P. Dozier,
+404,4,5:40.0,111,85,DEN,POR,5,home,OffReb,,,OffReb,,J. Vanderbilt,
+405,4,5:39.0,114,85,DEN,POR,1,home,JS,assist,24,make3,3,M. Beasley,J. Vanderbilt
+406,4,5:11.0,114,85,DEN,POR,28,away,JS,,25,miss3,0,M. Hezonja,
+407,4,5:10.0,114,85,DEN,POR,1,home,DefReb,,,DefReb,,Team,
+408,4,5:10.0,114,85,DEN,POR,0,home,Sub,,,,,V. Čančar,M. Morris
+409,4,4:52.0,114,85,DEN,POR,18,home,Traveling,,,turnover,,J. Vanderbilt,
+410,4,4:41.0,114,88,DEN,POR,11,away,JS,assist,25,make3,3,A. Simons,C. Swanigan
+411,4,4:29.0,117,88,DEN,POR,12,home,JS,assist,24,make3,3,M. Beasley,P. Dozier
+412,4,4:09.0,117,88,DEN,POR,20,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Hernangómez,A. Simons
+413,4,4:09.0,117,88,DEN,POR,0,away,Timeout,,,,,,
+414,4,4:02.0,117,90,DEN,POR,7,away,LU,assist,4,make2,2,M. Hezonja,C. Swanigan
+415,4,3:49.0,117,90,DEN,POR,13,home,JS,,25,miss3,0,M. Beasley,
+416,4,3:45.0,117,90,DEN,POR,4,home,OffReb,,,OffReb,,P. Dozier,
+417,4,3:42.0,117,90,DEN,POR,3,home,BadPass,,,turnover,,J. Hernangómez,
+418,4,3:32.0,117,90,DEN,POR,10,away,LU,,1,miss2,0,A. Simons,
+419,4,3:30.0,117,90,DEN,POR,2,home,DefReb,,,DefReb,,M. Beasley,
+420,4,3:26.0,117,90,DEN,POR,4,home,LU,block,2,miss2,0,P. Dozier,W. Gabriel
+421,4,3:26.0,117,90,DEN,POR,0,home,OffReb,,,OffReb,,Team,
+422,4,3:13.0,119,90,DEN,POR,13,home,LU,,1,make2,2,M. Beasley,
+423,4,2:59.0,119,92,DEN,POR,14,away,LU,,2,make2,2,A. Simons,
+424,4,2:59.0,119,92,DEN,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Vanderbilt,A. Simons
+425,4,2:59.0,119,93,DEN,POR,0,away,FreeThrow,,,make1,1,A. Simons,
+426,4,2:49.0,119,93,DEN,POR,10,home,bad pass,steal,,turnover,,P. Dozier,W. Gabriel
+427,4,2:48.0,119,93,DEN,POR,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Vanderbilt,N. Little
+428,4,2:48.0,119,93,DEN,POR,0,home,Timeout,,,,,,
+429,4,2:48.0,119,94,DEN,POR,0,away,FreeThrow,,,make1,1,N. Little,
+430,4,2:48.0,119,94,DEN,POR,0,away,FreeThrow,,,make1,0,N. Little,
+431,4,2:48.0,119,94,DEN,POR,0,home,DefReb,,,DefReb,,J. Hernangómez,
+432,4,2:23.0,121,94,DEN,POR,25,home,JS,assist,5,make2,2,P. Dozier,M. Beasley
+433,4,2:13.0,121,94,DEN,POR,10,away,bad pass,steal,,turnover,,M. Hezonja,J. Vanderbilt
+434,4,2:10.0,123,94,DEN,POR,3,home,DK,,1,make2,2,J. Vanderbilt,
+435,4,1:51.0,123,94,DEN,POR,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,V. Čančar,N. Little
+436,4,1:51.0,123,95,DEN,POR,0,away,FreeThrow,,,make1,1,N. Little,
+437,4,1:51.0,123,96,DEN,POR,0,away,FreeThrow,,,make1,1,N. Little,
+438,4,1:39.0,125,96,DEN,POR,12,home,DK,assist,2,make2,2,V. Čančar,P. Dozier
+439,4,1:30.0,125,96,DEN,POR,9,away,JS,,13,miss2,0,A. Simons,
+440,4,1:27.0,125,96,DEN,POR,3,home,DefReb,,,DefReb,,J. Vanderbilt,
+441,4,1:18.0,127,96,DEN,POR,9,home,LU,,1,make2,2,V. Čančar,
+442,4,1:00.0,127,96,DEN,POR,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Beasley,M. Hezonja
+443,4,1:00.0,127,97,DEN,POR,0,away,FreeThrow,,,make1,1,M. Hezonja,
+444,4,1:00.0,127,98,DEN,POR,0,away,FreeThrow,,,make1,1,M. Hezonja,
+445,4,0:45.0,127,98,DEN,POR,15,home,LU,,2,miss2,0,V. Čančar,
+446,4,0:43.0,127,98,DEN,POR,2,away,DefReb,,,DefReb,,A. Simons,
+447,4,0:37.0,127,98,DEN,POR,6,away,Timeout,,,,,,
+448,4,0:37.0,127,98,DEN,POR,0,away,Sub,,,,,G. Trent,N. Little
+449,4,0:30.0,127,98,DEN,POR,7,away,JS,,13,miss2,0,G. Trent,
+450,4,0:29.0,127,98,DEN,POR,1,away,OffReb,,,OffReb,,Team,
+451,4,0:29.0,127,98,DEN,POR,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,P. Dozier,C. Swanigan
+452,4,0:29.0,127,99,DEN,POR,0,away,FreeThrow,,,make1,1,C. Swanigan,
+453,4,0:29.0,127,99,DEN,POR,0,away,FreeThrow,,,make1,0,C. Swanigan,
+454,4,0:27.0,127,99,DEN,POR,2,home,DefReb,,,DefReb,,V. Čančar,
+455,4,0:04.0,127,99,DEN,POR,23,home,ShotClockViolation,,,turnover,,Team,

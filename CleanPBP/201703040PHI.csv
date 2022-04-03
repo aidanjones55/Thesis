@@ -1,0 +1,413 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,0,0,PHI,DET,15,away,JS,,7,miss2,0,R. Jackson,
+1,1,11:44.0,0,0,PHI,DET,1,home,DefReb,,,DefReb,,R. Covington,
+2,1,11:40.0,0,0,PHI,DET,4,home,OutOfBounds,,,turnover,,D. Šarić,
+3,1,11:28.0,0,0,PHI,DET,12,away,JS,,27,miss3,0,J. Leuer,
+4,1,11:27.0,0,0,PHI,DET,1,home,DefReb,,,DefReb,,R. Holmes,
+5,1,11:16.0,0,0,PHI,DET,11,away,DefGoaltending,,,DefGoaltending,,A. Drummond,
+6,1,11:16.0,2,0,PHI,DET,0,home,JS,assist,8,make2,2,D. Šarić,T. McConnell
+7,1,11:04.0,2,0,PHI,DET,12,away,JS,,15,miss2,0,M. Morris,
+8,1,11:02.0,2,0,PHI,DET,2,away,OffReb,,,OffReb,,K. Caldwell-Pope,
+9,1,10:59.0,2,0,PHI,DET,3,away,BadPass,steal,,turnover,,R. Jackson,R. Holmes
+10,1,10:53.0,5,0,PHI,DET,6,home,JS,assist,25,make3,3,R. Covington,T. McConnell
+11,1,10:36.0,5,0,PHI,DET,17,away,LU,,3,miss2,0,A. Drummond,
+12,1,10:35.0,5,0,PHI,DET,1,home,DefReb,,,DefReb,,D. Šarić,
+13,1,10:30.0,7,0,PHI,DET,5,home,DK,assist,0,make2,2,R. Holmes,D. Šarić
+14,1,10:30.0,7,0,PHI,DET,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Drummond,R. Holmes
+15,1,10:30.0,7,0,PHI,DET,0,home,FreeThrow,,,make1,0,R. Holmes,
+16,1,10:29.0,7,0,PHI,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+17,1,10:17.0,7,2,PHI,DET,12,away,LU,,2,make2,2,K. Caldwell-Pope,
+18,1,9:55.0,7,2,PHI,DET,22,home,BadPass,steal,,turnover,,D. Šarić,A. Drummond
+19,1,9:49.0,7,2,PHI,DET,6,away,BadPass,steal,,turnover,,R. Jackson,R. Holmes
+20,1,9:34.0,9,2,PHI,DET,15,home,DK,assist,0,make2,2,N. Stauskas,T. McConnell
+21,1,9:27.0,9,2,PHI,DET,7,away,Timeout,,,,,,
+22,1,9:15.0,9,4,PHI,DET,12,away,JS,assist,7,make2,2,A. Drummond,J. Leuer
+23,1,8:58.0,9,4,PHI,DET,17,home,JS,,24,miss3,0,R. Covington,
+24,1,8:57.0,9,4,PHI,DET,1,away,DefReb,,,DefReb,,K. Caldwell-Pope,
+25,1,8:53.0,9,4,PHI,DET,4,away,BadPass,,,turnover,,K. Caldwell-Pope,
+26,1,8:39.0,9,4,PHI,DET,14,home,JS,,4,miss2,0,D. Šarić,
+27,1,8:38.0,9,4,PHI,DET,1,home,OffReb,,,OffReb,,D. Šarić,
+28,1,8:36.0,11,4,PHI,DET,2,home,LU,,2,make2,2,D. Šarić,
+29,1,8:25.0,11,4,PHI,DET,11,away,LostBall,steal,,turnover,,J. Leuer,T. McConnell
+30,1,8:19.0,13,4,PHI,DET,6,home,DK,assist,0,make2,2,N. Stauskas,T. McConnell
+31,1,7:58.0,13,4,PHI,DET,21,away,JS,,16,miss2,0,M. Morris,
+32,1,7:56.0,13,4,PHI,DET,2,home,DefReb,,,DefReb,,R. Holmes,
+33,1,7:52.0,13,4,PHI,DET,4,away,Sub,,,,,T. Harris,J. Leuer
+34,1,7:34.0,13,4,PHI,DET,18,home,JS,,20,miss2,0,D. Šarić,
+35,1,7:32.0,13,4,PHI,DET,2,away,DefReb,,,DefReb,,K. Caldwell-Pope,
+36,1,7:26.0,13,4,PHI,DET,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Holmes,M. Morris
+37,1,7:26.0,13,5,PHI,DET,0,away,FreeThrow,,,make1,1,M. Morris,
+38,1,7:26.0,13,5,PHI,DET,0,home,Sub,,,,,J. Anderson,R. Covington
+39,1,7:26.0,13,6,PHI,DET,0,away,FreeThrow,,,make1,1,M. Morris,
+40,1,7:17.0,13,6,PHI,DET,9,home,JS,,26,miss3,0,N. Stauskas,
+41,1,7:16.0,13,6,PHI,DET,1,away,DefReb,,,DefReb,,R. Jackson,
+42,1,7:10.0,13,9,PHI,DET,6,away,JS,,24,make3,3,R. Jackson,
+43,1,6:50.0,15,9,PHI,DET,20,home,DK,assist,0,make2,2,R. Holmes,T. McConnell
+44,1,6:36.0,15,12,PHI,DET,14,away,JS,,25,make3,3,R. Jackson,
+45,1,6:20.0,15,12,PHI,DET,16,home,JS,,5,miss2,0,D. Šarić,
+46,1,6:18.0,15,12,PHI,DET,2,away,DefReb,,,DefReb,,A. Drummond,
+47,1,6:13.0,15,14,PHI,DET,5,away,LU,,2,make2,2,R. Jackson,
+48,1,5:56.0,15,14,PHI,DET,17,home,JS,block,4,miss2,0,N. Stauskas,R. Jackson
+49,1,5:56.0,15,14,PHI,DET,0,home,OffReb,,,OffReb,,Team,
+50,1,5:56.0,15,14,PHI,DET,0,home,Sub,,,,,T. Luwawu-Cabarrot,N. Stauskas
+51,1,5:48.0,15,14,PHI,DET,8,home,JS,,10,miss2,0,R. Holmes,
+52,1,5:47.0,15,14,PHI,DET,1,away,DefReb,,,DefReb,,T. Harris,
+53,1,5:41.0,15,14,PHI,DET,6,away,JS,,6,miss2,0,T. Harris,
+54,1,5:38.0,15,14,PHI,DET,3,away,OffReb,,,OffReb,,A. Drummond,
+55,1,5:38.0,15,14,PHI,DET,0,away,LU,,1,miss2,0,A. Drummond,
+56,1,5:36.0,15,14,PHI,DET,2,home,DefReb,,,DefReb,,T. Luwawu-Cabarrot,
+57,1,5:29.0,15,14,PHI,DET,7,home,Traveling,,,turnover,,T. McConnell,
+58,1,5:29.0,15,14,PHI,DET,0,away,Sub,,,,,I. Smith,R. Jackson
+59,1,5:20.0,15,14,PHI,DET,9,away,JS,,15,miss2,0,T. Harris,
+60,1,5:18.0,15,14,PHI,DET,2,home,DefReb,,,DefReb,,J. Anderson,
+61,1,5:06.0,18,14,PHI,DET,12,home,JS,assist,24,make3,3,J. Anderson,T. McConnell
+62,1,4:52.0,18,16,PHI,DET,14,away,JS,assist,15,make2,2,M. Morris,I. Smith
+63,1,4:33.0,18,16,PHI,DET,19,home,JS,,5,miss2,0,D. Šarić,
+64,1,4:32.0,18,16,PHI,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+65,1,4:25.0,18,18,PHI,DET,7,away,LU,assist,2,make2,2,T. Harris,I. Smith
+66,1,4:25.0,18,18,PHI,DET,0,home,Timeout,,,,,,
+67,1,4:25.0,18,18,PHI,DET,0,home,Sub,,,,,S. Rodríguez,D. Šarić
+68,1,4:25.0,18,18,PHI,DET,0,home,Sub,,,,,J. Harper,R. Holmes
+69,1,4:25.0,18,18,PHI,DET,0,home,Sub,,,,,R. Covington,T. McConnell
+70,1,4:02.0,20,18,PHI,DET,23,home,LU,,1,make2,2,T. Luwawu-Cabarrot,
+71,1,3:48.0,20,18,PHI,DET,14,away,JS,,7,miss2,0,A. Drummond,
+72,1,3:45.0,20,18,PHI,DET,3,home,DefReb,,,DefReb,,J. Anderson,
+73,1,3:38.0,20,18,PHI,DET,7,home,JS,block,7,miss2,0,J. Anderson,M. Morris
+74,1,3:38.0,20,18,PHI,DET,0,home,OffReb,,,OffReb,,Team,
+75,1,3:26.0,20,18,PHI,DET,12,home,JS,,23,miss3,0,T. Luwawu-Cabarrot,
+76,1,3:25.0,20,18,PHI,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+77,1,3:20.0,20,20,PHI,DET,5,away,LU,,2,make2,2,I. Smith,
+78,1,3:20.0,20,20,PHI,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Anderson,I. Smith
+79,1,3:20.0,20,21,PHI,DET,0,away,FreeThrow,,,make1,1,I. Smith,
+80,1,3:09.0,20,21,PHI,DET,11,home,BadPass,steal,,turnover,,R. Covington,A. Drummond
+81,1,3:09.0,20,21,PHI,DET,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Luwawu-Cabarrot,A. Drummond
+82,1,2:52.0,20,23,PHI,DET,17,away,JS,,17,make2,2,M. Morris,
+83,1,2:35.0,20,23,PHI,DET,17,home,BadPass,steal,,turnover,,R. Covington,M. Morris
+84,1,2:25.0,20,23,PHI,DET,10,away,JS,,24,miss3,0,K. Caldwell-Pope,
+85,1,2:23.0,20,23,PHI,DET,2,away,OffReb,,,OffReb,,A. Drummond,
+86,1,2:21.0,20,23,PHI,DET,2,away,LU,,2,miss2,0,A. Drummond,
+87,1,2:20.0,20,23,PHI,DET,1,away,OffReb,,,OffReb,,A. Drummond,
+88,1,2:19.0,20,23,PHI,DET,1,away,LU,,1,miss2,0,A. Drummond,
+89,1,2:17.0,20,23,PHI,DET,2,home,DefReb,,,DefReb,,J. Anderson,
+90,1,2:09.0,20,23,PHI,DET,8,home,JS,,25,miss3,0,R. Covington,
+91,1,2:08.0,20,23,PHI,DET,1,away,DefReb,,,DefReb,,I. Smith,
+92,1,2:01.0,20,25,PHI,DET,7,away,JS,assist,8,make2,2,A. Drummond,I. Smith
+93,1,1:48.0,20,25,PHI,DET,13,home,JS,,25,miss3,0,J. Harper,
+94,1,1:47.0,20,25,PHI,DET,1,away,DefReb,,,DefReb,,T. Harris,
+95,1,1:35.0,20,27,PHI,DET,12,away,LU,assist,1,make2,2,K. Caldwell-Pope,I. Smith
+96,1,1:14.0,22,27,PHI,DET,21,home,JS,assist,16,make2,2,J. Harper,R. Covington
+97,1,0:55.0,22,29,PHI,DET,19,away,HS,,5,make2,2,T. Harris,
+98,1,0:49.0,22,29,PHI,DET,6,home,BadPass,steal,,turnover,,J. Anderson,T. Harris
+99,1,0:46.0,22,29,PHI,DET,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Anderson,T. Harris
+100,1,0:46.0,22,30,PHI,DET,0,away,FreeThrow,,,make1,1,T. Harris,
+101,1,0:46.0,22,30,PHI,DET,0,home,Sub,,,,,N. Stauskas,J. Anderson
+102,1,0:46.0,22,30,PHI,DET,0,away,Sub,,,,,S. Johnson,K. Caldwell-Pope
+103,1,0:46.0,22,31,PHI,DET,0,away,FreeThrow,,,make1,1,T. Harris,
+104,1,0:39.0,22,31,PHI,DET,7,home,JS,,25,miss3,0,S. Rodríguez,
+105,1,0:37.0,22,31,PHI,DET,2,away,DefReb,,,DefReb,,S. Johnson,
+106,1,0:27.0,22,31,PHI,DET,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Luwawu-Cabarrot,M. Morris
+107,1,0:27.0,22,32,PHI,DET,0,away,FreeThrow,,,make1,1,M. Morris,
+108,1,0:27.0,22,33,PHI,DET,0,away,FreeThrow,,,make1,1,M. Morris,
+109,1,0:05.0,25,33,PHI,DET,22,home,JS,assist,25,make3,3,R. Covington,S. Rodríguez
+110,1,0:00.0,25,33,PHI,DET,5,away,JS,,29,miss3,0,S. Johnson,
+111,1,0:00.0,25,33,PHI,DET,0,away,OffReb,,,OffReb,,Team,
+112,2,11:45.0,25,33,PHI,DET,15,home,LostBall,steal,,turnover,,R. Covington,S. Johnson
+113,2,11:40.0,25,33,PHI,DET,5,away,LU,block,2,miss2,0,J. Leuer,D. Šarić
+114,2,11:38.0,25,33,PHI,DET,2,home,DefReb,,,DefReb,,N. Stauskas,
+115,2,11:32.0,25,33,PHI,DET,6,home,Traveling,,,turnover,,N. Stauskas,
+116,2,11:20.0,25,33,PHI,DET,12,away,JS,,24,miss3,0,T. Harris,
+117,2,11:19.0,25,33,PHI,DET,1,away,OffReb,,,OffReb,,R. Bullock,
+118,2,11:10.0,25,33,PHI,DET,9,away,JS,block,8,miss2,0,S. Johnson,R. Covington
+119,2,11:08.0,25,33,PHI,DET,2,home,DefReb,,,DefReb,,J. Harper,
+120,2,11:00.0,28,33,PHI,DET,8,home,JS,assist,23,make3,3,S. Rodríguez,R. Covington
+121,2,10:51.0,28,33,PHI,DET,9,away,Timeout,,,,,,
+122,2,10:37.0,28,33,PHI,DET,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Šarić,J. Leuer
+123,2,10:24.0,28,33,PHI,DET,13,away,JS,,25,miss3,0,T. Harris,
+124,2,10:22.0,28,33,PHI,DET,2,home,DefReb,,,DefReb,,S. Rodríguez,
+125,2,10:16.0,28,33,PHI,DET,6,home,JS,,24,miss3,0,R. Covington,
+126,2,10:14.0,28,33,PHI,DET,2,away,DefReb,,,DefReb,,T. Harris,
+127,2,10:07.0,28,33,PHI,DET,7,away,JS,,16,miss2,0,J. Leuer,
+128,2,10:06.0,28,33,PHI,DET,1,home,DefReb,,,DefReb,,D. Šarić,
+129,2,9:58.0,28,33,PHI,DET,8,home,Traveling,,,turnover,,S. Rodríguez,
+130,2,9:44.0,28,35,PHI,DET,14,away,JS,,4,make2,2,T. Harris,
+131,2,9:20.0,28,35,PHI,DET,24,home,BackCourtTurnover,,,turnover,,J. Harper,
+132,2,9:20.0,28,35,PHI,DET,0,home,Sub,,,,,J. Anderson,R. Covington
+133,2,9:10.0,28,38,PHI,DET,10,away,JS,assist,25,make3,3,R. Jackson,T. Harris
+134,2,8:55.0,28,38,PHI,DET,15,home,Traveling,,,turnover,,D. Šarić,
+135,2,8:46.0,28,38,PHI,DET,9,away,BadPass,steal,,turnover,,T. Harris,N. Stauskas
+136,2,8:35.0,30,38,PHI,DET,11,home,DK,assist,0,make2,2,N. Stauskas,D. Šarić
+137,2,8:19.0,30,38,PHI,DET,16,away,JS,,6,miss2,0,R. Jackson,
+138,2,8:17.0,30,38,PHI,DET,2,home,DefReb,,,DefReb,,D. Šarić,
+139,2,8:12.0,30,38,PHI,DET,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Leuer,D. Šarić
+140,2,8:12.0,31,38,PHI,DET,0,home,FreeThrow,,,make1,1,D. Šarić,
+141,2,8:12.0,31,38,PHI,DET,0,home,Sub,,,,,R. Holmes,J. Harper
+142,2,8:12.0,32,38,PHI,DET,0,home,FreeThrow,,,make1,1,D. Šarić,
+143,2,8:01.0,32,38,PHI,DET,11,away,JS,,16,miss2,0,S. Johnson,
+144,2,8:00.0,32,38,PHI,DET,1,home,DefReb,,,DefReb,,D. Šarić,
+145,2,7:54.0,35,38,PHI,DET,6,home,JS,assist,25,make3,3,N. Stauskas,D. Šarić
+146,2,7:47.0,35,38,PHI,DET,7,away,Timeout,,,,,,
+147,2,7:47.0,35,38,PHI,DET,0,away,Sub,,,,,A. Drummond,J. Leuer
+148,2,7:36.0,35,38,PHI,DET,11,away,JS,,15,miss2,0,T. Harris,
+149,2,7:35.0,35,38,PHI,DET,1,home,DefReb,,,DefReb,,J. Anderson,
+150,2,7:20.0,37,38,PHI,DET,15,home,JS,assist,16,make2,2,D. Šarić,S. Rodríguez
+151,2,7:05.0,37,38,PHI,DET,15,away,JS,,9,miss2,0,T. Harris,
+152,2,7:04.0,37,38,PHI,DET,1,home,DefReb,,,DefReb,,N. Stauskas,
+153,2,6:53.0,39,38,PHI,DET,11,home,JS,assist,6,make2,2,R. Holmes,D. Šarić
+154,2,6:40.0,39,38,PHI,DET,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Rodríguez,R. Bullock
+155,2,6:40.0,39,39,PHI,DET,0,away,FreeThrow,,,make1,1,R. Bullock,
+156,2,6:40.0,39,39,PHI,DET,0,away,Sub,,,,,M. Morris,S. Johnson
+157,2,6:40.0,39,39,PHI,DET,0,away,Sub,,,,,I. Smith,T. Harris
+158,2,6:40.0,39,39,PHI,DET,0,away,Sub,,,,,K. Caldwell-Pope,R. Jackson
+159,2,6:40.0,39,39,PHI,DET,0,home,Sub,,,,,T. McConnell,S. Rodríguez
+160,2,6:40.0,39,40,PHI,DET,0,away,FreeThrow,,,make1,1,R. Bullock,
+161,2,6:22.0,41,40,PHI,DET,18,home,LU,,2,make2,2,N. Stauskas,
+162,2,6:10.0,41,40,PHI,DET,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Stauskas,K. Caldwell-Pope
+163,2,6:10.0,41,41,PHI,DET,0,away,FreeThrow,,,make1,1,K. Caldwell-Pope,
+164,2,6:10.0,41,42,PHI,DET,0,away,FreeThrow,,,make1,1,K. Caldwell-Pope,
+165,2,6:10.0,41,43,PHI,DET,0,away,FreeThrow,,,make1,1,K. Caldwell-Pope,
+166,2,5:55.0,41,43,PHI,DET,15,home,JS,,16,miss2,0,D. Šarić,
+167,2,5:53.0,41,43,PHI,DET,2,away,DefReb,,,DefReb,,I. Smith,
+168,2,5:45.0,41,46,PHI,DET,8,away,JS,assist,25,make3,3,M. Morris,I. Smith
+169,2,5:44.0,41,46,PHI,DET,1,home,Timeout,,,,,,
+170,2,5:44.0,41,46,PHI,DET,0,away,Sub,,,,,J. Leuer,R. Bullock
+171,2,5:36.0,43,46,PHI,DET,8,home,JS,,16,make2,2,T. McConnell,
+172,2,5:20.0,43,46,PHI,DET,16,away,JS,,28,miss3,0,M. Morris,
+173,2,5:19.0,43,46,PHI,DET,1,home,DefReb,,,DefReb,,T. McConnell,
+174,2,5:02.0,46,46,PHI,DET,17,home,JS,assist,24,make3,3,R. Holmes,N. Stauskas
+175,2,4:48.0,46,48,PHI,DET,14,away,LU,,3,make2,2,I. Smith,
+176,2,4:30.0,46,48,PHI,DET,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Leuer,R. Holmes
+177,2,4:19.0,48,48,PHI,DET,11,home,JS,assist,17,make2,2,N. Stauskas,T. McConnell
+178,2,3:57.0,48,50,PHI,DET,22,away,HS,,10,make2,2,A. Drummond,
+179,2,3:50.0,48,50,PHI,DET,7,home,BadPass,steal,,turnover,,T. McConnell,M. Morris
+180,2,3:44.0,48,52,PHI,DET,6,away,JS,assist,16,make2,2,J. Leuer,M. Morris
+181,2,3:27.0,48,52,PHI,DET,17,home,JS,,24,miss3,0,J. Anderson,
+182,2,3:26.0,48,52,PHI,DET,1,away,DefReb,,,DefReb,,J. Leuer,
+183,2,3:20.0,48,54,PHI,DET,6,away,LU,,3,make2,2,I. Smith,
+184,2,3:20.0,48,54,PHI,DET,0,home,Timeout,,,,,,
+185,2,3:20.0,48,54,PHI,DET,0,home,Sub,,,,,J. Harper,R. Holmes
+186,2,3:20.0,48,54,PHI,DET,0,home,Sub,,,,,R. Covington,J. Anderson
+187,2,3:09.0,48,54,PHI,DET,11,home,BadPass,steal,,turnover,,T. McConnell,A. Drummond
+188,2,3:06.0,48,56,PHI,DET,3,away,LU,assist,1,make2,2,K. Caldwell-Pope,I. Smith
+189,2,2:54.0,48,56,PHI,DET,12,home,LostBall,steal,,turnover,,J. Harper,A. Drummond
+190,2,2:50.0,48,58,PHI,DET,4,away,DK,assist,0,make2,2,J. Leuer,A. Drummond
+191,2,2:37.0,48,58,PHI,DET,13,home,LU,block,3,miss2,0,T. McConnell,A. Drummond
+192,2,2:34.0,48,58,PHI,DET,3,home,OffReb,,,OffReb,,J. Harper,
+193,2,2:32.0,48,58,PHI,DET,2,home,JS,block,4,miss2,0,J. Harper,A. Drummond
+194,2,2:30.0,48,58,PHI,DET,2,away,DefReb,,,DefReb,,J. Leuer,
+195,2,2:24.0,48,60,PHI,DET,6,away,JS,assist,12,make2,2,M. Morris,I. Smith
+196,2,2:11.0,48,60,PHI,DET,13,away,DefGoaltending,,,DefGoaltending,,A. Drummond,
+197,2,2:11.0,50,60,PHI,DET,0,home,JS,,10,make2,2,D. Šarić,
+198,2,1:54.0,50,60,PHI,DET,17,away,JS,,13,miss2,0,A. Drummond,
+199,2,1:51.0,50,60,PHI,DET,3,home,DefReb,,,DefReb,,R. Covington,
+200,2,1:50.0,50,60,PHI,DET,1,away,Timeout,,,,,,
+201,2,1:50.0,50,60,PHI,DET,0,home,Sub,,,,,T. Luwawu-Cabarrot,J. Harper
+202,2,1:50.0,50,60,PHI,DET,0,away,Sub,,,,,T. Harris,J. Leuer
+203,2,1:32.0,50,60,PHI,DET,18,home,LU,block,1,miss2,0,N. Stauskas,A. Drummond
+204,2,1:29.0,50,60,PHI,DET,3,away,DefReb,,,DefReb,,A. Drummond,
+205,2,1:29.0,50,60,PHI,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Luwawu-Cabarrot,K. Caldwell-Pope
+206,2,1:29.0,50,60,PHI,DET,0,away,FreeThrow,,,make1,0,K. Caldwell-Pope,
+207,2,1:29.0,50,60,PHI,DET,0,away,OffReb,,,OffReb,,Team,
+208,2,1:29.0,50,60,PHI,DET,0,home,Sub,,,,,J. Anderson,T. Luwawu-Cabarrot
+209,2,1:29.0,50,61,PHI,DET,0,away,FreeThrow,,,make1,1,K. Caldwell-Pope,
+210,2,1:02.0,50,61,PHI,DET,27,home,JS,,7,miss2,0,R. Covington,
+211,2,1:01.0,50,61,PHI,DET,1,away,DefReb,,,DefReb,,T. Harris,
+212,2,0:55.0,50,63,PHI,DET,6,away,JS,assist,7,make2,2,T. Harris,I. Smith
+213,2,0:45.0,52,63,PHI,DET,10,home,LU,,1,make2,2,T. McConnell,
+214,2,0:33.0,52,65,PHI,DET,12,away,LU,,1,make2,2,T. Harris,
+215,2,0:18.0,52,65,PHI,DET,15,home,BadPass,,,turnover,,N. Stauskas,
+216,2,0:01.0,52,67,PHI,DET,17,away,JS,,11,make2,2,I. Smith,
+217,3,11:44.0,54,67,PHI,DET,16,home,DK,assist,0,make2,2,R. Holmes,D. Šarić
+218,3,11:26.0,54,69,PHI,DET,18,away,JS,assist,20,make2,2,K. Caldwell-Pope,M. Morris
+219,3,11:13.0,54,69,PHI,DET,13,home,BadPass,,,turnover,,N. Stauskas,
+220,3,10:57.0,54,71,PHI,DET,16,away,JS,,17,make2,2,K. Caldwell-Pope,
+221,3,10:56.0,54,71,PHI,DET,1,home,Timeout,,,,,,
+222,3,10:49.0,54,71,PHI,DET,7,home,JS,,26,miss3,0,D. Šarić,
+223,3,10:47.0,54,71,PHI,DET,2,away,DefReb,,,DefReb,,R. Jackson,
+224,3,10:42.0,54,73,PHI,DET,5,away,JS,,6,make2,2,R. Jackson,
+225,3,10:31.0,56,73,PHI,DET,11,home,JS,,5,make2,2,D. Šarić,
+226,3,10:17.0,56,73,PHI,DET,14,away,JS,,19,miss2,0,M. Morris,
+227,3,10:14.0,56,73,PHI,DET,3,away,OffReb,,,OffReb,,A. Drummond,
+228,3,10:14.0,56,75,PHI,DET,0,away,LU,,0,make2,2,A. Drummond,
+229,3,10:00.0,58,75,PHI,DET,14,home,JS,assist,14,make2,2,T. McConnell,D. Šarić
+230,3,9:46.0,58,75,PHI,DET,14,away,JS,,17,miss2,0,J. Leuer,
+231,3,9:44.0,58,75,PHI,DET,2,away,OffReb,,,OffReb,,R. Jackson,
+232,3,9:41.0,58,75,PHI,DET,3,away,JS,,25,miss3,0,M. Morris,
+233,3,9:40.0,58,75,PHI,DET,1,home,DefReb,,,DefReb,,D. Šarić,
+234,3,9:33.0,61,75,PHI,DET,7,home,JS,assist,28,make3,3,N. Stauskas,D. Šarić
+235,3,9:11.0,61,75,PHI,DET,22,away,JS,,15,miss2,0,R. Jackson,
+236,3,9:09.0,61,75,PHI,DET,2,home,DefReb,,,DefReb,,R. Covington,
+237,3,9:04.0,61,75,PHI,DET,5,home,LostBall,steal,,turnover,,T. McConnell,K. Caldwell-Pope
+238,3,8:58.0,61,78,PHI,DET,6,away,JS,assist,24,make3,3,M. Morris,R. Jackson
+239,3,8:40.0,61,78,PHI,DET,18,home,JS,,25,miss3,0,D. Šarić,
+240,3,8:38.0,61,78,PHI,DET,2,away,DefReb,,,DefReb,,A. Drummond,
+241,3,8:28.0,61,80,PHI,DET,10,away,JS,,18,make2,2,R. Jackson,
+242,3,8:28.0,61,80,PHI,DET,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
+243,3,8:10.0,61,80,PHI,DET,18,home,JS,block,3,miss2,0,R. Covington,M. Morris
+244,3,8:10.0,61,80,PHI,DET,0,home,OffReb,,,OffReb,,Team,
+245,3,8:10.0,61,80,PHI,DET,0,home,Sub,,,,,S. Rodríguez,T. McConnell
+246,3,8:10.0,61,80,PHI,DET,0,home,LU,block,3,miss2,0,R. Covington,M. Morris
+247,3,8:10.0,61,80,PHI,DET,0,home,OffReb,,,OffReb,,Team,
+248,3,8:04.0,61,80,PHI,DET,6,home,LU,,2,miss2,0,D. Šarić,
+249,3,8:03.0,61,80,PHI,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+250,3,7:52.0,61,82,PHI,DET,11,away,JS,,6,make2,2,R. Jackson,
+251,3,7:42.0,61,82,PHI,DET,10,home,JS,,25,miss3,0,R. Holmes,
+252,3,7:41.0,61,82,PHI,DET,1,away,DefReb,,,DefReb,,M. Morris,
+253,3,7:33.0,61,82,PHI,DET,8,away,BadPass,steal,,turnover,,A. Drummond,N. Stauskas
+254,3,7:28.0,61,82,PHI,DET,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jackson,D. Šarić
+255,3,7:28.0,62,82,PHI,DET,0,home,FreeThrow,,,make1,1,D. Šarić,
+256,3,7:28.0,63,82,PHI,DET,0,home,FreeThrow,,,make1,1,D. Šarić,
+257,3,7:12.0,63,84,PHI,DET,16,away,JS,,19,make2,2,M. Morris,
+258,3,7:02.0,63,84,PHI,DET,10,home,BadPass,steal,,turnover,,S. Rodríguez,J. Leuer
+259,3,6:58.0,63,86,PHI,DET,4,away,LU,,2,make2,2,J. Leuer,
+260,3,6:34.0,65,86,PHI,DET,24,home,LU,assist,3,make2,2,R. Covington,D. Šarić
+261,3,6:14.0,65,89,PHI,DET,20,away,JS,assist,25,make3,3,K. Caldwell-Pope,A. Drummond
+262,3,6:14.0,65,89,PHI,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Stauskas,K. Caldwell-Pope
+263,3,6:14.0,65,89,PHI,DET,0,home,Sub,,,,,J. Anderson,D. Šarić
+264,3,6:14.0,65,89,PHI,DET,0,home,Sub,,,,,T. Luwawu-Cabarrot,N. Stauskas
+265,3,6:14.0,65,90,PHI,DET,0,away,FreeThrow,,,make1,1,K. Caldwell-Pope,
+266,3,6:01.0,65,90,PHI,DET,13,home,JS,,17,miss2,0,R. Covington,
+267,3,5:59.0,65,90,PHI,DET,2,away,DefReb,,,DefReb,,R. Jackson,
+268,3,5:54.0,65,90,PHI,DET,5,away,JS,,26,miss3,0,R. Jackson,
+269,3,5:50.0,65,90,PHI,DET,4,away,OffReb,,,OffReb,,M. Morris,
+270,3,5:34.0,65,93,PHI,DET,16,away,JS,,26,make3,3,K. Caldwell-Pope,
+271,3,5:16.0,67,93,PHI,DET,18,home,DK,assist,0,make2,2,R. Holmes,R. Covington
+272,3,5:02.0,67,93,PHI,DET,14,away,LU,,2,miss2,0,R. Jackson,
+273,3,5:01.0,67,93,PHI,DET,1,home,DefReb,,,DefReb,,R. Covington,
+274,3,5:01.0,67,93,PHI,DET,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jackson,R. Covington
+275,3,5:01.0,67,93,PHI,DET,0,away,Sub,,,,,T. Harris,J. Leuer
+276,3,5:01.0,67,93,PHI,DET,0,away,Sub,,,,,I. Smith,R. Jackson
+277,3,4:50.0,67,93,PHI,DET,11,away,DefGoaltending,,,DefGoaltending,,A. Drummond,
+278,3,4:50.0,69,93,PHI,DET,0,home,LU,assist,1,make2,2,T. Luwawu-Cabarrot,S. Rodríguez
+279,3,4:34.0,69,95,PHI,DET,16,away,JS,assist,16,make2,2,M. Morris,I. Smith
+280,3,4:31.0,69,95,PHI,DET,3,home,Timeout,,,,,,
+281,3,4:31.0,69,95,PHI,DET,0,home,Sub,,,,,T. McConnell,R. Holmes
+282,3,4:31.0,69,95,PHI,DET,0,home,Sub,,,,,J. Harper,R. Covington
+283,3,4:20.0,69,95,PHI,DET,11,home,JS,,26,miss3,0,J. Harper,
+284,3,4:19.0,69,95,PHI,DET,1,away,DefReb,,,DefReb,,I. Smith,
+285,3,4:10.0,69,97,PHI,DET,9,away,HS,assist,12,make2,2,A. Drummond,I. Smith
+286,3,4:00.0,71,97,PHI,DET,10,home,LU,,2,make2,2,T. McConnell,
+287,3,3:31.0,71,99,PHI,DET,29,away,JS,,23,make2,2,K. Caldwell-Pope,
+288,3,3:16.0,71,99,PHI,DET,15,home,JS,,20,miss2,0,J. Anderson,
+289,3,3:15.0,71,99,PHI,DET,1,home,OffReb,,,OffReb,,T. McConnell,
+290,3,3:10.0,71,99,PHI,DET,5,home,JS,,25,miss3,0,J. Harper,
+291,3,3:08.0,71,99,PHI,DET,2,away,DefReb,,,DefReb,,A. Drummond,
+292,3,3:01.0,71,99,PHI,DET,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Luwawu-Cabarrot,I. Smith
+293,3,3:01.0,71,99,PHI,DET,0,away,Sub,,,,,S. Johnson,M. Morris
+294,3,2:54.0,71,99,PHI,DET,7,away,LU,,2,miss2,0,I. Smith,
+295,3,2:53.0,71,99,PHI,DET,1,away,OffReb,,,OffReb,,A. Drummond,
+296,3,2:53.0,71,101,PHI,DET,0,away,LU,,0,make2,2,A. Drummond,
+297,3,2:42.0,71,101,PHI,DET,11,home,JS,,4,miss2,0,J. Harper,
+298,3,2:40.0,71,101,PHI,DET,2,away,DefReb,,,DefReb,,A. Drummond,
+299,3,2:34.0,71,101,PHI,DET,6,away,JS,,26,miss3,0,S. Johnson,
+300,3,2:32.0,71,101,PHI,DET,2,home,DefReb,,,DefReb,,J. Anderson,
+301,3,2:25.0,74,101,PHI,DET,7,home,JS,,27,make3,3,S. Rodríguez,
+302,3,2:09.0,74,101,PHI,DET,16,away,JS,,27,miss3,0,K. Caldwell-Pope,
+303,3,2:07.0,74,101,PHI,DET,2,home,DefReb,,,DefReb,,T. Luwawu-Cabarrot,
+304,3,2:00.0,74,101,PHI,DET,7,home,JS,block,5,miss2,0,T. Luwawu-Cabarrot,T. Harris
+305,3,2:00.0,74,101,PHI,DET,0,home,OffReb,,,OffReb,,Team,
+306,3,2:00.0,74,101,PHI,DET,0,away,Timeout,,,,,,
+307,3,1:48.0,77,101,PHI,DET,12,home,JS,assist,26,make3,3,J. Harper,S. Rodríguez
+308,3,1:30.0,77,103,PHI,DET,18,away,DK,assist,0,make2,2,A. Drummond,K. Caldwell-Pope
+309,3,1:12.0,80,103,PHI,DET,18,home,JS,assist,24,make3,3,S. Rodríguez,T. McConnell
+310,3,0:54.0,80,103,PHI,DET,18,away,JS,,25,miss3,0,I. Smith,
+311,3,0:51.0,80,103,PHI,DET,3,home,DefReb,,,DefReb,,J. Harper,
+312,3,0:41.0,82,103,PHI,DET,10,home,JS,assist,10,make2,2,T. McConnell,S. Rodríguez
+313,3,0:41.0,82,103,PHI,DET,0,home,JumpBallViolation,,,JumpBallViolation,,Team,
+314,3,0:31.0,82,106,PHI,DET,10,away,JS,assist,24,make3,3,T. Harris,I. Smith
+315,3,0:07.0,82,106,PHI,DET,24,home,JS,block,10,miss2,0,T. McConnell,I. Smith
+316,3,0:05.0,82,106,PHI,DET,2,home,OffReb,,,OffReb,,Team,
+317,3,0:05.0,82,106,PHI,DET,0,home,ShotClockViolation,,,turnover,,Team,
+318,3,0:03.0,82,106,PHI,DET,2,away,PersonalTakeFoul,,,PersonalTakeFoul,,T. McConnell,
+319,3,0:01.0,82,106,PHI,DET,2,away,JS,,20,miss2,0,I. Smith,
+320,3,0:00.0,82,106,PHI,DET,1,away,OffReb,,,OffReb,,Team,
+321,4,11:41.0,82,109,PHI,DET,19,away,JS,,24,make3,3,K. Caldwell-Pope,
+322,4,11:20.0,84,109,PHI,DET,21,home,HS,assist,6,make2,2,D. Šarić,N. Stauskas
+323,4,10:54.0,84,111,PHI,DET,26,away,JS,,20,make2,2,R. Jackson,
+324,4,10:39.0,84,111,PHI,DET,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Caldwell-Pope,N. Stauskas
+325,4,10:39.0,84,111,PHI,DET,0,away,Sub,,,,,M. Morris,K. Caldwell-Pope
+326,4,10:29.0,84,111,PHI,DET,10,home,LU,,1,miss2,0,R. Holmes,
+327,4,10:28.0,84,111,PHI,DET,1,away,DefReb,,,DefReb,,T. Harris,
+328,4,10:09.0,84,113,PHI,DET,19,away,JS,assist,18,make2,2,M. Morris,S. Johnson
+329,4,9:47.0,84,113,PHI,DET,22,home,JS,,5,miss2,0,S. Rodríguez,
+330,4,9:46.0,84,113,PHI,DET,1,away,DefReb,,,DefReb,,T. Harris,
+331,4,9:30.0,84,113,PHI,DET,16,away,OutOfBounds,,,turnover,,R. Jackson,
+332,4,9:30.0,84,113,PHI,DET,0,home,Sub,,,,,J. Anderson,R. Covington
+333,4,9:20.0,84,113,PHI,DET,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,J. Anderson
+334,4,9:20.0,85,113,PHI,DET,0,home,FreeThrow,,,make1,1,J. Anderson,
+335,4,9:20.0,86,113,PHI,DET,0,home,FreeThrow,,,make1,1,J. Anderson,
+336,4,9:00.0,86,115,PHI,DET,20,away,JS,assist,13,make2,2,A. Baynes,R. Jackson
+337,4,8:43.0,89,115,PHI,DET,17,home,JS,,25,make3,3,D. Šarić,
+338,4,8:22.0,89,115,PHI,DET,21,away,JS,,6,miss2,0,T. Harris,
+339,4,8:22.0,89,115,PHI,DET,0,away,OffReb,,,OffReb,,A. Baynes,
+340,4,8:22.0,89,115,PHI,DET,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Holmes,A. Baynes
+341,4,8:22.0,89,115,PHI,DET,0,away,Timeout,,,,,,
+342,4,8:22.0,89,115,PHI,DET,0,home,Sub,,,,,T. Luwawu-Cabarrot,D. Šarić
+343,4,8:22.0,89,115,PHI,DET,0,home,Sub,,,,,J. Harper,R. Holmes
+344,4,8:16.0,89,115,PHI,DET,6,away,JS,,20,miss2,0,S. Johnson,
+345,4,8:14.0,89,115,PHI,DET,2,home,DefReb,,,DefReb,,J. Anderson,
+346,4,7:56.0,89,115,PHI,DET,18,home,JS,,15,miss2,0,J. Anderson,
+347,4,7:54.0,89,115,PHI,DET,2,away,DefReb,,,DefReb,,S. Johnson,
+348,4,7:49.0,89,117,PHI,DET,5,away,JS,,16,make2,2,S. Johnson,
+349,4,7:33.0,89,117,PHI,DET,16,home,JS,,25,miss3,0,J. Harper,
+350,4,7:32.0,89,117,PHI,DET,1,away,DefReb,,,DefReb,,T. Harris,
+351,4,7:28.0,89,117,PHI,DET,4,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,N. Stauskas,S. Johnson
+352,4,7:14.0,89,117,PHI,DET,14,away,JS,,14,miss2,0,T. Harris,
+353,4,7:13.0,89,117,PHI,DET,1,home,DefReb,,,DefReb,,J. Anderson,
+354,4,7:01.0,91,117,PHI,DET,12,home,JS,,14,make2,2,N. Stauskas,
+355,4,6:43.0,91,117,PHI,DET,18,away,JS,,27,miss3,0,M. Morris,
+356,4,6:41.0,91,117,PHI,DET,2,home,DefReb,,,DefReb,,N. Stauskas,
+357,4,6:36.0,91,117,PHI,DET,5,home,JS,,26,miss3,0,N. Stauskas,
+358,4,6:35.0,91,117,PHI,DET,1,away,DefReb,,,DefReb,,M. Morris,
+359,4,6:24.0,91,119,PHI,DET,11,away,LU,,3,make2,2,R. Jackson,
+360,4,6:23.0,91,119,PHI,DET,1,home,Timeout,,,,,,
+361,4,6:05.0,91,119,PHI,DET,18,home,JS,,27,miss3,0,J. Anderson,
+362,4,6:03.0,91,119,PHI,DET,2,home,OffReb,,,OffReb,,J. Harper,
+363,4,5:43.0,91,119,PHI,DET,20,home,JS,,4,miss2,0,T. Luwawu-Cabarrot,
+364,4,5:41.0,91,119,PHI,DET,2,home,OffReb,,,OffReb,,T. Luwawu-Cabarrot,
+365,4,5:38.0,91,119,PHI,DET,3,home,LostBall,steal,,turnover,,J. Harper,T. Harris
+366,4,5:26.0,91,119,PHI,DET,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Stauskas,A. Baynes
+367,4,5:26.0,91,119,PHI,DET,0,away,FreeThrow,,,make1,0,A. Baynes,
+368,4,5:26.0,91,119,PHI,DET,0,away,OffReb,,,OffReb,,Team,
+369,4,5:26.0,91,119,PHI,DET,0,away,Sub,,,,,I. Smith,R. Jackson
+370,4,5:26.0,91,120,PHI,DET,0,away,FreeThrow,,,make1,1,A. Baynes,
+371,4,5:17.0,91,120,PHI,DET,9,home,JS,,26,miss3,0,T. Luwawu-Cabarrot,
+372,4,5:15.0,91,120,PHI,DET,2,away,DefReb,,,DefReb,,A. Baynes,
+373,4,5:06.0,91,122,PHI,DET,9,away,JS,assist,10,make2,2,T. Harris,I. Smith
+374,4,4:47.0,94,122,PHI,DET,19,home,JS,,25,make3,3,S. Rodríguez,
+375,4,4:30.0,94,122,PHI,DET,17,away,JS,,27,miss3,0,M. Morris,
+376,4,4:28.0,94,122,PHI,DET,2,home,DefReb,,,DefReb,,N. Stauskas,
+377,4,4:24.0,94,122,PHI,DET,4,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,M. Morris,T. Luwawu-Cabarrot
+378,4,4:24.0,94,122,PHI,DET,0,away,Sub,,,,,R. Bullock,M. Morris
+379,4,4:16.0,96,122,PHI,DET,8,home,JS,assist,18,make2,2,J. Harper,S. Rodríguez
+380,4,3:50.0,96,124,PHI,DET,26,away,DK,assist,0,make2,2,A. Baynes,R. Bullock
+381,4,3:30.0,99,124,PHI,DET,20,home,JS,assist,25,make3,3,N. Stauskas,J. Harper
+382,4,3:09.0,99,124,PHI,DET,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harper,A. Baynes
+383,4,3:09.0,99,125,PHI,DET,0,away,FreeThrow,,,make1,1,A. Baynes,
+384,4,3:09.0,99,125,PHI,DET,0,away,Sub,,,,,D. Hilliard,S. Johnson
+385,4,3:09.0,99,126,PHI,DET,0,away,FreeThrow,,,make1,1,A. Baynes,
+386,4,3:00.0,99,126,PHI,DET,9,home,LU,block,3,miss2,0,T. Luwawu-Cabarrot,A. Baynes
+387,4,2:57.0,99,126,PHI,DET,3,home,OffReb,,,OffReb,,J. Harper,
+388,4,2:53.0,99,126,PHI,DET,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Harris,J. Anderson
+389,4,2:53.0,99,126,PHI,DET,0,away,Timeout,,,,,,
+390,4,2:53.0,99,126,PHI,DET,0,away,Sub,,,,,B. Marjanović,A. Baynes
+391,4,2:42.0,101,126,PHI,DET,11,home,LU,assist,1,make2,2,J. Harper,S. Rodríguez
+392,4,2:22.0,101,126,PHI,DET,20,away,JS,,14,miss2,0,B. Marjanović,
+393,4,2:20.0,101,126,PHI,DET,2,home,DefReb,,,DefReb,,N. Stauskas,
+394,4,2:07.0,103,126,PHI,DET,13,home,JS,,4,make2,2,T. Luwawu-Cabarrot,
+395,4,1:41.0,103,129,PHI,DET,26,away,JS,assist,26,make3,3,T. Harris,R. Bullock
+396,4,1:32.0,103,129,PHI,DET,9,home,JS,,27,miss3,0,N. Stauskas,
+397,4,1:30.0,103,129,PHI,DET,2,away,DefReb,,,DefReb,,I. Smith,
+398,4,1:22.0,103,131,PHI,DET,8,away,LU,,1,make2,2,I. Smith,
+399,4,1:05.0,103,131,PHI,DET,17,home,JS,,26,miss3,0,T. Luwawu-Cabarrot,
+400,4,1:03.0,103,131,PHI,DET,2,away,DefReb,,,DefReb,,T. Harris,
+401,4,0:57.0,103,133,PHI,DET,6,away,LU,assist,3,make2,2,B. Marjanović,I. Smith
+402,4,0:57.0,103,133,PHI,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Luwawu-Cabarrot,B. Marjanović
+403,4,0:57.0,103,133,PHI,DET,0,away,FreeThrow,,,make1,0,B. Marjanović,
+404,4,0:56.0,103,133,PHI,DET,1,home,DefReb,,,DefReb,,J. Anderson,
+405,4,0:47.0,103,133,PHI,DET,9,home,JS,,26,miss3,0,S. Rodríguez,
+406,4,0:45.0,103,133,PHI,DET,2,away,DefReb,,,DefReb,,T. Harris,
+407,4,0:35.0,103,135,PHI,DET,10,away,LU,assist,3,make2,2,B. Marjanović,R. Bullock
+408,4,0:35.0,103,135,PHI,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harper,B. Marjanović
+409,4,0:35.0,103,136,PHI,DET,0,away,FreeThrow,,,make1,1,B. Marjanović,
+410,4,0:27.0,106,136,PHI,DET,8,home,JS,assist,24,make3,3,N. Stauskas,S. Rodríguez
+411,4,0:00.0,106,136,PHI,DET,27,away,ShotClockViolation,,,turnover,,Team,

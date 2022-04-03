@@ -1,0 +1,428 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:44.0,0,2,IND,MEM,16,away,JS,assist,20,make2,2,D. Brooks,J. Jackson
+1,1,11:22.0,3,2,IND,MEM,22,home,JS,assist,28,make3,3,M. Brogdon,D. Sabonis
+2,1,11:06.0,3,5,IND,MEM,16,away,JS,assist,28,make3,3,J. Jackson,J. Crowder
+3,1,10:48.0,3,5,IND,MEM,18,home,OutOfBounds,,,turnover,,T. Warren,
+4,1,10:48.0,3,5,IND,MEM,0,home,InstantReplay,,,RulingStands,,Team,
+5,1,10:33.0,3,5,IND,MEM,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lamb,D. Brooks
+6,1,10:22.0,3,5,IND,MEM,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,J. Valančiūnas
+7,1,10:22.0,3,5,IND,MEM,0,away,FreeThrow,,,make1,0,J. Valančiūnas,
+8,1,10:22.0,3,5,IND,MEM,0,away,OffReb,,,OffReb,,Team,
+9,1,10:22.0,3,5,IND,MEM,0,away,FreeThrow,,,make1,0,J. Valančiūnas,
+10,1,10:21.0,3,5,IND,MEM,1,home,DefReb,,,DefReb,,D. Sabonis,
+11,1,10:10.0,3,5,IND,MEM,11,home,JS,,5,miss2,0,J. Lamb,
+12,1,10:08.0,3,5,IND,MEM,2,away,DefReb,,,DefReb,,J. Jackson,
+13,1,9:54.0,3,5,IND,MEM,14,away,JS,,27,miss3,0,D. Brooks,
+14,1,9:52.0,3,5,IND,MEM,2,home,DefReb,,,DefReb,,Team,
+15,1,9:52.0,3,5,IND,MEM,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Jackson,D. Sabonis
+16,1,9:46.0,5,5,IND,MEM,6,home,JS,assist,20,make2,2,M. Turner,M. Brogdon
+17,1,9:29.0,5,5,IND,MEM,17,away,JS,,13,miss2,0,J. Morant,
+18,1,9:24.0,5,5,IND,MEM,5,away,OffReb,,,OffReb,,D. Brooks,
+19,1,9:21.0,5,8,IND,MEM,3,away,JS,assist,26,make3,3,J. Jackson,J. Morant
+20,1,9:05.0,5,8,IND,MEM,16,home,JS,,18,miss2,0,T. Warren,
+21,1,9:02.0,5,8,IND,MEM,3,away,DefReb,,,DefReb,,D. Brooks,
+22,1,8:49.0,5,10,IND,MEM,13,away,LU,,0,make2,2,J. Valančiūnas,
+23,1,8:35.0,7,10,IND,MEM,14,home,JS,assist,20,make2,2,D. Sabonis,J. Lamb
+24,1,8:17.0,7,12,IND,MEM,18,away,LU,,2,make2,2,J. Jackson,
+25,1,8:06.0,9,12,IND,MEM,11,home,JS,,12,make2,2,M. Brogdon,
+26,1,7:50.0,9,12,IND,MEM,16,away,LU,,2,miss2,0,J. Morant,
+27,1,7:48.0,9,12,IND,MEM,2,away,OffReb,,,OffReb,,D. Brooks,
+28,1,7:47.0,9,12,IND,MEM,1,away,JS,,27,miss3,0,J. Jackson,
+29,1,7:44.0,9,12,IND,MEM,3,home,DefReb,,,DefReb,,M. Brogdon,
+30,1,7:35.0,9,12,IND,MEM,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jackson,D. Sabonis
+31,1,7:35.0,9,12,IND,MEM,0,away,Sub,,,,,B. Clarke,J. Jackson
+32,1,7:30.0,9,12,IND,MEM,5,home,lost ball,steal,,turnover,,T. Warren,J. Valančiūnas
+33,1,7:24.0,9,12,IND,MEM,6,away,LU,,1,miss2,0,D. Brooks,
+34,1,7:22.0,9,12,IND,MEM,2,home,DefReb,,,DefReb,,D. Sabonis,
+35,1,7:14.0,9,12,IND,MEM,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Brooks,M. Turner
+36,1,7:04.0,11,12,IND,MEM,10,home,LU,assist,2,make2,2,D. Sabonis,M. Brogdon
+37,1,7:04.0,11,12,IND,MEM,0,away,Timeout,,,,,,
+38,1,6:51.0,11,14,IND,MEM,13,away,LU,assist,1,make2,2,B. Clarke,J. Morant
+39,1,6:35.0,11,14,IND,MEM,16,home,JS,,9,miss2,0,M. Turner,
+40,1,6:32.0,11,14,IND,MEM,3,home,OffReb,,,OffReb,,D. Sabonis,
+41,1,6:27.0,11,14,IND,MEM,5,home,bad pass,steal,,turnover,,D. Sabonis,J. Morant
+42,1,6:23.0,11,14,IND,MEM,4,away,LU,,2,miss2,0,J. Morant,
+43,1,6:20.0,11,14,IND,MEM,3,home,DefReb,,,DefReb,,M. Brogdon,
+44,1,6:18.0,11,14,IND,MEM,2,home,bad pass,steal,,turnover,,M. Brogdon,J. Morant
+45,1,6:04.0,11,16,IND,MEM,14,away,JS,,12,make2,2,B. Clarke,
+46,1,5:43.0,13,16,IND,MEM,21,home,JS,assist,20,make2,2,D. Sabonis,M. Brogdon
+47,1,5:26.0,13,16,IND,MEM,17,away,JS,,20,miss2,0,J. Crowder,
+48,1,5:24.0,13,16,IND,MEM,2,home,DefReb,,,DefReb,,D. Sabonis,
+49,1,5:23.0,13,16,IND,MEM,1,home,OutOfBoundsLB,,,turnover,,M. Brogdon,
+50,1,5:23.0,13,16,IND,MEM,0,away,Sub,,,,,M. Guduric,D. Brooks
+51,1,5:23.0,13,16,IND,MEM,0,away,Sub,,,,,T. Jones,J. Morant
+52,1,5:06.0,13,16,IND,MEM,17,away,lost ball,steal,,turnover,,B. Clarke,D. Sabonis
+53,1,5:02.0,15,16,IND,MEM,4,home,LU,assist,2,make2,2,T. Warren,D. Sabonis
+54,1,4:45.0,15,18,IND,MEM,17,away,LU,,1,make2,2,M. Guduric,
+55,1,4:29.0,18,18,IND,MEM,16,home,JS,assist,27,make3,3,M. Turner,J. Lamb
+56,1,4:17.0,18,18,IND,MEM,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Valančiūnas,M. Turner
+57,1,4:17.0,18,18,IND,MEM,0,away,OffensiveFoul,,,turnover,,J. Valančiūnas,
+58,1,4:17.0,18,18,IND,MEM,0,away,Sub,,,,,K. Anderson,J. Crowder
+59,1,4:17.0,18,18,IND,MEM,0,home,Sub,,,,,A. Holiday,M. Brogdon
+60,1,4:17.0,18,18,IND,MEM,0,home,Sub,,,,,J. Holiday,D. Sabonis
+61,1,4:07.0,20,18,IND,MEM,10,home,JS,,9,make2,2,T. Warren,
+62,1,3:54.0,20,18,IND,MEM,13,away,JS,,7,miss2,0,M. Guduric,
+63,1,3:51.0,20,18,IND,MEM,3,home,DefReb,,,DefReb,,J. Lamb,
+64,1,3:46.0,23,18,IND,MEM,5,home,JS,assist,28,make3,3,A. Holiday,J. Lamb
+65,1,3:27.0,23,18,IND,MEM,19,away,lost ball,steal,,turnover,,K. Anderson,J. Lamb
+66,1,3:19.0,26,18,IND,MEM,8,home,JS,assist,30,make3,3,J. Holiday,M. Turner
+67,1,3:18.0,26,18,IND,MEM,1,away,Timeout,,,,,,
+68,1,3:18.0,26,18,IND,MEM,0,away,Sub,,,,,S. Hill,J. Valančiūnas
+69,1,3:18.0,26,18,IND,MEM,0,home,Sub,,,,,T. McConnell,J. Lamb
+70,1,2:58.0,26,20,IND,MEM,20,away,DK,assist,2,make2,2,B. Clarke,T. Jones
+71,1,2:45.0,28,20,IND,MEM,13,home,JS,,12,make2,2,T. Warren,
+72,1,2:30.0,28,22,IND,MEM,15,away,LU,assist,1,make2,2,B. Clarke,S. Hill
+73,1,2:13.0,30,22,IND,MEM,17,home,LU,,2,make2,2,A. Holiday,
+74,1,1:59.0,30,22,IND,MEM,14,away,JS,,18,miss2,0,T. Jones,
+75,1,1:56.0,30,22,IND,MEM,3,home,DefReb,,,DefReb,,M. Turner,
+76,1,1:49.0,32,22,IND,MEM,7,home,JS,assist,9,make2,2,T. Warren,T. McConnell
+77,1,1:34.0,32,24,IND,MEM,15,away,LU,,1,make2,2,K. Anderson,
+78,1,1:10.0,34,24,IND,MEM,24,home,LU,,1,make2,2,T. Warren,
+79,1,0:52.0,34,27,IND,MEM,18,away,JS,assist,28,make3,3,B. Clarke,K. Anderson
+80,1,0:37.0,36,27,IND,MEM,15,home,HS,assist,6,make2,2,M. Turner,J. Holiday
+81,1,0:27.0,36,27,IND,MEM,10,away,JS,,6,miss2,0,T. Jones,
+82,1,0:24.0,36,27,IND,MEM,3,home,DefReb,,,DefReb,,A. Holiday,
+83,1,0:11.0,36,27,IND,MEM,13,home,JS,,23,miss3,0,T. McConnell,
+84,1,0:05.0,36,27,IND,MEM,6,home,OffReb,,,OffReb,,T. McConnell,
+85,1,0:02.0,36,27,IND,MEM,3,home,JS,,27,miss3,0,T. Warren,
+86,1,0:02.0,36,27,IND,MEM,0,home,OffReb,,,OffReb,,T. McConnell,
+87,1,0:00.0,36,27,IND,MEM,2,home,LU,,9,miss2,0,T. McConnell,
+88,1,0:00.0,36,27,IND,MEM,0,home,OffReb,,,OffReb,,Team,
+89,2,11:48.0,39,27,IND,MEM,12,home,JS,assist,28,make3,3,J. Holiday,T. McConnell
+90,2,11:38.0,39,27,IND,MEM,10,away,JS,,27,miss3,0,S. Hill,
+91,2,11:36.0,39,27,IND,MEM,2,home,DefReb,,,DefReb,,T. McConnell,
+92,2,11:26.0,42,27,IND,MEM,10,home,JS,assist,28,make3,3,A. Holiday,J. Holiday
+93,2,11:04.0,42,27,IND,MEM,22,away,LU,,5,miss2,0,K. Anderson,
+94,2,11:03.0,42,27,IND,MEM,1,away,OffReb,,,OffReb,,Team,
+95,2,11:03.0,42,27,IND,MEM,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,G. Bitadze,K. Anderson
+96,2,10:54.0,42,27,IND,MEM,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Bitadze,J. Jackson
+97,2,10:54.0,42,28,IND,MEM,0,away,FreeThrow,,,make1,1,J. Jackson,
+98,2,10:54.0,42,29,IND,MEM,0,away,FreeThrow,,,make1,1,J. Jackson,
+99,2,10:44.0,42,29,IND,MEM,10,home,JS,,22,miss2,0,D. McDermott,
+100,2,10:42.0,42,29,IND,MEM,2,away,DefReb,,,DefReb,,J. Morant,
+101,2,10:34.0,42,31,IND,MEM,8,away,JS,assist,5,make2,2,J. Jackson,G. Allen
+102,2,10:22.0,44,31,IND,MEM,12,home,DK,assist,3,make2,2,G. Bitadze,T. McConnell
+103,2,10:03.0,44,33,IND,MEM,19,away,LU,,0,make2,2,J. Morant,
+104,2,9:52.0,46,33,IND,MEM,11,home,LU,,2,make2,2,D. McDermott,
+105,2,9:41.0,46,35,IND,MEM,11,away,JS,,7,make2,2,G. Allen,
+106,2,9:31.0,46,35,IND,MEM,10,home,JS,,22,miss3,0,J. Holiday,
+107,2,9:28.0,46,35,IND,MEM,3,away,DefReb,,,DefReb,,G. Allen,
+108,2,9:20.0,46,35,IND,MEM,8,away,DK,block,3,miss2,0,J. Jackson,G. Bitadze
+109,2,9:17.0,46,35,IND,MEM,3,home,DefReb,,,DefReb,,T. McConnell,
+110,2,9:15.0,46,35,IND,MEM,2,home,JS,,28,miss3,0,A. Holiday,
+111,2,9:11.0,46,35,IND,MEM,4,home,OffReb,,,OffReb,,J. Holiday,
+112,2,9:11.0,46,35,IND,MEM,0,home,DK,,0,miss2,0,J. Holiday,
+113,2,9:11.0,46,35,IND,MEM,0,home,OffReb,,,OffReb,,D. McDermott,
+114,2,9:10.0,48,35,IND,MEM,1,home,LU,,1,make2,2,D. McDermott,
+115,2,9:10.0,48,35,IND,MEM,0,away,Timeout,,,,,,
+116,2,9:10.0,48,35,IND,MEM,0,away,Sub,,,,,D. Brooks,K. Anderson
+117,2,9:10.0,48,35,IND,MEM,0,home,Sub,,,,,D. Sabonis,J. Holiday
+118,2,8:53.0,48,37,IND,MEM,17,away,JS,assist,4,make2,2,J. Jackson,S. Hill
+119,2,8:28.0,48,37,IND,MEM,25,home,JS,,5,miss2,0,T. McConnell,
+120,2,8:25.0,48,37,IND,MEM,3,away,DefReb,,,DefReb,,D. Brooks,
+121,2,8:20.0,48,40,IND,MEM,5,away,JS,assist,26,make3,3,D. Brooks,J. Morant
+122,2,8:05.0,50,40,IND,MEM,15,home,LU,,3,make2,2,T. McConnell,
+123,2,7:55.0,50,43,IND,MEM,10,away,JS,assist,28,make3,3,S. Hill,J. Morant
+124,2,7:42.0,50,43,IND,MEM,13,home,JS,,7,miss2,0,G. Bitadze,
+125,2,7:39.0,50,43,IND,MEM,3,away,DefReb,,,DefReb,,D. Brooks,
+126,2,7:35.0,50,43,IND,MEM,4,away,JS,,6,miss2,0,D. Brooks,
+127,2,7:33.0,50,43,IND,MEM,2,home,DefReb,,,DefReb,,Team,
+128,2,7:33.0,50,43,IND,MEM,0,home,Sub,,,,,M. Brogdon,A. Holiday
+129,2,7:21.0,50,43,IND,MEM,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,D. Sabonis
+130,2,7:21.0,50,43,IND,MEM,0,home,Sub,,,,,J. Lamb,G. Bitadze
+131,2,7:14.0,50,43,IND,MEM,7,home,LU,,2,miss2,0,D. Sabonis,
+132,2,7:13.0,50,43,IND,MEM,1,home,OffReb,,,OffReb,,D. Sabonis,
+133,2,7:12.0,50,43,IND,MEM,1,home,LU,,5,miss2,0,D. Sabonis,
+134,2,7:11.0,50,43,IND,MEM,1,home,OffReb,,,OffReb,,D. Sabonis,
+135,2,7:11.0,50,43,IND,MEM,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jackson,D. Sabonis
+136,2,7:11.0,50,43,IND,MEM,0,away,Sub,,,,,J. Valančiūnas,J. Jackson
+137,2,7:03.0,52,43,IND,MEM,8,home,LU,,1,make2,2,T. McConnell,
+138,2,6:53.0,52,43,IND,MEM,10,away,JS,,28,miss3,0,J. Morant,
+139,2,6:51.0,52,43,IND,MEM,2,away,OffReb,,,OffReb,,Team,
+140,2,6:51.0,52,43,IND,MEM,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Lamb,S. Hill
+141,2,6:51.0,52,43,IND,MEM,0,away,Sub,,,,,B. Clarke,G. Allen
+142,2,6:51.0,52,43,IND,MEM,0,away,Sub,,,,,J. Crowder,S. Hill
+143,2,6:44.0,52,43,IND,MEM,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. McConnell,J. Morant
+144,2,6:44.0,52,44,IND,MEM,0,away,FreeThrow,,,make1,1,J. Morant,
+145,2,6:44.0,52,45,IND,MEM,0,away,FreeThrow,,,make1,1,J. Morant,
+146,2,6:24.0,52,45,IND,MEM,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Valančiūnas,D. Sabonis
+147,2,6:24.0,52,45,IND,MEM,0,home,FreeThrow,,,make1,0,D. Sabonis,
+148,2,6:24.0,52,45,IND,MEM,0,home,OffReb,,,OffReb,,Team,
+149,2,6:24.0,52,45,IND,MEM,0,away,Sub,,,,,T. Jones,J. Morant
+150,2,6:24.0,53,45,IND,MEM,0,home,FreeThrow,,,make1,1,D. Sabonis,
+151,2,6:13.0,53,47,IND,MEM,11,away,DK,assist,1,make2,2,J. Valančiūnas,D. Brooks
+152,2,6:01.0,56,47,IND,MEM,12,home,JS,assist,22,make3,3,M. Brogdon,J. Lamb
+153,2,5:50.0,56,47,IND,MEM,11,away,JS,,26,miss3,0,J. Crowder,
+154,2,5:47.0,56,47,IND,MEM,3,home,DefReb,,,DefReb,,D. Sabonis,
+155,2,5:36.0,56,47,IND,MEM,11,home,JS,,12,miss2,0,D. McDermott,
+156,2,5:33.0,56,47,IND,MEM,3,away,DefReb,,,DefReb,,J. Valančiūnas,
+157,2,5:23.0,56,49,IND,MEM,10,away,JS,,17,make2,2,D. Brooks,
+158,2,5:22.0,56,49,IND,MEM,1,home,Timeout,,,,,,
+159,2,5:22.0,56,49,IND,MEM,0,home,Sub,,,,,M. Turner,T. McConnell
+160,2,5:22.0,56,49,IND,MEM,0,home,Sub,,,,,T. Warren,D. McDermott
+161,2,5:08.0,58,49,IND,MEM,14,home,JS,,5,make2,2,J. Lamb,
+162,2,4:47.0,58,49,IND,MEM,21,away,JS,,19,miss2,0,D. Brooks,
+163,2,4:45.0,58,49,IND,MEM,2,home,DefReb,,,DefReb,,D. Sabonis,
+164,2,4:34.0,60,49,IND,MEM,11,home,JS,assist,13,make2,2,M. Brogdon,D. Sabonis
+165,2,4:15.0,60,49,IND,MEM,19,away,JS,,10,miss2,0,T. Jones,
+166,2,4:13.0,60,49,IND,MEM,2,home,DefReb,,,DefReb,,D. Sabonis,
+167,2,4:07.0,60,49,IND,MEM,6,home,JS,,26,miss3,0,J. Lamb,
+168,2,4:04.0,60,49,IND,MEM,3,away,DefReb,,,DefReb,,B. Clarke,
+169,2,3:53.0,60,49,IND,MEM,11,away,JS,,5,miss2,0,J. Valančiūnas,
+170,2,3:51.0,60,49,IND,MEM,2,home,DefReb,,,DefReb,,D. Sabonis,
+171,2,3:43.0,60,49,IND,MEM,8,home,LU,block,1,miss2,0,T. Warren,J. Valančiūnas
+172,2,3:39.0,60,49,IND,MEM,4,home,OffReb,,,OffReb,,T. Warren,
+173,2,3:39.0,62,49,IND,MEM,0,home,LU,,0,make2,2,T. Warren,
+174,2,3:23.0,62,49,IND,MEM,16,away,JS,,26,miss3,0,D. Brooks,
+175,2,3:20.0,62,49,IND,MEM,3,home,DefReb,,,DefReb,,M. Turner,
+176,2,3:10.0,62,49,IND,MEM,10,home,JS,,11,miss2,0,J. Lamb,
+177,2,3:07.0,62,49,IND,MEM,3,away,DefReb,,,DefReb,,J. Valančiūnas,
+178,2,3:03.0,62,49,IND,MEM,4,away,LU,,2,miss2,0,T. Jones,
+179,2,3:00.0,62,49,IND,MEM,3,away,OffReb,,,OffReb,,B. Clarke,
+180,2,3:00.0,62,49,IND,MEM,0,away,LU,,1,miss2,0,B. Clarke,
+181,2,2:57.0,62,49,IND,MEM,3,home,DefReb,,,DefReb,,M. Turner,
+182,2,2:55.0,62,49,IND,MEM,2,home,LU,,0,miss2,0,J. Lamb,
+183,2,2:55.0,62,49,IND,MEM,0,away,DefReb,,,DefReb,,Team,
+184,2,2:55.0,62,49,IND,MEM,0,away,Sub,,,,,J. Morant,T. Jones
+185,2,2:44.0,62,49,IND,MEM,11,away,LU,block,3,miss2,0,J. Morant,M. Turner
+186,2,2:41.0,62,49,IND,MEM,3,home,DefReb,,,DefReb,,D. Sabonis,
+187,2,2:41.0,62,49,IND,MEM,0,away,Sub,,,,,K. Anderson,B. Clarke
+188,2,2:24.0,64,49,IND,MEM,17,home,JS,,7,make2,2,J. Lamb,
+189,2,2:08.0,64,49,IND,MEM,16,away,LU,block,0,miss2,0,J. Valančiūnas,M. Turner
+190,2,2:04.0,64,49,IND,MEM,4,home,DefReb,,,DefReb,,M. Turner,
+191,2,2:02.0,64,49,IND,MEM,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Anderson,D. Sabonis
+192,2,2:02.0,65,49,IND,MEM,0,home,FreeThrow,,,make1,1,D. Sabonis,
+193,2,2:02.0,65,49,IND,MEM,0,home,FreeThrow,,,make1,0,D. Sabonis,
+194,2,2:00.0,65,49,IND,MEM,2,away,DefReb,,,DefReb,,K. Anderson,
+195,2,1:46.0,65,49,IND,MEM,14,away,LU,,5,miss2,0,D. Brooks,
+196,2,1:42.0,65,49,IND,MEM,4,away,OffReb,,,OffReb,,J. Valančiūnas,
+197,2,1:40.0,65,51,IND,MEM,2,away,LU,,1,make2,2,J. Valančiūnas,
+198,2,1:23.0,67,51,IND,MEM,17,home,JS,,7,make2,2,J. Lamb,
+199,2,1:05.0,67,53,IND,MEM,18,away,LU,,0,make2,2,J. Morant,
+200,2,0:55.0,67,53,IND,MEM,10,home,BadPass,,,turnover,,M. Turner,
+201,2,0:52.0,67,56,IND,MEM,3,away,JS,assist,25,make3,3,J. Crowder,J. Morant
+202,2,0:41.0,67,56,IND,MEM,11,home,JS,,18,miss2,0,M. Brogdon,
+203,2,0:38.0,67,56,IND,MEM,3,away,DefReb,,,DefReb,,K. Anderson,
+204,2,0:34.0,67,56,IND,MEM,4,away,LU,block,1,miss2,0,J. Morant,M. Turner
+205,2,0:30.0,67,56,IND,MEM,4,home,DefReb,,,DefReb,,M. Brogdon,
+206,2,0:28.0,67,56,IND,MEM,2,home,OutOfBoundsLB,,,turnover,,M. Brogdon,
+207,2,0:28.0,67,56,IND,MEM,0,away,Timeout,,,,,,
+208,2,0:28.0,67,56,IND,MEM,0,away,Sub,,,,,T. Jones,J. Morant
+209,2,0:04.0,67,56,IND,MEM,24,away,JS,,16,miss2,0,K. Anderson,
+210,2,0:02.0,67,56,IND,MEM,2,home,DefReb,,,DefReb,,T. Warren,
+211,3,11:44.0,69,56,IND,MEM,16,home,JS,assist,20,make2,2,J. Lamb,D. Sabonis
+212,3,11:26.0,69,56,IND,MEM,18,away,LU,,3,miss2,0,J. Jackson,
+213,3,11:22.0,69,56,IND,MEM,4,away,OffReb,,,OffReb,,D. Brooks,
+214,3,11:13.0,69,56,IND,MEM,9,away,LU,block,2,miss2,0,J. Crowder,M. Turner
+215,3,11:13.0,69,56,IND,MEM,0,away,OffReb,,,OffReb,,Team,
+216,3,11:09.0,69,56,IND,MEM,4,away,ShotClockViolation,,,turnover,,Team,
+217,3,10:58.0,72,56,IND,MEM,11,home,JS,,27,make3,3,J. Lamb,
+218,3,10:45.0,72,56,IND,MEM,13,away,LU,,2,miss2,0,D. Brooks,
+219,3,10:43.0,72,56,IND,MEM,2,home,DefReb,,,DefReb,,J. Lamb,
+220,3,10:36.0,72,56,IND,MEM,7,home,IllegalAssist,,,turnover,,T. Warren,
+221,3,10:23.0,72,56,IND,MEM,13,away,JS,,17,miss2,0,T. Jones,
+222,3,10:21.0,72,56,IND,MEM,2,home,DefReb,,,DefReb,,D. Sabonis,
+223,3,10:15.0,72,56,IND,MEM,6,home,LU,,6,miss2,0,M. Brogdon,
+224,3,10:15.0,72,56,IND,MEM,0,away,DefReb,,,DefReb,,J. Valančiūnas,
+225,3,10:08.0,72,56,IND,MEM,7,away,JS,,28,miss3,0,J. Valančiūnas,
+226,3,10:06.0,72,56,IND,MEM,2,home,DefReb,,,DefReb,,T. Warren,
+227,3,9:52.0,74,56,IND,MEM,14,home,JS,assist,13,make2,2,D. Sabonis,M. Brogdon
+228,3,9:39.0,74,56,IND,MEM,13,away,JS,,28,miss3,0,J. Crowder,
+229,3,9:39.0,74,56,IND,MEM,0,away,OffReb,,,OffReb,,J. Jackson,
+230,3,9:33.0,74,58,IND,MEM,6,away,JS,,7,make2,2,J. Jackson,
+231,3,9:20.0,74,58,IND,MEM,13,home,lost ball,steal,,turnover,,J. Lamb,D. Brooks
+232,3,9:15.0,74,58,IND,MEM,5,away,bad pass,steal,,turnover,,D. Brooks,M. Brogdon
+233,3,9:11.0,77,58,IND,MEM,4,home,JS,assist,24,make3,3,T. Warren,M. Brogdon
+234,3,9:09.0,77,58,IND,MEM,2,away,Timeout,,,,,,
+235,3,9:09.0,77,58,IND,MEM,0,away,Sub,,,,,J. Morant,T. Jones
+236,3,8:52.0,77,58,IND,MEM,17,away,JS,,23,miss3,0,D. Brooks,
+237,3,8:49.0,77,58,IND,MEM,3,home,DefReb,,,DefReb,,D. Sabonis,
+238,3,8:37.0,79,58,IND,MEM,12,home,JS,,15,make2,2,M. Brogdon,
+239,3,8:19.0,79,60,IND,MEM,18,away,JS,,14,make2,2,J. Morant,
+240,3,8:05.0,79,60,IND,MEM,14,home,LU,,2,miss2,0,M. Brogdon,
+241,3,8:01.0,79,60,IND,MEM,4,away,DefReb,,,DefReb,,J. Valančiūnas,
+242,3,7:58.0,79,60,IND,MEM,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,J. Morant
+243,3,7:58.0,79,61,IND,MEM,0,away,FreeThrow,,,make1,1,J. Morant,
+244,3,7:58.0,79,62,IND,MEM,0,away,FreeThrow,,,make1,1,J. Morant,
+245,3,7:46.0,79,62,IND,MEM,12,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Valančiūnas,T. Warren
+246,3,7:40.0,79,62,IND,MEM,6,home,JS,,27,miss3,0,T. Warren,
+247,3,7:37.0,79,62,IND,MEM,3,away,DefReb,,,DefReb,,J. Valančiūnas,
+248,3,7:22.0,79,62,IND,MEM,15,away,JS,,6,miss2,0,J. Valančiūnas,
+249,3,7:20.0,79,62,IND,MEM,2,home,DefReb,,,DefReb,,J. Lamb,
+250,3,7:11.0,79,62,IND,MEM,9,home,LU,block,2,miss2,0,J. Lamb,J. Valančiūnas
+251,3,7:11.0,79,62,IND,MEM,0,away,bad pass,steal,,turnover,,J. Valančiūnas,D. Sabonis
+252,3,7:11.0,79,62,IND,MEM,0,away,DefReb,,,DefReb,,J. Valančiūnas,
+253,3,7:09.0,79,62,IND,MEM,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crowder,D. Sabonis
+254,3,7:04.0,81,62,IND,MEM,5,home,DK,assist,2,make2,2,T. Warren,M. Turner
+255,3,6:57.0,81,62,IND,MEM,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Turner,J. Valančiūnas
+256,3,6:48.0,81,64,IND,MEM,9,away,JS,,8,make2,2,D. Brooks,
+257,3,6:25.0,81,64,IND,MEM,23,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,D. Sabonis
+258,3,6:25.0,82,64,IND,MEM,0,home,FreeThrow,,,make1,1,D. Sabonis,
+259,3,6:25.0,82,64,IND,MEM,0,away,Sub,,,,,B. Clarke,J. Valančiūnas
+260,3,6:25.0,82,64,IND,MEM,0,home,FreeThrow,,,make1,0,D. Sabonis,
+261,3,6:24.0,82,64,IND,MEM,1,away,DefReb,,,DefReb,,J. Jackson,
+262,3,6:11.0,82,64,IND,MEM,13,away,JS,,8,miss2,0,J. Morant,
+263,3,6:09.0,82,64,IND,MEM,2,home,DefReb,,,DefReb,,M. Brogdon,
+264,3,6:05.0,84,64,IND,MEM,4,home,LU,assist,2,make2,2,J. Lamb,M. Brogdon
+265,3,5:52.0,84,64,IND,MEM,13,away,JS,,22,miss3,0,J. Crowder,
+266,3,5:49.0,84,64,IND,MEM,3,home,DefReb,,,DefReb,,J. Lamb,
+267,3,5:37.0,86,64,IND,MEM,12,home,HS,,6,make2,2,D. Sabonis,
+268,3,5:23.0,86,67,IND,MEM,14,away,JS,assist,26,make3,3,J. Jackson,D. Brooks
+269,3,5:05.0,89,67,IND,MEM,18,home,JS,assist,23,make3,3,T. Warren,D. Sabonis
+270,3,4:48.0,89,70,IND,MEM,17,away,JS,assist,26,make3,3,J. Jackson,J. Crowder
+271,3,4:29.0,92,70,IND,MEM,19,home,JS,assist,24,make3,3,J. Lamb,M. Brogdon
+272,3,4:12.0,92,73,IND,MEM,17,away,JS,assist,27,make3,3,J. Crowder,J. Morant
+273,3,4:04.0,92,73,IND,MEM,8,home,Timeout,,,,,,
+274,3,4:04.0,92,73,IND,MEM,0,away,Sub,,,,,K. Anderson,D. Brooks
+275,3,4:04.0,92,73,IND,MEM,0,away,Sub,,,,,S. Hill,J. Jackson
+276,3,4:04.0,92,73,IND,MEM,0,home,Sub,,,,,J. Holiday,D. Sabonis
+277,3,3:48.0,92,73,IND,MEM,16,home,JS,,24,miss3,0,J. Lamb,
+278,3,3:46.0,92,73,IND,MEM,2,away,DefReb,,,DefReb,,K. Anderson,
+279,3,3:34.0,92,75,IND,MEM,12,away,JS,assist,7,make2,2,B. Clarke,J. Morant
+280,3,3:11.0,92,75,IND,MEM,23,home,JS,,23,miss3,0,J. Lamb,
+281,3,3:09.0,92,75,IND,MEM,2,away,DefReb,,,DefReb,,J. Crowder,
+282,3,2:50.0,92,75,IND,MEM,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,J. Morant
+283,3,2:50.0,92,75,IND,MEM,0,away,FreeThrow,,,make1,0,J. Morant,
+284,3,2:50.0,92,75,IND,MEM,0,away,OffReb,,,OffReb,,Team,
+285,3,2:50.0,92,75,IND,MEM,0,home,Sub,,,,,A. Holiday,M. Brogdon
+286,3,2:50.0,92,75,IND,MEM,0,home,Sub,,,,,T. McConnell,J. Lamb
+287,3,2:50.0,92,75,IND,MEM,0,home,Sub,,,,,D. Sabonis,M. Turner
+288,3,2:50.0,92,76,IND,MEM,0,away,FreeThrow,,,make1,1,J. Morant,
+289,3,2:39.0,94,76,IND,MEM,11,home,JS,,11,make2,2,T. Warren,
+290,3,2:31.0,94,76,IND,MEM,8,away,JS,,10,miss2,0,S. Hill,
+291,3,2:27.0,94,76,IND,MEM,4,home,DefReb,,,DefReb,,T. McConnell,
+292,3,2:21.0,94,76,IND,MEM,6,home,lost ball,steal,,turnover,,A. Holiday,K. Anderson
+293,3,2:12.0,94,78,IND,MEM,9,away,JS,assist,6,make2,2,K. Anderson,S. Hill
+294,3,1:52.0,97,78,IND,MEM,20,home,JS,assist,24,make3,3,T. McConnell,A. Holiday
+295,3,1:33.0,97,81,IND,MEM,19,away,JS,assist,28,make3,3,J. Crowder,B. Clarke
+296,3,1:14.0,97,81,IND,MEM,19,home,LU,block,0,miss2,0,T. McConnell,B. Clarke
+297,3,1:14.0,97,81,IND,MEM,0,home,OffReb,,,OffReb,,Team,
+298,3,1:14.0,97,81,IND,MEM,0,home,Timeout,,,,,,
+299,3,1:14.0,97,81,IND,MEM,0,away,Sub,,,,,G. Allen,J. Crowder
+300,3,1:14.0,97,81,IND,MEM,0,away,Sub,,,,,D. Melton,J. Morant
+301,3,1:14.0,97,81,IND,MEM,0,home,Sub,,,,,D. McDermott,T. Warren
+302,3,1:07.0,100,81,IND,MEM,7,home,JS,assist,27,make3,3,J. Holiday,T. McConnell
+303,3,0:54.0,100,81,IND,MEM,13,away,bad pass,steal,,turnover,,D. Melton,A. Holiday
+304,3,0:51.0,102,81,IND,MEM,3,home,LU,,2,make2,2,A. Holiday,
+305,3,0:46.0,102,81,IND,MEM,5,away,JS,,26,miss3,0,S. Hill,
+306,3,0:44.0,102,81,IND,MEM,2,home,DefReb,,,DefReb,,A. Holiday,
+307,3,0:31.0,102,81,IND,MEM,13,home,JS,,28,miss3,0,D. Sabonis,
+308,3,0:28.0,102,81,IND,MEM,3,away,DefReb,,,DefReb,,S. Hill,
+309,3,0:13.0,102,83,IND,MEM,15,away,JS,assist,5,make2,2,B. Clarke,D. Melton
+310,3,0:00.0,104,83,IND,MEM,13,home,LU,,1,make2,2,T. McConnell,
+311,3,0:00.0,104,83,IND,MEM,0,home,InstantReplay,,,RulingStands,,Team,
+312,4,11:51.0,104,83,IND,MEM,9,away,lost ball,steal,,turnover,,J. Jackson,A. Holiday
+313,4,11:44.0,107,83,IND,MEM,7,home,JS,assist,28,make3,3,A. Holiday,T. McConnell
+314,4,11:20.0,107,83,IND,MEM,24,away,JS,,27,miss3,0,G. Allen,
+315,4,11:16.0,107,83,IND,MEM,4,home,DefReb,,,DefReb,,D. McDermott,
+316,4,11:07.0,109,83,IND,MEM,9,home,JS,,10,make2,2,T. McConnell,
+317,4,10:53.0,109,83,IND,MEM,14,away,JS,,5,miss2,0,G. Allen,
+318,4,10:51.0,109,83,IND,MEM,2,home,DefReb,,,DefReb,,J. Holiday,
+319,4,10:45.0,112,83,IND,MEM,6,home,JS,assist,29,make3,3,A. Holiday,T. McConnell
+320,4,10:43.0,112,83,IND,MEM,2,away,Timeout,,,,,,
+321,4,10:43.0,112,83,IND,MEM,0,away,Sub,,,,,D. Brooks,K. Anderson
+322,4,10:30.0,112,86,IND,MEM,13,away,JS,assist,27,make3,3,J. Jackson,S. Hill
+323,4,10:16.0,112,86,IND,MEM,14,home,Traveling,,,turnover,,T. McConnell,
+324,4,10:16.0,112,86,IND,MEM,0,away,Sub,,,,,J. Morant,D. Melton
+325,4,10:08.0,112,86,IND,MEM,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Sabonis,J. Jackson
+326,4,10:03.0,112,88,IND,MEM,5,away,LU,assist,2,make2,2,J. Morant,S. Hill
+327,4,9:36.0,112,88,IND,MEM,27,home,JS,,16,miss2,0,T. McConnell,
+328,4,9:34.0,112,88,IND,MEM,2,away,DefReb,,,DefReb,,J. Jackson,
+329,4,9:29.0,112,91,IND,MEM,5,away,JS,,27,make3,3,J. Jackson,
+330,4,9:10.0,112,91,IND,MEM,19,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,D. Sabonis
+331,4,9:10.0,112,91,IND,MEM,0,away,Sub,,,,,J. Crowder,G. Allen
+332,4,8:58.0,112,91,IND,MEM,12,home,JS,,24,miss3,0,J. Holiday,
+333,4,8:56.0,112,91,IND,MEM,2,away,DefReb,,,DefReb,,S. Hill,
+334,4,8:51.0,112,91,IND,MEM,5,away,JS,,27,miss3,0,J. Jackson,
+335,4,8:47.0,112,91,IND,MEM,4,home,DefReb,,,DefReb,,D. McDermott,
+336,4,8:39.0,112,91,IND,MEM,8,home,LU,block,2,miss2,0,J. Holiday,J. Morant
+337,4,8:37.0,112,91,IND,MEM,2,away,DefReb,,,DefReb,,J. Jackson,
+338,4,8:33.0,112,93,IND,MEM,4,away,LU,,2,make2,2,J. Morant,
+339,4,8:27.0,112,93,IND,MEM,6,home,Timeout,,,,,,
+340,4,8:27.0,112,93,IND,MEM,0,home,Sub,,,,,M. Brogdon,A. Holiday
+341,4,8:27.0,112,93,IND,MEM,0,home,Sub,,,,,J. Lamb,J. Holiday
+342,4,8:27.0,112,93,IND,MEM,0,home,Sub,,,,,T. Warren,T. McConnell
+343,4,8:10.0,112,93,IND,MEM,17,home,JS,,28,miss3,0,M. Brogdon,
+344,4,8:07.0,112,93,IND,MEM,3,away,DefReb,,,DefReb,,J. Crowder,
+345,4,8:03.0,112,95,IND,MEM,4,away,DK,assist,2,make2,2,S. Hill,J. Morant
+346,4,7:38.0,115,95,IND,MEM,25,home,JS,assist,27,make3,3,J. Lamb,D. Sabonis
+347,4,7:29.0,115,95,IND,MEM,9,away,LU,,1,miss2,0,J. Jackson,
+348,4,7:27.0,115,95,IND,MEM,2,home,DefReb,,,DefReb,,D. McDermott,
+349,4,7:07.0,115,95,IND,MEM,20,home,JS,,6,miss2,0,J. Lamb,
+350,4,7:04.0,115,95,IND,MEM,3,away,DefReb,,,DefReb,,J. Crowder,
+351,4,6:55.0,115,97,IND,MEM,9,away,LU,,1,make2,2,J. Morant,
+352,4,6:39.0,115,97,IND,MEM,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jackson,T. Warren
+353,4,6:39.0,116,97,IND,MEM,0,home,FreeThrow,,,make1,1,T. Warren,
+354,4,6:39.0,116,97,IND,MEM,0,home,Sub,,,,,M. Turner,D. Sabonis
+355,4,6:39.0,116,97,IND,MEM,0,home,FreeThrow,,,make1,0,T. Warren,
+356,4,6:38.0,116,97,IND,MEM,1,away,DefReb,,,DefReb,,S. Hill,
+357,4,6:26.0,116,97,IND,MEM,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. McDermott,J. Morant
+358,4,6:26.0,116,98,IND,MEM,0,away,FreeThrow,,,make1,1,J. Morant,
+359,4,6:26.0,116,98,IND,MEM,0,away,Sub,,,,,B. Clarke,S. Hill
+360,4,6:26.0,116,98,IND,MEM,0,away,Sub,,,,,J. Valančiūnas,J. Jackson
+361,4,6:26.0,116,99,IND,MEM,0,away,FreeThrow,,,make1,1,J. Morant,
+362,4,6:17.0,118,99,IND,MEM,9,home,JS,,12,make2,2,M. Brogdon,
+363,4,5:58.0,118,99,IND,MEM,19,away,JS,,28,miss3,0,J. Crowder,
+364,4,5:55.0,118,99,IND,MEM,3,home,DefReb,,,DefReb,,M. Brogdon,
+365,4,5:40.0,118,99,IND,MEM,15,home,JS,,27,miss3,0,M. Turner,
+366,4,5:36.0,118,99,IND,MEM,4,away,DefReb,,,DefReb,,D. Brooks,
+367,4,5:34.0,118,99,IND,MEM,2,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Valančiūnas,M. Turner
+368,4,5:34.0,118,99,IND,MEM,0,away,OffensiveFoul,,,turnover,,J. Valančiūnas,
+369,4,5:23.0,118,99,IND,MEM,11,home,LU,block,3,miss2,0,M. Brogdon,J. Valančiūnas
+370,4,5:20.0,118,99,IND,MEM,3,away,DefReb,,,DefReb,,J. Valančiūnas,
+371,4,5:15.0,118,99,IND,MEM,5,away,DK,,2,miss2,0,J. Morant,
+372,4,5:14.0,118,99,IND,MEM,1,home,DefReb,,,DefReb,,T. Warren,
+373,4,4:59.0,118,99,IND,MEM,15,home,OutOfBoundsLB,,,turnover,,D. McDermott,
+374,4,4:49.0,118,99,IND,MEM,10,away,JS,,29,miss3,0,J. Crowder,
+375,4,4:46.0,118,99,IND,MEM,3,away,OffReb,,,OffReb,,J. Morant,
+376,4,4:36.0,118,101,IND,MEM,10,away,HS,assist,5,make2,2,J. Valančiūnas,J. Morant
+377,4,4:20.0,121,101,IND,MEM,16,home,JS,,28,make3,3,T. Warren,
+378,4,4:08.0,121,101,IND,MEM,12,away,LU,,2,miss2,0,D. Brooks,
+379,4,4:06.0,121,101,IND,MEM,2,away,OffReb,,,OffReb,,J. Valančiūnas,
+380,4,4:06.0,121,101,IND,MEM,0,away,LU,,0,miss2,0,J. Valančiūnas,
+381,4,4:06.0,121,101,IND,MEM,0,home,DefReb,,,DefReb,,Team,
+382,4,3:54.0,121,101,IND,MEM,12,home,lost ball,steal,,turnover,,T. Warren,D. Brooks
+383,4,3:49.0,121,103,IND,MEM,5,away,JS,assist,8,make2,2,J. Valančiūnas,J. Morant
+384,4,3:44.0,121,103,IND,MEM,5,away,TechnicalFoul,,,TechnicalFoul,,T. Warren,
+385,4,3:44.0,121,103,IND,MEM,0,away,FreeThrow,,,make1,0,D. Brooks misses technical free throw,
+386,4,3:44.0,121,103,IND,MEM,0,home,DefReb,,,DefReb,,Team,
+387,4,3:35.0,124,103,IND,MEM,9,home,JS,assist,26,make3,3,D. McDermott,M. Brogdon
+388,4,3:18.0,124,103,IND,MEM,17,away,LU,block,2,miss2,0,J. Morant,M. Turner
+389,4,3:15.0,124,103,IND,MEM,3,home,DefReb,,,DefReb,,M. Brogdon,
+390,4,3:01.0,124,103,IND,MEM,14,home,JS,,29,miss3,0,M. Brogdon,
+391,4,2:57.0,124,103,IND,MEM,4,away,DefReb,,,DefReb,,B. Clarke,
+392,4,2:53.0,124,105,IND,MEM,4,away,LU,assist,1,make2,2,J. Valančiūnas,D. Brooks
+393,4,2:45.0,124,105,IND,MEM,8,home,Timeout,,,,,,
+394,4,2:45.0,124,105,IND,MEM,0,away,Sub,,,,,G. Allen,D. Brooks
+395,4,2:45.0,124,105,IND,MEM,0,away,Sub,,,,,M. Guduric,J. Crowder
+396,4,2:45.0,124,105,IND,MEM,0,away,Sub,,,,,D. Melton,J. Morant
+397,4,2:45.0,124,105,IND,MEM,0,home,Sub,,,,,G. Bitadze,M. Brogdon
+398,4,2:45.0,124,105,IND,MEM,0,home,Sub,,,,,A. Holiday,J. Lamb
+399,4,2:45.0,124,105,IND,MEM,0,home,Sub,,,,,T. Leaf,M. Turner
+400,4,2:45.0,124,105,IND,MEM,0,home,Sub,,,,,T. McConnell,T. Warren
+401,4,2:34.0,124,105,IND,MEM,11,home,JS,,1,miss2,0,G. Bitadze,
+402,4,2:33.0,124,105,IND,MEM,1,home,OffReb,,,OffReb,,Team,
+403,4,2:33.0,124,105,IND,MEM,0,home,Sub,,,,,A. Johnson,D. McDermott
+404,4,2:29.0,124,105,IND,MEM,4,home,JS,,10,miss2,0,A. Johnson,
+405,4,2:26.0,124,105,IND,MEM,3,away,DefReb,,,DefReb,,G. Allen,
+406,4,2:19.0,124,107,IND,MEM,7,away,DK,assist,3,make2,2,J. Valančiūnas,G. Allen
+407,4,2:01.0,124,107,IND,MEM,18,home,JS,,18,miss2,0,A. Holiday,
+408,4,1:59.0,124,107,IND,MEM,2,away,DefReb,,,DefReb,,J. Valančiūnas,
+409,4,1:54.0,124,109,IND,MEM,5,away,LU,assist,3,make2,2,G. Allen,M. Guduric
+410,4,1:44.0,124,109,IND,MEM,10,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Melton,A. Holiday
+411,4,1:44.0,124,109,IND,MEM,0,away,Sub,,,,,B. Caboclo,J. Valančiūnas
+412,4,1:37.0,124,109,IND,MEM,7,home,JS,,11,miss2,0,T. McConnell,
+413,4,1:35.0,124,109,IND,MEM,2,home,OffReb,,,OffReb,,G. Bitadze,
+414,4,1:35.0,124,109,IND,MEM,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Melton,G. Bitadze
+415,4,1:35.0,125,109,IND,MEM,0,home,FreeThrow,,,make1,1,G. Bitadze,
+416,4,1:35.0,126,109,IND,MEM,0,home,FreeThrow,,,make1,1,G. Bitadze,
+417,4,1:20.0,126,109,IND,MEM,15,away,JS,,25,miss3,0,G. Allen,
+418,4,1:17.0,126,109,IND,MEM,3,home,DefReb,,,DefReb,,T. Leaf,
+419,4,1:02.0,126,109,IND,MEM,15,home,JS,,28,miss3,0,A. Holiday,
+420,4,0:58.0,126,109,IND,MEM,4,home,OffReb,,,OffReb,,A. Holiday,
+421,4,0:47.0,126,109,IND,MEM,11,home,LU,,1,miss2,0,T. McConnell,
+422,4,0:44.0,126,109,IND,MEM,3,away,DefReb,,,DefReb,,G. Allen,
+423,4,0:41.0,126,111,IND,MEM,3,away,DK,assist,1,make2,2,B. Clarke,G. Allen
+424,4,0:26.0,126,111,IND,MEM,15,home,JS,,27,miss3,0,T. Leaf,
+425,4,0:23.0,126,111,IND,MEM,3,away,DefReb,,,DefReb,,B. Clarke,
+426,4,0:15.0,126,114,IND,MEM,8,away,JS,assist,30,make3,3,M. Guduric,D. Melton

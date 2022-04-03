@@ -1,0 +1,450 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:39.0,0,0,WAS,BOS,21,away,JS,,25,miss3,0,I. Thomas,
+1,1,11:38.0,0,0,WAS,BOS,1,home,DefReb,,,DefReb,,M. Morris,
+2,1,11:18.0,0,0,WAS,BOS,20,home,JS,,18,miss2,0,B. Beal,
+3,1,11:17.0,0,0,WAS,BOS,1,home,OffReb,,,OffReb,,M. Gortat,
+4,1,11:15.0,2,0,WAS,BOS,2,home,LU,,2,make2,2,M. Gortat,
+5,1,11:07.0,2,2,WAS,BOS,8,away,LU,assist,2,make2,2,T. Zeller,A. Johnson
+6,1,10:53.0,5,2,WAS,BOS,14,home,JS,assist,27,make3,3,O. Porter,M. Morris
+7,1,10:39.0,5,2,WAS,BOS,14,away,LostBall,steal,,turnover,,J. Brown,M. Morris
+8,1,10:31.0,5,2,WAS,BOS,8,home,LU,,1,miss2,0,B. Beal,
+9,1,10:29.0,5,2,WAS,BOS,2,home,OffReb,,,OffReb,,B. Beal,
+10,1,10:25.0,8,2,WAS,BOS,4,home,JS,assist,25,make3,3,O. Porter,J. Wall
+11,1,10:11.0,8,2,WAS,BOS,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Beal,I. Thomas
+12,1,10:01.0,8,2,WAS,BOS,10,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Brown,J. Wall
+13,1,10:01.0,8,2,WAS,BOS,0,away,OffensiveFoul,,,turnover,,J. Brown,
+14,1,9:37.0,8,2,WAS,BOS,24,home,JS,,11,miss2,0,B. Beal,
+15,1,9:36.0,8,2,WAS,BOS,1,away,DefReb,,,DefReb,,J. Brown,
+16,1,9:25.0,8,2,WAS,BOS,11,away,JS,,26,miss3,0,A. Bradley,
+17,1,9:24.0,8,2,WAS,BOS,1,home,DefReb,,,DefReb,,O. Porter,
+18,1,9:19.0,10,2,WAS,BOS,5,home,JS,assist,21,make2,2,J. Wall,O. Porter
+19,1,9:03.0,10,2,WAS,BOS,16,away,JS,,27,miss3,0,I. Thomas,
+20,1,9:02.0,10,2,WAS,BOS,1,home,DefReb,,,DefReb,,M. Morris,
+21,1,8:45.0,10,2,WAS,BOS,17,home,LU,block,0,miss2,0,B. Beal,T. Zeller
+22,1,8:42.0,10,2,WAS,BOS,3,home,OffReb,,,OffReb,,O. Porter,
+23,1,8:41.0,12,2,WAS,BOS,1,home,LU,,1,make2,2,O. Porter,
+24,1,8:41.0,12,2,WAS,BOS,0,away,Timeout,,,,,,
+25,1,8:41.0,12,2,WAS,BOS,0,away,Sub,,,,,M. Smart,J. Brown
+26,1,8:22.0,12,2,WAS,BOS,19,away,LU,,1,miss2,0,I. Thomas,
+27,1,8:22.0,12,2,WAS,BOS,0,home,DefReb,,,DefReb,,M. Gortat,
+28,1,8:14.0,12,2,WAS,BOS,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,B. Beal
+29,1,8:14.0,12,2,WAS,BOS,0,home,Sub,,,,,M. Thornton,B. Beal
+30,1,8:05.0,12,2,WAS,BOS,9,home,JS,,19,miss2,0,J. Wall,
+31,1,8:05.0,12,2,WAS,BOS,0,away,DefReb,,,DefReb,,Team,
+32,1,7:51.0,12,2,WAS,BOS,14,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Gortat,A. Johnson
+33,1,7:47.0,12,2,WAS,BOS,4,away,JS,,26,miss3,0,M. Smart,
+34,1,7:47.0,12,2,WAS,BOS,0,home,DefReb,,,DefReb,,M. Morris,
+35,1,7:41.0,12,2,WAS,BOS,6,home,BadPass,,,turnover,,J. Wall,
+36,1,7:32.0,12,2,WAS,BOS,9,away,JS,,26,miss3,0,A. Bradley,
+37,1,7:31.0,12,2,WAS,BOS,1,away,OffReb,,,OffReb,,T. Zeller,
+38,1,7:27.0,12,2,WAS,BOS,4,away,LU,block,2,miss2,0,A. Bradley,O. Porter
+39,1,7:25.0,12,2,WAS,BOS,2,away,OffReb,,,OffReb,,A. Bradley,
+40,1,7:20.0,12,2,WAS,BOS,5,away,LU,block,1,miss2,0,M. Smart,M. Gortat
+41,1,7:19.0,12,2,WAS,BOS,1,home,DefReb,,,DefReb,,M. Morris,
+42,1,7:16.0,12,2,WAS,BOS,3,away,Sub,,,,,J. Jerebko,A. Johnson
+43,1,7:06.0,15,2,WAS,BOS,10,home,JS,assist,23,make3,3,O. Porter,J. Wall
+44,1,6:49.0,15,2,WAS,BOS,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,J. Jerebko
+45,1,6:44.0,15,2,WAS,BOS,5,away,JS,,21,miss2,0,T. Zeller,
+46,1,6:43.0,15,2,WAS,BOS,1,home,DefReb,,,DefReb,,O. Porter,
+47,1,6:32.0,15,2,WAS,BOS,11,home,JS,,9,miss2,0,M. Gortat,
+48,1,6:31.0,15,2,WAS,BOS,1,home,OffReb,,,OffReb,,O. Porter,
+49,1,6:27.0,18,2,WAS,BOS,4,home,JS,assist,26,make3,3,M. Morris,O. Porter
+50,1,6:12.0,18,4,WAS,BOS,15,away,JS,assist,12,make2,2,A. Bradley,I. Thomas
+51,1,5:58.0,20,4,WAS,BOS,14,home,JS,assist,16,make2,2,M. Thornton,J. Wall
+52,1,5:43.0,20,4,WAS,BOS,15,home,Sub,,,,,J. Smith,M. Morris
+53,1,5:43.0,20,4,WAS,BOS,0,away,Sub,,,,,K. Olynyk,T. Zeller
+54,1,5:40.0,20,4,WAS,BOS,3,away,JS,,27,miss3,0,I. Thomas,
+55,1,5:39.0,20,4,WAS,BOS,1,home,DefReb,,,DefReb,,Team,
+56,1,5:24.0,20,4,WAS,BOS,15,home,JS,,6,miss2,0,M. Gortat,
+57,1,5:23.0,20,4,WAS,BOS,1,away,DefReb,,,DefReb,,M. Smart,
+58,1,5:14.0,20,4,WAS,BOS,9,away,LU,,1,miss2,0,K. Olynyk,
+59,1,5:14.0,20,4,WAS,BOS,0,home,DefReb,,,DefReb,,O. Porter,
+60,1,5:07.0,20,4,WAS,BOS,7,home,JS,,26,miss3,0,J. Wall,
+61,1,5:06.0,20,4,WAS,BOS,1,home,OffReb,,,OffReb,,M. Gortat,
+62,1,5:02.0,23,4,WAS,BOS,4,home,JS,assist,26,make3,3,J. Wall,M. Thornton
+63,1,4:45.0,23,4,WAS,BOS,17,away,BadPass,steal,,turnover,,I. Thomas,J. Smith
+64,1,4:41.0,25,4,WAS,BOS,4,home,DK,assist,0,make2,2,O. Porter,J. Smith
+65,1,4:40.0,25,4,WAS,BOS,1,away,Timeout,,,,,,
+66,1,4:40.0,25,4,WAS,BOS,0,away,Sub,,,,,J. Mickey,I. Thomas
+67,1,4:40.0,25,4,WAS,BOS,0,away,Sub,,,,,T. Rozier,J. Jerebko
+68,1,4:40.0,25,4,WAS,BOS,0,home,Sub,,,,,T. Satoranský,O. Porter
+69,1,4:22.0,25,6,WAS,BOS,18,away,LU,,2,make2,2,A. Bradley,
+70,1,4:07.0,25,6,WAS,BOS,15,home,JS,,18,miss2,0,M. Thornton,
+71,1,4:05.0,25,6,WAS,BOS,2,away,DefReb,,,DefReb,,A. Bradley,
+72,1,3:47.0,25,6,WAS,BOS,18,away,JS,,25,miss3,0,K. Olynyk,
+73,1,3:46.0,25,6,WAS,BOS,1,home,DefReb,,,DefReb,,J. Wall,
+74,1,3:37.0,28,6,WAS,BOS,9,home,JS,assist,27,make3,3,M. Thornton,J. Wall
+75,1,3:21.0,28,6,WAS,BOS,16,away,D3SecTech,,,,,,
+76,1,3:21.0,28,6,WAS,BOS,0,away,FreeThrow,,,make1,0,A. Bradley misses technical free throw,
+77,1,3:21.0,28,6,WAS,BOS,0,away,OffReb,,,OffReb,,Team,
+78,1,3:21.0,28,6,WAS,BOS,0,home,Sub,,,,,T. Burke,J. Wall
+79,1,3:15.0,28,8,WAS,BOS,6,away,JS,assist,5,make2,2,J. Mickey,T. Rozier
+80,1,2:55.0,28,8,WAS,BOS,20,home,JS,,5,miss2,0,M. Thornton,
+81,1,2:54.0,28,8,WAS,BOS,1,away,DefReb,,,DefReb,,K. Olynyk,
+82,1,2:42.0,28,8,WAS,BOS,12,away,BadPass,steal,,turnover,,M. Smart,M. Thornton
+83,1,2:36.0,30,8,WAS,BOS,6,home,JS,assist,17,make2,2,T. Burke,M. Thornton
+84,1,2:22.0,30,8,WAS,BOS,14,away,JS,,13,miss2,0,T. Rozier,
+85,1,2:21.0,30,8,WAS,BOS,1,home,DefReb,,,DefReb,,M. Gortat,
+86,1,2:05.0,30,8,WAS,BOS,16,home,LU,,3,miss2,0,T. Satoranský,
+87,1,2:05.0,30,8,WAS,BOS,0,away,DefReb,,,DefReb,,Team,
+88,1,2:05.0,30,8,WAS,BOS,0,home,Timeout,,,,,,
+89,1,2:05.0,30,8,WAS,BOS,0,home,Sub,,,,,A. Nicholson,M. Gortat
+90,1,1:48.0,30,8,WAS,BOS,17,away,JS,,26,miss3,0,T. Rozier,
+91,1,1:47.0,30,8,WAS,BOS,1,home,DefReb,,,DefReb,,A. Nicholson,
+92,1,1:24.0,30,8,WAS,BOS,23,home,JS,,20,miss2,0,T. Burke,
+93,1,1:23.0,30,8,WAS,BOS,1,away,DefReb,,,DefReb,,Team,
+94,1,1:11.0,30,8,WAS,BOS,12,away,JS,,5,miss2,0,J. Mickey,
+95,1,1:10.0,30,8,WAS,BOS,1,home,DefReb,,,DefReb,,A. Nicholson,
+96,1,1:00.0,32,8,WAS,BOS,10,home,JS,assist,20,make2,2,J. Smith,T. Satoranský
+97,1,0:46.0,32,8,WAS,BOS,14,away,LU,block,2,miss2,0,T. Rozier,A. Nicholson
+98,1,0:42.0,32,8,WAS,BOS,4,away,OffReb,,,OffReb,,J. Mickey,
+99,1,0:33.0,32,8,WAS,BOS,9,away,JS,,15,miss2,0,M. Smart,
+100,1,0:33.0,32,8,WAS,BOS,0,home,DefReb,,,DefReb,,J. Smith,
+101,1,0:21.0,34,8,WAS,BOS,12,home,JS,assist,8,make2,2,T. Burke,A. Nicholson
+102,1,0:05.0,34,8,WAS,BOS,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Smith,M. Smart
+103,1,0:05.0,34,8,WAS,BOS,0,home,Sub,,,,,O. Porter,A. Nicholson
+104,1,0:01.0,34,8,WAS,BOS,4,away,JS,,15,miss2,0,K. Olynyk,
+105,1,0:00.0,34,8,WAS,BOS,1,away,OffReb,,,OffReb,,Team,
+106,2,11:35.0,34,8,WAS,BOS,25,home,JS,,15,miss2,0,J. Smith,
+107,2,11:33.0,34,8,WAS,BOS,2,away,DefReb,,,DefReb,,K. Olynyk,
+108,2,11:23.0,34,10,WAS,BOS,10,away,DK,,0,make2,2,M. Smart,
+109,2,11:13.0,34,10,WAS,BOS,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,A. Nicholson
+110,2,11:13.0,34,10,WAS,BOS,0,home,Sub,,,,,M. Morris,J. Smith
+111,2,11:01.0,34,10,WAS,BOS,12,home,JS,,23,miss3,0,M. Thornton,
+112,2,10:59.0,34,10,WAS,BOS,2,home,OffReb,,,OffReb,,T. Burke,
+113,2,10:43.0,34,10,WAS,BOS,16,home,JS,,26,miss3,0,T. Burke,
+114,2,10:42.0,34,10,WAS,BOS,1,home,OffReb,,,OffReb,,T. Satoranský,
+115,2,10:41.0,36,10,WAS,BOS,1,home,LU,,1,make2,2,T. Satoranský,
+116,2,10:26.0,36,10,WAS,BOS,15,away,JS,,27,miss3,0,M. Smart,
+117,2,10:25.0,36,10,WAS,BOS,1,home,DefReb,,,DefReb,,M. Morris,
+118,2,10:16.0,36,10,WAS,BOS,9,away,ChargeFoul,DrawnBy,,ChargeFoul,,M. Morris,K. Olynyk
+119,2,10:16.0,36,10,WAS,BOS,0,home,OffensiveFoul,,,turnover,,M. Morris,
+120,2,10:05.0,36,12,WAS,BOS,11,away,LU,assist,2,make2,2,A. Johnson,I. Thomas
+121,2,9:50.0,36,12,WAS,BOS,15,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Morris,K. Olynyk
+122,2,9:50.0,36,12,WAS,BOS,0,home,OffensiveFoul,,,turnover,,M. Morris,
+123,2,9:50.0,36,12,WAS,BOS,0,home,JumpBallViolation,,,JumpBallViolation,,Team,
+124,2,9:50.0,36,12,WAS,BOS,0,home,Sub,,,,,J. Wall,M. Morris
+125,2,9:50.0,36,12,WAS,BOS,0,home,Sub,,,,,B. Beal,M. Thornton
+126,2,9:50.0,36,12,WAS,BOS,0,home,Sub,,,,,O. Porter,T. Burke
+127,2,9:35.0,36,12,WAS,BOS,15,away,LU,block,1,miss2,0,M. Smart,O. Porter
+128,2,9:34.0,36,12,WAS,BOS,1,away,OffReb,,,OffReb,,Team,
+129,2,9:31.0,36,12,WAS,BOS,3,away,JS,,18,miss2,0,G. Green,
+130,2,9:30.0,36,12,WAS,BOS,1,home,DefReb,,,DefReb,,O. Porter,
+131,2,9:17.0,36,12,WAS,BOS,13,home,JS,,26,miss3,0,O. Porter,
+132,2,9:16.0,36,12,WAS,BOS,1,away,DefReb,,,DefReb,,K. Olynyk,
+133,2,9:11.0,36,12,WAS,BOS,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Satoranský,I. Thomas
+134,2,9:11.0,36,13,WAS,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+135,2,9:11.0,36,13,WAS,BOS,0,away,Sub,,,,,J. Jerebko,K. Olynyk
+136,2,9:11.0,36,14,WAS,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+137,2,8:56.0,36,14,WAS,BOS,15,home,LU,,3,miss2,0,J. Wall,
+138,2,8:55.0,36,14,WAS,BOS,1,away,DefReb,,,DefReb,,A. Johnson,
+139,2,8:44.0,36,14,WAS,BOS,11,away,JS,,26,miss3,0,G. Green,
+140,2,8:43.0,36,14,WAS,BOS,1,away,OffReb,,,OffReb,,I. Thomas,
+141,2,8:40.0,36,17,WAS,BOS,3,away,JS,,24,make3,3,I. Thomas,
+142,2,8:40.0,36,17,WAS,BOS,0,home,Timeout,,,,,,
+143,2,8:40.0,36,17,WAS,BOS,0,home,Sub,,,,,M. Gortat,A. Nicholson
+144,2,8:26.0,36,17,WAS,BOS,14,home,JS,,16,miss2,0,O. Porter,
+145,2,8:25.0,36,17,WAS,BOS,1,away,DefReb,,,DefReb,,G. Green,
+146,2,8:10.0,36,19,WAS,BOS,15,away,LU,assist,1,make2,2,A. Johnson,I. Thomas
+147,2,7:53.0,38,19,WAS,BOS,17,home,JS,assist,6,make2,2,M. Gortat,T. Satoranský
+148,2,7:53.0,38,19,WAS,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Green,M. Gortat
+149,2,7:53.0,39,19,WAS,BOS,0,home,FreeThrow,,,make1,1,M. Gortat,
+150,2,7:36.0,39,21,WAS,BOS,17,away,JS,,8,make2,2,I. Thomas,
+151,2,7:29.0,39,21,WAS,BOS,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Gortat,M. Smart
+152,2,7:29.0,39,21,WAS,BOS,0,home,OffensiveFoul,,,turnover,,M. Gortat,
+153,2,7:29.0,39,21,WAS,BOS,0,away,Sub,,,,,A. Bradley,M. Smart
+154,2,7:19.0,39,23,WAS,BOS,10,away,DK,assist,0,make2,2,A. Johnson,G. Green
+155,2,7:01.0,39,23,WAS,BOS,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Thomas,J. Wall
+156,2,7:01.0,40,23,WAS,BOS,0,home,FreeThrow,,,make1,1,J. Wall,
+157,2,7:01.0,41,23,WAS,BOS,0,home,FreeThrow,,,make1,1,J. Wall,
+158,2,6:45.0,41,23,WAS,BOS,16,away,LU,block,2,miss2,0,I. Thomas,J. Wall
+159,2,6:44.0,41,23,WAS,BOS,1,home,DefReb,,,DefReb,,T. Satoranský,
+160,2,6:39.0,43,23,WAS,BOS,5,home,JS,assist,5,make2,2,O. Porter,B. Beal
+161,2,6:39.0,43,23,WAS,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Green,O. Porter
+162,2,6:39.0,43,23,WAS,BOS,0,home,Sub,,,,,M. Thornton,B. Beal
+163,2,6:39.0,44,23,WAS,BOS,0,home,FreeThrow,,,make1,1,O. Porter,
+164,2,6:29.0,44,23,WAS,BOS,10,away,BadPass,steal,,turnover,,A. Johnson,M. Thornton
+165,2,6:19.0,46,23,WAS,BOS,10,home,JS,,20,make2,2,J. Wall,
+166,2,6:16.0,46,23,WAS,BOS,3,away,Timeout,,,,,,
+167,2,6:16.0,46,23,WAS,BOS,0,away,Sub,,,,,M. Smart,G. Green
+168,2,6:05.0,46,25,WAS,BOS,11,away,LU,assist,1,make2,2,A. Bradley,M. Smart
+169,2,5:46.0,46,25,WAS,BOS,19,home,LU,block,1,miss2,0,M. Gortat,J. Jerebko
+170,2,5:45.0,46,25,WAS,BOS,1,home,OffReb,,,OffReb,,O. Porter,
+171,2,5:40.0,46,25,WAS,BOS,5,home,JS,,24,miss3,0,M. Thornton,
+172,2,5:40.0,46,25,WAS,BOS,0,away,DefReb,,,DefReb,,J. Jerebko,
+173,2,5:18.0,46,25,WAS,BOS,22,away,JS,,27,miss3,0,J. Jerebko,
+174,2,5:18.0,46,25,WAS,BOS,0,home,DefReb,,,DefReb,,J. Wall,
+175,2,5:10.0,46,25,WAS,BOS,8,home,JS,,9,miss2,0,J. Wall,
+176,2,5:09.0,46,25,WAS,BOS,1,home,OffReb,,,OffReb,,M. Thornton,
+177,2,5:07.0,46,25,WAS,BOS,2,home,JS,,5,miss2,0,M. Thornton,
+178,2,5:07.0,46,25,WAS,BOS,0,home,OffReb,,,OffReb,,M. Gortat,
+179,2,5:07.0,48,25,WAS,BOS,0,home,LU,,1,make2,2,M. Gortat,
+180,2,5:07.0,48,25,WAS,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Bradley,M. Gortat
+181,2,5:07.0,48,25,WAS,BOS,0,home,FreeThrow,,,make1,0,M. Gortat,
+182,2,5:06.0,48,25,WAS,BOS,1,away,DefReb,,,DefReb,,J. Jerebko,
+183,2,4:53.0,48,25,WAS,BOS,13,away,JS,,26,miss3,0,A. Bradley,
+184,2,4:53.0,48,25,WAS,BOS,0,home,DefReb,,,DefReb,,O. Porter,
+185,2,4:44.0,48,25,WAS,BOS,9,home,JS,,18,miss2,0,J. Wall,
+186,2,4:43.0,48,25,WAS,BOS,1,home,OffReb,,,OffReb,,T. Satoranský,
+187,2,4:39.0,50,25,WAS,BOS,4,home,JS,assist,16,make2,2,O. Porter,T. Satoranský
+188,2,4:26.0,50,28,WAS,BOS,13,away,JS,assist,27,make3,3,A. Johnson,I. Thomas
+189,2,4:15.0,50,28,WAS,BOS,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,J. Wall
+190,2,4:15.0,51,28,WAS,BOS,0,home,FreeThrow,,,make1,1,J. Wall,
+191,2,4:15.0,51,28,WAS,BOS,0,away,Sub,,,,,T. Zeller,J. Jerebko
+192,2,4:15.0,51,28,WAS,BOS,0,away,Sub,,,,,K. Olynyk,A. Johnson
+193,2,4:15.0,52,28,WAS,BOS,0,home,FreeThrow,,,make1,1,J. Wall,
+194,2,3:53.0,52,30,WAS,BOS,22,away,LU,assist,1,make2,2,K. Olynyk,T. Zeller
+195,2,3:42.0,52,30,WAS,BOS,11,home,JS,,26,miss3,0,J. Wall,
+196,2,3:41.0,52,30,WAS,BOS,1,away,DefReb,,,DefReb,,T. Zeller,
+197,2,3:24.0,52,30,WAS,BOS,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Thornton,K. Olynyk
+198,2,3:15.0,52,30,WAS,BOS,9,away,D3SecTech,,,,,,
+199,2,3:15.0,52,31,WAS,BOS,0,away,FreeThrow,,,make1,1,I. Thomas makes technical free throw,
+200,2,3:08.0,52,31,WAS,BOS,7,away,BadPass,steal,,turnover,,I. Thomas,M. Thornton
+201,2,3:02.0,52,31,WAS,BOS,6,home,LU,block,3,miss2,0,O. Porter,A. Bradley
+202,2,2:59.0,52,31,WAS,BOS,3,away,DefReb,,,DefReb,,M. Smart,
+203,2,2:47.0,52,34,WAS,BOS,12,away,JS,,27,make3,3,A. Bradley,
+204,2,2:27.0,52,34,WAS,BOS,20,home,JS,,12,miss2,0,J. Wall,
+205,2,2:26.0,52,34,WAS,BOS,1,home,OffReb,,,OffReb,,M. Thornton,
+206,2,2:20.0,54,34,WAS,BOS,6,home,LU,assist,1,make2,2,M. Thornton,M. Gortat
+207,2,2:06.0,54,36,WAS,BOS,14,away,JS,,7,make2,2,I. Thomas,
+208,2,2:06.0,54,36,WAS,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Wall,I. Thomas
+209,2,2:06.0,54,36,WAS,BOS,0,away,Timeout,,,,,,
+210,2,2:06.0,54,37,WAS,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+211,2,1:43.0,56,37,WAS,BOS,23,home,JS,,20,make2,2,O. Porter,
+212,2,1:23.0,56,39,WAS,BOS,20,away,LU,assist,1,make2,2,T. Zeller,I. Thomas
+213,2,1:00.0,58,39,WAS,BOS,23,home,JS,assist,12,make2,2,M. Thornton,J. Wall
+214,2,0:49.0,58,39,WAS,BOS,11,away,BadPass,steal,,turnover,,A. Bradley,O. Porter
+215,2,0:46.0,58,39,WAS,BOS,3,home,BadPass,steal,,turnover,,M. Thornton,A. Bradley
+216,2,0:43.0,58,41,WAS,BOS,3,away,LU,,0,make2,2,A. Bradley,
+217,2,0:39.0,58,41,WAS,BOS,4,away,ChargeFoul,DrawnBy,,ChargeFoul,,J. Wall,I. Thomas
+218,2,0:39.0,58,41,WAS,BOS,0,home,OffensiveFoul,,,turnover,,J. Wall,
+219,2,0:31.0,58,43,WAS,BOS,8,away,LU,,1,make2,2,I. Thomas,
+220,2,0:06.0,58,43,WAS,BOS,25,home,JS,,24,miss3,0,T. Satoranský,
+221,2,0:04.0,58,43,WAS,BOS,2,away,DefReb,,,DefReb,,K. Olynyk,
+222,2,0:01.0,58,43,WAS,BOS,3,away,JS,,6,miss2,0,M. Smart,
+223,2,0:00.0,58,43,WAS,BOS,1,away,OffReb,,,OffReb,,Team,
+224,3,11:37.0,58,43,WAS,BOS,23,home,JS,,25,miss3,0,B. Beal,
+225,3,11:36.0,58,43,WAS,BOS,1,away,DefReb,,,DefReb,,K. Olynyk,
+226,3,11:20.0,58,43,WAS,BOS,16,away,JS,,25,miss3,0,K. Olynyk,
+227,3,11:19.0,58,43,WAS,BOS,1,home,DefReb,,,DefReb,,M. Gortat,
+228,3,11:07.0,58,43,WAS,BOS,12,home,JS,,4,miss2,0,B. Beal,
+229,3,11:06.0,58,43,WAS,BOS,1,home,OffReb,,,OffReb,,B. Beal,
+230,3,11:02.0,60,43,WAS,BOS,4,home,LU,,2,make2,2,B. Beal,
+231,3,10:52.0,60,43,WAS,BOS,10,away,JS,,15,miss2,0,M. Smart,
+232,3,10:51.0,60,43,WAS,BOS,1,home,DefReb,,,DefReb,,O. Porter,
+233,3,10:45.0,62,43,WAS,BOS,6,home,LU,assist,2,make2,2,M. Morris,O. Porter
+234,3,10:32.0,62,43,WAS,BOS,13,away,JS,,4,miss2,0,I. Thomas,
+235,3,10:31.0,62,43,WAS,BOS,1,home,DefReb,,,DefReb,,B. Beal,
+236,3,10:07.0,62,43,WAS,BOS,24,home,JS,,18,miss2,0,B. Beal,
+237,3,10:06.0,62,43,WAS,BOS,1,away,DefReb,,,DefReb,,I. Thomas,
+238,3,9:56.0,62,45,WAS,BOS,10,away,JS,assist,17,make2,2,A. Bradley,K. Olynyk
+239,3,9:36.0,62,45,WAS,BOS,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,B. Beal
+240,3,9:36.0,63,45,WAS,BOS,0,home,FreeThrow,,,make1,1,B. Beal,
+241,3,9:36.0,63,45,WAS,BOS,0,home,FreeThrow,,,make1,0,B. Beal,
+242,3,9:34.0,63,45,WAS,BOS,2,home,OffReb,,,OffReb,,Team,
+243,3,9:27.0,63,45,WAS,BOS,7,home,JS,,16,miss2,0,M. Morris,
+244,3,9:26.0,63,45,WAS,BOS,1,home,OffReb,,,OffReb,,M. Gortat,
+245,3,9:22.0,65,45,WAS,BOS,4,home,LU,,2,make2,2,M. Gortat,
+246,3,9:11.0,65,45,WAS,BOS,11,away,LU,block,1,miss2,0,M. Smart,M. Gortat
+247,3,9:08.0,65,45,WAS,BOS,3,away,OffReb,,,OffReb,,A. Johnson,
+248,3,9:04.0,65,47,WAS,BOS,4,away,LU,,1,make2,2,A. Johnson,
+249,3,8:57.0,65,47,WAS,BOS,7,home,JS,,13,miss2,0,M. Morris,
+250,3,8:55.0,65,47,WAS,BOS,2,away,DefReb,,,DefReb,,I. Thomas,
+251,3,8:49.0,65,47,WAS,BOS,6,away,JS,,25,miss3,0,K. Olynyk,
+252,3,8:47.0,65,47,WAS,BOS,2,home,DefReb,,,DefReb,,B. Beal,
+253,3,8:32.0,65,47,WAS,BOS,15,home,JS,block,5,miss2,0,J. Wall,A. Johnson
+254,3,8:29.0,65,47,WAS,BOS,3,home,OffReb,,,OffReb,,O. Porter,
+255,3,8:26.0,67,47,WAS,BOS,3,home,LU,,2,make2,2,O. Porter,
+256,3,8:16.0,67,47,WAS,BOS,10,away,BadPass,steal,,turnover,,M. Smart,J. Wall
+257,3,8:06.0,67,47,WAS,BOS,10,home,BadPass,steal,,turnover,,J. Wall,M. Smart
+258,3,8:06.0,67,47,WAS,BOS,0,away,BadPass,steal,,turnover,,I. Thomas,B. Beal
+259,3,8:06.0,67,47,WAS,BOS,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,B. Beal
+260,3,8:06.0,67,47,WAS,BOS,0,home,Timeout,,,,,,
+261,3,8:06.0,67,47,WAS,BOS,0,home,Sub,,,,,M. Thornton,B. Beal
+262,3,7:54.0,69,47,WAS,BOS,12,home,LU,assist,1,make2,2,M. Gortat,J. Wall
+263,3,7:37.0,69,50,WAS,BOS,17,away,JS,assist,24,make3,3,M. Smart,I. Thomas
+264,3,7:20.0,69,50,WAS,BOS,17,home,JS,,13,miss2,0,M. Morris,
+265,3,7:19.0,69,50,WAS,BOS,1,home,OffReb,,,OffReb,,O. Porter,
+266,3,7:19.0,69,50,WAS,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Thomas,O. Porter
+267,3,7:19.0,70,50,WAS,BOS,0,home,FreeThrow,,,make1,1,O. Porter,
+268,3,7:19.0,71,50,WAS,BOS,0,home,FreeThrow,,,make1,1,O. Porter,
+269,3,7:06.0,71,50,WAS,BOS,13,away,JS,,24,miss3,0,I. Thomas,
+270,3,7:05.0,71,50,WAS,BOS,1,home,DefReb,,,DefReb,,J. Wall,
+271,3,6:42.0,71,50,WAS,BOS,23,home,LostBall,steal,,turnover,,J. Wall,A. Johnson
+272,3,6:36.0,71,52,WAS,BOS,6,away,LU,assist,1,make2,2,A. Bradley,I. Thomas
+273,3,6:21.0,71,52,WAS,BOS,15,home,JS,,18,miss2,0,M. Morris,
+274,3,6:20.0,71,52,WAS,BOS,1,away,DefReb,,,DefReb,,A. Johnson,
+275,3,6:09.0,71,52,WAS,BOS,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Porter,M. Smart
+276,3,5:59.0,71,54,WAS,BOS,10,away,LU,,2,make2,2,M. Smart,
+277,3,5:59.0,71,54,WAS,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Porter,M. Smart
+278,3,5:59.0,71,55,WAS,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
+279,3,5:43.0,71,55,WAS,BOS,16,home,JS,,15,miss2,0,M. Thornton,
+280,3,5:43.0,71,55,WAS,BOS,0,home,OffReb,,,OffReb,,Team,
+281,3,5:34.0,71,55,WAS,BOS,9,home,JS,,8,miss2,0,M. Thornton,
+282,3,5:33.0,71,55,WAS,BOS,1,away,DefReb,,,DefReb,,K. Olynyk,
+283,3,5:31.0,71,55,WAS,BOS,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Gortat,A. Johnson
+284,3,5:31.0,71,55,WAS,BOS,0,home,PersonalFoul,,,,,A. Johnson,
+285,3,5:31.0,71,55,WAS,BOS,0,away,Sub,,,,,T. Rozier,A. Bradley
+286,3,5:15.0,71,55,WAS,BOS,16,away,JS,,24,miss3,0,M. Smart,
+287,3,5:15.0,71,55,WAS,BOS,0,home,DefReb,,,DefReb,,M. Morris,
+288,3,5:02.0,71,55,WAS,BOS,13,home,JS,,21,miss2,0,O. Porter,
+289,3,5:02.0,71,55,WAS,BOS,0,away,DefReb,,,DefReb,,I. Thomas,
+290,3,4:57.0,71,55,WAS,BOS,5,away,JS,,5,miss2,0,I. Thomas,
+291,3,4:56.0,71,55,WAS,BOS,1,home,DefReb,,,DefReb,,M. Thornton,
+292,3,4:52.0,73,55,WAS,BOS,4,home,LU,,2,make2,2,J. Wall,
+293,3,4:42.0,73,55,WAS,BOS,10,away,JS,,10,miss2,0,I. Thomas,
+294,3,4:42.0,73,55,WAS,BOS,0,home,DefReb,,,DefReb,,Team,
+295,3,4:30.0,75,55,WAS,BOS,12,home,LU,,1,make2,2,J. Wall,
+296,3,4:30.0,75,55,WAS,BOS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,J. Wall
+297,3,4:30.0,75,55,WAS,BOS,0,away,Sub,,,,,T. Zeller,A. Johnson
+298,3,4:30.0,75,55,WAS,BOS,0,away,Sub,,,,,J. Brown,K. Olynyk
+299,3,4:30.0,76,55,WAS,BOS,0,home,FreeThrow,,,make1,1,J. Wall,
+300,3,4:12.0,76,55,WAS,BOS,18,away,LostBall,steal,,turnover,,T. Rozier,O. Porter
+301,3,4:10.0,76,55,WAS,BOS,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Thomas,M. Thornton
+302,3,4:10.0,77,55,WAS,BOS,0,home,FreeThrow,,,make1,1,M. Thornton,
+303,3,4:10.0,77,55,WAS,BOS,0,away,Sub,,,,,A. Bradley,I. Thomas
+304,3,4:10.0,78,55,WAS,BOS,0,home,FreeThrow,,,make1,1,M. Thornton,
+305,3,3:56.0,78,57,WAS,BOS,14,away,LU,assist,2,make2,2,T. Zeller,T. Rozier
+306,3,3:34.0,80,57,WAS,BOS,22,home,JS,,15,make2,2,J. Wall,
+307,3,3:13.0,80,60,WAS,BOS,21,away,JS,assist,29,make3,3,M. Smart,A. Bradley
+308,3,2:54.0,80,60,WAS,BOS,19,home,LostBall,steal,,turnover,,M. Morris,J. Brown
+309,3,2:53.0,80,60,WAS,BOS,1,away,ClearPathFoul,,,ClearPathFoul,,M. Thornton,
+310,3,2:53.0,80,60,WAS,BOS,0,away,Timeout,,,,,,
+311,3,2:53.0,80,60,WAS,BOS,0,away,FreeThrow,,,make1,0,T. Rozier misses clear path free throw 1 of 2,
+312,3,2:53.0,80,60,WAS,BOS,0,away,OffReb,,,OffReb,,Team,
+313,3,2:53.0,80,60,WAS,BOS,0,away,FreeThrow,,,make1,0,T. Rozier misses clear path free throw 2 of 2,
+314,3,2:53.0,80,60,WAS,BOS,0,away,OffReb,,,OffReb,,Team,
+315,3,2:53.0,80,60,WAS,BOS,0,home,Sub,,,,,T. Satoranský,M. Morris
+316,3,2:38.0,80,63,WAS,BOS,15,away,JS,assist,26,make3,3,M. Smart,A. Bradley
+317,3,2:19.0,80,63,WAS,BOS,19,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bradley,J. Wall
+318,3,2:19.0,80,63,WAS,BOS,0,home,FreeThrow,,,make1,0,J. Wall,
+319,3,2:19.0,80,63,WAS,BOS,0,home,OffReb,,,OffReb,,Team,
+320,3,2:19.0,81,63,WAS,BOS,0,home,FreeThrow,,,make1,1,J. Wall,
+321,3,2:10.0,81,63,WAS,BOS,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Gortat,M. Smart
+322,3,2:10.0,81,63,WAS,BOS,0,home,Sub,,,,,T. Burke,J. Wall
+323,3,2:10.0,81,63,WAS,BOS,0,home,Sub,,,,,J. Smith,M. Gortat
+324,3,2:02.0,81,65,WAS,BOS,8,away,JS,,15,make2,2,M. Smart,
+325,3,1:44.0,83,65,WAS,BOS,18,home,JS,assist,12,make2,2,T. Satoranský,O. Porter
+326,3,1:21.0,83,68,WAS,BOS,23,away,JS,assist,23,make3,3,M. Smart,T. Rozier
+327,3,1:07.0,83,68,WAS,BOS,14,home,D3SecTech,,,,,,
+328,3,1:07.0,84,68,WAS,BOS,0,home,FreeThrow,,,make1,1,M. Thornton makes technical free throw,
+329,3,1:00.0,86,68,WAS,BOS,7,home,JS,assist,13,make2,2,O. Porter,T. Burke
+330,3,0:45.0,86,68,WAS,BOS,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Thornton,M. Smart
+331,3,0:45.0,86,68,WAS,BOS,0,away,FreeThrow,,,make1,0,M. Smart,
+332,3,0:45.0,86,68,WAS,BOS,0,away,OffReb,,,OffReb,,Team,
+333,3,0:45.0,86,68,WAS,BOS,0,away,Sub,,,,,A. Johnson,T. Zeller
+334,3,0:45.0,86,69,WAS,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
+335,3,0:33.0,86,69,WAS,BOS,12,home,JS,,26,miss3,0,O. Porter,
+336,3,0:32.0,86,69,WAS,BOS,1,away,DefReb,,,DefReb,,T. Rozier,
+337,3,0:25.0,86,69,WAS,BOS,7,away,LU,block,1,miss2,0,J. Brown,O. Porter
+338,3,0:23.0,86,69,WAS,BOS,2,home,DefReb,,,DefReb,,M. Thornton,
+339,3,0:01.0,89,69,WAS,BOS,22,home,JS,assist,25,make3,3,T. Burke,M. Thornton
+340,3,0:01.0,89,69,WAS,BOS,0,away,JS,,83,miss3,0,M. Smart,
+341,3,0:00.0,89,69,WAS,BOS,1,away,OffReb,,,OffReb,,Team,
+342,4,11:43.0,89,69,WAS,BOS,17,away,JS,,5,miss2,0,T. Rozier,
+343,4,11:42.0,89,69,WAS,BOS,1,home,DefReb,,,DefReb,,J. Smith,
+344,4,11:21.0,92,69,WAS,BOS,21,home,JS,,26,make3,3,T. Burke,
+345,4,11:07.0,92,69,WAS,BOS,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Burke,I. Thomas
+346,4,11:07.0,92,70,WAS,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+347,4,11:07.0,92,70,WAS,BOS,0,away,Sub,,,,,G. Green,T. Rozier
+348,4,11:07.0,92,71,WAS,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+349,4,10:50.0,94,71,WAS,BOS,17,home,JS,assist,17,make2,2,O. Porter,M. Thornton
+350,4,10:41.0,94,71,WAS,BOS,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Smith,I. Thomas
+351,4,10:30.0,94,71,WAS,BOS,11,away,JS,,26,miss3,0,I. Thomas,
+352,4,10:29.0,94,71,WAS,BOS,1,away,OffReb,,,OffReb,,I. Thomas,
+353,4,10:21.0,94,74,WAS,BOS,8,away,JS,assist,27,make3,3,A. Bradley,I. Thomas
+354,4,9:57.0,96,74,WAS,BOS,24,home,JS,assist,15,make2,2,O. Porter,J. Smith
+355,4,9:40.0,96,74,WAS,BOS,17,away,JS,,26,miss3,0,G. Green,
+356,4,9:39.0,96,74,WAS,BOS,1,home,DefReb,,,DefReb,,J. Smith,
+357,4,9:19.0,99,74,WAS,BOS,20,home,JS,,26,make3,3,M. Thornton,
+358,4,9:08.0,99,77,WAS,BOS,11,away,JS,assist,25,make3,3,J. Jerebko,I. Thomas
+359,4,8:50.0,99,77,WAS,BOS,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Thomas,T. Burke
+360,4,8:50.0,99,77,WAS,BOS,0,away,Timeout,,,,,,
+361,4,8:50.0,99,77,WAS,BOS,0,home,FreeThrow,,,make1,0,T. Burke,
+362,4,8:50.0,99,77,WAS,BOS,0,home,OffReb,,,OffReb,,Team,
+363,4,8:50.0,99,77,WAS,BOS,0,away,Sub,,,,,K. Olynyk,A. Johnson
+364,4,8:50.0,100,77,WAS,BOS,0,home,FreeThrow,,,make1,1,T. Burke,
+365,4,8:39.0,100,80,WAS,BOS,11,away,JS,assist,26,make3,3,A. Bradley,I. Thomas
+366,4,8:19.0,102,80,WAS,BOS,20,home,JS,,14,make2,2,T. Burke,
+367,4,8:08.0,102,80,WAS,BOS,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Burke,I. Thomas
+368,4,8:00.0,102,80,WAS,BOS,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Burke,I. Thomas
+369,4,8:00.0,102,81,WAS,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+370,4,8:00.0,102,81,WAS,BOS,0,home,Sub,,,,,J. Wall,T. Burke
+371,4,8:00.0,102,81,WAS,BOS,0,away,Sub,,,,,M. Smart,J. Jerebko
+372,4,8:00.0,102,82,WAS,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+373,4,7:37.0,102,82,WAS,BOS,23,home,JS,,14,miss2,0,J. Smith,
+374,4,7:36.0,102,82,WAS,BOS,1,away,DefReb,,,DefReb,,A. Bradley,
+375,4,7:20.0,102,82,WAS,BOS,16,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,T. Satoranský,I. Thomas
+376,4,7:20.0,102,83,WAS,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+377,4,7:20.0,102,84,WAS,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
+378,4,6:57.0,102,84,WAS,BOS,23,home,JS,,18,miss2,0,J. Wall,
+379,4,6:56.0,102,84,WAS,BOS,1,home,OffReb,,,OffReb,,O. Porter,
+380,4,6:54.0,104,84,WAS,BOS,2,home,LU,,0,make2,2,O. Porter,
+381,4,6:47.0,104,86,WAS,BOS,7,away,LU,,1,make2,2,I. Thomas,
+382,4,6:47.0,104,86,WAS,BOS,0,home,Timeout,,,,,,
+383,4,6:47.0,104,86,WAS,BOS,0,home,Sub,,,,,M. Gortat,J. Smith
+384,4,6:34.0,106,86,WAS,BOS,13,home,HS,assist,8,make2,2,M. Gortat,J. Wall
+385,4,6:20.0,106,86,WAS,BOS,14,away,JS,,26,miss3,0,A. Bradley,
+386,4,6:19.0,106,86,WAS,BOS,1,home,DefReb,,,DefReb,,O. Porter,
+387,4,5:58.0,106,86,WAS,BOS,21,home,JS,,10,miss2,0,J. Wall,
+388,4,5:57.0,106,86,WAS,BOS,1,home,OffReb,,,OffReb,,M. Gortat,
+389,4,5:44.0,106,86,WAS,BOS,13,home,LostBall,steal,,turnover,,J. Wall,A. Bradley
+390,4,5:40.0,106,86,WAS,BOS,4,away,LostBall,steal,,turnover,,G. Green,O. Porter
+391,4,5:28.0,106,86,WAS,BOS,12,home,LU,,2,miss2,0,T. Satoranský,
+392,4,5:27.0,106,86,WAS,BOS,1,away,DefReb,,,DefReb,,M. Smart,
+393,4,5:24.0,106,86,WAS,BOS,3,away,FlagrantFoul1,DrawnBy,,FlagrantFoul1,,J. Wall,M. Smart
+394,4,5:24.0,106,86,WAS,BOS,0,away,TechnicalFoul,,,TechnicalFoul,,M. Smart,
+395,4,5:24.0,107,86,WAS,BOS,0,home,FreeThrow,,,make1,1,M. Thornton makes technical free throw,
+396,4,5:24.0,107,86,WAS,BOS,0,away,FreeThrow,,,make1,0,M. Smart misses flagrant free throw 1 of 2,
+397,4,5:24.0,107,86,WAS,BOS,0,away,OffReb,,,OffReb,,Team,
+398,4,5:24.0,106,86,WAS,BOS,0,home,Sub,,,,,T. Burke,J. Wall
+399,4,5:24.0,107,86,WAS,BOS,0,away,Sub,,,,,J. Brown,G. Green
+400,4,5:24.0,107,86,WAS,BOS,0,away,FreeThrow,,,make1,0,M. Smart misses flagrant free throw 2 of 2,
+401,4,5:24.0,107,86,WAS,BOS,0,away,OffReb,,,OffReb,,Team,
+402,4,5:11.0,107,86,WAS,BOS,13,away,JS,,10,miss2,0,I. Thomas,
+403,4,5:10.0,107,86,WAS,BOS,1,home,DefReb,,,DefReb,,M. Gortat,
+404,4,5:02.0,107,86,WAS,BOS,8,home,Turnover,,,turnover,,Team,
+405,4,4:51.0,107,86,WAS,BOS,11,away,LU,,2,miss2,0,I. Thomas,
+406,4,4:50.0,107,86,WAS,BOS,1,away,OffReb,,,OffReb,,I. Thomas,
+407,4,4:48.0,107,88,WAS,BOS,2,away,LU,,2,make2,2,I. Thomas,
+408,4,4:25.0,109,88,WAS,BOS,23,home,JS,,14,make2,2,T. Burke,
+409,4,4:09.0,109,88,WAS,BOS,16,away,JS,,29,miss3,0,M. Smart,
+410,4,4:08.0,109,88,WAS,BOS,1,home,DefReb,,,DefReb,,T. Satoranský,
+411,4,3:55.0,109,88,WAS,BOS,13,home,JS,,26,miss3,0,M. Thornton,
+412,4,3:54.0,109,88,WAS,BOS,1,home,OffReb,,,OffReb,,O. Porter,
+413,4,3:45.0,109,88,WAS,BOS,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bradley,M. Gortat
+414,4,3:45.0,109,88,WAS,BOS,0,away,Sub,,,,,D. Jackson,I. Thomas
+415,4,3:45.0,109,88,WAS,BOS,0,away,Sub,,,,,J. Young,A. Bradley
+416,4,3:35.0,111,88,WAS,BOS,10,home,JS,assist,19,make2,2,O. Porter,M. Gortat
+417,4,3:17.0,111,90,WAS,BOS,18,away,LU,assist,1,make2,2,J. Brown,J. Young
+418,4,2:59.0,111,90,WAS,BOS,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,M. Gortat
+419,4,2:59.0,111,90,WAS,BOS,0,away,Timeout,,,,,,
+420,4,2:59.0,111,90,WAS,BOS,0,away,Sub,,,,,J. Mickey,M. Smart
+421,4,2:59.0,111,90,WAS,BOS,0,away,Sub,,,,,T. Rozier,K. Olynyk
+422,4,2:59.0,111,90,WAS,BOS,0,home,Sub,,,,,S. Mac,O. Porter
+423,4,2:59.0,111,90,WAS,BOS,0,home,Sub,,,,,K. Oubre,M. Thornton
+424,4,2:59.0,111,90,WAS,BOS,0,home,Sub,,,,,D. Ochefu,M. Gortat
+425,4,2:44.0,114,90,WAS,BOS,15,home,JS,assist,27,make3,3,T. Burke,S. Mac
+426,4,2:29.0,114,90,WAS,BOS,15,away,JS,,6,miss2,0,J. Young,
+427,4,2:28.0,114,90,WAS,BOS,1,home,DefReb,,,DefReb,,D. Ochefu,
+428,4,2:28.0,114,90,WAS,BOS,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Young,D. Ochefu
+429,4,2:19.0,114,90,WAS,BOS,9,home,JS,,14,miss2,0,T. Satoranský,
+430,4,2:18.0,114,90,WAS,BOS,1,away,DefReb,,,DefReb,,J. Brown,
+431,4,2:12.0,114,90,WAS,BOS,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Ochefu,J. Brown
+432,4,2:12.0,114,91,WAS,BOS,0,away,FreeThrow,,,make1,1,J. Brown,
+433,4,2:12.0,114,91,WAS,BOS,0,away,FreeThrow,,,make1,0,J. Brown,
+434,4,2:11.0,114,91,WAS,BOS,1,home,DefReb,,,DefReb,,K. Oubre,
+435,4,1:52.0,116,91,WAS,BOS,19,home,LU,assist,2,make2,2,D. Ochefu,T. Satoranský
+436,4,1:31.0,116,91,WAS,BOS,21,away,JS,,11,miss2,0,J. Young,
+437,4,1:30.0,116,91,WAS,BOS,1,home,DefReb,,,DefReb,,D. Ochefu,
+438,4,1:24.0,116,91,WAS,BOS,6,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Ochefu,T. Rozier
+439,4,1:24.0,116,91,WAS,BOS,0,home,OffensiveFoul,,,turnover,,D. Ochefu,
+440,4,1:14.0,116,91,WAS,BOS,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Oubre,D. Jackson
+441,4,1:14.0,116,91,WAS,BOS,0,away,FreeThrow,,,make1,0,D. Jackson,
+442,4,1:14.0,116,91,WAS,BOS,0,away,OffReb,,,OffReb,,Team,
+443,4,1:14.0,116,91,WAS,BOS,0,away,FreeThrow,,,make1,0,D. Jackson,
+444,4,1:13.0,116,91,WAS,BOS,1,home,DefReb,,,DefReb,,K. Oubre,
+445,4,0:56.0,118,91,WAS,BOS,17,home,JS,assist,15,make2,2,S. Mac,T. Burke
+446,4,0:45.0,118,93,WAS,BOS,11,away,JS,,17,make2,2,D. Jackson,
+447,4,0:24.0,118,93,WAS,BOS,21,home,JS,,25,miss3,0,S. Mac,
+448,4,0:23.0,118,93,WAS,BOS,1,away,DefReb,,,DefReb,,J. Mickey,

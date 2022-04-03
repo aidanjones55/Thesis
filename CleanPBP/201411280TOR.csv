@@ -1,0 +1,469 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,2,0,TOR,DAL,17,home,LU,assist,2,make2,2,A. Johnson,K. Lowry
+1,1,11:30.0,2,0,TOR,DAL,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,D. Nowitzki
+2,1,11:22.0,2,0,TOR,DAL,8,away,JS,,14,miss2,0,D. Nowitzki,
+3,1,11:21.0,2,0,TOR,DAL,1,home,DefReb,,,DefReb,,K. Lowry,
+4,1,11:13.0,2,0,TOR,DAL,8,home,HS,block,11,miss2,0,D. DeRozan,D. Nowitzki
+5,1,11:13.0,2,0,TOR,DAL,0,home,OffReb,,,OffReb,,Team,
+6,1,10:58.0,2,0,TOR,DAL,15,home,JS,,24,miss3,0,T. Ross,
+7,1,10:57.0,2,0,TOR,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+8,1,10:39.0,2,0,TOR,DAL,18,away,BadPass,steal,,turnover,,M. Ellis,J. Valančiūnas
+9,1,10:31.0,2,0,TOR,DAL,8,home,BadPass,,,turnover,,T. Ross,
+10,1,10:17.0,2,0,TOR,DAL,14,away,JS,,15,miss2,0,M. Ellis,
+11,1,10:16.0,2,0,TOR,DAL,1,home,DefReb,,,DefReb,,J. Valančiūnas,
+12,1,9:57.0,5,0,TOR,DAL,19,home,JS,assist,23,make3,3,T. Ross,D. DeRozan
+13,1,9:39.0,5,0,TOR,DAL,18,away,JS,,18,miss2,0,D. Nowitzki,
+14,1,9:38.0,5,0,TOR,DAL,1,home,DefReb,,,DefReb,,J. Valančiūnas,
+15,1,9:30.0,8,0,TOR,DAL,8,home,JS,,27,make3,3,K. Lowry,
+16,1,9:13.0,8,0,TOR,DAL,17,away,LU,,2,miss2,0,M. Ellis,
+17,1,9:12.0,8,0,TOR,DAL,1,home,DefReb,,,DefReb,,J. Valančiūnas,
+18,1,9:08.0,10,0,TOR,DAL,4,home,LU,assist,1,make2,2,T. Ross,K. Lowry
+19,1,9:08.0,10,0,TOR,DAL,0,away,Timeout,,,,,,
+20,1,8:56.0,10,2,TOR,DAL,12,away,JS,assist,19,make2,2,D. Nowitzki,D. Harris
+21,1,8:34.0,10,2,TOR,DAL,22,home,HS,,4,miss2,0,A. Johnson,
+22,1,8:33.0,10,2,TOR,DAL,1,away,DefReb,,,DefReb,,M. Ellis,
+23,1,8:25.0,10,4,TOR,DAL,8,away,JS,,20,make2,2,M. Ellis,
+24,1,8:05.0,10,4,TOR,DAL,20,home,JS,,16,miss2,0,D. DeRozan,
+25,1,8:04.0,10,4,TOR,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+26,1,7:52.0,10,4,TOR,DAL,12,away,LU,,4,miss2,0,T. Chandler,
+27,1,7:51.0,10,4,TOR,DAL,1,home,DefReb,,,DefReb,,D. DeRozan,
+28,1,7:38.0,10,4,TOR,DAL,13,home,JS,block,3,miss2,0,A. Johnson,M. Ellis
+29,1,7:37.0,10,4,TOR,DAL,1,away,DefReb,,,DefReb,,C. Parsons,
+30,1,7:26.0,10,7,TOR,DAL,11,away,JS,assist,25,make3,3,D. Nowitzki,D. Harris
+31,1,7:02.0,13,7,TOR,DAL,24,home,JS,assist,25,make3,3,A. Johnson,D. DeRozan
+32,1,6:49.0,13,7,TOR,DAL,13,away,JS,,17,miss2,0,D. Nowitzki,
+33,1,6:47.0,13,7,TOR,DAL,2,home,DefReb,,,DefReb,,J. Valančiūnas,
+34,1,6:41.0,13,7,TOR,DAL,6,home,JS,,29,miss3,0,K. Lowry,
+35,1,6:40.0,13,7,TOR,DAL,1,away,DefReb,,,DefReb,,D. Harris,
+36,1,6:28.0,13,10,TOR,DAL,12,away,JS,assist,26,make3,3,C. Parsons,M. Ellis
+37,1,6:09.0,13,10,TOR,DAL,19,home,JS,block,13,miss2,0,J. Valančiūnas,T. Chandler
+38,1,6:07.0,13,10,TOR,DAL,2,away,DefReb,,,DefReb,,T. Chandler,
+39,1,6:05.0,13,10,TOR,DAL,2,away,LostBall,steal,,turnover,,T. Chandler,K. Lowry
+40,1,5:49.0,13,10,TOR,DAL,16,home,JS,,13,miss2,0,K. Lowry,
+41,1,5:48.0,13,10,TOR,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+42,1,5:37.0,13,10,TOR,DAL,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Lowry,T. Chandler
+43,1,5:37.0,13,11,TOR,DAL,0,away,FreeThrow,,,make1,1,T. Chandler,
+44,1,5:37.0,13,11,TOR,DAL,0,away,Sub,,,,,B. Wright,D. Nowitzki
+45,1,5:37.0,13,11,TOR,DAL,0,away,FreeThrow,,,make1,0,T. Chandler,
+46,1,5:37.0,13,11,TOR,DAL,0,home,DefReb,,,DefReb,,A. Johnson,
+47,1,5:18.0,15,11,TOR,DAL,19,home,HS,,4,make2,2,A. Johnson,
+48,1,5:09.0,15,11,TOR,DAL,9,away,JS,,20,miss2,0,M. Ellis,
+49,1,5:07.0,15,11,TOR,DAL,2,home,DefReb,,,DefReb,,J. Valančiūnas,
+50,1,4:58.0,15,11,TOR,DAL,9,home,HS,,5,miss2,0,A. Johnson,
+51,1,4:58.0,15,11,TOR,DAL,0,away,DefReb,,,DefReb,,Team,
+52,1,4:37.0,15,11,TOR,DAL,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. DeRozan,C. Parsons
+53,1,4:37.0,15,12,TOR,DAL,0,away,FreeThrow,,,make1,1,C. Parsons,
+54,1,4:37.0,15,12,TOR,DAL,0,away,FreeThrow,,,make1,0,C. Parsons,
+55,1,4:37.0,15,12,TOR,DAL,0,away,OffReb,,,OffReb,,Team,
+56,1,4:37.0,15,12,TOR,DAL,0,home,Sub,,,,,P. Patterson,A. Johnson
+57,1,4:37.0,15,13,TOR,DAL,0,away,FreeThrow,,,make1,1,C. Parsons,
+58,1,4:26.0,15,13,TOR,DAL,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Parsons,P. Patterson
+59,1,4:26.0,15,13,TOR,DAL,0,away,Sub,,,,,J. Barea,D. Harris
+60,1,4:16.0,15,13,TOR,DAL,10,home,JS,,16,miss2,0,D. DeRozan,
+61,1,4:15.0,15,13,TOR,DAL,1,away,DefReb,,,DefReb,,J. Barea,
+62,1,4:03.0,15,15,TOR,DAL,12,away,JS,,13,make2,2,C. Parsons,
+63,1,3:45.0,15,15,TOR,DAL,18,home,JS,,5,miss2,0,T. Ross,
+64,1,3:44.0,15,15,TOR,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+65,1,3:28.0,15,17,TOR,DAL,16,away,JS,assist,18,make2,2,M. Ellis,J. Barea
+66,1,3:14.0,15,17,TOR,DAL,14,home,Sub,,,,,L. Williams,T. Ross
+67,1,3:03.0,15,17,TOR,DAL,11,away,ChargeFoul,DrawnBy,,ChargeFoul,,K. Lowry,M. Ellis
+68,1,3:03.0,15,17,TOR,DAL,0,home,OffensiveFoul,,,turnover,,K. Lowry,
+69,1,3:03.0,15,17,TOR,DAL,0,home,DelayOfGame,,,DelayOfGame,,Team,
+70,1,2:56.0,15,17,TOR,DAL,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Lowry,J. Barea
+71,1,2:56.0,15,17,TOR,DAL,0,home,Timeout,,,,,,
+72,1,2:56.0,15,17,TOR,DAL,0,home,Sub,,,,,G. Vásquez,K. Lowry
+73,1,2:56.0,15,17,TOR,DAL,0,away,Sub,,,,,D. Nowitzki,T. Chandler
+74,1,2:40.0,15,20,TOR,DAL,16,away,JS,assist,25,make3,3,J. Barea,C. Parsons
+75,1,2:25.0,17,20,TOR,DAL,15,home,JS,assist,16,make2,2,L. Williams,P. Patterson
+76,1,2:25.0,17,20,TOR,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Parsons,L. Williams
+77,1,2:25.0,17,20,TOR,DAL,0,away,Sub,,,,,J. Crowder,C. Parsons
+78,1,2:25.0,17,20,TOR,DAL,0,away,Sub,,,,,A. Aminu,M. Ellis
+79,1,2:25.0,18,20,TOR,DAL,0,home,FreeThrow,,,make1,1,L. Williams,
+80,1,2:14.0,18,20,TOR,DAL,11,away,JS,,18,miss2,0,J. Barea,
+81,1,2:13.0,18,20,TOR,DAL,1,home,DefReb,,,DefReb,,P. Patterson,
+82,1,1:59.0,18,20,TOR,DAL,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crowder,P. Patterson
+83,1,1:59.0,18,20,TOR,DAL,0,home,FreeThrow,,,make1,0,P. Patterson,
+84,1,1:59.0,18,20,TOR,DAL,0,home,OffReb,,,OffReb,,Team,
+85,1,1:59.0,18,20,TOR,DAL,0,home,FreeThrow,,,make1,0,P. Patterson,
+86,1,1:57.0,18,20,TOR,DAL,2,away,DefReb,,,DefReb,,Team,
+87,1,1:47.0,18,22,TOR,DAL,10,away,DK,assist,0,make2,2,B. Wright,J. Barea
+88,1,1:24.0,21,22,TOR,DAL,23,home,JS,assist,26,make3,3,P. Patterson,G. Vásquez
+89,1,1:07.0,21,22,TOR,DAL,17,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Valančiūnas,A. Aminu
+90,1,1:07.0,21,23,TOR,DAL,0,away,FreeThrow,,,make1,1,A. Aminu,
+91,1,1:07.0,21,23,TOR,DAL,0,home,Sub,,,,,J. Johnson,D. DeRozan
+92,1,1:07.0,21,23,TOR,DAL,0,home,Sub,,,,,C. Hayes,J. Valančiūnas
+93,1,1:07.0,21,23,TOR,DAL,0,away,FreeThrow,,,make1,0,A. Aminu,
+94,1,1:06.0,21,23,TOR,DAL,1,away,OffReb,,,OffReb,,J. Barea,
+95,1,0:56.0,21,26,TOR,DAL,10,away,JS,assist,23,make3,3,J. Crowder,D. Nowitzki
+96,1,0:41.0,21,26,TOR,DAL,15,away,ChargeFoul,DrawnBy,,ChargeFoul,,L. Williams,J. Crowder
+97,1,0:41.0,21,26,TOR,DAL,0,home,OffensiveFoul,,,turnover,,L. Williams,
+98,1,0:35.0,21,26,TOR,DAL,6,away,JS,,19,miss2,0,J. Barea,
+99,1,0:34.0,21,26,TOR,DAL,1,home,DefReb,,,DefReb,,C. Hayes,
+100,1,0:09.0,21,26,TOR,DAL,25,home,JS,,27,miss3,0,L. Williams,
+101,1,0:08.0,21,26,TOR,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+102,2,11:45.0,21,26,TOR,DAL,15,away,HS,,6,miss2,0,B. Wright,
+103,2,11:44.0,21,26,TOR,DAL,1,home,DefReb,,,DefReb,,P. Patterson,
+104,2,11:32.0,21,26,TOR,DAL,12,home,LU,block,4,miss2,0,G. Vásquez,A. Aminu
+105,2,11:29.0,21,26,TOR,DAL,3,away,DefReb,,,DefReb,,A. Aminu,
+106,2,11:22.0,21,26,TOR,DAL,7,away,JS,,26,miss3,0,D. Nowitzki,
+107,2,11:21.0,21,26,TOR,DAL,1,home,DefReb,,,DefReb,,L. Williams,
+108,2,11:15.0,21,26,TOR,DAL,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crowder,L. Williams
+109,2,11:06.0,21,26,TOR,DAL,9,home,BadPass,steal,,turnover,,C. Hayes,J. Barea
+110,2,11:01.0,21,28,TOR,DAL,5,away,DK,assist,0,make2,2,A. Aminu,J. Barea
+111,2,10:45.0,21,28,TOR,DAL,16,home,JS,,19,miss2,0,L. Williams,
+112,2,10:45.0,21,28,TOR,DAL,0,away,DefReb,,,DefReb,,B. Wright,
+113,2,10:35.0,21,30,TOR,DAL,10,away,DK,assist,0,make2,2,B. Wright,J. Barea
+114,2,10:10.0,24,30,TOR,DAL,25,home,JS,,25,make3,3,G. Vásquez,
+115,2,9:51.0,24,30,TOR,DAL,19,away,JS,,3,miss2,0,B. Wright,
+116,2,9:50.0,24,30,TOR,DAL,1,home,DefReb,,,DefReb,,P. Patterson,
+117,2,9:42.0,24,30,TOR,DAL,8,home,LU,,2,miss2,0,G. Vásquez,
+118,2,9:41.0,24,30,TOR,DAL,1,home,OffReb,,,OffReb,,P. Patterson,
+119,2,9:39.0,26,30,TOR,DAL,2,home,TI,,0,make2,2,P. Patterson,
+120,2,9:39.0,26,30,TOR,DAL,0,away,Timeout,,,,,,
+121,2,9:39.0,26,30,TOR,DAL,0,away,Sub,,,,,C. Parsons,D. Nowitzki
+122,2,9:39.0,26,30,TOR,DAL,0,away,Sub,,,,,T. Chandler,B. Wright
+123,2,9:39.0,26,30,TOR,DAL,0,away,Sub,,,,,M. Ellis,J. Barea
+124,2,9:39.0,26,30,TOR,DAL,0,away,Sub,,,,,D. Harris,J. Crowder
+125,2,9:20.0,26,33,TOR,DAL,19,away,JS,assist,26,make3,3,A. Aminu,M. Ellis
+126,2,8:59.0,28,33,TOR,DAL,21,home,JS,assist,19,make2,2,G. Vásquez,C. Hayes
+127,2,8:46.0,28,33,TOR,DAL,13,away,LU,,4,miss2,0,M. Ellis,
+128,2,8:45.0,28,33,TOR,DAL,1,away,OffReb,,,OffReb,,T. Chandler,
+129,2,8:43.0,28,35,TOR,DAL,2,away,LU,,2,make2,2,T. Chandler,
+130,2,8:28.0,28,35,TOR,DAL,15,home,D3SecTech,,,,,,
+131,2,8:28.0,28,35,TOR,DAL,0,home,FreeThrow,,,make1,0,G. Vásquez misses technical free throw,
+132,2,8:28.0,28,35,TOR,DAL,0,home,OffReb,,,OffReb,,Team,
+133,2,8:23.0,28,35,TOR,DAL,5,home,BadPass,steal,,turnover,,G. Vásquez,M. Ellis
+134,2,8:18.0,28,35,TOR,DAL,5,away,LU,,2,miss2,0,C. Parsons,
+135,2,8:18.0,28,35,TOR,DAL,0,home,DefReb,,,DefReb,,Team,
+136,2,8:18.0,28,35,TOR,DAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Aminu,J. Johnson
+137,2,8:18.0,28,35,TOR,DAL,0,home,Sub,,,,,J. Valančiūnas,C. Hayes
+138,2,8:03.0,28,35,TOR,DAL,15,home,JS,,6,miss2,0,G. Vásquez,
+139,2,8:02.0,28,35,TOR,DAL,1,home,OffReb,,,OffReb,,J. Johnson,
+140,2,7:58.0,28,35,TOR,DAL,4,home,JS,block,4,miss2,0,J. Johnson,T. Chandler
+141,2,7:58.0,28,35,TOR,DAL,0,away,DefReb,,,DefReb,,D. Harris,
+142,2,7:45.0,28,35,TOR,DAL,13,away,BadPass,steal,,turnover,,D. Harris,G. Vásquez
+143,2,7:40.0,31,35,TOR,DAL,5,home,JS,assist,24,make3,3,L. Williams,G. Vásquez
+144,2,7:20.0,31,35,TOR,DAL,20,away,BadPass,steal,,turnover,,M. Ellis,L. Williams
+145,2,7:17.0,31,35,TOR,DAL,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,L. Williams
+146,2,7:17.0,31,35,TOR,DAL,0,home,FreeThrow,,,make1,0,L. Williams,
+147,2,7:17.0,31,35,TOR,DAL,0,home,OffReb,,,OffReb,,Team,
+148,2,7:17.0,31,35,TOR,DAL,0,away,LaneViolation,,,LaneViolation,,T. Chandler,
+149,2,7:17.0,32,35,TOR,DAL,0,home,FreeThrow,,,make1,1,L. Williams,
+150,2,7:08.0,32,35,TOR,DAL,9,away,JS,,20,miss2,0,D. Harris,
+151,2,7:07.0,32,35,TOR,DAL,1,home,DefReb,,,DefReb,,J. Johnson,
+152,2,7:02.0,32,35,TOR,DAL,5,away,ChargeFoul,DrawnBy,,ChargeFoul,,J. Johnson,M. Ellis
+153,2,7:02.0,32,35,TOR,DAL,0,home,OffensiveFoul,,,turnover,,J. Johnson,
+154,2,6:51.0,32,37,TOR,DAL,11,away,JS,,10,make2,2,M. Ellis,
+155,2,6:27.0,32,37,TOR,DAL,24,home,JS,,23,miss3,0,P. Patterson,
+156,2,6:26.0,32,37,TOR,DAL,1,away,DefReb,,,DefReb,,C. Parsons,
+157,2,6:14.0,32,37,TOR,DAL,12,away,JS,,24,miss3,0,M. Ellis,
+158,2,6:13.0,32,37,TOR,DAL,1,away,OffReb,,,OffReb,,T. Chandler,
+159,2,5:58.0,32,40,TOR,DAL,15,away,JS,assist,24,make3,3,D. Harris,A. Aminu
+160,2,5:49.0,32,40,TOR,DAL,9,home,Timeout,,,,,,
+161,2,5:49.0,32,40,TOR,DAL,0,home,Sub,,,,,K. Lowry,P. Patterson
+162,2,5:49.0,32,40,TOR,DAL,0,home,Sub,,,,,D. DeRozan,L. Williams
+163,2,5:49.0,32,40,TOR,DAL,0,home,Sub,,,,,A. Johnson,J. Johnson
+164,2,5:49.0,32,40,TOR,DAL,0,away,Sub,,,,,J. Barea,M. Ellis
+165,2,5:36.0,32,40,TOR,DAL,13,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Johnson,C. Parsons
+166,2,5:36.0,32,40,TOR,DAL,0,home,OffensiveFoul,,,turnover,,A. Johnson,
+167,2,5:23.0,32,43,TOR,DAL,13,away,JS,assist,24,make3,3,C. Parsons,J. Barea
+168,2,5:03.0,32,43,TOR,DAL,20,home,HS,block,4,miss2,0,J. Valančiūnas,T. Chandler
+169,2,5:02.0,32,43,TOR,DAL,1,away,DefReb,,,DefReb,,J. Barea,
+170,2,4:56.0,32,43,TOR,DAL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Vásquez,J. Barea
+171,2,4:46.0,32,45,TOR,DAL,10,away,JS,assist,9,make2,2,C. Parsons,D. Harris
+172,2,4:25.0,32,45,TOR,DAL,21,home,JS,,4,miss2,0,D. DeRozan,
+173,2,4:24.0,32,45,TOR,DAL,1,away,DefReb,,,DefReb,,J. Barea,
+174,2,4:16.0,32,45,TOR,DAL,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Vásquez,A. Aminu
+175,2,4:16.0,32,46,TOR,DAL,0,away,FreeThrow,,,make1,1,A. Aminu,
+176,2,4:16.0,32,46,TOR,DAL,0,home,Sub,,,,,T. Ross,G. Vásquez
+177,2,4:16.0,32,46,TOR,DAL,0,home,Sub,,,,,L. Williams,J. Valančiūnas
+178,2,4:16.0,32,46,TOR,DAL,0,away,Sub,,,,,M. Ellis,D. Harris
+179,2,4:16.0,32,46,TOR,DAL,0,away,FreeThrow,,,make1,0,A. Aminu,
+180,2,4:15.0,32,46,TOR,DAL,1,home,DefReb,,,DefReb,,D. DeRozan,
+181,2,4:00.0,34,46,TOR,DAL,15,home,JS,,10,make2,2,K. Lowry,
+182,2,3:49.0,34,46,TOR,DAL,11,away,LU,,2,miss2,0,T. Chandler,
+183,2,3:48.0,34,46,TOR,DAL,1,away,OffReb,,,OffReb,,T. Chandler,
+184,2,3:46.0,34,48,TOR,DAL,2,away,TI,,1,make2,2,T. Chandler,
+185,2,3:39.0,34,48,TOR,DAL,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Barea,K. Lowry
+186,2,3:39.0,34,48,TOR,DAL,0,away,Sub,,,,,D. Nowitzki,A. Aminu
+187,2,3:27.0,37,48,TOR,DAL,12,home,JS,,25,make3,3,L. Williams,
+188,2,3:16.0,37,48,TOR,DAL,11,away,JS,,21,miss2,0,M. Ellis,
+189,2,3:15.0,37,48,TOR,DAL,1,home,DefReb,,,DefReb,,D. DeRozan,
+190,2,3:10.0,37,48,TOR,DAL,5,home,JS,,5,miss2,0,D. DeRozan,
+191,2,3:09.0,37,48,TOR,DAL,1,home,OffReb,,,OffReb,,D. DeRozan,
+192,2,3:08.0,37,48,TOR,DAL,1,home,TI,block,1,miss2,0,D. DeRozan,T. Chandler
+193,2,3:08.0,37,48,TOR,DAL,0,away,DefReb,,,DefReb,,Team,
+194,2,3:08.0,37,48,TOR,DAL,0,home,Sub,,,,,P. Patterson,T. Ross
+195,2,2:59.0,37,48,TOR,DAL,9,away,LostBall,,,turnover,,M. Ellis,
+196,2,2:59.0,37,48,TOR,DAL,0,away,Timeout,,,,,,
+197,2,2:59.0,37,48,TOR,DAL,0,away,Sub,,,,,B. Wright,T. Chandler
+198,2,2:47.0,37,48,TOR,DAL,12,home,JS,,26,miss3,0,K. Lowry,
+199,2,2:46.0,37,48,TOR,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+200,2,2:34.0,37,48,TOR,DAL,12,away,LostBall,steal,,turnover,,B. Wright,A. Johnson
+201,2,2:27.0,37,48,TOR,DAL,7,home,LU,,1,miss2,0,K. Lowry,
+202,2,2:26.0,37,48,TOR,DAL,1,home,OffReb,,,OffReb,,A. Johnson,
+203,2,2:24.0,37,48,TOR,DAL,2,home,TI,,0,miss2,0,A. Johnson,
+204,2,2:23.0,37,48,TOR,DAL,1,home,OffReb,,,OffReb,,A. Johnson,
+205,2,2:21.0,37,48,TOR,DAL,2,home,TI,,1,miss2,0,A. Johnson,
+206,2,2:20.0,37,48,TOR,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+207,2,2:07.0,37,48,TOR,DAL,13,away,JS,,25,miss3,0,C. Parsons,
+208,2,2:06.0,37,48,TOR,DAL,1,away,OffReb,,,OffReb,,Team,
+209,2,2:06.0,37,48,TOR,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. DeRozan,D. Nowitzki
+210,2,1:53.0,37,48,TOR,DAL,13,away,D3SecTech,,,,,,
+211,2,1:53.0,37,48,TOR,DAL,0,away,FreeThrow,,,make1,0,D. Nowitzki misses technical free throw,
+212,2,1:53.0,37,48,TOR,DAL,0,away,OffReb,,,OffReb,,Team,
+213,2,1:40.0,37,48,TOR,DAL,13,away,JS,,8,miss2,0,M. Ellis,
+214,2,1:39.0,37,48,TOR,DAL,1,away,OffReb,,,OffReb,,B. Wright,
+215,2,1:26.0,37,48,TOR,DAL,13,away,JS,,13,miss2,0,D. Nowitzki,
+216,2,1:25.0,37,48,TOR,DAL,1,home,DefReb,,,DefReb,,A. Johnson,
+217,2,1:18.0,37,48,TOR,DAL,7,home,JS,,23,miss3,0,P. Patterson,
+218,2,1:18.0,37,48,TOR,DAL,0,home,OffReb,,,OffReb,,A. Johnson,
+219,2,1:15.0,39,48,TOR,DAL,3,home,LU,,1,make2,2,A. Johnson,
+220,2,1:10.0,39,48,TOR,DAL,5,away,Timeout,,,,,,
+221,2,1:10.0,39,48,TOR,DAL,0,home,Sub,,,,,G. Vásquez,K. Lowry
+222,2,1:10.0,39,48,TOR,DAL,0,away,Sub,,,,,T. Chandler,B. Wright
+223,2,1:10.0,39,48,TOR,DAL,0,away,Sub,,,,,D. Harris,J. Barea
+224,2,0:58.0,39,48,TOR,DAL,12,away,JS,,28,miss3,0,D. Harris,
+225,2,0:57.0,39,48,TOR,DAL,1,home,DefReb,,,DefReb,,Team,
+226,2,0:53.0,39,48,TOR,DAL,4,home,Timeout,,,,,,
+227,2,0:53.0,39,48,TOR,DAL,0,home,Sub,,,,,K. Lowry,G. Vásquez
+228,2,0:42.0,39,48,TOR,DAL,11,home,JS,block,8,miss2,0,D. DeRozan,D. Harris
+229,2,0:42.0,39,48,TOR,DAL,0,home,OffReb,,,OffReb,,Team,
+230,2,0:38.0,39,48,TOR,DAL,4,home,LU,,2,miss2,0,K. Lowry,
+231,2,0:38.0,39,48,TOR,DAL,0,home,OffReb,,,OffReb,,A. Johnson,
+232,2,0:38.0,41,48,TOR,DAL,0,home,LU,,0,make2,2,A. Johnson,
+233,2,0:26.0,41,48,TOR,DAL,12,away,LU,block,2,miss2,0,D. Nowitzki,A. Johnson
+234,2,0:24.0,41,48,TOR,DAL,2,home,DefReb,,,DefReb,,P. Patterson,
+235,2,0:18.0,41,48,TOR,DAL,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,K. Lowry
+236,2,0:18.0,42,48,TOR,DAL,0,home,FreeThrow,,,make1,1,K. Lowry,
+237,2,0:18.0,43,48,TOR,DAL,0,home,FreeThrow,,,make1,1,K. Lowry,
+238,2,0:17.0,43,48,TOR,DAL,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Williams,M. Ellis
+239,2,0:17.0,43,48,TOR,DAL,0,home,Sub,,,,,T. Ross,K. Lowry
+240,2,0:00.0,43,48,TOR,DAL,17,away,JS,,18,miss2,0,M. Ellis,
+241,2,0:00.0,43,48,TOR,DAL,0,away,OffReb,,,OffReb,,Team,
+242,3,11:47.0,43,50,TOR,DAL,13,away,JS,,15,make2,2,M. Ellis,
+243,3,11:24.0,43,50,TOR,DAL,23,home,JS,,12,miss2,0,D. DeRozan,
+244,3,11:23.0,43,50,TOR,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+245,3,11:09.0,43,50,TOR,DAL,14,away,JS,,26,miss3,0,M. Ellis,
+246,3,11:09.0,43,50,TOR,DAL,0,home,DefReb,,,DefReb,,J. Valančiūnas,
+247,3,10:56.0,43,50,TOR,DAL,13,home,HS,,4,miss2,0,K. Lowry,
+248,3,10:55.0,43,50,TOR,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+249,3,10:48.0,43,50,TOR,DAL,7,away,LostBall,steal,,turnover,,D. Harris,T. Ross
+250,3,10:47.0,43,50,TOR,DAL,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nowitzki,K. Lowry
+251,3,10:27.0,43,50,TOR,DAL,20,home,JS,,18,miss2,0,T. Ross,
+252,3,10:26.0,43,50,TOR,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+253,3,10:09.0,43,50,TOR,DAL,17,away,JS,,26,miss3,0,D. Nowitzki,
+254,3,10:07.0,43,50,TOR,DAL,2,home,DefReb,,,DefReb,,J. Valančiūnas,
+255,3,9:44.0,45,50,TOR,DAL,23,home,HS,,4,make2,2,K. Lowry,
+256,3,9:27.0,45,52,TOR,DAL,17,away,DK,assist,0,make2,2,T. Chandler,M. Ellis
+257,3,9:04.0,45,52,TOR,DAL,23,home,LostBall,steal,,turnover,,D. DeRozan,M. Ellis
+258,3,8:59.0,45,54,TOR,DAL,5,away,LU,assist,1,make2,2,M. Ellis,D. Harris
+259,3,8:42.0,45,54,TOR,DAL,17,home,JS,,26,miss3,0,T. Ross,
+260,3,8:41.0,45,54,TOR,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+261,3,8:33.0,45,56,TOR,DAL,8,away,JS,assist,17,make2,2,D. Nowitzki,M. Ellis
+262,3,8:29.0,45,56,TOR,DAL,4,home,Timeout,,,,,,
+263,3,8:29.0,45,56,TOR,DAL,0,home,Sub,,,,,P. Patterson,J. Valančiūnas
+264,3,8:23.0,45,56,TOR,DAL,6,home,LostBall,,,turnover,,D. DeRozan,
+265,3,8:23.0,45,56,TOR,DAL,0,home,Timeout,,,,,,
+266,3,8:23.0,45,56,TOR,DAL,0,home,Sub,,,,,L. Williams,D. DeRozan
+267,3,8:07.0,45,56,TOR,DAL,16,away,JS,,25,miss3,0,D. Nowitzki,
+268,3,8:05.0,45,56,TOR,DAL,2,home,DefReb,,,DefReb,,P. Patterson,
+269,3,7:59.0,47,56,TOR,DAL,6,home,JS,assist,13,make2,2,L. Williams,P. Patterson
+270,3,7:40.0,47,58,TOR,DAL,19,away,JS,assist,16,make2,2,M. Ellis,T. Chandler
+271,3,7:25.0,47,58,TOR,DAL,15,home,JS,,25,miss3,0,P. Patterson,
+272,3,7:24.0,47,58,TOR,DAL,1,home,OffReb,,,OffReb,,K. Lowry,
+273,3,7:21.0,49,58,TOR,DAL,3,home,DK,assist,0,make2,2,A. Johnson,K. Lowry
+274,3,6:55.0,49,58,TOR,DAL,26,away,JS,,18,miss2,0,M. Ellis,
+275,3,6:54.0,49,58,TOR,DAL,1,home,DefReb,,,DefReb,,K. Lowry,
+276,3,6:50.0,52,58,TOR,DAL,4,home,JS,,25,make3,3,K. Lowry,
+277,3,6:29.0,52,58,TOR,DAL,21,away,JS,,26,miss3,0,D. Nowitzki,
+278,3,6:28.0,52,58,TOR,DAL,1,home,DefReb,,,DefReb,,K. Lowry,
+279,3,6:20.0,52,58,TOR,DAL,8,home,JS,,25,miss3,0,T. Ross,
+280,3,6:19.0,52,58,TOR,DAL,1,away,DefReb,,,DefReb,,T. Chandler,
+281,3,6:09.0,52,58,TOR,DAL,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,T. Chandler
+282,3,6:09.0,52,58,TOR,DAL,0,away,Sub,,,,,A. Aminu,D. Nowitzki
+283,3,6:00.0,52,60,TOR,DAL,9,away,DK,assist,0,make2,2,A. Aminu,M. Ellis
+284,3,5:48.0,52,60,TOR,DAL,12,home,Traveling,,,turnover,,P. Patterson,
+285,3,5:39.0,52,62,TOR,DAL,9,away,DK,assist,0,make2,2,T. Chandler,D. Harris
+286,3,5:21.0,52,62,TOR,DAL,18,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Harris,K. Lowry
+287,3,5:17.0,52,62,TOR,DAL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,K. Lowry
+288,3,5:17.0,52,62,TOR,DAL,0,home,Sub,,,,,J. Valančiūnas,A. Johnson
+289,3,5:17.0,52,62,TOR,DAL,0,away,Sub,,,,,J. Barea,D. Harris
+290,3,5:11.0,52,62,TOR,DAL,6,home,JS,,26,miss3,0,K. Lowry,
+291,3,5:11.0,52,62,TOR,DAL,0,away,DefReb,,,DefReb,,Team,
+292,3,5:02.0,52,64,TOR,DAL,9,away,LU,,4,make2,2,J. Barea,
+293,3,4:46.0,52,64,TOR,DAL,16,home,JS,,4,miss2,0,K. Lowry,
+294,3,4:45.0,52,64,TOR,DAL,1,home,OffReb,,,OffReb,,P. Patterson,
+295,3,4:43.0,52,64,TOR,DAL,2,home,TI,,1,miss2,0,P. Patterson,
+296,3,4:42.0,52,64,TOR,DAL,1,home,OffReb,,,OffReb,,T. Ross,
+297,3,4:39.0,52,64,TOR,DAL,3,home,JS,,23,miss3,0,K. Lowry,
+298,3,4:37.0,52,64,TOR,DAL,2,away,DefReb,,,DefReb,,C. Parsons,
+299,3,4:32.0,52,66,TOR,DAL,5,away,DK,assist,0,make2,2,T. Chandler,M. Ellis
+300,3,4:22.0,52,66,TOR,DAL,10,home,Timeout,,,,,,
+301,3,4:11.0,52,66,TOR,DAL,11,home,BadPass,,,turnover,,L. Williams,
+302,3,3:54.0,52,66,TOR,DAL,17,away,JS,,23,miss3,0,A. Aminu,
+303,3,3:53.0,52,66,TOR,DAL,1,home,DefReb,,,DefReb,,P. Patterson,
+304,3,3:41.0,54,66,TOR,DAL,12,home,HS,,5,make2,2,T. Ross,
+305,3,3:24.0,54,69,TOR,DAL,17,away,JS,assist,26,make3,3,M. Ellis,J. Barea
+306,3,3:11.0,56,69,TOR,DAL,13,home,JS,assist,16,make2,2,P. Patterson,L. Williams
+307,3,3:01.0,56,69,TOR,DAL,10,away,Timeout,,,,,,
+308,3,3:01.0,56,69,TOR,DAL,0,home,Sub,,,,,J. Johnson,T. Ross
+309,3,3:01.0,56,69,TOR,DAL,0,away,Sub,,,,,B. Wright,C. Parsons
+310,3,3:01.0,56,69,TOR,DAL,0,away,Sub,,,,,D. Nowitzki,T. Chandler
+311,3,2:51.0,56,69,TOR,DAL,10,away,JS,,26,miss3,0,D. Nowitzki,
+312,3,2:50.0,56,69,TOR,DAL,1,home,DefReb,,,DefReb,,J. Valančiūnas,
+313,3,2:34.0,58,69,TOR,DAL,16,home,HS,,4,make2,2,J. Valančiūnas,
+314,3,2:09.0,58,69,TOR,DAL,25,away,HS,,4,miss2,0,B. Wright,
+315,3,2:08.0,58,69,TOR,DAL,1,home,DefReb,,,DefReb,,K. Lowry,
+316,3,2:00.0,58,69,TOR,DAL,8,home,JS,,26,miss3,0,L. Williams,
+317,3,2:00.0,58,69,TOR,DAL,0,home,OffReb,,,OffReb,,J. Valančiūnas,
+318,3,1:58.0,58,69,TOR,DAL,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Wright,J. Valančiūnas
+319,3,1:58.0,59,69,TOR,DAL,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+320,3,1:58.0,59,69,TOR,DAL,0,home,Sub,,,,,G. Vásquez,K. Lowry
+321,3,1:58.0,60,69,TOR,DAL,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+322,3,1:39.0,60,69,TOR,DAL,19,away,JS,,26,miss3,0,J. Barea,
+323,3,1:38.0,60,69,TOR,DAL,1,home,DefReb,,,DefReb,,J. Valančiūnas,
+324,3,1:29.0,62,69,TOR,DAL,9,home,JS,,14,make2,2,L. Williams,
+325,3,1:01.0,62,69,TOR,DAL,28,away,JS,,6,miss2,0,B. Wright,
+326,3,1:00.0,62,69,TOR,DAL,1,home,DefReb,,,DefReb,,J. Valančiūnas,
+327,3,0:55.0,62,69,TOR,DAL,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Barea,L. Williams
+328,3,0:55.0,63,69,TOR,DAL,0,home,FreeThrow,,,make1,1,L. Williams,
+329,3,0:55.0,63,69,TOR,DAL,0,away,Sub,,,,,T. Chandler,B. Wright
+330,3,0:55.0,64,69,TOR,DAL,0,home,FreeThrow,,,make1,1,L. Williams,
+331,3,0:42.0,64,69,TOR,DAL,13,away,JS,,17,miss2,0,D. Nowitzki,
+332,3,0:41.0,64,69,TOR,DAL,1,home,DefReb,,,DefReb,,J. Valančiūnas,
+333,3,0:33.0,64,69,TOR,DAL,8,home,JS,,28,miss3,0,L. Williams,
+334,3,0:32.0,64,69,TOR,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
+335,3,0:18.0,64,71,TOR,DAL,14,away,JS,assist,20,make2,2,D. Nowitzki,J. Barea
+336,3,0:00.0,64,71,TOR,DAL,18,home,JS,,25,miss3,0,L. Williams,
+337,3,0:00.0,64,71,TOR,DAL,0,home,OffReb,,,OffReb,,Team,
+338,4,11:39.0,64,71,TOR,DAL,21,home,HS,block,2,miss2,0,P. Patterson,B. Wright
+339,4,11:37.0,64,71,TOR,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
+340,4,11:26.0,64,71,TOR,DAL,11,away,JS,,25,miss3,0,D. Harris,
+341,4,11:24.0,64,71,TOR,DAL,2,home,DefReb,,,DefReb,,J. Valančiūnas,
+342,4,11:19.0,64,71,TOR,DAL,5,home,BadPass,steal,,turnover,,G. Vásquez,J. Barea
+343,4,11:13.0,64,71,TOR,DAL,6,away,LostBall,steal,,turnover,,J. Barea,L. Williams
+344,4,11:06.0,64,71,TOR,DAL,7,home,BadPass,steal,,turnover,,L. Williams,J. Barea
+345,4,10:48.0,64,73,TOR,DAL,18,away,JS,assist,21,make2,2,D. Nowitzki,A. Aminu
+346,4,10:31.0,67,73,TOR,DAL,17,home,JS,assist,25,make3,3,P. Patterson,G. Vásquez
+347,4,10:15.0,67,75,TOR,DAL,16,away,JS,assist,13,make2,2,D. Nowitzki,J. Barea
+348,4,9:57.0,69,75,TOR,DAL,18,home,LU,assist,1,make2,2,J. Valančiūnas,G. Vásquez
+349,4,9:53.0,69,75,TOR,DAL,4,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Johnson,J. Barea
+350,4,9:53.0,69,75,TOR,DAL,0,home,Sub,,,,,A. Johnson,P. Patterson
+351,4,9:40.0,69,75,TOR,DAL,13,away,DK,,0,miss2,0,B. Wright,
+352,4,9:39.0,69,75,TOR,DAL,1,home,DefReb,,,DefReb,,J. Johnson,
+353,4,9:26.0,69,75,TOR,DAL,13,home,JS,,18,miss2,0,G. Vásquez,
+354,4,9:25.0,69,75,TOR,DAL,1,away,DefReb,,,DefReb,,A. Aminu,
+355,4,9:20.0,69,77,TOR,DAL,5,away,LU,assist,1,make2,2,A. Aminu,J. Barea
+356,4,9:04.0,69,77,TOR,DAL,16,home,LU,,3,miss2,0,G. Vásquez,
+357,4,9:03.0,69,77,TOR,DAL,1,away,DefReb,,,DefReb,,J. Barea,
+358,4,8:56.0,69,77,TOR,DAL,7,away,LU,,5,miss2,0,D. Nowitzki,
+359,4,8:55.0,69,77,TOR,DAL,1,home,DefReb,,,DefReb,,J. Johnson,
+360,4,8:42.0,69,77,TOR,DAL,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,J. Valančiūnas
+361,4,8:42.0,69,77,TOR,DAL,0,away,Timeout,,,,,,
+362,4,8:42.0,69,77,TOR,DAL,0,away,Sub,,,,,C. Parsons,D. Nowitzki
+363,4,8:42.0,69,77,TOR,DAL,0,away,Sub,,,,,T. Chandler,B. Wright
+364,4,8:42.0,69,77,TOR,DAL,0,home,Sub,,,,,T. Ross,L. Williams
+365,4,8:42.0,70,77,TOR,DAL,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+366,4,8:42.0,71,77,TOR,DAL,0,home,FreeThrow,,,make1,1,J. Valančiūnas,
+367,4,8:24.0,71,79,TOR,DAL,18,away,JS,,4,make2,2,C. Parsons,
+368,4,8:04.0,71,79,TOR,DAL,20,home,HS,,6,miss2,0,J. Valančiūnas,
+369,4,8:03.0,71,79,TOR,DAL,1,away,DefReb,,,DefReb,,C. Parsons,
+370,4,7:48.0,71,82,TOR,DAL,15,away,JS,assist,25,make3,3,A. Aminu,D. Harris
+371,4,7:32.0,73,82,TOR,DAL,16,home,JS,assist,3,make2,2,J. Johnson,G. Vásquez
+372,4,7:22.0,73,82,TOR,DAL,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ross,D. Harris
+373,4,7:22.0,73,83,TOR,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+374,4,7:22.0,73,83,TOR,DAL,0,home,Sub,,,,,K. Lowry,J. Valančiūnas
+375,4,7:22.0,73,84,TOR,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+376,4,7:05.0,76,84,TOR,DAL,17,home,JS,assist,23,make3,3,A. Johnson,J. Johnson
+377,4,6:44.0,76,84,TOR,DAL,21,away,JS,,28,miss3,0,J. Barea,
+378,4,6:43.0,76,84,TOR,DAL,1,home,DefReb,,,DefReb,,G. Vásquez,
+379,4,6:36.0,79,84,TOR,DAL,7,home,JS,,24,make3,3,G. Vásquez,
+380,4,6:35.0,79,84,TOR,DAL,1,away,Timeout,,,,,,
+381,4,6:35.0,79,84,TOR,DAL,0,away,Sub,,,,,M. Ellis,J. Barea
+382,4,6:21.0,79,84,TOR,DAL,14,away,JS,,9,miss2,0,C. Parsons,
+383,4,6:20.0,79,84,TOR,DAL,1,away,OffReb,,,OffReb,,C. Parsons,
+384,4,6:16.0,79,86,TOR,DAL,4,away,JS,,7,make2,2,C. Parsons,
+385,4,6:00.0,79,86,TOR,DAL,16,home,LostBall,steal,,turnover,,J. Johnson,D. Harris
+386,4,5:53.0,79,86,TOR,DAL,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,D. Harris
+387,4,5:53.0,79,86,TOR,DAL,0,away,FreeThrow,,,make1,0,D. Harris,
+388,4,5:53.0,79,86,TOR,DAL,0,away,OffReb,,,OffReb,,Team,
+389,4,5:53.0,79,87,TOR,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+390,4,5:39.0,79,87,TOR,DAL,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Aminu,K. Lowry
+391,4,5:39.0,80,87,TOR,DAL,0,home,FreeThrow,,,make1,1,K. Lowry,
+392,4,5:39.0,81,87,TOR,DAL,0,home,FreeThrow,,,make1,1,K. Lowry,
+393,4,5:26.0,81,87,TOR,DAL,13,away,JS,,20,miss2,0,M. Ellis,
+394,4,5:25.0,81,87,TOR,DAL,1,home,DefReb,,,DefReb,,A. Johnson,
+395,4,5:14.0,81,87,TOR,DAL,11,home,JS,,20,miss2,0,K. Lowry,
+396,4,5:13.0,81,87,TOR,DAL,1,home,OffReb,,,OffReb,,A. Johnson,
+397,4,5:10.0,81,87,TOR,DAL,3,home,LU,,1,miss2,0,A. Johnson,
+398,4,5:09.0,81,87,TOR,DAL,1,home,OffReb,,,OffReb,,A. Johnson,
+399,4,5:09.0,83,87,TOR,DAL,0,home,LU,,1,make2,2,A. Johnson,
+400,4,5:09.0,83,87,TOR,DAL,0,away,Timeout,,,,,,
+401,4,5:09.0,83,87,TOR,DAL,0,away,Sub,,,,,D. Nowitzki,A. Aminu
+402,4,5:09.0,83,87,TOR,DAL,0,home,Sub,,,,,P. Patterson,J. Johnson
+403,4,4:46.0,83,89,TOR,DAL,23,away,LU,,2,make2,2,M. Ellis,
+404,4,4:32.0,83,89,TOR,DAL,14,home,BadPass,,,turnover,,K. Lowry,
+405,4,4:32.0,83,89,TOR,DAL,0,home,Sub,,,,,L. Williams,T. Ross
+406,4,4:18.0,83,91,TOR,DAL,14,away,JS,,18,make2,2,M. Ellis,
+407,4,3:56.0,83,91,TOR,DAL,22,home,JS,,24,miss3,0,G. Vásquez,
+408,4,3:55.0,83,91,TOR,DAL,1,home,OffReb,,,OffReb,,P. Patterson,
+409,4,3:47.0,83,91,TOR,DAL,8,home,JS,,25,miss3,0,K. Lowry,
+410,4,3:46.0,83,91,TOR,DAL,1,away,DefReb,,,DefReb,,C. Parsons,
+411,4,3:27.0,83,94,TOR,DAL,19,away,JS,,26,make3,3,M. Ellis,
+412,4,3:21.0,83,94,TOR,DAL,6,home,Timeout,,,,,,
+413,4,3:12.0,83,94,TOR,DAL,9,home,JS,,23,miss3,0,K. Lowry,
+414,4,3:12.0,83,94,TOR,DAL,0,away,DefReb,,,DefReb,,C. Parsons,
+415,4,2:56.0,83,94,TOR,DAL,16,away,JS,,24,miss3,0,C. Parsons,
+416,4,2:55.0,83,94,TOR,DAL,1,home,DefReb,,,DefReb,,P. Patterson,
+417,4,2:48.0,83,94,TOR,DAL,7,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,M. Ellis,G. Vásquez
+418,4,2:44.0,83,94,TOR,DAL,4,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,P. Patterson,M. Ellis
+419,4,2:44.0,83,94,TOR,DAL,0,home,OffensiveFoul,,,turnover,,P. Patterson,
+420,4,2:30.0,83,94,TOR,DAL,14,away,LU,,4,miss2,0,C. Parsons,
+421,4,2:29.0,83,94,TOR,DAL,1,home,DefReb,,,DefReb,,G. Vásquez,
+422,4,2:26.0,83,94,TOR,DAL,3,home,BadPass,steal,,turnover,,G. Vásquez,M. Ellis
+423,4,2:21.0,83,97,TOR,DAL,5,away,JS,,25,make3,3,M. Ellis,
+424,4,2:03.0,85,97,TOR,DAL,18,home,HS,assist,4,make2,2,A. Johnson,G. Vásquez
+425,4,1:47.0,85,97,TOR,DAL,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,M. Ellis
+426,4,1:41.0,85,97,TOR,DAL,6,away,JS,,26,miss3,0,D. Nowitzki,
+427,4,1:40.0,85,97,TOR,DAL,1,home,DefReb,,,DefReb,,K. Lowry,
+428,4,1:40.0,85,97,TOR,DAL,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Parsons,K. Lowry
+429,4,1:33.0,88,97,TOR,DAL,7,home,JS,,27,make3,3,G. Vásquez,
+430,4,1:11.0,88,97,TOR,DAL,22,away,JS,,16,miss2,0,M. Ellis,
+431,4,1:10.0,88,97,TOR,DAL,1,home,DefReb,,,DefReb,,K. Lowry,
+432,4,1:01.0,91,97,TOR,DAL,9,home,JS,assist,25,make3,3,G. Vásquez,K. Lowry
+433,4,1:01.0,91,97,TOR,DAL,0,away,Timeout,,,,,,
+434,4,0:53.0,91,97,TOR,DAL,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Patterson,D. Nowitzki
+435,4,0:53.0,91,98,TOR,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+436,4,0:53.0,91,98,TOR,DAL,0,away,Sub,,,,,A. Aminu,C. Parsons
+437,4,0:53.0,91,99,TOR,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
+438,4,0:50.0,94,99,TOR,DAL,3,home,JS,,26,make3,3,K. Lowry,
+439,4,0:44.0,94,99,TOR,DAL,6,away,LU,,2,miss2,0,M. Ellis,
+440,4,0:43.0,94,99,TOR,DAL,1,home,DefReb,,,DefReb,,P. Patterson,
+441,4,0:38.0,94,99,TOR,DAL,5,home,JS,,26,miss3,0,L. Williams,
+442,4,0:37.0,94,99,TOR,DAL,1,home,OffReb,,,OffReb,,P. Patterson,
+443,4,0:34.0,96,99,TOR,DAL,3,home,LU,,2,make2,2,K. Lowry,
+444,4,0:32.0,96,99,TOR,DAL,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Williams,M. Ellis
+445,4,0:32.0,96,100,TOR,DAL,0,away,FreeThrow,,,make1,1,M. Ellis,
+446,4,0:32.0,96,100,TOR,DAL,0,away,Sub,,,,,J. Crowder,D. Nowitzki
+447,4,0:32.0,96,101,TOR,DAL,0,away,FreeThrow,,,make1,1,M. Ellis,
+448,4,0:26.0,98,101,TOR,DAL,6,home,LU,,0,make2,2,K. Lowry,
+449,4,0:25.0,98,101,TOR,DAL,1,away,Timeout,,,,,,
+450,4,0:25.0,98,101,TOR,DAL,0,away,Sub,,,,,C. Parsons,T. Chandler
+451,4,0:25.0,98,101,TOR,DAL,0,away,Sub,,,,,D. Nowitzki,J. Crowder
+452,4,0:25.0,98,101,TOR,DAL,0,away,Sub,,,,,J. Barea,A. Aminu
+453,4,0:22.0,98,103,TOR,DAL,3,away,LU,assist,0,make2,2,M. Ellis,C. Parsons
+454,4,0:16.0,100,103,TOR,DAL,6,home,JS,,3,make2,2,K. Lowry,
+455,4,0:15.0,100,103,TOR,DAL,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Vásquez,M. Ellis
+456,4,0:15.0,100,104,TOR,DAL,0,away,FreeThrow,,,make1,1,M. Ellis,
+457,4,0:15.0,100,104,TOR,DAL,0,away,Sub,,,,,A. Aminu,D. Nowitzki
+458,4,0:15.0,100,104,TOR,DAL,0,away,Sub,,,,,J. Crowder,C. Parsons
+459,4,0:15.0,100,104,TOR,DAL,0,away,FreeThrow,,,make1,0,M. Ellis,
+460,4,0:15.0,100,104,TOR,DAL,0,home,DefReb,,,DefReb,,G. Vásquez,
+461,4,0:15.0,100,104,TOR,DAL,0,home,Timeout,,,,,,
+462,4,0:10.0,102,104,TOR,DAL,5,home,JS,,2,make2,2,K. Lowry,
+463,4,0:07.0,102,104,TOR,DAL,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Vásquez,D. Harris
+464,4,0:07.0,102,105,TOR,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+465,4,0:07.0,102,106,TOR,DAL,0,away,FreeThrow,,,make1,1,D. Harris,
+466,4,0:02.0,102,106,TOR,DAL,5,home,JS,,28,miss3,0,K. Lowry,
+467,4,0:01.0,102,106,TOR,DAL,1,home,OffReb,,,OffReb,,Team,

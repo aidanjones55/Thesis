@@ -1,0 +1,436 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:44.0,0,0,ATL,NYK,16,away,JS,,18,miss2,0,L. Thomas,
+1,1,11:44.0,0,0,ATL,NYK,0,away,OffReb,,,OffReb,,J. Smith,
+2,1,11:44.0,0,0,ATL,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Korver,J. Smith
+3,1,11:44.0,0,1,ATL,NYK,0,away,FreeThrow,,,make1,1,J. Smith,
+4,1,11:44.0,0,2,ATL,NYK,0,away,FreeThrow,,,make1,1,J. Smith,
+5,1,11:31.0,2,2,ATL,NYK,13,home,JS,assist,20,make2,2,A. Horford,M. Muscala
+6,1,11:15.0,2,2,ATL,NYK,16,away,JS,,20,miss2,0,J. Smith,
+7,1,11:14.0,2,2,ATL,NYK,1,home,DefReb,,,DefReb,,J. Teague,
+8,1,11:03.0,5,2,ATL,NYK,11,home,JS,assist,24,make3,3,J. Teague,M. Muscala
+9,1,10:50.0,5,2,ATL,NYK,13,away,BadPass,,,turnover,,T. Hardaway,
+10,1,10:39.0,5,2,ATL,NYK,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Galloway,J. Teague
+11,1,10:27.0,7,2,ATL,NYK,12,home,JS,assist,14,make2,2,D. Carroll,J. Teague
+12,1,10:08.0,7,2,ATL,NYK,19,away,JS,,23,miss3,0,T. Hardaway,
+13,1,10:06.0,7,2,ATL,NYK,2,home,DefReb,,,DefReb,,D. Carroll,
+14,1,9:53.0,9,2,ATL,NYK,13,home,JS,assist,8,make2,2,A. Horford,J. Teague
+15,1,9:45.0,9,2,ATL,NYK,8,away,LostBall,,,turnover,,L. Thomas,
+16,1,9:36.0,9,2,ATL,NYK,9,home,JS,,24,miss3,0,J. Teague,
+17,1,9:34.0,9,2,ATL,NYK,2,home,OffReb,,,OffReb,,M. Muscala,
+18,1,9:22.0,9,2,ATL,NYK,12,home,JS,,14,miss2,0,A. Horford,
+19,1,9:20.0,9,2,ATL,NYK,2,away,DefReb,,,DefReb,,J. Smith,
+20,1,9:12.0,9,2,ATL,NYK,8,away,LostBall,steal,,turnover,,J. Smith,J. Teague
+21,1,9:09.0,9,2,ATL,NYK,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Hardaway,D. Carroll
+22,1,9:09.0,10,2,ATL,NYK,0,home,FreeThrow,,,make1,1,D. Carroll,
+23,1,9:09.0,10,2,ATL,NYK,0,away,Timeout,,,,,,
+24,1,9:09.0,10,2,ATL,NYK,0,away,Sub,,,,,L. Amundson,C. Aldrich
+25,1,9:09.0,11,2,ATL,NYK,0,home,FreeThrow,,,make1,1,D. Carroll,
+26,1,8:55.0,11,4,ATL,NYK,14,away,JS,assist,17,make2,2,L. Amundson,T. Hardaway
+27,1,8:42.0,13,4,ATL,NYK,13,home,JS,assist,17,make2,2,J. Teague,D. Carroll
+28,1,8:23.0,13,4,ATL,NYK,19,away,JS,,23,miss3,0,L. Thomas,
+29,1,8:21.0,13,4,ATL,NYK,2,home,DefReb,,,DefReb,,J. Teague,
+30,1,8:15.0,13,4,ATL,NYK,6,home,BadPass,steal,,turnover,,J. Teague,L. Thomas
+31,1,8:02.0,13,7,ATL,NYK,13,away,JS,assist,22,make3,3,J. Smith,T. Hardaway
+32,1,7:46.0,13,7,ATL,NYK,16,home,JS,,19,miss2,0,A. Horford,
+33,1,7:45.0,13,7,ATL,NYK,1,away,DefReb,,,DefReb,,L. Amundson,
+34,1,7:38.0,13,7,ATL,NYK,7,away,JS,,5,miss2,0,T. Hardaway,
+35,1,7:36.0,13,7,ATL,NYK,2,away,OffReb,,,OffReb,,L. Amundson,
+36,1,7:36.0,13,9,ATL,NYK,0,away,TI,,0,make2,2,L. Amundson,
+37,1,7:19.0,16,9,ATL,NYK,17,home,JS,assist,23,make3,3,D. Carroll,J. Teague
+38,1,7:04.0,16,11,ATL,NYK,15,away,JS,assist,14,make2,2,L. Galloway,T. Hardaway
+39,1,6:39.0,18,11,ATL,NYK,25,home,HS,,6,make2,2,D. Carroll,
+40,1,6:23.0,18,14,ATL,NYK,16,away,JS,assist,23,make3,3,L. Galloway,L. Amundson
+41,1,6:09.0,18,14,ATL,NYK,14,home,LU,block,2,miss2,0,A. Horford,L. Amundson
+42,1,6:07.0,18,14,ATL,NYK,2,away,DefReb,,,DefReb,,Team,
+43,1,5:54.0,18,14,ATL,NYK,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Muscala,T. Hardaway
+44,1,5:54.0,18,14,ATL,NYK,0,home,Sub,,,,,K. Bazemore,K. Korver
+45,1,5:54.0,18,14,ATL,NYK,0,home,Sub,,,,,M. Scott,A. Horford
+46,1,5:40.0,18,16,ATL,NYK,14,away,LU,assist,2,make2,2,T. Hardaway,L. Galloway
+47,1,5:29.0,18,16,ATL,NYK,11,home,LU,,1,miss2,0,J. Teague,
+48,1,5:28.0,18,16,ATL,NYK,1,home,OffReb,,,OffReb,,K. Bazemore,
+49,1,5:28.0,20,16,ATL,NYK,0,home,TI,,0,make2,2,K. Bazemore,
+50,1,5:10.0,20,19,ATL,NYK,18,away,JS,assist,23,make3,3,T. Hardaway,L. Thomas
+51,1,4:48.0,20,19,ATL,NYK,22,home,JS,,15,miss2,0,M. Scott,
+52,1,4:47.0,20,19,ATL,NYK,1,away,DefReb,,,DefReb,,L. Galloway,
+53,1,4:40.0,20,21,ATL,NYK,7,away,JS,,12,make2,2,L. Galloway,
+54,1,4:31.0,22,21,ATL,NYK,9,home,JS,,3,make2,2,J. Teague,
+55,1,4:14.0,22,21,ATL,NYK,17,away,BadPass,steal,,turnover,,L. Thomas,M. Muscala
+56,1,4:08.0,22,21,ATL,NYK,6,home,JS,,23,miss3,0,K. Bazemore,
+57,1,4:04.0,22,21,ATL,NYK,4,home,OffReb,,,OffReb,,M. Scott,
+58,1,3:51.0,22,21,ATL,NYK,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,K. Bazemore
+59,1,3:51.0,22,21,ATL,NYK,0,home,FreeThrow,,,make1,0,K. Bazemore,
+60,1,3:51.0,22,21,ATL,NYK,0,home,OffReb,,,OffReb,,Team,
+61,1,3:51.0,22,21,ATL,NYK,0,home,Sub,,,,,E. Brand,M. Muscala
+62,1,3:51.0,22,21,ATL,NYK,0,away,Sub,,,,,Q. Acy,L. Thomas
+63,1,3:51.0,22,21,ATL,NYK,0,away,Sub,,,,,C. Early,J. Smith
+64,1,3:51.0,22,21,ATL,NYK,0,away,Sub,,,,,S. Larkin,L. Galloway
+65,1,3:51.0,22,21,ATL,NYK,0,home,Sub,,,,,S. Mack,J. Teague
+66,1,3:51.0,23,21,ATL,NYK,0,home,FreeThrow,,,make1,1,K. Bazemore,
+67,1,3:37.0,23,23,ATL,NYK,14,away,JS,assist,21,make2,2,Q. Acy,S. Larkin
+68,1,3:14.0,23,23,ATL,NYK,23,home,JS,,20,miss2,0,K. Bazemore,
+69,1,3:12.0,23,23,ATL,NYK,2,away,DefReb,,,DefReb,,C. Early,
+70,1,2:57.0,23,26,ATL,NYK,15,away,JS,assist,24,make3,3,T. Hardaway,L. Amundson
+71,1,2:50.0,23,26,ATL,NYK,7,home,Timeout,,,,,,
+72,1,2:41.0,23,26,ATL,NYK,9,home,JS,,24,miss3,0,M. Scott,
+73,1,2:39.0,23,26,ATL,NYK,2,away,DefReb,,,DefReb,,Q. Acy,
+74,1,2:27.0,23,28,ATL,NYK,12,away,JS,assist,7,make2,2,T. Hardaway,S. Larkin
+75,1,2:09.0,25,28,ATL,NYK,18,home,LU,assist,1,make2,2,M. Scott,S. Mack
+76,1,1:50.0,25,28,ATL,NYK,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Bazemore,T. Hardaway
+77,1,1:50.0,25,30,ATL,NYK,0,away,JS,assist,11,make2,2,T. Hardaway,Q. Acy
+78,1,1:50.0,25,30,ATL,NYK,0,home,Sub,,,,,K. Korver,D. Carroll
+79,1,1:50.0,25,31,ATL,NYK,0,away,FreeThrow,,,make1,1,T. Hardaway,
+80,1,1:38.0,25,31,ATL,NYK,12,home,LU,block,2,miss2,0,S. Mack,L. Amundson
+81,1,1:36.0,25,31,ATL,NYK,2,away,DefReb,,,DefReb,,C. Early,
+82,1,1:26.0,25,31,ATL,NYK,10,away,JS,,26,miss3,0,T. Hardaway,
+83,1,1:24.0,25,31,ATL,NYK,2,home,DefReb,,,DefReb,,K. Korver,
+84,1,1:17.0,25,31,ATL,NYK,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Early,K. Korver
+85,1,1:17.0,26,31,ATL,NYK,0,home,FreeThrow,,,make1,1,K. Korver,
+86,1,1:17.0,27,31,ATL,NYK,0,home,FreeThrow,,,make1,1,K. Korver,
+87,1,1:17.0,27,31,ATL,NYK,0,home,Sub,,,,,A. Horford,E. Brand
+88,1,1:17.0,27,31,ATL,NYK,0,away,Sub,,,,,R. Ledo,T. Hardaway
+89,1,1:17.0,28,31,ATL,NYK,0,home,FreeThrow,,,make1,1,K. Korver,
+90,1,1:08.0,28,31,ATL,NYK,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Bazemore,L. Amundson
+91,1,1:08.0,28,31,ATL,NYK,0,away,FreeThrow,,,make1,0,L. Amundson,
+92,1,1:08.0,28,31,ATL,NYK,0,away,OffReb,,,OffReb,,Team,
+93,1,1:08.0,28,31,ATL,NYK,0,away,FreeThrow,,,make1,0,L. Amundson,
+94,1,1:06.0,28,31,ATL,NYK,2,home,DefReb,,,DefReb,,M. Scott,
+95,1,0:45.0,28,31,ATL,NYK,21,home,JS,,16,miss2,0,K. Bazemore,
+96,1,0:42.0,28,31,ATL,NYK,3,away,DefReb,,,DefReb,,C. Early,
+97,1,0:36.0,28,31,ATL,NYK,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Horford,L. Amundson
+98,1,0:36.0,28,32,ATL,NYK,0,away,FreeThrow,,,make1,1,L. Amundson,
+99,1,0:36.0,28,32,ATL,NYK,0,away,FreeThrow,,,make1,0,L. Amundson,
+100,1,0:34.0,28,32,ATL,NYK,2,home,DefReb,,,DefReb,,K. Bazemore,
+101,1,0:27.0,28,32,ATL,NYK,7,home,JS,,25,miss3,0,S. Mack,
+102,1,0:26.0,28,32,ATL,NYK,1,away,DefReb,,,DefReb,,Q. Acy,
+103,1,0:04.0,28,32,ATL,NYK,22,away,BadPass,steal,,turnover,,R. Ledo,S. Mack
+104,1,0:00.0,28,32,ATL,NYK,4,home,JS,,25,miss3,0,K. Bazemore,
+105,1,0:00.0,28,32,ATL,NYK,0,home,OffReb,,,OffReb,,Team,
+106,2,11:45.0,28,32,ATL,NYK,15,home,JS,,16,miss2,0,S. Mack,
+107,2,11:43.0,28,32,ATL,NYK,2,away,DefReb,,,DefReb,,S. Larkin,
+108,2,11:36.0,28,32,ATL,NYK,7,home,ChargeFoul,DrawnBy,,ChargeFoul,,L. Amundson,J. Jenkins
+109,2,11:36.0,28,32,ATL,NYK,0,away,OffensiveFoul,,,turnover,,L. Amundson,
+110,2,11:19.0,28,32,ATL,NYK,17,home,JS,,7,miss2,0,A. Horford,
+111,2,11:19.0,28,32,ATL,NYK,0,away,DefReb,,,DefReb,,Team,
+112,2,11:19.0,28,32,ATL,NYK,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Muscala,Q. Acy
+113,2,11:04.0,28,34,ATL,NYK,15,away,JS,assist,17,make2,2,Q. Acy,S. Larkin
+114,2,10:44.0,28,34,ATL,NYK,20,home,JS,,16,miss2,0,A. Horford,
+115,2,10:43.0,28,34,ATL,NYK,1,away,DefReb,,,DefReb,,S. Larkin,
+116,2,10:34.0,28,37,ATL,NYK,9,away,JS,assist,24,make3,3,Q. Acy,C. Early
+117,2,10:20.0,30,37,ATL,NYK,14,home,JS,assist,10,make2,2,S. Mack,A. Horford
+118,2,10:00.0,30,37,ATL,NYK,20,away,JS,,11,miss2,0,S. Larkin,
+119,2,9:59.0,30,37,ATL,NYK,1,home,DefReb,,,DefReb,,A. Horford,
+120,2,9:50.0,30,37,ATL,NYK,9,home,JS,,22,miss3,0,J. Jenkins,
+121,2,9:49.0,30,37,ATL,NYK,1,away,DefReb,,,DefReb,,S. Larkin,
+122,2,9:29.0,30,37,ATL,NYK,20,away,JS,,16,miss2,0,C. Early,
+123,2,9:27.0,30,37,ATL,NYK,2,home,DefReb,,,DefReb,,Team,
+124,2,9:27.0,30,37,ATL,NYK,0,away,KickBallViolation,,,KickBallViolation,,Q. Acy,
+125,2,9:20.0,30,37,ATL,NYK,7,home,BadPass,steal,,turnover,,K. Korver,L. Amundson
+126,2,9:15.0,30,39,ATL,NYK,5,away,JS,,19,make2,2,S. Larkin,
+127,2,9:04.0,32,39,ATL,NYK,11,home,JS,,19,make2,2,S. Mack,
+128,2,8:46.0,32,41,ATL,NYK,18,away,LU,,3,make2,2,Q. Acy,
+129,2,8:46.0,32,41,ATL,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Muscala,Q. Acy
+130,2,8:46.0,32,41,ATL,NYK,0,away,Timeout,,,,,,
+131,2,8:46.0,32,41,ATL,NYK,0,home,Sub,,,,,M. Scott,M. Muscala
+132,2,8:46.0,32,41,ATL,NYK,0,home,Sub,,,,,J. Teague,S. Mack
+133,2,8:46.0,32,41,ATL,NYK,0,away,Sub,,,,,J. Smith,L. Amundson
+134,2,8:46.0,32,42,ATL,NYK,0,away,FreeThrow,,,make1,1,Q. Acy,
+135,2,8:37.0,34,42,ATL,NYK,9,home,LU,assist,2,make2,2,A. Horford,K. Korver
+136,2,8:28.0,34,42,ATL,NYK,9,away,JS,,24,miss3,0,C. Early,
+137,2,8:24.0,34,42,ATL,NYK,4,home,DefReb,,,DefReb,,M. Scott,
+138,2,8:09.0,34,42,ATL,NYK,15,home,JS,,22,miss3,0,K. Korver,
+139,2,8:08.0,34,42,ATL,NYK,1,away,DefReb,,,DefReb,,Team,
+140,2,8:08.0,34,42,ATL,NYK,0,away,Sub,,,,,L. Thomas,C. Early
+141,2,7:57.0,34,42,ATL,NYK,11,away,BadPass,steal,,turnover,,S. Larkin,A. Horford
+142,2,7:51.0,36,42,ATL,NYK,6,home,LU,assist,1,make2,2,J. Jenkins,J. Teague
+143,2,7:35.0,36,42,ATL,NYK,16,away,JS,,20,miss2,0,L. Thomas,
+144,2,7:32.0,36,42,ATL,NYK,3,home,DefReb,,,DefReb,,M. Scott,
+145,2,7:24.0,36,42,ATL,NYK,8,home,JS,,25,miss3,0,J. Jenkins,
+146,2,7:22.0,36,42,ATL,NYK,2,away,DefReb,,,DefReb,,Q. Acy,
+147,2,7:14.0,36,44,ATL,NYK,8,away,LU,assist,1,make2,2,J. Smith,S. Larkin
+148,2,7:08.0,38,44,ATL,NYK,6,home,LU,assist,1,make2,2,A. Horford,J. Teague
+149,2,6:40.0,38,46,ATL,NYK,28,away,JS,assist,18,make2,2,L. Thomas,S. Larkin
+150,2,6:25.0,38,46,ATL,NYK,15,home,JS,,27,miss3,0,K. Korver,
+151,2,6:23.0,38,46,ATL,NYK,2,home,OffReb,,,OffReb,,A. Horford,
+152,2,6:12.0,38,46,ATL,NYK,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Larkin,J. Teague
+153,2,6:12.0,38,46,ATL,NYK,0,home,Timeout,,,,,,
+154,2,6:12.0,38,46,ATL,NYK,0,home,Sub,,,,,D. Carroll,K. Korver
+155,2,6:12.0,38,46,ATL,NYK,0,away,Sub,,,,,T. Hardaway,R. Ledo
+156,2,6:05.0,38,46,ATL,NYK,7,home,JS,,15,miss2,0,J. Teague,
+157,2,6:02.0,38,46,ATL,NYK,3,away,DefReb,,,DefReb,,L. Thomas,
+158,2,5:50.0,38,46,ATL,NYK,12,away,JS,,19,miss2,0,S. Larkin,
+159,2,5:49.0,38,46,ATL,NYK,1,home,DefReb,,,DefReb,,Team,
+160,2,5:41.0,38,46,ATL,NYK,8,home,JS,,25,miss3,0,D. Carroll,
+161,2,5:39.0,38,46,ATL,NYK,2,home,OffReb,,,OffReb,,A. Horford,
+162,2,5:35.0,38,46,ATL,NYK,4,home,Sub,,,,,E. Brand,A. Horford
+163,2,5:35.0,38,46,ATL,NYK,0,away,Sub,,,,,L. Galloway,S. Larkin
+164,2,5:29.0,38,46,ATL,NYK,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Hardaway,J. Jenkins
+165,2,5:29.0,38,46,ATL,NYK,0,home,FreeThrow,,,make1,0,J. Jenkins,
+166,2,5:29.0,38,46,ATL,NYK,0,home,OffReb,,,OffReb,,Team,
+167,2,5:29.0,39,46,ATL,NYK,0,home,FreeThrow,,,make1,1,J. Jenkins,
+168,2,5:15.0,39,46,ATL,NYK,14,away,LostBall,,,turnover,,L. Galloway,
+169,2,5:04.0,39,46,ATL,NYK,11,home,JS,,24,miss3,0,M. Scott,
+170,2,5:02.0,39,46,ATL,NYK,2,away,DefReb,,,DefReb,,T. Hardaway,
+171,2,4:53.0,39,49,ATL,NYK,9,away,JS,assist,24,make3,3,L. Galloway,T. Hardaway
+172,2,4:42.0,39,49,ATL,NYK,11,home,JS,block,5,miss2,0,J. Teague,J. Smith
+173,2,4:39.0,39,49,ATL,NYK,3,away,DefReb,,,DefReb,,L. Galloway,
+174,2,4:26.0,39,49,ATL,NYK,13,away,OutOfBounds,,,turnover,,Q. Acy,
+175,2,4:26.0,39,49,ATL,NYK,0,away,Sub,,,,,L. Amundson,Q. Acy
+176,2,4:17.0,39,49,ATL,NYK,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Galloway,J. Teague
+177,2,4:11.0,41,49,ATL,NYK,6,home,JS,assist,12,make2,2,E. Brand,J. Jenkins
+178,2,3:56.0,41,51,ATL,NYK,15,away,JS,assist,21,make2,2,J. Smith,L. Thomas
+179,2,3:45.0,41,51,ATL,NYK,11,home,LU,block,3,miss2,0,J. Teague,J. Smith
+180,2,3:43.0,41,51,ATL,NYK,2,away,DefReb,,,DefReb,,J. Smith,
+181,2,3:37.0,41,53,ATL,NYK,6,away,LU,assist,1,make2,2,L. Thomas,L. Galloway
+182,2,3:23.0,44,53,ATL,NYK,14,home,JS,assist,25,make3,3,M. Scott,D. Carroll
+183,2,3:13.0,44,53,ATL,NYK,10,away,Timeout,,,,,,
+184,2,3:05.0,44,53,ATL,NYK,8,away,JS,,16,miss2,0,L. Galloway,
+185,2,3:03.0,44,53,ATL,NYK,2,away,OffReb,,,OffReb,,J. Smith,
+186,2,2:52.0,44,56,ATL,NYK,11,away,JS,assist,24,make3,3,L. Galloway,J. Smith
+187,2,2:31.0,44,56,ATL,NYK,21,home,JS,,24,miss3,0,J. Jenkins,
+188,2,2:30.0,44,56,ATL,NYK,1,away,DefReb,,,DefReb,,L. Galloway,
+189,2,2:23.0,44,59,ATL,NYK,7,away,JS,assist,24,make3,3,T. Hardaway,L. Galloway
+190,2,2:07.0,44,59,ATL,NYK,16,home,Sub,,,,,K. Korver,M. Scott
+191,2,2:07.0,44,59,ATL,NYK,0,home,Sub,,,,,A. Horford,J. Jenkins
+192,2,2:07.0,44,59,ATL,NYK,0,away,Sub,,,,,S. Larkin,L. Galloway
+193,2,2:00.0,44,59,ATL,NYK,7,home,BadPass,steal,,turnover,,J. Teague,L. Thomas
+194,2,1:54.0,44,59,ATL,NYK,6,away,JS,,5,miss2,0,J. Smith,
+195,2,1:52.0,44,59,ATL,NYK,2,away,OffReb,,,OffReb,,L. Amundson,
+196,2,1:52.0,44,61,ATL,NYK,0,away,TI,,0,make2,2,L. Amundson,
+197,2,1:35.0,46,61,ATL,NYK,17,home,JS,assist,5,make2,2,A. Horford,D. Carroll
+198,2,1:18.0,46,61,ATL,NYK,17,away,JS,,24,miss3,0,T. Hardaway,
+199,2,1:17.0,46,61,ATL,NYK,1,home,DefReb,,,DefReb,,E. Brand,
+200,2,1:05.0,46,61,ATL,NYK,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Amundson,D. Carroll
+201,2,1:05.0,47,61,ATL,NYK,0,home,FreeThrow,,,make1,1,D. Carroll,
+202,2,1:05.0,47,61,ATL,NYK,0,away,Sub,,,,,R. Ledo,T. Hardaway
+203,2,1:05.0,47,61,ATL,NYK,0,away,Sub,,,,,Q. Acy,L. Amundson
+204,2,1:05.0,47,61,ATL,NYK,0,home,FreeThrow,,,make1,0,D. Carroll,
+205,2,1:03.0,47,61,ATL,NYK,2,away,DefReb,,,DefReb,,J. Smith,
+206,2,0:52.0,47,61,ATL,NYK,11,away,JS,,24,miss3,0,Q. Acy,
+207,2,0:51.0,47,61,ATL,NYK,1,home,DefReb,,,DefReb,,K. Korver,
+208,2,0:44.0,47,61,ATL,NYK,7,home,JS,,3,miss2,0,D. Carroll,
+209,2,0:43.0,47,61,ATL,NYK,1,home,OffReb,,,OffReb,,E. Brand,
+210,2,0:43.0,49,61,ATL,NYK,0,home,LU,,0,make2,2,E. Brand,
+211,2,0:25.0,49,61,ATL,NYK,18,away,JS,block,5,miss2,0,R. Ledo,A. Horford
+212,2,0:22.0,49,61,ATL,NYK,3,away,OffReb,,,OffReb,,L. Thomas,
+213,2,0:21.0,49,61,ATL,NYK,1,away,LU,,0,miss2,0,L. Thomas,
+214,2,0:18.0,49,61,ATL,NYK,3,away,OffReb,,,OffReb,,Q. Acy,
+215,2,0:18.0,49,61,ATL,NYK,0,away,TI,,0,miss2,0,Q. Acy,
+216,2,0:17.0,49,61,ATL,NYK,1,away,OffReb,,,OffReb,,R. Ledo,
+217,2,0:15.0,49,61,ATL,NYK,2,away,Timeout,,,,,,
+218,2,0:15.0,49,61,ATL,NYK,0,away,Sub,,,,,C. Early,L. Thomas
+219,2,0:03.0,49,61,ATL,NYK,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Teague,S. Larkin
+220,2,0:03.0,49,61,ATL,NYK,0,away,FreeThrow,,,make1,0,S. Larkin,
+221,2,0:03.0,49,61,ATL,NYK,0,away,OffReb,,,OffReb,,Team,
+222,2,0:03.0,49,61,ATL,NYK,0,away,Sub,,,,,L. Thomas,C. Early
+223,2,0:03.0,49,61,ATL,NYK,0,away,Sub,,,,,C. Aldrich,J. Smith
+224,2,0:03.0,49,62,ATL,NYK,0,away,FreeThrow,,,make1,1,S. Larkin,
+225,2,0:03.0,49,62,ATL,NYK,0,home,BadPass,steal,,turnover,,E. Brand,S. Larkin
+226,2,0:00.0,49,62,ATL,NYK,3,away,BadPass,,,turnover,,S. Larkin,
+227,3,11:46.0,49,62,ATL,NYK,14,home,Timeout,,,,,,
+228,3,11:41.0,49,62,ATL,NYK,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Aldrich,K. Korver
+229,3,11:41.0,50,62,ATL,NYK,0,home,FreeThrow,,,make1,1,K. Korver,
+230,3,11:41.0,51,62,ATL,NYK,0,home,FreeThrow,,,make1,1,K. Korver,
+231,3,11:41.0,52,62,ATL,NYK,0,home,FreeThrow,,,make1,1,K. Korver,
+232,3,11:19.0,52,64,ATL,NYK,22,away,HS,assist,9,make2,2,C. Aldrich,J. Smith
+233,3,10:59.0,52,64,ATL,NYK,20,home,JS,,16,miss2,0,A. Horford,
+234,3,10:57.0,52,64,ATL,NYK,2,away,DefReb,,,DefReb,,T. Hardaway,
+235,3,10:43.0,52,64,ATL,NYK,14,away,LU,block,2,miss2,0,L. Thomas,M. Muscala
+236,3,10:41.0,52,64,ATL,NYK,2,home,DefReb,,,DefReb,,A. Horford,
+237,3,10:30.0,52,64,ATL,NYK,11,home,JS,,13,miss2,0,J. Teague,
+238,3,10:28.0,52,64,ATL,NYK,2,home,OffReb,,,OffReb,,A. Horford,
+239,3,10:28.0,54,64,ATL,NYK,0,home,LU,,0,make2,2,A. Horford,
+240,3,10:12.0,54,64,ATL,NYK,16,away,Timeout,,,,,,
+241,3,10:04.0,54,64,ATL,NYK,8,away,JS,,16,miss2,0,L. Thomas,
+242,3,10:02.0,54,64,ATL,NYK,2,home,DefReb,,,DefReb,,J. Teague,
+243,3,9:56.0,56,64,ATL,NYK,6,home,DK,assist,0,make2,2,A. Horford,J. Teague
+244,3,9:38.0,56,67,ATL,NYK,18,away,JS,assist,25,make3,3,L. Galloway,L. Thomas
+245,3,9:23.0,56,67,ATL,NYK,15,home,JS,,24,miss3,0,D. Carroll,
+246,3,9:21.0,56,67,ATL,NYK,2,away,DefReb,,,DefReb,,L. Thomas,
+247,3,9:15.0,56,67,ATL,NYK,6,away,JS,,24,miss3,0,T. Hardaway,
+248,3,9:14.0,56,67,ATL,NYK,1,home,DefReb,,,DefReb,,K. Korver,
+249,3,8:51.0,58,67,ATL,NYK,23,home,JS,,13,make2,2,A. Horford,
+250,3,8:38.0,58,67,ATL,NYK,13,away,LostBall,steal,,turnover,,L. Galloway,A. Horford
+251,3,8:34.0,58,67,ATL,NYK,4,home,JS,,23,miss3,0,K. Korver,
+252,3,8:34.0,58,67,ATL,NYK,0,home,OffReb,,,OffReb,,D. Carroll,
+253,3,8:34.0,58,67,ATL,NYK,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Thomas,D. Carroll
+254,3,8:34.0,58,67,ATL,NYK,0,away,Sub,,,,,L. Amundson,C. Aldrich
+255,3,8:34.0,58,67,ATL,NYK,0,away,Sub,,,,,S. Larkin,T. Hardaway
+256,3,8:20.0,58,67,ATL,NYK,14,home,JS,,3,miss2,0,J. Teague,
+257,3,8:20.0,58,67,ATL,NYK,0,home,OffReb,,,OffReb,,J. Teague,
+258,3,8:20.0,58,67,ATL,NYK,0,home,LU,block,3,miss2,0,J. Teague,L. Amundson
+259,3,8:20.0,58,67,ATL,NYK,0,away,DefReb,,,DefReb,,L. Amundson,
+260,3,8:00.0,58,67,ATL,NYK,20,away,JS,,9,miss2,0,L. Amundson,
+261,3,7:59.0,58,67,ATL,NYK,1,home,DefReb,,,DefReb,,D. Carroll,
+262,3,7:47.0,58,67,ATL,NYK,12,home,LostBall,steal,,turnover,,A. Horford,L. Amundson
+263,3,7:41.0,58,67,ATL,NYK,6,home,KickBallViolation,,,KickBallViolation,,A. Horford,
+264,3,7:35.0,58,69,ATL,NYK,6,away,JS,assist,20,make2,2,J. Smith,S. Larkin
+265,3,7:29.0,58,69,ATL,NYK,6,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Horford,J. Smith
+266,3,7:29.0,58,69,ATL,NYK,0,home,OffensiveFoul,,,turnover,,A. Horford,
+267,3,7:07.0,58,69,ATL,NYK,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Muscala,L. Amundson
+268,3,7:07.0,58,70,ATL,NYK,0,away,FreeThrow,,,make1,1,L. Amundson,
+269,3,7:07.0,58,70,ATL,NYK,0,home,Sub,,,,,M. Scott,M. Muscala
+270,3,7:07.0,58,70,ATL,NYK,0,away,FreeThrow,,,make1,0,L. Amundson,
+271,3,7:05.0,58,70,ATL,NYK,2,home,DefReb,,,DefReb,,M. Scott,
+272,3,6:58.0,58,70,ATL,NYK,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Amundson,A. Horford
+273,3,6:53.0,58,70,ATL,NYK,5,home,JS,,16,miss2,0,K. Korver,
+274,3,6:52.0,58,70,ATL,NYK,1,away,DefReb,,,DefReb,,L. Amundson,
+275,3,6:28.0,58,72,ATL,NYK,24,away,JS,assist,17,make2,2,L. Galloway,J. Smith
+276,3,6:10.0,60,72,ATL,NYK,18,home,JS,assist,5,make2,2,D. Carroll,J. Teague
+277,3,5:54.0,60,74,ATL,NYK,16,away,JS,assist,19,make2,2,J. Smith,L. Galloway
+278,3,5:31.0,62,74,ATL,NYK,23,home,JS,,6,make2,2,J. Teague,
+279,3,5:14.0,62,76,ATL,NYK,17,away,LU,assist,0,make2,2,S. Larkin,L. Amundson
+280,3,4:59.0,64,76,ATL,NYK,15,home,LU,,2,make2,2,J. Teague,
+281,3,4:29.0,64,76,ATL,NYK,30,away,BadPass,,,turnover,,J. Smith,
+282,3,4:29.0,64,76,ATL,NYK,0,home,Sub,,,,,K. Bazemore,A. Horford
+283,3,4:29.0,64,76,ATL,NYK,0,home,Sub,,,,,E. Brand,K. Korver
+284,3,4:29.0,64,76,ATL,NYK,0,away,Sub,,,,,T. Hardaway,L. Thomas
+285,3,4:29.0,64,76,ATL,NYK,0,away,Sub,,,,,Q. Acy,J. Smith
+286,3,4:29.0,64,76,ATL,NYK,0,away,Sub,,,,,C. Early,L. Galloway
+287,3,4:18.0,66,76,ATL,NYK,11,home,JS,,17,make2,2,J. Teague,
+288,3,4:03.0,66,78,ATL,NYK,15,away,JS,,12,make2,2,S. Larkin,
+289,3,3:36.0,66,78,ATL,NYK,27,home,ShootingFoul,DrawnBy,,ShootingFoul,,Q. Acy,J. Teague
+290,3,3:36.0,67,78,ATL,NYK,0,home,FreeThrow,,,make1,1,J. Teague,
+291,3,3:36.0,67,78,ATL,NYK,0,away,Sub,,,,,C. Aldrich,L. Amundson
+292,3,3:36.0,68,78,ATL,NYK,0,home,FreeThrow,,,make1,1,J. Teague,
+293,3,3:19.0,68,81,ATL,NYK,17,away,JS,assist,23,make3,3,C. Early,S. Larkin
+294,3,2:58.0,71,81,ATL,NYK,21,home,JS,assist,22,make3,3,K. Bazemore,E. Brand
+295,3,2:42.0,71,81,ATL,NYK,16,away,LostBall,steal,,turnover,,Q. Acy,M. Scott
+296,3,2:37.0,73,81,ATL,NYK,5,home,LU,assist,0,make2,2,K. Bazemore,M. Scott
+297,3,2:15.0,73,81,ATL,NYK,22,away,JS,,25,miss3,0,S. Larkin,
+298,3,2:14.0,73,81,ATL,NYK,1,home,DefReb,,,DefReb,,K. Bazemore,
+299,3,1:59.0,73,81,ATL,NYK,15,home,JS,,23,miss3,0,D. Carroll,
+300,3,1:57.0,73,81,ATL,NYK,2,away,DefReb,,,DefReb,,C. Aldrich,
+301,3,1:40.0,73,81,ATL,NYK,17,away,BadPass,steal,,turnover,,C. Early,M. Scott
+302,3,1:36.0,73,81,ATL,NYK,4,home,LostBall,steal,,turnover,,D. Carroll,S. Larkin
+303,3,1:21.0,73,81,ATL,NYK,15,away,JS,,24,miss3,0,T. Hardaway,
+304,3,1:18.0,73,81,ATL,NYK,3,away,OffReb,,,OffReb,,C. Early,
+305,3,1:17.0,73,81,ATL,NYK,1,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,D. Carroll,C. Early
+306,3,1:17.0,73,81,ATL,NYK,0,home,Timeout,,,,,,
+307,3,1:17.0,73,81,ATL,NYK,0,home,Sub,,,,,K. Korver,D. Carroll
+308,3,1:17.0,73,81,ATL,NYK,0,home,Sub,,,,,S. Mack,J. Teague
+309,3,1:17.0,73,81,ATL,NYK,0,away,Sub,,,,,L. Galloway,S. Larkin
+310,3,1:17.0,73,82,ATL,NYK,0,away,FreeThrow,,,make1,1,C. Early,
+311,3,1:17.0,73,83,ATL,NYK,0,away,FreeThrow,,,make1,1,C. Early,
+312,3,1:07.0,76,83,ATL,NYK,10,home,JS,assist,24,make3,3,K. Korver,M. Scott
+313,3,0:47.0,76,83,ATL,NYK,20,away,BadPass,steal,,turnover,,C. Aldrich,M. Scott
+314,3,0:31.0,78,83,ATL,NYK,16,home,JS,,14,make2,2,S. Mack,
+315,3,0:16.0,78,83,ATL,NYK,15,away,JS,,21,miss2,0,C. Early,
+316,3,0:14.0,78,83,ATL,NYK,2,home,DefReb,,,DefReb,,K. Bazemore,
+317,3,0:01.0,78,83,ATL,NYK,13,home,JS,block,25,miss3,0,M. Scott,Q. Acy
+318,3,0:01.0,78,83,ATL,NYK,0,away,DefReb,,,DefReb,,C. Aldrich,
+319,4,11:38.0,78,85,ATL,NYK,22,away,JS,assist,21,make2,2,Q. Acy,L. Galloway
+320,4,11:29.0,81,85,ATL,NYK,9,home,JS,assist,24,make3,3,K. Korver,S. Mack
+321,4,11:29.0,81,85,ATL,NYK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Thomas,K. Korver
+322,4,11:29.0,82,85,ATL,NYK,0,home,FreeThrow,,,make1,1,K. Korver,
+323,4,11:18.0,82,85,ATL,NYK,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Bazemore,T. Hardaway
+324,4,11:11.0,82,87,ATL,NYK,7,away,JS,assist,18,make2,2,J. Smith,Q. Acy
+325,4,11:01.0,82,87,ATL,NYK,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Thomas,S. Mack
+326,4,11:01.0,82,87,ATL,NYK,0,home,Sub,,,,,M. Muscala,M. Scott
+327,4,10:53.0,82,87,ATL,NYK,8,home,JS,,25,miss3,0,K. Korver,
+328,4,10:50.0,82,87,ATL,NYK,3,away,DefReb,,,DefReb,,J. Smith,
+329,4,10:33.0,82,87,ATL,NYK,17,away,JS,,9,miss2,0,T. Hardaway,
+330,4,10:31.0,82,87,ATL,NYK,2,home,DefReb,,,DefReb,,K. Bazemore,
+331,4,10:27.0,84,87,ATL,NYK,4,home,JS,assist,14,make2,2,A. Horford,K. Bazemore
+332,4,10:01.0,84,87,ATL,NYK,26,away,JS,,27,miss3,0,T. Hardaway,
+333,4,10:01.0,84,87,ATL,NYK,0,away,OffReb,,,OffReb,,Team,
+334,4,10:01.0,84,87,ATL,NYK,0,away,3sec,,,turnover,,Team,
+335,4,9:48.0,87,87,ATL,NYK,13,home,JS,assist,24,make3,3,S. Mack,K. Korver
+336,4,9:28.0,87,90,ATL,NYK,20,away,JS,assist,24,make3,3,L. Galloway,Q. Acy
+337,4,9:12.0,87,90,ATL,NYK,16,home,HS,,1,miss2,0,M. Muscala,
+338,4,9:09.0,87,90,ATL,NYK,3,away,DefReb,,,DefReb,,J. Smith,
+339,4,8:55.0,87,93,ATL,NYK,14,away,JS,assist,23,make3,3,L. Thomas,J. Smith
+340,4,8:40.0,87,93,ATL,NYK,15,home,BadPass,steal,,turnover,,S. Mack,L. Galloway
+341,4,8:30.0,87,96,ATL,NYK,10,away,JS,assist,25,make3,3,L. Galloway,T. Hardaway
+342,4,8:29.0,87,96,ATL,NYK,1,home,Timeout,,,,,,
+343,4,8:19.0,87,96,ATL,NYK,10,home,JS,,22,miss3,0,K. Bazemore,
+344,4,8:15.0,87,96,ATL,NYK,4,home,OffReb,,,OffReb,,K. Korver,
+345,4,8:01.0,87,96,ATL,NYK,14,home,JS,,15,miss2,0,S. Mack,
+346,4,8:00.0,87,96,ATL,NYK,1,away,DefReb,,,DefReb,,J. Smith,
+347,4,7:44.0,87,96,ATL,NYK,16,away,JS,,16,miss2,0,L. Thomas,
+348,4,7:43.0,87,96,ATL,NYK,1,home,DefReb,,,DefReb,,K. Bazemore,
+349,4,7:35.0,90,96,ATL,NYK,8,home,JS,assist,25,make3,3,K. Korver,S. Mack
+350,4,7:17.0,90,98,ATL,NYK,18,away,JS,assist,3,make2,2,L. Galloway,J. Smith
+351,4,6:57.0,90,98,ATL,NYK,20,home,JS,,6,miss2,0,A. Horford,
+352,4,6:55.0,90,98,ATL,NYK,2,away,DefReb,,,DefReb,,L. Galloway,
+353,4,6:44.0,90,100,ATL,NYK,11,away,JS,assist,17,make2,2,T. Hardaway,L. Galloway
+354,4,6:23.0,90,100,ATL,NYK,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Hardaway,K. Bazemore
+355,4,6:23.0,91,100,ATL,NYK,0,home,FreeThrow,,,make1,1,K. Bazemore,
+356,4,6:23.0,91,100,ATL,NYK,0,away,Sub,,,,,S. Larkin,T. Hardaway
+357,4,6:23.0,91,100,ATL,NYK,0,home,Sub,,,,,J. Teague,A. Horford
+358,4,6:23.0,91,100,ATL,NYK,0,home,Sub,,,,,D. Carroll,K. Korver
+359,4,6:23.0,91,100,ATL,NYK,0,home,Sub,,,,,M. Scott,S. Mack
+360,4,6:23.0,91,100,ATL,NYK,0,away,Sub,,,,,T. Hardaway,L. Thomas
+361,4,6:23.0,92,100,ATL,NYK,0,home,FreeThrow,,,make1,1,K. Bazemore,
+362,4,5:58.0,92,100,ATL,NYK,25,away,JS,,13,miss2,0,J. Smith,
+363,4,5:58.0,92,100,ATL,NYK,0,home,DefReb,,,DefReb,,M. Scott,
+364,4,5:58.0,92,100,ATL,NYK,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Smith,M. Scott
+365,4,5:58.0,92,100,ATL,NYK,0,away,Timeout,,,,,,
+366,4,5:58.0,92,100,ATL,NYK,0,home,Sub,,,,,S. Mack,K. Bazemore
+367,4,5:58.0,92,100,ATL,NYK,0,home,Sub,,,,,E. Brand,M. Scott
+368,4,5:44.0,92,100,ATL,NYK,14,home,JS,,25,miss3,0,S. Mack,
+369,4,5:42.0,92,100,ATL,NYK,2,home,OffReb,,,OffReb,,Team,
+370,4,5:30.0,92,100,ATL,NYK,12,home,JS,,9,miss2,0,E. Brand,
+371,4,5:30.0,92,100,ATL,NYK,0,away,DefReb,,,DefReb,,Team,
+372,4,5:30.0,92,100,ATL,NYK,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Muscala,J. Smith
+373,4,5:18.0,92,100,ATL,NYK,12,away,JS,,20,miss2,0,J. Smith,
+374,4,5:16.0,92,100,ATL,NYK,2,home,DefReb,,,DefReb,,M. Muscala,
+375,4,5:05.0,95,100,ATL,NYK,11,home,JS,assist,23,make3,3,S. Mack,J. Teague
+376,4,4:42.0,95,102,ATL,NYK,23,away,JS,,21,make2,2,S. Larkin,
+377,4,4:15.0,98,102,ATL,NYK,27,home,JS,assist,24,make3,3,D. Carroll,J. Teague
+378,4,3:57.0,98,102,ATL,NYK,18,away,BadPass,steal,,turnover,,S. Larkin,D. Carroll
+379,4,3:57.0,98,102,ATL,NYK,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,Q. Acy,D. Carroll
+380,4,3:57.0,98,102,ATL,NYK,0,home,FreeThrow,,,make1,0,D. Carroll,
+381,4,3:57.0,98,102,ATL,NYK,0,home,OffReb,,,OffReb,,Team,
+382,4,3:57.0,98,102,ATL,NYK,0,home,Sub,,,,,K. Korver,M. Muscala
+383,4,3:57.0,98,102,ATL,NYK,0,home,Sub,,,,,A. Horford,S. Mack
+384,4,3:57.0,98,102,ATL,NYK,0,away,Sub,,,,,L. Amundson,Q. Acy
+385,4,3:57.0,98,102,ATL,NYK,0,away,Sub,,,,,L. Thomas,S. Larkin
+386,4,3:57.0,99,102,ATL,NYK,0,home,FreeThrow,,,make1,1,D. Carroll,
+387,4,3:35.0,99,102,ATL,NYK,22,away,JS,,10,miss2,0,L. Galloway,
+388,4,3:31.0,99,102,ATL,NYK,4,away,OffReb,,,OffReb,,L. Thomas,
+389,4,3:13.0,99,104,ATL,NYK,18,away,LU,,0,make2,2,T. Hardaway,
+390,4,2:58.0,101,104,ATL,NYK,15,home,JS,,8,make2,2,J. Teague,
+391,4,2:49.0,101,104,ATL,NYK,9,away,Timeout,,,,,,
+392,4,2:39.0,101,104,ATL,NYK,10,away,JS,,22,miss3,0,J. Smith,
+393,4,2:37.0,101,104,ATL,NYK,2,home,DefReb,,,DefReb,,A. Horford,
+394,4,2:20.0,101,104,ATL,NYK,17,home,JS,,24,miss3,0,K. Korver,
+395,4,2:20.0,101,104,ATL,NYK,0,away,DefReb,,,DefReb,,Team,
+396,4,2:20.0,101,104,ATL,NYK,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Horford,L. Galloway
+397,4,2:01.0,101,106,ATL,NYK,19,away,LU,,0,make2,2,T. Hardaway,
+398,4,1:55.0,101,106,ATL,NYK,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Galloway,J. Teague
+399,4,1:55.0,102,106,ATL,NYK,0,home,FreeThrow,,,make1,1,J. Teague,
+400,4,1:55.0,102,106,ATL,NYK,0,home,Sub,,,,,M. Scott,E. Brand
+401,4,1:55.0,103,106,ATL,NYK,0,home,FreeThrow,,,make1,1,J. Teague,
+402,4,1:37.0,103,108,ATL,NYK,18,away,HS,,3,make2,2,J. Smith,
+403,4,1:37.0,103,108,ATL,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Scott,J. Smith
+404,4,1:37.0,103,109,ATL,NYK,0,away,FreeThrow,,,make1,1,J. Smith,
+405,4,1:26.0,103,109,ATL,NYK,11,home,JS,,19,miss2,0,A. Horford,
+406,4,1:25.0,103,109,ATL,NYK,1,home,OffReb,,,OffReb,,D. Carroll,
+407,4,1:24.0,103,109,ATL,NYK,1,home,LU,block,1,miss2,0,D. Carroll,T. Hardaway
+408,4,1:24.0,103,109,ATL,NYK,0,away,DefReb,,,DefReb,,Team,
+409,4,1:24.0,103,109,ATL,NYK,0,away,Timeout,,,,,,
+410,4,1:24.0,103,109,ATL,NYK,0,home,Sub,,,,,M. Muscala,M. Scott
+411,4,1:06.0,103,109,ATL,NYK,18,away,LU,block,1,miss2,0,J. Smith,M. Muscala
+412,4,1:03.0,103,109,ATL,NYK,3,home,DefReb,,,DefReb,,K. Korver,
+413,4,0:54.0,103,109,ATL,NYK,9,home,JS,,25,miss3,0,D. Carroll,
+414,4,0:53.0,103,109,ATL,NYK,1,home,OffReb,,,OffReb,,M. Muscala,
+415,4,0:52.0,106,109,ATL,NYK,1,home,JS,assist,25,make3,3,K. Korver,M. Muscala
+416,4,0:52.0,106,109,ATL,NYK,0,away,Timeout,,,,,,
+417,4,0:52.0,106,109,ATL,NYK,0,away,Sub,,,,,Q. Acy,L. Amundson
+418,4,0:30.0,106,109,ATL,NYK,22,away,JS,,22,miss3,0,L. Thomas,
+419,4,0:29.0,106,109,ATL,NYK,1,away,OffReb,,,OffReb,,Team,
+420,4,0:25.0,106,109,ATL,NYK,4,away,LostBall,steal,,turnover,,L. Galloway,J. Teague
+421,4,0:20.0,108,109,ATL,NYK,5,home,DK,assist,0,make2,2,M. Muscala,K. Korver
+422,4,0:14.0,108,109,ATL,NYK,6,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Carroll,T. Hardaway
+423,4,0:14.0,108,110,ATL,NYK,0,away,FreeThrow,,,make1,1,T. Hardaway,
+424,4,0:14.0,108,110,ATL,NYK,0,away,FreeThrow,,,make1,0,T. Hardaway,
+425,4,0:13.0,108,110,ATL,NYK,1,home,DefReb,,,DefReb,,J. Teague,
+426,4,0:13.0,108,110,ATL,NYK,0,home,Timeout,,,,,,
+427,4,0:13.0,108,110,ATL,NYK,0,home,Sub,,,,,M. Scott,M. Muscala
+428,4,0:09.0,108,110,ATL,NYK,4,home,JS,,4,miss2,0,J. Teague,
+429,4,0:09.0,108,110,ATL,NYK,0,away,DefReb,,,DefReb,,J. Smith,
+430,4,0:09.0,108,110,ATL,NYK,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,K. Korver,J. Smith
+431,4,0:09.0,108,111,ATL,NYK,0,away,FreeThrow,,,make1,1,J. Smith,
+432,4,0:09.0,108,112,ATL,NYK,0,away,FreeThrow,,,make1,1,J. Smith,
+433,4,0:04.0,108,112,ATL,NYK,5,home,LU,,1,miss2,0,J. Teague,
+434,4,0:03.0,108,112,ATL,NYK,1,away,DefReb,,,DefReb,,L. Galloway,

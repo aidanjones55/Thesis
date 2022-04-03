@@ -1,0 +1,433 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:40.0,0,0,NOP,MEM,20,away,JS,,25,miss3,0,M. Conley,
+1,1,11:39.0,0,0,NOP,MEM,1,home,DefReb,,,DefReb,,S. Hill,
+2,1,11:14.0,0,0,NOP,MEM,25,home,JS,block,4,miss2,0,D. Cousins,V. Carter
+3,1,11:14.0,0,0,NOP,MEM,0,home,OffReb,,,OffReb,,Team,
+4,1,11:14.0,0,0,NOP,MEM,0,home,ShotClockViolation,,,turnover,,Team,
+5,1,11:00.0,0,2,NOP,MEM,14,away,LU,assist,2,make2,2,J. Green,M. Gasol
+6,1,10:50.0,0,2,NOP,MEM,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,V. Carter,S. Hill
+7,1,10:50.0,1,2,NOP,MEM,0,home,FreeThrow,,,make1,1,S. Hill,
+8,1,10:50.0,2,2,NOP,MEM,0,home,FreeThrow,,,make1,1,S. Hill,
+9,1,10:29.0,2,2,NOP,MEM,21,away,JS,,26,miss3,0,W. Selden,
+10,1,10:27.0,2,2,NOP,MEM,2,home,DefReb,,,DefReb,,D. Cousins,
+11,1,10:16.0,2,2,NOP,MEM,11,home,JS,,25,miss3,0,J. Holiday,
+12,1,10:15.0,2,2,NOP,MEM,1,away,DefReb,,,DefReb,,J. Green,
+13,1,10:06.0,2,2,NOP,MEM,9,away,JS,,20,miss2,0,M. Gasol,
+14,1,10:05.0,2,2,NOP,MEM,1,home,DefReb,,,DefReb,,A. Davis,
+15,1,9:56.0,2,2,NOP,MEM,9,home,LU,,0,miss2,0,A. Davis,
+16,1,9:54.0,2,2,NOP,MEM,2,away,DefReb,,,DefReb,,M. Conley,
+17,1,9:34.0,2,4,NOP,MEM,20,away,JS,,6,make2,2,V. Carter,
+18,1,9:14.0,2,4,NOP,MEM,20,home,HS,,7,miss2,0,A. Davis,
+19,1,9:11.0,2,4,NOP,MEM,3,away,DefReb,,,DefReb,,W. Selden,
+20,1,9:04.0,2,6,NOP,MEM,7,away,JS,assist,17,make2,2,M. Gasol,V. Carter
+21,1,8:43.0,2,6,NOP,MEM,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,S. Hill
+22,1,8:43.0,2,6,NOP,MEM,0,home,FreeThrow,,,make1,0,S. Hill,
+23,1,8:43.0,2,6,NOP,MEM,0,home,OffReb,,,OffReb,,Team,
+24,1,8:43.0,3,6,NOP,MEM,0,home,FreeThrow,,,make1,1,S. Hill,
+25,1,8:32.0,3,6,NOP,MEM,11,away,LostBall,steal,,turnover,,M. Gasol,T. Frazier
+26,1,8:24.0,5,6,NOP,MEM,8,home,DK,assist,0,make2,2,A. Davis,S. Hill
+27,1,8:03.0,5,8,NOP,MEM,21,away,LU,,2,make2,2,M. Conley,
+28,1,7:52.0,5,8,NOP,MEM,11,home,LostBall,steal,,turnover,,A. Davis,W. Selden
+29,1,7:46.0,5,10,NOP,MEM,6,away,LU,assist,2,make2,2,W. Selden,J. Green
+30,1,7:39.0,5,10,NOP,MEM,7,home,JS,,25,miss3,0,J. Holiday,
+31,1,7:38.0,5,10,NOP,MEM,1,away,DefReb,,,DefReb,,M. Gasol,
+32,1,7:30.0,5,10,NOP,MEM,8,away,JS,,26,miss3,0,W. Selden,
+33,1,7:29.0,5,10,NOP,MEM,1,home,DefReb,,,DefReb,,D. Cousins,
+34,1,7:14.0,5,10,NOP,MEM,15,home,JS,,4,miss2,0,J. Holiday,
+35,1,7:11.0,5,10,NOP,MEM,3,home,OffReb,,,OffReb,,J. Holiday,
+36,1,7:11.0,5,10,NOP,MEM,0,home,LU,,1,miss2,0,J. Holiday,
+37,1,7:10.0,5,10,NOP,MEM,1,away,DefReb,,,DefReb,,M. Gasol,
+38,1,6:59.0,5,10,NOP,MEM,11,away,JS,,23,miss3,0,V. Carter,
+39,1,6:58.0,5,10,NOP,MEM,1,home,DefReb,,,DefReb,,A. Davis,
+40,1,6:48.0,8,10,NOP,MEM,10,home,JS,assist,28,make3,3,D. Cousins,J. Holiday
+41,1,6:40.0,8,10,NOP,MEM,8,away,Timeout,,,,,,
+42,1,6:31.0,8,10,NOP,MEM,9,away,LU,,2,miss2,0,V. Carter,
+43,1,6:31.0,8,10,NOP,MEM,0,home,DefReb,,,DefReb,,S. Hill,
+44,1,6:26.0,8,10,NOP,MEM,5,home,BadPass,steal,,turnover,,T. Frazier,V. Carter
+45,1,6:11.0,8,12,NOP,MEM,15,away,JS,,6,make2,2,M. Conley,
+46,1,5:55.0,10,12,NOP,MEM,16,home,HS,assist,6,make2,2,D. Cousins,T. Frazier
+47,1,5:39.0,10,12,NOP,MEM,16,away,LU,,2,miss2,0,M. Conley,
+48,1,5:38.0,10,12,NOP,MEM,1,home,DefReb,,,DefReb,,A. Davis,
+49,1,5:29.0,10,12,NOP,MEM,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,D. Cousins
+50,1,5:29.0,11,12,NOP,MEM,0,home,FreeThrow,,,make1,1,D. Cousins,
+51,1,5:29.0,11,12,NOP,MEM,0,away,Sub,,,,,Z. Randolph,J. Green
+52,1,5:29.0,11,12,NOP,MEM,0,away,Sub,,,,,J. Ennis,W. Selden
+53,1,5:29.0,11,12,NOP,MEM,0,away,Sub,,,,,A. Harrison,M. Conley
+54,1,5:29.0,11,12,NOP,MEM,0,home,Sub,,,,,E. Moore,S. Hill
+55,1,5:29.0,12,12,NOP,MEM,0,home,FreeThrow,,,make1,1,D. Cousins,
+56,1,5:12.0,12,12,NOP,MEM,17,away,LU,block,1,miss2,0,Z. Randolph,D. Cousins
+57,1,5:11.0,12,12,NOP,MEM,1,home,DefReb,,,DefReb,,D. Cousins,
+58,1,5:02.0,14,12,NOP,MEM,9,home,JS,,3,make2,2,E. Moore,
+59,1,4:40.0,14,14,NOP,MEM,22,away,JS,assist,15,make2,2,M. Gasol,V. Carter
+60,1,4:31.0,16,14,NOP,MEM,9,home,LU,,2,make2,2,J. Holiday,
+61,1,4:16.0,16,14,NOP,MEM,15,away,BadPass,steal,,turnover,,A. Harrison,T. Frazier
+62,1,4:09.0,16,14,NOP,MEM,7,home,DK,,0,miss2,0,J. Holiday,
+63,1,4:07.0,16,14,NOP,MEM,2,away,DefReb,,,DefReb,,A. Harrison,
+64,1,3:50.0,16,14,NOP,MEM,17,away,JS,,29,miss3,0,V. Carter,
+65,1,3:48.0,16,14,NOP,MEM,2,away,OffReb,,,OffReb,,Z. Randolph,
+66,1,3:45.0,16,14,NOP,MEM,3,away,LU,,2,miss2,0,Z. Randolph,
+67,1,3:42.0,16,14,NOP,MEM,3,home,DefReb,,,DefReb,,D. Cousins,
+68,1,3:42.0,16,14,NOP,MEM,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Davis,J. Ennis
+69,1,3:42.0,16,14,NOP,MEM,0,home,OffensiveFoul,,,turnover,,A. Davis,
+70,1,3:33.0,16,14,NOP,MEM,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Moore,V. Carter
+71,1,3:33.0,16,14,NOP,MEM,0,away,Sub,,,,,T. Daniels,V. Carter
+72,1,3:33.0,16,14,NOP,MEM,0,home,Sub,,,,,A. Ajinça,A. Davis
+73,1,3:22.0,16,17,NOP,MEM,11,away,JS,assist,26,make3,3,A. Harrison,T. Daniels
+74,1,3:11.0,16,17,NOP,MEM,11,home,JS,,24,miss3,0,T. Frazier,
+75,1,3:10.0,16,17,NOP,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
+76,1,3:03.0,16,19,NOP,MEM,7,away,LU,,3,make2,2,M. Gasol,
+77,1,3:03.0,16,19,NOP,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,M. Gasol
+78,1,3:03.0,16,19,NOP,MEM,0,away,FreeThrow,,,make1,0,M. Gasol,
+79,1,3:01.0,16,19,NOP,MEM,2,home,DefReb,,,DefReb,,A. Ajinça,
+80,1,2:52.0,16,19,NOP,MEM,9,home,JS,,23,miss3,0,E. Moore,
+81,1,2:51.0,16,19,NOP,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
+82,1,2:34.0,16,19,NOP,MEM,17,away,LU,block,3,miss2,0,Z. Randolph,D. Cousins
+83,1,2:33.0,16,19,NOP,MEM,1,away,OffReb,,,OffReb,,Z. Randolph,
+84,1,2:30.0,16,21,NOP,MEM,3,away,LU,,2,make2,2,Z. Randolph,
+85,1,2:17.0,16,21,NOP,MEM,13,home,JS,,26,miss3,0,D. Cousins,
+86,1,2:17.0,16,21,NOP,MEM,0,away,DefReb,,,DefReb,,M. Gasol,
+87,1,2:04.0,16,21,NOP,MEM,13,away,JS,,19,miss2,0,Z. Randolph,
+88,1,2:04.0,16,21,NOP,MEM,0,home,DefReb,,,DefReb,,A. Ajinça,
+89,1,1:53.0,16,21,NOP,MEM,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Gasol,D. Cousins
+90,1,1:53.0,16,21,NOP,MEM,0,home,Timeout,,,,,,
+91,1,1:53.0,16,21,NOP,MEM,0,home,Sub,,,,,D. Motiejūnas,D. Cousins
+92,1,1:53.0,16,21,NOP,MEM,0,home,Sub,,,,,J. Crawford,T. Frazier
+93,1,1:42.0,18,21,NOP,MEM,11,home,LU,,2,make2,2,E. Moore,
+94,1,1:17.0,18,21,NOP,MEM,25,away,JS,,26,miss3,0,Z. Randolph,
+95,1,1:16.0,18,21,NOP,MEM,1,home,DefReb,,,DefReb,,A. Ajinça,
+96,1,1:07.0,21,21,NOP,MEM,9,home,JS,,26,make3,3,J. Crawford,
+97,1,0:44.0,21,21,NOP,MEM,23,away,JS,,24,miss3,0,J. Ennis,
+98,1,0:42.0,21,21,NOP,MEM,2,home,DefReb,,,DefReb,,A. Ajinça,
+99,1,0:31.0,21,21,NOP,MEM,11,home,JS,,26,miss3,0,J. Holiday,
+100,1,0:31.0,21,21,NOP,MEM,0,away,DefReb,,,DefReb,,T. Daniels,
+101,1,0:13.0,21,23,NOP,MEM,18,away,JS,,20,make2,2,A. Harrison,
+102,1,0:00.0,21,23,NOP,MEM,13,home,JS,,16,miss2,0,E. Moore,
+103,1,0:00.0,21,23,NOP,MEM,0,home,OffReb,,,OffReb,,Team,
+104,2,11:52.0,21,23,NOP,MEM,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Conley,D. Motiejūnas
+105,2,11:41.0,21,23,NOP,MEM,11,home,JS,,19,miss2,0,A. Ajinça,
+106,2,11:41.0,21,23,NOP,MEM,0,away,DefReb,,,DefReb,,M. Conley,
+107,2,11:28.0,21,23,NOP,MEM,13,away,JS,,26,miss3,0,T. Daniels,
+108,2,11:26.0,21,23,NOP,MEM,2,away,OffReb,,,OffReb,,Z. Randolph,
+109,2,11:23.0,21,25,NOP,MEM,3,away,LU,,2,make2,2,Z. Randolph,
+110,2,11:07.0,21,25,NOP,MEM,16,home,JS,,28,miss3,0,J. Crawford,
+111,2,11:06.0,21,25,NOP,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
+112,2,10:55.0,21,25,NOP,MEM,11,away,LU,,2,miss2,0,A. Harrison,
+113,2,10:55.0,21,25,NOP,MEM,0,home,DefReb,,,DefReb,,A. Ajinça,
+114,2,10:52.0,21,25,NOP,MEM,3,away,ChargeFoul,DrawnBy,,ChargeFoul,,J. Crawford,T. Daniels
+115,2,10:52.0,21,25,NOP,MEM,0,home,OffensiveFoul,,,turnover,,J. Crawford,
+116,2,10:40.0,21,25,NOP,MEM,12,away,BadPass,steal,,turnover,,T. Daniels,E. Moore
+117,2,10:31.0,21,25,NOP,MEM,9,home,HS,,6,miss2,0,D. Motiejūnas,
+118,2,10:29.0,21,25,NOP,MEM,2,away,DefReb,,,DefReb,,Z. Randolph,
+119,2,10:09.0,21,27,NOP,MEM,20,away,JS,assist,6,make2,2,B. Wright,T. Daniels
+120,2,9:52.0,21,27,NOP,MEM,17,home,JS,,17,miss2,0,E. Moore,
+121,2,9:52.0,21,27,NOP,MEM,0,away,DefReb,,,DefReb,,A. Harrison,
+122,2,9:35.0,21,30,NOP,MEM,17,away,JS,,25,make3,3,T. Daniels,
+123,2,9:28.0,21,30,NOP,MEM,7,home,Timeout,,,,,,
+124,2,9:28.0,21,30,NOP,MEM,0,home,Sub,,,,,D. Cousins,E. Moore
+125,2,9:28.0,21,30,NOP,MEM,0,home,Sub,,,,,A. Davis,A. Ajinça
+126,2,9:28.0,21,30,NOP,MEM,0,home,Sub,,,,,S. Hill,D. Motiejūnas
+127,2,9:17.0,21,30,NOP,MEM,11,home,LU,,2,miss2,0,A. Davis,
+128,2,9:17.0,21,30,NOP,MEM,0,away,DefReb,,,DefReb,,Z. Randolph,
+129,2,9:14.0,21,30,NOP,MEM,3,away,BadPass,,,turnover,,M. Conley,
+130,2,9:01.0,21,30,NOP,MEM,13,home,LU,block,3,miss2,0,S. Hill,B. Wright
+131,2,9:01.0,21,30,NOP,MEM,0,home,OffReb,,,OffReb,,Team,
+132,2,9:01.0,21,30,NOP,MEM,0,away,Sub,,,,,V. Carter,A. Harrison
+133,2,8:51.0,21,30,NOP,MEM,10,home,JS,,20,miss2,0,D. Cousins,
+134,2,8:51.0,21,30,NOP,MEM,0,away,DefReb,,,DefReb,,Z. Randolph,
+135,2,8:30.0,21,30,NOP,MEM,21,away,LostBall,steal,,turnover,,Z. Randolph,D. Cousins
+136,2,8:22.0,21,30,NOP,MEM,8,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Crawford,V. Carter
+137,2,8:22.0,21,30,NOP,MEM,0,home,OffensiveFoul,,,turnover,,J. Crawford,
+138,2,8:08.0,21,30,NOP,MEM,14,away,JS,,27,miss3,0,T. Daniels,
+139,2,8:08.0,21,30,NOP,MEM,0,home,DefReb,,,DefReb,,A. Davis,
+140,2,8:00.0,21,30,NOP,MEM,8,home,LostBall,steal,,turnover,,S. Hill,V. Carter
+141,2,7:54.0,21,30,NOP,MEM,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,M. Conley
+142,2,7:54.0,21,30,NOP,MEM,0,home,Sub,,,,,J. Holiday,J. Crawford
+143,2,7:48.0,21,33,NOP,MEM,6,away,JS,assist,27,make3,3,M. Conley,Z. Randolph
+144,2,7:33.0,24,33,NOP,MEM,15,home,JS,assist,26,make3,3,D. Cousins,T. Frazier
+145,2,7:08.0,24,33,NOP,MEM,25,away,JS,,26,miss3,0,Z. Randolph,
+146,2,7:07.0,24,33,NOP,MEM,1,home,DefReb,,,DefReb,,J. Holiday,
+147,2,6:51.0,24,33,NOP,MEM,16,home,JS,,18,miss2,0,D. Cousins,
+148,2,6:51.0,24,33,NOP,MEM,0,away,DefReb,,,DefReb,,M. Conley,
+149,2,6:47.0,24,33,NOP,MEM,4,away,Timeout,,,,,,
+150,2,6:47.0,24,33,NOP,MEM,0,away,Sub,,,,,W. Selden,T. Daniels
+151,2,6:47.0,24,33,NOP,MEM,0,away,Sub,,,,,M. Gasol,Z. Randolph
+152,2,6:47.0,24,33,NOP,MEM,0,home,Sub,,,,,E. Moore,T. Frazier
+153,2,6:42.0,24,33,NOP,MEM,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,B. Wright
+154,2,6:42.0,24,33,NOP,MEM,0,away,Sub,,,,,A. Harrison,M. Conley
+155,2,6:31.0,24,33,NOP,MEM,11,away,JS,,21,miss2,0,M. Gasol,
+156,2,6:30.0,24,33,NOP,MEM,1,away,OffReb,,,OffReb,,A. Harrison,
+157,2,6:14.0,24,35,NOP,MEM,16,away,JS,,15,make2,2,V. Carter,
+158,2,5:52.0,24,35,NOP,MEM,22,home,LU,,2,miss2,0,D. Cousins,
+159,2,5:49.0,24,35,NOP,MEM,3,home,OffReb,,,OffReb,,D. Cousins,
+160,2,5:49.0,24,35,NOP,MEM,0,home,LU,,2,miss2,0,D. Cousins,
+161,2,5:48.0,24,35,NOP,MEM,1,home,OffReb,,,OffReb,,D. Cousins,
+162,2,5:47.0,24,35,NOP,MEM,1,home,LU,,1,miss2,0,D. Cousins,
+163,2,5:46.0,24,35,NOP,MEM,1,home,OffReb,,,OffReb,,D. Cousins,
+164,2,5:44.0,26,35,NOP,MEM,2,home,LU,,2,make2,2,D. Cousins,
+165,2,5:19.0,26,35,NOP,MEM,25,away,JS,,11,miss2,0,A. Harrison,
+166,2,5:19.0,26,35,NOP,MEM,0,home,DefReb,,,DefReb,,D. Cousins,
+167,2,5:06.0,28,35,NOP,MEM,13,home,JS,,6,make2,2,D. Cousins,
+168,2,4:43.0,28,37,NOP,MEM,23,away,JS,,16,make2,2,A. Harrison,
+169,2,4:34.0,28,37,NOP,MEM,9,home,LU,,2,miss2,0,A. Davis,
+170,2,4:32.0,28,37,NOP,MEM,2,away,DefReb,,,DefReb,,M. Gasol,
+171,2,4:13.0,28,39,NOP,MEM,19,away,LU,assist,2,make2,2,W. Selden,M. Gasol
+172,2,3:52.0,28,39,NOP,MEM,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Gasol,D. Cousins
+173,2,3:52.0,28,39,NOP,MEM,0,away,Timeout,,,,,,
+174,2,3:52.0,29,39,NOP,MEM,0,home,FreeThrow,,,make1,1,D. Cousins,
+175,2,3:52.0,30,39,NOP,MEM,0,home,FreeThrow,,,make1,1,D. Cousins,
+176,2,3:41.0,30,39,NOP,MEM,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,B. Wright
+177,2,3:41.0,30,39,NOP,MEM,0,away,FreeThrow,,,make1,0,B. Wright,
+178,2,3:41.0,30,39,NOP,MEM,0,away,OffReb,,,OffReb,,Team,
+179,2,3:41.0,30,40,NOP,MEM,0,away,FreeThrow,,,make1,1,B. Wright,
+180,2,3:26.0,32,40,NOP,MEM,15,home,LU,,2,make2,2,J. Holiday,
+181,2,3:04.0,32,40,NOP,MEM,22,away,JS,,25,miss3,0,W. Selden,
+182,2,3:04.0,32,40,NOP,MEM,0,home,DefReb,,,DefReb,,S. Hill,
+183,2,2:46.0,32,40,NOP,MEM,18,home,JS,,29,miss3,0,S. Hill,
+184,2,2:45.0,32,40,NOP,MEM,1,away,DefReb,,,DefReb,,M. Gasol,
+185,2,2:42.0,32,40,NOP,MEM,3,away,Timeout,,,,,,
+186,2,2:42.0,32,40,NOP,MEM,0,away,Sub,,,,,M. Conley,W. Selden
+187,2,2:42.0,32,40,NOP,MEM,0,away,Sub,,,,,Z. Randolph,B. Wright
+188,2,2:32.0,32,40,NOP,MEM,10,home,ChargeFoul,DrawnBy,,ChargeFoul,,A. Harrison,D. Cousins
+189,2,2:32.0,32,40,NOP,MEM,0,away,OffensiveFoul,,,turnover,,A. Harrison,
+190,2,2:20.0,32,40,NOP,MEM,12,home,BadPass,steal,,turnover,,E. Moore,M. Gasol
+191,2,2:14.0,32,40,NOP,MEM,6,away,LU,,1,miss2,0,Z. Randolph,
+192,2,2:14.0,32,40,NOP,MEM,0,away,OffReb,,,OffReb,,Z. Randolph,
+193,2,2:14.0,32,40,NOP,MEM,0,away,Traveling,,,turnover,,Z. Randolph,
+194,2,2:04.0,32,40,NOP,MEM,10,home,Traveling,,,turnover,,E. Moore,
+195,2,1:56.0,32,40,NOP,MEM,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,M. Conley
+196,2,1:56.0,32,40,NOP,MEM,0,home,Sub,,,,,A. Ajinça,D. Cousins
+197,2,1:44.0,32,40,NOP,MEM,12,away,JS,,25,miss3,0,M. Gasol,
+198,2,1:43.0,32,40,NOP,MEM,1,home,DefReb,,,DefReb,,Team,
+199,2,1:32.0,32,40,NOP,MEM,11,home,LU,,2,miss2,0,J. Holiday,
+200,2,1:32.0,32,40,NOP,MEM,0,away,DefReb,,,DefReb,,M. Conley,
+201,2,1:10.0,32,40,NOP,MEM,22,away,JS,,24,miss3,0,V. Carter,
+202,2,1:10.0,32,40,NOP,MEM,0,home,DefReb,,,DefReb,,Team,
+203,2,1:02.0,32,40,NOP,MEM,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Harrison,A. Davis
+204,2,0:57.0,32,40,NOP,MEM,5,home,LU,,2,miss2,0,J. Holiday,
+205,2,0:57.0,32,40,NOP,MEM,0,home,OffReb,,,OffReb,,A. Davis,
+206,2,0:57.0,34,40,NOP,MEM,0,home,LU,,2,make2,2,A. Davis,
+207,2,0:39.0,34,40,NOP,MEM,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Moore,A. Harrison
+208,2,0:39.0,34,40,NOP,MEM,0,away,FreeThrow,,,make1,0,A. Harrison,
+209,2,0:39.0,34,40,NOP,MEM,0,away,OffReb,,,OffReb,,Team,
+210,2,0:39.0,34,40,NOP,MEM,0,home,Sub,,,,,J. Crawford,S. Hill
+211,2,0:39.0,34,40,NOP,MEM,0,away,Sub,,,,,B. Wright,Z. Randolph
+212,2,0:39.0,34,41,NOP,MEM,0,away,FreeThrow,,,make1,1,A. Harrison,
+213,2,0:30.0,34,41,NOP,MEM,9,home,JS,,17,miss2,0,A. Davis,
+214,2,0:28.0,34,41,NOP,MEM,2,away,DefReb,,,DefReb,,M. Gasol,
+215,2,0:02.0,34,41,NOP,MEM,26,away,JS,,31,miss3,0,M. Conley,
+216,2,0:02.0,34,41,NOP,MEM,0,home,DefReb,,,DefReb,,A. Davis,
+217,2,0:00.0,34,41,NOP,MEM,2,home,JS,,46,miss3,0,A. Davis,
+218,2,0:00.0,34,41,NOP,MEM,0,home,OffReb,,,OffReb,,Team,
+219,3,11:38.0,34,41,NOP,MEM,22,home,LostBall,steal,,turnover,,D. Cousins,M. Gasol
+220,3,11:16.0,34,43,NOP,MEM,22,away,JS,assist,19,make2,2,M. Gasol,J. Green
+221,3,11:00.0,34,43,NOP,MEM,16,home,LU,,2,miss2,0,S. Hill,
+222,3,10:59.0,34,43,NOP,MEM,1,away,DefReb,,,DefReb,,W. Selden,
+223,3,10:47.0,34,43,NOP,MEM,12,away,JS,,24,miss3,0,M. Gasol,
+224,3,10:46.0,34,43,NOP,MEM,1,home,DefReb,,,DefReb,,A. Davis,
+225,3,10:41.0,34,43,NOP,MEM,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Green,A. Davis
+226,3,10:32.0,36,43,NOP,MEM,9,home,JS,assist,14,make2,2,A. Davis,S. Hill
+227,3,10:14.0,36,46,NOP,MEM,18,away,JS,,26,make3,3,M. Conley,
+228,3,9:54.0,38,46,NOP,MEM,20,home,JS,,10,make2,2,A. Davis,
+229,3,9:35.0,38,46,NOP,MEM,19,away,JS,,25,miss3,0,V. Carter,
+230,3,9:34.0,38,46,NOP,MEM,1,home,DefReb,,,DefReb,,Team,
+231,3,9:21.0,41,46,NOP,MEM,13,home,JS,assist,25,make3,3,D. Cousins,J. Holiday
+232,3,9:00.0,41,46,NOP,MEM,21,away,JS,,16,miss2,0,M. Gasol,
+233,3,9:00.0,41,46,NOP,MEM,0,home,DefReb,,,DefReb,,D. Cousins,
+234,3,8:49.0,41,46,NOP,MEM,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,T. Frazier
+235,3,8:49.0,42,46,NOP,MEM,0,home,FreeThrow,,,make1,1,T. Frazier,
+236,3,8:49.0,42,46,NOP,MEM,0,away,Sub,,,,,Z. Randolph,J. Green
+237,3,8:49.0,43,46,NOP,MEM,0,home,FreeThrow,,,make1,1,T. Frazier,
+238,3,8:34.0,43,46,NOP,MEM,15,away,JS,,25,miss3,0,M. Conley,
+239,3,8:34.0,43,46,NOP,MEM,0,home,DefReb,,,DefReb,,A. Davis,
+240,3,8:23.0,45,46,NOP,MEM,11,home,LU,assist,2,make2,2,J. Holiday,T. Frazier
+241,3,8:23.0,45,46,NOP,MEM,0,away,Timeout,,,,,,
+242,3,8:06.0,45,46,NOP,MEM,17,away,JS,,13,miss2,0,M. Conley,
+243,3,8:05.0,45,46,NOP,MEM,1,home,DefReb,,,DefReb,,D. Cousins,
+244,3,7:51.0,48,46,NOP,MEM,14,home,JS,assist,25,make3,3,D. Cousins,J. Holiday
+245,3,7:25.0,48,46,NOP,MEM,26,away,Traveling,,,turnover,,M. Gasol,
+246,3,7:25.0,48,46,NOP,MEM,0,away,Sub,,,,,A. Harrison,W. Selden
+247,3,7:15.0,48,46,NOP,MEM,10,home,JS,,26,miss3,0,D. Cousins,
+248,3,7:15.0,48,46,NOP,MEM,0,away,DefReb,,,DefReb,,M. Gasol,
+249,3,7:02.0,48,46,NOP,MEM,13,away,JS,,16,miss2,0,Z. Randolph,
+250,3,7:02.0,48,46,NOP,MEM,0,home,DefReb,,,DefReb,,T. Frazier,
+251,3,6:58.0,50,46,NOP,MEM,4,home,JS,,4,make2,2,D. Cousins,
+252,3,6:58.0,50,46,NOP,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,V. Carter,D. Cousins
+253,3,6:58.0,50,46,NOP,MEM,0,away,Sub,,,,,B. Wright,M. Gasol
+254,3,6:58.0,51,46,NOP,MEM,0,home,FreeThrow,,,make1,1,D. Cousins,
+255,3,6:33.0,51,46,NOP,MEM,25,away,JS,,7,miss2,0,M. Conley,
+256,3,6:32.0,51,46,NOP,MEM,1,home,DefReb,,,DefReb,,D. Cousins,
+257,3,6:13.0,51,46,NOP,MEM,19,home,JS,,25,miss3,0,S. Hill,
+258,3,6:13.0,51,46,NOP,MEM,0,away,DefReb,,,DefReb,,V. Carter,
+259,3,6:04.0,51,46,NOP,MEM,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Frazier,V. Carter
+260,3,6:04.0,51,46,NOP,MEM,0,away,Sub,,,,,T. Daniels,M. Conley
+261,3,5:58.0,51,46,NOP,MEM,6,away,LostBall,steal,,turnover,,A. Harrison,T. Frazier
+262,3,5:52.0,53,46,NOP,MEM,6,home,DK,assist,0,make2,2,A. Davis,T. Frazier
+263,3,5:31.0,53,46,NOP,MEM,21,away,JS,,16,miss2,0,Z. Randolph,
+264,3,5:30.0,53,46,NOP,MEM,1,home,DefReb,,,DefReb,,T. Frazier,
+265,3,5:14.0,55,46,NOP,MEM,16,home,DK,assist,0,make2,2,A. Davis,D. Cousins
+266,3,5:14.0,55,46,NOP,MEM,0,away,Timeout,,,,,,
+267,3,5:14.0,55,46,NOP,MEM,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
+268,3,4:50.0,55,46,NOP,MEM,24,away,JS,,26,miss3,0,V. Carter,
+269,3,4:48.0,55,46,NOP,MEM,2,home,DefReb,,,DefReb,,D. Cousins,
+270,3,4:41.0,55,46,NOP,MEM,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Wright,A. Davis
+271,3,4:30.0,55,46,NOP,MEM,11,home,JS,,23,miss3,0,J. Holiday,
+272,3,4:27.0,55,46,NOP,MEM,3,home,OffReb,,,OffReb,,S. Hill,
+273,3,4:27.0,57,46,NOP,MEM,0,home,DK,,0,make2,2,S. Hill,
+274,3,4:19.0,57,46,NOP,MEM,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Frazier,A. Harrison
+275,3,4:19.0,57,47,NOP,MEM,0,away,FreeThrow,,,make1,1,A. Harrison,
+276,3,4:19.0,57,47,NOP,MEM,0,away,FreeThrow,,,make1,0,A. Harrison,
+277,3,4:19.0,57,47,NOP,MEM,0,away,OffReb,,,OffReb,,Team,
+278,3,4:19.0,57,48,NOP,MEM,0,away,FreeThrow,,,make1,1,A. Harrison,
+279,3,4:10.0,57,48,NOP,MEM,9,home,BadPass,steal,,turnover,,J. Holiday,B. Wright
+280,3,4:05.0,57,50,NOP,MEM,5,away,LU,,2,make2,2,B. Wright,
+281,3,3:51.0,57,50,NOP,MEM,14,home,JS,,23,miss2,0,A. Davis,
+282,3,3:51.0,57,50,NOP,MEM,0,away,DefReb,,,DefReb,,A. Harrison,
+283,3,3:41.0,57,50,NOP,MEM,10,away,LostBall,,,turnover,,Z. Randolph,
+284,3,3:26.0,60,50,NOP,MEM,15,home,JS,assist,26,make3,3,D. Cousins,J. Holiday
+285,3,3:11.0,60,50,NOP,MEM,15,away,BadPass,steal,,turnover,,A. Harrison,D. Cousins
+286,3,3:06.0,60,50,NOP,MEM,5,home,DK,,0,miss2,0,S. Hill,
+287,3,3:06.0,60,50,NOP,MEM,0,away,DefReb,,,DefReb,,Team,
+288,3,3:06.0,60,50,NOP,MEM,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Davis,A. Harrison
+289,3,3:04.0,60,50,NOP,MEM,2,home,Sub,,,,,A. Ajinça,A. Davis
+290,3,2:45.0,60,50,NOP,MEM,19,away,JS,,24,miss3,0,T. Daniels,
+291,3,2:43.0,60,50,NOP,MEM,2,home,DefReb,,,DefReb,,D. Cousins,
+292,3,2:30.0,60,50,NOP,MEM,13,home,LU,,2,miss2,0,D. Cousins,
+293,3,2:29.0,60,50,NOP,MEM,1,home,OffReb,,,OffReb,,A. Ajinça,
+294,3,2:24.0,62,50,NOP,MEM,5,home,LU,,2,make2,2,D. Cousins,
+295,3,2:24.0,62,50,NOP,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Wright,D. Cousins
+296,3,2:24.0,62,50,NOP,MEM,0,home,Timeout,,,,,,
+297,3,2:24.0,62,50,NOP,MEM,0,home,FreeThrow,,,make1,0,D. Cousins,
+298,3,2:24.0,62,50,NOP,MEM,0,away,Sub,,,,,M. Gasol,V. Carter
+299,3,2:24.0,62,50,NOP,MEM,0,away,Sub,,,,,J. Ennis,Z. Randolph
+300,3,2:24.0,62,50,NOP,MEM,0,away,Sub,,,,,M. Conley,A. Harrison
+301,3,2:24.0,62,50,NOP,MEM,0,home,Sub,,,,,E. Moore,T. Frazier
+302,3,2:22.0,62,50,NOP,MEM,2,away,DefReb,,,DefReb,,J. Ennis,
+303,3,2:04.0,62,52,NOP,MEM,18,away,JS,assist,22,make2,2,M. Conley,M. Gasol
+304,3,1:48.0,62,52,NOP,MEM,16,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Cousins,T. Daniels
+305,3,1:48.0,62,52,NOP,MEM,0,home,OffensiveFoul,,,turnover,,D. Cousins,
+306,3,1:48.0,62,52,NOP,MEM,0,home,Sub,,,,,A. Davis,D. Cousins
+307,3,1:38.0,62,52,NOP,MEM,10,away,BadPass,steal,,turnover,,M. Conley,J. Holiday
+308,3,1:30.0,62,52,NOP,MEM,8,home,LU,,3,miss2,0,J. Holiday,
+309,3,1:28.0,62,52,NOP,MEM,2,home,OffReb,,,OffReb,,A. Ajinça,
+310,3,1:12.0,65,52,NOP,MEM,16,home,JS,assist,22,make3,3,E. Moore,J. Holiday
+311,3,0:47.0,65,52,NOP,MEM,25,away,JS,,20,miss2,0,M. Gasol,
+312,3,0:46.0,65,52,NOP,MEM,1,home,DefReb,,,DefReb,,A. Davis,
+313,3,0:37.0,65,52,NOP,MEM,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Wright,A. Davis
+314,3,0:37.0,65,52,NOP,MEM,0,home,FreeThrow,,,make1,0,A. Davis,
+315,3,0:37.0,65,52,NOP,MEM,0,home,OffReb,,,OffReb,,Team,
+316,3,0:37.0,66,52,NOP,MEM,0,home,FreeThrow,,,make1,1,A. Davis,
+317,3,0:28.0,66,54,NOP,MEM,9,away,JS,,5,make2,2,M. Conley,
+318,3,0:05.0,66,54,NOP,MEM,23,home,JS,,24,miss3,0,E. Moore,
+319,3,0:03.0,66,54,NOP,MEM,2,away,DefReb,,,DefReb,,B. Wright,
+320,4,11:49.0,66,57,NOP,MEM,11,away,JS,assist,23,make3,3,T. Daniels,M. Conley
+321,4,11:37.0,66,57,NOP,MEM,12,home,JS,,25,miss3,0,T. Frazier,
+322,4,11:36.0,66,57,NOP,MEM,1,away,DefReb,,,DefReb,,J. Ennis,
+323,4,11:22.0,66,57,NOP,MEM,14,away,JS,,27,miss3,0,M. Gasol,
+324,4,11:22.0,66,57,NOP,MEM,0,home,DefReb,,,DefReb,,A. Davis,
+325,4,11:03.0,68,57,NOP,MEM,19,home,JS,assist,18,make2,2,A. Davis,T. Frazier
+326,4,10:45.0,68,57,NOP,MEM,18,away,LU,,1,miss2,0,J. Ennis,
+327,4,10:45.0,68,57,NOP,MEM,0,home,DefReb,,,DefReb,,A. Ajinça,
+328,4,10:37.0,68,57,NOP,MEM,8,home,LU,,2,miss2,0,T. Frazier,
+329,4,10:35.0,68,57,NOP,MEM,2,home,OffReb,,,OffReb,,A. Ajinça,
+330,4,10:35.0,68,57,NOP,MEM,0,home,LU,,2,miss2,0,A. Ajinça,
+331,4,10:32.0,68,57,NOP,MEM,3,away,DefReb,,,DefReb,,T. Daniels,
+332,4,10:27.0,68,57,NOP,MEM,5,away,BadPass,steal,,turnover,,M. Gasol,S. Hill
+333,4,10:24.0,68,57,NOP,MEM,3,home,BadPass,steal,,turnover,,S. Hill,J. Ennis
+334,4,10:18.0,68,59,NOP,MEM,6,away,DK,assist,0,make2,2,B. Wright,J. Ennis
+335,4,9:59.0,68,59,NOP,MEM,19,home,JS,,5,miss2,0,A. Ajinça,
+336,4,9:58.0,68,59,NOP,MEM,1,away,DefReb,,,DefReb,,M. Conley,
+337,4,9:52.0,68,59,NOP,MEM,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Ajinça,M. Conley
+338,4,9:52.0,68,60,NOP,MEM,0,away,FreeThrow,,,make1,1,M. Conley,
+339,4,9:52.0,68,60,NOP,MEM,0,away,Sub,,,,,J. Green,B. Wright
+340,4,9:52.0,68,61,NOP,MEM,0,away,FreeThrow,,,make1,1,M. Conley,
+341,4,9:33.0,68,61,NOP,MEM,19,home,JS,,26,miss3,0,A. Davis,
+342,4,9:33.0,68,61,NOP,MEM,0,away,DefReb,,,DefReb,,J. Ennis,
+343,4,9:21.0,68,64,NOP,MEM,12,away,JS,assist,25,make3,3,J. Ennis,M. Gasol
+344,4,9:21.0,68,64,NOP,MEM,0,home,Timeout,,,,,,
+345,4,9:21.0,68,64,NOP,MEM,0,home,Sub,,,,,D. Cousins,A. Ajinça
+346,4,9:21.0,68,64,NOP,MEM,0,home,Sub,,,,,J. Crawford,T. Frazier
+347,4,9:21.0,68,64,NOP,MEM,0,home,Sub,,,,,J. Holiday,S. Hill
+348,4,9:03.0,71,64,NOP,MEM,18,home,JS,assist,25,make3,3,J. Holiday,D. Cousins
+349,4,8:37.0,71,64,NOP,MEM,26,away,JS,block,5,miss2,0,J. Green,D. Cousins
+350,4,8:34.0,71,64,NOP,MEM,3,home,DefReb,,,DefReb,,D. Cousins,
+351,4,8:21.0,71,64,NOP,MEM,13,home,JS,,10,miss2,0,A. Davis,
+352,4,8:20.0,71,64,NOP,MEM,1,home,OffReb,,,OffReb,,A. Davis,
+353,4,8:18.0,73,64,NOP,MEM,2,home,LU,,3,make2,2,A. Davis,
+354,4,8:05.0,73,64,NOP,MEM,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crawford,J. Green
+355,4,8:05.0,73,65,NOP,MEM,0,away,FreeThrow,,,make1,1,J. Green,
+356,4,8:05.0,73,65,NOP,MEM,0,away,Sub,,,,,V. Carter,M. Conley
+357,4,8:05.0,73,65,NOP,MEM,0,away,Sub,,,,,A. Harrison,T. Daniels
+358,4,8:05.0,73,66,NOP,MEM,0,away,FreeThrow,,,make1,1,J. Green,
+359,4,7:56.0,75,66,NOP,MEM,9,home,LU,,2,make2,2,D. Cousins,
+360,4,7:56.0,75,66,NOP,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Gasol,D. Cousins
+361,4,7:56.0,76,66,NOP,MEM,0,home,FreeThrow,,,make1,1,D. Cousins,
+362,4,7:43.0,76,68,NOP,MEM,13,away,JS,,17,make2,2,J. Green,
+363,4,7:43.0,76,68,NOP,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,J. Green
+364,4,7:43.0,76,69,NOP,MEM,0,away,FreeThrow,,,make1,1,J. Green,
+365,4,7:33.0,76,69,NOP,MEM,10,home,JS,,26,miss3,0,J. Crawford,
+366,4,7:33.0,76,69,NOP,MEM,0,away,DefReb,,,DefReb,,J. Ennis,
+367,4,7:23.0,76,69,NOP,MEM,10,away,JS,,26,miss3,0,J. Ennis,
+368,4,7:22.0,76,69,NOP,MEM,1,home,DefReb,,,DefReb,,D. Cousins,
+369,4,7:04.0,76,69,NOP,MEM,18,home,JS,block,7,miss2,0,D. Cousins,M. Gasol
+370,4,7:02.0,76,69,NOP,MEM,2,away,DefReb,,,DefReb,,M. Gasol,
+371,4,6:52.0,76,69,NOP,MEM,10,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Harrison,D. Cousins
+372,4,6:52.0,76,69,NOP,MEM,0,away,OffensiveFoul,,,turnover,,A. Harrison,
+373,4,6:34.0,78,69,NOP,MEM,18,home,JS,,6,make2,2,J. Holiday,
+374,4,6:07.0,78,71,NOP,MEM,27,away,HS,,0,make2,2,M. Gasol,
+375,4,6:01.0,80,71,NOP,MEM,6,home,LU,assist,2,make2,2,J. Crawford,E. Moore
+376,4,5:48.0,80,71,NOP,MEM,13,away,JS,,25,miss3,0,J. Green,
+377,4,5:47.0,80,71,NOP,MEM,1,home,DefReb,,,DefReb,,J. Crawford,
+378,4,5:31.0,80,71,NOP,MEM,16,home,LU,,2,miss2,0,J. Holiday,
+379,4,5:31.0,80,71,NOP,MEM,0,home,OffReb,,,OffReb,,D. Cousins,
+380,4,5:31.0,82,71,NOP,MEM,0,home,LU,,2,make2,2,D. Cousins,
+381,4,5:31.0,82,71,NOP,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ennis,D. Cousins
+382,4,5:31.0,82,71,NOP,MEM,0,away,Timeout,,,,,,
+383,4,5:31.0,82,71,NOP,MEM,0,away,Sub,,,,,M. Conley,J. Ennis
+384,4,5:31.0,82,71,NOP,MEM,0,away,Sub,,,,,T. Daniels,A. Harrison
+385,4,5:31.0,83,71,NOP,MEM,0,home,FreeThrow,,,make1,1,D. Cousins,
+386,4,5:16.0,83,71,NOP,MEM,15,away,LU,,1,miss2,0,M. Gasol,
+387,4,5:15.0,83,71,NOP,MEM,1,home,DefReb,,,DefReb,,D. Cousins,
+388,4,4:58.0,85,71,NOP,MEM,17,home,LU,,1,make2,2,D. Cousins,
+389,4,4:58.0,85,71,NOP,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,D. Cousins
+390,4,4:58.0,86,71,NOP,MEM,0,home,FreeThrow,,,make1,1,D. Cousins,
+391,4,4:52.0,86,74,NOP,MEM,6,away,JS,assist,25,make3,3,T. Daniels,M. Conley
+392,4,4:29.0,86,74,NOP,MEM,23,home,JS,,25,miss3,0,J. Holiday,
+393,4,4:28.0,86,74,NOP,MEM,1,home,OffReb,,,OffReb,,A. Davis,
+394,4,4:28.0,88,74,NOP,MEM,0,home,DK,,0,make2,2,A. Davis,
+395,4,4:10.0,88,77,NOP,MEM,18,away,JS,assist,24,make3,3,J. Green,V. Carter
+396,4,3:54.0,88,77,NOP,MEM,16,home,JS,,26,miss3,0,D. Cousins,
+397,4,3:53.0,88,77,NOP,MEM,1,away,DefReb,,,DefReb,,V. Carter,
+398,4,3:43.0,88,77,NOP,MEM,10,away,JS,,8,miss2,0,M. Conley,
+399,4,3:43.0,88,77,NOP,MEM,0,away,OffReb,,,OffReb,,Team,
+400,4,3:43.0,88,77,NOP,MEM,0,home,Sub,,,,,S. Hill,E. Moore
+401,4,3:39.0,88,79,NOP,MEM,4,away,LU,assist,2,make2,2,J. Green,V. Carter
+402,4,3:20.0,88,79,NOP,MEM,19,home,JS,,25,miss3,0,S. Hill,
+403,4,3:19.0,88,79,NOP,MEM,1,away,DefReb,,,DefReb,,M. Conley,
+404,4,3:06.0,88,82,NOP,MEM,13,away,JS,assist,27,make3,3,T. Daniels,M. Conley
+405,4,2:40.0,90,82,NOP,MEM,26,home,LU,,2,make2,2,D. Cousins,
+406,4,2:28.0,90,82,NOP,MEM,12,away,JS,,26,miss3,0,T. Daniels,
+407,4,2:28.0,90,82,NOP,MEM,0,home,DefReb,,,DefReb,,A. Davis,
+408,4,2:07.0,93,82,NOP,MEM,21,home,JS,assist,27,make3,3,J. Crawford,J. Holiday
+409,4,1:43.0,93,82,NOP,MEM,24,away,JS,,23,miss3,0,M. Conley,
+410,4,1:43.0,93,82,NOP,MEM,0,home,DefReb,,,DefReb,,J. Holiday,
+411,4,1:20.0,93,82,NOP,MEM,23,home,JS,,27,miss3,0,D. Cousins,
+412,4,1:19.0,93,82,NOP,MEM,1,away,DefReb,,,DefReb,,J. Green,
+413,4,1:12.0,93,82,NOP,MEM,7,away,JS,,26,miss3,0,V. Carter,
+414,4,1:10.0,93,82,NOP,MEM,2,home,DefReb,,,DefReb,,J. Crawford,
+415,4,1:05.0,93,82,NOP,MEM,5,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Conley,J. Crawford
+416,4,1:05.0,93,82,NOP,MEM,0,away,Timeout,,,,,,
+417,4,1:05.0,93,82,NOP,MEM,0,away,Sub,,,,,A. Harrison,V. Carter
+418,4,1:05.0,93,82,NOP,MEM,0,away,Sub,,,,,J. Ennis,J. Green
+419,4,1:05.0,93,82,NOP,MEM,0,away,Sub,,,,,W. Selden,M. Gasol
+420,4,1:05.0,93,82,NOP,MEM,0,away,Sub,,,,,B. Wright,M. Conley
+421,4,0:53.0,93,82,NOP,MEM,12,home,JS,,6,miss2,0,D. Cousins,
+422,4,0:53.0,93,82,NOP,MEM,0,away,DefReb,,,DefReb,,B. Wright,
+423,4,0:38.0,93,82,NOP,MEM,15,away,JS,,25,miss3,0,W. Selden,
+424,4,0:37.0,93,82,NOP,MEM,1,home,DefReb,,,DefReb,,S. Hill,
+425,4,0:24.0,93,82,NOP,MEM,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Daniels,J. Crawford
+426,4,0:24.0,94,82,NOP,MEM,0,home,FreeThrow,,,make1,1,J. Crawford,
+427,4,0:24.0,94,82,NOP,MEM,0,home,Sub,,,,,D. Motiejūnas,D. Cousins
+428,4,0:24.0,94,82,NOP,MEM,0,home,Sub,,,,,A. Ajinça,A. Davis
+429,4,0:24.0,94,82,NOP,MEM,0,home,Sub,,,,,Q. Cook,J. Holiday
+430,4,0:24.0,95,82,NOP,MEM,0,home,FreeThrow,,,make1,1,J. Crawford,
+431,4,0:16.0,95,82,NOP,MEM,8,away,Traveling,,,turnover,,T. Daniels,

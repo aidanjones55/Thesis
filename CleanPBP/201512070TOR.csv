@@ -1,0 +1,425 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:42.0,3,0,TOR,LAL,18,home,JS,assist,23,make3,3,T. Ross,L. Scola
+1,1,11:21.0,3,0,TOR,LAL,21,away,JS,,26,miss3,0,J. Clarkson,
+2,1,11:21.0,3,0,TOR,LAL,0,home,DefReb,,,DefReb,,T. Ross,
+3,1,11:04.0,3,0,TOR,LAL,17,home,HS,,4,miss2,0,L. Scola,
+4,1,11:03.0,3,0,TOR,LAL,1,away,DefReb,,,DefReb,,L. Nance,
+5,1,10:51.0,3,2,TOR,LAL,12,away,JS,,5,make2,2,R. Hibbert,
+6,1,10:33.0,3,2,TOR,LAL,18,home,JS,,15,miss2,0,T. Ross,
+7,1,10:33.0,3,2,TOR,LAL,0,away,DefReb,,,DefReb,,K. Bryant,
+8,1,10:22.0,3,5,TOR,LAL,11,away,JS,assist,25,make3,3,L. Williams,K. Bryant
+9,1,10:01.0,3,5,TOR,LAL,21,home,BadPass,steal,,turnover,,D. DeRozan,K. Bryant
+10,1,9:54.0,3,7,TOR,LAL,7,away,JS,assist,14,make2,2,J. Clarkson,K. Bryant
+11,1,9:29.0,3,7,TOR,LAL,25,home,JS,,9,miss2,0,B. Biyombo,
+12,1,9:28.0,3,7,TOR,LAL,1,away,DefReb,,,DefReb,,K. Bryant,
+13,1,9:18.0,3,9,TOR,LAL,10,away,JS,assist,14,make2,2,K. Bryant,R. Hibbert
+14,1,8:59.0,3,9,TOR,LAL,19,home,JS,block,18,miss2,0,T. Ross,R. Hibbert
+15,1,8:58.0,3,9,TOR,LAL,1,home,OffReb,,,OffReb,,T. Ross,
+16,1,8:54.0,5,9,TOR,LAL,4,home,JS,,9,make2,2,D. DeRozan,
+17,1,8:28.0,5,11,TOR,LAL,26,away,JS,,15,make2,2,R. Hibbert,
+18,1,8:18.0,8,11,TOR,LAL,10,home,JS,,26,make3,3,K. Lowry,
+19,1,7:51.0,8,11,TOR,LAL,27,away,JS,,26,miss3,0,L. Williams,
+20,1,7:50.0,8,11,TOR,LAL,1,home,DefReb,,,DefReb,,D. DeRozan,
+21,1,7:38.0,8,11,TOR,LAL,12,home,JS,,25,miss3,0,T. Ross,
+22,1,7:37.0,8,11,TOR,LAL,1,away,DefReb,,,DefReb,,K. Bryant,
+23,1,7:27.0,8,11,TOR,LAL,10,home,DefGoaltending,,,DefGoaltending,,D. DeRozan,
+24,1,7:27.0,8,13,TOR,LAL,0,away,DK,assist,0,make2,2,J. Clarkson,K. Bryant
+25,1,7:15.0,8,13,TOR,LAL,12,home,JS,,20,miss2,0,K. Lowry,
+26,1,7:15.0,8,13,TOR,LAL,0,away,DefReb,,,DefReb,,K. Bryant,
+27,1,7:05.0,8,15,TOR,LAL,10,away,JS,,11,make2,2,K. Bryant,
+28,1,6:55.0,8,15,TOR,LAL,10,home,Timeout,,,,,,
+29,1,6:47.0,8,15,TOR,LAL,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Bryant,B. Biyombo
+30,1,6:47.0,8,15,TOR,LAL,0,home,FreeThrow,,,make1,0,B. Biyombo,
+31,1,6:47.0,8,15,TOR,LAL,0,home,OffReb,,,OffReb,,Team,
+32,1,6:47.0,9,15,TOR,LAL,0,home,FreeThrow,,,make1,1,B. Biyombo,
+33,1,6:35.0,9,15,TOR,LAL,12,away,Traveling,,,turnover,,L. Williams,
+34,1,6:25.0,9,15,TOR,LAL,10,home,JS,,27,miss3,0,T. Ross,
+35,1,6:24.0,9,15,TOR,LAL,1,away,DefReb,,,DefReb,,K. Bryant,
+36,1,6:16.0,9,15,TOR,LAL,8,away,HS,,4,miss2,0,J. Clarkson,
+37,1,6:15.0,9,15,TOR,LAL,1,home,DefReb,,,DefReb,,B. Biyombo,
+38,1,6:06.0,9,15,TOR,LAL,9,home,JS,,11,miss2,0,D. DeRozan,
+39,1,6:05.0,9,15,TOR,LAL,1,home,OffReb,,,OffReb,,B. Biyombo,
+40,1,6:00.0,9,15,TOR,LAL,5,home,JS,,26,miss3,0,K. Lowry,
+41,1,6:00.0,9,15,TOR,LAL,0,away,DefReb,,,DefReb,,L. Williams,
+42,1,5:47.0,9,15,TOR,LAL,13,away,JS,,17,miss2,0,L. Nance,
+43,1,5:46.0,9,15,TOR,LAL,1,home,DefReb,,,DefReb,,D. DeRozan,
+44,1,5:34.0,12,15,TOR,LAL,12,home,JS,assist,25,make3,3,T. Ross,L. Scola
+45,1,5:15.0,12,15,TOR,LAL,19,away,JS,,16,miss2,0,K. Bryant,
+46,1,5:15.0,12,15,TOR,LAL,0,home,DefReb,,,DefReb,,L. Scola,
+47,1,5:05.0,12,15,TOR,LAL,10,home,JS,,8,miss2,0,L. Scola,
+48,1,5:04.0,12,15,TOR,LAL,1,home,OffReb,,,OffReb,,B. Biyombo,
+49,1,5:04.0,12,15,TOR,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,B. Biyombo
+50,1,5:04.0,12,15,TOR,LAL,0,home,FreeThrow,,,make1,0,B. Biyombo,
+51,1,5:04.0,12,15,TOR,LAL,0,home,OffReb,,,OffReb,,Team,
+52,1,5:04.0,12,15,TOR,LAL,0,home,Sub,,,,,P. Patterson,L. Scola
+53,1,5:04.0,12,15,TOR,LAL,0,away,Sub,,,,,D. Russell,L. Williams
+54,1,5:04.0,12,15,TOR,LAL,0,home,FreeThrow,,,make1,0,B. Biyombo,
+55,1,5:03.0,12,15,TOR,LAL,1,away,DefReb,,,DefReb,,R. Hibbert,
+56,1,4:51.0,12,15,TOR,LAL,12,away,BadPass,steal,,turnover,,K. Bryant,T. Ross
+57,1,4:46.0,14,15,TOR,LAL,5,home,DK,,0,make2,2,T. Ross,
+58,1,4:29.0,14,15,TOR,LAL,17,away,D3SecTech,,,,,,
+59,1,4:29.0,14,15,TOR,LAL,0,away,FreeThrow,,,make1,0,K. Bryant misses technical free throw,
+60,1,4:29.0,14,15,TOR,LAL,0,away,OffReb,,,OffReb,,Team,
+61,1,4:14.0,14,15,TOR,LAL,15,away,JS,,12,miss2,0,K. Bryant,
+62,1,4:14.0,14,15,TOR,LAL,0,home,DefReb,,,DefReb,,B. Biyombo,
+63,1,4:04.0,16,15,TOR,LAL,10,home,LU,assist,2,make2,2,B. Biyombo,K. Lowry
+64,1,3:52.0,16,15,TOR,LAL,12,away,Sub,,,,,M. World Peace,K. Bryant
+65,1,3:52.0,16,15,TOR,LAL,0,away,Sub,,,,,J. Randle,L. Nance
+66,1,3:45.0,16,15,TOR,LAL,7,away,HS,,3,miss2,0,R. Hibbert,
+67,1,3:45.0,16,15,TOR,LAL,0,away,OffReb,,,OffReb,,J. Randle,
+68,1,3:44.0,16,17,TOR,LAL,1,away,LU,,1,make2,2,J. Randle,
+69,1,3:44.0,16,17,TOR,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ross,J. Randle
+70,1,3:44.0,16,18,TOR,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+71,1,3:31.0,18,18,TOR,LAL,13,home,DK,assist,0,make2,2,B. Biyombo,D. DeRozan
+72,1,3:21.0,18,18,TOR,LAL,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Biyombo,D. Russell
+73,1,3:21.0,18,18,TOR,LAL,0,away,Sub,,,,,M. Huertas,J. Clarkson
+74,1,3:09.0,18,18,TOR,LAL,12,away,JS,,6,miss2,0,J. Randle,
+75,1,3:09.0,18,18,TOR,LAL,0,home,DefReb,,,DefReb,,B. Biyombo,
+76,1,2:57.0,18,18,TOR,LAL,12,home,JS,,25,miss3,0,P. Patterson,
+77,1,2:57.0,18,18,TOR,LAL,0,away,DefReb,,,DefReb,,M. World Peace,
+78,1,2:52.0,18,18,TOR,LAL,5,home,KickBallViolation,,,KickBallViolation,,T. Ross,
+79,1,2:52.0,18,18,TOR,LAL,0,away,Timeout,,,,,,
+80,1,2:52.0,18,18,TOR,LAL,0,away,Sub,,,,,R. Sacre,R. Hibbert
+81,1,2:52.0,18,18,TOR,LAL,0,home,Sub,,,,,J. Johnson,B. Biyombo
+82,1,2:52.0,18,18,TOR,LAL,0,home,Sub,,,,,C. Joseph,D. DeRozan
+83,1,2:37.0,18,18,TOR,LAL,15,away,JS,,9,miss2,0,R. Sacre,
+84,1,2:36.0,18,18,TOR,LAL,1,home,DefReb,,,DefReb,,K. Lowry,
+85,1,2:29.0,20,18,TOR,LAL,7,home,DK,assist,0,make2,2,J. Johnson,K. Lowry
+86,1,2:11.0,20,18,TOR,LAL,18,away,JS,,9,miss2,0,M. Huertas,
+87,1,2:10.0,20,18,TOR,LAL,1,home,DefReb,,,DefReb,,Team,
+88,1,1:57.0,23,18,TOR,LAL,13,home,JS,assist,25,make3,3,T. Ross,K. Lowry
+89,1,1:41.0,23,18,TOR,LAL,16,away,JS,,19,miss2,0,D. Russell,
+90,1,1:41.0,23,18,TOR,LAL,0,home,DefReb,,,DefReb,,K. Lowry,
+91,1,1:17.0,23,18,TOR,LAL,24,home,JS,,37,miss3,0,C. Joseph,
+92,1,1:17.0,23,18,TOR,LAL,0,away,DefReb,,,DefReb,,J. Randle,
+93,1,1:10.0,23,18,TOR,LAL,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Lowry,M. Huertas
+94,1,1:10.0,23,19,TOR,LAL,0,away,FreeThrow,,,make1,1,M. Huertas,
+95,1,1:10.0,23,20,TOR,LAL,0,away,FreeThrow,,,make1,1,M. Huertas,
+96,1,0:58.0,23,20,TOR,LAL,12,home,JS,,25,miss3,0,K. Lowry,
+97,1,0:58.0,23,20,TOR,LAL,0,away,DefReb,,,DefReb,,M. Huertas,
+98,1,0:34.0,23,22,TOR,LAL,24,away,JS,,9,make2,2,J. Randle,
+99,1,0:17.0,23,22,TOR,LAL,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. World Peace,T. Ross
+100,1,0:17.0,24,22,TOR,LAL,0,home,FreeThrow,,,make1,1,T. Ross,
+101,1,0:17.0,25,22,TOR,LAL,0,home,FreeThrow,,,make1,1,T. Ross,
+102,1,0:00.0,25,22,TOR,LAL,17,away,JS,,22,miss3,0,D. Russell,
+103,1,0:00.0,25,22,TOR,LAL,0,away,OffReb,,,OffReb,,Team,
+104,2,11:39.0,25,22,TOR,LAL,21,away,JS,,19,miss2,0,D. Russell,
+105,2,11:38.0,25,22,TOR,LAL,1,home,DefReb,,,DefReb,,N. Powell,
+106,2,11:25.0,25,22,TOR,LAL,13,home,JS,,23,miss3,0,P. Patterson,
+107,2,11:24.0,25,22,TOR,LAL,1,away,DefReb,,,DefReb,,D. Russell,
+108,2,11:15.0,25,22,TOR,LAL,9,away,HS,,2,miss2,0,J. Randle,
+109,2,11:14.0,25,22,TOR,LAL,1,away,OffReb,,,OffReb,,R. Sacre,
+110,2,11:14.0,25,22,TOR,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Powell,R. Sacre
+111,2,11:14.0,25,23,TOR,LAL,0,away,FreeThrow,,,make1,1,R. Sacre,
+112,2,11:14.0,25,23,TOR,LAL,0,away,Sub,,,,,K. Bryant,M. World Peace
+113,2,11:14.0,25,24,TOR,LAL,0,away,FreeThrow,,,make1,1,R. Sacre,
+114,2,11:04.0,27,24,TOR,LAL,10,home,JS,,12,make2,2,D. DeRozan,
+115,2,10:46.0,27,24,TOR,LAL,18,away,HS,,4,miss2,0,R. Sacre,
+116,2,10:46.0,27,24,TOR,LAL,0,away,OffReb,,,OffReb,,J. Randle,
+117,2,10:43.0,27,24,TOR,LAL,3,away,LU,,1,miss2,0,J. Randle,
+118,2,10:43.0,27,24,TOR,LAL,0,home,DefReb,,,DefReb,,D. DeRozan,
+119,2,10:37.0,27,24,TOR,LAL,6,home,JS,,23,miss3,0,N. Powell,
+120,2,10:37.0,27,24,TOR,LAL,0,away,DefReb,,,DefReb,,J. Randle,
+121,2,10:23.0,27,26,TOR,LAL,14,away,LU,,0,make2,2,J. Randle,
+122,2,10:04.0,27,26,TOR,LAL,19,home,Traveling,,,turnover,,N. Powell,
+123,2,9:51.0,27,26,TOR,LAL,13,away,JS,,17,miss2,0,M. Huertas,
+124,2,9:47.0,27,26,TOR,LAL,4,home,DefReb,,,DefReb,,Team,
+125,2,9:32.0,27,26,TOR,LAL,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Sacre,C. Joseph
+126,2,9:32.0,28,26,TOR,LAL,0,home,FreeThrow,,,make1,1,C. Joseph,
+127,2,9:32.0,28,26,TOR,LAL,0,away,Sub,,,,,L. Williams,M. Huertas
+128,2,9:32.0,28,26,TOR,LAL,0,home,FreeThrow,,,make1,0,C. Joseph,
+129,2,9:31.0,28,26,TOR,LAL,1,away,DefReb,,,DefReb,,K. Bryant,
+130,2,9:22.0,28,26,TOR,LAL,9,away,BadPass,steal,,turnover,,K. Bryant,C. Joseph
+131,2,9:16.0,30,26,TOR,LAL,6,home,LU,assist,3,make2,2,D. DeRozan,P. Patterson
+132,2,9:05.0,30,26,TOR,LAL,11,away,BadPass,steal,,turnover,,D. Russell,J. Johnson
+133,2,9:02.0,30,26,TOR,LAL,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Williams,C. Joseph
+134,2,9:02.0,31,26,TOR,LAL,0,home,FreeThrow,,,make1,1,C. Joseph,
+135,2,9:02.0,32,26,TOR,LAL,0,home,FreeThrow,,,make1,1,C. Joseph,
+136,2,8:46.0,32,26,TOR,LAL,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,R. Sacre
+137,2,8:46.0,32,26,TOR,LAL,0,away,Timeout,,,,,,
+138,2,8:46.0,32,26,TOR,LAL,0,away,FreeThrow,,,make1,0,R. Sacre,
+139,2,8:46.0,32,26,TOR,LAL,0,away,OffReb,,,OffReb,,Team,
+140,2,8:46.0,32,27,TOR,LAL,0,away,FreeThrow,,,make1,1,R. Sacre,
+141,2,8:29.0,32,27,TOR,LAL,17,home,JS,,26,miss3,0,P. Patterson,
+142,2,8:29.0,32,27,TOR,LAL,0,away,DefReb,,,DefReb,,D. Russell,
+143,2,8:15.0,32,27,TOR,LAL,14,away,JS,,17,miss2,0,K. Bryant,
+144,2,8:14.0,32,27,TOR,LAL,1,home,DefReb,,,DefReb,,N. Powell,
+145,2,7:55.0,34,27,TOR,LAL,19,home,JS,,17,make2,2,C. Joseph,
+146,2,7:30.0,34,27,TOR,LAL,25,away,JS,,1,miss2,0,J. Randle,
+147,2,7:29.0,34,27,TOR,LAL,1,away,OffReb,,,OffReb,,R. Sacre,
+148,2,7:29.0,34,27,TOR,LAL,0,away,LU,,1,miss2,0,R. Sacre,
+149,2,7:29.0,34,27,TOR,LAL,0,away,OffReb,,,OffReb,,J. Randle,
+150,2,7:29.0,34,29,TOR,LAL,0,away,LU,,1,make2,2,J. Randle,
+151,2,7:29.0,34,29,TOR,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,J. Randle
+152,2,7:29.0,34,29,TOR,LAL,0,away,Sub,,,,,J. Clarkson,D. Russell
+153,2,7:29.0,34,29,TOR,LAL,0,away,Sub,,,,,L. Nance,R. Sacre
+154,2,7:29.0,34,29,TOR,LAL,0,home,Sub,,,,,K. Lowry,J. Johnson
+155,2,7:29.0,34,29,TOR,LAL,0,home,Sub,,,,,L. Scola,N. Powell
+156,2,7:29.0,34,30,TOR,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+157,2,7:12.0,34,30,TOR,LAL,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Randle,C. Joseph
+158,2,7:12.0,34,30,TOR,LAL,0,away,Sub,,,,,M. World Peace,K. Bryant
+159,2,7:02.0,34,30,TOR,LAL,10,home,BadPass,,,turnover,,L. Scola,
+160,2,6:51.0,34,30,TOR,LAL,11,away,LU,,3,miss2,0,L. Williams,
+161,2,6:51.0,34,30,TOR,LAL,0,home,DefReb,,,DefReb,,P. Patterson,
+162,2,6:31.0,37,30,TOR,LAL,20,home,JS,assist,25,make3,3,K. Lowry,D. DeRozan
+163,2,6:14.0,37,30,TOR,LAL,17,away,LostBall,steal,,turnover,,L. Nance,L. Scola
+164,2,6:05.0,37,30,TOR,LAL,9,home,JS,,22,miss2,0,D. DeRozan,
+165,2,6:04.0,37,30,TOR,LAL,1,away,DefReb,,,DefReb,,L. Nance,
+166,2,5:54.0,37,32,TOR,LAL,10,away,JS,,7,make2,2,L. Williams,
+167,2,5:45.0,37,32,TOR,LAL,9,home,Timeout,,,,,,
+168,2,5:45.0,37,32,TOR,LAL,0,home,Sub,,,,,B. Biyombo,P. Patterson
+169,2,5:45.0,37,32,TOR,LAL,0,home,Sub,,,,,T. Ross,C. Joseph
+170,2,5:45.0,37,32,TOR,LAL,0,away,Sub,,,,,R. Hibbert,J. Randle
+171,2,5:33.0,40,32,TOR,LAL,12,home,JS,assist,26,make3,3,K. Lowry,D. DeRozan
+172,2,5:10.0,40,32,TOR,LAL,23,away,JS,,18,miss2,0,R. Hibbert,
+173,2,5:10.0,40,32,TOR,LAL,0,home,DefReb,,,DefReb,,D. DeRozan,
+174,2,4:48.0,40,32,TOR,LAL,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,K. Lowry
+175,2,4:48.0,41,32,TOR,LAL,0,home,FreeThrow,,,make1,1,K. Lowry,
+176,2,4:48.0,42,32,TOR,LAL,0,home,FreeThrow,,,make1,1,K. Lowry,
+177,2,4:35.0,42,32,TOR,LAL,13,away,LU,,3,miss2,0,M. World Peace,
+178,2,4:35.0,42,32,TOR,LAL,0,away,OffReb,,,OffReb,,R. Hibbert,
+179,2,4:35.0,42,32,TOR,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Scola,R. Hibbert
+180,2,4:35.0,42,33,TOR,LAL,0,away,FreeThrow,,,make1,1,R. Hibbert,
+181,2,4:35.0,42,34,TOR,LAL,0,away,FreeThrow,,,make1,1,R. Hibbert,
+182,2,4:21.0,42,34,TOR,LAL,14,home,JS,,12,miss2,0,D. DeRozan,
+183,2,4:20.0,42,34,TOR,LAL,1,away,DefReb,,,DefReb,,J. Clarkson,
+184,2,4:13.0,42,34,TOR,LAL,7,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,L. Scola,J. Clarkson
+185,2,4:13.0,42,35,TOR,LAL,0,away,FreeThrow,,,make1,1,J. Clarkson,
+186,2,4:13.0,42,36,TOR,LAL,0,away,FreeThrow,,,make1,1,J. Clarkson,
+187,2,4:03.0,42,36,TOR,LAL,10,home,LU,block,4,miss2,0,B. Biyombo,L. Nance
+188,2,4:03.0,42,36,TOR,LAL,0,home,OffReb,,,OffReb,,B. Biyombo,
+189,2,3:48.0,42,36,TOR,LAL,15,home,ShotClockViolation,,,turnover,,Team,
+190,2,3:48.0,42,36,TOR,LAL,0,away,Sub,,,,,K. Bryant,M. World Peace
+191,2,3:37.0,42,36,TOR,LAL,11,away,JS,,18,miss2,0,L. Williams,
+192,2,3:37.0,42,36,TOR,LAL,0,home,DefReb,,,DefReb,,B. Biyombo,
+193,2,3:17.0,42,36,TOR,LAL,20,home,HS,,3,miss2,0,L. Scola,
+194,2,3:16.0,42,36,TOR,LAL,1,away,DefReb,,,DefReb,,J. Clarkson,
+195,2,3:09.0,42,36,TOR,LAL,7,away,DK,,2,miss2,0,J. Clarkson,
+196,2,3:08.0,42,36,TOR,LAL,1,away,OffReb,,,OffReb,,L. Nance,
+197,2,3:05.0,42,38,TOR,LAL,3,away,DK,,0,make2,2,L. Nance,
+198,2,2:48.0,45,38,TOR,LAL,17,home,JS,assist,27,make3,3,K. Lowry,D. DeRozan
+199,2,2:32.0,45,38,TOR,LAL,16,away,LostBall,,,turnover,,J. Clarkson,
+200,2,2:32.0,45,38,TOR,LAL,0,away,Timeout,,,,,,
+201,2,2:32.0,45,38,TOR,LAL,0,home,Sub,,,,,C. Joseph,L. Scola
+202,2,2:32.0,45,38,TOR,LAL,0,home,Sub,,,,,P. Patterson,D. DeRozan
+203,2,2:22.0,48,38,TOR,LAL,10,home,JS,assist,26,make3,3,K. Lowry,C. Joseph
+204,2,2:08.0,48,40,TOR,LAL,14,away,JS,,8,make2,2,L. Nance,
+205,2,1:52.0,48,40,TOR,LAL,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,B. Biyombo
+206,2,1:52.0,49,40,TOR,LAL,0,home,FreeThrow,,,make1,1,B. Biyombo,
+207,2,1:52.0,50,40,TOR,LAL,0,home,FreeThrow,,,make1,1,B. Biyombo,
+208,2,1:41.0,50,42,TOR,LAL,11,away,LU,,2,make2,2,K. Bryant,
+209,2,1:27.0,50,42,TOR,LAL,14,home,JS,,7,miss2,0,P. Patterson,
+210,2,1:26.0,50,42,TOR,LAL,1,home,OffReb,,,OffReb,,B. Biyombo,
+211,2,1:23.0,50,42,TOR,LAL,3,home,LU,block,2,miss2,0,B. Biyombo,L. Nance
+212,2,1:22.0,50,42,TOR,LAL,1,away,DefReb,,,DefReb,,L. Williams,
+213,2,1:10.0,50,42,TOR,LAL,12,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Hibbert,B. Biyombo
+214,2,1:10.0,50,42,TOR,LAL,0,away,OffensiveFoul,,,turnover,,R. Hibbert,
+215,2,0:57.0,52,42,TOR,LAL,13,home,LU,,0,make2,2,K. Lowry,
+216,2,0:37.0,52,42,TOR,LAL,20,away,JS,block,6,miss2,0,J. Clarkson,B. Biyombo
+217,2,0:35.0,52,42,TOR,LAL,2,home,DefReb,,,DefReb,,K. Lowry,
+218,2,0:27.0,52,42,TOR,LAL,8,home,JS,,25,miss3,0,K. Lowry,
+219,2,0:26.0,52,42,TOR,LAL,1,away,DefReb,,,DefReb,,R. Hibbert,
+220,2,0:00.0,52,42,TOR,LAL,26,away,JS,,26,miss3,0,J. Clarkson,
+221,2,0:00.0,52,42,TOR,LAL,0,home,DefReb,,,DefReb,,B. Biyombo,
+222,3,11:39.0,52,42,TOR,LAL,21,away,HS,,11,miss2,0,R. Hibbert,
+223,3,11:38.0,52,42,TOR,LAL,1,home,DefReb,,,DefReb,,K. Lowry,
+224,3,11:30.0,52,42,TOR,LAL,8,home,JS,block,3,miss2,0,B. Biyombo,L. Nance
+225,3,11:29.0,52,42,TOR,LAL,1,away,DefReb,,,DefReb,,K. Bryant,
+226,3,11:22.0,52,42,TOR,LAL,7,away,JS,,25,miss3,0,K. Bryant,
+227,3,11:21.0,52,42,TOR,LAL,1,away,OffReb,,,OffReb,,L. Nance,
+228,3,11:18.0,52,44,TOR,LAL,3,away,LU,,1,make2,2,L. Nance,
+229,3,10:56.0,52,44,TOR,LAL,22,home,LU,,2,miss2,0,K. Lowry,
+230,3,10:56.0,52,44,TOR,LAL,0,home,OffReb,,,OffReb,,K. Lowry,
+231,3,10:39.0,54,44,TOR,LAL,17,home,LU,assist,0,make2,2,K. Lowry,D. DeRozan
+232,3,10:23.0,54,47,TOR,LAL,16,away,JS,assist,23,make3,3,L. Williams,R. Hibbert
+233,3,10:13.0,54,47,TOR,LAL,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Nance,L. Scola
+234,3,10:06.0,54,47,TOR,LAL,7,home,BadPass,steal,,turnover,,K. Lowry,R. Hibbert
+235,3,10:00.0,54,47,TOR,LAL,6,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,B. Biyombo,L. Williams
+236,3,10:00.0,54,48,TOR,LAL,0,away,FreeThrow,,,make1,1,L. Williams,
+237,3,10:00.0,54,49,TOR,LAL,0,away,FreeThrow,,,make1,1,L. Williams,
+238,3,9:37.0,54,49,TOR,LAL,23,home,JS,,20,miss2,0,D. DeRozan,
+239,3,9:37.0,54,49,TOR,LAL,0,away,DefReb,,,DefReb,,Team,
+240,3,9:24.0,54,49,TOR,LAL,13,away,JS,,23,miss3,0,K. Bryant,
+241,3,9:24.0,54,49,TOR,LAL,0,home,DefReb,,,DefReb,,T. Ross,
+242,3,9:16.0,54,49,TOR,LAL,8,home,JS,,26,miss3,0,K. Lowry,
+243,3,9:15.0,54,49,TOR,LAL,1,away,DefReb,,,DefReb,,J. Clarkson,
+244,3,9:04.0,54,51,TOR,LAL,11,away,LU,,4,make2,2,J. Clarkson,
+245,3,8:44.0,54,51,TOR,LAL,20,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,R. Hibbert,L. Scola
+246,3,8:44.0,55,51,TOR,LAL,0,home,FreeThrow,,,make1,1,L. Scola,
+247,3,8:44.0,56,51,TOR,LAL,0,home,FreeThrow,,,make1,1,L. Scola,
+248,3,8:29.0,56,53,TOR,LAL,15,away,JS,,10,make2,2,K. Bryant,
+249,3,8:05.0,58,53,TOR,LAL,24,home,JS,,5,make2,2,D. DeRozan,
+250,3,7:52.0,58,53,TOR,LAL,13,away,JS,,21,miss2,0,K. Bryant,
+251,3,7:51.0,58,53,TOR,LAL,1,home,DefReb,,,DefReb,,K. Lowry,
+252,3,7:43.0,58,53,TOR,LAL,8,home,BadPass,steal,,turnover,,L. Scola,K. Bryant
+253,3,7:38.0,58,55,TOR,LAL,5,away,LU,,1,make2,2,K. Bryant,
+254,3,7:31.0,58,55,TOR,LAL,7,home,JS,,4,miss2,0,K. Lowry,
+255,3,7:30.0,58,55,TOR,LAL,1,away,DefReb,,,DefReb,,L. Williams,
+256,3,7:26.0,58,55,TOR,LAL,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Scola,K. Bryant
+257,3,7:26.0,58,56,TOR,LAL,0,away,FreeThrow,,,make1,1,K. Bryant,
+258,3,7:26.0,58,57,TOR,LAL,0,away,FreeThrow,,,make1,1,K. Bryant,
+259,3,7:21.0,58,57,TOR,LAL,5,home,Timeout,,,,,,
+260,3,7:21.0,58,57,TOR,LAL,0,home,Sub,,,,,C. Joseph,T. Ross
+261,3,7:21.0,58,57,TOR,LAL,0,home,Sub,,,,,P. Patterson,L. Scola
+262,3,7:05.0,60,57,TOR,LAL,16,home,DK,,0,make2,2,D. DeRozan,
+263,3,6:46.0,60,59,TOR,LAL,19,away,LU,assist,0,make2,2,L. Williams,R. Hibbert
+264,3,6:21.0,60,59,TOR,LAL,25,home,ShotClockViolation,,,turnover,,Team,
+265,3,6:10.0,60,59,TOR,LAL,11,away,BadPass,,,turnover,,K. Bryant,
+266,3,6:10.0,60,59,TOR,LAL,0,away,KickBallViolation,,,KickBallViolation,,L. Williams,
+267,3,5:56.0,60,59,TOR,LAL,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Clarkson,B. Biyombo
+268,3,5:56.0,61,59,TOR,LAL,0,home,FreeThrow,,,make1,1,B. Biyombo,
+269,3,5:56.0,62,59,TOR,LAL,0,home,FreeThrow,,,make1,1,B. Biyombo,
+270,3,5:37.0,62,59,TOR,LAL,19,away,JS,,25,miss3,0,L. Williams,
+271,3,5:36.0,62,59,TOR,LAL,1,home,DefReb,,,DefReb,,B. Biyombo,
+272,3,5:22.0,64,59,TOR,LAL,14,home,LU,assist,1,make2,2,B. Biyombo,C. Joseph
+273,3,5:22.0,64,59,TOR,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,B. Biyombo
+274,3,5:22.0,65,59,TOR,LAL,0,home,FreeThrow,,,make1,1,B. Biyombo,
+275,3,4:58.0,65,59,TOR,LAL,24,away,JS,,25,miss3,0,J. Clarkson,
+276,3,4:58.0,65,59,TOR,LAL,0,home,DefReb,,,DefReb,,K. Lowry,
+277,3,4:50.0,65,59,TOR,LAL,8,home,BadPass,,,turnover,,K. Lowry,
+278,3,4:40.0,65,59,TOR,LAL,10,home,KickBallViolation,,,KickBallViolation,,B. Biyombo,
+279,3,4:32.0,65,59,TOR,LAL,8,away,JS,,15,miss2,0,J. Clarkson,
+280,3,4:32.0,65,59,TOR,LAL,0,away,OffReb,,,OffReb,,J. Clarkson,
+281,3,4:30.0,65,59,TOR,LAL,2,away,LU,,1,miss2,0,J. Clarkson,
+282,3,4:29.0,65,59,TOR,LAL,1,home,DefReb,,,DefReb,,B. Biyombo,
+283,3,4:22.0,67,59,TOR,LAL,7,home,LU,,1,make2,2,C. Joseph,
+284,3,4:22.0,67,59,TOR,LAL,0,away,Timeout,,,,,,
+285,3,4:22.0,67,59,TOR,LAL,0,away,Sub,,,,,D. Russell,L. Williams
+286,3,4:22.0,67,59,TOR,LAL,0,home,Sub,,,,,T. Ross,B. Biyombo
+287,3,4:22.0,67,59,TOR,LAL,0,home,Sub,,,,,J. Johnson,D. DeRozan
+288,3,4:04.0,67,59,TOR,LAL,18,away,BadPass,steal,,turnover,,D. Russell,J. Johnson
+289,3,3:45.0,67,59,TOR,LAL,19,home,JS,,26,miss3,0,C. Joseph,
+290,3,3:44.0,67,59,TOR,LAL,1,away,DefReb,,,DefReb,,R. Hibbert,
+291,3,3:33.0,67,61,TOR,LAL,11,away,LU,assist,2,make2,2,J. Clarkson,R. Hibbert
+292,3,3:09.0,67,61,TOR,LAL,24,home,JS,,14,miss2,0,J. Johnson,
+293,3,3:08.0,67,61,TOR,LAL,1,away,DefReb,,,DefReb,,L. Nance,
+294,3,2:59.0,67,61,TOR,LAL,9,away,BadPass,steal,,turnover,,K. Bryant,P. Patterson
+295,3,2:51.0,67,61,TOR,LAL,8,home,JS,,25,miss3,0,P. Patterson,
+296,3,2:50.0,67,61,TOR,LAL,1,away,DefReb,,,DefReb,,K. Bryant,
+297,3,2:38.0,67,61,TOR,LAL,12,away,Traveling,,,turnover,,R. Hibbert,
+298,3,2:38.0,67,61,TOR,LAL,0,away,Sub,,,,,J. Randle,K. Bryant
+299,3,2:38.0,67,61,TOR,LAL,0,away,Sub,,,,,R. Sacre,L. Nance
+300,3,2:38.0,67,61,TOR,LAL,0,away,Sub,,,,,M. World Peace,R. Hibbert
+301,3,2:17.0,69,61,TOR,LAL,21,home,JS,,2,make2,2,K. Lowry,
+302,3,1:56.0,69,64,TOR,LAL,21,away,JS,assist,25,make3,3,M. World Peace,R. Sacre
+303,3,1:33.0,71,64,TOR,LAL,23,home,LU,,3,make2,2,C. Joseph,
+304,3,1:16.0,71,64,TOR,LAL,17,away,LU,,0,miss2,0,J. Randle,
+305,3,1:15.0,71,64,TOR,LAL,1,away,OffReb,,,OffReb,,J. Randle,
+306,3,1:14.0,71,66,TOR,LAL,1,away,LU,,0,make2,2,J. Randle,
+307,3,1:14.0,71,66,TOR,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Patterson,J. Randle
+308,3,1:14.0,71,66,TOR,LAL,0,away,Sub,,,,,M. Huertas,J. Clarkson
+309,3,1:14.0,71,67,TOR,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
+310,3,1:01.0,71,67,TOR,LAL,13,home,JS,,25,miss3,0,K. Lowry,
+311,3,1:00.0,71,67,TOR,LAL,1,away,DefReb,,,DefReb,,J. Randle,
+312,3,0:52.0,71,69,TOR,LAL,8,away,JS,,7,make2,2,D. Russell,
+313,3,0:40.0,71,69,TOR,LAL,12,home,JS,,25,miss3,0,K. Lowry,
+314,3,0:39.0,71,69,TOR,LAL,1,away,DefReb,,,DefReb,,M. Huertas,
+315,3,0:36.0,71,71,TOR,LAL,3,away,LU,assist,2,make2,2,D. Russell,M. Huertas
+316,3,0:18.0,71,71,TOR,LAL,18,home,JS,,14,miss2,0,C. Joseph,
+317,3,0:18.0,71,71,TOR,LAL,0,away,DefReb,,,DefReb,,M. World Peace,
+318,3,0:03.0,71,71,TOR,LAL,15,away,OffGoaltending,,,turnover,,R. Sacre,
+319,4,11:40.0,71,71,TOR,LAL,20,home,JS,,23,miss2,0,D. DeRozan,
+320,4,11:40.0,71,71,TOR,LAL,0,away,DefReb,,,DefReb,,D. Russell,
+321,4,11:26.0,71,71,TOR,LAL,14,away,JS,,25,miss3,0,D. Russell,
+322,4,11:25.0,71,71,TOR,LAL,1,home,DefReb,,,DefReb,,C. Joseph,
+323,4,11:04.0,71,71,TOR,LAL,21,home,JS,,17,miss2,0,C. Joseph,
+324,4,11:04.0,71,71,TOR,LAL,0,away,DefReb,,,DefReb,,M. World Peace,
+325,4,10:44.0,71,71,TOR,LAL,20,away,JS,,9,miss2,0,D. Russell,
+326,4,10:43.0,71,71,TOR,LAL,1,home,DefReb,,,DefReb,,P. Patterson,
+327,4,10:28.0,73,71,TOR,LAL,15,home,JS,assist,2,make2,2,J. Johnson,P. Patterson
+328,4,10:14.0,73,71,TOR,LAL,14,away,LU,,1,miss2,0,J. Randle,
+329,4,10:13.0,73,71,TOR,LAL,1,away,OffReb,,,OffReb,,J. Randle,
+330,4,10:12.0,73,71,TOR,LAL,1,away,LU,,1,miss2,0,J. Randle,
+331,4,10:10.0,73,71,TOR,LAL,2,away,OffReb,,,OffReb,,J. Randle,
+332,4,10:10.0,73,71,TOR,LAL,0,away,3sec,,,turnover,,J. Randle,
+333,4,10:00.0,75,71,TOR,LAL,10,home,LU,,3,make2,2,D. DeRozan,
+334,4,10:00.0,75,71,TOR,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Sacre,D. DeRozan
+335,4,10:00.0,76,71,TOR,LAL,0,home,FreeThrow,,,make1,1,D. DeRozan,
+336,4,9:51.0,76,73,TOR,LAL,9,away,LU,,2,make2,2,D. Russell,
+337,4,9:35.0,76,73,TOR,LAL,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Sacre,D. DeRozan
+338,4,9:30.0,76,73,TOR,LAL,5,home,JS,,24,miss3,0,D. DeRozan,
+339,4,9:28.0,76,73,TOR,LAL,2,away,DefReb,,,DefReb,,Team,
+340,4,9:18.0,76,73,TOR,LAL,10,away,JS,,15,miss2,0,D. Russell,
+341,4,9:18.0,76,73,TOR,LAL,0,home,DefReb,,,DefReb,,Team,
+342,4,8:52.0,76,73,TOR,LAL,26,home,JS,,20,miss2,0,P. Patterson,
+343,4,8:52.0,76,73,TOR,LAL,0,away,DefReb,,,DefReb,,J. Randle,
+344,4,8:33.0,76,73,TOR,LAL,19,away,JS,,24,miss3,0,D. Russell,
+345,4,8:33.0,76,73,TOR,LAL,0,away,OffReb,,,OffReb,,J. Randle,
+346,4,8:29.0,76,75,TOR,LAL,4,away,LU,,0,make2,2,J. Randle,
+347,4,8:01.0,76,75,TOR,LAL,28,home,JS,,19,miss2,0,D. DeRozan,
+348,4,8:01.0,76,75,TOR,LAL,0,home,OffReb,,,OffReb,,C. Joseph,
+349,4,7:46.0,78,75,TOR,LAL,15,home,JS,,8,make2,2,P. Patterson,
+350,4,7:25.0,78,78,TOR,LAL,21,away,JS,assist,25,make3,3,D. Russell,R. Sacre
+351,4,7:06.0,78,78,TOR,LAL,19,home,BadPass,steal,,turnover,,D. DeRozan,M. Huertas
+352,4,6:59.0,78,78,TOR,LAL,7,away,LostBall,steal,,turnover,,M. Huertas,T. Ross
+353,4,6:55.0,80,78,TOR,LAL,4,home,DK,assist,0,make2,2,T. Ross,D. DeRozan
+354,4,6:54.0,80,78,TOR,LAL,1,away,Timeout,,,,,,
+355,4,6:54.0,80,78,TOR,LAL,0,home,Sub,,,,,K. Lowry,D. DeRozan
+356,4,6:54.0,80,78,TOR,LAL,0,home,Sub,,,,,B. Biyombo,J. Johnson
+357,4,6:54.0,80,78,TOR,LAL,0,away,Sub,,,,,K. Bryant,M. World Peace
+358,4,6:54.0,80,78,TOR,LAL,0,away,Sub,,,,,L. Williams,M. Huertas
+359,4,6:47.0,80,78,TOR,LAL,7,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Sacre,K. Lowry
+360,4,6:47.0,80,78,TOR,LAL,0,away,OffensiveFoul,,,turnover,,R. Sacre,
+361,4,6:33.0,83,78,TOR,LAL,14,home,JS,assist,23,make3,3,T. Ross,K. Lowry
+362,4,6:16.0,83,80,TOR,LAL,17,away,JS,assist,18,make2,2,K. Bryant,D. Russell
+363,4,5:55.0,85,80,TOR,LAL,21,home,JS,assist,19,make2,2,T. Ross,K. Lowry
+364,4,5:40.0,85,83,TOR,LAL,15,away,JS,assist,23,make3,3,K. Bryant,D. Russell
+365,4,5:24.0,85,83,TOR,LAL,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Bryant,T. Ross
+366,4,5:24.0,85,83,TOR,LAL,0,away,Timeout,,,,,,
+367,4,5:24.0,85,83,TOR,LAL,0,away,Sub,,,,,R. Hibbert,R. Sacre
+368,4,5:13.0,85,83,TOR,LAL,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hibbert,C. Joseph
+369,4,5:13.0,86,83,TOR,LAL,0,home,FreeThrow,,,make1,1,C. Joseph,
+370,4,5:13.0,87,83,TOR,LAL,0,home,FreeThrow,,,make1,1,C. Joseph,
+371,4,5:04.0,87,83,TOR,LAL,9,away,PersonalFoul,,,,,B. Biyombo,
+372,4,5:04.0,87,83,TOR,LAL,0,away,Sub,,,,,J. Clarkson,D. Russell
+373,4,4:56.0,87,85,TOR,LAL,8,away,JS,,18,make2,2,K. Bryant,
+374,4,4:37.0,89,85,TOR,LAL,19,home,JS,,20,make2,2,T. Ross,
+375,4,4:06.0,89,85,TOR,LAL,31,away,LU,,3,miss2,0,L. Williams,
+376,4,4:05.0,89,85,TOR,LAL,1,home,DefReb,,,DefReb,,B. Biyombo,
+377,4,4:00.0,89,85,TOR,LAL,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Clarkson,K. Lowry
+378,4,4:00.0,90,85,TOR,LAL,0,home,FreeThrow,,,make1,1,K. Lowry,
+379,4,4:00.0,90,85,TOR,LAL,0,away,Sub,,,,,L. Nance,J. Randle
+380,4,4:00.0,91,85,TOR,LAL,0,home,FreeThrow,,,make1,1,K. Lowry,
+381,4,3:43.0,91,85,TOR,LAL,17,away,JS,,28,miss3,0,K. Bryant,
+382,4,3:43.0,91,85,TOR,LAL,0,home,DefReb,,,DefReb,,Team,
+383,4,3:43.0,91,85,TOR,LAL,0,home,Sub,,,,,D. DeRozan,P. Patterson
+384,4,3:28.0,91,85,TOR,LAL,15,home,PersonalFoul,,,,,L. Williams,
+385,4,3:28.0,92,85,TOR,LAL,0,home,FreeThrow,,,make1,1,D. DeRozan,
+386,4,3:28.0,92,85,TOR,LAL,0,home,FreeThrow,,,make1,0,D. DeRozan,
+387,4,3:27.0,92,85,TOR,LAL,1,away,DefReb,,,DefReb,,L. Nance,
+388,4,3:12.0,92,85,TOR,LAL,15,away,JS,,18,miss2,0,K. Bryant,
+389,4,3:12.0,92,85,TOR,LAL,0,home,DefReb,,,DefReb,,T. Ross,
+390,4,2:57.0,94,85,TOR,LAL,15,home,DK,assist,0,make2,2,B. Biyombo,K. Lowry
+391,4,2:56.0,94,85,TOR,LAL,1,away,Timeout,,,,,,
+392,4,2:56.0,94,85,TOR,LAL,0,home,Timeout,,,,,,
+393,4,2:49.0,94,85,TOR,LAL,7,away,JS,,19,miss2,0,J. Clarkson,
+394,4,2:48.0,94,85,TOR,LAL,1,home,DefReb,,,DefReb,,T. Ross,
+395,4,2:33.0,96,85,TOR,LAL,15,home,JS,,17,make2,2,K. Lowry,
+396,4,2:21.0,96,85,TOR,LAL,12,away,JS,,2,miss2,0,L. Williams,
+397,4,2:21.0,96,85,TOR,LAL,0,home,DefReb,,,DefReb,,D. DeRozan,
+398,4,2:02.0,98,85,TOR,LAL,19,home,JS,,13,make2,2,D. DeRozan,
+399,4,1:49.0,98,88,TOR,LAL,13,away,JS,assist,26,make3,3,J. Clarkson,K. Bryant
+400,4,1:26.0,98,88,TOR,LAL,23,home,JS,,6,miss2,0,K. Lowry,
+401,4,1:25.0,98,88,TOR,LAL,1,home,OffReb,,,OffReb,,B. Biyombo,
+402,4,1:24.0,98,88,TOR,LAL,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,B. Biyombo
+403,4,1:24.0,98,88,TOR,LAL,0,home,FreeThrow,,,make1,0,B. Biyombo,
+404,4,1:24.0,98,88,TOR,LAL,0,home,OffReb,,,OffReb,,Team,
+405,4,1:24.0,99,88,TOR,LAL,0,home,FreeThrow,,,make1,1,B. Biyombo,
+406,4,1:05.0,99,88,TOR,LAL,19,away,JS,block,7,miss2,0,J. Clarkson,B. Biyombo
+407,4,1:04.0,99,88,TOR,LAL,1,away,OffReb,,,OffReb,,J. Clarkson,
+408,4,1:01.0,99,91,TOR,LAL,3,away,JS,assist,22,make3,3,L. Williams,J. Clarkson
+409,4,0:43.0,99,91,TOR,LAL,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Williams,C. Joseph
+410,4,0:43.0,100,91,TOR,LAL,0,home,FreeThrow,,,make1,1,C. Joseph,
+411,4,0:43.0,101,91,TOR,LAL,0,home,FreeThrow,,,make1,1,C. Joseph,
+412,4,0:43.0,101,91,TOR,LAL,0,away,Timeout,,,,,,
+413,4,0:39.0,101,91,TOR,LAL,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Biyombo,K. Bryant
+414,4,0:39.0,101,92,TOR,LAL,0,away,FreeThrow,,,make1,1,K. Bryant,
+415,4,0:39.0,101,93,TOR,LAL,0,away,FreeThrow,,,make1,1,K. Bryant,
+416,4,0:25.0,101,93,TOR,LAL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Bryant,C. Joseph
+417,4,0:25.0,101,93,TOR,LAL,0,home,FreeThrow,,,make1,0,C. Joseph,
+418,4,0:25.0,101,93,TOR,LAL,0,home,OffReb,,,OffReb,,Team,
+419,4,0:25.0,101,93,TOR,LAL,0,away,Sub,,,,,D. Russell,K. Bryant
+420,4,0:25.0,101,93,TOR,LAL,0,home,Sub,,,,,N. Powell,K. Lowry
+421,4,0:25.0,102,93,TOR,LAL,0,home,FreeThrow,,,make1,1,C. Joseph,
+422,4,0:12.0,102,93,TOR,LAL,13,away,JS,,25,miss3,0,D. Russell,
+423,4,0:12.0,102,93,TOR,LAL,0,home,DefReb,,,DefReb,,T. Ross,

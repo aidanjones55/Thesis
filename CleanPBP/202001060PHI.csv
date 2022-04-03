@@ -1,0 +1,485 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:43.0,0,0,PHI,OKC,17,away,HS,,7,miss2,0,S. Adams,
+1,1,11:41.0,0,0,PHI,OKC,2,home,DefReb,,,DefReb,,J. Embiid,
+2,1,11:28.0,0,0,PHI,OKC,13,home,JS,,25,miss3,0,J. Embiid,
+3,1,11:25.0,0,0,PHI,OKC,3,away,DefReb,,,DefReb,,C. Paul,
+4,1,11:21.0,0,3,PHI,OKC,4,away,JS,assist,26,make3,3,T. Ferguson,C. Paul
+5,1,11:00.0,2,3,PHI,OKC,21,home,JS,assist,11,make2,2,J. Embiid,T. Harris
+6,1,10:48.0,2,5,PHI,OKC,12,away,JS,,7,make2,2,S. Gilgeous-Alexander,
+7,1,10:39.0,2,5,PHI,OKC,9,home,LU,,2,miss2,0,B. Simmons,
+8,1,10:37.0,2,5,PHI,OKC,2,away,DefReb,,,DefReb,,S. Gilgeous-Alexander,
+9,1,10:19.0,2,5,PHI,OKC,18,away,JS,,15,miss2,0,S. Gilgeous-Alexander,
+10,1,10:17.0,2,5,PHI,OKC,2,home,DefReb,,,DefReb,,T. Harris,
+11,1,10:03.0,2,5,PHI,OKC,14,home,JS,,18,miss2,0,T. Harris,
+12,1,10:00.0,2,5,PHI,OKC,3,away,DefReb,,,DefReb,,D. Gallinari,
+13,1,9:50.0,2,5,PHI,OKC,10,away,JS,,25,miss3,0,D. Gallinari,
+14,1,9:48.0,2,5,PHI,OKC,2,home,DefReb,,,DefReb,,T. Harris,
+15,1,9:40.0,2,5,PHI,OKC,8,home,JS,,25,miss3,0,J. Embiid,
+16,1,9:38.0,2,5,PHI,OKC,2,away,DefReb,,,DefReb,,C. Paul,
+17,1,9:36.0,2,5,PHI,OKC,2,away,BadPass,,,turnover,,C. Paul,
+18,1,9:19.0,4,5,PHI,OKC,17,home,HS,assist,6,make2,2,B. Simmons,J. Richardson
+19,1,9:09.0,4,5,PHI,OKC,10,away,JS,,25,miss3,0,T. Ferguson,
+20,1,9:06.0,4,5,PHI,OKC,3,home,DefReb,,,DefReb,,J. Embiid,
+21,1,8:56.0,6,5,PHI,OKC,10,home,LU,assist,2,make2,2,A. Horford,T. Harris
+22,1,8:46.0,6,7,PHI,OKC,10,away,HS,,7,make2,2,S. Gilgeous-Alexander,
+23,1,8:26.0,6,7,PHI,OKC,20,home,JS,block,7,miss2,0,J. Embiid,S. Adams
+24,1,8:23.0,6,7,PHI,OKC,3,away,DefReb,,,DefReb,,C. Paul,
+25,1,8:15.0,6,9,PHI,OKC,8,away,HS,,7,make2,2,S. Adams,
+26,1,8:02.0,8,9,PHI,OKC,13,home,LU,assist,1,make2,2,J. Richardson,B. Simmons
+27,1,7:45.0,8,9,PHI,OKC,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Embiid,S. Adams
+28,1,7:45.0,8,10,PHI,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+29,1,7:45.0,8,10,PHI,OKC,0,away,FreeThrow,,,make1,0,S. Adams,
+30,1,7:43.0,8,10,PHI,OKC,2,home,DefReb,,,DefReb,,B. Simmons,
+31,1,7:30.0,10,10,PHI,OKC,13,home,JS,,8,make2,2,J. Richardson,
+32,1,7:08.0,10,10,PHI,OKC,22,away,JS,,26,miss3,0,S. Gilgeous-Alexander,
+33,1,7:07.0,10,10,PHI,OKC,1,home,DefReb,,,DefReb,,Team,
+34,1,6:52.0,10,10,PHI,OKC,15,home,lost ball,steal,,turnover,,J. Embiid,C. Paul
+35,1,6:47.0,10,13,PHI,OKC,5,away,JS,,25,make3,3,C. Paul,
+36,1,6:30.0,10,13,PHI,OKC,17,home,HS,,8,miss2,0,J. Richardson,
+37,1,6:28.0,10,13,PHI,OKC,2,away,DefReb,,,DefReb,,S. Adams,
+38,1,6:24.0,10,16,PHI,OKC,4,away,JS,,25,make3,3,C. Paul,
+39,1,6:06.0,13,16,PHI,OKC,18,home,JS,assist,25,make3,3,T. Harris,A. Horford
+40,1,5:45.0,13,16,PHI,OKC,21,away,JS,,26,miss3,0,C. Paul,
+41,1,5:42.0,13,16,PHI,OKC,3,away,OffReb,,,OffReb,,S. Gilgeous-Alexander,
+42,1,5:39.0,13,16,PHI,OKC,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Richardson,S. Gilgeous-Alexander
+43,1,5:39.0,13,16,PHI,OKC,0,home,Timeout,,,,,,
+44,1,5:39.0,13,16,PHI,OKC,0,away,Sub,,,,,M. Muscala,S. Adams
+45,1,5:39.0,13,16,PHI,OKC,0,home,Sub,,,,,F. Korkmaz,J. Embiid
+46,1,5:26.0,13,16,PHI,OKC,13,away,OutOfBoundsLB,,,turnover,,C. Paul,
+47,1,5:26.0,13,16,PHI,OKC,0,away,Sub,,,,,D. Schröder,C. Paul
+48,1,5:10.0,13,16,PHI,OKC,16,home,LU,,2,miss2,0,F. Korkmaz,
+49,1,5:07.0,13,16,PHI,OKC,3,away,DefReb,,,DefReb,,D. Gallinari,
+50,1,5:00.0,13,16,PHI,OKC,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,F. Korkmaz,D. Schröder
+51,1,5:00.0,13,17,PHI,OKC,0,away,FreeThrow,,,make1,1,D. Schröder,
+52,1,5:00.0,13,17,PHI,OKC,0,home,Sub,,,,,J. Ennis,J. Richardson
+53,1,5:00.0,13,18,PHI,OKC,0,away,FreeThrow,,,make1,1,D. Schröder,
+54,1,4:48.0,13,18,PHI,OKC,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ferguson,F. Korkmaz
+55,1,4:35.0,16,18,PHI,OKC,13,home,JS,assist,26,make3,3,T. Harris,B. Simmons
+56,1,4:22.0,16,20,PHI,OKC,13,away,JS,assist,3,make2,2,D. Gallinari,M. Muscala
+57,1,4:16.0,19,20,PHI,OKC,6,home,JS,assist,25,make3,3,J. Ennis,B. Simmons
+58,1,3:54.0,19,20,PHI,OKC,22,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Harris,S. Gilgeous-Alexander
+59,1,3:54.0,19,20,PHI,OKC,0,away,Sub,,,,,D. Bazley,D. Gallinari
+60,1,3:47.0,19,20,PHI,OKC,7,away,LU,,3,miss2,0,D. Schröder,
+61,1,3:45.0,19,20,PHI,OKC,2,home,DefReb,,,DefReb,,A. Horford,
+62,1,3:37.0,19,20,PHI,OKC,8,home,BadPass,,,turnover,,B. Simmons,
+63,1,3:37.0,19,20,PHI,OKC,0,away,Timeout,,,,,,
+64,1,3:37.0,19,20,PHI,OKC,0,away,Sub,,,,,H. Diallo,T. Ferguson
+65,1,3:25.0,19,22,PHI,OKC,12,away,HS,assist,4,make2,2,H. Diallo,D. Schröder
+66,1,3:11.0,22,22,PHI,OKC,14,home,JS,assist,25,make3,3,T. Harris,B. Simmons
+67,1,2:55.0,22,25,PHI,OKC,16,away,JS,assist,25,make3,3,M. Muscala,D. Schröder
+68,1,2:43.0,22,25,PHI,OKC,12,home,LU,,2,miss2,0,B. Simmons,
+69,1,2:40.0,22,25,PHI,OKC,3,away,DefReb,,,DefReb,,H. Diallo,
+70,1,2:40.0,22,25,PHI,OKC,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,H. Diallo,B. Simmons
+71,1,2:40.0,22,25,PHI,OKC,0,away,OffensiveFoul,,,turnover,,H. Diallo,
+72,1,2:31.0,22,25,PHI,OKC,9,home,JS,,19,miss2,0,A. Horford,
+73,1,2:30.0,22,25,PHI,OKC,1,home,OffReb,,,OffReb,,Team,
+74,1,2:30.0,22,25,PHI,OKC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Gilgeous-Alexander,J. Ennis
+75,1,2:30.0,22,25,PHI,OKC,0,away,Sub,,,,,S. Adams,M. Muscala
+76,1,2:30.0,22,25,PHI,OKC,0,home,Sub,,,,,J. Embiid,T. Harris
+77,1,2:30.0,22,25,PHI,OKC,0,home,Sub,,,,,M. Scott,A. Horford
+78,1,2:22.0,22,25,PHI,OKC,8,home,JS,,7,miss2,0,J. Embiid,
+79,1,2:17.0,22,25,PHI,OKC,5,home,OffReb,,,OffReb,,B. Simmons,
+80,1,2:17.0,22,25,PHI,OKC,0,home,LU,,0,miss2,0,B. Simmons,
+81,1,2:15.0,22,25,PHI,OKC,2,home,OffReb,,,OffReb,,B. Simmons,
+82,1,2:15.0,24,25,PHI,OKC,0,home,LU,,0,make2,2,B. Simmons,
+83,1,2:04.0,24,27,PHI,OKC,11,away,JS,,15,make2,2,D. Schröder,
+84,1,1:53.0,26,27,PHI,OKC,11,home,JS,assist,11,make2,2,F. Korkmaz,J. Embiid
+85,1,1:53.0,26,27,PHI,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Schröder,F. Korkmaz
+86,1,1:53.0,26,27,PHI,OKC,0,home,Sub,,,,,J. Richardson,J. Ennis
+87,1,1:53.0,27,27,PHI,OKC,0,home,FreeThrow,,,make1,1,F. Korkmaz,
+88,1,1:34.0,27,27,PHI,OKC,19,away,JS,,10,miss2,0,D. Bazley,
+89,1,1:29.0,27,27,PHI,OKC,5,away,OffReb,,,OffReb,,S. Adams,
+90,1,1:29.0,27,27,PHI,OKC,0,away,DK,,1,miss2,0,S. Adams,
+91,1,1:29.0,27,27,PHI,OKC,0,away,OffReb,,,OffReb,,S. Adams,
+92,1,1:28.0,27,29,PHI,OKC,1,away,DK,,3,make2,2,S. Adams,
+93,1,1:26.0,27,29,PHI,OKC,2,home,Timeout,,,,,,
+94,1,1:26.0,27,29,PHI,OKC,0,home,Sub,,,,,A. Horford,J. Embiid
+95,1,1:26.0,27,29,PHI,OKC,0,home,DelayOfGame,,,DelayOfGame,,Team,
+96,1,1:18.0,27,29,PHI,OKC,8,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Simmons,H. Diallo
+97,1,1:18.0,27,29,PHI,OKC,0,home,OffensiveFoul,,,turnover,,B. Simmons,
+98,1,1:18.0,27,29,PHI,OKC,0,away,Sub,,,,,C. Paul,S. Gilgeous-Alexander
+99,1,1:18.0,27,29,PHI,OKC,0,home,Sub,,,,,T. Burke,B. Simmons
+100,1,1:06.0,27,29,PHI,OKC,12,away,LU,,2,miss2,0,H. Diallo,
+101,1,1:04.0,27,29,PHI,OKC,2,home,DefReb,,,DefReb,,F. Korkmaz,
+102,1,0:55.0,29,29,PHI,OKC,9,home,HS,assist,4,make2,2,A. Horford,F. Korkmaz
+103,1,0:36.0,29,31,PHI,OKC,19,away,JS,,17,make2,2,D. Schröder,
+104,1,0:15.0,31,31,PHI,OKC,21,home,LU,,2,make2,2,T. Burke,
+105,1,0:00.0,31,31,PHI,OKC,15,away,JS,,27,miss3,0,C. Paul,
+106,1,0:00.0,31,31,PHI,OKC,0,away,OffReb,,,OffReb,,Team,
+107,2,11:36.0,31,31,PHI,OKC,24,home,LU,,2,miss2,0,J. Ennis,
+108,2,11:35.0,31,31,PHI,OKC,1,home,OffReb,,,OffReb,,J. Embiid,
+109,2,11:33.0,31,31,PHI,OKC,2,home,JS,,26,miss3,0,M. Scott,
+110,2,11:33.0,31,31,PHI,OKC,0,away,DefReb,,,DefReb,,S. Adams,
+111,2,11:15.0,31,31,PHI,OKC,18,away,lost ball,steal,,turnover,,D. Schröder,J. Ennis
+112,2,11:09.0,31,31,PHI,OKC,6,home,JS,,27,miss3,0,J. Ennis,
+113,2,11:03.0,31,31,PHI,OKC,6,away,DefReb,,,DefReb,,D. Bazley,
+114,2,11:00.0,31,31,PHI,OKC,3,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Bazley,J. Ennis
+115,2,11:00.0,31,31,PHI,OKC,0,away,OffensiveFoul,,,turnover,,D. Bazley,
+116,2,10:48.0,34,31,PHI,OKC,12,home,JS,assist,26,make3,3,T. Burke,J. Richardson
+117,2,10:29.0,34,31,PHI,OKC,19,away,bad pass,steal,,turnover,,D. Bazley,J. Richardson
+118,2,10:24.0,34,31,PHI,OKC,5,home,LU,block,2,miss2,0,J. Ennis,H. Diallo
+119,2,10:22.0,34,31,PHI,OKC,2,away,DefReb,,,DefReb,,S. Adams,
+120,2,10:15.0,34,31,PHI,OKC,7,away,JS,,9,miss2,0,H. Diallo,
+121,2,10:12.0,34,31,PHI,OKC,3,away,OffReb,,,OffReb,,S. Adams,
+122,2,10:12.0,34,31,PHI,OKC,0,away,Timeout,,,,,,
+123,2,10:04.0,34,33,PHI,OKC,8,away,DK,assist,2,make2,2,H. Diallo,C. Paul
+124,2,9:49.0,34,33,PHI,OKC,15,home,JS,,22,miss2,0,J. Richardson,
+125,2,9:45.0,34,33,PHI,OKC,4,away,DefReb,,,DefReb,,C. Paul,
+126,2,9:39.0,34,36,PHI,OKC,6,away,JS,assist,23,make3,3,D. Bazley,S. Adams
+127,2,9:18.0,36,36,PHI,OKC,21,home,JS,,11,make2,2,J. Embiid,
+128,2,9:02.0,36,36,PHI,OKC,16,away,LU,,5,miss2,0,H. Diallo,
+129,2,9:01.0,36,36,PHI,OKC,1,away,OffReb,,,OffReb,,S. Adams,
+130,2,8:58.0,36,38,PHI,OKC,3,away,LU,,2,make2,2,S. Adams,
+131,2,8:48.0,38,38,PHI,OKC,10,home,JS,,6,make2,2,J. Richardson,
+132,2,8:43.0,38,40,PHI,OKC,5,away,LU,assist,2,make2,2,S. Adams,C. Paul
+133,2,8:43.0,38,40,PHI,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Richardson,S. Adams
+134,2,8:43.0,38,40,PHI,OKC,0,home,Sub,,,,,A. Horford,T. Burke
+135,2,8:43.0,38,40,PHI,OKC,0,home,Sub,,,,,B. Simmons,M. Scott
+136,2,8:43.0,38,41,PHI,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+137,2,8:37.0,38,41,PHI,OKC,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Schröder,J. Richardson
+138,2,8:24.0,38,41,PHI,OKC,13,home,HS,,7,miss2,0,J. Embiid,
+139,2,8:20.0,38,41,PHI,OKC,4,away,DefReb,,,DefReb,,S. Adams,
+140,2,8:04.0,38,41,PHI,OKC,16,away,JS,,11,miss2,0,C. Paul,
+141,2,8:00.0,38,41,PHI,OKC,4,away,OffReb,,,OffReb,,C. Paul,
+142,2,7:55.0,38,41,PHI,OKC,5,away,HS,,3,miss2,0,D. Bazley,
+143,2,7:52.0,38,41,PHI,OKC,3,home,DefReb,,,DefReb,,J. Embiid,
+144,2,7:44.0,38,41,PHI,OKC,8,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Embiid,S. Adams
+145,2,7:44.0,38,41,PHI,OKC,0,home,OffensiveFoul,,,turnover,,J. Embiid,
+146,2,7:44.0,38,41,PHI,OKC,0,away,Sub,,,,,D. Gallinari,S. Adams
+147,2,7:44.0,38,41,PHI,OKC,0,away,Sub,,,,,S. Gilgeous-Alexander,D. Bazley
+148,2,7:44.0,38,41,PHI,OKC,0,away,Sub,,,,,M. Muscala,C. Paul
+149,2,7:44.0,38,41,PHI,OKC,0,home,Sub,,,,,T. Harris,J. Embiid
+150,2,7:44.0,38,41,PHI,OKC,0,home,Sub,,,,,F. Korkmaz,J. Richardson
+151,2,7:33.0,38,41,PHI,OKC,11,away,JS,,9,miss2,0,D. Schröder,
+152,2,7:31.0,38,41,PHI,OKC,2,home,DefReb,,,DefReb,,A. Horford,
+153,2,7:26.0,38,41,PHI,OKC,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Muscala,B. Simmons
+154,2,7:26.0,39,41,PHI,OKC,0,home,FreeThrow,,,make1,1,B. Simmons,
+155,2,7:26.0,39,41,PHI,OKC,0,home,FreeThrow,,,make1,0,B. Simmons,
+156,2,7:24.0,39,41,PHI,OKC,2,away,DefReb,,,DefReb,,S. Gilgeous-Alexander,
+157,2,7:01.0,39,41,PHI,OKC,23,away,LU,,3,miss2,0,S. Gilgeous-Alexander,
+158,2,6:59.0,39,41,PHI,OKC,2,home,DefReb,,,DefReb,,B. Simmons,
+159,2,6:56.0,39,41,PHI,OKC,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Muscala,B. Simmons
+160,2,6:56.0,40,41,PHI,OKC,0,home,FreeThrow,,,make1,1,B. Simmons,
+161,2,6:56.0,40,41,PHI,OKC,0,away,Sub,,,,,T. Ferguson,H. Diallo
+162,2,6:56.0,41,41,PHI,OKC,0,home,FreeThrow,,,make1,1,B. Simmons,
+163,2,6:40.0,41,43,PHI,OKC,16,away,LU,,0,make2,2,D. Schröder,
+164,2,6:40.0,41,43,PHI,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,F. Korkmaz,D. Schröder
+165,2,6:40.0,41,44,PHI,OKC,0,away,FreeThrow,,,make1,1,D. Schröder,
+166,2,6:30.0,41,44,PHI,OKC,10,home,JS,,26,miss3,0,F. Korkmaz,
+167,2,6:26.0,41,44,PHI,OKC,4,away,DefReb,,,DefReb,,D. Gallinari,
+168,2,6:06.0,41,44,PHI,OKC,20,away,JS,,26,miss3,0,M. Muscala,
+169,2,6:04.0,41,44,PHI,OKC,2,home,DefReb,,,DefReb,,B. Simmons,
+170,2,5:57.0,41,44,PHI,OKC,7,home,JS,,13,miss2,0,A. Horford,
+171,2,5:55.0,41,44,PHI,OKC,2,away,DefReb,,,DefReb,,D. Gallinari,
+172,2,5:48.0,41,44,PHI,OKC,7,away,JS,,26,miss3,0,T. Ferguson,
+173,2,5:45.0,41,44,PHI,OKC,3,home,DefReb,,,DefReb,,B. Simmons,
+174,2,5:36.0,41,44,PHI,OKC,9,home,bad pass,steal,,turnover,,J. Ennis,T. Ferguson
+175,2,5:28.0,41,44,PHI,OKC,8,away,JS,,25,miss3,0,D. Schröder,
+176,2,5:26.0,41,44,PHI,OKC,2,home,DefReb,,,DefReb,,B. Simmons,
+177,2,5:09.0,43,44,PHI,OKC,17,home,LU,assist,2,make2,2,J. Ennis,T. Harris
+178,2,4:50.0,43,44,PHI,OKC,19,away,JS,,25,miss3,0,D. Gallinari,
+179,2,4:47.0,43,44,PHI,OKC,3,home,DefReb,,,DefReb,,B. Simmons,
+180,2,4:40.0,46,44,PHI,OKC,7,home,JS,assist,25,make3,3,F. Korkmaz,A. Horford
+181,2,4:17.0,46,46,PHI,OKC,23,away,LU,,2,make2,2,D. Schröder,
+182,2,3:58.0,46,46,PHI,OKC,19,home,JS,,25,miss3,0,T. Harris,
+183,2,3:56.0,46,46,PHI,OKC,2,away,DefReb,,,DefReb,,D. Gallinari,
+184,2,3:51.0,46,46,PHI,OKC,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,S. Gilgeous-Alexander
+185,2,3:51.0,46,46,PHI,OKC,0,away,FreeThrow,,,make1,0,S. Gilgeous-Alexander,
+186,2,3:51.0,46,46,PHI,OKC,0,away,OffReb,,,OffReb,,Team,
+187,2,3:51.0,46,46,PHI,OKC,0,away,Sub,,,,,C. Paul,D. Schröder
+188,2,3:51.0,46,46,PHI,OKC,0,home,Sub,,,,,J. Richardson,J. Ennis
+189,2,3:51.0,46,47,PHI,OKC,0,away,FreeThrow,,,make1,1,S. Gilgeous-Alexander,
+190,2,3:39.0,48,47,PHI,OKC,12,home,JS,assist,15,make2,2,T. Harris,A. Horford
+191,2,3:20.0,48,47,PHI,OKC,19,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Simmons,M. Muscala
+192,2,3:10.0,48,47,PHI,OKC,10,away,LU,,6,miss2,0,D. Gallinari,
+193,2,3:08.0,48,47,PHI,OKC,2,home,DefReb,,,DefReb,,T. Harris,
+194,2,3:03.0,50,47,PHI,OKC,5,home,DK,,2,make2,2,T. Harris,
+195,2,2:48.0,50,47,PHI,OKC,15,away,LU,,2,miss2,0,S. Gilgeous-Alexander,
+196,2,2:47.0,50,47,PHI,OKC,1,away,OffReb,,,OffReb,,D. Gallinari,
+197,2,2:47.0,50,47,PHI,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,D. Gallinari
+198,2,2:47.0,50,47,PHI,OKC,0,home,Timeout,,,,,,
+199,2,2:47.0,50,48,PHI,OKC,0,away,FreeThrow,,,make1,1,D. Gallinari,
+200,2,2:47.0,50,49,PHI,OKC,0,away,FreeThrow,,,make1,1,D. Gallinari,
+201,2,2:47.0,50,49,PHI,OKC,0,away,Sub,,,,,S. Adams,T. Ferguson
+202,2,2:47.0,50,49,PHI,OKC,0,away,Sub,,,,,D. Schröder,M. Muscala
+203,2,2:47.0,50,49,PHI,OKC,0,home,Sub,,,,,J. Embiid,T. Harris
+204,2,2:47.0,50,49,PHI,OKC,0,home,Sub,,,,,J. Ennis,A. Horford
+205,2,2:47.0,50,49,PHI,OKC,0,home,Sub,,,,,M. Scott,F. Korkmaz
+206,2,2:27.0,52,49,PHI,OKC,20,home,LU,assist,1,make2,2,J. Embiid,B. Simmons
+207,2,2:02.0,52,49,PHI,OKC,25,away,JS,,26,miss3,0,S. Gilgeous-Alexander,
+208,2,2:02.0,52,49,PHI,OKC,0,away,OffReb,,,OffReb,,Team,
+209,2,2:01.0,52,49,PHI,OKC,1,away,ShotClockViolation,,,turnover,,Team,
+210,2,1:46.0,55,49,PHI,OKC,15,home,JS,assist,28,make3,3,J. Richardson,J. Embiid
+211,2,1:35.0,55,49,PHI,OKC,11,away,JS,,10,miss2,0,C. Paul,
+212,2,1:31.0,55,49,PHI,OKC,4,home,DefReb,,,DefReb,,J. Embiid,
+213,2,1:21.0,57,49,PHI,OKC,10,home,HS,assist,5,make2,2,B. Simmons,J. Embiid
+214,2,1:05.0,57,49,PHI,OKC,16,away,bad pass,steal,,turnover,,D. Schröder,B. Simmons
+215,2,1:00.0,59,49,PHI,OKC,5,home,LU,,2,make2,2,B. Simmons,
+216,2,0:51.0,59,49,PHI,OKC,9,away,lost ball,steal,,turnover,,D. Schröder,M. Scott
+217,2,0:47.0,59,49,PHI,OKC,4,home,LU,,3,miss2,0,J. Ennis,
+218,2,0:43.0,59,49,PHI,OKC,4,away,DefReb,,,DefReb,,S. Adams,
+219,2,0:33.0,59,49,PHI,OKC,10,away,LU,,4,miss2,0,S. Adams,
+220,2,0:31.0,59,49,PHI,OKC,2,away,OffReb,,,OffReb,,S. Gilgeous-Alexander,
+221,2,0:30.0,59,52,PHI,OKC,1,away,JS,assist,26,make3,3,C. Paul,S. Gilgeous-Alexander
+222,2,0:12.0,62,52,PHI,OKC,18,home,JS,,27,make3,3,J. Richardson,
+223,2,0:00.0,62,52,PHI,OKC,12,away,JS,,15,miss2,0,C. Paul,
+224,2,0:00.0,62,52,PHI,OKC,0,away,OffReb,,,OffReb,,Team,
+225,3,11:51.0,64,52,PHI,OKC,9,home,DK,assist,2,make2,2,J. Embiid,T. Harris
+226,3,11:51.0,64,52,PHI,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Paul,J. Embiid
+227,3,11:51.0,64,52,PHI,OKC,0,home,FreeThrow,,,make1,0,J. Embiid,
+228,3,11:49.0,64,52,PHI,OKC,2,away,DefReb,,,DefReb,,S. Gilgeous-Alexander,
+229,3,11:36.0,64,52,PHI,OKC,13,away,JS,,18,miss2,0,D. Gallinari,
+230,3,11:32.0,64,52,PHI,OKC,4,home,DefReb,,,DefReb,,T. Harris,
+231,3,11:27.0,64,52,PHI,OKC,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Gallinari,J. Embiid
+232,3,11:27.0,65,52,PHI,OKC,0,home,FreeThrow,,,make1,1,J. Embiid,
+233,3,11:27.0,66,52,PHI,OKC,0,home,FreeThrow,,,make1,1,J. Embiid,
+234,3,11:18.0,66,52,PHI,OKC,9,away,JS,,26,miss3,0,S. Gilgeous-Alexander,
+235,3,11:14.0,66,52,PHI,OKC,4,home,DefReb,,,DefReb,,T. Harris,
+236,3,11:10.0,66,52,PHI,OKC,4,home,LU,,1,miss2,0,B. Simmons,
+237,3,11:07.0,66,52,PHI,OKC,3,away,DefReb,,,DefReb,,D. Gallinari,
+238,3,10:54.0,66,52,PHI,OKC,13,away,LU,,2,miss2,0,D. Gallinari,
+239,3,10:50.0,66,52,PHI,OKC,4,home,DefReb,,,DefReb,,T. Harris,
+240,3,10:49.0,66,52,PHI,OKC,1,home,JS,,12,miss2,0,A. Horford,
+241,3,10:48.0,66,52,PHI,OKC,1,away,DefReb,,,DefReb,,Team,
+242,3,10:47.0,66,52,PHI,OKC,1,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,B. Simmons,S. Adams
+243,3,10:27.0,66,55,PHI,OKC,20,away,JS,assist,24,make3,3,T. Ferguson,C. Paul
+244,3,10:09.0,66,55,PHI,OKC,18,home,JS,,14,miss2,0,J. Richardson,
+245,3,10:08.0,66,55,PHI,OKC,1,home,OffReb,,,OffReb,,Team,
+246,3,10:08.0,66,55,PHI,OKC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Ferguson,J. Embiid
+247,3,9:55.0,66,55,PHI,OKC,13,home,JS,,26,miss3,0,T. Harris,
+248,3,9:52.0,66,55,PHI,OKC,3,away,DefReb,,,DefReb,,S. Gilgeous-Alexander,
+249,3,9:47.0,66,55,PHI,OKC,5,away,LU,,2,miss2,0,T. Ferguson,
+250,3,9:46.0,66,55,PHI,OKC,1,home,DefReb,,,DefReb,,J. Richardson,
+251,3,9:39.0,68,55,PHI,OKC,7,home,LU,,2,make2,2,J. Richardson,
+252,3,9:17.0,68,58,PHI,OKC,22,away,JS,,26,make3,3,D. Gallinari,
+253,3,8:57.0,71,58,PHI,OKC,20,home,JS,assist,24,make3,3,A. Horford,B. Simmons
+254,3,8:46.0,71,58,PHI,OKC,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Simmons,T. Ferguson
+255,3,8:46.0,71,58,PHI,OKC,0,away,Sub,,,,,D. Schröder,T. Ferguson
+256,3,8:46.0,71,58,PHI,OKC,0,home,Sub,,,,,J. Ennis,B. Simmons
+257,3,8:38.0,71,58,PHI,OKC,8,away,JS,,9,miss2,0,C. Paul,
+258,3,8:33.0,71,58,PHI,OKC,5,away,OffReb,,,OffReb,,D. Schröder,
+259,3,8:31.0,71,60,PHI,OKC,2,away,LU,assist,2,make2,2,S. Adams,D. Schröder
+260,3,8:31.0,71,60,PHI,OKC,0,home,Timeout,,,,,,
+261,3,8:17.0,71,60,PHI,OKC,14,home,LU,,1,miss2,0,T. Harris,
+262,3,8:16.0,71,60,PHI,OKC,1,away,DefReb,,,DefReb,,S. Gilgeous-Alexander,
+263,3,8:12.0,71,60,PHI,OKC,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,S. Gilgeous-Alexander
+264,3,8:12.0,71,60,PHI,OKC,0,away,FreeThrow,,,make1,0,S. Gilgeous-Alexander,
+265,3,8:12.0,71,60,PHI,OKC,0,away,OffReb,,,OffReb,,Team,
+266,3,8:12.0,71,60,PHI,OKC,0,home,Sub,,,,,F. Korkmaz,T. Harris
+267,3,8:12.0,71,61,PHI,OKC,0,away,FreeThrow,,,make1,1,S. Gilgeous-Alexander,
+268,3,7:54.0,71,61,PHI,OKC,18,home,JS,,27,miss3,0,J. Embiid,
+269,3,7:52.0,71,61,PHI,OKC,2,away,DefReb,,,DefReb,,S. Gilgeous-Alexander,
+270,3,7:50.0,71,63,PHI,OKC,2,away,LU,,1,make2,2,S. Gilgeous-Alexander,
+271,3,7:50.0,71,63,PHI,OKC,0,away,AFPFoul,DrawnBy,,AFPFoul,,J. Embiid,S. Adams
+272,3,7:50.0,71,64,PHI,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+273,3,7:34.0,73,64,PHI,OKC,16,home,HS,assist,10,make2,2,A. Horford,J. Embiid
+274,3,7:25.0,73,64,PHI,OKC,9,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Paul,J. Ennis
+275,3,7:25.0,73,64,PHI,OKC,0,away,OffensiveFoul,,,turnover,,C. Paul,
+276,3,7:04.0,75,64,PHI,OKC,21,home,JS,assist,21,make2,2,J. Richardson,J. Embiid
+277,3,6:48.0,75,64,PHI,OKC,16,away,JS,,27,miss3,0,D. Gallinari,
+278,3,6:46.0,75,64,PHI,OKC,2,home,DefReb,,,DefReb,,F. Korkmaz,
+279,3,6:30.0,77,64,PHI,OKC,16,home,JS,,9,make2,2,A. Horford,
+280,3,6:14.0,77,67,PHI,OKC,16,away,JS,,27,make3,3,D. Schröder,
+281,3,5:54.0,77,67,PHI,OKC,20,home,lost ball,steal,,turnover,,A. Horford,D. Gallinari
+282,3,5:37.0,77,69,PHI,OKC,17,away,LU,assist,2,make2,2,S. Adams,D. Gallinari
+283,3,5:26.0,77,69,PHI,OKC,11,home,BadPass,,,turnover,,A. Horford,
+284,3,5:15.0,77,69,PHI,OKC,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Horford,D. Gallinari
+285,3,5:15.0,77,69,PHI,OKC,0,away,FreeThrow,,,make1,0,D. Gallinari,
+286,3,5:15.0,77,69,PHI,OKC,0,away,OffReb,,,OffReb,,Team,
+287,3,5:15.0,77,70,PHI,OKC,0,away,FreeThrow,,,make1,1,D. Gallinari,
+288,3,5:15.0,77,70,PHI,OKC,0,home,Sub,,,,,M. Scott,J. Embiid
+289,3,5:15.0,77,71,PHI,OKC,0,away,FreeThrow,,,make1,1,D. Gallinari,
+290,3,5:02.0,77,71,PHI,OKC,13,home,LU,,1,miss2,0,J. Richardson,
+291,3,5:00.0,77,71,PHI,OKC,2,away,DefReb,,,DefReb,,C. Paul,
+292,3,4:54.0,77,71,PHI,OKC,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ennis,D. Gallinari
+293,3,4:54.0,77,72,PHI,OKC,0,away,FreeThrow,,,make1,1,D. Gallinari,
+294,3,4:54.0,77,72,PHI,OKC,0,away,Sub,,,,,H. Diallo,S. Adams
+295,3,4:54.0,77,72,PHI,OKC,0,away,Sub,,,,,M. Muscala,C. Paul
+296,3,4:54.0,77,73,PHI,OKC,0,away,FreeThrow,,,make1,1,D. Gallinari,
+297,3,4:45.0,77,73,PHI,OKC,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Muscala,M. Scott
+298,3,4:45.0,78,73,PHI,OKC,0,home,FreeThrow,,,make1,1,M. Scott,
+299,3,4:45.0,79,73,PHI,OKC,0,home,FreeThrow,,,make1,1,M. Scott,
+300,3,4:31.0,79,76,PHI,OKC,14,away,JS,assist,25,make3,3,D. Gallinari,S. Gilgeous-Alexander
+301,3,4:08.0,81,76,PHI,OKC,23,home,JS,,13,make2,2,A. Horford,
+302,3,3:48.0,81,76,PHI,OKC,20,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,H. Diallo,F. Korkmaz
+303,3,3:48.0,81,76,PHI,OKC,0,away,OffensiveFoul,,,turnover,,H. Diallo,
+304,3,3:48.0,81,76,PHI,OKC,0,away,Sub,,,,,D. Bazley,D. Gallinari
+305,3,3:28.0,81,76,PHI,OKC,20,home,JS,,24,miss3,0,F. Korkmaz,
+306,3,3:25.0,81,76,PHI,OKC,3,home,OffReb,,,OffReb,,J. Ennis,
+307,3,3:25.0,81,76,PHI,OKC,0,home,LU,,1,miss2,0,J. Ennis,
+308,3,3:24.0,81,76,PHI,OKC,1,home,OffReb,,,OffReb,,M. Scott,
+309,3,3:19.0,81,76,PHI,OKC,5,home,LU,,3,miss2,0,M. Scott,
+310,3,3:17.0,81,76,PHI,OKC,2,away,DefReb,,,DefReb,,D. Bazley,
+311,3,3:15.0,81,78,PHI,OKC,2,away,LU,,1,make2,2,S. Gilgeous-Alexander,
+312,3,3:15.0,81,78,PHI,OKC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ennis,S. Gilgeous-Alexander
+313,3,3:15.0,81,78,PHI,OKC,0,away,Sub,,,,,S. Adams,M. Muscala
+314,3,3:15.0,81,78,PHI,OKC,0,home,Sub,,,,,J. Embiid,J. Ennis
+315,3,3:15.0,81,78,PHI,OKC,0,home,Sub,,,,,B. Simmons,A. Horford
+316,3,3:15.0,81,78,PHI,OKC,0,away,FreeThrow,,,make1,0,S. Gilgeous-Alexander,
+317,3,3:12.0,81,78,PHI,OKC,3,away,OffReb,,,OffReb,,S. Adams,
+318,3,3:07.0,81,78,PHI,OKC,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Richardson,D. Schröder
+319,3,3:07.0,81,79,PHI,OKC,0,away,FreeThrow,,,make1,1,D. Schröder,
+320,3,3:07.0,81,79,PHI,OKC,0,away,FreeThrow,,,make1,0,D. Schröder,
+321,3,3:05.0,81,79,PHI,OKC,2,home,DefReb,,,DefReb,,J. Embiid,
+322,3,2:43.0,83,79,PHI,OKC,22,home,LU,,2,make2,2,J. Richardson,
+323,3,2:29.0,83,79,PHI,OKC,14,away,DK,,2,miss2,0,H. Diallo,
+324,3,2:25.0,83,79,PHI,OKC,4,home,DefReb,,,DefReb,,F. Korkmaz,
+325,3,2:13.0,83,79,PHI,OKC,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Schröder,B. Simmons
+326,3,2:13.0,83,79,PHI,OKC,0,away,Timeout,,,,,,
+327,3,2:13.0,83,79,PHI,OKC,0,away,Sub,,,,,C. Paul,S. Gilgeous-Alexander
+328,3,2:13.0,83,79,PHI,OKC,0,home,Sub,,,,,T. Burke,J. Richardson
+329,3,2:13.0,84,79,PHI,OKC,0,home,FreeThrow,,,make1,1,B. Simmons,
+330,3,2:13.0,85,79,PHI,OKC,0,home,FreeThrow,,,make1,1,B. Simmons,
+331,3,1:59.0,85,79,PHI,OKC,14,away,HS,,5,miss2,0,S. Adams,
+332,3,1:57.0,85,79,PHI,OKC,2,home,DefReb,,,DefReb,,B. Simmons,
+333,3,1:44.0,85,79,PHI,OKC,13,home,JS,,13,miss2,0,J. Embiid,
+334,3,1:42.0,85,79,PHI,OKC,2,away,DefReb,,,DefReb,,C. Paul,
+335,3,1:26.0,85,79,PHI,OKC,16,away,JS,,23,miss3,0,D. Schröder,
+336,3,1:22.0,85,79,PHI,OKC,4,away,OffReb,,,OffReb,,S. Adams,
+337,3,1:20.0,85,79,PHI,OKC,2,away,LU,,2,miss2,0,S. Adams,
+338,3,1:18.0,85,79,PHI,OKC,2,away,OffReb,,,OffReb,,S. Adams,
+339,3,1:17.0,85,81,PHI,OKC,1,away,LU,,0,make2,2,S. Adams,
+340,3,0:59.0,88,81,PHI,OKC,18,home,JS,assist,26,make3,3,T. Burke,B. Simmons
+341,3,0:50.0,88,83,PHI,OKC,9,away,JS,,16,make2,2,C. Paul,
+342,3,0:35.0,90,83,PHI,OKC,15,home,LU,,1,make2,2,T. Burke,
+343,3,0:27.0,90,86,PHI,OKC,8,away,JS,,26,make3,3,C. Paul,
+344,3,0:07.0,90,86,PHI,OKC,20,home,LU,,4,miss2,0,T. Burke,
+345,3,0:06.0,90,86,PHI,OKC,1,home,OffReb,,,OffReb,,Team,
+346,3,0:02.0,90,86,PHI,OKC,4,home,JS,,13,miss2,0,J. Embiid,
+347,3,0:01.0,90,86,PHI,OKC,1,away,DefReb,,,DefReb,,D. Schröder,
+348,4,11:46.0,90,86,PHI,OKC,14,away,JS,,12,miss2,0,H. Diallo,
+349,4,11:43.0,90,86,PHI,OKC,3,home,DefReb,,,DefReb,,B. Simmons,
+350,4,11:31.0,90,86,PHI,OKC,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,H. Diallo,B. Simmons
+351,4,11:18.0,90,86,PHI,OKC,13,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Harris,D. Bazley
+352,4,11:18.0,90,86,PHI,OKC,0,home,OffensiveFoul,,,turnover,,T. Harris,
+353,4,11:18.0,90,86,PHI,OKC,0,home,Sub,,,,,M. Scott,T. Harris
+354,4,11:11.0,90,88,PHI,OKC,7,away,JS,,18,make2,2,C. Paul,
+355,4,10:47.0,92,88,PHI,OKC,24,home,LU,assist,2,make2,2,J. Embiid,T. Burke
+356,4,10:41.0,92,88,PHI,OKC,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Ennis,S. Adams
+357,4,10:35.0,92,90,PHI,OKC,6,away,DK,assist,1,make2,2,H. Diallo,C. Paul
+358,4,10:14.0,92,90,PHI,OKC,21,home,JS,,13,miss2,0,J. Embiid,
+359,4,10:11.0,92,90,PHI,OKC,3,away,DefReb,,,DefReb,,C. Paul,
+360,4,10:06.0,92,90,PHI,OKC,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ennis,D. Schröder
+361,4,10:06.0,92,90,PHI,OKC,0,away,FreeThrow,,,make1,0,D. Schröder,
+362,4,10:06.0,92,90,PHI,OKC,0,away,OffReb,,,OffReb,,Team,
+363,4,10:06.0,92,90,PHI,OKC,0,home,Sub,,,,,J. Richardson,J. Ennis
+364,4,10:06.0,92,90,PHI,OKC,0,away,FreeThrow,,,make1,0,D. Schröder,
+365,4,10:03.0,92,90,PHI,OKC,3,away,OffReb,,,OffReb,,S. Adams,
+366,4,10:03.0,92,90,PHI,OKC,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Richardson,S. Adams
+367,4,10:01.0,92,90,PHI,OKC,2,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Paul,J. Richardson
+368,4,10:01.0,92,90,PHI,OKC,0,away,OffensiveFoul,,,turnover,,C. Paul,
+369,4,9:44.0,94,90,PHI,OKC,17,home,HS,assist,3,make2,2,J. Embiid,J. Richardson
+370,4,9:33.0,94,90,PHI,OKC,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Embiid,S. Adams
+371,4,9:29.0,94,92,PHI,OKC,4,away,HS,assist,9,make2,2,S. Adams,H. Diallo
+372,4,9:14.0,94,92,PHI,OKC,15,home,JS,,11,miss2,0,J. Richardson,
+373,4,9:11.0,94,92,PHI,OKC,3,away,DefReb,,,DefReb,,D. Bazley,
+374,4,9:05.0,94,92,PHI,OKC,6,away,JS,,13,miss2,0,D. Schröder,
+375,4,9:02.0,94,92,PHI,OKC,3,home,DefReb,,,DefReb,,J. Embiid,
+376,4,8:52.0,96,92,PHI,OKC,10,home,HS,,2,make2,2,B. Simmons,
+377,4,8:47.0,96,92,PHI,OKC,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Scott,S. Adams
+378,4,8:47.0,96,93,PHI,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+379,4,8:47.0,96,93,PHI,OKC,0,away,Sub,,,,,T. Ferguson,H. Diallo
+380,4,8:47.0,96,93,PHI,OKC,0,home,Sub,,,,,A. Horford,J. Embiid
+381,4,8:47.0,96,93,PHI,OKC,0,away,FreeThrow,,,make1,0,S. Adams,
+382,4,8:45.0,96,93,PHI,OKC,2,home,DefReb,,,DefReb,,B. Simmons,
+383,4,8:35.0,96,93,PHI,OKC,10,home,LU,,2,miss2,0,B. Simmons,
+384,4,8:33.0,96,93,PHI,OKC,2,away,DefReb,,,DefReb,,D. Bazley,
+385,4,8:26.0,96,93,PHI,OKC,7,away,JS,,26,miss3,0,C. Paul,
+386,4,8:25.0,96,93,PHI,OKC,1,away,OffReb,,,OffReb,,Team,
+387,4,8:25.0,96,93,PHI,OKC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Horford,S. Adams
+388,4,8:25.0,96,94,PHI,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+389,4,8:25.0,96,94,PHI,OKC,0,away,Sub,,,,,S. Gilgeous-Alexander,C. Paul
+390,4,8:25.0,96,95,PHI,OKC,0,away,FreeThrow,,,make1,1,S. Adams,
+391,4,8:04.0,98,95,PHI,OKC,21,home,JS,assist,12,make2,2,T. Burke,A. Horford
+392,4,8:03.0,98,95,PHI,OKC,1,away,Timeout,,,,,,
+393,4,8:03.0,98,95,PHI,OKC,0,away,Sub,,,,,M. Muscala,S. Adams
+394,4,7:44.0,98,97,PHI,OKC,19,away,LU,,1,make2,2,D. Schröder,
+395,4,7:28.0,98,97,PHI,OKC,16,home,BadPass,,,turnover,,J. Richardson,
+396,4,7:13.0,98,97,PHI,OKC,15,away,JS,,5,miss2,0,D. Bazley,
+397,4,7:10.0,98,97,PHI,OKC,3,home,DefReb,,,DefReb,,M. Scott,
+398,4,7:00.0,101,97,PHI,OKC,10,home,JS,assist,26,make3,3,M. Scott,B. Simmons
+399,4,6:47.0,101,97,PHI,OKC,13,away,JS,,17,miss2,0,D. Schröder,
+400,4,6:45.0,101,97,PHI,OKC,2,home,DefReb,,,DefReb,,A. Horford,
+401,4,6:37.0,101,97,PHI,OKC,8,home,JS,,25,miss3,0,A. Horford,
+402,4,6:35.0,101,97,PHI,OKC,2,home,OffReb,,,OffReb,,B. Simmons,
+403,4,6:32.0,101,97,PHI,OKC,3,home,JS,,27,miss3,0,T. Burke,
+404,4,6:30.0,101,97,PHI,OKC,2,away,DefReb,,,DefReb,,M. Muscala,
+405,4,6:19.0,101,99,PHI,OKC,11,away,LU,,1,make2,2,S. Gilgeous-Alexander,
+406,4,5:56.0,101,99,PHI,OKC,23,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ferguson,A. Horford
+407,4,5:56.0,101,99,PHI,OKC,0,away,Sub,,,,,D. Gallinari,D. Bazley
+408,4,5:52.0,104,99,PHI,OKC,4,home,JS,assist,27,make3,3,M. Scott,T. Burke
+409,4,5:30.0,104,101,PHI,OKC,22,away,LU,assist,3,make2,2,D. Schröder,D. Gallinari
+410,4,5:22.0,104,101,PHI,OKC,8,home,BadPass,,,turnover,,T. Burke,
+411,4,5:22.0,104,101,PHI,OKC,0,away,Timeout,,,,,,
+412,4,5:22.0,104,101,PHI,OKC,0,away,InstantReplay,,,RulingStands,,Team,
+413,4,5:12.0,104,101,PHI,OKC,10,away,JS,,26,miss3,0,D. Gallinari,
+414,4,5:09.0,104,101,PHI,OKC,3,home,DefReb,,,DefReb,,B. Simmons,
+415,4,5:09.0,104,101,PHI,OKC,0,away,Sub,,,,,S. Adams,M. Muscala
+416,4,5:09.0,104,101,PHI,OKC,0,home,Sub,,,,,J. Embiid,M. Scott
+417,4,4:51.0,104,101,PHI,OKC,18,home,JS,,26,miss3,0,J. Richardson,
+418,4,4:47.0,104,101,PHI,OKC,4,away,DefReb,,,DefReb,,S. Gilgeous-Alexander,
+419,4,4:40.0,104,101,PHI,OKC,7,away,JS,,11,miss2,0,S. Gilgeous-Alexander,
+420,4,4:38.0,104,101,PHI,OKC,2,home,DefReb,,,DefReb,,J. Richardson,
+421,4,4:16.0,106,101,PHI,OKC,22,home,JS,,17,make2,2,J. Embiid,
+422,4,4:00.0,106,104,PHI,OKC,16,away,JS,assist,26,make3,3,D. Gallinari,D. Schröder
+423,4,3:58.0,106,104,PHI,OKC,2,home,Timeout,,,,,,
+424,4,3:58.0,106,104,PHI,OKC,0,away,Sub,,,,,C. Paul,T. Ferguson
+425,4,3:58.0,106,104,PHI,OKC,0,home,Sub,,,,,T. Harris,T. Burke
+426,4,3:40.0,108,104,PHI,OKC,18,home,JS,assist,10,make2,2,J. Richardson,J. Embiid
+427,4,3:14.0,108,106,PHI,OKC,26,away,JS,,19,make2,2,D. Schröder,
+428,4,2:47.0,108,106,PHI,OKC,27,home,JS,,12,miss2,0,J. Embiid,
+429,4,2:45.0,108,106,PHI,OKC,2,home,OffReb,,,OffReb,,B. Simmons,
+430,4,2:32.0,108,106,PHI,OKC,13,home,HS,,4,miss2,0,B. Simmons,
+431,4,2:30.0,108,106,PHI,OKC,2,away,DefReb,,,DefReb,,Team,
+432,4,2:28.0,108,106,PHI,OKC,2,away,JS,,14,miss2,0,D. Schröder,
+433,4,2:25.0,108,106,PHI,OKC,3,home,DefReb,,,DefReb,,B. Simmons,
+434,4,2:16.0,108,106,PHI,OKC,9,home,JS,,25,miss3,0,J. Richardson,
+435,4,2:13.0,108,106,PHI,OKC,3,home,OffReb,,,OffReb,,A. Horford,
+436,4,2:10.0,110,106,PHI,OKC,3,home,DK,assist,1,make2,2,T. Harris,J. Embiid
+437,4,1:54.0,110,106,PHI,OKC,16,away,JS,,16,miss2,0,C. Paul,
+438,4,1:52.0,110,106,PHI,OKC,2,away,OffReb,,,OffReb,,Team,
+439,4,1:52.0,110,106,PHI,OKC,0,away,InstantReplay,,,RulingStands,,Team,
+440,4,1:44.0,110,106,PHI,OKC,8,away,JS,,26,miss3,0,D. Gallinari,
+441,4,1:40.0,110,106,PHI,OKC,4,home,DefReb,,,DefReb,,J. Embiid,
+442,4,1:27.0,112,106,PHI,OKC,13,home,LU,assist,2,make2,2,B. Simmons,J. Richardson
+443,4,1:15.0,112,106,PHI,OKC,12,away,LU,,2,miss2,0,C. Paul,
+444,4,1:15.0,112,106,PHI,OKC,0,away,OffReb,,,OffReb,,S. Adams,
+445,4,1:15.0,112,106,PHI,OKC,0,away,OffGoaltending,,,turnover,,S. Adams,
+446,4,0:56.0,112,106,PHI,OKC,19,home,LU,block,2,miss2,0,J. Richardson,S. Adams
+447,4,0:55.0,112,106,PHI,OKC,1,home,OffReb,,,OffReb,,J. Embiid,
+448,4,0:55.0,115,106,PHI,OKC,0,home,JS,assist,23,make3,3,T. Harris,J. Embiid
+449,4,0:55.0,115,106,PHI,OKC,0,away,Timeout,,,,,,
+450,4,0:49.0,115,106,PHI,OKC,6,away,JS,,26,miss3,0,C. Paul,
+451,4,0:47.0,115,106,PHI,OKC,2,away,OffReb,,,OffReb,,Team,
+452,4,0:47.0,115,106,PHI,OKC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Harris,C. Paul
+453,4,0:47.0,115,106,PHI,OKC,0,home,Sub,,,,,T. Burke,T. Harris
+454,4,0:47.0,115,107,PHI,OKC,0,away,FreeThrow,,,make1,1,C. Paul,
+455,4,0:47.0,115,107,PHI,OKC,0,away,Sub,,,,,H. Diallo,D. Gallinari
+456,4,0:47.0,115,108,PHI,OKC,0,away,FreeThrow,,,make1,1,C. Paul,
+457,4,0:45.0,115,108,PHI,OKC,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,H. Diallo,J. Richardson
+458,4,0:40.0,115,108,PHI,OKC,5,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,C. Paul,J. Richardson
+459,4,0:40.0,116,108,PHI,OKC,0,home,FreeThrow,,,make1,1,J. Richardson,
+460,4,0:40.0,116,108,PHI,OKC,0,away,Sub,,,,,D. Gallinari,H. Diallo
+461,4,0:40.0,116,108,PHI,OKC,0,home,Sub,,,,,J. Ennis,A. Horford
+462,4,0:40.0,116,108,PHI,OKC,0,home,FreeThrow,,,make1,0,J. Richardson,
+463,4,0:38.0,116,108,PHI,OKC,2,away,DefReb,,,DefReb,,S. Adams,
+464,4,0:32.0,116,110,PHI,OKC,6,away,DK,assist,1,make2,2,S. Adams,C. Paul
+465,4,0:30.0,116,110,PHI,OKC,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,J. Richardson
+466,4,0:30.0,117,110,PHI,OKC,0,home,FreeThrow,,,make1,1,J. Richardson,
+467,4,0:30.0,118,110,PHI,OKC,0,home,FreeThrow,,,make1,1,J. Richardson,
+468,4,0:24.0,118,112,PHI,OKC,6,away,LU,,2,make2,2,S. Gilgeous-Alexander,
+469,4,0:24.0,118,112,PHI,OKC,0,home,Timeout,,,,,,
+470,4,0:24.0,118,112,PHI,OKC,0,away,Sub,,,,,T. Ferguson,D. Gallinari
+471,4,0:24.0,118,112,PHI,OKC,0,home,Sub,,,,,A. Horford,J. Ennis
+472,4,0:23.0,118,112,PHI,OKC,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Adams,J. Embiid
+473,4,0:23.0,119,112,PHI,OKC,0,home,FreeThrow,,,make1,1,J. Embiid,
+474,4,0:23.0,119,112,PHI,OKC,0,away,Sub,,,,,D. Gallinari,T. Ferguson
+475,4,0:23.0,119,112,PHI,OKC,0,home,Sub,,,,,J. Ennis,A. Horford
+476,4,0:23.0,120,112,PHI,OKC,0,home,FreeThrow,,,make1,1,J. Embiid,
+477,4,0:23.0,120,112,PHI,OKC,0,away,Timeout,,,,,,
+478,4,0:23.0,120,112,PHI,OKC,0,home,Sub,,,,,A. Horford,T. Burke
+479,4,0:22.0,120,112,PHI,OKC,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Richardson,D. Gallinari
+480,4,0:22.0,120,112,PHI,OKC,0,away,FreeThrow,,,make1,0,D. Gallinari,
+481,4,0:22.0,120,112,PHI,OKC,0,away,OffReb,,,OffReb,,Team,
+482,4,0:22.0,120,113,PHI,OKC,0,away,FreeThrow,,,make1,1,D. Gallinari,
+483,4,0:22.0,120,113,PHI,OKC,0,home,Timeout,,,,,,

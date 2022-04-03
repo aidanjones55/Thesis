@@ -1,0 +1,428 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:47.0,0,0,PHI,ORL,13,home,JS,,15,miss2,0,J. Redick,
+1,1,11:45.0,0,0,PHI,ORL,2,away,DefReb,,,DefReb,,N. Vučević,
+2,1,11:30.0,0,2,PHI,ORL,15,away,JS,,22,make2,2,A. Gordon,
+3,1,11:12.0,0,2,PHI,ORL,18,home,HS,,10,miss2,0,B. Simmons,
+4,1,11:11.0,0,2,PHI,ORL,1,home,OffReb,,,OffReb,,A. Johnson,
+5,1,11:11.0,0,2,PHI,ORL,0,home,LU,,2,miss2,0,A. Johnson,
+6,1,11:11.0,0,2,PHI,ORL,0,away,DefReb,,,DefReb,,J. Isaac,
+7,1,11:02.0,0,2,PHI,ORL,9,away,bad pass,steal,,turnover,,A. Gordon,B. Simmons
+8,1,10:54.0,2,2,PHI,ORL,8,home,LU,assist,2,make2,2,B. Simmons,T. Harris
+9,1,10:34.0,2,2,PHI,ORL,20,away,LU,,2,miss2,0,A. Gordon,
+10,1,10:32.0,2,2,PHI,ORL,2,home,DefReb,,,DefReb,,A. Johnson,
+11,1,10:25.0,5,2,PHI,ORL,7,home,JS,assist,26,make3,3,J. Redick,A. Johnson
+12,1,10:08.0,5,2,PHI,ORL,17,away,HS,,18,miss2,0,N. Vučević,
+13,1,10:05.0,5,2,PHI,ORL,3,home,DefReb,,,DefReb,,J. Redick,
+14,1,10:00.0,7,2,PHI,ORL,5,home,JS,assist,22,make2,2,J. Redick,B. Simmons
+15,1,9:44.0,7,2,PHI,ORL,16,away,JS,,19,miss2,0,E. Fournier,
+16,1,9:42.0,7,2,PHI,ORL,2,home,DefReb,,,DefReb,,B. Simmons,
+17,1,9:36.0,7,2,PHI,ORL,6,home,JS,,20,miss2,0,A. Johnson,
+18,1,9:33.0,7,2,PHI,ORL,3,away,DefReb,,,DefReb,,E. Fournier,
+19,1,9:29.0,7,4,PHI,ORL,4,away,LU,assist,2,make2,2,J. Isaac,E. Fournier
+20,1,9:03.0,7,4,PHI,ORL,26,home,BadPass,,,turnover,,J. Butler,
+21,1,8:53.0,7,7,PHI,ORL,10,away,JS,assist,24,make3,3,E. Fournier,N. Vučević
+22,1,8:43.0,9,7,PHI,ORL,10,home,LU,,1,make2,2,B. Simmons,
+23,1,8:21.0,9,10,PHI,ORL,22,away,JS,assist,27,make3,3,J. Isaac,A. Gordon
+24,1,8:01.0,9,10,PHI,ORL,20,home,JS,,11,miss2,0,T. Harris,
+25,1,7:59.0,9,10,PHI,ORL,2,away,DefReb,,,DefReb,,N. Vučević,
+26,1,7:51.0,9,12,PHI,ORL,8,away,JS,,15,make2,2,E. Fournier,
+27,1,7:41.0,12,12,PHI,ORL,10,home,JS,assist,26,make3,3,J. Redick,B. Simmons
+28,1,7:28.0,12,14,PHI,ORL,13,away,JS,,15,make2,2,D. Augustin,
+29,1,7:19.0,15,14,PHI,ORL,9,home,JS,assist,25,make3,3,A. Johnson,B. Simmons
+30,1,6:55.0,15,16,PHI,ORL,24,away,JS,assist,22,make2,2,N. Vučević,D. Augustin
+31,1,6:44.0,17,16,PHI,ORL,11,home,JS,,17,make2,2,T. Harris,
+32,1,6:27.0,17,16,PHI,ORL,17,away,HS,,12,miss2,0,N. Vučević,
+33,1,6:25.0,17,16,PHI,ORL,2,home,DefReb,,,DefReb,,T. Harris,
+34,1,6:21.0,19,16,PHI,ORL,4,home,JS,,11,make2,2,T. Harris,
+35,1,6:13.0,19,16,PHI,ORL,8,away,Timeout,,,,,,
+36,1,6:13.0,19,16,PHI,ORL,0,away,Sub,,,,,I. Briscoe,E. Fournier
+37,1,6:13.0,19,16,PHI,ORL,0,home,Sub,,,,,M. Scott,A. Johnson
+38,1,6:13.0,19,16,PHI,ORL,0,home,Sub,,,,,J. Simmons,J. Redick
+39,1,6:06.0,19,18,PHI,ORL,7,away,LU,assist,2,make2,2,N. Vučević,D. Augustin
+40,1,5:44.0,22,18,PHI,ORL,22,home,JS,,27,make3,3,T. Harris,
+41,1,5:23.0,22,18,PHI,ORL,21,away,JS,,26,miss3,0,I. Briscoe,
+42,1,5:20.0,22,18,PHI,ORL,3,home,DefReb,,,DefReb,,B. Simmons,
+43,1,5:13.0,22,18,PHI,ORL,7,home,LU,,0,miss2,0,B. Simmons,
+44,1,5:13.0,22,18,PHI,ORL,0,home,OffReb,,,OffReb,,J. Butler,
+45,1,5:13.0,22,18,PHI,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Isaac,B. Simmons
+46,1,5:13.0,22,18,PHI,ORL,0,home,FreeThrow,,,make1,0,B. Simmons,
+47,1,5:13.0,22,18,PHI,ORL,0,home,OffReb,,,OffReb,,Team,
+48,1,5:13.0,23,18,PHI,ORL,0,home,FreeThrow,,,make1,1,B. Simmons,
+49,1,5:01.0,23,18,PHI,ORL,12,away,JS,,26,miss3,0,A. Gordon,
+50,1,4:57.0,23,18,PHI,ORL,4,home,DefReb,,,DefReb,,T. Harris,
+51,1,4:51.0,23,18,PHI,ORL,6,home,JS,,24,miss3,0,M. Scott,
+52,1,4:48.0,23,18,PHI,ORL,3,away,DefReb,,,DefReb,,J. Isaac,
+53,1,4:41.0,23,20,PHI,ORL,7,away,LU,,2,make2,2,D. Augustin,
+54,1,4:22.0,23,20,PHI,ORL,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Briscoe,J. Butler
+55,1,4:22.0,24,20,PHI,ORL,0,home,FreeThrow,,,make1,1,J. Butler,
+56,1,4:22.0,25,20,PHI,ORL,0,home,FreeThrow,,,make1,1,J. Butler,
+57,1,4:21.0,25,20,PHI,ORL,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Simmons,D. Augustin
+58,1,4:00.0,25,22,PHI,ORL,21,away,JS,,20,make2,2,A. Gordon,
+59,1,3:39.0,27,22,PHI,ORL,21,home,DK,assist,1,make2,2,B. Simmons,T. Harris
+60,1,3:19.0,27,24,PHI,ORL,20,away,JS,assist,20,make2,2,A. Gordon,I. Briscoe
+61,1,3:02.0,30,24,PHI,ORL,17,home,JS,assist,26,make3,3,M. Scott,J. Butler
+62,1,2:35.0,30,26,PHI,ORL,27,away,LU,,2,make2,2,D. Augustin,
+63,1,2:24.0,30,26,PHI,ORL,11,home,LU,block,1,miss2,0,B. Simmons,J. Isaac
+64,1,2:21.0,30,26,PHI,ORL,3,home,OffReb,,,OffReb,,J. Butler,
+65,1,2:14.0,32,26,PHI,ORL,7,home,LU,assist,1,make2,2,J. Simmons,J. Butler
+66,1,2:00.0,32,26,PHI,ORL,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Simmons,A. Gordon
+67,1,2:00.0,32,26,PHI,ORL,0,home,Timeout,,,,,,
+68,1,2:00.0,32,26,PHI,ORL,0,away,Sub,,,,,K. Birch,D. Augustin
+69,1,2:00.0,32,26,PHI,ORL,0,away,Sub,,,,,W. Iwundu,J. Isaac
+70,1,2:00.0,32,26,PHI,ORL,0,away,Sub,,,,,J. Martin,N. Vučević
+71,1,2:00.0,32,26,PHI,ORL,0,home,Sub,,,,,T. McConnell,J. Butler
+72,1,2:00.0,32,26,PHI,ORL,0,home,Sub,,,,,J. Patton,B. Simmons
+73,1,2:00.0,32,26,PHI,ORL,0,home,Sub,,,,,J. Redick,J. Simmons
+74,1,2:00.0,32,27,PHI,ORL,0,away,FreeThrow,,,make1,1,A. Gordon,
+75,1,2:00.0,32,28,PHI,ORL,0,away,FreeThrow,,,make1,1,A. Gordon,
+76,1,1:44.0,34,28,PHI,ORL,16,home,JS,,11,make2,2,T. Harris,
+77,1,1:24.0,34,28,PHI,ORL,20,away,JS,,17,miss2,0,J. Martin,
+78,1,1:18.0,34,28,PHI,ORL,6,away,OffReb,,,OffReb,,K. Birch,
+79,1,1:18.0,34,28,PHI,ORL,0,away,LU,,1,miss2,0,K. Birch,
+80,1,1:17.0,34,28,PHI,ORL,1,home,DefReb,,,DefReb,,J. Patton,
+81,1,1:12.0,37,28,PHI,ORL,5,home,JS,assist,25,make3,3,M. Scott,T. McConnell
+82,1,0:52.0,37,31,PHI,ORL,20,away,JS,assist,27,make3,3,A. Gordon,I. Briscoe
+83,1,0:33.0,39,31,PHI,ORL,19,home,JS,assist,21,make2,2,J. Redick,J. Patton
+84,1,0:13.0,39,31,PHI,ORL,20,away,bad pass,steal,,turnover,,W. Iwundu,T. Harris
+85,1,0:09.0,39,31,PHI,ORL,4,home,JS,,26,miss3,0,J. Redick,
+86,1,0:05.0,39,31,PHI,ORL,4,away,DefReb,,,DefReb,,A. Gordon,
+87,1,0:00.0,39,34,PHI,ORL,5,away,JS,,26,make3,3,A. Gordon,
+88,2,11:40.0,39,37,PHI,ORL,20,away,JS,assist,26,make3,3,E. Fournier,J. Martin
+89,2,11:26.0,42,37,PHI,ORL,14,home,JS,assist,23,make3,3,J. Redick,J. Patton
+90,2,11:10.0,42,40,PHI,ORL,16,away,JS,assist,27,make3,3,J. Martin,E. Fournier
+91,2,10:53.0,44,40,PHI,ORL,17,home,JS,assist,14,make2,2,T. McConnell,J. Simmons
+92,2,10:42.0,44,43,PHI,ORL,11,away,JS,assist,26,make3,3,E. Fournier,I. Briscoe
+93,2,10:39.0,44,43,PHI,ORL,3,home,Timeout,,,,,,
+94,2,10:24.0,46,43,PHI,ORL,15,home,DK,assist,0,make2,2,T. Harris,J. Patton
+95,2,10:02.0,46,45,PHI,ORL,22,away,JS,,19,make2,2,I. Briscoe,
+96,2,9:44.0,46,45,PHI,ORL,18,home,JS,,25,miss3,0,J. Patton,
+97,2,9:42.0,46,45,PHI,ORL,2,away,DefReb,,,DefReb,,J. Martin,
+98,2,9:30.0,46,45,PHI,ORL,12,away,JS,,25,miss3,0,W. Iwundu,
+99,2,9:27.0,46,45,PHI,ORL,3,home,DefReb,,,DefReb,,J. Patton,
+100,2,9:18.0,46,45,PHI,ORL,9,home,bad pass,steal,,turnover,,T. McConnell,E. Fournier
+101,2,9:16.0,46,45,PHI,ORL,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,E. Fournier
+102,2,9:16.0,46,46,PHI,ORL,0,away,FreeThrow,,,make1,1,E. Fournier,
+103,2,9:16.0,46,47,PHI,ORL,0,away,FreeThrow,,,make1,1,E. Fournier,
+104,2,9:04.0,46,47,PHI,ORL,12,home,JS,,19,miss2,0,J. Redick,
+105,2,9:00.0,46,47,PHI,ORL,4,away,DefReb,,,DefReb,,J. Martin,
+106,2,8:46.0,46,47,PHI,ORL,14,away,lost ball,steal,,turnover,,W. Iwundu,T. Harris
+107,2,8:39.0,49,47,PHI,ORL,7,home,JS,assist,24,make3,3,J. Redick,T. Harris
+108,2,8:28.0,49,47,PHI,ORL,11,away,bad pass,steal,,turnover,,I. Briscoe,J. Simmons
+109,2,8:28.0,49,47,PHI,ORL,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Fournier,J. Simmons
+110,2,8:28.0,49,47,PHI,ORL,0,home,Sub,,,,,M. Scott,T. McConnell
+111,2,8:28.0,49,47,PHI,ORL,0,home,Sub,,,,,B. Simmons,J. Patton
+112,2,8:09.0,51,47,PHI,ORL,19,home,HS,assist,5,make2,2,J. Simmons,T. Harris
+113,2,7:51.0,51,49,PHI,ORL,18,away,LU,,1,make2,2,I. Briscoe,
+114,2,7:25.0,53,49,PHI,ORL,26,home,JS,,13,make2,2,T. Harris,
+115,2,7:08.0,53,49,PHI,ORL,17,away,JS,,26,miss3,0,I. Briscoe,
+116,2,7:04.0,53,49,PHI,ORL,4,home,DefReb,,,DefReb,,B. Simmons,
+117,2,6:56.0,56,49,PHI,ORL,8,home,JS,assist,26,make3,3,J. Redick,J. Simmons
+118,2,6:48.0,56,49,PHI,ORL,8,away,Timeout,,,,,,
+119,2,6:48.0,56,49,PHI,ORL,0,away,Sub,,,,,A. Gordon,K. Birch
+120,2,6:48.0,56,49,PHI,ORL,0,away,Sub,,,,,J. Isaac,E. Fournier
+121,2,6:48.0,56,49,PHI,ORL,0,away,Sub,,,,,N. Vučević,J. Martin
+122,2,6:48.0,56,49,PHI,ORL,0,home,Sub,,,,,J. Butler,T. Harris
+123,2,6:48.0,56,49,PHI,ORL,0,home,Sub,,,,,A. Johnson,J. Redick
+124,2,6:35.0,56,51,PHI,ORL,13,away,JS,assist,18,make2,2,A. Gordon,W. Iwundu
+125,2,6:14.0,58,51,PHI,ORL,21,home,JS,,11,make2,2,B. Simmons,
+126,2,5:50.0,58,51,PHI,ORL,24,away,JS,,14,miss2,0,N. Vučević,
+127,2,5:47.0,58,51,PHI,ORL,3,home,DefReb,,,DefReb,,M. Scott,
+128,2,5:41.0,58,51,PHI,ORL,6,home,JS,,25,miss3,0,M. Scott,
+129,2,5:38.0,58,51,PHI,ORL,3,home,OffReb,,,OffReb,,B. Simmons,
+130,2,5:31.0,58,51,PHI,ORL,7,home,bad pass,steal,,turnover,,A. Johnson,I. Briscoe
+131,2,5:24.0,58,51,PHI,ORL,7,away,LU,block,1,miss2,0,J. Isaac,A. Johnson
+132,2,5:21.0,58,51,PHI,ORL,3,away,OffReb,,,OffReb,,N. Vučević,
+133,2,5:13.0,58,51,PHI,ORL,8,away,JS,block,23,miss3,0,A. Gordon,B. Simmons
+134,2,5:12.0,58,51,PHI,ORL,1,away,OffReb,,,OffReb,,Team,
+135,2,5:12.0,58,51,PHI,ORL,0,away,Sub,,,,,D. Augustin,I. Briscoe
+136,2,5:08.0,58,51,PHI,ORL,4,away,JS,,17,miss2,0,W. Iwundu,
+137,2,5:03.0,58,51,PHI,ORL,5,home,DefReb,,,DefReb,,J. Simmons,
+138,2,4:52.0,58,51,PHI,ORL,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Iwundu,A. Johnson
+139,2,4:52.0,59,51,PHI,ORL,0,home,FreeThrow,,,make1,1,A. Johnson,
+140,2,4:52.0,60,51,PHI,ORL,0,home,FreeThrow,,,make1,1,A. Johnson,
+141,2,4:38.0,60,51,PHI,ORL,14,away,JS,,15,miss2,0,N. Vučević,
+142,2,4:35.0,60,51,PHI,ORL,3,home,DefReb,,,DefReb,,J. Simmons,
+143,2,4:28.0,60,51,PHI,ORL,7,home,HS,,10,miss2,0,B. Simmons,
+144,2,4:24.0,60,51,PHI,ORL,4,away,DefReb,,,DefReb,,W. Iwundu,
+145,2,4:21.0,60,51,PHI,ORL,3,away,JS,,28,miss3,0,D. Augustin,
+146,2,4:17.0,60,51,PHI,ORL,4,home,DefReb,,,DefReb,,B. Simmons,
+147,2,4:15.0,60,51,PHI,ORL,2,home,JS,,18,miss2,0,J. Butler,
+148,2,4:15.0,60,51,PHI,ORL,0,away,DefReb,,,DefReb,,N. Vučević,
+149,2,4:05.0,60,51,PHI,ORL,10,away,JS,,9,miss2,0,W. Iwundu,
+150,2,4:03.0,60,51,PHI,ORL,2,home,DefReb,,,DefReb,,M. Scott,
+151,2,3:56.0,60,51,PHI,ORL,7,home,BadPass,,,turnover,,J. Simmons,
+152,2,3:56.0,60,51,PHI,ORL,0,away,Sub,,,,,E. Fournier,W. Iwundu
+153,2,3:41.0,60,53,PHI,ORL,15,away,JS,,19,make2,2,E. Fournier,
+154,2,3:16.0,60,53,PHI,ORL,25,home,JS,,27,miss3,0,J. Simmons,
+155,2,3:12.0,60,53,PHI,ORL,4,away,DefReb,,,DefReb,,A. Gordon,
+156,2,3:09.0,60,56,PHI,ORL,3,away,JS,assist,26,make3,3,E. Fournier,A. Gordon
+157,2,2:44.0,62,56,PHI,ORL,25,home,JS,,12,make2,2,M. Scott,
+158,2,2:26.0,62,56,PHI,ORL,18,away,JS,,22,miss2,0,E. Fournier,
+159,2,2:23.0,62,56,PHI,ORL,3,home,DefReb,,,DefReb,,A. Johnson,
+160,2,2:11.0,64,56,PHI,ORL,12,home,LU,assist,3,make2,2,A. Johnson,J. Butler
+161,2,1:55.0,64,56,PHI,ORL,16,away,LU,,5,miss2,0,D. Augustin,
+162,2,1:53.0,64,56,PHI,ORL,2,home,DefReb,,,DefReb,,A. Johnson,
+163,2,1:43.0,66,56,PHI,ORL,10,home,HS,assist,5,make2,2,A. Johnson,J. Simmons
+164,2,1:43.0,66,56,PHI,ORL,0,away,DefGoaltending,,,DefGoaltending,,Team,
+165,2,1:29.0,66,59,PHI,ORL,14,away,JS,assist,24,make3,3,J. Isaac,D. Augustin
+166,2,1:17.0,66,59,PHI,ORL,12,home,JS,,25,miss3,0,J. Simmons,
+167,2,1:14.0,66,59,PHI,ORL,3,home,OffReb,,,OffReb,,B. Simmons,
+168,2,1:12.0,68,59,PHI,ORL,2,home,HS,,10,make2,2,B. Simmons,
+169,2,0:52.0,68,61,PHI,ORL,20,away,JS,,3,make2,2,D. Augustin,
+170,2,0:30.0,68,61,PHI,ORL,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,B. Simmons
+171,2,0:30.0,69,61,PHI,ORL,0,home,FreeThrow,,,make1,1,B. Simmons,
+172,2,0:30.0,70,61,PHI,ORL,0,home,FreeThrow,,,make1,1,B. Simmons,
+173,2,0:12.0,70,63,PHI,ORL,18,away,JS,,6,make2,2,D. Augustin,
+174,2,0:12.0,70,63,PHI,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,D. Augustin
+175,2,0:12.0,70,63,PHI,ORL,0,home,Sub,,,,,J. Redick,J. Simmons
+176,2,0:12.0,70,64,PHI,ORL,0,away,FreeThrow,,,make1,1,D. Augustin,
+177,2,0:07.0,70,64,PHI,ORL,5,home,JS,,26,miss3,0,A. Johnson,
+178,2,0:03.0,70,64,PHI,ORL,4,away,DefReb,,,DefReb,,A. Gordon,
+179,2,0:00.0,70,64,PHI,ORL,3,away,JS,,27,miss3,0,A. Gordon,
+180,2,0:00.0,70,64,PHI,ORL,0,away,OffReb,,,OffReb,,Team,
+181,3,11:49.0,70,66,PHI,ORL,11,away,LU,assist,2,make2,2,E. Fournier,J. Isaac
+182,3,11:37.0,70,66,PHI,ORL,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,J. Redick
+183,3,11:37.0,71,66,PHI,ORL,0,home,FreeThrow,,,make1,1,J. Redick,
+184,3,11:37.0,72,66,PHI,ORL,0,home,FreeThrow,,,make1,1,J. Redick,
+185,3,11:24.0,72,66,PHI,ORL,13,away,JS,,14,miss2,0,N. Vučević,
+186,3,11:21.0,72,66,PHI,ORL,3,home,DefReb,,,DefReb,,B. Simmons,
+187,3,11:15.0,72,66,PHI,ORL,6,home,JS,,6,miss2,0,J. Butler,
+188,3,11:13.0,72,66,PHI,ORL,2,away,DefReb,,,DefReb,,N. Vučević,
+189,3,11:00.0,72,66,PHI,ORL,13,away,LU,,3,miss2,0,D. Augustin,
+190,3,10:59.0,72,66,PHI,ORL,1,away,OffReb,,,OffReb,,N. Vučević,
+191,3,10:59.0,72,66,PHI,ORL,0,away,LU,block,2,miss2,0,N. Vučević,A. Johnson
+192,3,10:58.0,72,66,PHI,ORL,1,away,OffReb,,,OffReb,,N. Vučević,
+193,3,10:56.0,72,68,PHI,ORL,2,away,HS,,2,make2,2,N. Vučević,
+194,3,10:49.0,72,68,PHI,ORL,7,home,bad pass,steal,,turnover,,B. Simmons,D. Augustin
+195,3,10:34.0,72,68,PHI,ORL,15,away,HS,,9,miss2,0,N. Vučević,
+196,3,10:34.0,72,68,PHI,ORL,0,home,DefReb,,,DefReb,,B. Simmons,
+197,3,10:23.0,75,68,PHI,ORL,11,home,JS,assist,24,make3,3,J. Redick,A. Johnson
+198,3,10:07.0,75,68,PHI,ORL,16,away,Traveling,,,turnover,,J. Isaac,
+199,3,9:51.0,75,68,PHI,ORL,16,home,JS,,16,miss2,0,T. Harris,
+200,3,9:47.0,75,68,PHI,ORL,4,away,DefReb,,,DefReb,,N. Vučević,
+201,3,9:39.0,75,68,PHI,ORL,8,away,JS,,25,miss3,0,A. Gordon,
+202,3,9:36.0,75,68,PHI,ORL,3,home,DefReb,,,DefReb,,J. Redick,
+203,3,9:27.0,77,68,PHI,ORL,9,home,LU,assist,2,make2,2,T. Harris,B. Simmons
+204,3,9:15.0,77,68,PHI,ORL,12,away,LU,,6,miss2,0,E. Fournier,
+205,3,9:12.0,77,68,PHI,ORL,3,home,DefReb,,,DefReb,,T. Harris,
+206,3,9:12.0,77,68,PHI,ORL,0,home,BadPass,,,turnover,,T. Harris,
+207,3,9:02.0,77,68,PHI,ORL,10,away,JS,,26,miss3,0,J. Isaac,
+208,3,8:59.0,77,68,PHI,ORL,3,home,DefReb,,,DefReb,,T. Harris,
+209,3,8:53.0,79,68,PHI,ORL,6,home,DK,assist,2,make2,2,T. Harris,B. Simmons
+210,3,8:38.0,79,68,PHI,ORL,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,N. Vučević
+211,3,8:38.0,79,69,PHI,ORL,0,away,FreeThrow,,,make1,1,N. Vučević,
+212,3,8:38.0,79,70,PHI,ORL,0,away,FreeThrow,,,make1,1,N. Vučević,
+213,3,8:25.0,79,70,PHI,ORL,13,home,JS,,26,miss3,0,J. Butler,
+214,3,8:21.0,79,70,PHI,ORL,4,away,DefReb,,,DefReb,,J. Isaac,
+215,3,8:13.0,79,70,PHI,ORL,8,away,JS,,26,miss3,0,A. Gordon,
+216,3,8:10.0,79,70,PHI,ORL,3,home,DefReb,,,DefReb,,J. Redick,
+217,3,8:04.0,79,70,PHI,ORL,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Isaac,B. Simmons
+218,3,7:58.0,79,70,PHI,ORL,6,home,LU,,3,miss2,0,T. Harris,
+219,3,7:56.0,79,70,PHI,ORL,2,away,DefReb,,,DefReb,,E. Fournier,
+220,3,7:50.0,79,70,PHI,ORL,6,away,bad pass,steal,,turnover,,E. Fournier,A. Johnson
+221,3,7:46.0,81,70,PHI,ORL,4,home,DK,assist,1,make2,2,A. Johnson,T. Harris
+222,3,7:46.0,81,70,PHI,ORL,0,home,Sub,,,,,M. Scott,A. Johnson
+223,3,7:46.0,81,70,PHI,ORL,0,home,Sub,,,,,J. Simmons,J. Redick
+224,3,7:22.0,81,72,PHI,ORL,24,away,JS,,18,make2,2,A. Gordon,
+225,3,7:12.0,81,72,PHI,ORL,10,home,LU,,2,miss2,0,J. Simmons,
+226,3,7:09.0,81,72,PHI,ORL,3,away,DefReb,,,DefReb,,N. Vučević,
+227,3,7:00.0,81,72,PHI,ORL,9,away,bad pass,steal,,turnover,,D. Augustin,J. Butler
+228,3,6:54.0,81,72,PHI,ORL,6,home,JS,,26,miss3,0,T. Harris,
+229,3,6:50.0,81,72,PHI,ORL,4,home,OffReb,,,OffReb,,T. Harris,
+230,3,6:45.0,83,72,PHI,ORL,5,home,LU,assist,1,make2,2,J. Butler,B. Simmons
+231,3,6:29.0,83,72,PHI,ORL,16,away,bad pass,steal,,turnover,,E. Fournier,J. Butler
+232,3,6:24.0,83,72,PHI,ORL,5,home,BadPass,,,turnover,,M. Scott,
+233,3,6:24.0,83,72,PHI,ORL,0,home,Timeout,,,,,,
+234,3,6:24.0,83,72,PHI,ORL,0,away,Sub,,,,,I. Briscoe,E. Fournier
+235,3,6:04.0,83,72,PHI,ORL,20,away,JS,,24,miss3,0,J. Isaac,
+236,3,6:00.0,83,72,PHI,ORL,4,home,DefReb,,,DefReb,,B. Simmons,
+237,3,5:52.0,83,72,PHI,ORL,8,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Scott,D. Augustin
+238,3,5:52.0,83,72,PHI,ORL,0,home,OffensiveFoul,,,turnover,,M. Scott,
+239,3,5:40.0,83,72,PHI,ORL,12,away,HS,,8,miss2,0,N. Vučević,
+240,3,5:36.0,83,72,PHI,ORL,4,home,DefReb,,,DefReb,,J. Simmons,
+241,3,5:32.0,83,72,PHI,ORL,4,home,JS,,27,miss3,0,T. Harris,
+242,3,5:28.0,83,72,PHI,ORL,4,away,DefReb,,,DefReb,,I. Briscoe,
+243,3,5:23.0,83,72,PHI,ORL,5,away,LU,,1,miss2,0,I. Briscoe,
+244,3,5:21.0,83,72,PHI,ORL,2,home,DefReb,,,DefReb,,T. Harris,
+245,3,5:18.0,85,72,PHI,ORL,3,home,DK,assist,2,make2,2,J. Butler,J. Simmons
+246,3,5:06.0,85,72,PHI,ORL,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Scott,A. Gordon
+247,3,5:06.0,85,72,PHI,ORL,0,home,Sub,,,,,T. McConnell,T. Harris
+248,3,4:58.0,85,72,PHI,ORL,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Simmons,N. Vučević
+249,3,4:54.0,85,72,PHI,ORL,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Simmons,A. Gordon
+250,3,4:40.0,85,74,PHI,ORL,14,away,JS,assist,15,make2,2,N. Vučević,A. Gordon
+251,3,4:18.0,87,74,PHI,ORL,22,home,LU,,3,make2,2,T. McConnell,
+252,3,4:02.0,87,77,PHI,ORL,16,away,JS,assist,26,make3,3,J. Isaac,D. Augustin
+253,3,3:50.0,87,77,PHI,ORL,12,home,JS,,26,miss3,0,M. Scott,
+254,3,3:48.0,87,77,PHI,ORL,2,home,OffReb,,,OffReb,,Team,
+255,3,3:48.0,87,77,PHI,ORL,0,away,Sub,,,,,W. Iwundu,D. Augustin
+256,3,3:48.0,87,77,PHI,ORL,0,home,Sub,,,,,J. Redick,J. Butler
+257,3,3:37.0,89,77,PHI,ORL,11,home,JS,,18,make2,2,T. McConnell,
+258,3,3:10.0,89,77,PHI,ORL,27,away,JS,,26,miss3,0,J. Isaac,
+259,3,3:08.0,89,77,PHI,ORL,2,home,DefReb,,,DefReb,,M. Scott,
+260,3,3:02.0,89,77,PHI,ORL,6,home,JS,,27,miss3,0,J. Redick,
+261,3,2:57.0,89,77,PHI,ORL,5,away,DefReb,,,DefReb,,J. Isaac,
+262,3,2:47.0,89,77,PHI,ORL,10,away,LU,,3,miss2,0,A. Gordon,
+263,3,2:43.0,89,77,PHI,ORL,4,away,OffReb,,,OffReb,,A. Gordon,
+264,3,2:43.0,89,79,PHI,ORL,0,away,LU,,0,make2,2,A. Gordon,
+265,3,2:31.0,89,79,PHI,ORL,12,home,JS,,14,miss2,0,T. McConnell,
+266,3,2:28.0,89,79,PHI,ORL,3,away,DefReb,,,DefReb,,A. Gordon,
+267,3,2:23.0,89,81,PHI,ORL,5,away,JS,,18,make2,2,A. Gordon,
+268,3,2:07.0,89,81,PHI,ORL,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Briscoe,M. Scott
+269,3,2:07.0,89,81,PHI,ORL,0,away,Timeout,,,,,,
+270,3,2:07.0,89,81,PHI,ORL,0,away,Sub,,,,,K. Birch,J. Isaac
+271,3,2:07.0,89,81,PHI,ORL,0,away,Sub,,,,,J. Martin,N. Vučević
+272,3,2:07.0,89,81,PHI,ORL,0,home,Sub,,,,,T. Harris,M. Scott
+273,3,2:07.0,89,81,PHI,ORL,0,home,Sub,,,,,J. Patton,B. Simmons
+274,3,2:02.0,89,81,PHI,ORL,5,home,DK,block,3,miss2,0,T. Harris,J. Martin
+275,3,2:02.0,89,81,PHI,ORL,0,away,DefReb,,,DefReb,,Team,
+276,3,1:47.0,89,81,PHI,ORL,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Patton,A. Gordon
+277,3,1:47.0,89,81,PHI,ORL,0,away,FreeThrow,,,make1,0,A. Gordon,
+278,3,1:47.0,89,81,PHI,ORL,0,away,OffReb,,,OffReb,,Team,
+279,3,1:47.0,89,82,PHI,ORL,0,away,FreeThrow,,,make1,1,A. Gordon,
+280,3,1:34.0,89,82,PHI,ORL,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Briscoe,J. Patton
+281,3,1:34.0,89,82,PHI,ORL,0,home,FreeThrow,,,make1,0,J. Patton,
+282,3,1:34.0,89,82,PHI,ORL,0,home,OffReb,,,OffReb,,Team,
+283,3,1:34.0,89,82,PHI,ORL,0,away,Sub,,,,,E. Fournier,A. Gordon
+284,3,1:34.0,90,82,PHI,ORL,0,home,FreeThrow,,,make1,1,J. Patton,
+285,3,1:11.0,90,82,PHI,ORL,23,away,JS,,26,miss3,0,E. Fournier,
+286,3,1:08.0,90,82,PHI,ORL,3,home,DefReb,,,DefReb,,T. Harris,
+287,3,0:58.0,90,82,PHI,ORL,10,home,LU,,4,miss2,0,T. Harris,
+288,3,0:55.0,90,82,PHI,ORL,3,home,OffReb,,,OffReb,,J. Patton,
+289,3,0:55.0,90,82,PHI,ORL,0,home,LU,,1,miss2,0,J. Patton,
+290,3,0:54.0,90,82,PHI,ORL,1,away,DefReb,,,DefReb,,W. Iwundu,
+291,3,0:50.0,90,82,PHI,ORL,4,away,LU,block,4,miss2,0,W. Iwundu,T. Harris
+292,3,0:48.0,90,82,PHI,ORL,2,home,DefReb,,,DefReb,,T. Harris,
+293,3,0:41.0,90,82,PHI,ORL,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Iwundu,J. Redick
+294,3,0:41.0,91,82,PHI,ORL,0,home,FreeThrow,,,make1,1,J. Redick,
+295,3,0:41.0,92,82,PHI,ORL,0,home,FreeThrow,,,make1,1,J. Redick,
+296,3,0:22.0,92,82,PHI,ORL,19,away,JS,,19,miss2,0,E. Fournier,
+297,3,0:19.0,92,82,PHI,ORL,3,home,DefReb,,,DefReb,,T. Harris,
+298,3,0:01.0,94,82,PHI,ORL,18,home,JS,assist,16,make2,2,J. Simmons,T. McConnell
+299,4,11:48.0,94,82,PHI,ORL,12,home,JS,,18,miss2,0,J. Redick,
+300,4,11:44.0,94,82,PHI,ORL,4,away,DefReb,,,DefReb,,J. Martin,
+301,4,11:35.0,94,82,PHI,ORL,9,away,LU,,3,miss2,0,E. Fournier,
+302,4,11:32.0,94,82,PHI,ORL,3,away,OffReb,,,OffReb,,K. Birch,
+303,4,11:32.0,94,84,PHI,ORL,0,away,LU,,0,make2,2,K. Birch,
+304,4,11:16.0,94,84,PHI,ORL,16,home,JS,,26,miss3,0,J. Patton,
+305,4,11:13.0,94,84,PHI,ORL,3,away,DefReb,,,DefReb,,J. Martin,
+306,4,11:07.0,94,86,PHI,ORL,6,away,DK,,0,make2,2,J. Martin,
+307,4,11:07.0,94,86,PHI,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Patton,J. Martin
+308,4,11:07.0,94,86,PHI,ORL,0,away,FreeThrow,,,make1,0,J. Martin,
+309,4,11:05.0,94,86,PHI,ORL,2,home,DefReb,,,DefReb,,J. Patton,
+310,4,10:49.0,94,86,PHI,ORL,16,home,LU,,2,miss2,0,J. Redick,
+311,4,10:45.0,94,86,PHI,ORL,4,away,DefReb,,,DefReb,,W. Iwundu,
+312,4,10:42.0,94,86,PHI,ORL,3,away,LU,,1,miss2,0,W. Iwundu,
+313,4,10:41.0,94,86,PHI,ORL,1,away,OffReb,,,OffReb,,K. Birch,
+314,4,10:41.0,94,88,PHI,ORL,0,away,DK,,0,make2,2,K. Birch,
+315,4,10:41.0,94,88,PHI,ORL,0,home,Timeout,,,,,,
+316,4,10:41.0,94,88,PHI,ORL,0,home,Sub,,,,,A. Johnson,J. Patton
+317,4,10:27.0,96,88,PHI,ORL,14,home,JS,assist,16,make2,2,J. Butler,B. Simmons
+318,4,10:08.0,96,88,PHI,ORL,19,away,JS,,14,miss2,0,E. Fournier,
+319,4,10:06.0,96,88,PHI,ORL,2,home,DefReb,,,DefReb,,J. Redick,
+320,4,9:58.0,96,88,PHI,ORL,8,home,LU,,1,miss2,0,J. Butler,
+321,4,9:54.0,96,88,PHI,ORL,4,away,DefReb,,,DefReb,,W. Iwundu,
+322,4,9:42.0,96,88,PHI,ORL,12,away,JS,,27,miss3,0,E. Fournier,
+323,4,9:38.0,96,88,PHI,ORL,4,home,DefReb,,,DefReb,,T. McConnell,
+324,4,9:34.0,98,88,PHI,ORL,4,home,LU,assist,2,make2,2,A. Johnson,B. Simmons
+325,4,9:26.0,98,88,PHI,ORL,8,away,Timeout,,,,,,
+326,4,9:26.0,98,88,PHI,ORL,0,away,Sub,,,,,A. Gordon,J. Martin
+327,4,9:12.0,98,88,PHI,ORL,14,away,JS,,25,miss3,0,E. Fournier,
+328,4,9:09.0,98,88,PHI,ORL,3,home,DefReb,,,DefReb,,B. Simmons,
+329,4,9:03.0,98,88,PHI,ORL,6,home,JS,,4,miss2,0,B. Simmons,
+330,4,9:00.0,98,88,PHI,ORL,3,away,DefReb,,,DefReb,,W. Iwundu,
+331,4,8:51.0,98,90,PHI,ORL,9,away,LU,assist,2,make2,2,K. Birch,I. Briscoe
+332,4,8:23.0,98,90,PHI,ORL,28,home,JS,,9,miss2,0,T. McConnell,
+333,4,8:21.0,98,90,PHI,ORL,2,home,OffReb,,,OffReb,,A. Johnson,
+334,4,8:10.0,98,90,PHI,ORL,11,home,JS,,28,miss3,0,A. Johnson,
+335,4,8:07.0,98,90,PHI,ORL,3,away,DefReb,,,DefReb,,W. Iwundu,
+336,4,8:02.0,98,90,PHI,ORL,5,away,JS,,16,miss2,0,I. Briscoe,
+337,4,7:59.0,98,90,PHI,ORL,3,home,DefReb,,,DefReb,,B. Simmons,
+338,4,7:56.0,100,90,PHI,ORL,3,home,LU,,2,make2,2,B. Simmons,
+339,4,7:56.0,100,90,PHI,ORL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Iwundu,B. Simmons
+340,4,7:56.0,100,90,PHI,ORL,0,home,Sub,,,,,T. Harris,J. Butler
+341,4,7:56.0,100,90,PHI,ORL,0,home,Sub,,,,,M. Scott,A. Johnson
+342,4,7:56.0,100,90,PHI,ORL,0,home,Sub,,,,,J. Simmons,J. Redick
+343,4,7:56.0,101,90,PHI,ORL,0,home,FreeThrow,,,make1,1,B. Simmons,
+344,4,7:33.0,101,93,PHI,ORL,23,away,JS,assist,25,make3,3,I. Briscoe,W. Iwundu
+345,4,7:05.0,101,93,PHI,ORL,28,home,LU,,3,miss2,0,J. Simmons,
+346,4,7:00.0,101,93,PHI,ORL,5,home,OffReb,,,OffReb,,B. Simmons,
+347,4,7:00.0,101,93,PHI,ORL,0,home,DK,,1,miss2,0,B. Simmons,
+348,4,7:00.0,101,93,PHI,ORL,0,away,DefReb,,,DefReb,,A. Gordon,
+349,4,6:59.0,101,93,PHI,ORL,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,A. Gordon
+350,4,6:59.0,101,93,PHI,ORL,0,away,Sub,,,,,N. Vučević,K. Birch
+351,4,6:59.0,101,93,PHI,ORL,0,away,FreeThrow,,,make1,0,A. Gordon,
+352,4,6:59.0,101,93,PHI,ORL,0,away,OffReb,,,OffReb,,Team,
+353,4,6:59.0,101,94,PHI,ORL,0,away,FreeThrow,,,make1,1,A. Gordon,
+354,4,6:40.0,101,94,PHI,ORL,19,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Scott,W. Iwundu
+355,4,6:40.0,101,94,PHI,ORL,0,home,OffensiveFoul,,,turnover,,M. Scott,
+356,4,6:18.0,101,94,PHI,ORL,22,away,OutOfBoundsLB,,,turnover,,W. Iwundu,
+357,4,6:05.0,101,94,PHI,ORL,13,home,JS,,18,miss2,0,B. Simmons,
+358,4,6:02.0,101,94,PHI,ORL,3,away,DefReb,,,DefReb,,N. Vučević,
+359,4,5:51.0,101,97,PHI,ORL,11,away,JS,assist,26,make3,3,E. Fournier,W. Iwundu
+360,4,5:26.0,101,97,PHI,ORL,25,home,JS,,27,miss3,0,M. Scott,
+361,4,5:25.0,101,97,PHI,ORL,1,away,DefReb,,,DefReb,,Team,
+362,4,5:25.0,101,97,PHI,ORL,0,away,Sub,,,,,D. Augustin,I. Briscoe
+363,4,5:25.0,101,97,PHI,ORL,0,away,Sub,,,,,J. Isaac,W. Iwundu
+364,4,5:25.0,101,97,PHI,ORL,0,home,Sub,,,,,J. Butler,T. McConnell
+365,4,5:25.0,101,97,PHI,ORL,0,home,Sub,,,,,J. Redick,J. Simmons
+366,4,5:04.0,101,97,PHI,ORL,21,away,LU,,2,miss2,0,A. Gordon,
+367,4,5:00.0,101,97,PHI,ORL,4,away,OffReb,,,OffReb,,N. Vučević,
+368,4,5:00.0,101,99,PHI,ORL,0,away,DK,,0,make2,2,N. Vučević,
+369,4,4:50.0,101,99,PHI,ORL,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Augustin,J. Redick
+370,4,4:42.0,101,99,PHI,ORL,8,home,JS,,20,miss2,0,J. Redick,
+371,4,4:38.0,101,99,PHI,ORL,4,away,DefReb,,,DefReb,,A. Gordon,
+372,4,4:31.0,101,99,PHI,ORL,7,away,JS,,24,miss3,0,N. Vučević,
+373,4,4:28.0,101,99,PHI,ORL,3,home,DefReb,,,DefReb,,T. Harris,
+374,4,4:19.0,101,99,PHI,ORL,9,home,BadPass,,,turnover,,T. Harris,
+375,4,4:04.0,101,99,PHI,ORL,15,away,LU,,1,miss2,0,A. Gordon,
+376,4,4:02.0,101,99,PHI,ORL,2,home,DefReb,,,DefReb,,T. Harris,
+377,4,3:55.0,101,99,PHI,ORL,7,home,JS,,24,miss3,0,M. Scott,
+378,4,3:52.0,101,99,PHI,ORL,3,away,DefReb,,,DefReb,,A. Gordon,
+379,4,3:48.0,101,99,PHI,ORL,4,away,JS,,25,miss3,0,E. Fournier,
+380,4,3:43.0,101,99,PHI,ORL,5,away,OffReb,,,OffReb,,A. Gordon,
+381,4,3:38.0,101,99,PHI,ORL,5,away,HS,,6,miss2,0,N. Vučević,
+382,4,3:37.0,101,99,PHI,ORL,1,home,DefReb,,,DefReb,,J. Redick,
+383,4,3:31.0,101,99,PHI,ORL,6,home,Timeout,,,,,,
+384,4,3:24.0,101,99,PHI,ORL,7,home,LU,,3,miss2,0,J. Butler,
+385,4,3:19.0,101,99,PHI,ORL,5,home,OffReb,,,OffReb,,B. Simmons,
+386,4,3:19.0,101,99,PHI,ORL,0,home,DK,,1,miss2,0,B. Simmons,
+387,4,3:19.0,101,99,PHI,ORL,0,away,DefReb,,,DefReb,,D. Augustin,
+388,4,3:18.0,101,99,PHI,ORL,1,away,Timeout,,,,,,
+389,4,3:08.0,101,99,PHI,ORL,10,away,LU,,3,miss2,0,E. Fournier,
+390,4,3:05.0,101,99,PHI,ORL,3,home,DefReb,,,DefReb,,M. Scott,
+391,4,2:49.0,103,99,PHI,ORL,16,home,JS,,19,make2,2,J. Butler,
+392,4,2:34.0,103,99,PHI,ORL,15,away,lost ball,steal,,turnover,,N. Vučević,J. Butler
+393,4,2:19.0,103,99,PHI,ORL,15,home,HS,,4,miss2,0,B. Simmons,
+394,4,2:17.0,103,99,PHI,ORL,2,away,DefReb,,,DefReb,,N. Vučević,
+395,4,2:15.0,103,99,PHI,ORL,2,away,lost ball,steal,,turnover,,A. Gordon,B. Simmons
+396,4,2:10.0,103,99,PHI,ORL,5,home,JS,,27,miss3,0,J. Redick,
+397,4,2:06.0,103,99,PHI,ORL,4,away,DefReb,,,DefReb,,D. Augustin,
+398,4,1:50.0,103,102,PHI,ORL,16,away,JS,assist,24,make3,3,J. Isaac,N. Vučević
+399,4,1:32.0,105,102,PHI,ORL,18,home,JS,,21,make2,2,J. Butler,
+400,4,1:06.0,105,102,PHI,ORL,26,away,JS,,11,miss2,0,J. Isaac,
+401,4,1:04.0,105,102,PHI,ORL,2,home,DefReb,,,DefReb,,M. Scott,
+402,4,0:48.0,108,102,PHI,ORL,16,home,JS,assist,26,make3,3,M. Scott,J. Butler
+403,4,0:47.0,108,102,PHI,ORL,1,away,Timeout,,,,,,
+404,4,0:47.0,108,102,PHI,ORL,0,home,Sub,,,,,J. Simmons,J. Redick
+405,4,0:40.0,108,104,PHI,ORL,7,away,LU,,0,make2,2,E. Fournier,
+406,4,0:40.0,108,104,PHI,ORL,0,home,Timeout,,,,,,
+407,4,0:40.0,108,104,PHI,ORL,0,home,Sub,,,,,J. Redick,J. Simmons
+408,4,0:39.0,108,104,PHI,ORL,1,home,bad pass,steal,,turnover,,B. Simmons,N. Vučević
+409,4,0:36.0,108,104,PHI,ORL,3,away,bad pass,steal,,turnover,,N. Vučević,M. Scott
+410,4,0:32.0,108,104,PHI,ORL,4,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Fournier,J. Butler
+411,4,0:22.0,108,104,PHI,ORL,10,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Augustin,T. Harris
+412,4,0:22.0,109,104,PHI,ORL,0,home,FreeThrow,,,make1,1,T. Harris,
+413,4,0:22.0,109,104,PHI,ORL,0,home,Sub,,,,,J. Simmons,J. Redick
+414,4,0:22.0,110,104,PHI,ORL,0,home,FreeThrow,,,make1,1,T. Harris,
+415,4,0:22.0,110,104,PHI,ORL,0,away,Timeout,,,,,,
+416,4,0:19.0,110,104,PHI,ORL,3,away,JS,,26,miss3,0,E. Fournier,
+417,4,0:16.0,110,104,PHI,ORL,3,away,OffReb,,,OffReb,,J. Isaac,
+418,4,0:15.0,110,104,PHI,ORL,1,away,JS,,23,miss3,0,J. Isaac,
+419,4,0:12.0,110,104,PHI,ORL,3,home,DefReb,,,DefReb,,T. Harris,
+420,4,0:11.0,110,104,PHI,ORL,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,N. Vučević,T. Harris
+421,4,0:11.0,111,104,PHI,ORL,0,home,FreeThrow,,,make1,1,T. Harris,
+422,4,0:11.0,112,104,PHI,ORL,0,home,FreeThrow,,,make1,1,T. Harris,
+423,4,0:04.0,112,106,PHI,ORL,7,away,DK,assist,2,make2,2,J. Isaac,D. Augustin
+424,4,0:02.0,112,106,PHI,ORL,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Fournier,J. Butler
+425,4,0:02.0,113,106,PHI,ORL,0,home,FreeThrow,,,make1,1,J. Butler,
+426,4,0:02.0,114,106,PHI,ORL,0,home,FreeThrow,,,make1,1,J. Butler,

@@ -1,0 +1,531 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,0,0,SAC,PHI,15,home,BadPass,steal,,turnover,,D. Cousins,I. Smith
+1,1,11:38.0,0,2,SAC,PHI,7,away,LU,assist,1,make2,2,J. Grant,I. Smith
+2,1,11:27.0,0,2,SAC,PHI,11,home,JS,,2,miss2,0,D. Cousins,
+3,1,11:26.0,0,2,SAC,PHI,1,home,OffReb,,,OffReb,,D. Cousins,
+4,1,11:26.0,2,2,SAC,PHI,0,home,LU,,2,make2,2,D. Cousins,
+5,1,11:03.0,2,4,SAC,PHI,23,away,JS,,16,make2,2,I. Smith,
+6,1,10:45.0,4,4,SAC,PHI,18,home,DK,assist,0,make2,2,D. Cousins,B. McLemore
+7,1,10:35.0,4,4,SAC,PHI,10,away,JS,,23,miss3,0,I. Canaan,
+8,1,10:34.0,4,4,SAC,PHI,1,home,DefReb,,,DefReb,,R. Gay,
+9,1,10:29.0,4,4,SAC,PHI,5,home,LostBall,steal,,turnover,,O. Casspi,I. Canaan
+10,1,10:18.0,4,4,SAC,PHI,11,away,JS,,22,miss3,0,J. Sampson,
+11,1,10:17.0,4,4,SAC,PHI,1,away,OffReb,,,OffReb,,J. Grant,
+12,1,10:13.0,4,6,SAC,PHI,4,away,LU,,1,make2,2,I. Smith,
+13,1,10:02.0,4,6,SAC,PHI,11,home,LU,block,2,miss2,0,R. Gay,J. Sampson
+14,1,10:01.0,4,6,SAC,PHI,1,away,DefReb,,,DefReb,,I. Smith,
+15,1,9:56.0,4,6,SAC,PHI,5,away,JS,,7,miss2,0,I. Smith,
+16,1,9:55.0,4,6,SAC,PHI,1,away,OffReb,,,OffReb,,J. Sampson,
+17,1,9:55.0,4,6,SAC,PHI,0,away,LU,,3,miss2,0,J. Sampson,
+18,1,9:55.0,4,6,SAC,PHI,0,home,DefReb,,,DefReb,,B. McLemore,
+19,1,9:49.0,4,6,SAC,PHI,6,home,LU,,2,miss2,0,O. Casspi,
+20,1,9:48.0,4,6,SAC,PHI,1,home,OffReb,,,OffReb,,O. Casspi,
+21,1,9:42.0,7,6,SAC,PHI,6,home,JS,,25,make3,3,B. McLemore,
+22,1,9:20.0,7,6,SAC,PHI,22,away,JS,,25,miss3,0,I. Canaan,
+23,1,9:19.0,7,6,SAC,PHI,1,home,DefReb,,,DefReb,,R. Gay,
+24,1,9:07.0,7,6,SAC,PHI,12,away,KickBallViolation,,,KickBallViolation,,N. Noel,
+25,1,8:59.0,9,6,SAC,PHI,8,home,HS,assist,4,make2,2,D. Cousins,R. Rondo
+26,1,8:51.0,9,6,SAC,PHI,8,away,LostBall,,,turnover,,J. Sampson,
+27,1,8:41.0,9,6,SAC,PHI,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Sampson,R. Rondo
+28,1,8:41.0,9,6,SAC,PHI,0,home,FreeThrow,,,make1,0,R. Rondo,
+29,1,8:41.0,9,6,SAC,PHI,0,home,OffReb,,,OffReb,,Team,
+30,1,8:41.0,9,6,SAC,PHI,0,home,FreeThrow,,,make1,0,R. Rondo,
+31,1,8:40.0,9,6,SAC,PHI,1,away,DefReb,,,DefReb,,I. Canaan,
+32,1,8:35.0,9,6,SAC,PHI,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. McLemore,I. Smith
+33,1,8:35.0,9,7,SAC,PHI,0,away,FreeThrow,,,make1,1,I. Smith,
+34,1,8:35.0,9,7,SAC,PHI,0,away,FreeThrow,,,make1,0,I. Smith,
+35,1,8:34.0,9,7,SAC,PHI,1,home,DefReb,,,DefReb,,R. Gay,
+36,1,8:20.0,11,7,SAC,PHI,14,home,JS,assist,20,make2,2,D. Cousins,R. Rondo
+37,1,8:11.0,11,9,SAC,PHI,9,away,DK,assist,0,make2,2,N. Noel,I. Smith
+38,1,8:11.0,11,9,SAC,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Gay,N. Noel
+39,1,8:11.0,11,9,SAC,PHI,0,away,FreeThrow,,,make1,0,N. Noel,
+40,1,8:09.0,11,9,SAC,PHI,2,home,DefReb,,,DefReb,,O. Casspi,
+41,1,7:46.0,11,9,SAC,PHI,23,home,JS,block,24,miss3,0,R. Rondo,I. Smith
+42,1,7:44.0,11,9,SAC,PHI,2,away,DefReb,,,DefReb,,J. Sampson,
+43,1,7:40.0,11,9,SAC,PHI,4,away,JS,,3,miss2,0,J. Sampson,
+44,1,7:39.0,11,9,SAC,PHI,1,away,OffReb,,,OffReb,,J. Grant,
+45,1,7:39.0,11,9,SAC,PHI,0,away,LU,,1,miss2,0,J. Grant,
+46,1,7:38.0,11,9,SAC,PHI,1,away,OffReb,,,OffReb,,J. Sampson,
+47,1,7:36.0,11,9,SAC,PHI,2,away,JS,,7,miss2,0,J. Sampson,
+48,1,7:35.0,11,9,SAC,PHI,1,home,DefReb,,,DefReb,,D. Cousins,
+49,1,7:20.0,11,9,SAC,PHI,15,home,JS,,24,miss3,0,B. McLemore,
+50,1,7:19.0,11,9,SAC,PHI,1,away,DefReb,,,DefReb,,N. Noel,
+51,1,7:15.0,11,9,SAC,PHI,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. McLemore,I. Smith
+52,1,6:58.0,11,9,SAC,PHI,17,away,LostBall,steal,,turnover,,J. Sampson,R. Rondo
+53,1,6:53.0,11,9,SAC,PHI,5,home,LostBall,,,turnover,,B. McLemore,
+54,1,6:38.0,11,9,SAC,PHI,15,away,JS,,6,miss2,0,N. Noel,
+55,1,6:36.0,11,9,SAC,PHI,2,away,OffReb,,,OffReb,,J. Sampson,
+56,1,6:36.0,11,11,SAC,PHI,0,away,LU,,2,make2,2,J. Sampson,
+57,1,6:32.0,11,11,SAC,PHI,4,away,ChargeFoul,DrawnBy,,ChargeFoul,,R. Gay,N. Noel
+58,1,6:32.0,11,11,SAC,PHI,0,home,OffensiveFoul,,,turnover,,R. Gay,
+59,1,6:32.0,11,11,SAC,PHI,0,away,Timeout,,,,,,
+60,1,6:32.0,11,11,SAC,PHI,0,away,Sub,,,,,N. Stauskas,J. Sampson
+61,1,6:21.0,11,13,SAC,PHI,11,away,DK,assist,0,make2,2,N. Noel,I. Smith
+62,1,6:02.0,14,13,SAC,PHI,19,home,JS,assist,24,make3,3,B. McLemore,R. Rondo
+63,1,5:44.0,14,15,SAC,PHI,18,away,DK,assist,0,make2,2,N. Noel,N. Stauskas
+64,1,5:32.0,16,15,SAC,PHI,12,home,LU,,1,make2,2,R. Rondo,
+65,1,5:20.0,16,15,SAC,PHI,12,away,JS,,23,miss3,0,N. Stauskas,
+66,1,5:19.0,16,15,SAC,PHI,1,home,DefReb,,,DefReb,,D. Cousins,
+67,1,5:17.0,16,15,SAC,PHI,2,home,BadPass,,,turnover,,D. Cousins,
+68,1,5:17.0,16,15,SAC,PHI,0,home,Sub,,,,,D. Collison,O. Casspi
+69,1,5:17.0,16,15,SAC,PHI,0,away,Sub,,,,,H. Thompson,I. Canaan
+70,1,5:17.0,16,15,SAC,PHI,0,away,Sub,,,,,R. Covington,J. Grant
+71,1,5:17.0,16,15,SAC,PHI,0,away,Sub,,,,,J. Okafor,N. Noel
+72,1,5:07.0,16,17,SAC,PHI,10,away,LU,assist,2,make2,2,H. Thompson,R. Covington
+73,1,5:07.0,16,17,SAC,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,H. Thompson
+74,1,5:07.0,16,17,SAC,PHI,0,home,Sub,,,,,M. Belinelli,B. McLemore
+75,1,5:07.0,16,18,SAC,PHI,0,away,FreeThrow,,,make1,1,H. Thompson,
+76,1,4:55.0,18,18,SAC,PHI,12,home,JS,assist,19,make2,2,M. Belinelli,R. Rondo
+77,1,4:42.0,18,18,SAC,PHI,13,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Okafor,R. Gay
+78,1,4:42.0,18,18,SAC,PHI,0,away,OffensiveFoul,,,turnover,,J. Okafor,
+79,1,4:29.0,20,18,SAC,PHI,13,home,JS,assist,17,make2,2,M. Belinelli,R. Rondo
+80,1,4:07.0,20,18,SAC,PHI,22,away,JS,block,3,miss2,0,J. Okafor,D. Cousins
+81,1,4:06.0,20,18,SAC,PHI,1,home,DefReb,,,DefReb,,D. Cousins,
+82,1,3:59.0,20,18,SAC,PHI,7,home,JS,,25,miss3,0,D. Cousins,
+83,1,3:58.0,20,18,SAC,PHI,1,away,DefReb,,,DefReb,,N. Stauskas,
+84,1,3:56.0,20,18,SAC,PHI,2,away,BadPass,steal,,turnover,,N. Stauskas,D. Collison
+85,1,3:54.0,20,18,SAC,PHI,2,home,LU,,2,miss2,0,D. Collison,
+86,1,3:53.0,20,18,SAC,PHI,1,away,DefReb,,,DefReb,,H. Thompson,
+87,1,3:39.0,20,21,SAC,PHI,14,away,JS,assist,24,make3,3,H. Thompson,J. Okafor
+88,1,3:28.0,20,21,SAC,PHI,11,home,BadPass,,,turnover,,R. Rondo,
+89,1,3:28.0,20,21,SAC,PHI,0,away,Sub,,,,,T. McConnell,I. Smith
+90,1,3:14.0,20,21,SAC,PHI,14,away,JS,,25,miss3,0,N. Stauskas,
+91,1,3:13.0,20,21,SAC,PHI,1,home,DefReb,,,DefReb,,R. Gay,
+92,1,3:07.0,20,21,SAC,PHI,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Covington,D. Cousins
+93,1,3:07.0,20,21,SAC,PHI,0,home,FreeThrow,,,make1,0,D. Cousins,
+94,1,3:07.0,20,21,SAC,PHI,0,home,OffReb,,,OffReb,,Team,
+95,1,3:07.0,20,21,SAC,PHI,0,home,Sub,,,,,O. Casspi,R. Gay
+96,1,3:07.0,21,21,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+97,1,2:55.0,21,24,SAC,PHI,12,away,JS,assist,23,make3,3,N. Stauskas,T. McConnell
+98,1,2:39.0,23,24,SAC,PHI,16,home,JS,assist,20,make2,2,M. Belinelli,R. Rondo
+99,1,2:26.0,23,24,SAC,PHI,13,away,JS,block,5,miss2,0,J. Okafor,D. Cousins
+100,1,2:24.0,23,24,SAC,PHI,2,home,DefReb,,,DefReb,,M. Belinelli,
+101,1,2:17.0,23,24,SAC,PHI,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Okafor,D. Cousins
+102,1,2:17.0,23,24,SAC,PHI,0,home,Timeout,,,,,,
+103,1,2:17.0,24,24,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+104,1,2:17.0,25,24,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+105,1,1:53.0,25,26,SAC,PHI,24,away,JS,,15,make2,2,H. Thompson,
+106,1,1:35.0,27,26,SAC,PHI,18,home,JS,assist,21,make2,2,M. Belinelli,R. Rondo
+107,1,1:15.0,27,26,SAC,PHI,20,away,JS,,8,miss2,0,J. Okafor,
+108,1,1:14.0,27,26,SAC,PHI,1,home,DefReb,,,DefReb,,O. Casspi,
+109,1,1:10.0,29,26,SAC,PHI,4,home,LU,assist,2,make2,2,D. Collison,M. Belinelli
+110,1,0:53.0,29,26,SAC,PHI,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Casspi,R. Covington
+111,1,0:53.0,29,27,SAC,PHI,0,away,FreeThrow,,,make1,1,R. Covington,
+112,1,0:53.0,29,28,SAC,PHI,0,away,FreeThrow,,,make1,1,R. Covington,
+113,1,0:53.0,29,28,SAC,PHI,0,home,Sub,,,,,K. Koufos,D. Cousins
+114,1,0:53.0,29,28,SAC,PHI,0,away,FreeThrow,,,make1,0,R. Covington,
+115,1,0:53.0,29,28,SAC,PHI,0,home,DefReb,,,DefReb,,R. Rondo,
+116,1,0:45.0,29,28,SAC,PHI,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Covington,O. Casspi
+117,1,0:45.0,30,28,SAC,PHI,0,home,FreeThrow,,,make1,1,O. Casspi,
+118,1,0:45.0,31,28,SAC,PHI,0,home,FreeThrow,,,make1,1,O. Casspi,
+119,1,0:20.0,31,28,SAC,PHI,25,away,JS,,24,miss3,0,H. Thompson,
+120,1,0:20.0,31,28,SAC,PHI,0,away,OffReb,,,OffReb,,J. Okafor,
+121,1,0:19.0,31,30,SAC,PHI,1,away,LU,,2,make2,2,J. Okafor,
+122,1,0:00.0,31,30,SAC,PHI,19,home,JS,,25,miss3,0,M. Belinelli,
+123,1,0:00.0,31,30,SAC,PHI,0,away,DefReb,,,DefReb,,J. Okafor,
+124,2,11:41.0,31,30,SAC,PHI,19,away,JS,,24,miss3,0,H. Thompson,
+125,2,11:41.0,31,30,SAC,PHI,0,home,DefReb,,,DefReb,,Team,
+126,2,11:36.0,31,30,SAC,PHI,5,home,LostBall,,,turnover,,B. McLemore,
+127,2,11:21.0,31,30,SAC,PHI,15,away,BadPass,steal,,turnover,,T. McConnell,M. Belinelli
+128,2,11:09.0,31,30,SAC,PHI,12,home,JS,,30,miss3,0,O. Casspi,
+129,2,11:09.0,31,30,SAC,PHI,0,away,DefReb,,,DefReb,,J. Okafor,
+130,2,10:56.0,31,30,SAC,PHI,13,away,JS,,6,miss2,0,H. Thompson,
+131,2,10:55.0,31,30,SAC,PHI,1,away,OffReb,,,OffReb,,J. Okafor,
+132,2,10:55.0,31,30,SAC,PHI,0,away,LU,,1,miss2,0,J. Okafor,
+133,2,10:53.0,31,30,SAC,PHI,2,away,OffReb,,,OffReb,,J. Okafor,
+134,2,10:51.0,31,30,SAC,PHI,2,away,JS,,4,miss2,0,J. Okafor,
+135,2,10:50.0,31,30,SAC,PHI,1,home,DefReb,,,DefReb,,O. Casspi,
+136,2,10:44.0,33,30,SAC,PHI,6,home,LU,,0,make2,2,D. Collison,
+137,2,10:28.0,33,32,SAC,PHI,16,away,HS,,5,make2,2,J. Okafor,
+138,2,10:28.0,33,32,SAC,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Koufos,J. Okafor
+139,2,10:28.0,33,32,SAC,PHI,0,away,Sub,,,,,J. Sampson,N. Stauskas
+140,2,10:28.0,33,33,SAC,PHI,0,away,FreeThrow,,,make1,1,J. Okafor,
+141,2,10:10.0,35,33,SAC,PHI,18,home,HS,,6,make2,2,K. Koufos,
+142,2,9:53.0,35,33,SAC,PHI,17,away,JS,,24,miss3,0,R. Covington,
+143,2,9:51.0,35,33,SAC,PHI,2,home,DefReb,,,DefReb,,D. Collison,
+144,2,9:43.0,37,33,SAC,PHI,8,home,JS,assist,3,make2,2,O. Casspi,D. Collison
+145,2,9:43.0,37,33,SAC,PHI,0,away,Timeout,,,,,,
+146,2,9:43.0,37,33,SAC,PHI,0,away,Sub,,,,,N. Noel,J. Okafor
+147,2,9:32.0,37,35,SAC,PHI,11,away,LU,assist,2,make2,2,J. Sampson,T. McConnell
+148,2,9:19.0,39,35,SAC,PHI,13,home,HS,assist,8,make2,2,K. Koufos,D. Collison
+149,2,8:56.0,39,35,SAC,PHI,23,away,JS,,19,miss2,0,H. Thompson,
+150,2,8:56.0,39,35,SAC,PHI,0,home,DefReb,,,DefReb,,D. Collison,
+151,2,8:50.0,41,35,SAC,PHI,6,home,LU,assist,2,make2,2,B. McLemore,D. Collison
+152,2,8:36.0,41,35,SAC,PHI,14,away,Traveling,,,turnover,,T. McConnell,
+153,2,8:36.0,41,35,SAC,PHI,0,away,Sub,,,,,I. Canaan,H. Thompson
+154,2,8:28.0,41,35,SAC,PHI,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. McConnell,D. Collison
+155,2,8:28.0,42,35,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Collison,
+156,2,8:28.0,43,35,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Collison,
+157,2,8:13.0,43,35,SAC,PHI,15,away,JS,,23,miss3,0,J. Sampson,
+158,2,8:13.0,43,35,SAC,PHI,0,home,DefReb,,,DefReb,,Team,
+159,2,8:00.0,43,35,SAC,PHI,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Covington,K. Koufos
+160,2,8:00.0,43,35,SAC,PHI,0,home,FreeThrow,,,make1,0,K. Koufos,
+161,2,8:00.0,43,35,SAC,PHI,0,home,OffReb,,,OffReb,,Team,
+162,2,8:00.0,43,35,SAC,PHI,0,away,Sub,,,,,I. Smith,R. Covington
+163,2,8:00.0,43,35,SAC,PHI,0,away,Sub,,,,,J. Grant,T. McConnell
+164,2,8:00.0,44,35,SAC,PHI,0,home,FreeThrow,,,make1,1,K. Koufos,
+165,2,7:43.0,44,35,SAC,PHI,17,away,LostBall,,,turnover,,J. Grant,
+166,2,7:43.0,44,35,SAC,PHI,0,home,Sub,,,,,R. Gay,O. Casspi
+167,2,7:25.0,44,35,SAC,PHI,18,home,JS,,27,miss3,0,M. Belinelli,
+168,2,7:23.0,44,35,SAC,PHI,2,away,DefReb,,,DefReb,,N. Noel,
+169,2,7:11.0,44,35,SAC,PHI,12,away,JS,,5,miss2,0,J. Sampson,
+170,2,7:10.0,44,35,SAC,PHI,1,away,OffReb,,,OffReb,,N. Noel,
+171,2,7:10.0,44,37,SAC,PHI,0,away,DK,,0,make2,2,N. Noel,
+172,2,6:55.0,44,37,SAC,PHI,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Canaan,B. McLemore
+173,2,6:55.0,44,37,SAC,PHI,0,home,FreeThrow,,,make1,0,B. McLemore,
+174,2,6:55.0,44,37,SAC,PHI,0,home,OffReb,,,OffReb,,Team,
+175,2,6:55.0,44,37,SAC,PHI,0,home,Sub,,,,,D. Cousins,K. Koufos
+176,2,6:55.0,45,37,SAC,PHI,0,home,FreeThrow,,,make1,1,B. McLemore,
+177,2,6:42.0,45,39,SAC,PHI,13,away,JS,,6,make2,2,I. Smith,
+178,2,6:27.0,45,39,SAC,PHI,15,home,JS,,24,miss3,0,R. Gay,
+179,2,6:26.0,45,39,SAC,PHI,1,away,DefReb,,,DefReb,,J. Grant,
+180,2,6:19.0,45,39,SAC,PHI,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,N. Noel
+181,2,6:19.0,45,40,SAC,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
+182,2,6:19.0,45,40,SAC,PHI,0,home,Sub,,,,,R. Rondo,B. McLemore
+183,2,6:19.0,45,41,SAC,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
+184,2,6:06.0,47,41,SAC,PHI,13,home,JS,assist,20,make2,2,M. Belinelli,R. Rondo
+185,2,5:51.0,47,41,SAC,PHI,15,away,JS,,16,miss2,0,N. Noel,
+186,2,5:51.0,47,41,SAC,PHI,0,home,DefReb,,,DefReb,,D. Cousins,
+187,2,5:35.0,47,41,SAC,PHI,16,home,JS,block,3,miss2,0,D. Cousins,J. Grant
+188,2,5:33.0,47,41,SAC,PHI,2,away,DefReb,,,DefReb,,I. Canaan,
+189,2,5:32.0,47,41,SAC,PHI,1,home,DefGoaltending,,,DefGoaltending,,R. Gay,
+190,2,5:32.0,47,43,SAC,PHI,0,away,LU,,2,make2,2,I. Canaan,
+191,2,5:25.0,47,43,SAC,PHI,7,home,JS,block,4,miss2,0,D. Cousins,J. Grant
+192,2,5:23.0,47,43,SAC,PHI,2,away,DefReb,,,DefReb,,I. Smith,
+193,2,5:19.0,47,45,SAC,PHI,4,away,DK,assist,0,make2,2,N. Noel,I. Smith
+194,2,5:16.0,47,45,SAC,PHI,3,home,Timeout,,,,,,
+195,2,5:00.0,47,45,SAC,PHI,16,home,BadPass,,,turnover,,R. Rondo,
+196,2,4:40.0,47,45,SAC,PHI,20,away,LU,,3,miss2,0,I. Canaan,
+197,2,4:38.0,47,45,SAC,PHI,2,away,OffReb,,,OffReb,,N. Noel,
+198,2,4:38.0,47,45,SAC,PHI,0,away,DK,,0,miss2,0,N. Noel,
+199,2,4:37.0,47,45,SAC,PHI,1,home,DefReb,,,DefReb,,R. Rondo,
+200,2,4:31.0,47,45,SAC,PHI,6,home,BadPass,steal,,turnover,,D. Collison,J. Grant
+201,2,4:27.0,47,45,SAC,PHI,4,away,DK,block,4,miss2,0,J. Sampson,R. Gay
+202,2,4:25.0,47,45,SAC,PHI,2,home,DefReb,,,DefReb,,R. Gay,
+203,2,4:17.0,50,45,SAC,PHI,8,home,JS,assist,23,make3,3,M. Belinelli,R. Gay
+204,2,4:09.0,50,47,SAC,PHI,8,away,DK,assist,0,make2,2,N. Noel,I. Smith
+205,2,3:52.0,50,47,SAC,PHI,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Sampson,R. Rondo
+206,2,3:52.0,50,47,SAC,PHI,0,away,Sub,,,,,H. Thompson,J. Sampson
+207,2,3:52.0,50,47,SAC,PHI,0,home,Sub,,,,,O. Casspi,D. Collison
+208,2,3:38.0,50,47,SAC,PHI,14,home,JS,,25,miss3,0,O. Casspi,
+209,2,3:36.0,50,47,SAC,PHI,2,away,DefReb,,,DefReb,,H. Thompson,
+210,2,3:30.0,50,49,SAC,PHI,6,away,LU,,1,make2,2,H. Thompson,
+211,2,3:19.0,50,49,SAC,PHI,11,home,BadPass,steal,,turnover,,R. Rondo,J. Grant
+212,2,3:08.0,50,51,SAC,PHI,11,away,JS,assist,21,make2,2,H. Thompson,I. Smith
+213,2,2:51.0,50,51,SAC,PHI,17,home,LostBall,steal,,turnover,,D. Cousins,N. Noel
+214,2,2:43.0,50,53,SAC,PHI,8,away,LU,assist,2,make2,2,I. Canaan,J. Grant
+215,2,2:39.0,50,53,SAC,PHI,4,home,Timeout,,,,,,
+216,2,2:39.0,50,53,SAC,PHI,0,away,Timeout,,,,,,
+217,2,2:31.0,50,53,SAC,PHI,8,home,LU,block,2,miss2,0,R. Rondo,J. Grant
+218,2,2:31.0,50,53,SAC,PHI,0,home,OffReb,,,OffReb,,Team,
+219,2,2:26.0,50,53,SAC,PHI,5,home,JS,,19,miss2,0,M. Belinelli,
+220,2,2:25.0,50,53,SAC,PHI,1,away,DefReb,,,DefReb,,J. Grant,
+221,2,2:15.0,50,55,SAC,PHI,10,away,JS,,19,make2,2,I. Canaan,
+222,2,2:05.0,50,55,SAC,PHI,10,home,BadPass,steal,,turnover,,R. Gay,N. Noel
+223,2,1:55.0,50,55,SAC,PHI,10,away,LU,,2,miss2,0,N. Noel,
+224,2,1:54.0,50,55,SAC,PHI,1,home,DefReb,,,DefReb,,O. Casspi,
+225,2,1:46.0,50,55,SAC,PHI,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Thompson,D. Cousins
+226,2,1:46.0,51,55,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+227,2,1:46.0,51,55,SAC,PHI,0,home,FreeThrow,,,make1,0,D. Cousins,
+228,2,1:43.0,51,55,SAC,PHI,3,away,DefReb,,,DefReb,,J. Grant,
+229,2,1:31.0,51,55,SAC,PHI,12,away,JS,,24,miss3,0,H. Thompson,
+230,2,1:30.0,51,55,SAC,PHI,1,home,DefReb,,,DefReb,,R. Rondo,
+231,2,1:22.0,54,55,SAC,PHI,8,home,JS,assist,24,make3,3,M. Belinelli,R. Rondo
+232,2,1:07.0,54,55,SAC,PHI,15,away,JS,,4,miss2,0,I. Canaan,
+233,2,1:06.0,54,55,SAC,PHI,1,home,DefReb,,,DefReb,,D. Cousins,
+234,2,1:02.0,54,55,SAC,PHI,4,home,Sub,,,,,D. Collison,M. Belinelli
+235,2,0:58.0,56,55,SAC,PHI,4,home,LU,,3,make2,2,R. Gay,
+236,2,0:54.0,56,55,SAC,PHI,4,away,Timeout,,,,,,
+237,2,0:46.0,56,55,SAC,PHI,8,away,JS,,24,miss3,0,I. Smith,
+238,2,0:45.0,56,55,SAC,PHI,1,home,DefReb,,,DefReb,,O. Casspi,
+239,2,0:37.0,56,55,SAC,PHI,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Noel,D. Cousins
+240,2,0:37.0,57,55,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+241,2,0:37.0,57,55,SAC,PHI,0,home,Sub,,,,,M. Belinelli,R. Gay
+242,2,0:37.0,57,55,SAC,PHI,0,home,FreeThrow,,,make1,0,D. Cousins,
+243,2,0:36.0,57,55,SAC,PHI,1,away,DefReb,,,DefReb,,J. Grant,
+244,2,0:31.0,57,57,SAC,PHI,5,away,LU,,2,make2,2,I. Smith,
+245,2,0:14.0,57,57,SAC,PHI,17,home,LU,,3,miss2,0,R. Rondo,
+246,2,0:13.0,57,57,SAC,PHI,1,away,DefReb,,,DefReb,,N. Noel,
+247,2,0:06.0,57,57,SAC,PHI,7,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Collison,I. Smith
+248,2,0:06.0,57,57,SAC,PHI,0,home,Sub,,,,,K. Koufos,D. Cousins
+249,2,0:06.0,57,57,SAC,PHI,0,away,Sub,,,,,R. Covington,J. Grant
+250,2,0:00.0,57,57,SAC,PHI,6,away,JS,,25,miss3,0,I. Smith,
+251,2,0:00.0,57,57,SAC,PHI,0,away,OffReb,,,OffReb,,Team,
+252,3,11:37.0,57,59,SAC,PHI,23,away,JS,,9,make2,2,I. Smith,
+253,3,11:24.0,57,59,SAC,PHI,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Sampson,D. Cousins
+254,3,11:24.0,58,59,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+255,3,11:24.0,59,59,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+256,3,11:16.0,59,62,SAC,PHI,8,away,JS,assist,24,make3,3,J. Grant,I. Canaan
+257,3,11:02.0,59,62,SAC,PHI,14,home,LostBall,steal,,turnover,,R. Gay,N. Noel
+258,3,11:01.0,59,62,SAC,PHI,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,J. Grant
+259,3,10:56.0,59,65,SAC,PHI,5,away,JS,assist,24,make3,3,I. Canaan,I. Smith
+260,3,10:47.0,59,65,SAC,PHI,9,home,BadPass,,,turnover,,R. Rondo,
+261,3,10:26.0,59,65,SAC,PHI,21,away,JS,,20,miss2,0,I. Smith,
+262,3,10:25.0,59,65,SAC,PHI,1,home,DefReb,,,DefReb,,D. Cousins,
+263,3,9:59.0,59,65,SAC,PHI,26,home,JS,,24,miss3,0,R. Gay,
+264,3,9:58.0,59,65,SAC,PHI,1,away,DefReb,,,DefReb,,N. Noel,
+265,3,9:53.0,59,68,SAC,PHI,5,away,JS,,25,make3,3,I. Canaan,
+266,3,9:53.0,59,68,SAC,PHI,0,home,Timeout,,,,,,
+267,3,9:53.0,59,68,SAC,PHI,0,home,Sub,,,,,D. Collison,R. Gay
+268,3,9:53.0,59,68,SAC,PHI,0,home,Sub,,,,,Q. Acy,B. McLemore
+269,3,9:48.0,59,68,SAC,PHI,5,home,LostBall,steal,,turnover,,D. Cousins,I. Smith
+270,3,9:43.0,59,68,SAC,PHI,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,J. Sampson
+271,3,9:43.0,59,69,SAC,PHI,0,away,FreeThrow,,,make1,1,J. Sampson,
+272,3,9:43.0,59,69,SAC,PHI,0,away,FreeThrow,,,make1,0,J. Sampson,
+273,3,9:42.0,59,69,SAC,PHI,1,home,DefReb,,,DefReb,,Team,
+274,3,9:42.0,59,69,SAC,PHI,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Sampson,Q. Acy
+275,3,9:27.0,61,69,SAC,PHI,15,home,LU,assist,2,make2,2,R. Rondo,D. Cousins
+276,3,9:03.0,61,72,SAC,PHI,24,away,JS,assist,22,make3,3,J. Grant,N. Noel
+277,3,8:54.0,61,72,SAC,PHI,9,home,LostBall,,,turnover,,R. Rondo,
+278,3,8:54.0,61,72,SAC,PHI,0,away,Sub,,,,,R. Covington,J. Sampson
+279,3,8:42.0,61,72,SAC,PHI,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,Q. Acy,J. Grant
+280,3,8:42.0,61,72,SAC,PHI,0,away,FreeThrow,,,make1,0,J. Grant,
+281,3,8:42.0,61,72,SAC,PHI,0,away,OffReb,,,OffReb,,Team,
+282,3,8:42.0,61,73,SAC,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+283,3,8:33.0,63,73,SAC,PHI,9,home,JS,,11,make2,2,D. Collison,
+284,3,8:24.0,63,73,SAC,PHI,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Casspi,R. Covington
+285,3,8:10.0,63,73,SAC,PHI,14,away,LostBall,steal,,turnover,,J. Grant,Q. Acy
+286,3,7:58.0,66,73,SAC,PHI,12,home,JS,assist,25,make3,3,D. Collison,O. Casspi
+287,3,7:38.0,66,73,SAC,PHI,20,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,N. Noel
+288,3,7:38.0,66,73,SAC,PHI,0,away,FreeThrow,,,make1,0,N. Noel,
+289,3,7:38.0,66,73,SAC,PHI,0,away,OffReb,,,OffReb,,Team,
+290,3,7:38.0,66,73,SAC,PHI,0,away,FreeThrow,,,make1,0,N. Noel,
+291,3,7:36.0,66,73,SAC,PHI,2,home,DefReb,,,DefReb,,O. Casspi,
+292,3,7:25.0,66,73,SAC,PHI,11,home,JS,,15,miss2,0,D. Collison,
+293,3,7:24.0,66,73,SAC,PHI,1,away,DefReb,,,DefReb,,J. Grant,
+294,3,7:19.0,66,75,SAC,PHI,5,away,DK,assist,0,make2,2,N. Noel,I. Smith
+295,3,7:12.0,69,75,SAC,PHI,7,home,JS,assist,26,make3,3,O. Casspi,R. Rondo
+296,3,6:55.0,69,75,SAC,PHI,17,away,JS,block,5,miss2,0,I. Canaan,D. Cousins
+297,3,6:53.0,69,75,SAC,PHI,2,home,DefReb,,,DefReb,,R. Rondo,
+298,3,6:45.0,69,75,SAC,PHI,8,home,JS,,24,miss3,0,D. Collison,
+299,3,6:45.0,69,75,SAC,PHI,0,home,OffReb,,,OffReb,,Q. Acy,
+300,3,6:39.0,71,75,SAC,PHI,6,home,JS,,17,make2,2,R. Rondo,
+301,3,6:30.0,71,75,SAC,PHI,9,away,Timeout,,,,,,
+302,3,6:25.0,71,78,SAC,PHI,5,away,JS,assist,27,make3,3,I. Canaan,N. Noel
+303,3,6:09.0,71,78,SAC,PHI,16,home,LostBall,steal,,turnover,,D. Cousins,N. Noel
+304,3,6:05.0,71,78,SAC,PHI,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Casspi,J. Grant
+305,3,6:05.0,71,79,SAC,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+306,3,6:05.0,71,79,SAC,PHI,0,away,Sub,,,,,J. Okafor,N. Noel
+307,3,6:05.0,71,80,SAC,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+308,3,5:53.0,71,80,SAC,PHI,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,D. Cousins
+309,3,5:53.0,72,80,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+310,3,5:53.0,72,80,SAC,PHI,0,home,FreeThrow,,,make1,0,D. Cousins,
+311,3,5:51.0,72,80,SAC,PHI,2,home,OffReb,,,OffReb,,R. Rondo,
+312,3,5:45.0,72,80,SAC,PHI,6,home,JS,,28,miss3,0,O. Casspi,
+313,3,5:45.0,72,80,SAC,PHI,0,away,DefReb,,,DefReb,,Team,
+314,3,5:45.0,72,80,SAC,PHI,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,I. Smith
+315,3,5:45.0,72,81,SAC,PHI,0,away,FreeThrow,,,make1,1,I. Smith,
+316,3,5:45.0,72,82,SAC,PHI,0,away,FreeThrow,,,make1,1,I. Smith,
+317,3,5:33.0,72,82,SAC,PHI,12,home,JS,,25,miss3,0,D. Cousins,
+318,3,5:33.0,72,82,SAC,PHI,0,away,DefReb,,,DefReb,,R. Covington,
+319,3,5:20.0,72,82,SAC,PHI,13,away,HS,,5,miss2,0,I. Smith,
+320,3,5:20.0,72,82,SAC,PHI,0,home,DefReb,,,DefReb,,Team,
+321,3,5:20.0,72,82,SAC,PHI,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Grant,Q. Acy
+322,3,5:04.0,72,82,SAC,PHI,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Okafor,D. Cousins
+323,3,5:04.0,73,82,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+324,3,5:04.0,73,82,SAC,PHI,0,away,Sub,,,,,N. Stauskas,J. Grant
+325,3,5:04.0,73,82,SAC,PHI,0,home,FreeThrow,,,make1,0,D. Cousins,
+326,3,5:03.0,73,82,SAC,PHI,1,home,OffReb,,,OffReb,,Team,
+327,3,5:03.0,73,82,SAC,PHI,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Covington,Q. Acy
+328,3,5:03.0,74,82,SAC,PHI,0,home,FreeThrow,,,make1,1,Q. Acy,
+329,3,5:03.0,74,82,SAC,PHI,0,away,Sub,,,,,R. Holmes,R. Covington
+330,3,5:03.0,75,82,SAC,PHI,0,home,FreeThrow,,,make1,1,Q. Acy,
+331,3,4:38.0,75,82,SAC,PHI,25,away,JS,,9,miss2,0,J. Okafor,
+332,3,4:38.0,75,82,SAC,PHI,0,away,OffReb,,,OffReb,,R. Holmes,
+333,3,4:35.0,75,82,SAC,PHI,3,away,JS,,24,miss3,0,N. Stauskas,
+334,3,4:34.0,75,82,SAC,PHI,1,home,DefReb,,,DefReb,,Q. Acy,
+335,3,4:27.0,75,82,SAC,PHI,7,home,LU,block,3,miss2,0,D. Collison,I. Smith
+336,3,4:26.0,75,82,SAC,PHI,1,away,DefReb,,,DefReb,,J. Okafor,
+337,3,4:20.0,75,82,SAC,PHI,6,away,JS,,24,miss3,0,I. Canaan,
+338,3,4:19.0,75,82,SAC,PHI,1,home,DefReb,,,DefReb,,D. Cousins,
+339,3,4:09.0,75,82,SAC,PHI,10,home,LU,block,2,miss2,0,D. Collison,N. Stauskas
+340,3,4:08.0,75,82,SAC,PHI,1,away,DefReb,,,DefReb,,J. Okafor,
+341,3,4:00.0,75,82,SAC,PHI,8,away,JS,,23,miss3,0,I. Canaan,
+342,3,3:59.0,75,82,SAC,PHI,1,home,DefReb,,,DefReb,,D. Cousins,
+343,3,3:44.0,75,82,SAC,PHI,15,home,JS,,5,miss2,0,D. Cousins,
+344,3,3:43.0,75,82,SAC,PHI,1,home,OffReb,,,OffReb,,Q. Acy,
+345,3,3:43.0,75,82,SAC,PHI,0,home,LU,,2,miss2,0,Q. Acy,
+346,3,3:42.0,75,82,SAC,PHI,1,home,OffReb,,,OffReb,,O. Casspi,
+347,3,3:36.0,75,82,SAC,PHI,6,home,BadPass,steal,,turnover,,R. Rondo,J. Okafor
+348,3,3:29.0,75,82,SAC,PHI,7,away,BadPass,steal,,turnover,,I. Smith,R. Rondo
+349,3,3:23.0,77,82,SAC,PHI,6,home,LU,assist,2,make2,2,D. Collison,R. Rondo
+350,3,3:02.0,77,82,SAC,PHI,21,away,JS,,8,miss2,0,I. Canaan,
+351,3,3:01.0,77,82,SAC,PHI,1,home,DefReb,,,DefReb,,Q. Acy,
+352,3,2:54.0,77,82,SAC,PHI,7,home,LU,,2,miss2,0,O. Casspi,
+353,3,2:53.0,77,82,SAC,PHI,1,home,OffReb,,,OffReb,,D. Collison,
+354,3,2:49.0,77,82,SAC,PHI,4,home,JS,,24,miss3,0,R. Rondo,
+355,3,2:48.0,77,82,SAC,PHI,1,away,DefReb,,,DefReb,,J. Okafor,
+356,3,2:29.0,77,82,SAC,PHI,19,away,JS,,7,miss2,0,I. Smith,
+357,3,2:27.0,77,82,SAC,PHI,2,home,DefReb,,,DefReb,,D. Cousins,
+358,3,2:10.0,79,82,SAC,PHI,17,home,JS,,7,make2,2,R. Rondo,
+359,3,1:46.0,79,82,SAC,PHI,24,away,JS,,23,miss3,0,I. Canaan,
+360,3,1:46.0,79,82,SAC,PHI,0,away,OffReb,,,OffReb,,Team,
+361,3,1:46.0,79,82,SAC,PHI,0,away,DelayOfGame,,,DelayOfGame,,Team,
+362,3,1:46.0,79,82,SAC,PHI,0,away,Sub,,,,,T. McConnell,I. Smith
+363,3,1:46.0,79,82,SAC,PHI,0,home,Sub,,,,,M. Belinelli,O. Casspi
+364,3,1:46.0,79,82,SAC,PHI,0,home,Sub,,,,,R. Gay,D. Cousins
+365,3,1:46.0,79,82,SAC,PHI,0,home,Sub,,,,,K. Koufos,Q. Acy
+366,3,1:37.0,79,82,SAC,PHI,9,away,JS,,19,miss2,0,T. McConnell,
+367,3,1:37.0,79,82,SAC,PHI,0,away,OffReb,,,OffReb,,R. Holmes,
+368,3,1:37.0,79,82,SAC,PHI,0,away,Sub,,,,,R. Covington,I. Canaan
+369,3,1:29.0,79,82,SAC,PHI,8,away,JS,,24,miss3,0,N. Stauskas,
+370,3,1:28.0,79,82,SAC,PHI,1,home,DefReb,,,DefReb,,D. Collison,
+371,3,1:11.0,79,82,SAC,PHI,17,home,JS,,24,miss3,0,D. Collison,
+372,3,1:11.0,79,82,SAC,PHI,0,away,DefReb,,,DefReb,,T. McConnell,
+373,3,1:00.0,79,82,SAC,PHI,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Belinelli,J. Okafor
+374,3,1:00.0,79,82,SAC,PHI,0,away,FreeThrow,,,make1,0,J. Okafor,
+375,3,1:00.0,79,82,SAC,PHI,0,away,OffReb,,,OffReb,,Team,
+376,3,1:00.0,79,82,SAC,PHI,0,away,Sub,,,,,J. Grant,R. Covington
+377,3,1:00.0,79,82,SAC,PHI,0,away,Sub,,,,,J. Sampson,N. Stauskas
+378,3,1:00.0,79,83,SAC,PHI,0,away,FreeThrow,,,make1,1,J. Okafor,
+379,3,0:51.0,79,83,SAC,PHI,9,home,BadPass,,,turnover,,R. Rondo,
+380,3,0:51.0,79,83,SAC,PHI,0,away,Sub,,,,,N. Stauskas,J. Sampson
+381,3,0:51.0,79,83,SAC,PHI,0,away,Sub,,,,,R. Covington,J. Grant
+382,3,0:34.0,79,83,SAC,PHI,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Koufos,J. Okafor
+383,3,0:34.0,79,83,SAC,PHI,0,away,FreeThrow,,,make1,0,J. Okafor,
+384,3,0:34.0,79,83,SAC,PHI,0,away,OffReb,,,OffReb,,Team,
+385,3,0:34.0,79,83,SAC,PHI,0,away,Sub,,,,,J. Sampson,N. Stauskas
+386,3,0:34.0,79,83,SAC,PHI,0,away,Sub,,,,,J. Grant,R. Covington
+387,3,0:34.0,79,83,SAC,PHI,0,away,FreeThrow,,,make1,0,J. Okafor,
+388,3,0:32.0,79,83,SAC,PHI,2,home,DefReb,,,DefReb,,Team,
+389,3,0:23.0,81,83,SAC,PHI,9,home,JS,,20,make2,2,R. Gay,
+390,3,0:00.0,81,85,SAC,PHI,23,away,LU,assist,1,make2,2,R. Holmes,J. Grant
+391,4,11:44.0,81,85,SAC,PHI,16,home,JS,,24,miss3,0,M. Belinelli,
+392,4,11:43.0,81,85,SAC,PHI,1,away,DefReb,,,DefReb,,N. Stauskas,
+393,4,11:30.0,81,85,SAC,PHI,13,away,JS,,24,miss3,0,N. Stauskas,
+394,4,11:29.0,81,85,SAC,PHI,1,home,DefReb,,,DefReb,,D. Collison,
+395,4,11:27.0,81,85,SAC,PHI,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Stauskas,M. Belinelli
+396,4,11:27.0,83,85,SAC,PHI,0,home,LU,assist,1,make2,2,M. Belinelli,D. Collison
+397,4,11:27.0,83,85,SAC,PHI,0,home,FreeThrow,,,make1,0,M. Belinelli,
+398,4,11:26.0,83,85,SAC,PHI,1,away,DefReb,,,DefReb,,R. Covington,
+399,4,11:12.0,83,85,SAC,PHI,14,away,JS,,7,miss2,0,R. Covington,
+400,4,11:11.0,83,85,SAC,PHI,1,home,DefReb,,,DefReb,,R. Gay,
+401,4,11:03.0,83,85,SAC,PHI,8,home,HS,,6,miss2,0,K. Koufos,
+402,4,11:02.0,83,85,SAC,PHI,1,away,DefReb,,,DefReb,,J. Grant,
+403,4,10:42.0,83,87,SAC,PHI,20,away,JS,assist,6,make2,2,J. Okafor,N. Stauskas
+404,4,10:21.0,83,87,SAC,PHI,21,home,JS,block,5,miss2,0,R. Gay,J. Grant
+405,4,10:21.0,83,87,SAC,PHI,0,home,OffReb,,,OffReb,,Team,
+406,4,10:15.0,85,87,SAC,PHI,6,home,JS,,8,make2,2,R. Gay,
+407,4,9:56.0,85,90,SAC,PHI,19,away,JS,assist,25,make3,3,R. Covington,T. McConnell
+408,4,9:37.0,85,90,SAC,PHI,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. McConnell,M. Belinelli
+409,4,9:37.0,86,90,SAC,PHI,0,home,FreeThrow,,,make1,1,M. Belinelli,
+410,4,9:37.0,86,90,SAC,PHI,0,home,FreeThrow,,,make1,0,M. Belinelli,
+411,4,9:36.0,86,90,SAC,PHI,1,away,DefReb,,,DefReb,,R. Covington,
+412,4,9:20.0,86,92,SAC,PHI,16,away,JS,assist,5,make2,2,J. Grant,T. McConnell
+413,4,9:07.0,86,92,SAC,PHI,13,home,BadPass,,,turnover,,D. Collison,
+414,4,8:59.0,86,92,SAC,PHI,8,away,Timeout,,,,,,
+415,4,8:59.0,86,92,SAC,PHI,0,home,Sub,,,,,R. Rondo,D. Collison
+416,4,8:45.0,86,92,SAC,PHI,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,J. Grant
+417,4,8:30.0,86,95,SAC,PHI,15,away,JS,assist,24,make3,3,R. Covington,T. McConnell
+418,4,8:13.0,89,95,SAC,PHI,17,home,JS,assist,25,make3,3,M. Belinelli,R. Rondo
+419,4,7:59.0,89,95,SAC,PHI,14,away,BadPass,,,turnover,,J. Okafor,
+420,4,7:59.0,89,95,SAC,PHI,0,home,Sub,,,,,O. Casspi,B. McLemore
+421,4,7:59.0,89,95,SAC,PHI,0,home,Sub,,,,,D. Cousins,K. Koufos
+422,4,7:42.0,89,95,SAC,PHI,17,home,JS,,8,miss2,0,M. Belinelli,
+423,4,7:42.0,89,95,SAC,PHI,0,away,DefReb,,,DefReb,,J. Grant,
+424,4,7:42.0,89,95,SAC,PHI,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Casspi,J. Grant
+425,4,7:27.0,89,95,SAC,PHI,15,away,JS,block,11,miss2,0,T. McConnell,R. Gay
+426,4,7:26.0,89,95,SAC,PHI,1,away,OffReb,,,OffReb,,J. Okafor,
+427,4,7:23.0,89,95,SAC,PHI,3,away,JS,,7,miss2,0,J. Okafor,
+428,4,7:22.0,89,95,SAC,PHI,1,home,DefReb,,,DefReb,,O. Casspi,
+429,4,7:18.0,89,95,SAC,PHI,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Okafor,D. Cousins
+430,4,7:08.0,92,95,SAC,PHI,10,home,JS,,23,make3,3,O. Casspi,
+431,4,6:45.0,92,95,SAC,PHI,23,away,JS,,23,miss3,0,J. Grant,
+432,4,6:44.0,92,95,SAC,PHI,1,home,DefReb,,,DefReb,,Team,
+433,4,6:20.0,92,95,SAC,PHI,24,home,JS,,24,miss3,0,O. Casspi,
+434,4,6:19.0,92,95,SAC,PHI,1,away,DefReb,,,DefReb,,N. Stauskas,
+435,4,6:14.0,92,95,SAC,PHI,5,away,JS,,6,miss2,0,N. Stauskas,
+436,4,6:12.0,92,95,SAC,PHI,2,away,OffReb,,,OffReb,,J. Okafor,
+437,4,6:12.0,92,97,SAC,PHI,0,away,LU,,1,make2,2,J. Okafor,
+438,4,5:48.0,92,97,SAC,PHI,24,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Stauskas,D. Cousins
+439,4,5:48.0,92,97,SAC,PHI,0,away,Timeout,,,,,,
+440,4,5:48.0,92,97,SAC,PHI,0,away,Sub,,,,,I. Canaan,R. Covington
+441,4,5:48.0,92,97,SAC,PHI,0,away,Sub,,,,,I. Smith,J. Okafor
+442,4,5:48.0,92,97,SAC,PHI,0,away,Sub,,,,,N. Noel,T. McConnell
+443,4,5:48.0,93,97,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+444,4,5:48.0,93,97,SAC,PHI,0,home,FreeThrow,,,make1,0,D. Cousins,
+445,4,5:48.0,93,97,SAC,PHI,0,away,DefReb,,,DefReb,,I. Canaan,
+446,4,5:26.0,93,97,SAC,PHI,22,away,LU,,3,miss2,0,I. Smith,
+447,4,5:26.0,93,97,SAC,PHI,0,home,DefReb,,,DefReb,,O. Casspi,
+448,4,5:20.0,93,97,SAC,PHI,6,home,JS,,17,miss2,0,R. Rondo,
+449,4,5:19.0,93,97,SAC,PHI,1,away,DefReb,,,DefReb,,N. Noel,
+450,4,5:12.0,93,97,SAC,PHI,7,away,OffGoaltending,,,turnover,,N. Noel,
+451,4,5:08.0,93,97,SAC,PHI,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Noel,D. Cousins
+452,4,5:08.0,94,97,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+453,4,5:08.0,94,97,SAC,PHI,0,away,Sub,,,,,R. Covington,N. Stauskas
+454,4,5:08.0,94,97,SAC,PHI,0,home,FreeThrow,,,make1,0,D. Cousins,
+455,4,5:07.0,94,97,SAC,PHI,1,away,DefReb,,,DefReb,,R. Covington,
+456,4,4:56.0,94,97,SAC,PHI,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,N. Noel
+457,4,4:56.0,94,98,SAC,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
+458,4,4:56.0,94,99,SAC,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
+459,4,4:39.0,94,99,SAC,PHI,17,home,JS,block,23,miss3,0,O. Casspi,J. Grant
+460,4,4:38.0,94,99,SAC,PHI,1,home,OffReb,,,OffReb,,Team,
+461,4,4:36.0,96,99,SAC,PHI,2,home,LU,assist,2,make2,2,M. Belinelli,R. Rondo
+462,4,4:36.0,96,99,SAC,PHI,0,home,DelayOfGame,,,DelayOfGame,,Team,
+463,4,4:26.0,96,99,SAC,PHI,10,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Grant,D. Cousins
+464,4,4:26.0,96,99,SAC,PHI,0,away,OffensiveFoul,,,turnover,,J. Grant,
+465,4,4:15.0,96,99,SAC,PHI,11,home,JS,,20,miss2,0,M. Belinelli,
+466,4,4:14.0,96,99,SAC,PHI,1,away,DefReb,,,DefReb,,N. Noel,
+467,4,4:08.0,96,99,SAC,PHI,6,away,JS,,25,miss3,0,I. Canaan,
+468,4,4:07.0,96,99,SAC,PHI,1,home,DefReb,,,DefReb,,D. Cousins,
+469,4,4:01.0,96,99,SAC,PHI,6,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Grant,R. Gay
+470,4,4:01.0,97,99,SAC,PHI,0,home,FreeThrow,,,make1,1,R. Gay,
+471,4,4:01.0,97,99,SAC,PHI,0,home,FreeThrow,,,make1,0,R. Gay,
+472,4,4:00.0,97,99,SAC,PHI,1,away,DefReb,,,DefReb,,J. Grant,
+473,4,3:50.0,97,101,SAC,PHI,10,away,DK,assist,0,make2,2,N. Noel,I. Smith
+474,4,3:28.0,97,101,SAC,PHI,22,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Smith,D. Cousins
+475,4,3:28.0,98,101,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+476,4,3:28.0,99,101,SAC,PHI,0,home,FreeThrow,,,make1,1,D. Cousins,
+477,4,3:16.0,99,103,SAC,PHI,12,away,JS,,19,make2,2,I. Smith,
+478,4,3:01.0,101,103,SAC,PHI,15,home,JS,assist,20,make2,2,M. Belinelli,R. Rondo
+479,4,2:39.0,101,103,SAC,PHI,22,home,ChargeFoul,DrawnBy,,ChargeFoul,,N. Noel,D. Cousins
+480,4,2:39.0,101,103,SAC,PHI,0,away,OffensiveFoul,,,turnover,,N. Noel,
+481,4,2:39.0,101,103,SAC,PHI,0,home,Timeout,,,,,,
+482,4,2:21.0,101,103,SAC,PHI,18,home,JS,,4,miss2,0,R. Gay,
+483,4,2:21.0,101,103,SAC,PHI,0,away,DefReb,,,DefReb,,R. Covington,
+484,4,2:02.0,101,105,SAC,PHI,19,away,JS,,6,make2,2,I. Smith,
+485,4,1:47.0,101,105,SAC,PHI,15,home,BadPass,,,turnover,,M. Belinelli,
+486,4,1:47.0,101,105,SAC,PHI,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Cousins,N. Noel
+487,4,1:47.0,101,105,SAC,PHI,0,away,Timeout,,,,,,
+488,4,1:47.0,101,105,SAC,PHI,0,home,Sub,,,,,D. Collison,D. Cousins
+489,4,1:47.0,101,105,SAC,PHI,0,away,Sub,,,,,J. Sampson,N. Noel
+490,4,1:27.0,101,105,SAC,PHI,20,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Casspi,J. Grant
+491,4,1:27.0,101,106,SAC,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+492,4,1:27.0,101,107,SAC,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+493,4,1:27.0,101,107,SAC,PHI,0,home,Timeout,,,,,,
+494,4,1:15.0,101,107,SAC,PHI,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Sampson,M. Belinelli
+495,4,1:15.0,102,107,SAC,PHI,0,home,FreeThrow,,,make1,1,M. Belinelli,
+496,4,1:15.0,102,107,SAC,PHI,0,home,Sub,,,,,Q. Acy,D. Collison
+497,4,1:15.0,103,107,SAC,PHI,0,home,FreeThrow,,,make1,1,M. Belinelli,
+498,4,0:52.0,103,107,SAC,PHI,23,away,JS,,23,miss3,0,I. Canaan,
+499,4,0:51.0,103,107,SAC,PHI,1,away,OffReb,,,OffReb,,I. Smith,
+500,4,0:49.0,103,107,SAC,PHI,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,I. Smith
+501,4,0:49.0,103,108,SAC,PHI,0,away,FreeThrow,,,make1,1,I. Smith,
+502,4,0:49.0,103,108,SAC,PHI,0,away,Sub,,,,,N. Noel,J. Sampson
+503,4,0:49.0,103,108,SAC,PHI,0,away,FreeThrow,,,make1,0,I. Smith,
+504,4,0:49.0,103,108,SAC,PHI,0,home,DefReb,,,DefReb,,Q. Acy,
+505,4,0:49.0,103,108,SAC,PHI,0,home,Timeout,,,,,,
+506,4,0:49.0,103,108,SAC,PHI,0,home,Sub,,,,,D. Collison,Q. Acy
+507,4,0:49.0,103,108,SAC,PHI,0,away,Sub,,,,,J. Sampson,N. Noel
+508,4,0:44.0,103,108,SAC,PHI,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,R. Gay
+509,4,0:44.0,103,108,SAC,PHI,0,home,FreeThrow,,,make1,0,R. Gay,
+510,4,0:44.0,103,108,SAC,PHI,0,home,OffReb,,,OffReb,,Team,
+511,4,0:44.0,103,108,SAC,PHI,0,home,Sub,,,,,Q. Acy,M. Belinelli
+512,4,0:44.0,103,108,SAC,PHI,0,away,Sub,,,,,N. Noel,J. Sampson
+513,4,0:44.0,103,108,SAC,PHI,0,home,FreeThrow,,,make1,0,R. Gay,
+514,4,0:43.0,103,108,SAC,PHI,1,away,DefReb,,,DefReb,,N. Noel,
+515,4,0:18.0,103,108,SAC,PHI,25,away,JS,,24,miss3,0,I. Canaan,
+516,4,0:18.0,103,108,SAC,PHI,0,away,OffReb,,,OffReb,,J. Grant,
+517,4,0:18.0,103,108,SAC,PHI,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,J. Grant
+518,4,0:18.0,103,109,SAC,PHI,0,away,FreeThrow,,,make1,1,J. Grant,
+519,4,0:18.0,103,109,SAC,PHI,0,home,Sub,,,,,M. Belinelli,Q. Acy
+520,4,0:18.0,103,109,SAC,PHI,0,away,Sub,,,,,J. Sampson,N. Noel
+521,4,0:18.0,103,109,SAC,PHI,0,away,FreeThrow,,,make1,0,J. Grant,
+522,4,0:17.0,103,109,SAC,PHI,1,home,DefReb,,,DefReb,,O. Casspi,
+523,4,0:09.0,103,109,SAC,PHI,8,home,BackCourtTurnover,,,turnover,,O. Casspi,
+524,4,0:08.0,103,109,SAC,PHI,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Casspi,R. Covington
+525,4,0:08.0,103,109,SAC,PHI,0,home,Sub,,,,,Q. Acy,O. Casspi
+526,4,0:08.0,103,110,SAC,PHI,0,away,FreeThrow,,,make1,1,R. Covington,
+527,4,0:08.0,103,110,SAC,PHI,0,away,FreeThrow,,,make1,0,R. Covington,
+528,4,0:07.0,103,110,SAC,PHI,1,home,DefReb,,,DefReb,,R. Gay,
+529,4,0:00.0,105,110,SAC,PHI,7,home,LU,,2,make2,2,R. Gay,

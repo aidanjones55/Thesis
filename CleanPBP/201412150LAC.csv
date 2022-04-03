@@ -1,0 +1,429 @@
+,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
+0,1,11:45.0,2,0,LAC,DET,15,home,JS,assist,16,make2,2,J. Redick,C. Paul
+1,1,11:24.0,2,0,LAC,DET,21,away,JS,,23,miss3,0,J. Smith,
+2,1,11:21.0,2,0,LAC,DET,3,away,OffReb,,,OffReb,,J. Smith,
+3,1,11:12.0,2,3,LAC,DET,9,away,JS,assist,23,make3,3,K. Singler,B. Jennings
+4,1,10:58.0,4,3,LAC,DET,14,home,JS,assist,21,make2,2,J. Redick,C. Paul
+5,1,10:36.0,4,5,LAC,DET,22,away,HS,,9,make2,2,A. Drummond,
+6,1,10:23.0,6,5,LAC,DET,13,home,JS,assist,21,make2,2,J. Redick,C. Paul
+7,1,10:08.0,6,8,LAC,DET,15,away,JS,assist,24,make3,3,K. Singler,B. Jennings
+8,1,9:54.0,6,8,LAC,DET,14,home,JS,,23,miss3,0,M. Barnes,
+9,1,9:53.0,6,8,LAC,DET,1,away,DefReb,,,DefReb,,J. Smith,
+10,1,9:46.0,6,10,LAC,DET,7,away,LU,assist,0,make2,2,A. Drummond,J. Smith
+11,1,9:30.0,8,10,LAC,DET,16,home,JS,assist,20,make2,2,B. Griffin,M. Barnes
+12,1,9:06.0,8,10,LAC,DET,24,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Barnes,B. Jennings
+13,1,8:56.0,8,10,LAC,DET,10,away,OffGoaltending,,,turnover,,A. Drummond,
+14,1,8:41.0,10,10,LAC,DET,15,home,JS,assist,11,make2,2,J. Redick,B. Griffin
+15,1,8:29.0,10,10,LAC,DET,12,away,JS,,24,miss3,0,B. Jennings,
+16,1,8:29.0,10,10,LAC,DET,0,away,OffReb,,,OffReb,,Team,
+17,1,8:29.0,10,10,LAC,DET,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,B. Griffin,J. Smith
+18,1,8:16.0,10,10,LAC,DET,13,away,LU,,1,miss2,0,A. Drummond,
+19,1,8:16.0,10,10,LAC,DET,0,away,OffReb,,,OffReb,,A. Drummond,
+20,1,8:16.0,10,10,LAC,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,A. Drummond
+21,1,8:16.0,10,10,LAC,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+22,1,8:16.0,10,10,LAC,DET,0,away,OffReb,,,OffReb,,Team,
+23,1,8:16.0,10,10,LAC,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+24,1,8:14.0,10,10,LAC,DET,2,home,DefReb,,,DefReb,,D. Jordan,
+25,1,8:05.0,10,10,LAC,DET,9,home,BadPass,steal,,turnover,,C. Paul,J. Smith
+26,1,8:00.0,10,12,LAC,DET,5,away,LU,assist,1,make2,2,K. Caldwell-Pope,B. Jennings
+27,1,7:51.0,10,12,LAC,DET,9,home,JS,,12,miss2,0,C. Paul,
+28,1,7:51.0,10,12,LAC,DET,0,home,OffReb,,,OffReb,,Team,
+29,1,7:51.0,10,12,LAC,DET,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Singler,D. Jordan
+30,1,7:43.0,10,12,LAC,DET,8,home,OffGoaltending,,,turnover,,D. Jordan,
+31,1,7:34.0,10,12,LAC,DET,9,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Jennings,C. Paul
+32,1,7:34.0,10,12,LAC,DET,0,away,OffensiveFoul,,,turnover,,B. Jennings,
+33,1,7:34.0,10,12,LAC,DET,0,away,TechnicalFoul,,,TechnicalFoul,,Team,
+34,1,7:34.0,10,12,LAC,DET,0,home,FreeThrow,,,make1,0,J. Redick misses technical free throw,
+35,1,7:24.0,10,12,LAC,DET,10,home,OffReb,,,OffReb,,Team,
+36,1,7:24.0,10,12,LAC,DET,0,home,JS,block,3,miss2,0,C. Paul,A. Drummond
+37,1,7:22.0,10,12,LAC,DET,2,away,DefReb,,,DefReb,,B. Jennings,
+38,1,7:18.0,10,14,LAC,DET,4,away,LU,assist,1,make2,2,A. Drummond,B. Jennings
+39,1,7:13.0,10,14,LAC,DET,5,home,LostBall,steal,,turnover,,B. Griffin,B. Jennings
+40,1,6:58.0,10,14,LAC,DET,15,away,JS,,27,miss3,0,K. Singler,
+41,1,6:55.0,10,14,LAC,DET,3,away,OffReb,,,OffReb,,A. Drummond,
+42,1,6:50.0,10,16,LAC,DET,5,away,LU,assist,2,make2,2,B. Jennings,A. Drummond
+43,1,6:31.0,10,16,LAC,DET,19,home,BadPass,steal,,turnover,,M. Barnes,J. Smith
+44,1,6:26.0,10,19,LAC,DET,5,away,JS,assist,25,make3,3,B. Jennings,J. Smith
+45,1,6:17.0,10,19,LAC,DET,9,home,Timeout,,,,,,
+46,1,6:08.0,12,19,LAC,DET,9,home,HS,assist,5,make2,2,D. Jordan,B. Griffin
+47,1,5:49.0,12,19,LAC,DET,19,away,HS,,5,miss2,0,J. Smith,
+48,1,5:47.0,12,19,LAC,DET,2,away,OffReb,,,OffReb,,J. Smith,
+49,1,5:43.0,12,19,LAC,DET,4,away,JS,,3,miss2,0,J. Smith,
+50,1,5:39.0,12,19,LAC,DET,4,away,OffReb,,,OffReb,,A. Drummond,
+51,1,5:39.0,12,19,LAC,DET,0,away,TI,,2,miss2,0,A. Drummond,
+52,1,5:36.0,12,19,LAC,DET,3,away,OffReb,,,OffReb,,A. Drummond,
+53,1,5:35.0,12,19,LAC,DET,1,away,LU,,1,miss2,0,A. Drummond,
+54,1,5:34.0,12,19,LAC,DET,1,home,DefReb,,,DefReb,,C. Paul,
+55,1,5:30.0,14,19,LAC,DET,4,home,JS,assist,3,make2,2,J. Redick,C. Paul
+56,1,5:30.0,14,19,LAC,DET,0,away,TechnicalFoul,,,TechnicalFoul,,A. Drummond,
+57,1,5:30.0,15,19,LAC,DET,0,home,FreeThrow,,,make1,1,C. Paul makes technical free throw,
+58,1,5:15.0,15,19,LAC,DET,15,away,JS,block,4,miss2,0,J. Smith,B. Griffin
+59,1,5:12.0,15,19,LAC,DET,3,home,DefReb,,,DefReb,,B. Griffin,
+60,1,5:09.0,15,19,LAC,DET,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Drummond,B. Griffin
+61,1,5:09.0,15,19,LAC,DET,0,home,FreeThrow,,,make1,0,B. Griffin,
+62,1,5:09.0,15,19,LAC,DET,0,home,OffReb,,,OffReb,,Team,
+63,1,5:09.0,16,19,LAC,DET,0,home,FreeThrow,,,make1,1,B. Griffin,
+64,1,4:55.0,16,19,LAC,DET,14,away,JS,,23,miss3,0,K. Caldwell-Pope,
+65,1,4:52.0,16,19,LAC,DET,3,away,OffReb,,,OffReb,,Team,
+66,1,4:40.0,16,19,LAC,DET,12,away,JS,,3,miss2,0,K. Singler,
+67,1,4:36.0,16,19,LAC,DET,4,away,OffReb,,,OffReb,,A. Drummond,
+68,1,4:36.0,16,21,LAC,DET,0,away,DK,,0,make2,2,A. Drummond,
+69,1,4:27.0,16,21,LAC,DET,9,home,LostBall,steal,,turnover,,D. Jordan,K. Caldwell-Pope
+70,1,4:20.0,16,21,LAC,DET,7,away,JS,,23,miss3,0,K. Singler,
+71,1,4:18.0,16,21,LAC,DET,2,home,DefReb,,,DefReb,,B. Griffin,
+72,1,4:08.0,16,21,LAC,DET,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,D. Jordan
+73,1,4:08.0,16,21,LAC,DET,0,home,FreeThrow,,,make1,0,D. Jordan,
+74,1,4:08.0,16,21,LAC,DET,0,home,OffReb,,,OffReb,,Team,
+75,1,4:08.0,16,21,LAC,DET,0,away,Sub,,,,,G. Monroe,K. Caldwell-Pope
+76,1,4:08.0,16,21,LAC,DET,0,away,Sub,,,,,J. Meeks,A. Drummond
+77,1,4:08.0,17,21,LAC,DET,0,home,FreeThrow,,,make1,1,D. Jordan,
+78,1,3:52.0,17,23,LAC,DET,16,away,DK,,0,make2,2,G. Monroe,
+79,1,3:33.0,17,23,LAC,DET,19,home,BadPass,steal,,turnover,,J. Redick,J. Smith
+80,1,3:29.0,17,25,LAC,DET,4,away,LU,,1,make2,2,J. Smith,
+81,1,3:18.0,20,25,LAC,DET,11,home,JS,assist,25,make3,3,M. Barnes,C. Paul
+82,1,2:59.0,20,25,LAC,DET,19,away,JS,,24,miss3,0,K. Singler,
+83,1,2:57.0,20,25,LAC,DET,2,home,DefReb,,,DefReb,,D. Jordan,
+84,1,2:48.0,20,25,LAC,DET,9,home,JS,,22,miss3,0,M. Barnes,
+85,1,2:46.0,20,25,LAC,DET,2,home,OffReb,,,OffReb,,D. Jordan,
+86,1,2:41.0,22,25,LAC,DET,5,home,LU,assist,2,make2,2,B. Griffin,D. Jordan
+87,1,2:16.0,22,25,LAC,DET,25,away,JS,,25,miss3,0,K. Singler,
+88,1,2:15.0,22,25,LAC,DET,1,home,DefReb,,,DefReb,,B. Griffin,
+89,1,2:06.0,22,25,LAC,DET,9,home,JS,,21,miss2,0,B. Griffin,
+90,1,2:03.0,22,25,LAC,DET,3,home,OffReb,,,OffReb,,D. Jordan,
+91,1,1:59.0,22,25,LAC,DET,4,home,BadPass,steal,,turnover,,B. Griffin,J. Meeks
+92,1,1:56.0,22,27,LAC,DET,3,away,DK,assist,0,make2,2,J. Smith,B. Jennings
+93,1,1:56.0,22,27,LAC,DET,0,away,DelayOfGame,,,DelayOfGame,,Team,
+94,1,1:43.0,24,27,LAC,DET,13,home,JS,assist,19,make2,2,B. Griffin,C. Paul
+95,1,1:27.0,24,27,LAC,DET,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Redick,J. Meeks
+96,1,1:27.0,24,27,LAC,DET,0,away,Timeout,,,,,,
+97,1,1:27.0,24,27,LAC,DET,0,home,Sub,,,,,J. Farmar,M. Barnes
+98,1,1:27.0,24,27,LAC,DET,0,home,Sub,,,,,J. Crawford,D. Jordan
+99,1,1:27.0,24,27,LAC,DET,0,home,Sub,,,,,G. Davis,J. Redick
+100,1,1:27.0,24,27,LAC,DET,0,away,Sub,,,,,C. Butler,K. Singler
+101,1,1:13.0,24,27,LAC,DET,14,away,LU,,1,miss2,0,B. Jennings,
+102,1,1:11.0,24,27,LAC,DET,2,away,OffReb,,,OffReb,,G. Monroe,
+103,1,1:11.0,24,27,LAC,DET,0,away,TI,,0,miss2,0,G. Monroe,
+104,1,1:09.0,24,27,LAC,DET,2,home,DefReb,,,DefReb,,G. Davis,
+105,1,0:53.0,26,27,LAC,DET,16,home,JS,assist,19,make2,2,B. Griffin,G. Davis
+106,1,0:36.0,26,27,LAC,DET,17,away,LostBall,steal,,turnover,,G. Monroe,G. Davis
+107,1,0:30.0,26,27,LAC,DET,6,home,JS,,19,miss2,0,J. Crawford,
+108,1,0:24.0,26,27,LAC,DET,6,home,OffReb,,,OffReb,,B. Griffin,
+109,1,0:05.0,29,27,LAC,DET,19,home,JS,assist,24,make3,3,J. Farmar,J. Crawford
+110,1,0:01.0,29,27,LAC,DET,4,home,ChargeFoul,DrawnBy,,ChargeFoul,,B. Jennings,G. Davis
+111,1,0:01.0,29,27,LAC,DET,0,away,OffensiveFoul,,,turnover,,B. Jennings,
+112,1,0:01.0,29,27,LAC,DET,0,home,Sub,,,,,C. Douglas-Roberts,G. Davis
+113,2,11:38.0,29,27,LAC,DET,22,away,JS,,17,miss2,0,J. Smith,
+114,2,11:35.0,29,27,LAC,DET,3,away,OffReb,,,OffReb,,G. Monroe,
+115,2,11:35.0,29,27,LAC,DET,0,away,ShotClockViolation,,,turnover,,Team,
+116,2,11:18.0,29,27,LAC,DET,17,home,HS,,2,miss2,0,B. Griffin,
+117,2,11:15.0,29,27,LAC,DET,3,away,DefReb,,,DefReb,,G. Monroe,
+118,2,11:05.0,29,29,LAC,DET,10,away,JS,assist,17,make2,2,C. Butler,J. Smith
+119,2,10:47.0,29,29,LAC,DET,18,home,JS,,4,miss2,0,C. Douglas-Roberts,
+120,2,10:46.0,29,29,LAC,DET,1,away,DefReb,,,DefReb,,G. Monroe,
+121,2,10:28.0,29,29,LAC,DET,18,away,JS,,25,miss3,0,J. Meeks,
+122,2,10:27.0,29,29,LAC,DET,1,home,DefReb,,,DefReb,,G. Davis,
+123,2,10:17.0,29,29,LAC,DET,10,home,JS,,26,miss3,0,J. Crawford,
+124,2,10:16.0,29,29,LAC,DET,1,away,DefReb,,,DefReb,,J. Smith,
+125,2,10:06.0,29,29,LAC,DET,10,away,HS,,9,miss2,0,G. Monroe,
+126,2,10:04.0,29,29,LAC,DET,2,home,DefReb,,,DefReb,,B. Griffin,
+127,2,9:59.0,29,29,LAC,DET,5,home,LU,block,2,miss2,0,C. Douglas-Roberts,J. Smith
+128,2,9:53.0,29,29,LAC,DET,6,away,DefReb,,,DefReb,,J. Smith,
+129,2,9:51.0,29,29,LAC,DET,2,away,BadPass,steal,,turnover,,D. Augustin,J. Crawford
+130,2,9:43.0,31,29,LAC,DET,8,home,LU,assist,2,make2,2,J. Farmar,B. Griffin
+131,2,9:20.0,31,32,LAC,DET,23,away,JS,assist,23,make3,3,C. Butler,J. Smith
+132,2,9:06.0,31,32,LAC,DET,14,home,BadPass,,,turnover,,B. Griffin,
+133,2,9:06.0,31,32,LAC,DET,0,away,Sub,,,,,A. Drummond,J. Smith
+134,2,9:06.0,31,32,LAC,DET,0,home,Sub,,,,,D. Jordan,B. Griffin
+135,2,8:54.0,31,32,LAC,DET,12,away,JS,,18,miss2,0,J. Meeks,
+136,2,8:53.0,31,32,LAC,DET,1,home,DefReb,,,DefReb,,J. Farmar,
+137,2,8:45.0,33,32,LAC,DET,8,home,JS,,16,make2,2,J. Farmar,
+138,2,8:26.0,33,32,LAC,DET,19,away,Timeout,,,,,,
+139,2,8:26.0,33,32,LAC,DET,0,away,LostBall,steal,,turnover,,G. Monroe,G. Davis
+140,2,8:01.0,36,32,LAC,DET,25,home,JS,assist,25,make3,3,J. Farmar,G. Davis
+141,2,7:37.0,36,34,LAC,DET,24,away,JS,assist,15,make2,2,G. Monroe,J. Meeks
+142,2,7:25.0,36,34,LAC,DET,12,home,JS,,16,miss2,0,J. Crawford,
+143,2,7:24.0,36,34,LAC,DET,1,home,OffReb,,,OffReb,,D. Jordan,
+144,2,7:23.0,36,34,LAC,DET,1,home,TI,,2,miss2,0,D. Jordan,
+145,2,7:20.0,36,34,LAC,DET,3,home,OffReb,,,OffReb,,D. Jordan,
+146,2,7:20.0,38,34,LAC,DET,0,home,TI,,1,make2,2,D. Jordan,
+147,2,7:08.0,38,34,LAC,DET,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Davis,A. Drummond
+148,2,7:01.0,38,34,LAC,DET,7,away,LostBall,,,turnover,,J. Meeks,
+149,2,6:39.0,40,34,LAC,DET,22,home,LU,assist,1,make2,2,G. Davis,J. Farmar
+150,2,6:29.0,40,34,LAC,DET,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Farmar,D. Augustin
+151,2,6:29.0,40,34,LAC,DET,0,away,Sub,,,,,K. Caldwell-Pope,J. Meeks
+152,2,6:15.0,40,34,LAC,DET,14,away,HS,,2,miss2,0,A. Drummond,
+153,2,6:12.0,40,34,LAC,DET,3,away,OffReb,,,OffReb,,G. Monroe,
+154,2,6:12.0,40,34,LAC,DET,0,away,HS,,1,miss2,0,G. Monroe,
+155,2,6:09.0,40,34,LAC,DET,3,away,OffReb,,,OffReb,,G. Monroe,
+156,2,6:09.0,40,36,LAC,DET,0,away,TI,,0,make2,2,G. Monroe,
+157,2,6:01.0,40,36,LAC,DET,8,home,D3SecTech,,,,,,
+158,2,6:01.0,41,36,LAC,DET,0,home,FreeThrow,,,make1,1,J. Crawford makes technical free throw,
+159,2,5:49.0,43,36,LAC,DET,12,home,DK,assist,0,make2,2,D. Jordan,J. Crawford
+160,2,5:36.0,43,36,LAC,DET,13,away,JS,,19,miss2,0,G. Monroe,
+161,2,5:33.0,43,36,LAC,DET,3,away,OffReb,,,OffReb,,D. Augustin,
+162,2,5:25.0,43,36,LAC,DET,8,away,LostBall,steal,,turnover,,G. Monroe,G. Davis
+163,2,5:13.0,45,36,LAC,DET,12,home,JS,,22,make2,2,J. Farmar,
+164,2,5:04.0,45,36,LAC,DET,9,away,Timeout,,,,,,
+165,2,5:04.0,45,36,LAC,DET,0,home,Sub,,,,,B. Griffin,G. Davis
+166,2,5:04.0,45,36,LAC,DET,0,away,Sub,,,,,B. Jennings,G. Monroe
+167,2,5:04.0,45,36,LAC,DET,0,away,Sub,,,,,J. Smith,C. Butler
+168,2,4:51.0,45,36,LAC,DET,13,away,LU,,1,miss2,0,A. Drummond,
+169,2,4:48.0,45,36,LAC,DET,3,home,DefReb,,,DefReb,,D. Jordan,
+170,2,4:41.0,47,36,LAC,DET,7,home,DK,assist,0,make2,2,D. Jordan,B. Griffin
+171,2,4:16.0,47,36,LAC,DET,25,away,BadPass,,,turnover,,D. Augustin,
+172,2,3:58.0,47,36,LAC,DET,18,home,JS,,20,miss2,0,B. Griffin,
+173,2,3:56.0,47,36,LAC,DET,2,home,OffReb,,,OffReb,,D. Jordan,
+174,2,3:52.0,47,36,LAC,DET,4,home,JS,,23,miss3,0,J. Farmar,
+175,2,3:51.0,47,36,LAC,DET,1,away,DefReb,,,DefReb,,D. Augustin,
+176,2,3:47.0,47,38,LAC,DET,4,away,DK,assist,0,make2,2,A. Drummond,D. Augustin
+177,2,3:27.0,49,38,LAC,DET,20,home,JS,assist,12,make2,2,B. Griffin,J. Farmar
+178,2,3:07.0,49,38,LAC,DET,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,J. Smith
+179,2,3:07.0,49,38,LAC,DET,0,away,FreeThrow,,,make1,0,J. Smith,
+180,2,3:07.0,49,38,LAC,DET,0,away,OffReb,,,OffReb,,Team,
+181,2,3:07.0,49,38,LAC,DET,0,home,Sub,,,,,C. Paul,J. Farmar
+182,2,3:07.0,49,38,LAC,DET,0,home,Sub,,,,,J. Redick,J. Crawford
+183,2,3:07.0,49,38,LAC,DET,0,home,Sub,,,,,M. Barnes,C. Douglas-Roberts
+184,2,3:07.0,49,38,LAC,DET,0,away,Sub,,,,,J. Meeks,D. Augustin
+185,2,3:07.0,49,38,LAC,DET,0,away,FreeThrow,,,make1,0,J. Smith,
+186,2,3:06.0,49,38,LAC,DET,1,home,DefReb,,,DefReb,,M. Barnes,
+187,2,2:56.0,51,38,LAC,DET,10,home,DK,assist,0,make2,2,D. Jordan,B. Griffin
+188,2,2:33.0,51,40,LAC,DET,23,away,JS,assist,8,make2,2,A. Drummond,J. Meeks
+189,2,2:21.0,53,40,LAC,DET,12,home,JS,assist,19,make2,2,B. Griffin,C. Paul
+190,2,2:08.0,53,40,LAC,DET,13,away,BadPass,steal,,turnover,,J. Smith,M. Barnes
+191,2,1:58.0,53,40,LAC,DET,10,home,Timeout,,,,,,
+192,2,1:47.0,53,40,LAC,DET,11,home,JS,,25,miss3,0,M. Barnes,
+193,2,1:45.0,53,40,LAC,DET,2,home,OffReb,,,OffReb,,B. Griffin,
+194,2,1:37.0,53,40,LAC,DET,8,home,JS,,8,miss2,0,J. Redick,
+195,2,1:34.0,53,40,LAC,DET,3,home,OffReb,,,OffReb,,D. Jordan,
+196,2,1:34.0,55,40,LAC,DET,0,home,DK,,0,make2,2,D. Jordan,
+197,2,1:12.0,55,40,LAC,DET,22,away,JS,,14,miss2,0,J. Meeks,
+198,2,1:09.0,55,40,LAC,DET,3,away,OffReb,,,OffReb,,A. Drummond,
+199,2,1:09.0,55,42,LAC,DET,0,away,TI,,0,make2,2,A. Drummond,
+200,2,1:00.0,55,42,LAC,DET,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Smith,B. Griffin
+201,2,1:00.0,55,42,LAC,DET,0,home,Sub,,,,,G. Davis,D. Jordan
+202,2,1:00.0,55,42,LAC,DET,0,away,Sub,,,,,G. Monroe,J. Smith
+203,2,1:00.0,55,42,LAC,DET,0,away,Sub,,,,,D. Augustin,B. Jennings
+204,2,0:52.0,55,42,LAC,DET,8,home,JS,,16,miss2,0,B. Griffin,
+205,2,0:49.0,55,42,LAC,DET,3,away,DefReb,,,DefReb,,K. Caldwell-Pope,
+206,2,0:42.0,55,42,LAC,DET,7,home,ChargeFoul,DrawnBy,,ChargeFoul,,G. Monroe,G. Davis
+207,2,0:42.0,55,42,LAC,DET,0,away,OffensiveFoul,,,turnover,,G. Monroe,
+208,2,0:30.0,55,42,LAC,DET,12,home,JS,,13,miss2,0,B. Griffin,
+209,2,0:29.0,55,42,LAC,DET,1,away,DefReb,,,DefReb,,J. Meeks,
+210,2,0:25.0,55,42,LAC,DET,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Redick,J. Meeks
+211,2,0:25.0,55,43,LAC,DET,0,away,FreeThrow,,,make1,1,J. Meeks,
+212,2,0:25.0,55,44,LAC,DET,0,away,FreeThrow,,,make1,1,J. Meeks,
+213,2,0:22.0,55,44,LAC,DET,3,home,Timeout,,,,,,
+214,2,0:22.0,55,44,LAC,DET,0,home,Sub,,,,,J. Crawford,G. Davis
+215,2,0:22.0,55,44,LAC,DET,0,away,Sub,,,,,K. Singler,A. Drummond
+216,2,0:02.0,55,44,LAC,DET,20,home,JS,,21,miss2,0,B. Griffin,
+217,2,0:01.0,55,44,LAC,DET,1,away,DefReb,,,DefReb,,D. Augustin,
+218,3,11:38.0,55,44,LAC,DET,22,away,LU,block,2,miss2,0,A. Drummond,D. Jordan
+219,3,11:29.0,55,44,LAC,DET,9,home,DefReb,,,DefReb,,Team,
+220,3,11:29.0,55,44,LAC,DET,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Caldwell-Pope,B. Griffin
+221,3,11:11.0,55,44,LAC,DET,18,home,JS,,22,miss2,0,B. Griffin,
+222,3,11:10.0,55,44,LAC,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+223,3,11:06.0,55,44,LAC,DET,4,away,JS,,25,miss3,0,B. Jennings,
+224,3,11:02.0,55,44,LAC,DET,4,away,OffReb,,,OffReb,,A. Drummond,
+225,3,11:02.0,55,44,LAC,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Redick,A. Drummond
+226,3,11:02.0,55,45,LAC,DET,0,away,FreeThrow,,,make1,1,A. Drummond,
+227,3,11:02.0,55,46,LAC,DET,0,away,FreeThrow,,,make1,1,A. Drummond,
+228,3,10:54.0,55,46,LAC,DET,8,home,JS,,25,miss3,0,J. Redick,
+229,3,10:53.0,55,46,LAC,DET,1,away,DefReb,,,DefReb,,K. Caldwell-Pope,
+230,3,10:43.0,55,46,LAC,DET,10,away,JS,,11,miss2,0,K. Singler,
+231,3,10:39.0,55,46,LAC,DET,4,home,DefReb,,,DefReb,,M. Barnes,
+232,3,10:35.0,55,46,LAC,DET,4,home,LU,block,2,miss2,0,M. Barnes,A. Drummond
+233,3,10:32.0,55,46,LAC,DET,3,away,DefReb,,,DefReb,,K. Singler,
+234,3,10:29.0,55,46,LAC,DET,3,away,BadPass,steal,,turnover,,K. Singler,B. Griffin
+235,3,10:27.0,55,46,LAC,DET,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Drummond,C. Paul
+236,3,10:19.0,57,46,LAC,DET,8,home,JS,,13,make2,2,C. Paul,
+237,3,9:53.0,57,46,LAC,DET,26,away,JS,,13,miss2,0,B. Jennings,
+238,3,9:51.0,57,46,LAC,DET,2,away,OffReb,,,OffReb,,A. Drummond,
+239,3,9:49.0,57,46,LAC,DET,2,away,LU,,0,miss2,0,A. Drummond,
+240,3,9:46.0,57,46,LAC,DET,3,away,OffReb,,,OffReb,,J. Smith,
+241,3,9:46.0,57,48,LAC,DET,0,away,TI,,0,make2,2,J. Smith,
+242,3,9:37.0,59,48,LAC,DET,9,home,JS,assist,18,make2,2,J. Redick,C. Paul
+243,3,9:27.0,59,48,LAC,DET,10,away,BadPass,steal,,turnover,,J. Smith,J. Redick
+244,3,9:25.0,59,48,LAC,DET,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Singler,B. Griffin
+245,3,9:25.0,60,48,LAC,DET,0,home,FreeThrow,,,make1,1,B. Griffin,
+246,3,9:25.0,61,48,LAC,DET,0,home,FreeThrow,,,make1,1,B. Griffin,
+247,3,9:09.0,61,48,LAC,DET,16,away,JS,,19,miss2,0,J. Smith,
+248,3,9:08.0,61,48,LAC,DET,1,home,DefReb,,,DefReb,,D. Jordan,
+249,3,8:55.0,61,48,LAC,DET,13,home,JS,,17,miss2,0,B. Griffin,
+250,3,8:54.0,61,48,LAC,DET,1,home,OffReb,,,OffReb,,D. Jordan,
+251,3,8:50.0,64,48,LAC,DET,4,home,JS,assist,25,make3,3,C. Paul,M. Barnes
+252,3,8:27.0,64,50,LAC,DET,23,away,LU,assist,1,make2,2,A. Drummond,B. Jennings
+253,3,8:10.0,64,50,LAC,DET,17,home,BadPass,steal,,turnover,,M. Barnes,K. Caldwell-Pope
+254,3,8:05.0,64,50,LAC,DET,5,away,LostBall,,,turnover,,K. Caldwell-Pope,
+255,3,7:47.0,66,50,LAC,DET,18,home,JS,assist,17,make2,2,J. Redick,B. Griffin
+256,3,7:21.0,66,50,LAC,DET,26,away,JS,,25,miss3,0,K. Caldwell-Pope,
+257,3,7:20.0,66,50,LAC,DET,1,home,DefReb,,,DefReb,,C. Paul,
+258,3,7:13.0,66,50,LAC,DET,7,home,DK,,0,miss2,0,D. Jordan,
+259,3,7:13.0,66,50,LAC,DET,0,away,DefReb,,,DefReb,,Team,
+260,3,7:05.0,66,50,LAC,DET,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Redick,K. Caldwell-Pope
+261,3,7:05.0,66,50,LAC,DET,0,home,TechnicalFoul,,,TechnicalFoul,,J. Redick,
+262,3,7:05.0,66,51,LAC,DET,0,away,FreeThrow,,,make1,1,B. Jennings makes technical free throw,
+263,3,7:05.0,66,51,LAC,DET,0,home,Sub,,,,,J. Crawford,J. Redick
+264,3,6:53.0,66,53,LAC,DET,12,away,HS,,1,make2,2,J. Smith,
+265,3,6:41.0,66,53,LAC,DET,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Jennings,D. Jordan
+266,3,6:25.0,66,53,LAC,DET,16,home,JS,,18,miss2,0,B. Griffin,
+267,3,6:24.0,66,53,LAC,DET,1,away,DefReb,,,DefReb,,K. Caldwell-Pope,
+268,3,6:11.0,66,53,LAC,DET,13,away,JS,,25,miss3,0,K. Caldwell-Pope,
+269,3,6:09.0,66,53,LAC,DET,2,home,DefReb,,,DefReb,,D. Jordan,
+270,3,5:57.0,66,53,LAC,DET,12,home,JS,,22,miss3,0,C. Paul,
+271,3,5:55.0,66,53,LAC,DET,2,away,DefReb,,,DefReb,,A. Drummond,
+272,3,5:48.0,66,53,LAC,DET,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Barnes,B. Jennings
+273,3,5:48.0,66,53,LAC,DET,0,home,Timeout,,,,,,
+274,3,5:36.0,66,53,LAC,DET,12,away,JS,,23,miss3,0,K. Singler,
+275,3,5:33.0,66,53,LAC,DET,3,home,DefReb,,,DefReb,,B. Griffin,
+276,3,5:25.0,69,53,LAC,DET,8,home,JS,assist,22,make3,3,M. Barnes,B. Griffin
+277,3,5:06.0,69,53,LAC,DET,19,away,JS,,19,miss2,0,J. Smith,
+278,3,5:04.0,69,53,LAC,DET,2,home,DefReb,,,DefReb,,J. Crawford,
+279,3,4:57.0,72,53,LAC,DET,7,home,JS,assist,23,make3,3,M. Barnes,J. Crawford
+280,3,4:57.0,72,53,LAC,DET,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Singler,M. Barnes
+281,3,4:57.0,72,53,LAC,DET,0,away,Sub,,,,,J. Meeks,K. Singler
+282,3,4:57.0,73,53,LAC,DET,0,home,FreeThrow,,,make1,1,M. Barnes,
+283,3,4:43.0,73,53,LAC,DET,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,K. Caldwell-Pope
+284,3,4:43.0,73,53,LAC,DET,0,away,FreeThrow,,,make1,0,K. Caldwell-Pope,
+285,3,4:43.0,73,53,LAC,DET,0,away,OffReb,,,OffReb,,Team,
+286,3,4:43.0,73,53,LAC,DET,0,away,FreeThrow,,,make1,0,K. Caldwell-Pope,
+287,3,4:41.0,73,53,LAC,DET,2,home,DefReb,,,DefReb,,D. Jordan,
+288,3,4:20.0,73,53,LAC,DET,21,home,BadPass,steal,,turnover,,J. Crawford,A. Drummond
+289,3,4:16.0,73,53,LAC,DET,4,away,DK,,0,miss2,0,K. Caldwell-Pope,
+290,3,4:13.0,73,53,LAC,DET,3,home,DefReb,,,DefReb,,Team,
+291,3,4:05.0,75,53,LAC,DET,8,home,JS,,7,make2,2,C. Paul,
+292,3,3:47.0,75,53,LAC,DET,18,away,BadPass,steal,,turnover,,K. Caldwell-Pope,B. Griffin
+293,3,3:36.0,78,53,LAC,DET,11,home,JS,assist,25,make3,3,C. Paul,M. Barnes
+294,3,3:35.0,78,53,LAC,DET,1,away,Timeout,,,,,,
+295,3,3:35.0,78,53,LAC,DET,0,away,Sub,,,,,G. Monroe,J. Smith
+296,3,3:35.0,78,53,LAC,DET,0,away,Sub,,,,,D. Augustin,B. Jennings
+297,3,3:17.0,78,53,LAC,DET,18,away,JS,,18,miss2,0,J. Meeks,
+298,3,3:16.0,78,53,LAC,DET,1,home,DefReb,,,DefReb,,J. Crawford,
+299,3,3:03.0,78,53,LAC,DET,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Caldwell-Pope,D. Jordan
+300,3,3:03.0,79,53,LAC,DET,0,home,FreeThrow,,,make1,1,D. Jordan,
+301,3,3:03.0,79,53,LAC,DET,0,home,Sub,,,,,J. Farmar,C. Paul
+302,3,3:03.0,79,53,LAC,DET,0,home,FreeThrow,,,make1,0,D. Jordan,
+303,3,3:01.0,79,53,LAC,DET,2,away,DefReb,,,DefReb,,A. Drummond,
+304,3,2:47.0,79,56,LAC,DET,14,away,JS,assist,22,make3,3,J. Meeks,D. Augustin
+305,3,2:22.0,79,56,LAC,DET,25,home,JS,,25,miss3,0,J. Crawford,
+306,3,2:21.0,79,56,LAC,DET,1,away,DefReb,,,DefReb,,K. Caldwell-Pope,
+307,3,2:16.0,79,56,LAC,DET,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,G. Monroe
+308,3,2:16.0,79,57,LAC,DET,0,away,FreeThrow,,,make1,1,G. Monroe,
+309,3,2:16.0,79,57,LAC,DET,0,home,Sub,,,,,G. Davis,D. Jordan
+310,3,2:16.0,79,58,LAC,DET,0,away,FreeThrow,,,make1,1,G. Monroe,
+311,3,2:02.0,79,58,LAC,DET,14,home,JS,,25,miss3,0,J. Farmar,
+312,3,2:01.0,79,58,LAC,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+313,3,1:53.0,79,58,LAC,DET,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Barnes,J. Meeks
+314,3,1:53.0,79,59,LAC,DET,0,away,FreeThrow,,,make1,1,J. Meeks,
+315,3,1:53.0,79,59,LAC,DET,0,home,Sub,,,,,C. Douglas-Roberts,M. Barnes
+316,3,1:53.0,79,60,LAC,DET,0,away,FreeThrow,,,make1,1,J. Meeks,
+317,3,1:41.0,79,60,LAC,DET,12,home,JS,,23,miss3,0,J. Farmar,
+318,3,1:40.0,79,60,LAC,DET,1,away,DefReb,,,DefReb,,A. Drummond,
+319,3,1:35.0,79,60,LAC,DET,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Davis,G. Monroe
+320,3,1:35.0,79,61,LAC,DET,0,away,FreeThrow,,,make1,1,G. Monroe,
+321,3,1:35.0,79,61,LAC,DET,0,away,FreeThrow,,,make1,0,G. Monroe,
+322,3,1:34.0,79,61,LAC,DET,1,home,DefReb,,,DefReb,,G. Davis,
+323,3,1:19.0,79,61,LAC,DET,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Meeks,J. Crawford
+324,3,1:19.0,80,61,LAC,DET,0,home,FreeThrow,,,make1,1,J. Crawford,
+325,3,1:19.0,81,61,LAC,DET,0,home,FreeThrow,,,make1,1,J. Crawford,
+326,3,0:49.0,81,61,LAC,DET,30,home,JS,,4,miss2,0,J. Crawford,
+327,3,0:48.0,81,61,LAC,DET,1,away,DefReb,,,DefReb,,G. Monroe,
+328,3,0:38.0,81,61,LAC,DET,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,A. Drummond
+329,3,0:38.0,81,61,LAC,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+330,3,0:38.0,81,61,LAC,DET,0,away,OffReb,,,OffReb,,Team,
+331,3,0:38.0,81,61,LAC,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
+332,3,0:37.0,81,61,LAC,DET,1,home,DefReb,,,DefReb,,C. Douglas-Roberts,
+333,3,0:28.0,84,61,LAC,DET,9,home,JS,assist,24,make3,3,B. Griffin,J. Crawford
+334,3,0:08.0,84,63,LAC,DET,20,away,LU,assist,2,make2,2,G. Monroe,J. Meeks
+335,3,0:04.0,84,63,LAC,DET,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Caldwell-Pope,J. Crawford
+336,3,0:04.0,85,63,LAC,DET,0,home,FreeThrow,,,make1,1,J. Crawford,
+337,3,0:04.0,86,63,LAC,DET,0,home,FreeThrow,,,make1,1,J. Crawford,
+338,3,0:01.0,86,63,LAC,DET,3,away,JS,block,25,miss3,0,D. Augustin,J. Farmar
+339,3,0:00.0,86,63,LAC,DET,1,away,OffReb,,,OffReb,,Team,
+340,4,11:47.0,88,63,LAC,DET,13,home,LU,assist,1,make2,2,C. Douglas-Roberts,J. Farmar
+341,4,11:29.0,88,63,LAC,DET,18,away,BadPass,steal,,turnover,,D. Augustin,D. Jordan
+342,4,11:07.0,90,63,LAC,DET,22,home,JS,assist,15,make2,2,G. Davis,C. Douglas-Roberts
+343,4,10:42.0,90,65,LAC,DET,25,away,JS,,11,make2,2,J. Meeks,
+344,4,10:42.0,90,65,LAC,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Jordan,J. Meeks
+345,4,10:42.0,90,66,LAC,DET,0,away,FreeThrow,,,make1,1,J. Meeks,
+346,4,10:29.0,90,66,LAC,DET,13,home,JS,,25,miss3,0,J. Farmar,
+347,4,10:28.0,90,66,LAC,DET,1,away,DefReb,,,DefReb,,J. Jerebko,
+348,4,10:16.0,90,68,LAC,DET,12,away,JS,assist,8,make2,2,J. Jerebko,D. Augustin
+349,4,10:10.0,90,68,LAC,DET,6,home,BadPass,,,turnover,,J. Farmar,
+350,4,9:54.0,90,68,LAC,DET,16,away,JS,,19,miss2,0,C. Butler,
+351,4,9:53.0,90,68,LAC,DET,1,home,DefReb,,,DefReb,,D. Jordan,
+352,4,9:35.0,90,68,LAC,DET,18,home,JS,,13,miss2,0,J. Farmar,
+353,4,9:33.0,90,68,LAC,DET,2,home,OffReb,,,OffReb,,D. Jordan,
+354,4,9:31.0,92,68,LAC,DET,2,home,LU,,0,make2,2,D. Jordan,
+355,4,9:15.0,92,71,LAC,DET,16,away,JS,assist,24,make3,3,J. Jerebko,D. Augustin
+356,4,8:57.0,94,71,LAC,DET,18,home,DK,assist,0,make2,2,G. Davis,J. Crawford
+357,4,8:46.0,94,71,LAC,DET,11,away,Timeout,,,,,,
+358,4,8:46.0,94,71,LAC,DET,0,away,Sub,,,,,S. Dinwiddie,D. Augustin
+359,4,8:46.0,94,71,LAC,DET,0,away,Sub,,,,,G. Monroe,A. Drummond
+360,4,8:45.0,94,73,LAC,DET,1,away,JS,assist,12,make2,2,C. Butler,J. Jerebko
+361,4,8:26.0,94,73,LAC,DET,19,home,LU,,2,miss2,0,G. Davis,
+362,4,8:24.0,94,73,LAC,DET,2,away,DefReb,,,DefReb,,J. Jerebko,
+363,4,8:11.0,94,76,LAC,DET,13,away,JS,assist,24,make3,3,J. Meeks,J. Jerebko
+364,4,7:57.0,94,76,LAC,DET,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Meeks,J. Crawford
+365,4,7:57.0,94,76,LAC,DET,0,home,Sub,,,,,H. Türkoğlu,D. Jordan
+366,4,7:42.0,94,76,LAC,DET,15,home,JS,,15,miss2,0,J. Crawford,
+367,4,7:40.0,94,76,LAC,DET,2,away,DefReb,,,DefReb,,J. Jerebko,
+368,4,7:31.0,94,78,LAC,DET,9,away,LU,assist,1,make2,2,G. Monroe,J. Jerebko
+369,4,7:31.0,94,78,LAC,DET,0,home,Timeout,,,,,,
+370,4,7:07.0,94,78,LAC,DET,24,home,JS,,22,miss2,0,J. Farmar,
+371,4,7:06.0,94,78,LAC,DET,1,home,OffReb,,,OffReb,,G. Davis,
+372,4,6:49.0,96,78,LAC,DET,17,home,LU,assist,2,make2,2,G. Davis,J. Crawford
+373,4,6:39.0,96,78,LAC,DET,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Douglas-Roberts,C. Butler
+374,4,6:30.0,96,78,LAC,DET,9,away,HS,,10,miss2,0,J. Jerebko,
+375,4,6:25.0,96,78,LAC,DET,5,home,DefReb,,,DefReb,,C. Douglas-Roberts,
+376,4,6:14.0,96,78,LAC,DET,11,home,BadPass,,,turnover,,H. Türkoğlu,
+377,4,5:54.0,96,78,LAC,DET,20,away,LU,,1,miss2,0,G. Monroe,
+378,4,5:50.0,96,78,LAC,DET,4,away,OffReb,,,OffReb,,G. Monroe,
+379,4,5:50.0,96,80,LAC,DET,0,away,TI,,0,make2,2,G. Monroe,
+380,4,5:36.0,96,80,LAC,DET,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Dinwiddie,J. Farmar
+381,4,5:23.0,99,80,LAC,DET,13,home,JS,assist,22,make3,3,H. Türkoğlu,J. Farmar
+382,4,5:09.0,99,83,LAC,DET,14,away,JS,assist,22,make3,3,J. Meeks,S. Dinwiddie
+383,4,4:49.0,99,83,LAC,DET,20,home,BadPass,steal,,turnover,,J. Farmar,J. Jerebko
+384,4,4:49.0,99,83,LAC,DET,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,H. Türkoğlu,J. Jerebko
+385,4,4:49.0,99,83,LAC,DET,0,away,Sub,,,,,A. Drummond,G. Monroe
+386,4,4:32.0,99,83,LAC,DET,17,away,JS,,25,miss3,0,S. Dinwiddie,
+387,4,4:30.0,99,83,LAC,DET,2,home,DefReb,,,DefReb,,C. Douglas-Roberts,
+388,4,4:15.0,102,83,LAC,DET,15,home,JS,assist,25,make3,3,J. Farmar,J. Crawford
+389,4,4:14.0,102,83,LAC,DET,1,away,Timeout,,,,,,
+390,4,4:14.0,102,83,LAC,DET,0,home,Sub,,,,,E. Udoh,G. Davis
+391,4,3:55.0,102,85,LAC,DET,19,away,LU,,1,make2,2,S. Dinwiddie,
+392,4,3:28.0,102,85,LAC,DET,27,home,JS,,25,miss3,0,H. Türkoğlu,
+393,4,3:27.0,102,85,LAC,DET,1,home,OffReb,,,OffReb,,E. Udoh,
+394,4,3:23.0,102,85,LAC,DET,4,home,JS,,11,miss2,0,E. Udoh,
+395,4,3:22.0,102,85,LAC,DET,1,away,DefReb,,,DefReb,,C. Butler,
+396,4,3:18.0,102,85,LAC,DET,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Udoh,S. Dinwiddie
+397,4,3:13.0,102,85,LAC,DET,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Udoh,J. Meeks
+398,4,3:13.0,102,86,LAC,DET,0,away,FreeThrow,,,make1,1,J. Meeks,
+399,4,3:13.0,102,87,LAC,DET,0,away,FreeThrow,,,make1,1,J. Meeks,
+400,4,2:59.0,105,87,LAC,DET,14,home,JS,assist,22,make3,3,C. Douglas-Roberts,J. Farmar
+401,4,2:42.0,105,89,LAC,DET,17,away,JS,assist,20,make2,2,J. Jerebko,J. Meeks
+402,4,2:22.0,105,89,LAC,DET,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Drummond,C. Douglas-Roberts
+403,4,2:22.0,106,89,LAC,DET,0,home,FreeThrow,,,make1,1,C. Douglas-Roberts,
+404,4,2:22.0,106,89,LAC,DET,0,home,Sub,,,,,J. Cunningham,J. Farmar
+405,4,2:22.0,106,89,LAC,DET,0,home,Sub,,,,,R. Bullock,J. Crawford
+406,4,2:22.0,107,89,LAC,DET,0,home,FreeThrow,,,make1,1,C. Douglas-Roberts,
+407,4,2:09.0,107,89,LAC,DET,13,away,JS,,24,miss3,0,J. Jerebko,
+408,4,2:07.0,107,89,LAC,DET,2,home,DefReb,,,DefReb,,J. Cunningham,
+409,4,1:58.0,109,89,LAC,DET,9,home,LU,,1,make2,2,C. Douglas-Roberts,
+410,4,1:38.0,109,89,LAC,DET,20,away,JS,,26,miss3,0,S. Dinwiddie,
+411,4,1:37.0,109,89,LAC,DET,1,home,DefReb,,,DefReb,,R. Bullock,
+412,4,1:34.0,109,89,LAC,DET,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Meeks,J. Cunningham
+413,4,1:34.0,109,89,LAC,DET,0,home,FreeThrow,,,make1,0,J. Cunningham,
+414,4,1:34.0,109,89,LAC,DET,0,home,OffReb,,,OffReb,,Team,
+415,4,1:34.0,110,89,LAC,DET,0,home,FreeThrow,,,make1,1,J. Cunningham,
+416,4,1:20.0,110,89,LAC,DET,14,away,JS,,24,miss3,0,J. Meeks,
+417,4,1:19.0,110,89,LAC,DET,1,home,DefReb,,,DefReb,,H. Türkoğlu,
+418,4,1:06.0,110,89,LAC,DET,13,home,BadPass,steal,,turnover,,H. Türkoğlu,J. Meeks
+419,4,1:03.0,110,91,LAC,DET,3,away,LU,,0,make2,2,J. Meeks,
+420,4,0:52.0,113,91,LAC,DET,11,home,JS,assist,23,make3,3,H. Türkoğlu,J. Cunningham
+421,4,0:29.0,113,91,LAC,DET,23,away,HS,,2,miss2,0,A. Drummond,
+422,4,0:29.0,113,91,LAC,DET,0,away,OffReb,,,OffReb,,Team,
+423,4,0:27.0,113,91,LAC,DET,2,away,JS,,24,miss3,0,J. Jerebko,
+424,4,0:26.0,113,91,LAC,DET,1,home,DefReb,,,DefReb,,E. Udoh,
+425,4,0:02.0,113,91,LAC,DET,24,home,ShotClockViolation,,,turnover,,Team,
+426,4,0:01.0,113,91,LAC,DET,1,away,JS,,50,miss3,0,S. Dinwiddie,
+427,4,0:00.0,113,91,LAC,DET,1,away,OffReb,,,OffReb,,Team,
