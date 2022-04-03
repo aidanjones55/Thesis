@@ -2,7 +2,9 @@ import bs4 as BS
 import requests
 import pandas as pd
 
-years = [2017, 2018, 2019, 2020, 2021]
+#years = [2017, 2018, 2019, 2020, 2021]
+years = [2015, 2016]
+
 months = ['october', 'november', 'december', 'january', 'february', 'march', 'april']
 
 month_dict = {
