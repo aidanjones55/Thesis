@@ -1,6 +1,6 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:42.0,0,0,CLE,GSW,18,away,BadPass,,,turnover,,S. Curry,
-1,1,11:22.0,0,0,CLE,GSW,20,home,BadPass,steal,,turnover,,L. James,K. Durant
+1,1,11:22.0,0,0,CLE,GSW,20,home,bad pass,steal,,turnover,,L. James,K. Durant
 2,1,11:17.0,0,2,CLE,GSW,5,away,LU,,1,make2,2,K. Durant,
 3,1,10:59.0,0,2,CLE,GSW,18,home,LU,,1,miss2,0,L. James,
 4,1,10:58.0,0,2,CLE,GSW,1,away,DefReb,,,DefReb,,Z. Pachulia,
@@ -8,7 +8,7 @@
 6,1,10:50.0,0,2,CLE,GSW,1,home,DefReb,,,DefReb,,K. Love,
 7,1,10:42.0,0,2,CLE,GSW,8,home,JS,,25,miss3,0,K. Love,
 8,1,10:42.0,0,2,CLE,GSW,0,away,DefReb,,,DefReb,,Z. Pachulia,
-9,1,10:30.0,0,2,CLE,GSW,12,away,BadPass,steal,,turnover,,D. Green,K. Love
+9,1,10:30.0,0,2,CLE,GSW,12,away,bad pass,steal,,turnover,,D. Green,K. Love
 10,1,10:24.0,0,2,CLE,GSW,6,home,LU,,1,miss2,0,K. Irving,
 11,1,10:24.0,0,2,CLE,GSW,0,home,OffReb,,,OffReb,,Team,
 12,1,10:08.0,0,2,CLE,GSW,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,K. Love
@@ -31,7 +31,7 @@
 29,1,9:20.0,3,5,CLE,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
 30,1,9:20.0,3,6,CLE,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
 31,1,9:06.0,6,6,CLE,GSW,14,home,JS,assist,25,make3,3,K. Love,K. Irving
-32,1,8:45.0,6,6,CLE,GSW,21,away,LostBall,steal,,turnover,,Z. Pachulia,K. Irving
+32,1,8:45.0,6,6,CLE,GSW,21,away,lost ball,steal,,turnover,,Z. Pachulia,K. Irving
 33,1,8:37.0,6,6,CLE,GSW,8,home,LU,,1,miss2,0,L. James,
 34,1,8:37.0,6,6,CLE,GSW,0,home,OffReb,,,OffReb,,T. Thompson,
 35,1,8:33.0,6,6,CLE,GSW,4,home,BadPass,,,turnover,,L. James,
@@ -46,7 +46,7 @@
 44,1,7:34.0,6,8,CLE,GSW,0,away,Sub,,,,,J. McGee,Z. Pachulia
 45,1,7:23.0,6,8,CLE,GSW,11,home,HS,,3,miss2,0,K. Love,
 46,1,7:21.0,6,8,CLE,GSW,2,away,DefReb,,,DefReb,,K. Thompson,
-47,1,7:16.0,6,8,CLE,GSW,5,away,BadPass,steal,,turnover,,K. Thompson,D. Liggins
+47,1,7:16.0,6,8,CLE,GSW,5,away,bad pass,steal,,turnover,,K. Thompson,D. Liggins
 48,1,7:05.0,8,8,CLE,GSW,11,home,JS,,14,make2,2,K. Irving,
 49,1,6:55.0,8,8,CLE,GSW,10,away,Timeout,,,,,,
 50,1,6:44.0,8,8,CLE,GSW,11,away,JS,,25,miss3,0,K. Durant,
@@ -64,7 +64,7 @@
 62,1,5:31.0,10,12,CLE,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
 63,1,5:13.0,10,12,CLE,GSW,18,home,JS,,23,miss3,0,I. Shumpert,
 64,1,5:13.0,10,12,CLE,GSW,0,away,DefReb,,,DefReb,,K. Looney,
-65,1,5:04.0,10,12,CLE,GSW,9,away,BadPass,steal,,turnover,,K. Thompson,L. James
+65,1,5:04.0,10,12,CLE,GSW,9,away,bad pass,steal,,turnover,,K. Thompson,L. James
 66,1,4:59.0,12,12,CLE,GSW,5,home,LU,,2,make2,2,L. James,
 67,1,4:52.0,12,14,CLE,GSW,7,away,DK,,0,make2,2,K. Durant,
 68,1,4:46.0,14,14,CLE,GSW,6,home,DK,assist,0,make2,2,L. James,K. Love
@@ -165,8 +165,8 @@
 163,2,7:16.0,34,40,CLE,GSW,10,home,LU,,1,miss2,0,K. Irving,
 164,2,7:15.0,34,40,CLE,GSW,1,home,OffReb,,,OffReb,,K. Irving,
 165,2,7:15.0,36,40,CLE,GSW,0,home,LU,,2,make2,2,K. Irving,
-166,2,6:59.0,36,40,CLE,GSW,16,away,BadPass,steal,,turnover,,D. Green,K. Irving
-167,2,6:55.0,36,40,CLE,GSW,4,home,BadPass,steal,,turnover,,R. Jefferson,K. Thompson
+166,2,6:59.0,36,40,CLE,GSW,16,away,bad pass,steal,,turnover,,D. Green,K. Irving
+167,2,6:55.0,36,40,CLE,GSW,4,home,bad pass,steal,,turnover,,R. Jefferson,K. Thompson
 168,2,6:51.0,36,40,CLE,GSW,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Jefferson,S. Livingston
 169,2,6:51.0,36,41,CLE,GSW,0,away,FreeThrow,,,make1,1,S. Livingston,
 170,2,6:51.0,36,41,CLE,GSW,0,away,Sub,,,,,K. Durant,D. West
@@ -184,8 +184,8 @@
 182,2,5:43.0,38,44,CLE,GSW,0,away,OffensiveFoul,,,turnover,,S. Curry,
 183,2,5:27.0,38,44,CLE,GSW,16,home,JS,,17,miss2,0,K. Irving,
 184,2,5:25.0,38,44,CLE,GSW,2,away,DefReb,,,DefReb,,S. Curry,
-185,2,5:15.0,38,44,CLE,GSW,10,away,BadPass,steal,,turnover,,S. Livingston,I. Shumpert
-186,2,5:10.0,38,44,CLE,GSW,5,home,BadPass,steal,,turnover,,I. Shumpert,S. Curry
+185,2,5:15.0,38,44,CLE,GSW,10,away,bad pass,steal,,turnover,,S. Livingston,I. Shumpert
+186,2,5:10.0,38,44,CLE,GSW,5,home,bad pass,steal,,turnover,,I. Shumpert,S. Curry
 187,2,5:06.0,38,46,CLE,GSW,4,away,DK,assist,0,make2,2,K. Durant,S. Livingston
 188,2,5:06.0,38,46,CLE,GSW,0,home,Timeout,,,,,,
 189,2,4:49.0,38,46,CLE,GSW,17,home,JS,,18,miss2,0,R. Jefferson,
@@ -264,7 +264,7 @@
 262,3,11:00.0,56,58,CLE,GSW,0,home,FreeThrow,,,make1,1,K. Love,
 263,3,10:41.0,56,58,CLE,GSW,19,away,JS,,28,miss3,0,K. Thompson,
 264,3,10:40.0,56,58,CLE,GSW,1,away,OffReb,,,OffReb,,Team,
-265,3,10:33.0,56,58,CLE,GSW,7,away,LostBall,steal,,turnover,,Z. Pachulia,D. Liggins
+265,3,10:33.0,56,58,CLE,GSW,7,away,lost ball,steal,,turnover,,Z. Pachulia,D. Liggins
 266,3,10:26.0,56,58,CLE,GSW,7,home,BadPass,,,turnover,,L. James,
 267,3,10:13.0,56,58,CLE,GSW,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. James,S. Curry
 268,3,10:10.0,56,58,CLE,GSW,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Love,K. Durant
@@ -274,7 +274,7 @@
 272,3,9:58.0,56,60,CLE,GSW,1,home,OffReb,,,OffReb,,T. Thompson,
 273,3,9:58.0,56,60,CLE,GSW,0,home,LU,,1,miss2,0,T. Thompson,
 274,3,9:58.0,56,60,CLE,GSW,0,home,OffReb,,,OffReb,,Team,
-275,3,9:48.0,56,60,CLE,GSW,10,home,BadPass,steal,,turnover,,L. James,S. Curry
+275,3,9:48.0,56,60,CLE,GSW,10,home,bad pass,steal,,turnover,,L. James,S. Curry
 276,3,9:36.0,56,62,CLE,GSW,12,away,JS,assist,5,make2,2,S. Curry,K. Durant
 277,3,9:11.0,59,62,CLE,GSW,25,home,JS,assist,26,make3,3,L. James,K. Irving
 278,3,8:55.0,59,64,CLE,GSW,16,away,JS,assist,7,make2,2,K. Durant,D. Green
@@ -285,7 +285,7 @@
 283,3,8:48.0,60,64,CLE,GSW,0,home,FreeThrow,,,make1,1,T. Thompson,
 284,3,8:43.0,60,64,CLE,GSW,5,away,JS,,25,miss3,0,S. Curry,
 285,3,8:41.0,60,64,CLE,GSW,2,away,OffReb,,,OffReb,,J. McGee,
-286,3,8:41.0,60,64,CLE,GSW,0,away,BadPass,steal,,turnover,,J. McGee,T. Thompson
+286,3,8:41.0,60,64,CLE,GSW,0,away,bad pass,steal,,turnover,,J. McGee,T. Thompson
 287,3,8:28.0,60,64,CLE,GSW,13,home,JS,,11,miss2,0,K. Irving,
 288,3,8:28.0,60,64,CLE,GSW,0,away,DefReb,,,DefReb,,K. Thompson,
 289,3,8:21.0,60,64,CLE,GSW,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Love,J. McGee
@@ -327,8 +327,8 @@
 325,3,4:58.0,70,72,CLE,GSW,0,away,Sub,,,,,A. Iguodala,K. Durant
 326,3,4:58.0,70,72,CLE,GSW,0,away,Sub,,,,,Z. Pachulia,J. McGee
 327,3,4:46.0,70,75,CLE,GSW,12,away,JS,assist,24,make3,3,K. Thompson,A. Iguodala
-328,3,4:29.0,70,75,CLE,GSW,17,home,BadPass,steal,,turnover,,C. Frye,S. Curry
-329,3,4:23.0,70,75,CLE,GSW,6,away,BadPass,steal,,turnover,,S. Curry,K. Irving
+328,3,4:29.0,70,75,CLE,GSW,17,home,bad pass,steal,,turnover,,C. Frye,S. Curry
+329,3,4:23.0,70,75,CLE,GSW,6,away,bad pass,steal,,turnover,,S. Curry,K. Irving
 330,3,4:04.0,72,75,CLE,GSW,19,home,LU,,1,make2,2,K. Irving,
 331,3,3:46.0,72,75,CLE,GSW,18,away,LU,,1,miss2,0,K. Thompson,
 332,3,3:46.0,72,75,CLE,GSW,0,home,DefReb,,,DefReb,,Team,
@@ -341,8 +341,8 @@
 339,3,3:30.0,72,77,CLE,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
 340,3,3:10.0,75,77,CLE,GSW,20,home,JS,assist,24,make3,3,L. James,K. Irving
 341,3,2:59.0,75,79,CLE,GSW,11,away,DK,assist,0,make2,2,D. Green,S. Curry
-342,3,2:32.0,75,79,CLE,GSW,27,home,BadPass,steal,,turnover,,C. Frye,D. Green
-343,3,2:18.0,75,79,CLE,GSW,14,away,BadPass,steal,,turnover,,D. Green,K. Irving
+342,3,2:32.0,75,79,CLE,GSW,27,home,bad pass,steal,,turnover,,C. Frye,D. Green
+343,3,2:18.0,75,79,CLE,GSW,14,away,bad pass,steal,,turnover,,D. Green,K. Irving
 344,3,2:15.0,75,79,CLE,GSW,3,home,LU,,1,miss2,0,K. Irving,
 345,3,2:14.0,75,79,CLE,GSW,1,home,OffReb,,,OffReb,,K. Irving,
 346,3,2:13.0,75,79,CLE,GSW,1,home,LU,block,2,miss2,0,L. James,A. Iguodala
@@ -367,7 +367,7 @@
 365,3,0:37.0,79,85,CLE,GSW,14,home,JS,,13,miss2,0,R. Jefferson,
 366,3,0:36.0,79,85,CLE,GSW,1,away,DefReb,,,DefReb,,D. Green,
 367,3,0:28.0,79,87,CLE,GSW,8,away,DK,,0,make2,2,K. Durant,
-368,3,0:07.0,79,87,CLE,GSW,21,home,BadPass,steal,,turnover,,L. James,I. Clark
+368,3,0:07.0,79,87,CLE,GSW,21,home,bad pass,steal,,turnover,,L. James,I. Clark
 369,3,0:05.0,79,87,CLE,GSW,2,away,BadPass,,,turnover,,A. Iguodala,
 370,3,0:05.0,79,87,CLE,GSW,0,home,Sub,,,,,K. Irving,T. Thompson
 371,3,0:05.0,79,87,CLE,GSW,0,away,Sub,,,,,S. Livingston,S. Curry
@@ -385,7 +385,7 @@
 383,4,11:00.0,80,89,CLE,GSW,2,away,DefReb,,,DefReb,,K. Durant,
 384,4,10:52.0,80,89,CLE,GSW,8,away,JS,,9,miss2,0,K. Durant,
 385,4,10:50.0,80,89,CLE,GSW,2,home,DefReb,,,DefReb,,K. Love,
-386,4,10:38.0,80,89,CLE,GSW,12,home,BadPass,steal,,turnover,,K. Irving,D. West
+386,4,10:38.0,80,89,CLE,GSW,12,home,bad pass,steal,,turnover,,K. Irving,D. West
 387,4,10:34.0,80,89,CLE,GSW,4,away,LU,block,1,miss2,0,A. Iguodala,I. Shumpert
 388,4,10:34.0,80,89,CLE,GSW,0,home,DefReb,,,DefReb,,Team,
 389,4,10:13.0,80,89,CLE,GSW,21,home,HS,,8,miss2,0,K. Love,
@@ -419,13 +419,13 @@
 417,4,7:20.0,87,95,CLE,GSW,13,away,JS,,25,miss3,0,K. Thompson,
 418,4,7:20.0,87,95,CLE,GSW,0,home,DefReb,,,DefReb,,K. Love,
 419,4,7:13.0,89,95,CLE,GSW,7,home,LU,,2,make2,2,K. Irving,
-420,4,6:54.0,89,95,CLE,GSW,19,away,BadPass,steal,,turnover,,D. Green,L. James
+420,4,6:54.0,89,95,CLE,GSW,19,away,bad pass,steal,,turnover,,D. Green,L. James
 421,4,6:45.0,89,95,CLE,GSW,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Curry,R. Jefferson
 422,4,6:45.0,90,95,CLE,GSW,0,home,FreeThrow,,,make1,1,R. Jefferson,
 423,4,6:45.0,91,95,CLE,GSW,0,home,FreeThrow,,,make1,1,R. Jefferson,
 424,4,6:31.0,91,97,CLE,GSW,14,away,DK,assist,0,make2,2,D. Green,D. West
 425,4,6:12.0,94,97,CLE,GSW,19,home,JS,,24,make3,3,K. Irving,
-426,4,5:55.0,94,97,CLE,GSW,17,away,BadPass,steal,,turnover,,D. Green,K. Irving
+426,4,5:55.0,94,97,CLE,GSW,17,away,bad pass,steal,,turnover,,D. Green,K. Irving
 427,4,5:48.0,94,97,CLE,GSW,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,K. Irving
 428,4,5:48.0,94,97,CLE,GSW,0,away,Sub,,,,,K. Durant,D. West
 429,4,5:37.0,94,97,CLE,GSW,11,home,LU,,1,miss2,0,K. Irving,
@@ -453,7 +453,7 @@
 451,4,2:48.0,101,103,CLE,GSW,0,home,OffReb,,,OffReb,,K. Irving,
 452,4,2:44.0,101,103,CLE,GSW,4,home,LU,,2,miss2,0,K. Irving,
 453,4,2:42.0,101,103,CLE,GSW,2,away,DefReb,,,DefReb,,K. Durant,
-454,4,2:33.0,101,103,CLE,GSW,9,away,BadPass,steal,,turnover,,D. Green,K. Irving
+454,4,2:33.0,101,103,CLE,GSW,9,away,bad pass,steal,,turnover,,D. Green,K. Irving
 455,4,2:18.0,103,103,CLE,GSW,15,home,LU,assist,0,make2,2,K. Irving,I. Shumpert
 456,4,1:55.0,103,103,CLE,GSW,23,away,JS,,20,miss2,0,K. Durant,
 457,4,1:54.0,103,103,CLE,GSW,1,home,DefReb,,,DefReb,,I. Shumpert,
@@ -469,7 +469,7 @@
 467,4,1:14.0,105,108,CLE,GSW,0,home,Timeout,,,,,,
 468,4,0:47.0,105,108,CLE,GSW,27,home,JS,,29,miss3,0,R. Jefferson,
 469,4,0:47.0,105,108,CLE,GSW,0,away,DefReb,,,DefReb,,A. Iguodala,
-470,4,0:43.0,105,108,CLE,GSW,4,away,BadPass,steal,,turnover,,A. Iguodala,K. Irving
+470,4,0:43.0,105,108,CLE,GSW,4,away,bad pass,steal,,turnover,,A. Iguodala,K. Irving
 471,4,0:38.0,107,108,CLE,GSW,5,home,LU,,2,make2,2,K. Irving,
 472,4,0:14.0,107,108,CLE,GSW,24,away,ShotClockViolation,,,turnover,,Team,
 473,4,0:14.0,107,108,CLE,GSW,0,away,Sub,,,,,S. Livingston,S. Curry

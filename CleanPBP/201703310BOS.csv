@@ -9,8 +9,8 @@
 7,1,11:15.0,1,0,BOS,ORL,0,away,DefReb,,,DefReb,,A. Gordon,
 8,1,10:57.0,1,0,BOS,ORL,18,away,JS,,26,miss3,0,T. Ross,
 9,1,10:56.0,1,0,BOS,ORL,1,home,DefReb,,,DefReb,,A. Johnson,
-10,1,10:46.0,1,0,BOS,ORL,10,home,LostBall,steal,,turnover,,A. Horford,E. Payton
-11,1,10:40.0,1,0,BOS,ORL,6,away,LostBall,steal,,turnover,,E. Payton,I. Thomas
+10,1,10:46.0,1,0,BOS,ORL,10,home,lost ball,steal,,turnover,,A. Horford,E. Payton
+11,1,10:40.0,1,0,BOS,ORL,6,away,lost ball,steal,,turnover,,E. Payton,I. Thomas
 12,1,10:39.0,1,0,BOS,ORL,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,E. Fournier,I. Thomas
 13,1,10:25.0,4,0,BOS,ORL,14,home,JS,assist,24,make3,3,J. Brown,I. Thomas
 14,1,10:18.0,4,3,BOS,ORL,7,away,JS,assist,25,make3,3,E. Fournier,E. Payton
@@ -93,7 +93,7 @@
 91,1,2:48.0,20,23,BOS,ORL,14,home,JS,assist,23,make3,3,M. Smart,I. Thomas
 92,1,2:47.0,20,23,BOS,ORL,1,away,Timeout,,,,,,
 93,1,2:47.0,20,23,BOS,ORL,0,home,Sub,,,,,K. Olynyk,A. Horford
-94,1,2:37.0,20,23,BOS,ORL,10,away,BadPass,steal,,turnover,,E. Fournier,K. Olynyk
+94,1,2:37.0,20,23,BOS,ORL,10,away,bad pass,steal,,turnover,,E. Fournier,K. Olynyk
 95,1,2:32.0,22,23,BOS,ORL,5,home,LU,,1,make2,2,I. Thomas,
 96,1,2:18.0,22,23,BOS,ORL,14,away,JS,,9,miss2,0,E. Payton,
 97,1,2:17.0,22,23,BOS,ORL,1,home,DefReb,,,DefReb,,J. Jerebko,
@@ -167,13 +167,13 @@
 165,2,7:42.0,39,41,BOS,ORL,0,away,FreeThrow,,,make1,1,J. Meeks,
 166,2,7:42.0,39,41,BOS,ORL,0,home,Sub,,,,,J. Brown,G. Green
 167,2,7:42.0,39,42,BOS,ORL,0,away,FreeThrow,,,make1,1,J. Meeks,
-168,2,7:28.0,39,42,BOS,ORL,14,home,BadPass,steal,,turnover,,M. Smart,T. Ross
+168,2,7:28.0,39,42,BOS,ORL,14,home,bad pass,steal,,turnover,,M. Smart,T. Ross
 169,2,7:25.0,39,42,BOS,ORL,3,away,BadPass,,,turnover,,T. Ross,
 170,2,7:18.0,39,42,BOS,ORL,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ross,M. Smart
-171,2,7:13.0,39,42,BOS,ORL,5,home,BadPass,steal,,turnover,,A. Horford,J. Meeks
+171,2,7:13.0,39,42,BOS,ORL,5,home,bad pass,steal,,turnover,,A. Horford,J. Meeks
 172,2,7:07.0,39,42,BOS,ORL,6,away,LU,block,2,miss2,0,J. Meeks,M. Smart
 173,2,7:06.0,39,42,BOS,ORL,1,home,DefReb,,,DefReb,,A. Horford,
-174,2,7:03.0,39,42,BOS,ORL,3,home,BadPass,steal,,turnover,,A. Horford,T. Ross
+174,2,7:03.0,39,42,BOS,ORL,3,home,bad pass,steal,,turnover,,A. Horford,T. Ross
 175,2,6:57.0,39,42,BOS,ORL,6,away,JS,,26,miss3,0,C. Watson,
 176,2,6:55.0,39,42,BOS,ORL,2,home,DefReb,,,DefReb,,J. Brown,
 177,2,6:35.0,41,42,BOS,ORL,20,home,LU,assist,1,make2,2,J. Crowder,M. Smart
@@ -219,7 +219,7 @@
 217,2,3:14.0,43,51,BOS,ORL,10,away,JS,assist,26,make3,3,A. Gordon,E. Payton
 218,2,2:54.0,45,51,BOS,ORL,20,home,JS,assist,21,make2,2,J. Crowder,M. Smart
 219,2,2:48.0,45,53,BOS,ORL,6,away,LU,assist,2,make2,2,E. Fournier,E. Payton
-220,2,2:35.0,45,53,BOS,ORL,13,home,BadPass,steal,,turnover,,I. Thomas,E. Fournier
+220,2,2:35.0,45,53,BOS,ORL,13,home,bad pass,steal,,turnover,,I. Thomas,E. Fournier
 221,2,2:30.0,45,55,BOS,ORL,5,away,DK,assist,0,make2,2,A. Gordon,E. Payton
 222,2,2:30.0,45,55,BOS,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Smart,A. Gordon
 223,2,2:30.0,45,55,BOS,ORL,0,away,Timeout,,,,,,
@@ -261,7 +261,7 @@
 259,3,10:21.0,59,70,BOS,ORL,24,home,JS,,12,make2,2,J. Brown,
 260,3,9:58.0,59,72,BOS,ORL,23,away,JS,assist,6,make2,2,T. Ross,E. Fournier
 261,3,9:37.0,61,72,BOS,ORL,21,home,HS,,9,make2,2,A. Horford,
-262,3,9:31.0,61,72,BOS,ORL,6,away,BadPass,steal,,turnover,,E. Payton,A. Horford
+262,3,9:31.0,61,72,BOS,ORL,6,away,bad pass,steal,,turnover,,E. Payton,A. Horford
 263,3,9:21.0,63,72,BOS,ORL,10,home,LU,assist,3,make2,2,A. Horford,I. Thomas
 264,3,9:02.0,63,72,BOS,ORL,19,away,JS,,17,miss2,0,A. Gordon,
 265,3,9:01.0,63,72,BOS,ORL,1,home,DefReb,,,DefReb,,Team,
@@ -294,7 +294,7 @@
 292,3,5:51.0,77,76,BOS,ORL,16,home,JS,assist,25,make3,3,J. Crowder,I. Thomas
 293,3,5:31.0,77,76,BOS,ORL,20,away,JS,,18,miss2,0,N. Vučević,
 294,3,5:30.0,77,76,BOS,ORL,1,home,DefReb,,,DefReb,,I. Thomas,
-295,3,5:18.0,77,76,BOS,ORL,12,home,BadPass,steal,,turnover,,I. Thomas,E. Fournier
+295,3,5:18.0,77,76,BOS,ORL,12,home,bad pass,steal,,turnover,,I. Thomas,E. Fournier
 296,3,5:13.0,77,78,BOS,ORL,5,away,LU,assist,2,make2,2,A. Gordon,N. Vučević
 297,3,5:13.0,77,78,BOS,ORL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crowder,A. Gordon
 298,3,5:13.0,77,78,BOS,ORL,0,home,Sub,,,,,J. Jerebko,A. Johnson
@@ -324,7 +324,7 @@
 322,3,3:11.0,83,86,BOS,ORL,1,away,DefReb,,,DefReb,,N. Vučević,
 323,3,2:49.0,83,86,BOS,ORL,22,away,LU,,2,miss2,0,M. Hezonja,
 324,3,2:48.0,83,86,BOS,ORL,1,home,DefReb,,,DefReb,,A. Horford,
-325,3,2:36.0,83,86,BOS,ORL,12,home,BadPass,steal,,turnover,,A. Horford,N. Vučević
+325,3,2:36.0,83,86,BOS,ORL,12,home,bad pass,steal,,turnover,,A. Horford,N. Vučević
 326,3,2:22.0,83,86,BOS,ORL,14,away,JS,,27,miss3,0,M. Hezonja,
 327,3,2:21.0,83,86,BOS,ORL,1,home,DefReb,,,DefReb,,J. Jerebko,
 328,3,2:09.0,83,86,BOS,ORL,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,A. Horford
@@ -349,7 +349,7 @@
 347,3,0:51.0,90,88,BOS,ORL,11,away,JS,assist,18,make2,2,M. Hezonja,C. Watson
 348,3,0:39.0,90,88,BOS,ORL,12,home,JS,,26,miss3,0,J. Crowder,
 349,3,0:38.0,90,88,BOS,ORL,1,away,DefReb,,,DefReb,,Team,
-350,3,0:28.0,90,88,BOS,ORL,10,away,BadPass,steal,,turnover,,C. Watson,J. Crowder
+350,3,0:28.0,90,88,BOS,ORL,10,away,bad pass,steal,,turnover,,C. Watson,J. Crowder
 351,3,0:23.0,90,88,BOS,ORL,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Biyombo,J. Crowder
 352,3,0:23.0,91,88,BOS,ORL,0,home,FreeThrow,,,make1,1,J. Crowder,
 353,3,0:23.0,92,88,BOS,ORL,0,home,FreeThrow,,,make1,1,J. Crowder,
@@ -393,7 +393,7 @@
 391,4,7:43.0,105,100,BOS,ORL,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,E. Payton
 392,4,7:43.0,105,101,BOS,ORL,0,away,FreeThrow,,,make1,1,E. Payton,
 393,4,7:43.0,105,102,BOS,ORL,0,away,FreeThrow,,,make1,1,E. Payton,
-394,4,7:29.0,105,102,BOS,ORL,14,home,BadPass,steal,,turnover,,T. Rozier,E. Payton
+394,4,7:29.0,105,102,BOS,ORL,14,home,bad pass,steal,,turnover,,T. Rozier,E. Payton
 395,4,7:23.0,105,105,BOS,ORL,6,away,JS,assist,26,make3,3,J. Meeks,E. Payton
 396,4,7:02.0,105,105,BOS,ORL,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Gordon,I. Thomas
 397,4,7:02.0,106,105,BOS,ORL,0,home,FreeThrow,,,make1,1,I. Thomas,
@@ -426,7 +426,7 @@
 424,4,4:39.0,107,111,BOS,ORL,1,away,OffReb,,,OffReb,,Team,
 425,4,4:39.0,107,111,BOS,ORL,0,home,Sub,,,,,I. Thomas,T. Rozier
 426,4,4:39.0,107,111,BOS,ORL,0,home,Sub,,,,,A. Johnson,J. Brown
-427,4,4:37.0,107,111,BOS,ORL,2,away,LostBall,steal,,turnover,,J. Meeks,A. Johnson
+427,4,4:37.0,107,111,BOS,ORL,2,away,lost ball,steal,,turnover,,J. Meeks,A. Johnson
 428,4,4:31.0,107,111,BOS,ORL,6,away,KickBallViolation,,,KickBallViolation,,A. Gordon,
 429,4,4:31.0,107,111,BOS,ORL,0,away,Sub,,,,,T. Ross,J. Meeks
 430,4,4:27.0,107,111,BOS,ORL,4,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,T. Ross,M. Smart
@@ -434,8 +434,8 @@
 432,4,4:27.0,109,111,BOS,ORL,0,home,FreeThrow,,,make1,1,M. Smart,
 433,4,4:11.0,109,111,BOS,ORL,16,away,JS,,18,miss2,0,N. Vučević,
 434,4,4:10.0,109,111,BOS,ORL,1,home,DefReb,,,DefReb,,M. Smart,
-435,4,3:52.0,109,111,BOS,ORL,18,home,BadPass,steal,,turnover,,A. Horford,A. Gordon
-436,4,3:46.0,109,111,BOS,ORL,6,away,BadPass,steal,,turnover,,T. Ross,J. Crowder
+435,4,3:52.0,109,111,BOS,ORL,18,home,bad pass,steal,,turnover,,A. Horford,A. Gordon
+436,4,3:46.0,109,111,BOS,ORL,6,away,bad pass,steal,,turnover,,T. Ross,J. Crowder
 437,4,3:41.0,111,111,BOS,ORL,5,home,LU,assist,1,make2,2,A. Horford,I. Thomas
 438,4,3:40.0,111,111,BOS,ORL,1,away,Timeout,,,,,,
 439,4,3:17.0,111,111,BOS,ORL,23,away,JS,,20,miss2,0,E. Payton,

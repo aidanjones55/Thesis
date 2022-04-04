@@ -7,9 +7,9 @@
 5,1,10:51.0,2,2,WAS,LAL,1,away,DefReb,,,DefReb,,D. Russell,
 6,1,10:42.0,2,4,WAS,LAL,9,away,DK,assist,0,make2,2,T. Black,D. Russell
 7,1,10:35.0,5,4,WAS,LAL,7,home,JS,assist,24,make3,3,B. Beal,J. Wall
-8,1,10:20.0,5,4,WAS,LAL,15,away,LostBall,steal,,turnover,,T. Black,M. Morris
-9,1,10:08.0,5,4,WAS,LAL,12,home,LostBall,steal,,turnover,,B. Beal,D. Russell
-10,1,10:02.0,5,4,WAS,LAL,6,away,BadPass,steal,,turnover,,D. Russell,M. Gortat
+8,1,10:20.0,5,4,WAS,LAL,15,away,lost ball,steal,,turnover,,T. Black,M. Morris
+9,1,10:08.0,5,4,WAS,LAL,12,home,lost ball,steal,,turnover,,B. Beal,D. Russell
+10,1,10:02.0,5,4,WAS,LAL,6,away,bad pass,steal,,turnover,,D. Russell,M. Gortat
 11,1,9:56.0,5,4,WAS,LAL,6,home,JS,,24,miss3,0,M. Morris,
 12,1,9:55.0,5,4,WAS,LAL,1,away,DefReb,,,DefReb,,T. Mozgov,
 13,1,9:46.0,5,4,WAS,LAL,9,away,JS,,25,miss3,0,D. Russell,
@@ -29,7 +29,7 @@
 27,1,8:06.0,10,9,WAS,LAL,16,away,JS,,16,make2,2,N. Young,
 28,1,7:59.0,10,9,WAS,LAL,7,home,JS,,27,miss3,0,O. Porter,
 29,1,7:59.0,10,9,WAS,LAL,0,away,DefReb,,,DefReb,,T. Black,
-30,1,7:45.0,10,9,WAS,LAL,14,away,BadPass,steal,,turnover,,D. Russell,B. Beal
+30,1,7:45.0,10,9,WAS,LAL,14,away,bad pass,steal,,turnover,,D. Russell,B. Beal
 31,1,7:38.0,10,9,WAS,LAL,7,home,JS,,26,miss3,0,J. Wall,
 32,1,7:37.0,10,9,WAS,LAL,1,home,OffReb,,,OffReb,,J. Wall,
 33,1,7:33.0,10,9,WAS,LAL,4,home,LU,block,1,miss2,0,J. Wall,T. Mozgov
@@ -67,7 +67,7 @@
 65,1,3:55.0,22,20,WAS,LAL,21,away,Traveling,,,turnover,,T. Mozgov,
 66,1,3:55.0,22,20,WAS,LAL,0,away,Sub,,,,,I. Zubac,T. Mozgov
 67,1,3:46.0,24,20,WAS,LAL,9,home,LU,,2,make2,2,J. Wall,
-68,1,3:27.0,24,20,WAS,LAL,19,away,LostBall,steal,,turnover,,I. Zubac,B. Beal
+68,1,3:27.0,24,20,WAS,LAL,19,away,lost ball,steal,,turnover,,I. Zubac,B. Beal
 69,1,3:23.0,24,20,WAS,LAL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Russell,J. Wall
 70,1,3:23.0,24,20,WAS,LAL,0,home,Sub,,,,,T. Satoranský,B. Beal
 71,1,3:23.0,24,20,WAS,LAL,0,away,Sub,,,,,B. Ingram,L. Deng
@@ -109,7 +109,7 @@
 107,2,11:26.0,33,29,WAS,LAL,8,home,JS,,6,make2,2,K. Oubre,
 108,2,11:08.0,33,29,WAS,LAL,18,away,JS,,27,miss3,0,L. Williams,
 109,2,11:07.0,33,29,WAS,LAL,1,home,DefReb,,,DefReb,,J. Smith,
-110,2,11:04.0,33,29,WAS,LAL,3,home,LostBall,steal,,turnover,,J. Smith,L. Nance
+110,2,11:04.0,33,29,WAS,LAL,3,home,lost ball,steal,,turnover,,J. Smith,L. Nance
 111,2,11:01.0,33,29,WAS,LAL,3,away,JS,,21,miss2,0,L. Nance,
 112,2,11:00.0,33,29,WAS,LAL,1,home,DefReb,,,DefReb,,M. Morris,
 113,2,10:43.0,33,29,WAS,LAL,17,home,JS,,19,miss2,0,T. Burke,
@@ -122,7 +122,7 @@
 120,2,10:13.0,33,29,WAS,LAL,1,away,OffReb,,,OffReb,,L. Nance,
 121,2,10:11.0,33,29,WAS,LAL,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Burke,L. Nance
 122,2,10:11.0,33,29,WAS,LAL,0,away,Sub,,,,,J. Randle,I. Zubac
-123,2,9:57.0,33,29,WAS,LAL,14,away,BadPass,steal,,turnover,,L. Williams,M. Morris
+123,2,9:57.0,33,29,WAS,LAL,14,away,bad pass,steal,,turnover,,L. Williams,M. Morris
 124,2,9:51.0,33,29,WAS,LAL,6,home,JS,block,6,miss2,0,J. Smith,L. Williams
 125,2,9:46.0,33,29,WAS,LAL,5,away,DefReb,,,DefReb,,L. Nance,
 126,2,9:42.0,33,29,WAS,LAL,4,away,JS,,6,miss2,0,L. Williams,
@@ -134,7 +134,7 @@
 132,2,8:38.0,37,31,WAS,LAL,10,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,L. Williams,T. Burke
 133,2,8:38.0,37,31,WAS,LAL,0,away,OffensiveFoul,,,turnover,,L. Williams,
 134,2,8:38.0,37,31,WAS,LAL,0,away,Timeout,,,,,,
-135,2,8:29.0,37,31,WAS,LAL,9,home,BadPass,steal,,turnover,,M. Morris,L. Nance
+135,2,8:29.0,37,31,WAS,LAL,9,home,bad pass,steal,,turnover,,M. Morris,L. Nance
 136,2,8:26.0,37,31,WAS,LAL,3,away,DiscontinueDribbleTurnover,,,turnover,,L. Nance,
 137,2,8:14.0,39,31,WAS,LAL,12,home,LU,assist,1,make2,2,J. Smith,T. Burke
 138,2,8:03.0,39,31,WAS,LAL,11,away,OffensiveFoul,,,turnover,,J. Randle,
@@ -176,14 +176,14 @@
 174,2,5:06.0,47,35,WAS,LAL,20,away,JS,,13,miss2,0,J. Randle,
 175,2,5:05.0,47,35,WAS,LAL,1,home,DefReb,,,DefReb,,O. Porter,
 176,2,4:54.0,49,35,WAS,LAL,11,home,DK,assist,0,make2,2,M. Gortat,J. Wall
-177,2,4:41.0,49,35,WAS,LAL,13,away,LostBall,steal,,turnover,,D. Russell,O. Porter
+177,2,4:41.0,49,35,WAS,LAL,13,away,lost ball,steal,,turnover,,D. Russell,O. Porter
 178,2,4:36.0,51,35,WAS,LAL,5,home,DK,assist,0,make2,2,B. Beal,J. Wall
 179,2,4:36.0,51,35,WAS,LAL,0,away,Timeout,,,,,,
 180,2,4:36.0,51,35,WAS,LAL,0,away,Sub,,,,,T. Black,J. Randle
 181,2,4:22.0,51,35,WAS,LAL,14,away,JS,,25,miss3,0,N. Young,
 182,2,4:21.0,51,35,WAS,LAL,1,home,DefReb,,,DefReb,,O. Porter,
 183,2,3:59.0,51,35,WAS,LAL,22,home,OutOfBounds,,,turnover,,J. Wall,
-184,2,3:50.0,51,35,WAS,LAL,9,away,BadPass,steal,,turnover,,D. Russell,J. Wall
+184,2,3:50.0,51,35,WAS,LAL,9,away,bad pass,steal,,turnover,,D. Russell,J. Wall
 185,2,3:42.0,51,35,WAS,LAL,8,home,JS,,26,miss3,0,J. Wall,
 186,2,3:41.0,51,35,WAS,LAL,1,away,DefReb,,,DefReb,,D. Russell,
 187,2,3:35.0,51,35,WAS,LAL,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Mozgov,M. Gortat
@@ -222,7 +222,7 @@
 220,2,0:34.0,56,44,WAS,LAL,6,away,JS,,27,miss3,0,D. Russell,
 221,2,0:33.0,56,44,WAS,LAL,1,home,DefReb,,,DefReb,,M. Gortat,
 222,2,0:27.0,58,44,WAS,LAL,6,home,LU,,1,make2,2,J. Wall,
-223,2,0:09.0,58,44,WAS,LAL,18,away,BadPass,steal,,turnover,,D. Russell,O. Porter
+223,2,0:09.0,58,44,WAS,LAL,18,away,bad pass,steal,,turnover,,D. Russell,O. Porter
 224,2,0:08.0,58,44,WAS,LAL,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Russell,J. Wall
 225,2,0:01.0,58,44,WAS,LAL,7,home,JS,,23,miss3,0,M. Morris,
 226,2,0:00.0,58,44,WAS,LAL,1,home,OffReb,,,OffReb,,Team,
@@ -238,7 +238,7 @@
 236,3,10:52.0,60,46,WAS,LAL,12,away,JS,,9,miss2,0,T. Mozgov,
 237,3,10:51.0,60,46,WAS,LAL,1,home,DefReb,,,DefReb,,M. Morris,
 238,3,10:44.0,62,46,WAS,LAL,7,home,HS,assist,13,make2,2,M. Gortat,O. Porter
-239,3,10:32.0,62,46,WAS,LAL,12,away,BadPass,steal,,turnover,,D. Russell,M. Morris
+239,3,10:32.0,62,46,WAS,LAL,12,away,bad pass,steal,,turnover,,D. Russell,M. Morris
 240,3,10:24.0,62,46,WAS,LAL,8,home,JS,,27,miss3,0,B. Beal,
 241,3,10:24.0,62,46,WAS,LAL,0,home,OffReb,,,OffReb,,Team,
 242,3,10:24.0,62,46,WAS,LAL,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Black,M. Gortat
@@ -296,7 +296,7 @@
 294,3,5:21.0,71,63,WAS,LAL,0,away,Sub,,,,,J. Clarkson,N. Young
 295,3,5:21.0,71,63,WAS,LAL,0,away,Sub,,,,,I. Zubac,T. Mozgov
 296,3,5:21.0,72,63,WAS,LAL,0,home,FreeThrow,,,make1,1,J. Wall,
-297,3,5:10.0,72,63,WAS,LAL,11,away,LostBall,steal,,turnover,,D. Russell,J. Wall
+297,3,5:10.0,72,63,WAS,LAL,11,away,lost ball,steal,,turnover,,D. Russell,J. Wall
 298,3,5:05.0,74,63,WAS,LAL,5,home,DK,assist,0,make2,2,B. Beal,J. Wall
 299,3,4:47.0,74,66,WAS,LAL,18,away,JS,,28,make3,3,D. Russell,
 300,3,4:35.0,76,66,WAS,LAL,12,home,LU,assist,0,make2,2,M. Gortat,J. Wall
@@ -335,7 +335,7 @@
 333,3,1:11.0,86,77,WAS,LAL,1,away,DK,,0,make2,2,I. Zubac,
 334,3,1:00.0,88,77,WAS,LAL,11,home,LU,,3,make2,2,J. Wall,
 335,3,0:56.0,88,79,WAS,LAL,4,away,LU,,1,make2,2,J. Clarkson,
-336,3,0:40.0,88,79,WAS,LAL,16,home,LostBall,steal,,turnover,,J. Wall,B. Ingram
+336,3,0:40.0,88,79,WAS,LAL,16,home,lost ball,steal,,turnover,,J. Wall,B. Ingram
 337,3,0:34.0,88,79,WAS,LAL,6,away,JS,,29,miss3,0,L. Williams,
 338,3,0:33.0,88,79,WAS,LAL,1,home,DefReb,,,DefReb,,J. Smith,
 339,3,0:10.0,90,79,WAS,LAL,23,home,JS,assist,19,make2,2,T. Burke,J. Wall
@@ -359,7 +359,7 @@
 357,4,10:14.0,91,85,WAS,LAL,2,away,DefReb,,,DefReb,,L. Williams,
 358,4,10:11.0,91,85,WAS,LAL,3,away,JS,,27,miss3,0,N. Young,
 359,4,10:08.0,91,85,WAS,LAL,3,home,DefReb,,,DefReb,,T. Satoranský,
-360,4,10:02.0,91,85,WAS,LAL,6,home,LostBall,steal,,turnover,,T. Satoranský,L. Nance
+360,4,10:02.0,91,85,WAS,LAL,6,home,lost ball,steal,,turnover,,T. Satoranský,L. Nance
 361,4,9:58.0,91,87,WAS,LAL,4,away,DK,assist,0,make2,2,L. Nance,L. Williams
 362,4,9:58.0,91,87,WAS,LAL,0,home,Timeout,,,,,,
 363,4,9:58.0,91,87,WAS,LAL,0,home,Sub,,,,,J. Wall,T. Burke
@@ -436,8 +436,8 @@
 434,4,2:08.0,108,103,WAS,LAL,1,away,DefReb,,,DefReb,,T. Black,
 435,4,1:49.0,108,103,WAS,LAL,19,home,DefGoaltending,,,DefGoaltending,,M. Morris,
 436,4,1:49.0,108,105,WAS,LAL,0,away,LU,,2,make2,2,J. Clarkson,
-437,4,1:34.0,108,105,WAS,LAL,15,home,BadPass,steal,,turnover,,J. Wall,D. Russell
-438,4,1:18.0,108,105,WAS,LAL,16,away,LostBall,steal,,turnover,,T. Black,J. Wall
+437,4,1:34.0,108,105,WAS,LAL,15,home,bad pass,steal,,turnover,,J. Wall,D. Russell
+438,4,1:18.0,108,105,WAS,LAL,16,away,lost ball,steal,,turnover,,T. Black,J. Wall
 439,4,1:06.0,110,105,WAS,LAL,12,home,JS,,19,make2,2,J. Wall,
 440,4,1:02.0,110,105,WAS,LAL,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,T. Black
 441,4,1:02.0,110,105,WAS,LAL,0,away,Timeout,,,,,,

@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:49.0,0,0,IND,LAC,11,away,BadPass,steal,,turnover,,C. Paul,J. Teague
+0,1,11:49.0,0,0,IND,LAC,11,away,bad pass,steal,,turnover,,C. Paul,J. Teague
 1,1,11:44.0,2,0,IND,LAC,5,home,DK,assist,0,make2,2,G. Robinson,J. Teague
 2,1,11:28.0,2,0,IND,LAC,16,away,JS,,19,miss2,0,J. Redick,
 3,1,11:27.0,2,0,IND,LAC,1,home,DefReb,,,DefReb,,M. Turner,
@@ -13,7 +13,7 @@
 11,1,10:30.0,4,1,IND,LAC,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,L. Mbah a Moute
 12,1,10:30.0,4,2,IND,LAC,0,away,FreeThrow,,,make1,1,L. Mbah a Moute,
 13,1,10:30.0,4,3,IND,LAC,0,away,FreeThrow,,,make1,1,L. Mbah a Moute,
-14,1,10:24.0,4,3,IND,LAC,6,home,BadPass,steal,,turnover,,J. Teague,C. Paul
+14,1,10:24.0,4,3,IND,LAC,6,home,bad pass,steal,,turnover,,J. Teague,C. Paul
 15,1,10:21.0,4,5,IND,LAC,3,away,DK,,0,make2,2,L. Mbah a Moute,
 16,1,10:10.0,6,5,IND,LAC,11,home,LU,assist,1,make2,2,G. Robinson,M. Turner
 17,1,10:03.0,6,5,IND,LAC,7,away,BadPass,,,turnover,,B. Griffin,
@@ -22,7 +22,7 @@
 20,1,9:35.0,8,5,IND,LAC,0,home,DefReb,,,DefReb,,M. Ellis,
 21,1,9:27.0,8,5,IND,LAC,8,home,LU,block,2,miss2,0,M. Turner,C. Paul
 22,1,9:25.0,8,5,IND,LAC,2,away,DefReb,,,DefReb,,C. Paul,
-23,1,9:23.0,8,5,IND,LAC,2,away,BadPass,steal,,turnover,,C. Paul,J. Teague
+23,1,9:23.0,8,5,IND,LAC,2,away,bad pass,steal,,turnover,,C. Paul,J. Teague
 24,1,9:17.0,10,5,IND,LAC,6,home,JS,assist,5,make2,2,G. Robinson,J. Teague
 25,1,9:02.0,10,5,IND,LAC,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Young,J. Redick
 26,1,9:02.0,10,6,IND,LAC,0,away,FreeThrow,,,make1,1,J. Redick,
@@ -67,7 +67,7 @@
 65,1,5:04.0,16,14,IND,LAC,5,away,BadPass,,,turnover,,C. Paul,
 66,1,4:40.0,16,14,IND,LAC,24,home,JS,,24,miss3,0,M. Ellis,
 67,1,4:39.0,16,14,IND,LAC,1,away,DefReb,,,DefReb,,J. Redick,
-68,1,4:17.0,16,14,IND,LAC,22,away,LostBall,steal,,turnover,,L. Mbah a Moute,R. Stuckey
+68,1,4:17.0,16,14,IND,LAC,22,away,lost ball,steal,,turnover,,L. Mbah a Moute,R. Stuckey
 69,1,4:09.0,16,14,IND,LAC,8,home,JS,,24,miss3,0,J. Teague,
 70,1,4:08.0,16,14,IND,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
 71,1,4:00.0,16,14,IND,LAC,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,L. Mbah a Moute
@@ -100,14 +100,14 @@
 98,1,1:47.0,18,20,IND,LAC,0,away,Sub,,,,,M. Speights,C. Paul
 99,1,1:47.0,18,20,IND,LAC,0,home,Sub,,,,,A. Brooks,J. Teague
 100,1,1:25.0,20,20,IND,LAC,22,home,JS,assist,12,make2,2,A. Brooks,L. Allen
-101,1,1:11.0,20,20,IND,LAC,14,away,BadPass,steal,,turnover,,M. Speights,L. Allen
+101,1,1:11.0,20,20,IND,LAC,14,away,bad pass,steal,,turnover,,M. Speights,L. Allen
 102,1,1:06.0,20,20,IND,LAC,5,home,LU,,1,miss2,0,M. Ellis,
 103,1,1:06.0,20,20,IND,LAC,0,away,DefReb,,,DefReb,,A. Rivers,
 104,1,1:01.0,20,20,IND,LAC,5,away,OutOfBounds,,,turnover,,A. Rivers,
 105,1,1:01.0,20,20,IND,LAC,0,home,Sub,,,,,G. Robinson,M. Ellis
 106,1,0:50.0,20,20,IND,LAC,11,home,LU,,2,miss2,0,R. Stuckey,
 107,1,0:49.0,20,20,IND,LAC,1,away,DefReb,,,DefReb,,M. Speights,
-108,1,0:34.0,20,20,IND,LAC,15,away,LostBall,steal,,turnover,,B. Griffin,A. Brooks
+108,1,0:34.0,20,20,IND,LAC,15,away,lost ball,steal,,turnover,,B. Griffin,A. Brooks
 109,1,0:31.0,20,20,IND,LAC,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Felton,R. Stuckey
 110,1,0:31.0,21,20,IND,LAC,0,home,FreeThrow,,,make1,1,R. Stuckey,
 111,1,0:31.0,21,20,IND,LAC,0,home,FreeThrow,,,make1,0,R. Stuckey,
@@ -139,7 +139,7 @@
 137,2,9:13.0,28,22,IND,LAC,1,away,OffReb,,,OffReb,,M. Speights,
 138,2,9:11.0,28,22,IND,LAC,2,away,LU,,1,miss2,0,M. Speights,
 139,2,9:09.0,28,22,IND,LAC,2,home,DefReb,,,DefReb,,Team,
-140,2,8:57.0,28,22,IND,LAC,12,home,BadPass,steal,,turnover,,R. Stuckey,A. Rivers
+140,2,8:57.0,28,22,IND,LAC,12,home,bad pass,steal,,turnover,,R. Stuckey,A. Rivers
 141,2,8:53.0,28,22,IND,LAC,4,away,LU,block,1,miss2,0,A. Rivers,M. Turner
 142,2,8:52.0,28,22,IND,LAC,1,home,DefReb,,,DefReb,,T. Young,
 143,2,8:48.0,28,22,IND,LAC,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Johnson,T. Young
@@ -154,7 +154,7 @@
 152,2,7:35.0,30,27,IND,LAC,0,away,DefReb,,,DefReb,,M. Speights,
 153,2,7:22.0,30,27,IND,LAC,13,away,JS,,20,miss2,0,J. Crawford,
 154,2,7:21.0,30,27,IND,LAC,1,home,DefReb,,,DefReb,,R. Stuckey,
-155,2,7:16.0,30,27,IND,LAC,5,home,LostBall,steal,,turnover,,G. Robinson,R. Felton
+155,2,7:16.0,30,27,IND,LAC,5,home,lost ball,steal,,turnover,,G. Robinson,R. Felton
 156,2,7:10.0,30,27,IND,LAC,6,away,JS,,8,miss2,0,R. Felton,
 157,2,7:10.0,30,27,IND,LAC,0,home,DefReb,,,DefReb,,M. Turner,
 158,2,6:54.0,30,27,IND,LAC,16,home,JS,,19,miss2,0,G. Robinson,
@@ -174,7 +174,7 @@
 172,2,5:50.0,33,27,IND,LAC,0,home,Sub,,,,,M. Ellis,R. Stuckey
 173,2,5:50.0,33,27,IND,LAC,0,home,Sub,,,,,J. Teague,A. Brooks
 174,2,5:37.0,33,30,IND,LAC,13,away,JS,assist,24,make3,3,J. Crawford,C. Paul
-175,2,5:15.0,33,30,IND,LAC,22,home,LostBall,steal,,turnover,,T. Young,D. Jordan
+175,2,5:15.0,33,30,IND,LAC,22,home,lost ball,steal,,turnover,,T. Young,D. Jordan
 176,2,5:06.0,33,30,IND,LAC,9,away,JS,,24,miss3,0,J. Redick,
 177,2,5:05.0,33,30,IND,LAC,1,home,DefReb,,,DefReb,,G. Robinson,
 178,2,4:54.0,33,30,IND,LAC,11,home,JS,,27,miss3,0,T. Young,
@@ -205,7 +205,7 @@
 203,2,1:00.0,45,38,IND,LAC,0,home,FreeThrow,,,make1,1,G. Robinson,
 204,2,1:00.0,45,38,IND,LAC,0,home,Sub,,,,,A. Jefferson,M. Turner
 205,2,1:00.0,46,38,IND,LAC,0,home,FreeThrow,,,make1,1,G. Robinson,
-206,2,0:52.0,46,38,IND,LAC,8,away,BadPass,steal,,turnover,,J. Redick,T. Young
+206,2,0:52.0,46,38,IND,LAC,8,away,bad pass,steal,,turnover,,J. Redick,T. Young
 207,2,0:43.0,48,38,IND,LAC,9,home,LU,assist,1,make2,2,A. Jefferson,M. Ellis
 208,2,0:34.0,48,40,IND,LAC,9,away,JS,,9,make2,2,C. Paul,
 209,2,0:23.0,50,40,IND,LAC,11,home,JS,assist,18,make2,2,A. Jefferson,J. Teague
@@ -220,7 +220,7 @@
 218,3,11:09.0,52,42,IND,LAC,22,home,LU,,1,make2,2,J. Teague,
 219,3,10:52.0,52,42,IND,LAC,17,away,JS,,18,miss2,0,C. Paul,
 220,3,10:52.0,52,42,IND,LAC,0,home,DefReb,,,DefReb,,G. Robinson,
-221,3,10:38.0,52,42,IND,LAC,14,home,LostBall,steal,,turnover,,M. Ellis,L. Mbah a Moute
+221,3,10:38.0,52,42,IND,LAC,14,home,lost ball,steal,,turnover,,M. Ellis,L. Mbah a Moute
 222,3,10:33.0,52,42,IND,LAC,5,away,LU,block,1,miss2,0,J. Redick,J. Teague
 223,3,10:33.0,52,42,IND,LAC,0,away,OffReb,,,OffReb,,Team,
 224,3,10:25.0,52,42,IND,LAC,8,away,JS,,27,miss3,0,J. Redick,
@@ -229,7 +229,7 @@
 227,3,9:47.0,55,42,IND,LAC,23,away,JS,,23,miss3,0,L. Mbah a Moute,
 228,3,9:47.0,55,42,IND,LAC,0,home,DefReb,,,DefReb,,M. Turner,
 229,3,9:33.0,57,42,IND,LAC,14,home,JS,assist,8,make2,2,M. Turner,J. Teague
-230,3,9:23.0,57,42,IND,LAC,10,away,LostBall,steal,,turnover,,J. Redick,M. Ellis
+230,3,9:23.0,57,42,IND,LAC,10,away,lost ball,steal,,turnover,,J. Redick,M. Ellis
 231,3,9:21.0,57,42,IND,LAC,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Jordan,J. Teague
 232,3,9:12.0,57,42,IND,LAC,9,home,JS,,21,miss2,0,M. Turner,
 233,3,9:12.0,57,42,IND,LAC,0,away,DefReb,,,DefReb,,D. Jordan,
@@ -244,7 +244,7 @@
 242,3,7:48.0,59,44,IND,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
 243,3,7:38.0,59,44,IND,LAC,10,away,JS,,18,miss2,0,B. Griffin,
 244,3,7:34.0,59,44,IND,LAC,4,home,DefReb,,,DefReb,,R. Stuckey,
-245,3,7:30.0,59,44,IND,LAC,4,home,LostBall,steal,,turnover,,R. Stuckey,C. Paul
+245,3,7:30.0,59,44,IND,LAC,4,home,lost ball,steal,,turnover,,R. Stuckey,C. Paul
 246,3,7:17.0,59,44,IND,LAC,13,away,JS,,26,miss3,0,C. Paul,
 247,3,7:16.0,59,44,IND,LAC,1,away,OffReb,,,OffReb,,B. Griffin,
 248,3,7:03.0,59,44,IND,LAC,13,away,JS,,23,miss3,0,J. Crawford,
@@ -337,12 +337,12 @@
 335,4,9:44.0,81,62,IND,LAC,1,home,OffReb,,,OffReb,,A. Brooks,
 336,4,9:39.0,81,62,IND,LAC,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Felton,R. Stuckey
 337,4,9:39.0,81,62,IND,LAC,0,home,Sub,,,,,M. Turner,A. Jefferson
-338,4,9:27.0,81,62,IND,LAC,12,home,BadPass,steal,,turnover,,R. Stuckey,A. Rivers
+338,4,9:27.0,81,62,IND,LAC,12,home,bad pass,steal,,turnover,,R. Stuckey,A. Rivers
 339,4,9:22.0,81,62,IND,LAC,5,away,LU,block,4,miss2,0,M. Speights,M. Ellis
 340,4,9:22.0,81,62,IND,LAC,0,away,OffReb,,,OffReb,,Team,
 341,4,9:19.0,81,62,IND,LAC,3,away,JS,,17,miss2,0,W. Johnson,
 342,4,9:18.0,81,62,IND,LAC,1,home,DefReb,,,DefReb,,M. Ellis,
-343,4,9:04.0,81,62,IND,LAC,14,home,BadPass,steal,,turnover,,A. Brooks,M. Speights
+343,4,9:04.0,81,62,IND,LAC,14,home,bad pass,steal,,turnover,,A. Brooks,M. Speights
 344,4,8:58.0,81,62,IND,LAC,6,away,BadPass,,,turnover,,W. Johnson,
 345,4,8:58.0,81,62,IND,LAC,0,away,Timeout,,,,,,
 346,4,8:58.0,81,62,IND,LAC,0,away,Sub,,,,,B. Griffin,W. Johnson
@@ -426,5 +426,5 @@
 424,4,0:56.0,91,70,IND,LAC,18,home,LU,assist,1,make2,2,G. Robinson,A. Brooks
 425,4,0:38.0,91,70,IND,LAC,18,away,JS,,28,miss3,0,R. Felton,
 426,4,0:37.0,91,70,IND,LAC,1,home,DefReb,,,DefReb,,G. Robinson,
-427,4,0:21.0,91,70,IND,LAC,16,home,BadPass,steal,,turnover,,J. Young,A. Rivers
-428,4,0:18.0,91,70,IND,LAC,3,away,BadPass,steal,,turnover,,A. Rivers,A. Brooks
+427,4,0:21.0,91,70,IND,LAC,16,home,bad pass,steal,,turnover,,J. Young,A. Rivers
+428,4,0:18.0,91,70,IND,LAC,3,away,bad pass,steal,,turnover,,A. Rivers,A. Brooks

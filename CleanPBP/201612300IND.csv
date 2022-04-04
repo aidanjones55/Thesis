@@ -1,11 +1,11 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:43.0,0,0,IND,CHI,17,away,BadPass,steal,,turnover,,J. Butler,J. Teague
+0,1,11:43.0,0,0,IND,CHI,17,away,bad pass,steal,,turnover,,J. Butler,J. Teague
 1,1,11:38.0,2,0,IND,CHI,5,home,LU,assist,4,make2,2,T. Young,J. Teague
 2,1,11:17.0,2,0,IND,CHI,21,away,JS,,17,miss2,0,T. Gibson,
 3,1,11:16.0,2,0,IND,CHI,1,home,DefReb,,,DefReb,,G. Robinson,
 4,1,11:13.0,2,0,IND,CHI,3,away,KickBallViolation,,,KickBallViolation,,J. Butler,
 5,1,11:02.0,5,0,IND,CHI,11,home,JS,assist,25,make3,3,P. George,J. Teague
-6,1,10:46.0,5,0,IND,CHI,16,away,BadPass,steal,,turnover,,D. Wade,P. George
+6,1,10:46.0,5,0,IND,CHI,16,away,bad pass,steal,,turnover,,D. Wade,P. George
 7,1,10:41.0,5,0,IND,CHI,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Lopez,G. Robinson
 8,1,10:41.0,6,0,IND,CHI,0,home,FreeThrow,,,make1,1,G. Robinson,
 9,1,10:41.0,7,0,IND,CHI,0,home,FreeThrow,,,make1,1,G. Robinson,
@@ -25,7 +25,7 @@
 23,1,8:36.0,15,6,IND,CHI,19,away,LU,,3,make2,2,D. Wade,
 24,1,8:23.0,18,6,IND,CHI,13,home,JS,assist,26,make3,3,P. George,J. Teague
 25,1,8:01.0,18,8,IND,CHI,22,away,LU,assist,3,make2,2,T. Gibson,R. Rondo
-26,1,7:43.0,18,8,IND,CHI,18,home,BadPass,steal,,turnover,,J. Teague,T. Gibson
+26,1,7:43.0,18,8,IND,CHI,18,home,bad pass,steal,,turnover,,J. Teague,T. Gibson
 27,1,7:30.0,18,8,IND,CHI,13,away,JS,,26,miss3,0,R. Rondo,
 28,1,7:29.0,18,8,IND,CHI,1,home,DefReb,,,DefReb,,J. Teague,
 29,1,7:25.0,18,8,IND,CHI,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rondo,J. Teague
@@ -68,7 +68,7 @@
 66,1,3:37.0,24,12,IND,CHI,0,away,Sub,,,,,C. Felício,T. Gibson
 67,1,3:21.0,24,12,IND,CHI,16,home,JS,block,5,miss2,0,J. Teague,N. Mirotić
 68,1,3:21.0,24,12,IND,CHI,0,away,DefReb,,,DefReb,,M. Carter-Williams,
-69,1,3:14.0,24,12,IND,CHI,7,away,BadPass,steal,,turnover,,M. Carter-Williams,P. George
+69,1,3:14.0,24,12,IND,CHI,7,away,bad pass,steal,,turnover,,M. Carter-Williams,P. George
 70,1,3:09.0,26,12,IND,CHI,5,home,LU,,4,make2,2,P. George,
 71,1,2:50.0,26,12,IND,CHI,19,away,JS,,27,miss3,0,M. Carter-Williams,
 72,1,2:50.0,26,12,IND,CHI,0,home,DefReb,,,DefReb,,Team,
@@ -81,7 +81,7 @@
 79,1,1:58.0,26,12,IND,CHI,11,away,JS,,18,miss2,0,J. Butler,
 80,1,1:57.0,26,12,IND,CHI,1,away,OffReb,,,OffReb,,C. Felício,
 81,1,1:53.0,26,15,IND,CHI,4,away,JS,assist,26,make3,3,D. McDermott,C. Felício
-82,1,1:38.0,26,15,IND,CHI,15,home,LostBall,steal,,turnover,,P. George,J. Butler
+82,1,1:38.0,26,15,IND,CHI,15,home,lost ball,steal,,turnover,,P. George,J. Butler
 83,1,1:33.0,26,17,IND,CHI,5,away,DK,assist,3,make2,2,J. Butler,C. Felício
 84,1,1:19.0,26,17,IND,CHI,14,home,Sub,,,,,A. Jefferson,M. Turner
 85,1,1:19.0,26,17,IND,CHI,0,home,Sub,,,,,M. Ellis,P. George
@@ -197,7 +197,7 @@
 195,2,2:40.0,54,46,IND,CHI,14,home,LU,assist,2,make2,2,T. Young,J. Teague
 196,2,2:24.0,54,48,IND,CHI,16,away,JS,,11,make2,2,J. Butler,
 197,2,2:07.0,56,48,IND,CHI,17,home,JS,assist,17,make2,2,P. George,J. Teague
-198,2,1:50.0,56,48,IND,CHI,17,away,LostBall,steal,,turnover,,R. Lopez,G. Robinson
+198,2,1:50.0,56,48,IND,CHI,17,away,lost ball,steal,,turnover,,R. Lopez,G. Robinson
 199,2,1:44.0,58,48,IND,CHI,6,home,LU,assist,2,make2,2,J. Teague,G. Robinson
 200,2,1:28.0,58,48,IND,CHI,16,away,JS,,19,miss2,0,T. Gibson,
 201,2,1:27.0,58,48,IND,CHI,1,home,DefReb,,,DefReb,,G. Robinson,
@@ -235,7 +235,7 @@
 233,3,10:18.0,64,54,IND,CHI,19,away,JS,assist,19,make2,2,M. Carter-Williams,R. Lopez
 234,3,10:02.0,64,54,IND,CHI,16,home,JS,,5,miss2,0,J. Teague,
 235,3,10:02.0,64,54,IND,CHI,0,home,OffReb,,,OffReb,,G. Robinson,
-236,3,10:00.0,64,54,IND,CHI,2,home,LostBall,steal,,turnover,,G. Robinson,D. Wade
+236,3,10:00.0,64,54,IND,CHI,2,home,lost ball,steal,,turnover,,G. Robinson,D. Wade
 237,3,9:57.0,64,54,IND,CHI,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Young,J. Butler
 238,3,9:47.0,64,56,IND,CHI,10,away,JS,assist,4,make2,2,T. Gibson,J. Butler
 239,3,9:28.0,66,56,IND,CHI,19,home,JS,assist,16,make2,2,M. Turner,P. George
@@ -275,7 +275,7 @@
 273,3,5:23.0,75,64,IND,CHI,11,home,HS,,6,make2,2,K. Séraphin,
 274,3,5:05.0,75,64,IND,CHI,18,away,JS,block,4,miss2,0,D. Wade,M. Turner
 275,3,5:03.0,75,64,IND,CHI,2,away,OffReb,,,OffReb,,R. Lopez,
-276,3,5:01.0,75,64,IND,CHI,2,away,LostBall,steal,,turnover,,R. Lopez,J. Teague
+276,3,5:01.0,75,64,IND,CHI,2,away,lost ball,steal,,turnover,,R. Lopez,J. Teague
 277,3,4:57.0,75,64,IND,CHI,4,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Butler,G. Robinson
 278,3,4:57.0,76,64,IND,CHI,0,home,FreeThrow,,,make1,1,G. Robinson,
 279,3,4:57.0,76,64,IND,CHI,0,home,FreeThrow,,,make1,0,G. Robinson,
@@ -284,7 +284,7 @@
 282,3,4:45.0,76,64,IND,CHI,10,away,JS,,18,miss2,0,J. Butler,
 283,3,4:44.0,76,64,IND,CHI,1,away,OffReb,,,OffReb,,T. Gibson,
 284,3,4:43.0,76,66,IND,CHI,1,away,DK,,2,make2,2,T. Gibson,
-285,3,4:26.0,76,66,IND,CHI,17,home,BadPass,steal,,turnover,,J. Teague,D. McDermott
+285,3,4:26.0,76,66,IND,CHI,17,home,bad pass,steal,,turnover,,J. Teague,D. McDermott
 286,3,4:19.0,76,66,IND,CHI,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,J. Butler
 287,3,4:19.0,76,67,IND,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
 288,3,4:19.0,76,67,IND,CHI,0,home,Sub,,,,,C. Miles,G. Robinson
@@ -357,7 +357,7 @@
 355,4,9:03.0,90,85,IND,CHI,11,away,JS,assist,27,make3,3,N. Mirotić,D. Wade
 356,4,9:02.0,90,85,IND,CHI,1,home,Timeout,,,,,,
 357,4,8:41.0,93,85,IND,CHI,21,home,JS,,25,make3,3,A. Brooks,
-358,4,8:28.0,93,85,IND,CHI,13,away,BadPass,steal,,turnover,,D. Wade,M. Ellis
+358,4,8:28.0,93,85,IND,CHI,13,away,bad pass,steal,,turnover,,D. Wade,M. Ellis
 359,4,8:18.0,93,85,IND,CHI,10,home,JS,,26,miss3,0,A. Brooks,
 360,4,8:17.0,93,85,IND,CHI,1,home,OffReb,,,OffReb,,A. Jefferson,
 361,4,8:17.0,93,85,IND,CHI,0,home,LU,,2,miss2,0,A. Jefferson,
@@ -367,15 +367,15 @@
 365,4,7:48.0,93,88,IND,CHI,1,away,DefReb,,,DefReb,,N. Mirotić,
 366,4,7:36.0,93,88,IND,CHI,12,away,JS,,16,miss2,0,D. Wade,
 367,4,7:35.0,93,88,IND,CHI,1,away,OffReb,,,OffReb,,J. Grant,
-368,4,7:31.0,93,88,IND,CHI,4,away,BadPass,steal,,turnover,,N. Mirotić,M. Ellis
+368,4,7:31.0,93,88,IND,CHI,4,away,bad pass,steal,,turnover,,N. Mirotić,M. Ellis
 369,4,7:28.0,93,88,IND,CHI,3,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Grant,M. Ellis
 370,4,7:28.0,93,88,IND,CHI,0,home,Sub,,,,,P. George,M. Ellis
 371,4,7:28.0,93,88,IND,CHI,0,home,Sub,,,,,J. Teague,A. Brooks
 372,4,7:28.0,93,88,IND,CHI,0,away,Sub,,,,,J. Butler,D. Wade
-373,4,7:19.0,93,88,IND,CHI,9,home,LostBall,steal,,turnover,,A. Jefferson,J. Butler
+373,4,7:19.0,93,88,IND,CHI,9,home,lost ball,steal,,turnover,,A. Jefferson,J. Butler
 374,4,7:13.0,93,90,IND,CHI,6,away,LU,assist,2,make2,2,J. Butler,J. Grant
 375,4,7:13.0,93,90,IND,CHI,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
-376,4,7:02.0,93,90,IND,CHI,11,home,LostBall,steal,,turnover,,T. Young,J. Grant
+376,4,7:02.0,93,90,IND,CHI,11,home,lost ball,steal,,turnover,,T. Young,J. Grant
 377,4,6:52.0,93,90,IND,CHI,10,away,JS,,28,miss3,0,J. Grant,
 378,4,6:51.0,93,90,IND,CHI,1,home,DefReb,,,DefReb,,T. Young,
 379,4,6:45.0,93,90,IND,CHI,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,J. Teague
@@ -388,7 +388,7 @@
 386,4,6:34.0,95,90,IND,CHI,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. George,J. Butler
 387,4,6:34.0,95,91,IND,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
 388,4,6:34.0,95,92,IND,CHI,0,away,FreeThrow,,,make1,1,J. Butler,
-389,4,6:18.0,95,92,IND,CHI,16,home,BadPass,steal,,turnover,,P. George,C. Felício
+389,4,6:18.0,95,92,IND,CHI,16,home,bad pass,steal,,turnover,,P. George,C. Felício
 390,4,6:05.0,95,92,IND,CHI,13,away,LU,,3,miss2,0,M. Carter-Williams,
 391,4,6:04.0,95,92,IND,CHI,1,away,OffReb,,,OffReb,,M. Carter-Williams,
 392,4,6:03.0,95,92,IND,CHI,1,away,LU,block,1,miss2,0,M. Carter-Williams,M. Turner
@@ -436,7 +436,7 @@
 434,4,1:43.0,105,101,IND,CHI,9,away,JS,,10,make2,2,D. Wade,
 435,4,1:21.0,105,101,IND,CHI,22,home,JS,,26,miss3,0,J. Teague,
 436,4,1:19.0,105,101,IND,CHI,2,home,OffReb,,,OffReb,,G. Robinson,
-437,4,1:18.0,105,101,IND,CHI,1,home,LostBall,steal,,turnover,,G. Robinson,D. Wade
+437,4,1:18.0,105,101,IND,CHI,1,home,lost ball,steal,,turnover,,G. Robinson,D. Wade
 438,4,1:07.0,105,101,IND,CHI,11,away,JS,,13,miss2,0,D. Wade,
 439,4,1:07.0,105,101,IND,CHI,0,home,DefReb,,,DefReb,,T. Young,
 440,4,1:07.0,105,101,IND,CHI,0,home,ClearPathFoul,,,ClearPathFoul,,M. Carter-Williams,

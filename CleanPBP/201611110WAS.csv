@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:38.0,0,0,WAS,CLE,22,away,JS,,13,miss2,0,K. Irving,
 1,1,11:37.0,0,0,WAS,CLE,1,home,DefReb,,,DefReb,,M. Gortat,
-2,1,11:29.0,0,0,WAS,CLE,8,home,LostBall,steal,,turnover,,J. Wall,T. Thompson
+2,1,11:29.0,0,0,WAS,CLE,8,home,lost ball,steal,,turnover,,J. Wall,T. Thompson
 3,1,11:29.0,0,0,WAS,CLE,0,away,Traveling,,,turnover,,T. Thompson,
 4,1,11:16.0,2,0,WAS,CLE,13,home,JS,,14,make2,2,J. Wall,
 5,1,11:03.0,2,0,WAS,CLE,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,O. Porter,L. James
@@ -13,7 +13,7 @@
 11,1,10:35.0,2,2,WAS,CLE,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Thornton,K. Irving
 12,1,10:35.0,2,2,WAS,CLE,0,away,FreeThrow,,,make1,0,K. Irving,
 13,1,10:35.0,2,2,WAS,CLE,0,home,DefReb,,,DefReb,,M. Gortat,
-14,1,10:17.0,2,2,WAS,CLE,18,home,BadPass,steal,,turnover,,M. Gortat,L. James
+14,1,10:17.0,2,2,WAS,CLE,18,home,bad pass,steal,,turnover,,M. Gortat,L. James
 15,1,10:14.0,2,4,WAS,CLE,3,away,DK,,0,make2,2,L. James,
 16,1,9:54.0,2,4,WAS,CLE,20,home,JS,,17,miss2,0,M. Morris,
 17,1,9:53.0,2,4,WAS,CLE,1,home,OffReb,,,OffReb,,M. Gortat,
@@ -31,7 +31,7 @@
 29,1,7:50.0,11,10,WAS,CLE,19,away,LU,assist,1,make2,2,K. Love,L. James
 30,1,7:36.0,11,10,WAS,CLE,14,home,JS,,19,miss2,0,M. Morris,
 31,1,7:35.0,11,10,WAS,CLE,1,away,DefReb,,,DefReb,,L. James,
-32,1,7:29.0,11,10,WAS,CLE,6,away,BadPass,steal,,turnover,,K. Irving,J. Wall
+32,1,7:29.0,11,10,WAS,CLE,6,away,bad pass,steal,,turnover,,K. Irving,J. Wall
 33,1,7:23.0,11,10,WAS,CLE,6,home,LU,,1,miss2,0,J. Wall,
 34,1,7:22.0,11,10,WAS,CLE,1,away,DefReb,,,DefReb,,K. Love,
 35,1,7:18.0,11,10,WAS,CLE,4,away,LU,,1,miss2,0,K. Irving,
@@ -43,7 +43,7 @@
 41,1,6:43.0,13,10,WAS,CLE,1,home,DefReb,,,DefReb,,M. Morris,
 42,1,6:38.0,15,10,WAS,CLE,5,home,JS,,16,make2,2,J. Wall,
 43,1,6:37.0,15,10,WAS,CLE,1,away,Timeout,,,,,,
-44,1,6:27.0,15,10,WAS,CLE,10,away,BadPass,steal,,turnover,,L. James,M. Thornton
+44,1,6:27.0,15,10,WAS,CLE,10,away,bad pass,steal,,turnover,,L. James,M. Thornton
 45,1,6:23.0,17,10,WAS,CLE,4,home,DK,assist,0,make2,2,J. Wall,O. Porter
 46,1,5:59.0,17,13,WAS,CLE,24,away,JS,assist,26,make3,3,J. Smith,L. James
 47,1,5:41.0,19,13,WAS,CLE,18,home,JS,,17,make2,2,J. Wall,
@@ -53,7 +53,7 @@
 51,1,5:23.0,19,16,WAS,CLE,10,away,JS,assist,29,make3,3,K. Irving,R. Jefferson
 52,1,5:09.0,19,16,WAS,CLE,14,home,JS,,24,miss3,0,M. Thornton,
 53,1,5:07.0,19,16,WAS,CLE,2,away,DefReb,,,DefReb,,L. James,
-54,1,5:02.0,19,16,WAS,CLE,5,away,LostBall,steal,,turnover,,L. James,J. Wall
+54,1,5:02.0,19,16,WAS,CLE,5,away,lost ball,steal,,turnover,,L. James,J. Wall
 55,1,5:01.0,19,16,WAS,CLE,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Smith,J. Wall
 56,1,4:51.0,21,16,WAS,CLE,10,home,JS,,15,make2,2,J. Wall,
 57,1,4:41.0,21,16,WAS,CLE,10,away,JS,,28,miss3,0,K. Irving,
@@ -100,7 +100,7 @@
 98,2,11:10.0,33,28,WAS,CLE,17,home,JS,,16,miss2,0,T. Burke,
 99,2,11:09.0,33,28,WAS,CLE,1,away,DefReb,,,DefReb,,L. James,
 100,2,11:05.0,33,28,WAS,CLE,4,away,BadPass,,,turnover,,I. Shumpert,
-101,2,10:52.0,33,28,WAS,CLE,13,home,BadPass,steal,,turnover,,M. Morris,I. Shumpert
+101,2,10:52.0,33,28,WAS,CLE,13,home,bad pass,steal,,turnover,,M. Morris,I. Shumpert
 102,2,10:43.0,33,28,WAS,CLE,9,away,JS,,17,miss2,0,K. Felder,
 103,2,10:42.0,33,28,WAS,CLE,1,home,DefReb,,,DefReb,,K. Oubre,
 104,2,10:35.0,33,28,WAS,CLE,7,home,JS,,6,miss2,0,T. Satoranský,
@@ -121,7 +121,7 @@
 119,2,8:52.0,38,31,WAS,CLE,1,away,OffReb,,,OffReb,,I. Shumpert,
 120,2,8:47.0,38,31,WAS,CLE,5,away,3sec,,,turnover,,L. James,
 121,2,8:47.0,38,31,WAS,CLE,0,away,Timeout,,,,,,
-122,2,8:39.0,38,31,WAS,CLE,8,home,BadPass,steal,,turnover,,T. Satoranský,I. Shumpert
+122,2,8:39.0,38,31,WAS,CLE,8,home,bad pass,steal,,turnover,,T. Satoranský,I. Shumpert
 123,2,8:35.0,38,33,WAS,CLE,4,away,DK,assist,0,make2,2,I. Shumpert,C. Frye
 124,2,8:16.0,38,33,WAS,CLE,19,home,JS,,6,miss2,0,T. Satoranský,
 125,2,8:15.0,38,33,WAS,CLE,1,away,DefReb,,,DefReb,,K. Felder,
@@ -221,8 +221,8 @@
 219,3,10:43.0,58,58,WAS,CLE,14,home,JS,,8,miss2,0,M. Gortat,
 220,3,10:42.0,58,58,WAS,CLE,1,away,DefReb,,,DefReb,,J. Smith,
 221,3,10:33.0,58,61,WAS,CLE,9,away,JS,,28,make3,3,K. Irving,
-222,3,10:23.0,58,61,WAS,CLE,10,home,BadPass,steal,,turnover,,O. Porter,J. Smith
-223,3,10:18.0,58,61,WAS,CLE,5,away,LostBall,steal,,turnover,,L. James,M. Morris
+222,3,10:23.0,58,61,WAS,CLE,10,home,bad pass,steal,,turnover,,O. Porter,J. Smith
+223,3,10:18.0,58,61,WAS,CLE,5,away,lost ball,steal,,turnover,,L. James,M. Morris
 224,3,10:15.0,58,61,WAS,CLE,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,M. Morris
 225,3,10:15.0,59,61,WAS,CLE,0,home,FreeThrow,,,make1,1,M. Morris,
 226,3,10:15.0,60,61,WAS,CLE,0,home,FreeThrow,,,make1,1,M. Morris,
@@ -280,7 +280,7 @@
 278,3,5:16.0,68,72,WAS,CLE,3,away,Timeout,,,,,,
 279,3,5:16.0,68,72,WAS,CLE,0,home,Sub,,,,,T. Satoranský,M. Thornton
 280,3,5:16.0,68,72,WAS,CLE,0,away,Sub,,,,,C. Frye,T. Thompson
-281,3,5:01.0,68,72,WAS,CLE,15,away,BadPass,steal,,turnover,,C. Frye,M. Gortat
+281,3,5:01.0,68,72,WAS,CLE,15,away,bad pass,steal,,turnover,,C. Frye,M. Gortat
 282,3,4:55.0,68,72,WAS,CLE,6,home,LU,,2,miss2,0,T. Satoranský,
 283,3,4:54.0,68,72,WAS,CLE,1,away,DefReb,,,DefReb,,L. James,
 284,3,4:49.0,68,74,WAS,CLE,5,away,LU,,1,make2,2,L. James,
@@ -289,10 +289,10 @@
 287,3,4:38.0,68,75,WAS,CLE,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Love,M. Morris
 288,3,4:38.0,69,75,WAS,CLE,0,home,FreeThrow,,,make1,1,M. Morris,
 289,3,4:38.0,70,75,WAS,CLE,0,home,FreeThrow,,,make1,1,M. Morris,
-290,3,4:24.0,70,75,WAS,CLE,14,away,LostBall,steal,,turnover,,K. Love,T. Satoranský
+290,3,4:24.0,70,75,WAS,CLE,14,away,lost ball,steal,,turnover,,K. Love,T. Satoranský
 291,3,4:14.0,70,75,WAS,CLE,10,home,JS,,18,miss2,0,M. Morris,
 292,3,4:13.0,70,75,WAS,CLE,1,home,OffReb,,,OffReb,,Team,
-293,3,4:11.0,70,75,WAS,CLE,2,home,BadPass,steal,,turnover,,O. Porter,K. Love
+293,3,4:11.0,70,75,WAS,CLE,2,home,bad pass,steal,,turnover,,O. Porter,K. Love
 294,3,4:10.0,70,75,WAS,CLE,1,home,Sub,,,,,K. Oubre,M. Morris
 295,3,3:47.0,70,75,WAS,CLE,23,away,JS,,26,miss3,0,C. Frye,
 296,3,3:46.0,70,75,WAS,CLE,1,away,OffReb,,,OffReb,,K. Love,
@@ -383,7 +383,7 @@
 381,4,7:28.0,85,92,WAS,CLE,0,away,FreeThrow,,,make1,1,L. James,
 382,4,7:12.0,85,92,WAS,CLE,16,home,JS,,13,miss2,0,S. Mac,
 383,4,7:11.0,85,92,WAS,CLE,1,away,DefReb,,,DefReb,,I. Shumpert,
-384,4,7:02.0,85,92,WAS,CLE,9,away,BadPass,steal,,turnover,,K. Irving,K. Oubre
+384,4,7:02.0,85,92,WAS,CLE,9,away,bad pass,steal,,turnover,,K. Irving,K. Oubre
 385,4,6:55.0,87,92,WAS,CLE,7,home,DK,assist,0,make2,2,K. Oubre,J. Wall
 386,4,6:38.0,87,95,WAS,CLE,17,away,JS,,26,make3,3,K. Irving,
 387,4,6:13.0,87,95,WAS,CLE,25,home,JS,,8,miss2,0,T. Burke,
@@ -392,13 +392,13 @@
 390,4,5:59.0,87,95,WAS,CLE,1,home,DefReb,,,DefReb,,M. Morris,
 391,4,5:59.0,87,95,WAS,CLE,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Love,M. Morris
 392,4,5:59.0,87,95,WAS,CLE,0,away,Timeout,,,,,,
-393,4,5:46.0,87,95,WAS,CLE,13,home,LostBall,steal,,turnover,,J. Wall,I. Shumpert
+393,4,5:46.0,87,95,WAS,CLE,13,home,lost ball,steal,,turnover,,J. Wall,I. Shumpert
 394,4,5:36.0,87,97,WAS,CLE,10,away,LU,,2,make2,2,L. James,
 395,4,5:15.0,87,97,WAS,CLE,21,home,JS,,12,miss2,0,M. Morris,
 396,4,5:14.0,87,97,WAS,CLE,1,away,DefReb,,,DefReb,,L. James,
 397,4,5:08.0,87,97,WAS,CLE,6,away,BadPass,,,turnover,,L. James,
 398,4,5:08.0,87,97,WAS,CLE,0,home,Sub,,,,,O. Porter,K. Oubre
-399,4,4:57.0,87,97,WAS,CLE,11,home,BadPass,steal,,turnover,,J. Wall,I. Shumpert
+399,4,4:57.0,87,97,WAS,CLE,11,home,bad pass,steal,,turnover,,J. Wall,I. Shumpert
 400,4,4:55.0,87,97,WAS,CLE,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Wall,K. Love
 401,4,4:55.0,87,97,WAS,CLE,0,away,FreeThrow,,,make1,0,K. Love,
 402,4,4:55.0,87,97,WAS,CLE,0,away,OffReb,,,OffReb,,Team,
@@ -443,7 +443,7 @@
 441,4,1:04.0,94,103,WAS,CLE,19,away,JS,,9,miss2,0,L. James,
 442,4,1:04.0,94,103,WAS,CLE,0,away,OffReb,,,OffReb,,I. Shumpert,
 443,4,1:04.0,94,105,WAS,CLE,0,away,DK,,0,make2,2,I. Shumpert,
-444,4,0:57.0,94,105,WAS,CLE,7,home,LostBall,steal,,turnover,,J. Wall,L. James
+444,4,0:57.0,94,105,WAS,CLE,7,home,lost ball,steal,,turnover,,J. Wall,L. James
 445,4,0:50.0,94,105,WAS,CLE,7,away,Timeout,,,,,,
 446,4,0:50.0,94,105,WAS,CLE,0,away,Sub,,,,,J. Jones,L. James
 447,4,0:50.0,94,105,WAS,CLE,0,away,Sub,,,,,R. Jefferson,K. Love

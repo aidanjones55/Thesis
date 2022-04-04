@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:45.0,0,0,IND,WAS,15,away,JS,,12,miss2,0,M. Gortat,
 1,1,11:44.0,0,0,IND,WAS,1,home,DefReb,,,DefReb,,J. Teague,
-2,1,11:24.0,0,0,IND,WAS,20,home,BadPass,steal,,turnover,,M. Turner,M. Morris
+2,1,11:24.0,0,0,IND,WAS,20,home,bad pass,steal,,turnover,,M. Turner,M. Morris
 3,1,11:18.0,0,3,IND,WAS,6,away,JS,assist,23,make3,3,O. Porter,J. Wall
 4,1,11:02.0,0,3,IND,WAS,16,home,JS,,20,miss2,0,M. Turner,
 5,1,11:01.0,0,3,IND,WAS,1,home,OffReb,,,OffReb,,K. Séraphin,
@@ -26,7 +26,7 @@
 24,1,8:10.0,2,9,IND,WAS,2,home,DefReb,,,DefReb,,M. Turner,
 25,1,8:06.0,4,9,IND,WAS,4,home,JS,,7,make2,2,G. Robinson,
 26,1,7:54.0,4,11,IND,WAS,12,away,DK,assist,0,make2,2,M. Gortat,J. Wall
-27,1,7:44.0,4,11,IND,WAS,10,home,BadPass,steal,,turnover,,J. Teague,M. Morris
+27,1,7:44.0,4,11,IND,WAS,10,home,bad pass,steal,,turnover,,J. Teague,M. Morris
 28,1,7:38.0,4,14,IND,WAS,6,away,JS,assist,24,make3,3,O. Porter,J. Wall
 29,1,7:38.0,4,14,IND,WAS,0,home,Timeout,,,,,,
 30,1,7:24.0,4,14,IND,WAS,14,home,JS,,28,miss3,0,P. George,
@@ -78,7 +78,7 @@
 76,1,2:01.0,21,29,IND,WAS,12,away,JS,,9,make2,2,J. Wall,
 77,1,1:46.0,21,29,IND,WAS,15,home,JS,,19,miss2,0,P. George,
 78,1,1:46.0,21,29,IND,WAS,0,away,DefReb,,,DefReb,,T. Burke,
-79,1,1:38.0,21,29,IND,WAS,8,away,LostBall,steal,,turnover,,J. Wall,C. Miles
+79,1,1:38.0,21,29,IND,WAS,8,away,lost ball,steal,,turnover,,J. Wall,C. Miles
 80,1,1:34.0,21,29,IND,WAS,4,home,LU,block,3,miss2,0,C. Miles,O. Porter
 81,1,1:34.0,21,29,IND,WAS,0,home,OffReb,,,OffReb,,Team,
 82,1,1:34.0,21,29,IND,WAS,0,home,Sub,,,,,G. Robinson,P. George
@@ -101,7 +101,7 @@
 99,2,11:00.0,29,37,IND,WAS,24,away,JS,assist,23,make3,3,M. Morris,T. Burke
 100,2,10:38.0,29,37,IND,WAS,22,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,I. Mahinmi,R. Stuckey
 101,2,10:24.0,31,37,IND,WAS,14,home,JS,,17,make2,2,M. Ellis,
-102,2,10:09.0,31,37,IND,WAS,15,away,BadPass,steal,,turnover,,T. Burke,C. Miles
+102,2,10:09.0,31,37,IND,WAS,15,away,bad pass,steal,,turnover,,T. Burke,C. Miles
 103,2,10:08.0,31,37,IND,WAS,1,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Morris,C. Miles
 104,2,9:57.0,33,37,IND,WAS,11,home,LU,assist,2,make2,2,A. Jefferson,M. Ellis
 105,2,9:40.0,33,37,IND,WAS,17,away,DK,,0,miss2,0,K. Oubre,
@@ -134,7 +134,7 @@
 132,2,7:35.0,35,41,IND,WAS,0,home,Sub,,,,,M. Turner,A. Jefferson
 133,2,7:24.0,35,41,IND,WAS,11,away,JS,,10,miss2,0,M. Gortat,
 134,2,7:23.0,35,41,IND,WAS,1,home,DefReb,,,DefReb,,K. Séraphin,
-135,2,7:22.0,35,41,IND,WAS,1,home,BadPass,steal,,turnover,,K. Séraphin,B. Beal
+135,2,7:22.0,35,41,IND,WAS,1,home,bad pass,steal,,turnover,,K. Séraphin,B. Beal
 136,2,7:20.0,35,43,IND,WAS,2,away,DK,,0,make2,2,B. Beal,
 137,2,6:57.0,38,43,IND,WAS,23,home,JS,assist,28,make3,3,R. Stuckey,M. Ellis
 138,2,6:36.0,38,43,IND,WAS,21,away,LU,,3,miss2,0,J. Wall,
@@ -219,7 +219,7 @@
 217,3,10:59.0,54,63,IND,WAS,0,away,FreeThrow,,,make1,1,M. Morris,
 218,3,10:59.0,54,64,IND,WAS,0,away,FreeThrow,,,make1,1,M. Morris,
 219,3,10:43.0,56,64,IND,WAS,16,home,JS,,9,make2,2,P. George,
-220,3,10:24.0,56,64,IND,WAS,19,away,BadPass,steal,,turnover,,B. Beal,M. Turner
+220,3,10:24.0,56,64,IND,WAS,19,away,bad pass,steal,,turnover,,B. Beal,M. Turner
 221,3,10:14.0,58,64,IND,WAS,10,home,LU,assist,1,make2,2,M. Turner,K. Séraphin
 222,3,10:14.0,58,64,IND,WAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Gortat,M. Turner
 223,3,10:14.0,59,64,IND,WAS,0,home,FreeThrow,,,make1,1,M. Turner,
@@ -258,7 +258,7 @@
 256,3,5:59.0,67,75,IND,WAS,0,home,FreeThrow,,,make1,1,G. Robinson,
 257,3,5:39.0,67,75,IND,WAS,20,away,JS,,26,miss3,0,M. Morris,
 258,3,5:37.0,67,75,IND,WAS,2,home,DefReb,,,DefReb,,P. George,
-259,3,5:23.0,67,75,IND,WAS,14,home,BadPass,steal,,turnover,,M. Turner,M. Gortat
+259,3,5:23.0,67,75,IND,WAS,14,home,bad pass,steal,,turnover,,M. Turner,M. Gortat
 260,3,5:12.0,67,77,IND,WAS,11,away,LU,,2,make2,2,J. Wall,
 261,3,4:57.0,67,77,IND,WAS,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,P. George
 262,3,4:57.0,68,77,IND,WAS,0,home,FreeThrow,,,make1,1,P. George,
@@ -278,7 +278,7 @@
 276,3,3:26.0,69,82,IND,WAS,18,away,JS,,7,make2,2,J. Wall,
 277,3,3:07.0,69,82,IND,WAS,19,home,JS,,12,miss2,0,C. Miles,
 278,3,3:06.0,69,82,IND,WAS,1,away,DefReb,,,DefReb,,J. Smith,
-279,3,3:02.0,69,82,IND,WAS,4,away,LostBall,steal,,turnover,,J. Wall,P. George
+279,3,3:02.0,69,82,IND,WAS,4,away,lost ball,steal,,turnover,,J. Wall,P. George
 280,3,3:00.0,69,82,IND,WAS,2,home,ClearPathFoul,,,ClearPathFoul,,M. Gortat,
 281,3,3:00.0,70,82,IND,WAS,0,home,FreeThrow,,,make1,1,P. George makes clear path free throw 1 of 2,
 282,3,3:00.0,71,82,IND,WAS,0,home,FreeThrow,,,make1,1,P. George makes clear path free throw 2 of 2,
@@ -287,11 +287,11 @@
 285,3,2:47.0,71,82,IND,WAS,2,away,DefReb,,,DefReb,,J. Smith,
 286,3,2:27.0,71,82,IND,WAS,20,away,JS,,20,miss2,0,J. Wall,
 287,3,2:27.0,71,82,IND,WAS,0,home,DefReb,,,DefReb,,M. Turner,
-288,3,2:15.0,71,82,IND,WAS,12,home,LostBall,steal,,turnover,,P. George,J. Wall
+288,3,2:15.0,71,82,IND,WAS,12,home,lost ball,steal,,turnover,,P. George,J. Wall
 289,3,2:15.0,71,82,IND,WAS,0,away,Timeout,,,,,,
 290,3,2:15.0,71,82,IND,WAS,0,away,Sub,,,,,I. Mahinmi,M. Gortat
 291,3,2:15.0,71,82,IND,WAS,0,away,Sub,,,,,T. Burke,B. Beal
-292,3,2:03.0,71,82,IND,WAS,12,away,BadPass,steal,,turnover,,J. Wall,M. Turner
+292,3,2:03.0,71,82,IND,WAS,12,away,bad pass,steal,,turnover,,J. Wall,M. Turner
 293,3,1:55.0,73,82,IND,WAS,8,home,JS,assist,5,make2,2,M. Turner,M. Ellis
 294,3,1:31.0,73,84,IND,WAS,24,away,JS,,19,make2,2,J. Wall,
 295,3,1:14.0,73,84,IND,WAS,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Mahinmi,M. Turner
@@ -356,7 +356,7 @@
 354,4,6:13.0,90,99,IND,WAS,0,away,DefReb,,,DefReb,,Team,
 355,4,5:54.0,90,102,IND,WAS,19,away,JS,assist,24,make3,3,O. Porter,B. Beal
 356,4,5:34.0,92,102,IND,WAS,20,home,LU,,1,make2,2,R. Stuckey,
-357,4,5:18.0,92,102,IND,WAS,16,away,BadPass,steal,,turnover,,J. Wall,P. George
+357,4,5:18.0,92,102,IND,WAS,16,away,bad pass,steal,,turnover,,J. Wall,P. George
 358,4,5:13.0,94,102,IND,WAS,5,home,DK,,0,make2,2,P. George,
 359,4,4:43.0,94,102,IND,WAS,30,away,JS,,20,miss2,0,J. Wall,
 360,4,4:41.0,94,102,IND,WAS,2,home,DefReb,,,DefReb,,P. George,
@@ -367,7 +367,7 @@
 365,4,3:58.0,94,104,IND,WAS,22,away,JS,,18,make2,2,J. Wall,
 366,4,3:38.0,94,104,IND,WAS,20,home,JS,,23,miss3,0,R. Stuckey,
 367,4,3:37.0,94,104,IND,WAS,1,away,DefReb,,,DefReb,,M. Morris,
-368,4,3:21.0,94,104,IND,WAS,16,away,BadPass,steal,,turnover,,M. Morris,R. Stuckey
+368,4,3:21.0,94,104,IND,WAS,16,away,bad pass,steal,,turnover,,M. Morris,R. Stuckey
 369,4,3:17.0,94,104,IND,WAS,4,home,LU,block,1,miss2,0,R. Stuckey,J. Wall
 370,4,3:17.0,94,104,IND,WAS,0,away,DefReb,,,DefReb,,M. Morris,
 371,4,2:58.0,94,104,IND,WAS,19,home,Timeout,,,,,,

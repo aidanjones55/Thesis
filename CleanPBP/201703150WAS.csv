@@ -6,7 +6,7 @@
 4,1,10:38.0,5,2,WAS,DAL,0,home,DefReb,,,DefReb,,M. Morris,
 5,1,10:18.0,5,2,WAS,DAL,20,home,JS,,25,miss3,0,M. Morris,
 6,1,10:18.0,5,2,WAS,DAL,0,away,DefReb,,,DefReb,,D. Finney-Smith,
-7,1,10:09.0,5,2,WAS,DAL,9,away,LostBall,steal,,turnover,,D. Nowitzki,M. Morris
+7,1,10:09.0,5,2,WAS,DAL,9,away,lost ball,steal,,turnover,,D. Nowitzki,M. Morris
 8,1,10:04.0,5,2,WAS,DAL,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,Y. Ferrell,M. Morris
 9,1,10:04.0,6,2,WAS,DAL,0,home,FreeThrow,,,make1,1,B. Beal,
 10,1,10:04.0,6,2,WAS,DAL,0,away,Timeout,,,,,,
@@ -214,7 +214,7 @@
 212,3,10:10.0,59,55,WAS,DAL,1,home,DefReb,,,DefReb,,O. Porter,
 213,3,10:03.0,59,55,WAS,DAL,7,home,JS,block,5,miss2,0,M. Gortat,D. Nowitzki
 214,3,10:02.0,59,55,WAS,DAL,1,away,DefReb,,,DefReb,,D. Finney-Smith,
-215,3,9:48.0,59,55,WAS,DAL,14,away,LostBall,steal,,turnover,,D. Nowitzki,J. Wall
+215,3,9:48.0,59,55,WAS,DAL,14,away,lost ball,steal,,turnover,,D. Nowitzki,J. Wall
 216,3,9:44.0,61,55,WAS,DAL,4,home,DK,,0,make2,2,J. Wall,
 217,3,9:23.0,61,57,WAS,DAL,21,away,LU,assist,1,make2,2,H. Barnes,Y. Ferrell
 218,3,8:58.0,63,57,WAS,DAL,25,home,JS,assist,23,make2,2,O. Porter,J. Wall
@@ -302,7 +302,7 @@
 300,4,11:33.0,80,75,WAS,DAL,0,away,FreeThrow,,,make1,1,S. Curry,
 301,4,11:12.0,82,75,WAS,DAL,21,home,JS,,11,make2,2,T. Satoranský,
 302,4,11:01.0,82,78,WAS,DAL,11,away,JS,,28,make3,3,S. Curry,
-303,4,10:44.0,82,78,WAS,DAL,17,home,BadPass,steal,,turnover,,B. Bogdanović,N. Brussino
+303,4,10:44.0,82,78,WAS,DAL,17,home,bad pass,steal,,turnover,,B. Bogdanović,N. Brussino
 304,4,10:32.0,82,81,WAS,DAL,12,away,JS,assist,27,make3,3,D. Nowitzki,Y. Ferrell
 305,4,10:30.0,82,81,WAS,DAL,2,home,Timeout,,,,,,
 306,4,10:30.0,82,81,WAS,DAL,0,home,Sub,,,,,B. Beal,T. Satoranský
@@ -323,9 +323,9 @@
 321,4,8:33.0,87,84,WAS,DAL,0,away,Sub,,,,,H. Barnes,N. Noel
 322,4,8:11.0,87,84,WAS,DAL,22,away,LU,,1,miss2,0,Y. Ferrell,
 323,4,8:10.0,87,84,WAS,DAL,1,home,DefReb,,,DefReb,,M. Morris,
-324,4,8:08.0,87,84,WAS,DAL,2,home,BadPass,steal,,turnover,,M. Morris,S. Curry
+324,4,8:08.0,87,84,WAS,DAL,2,home,bad pass,steal,,turnover,,M. Morris,S. Curry
 325,4,8:03.0,87,87,WAS,DAL,5,away,JS,,23,make3,3,S. Curry,
-326,4,7:37.0,87,87,WAS,DAL,26,home,BadPass,steal,,turnover,,B. Beal,S. Curry
+326,4,7:37.0,87,87,WAS,DAL,26,home,bad pass,steal,,turnover,,B. Beal,S. Curry
 327,4,7:37.0,87,87,WAS,DAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,S. Curry
 328,4,7:37.0,87,87,WAS,DAL,0,home,Sub,,,,,J. Wall,B. Jennings
 329,4,7:25.0,87,89,WAS,DAL,12,away,JS,assist,15,make2,2,D. Nowitzki,S. Curry
@@ -335,7 +335,7 @@
 333,4,6:58.0,87,89,WAS,DAL,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Mahinmi,D. Nowitzki
 334,4,6:46.0,87,89,WAS,DAL,12,away,JS,,28,miss3,0,D. Nowitzki,
 335,4,6:46.0,87,89,WAS,DAL,0,home,DefReb,,,DefReb,,B. Bogdanović,
-336,4,6:40.0,87,89,WAS,DAL,6,home,LostBall,steal,,turnover,,J. Wall,N. Brussino
+336,4,6:40.0,87,89,WAS,DAL,6,home,lost ball,steal,,turnover,,J. Wall,N. Brussino
 337,4,6:31.0,87,89,WAS,DAL,9,away,JS,,28,miss3,0,S. Curry,
 338,4,6:30.0,87,89,WAS,DAL,1,home,DefReb,,,DefReb,,I. Mahinmi,
 339,4,6:19.0,87,89,WAS,DAL,11,home,JS,,18,miss2,0,J. Wall,
@@ -359,11 +359,11 @@
 357,4,4:46.0,87,97,WAS,DAL,1,away,DK,,0,make2,2,N. Noel,
 358,4,4:46.0,87,97,WAS,DAL,0,home,Timeout,,,,,,
 359,4,4:46.0,87,97,WAS,DAL,0,home,Sub,,,,,B. Bogdanović,M. Gortat
-360,4,4:34.0,87,97,WAS,DAL,12,home,BadPass,steal,,turnover,,J. Wall,D. Harris
-361,4,4:13.0,87,97,WAS,DAL,21,away,LostBall,steal,,turnover,,H. Barnes,J. Wall
+360,4,4:34.0,87,97,WAS,DAL,12,home,bad pass,steal,,turnover,,J. Wall,D. Harris
+361,4,4:13.0,87,97,WAS,DAL,21,away,lost ball,steal,,turnover,,H. Barnes,J. Wall
 362,4,4:09.0,87,97,WAS,DAL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,Y. Ferrell,J. Wall
 363,4,4:01.0,90,97,WAS,DAL,8,home,JS,assist,28,make3,3,B. Bogdanović,B. Beal
-364,4,3:36.0,90,97,WAS,DAL,25,away,BadPass,steal,,turnover,,H. Barnes,J. Wall
+364,4,3:36.0,90,97,WAS,DAL,25,away,bad pass,steal,,turnover,,H. Barnes,J. Wall
 365,4,3:34.0,90,97,WAS,DAL,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,H. Barnes,J. Wall
 366,4,3:34.0,90,97,WAS,DAL,0,away,Sub,,,,,S. Curry,D. Harris
 367,4,3:34.0,90,97,WAS,DAL,0,away,Sub,,,,,D. Nowitzki,N. Noel

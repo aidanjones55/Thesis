@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:40.0,0,0,WAS,LAC,20,home,LostBall,steal,,turnover,,M. Gortat,L. Mbah a Moute
+0,1,11:40.0,0,0,WAS,LAC,20,home,lost ball,steal,,turnover,,M. Gortat,L. Mbah a Moute
 1,1,11:33.0,0,0,WAS,LAC,7,away,LU,block,1,miss2,0,D. Jordan,M. Gortat
 2,1,11:33.0,0,0,WAS,LAC,0,away,OffReb,,,OffReb,,Team,
 3,1,11:24.0,0,0,WAS,LAC,9,home,ChargeFoul,DrawnBy,,ChargeFoul,,D. Jordan,M. Gortat
@@ -37,7 +37,7 @@
 35,1,7:33.0,8,6,WAS,LAC,6,away,LU,,2,make2,2,B. Griffin,
 36,1,7:19.0,8,6,WAS,LAC,14,home,JS,,26,miss3,0,O. Porter,
 37,1,7:17.0,8,6,WAS,LAC,2,away,DefReb,,,DefReb,,D. Jordan,
-38,1,7:05.0,8,6,WAS,LAC,12,away,BadPass,steal,,turnover,,D. Jordan,J. Wall
+38,1,7:05.0,8,6,WAS,LAC,12,away,bad pass,steal,,turnover,,D. Jordan,J. Wall
 39,1,6:58.0,11,6,WAS,LAC,7,home,JS,assist,24,make3,3,B. Beal,J. Wall
 40,1,6:40.0,11,6,WAS,LAC,18,away,JS,,20,miss2,0,J. Redick,
 41,1,6:39.0,11,6,WAS,LAC,1,home,DefReb,,,DefReb,,M. Morris,
@@ -58,7 +58,7 @@
 56,1,5:15.0,11,8,WAS,LAC,16,home,JS,,16,miss2,0,M. Gortat,
 57,1,5:13.0,11,8,WAS,LAC,2,home,OffReb,,,OffReb,,O. Porter,
 58,1,5:12.0,13,8,WAS,LAC,1,home,LU,,0,make2,2,O. Porter,
-59,1,4:53.0,13,8,WAS,LAC,19,away,BadPass,steal,,turnover,,L. Mbah a Moute,O. Porter
+59,1,4:53.0,13,8,WAS,LAC,19,away,bad pass,steal,,turnover,,L. Mbah a Moute,O. Porter
 60,1,4:50.0,13,8,WAS,LAC,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Mbah a Moute,O. Porter
 61,1,4:50.0,14,8,WAS,LAC,0,home,FreeThrow,,,make1,1,O. Porter,
 62,1,4:50.0,14,8,WAS,LAC,0,home,FreeThrow,,,make1,0,O. Porter,
@@ -66,7 +66,7 @@
 64,1,4:50.0,14,8,WAS,LAC,0,away,Sub,,,,,A. Rivers,L. Mbah a Moute
 65,1,4:50.0,14,8,WAS,LAC,0,away,Sub,,,,,J. Crawford,J. Redick
 66,1,4:38.0,14,8,WAS,LAC,12,away,DefReb,,,DefReb,,B. Griffin,
-67,1,4:35.0,14,8,WAS,LAC,3,away,BadPass,steal,,turnover,,J. Crawford,M. Gortat
+67,1,4:35.0,14,8,WAS,LAC,3,away,bad pass,steal,,turnover,,J. Crawford,M. Gortat
 68,1,4:29.0,14,8,WAS,LAC,6,home,JS,,26,miss3,0,B. Beal,
 69,1,4:28.0,14,8,WAS,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
 70,1,4:17.0,14,8,WAS,LAC,11,away,JS,,16,miss2,0,B. Griffin,
@@ -119,7 +119,7 @@
 117,1,0:01.0,28,27,WAS,LAC,0,home,JS,,20,make2,2,J. Wall,
 118,2,11:41.0,28,27,WAS,LAC,19,away,LU,,24,miss3,0,W. Johnson,
 119,2,11:40.0,28,27,WAS,LAC,1,away,OffReb,,,OffReb,,M. Speights,
-120,2,11:36.0,28,27,WAS,LAC,4,away,LostBall,steal,,turnover,,W. Johnson,A. Nicholson
+120,2,11:36.0,28,27,WAS,LAC,4,away,lost ball,steal,,turnover,,W. Johnson,A. Nicholson
 121,2,11:16.0,30,27,WAS,LAC,20,home,JS,assist,16,make2,2,M. Thornton,T. Satoranský
 122,2,10:59.0,30,27,WAS,LAC,17,away,JS,,25,miss3,0,M. Speights,
 123,2,10:59.0,30,27,WAS,LAC,0,home,DefReb,,,DefReb,,Team,
@@ -143,7 +143,7 @@
 141,2,8:35.0,33,33,WAS,LAC,0,away,Timeout,,,,,,
 142,2,8:35.0,33,33,WAS,LAC,0,home,Sub,,,,,B. Beal,D. Ochefu
 143,2,8:21.0,33,33,WAS,LAC,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Satoranský,A. Rivers
-144,2,8:14.0,33,33,WAS,LAC,7,away,LostBall,steal,,turnover,,J. Crawford,M. Morris
+144,2,8:14.0,33,33,WAS,LAC,7,away,lost ball,steal,,turnover,,J. Crawford,M. Morris
 145,2,8:00.0,33,33,WAS,LAC,14,home,JS,,17,miss2,0,M. Morris,
 146,2,7:59.0,33,33,WAS,LAC,1,home,OffReb,,,OffReb,,M. Thornton,
 147,2,7:56.0,35,33,WAS,LAC,3,home,LU,,1,make2,2,M. Thornton,
@@ -184,14 +184,14 @@
 182,2,4:32.0,45,44,WAS,LAC,0,home,Sub,,,,,O. Porter,T. Satoranský
 183,2,4:32.0,45,44,WAS,LAC,0,away,Sub,,,,,J. Crawford,A. Rivers
 184,2,4:32.0,47,44,WAS,LAC,0,home,FreeThrow,,,make1,1,B. Beal,
-185,2,4:22.0,47,44,WAS,LAC,10,away,BadPass,steal,,turnover,,J. Crawford,M. Morris
+185,2,4:22.0,47,44,WAS,LAC,10,away,bad pass,steal,,turnover,,J. Crawford,M. Morris
 186,2,4:14.0,49,44,WAS,LAC,8,home,DK,assist,0,make2,2,J. Wall,M. Morris
 187,2,4:02.0,49,44,WAS,LAC,12,away,LostBall,,,turnover,,C. Paul,
 188,2,3:55.0,49,44,WAS,LAC,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,M. Morris
 189,2,3:43.0,49,44,WAS,LAC,12,home,JS,,11,miss2,0,J. Wall,
 190,2,3:41.0,49,44,WAS,LAC,2,away,DefReb,,,DefReb,,B. Griffin,
 191,2,3:36.0,49,46,WAS,LAC,5,away,DK,assist,1,make2,2,D. Jordan,B. Griffin
-192,2,3:29.0,49,46,WAS,LAC,7,home,BadPass,steal,,turnover,,M. Morris,C. Paul
+192,2,3:29.0,49,46,WAS,LAC,7,home,bad pass,steal,,turnover,,M. Morris,C. Paul
 193,2,3:22.0,49,48,WAS,LAC,7,away,JS,,15,make2,2,C. Paul,
 194,2,3:05.0,49,48,WAS,LAC,17,home,LU,,1,miss2,0,J. Wall,
 195,2,3:04.0,49,48,WAS,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
@@ -272,7 +272,7 @@
 270,3,8:08.0,63,71,WAS,LAC,8,home,JS,assist,13,make2,2,B. Beal,O. Porter
 271,3,7:50.0,63,71,WAS,LAC,18,away,JS,block,26,miss3,0,J. Redick,J. Wall
 272,3,7:49.0,63,71,WAS,LAC,1,home,DefReb,,,DefReb,,M. Morris,
-273,3,7:46.0,63,71,WAS,LAC,3,home,BadPass,steal,,turnover,,M. Morris,C. Paul
+273,3,7:46.0,63,71,WAS,LAC,3,home,bad pass,steal,,turnover,,M. Morris,C. Paul
 274,3,7:42.0,63,71,WAS,LAC,4,away,JS,,26,miss3,0,J. Redick,
 275,3,7:41.0,63,71,WAS,LAC,1,home,DefReb,,,DefReb,,B. Beal,
 276,3,7:39.0,66,71,WAS,LAC,2,home,JS,assist,27,make3,3,B. Beal,J. Wall
@@ -324,7 +324,7 @@
 322,3,1:52.0,80,83,WAS,LAC,2,home,OffReb,,,OffReb,,J. Wall,
 323,3,1:46.0,80,83,WAS,LAC,6,home,JS,,18,miss2,0,J. Wall,
 324,3,1:45.0,80,83,WAS,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
-325,3,1:24.0,80,83,WAS,LAC,21,away,BadPass,steal,,turnover,,J. Crawford,B. Beal
+325,3,1:24.0,80,83,WAS,LAC,21,away,bad pass,steal,,turnover,,J. Crawford,B. Beal
 326,3,1:18.0,82,83,WAS,LAC,6,home,LU,assist,1,make2,2,J. Wall,B. Beal
 327,3,1:18.0,82,83,WAS,LAC,0,home,TechnicalFoul,,,TechnicalFoul,,J. Wall,
 328,3,1:18.0,82,84,WAS,LAC,0,away,FreeThrow,,,make1,1,J. Crawford makes technical free throw,
@@ -358,7 +358,7 @@
 356,4,9:56.0,91,91,WAS,LAC,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,O. Porter,M. Speights
 357,4,9:56.0,91,92,WAS,LAC,0,away,FreeThrow,,,make1,1,M. Speights,
 358,4,9:56.0,91,93,WAS,LAC,0,away,FreeThrow,,,make1,1,M. Speights,
-359,4,9:38.0,91,93,WAS,LAC,18,home,BadPass,steal,,turnover,,T. Burke,W. Johnson
+359,4,9:38.0,91,93,WAS,LAC,18,home,bad pass,steal,,turnover,,T. Burke,W. Johnson
 360,4,9:29.0,91,93,WAS,LAC,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Burke,M. Speights
 361,4,9:18.0,91,93,WAS,LAC,11,away,JS,,25,miss3,0,M. Speights,
 362,4,9:18.0,91,93,WAS,LAC,0,home,DefReb,,,DefReb,,M. Gortat,
@@ -369,7 +369,7 @@
 367,4,8:31.0,93,95,WAS,LAC,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Speights,M. Gortat
 368,4,8:31.0,93,95,WAS,LAC,0,away,Timeout,,,,,,
 369,4,8:31.0,93,95,WAS,LAC,0,away,Sub,,,,,B. Griffin,W. Johnson
-370,4,8:20.0,93,95,WAS,LAC,11,home,BadPass,steal,,turnover,,M. Thornton,A. Rivers
+370,4,8:20.0,93,95,WAS,LAC,11,home,bad pass,steal,,turnover,,M. Thornton,A. Rivers
 371,4,8:03.0,93,95,WAS,LAC,17,away,JS,,20,miss2,0,B. Griffin,
 372,4,8:00.0,93,95,WAS,LAC,3,home,DefReb,,,DefReb,,M. Thornton,
 373,4,7:47.0,95,95,WAS,LAC,13,home,JS,,13,make2,2,M. Gortat,
@@ -383,19 +383,19 @@
 381,4,7:16.0,95,97,WAS,LAC,0,away,Sub,,,,,D. Jordan,R. Felton
 382,4,7:00.0,95,99,WAS,LAC,16,away,JS,,21,make2,2,J. Crawford,
 383,4,6:48.0,95,99,WAS,LAC,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Rivers,M. Morris
-384,4,6:38.0,95,99,WAS,LAC,10,home,BadPass,steal,,turnover,,B. Beal,A. Rivers
+384,4,6:38.0,95,99,WAS,LAC,10,home,bad pass,steal,,turnover,,B. Beal,A. Rivers
 385,4,6:23.0,95,102,WAS,LAC,15,away,JS,assist,26,make3,3,A. Rivers,D. Jordan
 386,4,6:23.0,95,102,WAS,LAC,0,home,Timeout,,,,,,
 387,4,6:05.0,97,102,WAS,LAC,18,home,HS,,5,make2,2,M. Morris,
 388,4,5:45.0,97,102,WAS,LAC,20,away,JS,,3,miss2,0,B. Griffin,
 389,4,5:44.0,97,102,WAS,LAC,1,home,DefReb,,,DefReb,,M. Morris,
 390,4,5:35.0,99,102,WAS,LAC,9,home,JS,,20,make2,2,J. Wall,
-391,4,5:07.0,99,102,WAS,LAC,28,away,LostBall,steal,,turnover,,A. Rivers,M. Morris
+391,4,5:07.0,99,102,WAS,LAC,28,away,lost ball,steal,,turnover,,A. Rivers,M. Morris
 392,4,5:01.0,102,102,WAS,LAC,6,home,JS,assist,24,make3,3,B. Beal,J. Wall
 393,4,5:01.0,102,102,WAS,LAC,0,away,Timeout,,,,,,
 394,4,4:42.0,102,104,WAS,LAC,19,away,JS,,19,make2,2,C. Paul,
-395,4,4:23.0,102,104,WAS,LAC,19,home,BadPass,steal,,turnover,,J. Wall,B. Griffin
-396,4,4:10.0,102,104,WAS,LAC,13,away,BadPass,steal,,turnover,,C. Paul,O. Porter
+395,4,4:23.0,102,104,WAS,LAC,19,home,bad pass,steal,,turnover,,J. Wall,B. Griffin
+396,4,4:10.0,102,104,WAS,LAC,13,away,bad pass,steal,,turnover,,C. Paul,O. Porter
 397,4,4:07.0,102,104,WAS,LAC,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Rivers,J. Wall
 398,4,4:07.0,103,104,WAS,LAC,0,home,FreeThrow,,,make1,1,J. Wall,
 399,4,4:07.0,103,104,WAS,LAC,0,away,Sub,,,,,J. Redick,J. Crawford
@@ -410,7 +410,7 @@
 408,4,3:03.0,108,106,WAS,LAC,12,home,LU,assist,1,make2,2,M. Gortat,M. Morris
 409,4,3:03.0,108,106,WAS,LAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Rivers,M. Gortat
 410,4,3:03.0,109,106,WAS,LAC,0,home,FreeThrow,,,make1,1,M. Gortat,
-411,4,2:49.0,109,106,WAS,LAC,14,away,LostBall,steal,,turnover,,B. Griffin,O. Porter
+411,4,2:49.0,109,106,WAS,LAC,14,away,lost ball,steal,,turnover,,B. Griffin,O. Porter
 412,4,2:45.0,109,106,WAS,LAC,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,J. Wall
 413,4,2:45.0,109,106,WAS,LAC,0,home,FreeThrow,,,make1,0,J. Wall,
 414,4,2:45.0,109,106,WAS,LAC,0,home,OffReb,,,OffReb,,Team,

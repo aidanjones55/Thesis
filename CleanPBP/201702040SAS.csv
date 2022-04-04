@@ -14,7 +14,7 @@
 12,1,10:31.0,2,3,SAS,DEN,1,away,OffReb,,,OffReb,,K. Faried,
 13,1,10:31.0,2,5,SAS,DEN,0,away,LU,,0,make2,2,K. Faried,
 14,1,10:18.0,4,5,SAS,DEN,13,home,JS,,15,make2,2,T. Parker,
-15,1,10:06.0,4,5,SAS,DEN,12,away,LostBall,steal,,turnover,,N. Jokić,K. Leonard
+15,1,10:06.0,4,5,SAS,DEN,12,away,lost ball,steal,,turnover,,N. Jokić,K. Leonard
 16,1,10:04.0,4,5,SAS,DEN,2,home,BadPass,,,turnover,,D. Green,
 17,1,9:42.0,4,5,SAS,DEN,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,K. Faried
 18,1,9:42.0,4,5,SAS,DEN,0,away,FreeThrow,,,make1,0,K. Faried,
@@ -50,13 +50,13 @@
 48,1,6:24.0,11,14,SAS,DEN,0,home,FreeThrow,,,make1,1,K. Leonard,
 49,1,6:24.0,11,14,SAS,DEN,0,away,Sub,,,,,W. Barton,K. Faried
 50,1,6:24.0,12,14,SAS,DEN,0,home,FreeThrow,,,make1,1,K. Leonard,
-51,1,6:11.0,12,14,SAS,DEN,13,away,LostBall,steal,,turnover,,W. Chandler,D. Green
+51,1,6:11.0,12,14,SAS,DEN,13,away,lost ball,steal,,turnover,,W. Chandler,D. Green
 52,1,6:00.0,12,14,SAS,DEN,11,home,JS,,18,miss2,0,L. Aldridge,
 53,1,5:59.0,12,14,SAS,DEN,1,away,DefReb,,,DefReb,,W. Barton,
 54,1,5:49.0,12,14,SAS,DEN,10,away,JS,,25,miss3,0,W. Chandler,
 55,1,5:48.0,12,14,SAS,DEN,1,home,DefReb,,,DefReb,,L. Aldridge,
 56,1,5:35.0,14,14,SAS,DEN,13,home,LU,,1,make2,2,T. Parker,
-57,1,5:23.0,14,14,SAS,DEN,12,away,BadPass,steal,,turnover,,N. Jokić,T. Parker
+57,1,5:23.0,14,14,SAS,DEN,12,away,bad pass,steal,,turnover,,N. Jokić,T. Parker
 58,1,5:20.0,16,14,SAS,DEN,3,home,LU,,2,make2,2,T. Parker,
 59,1,5:20.0,16,14,SAS,DEN,0,away,Timeout,,,,,,
 60,1,5:05.0,16,14,SAS,DEN,15,away,JS,,17,miss2,0,N. Jokić,
@@ -87,8 +87,8 @@
 85,1,2:44.0,21,16,SAS,DEN,1,home,DefReb,,,DefReb,,K. Leonard,
 86,1,2:27.0,24,16,SAS,DEN,17,home,JS,assist,25,make3,3,M. Ginóbili,L. Aldridge
 87,1,2:11.0,24,19,SAS,DEN,16,away,JS,assist,26,make3,3,W. Chandler,J. Nelson
-88,1,1:46.0,24,19,SAS,DEN,25,home,BadPass,steal,,turnover,,M. Ginóbili,W. Chandler
-89,1,1:45.0,24,19,SAS,DEN,1,away,BadPass,steal,,turnover,,W. Chandler,M. Ginóbili
+88,1,1:46.0,24,19,SAS,DEN,25,home,bad pass,steal,,turnover,,M. Ginóbili,W. Chandler
+89,1,1:45.0,24,19,SAS,DEN,1,away,bad pass,steal,,turnover,,W. Chandler,M. Ginóbili
 90,1,1:37.0,26,19,SAS,DEN,8,home,DK,assist,0,make2,2,L. Aldridge,D. Lee
 91,1,1:26.0,26,21,SAS,DEN,11,away,LU,assist,2,make2,2,G. Harris,W. Barton
 92,1,1:13.0,26,21,SAS,DEN,13,home,JS,,7,miss2,0,D. Lee,
@@ -108,7 +108,7 @@
 106,1,0:22.0,30,24,SAS,DEN,0,home,DefReb,,,DefReb,,Team,
 107,1,0:22.0,30,24,SAS,DEN,0,home,Sub,,,,,D. Bertāns,D. Dedmon
 108,1,0:22.0,30,24,SAS,DEN,0,away,Sub,,,,,J. Hernangómez,W. Chandler
-109,1,0:04.0,30,24,SAS,DEN,18,home,BadPass,steal,,turnover,,M. Ginóbili,J. Hernangómez
+109,1,0:04.0,30,24,SAS,DEN,18,home,bad pass,steal,,turnover,,M. Ginóbili,J. Hernangómez
 110,1,0:01.0,30,27,SAS,DEN,3,away,JS,,27,make3,3,J. Murray,
 111,2,11:33.0,30,27,SAS,DEN,27,away,ShotClockViolation,,,turnover,,Team,
 112,2,11:08.0,33,27,SAS,DEN,25,home,JS,assist,26,make3,3,M. Ginóbili,P. Mills
@@ -139,7 +139,7 @@
 137,2,9:00.0,37,31,SAS,DEN,1,away,DefReb,,,DefReb,,J. Murray,
 138,2,8:42.0,37,31,SAS,DEN,18,away,DK,,0,miss2,0,J. Nurkić,
 139,2,8:40.0,37,31,SAS,DEN,2,home,DefReb,,,DefReb,,J. Simmons,
-140,2,8:33.0,37,31,SAS,DEN,7,home,LostBall,steal,,turnover,,J. Simmons,J. Nurkić
+140,2,8:33.0,37,31,SAS,DEN,7,home,lost ball,steal,,turnover,,J. Simmons,J. Nurkić
 141,2,8:27.0,37,33,SAS,DEN,6,away,LU,,1,make2,2,J. Murray,
 142,2,8:19.0,37,33,SAS,DEN,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hernangómez,D. Dedmon
 143,2,8:19.0,37,33,SAS,DEN,0,away,Timeout,,,,,,
@@ -150,7 +150,7 @@
 148,2,8:19.0,38,33,SAS,DEN,0,home,FreeThrow,,,make1,1,D. Dedmon,
 149,2,8:08.0,38,33,SAS,DEN,11,away,JS,,19,miss2,0,J. Murray,
 150,2,8:05.0,38,33,SAS,DEN,3,home,DefReb,,,DefReb,,D. Green,
-151,2,7:57.0,38,33,SAS,DEN,8,home,BadPass,steal,,turnover,,D. Green,W. Barton
+151,2,7:57.0,38,33,SAS,DEN,8,home,bad pass,steal,,turnover,,D. Green,W. Barton
 152,2,7:54.0,38,33,SAS,DEN,3,away,BadPass,,,turnover,,W. Barton,
 153,2,7:39.0,40,33,SAS,DEN,15,home,DK,assist,0,make2,2,D. Dedmon,K. Leonard
 154,2,7:26.0,40,33,SAS,DEN,13,away,LU,block,2,miss2,0,W. Barton,K. Leonard
@@ -192,7 +192,7 @@
 190,2,4:12.0,46,39,SAS,DEN,0,away,Sub,,,,,J. Nelson,E. Mudiay
 191,2,4:04.0,46,39,SAS,DEN,8,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,W. Chandler,T. Parker
 192,2,4:04.0,46,39,SAS,DEN,0,away,OffensiveFoul,,,turnover,,W. Chandler,
-193,2,3:48.0,46,39,SAS,DEN,16,home,LostBall,steal,,turnover,,K. Leonard,G. Harris
+193,2,3:48.0,46,39,SAS,DEN,16,home,lost ball,steal,,turnover,,K. Leonard,G. Harris
 194,2,3:43.0,46,41,SAS,DEN,5,away,DK,,0,make2,2,J. Nurkić,
 195,2,3:42.0,46,41,SAS,DEN,1,home,Timeout,,,,,,
 196,2,3:31.0,46,41,SAS,DEN,11,home,JS,,24,miss3,0,D. Green,
@@ -209,7 +209,7 @@
 207,2,2:23.0,50,44,SAS,DEN,0,away,FreeThrow,,,make1,1,J. Nurkić,
 208,2,2:08.0,50,44,SAS,DEN,15,home,JS,,19,miss2,0,L. Aldridge,
 209,2,2:07.0,50,44,SAS,DEN,1,away,DefReb,,,DefReb,,W. Chandler,
-210,2,1:57.0,50,44,SAS,DEN,10,away,LostBall,steal,,turnover,,W. Chandler,L. Aldridge
+210,2,1:57.0,50,44,SAS,DEN,10,away,lost ball,steal,,turnover,,W. Chandler,L. Aldridge
 211,2,1:50.0,50,44,SAS,DEN,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Faried,M. Ginóbili
 212,2,1:50.0,51,44,SAS,DEN,0,home,FreeThrow,,,make1,1,M. Ginóbili,
 213,2,1:50.0,52,44,SAS,DEN,0,home,FreeThrow,,,make1,1,M. Ginóbili,
@@ -221,12 +221,12 @@
 219,2,0:44.0,56,48,SAS,DEN,16,home,LU,,1,make2,2,T. Parker,
 220,2,0:35.0,56,48,SAS,DEN,9,away,JS,,8,miss2,0,J. Nelson,
 221,2,0:33.0,56,48,SAS,DEN,2,home,DefReb,,,DefReb,,K. Leonard,
-222,2,0:30.0,56,48,SAS,DEN,3,home,LostBall,steal,,turnover,,K. Leonard,G. Harris
+222,2,0:30.0,56,48,SAS,DEN,3,home,lost ball,steal,,turnover,,K. Leonard,G. Harris
 223,2,0:19.0,56,50,SAS,DEN,11,away,JS,,8,make2,2,W. Barton,
 224,2,0:05.0,56,50,SAS,DEN,14,home,LostBall,,,turnover,,T. Parker,
-225,3,11:42.0,56,50,SAS,DEN,18,away,BadPass,steal,,turnover,,W. Chandler,T. Parker
+225,3,11:42.0,56,50,SAS,DEN,18,away,bad pass,steal,,turnover,,W. Chandler,T. Parker
 226,3,11:22.0,58,50,SAS,DEN,20,home,JS,assist,19,make2,2,K. Leonard,L. Aldridge
-227,3,11:05.0,58,50,SAS,DEN,17,away,BadPass,steal,,turnover,,N. Jokić,D. Green
+227,3,11:05.0,58,50,SAS,DEN,17,away,bad pass,steal,,turnover,,N. Jokić,D. Green
 228,3,11:01.0,60,50,SAS,DEN,4,home,LU,assist,0,make2,2,K. Leonard,D. Green
 229,3,11:01.0,60,50,SAS,DEN,0,away,Timeout,,,,,,
 230,3,10:43.0,60,50,SAS,DEN,18,away,LU,block,1,miss2,0,G. Harris,L. Aldridge
@@ -236,7 +236,7 @@
 234,3,10:07.0,63,54,SAS,DEN,16,away,HS,assist,6,make2,2,N. Jokić,J. Nelson
 235,3,9:55.0,63,54,SAS,DEN,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Faried,L. Aldridge
 236,3,9:45.0,65,54,SAS,DEN,10,home,HS,,10,make2,2,L. Aldridge,
-237,3,9:31.0,65,54,SAS,DEN,14,away,LostBall,steal,,turnover,,J. Nelson,T. Parker
+237,3,9:31.0,65,54,SAS,DEN,14,away,lost ball,steal,,turnover,,J. Nelson,T. Parker
 238,3,9:27.0,67,54,SAS,DEN,4,home,LU,,2,make2,2,T. Parker,
 239,3,9:10.0,67,57,SAS,DEN,17,away,JS,assist,25,make3,3,N. Jokić,G. Harris
 240,3,9:01.0,69,57,SAS,DEN,9,home,JS,assist,21,make2,2,K. Leonard,D. Green
@@ -264,13 +264,13 @@
 262,3,7:06.0,73,57,SAS,DEN,1,home,DefReb,,,DefReb,,L. Aldridge,
 263,3,6:55.0,75,57,SAS,DEN,11,home,JS,assist,16,make2,2,T. Parker,D. Lee
 264,3,6:44.0,75,57,SAS,DEN,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Parker,W. Barton
-265,3,6:43.0,75,57,SAS,DEN,1,away,BadPass,steal,,turnover,,W. Barton,D. Lee
+265,3,6:43.0,75,57,SAS,DEN,1,away,bad pass,steal,,turnover,,W. Barton,D. Lee
 266,3,6:37.0,75,57,SAS,DEN,6,home,JS,,23,miss3,0,D. Green,
 267,3,6:36.0,75,57,SAS,DEN,1,away,DefReb,,,DefReb,,W. Barton,
 268,3,6:28.0,75,57,SAS,DEN,8,away,LU,,1,miss2,0,W. Barton,
 269,3,6:27.0,75,57,SAS,DEN,1,home,DefReb,,,DefReb,,D. Green,
 270,3,6:22.0,75,57,SAS,DEN,5,home,BadPass,,,turnover,,T. Parker,
-271,3,6:06.0,75,57,SAS,DEN,16,away,LostBall,steal,,turnover,,N. Jokić,D. Lee
+271,3,6:06.0,75,57,SAS,DEN,16,away,lost ball,steal,,turnover,,N. Jokić,D. Lee
 272,3,6:02.0,75,57,SAS,DEN,4,home,BadPass,,,turnover,,L. Aldridge,
 273,3,5:44.0,75,57,SAS,DEN,18,away,JS,,20,miss2,0,G. Harris,
 274,3,5:43.0,75,57,SAS,DEN,1,home,DefReb,,,DefReb,,D. Lee,
@@ -322,7 +322,7 @@
 320,3,1:22.0,84,67,SAS,DEN,23,away,JS,,24,make2,2,J. Murray,
 321,3,1:22.0,84,67,SAS,DEN,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
 322,3,1:09.0,86,67,SAS,DEN,13,home,LU,assist,3,make2,2,P. Mills,D. Bertāns
-323,3,1:01.0,86,67,SAS,DEN,8,away,LostBall,steal,,turnover,,E. Mudiay,K. Leonard
+323,3,1:01.0,86,67,SAS,DEN,8,away,lost ball,steal,,turnover,,E. Mudiay,K. Leonard
 324,3,0:54.0,86,67,SAS,DEN,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nurkić,K. Leonard
 325,3,0:54.0,86,67,SAS,DEN,0,home,FreeThrow,,,make1,0,K. Leonard,
 326,3,0:54.0,86,67,SAS,DEN,0,home,OffReb,,,OffReb,,Team,
@@ -370,7 +370,7 @@
 368,4,8:55.0,102,78,SAS,DEN,0,away,Sub,,,,,M. Beasley,J. Nurkić
 369,4,8:45.0,102,81,SAS,DEN,10,away,JS,assist,26,make3,3,J. Hernangómez,E. Mudiay
 370,4,8:44.0,102,81,SAS,DEN,1,home,Timeout,,,,,,
-371,4,8:28.0,102,81,SAS,DEN,16,home,LostBall,steal,,turnover,,D. Bertāns,E. Mudiay
+371,4,8:28.0,102,81,SAS,DEN,16,home,lost ball,steal,,turnover,,D. Bertāns,E. Mudiay
 372,4,8:23.0,102,81,SAS,DEN,5,away,LU,,2,miss2,0,E. Mudiay,
 373,4,8:23.0,102,81,SAS,DEN,0,home,DefReb,,,DefReb,,J. Simmons,
 374,4,8:14.0,102,81,SAS,DEN,9,home,LU,,4,miss2,0,D. Murray,
@@ -394,7 +394,7 @@
 392,4,5:45.0,108,86,SAS,DEN,0,away,Sub,,,,,M. Miller,E. Mudiay
 393,4,5:31.0,108,88,SAS,DEN,14,away,LU,,2,make2,2,M. Beasley,
 394,4,5:17.0,111,88,SAS,DEN,14,home,JS,assist,24,make3,3,D. Bertāns,K. Anderson
-395,4,5:06.0,111,88,SAS,DEN,11,away,BadPass,steal,,turnover,,M. Miller,D. Bertāns
+395,4,5:06.0,111,88,SAS,DEN,11,away,bad pass,steal,,turnover,,M. Miller,D. Bertāns
 396,4,5:00.0,113,88,SAS,DEN,6,home,DK,assist,0,make2,2,J. Simmons,D. Murray
 397,4,4:44.0,113,91,SAS,DEN,16,away,JS,assist,25,make3,3,M. Beasley,M. Miller
 398,4,4:28.0,113,91,SAS,DEN,16,home,JS,,4,miss2,0,D. Murray,
@@ -411,7 +411,7 @@
 409,4,3:15.0,115,95,SAS,DEN,0,away,OffensiveFoul,,,turnover,,J. O'Bryant,
 410,4,2:52.0,115,95,SAS,DEN,23,home,JS,,25,miss3,0,K. Anderson,
 411,4,2:51.0,115,95,SAS,DEN,1,away,DefReb,,,DefReb,,J. Hernangómez,
-412,4,2:46.0,115,95,SAS,DEN,5,away,LostBall,steal,,turnover,,J. Murray,K. Anderson
+412,4,2:46.0,115,95,SAS,DEN,5,away,lost ball,steal,,turnover,,J. Murray,K. Anderson
 413,4,2:41.0,117,95,SAS,DEN,5,home,DK,assist,0,make2,2,D. Murray,K. Anderson
 414,4,2:19.0,117,97,SAS,DEN,22,away,JS,assist,10,make2,2,J. O'Bryant,M. Beasley
 415,4,2:02.0,117,97,SAS,DEN,17,home,JS,,21,miss2,0,J. Simmons,

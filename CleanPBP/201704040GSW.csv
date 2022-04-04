@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:38.0,0,0,GSW,MIN,22,away,BadPass,steal,,turnover,,K. Towns,K. Thompson
+0,1,11:38.0,0,0,GSW,MIN,22,away,bad pass,steal,,turnover,,K. Towns,K. Thompson
 1,1,11:23.0,3,0,GSW,MIN,15,home,JS,assist,23,make3,3,K. Thompson,S. Curry
 2,1,11:11.0,3,2,GSW,MIN,12,away,LU,,2,make2,2,A. Wiggins,
 3,1,10:57.0,3,2,GSW,MIN,14,home,JS,,24,miss3,0,K. Thompson,
@@ -47,12 +47,12 @@
 45,1,5:57.0,13,11,GSW,MIN,14,away,JS,,25,miss3,0,R. Rubio,
 46,1,5:56.0,13,11,GSW,MIN,1,away,OffReb,,,OffReb,,G. Dieng,
 47,1,5:53.0,13,13,GSW,MIN,3,away,LU,,2,make2,2,K. Towns,
-48,1,5:42.0,13,13,GSW,MIN,11,home,BadPass,steal,,turnover,,S. Curry,K. Towns
+48,1,5:42.0,13,13,GSW,MIN,11,home,bad pass,steal,,turnover,,S. Curry,K. Towns
 49,1,5:38.0,13,15,GSW,MIN,4,away,LU,assist,1,make2,2,A. Wiggins,K. Towns
 50,1,5:30.0,13,15,GSW,MIN,8,home,JS,,25,miss3,0,K. Thompson,
 51,1,5:29.0,13,15,GSW,MIN,1,away,DefReb,,,DefReb,,R. Rubio,
-52,1,5:19.0,13,15,GSW,MIN,10,away,BadPass,steal,,turnover,,A. Wiggins,M. Barnes
-53,1,5:13.0,13,15,GSW,MIN,6,home,BadPass,steal,,turnover,,K. Thompson,R. Rubio
+52,1,5:19.0,13,15,GSW,MIN,10,away,bad pass,steal,,turnover,,A. Wiggins,M. Barnes
+53,1,5:13.0,13,15,GSW,MIN,6,home,bad pass,steal,,turnover,,K. Thompson,R. Rubio
 54,1,5:05.0,13,17,GSW,MIN,8,away,JS,assist,18,make2,2,G. Dieng,R. Rubio
 55,1,5:04.0,13,17,GSW,MIN,1,home,Timeout,,,,,,
 56,1,5:04.0,13,17,GSW,MIN,0,home,Sub,,,,,A. Iguodala,M. Barnes
@@ -135,7 +135,7 @@
 133,2,9:13.0,43,35,GSW,MIN,0,home,FreeThrow,,,make1,1,A. Iguodala,
 134,2,9:13.0,44,35,GSW,MIN,0,home,FreeThrow,,,make1,1,A. Iguodala,
 135,2,8:58.0,44,38,GSW,MIN,15,away,JS,assist,26,make3,3,S. Muhammad,O. Casspi
-136,2,8:38.0,44,38,GSW,MIN,20,home,BadPass,steal,,turnover,,A. Iguodala,K. Dunn
+136,2,8:38.0,44,38,GSW,MIN,20,home,bad pass,steal,,turnover,,A. Iguodala,K. Dunn
 137,2,8:31.0,44,38,GSW,MIN,7,away,DK,,0,miss2,0,S. Muhammad,
 138,2,8:31.0,44,38,GSW,MIN,0,home,DefReb,,,DefReb,,D. West,
 139,2,8:26.0,46,38,GSW,MIN,5,home,LU,assist,1,make2,2,M. Barnes,D. West
@@ -171,7 +171,7 @@
 169,2,5:32.0,52,46,GSW,MIN,0,away,Sub,,,,,A. Wiggins,K. Dunn
 170,2,5:32.0,52,46,GSW,MIN,0,home,Sub,,,,,P. McCaw,I. Clark
 171,2,5:32.0,53,46,GSW,MIN,0,home,FreeThrow,,,make1,1,D. Green,
-172,2,5:19.0,53,46,GSW,MIN,13,away,LostBall,steal,,turnover,,A. Wiggins,S. Curry
+172,2,5:19.0,53,46,GSW,MIN,13,away,lost ball,steal,,turnover,,A. Wiggins,S. Curry
 173,2,5:15.0,55,46,GSW,MIN,4,home,LU,assist,2,make2,2,P. McCaw,S. Livingston
 174,2,5:04.0,55,46,GSW,MIN,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Curry,R. Rubio
 175,2,5:04.0,55,48,GSW,MIN,0,away,JS,,20,make2,2,R. Rubio,
@@ -182,7 +182,7 @@
 180,2,4:31.0,57,49,GSW,MIN,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. McCaw,K. Towns
 181,2,4:31.0,57,50,GSW,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
 182,2,4:31.0,57,51,GSW,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
-183,2,4:20.0,57,51,GSW,MIN,11,home,BadPass,steal,,turnover,,S. Livingston,A. Wiggins
+183,2,4:20.0,57,51,GSW,MIN,11,home,bad pass,steal,,turnover,,S. Livingston,A. Wiggins
 184,2,4:17.0,57,53,GSW,MIN,3,away,LU,,1,make2,2,A. Wiggins,
 185,2,4:17.0,57,53,GSW,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Livingston,A. Wiggins
 186,2,4:17.0,57,54,GSW,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
@@ -216,17 +216,17 @@
 214,2,1:18.0,63,56,GSW,MIN,0,away,OffReb,,,OffReb,,Team,
 215,2,1:18.0,63,56,GSW,MIN,0,away,FreeThrow,,,make1,0,S. Muhammad,
 216,2,1:17.0,63,56,GSW,MIN,1,home,DefReb,,,DefReb,,A. Iguodala,
-217,2,1:00.0,63,56,GSW,MIN,17,home,BadPass,steal,,turnover,,S. Curry,K. Towns
+217,2,1:00.0,63,56,GSW,MIN,17,home,bad pass,steal,,turnover,,S. Curry,K. Towns
 218,2,0:55.0,63,58,GSW,MIN,5,away,LU,assist,2,make2,2,A. Wiggins,K. Towns
 219,2,0:48.0,65,58,GSW,MIN,7,home,LU,assist,2,make2,2,D. Green,S. Curry
 220,2,0:39.0,65,58,GSW,MIN,9,away,JS,,26,miss3,0,A. Wiggins,
 221,2,0:38.0,65,58,GSW,MIN,1,home,DefReb,,,DefReb,,Z. Pachulia,
 222,2,0:37.0,65,58,GSW,MIN,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Towns,Z. Pachulia
-223,2,0:31.0,65,58,GSW,MIN,6,home,BadPass,steal,,turnover,,S. Curry,A. Wiggins
+223,2,0:31.0,65,58,GSW,MIN,6,home,bad pass,steal,,turnover,,S. Curry,A. Wiggins
 224,2,0:09.0,65,60,GSW,MIN,22,away,JS,,20,make2,2,R. Rubio,
 225,2,0:04.0,68,60,GSW,MIN,5,home,JS,assist,26,make3,3,K. Thompson,S. Curry
-226,3,11:49.0,68,60,GSW,MIN,11,home,BadPass,steal,,turnover,,D. Green,A. Wiggins
-227,3,11:34.0,68,60,GSW,MIN,15,away,BadPass,steal,,turnover,,K. Towns,K. Thompson
+226,3,11:49.0,68,60,GSW,MIN,11,home,bad pass,steal,,turnover,,D. Green,A. Wiggins
+227,3,11:34.0,68,60,GSW,MIN,15,away,bad pass,steal,,turnover,,K. Towns,K. Thompson
 228,3,11:26.0,68,60,GSW,MIN,8,home,LU,block,3,miss2,0,Z. Pachulia,K. Towns
 229,3,11:25.0,68,60,GSW,MIN,1,away,DefReb,,,DefReb,,B. Rush,
 230,3,11:05.0,68,60,GSW,MIN,20,away,JS,block,8,miss2,0,A. Wiggins,S. Curry
@@ -251,7 +251,7 @@
 249,3,8:39.0,73,69,GSW,MIN,19,away,JS,assist,25,make3,3,K. Towns,R. Rubio
 250,3,8:27.0,75,69,GSW,MIN,12,home,DK,assist,0,make2,2,Z. Pachulia,S. Curry
 251,3,8:26.0,75,69,GSW,MIN,1,away,Timeout,,,,,,
-252,3,8:14.0,75,69,GSW,MIN,12,away,BadPass,steal,,turnover,,A. Wiggins,S. Curry
+252,3,8:14.0,75,69,GSW,MIN,12,away,bad pass,steal,,turnover,,A. Wiggins,S. Curry
 253,3,8:11.0,77,69,GSW,MIN,3,home,DK,,0,make2,2,S. Curry,
 254,3,8:02.0,77,71,GSW,MIN,9,away,LU,assist,1,make2,2,A. Wiggins,R. Rubio
 255,3,7:45.0,79,71,GSW,MIN,17,home,JS,,17,make2,2,S. Curry,
@@ -259,7 +259,7 @@
 257,3,7:23.0,79,71,GSW,MIN,0,home,DefReb,,,DefReb,,Z. Pachulia,
 258,3,7:13.0,82,71,GSW,MIN,10,home,JS,assist,23,make3,3,M. Barnes,K. Thompson
 259,3,7:13.0,82,71,GSW,MIN,0,away,Timeout,,,,,,
-260,3,7:03.0,82,71,GSW,MIN,10,away,BadPass,steal,,turnover,,K. Towns,D. Green
+260,3,7:03.0,82,71,GSW,MIN,10,away,bad pass,steal,,turnover,,K. Towns,D. Green
 261,3,6:56.0,84,71,GSW,MIN,7,home,LU,assist,1,make2,2,K. Thompson,M. Barnes
 262,3,6:55.0,84,71,GSW,MIN,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Curry,R. Rubio
 263,3,6:55.0,84,71,GSW,MIN,0,away,Timeout,,,,,,
@@ -289,7 +289,7 @@
 287,3,4:19.0,94,78,GSW,MIN,0,away,FreeThrow,,,make1,0,A. Wiggins,
 288,3,4:17.0,94,78,GSW,MIN,2,home,DefReb,,,DefReb,,J. McGee,
 289,3,4:11.0,97,78,GSW,MIN,6,home,JS,assist,33,make3,3,K. Thompson,S. Curry
-290,3,3:51.0,97,78,GSW,MIN,20,away,LostBall,steal,,turnover,,A. Wiggins,S. Curry
+290,3,3:51.0,97,78,GSW,MIN,20,away,lost ball,steal,,turnover,,A. Wiggins,S. Curry
 291,3,3:46.0,99,78,GSW,MIN,5,home,LU,assist,1,make2,2,A. Iguodala,S. Curry
 292,3,3:21.0,99,78,GSW,MIN,25,away,JS,block,16,miss2,0,R. Rubio,S. Curry
 293,3,3:20.0,99,78,GSW,MIN,1,away,OffReb,,,OffReb,,S. Muhammad,
@@ -398,7 +398,7 @@
 396,4,5:32.0,117,99,GSW,MIN,0,away,FreeThrow,,,make1,1,S. Muhammad,
 397,4,5:18.0,117,99,GSW,MIN,14,home,JS,,16,miss2,0,D. West,
 398,4,5:18.0,117,99,GSW,MIN,0,away,DefReb,,,DefReb,,T. Jones,
-399,4,5:01.0,117,99,GSW,MIN,17,away,LostBall,steal,,turnover,,K. Dunn,P. McCaw
+399,4,5:01.0,117,99,GSW,MIN,17,away,lost ball,steal,,turnover,,K. Dunn,P. McCaw
 400,4,4:53.0,117,99,GSW,MIN,8,home,JS,,23,miss3,0,I. Clark,
 401,4,4:53.0,117,99,GSW,MIN,0,away,DefReb,,,DefReb,,A. Payne,
 402,4,4:39.0,117,99,GSW,MIN,14,away,JS,,25,miss3,0,A. Payne,
@@ -424,7 +424,7 @@
 422,4,3:27.0,119,101,GSW,MIN,12,away,JS,,4,miss2,0,S. Muhammad,
 423,4,3:26.0,119,101,GSW,MIN,1,away,OffReb,,,OffReb,,J. Hill,
 424,4,3:26.0,119,103,GSW,MIN,0,away,DK,,0,make2,2,J. Hill,
-425,4,3:08.0,119,103,GSW,MIN,18,home,LostBall,steal,,turnover,,K. Looney,A. Payne
+425,4,3:08.0,119,103,GSW,MIN,18,home,lost ball,steal,,turnover,,K. Looney,A. Payne
 426,4,3:02.0,119,105,GSW,MIN,6,away,DK,assist,0,make2,2,A. Payne,T. Jones
 427,4,2:48.0,119,105,GSW,MIN,14,home,BadPass,,,turnover,,I. Clark,
 428,4,2:48.0,119,105,GSW,MIN,0,away,Timeout,,,,,,
@@ -432,7 +432,7 @@
 430,4,2:35.0,119,105,GSW,MIN,0,home,DefReb,,,DefReb,,P. McCaw,
 431,4,2:22.0,119,105,GSW,MIN,13,home,JS,,8,miss2,0,I. Clark,
 432,4,2:21.0,119,105,GSW,MIN,1,away,DefReb,,,DefReb,,A. Payne,
-433,4,2:10.0,119,105,GSW,MIN,11,away,LostBall,steal,,turnover,,J. Hill,I. Clark
+433,4,2:10.0,119,105,GSW,MIN,11,away,lost ball,steal,,turnover,,J. Hill,I. Clark
 434,4,2:01.0,119,105,GSW,MIN,9,home,JS,,19,miss2,0,I. Clark,
 435,4,1:59.0,119,105,GSW,MIN,2,home,OffReb,,,OffReb,,K. Looney,
 436,4,1:59.0,119,105,GSW,MIN,0,home,LU,,1,miss2,0,K. Looney,
@@ -442,7 +442,7 @@
 440,4,1:26.0,121,105,GSW,MIN,0,home,DefReb,,,DefReb,,S. Livingston,
 441,4,1:14.0,121,105,GSW,MIN,12,home,JS,,6,miss2,0,I. Clark,
 442,4,1:13.0,121,105,GSW,MIN,1,home,OffReb,,,OffReb,,K. Looney,
-443,4,1:04.0,121,105,GSW,MIN,9,home,BadPass,steal,,turnover,,P. McCaw,K. Dunn
+443,4,1:04.0,121,105,GSW,MIN,9,home,bad pass,steal,,turnover,,P. McCaw,K. Dunn
 444,4,1:00.0,121,107,GSW,MIN,4,away,DK,assist,0,make2,2,S. Muhammad,T. Jones
 445,4,0:40.0,121,107,GSW,MIN,20,home,JS,,27,miss3,0,I. Clark,
 446,4,0:39.0,121,107,GSW,MIN,1,away,DefReb,,,DefReb,,S. Muhammad,

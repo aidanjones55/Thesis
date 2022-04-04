@@ -14,7 +14,7 @@
 12,1,9:51.0,8,2,UTA,SAS,1,home,DefReb,,,DefReb,,R. Gobert,
 13,1,9:36.0,8,2,UTA,SAS,15,home,JS,,12,miss2,0,D. Favors,
 14,1,9:36.0,8,2,UTA,SAS,0,away,DefReb,,,DefReb,,Team,
-15,1,9:21.0,8,2,UTA,SAS,15,away,BadPass,steal,,turnover,,P. Gasol,D. Favors
+15,1,9:21.0,8,2,UTA,SAS,15,away,bad pass,steal,,turnover,,P. Gasol,D. Favors
 16,1,9:15.0,10,2,UTA,SAS,6,home,LU,assist,2,make2,2,R. Hood,G. Hill
 17,1,8:58.0,10,2,UTA,SAS,17,away,JS,,18,miss2,0,P. Gasol,
 18,1,8:57.0,10,2,UTA,SAS,1,home,DefReb,,,DefReb,,G. Hill,
@@ -23,7 +23,7 @@
 21,1,8:25.0,10,2,UTA,SAS,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hood,K. Leonard
 22,1,8:25.0,10,3,UTA,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
 23,1,8:25.0,10,4,UTA,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
-24,1,8:13.0,10,4,UTA,SAS,12,home,BadPass,steal,,turnover,,R. Gobert,L. Aldridge
+24,1,8:13.0,10,4,UTA,SAS,12,home,bad pass,steal,,turnover,,R. Gobert,L. Aldridge
 25,1,8:01.0,10,4,UTA,SAS,12,away,JS,,18,miss2,0,K. Leonard,
 26,1,8:00.0,10,4,UTA,SAS,1,home,DefReb,,,DefReb,,J. Johnson,
 27,1,7:47.0,10,4,UTA,SAS,13,home,DK,block,0,miss2,0,D. Favors,P. Gasol
@@ -54,7 +54,7 @@
 52,1,5:33.0,13,13,UTA,SAS,15,away,JS,,3,miss2,0,L. Aldridge,
 53,1,5:32.0,13,13,UTA,SAS,1,away,OffReb,,,OffReb,,K. Leonard,
 54,1,5:25.0,13,15,UTA,SAS,7,away,LU,assist,2,make2,2,L. Aldridge,D. Bertāns
-55,1,5:07.0,13,15,UTA,SAS,18,home,BadPass,steal,,turnover,,J. Ingles,J. Simmons
+55,1,5:07.0,13,15,UTA,SAS,18,home,bad pass,steal,,turnover,,J. Ingles,J. Simmons
 56,1,4:51.0,13,15,UTA,SAS,16,away,JS,,24,miss3,0,K. Leonard,
 57,1,4:51.0,13,15,UTA,SAS,0,away,OffReb,,,OffReb,,D. Bertāns,
 58,1,4:46.0,13,15,UTA,SAS,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Hill,K. Leonard
@@ -93,8 +93,8 @@
 91,1,2:24.0,16,22,UTA,SAS,0,home,OffReb,,,OffReb,,Team,
 92,1,2:24.0,16,22,UTA,SAS,0,home,FreeThrow,,,make1,0,R. Gobert,
 93,1,2:24.0,16,22,UTA,SAS,0,away,DefReb,,,DefReb,,L. Aldridge,
-94,1,2:13.0,16,22,UTA,SAS,11,away,LostBall,steal,,turnover,,N. Laprovíttola,S. Mack
-95,1,1:58.0,16,22,UTA,SAS,15,home,LostBall,steal,,turnover,,D. Exum,L. Aldridge
+94,1,2:13.0,16,22,UTA,SAS,11,away,lost ball,steal,,turnover,,N. Laprovíttola,S. Mack
+95,1,1:58.0,16,22,UTA,SAS,15,home,lost ball,steal,,turnover,,D. Exum,L. Aldridge
 96,1,1:52.0,16,22,UTA,SAS,6,away,JS,,26,miss3,0,D. Bertāns,
 97,1,1:51.0,16,22,UTA,SAS,1,home,DefReb,,,DefReb,,R. Gobert,
 98,1,1:44.0,16,22,UTA,SAS,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Ingles,J. Simmons
@@ -109,7 +109,7 @@
 107,1,1:01.0,16,25,UTA,SAS,9,away,LU,,2,make2,2,M. Ginóbili,
 108,1,0:51.0,16,25,UTA,SAS,10,home,JS,,13,miss2,0,T. Lyles,
 109,1,0:51.0,16,25,UTA,SAS,0,away,DefReb,,,DefReb,,L. Aldridge,
-110,1,0:35.0,16,25,UTA,SAS,16,away,BadPass,steal,,turnover,,M. Ginóbili,J. Ingles
+110,1,0:35.0,16,25,UTA,SAS,16,away,bad pass,steal,,turnover,,M. Ginóbili,J. Ingles
 111,1,0:30.0,16,25,UTA,SAS,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Bertāns,J. Ingles
 112,1,0:30.0,16,25,UTA,SAS,0,away,Sub,,,,,P. Gasol,L. Aldridge
 113,1,0:30.0,16,25,UTA,SAS,0,home,Timeout,,,,,,
@@ -123,14 +123,14 @@
 121,2,11:35.0,17,27,UTA,SAS,25,home,JS,,11,miss2,0,J. Johnson,
 122,2,11:35.0,17,27,UTA,SAS,0,away,DefReb,,,DefReb,,K. Leonard,
 123,2,11:18.0,17,29,UTA,SAS,17,away,JS,,19,make2,2,J. Simmons,
-124,2,11:05.0,17,29,UTA,SAS,13,home,BadPass,steal,,turnover,,D. Favors,K. Leonard
+124,2,11:05.0,17,29,UTA,SAS,13,home,bad pass,steal,,turnover,,D. Favors,K. Leonard
 125,2,10:51.0,17,29,UTA,SAS,14,away,JS,,10,miss2,0,K. Leonard,
 126,2,10:50.0,17,29,UTA,SAS,1,home,DefReb,,,DefReb,,D. Favors,
 127,2,10:32.0,17,29,UTA,SAS,18,away,ChargeFoul,DrawnBy,,ChargeFoul,,J. Johnson,P. Mills
 128,2,10:32.0,17,29,UTA,SAS,0,home,OffensiveFoul,,,turnover,,J. Johnson,
 129,2,10:10.0,17,29,UTA,SAS,22,away,JS,,22,miss3,0,K. Leonard,
 130,2,10:10.0,17,29,UTA,SAS,0,home,DefReb,,,DefReb,,T. Lyles,
-131,2,10:00.0,17,29,UTA,SAS,10,home,BadPass,steal,,turnover,,S. Mack,J. Simmons
+131,2,10:00.0,17,29,UTA,SAS,10,home,bad pass,steal,,turnover,,S. Mack,J. Simmons
 132,2,9:55.0,17,29,UTA,SAS,5,away,LU,,2,miss2,0,J. Simmons,
 133,2,9:53.0,17,29,UTA,SAS,2,away,OffReb,,,OffReb,,K. Leonard,
 134,2,9:51.0,17,31,UTA,SAS,2,away,LU,,2,make2,2,K. Leonard,
@@ -160,7 +160,7 @@
 158,2,5:29.0,33,46,UTA,SAS,13,away,JS,assist,19,make2,2,P. Mills,P. Gasol
 159,2,5:16.0,33,46,UTA,SAS,13,home,JS,,24,miss3,0,J. Ingles,
 160,2,5:15.0,33,46,UTA,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
-161,2,5:08.0,33,46,UTA,SAS,7,away,BadPass,steal,,turnover,,P. Mills,R. Hood
+161,2,5:08.0,33,46,UTA,SAS,7,away,bad pass,steal,,turnover,,P. Mills,R. Hood
 162,2,5:03.0,33,46,UTA,SAS,5,home,PersonalFoul,,,,,P. Mills,
 163,2,5:03.0,33,46,UTA,SAS,0,home,Timeout,,,,,,
 164,2,5:03.0,33,46,UTA,SAS,0,away,Sub,,,,,D. Bertāns,D. Lee
@@ -168,7 +168,7 @@
 166,2,5:03.0,33,46,UTA,SAS,0,away,Sub,,,,,N. Laprovíttola,P. Mills
 167,2,5:03.0,33,46,UTA,SAS,0,home,Sub,,,,,D. Exum,J. Johnson
 168,2,5:03.0,33,46,UTA,SAS,0,away,Sub,,,,,L. Aldridge,K. Leonard
-169,2,4:48.0,33,46,UTA,SAS,15,home,BadPass,steal,,turnover,,J. Ingles,K. Anderson
+169,2,4:48.0,33,46,UTA,SAS,15,home,bad pass,steal,,turnover,,J. Ingles,K. Anderson
 170,2,4:40.0,33,46,UTA,SAS,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Ingles,M. Ginóbili
 171,2,4:40.0,33,46,UTA,SAS,0,home,DelayOfGame,,,DelayOfGame,,Team,
 172,2,4:40.0,33,46,UTA,SAS,0,home,Sub,,,,,S. Mack,J. Ingles
@@ -186,7 +186,7 @@
 184,2,3:56.0,33,47,UTA,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
 185,2,3:56.0,33,47,UTA,SAS,0,home,Sub,,,,,T. Lyles,R. Hood
 186,2,3:56.0,33,48,UTA,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
-187,2,3:36.0,33,48,UTA,SAS,20,home,BadPass,steal,,turnover,,G. Hill,K. Anderson
+187,2,3:36.0,33,48,UTA,SAS,20,home,bad pass,steal,,turnover,,G. Hill,K. Anderson
 188,2,3:26.0,33,48,UTA,SAS,10,away,JS,,14,miss2,0,M. Ginóbili,
 189,2,3:26.0,33,48,UTA,SAS,0,home,DefReb,,,DefReb,,Team,
 190,2,3:26.0,33,48,UTA,SAS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,L. Aldridge,R. Gobert
@@ -228,7 +228,7 @@
 226,2,0:04.0,41,53,UTA,SAS,1,home,DefReb,,,DefReb,,D. Exum,
 227,2,0:01.0,41,53,UTA,SAS,3,home,LU,,2,miss2,0,D. Exum,
 228,2,0:00.0,41,53,UTA,SAS,1,home,OffReb,,,OffReb,,Team,
-229,3,11:41.0,41,53,UTA,SAS,19,home,BadPass,steal,,turnover,,R. Gobert,K. Anderson
+229,3,11:41.0,41,53,UTA,SAS,19,home,bad pass,steal,,turnover,,R. Gobert,K. Anderson
 230,3,11:35.0,41,53,UTA,SAS,6,away,JS,,25,miss3,0,K. Leonard,
 231,3,11:35.0,41,53,UTA,SAS,0,home,DefReb,,,DefReb,,D. Favors,
 232,3,11:17.0,41,53,UTA,SAS,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Leonard,J. Johnson
@@ -292,7 +292,7 @@
 290,3,3:20.0,61,78,UTA,SAS,8,away,JS,assist,24,make3,3,P. Mills,K. Leonard
 291,3,3:00.0,61,78,UTA,SAS,20,home,JS,,18,miss2,0,G. Hill,
 292,3,2:59.0,61,78,UTA,SAS,1,away,DefReb,,,DefReb,,M. Ginóbili,
-293,3,2:47.0,61,78,UTA,SAS,12,away,LostBall,steal,,turnover,,K. Leonard,J. Ingles
+293,3,2:47.0,61,78,UTA,SAS,12,away,lost ball,steal,,turnover,,K. Leonard,J. Ingles
 294,3,2:42.0,61,78,UTA,SAS,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Leonard,D. Exum
 295,3,2:42.0,61,78,UTA,SAS,0,away,Sub,,,,,N. Laprovíttola,P. Mills
 296,3,2:42.0,61,78,UTA,SAS,0,home,Sub,,,,,S. Mack,G. Hill
@@ -303,7 +303,7 @@
 301,3,2:17.0,61,78,UTA,SAS,0,home,DefReb,,,DefReb,,R. Hood,
 302,3,2:08.0,61,78,UTA,SAS,9,home,JS,,26,miss3,0,T. Lyles,
 303,3,2:08.0,61,78,UTA,SAS,0,away,DefReb,,,DefReb,,K. Leonard,
-304,3,2:01.0,61,78,UTA,SAS,7,away,LostBall,steal,,turnover,,L. Aldridge,D. Favors
+304,3,2:01.0,61,78,UTA,SAS,7,away,lost ball,steal,,turnover,,L. Aldridge,D. Favors
 305,3,1:50.0,64,78,UTA,SAS,11,home,JS,,24,make3,3,R. Hood,
 306,3,1:26.0,64,78,UTA,SAS,24,away,LU,,2,miss2,0,M. Ginóbili,
 307,3,1:25.0,64,78,UTA,SAS,1,away,OffReb,,,OffReb,,D. Dedmon,
@@ -401,7 +401,7 @@
 399,4,5:23.0,77,94,UTA,SAS,0,home,Sub,,,,,J. Ingles,G. Hill
 400,4,5:10.0,77,94,UTA,SAS,13,away,JS,,26,miss3,0,P. Mills,
 401,4,5:10.0,77,94,UTA,SAS,0,home,DefReb,,,DefReb,,J. Withey,
-402,4,5:03.0,77,94,UTA,SAS,7,home,BadPass,steal,,turnover,,S. Mack,K. Anderson
+402,4,5:03.0,77,94,UTA,SAS,7,home,bad pass,steal,,turnover,,S. Mack,K. Anderson
 403,4,4:46.0,77,94,UTA,SAS,17,away,JS,,24,miss3,0,P. Mills,
 404,4,4:46.0,77,94,UTA,SAS,0,home,DefReb,,,DefReb,,D. Exum,
 405,4,4:33.0,79,94,UTA,SAS,13,home,JS,,19,make2,2,S. Mack,
@@ -439,7 +439,7 @@
 437,4,2:05.0,83,98,UTA,SAS,0,home,DefReb,,,DefReb,,T. Lyles,
 438,4,1:50.0,83,98,UTA,SAS,15,home,JS,,25,miss3,0,T. Lyles,
 439,4,1:50.0,83,98,UTA,SAS,0,away,DefReb,,,DefReb,,N. Laprovíttola,
-440,4,1:46.0,83,98,UTA,SAS,4,away,LostBall,steal,,turnover,,N. Laprovíttola,T. Lyles
+440,4,1:46.0,83,98,UTA,SAS,4,away,lost ball,steal,,turnover,,N. Laprovíttola,T. Lyles
 441,4,1:37.0,83,98,UTA,SAS,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bertāns,J. Withey
 442,4,1:37.0,84,98,UTA,SAS,0,home,FreeThrow,,,make1,1,J. Withey,
 443,4,1:37.0,85,98,UTA,SAS,0,home,FreeThrow,,,make1,1,J. Withey,

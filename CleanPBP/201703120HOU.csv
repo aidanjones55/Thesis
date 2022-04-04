@@ -13,7 +13,7 @@
 11,1,10:08.0,4,5,HOU,CLE,11,away,JS,,25,make3,3,K. Irving,
 12,1,9:57.0,4,5,HOU,CLE,11,home,LU,,2,miss2,0,C. Capela,
 13,1,9:56.0,4,5,HOU,CLE,1,away,DefReb,,,DefReb,,K. Irving,
-14,1,9:52.0,4,5,HOU,CLE,4,away,LostBall,steal,,turnover,,K. Irving,P. Beverley
+14,1,9:52.0,4,5,HOU,CLE,4,away,lost ball,steal,,turnover,,K. Irving,P. Beverley
 15,1,9:50.0,4,5,HOU,CLE,2,away,ChargeFoul,DrawnBy,,ChargeFoul,,J. Harden,R. Jefferson
 16,1,9:50.0,4,5,HOU,CLE,0,home,OffensiveFoul,,,turnover,,J. Harden,
 17,1,9:30.0,4,5,HOU,CLE,20,away,JS,,24,miss3,0,I. Shumpert,
@@ -70,7 +70,7 @@
 68,1,2:58.0,24,20,HOU,CLE,2,home,DefReb,,,DefReb,,L. Williams,
 69,1,2:42.0,24,20,HOU,CLE,16,home,LU,,2,miss2,0,N. Hilário,
 70,1,2:41.0,24,20,HOU,CLE,1,away,DefReb,,,DefReb,,I. Shumpert,
-71,1,2:35.0,24,20,HOU,CLE,6,away,LostBall,steal,,turnover,,L. James,T. Ariza
+71,1,2:35.0,24,20,HOU,CLE,6,away,lost ball,steal,,turnover,,L. James,T. Ariza
 72,1,2:29.0,24,20,HOU,CLE,6,home,JS,,24,miss3,0,J. Harden,
 73,1,2:28.0,24,20,HOU,CLE,1,away,DefReb,,,DefReb,,K. Irving,
 74,1,2:14.0,24,20,HOU,CLE,14,away,JS,,27,miss3,0,J. Smith,
@@ -138,7 +138,7 @@
 136,2,8:06.0,37,37,HOU,CLE,1,home,DefReb,,,DefReb,,C. Capela,
 137,2,7:59.0,37,37,HOU,CLE,7,home,JS,,26,miss3,0,T. Ariza,
 138,2,7:57.0,37,37,HOU,CLE,2,away,DefReb,,,DefReb,,J. Smith,
-139,2,7:50.0,37,37,HOU,CLE,7,away,LostBall,steal,,turnover,,D. Williams,L. Williams
+139,2,7:50.0,37,37,HOU,CLE,7,away,lost ball,steal,,turnover,,D. Williams,L. Williams
 140,2,7:39.0,37,37,HOU,CLE,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Williams,T. Ariza
 141,2,7:39.0,39,37,HOU,CLE,0,home,LU,assist,2,make2,2,T. Ariza,P. Beverley
 142,2,7:39.0,39,37,HOU,CLE,0,away,Sub,,,,,R. Jefferson,J. Smith
@@ -176,7 +176,7 @@
 174,2,4:31.0,45,54,HOU,CLE,16,home,JS,,25,miss3,0,J. Harden,
 175,2,4:30.0,45,54,HOU,CLE,1,away,DefReb,,,DefReb,,D. Williams,
 176,2,4:19.0,45,57,HOU,CLE,11,away,JS,assist,26,make3,3,R. Jefferson,K. Irving
-177,2,4:05.0,45,57,HOU,CLE,14,home,BadPass,steal,,turnover,,J. Harden,C. Frye
+177,2,4:05.0,45,57,HOU,CLE,14,home,bad pass,steal,,turnover,,J. Harden,C. Frye
 178,2,3:40.0,45,57,HOU,CLE,25,away,JS,,25,miss3,0,K. Irving,
 179,2,3:39.0,45,57,HOU,CLE,1,home,DefReb,,,DefReb,,T. Ariza,
 180,2,3:33.0,47,57,HOU,CLE,6,home,DK,assist,0,make2,2,N. Hilário,J. Harden
@@ -199,12 +199,12 @@
 197,2,1:46.0,51,65,HOU,CLE,0,away,FreeThrow,,,make1,0,L. James,
 198,2,1:46.0,51,65,HOU,CLE,0,home,DefReb,,,DefReb,,J. Harden,
 199,2,1:25.0,54,65,HOU,CLE,21,home,JS,assist,25,make3,3,J. Harden,P. Beverley
-200,2,1:07.0,54,65,HOU,CLE,18,away,BadPass,steal,,turnover,,K. Irving,N. Hilário
+200,2,1:07.0,54,65,HOU,CLE,18,away,bad pass,steal,,turnover,,K. Irving,N. Hilário
 201,2,1:01.0,54,65,HOU,CLE,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Irving,N. Hilário
 202,2,0:53.0,56,65,HOU,CLE,8,home,LU,assist,2,make2,2,N. Hilário,J. Harden
 203,2,0:30.0,56,67,HOU,CLE,23,away,JS,,17,make2,2,K. Irving,
 204,2,0:27.0,58,67,HOU,CLE,3,home,LU,,2,make2,2,J. Harden,
-205,2,0:07.0,58,67,HOU,CLE,20,away,LostBall,steal,,turnover,,T. Thompson,N. Hilário
+205,2,0:07.0,58,67,HOU,CLE,20,away,lost ball,steal,,turnover,,T. Thompson,N. Hilário
 206,2,0:02.0,58,67,HOU,CLE,5,home,JS,,26,miss3,0,E. Gordon,
 207,2,0:01.0,58,67,HOU,CLE,1,home,OffReb,,,OffReb,,E. Gordon,
 208,3,11:45.0,58,69,HOU,CLE,15,away,LU,assist,2,make2,2,K. Irving,R. Jefferson
@@ -234,7 +234,7 @@
 232,3,8:25.0,69,74,HOU,CLE,0,away,DefReb,,,DefReb,,R. Jefferson,
 233,3,8:06.0,69,74,HOU,CLE,19,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Beverley,L. James
 234,3,7:54.0,69,76,HOU,CLE,12,away,JS,,22,make2,2,K. Irving,
-235,3,7:50.0,69,76,HOU,CLE,4,home,BadPass,steal,,turnover,,J. Harden,L. James
+235,3,7:50.0,69,76,HOU,CLE,4,home,bad pass,steal,,turnover,,J. Harden,L. James
 236,3,7:43.0,69,79,HOU,CLE,7,away,JS,assist,24,make3,3,I. Shumpert,L. James
 237,3,7:26.0,69,79,HOU,CLE,17,home,JS,,6,miss2,0,J. Harden,
 238,3,7:26.0,69,79,HOU,CLE,0,away,DefReb,,,DefReb,,T. Thompson,
@@ -266,7 +266,7 @@
 264,3,3:57.0,78,81,HOU,CLE,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,C. Capela,T. Thompson
 265,3,3:57.0,78,81,HOU,CLE,0,away,Sub,,,,,D. Williams,I. Shumpert
 266,3,3:57.0,78,81,HOU,CLE,0,home,Sub,,,,,N. Hilário,C. Capela
-267,3,3:52.0,78,81,HOU,CLE,5,away,BadPass,steal,,turnover,,L. James,E. Gordon
+267,3,3:52.0,78,81,HOU,CLE,5,away,bad pass,steal,,turnover,,L. James,E. Gordon
 268,3,3:45.0,78,81,HOU,CLE,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Williams,N. Hilário
 269,3,3:36.0,80,81,HOU,CLE,9,home,LU,,2,make2,2,J. Harden,
 270,3,3:17.0,80,83,HOU,CLE,19,away,JS,,15,make2,2,L. James,
@@ -304,7 +304,7 @@
 302,3,0:33.0,88,86,HOU,CLE,13,away,LU,,2,miss2,0,K. Irving,
 303,3,0:32.0,88,86,HOU,CLE,1,away,OffReb,,,OffReb,,T. Thompson,
 304,3,0:29.0,88,86,HOU,CLE,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Harden,T. Thompson
-305,3,0:15.0,88,86,HOU,CLE,14,away,BadPass,steal,,turnover,,K. Irving,J. Harden
+305,3,0:15.0,88,86,HOU,CLE,14,away,bad pass,steal,,turnover,,K. Irving,J. Harden
 306,3,0:12.0,90,86,HOU,CLE,3,home,LU,,2,make2,2,J. Harden,
 307,3,0:01.0,90,86,HOU,CLE,11,away,JS,,25,miss3,0,D. Williams,
 308,3,0:00.0,90,86,HOU,CLE,1,home,DefReb,,,DefReb,,J. Harden,
@@ -314,7 +314,7 @@
 312,4,10:52.0,94,89,HOU,CLE,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Hilário,D. Williams
 313,4,10:52.0,94,90,HOU,CLE,0,away,FreeThrow,,,make1,1,D. Williams,
 314,4,10:52.0,94,91,HOU,CLE,0,away,FreeThrow,,,make1,1,D. Williams,
-315,4,10:43.0,94,91,HOU,CLE,9,home,BadPass,steal,,turnover,,L. Williams,L. James
+315,4,10:43.0,94,91,HOU,CLE,9,home,bad pass,steal,,turnover,,L. Williams,L. James
 316,4,10:32.0,94,93,HOU,CLE,11,away,JS,,12,make2,2,J. Smith,
 317,4,10:24.0,94,93,HOU,CLE,8,home,JS,,26,miss3,0,E. Gordon,
 318,4,10:23.0,94,93,HOU,CLE,1,away,DefReb,,,DefReb,,D. Williams,
@@ -330,7 +330,7 @@
 328,4,9:16.0,97,96,HOU,CLE,1,home,DefReb,,,DefReb,,C. Capela,
 329,4,9:08.0,97,96,HOU,CLE,8,home,JS,,24,miss3,0,P. Beverley,
 330,4,9:07.0,97,96,HOU,CLE,1,away,DefReb,,,DefReb,,J. Smith,
-331,4,9:00.0,97,96,HOU,CLE,7,away,BadPass,steal,,turnover,,L. James,C. Capela
+331,4,9:00.0,97,96,HOU,CLE,7,away,bad pass,steal,,turnover,,L. James,C. Capela
 332,4,8:57.0,97,96,HOU,CLE,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Williams,J. Harden
 333,4,8:57.0,97,96,HOU,CLE,0,away,Sub,,,,,R. Jefferson,D. Williams
 334,4,8:48.0,97,96,HOU,CLE,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Smith,C. Capela
@@ -360,7 +360,7 @@
 358,4,6:15.0,104,101,HOU,CLE,0,away,Timeout,,,,,,
 359,4,6:15.0,104,101,HOU,CLE,0,home,Sub,,,,,T. Ariza,E. Gordon
 360,4,6:15.0,104,101,HOU,CLE,0,away,Sub,,,,,K. Irving,C. Frye
-361,4,6:05.0,104,101,HOU,CLE,10,away,BadPass,steal,,turnover,,L. James,P. Beverley
+361,4,6:05.0,104,101,HOU,CLE,10,away,bad pass,steal,,turnover,,L. James,P. Beverley
 362,4,6:00.0,104,101,HOU,CLE,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jefferson,R. Anderson
 363,4,5:55.0,104,101,HOU,CLE,5,home,JS,,25,miss3,0,J. Harden,
 364,4,5:54.0,104,101,HOU,CLE,1,home,OffReb,,,OffReb,,R. Anderson,
@@ -406,7 +406,7 @@
 404,4,2:34.0,111,107,HOU,CLE,14,away,JS,,20,miss2,0,L. James,
 405,4,2:33.0,111,107,HOU,CLE,1,home,DefReb,,,DefReb,,J. Harden,
 406,4,2:23.0,113,107,HOU,CLE,10,home,LU,assist,1,make2,2,N. Hilário,J. Harden
-407,4,2:02.0,113,107,HOU,CLE,21,away,BadPass,steal,,turnover,,L. James,N. Hilário
+407,4,2:02.0,113,107,HOU,CLE,21,away,bad pass,steal,,turnover,,L. James,N. Hilário
 408,4,1:53.0,116,107,HOU,CLE,9,home,JS,assist,23,make3,3,P. Beverley,R. Anderson
 409,4,1:53.0,116,107,HOU,CLE,0,away,Timeout,,,,,,
 410,4,1:53.0,116,107,HOU,CLE,0,away,Sub,,,,,D. Williams,I. Shumpert

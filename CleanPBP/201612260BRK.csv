@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:41.0,2,0,BRK,CHO,19,home,JS,,7,make2,2,T. Booker,
 1,1,11:29.0,2,2,BRK,CHO,12,away,LU,,3,make2,2,K. Walker,
-2,1,11:12.0,2,2,BRK,CHO,17,home,LostBall,steal,,turnover,,B. Lopez,C. Zeller
+2,1,11:12.0,2,2,BRK,CHO,17,home,lost ball,steal,,turnover,,B. Lopez,C. Zeller
 3,1,11:00.0,2,2,BRK,CHO,12,away,JS,,18,miss2,0,M. Kidd-Gilchrist,
 4,1,10:58.0,2,2,BRK,CHO,2,home,DefReb,,,DefReb,,T. Booker,
 5,1,10:46.0,2,2,BRK,CHO,12,home,JS,,8,miss2,0,J. Lin,
@@ -19,12 +19,12 @@
 17,1,9:53.0,2,4,BRK,CHO,2,home,DefReb,,,DefReb,,T. Booker,
 18,1,9:49.0,5,4,BRK,CHO,4,home,JS,assist,25,make3,3,J. Lin,T. Booker
 19,1,9:28.0,5,6,BRK,CHO,21,away,LU,assist,2,make2,2,M. Kidd-Gilchrist,N. Batum
-20,1,9:11.0,5,6,BRK,CHO,17,home,BadPass,steal,,turnover,,T. Booker,N. Batum
+20,1,9:11.0,5,6,BRK,CHO,17,home,bad pass,steal,,turnover,,T. Booker,N. Batum
 21,1,9:09.0,5,6,BRK,CHO,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Kilpatrick,N. Batum
 22,1,9:09.0,5,7,BRK,CHO,0,away,FreeThrow,,,make1,1,N. Batum,
 23,1,9:09.0,5,8,BRK,CHO,0,away,FreeThrow,,,make1,1,N. Batum,
 24,1,8:54.0,7,8,BRK,CHO,15,home,JS,,17,make2,2,S. Kilpatrick,
-25,1,8:49.0,7,8,BRK,CHO,5,away,BadPass,steal,,turnover,,M. Williams,J. Lin
+25,1,8:49.0,7,8,BRK,CHO,5,away,bad pass,steal,,turnover,,M. Williams,J. Lin
 26,1,8:43.0,9,8,BRK,CHO,6,home,JS,assist,5,make2,2,S. Kilpatrick,J. Lin
 27,1,8:27.0,9,10,BRK,CHO,16,away,JS,assist,18,make2,2,M. Williams,N. Batum
 28,1,8:03.0,12,10,BRK,CHO,24,home,JS,assist,24,make3,3,B. Lopez,J. Lin
@@ -43,7 +43,7 @@
 41,1,6:48.0,12,16,BRK,CHO,7,away,JS,assist,11,make2,2,C. Zeller,N. Batum
 42,1,6:40.0,14,16,BRK,CHO,8,home,LU,,2,make2,2,J. Lin,
 43,1,6:24.0,14,18,BRK,CHO,16,away,JS,,6,make2,2,N. Batum,
-44,1,6:11.0,14,18,BRK,CHO,13,home,BadPass,steal,,turnover,,J. Hamilton,N. Batum
+44,1,6:11.0,14,18,BRK,CHO,13,home,bad pass,steal,,turnover,,J. Hamilton,N. Batum
 45,1,5:58.0,14,18,BRK,CHO,13,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Lin,K. Walker
 46,1,5:58.0,14,19,BRK,CHO,0,away,FreeThrow,,,make1,1,K. Walker,
 47,1,5:58.0,14,19,BRK,CHO,0,away,Sub,,,,,J. Lamb,M. Kidd-Gilchrist
@@ -121,7 +121,7 @@
 119,2,10:26.0,36,44,BRK,CHO,23,away,JS,assist,17,make2,2,M. Kidd-Gilchrist,R. Sessions
 120,2,10:11.0,38,44,BRK,CHO,15,home,DK,assist,0,make2,2,R. Hollis-Jefferson,C. LeVert
 121,2,9:58.0,38,46,BRK,CHO,13,away,LU,,2,make2,2,R. Sessions,
-122,2,9:47.0,38,46,BRK,CHO,11,home,BadPass,steal,,turnover,,I. Whitehead,R. Hibbert
+122,2,9:47.0,38,46,BRK,CHO,11,home,bad pass,steal,,turnover,,I. Whitehead,R. Hibbert
 123,2,9:40.0,38,46,BRK,CHO,7,away,JS,,6,miss2,0,R. Sessions,
 124,2,9:38.0,38,46,BRK,CHO,2,home,DefReb,,,DefReb,,B. Bogdanović,
 125,2,9:30.0,38,46,BRK,CHO,8,home,Traveling,,,turnover,,C. LeVert,
@@ -154,8 +154,8 @@
 152,2,6:19.0,46,55,BRK,CHO,0,home,Sub,,,,,J. Harris,B. Bogdanović
 153,2,6:19.0,46,55,BRK,CHO,0,away,Sub,,,,,M. Williams,F. Kaminsky
 154,2,6:19.0,46,55,BRK,CHO,0,away,Sub,,,,,N. Batum,R. Sessions
-155,2,6:07.0,46,55,BRK,CHO,12,home,BadPass,steal,,turnover,,J. Lin,K. Walker
-156,2,6:02.0,46,55,BRK,CHO,5,away,LostBall,steal,,turnover,,K. Walker,J. Lin
+155,2,6:07.0,46,55,BRK,CHO,12,home,bad pass,steal,,turnover,,J. Lin,K. Walker
+156,2,6:02.0,46,55,BRK,CHO,5,away,lost ball,steal,,turnover,,K. Walker,J. Lin
 157,2,5:58.0,46,55,BRK,CHO,4,home,LU,,2,miss2,0,R. Hollis-Jefferson,
 158,2,5:56.0,46,55,BRK,CHO,2,away,DefReb,,,DefReb,,M. Kidd-Gilchrist,
 159,2,5:46.0,46,55,BRK,CHO,10,away,LU,block,3,miss2,0,M. Kidd-Gilchrist,J. Hamilton
@@ -169,7 +169,7 @@
 167,2,5:21.0,46,55,BRK,CHO,0,away,Sub,,,,,C. Zeller,R. Hibbert
 168,2,5:12.0,46,55,BRK,CHO,9,away,JS,,25,miss3,0,N. Batum,
 169,2,5:09.0,46,55,BRK,CHO,3,home,DefReb,,,DefReb,,T. Booker,
-170,2,5:01.0,46,55,BRK,CHO,8,home,BadPass,steal,,turnover,,B. Lopez,K. Walker
+170,2,5:01.0,46,55,BRK,CHO,8,home,bad pass,steal,,turnover,,B. Lopez,K. Walker
 171,2,4:53.0,46,55,BRK,CHO,8,away,JS,,17,miss2,0,K. Walker,
 172,2,4:52.0,46,55,BRK,CHO,1,home,DefReb,,,DefReb,,T. Booker,
 173,2,4:39.0,48,55,BRK,CHO,13,home,HS,,8,make2,2,B. Lopez,
@@ -189,7 +189,7 @@
 187,2,3:12.0,49,55,BRK,CHO,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Foye,M. Kidd-Gilchrist
 188,2,3:12.0,49,56,BRK,CHO,0,away,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
 189,2,3:12.0,49,57,BRK,CHO,0,away,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
-190,2,3:00.0,49,57,BRK,CHO,12,home,BadPass,steal,,turnover,,J. Lin,N. Batum
+190,2,3:00.0,49,57,BRK,CHO,12,home,bad pass,steal,,turnover,,J. Lin,N. Batum
 191,2,2:55.0,49,57,BRK,CHO,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Kilpatrick,N. Batum
 192,2,2:55.0,49,57,BRK,CHO,0,away,Timeout,,,,,,
 193,2,2:48.0,49,57,BRK,CHO,7,away,JS,,17,miss2,0,N. Batum,
@@ -216,7 +216,7 @@
 214,2,0:00.0,54,63,BRK,CHO,12,home,JS,,12,miss2,0,J. Lin,
 215,2,0:00.0,54,63,BRK,CHO,0,home,OffReb,,,OffReb,,Team,
 216,3,11:40.0,54,65,BRK,CHO,20,away,JS,,18,make2,2,K. Walker,
-217,3,11:25.0,54,65,BRK,CHO,15,home,LostBall,steal,,turnover,,J. Lin,M. Williams
+217,3,11:25.0,54,65,BRK,CHO,15,home,lost ball,steal,,turnover,,J. Lin,M. Williams
 218,3,11:21.0,54,65,BRK,CHO,4,away,LU,,2,miss2,0,K. Walker,
 219,3,11:20.0,54,65,BRK,CHO,1,home,DefReb,,,DefReb,,J. Harris,
 220,3,11:15.0,54,65,BRK,CHO,5,home,JS,,25,miss3,0,J. Lin,
@@ -261,7 +261,7 @@
 259,3,7:07.0,69,70,BRK,CHO,5,home,JS,,25,miss3,0,B. Bogdanović,
 260,3,7:06.0,69,70,BRK,CHO,1,away,DefReb,,,DefReb,,M. Kidd-Gilchrist,
 261,3,6:56.0,69,70,BRK,CHO,10,away,BadPass,,,turnover,,N. Batum,
-262,3,6:51.0,69,70,BRK,CHO,5,home,LostBall,steal,,turnover,,I. Whitehead,M. Williams
+262,3,6:51.0,69,70,BRK,CHO,5,home,lost ball,steal,,turnover,,I. Whitehead,M. Williams
 263,3,6:47.0,69,72,BRK,CHO,4,away,LU,,1,make2,2,M. Kidd-Gilchrist,
 264,3,6:40.0,69,72,BRK,CHO,7,home,LU,block,2,miss2,0,S. Kilpatrick,M. Kidd-Gilchrist
 265,3,6:38.0,69,72,BRK,CHO,2,away,DefReb,,,DefReb,,C. Zeller,
@@ -277,7 +277,7 @@
 275,3,5:38.0,69,75,BRK,CHO,0,home,Sub,,,,,J. Hamilton,B. Lopez
 276,3,5:28.0,69,75,BRK,CHO,10,away,JS,,25,miss3,0,N. Batum,
 277,3,5:28.0,69,75,BRK,CHO,0,home,DefReb,,,DefReb,,S. Kilpatrick,
-278,3,5:14.0,69,75,BRK,CHO,14,home,LostBall,steal,,turnover,,T. Booker,M. Williams
+278,3,5:14.0,69,75,BRK,CHO,14,home,lost ball,steal,,turnover,,T. Booker,M. Williams
 279,3,5:08.0,69,75,BRK,CHO,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Bogdanović,N. Batum
 280,3,5:02.0,69,77,BRK,CHO,6,away,JS,,10,make2,2,N. Batum,
 281,3,4:45.0,69,77,BRK,CHO,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lamb,S. Kilpatrick
@@ -346,9 +346,9 @@
 344,4,11:35.0,83,90,BRK,CHO,1,home,DefReb,,,DefReb,,J. Hamilton,
 345,4,11:17.0,83,90,BRK,CHO,18,home,JS,,10,miss2,0,R. Hollis-Jefferson,
 346,4,11:16.0,83,90,BRK,CHO,1,away,DefReb,,,DefReb,,R. Hibbert,
-347,4,10:59.0,83,90,BRK,CHO,17,away,LostBall,steal,,turnover,,R. Hibbert,R. Hollis-Jefferson
+347,4,10:59.0,83,90,BRK,CHO,17,away,lost ball,steal,,turnover,,R. Hibbert,R. Hollis-Jefferson
 348,4,10:55.0,85,90,BRK,CHO,4,home,DK,assist,0,make2,2,C. LeVert,I. Whitehead
-349,4,10:38.0,85,90,BRK,CHO,17,away,LostBall,steal,,turnover,,F. Kaminsky,I. Whitehead
+349,4,10:38.0,85,90,BRK,CHO,17,away,lost ball,steal,,turnover,,F. Kaminsky,I. Whitehead
 350,4,10:34.0,87,90,BRK,CHO,4,home,LU,,2,make2,2,I. Whitehead,
 351,4,10:14.0,87,90,BRK,CHO,20,away,JS,,25,miss3,0,J. Lamb,
 352,4,10:13.0,87,90,BRK,CHO,1,away,OffReb,,,OffReb,,M. Kidd-Gilchrist,
@@ -365,7 +365,7 @@
 363,4,9:28.0,92,94,BRK,CHO,0,home,FreeThrow,,,make1,1,R. Hollis-Jefferson,
 364,4,9:12.0,92,94,BRK,CHO,16,away,JS,,17,miss2,0,J. Lamb,
 365,4,9:11.0,92,94,BRK,CHO,1,home,DefReb,,,DefReb,,S. Kilpatrick,
-366,4,9:03.0,92,94,BRK,CHO,8,home,LostBall,steal,,turnover,,S. Kilpatrick,R. Hibbert
+366,4,9:03.0,92,94,BRK,CHO,8,home,lost ball,steal,,turnover,,S. Kilpatrick,R. Hibbert
 367,4,8:43.0,92,96,BRK,CHO,20,away,JS,,11,make2,2,J. Lamb,
 368,4,8:27.0,92,96,BRK,CHO,16,home,JS,,26,miss3,0,S. Kilpatrick,
 369,4,8:26.0,92,96,BRK,CHO,1,away,DefReb,,,DefReb,,J. Lamb,

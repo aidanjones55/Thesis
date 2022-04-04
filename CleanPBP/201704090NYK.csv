@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:38.0,0,0,NYK,TOR,22,away,HS,,5,miss2,0,J. Valančiūnas,
 1,1,11:36.0,0,0,NYK,TOR,2,home,DefReb,,,DefReb,,W. Hernangómez,
-2,1,11:22.0,0,0,NYK,TOR,14,home,BadPass,steal,,turnover,,C. Lee,J. Valančiūnas
+2,1,11:22.0,0,0,NYK,TOR,14,home,bad pass,steal,,turnover,,C. Lee,J. Valančiūnas
 3,1,11:02.0,0,0,NYK,TOR,20,away,HS,,5,miss2,0,J. Valančiūnas,
 4,1,11:01.0,0,0,NYK,TOR,1,home,DefReb,,,DefReb,,M. Ndour,
 5,1,10:46.0,2,0,NYK,TOR,15,home,JS,assist,19,make2,2,J. Holiday,W. Hernangómez
@@ -15,14 +15,14 @@
 13,1,9:43.0,4,2,NYK,TOR,1,home,DefReb,,,DefReb,,R. Baker,
 14,1,9:33.0,4,2,NYK,TOR,10,home,JS,,6,miss2,0,W. Hernangómez,
 15,1,9:31.0,4,2,NYK,TOR,2,away,DefReb,,,DefReb,,K. Lowry,
-16,1,9:26.0,4,2,NYK,TOR,5,away,LostBall,steal,,turnover,,K. Lowry,J. Holiday
+16,1,9:26.0,4,2,NYK,TOR,5,away,lost ball,steal,,turnover,,K. Lowry,J. Holiday
 17,1,9:18.0,4,2,NYK,TOR,8,home,JS,,24,miss3,0,J. Holiday,
 18,1,9:17.0,4,2,NYK,TOR,1,away,DefReb,,,DefReb,,S. Ibaka,
 19,1,9:03.0,4,4,NYK,TOR,14,away,JS,assist,20,make2,2,S. Ibaka,K. Lowry
 20,1,8:37.0,6,4,NYK,TOR,26,home,LU,assist,1,make2,2,W. Hernangómez,C. Lee
 21,1,8:24.0,6,4,NYK,TOR,13,away,JS,,22,miss3,0,D. Carroll,
 22,1,8:22.0,6,4,NYK,TOR,2,away,OffReb,,,OffReb,,Team,
-23,1,8:10.0,6,4,NYK,TOR,12,away,LostBall,steal,,turnover,,J. Valančiūnas,W. Hernangómez
+23,1,8:10.0,6,4,NYK,TOR,12,away,lost ball,steal,,turnover,,J. Valančiūnas,W. Hernangómez
 24,1,8:03.0,8,4,NYK,TOR,7,home,JS,assist,4,make2,2,W. Hernangómez,C. Lee
 25,1,7:35.0,8,4,NYK,TOR,28,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ndour,D. DeRozan
 26,1,7:35.0,8,5,NYK,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
@@ -102,7 +102,7 @@
 100,2,9:49.0,34,25,NYK,TOR,1,away,DefReb,,,DefReb,,J. Valančiūnas,
 101,2,9:42.0,34,25,NYK,TOR,7,away,JS,,24,miss3,0,P. Tucker,
 102,2,9:40.0,34,25,NYK,TOR,2,home,DefReb,,,DefReb,,C. Randle,
-103,2,9:35.0,34,25,NYK,TOR,5,home,LostBall,steal,,turnover,,C. Randle,C. Joseph
+103,2,9:35.0,34,25,NYK,TOR,5,home,lost ball,steal,,turnover,,C. Randle,C. Joseph
 104,2,9:31.0,34,25,NYK,TOR,4,away,LostBall,,,turnover,,K. Lowry,
 105,2,9:24.0,34,25,NYK,TOR,7,home,Timeout,,,,,,
 106,2,9:24.0,34,25,NYK,TOR,0,away,Sub,,,,,D. Carroll,P. Patterson
@@ -114,7 +114,7 @@
 112,2,8:53.0,36,28,NYK,TOR,0,home,OffensiveFoul,,,turnover,,C. Randle,
 113,2,8:44.0,36,28,NYK,TOR,9,away,JS,,25,miss3,0,K. Lowry,
 114,2,8:42.0,36,28,NYK,TOR,2,home,DefReb,,,DefReb,,M. Kuzminskas,
-115,2,8:37.0,36,28,NYK,TOR,5,home,LostBall,steal,,turnover,,M. Kuzminskas,P. Tucker
+115,2,8:37.0,36,28,NYK,TOR,5,home,lost ball,steal,,turnover,,M. Kuzminskas,P. Tucker
 116,2,8:34.0,36,28,NYK,TOR,3,away,JS,,25,miss3,0,P. Tucker,
 117,2,8:32.0,36,28,NYK,TOR,2,away,OffReb,,,OffReb,,J. Valančiūnas,
 118,2,8:32.0,36,28,NYK,TOR,0,away,LU,,1,miss2,0,J. Valančiūnas,
@@ -131,7 +131,7 @@
 129,2,7:15.0,41,33,NYK,TOR,6,home,JS,,26,miss3,0,S. Vujačić,
 130,2,7:13.0,41,33,NYK,TOR,2,away,DefReb,,,DefReb,,P. Tucker,
 131,2,7:07.0,41,35,NYK,TOR,6,away,LU,assist,2,make2,2,D. DeRozan,K. Lowry
-132,2,6:57.0,41,35,NYK,TOR,10,home,BadPass,steal,,turnover,,C. Randle,K. Lowry
+132,2,6:57.0,41,35,NYK,TOR,10,home,bad pass,steal,,turnover,,C. Randle,K. Lowry
 133,2,6:53.0,41,37,NYK,TOR,4,away,LU,assist,2,make2,2,D. DeRozan,K. Lowry
 134,2,6:52.0,41,37,NYK,TOR,1,home,Timeout,,,,,,
 135,2,6:42.0,41,37,NYK,TOR,10,home,Timeout,,,,,,
@@ -185,7 +185,7 @@
 183,2,2:13.0,49,48,NYK,TOR,15,home,JS,assist,23,make3,3,J. Holiday,W. Hernangómez
 184,2,1:48.0,49,48,NYK,TOR,25,away,LU,block,2,miss2,0,C. Joseph,J. Holiday
 185,2,1:46.0,49,48,NYK,TOR,2,home,DefReb,,,DefReb,,R. Baker,
-186,2,1:38.0,49,48,NYK,TOR,8,home,LostBall,steal,,turnover,,R. Baker,N. Powell
+186,2,1:38.0,49,48,NYK,TOR,8,home,lost ball,steal,,turnover,,R. Baker,N. Powell
 187,2,1:34.0,49,50,NYK,TOR,4,away,DK,,0,make2,2,N. Powell,
 188,2,1:19.0,51,50,NYK,TOR,15,home,DK,assist,0,make2,2,M. Ndour,R. Baker
 189,2,1:03.0,51,50,NYK,TOR,16,away,JS,,24,miss3,0,N. Powell,
@@ -227,7 +227,7 @@
 225,3,8:41.0,59,58,NYK,TOR,19,away,Timeout,,,,,,
 226,3,8:39.0,59,58,NYK,TOR,2,away,JS,,26,miss3,0,K. Lowry,
 227,3,8:37.0,59,58,NYK,TOR,2,away,OffReb,,,OffReb,,J. Valančiūnas,
-228,3,8:21.0,59,58,NYK,TOR,16,away,BadPass,steal,,turnover,,D. DeRozan,C. Lee
+228,3,8:21.0,59,58,NYK,TOR,16,away,bad pass,steal,,turnover,,D. DeRozan,C. Lee
 229,3,8:12.0,59,58,NYK,TOR,9,home,JS,,24,miss3,0,R. Baker,
 230,3,8:11.0,59,58,NYK,TOR,1,away,DefReb,,,DefReb,,Team,
 231,3,8:11.0,59,58,NYK,TOR,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,W. Hernangómez,J. Valančiūnas
@@ -244,7 +244,7 @@
 242,3,7:04.0,61,60,NYK,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
 243,3,6:47.0,61,60,NYK,TOR,17,home,JS,,5,miss2,0,R. Baker,
 244,3,6:45.0,61,60,NYK,TOR,2,home,OffReb,,,OffReb,,W. Hernangómez,
-245,3,6:41.0,61,60,NYK,TOR,4,home,LostBall,steal,,turnover,,W. Hernangómez,K. Lowry
+245,3,6:41.0,61,60,NYK,TOR,4,home,lost ball,steal,,turnover,,W. Hernangómez,K. Lowry
 246,3,6:39.0,61,60,NYK,TOR,2,away,BadPass,,,turnover,,K. Lowry,
 247,3,6:16.0,63,60,NYK,TOR,23,home,JS,assist,16,make2,2,C. Lee,J. Holiday
 248,3,6:01.0,63,60,NYK,TOR,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Hernangómez,D. DeRozan
@@ -258,7 +258,7 @@
 256,3,5:28.0,63,62,NYK,TOR,2,away,DefReb,,,DefReb,,S. Ibaka,
 257,3,5:04.0,63,62,NYK,TOR,24,away,ShotClockViolation,,,turnover,,Team,
 258,3,4:54.0,65,62,NYK,TOR,10,home,LU,assist,2,make2,2,M. Ndour,J. Holiday
-259,3,4:33.0,65,62,NYK,TOR,21,away,LostBall,steal,,turnover,,D. DeRozan,R. Baker
+259,3,4:33.0,65,62,NYK,TOR,21,away,lost ball,steal,,turnover,,D. DeRozan,R. Baker
 260,3,4:29.0,67,62,NYK,TOR,4,home,DK,assist,0,make2,2,R. Baker,W. Hernangómez
 261,3,4:27.0,67,62,NYK,TOR,2,away,Timeout,,,,,,
 262,3,4:27.0,67,62,NYK,TOR,0,away,Sub,,,,,P. Patterson,D. Carroll
@@ -330,7 +330,7 @@
 328,4,7:11.0,82,90,NYK,TOR,12,home,JS,,25,miss3,0,C. Randle,
 329,4,7:09.0,82,90,NYK,TOR,2,away,DefReb,,,DefReb,,J. Poeltl,
 330,4,7:04.0,82,90,NYK,TOR,5,away,BadPass,,,turnover,,K. Lowry,
-331,4,6:48.0,82,90,NYK,TOR,16,home,LostBall,steal,,turnover,,K. O'Quinn,K. Lowry
+331,4,6:48.0,82,90,NYK,TOR,16,home,lost ball,steal,,turnover,,K. O'Quinn,K. Lowry
 332,4,6:44.0,82,90,NYK,TOR,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Lee,P. Tucker
 333,4,6:44.0,82,91,NYK,TOR,0,away,FreeThrow,,,make1,1,P. Tucker,
 334,4,6:44.0,82,91,NYK,TOR,0,home,Sub,,,,,J. Holiday,C. Randle
@@ -338,7 +338,7 @@
 336,4,6:23.0,82,92,NYK,TOR,21,home,JS,,4,miss2,0,W. Hernangómez,
 337,4,6:21.0,82,92,NYK,TOR,2,away,DefReb,,,DefReb,,J. Poeltl,
 338,4,6:08.0,82,95,NYK,TOR,13,away,JS,assist,24,make3,3,P. Tucker,C. Joseph
-339,4,5:44.0,82,95,NYK,TOR,24,home,BadPass,steal,,turnover,,W. Hernangómez,P. Patterson
+339,4,5:44.0,82,95,NYK,TOR,24,home,bad pass,steal,,turnover,,W. Hernangómez,P. Patterson
 340,4,5:37.0,82,98,NYK,TOR,7,away,JS,assist,25,make3,3,P. Patterson,K. Lowry
 341,4,5:36.0,82,98,NYK,TOR,1,home,Timeout,,,,,,
 342,4,5:36.0,82,98,NYK,TOR,0,home,Sub,,,,,M. Ndour,K. O'Quinn
@@ -349,7 +349,7 @@
 347,4,4:53.0,82,100,NYK,TOR,12,home,JS,,8,miss2,0,J. Holiday,
 348,4,4:52.0,82,100,NYK,TOR,1,away,DefReb,,,DefReb,,K. Lowry,
 349,4,4:48.0,82,100,NYK,TOR,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Holiday,K. Lowry
-350,4,4:37.0,82,100,NYK,TOR,11,away,BadPass,steal,,turnover,,C. Joseph,W. Hernangómez
+350,4,4:37.0,82,100,NYK,TOR,11,away,bad pass,steal,,turnover,,C. Joseph,W. Hernangómez
 351,4,4:16.0,82,100,NYK,TOR,21,home,LU,,2,miss2,0,W. Hernangómez,
 352,4,4:14.0,82,100,NYK,TOR,2,away,DefReb,,,DefReb,,K. Lowry,
 353,4,4:08.0,82,100,NYK,TOR,6,away,JS,,23,miss3,0,P. Patterson,
@@ -361,7 +361,7 @@
 359,4,3:41.0,84,100,NYK,TOR,2,home,DefReb,,,DefReb,,W. Hernangómez,
 360,4,3:30.0,84,100,NYK,TOR,11,home,LU,,3,miss2,0,W. Hernangómez,
 361,4,3:29.0,84,100,NYK,TOR,1,away,DefReb,,,DefReb,,J. Poeltl,
-362,4,3:27.0,84,100,NYK,TOR,2,away,BadPass,steal,,turnover,,J. Poeltl,W. Hernangómez
+362,4,3:27.0,84,100,NYK,TOR,2,away,bad pass,steal,,turnover,,J. Poeltl,W. Hernangómez
 363,4,3:23.0,87,100,NYK,TOR,4,home,JS,assist,24,make3,3,C. Lee,W. Hernangómez
 364,4,3:03.0,87,100,NYK,TOR,20,away,JS,,25,miss3,0,K. Lowry,
 365,4,3:01.0,87,100,NYK,TOR,2,away,OffReb,,,OffReb,,Team,

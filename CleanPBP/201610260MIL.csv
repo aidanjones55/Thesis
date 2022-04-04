@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:41.0,0,0,MIL,CHO,19,home,BadPass,steal,,turnover,,J. Parker,N. Batum
+0,1,11:41.0,0,0,MIL,CHO,19,home,bad pass,steal,,turnover,,J. Parker,N. Batum
 1,1,11:31.0,0,2,MIL,CHO,10,away,HS,,5,make2,2,M. Kidd-Gilchrist,
 2,1,11:13.0,2,2,MIL,CHO,18,home,JS,,5,make2,2,M. Dellavedova,
 3,1,10:59.0,2,4,MIL,CHO,14,away,JS,,6,make2,2,K. Walker,
@@ -18,7 +18,7 @@
 16,1,9:54.0,4,5,MIL,CHO,1,home,DefReb,,,DefReb,,J. Parker,
 17,1,9:51.0,4,5,MIL,CHO,3,home,BadPass,,,turnover,,J. Parker,
 18,1,9:35.0,4,7,MIL,CHO,16,away,LU,assist,1,make2,2,M. Kidd-Gilchrist,R. Hibbert
-19,1,9:18.0,4,7,MIL,CHO,17,home,BadPass,steal,,turnover,,M. Teletović,M. Kidd-Gilchrist
+19,1,9:18.0,4,7,MIL,CHO,17,home,bad pass,steal,,turnover,,M. Teletović,M. Kidd-Gilchrist
 20,1,9:16.0,4,7,MIL,CHO,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Dellavedova,M. Kidd-Gilchrist
 21,1,9:05.0,4,9,MIL,CHO,11,away,JS,assist,13,make2,2,M. Williams,K. Walker
 22,1,8:50.0,4,9,MIL,CHO,15,home,LU,,2,miss2,0,G. Antetokounmpo,
@@ -178,7 +178,7 @@
 176,2,4:38.0,34,43,MIL,CHO,0,away,Sub,,,,,M. Kidd-Gilchrist,J. Lamb
 177,2,4:25.0,34,46,MIL,CHO,13,away,JS,assist,27,make3,3,N. Batum,K. Walker
 178,2,4:11.0,36,46,MIL,CHO,14,home,JS,,22,make2,2,G. Antetokounmpo,
-179,2,4:02.0,36,46,MIL,CHO,9,away,BadPass,steal,,turnover,,K. Walker,G. Antetokounmpo
+179,2,4:02.0,36,46,MIL,CHO,9,away,bad pass,steal,,turnover,,K. Walker,G. Antetokounmpo
 180,2,3:59.0,36,46,MIL,CHO,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Walker,G. Antetokounmpo
 181,2,3:59.0,37,46,MIL,CHO,0,home,FreeThrow,,,make1,1,G. Antetokounmpo,
 182,2,3:59.0,37,46,MIL,CHO,0,home,FreeThrow,,,make1,0,G. Antetokounmpo,
@@ -226,7 +226,7 @@
 224,2,0:06.0,41,56,MIL,CHO,1,away,DefReb,,,DefReb,,M. Kidd-Gilchrist,
 225,2,0:00.0,41,56,MIL,CHO,6,away,JS,,26,miss3,0,K. Walker,
 226,2,0:00.0,41,56,MIL,CHO,0,away,OffReb,,,OffReb,,Team,
-227,3,11:39.0,41,56,MIL,CHO,21,away,BadPass,steal,,turnover,,N. Batum,M. Plumlee
+227,3,11:39.0,41,56,MIL,CHO,21,away,bad pass,steal,,turnover,,N. Batum,M. Plumlee
 228,3,11:34.0,41,56,MIL,CHO,5,home,LU,,1,miss2,0,J. Parker,
 229,3,11:32.0,41,56,MIL,CHO,2,away,DefReb,,,DefReb,,M. Williams,
 230,3,11:18.0,41,59,MIL,CHO,14,away,JS,,27,make3,3,K. Walker,
@@ -261,7 +261,7 @@
 259,3,7:53.0,47,65,MIL,CHO,0,away,FreeThrow,,,make1,0,N. Batum,
 260,3,7:51.0,47,65,MIL,CHO,2,home,DefReb,,,DefReb,,G. Monroe,
 261,3,7:44.0,47,65,MIL,CHO,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Hibbert,M. Dellavedova
-262,3,7:36.0,47,65,MIL,CHO,8,home,BadPass,steal,,turnover,,M. Dellavedova,N. Batum
+262,3,7:36.0,47,65,MIL,CHO,8,home,bad pass,steal,,turnover,,M. Dellavedova,N. Batum
 263,3,7:28.0,47,67,MIL,CHO,8,away,DK,assist,0,make2,2,R. Hibbert,N. Batum
 264,3,7:16.0,47,67,MIL,CHO,12,home,JS,,27,miss3,0,R. Vaughn,
 265,3,7:15.0,47,67,MIL,CHO,1,away,DefReb,,,DefReb,,M. Williams,
@@ -296,7 +296,7 @@
 294,3,4:01.0,57,75,MIL,CHO,17,away,JS,,19,make2,2,M. Belinelli,
 295,3,3:46.0,57,75,MIL,CHO,15,home,JS,,15,miss2,0,G. Monroe,
 296,3,3:45.0,57,75,MIL,CHO,1,away,DefReb,,,DefReb,,N. Batum,
-297,3,3:33.0,57,75,MIL,CHO,12,away,BadPass,steal,,turnover,,S. Hawes,G. Monroe
+297,3,3:33.0,57,75,MIL,CHO,12,away,bad pass,steal,,turnover,,S. Hawes,G. Monroe
 298,3,3:29.0,59,75,MIL,CHO,4,home,DK,assist,0,make2,2,M. Teletović,G. Antetokounmpo
 299,3,2:56.0,59,75,MIL,CHO,33,away,JS,,28,miss3,0,N. Batum,
 300,3,2:54.0,59,75,MIL,CHO,2,home,DefReb,,,DefReb,,G. Antetokounmpo,
@@ -367,13 +367,13 @@
 365,4,9:00.0,77,88,MIL,CHO,1,away,Timeout,,,,,,
 366,4,9:00.0,77,88,MIL,CHO,0,away,Sub,,,,,M. Williams,J. Lamb
 367,4,8:41.0,77,88,MIL,CHO,19,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Brogdon,M. Williams
-368,4,8:35.0,77,88,MIL,CHO,6,away,BadPass,steal,,turnover,,R. Sessions,M. Beasley
+368,4,8:35.0,77,88,MIL,CHO,6,away,bad pass,steal,,turnover,,R. Sessions,M. Beasley
 369,4,8:33.0,79,88,MIL,CHO,2,home,DK,assist,0,make2,2,M. Brogdon,M. Beasley
 370,4,8:14.0,79,90,MIL,CHO,19,away,LU,assist,1,make2,2,M. Kidd-Gilchrist,R. Hibbert
 371,4,8:14.0,79,90,MIL,CHO,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Antetokounmpo,M. Kidd-Gilchrist
 372,4,8:14.0,79,90,MIL,CHO,0,away,Sub,,,,,K. Walker,R. Sessions
 373,4,8:14.0,79,91,MIL,CHO,0,away,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
-374,4,8:01.0,79,91,MIL,CHO,13,home,LostBall,steal,,turnover,,G. Monroe,K. Walker
+374,4,8:01.0,79,91,MIL,CHO,13,home,lost ball,steal,,turnover,,G. Monroe,K. Walker
 375,4,7:55.0,79,91,MIL,CHO,6,away,JS,,16,miss2,0,M. Belinelli,
 376,4,7:53.0,79,91,MIL,CHO,2,home,DefReb,,,DefReb,,M. Brogdon,
 377,4,7:42.0,79,91,MIL,CHO,11,home,JS,,17,miss2,0,M. Beasley,
@@ -431,7 +431,7 @@
 429,4,2:24.0,89,101,MIL,CHO,0,away,DefReb,,,DefReb,,Team,
 430,4,2:05.0,89,101,MIL,CHO,19,away,JS,,29,miss3,0,K. Walker,
 431,4,2:02.0,89,101,MIL,CHO,3,home,DefReb,,,DefReb,,G. Antetokounmpo,
-432,4,1:50.0,89,101,MIL,CHO,12,home,LostBall,steal,,turnover,,G. Antetokounmpo,K. Walker
+432,4,1:50.0,89,101,MIL,CHO,12,home,lost ball,steal,,turnover,,G. Antetokounmpo,K. Walker
 433,4,1:27.0,89,101,MIL,CHO,23,away,JS,,12,miss2,0,M. Kidd-Gilchrist,
 434,4,1:25.0,89,101,MIL,CHO,2,away,OffReb,,,OffReb,,M. Kidd-Gilchrist,
 435,4,1:25.0,89,103,MIL,CHO,0,away,DK,,0,make2,2,M. Kidd-Gilchrist,

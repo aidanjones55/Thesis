@@ -6,8 +6,8 @@
 4,1,11:20.0,2,0,CHO,HOU,2,home,DefReb,,,DefReb,,K. Walker,
 5,1,11:15.0,2,0,CHO,HOU,5,home,LU,,2,miss2,0,C. Zeller,
 6,1,11:13.0,2,0,CHO,HOU,2,away,DefReb,,,DefReb,,R. Anderson,
-7,1,11:06.0,2,0,CHO,HOU,7,away,BadPass,steal,,turnover,,J. Harden,M. Williams
-8,1,11:03.0,2,0,CHO,HOU,3,home,BadPass,steal,,turnover,,M. Williams,T. Ariza
+7,1,11:06.0,2,0,CHO,HOU,7,away,bad pass,steal,,turnover,,J. Harden,M. Williams
+8,1,11:03.0,2,0,CHO,HOU,3,home,bad pass,steal,,turnover,,M. Williams,T. Ariza
 9,1,10:46.0,2,0,CHO,HOU,17,away,JS,,14,miss2,0,J. Harden,
 10,1,10:45.0,2,0,CHO,HOU,1,home,DefReb,,,DefReb,,N. Batum,
 11,1,10:40.0,2,0,CHO,HOU,5,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Zeller,J. Harden
@@ -50,9 +50,9 @@
 48,1,5:54.0,18,12,CHO,HOU,0,home,FreeThrow,,,make1,1,C. Zeller,
 49,1,5:33.0,18,12,CHO,HOU,21,away,JS,,15,miss2,0,J. Harden,
 50,1,5:32.0,18,12,CHO,HOU,1,home,DefReb,,,DefReb,,J. Lamb,
-51,1,5:23.0,18,12,CHO,HOU,9,home,BadPass,steal,,turnover,,K. Walker,J. Harden
+51,1,5:23.0,18,12,CHO,HOU,9,home,bad pass,steal,,turnover,,K. Walker,J. Harden
 52,1,5:18.0,18,12,CHO,HOU,5,away,BadPass,,,turnover,,C. Capela,
-53,1,5:07.0,18,12,CHO,HOU,11,home,BadPass,steal,,turnover,,K. Walker,C. Brewer
+53,1,5:07.0,18,12,CHO,HOU,11,home,bad pass,steal,,turnover,,K. Walker,C. Brewer
 54,1,4:59.0,18,12,CHO,HOU,8,away,LU,,1,miss2,0,J. Harden,
 55,1,4:57.0,18,12,CHO,HOU,2,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
 56,1,4:53.0,20,12,CHO,HOU,4,home,JS,assist,12,make2,2,J. Lamb,M. Kidd-Gilchrist
@@ -100,19 +100,19 @@
 98,1,0:03.0,27,23,CHO,HOU,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Brewer,B. Roberts
 99,1,0:03.0,28,23,CHO,HOU,0,home,FreeThrow,,,make1,1,F. Kaminsky,
 100,1,0:03.0,29,23,CHO,HOU,0,home,FreeThrow,,,make1,1,F. Kaminsky,
-101,2,11:55.0,29,23,CHO,HOU,5,away,BadPass,steal,,turnover,,M. Harrell,N. Batum
+101,2,11:55.0,29,23,CHO,HOU,5,away,bad pass,steal,,turnover,,M. Harrell,N. Batum
 102,2,11:51.0,29,23,CHO,HOU,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Harrell,N. Batum
 103,2,11:51.0,30,23,CHO,HOU,0,home,FreeThrow,,,make1,1,N. Batum,
 104,2,11:51.0,31,23,CHO,HOU,0,home,FreeThrow,,,make1,1,N. Batum,
 105,2,11:38.0,31,23,CHO,HOU,13,away,JS,,22,miss3,0,S. Dekker,
 106,2,11:37.0,31,23,CHO,HOU,1,home,DefReb,,,DefReb,,F. Kaminsky,
-107,2,11:35.0,31,23,CHO,HOU,2,home,BadPass,steal,,turnover,,F. Kaminsky,C. Brewer
+107,2,11:35.0,31,23,CHO,HOU,2,home,bad pass,steal,,turnover,,F. Kaminsky,C. Brewer
 108,2,11:29.0,31,26,CHO,HOU,6,away,JS,assist,25,make3,3,T. Ariza,S. Dekker
 109,2,11:08.0,33,26,CHO,HOU,21,home,JS,,21,make2,2,M. Belinelli,
 110,2,10:59.0,33,26,CHO,HOU,9,away,JS,,24,miss3,0,C. Brewer,
 111,2,10:58.0,33,26,CHO,HOU,1,home,DefReb,,,DefReb,,F. Kaminsky,
 112,2,10:49.0,33,26,CHO,HOU,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ariza,M. Plumlee
-113,2,10:39.0,33,26,CHO,HOU,10,home,BadPass,steal,,turnover,,B. Roberts,M. Harrell
+113,2,10:39.0,33,26,CHO,HOU,10,home,bad pass,steal,,turnover,,B. Roberts,M. Harrell
 114,2,10:34.0,33,28,CHO,HOU,5,away,DK,assist,0,make2,2,S. Dekker,P. Beverley
 115,2,10:15.0,35,28,CHO,HOU,19,home,LU,,2,make2,2,F. Kaminsky,
 116,2,10:15.0,35,28,CHO,HOU,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Harrell,F. Kaminsky
@@ -149,11 +149,11 @@
 147,2,6:39.0,40,39,CHO,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
 148,2,6:39.0,40,40,CHO,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
 149,2,6:17.0,42,40,CHO,HOU,22,home,LU,assist,1,make2,2,F. Kaminsky,N. Batum
-150,2,6:07.0,42,40,CHO,HOU,10,away,LostBall,steal,,turnover,,J. Harden,K. Walker
+150,2,6:07.0,42,40,CHO,HOU,10,away,lost ball,steal,,turnover,,J. Harden,K. Walker
 151,2,6:04.0,42,40,CHO,HOU,3,home,LU,block,2,miss2,0,K. Walker,S. Dekker
 152,2,6:04.0,42,40,CHO,HOU,0,home,OffReb,,,OffReb,,Team,
 153,2,6:04.0,42,40,CHO,HOU,0,home,Sub,,,,,C. Zeller,F. Kaminsky
-154,2,5:54.0,42,40,CHO,HOU,10,home,BadPass,steal,,turnover,,C. Zeller,P. Beverley
+154,2,5:54.0,42,40,CHO,HOU,10,home,bad pass,steal,,turnover,,C. Zeller,P. Beverley
 155,2,5:50.0,42,42,CHO,HOU,4,away,LU,,1,make2,2,P. Beverley,
 156,2,5:48.0,42,42,CHO,HOU,2,home,LostBall,,,turnover,,K. Walker,
 157,2,5:48.0,42,42,CHO,HOU,0,home,TechnicalFoul,,,TechnicalFoul,,K. Walker,
@@ -185,7 +185,7 @@
 183,2,3:28.0,48,47,CHO,HOU,11,away,LU,,1,make2,2,J. Harden,
 184,2,3:13.0,48,47,CHO,HOU,15,home,JS,,22,miss2,0,M. Williams,
 185,2,3:11.0,48,47,CHO,HOU,2,away,DefReb,,,DefReb,,R. Anderson,
-186,2,3:06.0,48,47,CHO,HOU,5,away,BadPass,steal,,turnover,,J. Harden,C. Zeller
+186,2,3:06.0,48,47,CHO,HOU,5,away,bad pass,steal,,turnover,,J. Harden,C. Zeller
 187,2,3:02.0,48,47,CHO,HOU,4,away,ChargeFoul,DrawnBy,,ChargeFoul,,C. Zeller,J. Harden
 188,2,3:02.0,48,47,CHO,HOU,0,home,OffensiveFoul,,,turnover,,C. Zeller,
 189,2,2:38.0,48,47,CHO,HOU,24,away,JS,,25,miss3,0,J. Harden,
@@ -213,8 +213,8 @@
 211,2,1:05.0,52,47,CHO,HOU,2,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
 212,2,1:01.0,52,47,CHO,HOU,4,home,JS,,25,miss3,0,K. Walker,
 213,2,1:00.0,52,47,CHO,HOU,1,away,DefReb,,,DefReb,,J. Harden,
-214,2,0:53.0,52,47,CHO,HOU,7,away,BadPass,steal,,turnover,,J. Harden,M. Williams
-215,2,0:47.0,52,47,CHO,HOU,6,home,BadPass,steal,,turnover,,M. Belinelli,T. Ariza
+214,2,0:53.0,52,47,CHO,HOU,7,away,bad pass,steal,,turnover,,J. Harden,M. Williams
+215,2,0:47.0,52,47,CHO,HOU,6,home,bad pass,steal,,turnover,,M. Belinelli,T. Ariza
 216,2,0:43.0,52,47,CHO,HOU,4,away,OffensiveFoul,,,turnover,,J. Harden,
 217,2,0:43.0,52,47,CHO,HOU,0,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Harden,K. Walker
 218,2,0:29.0,54,47,CHO,HOU,14,home,JS,,16,make2,2,K. Walker,
@@ -248,16 +248,16 @@
 246,3,8:25.0,63,58,CHO,HOU,0,away,OffReb,,,OffReb,,Team,
 247,3,8:25.0,63,59,CHO,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
 248,3,8:25.0,63,60,CHO,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
-249,3,8:06.0,63,60,CHO,HOU,19,home,BadPass,steal,,turnover,,N. Batum,C. Capela
+249,3,8:06.0,63,60,CHO,HOU,19,home,bad pass,steal,,turnover,,N. Batum,C. Capela
 250,3,8:00.0,63,63,CHO,HOU,6,away,JS,assist,23,make3,3,P. Beverley,T. Ariza
-251,3,7:46.0,63,63,CHO,HOU,14,home,BadPass,steal,,turnover,,K. Walker,C. Capela
+251,3,7:46.0,63,63,CHO,HOU,14,home,bad pass,steal,,turnover,,K. Walker,C. Capela
 252,3,7:39.0,63,63,CHO,HOU,7,away,LU,,1,miss2,0,J. Harden,
 253,3,7:38.0,63,63,CHO,HOU,1,home,DefReb,,,DefReb,,K. Walker,
 254,3,7:26.0,63,63,CHO,HOU,12,home,JS,,26,miss3,0,M. Williams,
 255,3,7:25.0,63,63,CHO,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
 256,3,7:14.0,63,66,CHO,HOU,11,away,JS,assist,24,make3,3,R. Anderson,J. Harden
 257,3,7:14.0,63,66,CHO,HOU,0,home,Timeout,,,,,,
-258,3,6:55.0,63,66,CHO,HOU,19,home,BadPass,steal,,turnover,,N. Batum,P. Beverley
+258,3,6:55.0,63,66,CHO,HOU,19,home,bad pass,steal,,turnover,,N. Batum,P. Beverley
 259,3,6:40.0,63,66,CHO,HOU,15,away,JS,,19,miss2,0,P. Beverley,
 260,3,6:39.0,63,66,CHO,HOU,1,home,DefReb,,,DefReb,,N. Batum,
 261,3,6:22.0,65,66,CHO,HOU,17,home,JS,,18,make2,2,K. Walker,
@@ -276,7 +276,7 @@
 274,3,4:56.0,65,70,CHO,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
 275,3,4:44.0,65,73,CHO,HOU,12,away,JS,,24,make3,3,J. Harden,
 276,3,4:23.0,67,73,CHO,HOU,21,home,JS,assist,18,make2,2,M. Kidd-Gilchrist,K. Walker
-277,3,4:11.0,67,73,CHO,HOU,12,away,BadPass,steal,,turnover,,J. Harden,C. Zeller
+277,3,4:11.0,67,73,CHO,HOU,12,away,bad pass,steal,,turnover,,J. Harden,C. Zeller
 278,3,4:05.0,67,73,CHO,HOU,6,home,JS,,25,miss3,0,J. Lamb,
 279,3,4:02.0,67,73,CHO,HOU,3,away,DefReb,,,DefReb,,J. Harden,
 280,3,3:59.0,67,73,CHO,HOU,3,away,JS,,25,miss3,0,T. Ariza,
@@ -315,7 +315,7 @@
 313,3,0:50.0,75,82,CHO,HOU,0,home,LU,,6,make2,2,M. Kidd-Gilchrist,
 314,3,0:34.0,75,82,CHO,HOU,16,away,LU,,1,miss2,0,M. Harrell,
 315,3,0:32.0,75,82,CHO,HOU,2,home,DefReb,,,DefReb,,J. Lamb,
-316,3,0:25.0,75,82,CHO,HOU,7,home,BadPass,steal,,turnover,,J. Lamb,C. Brewer
+316,3,0:25.0,75,82,CHO,HOU,7,home,bad pass,steal,,turnover,,J. Lamb,C. Brewer
 317,3,0:21.0,75,84,CHO,HOU,4,away,LU,assist,2,make2,2,M. Harrell,C. Brewer
 318,3,0:21.0,75,84,CHO,HOU,0,away,TechnicalFoul,,,TechnicalFoul,,M. Harrell,
 319,3,0:21.0,76,84,CHO,HOU,0,home,FreeThrow,,,make1,1,J. Lamb makes technical free throw,
@@ -337,7 +337,7 @@
 335,4,10:50.0,81,88,CHO,HOU,19,home,JS,assist,27,make3,3,B. Roberts,M. Belinelli
 336,4,10:34.0,81,88,CHO,HOU,16,away,JS,,25,miss3,0,S. Dekker,
 337,4,10:33.0,81,88,CHO,HOU,1,home,DefReb,,,DefReb,,M. Belinelli,
-338,4,10:28.0,81,88,CHO,HOU,5,home,LostBall,steal,,turnover,,M. Belinelli,P. Beverley
+338,4,10:28.0,81,88,CHO,HOU,5,home,lost ball,steal,,turnover,,M. Belinelli,P. Beverley
 339,4,10:23.0,81,90,CHO,HOU,5,away,DK,assist,0,make2,2,M. Harrell,P. Beverley
 340,4,10:01.0,81,90,CHO,HOU,22,home,JS,,26,miss3,0,F. Kaminsky,
 341,4,9:59.0,81,90,CHO,HOU,2,away,DefReb,,,DefReb,,C. Brewer,
@@ -368,12 +368,12 @@
 366,4,6:40.0,86,95,CHO,HOU,0,away,Sub,,,,,J. Harden,P. Beverley
 367,4,6:34.0,86,95,CHO,HOU,6,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,C. Capela,F. Kaminsky
 368,4,6:34.0,86,95,CHO,HOU,0,away,OffensiveFoul,,,turnover,,C. Capela,
-369,4,6:24.0,86,95,CHO,HOU,10,home,BadPass,steal,,turnover,,N. Batum,C. Capela
+369,4,6:24.0,86,95,CHO,HOU,10,home,bad pass,steal,,turnover,,N. Batum,C. Capela
 370,4,6:17.0,86,95,CHO,HOU,7,away,JS,,25,miss3,0,T. Ariza,
 371,4,6:15.0,86,95,CHO,HOU,2,home,DefReb,,,DefReb,,K. Walker,
 372,4,6:04.0,86,95,CHO,HOU,11,home,LU,,1,miss2,0,F. Kaminsky,
 373,4,6:02.0,86,95,CHO,HOU,2,away,DefReb,,,DefReb,,C. Capela,
-374,4,5:55.0,86,95,CHO,HOU,7,away,BadPass,steal,,turnover,,J. Harden,F. Kaminsky
+374,4,5:55.0,86,95,CHO,HOU,7,away,bad pass,steal,,turnover,,J. Harden,F. Kaminsky
 375,4,5:54.0,86,95,CHO,HOU,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Harden,K. Walker
 376,4,5:54.0,86,95,CHO,HOU,0,home,Timeout,,,,,,
 377,4,5:54.0,86,95,CHO,HOU,0,home,Sub,,,,,M. Kidd-Gilchrist,F. Kaminsky
@@ -388,7 +388,7 @@
 386,4,4:50.0,89,98,CHO,HOU,1,home,DefReb,,,DefReb,,M. Williams,
 387,4,4:40.0,89,98,CHO,HOU,10,home,JS,,14,miss2,0,N. Batum,
 388,4,4:39.0,89,98,CHO,HOU,1,away,DefReb,,,DefReb,,J. Harden,
-389,4,4:27.0,89,98,CHO,HOU,12,away,LostBall,steal,,turnover,,R. Anderson,M. Kidd-Gilchrist
+389,4,4:27.0,89,98,CHO,HOU,12,away,lost ball,steal,,turnover,,R. Anderson,M. Kidd-Gilchrist
 390,4,4:24.0,89,98,CHO,HOU,3,away,Sub,,,,,P. Beverley,C. Brewer
 391,4,4:16.0,89,98,CHO,HOU,8,home,JS,,25,miss3,0,M. Belinelli,
 392,4,4:15.0,89,98,CHO,HOU,1,away,DefReb,,,DefReb,,R. Anderson,

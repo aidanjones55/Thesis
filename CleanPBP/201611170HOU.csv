@@ -49,7 +49,7 @@
 47,1,5:45.0,18,14,HOU,POR,0,home,FreeThrow,,,make1,1,J. Harden,
 48,1,5:33.0,18,17,HOU,POR,12,away,JS,assist,27,make3,3,D. Lillard,A. Crabbe
 49,1,5:07.0,21,17,HOU,POR,26,home,JS,assist,27,make3,3,J. Harden,M. Harrell
-50,1,4:59.0,21,17,HOU,POR,8,away,LostBall,steal,,turnover,,M. Harkless,J. Harden
+50,1,4:59.0,21,17,HOU,POR,8,away,lost ball,steal,,turnover,,M. Harkless,J. Harden
 51,1,4:54.0,23,17,HOU,POR,5,home,LU,assist,2,make2,2,J. Harden,E. Gordon
 52,1,4:33.0,23,20,HOU,POR,21,away,JS,assist,26,make3,3,C. McCollum,M. Plumlee
 53,1,4:20.0,23,20,HOU,POR,13,home,JS,,12,miss2,0,E. Gordon,
@@ -57,7 +57,7 @@
 55,1,4:18.0,23,20,HOU,POR,0,home,LU,,1,miss2,0,E. Gordon,
 56,1,4:17.0,23,20,HOU,POR,1,home,OffReb,,,OffReb,,E. Gordon,
 57,1,4:17.0,25,20,HOU,POR,0,home,LU,,2,make2,2,E. Gordon,
-58,1,4:02.0,25,20,HOU,POR,15,away,BadPass,steal,,turnover,,D. Lillard,J. Harden
+58,1,4:02.0,25,20,HOU,POR,15,away,bad pass,steal,,turnover,,D. Lillard,J. Harden
 59,1,3:57.0,27,20,HOU,POR,5,home,DK,assist,0,make2,2,M. Harrell,J. Harden
 60,1,3:57.0,27,20,HOU,POR,0,away,Timeout,,,,,,
 61,1,3:57.0,27,20,HOU,POR,0,away,Sub,,,,,J. Layman,A. Crabbe
@@ -144,8 +144,8 @@
 142,2,8:19.0,48,42,HOU,POR,5,away,BadPass,,,turnover,,E. Turner,
 143,2,8:06.0,48,42,HOU,POR,13,home,JS,,4,miss2,0,R. Anderson,
 144,2,8:05.0,48,42,HOU,POR,1,away,DefReb,,,DefReb,,E. Davis,
-145,2,7:58.0,48,42,HOU,POR,7,away,LostBall,steal,,turnover,,C. McCollum,C. Capela
-146,2,7:56.0,48,42,HOU,POR,2,home,BadPass,steal,,turnover,,C. Capela,E. Turner
+145,2,7:58.0,48,42,HOU,POR,7,away,lost ball,steal,,turnover,,C. McCollum,C. Capela
+146,2,7:56.0,48,42,HOU,POR,2,home,bad pass,steal,,turnover,,C. Capela,E. Turner
 147,2,7:46.0,48,42,HOU,POR,10,away,JS,,25,miss3,0,E. Turner,
 148,2,7:46.0,48,42,HOU,POR,0,home,DefReb,,,DefReb,,P. Beverley,
 149,2,7:39.0,48,42,HOU,POR,7,home,JS,,26,miss3,0,E. Gordon,
@@ -190,7 +190,7 @@
 188,2,3:33.0,55,49,HOU,POR,20,home,JS,,12,miss2,0,J. Harden,
 189,2,3:32.0,55,49,HOU,POR,1,away,DefReb,,,DefReb,,M. Plumlee,
 190,2,3:24.0,55,51,HOU,POR,8,away,JS,,17,make2,2,D. Lillard,
-191,2,3:10.0,55,51,HOU,POR,14,home,LostBall,steal,,turnover,,J. Harden,A. Crabbe
+191,2,3:10.0,55,51,HOU,POR,14,home,lost ball,steal,,turnover,,J. Harden,A. Crabbe
 192,2,3:05.0,55,53,HOU,POR,5,away,DK,,0,make2,2,C. McCollum,
 193,2,3:05.0,55,53,HOU,POR,0,home,Timeout,,,,,,
 194,2,3:05.0,55,53,HOU,POR,0,home,Sub,,,,,P. Beverley,S. Dekker
@@ -225,7 +225,7 @@
 223,2,0:32.0,62,62,HOU,POR,6,away,LU,,1,make2,2,D. Lillard,
 224,2,0:18.0,62,62,HOU,POR,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Turner,T. Ariza
 225,3,11:44.0,64,62,HOU,POR,16,home,JS,,10,make2,2,J. Harden,
-226,3,11:24.0,64,62,HOU,POR,20,away,LostBall,steal,,turnover,,A. Crabbe,J. Harden
+226,3,11:24.0,64,62,HOU,POR,20,away,lost ball,steal,,turnover,,A. Crabbe,J. Harden
 227,3,11:15.0,67,62,HOU,POR,9,home,JS,assist,25,make3,3,P. Beverley,R. Anderson
 228,3,11:15.0,67,62,HOU,POR,0,away,Timeout,,,,,,
 229,3,11:15.0,67,62,HOU,POR,0,away,Sub,,,,,E. Turner,A. Crabbe
@@ -239,7 +239,7 @@
 237,3,9:50.0,71,68,HOU,POR,12,home,JS,,10,make2,2,J. Harden,
 238,3,9:26.0,71,70,HOU,POR,24,away,LU,assist,3,make2,2,E. Turner,M. Plumlee
 239,3,9:05.0,74,70,HOU,POR,21,home,JS,assist,24,make3,3,T. Ariza,P. Beverley
-240,3,8:49.0,74,70,HOU,POR,16,away,BadPass,steal,,turnover,,C. McCollum,T. Ariza
+240,3,8:49.0,74,70,HOU,POR,16,away,bad pass,steal,,turnover,,C. McCollum,T. Ariza
 241,3,8:40.0,77,70,HOU,POR,9,home,JS,assist,25,make3,3,T. Ariza,J. Harden
 242,3,8:19.0,77,70,HOU,POR,21,away,JS,,18,miss2,0,E. Turner,
 243,3,8:19.0,77,70,HOU,POR,0,home,DefReb,,,DefReb,,T. Ariza,
@@ -302,7 +302,7 @@
 300,3,2:43.0,94,78,HOU,POR,1,home,DefReb,,,DefReb,,M. Harrell,
 301,3,2:34.0,94,78,HOU,POR,9,home,LU,,3,miss2,0,M. Harrell,
 302,3,2:33.0,94,78,HOU,POR,1,home,OffReb,,,OffReb,,S. Dekker,
-303,3,2:30.0,94,78,HOU,POR,3,home,BadPass,steal,,turnover,,S. Dekker,E. Turner
+303,3,2:30.0,94,78,HOU,POR,3,home,bad pass,steal,,turnover,,S. Dekker,E. Turner
 304,3,2:26.0,94,80,HOU,POR,4,away,LU,,2,make2,2,E. Turner,
 305,3,2:08.0,94,80,HOU,POR,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Turner,J. Harden
 306,3,2:08.0,94,80,HOU,POR,0,home,Timeout,,,,,,
@@ -338,7 +338,7 @@
 336,4,11:18.0,103,83,HOU,POR,14,away,JS,,18,miss2,0,A. Crabbe,
 337,4,11:17.0,103,83,HOU,POR,1,away,OffReb,,,OffReb,,M. Harkless,
 338,4,11:17.0,103,85,HOU,POR,0,away,LU,,2,make2,2,M. Harkless,
-339,4,11:03.0,103,85,HOU,POR,14,home,BadPass,steal,,turnover,,E. Gordon,E. Davis
+339,4,11:03.0,103,85,HOU,POR,14,home,bad pass,steal,,turnover,,E. Gordon,E. Davis
 340,4,10:56.0,103,85,HOU,POR,7,away,LU,,2,miss2,0,C. McCollum,
 341,4,10:54.0,103,85,HOU,POR,2,away,OffReb,,,OffReb,,E. Davis,
 342,4,10:54.0,103,85,HOU,POR,0,away,LU,,1,miss2,0,E. Davis,
@@ -370,7 +370,7 @@
 368,4,8:27.0,109,87,HOU,POR,0,home,FreeThrow,,,make1,1,R. Anderson,
 369,4,8:27.0,109,87,HOU,POR,0,home,FreeThrow,,,make1,0,R. Anderson,
 370,4,8:27.0,109,87,HOU,POR,0,away,DefReb,,,DefReb,,M. Plumlee,
-371,4,8:19.0,109,87,HOU,POR,8,away,BadPass,steal,,turnover,,D. Lillard,C. Brewer
+371,4,8:19.0,109,87,HOU,POR,8,away,bad pass,steal,,turnover,,D. Lillard,C. Brewer
 372,4,8:15.0,111,87,HOU,POR,4,home,LU,,2,make2,2,C. Brewer,
 373,4,8:06.0,111,89,HOU,POR,9,away,JS,,11,make2,2,D. Lillard,
 374,4,8:06.0,111,89,HOU,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Brewer,D. Lillard
@@ -418,10 +418,10 @@
 416,4,4:38.0,119,96,HOU,POR,18,home,JS,,19,miss2,0,M. Harrell,
 417,4,4:37.0,119,96,HOU,POR,1,away,DefReb,,,DefReb,,J. Layman,
 418,4,4:27.0,119,99,HOU,POR,10,away,JS,assist,23,make3,3,M. Leonard,S. Napier
-419,4,4:14.0,119,99,HOU,POR,13,home,BadPass,steal,,turnover,,M. Harrell,S. Napier
+419,4,4:14.0,119,99,HOU,POR,13,home,bad pass,steal,,turnover,,M. Harrell,S. Napier
 420,4,4:08.0,119,99,HOU,POR,6,away,JS,,26,miss3,0,S. Napier,
 421,4,4:06.0,119,99,HOU,POR,2,home,DefReb,,,DefReb,,M. Harrell,
-422,4,3:58.0,119,99,HOU,POR,8,home,LostBall,steal,,turnover,,B. Brown,S. Napier
+422,4,3:58.0,119,99,HOU,POR,8,home,lost ball,steal,,turnover,,B. Brown,S. Napier
 423,4,3:52.0,119,101,HOU,POR,6,away,LU,assist,2,make2,2,P. Connaughton,S. Napier
 424,4,3:25.0,122,101,HOU,POR,27,home,JS,assist,26,make3,3,T. Ennis,M. Harrell
 425,4,2:59.0,122,103,HOU,POR,26,away,JS,assist,18,make2,2,N. Vonleh,S. Napier

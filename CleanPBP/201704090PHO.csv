@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:42.0,0,0,PHO,DAL,18,away,LostBall,steal,,turnover,,W. Matthews,T. Warren
+0,1,11:42.0,0,0,PHO,DAL,18,away,lost ball,steal,,turnover,,W. Matthews,T. Warren
 1,1,11:27.0,0,0,PHO,DAL,15,home,JS,,18,miss2,0,D. Booker,
 2,1,11:25.0,0,0,PHO,DAL,2,away,DefReb,,,DefReb,,W. Matthews,
 3,1,11:12.0,0,2,PHO,DAL,13,away,LU,assist,3,make2,2,N. Noel,D. Finney-Smith
@@ -63,7 +63,7 @@
 61,1,3:50.0,28,19,PHO,DAL,16,away,JS,,24,make3,3,Y. Ferrell,
 62,1,3:41.0,28,19,PHO,DAL,9,home,JS,,21,miss2,0,M. Chriss,
 63,1,3:40.0,28,19,PHO,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
-64,1,3:38.0,28,19,PHO,DAL,2,away,BadPass,steal,,turnover,,D. Nowitzki,T. Warren
+64,1,3:38.0,28,19,PHO,DAL,2,away,bad pass,steal,,turnover,,D. Nowitzki,T. Warren
 65,1,3:35.0,28,19,PHO,DAL,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Noel,A. Len
 66,1,3:35.0,28,19,PHO,DAL,0,home,FreeThrow,,,make1,0,A. Len,
 67,1,3:35.0,28,19,PHO,DAL,0,home,OffReb,,,OffReb,,Team,
@@ -74,7 +74,7 @@
 72,1,2:53.0,29,21,PHO,DAL,14,away,LU,,3,miss2,0,N. Noel,
 73,1,2:53.0,29,21,PHO,DAL,0,away,OffReb,,,OffReb,,Y. Ferrell,
 74,1,2:49.0,29,24,PHO,DAL,4,away,JS,,22,make3,3,Y. Ferrell,
-75,1,2:38.0,29,24,PHO,DAL,11,home,BadPass,steal,,turnover,,D. Booker,N. Noel
+75,1,2:38.0,29,24,PHO,DAL,11,home,bad pass,steal,,turnover,,D. Booker,N. Noel
 76,1,2:33.0,29,26,PHO,DAL,5,away,LU,assist,1,make2,2,N. Brussino,N. Noel
 77,1,2:33.0,29,26,PHO,DAL,0,home,Timeout,,,,,,
 78,1,2:33.0,29,26,PHO,DAL,0,home,Sub,,,,,J. Dudley,M. Chriss
@@ -92,7 +92,7 @@
 90,1,1:31.0,34,28,PHO,DAL,0,home,FreeThrow,,,make1,1,J. Dudley,
 91,1,1:31.0,34,28,PHO,DAL,0,away,Sub,,,,,D. Powell,D. Nowitzki
 92,1,1:31.0,35,28,PHO,DAL,0,home,FreeThrow,,,make1,1,J. Dudley,
-93,1,1:14.0,35,28,PHO,DAL,17,away,BadPass,steal,,turnover,,D. Harris,D. Bender
+93,1,1:14.0,35,28,PHO,DAL,17,away,bad pass,steal,,turnover,,D. Harris,D. Bender
 94,1,1:02.0,35,28,PHO,DAL,12,home,LU,,1,miss2,0,D. Bender,
 95,1,1:02.0,35,28,PHO,DAL,0,home,OffReb,,,OffReb,,D. Bender,
 96,1,1:02.0,37,28,PHO,DAL,0,home,LU,,1,make2,2,D. Bender,
@@ -319,7 +319,7 @@
 317,3,1:25.0,99,85,PHO,DAL,0,home,FreeThrow,,,make1,1,A. Williams,
 318,3,1:25.0,99,85,PHO,DAL,0,away,Sub,,,,,A. Hammons,D. Powell
 319,3,1:25.0,100,85,PHO,DAL,0,home,FreeThrow,,,make1,1,A. Williams,
-320,3,1:13.0,100,85,PHO,DAL,12,away,BadPass,steal,,turnover,,Y. Ferrell,D. Jones
+320,3,1:13.0,100,85,PHO,DAL,12,away,bad pass,steal,,turnover,,Y. Ferrell,D. Jones
 321,3,1:07.0,102,85,PHO,DAL,6,home,LU,assist,1,make2,2,T. Warren,A. Williams
 322,3,0:48.0,102,85,PHO,DAL,19,away,JS,,25,miss3,0,J. Uthoff,
 323,3,0:47.0,102,85,PHO,DAL,1,away,OffReb,,,OffReb,,D. Finney-Smith,
@@ -340,8 +340,8 @@
 338,4,11:13.0,104,88,PHO,DAL,4,away,JS,assist,25,make3,3,D. Powell,Y. Ferrell
 339,4,11:03.0,106,88,PHO,DAL,10,home,JS,assist,17,make2,2,D. Jones,R. Price
 340,4,10:48.0,106,88,PHO,DAL,15,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,R. Price,D. Powell
-341,4,10:36.0,106,88,PHO,DAL,12,away,BadPass,steal,,turnover,,J. Uthoff,D. Jones
-342,4,10:30.0,106,88,PHO,DAL,6,home,LostBall,steal,,turnover,,D. Jones,D. Powell
+341,4,10:36.0,106,88,PHO,DAL,12,away,bad pass,steal,,turnover,,J. Uthoff,D. Jones
+342,4,10:30.0,106,88,PHO,DAL,6,home,lost ball,steal,,turnover,,D. Jones,D. Powell
 343,4,10:17.0,106,88,PHO,DAL,13,away,JS,,20,miss2,0,D. Powell,
 344,4,10:17.0,106,88,PHO,DAL,0,home,DefReb,,,DefReb,,E. Millsap,
 345,4,9:56.0,106,88,PHO,DAL,21,home,DK,,0,miss2,0,A. Len,
@@ -352,8 +352,8 @@
 350,4,9:37.0,106,89,PHO,DAL,0,away,FreeThrow,,,make1,1,A. Hammons,
 351,4,9:37.0,106,89,PHO,DAL,0,away,FreeThrow,,,make1,0,A. Hammons,
 352,4,9:37.0,106,89,PHO,DAL,0,home,DefReb,,,DefReb,,A. Len,
-353,4,9:12.0,106,89,PHO,DAL,25,home,BadPass,steal,,turnover,,E. Millsap,D. Powell
-354,4,9:10.0,106,89,PHO,DAL,2,away,BadPass,steal,,turnover,,D. Powell,D. Jones
+353,4,9:12.0,106,89,PHO,DAL,25,home,bad pass,steal,,turnover,,E. Millsap,D. Powell
+354,4,9:10.0,106,89,PHO,DAL,2,away,bad pass,steal,,turnover,,D. Powell,D. Jones
 355,4,9:01.0,106,89,PHO,DAL,9,home,JS,,25,miss3,0,E. Millsap,
 356,4,9:00.0,106,89,PHO,DAL,1,home,OffReb,,,OffReb,,D. Jones,
 357,4,9:00.0,108,89,PHO,DAL,0,home,DK,,0,make2,2,D. Jones,
@@ -381,7 +381,7 @@
 379,4,6:13.0,114,93,PHO,DAL,14,home,LU,,2,miss2,0,E. Millsap,
 380,4,6:13.0,114,93,PHO,DAL,0,away,DefReb,,,DefReb,,D. Powell,
 381,4,6:02.0,114,95,PHO,DAL,11,away,JS,,22,make2,2,D. Powell,
-382,4,5:50.0,114,95,PHO,DAL,12,home,LostBall,steal,,turnover,,A. Len,D. Finney-Smith
+382,4,5:50.0,114,95,PHO,DAL,12,home,lost ball,steal,,turnover,,A. Len,D. Finney-Smith
 383,4,5:44.0,114,95,PHO,DAL,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Millsap,D. Finney-Smith
 384,4,5:44.0,114,95,PHO,DAL,0,home,Timeout,,,,,,
 385,4,5:44.0,114,96,PHO,DAL,0,away,FreeThrow,,,make1,1,D. Finney-Smith,
@@ -416,7 +416,7 @@
 414,4,2:21.0,121,105,PHO,DAL,0,away,FreeThrow,,,make1,0,J. Uthoff,
 415,4,2:21.0,121,105,PHO,DAL,0,away,OffReb,,,OffReb,,Team,
 416,4,2:21.0,121,106,PHO,DAL,0,away,FreeThrow,,,make1,1,J. Uthoff,
-417,4,1:59.0,121,106,PHO,DAL,22,home,LostBall,steal,,turnover,,D. Bender,J. Uthoff
+417,4,1:59.0,121,106,PHO,DAL,22,home,lost ball,steal,,turnover,,D. Bender,J. Uthoff
 418,4,1:55.0,121,106,PHO,DAL,4,away,BadPass,,,turnover,,N. Brussino,
 419,4,1:40.0,121,106,PHO,DAL,15,home,JS,block,4,miss2,0,D. Jones,D. Powell
 420,4,1:39.0,121,106,PHO,DAL,1,away,DefReb,,,DefReb,,N. Brussino,

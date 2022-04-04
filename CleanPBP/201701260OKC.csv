@@ -10,10 +10,10 @@
 8,1,11:11.0,0,1,OKC,DAL,4,home,OutOfBounds,,,turnover,,A. Roberson,
 9,1,10:55.0,0,1,OKC,DAL,16,away,JS,,18,miss2,0,H. Barnes,
 10,1,10:55.0,0,1,OKC,DAL,0,home,DefReb,,,DefReb,,R. Westbrook,
-11,1,10:50.0,0,1,OKC,DAL,5,home,LostBall,steal,,turnover,,D. Sabonis,D. Finney-Smith
+11,1,10:50.0,0,1,OKC,DAL,5,home,lost ball,steal,,turnover,,D. Sabonis,D. Finney-Smith
 12,1,10:38.0,0,1,OKC,DAL,12,away,JS,,24,miss3,0,S. Curry,
 13,1,10:37.0,0,1,OKC,DAL,1,home,DefReb,,,DefReb,,A. Roberson,
-14,1,10:28.0,0,1,OKC,DAL,9,home,LostBall,steal,,turnover,,V. Oladipo,S. Curry
+14,1,10:28.0,0,1,OKC,DAL,9,home,lost ball,steal,,turnover,,V. Oladipo,S. Curry
 15,1,10:04.0,0,1,OKC,DAL,24,away,JS,,14,miss2,0,H. Barnes,
 16,1,10:04.0,0,1,OKC,DAL,0,home,DefReb,,,DefReb,,D. Sabonis,
 17,1,9:57.0,0,1,OKC,DAL,7,home,JS,,21,miss2,0,V. Oladipo,
@@ -57,7 +57,7 @@
 55,1,5:01.0,16,14,OKC,DAL,0,home,DefReb,,,DefReb,,R. Westbrook,
 56,1,4:53.0,16,14,OKC,DAL,8,home,JS,,22,miss3,0,A. Roberson,
 57,1,4:53.0,16,14,OKC,DAL,0,away,DefReb,,,DefReb,,J. Anderson,
-58,1,4:39.0,16,14,OKC,DAL,14,away,BadPass,steal,,turnover,,D. Finney-Smith,R. Westbrook
+58,1,4:39.0,16,14,OKC,DAL,14,away,bad pass,steal,,turnover,,D. Finney-Smith,R. Westbrook
 59,1,4:39.0,16,14,OKC,DAL,0,home,ClearPathFoul,,,ClearPathFoul,,D. Harris,
 60,1,4:39.0,16,14,OKC,DAL,0,home,FreeThrow,,,make1,0,R. Westbrook misses clear path free throw 1 of 2,
 61,1,4:39.0,16,14,OKC,DAL,0,home,OffReb,,,OffReb,,Team,
@@ -76,9 +76,9 @@
 74,1,3:31.0,21,17,OKC,DAL,18,home,JS,assist,24,make3,3,Á. Abrines,E. Freedom
 75,1,3:15.0,21,17,OKC,DAL,16,away,LU,,1,miss2,0,S. Curry,
 76,1,3:14.0,21,17,OKC,DAL,1,home,DefReb,,,DefReb,,A. Roberson,
-77,1,3:09.0,21,17,OKC,DAL,5,home,LostBall,steal,,turnover,,R. Westbrook,D. Harris
+77,1,3:09.0,21,17,OKC,DAL,5,home,lost ball,steal,,turnover,,R. Westbrook,D. Harris
 78,1,2:55.0,21,20,OKC,DAL,14,away,JS,assist,24,make3,3,J. Anderson,D. Harris
-79,1,2:39.0,21,20,OKC,DAL,16,home,LostBall,steal,,turnover,,E. Freedom,D. Finney-Smith
+79,1,2:39.0,21,20,OKC,DAL,16,home,lost ball,steal,,turnover,,E. Freedom,D. Finney-Smith
 80,1,2:27.0,21,20,OKC,DAL,12,away,JS,,25,miss3,0,J. Anderson,
 81,1,2:26.0,21,20,OKC,DAL,1,home,DefReb,,,DefReb,,E. Freedom,
 82,1,2:22.0,21,20,OKC,DAL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Anderson,Á. Abrines
@@ -92,7 +92,7 @@
 90,1,2:11.0,23,20,OKC,DAL,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Roberson,H. Barnes
 91,1,2:11.0,23,20,OKC,DAL,0,home,Sub,,,,,J. Grant,A. Roberson
 92,1,1:59.0,23,22,OKC,DAL,12,away,HS,,8,make2,2,H. Barnes,
-93,1,1:46.0,23,22,OKC,DAL,13,home,LostBall,steal,,turnover,,E. Freedom,D. Harris
+93,1,1:46.0,23,22,OKC,DAL,13,home,lost ball,steal,,turnover,,E. Freedom,D. Harris
 94,1,1:40.0,23,22,OKC,DAL,6,away,JS,,24,miss3,0,D. Harris,
 95,1,1:39.0,23,22,OKC,DAL,1,away,OffReb,,,OffReb,,P. Jackson,
 96,1,1:24.0,23,22,OKC,DAL,15,away,JS,,13,miss2,0,H. Barnes,
@@ -215,8 +215,8 @@
 213,2,1:00.0,48,52,OKC,DAL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,R. Westbrook
 214,2,1:00.0,49,52,OKC,DAL,0,home,FreeThrow,,,make1,1,R. Westbrook,
 215,2,1:00.0,50,52,OKC,DAL,0,home,FreeThrow,,,make1,1,R. Westbrook,
-216,2,0:51.0,50,52,OKC,DAL,9,away,BadPass,steal,,turnover,,S. Curry,V. Oladipo
-217,2,0:37.0,50,52,OKC,DAL,14,home,BadPass,steal,,turnover,,R. Westbrook,H. Barnes
+216,2,0:51.0,50,52,OKC,DAL,9,away,bad pass,steal,,turnover,,S. Curry,V. Oladipo
+217,2,0:37.0,50,52,OKC,DAL,14,home,bad pass,steal,,turnover,,R. Westbrook,H. Barnes
 218,2,0:29.0,50,52,OKC,DAL,8,away,JS,,24,miss3,0,S. Curry,
 219,2,0:29.0,50,52,OKC,DAL,0,home,DefReb,,,DefReb,,S. Adams,
 220,2,0:10.0,50,52,OKC,DAL,19,home,LU,block,1,miss2,0,R. Westbrook,D. Finney-Smith
@@ -226,7 +226,7 @@
 224,2,0:00.0,53,55,OKC,DAL,5,away,JS,assist,23,make3,3,D. Finney-Smith,H. Barnes
 225,3,11:43.0,55,55,OKC,DAL,17,home,HS,,7,make2,2,S. Adams,
 226,3,11:17.0,55,57,OKC,DAL,26,away,JS,,9,make2,2,N. Brussino,
-227,3,11:05.0,55,57,OKC,DAL,12,home,BadPass,steal,,turnover,,R. Westbrook,D. Finney-Smith
+227,3,11:05.0,55,57,OKC,DAL,12,home,bad pass,steal,,turnover,,R. Westbrook,D. Finney-Smith
 228,3,11:02.0,55,57,OKC,DAL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Sabonis,D. Finney-Smith
 229,3,11:02.0,55,58,OKC,DAL,0,away,FreeThrow,,,make1,1,D. Finney-Smith,
 230,3,11:02.0,55,59,OKC,DAL,0,away,FreeThrow,,,make1,1,D. Finney-Smith,
@@ -240,11 +240,11 @@
 238,3,10:08.0,60,59,OKC,DAL,17,away,JS,,12,miss2,0,H. Barnes,
 239,3,10:07.0,60,59,OKC,DAL,1,home,DefReb,,,DefReb,,V. Oladipo,
 240,3,9:58.0,62,59,OKC,DAL,9,home,JS,,22,make2,2,V. Oladipo,
-241,3,9:39.0,62,59,OKC,DAL,19,away,BadPass,steal,,turnover,,A. Bogut,D. Sabonis
+241,3,9:39.0,62,59,OKC,DAL,19,away,bad pass,steal,,turnover,,A. Bogut,D. Sabonis
 242,3,9:28.0,62,59,OKC,DAL,11,home,JS,,24,miss3,0,V. Oladipo,
 243,3,9:27.0,62,59,OKC,DAL,1,away,DefReb,,,DefReb,,N. Brussino,
 244,3,9:11.0,62,59,OKC,DAL,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,V. Oladipo,H. Barnes
-245,3,9:04.0,62,59,OKC,DAL,7,away,BadPass,steal,,turnover,,A. Bogut,A. Roberson
+245,3,9:04.0,62,59,OKC,DAL,7,away,bad pass,steal,,turnover,,A. Bogut,A. Roberson
 246,3,9:01.0,64,59,OKC,DAL,3,home,LU,assist,1,make2,2,V. Oladipo,R. Westbrook
 247,3,9:01.0,64,59,OKC,DAL,0,away,Timeout,,,,,,
 248,3,8:35.0,64,61,OKC,DAL,26,away,HS,assist,10,make2,2,A. Bogut,N. Brussino
@@ -258,7 +258,7 @@
 256,3,6:49.0,68,64,OKC,DAL,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,V. Oladipo,H. Barnes
 257,3,6:49.0,68,64,OKC,DAL,0,home,Sub,,,,,Á. Abrines,V. Oladipo
 258,3,6:38.0,68,64,OKC,DAL,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Roberson,H. Barnes
-259,3,6:37.0,68,64,OKC,DAL,1,away,LostBall,steal,,turnover,,S. Curry,R. Westbrook
+259,3,6:37.0,68,64,OKC,DAL,1,away,lost ball,steal,,turnover,,S. Curry,R. Westbrook
 260,3,6:21.0,68,64,OKC,DAL,16,home,JS,,9,miss2,0,R. Westbrook,
 261,3,6:20.0,68,64,OKC,DAL,1,home,OffReb,,,OffReb,,A. Roberson,
 262,3,6:12.0,68,64,OKC,DAL,8,home,JS,,23,miss3,0,R. Westbrook,
@@ -328,7 +328,7 @@
 326,3,1:06.0,83,71,OKC,DAL,16,home,JS,assist,22,make3,3,C. Payne,V. Oladipo
 327,3,0:47.0,83,71,OKC,DAL,19,away,JS,,15,miss2,0,D. Finney-Smith,
 328,3,0:46.0,83,71,OKC,DAL,1,away,OffReb,,,OffReb,,S. Mejri,
-329,3,0:41.0,83,71,OKC,DAL,5,away,BadPass,steal,,turnover,,N. Brussino,V. Oladipo
+329,3,0:41.0,83,71,OKC,DAL,5,away,bad pass,steal,,turnover,,N. Brussino,V. Oladipo
 330,3,0:39.0,83,71,OKC,DAL,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Brussino,V. Oladipo
 331,3,0:39.0,84,71,OKC,DAL,0,home,FreeThrow,,,make1,1,V. Oladipo,
 332,3,0:39.0,84,71,OKC,DAL,0,away,Sub,,,,,H. Barnes,N. Brussino
@@ -353,15 +353,15 @@
 351,4,10:02.0,87,79,OKC,DAL,27,away,LU,,1,make2,2,H. Barnes,
 352,4,10:02.0,87,79,OKC,DAL,0,home,Timeout,,,,,,
 353,4,10:02.0,87,79,OKC,DAL,0,home,Sub,,,,,K. Singler,Á. Abrines
-354,4,9:48.0,87,79,OKC,DAL,14,home,LostBall,steal,,turnover,,C. Payne,D. Harris
+354,4,9:48.0,87,79,OKC,DAL,14,home,lost ball,steal,,turnover,,C. Payne,D. Harris
 355,4,9:30.0,87,79,OKC,DAL,18,away,JS,,12,miss2,0,H. Barnes,
 356,4,9:29.0,87,79,OKC,DAL,1,away,OffReb,,,OffReb,,J. Anderson,
 357,4,9:23.0,87,82,OKC,DAL,6,away,JS,assist,25,make3,3,D. Finney-Smith,H. Barnes
 358,4,9:10.0,87,82,OKC,DAL,13,home,JS,,12,miss2,0,C. Payne,
 359,4,9:10.0,87,82,OKC,DAL,0,away,DefReb,,,DefReb,,D. Finney-Smith,
 360,4,8:50.0,87,84,OKC,DAL,20,away,LU,assist,1,make2,2,H. Barnes,D. Powell
-361,4,8:38.0,87,84,OKC,DAL,12,home,BadPass,steal,,turnover,,V. Oladipo,D. Harris
-362,4,8:32.0,87,84,OKC,DAL,6,away,BadPass,steal,,turnover,,D. Harris,V. Oladipo
+361,4,8:38.0,87,84,OKC,DAL,12,home,bad pass,steal,,turnover,,V. Oladipo,D. Harris
+362,4,8:32.0,87,84,OKC,DAL,6,away,bad pass,steal,,turnover,,D. Harris,V. Oladipo
 363,4,8:24.0,90,84,OKC,DAL,8,home,JS,assist,25,make3,3,D. Sabonis,J. Grant
 364,4,8:23.0,90,84,OKC,DAL,1,away,Timeout,,,,,,
 365,4,8:23.0,90,84,OKC,DAL,0,home,Sub,,,,,R. Westbrook,C. Payne
@@ -377,7 +377,7 @@
 375,4,7:29.0,90,86,OKC,DAL,0,home,Sub,,,,,S. Adams,D. Sabonis
 376,4,7:16.0,90,86,OKC,DAL,13,away,JS,,24,miss3,0,D. Powell,
 377,4,7:16.0,90,86,OKC,DAL,0,home,DefReb,,,DefReb,,R. Westbrook,
-378,4,7:10.0,90,86,OKC,DAL,6,home,BadPass,steal,,turnover,,R. Westbrook,D. Finney-Smith
+378,4,7:10.0,90,86,OKC,DAL,6,home,bad pass,steal,,turnover,,R. Westbrook,D. Finney-Smith
 379,4,6:51.0,90,86,OKC,DAL,19,away,JS,,8,miss2,0,H. Barnes,
 380,4,6:51.0,90,86,OKC,DAL,0,home,DefReb,,,DefReb,,R. Westbrook,
 381,4,6:45.0,92,86,OKC,DAL,6,home,LU,,1,make2,2,R. Westbrook,

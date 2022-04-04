@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:45.0,0,0,IND,CLE,15,home,JS,,23,miss3,0,C. Miles,
 1,1,11:44.0,0,0,IND,CLE,1,away,DefReb,,,DefReb,,K. Love,
-2,1,11:29.0,0,0,IND,CLE,15,away,BadPass,steal,,turnover,,K. Love,P. George
+2,1,11:29.0,0,0,IND,CLE,15,away,bad pass,steal,,turnover,,K. Love,P. George
 3,1,11:20.0,0,0,IND,CLE,9,home,HS,,11,miss2,0,T. Young,
 4,1,11:18.0,0,0,IND,CLE,2,home,OffReb,,,OffReb,,P. George,
 5,1,11:18.0,0,0,IND,CLE,0,home,LU,,1,miss2,0,P. George,
@@ -11,7 +11,7 @@
 9,1,10:48.0,2,0,IND,CLE,11,home,LU,,2,make2,2,J. Teague,
 10,1,10:32.0,2,0,IND,CLE,16,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Smith,T. Young
 11,1,10:32.0,2,0,IND,CLE,0,away,OffensiveFoul,,,turnover,,J. Smith,
-12,1,10:17.0,2,0,IND,CLE,15,home,BadPass,steal,,turnover,,P. George,J. Smith
+12,1,10:17.0,2,0,IND,CLE,15,home,bad pass,steal,,turnover,,P. George,J. Smith
 13,1,9:58.0,2,0,IND,CLE,19,away,LU,,2,miss2,0,K. Love,
 14,1,9:58.0,2,0,IND,CLE,0,home,DefReb,,,DefReb,,M. Turner,
 15,1,9:40.0,5,0,IND,CLE,18,home,JS,assist,26,make3,3,C. Miles,P. George
@@ -29,13 +29,13 @@
 27,1,8:33.0,5,3,IND,CLE,0,away,FreeThrow,,,make1,1,L. James,
 28,1,8:21.0,5,3,IND,CLE,12,home,JS,,19,miss2,0,T. Young,
 29,1,8:19.0,5,3,IND,CLE,2,away,DefReb,,,DefReb,,L. James,
-30,1,8:01.0,5,3,IND,CLE,18,away,BadPass,steal,,turnover,,L. James,P. George
+30,1,8:01.0,5,3,IND,CLE,18,away,bad pass,steal,,turnover,,L. James,P. George
 31,1,7:54.0,5,3,IND,CLE,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Irving,T. Young
 32,1,7:54.0,6,3,IND,CLE,0,home,FreeThrow,,,make1,1,T. Young,
 33,1,7:54.0,6,3,IND,CLE,0,home,FreeThrow,,,make1,0,T. Young,
 34,1,7:54.0,6,3,IND,CLE,0,away,DefReb,,,DefReb,,K. Love,
 35,1,7:43.0,6,5,IND,CLE,11,away,JS,,16,make2,2,K. Irving,
-36,1,7:39.0,6,5,IND,CLE,4,home,BadPass,steal,,turnover,,M. Turner,T. Thompson
+36,1,7:39.0,6,5,IND,CLE,4,home,bad pass,steal,,turnover,,M. Turner,T. Thompson
 37,1,7:32.0,6,5,IND,CLE,7,away,JS,,26,miss3,0,K. Love,
 38,1,7:31.0,6,5,IND,CLE,1,home,DefReb,,,DefReb,,T. Young,
 39,1,7:23.0,6,5,IND,CLE,8,home,JS,,23,miss3,0,C. Miles,
@@ -89,7 +89,7 @@
 87,1,2:22.0,18,18,IND,CLE,23,away,JS,,22,make2,2,J. Smith,
 88,1,2:00.0,18,18,IND,CLE,22,home,JS,,19,miss2,0,L. Stephenson,
 89,1,2:00.0,18,18,IND,CLE,0,away,DefReb,,,DefReb,,K. Love,
-90,1,1:50.0,18,18,IND,CLE,10,away,BadPass,steal,,turnover,,L. James,P. George
+90,1,1:50.0,18,18,IND,CLE,10,away,bad pass,steal,,turnover,,L. James,P. George
 91,1,1:35.0,20,18,IND,CLE,15,home,JS,,18,make2,2,L. Stephenson,
 92,1,1:25.0,20,18,IND,CLE,10,away,Timeout,,,,,,
 93,1,1:25.0,20,18,IND,CLE,0,away,Sub,,,,,C. Frye,L. James
@@ -105,7 +105,7 @@
 103,1,0:28.0,24,22,IND,CLE,6,home,JS,,5,make2,2,J. Teague,
 104,1,0:09.0,24,22,IND,CLE,19,away,JS,,26,miss3,0,K. Korver,
 105,1,0:08.0,24,22,IND,CLE,1,home,DefReb,,,DefReb,,M. Ellis,
-106,1,0:02.0,24,22,IND,CLE,6,home,BadPass,steal,,turnover,,M. Ellis,I. Shumpert
+106,1,0:02.0,24,22,IND,CLE,6,home,bad pass,steal,,turnover,,M. Ellis,I. Shumpert
 107,1,0:00.0,24,22,IND,CLE,2,away,JS,,43,miss3,0,K. Irving,
 108,1,0:00.0,24,22,IND,CLE,0,away,OffReb,,,OffReb,,Team,
 109,2,11:50.0,24,22,IND,CLE,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Séraphin,C. Frye
@@ -247,8 +247,8 @@
 245,3,10:30.0,58,62,IND,CLE,13,home,JS,assist,19,make2,2,M. Turner,J. Teague
 246,3,10:05.0,58,62,IND,CLE,25,away,JS,,28,miss3,0,J. Smith,
 247,3,10:04.0,58,62,IND,CLE,1,home,DefReb,,,DefReb,,M. Turner,
-248,3,9:52.0,58,62,IND,CLE,12,home,BadPass,steal,,turnover,,J. Teague,L. James
-249,3,9:36.0,58,62,IND,CLE,16,away,BadPass,steal,,turnover,,T. Thompson,J. Teague
+248,3,9:52.0,58,62,IND,CLE,12,home,bad pass,steal,,turnover,,J. Teague,L. James
+249,3,9:36.0,58,62,IND,CLE,16,away,bad pass,steal,,turnover,,T. Thompson,J. Teague
 250,3,9:18.0,58,62,IND,CLE,18,home,DK,,1,miss2,0,T. Young,
 251,3,9:17.0,58,62,IND,CLE,1,away,DefReb,,,DefReb,,J. Smith,
 252,3,9:10.0,58,65,IND,CLE,7,away,JS,assist,25,make3,3,K. Love,L. James
@@ -274,7 +274,7 @@
 272,3,6:28.0,66,72,IND,CLE,0,home,FreeThrow,,,make1,1,M. Turner,
 273,3,6:28.0,66,72,IND,CLE,0,home,FreeThrow,,,make1,0,M. Turner,
 274,3,6:27.0,66,72,IND,CLE,1,away,DefReb,,,DefReb,,Team,
-275,3,6:10.0,66,72,IND,CLE,17,away,BadPass,steal,,turnover,,L. James,T. Young
+275,3,6:10.0,66,72,IND,CLE,17,away,bad pass,steal,,turnover,,L. James,T. Young
 276,3,6:06.0,66,72,IND,CLE,4,home,LU,block,1,miss2,0,T. Young,L. James
 277,3,6:06.0,66,72,IND,CLE,0,home,OffReb,,,OffReb,,Team,
 278,3,6:01.0,66,72,IND,CLE,5,home,HS,,8,miss2,0,T. Young,
@@ -330,7 +330,7 @@
 328,3,1:32.0,75,86,IND,CLE,7,home,JS,,4,miss2,0,J. Teague,
 329,3,1:30.0,75,86,IND,CLE,2,home,OffReb,,,OffReb,,T. Young,
 330,3,1:27.0,77,86,IND,CLE,3,home,HS,,6,make2,2,T. Young,
-331,3,1:07.0,77,86,IND,CLE,20,away,LostBall,steal,,turnover,,K. Love,T. Young
+331,3,1:07.0,77,86,IND,CLE,20,away,lost ball,steal,,turnover,,K. Love,T. Young
 332,3,1:00.0,77,86,IND,CLE,7,home,LU,,1,miss2,0,T. Young,
 333,3,1:00.0,77,86,IND,CLE,0,away,DefReb,,,DefReb,,Team,
 334,3,1:00.0,77,86,IND,CLE,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,G. Robinson,K. Irving
@@ -382,12 +382,12 @@
 380,4,7:54.0,90,96,IND,CLE,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Stephenson,L. James
 381,4,7:43.0,90,96,IND,CLE,11,away,JS,,30,miss3,0,K. Korver,
 382,4,7:41.0,90,96,IND,CLE,2,home,DefReb,,,DefReb,,J. Teague,
-383,4,7:32.0,90,96,IND,CLE,9,home,BadPass,steal,,turnover,,P. George,L. James
+383,4,7:32.0,90,96,IND,CLE,9,home,bad pass,steal,,turnover,,P. George,L. James
 384,4,7:25.0,90,96,IND,CLE,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Young,T. Thompson
 385,4,7:25.0,90,97,IND,CLE,0,away,FreeThrow,,,make1,1,T. Thompson,
 386,4,7:25.0,90,98,IND,CLE,0,away,FreeThrow,,,make1,1,T. Thompson,
 387,4,7:09.0,90,98,IND,CLE,16,away,Sub,,,,,J. Smith,K. Korver
-388,4,6:54.0,90,98,IND,CLE,15,home,LostBall,steal,,turnover,,L. Stephenson,L. James
+388,4,6:54.0,90,98,IND,CLE,15,home,lost ball,steal,,turnover,,L. Stephenson,L. James
 389,4,6:52.0,90,98,IND,CLE,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Stephenson,L. James
 390,4,6:36.0,90,98,IND,CLE,16,away,LU,,4,miss2,0,K. Irving,
 391,4,6:35.0,90,98,IND,CLE,1,home,DefReb,,,DefReb,,M. Turner,
@@ -409,7 +409,7 @@
 407,4,4:18.0,98,100,IND,CLE,10,home,LU,assist,3,make2,2,M. Turner,T. Young
 408,4,4:17.0,98,100,IND,CLE,1,away,Timeout,,,,,,
 409,4,4:17.0,98,100,IND,CLE,0,away,Sub,,,,,K. Korver,T. Thompson
-410,4,3:59.0,98,100,IND,CLE,18,away,BadPass,steal,,turnover,,K. Irving,J. Teague
+410,4,3:59.0,98,100,IND,CLE,18,away,bad pass,steal,,turnover,,K. Irving,J. Teague
 411,4,3:53.0,98,100,IND,CLE,6,home,JS,,29,miss3,0,J. Teague,
 412,4,3:52.0,98,100,IND,CLE,1,away,DefReb,,,DefReb,,K. Korver,
 413,4,3:34.0,98,100,IND,CLE,18,away,JS,,11,miss2,0,K. Irving,
@@ -426,7 +426,7 @@
 424,4,2:11.0,100,100,IND,CLE,2,away,OffReb,,,OffReb,,K. Love,
 425,4,2:09.0,100,100,IND,CLE,2,away,LU,block,1,miss2,0,L. James,J. Teague
 426,4,2:08.0,100,100,IND,CLE,1,home,DefReb,,,DefReb,,L. Stephenson,
-427,4,2:04.0,100,100,IND,CLE,4,home,BadPass,steal,,turnover,,P. George,K. Irving
+427,4,2:04.0,100,100,IND,CLE,4,home,bad pass,steal,,turnover,,P. George,K. Irving
 428,4,1:46.0,100,100,IND,CLE,18,away,JS,,10,miss2,0,K. Irving,
 429,4,1:45.0,100,100,IND,CLE,1,home,DefReb,,,DefReb,,P. George,
 430,4,1:31.0,100,100,IND,CLE,14,home,JS,,8,miss2,0,P. George,
@@ -435,7 +435,7 @@
 433,4,1:31.0,102,100,IND,CLE,0,away,Timeout,,,,,,
 434,4,1:31.0,102,100,IND,CLE,0,away,Sub,,,,,K. Korver,T. Thompson
 435,4,1:08.0,102,103,IND,CLE,23,away,JS,,28,make3,3,L. James,
-436,4,0:48.0,102,103,IND,CLE,20,home,LostBall,steal,,turnover,,T. Young,L. James
+436,4,0:48.0,102,103,IND,CLE,20,home,lost ball,steal,,turnover,,T. Young,L. James
 437,4,0:26.0,102,103,IND,CLE,22,away,JS,,28,miss3,0,L. James,
 438,4,0:25.0,102,103,IND,CLE,1,away,OffReb,,,OffReb,,K. Irving,
 439,4,0:19.0,102,103,IND,CLE,6,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,L. Stephenson,K. Korver
@@ -445,8 +445,8 @@
 443,4,0:19.0,102,105,IND,CLE,0,away,Sub,,,,,I. Shumpert,K. Korver
 444,4,0:19.0,102,105,IND,CLE,0,away,FreeThrow,,,make1,1,K. Korver,
 445,4,0:19.0,102,105,IND,CLE,0,home,Timeout,,,,,,
-446,4,0:11.0,102,105,IND,CLE,8,home,BadPass,steal,,turnover,,J. Teague,J. Smith
-447,4,0:08.0,102,105,IND,CLE,3,away,BadPass,steal,,turnover,,J. Smith,P. George
+446,4,0:11.0,102,105,IND,CLE,8,home,bad pass,steal,,turnover,,J. Teague,J. Smith
+447,4,0:08.0,102,105,IND,CLE,3,away,bad pass,steal,,turnover,,J. Smith,P. George
 448,4,0:02.0,102,105,IND,CLE,6,home,JS,,27,miss3,0,P. George,
 449,4,0:01.0,102,105,IND,CLE,1,away,DefReb,,,DefReb,,L. James,
 450,4,0:01.0,102,105,IND,CLE,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Turner,L. James

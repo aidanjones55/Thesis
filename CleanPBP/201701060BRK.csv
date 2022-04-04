@@ -19,7 +19,7 @@
 17,1,9:44.0,2,3,BRK,CLE,11,away,JS,,23,miss3,0,K. Love,
 18,1,9:43.0,2,3,BRK,CLE,1,home,DefReb,,,DefReb,,B. Bogdanović,
 19,1,9:40.0,4,3,BRK,CLE,3,home,DK,assist,0,make2,2,T. Booker,B. Bogdanović
-20,1,9:29.0,4,3,BRK,CLE,11,away,BadPass,steal,,turnover,,L. James,B. Bogdanović
+20,1,9:29.0,4,3,BRK,CLE,11,away,bad pass,steal,,turnover,,L. James,B. Bogdanović
 21,1,9:25.0,6,3,BRK,CLE,4,home,LU,,2,make2,2,B. Bogdanović,
 22,1,9:24.0,6,3,BRK,CLE,1,away,Timeout,,,,,,
 23,1,9:08.0,6,5,BRK,CLE,16,away,JS,assist,4,make2,2,T. Thompson,K. Irving
@@ -45,7 +45,7 @@
 43,1,6:54.0,9,7,BRK,CLE,2,away,DefReb,,,DefReb,,T. Thompson,
 44,1,6:49.0,9,7,BRK,CLE,5,away,LU,,1,miss2,0,K. Irving,
 45,1,6:48.0,9,7,BRK,CLE,1,home,DefReb,,,DefReb,,T. Booker,
-46,1,6:42.0,9,7,BRK,CLE,6,home,BadPass,steal,,turnover,,T. Booker,L. James
+46,1,6:42.0,9,7,BRK,CLE,6,home,bad pass,steal,,turnover,,T. Booker,L. James
 47,1,6:31.0,9,7,BRK,CLE,11,away,LU,block,2,miss2,0,L. James,J. Hamilton
 48,1,6:29.0,9,7,BRK,CLE,2,home,DefReb,,,DefReb,,T. Booker,
 49,1,6:23.0,11,7,BRK,CLE,6,home,LU,assist,2,make2,2,B. Bogdanović,T. Booker
@@ -53,7 +53,7 @@
 51,1,6:09.0,11,9,BRK,CLE,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Dinwiddie,K. Irving
 52,1,6:09.0,11,9,BRK,CLE,0,home,Sub,,,,,I. Whitehead,S. Dinwiddie
 53,1,6:09.0,11,10,BRK,CLE,0,away,FreeThrow,,,make1,1,K. Irving,
-54,1,5:56.0,11,10,BRK,CLE,13,home,BadPass,steal,,turnover,,B. Bogdanović,T. Thompson
+54,1,5:56.0,11,10,BRK,CLE,13,home,bad pass,steal,,turnover,,B. Bogdanović,T. Thompson
 55,1,5:40.0,11,12,BRK,CLE,16,away,JS,,16,make2,2,L. James,
 56,1,5:28.0,11,12,BRK,CLE,12,home,JS,,13,miss2,0,I. Whitehead,
 57,1,5:26.0,11,12,BRK,CLE,2,away,DefReb,,,DefReb,,L. James,
@@ -70,7 +70,7 @@
 68,1,4:55.0,14,13,BRK,CLE,1,home,DefReb,,,DefReb,,I. Whitehead,
 69,1,4:50.0,16,13,BRK,CLE,5,home,JS,assist,14,make2,2,C. LeVert,I. Whitehead
 70,1,4:29.0,16,13,BRK,CLE,21,away,BadPass,,,turnover,,L. James,
-71,1,4:23.0,16,13,BRK,CLE,6,home,LostBall,steal,,turnover,,I. Whitehead,K. Irving
+71,1,4:23.0,16,13,BRK,CLE,6,home,lost ball,steal,,turnover,,I. Whitehead,K. Irving
 72,1,4:19.0,16,13,BRK,CLE,4,away,LU,,2,miss2,0,K. Irving,
 73,1,4:17.0,16,13,BRK,CLE,2,away,OffReb,,,OffReb,,T. Thompson,
 74,1,4:16.0,16,13,BRK,CLE,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hamilton,T. Thompson
@@ -110,7 +110,7 @@
 108,1,1:37.0,18,22,BRK,CLE,11,away,LU,,2,make2,2,L. James,
 109,1,1:20.0,20,22,BRK,CLE,17,home,LU,assist,1,make2,2,S. Kilpatrick,I. Whitehead
 110,1,1:03.0,20,24,BRK,CLE,17,away,JS,,5,make2,2,L. James,
-111,1,0:52.0,20,24,BRK,CLE,11,home,LostBall,steal,,turnover,,B. Lopez,C. Frye
+111,1,0:52.0,20,24,BRK,CLE,11,home,lost ball,steal,,turnover,,B. Lopez,C. Frye
 112,1,0:41.0,20,24,BRK,CLE,11,away,JS,,25,miss3,0,C. Frye,
 113,1,0:40.0,20,24,BRK,CLE,1,home,DefReb,,,DefReb,,I. Whitehead,
 114,1,0:34.0,20,24,BRK,CLE,6,away,KickBallViolation,,,KickBallViolation,,I. Shumpert,
@@ -138,15 +138,15 @@
 136,2,10:23.0,23,26,BRK,CLE,0,home,Sub,,,,,J. Hamilton,B. Lopez
 137,2,10:23.0,24,26,BRK,CLE,0,home,FreeThrow,,,make1,1,R. Hollis-Jefferson,
 138,2,10:10.0,24,26,BRK,CLE,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Hollis-Jefferson,K. Love
-139,2,10:00.0,24,26,BRK,CLE,10,away,LostBall,steal,,turnover,,K. Love,R. Hollis-Jefferson
+139,2,10:00.0,24,26,BRK,CLE,10,away,lost ball,steal,,turnover,,K. Love,R. Hollis-Jefferson
 140,2,9:57.0,24,26,BRK,CLE,3,home,BadPass,,,turnover,,I. Whitehead,
 141,2,9:53.0,24,26,BRK,CLE,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Hollis-Jefferson,K. Love
 142,2,9:53.0,24,26,BRK,CLE,0,home,Sub,,,,,T. Booker,R. Hollis-Jefferson
 143,2,9:43.0,24,28,BRK,CLE,10,away,JS,,19,make2,2,I. Shumpert,
 144,2,9:19.0,24,28,BRK,CLE,24,home,JS,,25,miss3,0,J. Hamilton,
 145,2,9:17.0,24,28,BRK,CLE,2,away,DefReb,,,DefReb,,I. Shumpert,
-146,2,9:06.0,24,28,BRK,CLE,11,away,LostBall,steal,,turnover,,K. Love,J. Hamilton
-147,2,8:51.0,24,28,BRK,CLE,15,home,LostBall,steal,,turnover,,J. Hamilton,C. Frye
+146,2,9:06.0,24,28,BRK,CLE,11,away,lost ball,steal,,turnover,,K. Love,J. Hamilton
+147,2,8:51.0,24,28,BRK,CLE,15,home,lost ball,steal,,turnover,,J. Hamilton,C. Frye
 148,2,8:41.0,24,28,BRK,CLE,10,away,JS,,22,miss3,0,R. Jefferson,
 149,2,8:40.0,24,28,BRK,CLE,1,home,DefReb,,,DefReb,,T. Booker,
 150,2,8:32.0,26,28,BRK,CLE,8,home,JS,assist,12,make2,2,J. Hamilton,T. Booker
@@ -184,7 +184,7 @@
 182,2,5:50.0,33,34,BRK,CLE,0,home,Sub,,,,,B. Lopez,B. Bogdanović
 183,2,5:50.0,33,34,BRK,CLE,0,home,Sub,,,,,S. Dinwiddie,T. Booker
 184,2,5:50.0,33,34,BRK,CLE,0,home,Sub,,,,,S. Kilpatrick,I. Whitehead
-185,2,5:32.0,33,34,BRK,CLE,18,home,LostBall,steal,,turnover,,J. Harris,K. Irving
+185,2,5:32.0,33,34,BRK,CLE,18,home,lost ball,steal,,turnover,,J. Harris,K. Irving
 186,2,5:14.0,33,34,BRK,CLE,18,away,LU,,2,miss2,0,K. Irving,
 187,2,5:13.0,33,34,BRK,CLE,1,away,OffReb,,,OffReb,,Team,
 188,2,5:13.0,33,34,BRK,CLE,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Kilpatrick,T. Thompson
@@ -211,7 +211,7 @@
 209,2,3:31.0,36,37,BRK,CLE,0,home,FreeThrow,,,make1,1,B. Lopez,
 210,2,3:31.0,36,37,BRK,CLE,0,home,FreeThrow,,,make1,0,B. Lopez,
 211,2,3:30.0,36,37,BRK,CLE,1,away,DefReb,,,DefReb,,K. Irving,
-212,2,3:25.0,36,37,BRK,CLE,5,away,LostBall,steal,,turnover,,L. James,J. Harris
+212,2,3:25.0,36,37,BRK,CLE,5,away,lost ball,steal,,turnover,,L. James,J. Harris
 213,2,3:19.0,36,37,BRK,CLE,6,home,JS,,12,miss2,0,T. Booker,
 214,2,3:15.0,36,37,BRK,CLE,4,away,DefReb,,,DefReb,,J. McRae,
 215,2,3:09.0,36,37,BRK,CLE,6,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Harris,L. James
@@ -229,7 +229,7 @@
 227,2,2:26.0,36,41,BRK,CLE,1,away,DefReb,,,DefReb,,K. Love,
 228,2,2:21.0,36,41,BRK,CLE,5,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,L. James,S. Dinwiddie
 229,2,2:21.0,36,41,BRK,CLE,0,away,OffensiveFoul,,,turnover,,L. James,
-230,2,2:00.0,36,41,BRK,CLE,21,home,LostBall,steal,,turnover,,B. Lopez,C. Frye
+230,2,2:00.0,36,41,BRK,CLE,21,home,lost ball,steal,,turnover,,B. Lopez,C. Frye
 231,2,1:56.0,36,43,BRK,CLE,4,away,DK,assist,0,make2,2,L. James,J. McRae
 232,2,1:45.0,36,43,BRK,CLE,11,home,JS,,16,miss2,0,S. Dinwiddie,
 233,2,1:44.0,36,43,BRK,CLE,1,away,DefReb,,,DefReb,,K. Love,
@@ -241,7 +241,7 @@
 239,2,1:29.0,36,46,BRK,CLE,6,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Lopez,J. McRae
 240,2,1:29.0,36,46,BRK,CLE,0,home,OffensiveFoul,,,turnover,,B. Lopez,
 241,2,1:17.0,36,48,BRK,CLE,12,away,LU,assist,2,make2,2,L. James,K. Love
-242,2,1:04.0,36,48,BRK,CLE,13,home,LostBall,steal,,turnover,,T. Booker,D. Liggins
+242,2,1:04.0,36,48,BRK,CLE,13,home,lost ball,steal,,turnover,,T. Booker,D. Liggins
 243,2,1:00.0,36,50,BRK,CLE,4,away,LU,assist,3,make2,2,D. Liggins,L. James
 244,2,0:47.0,36,50,BRK,CLE,13,home,HS,,8,miss2,0,T. Booker,
 245,2,0:46.0,36,50,BRK,CLE,1,away,DefReb,,,DefReb,,D. Liggins,
@@ -280,7 +280,7 @@
 278,3,10:16.0,44,55,BRK,CLE,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Thompson,B. Lopez
 279,3,10:09.0,47,55,BRK,CLE,7,home,JS,assist,25,make3,3,B. Bogdanović,T. Booker
 280,3,9:58.0,47,57,BRK,CLE,11,away,DK,assist,0,make2,2,L. James,K. Love
-281,3,9:41.0,47,57,BRK,CLE,17,home,BadPass,steal,,turnover,,B. Bogdanović,D. Liggins
+281,3,9:41.0,47,57,BRK,CLE,17,home,bad pass,steal,,turnover,,B. Bogdanović,D. Liggins
 282,3,9:40.0,47,57,BRK,CLE,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Booker,L. James
 283,3,9:28.0,47,57,BRK,CLE,12,away,OutOfBounds,,,turnover,,T. Thompson,
 284,3,9:21.0,47,57,BRK,CLE,7,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,K. Love,S. Dinwiddie
@@ -317,7 +317,7 @@
 315,3,5:57.0,53,69,BRK,CLE,12,home,LostBall,,,turnover,,T. Booker,
 316,3,5:48.0,53,69,BRK,CLE,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Bogdanović,L. James
 317,3,5:48.0,53,69,BRK,CLE,0,home,Sub,,,,,C. LeVert,B. Bogdanović
-318,3,5:44.0,53,69,BRK,CLE,4,away,BadPass,steal,,turnover,,T. Thompson,I. Whitehead
+318,3,5:44.0,53,69,BRK,CLE,4,away,bad pass,steal,,turnover,,T. Thompson,I. Whitehead
 319,3,5:42.0,53,69,BRK,CLE,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Irving,I. Whitehead
 320,3,5:42.0,55,69,BRK,CLE,0,home,LU,,3,make2,2,I. Whitehead,
 321,3,5:42.0,55,69,BRK,CLE,0,home,FreeThrow,,,make1,0,I. Whitehead,
@@ -331,7 +331,7 @@
 329,3,4:57.0,55,73,BRK,CLE,17,home,JS,,25,miss3,0,S. Kilpatrick,
 330,3,4:56.0,55,73,BRK,CLE,1,away,DefReb,,,DefReb,,K. Irving,
 331,3,4:45.0,55,75,BRK,CLE,11,away,LU,,2,make2,2,L. James,
-332,3,4:30.0,55,75,BRK,CLE,15,home,BadPass,steal,,turnover,,I. Whitehead,T. Thompson
+332,3,4:30.0,55,75,BRK,CLE,15,home,bad pass,steal,,turnover,,I. Whitehead,T. Thompson
 333,3,4:28.0,55,75,BRK,CLE,2,home,Sub,,,,,R. Hollis-Jefferson,T. Booker
 334,3,4:28.0,55,75,BRK,CLE,0,away,Sub,,,,,C. Frye,K. Love
 335,3,4:28.0,55,75,BRK,CLE,0,away,Sub,,,,,J. McRae,K. Irving
@@ -359,7 +359,7 @@
 357,3,3:14.0,59,79,BRK,CLE,5,home,LU,,2,make2,2,I. Whitehead,
 358,3,2:51.0,59,79,BRK,CLE,23,away,JS,,24,miss3,0,J. McRae,
 359,3,2:50.0,59,79,BRK,CLE,1,home,DefReb,,,DefReb,,J. Hamilton,
-360,3,2:46.0,59,79,BRK,CLE,4,home,BadPass,steal,,turnover,,I. Whitehead,C. Frye
+360,3,2:46.0,59,79,BRK,CLE,4,home,bad pass,steal,,turnover,,I. Whitehead,C. Frye
 361,3,2:41.0,59,81,BRK,CLE,5,away,DK,assist,0,make2,2,L. James,T. Thompson
 362,3,2:25.0,61,81,BRK,CLE,16,home,LU,assist,3,make2,2,S. Kilpatrick,C. LeVert
 363,3,2:10.0,61,81,BRK,CLE,15,away,Timeout,,,,,,
@@ -383,7 +383,7 @@
 381,3,0:50.0,65,86,BRK,CLE,10,away,LU,,1,make2,2,L. James,
 382,3,0:38.0,65,86,BRK,CLE,12,home,JS,,25,miss3,0,C. LeVert,
 383,3,0:37.0,65,86,BRK,CLE,1,away,DefReb,,,DefReb,,L. James,
-384,3,0:22.0,65,86,BRK,CLE,15,away,BadPass,steal,,turnover,,R. Jefferson,R. Hollis-Jefferson
+384,3,0:22.0,65,86,BRK,CLE,15,away,bad pass,steal,,turnover,,R. Jefferson,R. Hollis-Jefferson
 385,3,0:19.0,67,86,BRK,CLE,3,home,LU,assist,1,make2,2,C. LeVert,R. Hollis-Jefferson
 386,3,0:19.0,67,86,BRK,CLE,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. McRae,C. LeVert
 387,3,0:19.0,68,86,BRK,CLE,0,home,FreeThrow,,,make1,1,C. LeVert,
@@ -409,7 +409,7 @@
 407,4,9:45.0,80,87,BRK,CLE,0,away,FreeThrow,,,make1,1,K. Irving,
 408,4,9:45.0,80,87,BRK,CLE,0,away,Sub,,,,,T. Thompson,C. Frye
 409,4,9:45.0,80,88,BRK,CLE,0,away,FreeThrow,,,make1,1,K. Irving,
-410,4,9:31.0,80,88,BRK,CLE,14,home,LostBall,steal,,turnover,,B. Lopez,T. Thompson
+410,4,9:31.0,80,88,BRK,CLE,14,home,lost ball,steal,,turnover,,B. Lopez,T. Thompson
 411,4,9:23.0,80,88,BRK,CLE,8,away,JS,,6,miss2,0,K. Irving,
 412,4,9:22.0,80,88,BRK,CLE,1,away,OffReb,,,OffReb,,K. Love,
 413,4,9:21.0,80,88,BRK,CLE,1,away,LU,,1,miss2,0,K. Love,
@@ -452,7 +452,7 @@
 450,4,5:03.0,91,100,BRK,CLE,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Bogdanović,K. Love
 451,4,4:49.0,91,100,BRK,CLE,14,away,JS,,16,miss2,0,L. James,
 452,4,4:48.0,91,100,BRK,CLE,1,home,DefReb,,,DefReb,,T. Booker,
-453,4,4:38.0,91,100,BRK,CLE,10,home,BadPass,steal,,turnover,,S. Dinwiddie,I. Shumpert
+453,4,4:38.0,91,100,BRK,CLE,10,home,bad pass,steal,,turnover,,S. Dinwiddie,I. Shumpert
 454,4,4:31.0,91,100,BRK,CLE,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. LeVert,K. Irving
 455,4,4:31.0,91,101,BRK,CLE,0,away,FreeThrow,,,make1,1,K. Irving,
 456,4,4:31.0,91,102,BRK,CLE,0,away,FreeThrow,,,make1,1,K. Irving,
@@ -486,7 +486,7 @@
 484,4,0:49.0,106,113,BRK,CLE,24,away,JS,,25,miss3,0,C. Frye,
 485,4,0:48.0,106,113,BRK,CLE,1,home,DefReb,,,DefReb,,Team,
 486,4,0:48.0,106,113,BRK,CLE,0,away,Sub,,,,,T. Thompson,C. Frye
-487,4,0:37.0,106,113,BRK,CLE,11,home,BadPass,steal,,turnover,,C. LeVert,L. James
+487,4,0:37.0,106,113,BRK,CLE,11,home,bad pass,steal,,turnover,,C. LeVert,L. James
 488,4,0:34.0,106,113,BRK,CLE,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Whitehead,L. James
 489,4,0:34.0,106,113,BRK,CLE,0,away,FreeThrow,,,make1,0,L. James,
 490,4,0:34.0,106,113,BRK,CLE,0,away,OffReb,,,OffReb,,Team,

@@ -100,7 +100,7 @@
 98,2,10:16.0,29,27,NOP,DAL,0,home,FreeThrow,,,make1,0,T. Jones,
 99,2,10:16.0,29,27,NOP,DAL,0,home,OffReb,,,OffReb,,Team,
 100,2,10:16.0,30,27,NOP,DAL,0,home,FreeThrow,,,make1,1,T. Jones,
-101,2,10:02.0,30,27,NOP,DAL,14,away,LostBall,steal,,turnover,,D. Williams,E. Moore
+101,2,10:02.0,30,27,NOP,DAL,14,away,lost ball,steal,,turnover,,D. Williams,E. Moore
 102,2,9:54.0,30,27,NOP,DAL,8,home,JS,,24,miss3,0,S. Hill,
 103,2,9:53.0,30,27,NOP,DAL,1,away,DefReb,,,DefReb,,S. Curry,
 104,2,9:43.0,30,30,NOP,DAL,10,away,JS,assist,25,make3,3,D. Nowitzki,S. Curry
@@ -140,7 +140,7 @@
 138,2,6:24.0,39,38,NOP,DAL,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Mejri,A. Davis
 139,2,6:24.0,40,38,NOP,DAL,0,home,FreeThrow,,,make1,1,A. Davis,
 140,2,6:24.0,41,38,NOP,DAL,0,home,FreeThrow,,,make1,1,A. Davis,
-141,2,6:11.0,41,38,NOP,DAL,13,away,LostBall,steal,,turnover,,W. Matthews,E. Moore
+141,2,6:11.0,41,38,NOP,DAL,13,away,lost ball,steal,,turnover,,W. Matthews,E. Moore
 142,2,6:03.0,41,38,NOP,DAL,8,home,JS,,16,miss2,0,D. Cunningham,
 143,2,6:02.0,41,38,NOP,DAL,1,away,DefReb,,,DefReb,,S. Mejri,
 144,2,5:50.0,41,40,NOP,DAL,12,away,JS,,21,make2,2,D. Williams,
@@ -165,9 +165,9 @@
 163,2,3:21.0,43,47,NOP,DAL,0,away,FreeThrow,,,make1,1,H. Barnes,
 164,2,2:55.0,43,47,NOP,DAL,26,home,JS,,24,miss3,0,D. Cunningham,
 165,2,2:55.0,43,47,NOP,DAL,0,away,DefReb,,,DefReb,,H. Barnes,
-166,2,2:39.0,43,47,NOP,DAL,16,away,BadPass,steal,,turnover,,H. Barnes,D. Cunningham
+166,2,2:39.0,43,47,NOP,DAL,16,away,bad pass,steal,,turnover,,H. Barnes,D. Cunningham
 167,2,2:33.0,45,47,NOP,DAL,6,home,LU,,2,make2,2,D. Cunningham,
-168,2,2:13.0,45,47,NOP,DAL,20,away,LostBall,steal,,turnover,,W. Matthews,T. Frazier
+168,2,2:13.0,45,47,NOP,DAL,20,away,lost ball,steal,,turnover,,W. Matthews,T. Frazier
 169,2,2:12.0,45,47,NOP,DAL,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,T. Frazier
 170,2,2:12.0,45,47,NOP,DAL,0,home,Timeout,,,,,,
 171,2,2:12.0,45,47,NOP,DAL,0,home,FreeThrow,,,make1,0,T. Frazier,
@@ -294,7 +294,7 @@
 292,4,11:06.0,88,77,NOP,DAL,1,home,OffReb,,,OffReb,,Team,
 293,4,11:06.0,88,77,NOP,DAL,0,home,ShotClockViolation,,,turnover,,Team,
 294,4,10:57.0,88,77,NOP,DAL,9,away,Traveling,,,turnover,,D. Williams,
-295,4,10:36.0,88,77,NOP,DAL,21,home,LostBall,steal,,turnover,,T. Jones,D. Williams
+295,4,10:36.0,88,77,NOP,DAL,21,home,lost ball,steal,,turnover,,T. Jones,D. Williams
 296,4,10:19.0,88,79,NOP,DAL,17,away,LU,assist,1,make2,2,J. Anderson,D. Williams
 297,4,10:02.0,88,79,NOP,DAL,17,home,JS,,11,miss2,0,E. Moore,
 298,4,10:00.0,88,79,NOP,DAL,2,away,DefReb,,,DefReb,,D. Powell,
@@ -314,7 +314,7 @@
 312,4,9:01.0,90,83,NOP,DAL,0,home,FreeThrow,,,make1,1,D. Cunningham,
 313,4,8:45.0,90,86,NOP,DAL,16,away,JS,assist,26,make3,3,J. Anderson,D. Williams
 314,4,8:36.0,90,86,NOP,DAL,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Williams,T. Jones
-315,4,8:26.0,90,86,NOP,DAL,10,home,LostBall,steal,,turnover,,L. Galloway,W. Matthews
+315,4,8:26.0,90,86,NOP,DAL,10,home,lost ball,steal,,turnover,,L. Galloway,W. Matthews
 316,4,8:13.0,90,86,NOP,DAL,13,away,JS,,27,miss3,0,D. Williams,
 317,4,8:11.0,90,86,NOP,DAL,2,away,OffReb,,,OffReb,,D. Finney-Smith,
 318,4,7:56.0,90,86,NOP,DAL,15,away,JS,,25,miss3,0,W. Matthews,
@@ -341,20 +341,20 @@
 339,4,5:55.0,93,88,NOP,DAL,9,home,LU,,2,miss2,0,J. Holiday,
 340,4,5:55.0,93,88,NOP,DAL,0,home,OffReb,,,OffReb,,A. Davis,
 341,4,5:52.0,95,88,NOP,DAL,3,home,LU,,2,make2,2,A. Davis,
-342,4,5:25.0,95,88,NOP,DAL,27,away,LostBall,steal,,turnover,,S. Curry,J. Holiday
+342,4,5:25.0,95,88,NOP,DAL,27,away,lost ball,steal,,turnover,,S. Curry,J. Holiday
 343,4,5:21.0,95,88,NOP,DAL,4,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Davis,W. Matthews
 344,4,5:21.0,95,88,NOP,DAL,0,home,OffensiveFoul,,,turnover,,A. Davis,
 345,4,5:21.0,95,88,NOP,DAL,0,away,Sub,,,,,D. Williams,D. Finney-Smith
 346,4,5:06.0,95,91,NOP,DAL,15,away,JS,assist,25,make3,3,D. Williams,S. Curry
-347,4,4:50.0,95,91,NOP,DAL,16,home,LostBall,steal,,turnover,,J. Holiday,W. Matthews
+347,4,4:50.0,95,91,NOP,DAL,16,home,lost ball,steal,,turnover,,J. Holiday,W. Matthews
 348,4,4:35.0,95,94,NOP,DAL,15,away,JS,assist,26,make3,3,D. Williams,S. Curry
 349,4,4:35.0,95,94,NOP,DAL,0,home,Timeout,,,,,,
 350,4,4:23.0,98,94,NOP,DAL,12,home,JS,assist,26,make3,3,D. Cunningham,J. Holiday
 351,4,4:05.0,98,94,NOP,DAL,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cunningham,H. Barnes
 352,4,3:54.0,98,94,NOP,DAL,11,away,JS,,19,miss2,0,D. Williams,
 353,4,3:53.0,98,94,NOP,DAL,1,home,DefReb,,,DefReb,,L. Galloway,
-354,4,3:44.0,98,94,NOP,DAL,9,home,LostBall,steal,,turnover,,A. Davis,S. Mejri
-355,4,3:23.0,98,94,NOP,DAL,21,away,LostBall,steal,,turnover,,H. Barnes,S. Hill
+354,4,3:44.0,98,94,NOP,DAL,9,home,lost ball,steal,,turnover,,A. Davis,S. Mejri
+355,4,3:23.0,98,94,NOP,DAL,21,away,lost ball,steal,,turnover,,H. Barnes,S. Hill
 356,4,3:16.0,98,94,NOP,DAL,7,home,LU,,2,miss2,0,J. Holiday,
 357,4,3:15.0,98,94,NOP,DAL,1,away,DefReb,,,DefReb,,S. Mejri,
 358,4,2:54.0,98,94,NOP,DAL,21,away,JS,,25,miss3,0,W. Matthews,

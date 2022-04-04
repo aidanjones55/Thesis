@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:45.0,0,0,MIL,DET,15,away,BadPass,steal,,turnover,,M. Morris,T. Maker
+0,1,11:45.0,0,0,MIL,DET,15,away,bad pass,steal,,turnover,,M. Morris,T. Maker
 1,1,11:42.0,0,0,MIL,DET,3,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Leuer,G. Antetokounmpo
 2,1,11:32.0,3,0,MIL,DET,10,home,JS,assist,25,make3,3,T. Maker,T. Snell
 3,1,11:17.0,3,0,MIL,DET,15,away,JS,,13,miss2,0,M. Morris,
@@ -14,7 +14,7 @@
 12,1,9:41.0,8,2,MIL,DET,1,home,DefReb,,,DefReb,,T. Snell,
 13,1,9:29.0,8,2,MIL,DET,12,home,HS,,5,miss2,0,G. Antetokounmpo,
 14,1,9:28.0,8,2,MIL,DET,1,away,DefReb,,,DefReb,,I. Smith,
-15,1,9:23.0,8,2,MIL,DET,5,away,BadPass,steal,,turnover,,I. Smith,K. Middleton
+15,1,9:23.0,8,2,MIL,DET,5,away,bad pass,steal,,turnover,,I. Smith,K. Middleton
 16,1,9:17.0,11,2,MIL,DET,6,home,JS,assist,27,make3,3,M. Dellavedova,G. Antetokounmpo
 17,1,9:08.0,11,2,MIL,DET,9,away,Timeout,,,,,,
 18,1,8:50.0,11,4,MIL,DET,18,away,JS,assist,19,make2,2,K. Caldwell-Pope,I. Smith
@@ -88,7 +88,7 @@
 86,1,0:48.0,35,22,MIL,DET,5,away,LU,assist,2,make2,2,K. Caldwell-Pope,B. Udrih
 87,1,0:30.0,35,22,MIL,DET,18,home,JS,,24,miss3,0,R. Vaughn,
 88,1,0:28.0,35,22,MIL,DET,2,away,DefReb,,,DefReb,,T. Harris,
-89,1,0:20.0,35,22,MIL,DET,8,away,LostBall,steal,,turnover,,T. Harris,R. Vaughn
+89,1,0:20.0,35,22,MIL,DET,8,away,lost ball,steal,,turnover,,T. Harris,R. Vaughn
 90,1,0:18.0,35,22,MIL,DET,2,away,KickBallViolation,,,KickBallViolation,,B. Udrih,
 91,1,0:18.0,35,22,MIL,DET,0,away,Sub,,,,,J. Leuer,M. Morris
 92,1,0:00.0,35,22,MIL,DET,18,home,JS,,25,miss3,0,M. Teletović,
@@ -143,7 +143,7 @@
 141,2,5:17.0,44,37,MIL,DET,0,home,Sub,,,,,T. Snell,J. Terry
 142,2,5:04.0,44,37,MIL,DET,13,home,JS,,28,miss3,0,S. Hawes,
 143,2,5:03.0,44,37,MIL,DET,1,away,DefReb,,,DefReb,,M. Morris,
-144,2,4:51.0,44,37,MIL,DET,12,away,LostBall,steal,,turnover,,S. Johnson,T. Snell
+144,2,4:51.0,44,37,MIL,DET,12,away,lost ball,steal,,turnover,,S. Johnson,T. Snell
 145,2,4:38.0,47,37,MIL,DET,13,home,JS,assist,24,make3,3,M. Dellavedova,S. Hawes
 146,2,4:14.0,47,37,MIL,DET,24,away,JS,,7,miss2,0,I. Smith,
 147,2,4:13.0,47,37,MIL,DET,1,away,OffReb,,,OffReb,,A. Drummond,
@@ -168,7 +168,7 @@
 166,2,2:37.0,50,41,MIL,DET,0,away,Sub,,,,,T. Harris,J. Leuer
 167,2,2:22.0,53,41,MIL,DET,15,home,JS,assist,24,make3,3,K. Middleton,M. Dellavedova
 168,2,2:08.0,53,44,MIL,DET,14,away,JS,assist,26,make3,3,M. Morris,I. Smith
-169,2,1:56.0,53,44,MIL,DET,12,home,BadPass,steal,,turnover,,G. Antetokounmpo,A. Drummond
+169,2,1:56.0,53,44,MIL,DET,12,home,bad pass,steal,,turnover,,G. Antetokounmpo,A. Drummond
 170,2,1:51.0,53,44,MIL,DET,5,away,LU,block,1,miss2,0,A. Drummond,S. Hawes
 171,2,1:51.0,53,44,MIL,DET,0,away,OffReb,,,OffReb,,Team,
 172,2,1:51.0,53,44,MIL,DET,0,away,Timeout,,,,,,
@@ -230,7 +230,7 @@
 228,3,8:14.0,62,54,MIL,DET,1,away,OffReb,,,OffReb,,J. Leuer,
 229,3,8:11.0,62,54,MIL,DET,3,away,JS,,11,miss2,0,J. Leuer,
 230,3,8:10.0,62,54,MIL,DET,1,home,DefReb,,,DefReb,,G. Antetokounmpo,
-231,3,7:56.0,62,54,MIL,DET,14,home,BadPass,steal,,turnover,,T. Maker,A. Drummond
+231,3,7:56.0,62,54,MIL,DET,14,home,bad pass,steal,,turnover,,T. Maker,A. Drummond
 232,3,7:50.0,62,54,MIL,DET,6,away,JS,,25,miss3,0,K. Caldwell-Pope,
 233,3,7:49.0,62,54,MIL,DET,1,home,DefReb,,,DefReb,,K. Middleton,
 234,3,7:33.0,64,54,MIL,DET,16,home,JS,assist,6,make2,2,K. Middleton,G. Antetokounmpo
@@ -251,7 +251,7 @@
 249,3,5:40.0,64,58,MIL,DET,10,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,M. Dellavedova,K. Caldwell-Pope
 250,3,5:40.0,64,58,MIL,DET,0,home,Sub,,,,,R. Vaughn,M. Dellavedova
 251,3,5:28.0,64,60,MIL,DET,12,away,JS,assist,15,make2,2,K. Caldwell-Pope,M. Morris
-252,3,5:14.0,64,60,MIL,DET,14,home,BadPass,steal,,turnover,,K. Middleton,K. Caldwell-Pope
+252,3,5:14.0,64,60,MIL,DET,14,home,bad pass,steal,,turnover,,K. Middleton,K. Caldwell-Pope
 253,3,5:06.0,64,60,MIL,DET,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Antetokounmpo,J. Leuer
 254,3,5:06.0,64,61,MIL,DET,0,away,FreeThrow,,,make1,1,J. Leuer,
 255,3,5:06.0,64,61,MIL,DET,0,away,FreeThrow,,,make1,0,J. Leuer,
@@ -261,7 +261,7 @@
 259,3,4:47.0,64,61,MIL,DET,1,away,DefReb,,,DefReb,,A. Baynes,
 260,3,4:39.0,64,61,MIL,DET,8,away,JS,,29,miss3,0,K. Caldwell-Pope,
 261,3,4:38.0,64,61,MIL,DET,1,home,DefReb,,,DefReb,,G. Antetokounmpo,
-262,3,4:21.0,64,61,MIL,DET,17,home,LostBall,steal,,turnover,,G. Monroe,K. Caldwell-Pope
+262,3,4:21.0,64,61,MIL,DET,17,home,lost ball,steal,,turnover,,G. Monroe,K. Caldwell-Pope
 263,3,4:15.0,64,61,MIL,DET,6,away,JS,,27,miss3,0,K. Caldwell-Pope,
 264,3,4:13.0,64,61,MIL,DET,2,home,DefReb,,,DefReb,,G. Monroe,
 265,3,4:06.0,66,61,MIL,DET,7,home,JS,assist,9,make2,2,K. Middleton,G. Antetokounmpo
@@ -270,7 +270,7 @@
 268,3,3:49.0,66,61,MIL,DET,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,M. Morris,G. Antetokounmpo
 269,3,3:49.0,66,61,MIL,DET,0,away,Sub,,,,,T. Harris,J. Leuer
 270,3,3:49.0,66,61,MIL,DET,0,away,Sub,,,,,B. Udrih,I. Smith
-271,3,3:38.0,66,61,MIL,DET,11,home,BadPass,steal,,turnover,,G. Monroe,B. Udrih
+271,3,3:38.0,66,61,MIL,DET,11,home,bad pass,steal,,turnover,,G. Monroe,B. Udrih
 272,3,3:28.0,66,61,MIL,DET,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Vaughn,B. Udrih
 273,3,3:28.0,66,62,MIL,DET,0,away,FreeThrow,,,make1,1,B. Udrih,
 274,3,3:28.0,66,62,MIL,DET,0,away,Sub,,,,,S. Johnson,M. Morris
@@ -279,7 +279,7 @@
 277,3,3:10.0,66,63,MIL,DET,1,away,DefReb,,,DefReb,,K. Caldwell-Pope,
 278,3,2:52.0,66,63,MIL,DET,18,away,JS,,26,miss3,0,B. Udrih,
 279,3,2:51.0,66,63,MIL,DET,1,home,DefReb,,,DefReb,,G. Antetokounmpo,
-280,3,2:41.0,66,63,MIL,DET,10,home,BadPass,steal,,turnover,,G. Antetokounmpo,B. Udrih
+280,3,2:41.0,66,63,MIL,DET,10,home,bad pass,steal,,turnover,,G. Antetokounmpo,B. Udrih
 281,3,2:35.0,66,65,MIL,DET,6,away,DK,assist,0,make2,2,K. Caldwell-Pope,S. Johnson
 282,3,2:35.0,66,65,MIL,DET,0,home,Timeout,,,,,,
 283,3,2:35.0,66,65,MIL,DET,0,home,TechnicalFoul,,,TechnicalFoul,,G. Monroe,
@@ -290,10 +290,10 @@
 288,3,2:18.0,66,66,MIL,DET,1,away,DefReb,,,DefReb,,S. Johnson,
 289,3,2:10.0,66,66,MIL,DET,8,away,JS,,23,miss3,0,S. Johnson,
 290,3,2:06.0,66,66,MIL,DET,4,home,DefReb,,,DefReb,,M. Beasley,
-291,3,1:58.0,66,66,MIL,DET,8,home,BadPass,steal,,turnover,,K. Middleton,S. Johnson
+291,3,1:58.0,66,66,MIL,DET,8,home,bad pass,steal,,turnover,,K. Middleton,S. Johnson
 292,3,1:44.0,66,66,MIL,DET,14,away,JS,,12,miss2,0,T. Harris,
 293,3,1:42.0,66,66,MIL,DET,2,home,DefReb,,,DefReb,,J. Terry,
-294,3,1:24.0,66,66,MIL,DET,18,home,LostBall,steal,,turnover,,K. Middleton,T. Harris
+294,3,1:24.0,66,66,MIL,DET,18,home,lost ball,steal,,turnover,,K. Middleton,T. Harris
 295,3,1:22.0,66,68,MIL,DET,2,away,LU,assist,1,make2,2,T. Harris,B. Udrih
 296,3,1:22.0,66,68,MIL,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Beasley,T. Harris
 297,3,1:22.0,66,69,MIL,DET,0,away,FreeThrow,,,make1,1,T. Harris,
@@ -314,7 +314,7 @@
 312,4,11:43.0,71,75,MIL,DET,17,away,LU,,1,make2,2,B. Udrih,
 313,4,11:19.0,71,75,MIL,DET,24,home,JS,,4,miss2,0,R. Vaughn,
 314,4,11:17.0,71,75,MIL,DET,2,away,DefReb,,,DefReb,,T. Harris,
-315,4,11:11.0,71,75,MIL,DET,6,away,BadPass,steal,,turnover,,B. Udrih,M. Beasley
+315,4,11:11.0,71,75,MIL,DET,6,away,bad pass,steal,,turnover,,B. Udrih,M. Beasley
 316,4,11:03.0,71,75,MIL,DET,8,home,BadPass,,,turnover,,J. Terry,
 317,4,10:43.0,71,75,MIL,DET,20,away,JS,,7,miss2,0,S. Johnson,
 318,4,10:43.0,71,75,MIL,DET,0,home,DefReb,,,DefReb,,M. Beasley,
@@ -381,7 +381,7 @@
 379,4,3:58.0,87,91,MIL,DET,0,home,FreeThrow,,,make1,1,T. Snell,
 380,4,3:43.0,87,91,MIL,DET,15,away,JS,,25,miss3,0,K. Caldwell-Pope,
 381,4,3:40.0,87,91,MIL,DET,3,away,OffReb,,,OffReb,,A. Baynes,
-382,4,3:40.0,87,91,MIL,DET,0,away,BadPass,steal,,turnover,,A. Baynes,G. Antetokounmpo
+382,4,3:40.0,87,91,MIL,DET,0,away,bad pass,steal,,turnover,,A. Baynes,G. Antetokounmpo
 383,4,3:40.0,87,91,MIL,DET,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,G. Antetokounmpo
 384,4,3:40.0,87,91,MIL,DET,0,home,FreeThrow,,,make1,0,G. Antetokounmpo,
 385,4,3:40.0,87,91,MIL,DET,0,home,OffReb,,,OffReb,,Team,

@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:45.0,0,0,MIN,IND,15,home,BadPass,steal,,turnover,,G. Dieng,T. Young
+0,1,11:45.0,0,0,MIN,IND,15,home,bad pass,steal,,turnover,,G. Dieng,T. Young
 1,1,11:44.0,0,0,MIN,IND,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dieng,T. Young
 2,1,11:29.0,0,2,MIN,IND,15,away,JS,assist,18,make2,2,M. Turner,J. Teague
 3,1,11:03.0,3,2,MIN,IND,26,home,JS,,25,make3,3,A. Wiggins,
@@ -20,15 +20,15 @@
 18,1,8:38.0,5,2,MIN,IND,1,home,DefReb,,,DefReb,,A. Wiggins,
 19,1,8:24.0,5,2,MIN,IND,14,home,JS,,25,miss3,0,Z. LaVine,
 20,1,8:23.0,5,2,MIN,IND,1,away,DefReb,,,DefReb,,J. Teague,
-21,1,8:12.0,5,2,MIN,IND,11,away,BadPass,steal,,turnover,,J. Teague,G. Dieng
-22,1,8:08.0,5,2,MIN,IND,4,home,BadPass,steal,,turnover,,R. Rubio,T. Young
+21,1,8:12.0,5,2,MIN,IND,11,away,bad pass,steal,,turnover,,J. Teague,G. Dieng
+22,1,8:08.0,5,2,MIN,IND,4,home,bad pass,steal,,turnover,,R. Rubio,T. Young
 23,1,7:59.0,5,2,MIN,IND,9,away,JS,,26,miss3,0,C. Miles,
 24,1,7:58.0,5,2,MIN,IND,1,home,DefReb,,,DefReb,,Z. LaVine,
 25,1,7:49.0,5,2,MIN,IND,9,home,JS,,24,miss3,0,Z. LaVine,
 26,1,7:48.0,5,2,MIN,IND,1,away,DefReb,,,DefReb,,C. Miles,
 27,1,7:36.0,5,2,MIN,IND,12,away,JS,,24,miss3,0,J. Teague,
 28,1,7:35.0,5,2,MIN,IND,1,home,DefReb,,,DefReb,,A. Wiggins,
-29,1,7:22.0,5,2,MIN,IND,13,home,LostBall,steal,,turnover,,A. Wiggins,C. Miles
+29,1,7:22.0,5,2,MIN,IND,13,home,lost ball,steal,,turnover,,A. Wiggins,C. Miles
 30,1,7:16.0,5,4,MIN,IND,6,away,LU,assist,1,make2,2,T. Young,P. George
 31,1,6:58.0,7,4,MIN,IND,18,home,JS,,21,make2,2,A. Wiggins,
 32,1,6:47.0,7,7,MIN,IND,11,away,JS,assist,24,make3,3,P. George,J. Teague
@@ -54,9 +54,9 @@
 52,1,4:15.0,13,11,MIN,IND,0,away,DK,,0,make2,2,M. Turner,
 53,1,3:59.0,15,11,MIN,IND,16,home,JS,assist,22,make2,2,K. Towns,R. Rubio
 54,1,3:39.0,15,13,MIN,IND,20,away,JS,assist,20,make2,2,M. Turner,J. Teague
-55,1,3:24.0,15,13,MIN,IND,15,home,LostBall,steal,,turnover,,K. Towns,T. Young
-56,1,3:18.0,15,13,MIN,IND,6,away,LostBall,steal,,turnover,,P. George,R. Rubio
-57,1,3:14.0,15,13,MIN,IND,4,home,BadPass,steal,,turnover,,K. Towns,M. Turner
+55,1,3:24.0,15,13,MIN,IND,15,home,lost ball,steal,,turnover,,K. Towns,T. Young
+56,1,3:18.0,15,13,MIN,IND,6,away,lost ball,steal,,turnover,,P. George,R. Rubio
+57,1,3:14.0,15,13,MIN,IND,4,home,bad pass,steal,,turnover,,K. Towns,M. Turner
 58,1,3:08.0,15,16,MIN,IND,6,away,JS,assist,22,make3,3,C. Miles,P. George
 59,1,3:02.0,17,16,MIN,IND,6,home,LU,assist,1,make2,2,K. Towns,R. Rubio
 60,1,3:02.0,17,16,MIN,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. George,K. Towns
@@ -91,8 +91,8 @@
 89,1,0:02.0,19,25,MIN,IND,0,away,Sub,,,,,G. Robinson,P. George
 90,1,0:02.0,19,25,MIN,IND,0,away,Sub,,,,,A. Jefferson,M. Turner
 91,1,0:02.0,20,25,MIN,IND,0,home,FreeThrow,,,make1,1,S. Muhammad,
-92,1,0:01.0,20,25,MIN,IND,1,away,BadPass,steal,,turnover,,M. Ellis,S. Muhammad
-93,2,11:45.0,20,25,MIN,IND,15,away,LostBall,steal,,turnover,,A. Jefferson,C. Aldrich
+92,1,0:01.0,20,25,MIN,IND,1,away,bad pass,steal,,turnover,,M. Ellis,S. Muhammad
+93,2,11:45.0,20,25,MIN,IND,15,away,lost ball,steal,,turnover,,A. Jefferson,C. Aldrich
 94,2,11:29.0,20,25,MIN,IND,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Robinson,S. Muhammad
 95,2,11:29.0,21,25,MIN,IND,0,home,FreeThrow,,,make1,1,S. Muhammad,
 96,2,11:29.0,22,25,MIN,IND,0,home,FreeThrow,,,make1,1,S. Muhammad,
@@ -124,14 +124,14 @@
 122,2,8:37.0,24,31,MIN,IND,21,away,JS,block,7,miss2,0,M. Ellis,C. Aldrich
 123,2,8:33.0,24,31,MIN,IND,4,home,DefReb,,,DefReb,,N. Bjelica,
 124,2,8:28.0,26,31,MIN,IND,5,home,DK,assist,0,make2,2,S. Muhammad,K. Dunn
-125,2,8:10.0,26,31,MIN,IND,18,away,BadPass,steal,,turnover,,L. Allen,N. Bjelica
+125,2,8:10.0,26,31,MIN,IND,18,away,bad pass,steal,,turnover,,L. Allen,N. Bjelica
 126,2,8:02.0,29,31,MIN,IND,8,home,JS,,25,make3,3,K. Dunn,
 127,2,7:40.0,29,33,MIN,IND,22,away,JS,,8,make2,2,A. Jefferson,
 128,2,7:19.0,29,33,MIN,IND,21,home,JS,,25,miss3,0,N. Bjelica,
 129,2,7:18.0,29,33,MIN,IND,1,away,DefReb,,,DefReb,,M. Ellis,
 130,2,7:15.0,29,33,MIN,IND,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Bjelica,M. Ellis
 131,2,7:15.0,29,33,MIN,IND,0,home,Sub,,,,,G. Dieng,C. Aldrich
-132,2,7:07.0,29,33,MIN,IND,8,away,BadPass,steal,,turnover,,M. Ellis,Z. LaVine
+132,2,7:07.0,29,33,MIN,IND,8,away,bad pass,steal,,turnover,,M. Ellis,Z. LaVine
 133,2,7:03.0,29,33,MIN,IND,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Allen,K. Dunn
 134,2,7:03.0,29,33,MIN,IND,0,home,FreeThrow,,,make1,0,K. Dunn,
 135,2,7:03.0,29,33,MIN,IND,0,home,OffReb,,,OffReb,,Team,
@@ -164,12 +164,12 @@
 162,2,4:58.0,32,35,MIN,IND,0,home,OffReb,,,OffReb,,Team,
 163,2,4:58.0,32,35,MIN,IND,0,home,Sub,,,,,R. Rubio,K. Dunn
 164,2,4:58.0,33,35,MIN,IND,0,home,FreeThrow,,,make1,1,A. Wiggins,
-165,2,4:44.0,33,35,MIN,IND,14,away,BadPass,steal,,turnover,,P. George,R. Rubio
+165,2,4:44.0,33,35,MIN,IND,14,away,bad pass,steal,,turnover,,P. George,R. Rubio
 166,2,4:38.0,35,35,MIN,IND,6,home,LU,assist,2,make2,2,K. Towns,R. Rubio
 167,2,4:21.0,35,38,MIN,IND,17,away,JS,,25,make3,3,J. Teague,
 168,2,4:21.0,35,38,MIN,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rubio,J. Teague
 169,2,4:21.0,35,39,MIN,IND,0,away,FreeThrow,,,make1,1,J. Teague,
-170,2,4:17.0,35,39,MIN,IND,4,home,BadPass,steal,,turnover,,R. Rubio,P. George
+170,2,4:17.0,35,39,MIN,IND,4,home,bad pass,steal,,turnover,,R. Rubio,P. George
 171,2,4:12.0,35,41,MIN,IND,5,away,JS,,13,make2,2,J. Teague,
 172,2,3:51.0,35,41,MIN,IND,21,home,JS,,16,miss2,0,Z. LaVine,
 173,2,3:50.0,35,41,MIN,IND,1,home,OffReb,,,OffReb,,R. Rubio,
@@ -218,7 +218,7 @@
 216,3,10:31.0,46,56,MIN,IND,10,away,LU,assist,2,make2,2,M. Turner,P. George
 217,3,10:31.0,46,56,MIN,IND,0,home,Timeout,,,,,,
 218,3,10:21.0,48,56,MIN,IND,10,home,LU,assist,0,make2,2,K. Towns,R. Rubio
-219,3,10:09.0,48,56,MIN,IND,12,away,LostBall,steal,,turnover,,J. Teague,G. Dieng
+219,3,10:09.0,48,56,MIN,IND,12,away,lost ball,steal,,turnover,,J. Teague,G. Dieng
 220,3,10:04.0,50,56,MIN,IND,5,home,DK,assist,0,make2,2,Z. LaVine,G. Dieng
 221,3,9:41.0,50,56,MIN,IND,23,away,JS,,13,miss2,0,T. Young,
 222,3,9:40.0,50,56,MIN,IND,1,home,DefReb,,,DefReb,,Z. LaVine,
@@ -229,7 +229,7 @@
 227,3,8:50.0,52,56,MIN,IND,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,A. Wiggins
 228,3,8:50.0,53,56,MIN,IND,0,home,FreeThrow,,,make1,1,A. Wiggins,
 229,3,8:50.0,54,56,MIN,IND,0,home,FreeThrow,,,make1,1,A. Wiggins,
-230,3,8:37.0,54,56,MIN,IND,13,away,LostBall,steal,,turnover,,M. Turner,R. Rubio
+230,3,8:37.0,54,56,MIN,IND,13,away,lost ball,steal,,turnover,,M. Turner,R. Rubio
 231,3,8:26.0,56,56,MIN,IND,11,home,LU,assist,0,make2,2,K. Towns,Z. LaVine
 232,3,8:14.0,56,59,MIN,IND,12,away,JS,assist,24,make3,3,P. George,J. Teague
 233,3,7:58.0,56,59,MIN,IND,16,home,JS,,25,miss3,0,K. Towns,
@@ -238,12 +238,12 @@
 236,3,7:25.0,56,61,MIN,IND,26,home,JS,block,21,miss2,0,Z. LaVine,M. Turner
 237,3,7:24.0,56,61,MIN,IND,1,home,OffReb,,,OffReb,,Team,
 238,3,7:24.0,56,61,MIN,IND,0,home,ShotClockViolation,,,turnover,,Team,
-239,3,7:10.0,56,61,MIN,IND,14,away,LostBall,steal,,turnover,,M. Turner,R. Rubio
+239,3,7:10.0,56,61,MIN,IND,14,away,lost ball,steal,,turnover,,M. Turner,R. Rubio
 240,3,7:01.0,56,61,MIN,IND,9,home,JS,,24,miss3,0,Z. LaVine,
 241,3,7:00.0,56,61,MIN,IND,1,home,OffReb,,,OffReb,,K. Towns,
 242,3,6:57.0,56,61,MIN,IND,3,home,LU,,1,miss2,0,K. Towns,
 243,3,6:56.0,56,61,MIN,IND,1,away,DefReb,,,DefReb,,J. Teague,
-244,3,6:47.0,56,61,MIN,IND,9,away,LostBall,steal,,turnover,,J. Teague,K. Towns
+244,3,6:47.0,56,61,MIN,IND,9,away,lost ball,steal,,turnover,,J. Teague,K. Towns
 245,3,6:31.0,56,61,MIN,IND,16,home,JS,,13,miss2,0,A. Wiggins,
 246,3,6:30.0,56,61,MIN,IND,1,away,DefReb,,,DefReb,,J. Teague,
 247,3,6:26.0,56,61,MIN,IND,4,away,OffensiveFoul,,,turnover,,J. Teague,
@@ -275,7 +275,7 @@
 273,3,3:14.0,64,69,MIN,IND,0,home,Sub,,,,,S. Muhammad,Z. LaVine
 274,3,3:14.0,64,69,MIN,IND,0,home,Sub,,,,,N. Bjelica,G. Dieng
 275,3,3:14.0,64,69,MIN,IND,0,away,Sub,,,,,L. Allen,T. Young
-276,3,3:03.0,64,69,MIN,IND,11,away,BadPass,steal,,turnover,,J. Teague,K. Towns
+276,3,3:03.0,64,69,MIN,IND,11,away,bad pass,steal,,turnover,,J. Teague,K. Towns
 277,3,2:53.0,64,69,MIN,IND,10,home,JS,,19,miss2,0,A. Wiggins,
 278,3,2:52.0,64,69,MIN,IND,1,away,DefReb,,,DefReb,,L. Allen,
 279,3,2:41.0,64,72,MIN,IND,11,away,JS,,25,make3,3,J. Teague,
@@ -381,7 +381,7 @@
 379,4,4:01.0,84,93,MIN,IND,1,away,DefReb,,,DefReb,,P. George,
 380,4,3:50.0,84,93,MIN,IND,11,away,JS,,12,miss2,0,P. George,
 381,4,3:49.0,84,93,MIN,IND,1,home,DefReb,,,DefReb,,K. Towns,
-382,4,3:44.0,84,93,MIN,IND,5,home,LostBall,steal,,turnover,,R. Rubio,J. Teague
+382,4,3:44.0,84,93,MIN,IND,5,home,lost ball,steal,,turnover,,R. Rubio,J. Teague
 383,4,3:41.0,84,93,MIN,IND,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,Z. LaVine,J. Teague
 384,4,3:41.0,84,94,MIN,IND,0,away,FreeThrow,,,make1,1,J. Teague,
 385,4,3:41.0,84,93,MIN,IND,0,home,Sub,,,,,G. Dieng,S. Muhammad
@@ -414,7 +414,7 @@
 412,4,0:41.0,99,105,MIN,IND,0,home,FreeThrow,,,make1,1,A. Wiggins,
 413,4,0:41.0,99,105,MIN,IND,0,away,Timeout,,,,,,
 414,4,0:38.0,99,105,MIN,IND,3,away,Sub,,,,,G. Robinson,C. Miles
-415,4,0:38.0,99,105,MIN,IND,0,away,LostBall,steal,,turnover,,P. George,A. Wiggins
+415,4,0:38.0,99,105,MIN,IND,0,away,lost ball,steal,,turnover,,P. George,A. Wiggins
 416,4,0:26.0,99,105,MIN,IND,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Robinson,Z. LaVine
 417,4,0:26.0,100,105,MIN,IND,0,home,FreeThrow,,,make1,1,Z. LaVine,
 418,4,0:26.0,100,105,MIN,IND,0,away,Sub,,,,,C. Miles,G. Robinson

@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:42.0,0,0,BOS,PHI,18,home,BadPass,steal,,turnover,,I. Thomas,N. Stauskas
+0,1,11:42.0,0,0,BOS,PHI,18,home,bad pass,steal,,turnover,,I. Thomas,N. Stauskas
 1,1,11:36.0,0,2,BOS,PHI,6,away,DK,assist,0,make2,2,J. Embiid,T. McConnell
 2,1,11:17.0,0,2,BOS,PHI,19,home,BadPass,,,turnover,,I. Thomas,
 3,1,11:03.0,0,5,BOS,PHI,14,away,JS,assist,24,make3,3,E. İlyasova,R. Covington
@@ -21,8 +21,8 @@
 19,1,9:02.0,3,7,BOS,PHI,1,home,DefReb,,,DefReb,,A. Johnson,
 20,1,8:43.0,6,7,BOS,PHI,19,home,JS,assist,25,make3,3,A. Bradley,A. Johnson
 21,1,8:30.0,6,9,BOS,PHI,13,away,LU,assist,1,make2,2,J. Embiid,N. Stauskas
-22,1,8:07.0,6,9,BOS,PHI,23,home,LostBall,steal,,turnover,,I. Thomas,E. İlyasova
-23,1,8:02.0,6,9,BOS,PHI,5,away,BadPass,steal,,turnover,,T. McConnell,J. Crowder
+22,1,8:07.0,6,9,BOS,PHI,23,home,lost ball,steal,,turnover,,I. Thomas,E. İlyasova
+23,1,8:02.0,6,9,BOS,PHI,5,away,bad pass,steal,,turnover,,T. McConnell,J. Crowder
 24,1,7:56.0,9,9,BOS,PHI,6,home,JS,assist,24,make3,3,A. Bradley,J. Crowder
 25,1,7:37.0,9,9,BOS,PHI,19,away,JS,,24,miss3,0,E. İlyasova,
 26,1,7:36.0,9,9,BOS,PHI,1,home,DefReb,,,DefReb,,I. Thomas,
@@ -60,7 +60,7 @@
 58,1,4:13.0,18,15,BOS,PHI,0,home,Sub,,,,,M. Smart,I. Thomas
 59,1,3:53.0,18,15,BOS,PHI,20,home,JS,,25,miss3,0,A. Horford,
 60,1,3:52.0,18,15,BOS,PHI,1,away,DefReb,,,DefReb,,D. Šarić,
-61,1,3:37.0,18,15,BOS,PHI,15,away,BadPass,steal,,turnover,,N. Stauskas,A. Bradley
+61,1,3:37.0,18,15,BOS,PHI,15,away,bad pass,steal,,turnover,,N. Stauskas,A. Bradley
 62,1,3:23.0,20,15,BOS,PHI,14,home,JS,assist,10,make2,2,A. Bradley,A. Horford
 63,1,3:07.0,20,17,BOS,PHI,16,away,JS,assist,19,make2,2,D. Šarić,N. Noel
 64,1,2:47.0,20,17,BOS,PHI,20,home,Timeout,,,,,,
@@ -69,10 +69,10 @@
 67,1,2:38.0,23,17,BOS,PHI,9,home,JS,assist,23,make3,3,A. Bradley,M. Smart
 68,1,2:10.0,23,17,BOS,PHI,28,away,JS,,27,miss3,0,N. Stauskas,
 69,1,2:09.0,23,17,BOS,PHI,1,home,DefReb,,,DefReb,,M. Smart,
-70,1,1:57.0,23,17,BOS,PHI,12,home,LostBall,steal,,turnover,,M. Smart,N. Noel
+70,1,1:57.0,23,17,BOS,PHI,12,home,lost ball,steal,,turnover,,M. Smart,N. Noel
 71,1,1:46.0,23,19,BOS,PHI,11,away,DK,assist,0,make2,2,N. Noel,J. Embiid
 72,1,1:20.0,25,19,BOS,PHI,26,home,JS,,18,make2,2,M. Smart,
-73,1,1:07.0,25,19,BOS,PHI,13,away,LostBall,steal,,turnover,,J. Embiid,J. Brown
+73,1,1:07.0,25,19,BOS,PHI,13,away,lost ball,steal,,turnover,,J. Embiid,J. Brown
 74,1,0:49.0,25,19,BOS,PHI,18,home,JS,,26,miss3,0,M. Smart,
 75,1,0:48.0,25,19,BOS,PHI,1,away,DefReb,,,DefReb,,D. Šarić,
 76,1,0:34.0,25,21,BOS,PHI,14,away,JS,,8,make2,2,J. Embiid,
@@ -133,7 +133,7 @@
 131,2,6:31.0,37,44,BOS,PHI,5,home,ChargeFoul,DrawnBy,,ChargeFoul,,R. Covington,M. Smart
 132,2,6:31.0,37,44,BOS,PHI,0,away,OffensiveFoul,,,turnover,,R. Covington,
 133,2,6:31.0,37,44,BOS,PHI,0,home,Sub,,,,,J. Crowder,G. Green
-134,2,6:18.0,37,44,BOS,PHI,13,home,BadPass,steal,,turnover,,J. Crowder,T. McConnell
+134,2,6:18.0,37,44,BOS,PHI,13,home,bad pass,steal,,turnover,,J. Crowder,T. McConnell
 135,2,6:08.0,37,44,BOS,PHI,10,away,JS,,12,miss2,0,T. McConnell,
 136,2,6:08.0,37,44,BOS,PHI,0,away,OffReb,,,OffReb,,N. Noel,
 137,2,6:05.0,37,44,BOS,PHI,3,away,JS,block,5,miss2,0,N. Noel,A. Johnson
@@ -143,7 +143,7 @@
 141,2,5:45.0,40,44,BOS,PHI,0,home,Sub,,,,,A. Bradley,I. Thomas
 142,2,5:45.0,40,44,BOS,PHI,0,home,Sub,,,,,A. Horford,K. Olynyk
 143,2,5:32.0,40,46,BOS,PHI,13,away,LU,assist,0,make2,2,G. Henderson,T. McConnell
-144,2,5:14.0,40,46,BOS,PHI,18,home,LostBall,steal,,turnover,,A. Johnson,T. McConnell
+144,2,5:14.0,40,46,BOS,PHI,18,home,lost ball,steal,,turnover,,A. Johnson,T. McConnell
 145,2,5:09.0,40,48,BOS,PHI,5,away,DK,assist,0,make2,2,G. Henderson,T. McConnell
 146,2,4:52.0,40,48,BOS,PHI,17,home,JS,,15,miss2,0,J. Crowder,
 147,2,4:51.0,40,48,BOS,PHI,1,home,OffReb,,,OffReb,,A. Horford,
@@ -163,7 +163,7 @@
 161,2,3:59.0,42,52,BOS,PHI,4,away,LU,assist,0,make2,2,N. Noel,T. McConnell
 162,2,3:50.0,42,52,BOS,PHI,9,home,JS,block,3,miss2,0,M. Smart,N. Noel
 163,2,3:48.0,42,52,BOS,PHI,2,away,DefReb,,,DefReb,,D. Šarić,
-164,2,3:45.0,42,52,BOS,PHI,3,away,LostBall,steal,,turnover,,D. Šarić,A. Johnson
+164,2,3:45.0,42,52,BOS,PHI,3,away,lost ball,steal,,turnover,,D. Šarić,A. Johnson
 165,2,3:39.0,42,52,BOS,PHI,6,home,JS,,20,miss2,0,A. Bradley,
 166,2,3:38.0,42,52,BOS,PHI,1,home,OffReb,,,OffReb,,J. Crowder,
 167,2,3:33.0,44,52,BOS,PHI,5,home,JS,assist,13,make2,2,A. Horford,A. Bradley
@@ -182,7 +182,7 @@
 180,2,2:39.0,44,54,BOS,PHI,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,I. Thomas
 181,2,2:39.0,44,54,BOS,PHI,0,away,Timeout,,,,,,
 182,2,2:39.0,44,54,BOS,PHI,0,away,Sub,,,,,N. Stauskas,G. Henderson
-183,2,2:35.0,44,54,BOS,PHI,4,home,BadPass,steal,,turnover,,T. Rozier,R. Covington
+183,2,2:35.0,44,54,BOS,PHI,4,home,bad pass,steal,,turnover,,T. Rozier,R. Covington
 184,2,2:33.0,44,54,BOS,PHI,2,away,LU,block,3,miss2,0,R. Covington,T. Rozier
 185,2,2:31.0,44,54,BOS,PHI,2,away,OffReb,,,OffReb,,D. Šarić,
 186,2,2:30.0,44,56,BOS,PHI,1,away,LU,,1,make2,2,N. Stauskas,
@@ -249,7 +249,7 @@
 247,3,8:38.0,58,70,BOS,PHI,6,away,LU,assist,0,make2,2,T. McConnell,J. Embiid
 248,3,8:23.0,58,70,BOS,PHI,15,away,Sub,,,,,N. Noel,J. Embiid
 249,3,8:23.0,58,70,BOS,PHI,0,away,Sub,,,,,D. Šarić,E. İlyasova
-250,3,8:23.0,58,70,BOS,PHI,0,home,LostBall,steal,,turnover,,I. Thomas,R. Covington
+250,3,8:23.0,58,70,BOS,PHI,0,home,lost ball,steal,,turnover,,I. Thomas,R. Covington
 251,3,8:06.0,58,70,BOS,PHI,17,away,JS,block,5,miss2,0,R. Covington,J. Crowder
 252,3,8:05.0,58,70,BOS,PHI,1,home,DefReb,,,DefReb,,Team,
 253,3,7:48.0,58,70,BOS,PHI,17,home,HS,,8,miss2,0,A. Horford,
@@ -362,7 +362,7 @@
 360,4,9:09.0,89,84,BOS,PHI,14,away,JS,,25,miss3,0,E. İlyasova,
 361,4,9:09.0,89,84,BOS,PHI,0,home,DefReb,,,DefReb,,Team,
 362,4,9:09.0,89,84,BOS,PHI,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,N. Noel,A. Johnson
-363,4,8:56.0,89,84,BOS,PHI,13,home,LostBall,steal,,turnover,,I. Thomas,E. İlyasova
+363,4,8:56.0,89,84,BOS,PHI,13,home,lost ball,steal,,turnover,,I. Thomas,E. İlyasova
 364,4,8:49.0,89,84,BOS,PHI,7,away,JS,,27,miss3,0,R. Covington,
 365,4,8:48.0,89,84,BOS,PHI,1,home,DefReb,,,DefReb,,Team,
 366,4,8:33.0,89,84,BOS,PHI,15,home,JS,,23,miss2,0,I. Thomas,
@@ -376,7 +376,7 @@
 374,4,7:55.0,89,88,BOS,PHI,0,home,Sub,,,,,A. Horford,K. Olynyk
 375,4,7:55.0,89,88,BOS,PHI,0,away,Sub,,,,,D. Šarić,E. İlyasova
 376,4,7:54.0,89,88,BOS,PHI,1,home,DefReb,,,DefReb,,I. Thomas,
-377,4,7:40.0,89,88,BOS,PHI,14,home,BadPass,steal,,turnover,,T. Rozier,N. Noel
+377,4,7:40.0,89,88,BOS,PHI,14,home,bad pass,steal,,turnover,,T. Rozier,N. Noel
 378,4,7:35.0,89,90,BOS,PHI,5,away,DK,assist,0,make2,2,N. Noel,T. McConnell
 379,4,7:08.0,92,90,BOS,PHI,27,home,JS,assist,23,make3,3,A. Horford,I. Thomas
 380,4,6:55.0,92,90,BOS,PHI,13,away,JS,,4,miss2,0,T. McConnell,
@@ -398,7 +398,7 @@
 396,4,5:45.0,94,93,BOS,PHI,0,home,Sub,,,,,K. Olynyk,A. Johnson
 397,4,5:45.0,94,93,BOS,PHI,0,away,Sub,,,,,E. İlyasova,R. Covington
 398,4,5:45.0,94,93,BOS,PHI,0,away,Sub,,,,,J. Embiid,N. Noel
-399,4,5:29.0,94,93,BOS,PHI,16,away,LostBall,steal,,turnover,,G. Henderson,M. Smart
+399,4,5:29.0,94,93,BOS,PHI,16,away,lost ball,steal,,turnover,,G. Henderson,M. Smart
 400,4,5:12.0,97,93,BOS,PHI,17,home,JS,assist,23,make3,3,A. Horford,M. Smart
 401,4,4:58.0,97,93,BOS,PHI,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,D. Šarić
 402,4,4:58.0,97,94,BOS,PHI,0,away,FreeThrow,,,make1,1,D. Šarić,
@@ -475,4 +475,4 @@
 473,4,0:02.0,108,106,BOS,PHI,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,R. Covington,I. Thomas
 474,4,0:02.0,109,106,BOS,PHI,0,home,FreeThrow,,,make1,1,I. Thomas,
 475,4,0:02.0,110,106,BOS,PHI,0,home,FreeThrow,,,make1,1,I. Thomas,
-476,4,0:02.0,110,106,BOS,PHI,0,away,BadPass,steal,,turnover,,R. Covington,J. Crowder
+476,4,0:02.0,110,106,BOS,PHI,0,away,bad pass,steal,,turnover,,R. Covington,J. Crowder

@@ -19,7 +19,7 @@
 17,1,9:50.0,6,3,SAC,GSW,8,home,BadPass,,,turnover,,D. Cousins,
 18,1,9:39.0,6,6,SAC,GSW,11,away,JS,assist,25,make3,3,D. Green,S. Curry
 19,1,9:38.0,6,6,SAC,GSW,1,away,JumpBallViolation,,,JumpBallViolation,,Team,
-20,1,9:29.0,6,6,SAC,GSW,9,home,BadPass,steal,,turnover,,D. Cousins,S. Curry
+20,1,9:29.0,6,6,SAC,GSW,9,home,bad pass,steal,,turnover,,D. Cousins,S. Curry
 21,1,9:24.0,6,9,SAC,GSW,5,away,JS,,26,make3,3,S. Curry,
 22,1,9:01.0,6,9,SAC,GSW,23,home,JS,,25,miss3,0,D. Cousins,
 23,1,9:00.0,6,9,SAC,GSW,1,home,OffReb,,,OffReb,,B. McLemore,
@@ -76,7 +76,7 @@
 74,1,4:12.0,15,19,SAC,GSW,0,away,Sub,,,,,A. Iguodala,J. McGee
 75,1,4:12.0,15,20,SAC,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
 76,1,4:06.0,15,20,SAC,GSW,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Looney,D. Cousins
-77,1,3:59.0,15,20,SAC,GSW,7,home,BadPass,steal,,turnover,,T. Lawson,K. Durant
+77,1,3:59.0,15,20,SAC,GSW,7,home,bad pass,steal,,turnover,,T. Lawson,K. Durant
 78,1,3:59.0,15,20,SAC,GSW,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Tolliver,K. Durant
 79,1,3:59.0,15,21,SAC,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
 80,1,3:59.0,15,22,SAC,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
@@ -95,11 +95,11 @@
 93,1,2:41.0,22,26,SAC,GSW,8,away,JS,assist,26,make3,3,S. Curry,P. McCaw
 94,1,2:18.0,24,26,SAC,GSW,23,home,LU,,3,make2,2,D. Cousins,
 95,1,2:07.0,24,28,SAC,GSW,11,away,LU,,3,make2,2,S. Curry,
-96,1,1:55.0,24,28,SAC,GSW,12,home,BadPass,steal,,turnover,,D. Cousins,K. Looney
-97,1,1:54.0,24,28,SAC,GSW,1,away,BadPass,steal,,turnover,,K. Looney,T. Lawson
+96,1,1:55.0,24,28,SAC,GSW,12,home,bad pass,steal,,turnover,,D. Cousins,K. Looney
+97,1,1:54.0,24,28,SAC,GSW,1,away,bad pass,steal,,turnover,,K. Looney,T. Lawson
 98,1,1:53.0,24,28,SAC,GSW,1,home,BadPass,,,turnover,,T. Lawson,
 99,1,1:53.0,24,28,SAC,GSW,0,away,Sub,,,,,D. Green,K. Durant
-100,1,1:43.0,24,28,SAC,GSW,10,away,BadPass,steal,,turnover,,S. Curry,M. Barnes
+100,1,1:43.0,24,28,SAC,GSW,10,away,bad pass,steal,,turnover,,S. Curry,M. Barnes
 101,1,1:37.0,24,28,SAC,GSW,6,home,JS,,24,miss3,0,M. Barnes,
 102,1,1:36.0,24,28,SAC,GSW,1,away,DefReb,,,DefReb,,Team,
 103,1,1:26.0,24,28,SAC,GSW,10,away,JS,,25,miss3,0,P. McCaw,
@@ -145,7 +145,7 @@
 143,2,8:25.0,33,37,SAC,GSW,18,away,JS,block,11,miss2,0,K. Thompson,A. Tolliver
 144,2,8:22.0,33,37,SAC,GSW,3,home,DefReb,,,DefReb,,M. Barnes,
 145,2,8:02.0,35,37,SAC,GSW,20,home,LU,,3,make2,2,W. Cauley-Stein,
-146,2,7:41.0,35,37,SAC,GSW,21,away,BadPass,steal,,turnover,,K. Thompson,W. Cauley-Stein
+146,2,7:41.0,35,37,SAC,GSW,21,away,bad pass,steal,,turnover,,K. Thompson,W. Cauley-Stein
 147,2,7:33.0,38,37,SAC,GSW,8,home,JS,assist,22,make3,3,M. Barnes,M. Richardson
 148,2,7:20.0,38,37,SAC,GSW,13,away,JS,,25,miss3,0,K. Thompson,
 149,2,7:19.0,38,37,SAC,GSW,1,home,DefReb,,,DefReb,,M. Barnes,
@@ -155,7 +155,7 @@
 153,2,7:04.0,40,37,SAC,GSW,0,away,Sub,,,,,P. McCaw,K. Thompson
 154,2,7:04.0,40,37,SAC,GSW,0,away,Sub,,,,,J. McGee,J. McAdoo
 155,2,6:51.0,40,39,SAC,GSW,13,away,JS,,14,make2,2,S. Livingston,
-156,2,6:26.0,40,39,SAC,GSW,25,home,LostBall,steal,,turnover,,M. Richardson,P. McCaw
+156,2,6:26.0,40,39,SAC,GSW,25,home,lost ball,steal,,turnover,,M. Richardson,P. McCaw
 157,2,6:22.0,40,39,SAC,GSW,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Barnes,K. Durant
 158,2,6:22.0,40,40,SAC,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
 159,2,6:22.0,40,41,SAC,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
@@ -195,7 +195,7 @@
 193,2,2:53.0,48,47,SAC,GSW,0,home,FreeThrow,,,make1,0,A. Afflalo,
 194,2,2:53.0,48,47,SAC,GSW,0,home,OffReb,,,OffReb,,Team,
 195,2,2:53.0,49,47,SAC,GSW,0,home,FreeThrow,,,make1,1,A. Afflalo,
-196,2,2:39.0,49,47,SAC,GSW,14,away,BadPass,steal,,turnover,,K. Durant,W. Cauley-Stein
+196,2,2:39.0,49,47,SAC,GSW,14,away,bad pass,steal,,turnover,,K. Durant,W. Cauley-Stein
 197,2,2:19.0,49,47,SAC,GSW,20,home,LU,,3,miss2,0,D. Cousins,
 198,2,2:18.0,49,47,SAC,GSW,1,away,DefReb,,,DefReb,,D. Green,
 199,2,2:05.0,49,50,SAC,GSW,13,away,JS,assist,23,make3,3,K. Thompson,D. Green
@@ -221,10 +221,10 @@
 219,2,0:00.0,56,56,SAC,GSW,5,away,JS,block,27,miss3,0,S. Curry,D. Cousins
 220,2,0:00.0,56,56,SAC,GSW,0,away,OffReb,,,OffReb,,Team,
 221,3,11:40.0,58,56,SAC,GSW,20,home,JS,assist,19,make2,2,D. Cousins,D. Collison
-222,3,11:26.0,58,56,SAC,GSW,14,away,BadPass,steal,,turnover,,S. Curry,D. Cousins
+222,3,11:26.0,58,56,SAC,GSW,14,away,bad pass,steal,,turnover,,S. Curry,D. Cousins
 223,3,11:25.0,58,56,SAC,GSW,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. McGee,D. Cousins
 224,3,11:25.0,58,56,SAC,GSW,0,away,Sub,,,,,K. Looney,J. McGee
-225,3,11:01.0,58,56,SAC,GSW,24,home,LostBall,steal,,turnover,,D. Cousins,S. Curry
+225,3,11:01.0,58,56,SAC,GSW,24,home,lost ball,steal,,turnover,,D. Cousins,S. Curry
 226,3,10:55.0,58,56,SAC,GSW,6,away,JS,,24,miss3,0,K. Thompson,
 227,3,10:54.0,58,56,SAC,GSW,1,home,DefReb,,,DefReb,,D. Collison,
 228,3,10:38.0,60,56,SAC,GSW,16,home,LU,assist,5,make2,2,B. McLemore,D. Cousins
@@ -257,7 +257,7 @@
 255,3,7:13.0,67,65,SAC,GSW,0,away,FreeThrow,,,make1,1,K. Looney,
 256,3,6:58.0,67,65,SAC,GSW,15,home,JS,,26,miss3,0,D. Cousins,
 257,3,6:57.0,67,65,SAC,GSW,1,away,DefReb,,,DefReb,,S. Curry,
-258,3,6:47.0,67,65,SAC,GSW,10,away,BadPass,steal,,turnover,,K. Durant,B. McLemore
+258,3,6:47.0,67,65,SAC,GSW,10,away,bad pass,steal,,turnover,,K. Durant,B. McLemore
 259,3,6:37.0,67,65,SAC,GSW,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Looney,B. McLemore
 260,3,6:37.0,68,65,SAC,GSW,0,home,FreeThrow,,,make1,1,B. McLemore,
 261,3,6:37.0,68,65,SAC,GSW,0,home,Sub,,,,,A. Tolliver,K. Koufos
@@ -289,11 +289,11 @@
 287,3,3:34.0,75,73,SAC,GSW,0,away,Sub,,,,,D. Green,K. Looney
 288,3,3:34.0,78,73,SAC,GSW,0,home,FreeThrow,,,make1,1,B. McLemore,
 289,3,3:17.0,78,76,SAC,GSW,17,away,JS,assist,27,make3,3,S. Curry,D. Green
-290,3,2:56.0,78,76,SAC,GSW,21,home,BadPass,steal,,turnover,,D. Collison,S. Curry
+290,3,2:56.0,78,76,SAC,GSW,21,home,bad pass,steal,,turnover,,D. Collison,S. Curry
 291,3,2:50.0,78,79,SAC,GSW,6,away,JS,assist,24,make3,3,K. Thompson,S. Curry
 292,3,2:50.0,78,79,SAC,GSW,0,home,Timeout,,,,,,
-293,3,2:42.0,78,79,SAC,GSW,8,home,BadPass,steal,,turnover,,M. Barnes,K. Thompson
-294,3,2:34.0,78,79,SAC,GSW,8,away,BadPass,steal,,turnover,,A. Iguodala,B. McLemore
+293,3,2:42.0,78,79,SAC,GSW,8,home,bad pass,steal,,turnover,,M. Barnes,K. Thompson
+294,3,2:34.0,78,79,SAC,GSW,8,away,bad pass,steal,,turnover,,A. Iguodala,B. McLemore
 295,3,2:22.0,80,79,SAC,GSW,12,home,LU,,1,make2,2,D. Collison,
 296,3,2:00.0,80,79,SAC,GSW,22,away,JS,,24,miss3,0,K. Durant,
 297,3,2:00.0,80,79,SAC,GSW,0,home,DefReb,,,DefReb,,A. Tolliver,
@@ -315,12 +315,12 @@
 313,3,0:01.0,82,82,SAC,GSW,8,away,JS,,30,make3,3,S. Curry,
 314,4,11:46.0,82,82,SAC,GSW,14,away,JS,,22,miss2,0,K. Thompson,
 315,4,11:45.0,82,82,SAC,GSW,1,home,DefReb,,,DefReb,,M. Barnes,
-316,4,11:26.0,82,82,SAC,GSW,19,home,LostBall,steal,,turnover,,A. Tolliver,D. Green
+316,4,11:26.0,82,82,SAC,GSW,19,home,lost ball,steal,,turnover,,A. Tolliver,D. Green
 317,4,11:23.0,82,84,SAC,GSW,3,away,DK,assist,0,make2,2,D. Green,A. Iguodala
 318,4,11:02.0,85,84,SAC,GSW,21,home,JS,assist,25,make3,3,A. Tolliver,M. Barnes
 319,4,10:52.0,85,84,SAC,GSW,10,away,JS,,27,miss3,0,D. Green,
 320,4,10:50.0,85,84,SAC,GSW,2,away,OffReb,,,OffReb,,K. Thompson,
-321,4,10:47.0,85,84,SAC,GSW,3,away,BadPass,steal,,turnover,,K. Thompson,B. McLemore
+321,4,10:47.0,85,84,SAC,GSW,3,away,bad pass,steal,,turnover,,K. Thompson,B. McLemore
 322,4,10:30.0,85,84,SAC,GSW,17,home,LU,block,1,miss2,0,W. Cauley-Stein,D. Green
 323,4,10:29.0,85,84,SAC,GSW,1,away,DefReb,,,DefReb,,A. Iguodala,
 324,4,10:29.0,85,84,SAC,GSW,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Lawson,A. Iguodala
@@ -348,7 +348,7 @@
 346,4,7:24.0,91,87,SAC,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
 347,4,7:23.0,91,87,SAC,GSW,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Lawson,K. Thompson
 348,4,7:17.0,91,87,SAC,GSW,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Barnes,K. Durant
-349,4,7:09.0,91,87,SAC,GSW,8,away,BadPass,steal,,turnover,,D. Green,T. Lawson
+349,4,7:09.0,91,87,SAC,GSW,8,away,bad pass,steal,,turnover,,D. Green,T. Lawson
 350,4,6:57.0,91,87,SAC,GSW,12,home,LU,,2,miss2,0,W. Cauley-Stein,
 351,4,6:56.0,91,87,SAC,GSW,1,away,DefReb,,,DefReb,,K. Durant,
 352,4,6:46.0,91,87,SAC,GSW,10,away,JS,,26,miss3,0,K. Durant,
@@ -374,7 +374,7 @@
 372,4,4:35.0,94,90,SAC,GSW,0,home,DefReb,,,DefReb,,M. Barnes,
 373,4,4:13.0,94,90,SAC,GSW,22,home,JS,,25,miss3,0,T. Lawson,
 374,4,4:12.0,94,90,SAC,GSW,1,away,DefReb,,,DefReb,,S. Curry,
-375,4,4:10.0,94,90,SAC,GSW,2,away,BadPass,steal,,turnover,,S. Curry,D. Cousins
+375,4,4:10.0,94,90,SAC,GSW,2,away,bad pass,steal,,turnover,,S. Curry,D. Cousins
 376,4,3:51.0,94,90,SAC,GSW,19,home,JS,block,15,miss2,0,A. Tolliver,K. Durant
 377,4,3:50.0,94,90,SAC,GSW,1,away,DefReb,,,DefReb,,S. Livingston,
 378,4,3:38.0,94,93,SAC,GSW,12,away,JS,assist,25,make3,3,S. Curry,D. Green
@@ -419,7 +419,7 @@
 417,1OT,4:11.0,101,98,SAC,GSW,18,away,JS,,26,miss3,0,K. Thompson,
 418,1OT,4:10.0,101,98,SAC,GSW,1,home,DefReb,,,DefReb,,M. Barnes,
 419,1OT,3:55.0,103,98,SAC,GSW,15,home,LU,,1,make2,2,D. Cousins,
-420,1OT,3:36.0,103,98,SAC,GSW,19,away,BadPass,steal,,turnover,,D. Green,A. Afflalo
+420,1OT,3:36.0,103,98,SAC,GSW,19,away,bad pass,steal,,turnover,,D. Green,A. Afflalo
 421,1OT,3:12.0,103,98,SAC,GSW,24,home,JS,block,16,miss2,0,M. Barnes,K. Durant
 422,1OT,3:10.0,103,98,SAC,GSW,2,away,DefReb,,,DefReb,,D. Green,
 423,1OT,3:09.0,103,98,SAC,GSW,1,away,BadPass,,,turnover,,D. Green,
@@ -429,7 +429,7 @@
 427,1OT,2:39.0,105,98,SAC,GSW,0,away,FreeThrow,,,make1,0,D. Green,
 428,1OT,2:39.0,105,98,SAC,GSW,0,away,OffReb,,,OffReb,,Team,
 429,1OT,2:39.0,105,99,SAC,GSW,0,away,FreeThrow,,,make1,1,D. Green,
-430,1OT,2:24.0,105,99,SAC,GSW,15,home,LostBall,steal,,turnover,,D. Cousins,D. Green
+430,1OT,2:24.0,105,99,SAC,GSW,15,home,lost ball,steal,,turnover,,D. Cousins,D. Green
 431,1OT,2:23.0,105,99,SAC,GSW,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,D. Green
 432,1OT,2:11.0,105,102,SAC,GSW,12,away,JS,,28,make3,3,S. Curry,
 433,1OT,1:45.0,107,102,SAC,GSW,26,home,JS,,10,make2,2,D. Cousins,
@@ -440,7 +440,7 @@
 438,1OT,1:12.0,107,104,SAC,GSW,1,away,DefReb,,,DefReb,,K. Durant,
 439,1OT,1:05.0,107,104,SAC,GSW,7,away,JS,,24,miss3,0,K. Thompson,
 440,1OT,1:05.0,107,104,SAC,GSW,0,home,DefReb,,,DefReb,,M. Barnes,
-441,1OT,0:44.0,107,104,SAC,GSW,21,home,BadPass,steal,,turnover,,D. Collison,A. Iguodala
+441,1OT,0:44.0,107,104,SAC,GSW,21,home,bad pass,steal,,turnover,,D. Collison,A. Iguodala
 442,1OT,0:41.0,107,106,SAC,GSW,3,away,DK,,0,make2,2,D. Green,
 443,1OT,0:19.0,107,106,SAC,GSW,22,home,JS,,15,miss2,0,D. Cousins,
 444,1OT,0:18.0,107,106,SAC,GSW,1,away,DefReb,,,DefReb,,K. Thompson,

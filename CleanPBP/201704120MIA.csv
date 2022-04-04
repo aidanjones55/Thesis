@@ -1,6 +1,6 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:44.0,0,2,MIA,WAS,16,away,HS,,5,make2,2,M. Gortat,
-1,1,11:29.0,0,2,MIA,WAS,15,home,LostBall,steal,,turnover,,R. McGruder,T. Satoranský
+1,1,11:29.0,0,2,MIA,WAS,15,home,lost ball,steal,,turnover,,R. McGruder,T. Satoranský
 2,1,11:20.0,0,4,MIA,WAS,9,away,LU,,0,make2,2,K. Oubre,
 3,1,10:56.0,2,4,MIA,WAS,24,home,DK,assist,0,make2,2,H. Whiteside,R. McGruder
 4,1,10:43.0,2,4,MIA,WAS,13,away,JS,,25,miss3,0,O. Porter,
@@ -13,7 +13,7 @@
 11,1,9:54.0,2,4,MIA,WAS,7,away,JS,,24,miss3,0,T. Satoranský,
 12,1,9:53.0,2,4,MIA,WAS,1,away,OffReb,,,OffReb,,M. Gortat,
 13,1,9:49.0,2,6,MIA,WAS,4,away,JS,,11,make2,2,M. Gortat,
-14,1,9:27.0,2,6,MIA,WAS,22,home,LostBall,steal,,turnover,,G. Dragić,K. Oubre
+14,1,9:27.0,2,6,MIA,WAS,22,home,lost ball,steal,,turnover,,G. Dragić,K. Oubre
 15,1,9:18.0,2,6,MIA,WAS,9,away,JS,,23,miss3,0,B. Jennings,
 16,1,9:17.0,2,6,MIA,WAS,1,home,DefReb,,,DefReb,,H. Whiteside,
 17,1,9:07.0,5,6,MIA,WAS,10,home,JS,assist,25,make3,3,G. Dragić,J. Johnson
@@ -38,7 +38,7 @@
 36,1,7:01.0,7,10,MIA,WAS,5,away,JS,,3,make2,2,O. Porter,
 37,1,6:49.0,7,10,MIA,WAS,12,home,D3SecTech,,,,,,
 38,1,6:49.0,8,10,MIA,WAS,0,home,FreeThrow,,,make1,1,G. Dragić makes technical free throw,
-39,1,6:44.0,8,10,MIA,WAS,5,home,LostBall,steal,,turnover,,R. McGruder,K. Oubre
+39,1,6:44.0,8,10,MIA,WAS,5,home,lost ball,steal,,turnover,,R. McGruder,K. Oubre
 40,1,6:38.0,8,10,MIA,WAS,6,away,DK,,0,miss2,0,K. Oubre,
 41,1,6:37.0,8,10,MIA,WAS,1,home,DefReb,,,DefReb,,J. Johnson,
 42,1,6:31.0,10,10,MIA,WAS,6,home,DK,assist,0,make2,2,H. Whiteside,R. McGruder
@@ -56,7 +56,7 @@
 54,1,5:20.0,10,12,MIA,WAS,5,away,LU,block,1,miss2,0,T. Satoranský,J. Johnson
 55,1,5:19.0,10,12,MIA,WAS,1,away,OffReb,,,OffReb,,O. Porter,
 56,1,5:12.0,10,14,MIA,WAS,7,away,JS,,17,make2,2,O. Porter,
-57,1,5:02.0,10,14,MIA,WAS,10,home,LostBall,steal,,turnover,,J. Johnson,B. Jennings
+57,1,5:02.0,10,14,MIA,WAS,10,home,lost ball,steal,,turnover,,J. Johnson,B. Jennings
 58,1,4:57.0,10,16,MIA,WAS,5,away,LU,,2,make2,2,B. Jennings,
 59,1,4:50.0,10,16,MIA,WAS,7,home,Timeout,,,,,,
 60,1,4:50.0,10,16,MIA,WAS,0,away,Sub,,,,,T. Burke,T. Satoranský
@@ -141,7 +141,7 @@
 139,2,7:41.0,31,34,MIA,WAS,6,away,LU,,1,make2,2,S. Mac,
 140,2,7:22.0,33,34,MIA,WAS,19,home,JS,,9,make2,2,G. Dragić,
 141,2,7:10.0,33,36,MIA,WAS,12,away,JS,,6,make2,2,T. Burke,
-142,2,7:01.0,33,36,MIA,WAS,9,home,BadPass,steal,,turnover,,G. Dragić,T. Satoranský
+142,2,7:01.0,33,36,MIA,WAS,9,home,bad pass,steal,,turnover,,G. Dragić,T. Satoranský
 143,2,6:59.0,33,36,MIA,WAS,2,home,Sub,,,,,H. Whiteside,O. White
 144,2,6:59.0,33,36,MIA,WAS,0,away,Sub,,,,,O. Porter,T. Satoranský
 145,2,6:47.0,33,36,MIA,WAS,12,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Smith,J. Johnson
@@ -238,7 +238,7 @@
 236,3,8:03.0,66,57,MIA,WAS,5,home,LU,,2,miss2,0,J. Johnson,
 237,3,8:02.0,66,57,MIA,WAS,1,home,OffReb,,,OffReb,,H. Whiteside,
 238,3,8:00.0,68,57,MIA,WAS,2,home,JS,,1,make2,2,H. Whiteside,
-239,3,7:51.0,68,57,MIA,WAS,9,away,LostBall,steal,,turnover,,S. Mac,G. Dragić
+239,3,7:51.0,68,57,MIA,WAS,9,away,lost ball,steal,,turnover,,S. Mac,G. Dragić
 240,3,7:47.0,70,57,MIA,WAS,4,home,LU,,1,make2,2,G. Dragić,
 241,3,7:45.0,70,57,MIA,WAS,2,away,Timeout,,,,,,
 242,3,7:40.0,70,57,MIA,WAS,5,away,Traveling,,,turnover,,T. Satoranský,
@@ -276,7 +276,7 @@
 274,3,3:25.0,77,65,MIA,WAS,18,home,JS,,24,miss3,0,J. Richardson,
 275,3,3:24.0,77,65,MIA,WAS,1,away,DefReb,,,DefReb,,S. Mac,
 276,3,3:17.0,77,67,MIA,WAS,7,away,DK,assist,0,make2,2,K. Oubre,B. Jennings
-277,3,2:55.0,77,67,MIA,WAS,22,home,BadPass,steal,,turnover,,T. Johnson,K. Oubre
+277,3,2:55.0,77,67,MIA,WAS,22,home,bad pass,steal,,turnover,,T. Johnson,K. Oubre
 278,3,2:52.0,77,69,MIA,WAS,3,away,DK,,0,make2,2,K. Oubre,
 279,3,2:35.0,79,69,MIA,WAS,17,home,DK,assist,0,make2,2,W. Reed,J. Johnson
 280,3,2:18.0,79,69,MIA,WAS,17,away,JS,,18,miss2,0,K. Oubre,
@@ -325,8 +325,8 @@
 323,4,9:12.0,95,82,MIA,WAS,0,home,Sub,,,,,J. Richardson,R. McGruder
 324,4,9:02.0,95,82,MIA,WAS,10,away,JS,,11,miss2,0,B. Bogdanović,
 325,4,9:01.0,95,82,MIA,WAS,1,home,DefReb,,,DefReb,,W. Reed,
-326,4,8:51.0,95,82,MIA,WAS,10,home,BadPass,steal,,turnover,,G. Dragić,D. Ochefu
-327,4,8:43.0,95,82,MIA,WAS,8,away,LostBall,steal,,turnover,,S. Mac,O. White
+326,4,8:51.0,95,82,MIA,WAS,10,home,bad pass,steal,,turnover,,G. Dragić,D. Ochefu
+327,4,8:43.0,95,82,MIA,WAS,8,away,lost ball,steal,,turnover,,S. Mac,O. White
 328,4,8:41.0,95,82,MIA,WAS,2,away,Timeout,,,,,,
 329,4,8:19.0,95,82,MIA,WAS,22,home,ShotClockViolation,,,turnover,,Team,
 330,4,8:01.0,95,82,MIA,WAS,18,away,LU,,1,miss2,0,S. Mac,
@@ -386,7 +386,7 @@
 384,4,1:34.0,110,96,MIA,WAS,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dragić,S. Mac
 385,4,1:27.0,110,96,MIA,WAS,7,away,JS,,24,miss3,0,C. McCullough,
 386,4,1:26.0,110,96,MIA,WAS,1,home,DefReb,,,DefReb,,J. Johnson,
-387,4,1:22.0,110,96,MIA,WAS,4,home,BadPass,steal,,turnover,,J. Johnson,C. McCullough
+387,4,1:22.0,110,96,MIA,WAS,4,home,bad pass,steal,,turnover,,J. Johnson,C. McCullough
 388,4,1:06.0,110,96,MIA,WAS,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,S. Mac
 389,4,1:06.0,110,97,MIA,WAS,0,away,FreeThrow,,,make1,1,S. Mac,
 390,4,1:06.0,110,97,MIA,WAS,0,home,Sub,,,,,U. Haslem,H. Whiteside
@@ -398,5 +398,5 @@
 396,4,0:41.0,110,99,MIA,WAS,0,away,FreeThrow,,,make1,1,S. Mac,
 397,4,0:41.0,110,99,MIA,WAS,0,away,FreeThrow,,,make1,0,S. Mac,
 398,4,0:40.0,110,99,MIA,WAS,1,home,DefReb,,,DefReb,,U. Haslem,
-399,4,0:19.0,110,99,MIA,WAS,21,home,LostBall,steal,,turnover,,J. Richardson,T. Burke
+399,4,0:19.0,110,99,MIA,WAS,21,home,lost ball,steal,,turnover,,J. Richardson,T. Burke
 400,4,0:11.0,110,102,MIA,WAS,8,away,JS,assist,25,make3,3,T. Burke,D. Ochefu

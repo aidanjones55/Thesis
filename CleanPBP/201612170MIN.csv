@@ -1,15 +1,15 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:39.0,0,0,MIN,HOU,21,away,BadPass,steal,,turnover,,J. Harden,Z. LaVine
+0,1,11:39.0,0,0,MIN,HOU,21,away,bad pass,steal,,turnover,,J. Harden,Z. LaVine
 1,1,11:35.0,2,0,MIN,HOU,4,home,DK,assist,0,make2,2,K. Towns,R. Rubio
 2,1,11:20.0,2,0,MIN,HOU,15,away,JS,,26,miss3,0,R. Anderson,
 3,1,11:19.0,2,0,MIN,HOU,1,home,DefReb,,,DefReb,,A. Wiggins,
-4,1,11:07.0,2,0,MIN,HOU,12,home,LostBall,steal,,turnover,,R. Rubio,T. Ariza
+4,1,11:07.0,2,0,MIN,HOU,12,home,lost ball,steal,,turnover,,R. Rubio,T. Ariza
 5,1,10:57.0,2,3,MIN,HOU,10,away,JS,assist,24,make3,3,R. Anderson,J. Harden
 6,1,10:45.0,5,3,MIN,HOU,12,home,JS,assist,24,make3,3,Z. LaVine,K. Towns
 7,1,10:32.0,5,3,MIN,HOU,13,away,JS,,25,miss3,0,R. Anderson,
 8,1,10:31.0,5,3,MIN,HOU,1,home,DefReb,,,DefReb,,R. Rubio,
-9,1,10:26.0,5,3,MIN,HOU,5,home,BadPass,steal,,turnover,,Z. LaVine,P. Beverley
-10,1,10:22.0,5,3,MIN,HOU,4,away,BadPass,steal,,turnover,,P. Beverley,R. Rubio
+9,1,10:26.0,5,3,MIN,HOU,5,home,bad pass,steal,,turnover,,Z. LaVine,P. Beverley
+10,1,10:22.0,5,3,MIN,HOU,4,away,bad pass,steal,,turnover,,P. Beverley,R. Rubio
 11,1,10:18.0,5,3,MIN,HOU,4,home,LU,,2,miss2,0,R. Rubio,
 12,1,10:16.0,5,3,MIN,HOU,2,away,DefReb,,,DefReb,,R. Anderson,
 13,1,10:09.0,5,5,MIN,HOU,7,away,LU,assist,1,make2,2,C. Capela,P. Beverley
@@ -21,7 +21,7 @@
 19,1,9:14.0,9,5,MIN,HOU,19,home,JS,assist,8,make2,2,K. Towns,Z. LaVine
 20,1,8:59.0,9,5,MIN,HOU,15,away,JS,,23,miss3,0,T. Ariza,
 21,1,8:58.0,9,5,MIN,HOU,1,home,DefReb,,,DefReb,,G. Dieng,
-22,1,8:51.0,9,5,MIN,HOU,7,home,BadPass,steal,,turnover,,Z. LaVine,T. Ariza
+22,1,8:51.0,9,5,MIN,HOU,7,home,bad pass,steal,,turnover,,Z. LaVine,T. Ariza
 23,1,8:30.0,9,5,MIN,HOU,21,away,BadPass,,,turnover,,T. Ariza,
 24,1,8:16.0,9,5,MIN,HOU,14,home,JS,,10,miss2,0,K. Towns,
 25,1,8:15.0,9,5,MIN,HOU,1,away,DefReb,,,DefReb,,C. Capela,
@@ -51,7 +51,7 @@
 49,1,5:15.0,15,18,MIN,HOU,0,away,ShotClockViolation,,,turnover,,Team,
 50,1,4:59.0,15,18,MIN,HOU,16,home,JS,,10,miss2,0,A. Wiggins,
 51,1,4:58.0,15,18,MIN,HOU,1,away,DefReb,,,DefReb,,R. Anderson,
-52,1,4:56.0,15,18,MIN,HOU,2,away,BadPass,steal,,turnover,,R. Anderson,R. Rubio
+52,1,4:56.0,15,18,MIN,HOU,2,away,bad pass,steal,,turnover,,R. Anderson,R. Rubio
 53,1,4:53.0,17,18,MIN,HOU,3,home,LU,assist,2,make2,2,K. Towns,R. Rubio
 54,1,4:39.0,17,18,MIN,HOU,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dieng,J. Harden
 55,1,4:39.0,17,19,MIN,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
@@ -159,7 +159,7 @@
 157,2,6:47.0,37,39,MIN,HOU,2,away,DefReb,,,DefReb,,E. Gordon,
 158,2,6:39.0,37,39,MIN,HOU,8,away,JS,,26,miss3,0,R. Anderson,
 159,2,6:37.0,37,39,MIN,HOU,2,away,OffReb,,,OffReb,,E. Gordon,
-160,2,6:28.0,37,39,MIN,HOU,9,away,LostBall,steal,,turnover,,J. Harden,K. Dunn
+160,2,6:28.0,37,39,MIN,HOU,9,away,lost ball,steal,,turnover,,J. Harden,K. Dunn
 161,2,6:24.0,39,39,MIN,HOU,4,home,LU,assist,2,make2,2,Z. LaVine,S. Muhammad
 162,2,6:15.0,39,39,MIN,HOU,9,away,BackCourtTurnover,,,turnover,,T. Ariza,
 163,2,6:15.0,39,39,MIN,HOU,0,home,Sub,,,,,A. Wiggins,S. Muhammad
@@ -197,7 +197,7 @@
 195,2,2:15.0,50,43,MIN,HOU,0,home,FreeThrow,,,make1,0,Z. LaVine,
 196,2,2:15.0,50,43,MIN,HOU,0,home,OffReb,,,OffReb,,Team,
 197,2,2:15.0,51,43,MIN,HOU,0,home,FreeThrow,,,make1,1,Z. LaVine,
-198,2,2:12.0,51,43,MIN,HOU,3,away,LostBall,steal,,turnover,,J. Harden,R. Rubio
+198,2,2:12.0,51,43,MIN,HOU,3,away,lost ball,steal,,turnover,,J. Harden,R. Rubio
 199,2,2:09.0,51,43,MIN,HOU,3,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,R. Anderson,Z. LaVine
 200,2,2:09.0,52,43,MIN,HOU,0,home,FreeThrow,,,make1,1,Z. LaVine,
 201,2,2:09.0,53,43,MIN,HOU,0,home,FreeThrow,,,make1,1,Z. LaVine,
@@ -233,17 +233,17 @@
 231,3,10:34.0,61,46,MIN,HOU,1,away,DefReb,,,DefReb,,J. Harden,
 232,3,10:26.0,61,48,MIN,HOU,8,away,LU,,0,make2,2,J. Harden,
 233,3,10:16.0,61,48,MIN,HOU,10,away,Sub,,,,,N. Hilário,C. Capela
-234,3,10:07.0,61,48,MIN,HOU,9,home,BadPass,steal,,turnover,,R. Rubio,N. Hilário
-235,3,10:00.0,61,48,MIN,HOU,7,away,LostBall,steal,,turnover,,J. Harden,A. Wiggins
+234,3,10:07.0,61,48,MIN,HOU,9,home,bad pass,steal,,turnover,,R. Rubio,N. Hilário
+235,3,10:00.0,61,48,MIN,HOU,7,away,lost ball,steal,,turnover,,J. Harden,A. Wiggins
 236,3,9:54.0,63,48,MIN,HOU,6,home,LU,assist,1,make2,2,K. Towns,R. Rubio
 237,3,9:32.0,63,48,MIN,HOU,22,away,JS,,26,miss3,0,R. Anderson,
 238,3,9:31.0,63,48,MIN,HOU,1,home,DefReb,,,DefReb,,G. Dieng,
 239,3,9:23.0,65,48,MIN,HOU,8,home,JS,assist,21,make2,2,A. Wiggins,Z. LaVine
 240,3,9:05.0,65,51,MIN,HOU,18,away,JS,assist,26,make3,3,R. Anderson,J. Harden
-241,3,8:45.0,65,51,MIN,HOU,20,home,BadPass,steal,,turnover,,Z. LaVine,J. Harden
+241,3,8:45.0,65,51,MIN,HOU,20,home,bad pass,steal,,turnover,,Z. LaVine,J. Harden
 242,3,8:37.0,65,51,MIN,HOU,8,away,JS,,24,miss3,0,T. Ariza,
 243,3,8:35.0,65,51,MIN,HOU,2,home,DefReb,,,DefReb,,Team,
-244,3,8:17.0,65,51,MIN,HOU,18,home,LostBall,steal,,turnover,,K. Towns,N. Hilário
+244,3,8:17.0,65,51,MIN,HOU,18,home,lost ball,steal,,turnover,,K. Towns,N. Hilário
 245,3,8:12.0,65,51,MIN,HOU,5,away,LU,,3,miss2,0,T. Ariza,
 246,3,8:11.0,65,51,MIN,HOU,1,away,OffReb,,,OffReb,,T. Ariza,
 247,3,8:10.0,65,53,MIN,HOU,1,away,LU,,1,make2,2,T. Ariza,
@@ -259,7 +259,7 @@
 257,3,6:42.0,69,53,MIN,HOU,15,away,JS,,23,miss3,0,T. Ariza,
 258,3,6:40.0,69,53,MIN,HOU,2,home,DefReb,,,DefReb,,K. Towns,
 259,3,6:33.0,69,53,MIN,HOU,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Harden,G. Dieng
-260,3,6:19.0,69,53,MIN,HOU,14,home,BadPass,steal,,turnover,,K. Towns,R. Anderson
+260,3,6:19.0,69,53,MIN,HOU,14,home,bad pass,steal,,turnover,,K. Towns,R. Anderson
 261,3,6:06.0,69,53,MIN,HOU,13,away,JS,,25,miss3,0,R. Anderson,
 262,3,6:04.0,69,53,MIN,HOU,2,home,DefReb,,,DefReb,,Team,
 263,3,5:48.0,69,53,MIN,HOU,16,home,LU,block,0,miss2,0,K. Towns,R. Anderson
@@ -282,7 +282,7 @@
 280,3,4:32.0,73,57,MIN,HOU,25,home,JS,assist,4,make2,2,K. Towns,Z. LaVine
 281,3,4:09.0,73,57,MIN,HOU,23,away,JS,,20,miss2,0,R. Anderson,
 282,3,4:08.0,73,57,MIN,HOU,1,home,DefReb,,,DefReb,,Z. LaVine,
-283,3,3:54.0,73,57,MIN,HOU,14,home,BadPass,steal,,turnover,,Z. LaVine,N. Hilário
+283,3,3:54.0,73,57,MIN,HOU,14,home,bad pass,steal,,turnover,,Z. LaVine,N. Hilário
 284,3,3:49.0,73,57,MIN,HOU,5,away,LU,,1,miss2,0,T. Ariza,
 285,3,3:48.0,73,57,MIN,HOU,1,home,DefReb,,,DefReb,,K. Towns,
 286,3,3:33.0,73,57,MIN,HOU,15,home,LU,,3,miss2,0,Z. LaVine,
@@ -307,7 +307,7 @@
 305,3,2:25.0,75,62,MIN,HOU,1,home,DefReb,,,DefReb,,K. Towns,
 306,3,2:13.0,75,62,MIN,HOU,12,home,JS,,13,miss2,0,A. Wiggins,
 307,3,2:12.0,75,62,MIN,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
-308,3,1:51.0,75,62,MIN,HOU,21,away,LostBall,steal,,turnover,,E. Gordon,R. Rubio
+308,3,1:51.0,75,62,MIN,HOU,21,away,lost ball,steal,,turnover,,E. Gordon,R. Rubio
 309,3,1:47.0,75,62,MIN,HOU,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harden,A. Wiggins
 310,3,1:47.0,75,62,MIN,HOU,0,away,Timeout,,,,,,
 311,3,1:47.0,76,62,MIN,HOU,0,home,FreeThrow,,,make1,1,A. Wiggins,
@@ -322,7 +322,7 @@
 320,3,0:46.0,79,65,MIN,HOU,1,away,DefReb,,,DefReb,,P. Beverley,
 321,3,0:32.0,79,65,MIN,HOU,14,away,JS,,12,miss2,0,M. Harrell,
 322,3,0:31.0,79,65,MIN,HOU,1,home,DefReb,,,DefReb,,S. Muhammad,
-323,3,0:11.0,79,65,MIN,HOU,20,home,LostBall,steal,,turnover,,S. Muhammad,P. Beverley
+323,3,0:11.0,79,65,MIN,HOU,20,home,lost ball,steal,,turnover,,S. Muhammad,P. Beverley
 324,3,0:07.0,79,67,MIN,HOU,4,away,DK,assist,0,make2,2,S. Dekker,J. Harden
 325,3,0:04.0,79,67,MIN,HOU,3,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,P. Beverley,S. Muhammad
 326,3,0:04.0,79,67,MIN,HOU,0,home,FreeThrow,,,make1,0,S. Muhammad,
@@ -334,7 +334,7 @@
 332,4,11:32.0,80,67,MIN,HOU,6,away,JS,block,8,miss2,0,M. Harrell,C. Aldrich
 333,4,11:31.0,80,67,MIN,HOU,1,home,DefReb,,,DefReb,,N. Bjelica,
 334,4,11:17.0,80,67,MIN,HOU,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Brewer,S. Muhammad
-335,4,11:02.0,80,67,MIN,HOU,15,home,LostBall,steal,,turnover,,S. Muhammad,E. Gordon
+335,4,11:02.0,80,67,MIN,HOU,15,home,lost ball,steal,,turnover,,S. Muhammad,E. Gordon
 336,4,10:55.0,80,67,MIN,HOU,7,away,JS,,23,miss3,0,C. Brewer,
 337,4,10:54.0,80,67,MIN,HOU,1,home,DefReb,,,DefReb,,C. Aldrich,
 338,4,10:48.0,80,67,MIN,HOU,6,home,LU,,1,miss2,0,K. Dunn,
@@ -359,7 +359,7 @@
 357,4,8:32.0,82,72,MIN,HOU,2,away,OffReb,,,OffReb,,S. Dekker,
 358,4,8:29.0,82,72,MIN,HOU,3,away,JS,,24,miss3,0,E. Gordon,
 359,4,8:28.0,82,72,MIN,HOU,1,home,DefReb,,,DefReb,,N. Bjelica,
-360,4,8:22.0,82,72,MIN,HOU,6,home,BadPass,steal,,turnover,,R. Rubio,E. Gordon
+360,4,8:22.0,82,72,MIN,HOU,6,home,bad pass,steal,,turnover,,R. Rubio,E. Gordon
 361,4,8:20.0,82,72,MIN,HOU,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Aldrich,E. Gordon
 362,4,8:20.0,82,72,MIN,HOU,0,away,Timeout,,,,,,
 363,4,8:20.0,82,72,MIN,HOU,0,home,Sub,,,,,G. Dieng,C. Aldrich
@@ -378,7 +378,7 @@
 376,4,7:06.0,82,74,MIN,HOU,19,home,JS,,25,miss3,0,Z. LaVine,
 377,4,7:05.0,82,74,MIN,HOU,1,away,DefReb,,,DefReb,,J. Harden,
 378,4,6:56.0,82,74,MIN,HOU,9,away,Sub,,,,,R. Anderson,S. Dekker
-379,4,6:56.0,82,74,MIN,HOU,0,away,LostBall,steal,,turnover,,J. Harden,A. Wiggins
+379,4,6:56.0,82,74,MIN,HOU,0,away,lost ball,steal,,turnover,,J. Harden,A. Wiggins
 380,4,6:36.0,82,74,MIN,HOU,20,home,JS,,15,miss2,0,R. Rubio,
 381,4,6:35.0,82,74,MIN,HOU,1,away,DefReb,,,DefReb,,J. Harden,
 382,4,6:18.0,82,74,MIN,HOU,17,away,JS,,6,miss2,0,P. Beverley,
@@ -396,7 +396,7 @@
 394,4,5:26.0,84,76,MIN,HOU,1,home,DefReb,,,DefReb,,G. Dieng,
 395,4,5:10.0,84,76,MIN,HOU,16,home,JS,,24,miss3,0,Z. LaVine,
 396,4,5:08.0,84,76,MIN,HOU,2,away,DefReb,,,DefReb,,P. Beverley,
-397,4,5:03.0,84,76,MIN,HOU,5,away,BadPass,steal,,turnover,,J. Harden,A. Wiggins
+397,4,5:03.0,84,76,MIN,HOU,5,away,bad pass,steal,,turnover,,J. Harden,A. Wiggins
 398,4,4:42.0,87,76,MIN,HOU,21,home,JS,assist,25,make3,3,R. Rubio,G. Dieng
 399,4,4:26.0,87,76,MIN,HOU,16,away,JS,block,5,miss2,0,E. Gordon,K. Towns
 400,4,4:24.0,87,76,MIN,HOU,2,away,OffReb,,,OffReb,,R. Anderson,
@@ -421,7 +421,7 @@
 419,4,1:02.0,93,84,MIN,HOU,23,home,HS,,10,miss2,0,K. Towns,
 420,4,1:01.0,93,84,MIN,HOU,1,away,DefReb,,,DefReb,,E. Gordon,
 421,4,0:56.0,93,86,MIN,HOU,5,away,LU,,2,make2,2,E. Gordon,
-422,4,0:45.0,93,86,MIN,HOU,11,home,BadPass,steal,,turnover,,K. Towns,R. Anderson
+422,4,0:45.0,93,86,MIN,HOU,11,home,bad pass,steal,,turnover,,K. Towns,R. Anderson
 423,4,0:38.0,93,89,MIN,HOU,7,away,JS,assist,25,make3,3,T. Ariza,J. Harden
 424,4,0:38.0,93,89,MIN,HOU,0,home,Timeout,,,,,,
 425,4,0:38.0,93,89,MIN,HOU,0,away,Sub,,,,,M. Harrell,R. Anderson
@@ -448,7 +448,7 @@
 446,1OT,4:10.0,96,98,MIN,HOU,0,home,Sub,,,,,N. Bjelica,G. Dieng
 447,1OT,4:10.0,97,98,MIN,HOU,0,home,FreeThrow,,,make1,1,R. Rubio,
 448,1OT,4:00.0,97,100,MIN,HOU,10,away,LU,,1,make2,2,J. Harden,
-449,1OT,3:47.0,97,100,MIN,HOU,13,home,BadPass,steal,,turnover,,K. Towns,R. Anderson
+449,1OT,3:47.0,97,100,MIN,HOU,13,home,bad pass,steal,,turnover,,K. Towns,R. Anderson
 450,1OT,3:32.0,97,100,MIN,HOU,15,away,JS,,25,miss3,0,R. Anderson,
 451,1OT,3:31.0,97,100,MIN,HOU,1,home,DefReb,,,DefReb,,K. Towns,
 452,1OT,3:19.0,97,100,MIN,HOU,12,home,JS,,15,miss2,0,K. Towns,
@@ -471,7 +471,7 @@
 469,1OT,1:45.0,101,102,MIN,HOU,0,home,FreeThrow,,,make1,1,K. Towns,
 470,1OT,1:24.0,101,102,MIN,HOU,21,away,JS,,25,miss3,0,J. Harden,
 471,1OT,1:23.0,101,102,MIN,HOU,1,home,DefReb,,,DefReb,,K. Towns,
-472,1OT,0:57.0,101,102,MIN,HOU,26,home,BadPass,steal,,turnover,,A. Wiggins,T. Ariza
+472,1OT,0:57.0,101,102,MIN,HOU,26,home,bad pass,steal,,turnover,,A. Wiggins,T. Ariza
 473,1OT,0:44.0,101,105,MIN,HOU,13,away,JS,assist,28,make3,3,E. Gordon,J. Harden
 474,1OT,0:33.0,101,105,MIN,HOU,11,home,BadPass,,,turnover,,N. Bjelica,
 475,1OT,0:25.0,101,105,MIN,HOU,8,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Wiggins,T. Ariza

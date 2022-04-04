@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:48.0,0,0,CHO,NOP,12,away,JS,,17,miss2,0,A. Davis,
 1,1,11:46.0,0,0,CHO,NOP,2,home,DefReb,,,DefReb,,N. Batum,
-2,1,11:28.0,0,0,CHO,NOP,18,home,LostBall,steal,,turnover,,K. Walker,S. Hill
+2,1,11:28.0,0,0,CHO,NOP,18,home,lost ball,steal,,turnover,,K. Walker,S. Hill
 3,1,11:13.0,0,2,CHO,NOP,15,away,LU,,1,make2,2,D. Cousins,
 4,1,10:58.0,3,2,CHO,NOP,15,home,JS,assist,25,make3,3,K. Walker,N. Batum
 5,1,10:36.0,3,5,CHO,NOP,22,away,JS,assist,25,make3,3,S. Hill,D. Cousins
@@ -12,7 +12,7 @@
 10,1,9:25.0,7,7,CHO,NOP,1,home,DefReb,,,DefReb,,K. Walker,
 11,1,9:18.0,7,7,CHO,NOP,7,home,JS,,25,miss3,0,N. Batum,
 12,1,9:17.0,7,7,CHO,NOP,1,away,DefReb,,,DefReb,,H. Thompson,
-13,1,8:56.0,7,7,CHO,NOP,21,away,LostBall,steal,,turnover,,D. Cousins,C. Zeller
+13,1,8:56.0,7,7,CHO,NOP,21,away,lost ball,steal,,turnover,,D. Cousins,C. Zeller
 14,1,8:51.0,7,7,CHO,NOP,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,C. Zeller
 15,1,8:45.0,7,7,CHO,NOP,6,home,D3SecTech,,,,,,
 16,1,8:45.0,8,7,CHO,NOP,0,home,FreeThrow,,,make1,1,N. Batum makes technical free throw,
@@ -39,7 +39,7 @@
 37,1,6:40.0,10,14,CHO,NOP,1,away,DefReb,,,DefReb,,A. Davis,
 38,1,6:40.0,10,14,CHO,NOP,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Zeller,D. Cousins
 39,1,6:40.0,10,14,CHO,NOP,0,home,Sub,,,,,M. Belinelli,M. Kidd-Gilchrist
-40,1,6:35.0,10,14,CHO,NOP,5,away,BadPass,steal,,turnover,,J. Holiday,M. Williams
+40,1,6:35.0,10,14,CHO,NOP,5,away,bad pass,steal,,turnover,,J. Holiday,M. Williams
 41,1,6:29.0,12,14,CHO,NOP,6,home,LU,assist,1,make2,2,M. Williams,K. Walker
 42,1,6:08.0,12,16,CHO,NOP,21,away,LU,assist,1,make2,2,S. Hill,D. Cousins
 43,1,5:50.0,15,16,CHO,NOP,18,home,JS,assist,25,make3,3,M. Belinelli,K. Walker
@@ -95,7 +95,7 @@
 93,2,11:17.0,29,36,CHO,NOP,10,away,JS,assist,27,make3,3,J. Crawford,T. Frazier
 94,2,11:02.0,29,36,CHO,NOP,15,home,LU,,1,miss2,0,C. Zeller,
 95,2,11:01.0,29,36,CHO,NOP,1,away,DefReb,,,DefReb,,D. Cousins,
-96,2,10:44.0,29,36,CHO,NOP,17,away,BadPass,steal,,turnover,,T. Frazier,M. Kidd-Gilchrist
+96,2,10:44.0,29,36,CHO,NOP,17,away,bad pass,steal,,turnover,,T. Frazier,M. Kidd-Gilchrist
 97,2,10:28.0,29,36,CHO,NOP,16,home,LU,block,2,miss2,0,C. Zeller,E. Moore
 98,2,10:28.0,29,36,CHO,NOP,0,home,OffReb,,,OffReb,,Team,
 99,2,10:25.0,29,36,CHO,NOP,3,home,JS,,20,miss2,0,B. Roberts,
@@ -239,7 +239,7 @@
 237,3,6:02.0,69,68,CHO,NOP,10,away,LU,,2,miss2,0,D. Cousins,
 238,3,6:02.0,69,68,CHO,NOP,0,away,OffReb,,,OffReb,,Team,
 239,3,6:02.0,69,68,CHO,NOP,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Batum,A. Davis
-240,3,5:56.0,69,68,CHO,NOP,6,away,BadPass,steal,,turnover,,D. Cousins,C. Zeller
+240,3,5:56.0,69,68,CHO,NOP,6,away,bad pass,steal,,turnover,,D. Cousins,C. Zeller
 241,3,5:51.0,71,68,CHO,NOP,5,home,DK,assist,0,make2,2,C. Zeller,K. Walker
 242,3,5:44.0,71,68,CHO,NOP,7,away,LU,block,0,miss2,0,J. Holiday,M. Williams
 243,3,5:42.0,71,68,CHO,NOP,2,home,DefReb,,,DefReb,,K. Walker,
@@ -270,11 +270,11 @@
 268,3,3:43.0,73,72,CHO,NOP,14,away,JS,,10,make2,2,D. Cunningham,
 269,3,3:26.0,76,72,CHO,NOP,17,home,JS,assist,25,make3,3,N. Batum,M. Kidd-Gilchrist
 270,3,3:17.0,76,74,CHO,NOP,9,away,LU,,1,make2,2,S. Hill,
-271,3,3:01.0,76,74,CHO,NOP,16,home,LostBall,steal,,turnover,,C. Wood,J. Holiday
+271,3,3:01.0,76,74,CHO,NOP,16,home,lost ball,steal,,turnover,,C. Wood,J. Holiday
 272,3,2:55.0,76,76,CHO,NOP,6,away,DK,assist,0,make2,2,A. Davis,J. Holiday
 273,3,2:37.0,76,76,CHO,NOP,18,home,JS,,25,miss3,0,N. Batum,
 274,3,2:35.0,76,76,CHO,NOP,2,home,OffReb,,,OffReb,,C. Wood,
-275,3,2:33.0,76,76,CHO,NOP,2,home,LostBall,steal,,turnover,,C. Wood,J. Holiday
+275,3,2:33.0,76,76,CHO,NOP,2,home,lost ball,steal,,turnover,,C. Wood,J. Holiday
 276,3,2:29.0,76,76,CHO,NOP,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kidd-Gilchrist,A. Davis
 277,3,2:29.0,76,76,CHO,NOP,0,home,Timeout,,,,,,
 278,3,2:29.0,76,77,CHO,NOP,0,away,FreeThrow,,,make1,1,A. Davis,
@@ -309,7 +309,7 @@
 307,3,0:05.0,78,83,CHO,NOP,2,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
 308,3,0:01.0,78,83,CHO,NOP,4,home,JS,,31,miss3,0,J. Lamb,
 309,3,0:00.0,78,83,CHO,NOP,1,home,OffReb,,,OffReb,,Team,
-310,4,11:43.0,78,83,CHO,NOP,17,away,BadPass,steal,,turnover,,D. Cousins,J. Lamb
+310,4,11:43.0,78,83,CHO,NOP,17,away,bad pass,steal,,turnover,,D. Cousins,J. Lamb
 311,4,11:28.0,78,83,CHO,NOP,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Cousins,C. Zeller
 312,4,11:28.0,78,83,CHO,NOP,0,home,FreeThrow,,,make1,0,C. Zeller,
 313,4,11:28.0,78,83,CHO,NOP,0,home,OffReb,,,OffReb,,Team,
@@ -357,7 +357,7 @@
 355,4,7:29.0,91,88,CHO,NOP,5,home,JS,assist,25,make3,3,K. Walker,N. Batum
 356,4,7:17.0,91,88,CHO,NOP,12,away,JS,,26,miss3,0,J. Crawford,
 357,4,7:16.0,91,88,CHO,NOP,1,home,DefReb,,,DefReb,,M. Williams,
-358,4,7:09.0,91,88,CHO,NOP,7,home,BadPass,steal,,turnover,,K. Walker,J. Holiday
+358,4,7:09.0,91,88,CHO,NOP,7,home,bad pass,steal,,turnover,,K. Walker,J. Holiday
 359,4,7:03.0,91,91,CHO,NOP,6,away,JS,assist,25,make3,3,J. Crawford,J. Holiday
 360,4,6:48.0,91,91,CHO,NOP,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,C. Wood
 361,4,6:48.0,92,91,CHO,NOP,0,home,FreeThrow,,,make1,1,C. Wood,

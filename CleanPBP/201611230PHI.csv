@@ -1,6 +1,6 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:40.0,0,2,PHI,MEM,20,away,JS,assist,20,make2,2,J. Green,T. Allen
-1,1,11:21.0,0,2,PHI,MEM,19,home,BadPass,steal,,turnover,,J. Embiid,M. Gasol
+1,1,11:21.0,0,2,PHI,MEM,19,home,bad pass,steal,,turnover,,J. Embiid,M. Gasol
 2,1,11:09.0,0,2,PHI,MEM,12,away,JS,,10,miss2,0,T. Allen,
 3,1,11:07.0,0,2,PHI,MEM,2,home,DefReb,,,DefReb,,E. İlyasova,
 4,1,10:54.0,2,2,PHI,MEM,13,home,LU,assist,2,make2,2,H. Thompson,S. Rodríguez
@@ -12,7 +12,7 @@
 10,1,10:16.0,2,2,PHI,MEM,2,home,DefReb,,,DefReb,,E. İlyasova,
 11,1,10:08.0,5,2,PHI,MEM,8,home,JS,assist,26,make3,3,E. İlyasova,S. Rodríguez
 12,1,9:48.0,5,4,PHI,MEM,20,away,HS,,10,make2,2,M. Gasol,
-13,1,9:34.0,5,4,PHI,MEM,14,home,LostBall,steal,,turnover,,J. Embiid,T. Daniels
+13,1,9:34.0,5,4,PHI,MEM,14,home,lost ball,steal,,turnover,,J. Embiid,T. Daniels
 14,1,9:29.0,5,6,PHI,MEM,5,away,JS,assist,6,make2,2,T. Allen,M. Conley
 15,1,9:29.0,5,6,PHI,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Thompson,T. Allen
 16,1,9:29.0,5,7,PHI,MEM,0,away,FreeThrow,,,make1,1,T. Allen,
@@ -140,7 +140,7 @@
 138,2,9:05.0,32,26,PHI,MEM,0,away,Sub,,,,,J. Green,J. Martin
 139,2,9:05.0,32,26,PHI,MEM,0,away,Sub,,,,,A. Harrison,M. Conley
 140,2,8:50.0,32,28,PHI,MEM,15,away,JS,assist,20,make2,2,Z. Randolph,J. Green
-141,2,8:38.0,32,28,PHI,MEM,12,home,LostBall,steal,,turnover,,J. Okafor,Z. Randolph
+141,2,8:38.0,32,28,PHI,MEM,12,home,lost ball,steal,,turnover,,J. Okafor,Z. Randolph
 142,2,8:38.0,32,28,PHI,MEM,0,away,Timeout,,,,,,
 143,2,8:38.0,32,28,PHI,MEM,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Okafor,Z. Randolph
 144,2,8:38.0,32,28,PHI,MEM,0,home,Sub,,,,,J. Embiid,J. Okafor
@@ -167,10 +167,10 @@
 165,2,6:37.0,39,34,PHI,MEM,0,away,OffensiveFoul,,,turnover,,M. Gasol,
 166,2,6:22.0,39,34,PHI,MEM,15,home,JS,,14,miss2,0,J. Embiid,
 167,2,6:20.0,39,34,PHI,MEM,2,away,DefReb,,,DefReb,,J. Green,
-168,2,6:20.0,39,34,PHI,MEM,0,away,LostBall,steal,,turnover,,J. Green,R. Covington
+168,2,6:20.0,39,34,PHI,MEM,0,away,lost ball,steal,,turnover,,J. Green,R. Covington
 169,2,6:16.0,39,34,PHI,MEM,4,home,JS,,26,miss3,0,R. Covington,
 170,2,6:10.0,39,34,PHI,MEM,6,away,DefReb,,,DefReb,,T. Daniels,
-171,2,6:05.0,39,34,PHI,MEM,5,away,LostBall,steal,,turnover,,A. Harrison,H. Thompson
+171,2,6:05.0,39,34,PHI,MEM,5,away,lost ball,steal,,turnover,,A. Harrison,H. Thompson
 172,2,5:46.0,42,34,PHI,MEM,19,home,JS,assist,24,make3,3,R. Covington,J. Embiid
 173,2,5:26.0,42,34,PHI,MEM,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Thompson,A. Harrison
 174,2,5:26.0,42,34,PHI,MEM,0,home,Timeout,,,,,,
@@ -181,7 +181,7 @@
 179,2,5:14.0,42,36,PHI,MEM,2,away,DefReb,,,DefReb,,T. Allen,
 180,2,5:00.0,42,36,PHI,MEM,14,away,JS,block,4,miss2,0,J. Green,R. Covington
 181,2,4:58.0,42,36,PHI,MEM,2,home,DefReb,,,DefReb,,R. Covington,
-182,2,4:57.0,42,36,PHI,MEM,1,home,BadPass,steal,,turnover,,R. Covington,A. Harrison
+182,2,4:57.0,42,36,PHI,MEM,1,home,bad pass,steal,,turnover,,R. Covington,A. Harrison
 183,2,4:50.0,42,36,PHI,MEM,7,away,LU,,3,miss2,0,T. Allen,
 184,2,4:47.0,42,36,PHI,MEM,3,home,DefReb,,,DefReb,,N. Stauskas,
 185,2,4:32.0,42,36,PHI,MEM,15,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Embiid,T. Daniels
@@ -190,7 +190,7 @@
 188,2,4:32.0,42,36,PHI,MEM,0,home,Sub,,,,,D. Šarić,J. Embiid
 189,2,4:16.0,42,36,PHI,MEM,16,away,JS,,26,miss3,0,T. Daniels,
 190,2,4:14.0,42,36,PHI,MEM,2,home,DefReb,,,DefReb,,J. Bayless,
-191,2,4:07.0,42,36,PHI,MEM,7,home,BadPass,steal,,turnover,,J. Bayless,M. Gasol
+191,2,4:07.0,42,36,PHI,MEM,7,home,bad pass,steal,,turnover,,J. Bayless,M. Gasol
 192,2,3:54.0,42,36,PHI,MEM,13,away,LU,,3,miss2,0,T. Allen,
 193,2,3:50.0,42,36,PHI,MEM,4,home,DefReb,,,DefReb,,R. Covington,
 194,2,3:39.0,42,36,PHI,MEM,11,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Covington,J. Green
@@ -204,7 +204,7 @@
 202,2,3:05.0,42,36,PHI,MEM,4,away,LostBall,,,turnover,,M. Conley,
 203,2,2:57.0,42,36,PHI,MEM,8,home,JS,,12,miss2,0,J. Bayless,
 204,2,2:56.0,42,36,PHI,MEM,1,home,OffReb,,,OffReb,,J. Bayless,
-205,2,2:55.0,42,36,PHI,MEM,1,home,LostBall,steal,,turnover,,J. Bayless,A. Harrison
+205,2,2:55.0,42,36,PHI,MEM,1,home,lost ball,steal,,turnover,,J. Bayless,A. Harrison
 206,2,2:48.0,42,36,PHI,MEM,7,away,JS,,24,miss3,0,V. Carter,
 207,2,2:46.0,42,36,PHI,MEM,2,home,DefReb,,,DefReb,,D. Šarić,
 208,2,2:33.0,45,36,PHI,MEM,13,home,JS,assist,28,make3,3,R. Covington,J. Bayless
@@ -278,7 +278,7 @@
 276,3,7:18.0,57,48,PHI,MEM,0,home,Sub,,,,,N. Stauskas,H. Thompson
 277,3,7:11.0,57,48,PHI,MEM,7,home,JS,,18,miss2,0,S. Rodríguez,
 278,3,7:09.0,57,48,PHI,MEM,2,away,DefReb,,,DefReb,,J. Green,
-279,3,6:59.0,57,48,PHI,MEM,10,away,BadPass,steal,,turnover,,M. Conley,R. Covington
+279,3,6:59.0,57,48,PHI,MEM,10,away,bad pass,steal,,turnover,,M. Conley,R. Covington
 280,3,6:49.0,59,48,PHI,MEM,10,home,JS,assist,11,make2,2,E. İlyasova,R. Covington
 281,3,6:48.0,59,48,PHI,MEM,1,away,Timeout,,,,,,
 282,3,6:48.0,59,48,PHI,MEM,0,away,Sub,,,,,V. Carter,T. Daniels
@@ -310,7 +310,7 @@
 308,3,3:49.0,64,61,PHI,MEM,0,away,Sub,,,,,J. Martin,M. Conley
 309,3,3:30.0,64,61,PHI,MEM,19,home,JS,,20,miss2,0,J. Bayless,
 310,3,3:28.0,64,61,PHI,MEM,2,away,DefReb,,,DefReb,,J. Martin,
-311,3,3:13.0,64,61,PHI,MEM,15,away,BadPass,steal,,turnover,,V. Carter,H. Thompson
+311,3,3:13.0,64,61,PHI,MEM,15,away,bad pass,steal,,turnover,,V. Carter,H. Thompson
 312,3,3:09.0,64,61,PHI,MEM,4,home,LU,block,2,miss2,0,J. Bayless,J. Martin
 313,3,3:09.0,64,61,PHI,MEM,0,home,OffReb,,,OffReb,,Team,
 314,3,3:09.0,64,61,PHI,MEM,0,away,Sub,,,,,Z. Randolph,M. Gasol
@@ -327,7 +327,7 @@
 325,3,1:54.0,68,63,PHI,MEM,8,away,DK,assist,0,make2,2,J. Martin,A. Harrison
 326,3,1:40.0,68,63,PHI,MEM,14,home,JS,,25,miss3,0,N. Stauskas,
 327,3,1:39.0,68,63,PHI,MEM,1,away,DefReb,,,DefReb,,Team,
-328,3,1:26.0,68,63,PHI,MEM,13,away,BadPass,steal,,turnover,,A. Harrison,N. Stauskas
+328,3,1:26.0,68,63,PHI,MEM,13,away,bad pass,steal,,turnover,,A. Harrison,N. Stauskas
 329,3,1:18.0,71,63,PHI,MEM,8,home,JS,assist,27,make3,3,D. Šarić,J. Bayless
 330,3,0:56.0,71,63,PHI,MEM,22,away,JS,block,5,miss2,0,J. Martin,J. Okafor
 331,3,0:53.0,71,63,PHI,MEM,3,home,DefReb,,,DefReb,,N. Stauskas,
@@ -335,7 +335,7 @@
 333,3,0:45.0,71,63,PHI,MEM,0,away,Sub,,,,,T. Daniels,J. Green
 334,3,0:32.0,71,63,PHI,MEM,13,away,JS,block,6,miss2,0,V. Carter,J. Okafor
 335,3,0:30.0,71,63,PHI,MEM,2,home,DefReb,,,DefReb,,J. Bayless,
-336,3,0:27.0,71,63,PHI,MEM,3,home,BadPass,steal,,turnover,,J. Bayless,J. Martin
+336,3,0:27.0,71,63,PHI,MEM,3,home,bad pass,steal,,turnover,,J. Bayless,J. Martin
 337,3,0:26.0,71,63,PHI,MEM,1,away,BadPass,,,turnover,,J. Martin,
 338,3,0:02.0,71,63,PHI,MEM,24,home,JS,,17,miss2,0,J. Bayless,
 339,3,0:01.0,71,63,PHI,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
@@ -344,7 +344,7 @@
 342,4,11:41.0,71,63,PHI,MEM,2,away,OffReb,,,OffReb,,Team,
 343,4,11:36.0,71,63,PHI,MEM,5,away,JS,,19,miss2,0,T. Daniels,
 344,4,11:34.0,71,63,PHI,MEM,2,home,DefReb,,,DefReb,,J. Embiid,
-345,4,11:15.0,71,63,PHI,MEM,19,home,LostBall,steal,,turnover,,R. Covington,J. Martin
+345,4,11:15.0,71,63,PHI,MEM,19,home,lost ball,steal,,turnover,,R. Covington,J. Martin
 346,4,11:05.0,71,63,PHI,MEM,10,away,JS,,25,miss3,0,V. Carter,
 347,4,11:03.0,71,63,PHI,MEM,2,home,DefReb,,,DefReb,,J. Embiid,
 348,4,10:52.0,71,63,PHI,MEM,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Harrison,J. Bayless
@@ -360,10 +360,10 @@
 358,4,10:25.0,71,65,PHI,MEM,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Šarić,V. Carter
 359,4,10:25.0,71,65,PHI,MEM,0,away,FreeThrow,,,make1,0,V. Carter,
 360,4,10:24.0,71,65,PHI,MEM,1,home,DefReb,,,DefReb,,T. McConnell,
-361,4,10:11.0,71,65,PHI,MEM,13,home,BadPass,steal,,turnover,,J. Embiid,A. Harrison
+361,4,10:11.0,71,65,PHI,MEM,13,home,bad pass,steal,,turnover,,J. Embiid,A. Harrison
 362,4,9:57.0,71,68,PHI,MEM,14,away,JS,assist,25,make3,3,M. Gasol,A. Harrison
-363,4,9:40.0,71,68,PHI,MEM,17,home,LostBall,steal,,turnover,,N. Stauskas,A. Harrison
-364,4,9:37.0,71,68,PHI,MEM,3,away,BadPass,steal,,turnover,,M. Gasol,T. McConnell
+363,4,9:40.0,71,68,PHI,MEM,17,home,lost ball,steal,,turnover,,N. Stauskas,A. Harrison
+364,4,9:37.0,71,68,PHI,MEM,3,away,bad pass,steal,,turnover,,M. Gasol,T. McConnell
 365,4,9:26.0,71,68,PHI,MEM,11,home,JS,,28,miss3,0,H. Thompson,
 366,4,9:24.0,71,68,PHI,MEM,2,away,DefReb,,,DefReb,,V. Carter,
 367,4,9:14.0,71,68,PHI,MEM,10,away,JS,,26,miss3,0,M. Gasol,
@@ -382,7 +382,7 @@
 380,4,8:05.0,73,70,PHI,MEM,0,home,Sub,,,,,R. Covington,N. Stauskas
 381,4,7:48.0,73,70,PHI,MEM,17,home,LU,,1,miss2,0,H. Thompson,
 382,4,7:46.0,73,70,PHI,MEM,2,away,DefReb,,,DefReb,,M. Gasol,
-383,4,7:32.0,73,70,PHI,MEM,14,away,BadPass,steal,,turnover,,M. Gasol,J. Okafor
+383,4,7:32.0,73,70,PHI,MEM,14,away,bad pass,steal,,turnover,,M. Gasol,J. Okafor
 384,4,7:27.0,75,70,PHI,MEM,5,home,LU,assist,1,make2,2,E. İlyasova,T. McConnell
 385,4,7:01.0,75,70,PHI,MEM,26,away,JS,,15,miss2,0,A. Harrison,
 386,4,7:00.0,75,70,PHI,MEM,1,away,OffReb,,,OffReb,,Team,
@@ -402,7 +402,7 @@
 400,4,5:42.0,76,72,PHI,MEM,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,M. Conley
 401,4,5:42.0,76,72,PHI,MEM,0,home,Sub,,,,,N. Stauskas,H. Thompson
 402,4,5:35.0,76,74,PHI,MEM,7,away,JS,assist,19,make2,2,M. Gasol,M. Conley
-403,4,5:24.0,76,74,PHI,MEM,11,home,LostBall,steal,,turnover,,J. Okafor,M. Conley
+403,4,5:24.0,76,74,PHI,MEM,11,home,lost ball,steal,,turnover,,J. Okafor,M. Conley
 404,4,5:14.0,76,76,PHI,MEM,10,away,LU,,1,make2,2,A. Harrison,
 405,4,4:50.0,76,76,PHI,MEM,24,home,JS,,26,miss3,0,E. İlyasova,
 406,4,4:49.0,76,76,PHI,MEM,1,away,DefReb,,,DefReb,,Team,
@@ -420,7 +420,7 @@
 418,4,3:20.0,76,82,PHI,MEM,2,home,DefReb,,,DefReb,,J. Embiid,
 419,4,3:11.0,76,82,PHI,MEM,9,home,JS,,14,miss2,0,J. Bayless,
 420,4,3:10.0,76,82,PHI,MEM,1,away,DefReb,,,DefReb,,M. Conley,
-421,4,2:51.0,76,82,PHI,MEM,19,away,BadPass,steal,,turnover,,M. Gasol,R. Covington
+421,4,2:51.0,76,82,PHI,MEM,19,away,bad pass,steal,,turnover,,M. Gasol,R. Covington
 422,4,2:45.0,76,82,PHI,MEM,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Harrison,J. Embiid
 423,4,2:45.0,76,82,PHI,MEM,0,away,Timeout,,,,,,
 424,4,2:45.0,77,82,PHI,MEM,0,home,FreeThrow,,,make1,1,J. Embiid,
@@ -449,7 +449,7 @@
 447,4,0:31.0,85,86,PHI,MEM,15,home,BadPass,,,turnover,,J. Bayless,
 448,4,0:31.0,85,86,PHI,MEM,0,away,Sub,,,,,Z. Randolph,J. Green
 449,4,0:31.0,85,86,PHI,MEM,0,away,Sub,,,,,V. Carter,T. Allen
-450,4,0:15.0,85,86,PHI,MEM,16,away,LostBall,steal,,turnover,,M. Conley,J. Embiid
+450,4,0:15.0,85,86,PHI,MEM,16,away,lost ball,steal,,turnover,,M. Conley,J. Embiid
 451,4,0:11.0,85,86,PHI,MEM,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,V. Carter,R. Covington
 452,4,0:11.0,86,86,PHI,MEM,0,home,FreeThrow,,,make1,1,R. Covington,
 453,4,0:11.0,86,86,PHI,MEM,0,home,FreeThrow,,,make1,0,R. Covington,
@@ -478,7 +478,7 @@
 476,1OT,3:08.0,86,89,PHI,MEM,22,home,LU,block,1,miss2,0,N. Stauskas,A. Harrison
 477,1OT,3:08.0,86,89,PHI,MEM,0,home,OffReb,,,OffReb,,Team,
 478,1OT,3:08.0,86,89,PHI,MEM,0,home,Timeout,,,,,,
-479,1OT,3:01.0,86,89,PHI,MEM,7,home,LostBall,steal,,turnover,,J. Bayless,M. Conley
+479,1OT,3:01.0,86,89,PHI,MEM,7,home,lost ball,steal,,turnover,,J. Bayless,M. Conley
 480,1OT,2:46.0,86,89,PHI,MEM,15,away,LU,block,2,miss2,0,Z. Randolph,J. Okafor
 481,1OT,2:45.0,86,89,PHI,MEM,1,home,DefReb,,,DefReb,,Team,
 482,1OT,2:45.0,86,89,PHI,MEM,0,home,Sub,,,,,J. Embiid,J. Okafor
@@ -489,7 +489,7 @@
 487,1OT,2:17.0,86,89,PHI,MEM,3,away,DefReb,,,DefReb,,M. Conley,
 488,1OT,1:56.0,86,89,PHI,MEM,21,away,JS,,6,miss2,0,M. Conley,
 489,1OT,1:55.0,86,89,PHI,MEM,1,home,DefReb,,,DefReb,,R. Covington,
-490,1OT,1:42.0,86,89,PHI,MEM,13,home,LostBall,steal,,turnover,,J. Embiid,M. Gasol
+490,1OT,1:42.0,86,89,PHI,MEM,13,home,lost ball,steal,,turnover,,J. Embiid,M. Gasol
 491,1OT,1:24.0,86,89,PHI,MEM,18,away,JS,,17,miss2,0,Z. Randolph,
 492,1OT,1:22.0,86,89,PHI,MEM,2,home,DefReb,,,DefReb,,N. Stauskas,
 493,1OT,1:12.0,88,89,PHI,MEM,10,home,LU,,3,make2,2,J. Bayless,

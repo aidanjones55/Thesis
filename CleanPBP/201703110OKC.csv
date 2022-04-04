@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:32.0,0,0,OKC,UTA,28,home,JS,,18,miss2,0,S. Adams,
 1,1,11:31.0,0,0,OKC,UTA,1,away,DefReb,,,DefReb,,G. Hayward,
-2,1,11:08.0,0,0,OKC,UTA,23,away,BadPass,steal,,turnover,,G. Hill,S. Adams
+2,1,11:08.0,0,0,OKC,UTA,23,away,bad pass,steal,,turnover,,G. Hill,S. Adams
 3,1,11:03.0,0,0,OKC,UTA,5,home,LU,,3,miss2,0,R. Westbrook,
 4,1,11:02.0,0,0,OKC,UTA,1,away,DefReb,,,DefReb,,J. Withey,
 5,1,10:41.0,0,0,OKC,UTA,21,away,JS,,15,miss2,0,J. Johnson,
@@ -9,7 +9,7 @@
 7,1,10:33.0,2,0,OKC,UTA,8,home,LU,assist,2,make2,2,S. Adams,R. Westbrook
 8,1,10:09.0,2,0,OKC,UTA,24,away,JS,,13,miss2,0,G. Hayward,
 9,1,10:08.0,2,0,OKC,UTA,1,home,DefReb,,,DefReb,,R. Westbrook,
-10,1,10:05.0,2,0,OKC,UTA,3,home,BadPass,steal,,turnover,,R. Westbrook,G. Hayward
+10,1,10:05.0,2,0,OKC,UTA,3,home,bad pass,steal,,turnover,,R. Westbrook,G. Hayward
 11,1,9:49.0,2,2,OKC,UTA,16,away,JS,,12,make2,2,R. Hood,
 12,1,9:27.0,4,2,OKC,UTA,22,home,JS,assist,8,make2,2,S. Adams,R. Westbrook
 13,1,9:14.0,4,2,OKC,UTA,13,away,JS,,8,miss2,0,G. Hill,
@@ -31,10 +31,10 @@
 29,1,6:58.0,9,7,OKC,UTA,18,away,JS,assist,24,make3,3,G. Hayward,R. Hood
 30,1,6:43.0,9,7,OKC,UTA,15,home,JS,,23,miss3,0,A. Roberson,
 31,1,6:42.0,9,7,OKC,UTA,1,home,OffReb,,,OffReb,,S. Adams,
-32,1,6:38.0,9,7,OKC,UTA,4,home,LostBall,steal,,turnover,,S. Adams,J. Withey
+32,1,6:38.0,9,7,OKC,UTA,4,home,lost ball,steal,,turnover,,S. Adams,J. Withey
 33,1,6:27.0,9,7,OKC,UTA,11,away,LU,block,2,miss2,0,J. Withey,R. Westbrook
 34,1,6:26.0,9,7,OKC,UTA,1,home,DefReb,,,DefReb,,R. Westbrook,
-35,1,6:17.0,9,7,OKC,UTA,9,home,BadPass,steal,,turnover,,R. Westbrook,G. Hill
+35,1,6:17.0,9,7,OKC,UTA,9,home,bad pass,steal,,turnover,,R. Westbrook,G. Hill
 36,1,6:01.0,9,10,OKC,UTA,16,away,JS,assist,25,make3,3,J. Johnson,G. Hill
 37,1,5:48.0,11,10,OKC,UTA,13,home,JS,assist,6,make2,2,T. Gibson,R. Westbrook
 38,1,5:48.0,11,10,OKC,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,T. Gibson
@@ -58,7 +58,7 @@
 56,1,4:19.0,17,10,OKC,UTA,1,away,OffReb,,,OffReb,,G. Hayward,
 57,1,4:19.0,17,10,OKC,UTA,0,away,LU,,2,miss2,0,G. Hayward,
 58,1,4:18.0,17,10,OKC,UTA,1,home,DefReb,,,DefReb,,D. Sabonis,
-59,1,4:09.0,17,10,OKC,UTA,9,home,BadPass,steal,,turnover,,R. Westbrook,G. Hill
+59,1,4:09.0,17,10,OKC,UTA,9,home,bad pass,steal,,turnover,,R. Westbrook,G. Hill
 60,1,4:03.0,17,12,OKC,UTA,6,away,LU,,1,make2,2,G. Hayward,
 61,1,3:43.0,17,12,OKC,UTA,20,home,LU,,1,miss2,0,E. Freedom,
 62,1,3:42.0,17,12,OKC,UTA,1,home,OffReb,,,OffReb,,E. Freedom,
@@ -96,7 +96,7 @@
 94,2,11:23.0,31,25,OKC,UTA,15,home,DK,,0,make2,2,E. Freedom,
 95,2,11:04.0,31,25,OKC,UTA,19,away,LU,,2,miss2,0,A. Burks,
 96,2,11:02.0,31,25,OKC,UTA,2,home,DefReb,,,DefReb,,Team,
-97,2,10:48.0,31,25,OKC,UTA,14,home,BadPass,steal,,turnover,,E. Freedom,J. Withey
+97,2,10:48.0,31,25,OKC,UTA,14,home,bad pass,steal,,turnover,,E. Freedom,J. Withey
 98,2,10:41.0,31,25,OKC,UTA,7,away,JS,,5,miss2,0,R. Hood,
 99,2,10:41.0,31,25,OKC,UTA,0,home,DefReb,,,DefReb,,Team,
 100,2,10:25.0,31,25,OKC,UTA,16,home,JS,,23,miss3,0,S. Christon,
@@ -130,7 +130,7 @@
 128,2,7:34.0,38,35,OKC,UTA,1,home,DefReb,,,DefReb,,S. Christon,
 129,2,7:24.0,38,35,OKC,UTA,10,home,JS,,8,miss2,0,R. Westbrook,
 130,2,7:23.0,38,35,OKC,UTA,1,away,DefReb,,,DefReb,,B. Diaw,
-131,2,7:15.0,38,35,OKC,UTA,8,away,BadPass,steal,,turnover,,B. Diaw,S. Adams
+131,2,7:15.0,38,35,OKC,UTA,8,away,bad pass,steal,,turnover,,B. Diaw,S. Adams
 132,2,7:12.0,38,35,OKC,UTA,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Johnson,R. Westbrook
 133,2,7:12.0,39,35,OKC,UTA,0,home,FreeThrow,,,make1,1,R. Westbrook,
 134,2,7:12.0,40,35,OKC,UTA,0,home,FreeThrow,,,make1,1,R. Westbrook,
@@ -179,7 +179,7 @@
 177,2,2:47.0,51,42,OKC,UTA,1,home,OffReb,,,OffReb,,S. Adams,
 178,2,2:43.0,51,42,OKC,UTA,4,home,HS,,4,miss2,0,S. Adams,
 179,2,2:43.0,51,42,OKC,UTA,0,away,DefReb,,,DefReb,,J. Withey,
-180,2,2:32.0,51,42,OKC,UTA,11,away,LostBall,steal,,turnover,,R. Hood,A. Roberson
+180,2,2:32.0,51,42,OKC,UTA,11,away,lost ball,steal,,turnover,,R. Hood,A. Roberson
 181,2,2:28.0,51,42,OKC,UTA,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Hill,A. Roberson
 182,2,2:28.0,51,42,OKC,UTA,0,home,Timeout,,,,,,
 183,2,2:28.0,51,42,OKC,UTA,0,home,FreeThrow,,,make1,0,A. Roberson,
@@ -188,7 +188,7 @@
 186,2,2:13.0,52,42,OKC,UTA,15,away,JS,,14,miss2,0,G. Hayward,
 187,2,2:12.0,52,42,OKC,UTA,1,home,DefReb,,,DefReb,,T. Gibson,
 188,2,2:01.0,54,42,OKC,UTA,11,home,DK,assist,0,make2,2,A. Roberson,R. Westbrook
-189,2,1:43.0,54,42,OKC,UTA,18,away,BadPass,steal,,turnover,,G. Hill,V. Oladipo
+189,2,1:43.0,54,42,OKC,UTA,18,away,bad pass,steal,,turnover,,G. Hill,V. Oladipo
 190,2,1:39.0,56,42,OKC,UTA,4,home,DK,,0,make2,2,V. Oladipo,
 191,2,1:17.0,56,42,OKC,UTA,22,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,V. Oladipo,R. Hood
 192,2,1:17.0,56,43,OKC,UTA,0,away,FreeThrow,,,make1,1,R. Hood,
@@ -252,7 +252,7 @@
 250,3,5:58.0,78,58,OKC,UTA,22,home,DK,,0,make2,2,T. Gibson,
 251,3,5:37.0,78,58,OKC,UTA,21,away,LU,,2,miss2,0,T. Lyles,
 252,3,5:37.0,78,58,OKC,UTA,0,home,DefReb,,,DefReb,,T. Gibson,
-253,3,5:32.0,78,58,OKC,UTA,5,home,BadPass,steal,,turnover,,R. Westbrook,R. Hood
+253,3,5:32.0,78,58,OKC,UTA,5,home,bad pass,steal,,turnover,,R. Westbrook,R. Hood
 254,3,5:22.0,78,58,OKC,UTA,10,away,OutOfBounds,,,turnover,,T. Lyles,
 255,3,5:22.0,78,58,OKC,UTA,0,home,Timeout,,,,,,
 256,3,5:22.0,78,58,OKC,UTA,0,away,Sub,,,,,A. Burks,R. Hood
@@ -266,7 +266,7 @@
 264,3,4:48.0,78,58,OKC,UTA,0,home,Sub,,,,,E. Freedom,T. Gibson
 265,3,4:35.0,78,60,OKC,UTA,13,away,JS,,9,make2,2,D. Exum,
 266,3,4:20.0,80,60,OKC,UTA,15,home,JS,assist,17,make2,2,E. Freedom,R. Westbrook
-267,3,3:58.0,80,60,OKC,UTA,22,away,BadPass,steal,,turnover,,J. Ingles,R. Westbrook
+267,3,3:58.0,80,60,OKC,UTA,22,away,bad pass,steal,,turnover,,J. Ingles,R. Westbrook
 268,3,3:54.0,82,60,OKC,UTA,4,home,DK,,0,make2,2,R. Westbrook,
 269,3,3:35.0,82,60,OKC,UTA,19,away,JS,,24,miss3,0,T. Lyles,
 270,3,3:35.0,82,60,OKC,UTA,0,away,OffReb,,,OffReb,,J. Withey,
@@ -358,9 +358,9 @@
 356,4,7:38.0,99,86,OKC,UTA,13,home,JS,assist,15,make2,2,R. Westbrook,V. Oladipo
 357,4,7:19.0,99,86,OKC,UTA,19,away,LU,block,1,miss2,0,D. Exum,A. Roberson
 358,4,7:19.0,99,86,OKC,UTA,0,home,DefReb,,,DefReb,,S. Adams,
-359,4,7:12.0,99,86,OKC,UTA,7,home,BadPass,steal,,turnover,,J. Grant,R. Neto
+359,4,7:12.0,99,86,OKC,UTA,7,home,bad pass,steal,,turnover,,J. Grant,R. Neto
 360,4,6:57.0,99,89,OKC,UTA,15,away,JS,assist,25,make3,3,A. Burks,R. Neto
-361,4,6:42.0,99,89,OKC,UTA,15,home,BadPass,steal,,turnover,,R. Westbrook,T. Lyles
+361,4,6:42.0,99,89,OKC,UTA,15,home,bad pass,steal,,turnover,,R. Westbrook,T. Lyles
 362,4,6:38.0,99,91,OKC,UTA,4,away,LU,,1,make2,2,R. Neto,
 363,4,6:38.0,99,91,OKC,UTA,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Grant,R. Neto
 364,4,6:38.0,99,92,OKC,UTA,0,away,FreeThrow,,,make1,1,R. Neto,
@@ -391,7 +391,7 @@
 389,4,3:49.0,103,94,OKC,UTA,1,home,DefReb,,,DefReb,,S. Adams,
 390,4,3:30.0,103,94,OKC,UTA,19,home,JS,,17,miss2,0,R. Westbrook,
 391,4,3:29.0,103,94,OKC,UTA,1,home,OffReb,,,OffReb,,J. Grant,
-392,4,3:15.0,103,94,OKC,UTA,14,home,LostBall,steal,,turnover,,V. Oladipo,R. Neto
+392,4,3:15.0,103,94,OKC,UTA,14,home,lost ball,steal,,turnover,,V. Oladipo,R. Neto
 393,4,3:10.0,103,96,OKC,UTA,5,away,LU,,1,make2,2,D. Exum,
 394,4,2:49.0,103,96,OKC,UTA,21,home,LU,,2,miss2,0,R. Westbrook,
 395,4,2:49.0,103,96,OKC,UTA,0,home,OffReb,,,OffReb,,S. Adams,
@@ -399,7 +399,7 @@
 397,4,2:43.0,103,96,OKC,UTA,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Burks,R. Westbrook
 398,4,2:43.0,104,96,OKC,UTA,0,home,FreeThrow,,,make1,1,R. Westbrook,
 399,4,2:43.0,105,96,OKC,UTA,0,home,FreeThrow,,,make1,1,R. Westbrook,
-400,4,2:30.0,105,96,OKC,UTA,13,away,LostBall,steal,,turnover,,D. Exum,R. Westbrook
+400,4,2:30.0,105,96,OKC,UTA,13,away,lost ball,steal,,turnover,,D. Exum,R. Westbrook
 401,4,2:29.0,105,96,OKC,UTA,1,home,ClearPathFoul,,,ClearPathFoul,,D. Exum,
 402,4,2:29.0,106,96,OKC,UTA,0,home,FreeThrow,,,make1,1,R. Westbrook makes clear path free throw 1 of 2,
 403,4,2:29.0,107,96,OKC,UTA,0,home,FreeThrow,,,make1,1,R. Westbrook makes clear path free throw 2 of 2,
@@ -415,7 +415,7 @@
 413,4,1:43.0,108,100,OKC,UTA,0,away,FreeThrow,,,make1,1,A. Burks,
 414,4,1:22.0,108,100,OKC,UTA,21,home,JS,,20,miss2,0,R. Westbrook,
 415,4,1:22.0,108,100,OKC,UTA,0,away,DefReb,,,DefReb,,J. Bolomboy,
-416,4,1:21.0,108,100,OKC,UTA,1,away,LostBall,steal,,turnover,,T. Lyles,A. Roberson
+416,4,1:21.0,108,100,OKC,UTA,1,away,lost ball,steal,,turnover,,T. Lyles,A. Roberson
 417,4,1:21.0,108,100,OKC,UTA,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Lyles,A. Roberson
 418,4,1:21.0,108,100,OKC,UTA,0,home,FreeThrow,,,make1,0,A. Roberson,
 419,4,1:21.0,108,100,OKC,UTA,0,home,OffReb,,,OffReb,,Team,

@@ -10,7 +10,7 @@
 8,1,10:41.0,2,0,NYK,CHO,2,away,DefReb,,,DefReb,,R. Hibbert,
 9,1,10:28.0,2,0,NYK,CHO,13,away,JS,,15,miss2,0,N. Batum,
 10,1,10:26.0,2,0,NYK,CHO,2,home,DefReb,,,DefReb,,C. Lee,
-11,1,10:19.0,2,0,NYK,CHO,7,home,BadPass,steal,,turnover,,C. Lee,N. Batum
+11,1,10:19.0,2,0,NYK,CHO,7,home,bad pass,steal,,turnover,,C. Lee,N. Batum
 12,1,10:14.0,2,0,NYK,CHO,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Noah,M. Kidd-Gilchrist
 13,1,10:14.0,2,1,NYK,CHO,0,away,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
 14,1,10:14.0,2,2,NYK,CHO,0,away,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
@@ -88,7 +88,7 @@
 86,1,1:55.0,22,21,NYK,CHO,14,home,LU,block,2,miss2,0,W. Hernangómez,F. Kaminsky
 87,1,1:54.0,22,21,NYK,CHO,1,home,OffReb,,,OffReb,,W. Hernangómez,
 88,1,1:54.0,22,21,NYK,CHO,0,home,Traveling,,,turnover,,W. Hernangómez,
-89,1,1:42.0,22,21,NYK,CHO,12,away,BadPass,steal,,turnover,,R. Sessions,J. Holiday
+89,1,1:42.0,22,21,NYK,CHO,12,away,bad pass,steal,,turnover,,R. Sessions,J. Holiday
 90,1,1:39.0,22,21,NYK,CHO,3,home,LU,,1,miss2,0,M. Kuzminskas,
 91,1,1:38.0,22,21,NYK,CHO,1,home,OffReb,,,OffReb,,W. Hernangómez,
 92,1,1:34.0,24,21,NYK,CHO,4,home,LU,,1,make2,2,W. Hernangómez,
@@ -108,7 +108,7 @@
 106,1,0:01.0,29,23,NYK,CHO,3,away,JS,,44,miss3,0,M. Belinelli,
 107,1,0:00.0,29,23,NYK,CHO,1,away,OffReb,,,OffReb,,Team,
 108,2,11:46.0,29,23,NYK,CHO,14,away,LostBall,,,turnover,,M. Williams,
-109,2,11:31.0,29,23,NYK,CHO,15,home,LostBall,steal,,turnover,,K. Porziņģis,S. Hawes
+109,2,11:31.0,29,23,NYK,CHO,15,home,lost ball,steal,,turnover,,K. Porziņģis,S. Hawes
 110,2,11:11.0,29,23,NYK,CHO,20,away,JS,,19,miss2,0,S. Hawes,
 111,2,11:10.0,29,23,NYK,CHO,1,away,OffReb,,,OffReb,,R. Sessions,
 112,2,11:01.0,29,23,NYK,CHO,9,away,JS,,23,miss3,0,M. Williams,
@@ -122,7 +122,7 @@
 120,2,9:57.0,31,28,NYK,CHO,2,away,LU,assist,2,make2,2,M. Belinelli,N. Batum
 121,2,9:57.0,31,28,NYK,CHO,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,M. Belinelli
 122,2,9:57.0,31,29,NYK,CHO,0,away,FreeThrow,,,make1,1,M. Belinelli,
-123,2,9:39.0,31,29,NYK,CHO,18,home,BadPass,steal,,turnover,,M. Kuzminskas,M. Belinelli
+123,2,9:39.0,31,29,NYK,CHO,18,home,bad pass,steal,,turnover,,M. Kuzminskas,M. Belinelli
 124,2,9:32.0,31,29,NYK,CHO,7,away,BadPass,,,turnover,,M. Belinelli,
 125,2,9:13.0,31,29,NYK,CHO,19,away,DefGoaltending,,,DefGoaltending,,S. Hawes,
 126,2,9:13.0,33,29,NYK,CHO,0,home,LU,,2,make2,2,J. Holiday,
@@ -187,7 +187,7 @@
 185,2,2:01.0,54,44,NYK,CHO,0,away,Timeout,,,,,,
 186,2,1:52.0,54,44,NYK,CHO,9,home,JS,,25,miss3,0,K. Porziņģis,
 187,2,1:51.0,54,44,NYK,CHO,1,away,DefReb,,,DefReb,,N. Batum,
-188,2,1:37.0,54,44,NYK,CHO,14,away,LostBall,steal,,turnover,,F. Kaminsky,C. Lee
+188,2,1:37.0,54,44,NYK,CHO,14,away,lost ball,steal,,turnover,,F. Kaminsky,C. Lee
 189,2,1:32.0,54,44,NYK,CHO,5,home,LU,,0,miss2,0,B. Jennings,
 190,2,1:31.0,54,44,NYK,CHO,1,away,DefReb,,,DefReb,,K. Walker,
 191,2,1:25.0,54,46,NYK,CHO,6,away,LU,,1,make2,2,K. Walker,
@@ -209,14 +209,14 @@
 207,3,11:27.0,54,51,NYK,CHO,1,home,OffReb,,,OffReb,,Team,
 208,3,11:27.0,54,51,NYK,CHO,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,N. Batum,K. Porziņģis
 209,3,11:25.0,56,51,NYK,CHO,2,home,DK,assist,0,make2,2,C. Anthony,J. Noah
-210,3,11:08.0,56,51,NYK,CHO,17,away,BadPass,steal,,turnover,,N. Batum,D. Rose
+210,3,11:08.0,56,51,NYK,CHO,17,away,bad pass,steal,,turnover,,N. Batum,D. Rose
 211,3,11:04.0,58,51,NYK,CHO,4,home,DK,,0,make2,2,D. Rose,
 212,3,10:39.0,58,51,NYK,CHO,25,away,JS,,6,miss2,0,M. Kidd-Gilchrist,
 213,3,10:38.0,58,51,NYK,CHO,1,away,OffReb,,,OffReb,,N. Batum,
 214,3,10:33.0,58,51,NYK,CHO,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Noah,N. Batum
 215,3,10:33.0,58,52,NYK,CHO,0,away,FreeThrow,,,make1,1,N. Batum,
 216,3,10:33.0,58,53,NYK,CHO,0,away,FreeThrow,,,make1,1,N. Batum,
-217,3,10:22.0,58,53,NYK,CHO,11,home,BadPass,steal,,turnover,,D. Rose,M. Williams
+217,3,10:22.0,58,53,NYK,CHO,11,home,bad pass,steal,,turnover,,D. Rose,M. Williams
 218,3,10:11.0,58,55,NYK,CHO,11,away,JS,,9,make2,2,N. Batum,
 219,3,9:47.0,60,55,NYK,CHO,24,home,JS,,17,make2,2,C. Anthony,
 220,3,9:35.0,60,58,NYK,CHO,12,away,JS,assist,26,make3,3,M. Williams,K. Walker
@@ -228,7 +228,7 @@
 226,3,8:16.0,62,62,NYK,CHO,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Hibbert,K. Porziņģis
 227,3,8:10.0,64,62,NYK,CHO,6,home,JS,,17,make2,2,D. Rose,
 228,3,7:57.0,64,65,NYK,CHO,13,away,JS,,24,make3,3,K. Walker,
-229,3,7:42.0,64,65,NYK,CHO,15,home,BadPass,steal,,turnover,,D. Rose,M. Kidd-Gilchrist
+229,3,7:42.0,64,65,NYK,CHO,15,home,bad pass,steal,,turnover,,D. Rose,M. Kidd-Gilchrist
 230,3,7:31.0,64,65,NYK,CHO,11,away,JS,block,8,miss2,0,M. Williams,K. Porziņģis
 231,3,7:30.0,64,65,NYK,CHO,1,home,DefReb,,,DefReb,,C. Lee,
 232,3,7:24.0,66,65,NYK,CHO,6,home,LU,assist,1,make2,2,D. Rose,C. Lee
@@ -246,7 +246,7 @@
 244,3,6:29.0,67,71,NYK,CHO,9,home,Timeout,,,,,,
 245,3,6:20.0,67,71,NYK,CHO,9,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,W. Hernangómez,K. Walker
 246,3,6:20.0,67,71,NYK,CHO,0,home,OffensiveFoul,,,turnover,,W. Hernangómez,
-247,3,6:10.0,67,71,NYK,CHO,10,away,BadPass,steal,,turnover,,N. Batum,D. Rose
+247,3,6:10.0,67,71,NYK,CHO,10,away,bad pass,steal,,turnover,,N. Batum,D. Rose
 248,3,5:55.0,67,71,NYK,CHO,15,home,JS,,25,miss3,0,C. Lee,
 249,3,5:53.0,67,71,NYK,CHO,2,home,OffReb,,,OffReb,,Team,
 250,3,5:53.0,67,71,NYK,CHO,0,away,Sub,,,,,M. Belinelli,N. Batum
@@ -305,7 +305,7 @@
 303,3,0:43.0,79,87,NYK,CHO,14,away,JS,,25,miss3,0,K. Walker,
 304,3,0:42.0,79,87,NYK,CHO,1,home,DefReb,,,DefReb,,J. Holiday,
 305,3,0:26.0,81,87,NYK,CHO,16,home,LU,assist,0,make2,2,K. O'Quinn,B. Jennings
-306,3,0:10.0,81,87,NYK,CHO,16,away,LostBall,steal,,turnover,,S. Hawes,B. Jennings
+306,3,0:10.0,81,87,NYK,CHO,16,away,lost ball,steal,,turnover,,S. Hawes,B. Jennings
 307,3,0:05.0,81,87,NYK,CHO,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kidd-Gilchrist,M. Kuzminskas
 308,3,0:05.0,82,87,NYK,CHO,0,home,FreeThrow,,,make1,1,M. Kuzminskas,
 309,3,0:05.0,82,87,NYK,CHO,0,home,LaneViolation,,,turnover,,K. O'Quinn,
@@ -366,7 +366,7 @@
 364,4,6:49.0,93,99,NYK,CHO,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Williams,B. Jennings
 365,4,6:29.0,93,99,NYK,CHO,20,home,LU,block,3,miss2,0,M. Kuzminskas,S. Hawes
 366,4,6:28.0,93,99,NYK,CHO,1,away,DefReb,,,DefReb,,M. Kidd-Gilchrist,
-367,4,6:24.0,93,99,NYK,CHO,4,away,BadPass,steal,,turnover,,N. Batum,M. Kuzminskas
+367,4,6:24.0,93,99,NYK,CHO,4,away,bad pass,steal,,turnover,,N. Batum,M. Kuzminskas
 368,4,6:10.0,93,99,NYK,CHO,14,home,JS,,25,miss3,0,C. Anthony,
 369,4,6:09.0,93,99,NYK,CHO,1,away,DefReb,,,DefReb,,K. Walker,
 370,4,5:59.0,93,99,NYK,CHO,10,away,LU,block,1,miss2,0,K. Walker,K. O'Quinn
@@ -390,7 +390,7 @@
 388,4,3:27.0,99,99,NYK,CHO,9,home,LU,,1,make2,2,C. Lee,
 389,4,3:26.0,99,99,NYK,CHO,1,away,Timeout,,,,,,
 390,4,3:26.0,99,99,NYK,CHO,0,home,Sub,,,,,K. Porziņģis,M. Kuzminskas
-391,4,3:10.0,99,99,NYK,CHO,16,away,LostBall,steal,,turnover,,S. Hawes,C. Lee
+391,4,3:10.0,99,99,NYK,CHO,16,away,lost ball,steal,,turnover,,S. Hawes,C. Lee
 392,4,2:49.0,99,99,NYK,CHO,21,home,JS,block,3,miss2,0,C. Anthony,S. Hawes
 393,4,2:48.0,99,99,NYK,CHO,1,away,DefReb,,,DefReb,,K. Walker,
 394,4,2:46.0,99,99,NYK,CHO,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Jennings,K. Walker
@@ -402,7 +402,7 @@
 400,4,1:43.0,99,101,NYK,CHO,18,home,JS,,10,miss2,0,C. Anthony,
 401,4,1:42.0,99,101,NYK,CHO,1,home,OffReb,,,OffReb,,K. O'Quinn,
 402,4,1:38.0,102,101,NYK,CHO,4,home,JS,assist,26,make3,3,C. Lee,K. O'Quinn
-403,4,1:25.0,102,101,NYK,CHO,13,away,BadPass,steal,,turnover,,K. Walker,C. Lee
+403,4,1:25.0,102,101,NYK,CHO,13,away,bad pass,steal,,turnover,,K. Walker,C. Lee
 404,4,1:19.0,105,101,NYK,CHO,6,home,JS,assist,24,make3,3,B. Jennings,C. Lee
 405,4,1:19.0,105,101,NYK,CHO,0,away,Timeout,,,,,,
 406,4,1:04.0,105,101,NYK,CHO,15,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,N. Batum,K. Porziņģis

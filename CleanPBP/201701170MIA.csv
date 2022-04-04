@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:37.0,0,0,MIA,HOU,23,home,JS,,24,miss3,0,L. Babbitt,
 1,1,11:36.0,0,0,MIA,HOU,1,away,DefReb,,,DefReb,,J. Harden,
-2,1,11:33.0,0,0,MIA,HOU,3,away,LostBall,steal,,turnover,,J. Harden,R. McGruder
+2,1,11:33.0,0,0,MIA,HOU,3,away,lost ball,steal,,turnover,,J. Harden,R. McGruder
 3,1,11:28.0,0,0,MIA,HOU,5,home,JS,,25,miss3,0,D. Waiters,
 4,1,11:27.0,0,0,MIA,HOU,1,away,DefReb,,,DefReb,,C. Capela,
 5,1,11:14.0,0,2,MIA,HOU,13,away,JS,assist,13,make2,2,T. Ariza,J. Harden
@@ -32,7 +32,7 @@
 30,1,8:07.0,6,8,MIA,HOU,6,away,LU,assist,2,make2,2,T. Ariza,J. Harden
 31,1,7:49.0,8,8,MIA,HOU,18,home,HS,,9,make2,2,H. Whiteside,
 32,1,7:22.0,8,10,MIA,HOU,27,away,JS,,8,make2,2,J. Harden,
-33,1,7:10.0,8,10,MIA,HOU,12,home,BadPass,steal,,turnover,,H. Whiteside,C. Brewer
+33,1,7:10.0,8,10,MIA,HOU,12,home,bad pass,steal,,turnover,,H. Whiteside,C. Brewer
 34,1,7:03.0,8,10,MIA,HOU,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. McGruder,J. Harden
 35,1,7:03.0,8,11,MIA,HOU,0,away,FreeThrow,,,make1,1,J. Harden,
 36,1,7:03.0,8,11,MIA,HOU,0,home,Sub,,,,,T. Johnson,R. McGruder
@@ -44,7 +44,7 @@
 42,1,6:21.0,10,12,MIA,HOU,1,home,DefReb,,,DefReb,,H. Whiteside,
 43,1,6:10.0,10,12,MIA,HOU,11,home,JS,,23,miss3,0,L. Babbitt,
 44,1,6:09.0,10,12,MIA,HOU,1,away,DefReb,,,DefReb,,J. Harden,
-45,1,6:01.0,10,12,MIA,HOU,8,away,BadPass,steal,,turnover,,C. Brewer,T. Johnson
+45,1,6:01.0,10,12,MIA,HOU,8,away,bad pass,steal,,turnover,,C. Brewer,T. Johnson
 46,1,5:57.0,10,12,MIA,HOU,4,home,LU,,3,miss2,0,T. Johnson,
 47,1,5:56.0,10,12,MIA,HOU,1,home,OffReb,,,OffReb,,D. Waiters,
 48,1,5:55.0,10,12,MIA,HOU,1,home,LU,,1,miss2,0,D. Waiters,
@@ -74,7 +74,7 @@
 72,1,3:26.0,17,21,MIA,HOU,12,away,D3SecTech,,,,,,
 73,1,3:26.0,17,22,MIA,HOU,0,away,FreeThrow,,,make1,1,J. Harden makes technical free throw,
 74,1,3:26.0,17,22,MIA,HOU,0,home,Sub,,,,,W. Reed,H. Whiteside
-75,1,3:17.0,17,22,MIA,HOU,9,away,LostBall,steal,,turnover,,T. Ariza,G. Dragić
+75,1,3:17.0,17,22,MIA,HOU,9,away,lost ball,steal,,turnover,,T. Ariza,G. Dragić
 76,1,3:13.0,17,22,MIA,HOU,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harden,D. Waiters
 77,1,3:13.0,18,22,MIA,HOU,0,home,FreeThrow,,,make1,1,D. Waiters,
 78,1,3:13.0,18,22,MIA,HOU,0,home,FreeThrow,,,make1,0,D. Waiters,
@@ -86,7 +86,7 @@
 84,1,2:07.0,21,26,MIA,HOU,1,away,DefReb,,,DefReb,,N. Hilário,
 85,1,1:59.0,21,26,MIA,HOU,8,away,JS,,25,miss3,0,J. Harden,
 86,1,1:58.0,21,26,MIA,HOU,1,home,DefReb,,,DefReb,,D. Waiters,
-87,1,1:55.0,21,26,MIA,HOU,3,home,BadPass,steal,,turnover,,D. Waiters,J. Harden
+87,1,1:55.0,21,26,MIA,HOU,3,home,bad pass,steal,,turnover,,D. Waiters,J. Harden
 88,1,1:51.0,21,28,MIA,HOU,4,away,DK,assist,0,make2,2,T. Ariza,J. Harden
 89,1,1:29.0,23,28,MIA,HOU,22,home,LU,assist,1,make2,2,G. Dragić,J. Johnson
 90,1,1:21.0,23,28,MIA,HOU,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Johnson,J. Harden
@@ -97,7 +97,7 @@
 95,1,0:56.0,25,32,MIA,HOU,11,away,LU,assist,1,make2,2,E. Gordon,J. Harden
 96,1,0:33.0,25,32,MIA,HOU,23,home,JS,,25,miss3,0,J. Johnson,
 97,1,0:32.0,25,32,MIA,HOU,1,away,DefReb,,,DefReb,,N. Hilário,
-98,1,0:22.0,25,32,MIA,HOU,10,away,BadPass,steal,,turnover,,J. Harden,J. Johnson
+98,1,0:22.0,25,32,MIA,HOU,10,away,bad pass,steal,,turnover,,J. Harden,J. Johnson
 99,1,0:18.0,27,32,MIA,HOU,4,home,DK,assist,0,make2,2,W. Ellington,J. Johnson
 100,1,0:04.0,27,32,MIA,HOU,14,away,JS,,13,miss2,0,J. Harden,
 101,1,0:03.0,27,32,MIA,HOU,1,away,OffReb,,,OffReb,,S. Dekker,
@@ -164,7 +164,7 @@
 162,2,6:28.0,44,46,MIA,HOU,16,home,HS,,7,make2,2,H. Whiteside,
 163,2,6:05.0,44,46,MIA,HOU,23,away,JS,,25,miss3,0,P. Beverley,
 164,2,6:04.0,44,46,MIA,HOU,1,home,DefReb,,,DefReb,,H. Whiteside,
-165,2,5:55.0,44,46,MIA,HOU,9,home,LostBall,steal,,turnover,,G. Dragić,P. Beverley
+165,2,5:55.0,44,46,MIA,HOU,9,home,lost ball,steal,,turnover,,G. Dragić,P. Beverley
 166,2,5:51.0,44,46,MIA,HOU,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Ellington,M. Harrell
 167,2,5:51.0,44,46,MIA,HOU,0,away,Timeout,,,,,,
 168,2,5:51.0,44,46,MIA,HOU,0,away,Sub,,,,,T. Ariza,P. Beverley
@@ -185,7 +185,7 @@
 183,2,5:01.0,44,46,MIA,HOU,1,home,DefReb,,,DefReb,,H. Whiteside,
 184,2,4:46.0,44,46,MIA,HOU,15,home,JS,,20,miss2,0,W. Ellington,
 185,2,4:45.0,44,46,MIA,HOU,1,away,DefReb,,,DefReb,,C. Capela,
-186,2,4:40.0,44,46,MIA,HOU,5,away,LostBall,steal,,turnover,,J. Harden,T. Johnson
+186,2,4:40.0,44,46,MIA,HOU,5,away,lost ball,steal,,turnover,,J. Harden,T. Johnson
 187,2,4:31.0,44,46,MIA,HOU,9,home,JS,,25,miss3,0,D. Waiters,
 188,2,4:30.0,44,46,MIA,HOU,1,home,OffReb,,,OffReb,,H. Whiteside,
 189,2,4:28.0,46,46,MIA,HOU,2,home,LU,,1,make2,2,H. Whiteside,
@@ -218,13 +218,13 @@
 216,2,1:41.0,53,48,MIA,HOU,14,away,OffGoaltending,,,turnover,,N. Hilário,
 217,2,1:17.0,53,48,MIA,HOU,24,home,ShotClockViolation,,,turnover,,Team,
 218,2,1:04.0,53,51,MIA,HOU,13,away,JS,assist,24,make3,3,J. Harden,N. Hilário
-219,2,0:41.0,53,51,MIA,HOU,23,home,BadPass,steal,,turnover,,J. Johnson,T. Ariza
+219,2,0:41.0,53,51,MIA,HOU,23,home,bad pass,steal,,turnover,,J. Johnson,T. Ariza
 220,2,0:38.0,53,53,MIA,HOU,3,away,LU,,2,make2,2,P. Beverley,
 221,2,0:32.0,53,53,MIA,HOU,6,home,Timeout,,,,,,
 222,2,0:32.0,53,53,MIA,HOU,0,home,Sub,,,,,W. Reed,R. McGruder
 223,2,0:14.0,53,53,MIA,HOU,18,home,JS,,24,miss3,0,D. Waiters,
 224,2,0:12.0,53,53,MIA,HOU,2,away,DefReb,,,DefReb,,J. Harden,
-225,2,0:01.0,53,53,MIA,HOU,11,away,LostBall,steal,,turnover,,J. Harden,J. Johnson
+225,2,0:01.0,53,53,MIA,HOU,11,away,lost ball,steal,,turnover,,J. Harden,J. Johnson
 226,3,11:49.0,53,53,MIA,HOU,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Babbitt,T. Ariza
 227,3,11:35.0,53,53,MIA,HOU,14,away,ShotClockViolation,,,turnover,,Team,
 228,3,11:23.0,53,53,MIA,HOU,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Beverley,G. Dragić
@@ -281,9 +281,9 @@
 279,3,7:08.0,67,65,MIA,HOU,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Beverley,H. Whiteside
 280,3,7:02.0,67,65,MIA,HOU,6,home,JS,block,24,miss3,0,T. Johnson,E. Gordon
 281,3,7:01.0,67,65,MIA,HOU,1,away,DefReb,,,DefReb,,J. Harden,
-282,3,6:42.0,67,65,MIA,HOU,19,away,LostBall,steal,,turnover,,J. Harden,D. Waiters
+282,3,6:42.0,67,65,MIA,HOU,19,away,lost ball,steal,,turnover,,J. Harden,D. Waiters
 283,3,6:37.0,69,65,MIA,HOU,5,home,LU,assist,2,make2,2,J. Johnson,D. Waiters
-284,3,6:27.0,69,65,MIA,HOU,10,away,LostBall,steal,,turnover,,E. Gordon,H. Whiteside
+284,3,6:27.0,69,65,MIA,HOU,10,away,lost ball,steal,,turnover,,E. Gordon,H. Whiteside
 285,3,6:26.0,69,65,MIA,HOU,1,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Waiters,J. Harden
 286,3,6:26.0,69,65,MIA,HOU,0,home,OffensiveFoul,,,turnover,,D. Waiters,
 287,3,6:17.0,69,65,MIA,HOU,9,away,LU,block,2,miss2,0,E. Gordon,H. Whiteside
@@ -297,7 +297,7 @@
 295,3,6:14.0,70,65,MIA,HOU,1,away,DefReb,,,DefReb,,J. Harden,
 296,3,6:02.0,70,65,MIA,HOU,12,away,JS,,24,miss3,0,J. Harden,
 297,3,6:01.0,70,65,MIA,HOU,1,home,DefReb,,,DefReb,,J. Johnson,
-298,3,5:47.0,70,65,MIA,HOU,14,home,BadPass,steal,,turnover,,J. Johnson,N. Hilário
+298,3,5:47.0,70,65,MIA,HOU,14,home,bad pass,steal,,turnover,,J. Johnson,N. Hilário
 299,3,5:42.0,70,67,MIA,HOU,5,away,LU,assist,2,make2,2,T. Ariza,J. Harden
 300,3,5:25.0,70,67,MIA,HOU,17,home,JS,,22,miss2,0,T. Johnson,
 301,3,5:24.0,70,67,MIA,HOU,1,away,DefReb,,,DefReb,,J. Harden,
@@ -348,7 +348,7 @@
 346,3,1:13.0,77,76,MIA,HOU,8,home,JS,assist,25,make3,3,W. Ellington,J. Johnson
 347,3,1:00.0,77,76,MIA,HOU,13,away,JS,,18,miss2,0,E. Gordon,
 348,3,0:59.0,77,76,MIA,HOU,1,home,DefReb,,,DefReb,,G. Dragić,
-349,3,0:57.0,77,76,MIA,HOU,2,home,BadPass,steal,,turnover,,G. Dragić,J. Harden
+349,3,0:57.0,77,76,MIA,HOU,2,home,bad pass,steal,,turnover,,G. Dragić,J. Harden
 350,3,0:45.0,77,78,MIA,HOU,12,away,JS,,9,make2,2,J. Harden,
 351,3,0:45.0,77,78,MIA,HOU,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Reed,J. Harden
 352,3,0:45.0,77,78,MIA,HOU,0,away,Sub,,,,,C. Brewer,S. Dekker
@@ -365,7 +365,7 @@
 363,4,11:18.0,81,79,MIA,HOU,1,away,DefReb,,,DefReb,,P. Beverley,
 364,4,11:08.0,81,79,MIA,HOU,10,away,JS,,25,miss3,0,E. Gordon,
 365,4,11:07.0,81,79,MIA,HOU,1,home,DefReb,,,DefReb,,W. Ellington,
-366,4,11:00.0,81,79,MIA,HOU,7,home,BadPass,steal,,turnover,,G. Dragić,P. Beverley
+366,4,11:00.0,81,79,MIA,HOU,7,home,bad pass,steal,,turnover,,G. Dragić,P. Beverley
 367,4,10:43.0,81,81,MIA,HOU,17,away,JS,,10,make2,2,P. Beverley,
 368,4,10:24.0,81,81,MIA,HOU,19,home,LostBall,,,turnover,,G. Dragić,
 369,4,10:24.0,81,81,MIA,HOU,0,home,Sub,,,,,R. McGruder,T. Johnson
@@ -393,7 +393,7 @@
 391,4,7:50.0,88,85,MIA,HOU,20,away,DK,assist,0,make2,2,N. Hilário,J. Harden
 392,4,7:37.0,88,85,MIA,HOU,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Brewer,W. Ellington
 393,4,7:37.0,88,85,MIA,HOU,0,home,Sub,,,,,T. Johnson,R. McGruder
-394,4,7:30.0,88,85,MIA,HOU,7,home,BadPass,steal,,turnover,,G. Dragić,C. Brewer
+394,4,7:30.0,88,85,MIA,HOU,7,home,bad pass,steal,,turnover,,G. Dragić,C. Brewer
 395,4,7:26.0,88,87,MIA,HOU,4,away,LU,assist,2,make2,2,P. Beverley,C. Brewer
 396,4,7:13.0,88,87,MIA,HOU,13,home,JS,,23,miss3,0,T. Johnson,
 397,4,7:12.0,88,87,MIA,HOU,1,away,DefReb,,,DefReb,,N. Hilário,
@@ -406,9 +406,9 @@
 404,4,6:27.0,90,89,MIA,HOU,6,away,LU,,2,miss2,0,J. Harden,
 405,4,6:26.0,90,89,MIA,HOU,1,home,DefReb,,,DefReb,,W. Ellington,
 406,4,6:21.0,92,89,MIA,HOU,5,home,DK,assist,0,make2,2,T. Johnson,G. Dragić
-407,4,6:01.0,92,89,MIA,HOU,20,away,BadPass,steal,,turnover,,C. Brewer,T. Johnson
+407,4,6:01.0,92,89,MIA,HOU,20,away,bad pass,steal,,turnover,,C. Brewer,T. Johnson
 408,4,5:56.0,94,89,MIA,HOU,5,home,LU,,0,make2,2,T. Johnson,
-409,4,5:43.0,94,89,MIA,HOU,13,away,LostBall,steal,,turnover,,J. Harden,W. Ellington
+409,4,5:43.0,94,89,MIA,HOU,13,away,lost ball,steal,,turnover,,J. Harden,W. Ellington
 410,4,5:40.0,94,89,MIA,HOU,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ariza,G. Dragić
 411,4,5:40.0,94,89,MIA,HOU,0,away,Timeout,,,,,,
 412,4,5:40.0,94,89,MIA,HOU,0,away,TechnicalFoul,,,TechnicalFoul,,Team,
@@ -455,7 +455,7 @@
 453,4,1:41.0,105,94,MIA,HOU,12,home,JS,assist,23,make3,3,W. Ellington,G. Dragić
 454,4,1:41.0,105,94,MIA,HOU,0,away,Timeout,,,,,,
 455,4,1:41.0,105,94,MIA,HOU,0,away,Sub,,,,,M. Harrell,N. Hilário
-456,4,1:24.0,105,94,MIA,HOU,17,away,BadPass,steal,,turnover,,E. Gordon,J. Johnson
+456,4,1:24.0,105,94,MIA,HOU,17,away,bad pass,steal,,turnover,,E. Gordon,J. Johnson
 457,4,1:21.0,107,94,MIA,HOU,3,home,DK,,0,make2,2,J. Johnson,
 458,4,1:13.0,107,94,MIA,HOU,8,away,JS,,25,miss3,0,T. Ariza,
 459,4,1:12.0,107,94,MIA,HOU,1,away,OffReb,,,OffReb,,Team,

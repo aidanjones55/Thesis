@@ -25,13 +25,13 @@
 23,1,9:31.0,0,6,CHI,PHI,9,away,JS,,15,miss2,0,N. Stauskas,
 24,1,9:30.0,0,6,CHI,PHI,1,home,DefReb,,,DefReb,,B. Portis,
 25,1,9:20.0,3,6,CHI,PHI,10,home,JS,assist,25,make3,3,J. Grant,R. Lopez
-26,1,9:06.0,3,6,CHI,PHI,14,away,LostBall,steal,,turnover,,T. McConnell,D. Wade
-27,1,9:03.0,3,6,CHI,PHI,3,home,BadPass,steal,,turnover,,J. Grant,N. Noel
+26,1,9:06.0,3,6,CHI,PHI,14,away,lost ball,steal,,turnover,,T. McConnell,D. Wade
+27,1,9:03.0,3,6,CHI,PHI,3,home,bad pass,steal,,turnover,,J. Grant,N. Noel
 28,1,8:46.0,3,8,CHI,PHI,17,away,HS,assist,3,make2,2,N. Noel,T. McConnell
 29,1,8:39.0,3,8,CHI,PHI,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Noel,R. Lopez
 30,1,8:28.0,5,8,CHI,PHI,11,home,HS,assist,5,make2,2,R. Lopez,D. Wade
 31,1,8:13.0,5,11,CHI,PHI,15,away,JS,,26,make3,3,E. İlyasova,
-32,1,7:57.0,5,11,CHI,PHI,16,home,LostBall,steal,,turnover,,J. Butler,R. Covington
+32,1,7:57.0,5,11,CHI,PHI,16,home,lost ball,steal,,turnover,,J. Butler,R. Covington
 33,1,7:52.0,5,11,CHI,PHI,5,away,LU,,3,miss2,0,T. McConnell,
 34,1,7:51.0,5,11,CHI,PHI,1,home,DefReb,,,DefReb,,B. Portis,
 35,1,7:35.0,5,11,CHI,PHI,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Stauskas,D. Wade
@@ -46,7 +46,7 @@
 44,1,7:06.0,9,11,CHI,PHI,0,home,LU,,2,make2,2,J. Butler,
 45,1,6:48.0,9,11,CHI,PHI,18,away,JS,,26,miss3,0,R. Covington,
 46,1,6:47.0,9,11,CHI,PHI,1,home,DefReb,,,DefReb,,J. Butler,
-47,1,6:42.0,9,11,CHI,PHI,5,home,BadPass,steal,,turnover,,D. Wade,N. Stauskas
+47,1,6:42.0,9,11,CHI,PHI,5,home,bad pass,steal,,turnover,,D. Wade,N. Stauskas
 48,1,6:41.0,9,11,CHI,PHI,1,away,BadPass,,,turnover,,N. Stauskas,
 49,1,6:33.0,11,11,CHI,PHI,8,home,JS,assist,18,make2,2,R. Lopez,D. Wade
 50,1,6:32.0,11,11,CHI,PHI,1,away,Timeout,,,,,,
@@ -72,7 +72,7 @@
 70,1,4:22.0,17,18,CHI,PHI,15,away,JS,assist,25,make3,3,R. Covington,D. Šarić
 71,1,4:01.0,17,18,CHI,PHI,21,home,JS,,11,miss2,0,R. Lopez,
 72,1,4:00.0,17,18,CHI,PHI,1,away,DefReb,,,DefReb,,D. Šarić,
-73,1,3:49.0,17,18,CHI,PHI,11,away,BadPass,steal,,turnover,,G. Henderson,J. Butler
+73,1,3:49.0,17,18,CHI,PHI,11,away,bad pass,steal,,turnover,,G. Henderson,J. Butler
 74,1,3:43.0,17,18,CHI,PHI,6,home,LU,,4,miss2,0,J. Butler,
 75,1,3:42.0,17,18,CHI,PHI,1,away,DefReb,,,DefReb,,D. Šarić,
 76,1,3:36.0,17,18,CHI,PHI,6,away,LU,block,2,miss2,0,R. Holmes,R. Lopez
@@ -98,9 +98,9 @@
 96,1,2:00.0,24,21,CHI,PHI,1,away,DefReb,,,DefReb,,G. Henderson,
 97,1,1:44.0,24,23,CHI,PHI,16,away,DK,assist,0,make2,2,R. Holmes,S. Rodríguez
 98,1,1:26.0,27,23,CHI,PHI,18,home,JS,assist,26,make3,3,N. Mirotić,R. Rondo
-99,1,1:10.0,27,23,CHI,PHI,16,away,BadPass,steal,,turnover,,S. Rodríguez,N. Mirotić
+99,1,1:10.0,27,23,CHI,PHI,16,away,bad pass,steal,,turnover,,S. Rodríguez,N. Mirotić
 100,1,1:06.0,29,23,CHI,PHI,4,home,DK,,0,make2,2,N. Mirotić,
-101,1,1:00.0,29,23,CHI,PHI,6,away,LostBall,steal,,turnover,,T. Luwawu-Cabarrot,J. Butler
+101,1,1:00.0,29,23,CHI,PHI,6,away,lost ball,steal,,turnover,,T. Luwawu-Cabarrot,J. Butler
 102,1,0:57.0,29,23,CHI,PHI,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Luwawu-Cabarrot,J. Butler
 103,1,0:57.0,30,23,CHI,PHI,0,home,FreeThrow,,,make1,1,J. Butler,
 104,1,0:57.0,30,23,CHI,PHI,0,home,FreeThrow,,,make1,0,J. Butler,
@@ -165,17 +165,17 @@
 163,2,7:22.0,47,33,CHI,PHI,0,home,Timeout,,,,,,
 164,2,7:22.0,47,33,CHI,PHI,0,home,Sub,,,,,D. Wade,P. Zipser
 165,2,7:22.0,47,33,CHI,PHI,0,home,Sub,,,,,J. Butler,R. Rondo
-166,2,6:58.0,47,33,CHI,PHI,24,home,LostBall,steal,,turnover,,D. Wade,E. İlyasova
+166,2,6:58.0,47,33,CHI,PHI,24,home,lost ball,steal,,turnover,,D. Wade,E. İlyasova
 167,2,6:54.0,47,33,CHI,PHI,4,away,JS,,26,miss3,0,E. İlyasova,
 168,2,6:53.0,47,33,CHI,PHI,1,home,DefReb,,,DefReb,,C. Felício,
 169,2,6:40.0,50,33,CHI,PHI,13,home,JS,assist,23,make3,3,D. McDermott,N. Mirotić
-170,2,6:28.0,50,33,CHI,PHI,12,away,LostBall,steal,,turnover,,E. İlyasova,D. Wade
+170,2,6:28.0,50,33,CHI,PHI,12,away,lost ball,steal,,turnover,,E. İlyasova,D. Wade
 171,2,6:15.0,50,33,CHI,PHI,13,home,JS,,18,miss2,0,N. Mirotić,
 172,2,6:14.0,50,33,CHI,PHI,1,away,DefReb,,,DefReb,,R. Covington,
 173,2,6:09.0,50,35,CHI,PHI,5,away,DK,assist,0,make2,2,R. Holmes,T. McConnell
 174,2,5:49.0,52,35,CHI,PHI,20,home,LU,assist,3,make2,2,D. Wade,N. Mirotić
 175,2,5:30.0,52,37,CHI,PHI,19,away,LU,assist,3,make2,2,R. Covington,T. McConnell
-176,2,5:10.0,52,37,CHI,PHI,20,home,BadPass,steal,,turnover,,D. Wade,R. Holmes
+176,2,5:10.0,52,37,CHI,PHI,20,home,bad pass,steal,,turnover,,D. Wade,R. Holmes
 177,2,5:04.0,52,40,CHI,PHI,6,away,JS,assist,25,make3,3,R. Covington,T. McConnell
 178,2,4:49.0,52,40,CHI,PHI,15,home,LU,,2,miss2,0,J. Butler,
 179,2,4:48.0,52,40,CHI,PHI,1,home,OffReb,,,OffReb,,J. Butler,
@@ -239,7 +239,7 @@
 237,3,11:07.0,67,59,CHI,PHI,1,away,DefReb,,,DefReb,,N. Noel,
 238,3,11:00.0,67,59,CHI,PHI,7,away,JS,,26,miss3,0,E. İlyasova,
 239,3,10:59.0,67,59,CHI,PHI,1,away,OffReb,,,OffReb,,E. İlyasova,
-240,3,10:56.0,67,59,CHI,PHI,3,away,BadPass,steal,,turnover,,E. İlyasova,D. Wade
+240,3,10:56.0,67,59,CHI,PHI,3,away,bad pass,steal,,turnover,,E. İlyasova,D. Wade
 241,3,10:52.0,69,59,CHI,PHI,4,home,LU,assist,4,make2,2,J. Butler,D. Wade
 242,3,10:40.0,69,59,CHI,PHI,12,away,JS,,23,miss3,0,E. İlyasova,
 243,3,10:39.0,69,59,CHI,PHI,1,home,DefReb,,,DefReb,,D. Wade,
@@ -249,7 +249,7 @@
 247,3,9:59.0,71,59,CHI,PHI,14,home,JS,,15,miss2,0,B. Portis,
 248,3,9:58.0,71,59,CHI,PHI,1,away,DefReb,,,DefReb,,R. Covington,
 249,3,9:50.0,71,62,CHI,PHI,8,away,JS,assist,24,make3,3,N. Stauskas,T. McConnell
-250,3,9:34.0,71,62,CHI,PHI,16,home,LostBall,steal,,turnover,,J. Butler,R. Covington
+250,3,9:34.0,71,62,CHI,PHI,16,home,lost ball,steal,,turnover,,J. Butler,R. Covington
 251,3,9:28.0,71,62,CHI,PHI,6,away,JS,,25,miss3,0,R. Covington,
 252,3,9:27.0,71,62,CHI,PHI,1,home,DefReb,,,DefReb,,R. Lopez,
 253,3,9:19.0,71,62,CHI,PHI,8,home,JS,,18,miss2,0,J. Grant,
@@ -291,7 +291,7 @@
 289,3,5:22.0,79,77,CHI,PHI,8,away,LU,,2,make2,2,T. McConnell,
 290,3,5:12.0,79,77,CHI,PHI,10,home,LU,,2,miss2,0,R. Rondo,
 291,3,5:10.0,79,77,CHI,PHI,2,away,DefReb,,,DefReb,,T. McConnell,
-292,3,5:07.0,79,77,CHI,PHI,3,away,BadPass,steal,,turnover,,T. McConnell,J. Butler
+292,3,5:07.0,79,77,CHI,PHI,3,away,bad pass,steal,,turnover,,T. McConnell,J. Butler
 293,3,5:05.0,79,77,CHI,PHI,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. McConnell,J. Butler
 294,3,5:05.0,79,77,CHI,PHI,0,home,Sub,,,,,N. Mirotić,B. Portis
 295,3,5:05.0,79,77,CHI,PHI,0,away,Sub,,,,,D. Šarić,E. İlyasova
@@ -324,11 +324,11 @@
 322,3,1:58.0,88,83,CHI,PHI,0,home,DefReb,,,DefReb,,Team,
 323,3,1:58.0,88,83,CHI,PHI,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,E. İlyasova,N. Mirotić
 324,3,1:47.0,90,83,CHI,PHI,11,home,LU,assist,2,make2,2,J. Butler,R. Rondo
-325,3,1:37.0,90,83,CHI,PHI,10,away,LostBall,steal,,turnover,,E. İlyasova,J. Butler
+325,3,1:37.0,90,83,CHI,PHI,10,away,lost ball,steal,,turnover,,E. İlyasova,J. Butler
 326,3,1:35.0,92,83,CHI,PHI,2,home,DK,,0,make2,2,J. Butler,
 327,3,1:18.0,92,83,CHI,PHI,17,away,JS,,20,miss2,0,N. Noel,
 328,3,1:16.0,92,83,CHI,PHI,2,home,DefReb,,,DefReb,,N. Mirotić,
-329,3,1:07.0,92,83,CHI,PHI,9,home,LostBall,steal,,turnover,,C. Felício,N. Noel
+329,3,1:07.0,92,83,CHI,PHI,9,home,lost ball,steal,,turnover,,C. Felício,N. Noel
 330,3,1:01.0,92,83,CHI,PHI,6,away,LU,,2,miss2,0,N. Stauskas,
 331,3,1:00.0,92,83,CHI,PHI,1,away,OffReb,,,OffReb,,E. İlyasova,
 332,3,1:00.0,92,85,CHI,PHI,0,away,LU,,3,make2,2,E. İlyasova,
@@ -396,7 +396,7 @@
 394,4,7:02.0,104,95,CHI,PHI,0,away,FreeThrow,,,make1,0,R. Covington,
 395,4,7:00.0,104,95,CHI,PHI,2,away,OffReb,,,OffReb,,E. İlyasova,
 396,4,6:56.0,104,97,CHI,PHI,4,away,LU,,2,make2,2,E. İlyasova,
-397,4,6:38.0,104,97,CHI,PHI,18,home,BadPass,steal,,turnover,,J. Butler,R. Covington
+397,4,6:38.0,104,97,CHI,PHI,18,home,bad pass,steal,,turnover,,J. Butler,R. Covington
 398,4,6:33.0,104,97,CHI,PHI,5,away,JS,,22,miss2,0,R. Covington,
 399,4,6:33.0,104,97,CHI,PHI,0,home,DefReb,,,DefReb,,P. Zipser,
 400,4,6:28.0,104,97,CHI,PHI,5,away,KickBallViolation,,,KickBallViolation,,R. Holmes,

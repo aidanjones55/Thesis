@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:44.0,2,0,MEM,GSW,16,home,JS,assist,7,make2,2,M. Gasol,T. Williams
 1,1,11:25.0,2,3,MEM,GSW,19,away,JS,assist,23,make3,3,K. Durant,A. Varejão
-2,1,11:03.0,2,3,MEM,GSW,22,home,BadPass,steal,,turnover,,A. Harrison,D. Green
+2,1,11:03.0,2,3,MEM,GSW,22,home,bad pass,steal,,turnover,,A. Harrison,D. Green
 3,1,10:51.0,2,3,MEM,GSW,12,away,JS,,25,miss3,0,D. Green,
 4,1,10:50.0,2,3,MEM,GSW,1,home,DefReb,,,DefReb,,J. Green,
 5,1,10:44.0,5,3,MEM,GSW,6,home,JS,assist,24,make3,3,T. Williams,A. Harrison
@@ -18,12 +18,12 @@
 16,1,9:57.0,7,4,MEM,GSW,0,away,FreeThrow,,,make1,1,D. Green,
 17,1,9:57.0,7,4,MEM,GSW,0,away,FreeThrow,,,make1,0,D. Green,
 18,1,9:56.0,7,4,MEM,GSW,1,home,DefReb,,,DefReb,,J. Green,
-19,1,9:43.0,7,4,MEM,GSW,13,home,LostBall,steal,,turnover,,T. Allen,A. Varejão
+19,1,9:43.0,7,4,MEM,GSW,13,home,lost ball,steal,,turnover,,T. Allen,A. Varejão
 20,1,9:38.0,7,4,MEM,GSW,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Green,K. Durant
 21,1,9:38.0,7,5,MEM,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
 22,1,9:38.0,7,5,MEM,GSW,0,away,FreeThrow,,,make1,0,K. Durant,
 23,1,9:37.0,7,5,MEM,GSW,1,home,DefReb,,,DefReb,,J. Green,
-24,1,9:27.0,7,5,MEM,GSW,10,home,LostBall,steal,,turnover,,T. Allen,K. Durant
+24,1,9:27.0,7,5,MEM,GSW,10,home,lost ball,steal,,turnover,,T. Allen,K. Durant
 25,1,9:24.0,7,5,MEM,GSW,3,away,BadPass,,,turnover,,K. Durant,
 26,1,9:02.0,9,5,MEM,GSW,22,home,JS,,9,make2,2,M. Gasol,
 27,1,8:44.0,9,5,MEM,GSW,18,away,LU,,2,miss2,0,K. Thompson,
@@ -56,7 +56,7 @@
 54,1,5:48.0,18,9,MEM,GSW,19,away,JS,,7,make2,2,K. Durant,
 55,1,5:28.0,18,9,MEM,GSW,20,home,JS,,26,miss3,0,T. Williams,
 56,1,5:28.0,18,9,MEM,GSW,0,away,DefReb,,,DefReb,,D. Green,
-57,1,5:23.0,18,9,MEM,GSW,5,away,BadPass,steal,,turnover,,D. Green,A. Harrison
+57,1,5:23.0,18,9,MEM,GSW,5,away,bad pass,steal,,turnover,,D. Green,A. Harrison
 58,1,5:19.0,18,9,MEM,GSW,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,T. Williams
 59,1,5:19.0,19,9,MEM,GSW,0,home,FreeThrow,,,make1,1,T. Williams,
 60,1,5:19.0,19,9,MEM,GSW,0,away,Sub,,,,,J. McGee,A. Varejão
@@ -141,7 +141,7 @@
 139,2,10:59.0,33,18,MEM,GSW,2,home,LU,,1,make2,2,Z. Randolph,
 140,2,10:59.0,33,18,MEM,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Livingston,Z. Randolph
 141,2,10:59.0,34,18,MEM,GSW,0,home,FreeThrow,,,make1,1,Z. Randolph,
-142,2,10:45.0,34,18,MEM,GSW,14,away,LostBall,steal,,turnover,,S. Livingston,T. Douglas
+142,2,10:45.0,34,18,MEM,GSW,14,away,lost ball,steal,,turnover,,S. Livingston,T. Douglas
 143,2,10:27.0,34,18,MEM,GSW,18,home,HS,,7,miss2,0,Z. Randolph,
 144,2,10:25.0,34,18,MEM,GSW,2,away,DefReb,,,DefReb,,K. Durant,
 145,2,10:20.0,34,21,MEM,GSW,5,away,JS,,25,make3,3,K. Durant,
@@ -157,12 +157,12 @@
 155,2,8:46.0,38,23,MEM,GSW,0,home,OffReb,,,OffReb,,Team,
 156,2,8:46.0,38,23,MEM,GSW,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. West,Z. Randolph
 157,2,8:46.0,38,23,MEM,GSW,0,home,Timeout,,,,,,
-158,2,8:35.0,38,23,MEM,GSW,11,home,LostBall,steal,,turnover,,T. Allen,K. Thompson
+158,2,8:35.0,38,23,MEM,GSW,11,home,lost ball,steal,,turnover,,T. Allen,K. Thompson
 159,2,8:22.0,38,23,MEM,GSW,13,away,JS,,25,miss3,0,K. Durant,
 160,2,8:20.0,38,23,MEM,GSW,2,home,DefReb,,,DefReb,,T. Allen,
 161,2,8:02.0,38,23,MEM,GSW,18,home,JS,,18,miss2,0,T. Douglas,
 162,2,8:02.0,38,23,MEM,GSW,0,away,DefReb,,,DefReb,,D. West,
-163,2,7:59.0,38,23,MEM,GSW,3,away,BadPass,steal,,turnover,,D. West,J. Green
+163,2,7:59.0,38,23,MEM,GSW,3,away,bad pass,steal,,turnover,,D. West,J. Green
 164,2,7:55.0,40,23,MEM,GSW,4,home,JS,assist,8,make2,2,T. Douglas,J. Green
 165,2,7:30.0,40,25,MEM,GSW,25,away,LU,assist,1,make2,2,K. Thompson,D. West
 166,2,7:18.0,40,25,MEM,GSW,12,home,JS,,17,miss2,0,T. Douglas,
@@ -265,7 +265,7 @@
 263,3,10:59.0,63,38,MEM,GSW,13,home,HS,,5,miss2,0,M. Gasol,
 264,3,10:56.0,63,38,MEM,GSW,3,home,OffReb,,,OffReb,,M. Gasol,
 265,3,10:53.0,66,38,MEM,GSW,3,home,JS,,26,make3,3,M. Gasol,
-266,3,10:42.0,66,38,MEM,GSW,11,away,LostBall,steal,,turnover,,S. Curry,M. Gasol
+266,3,10:42.0,66,38,MEM,GSW,11,away,lost ball,steal,,turnover,,S. Curry,M. Gasol
 267,3,10:39.0,68,38,MEM,GSW,3,home,DK,,0,make2,2,T. Williams,
 268,3,10:39.0,68,38,MEM,GSW,0,away,Timeout,,,,,,
 269,3,10:22.0,68,38,MEM,GSW,17,away,JS,,8,miss2,0,K. Durant,
@@ -278,7 +278,7 @@
 276,3,9:50.0,68,42,MEM,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
 277,3,9:33.0,68,42,MEM,GSW,17,home,JS,,25,miss3,0,A. Harrison,
 278,3,9:32.0,68,42,MEM,GSW,1,away,DefReb,,,DefReb,,S. Curry,
-279,3,9:30.0,68,42,MEM,GSW,2,away,LostBall,steal,,turnover,,S. Curry,T. Allen
+279,3,9:30.0,68,42,MEM,GSW,2,away,lost ball,steal,,turnover,,S. Curry,T. Allen
 280,3,9:26.0,70,42,MEM,GSW,4,home,JS,,12,make2,2,T. Williams,
 281,3,9:06.0,70,45,MEM,GSW,20,away,JS,,27,make3,3,K. Durant,
 282,3,8:39.0,73,45,MEM,GSW,27,home,JS,assist,23,make3,3,T. Allen,A. Harrison
@@ -306,7 +306,7 @@
 304,3,5:52.0,80,56,MEM,GSW,14,home,LU,,1,make2,2,A. Harrison,
 305,3,5:52.0,80,56,MEM,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Varejão,A. Harrison
 306,3,5:52.0,81,56,MEM,GSW,0,home,FreeThrow,,,make1,1,A. Harrison,
-307,3,5:45.0,81,56,MEM,GSW,7,away,BadPass,steal,,turnover,,S. Curry,A. Harrison
+307,3,5:45.0,81,56,MEM,GSW,7,away,bad pass,steal,,turnover,,S. Curry,A. Harrison
 308,3,5:21.0,83,56,MEM,GSW,24,home,JS,assist,22,make2,2,M. Gasol,T. Williams
 309,3,5:14.0,83,56,MEM,GSW,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Allen,K. Durant
 310,3,5:14.0,83,57,MEM,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
@@ -358,22 +358,22 @@
 356,3,0:46.0,85,65,MEM,GSW,1,away,DefReb,,,DefReb,,K. Durant,
 357,3,0:37.0,85,65,MEM,GSW,9,away,JS,,26,miss3,0,S. Curry,
 358,3,0:36.0,85,65,MEM,GSW,1,home,DefReb,,,DefReb,,J. Martin,
-359,3,0:19.0,85,65,MEM,GSW,17,home,LostBall,steal,,turnover,,T. Douglas,D. Green
-360,3,0:17.0,85,65,MEM,GSW,2,away,BadPass,steal,,turnover,,D. Green,T. Daniels
+359,3,0:19.0,85,65,MEM,GSW,17,home,lost ball,steal,,turnover,,T. Douglas,D. Green
+360,3,0:17.0,85,65,MEM,GSW,2,away,bad pass,steal,,turnover,,D. Green,T. Daniels
 361,3,0:14.0,87,65,MEM,GSW,3,home,DK,assist,0,make2,2,T. Allen,T. Douglas
-362,3,0:03.0,87,65,MEM,GSW,11,away,BadPass,steal,,turnover,,D. Green,J. Martin
+362,3,0:03.0,87,65,MEM,GSW,11,away,bad pass,steal,,turnover,,D. Green,J. Martin
 363,4,11:44.0,87,65,MEM,GSW,16,home,LU,,1,miss2,0,J. Green,
 364,4,11:43.0,87,65,MEM,GSW,1,home,OffReb,,,OffReb,,J. Martin,
 365,4,11:35.0,87,65,MEM,GSW,8,home,JS,,25,miss3,0,T. Douglas,
 366,4,11:35.0,87,65,MEM,GSW,0,away,DefReb,,,DefReb,,K. Durant,
-367,4,11:30.0,87,65,MEM,GSW,5,away,LostBall,steal,,turnover,,K. Durant,T. Douglas
+367,4,11:30.0,87,65,MEM,GSW,5,away,lost ball,steal,,turnover,,K. Durant,T. Douglas
 368,4,11:25.0,90,65,MEM,GSW,5,home,JS,assist,27,make3,3,T. Daniels,T. Douglas
 369,4,11:03.0,90,65,MEM,GSW,22,away,JS,,20,miss2,0,K. Durant,
 370,4,11:01.0,90,65,MEM,GSW,2,home,DefReb,,,DefReb,,Z. Randolph,
 371,4,10:38.0,93,65,MEM,GSW,23,home,JS,assist,23,make3,3,Z. Randolph,T. Daniels
 372,4,10:20.0,93,65,MEM,GSW,18,away,JS,,26,miss3,0,K. Durant,
 373,4,10:19.0,93,65,MEM,GSW,1,home,DefReb,,,DefReb,,J. Martin,
-374,4,10:06.0,93,65,MEM,GSW,13,home,BadPass,steal,,turnover,,J. Green,D. West
+374,4,10:06.0,93,65,MEM,GSW,13,home,bad pass,steal,,turnover,,J. Green,D. West
 375,4,10:06.0,93,65,MEM,GSW,0,away,Timeout,,,,,,
 376,4,10:06.0,93,65,MEM,GSW,0,away,Sub,,,,,P. McCaw,K. Durant
 377,4,10:06.0,93,65,MEM,GSW,0,away,Sub,,,,,I. Clark,K. Thompson
@@ -405,7 +405,7 @@
 403,4,6:52.0,97,75,MEM,GSW,17,home,JS,assist,19,make2,2,M. Gasol,T. Douglas
 404,4,6:43.0,97,78,MEM,GSW,9,away,JS,assist,26,make3,3,D. West,I. Clark
 405,4,6:24.0,99,78,MEM,GSW,19,home,HS,assist,6,make2,2,Z. Randolph,M. Gasol
-406,4,6:08.0,99,78,MEM,GSW,16,away,BadPass,steal,,turnover,,S. Livingston,A. Harrison
+406,4,6:08.0,99,78,MEM,GSW,16,away,bad pass,steal,,turnover,,S. Livingston,A. Harrison
 407,4,5:56.0,99,78,MEM,GSW,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Jones,Z. Randolph
 408,4,5:56.0,99,78,MEM,GSW,0,home,Timeout,,,,,,
 409,4,5:56.0,99,78,MEM,GSW,0,away,Sub,,,,,J. McAdoo,D. Jones

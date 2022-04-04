@@ -1,6 +1,6 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:40.0,0,2,IND,BOS,20,away,JS,,19,make2,2,A. Bradley,
-1,1,11:23.0,0,2,IND,BOS,17,home,BadPass,steal,,turnover,,J. Teague,A. Bradley
+1,1,11:23.0,0,2,IND,BOS,17,home,bad pass,steal,,turnover,,J. Teague,A. Bradley
 2,1,11:18.0,0,2,IND,BOS,5,away,LU,,3,miss2,0,A. Bradley,
 3,1,11:17.0,0,2,IND,BOS,1,home,DefReb,,,DefReb,,G. Robinson,
 4,1,11:10.0,0,2,IND,BOS,7,home,JS,,24,miss3,0,T. Young,
@@ -8,7 +8,7 @@
 6,1,10:58.0,0,4,IND,BOS,11,away,LU,assist,2,make2,2,J. Crowder,A. Horford
 7,1,10:44.0,2,4,IND,BOS,14,home,JS,,11,make2,2,J. Teague,
 8,1,10:26.0,2,7,IND,BOS,18,away,JS,assist,27,make3,3,A. Johnson,I. Thomas
-9,1,10:13.0,2,7,IND,BOS,13,home,LostBall,steal,,turnover,,G. Robinson,A. Bradley
+9,1,10:13.0,2,7,IND,BOS,13,home,lost ball,steal,,turnover,,G. Robinson,A. Bradley
 10,1,10:03.0,2,9,IND,BOS,10,away,JS,assist,18,make2,2,A. Horford,I. Thomas
 11,1,9:45.0,2,9,IND,BOS,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Thomas,J. Teague
 12,1,9:45.0,3,9,IND,BOS,0,home,FreeThrow,,,make1,1,J. Teague,
@@ -18,7 +18,7 @@
 16,1,9:20.0,4,9,IND,BOS,12,home,JS,,22,miss2,0,M. Turner,
 17,1,9:19.0,4,9,IND,BOS,1,away,DefReb,,,DefReb,,A. Johnson,
 18,1,9:18.0,4,9,IND,BOS,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. George,A. Johnson
-19,1,9:09.0,4,9,IND,BOS,9,away,BadPass,steal,,turnover,,J. Crowder,P. George
+19,1,9:09.0,4,9,IND,BOS,9,away,bad pass,steal,,turnover,,J. Crowder,P. George
 20,1,9:03.0,4,9,IND,BOS,6,home,LU,,2,miss2,0,G. Robinson,
 21,1,9:02.0,4,9,IND,BOS,1,home,OffReb,,,OffReb,,M. Turner,
 22,1,9:02.0,6,9,IND,BOS,0,home,LU,,2,make2,2,M. Turner,
@@ -90,7 +90,7 @@
 88,1,2:13.0,26,22,IND,BOS,0,home,FreeThrow,,,make1,1,P. George,
 89,1,2:13.0,26,22,IND,BOS,0,away,Sub,,,,,J. Brown,A. Bradley
 90,1,2:13.0,27,22,IND,BOS,0,home,FreeThrow,,,make1,1,P. George,
-91,1,2:02.0,27,22,IND,BOS,11,away,LostBall,steal,,turnover,,K. Olynyk,T. Young
+91,1,2:02.0,27,22,IND,BOS,11,away,lost ball,steal,,turnover,,K. Olynyk,T. Young
 92,1,1:58.0,27,22,IND,BOS,4,home,BadPass,,,turnover,,P. George,
 93,1,1:46.0,27,22,IND,BOS,12,away,JS,,27,miss3,0,K. Olynyk,
 94,1,1:45.0,27,22,IND,BOS,1,home,DefReb,,,DefReb,,T. Young,
@@ -102,7 +102,7 @@
 100,1,1:07.0,27,22,IND,BOS,0,home,Sub,,,,,G. Robinson,P. George
 101,1,0:58.0,27,22,IND,BOS,9,away,LU,,2,miss2,0,J. Brown,
 102,1,0:57.0,27,22,IND,BOS,1,away,OffReb,,,OffReb,,J. Brown,
-103,1,0:44.0,27,22,IND,BOS,13,away,BadPass,steal,,turnover,,K. Olynyk,G. Robinson
+103,1,0:44.0,27,22,IND,BOS,13,away,bad pass,steal,,turnover,,K. Olynyk,G. Robinson
 104,1,0:30.0,29,22,IND,BOS,14,home,JS,assist,20,make2,2,T. Young,G. Robinson
 105,1,0:12.0,29,22,IND,BOS,18,away,JS,,26,miss3,0,K. Olynyk,
 106,1,0:11.0,29,22,IND,BOS,1,home,DefReb,,,DefReb,,C. Miles,
@@ -130,7 +130,7 @@
 128,2,9:53.0,31,29,IND,BOS,1,home,DefReb,,,DefReb,,C. Miles,
 129,2,9:45.0,31,29,IND,BOS,8,home,JS,,25,miss3,0,C. Miles,
 130,2,9:43.0,31,29,IND,BOS,2,home,OffReb,,,OffReb,,L. Allen,
-131,2,9:42.0,31,29,IND,BOS,1,home,LostBall,steal,,turnover,,L. Allen,J. Brown
+131,2,9:42.0,31,29,IND,BOS,1,home,lost ball,steal,,turnover,,L. Allen,J. Brown
 132,2,9:35.0,31,29,IND,BOS,7,away,JS,,24,miss3,0,J. Jerebko,
 133,2,9:35.0,31,29,IND,BOS,0,home,DefReb,,,DefReb,,Team,
 134,2,9:23.0,31,29,IND,BOS,12,home,JS,,26,miss3,0,C. Miles,
@@ -142,7 +142,7 @@
 140,2,8:45.0,31,31,IND,BOS,1,away,DefReb,,,DefReb,,M. Smart,
 141,2,8:22.0,31,31,IND,BOS,23,away,DK,block,1,miss2,0,J. Brown,M. Turner
 142,2,8:19.0,31,31,IND,BOS,3,home,DefReb,,,DefReb,,Team,
-143,2,8:09.0,31,31,IND,BOS,10,home,LostBall,steal,,turnover,,A. Brooks,M. Smart
+143,2,8:09.0,31,31,IND,BOS,10,home,lost ball,steal,,turnover,,A. Brooks,M. Smart
 144,2,7:57.0,31,31,IND,BOS,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Brooks,M. Smart
 145,2,7:57.0,31,32,IND,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
 146,2,7:57.0,31,32,IND,BOS,0,home,Sub,,,,,P. George,C. Miles
@@ -169,7 +169,7 @@
 167,2,6:06.0,33,39,IND,BOS,0,away,OffReb,,,OffReb,,Team,
 168,2,6:06.0,33,39,IND,BOS,0,away,FreeThrow,,,make1,0,A. Johnson,
 169,2,6:06.0,33,39,IND,BOS,0,home,DefReb,,,DefReb,,T. Young,
-170,2,5:46.0,33,39,IND,BOS,20,home,BadPass,steal,,turnover,,T. Young,A. Johnson
+170,2,5:46.0,33,39,IND,BOS,20,home,bad pass,steal,,turnover,,T. Young,A. Johnson
 171,2,5:33.0,33,39,IND,BOS,13,away,JS,,9,miss2,0,A. Horford,
 172,2,5:31.0,33,39,IND,BOS,2,home,DefReb,,,DefReb,,T. Young,
 173,2,5:26.0,33,39,IND,BOS,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Brown,J. Teague
@@ -210,7 +210,7 @@
 208,2,2:08.0,40,44,IND,BOS,0,away,DefReb,,,DefReb,,A. Horford,
 209,2,1:59.0,40,44,IND,BOS,9,away,JS,,28,miss3,0,J. Crowder,
 210,2,1:58.0,40,44,IND,BOS,1,home,DefReb,,,DefReb,,A. Jefferson,
-211,2,1:51.0,40,44,IND,BOS,7,home,BadPass,steal,,turnover,,J. Teague,J. Crowder
+211,2,1:51.0,40,44,IND,BOS,7,home,bad pass,steal,,turnover,,J. Teague,J. Crowder
 212,2,1:49.0,40,44,IND,BOS,2,home,ChargeFoul,DrawnBy,,ChargeFoul,,J. Crowder,P. George
 213,2,1:49.0,40,44,IND,BOS,0,away,OffensiveFoul,,,turnover,,J. Crowder,
 214,2,1:33.0,40,44,IND,BOS,16,home,Traveling,,,turnover,,C. Miles,
@@ -344,9 +344,9 @@
 342,4,10:46.0,69,82,IND,BOS,1,home,DefReb,,,DefReb,,A. Jefferson,
 343,4,10:40.0,71,82,IND,BOS,6,home,JS,,10,make2,2,C. Miles,
 344,4,10:17.0,71,84,IND,BOS,23,away,LU,assist,2,make2,2,M. Smart,K. Olynyk
-345,4,9:52.0,71,84,IND,BOS,25,home,LostBall,steal,,turnover,,P. George,T. Rozier
-346,4,9:48.0,71,84,IND,BOS,4,away,BadPass,steal,,turnover,,T. Rozier,A. Brooks
-347,4,9:42.0,71,84,IND,BOS,6,home,BadPass,steal,,turnover,,A. Brooks,K. Olynyk
+345,4,9:52.0,71,84,IND,BOS,25,home,lost ball,steal,,turnover,,P. George,T. Rozier
+346,4,9:48.0,71,84,IND,BOS,4,away,bad pass,steal,,turnover,,T. Rozier,A. Brooks
+347,4,9:42.0,71,84,IND,BOS,6,home,bad pass,steal,,turnover,,A. Brooks,K. Olynyk
 348,4,9:35.0,71,84,IND,BOS,7,away,LU,,2,miss2,0,J. Brown,
 349,4,9:34.0,71,84,IND,BOS,1,away,OffReb,,,OffReb,,J. Brown,
 350,4,9:34.0,71,84,IND,BOS,0,away,LU,,2,miss2,0,J. Brown,
@@ -368,7 +368,7 @@
 366,4,8:47.0,74,84,IND,BOS,0,away,Sub,,,,,A. Horford,T. Rozier
 367,4,8:47.0,75,84,IND,BOS,0,home,FreeThrow,,,make1,0,P. George,
 368,4,8:45.0,75,84,IND,BOS,2,away,DefReb,,,DefReb,,A. Horford,
-369,4,8:44.0,75,84,IND,BOS,1,away,LostBall,steal,,turnover,,A. Horford,P. George
+369,4,8:44.0,75,84,IND,BOS,1,away,lost ball,steal,,turnover,,A. Horford,P. George
 370,4,8:38.0,75,84,IND,BOS,6,home,JS,,24,miss3,0,G. Robinson,
 371,4,8:37.0,75,84,IND,BOS,1,away,DefReb,,,DefReb,,M. Smart,
 372,4,8:37.0,75,84,IND,BOS,0,home,TechnicalFoul,,,TechnicalFoul,,P. George,
@@ -400,7 +400,7 @@
 398,4,6:02.0,80,85,IND,BOS,9,home,LU,,1,miss2,0,J. Teague,
 399,4,6:01.0,80,85,IND,BOS,1,away,DefReb,,,DefReb,,A. Horford,
 400,4,5:52.0,80,87,IND,BOS,9,away,LU,,2,make2,2,I. Thomas,
-401,4,5:49.0,80,87,IND,BOS,3,home,BadPass,steal,,turnover,,P. George,A. Bradley
+401,4,5:49.0,80,87,IND,BOS,3,home,bad pass,steal,,turnover,,P. George,A. Bradley
 402,4,5:43.0,80,87,IND,BOS,6,away,JS,,25,miss3,0,J. Crowder,
 403,4,5:43.0,80,87,IND,BOS,0,home,DefReb,,,DefReb,,G. Robinson,
 404,4,5:26.0,83,87,IND,BOS,17,home,JS,assist,28,make3,3,C. Miles,J. Teague
@@ -408,7 +408,7 @@
 406,4,5:06.0,83,87,IND,BOS,4,away,OffReb,,,OffReb,,A. Horford,
 407,4,5:06.0,83,87,IND,BOS,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Miles,J. Crowder
 408,4,4:56.0,83,89,IND,BOS,10,away,LU,,1,make2,2,A. Horford,
-409,4,4:37.0,83,89,IND,BOS,19,home,BadPass,steal,,turnover,,P. George,M. Smart
+409,4,4:37.0,83,89,IND,BOS,19,home,bad pass,steal,,turnover,,P. George,M. Smart
 410,4,4:35.0,83,89,IND,BOS,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. Miles,I. Thomas
 411,4,4:35.0,83,90,IND,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
 412,4,4:35.0,83,90,IND,BOS,0,home,Sub,,,,,T. Young,G. Robinson

@@ -1,6 +1,6 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:46.0,2,0,CHO,BOS,14,home,DK,assist,0,make2,2,C. Zeller,K. Walker
-1,1,11:29.0,2,0,CHO,BOS,17,away,BadPass,steal,,turnover,,I. Thomas,C. Zeller
+1,1,11:29.0,2,0,CHO,BOS,17,away,bad pass,steal,,turnover,,I. Thomas,C. Zeller
 2,1,11:16.0,5,0,CHO,BOS,13,home,JS,assist,25,make3,3,K. Walker,C. Zeller
 3,1,10:59.0,5,0,CHO,BOS,17,away,BadPass,,,turnover,,A. Bradley,
 4,1,10:48.0,5,0,CHO,BOS,11,home,JS,,25,miss3,0,K. Walker,
@@ -17,11 +17,11 @@
 15,1,9:45.0,7,4,CHO,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kidd-Gilchrist,J. Crowder
 16,1,9:45.0,7,4,CHO,BOS,0,away,FreeThrow,,,make1,0,J. Crowder,
 17,1,9:44.0,7,4,CHO,BOS,1,home,DefReb,,,DefReb,,M. Williams,
-18,1,9:22.0,7,4,CHO,BOS,22,home,LostBall,steal,,turnover,,M. Williams,I. Thomas
+18,1,9:22.0,7,4,CHO,BOS,22,home,lost ball,steal,,turnover,,M. Williams,I. Thomas
 19,1,9:16.0,7,6,CHO,BOS,6,away,LU,assist,1,make2,2,K. Olynyk,A. Bradley
 20,1,8:54.0,7,6,CHO,BOS,22,home,JS,,12,miss2,0,M. Williams,
 21,1,8:53.0,7,6,CHO,BOS,1,away,DefReb,,,DefReb,,A. Horford,
-22,1,8:41.0,7,6,CHO,BOS,12,away,LostBall,steal,,turnover,,I. Thomas,K. Walker
+22,1,8:41.0,7,6,CHO,BOS,12,away,lost ball,steal,,turnover,,I. Thomas,K. Walker
 23,1,8:31.0,9,6,CHO,BOS,10,home,LU,assist,1,make2,2,K. Walker,M. Kidd-Gilchrist
 24,1,8:15.0,9,6,CHO,BOS,16,away,JS,,24,miss3,0,I. Thomas,
 25,1,8:14.0,9,6,CHO,BOS,1,home,DefReb,,,DefReb,,N. Batum,
@@ -36,7 +36,7 @@
 34,1,7:18.0,9,8,CHO,BOS,11,home,JS,block,9,miss2,0,N. Batum,K. Olynyk
 35,1,7:16.0,9,8,CHO,BOS,2,home,OffReb,,,OffReb,,N. Batum,
 36,1,7:16.0,11,8,CHO,BOS,0,home,LU,,1,make2,2,N. Batum,
-37,1,7:07.0,11,8,CHO,BOS,9,away,BadPass,steal,,turnover,,I. Thomas,C. Zeller
+37,1,7:07.0,11,8,CHO,BOS,9,away,bad pass,steal,,turnover,,I. Thomas,C. Zeller
 38,1,7:01.0,11,8,CHO,BOS,6,home,BadPass,,,turnover,,M. Kidd-Gilchrist,
 39,1,6:50.0,11,8,CHO,BOS,11,away,JS,,18,miss2,0,A. Bradley,
 40,1,6:49.0,11,8,CHO,BOS,1,home,DefReb,,,DefReb,,Team,
@@ -48,7 +48,7 @@
 46,1,6:03.0,11,8,CHO,BOS,2,home,OffReb,,,OffReb,,M. Williams,
 47,1,6:00.0,11,8,CHO,BOS,3,home,JS,,16,miss2,0,M. Kidd-Gilchrist,
 48,1,5:58.0,11,8,CHO,BOS,2,home,OffReb,,,OffReb,,C. Zeller,
-49,1,5:53.0,11,8,CHO,BOS,5,home,BadPass,steal,,turnover,,N. Batum,A. Horford
+49,1,5:53.0,11,8,CHO,BOS,5,home,bad pass,steal,,turnover,,N. Batum,A. Horford
 50,1,5:44.0,11,8,CHO,BOS,9,away,JS,,25,miss3,0,K. Olynyk,
 51,1,5:43.0,11,8,CHO,BOS,1,home,DefReb,,,DefReb,,K. Walker,
 52,1,5:37.0,11,8,CHO,BOS,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,K. Walker
@@ -156,7 +156,7 @@
 154,2,5:33.0,38,48,CHO,BOS,8,away,JS,assist,15,make2,2,J. Crowder,T. Zeller
 155,2,5:13.0,38,48,CHO,BOS,20,home,JS,,26,miss3,0,F. Kaminsky,
 156,2,5:12.0,38,48,CHO,BOS,1,away,DefReb,,,DefReb,,K. Olynyk,
-157,2,4:57.0,38,48,CHO,BOS,15,away,BadPass,steal,,turnover,,I. Thomas,M. Williams
+157,2,4:57.0,38,48,CHO,BOS,15,away,bad pass,steal,,turnover,,I. Thomas,M. Williams
 158,2,4:49.0,41,48,CHO,BOS,8,home,JS,assist,26,make3,3,N. Batum,K. Walker
 159,2,4:30.0,41,50,CHO,BOS,19,away,JS,assist,5,make2,2,T. Zeller,A. Bradley
 160,2,4:13.0,41,50,CHO,BOS,17,home,JS,,23,miss2,0,M. Williams,
@@ -224,7 +224,7 @@
 222,3,9:07.0,58,77,CHO,BOS,19,away,JS,,25,miss3,0,A. Bradley,
 223,3,9:06.0,58,77,CHO,BOS,1,home,DefReb,,,DefReb,,C. Zeller,
 224,3,9:01.0,58,77,CHO,BOS,5,home,OutOfBounds,,,turnover,,M. Williams,
-225,3,8:49.0,58,77,CHO,BOS,12,away,BadPass,steal,,turnover,,I. Thomas,C. Zeller
+225,3,8:49.0,58,77,CHO,BOS,12,away,bad pass,steal,,turnover,,I. Thomas,C. Zeller
 226,3,8:36.0,60,77,CHO,BOS,13,home,JS,,18,make2,2,N. Batum,
 227,3,8:10.0,60,77,CHO,BOS,26,away,JS,,20,miss2,0,A. Bradley,
 228,3,8:09.0,60,77,CHO,BOS,1,home,DefReb,,,DefReb,,N. Batum,

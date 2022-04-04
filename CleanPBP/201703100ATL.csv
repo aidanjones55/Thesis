@@ -1,9 +1,9 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:39.0,0,0,ATL,TOR,21,away,BadPass,steal,,turnover,,S. Ibaka,K. Bazemore
+0,1,11:39.0,0,0,ATL,TOR,21,away,bad pass,steal,,turnover,,S. Ibaka,K. Bazemore
 1,1,11:35.0,0,0,ATL,TOR,4,home,LU,,2,miss2,0,K. Bazemore,
 2,1,11:33.0,0,0,ATL,TOR,2,away,DefReb,,,DefReb,,J. Valančiūnas,
 3,1,11:24.0,0,3,ATL,TOR,9,away,JS,assist,24,make3,3,S. Ibaka,D. DeRozan
-4,1,10:59.0,0,3,ATL,TOR,25,home,BadPass,steal,,turnover,,K. Bazemore,D. Carroll
+4,1,10:59.0,0,3,ATL,TOR,25,home,bad pass,steal,,turnover,,K. Bazemore,D. Carroll
 5,1,10:47.0,0,3,ATL,TOR,12,away,JS,block,5,miss2,0,J. Valančiūnas,D. Howard
 6,1,10:45.0,0,3,ATL,TOR,2,home,DefReb,,,DefReb,,P. Millsap,
 7,1,10:41.0,2,3,ATL,TOR,4,home,LU,,2,make2,2,P. Millsap,
@@ -20,8 +20,8 @@
 18,1,8:30.0,9,9,ATL,TOR,14,away,JS,assist,20,make2,2,C. Joseph,D. DeRozan
 19,1,8:09.0,9,9,ATL,TOR,21,home,JS,,24,miss3,0,K. Bazemore,
 20,1,8:08.0,9,9,ATL,TOR,1,home,OffReb,,,OffReb,,D. Howard,
-21,1,8:06.0,9,9,ATL,TOR,2,home,LostBall,steal,,turnover,,D. Howard,J. Valančiūnas
-22,1,8:00.0,9,9,ATL,TOR,6,away,BadPass,steal,,turnover,,D. DeRozan,T. Hardaway
+21,1,8:06.0,9,9,ATL,TOR,2,home,lost ball,steal,,turnover,,D. Howard,J. Valančiūnas
+22,1,8:00.0,9,9,ATL,TOR,6,away,bad pass,steal,,turnover,,D. DeRozan,T. Hardaway
 23,1,7:48.0,11,9,ATL,TOR,12,home,JS,,12,make2,2,P. Millsap,
 24,1,7:28.0,11,9,ATL,TOR,20,away,JS,,17,miss2,0,J. Valančiūnas,
 25,1,7:26.0,11,9,ATL,TOR,2,home,DefReb,,,DefReb,,D. Schröder,
@@ -29,13 +29,13 @@
 27,1,7:12.0,11,9,ATL,TOR,4,home,OffReb,,,OffReb,,D. Howard,
 28,1,7:05.0,11,9,ATL,TOR,7,home,JS,,9,miss2,0,T. Hardaway,
 29,1,7:01.0,11,9,ATL,TOR,4,away,DefReb,,,DefReb,,S. Ibaka,
-30,1,6:59.0,11,9,ATL,TOR,2,away,LostBall,steal,,turnover,,S. Ibaka,D. Howard
+30,1,6:59.0,11,9,ATL,TOR,2,away,lost ball,steal,,turnover,,S. Ibaka,D. Howard
 31,1,6:50.0,11,9,ATL,TOR,9,home,JS,,26,miss3,0,D. Schröder,
 32,1,6:47.0,11,9,ATL,TOR,3,home,OffReb,,,OffReb,,K. Bazemore,
 33,1,6:41.0,13,9,ATL,TOR,6,home,DK,assist,0,make2,2,D. Howard,D. Schröder
 34,1,6:17.0,13,9,ATL,TOR,24,away,JS,,16,miss2,0,J. Valančiūnas,
 35,1,6:15.0,13,9,ATL,TOR,2,home,DefReb,,,DefReb,,D. Howard,
-36,1,6:09.0,13,9,ATL,TOR,6,home,LostBall,steal,,turnover,,D. Schröder,C. Joseph
+36,1,6:09.0,13,9,ATL,TOR,6,home,lost ball,steal,,turnover,,D. Schröder,C. Joseph
 37,1,6:01.0,13,11,ATL,TOR,8,away,LU,assist,1,make2,2,D. DeRozan,C. Joseph
 38,1,5:52.0,13,11,ATL,TOR,9,home,Timeout,,,,,,
 39,1,5:52.0,13,11,ATL,TOR,0,home,Sub,,,,,T. Sefolosha,T. Hardaway
@@ -81,7 +81,7 @@
 79,1,1:36.0,18,18,ATL,TOR,0,away,ShotClockViolation,,,turnover,,Team,
 80,1,1:22.0,18,18,ATL,TOR,14,home,JS,,23,miss3,0,T. Sefolosha,
 81,1,1:21.0,18,18,ATL,TOR,1,away,DefReb,,,DefReb,,N. Powell,
-82,1,1:11.0,18,18,ATL,TOR,10,away,BadPass,steal,,turnover,,N. Powell,T. Hardaway
+82,1,1:11.0,18,18,ATL,TOR,10,away,bad pass,steal,,turnover,,N. Powell,T. Hardaway
 83,1,1:06.0,18,18,ATL,TOR,5,home,LU,,1,miss2,0,E. İlyasova,
 84,1,1:04.0,18,18,ATL,TOR,2,home,OffReb,,,OffReb,,T. Hardaway,
 85,1,1:03.0,18,18,ATL,TOR,1,home,LU,block,1,miss2,0,T. Hardaway,D. Carroll
@@ -102,7 +102,7 @@
 100,2,11:32.0,20,19,ATL,TOR,16,away,JS,block,7,miss2,0,D. Wright,D. Howard
 101,2,11:31.0,20,19,ATL,TOR,1,home,DefReb,,,DefReb,,T. Prince,
 102,2,11:26.0,22,19,ATL,TOR,5,home,LU,assist,2,make2,2,T. Hardaway,T. Prince
-103,2,11:00.0,22,19,ATL,TOR,26,away,BadPass,steal,,turnover,,N. Powell,T. Prince
+103,2,11:00.0,22,19,ATL,TOR,26,away,bad pass,steal,,turnover,,N. Powell,T. Prince
 104,2,10:49.0,22,19,ATL,TOR,11,home,JS,,21,miss2,0,E. İlyasova,
 105,2,10:48.0,22,19,ATL,TOR,1,away,DefReb,,,DefReb,,J. Valančiūnas,
 106,2,10:40.0,22,21,ATL,TOR,8,away,JS,,6,make2,2,N. Powell,
@@ -116,7 +116,7 @@
 114,2,10:16.0,23,22,ATL,TOR,0,away,FreeThrow,,,make1,0,N. Powell,
 115,2,10:16.0,23,22,ATL,TOR,0,away,OffReb,,,OffReb,,Team,
 116,2,10:16.0,23,23,ATL,TOR,0,away,FreeThrow,,,make1,1,N. Powell,
-117,2,9:59.0,23,23,ATL,TOR,17,home,BadPass,steal,,turnover,,T. Hardaway,J. Valančiūnas
+117,2,9:59.0,23,23,ATL,TOR,17,home,bad pass,steal,,turnover,,T. Hardaway,J. Valančiūnas
 118,2,9:50.0,23,23,ATL,TOR,9,away,LU,block,2,miss2,0,J. Valančiūnas,E. İlyasova
 119,2,9:47.0,23,23,ATL,TOR,3,home,DefReb,,,DefReb,,E. İlyasova,
 120,2,9:44.0,26,23,ATL,TOR,3,home,JS,assist,24,make3,3,T. Hardaway,E. İlyasova
@@ -162,8 +162,8 @@
 160,2,6:36.0,32,33,ATL,TOR,9,home,LU,assist,1,make2,2,D. Schröder,T. Sefolosha
 161,2,6:20.0,32,33,ATL,TOR,16,away,JS,,20,miss2,0,D. DeRozan,
 162,2,6:18.0,32,33,ATL,TOR,2,away,OffReb,,,OffReb,,D. Carroll,
-163,2,6:06.0,32,33,ATL,TOR,12,away,LostBall,steal,,turnover,,C. Joseph,K. Bazemore
-164,2,5:57.0,32,33,ATL,TOR,9,home,BadPass,steal,,turnover,,D. Schröder,D. DeRozan
+163,2,6:06.0,32,33,ATL,TOR,12,away,lost ball,steal,,turnover,,C. Joseph,K. Bazemore
+164,2,5:57.0,32,33,ATL,TOR,9,home,bad pass,steal,,turnover,,D. Schröder,D. DeRozan
 165,2,5:52.0,32,33,ATL,TOR,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Sefolosha,D. Carroll
 166,2,5:52.0,32,34,ATL,TOR,0,away,FreeThrow,,,make1,1,D. Carroll,
 167,2,5:52.0,32,35,ATL,TOR,0,away,FreeThrow,,,make1,1,D. Carroll,
@@ -210,7 +210,7 @@
 208,2,2:06.0,41,42,ATL,TOR,8,home,Timeout,,,,,,
 209,2,2:06.0,41,42,ATL,TOR,0,away,Timeout,,,,,,
 210,2,2:06.0,41,42,ATL,TOR,0,home,Sub,,,,,T. Sefolosha,K. Bazemore
-211,2,1:59.0,41,42,ATL,TOR,7,home,LostBall,steal,,turnover,,T. Hardaway,D. Carroll
+211,2,1:59.0,41,42,ATL,TOR,7,home,lost ball,steal,,turnover,,T. Hardaway,D. Carroll
 212,2,1:45.0,41,44,ATL,TOR,14,away,JS,,18,make2,2,D. DeRozan,
 213,2,1:25.0,43,44,ATL,TOR,20,home,LU,,0,make2,2,D. Schröder,
 214,2,1:09.0,43,44,ATL,TOR,16,away,JS,,22,miss3,0,D. DeRozan,
@@ -238,7 +238,7 @@
 236,3,10:24.0,53,53,ATL,TOR,15,home,JS,,21,miss2,0,K. Bazemore,
 237,3,10:22.0,53,53,ATL,TOR,2,away,DefReb,,,DefReb,,D. Carroll,
 238,3,10:17.0,53,55,ATL,TOR,5,away,HS,assist,4,make2,2,S. Ibaka,D. Carroll
-239,3,10:01.0,53,55,ATL,TOR,16,home,LostBall,steal,,turnover,,P. Millsap,D. Carroll
+239,3,10:01.0,53,55,ATL,TOR,16,home,lost ball,steal,,turnover,,P. Millsap,D. Carroll
 240,3,10:01.0,53,55,ATL,TOR,0,away,LU,,4,miss2,0,D. Carroll,
 241,3,10:01.0,53,55,ATL,TOR,0,away,OffReb,,,OffReb,,S. Ibaka,
 242,3,9:55.0,53,57,ATL,TOR,6,away,HS,,8,make2,2,S. Ibaka,
@@ -270,8 +270,8 @@
 268,3,7:02.0,59,59,ATL,TOR,0,away,Timeout,,,,,,
 269,3,6:44.0,59,61,ATL,TOR,18,away,JS,,17,make2,2,C. Joseph,
 270,3,6:29.0,59,61,ATL,TOR,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Joseph,D. Schröder
-271,3,6:23.0,59,61,ATL,TOR,6,home,LostBall,steal,,turnover,,D. Schröder,C. Joseph
-272,3,6:19.0,59,61,ATL,TOR,4,away,LostBall,steal,,turnover,,S. Ibaka,P. Millsap
+271,3,6:23.0,59,61,ATL,TOR,6,home,lost ball,steal,,turnover,,D. Schröder,C. Joseph
+272,3,6:19.0,59,61,ATL,TOR,4,away,lost ball,steal,,turnover,,S. Ibaka,P. Millsap
 273,3,6:06.0,61,61,ATL,TOR,13,home,JS,assist,13,make2,2,P. Millsap,D. Schröder
 274,3,5:41.0,61,61,ATL,TOR,25,away,JS,,14,miss2,0,D. DeRozan,
 275,3,5:39.0,61,61,ATL,TOR,2,home,DefReb,,,DefReb,,K. Bazemore,
@@ -282,10 +282,10 @@
 280,3,5:02.0,63,61,ATL,TOR,16,home,DK,assist,0,make2,2,D. Howard,P. Millsap
 281,3,4:36.0,63,61,ATL,TOR,26,away,JS,,24,miss3,0,D. DeRozan,
 282,3,4:35.0,63,61,ATL,TOR,1,home,DefReb,,,DefReb,,D. Howard,
-283,3,4:20.0,63,61,ATL,TOR,15,home,LostBall,steal,,turnover,,K. Bazemore,C. Joseph
+283,3,4:20.0,63,61,ATL,TOR,15,home,lost ball,steal,,turnover,,K. Bazemore,C. Joseph
 284,3,4:07.0,63,61,ATL,TOR,13,away,JS,,19,miss2,0,C. Joseph,
 285,3,4:05.0,63,61,ATL,TOR,2,home,DefReb,,,DefReb,,T. Sefolosha,
-286,3,3:52.0,63,61,ATL,TOR,13,home,LostBall,steal,,turnover,,P. Millsap,D. DeRozan
+286,3,3:52.0,63,61,ATL,TOR,13,home,lost ball,steal,,turnover,,P. Millsap,D. DeRozan
 287,3,3:48.0,63,63,ATL,TOR,4,away,LU,,0,make2,2,C. Joseph,
 288,3,3:48.0,63,63,ATL,TOR,0,home,Timeout,,,,,,
 289,3,3:48.0,63,63,ATL,TOR,0,home,Sub,,,,,E. İlyasova,K. Bazemore
@@ -313,12 +313,12 @@
 311,3,1:51.0,68,71,ATL,TOR,20,away,JS,assist,23,make3,3,D. DeRozan,D. Wright
 312,3,1:35.0,71,71,ATL,TOR,16,home,JS,assist,25,make3,3,E. İlyasova,P. Millsap
 313,3,1:18.0,71,73,ATL,TOR,17,away,JS,,19,make2,2,D. DeRozan,
-314,3,0:58.0,71,73,ATL,TOR,20,home,BadPass,steal,,turnover,,E. İlyasova,P. Tucker
-315,3,0:52.0,71,73,ATL,TOR,6,away,BadPass,steal,,turnover,,D. DeRozan,T. Sefolosha
+314,3,0:58.0,71,73,ATL,TOR,20,home,bad pass,steal,,turnover,,E. İlyasova,P. Tucker
+315,3,0:52.0,71,73,ATL,TOR,6,away,bad pass,steal,,turnover,,D. DeRozan,T. Sefolosha
 316,3,0:50.0,73,73,ATL,TOR,2,home,DK,,0,make2,2,T. Sefolosha,
 317,3,0:33.0,73,73,ATL,TOR,17,away,JS,,16,miss2,0,D. DeRozan,
 318,3,0:31.0,73,73,ATL,TOR,2,home,DefReb,,,DefReb,,T. Sefolosha,
-319,3,0:14.0,73,73,ATL,TOR,17,home,BadPass,steal,,turnover,,T. Hardaway,N. Powell
+319,3,0:14.0,73,73,ATL,TOR,17,home,bad pass,steal,,turnover,,T. Hardaway,N. Powell
 320,3,0:10.0,73,75,ATL,TOR,4,away,LU,,1,make2,2,D. DeRozan,
 321,3,0:05.0,73,75,ATL,TOR,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Powell,E. İlyasova
 322,3,0:05.0,74,75,ATL,TOR,0,home,FreeThrow,,,make1,1,E. İlyasova,
@@ -336,7 +336,7 @@
 334,4,10:49.0,78,75,ATL,TOR,7,home,JS,,17,make2,2,J. Calderón,
 335,4,10:26.0,78,75,ATL,TOR,23,away,JS,,18,miss2,0,P. Tucker,
 336,4,10:25.0,78,75,ATL,TOR,1,home,DefReb,,,DefReb,,J. Calderón,
-337,4,10:05.0,78,75,ATL,TOR,20,home,BadPass,steal,,turnover,,J. Calderón,N. Powell
+337,4,10:05.0,78,75,ATL,TOR,20,home,bad pass,steal,,turnover,,J. Calderón,N. Powell
 338,4,9:59.0,78,75,ATL,TOR,6,away,LU,,0,miss2,0,N. Powell,
 339,4,9:58.0,78,75,ATL,TOR,1,away,OffReb,,,OffReb,,D. Carroll,
 340,4,9:58.0,78,77,ATL,TOR,0,away,LU,,1,make2,2,D. Carroll,
@@ -348,7 +348,7 @@
 346,4,9:06.0,82,79,ATL,TOR,0,away,Sub,,,,,C. Joseph,D. Wright
 347,4,9:05.0,82,79,ATL,TOR,1,away,DefReb,,,DefReb,,J. Valančiūnas,
 348,4,8:52.0,82,81,ATL,TOR,13,away,JS,assist,18,make2,2,J. Valančiūnas,C. Joseph
-349,4,8:39.0,82,81,ATL,TOR,13,home,BadPass,steal,,turnover,,T. Prince,N. Powell
+349,4,8:39.0,82,81,ATL,TOR,13,home,bad pass,steal,,turnover,,T. Prince,N. Powell
 350,4,8:34.0,82,81,ATL,TOR,5,away,LU,,1,miss2,0,N. Powell,
 351,4,8:34.0,82,81,ATL,TOR,0,away,OffReb,,,OffReb,,N. Powell,
 352,4,8:34.0,82,83,ATL,TOR,0,away,LU,,1,make2,2,N. Powell,
@@ -363,7 +363,7 @@
 361,4,7:40.0,85,83,ATL,TOR,12,home,JS,assist,25,make3,3,E. İlyasova,T. Hardaway
 362,4,7:22.0,85,83,ATL,TOR,18,away,JS,,9,miss2,0,C. Joseph,
 363,4,7:19.0,85,83,ATL,TOR,3,home,DefReb,,,DefReb,,K. Bazemore,
-364,4,7:15.0,85,83,ATL,TOR,4,home,BadPass,steal,,turnover,,D. Schröder,D. Carroll
+364,4,7:15.0,85,83,ATL,TOR,4,home,bad pass,steal,,turnover,,D. Schröder,D. Carroll
 365,4,7:15.0,85,83,ATL,TOR,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Bazemore,C. Joseph
 366,4,7:15.0,85,83,ATL,TOR,0,away,Sub,,,,,D. DeRozan,D. Carroll
 367,4,7:15.0,85,83,ATL,TOR,0,home,Sub,,,,,T. Sefolosha,T. Hardaway
@@ -428,10 +428,10 @@
 426,4,1:38.0,96,88,ATL,TOR,7,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,S. Ibaka,E. İlyasova
 427,4,1:38.0,96,88,ATL,TOR,0,away,BadPass,,,turnover,,S. Ibaka,
 428,4,1:38.0,96,88,ATL,TOR,0,away,Sub,,,,,P. Patterson,S. Ibaka
-429,4,1:37.0,96,88,ATL,TOR,1,home,BadPass,steal,,turnover,,T. Sefolosha,C. Joseph
+429,4,1:37.0,96,88,ATL,TOR,1,home,bad pass,steal,,turnover,,T. Sefolosha,C. Joseph
 430,4,1:33.0,96,90,ATL,TOR,4,away,LU,assist,2,make2,2,D. DeRozan,C. Joseph
 431,4,1:15.0,96,90,ATL,TOR,18,home,Timeout,,,,,,
-432,4,1:10.0,96,90,ATL,TOR,5,home,LostBall,steal,,turnover,,P. Millsap,P. Tucker
+432,4,1:10.0,96,90,ATL,TOR,5,home,lost ball,steal,,turnover,,P. Millsap,P. Tucker
 433,4,1:03.0,96,90,ATL,TOR,7,away,LU,block,1,miss2,0,D. DeRozan,T. Sefolosha
 434,4,1:02.0,96,90,ATL,TOR,1,home,DefReb,,,DefReb,,D. Schröder,
 435,4,1:02.0,96,90,ATL,TOR,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Carroll,D. Schröder

@@ -1,9 +1,9 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:46.0,0,0,SAS,ATL,14,home,BadPass,steal,,turnover,,D. Dedmon,P. Millsap
-1,1,11:34.0,0,0,SAS,ATL,12,away,BadPass,steal,,turnover,,P. Millsap,P. Mills
+0,1,11:46.0,0,0,SAS,ATL,14,home,bad pass,steal,,turnover,,D. Dedmon,P. Millsap
+1,1,11:34.0,0,0,SAS,ATL,12,away,bad pass,steal,,turnover,,P. Millsap,P. Mills
 2,1,11:28.0,2,0,SAS,ATL,6,home,LU,assist,1,make2,2,D. Lee,P. Mills
 3,1,11:04.0,2,2,SAS,ATL,24,away,JS,assist,19,make2,2,P. Millsap,D. Schröder
-4,1,10:50.0,2,2,SAS,ATL,14,home,BadPass,steal,,turnover,,K. Leonard,T. Sefolosha
+4,1,10:50.0,2,2,SAS,ATL,14,home,bad pass,steal,,turnover,,K. Leonard,T. Sefolosha
 5,1,10:44.0,2,4,SAS,ATL,6,away,JS,assist,9,make2,2,D. Schröder,T. Sefolosha
 6,1,10:26.0,2,4,SAS,ATL,18,home,JS,,10,miss2,0,K. Leonard,
 7,1,10:25.0,2,4,SAS,ATL,1,away,DefReb,,,DefReb,,D. Howard,
@@ -36,10 +36,10 @@
 34,1,7:27.0,4,8,SAS,ATL,1,home,OffReb,,,OffReb,,Team,
 35,1,7:24.0,6,8,SAS,ATL,3,home,JS,assist,17,make2,2,K. Leonard,P. Mills
 36,1,7:03.0,6,10,SAS,ATL,21,away,JS,,16,make2,2,T. Sefolosha,
-37,1,6:43.0,6,10,SAS,ATL,20,home,LostBall,steal,,turnover,,D. Green,D. Howard
-38,1,6:38.0,6,10,SAS,ATL,5,away,BadPass,steal,,turnover,,T. Sefolosha,P. Mills
+37,1,6:43.0,6,10,SAS,ATL,20,home,lost ball,steal,,turnover,,D. Green,D. Howard
+38,1,6:38.0,6,10,SAS,ATL,5,away,bad pass,steal,,turnover,,T. Sefolosha,P. Mills
 39,1,6:32.0,9,10,SAS,ATL,6,home,JS,assist,24,make3,3,P. Mills,D. Lee
-40,1,6:21.0,9,10,SAS,ATL,11,away,LostBall,steal,,turnover,,P. Millsap,D. Green
+40,1,6:21.0,9,10,SAS,ATL,11,away,lost ball,steal,,turnover,,P. Millsap,D. Green
 41,1,6:17.0,11,10,SAS,ATL,4,home,LU,,1,make2,2,P. Mills,
 42,1,6:17.0,11,10,SAS,ATL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Bazemore,P. Mills
 43,1,6:17.0,11,10,SAS,ATL,0,home,FreeThrow,,,make1,0,P. Mills,
@@ -67,7 +67,7 @@
 65,1,3:14.0,21,17,SAS,ATL,20,home,HS,,8,make2,2,K. Leonard,
 66,1,2:56.0,21,17,SAS,ATL,18,away,JS,,9,miss2,0,P. Millsap,
 67,1,2:55.0,21,17,SAS,ATL,1,home,DefReb,,,DefReb,,P. Gasol,
-68,1,2:45.0,21,17,SAS,ATL,10,home,BadPass,steal,,turnover,,P. Gasol,T. Hardaway
+68,1,2:45.0,21,17,SAS,ATL,10,home,bad pass,steal,,turnover,,P. Gasol,T. Hardaway
 69,1,2:38.0,21,17,SAS,ATL,7,away,JS,,26,miss3,0,D. Schröder,
 70,1,2:37.0,21,17,SAS,ATL,1,home,DefReb,,,DefReb,,M. Ginóbili,
 71,1,2:28.0,21,17,SAS,ATL,9,home,LostBall,,,turnover,,K. Leonard,
@@ -81,7 +81,7 @@
 79,1,1:49.0,23,17,SAS,ATL,7,home,JS,assist,17,make2,2,K. Leonard,B. Forbes
 80,1,1:40.0,23,17,SAS,ATL,9,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,P. Millsap,M. Ginóbili
 81,1,1:40.0,23,17,SAS,ATL,0,away,OffensiveFoul,,,turnover,,P. Millsap,
-82,1,1:31.0,23,17,SAS,ATL,9,home,BadPass,steal,,turnover,,K. Leonard,E. İlyasova
+82,1,1:31.0,23,17,SAS,ATL,9,home,bad pass,steal,,turnover,,K. Leonard,E. İlyasova
 83,1,1:31.0,23,17,SAS,ATL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Gasol,E. İlyasova
 84,1,1:18.0,23,17,SAS,ATL,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Leonard,P. Millsap
 85,1,1:18.0,23,18,SAS,ATL,0,away,FreeThrow,,,make1,1,P. Millsap,
@@ -103,7 +103,7 @@
 101,2,11:13.0,28,18,SAS,ATL,2,home,DefReb,,,DefReb,,D. Bertāns,
 102,2,10:57.0,28,18,SAS,ATL,16,home,JS,,25,miss3,0,D. Bertāns,
 103,2,10:56.0,28,18,SAS,ATL,1,away,DefReb,,,DefReb,,E. İlyasova,
-104,2,10:37.0,28,18,SAS,ATL,19,away,BadPass,steal,,turnover,,E. İlyasova,M. Ginóbili
+104,2,10:37.0,28,18,SAS,ATL,19,away,bad pass,steal,,turnover,,E. İlyasova,M. Ginóbili
 105,2,10:25.0,28,18,SAS,ATL,12,home,BadPass,,,turnover,,M. Ginóbili,
 106,2,10:17.0,28,18,SAS,ATL,8,home,ChargeFoul,DrawnBy,,ChargeFoul,,T. Hardaway,M. Ginóbili
 107,2,10:17.0,28,18,SAS,ATL,0,away,OffensiveFoul,,,turnover,,T. Hardaway,
@@ -116,7 +116,7 @@
 114,2,9:32.0,31,18,SAS,ATL,12,home,JS,assist,14,make2,2,D. Bertāns,M. Ginóbili
 115,2,9:11.0,31,18,SAS,ATL,21,away,JS,,23,miss3,0,J. Calderón,
 116,2,9:09.0,31,18,SAS,ATL,2,away,OffReb,,,OffReb,,M. Muscala,
-117,2,9:07.0,31,18,SAS,ATL,2,away,LostBall,steal,,turnover,,M. Muscala,M. Ginóbili
+117,2,9:07.0,31,18,SAS,ATL,2,away,lost ball,steal,,turnover,,M. Muscala,M. Ginóbili
 118,2,9:00.0,31,18,SAS,ATL,7,home,LU,,2,miss2,0,M. Ginóbili,
 119,2,8:59.0,31,18,SAS,ATL,1,away,DefReb,,,DefReb,,M. Muscala,
 120,2,8:56.0,31,18,SAS,ATL,3,away,Timeout,,,,,,
@@ -132,7 +132,7 @@
 130,2,8:48.0,31,18,SAS,ATL,0,away,OffReb,,,OffReb,,Team,
 131,2,8:48.0,31,18,SAS,ATL,0,away,FreeThrow,,,make1,0,D. Howard,
 132,2,8:48.0,31,18,SAS,ATL,0,home,DefReb,,,DefReb,,D. Dedmon,
-133,2,8:32.0,31,18,SAS,ATL,16,home,LostBall,steal,,turnover,,D. Dedmon,T. Prince
+133,2,8:32.0,31,18,SAS,ATL,16,home,lost ball,steal,,turnover,,D. Dedmon,T. Prince
 134,2,8:23.0,31,18,SAS,ATL,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bertāns,D. Schröder
 135,2,8:23.0,31,19,SAS,ATL,0,away,FreeThrow,,,make1,1,D. Schröder,
 136,2,8:23.0,31,19,SAS,ATL,0,away,Sub,,,,,K. Bazemore,T. Prince
@@ -150,7 +150,7 @@
 148,2,7:39.0,31,20,SAS,ATL,0,home,Sub,,,,,D. Lee,D. Bertāns
 149,2,7:39.0,31,20,SAS,ATL,0,home,Sub,,,,,K. Leonard,K. Anderson
 150,2,7:39.0,31,21,SAS,ATL,0,away,FreeThrow,,,make1,1,D. Howard,
-151,2,7:10.0,31,21,SAS,ATL,29,home,BadPass,steal,,turnover,,D. Lee,D. Schröder
+151,2,7:10.0,31,21,SAS,ATL,29,home,bad pass,steal,,turnover,,D. Lee,D. Schröder
 152,2,7:01.0,31,21,SAS,ATL,9,away,JS,,10,miss2,0,T. Hardaway,
 153,2,7:01.0,31,21,SAS,ATL,0,home,DefReb,,,DefReb,,Team,
 154,2,7:01.0,31,21,SAS,ATL,0,home,Timeout,,,,,,
@@ -178,7 +178,7 @@
 176,2,4:46.0,38,29,SAS,ATL,1,home,DefReb,,,DefReb,,D. Lee,
 177,2,4:34.0,38,29,SAS,ATL,12,home,JS,,20,miss2,0,D. Green,
 178,2,4:33.0,38,29,SAS,ATL,1,away,DefReb,,,DefReb,,Team,
-179,2,4:14.0,38,29,SAS,ATL,19,away,BadPass,steal,,turnover,,D. Schröder,D. Green
+179,2,4:14.0,38,29,SAS,ATL,19,away,bad pass,steal,,turnover,,D. Schröder,D. Green
 180,2,4:09.0,40,29,SAS,ATL,5,home,LU,assist,2,make2,2,K. Leonard,D. Green
 181,2,4:09.0,40,29,SAS,ATL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Bazemore,K. Leonard
 182,2,4:09.0,40,29,SAS,ATL,0,home,Sub,,,,,M. Ginóbili,D. Green
@@ -200,7 +200,7 @@
 198,2,2:10.0,50,36,SAS,ATL,17,home,JS,assist,24,make3,3,M. Ginóbili,P. Gasol
 199,2,1:52.0,50,36,SAS,ATL,18,away,JS,,7,miss2,0,T. Sefolosha,
 200,2,1:51.0,50,36,SAS,ATL,1,home,DefReb,,,DefReb,,K. Leonard,
-201,2,1:42.0,50,36,SAS,ATL,9,home,BadPass,steal,,turnover,,M. Ginóbili,K. Bazemore
+201,2,1:42.0,50,36,SAS,ATL,9,home,bad pass,steal,,turnover,,M. Ginóbili,K. Bazemore
 202,2,1:36.0,50,38,SAS,ATL,6,away,LU,assist,2,make2,2,D. Schröder,T. Sefolosha
 203,2,1:19.0,50,38,SAS,ATL,17,home,JS,,25,miss3,0,K. Leonard,
 204,2,1:17.0,50,38,SAS,ATL,2,home,OffReb,,,OffReb,,D. Lee,
@@ -296,7 +296,7 @@
 294,3,3:55.0,71,63,SAS,ATL,2,home,DefReb,,,DefReb,,K. Leonard,
 295,3,3:47.0,71,63,SAS,ATL,8,home,JS,,17,miss2,0,P. Mills,
 296,3,3:46.0,71,63,SAS,ATL,1,home,OffReb,,,OffReb,,J. Anthony,
-297,3,3:43.0,71,63,SAS,ATL,3,home,BadPass,steal,,turnover,,J. Anthony,T. Hardaway
+297,3,3:43.0,71,63,SAS,ATL,3,home,bad pass,steal,,turnover,,J. Anthony,T. Hardaway
 298,3,3:43.0,71,63,SAS,ATL,0,away,PersonalFoul,,,,,P. Mills,
 299,3,3:43.0,71,64,SAS,ATL,0,away,FreeThrow,,,make1,1,T. Hardaway,
 300,3,3:43.0,71,64,SAS,ATL,0,home,Sub,,,,,D. Bertāns,J. Anthony
@@ -312,7 +312,7 @@
 310,3,2:50.0,71,67,SAS,ATL,12,away,JS,assist,15,make2,2,P. Millsap,D. Schröder
 311,3,2:38.0,74,67,SAS,ATL,12,home,JS,assist,25,make3,3,D. Green,P. Mills
 312,3,2:17.0,74,69,SAS,ATL,21,away,LU,assist,2,make2,2,T. Sefolosha,P. Millsap
-313,3,2:02.0,74,69,SAS,ATL,15,home,BadPass,steal,,turnover,,D. Green,D. Schröder
+313,3,2:02.0,74,69,SAS,ATL,15,home,bad pass,steal,,turnover,,D. Green,D. Schröder
 314,3,1:53.0,74,71,SAS,ATL,9,away,JS,assist,15,make2,2,T. Sefolosha,T. Hardaway
 315,3,1:39.0,74,71,SAS,ATL,14,home,JS,,5,miss2,0,P. Gasol,
 316,3,1:38.0,74,71,SAS,ATL,1,home,OffReb,,,OffReb,,P. Gasol,
@@ -352,7 +352,7 @@
 350,4,9:48.0,86,78,SAS,ATL,0,away,OffensiveFoul,,,turnover,,P. Millsap,
 351,4,9:48.0,86,78,SAS,ATL,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
 352,4,9:48.0,86,78,SAS,ATL,0,home,Sub,,,,,D. Dedmon,P. Gasol
-353,4,9:37.0,86,78,SAS,ATL,11,home,BadPass,steal,,turnover,,M. Ginóbili,J. Calderón
+353,4,9:37.0,86,78,SAS,ATL,11,home,bad pass,steal,,turnover,,M. Ginóbili,J. Calderón
 354,4,9:31.0,86,78,SAS,ATL,6,away,JS,,25,miss3,0,T. Hardaway,
 355,4,9:28.0,86,78,SAS,ATL,3,away,OffReb,,,OffReb,,Team,
 356,4,9:17.0,86,81,SAS,ATL,11,away,JS,assist,26,make3,3,T. Hardaway,J. Calderón
@@ -373,14 +373,14 @@
 371,4,8:14.0,86,83,SAS,ATL,13,home,JS,,23,miss3,0,K. Leonard,
 372,4,8:12.0,86,83,SAS,ATL,2,away,DefReb,,,DefReb,,T. Hardaway,
 373,4,8:08.0,86,85,SAS,ATL,4,away,LU,assist,2,make2,2,T. Prince,T. Hardaway
-374,4,8:01.0,86,85,SAS,ATL,7,home,LostBall,steal,,turnover,,K. Leonard,J. Calderón
+374,4,8:01.0,86,85,SAS,ATL,7,home,lost ball,steal,,turnover,,K. Leonard,J. Calderón
 375,4,7:55.0,86,85,SAS,ATL,6,home,ChargeFoul,DrawnBy,,ChargeFoul,,T. Prince,M. Ginóbili
 376,4,7:55.0,86,85,SAS,ATL,0,away,OffensiveFoul,,,turnover,,T. Prince,
 377,4,7:45.0,86,85,SAS,ATL,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. İlyasova,M. Ginóbili
 378,4,7:45.0,86,85,SAS,ATL,0,home,Sub,,,,,D. Lee,D. Bertāns
 379,4,7:35.0,89,85,SAS,ATL,10,home,JS,assist,25,make3,3,B. Forbes,K. Leonard
 380,4,7:19.0,89,87,SAS,ATL,16,away,DK,assist,0,make2,2,T. Hardaway,E. İlyasova
-381,4,7:09.0,89,87,SAS,ATL,10,home,BadPass,steal,,turnover,,M. Ginóbili,E. İlyasova
+381,4,7:09.0,89,87,SAS,ATL,10,home,bad pass,steal,,turnover,,M. Ginóbili,E. İlyasova
 382,4,7:05.0,89,87,SAS,ATL,4,away,BadPass,,,turnover,,E. İlyasova,
 383,4,7:05.0,89,87,SAS,ATL,0,away,Sub,,,,,D. Schröder,J. Calderón
 384,4,7:05.0,89,87,SAS,ATL,0,home,Sub,,,,,P. Mills,B. Forbes

@@ -93,16 +93,16 @@
 91,1,0:50.0,21,27,SAC,DET,1,away,DefReb,,,DefReb,,B. Marjanović,
 92,1,0:42.0,21,27,SAC,DET,8,away,JS,,8,miss2,0,S. Johnson,
 93,1,0:41.0,21,27,SAC,DET,1,home,DefReb,,,DefReb,,K. Koufos,
-94,1,0:28.0,21,27,SAC,DET,13,home,LostBall,steal,,turnover,,K. Koufos,I. Smith
+94,1,0:28.0,21,27,SAC,DET,13,home,lost ball,steal,,turnover,,K. Koufos,I. Smith
 95,1,0:24.0,21,27,SAC,DET,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Temple,T. Harris
 96,1,0:24.0,21,28,SAC,DET,0,away,FreeThrow,,,make1,1,T. Harris,
 97,1,0:24.0,21,28,SAC,DET,0,home,Sub,,,,,B. McLemore,K. Koufos
 98,1,0:24.0,21,28,SAC,DET,0,away,Sub,,,,,D. Hilliard,B. Marjanović
 99,1,0:24.0,21,29,SAC,DET,0,away,FreeThrow,,,make1,1,T. Harris,
-100,1,0:03.0,21,29,SAC,DET,21,home,BadPass,steal,,turnover,,T. Lawson,I. Smith
+100,1,0:03.0,21,29,SAC,DET,21,home,bad pass,steal,,turnover,,T. Lawson,I. Smith
 101,1,0:00.0,21,29,SAC,DET,3,away,JS,,42,miss3,0,I. Smith,
 102,1,0:00.0,21,29,SAC,DET,0,away,OffReb,,,OffReb,,Team,
-103,2,11:52.0,21,29,SAC,DET,8,home,BadPass,steal,,turnover,,T. Lawson,S. Johnson
+103,2,11:52.0,21,29,SAC,DET,8,home,bad pass,steal,,turnover,,T. Lawson,S. Johnson
 104,2,11:45.0,21,31,SAC,DET,7,away,LU,assist,2,make2,2,I. Smith,S. Johnson
 105,2,11:21.0,23,31,SAC,DET,24,home,JS,assist,22,make2,2,A. Afflalo,B. McLemore
 106,2,10:59.0,23,31,SAC,DET,22,away,JS,,14,miss2,0,T. Harris,
@@ -121,7 +121,7 @@
 119,2,9:56.0,24,35,SAC,DET,0,home,Sub,,,,,A. Tolliver,B. McLemore
 120,2,9:56.0,25,35,SAC,DET,0,home,FreeThrow,,,make1,1,A. Afflalo,
 121,2,9:47.0,25,37,SAC,DET,9,away,DK,assist,0,make2,2,B. Marjanović,H. Ellenson
-122,2,9:36.0,25,37,SAC,DET,11,home,LostBall,steal,,turnover,,R. Gay,S. Johnson
+122,2,9:36.0,25,37,SAC,DET,11,home,lost ball,steal,,turnover,,R. Gay,S. Johnson
 123,2,9:33.0,25,39,SAC,DET,3,away,DK,assist,0,make2,2,T. Harris,S. Johnson
 124,2,9:28.0,25,39,SAC,DET,5,home,Timeout,,,,,,
 125,2,9:28.0,25,39,SAC,DET,0,away,Sub,,,,,A. Drummond,B. Marjanović
@@ -141,7 +141,7 @@
 139,2,7:49.0,30,39,SAC,DET,15,home,JS,assist,25,make3,3,D. Cousins,A. Afflalo
 140,2,7:31.0,30,39,SAC,DET,18,away,JS,,25,miss3,0,H. Ellenson,
 141,2,7:30.0,30,39,SAC,DET,1,home,DefReb,,,DefReb,,A. Afflalo,
-142,2,7:18.0,30,39,SAC,DET,12,home,LostBall,steal,,turnover,,R. Gay,S. Johnson
+142,2,7:18.0,30,39,SAC,DET,12,home,lost ball,steal,,turnover,,R. Gay,S. Johnson
 143,2,7:15.0,30,39,SAC,DET,3,away,LU,block,3,miss2,0,S. Johnson,R. Gay
 144,2,7:15.0,30,39,SAC,DET,0,away,OffReb,,,OffReb,,Team,
 145,2,7:15.0,30,39,SAC,DET,0,away,Sub,,,,,R. Jackson,I. Smith
@@ -157,7 +157,7 @@
 155,2,5:58.0,33,41,SAC,DET,1,away,DefReb,,,DefReb,,M. Morris,
 156,2,5:49.0,33,41,SAC,DET,9,away,JS,,3,miss2,0,R. Jackson,
 157,2,5:48.0,33,41,SAC,DET,1,home,DefReb,,,DefReb,,D. Cousins,
-158,2,5:37.0,33,41,SAC,DET,11,home,BadPass,steal,,turnover,,R. Gay,A. Drummond
+158,2,5:37.0,33,41,SAC,DET,11,home,bad pass,steal,,turnover,,R. Gay,A. Drummond
 159,2,5:29.0,33,41,SAC,DET,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Gay,A. Drummond
 160,2,5:29.0,33,41,SAC,DET,0,home,LaneViolation,,,LaneViolation,,D. Collison,
 161,2,5:29.0,33,41,SAC,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
@@ -176,12 +176,12 @@
 174,2,4:38.0,33,41,SAC,DET,0,home,Sub,,,,,G. Temple,A. Afflalo
 175,2,4:27.0,33,41,SAC,DET,11,home,JS,,25,miss3,0,D. Collison,
 176,2,4:27.0,33,41,SAC,DET,0,away,DefReb,,,DefReb,,K. Caldwell-Pope,
-177,2,4:10.0,33,41,SAC,DET,17,away,BadPass,steal,,turnover,,M. Morris,D. Cousins
-178,2,4:08.0,33,41,SAC,DET,2,home,BadPass,steal,,turnover,,R. Gay,M. Morris
+177,2,4:10.0,33,41,SAC,DET,17,away,bad pass,steal,,turnover,,M. Morris,D. Cousins
+178,2,4:08.0,33,41,SAC,DET,2,home,bad pass,steal,,turnover,,R. Gay,M. Morris
 179,2,4:05.0,33,43,SAC,DET,3,away,DK,assist,0,make2,2,A. Drummond,M. Morris
 180,2,3:46.0,33,43,SAC,DET,19,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jackson,D. Collison
 181,2,3:46.0,33,43,SAC,DET,0,away,Sub,,,,,T. Harris,S. Johnson
-182,2,3:38.0,33,43,SAC,DET,8,home,BadPass,steal,,turnover,,R. Gay,A. Drummond
+182,2,3:38.0,33,43,SAC,DET,8,home,bad pass,steal,,turnover,,R. Gay,A. Drummond
 183,2,3:33.0,33,43,SAC,DET,5,home,ChargeFoul,DrawnBy,,ChargeFoul,,R. Jackson,R. Gay
 184,2,3:33.0,33,43,SAC,DET,0,away,OffensiveFoul,,,turnover,,R. Jackson,
 185,2,3:33.0,33,43,SAC,DET,0,away,Sub,,,,,I. Smith,R. Jackson
@@ -249,7 +249,7 @@
 247,3,7:52.0,52,65,SAC,DET,0,home,FreeThrow,,,make1,1,A. Tolliver,
 248,3,7:31.0,52,65,SAC,DET,21,away,JS,,24,miss3,0,T. Harris,
 249,3,7:30.0,52,65,SAC,DET,1,home,DefReb,,,DefReb,,R. Gay,
-250,3,7:15.0,52,65,SAC,DET,15,home,LostBall,steal,,turnover,,D. Cousins,T. Harris
+250,3,7:15.0,52,65,SAC,DET,15,home,lost ball,steal,,turnover,,D. Cousins,T. Harris
 251,3,7:10.0,52,67,SAC,DET,5,away,LU,,3,make2,2,T. Harris,
 252,3,7:02.0,52,67,SAC,DET,8,home,LU,,3,miss2,0,D. Cousins,
 253,3,7:00.0,52,67,SAC,DET,2,away,DefReb,,,DefReb,,T. Harris,
@@ -257,10 +257,10 @@
 255,3,6:53.0,52,70,SAC,DET,0,home,Timeout,,,,,,
 256,3,6:33.0,52,70,SAC,DET,20,home,JS,,23,miss3,0,G. Temple,
 257,3,6:32.0,52,70,SAC,DET,1,away,DefReb,,,DefReb,,R. Jackson,
-258,3,6:27.0,52,70,SAC,DET,5,away,BadPass,steal,,turnover,,R. Jackson,R. Gay
-259,3,6:27.0,52,70,SAC,DET,0,home,BadPass,steal,,turnover,,R. Gay,A. Drummond
+258,3,6:27.0,52,70,SAC,DET,5,away,bad pass,steal,,turnover,,R. Jackson,R. Gay
+259,3,6:27.0,52,70,SAC,DET,0,home,bad pass,steal,,turnover,,R. Gay,A. Drummond
 260,3,6:27.0,52,70,SAC,DET,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Temple,A. Drummond
-261,3,6:14.0,52,70,SAC,DET,13,away,LostBall,steal,,turnover,,K. Caldwell-Pope,G. Temple
+261,3,6:14.0,52,70,SAC,DET,13,away,lost ball,steal,,turnover,,K. Caldwell-Pope,G. Temple
 262,3,6:04.0,55,70,SAC,DET,10,home,JS,assist,25,make3,3,A. Tolliver,D. Cousins
 263,3,5:50.0,55,70,SAC,DET,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Gay,R. Jackson
 264,3,5:50.0,55,70,SAC,DET,0,home,Sub,,,,,K. Koufos,D. Cousins
@@ -306,14 +306,14 @@
 304,3,2:42.0,66,75,SAC,DET,12,home,JS,assist,25,make3,3,A. Tolliver,D. Collison
 305,3,2:28.0,66,75,SAC,DET,14,away,JS,,4,miss2,0,S. Johnson,
 306,3,2:27.0,66,75,SAC,DET,1,home,DefReb,,,DefReb,,O. Casspi,
-307,3,2:10.0,66,75,SAC,DET,17,home,BadPass,steal,,turnover,,D. Collison,M. Morris
+307,3,2:10.0,66,75,SAC,DET,17,home,bad pass,steal,,turnover,,D. Collison,M. Morris
 308,3,1:56.0,66,77,SAC,DET,14,away,JS,,15,make2,2,M. Morris,
 309,3,1:32.0,66,77,SAC,DET,24,home,BadPass,,,turnover,,T. Lawson,
 310,3,1:32.0,66,77,SAC,DET,0,home,Sub,,,,,R. Gay,D. Collison
 311,3,1:18.0,66,77,SAC,DET,14,away,JS,,16,miss2,0,B. Marjanović,
 312,3,1:17.0,66,77,SAC,DET,1,home,DefReb,,,DefReb,,O. Casspi,
 313,3,1:01.0,68,77,SAC,DET,16,home,LU,assist,3,make2,2,K. Koufos,A. Tolliver
-314,3,0:43.0,68,77,SAC,DET,18,away,BadPass,steal,,turnover,,M. Morris,R. Gay
+314,3,0:43.0,68,77,SAC,DET,18,away,bad pass,steal,,turnover,,M. Morris,R. Gay
 315,3,0:38.0,68,77,SAC,DET,5,home,JS,,8,miss2,0,O. Casspi,
 316,3,0:37.0,68,77,SAC,DET,1,home,OffReb,,,OffReb,,A. Tolliver,
 317,3,0:32.0,68,77,SAC,DET,5,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Gay,K. Caldwell-Pope
@@ -373,13 +373,13 @@
 371,4,5:28.0,84,89,SAC,DET,20,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Baynes,D. Cousins
 372,4,5:15.0,84,89,SAC,DET,13,home,LU,block,4,miss2,0,D. Cousins,A. Drummond
 373,4,5:13.0,84,89,SAC,DET,2,away,DefReb,,,DefReb,,A. Baynes,
-374,4,5:00.0,84,89,SAC,DET,13,away,LostBall,steal,,turnover,,K. Caldwell-Pope,O. Casspi
+374,4,5:00.0,84,89,SAC,DET,13,away,lost ball,steal,,turnover,,K. Caldwell-Pope,O. Casspi
 375,4,4:58.0,84,89,SAC,DET,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Harris,O. Casspi
 376,4,4:58.0,84,89,SAC,DET,0,home,FreeThrow,,,make1,0,O. Casspi,
 377,4,4:58.0,84,89,SAC,DET,0,home,OffReb,,,OffReb,,Team,
 378,4,4:58.0,84,89,SAC,DET,0,home,FreeThrow,,,make1,0,O. Casspi,
 379,4,4:57.0,84,89,SAC,DET,1,home,OffReb,,,OffReb,,D. Cousins,
-380,4,4:49.0,84,89,SAC,DET,8,home,LostBall,steal,,turnover,,D. Cousins,K. Caldwell-Pope
+380,4,4:49.0,84,89,SAC,DET,8,home,lost ball,steal,,turnover,,D. Cousins,K. Caldwell-Pope
 381,4,4:43.0,84,89,SAC,DET,6,away,JS,,21,miss2,0,K. Caldwell-Pope,
 382,4,4:43.0,84,89,SAC,DET,0,home,DefReb,,,DefReb,,Team,
 383,4,4:43.0,84,89,SAC,DET,0,home,Sub,,,,,G. Temple,O. Casspi
@@ -421,7 +421,7 @@
 419,4,0:25.0,98,94,SAC,DET,19,home,JS,,26,miss3,0,T. Lawson,
 420,4,0:25.0,98,94,SAC,DET,0,away,DefReb,,,DefReb,,K. Caldwell-Pope,
 421,4,0:22.0,98,94,SAC,DET,3,away,Timeout,,,,,,
-422,4,0:06.0,98,94,SAC,DET,16,away,LostBall,steal,,turnover,,T. Harris,R. Gay
+422,4,0:06.0,98,94,SAC,DET,16,away,lost ball,steal,,turnover,,T. Harris,R. Gay
 423,4,0:06.0,98,94,SAC,DET,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,A. Tolliver
 424,4,0:06.0,99,94,SAC,DET,0,home,FreeThrow,,,make1,1,A. Tolliver,
 425,4,0:06.0,100,94,SAC,DET,0,home,FreeThrow,,,make1,1,A. Tolliver,

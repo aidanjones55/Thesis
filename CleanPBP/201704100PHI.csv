@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:46.0,0,0,PHI,IND,14,away,BadPass,steal,,turnover,,J. Teague,T. McConnell
+0,1,11:46.0,0,0,PHI,IND,14,away,bad pass,steal,,turnover,,J. Teague,T. McConnell
 1,1,11:37.0,0,0,PHI,IND,9,home,JS,,25,miss3,0,J. Anderson,
 2,1,11:36.0,0,0,PHI,IND,1,away,DefReb,,,DefReb,,M. Ellis,
 3,1,11:27.0,0,0,PHI,IND,9,away,JS,block,6,miss2,0,M. Turner,D. Šarić
@@ -9,7 +9,7 @@
 7,1,11:07.0,0,2,PHI,IND,5,away,Traveling,,,turnover,,M. Turner,
 8,1,10:48.0,2,2,PHI,IND,19,home,LU,assist,1,make2,2,T. Luwawu-Cabarrot,D. Šarić
 9,1,10:32.0,2,4,PHI,IND,16,away,JS,assist,18,make2,2,M. Ellis,P. George
-10,1,10:16.0,2,4,PHI,IND,16,home,BadPass,steal,,turnover,,J. Anderson,J. Teague
+10,1,10:16.0,2,4,PHI,IND,16,home,bad pass,steal,,turnover,,J. Anderson,J. Teague
 11,1,10:10.0,2,6,PHI,IND,6,away,DK,assist,0,make2,2,T. Young,M. Ellis
 12,1,9:51.0,2,6,PHI,IND,19,home,JS,,24,miss3,0,T. McConnell,
 13,1,9:50.0,2,6,PHI,IND,1,away,DefReb,,,DefReb,,M. Turner,
@@ -26,7 +26,7 @@
 24,1,8:30.0,4,13,PHI,IND,8,away,JS,assist,16,make2,2,P. George,M. Turner
 25,1,8:19.0,4,13,PHI,IND,11,home,JS,,18,miss2,0,R. Holmes,
 26,1,8:18.0,4,13,PHI,IND,1,away,DefReb,,,DefReb,,M. Turner,
-27,1,8:16.0,4,13,PHI,IND,2,away,BadPass,steal,,turnover,,M. Turner,D. Šarić
+27,1,8:16.0,4,13,PHI,IND,2,away,bad pass,steal,,turnover,,M. Turner,D. Šarić
 28,1,7:52.0,4,13,PHI,IND,24,home,JS,block,25,miss3,0,J. Anderson,P. George
 29,1,7:51.0,4,13,PHI,IND,1,away,DefReb,,,DefReb,,T. Young,
 30,1,7:44.0,4,16,PHI,IND,7,away,JS,assist,27,make3,3,P. George,T. Young
@@ -45,7 +45,7 @@
 43,1,6:52.0,6,20,PHI,IND,0,away,FreeThrow,,,make1,1,P. George,
 44,1,6:30.0,6,20,PHI,IND,22,home,JS,,17,miss2,0,G. Henderson,
 45,1,6:30.0,6,20,PHI,IND,0,home,OffReb,,,OffReb,,Team,
-46,1,6:28.0,6,20,PHI,IND,2,home,BadPass,steal,,turnover,,T. McConnell,P. George
+46,1,6:28.0,6,20,PHI,IND,2,home,bad pass,steal,,turnover,,T. McConnell,P. George
 47,1,6:23.0,6,22,PHI,IND,5,away,DK,assist,0,make2,2,T. Young,P. George
 48,1,6:03.0,6,22,PHI,IND,20,home,LU,block,3,miss2,0,T. Splitter,M. Turner
 49,1,6:00.0,6,22,PHI,IND,3,home,OffReb,,,OffReb,,G. Henderson,
@@ -76,7 +76,7 @@
 74,1,3:16.0,12,28,PHI,IND,0,away,Sub,,,,,C. Miles,M. Turner
 75,1,3:04.0,12,28,PHI,IND,12,away,JS,,25,miss3,0,P. George,
 76,1,3:03.0,12,28,PHI,IND,1,home,DefReb,,,DefReb,,S. Long,
-77,1,2:46.0,12,28,PHI,IND,17,home,BadPass,steal,,turnover,,T. Luwawu-Cabarrot,M. Ellis
+77,1,2:46.0,12,28,PHI,IND,17,home,bad pass,steal,,turnover,,T. Luwawu-Cabarrot,M. Ellis
 78,1,2:41.0,12,31,PHI,IND,5,away,JS,assist,26,make3,3,P. George,M. Ellis
 79,1,2:25.0,12,31,PHI,IND,16,home,JS,,26,miss3,0,S. Long,
 80,1,2:24.0,12,31,PHI,IND,1,away,DefReb,,,DefReb,,J. Teague,
@@ -133,7 +133,7 @@
 131,2,8:17.0,25,44,PHI,IND,15,away,JS,,24,miss3,0,C. Miles,
 132,2,8:15.0,25,44,PHI,IND,2,home,DefReb,,,DefReb,,T. Luwawu-Cabarrot,
 133,2,8:07.0,27,44,PHI,IND,8,home,LU,,3,make2,2,T. McConnell,
-134,2,7:50.0,27,44,PHI,IND,17,away,BadPass,steal,,turnover,,C. Miles,T. McConnell
+134,2,7:50.0,27,44,PHI,IND,17,away,bad pass,steal,,turnover,,C. Miles,T. McConnell
 135,2,7:46.0,29,44,PHI,IND,4,home,LU,assist,1,make2,2,T. Luwawu-Cabarrot,T. McConnell
 136,2,7:33.0,29,44,PHI,IND,13,away,Timeout,,,,,,
 137,2,7:33.0,29,44,PHI,IND,0,home,Sub,,,,,G. Henderson,J. Anderson
@@ -146,7 +146,7 @@
 144,2,6:57.0,29,44,PHI,IND,17,home,JS,,15,miss2,0,D. Šarić,
 145,2,6:55.0,29,44,PHI,IND,2,away,DefReb,,,DefReb,,M. Turner,
 146,2,6:49.0,29,46,PHI,IND,6,away,LU,,2,make2,2,J. Teague,
-147,2,6:33.0,29,46,PHI,IND,16,home,BadPass,steal,,turnover,,T. Luwawu-Cabarrot,J. Teague
+147,2,6:33.0,29,46,PHI,IND,16,home,bad pass,steal,,turnover,,T. Luwawu-Cabarrot,J. Teague
 148,2,6:27.0,29,48,PHI,IND,6,away,JS,,13,make2,2,J. Teague,
 149,2,6:17.0,29,48,PHI,IND,10,home,LU,block,3,miss2,0,R. Holmes,M. Turner
 150,2,6:14.0,29,48,PHI,IND,3,home,OffReb,,,OffReb,,D. Šarić,
@@ -165,12 +165,12 @@
 163,2,4:53.0,36,52,PHI,IND,1,home,LU,,1,make2,2,R. Holmes,
 164,2,4:53.0,36,52,PHI,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,R. Holmes
 165,2,4:53.0,37,52,PHI,IND,0,home,FreeThrow,,,make1,1,R. Holmes,
-166,2,4:47.0,37,52,PHI,IND,6,away,LostBall,steal,,turnover,,P. George,T. Luwawu-Cabarrot
+166,2,4:47.0,37,52,PHI,IND,6,away,lost ball,steal,,turnover,,P. George,T. Luwawu-Cabarrot
 167,2,4:44.0,39,52,PHI,IND,3,home,DK,assist,0,make2,2,R. Holmes,T. Luwawu-Cabarrot
 168,2,4:44.0,39,52,PHI,IND,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,R. Holmes
 169,2,4:44.0,39,52,PHI,IND,0,away,Sub,,,,,K. Séraphin,M. Turner
 170,2,4:44.0,40,52,PHI,IND,0,home,FreeThrow,,,make1,1,R. Holmes,
-171,2,4:29.0,40,52,PHI,IND,15,away,BadPass,steal,,turnover,,T. Young,G. Henderson
+171,2,4:29.0,40,52,PHI,IND,15,away,bad pass,steal,,turnover,,T. Young,G. Henderson
 172,2,4:23.0,42,52,PHI,IND,6,home,DK,assist,0,make2,2,R. Holmes,T. McConnell
 173,2,4:08.0,42,52,PHI,IND,15,away,JS,,16,miss2,0,J. Teague,
 174,2,4:06.0,42,52,PHI,IND,2,home,DefReb,,,DefReb,,D. Šarić,
@@ -204,7 +204,7 @@
 202,2,0:41.0,52,64,PHI,IND,15,home,LU,,1,miss2,0,R. Holmes,
 203,2,0:41.0,52,64,PHI,IND,0,home,OffReb,,,OffReb,,R. Holmes,
 204,2,0:41.0,54,64,PHI,IND,0,home,LU,,1,make2,2,R. Holmes,
-205,2,0:25.0,54,64,PHI,IND,16,away,LostBall,steal,,turnover,,J. Teague,A. Poythress
+205,2,0:25.0,54,64,PHI,IND,16,away,lost ball,steal,,turnover,,J. Teague,A. Poythress
 206,2,0:19.0,54,64,PHI,IND,6,home,Timeout,,,,,,
 207,2,0:19.0,54,64,PHI,IND,0,away,Sub,,,,,A. Brooks,J. Teague
 208,2,0:19.0,54,64,PHI,IND,0,away,Sub,,,,,L. Allen,K. Séraphin
@@ -212,20 +212,20 @@
 210,2,0:02.0,54,64,PHI,IND,2,away,DefReb,,,DefReb,,T. Young,
 211,3,11:37.0,57,64,PHI,IND,23,home,JS,assist,25,make3,3,D. Šarić,T. McConnell
 212,3,11:21.0,57,64,PHI,IND,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Šarić,T. Young
-213,3,11:20.0,57,64,PHI,IND,1,away,BadPass,steal,,turnover,,J. Teague,T. McConnell
+213,3,11:20.0,57,64,PHI,IND,1,away,bad pass,steal,,turnover,,J. Teague,T. McConnell
 214,3,11:17.0,57,64,PHI,IND,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Teague,T. Luwawu-Cabarrot
 215,3,11:17.0,58,64,PHI,IND,0,home,FreeThrow,,,make1,1,T. Luwawu-Cabarrot,
 216,3,11:17.0,59,64,PHI,IND,0,home,FreeThrow,,,make1,1,T. Luwawu-Cabarrot,
 217,3,11:00.0,59,64,PHI,IND,17,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Luwawu-Cabarrot,T. Young
 218,3,10:55.0,59,64,PHI,IND,5,home,ChargeFoul,DrawnBy,,ChargeFoul,,M. Ellis,R. Holmes
 219,3,10:55.0,59,64,PHI,IND,0,away,OffensiveFoul,,,turnover,,M. Ellis,
-220,3,10:46.0,59,64,PHI,IND,9,home,BadPass,steal,,turnover,,T. McConnell,M. Turner
+220,3,10:46.0,59,64,PHI,IND,9,home,bad pass,steal,,turnover,,T. McConnell,M. Turner
 221,3,10:41.0,59,64,PHI,IND,5,away,LU,,2,miss2,0,M. Ellis,
 222,3,10:38.0,59,64,PHI,IND,3,away,OffReb,,,OffReb,,P. George,
 223,3,10:32.0,59,66,PHI,IND,6,away,LU,assist,1,make2,2,M. Turner,M. Ellis
 224,3,10:22.0,59,66,PHI,IND,10,home,LU,block,3,miss2,0,T. Luwawu-Cabarrot,M. Turner
 225,3,10:20.0,59,66,PHI,IND,2,away,DefReb,,,DefReb,,M. Ellis,
-226,3,10:15.0,59,66,PHI,IND,5,away,BadPass,steal,,turnover,,M. Ellis,D. Šarić
+226,3,10:15.0,59,66,PHI,IND,5,away,bad pass,steal,,turnover,,M. Ellis,D. Šarić
 227,3,9:52.0,61,66,PHI,IND,23,home,JS,assist,17,make2,2,T. Luwawu-Cabarrot,N. Stauskas
 228,3,9:36.0,61,66,PHI,IND,16,away,JS,,24,miss3,0,P. George,
 229,3,9:34.0,61,66,PHI,IND,2,home,DefReb,,,DefReb,,T. McConnell,
@@ -248,7 +248,7 @@
 246,3,7:19.0,65,72,PHI,IND,0,away,FreeThrow,,,make1,1,M. Turner,
 247,3,6:59.0,65,72,PHI,IND,20,home,LU,block,2,miss2,0,D. Šarić,M. Turner
 248,3,6:58.0,65,72,PHI,IND,1,home,OffReb,,,OffReb,,D. Šarić,
-249,3,6:57.0,65,72,PHI,IND,1,home,BadPass,steal,,turnover,,D. Šarić,P. George
+249,3,6:57.0,65,72,PHI,IND,1,home,bad pass,steal,,turnover,,D. Šarić,P. George
 250,3,6:56.0,65,72,PHI,IND,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Luwawu-Cabarrot,P. George
 251,3,6:39.0,65,74,PHI,IND,17,away,JS,,16,make2,2,P. George,
 252,3,6:17.0,67,74,PHI,IND,22,home,LU,,3,make2,2,T. McConnell,
@@ -294,13 +294,13 @@
 292,3,2:33.0,75,83,PHI,IND,8,away,Timeout,,,,,,
 293,3,2:33.0,75,83,PHI,IND,0,away,Sub,,,,,A. Brooks,J. Teague
 294,3,2:33.0,75,83,PHI,IND,0,away,Sub,,,,,L. Stephenson,M. Ellis
-295,3,2:18.0,75,83,PHI,IND,15,away,BadPass,steal,,turnover,,C. Miles,J. Anderson
+295,3,2:18.0,75,83,PHI,IND,15,away,bad pass,steal,,turnover,,C. Miles,J. Anderson
 296,3,2:10.0,77,83,PHI,IND,8,home,JS,,22,make2,2,N. Stauskas,
 297,3,1:56.0,77,85,PHI,IND,14,away,JS,assist,4,make2,2,K. Séraphin,A. Brooks
 298,3,1:41.0,77,85,PHI,IND,15,home,JS,,25,miss3,0,N. Stauskas,
 299,3,1:39.0,77,85,PHI,IND,2,away,DefReb,,,DefReb,,K. Séraphin,
 300,3,1:29.0,77,87,PHI,IND,10,away,LU,assist,2,make2,2,K. Séraphin,L. Stephenson
-301,3,1:08.0,77,87,PHI,IND,21,home,LostBall,steal,,turnover,,T. Splitter,K. Séraphin
+301,3,1:08.0,77,87,PHI,IND,21,home,lost ball,steal,,turnover,,T. Splitter,K. Séraphin
 302,3,1:00.0,77,90,PHI,IND,8,away,JS,assist,26,make3,3,C. Miles,L. Stephenson
 303,3,0:49.0,77,90,PHI,IND,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Stephenson,N. Stauskas
 304,3,0:49.0,78,90,PHI,IND,0,home,FreeThrow,,,make1,1,N. Stauskas,
@@ -372,7 +372,7 @@
 370,4,6:00.0,98,107,PHI,IND,0,away,FreeThrow,,,make1,1,J. Teague,
 371,4,6:00.0,98,107,PHI,IND,0,away,FreeThrow,,,make1,0,J. Teague,
 372,4,5:59.0,98,107,PHI,IND,1,home,DefReb,,,DefReb,,R. Holmes,
-373,4,5:44.0,98,107,PHI,IND,15,home,BadPass,steal,,turnover,,T. McConnell,M. Turner
+373,4,5:44.0,98,107,PHI,IND,15,home,bad pass,steal,,turnover,,T. McConnell,M. Turner
 374,4,5:28.0,98,107,PHI,IND,16,away,JS,,11,miss2,0,P. George,
 375,4,5:26.0,98,107,PHI,IND,2,away,OffReb,,,OffReb,,T. Young,
 376,4,5:26.0,98,109,PHI,IND,0,away,DK,,0,make2,2,T. Young,
@@ -385,7 +385,7 @@
 383,4,5:08.0,98,109,PHI,IND,0,home,Sub,,,,,N. Stauskas,T. McConnell
 384,4,4:55.0,98,109,PHI,IND,13,away,JS,,25,miss3,0,P. George,
 385,4,4:54.0,98,109,PHI,IND,1,home,DefReb,,,DefReb,,R. Holmes,
-386,4,4:34.0,98,109,PHI,IND,20,home,BadPass,steal,,turnover,,N. Stauskas,T. Young
+386,4,4:34.0,98,109,PHI,IND,20,home,bad pass,steal,,turnover,,N. Stauskas,T. Young
 387,4,4:27.0,98,109,PHI,IND,7,away,LU,,2,miss2,0,L. Stephenson,
 388,4,4:22.0,98,109,PHI,IND,5,away,OffReb,,,OffReb,,T. Young,
 389,4,4:22.0,98,111,PHI,IND,0,away,LU,,1,make2,2,T. Young,
@@ -429,7 +429,7 @@
 427,4,0:58.0,108,118,PHI,IND,24,away,JS,,26,miss3,0,J. Teague,
 428,4,0:57.0,108,118,PHI,IND,1,home,DefReb,,,DefReb,,T. McConnell,
 429,4,0:51.0,111,118,PHI,IND,6,home,JS,assist,29,make3,3,N. Stauskas,T. McConnell
-430,4,0:37.0,111,118,PHI,IND,14,away,BadPass,steal,,turnover,,M. Turner,R. Holmes
+430,4,0:37.0,111,118,PHI,IND,14,away,bad pass,steal,,turnover,,M. Turner,R. Holmes
 431,4,0:32.0,111,118,PHI,IND,5,home,JS,,27,miss3,0,A. Poythress,
 432,4,0:29.0,111,118,PHI,IND,3,home,OffReb,,,OffReb,,R. Holmes,
 433,4,0:29.0,111,118,PHI,IND,0,home,LU,,0,miss2,0,R. Holmes,

@@ -11,7 +11,7 @@
 9,1,10:26.0,3,4,LAL,BRK,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Kilpatrick,D. Russell
 10,1,10:13.0,5,4,LAL,BRK,13,home,DK,assist,0,make2,2,T. Mozgov,D. Russell
 11,1,9:57.0,5,6,LAL,BRK,16,away,LU,assist,1,make2,2,T. Booker,B. Lopez
-12,1,9:46.0,5,6,LAL,BRK,11,home,BadPass,steal,,turnover,,D. Russell,T. Booker
+12,1,9:46.0,5,6,LAL,BRK,11,home,bad pass,steal,,turnover,,D. Russell,T. Booker
 13,1,9:40.0,5,8,LAL,BRK,6,away,LU,assist,3,make2,2,R. Hollis-Jefferson,T. Booker
 14,1,9:21.0,5,8,LAL,BRK,19,home,JS,,13,miss2,0,J. Randle,
 15,1,9:20.0,5,8,LAL,BRK,1,away,DefReb,,,DefReb,,R. Hollis-Jefferson,
@@ -55,11 +55,11 @@
 53,1,4:31.0,23,19,LAL,BRK,0,home,Sub,,,,,J. Clarkson,L. Deng
 54,1,4:31.0,23,19,LAL,BRK,0,home,Sub,,,,,B. Ingram,T. Mozgov
 55,1,4:31.0,23,19,LAL,BRK,0,home,Sub,,,,,L. Nance,N. Young
-56,1,4:14.0,23,19,LAL,BRK,17,home,BadPass,steal,,turnover,,J. Randle,R. Hollis-Jefferson
+56,1,4:14.0,23,19,LAL,BRK,17,home,bad pass,steal,,turnover,,J. Randle,R. Hollis-Jefferson
 57,1,4:08.0,23,19,LAL,BRK,6,away,JS,,25,miss3,0,J. Harris,
 58,1,4:04.0,23,19,LAL,BRK,4,home,DefReb,,,DefReb,,J. Randle,
 59,1,3:59.0,25,19,LAL,BRK,5,home,LU,assist,3,make2,2,L. Nance,J. Randle
-60,1,3:51.0,25,19,LAL,BRK,8,away,LostBall,steal,,turnover,,R. Hollis-Jefferson,L. Nance
+60,1,3:51.0,25,19,LAL,BRK,8,away,lost ball,steal,,turnover,,R. Hollis-Jefferson,L. Nance
 61,1,3:47.0,27,19,LAL,BRK,4,home,DK,assist,0,make2,2,D. Russell,J. Clarkson
 62,1,3:28.0,27,19,LAL,BRK,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,B. Lopez
 63,1,3:28.0,27,20,LAL,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
@@ -103,10 +103,10 @@
 101,1,0:02.0,27,29,LAL,BRK,2,away,OffReb,,,OffReb,,T. Booker,
 102,1,0:01.0,27,29,LAL,BRK,1,away,JS,,16,miss2,0,T. Booker,
 103,1,0:00.0,27,29,LAL,BRK,1,away,OffReb,,,OffReb,,Team,
-104,2,11:44.0,27,29,LAL,BRK,16,home,BadPass,steal,,turnover,,B. Ingram,L. Scola
+104,2,11:44.0,27,29,LAL,BRK,16,home,bad pass,steal,,turnover,,B. Ingram,L. Scola
 105,2,11:39.0,27,31,LAL,BRK,5,away,LU,assist,1,make2,2,L. Scola,R. Foye
-106,2,11:26.0,27,31,LAL,BRK,13,home,BadPass,steal,,turnover,,J. Clarkson,J. Hamilton
-107,2,11:22.0,27,31,LAL,BRK,4,away,BadPass,steal,,turnover,,Y. Ferrell,J. Clarkson
+106,2,11:26.0,27,31,LAL,BRK,13,home,bad pass,steal,,turnover,,J. Clarkson,J. Hamilton
+107,2,11:22.0,27,31,LAL,BRK,4,away,bad pass,steal,,turnover,,Y. Ferrell,J. Clarkson
 108,2,11:16.0,29,31,LAL,BRK,6,home,LU,,1,make2,2,L. Williams,
 109,2,11:01.0,29,31,LAL,BRK,15,away,JS,,26,miss3,0,B. Bogdanović,
 110,2,10:59.0,29,31,LAL,BRK,2,home,DefReb,,,DefReb,,L. Nance,
@@ -128,7 +128,7 @@
 126,2,9:30.0,32,32,LAL,BRK,5,away,DefReb,,,DefReb,,L. Scola,
 127,2,9:27.0,32,32,LAL,BRK,3,away,JS,,26,miss3,0,R. Foye,
 128,2,9:25.0,32,32,LAL,BRK,2,away,OffReb,,,OffReb,,L. Scola,
-129,2,9:22.0,32,32,LAL,BRK,3,away,LostBall,steal,,turnover,,L. Scola,J. Clarkson
+129,2,9:22.0,32,32,LAL,BRK,3,away,lost ball,steal,,turnover,,L. Scola,J. Clarkson
 130,2,9:15.0,34,32,LAL,BRK,7,home,LU,,1,make2,2,J. Clarkson,
 131,2,8:56.0,34,32,LAL,BRK,19,away,JS,,10,miss2,0,B. Bogdanović,
 132,2,8:54.0,34,32,LAL,BRK,2,home,DefReb,,,DefReb,,J. Clarkson,
@@ -143,7 +143,7 @@
 141,2,7:25.0,38,34,LAL,BRK,12,home,JS,,10,miss2,0,L. Williams,
 142,2,7:23.0,38,34,LAL,BRK,2,away,DefReb,,,DefReb,,L. Scola,
 143,2,7:14.0,38,36,LAL,BRK,9,away,HS,,7,make2,2,R. Foye,
-144,2,7:04.0,38,36,LAL,BRK,10,home,BadPass,steal,,turnover,,L. Williams,B. Bogdanović
+144,2,7:04.0,38,36,LAL,BRK,10,home,bad pass,steal,,turnover,,L. Williams,B. Bogdanović
 145,2,7:00.0,38,38,LAL,BRK,4,away,LU,,2,make2,2,B. Bogdanović,
 146,2,7:00.0,38,38,LAL,BRK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,B. Bogdanović
 147,2,7:00.0,38,38,LAL,BRK,0,away,Sub,,,,,J. Harris,R. Foye
@@ -180,7 +180,7 @@
 178,2,4:42.0,41,45,LAL,BRK,0,home,OffReb,,,OffReb,,Team,
 179,2,4:42.0,41,45,LAL,BRK,0,home,Sub,,,,,J. Clarkson,B. Ingram
 180,2,4:42.0,42,45,LAL,BRK,0,home,FreeThrow,,,make1,1,J. Randle,
-181,2,4:31.0,42,45,LAL,BRK,11,away,BadPass,steal,,turnover,,I. Whitehead,D. Russell
+181,2,4:31.0,42,45,LAL,BRK,11,away,bad pass,steal,,turnover,,I. Whitehead,D. Russell
 182,2,4:26.0,42,45,LAL,BRK,5,home,JS,,27,miss3,0,J. Clarkson,
 183,2,4:21.0,42,45,LAL,BRK,5,away,DefReb,,,DefReb,,B. Lopez,
 184,2,4:18.0,42,47,LAL,BRK,3,away,LU,assist,2,make2,2,B. Bogdanović,T. Booker
@@ -188,7 +188,7 @@
 186,2,4:18.0,42,47,LAL,BRK,0,away,Sub,,,,,S. Kilpatrick,B. Bogdanović
 187,2,4:18.0,42,47,LAL,BRK,0,away,Sub,,,,,R. Hollis-Jefferson,I. Whitehead
 188,2,3:55.0,44,47,LAL,BRK,23,home,HS,,6,make2,2,J. Randle,
-189,2,3:41.0,44,47,LAL,BRK,14,away,BadPass,steal,,turnover,,J. Harris,D. Russell
+189,2,3:41.0,44,47,LAL,BRK,14,away,bad pass,steal,,turnover,,J. Harris,D. Russell
 190,2,3:36.0,46,47,LAL,BRK,5,home,LU,assist,2,make2,2,J. Randle,J. Clarkson
 191,2,3:16.0,46,47,LAL,BRK,20,away,JS,,25,miss3,0,S. Kilpatrick,
 192,2,3:15.0,46,47,LAL,BRK,1,home,DefReb,,,DefReb,,D. Russell,
@@ -222,7 +222,7 @@
 220,2,0:47.0,53,51,LAL,BRK,0,home,FreeThrow,,,make1,0,J. Randle,
 221,2,0:47.0,53,51,LAL,BRK,0,away,Sub,,,,,I. Whitehead,S. Kilpatrick
 222,2,0:44.0,53,51,LAL,BRK,3,away,DefReb,,,DefReb,,B. Lopez,
-223,2,0:31.0,53,51,LAL,BRK,13,away,LostBall,steal,,turnover,,T. Booker,J. Clarkson
+223,2,0:31.0,53,51,LAL,BRK,13,away,lost ball,steal,,turnover,,T. Booker,J. Clarkson
 224,2,0:26.0,56,51,LAL,BRK,5,home,JS,assist,26,make3,3,N. Young,D. Russell
 225,2,0:04.0,56,51,LAL,BRK,22,away,Traveling,,,turnover,,I. Whitehead,
 226,2,0:04.0,56,51,LAL,BRK,0,home,Sub,,,,,L. Williams,T. Mozgov
@@ -281,9 +281,9 @@
 279,3,7:49.0,66,57,LAL,BRK,7,home,OffReb,,,OffReb,,T. Mozgov,
 280,3,7:49.0,68,57,LAL,BRK,0,home,DK,,0,make2,2,T. Mozgov,
 281,3,7:41.0,68,59,LAL,BRK,8,away,HS,assist,5,make2,2,J. Hamilton,R. Foye
-282,3,7:30.0,68,59,LAL,BRK,11,home,BadPass,steal,,turnover,,J. Randle,B. Bogdanović
-283,3,7:21.0,68,59,LAL,BRK,9,away,BadPass,steal,,turnover,,B. Lopez,D. Russell
-284,3,7:17.0,68,59,LAL,BRK,4,home,BadPass,steal,,turnover,,D. Russell,R. Hollis-Jefferson
+282,3,7:30.0,68,59,LAL,BRK,11,home,bad pass,steal,,turnover,,J. Randle,B. Bogdanović
+283,3,7:21.0,68,59,LAL,BRK,9,away,bad pass,steal,,turnover,,B. Lopez,D. Russell
+284,3,7:17.0,68,59,LAL,BRK,4,home,bad pass,steal,,turnover,,D. Russell,R. Hollis-Jefferson
 285,3,7:11.0,68,61,LAL,BRK,6,away,LU,assist,1,make2,2,B. Bogdanović,R. Hollis-Jefferson
 286,3,7:10.0,68,61,LAL,BRK,1,home,Timeout,,,,,,
 287,3,7:10.0,68,61,LAL,BRK,0,away,Sub,,,,,J. Harris,R. Hollis-Jefferson
@@ -338,7 +338,7 @@
 336,3,2:36.0,85,76,LAL,BRK,0,home,FreeThrow,,,make1,1,T. Black,
 337,3,2:26.0,85,79,LAL,BRK,10,away,JS,,25,make3,3,Y. Ferrell,
 338,3,1:58.0,87,79,LAL,BRK,28,home,HS,assist,4,make2,2,T. Black,L. Williams
-339,3,1:45.0,87,79,LAL,BRK,13,away,BadPass,steal,,turnover,,S. Kilpatrick,J. Clarkson
+339,3,1:45.0,87,79,LAL,BRK,13,away,bad pass,steal,,turnover,,S. Kilpatrick,J. Clarkson
 340,3,1:40.0,89,79,LAL,BRK,5,home,JS,,4,make2,2,J. Clarkson,
 341,3,1:40.0,89,79,LAL,BRK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,Y. Ferrell,J. Clarkson
 342,3,1:40.0,90,79,LAL,BRK,0,home,FreeThrow,,,make1,1,J. Clarkson,
@@ -351,7 +351,7 @@
 349,3,1:09.0,90,83,LAL,BRK,10,away,LU,,2,make2,2,Y. Ferrell,
 350,3,0:57.0,90,83,LAL,BRK,12,home,LU,,2,miss2,0,T. Black,
 351,3,0:55.0,90,83,LAL,BRK,2,away,DefReb,,,DefReb,,J. Hamilton,
-352,3,0:53.0,90,83,LAL,BRK,2,away,BadPass,steal,,turnover,,J. Hamilton,J. Clarkson
+352,3,0:53.0,90,83,LAL,BRK,2,away,bad pass,steal,,turnover,,J. Hamilton,J. Clarkson
 353,3,0:39.0,90,83,LAL,BRK,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,Y. Ferrell,T. Black
 354,3,0:39.0,91,83,LAL,BRK,0,home,FreeThrow,,,make1,1,T. Black,
 355,3,0:39.0,91,83,LAL,BRK,0,home,FreeThrow,,,make1,0,T. Black,
@@ -491,7 +491,7 @@
 489,4,0:45.0,121,112,LAL,BRK,0,away,Timeout,,,,,,
 490,4,0:39.0,121,112,LAL,BRK,6,away,JS,,26,miss3,0,B. Lopez,
 491,4,0:38.0,121,112,LAL,BRK,1,home,DefReb,,,DefReb,,J. Randle,
-492,4,0:34.0,121,112,LAL,BRK,4,home,LostBall,steal,,turnover,,J. Randle,J. Harris
+492,4,0:34.0,121,112,LAL,BRK,4,home,lost ball,steal,,turnover,,J. Randle,J. Harris
 493,4,0:33.0,121,114,LAL,BRK,1,away,LU,assist,2,make2,2,J. Hamilton,J. Harris
 494,4,0:26.0,121,114,LAL,BRK,7,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Harris,B. Ingram
 495,4,0:26.0,122,114,LAL,BRK,0,home,FreeThrow,,,make1,1,B. Ingram,

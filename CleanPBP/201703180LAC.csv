@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:40.0,0,0,LAC,CLE,20,away,JS,,24,miss3,0,J. Smith,
 1,1,11:40.0,0,0,LAC,CLE,0,away,OffReb,,,OffReb,,T. Thompson,
-2,1,11:32.0,0,0,LAC,CLE,8,away,BadPass,steal,,turnover,,D. Williams,D. Jordan
+2,1,11:32.0,0,0,LAC,CLE,8,away,bad pass,steal,,turnover,,D. Williams,D. Jordan
 3,1,11:24.0,0,0,LAC,CLE,8,home,JS,,16,miss2,0,B. Griffin,
 4,1,11:23.0,0,0,LAC,CLE,1,away,DefReb,,,DefReb,,I. Shumpert,
 5,1,11:12.0,0,2,LAC,CLE,11,away,JS,,19,make2,2,I. Shumpert,
@@ -13,7 +13,7 @@
 11,1,10:00.0,2,4,LAC,CLE,11,away,JS,,10,miss2,0,I. Shumpert,
 12,1,9:58.0,2,4,LAC,CLE,2,home,DefReb,,,DefReb,,D. Jordan,
 13,1,9:47.0,4,4,LAC,CLE,11,home,LU,assist,2,make2,2,D. Jordan,C. Paul
-14,1,9:38.0,4,4,LAC,CLE,9,away,LostBall,steal,,turnover,,D. Williams,L. Mbah a Moute
+14,1,9:38.0,4,4,LAC,CLE,9,away,lost ball,steal,,turnover,,D. Williams,L. Mbah a Moute
 15,1,9:32.0,6,4,LAC,CLE,6,home,DK,assist,1,make2,2,D. Jordan,J. Redick
 16,1,9:07.0,6,4,LAC,CLE,25,away,JS,,24,miss3,0,I. Shumpert,
 17,1,9:06.0,6,4,LAC,CLE,1,home,DefReb,,,DefReb,,J. Redick,
@@ -186,7 +186,7 @@
 184,2,3:37.0,31,24,LAC,CLE,2,home,OffReb,,,OffReb,,D. Jordan,
 185,2,3:32.0,31,24,LAC,CLE,5,home,JS,,24,miss3,0,J. Redick,
 186,2,3:30.0,31,24,LAC,CLE,2,away,DefReb,,,DefReb,,R. Jefferson,
-187,2,3:24.0,31,24,LAC,CLE,6,away,LostBall,steal,,turnover,,D. Williams,J. Redick
+187,2,3:24.0,31,24,LAC,CLE,6,away,lost ball,steal,,turnover,,D. Williams,J. Redick
 188,2,3:18.0,34,24,LAC,CLE,6,home,JS,assist,26,make3,3,J. Redick,C. Paul
 189,2,3:18.0,34,24,LAC,CLE,0,away,Timeout,,,,,,
 190,2,3:05.0,34,24,LAC,CLE,13,away,JS,,25,miss3,0,J. Smith,
@@ -211,7 +211,7 @@
 209,2,2:14.0,38,26,LAC,CLE,15,away,Traveling,,,turnover,,D. Williams,
 210,2,1:53.0,38,26,LAC,CLE,21,home,JS,,18,miss2,0,B. Griffin,
 211,2,1:52.0,38,26,LAC,CLE,1,away,DefReb,,,DefReb,,R. Jefferson,
-212,2,1:42.0,38,26,LAC,CLE,10,away,BadPass,steal,,turnover,,D. Williams,R. Felton
+212,2,1:42.0,38,26,LAC,CLE,10,away,bad pass,steal,,turnover,,D. Williams,R. Felton
 213,2,1:37.0,40,26,LAC,CLE,5,home,LU,assist,1,make2,2,J. Redick,R. Felton
 214,2,1:24.0,40,26,LAC,CLE,13,away,JS,,9,miss2,0,D. Williams,
 215,2,1:23.0,40,26,LAC,CLE,1,away,OffReb,,,OffReb,,T. Thompson,
@@ -308,7 +308,7 @@
 306,3,2:34.0,66,51,LAC,CLE,0,away,DefReb,,,DefReb,,J. Smith,
 307,3,2:25.0,66,51,LAC,CLE,9,away,JS,,8,miss2,0,J. Smith,
 308,3,2:24.0,66,51,LAC,CLE,1,home,DefReb,,,DefReb,,D. Jordan,
-309,3,2:04.0,66,51,LAC,CLE,20,home,LostBall,steal,,turnover,,C. Paul,T. Thompson
+309,3,2:04.0,66,51,LAC,CLE,20,home,lost ball,steal,,turnover,,C. Paul,T. Thompson
 310,3,2:04.0,66,51,LAC,CLE,0,home,Sub,,,,,M. Speights,D. Jordan
 311,3,1:55.0,66,54,LAC,CLE,9,away,JS,assist,25,make3,3,D. Williams,I. Shumpert
 312,3,1:40.0,69,54,LAC,CLE,15,home,JS,assist,25,make3,3,J. Crawford,B. Griffin
@@ -369,7 +369,7 @@
 367,4,7:05.0,93,65,LAC,CLE,11,home,JS,assist,25,make3,3,M. Speights,P. Pierce
 368,4,6:52.0,93,65,LAC,CLE,13,away,JS,,21,miss2,0,K. Felder,
 369,4,6:52.0,93,65,LAC,CLE,0,home,DefReb,,,DefReb,,M. Speights,
-370,4,6:47.0,93,65,LAC,CLE,5,home,BadPass,steal,,turnover,,P. Pierce,D. Liggins
+370,4,6:47.0,93,65,LAC,CLE,5,home,bad pass,steal,,turnover,,P. Pierce,D. Liggins
 371,4,6:44.0,93,65,LAC,CLE,3,home,ChargeFoul,DrawnBy,,ChargeFoul,,D. Liggins,R. Felton
 372,4,6:44.0,93,65,LAC,CLE,0,away,OffensiveFoul,,,turnover,,D. Liggins,
 373,4,6:44.0,93,65,LAC,CLE,0,home,Sub,,,,,B. Bass,P. Pierce
@@ -378,7 +378,7 @@
 376,4,6:14.0,95,65,LAC,CLE,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Johnson,R. Jefferson
 377,4,6:03.0,95,65,LAC,CLE,11,away,JS,block,11,miss2,0,J. Jones,W. Johnson
 378,4,6:02.0,95,65,LAC,CLE,1,home,DefReb,,,DefReb,,A. Rivers,
-379,4,5:44.0,95,65,LAC,CLE,18,home,LostBall,steal,,turnover,,B. Bass,D. Liggins
+379,4,5:44.0,95,65,LAC,CLE,18,home,lost ball,steal,,turnover,,B. Bass,D. Liggins
 380,4,5:42.0,95,65,LAC,CLE,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Rivers,K. Felder
 381,4,5:42.0,95,65,LAC,CLE,0,away,Timeout,,,,,,
 382,4,5:32.0,95,65,LAC,CLE,10,away,JS,,7,miss2,0,D. Williams,
@@ -391,7 +391,7 @@
 389,4,4:07.0,97,69,LAC,CLE,19,home,BadPass,,,turnover,,R. Felton,
 390,4,4:07.0,97,69,LAC,CLE,0,home,Sub,,,,,P. Pierce,R. Felton
 391,4,3:54.0,97,72,LAC,CLE,13,away,JS,assist,24,make3,3,R. Jefferson,K. Felder
-392,4,3:36.0,97,72,LAC,CLE,18,home,LostBall,steal,,turnover,,J. Crawford,D. Liggins
+392,4,3:36.0,97,72,LAC,CLE,18,home,lost ball,steal,,turnover,,J. Crawford,D. Liggins
 393,4,3:35.0,97,72,LAC,CLE,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,P. Pierce,D. Liggins
 394,4,3:35.0,97,72,LAC,CLE,0,home,Sub,,,,,R. Felton,A. Rivers
 395,4,3:25.0,97,72,LAC,CLE,10,away,JS,,17,miss2,0,K. Felder,
@@ -404,7 +404,7 @@
 402,4,2:50.0,100,74,LAC,CLE,12,away,JS,,15,make2,2,K. Felder,
 403,4,2:31.0,100,74,LAC,CLE,19,home,Timeout,,,,,,
 404,4,2:31.0,100,74,LAC,CLE,0,home,Sub,,,,,A. Rivers,J. Crawford
-405,4,2:31.0,100,74,LAC,CLE,0,home,LostBall,steal,,turnover,,P. Pierce,D. Liggins
+405,4,2:31.0,100,74,LAC,CLE,0,home,lost ball,steal,,turnover,,P. Pierce,D. Liggins
 406,4,2:23.0,100,76,LAC,CLE,8,away,LU,,1,make2,2,R. Jefferson,
 407,4,2:00.0,102,76,LAC,CLE,23,home,LU,,2,make2,2,B. Bass,
 408,4,1:49.0,102,76,LAC,CLE,11,home,ChargeFoul,DrawnBy,,ChargeFoul,,K. Felder,P. Pierce

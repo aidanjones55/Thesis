@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:48.0,0,0,UTA,POR,12,home,BadPass,steal,,turnover,,D. Exum,A. Aminu
+0,1,11:48.0,0,0,UTA,POR,12,home,bad pass,steal,,turnover,,D. Exum,A. Aminu
 1,1,11:33.0,0,0,UTA,POR,15,away,JS,,19,miss2,0,D. Lillard,
 2,1,11:33.0,0,0,UTA,POR,0,home,DefReb,,,DefReb,,B. Diaw,
 3,1,11:09.0,0,0,UTA,POR,24,home,JS,,6,miss2,0,B. Diaw,
@@ -59,7 +59,7 @@
 57,1,4:05.0,15,6,UTA,POR,16,home,JS,,21,miss2,0,G. Hayward,
 58,1,4:04.0,15,6,UTA,POR,1,away,DefReb,,,DefReb,,D. Lillard,
 59,1,3:55.0,15,8,UTA,POR,9,away,LU,,2,make2,2,D. Lillard,
-60,1,3:39.0,15,8,UTA,POR,16,home,BadPass,steal,,turnover,,J. Ingles,A. Crabbe
+60,1,3:39.0,15,8,UTA,POR,16,home,bad pass,steal,,turnover,,J. Ingles,A. Crabbe
 61,1,3:26.0,15,8,UTA,POR,13,away,LU,block,2,miss2,0,D. Lillard,R. Gobert
 62,1,3:26.0,15,8,UTA,POR,0,away,OffReb,,,OffReb,,Team,
 63,1,3:26.0,15,8,UTA,POR,0,home,Sub,,,,,A. Burks,J. Ingles
@@ -95,11 +95,11 @@
 93,2,11:50.0,24,17,UTA,POR,10,home,KickBallViolation,,,KickBallViolation,,J. Ingles,
 94,2,11:41.0,24,17,UTA,POR,9,away,JS,,23,miss3,0,E. Turner,
 95,2,11:41.0,24,17,UTA,POR,0,home,DefReb,,,DefReb,,J. Ingles,
-96,2,11:27.0,24,17,UTA,POR,14,home,LostBall,steal,,turnover,,J. Johnson,E. Turner
-97,2,11:21.0,24,17,UTA,POR,6,away,LostBall,steal,,turnover,,S. Napier,J. Withey
+96,2,11:27.0,24,17,UTA,POR,14,home,lost ball,steal,,turnover,,J. Johnson,E. Turner
+97,2,11:21.0,24,17,UTA,POR,6,away,lost ball,steal,,turnover,,S. Napier,J. Withey
 98,2,11:13.0,24,17,UTA,POR,8,home,JS,,10,miss2,0,A. Burks,
 99,2,11:12.0,24,17,UTA,POR,1,away,DefReb,,,DefReb,,E. Turner,
-100,2,10:59.0,24,17,UTA,POR,13,away,LostBall,steal,,turnover,,E. Turner,J. Johnson
+100,2,10:59.0,24,17,UTA,POR,13,away,lost ball,steal,,turnover,,E. Turner,J. Johnson
 101,2,10:44.0,24,17,UTA,POR,15,home,JS,,10,miss2,0,J. Johnson,
 102,2,10:43.0,24,17,UTA,POR,1,away,DefReb,,,DefReb,,S. Napier,
 103,2,10:31.0,24,19,UTA,POR,12,away,JS,,19,make2,2,M. Leonard,
@@ -116,7 +116,7 @@
 114,2,8:59.0,28,23,UTA,POR,0,away,Sub,,,,,N. Vonleh,M. Leonard
 115,2,8:46.0,28,23,UTA,POR,13,away,JS,,3,miss2,0,C. McCollum,
 116,2,8:45.0,28,23,UTA,POR,1,home,DefReb,,,DefReb,,D. Exum,
-117,2,8:23.0,28,23,UTA,POR,22,home,LostBall,steal,,turnover,,B. Diaw,E. Turner
+117,2,8:23.0,28,23,UTA,POR,22,home,lost ball,steal,,turnover,,B. Diaw,E. Turner
 118,2,8:20.0,28,25,UTA,POR,3,away,LU,,2,make2,2,A. Crabbe,
 119,2,8:20.0,28,25,UTA,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ingles,A. Crabbe
 120,2,8:20.0,28,25,UTA,POR,0,away,FreeThrow,,,make1,0,A. Crabbe,
@@ -135,7 +135,7 @@
 133,2,6:58.0,30,31,UTA,POR,5,home,Timeout,,,,,,
 134,2,6:58.0,30,31,UTA,POR,0,away,Sub,,,,,D. Lillard,A. Crabbe
 135,2,6:48.0,32,31,UTA,POR,10,home,LU,,0,make2,2,S. Mack,
-136,2,6:31.0,32,31,UTA,POR,17,away,BadPass,steal,,turnover,,C. McCollum,D. Exum
+136,2,6:31.0,32,31,UTA,POR,17,away,bad pass,steal,,turnover,,C. McCollum,D. Exum
 137,2,6:15.0,32,31,UTA,POR,16,home,JS,,24,miss3,0,D. Exum,
 138,2,6:14.0,32,31,UTA,POR,1,home,OffReb,,,OffReb,,B. Diaw,
 139,2,6:05.0,32,31,UTA,POR,9,home,LU,,2,miss2,0,B. Diaw,
@@ -221,7 +221,7 @@
 219,3,9:20.0,52,46,UTA,POR,0,away,FreeThrow,,,make1,1,D. Lillard,
 220,3,9:20.0,52,46,UTA,POR,0,away,FreeThrow,,,make1,0,D. Lillard,
 221,3,9:19.0,52,46,UTA,POR,1,home,DefReb,,,DefReb,,G. Hayward,
-222,3,9:09.0,52,46,UTA,POR,10,home,BadPass,steal,,turnover,,J. Ingles,E. Turner
+222,3,9:09.0,52,46,UTA,POR,10,home,bad pass,steal,,turnover,,J. Ingles,E. Turner
 223,3,8:57.0,52,46,UTA,POR,12,away,JS,,5,miss2,0,D. Lillard,
 224,3,8:57.0,52,46,UTA,POR,0,away,OffReb,,,OffReb,,A. Aminu,
 225,3,8:48.0,52,46,UTA,POR,9,away,LU,,3,miss2,0,C. McCollum,
@@ -239,8 +239,8 @@
 237,3,7:23.0,55,49,UTA,POR,0,home,DefReb,,,DefReb,,R. Gobert,
 238,3,7:15.0,55,49,UTA,POR,8,home,Traveling,,,turnover,,J. Ingles,
 239,3,7:01.0,55,51,UTA,POR,14,away,JS,,9,make2,2,C. McCollum,
-240,3,6:39.0,55,51,UTA,POR,22,home,BadPass,steal,,turnover,,B. Diaw,M. Harkless
-241,3,6:34.0,55,51,UTA,POR,5,away,BadPass,steal,,turnover,,A. Aminu,R. Gobert
+240,3,6:39.0,55,51,UTA,POR,22,home,bad pass,steal,,turnover,,B. Diaw,M. Harkless
+241,3,6:34.0,55,51,UTA,POR,5,away,bad pass,steal,,turnover,,A. Aminu,R. Gobert
 242,3,6:23.0,57,51,UTA,POR,11,home,JS,assist,4,make2,2,G. Hayward,B. Diaw
 243,3,6:06.0,57,51,UTA,POR,17,away,JS,,22,miss2,0,D. Lillard,
 244,3,6:05.0,57,51,UTA,POR,1,home,DefReb,,,DefReb,,D. Exum,
@@ -286,7 +286,7 @@
 284,3,2:08.0,65,56,UTA,POR,22,away,HS,,7,make2,2,M. Leonard,
 285,3,2:02.0,65,56,UTA,POR,6,home,LU,block,3,miss2,0,A. Burks,A. Crabbe
 286,3,2:02.0,65,56,UTA,POR,0,home,OffReb,,,OffReb,,Team,
-287,3,1:51.0,65,56,UTA,POR,11,home,LostBall,steal,,turnover,,S. Mack,M. Leonard
+287,3,1:51.0,65,56,UTA,POR,11,home,lost ball,steal,,turnover,,S. Mack,M. Leonard
 288,3,1:41.0,65,56,UTA,POR,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Mack,S. Napier
 289,3,1:41.0,65,57,UTA,POR,0,away,FreeThrow,,,make1,1,S. Napier,
 290,3,1:41.0,65,57,UTA,POR,0,home,Sub,,,,,J. Withey,R. Gobert
@@ -305,7 +305,7 @@
 303,3,0:08.0,72,63,UTA,POR,0,away,Sub,,,,,A. Aminu,M. Leonard
 304,3,0:08.0,72,64,UTA,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
 305,3,0:01.0,75,64,UTA,POR,7,home,JS,,25,make3,3,J. Johnson,
-306,4,11:50.0,75,64,UTA,POR,10,home,BadPass,steal,,turnover,,S. Mack,A. Crabbe
+306,4,11:50.0,75,64,UTA,POR,10,home,bad pass,steal,,turnover,,S. Mack,A. Crabbe
 307,4,11:48.0,75,66,UTA,POR,2,away,LU,,2,make2,2,A. Crabbe,
 308,4,11:34.0,78,66,UTA,POR,14,home,JS,,25,make3,3,J. Johnson,
 309,4,11:15.0,78,66,UTA,POR,19,away,HS,,2,miss2,0,N. Vonleh,
@@ -367,7 +367,7 @@
 365,4,5:30.0,93,75,UTA,POR,0,away,DefReb,,,DefReb,,C. McCollum,
 366,4,5:09.0,93,75,UTA,POR,21,away,JS,,23,miss3,0,A. Aminu,
 367,4,5:09.0,93,75,UTA,POR,0,home,DefReb,,,DefReb,,A. Burks,
-368,4,5:01.0,93,75,UTA,POR,8,home,BadPass,steal,,turnover,,A. Burks,A. Aminu
+368,4,5:01.0,93,75,UTA,POR,8,home,bad pass,steal,,turnover,,A. Burks,A. Aminu
 369,4,4:52.0,93,77,UTA,POR,9,away,JS,,14,make2,2,E. Turner,
 370,4,4:33.0,93,77,UTA,POR,19,home,JS,,15,miss2,0,G. Hayward,
 371,4,4:33.0,93,77,UTA,POR,0,home,OffReb,,,OffReb,,Team,

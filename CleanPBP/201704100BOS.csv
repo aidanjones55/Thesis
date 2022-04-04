@@ -3,7 +3,7 @@
 1,1,11:41.0,0,0,BOS,BRK,1,home,DefReb,,,DefReb,,A. Horford,
 2,1,11:25.0,3,0,BOS,BRK,16,home,JS,assist,25,make3,3,J. Crowder,A. Horford
 3,1,11:07.0,3,2,BOS,BRK,18,away,JS,assist,20,make2,2,C. LeVert,B. Lopez
-4,1,10:52.0,3,2,BOS,BRK,15,home,BadPass,steal,,turnover,,I. Thomas,R. Foye
+4,1,10:52.0,3,2,BOS,BRK,15,home,bad pass,steal,,turnover,,I. Thomas,R. Foye
 5,1,10:41.0,3,2,BOS,BRK,11,away,JS,,25,miss3,0,B. Lopez,
 6,1,10:40.0,3,2,BOS,BRK,1,home,DefReb,,,DefReb,,A. Horford,
 7,1,10:26.0,3,2,BOS,BRK,14,home,JS,,15,miss2,0,A. Horford,
@@ -44,7 +44,7 @@
 42,1,5:42.0,13,9,BOS,BRK,1,home,DefReb,,,DefReb,,A. Horford,
 43,1,5:31.0,13,9,BOS,BRK,11,home,JS,,25,miss3,0,A. Horford,
 44,1,5:30.0,13,9,BOS,BRK,1,away,DefReb,,,DefReb,,C. LeVert,
-45,1,5:24.0,13,9,BOS,BRK,6,away,BadPass,steal,,turnover,,C. LeVert,A. Horford
+45,1,5:24.0,13,9,BOS,BRK,6,away,bad pass,steal,,turnover,,C. LeVert,A. Horford
 46,1,5:18.0,13,9,BOS,BRK,6,home,JS,,26,miss3,0,A. Bradley,
 47,1,5:17.0,13,9,BOS,BRK,1,home,OffReb,,,OffReb,,A. Horford,
 48,1,5:09.0,13,9,BOS,BRK,8,home,JS,,18,miss2,0,J. Crowder,
@@ -70,7 +70,7 @@
 68,1,3:45.0,18,11,BOS,BRK,1,away,DefReb,,,DefReb,,J. Hamilton,
 69,1,3:29.0,18,11,BOS,BRK,16,away,JS,,8,miss2,0,J. Lin,
 70,1,3:28.0,18,11,BOS,BRK,1,home,DefReb,,,DefReb,,K. Olynyk,
-71,1,3:20.0,18,11,BOS,BRK,8,home,BadPass,steal,,turnover,,J. Brown,I. Whitehead
+71,1,3:20.0,18,11,BOS,BRK,8,home,bad pass,steal,,turnover,,J. Brown,I. Whitehead
 72,1,3:17.0,18,11,BOS,BRK,3,away,LU,,2,miss2,0,S. Dinwiddie,
 73,1,3:16.0,18,11,BOS,BRK,1,away,OffReb,,,OffReb,,Team,
 74,1,3:16.0,18,11,BOS,BRK,0,away,Sub,,,,,A. Goodwin,B. Lopez
@@ -114,7 +114,7 @@
 112,1,0:00.0,28,13,BOS,BRK,1,away,OffReb,,,OffReb,,J. Hamilton,
 113,2,11:45.0,28,13,BOS,BRK,15,home,JS,,25,miss3,0,T. Rozier,
 114,2,11:44.0,28,13,BOS,BRK,1,away,DefReb,,,DefReb,,K. McDaniels,
-115,2,11:32.0,28,13,BOS,BRK,12,away,BadPass,steal,,turnover,,K. McDaniels,T. Rozier
+115,2,11:32.0,28,13,BOS,BRK,12,away,bad pass,steal,,turnover,,K. McDaniels,T. Rozier
 116,2,11:26.0,30,13,BOS,BRK,6,home,LU,,0,make2,2,T. Rozier,
 117,2,11:15.0,30,13,BOS,BRK,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jerebko,A. Goodwin
 118,2,10:58.0,30,16,BOS,BRK,17,away,JS,assist,26,make3,3,A. Goodwin,I. Whitehead
@@ -140,8 +140,8 @@
 138,2,8:55.0,35,19,BOS,BRK,1,home,DefReb,,,DefReb,,T. Rozier,
 139,2,8:41.0,35,19,BOS,BRK,14,home,JS,,15,miss2,0,J. Brown,
 140,2,8:40.0,35,19,BOS,BRK,1,away,DefReb,,,DefReb,,R. Hollis-Jefferson,
-141,2,8:35.0,35,19,BOS,BRK,5,away,BadPass,steal,,turnover,,R. Hollis-Jefferson,J. Brown
-142,2,8:33.0,35,19,BOS,BRK,2,home,BadPass,steal,,turnover,,K. Olynyk,R. Hollis-Jefferson
+141,2,8:35.0,35,19,BOS,BRK,5,away,bad pass,steal,,turnover,,R. Hollis-Jefferson,J. Brown
+142,2,8:33.0,35,19,BOS,BRK,2,home,bad pass,steal,,turnover,,K. Olynyk,R. Hollis-Jefferson
 143,2,8:32.0,35,21,BOS,BRK,1,away,DK,,0,make2,2,R. Hollis-Jefferson,
 144,2,8:31.0,35,21,BOS,BRK,1,home,Timeout,,,,,,
 145,2,8:31.0,35,21,BOS,BRK,0,home,Sub,,,,,A. Bradley,J. Brown
@@ -152,14 +152,14 @@
 150,2,8:20.0,38,21,BOS,BRK,0,home,FreeThrow,,,make1,1,M. Smart,
 151,2,8:09.0,38,21,BOS,BRK,11,away,LU,,2,miss2,0,R. Hollis-Jefferson,
 152,2,8:08.0,38,21,BOS,BRK,1,home,DefReb,,,DefReb,,M. Smart,
-153,2,8:06.0,38,21,BOS,BRK,2,home,LostBall,steal,,turnover,,M. Smart,R. Hollis-Jefferson
+153,2,8:06.0,38,21,BOS,BRK,2,home,lost ball,steal,,turnover,,M. Smart,R. Hollis-Jefferson
 154,2,7:54.0,38,23,BOS,BRK,12,away,LU,,1,make2,2,B. Lopez,
 155,2,7:54.0,38,23,BOS,BRK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,B. Lopez
 156,2,7:54.0,38,23,BOS,BRK,0,home,Sub,,,,,I. Thomas,M. Smart
 157,2,7:54.0,38,24,BOS,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
 158,2,7:39.0,38,24,BOS,BRK,15,home,JS,,21,miss2,0,A. Johnson,
 159,2,7:38.0,38,24,BOS,BRK,1,away,DefReb,,,DefReb,,K. McDaniels,
-160,2,7:24.0,38,24,BOS,BRK,14,away,LostBall,steal,,turnover,,A. Goodwin,A. Johnson
+160,2,7:24.0,38,24,BOS,BRK,14,away,lost ball,steal,,turnover,,A. Goodwin,A. Johnson
 161,2,7:20.0,38,24,BOS,BRK,4,home,BadPass,,,turnover,,I. Thomas,
 162,2,7:20.0,38,24,BOS,BRK,0,away,Sub,,,,,J. Lin,A. Goodwin
 163,2,7:09.0,38,24,BOS,BRK,11,away,LU,,3,miss2,0,K. McDaniels,
@@ -174,7 +174,7 @@
 172,2,6:34.0,38,24,BOS,BRK,1,away,DefReb,,,DefReb,,R. Hollis-Jefferson,
 173,2,6:27.0,38,24,BOS,BRK,7,away,JS,,14,miss2,0,R. Hollis-Jefferson,
 174,2,6:26.0,38,24,BOS,BRK,1,away,OffReb,,,OffReb,,K. McDaniels,
-175,2,6:25.0,38,24,BOS,BRK,1,away,BadPass,steal,,turnover,,K. McDaniels,J. Crowder
+175,2,6:25.0,38,24,BOS,BRK,1,away,bad pass,steal,,turnover,,K. McDaniels,J. Crowder
 176,2,6:22.0,40,24,BOS,BRK,3,home,LU,assist,1,make2,2,I. Thomas,J. Crowder
 177,2,6:21.0,40,24,BOS,BRK,1,away,Timeout,,,,,,
 178,2,6:21.0,40,24,BOS,BRK,0,away,Sub,,,,,C. LeVert,I. Whitehead
@@ -246,7 +246,7 @@
 244,3,11:24.0,64,42,BOS,BRK,0,home,FreeThrow,,,make1,1,A. Bradley,
 245,3,11:13.0,64,42,BOS,BRK,11,away,JS,,25,miss3,0,R. Foye,
 246,3,11:11.0,64,42,BOS,BRK,2,home,DefReb,,,DefReb,,A. Johnson,
-247,3,10:56.0,64,42,BOS,BRK,15,home,LostBall,steal,,turnover,,A. Johnson,R. Foye
+247,3,10:56.0,64,42,BOS,BRK,15,home,lost ball,steal,,turnover,,A. Johnson,R. Foye
 248,3,10:51.0,64,42,BOS,BRK,5,away,LU,block,0,miss2,0,C. LeVert,J. Crowder
 249,3,10:50.0,64,42,BOS,BRK,1,home,DefReb,,,DefReb,,A. Bradley,
 250,3,10:46.0,67,42,BOS,BRK,4,home,JS,assist,26,make3,3,I. Thomas,A. Bradley
@@ -369,7 +369,7 @@
 367,4,11:00.0,94,81,BOS,BRK,0,away,DefReb,,,DefReb,,A. Goodwin,
 368,4,10:44.0,94,81,BOS,BRK,16,away,HS,,9,miss2,0,I. Whitehead,
 369,4,10:43.0,94,81,BOS,BRK,1,home,DefReb,,,DefReb,,J. Jerebko,
-370,4,10:37.0,94,81,BOS,BRK,6,home,LostBall,steal,,turnover,,J. Crowder,J. Hamilton
+370,4,10:37.0,94,81,BOS,BRK,6,home,lost ball,steal,,turnover,,J. Crowder,J. Hamilton
 371,4,10:31.0,94,81,BOS,BRK,6,away,JS,,7,miss2,0,R. Hollis-Jefferson,
 372,4,10:30.0,94,81,BOS,BRK,1,home,DefReb,,,DefReb,,K. Olynyk,
 373,4,10:14.0,94,81,BOS,BRK,16,home,JS,block,6,miss2,0,K. Olynyk,J. Hamilton
@@ -404,7 +404,7 @@
 402,4,7:02.0,99,90,BOS,BRK,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Dinwiddie,A. Bradley
 403,4,7:02.0,99,90,BOS,BRK,0,away,Sub,,,,,B. Lopez,J. Hamilton
 404,4,7:02.0,99,90,BOS,BRK,0,away,Sub,,,,,C. LeVert,I. Whitehead
-405,4,6:53.0,99,90,BOS,BRK,9,home,BadPass,steal,,turnover,,K. Olynyk,R. Hollis-Jefferson
+405,4,6:53.0,99,90,BOS,BRK,9,home,bad pass,steal,,turnover,,K. Olynyk,R. Hollis-Jefferson
 406,4,6:46.0,99,90,BOS,BRK,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Thomas,J. Lin
 407,4,6:46.0,99,91,BOS,BRK,0,away,FreeThrow,,,make1,1,J. Lin,
 408,4,6:46.0,99,91,BOS,BRK,0,away,Sub,,,,,J. Hamilton,R. Hollis-Jefferson
@@ -424,7 +424,7 @@
 422,4,5:31.0,99,92,BOS,BRK,1,away,OffReb,,,OffReb,,J. Lin,
 423,4,5:20.0,99,92,BOS,BRK,11,away,JS,,8,miss2,0,B. Lopez,
 424,4,5:18.0,99,92,BOS,BRK,2,home,DefReb,,,DefReb,,J. Jerebko,
-425,4,5:08.0,99,92,BOS,BRK,10,home,BadPass,steal,,turnover,,J. Brown,R. Hollis-Jefferson
+425,4,5:08.0,99,92,BOS,BRK,10,home,bad pass,steal,,turnover,,J. Brown,R. Hollis-Jefferson
 426,4,5:03.0,99,92,BOS,BRK,5,away,LU,,0,miss2,0,R. Hollis-Jefferson,
 427,4,5:02.0,99,92,BOS,BRK,1,away,OffReb,,,OffReb,,J. Lin,
 428,4,4:56.0,99,92,BOS,BRK,6,away,JS,,28,miss3,0,C. LeVert,
@@ -445,12 +445,12 @@
 443,4,3:15.0,105,97,BOS,BRK,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Lopez,A. Horford
 444,4,3:15.0,106,97,BOS,BRK,0,home,FreeThrow,,,make1,1,A. Horford,
 445,4,3:15.0,107,97,BOS,BRK,0,home,FreeThrow,,,make1,1,A. Horford,
-446,4,3:04.0,107,97,BOS,BRK,11,away,LostBall,steal,,turnover,,I. Whitehead,I. Thomas
+446,4,3:04.0,107,97,BOS,BRK,11,away,lost ball,steal,,turnover,,I. Whitehead,I. Thomas
 447,4,2:59.0,107,97,BOS,BRK,5,home,JS,,25,miss3,0,I. Thomas,
 448,4,2:58.0,107,97,BOS,BRK,1,home,OffReb,,,OffReb,,J. Crowder,
 449,4,2:42.0,107,97,BOS,BRK,16,home,JS,,26,miss3,0,M. Smart,
 450,4,2:41.0,107,97,BOS,BRK,1,away,DefReb,,,DefReb,,J. Lin,
-451,4,2:28.0,107,97,BOS,BRK,13,away,LostBall,steal,,turnover,,R. Hollis-Jefferson,M. Smart
+451,4,2:28.0,107,97,BOS,BRK,13,away,lost ball,steal,,turnover,,R. Hollis-Jefferson,M. Smart
 452,4,2:25.0,107,97,BOS,BRK,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Whitehead,I. Thomas
 453,4,2:25.0,108,97,BOS,BRK,0,home,FreeThrow,,,make1,1,I. Thomas,
 454,4,2:25.0,109,97,BOS,BRK,0,home,FreeThrow,,,make1,1,I. Thomas,

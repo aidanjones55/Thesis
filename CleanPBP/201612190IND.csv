@@ -1,6 +1,6 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:45.0,0,0,IND,WAS,15,away,LostBall,steal,,turnover,,M. Morris,J. Teague
-1,1,11:40.0,0,0,IND,WAS,5,home,BadPass,steal,,turnover,,M. Turner,J. Wall
+0,1,11:45.0,0,0,IND,WAS,15,away,lost ball,steal,,turnover,,M. Morris,J. Teague
+1,1,11:40.0,0,0,IND,WAS,5,home,bad pass,steal,,turnover,,M. Turner,J. Wall
 2,1,11:26.0,0,2,IND,WAS,14,away,JS,,9,make2,2,B. Beal,
 3,1,11:08.0,0,2,IND,WAS,18,home,JS,,19,miss2,0,M. Turner,
 4,1,11:07.0,0,2,IND,WAS,1,away,DefReb,,,DefReb,,M. Gortat,
@@ -32,7 +32,7 @@
 30,1,8:37.0,4,14,IND,WAS,6,away,LU,assist,2,make2,2,M. Gortat,J. Wall
 31,1,8:22.0,4,14,IND,WAS,15,home,JS,,21,miss2,0,P. George,
 32,1,8:22.0,4,14,IND,WAS,0,away,DefReb,,,DefReb,,M. Morris,
-33,1,8:13.0,4,14,IND,WAS,9,away,LostBall,steal,,turnover,,J. Wall,J. Teague
+33,1,8:13.0,4,14,IND,WAS,9,away,lost ball,steal,,turnover,,J. Wall,J. Teague
 34,1,8:08.0,6,14,IND,WAS,5,home,LU,,1,make2,2,T. Young,
 35,1,7:52.0,6,14,IND,WAS,16,away,LU,block,3,miss2,0,M. Morris,M. Turner
 36,1,7:51.0,6,14,IND,WAS,1,home,DefReb,,,DefReb,,T. Young,
@@ -63,7 +63,7 @@
 61,1,4:36.0,16,23,IND,WAS,3,away,LU,,1,make2,2,B. Beal,
 62,1,4:25.0,16,23,IND,WAS,11,home,JS,,3,miss2,0,J. Teague,
 63,1,4:25.0,16,23,IND,WAS,0,away,DefReb,,,DefReb,,J. Smith,
-64,1,4:20.0,16,23,IND,WAS,5,away,LostBall,steal,,turnover,,B. Beal,J. Teague
+64,1,4:20.0,16,23,IND,WAS,5,away,lost ball,steal,,turnover,,B. Beal,J. Teague
 65,1,4:13.0,16,23,IND,WAS,7,home,JS,,28,miss3,0,C. Miles,
 66,1,4:12.0,16,23,IND,WAS,1,home,OffReb,,,OffReb,,T. Young,
 67,1,4:01.0,18,23,IND,WAS,11,home,JS,,8,make2,2,P. George,
@@ -181,7 +181,7 @@
 179,2,5:21.0,45,47,IND,WAS,1,home,DefReb,,,DefReb,,T. Young,
 180,2,5:10.0,45,47,IND,WAS,11,away,ChargeFoul,DrawnBy,,ChargeFoul,,P. George,J. Wall
 181,2,5:10.0,45,47,IND,WAS,0,home,OffensiveFoul,,,turnover,,P. George,
-182,2,4:57.0,45,47,IND,WAS,13,away,LostBall,steal,,turnover,,B. Beal,T. Young
+182,2,4:57.0,45,47,IND,WAS,13,away,lost ball,steal,,turnover,,B. Beal,T. Young
 183,2,4:50.0,45,47,IND,WAS,7,home,JS,,28,miss3,0,P. George,
 184,2,4:49.0,45,47,IND,WAS,1,away,DefReb,,,DefReb,,O. Porter,
 185,2,4:44.0,45,47,IND,WAS,5,away,BadPass,,,turnover,,M. Gortat,
@@ -202,10 +202,10 @@
 200,2,2:51.0,50,49,IND,WAS,16,away,LU,assist,2,make2,2,M. Gortat,J. Wall
 201,2,2:31.0,50,49,IND,WAS,20,home,BackCourtTurnover,,,turnover,,T. Young,
 202,2,2:21.0,50,51,IND,WAS,10,away,JS,,13,make2,2,M. Morris,
-203,2,2:01.0,50,51,IND,WAS,20,home,BadPass,steal,,turnover,,G. Robinson,J. Wall
+203,2,2:01.0,50,51,IND,WAS,20,home,bad pass,steal,,turnover,,G. Robinson,J. Wall
 204,2,1:59.0,50,51,IND,WAS,2,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Gortat,M. Turner
 205,2,1:59.0,50,51,IND,WAS,0,away,BadPass,,,turnover,,M. Gortat,
-206,2,1:44.0,50,51,IND,WAS,15,home,BadPass,steal,,turnover,,J. Teague,O. Porter
+206,2,1:44.0,50,51,IND,WAS,15,home,bad pass,steal,,turnover,,J. Teague,O. Porter
 207,2,1:30.0,50,51,IND,WAS,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Robinson,M. Morris
 208,2,1:30.0,50,52,IND,WAS,0,away,FreeThrow,,,make1,1,M. Morris,
 209,2,1:30.0,50,52,IND,WAS,0,home,Sub,,,,,C. Miles,G. Robinson
@@ -306,7 +306,7 @@
 304,3,4:08.0,75,69,IND,WAS,18,home,JS,,6,make2,2,P. George,
 305,3,3:55.0,75,71,IND,WAS,13,away,LU,assist,2,make2,2,M. Gortat,M. Thornton
 306,3,3:33.0,77,71,IND,WAS,22,home,JS,,14,make2,2,M. Turner,
-307,3,3:18.0,77,71,IND,WAS,15,away,BadPass,steal,,turnover,,J. Wall,P. George
+307,3,3:18.0,77,71,IND,WAS,15,away,bad pass,steal,,turnover,,J. Wall,P. George
 308,3,3:14.0,77,71,IND,WAS,4,home,Sub,,,,,A. Jefferson,M. Turner
 309,3,3:14.0,77,71,IND,WAS,0,away,Sub,,,,,T. Satoranský,M. Thornton
 310,3,3:07.0,79,71,IND,WAS,7,home,LU,,3,make2,2,J. Teague,
@@ -351,7 +351,7 @@
 349,4,10:45.0,88,85,IND,WAS,5,away,JS,,28,make3,3,O. Porter,
 350,4,10:45.0,88,85,IND,WAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. George,O. Porter
 351,4,10:45.0,88,86,IND,WAS,0,away,FreeThrow,,,make1,1,O. Porter,
-352,4,10:22.0,88,86,IND,WAS,23,home,BadPass,steal,,turnover,,P. George,T. Satoranský
+352,4,10:22.0,88,86,IND,WAS,23,home,bad pass,steal,,turnover,,P. George,T. Satoranský
 353,4,10:17.0,88,86,IND,WAS,5,away,LU,,1,miss2,0,O. Porter,
 354,4,10:16.0,88,86,IND,WAS,1,home,DefReb,,,DefReb,,G. Robinson,
 355,4,10:09.0,88,86,IND,WAS,7,home,JS,,24,miss3,0,A. Brooks,
@@ -418,7 +418,7 @@
 416,4,3:27.0,101,96,IND,WAS,1,home,DefReb,,,DefReb,,T. Young,
 417,4,3:08.0,101,96,IND,WAS,19,home,LU,block,1,miss2,0,P. George,O. Porter
 418,4,3:07.0,101,96,IND,WAS,1,away,DefReb,,,DefReb,,M. Gortat,
-419,4,3:02.0,101,96,IND,WAS,5,away,BadPass,steal,,turnover,,J. Wall,T. Young
+419,4,3:02.0,101,96,IND,WAS,5,away,bad pass,steal,,turnover,,J. Wall,T. Young
 420,4,2:40.0,101,96,IND,WAS,22,home,JS,,27,miss3,0,J. Teague,
 421,4,2:38.0,101,96,IND,WAS,2,home,OffReb,,,OffReb,,Team,
 422,4,2:30.0,103,96,IND,WAS,8,home,JS,,19,make2,2,P. George,
@@ -428,7 +428,7 @@
 426,4,2:02.0,105,98,IND,WAS,22,home,JS,,17,make2,2,P. George,
 427,4,1:51.0,105,98,IND,WAS,11,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Gortat,T. Young
 428,4,1:51.0,105,98,IND,WAS,0,away,OffensiveFoul,,,turnover,,M. Gortat,
-429,4,1:33.0,105,98,IND,WAS,18,home,BadPass,steal,,turnover,,P. George,M. Morris
+429,4,1:33.0,105,98,IND,WAS,18,home,bad pass,steal,,turnover,,P. George,M. Morris
 430,4,1:20.0,105,101,IND,WAS,13,away,JS,assist,28,make3,3,B. Beal,J. Wall
 431,4,1:00.0,105,101,IND,WAS,20,home,JS,,26,miss3,0,P. George,
 432,4,0:59.0,105,101,IND,WAS,1,away,DefReb,,,DefReb,,M. Morris,

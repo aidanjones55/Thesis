@@ -6,7 +6,7 @@
 4,1,11:24.0,2,2,BOS,BRK,11,away,JS,assist,6,make2,2,B. Bogdanović,T. Booker
 5,1,11:06.0,2,2,BOS,BRK,18,home,BadPass,,,turnover,,A. Horford,
 6,1,10:53.0,2,2,BOS,BRK,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Horford,J. Lin
-7,1,10:48.0,2,2,BOS,BRK,5,away,BadPass,steal,,turnover,,B. Lopez,I. Thomas
+7,1,10:48.0,2,2,BOS,BRK,5,away,bad pass,steal,,turnover,,B. Lopez,I. Thomas
 8,1,10:36.0,5,2,BOS,BRK,12,home,JS,assist,24,make3,3,A. Horford,A. Bradley
 9,1,10:23.0,5,2,BOS,BRK,13,away,JS,,24,miss3,0,J. Lin,
 10,1,10:22.0,5,2,BOS,BRK,1,home,DefReb,,,DefReb,,A. Bradley,
@@ -19,12 +19,12 @@
 17,1,9:36.0,5,4,BOS,BRK,15,away,JS,block,7,miss2,0,B. Lopez,A. Horford
 18,1,9:35.0,5,4,BOS,BRK,1,away,OffReb,,,OffReb,,J. Lin,
 19,1,9:29.0,5,6,BOS,BRK,6,away,JS,,8,make2,2,R. Hollis-Jefferson,
-20,1,9:13.0,5,6,BOS,BRK,16,home,BadPass,steal,,turnover,,I. Thomas,T. Booker
+20,1,9:13.0,5,6,BOS,BRK,16,home,bad pass,steal,,turnover,,I. Thomas,T. Booker
 21,1,9:07.0,5,9,BOS,BRK,6,away,JS,assist,25,make3,3,B. Bogdanović,T. Booker
 22,1,8:56.0,5,9,BOS,BRK,11,home,JS,,24,miss3,0,I. Thomas,
 23,1,8:55.0,5,9,BOS,BRK,1,away,DefReb,,,DefReb,,B. Bogdanović,
 24,1,8:44.0,5,9,BOS,BRK,11,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,I. Thomas,J. Lin
-25,1,8:36.0,5,9,BOS,BRK,8,away,BadPass,steal,,turnover,,J. Lin,A. Johnson
+25,1,8:36.0,5,9,BOS,BRK,8,away,bad pass,steal,,turnover,,J. Lin,A. Johnson
 26,1,8:25.0,5,9,BOS,BRK,11,home,3sec,,,turnover,,A. Johnson,
 27,1,8:04.0,5,9,BOS,BRK,21,away,JS,,26,miss3,0,B. Bogdanović,
 28,1,8:03.0,5,9,BOS,BRK,1,away,OffReb,,,OffReb,,B. Lopez,
@@ -48,7 +48,7 @@
 46,1,6:18.0,12,11,BOS,BRK,0,away,Sub,,,,,J. Harris,B. Bogdanović
 47,1,6:18.0,12,11,BOS,BRK,0,away,Sub,,,,,L. Scola,B. Lopez
 48,1,6:18.0,13,11,BOS,BRK,0,home,FreeThrow,,,make1,1,I. Thomas,
-49,1,6:07.0,13,11,BOS,BRK,11,away,BadPass,steal,,turnover,,J. Lin,A. Bradley
+49,1,6:07.0,13,11,BOS,BRK,11,away,bad pass,steal,,turnover,,J. Lin,A. Bradley
 50,1,5:59.0,13,11,BOS,BRK,8,home,JS,,25,miss3,0,I. Thomas,
 51,1,5:57.0,13,11,BOS,BRK,2,home,OffReb,,,OffReb,,A. Bradley,
 52,1,5:45.0,15,11,BOS,BRK,12,home,LU,assist,2,make2,2,J. Brown,I. Thomas
@@ -56,12 +56,12 @@
 54,1,5:04.0,18,14,BOS,BRK,23,home,JS,assist,25,make3,3,A. Bradley,A. Horford
 55,1,5:03.0,18,14,BOS,BRK,1,away,Timeout,,,,,,
 56,1,5:03.0,18,14,BOS,BRK,0,home,Sub,,,,,T. Rozier,I. Thomas
-57,1,4:55.0,18,14,BOS,BRK,8,away,LostBall,steal,,turnover,,J. Harris,J. Brown
+57,1,4:55.0,18,14,BOS,BRK,8,away,lost ball,steal,,turnover,,J. Harris,J. Brown
 58,1,4:47.0,18,14,BOS,BRK,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Harris,T. Rozier
 59,1,4:36.0,20,14,BOS,BRK,11,home,JS,assist,19,make2,2,A. Bradley,A. Horford
 60,1,4:23.0,20,14,BOS,BRK,13,away,LU,block,2,miss2,0,J. Lin,A. Horford
 61,1,4:22.0,20,14,BOS,BRK,1,home,DefReb,,,DefReb,,A. Horford,
-62,1,4:17.0,20,14,BOS,BRK,5,home,LostBall,steal,,turnover,,J. Brown,J. Harris
+62,1,4:17.0,20,14,BOS,BRK,5,home,lost ball,steal,,turnover,,J. Brown,J. Harris
 63,1,4:12.0,20,14,BOS,BRK,5,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,T. Rozier,L. Scola
 64,1,4:12.0,20,14,BOS,BRK,0,away,Sub,,,,,G. Vásquez,R. Hollis-Jefferson
 65,1,4:12.0,20,14,BOS,BRK,0,away,Sub,,,,,J. Hamilton,T. Booker
@@ -104,7 +104,7 @@
 102,1,0:25.0,33,31,BOS,BRK,0,home,OffReb,,,OffReb,,A. Johnson,
 103,1,0:24.0,33,31,BOS,BRK,1,home,LU,,1,miss2,0,A. Johnson,
 104,1,0:22.0,33,31,BOS,BRK,2,away,DefReb,,,DefReb,,S. Kilpatrick,
-105,1,0:03.0,33,31,BOS,BRK,19,away,LostBall,steal,,turnover,,S. Kilpatrick,J. Jerebko
+105,1,0:03.0,33,31,BOS,BRK,19,away,lost ball,steal,,turnover,,S. Kilpatrick,J. Jerebko
 106,1,0:00.0,33,31,BOS,BRK,3,home,JS,,40,miss3,0,J. Jerebko,
 107,1,0:00.0,33,31,BOS,BRK,0,home,OffReb,,,OffReb,,Team,
 108,2,11:47.0,33,31,BOS,BRK,13,home,JS,,25,miss3,0,J. Jerebko,
@@ -133,10 +133,10 @@
 131,2,8:24.0,46,34,BOS,BRK,7,away,Timeout,,,,,,
 132,2,8:24.0,46,34,BOS,BRK,0,away,Sub,,,,,J. Hamilton,L. Scola
 133,2,8:24.0,46,34,BOS,BRK,0,away,Sub,,,,,J. Lin,G. Vásquez
-134,2,8:15.0,46,34,BOS,BRK,9,away,LostBall,steal,,turnover,,J. Hamilton,J. Jerebko
+134,2,8:15.0,46,34,BOS,BRK,9,away,lost ball,steal,,turnover,,J. Hamilton,J. Jerebko
 135,2,8:07.0,46,34,BOS,BRK,8,home,JS,,26,miss3,0,J. Jerebko,
 136,2,8:06.0,46,34,BOS,BRK,1,home,OffReb,,,OffReb,,T. Zeller,
-137,2,8:04.0,46,34,BOS,BRK,2,home,BadPass,steal,,turnover,,T. Zeller,B. Bogdanović
+137,2,8:04.0,46,34,BOS,BRK,2,home,bad pass,steal,,turnover,,T. Zeller,B. Bogdanović
 138,2,8:03.0,46,34,BOS,BRK,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jerebko,B. Bogdanović
 139,2,7:48.0,46,34,BOS,BRK,15,away,JS,,9,miss2,0,J. Lin,
 140,2,7:46.0,46,34,BOS,BRK,2,away,OffReb,,,OffReb,,J. Hamilton,
@@ -182,7 +182,7 @@
 180,2,4:21.0,52,44,BOS,BRK,0,home,Sub,,,,,T. Rozier,I. Thomas
 181,2,4:21.0,52,45,BOS,BRK,0,away,FreeThrow,,,make1,1,J. Lin,
 182,2,4:04.0,54,45,BOS,BRK,17,home,JS,,14,make2,2,G. Green,
-183,2,3:56.0,54,45,BOS,BRK,8,away,BadPass,steal,,turnover,,R. Hollis-Jefferson,T. Rozier
+183,2,3:56.0,54,45,BOS,BRK,8,away,bad pass,steal,,turnover,,R. Hollis-Jefferson,T. Rozier
 184,2,3:49.0,54,45,BOS,BRK,7,home,LU,,1,miss2,0,A. Bradley,
 185,2,3:48.0,54,45,BOS,BRK,1,away,DefReb,,,DefReb,,J. Lin,
 186,2,3:41.0,54,45,BOS,BRK,7,away,JS,,26,miss3,0,J. Harris,
@@ -205,7 +205,7 @@
 203,2,1:53.0,57,51,BOS,BRK,0,home,FreeThrow,,,make1,1,I. Thomas,
 204,2,1:53.0,57,51,BOS,BRK,0,home,Sub,,,,,A. Johnson,T. Rozier
 205,2,1:53.0,58,51,BOS,BRK,0,home,FreeThrow,,,make1,1,I. Thomas,
-206,2,1:45.0,58,51,BOS,BRK,8,away,LostBall,steal,,turnover,,J. Harris,I. Thomas
+206,2,1:45.0,58,51,BOS,BRK,8,away,lost ball,steal,,turnover,,J. Harris,I. Thomas
 207,2,1:45.0,58,51,BOS,BRK,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Harris,I. Thomas
 208,2,1:45.0,59,51,BOS,BRK,0,home,FreeThrow,,,make1,1,I. Thomas,
 209,2,1:45.0,59,51,BOS,BRK,0,away,Sub,,,,,S. Kilpatrick,J. Harris
@@ -230,7 +230,7 @@
 228,2,0:20.0,64,58,BOS,BRK,1,away,DefReb,,,DefReb,,R. Hollis-Jefferson,
 229,2,0:05.0,64,58,BOS,BRK,15,away,JS,,19,miss2,0,J. Lin,
 230,2,0:03.0,64,58,BOS,BRK,2,home,DefReb,,,DefReb,,A. Johnson,
-231,2,0:02.0,64,58,BOS,BRK,1,home,BadPass,steal,,turnover,,A. Johnson,T. Booker
+231,2,0:02.0,64,58,BOS,BRK,1,home,bad pass,steal,,turnover,,A. Johnson,T. Booker
 232,2,0:00.0,64,58,BOS,BRK,2,away,JS,,25,miss3,0,S. Kilpatrick,
 233,2,0:00.0,64,58,BOS,BRK,0,away,OffReb,,,OffReb,,Team,
 234,3,11:49.0,64,58,BOS,BRK,11,home,BadPass,,,turnover,,A. Bradley,
@@ -267,11 +267,11 @@
 265,3,7:55.0,71,63,BOS,BRK,0,away,FreeThrow,,,make1,1,L. Scola makes flagrant free throw 2 of 2,
 266,3,7:49.0,71,65,BOS,BRK,6,away,LU,assist,2,make2,2,B. Bogdanović,T. Booker
 267,3,7:28.0,73,65,BOS,BRK,21,home,JS,assist,22,make2,2,J. Crowder,A. Horford
-268,3,7:19.0,73,65,BOS,BRK,9,away,LostBall,steal,,turnover,,B. Bogdanović,J. Crowder
+268,3,7:19.0,73,65,BOS,BRK,9,away,lost ball,steal,,turnover,,B. Bogdanović,J. Crowder
 269,3,7:15.0,75,65,BOS,BRK,4,home,DK,assist,0,make2,2,J. Crowder,I. Thomas
 270,3,6:47.0,75,65,BOS,BRK,28,away,JS,,25,miss3,0,T. Booker,
 271,3,6:47.0,75,65,BOS,BRK,0,home,DefReb,,,DefReb,,A. Bradley,
-272,3,6:41.0,75,65,BOS,BRK,6,home,BadPass,steal,,turnover,,A. Johnson,R. Hollis-Jefferson
+272,3,6:41.0,75,65,BOS,BRK,6,home,bad pass,steal,,turnover,,A. Johnson,R. Hollis-Jefferson
 273,3,6:32.0,75,65,BOS,BRK,9,away,JS,,8,miss2,0,R. Hollis-Jefferson,
 274,3,6:31.0,75,65,BOS,BRK,1,home,DefReb,,,DefReb,,A. Johnson,
 275,3,6:22.0,78,65,BOS,BRK,9,home,JS,,25,make3,3,I. Thomas,
@@ -302,11 +302,11 @@
 300,3,3:44.0,86,73,BOS,BRK,0,home,FreeThrow,,,make1,1,J. Brown,
 301,3,3:44.0,86,73,BOS,BRK,0,home,FreeThrow,,,make1,0,J. Brown,
 302,3,3:44.0,86,73,BOS,BRK,0,away,DefReb,,,DefReb,,B. Lopez,
-303,3,3:40.0,86,73,BOS,BRK,4,away,BadPass,steal,,turnover,,B. Lopez,J. Crowder
+303,3,3:40.0,86,73,BOS,BRK,4,away,bad pass,steal,,turnover,,B. Lopez,J. Crowder
 304,3,3:35.0,88,73,BOS,BRK,5,home,JS,,14,make2,2,J. Crowder,
 305,3,3:13.0,88,73,BOS,BRK,22,away,LU,block,2,miss2,0,J. Harris,J. Brown
 306,3,3:12.0,88,73,BOS,BRK,1,home,DefReb,,,DefReb,,J. Crowder,
-307,3,3:09.0,88,73,BOS,BRK,3,home,BadPass,steal,,turnover,,J. Crowder,G. Vásquez
+307,3,3:09.0,88,73,BOS,BRK,3,home,bad pass,steal,,turnover,,J. Crowder,G. Vásquez
 308,3,3:00.0,88,73,BOS,BRK,9,away,JS,,9,miss2,0,B. Lopez,
 309,3,2:58.0,88,73,BOS,BRK,2,home,DefReb,,,DefReb,,I. Thomas,
 310,3,2:58.0,88,73,BOS,BRK,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Vásquez,I. Thomas
@@ -328,7 +328,7 @@
 326,3,1:36.0,90,77,BOS,BRK,0,home,Sub,,,,,J. Jerebko,J. Crowder
 327,3,1:36.0,90,78,BOS,BRK,0,away,FreeThrow,,,make1,1,S. Kilpatrick,
 328,3,1:26.0,92,78,BOS,BRK,10,home,JS,assist,15,make2,2,I. Thomas,T. Zeller
-329,3,1:15.0,92,78,BOS,BRK,11,away,LostBall,steal,,turnover,,S. Kilpatrick,T. Rozier
+329,3,1:15.0,92,78,BOS,BRK,11,away,lost ball,steal,,turnover,,S. Kilpatrick,T. Rozier
 330,3,1:09.0,94,78,BOS,BRK,6,home,LU,assist,0,make2,2,I. Thomas,J. Brown
 331,3,1:00.0,94,81,BOS,BRK,9,away,JS,assist,26,make3,3,J. Harris,G. Vásquez
 332,3,0:40.0,97,81,BOS,BRK,20,home,JS,,25,make3,3,I. Thomas,
@@ -340,7 +340,7 @@
 338,3,0:00.0,97,81,BOS,BRK,1,away,OffReb,,,OffReb,,Team,
 339,4,11:39.0,97,83,BOS,BRK,21,away,LU,assist,2,make2,2,J. Harris,L. Scola
 340,4,11:14.0,99,83,BOS,BRK,25,home,LU,assist,2,make2,2,T. Zeller,A. Bradley
-341,4,11:01.0,99,83,BOS,BRK,13,away,BadPass,steal,,turnover,,L. Scola,J. Jerebko
+341,4,11:01.0,99,83,BOS,BRK,13,away,bad pass,steal,,turnover,,L. Scola,J. Jerebko
 342,4,11:01.0,99,83,BOS,BRK,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Scola,J. Jerebko
 343,4,10:35.0,101,83,BOS,BRK,26,home,JS,,5,make2,2,J. Jerebko,
 344,4,10:26.0,101,83,BOS,BRK,9,away,JS,,24,miss3,0,S. Kilpatrick,
@@ -419,7 +419,7 @@
 417,4,2:56.0,118,108,BOS,BRK,10,away,LU,assist,1,make2,2,T. Booker,J. Harris
 418,4,2:40.0,118,108,BOS,BRK,16,home,JS,,24,miss3,0,G. Green,
 419,4,2:39.0,118,108,BOS,BRK,1,away,DefReb,,,DefReb,,B. Bogdanović,
-420,4,2:31.0,118,108,BOS,BRK,8,away,BadPass,steal,,turnover,,J. Harris,J. Jerebko
+420,4,2:31.0,118,108,BOS,BRK,8,away,bad pass,steal,,turnover,,J. Harris,J. Jerebko
 421,4,2:26.0,118,108,BOS,BRK,5,home,JS,,4,miss2,0,T. Rozier,
 422,4,2:23.0,118,108,BOS,BRK,3,away,DefReb,,,DefReb,,J. Harris,
 423,4,2:19.0,118,108,BOS,BRK,4,away,LU,,1,miss2,0,B. Bogdanović,
@@ -444,7 +444,7 @@
 442,4,1:10.0,120,110,BOS,BRK,4,away,JS,,22,miss2,0,C. McCullough,
 443,4,1:09.0,120,110,BOS,BRK,1,away,OffReb,,,OffReb,,B. Bogdanović,
 444,4,1:08.0,120,112,BOS,BRK,1,away,LU,,0,make2,2,B. Bogdanović,
-445,4,1:05.0,120,112,BOS,BRK,3,home,BadPass,steal,,turnover,,J. Crowder,T. Booker
+445,4,1:05.0,120,112,BOS,BRK,3,home,bad pass,steal,,turnover,,J. Crowder,T. Booker
 446,4,1:04.0,120,114,BOS,BRK,1,away,DK,,0,make2,2,T. Booker,
 447,4,1:04.0,120,114,BOS,BRK,0,home,Timeout,,,,,,
 448,4,0:56.0,120,114,BOS,BRK,8,home,LU,,2,miss2,0,I. Thomas,
@@ -452,7 +452,7 @@
 450,4,0:53.0,120,114,BOS,BRK,2,home,OutOfBounds,,,turnover,,A. Horford,
 451,4,0:53.0,120,114,BOS,BRK,0,home,Sub,,,,,T. Rozier,A. Johnson
 452,4,0:47.0,120,117,BOS,BRK,6,away,JS,assist,27,make3,3,B. Bogdanović,I. Whitehead
-453,4,0:30.0,120,117,BOS,BRK,17,home,BadPass,steal,,turnover,,I. Thomas,J. Harris
+453,4,0:30.0,120,117,BOS,BRK,17,home,bad pass,steal,,turnover,,I. Thomas,J. Harris
 454,4,0:21.0,120,117,BOS,BRK,9,away,JS,,26,miss3,0,B. Bogdanović,
 455,4,0:20.0,120,117,BOS,BRK,1,away,OffReb,,,OffReb,,C. McCullough,
 456,4,0:18.0,120,117,BOS,BRK,2,away,Timeout,,,,,,

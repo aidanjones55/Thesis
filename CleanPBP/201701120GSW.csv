@@ -1,11 +1,11 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:45.0,0,0,GSW,DET,15,away,LostBall,steal,,turnover,,A. Drummond,Z. Pachulia
+0,1,11:45.0,0,0,GSW,DET,15,away,lost ball,steal,,turnover,,A. Drummond,Z. Pachulia
 1,1,11:35.0,0,0,GSW,DET,10,home,LU,block,1,miss2,0,K. Durant,A. Drummond
 2,1,11:34.0,0,0,GSW,DET,1,away,DefReb,,,DefReb,,A. Drummond,
 3,1,11:27.0,0,0,GSW,DET,7,away,JS,,26,miss3,0,M. Morris,
 4,1,11:25.0,0,0,GSW,DET,2,away,OffReb,,,OffReb,,A. Drummond,
 5,1,11:23.0,0,2,GSW,DET,2,away,HS,,6,make2,2,A. Drummond,
-6,1,11:11.0,0,2,GSW,DET,12,home,BadPass,steal,,turnover,,S. Curry,K. Caldwell-Pope
+6,1,11:11.0,0,2,GSW,DET,12,home,bad pass,steal,,turnover,,S. Curry,K. Caldwell-Pope
 7,1,10:54.0,0,2,GSW,DET,17,away,JS,,26,miss3,0,R. Jackson,
 8,1,10:54.0,0,2,GSW,DET,0,home,DefReb,,,DefReb,,D. Green,
 9,1,10:45.0,2,2,GSW,DET,9,home,JS,assist,20,make2,2,S. Curry,D. Green
@@ -36,7 +36,7 @@
 34,1,6:35.0,15,17,GSW,DET,18,away,JS,,12,make2,2,T. Harris,
 35,1,6:22.0,15,17,GSW,DET,13,home,JS,,18,miss2,0,K. Thompson,
 36,1,6:22.0,15,17,GSW,DET,0,home,OffReb,,,OffReb,,Team,
-37,1,6:19.0,15,17,GSW,DET,3,home,BadPass,steal,,turnover,,S. Curry,A. Drummond
+37,1,6:19.0,15,17,GSW,DET,3,home,bad pass,steal,,turnover,,S. Curry,A. Drummond
 38,1,6:13.0,15,17,GSW,DET,6,away,JS,,23,miss3,0,T. Harris,
 39,1,6:11.0,15,17,GSW,DET,2,home,DefReb,,,DefReb,,Z. Pachulia,
 40,1,6:02.0,18,17,GSW,DET,9,home,JS,assist,25,make3,3,K. Thompson,K. Durant
@@ -56,10 +56,10 @@
 54,1,4:35.0,22,22,GSW,DET,13,away,JS,,9,miss2,0,D. Hilliard,
 55,1,4:35.0,22,22,GSW,DET,0,home,DefReb,,,DefReb,,K. Durant,
 56,1,4:28.0,25,22,GSW,DET,7,home,JS,assist,28,make3,3,S. Curry,K. Durant
-57,1,3:56.0,25,22,GSW,DET,32,away,LostBall,steal,,turnover,,T. Harris,Z. Pachulia
-58,1,3:54.0,25,22,GSW,DET,2,home,BadPass,steal,,turnover,,Z. Pachulia,R. Jackson
-59,1,3:48.0,25,22,GSW,DET,6,away,BadPass,steal,,turnover,,R. Jackson,K. Thompson
-60,1,3:41.0,25,22,GSW,DET,7,home,BadPass,steal,,turnover,,S. Curry,T. Harris
+57,1,3:56.0,25,22,GSW,DET,32,away,lost ball,steal,,turnover,,T. Harris,Z. Pachulia
+58,1,3:54.0,25,22,GSW,DET,2,home,bad pass,steal,,turnover,,Z. Pachulia,R. Jackson
+59,1,3:48.0,25,22,GSW,DET,6,away,bad pass,steal,,turnover,,R. Jackson,K. Thompson
+60,1,3:41.0,25,22,GSW,DET,7,home,bad pass,steal,,turnover,,S. Curry,T. Harris
 61,1,3:26.0,25,24,GSW,DET,15,away,JS,,9,make2,2,T. Harris,
 62,1,3:25.0,25,24,GSW,DET,1,home,Timeout,,,,,,
 63,1,3:25.0,25,24,GSW,DET,0,away,Sub,,,,,I. Smith,R. Jackson
@@ -96,7 +96,7 @@
 94,1,0:40.0,31,30,GSW,DET,14,away,JS,block,3,miss2,0,D. Hilliard,D. Green
 95,1,0:39.0,31,30,GSW,DET,1,home,DefReb,,,DefReb,,D. Green,
 96,1,0:33.0,34,30,GSW,DET,6,home,JS,assist,26,make3,3,I. Clark,D. Green
-97,1,0:31.0,34,30,GSW,DET,2,away,BadPass,steal,,turnover,,I. Smith,S. Curry
+97,1,0:31.0,34,30,GSW,DET,2,away,bad pass,steal,,turnover,,I. Smith,S. Curry
 98,1,0:25.0,37,30,GSW,DET,6,home,JS,assist,27,make3,3,I. Clark,S. Curry
 99,1,0:06.0,37,30,GSW,DET,19,away,JS,block,9,miss2,0,I. Smith,J. McGee
 100,1,0:05.0,37,30,GSW,DET,1,home,DefReb,,,DefReb,,J. McGee,
@@ -105,7 +105,7 @@
 103,1,0:00.0,37,30,GSW,DET,1,away,OffReb,,,OffReb,,Team,
 104,2,11:41.0,37,30,GSW,DET,19,home,JS,,20,miss2,0,D. West,
 105,2,11:41.0,37,30,GSW,DET,0,away,DefReb,,,DefReb,,D. Hilliard,
-106,2,11:34.0,37,30,GSW,DET,7,away,BadPass,steal,,turnover,,I. Smith,I. Clark
+106,2,11:34.0,37,30,GSW,DET,7,away,bad pass,steal,,turnover,,I. Smith,I. Clark
 107,2,11:28.0,39,30,GSW,DET,6,home,LU,assist,1,make2,2,S. Livingston,D. Green
 108,2,11:11.0,39,32,GSW,DET,17,away,JS,assist,6,make2,2,B. Marjanović,D. Hilliard
 109,2,11:11.0,39,32,GSW,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. West,B. Marjanović
@@ -122,7 +122,7 @@
 120,2,10:07.0,41,33,GSW,DET,0,home,Sub,,,,,K. Thompson,I. Clark
 121,2,10:00.0,41,33,GSW,DET,7,away,JS,,27,miss3,0,S. Johnson,
 122,2,10:00.0,41,33,GSW,DET,0,home,DefReb,,,DefReb,,D. Green,
-123,2,9:49.0,41,33,GSW,DET,11,home,BadPass,steal,,turnover,,D. Green,M. Morris
+123,2,9:49.0,41,33,GSW,DET,11,home,bad pass,steal,,turnover,,D. Green,M. Morris
 124,2,9:30.0,41,33,GSW,DET,19,away,JS,,12,miss2,0,I. Smith,
 125,2,9:30.0,41,33,GSW,DET,0,away,OffReb,,,OffReb,,B. Marjanović,
 126,2,9:25.0,41,33,GSW,DET,5,away,JS,,18,miss2,0,D. Hilliard,
@@ -163,15 +163,15 @@
 161,2,5:51.0,43,43,GSW,DET,0,away,Sub,,,,,S. Johnson,D. Hilliard
 162,2,5:51.0,43,44,GSW,DET,0,away,FreeThrow,,,make1,0,T. Harris,
 163,2,5:50.0,43,44,GSW,DET,1,home,DefReb,,,DefReb,,K. Durant,
-164,2,5:33.0,43,44,GSW,DET,17,home,BadPass,steal,,turnover,,K. Durant,T. Harris
+164,2,5:33.0,43,44,GSW,DET,17,home,bad pass,steal,,turnover,,K. Durant,T. Harris
 165,2,5:25.0,43,44,GSW,DET,8,away,JS,,26,miss3,0,R. Jackson,
 166,2,5:25.0,43,44,GSW,DET,0,home,DefReb,,,DefReb,,K. Durant,
 167,2,5:19.0,43,44,GSW,DET,6,home,JS,,27,miss3,0,K. Durant,
 168,2,5:18.0,43,44,GSW,DET,1,away,DefReb,,,DefReb,,A. Drummond,
-169,2,5:03.0,43,44,GSW,DET,15,away,LostBall,steal,,turnover,,A. Drummond,S. Curry
+169,2,5:03.0,43,44,GSW,DET,15,away,lost ball,steal,,turnover,,A. Drummond,S. Curry
 170,2,4:57.0,43,44,GSW,DET,6,home,JS,,26,miss3,0,S. Curry,
 171,2,4:57.0,43,44,GSW,DET,0,away,DefReb,,,DefReb,,A. Drummond,
-172,2,4:48.0,43,44,GSW,DET,9,away,BadPass,steal,,turnover,,R. Jackson,K. Durant
+172,2,4:48.0,43,44,GSW,DET,9,away,bad pass,steal,,turnover,,R. Jackson,K. Durant
 173,2,4:42.0,45,44,GSW,DET,6,home,LU,assist,1,make2,2,S. Curry,K. Durant
 174,2,4:32.0,45,44,GSW,DET,10,away,Timeout,,,,,,
 175,2,4:17.0,45,46,GSW,DET,15,away,JS,,15,make2,2,M. Morris,
@@ -215,7 +215,7 @@
 213,2,0:03.0,60,58,GSW,DET,2,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,K. Thompson,R. Jackson
 214,2,0:03.0,60,58,GSW,DET,0,away,Timeout,,,,,,
 215,2,0:03.0,60,58,GSW,DET,0,home,Sub,,,,,S. Livingston,K. Thompson
-216,2,0:03.0,60,58,GSW,DET,0,away,LostBall,steal,,turnover,,M. Morris,D. West
+216,2,0:03.0,60,58,GSW,DET,0,away,lost ball,steal,,turnover,,M. Morris,D. West
 217,2,0:01.0,60,58,GSW,DET,2,home,JS,,61,miss3,0,D. West,
 218,2,0:00.0,60,58,GSW,DET,1,home,OffReb,,,OffReb,,Team,
 219,3,11:42.0,62,58,GSW,DET,18,home,JS,assist,18,make2,2,K. Durant,D. Green
@@ -228,7 +228,7 @@
 226,3,10:54.0,62,60,GSW,DET,0,home,FreeThrow,,,make1,0,K. Thompson,
 227,3,10:54.0,62,60,GSW,DET,0,home,OffReb,,,OffReb,,Team,
 228,3,10:54.0,63,60,GSW,DET,0,home,FreeThrow,,,make1,1,K. Thompson,
-229,3,10:45.0,63,60,GSW,DET,9,away,BadPass,steal,,turnover,,M. Morris,S. Curry
+229,3,10:45.0,63,60,GSW,DET,9,away,bad pass,steal,,turnover,,M. Morris,S. Curry
 230,3,10:39.0,65,60,GSW,DET,6,home,LU,assist,2,make2,2,K. Thompson,Z. Pachulia
 231,3,10:18.0,65,62,GSW,DET,21,away,JS,,14,make2,2,T. Harris,
 232,3,10:13.0,65,62,GSW,DET,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Jackson,K. Thompson
@@ -237,13 +237,13 @@
 235,3,9:57.0,65,62,GSW,DET,0,home,DefReb,,,DefReb,,K. Durant,
 236,3,9:45.0,65,62,GSW,DET,12,home,JS,,26,miss3,0,K. Durant,
 237,3,9:45.0,65,62,GSW,DET,0,away,DefReb,,,DefReb,,A. Drummond,
-238,3,9:34.0,65,62,GSW,DET,11,away,BadPass,steal,,turnover,,A. Drummond,S. Curry
+238,3,9:34.0,65,62,GSW,DET,11,away,bad pass,steal,,turnover,,A. Drummond,S. Curry
 239,3,9:28.0,68,62,GSW,DET,6,home,JS,assist,26,make3,3,K. Thompson,S. Curry
 240,3,9:07.0,68,62,GSW,DET,21,away,JS,,27,miss3,0,R. Jackson,
 241,3,9:07.0,68,62,GSW,DET,0,home,DefReb,,,DefReb,,Team,
-242,3,9:03.0,68,62,GSW,DET,4,home,BadPass,steal,,turnover,,S. Curry,A. Drummond
+242,3,9:03.0,68,62,GSW,DET,4,home,bad pass,steal,,turnover,,S. Curry,A. Drummond
 243,3,8:54.0,68,65,GSW,DET,9,away,JS,,26,make3,3,R. Jackson,
-244,3,8:38.0,68,65,GSW,DET,16,home,BadPass,steal,,turnover,,K. Durant,T. Harris
+244,3,8:38.0,68,65,GSW,DET,16,home,bad pass,steal,,turnover,,K. Durant,T. Harris
 245,3,8:37.0,68,65,GSW,DET,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Thompson,S. Johnson
 246,3,8:23.0,68,65,GSW,DET,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,A. Drummond
 247,3,8:23.0,68,65,GSW,DET,0,away,FreeThrow,,,make1,0,A. Drummond,
@@ -261,7 +261,7 @@
 259,3,7:24.0,70,65,GSW,DET,0,home,DefReb,,,DefReb,,Z. Pachulia,
 260,3,7:08.0,73,65,GSW,DET,16,home,JS,assist,27,make3,3,K. Thompson,D. Green
 261,3,7:07.0,73,65,GSW,DET,1,away,Timeout,,,,,,
-262,3,6:54.0,73,65,GSW,DET,13,away,LostBall,steal,,turnover,,A. Drummond,S. Curry
+262,3,6:54.0,73,65,GSW,DET,13,away,lost ball,steal,,turnover,,A. Drummond,S. Curry
 263,3,6:49.0,73,65,GSW,DET,5,home,JS,,27,miss3,0,S. Curry,
 264,3,6:48.0,73,65,GSW,DET,1,home,OffReb,,,OffReb,,D. Green,
 265,3,6:48.0,73,65,GSW,DET,0,home,LU,,2,miss2,0,D. Green,
@@ -321,7 +321,7 @@
 319,3,1:15.0,95,75,GSW,DET,12,home,DK,assist,0,make2,2,J. McGee,D. Green
 320,3,0:57.0,95,75,GSW,DET,18,away,DblDribble,,,turnover,,D. Hilliard,
 321,3,0:49.0,98,75,GSW,DET,8,home,JS,,26,make3,3,S. Curry,
-322,3,0:39.0,98,75,GSW,DET,10,away,LostBall,steal,,turnover,,I. Smith,I. Clark
+322,3,0:39.0,98,75,GSW,DET,10,away,lost ball,steal,,turnover,,I. Smith,I. Clark
 323,3,0:38.0,98,75,GSW,DET,1,home,KickedBallTurnover,,,turnover,,S. Curry,
 324,3,0:24.0,98,77,GSW,DET,14,away,JS,assist,18,make2,2,T. Harris,B. Marjanović
 325,3,0:04.0,101,77,GSW,DET,20,home,JS,assist,25,make3,3,I. Clark,S. Curry
@@ -363,7 +363,7 @@
 361,4,7:35.0,107,90,GSW,DET,10,away,JS,,19,miss2,0,B. Udrih,
 362,4,7:34.0,107,90,GSW,DET,1,home,DefReb,,,DefReb,,K. Thompson,
 363,4,7:29.0,109,90,GSW,DET,5,home,JS,assist,13,make2,2,S. Livingston,K. Thompson
-364,4,7:08.0,109,90,GSW,DET,21,away,BadPass,steal,,turnover,,B. Udrih,K. Thompson
+364,4,7:08.0,109,90,GSW,DET,21,away,bad pass,steal,,turnover,,B. Udrih,K. Thompson
 365,4,7:04.0,109,90,GSW,DET,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,A. Iguodala
 366,4,7:04.0,109,90,GSW,DET,0,home,Sub,,,,,I. Clark,A. Iguodala
 367,4,7:04.0,109,90,GSW,DET,0,home,Sub,,,,,K. Durant,D. Green
@@ -408,7 +408,7 @@
 406,4,3:38.0,122,98,GSW,DET,0,home,Sub,,,,,P. McCaw,K. Thompson
 407,4,3:36.0,122,98,GSW,DET,2,away,DefReb,,,DefReb,,H. Ellenson,
 408,4,3:24.0,122,100,GSW,DET,12,away,JS,,18,make2,2,D. Hilliard,
-409,4,3:01.0,122,100,GSW,DET,23,home,LostBall,steal,,turnover,,P. McCaw,B. Udrih
+409,4,3:01.0,122,100,GSW,DET,23,home,lost ball,steal,,turnover,,P. McCaw,B. Udrih
 410,4,2:55.0,122,100,GSW,DET,6,away,JS,,27,miss3,0,D. Hilliard,
 411,4,2:54.0,122,100,GSW,DET,1,home,DefReb,,,DefReb,,K. Looney,
 412,4,2:42.0,122,100,GSW,DET,12,home,JS,,11,miss2,0,I. Clark,
@@ -417,7 +417,7 @@
 415,4,2:38.0,122,102,GSW,DET,0,away,LU,,2,make2,2,B. Udrih,
 416,4,2:38.0,122,102,GSW,DET,0,home,JumpBallViolation,,,JumpBallViolation,,Team,
 417,4,2:22.0,124,102,GSW,DET,16,home,JS,assist,13,make2,2,I. Clark,S. Livingston
-418,4,2:11.0,124,102,GSW,DET,11,away,BadPass,steal,,turnover,,H. Ellenson,K. Looney
+418,4,2:11.0,124,102,GSW,DET,11,away,bad pass,steal,,turnover,,H. Ellenson,K. Looney
 419,4,1:56.0,124,102,GSW,DET,15,home,JS,,10,miss2,0,S. Livingston,
 420,4,1:55.0,124,102,GSW,DET,1,away,DefReb,,,DefReb,,H. Ellenson,
 421,4,1:49.0,124,102,GSW,DET,6,away,JS,,26,miss3,0,B. Udrih,
@@ -433,4 +433,4 @@
 431,4,0:40.0,127,107,GSW,DET,15,home,DK,assist,0,make2,2,K. Looney,A. Varejão
 432,4,0:28.0,127,107,GSW,DET,12,away,JS,,24,miss3,0,I. Smith,
 433,4,0:28.0,127,107,GSW,DET,0,home,DefReb,,,DefReb,,K. Looney,
-434,4,0:08.0,127,107,GSW,DET,20,home,BadPass,steal,,turnover,,A. Varejão,A. Baynes
+434,4,0:08.0,127,107,GSW,DET,20,home,bad pass,steal,,turnover,,A. Varejão,A. Baynes

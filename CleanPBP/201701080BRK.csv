@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:48.0,0,0,BRK,PHI,12,home,JS,,16,miss2,0,B. Bogdanović,
 1,1,11:47.0,0,0,BRK,PHI,1,away,DefReb,,,DefReb,,N. Stauskas,
-2,1,11:35.0,0,0,BRK,PHI,12,away,BadPass,steal,,turnover,,T. McConnell,T. Booker
+2,1,11:35.0,0,0,BRK,PHI,12,away,bad pass,steal,,turnover,,T. McConnell,T. Booker
 3,1,11:31.0,0,0,BRK,PHI,4,home,LU,,2,miss2,0,T. Booker,
 4,1,11:29.0,0,0,BRK,PHI,2,home,OffReb,,,OffReb,,B. Bogdanović,
 5,1,11:28.0,2,0,BRK,PHI,1,home,LU,,3,make2,2,B. Bogdanović,
@@ -54,7 +54,7 @@
 52,1,6:30.0,14,9,BRK,PHI,14,away,JS,assist,17,make2,2,N. Noel,T. McConnell
 53,1,6:17.0,14,9,BRK,PHI,13,home,Sub,,,,,S. Kilpatrick,J. Harris
 54,1,6:17.0,14,9,BRK,PHI,0,away,Sub,,,,,D. Šarić,E. İlyasova
-55,1,6:10.0,14,9,BRK,PHI,7,home,LostBall,steal,,turnover,,I. Whitehead,T. McConnell
+55,1,6:10.0,14,9,BRK,PHI,7,home,lost ball,steal,,turnover,,I. Whitehead,T. McConnell
 56,1,6:04.0,14,9,BRK,PHI,6,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,S. Kilpatrick,D. Šarić
 57,1,6:04.0,14,10,BRK,PHI,0,away,FreeThrow,,,make1,1,D. Šarić,
 58,1,6:04.0,14,10,BRK,PHI,0,home,Sub,,,,,J. Hamilton,B. Lopez
@@ -68,7 +68,7 @@
 66,1,4:53.0,19,11,BRK,PHI,0,home,Sub,,,,,R. Hollis-Jefferson,T. Booker
 67,1,4:38.0,22,11,BRK,PHI,15,home,JS,assist,24,make3,3,J. Hamilton,S. Kilpatrick
 68,1,4:19.0,22,13,BRK,PHI,19,away,JS,assist,17,make2,2,N. Noel,T. McConnell
-69,1,3:57.0,22,13,BRK,PHI,22,home,LostBall,steal,,turnover,,S. Kilpatrick,N. Noel
+69,1,3:57.0,22,13,BRK,PHI,22,home,lost ball,steal,,turnover,,S. Kilpatrick,N. Noel
 70,1,3:53.0,22,15,BRK,PHI,4,away,DK,,0,make2,2,R. Covington,
 71,1,3:48.0,22,15,BRK,PHI,5,home,Timeout,,,,,,
 72,1,3:48.0,22,15,BRK,PHI,0,home,Sub,,,,,C. LeVert,B. Bogdanović
@@ -150,7 +150,7 @@
 148,2,8:28.0,36,32,BRK,PHI,0,home,FreeThrow,,,make1,0,J. Hamilton misses flagrant free throw 1 of 2,
 149,2,8:28.0,36,32,BRK,PHI,0,home,OffReb,,,OffReb,,Team,
 150,2,8:28.0,37,32,BRK,PHI,0,home,FreeThrow,,,make1,1,J. Hamilton makes flagrant free throw 2 of 2,
-151,2,8:23.0,37,32,BRK,PHI,5,home,LostBall,steal,,turnover,,C. LeVert,R. Covington
+151,2,8:23.0,37,32,BRK,PHI,5,home,lost ball,steal,,turnover,,C. LeVert,R. Covington
 152,2,8:09.0,37,32,BRK,PHI,14,away,D3SecTech,,,,,,
 153,2,8:09.0,37,33,BRK,PHI,0,away,FreeThrow,,,make1,1,G. Henderson makes technical free throw,
 154,2,8:01.0,37,33,BRK,PHI,8,away,JS,,25,miss3,0,D. Šarić,
@@ -161,7 +161,7 @@
 159,2,7:33.0,37,33,BRK,PHI,1,home,DefReb,,,DefReb,,J. Hamilton,
 160,2,7:19.0,39,33,BRK,PHI,14,home,JS,,12,make2,2,R. Hollis-Jefferson,
 161,2,7:05.0,39,35,BRK,PHI,14,away,JS,,6,make2,2,D. Šarić,
-162,2,7:01.0,39,35,BRK,PHI,4,home,LostBall,steal,,turnover,,S. Kilpatrick,R. Covington
+162,2,7:01.0,39,35,BRK,PHI,4,home,lost ball,steal,,turnover,,S. Kilpatrick,R. Covington
 163,2,6:53.0,39,35,BRK,PHI,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Hamilton,D. Šarić
 164,2,6:53.0,39,36,BRK,PHI,0,away,FreeThrow,,,make1,1,D. Šarić,
 165,2,6:53.0,39,36,BRK,PHI,0,away,Sub,,,,,T. McConnell,S. Rodríguez
@@ -204,10 +204,10 @@
 202,2,3:24.0,48,42,BRK,PHI,12,away,LU,,1,miss2,0,R. Covington,
 203,2,3:23.0,48,42,BRK,PHI,1,away,OffReb,,,OffReb,,N. Noel,
 204,2,3:22.0,48,44,BRK,PHI,1,away,DK,,0,make2,2,N. Noel,
-205,2,3:12.0,48,44,BRK,PHI,10,home,BadPass,steal,,turnover,,I. Whitehead,N. Noel
+205,2,3:12.0,48,44,BRK,PHI,10,home,bad pass,steal,,turnover,,I. Whitehead,N. Noel
 206,2,3:05.0,48,44,BRK,PHI,7,away,JS,,25,miss3,0,D. Šarić,
 207,2,3:04.0,48,44,BRK,PHI,1,home,DefReb,,,DefReb,,I. Whitehead,
-208,2,3:00.0,48,44,BRK,PHI,4,home,LostBall,steal,,turnover,,I. Whitehead,R. Covington
+208,2,3:00.0,48,44,BRK,PHI,4,home,lost ball,steal,,turnover,,I. Whitehead,R. Covington
 209,2,2:49.0,48,44,BRK,PHI,11,away,JS,,25,miss3,0,T. McConnell,
 210,2,2:48.0,48,44,BRK,PHI,1,away,OffReb,,,OffReb,,Team,
 211,2,2:48.0,48,44,BRK,PHI,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Booker,N. Noel
@@ -215,7 +215,7 @@
 213,2,2:48.0,48,45,BRK,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
 214,2,2:48.0,48,46,BRK,PHI,0,away,FreeThrow,,,make1,1,N. Noel,
 215,2,2:35.0,50,46,BRK,PHI,13,home,HS,assist,7,make2,2,B. Lopez,B. Bogdanović
-216,2,2:17.0,50,46,BRK,PHI,18,away,BadPass,steal,,turnover,,D. Šarić,B. Lopez
+216,2,2:17.0,50,46,BRK,PHI,18,away,bad pass,steal,,turnover,,D. Šarić,B. Lopez
 217,2,2:04.0,50,46,BRK,PHI,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Noel,B. Lopez
 218,2,2:04.0,51,46,BRK,PHI,0,home,FreeThrow,,,make1,1,B. Lopez,
 219,2,2:04.0,51,46,BRK,PHI,0,away,Sub,,,,,E. İlyasova,N. Stauskas
@@ -230,7 +230,7 @@
 228,2,1:16.0,52,46,BRK,PHI,1,away,OffReb,,,OffReb,,Team,
 229,2,1:02.0,52,46,BRK,PHI,14,away,JS,,24,miss3,0,E. İlyasova,
 230,2,1:01.0,52,46,BRK,PHI,1,home,DefReb,,,DefReb,,B. Bogdanović,
-231,2,0:56.0,52,46,BRK,PHI,5,home,BadPass,steal,,turnover,,B. Bogdanović,D. Šarić
+231,2,0:56.0,52,46,BRK,PHI,5,home,bad pass,steal,,turnover,,B. Bogdanović,D. Šarić
 232,2,0:45.0,52,46,BRK,PHI,11,away,BadPass,,,turnover,,D. Šarić,
 233,2,0:40.0,54,46,BRK,PHI,5,home,LU,,2,make2,2,I. Whitehead,
 234,2,0:29.0,54,46,BRK,PHI,11,away,JS,,18,miss2,0,T. McConnell,
@@ -293,8 +293,8 @@
 291,3,6:18.0,63,62,BRK,PHI,2,home,Sub,,,,,J. Hamilton,B. Lopez
 292,3,6:18.0,63,62,BRK,PHI,0,home,Sub,,,,,S. Kilpatrick,J. Harris
 293,3,6:09.0,63,64,BRK,PHI,9,away,JS,,5,make2,2,T. McConnell,
-294,3,5:50.0,63,64,BRK,PHI,19,home,BadPass,steal,,turnover,,R. Hollis-Jefferson,R. Covington
-295,3,5:36.0,63,64,BRK,PHI,14,away,BadPass,steal,,turnover,,N. Stauskas,S. Kilpatrick
+294,3,5:50.0,63,64,BRK,PHI,19,home,bad pass,steal,,turnover,,R. Hollis-Jefferson,R. Covington
+295,3,5:36.0,63,64,BRK,PHI,14,away,bad pass,steal,,turnover,,N. Stauskas,S. Kilpatrick
 296,3,5:33.0,63,64,BRK,PHI,3,home,JS,,28,miss3,0,B. Bogdanović,
 297,3,5:31.0,63,64,BRK,PHI,2,away,DefReb,,,DefReb,,N. Stauskas,
 298,3,5:15.0,63,67,BRK,PHI,16,away,JS,assist,25,make3,3,D. Šarić,R. Covington
@@ -302,7 +302,7 @@
 300,3,4:40.0,65,69,BRK,PHI,19,away,LU,,2,make2,2,N. Stauskas,
 301,3,4:24.0,65,69,BRK,PHI,16,home,HS,,5,miss2,0,J. Hamilton,
 302,3,4:23.0,65,69,BRK,PHI,1,away,DefReb,,,DefReb,,T. McConnell,
-303,3,4:15.0,65,69,BRK,PHI,8,away,LostBall,steal,,turnover,,T. McConnell,R. Hollis-Jefferson
+303,3,4:15.0,65,69,BRK,PHI,8,away,lost ball,steal,,turnover,,T. McConnell,R. Hollis-Jefferson
 304,3,4:11.0,65,69,BRK,PHI,4,home,LU,block,2,miss2,0,R. Hollis-Jefferson,R. Covington
 305,3,4:09.0,65,69,BRK,PHI,2,away,DefReb,,,DefReb,,D. Šarić,
 306,3,4:03.0,65,71,BRK,PHI,6,away,JS,,8,make2,2,R. Covington,
@@ -311,7 +311,7 @@
 309,3,3:26.0,65,74,BRK,PHI,20,away,JS,,27,make3,3,N. Stauskas,
 310,3,3:14.0,65,74,BRK,PHI,12,home,LU,,2,miss2,0,S. Kilpatrick,
 311,3,3:12.0,65,74,BRK,PHI,2,away,DefReb,,,DefReb,,R. Covington,
-312,3,3:02.0,65,74,BRK,PHI,10,away,BadPass,steal,,turnover,,D. Šarić,B. Bogdanović
+312,3,3:02.0,65,74,BRK,PHI,10,away,bad pass,steal,,turnover,,D. Šarić,B. Bogdanović
 313,3,3:02.0,65,74,BRK,PHI,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Stauskas,B. Bogdanović
 314,3,3:02.0,65,74,BRK,PHI,0,home,Sub,,,,,C. LeVert,B. Bogdanović
 315,3,3:02.0,65,74,BRK,PHI,0,away,Sub,,,,,G. Henderson,T. McConnell
@@ -320,7 +320,7 @@
 318,3,2:50.0,65,74,BRK,PHI,2,away,DefReb,,,DefReb,,D. Šarić,
 319,3,2:41.0,65,74,BRK,PHI,9,away,LU,,2,miss2,0,G. Henderson,
 320,3,2:40.0,65,74,BRK,PHI,1,home,DefReb,,,DefReb,,C. LeVert,
-321,3,2:34.0,65,74,BRK,PHI,6,home,BadPass,steal,,turnover,,C. LeVert,N. Noel
+321,3,2:34.0,65,74,BRK,PHI,6,home,bad pass,steal,,turnover,,C. LeVert,N. Noel
 322,3,2:24.0,65,74,BRK,PHI,10,away,JS,,25,miss3,0,N. Stauskas,
 323,3,2:23.0,65,74,BRK,PHI,1,home,DefReb,,,DefReb,,Team,
 324,3,2:23.0,65,74,BRK,PHI,0,home,Sub,,,,,B. Lopez,R. Hollis-Jefferson
@@ -338,7 +338,7 @@
 336,3,1:24.0,68,76,BRK,PHI,1,away,OffReb,,,OffReb,,Team,
 337,3,1:15.0,68,76,BRK,PHI,9,away,JS,,8,miss2,0,S. Rodríguez,
 338,3,1:14.0,68,76,BRK,PHI,1,home,DefReb,,,DefReb,,S. Dinwiddie,
-339,3,1:06.0,68,76,BRK,PHI,8,home,BadPass,steal,,turnover,,S. Dinwiddie,R. Covington
+339,3,1:06.0,68,76,BRK,PHI,8,home,bad pass,steal,,turnover,,S. Dinwiddie,R. Covington
 340,3,0:57.0,68,76,BRK,PHI,9,away,JS,,4,miss2,0,R. Covington,
 341,3,0:57.0,68,76,BRK,PHI,0,away,OffReb,,,OffReb,,R. Covington,
 342,3,0:56.0,68,78,BRK,PHI,1,away,LU,,3,make2,2,R. Covington,
@@ -374,7 +374,7 @@
 372,4,9:19.0,78,82,BRK,PHI,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. İlyasova,I. Whitehead
 373,4,9:19.0,78,82,BRK,PHI,0,home,Sub,,,,,J. Hamilton,B. Lopez
 374,4,9:02.0,80,82,BRK,PHI,17,home,LU,,2,make2,2,R. Hollis-Jefferson,
-375,4,8:49.0,80,82,BRK,PHI,13,away,LostBall,steal,,turnover,,J. Embiid,R. Hollis-Jefferson
+375,4,8:49.0,80,82,BRK,PHI,13,away,lost ball,steal,,turnover,,J. Embiid,R. Hollis-Jefferson
 376,4,8:44.0,82,82,BRK,PHI,5,home,LU,assist,2,make2,2,C. LeVert,I. Whitehead
 377,4,8:44.0,82,82,BRK,PHI,0,away,Timeout,,,,,,
 378,4,8:44.0,82,82,BRK,PHI,0,away,Sub,,,,,N. Stauskas,G. Henderson
@@ -439,7 +439,7 @@
 437,4,2:42.0,87,96,BRK,PHI,3,home,JS,,25,miss3,0,B. Bogdanović,
 438,4,2:39.0,87,96,BRK,PHI,3,away,DefReb,,,DefReb,,N. Stauskas,
 439,4,2:21.0,87,98,BRK,PHI,18,away,LU,,2,make2,2,T. McConnell,
-440,4,2:14.0,87,98,BRK,PHI,7,home,LostBall,steal,,turnover,,S. Kilpatrick,T. McConnell
+440,4,2:14.0,87,98,BRK,PHI,7,home,lost ball,steal,,turnover,,S. Kilpatrick,T. McConnell
 441,4,1:57.0,87,101,BRK,PHI,17,away,JS,assist,23,make3,3,R. Covington,T. McConnell
 442,4,1:57.0,87,101,BRK,PHI,0,home,Timeout,,,,,,
 443,4,1:57.0,87,101,BRK,PHI,0,home,Sub,,,,,C. LeVert,S. Dinwiddie

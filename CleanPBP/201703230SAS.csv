@@ -58,7 +58,7 @@
 56,1,4:10.0,17,12,SAS,MEM,17,home,JS,assist,15,make2,2,L. Aldridge,M. Ginóbili
 57,1,3:50.0,17,14,SAS,MEM,20,away,JS,assist,20,make2,2,M. Gasol,A. Harrison
 58,1,3:37.0,19,14,SAS,MEM,13,home,JS,assist,13,make2,2,L. Aldridge,P. Mills
-59,1,3:33.0,19,14,SAS,MEM,4,away,BadPass,steal,,turnover,,M. Gasol,M. Ginóbili
+59,1,3:33.0,19,14,SAS,MEM,4,away,bad pass,steal,,turnover,,M. Gasol,M. Ginóbili
 60,1,3:27.0,21,14,SAS,MEM,6,home,JS,assist,21,make2,2,L. Aldridge,M. Ginóbili
 61,1,3:02.0,21,17,SAS,MEM,25,away,JS,assist,24,make3,3,V. Carter,A. Harrison
 62,1,2:51.0,21,17,SAS,MEM,11,home,JS,,24,miss3,0,P. Mills,
@@ -72,7 +72,7 @@
 70,1,2:21.0,21,19,SAS,MEM,2,home,OffReb,,,OffReb,,K. Leonard,
 71,1,2:15.0,21,19,SAS,MEM,6,home,JS,,18,miss2,0,L. Aldridge,
 72,1,2:14.0,21,19,SAS,MEM,1,away,DefReb,,,DefReb,,A. Harrison,
-73,1,1:57.0,21,19,SAS,MEM,17,away,BadPass,steal,,turnover,,M. Gasol,P. Mills
+73,1,1:57.0,21,19,SAS,MEM,17,away,bad pass,steal,,turnover,,M. Gasol,P. Mills
 74,1,1:57.0,21,19,SAS,MEM,0,home,Sub,,,,,J. Simmons,K. Leonard
 75,1,1:46.0,21,19,SAS,MEM,11,home,JS,,24,miss3,0,P. Mills,
 76,1,1:45.0,21,19,SAS,MEM,1,away,DefReb,,,DefReb,,M. Gasol,
@@ -151,7 +151,7 @@
 149,2,5:22.0,45,32,SAS,MEM,1,away,DefReb,,,DefReb,,T. Allen,
 150,2,5:16.0,45,32,SAS,MEM,6,away,LU,block,1,miss2,0,A. Harrison,L. Aldridge
 151,2,5:15.0,45,32,SAS,MEM,1,home,DefReb,,,DefReb,,K. Leonard,
-152,2,5:10.0,45,32,SAS,MEM,5,home,BadPass,steal,,turnover,,D. Green,T. Allen
+152,2,5:10.0,45,32,SAS,MEM,5,home,bad pass,steal,,turnover,,D. Green,T. Allen
 153,2,5:05.0,45,34,SAS,MEM,5,away,LU,,2,make2,2,T. Allen,
 154,2,5:05.0,45,34,SAS,MEM,0,home,Timeout,,,,,,
 155,2,5:05.0,45,34,SAS,MEM,0,home,Sub,,,,,P. Gasol,D. Lee
@@ -172,7 +172,7 @@
 170,2,3:05.0,47,36,SAS,MEM,22,away,JS,,25,miss3,0,M. Conley,
 171,2,3:04.0,47,36,SAS,MEM,1,home,DefReb,,,DefReb,,L. Aldridge,
 172,2,2:58.0,49,36,SAS,MEM,6,home,JS,,21,make2,2,T. Parker,
-173,2,2:40.0,49,36,SAS,MEM,18,away,BadPass,steal,,turnover,,M. Conley,P. Gasol
+173,2,2:40.0,49,36,SAS,MEM,18,away,bad pass,steal,,turnover,,M. Conley,P. Gasol
 174,2,2:33.0,49,36,SAS,MEM,7,home,JS,,13,miss2,0,K. Leonard,
 175,2,2:32.0,49,36,SAS,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
 176,2,2:23.0,49,39,SAS,MEM,9,away,JS,assist,25,make3,3,M. Gasol,M. Conley
@@ -192,10 +192,10 @@
 190,2,0:46.0,51,39,SAS,MEM,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Ginóbili,Z. Randolph
 191,2,0:46.0,51,40,SAS,MEM,0,away,FreeThrow,,,make1,1,Z. Randolph,
 192,2,0:46.0,51,41,SAS,MEM,0,away,FreeThrow,,,make1,1,Z. Randolph,
-193,2,0:33.0,51,41,SAS,MEM,13,home,BadPass,steal,,turnover,,K. Leonard,V. Carter
+193,2,0:33.0,51,41,SAS,MEM,13,home,bad pass,steal,,turnover,,K. Leonard,V. Carter
 194,2,0:28.0,51,41,SAS,MEM,5,away,JS,,27,miss3,0,V. Carter,
 195,2,0:25.0,51,41,SAS,MEM,3,home,DefReb,,,DefReb,,K. Leonard,
-196,2,0:22.0,51,41,SAS,MEM,3,home,BadPass,steal,,turnover,,P. Gasol,T. Allen
+196,2,0:22.0,51,41,SAS,MEM,3,home,bad pass,steal,,turnover,,P. Gasol,T. Allen
 197,2,0:17.0,51,41,SAS,MEM,5,away,JS,,17,miss2,0,T. Allen,
 198,2,0:17.0,51,41,SAS,MEM,0,away,OffReb,,,OffReb,,M. Gasol,
 199,2,0:17.0,51,41,SAS,MEM,0,away,BadPass,,,turnover,,M. Gasol,
@@ -297,11 +297,11 @@
 295,3,0:26.0,72,67,SAS,MEM,2,away,DefReb,,,DefReb,,Z. Randolph,
 296,3,0:24.0,72,69,SAS,MEM,2,away,DK,assist,0,make2,2,J. Ennis,Z. Randolph
 297,3,0:02.0,74,69,SAS,MEM,22,home,LU,,2,make2,2,K. Leonard,
-298,3,0:02.0,74,69,SAS,MEM,0,away,BadPass,steal,,turnover,,M. Gasol,M. Ginóbili
+298,3,0:02.0,74,69,SAS,MEM,0,away,bad pass,steal,,turnover,,M. Gasol,M. Ginóbili
 299,3,0:01.0,74,69,SAS,MEM,1,home,JS,,21,miss2,0,M. Ginóbili,
 300,3,0:00.0,74,69,SAS,MEM,1,home,OffReb,,,OffReb,,Team,
-301,4,11:43.0,74,69,SAS,MEM,17,home,BadPass,steal,,turnover,,P. Mills,A. Harrison
-302,4,11:19.0,74,69,SAS,MEM,24,away,LostBall,steal,,turnover,,Z. Randolph,D. Lee
+301,4,11:43.0,74,69,SAS,MEM,17,home,bad pass,steal,,turnover,,P. Mills,A. Harrison
+302,4,11:19.0,74,69,SAS,MEM,24,away,lost ball,steal,,turnover,,Z. Randolph,D. Lee
 303,4,11:13.0,74,69,SAS,MEM,6,home,JS,,25,miss3,0,D. Green,
 304,4,11:09.0,74,69,SAS,MEM,4,away,DefReb,,,DefReb,,J. Ennis,
 305,4,10:48.0,74,69,SAS,MEM,21,away,JS,,7,miss2,0,B. Wright,
@@ -368,7 +368,7 @@
 366,4,4:25.0,85,76,SAS,MEM,8,away,LU,assist,3,make2,2,Z. Randolph,T. Allen
 367,4,4:07.0,85,76,SAS,MEM,18,home,JS,,25,miss3,0,K. Leonard,
 368,4,4:05.0,85,76,SAS,MEM,2,away,DefReb,,,DefReb,,Z. Randolph,
-369,4,3:58.0,85,76,SAS,MEM,7,away,BadPass,steal,,turnover,,M. Conley,K. Leonard
+369,4,3:58.0,85,76,SAS,MEM,7,away,bad pass,steal,,turnover,,M. Conley,K. Leonard
 370,4,3:54.0,87,76,SAS,MEM,4,home,LU,assist,3,make2,2,P. Mills,T. Parker
 371,4,3:54.0,87,76,SAS,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Daniels,P. Mills
 372,4,3:54.0,88,76,SAS,MEM,0,home,FreeThrow,,,make1,1,P. Mills,

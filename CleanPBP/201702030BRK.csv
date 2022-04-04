@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:44.0,0,0,BRK,IND,16,home,BadPass,steal,,turnover,,R. Hollis-Jefferson,T. Young
+0,1,11:44.0,0,0,BRK,IND,16,home,bad pass,steal,,turnover,,R. Hollis-Jefferson,T. Young
 1,1,11:31.0,0,3,BRK,IND,13,away,JS,assist,24,make3,3,C. Miles,J. Teague
 2,1,11:17.0,2,3,BRK,IND,14,home,LU,,1,make2,2,R. Hollis-Jefferson,
 3,1,10:58.0,2,3,BRK,IND,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Whitehead,J. Teague
@@ -9,7 +9,7 @@
 7,1,10:43.0,2,6,BRK,IND,15,home,JS,,25,miss3,0,R. Foye,
 8,1,10:42.0,2,6,BRK,IND,1,away,DefReb,,,DefReb,,P. George,
 9,1,10:32.0,2,6,BRK,IND,10,away,LostBall,,,turnover,,T. Young,
-10,1,10:24.0,2,6,BRK,IND,8,home,BadPass,steal,,turnover,,I. Whitehead,P. George
+10,1,10:24.0,2,6,BRK,IND,8,home,bad pass,steal,,turnover,,I. Whitehead,P. George
 11,1,10:21.0,2,6,BRK,IND,3,away,LU,,2,miss2,0,P. George,
 12,1,10:20.0,2,6,BRK,IND,1,away,OffReb,,,OffReb,,P. George,
 13,1,10:19.0,2,6,BRK,IND,1,away,LU,,2,miss2,0,P. George,
@@ -34,7 +34,7 @@
 32,1,9:01.0,4,9,BRK,IND,2,away,DefReb,,,DefReb,,C. Miles,
 33,1,8:55.0,4,9,BRK,IND,6,away,JS,,26,miss3,0,C. Miles,
 34,1,8:54.0,4,9,BRK,IND,1,home,DefReb,,,DefReb,,R. Foye,
-35,1,8:33.0,4,9,BRK,IND,21,home,LostBall,steal,,turnover,,I. Whitehead,J. Teague
+35,1,8:33.0,4,9,BRK,IND,21,home,lost ball,steal,,turnover,,I. Whitehead,J. Teague
 36,1,8:25.0,4,12,BRK,IND,8,away,JS,assist,25,make3,3,J. Teague,P. George
 37,1,8:11.0,4,12,BRK,IND,14,home,JS,,24,miss3,0,I. Whitehead,
 38,1,8:09.0,4,12,BRK,IND,2,away,DefReb,,,DefReb,,T. Young,
@@ -49,7 +49,7 @@
 47,1,6:50.0,6,14,BRK,IND,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. LeVert,P. George
 48,1,6:50.0,6,15,BRK,IND,0,away,FreeThrow,,,make1,1,P. George,
 49,1,6:50.0,6,16,BRK,IND,0,away,FreeThrow,,,make1,1,P. George,
-50,1,6:41.0,6,16,BRK,IND,9,home,LostBall,steal,,turnover,,R. Hollis-Jefferson,P. George
+50,1,6:41.0,6,16,BRK,IND,9,home,lost ball,steal,,turnover,,R. Hollis-Jefferson,P. George
 51,1,6:33.0,6,16,BRK,IND,8,away,JS,,25,miss3,0,M. Turner,
 52,1,6:31.0,6,16,BRK,IND,2,home,DefReb,,,DefReb,,B. Lopez,
 53,1,6:17.0,6,16,BRK,IND,14,home,LU,block,1,miss2,0,R. Foye,C. Miles
@@ -82,8 +82,8 @@
 80,1,3:20.0,11,21,BRK,IND,10,home,BadPass,,,turnover,,T. Booker,
 81,1,3:20.0,11,21,BRK,IND,0,home,Sub,,,,,L. Scola,B. Lopez
 82,1,3:20.0,11,21,BRK,IND,0,home,Sub,,,,,S. Kilpatrick,R. Foye
-83,1,3:15.0,11,21,BRK,IND,5,away,BadPass,steal,,turnover,,J. Teague,J. Harris
-84,1,3:08.0,11,21,BRK,IND,7,home,BadPass,steal,,turnover,,J. Harris,J. Teague
+83,1,3:15.0,11,21,BRK,IND,5,away,bad pass,steal,,turnover,,J. Teague,J. Harris
+84,1,3:08.0,11,21,BRK,IND,7,home,bad pass,steal,,turnover,,J. Harris,J. Teague
 85,1,3:02.0,11,21,BRK,IND,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Booker,M. Turner
 86,1,3:02.0,11,21,BRK,IND,0,away,Sub,,,,,A. Jefferson,M. Turner
 87,1,2:50.0,11,23,BRK,IND,12,away,JS,,16,make2,2,P. George,
@@ -113,12 +113,12 @@
 111,1,0:55.0,16,25,BRK,IND,0,away,FreeThrow,,,make1,1,A. Jefferson,
 112,1,0:47.0,16,25,BRK,IND,8,home,JS,,25,miss3,0,J. Harris,
 113,1,0:46.0,16,25,BRK,IND,1,away,DefReb,,,DefReb,,A. Jefferson,
-114,1,0:33.0,16,25,BRK,IND,13,away,BadPass,steal,,turnover,,A. Brooks,T. Booker
+114,1,0:33.0,16,25,BRK,IND,13,away,bad pass,steal,,turnover,,A. Brooks,T. Booker
 115,1,0:14.0,16,25,BRK,IND,19,home,LostBall,,,turnover,,L. Scola,
 116,1,0:03.0,16,27,BRK,IND,11,away,JS,,13,make2,2,A. Brooks,
 117,1,0:00.0,16,27,BRK,IND,3,home,JS,,15,miss2,0,J. Harris,
 118,1,0:00.0,16,27,BRK,IND,0,home,OffReb,,,OffReb,,Team,
-119,2,11:35.0,16,27,BRK,IND,25,away,LostBall,steal,,turnover,,M. Ellis,J. Harris
+119,2,11:35.0,16,27,BRK,IND,25,away,lost ball,steal,,turnover,,M. Ellis,J. Harris
 120,2,11:29.0,18,27,BRK,IND,6,home,LU,,1,make2,2,S. Dinwiddie,
 121,2,11:09.0,18,27,BRK,IND,20,away,LU,,1,miss2,0,A. Jefferson,
 122,2,11:08.0,18,27,BRK,IND,1,home,DefReb,,,DefReb,,L. Scola,
@@ -176,7 +176,7 @@
 174,2,5:55.0,31,40,BRK,IND,0,home,Timeout,,,,,,
 175,2,5:45.0,33,40,BRK,IND,10,home,DK,,0,make2,2,B. Lopez,
 176,2,5:30.0,33,42,BRK,IND,15,away,JS,assist,8,make2,2,P. George,J. Teague
-177,2,5:20.0,33,42,BRK,IND,10,home,BadPass,steal,,turnover,,C. LeVert,T. Young
+177,2,5:20.0,33,42,BRK,IND,10,home,bad pass,steal,,turnover,,C. LeVert,T. Young
 178,2,5:12.0,33,45,BRK,IND,8,away,JS,assist,24,make3,3,C. Miles,J. Teague
 179,2,5:01.0,33,45,BRK,IND,11,home,LU,block,2,miss2,0,S. Kilpatrick,P. George
 180,2,5:00.0,33,45,BRK,IND,1,home,OffReb,,,OffReb,,Team,
@@ -240,7 +240,7 @@
 238,3,10:19.0,48,63,BRK,IND,8,home,Timeout,,,,,,
 239,3,10:19.0,48,63,BRK,IND,0,home,Sub,,,,,S. Dinwiddie,I. Whitehead
 240,3,10:11.0,48,63,BRK,IND,8,home,LostBall,,,turnover,,R. Foye,
-241,3,9:58.0,48,63,BRK,IND,13,away,LostBall,steal,,turnover,,J. Teague,R. Foye
+241,3,9:58.0,48,63,BRK,IND,13,away,lost ball,steal,,turnover,,J. Teague,R. Foye
 242,3,9:51.0,48,63,BRK,IND,7,home,LU,block,3,miss2,0,B. Lopez,M. Turner
 243,3,9:50.0,48,63,BRK,IND,1,home,OffReb,,,OffReb,,Team,
 244,3,9:36.0,48,63,BRK,IND,14,home,JS,block,25,miss3,0,C. LeVert,P. George
@@ -257,7 +257,7 @@
 255,3,8:10.0,51,67,BRK,IND,15,home,JS,assist,23,make3,3,S. Dinwiddie,R. Hollis-Jefferson
 256,3,7:55.0,51,67,BRK,IND,15,away,JS,block,5,miss2,0,P. George,S. Dinwiddie
 257,3,7:54.0,51,67,BRK,IND,1,home,DefReb,,,DefReb,,R. Hollis-Jefferson,
-258,3,7:50.0,51,67,BRK,IND,4,home,LostBall,steal,,turnover,,R. Hollis-Jefferson,T. Young
+258,3,7:50.0,51,67,BRK,IND,4,home,lost ball,steal,,turnover,,R. Hollis-Jefferson,T. Young
 259,3,7:43.0,51,69,BRK,IND,7,away,DK,assist,0,make2,2,M. Turner,T. Young
 260,3,7:42.0,51,69,BRK,IND,1,home,Timeout,,,,,,
 261,3,7:28.0,53,69,BRK,IND,14,home,LU,,2,make2,2,B. Lopez,
@@ -296,7 +296,7 @@
 294,3,5:08.0,58,71,BRK,IND,4,away,LU,,1,miss2,0,T. Young,
 295,3,5:07.0,58,71,BRK,IND,1,away,OffReb,,,OffReb,,Team,
 296,3,5:05.0,58,71,BRK,IND,2,away,BackCourtTurnover,,,turnover,,Team,
-297,3,4:47.0,58,71,BRK,IND,18,home,LostBall,steal,,turnover,,J. Harris,T. Young
+297,3,4:47.0,58,71,BRK,IND,18,home,lost ball,steal,,turnover,,J. Harris,T. Young
 298,3,4:38.0,58,73,BRK,IND,9,away,JS,assist,20,make2,2,P. George,C. Miles
 299,3,4:26.0,58,73,BRK,IND,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Miles,J. Harris
 300,3,4:26.0,59,73,BRK,IND,0,home,FreeThrow,,,make1,1,J. Harris,
@@ -313,7 +313,7 @@
 311,3,3:46.0,62,73,BRK,IND,21,away,JS,,17,miss2,0,M. Ellis,
 312,3,3:46.0,62,73,BRK,IND,0,home,DefReb,,,DefReb,,S. Kilpatrick,
 313,3,3:31.0,64,73,BRK,IND,15,home,LU,assist,1,make2,2,T. Booker,S. Dinwiddie
-314,3,3:19.0,64,73,BRK,IND,12,away,BadPass,steal,,turnover,,M. Ellis,L. Scola
+314,3,3:19.0,64,73,BRK,IND,12,away,bad pass,steal,,turnover,,M. Ellis,L. Scola
 315,3,3:05.0,67,73,BRK,IND,14,home,JS,assist,27,make3,3,S. Dinwiddie,T. Booker
 316,3,3:04.0,67,73,BRK,IND,1,away,Timeout,,,,,,
 317,3,3:04.0,67,73,BRK,IND,0,away,Sub,,,,,A. Brooks,J. Teague
@@ -394,12 +394,12 @@
 392,4,8:03.0,85,85,BRK,IND,1,away,DefReb,,,DefReb,,M. Ellis,
 393,4,8:02.0,85,85,BRK,IND,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,Q. Acy,M. Ellis
 394,4,8:02.0,85,85,BRK,IND,0,home,Sub,,,,,S. Dinwiddie,S. Kilpatrick
-395,4,7:40.0,85,85,BRK,IND,22,away,LostBall,steal,,turnover,,P. George,C. LeVert
+395,4,7:40.0,85,85,BRK,IND,22,away,lost ball,steal,,turnover,,P. George,C. LeVert
 396,4,7:37.0,85,85,BRK,IND,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Teague,C. LeVert
 397,4,7:37.0,86,85,BRK,IND,0,home,FreeThrow,,,make1,1,C. LeVert,
 398,4,7:37.0,87,85,BRK,IND,0,home,FreeThrow,,,make1,1,C. LeVert,
 399,4,7:21.0,87,88,BRK,IND,16,away,JS,assist,24,make3,3,C. Miles,P. George
-400,4,7:11.0,87,88,BRK,IND,10,home,BadPass,steal,,turnover,,T. Booker,M. Ellis
+400,4,7:11.0,87,88,BRK,IND,10,home,bad pass,steal,,turnover,,T. Booker,M. Ellis
 401,4,6:57.0,87,88,BRK,IND,14,away,JS,block,6,miss2,0,J. Teague,Q. Acy
 402,4,6:55.0,87,88,BRK,IND,2,home,DefReb,,,DefReb,,C. LeVert,
 403,4,6:44.0,87,88,BRK,IND,11,home,JS,,25,miss3,0,Q. Acy,
@@ -430,7 +430,7 @@
 428,4,4:09.0,89,92,BRK,IND,0,home,Sub,,,,,S. Kilpatrick,R. Foye
 429,4,3:55.0,89,92,BRK,IND,14,away,ShotClockViolation,,,turnover,,Team,
 430,4,3:40.0,89,92,BRK,IND,15,home,Sub,,,,,J. Harris,S. Dinwiddie
-431,4,3:38.0,89,92,BRK,IND,2,home,LostBall,steal,,turnover,,B. Lopez,M. Ellis
+431,4,3:38.0,89,92,BRK,IND,2,home,lost ball,steal,,turnover,,B. Lopez,M. Ellis
 432,4,3:38.0,89,92,BRK,IND,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Kilpatrick,J. Teague
 433,4,3:38.0,89,93,BRK,IND,0,away,FreeThrow,,,make1,1,J. Teague,
 434,4,3:38.0,89,94,BRK,IND,0,away,FreeThrow,,,make1,1,J. Teague,
@@ -452,7 +452,7 @@
 450,4,2:12.0,93,96,BRK,IND,0,home,FreeThrow,,,make1,1,Q. Acy,
 451,4,1:59.0,93,98,BRK,IND,13,away,LU,,2,make2,2,M. Ellis,
 452,4,1:52.0,95,98,BRK,IND,7,home,LU,,2,make2,2,S. Kilpatrick,
-453,4,1:37.0,95,98,BRK,IND,15,away,BadPass,steal,,turnover,,P. George,J. Harris
+453,4,1:37.0,95,98,BRK,IND,15,away,bad pass,steal,,turnover,,P. George,J. Harris
 454,4,1:32.0,95,98,BRK,IND,5,home,LU,,3,miss2,0,Q. Acy,
 455,4,1:31.0,95,98,BRK,IND,1,away,DefReb,,,DefReb,,M. Ellis,
 456,4,1:21.0,95,100,BRK,IND,10,away,LU,,1,make2,2,J. Teague,
@@ -470,7 +470,7 @@
 468,4,0:45.0,97,102,BRK,IND,0,away,OffReb,,,OffReb,,Team,
 469,4,0:45.0,97,102,BRK,IND,0,away,Sub,,,,,G. Robinson,C. Miles
 470,4,0:45.0,97,103,BRK,IND,0,away,FreeThrow,,,make1,1,M. Ellis,
-471,4,0:32.0,97,103,BRK,IND,13,home,LostBall,steal,,turnover,,S. Kilpatrick,J. Teague
+471,4,0:32.0,97,103,BRK,IND,13,home,lost ball,steal,,turnover,,S. Kilpatrick,J. Teague
 472,4,0:31.0,97,103,BRK,IND,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Harris,J. Teague
 473,4,0:31.0,97,104,BRK,IND,0,away,FreeThrow,,,make1,1,J. Teague,
 474,4,0:31.0,97,105,BRK,IND,0,away,FreeThrow,,,make1,1,J. Teague,

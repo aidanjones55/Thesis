@@ -24,7 +24,7 @@
 22,1,8:56.0,6,5,TOR,BOS,9,away,JS,assist,23,make3,3,M. Smart,J. Crowder
 23,1,8:29.0,6,5,TOR,BOS,27,home,JS,,19,miss2,0,D. Carroll,
 24,1,8:28.0,6,5,TOR,BOS,1,away,DefReb,,,DefReb,,I. Thomas,
-25,1,8:10.0,6,5,TOR,BOS,18,away,BadPass,steal,,turnover,,A. Horford,D. DeRozan
+25,1,8:10.0,6,5,TOR,BOS,18,away,bad pass,steal,,turnover,,A. Horford,D. DeRozan
 26,1,8:02.0,6,5,TOR,BOS,8,home,JS,,24,miss3,0,P. Patterson,
 27,1,8:02.0,6,5,TOR,BOS,0,away,DefReb,,,DefReb,,A. Horford,
 28,1,7:53.0,6,7,TOR,BOS,9,away,LU,assist,5,make2,2,A. Johnson,A. Horford
@@ -49,7 +49,7 @@
 47,1,5:50.0,8,9,TOR,BOS,1,home,DefReb,,,DefReb,,D. DeRozan,
 48,1,5:41.0,10,9,TOR,BOS,9,home,LU,,1,make2,2,K. Lowry,
 49,1,5:41.0,10,9,TOR,BOS,0,away,Timeout,,,,,,
-50,1,5:27.0,10,9,TOR,BOS,14,away,BadPass,steal,,turnover,,J. Crowder,K. Lowry
+50,1,5:27.0,10,9,TOR,BOS,14,away,bad pass,steal,,turnover,,J. Crowder,K. Lowry
 51,1,5:21.0,13,9,TOR,BOS,6,home,JS,assist,24,make3,3,D. Carroll,K. Lowry
 52,1,5:08.0,13,9,TOR,BOS,13,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Carroll,I. Thomas
 53,1,5:04.0,13,12,TOR,BOS,4,away,JS,assist,26,make3,3,I. Thomas,A. Johnson
@@ -101,7 +101,7 @@
 99,1,0:55.0,21,16,TOR,BOS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Jerebko,D. DeRozan
 100,1,0:55.0,21,16,TOR,BOS,0,home,Sub,,,,,N. Powell,D. Carroll
 101,1,0:38.0,21,16,TOR,BOS,17,home,BadPass,,,turnover,,D. DeRozan,
-102,1,0:29.0,21,16,TOR,BOS,9,away,LostBall,steal,,turnover,,K. Olynyk,D. DeRozan
+102,1,0:29.0,21,16,TOR,BOS,9,away,lost ball,steal,,turnover,,K. Olynyk,D. DeRozan
 103,1,0:09.0,21,16,TOR,BOS,20,home,JS,,5,miss2,0,C. Joseph,
 104,1,0:09.0,21,16,TOR,BOS,0,home,OffReb,,,OffReb,,L. Nogueira,
 105,1,0:08.0,23,16,TOR,BOS,1,home,LU,,1,make2,2,L. Nogueira,
@@ -130,15 +130,15 @@
 128,2,8:49.0,29,28,TOR,BOS,12,home,BadPass,,,turnover,,N. Powell,
 129,2,8:49.0,29,28,TOR,BOS,0,away,Timeout,,,,,,
 130,2,8:49.0,29,28,TOR,BOS,0,home,Sub,,,,,J. Poeltl,N. Powell
-131,2,8:34.0,29,28,TOR,BOS,15,away,LostBall,steal,,turnover,,G. Green,L. Nogueira
-132,2,8:31.0,29,28,TOR,BOS,3,home,LostBall,steal,,turnover,,L. Nogueira,M. Smart
+131,2,8:34.0,29,28,TOR,BOS,15,away,lost ball,steal,,turnover,,G. Green,L. Nogueira
+132,2,8:31.0,29,28,TOR,BOS,3,home,lost ball,steal,,turnover,,L. Nogueira,M. Smart
 133,2,8:31.0,29,28,TOR,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Lowry,M. Smart
 134,2,8:31.0,29,30,TOR,BOS,0,away,JS,,2,make2,2,M. Smart,
 135,2,8:31.0,29,31,TOR,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
 136,2,8:17.0,31,31,TOR,BOS,14,home,LU,assist,2,make2,2,J. Poeltl,C. Joseph
 137,2,7:57.0,31,33,TOR,BOS,20,away,JS,,20,make2,2,G. Green,
 138,2,7:39.0,33,33,TOR,BOS,18,home,JS,assist,19,make2,2,T. Ross,L. Nogueira
-139,2,7:27.0,33,33,TOR,BOS,12,away,BadPass,steal,,turnover,,K. Olynyk,T. Ross
+139,2,7:27.0,33,33,TOR,BOS,12,away,bad pass,steal,,turnover,,K. Olynyk,T. Ross
 140,2,7:22.0,35,33,TOR,BOS,5,home,LU,assist,0,make2,2,C. Joseph,K. Lowry
 141,2,7:04.0,35,35,TOR,BOS,18,away,JS,,3,make2,2,I. Thomas,
 142,2,6:47.0,35,35,TOR,BOS,17,home,LU,block,3,miss2,0,C. Joseph,K. Olynyk
@@ -158,7 +158,7 @@
 156,2,5:05.0,42,42,TOR,BOS,13,home,JS,,15,make2,2,D. DeRozan,
 157,2,4:49.0,42,42,TOR,BOS,16,away,JS,,10,miss2,0,I. Thomas,
 158,2,4:48.0,42,42,TOR,BOS,1,away,OffReb,,,OffReb,,A. Johnson,
-159,2,4:43.0,42,42,TOR,BOS,5,away,LostBall,steal,,turnover,,I. Thomas,T. Ross
+159,2,4:43.0,42,42,TOR,BOS,5,away,lost ball,steal,,turnover,,I. Thomas,T. Ross
 160,2,4:41.0,42,42,TOR,BOS,2,away,TechnicalFoul,,,TechnicalFoul,,I. Thomas,
 161,2,4:41.0,43,42,TOR,BOS,0,home,FreeThrow,,,make1,1,D. DeRozan makes technical free throw,
 162,2,4:41.0,43,42,TOR,BOS,0,away,Sub,,,,,M. Smart,I. Thomas
@@ -169,7 +169,7 @@
 167,2,4:14.0,43,42,TOR,BOS,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Valančiūnas,A. Johnson
 168,2,4:05.0,43,42,TOR,BOS,9,away,JS,,25,miss3,0,G. Green,
 169,2,4:05.0,43,42,TOR,BOS,0,home,DefReb,,,DefReb,,J. Valančiūnas,
-170,2,3:57.0,43,42,TOR,BOS,8,home,LostBall,steal,,turnover,,P. Patterson,A. Horford
+170,2,3:57.0,43,42,TOR,BOS,8,home,lost ball,steal,,turnover,,P. Patterson,A. Horford
 171,2,3:54.0,43,44,TOR,BOS,3,away,LU,assist,1,make2,2,G. Green,A. Horford
 172,2,3:54.0,43,44,TOR,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Patterson,G. Green
 173,2,3:54.0,43,44,TOR,BOS,0,home,Sub,,,,,J. Poeltl,J. Valančiūnas
@@ -195,7 +195,7 @@
 193,2,1:34.0,43,49,TOR,BOS,11,home,JS,,26,miss3,0,D. Carroll,
 194,2,1:34.0,43,49,TOR,BOS,0,away,DefReb,,,DefReb,,M. Smart,
 195,2,1:22.0,43,51,TOR,BOS,12,away,JS,,10,make2,2,M. Smart,
-196,2,1:04.0,43,51,TOR,BOS,18,home,LostBall,steal,,turnover,,K. Lowry,M. Smart
+196,2,1:04.0,43,51,TOR,BOS,18,home,lost ball,steal,,turnover,,K. Lowry,M. Smart
 197,2,1:00.0,43,53,TOR,BOS,4,away,DK,,0,make2,2,J. Crowder,
 198,2,0:40.0,43,53,TOR,BOS,20,home,JS,,26,miss3,0,P. Patterson,
 199,2,0:39.0,43,53,TOR,BOS,1,away,DefReb,,,DefReb,,A. Johnson,
@@ -221,7 +221,7 @@
 219,3,11:17.0,48,57,TOR,BOS,9,home,JS,assist,19,make2,2,D. DeRozan,D. Carroll
 220,3,10:57.0,48,57,TOR,BOS,20,away,HS,,4,miss2,0,A. Johnson,
 221,3,10:57.0,48,57,TOR,BOS,0,home,DefReb,,,DefReb,,J. Valančiūnas,
-222,3,10:44.0,48,57,TOR,BOS,13,home,LostBall,steal,,turnover,,D. Carroll,J. Crowder
+222,3,10:44.0,48,57,TOR,BOS,13,home,lost ball,steal,,turnover,,D. Carroll,J. Crowder
 223,3,10:38.0,48,57,TOR,BOS,6,away,LU,,4,miss2,0,J. Crowder,
 224,3,10:38.0,48,57,TOR,BOS,0,home,DefReb,,,DefReb,,D. Carroll,
 225,3,10:37.0,48,57,TOR,BOS,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,D. Carroll
@@ -257,16 +257,16 @@
 255,3,5:43.0,59,70,TOR,BOS,1,home,DefReb,,,DefReb,,D. DeRozan,
 256,3,5:35.0,59,70,TOR,BOS,8,home,JS,,10,miss2,0,D. DeRozan,
 257,3,5:34.0,59,70,TOR,BOS,1,home,OffReb,,,OffReb,,D. DeRozan,
-258,3,5:29.0,59,70,TOR,BOS,5,home,LostBall,steal,,turnover,,D. Carroll,M. Smart
+258,3,5:29.0,59,70,TOR,BOS,5,home,lost ball,steal,,turnover,,D. Carroll,M. Smart
 259,3,5:25.0,59,73,TOR,BOS,4,away,JS,,26,make3,3,I. Thomas,
 260,3,5:25.0,59,73,TOR,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Lowry,I. Thomas
 261,3,5:25.0,59,73,TOR,BOS,0,away,FreeThrow,,,make1,0,I. Thomas,
 262,3,5:22.0,59,73,TOR,BOS,3,home,DefReb,,,DefReb,,J. Valančiūnas,
-263,3,5:10.0,59,73,TOR,BOS,12,home,BadPass,steal,,turnover,,J. Valančiūnas,M. Smart
+263,3,5:10.0,59,73,TOR,BOS,12,home,bad pass,steal,,turnover,,J. Valančiūnas,M. Smart
 264,3,5:05.0,59,75,TOR,BOS,5,away,DK,,0,make2,2,M. Smart,
 265,3,5:01.0,59,75,TOR,BOS,4,home,Timeout,,,,,,
 266,3,4:51.0,62,75,TOR,BOS,10,home,JS,assist,25,make3,3,K. Lowry,D. Carroll
-267,3,4:36.0,62,75,TOR,BOS,15,away,LostBall,steal,,turnover,,J. Crowder,D. Carroll
+267,3,4:36.0,62,75,TOR,BOS,15,away,lost ball,steal,,turnover,,J. Crowder,D. Carroll
 268,3,4:22.0,64,75,TOR,BOS,14,home,JS,,4,make2,2,D. DeRozan,
 269,3,4:21.0,64,75,TOR,BOS,1,away,Timeout,,,,,,
 270,3,4:21.0,64,75,TOR,BOS,0,home,Sub,,,,,T. Ross,J. Valančiūnas
@@ -298,7 +298,7 @@
 296,3,1:55.0,70,80,TOR,BOS,11,away,LU,,2,miss2,0,J. Brown,
 297,3,1:55.0,70,80,TOR,BOS,0,home,DefReb,,,DefReb,,D. DeRozan,
 298,3,1:47.0,72,80,TOR,BOS,8,home,JS,,4,make2,2,D. DeRozan,
-299,3,1:43.0,72,80,TOR,BOS,4,away,BadPass,steal,,turnover,,M. Smart,T. Ross
+299,3,1:43.0,72,80,TOR,BOS,4,away,bad pass,steal,,turnover,,M. Smart,T. Ross
 300,3,1:36.0,75,80,TOR,BOS,7,home,JS,assist,27,make3,3,D. Carroll,T. Ross
 301,3,1:16.0,75,80,TOR,BOS,20,away,LU,,4,miss2,0,M. Smart,
 302,3,1:16.0,75,80,TOR,BOS,0,home,DefReb,,,DefReb,,D. DeRozan,
@@ -328,7 +328,7 @@
 326,4,11:48.0,80,84,TOR,BOS,0,away,DefReb,,,DefReb,,G. Green,
 327,4,11:31.0,80,84,TOR,BOS,17,away,JS,,16,miss2,0,K. Olynyk,
 328,4,11:31.0,80,84,TOR,BOS,0,home,DefReb,,,DefReb,,P. Patterson,
-329,4,11:21.0,80,84,TOR,BOS,10,home,BadPass,steal,,turnover,,T. Ross,J. Jerebko
+329,4,11:21.0,80,84,TOR,BOS,10,home,bad pass,steal,,turnover,,T. Ross,J. Jerebko
 330,4,11:16.0,80,86,TOR,BOS,5,away,LU,,0,make2,2,J. Crowder,
 331,4,10:59.0,80,86,TOR,BOS,17,home,JS,,27,miss3,0,T. Ross,
 332,4,10:59.0,80,86,TOR,BOS,0,away,DefReb,,,DefReb,,J. Jerebko,
@@ -440,7 +440,7 @@
 438,4,0:34.0,110,104,TOR,BOS,0,home,OffReb,,,OffReb,,J. Valančiūnas,
 439,4,0:34.0,112,104,TOR,BOS,0,home,LU,,2,make2,2,J. Valančiūnas,
 440,4,0:34.0,112,104,TOR,BOS,0,away,Timeout,,,,,,
-441,4,0:33.0,112,104,TOR,BOS,1,away,BadPass,steal,,turnover,,M. Smart,K. Lowry
+441,4,0:33.0,112,104,TOR,BOS,1,away,bad pass,steal,,turnover,,M. Smart,K. Lowry
 442,4,0:29.0,112,104,TOR,BOS,4,home,BadPass,,,turnover,,K. Lowry,
 443,4,0:16.0,112,104,TOR,BOS,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Valančiūnas,I. Thomas
 444,4,0:16.0,112,105,TOR,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,

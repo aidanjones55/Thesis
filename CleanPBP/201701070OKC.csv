@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:44.0,0,0,OKC,DEN,16,home,BadPass,steal,,turnover,,R. Westbrook,J. Nurkić
+0,1,11:44.0,0,0,OKC,DEN,16,home,bad pass,steal,,turnover,,R. Westbrook,J. Nurkić
 1,1,11:29.0,0,0,OKC,DEN,15,away,JS,,25,miss3,0,D. Gallinari,
 2,1,11:29.0,0,0,OKC,DEN,0,home,DefReb,,,DefReb,,S. Adams,
 3,1,11:16.0,0,0,OKC,DEN,13,home,JS,,23,miss3,0,V. Oladipo,
@@ -74,7 +74,7 @@
 72,1,5:01.0,16,9,OKC,DEN,0,home,FreeThrow,,,make1,1,D. Sabonis,
 73,1,5:01.0,17,9,OKC,DEN,0,home,FreeThrow,,,make1,1,D. Sabonis,
 74,1,4:52.0,17,9,OKC,DEN,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,Á. Abrines,W. Barton
-75,1,4:38.0,17,9,OKC,DEN,14,away,BadPass,steal,,turnover,,E. Mudiay,D. Sabonis
+75,1,4:38.0,17,9,OKC,DEN,14,away,bad pass,steal,,turnover,,E. Mudiay,D. Sabonis
 76,1,4:32.0,17,9,OKC,DEN,6,home,JS,,17,miss2,0,R. Westbrook,
 77,1,4:31.0,17,9,OKC,DEN,1,away,DefReb,,,DefReb,,W. Barton,
 78,1,4:23.0,17,9,OKC,DEN,8,away,JS,,3,miss2,0,W. Barton,
@@ -112,7 +112,7 @@
 110,1,1:11.0,22,18,OKC,DEN,2,away,DefReb,,,DefReb,,J. Hernangómez,
 111,1,1:01.0,22,18,OKC,DEN,10,away,JS,,4,miss2,0,W. Chandler,
 112,1,1:00.0,22,18,OKC,DEN,1,home,DefReb,,,DefReb,,D. Sabonis,
-113,1,0:53.0,22,18,OKC,DEN,7,home,LostBall,steal,,turnover,,E. Freedom,D. Gallinari
+113,1,0:53.0,22,18,OKC,DEN,7,home,lost ball,steal,,turnover,,E. Freedom,D. Gallinari
 114,1,0:48.0,22,20,OKC,DEN,5,away,LU,,1,make2,2,W. Chandler,
 115,1,0:48.0,22,20,OKC,DEN,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
 116,1,0:34.0,24,20,OKC,DEN,14,home,LU,assist,1,make2,2,E. Freedom,Á. Abrines
@@ -143,7 +143,7 @@
 141,2,9:31.0,31,31,OKC,DEN,17,home,JS,,25,miss3,0,J. Lauvergne,
 142,2,9:30.0,31,31,OKC,DEN,1,home,OffReb,,,OffReb,,E. Freedom,
 143,2,9:29.0,33,31,OKC,DEN,1,home,LU,,1,make2,2,E. Freedom,
-144,2,9:15.0,33,31,OKC,DEN,14,away,BadPass,steal,,turnover,,W. Chandler,Á. Abrines
+144,2,9:15.0,33,31,OKC,DEN,14,away,bad pass,steal,,turnover,,W. Chandler,Á. Abrines
 145,2,9:05.0,35,31,OKC,DEN,10,home,LU,assist,1,make2,2,J. Lauvergne,Á. Abrines
 146,2,9:05.0,35,31,OKC,DEN,0,away,Timeout,,,,,,
 147,2,9:05.0,35,31,OKC,DEN,0,away,Sub,,,,,J. Nurkić,K. Faried
@@ -190,7 +190,7 @@
 188,2,3:52.0,46,50,OKC,DEN,1,away,DefReb,,,DefReb,,D. Gallinari,
 189,2,3:37.0,46,52,OKC,DEN,15,away,JS,,12,make2,2,D. Gallinari,
 190,2,3:21.0,49,52,OKC,DEN,16,home,JS,,24,make3,3,R. Westbrook,
-191,2,3:09.0,49,52,OKC,DEN,12,away,BadPass,steal,,turnover,,J. Nelson,S. Adams
+191,2,3:09.0,49,52,OKC,DEN,12,away,bad pass,steal,,turnover,,J. Nelson,S. Adams
 192,2,3:04.0,49,52,OKC,DEN,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Arthur,A. Roberson
 193,2,3:04.0,50,52,OKC,DEN,0,home,FreeThrow,,,make1,1,A. Roberson,
 194,2,3:04.0,50,52,OKC,DEN,0,home,FreeThrow,,,make1,0,A. Roberson,
@@ -239,7 +239,7 @@
 237,3,9:20.0,67,64,OKC,DEN,0,away,OffReb,,,OffReb,,Team,
 238,3,9:20.0,67,64,OKC,DEN,0,away,FreeThrow,,,make1,0,J. Nurkić,
 239,3,9:18.0,67,64,OKC,DEN,2,home,DefReb,,,DefReb,,D. Sabonis,
-240,3,9:09.0,67,64,OKC,DEN,9,home,BadPass,steal,,turnover,,R. Westbrook,J. Nurkić
+240,3,9:09.0,67,64,OKC,DEN,9,home,bad pass,steal,,turnover,,R. Westbrook,J. Nurkić
 241,3,8:54.0,67,64,OKC,DEN,15,away,JS,,25,miss3,0,D. Gallinari,
 242,3,8:54.0,67,64,OKC,DEN,0,home,DefReb,,,DefReb,,R. Westbrook,
 243,3,8:40.0,69,64,OKC,DEN,14,home,JS,,3,make2,2,V. Oladipo,
@@ -256,7 +256,7 @@
 254,3,7:35.0,69,67,OKC,DEN,1,home,DefReb,,,DefReb,,A. Roberson,
 255,3,7:35.0,69,67,OKC,DEN,0,home,Timeout,,,,,,
 256,3,7:28.0,71,67,OKC,DEN,7,home,JS,,15,make2,2,R. Westbrook,
-257,3,7:15.0,71,67,OKC,DEN,13,away,BadPass,steal,,turnover,,J. Nurkić,R. Westbrook
+257,3,7:15.0,71,67,OKC,DEN,13,away,bad pass,steal,,turnover,,J. Nurkić,R. Westbrook
 258,3,7:14.0,71,67,OKC,DEN,1,home,ClearPathFoul,,,ClearPathFoul,,E. Mudiay,
 259,3,7:14.0,72,67,OKC,DEN,0,home,FreeThrow,,,make1,1,R. Westbrook makes clear path free throw 1 of 2,
 260,3,7:14.0,73,67,OKC,DEN,0,home,FreeThrow,,,make1,1,R. Westbrook makes clear path free throw 2 of 2,
@@ -331,7 +331,7 @@
 329,3,1:48.0,85,73,OKC,DEN,0,away,Sub,,,,,J. Hernangómez,D. Gallinari
 330,3,1:30.0,88,73,OKC,DEN,18,home,JS,assist,24,make3,3,Á. Abrines,E. Freedom
 331,3,1:14.0,88,75,OKC,DEN,16,away,JS,assist,21,make2,2,D. Arthur,J. Nelson
-332,3,1:00.0,88,75,OKC,DEN,14,home,BadPass,steal,,turnover,,S. Adams,D. Arthur
+332,3,1:00.0,88,75,OKC,DEN,14,home,bad pass,steal,,turnover,,S. Adams,D. Arthur
 333,3,0:50.0,88,77,OKC,DEN,10,away,JS,,5,make2,2,J. Nelson,
 334,3,0:26.0,88,77,OKC,DEN,24,home,ShotClockViolation,,,turnover,,Team,
 335,3,0:26.0,88,77,OKC,DEN,0,home,Sub,,,,,J. Grant,E. Freedom
@@ -358,13 +358,13 @@
 356,4,10:20.0,91,85,OKC,DEN,1,home,OffReb,,,OffReb,,V. Oladipo,
 357,4,10:11.0,91,85,OKC,DEN,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Nelson,E. Freedom
 358,4,10:05.0,93,85,OKC,DEN,6,home,JS,,8,make2,2,E. Freedom,
-359,4,9:53.0,93,85,OKC,DEN,12,away,LostBall,steal,,turnover,,W. Chandler,V. Oladipo
+359,4,9:53.0,93,85,OKC,DEN,12,away,lost ball,steal,,turnover,,W. Chandler,V. Oladipo
 360,4,9:48.0,93,85,OKC,DEN,5,home,LU,block,1,miss2,0,V. Oladipo,W. Chandler
 361,4,9:47.0,93,85,OKC,DEN,1,away,DefReb,,,DefReb,,K. Faried,
 362,4,9:47.0,93,85,OKC,DEN,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,V. Oladipo,K. Faried
 363,4,9:37.0,93,88,OKC,DEN,10,away,JS,,25,make3,3,J. Nelson,
 364,4,9:24.0,95,88,OKC,DEN,13,home,JS,,9,make2,2,V. Oladipo,
-365,4,9:11.0,95,88,OKC,DEN,13,away,BadPass,steal,,turnover,,J. Nelson,V. Oladipo
+365,4,9:11.0,95,88,OKC,DEN,13,away,bad pass,steal,,turnover,,J. Nelson,V. Oladipo
 366,4,9:07.0,97,88,OKC,DEN,4,home,DK,,0,make2,2,V. Oladipo,
 367,4,9:06.0,97,88,OKC,DEN,1,away,Timeout,,,,,,
 368,4,9:06.0,97,88,OKC,DEN,0,away,Sub,,,,,W. Barton,J. Hernangómez
@@ -404,13 +404,13 @@
 402,4,6:37.0,102,91,OKC,DEN,19,home,JS,,25,make3,3,R. Westbrook,
 403,4,6:18.0,102,91,OKC,DEN,19,away,JS,,25,miss3,0,W. Barton,
 404,4,6:18.0,102,91,OKC,DEN,0,home,DefReb,,,DefReb,,R. Westbrook,
-405,4,6:09.0,102,91,OKC,DEN,9,home,BadPass,steal,,turnover,,R. Westbrook,J. Nurkić
+405,4,6:09.0,102,91,OKC,DEN,9,home,bad pass,steal,,turnover,,R. Westbrook,J. Nurkić
 406,4,6:00.0,102,91,OKC,DEN,9,away,JS,,22,miss3,0,D. Gallinari,
 407,4,5:59.0,102,91,OKC,DEN,1,home,DefReb,,,DefReb,,S. Adams,
-408,4,5:56.0,102,91,OKC,DEN,3,home,BadPass,steal,,turnover,,S. Adams,W. Barton
+408,4,5:56.0,102,91,OKC,DEN,3,home,bad pass,steal,,turnover,,S. Adams,W. Barton
 409,4,5:53.0,102,94,OKC,DEN,3,away,JS,,25,make3,3,W. Barton,
 410,4,5:30.0,105,94,OKC,DEN,23,home,JS,assist,25,make3,3,R. Westbrook,S. Adams
-411,4,5:20.0,105,94,OKC,DEN,10,away,LostBall,steal,,turnover,,W. Barton,R. Westbrook
+411,4,5:20.0,105,94,OKC,DEN,10,away,lost ball,steal,,turnover,,W. Barton,R. Westbrook
 412,4,5:16.0,107,94,OKC,DEN,4,home,LU,assist,1,make2,2,J. Grant,R. Westbrook
 413,4,5:16.0,107,94,OKC,DEN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Barton,J. Grant
 414,4,5:16.0,107,94,OKC,DEN,0,away,Timeout,,,,,,
@@ -418,7 +418,7 @@
 416,4,5:16.0,108,94,OKC,DEN,0,home,FreeThrow,,,make1,1,J. Grant,
 417,4,5:01.0,108,94,OKC,DEN,15,away,JS,,23,miss3,0,D. Gallinari,
 418,4,5:00.0,108,94,OKC,DEN,1,away,OffReb,,,OffReb,,W. Barton,
-419,4,4:55.0,108,94,OKC,DEN,5,away,BadPass,steal,,turnover,,E. Mudiay,R. Westbrook
+419,4,4:55.0,108,94,OKC,DEN,5,away,bad pass,steal,,turnover,,E. Mudiay,R. Westbrook
 420,4,4:49.0,111,94,OKC,DEN,6,home,JS,assist,24,make3,3,R. Westbrook,V. Oladipo
 421,4,4:33.0,111,94,OKC,DEN,16,away,JS,,9,miss2,0,W. Chandler,
 422,4,4:32.0,111,94,OKC,DEN,1,away,OffReb,,,OffReb,,J. Nurkić,
@@ -443,7 +443,7 @@
 441,4,3:14.0,116,100,OKC,DEN,0,home,FreeThrow,,,make1,1,A. Roberson,
 442,4,3:02.0,116,100,OKC,DEN,12,away,JS,,24,miss3,0,D. Arthur,
 443,4,3:02.0,116,100,OKC,DEN,0,home,DefReb,,,DefReb,,R. Westbrook,
-444,4,2:41.0,116,100,OKC,DEN,21,home,LostBall,steal,,turnover,,J. Grant,E. Mudiay
+444,4,2:41.0,116,100,OKC,DEN,21,home,lost ball,steal,,turnover,,J. Grant,E. Mudiay
 445,4,2:32.0,116,100,OKC,DEN,9,away,JS,,20,miss2,0,D. Gallinari,
 446,4,2:32.0,116,100,OKC,DEN,0,home,DefReb,,,DefReb,,A. Roberson,
 447,4,2:29.0,116,100,OKC,DEN,3,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Gallinari,A. Roberson

@@ -1,8 +1,8 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:42.0,0,3,GSW,PHO,18,away,JS,assist,25,make3,3,E. Bledsoe,M. Chriss
-1,1,11:28.0,0,3,GSW,PHO,14,home,BadPass,steal,,turnover,,S. Curry,E. Bledsoe
+1,1,11:28.0,0,3,GSW,PHO,14,home,bad pass,steal,,turnover,,S. Curry,E. Bledsoe
 2,1,11:23.0,0,5,GSW,PHO,5,away,DK,,0,make2,2,P. Tucker,
-3,1,11:06.0,0,5,GSW,PHO,17,home,BadPass,steal,,turnover,,Z. Pachulia,E. Bledsoe
+3,1,11:06.0,0,5,GSW,PHO,17,home,bad pass,steal,,turnover,,Z. Pachulia,E. Bledsoe
 4,1,10:58.0,0,5,GSW,PHO,8,away,JS,,24,miss3,0,P. Tucker,
 5,1,10:57.0,0,5,GSW,PHO,1,home,DefReb,,,DefReb,,D. Green,
 6,1,10:51.0,3,5,GSW,PHO,6,home,JS,,23,make3,3,K. Durant,
@@ -20,7 +20,7 @@
 18,1,9:30.0,5,9,GSW,PHO,9,home,JS,assist,11,make2,2,D. Green,Z. Pachulia
 19,1,9:30.0,5,9,GSW,PHO,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Chriss,D. Green
 20,1,9:30.0,6,9,GSW,PHO,0,home,FreeThrow,,,make1,1,D. Green,
-21,1,9:16.0,6,9,GSW,PHO,14,away,BadPass,steal,,turnover,,M. Chriss,K. Thompson
+21,1,9:16.0,6,9,GSW,PHO,14,away,bad pass,steal,,turnover,,M. Chriss,K. Thompson
 22,1,9:11.0,8,9,GSW,PHO,5,home,DK,assist,0,make2,2,K. Durant,S. Curry
 23,1,8:52.0,8,11,GSW,PHO,19,away,LU,assist,0,make2,2,P. Tucker,E. Bledsoe
 24,1,8:31.0,10,11,GSW,PHO,21,home,LU,,3,make2,2,Z. Pachulia,
@@ -40,7 +40,7 @@
 38,1,6:53.0,15,16,GSW,PHO,0,home,DefReb,,,DefReb,,K. Thompson,
 39,1,6:46.0,15,16,GSW,PHO,7,home,LU,block,2,miss2,0,D. Green,M. Chriss
 40,1,6:44.0,15,16,GSW,PHO,2,away,DefReb,,,DefReb,,E. Bledsoe,
-41,1,6:30.0,15,16,GSW,PHO,14,away,BadPass,steal,,turnover,,E. Bledsoe,S. Curry
+41,1,6:30.0,15,16,GSW,PHO,14,away,bad pass,steal,,turnover,,E. Bledsoe,S. Curry
 42,1,6:24.0,18,16,GSW,PHO,6,home,JS,assist,24,make3,3,K. Thompson,K. Durant
 43,1,5:57.0,18,16,GSW,PHO,27,away,LU,,1,miss2,0,M. Chriss,
 44,1,5:57.0,18,16,GSW,PHO,0,home,DefReb,,,DefReb,,Z. Pachulia,
@@ -61,7 +61,7 @@
 59,1,5:21.0,19,18,GSW,PHO,0,home,OffReb,,,OffReb,,Team,
 60,1,5:21.0,19,18,GSW,PHO,0,away,Sub,,,,,B. Knight,E. Bledsoe
 61,1,5:21.0,20,18,GSW,PHO,0,home,FreeThrow,,,make1,1,Z. Pachulia,
-62,1,4:59.0,20,18,GSW,PHO,22,away,BadPass,steal,,turnover,,J. Dudley,Z. Pachulia
+62,1,4:59.0,20,18,GSW,PHO,22,away,bad pass,steal,,turnover,,J. Dudley,Z. Pachulia
 63,1,4:54.0,20,18,GSW,PHO,5,home,LU,,1,miss2,0,Z. Pachulia,
 64,1,4:54.0,20,18,GSW,PHO,0,away,DefReb,,,DefReb,,J. Dudley,
 65,1,4:41.0,20,18,GSW,PHO,13,away,JS,,26,miss3,0,B. Knight,
@@ -166,7 +166,7 @@
 164,2,4:38.0,61,42,GSW,PHO,13,away,JS,,24,miss3,0,P. Tucker,
 165,2,4:38.0,61,42,GSW,PHO,0,home,DefReb,,,DefReb,,S. Curry,
 166,2,4:23.0,61,42,GSW,PHO,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,E. Bledsoe,D. West
-167,2,4:10.0,61,42,GSW,PHO,13,home,LostBall,steal,,turnover,,D. Green,T. Chandler
+167,2,4:10.0,61,42,GSW,PHO,13,home,lost ball,steal,,turnover,,D. Green,T. Chandler
 168,2,3:52.0,61,44,GSW,PHO,18,away,LU,assist,2,make2,2,D. Booker,E. Bledsoe
 169,2,3:41.0,61,44,GSW,PHO,11,home,BadPass,,,turnover,,S. Livingston,
 170,2,3:41.0,61,44,GSW,PHO,0,home,Sub,,,,,K. Durant,D. West
@@ -190,7 +190,7 @@
 188,2,1:26.0,64,51,GSW,PHO,19,away,JS,,8,make2,2,D. Booker,
 189,2,1:26.0,64,51,GSW,PHO,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Curry,D. Booker
 190,2,1:26.0,64,52,GSW,PHO,0,away,FreeThrow,,,make1,1,D. Booker,
-191,2,1:03.0,64,52,GSW,PHO,23,home,BadPass,steal,,turnover,,D. Green,E. Bledsoe
+191,2,1:03.0,64,52,GSW,PHO,23,home,bad pass,steal,,turnover,,D. Green,E. Bledsoe
 192,2,0:58.0,64,52,GSW,PHO,5,away,LU,,0,miss2,0,E. Bledsoe,
 193,2,0:58.0,64,52,GSW,PHO,0,away,OffReb,,,OffReb,,P. Tucker,
 194,2,0:58.0,64,52,GSW,PHO,0,away,LU,,0,miss2,0,P. Tucker,
@@ -215,7 +215,7 @@
 213,3,11:00.0,68,60,GSW,PHO,16,away,JS,,12,miss2,0,E. Bledsoe,
 214,3,11:00.0,68,60,GSW,PHO,0,home,DefReb,,,DefReb,,Z. Pachulia,
 215,3,10:54.0,70,60,GSW,PHO,6,home,LU,assist,1,make2,2,K. Thompson,D. Green
-216,3,10:40.0,70,60,GSW,PHO,14,away,LostBall,steal,,turnover,,D. Booker,Z. Pachulia
+216,3,10:40.0,70,60,GSW,PHO,14,away,lost ball,steal,,turnover,,D. Booker,Z. Pachulia
 217,3,10:37.0,70,60,GSW,PHO,3,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Booker,Z. Pachulia
 218,3,10:29.0,70,60,GSW,PHO,8,home,JS,,26,miss3,0,S. Curry,
 219,3,10:28.0,70,60,GSW,PHO,1,away,DefReb,,,DefReb,,E. Bledsoe,
@@ -247,14 +247,14 @@
 245,3,7:42.0,81,64,GSW,PHO,6,away,Timeout,,,,,,
 246,3,7:27.0,81,64,GSW,PHO,15,away,JS,,24,miss3,0,P. Tucker,
 247,3,7:24.0,81,64,GSW,PHO,3,home,DefReb,,,DefReb,,D. Green,
-248,3,7:18.0,81,64,GSW,PHO,6,home,LostBall,steal,,turnover,,K. Thompson,E. Bledsoe
-249,3,7:12.0,81,64,GSW,PHO,6,away,BadPass,steal,,turnover,,J. Dudley,K. Thompson
+248,3,7:18.0,81,64,GSW,PHO,6,home,lost ball,steal,,turnover,,K. Thompson,E. Bledsoe
+249,3,7:12.0,81,64,GSW,PHO,6,away,bad pass,steal,,turnover,,J. Dudley,K. Thompson
 250,3,7:07.0,83,64,GSW,PHO,5,home,DK,assist,0,make2,2,K. Durant,K. Thompson
-251,3,6:45.0,83,64,GSW,PHO,22,away,BadPass,steal,,turnover,,D. Booker,D. Green
+251,3,6:45.0,83,64,GSW,PHO,22,away,bad pass,steal,,turnover,,D. Booker,D. Green
 252,3,6:38.0,83,64,GSW,PHO,7,home,BadPass,,,turnover,,D. Green,
 253,3,6:38.0,83,64,GSW,PHO,0,away,Sub,,,,,D. Bender,J. Dudley
 254,3,6:23.0,83,64,GSW,PHO,15,away,3sec,,,turnover,,T. Chandler,
-255,3,6:09.0,83,64,GSW,PHO,14,home,BadPass,steal,,turnover,,S. Curry,P. Tucker
+255,3,6:09.0,83,64,GSW,PHO,14,home,bad pass,steal,,turnover,,S. Curry,P. Tucker
 256,3,5:57.0,83,64,GSW,PHO,12,away,JS,,23,miss3,0,D. Bender,
 257,3,5:56.0,83,64,GSW,PHO,1,away,OffReb,,,OffReb,,T. Chandler,
 258,3,5:51.0,83,67,GSW,PHO,5,away,JS,assist,26,make3,3,P. Tucker,T. Chandler
@@ -262,12 +262,12 @@
 260,3,5:42.0,84,67,GSW,PHO,0,home,FreeThrow,,,make1,1,K. Durant,
 261,3,5:42.0,84,67,GSW,PHO,0,away,Sub,,,,,B. Knight,D. Booker
 262,3,5:42.0,85,67,GSW,PHO,0,home,FreeThrow,,,make1,1,K. Durant,
-263,3,5:35.0,85,67,GSW,PHO,7,away,BadPass,steal,,turnover,,B. Knight,Z. Pachulia
+263,3,5:35.0,85,67,GSW,PHO,7,away,bad pass,steal,,turnover,,B. Knight,Z. Pachulia
 264,3,5:28.0,88,67,GSW,PHO,7,home,JS,assist,27,make3,3,K. Thompson,K. Durant
-265,3,5:13.0,88,67,GSW,PHO,15,away,LostBall,steal,,turnover,,B. Knight,D. Green
+265,3,5:13.0,88,67,GSW,PHO,15,away,lost ball,steal,,turnover,,B. Knight,D. Green
 266,3,5:07.0,88,67,GSW,PHO,6,home,JS,,26,miss3,0,K. Thompson,
 267,3,5:07.0,88,67,GSW,PHO,0,home,OffReb,,,OffReb,,D. Green,
-268,3,4:57.0,88,67,GSW,PHO,10,home,BadPass,steal,,turnover,,Z. Pachulia,E. Bledsoe
+268,3,4:57.0,88,67,GSW,PHO,10,home,bad pass,steal,,turnover,,Z. Pachulia,E. Bledsoe
 269,3,4:52.0,88,67,GSW,PHO,5,away,LU,block,1,miss2,0,E. Bledsoe,K. Durant
 270,3,4:51.0,88,67,GSW,PHO,1,home,DefReb,,,DefReb,,K. Durant,
 271,3,4:43.0,91,67,GSW,PHO,8,home,JS,assist,26,make3,3,S. Curry,D. Green
@@ -296,7 +296,7 @@
 294,3,3:17.0,97,71,GSW,PHO,0,away,OffensiveFoul,,,turnover,,B. Knight,
 295,3,3:05.0,97,71,GSW,PHO,12,home,JS,,9,miss2,0,S. Curry,
 296,3,3:05.0,97,71,GSW,PHO,0,away,DefReb,,,DefReb,,A. Len,
-297,3,3:00.0,97,71,GSW,PHO,5,away,LostBall,steal,,turnover,,A. Len,D. Green
+297,3,3:00.0,97,71,GSW,PHO,5,away,lost ball,steal,,turnover,,A. Len,D. Green
 298,3,3:00.0,97,71,GSW,PHO,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Tucker,D. Green
 299,3,3:00.0,98,71,GSW,PHO,0,home,FreeThrow,,,make1,1,D. Green,
 300,3,3:00.0,98,71,GSW,PHO,0,home,FreeThrow,,,make1,0,D. Green,
@@ -443,7 +443,7 @@
 441,4,1:39.0,136,106,GSW,PHO,0,away,FreeThrow,,,make1,0,T. Ulis,
 442,4,1:39.0,136,106,GSW,PHO,0,away,OffReb,,,OffReb,,Team,
 443,4,1:39.0,136,107,GSW,PHO,0,away,FreeThrow,,,make1,1,T. Ulis,
-444,4,1:22.0,136,107,GSW,PHO,17,home,BadPass,steal,,turnover,,J. McGee,A. Williams
+444,4,1:22.0,136,107,GSW,PHO,17,home,bad pass,steal,,turnover,,J. McGee,A. Williams
 445,4,1:12.0,136,109,GSW,PHO,10,away,JS,assist,3,make2,2,D. Bender,J. Jenkins
 446,4,1:00.0,138,109,GSW,PHO,12,home,LU,assist,2,make2,2,J. McGee,I. Clark
 447,4,0:47.0,138,109,GSW,PHO,13,away,JS,,10,miss2,0,T. Ulis,

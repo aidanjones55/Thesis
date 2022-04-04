@@ -38,7 +38,7 @@
 36,1,6:21.0,9,16,POR,MIA,1,home,Timeout,,,,,,
 37,1,6:13.0,11,16,POR,MIA,8,home,JS,assist,19,make2,2,C. McCollum,D. Lillard
 38,1,5:56.0,11,18,POR,MIA,17,away,LU,assist,2,make2,2,J. McRoberts,G. Dragić
-39,1,5:49.0,11,18,POR,MIA,7,home,LostBall,steal,,turnover,,C. McCollum,J. McRoberts
+39,1,5:49.0,11,18,POR,MIA,7,home,lost ball,steal,,turnover,,C. McCollum,J. McRoberts
 40,1,5:38.0,11,21,POR,MIA,11,away,JS,assist,24,make3,3,J. McRoberts,G. Dragić
 41,1,5:18.0,11,21,POR,MIA,20,home,JS,block,4,miss2,0,E. Davis,H. Whiteside
 42,1,5:17.0,11,21,POR,MIA,1,away,DefReb,,,DefReb,,G. Dragić,
@@ -73,7 +73,7 @@
 71,1,2:19.0,16,27,POR,MIA,6,away,JS,,14,miss2,0,G. Dragić,
 72,1,2:18.0,16,27,POR,MIA,1,home,DefReb,,,DefReb,,E. Turner,
 73,1,2:12.0,19,27,POR,MIA,6,home,JS,assist,25,make3,3,A. Crabbe,E. Turner
-74,1,1:54.0,19,27,POR,MIA,18,away,BadPass,steal,,turnover,,G. Dragić,E. Turner
+74,1,1:54.0,19,27,POR,MIA,18,away,bad pass,steal,,turnover,,G. Dragić,E. Turner
 75,1,1:40.0,19,27,POR,MIA,14,home,JS,,10,miss2,0,E. Turner,
 76,1,1:39.0,19,27,POR,MIA,1,home,OffReb,,,OffReb,,E. Davis,
 77,1,1:39.0,19,27,POR,MIA,0,home,LU,,2,miss2,0,E. Davis,
@@ -96,7 +96,7 @@
 94,1,0:57.0,21,29,POR,MIA,0,away,FreeThrow,,,make1,1,W. Reed,
 95,1,0:41.0,21,29,POR,MIA,16,home,LU,,1,miss2,0,M. Plumlee,
 96,1,0:41.0,21,29,POR,MIA,0,away,DefReb,,,DefReb,,W. Reed,
-97,1,0:34.0,21,29,POR,MIA,7,away,BadPass,steal,,turnover,,G. Dragić,E. Turner
+97,1,0:34.0,21,29,POR,MIA,7,away,bad pass,steal,,turnover,,G. Dragić,E. Turner
 98,1,0:28.0,21,29,POR,MIA,6,home,LU,,2,miss2,0,A. Crabbe,
 99,1,0:27.0,21,29,POR,MIA,1,away,DefReb,,,DefReb,,R. McGruder,
 100,1,0:06.0,21,29,POR,MIA,21,away,JS,,24,miss3,0,G. Dragić,
@@ -181,8 +181,8 @@
 179,2,4:39.0,40,39,POR,MIA,0,home,Sub,,,,,M. Plumlee,M. Leonard
 180,2,4:39.0,40,39,POR,MIA,0,home,Sub,,,,,E. Davis,N. Vonleh
 181,2,4:38.0,40,39,POR,MIA,1,away,DefReb,,,DefReb,,G. Dragić,
-182,2,4:33.0,40,39,POR,MIA,5,away,BadPass,steal,,turnover,,G. Dragić,E. Turner
-183,2,4:27.0,40,39,POR,MIA,6,home,BadPass,steal,,turnover,,D. Lillard,T. Johnson
+182,2,4:33.0,40,39,POR,MIA,5,away,bad pass,steal,,turnover,,G. Dragić,E. Turner
+183,2,4:27.0,40,39,POR,MIA,6,home,bad pass,steal,,turnover,,D. Lillard,T. Johnson
 184,2,4:21.0,40,39,POR,MIA,6,away,LU,block,1,miss2,0,T. Johnson,E. Davis
 185,2,4:20.0,40,39,POR,MIA,1,home,DefReb,,,DefReb,,D. Lillard,
 186,2,4:14.0,40,39,POR,MIA,6,home,JS,,24,miss3,0,E. Turner,
@@ -250,7 +250,7 @@
 248,3,9:04.0,57,53,POR,MIA,10,home,JS,,28,miss3,0,D. Lillard,
 249,3,9:03.0,57,53,POR,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
 250,3,8:49.0,57,55,POR,MIA,14,away,JS,assist,8,make2,2,G. Dragić,J. McRoberts
-251,3,8:33.0,57,55,POR,MIA,16,home,BadPass,steal,,turnover,,M. Plumlee,G. Dragić
+251,3,8:33.0,57,55,POR,MIA,16,home,bad pass,steal,,turnover,,M. Plumlee,G. Dragić
 252,3,8:21.0,57,58,POR,MIA,12,away,JS,assist,26,make3,3,J. McRoberts,W. Ellington
 253,3,8:20.0,57,58,POR,MIA,1,home,Timeout,,,,,,
 254,3,8:07.0,57,58,POR,MIA,13,home,LU,block,2,miss2,0,C. McCollum,H. Whiteside
@@ -269,9 +269,9 @@
 267,3,6:50.0,57,60,POR,MIA,10,away,Sub,,,,,T. Johnson,W. Ellington
 268,3,6:44.0,60,60,POR,MIA,6,home,JS,assist,26,make3,3,D. Lillard,C. McCollum
 269,3,6:29.0,60,60,POR,MIA,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. McCollum,T. Johnson
-270,3,6:21.0,60,60,POR,MIA,8,away,LostBall,steal,,turnover,,G. Dragić,M. Harkless
+270,3,6:21.0,60,60,POR,MIA,8,away,lost ball,steal,,turnover,,G. Dragić,M. Harkless
 271,3,6:16.0,62,60,POR,MIA,5,home,DK,,0,make2,2,M. Harkless,
-272,3,5:52.0,62,60,POR,MIA,24,away,BadPass,steal,,turnover,,J. McRoberts,M. Plumlee
+272,3,5:52.0,62,60,POR,MIA,24,away,bad pass,steal,,turnover,,J. McRoberts,M. Plumlee
 273,3,5:44.0,62,60,POR,MIA,8,home,JS,,25,miss3,0,D. Lillard,
 274,3,5:44.0,62,60,POR,MIA,0,away,DefReb,,,DefReb,,Team,
 275,3,5:26.0,62,62,POR,MIA,18,away,JS,,22,make2,2,G. Dragić,
@@ -289,7 +289,7 @@
 287,3,4:23.0,64,65,POR,MIA,11,away,HS,assist,4,make2,2,H. Whiteside,J. McRoberts
 288,3,4:11.0,64,65,POR,MIA,12,home,OffensiveFoul,,,turnover,,E. Davis,
 289,3,4:11.0,64,65,POR,MIA,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,E. Davis,H. Whiteside
-290,3,4:02.0,64,65,POR,MIA,9,away,LostBall,steal,,turnover,,G. Dragić,D. Lillard
+290,3,4:02.0,64,65,POR,MIA,9,away,lost ball,steal,,turnover,,G. Dragić,D. Lillard
 291,3,3:56.0,64,65,POR,MIA,6,home,JS,block,3,miss2,0,D. Lillard,T. Johnson
 292,3,3:56.0,64,65,POR,MIA,0,away,DefReb,,,DefReb,,G. Dragić,
 293,3,3:48.0,64,65,POR,MIA,8,away,BadPass,,,turnover,,J. McRoberts,
@@ -340,9 +340,9 @@
 338,4,10:35.0,73,73,POR,MIA,1,away,DefReb,,,DefReb,,H. Whiteside,
 339,4,10:17.0,73,73,POR,MIA,18,away,JS,,10,miss2,0,T. Johnson,
 340,4,10:16.0,73,73,POR,MIA,1,home,DefReb,,,DefReb,,M. Harkless,
-341,4,10:13.0,73,73,POR,MIA,3,home,LostBall,steal,,turnover,,M. Harkless,T. Johnson
+341,4,10:13.0,73,73,POR,MIA,3,home,lost ball,steal,,turnover,,M. Harkless,T. Johnson
 342,4,10:09.0,73,75,POR,MIA,4,away,DK,assist,0,make2,2,H. Whiteside,J. McRoberts
-343,4,9:49.0,73,75,POR,MIA,20,home,BadPass,steal,,turnover,,M. Leonard,J. McRoberts
+343,4,9:49.0,73,75,POR,MIA,20,home,bad pass,steal,,turnover,,M. Leonard,J. McRoberts
 344,4,9:25.0,73,77,POR,MIA,24,away,JS,,4,make2,2,H. Whiteside,
 345,4,9:24.0,73,77,POR,MIA,1,home,Timeout,,,,,,
 346,4,9:24.0,73,77,POR,MIA,0,home,Sub,,,,,M. Plumlee,M. Leonard
@@ -379,7 +379,7 @@
 377,4,5:35.0,82,84,POR,MIA,16,home,JS,,6,miss2,0,A. Crabbe,
 378,4,5:35.0,82,84,POR,MIA,0,away,DefReb,,,DefReb,,R. McGruder,
 379,4,5:30.0,82,84,POR,MIA,5,away,OutOfBounds,,,turnover,,W. Ellington,
-380,4,5:15.0,82,84,POR,MIA,15,home,BadPass,steal,,turnover,,D. Lillard,G. Dragić
+380,4,5:15.0,82,84,POR,MIA,15,home,bad pass,steal,,turnover,,D. Lillard,G. Dragić
 381,4,5:05.0,82,84,POR,MIA,10,away,LostBall,,,turnover,,H. Whiteside,
 382,4,4:41.0,82,84,POR,MIA,24,home,JS,,8,miss2,0,E. Turner,
 383,4,4:41.0,82,84,POR,MIA,0,away,DefReb,,,DefReb,,T. Johnson,

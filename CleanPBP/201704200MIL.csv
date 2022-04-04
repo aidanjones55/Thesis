@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:48.0,0,0,MIL,TOR,12,home,JS,,19,miss2,0,G. Antetokounmpo,
 1,1,11:47.0,0,0,MIL,TOR,1,home,OffReb,,,OffReb,,T. Maker,
-2,1,11:42.0,0,0,MIL,TOR,5,home,BadPass,steal,,turnover,,G. Antetokounmpo,D. Carroll
+2,1,11:42.0,0,0,MIL,TOR,5,home,bad pass,steal,,turnover,,G. Antetokounmpo,D. Carroll
 3,1,11:20.0,0,0,MIL,TOR,22,away,JS,,29,miss3,0,K. Lowry,
 4,1,11:19.0,0,0,MIL,TOR,1,home,DefReb,,,DefReb,,T. Snell,
 5,1,11:11.0,0,0,MIL,TOR,8,home,Timeout,,,,,,
@@ -46,7 +46,7 @@
 44,1,6:37.0,15,8,MIL,TOR,0,home,Sub,,,,,G. Monroe,T. Maker
 45,1,6:21.0,15,8,MIL,TOR,16,away,JS,,21,miss2,0,S. Ibaka,
 46,1,6:20.0,15,8,MIL,TOR,1,home,DefReb,,,DefReb,,G. Antetokounmpo,
-47,1,6:11.0,15,8,MIL,TOR,9,home,BadPass,steal,,turnover,,G. Antetokounmpo,P. Tucker
+47,1,6:11.0,15,8,MIL,TOR,9,home,bad pass,steal,,turnover,,G. Antetokounmpo,P. Tucker
 48,1,5:57.0,15,8,MIL,TOR,14,away,JS,,28,miss3,0,K. Lowry,
 49,1,5:56.0,15,8,MIL,TOR,1,home,DefReb,,,DefReb,,M. Brogdon,
 50,1,5:48.0,17,8,MIL,TOR,8,home,JS,assist,3,make2,2,K. Middleton,M. Brogdon
@@ -86,7 +86,7 @@
 84,1,0:21.0,32,12,MIL,TOR,16,away,JS,,5,miss2,0,S. Ibaka,
 85,1,0:20.0,32,12,MIL,TOR,1,home,DefReb,,,DefReb,,G. Monroe,
 86,1,0:03.0,32,12,MIL,TOR,17,home,Traveling,,,turnover,,M. Dellavedova,
-87,2,11:43.0,32,12,MIL,TOR,17,away,BadPass,steal,,turnover,,K. Lowry,G. Monroe
+87,2,11:43.0,32,12,MIL,TOR,17,away,bad pass,steal,,turnover,,K. Lowry,G. Monroe
 88,2,11:24.0,34,12,MIL,TOR,19,home,LU,assist,0,make2,2,G. Monroe,K. Middleton
 89,2,11:00.0,34,12,MIL,TOR,24,away,JS,,16,miss2,0,J. Valančiūnas,
 90,2,10:59.0,34,12,MIL,TOR,1,home,DefReb,,,DefReb,,M. Beasley,
@@ -125,7 +125,7 @@
 123,2,6:44.0,46,17,MIL,TOR,5,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,G. Monroe,K. Lowry
 124,2,6:44.0,46,17,MIL,TOR,0,home,Sub,,,,,G. Antetokounmpo,M. Beasley
 125,2,6:44.0,46,17,MIL,TOR,0,away,Sub,,,,,D. DeRozan,C. Joseph
-126,2,6:34.0,46,17,MIL,TOR,10,away,LostBall,steal,,turnover,,D. Wright,G. Monroe
+126,2,6:34.0,46,17,MIL,TOR,10,away,lost ball,steal,,turnover,,D. Wright,G. Monroe
 127,2,6:19.0,48,17,MIL,TOR,15,home,HS,,1,make2,2,G. Monroe,
 128,2,6:11.0,48,17,MIL,TOR,8,away,Timeout,,,,,,
 129,2,6:11.0,48,17,MIL,TOR,0,away,Sub,,,,,S. Ibaka,J. Poeltl
@@ -146,7 +146,7 @@
 144,2,4:41.0,51,21,MIL,TOR,0,home,FreeThrow,,,make1,1,G. Monroe,
 145,2,4:41.0,51,21,MIL,TOR,0,away,Sub,,,,,P. Tucker,P. Patterson
 146,2,4:41.0,52,21,MIL,TOR,0,home,FreeThrow,,,make1,1,G. Monroe,
-147,2,4:21.0,52,21,MIL,TOR,20,away,BadPass,steal,,turnover,,D. DeRozan,G. Antetokounmpo
+147,2,4:21.0,52,21,MIL,TOR,20,away,bad pass,steal,,turnover,,D. DeRozan,G. Antetokounmpo
 148,2,4:19.0,52,21,MIL,TOR,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Lowry,G. Antetokounmpo
 149,2,4:12.0,52,21,MIL,TOR,7,home,LU,,1,miss2,0,M. Brogdon,
 150,2,4:10.0,52,21,MIL,TOR,2,home,OffReb,,,OffReb,,G. Monroe,
@@ -222,7 +222,7 @@
 220,3,7:09.0,65,38,MIL,TOR,0,away,FreeThrow,,,make1,0,K. Lowry,
 221,3,7:09.0,65,38,MIL,TOR,0,away,OffReb,,,OffReb,,Team,
 222,3,7:09.0,65,39,MIL,TOR,0,away,FreeThrow,,,make1,1,K. Lowry,
-223,3,6:52.0,65,39,MIL,TOR,17,home,BadPass,steal,,turnover,,M. Brogdon,D. Carroll
+223,3,6:52.0,65,39,MIL,TOR,17,home,bad pass,steal,,turnover,,M. Brogdon,D. Carroll
 224,3,6:43.0,65,41,MIL,TOR,9,away,JS,,16,make2,2,C. Joseph,
 225,3,6:24.0,67,41,MIL,TOR,19,home,JS,assist,7,make2,2,M. Brogdon,G. Antetokounmpo
 226,3,6:13.0,67,41,MIL,TOR,11,away,JS,,23,miss3,0,D. DeRozan,
@@ -231,7 +231,7 @@
 229,3,5:53.0,67,41,MIL,TOR,16,home,LU,block,3,miss2,0,M. Brogdon,D. Carroll
 230,3,5:53.0,67,41,MIL,TOR,0,home,OffReb,,,OffReb,,Team,
 231,3,5:47.0,69,41,MIL,TOR,6,home,JS,assist,17,make2,2,G. Antetokounmpo,M. Brogdon
-232,3,5:24.0,69,41,MIL,TOR,23,away,BadPass,steal,,turnover,,C. Joseph,G. Antetokounmpo
+232,3,5:24.0,69,41,MIL,TOR,23,away,bad pass,steal,,turnover,,C. Joseph,G. Antetokounmpo
 233,3,5:23.0,69,41,MIL,TOR,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Lowry,T. Maker
 234,3,5:23.0,70,41,MIL,TOR,0,home,FreeThrow,,,make1,1,T. Maker,
 235,3,5:23.0,70,41,MIL,TOR,0,away,Sub,,,,,D. Wright,C. Joseph
@@ -322,8 +322,8 @@
 320,4,9:22.0,82,53,MIL,TOR,18,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Monroe,J. Valančiūnas
 321,4,9:13.0,82,56,MIL,TOR,9,away,JS,assist,26,make3,3,K. Lowry,P. Patterson
 322,4,8:52.0,82,56,MIL,TOR,21,away,Timeout,,,,,,
-323,4,8:51.0,82,56,MIL,TOR,1,home,LostBall,steal,,turnover,,M. Beasley,P. Patterson
-324,4,8:37.0,82,56,MIL,TOR,14,away,BadPass,steal,,turnover,,K. Lowry,K. Middleton
+323,4,8:51.0,82,56,MIL,TOR,1,home,lost ball,steal,,turnover,,M. Beasley,P. Patterson
+324,4,8:37.0,82,56,MIL,TOR,14,away,bad pass,steal,,turnover,,K. Lowry,K. Middleton
 325,4,8:32.0,84,56,MIL,TOR,5,home,LU,,1,make2,2,K. Middleton,
 326,4,8:26.0,84,56,MIL,TOR,6,home,DefGoaltending,,,DefGoaltending,,M. Beasley,
 327,4,8:26.0,84,58,MIL,TOR,0,away,HS,assist,1,make2,2,J. Valančiūnas,N. Powell
@@ -342,7 +342,7 @@
 340,4,6:57.0,89,61,MIL,TOR,7,home,JS,assist,26,make3,3,M. Dellavedova,T. Maker
 341,4,6:46.0,89,63,MIL,TOR,11,away,DK,,0,make2,2,N. Powell,
 342,4,6:31.0,91,63,MIL,TOR,15,home,DK,,0,make2,2,G. Antetokounmpo,
-343,4,6:19.0,91,63,MIL,TOR,12,away,LostBall,steal,,turnover,,D. Wright,K. Middleton
+343,4,6:19.0,91,63,MIL,TOR,12,away,lost ball,steal,,turnover,,D. Wright,K. Middleton
 344,4,6:16.0,91,63,MIL,TOR,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Lowry,G. Antetokounmpo
 345,4,6:16.0,92,63,MIL,TOR,0,home,FreeThrow,,,make1,1,G. Antetokounmpo,
 346,4,6:16.0,92,63,MIL,TOR,0,away,Sub,,,,,F. VanVleet,K. Lowry
@@ -365,7 +365,7 @@
 363,4,4:59.0,95,64,MIL,TOR,9,away,JS,,24,miss3,0,F. VanVleet,
 364,4,4:58.0,95,64,MIL,TOR,1,away,OffReb,,,OffReb,,J. Poeltl,
 365,4,4:57.0,95,66,MIL,TOR,1,away,LU,,0,make2,2,J. Poeltl,
-366,4,4:37.0,95,66,MIL,TOR,20,home,BadPass,steal,,turnover,,M. Beasley,N. Powell
+366,4,4:37.0,95,66,MIL,TOR,20,home,bad pass,steal,,turnover,,M. Beasley,N. Powell
 367,4,4:32.0,95,66,MIL,TOR,5,away,LU,,3,miss2,0,N. Powell,
 368,4,4:30.0,95,66,MIL,TOR,2,away,OffReb,,,OffReb,,D. Wright,
 369,4,4:30.0,95,68,MIL,TOR,0,away,LU,,1,make2,2,D. Wright,
@@ -407,6 +407,6 @@
 405,4,1:00.0,101,73,MIL,TOR,9,away,LU,block,3,miss2,0,J. Poeltl,M. Beasley
 406,4,0:59.0,101,73,MIL,TOR,1,away,OffReb,,,OffReb,,J. Poeltl,
 407,4,0:59.0,101,75,MIL,TOR,0,away,LU,,3,make2,2,J. Poeltl,
-408,4,0:35.0,101,75,MIL,TOR,24,home,LostBall,steal,,turnover,,S. Hawes,N. Powell
+408,4,0:35.0,101,75,MIL,TOR,24,home,lost ball,steal,,turnover,,S. Hawes,N. Powell
 409,4,0:30.0,101,77,MIL,TOR,5,away,LU,assist,1,make2,2,N. Powell,D. Wright
 410,4,0:04.0,104,77,MIL,TOR,26,home,JS,assist,26,make3,3,R. Vaughn,M. Brogdon

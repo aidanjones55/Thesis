@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:47.0,0,0,POR,BOS,13,home,BadPass,steal,,turnover,,M. Plumlee,M. Smart
+0,1,11:47.0,0,0,POR,BOS,13,home,bad pass,steal,,turnover,,M. Plumlee,M. Smart
 1,1,11:40.0,0,3,POR,BOS,7,away,JS,assist,25,make3,3,J. Brown,M. Smart
 2,1,11:23.0,0,3,POR,BOS,17,home,JS,,26,miss3,0,D. Lillard,
 3,1,11:22.0,0,3,POR,BOS,1,away,DefReb,,,DefReb,,J. Brown,
@@ -14,7 +14,7 @@
 12,1,9:43.0,4,5,POR,BOS,0,home,FreeThrow,,,make1,0,M. Plumlee,
 13,1,9:43.0,4,5,POR,BOS,0,home,OffReb,,,OffReb,,Team,
 14,1,9:43.0,5,5,POR,BOS,0,home,FreeThrow,,,make1,1,M. Plumlee,
-15,1,9:25.0,5,5,POR,BOS,18,away,LostBall,steal,,turnover,,A. Horford,M. Harkless
+15,1,9:25.0,5,5,POR,BOS,18,away,lost ball,steal,,turnover,,A. Horford,M. Harkless
 16,1,9:19.0,7,5,POR,BOS,6,home,LU,assist,1,make2,2,M. Plumlee,N. Vonleh
 17,1,9:03.0,7,5,POR,BOS,16,away,JS,block,26,miss3,0,I. Thomas,M. Harkless
 18,1,8:59.0,7,5,POR,BOS,4,away,OffReb,,,OffReb,,A. Horford,
@@ -176,7 +176,7 @@
 174,2,5:52.0,47,34,POR,BOS,0,home,Sub,,,,,C. McCollum,A. Crabbe
 175,2,5:39.0,47,34,POR,BOS,13,away,JS,,24,miss3,0,J. Brown,
 176,2,5:35.0,47,34,POR,BOS,4,away,OffReb,,,OffReb,,A. Johnson,
-177,2,5:27.0,47,34,POR,BOS,8,away,BadPass,steal,,turnover,,J. Brown,M. Harkless
+177,2,5:27.0,47,34,POR,BOS,8,away,bad pass,steal,,turnover,,J. Brown,M. Harkless
 178,2,5:21.0,47,34,POR,BOS,6,home,OutOfBounds,,,turnover,,A. Aminu,
 179,2,5:04.0,47,34,POR,BOS,17,away,LU,block,2,miss2,0,M. Smart,C. McCollum
 180,2,5:04.0,47,34,POR,BOS,0,away,OffReb,,,OffReb,,Team,
@@ -208,7 +208,7 @@
 206,2,2:19.0,53,38,POR,BOS,0,away,Timeout,,,,,,
 207,2,2:19.0,53,38,POR,BOS,0,away,Sub,,,,,T. Zeller,J. Brown
 208,2,2:01.0,53,41,POR,BOS,18,away,JS,assist,26,make3,3,I. Thomas,T. Rozier
-209,2,1:42.0,53,41,POR,BOS,19,home,LostBall,steal,,turnover,,C. McCollum,M. Smart
+209,2,1:42.0,53,41,POR,BOS,19,home,lost ball,steal,,turnover,,C. McCollum,M. Smart
 210,2,1:39.0,53,41,POR,BOS,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. McCollum,M. Smart
 211,2,1:39.0,53,42,POR,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
 212,2,1:39.0,53,42,POR,BOS,0,away,FreeThrow,,,make1,0,M. Smart,
@@ -229,15 +229,15 @@
 227,2,0:18.0,55,49,POR,BOS,0,away,Sub,,,,,J. Brown,T. Zeller
 228,2,0:18.0,55,49,POR,BOS,0,home,Sub,,,,,M. Leonard,M. Plumlee
 229,2,0:18.0,55,49,POR,BOS,0,home,Sub,,,,,A. Crabbe,M. Harkless
-230,2,0:00.0,55,49,POR,BOS,18,home,LostBall,steal,,turnover,,M. Leonard,M. Smart
+230,2,0:00.0,55,49,POR,BOS,18,home,lost ball,steal,,turnover,,M. Leonard,M. Smart
 231,3,11:50.0,55,52,POR,BOS,10,away,JS,assist,24,make3,3,A. Horford,A. Johnson
 232,3,11:27.0,55,52,POR,BOS,23,home,JS,,3,miss2,0,N. Vonleh,
 233,3,11:26.0,55,52,POR,BOS,1,away,DefReb,,,DefReb,,A. Horford,
 234,3,11:17.0,55,52,POR,BOS,9,away,JS,,24,miss3,0,I. Thomas,
 235,3,11:16.0,55,52,POR,BOS,1,home,DefReb,,,DefReb,,C. McCollum,
-236,3,11:08.0,55,52,POR,BOS,8,home,BadPass,steal,,turnover,,C. McCollum,I. Thomas
-237,3,11:00.0,55,52,POR,BOS,8,away,BadPass,steal,,turnover,,I. Thomas,M. Harkless
-238,3,10:48.0,55,52,POR,BOS,12,home,LostBall,steal,,turnover,,M. Plumlee,M. Smart
+236,3,11:08.0,55,52,POR,BOS,8,home,bad pass,steal,,turnover,,C. McCollum,I. Thomas
+237,3,11:00.0,55,52,POR,BOS,8,away,bad pass,steal,,turnover,,I. Thomas,M. Harkless
+238,3,10:48.0,55,52,POR,BOS,12,home,lost ball,steal,,turnover,,M. Plumlee,M. Smart
 239,3,10:44.0,55,52,POR,BOS,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Harkless,J. Brown
 240,3,10:44.0,55,53,POR,BOS,0,away,FreeThrow,,,make1,1,J. Brown,
 241,3,10:44.0,55,54,POR,BOS,0,away,FreeThrow,,,make1,1,J. Brown,
@@ -255,7 +255,7 @@
 253,3,9:13.0,57,57,POR,BOS,1,away,DefReb,,,DefReb,,M. Smart,
 254,3,9:07.0,57,57,POR,BOS,6,away,LU,block,1,miss2,0,M. Smart,M. Plumlee
 255,3,9:06.0,57,57,POR,BOS,1,home,DefReb,,,DefReb,,N. Vonleh,
-256,3,8:57.0,57,57,POR,BOS,9,home,BadPass,steal,,turnover,,D. Lillard,J. Brown
+256,3,8:57.0,57,57,POR,BOS,9,home,bad pass,steal,,turnover,,D. Lillard,J. Brown
 257,3,8:32.0,57,59,POR,BOS,25,away,JS,,11,make2,2,A. Horford,
 258,3,8:32.0,57,59,POR,BOS,0,home,Timeout,,,,,,
 259,3,8:16.0,57,59,POR,BOS,16,home,HS,,2,miss2,0,M. Plumlee,
@@ -319,7 +319,7 @@
 317,3,2:28.0,66,68,POR,BOS,2,away,DefReb,,,DefReb,,K. Olynyk,
 318,3,2:19.0,66,68,POR,BOS,9,away,JS,,25,miss3,0,K. Olynyk,
 319,3,2:18.0,66,68,POR,BOS,1,away,OffReb,,,OffReb,,T. Zeller,
-320,3,2:14.0,66,68,POR,BOS,4,away,BadPass,steal,,turnover,,T. Zeller,A. Crabbe
+320,3,2:14.0,66,68,POR,BOS,4,away,bad pass,steal,,turnover,,T. Zeller,A. Crabbe
 321,3,2:09.0,68,68,POR,BOS,5,home,LU,assist,0,make2,2,P. Connaughton,A. Crabbe
 322,3,1:49.0,68,71,POR,BOS,20,away,JS,assist,25,make3,3,T. Rozier,G. Green
 323,3,1:25.0,71,71,POR,BOS,24,home,JS,assist,25,make3,3,M. Leonard,D. Lillard
@@ -365,7 +365,7 @@
 363,4,8:44.0,83,86,POR,BOS,2,home,DefReb,,,DefReb,,A. Aminu,
 364,4,8:36.0,85,86,POR,BOS,8,home,HS,assist,6,make2,2,M. Leonard,A. Crabbe
 365,4,8:19.0,85,89,POR,BOS,17,away,JS,assist,25,make3,3,K. Olynyk,I. Thomas
-366,4,8:03.0,85,89,POR,BOS,16,home,LostBall,steal,,turnover,,M. Leonard,T. Rozier
+366,4,8:03.0,85,89,POR,BOS,16,home,lost ball,steal,,turnover,,M. Leonard,T. Rozier
 367,4,7:58.0,85,89,POR,BOS,5,away,LU,,1,miss2,0,T. Rozier,
 368,4,7:57.0,85,89,POR,BOS,1,home,DefReb,,,DefReb,,C. McCollum,
 369,4,7:51.0,88,89,POR,BOS,6,home,JS,assist,24,make3,3,A. Crabbe,D. Lillard
@@ -418,7 +418,7 @@
 416,4,2:39.0,104,106,POR,BOS,0,home,FreeThrow,,,make1,1,D. Lillard,
 417,4,2:18.0,104,106,POR,BOS,21,away,JS,,3,miss2,0,J. Brown,
 418,4,2:17.0,104,106,POR,BOS,1,home,DefReb,,,DefReb,,A. Aminu,
-419,4,2:11.0,104,106,POR,BOS,6,home,LostBall,steal,,turnover,,A. Aminu,M. Smart
+419,4,2:11.0,104,106,POR,BOS,6,home,lost ball,steal,,turnover,,A. Aminu,M. Smart
 420,4,2:10.0,104,106,POR,BOS,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,C. McCollum,J. Brown
 421,4,2:10.0,104,107,POR,BOS,0,away,FreeThrow,,,make1,1,J. Brown,
 422,4,2:10.0,104,108,POR,BOS,0,away,FreeThrow,,,make1,1,J. Brown,

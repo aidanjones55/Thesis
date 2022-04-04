@@ -1,9 +1,9 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:42.0,0,0,GSW,IND,18,away,LostBall,steal,,turnover,,J. Teague,D. Green
+0,1,11:42.0,0,0,GSW,IND,18,away,lost ball,steal,,turnover,,J. Teague,D. Green
 1,1,11:20.0,2,0,GSW,IND,22,home,JS,assist,14,make2,2,K. Durant,D. Green
 2,1,11:00.0,2,0,GSW,IND,20,away,JS,,5,miss2,0,T. Young,
 3,1,10:59.0,2,0,GSW,IND,1,home,DefReb,,,DefReb,,K. Durant,
-4,1,10:57.0,2,0,GSW,IND,2,home,BadPass,steal,,turnover,,K. Durant,P. George
+4,1,10:57.0,2,0,GSW,IND,2,home,bad pass,steal,,turnover,,K. Durant,P. George
 5,1,10:50.0,2,0,GSW,IND,7,away,JS,,7,miss2,0,P. George,
 6,1,10:49.0,2,0,GSW,IND,1,home,DefReb,,,DefReb,,K. Durant,
 7,1,10:38.0,5,0,GSW,IND,11,home,JS,assist,25,make3,3,K. Thompson,D. Green
@@ -40,7 +40,7 @@
 38,1,6:57.0,15,13,GSW,IND,6,home,JS,assist,10,make2,2,K. Thompson,D. Green
 39,1,6:48.0,15,13,GSW,IND,9,away,BadPass,,,turnover,,M. Ellis,
 40,1,6:34.0,17,13,GSW,IND,14,home,LU,assist,2,make2,2,K. Thompson,Z. Pachulia
-41,1,6:19.0,17,13,GSW,IND,15,away,LostBall,steal,,turnover,,J. Teague,Z. Pachulia
+41,1,6:19.0,17,13,GSW,IND,15,away,lost ball,steal,,turnover,,J. Teague,Z. Pachulia
 42,1,6:08.0,19,13,GSW,IND,11,home,DK,assist,0,make2,2,K. Durant,D. Green
 43,1,6:02.0,19,13,GSW,IND,6,away,Timeout,,,,,,
 44,1,6:02.0,19,13,GSW,IND,0,home,Sub,,,,,A. Iguodala,K. Durant
@@ -103,7 +103,7 @@
 101,1,0:49.0,36,27,GSW,IND,16,away,JS,block,26,miss3,0,C. Miles,K. Durant
 102,1,0:48.0,36,27,GSW,IND,1,home,DefReb,,,DefReb,,S. Curry,
 103,1,0:46.0,38,27,GSW,IND,2,home,DK,assist,0,make2,2,K. Durant,S. Curry
-104,1,0:33.0,38,27,GSW,IND,13,away,BadPass,steal,,turnover,,M. Ellis,I. Clark
+104,1,0:33.0,38,27,GSW,IND,13,away,bad pass,steal,,turnover,,M. Ellis,I. Clark
 105,1,0:26.0,38,27,GSW,IND,7,home,JS,,26,miss3,0,S. Curry,
 106,1,0:25.0,38,27,GSW,IND,1,away,DefReb,,,DefReb,,C. Miles,
 107,1,0:04.0,38,27,GSW,IND,21,away,JS,,11,miss2,0,A. Jefferson,
@@ -163,7 +163,7 @@
 161,2,6:47.0,53,39,GSW,IND,0,away,Sub,,,,,T. Young,C. Miles
 162,2,6:47.0,53,39,GSW,IND,0,home,Sub,,,,,D. Green,K. Durant
 163,2,6:47.0,53,39,GSW,IND,0,home,Sub,,,,,Z. Pachulia,D. West
-164,2,6:38.0,53,39,GSW,IND,9,away,LostBall,steal,,turnover,,M. Ellis,D. Green
+164,2,6:38.0,53,39,GSW,IND,9,away,lost ball,steal,,turnover,,M. Ellis,D. Green
 165,2,6:33.0,56,39,GSW,IND,5,home,JS,assist,27,make3,3,K. Thompson,D. Green
 166,2,6:19.0,56,39,GSW,IND,14,away,JS,,19,miss2,0,P. George,
 167,2,6:19.0,56,39,GSW,IND,0,home,DefReb,,,DefReb,,D. Green,
@@ -179,7 +179,7 @@
 177,2,4:59.0,59,41,GSW,IND,0,away,DefReb,,,DefReb,,P. George,
 178,2,4:50.0,59,41,GSW,IND,9,away,JS,block,4,miss2,0,P. George,Z. Pachulia
 179,2,4:49.0,59,41,GSW,IND,1,away,OffReb,,,OffReb,,P. George,
-180,2,4:45.0,59,41,GSW,IND,4,away,BadPass,steal,,turnover,,P. George,D. Green
+180,2,4:45.0,59,41,GSW,IND,4,away,bad pass,steal,,turnover,,P. George,D. Green
 181,2,4:41.0,59,41,GSW,IND,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,K. Thompson
 182,2,4:41.0,60,41,GSW,IND,0,home,FreeThrow,,,make1,1,K. Thompson,
 183,2,4:41.0,60,41,GSW,IND,0,home,Sub,,,,,A. Iguodala,S. Livingston
@@ -204,7 +204,7 @@
 202,2,3:02.0,66,42,GSW,IND,15,away,JS,,9,miss2,0,M. Turner,
 203,2,3:01.0,66,42,GSW,IND,1,home,DefReb,,,DefReb,,A. Iguodala,
 204,2,2:54.0,68,42,GSW,IND,7,home,LU,assist,2,make2,2,K. Durant,D. Green
-205,2,2:45.0,68,42,GSW,IND,9,away,BadPass,steal,,turnover,,J. Teague,D. Green
+205,2,2:45.0,68,42,GSW,IND,9,away,bad pass,steal,,turnover,,J. Teague,D. Green
 206,2,2:34.0,70,42,GSW,IND,11,home,JS,assist,5,make2,2,K. Thompson,K. Durant
 207,2,2:10.0,70,42,GSW,IND,24,away,JS,block,3,miss2,0,J. Teague,D. Green
 208,2,2:10.0,70,42,GSW,IND,0,away,OffReb,,,OffReb,,J. Teague,
@@ -233,7 +233,7 @@
 231,2,0:28.0,80,50,GSW,IND,7,home,JS,assist,27,make3,3,K. Thompson,S. Curry
 232,2,0:09.0,80,50,GSW,IND,19,away,JS,block,4,miss2,0,J. Teague,K. Looney
 233,2,0:08.0,80,50,GSW,IND,1,home,DefReb,,,DefReb,,K. Durant,
-234,2,0:05.0,80,50,GSW,IND,3,home,BadPass,steal,,turnover,,K. Durant,M. Ellis
+234,2,0:05.0,80,50,GSW,IND,3,home,bad pass,steal,,turnover,,K. Durant,M. Ellis
 235,3,11:45.0,80,50,GSW,IND,15,home,JS,,25,miss3,0,D. Green,
 236,3,11:45.0,80,50,GSW,IND,0,away,DefReb,,,DefReb,,P. George,
 237,3,11:31.0,80,52,GSW,IND,14,away,LU,assist,2,make2,2,T. Young,P. George
@@ -242,27 +242,27 @@
 240,3,11:23.0,82,52,GSW,IND,0,home,FreeThrow,,,make1,1,S. Curry,
 241,3,11:08.0,82,52,GSW,IND,15,away,HS,,8,miss2,0,T. Young,
 242,3,11:07.0,82,52,GSW,IND,1,home,DefReb,,,DefReb,,K. Thompson,
-243,3,10:59.0,82,52,GSW,IND,8,home,BadPass,steal,,turnover,,D. Green,J. Teague
+243,3,10:59.0,82,52,GSW,IND,8,home,bad pass,steal,,turnover,,D. Green,J. Teague
 244,3,10:51.0,82,54,GSW,IND,8,away,LU,assist,1,make2,2,M. Ellis,J. Teague
 245,3,10:37.0,82,54,GSW,IND,14,home,JS,block,3,miss2,0,K. Thompson,M. Turner
 246,3,10:37.0,82,54,GSW,IND,0,home,OffReb,,,OffReb,,Team,
 247,3,10:35.0,84,54,GSW,IND,2,home,JS,assist,19,make2,2,K. Thompson,S. Curry
 248,3,10:19.0,84,54,GSW,IND,16,away,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Pachulia,M. Turner
-249,3,10:07.0,84,54,GSW,IND,12,away,LostBall,steal,,turnover,,T. Young,Z. Pachulia
+249,3,10:07.0,84,54,GSW,IND,12,away,lost ball,steal,,turnover,,T. Young,Z. Pachulia
 250,3,9:59.0,84,54,GSW,IND,8,home,JS,,25,miss3,0,K. Durant,
 251,3,9:57.0,84,54,GSW,IND,2,home,OffReb,,,OffReb,,D. Green,
 252,3,9:57.0,84,54,GSW,IND,0,home,LU,,2,miss2,0,D. Green,
 253,3,9:57.0,84,54,GSW,IND,0,away,DefReb,,,DefReb,,Team,
 254,3,9:44.0,84,56,GSW,IND,13,away,JS,assist,9,make2,2,T. Young,P. George
 255,3,9:32.0,86,56,GSW,IND,12,home,LU,assist,1,make2,2,K. Thompson,Z. Pachulia
-256,3,9:25.0,86,56,GSW,IND,7,away,LostBall,steal,,turnover,,P. George,Z. Pachulia
+256,3,9:25.0,86,56,GSW,IND,7,away,lost ball,steal,,turnover,,P. George,Z. Pachulia
 257,3,9:18.0,88,56,GSW,IND,7,home,DK,assist,0,make2,2,K. Durant,S. Curry
 258,3,9:06.0,88,56,GSW,IND,12,away,JS,,25,miss3,0,M. Turner,
 259,3,9:06.0,88,56,GSW,IND,0,home,DefReb,,,DefReb,,Team,
 260,3,9:06.0,88,56,GSW,IND,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Teague,S. Curry
 261,3,8:57.0,88,56,GSW,IND,9,home,JS,,27,miss3,0,S. Curry,
 262,3,8:55.0,88,56,GSW,IND,2,home,OffReb,,,OffReb,,Z. Pachulia,
-263,3,8:54.0,88,56,GSW,IND,1,home,BadPass,steal,,turnover,,Z. Pachulia,M. Ellis
+263,3,8:54.0,88,56,GSW,IND,1,home,bad pass,steal,,turnover,,Z. Pachulia,M. Ellis
 264,3,8:48.0,88,58,GSW,IND,6,away,LU,assist,2,make2,2,T. Young,M. Ellis
 265,3,8:34.0,88,58,GSW,IND,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Young,D. Green
 266,3,8:28.0,88,58,GSW,IND,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. George,K. Durant
@@ -274,7 +274,7 @@
 272,3,7:46.0,90,60,GSW,IND,0,home,Timeout,,,,,,
 273,3,7:43.0,90,60,GSW,IND,3,home,JS,,23,miss3,0,K. Thompson,
 274,3,7:42.0,90,60,GSW,IND,1,away,DefReb,,,DefReb,,P. George,
-275,3,7:35.0,90,60,GSW,IND,7,away,BadPass,steal,,turnover,,T. Young,S. Curry
+275,3,7:35.0,90,60,GSW,IND,7,away,bad pass,steal,,turnover,,T. Young,S. Curry
 276,3,7:33.0,90,60,GSW,IND,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Teague,S. Curry
 277,3,7:33.0,91,60,GSW,IND,0,home,FreeThrow,,,make1,1,S. Curry,
 278,3,7:33.0,91,60,GSW,IND,0,home,FreeThrow,,,make1,0,S. Curry,
@@ -328,7 +328,7 @@
 326,3,4:08.0,105,70,GSW,IND,0,home,DK,,0,make2,2,J. McGee,
 327,3,3:52.0,105,73,GSW,IND,16,away,JS,assist,25,make3,3,C. Miles,J. Teague
 328,3,3:40.0,107,73,GSW,IND,12,home,LU,assist,1,make2,2,D. Green,A. Iguodala
-329,3,3:35.0,107,73,GSW,IND,5,away,BadPass,steal,,turnover,,K. Séraphin,S. Curry
+329,3,3:35.0,107,73,GSW,IND,5,away,bad pass,steal,,turnover,,K. Séraphin,S. Curry
 330,3,3:29.0,110,73,GSW,IND,6,home,JS,assist,27,make3,3,K. Thompson,S. Curry
 331,3,3:23.0,110,73,GSW,IND,6,away,Timeout,,,,,,
 332,3,3:12.0,110,73,GSW,IND,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Iguodala,P. George
@@ -362,7 +362,7 @@
 360,3,0:19.0,116,83,GSW,IND,0,away,FreeThrow,,,make1,1,P. George,
 361,3,0:07.0,116,83,GSW,IND,12,home,JS,,26,miss3,0,I. Clark,
 362,3,0:06.0,116,83,GSW,IND,1,away,DefReb,,,DefReb,,P. George,
-363,3,0:01.0,116,83,GSW,IND,5,away,LostBall,steal,,turnover,,K. Séraphin,I. Clark
+363,3,0:01.0,116,83,GSW,IND,5,away,lost ball,steal,,turnover,,K. Séraphin,I. Clark
 364,3,0:00.0,116,83,GSW,IND,1,home,JS,,74,miss3,0,J. McGee,
 365,3,0:00.0,116,83,GSW,IND,0,home,OffReb,,,OffReb,,Team,
 366,4,11:48.0,116,83,GSW,IND,12,away,JS,,27,miss3,0,G. Robinson,
@@ -378,7 +378,7 @@
 376,4,10:58.0,116,83,GSW,IND,1,away,DefReb,,,DefReb,,K. Séraphin,
 377,4,10:47.0,116,83,GSW,IND,11,away,JS,,18,miss2,0,K. Séraphin,
 378,4,10:46.0,116,83,GSW,IND,1,home,DefReb,,,DefReb,,K. Looney,
-379,4,10:39.0,116,83,GSW,IND,7,home,BadPass,steal,,turnover,,D. West,R. Stuckey
+379,4,10:39.0,116,83,GSW,IND,7,home,bad pass,steal,,turnover,,D. West,R. Stuckey
 380,4,10:15.0,116,86,GSW,IND,24,away,JS,assist,25,make3,3,C. Miles,K. Séraphin
 381,4,10:01.0,116,86,GSW,IND,14,home,JS,block,4,miss2,0,K. Looney,C. Miles
 382,4,9:59.0,116,86,GSW,IND,2,away,DefReb,,,DefReb,,A. Brooks,
@@ -409,7 +409,7 @@
 407,4,7:22.0,124,90,GSW,IND,3,home,OffReb,,,OffReb,,P. McCaw,
 408,4,7:15.0,127,90,GSW,IND,7,home,JS,assist,24,make3,3,P. McCaw,S. Livingston
 409,4,7:15.0,127,90,GSW,IND,0,away,Timeout,,,,,,
-410,4,7:03.0,127,90,GSW,IND,12,away,LostBall,steal,,turnover,,G. Robinson,P. McCaw
+410,4,7:03.0,127,90,GSW,IND,12,away,lost ball,steal,,turnover,,G. Robinson,P. McCaw
 411,4,6:57.0,127,90,GSW,IND,6,home,JS,,23,miss3,0,P. McCaw,
 412,4,6:56.0,127,90,GSW,IND,1,away,DefReb,,,DefReb,,K. Séraphin,
 413,4,6:50.0,127,90,GSW,IND,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,K. Looney,G. Robinson
@@ -427,12 +427,12 @@
 425,4,5:30.0,132,92,GSW,IND,2,away,DefReb,,,DefReb,,J. Young,
 426,4,5:21.0,132,92,GSW,IND,9,away,JS,,26,miss3,0,J. Young,
 427,4,5:21.0,132,92,GSW,IND,0,home,DefReb,,,DefReb,,J. McGee,
-428,4,5:11.0,132,92,GSW,IND,10,home,BadPass,steal,,turnover,,P. McCaw,J. Young
+428,4,5:11.0,132,92,GSW,IND,10,home,bad pass,steal,,turnover,,P. McCaw,J. Young
 429,4,5:04.0,132,94,GSW,IND,7,away,LU,,2,make2,2,J. Young,
 430,4,4:46.0,132,94,GSW,IND,18,home,BadPass,,,turnover,,J. McAdoo,
 431,4,4:36.0,132,94,GSW,IND,10,away,JS,,22,miss2,0,G. Robinson,
 432,4,4:35.0,132,94,GSW,IND,1,home,DefReb,,,DefReb,,P. McCaw,
-433,4,4:26.0,132,94,GSW,IND,9,home,BadPass,steal,,turnover,,I. Clark,L. Allen
+433,4,4:26.0,132,94,GSW,IND,9,home,bad pass,steal,,turnover,,I. Clark,L. Allen
 434,4,4:17.0,132,94,GSW,IND,9,away,JS,,12,miss2,0,J. Young,
 435,4,4:17.0,132,94,GSW,IND,0,away,OffReb,,,OffReb,,Team,
 436,4,4:07.0,132,94,GSW,IND,10,away,JS,,20,miss2,0,L. Allen,
@@ -451,7 +451,7 @@
 449,4,2:40.0,136,98,GSW,IND,20,home,LU,assist,1,make2,2,I. Clark,J. McGee
 450,4,2:29.0,136,98,GSW,IND,11,away,JS,,17,miss2,0,J. Young,
 451,4,2:28.0,136,98,GSW,IND,1,home,DefReb,,,DefReb,,J. McAdoo,
-452,4,2:18.0,136,98,GSW,IND,10,home,LostBall,steal,,turnover,,J. McAdoo,A. Brooks
+452,4,2:18.0,136,98,GSW,IND,10,home,lost ball,steal,,turnover,,J. McAdoo,A. Brooks
 453,4,2:13.0,136,100,GSW,IND,5,away,LU,assist,2,make2,2,G. Robinson,A. Brooks
 454,4,1:55.0,136,100,GSW,IND,18,home,JS,,19,miss2,0,I. Clark,
 455,4,1:54.0,136,100,GSW,IND,1,away,DefReb,,,DefReb,,J. Young,
@@ -467,8 +467,8 @@
 465,4,1:02.0,139,102,GSW,IND,6,away,LU,assist,2,make2,2,J. Young,K. Séraphin
 466,4,0:51.0,142,102,GSW,IND,11,home,JS,assist,27,make3,3,P. McCaw,I. Clark
 467,4,0:39.0,142,104,GSW,IND,12,away,JS,assist,16,make2,2,J. Young,L. Allen
-468,4,0:28.0,142,104,GSW,IND,11,home,BadPass,steal,,turnover,,P. McCaw,J. Young
+468,4,0:28.0,142,104,GSW,IND,11,home,bad pass,steal,,turnover,,P. McCaw,J. Young
 469,4,0:24.0,142,106,GSW,IND,4,away,JS,,17,make2,2,J. Young,
-470,4,0:06.0,142,106,GSW,IND,18,home,LostBall,steal,,turnover,,I. Clark,J. Young
+470,4,0:06.0,142,106,GSW,IND,18,home,lost ball,steal,,turnover,,I. Clark,J. Young
 471,4,0:03.0,142,106,GSW,IND,3,away,JS,,27,miss3,0,J. Young,
 472,4,0:00.0,142,106,GSW,IND,3,home,DefReb,,,DefReb,,J. McAdoo,

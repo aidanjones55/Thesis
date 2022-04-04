@@ -19,7 +19,7 @@
 17,1,10:17.0,3,2,BOS,DET,1,away,DefReb,,,DefReb,,A. Drummond,
 18,1,9:58.0,3,2,BOS,DET,19,away,JS,,21,miss2,0,I. Smith,
 19,1,9:57.0,3,2,BOS,DET,1,home,DefReb,,,DefReb,,A. Horford,
-20,1,9:40.0,3,2,BOS,DET,17,home,BadPass,steal,,turnover,,I. Thomas,M. Morris
+20,1,9:40.0,3,2,BOS,DET,17,home,bad pass,steal,,turnover,,I. Thomas,M. Morris
 21,1,9:36.0,3,4,BOS,DET,4,away,LU,assist,1,make2,2,K. Caldwell-Pope,M. Morris
 22,1,9:20.0,5,4,BOS,DET,16,home,JS,assist,17,make2,2,I. Thomas,J. Crowder
 23,1,9:01.0,5,4,BOS,DET,19,away,JS,,17,miss2,0,T. Harris,
@@ -28,7 +28,7 @@
 26,1,8:59.0,5,4,BOS,DET,1,home,DefReb,,,DefReb,,A. Bradley,
 27,1,8:49.0,5,4,BOS,DET,10,home,LU,,2,miss2,0,A. Bradley,
 28,1,8:48.0,5,4,BOS,DET,1,away,DefReb,,,DefReb,,I. Smith,
-29,1,8:40.0,5,4,BOS,DET,8,away,LostBall,steal,,turnover,,A. Drummond,J. Crowder
+29,1,8:40.0,5,4,BOS,DET,8,away,lost ball,steal,,turnover,,A. Drummond,J. Crowder
 30,1,8:26.0,7,4,BOS,DET,14,home,DK,assist,0,make2,2,A. Johnson,A. Horford
 31,1,8:10.0,7,6,BOS,DET,16,away,HS,assist,2,make2,2,A. Drummond,M. Morris
 32,1,8:10.0,7,6,BOS,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,A. Drummond
@@ -39,7 +39,7 @@
 37,1,7:00.0,11,9,BOS,DET,18,away,JS,,19,miss2,0,M. Morris,
 38,1,6:59.0,11,9,BOS,DET,1,away,OffReb,,,OffReb,,A. Drummond,
 39,1,6:59.0,11,11,BOS,DET,0,away,LU,,3,make2,2,A. Drummond,
-40,1,6:42.0,11,11,BOS,DET,17,home,BadPass,steal,,turnover,,A. Horford,K. Caldwell-Pope
+40,1,6:42.0,11,11,BOS,DET,17,home,bad pass,steal,,turnover,,A. Horford,K. Caldwell-Pope
 41,1,6:34.0,11,11,BOS,DET,8,away,JS,,3,miss2,0,T. Harris,
 42,1,6:33.0,11,11,BOS,DET,1,away,OffReb,,,OffReb,,T. Harris,
 43,1,6:32.0,11,11,BOS,DET,1,away,LU,,2,miss2,0,T. Harris,
@@ -138,7 +138,7 @@
 136,2,8:35.0,37,43,BOS,DET,14,away,JS,assist,12,make2,2,M. Morris,B. Udrih
 137,2,8:17.0,37,43,BOS,DET,18,home,JS,,23,miss3,0,M. Smart,
 138,2,8:16.0,37,43,BOS,DET,1,away,DefReb,,,DefReb,,D. Hilliard,
-139,2,8:11.0,37,43,BOS,DET,5,away,BadPass,steal,,turnover,,B. Udrih,A. Bradley
+139,2,8:11.0,37,43,BOS,DET,5,away,bad pass,steal,,turnover,,B. Udrih,A. Bradley
 140,2,8:05.0,40,43,BOS,DET,6,home,JS,assist,23,make3,3,M. Smart,T. Rozier
 141,2,7:41.0,40,43,BOS,DET,24,away,JS,,25,miss3,0,D. Hilliard,
 142,2,7:40.0,40,43,BOS,DET,1,home,DefReb,,,DefReb,,T. Rozier,
@@ -228,8 +228,8 @@
 226,3,9:33.0,58,65,BOS,DET,0,home,Timeout,,,,,,
 227,3,9:22.0,61,65,BOS,DET,11,home,JS,assist,25,make3,3,J. Crowder,I. Thomas
 228,3,9:00.0,61,65,BOS,DET,22,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,A. Drummond
-229,3,8:51.0,61,65,BOS,DET,9,away,LostBall,steal,,turnover,,K. Caldwell-Pope,A. Johnson
-230,3,8:41.0,61,65,BOS,DET,10,home,BadPass,steal,,turnover,,A. Bradley,A. Drummond
+229,3,8:51.0,61,65,BOS,DET,9,away,lost ball,steal,,turnover,,K. Caldwell-Pope,A. Johnson
+230,3,8:41.0,61,65,BOS,DET,10,home,bad pass,steal,,turnover,,A. Bradley,A. Drummond
 231,3,8:35.0,61,68,BOS,DET,6,away,JS,assist,25,make3,3,K. Caldwell-Pope,I. Smith
 232,3,8:35.0,61,68,BOS,DET,0,away,JumpBallViolation,,,JumpBallViolation,,Team,
 233,3,8:19.0,63,68,BOS,DET,16,home,HS,assist,4,make2,2,A. Johnson,A. Horford
@@ -298,7 +298,7 @@
 296,4,11:44.0,84,94,BOS,DET,16,away,JS,assist,18,make2,2,M. Morris,A. Baynes
 297,4,11:29.0,84,94,BOS,DET,15,home,JS,,17,miss2,0,J. Crowder,
 298,4,11:28.0,84,94,BOS,DET,1,away,DefReb,,,DefReb,,A. Baynes,
-299,4,11:20.0,84,94,BOS,DET,8,away,BadPass,steal,,turnover,,A. Baynes,J. Crowder
+299,4,11:20.0,84,94,BOS,DET,8,away,bad pass,steal,,turnover,,A. Baynes,J. Crowder
 300,4,11:15.0,84,94,BOS,DET,5,home,JS,,26,miss3,0,M. Smart,
 301,4,11:14.0,84,94,BOS,DET,1,home,OffReb,,,OffReb,,J. Crowder,
 302,4,10:51.0,84,94,BOS,DET,23,home,JS,,4,miss2,0,M. Smart,
@@ -325,7 +325,7 @@
 323,4,8:13.0,90,94,BOS,DET,8,home,LU,assist,2,make2,2,J. Crowder,J. Jerebko
 324,4,7:50.0,90,94,BOS,DET,23,away,JS,,25,miss3,0,M. Morris,
 325,4,7:49.0,90,94,BOS,DET,1,away,OffReb,,,OffReb,,A. Baynes,
-326,4,7:47.0,90,94,BOS,DET,2,away,BadPass,steal,,turnover,,A. Baynes,J. Jerebko
+326,4,7:47.0,90,94,BOS,DET,2,away,bad pass,steal,,turnover,,A. Baynes,J. Jerebko
 327,4,7:42.0,92,94,BOS,DET,5,home,DK,assist,0,make2,2,J. Crowder,T. Rozier
 328,4,7:42.0,92,94,BOS,DET,0,away,Timeout,,,,,,
 329,4,7:42.0,92,94,BOS,DET,0,away,Sub,,,,,A. Drummond,A. Baynes
@@ -373,7 +373,7 @@
 371,4,4:09.0,99,103,BOS,DET,0,home,FreeThrow,,,make1,1,A. Bradley,
 372,4,3:51.0,99,106,BOS,DET,18,away,JS,assist,25,make3,3,K. Caldwell-Pope,T. Harris
 373,4,3:41.0,99,106,BOS,DET,10,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,K. Caldwell-Pope,I. Thomas
-374,4,3:36.0,99,106,BOS,DET,5,home,BadPass,steal,,turnover,,I. Thomas,A. Drummond
+374,4,3:36.0,99,106,BOS,DET,5,home,bad pass,steal,,turnover,,I. Thomas,A. Drummond
 375,4,3:31.0,99,108,BOS,DET,5,away,DK,assist,0,make2,2,K. Caldwell-Pope,A. Drummond
 376,4,3:18.0,99,108,BOS,DET,13,home,LU,block,1,miss2,0,I. Thomas,M. Morris
 377,4,3:17.0,99,108,BOS,DET,1,home,OffReb,,,OffReb,,M. Smart,
@@ -410,7 +410,7 @@
 408,4,0:19.0,112,118,BOS,DET,0,away,Timeout,,,,,,
 409,4,0:19.0,112,118,BOS,DET,0,away,Sub,,,,,J. Leuer,A. Drummond
 410,4,0:19.0,112,118,BOS,DET,0,home,Sub,,,,,J. Jerebko,I. Thomas
-411,4,0:18.0,112,118,BOS,DET,1,away,BadPass,steal,,turnover,,M. Morris,M. Smart
+411,4,0:18.0,112,118,BOS,DET,1,away,bad pass,steal,,turnover,,M. Morris,M. Smart
 412,4,0:17.0,114,118,BOS,DET,1,home,LU,,2,make2,2,M. Smart,
 413,4,0:16.0,114,118,BOS,DET,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Horford,M. Morris
 414,4,0:16.0,114,118,BOS,DET,0,away,Sub,,,,,B. Udrih,M. Morris

@@ -22,7 +22,7 @@
 20,1,9:26.0,4,5,MIN,SAC,2,away,DefReb,,,DefReb,,M. Barnes,
 21,1,9:07.0,4,5,MIN,SAC,19,away,JS,,25,miss3,0,M. Barnes,
 22,1,9:06.0,4,5,MIN,SAC,1,home,DefReb,,,DefReb,,K. Towns,
-23,1,8:59.0,4,5,MIN,SAC,7,home,LostBall,steal,,turnover,,R. Rubio,D. Cousins
+23,1,8:59.0,4,5,MIN,SAC,7,home,lost ball,steal,,turnover,,R. Rubio,D. Cousins
 24,1,8:53.0,4,5,MIN,SAC,6,away,LU,,1,miss2,0,D. Cousins,
 25,1,8:51.0,4,5,MIN,SAC,2,home,DefReb,,,DefReb,,Z. LaVine,
 26,1,8:46.0,6,5,MIN,SAC,5,home,LU,assist,0,make2,2,K. Towns,Z. LaVine
@@ -36,7 +36,7 @@
 34,1,7:41.0,9,9,MIN,SAC,21,away,LU,,1,make2,2,M. Barnes,
 35,1,7:30.0,11,9,MIN,SAC,11,home,LU,,1,make2,2,A. Wiggins,
 36,1,7:15.0,11,12,MIN,SAC,15,away,JS,assist,22,make3,3,B. McLemore,M. Barnes
-37,1,6:55.0,11,12,MIN,SAC,20,home,LostBall,steal,,turnover,,K. Towns,D. Cousins
+37,1,6:55.0,11,12,MIN,SAC,20,home,lost ball,steal,,turnover,,K. Towns,D. Cousins
 38,1,6:45.0,11,12,MIN,SAC,10,away,JS,,25,miss3,0,D. Cousins,
 39,1,6:44.0,11,12,MIN,SAC,1,home,DefReb,,,DefReb,,K. Towns,
 40,1,6:33.0,11,12,MIN,SAC,11,home,JS,,25,miss3,0,A. Wiggins,
@@ -61,11 +61,11 @@
 59,1,4:44.0,15,17,MIN,SAC,0,home,FreeThrow,,,make1,1,K. Towns,
 60,1,4:35.0,15,17,MIN,SAC,9,away,BadPass,,,turnover,,G. Temple,
 61,1,4:35.0,15,17,MIN,SAC,0,home,Sub,,,,,S. Muhammad,Z. LaVine
-62,1,4:22.0,15,17,MIN,SAC,13,home,BadPass,steal,,turnover,,A. Wiggins,K. Koufos
+62,1,4:22.0,15,17,MIN,SAC,13,home,bad pass,steal,,turnover,,A. Wiggins,K. Koufos
 63,1,4:16.0,15,19,MIN,SAC,6,away,LU,assist,0,make2,2,K. Koufos,D. Collison
 64,1,3:54.0,17,19,MIN,SAC,22,home,HS,,7,make2,2,K. Towns,
 65,1,3:27.0,17,21,MIN,SAC,27,away,JS,,10,make2,2,D. Cousins,
-66,1,3:14.0,17,21,MIN,SAC,13,home,BadPass,steal,,turnover,,A. Wiggins,D. Cousins
+66,1,3:14.0,17,21,MIN,SAC,13,home,bad pass,steal,,turnover,,A. Wiggins,D. Cousins
 67,1,3:03.0,17,21,MIN,SAC,11,away,LU,block,0,miss2,0,K. Koufos,K. Dunn
 68,1,3:03.0,17,21,MIN,SAC,0,home,DefReb,,,DefReb,,K. Dunn,
 69,1,3:03.0,17,21,MIN,SAC,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Koufos,K. Dunn
@@ -109,7 +109,7 @@
 107,1,0:13.0,26,25,MIN,SAC,1,home,DefReb,,,DefReb,,S. Muhammad,
 108,1,0:02.0,26,25,MIN,SAC,11,home,JS,,19,miss2,0,A. Wiggins,
 109,1,0:01.0,26,25,MIN,SAC,1,home,OffReb,,,OffReb,,G. Dieng,
-110,1,0:00.0,26,25,MIN,SAC,1,home,LostBall,steal,,turnover,,G. Dieng,T. Lawson
+110,1,0:00.0,26,25,MIN,SAC,1,home,lost ball,steal,,turnover,,G. Dieng,T. Lawson
 111,2,11:41.0,26,25,MIN,SAC,19,away,LU,,2,miss2,0,W. Cauley-Stein,
 112,2,11:40.0,26,25,MIN,SAC,1,home,DefReb,,,DefReb,,N. Bjelica,
 113,2,11:24.0,26,25,MIN,SAC,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Temple,Z. LaVine
@@ -184,7 +184,7 @@
 182,2,3:16.0,44,45,MIN,SAC,1,home,DefReb,,,DefReb,,Z. LaVine,
 183,2,2:58.0,44,45,MIN,SAC,18,home,JS,,23,miss3,0,R. Rubio,
 184,2,2:57.0,44,45,MIN,SAC,1,away,DefReb,,,DefReb,,M. Barnes,
-185,2,2:55.0,44,45,MIN,SAC,2,away,BadPass,steal,,turnover,,M. Barnes,R. Rubio
+185,2,2:55.0,44,45,MIN,SAC,2,away,bad pass,steal,,turnover,,M. Barnes,R. Rubio
 186,2,2:53.0,44,45,MIN,SAC,2,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,M. Barnes,A. Wiggins
 187,2,2:53.0,44,45,MIN,SAC,0,away,Timeout,,,,,,
 188,2,2:53.0,44,45,MIN,SAC,0,home,FreeThrow,,,make1,0,A. Wiggins,
@@ -260,7 +260,7 @@
 258,3,4:23.0,72,69,MIN,SAC,0,home,Sub,,,,,S. Muhammad,Z. LaVine
 259,3,4:23.0,72,70,MIN,SAC,0,away,FreeThrow,,,make1,1,B. McLemore,
 260,3,4:08.0,74,70,MIN,SAC,15,home,JS,,9,make2,2,A. Wiggins,
-261,3,3:52.0,74,70,MIN,SAC,16,away,LostBall,steal,,turnover,,M. Barnes,G. Dieng
+261,3,3:52.0,74,70,MIN,SAC,16,away,lost ball,steal,,turnover,,M. Barnes,G. Dieng
 262,3,3:48.0,74,70,MIN,SAC,4,home,BadPass,,,turnover,,R. Rubio,
 263,3,3:37.0,74,70,MIN,SAC,11,away,JS,,24,miss3,0,B. McLemore,
 264,3,3:36.0,74,70,MIN,SAC,1,home,DefReb,,,DefReb,,G. Dieng,
@@ -283,7 +283,7 @@
 281,3,2:33.0,77,73,MIN,SAC,0,away,Timeout,,,,,,
 282,3,2:33.0,77,73,MIN,SAC,0,away,Sub,,,,,G. Temple,M. Barnes
 283,3,2:18.0,77,73,MIN,SAC,15,home,KickBallViolation,,,KickBallViolation,,R. Rubio,
-284,3,2:04.0,77,73,MIN,SAC,14,away,LostBall,steal,,turnover,,T. Lawson,R. Rubio
+284,3,2:04.0,77,73,MIN,SAC,14,away,lost ball,steal,,turnover,,T. Lawson,R. Rubio
 285,3,1:52.0,80,73,MIN,SAC,12,home,JS,assist,24,make3,3,R. Rubio,K. Towns
 286,3,1:38.0,80,73,MIN,SAC,14,away,JS,,22,miss3,0,A. Tolliver,
 287,3,1:37.0,80,73,MIN,SAC,1,home,DefReb,,,DefReb,,G. Dieng,
@@ -295,7 +295,7 @@
 293,3,0:28.0,85,78,MIN,SAC,13,away,LU,,1,make2,2,T. Lawson,
 294,3,0:04.0,85,78,MIN,SAC,24,home,JS,,24,miss3,0,N. Bjelica,
 295,3,0:02.0,85,78,MIN,SAC,2,away,DefReb,,,DefReb,,A. Tolliver,
-296,4,11:54.0,85,78,MIN,SAC,6,home,LostBall,steal,,turnover,,K. Dunn,T. Lawson
+296,4,11:54.0,85,78,MIN,SAC,6,home,lost ball,steal,,turnover,,K. Dunn,T. Lawson
 297,4,11:42.0,85,81,MIN,SAC,12,away,JS,assist,23,make3,3,A. Tolliver,D. Cousins
 298,4,11:21.0,87,81,MIN,SAC,21,home,JS,,20,make2,2,Z. LaVine,
 299,4,11:05.0,87,81,MIN,SAC,16,away,JS,,24,miss3,0,D. Cousins,
@@ -374,14 +374,14 @@
 372,4,1:48.0,103,106,MIN,SAC,1,home,DefReb,,,DefReb,,K. Towns,
 373,4,1:35.0,103,106,MIN,SAC,13,home,JS,,24,miss3,0,Z. LaVine,
 374,4,1:34.0,103,106,MIN,SAC,1,away,DefReb,,,DefReb,,D. Cousins,
-375,4,1:18.0,103,106,MIN,SAC,16,away,BadPass,steal,,turnover,,D. Cousins,R. Rubio
+375,4,1:18.0,103,106,MIN,SAC,16,away,bad pass,steal,,turnover,,D. Cousins,R. Rubio
 376,4,1:09.0,103,106,MIN,SAC,9,home,JS,,26,miss3,0,A. Wiggins,
 377,4,1:08.0,103,106,MIN,SAC,1,home,OffReb,,,OffReb,,Team,
 378,4,1:08.0,103,106,MIN,SAC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,G. Temple,K. Towns
 379,4,1:08.0,104,106,MIN,SAC,0,home,FreeThrow,,,make1,1,K. Towns,
 380,4,1:08.0,105,106,MIN,SAC,0,home,FreeThrow,,,make1,1,K. Towns,
-381,4,0:56.0,105,106,MIN,SAC,12,away,BadPass,steal,,turnover,,D. Cousins,Z. LaVine
-382,4,0:37.0,105,106,MIN,SAC,19,home,BadPass,steal,,turnover,,Z. LaVine,D. Cousins
+381,4,0:56.0,105,106,MIN,SAC,12,away,bad pass,steal,,turnover,,D. Cousins,Z. LaVine
+382,4,0:37.0,105,106,MIN,SAC,19,home,bad pass,steal,,turnover,,Z. LaVine,D. Cousins
 383,4,0:33.0,105,106,MIN,SAC,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,Z. LaVine,G. Temple
 384,4,0:33.0,105,107,MIN,SAC,0,away,FreeThrow,,,make1,1,G. Temple,
 385,4,0:33.0,105,108,MIN,SAC,0,away,FreeThrow,,,make1,1,G. Temple,

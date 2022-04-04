@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:46.0,0,0,DEN,CHO,14,home,BadPass,steal,,turnover,,N. Jokić,C. Zeller
+0,1,11:46.0,0,0,DEN,CHO,14,home,bad pass,steal,,turnover,,N. Jokić,C. Zeller
 1,1,11:33.0,0,0,DEN,CHO,13,away,JS,,21,miss2,0,C. Zeller,
 2,1,11:32.0,0,0,DEN,CHO,1,home,DefReb,,,DefReb,,J. Nelson,
 3,1,11:21.0,2,0,DEN,CHO,11,home,HS,assist,4,make2,2,N. Jokić,W. Chandler
@@ -79,7 +79,7 @@
 77,1,3:17.0,19,23,DEN,CHO,0,home,Timeout,,,,,,
 78,1,3:17.0,19,23,DEN,CHO,0,home,Sub,,,,,J. Hernangómez,D. Gallinari
 79,1,3:17.0,19,23,DEN,CHO,0,home,Sub,,,,,J. Murray,J. Nelson
-80,1,3:00.0,19,23,DEN,CHO,17,home,BadPass,steal,,turnover,,D. Arthur,C. Wood
+80,1,3:00.0,19,23,DEN,CHO,17,home,bad pass,steal,,turnover,,D. Arthur,C. Wood
 81,1,2:54.0,19,26,DEN,CHO,6,away,JS,assist,25,make3,3,M. Williams,N. Batum
 82,1,2:35.0,19,26,DEN,CHO,19,home,JS,,9,miss2,0,W. Barton,
 83,1,2:34.0,19,26,DEN,CHO,1,away,DefReb,,,DefReb,,J. Lamb,
@@ -94,7 +94,7 @@
 92,1,1:34.0,19,31,DEN,CHO,11,away,JS,assist,25,make3,3,J. Lamb,M. Belinelli
 93,1,1:28.0,19,31,DEN,CHO,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Lamb,W. Barton
 94,1,1:22.0,21,31,DEN,CHO,6,home,LU,assist,0,make2,2,J. Murray,W. Barton
-95,1,1:10.0,21,31,DEN,CHO,12,away,BadPass,steal,,turnover,,J. Lamb,J. Murray
+95,1,1:10.0,21,31,DEN,CHO,12,away,bad pass,steal,,turnover,,J. Lamb,J. Murray
 96,1,1:05.0,23,31,DEN,CHO,5,home,LU,assist,1,make2,2,W. Barton,J. Murray
 97,1,0:38.0,23,31,DEN,CHO,27,away,JS,,28,miss3,0,M. Belinelli,
 98,1,0:36.0,23,31,DEN,CHO,2,home,DefReb,,,DefReb,,J. Murray,
@@ -171,7 +171,7 @@
 169,2,5:24.0,37,51,DEN,CHO,0,away,FreeThrow,,,make1,1,C. Zeller,
 170,2,5:00.0,40,51,DEN,CHO,24,home,JS,,24,make3,3,W. Chandler,
 171,2,4:44.0,40,51,DEN,CHO,16,home,KickBallViolation,,,KickBallViolation,,G. Harris,
-172,2,4:38.0,40,51,DEN,CHO,6,away,BadPass,steal,,turnover,,N. Batum,G. Harris
+172,2,4:38.0,40,51,DEN,CHO,6,away,bad pass,steal,,turnover,,N. Batum,G. Harris
 173,2,4:32.0,40,51,DEN,CHO,6,home,JS,,23,miss3,0,J. Nelson,
 174,2,4:31.0,40,51,DEN,CHO,1,away,DefReb,,,DefReb,,C. Zeller,
 175,2,4:31.0,40,51,DEN,CHO,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,W. Barton,C. Zeller
@@ -206,7 +206,7 @@
 204,2,0:53.0,50,59,DEN,CHO,2,away,DefReb,,,DefReb,,J. O'Bryant,
 205,2,0:41.0,50,59,DEN,CHO,12,away,JS,,15,miss2,0,K. Walker,
 206,2,0:40.0,50,59,DEN,CHO,1,home,DefReb,,,DefReb,,W. Chandler,
-207,2,0:25.0,50,59,DEN,CHO,15,home,LostBall,steal,,turnover,,N. Jokić,M. Kidd-Gilchrist
+207,2,0:25.0,50,59,DEN,CHO,15,home,lost ball,steal,,turnover,,N. Jokić,M. Kidd-Gilchrist
 208,2,0:22.0,50,61,DEN,CHO,3,away,LU,,2,make2,2,M. Kidd-Gilchrist,
 209,2,0:18.0,50,61,DEN,CHO,4,home,Timeout,,,,,,
 210,2,0:05.0,52,61,DEN,CHO,13,home,JS,assist,7,make2,2,N. Jokić,J. Nelson
@@ -215,10 +215,10 @@
 213,3,11:12.0,52,63,DEN,CHO,12,home,JS,,26,miss3,0,D. Gallinari,
 214,3,11:12.0,52,63,DEN,CHO,0,away,DefReb,,,DefReb,,M. Williams,
 215,3,11:02.0,52,65,DEN,CHO,10,away,LU,assist,1,make2,2,C. Zeller,N. Batum
-216,3,10:46.0,52,65,DEN,CHO,16,home,BadPass,steal,,turnover,,G. Harris,K. Walker
+216,3,10:46.0,52,65,DEN,CHO,16,home,bad pass,steal,,turnover,,G. Harris,K. Walker
 217,3,10:27.0,52,68,DEN,CHO,19,away,JS,assist,26,make3,3,N. Batum,M. Williams
 218,3,10:27.0,52,68,DEN,CHO,0,home,Timeout,,,,,,
-219,3,10:15.0,52,68,DEN,CHO,12,home,BadPass,steal,,turnover,,J. Nelson,K. Walker
+219,3,10:15.0,52,68,DEN,CHO,12,home,bad pass,steal,,turnover,,J. Nelson,K. Walker
 220,3,10:06.0,52,71,DEN,CHO,9,away,JS,assist,27,make3,3,M. Williams,K. Walker
 221,3,9:51.0,52,71,DEN,CHO,15,away,DefGoaltending,,,DefGoaltending,,N. Batum,
 222,3,9:51.0,54,71,DEN,CHO,0,home,JS,assist,4,make2,2,N. Jokić,W. Chandler
@@ -231,10 +231,10 @@
 229,3,8:43.0,54,71,DEN,CHO,2,away,OffReb,,,OffReb,,M. Kidd-Gilchrist,
 230,3,8:43.0,54,73,DEN,CHO,0,away,DK,,0,make2,2,M. Kidd-Gilchrist,
 231,3,8:27.0,56,73,DEN,CHO,16,home,LU,,2,make2,2,N. Jokić,
-232,3,8:08.0,56,73,DEN,CHO,19,away,LostBall,steal,,turnover,,M. Williams,D. Gallinari
+232,3,8:08.0,56,73,DEN,CHO,19,away,lost ball,steal,,turnover,,M. Williams,D. Gallinari
 233,3,7:58.0,56,73,DEN,CHO,10,home,Traveling,,,turnover,,J. Nelson,
 234,3,7:40.0,56,76,DEN,CHO,18,away,JS,assist,26,make3,3,K. Walker,C. Zeller
-235,3,7:32.0,56,76,DEN,CHO,8,home,BadPass,steal,,turnover,,N. Jokić,M. Kidd-Gilchrist
+235,3,7:32.0,56,76,DEN,CHO,8,home,bad pass,steal,,turnover,,N. Jokić,M. Kidd-Gilchrist
 236,3,7:31.0,56,76,DEN,CHO,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Jokić,K. Walker
 237,3,7:31.0,56,76,DEN,CHO,0,home,Sub,,,,,W. Barton,G. Harris
 238,3,7:16.0,56,76,DEN,CHO,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Gallinari,M. Williams
@@ -252,7 +252,7 @@
 250,3,5:45.0,59,78,DEN,CHO,0,home,FreeThrow,,,make1,1,D. Gallinari,
 251,3,5:45.0,59,78,DEN,CHO,0,away,Sub,,,,,J. Lamb,M. Williams
 252,3,5:45.0,60,78,DEN,CHO,0,home,FreeThrow,,,make1,1,D. Gallinari,
-253,3,5:29.0,60,78,DEN,CHO,16,away,BadPass,steal,,turnover,,N. Batum,N. Jokić
+253,3,5:29.0,60,78,DEN,CHO,16,away,bad pass,steal,,turnover,,N. Batum,N. Jokić
 254,3,5:13.0,60,78,DEN,CHO,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Zeller,N. Jokić
 255,3,5:13.0,61,78,DEN,CHO,0,home,FreeThrow,,,make1,1,N. Jokić,
 256,3,5:13.0,61,78,DEN,CHO,0,away,Sub,,,,,J. O'Bryant,C. Zeller
@@ -332,13 +332,13 @@
 330,4,9:19.0,83,95,DEN,CHO,0,away,DefReb,,,DefReb,,J. Lamb,
 331,4,9:03.0,83,95,DEN,CHO,16,away,JS,,25,miss3,0,B. Roberts,
 332,4,9:01.0,83,95,DEN,CHO,2,home,DefReb,,,DefReb,,D. Arthur,
-333,4,8:54.0,83,95,DEN,CHO,7,home,LostBall,steal,,turnover,,M. Plumlee,J. Lamb
+333,4,8:54.0,83,95,DEN,CHO,7,home,lost ball,steal,,turnover,,M. Plumlee,J. Lamb
 334,4,8:48.0,83,95,DEN,CHO,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Arthur,M. Belinelli
 335,4,8:48.0,83,95,DEN,CHO,0,away,Timeout,,,,,,
 336,4,8:48.0,83,95,DEN,CHO,0,away,Sub,,,,,K. Walker,B. Roberts
 337,4,8:37.0,83,95,DEN,CHO,11,away,JS,,11,miss2,0,J. Lamb,
 338,4,8:37.0,83,95,DEN,CHO,0,home,DefReb,,,DefReb,,J. Hernangómez,
-339,4,8:22.0,83,95,DEN,CHO,15,home,BadPass,steal,,turnover,,J. Murray,M. Belinelli
+339,4,8:22.0,83,95,DEN,CHO,15,home,bad pass,steal,,turnover,,J. Murray,M. Belinelli
 340,4,8:03.0,83,97,DEN,CHO,19,away,JS,assist,22,make2,2,J. O'Bryant,K. Walker
 341,4,7:39.0,86,97,DEN,CHO,24,home,JS,assist,28,make3,3,J. Hernangómez,W. Barton
 342,4,7:22.0,86,97,DEN,CHO,17,away,JS,,26,miss3,0,J. O'Bryant,
@@ -365,7 +365,7 @@
 363,4,5:37.0,89,100,DEN,CHO,1,away,OffReb,,,OffReb,,M. Williams,
 364,4,5:36.0,89,100,DEN,CHO,1,away,ShotClockViolation,,,turnover,,Team,
 365,4,5:15.0,92,100,DEN,CHO,21,home,JS,assist,26,make3,3,W. Barton,J. Murray
-366,4,4:59.0,92,100,DEN,CHO,16,away,BadPass,steal,,turnover,,K. Walker,J. Murray
+366,4,4:59.0,92,100,DEN,CHO,16,away,bad pass,steal,,turnover,,K. Walker,J. Murray
 367,4,4:54.0,94,100,DEN,CHO,5,home,LU,,1,make2,2,J. Murray,
 368,4,4:54.0,94,100,DEN,CHO,0,away,Timeout,,,,,,
 369,4,4:54.0,94,100,DEN,CHO,0,home,Sub,,,,,D. Gallinari,W. Chandler

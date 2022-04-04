@@ -10,7 +10,7 @@
 8,1,10:45.0,2,0,MIN,DAL,11,home,JS,,19,make2,2,A. Wiggins,
 9,1,10:24.0,2,0,MIN,DAL,21,away,JS,,17,miss2,0,Y. Ferrell,
 10,1,10:23.0,2,0,MIN,DAL,1,home,DefReb,,,DefReb,,K. Towns,
-11,1,10:12.0,2,0,MIN,DAL,11,home,BadPass,steal,,turnover,,K. Towns,H. Barnes
+11,1,10:12.0,2,0,MIN,DAL,11,home,bad pass,steal,,turnover,,K. Towns,H. Barnes
 12,1,10:01.0,2,0,MIN,DAL,11,away,JS,,20,miss2,0,D. Nowitzki,
 13,1,10:00.0,2,0,MIN,DAL,1,home,DefReb,,,DefReb,,K. Towns,
 14,1,9:56.0,4,0,MIN,DAL,4,home,LU,assist,2,make2,2,A. Wiggins,R. Rubio
@@ -24,7 +24,7 @@
 22,1,9:05.0,4,3,MIN,DAL,1,home,DefReb,,,DefReb,,K. Towns,
 23,1,8:48.0,4,3,MIN,DAL,17,home,JS,,14,miss2,0,K. Towns,
 24,1,8:48.0,4,3,MIN,DAL,0,away,DefReb,,,DefReb,,Y. Ferrell,
-25,1,8:39.0,4,3,MIN,DAL,9,away,BadPass,steal,,turnover,,Y. Ferrell,K. Towns
+25,1,8:39.0,4,3,MIN,DAL,9,away,bad pass,steal,,turnover,,Y. Ferrell,K. Towns
 26,1,8:33.0,4,3,MIN,DAL,6,home,JS,,18,miss2,0,R. Rubio,
 27,1,8:32.0,4,3,MIN,DAL,1,away,DefReb,,,DefReb,,D. Nowitzki,
 28,1,8:21.0,4,5,MIN,DAL,11,away,JS,,9,make2,2,S. Curry,
@@ -36,7 +36,7 @@
 34,1,7:28.0,6,8,MIN,DAL,17,home,DK,assist,0,make2,2,A. Wiggins,R. Rubio
 35,1,7:15.0,6,8,MIN,DAL,13,away,JS,,21,miss2,0,D. Nowitzki,
 36,1,7:14.0,6,8,MIN,DAL,1,away,OffReb,,,OffReb,,H. Barnes,
-37,1,7:10.0,6,8,MIN,DAL,4,away,BadPass,steal,,turnover,,H. Barnes,A. Wiggins
+37,1,7:10.0,6,8,MIN,DAL,4,away,bad pass,steal,,turnover,,H. Barnes,A. Wiggins
 38,1,7:05.0,8,8,MIN,DAL,5,home,DK,,1,make2,2,A. Wiggins,
 39,1,7:04.0,8,8,MIN,DAL,1,away,Timeout,,,,,,
 40,1,7:04.0,8,8,MIN,DAL,0,away,Sub,,,,,S. Mejri,D. Nowitzki
@@ -52,8 +52,8 @@
 50,1,5:34.0,13,13,MIN,DAL,2,home,OffReb,,,OffReb,,A. Wiggins,
 51,1,5:34.0,13,13,MIN,DAL,0,home,LU,,2,miss2,0,A. Wiggins,
 52,1,5:33.0,13,13,MIN,DAL,1,away,DefReb,,,DefReb,,D. Finney-Smith,
-53,1,5:31.0,13,13,MIN,DAL,2,away,BadPass,steal,,turnover,,D. Finney-Smith,G. Dieng
-54,1,5:27.0,13,13,MIN,DAL,4,home,LostBall,steal,,turnover,,R. Rubio,D. Finney-Smith
+53,1,5:31.0,13,13,MIN,DAL,2,away,bad pass,steal,,turnover,,D. Finney-Smith,G. Dieng
+54,1,5:27.0,13,13,MIN,DAL,4,home,lost ball,steal,,turnover,,R. Rubio,D. Finney-Smith
 55,1,5:21.0,13,13,MIN,DAL,6,away,JS,,24,miss3,0,S. Curry,
 56,1,5:19.0,13,13,MIN,DAL,2,home,DefReb,,,DefReb,,B. Rush,
 57,1,5:06.0,15,13,MIN,DAL,13,home,JS,assist,7,make2,2,R. Rubio,K. Towns
@@ -66,7 +66,7 @@
 64,1,3:58.0,15,15,MIN,DAL,17,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Mejri,G. Dieng
 65,1,3:58.0,16,15,MIN,DAL,0,home,FreeThrow,,,make1,1,G. Dieng,
 66,1,3:58.0,17,15,MIN,DAL,0,home,FreeThrow,,,make1,1,G. Dieng,
-67,1,3:48.0,17,15,MIN,DAL,10,away,BadPass,steal,,turnover,,S. Curry,G. Dieng
+67,1,3:48.0,17,15,MIN,DAL,10,away,bad pass,steal,,turnover,,S. Curry,G. Dieng
 68,1,3:37.0,17,15,MIN,DAL,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Finney-Smith,A. Wiggins
 69,1,3:37.0,18,15,MIN,DAL,0,home,FreeThrow,,,make1,1,A. Wiggins,
 70,1,3:37.0,18,15,MIN,DAL,0,away,Sub,,,,,Y. Ferrell,S. Curry
@@ -143,7 +143,7 @@
 141,2,8:31.0,36,24,MIN,DAL,16,home,JS,assist,24,make3,3,T. Jones,K. Dunn
 142,2,8:17.0,36,24,MIN,DAL,14,away,JS,,27,miss3,0,N. Brussino,
 143,2,8:16.0,36,24,MIN,DAL,1,home,DefReb,,,DefReb,,K. Towns,
-144,2,8:05.0,36,24,MIN,DAL,11,home,BadPass,steal,,turnover,,K. Towns,D. Powell
+144,2,8:05.0,36,24,MIN,DAL,11,home,bad pass,steal,,turnover,,K. Towns,D. Powell
 145,2,7:55.0,36,24,MIN,DAL,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dieng,H. Barnes
 146,2,7:55.0,36,25,MIN,DAL,0,away,FreeThrow,,,make1,1,H. Barnes,
 147,2,7:55.0,36,25,MIN,DAL,0,away,FreeThrow,,,make1,0,H. Barnes,
@@ -153,7 +153,7 @@
 151,2,7:29.0,38,25,MIN,DAL,10,away,LU,block,1,miss2,0,H. Barnes,N. Bjelica
 152,2,7:29.0,38,25,MIN,DAL,0,away,OffReb,,,OffReb,,Team,
 153,2,7:21.0,38,27,MIN,DAL,8,away,LU,assist,1,make2,2,W. Matthews,H. Barnes
-154,2,6:56.0,38,27,MIN,DAL,25,home,BadPass,steal,,turnover,,K. Towns,H. Barnes
+154,2,6:56.0,38,27,MIN,DAL,25,home,bad pass,steal,,turnover,,K. Towns,H. Barnes
 155,2,6:49.0,38,27,MIN,DAL,7,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,S. Curry,T. Jones
 156,2,6:49.0,38,27,MIN,DAL,0,away,OffensiveFoul,,,turnover,,S. Curry,
 157,2,6:49.0,38,27,MIN,DAL,0,away,Sub,,,,,S. Mejri,D. Powell
@@ -189,7 +189,7 @@
 187,2,2:43.0,42,31,MIN,DAL,20,home,JS,,20,miss2,0,R. Rubio,
 188,2,2:41.0,42,31,MIN,DAL,2,away,DefReb,,,DefReb,,D. Nowitzki,
 189,2,2:21.0,42,33,MIN,DAL,20,away,HS,,6,make2,2,D. Nowitzki,
-190,2,2:05.0,42,33,MIN,DAL,16,home,BadPass,steal,,turnover,,K. Towns,Y. Ferrell
+190,2,2:05.0,42,33,MIN,DAL,16,home,bad pass,steal,,turnover,,K. Towns,Y. Ferrell
 191,2,1:50.0,42,33,MIN,DAL,15,away,JS,,11,miss2,0,W. Matthews,
 192,2,1:49.0,42,33,MIN,DAL,1,home,DefReb,,,DefReb,,B. Rush,
 193,2,1:36.0,44,33,MIN,DAL,13,home,LU,assist,1,make2,2,K. Towns,R. Rubio
@@ -209,7 +209,7 @@
 207,2,0:00.0,49,40,MIN,DAL,24,away,LU,,3,make2,2,S. Curry,
 208,3,11:47.0,49,40,MIN,DAL,13,away,JS,,19,miss2,0,D. Nowitzki,
 209,3,11:45.0,49,40,MIN,DAL,2,home,DefReb,,,DefReb,,A. Wiggins,
-210,3,11:30.0,49,40,MIN,DAL,15,home,LostBall,steal,,turnover,,A. Wiggins,D. Nowitzki
+210,3,11:30.0,49,40,MIN,DAL,15,home,lost ball,steal,,turnover,,A. Wiggins,D. Nowitzki
 211,3,11:23.0,49,42,MIN,DAL,7,away,LU,assist,1,make2,2,H. Barnes,W. Matthews
 212,3,11:08.0,49,42,MIN,DAL,15,home,LostBall,,,turnover,,K. Towns,
 213,3,10:54.0,49,42,MIN,DAL,14,home,DefGoaltending,,,DefGoaltending,,K. Towns,
@@ -219,7 +219,7 @@
 217,3,10:23.0,51,44,MIN,DAL,2,away,OffReb,,,OffReb,,H. Barnes,
 218,3,10:20.0,51,44,MIN,DAL,3,away,JS,,22,miss3,0,W. Matthews,
 219,3,10:19.0,51,44,MIN,DAL,1,home,DefReb,,,DefReb,,R. Rubio,
-220,3,10:12.0,51,44,MIN,DAL,7,home,BadPass,steal,,turnover,,R. Rubio,S. Curry
+220,3,10:12.0,51,44,MIN,DAL,7,home,bad pass,steal,,turnover,,R. Rubio,S. Curry
 221,3,9:53.0,51,44,MIN,DAL,19,away,JS,,15,miss2,0,S. Curry,
 222,3,9:52.0,51,44,MIN,DAL,1,home,DefReb,,,DefReb,,K. Towns,
 223,3,9:41.0,51,44,MIN,DAL,11,home,JS,,6,miss2,0,G. Dieng,
@@ -242,13 +242,13 @@
 240,3,7:45.0,59,46,MIN,DAL,1,home,DefReb,,,DefReb,,K. Towns,
 241,3,7:42.0,59,46,MIN,DAL,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Matthews,A. Wiggins
 242,3,7:37.0,61,46,MIN,DAL,5,home,DK,assist,0,make2,2,K. Towns,R. Rubio
-243,3,7:25.0,61,46,MIN,DAL,12,away,LostBall,steal,,turnover,,Y. Ferrell,R. Rubio
+243,3,7:25.0,61,46,MIN,DAL,12,away,lost ball,steal,,turnover,,Y. Ferrell,R. Rubio
 244,3,7:18.0,61,46,MIN,DAL,7,home,LU,block,1,miss2,0,G. Dieng,D. Nowitzki
 245,3,7:17.0,61,46,MIN,DAL,1,away,DefReb,,,DefReb,,Team,
 246,3,7:05.0,61,48,MIN,DAL,12,away,JS,assist,21,make2,2,H. Barnes,Y. Ferrell
 247,3,6:50.0,63,48,MIN,DAL,15,home,LU,,1,make2,2,R. Rubio,
 248,3,6:35.0,63,50,MIN,DAL,15,away,JS,,21,make2,2,S. Curry,
-249,3,6:20.0,63,50,MIN,DAL,15,home,BadPass,steal,,turnover,,R. Rubio,D. Nowitzki
+249,3,6:20.0,63,50,MIN,DAL,15,home,bad pass,steal,,turnover,,R. Rubio,D. Nowitzki
 250,3,6:16.0,63,52,MIN,DAL,4,away,LU,,2,make2,2,S. Curry,
 251,3,5:50.0,65,52,MIN,DAL,26,home,JS,,19,make2,2,A. Wiggins,
 252,3,5:49.0,65,52,MIN,DAL,1,away,Timeout,,,,,,
@@ -259,7 +259,7 @@
 257,3,5:27.0,65,54,MIN,DAL,1,away,DK,,0,make2,2,H. Barnes,
 258,3,5:08.0,65,54,MIN,DAL,19,home,JS,,18,miss2,0,A. Wiggins,
 259,3,5:07.0,65,54,MIN,DAL,1,away,DefReb,,,DefReb,,S. Mejri,
-260,3,4:56.0,65,54,MIN,DAL,11,away,BadPass,steal,,turnover,,S. Curry,B. Rush
+260,3,4:56.0,65,54,MIN,DAL,11,away,bad pass,steal,,turnover,,S. Curry,B. Rush
 261,3,4:50.0,65,54,MIN,DAL,6,home,LU,block,3,miss2,0,B. Rush,W. Matthews
 262,3,4:47.0,65,54,MIN,DAL,3,away,DefReb,,,DefReb,,W. Matthews,
 263,3,4:46.0,65,54,MIN,DAL,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,W. Matthews
@@ -273,7 +273,7 @@
 271,3,3:44.0,67,54,MIN,DAL,5,home,Traveling,,,turnover,,B. Rush,
 272,3,3:28.0,67,54,MIN,DAL,16,away,JS,,20,miss2,0,H. Barnes,
 273,3,3:27.0,67,54,MIN,DAL,1,home,DefReb,,,DefReb,,B. Rush,
-274,3,3:09.0,67,54,MIN,DAL,18,home,LostBall,steal,,turnover,,A. Wiggins,S. Mejri
+274,3,3:09.0,67,54,MIN,DAL,18,home,lost ball,steal,,turnover,,A. Wiggins,S. Mejri
 275,3,2:57.0,67,56,MIN,DAL,12,away,JS,,21,make2,2,S. Curry,
 276,3,2:40.0,67,56,MIN,DAL,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Mejri,K. Towns
 277,3,2:40.0,67,56,MIN,DAL,0,home,TechnicalFoul,,,TechnicalFoul,,K. Towns,
@@ -282,7 +282,7 @@
 280,3,2:40.0,67,56,MIN,DAL,0,home,Sub,,,,,N. Bjelica,K. Towns
 281,3,2:35.0,67,56,MIN,DAL,5,home,JS,,16,miss2,0,A. Wiggins,
 282,3,2:34.0,67,56,MIN,DAL,1,away,DefReb,,,DefReb,,S. Mejri,
-283,3,2:19.0,67,56,MIN,DAL,15,away,LostBall,steal,,turnover,,D. Harris,R. Rubio
+283,3,2:19.0,67,56,MIN,DAL,15,away,lost ball,steal,,turnover,,D. Harris,R. Rubio
 284,3,2:09.0,69,56,MIN,DAL,10,home,JS,assist,21,make2,2,G. Dieng,R. Rubio
 285,3,1:53.0,69,59,MIN,DAL,16,away,JS,,25,make3,3,S. Curry,
 286,3,1:33.0,69,59,MIN,DAL,20,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Matthews,A. Wiggins
@@ -366,12 +366,12 @@
 364,4,4:01.0,87,80,MIN,DAL,0,home,FreeThrow,,,make1,1,K. Towns,
 365,4,4:01.0,87,80,MIN,DAL,0,away,Sub,,,,,D. Nowitzki,S. Mejri
 366,4,4:01.0,88,80,MIN,DAL,0,home,FreeThrow,,,make1,1,K. Towns,
-367,4,3:51.0,88,80,MIN,DAL,10,away,BadPass,steal,,turnover,,D. Nowitzki,R. Rubio
+367,4,3:51.0,88,80,MIN,DAL,10,away,bad pass,steal,,turnover,,D. Nowitzki,R. Rubio
 368,4,3:36.0,88,80,MIN,DAL,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Matthews,A. Wiggins
 369,4,3:36.0,88,80,MIN,DAL,0,away,Sub,,,,,D. Harris,Y. Ferrell
 370,4,3:25.0,90,80,MIN,DAL,11,home,LU,,2,make2,2,R. Rubio,
 371,4,3:24.0,90,80,MIN,DAL,1,away,Timeout,,,,,,
-372,4,3:06.0,90,80,MIN,DAL,18,away,LostBall,steal,,turnover,,H. Barnes,T. Jones
+372,4,3:06.0,90,80,MIN,DAL,18,away,lost ball,steal,,turnover,,H. Barnes,T. Jones
 373,4,2:51.0,90,80,MIN,DAL,15,home,LostBall,,,turnover,,A. Wiggins,
 374,4,2:47.0,90,80,MIN,DAL,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Rubio,S. Curry
 375,4,2:47.0,90,81,MIN,DAL,0,away,FreeThrow,,,make1,1,S. Curry,

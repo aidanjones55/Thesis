@@ -1,6 +1,6 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:43.0,0,2,LAL,POR,17,away,JS,,20,make2,2,C. McCollum,
-1,1,11:29.0,0,2,LAL,POR,14,home,BadPass,steal,,turnover,,J. Clarkson,M. Harkless
+1,1,11:29.0,0,2,LAL,POR,14,home,bad pass,steal,,turnover,,J. Clarkson,M. Harkless
 2,1,11:13.0,0,2,LAL,POR,16,away,HS,,3,miss2,0,J. Nurkić,
 3,1,11:08.0,0,2,LAL,POR,5,home,DefReb,,,DefReb,,J. Randle,
 4,1,11:04.0,0,2,LAL,POR,4,home,HS,,11,miss2,0,J. Randle,
@@ -40,7 +40,7 @@
 38,1,7:43.0,6,9,LAL,POR,1,away,DefReb,,,DefReb,,Team,
 39,1,7:21.0,6,9,LAL,POR,22,away,JS,,19,miss2,0,N. Vonleh,
 40,1,7:19.0,6,9,LAL,POR,2,home,DefReb,,,DefReb,,I. Zubac,
-41,1,7:08.0,6,9,LAL,POR,11,home,LostBall,steal,,turnover,,I. Zubac,D. Lillard
+41,1,7:08.0,6,9,LAL,POR,11,home,lost ball,steal,,turnover,,I. Zubac,D. Lillard
 42,1,7:05.0,6,9,LAL,POR,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,I. Zubac,C. McCollum
 43,1,7:05.0,6,10,LAL,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
 44,1,7:05.0,6,11,LAL,POR,0,away,FreeThrow,,,make1,1,C. McCollum,
@@ -69,7 +69,7 @@
 67,1,4:47.0,8,13,LAL,POR,4,home,DefReb,,,DefReb,,J. Clarkson,
 68,1,4:42.0,11,13,LAL,POR,5,home,JS,assist,23,make3,3,J. Clarkson,J. Randle
 69,1,4:22.0,11,16,LAL,POR,20,away,JS,assist,25,make3,3,A. Crabbe,J. Nurkić
-70,1,4:18.0,11,16,LAL,POR,4,home,BadPass,steal,,turnover,,J. Randle,M. Harkless
+70,1,4:18.0,11,16,LAL,POR,4,home,bad pass,steal,,turnover,,J. Randle,M. Harkless
 71,1,4:18.0,11,16,LAL,POR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Randle,M. Harkless
 72,1,4:18.0,11,17,LAL,POR,0,away,FreeThrow,,,make1,1,M. Harkless,
 73,1,4:18.0,11,18,LAL,POR,0,away,FreeThrow,,,make1,1,M. Harkless,
@@ -93,10 +93,10 @@
 91,1,2:02.0,17,22,LAL,POR,1,home,DefReb,,,DefReb,,J. Randle,
 92,1,1:53.0,17,22,LAL,POR,9,home,JS,block,8,miss2,0,J. Randle,A. Aminu
 93,1,1:50.0,17,22,LAL,POR,3,away,DefReb,,,DefReb,,A. Crabbe,
-94,1,1:43.0,17,22,LAL,POR,7,away,BadPass,steal,,turnover,,C. McCollum,J. Randle
+94,1,1:43.0,17,22,LAL,POR,7,away,bad pass,steal,,turnover,,C. McCollum,J. Randle
 95,1,1:27.0,17,22,LAL,POR,16,home,JS,,26,miss3,0,T. Ennis,
 96,1,1:24.0,17,22,LAL,POR,3,away,DefReb,,,DefReb,,A. Aminu,
-97,1,1:08.0,17,22,LAL,POR,16,away,LostBall,steal,,turnover,,C. McCollum,D. Nwaba
+97,1,1:08.0,17,22,LAL,POR,16,away,lost ball,steal,,turnover,,C. McCollum,D. Nwaba
 98,1,0:57.0,17,22,LAL,POR,11,home,JS,,21,miss2,0,D. Russell,
 99,1,0:56.0,17,22,LAL,POR,1,away,DefReb,,,DefReb,,A. Aminu,
 100,1,0:39.0,17,22,LAL,POR,17,away,JS,,6,miss2,0,E. Turner,
@@ -107,7 +107,7 @@
 105,1,0:02.0,17,22,LAL,POR,1,home,DefReb,,,DefReb,,L. Nance,
 106,1,0:01.0,17,22,LAL,POR,1,home,JS,,65,miss3,0,L. Nance,
 107,1,0:00.0,17,22,LAL,POR,1,home,OffReb,,,OffReb,,Team,
-108,2,11:43.0,17,22,LAL,POR,17,home,LostBall,steal,,turnover,,J. Clarkson,C. McCollum
+108,2,11:43.0,17,22,LAL,POR,17,home,lost ball,steal,,turnover,,J. Clarkson,C. McCollum
 109,2,11:38.0,17,24,LAL,POR,5,away,LU,assist,1,make2,2,A. Crabbe,C. McCollum
 110,2,11:21.0,17,24,LAL,POR,17,home,JS,,25,miss3,0,J. Clarkson,
 111,2,11:20.0,17,24,LAL,POR,1,away,DefReb,,,DefReb,,M. Leonard,
@@ -137,9 +137,9 @@
 135,2,8:16.0,19,31,LAL,POR,21,away,JS,,23,miss3,0,A. Aminu,
 136,2,8:15.0,19,31,LAL,POR,1,home,DefReb,,,DefReb,,T. Black,
 137,2,8:03.0,21,31,LAL,POR,12,home,JS,,17,make2,2,T. Ennis,
-138,2,7:49.0,21,31,LAL,POR,14,away,BadPass,steal,,turnover,,C. McCollum,T. Ennis
+138,2,7:49.0,21,31,LAL,POR,14,away,bad pass,steal,,turnover,,C. McCollum,T. Ennis
 139,2,7:43.0,23,31,LAL,POR,6,home,LU,assist,1,make2,2,L. Nance,T. Ennis
-140,2,7:27.0,23,31,LAL,POR,16,away,LostBall,steal,,turnover,,C. McCollum,T. Ennis
+140,2,7:27.0,23,31,LAL,POR,16,away,lost ball,steal,,turnover,,C. McCollum,T. Ennis
 141,2,7:12.0,23,31,LAL,POR,15,home,JS,,26,miss3,0,J. Clarkson,
 142,2,7:10.0,23,31,LAL,POR,2,away,DefReb,,,DefReb,,C. McCollum,
 143,2,7:02.0,23,31,LAL,POR,8,away,JS,,26,miss3,0,A. Crabbe,
@@ -174,7 +174,7 @@
 172,2,4:23.0,28,33,LAL,POR,3,away,JS,,15,make2,2,A. Crabbe,
 173,2,4:14.0,30,33,LAL,POR,9,home,JS,assist,6,make2,2,I. Zubac,J. Clarkson
 174,2,4:01.0,30,35,LAL,POR,13,away,LU,assist,1,make2,2,J. Nurkić,D. Lillard
-175,2,3:39.0,30,35,LAL,POR,22,home,LostBall,steal,,turnover,,J. Clarkson,J. Nurkić
+175,2,3:39.0,30,35,LAL,POR,22,home,lost ball,steal,,turnover,,J. Clarkson,J. Nurkić
 176,2,3:31.0,30,35,LAL,POR,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Nwaba,J. Nurkić
 177,2,3:31.0,30,35,LAL,POR,0,home,Sub,,,,,D. Russell,T. Ennis
 178,2,3:31.0,30,35,LAL,POR,0,away,Sub,,,,,M. Harkless,E. Turner
@@ -212,14 +212,14 @@
 210,2,0:14.0,32,40,LAL,POR,8,away,Timeout,,,,,,
 211,2,0:14.0,32,40,LAL,POR,0,away,Sub,,,,,A. Crabbe,N. Vonleh
 212,2,0:14.0,32,40,LAL,POR,0,home,Sub,,,,,D. Nwaba,J. Clarkson
-213,2,0:10.0,32,40,LAL,POR,4,away,LostBall,steal,,turnover,,J. Nurkić,C. Brewer
+213,2,0:10.0,32,40,LAL,POR,4,away,lost ball,steal,,turnover,,J. Nurkić,C. Brewer
 214,2,0:10.0,32,40,LAL,POR,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Nurkić,J. Randle
 215,2,0:10.0,32,40,LAL,POR,0,home,Timeout,,,,,,
 216,2,0:10.0,32,40,LAL,POR,0,away,Sub,,,,,A. Aminu,J. Nurkić
 217,2,0:10.0,32,40,LAL,POR,0,away,Sub,,,,,N. Vonleh,D. Lillard
 218,2,0:01.0,32,40,LAL,POR,9,home,JS,,25,miss3,0,I. Zubac,
 219,2,0:01.0,32,40,LAL,POR,0,away,DefReb,,,DefReb,,N. Vonleh,
-220,3,11:47.0,32,40,LAL,POR,13,home,LostBall,steal,,turnover,,D. Russell,D. Lillard
+220,3,11:47.0,32,40,LAL,POR,13,home,lost ball,steal,,turnover,,D. Russell,D. Lillard
 221,3,11:41.0,32,42,LAL,POR,6,away,LU,assist,2,make2,2,M. Harkless,D. Lillard
 222,3,11:16.0,32,42,LAL,POR,25,home,JS,,24,miss3,0,J. Clarkson,
 223,3,11:13.0,32,42,LAL,POR,3,away,DefReb,,,DefReb,,J. Nurkić,
@@ -319,7 +319,7 @@
 317,3,0:01.0,56,77,LAL,POR,0,home,JS,,67,miss3,0,T. Ennis,
 318,3,0:00.0,56,77,LAL,POR,1,home,OffReb,,,OffReb,,Team,
 319,4,11:39.0,56,80,LAL,POR,21,away,JS,assist,24,make3,3,A. Aminu,A. Crabbe
-320,4,11:26.0,56,80,LAL,POR,13,home,BadPass,steal,,turnover,,T. Ennis,A. Crabbe
+320,4,11:26.0,56,80,LAL,POR,13,home,bad pass,steal,,turnover,,T. Ennis,A. Crabbe
 321,4,11:07.0,56,80,LAL,POR,19,away,Traveling,,,turnover,,A. Aminu,
 322,4,10:56.0,56,80,LAL,POR,11,home,JS,,16,miss2,0,L. Nance,
 323,4,10:55.0,56,80,LAL,POR,1,away,DefReb,,,DefReb,,E. Turner,
@@ -384,7 +384,7 @@
 382,4,5:40.0,68,87,LAL,POR,0,away,FreeThrow,,,make1,1,M. Harkless,
 383,4,5:40.0,68,86,LAL,POR,0,home,Sub,,,,,D. Russell,J. Clarkson
 384,4,5:40.0,68,88,LAL,POR,0,away,FreeThrow,,,make1,1,M. Harkless,
-385,4,5:23.0,68,88,LAL,POR,17,home,BadPass,steal,,turnover,,D. Russell,D. Lillard
+385,4,5:23.0,68,88,LAL,POR,17,home,bad pass,steal,,turnover,,D. Russell,D. Lillard
 386,4,5:23.0,68,88,LAL,POR,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Russell,D. Lillard
 387,4,5:08.0,68,88,LAL,POR,15,away,BadPass,,,turnover,,D. Lillard,
 388,4,4:44.0,68,88,LAL,POR,24,home,JS,,27,miss3,0,T. Ennis,
@@ -399,13 +399,13 @@
 397,4,4:17.0,68,89,LAL,POR,1,home,DefReb,,,DefReb,,I. Zubac,
 398,4,4:05.0,68,89,LAL,POR,12,home,JS,,16,miss2,0,D. Russell,
 399,4,4:01.0,68,89,LAL,POR,4,away,DefReb,,,DefReb,,J. Nurkić,
-400,4,3:54.0,68,89,LAL,POR,7,away,BadPass,steal,,turnover,,J. Nurkić,T. Ennis
+400,4,3:54.0,68,89,LAL,POR,7,away,bad pass,steal,,turnover,,J. Nurkić,T. Ennis
 401,4,3:54.0,68,89,LAL,POR,0,away,Sub,,,,,N. Vonleh,J. Nurkić
 402,4,3:44.0,70,89,LAL,POR,10,home,LU,,1,make2,2,T. Ennis,
 403,4,3:30.0,70,92,LAL,POR,14,away,JS,assist,25,make3,3,A. Crabbe,A. Aminu
 404,4,3:15.0,70,92,LAL,POR,15,home,JS,,16,miss2,0,T. Ennis,
 405,4,3:13.0,70,92,LAL,POR,2,away,DefReb,,,DefReb,,N. Vonleh,
-406,4,3:00.0,70,92,LAL,POR,13,away,LostBall,steal,,turnover,,N. Vonleh,T. Ennis
+406,4,3:00.0,70,92,LAL,POR,13,away,lost ball,steal,,turnover,,N. Vonleh,T. Ennis
 407,4,2:54.0,72,92,LAL,POR,6,home,DK,assist,0,make2,2,D. Nwaba,T. Ennis
 408,4,2:52.0,72,92,LAL,POR,2,away,Timeout,,,,,,
 409,4,2:52.0,72,92,LAL,POR,0,away,Sub,,,,,P. Connaughton,M. Harkless

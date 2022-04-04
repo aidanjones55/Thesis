@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:39.0,0,2,DEN,UTA,21,away,JS,,9,make2,2,R. Hood,
 1,1,11:23.0,3,2,DEN,UTA,16,home,JS,assist,27,make3,3,W. Barton,D. Gallinari
-2,1,11:10.0,3,2,DEN,UTA,13,away,BadPass,steal,,turnover,,G. Hayward,K. Faried
+2,1,11:10.0,3,2,DEN,UTA,13,away,bad pass,steal,,turnover,,G. Hayward,K. Faried
 3,1,11:05.0,3,2,DEN,UTA,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Exum,K. Faried
 4,1,10:45.0,5,2,DEN,UTA,20,home,DK,assist,0,make2,2,J. Nurkić,D. Gallinari
 5,1,10:24.0,5,2,DEN,UTA,21,away,JS,,19,miss2,0,G. Hayward,
@@ -126,7 +126,7 @@
 124,2,11:14.0,27,16,DEN,UTA,22,home,JS,assist,26,make3,3,W. Chandler,J. Murray
 125,2,10:59.0,27,18,DEN,UTA,15,away,JS,,14,make2,2,G. Hayward,
 126,2,10:47.0,29,18,DEN,UTA,12,home,LU,assist,2,make2,2,J. Hernangómez,N. Jokić
-127,2,10:30.0,29,18,DEN,UTA,17,away,BadPass,steal,,turnover,,G. Hayward,J. Hernangómez
+127,2,10:30.0,29,18,DEN,UTA,17,away,bad pass,steal,,turnover,,G. Hayward,J. Hernangómez
 128,2,10:30.0,29,18,DEN,UTA,0,home,ClearPathFoul,,,ClearPathFoul,,J. Johnson,
 129,2,10:30.0,29,18,DEN,UTA,0,home,FreeThrow,,,make1,0,J. Hernangómez misses clear path free throw 1 of 2,
 130,2,10:30.0,29,18,DEN,UTA,0,home,OffReb,,,OffReb,,Team,
@@ -246,7 +246,7 @@
 244,3,9:42.0,59,45,DEN,UTA,5,home,JS,,26,miss3,0,W. Barton,
 245,3,9:41.0,59,45,DEN,UTA,1,away,DefReb,,,DefReb,,R. Gobert,
 246,3,9:28.0,59,48,DEN,UTA,13,away,JS,assist,25,make3,3,J. Johnson,R. Gobert
-247,3,9:16.0,59,48,DEN,UTA,12,home,LostBall,steal,,turnover,,D. Gallinari,R. Hood
+247,3,9:16.0,59,48,DEN,UTA,12,home,lost ball,steal,,turnover,,D. Gallinari,R. Hood
 248,3,9:10.0,59,50,DEN,UTA,6,away,LU,,2,make2,2,D. Exum,
 249,3,9:09.0,59,50,DEN,UTA,1,home,Timeout,,,,,,
 250,3,9:09.0,59,50,DEN,UTA,0,home,Sub,,,,,W. Chandler,K. Faried
@@ -254,7 +254,7 @@
 252,3,8:24.0,61,50,DEN,UTA,22,away,JS,,24,miss3,0,R. Hood,
 253,3,8:23.0,61,50,DEN,UTA,1,home,DefReb,,,DefReb,,W. Barton,
 254,3,8:13.0,63,50,DEN,UTA,10,home,LU,,0,make2,2,E. Mudiay,
-255,3,8:00.0,63,50,DEN,UTA,13,away,LostBall,steal,,turnover,,D. Exum,W. Chandler
+255,3,8:00.0,63,50,DEN,UTA,13,away,lost ball,steal,,turnover,,D. Exum,W. Chandler
 256,3,7:54.0,65,50,DEN,UTA,6,home,LU,,3,make2,2,W. Chandler,
 257,3,7:44.0,65,50,DEN,UTA,10,away,JS,,4,miss2,0,D. Exum,
 258,3,7:42.0,65,50,DEN,UTA,2,away,OffReb,,,OffReb,,R. Gobert,
@@ -309,7 +309,7 @@
 307,3,2:24.0,73,62,DEN,UTA,13,home,LU,assist,2,make2,2,E. Mudiay,D. Gallinari
 308,3,2:04.0,73,62,DEN,UTA,20,away,JS,,10,miss2,0,J. Johnson,
 309,3,2:03.0,73,62,DEN,UTA,1,home,DefReb,,,DefReb,,W. Chandler,
-310,3,2:00.0,73,62,DEN,UTA,3,home,LostBall,steal,,turnover,,W. Chandler,J. Ingles
+310,3,2:00.0,73,62,DEN,UTA,3,home,lost ball,steal,,turnover,,W. Chandler,J. Ingles
 311,3,2:00.0,73,62,DEN,UTA,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Jokić,J. Johnson
 312,3,2:00.0,73,62,DEN,UTA,0,away,Timeout,,,,,,
 313,3,2:00.0,73,62,DEN,UTA,0,away,Sub,,,,,R. Hood,G. Hayward
@@ -381,7 +381,7 @@
 379,4,8:38.0,86,71,DEN,UTA,0,home,FreeThrow,,,make1,0,J. Murray,
 380,4,8:38.0,86,71,DEN,UTA,0,away,Sub,,,,,R. Gobert,J. Withey
 381,4,8:36.0,86,71,DEN,UTA,2,away,DefReb,,,DefReb,,G. Hayward,
-382,4,8:19.0,86,71,DEN,UTA,17,away,BadPass,steal,,turnover,,T. Lyles,J. Nurkić
+382,4,8:19.0,86,71,DEN,UTA,17,away,bad pass,steal,,turnover,,T. Lyles,J. Nurkić
 383,4,8:13.0,88,71,DEN,UTA,6,home,JS,assist,3,make2,2,J. Nurkić,J. Murray
 384,4,7:56.0,88,71,DEN,UTA,17,away,JS,,20,miss2,0,T. Lyles,
 385,4,7:55.0,88,71,DEN,UTA,1,home,DefReb,,,DefReb,,D. Gallinari,
@@ -442,7 +442,7 @@
 440,4,2:30.0,101,82,DEN,UTA,0,away,FreeThrow,,,make1,1,J. Ingles,
 441,4,2:30.0,101,82,DEN,UTA,0,home,Sub,,,,,A. Gee,D. Gallinari
 442,4,2:30.0,101,83,DEN,UTA,0,away,FreeThrow,,,make1,1,J. Ingles,
-443,4,2:09.0,101,83,DEN,UTA,21,home,BadPass,steal,,turnover,,J. Nurkić,J. Withey
+443,4,2:09.0,101,83,DEN,UTA,21,home,bad pass,steal,,turnover,,J. Nurkić,J. Withey
 444,4,1:58.0,101,83,DEN,UTA,11,away,JS,,24,miss3,0,D. Exum,
 445,4,1:57.0,101,83,DEN,UTA,1,away,OffReb,,,OffReb,,D. Exum,
 446,4,1:54.0,101,86,DEN,UTA,3,away,JS,assist,24,make3,3,R. Neto,J. Ingles

@@ -6,8 +6,8 @@
 4,1,11:02.0,2,2,NOP,MIN,10,away,JS,assist,18,make2,2,G. Dieng,K. Towns
 5,1,11:02.0,2,2,NOP,MIN,0,home,JS,,19,miss2,0,A. Davis,
 6,1,11:02.0,2,2,NOP,MIN,0,away,DefReb,,,DefReb,,G. Dieng,
-7,1,10:33.0,2,2,NOP,MIN,29,away,BadPass,steal,,turnover,,R. Rubio,A. Davis
-8,1,10:06.0,2,2,NOP,MIN,27,home,LostBall,steal,,turnover,,T. Frazier,K. Towns
+7,1,10:33.0,2,2,NOP,MIN,29,away,bad pass,steal,,turnover,,R. Rubio,A. Davis
+8,1,10:06.0,2,2,NOP,MIN,27,home,lost ball,steal,,turnover,,T. Frazier,K. Towns
 9,1,10:06.0,2,2,NOP,MIN,0,away,LU,,3,miss2,0,K. Towns,
 10,1,10:05.0,2,2,NOP,MIN,1,home,DefReb,,,DefReb,,Ö. Aşık,
 11,1,9:46.0,5,2,NOP,MIN,19,home,JS,,26,make3,3,T. Frazier,
@@ -44,13 +44,13 @@
 42,1,5:47.0,19,9,NOP,MIN,11,home,JS,,8,make2,2,A. Davis,
 43,1,5:28.0,19,9,NOP,MIN,19,away,JS,block,4,miss2,0,K. Towns,A. Davis
 44,1,5:25.0,19,9,NOP,MIN,3,away,OffReb,,,OffReb,,K. Towns,
-45,1,5:23.0,19,9,NOP,MIN,2,away,BadPass,steal,,turnover,,K. Towns,D. Cunningham
+45,1,5:23.0,19,9,NOP,MIN,2,away,bad pass,steal,,turnover,,K. Towns,D. Cunningham
 46,1,5:13.0,21,9,NOP,MIN,10,home,JS,,7,make2,2,A. Davis,
 47,1,4:54.0,21,11,NOP,MIN,19,away,JS,assist,4,make2,2,Z. LaVine,G. Dieng
 48,1,4:54.0,21,11,NOP,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,Z. LaVine
 49,1,4:54.0,21,11,NOP,MIN,0,home,Sub,,,,,J. Holiday,E. Moore
 50,1,4:54.0,21,12,NOP,MIN,0,away,FreeThrow,,,make1,1,Z. LaVine,
-51,1,4:37.0,21,12,NOP,MIN,17,home,BadPass,steal,,turnover,,A. Davis,R. Rubio
+51,1,4:37.0,21,12,NOP,MIN,17,home,bad pass,steal,,turnover,,A. Davis,R. Rubio
 52,1,4:28.0,21,14,NOP,MIN,9,away,JS,assist,20,make2,2,A. Wiggins,G. Dieng
 53,1,4:11.0,21,14,NOP,MIN,17,home,JS,,26,miss3,0,A. Davis,
 54,1,4:10.0,21,14,NOP,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
@@ -92,7 +92,7 @@
 90,1,1:25.0,28,25,NOP,MIN,13,home,LU,assist,3,make2,2,A. Davis,J. Holiday
 91,1,1:25.0,28,25,NOP,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dieng,A. Davis
 92,1,1:25.0,29,25,NOP,MIN,0,home,FreeThrow,,,make1,1,A. Davis,
-93,1,1:09.0,29,25,NOP,MIN,16,away,BadPass,steal,,turnover,,A. Wiggins,J. Holiday
+93,1,1:09.0,29,25,NOP,MIN,16,away,bad pass,steal,,turnover,,A. Wiggins,J. Holiday
 94,1,1:07.0,29,25,NOP,MIN,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,A. Davis
 95,1,1:07.0,30,25,NOP,MIN,0,home,FreeThrow,,,make1,1,A. Davis,
 96,1,1:07.0,31,25,NOP,MIN,0,home,FreeThrow,,,make1,1,A. Davis,
@@ -104,7 +104,7 @@
 102,1,0:28.0,31,26,NOP,MIN,0,away,FreeThrow,,,make1,1,N. Bjelica,
 103,1,0:28.0,31,26,NOP,MIN,0,away,FreeThrow,,,make1,0,N. Bjelica,
 104,1,0:25.0,31,26,NOP,MIN,3,home,DefReb,,,DefReb,,T. Jones,
-105,1,0:05.0,31,26,NOP,MIN,20,home,BadPass,steal,,turnover,,J. Holiday,N. Bjelica
+105,1,0:05.0,31,26,NOP,MIN,20,home,bad pass,steal,,turnover,,J. Holiday,N. Bjelica
 106,1,0:00.0,31,26,NOP,MIN,5,away,JS,,23,miss3,0,B. Rush,
 107,1,0:00.0,31,26,NOP,MIN,0,away,OffReb,,,OffReb,,Team,
 108,2,11:41.0,31,28,NOP,MIN,19,away,LU,assist,4,make2,2,C. Aldrich,Z. LaVine
@@ -121,7 +121,7 @@
 119,2,10:22.0,36,33,NOP,MIN,14,home,JS,assist,27,make3,3,L. Galloway,J. Holiday
 120,2,10:02.0,36,33,NOP,MIN,20,away,JS,,4,miss2,0,C. Aldrich,
 121,2,10:00.0,36,33,NOP,MIN,2,home,DefReb,,,DefReb,,D. Cunningham,
-122,2,9:59.0,36,33,NOP,MIN,1,home,BadPass,steal,,turnover,,D. Cunningham,K. Dunn
+122,2,9:59.0,36,33,NOP,MIN,1,home,bad pass,steal,,turnover,,D. Cunningham,K. Dunn
 123,2,9:53.0,36,35,NOP,MIN,6,away,LU,,3,make2,2,K. Dunn,
 124,2,9:45.0,38,35,NOP,MIN,8,home,LU,,3,make2,2,J. Holiday,
 125,2,9:29.0,38,37,NOP,MIN,16,away,DK,,0,make2,2,Z. LaVine,
@@ -144,15 +144,15 @@
 142,2,7:59.0,38,37,NOP,MIN,3,home,ChargeFoul,DrawnBy,,ChargeFoul,,N. Bjelica,L. Galloway
 143,2,7:59.0,38,37,NOP,MIN,0,away,OffensiveFoul,,,turnover,,N. Bjelica,
 144,2,7:59.0,38,37,NOP,MIN,0,away,Sub,,,,,K. Towns,N. Bjelica
-145,2,7:46.0,38,37,NOP,MIN,13,home,BadPass,steal,,turnover,,L. Galloway,Z. LaVine
+145,2,7:46.0,38,37,NOP,MIN,13,home,bad pass,steal,,turnover,,L. Galloway,Z. LaVine
 146,2,7:44.0,38,37,NOP,MIN,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Galloway,Z. LaVine
 147,2,7:44.0,38,38,NOP,MIN,0,away,FreeThrow,,,make1,1,Z. LaVine,
 148,2,7:44.0,38,38,NOP,MIN,0,home,Sub,,,,,T. Frazier,J. Holiday
 149,2,7:44.0,38,38,NOP,MIN,0,home,Sub,,,,,A. Davis,B. Hield
 150,2,7:44.0,38,38,NOP,MIN,0,home,Sub,,,,,E. Moore,T. Jones
 151,2,7:44.0,38,39,NOP,MIN,0,away,FreeThrow,,,make1,1,Z. LaVine,
-152,2,7:24.0,38,39,NOP,MIN,20,home,LostBall,steal,,turnover,,T. Frazier,S. Muhammad
-153,2,7:17.0,38,39,NOP,MIN,7,away,BadPass,steal,,turnover,,K. Towns,L. Galloway
+152,2,7:24.0,38,39,NOP,MIN,20,home,lost ball,steal,,turnover,,T. Frazier,S. Muhammad
+153,2,7:17.0,38,39,NOP,MIN,7,away,bad pass,steal,,turnover,,K. Towns,L. Galloway
 154,2,7:07.0,38,39,NOP,MIN,10,home,JS,block,13,miss2,0,L. Galloway,K. Towns
 155,2,7:04.0,38,39,NOP,MIN,3,away,DefReb,,,DefReb,,K. Towns,
 156,2,7:00.0,38,41,NOP,MIN,4,away,LU,,2,make2,2,S. Muhammad,
@@ -233,7 +233,7 @@
 231,3,11:16.0,53,50,NOP,MIN,9,away,JS,block,4,miss2,0,Z. LaVine,E. Moore
 232,3,11:16.0,53,50,NOP,MIN,0,away,OffReb,,,OffReb,,Team,
 233,3,11:09.0,53,53,NOP,MIN,7,away,JS,assist,26,make3,3,K. Towns,R. Rubio
-234,3,11:04.0,53,53,NOP,MIN,5,home,BadPass,steal,,turnover,,A. Davis,R. Rubio
+234,3,11:04.0,53,53,NOP,MIN,5,home,bad pass,steal,,turnover,,A. Davis,R. Rubio
 235,3,10:56.0,53,55,NOP,MIN,8,away,JS,assist,4,make2,2,G. Dieng,R. Rubio
 236,3,10:41.0,55,55,NOP,MIN,15,home,JS,assist,21,make2,2,A. Davis,T. Frazier
 237,3,10:31.0,55,55,NOP,MIN,10,away,HS,,15,miss2,0,K. Towns,
@@ -246,17 +246,17 @@
 244,3,9:55.0,55,55,NOP,MIN,2,home,OffReb,,,OffReb,,Ö. Aşık,
 245,3,9:55.0,55,55,NOP,MIN,0,home,LU,,1,miss2,0,Ö. Aşık,
 246,3,9:54.0,55,55,NOP,MIN,1,away,DefReb,,,DefReb,,K. Towns,
-247,3,9:53.0,55,55,NOP,MIN,1,away,BadPass,steal,,turnover,,K. Towns,A. Davis
+247,3,9:53.0,55,55,NOP,MIN,1,away,bad pass,steal,,turnover,,K. Towns,A. Davis
 248,3,9:52.0,57,55,NOP,MIN,1,home,LU,assist,3,make2,2,E. Moore,A. Davis
 249,3,9:31.0,57,57,NOP,MIN,21,away,JS,assist,19,make2,2,Z. LaVine,G. Dieng
 250,3,9:18.0,60,57,NOP,MIN,13,home,JS,assist,26,make3,3,A. Davis,E. Moore
-251,3,9:06.0,60,57,NOP,MIN,12,away,LostBall,steal,,turnover,,Z. LaVine,S. Hill
+251,3,9:06.0,60,57,NOP,MIN,12,away,lost ball,steal,,turnover,,Z. LaVine,S. Hill
 252,3,9:04.0,62,57,NOP,MIN,2,home,LU,assist,3,make2,2,A. Davis,S. Hill
 253,3,9:04.0,62,57,NOP,MIN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Wiggins,A. Davis
 254,3,9:04.0,63,57,NOP,MIN,0,home,FreeThrow,,,make1,1,A. Davis,
 255,3,8:41.0,63,57,NOP,MIN,23,away,JS,,19,miss2,0,R. Rubio,
 256,3,8:38.0,63,57,NOP,MIN,3,home,DefReb,,,DefReb,,S. Hill,
-257,3,8:36.0,63,57,NOP,MIN,2,home,BadPass,steal,,turnover,,S. Hill,A. Wiggins
+257,3,8:36.0,63,57,NOP,MIN,2,home,bad pass,steal,,turnover,,S. Hill,A. Wiggins
 258,3,8:27.0,63,57,NOP,MIN,9,away,JS,,15,miss2,0,A. Wiggins,
 259,3,8:27.0,63,57,NOP,MIN,0,home,DefReb,,,DefReb,,S. Hill,
 260,3,8:22.0,65,57,NOP,MIN,5,home,LU,,4,make2,2,T. Frazier,
@@ -281,7 +281,7 @@
 279,3,5:44.0,70,61,NOP,MIN,4,away,Timeout,,,,,,
 280,3,5:30.0,70,61,NOP,MIN,14,away,Traveling,,,turnover,,A. Wiggins,
 281,3,5:18.0,73,61,NOP,MIN,12,home,JS,,26,make3,3,T. Frazier,
-282,3,5:06.0,73,61,NOP,MIN,12,away,LostBall,steal,,turnover,,Z. LaVine,E. Moore
+282,3,5:06.0,73,61,NOP,MIN,12,away,lost ball,steal,,turnover,,Z. LaVine,E. Moore
 283,3,4:59.0,75,61,NOP,MIN,7,home,LU,,2,make2,2,E. Moore,
 284,3,4:44.0,75,61,NOP,MIN,15,away,JS,,3,miss2,0,A. Wiggins,
 285,3,4:43.0,75,61,NOP,MIN,1,home,DefReb,,,DefReb,,T. Frazier,
@@ -309,7 +309,7 @@
 307,3,2:37.0,83,61,NOP,MIN,5,away,JS,,27,miss3,0,A. Wiggins,
 308,3,2:36.0,83,61,NOP,MIN,1,away,OffReb,,,OffReb,,K. Towns,
 309,3,2:32.0,83,63,NOP,MIN,4,away,HS,,5,make2,2,K. Towns,
-310,3,2:18.0,83,63,NOP,MIN,14,home,LostBall,steal,,turnover,,T. Frazier,K. Dunn
+310,3,2:18.0,83,63,NOP,MIN,14,home,lost ball,steal,,turnover,,T. Frazier,K. Dunn
 311,3,2:11.0,83,65,NOP,MIN,7,away,LU,assist,2,make2,2,K. Dunn,K. Towns
 312,3,1:50.0,85,65,NOP,MIN,21,home,JS,assist,10,make2,2,E. Moore,S. Hill
 313,3,1:28.0,85,65,NOP,MIN,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,A. Wiggins
@@ -392,24 +392,24 @@
 390,4,6:16.0,101,81,NOP,MIN,17,away,BackCourtTurnover,,,turnover,,K. Dunn,
 391,4,6:01.0,103,81,NOP,MIN,15,home,LU,assist,3,make2,2,T. Jones,J. Holiday
 392,4,5:44.0,103,83,NOP,MIN,17,away,HS,assist,6,make2,2,C. Aldrich,Z. LaVine
-393,4,5:33.0,103,83,NOP,MIN,11,home,BadPass,steal,,turnover,,T. Frazier,N. Bjelica
+393,4,5:33.0,103,83,NOP,MIN,11,home,bad pass,steal,,turnover,,T. Frazier,N. Bjelica
 394,4,5:33.0,103,83,NOP,MIN,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Frazier,N. Bjelica
 395,4,5:33.0,103,83,NOP,MIN,0,away,Sub,,,,,A. Payne,C. Aldrich
 396,4,5:10.0,103,83,NOP,MIN,23,away,JS,,26,miss3,0,N. Bjelica,
 397,4,5:09.0,103,83,NOP,MIN,1,home,DefReb,,,DefReb,,A. Davis,
-398,4,4:54.0,103,83,NOP,MIN,15,home,LostBall,steal,,turnover,,T. Jones,K. Dunn
+398,4,4:54.0,103,83,NOP,MIN,15,home,lost ball,steal,,turnover,,T. Jones,K. Dunn
 399,4,4:52.0,103,83,NOP,MIN,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Holiday,Z. LaVine
 400,4,4:52.0,103,83,NOP,MIN,0,away,FreeThrow,,,make1,0,Z. LaVine,
 401,4,4:52.0,103,83,NOP,MIN,0,away,OffReb,,,OffReb,,Team,
 402,4,4:52.0,103,84,NOP,MIN,0,away,FreeThrow,,,make1,1,Z. LaVine,
-403,4,4:31.0,103,84,NOP,MIN,21,home,LostBall,steal,,turnover,,J. Holiday,K. Dunn
-404,4,4:27.0,103,84,NOP,MIN,4,away,LostBall,steal,,turnover,,N. Bjelica,T. Jones
+403,4,4:31.0,103,84,NOP,MIN,21,home,lost ball,steal,,turnover,,J. Holiday,K. Dunn
+404,4,4:27.0,103,84,NOP,MIN,4,away,lost ball,steal,,turnover,,N. Bjelica,T. Jones
 405,4,4:25.0,105,84,NOP,MIN,2,home,DK,,0,make2,2,T. Jones,
 406,4,4:08.0,105,84,NOP,MIN,17,away,JS,,26,miss3,0,N. Bjelica,
 407,4,4:07.0,105,84,NOP,MIN,1,home,DefReb,,,DefReb,,L. Galloway,
 408,4,4:00.0,105,84,NOP,MIN,7,home,LU,,3,miss2,0,J. Holiday,
 409,4,3:59.0,105,84,NOP,MIN,1,away,DefReb,,,DefReb,,A. Payne,
-410,4,3:56.0,105,84,NOP,MIN,3,away,BadPass,steal,,turnover,,A. Payne,L. Galloway
+410,4,3:56.0,105,84,NOP,MIN,3,away,bad pass,steal,,turnover,,A. Payne,L. Galloway
 411,4,3:49.0,107,84,NOP,MIN,7,home,JS,assist,12,make2,2,A. Davis,L. Galloway
 412,4,3:34.0,107,84,NOP,MIN,15,away,JS,,27,miss3,0,Z. LaVine,
 413,4,3:32.0,107,84,NOP,MIN,2,home,DefReb,,,DefReb,,A. Davis,
@@ -430,7 +430,7 @@
 428,4,2:22.0,109,86,NOP,MIN,3,away,DefReb,,,DefReb,,K. Dunn,
 429,4,2:10.0,109,88,NOP,MIN,12,away,LU,assist,1,make2,2,S. Muhammad,T. Jones
 430,4,1:50.0,111,88,NOP,MIN,20,home,LU,assist,4,make2,2,T. Jones,B. Hield
-431,4,1:30.0,111,88,NOP,MIN,20,away,LostBall,steal,,turnover,,K. Dunn,S. Hill
+431,4,1:30.0,111,88,NOP,MIN,20,away,lost ball,steal,,turnover,,K. Dunn,S. Hill
 432,4,1:24.0,111,88,NOP,MIN,6,home,LU,,3,miss2,0,B. Hield,
 433,4,1:22.0,111,88,NOP,MIN,2,home,OffReb,,,OffReb,,L. Galloway,
 434,4,1:20.0,114,88,NOP,MIN,2,home,JS,assist,27,make3,3,A. Brown,L. Galloway

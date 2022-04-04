@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:45.0,0,0,GSW,LAC,15,home,LostBall,steal,,turnover,,Z. Pachulia,B. Griffin
+0,1,11:45.0,0,0,GSW,LAC,15,home,lost ball,steal,,turnover,,Z. Pachulia,B. Griffin
 1,1,11:39.0,0,3,GSW,LAC,6,away,JS,assist,25,make3,3,J. Redick,B. Griffin
 2,1,11:31.0,0,3,GSW,LAC,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Mbah a Moute,S. Curry
 3,1,11:22.0,2,3,GSW,LAC,9,home,LU,assist,2,make2,2,S. Curry,Z. Pachulia
@@ -12,12 +12,12 @@
 10,1,10:21.0,6,5,GSW,LAC,15,home,JS,assist,13,make2,2,K. Durant,Z. Pachulia
 11,1,10:07.0,6,5,GSW,LAC,14,away,JS,,26,miss3,0,J. Redick,
 12,1,10:06.0,6,5,GSW,LAC,1,home,DefReb,,,DefReb,,D. Green,
-13,1,9:57.0,6,5,GSW,LAC,9,home,BadPass,steal,,turnover,,K. Thompson,L. Mbah a Moute
+13,1,9:57.0,6,5,GSW,LAC,9,home,bad pass,steal,,turnover,,K. Thompson,L. Mbah a Moute
 14,1,9:53.0,6,5,GSW,LAC,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,B. Griffin,D. Green
 15,1,9:53.0,6,5,GSW,LAC,0,away,OffensiveFoul,,,turnover,,B. Griffin,
 16,1,9:36.0,8,5,GSW,LAC,17,home,JS,,14,make2,2,K. Thompson,
 17,1,9:17.0,8,7,GSW,LAC,19,away,JS,,21,make2,2,B. Griffin,
-18,1,9:03.0,8,7,GSW,LAC,14,home,LostBall,steal,,turnover,,K. Thompson,J. Redick
+18,1,9:03.0,8,7,GSW,LAC,14,home,lost ball,steal,,turnover,,K. Thompson,J. Redick
 19,1,8:42.0,8,7,GSW,LAC,21,away,JS,,22,miss2,0,B. Griffin,
 20,1,8:40.0,8,7,GSW,LAC,2,home,DefReb,,,DefReb,,Z. Pachulia,
 21,1,8:36.0,11,7,GSW,LAC,4,home,JS,,29,make3,3,S. Curry,
@@ -41,9 +41,9 @@
 39,1,7:05.0,16,7,GSW,LAC,3,home,JS,assist,26,make3,3,K. Durant,Z. Pachulia
 40,1,6:48.0,16,9,GSW,LAC,17,away,JS,assist,22,make2,2,J. Redick,A. Rivers
 41,1,6:37.0,16,9,GSW,LAC,11,home,BadPass,,,turnover,,S. Curry,
-42,1,6:25.0,16,9,GSW,LAC,12,away,BadPass,steal,,turnover,,A. Rivers,D. Green
+42,1,6:25.0,16,9,GSW,LAC,12,away,bad pass,steal,,turnover,,A. Rivers,D. Green
 43,1,6:21.0,18,9,GSW,LAC,4,home,LU,assist,1,make2,2,S. Curry,D. Green
-44,1,6:13.0,18,9,GSW,LAC,8,away,BadPass,steal,,turnover,,J. Redick,D. Green
+44,1,6:13.0,18,9,GSW,LAC,8,away,bad pass,steal,,turnover,,J. Redick,D. Green
 45,1,6:06.0,18,9,GSW,LAC,7,home,LU,,1,miss2,0,Z. Pachulia,
 46,1,6:05.0,18,9,GSW,LAC,1,away,DefReb,,,DefReb,,W. Johnson,
 47,1,5:59.0,18,9,GSW,LAC,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,D. Jordan
@@ -80,7 +80,7 @@
 78,1,2:31.0,24,20,GSW,LAC,1,home,DefReb,,,DefReb,,J. McGee,
 79,1,2:21.0,24,20,GSW,LAC,10,home,JS,,26,miss3,0,P. McCaw,
 80,1,2:20.0,24,20,GSW,LAC,1,away,DefReb,,,DefReb,,W. Johnson,
-81,1,2:15.0,24,20,GSW,LAC,5,away,BadPass,steal,,turnover,,R. Felton,K. Durant
+81,1,2:15.0,24,20,GSW,LAC,5,away,bad pass,steal,,turnover,,R. Felton,K. Durant
 82,1,2:10.0,24,20,GSW,LAC,5,home,JS,,25,miss3,0,S. Curry,
 83,1,2:09.0,24,20,GSW,LAC,1,away,DefReb,,,DefReb,,R. Felton,
 84,1,1:46.0,24,20,GSW,LAC,23,away,JS,,21,miss2,0,W. Johnson,
@@ -90,7 +90,7 @@
 88,1,1:34.0,24,20,GSW,LAC,7,home,JS,,20,miss2,0,S. Curry,
 89,1,1:33.0,24,20,GSW,LAC,1,home,OffReb,,,OffReb,,J. McGee,
 90,1,1:31.0,26,20,GSW,LAC,2,home,JS,,6,make2,2,J. McGee,
-91,1,1:11.0,26,20,GSW,LAC,20,away,LostBall,steal,,turnover,,D. Jordan,A. Iguodala
+91,1,1:11.0,26,20,GSW,LAC,20,away,lost ball,steal,,turnover,,D. Jordan,A. Iguodala
 92,1,1:05.0,29,20,GSW,LAC,6,home,JS,assist,24,make3,3,S. Curry,A. Iguodala
 93,1,0:44.0,29,20,GSW,LAC,21,away,JS,,22,miss2,0,J. Crawford,
 94,1,0:43.0,29,20,GSW,LAC,1,home,DefReb,,,DefReb,,Team,
@@ -108,7 +108,7 @@
 106,2,11:50.0,31,22,GSW,LAC,10,away,BadPass,,,turnover,,J. Crawford,
 107,2,11:29.0,33,22,GSW,LAC,21,home,JS,,12,make2,2,S. Livingston,
 108,2,11:08.0,33,24,GSW,LAC,21,away,JS,assist,18,make2,2,M. Speights,R. Felton
-109,2,10:50.0,33,24,GSW,LAC,18,home,BadPass,steal,,turnover,,J. McAdoo,J. Crawford
+109,2,10:50.0,33,24,GSW,LAC,18,home,bad pass,steal,,turnover,,J. McAdoo,J. Crawford
 110,2,10:43.0,33,24,GSW,LAC,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Thompson,B. Bass
 111,2,10:43.0,33,25,GSW,LAC,0,away,FreeThrow,,,make1,1,B. Bass,
 112,2,10:43.0,33,25,GSW,LAC,0,away,FreeThrow,,,make1,0,B. Bass,
@@ -127,7 +127,7 @@
 125,2,8:59.0,35,28,GSW,LAC,1,away,DefReb,,,DefReb,,R. Felton,
 126,2,8:46.0,35,28,GSW,LAC,13,away,JS,,15,miss2,0,M. Speights,
 127,2,8:45.0,35,28,GSW,LAC,1,away,OffReb,,,OffReb,,B. Bass,
-128,2,8:42.0,35,28,GSW,LAC,3,away,LostBall,steal,,turnover,,B. Bass,K. Thompson
+128,2,8:42.0,35,28,GSW,LAC,3,away,lost ball,steal,,turnover,,B. Bass,K. Thompson
 129,2,8:30.0,38,28,GSW,LAC,12,home,JS,assist,26,make3,3,K. Thompson,D. Green
 130,2,8:08.0,38,28,GSW,LAC,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. McAdoo,A. Rivers
 131,2,8:08.0,38,28,GSW,LAC,0,away,Timeout,,,,,,
@@ -146,7 +146,7 @@
 144,2,7:37.0,40,29,GSW,LAC,5,away,JS,,22,miss3,0,R. Felton,
 145,2,7:35.0,40,29,GSW,LAC,2,home,DefReb,,,DefReb,,S. Livingston,
 146,2,7:28.0,42,29,GSW,LAC,7,home,JS,,14,make2,2,S. Livingston,
-147,2,7:04.0,42,29,GSW,LAC,24,away,BadPass,steal,,turnover,,B. Griffin,S. Livingston
+147,2,7:04.0,42,29,GSW,LAC,24,away,bad pass,steal,,turnover,,B. Griffin,S. Livingston
 148,2,6:58.0,44,29,GSW,LAC,6,home,LU,,1,make2,2,K. Thompson,
 149,2,6:58.0,44,29,GSW,LAC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,K. Thompson
 150,2,6:58.0,44,29,GSW,LAC,0,away,Timeout,,,,,,
@@ -218,7 +218,7 @@
 216,3,11:05.0,74,53,GSW,LAC,0,away,FreeThrow,,,make1,0,B. Griffin,
 217,3,11:04.0,74,53,GSW,LAC,1,home,DefReb,,,DefReb,,D. Green,
 218,3,10:51.0,76,53,GSW,LAC,13,home,JS,assist,17,make2,2,K. Thompson,S. Curry
-219,3,10:30.0,76,53,GSW,LAC,21,away,BadPass,steal,,turnover,,J. Redick,Z. Pachulia
+219,3,10:30.0,76,53,GSW,LAC,21,away,bad pass,steal,,turnover,,J. Redick,Z. Pachulia
 220,3,10:20.0,76,53,GSW,LAC,10,home,JS,,25,miss3,0,D. Green,
 221,3,10:19.0,76,53,GSW,LAC,1,away,DefReb,,,DefReb,,D. Jordan,
 222,3,10:07.0,76,53,GSW,LAC,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,L. Mbah a Moute
@@ -243,7 +243,7 @@
 241,3,8:38.0,81,56,GSW,LAC,0,away,FreeThrow,,,make1,1,A. Rivers,
 242,3,8:28.0,83,56,GSW,LAC,10,home,LU,assist,2,make2,2,Z. Pachulia,S. Curry
 243,3,8:14.0,83,58,GSW,LAC,14,away,DK,assist,0,make2,2,B. Griffin,A. Rivers
-244,3,7:58.0,83,58,GSW,LAC,16,home,BadPass,steal,,turnover,,D. Green,A. Rivers
+244,3,7:58.0,83,58,GSW,LAC,16,home,bad pass,steal,,turnover,,D. Green,A. Rivers
 245,3,7:52.0,83,58,GSW,LAC,6,away,JS,,27,miss3,0,A. Rivers,
 246,3,7:51.0,83,58,GSW,LAC,1,home,DefReb,,,DefReb,,S. Curry,
 247,3,7:48.0,83,58,GSW,LAC,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Redick,D. Green
@@ -336,13 +336,13 @@
 334,4,10:46.0,120,76,GSW,LAC,0,away,Sub,,,,,A. Anderson,J. Redick
 335,4,10:31.0,120,78,GSW,LAC,15,away,JS,,16,make2,2,A. Rivers,
 336,4,10:16.0,120,78,GSW,LAC,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crawford,I. Clark
-337,4,10:08.0,120,78,GSW,LAC,8,home,LostBall,steal,,turnover,,I. Clark,J. Crawford
+337,4,10:08.0,120,78,GSW,LAC,8,home,lost ball,steal,,turnover,,I. Clark,J. Crawford
 338,4,9:59.0,120,80,GSW,LAC,9,away,LU,assist,0,make2,2,B. Bass,J. Crawford
 339,4,9:35.0,122,80,GSW,LAC,24,home,DK,assist,0,make2,2,K. Looney,A. Iguodala
 340,4,9:19.0,122,80,GSW,LAC,16,away,JS,,19,miss2,0,A. Rivers,
 341,4,9:18.0,122,80,GSW,LAC,1,home,DefReb,,,DefReb,,K. Looney,
 342,4,9:14.0,122,80,GSW,LAC,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Rivers,J. McAdoo
-343,4,9:03.0,122,80,GSW,LAC,11,home,BadPass,steal,,turnover,,J. McAdoo,A. Anderson
+343,4,9:03.0,122,80,GSW,LAC,11,home,bad pass,steal,,turnover,,J. McAdoo,A. Anderson
 344,4,8:52.0,122,82,GSW,LAC,11,away,JS,,9,make2,2,B. Bass,
 345,4,8:25.0,122,82,GSW,LAC,27,home,JS,,20,miss2,0,S. Livingston,
 346,4,8:24.0,122,82,GSW,LAC,1,home,OffReb,,,OffReb,,J. McAdoo,
@@ -357,7 +357,7 @@
 355,4,7:18.0,124,84,GSW,LAC,13,home,JS,,20,miss2,0,K. Looney,
 356,4,7:17.0,124,84,GSW,LAC,1,away,DefReb,,,DefReb,,Team,
 357,4,7:17.0,124,84,GSW,LAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. McAdoo,B. Bass
-358,4,7:04.0,124,84,GSW,LAC,13,away,BadPass,steal,,turnover,,J. Crawford,K. Looney
+358,4,7:04.0,124,84,GSW,LAC,13,away,bad pass,steal,,turnover,,J. Crawford,K. Looney
 359,4,6:50.0,124,84,GSW,LAC,14,home,JS,,9,miss2,0,J. McAdoo,
 360,4,6:49.0,124,84,GSW,LAC,1,home,OffReb,,,OffReb,,J. McAdoo,
 361,4,6:48.0,126,84,GSW,LAC,1,home,LU,,1,make2,2,J. McAdoo,
@@ -378,7 +378,7 @@
 376,4,4:19.0,134,91,GSW,LAC,19,away,JS,assist,19,make2,2,D. Stone,B. Bass
 377,4,4:06.0,134,91,GSW,LAC,13,home,JS,,27,miss3,0,P. McCaw,
 378,4,4:05.0,134,91,GSW,LAC,1,away,DefReb,,,DefReb,,B. Bass,
-379,4,3:51.0,134,91,GSW,LAC,14,away,LostBall,steal,,turnover,,R. Felton,J. McAdoo
+379,4,3:51.0,134,91,GSW,LAC,14,away,lost ball,steal,,turnover,,R. Felton,J. McAdoo
 380,4,3:47.0,136,91,GSW,LAC,4,home,LU,assist,0,make2,2,P. McCaw,J. McAdoo
 381,4,3:33.0,136,94,GSW,LAC,14,away,JS,assist,24,make3,3,A. Anderson,B. Bass
 382,4,3:19.0,136,94,GSW,LAC,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Stone,A. Varejão

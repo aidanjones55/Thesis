@@ -6,7 +6,7 @@
 4,1,11:22.0,2,0,LAC,TOR,4,home,OutOfBounds,,,turnover,,J. Redick,
 5,1,11:06.0,2,0,LAC,TOR,16,away,JS,,15,miss2,0,D. DeRozan,
 6,1,11:05.0,2,0,LAC,TOR,1,home,DefReb,,,DefReb,,L. Mbah a Moute,
-7,1,10:59.0,2,0,LAC,TOR,6,home,BadPass,steal,,turnover,,C. Paul,P. Siakam
+7,1,10:59.0,2,0,LAC,TOR,6,home,bad pass,steal,,turnover,,C. Paul,P. Siakam
 8,1,10:49.0,2,0,LAC,TOR,10,away,LU,,0,miss2,0,J. Valančiūnas,
 9,1,10:46.0,2,0,LAC,TOR,3,away,OffReb,,,OffReb,,J. Valančiūnas,
 10,1,10:46.0,2,2,LAC,TOR,0,away,LU,,1,make2,2,J. Valančiūnas,
@@ -25,7 +25,7 @@
 23,1,9:41.0,3,2,LAC,TOR,5,home,JS,,22,miss2,0,J. Redick,
 24,1,9:41.0,3,2,LAC,TOR,0,away,DefReb,,,DefReb,,Team,
 25,1,9:41.0,3,2,LAC,TOR,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,B. Griffin,K. Lowry
-26,1,9:20.0,3,2,LAC,TOR,21,away,LostBall,steal,,turnover,,D. DeRozan,C. Paul
+26,1,9:20.0,3,2,LAC,TOR,21,away,lost ball,steal,,turnover,,D. DeRozan,C. Paul
 27,1,9:17.0,3,2,LAC,TOR,3,away,DefGoaltending,,,DefGoaltending,,D. DeRozan,
 28,1,9:17.0,5,2,LAC,TOR,0,home,LU,,3,make2,2,L. Mbah a Moute,
 29,1,8:53.0,5,2,LAC,TOR,24,away,JS,,15,miss2,0,D. DeRozan,
@@ -40,7 +40,7 @@
 38,1,7:42.0,7,4,LAC,TOR,1,home,OffReb,,,OffReb,,D. Jordan,
 39,1,7:39.0,7,4,LAC,TOR,3,home,JS,block,0,miss2,0,D. Jordan,J. Valančiūnas
 40,1,7:36.0,7,4,LAC,TOR,3,away,DefReb,,,DefReb,,D. DeRozan,
-41,1,7:25.0,7,4,LAC,TOR,11,away,BadPass,steal,,turnover,,N. Powell,B. Griffin
+41,1,7:25.0,7,4,LAC,TOR,11,away,bad pass,steal,,turnover,,N. Powell,B. Griffin
 42,1,7:18.0,7,4,LAC,TOR,7,home,JS,,25,miss3,0,J. Redick,
 43,1,7:16.0,7,4,LAC,TOR,2,away,DefReb,,,DefReb,,J. Valančiūnas,
 44,1,7:08.0,7,4,LAC,TOR,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Redick,J. Valančiūnas
@@ -58,10 +58,10 @@
 56,1,6:08.0,8,8,LAC,TOR,22,away,LU,assist,1,make2,2,J. Valančiūnas,N. Powell
 57,1,5:55.0,8,8,LAC,TOR,13,home,BackCourtTurnover,,,turnover,,Team,
 58,1,5:55.0,8,8,LAC,TOR,0,home,Timeout,,,,,,
-59,1,5:45.0,8,8,LAC,TOR,10,away,BadPass,steal,,turnover,,K. Lowry,L. Mbah a Moute
+59,1,5:45.0,8,8,LAC,TOR,10,away,bad pass,steal,,turnover,,K. Lowry,L. Mbah a Moute
 60,1,5:29.0,8,8,LAC,TOR,16,home,HS,,5,miss2,0,B. Griffin,
 61,1,5:27.0,8,8,LAC,TOR,2,home,OffReb,,,OffReb,,B. Griffin,
-62,1,5:13.0,8,8,LAC,TOR,14,home,BadPass,steal,,turnover,,L. Mbah a Moute,P. Patterson
+62,1,5:13.0,8,8,LAC,TOR,14,home,bad pass,steal,,turnover,,L. Mbah a Moute,P. Patterson
 63,1,4:58.0,8,10,LAC,TOR,15,away,JS,,12,make2,2,D. DeRozan,
 64,1,4:41.0,8,10,LAC,TOR,17,home,JS,,15,miss2,0,B. Griffin,
 65,1,4:40.0,8,10,LAC,TOR,1,away,DefReb,,,DefReb,,J. Valančiūnas,
@@ -185,7 +185,7 @@
 183,2,4:12.0,38,34,LAC,TOR,16,home,BadPass,,,turnover,,C. Paul,
 184,2,4:12.0,38,34,LAC,TOR,0,home,Sub,,,,,L. Mbah a Moute,J. Crawford
 185,2,4:00.0,38,36,LAC,TOR,12,away,HS,assist,9,make2,2,P. Siakam,K. Lowry
-186,2,3:45.0,38,36,LAC,TOR,15,home,LostBall,steal,,turnover,,D. Jordan,D. DeRozan
+186,2,3:45.0,38,36,LAC,TOR,15,home,lost ball,steal,,turnover,,D. Jordan,D. DeRozan
 187,2,3:40.0,38,39,LAC,TOR,5,away,JS,assist,23,make3,3,N. Powell,D. DeRozan
 188,2,3:39.0,38,39,LAC,TOR,1,home,Timeout,,,,,,
 189,2,3:15.0,41,39,LAC,TOR,24,home,JS,assist,25,make3,3,L. Mbah a Moute,C. Paul
@@ -193,7 +193,7 @@
 191,2,2:53.0,41,39,LAC,TOR,1,home,DefReb,,,DefReb,,D. Jordan,
 192,2,2:42.0,41,39,LAC,TOR,11,home,JS,,24,miss3,0,L. Mbah a Moute,
 193,2,2:42.0,41,39,LAC,TOR,0,away,DefReb,,,DefReb,,K. Lowry,
-194,2,2:29.0,41,39,LAC,TOR,13,away,BadPass,steal,,turnover,,N. Powell,J. Redick
+194,2,2:29.0,41,39,LAC,TOR,13,away,bad pass,steal,,turnover,,N. Powell,J. Redick
 195,2,2:18.0,43,39,LAC,TOR,11,home,JS,assist,14,make2,2,B. Griffin,C. Paul
 196,2,2:08.0,43,39,LAC,TOR,10,away,Timeout,,,,,,
 197,2,2:08.0,43,39,LAC,TOR,0,away,Sub,,,,,C. Joseph,K. Lowry
@@ -206,7 +206,7 @@
 204,2,1:11.0,46,39,LAC,TOR,0,home,OffReb,,,OffReb,,L. Mbah a Moute,
 205,2,1:01.0,48,39,LAC,TOR,10,home,JS,assist,19,make2,2,B. Griffin,C. Paul
 206,2,0:51.0,48,41,LAC,TOR,10,away,JS,,14,make2,2,D. DeRozan,
-207,2,0:40.0,48,41,LAC,TOR,11,home,LostBall,steal,,turnover,,C. Paul,C. Joseph
+207,2,0:40.0,48,41,LAC,TOR,11,home,lost ball,steal,,turnover,,C. Paul,C. Joseph
 208,2,0:36.0,48,41,LAC,TOR,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,C. Joseph
 209,2,0:36.0,48,42,LAC,TOR,0,away,FreeThrow,,,make1,1,C. Joseph,
 210,2,0:36.0,48,43,LAC,TOR,0,away,FreeThrow,,,make1,1,C. Joseph,
@@ -227,7 +227,7 @@
 225,3,10:59.0,57,47,LAC,TOR,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Lowry,C. Paul
 226,3,10:47.0,59,47,LAC,TOR,12,home,LU,assist,2,make2,2,B. Griffin,C. Paul
 227,3,10:30.0,59,49,LAC,TOR,17,away,JS,,18,make2,2,D. DeRozan,
-228,3,10:15.0,59,49,LAC,TOR,15,home,BadPass,steal,,turnover,,J. Redick,P. Siakam
+228,3,10:15.0,59,49,LAC,TOR,15,home,bad pass,steal,,turnover,,J. Redick,P. Siakam
 229,3,10:09.0,59,51,LAC,TOR,6,away,LU,assist,1,make2,2,N. Powell,K. Lowry
 230,3,9:52.0,61,51,LAC,TOR,17,home,HS,,3,make2,2,B. Griffin,
 231,3,9:52.0,61,51,LAC,TOR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Siakam,B. Griffin
@@ -300,7 +300,7 @@
 298,3,2:56.0,84,67,LAC,TOR,0,home,Sub,,,,,J. Crawford,J. Redick
 299,3,2:56.0,84,67,LAC,TOR,0,away,Sub,,,,,C. Joseph,K. Lowry
 300,3,2:44.0,84,70,LAC,TOR,12,away,JS,assist,24,make3,3,P. Patterson,D. DeRozan
-301,3,2:35.0,84,70,LAC,TOR,9,home,LostBall,steal,,turnover,,C. Paul,C. Joseph
+301,3,2:35.0,84,70,LAC,TOR,9,home,lost ball,steal,,turnover,,C. Paul,C. Joseph
 302,3,2:32.0,84,70,LAC,TOR,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Jordan,D. DeRozan
 303,3,2:32.0,84,71,LAC,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
 304,3,2:32.0,84,71,LAC,TOR,0,away,FreeThrow,,,make1,0,D. DeRozan,
@@ -319,7 +319,7 @@
 317,3,1:39.0,88,72,LAC,TOR,0,away,FreeThrow,,,make1,0,C. Joseph,
 318,3,1:39.0,88,72,LAC,TOR,0,away,OffReb,,,OffReb,,Team,
 319,3,1:39.0,88,73,LAC,TOR,0,away,FreeThrow,,,make1,1,C. Joseph,
-320,3,1:17.0,88,73,LAC,TOR,22,home,BadPass,steal,,turnover,,J. Crawford,T. Ross
+320,3,1:17.0,88,73,LAC,TOR,22,home,bad pass,steal,,turnover,,J. Crawford,T. Ross
 321,3,1:11.0,88,75,LAC,TOR,6,away,LU,assist,2,make2,2,T. Ross,P. Patterson
 322,3,0:58.0,88,75,LAC,TOR,13,home,JS,,14,miss2,0,C. Paul,
 323,3,0:57.0,88,75,LAC,TOR,1,away,DefReb,,,DefReb,,P. Patterson,
@@ -338,10 +338,10 @@
 336,4,10:56.0,91,81,LAC,TOR,21,away,JS,,6,make2,2,N. Powell,
 337,4,10:56.0,91,81,LAC,TOR,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Speights,N. Powell
 338,4,10:56.0,91,82,LAC,TOR,0,away,FreeThrow,,,make1,1,N. Powell,
-339,4,10:43.0,91,82,LAC,TOR,13,home,LostBall,steal,,turnover,,J. Crawford,C. Joseph
+339,4,10:43.0,91,82,LAC,TOR,13,home,lost ball,steal,,turnover,,J. Crawford,C. Joseph
 340,4,10:37.0,91,84,LAC,TOR,6,away,JS,,7,make2,2,T. Ross,
 341,4,10:16.0,91,84,LAC,TOR,21,home,Sub,,,,,B. Griffin,W. Johnson
-342,4,10:16.0,91,84,LAC,TOR,0,home,LostBall,steal,,turnover,,R. Felton,N. Powell
+342,4,10:16.0,91,84,LAC,TOR,0,home,lost ball,steal,,turnover,,R. Felton,N. Powell
 343,4,9:56.0,91,86,LAC,TOR,20,away,JS,assist,15,make2,2,P. Patterson,K. Lowry
 344,4,9:56.0,91,86,LAC,TOR,0,home,Timeout,,,,,,
 345,4,9:44.0,93,86,LAC,TOR,12,home,LU,assist,2,make2,2,M. Speights,R. Felton
@@ -354,7 +354,7 @@
 352,4,8:38.0,95,88,LAC,TOR,21,away,JS,,17,make2,2,C. Joseph,
 353,4,8:26.0,95,88,LAC,TOR,12,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Powell,M. Speights
 354,4,8:26.0,95,88,LAC,TOR,0,away,Sub,,,,,P. Siakam,N. Powell
-355,4,8:20.0,95,88,LAC,TOR,6,home,BadPass,steal,,turnover,,M. Speights,P. Patterson
+355,4,8:20.0,95,88,LAC,TOR,6,home,bad pass,steal,,turnover,,M. Speights,P. Patterson
 356,4,8:09.0,95,88,LAC,TOR,11,away,JS,,25,miss3,0,K. Lowry,
 357,4,8:08.0,95,88,LAC,TOR,1,home,DefReb,,,DefReb,,R. Felton,
 358,4,7:50.0,97,88,LAC,TOR,18,home,JS,,18,make2,2,B. Griffin,
@@ -449,4 +449,4 @@
 447,4,0:06.0,121,115,LAC,TOR,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. DeRozan,J. Redick
 448,4,0:06.0,122,115,LAC,TOR,0,home,FreeThrow,,,make1,1,J. Redick,
 449,4,0:06.0,123,115,LAC,TOR,0,home,FreeThrow,,,make1,1,J. Redick,
-450,4,0:04.0,123,115,LAC,TOR,2,away,BadPass,steal,,turnover,,P. Patterson,C. Paul
+450,4,0:04.0,123,115,LAC,TOR,2,away,bad pass,steal,,turnover,,P. Patterson,C. Paul

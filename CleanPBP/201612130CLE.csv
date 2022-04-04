@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:48.0,0,0,CLE,MEM,12,home,LostBall,steal,,turnover,,K. Love,J. Green
+0,1,11:48.0,0,0,CLE,MEM,12,home,lost ball,steal,,turnover,,K. Love,J. Green
 1,1,11:36.0,0,0,CLE,MEM,12,away,BadPass,,,turnover,,T. Williams,
 2,1,11:22.0,0,0,CLE,MEM,14,home,JS,,25,miss3,0,J. Smith,
 3,1,11:22.0,0,0,CLE,MEM,0,away,DefReb,,,DefReb,,A. Harrison,
@@ -8,7 +8,7 @@
 6,1,10:53.0,0,2,CLE,MEM,1,away,DefReb,,,DefReb,,T. Allen,
 7,1,10:44.0,0,2,CLE,MEM,9,away,JS,,25,miss3,0,J. Green,
 8,1,10:44.0,0,2,CLE,MEM,0,home,DefReb,,,DefReb,,T. Thompson,
-9,1,10:40.0,0,2,CLE,MEM,4,home,BadPass,steal,,turnover,,L. James,J. Green
+9,1,10:40.0,0,2,CLE,MEM,4,home,bad pass,steal,,turnover,,L. James,J. Green
 10,1,10:24.0,0,2,CLE,MEM,16,away,JS,,21,miss2,0,T. Williams,
 11,1,10:23.0,0,2,CLE,MEM,1,home,DefReb,,,DefReb,,K. Love,
 12,1,10:08.0,0,2,CLE,MEM,15,home,JS,,6,miss2,0,L. James,
@@ -26,8 +26,8 @@
 24,1,8:59.0,3,2,CLE,MEM,0,home,FreeThrow,,,make1,1,K. Love,
 25,1,8:59.0,4,2,CLE,MEM,0,home,FreeThrow,,,make1,1,K. Love,
 26,1,8:41.0,4,4,CLE,MEM,18,away,LU,,2,make2,2,T. Allen,
-27,1,8:23.0,4,4,CLE,MEM,18,home,LostBall,steal,,turnover,,K. Love,Z. Randolph
-28,1,8:19.0,4,4,CLE,MEM,4,away,LostBall,steal,,turnover,,T. Williams,D. Liggins
+27,1,8:23.0,4,4,CLE,MEM,18,home,lost ball,steal,,turnover,,K. Love,Z. Randolph
+28,1,8:19.0,4,4,CLE,MEM,4,away,lost ball,steal,,turnover,,T. Williams,D. Liggins
 29,1,8:10.0,7,4,CLE,MEM,9,home,JS,assist,24,make3,3,J. Smith,L. James
 30,1,7:49.0,7,6,CLE,MEM,21,away,LU,,1,make2,2,T. Williams,
 31,1,7:37.0,9,6,CLE,MEM,12,home,LU,assist,2,make2,2,L. James,K. Love
@@ -95,13 +95,13 @@
 93,2,11:25.0,32,20,CLE,MEM,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Davis,C. Frye
 94,2,11:25.0,33,20,CLE,MEM,0,home,FreeThrow,,,make1,1,C. Frye,
 95,2,11:25.0,34,20,CLE,MEM,0,home,FreeThrow,,,make1,1,C. Frye,
-96,2,11:06.0,34,20,CLE,MEM,19,away,BadPass,steal,,turnover,,T. Daniels,L. James
+96,2,11:06.0,34,20,CLE,MEM,19,away,bad pass,steal,,turnover,,T. Daniels,L. James
 97,2,11:04.0,34,20,CLE,MEM,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Martin,L. James
 98,2,11:04.0,34,20,CLE,MEM,0,home,FreeThrow,,,make1,0,L. James,
 99,2,11:04.0,34,20,CLE,MEM,0,home,OffReb,,,OffReb,,Team,
 100,2,11:04.0,34,20,CLE,MEM,0,home,FreeThrow,,,make1,0,L. James,
 101,2,11:03.0,34,20,CLE,MEM,1,away,DefReb,,,DefReb,,J. Martin,
-102,2,10:54.0,34,20,CLE,MEM,9,away,BadPass,steal,,turnover,,T. Douglas,L. James
+102,2,10:54.0,34,20,CLE,MEM,9,away,bad pass,steal,,turnover,,T. Douglas,L. James
 103,2,10:46.0,34,20,CLE,MEM,8,home,JS,,26,miss3,0,L. James,
 104,2,10:43.0,34,20,CLE,MEM,3,away,DefReb,,,DefReb,,T. Douglas,
 105,2,10:32.0,34,20,CLE,MEM,11,away,BadPass,,,turnover,,T. Douglas,
@@ -214,11 +214,11 @@
 212,2,0:51.0,58,39,CLE,MEM,15,home,JS,,22,miss3,0,K. Love,
 213,2,0:51.0,58,39,CLE,MEM,0,away,DefReb,,,DefReb,,J. Martin,
 214,2,0:42.0,58,41,CLE,MEM,9,away,LU,,1,make2,2,A. Harrison,
-215,2,0:23.0,58,41,CLE,MEM,19,home,LostBall,steal,,turnover,,C. Frye,A. Harrison
+215,2,0:23.0,58,41,CLE,MEM,19,home,lost ball,steal,,turnover,,C. Frye,A. Harrison
 216,2,0:19.0,58,43,CLE,MEM,4,away,LU,assist,1,make2,2,T. Allen,A. Harrison
 217,3,11:35.0,58,43,CLE,MEM,25,away,JS,,29,miss3,0,A. Harrison,
 218,3,11:35.0,58,43,CLE,MEM,0,home,DefReb,,,DefReb,,K. Love,
-219,3,11:23.0,58,43,CLE,MEM,12,home,BadPass,steal,,turnover,,L. James,Z. Randolph
+219,3,11:23.0,58,43,CLE,MEM,12,home,bad pass,steal,,turnover,,L. James,Z. Randolph
 220,3,11:01.0,58,45,CLE,MEM,22,away,JS,assist,20,make2,2,Z. Randolph,T. Allen
 221,3,10:36.0,58,45,CLE,MEM,25,home,JS,,25,miss3,0,D. Liggins,
 222,3,10:36.0,58,45,CLE,MEM,0,home,OffReb,,,OffReb,,T. Thompson,
@@ -226,7 +226,7 @@
 224,3,10:31.0,58,45,CLE,MEM,1,away,DefReb,,,DefReb,,T. Williams,
 225,3,10:16.0,58,45,CLE,MEM,15,away,JS,block,3,miss2,0,T. Allen,D. Liggins
 226,3,10:16.0,58,45,CLE,MEM,0,away,OffReb,,,OffReb,,Team,
-227,3,10:13.0,58,45,CLE,MEM,3,away,LostBall,steal,,turnover,,J. Green,K. Love
+227,3,10:13.0,58,45,CLE,MEM,3,away,lost ball,steal,,turnover,,J. Green,K. Love
 228,3,10:01.0,58,45,CLE,MEM,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Williams,K. Love
 229,3,10:01.0,59,45,CLE,MEM,0,home,FreeThrow,,,make1,1,K. Love,
 230,3,10:01.0,60,45,CLE,MEM,0,home,FreeThrow,,,make1,1,K. Love,
@@ -253,7 +253,7 @@
 251,3,7:33.0,64,49,CLE,MEM,21,home,JS,,19,make2,2,L. James,
 252,3,7:16.0,64,49,CLE,MEM,17,away,JS,,5,miss2,0,T. Allen,
 253,3,7:14.0,64,49,CLE,MEM,2,home,DefReb,,,DefReb,,K. Love,
-254,3,7:05.0,64,49,CLE,MEM,9,home,LostBall,steal,,turnover,,L. James,T. Allen
+254,3,7:05.0,64,49,CLE,MEM,9,home,lost ball,steal,,turnover,,L. James,T. Allen
 255,3,7:00.0,64,51,CLE,MEM,5,away,DK,,0,make2,2,T. Williams,
 256,3,6:37.0,64,51,CLE,MEM,23,home,JS,,5,miss2,0,J. Smith,
 257,3,6:37.0,64,51,CLE,MEM,0,home,OffReb,,,OffReb,,J. Smith,
@@ -269,8 +269,8 @@
 267,3,5:44.0,67,51,CLE,MEM,2,home,DefReb,,,DefReb,,K. Love,
 268,3,5:39.0,67,51,CLE,MEM,5,home,JS,,23,miss3,0,D. Liggins,
 269,3,5:38.0,67,51,CLE,MEM,1,away,DefReb,,,DefReb,,Team,
-270,3,5:19.0,67,51,CLE,MEM,19,away,LostBall,steal,,turnover,,J. Martin,D. Liggins
-271,3,5:04.0,67,51,CLE,MEM,15,home,BadPass,steal,,turnover,,J. Smith,T. Allen
+270,3,5:19.0,67,51,CLE,MEM,19,away,lost ball,steal,,turnover,,J. Martin,D. Liggins
+271,3,5:04.0,67,51,CLE,MEM,15,home,bad pass,steal,,turnover,,J. Smith,T. Allen
 272,3,5:00.0,67,51,CLE,MEM,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Martin,D. Liggins
 273,3,5:00.0,67,51,CLE,MEM,0,away,OffensiveFoul,,,turnover,,J. Martin,
 274,3,4:36.0,67,51,CLE,MEM,24,home,JS,,11,miss2,0,L. James,
@@ -298,7 +298,7 @@
 296,3,2:46.0,67,53,CLE,MEM,0,home,Sub,,,,,R. Jefferson,L. James
 297,3,2:27.0,67,53,CLE,MEM,19,home,JS,,4,miss2,0,R. Jefferson,
 298,3,2:27.0,67,53,CLE,MEM,0,home,OffReb,,,OffReb,,R. Jefferson,
-299,3,2:24.0,67,53,CLE,MEM,3,home,LostBall,steal,,turnover,,R. Jefferson,T. Douglas
+299,3,2:24.0,67,53,CLE,MEM,3,home,lost ball,steal,,turnover,,R. Jefferson,T. Douglas
 300,3,2:05.0,67,55,CLE,MEM,19,away,DK,assist,0,make2,2,D. Davis,V. Carter
 301,3,1:48.0,67,55,CLE,MEM,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Douglas,I. Shumpert
 302,3,1:41.0,67,55,CLE,MEM,7,home,JS,,15,miss2,0,J. Smith,
@@ -344,7 +344,7 @@
 342,4,8:50.0,78,66,CLE,MEM,0,away,Timeout,,,,,,
 343,4,8:50.0,78,66,CLE,MEM,0,away,Sub,,,,,T. Allen,V. Carter
 344,4,8:50.0,78,66,CLE,MEM,0,away,Sub,,,,,Z. Randolph,D. Davis
-345,4,8:39.0,78,66,CLE,MEM,11,home,LostBall,steal,,turnover,,L. James,T. Douglas
+345,4,8:39.0,78,66,CLE,MEM,11,home,lost ball,steal,,turnover,,L. James,T. Douglas
 346,4,8:33.0,78,68,CLE,MEM,6,away,LU,assist,1,make2,2,T. Williams,T. Douglas
 347,4,8:21.0,80,68,CLE,MEM,12,home,LU,,0,make2,2,I. Shumpert,
 348,4,7:57.0,80,70,CLE,MEM,24,away,JS,assist,8,make2,2,Z. Randolph,T. Daniels
@@ -360,7 +360,7 @@
 358,4,6:26.0,85,74,CLE,MEM,11,home,JS,assist,7,make2,2,C. Frye,L. James
 359,4,6:26.0,85,74,CLE,MEM,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Williams,C. Frye
 360,4,6:26.0,86,74,CLE,MEM,0,home,FreeThrow,,,make1,1,C. Frye,
-361,4,6:11.0,86,74,CLE,MEM,15,away,LostBall,steal,,turnover,,T. Daniels,L. James
+361,4,6:11.0,86,74,CLE,MEM,15,away,lost ball,steal,,turnover,,T. Daniels,L. James
 362,4,6:11.0,86,74,CLE,MEM,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Daniels,L. James
 363,4,6:11.0,86,74,CLE,MEM,0,home,Sub,,,,,T. Thompson,C. Frye
 364,4,6:11.0,86,74,CLE,MEM,0,away,Sub,,,,,J. Martin,T. Daniels
@@ -371,13 +371,13 @@
 369,4,5:51.0,86,74,CLE,MEM,0,home,Timeout,,,,,,
 370,4,5:41.0,88,74,CLE,MEM,10,home,LU,assist,1,make2,2,L. James,K. Love
 371,4,5:37.0,88,74,CLE,MEM,4,home,Sub,,,,,J. Smith,R. Jefferson
-372,4,5:20.0,88,74,CLE,MEM,17,away,BadPass,steal,,turnover,,Z. Randolph,K. Love
+372,4,5:20.0,88,74,CLE,MEM,17,away,bad pass,steal,,turnover,,Z. Randolph,K. Love
 373,4,5:12.0,90,74,CLE,MEM,8,home,LU,assist,0,make2,2,K. Love,L. James
 374,4,5:12.0,90,74,CLE,MEM,0,away,Timeout,,,,,,
 375,4,5:12.0,90,74,CLE,MEM,0,away,Sub,,,,,T. Daniels,T. Williams
 376,4,4:56.0,90,74,CLE,MEM,16,away,JS,,18,miss2,0,A. Harrison,
 377,4,4:55.0,90,74,CLE,MEM,1,home,DefReb,,,DefReb,,T. Thompson,
-378,4,4:55.0,90,74,CLE,MEM,0,home,LostBall,steal,,turnover,,T. Thompson,T. Allen
+378,4,4:55.0,90,74,CLE,MEM,0,home,lost ball,steal,,turnover,,T. Thompson,T. Allen
 379,4,4:47.0,90,76,CLE,MEM,8,away,LU,assist,1,make2,2,Z. Randolph,J. Martin
 380,4,4:34.0,90,76,CLE,MEM,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Randolph,K. Love
 381,4,4:34.0,91,76,CLE,MEM,0,home,FreeThrow,,,make1,1,K. Love,
@@ -413,7 +413,7 @@
 411,4,2:17.0,99,82,CLE,MEM,4,away,DK,,0,make2,2,J. Green,
 412,4,1:52.0,99,82,CLE,MEM,25,home,LU,,1,miss2,0,D. Liggins,
 413,4,1:51.0,99,82,CLE,MEM,1,away,DefReb,,,DefReb,,J. Green,
-414,4,1:41.0,99,82,CLE,MEM,10,away,LostBall,steal,,turnover,,T. Williams,J. McRae
+414,4,1:41.0,99,82,CLE,MEM,10,away,lost ball,steal,,turnover,,T. Williams,J. McRae
 415,4,1:38.0,99,82,CLE,MEM,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Williams,D. Liggins
 416,4,1:38.0,99,82,CLE,MEM,0,home,Timeout,,,,,,
 417,4,1:38.0,99,82,CLE,MEM,0,home,FreeThrow,,,make1,0,D. Liggins,

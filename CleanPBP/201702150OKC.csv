@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:47.0,0,0,OKC,NYK,13,home,JS,,14,miss2,0,S. Adams,
 1,1,11:46.0,0,0,OKC,NYK,1,away,DefReb,,,DefReb,,W. Hernangómez,
-2,1,11:33.0,0,0,OKC,NYK,13,away,LostBall,steal,,turnover,,W. Hernangómez,A. Roberson
+2,1,11:33.0,0,0,OKC,NYK,13,away,lost ball,steal,,turnover,,W. Hernangómez,A. Roberson
 3,1,11:27.0,0,0,OKC,NYK,6,home,JS,,24,miss3,0,V. Oladipo,
 4,1,11:25.0,0,0,OKC,NYK,2,home,OffReb,,,OffReb,,S. Adams,
 5,1,11:15.0,0,0,OKC,NYK,10,home,LU,,2,miss2,0,S. Adams,
@@ -27,7 +27,7 @@
 25,1,9:01.0,2,10,OKC,NYK,0,away,OffReb,,,OffReb,,W. Hernangómez,
 26,1,8:57.0,2,13,OKC,NYK,4,away,JS,assist,25,make3,3,C. Anthony,K. Porziņģis
 27,1,8:56.0,2,13,OKC,NYK,1,home,Timeout,,,,,,
-28,1,8:44.0,2,13,OKC,NYK,12,home,BadPass,steal,,turnover,,R. Westbrook,K. Porziņģis
+28,1,8:44.0,2,13,OKC,NYK,12,home,bad pass,steal,,turnover,,R. Westbrook,K. Porziņģis
 29,1,8:27.0,2,13,OKC,NYK,17,away,JS,,14,miss2,0,K. Porziņģis,
 30,1,8:27.0,2,13,OKC,NYK,0,home,DefReb,,,DefReb,,V. Oladipo,
 31,1,8:16.0,2,13,OKC,NYK,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Rose,R. Westbrook
@@ -49,7 +49,7 @@
 47,1,6:33.0,6,20,OKC,NYK,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Porziņģis,R. Westbrook
 48,1,6:33.0,7,20,OKC,NYK,0,home,FreeThrow,,,make1,1,R. Westbrook,
 49,1,6:33.0,8,20,OKC,NYK,0,home,FreeThrow,,,make1,1,R. Westbrook,
-50,1,6:23.0,8,20,OKC,NYK,10,away,BadPass,steal,,turnover,,C. Lee,R. Westbrook
+50,1,6:23.0,8,20,OKC,NYK,10,away,bad pass,steal,,turnover,,C. Lee,R. Westbrook
 51,1,6:22.0,10,20,OKC,NYK,1,home,DK,,0,make2,2,R. Westbrook,
 52,1,6:22.0,10,20,OKC,NYK,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Rose,R. Westbrook
 53,1,6:22.0,10,20,OKC,NYK,0,home,Sub,,,,,A. Morrow,V. Oladipo
@@ -94,7 +94,7 @@
 92,1,1:00.0,23,39,OKC,NYK,10,home,JS,,19,miss2,0,J. Lauvergne,
 93,1,1:00.0,23,39,OKC,NYK,0,away,DefReb,,,DefReb,,C. Anthony,
 94,1,0:53.0,23,39,OKC,NYK,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Roberson,C. Anthony
-95,1,0:49.0,23,39,OKC,NYK,4,away,BadPass,steal,,turnover,,K. O'Quinn,J. Lauvergne
+95,1,0:49.0,23,39,OKC,NYK,4,away,bad pass,steal,,turnover,,K. O'Quinn,J. Lauvergne
 96,1,0:45.0,23,39,OKC,NYK,4,home,LU,block,2,miss2,0,C. Payne,K. O'Quinn
 97,1,0:44.0,23,39,OKC,NYK,1,home,OffReb,,,OffReb,,J. Grant,
 98,1,0:43.0,23,39,OKC,NYK,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,J. Grant
@@ -106,12 +106,12 @@
 104,1,0:18.0,25,39,OKC,NYK,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Thomas,J. Lauvergne
 105,1,0:18.0,26,39,OKC,NYK,0,home,FreeThrow,,,make1,1,J. Lauvergne,
 106,1,0:18.0,27,39,OKC,NYK,0,home,FreeThrow,,,make1,1,J. Lauvergne,
-107,1,0:03.0,27,39,OKC,NYK,15,away,BadPass,steal,,turnover,,C. Anthony,J. Grant
+107,1,0:03.0,27,39,OKC,NYK,15,away,bad pass,steal,,turnover,,C. Anthony,J. Grant
 108,2,12:00.0,27,39,OKC,NYK,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,Á. Abrines,J. Holiday
 109,2,12:00.0,27,39,OKC,NYK,0,away,FreeThrow,,,make1,0,J. Holiday,
 110,2,12:00.0,27,39,OKC,NYK,0,away,OffReb,,,OffReb,,Team,
 111,2,12:00.0,27,40,OKC,NYK,0,away,FreeThrow,,,make1,1,J. Holiday,
-112,2,11:30.0,27,40,OKC,NYK,30,home,LostBall,steal,,turnover,,J. Lauvergne,K. O'Quinn
+112,2,11:30.0,27,40,OKC,NYK,30,home,lost ball,steal,,turnover,,J. Lauvergne,K. O'Quinn
 113,2,11:11.0,27,40,OKC,NYK,19,home,DefGoaltending,,,DefGoaltending,,J. Lauvergne,
 114,2,11:11.0,27,42,OKC,NYK,0,away,LU,,1,make2,2,D. Rose,
 115,2,11:00.0,27,42,OKC,NYK,11,home,LU,,2,miss2,0,J. Lauvergne,
@@ -170,7 +170,7 @@
 168,2,6:28.0,38,54,OKC,NYK,12,away,LostBall,,,turnover,,K. Porziņģis,
 169,2,6:19.0,38,54,OKC,NYK,9,home,JS,,6,miss2,0,Á. Abrines,
 170,2,6:19.0,38,54,OKC,NYK,0,away,DefReb,,,DefReb,,W. Hernangómez,
-171,2,5:58.0,38,54,OKC,NYK,21,away,LostBall,steal,,turnover,,K. Porziņģis,D. Sabonis
+171,2,5:58.0,38,54,OKC,NYK,21,away,lost ball,steal,,turnover,,K. Porziņģis,D. Sabonis
 172,2,5:55.0,38,54,OKC,NYK,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Lee,R. Westbrook
 173,2,5:55.0,38,54,OKC,NYK,0,home,Timeout,,,,,,
 174,2,5:55.0,38,54,OKC,NYK,0,home,FreeThrow,,,make1,0,R. Westbrook,
@@ -189,7 +189,7 @@
 187,2,4:33.0,42,54,OKC,NYK,1,home,OffReb,,,OffReb,,R. Westbrook,
 188,2,4:26.0,42,54,OKC,NYK,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Hernangómez,S. Adams
 189,2,4:19.0,44,54,OKC,NYK,7,home,JS,,18,make2,2,R. Westbrook,
-190,2,3:59.0,44,54,OKC,NYK,20,away,LostBall,steal,,turnover,,C. Anthony,R. Westbrook
+190,2,3:59.0,44,54,OKC,NYK,20,away,lost ball,steal,,turnover,,C. Anthony,R. Westbrook
 191,2,3:55.0,46,54,OKC,NYK,4,home,LU,assist,0,make2,2,V. Oladipo,R. Westbrook
 192,2,3:55.0,46,54,OKC,NYK,0,away,Timeout,,,,,,
 193,2,3:55.0,46,54,OKC,NYK,0,away,Sub,,,,,K. Porziņģis,L. Thomas
@@ -207,7 +207,7 @@
 205,2,2:00.0,53,56,OKC,NYK,0,home,FreeThrow,,,make1,1,S. Adams,
 206,2,1:39.0,53,56,OKC,NYK,21,away,JS,,12,miss2,0,C. Anthony,
 207,2,1:39.0,53,56,OKC,NYK,0,home,DefReb,,,DefReb,,R. Westbrook,
-208,2,1:35.0,53,56,OKC,NYK,4,home,BadPass,steal,,turnover,,R. Westbrook,D. Rose
+208,2,1:35.0,53,56,OKC,NYK,4,home,bad pass,steal,,turnover,,R. Westbrook,D. Rose
 209,2,1:27.0,53,58,OKC,NYK,8,away,LU,assist,1,make2,2,W. Hernangómez,C. Anthony
 210,2,1:24.0,53,58,OKC,NYK,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Porziņģis,S. Adams
 211,2,1:24.0,53,58,OKC,NYK,0,home,FreeThrow,,,make1,0,S. Adams,
@@ -230,7 +230,7 @@
 228,2,0:19.0,60,59,OKC,NYK,0,away,Sub,,,,,J. Holiday,D. Rose
 229,2,0:19.0,60,60,OKC,NYK,0,away,FreeThrow,,,make1,1,K. Porziņģis,
 230,2,0:02.0,62,60,OKC,NYK,17,home,LU,,1,make2,2,R. Westbrook,
-231,3,11:49.0,62,60,OKC,NYK,11,away,BadPass,steal,,turnover,,K. Porziņģis,V. Oladipo
+231,3,11:49.0,62,60,OKC,NYK,11,away,bad pass,steal,,turnover,,K. Porziņģis,V. Oladipo
 232,3,11:44.0,64,60,OKC,NYK,5,home,LU,,2,make2,2,V. Oladipo,
 233,3,11:26.0,64,60,OKC,NYK,18,away,JS,,10,miss2,0,D. Rose,
 234,3,11:25.0,64,60,OKC,NYK,1,away,OffReb,,,OffReb,,D. Rose,
@@ -248,12 +248,12 @@
 246,3,10:22.0,70,62,OKC,NYK,0,home,LU,,1,make2,2,R. Westbrook,
 247,3,10:22.0,70,62,OKC,NYK,0,away,Timeout,,,,,,
 248,3,10:00.0,70,64,OKC,NYK,22,away,JS,,17,make2,2,C. Anthony,
-249,3,9:46.0,70,64,OKC,NYK,14,home,LostBall,steal,,turnover,,V. Oladipo,D. Rose
-250,3,9:40.0,70,64,OKC,NYK,6,away,LostBall,steal,,turnover,,D. Rose,A. Roberson
-251,3,9:24.0,70,64,OKC,NYK,16,home,BadPass,steal,,turnover,,R. Westbrook,C. Anthony
+249,3,9:46.0,70,64,OKC,NYK,14,home,lost ball,steal,,turnover,,V. Oladipo,D. Rose
+250,3,9:40.0,70,64,OKC,NYK,6,away,lost ball,steal,,turnover,,D. Rose,A. Roberson
+251,3,9:24.0,70,64,OKC,NYK,16,home,bad pass,steal,,turnover,,R. Westbrook,C. Anthony
 252,3,9:13.0,70,64,OKC,NYK,11,away,JS,,16,miss2,0,C. Anthony,
 253,3,9:13.0,70,64,OKC,NYK,0,home,DefReb,,,DefReb,,R. Westbrook,
-254,3,8:58.0,70,64,OKC,NYK,15,home,LostBall,steal,,turnover,,S. Adams,W. Hernangómez
+254,3,8:58.0,70,64,OKC,NYK,15,home,lost ball,steal,,turnover,,S. Adams,W. Hernangómez
 255,3,8:39.0,70,64,OKC,NYK,19,away,JS,,25,miss3,0,K. Porziņģis,
 256,3,8:39.0,70,64,OKC,NYK,0,home,DefReb,,,DefReb,,R. Westbrook,
 257,3,8:38.0,70,64,OKC,NYK,1,home,Timeout,,,,,,
@@ -313,7 +313,7 @@
 311,3,2:42.0,82,76,OKC,NYK,1,home,DefReb,,,DefReb,,R. Westbrook,
 312,3,2:32.0,82,76,OKC,NYK,10,home,LU,block,1,miss2,0,J. Lauvergne,K. O'Quinn
 313,3,2:31.0,82,76,OKC,NYK,1,away,DefReb,,,DefReb,,K. O'Quinn,
-314,3,2:23.0,82,76,OKC,NYK,8,away,LostBall,steal,,turnover,,D. Rose,J. Lauvergne
+314,3,2:23.0,82,76,OKC,NYK,8,away,lost ball,steal,,turnover,,D. Rose,J. Lauvergne
 315,3,2:21.0,82,76,OKC,NYK,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Holiday,R. Westbrook
 316,3,2:21.0,82,76,OKC,NYK,0,home,Sub,,,,,C. Payne,R. Westbrook
 317,3,2:10.0,85,76,OKC,NYK,11,home,JS,assist,23,make3,3,J. Grant,C. Payne
@@ -354,7 +354,7 @@
 352,4,10:20.0,92,82,OKC,NYK,13,home,JS,assist,11,make2,2,Á. Abrines,V. Oladipo
 353,4,9:59.0,92,82,OKC,NYK,21,away,JS,,23,miss2,0,L. Thomas,
 354,4,9:58.0,92,82,OKC,NYK,1,home,DefReb,,,DefReb,,Á. Abrines,
-355,4,9:47.0,92,82,OKC,NYK,11,home,BadPass,steal,,turnover,,J. Lauvergne,J. Holiday
+355,4,9:47.0,92,82,OKC,NYK,11,home,bad pass,steal,,turnover,,J. Lauvergne,J. Holiday
 356,4,9:45.0,92,82,OKC,NYK,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,Á. Abrines,R. Baker
 357,4,9:39.0,92,82,OKC,NYK,6,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,J. Lauvergne,L. Thomas
 358,4,9:39.0,92,82,OKC,NYK,0,away,Sub,,,,,D. Rose,J. Holiday
@@ -417,7 +417,7 @@
 415,4,3:54.0,111,96,OKC,NYK,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Roberson,C. Anthony
 416,4,3:41.0,111,96,OKC,NYK,13,away,DK,block,0,miss2,0,W. Hernangómez,J. Grant
 417,4,3:40.0,111,96,OKC,NYK,1,home,DefReb,,,DefReb,,S. Adams,
-418,4,3:25.0,111,96,OKC,NYK,15,home,BadPass,steal,,turnover,,R. Westbrook,W. Hernangómez
+418,4,3:25.0,111,96,OKC,NYK,15,home,bad pass,steal,,turnover,,R. Westbrook,W. Hernangómez
 419,4,3:19.0,111,99,OKC,NYK,6,away,JS,assist,25,make3,3,C. Lee,D. Rose
 420,4,3:02.0,111,99,OKC,NYK,17,away,KickBallViolation,,,KickBallViolation,,W. Hernangómez,
 421,4,2:49.0,113,99,OKC,NYK,13,home,LU,,1,make2,2,A. Roberson,
@@ -432,7 +432,7 @@
 430,4,1:53.0,114,101,OKC,NYK,1,home,DefReb,,,DefReb,,S. Adams,
 431,4,1:44.0,114,101,OKC,NYK,9,home,JS,,14,miss2,0,R. Westbrook,
 432,4,1:44.0,114,101,OKC,NYK,0,away,DefReb,,,DefReb,,W. Hernangómez,
-433,4,1:36.0,114,101,OKC,NYK,8,away,BadPass,steal,,turnover,,K. Porziņģis,R. Westbrook
+433,4,1:36.0,114,101,OKC,NYK,8,away,bad pass,steal,,turnover,,K. Porziņģis,R. Westbrook
 434,4,1:34.0,116,101,OKC,NYK,2,home,DK,,0,make2,2,R. Westbrook,
 435,4,1:33.0,116,101,OKC,NYK,1,away,Timeout,,,,,,
 436,4,1:19.0,116,101,OKC,NYK,14,away,JS,,24,miss3,0,C. Lee,

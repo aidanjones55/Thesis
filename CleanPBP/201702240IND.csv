@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:37.0,0,0,IND,MEM,23,away,JS,,11,miss2,0,M. Gasol,
 1,1,11:36.0,0,0,IND,MEM,1,home,DefReb,,,DefReb,,P. George,
-2,1,11:27.0,0,0,IND,MEM,9,home,BadPass,steal,,turnover,,M. Turner,T. Allen
+2,1,11:27.0,0,0,IND,MEM,9,home,bad pass,steal,,turnover,,M. Turner,T. Allen
 3,1,11:10.0,0,2,IND,MEM,17,away,LU,,3,make2,2,M. Conley,
 4,1,10:50.0,2,2,IND,MEM,20,home,JS,assist,17,make2,2,M. Turner,J. Teague
 5,1,10:29.0,2,2,IND,MEM,21,away,JS,,21,miss2,0,M. Gasol,
@@ -10,7 +10,7 @@
 8,1,9:49.0,5,2,IND,MEM,16,away,JS,,12,miss2,0,T. Allen,
 9,1,9:48.0,5,2,IND,MEM,1,away,OffReb,,,OffReb,,T. Allen,
 10,1,9:47.0,5,4,IND,MEM,1,away,LU,,3,make2,2,T. Allen,
-11,1,9:37.0,5,4,IND,MEM,10,home,LostBall,steal,,turnover,,C. Miles,T. Allen
+11,1,9:37.0,5,4,IND,MEM,10,home,lost ball,steal,,turnover,,C. Miles,T. Allen
 12,1,9:31.0,5,6,IND,MEM,6,away,LU,assist,2,make2,2,C. Parsons,T. Allen
 13,1,9:22.0,5,6,IND,MEM,9,away,KickBallViolation,,,KickBallViolation,,M. Gasol,
 14,1,9:15.0,7,6,IND,MEM,7,home,DK,assist,3,make2,2,T. Young,M. Turner
@@ -80,7 +80,7 @@
 78,1,1:22.0,23,26,IND,MEM,5,home,JS,,16,miss2,0,R. Stuckey,
 79,1,1:22.0,23,26,IND,MEM,0,away,DefReb,,,DefReb,,Team,
 80,1,1:22.0,23,26,IND,MEM,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,R. Christmas,Z. Randolph
-81,1,1:08.0,23,26,IND,MEM,14,away,BadPass,steal,,turnover,,J. Green,L. Allen
+81,1,1:08.0,23,26,IND,MEM,14,away,bad pass,steal,,turnover,,J. Green,L. Allen
 82,1,1:03.0,23,26,IND,MEM,5,home,LU,,3,miss2,0,G. Robinson,
 83,1,1:02.0,23,26,IND,MEM,1,away,DefReb,,,DefReb,,J. Ennis,
 84,1,0:52.0,23,26,IND,MEM,10,away,JS,block,4,miss2,0,Z. Randolph,L. Allen
@@ -96,7 +96,7 @@
 94,2,11:30.0,27,26,IND,MEM,0,away,FreeThrow,,,make1,0,V. Carter,
 95,2,11:30.0,27,26,IND,MEM,0,away,OffReb,,,OffReb,,Team,
 96,2,11:30.0,27,27,IND,MEM,0,away,FreeThrow,,,make1,1,V. Carter,
-97,2,11:21.0,27,27,IND,MEM,9,home,BadPass,steal,,turnover,,M. Ellis,T. Douglas
+97,2,11:21.0,27,27,IND,MEM,9,home,bad pass,steal,,turnover,,M. Ellis,T. Douglas
 98,2,11:17.0,27,29,IND,MEM,4,away,LU,,4,make2,2,T. Douglas,
 99,2,11:03.0,29,29,IND,MEM,14,home,DK,assist,4,make2,2,R. Christmas,M. Ellis
 100,2,10:47.0,29,29,IND,MEM,16,away,LU,block,4,miss2,0,Z. Randolph,R. Christmas
@@ -149,7 +149,7 @@
 147,2,6:07.0,43,36,IND,MEM,0,away,FreeThrow,,,make1,0,J. Green,
 148,2,6:07.0,43,36,IND,MEM,0,home,DefReb,,,DefReb,,M. Ellis,
 149,2,6:07.0,43,36,IND,MEM,0,home,Sub,,,,,J. Teague,R. Stuckey
-150,2,5:51.0,43,36,IND,MEM,16,home,BadPass,steal,,turnover,,P. George,T. Allen
+150,2,5:51.0,43,36,IND,MEM,16,home,bad pass,steal,,turnover,,P. George,T. Allen
 151,2,5:35.0,43,38,IND,MEM,16,away,JS,,10,make2,2,M. Gasol,
 152,2,5:22.0,46,38,IND,MEM,13,home,JS,assist,25,make3,3,M. Ellis,J. Teague
 153,2,5:03.0,46,38,IND,MEM,19,away,JS,,12,miss2,0,J. Green,
@@ -199,20 +199,20 @@
 197,2,0:08.0,61,49,IND,MEM,20,home,HS,assist,6,make2,2,L. Allen,P. George
 198,2,0:02.0,61,49,IND,MEM,6,away,JS,,25,miss3,0,M. Conley,
 199,2,0:01.0,61,49,IND,MEM,1,home,DefReb,,,DefReb,,C. Miles,
-200,3,11:43.0,61,49,IND,MEM,17,home,BadPass,steal,,turnover,,P. George,T. Allen
+200,3,11:43.0,61,49,IND,MEM,17,home,bad pass,steal,,turnover,,P. George,T. Allen
 201,3,11:37.0,61,51,IND,MEM,6,away,LU,,3,make2,2,T. Allen,
 202,3,11:10.0,61,51,IND,MEM,27,home,JS,,27,miss3,0,J. Teague,
 203,3,11:09.0,61,51,IND,MEM,1,home,OffReb,,,OffReb,,P. George,
 204,3,11:06.0,61,51,IND,MEM,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Parsons,M. Turner
 205,3,11:02.0,63,51,IND,MEM,4,home,LU,assist,4,make2,2,T. Young,M. Turner
-206,3,10:41.0,63,51,IND,MEM,21,away,BadPass,steal,,turnover,,M. Conley,C. Miles
+206,3,10:41.0,63,51,IND,MEM,21,away,bad pass,steal,,turnover,,M. Conley,C. Miles
 207,3,10:34.0,65,51,IND,MEM,7,home,JS,,12,make2,2,P. George,
 208,3,10:33.0,65,51,IND,MEM,1,away,Timeout,,,,,,
-209,3,10:15.0,65,51,IND,MEM,18,away,LostBall,steal,,turnover,,C. Parsons,M. Turner
+209,3,10:15.0,65,51,IND,MEM,18,away,lost ball,steal,,turnover,,C. Parsons,M. Turner
 210,3,10:01.0,67,51,IND,MEM,14,home,LU,assist,2,make2,2,M. Turner,J. Teague
 211,3,9:45.0,67,51,IND,MEM,16,away,JS,,26,miss3,0,C. Parsons,
 212,3,9:44.0,67,51,IND,MEM,1,home,DefReb,,,DefReb,,P. George,
-213,3,9:36.0,67,51,IND,MEM,8,home,LostBall,steal,,turnover,,J. Teague,T. Allen
+213,3,9:36.0,67,51,IND,MEM,8,home,lost ball,steal,,turnover,,J. Teague,T. Allen
 214,3,9:30.0,67,53,IND,MEM,6,away,LU,assist,2,make2,2,C. Parsons,M. Conley
 215,3,9:13.0,67,53,IND,MEM,17,home,JS,,25,miss3,0,P. George,
 216,3,9:12.0,67,53,IND,MEM,1,away,DefReb,,,DefReb,,J. Green,
@@ -221,14 +221,14 @@
 219,3,8:45.0,67,53,IND,MEM,11,away,JS,,18,miss2,0,M. Gasol,
 220,3,8:44.0,67,53,IND,MEM,1,home,DefReb,,,DefReb,,M. Turner,
 221,3,8:35.0,70,53,IND,MEM,9,home,JS,,25,make3,3,J. Teague,
-222,3,8:20.0,70,53,IND,MEM,15,away,LostBall,steal,,turnover,,T. Allen,C. Miles
+222,3,8:20.0,70,53,IND,MEM,15,away,lost ball,steal,,turnover,,T. Allen,C. Miles
 223,3,8:20.0,70,53,IND,MEM,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Allen,C. Miles
 224,3,8:12.0,70,53,IND,MEM,8,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Allen,M. Turner
 225,3,8:06.0,70,53,IND,MEM,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Conley,J. Teague
 226,3,8:06.0,71,53,IND,MEM,0,home,FreeThrow,,,make1,1,J. Teague,
 227,3,8:06.0,72,53,IND,MEM,0,home,FreeThrow,,,make1,1,J. Teague,
 228,3,8:06.0,73,53,IND,MEM,0,home,FreeThrow,,,make1,1,J. Teague,
-229,3,7:54.0,73,53,IND,MEM,12,away,BadPass,steal,,turnover,,T. Allen,M. Turner
+229,3,7:54.0,73,53,IND,MEM,12,away,bad pass,steal,,turnover,,T. Allen,M. Turner
 230,3,7:42.0,76,53,IND,MEM,12,home,JS,assist,24,make3,3,C. Miles,P. George
 231,3,7:34.0,76,53,IND,MEM,8,away,Timeout,,,,,,
 232,3,7:34.0,76,53,IND,MEM,0,away,Sub,,,,,V. Carter,J. Green
@@ -240,7 +240,7 @@
 238,3,6:55.0,76,55,IND,MEM,0,away,LU,,2,make2,2,M. Gasol,
 239,3,6:31.0,76,55,IND,MEM,24,home,JS,,4,miss2,0,T. Young,
 240,3,6:30.0,76,55,IND,MEM,1,away,DefReb,,,DefReb,,T. Allen,
-241,3,6:27.0,76,55,IND,MEM,3,away,LostBall,steal,,turnover,,T. Allen,P. George
+241,3,6:27.0,76,55,IND,MEM,3,away,lost ball,steal,,turnover,,T. Allen,P. George
 242,3,6:22.0,79,55,IND,MEM,5,home,JS,assist,24,make3,3,C. Miles,P. George
 243,3,6:09.0,79,55,IND,MEM,13,away,JS,,26,miss3,0,M. Conley,
 244,3,6:08.0,79,55,IND,MEM,1,home,DefReb,,,DefReb,,T. Young,
@@ -252,7 +252,7 @@
 250,3,5:35.0,79,55,IND,MEM,13,home,JS,,21,miss2,0,P. George,
 251,3,5:35.0,79,55,IND,MEM,0,away,DefReb,,,DefReb,,M. Gasol,
 252,3,5:21.0,79,55,IND,MEM,14,away,OutOfBounds,,,turnover,,T. Daniels,
-253,3,5:06.0,79,55,IND,MEM,15,home,BadPass,steal,,turnover,,J. Teague,V. Carter
+253,3,5:06.0,79,55,IND,MEM,15,home,bad pass,steal,,turnover,,J. Teague,V. Carter
 254,3,5:02.0,79,55,IND,MEM,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Teague,M. Conley
 255,3,5:02.0,79,55,IND,MEM,0,away,Sub,,,,,T. Douglas,M. Conley
 256,3,5:02.0,79,55,IND,MEM,0,away,Sub,,,,,Z. Randolph,C. Parsons
@@ -288,12 +288,12 @@
 286,3,2:19.0,87,60,IND,MEM,8,away,JS,,21,miss2,0,T. Daniels,
 287,3,2:18.0,87,60,IND,MEM,1,away,OffReb,,,OffReb,,Z. Randolph,
 288,3,2:18.0,87,62,IND,MEM,0,away,LU,,2,make2,2,Z. Randolph,
-289,3,2:01.0,87,62,IND,MEM,17,home,LostBall,steal,,turnover,,M. Ellis,T. Daniels
+289,3,2:01.0,87,62,IND,MEM,17,home,lost ball,steal,,turnover,,M. Ellis,T. Daniels
 290,3,1:57.0,87,64,IND,MEM,4,away,DK,assist,2,make2,2,V. Carter,T. Daniels
-291,3,1:32.0,87,64,IND,MEM,25,home,BadPass,steal,,turnover,,G. Robinson,T. Douglas
+291,3,1:32.0,87,64,IND,MEM,25,home,bad pass,steal,,turnover,,G. Robinson,T. Douglas
 292,3,1:22.0,87,66,IND,MEM,10,away,LU,,2,make2,2,T. Douglas,
 293,3,1:22.0,87,66,IND,MEM,0,home,Timeout,,,,,,
-294,3,1:08.0,87,66,IND,MEM,14,home,BadPass,steal,,turnover,,G. Robinson,T. Daniels
+294,3,1:08.0,87,66,IND,MEM,14,home,bad pass,steal,,turnover,,G. Robinson,T. Daniels
 295,3,0:53.0,87,66,IND,MEM,15,away,LU,,3,miss2,0,J. Green,
 296,3,0:53.0,87,66,IND,MEM,0,away,OffReb,,,OffReb,,J. Green,
 297,3,0:53.0,87,68,IND,MEM,0,away,LU,,3,make2,2,J. Green,
@@ -317,7 +317,7 @@
 315,4,10:05.0,93,74,IND,MEM,18,away,JS,,26,miss3,0,T. Daniels,
 316,4,10:03.0,93,74,IND,MEM,2,away,OffReb,,,OffReb,,J. Green,
 317,4,9:55.0,93,76,IND,MEM,8,away,HS,assist,7,make2,2,Z. Randolph,T. Daniels
-318,4,9:42.0,93,76,IND,MEM,13,home,BadPass,steal,,turnover,,L. Allen,T. Daniels
+318,4,9:42.0,93,76,IND,MEM,13,home,bad pass,steal,,turnover,,L. Allen,T. Daniels
 319,4,9:41.0,93,76,IND,MEM,1,away,ClearPathFoul,,,ClearPathFoul,,M. Ellis,
 320,4,9:41.0,93,77,IND,MEM,0,away,FreeThrow,,,make1,1,T. Daniels makes clear path free throw 1 of 2,
 321,4,9:41.0,93,77,IND,MEM,0,away,FreeThrow,,,make1,0,T. Daniels misses clear path free throw 2 of 2,
@@ -326,7 +326,7 @@
 324,4,9:41.0,93,77,IND,MEM,0,home,Sub,,,,,T. Young,L. Allen
 325,4,9:41.0,93,77,IND,MEM,0,home,Sub,,,,,M. Turner,G. Robinson
 326,4,9:41.0,93,77,IND,MEM,0,home,Sub,,,,,P. George,R. Christmas
-327,4,9:27.0,93,77,IND,MEM,14,away,BadPass,steal,,turnover,,Z. Randolph,M. Turner
+327,4,9:27.0,93,77,IND,MEM,14,away,bad pass,steal,,turnover,,Z. Randolph,M. Turner
 328,4,9:23.0,95,77,IND,MEM,4,home,DK,,3,make2,2,M. Turner,
 329,4,9:01.0,95,77,IND,MEM,22,away,JS,block,6,miss2,0,V. Carter,M. Turner
 330,4,8:59.0,95,77,IND,MEM,2,home,DefReb,,,DefReb,,P. George,
@@ -376,7 +376,7 @@
 374,4,5:09.0,95,81,IND,MEM,0,home,DefReb,,,DefReb,,T. Young,
 375,4,5:08.0,95,81,IND,MEM,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Conley,T. Young
 376,4,4:41.0,97,81,IND,MEM,27,home,LU,,3,make2,2,T. Young,
-377,4,4:23.0,97,81,IND,MEM,18,away,LostBall,steal,,turnover,,M. Gasol,T. Young
+377,4,4:23.0,97,81,IND,MEM,18,away,lost ball,steal,,turnover,,M. Gasol,T. Young
 378,4,4:02.0,97,81,IND,MEM,21,home,JS,,26,miss3,0,C. Miles,
 379,4,4:01.0,97,81,IND,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
 380,4,3:54.0,97,81,IND,MEM,7,away,JS,,26,miss3,0,T. Daniels,

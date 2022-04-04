@@ -62,7 +62,7 @@ def convert_to_clean(year, filename, home, away):
 
 
 # Done: [2015, 2016, 2017, 2018, 2019, ]
-for year in [2020]:
+for year in [2017]:
     df = pd.read_csv(f'GameSchedules/NBA_Schedule_{year}.csv')
     length = df.shape[0]
     pct = 0
@@ -72,7 +72,7 @@ for year in [2020]:
         pct = int(100*(index/length))
         if pct % 5 == 0 and pct != old_pct:
             print(f'{pct}% Done {year}')
-        if pct < 30:
+        if pct < 0:
             continue
         filename = date_convert_for_pbp(row['Date']) + row['Home Team']
         home = row['Home Team']

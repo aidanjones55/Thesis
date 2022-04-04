@@ -29,7 +29,7 @@
 27,1,7:30.0,15,10,SAS,BRK,18,away,LU,,2,make2,2,I. Whitehead,
 28,1,7:13.0,15,10,SAS,BRK,17,home,JS,,17,miss2,0,P. Gasol,
 29,1,7:13.0,15,10,SAS,BRK,0,away,DefReb,,,DefReb,,T. Booker,
-30,1,7:04.0,15,10,SAS,BRK,9,away,BadPass,steal,,turnover,,T. Booker,T. Parker
+30,1,7:04.0,15,10,SAS,BRK,9,away,bad pass,steal,,turnover,,T. Booker,T. Parker
 31,1,6:53.0,18,10,SAS,BRK,11,home,JS,assist,23,make3,3,T. Parker,K. Leonard
 32,1,6:34.0,18,12,SAS,BRK,19,away,LU,,1,make2,2,B. Bogdanović,
 33,1,6:14.0,18,12,SAS,BRK,20,home,JS,,16,miss2,0,K. Leonard,
@@ -103,14 +103,14 @@
 101,2,10:52.0,45,29,SAS,BRK,13,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Simmons,B. Bogdanović
 102,2,10:52.0,45,30,SAS,BRK,0,away,FreeThrow,,,make1,1,B. Bogdanović,
 103,2,10:52.0,45,31,SAS,BRK,0,away,FreeThrow,,,make1,1,B. Bogdanović,
-104,2,10:40.0,45,31,SAS,BRK,12,home,LostBall,steal,,turnover,,M. Ginóbili,C. LeVert
-105,2,10:35.0,45,31,SAS,BRK,5,away,LostBall,steal,,turnover,,C. LeVert,D. Bertāns
+104,2,10:40.0,45,31,SAS,BRK,12,home,lost ball,steal,,turnover,,M. Ginóbili,C. LeVert
+105,2,10:35.0,45,31,SAS,BRK,5,away,lost ball,steal,,turnover,,C. LeVert,D. Bertāns
 106,2,10:28.0,47,31,SAS,BRK,7,home,LU,assist,1,make2,2,P. Mills,J. Simmons
 107,2,10:20.0,47,31,SAS,BRK,8,away,JS,,24,miss3,0,C. LeVert,
 108,2,10:20.0,47,31,SAS,BRK,0,home,DefReb,,,DefReb,,D. Dedmon,
 109,2,10:07.0,47,31,SAS,BRK,13,home,JS,block,16,miss2,0,P. Mills,R. Hollis-Jefferson
 110,2,10:06.0,47,31,SAS,BRK,1,away,DefReb,,,DefReb,,R. Hollis-Jefferson,
-111,2,10:03.0,47,31,SAS,BRK,3,away,BadPass,steal,,turnover,,I. Whitehead,P. Mills
+111,2,10:03.0,47,31,SAS,BRK,3,away,bad pass,steal,,turnover,,I. Whitehead,P. Mills
 112,2,9:58.0,47,31,SAS,BRK,5,home,LU,block,3,miss2,0,J. Simmons,B. Lopez
 113,2,9:56.0,47,31,SAS,BRK,2,away,DefReb,,,DefReb,,B. Lopez,
 114,2,9:48.0,47,31,SAS,BRK,8,away,JS,,24,miss3,0,B. Lopez,
@@ -118,7 +118,7 @@
 116,2,9:31.0,47,31,SAS,BRK,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Whitehead,M. Ginóbili
 117,2,9:31.0,47,31,SAS,BRK,0,home,Sub,,,,,D. Green,M. Ginóbili
 118,2,9:31.0,47,31,SAS,BRK,0,home,Sub,,,,,D. Lee,D. Bertāns
-119,2,9:23.0,47,31,SAS,BRK,8,home,BadPass,steal,,turnover,,P. Mills,R. Hollis-Jefferson
+119,2,9:23.0,47,31,SAS,BRK,8,home,bad pass,steal,,turnover,,P. Mills,R. Hollis-Jefferson
 120,2,9:23.0,47,34,SAS,BRK,0,away,JS,assist,26,make3,3,B. Bogdanović,C. LeVert
 121,2,9:21.0,47,34,SAS,BRK,2,home,Timeout,,,,,,
 122,2,9:10.0,47,34,SAS,BRK,11,home,Sub,,,,,T. Parker,P. Mills
@@ -186,7 +186,7 @@
 184,2,2:44.0,60,47,SAS,BRK,0,home,Sub,,,,,M. Ginóbili,D. Green
 185,2,2:44.0,60,47,SAS,BRK,0,away,Sub,,,,,R. Hollis-Jefferson,I. Whitehead
 186,2,2:44.0,62,47,SAS,BRK,0,home,FreeThrow,,,make1,1,K. Leonard,
-187,2,2:30.0,62,47,SAS,BRK,14,away,BadPass,steal,,turnover,,L. Scola,K. Leonard
+187,2,2:30.0,62,47,SAS,BRK,14,away,bad pass,steal,,turnover,,L. Scola,K. Leonard
 188,2,2:14.0,62,47,SAS,BRK,16,home,JS,,25,miss3,0,P. Mills,
 189,2,2:14.0,62,47,SAS,BRK,0,home,OffReb,,,OffReb,,Team,
 190,2,2:14.0,62,47,SAS,BRK,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Harris,P. Gasol
@@ -216,7 +216,7 @@
 214,2,0:05.0,65,52,SAS,BRK,19,home,JS,,11,miss2,0,K. Leonard,
 215,2,0:05.0,65,52,SAS,BRK,0,home,OffReb,,,OffReb,,L. Aldridge,
 216,2,0:05.0,67,52,SAS,BRK,0,home,DK,,0,make2,2,L. Aldridge,
-217,2,0:01.0,67,52,SAS,BRK,4,away,BadPass,steal,,turnover,,R. Hollis-Jefferson,P. Mills
+217,2,0:01.0,67,52,SAS,BRK,4,away,bad pass,steal,,turnover,,R. Hollis-Jefferson,P. Mills
 218,3,11:36.0,69,52,SAS,BRK,24,home,JS,assist,21,make2,2,L. Aldridge,T. Parker
 219,3,11:14.0,69,52,SAS,BRK,22,away,JS,,22,miss3,0,T. Booker,
 220,3,11:13.0,69,52,SAS,BRK,1,home,DefReb,,,DefReb,,T. Parker,
@@ -238,7 +238,7 @@
 236,3,9:45.0,74,54,SAS,BRK,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Gasol,B. Lopez
 237,3,9:45.0,74,55,SAS,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
 238,3,9:45.0,74,56,SAS,BRK,0,away,FreeThrow,,,make1,1,B. Lopez,
-239,3,9:31.0,74,56,SAS,BRK,14,home,BadPass,steal,,turnover,,P. Gasol,I. Whitehead
+239,3,9:31.0,74,56,SAS,BRK,14,home,bad pass,steal,,turnover,,P. Gasol,I. Whitehead
 240,3,9:26.0,74,56,SAS,BRK,5,away,LU,block,1,miss2,0,S. Kilpatrick,D. Green
 241,3,9:24.0,74,56,SAS,BRK,2,away,OffReb,,,OffReb,,S. Kilpatrick,
 242,3,9:16.0,74,56,SAS,BRK,8,away,JS,,25,miss3,0,I. Whitehead,
@@ -260,7 +260,7 @@
 258,3,7:38.0,76,61,SAS,BRK,0,away,FreeThrow,,,make1,0,B. Bogdanović,
 259,3,7:36.0,76,61,SAS,BRK,2,home,DefReb,,,DefReb,,L. Aldridge,
 260,3,7:23.0,78,61,SAS,BRK,13,home,JS,assist,19,make2,2,D. Green,L. Aldridge
-261,3,7:16.0,78,61,SAS,BRK,7,away,LostBall,steal,,turnover,,S. Kilpatrick,D. Green
+261,3,7:16.0,78,61,SAS,BRK,7,away,lost ball,steal,,turnover,,S. Kilpatrick,D. Green
 262,3,6:56.0,80,61,SAS,BRK,20,home,JS,assist,20,make2,2,P. Gasol,L. Aldridge
 263,3,6:37.0,80,63,SAS,BRK,19,away,JS,,9,make2,2,B. Lopez,
 264,3,6:16.0,83,63,SAS,BRK,21,home,JS,assist,26,make3,3,K. Leonard,T. Parker
@@ -304,16 +304,16 @@
 302,3,3:07.0,91,67,SAS,BRK,0,away,Sub,,,,,C. LeVert,B. Bogdanović
 303,3,3:07.0,91,67,SAS,BRK,0,home,Sub,,,,,D. Bertāns,L. Aldridge
 304,3,3:07.0,91,67,SAS,BRK,0,away,Timeout,,,,,,
-305,3,2:53.0,91,67,SAS,BRK,14,home,BadPass,steal,,turnover,,M. Ginóbili,R. Foye
+305,3,2:53.0,91,67,SAS,BRK,14,home,bad pass,steal,,turnover,,M. Ginóbili,R. Foye
 306,3,2:40.0,91,70,SAS,BRK,13,away,JS,assist,24,make3,3,J. Harris,T. Booker
 307,3,2:17.0,94,70,SAS,BRK,23,home,JS,assist,24,make3,3,P. Mills,J. Simmons
 308,3,1:56.0,94,70,SAS,BRK,21,away,JS,,23,miss3,0,A. Bennett,
 309,3,1:55.0,94,70,SAS,BRK,1,home,DefReb,,,DefReb,,D. Lee,
 310,3,1:38.0,94,70,SAS,BRK,17,home,JS,,23,miss3,0,D. Bertāns,
 311,3,1:37.0,94,70,SAS,BRK,1,away,DefReb,,,DefReb,,R. Foye,
-312,3,1:32.0,94,70,SAS,BRK,5,away,BadPass,steal,,turnover,,R. Foye,P. Mills
+312,3,1:32.0,94,70,SAS,BRK,5,away,bad pass,steal,,turnover,,R. Foye,P. Mills
 313,3,1:27.0,96,70,SAS,BRK,5,home,LU,,1,make2,2,P. Mills,
-314,3,1:10.0,96,70,SAS,BRK,17,away,LostBall,steal,,turnover,,J. Harris,M. Ginóbili
+314,3,1:10.0,96,70,SAS,BRK,17,away,lost ball,steal,,turnover,,J. Harris,M. Ginóbili
 315,3,1:04.0,99,70,SAS,BRK,6,home,JS,,25,make3,3,P. Mills,
 316,3,1:04.0,99,70,SAS,BRK,0,away,Timeout,,,,,,
 317,3,0:45.0,99,70,SAS,BRK,19,away,JS,,5,miss2,0,J. Harris,
@@ -332,13 +332,13 @@
 330,4,11:45.0,103,70,SAS,BRK,0,away,DefReb,,,DefReb,,A. Bennett,
 331,4,11:37.0,103,70,SAS,BRK,8,away,JS,,14,miss2,0,S. Kilpatrick,
 332,4,11:34.0,103,70,SAS,BRK,3,away,OffReb,,,OffReb,,B. Lopez,
-333,4,11:30.0,103,70,SAS,BRK,4,away,LostBall,steal,,turnover,,A. Bennett,D. Bertāns
+333,4,11:30.0,103,70,SAS,BRK,4,away,lost ball,steal,,turnover,,A. Bennett,D. Bertāns
 334,4,11:17.0,105,70,SAS,BRK,13,home,LU,assist,0,make2,2,J. Simmons,M. Ginóbili
 335,4,10:56.0,105,70,SAS,BRK,21,away,JS,,23,miss3,0,B. Bogdanović,
 336,4,10:55.0,105,70,SAS,BRK,1,away,OffReb,,,OffReb,,A. Bennett,
 337,4,10:53.0,105,72,SAS,BRK,2,away,LU,assist,1,make2,2,B. Bogdanović,A. Bennett
 338,4,10:30.0,107,72,SAS,BRK,23,home,JS,assist,18,make2,2,P. Gasol,N. Laprovíttola
-339,4,10:15.0,107,72,SAS,BRK,15,away,LostBall,steal,,turnover,,I. Whitehead,M. Ginóbili
+339,4,10:15.0,107,72,SAS,BRK,15,away,lost ball,steal,,turnover,,I. Whitehead,M. Ginóbili
 340,4,10:12.0,107,72,SAS,BRK,3,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,B. Bogdanović,J. Simmons
 341,4,10:12.0,107,72,SAS,BRK,0,home,Sub,,,,,K. Anderson,M. Ginóbili
 342,4,10:03.0,110,72,SAS,BRK,9,home,JS,assist,25,make3,3,N. Laprovíttola,P. Gasol
@@ -363,7 +363,7 @@
 361,4,8:41.0,114,77,SAS,BRK,0,away,Sub,,,,,J. Harris,S. Kilpatrick
 362,4,8:41.0,115,77,SAS,BRK,0,home,FreeThrow,,,make1,1,P. Gasol,
 363,4,8:23.0,115,79,SAS,BRK,18,away,JS,,19,make2,2,S. Dinwiddie,
-364,4,8:10.0,115,79,SAS,BRK,13,home,BadPass,steal,,turnover,,K. Anderson,S. Dinwiddie
+364,4,8:10.0,115,79,SAS,BRK,13,home,bad pass,steal,,turnover,,K. Anderson,S. Dinwiddie
 365,4,8:04.0,115,81,SAS,BRK,6,away,LU,assist,1,make2,2,L. Scola,R. Foye
 366,4,7:59.0,115,81,SAS,BRK,5,home,Timeout,,,,,,
 367,4,7:56.0,115,81,SAS,BRK,3,home,LostBall,,,turnover,,N. Laprovíttola,
@@ -418,7 +418,7 @@
 416,4,2:58.0,122,94,SAS,BRK,1,home,DefReb,,,DefReb,,D. Bertāns,
 417,4,2:47.0,122,94,SAS,BRK,11,home,JS,,19,miss2,0,D. Lee,
 418,4,2:46.0,122,94,SAS,BRK,1,away,DefReb,,,DefReb,,R. Foye,
-419,4,2:38.0,122,94,SAS,BRK,8,away,LostBall,steal,,turnover,,L. Scola,K. Anderson
+419,4,2:38.0,122,94,SAS,BRK,8,away,lost ball,steal,,turnover,,L. Scola,K. Anderson
 420,4,2:25.0,122,94,SAS,BRK,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hollis-Jefferson,D. Bertāns
 421,4,2:25.0,123,94,SAS,BRK,0,home,FreeThrow,,,make1,1,D. Bertāns,
 422,4,2:25.0,124,94,SAS,BRK,0,home,FreeThrow,,,make1,1,D. Bertāns,
@@ -433,7 +433,7 @@
 431,4,1:08.0,128,99,SAS,BRK,18,home,JS,assist,23,make3,3,J. Simmons,N. Laprovíttola
 432,4,0:58.0,128,99,SAS,BRK,10,away,JS,,7,miss2,0,L. Scola,
 433,4,0:57.0,128,99,SAS,BRK,1,home,DefReb,,,DefReb,,D. Lee,
-434,4,0:39.0,128,99,SAS,BRK,18,home,LostBall,steal,,turnover,,J. Simmons,S. Dinwiddie
+434,4,0:39.0,128,99,SAS,BRK,18,home,lost ball,steal,,turnover,,J. Simmons,S. Dinwiddie
 435,4,0:34.0,128,99,SAS,BRK,5,away,JS,,26,miss3,0,R. Foye,
 436,4,0:31.0,128,99,SAS,BRK,3,home,DefReb,,,DefReb,,D. Bertāns,
 437,4,0:09.0,128,99,SAS,BRK,22,home,JS,,8,miss2,0,D. Lee,

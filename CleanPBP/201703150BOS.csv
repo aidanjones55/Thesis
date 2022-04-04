@@ -6,8 +6,8 @@
 4,1,11:12.0,2,2,BOS,MIN,1,home,DefReb,,,DefReb,,A. Horford,
 5,1,11:00.0,4,2,BOS,MIN,12,home,JS,assist,8,make2,2,A. Horford,A. Bradley
 6,1,10:51.0,4,2,BOS,MIN,9,away,Timeout,,,,,,
-7,1,10:48.0,4,2,BOS,MIN,3,away,LostBall,steal,,turnover,,G. Dieng,I. Thomas
-8,1,10:43.0,4,2,BOS,MIN,5,home,LostBall,steal,,turnover,,I. Thomas,R. Rubio
+7,1,10:48.0,4,2,BOS,MIN,3,away,lost ball,steal,,turnover,,G. Dieng,I. Thomas
+8,1,10:43.0,4,2,BOS,MIN,5,home,lost ball,steal,,turnover,,I. Thomas,R. Rubio
 9,1,10:35.0,4,2,BOS,MIN,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crowder,A. Wiggins
 10,1,10:35.0,4,2,BOS,MIN,0,away,FreeThrow,,,make1,0,A. Wiggins,
 11,1,10:35.0,4,2,BOS,MIN,0,away,OffReb,,,OffReb,,Team,
@@ -100,7 +100,7 @@
 98,1,0:02.0,30,32,BOS,MIN,22,away,JS,,20,make2,2,A. Wiggins,
 99,1,0:00.0,30,32,BOS,MIN,2,home,JS,,74,miss3,0,M. Smart,
 100,1,0:00.0,30,32,BOS,MIN,0,home,OffReb,,,OffReb,,Team,
-101,2,11:45.0,30,32,BOS,MIN,15,home,BadPass,steal,,turnover,,M. Smart,K. Dunn
+101,2,11:45.0,30,32,BOS,MIN,15,home,bad pass,steal,,turnover,,M. Smart,K. Dunn
 102,2,11:22.0,30,32,BOS,MIN,23,away,JS,,23,miss2,0,K. Dunn,
 103,2,11:21.0,30,32,BOS,MIN,1,home,DefReb,,,DefReb,,J. Brown,
 104,2,11:14.0,30,32,BOS,MIN,7,home,LostBall,,,turnover,,J. Brown,
@@ -184,7 +184,7 @@
 182,2,2:42.0,49,54,BOS,MIN,1,away,OffReb,,,OffReb,,B. Rush,
 183,2,2:39.0,49,54,BOS,MIN,3,away,LU,,2,miss2,0,B. Rush,
 184,2,2:38.0,49,54,BOS,MIN,1,home,DefReb,,,DefReb,,J. Crowder,
-185,2,2:36.0,49,54,BOS,MIN,2,home,LostBall,steal,,turnover,,M. Smart,B. Rush
+185,2,2:36.0,49,54,BOS,MIN,2,home,lost ball,steal,,turnover,,M. Smart,B. Rush
 186,2,2:31.0,49,56,BOS,MIN,5,away,LU,assist,0,make2,2,S. Muhammad,B. Rush
 187,2,2:21.0,51,56,BOS,MIN,10,home,LU,,1,make2,2,M. Smart,
 188,2,2:04.0,51,56,BOS,MIN,17,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,A. Bradley,S. Muhammad
@@ -330,8 +330,8 @@
 328,4,9:57.0,90,77,BOS,MIN,0,away,OffReb,,,OffReb,,Team,
 329,4,9:57.0,90,78,BOS,MIN,0,away,FreeThrow,,,make1,1,S. Muhammad,
 330,4,9:39.0,93,78,BOS,MIN,18,home,JS,assist,26,make3,3,T. Rozier,M. Smart
-331,4,9:13.0,93,78,BOS,MIN,26,away,LostBall,steal,,turnover,,K. Towns,J. Brown
-332,4,9:08.0,93,78,BOS,MIN,5,home,LostBall,steal,,turnover,,J. Brown,T. Jones
+331,4,9:13.0,93,78,BOS,MIN,26,away,lost ball,steal,,turnover,,K. Towns,J. Brown
+332,4,9:08.0,93,78,BOS,MIN,5,home,lost ball,steal,,turnover,,J. Brown,T. Jones
 333,4,9:02.0,93,78,BOS,MIN,6,away,JS,,6,miss2,0,T. Jones,
 334,4,9:01.0,93,78,BOS,MIN,1,away,OffReb,,,OffReb,,K. Towns,
 335,4,9:01.0,93,80,BOS,MIN,0,away,LU,,1,make2,2,K. Towns,

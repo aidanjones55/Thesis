@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:45.0,0,0,DAL,DEN,15,away,LostBall,steal,,turnover,,M. Plumlee,J. Barea
+0,1,11:45.0,0,0,DAL,DEN,15,away,lost ball,steal,,turnover,,M. Plumlee,J. Barea
 1,1,11:26.0,2,0,DAL,DEN,19,home,LU,assist,0,make2,2,N. Noel,J. Barea
 2,1,11:09.0,2,0,DAL,DEN,17,away,HS,,4,miss2,0,M. Plumlee,
 3,1,11:08.0,2,0,DAL,DEN,1,home,DefReb,,,DefReb,,N. Noel,
@@ -30,12 +30,12 @@
 28,1,8:38.0,4,7,DAL,DEN,0,away,OffReb,,,OffReb,,Team,
 29,1,8:38.0,4,8,DAL,DEN,0,away,FreeThrow,,,make1,1,G. Harris,
 30,1,8:23.0,6,8,DAL,DEN,15,home,JS,assist,17,make2,2,D. Nowitzki,J. Barea
-31,1,8:13.0,6,8,DAL,DEN,10,away,BadPass,steal,,turnover,,J. Murray,N. Noel
+31,1,8:13.0,6,8,DAL,DEN,10,away,bad pass,steal,,turnover,,J. Murray,N. Noel
 32,1,8:11.0,8,8,DAL,DEN,2,home,DK,,0,make2,2,N. Noel,
 33,1,8:11.0,8,8,DAL,DEN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,N. Noel
 34,1,8:11.0,8,8,DAL,DEN,0,home,FreeThrow,,,make1,0,N. Noel,
 35,1,8:10.0,8,8,DAL,DEN,1,away,DefReb,,,DefReb,,N. Jokić,
-36,1,7:55.0,8,8,DAL,DEN,15,away,BadPass,steal,,turnover,,G. Harris,J. Barea
+36,1,7:55.0,8,8,DAL,DEN,15,away,bad pass,steal,,turnover,,G. Harris,J. Barea
 37,1,7:48.0,8,8,DAL,DEN,7,home,JS,,25,miss3,0,J. Barea,
 38,1,7:47.0,8,8,DAL,DEN,1,home,OffReb,,,OffReb,,D. Finney-Smith,
 39,1,7:40.0,8,8,DAL,DEN,7,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,N. Noel,W. Chandler
@@ -82,7 +82,7 @@
 80,1,3:08.0,21,15,DAL,DEN,1,away,OffReb,,,OffReb,,D. Arthur,
 81,1,3:04.0,21,15,DAL,DEN,4,away,JS,,24,miss3,0,M. Beasley,
 82,1,3:03.0,21,15,DAL,DEN,1,home,DefReb,,,DefReb,,Y. Ferrell,
-83,1,2:54.0,21,15,DAL,DEN,9,home,BadPass,steal,,turnover,,D. Harris,J. Murray
+83,1,2:54.0,21,15,DAL,DEN,9,home,bad pass,steal,,turnover,,D. Harris,J. Murray
 84,1,2:50.0,21,17,DAL,DEN,4,away,DK,assist,0,make2,2,M. Plumlee,J. Murray
 85,1,2:49.0,21,17,DAL,DEN,1,home,Timeout,,,,,,
 86,1,2:49.0,21,17,DAL,DEN,0,away,Timeout,,,,,,
@@ -112,7 +112,7 @@
 110,2,11:37.0,28,23,DAL,DEN,23,home,JS,assist,17,make2,2,D. Nowitzki,J. Uthoff
 111,2,11:17.0,28,23,DAL,DEN,20,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Uthoff,J. Hernangómez
 112,2,11:08.0,28,25,DAL,DEN,9,away,JS,assist,5,make2,2,M. Miller,G. Harris
-113,2,11:00.0,28,25,DAL,DEN,8,home,BadPass,steal,,turnover,,J. Barea,M. Beasley
+113,2,11:00.0,28,25,DAL,DEN,8,home,bad pass,steal,,turnover,,J. Barea,M. Beasley
 114,2,10:52.0,28,28,DAL,DEN,8,away,JS,assist,24,make3,3,J. Hernangómez,M. Miller
 115,2,10:35.0,28,28,DAL,DEN,17,home,JS,,25,miss3,0,D. Harris,
 116,2,10:35.0,28,28,DAL,DEN,0,home,OffReb,,,OffReb,,S. Mejri,
@@ -123,7 +123,7 @@
 121,2,10:21.0,30,29,DAL,DEN,1,home,DefReb,,,DefReb,,D. Nowitzki,
 122,2,10:05.0,33,29,DAL,DEN,16,home,JS,assist,23,make3,3,J. Uthoff,D. Harris
 123,2,9:47.0,33,32,DAL,DEN,18,away,JS,assist,24,make3,3,G. Harris,M. Miller
-124,2,9:32.0,33,32,DAL,DEN,15,home,LostBall,steal,,turnover,,J. Barea,G. Harris
+124,2,9:32.0,33,32,DAL,DEN,15,home,lost ball,steal,,turnover,,J. Barea,G. Harris
 125,2,9:30.0,33,32,DAL,DEN,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,M. Beasley
 126,2,9:30.0,33,33,DAL,DEN,0,away,FreeThrow,,,make1,1,M. Beasley,
 127,2,9:30.0,33,33,DAL,DEN,0,home,Sub,,,,,N. Brussino,D. Harris
@@ -148,7 +148,7 @@
 146,2,6:47.0,37,41,DAL,DEN,6,away,JS,,27,miss3,0,M. Miller,
 147,2,6:45.0,37,41,DAL,DEN,2,away,OffReb,,,OffReb,,M. Beasley,
 148,2,6:43.0,37,43,DAL,DEN,2,away,LU,,2,make2,2,M. Beasley,
-149,2,6:24.0,37,43,DAL,DEN,19,home,BadPass,steal,,turnover,,D. Nowitzki,J. Hernangómez
+149,2,6:24.0,37,43,DAL,DEN,19,home,bad pass,steal,,turnover,,D. Nowitzki,J. Hernangómez
 150,2,6:18.0,37,46,DAL,DEN,6,away,JS,assist,25,make3,3,M. Beasley,J. Hernangómez
 151,2,6:05.0,39,46,DAL,DEN,13,home,JS,assist,16,make2,2,D. Nowitzki,J. Barea
 152,2,5:53.0,39,46,DAL,DEN,12,away,JS,,25,miss3,0,D. Arthur,
@@ -188,7 +188,7 @@
 186,2,2:59.0,40,48,DAL,DEN,0,home,FreeThrow,,,make1,1,D. Nowitzki,
 187,2,2:59.0,39,48,DAL,DEN,0,away,Sub,,,,,G. Harris,M. Beasley
 188,2,2:59.0,41,48,DAL,DEN,0,home,FreeThrow,,,make1,1,D. Nowitzki,
-189,2,2:46.0,41,48,DAL,DEN,13,away,BadPass,steal,,turnover,,G. Harris,D. Nowitzki
+189,2,2:46.0,41,48,DAL,DEN,13,away,bad pass,steal,,turnover,,G. Harris,D. Nowitzki
 190,2,2:40.0,41,48,DAL,DEN,6,home,JS,,25,miss3,0,D. Nowitzki,
 191,2,2:39.0,41,48,DAL,DEN,1,home,OffReb,,,OffReb,,N. Noel,
 192,2,2:39.0,41,48,DAL,DEN,0,home,LU,,2,miss2,0,N. Noel,
@@ -212,11 +212,11 @@
 210,2,0:52.0,44,55,DAL,DEN,1,away,DefReb,,,DefReb,,W. Chandler,
 211,2,0:41.0,44,55,DAL,DEN,11,away,JS,,24,miss3,0,J. Murray,
 212,2,0:39.0,44,55,DAL,DEN,2,home,DefReb,,,DefReb,,D. Nowitzki,
-213,2,0:20.0,44,55,DAL,DEN,19,home,LostBall,steal,,turnover,,Y. Ferrell,M. Miller
+213,2,0:20.0,44,55,DAL,DEN,19,home,lost ball,steal,,turnover,,Y. Ferrell,M. Miller
 214,2,0:15.0,44,55,DAL,DEN,5,away,LostBall,,,turnover,,J. Murray,
 215,2,0:15.0,44,55,DAL,DEN,0,away,Sub,,,,,M. Plumlee,N. Jokić
 216,2,0:04.0,44,55,DAL,DEN,11,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Murray,Y. Ferrell
-217,2,0:04.0,44,55,DAL,DEN,0,home,BadPass,steal,,turnover,,J. Barea,M. Plumlee
+217,2,0:04.0,44,55,DAL,DEN,0,home,bad pass,steal,,turnover,,J. Barea,M. Plumlee
 218,2,0:00.0,44,55,DAL,DEN,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,Y. Ferrell,G. Harris
 219,2,0:00.0,44,56,DAL,DEN,0,away,FreeThrow,,,make1,1,G. Harris,
 220,2,0:00.0,44,57,DAL,DEN,0,away,FreeThrow,,,make1,1,G. Harris,
@@ -277,18 +277,18 @@
 275,3,4:35.0,64,77,DAL,DEN,9,home,JS,,3,make2,2,Y. Ferrell,
 276,3,4:35.0,64,77,DAL,DEN,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Arthur,Y. Ferrell
 277,3,4:35.0,65,77,DAL,DEN,0,home,FreeThrow,,,make1,1,Y. Ferrell,
-278,3,4:24.0,65,77,DAL,DEN,11,away,BadPass,steal,,turnover,,D. Arthur,D. Powell
+278,3,4:24.0,65,77,DAL,DEN,11,away,bad pass,steal,,turnover,,D. Arthur,D. Powell
 279,3,4:18.0,65,77,DAL,DEN,6,home,JS,,24,miss3,0,Y. Ferrell,
 280,3,4:17.0,65,77,DAL,DEN,1,home,OffReb,,,OffReb,,D. Powell,
 281,3,4:11.0,65,77,DAL,DEN,6,home,JS,,26,miss3,0,J. Barea,
 282,3,4:10.0,65,77,DAL,DEN,1,away,DefReb,,,DefReb,,J. Hernangómez,
-283,3,4:06.0,65,77,DAL,DEN,4,away,BadPass,steal,,turnover,,J. Hernangómez,Y. Ferrell
+283,3,4:06.0,65,77,DAL,DEN,4,away,bad pass,steal,,turnover,,J. Hernangómez,Y. Ferrell
 284,3,4:05.0,67,77,DAL,DEN,1,home,LU,,1,make2,2,Y. Ferrell,
 285,3,4:05.0,67,77,DAL,DEN,0,away,Timeout,,,,,,
 286,3,4:05.0,67,77,DAL,DEN,0,home,Sub,,,,,N. Brussino,Y. Ferrell
 287,3,4:05.0,67,77,DAL,DEN,0,home,Sub,,,,,D. Finney-Smith,D. Harris
 288,3,4:05.0,67,77,DAL,DEN,0,away,Sub,,,,,M. Miller,N. Jokić
-289,3,3:56.0,67,77,DAL,DEN,9,away,BadPass,steal,,turnover,,M. Miller,N. Brussino
+289,3,3:56.0,67,77,DAL,DEN,9,away,bad pass,steal,,turnover,,M. Miller,N. Brussino
 290,3,3:44.0,69,77,DAL,DEN,12,home,JS,assist,21,make2,2,D. Nowitzki,J. Barea
 291,3,3:30.0,69,77,DAL,DEN,14,away,JS,,24,miss3,0,M. Beasley,
 292,3,3:29.0,69,77,DAL,DEN,1,home,DefReb,,,DefReb,,D. Finney-Smith,
@@ -365,7 +365,7 @@
 363,4,5:57.0,83,94,DAL,DEN,0,home,OffReb,,,OffReb,,Team,
 364,4,5:57.0,84,94,DAL,DEN,0,home,FreeThrow,,,make1,1,A. Hammons,
 365,4,5:45.0,84,96,DAL,DEN,12,away,DK,assist,0,make2,2,M. Plumlee,G. Harris
-366,4,5:17.0,84,96,DAL,DEN,28,home,BadPass,steal,,turnover,,Y. Ferrell,M. Beasley
+366,4,5:17.0,84,96,DAL,DEN,28,home,bad pass,steal,,turnover,,Y. Ferrell,M. Beasley
 367,4,5:03.0,84,96,DAL,DEN,14,away,HS,,3,miss2,0,M. Beasley,
 368,4,5:02.0,84,96,DAL,DEN,1,away,OffReb,,,OffReb,,M. Beasley,
 369,4,4:59.0,84,99,DAL,DEN,3,away,JS,assist,25,make3,3,M. Miller,M. Beasley
@@ -387,7 +387,7 @@
 385,4,2:41.0,91,104,DAL,DEN,0,away,LU,,1,make2,2,M. Plumlee,
 386,4,2:27.0,91,104,DAL,DEN,14,home,JS,,4,miss2,0,Y. Ferrell,
 387,4,2:25.0,91,104,DAL,DEN,2,away,DefReb,,,DefReb,,G. Harris,
-388,4,2:18.0,91,104,DAL,DEN,7,away,LostBall,steal,,turnover,,G. Harris,D. Finney-Smith
+388,4,2:18.0,91,104,DAL,DEN,7,away,lost ball,steal,,turnover,,G. Harris,D. Finney-Smith
 389,4,2:14.0,91,104,DAL,DEN,4,home,BadPass,,,turnover,,D. Finney-Smith,
 390,4,2:01.0,91,104,DAL,DEN,13,away,JS,,25,miss3,0,J. Murray,
 391,4,1:59.0,91,104,DAL,DEN,2,away,OffReb,,,OffReb,,G. Harris,

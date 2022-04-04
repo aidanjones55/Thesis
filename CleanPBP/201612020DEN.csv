@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:45.0,0,0,DEN,HOU,15,home,BadPass,steal,,turnover,,D. Gallinari,T. Ariza
+0,1,11:45.0,0,0,DEN,HOU,15,home,bad pass,steal,,turnover,,D. Gallinari,T. Ariza
 1,1,11:40.0,0,2,DEN,HOU,5,away,DK,assist,0,make2,2,C. Capela,T. Ariza
 2,1,11:22.0,0,2,DEN,HOU,18,home,LU,,2,miss2,0,J. Nurkić,
 3,1,11:22.0,0,2,DEN,HOU,0,away,DefReb,,,DefReb,,R. Anderson,
@@ -9,7 +9,7 @@
 7,1,10:44.0,2,5,DEN,HOU,12,away,JS,assist,23,make3,3,T. Ariza,R. Anderson
 8,1,10:34.0,2,5,DEN,HOU,10,home,JS,,26,miss3,0,D. Gallinari,
 9,1,10:33.0,2,5,DEN,HOU,1,away,DefReb,,,DefReb,,C. Capela,
-10,1,10:24.0,2,5,DEN,HOU,9,away,BadPass,steal,,turnover,,J. Harden,J. Nurkić
+10,1,10:24.0,2,5,DEN,HOU,9,away,bad pass,steal,,turnover,,J. Harden,J. Nurkić
 11,1,10:18.0,4,5,DEN,HOU,6,home,LU,assist,2,make2,2,K. Faried,E. Mudiay
 12,1,10:07.0,4,8,DEN,HOU,11,away,JS,assist,28,make3,3,R. Anderson,P. Beverley
 13,1,9:48.0,4,8,DEN,HOU,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Capela,D. Gallinari
@@ -21,7 +21,7 @@
 19,1,8:54.0,8,14,DEN,HOU,20,away,JS,assist,27,make3,3,R. Anderson,P. Beverley
 20,1,8:43.0,8,14,DEN,HOU,11,home,LU,block,3,miss2,0,J. Nurkić,J. Harden
 21,1,8:41.0,8,14,DEN,HOU,2,home,OffReb,,,OffReb,,J. Nurkić,
-22,1,8:40.0,8,14,DEN,HOU,1,home,LostBall,steal,,turnover,,J. Nurkić,T. Ariza
+22,1,8:40.0,8,14,DEN,HOU,1,home,lost ball,steal,,turnover,,J. Nurkić,T. Ariza
 23,1,8:35.0,8,14,DEN,HOU,5,away,JS,,26,miss3,0,R. Anderson,
 24,1,8:35.0,8,14,DEN,HOU,0,home,DefReb,,,DefReb,,Team,
 25,1,8:32.0,8,14,DEN,HOU,3,home,Sub,,,,,W. Chandler,K. Faried
@@ -78,7 +78,7 @@
 76,1,3:21.0,18,31,DEN,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
 77,1,3:13.0,18,31,DEN,HOU,8,away,JS,,25,miss3,0,J. Harden,
 78,1,3:12.0,18,31,DEN,HOU,1,home,DefReb,,,DefReb,,D. Arthur,
-79,1,3:10.0,18,31,DEN,HOU,2,home,BadPass,steal,,turnover,,D. Arthur,T. Ariza
+79,1,3:10.0,18,31,DEN,HOU,2,home,bad pass,steal,,turnover,,D. Arthur,T. Ariza
 80,1,3:06.0,18,33,DEN,HOU,4,away,LU,,2,make2,2,T. Ariza,
 81,1,2:50.0,18,33,DEN,HOU,16,home,JS,,24,miss3,0,J. Nelson,
 82,1,2:49.0,18,33,DEN,HOU,1,home,OffReb,,,OffReb,,D. Arthur,
@@ -112,21 +112,21 @@
 110,2,11:46.0,33,42,DEN,HOU,1,home,DefReb,,,DefReb,,K. Faried,
 111,2,11:36.0,33,42,DEN,HOU,10,home,JS,,6,miss2,0,K. Faried,
 112,2,11:34.0,33,42,DEN,HOU,2,away,DefReb,,,DefReb,,C. Capela,
-113,2,11:31.0,33,42,DEN,HOU,3,away,BadPass,steal,,turnover,,C. Brewer,W. Barton
+113,2,11:31.0,33,42,DEN,HOU,3,away,bad pass,steal,,turnover,,C. Brewer,W. Barton
 114,2,11:25.0,33,42,DEN,HOU,6,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Faried,C. Brewer
 115,2,11:25.0,33,42,DEN,HOU,0,home,OffensiveFoul,,,turnover,,K. Faried,
 116,2,11:16.0,33,42,DEN,HOU,9,away,3sec,,,turnover,,C. Capela,
 117,2,11:03.0,33,42,DEN,HOU,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Brewer,J. Murray
-118,2,10:57.0,33,42,DEN,HOU,6,home,BadPass,steal,,turnover,,J. Nelson,S. Dekker
+118,2,10:57.0,33,42,DEN,HOU,6,home,bad pass,steal,,turnover,,J. Nelson,S. Dekker
 119,2,10:55.0,33,42,DEN,HOU,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Nelson,S. Dekker
 120,2,10:55.0,33,43,DEN,HOU,0,away,FreeThrow,,,make1,1,S. Dekker,
 121,2,10:55.0,33,44,DEN,HOU,0,away,FreeThrow,,,make1,1,S. Dekker,
-122,2,10:43.0,33,44,DEN,HOU,12,home,LostBall,steal,,turnover,,J. Murray,C. Brewer
+122,2,10:43.0,33,44,DEN,HOU,12,home,lost ball,steal,,turnover,,J. Murray,C. Brewer
 123,2,10:29.0,33,44,DEN,HOU,14,away,JS,,27,miss3,0,E. Gordon,
 124,2,10:29.0,33,44,DEN,HOU,0,home,DefReb,,,DefReb,,J. Nelson,
 125,2,10:23.0,35,44,DEN,HOU,6,home,DK,assist,0,make2,2,W. Barton,K. Faried
 126,2,10:08.0,35,46,DEN,HOU,15,away,JS,,5,make2,2,P. Beverley,
-127,2,9:54.0,35,46,DEN,HOU,14,home,LostBall,steal,,turnover,,W. Barton,P. Beverley
+127,2,9:54.0,35,46,DEN,HOU,14,home,lost ball,steal,,turnover,,W. Barton,P. Beverley
 128,2,9:49.0,35,48,DEN,HOU,5,away,DK,assist,0,make2,2,S. Dekker,C. Brewer
 129,2,9:35.0,35,48,DEN,HOU,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Beverley,W. Chandler
 130,2,9:35.0,35,48,DEN,HOU,0,home,FreeThrow,,,make1,0,W. Chandler,
@@ -281,7 +281,7 @@
 279,3,9:40.0,67,80,DEN,HOU,0,away,FreeThrow,,,make1,1,R. Anderson,
 280,3,9:31.0,67,80,DEN,HOU,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Harden,D. Gallinari
 281,3,9:24.0,67,80,DEN,HOU,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Harden,E. Mudiay
-282,3,9:19.0,67,80,DEN,HOU,5,home,BadPass,steal,,turnover,,J. Nurkić,R. Anderson
+282,3,9:19.0,67,80,DEN,HOU,5,home,bad pass,steal,,turnover,,J. Nurkić,R. Anderson
 283,3,9:13.0,67,80,DEN,HOU,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Mudiay,J. Harden
 284,3,9:13.0,67,80,DEN,HOU,0,away,FreeThrow,,,make1,0,J. Harden,
 285,3,9:13.0,67,80,DEN,HOU,0,away,OffReb,,,OffReb,,Team,
@@ -297,15 +297,15 @@
 295,3,7:49.0,71,83,DEN,HOU,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Mudiay,J. Harden
 296,3,7:49.0,71,83,DEN,HOU,0,home,Sub,,,,,J. Nelson,E. Mudiay
 297,3,7:42.0,71,83,DEN,HOU,7,away,Traveling,,,turnover,,P. Beverley,
-298,3,7:19.0,71,83,DEN,HOU,23,home,BadPass,steal,,turnover,,J. Nelson,J. Harden
+298,3,7:19.0,71,83,DEN,HOU,23,home,bad pass,steal,,turnover,,J. Nelson,J. Harden
 299,3,7:17.0,71,85,DEN,HOU,2,away,DK,,0,make2,2,J. Harden,
 300,3,7:17.0,71,85,DEN,HOU,0,home,Timeout,,,,,,
 301,3,7:17.0,71,85,DEN,HOU,0,home,Sub,,,,,W. Chandler,K. Faried
-302,3,7:01.0,71,85,DEN,HOU,16,home,BadPass,steal,,turnover,,W. Barton,T. Ariza
+302,3,7:01.0,71,85,DEN,HOU,16,home,bad pass,steal,,turnover,,W. Barton,T. Ariza
 303,3,6:49.0,71,88,DEN,HOU,12,away,JS,assist,24,make3,3,P. Beverley,R. Anderson
 304,3,6:28.0,71,88,DEN,HOU,21,home,JS,,20,miss2,0,W. Chandler,
 305,3,6:26.0,71,88,DEN,HOU,2,home,OffReb,,,OffReb,,J. Nurkić,
-306,3,6:23.0,71,88,DEN,HOU,3,home,BadPass,steal,,turnover,,J. Nurkić,T. Ariza
+306,3,6:23.0,71,88,DEN,HOU,3,home,bad pass,steal,,turnover,,J. Nurkić,T. Ariza
 307,3,6:15.0,71,88,DEN,HOU,8,away,JS,,25,miss3,0,J. Harden,
 308,3,6:14.0,71,88,DEN,HOU,1,away,OffReb,,,OffReb,,T. Ariza,
 309,3,6:12.0,71,88,DEN,HOU,2,away,JS,,24,miss3,0,T. Ariza,
@@ -337,7 +337,7 @@
 335,3,3:30.0,78,91,DEN,HOU,0,home,LU,,1,make2,2,W. Chandler,
 336,3,3:16.0,78,94,DEN,HOU,14,away,JS,assist,23,make3,3,T. Ariza,E. Gordon
 337,3,3:00.0,80,94,DEN,HOU,16,home,HS,,7,make2,2,K. Faried,
-338,3,2:47.0,80,94,DEN,HOU,13,away,BadPass,steal,,turnover,,J. Harden,W. Chandler
+338,3,2:47.0,80,94,DEN,HOU,13,away,bad pass,steal,,turnover,,J. Harden,W. Chandler
 339,3,2:33.0,80,94,DEN,HOU,14,home,JS,,24,miss3,0,J. Murray,
 340,3,2:32.0,80,94,DEN,HOU,1,away,DefReb,,,DefReb,,T. Ariza,
 341,3,2:18.0,80,94,DEN,HOU,14,away,JS,,26,miss3,0,T. Ariza,
@@ -387,7 +387,7 @@
 385,4,10:23.0,84,102,DEN,HOU,0,home,Sub,,,,,W. Barton,J. Hernangómez
 386,4,10:04.0,87,102,DEN,HOU,19,home,JS,assist,24,make3,3,D. Gallinari,W. Barton
 387,4,9:48.0,87,104,DEN,HOU,16,away,HS,assist,6,make2,2,M. Harrell,E. Gordon
-388,4,9:34.0,87,104,DEN,HOU,14,home,LostBall,steal,,turnover,,W. Chandler,E. Gordon
+388,4,9:34.0,87,104,DEN,HOU,14,home,lost ball,steal,,turnover,,W. Chandler,E. Gordon
 389,4,9:14.0,87,107,DEN,HOU,20,away,JS,,26,make3,3,E. Gordon,
 390,4,9:14.0,87,107,DEN,HOU,0,home,Timeout,,,,,,
 391,4,9:14.0,87,107,DEN,HOU,0,away,Sub,,,,,J. Harden,E. Gordon
@@ -426,7 +426,7 @@
 424,4,5:21.0,99,118,DEN,HOU,0,home,Sub,,,,,J. Nelson,D. Gallinari
 425,4,5:05.0,99,118,DEN,HOU,16,home,LU,block,2,miss2,0,E. Mudiay,C. Capela
 426,4,5:02.0,99,118,DEN,HOU,3,away,DefReb,,,DefReb,,C. Capela,
-427,4,4:52.0,99,118,DEN,HOU,10,away,BadPass,steal,,turnover,,J. Harden,J. Nurkić
+427,4,4:52.0,99,118,DEN,HOU,10,away,bad pass,steal,,turnover,,J. Harden,J. Nurkić
 428,4,4:44.0,99,118,DEN,HOU,8,home,JS,,25,miss3,0,E. Mudiay,
 429,4,4:43.0,99,118,DEN,HOU,1,away,DefReb,,,DefReb,,R. Anderson,
 430,4,4:25.0,99,121,DEN,HOU,18,away,JS,,26,make3,3,J. Harden,
@@ -461,7 +461,7 @@
 459,4,1:29.0,108,125,DEN,HOU,11,away,DK,,0,make2,2,K. McDaniels,
 460,4,1:17.0,108,125,DEN,HOU,12,home,JS,,24,miss3,0,M. Beasley,
 461,4,1:16.0,108,125,DEN,HOU,1,away,DefReb,,,DefReb,,Team,
-462,4,1:03.0,108,125,DEN,HOU,13,away,BadPass,steal,,turnover,,T. Ennis,M. Beasley
+462,4,1:03.0,108,125,DEN,HOU,13,away,bad pass,steal,,turnover,,T. Ennis,M. Beasley
 463,4,1:01.0,110,125,DEN,HOU,2,home,DK,,0,make2,2,M. Beasley,
 464,4,0:44.0,110,128,DEN,HOU,17,away,JS,,25,make3,3,K. Wiltjer,
 465,4,0:35.0,110,128,DEN,HOU,9,home,LU,,2,miss2,0,J. Hernangómez,

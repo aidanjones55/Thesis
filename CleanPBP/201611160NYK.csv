@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:47.0,0,0,NYK,DET,13,away,LostBall,steal,,turnover,,A. Drummond,C. Lee
+0,1,11:47.0,0,0,NYK,DET,13,away,lost ball,steal,,turnover,,A. Drummond,C. Lee
 1,1,11:42.0,0,0,NYK,DET,5,home,LU,,2,miss2,0,C. Lee,
 2,1,11:40.0,0,0,NYK,DET,2,away,DefReb,,,DefReb,,A. Drummond,
 3,1,11:27.0,0,0,NYK,DET,13,away,JS,,26,miss3,0,M. Morris,
@@ -45,7 +45,7 @@
 43,1,6:42.0,9,11,NYK,DET,0,home,OffReb,,,OffReb,,J. Noah,
 44,1,6:40.0,9,11,NYK,DET,2,home,LU,,1,miss2,0,J. Noah,
 45,1,6:38.0,9,11,NYK,DET,2,away,DefReb,,,DefReb,,I. Smith,
-46,1,6:34.0,9,11,NYK,DET,4,away,BadPass,steal,,turnover,,I. Smith,K. Porziņģis
+46,1,6:34.0,9,11,NYK,DET,4,away,bad pass,steal,,turnover,,I. Smith,K. Porziņģis
 47,1,6:29.0,11,11,NYK,DET,5,home,LU,,0,make2,2,K. Porziņģis,
 48,1,5:59.0,11,11,NYK,DET,30,away,JS,,21,miss2,0,M. Morris,
 49,1,5:59.0,11,11,NYK,DET,0,home,DefReb,,,DefReb,,C. Lee,
@@ -77,7 +77,7 @@
 75,1,1:46.0,25,22,NYK,DET,9,home,JS,,18,miss2,0,C. Anthony,
 76,1,1:46.0,25,22,NYK,DET,0,away,DefReb,,,DefReb,,J. Leuer,
 77,1,1:36.0,25,25,NYK,DET,10,away,JS,assist,25,make3,3,J. Leuer,B. Udrih
-78,1,1:19.0,25,25,NYK,DET,17,home,BadPass,steal,,turnover,,J. Noah,M. Morris
+78,1,1:19.0,25,25,NYK,DET,17,home,bad pass,steal,,turnover,,J. Noah,M. Morris
 79,1,1:12.0,25,25,NYK,DET,7,away,JS,,5,miss2,0,K. Caldwell-Pope,
 80,1,1:10.0,25,25,NYK,DET,2,home,DefReb,,,DefReb,,J. Noah,
 81,1,1:06.0,25,25,NYK,DET,4,home,JS,,14,miss2,0,D. Rose,
@@ -101,7 +101,7 @@
 99,2,11:27.0,29,29,NYK,DET,9,away,JS,,12,make2,2,B. Udrih,
 100,2,11:08.0,29,29,NYK,DET,19,home,JS,,25,miss3,0,M. Kuzminskas,
 101,2,11:08.0,29,29,NYK,DET,0,home,OffReb,,,OffReb,,K. O'Quinn,
-102,2,11:05.0,29,29,NYK,DET,3,home,LostBall,steal,,turnover,,K. O'Quinn,T. Harris
+102,2,11:05.0,29,29,NYK,DET,3,home,lost ball,steal,,turnover,,K. O'Quinn,T. Harris
 103,2,10:49.0,29,31,NYK,DET,16,away,JS,,20,make2,2,S. Johnson,
 104,2,10:29.0,29,31,NYK,DET,20,home,JS,,20,miss2,0,K. O'Quinn,
 105,2,10:28.0,29,31,NYK,DET,1,home,OffReb,,,OffReb,,M. Kuzminskas,
@@ -113,8 +113,8 @@
 111,2,9:59.0,29,33,NYK,DET,1,home,Timeout,,,,,,
 112,2,9:59.0,29,33,NYK,DET,0,home,Sub,,,,,K. Porziņģis,W. Hernangómez
 113,2,9:43.0,31,33,NYK,DET,16,home,HS,,10,make2,2,K. Porziņģis,
-114,2,9:19.0,31,33,NYK,DET,24,away,BadPass,steal,,turnover,,J. Leuer,K. O'Quinn
-115,2,9:16.0,31,33,NYK,DET,3,home,LostBall,steal,,turnover,,B. Jennings,S. Johnson
+114,2,9:19.0,31,33,NYK,DET,24,away,bad pass,steal,,turnover,,J. Leuer,K. O'Quinn
+115,2,9:16.0,31,33,NYK,DET,3,home,lost ball,steal,,turnover,,B. Jennings,S. Johnson
 116,2,9:13.0,31,33,NYK,DET,3,home,KickBallViolation,,,KickBallViolation,,B. Jennings,
 117,2,9:03.0,31,33,NYK,DET,10,away,LU,block,2,miss2,0,B. Udrih,K. O'Quinn
 118,2,9:02.0,31,33,NYK,DET,1,home,DefReb,,,DefReb,,B. Jennings,
@@ -163,7 +163,7 @@
 161,2,3:31.0,48,43,NYK,DET,19,away,JS,assist,10,make2,2,A. Drummond,I. Smith
 162,2,3:17.0,48,43,NYK,DET,14,home,JS,,8,miss2,0,C. Anthony,
 163,2,3:15.0,48,43,NYK,DET,2,away,DefReb,,,DefReb,,K. Caldwell-Pope,
-164,2,3:11.0,48,43,NYK,DET,4,away,LostBall,steal,,turnover,,I. Smith,J. Noah
+164,2,3:11.0,48,43,NYK,DET,4,away,lost ball,steal,,turnover,,I. Smith,J. Noah
 165,2,3:05.0,48,43,NYK,DET,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Caldwell-Pope,J. Noah
 166,2,3:05.0,48,43,NYK,DET,0,home,FreeThrow,,,make1,0,J. Noah,
 167,2,3:05.0,48,43,NYK,DET,0,home,OffReb,,,OffReb,,Team,
@@ -191,7 +191,7 @@
 189,2,0:31.0,53,49,NYK,DET,0,home,FreeThrow,,,make1,1,K. Porziņģis,
 190,2,0:31.0,53,49,NYK,DET,0,away,Sub,,,,,J. Leuer,T. Harris
 191,2,0:31.0,54,49,NYK,DET,0,home,FreeThrow,,,make1,1,K. Porziņģis,
-192,2,0:15.0,54,49,NYK,DET,16,away,BadPass,steal,,turnover,,M. Morris,C. Lee
+192,2,0:15.0,54,49,NYK,DET,16,away,bad pass,steal,,turnover,,M. Morris,C. Lee
 193,2,0:05.0,54,49,NYK,DET,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Drummond,J. Noah
 194,2,0:05.0,54,49,NYK,DET,0,home,FreeThrow,,,make1,0,J. Noah,
 195,2,0:05.0,54,49,NYK,DET,0,home,OffReb,,,OffReb,,Team,
@@ -240,8 +240,8 @@
 238,3,7:01.0,66,59,NYK,DET,0,home,DefReb,,,DefReb,,C. Anthony,
 239,3,6:50.0,66,59,NYK,DET,11,home,JS,,7,miss2,0,D. Rose,
 240,3,6:49.0,66,59,NYK,DET,1,home,OffReb,,,OffReb,,C. Anthony,
-241,3,6:42.0,66,59,NYK,DET,7,home,LostBall,steal,,turnover,,D. Rose,I. Smith
-242,3,6:35.0,66,59,NYK,DET,7,away,BadPass,steal,,turnover,,T. Harris,C. Anthony
+241,3,6:42.0,66,59,NYK,DET,7,home,lost ball,steal,,turnover,,D. Rose,I. Smith
+242,3,6:35.0,66,59,NYK,DET,7,away,bad pass,steal,,turnover,,T. Harris,C. Anthony
 243,3,6:25.0,66,59,NYK,DET,10,home,JS,,28,miss3,0,K. Porziņģis,
 244,3,6:24.0,66,59,NYK,DET,1,home,OffReb,,,OffReb,,K. Porziņģis,
 245,3,6:21.0,66,59,NYK,DET,3,home,LU,,2,miss2,0,K. Porziņģis,
@@ -342,18 +342,18 @@
 340,4,6:53.0,94,82,NYK,DET,3,away,Timeout,,,,,,
 341,4,6:53.0,94,82,NYK,DET,0,away,Sub,,,,,M. Morris,A. Drummond
 342,4,6:37.0,94,85,NYK,DET,16,away,JS,assist,25,make3,3,M. Morris,I. Smith
-343,4,6:22.0,94,85,NYK,DET,15,home,BadPass,steal,,turnover,,C. Anthony,I. Smith
+343,4,6:22.0,94,85,NYK,DET,15,home,bad pass,steal,,turnover,,C. Anthony,I. Smith
 344,4,6:16.0,94,87,NYK,DET,6,away,LU,assist,1,make2,2,K. Caldwell-Pope,I. Smith
-345,4,5:49.0,94,87,NYK,DET,27,home,LostBall,steal,,turnover,,C. Anthony,J. Leuer
+345,4,5:49.0,94,87,NYK,DET,27,home,lost ball,steal,,turnover,,C. Anthony,J. Leuer
 346,4,5:45.0,94,87,NYK,DET,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Holiday,T. Harris
 347,4,5:45.0,94,88,NYK,DET,0,away,FreeThrow,,,make1,1,T. Harris,
 348,4,5:45.0,94,88,NYK,DET,0,home,Sub,,,,,D. Rose,J. Holiday
 349,4,5:45.0,94,89,NYK,DET,0,away,FreeThrow,,,make1,1,T. Harris,
 350,4,5:39.0,94,89,NYK,DET,6,home,JS,,25,miss3,0,B. Jennings,
 351,4,5:39.0,94,89,NYK,DET,0,away,DefReb,,,DefReb,,T. Harris,
-352,4,5:35.0,94,89,NYK,DET,4,away,LostBall,steal,,turnover,,I. Smith,B. Jennings
+352,4,5:35.0,94,89,NYK,DET,4,away,lost ball,steal,,turnover,,I. Smith,B. Jennings
 353,4,5:16.0,96,89,NYK,DET,19,home,JS,,19,make2,2,C. Anthony,
-354,4,4:58.0,96,89,NYK,DET,18,away,LostBall,steal,,turnover,,J. Leuer,C. Lee
+354,4,4:58.0,96,89,NYK,DET,18,away,lost ball,steal,,turnover,,J. Leuer,C. Lee
 355,4,4:45.0,96,89,NYK,DET,13,home,FlagrantFoul1,DrawnBy,,FlagrantFoul1,,M. Morris,K. Porziņģis
 356,4,4:45.0,96,89,NYK,DET,0,home,FreeThrow,,,make1,0,K. Porziņģis misses flagrant free throw 1 of 2,
 357,4,4:45.0,96,89,NYK,DET,0,home,OffReb,,,OffReb,,Team,

@@ -2,7 +2,7 @@
 0,1,11:42.0,0,2,DET,NOP,18,away,LU,assist,0,make2,2,B. Hield,A. Davis
 1,1,11:18.0,0,2,DET,NOP,24,home,JS,,9,miss2,0,R. Jackson,
 2,1,11:17.0,0,2,DET,NOP,1,away,DefReb,,,DefReb,,J. Holiday,
-3,1,11:15.0,0,2,DET,NOP,2,away,BadPass,steal,,turnover,,J. Holiday,K. Caldwell-Pope
+3,1,11:15.0,0,2,DET,NOP,2,away,bad pass,steal,,turnover,,J. Holiday,K. Caldwell-Pope
 4,1,11:09.0,3,2,DET,NOP,6,home,JS,,25,make3,3,K. Caldwell-Pope,
 5,1,10:59.0,3,2,DET,NOP,10,away,JS,,27,miss3,0,B. Hield,
 6,1,10:59.0,3,2,DET,NOP,0,home,DefReb,,,DefReb,,M. Morris,
@@ -11,10 +11,10 @@
 9,1,10:30.0,3,4,DET,NOP,16,away,HS,,6,make2,2,A. Davis,
 10,1,10:17.0,3,4,DET,NOP,13,home,JS,,26,miss3,0,R. Jackson,
 11,1,10:17.0,3,4,DET,NOP,0,away,DefReb,,,DefReb,,B. Hield,
-12,1,10:10.0,3,4,DET,NOP,7,away,BadPass,steal,,turnover,,B. Hield,A. Drummond
+12,1,10:10.0,3,4,DET,NOP,7,away,bad pass,steal,,turnover,,B. Hield,A. Drummond
 13,1,10:04.0,5,4,DET,NOP,6,home,LU,assist,0,make2,2,K. Caldwell-Pope,R. Jackson
 14,1,9:39.0,5,6,DET,NOP,25,away,JS,,9,make2,2,A. Davis,
-15,1,9:27.0,5,6,DET,NOP,12,home,LostBall,steal,,turnover,,K. Caldwell-Pope,B. Hield
+15,1,9:27.0,5,6,DET,NOP,12,home,lost ball,steal,,turnover,,K. Caldwell-Pope,B. Hield
 16,1,9:18.0,5,6,DET,NOP,9,away,JS,,26,miss3,0,B. Hield,
 17,1,9:18.0,5,6,DET,NOP,0,home,DefReb,,,DefReb,,J. Leuer,
 18,1,9:06.0,5,6,DET,NOP,12,home,JS,,24,miss3,0,J. Leuer,
@@ -24,7 +24,7 @@
 22,1,8:40.0,6,8,DET,NOP,0,home,FreeThrow,,,make1,1,K. Caldwell-Pope,
 23,1,8:40.0,7,8,DET,NOP,0,home,FreeThrow,,,make1,1,K. Caldwell-Pope,
 24,1,8:40.0,8,8,DET,NOP,0,home,FreeThrow,,,make1,1,K. Caldwell-Pope,
-25,1,8:23.0,8,8,DET,NOP,17,away,LostBall,steal,,turnover,,A. Davis,A. Drummond
+25,1,8:23.0,8,8,DET,NOP,17,away,lost ball,steal,,turnover,,A. Davis,A. Drummond
 26,1,8:20.0,8,8,DET,NOP,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Hill,M. Morris
 27,1,8:08.0,8,8,DET,NOP,12,home,LU,block,2,miss2,0,M. Morris,A. Davis
 28,1,8:07.0,8,8,DET,NOP,1,away,DefReb,,,DefReb,,S. Hill,
@@ -58,7 +58,7 @@
 56,1,4:53.0,18,17,DET,NOP,0,away,Sub,,,,,D. Motiejūnas,S. Hill
 57,1,4:53.0,18,17,DET,NOP,0,away,Sub,,,,,D. Cunningham,T. Jones
 58,1,4:37.0,18,19,DET,NOP,16,away,DK,assist,0,make2,2,A. Davis,J. Holiday
-59,1,4:27.0,18,19,DET,NOP,10,home,BadPass,steal,,turnover,,A. Drummond,J. Holiday
+59,1,4:27.0,18,19,DET,NOP,10,home,bad pass,steal,,turnover,,A. Drummond,J. Holiday
 60,1,4:13.0,18,19,DET,NOP,14,away,JS,,25,miss3,0,D. Cunningham,
 61,1,4:13.0,18,19,DET,NOP,0,home,DefReb,,,DefReb,,T. Harris,
 62,1,4:02.0,20,19,DET,NOP,11,home,JS,,15,make2,2,R. Jackson,
@@ -76,7 +76,7 @@
 74,1,2:06.0,27,26,DET,NOP,0,away,Timeout,,,,,,
 75,1,2:06.0,27,26,DET,NOP,0,home,Sub,,,,,S. Johnson,M. Morris
 76,1,2:06.0,27,26,DET,NOP,0,away,Sub,,,,,T. Evans,J. Holiday
-77,1,1:53.0,27,26,DET,NOP,13,away,BadPass,steal,,turnover,,T. Evans,A. Drummond
+77,1,1:53.0,27,26,DET,NOP,13,away,bad pass,steal,,turnover,,T. Evans,A. Drummond
 78,1,1:39.0,29,26,DET,NOP,14,home,LU,,1,make2,2,T. Harris,
 79,1,1:20.0,29,28,DET,NOP,19,away,LU,assist,1,make2,2,A. Davis,E. Moore
 80,1,1:02.0,31,28,DET,NOP,18,home,JS,assist,7,make2,2,A. Drummond,S. Johnson
@@ -134,7 +134,7 @@
 132,2,6:29.0,50,39,DET,NOP,14,home,JS,,12,make2,2,I. Smith,
 133,2,6:08.0,50,39,DET,NOP,21,away,JS,,26,miss3,0,J. Holiday,
 134,2,6:08.0,50,39,DET,NOP,0,home,DefReb,,,DefReb,,A. Baynes,
-135,2,6:02.0,50,39,DET,NOP,6,home,BadPass,steal,,turnover,,I. Smith,A. Davis
+135,2,6:02.0,50,39,DET,NOP,6,home,bad pass,steal,,turnover,,I. Smith,A. Davis
 136,2,5:57.0,50,41,DET,NOP,5,away,LU,assist,1,make2,2,T. Jones,J. Holiday
 137,2,5:47.0,50,41,DET,NOP,10,home,Timeout,,,,,,
 138,2,5:47.0,50,41,DET,NOP,0,home,Sub,,,,,R. Jackson,I. Smith
@@ -182,7 +182,7 @@
 180,2,0:03.0,60,54,DET,NOP,6,home,JS,,5,make2,2,R. Jackson,
 181,3,11:44.0,60,54,DET,NOP,16,home,JS,,27,miss3,0,K. Caldwell-Pope,
 182,3,11:44.0,60,54,DET,NOP,0,away,DefReb,,,DefReb,,Team,
-183,3,11:33.0,60,54,DET,NOP,11,away,BadPass,steal,,turnover,,J. Holiday,K. Caldwell-Pope
+183,3,11:33.0,60,54,DET,NOP,11,away,bad pass,steal,,turnover,,J. Holiday,K. Caldwell-Pope
 184,3,11:33.0,60,54,DET,NOP,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Hield,K. Caldwell-Pope
 185,3,11:25.0,60,54,DET,NOP,8,home,JS,,26,miss3,0,J. Leuer,
 186,3,11:24.0,60,54,DET,NOP,1,away,DefReb,,,DefReb,,B. Hield,
@@ -225,7 +225,7 @@
 223,3,6:17.0,66,66,DET,NOP,8,away,LU,,4,miss2,0,J. Holiday,
 224,3,6:17.0,66,66,DET,NOP,0,away,OffReb,,,OffReb,,A. Davis,
 225,3,6:16.0,66,68,DET,NOP,1,away,DK,,0,make2,2,A. Davis,
-226,3,5:58.0,66,68,DET,NOP,18,home,BadPass,steal,,turnover,,R. Jackson,A. Davis
+226,3,5:58.0,66,68,DET,NOP,18,home,bad pass,steal,,turnover,,R. Jackson,A. Davis
 227,3,5:47.0,66,71,DET,NOP,11,away,JS,assist,25,make3,3,S. Hill,B. Hield
 228,3,5:29.0,66,71,DET,NOP,18,home,JS,,24,miss3,0,R. Jackson,
 229,3,5:28.0,66,71,DET,NOP,1,away,DefReb,,,DefReb,,A. Davis,
@@ -241,9 +241,9 @@
 239,3,4:30.0,68,74,DET,NOP,0,home,DefReb,,,DefReb,,T. Harris,
 240,3,4:22.0,68,74,DET,NOP,8,home,JS,,27,miss3,0,T. Harris,
 241,3,4:22.0,68,74,DET,NOP,0,away,DefReb,,,DefReb,,T. Jones,
-242,3,4:14.0,68,74,DET,NOP,8,away,LostBall,steal,,turnover,,A. Davis,T. Harris
+242,3,4:14.0,68,74,DET,NOP,8,away,lost ball,steal,,turnover,,A. Davis,T. Harris
 243,3,4:02.0,70,74,DET,NOP,12,home,JS,assist,10,make2,2,K. Caldwell-Pope,S. Johnson
-244,3,3:52.0,70,74,DET,NOP,10,away,BadPass,steal,,turnover,,A. Davis,K. Caldwell-Pope
+244,3,3:52.0,70,74,DET,NOP,10,away,bad pass,steal,,turnover,,A. Davis,K. Caldwell-Pope
 245,3,3:47.0,72,74,DET,NOP,5,home,LU,,1,make2,2,K. Caldwell-Pope,
 246,3,3:47.0,72,74,DET,NOP,0,away,Timeout,,,,,,
 247,3,3:47.0,72,74,DET,NOP,0,away,Sub,,,,,T. Evans,T. Jones
@@ -255,7 +255,7 @@
 253,3,3:00.0,72,74,DET,NOP,0,home,DefReb,,,DefReb,,Team,
 254,3,2:40.0,72,74,DET,NOP,20,home,JS,,12,miss2,0,T. Harris,
 255,3,2:39.0,72,74,DET,NOP,1,home,OffReb,,,OffReb,,S. Johnson,
-256,3,2:34.0,72,74,DET,NOP,5,home,BadPass,steal,,turnover,,I. Smith,E. Moore
+256,3,2:34.0,72,74,DET,NOP,5,home,bad pass,steal,,turnover,,I. Smith,E. Moore
 257,3,2:29.0,72,76,DET,NOP,5,away,LU,,0,make2,2,E. Moore,
 258,3,2:03.0,72,76,DET,NOP,26,home,JS,,27,miss3,0,I. Smith,
 259,3,2:03.0,72,76,DET,NOP,0,away,DefReb,,,DefReb,,Team,
@@ -270,7 +270,7 @@
 268,3,1:11.0,75,76,DET,NOP,0,home,FreeThrow,,,make1,1,T. Harris,
 269,3,0:54.0,75,78,DET,NOP,17,away,HS,,5,make2,2,T. Evans,
 270,3,0:34.0,77,78,DET,NOP,20,home,JS,,6,make2,2,T. Harris,
-271,3,0:33.0,77,78,DET,NOP,1,away,BadPass,steal,,turnover,,A. Davis,S. Johnson
+271,3,0:33.0,77,78,DET,NOP,1,away,bad pass,steal,,turnover,,A. Davis,S. Johnson
 272,3,0:28.0,80,78,DET,NOP,5,home,JS,assist,24,make3,3,K. Caldwell-Pope,I. Smith
 273,3,0:08.0,80,80,DET,NOP,20,away,LU,,1,make2,2,T. Evans,
 274,3,0:08.0,80,80,DET,NOP,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Baynes,T. Evans
@@ -377,7 +377,7 @@
 375,4,1:36.0,113,96,DET,NOP,8,away,BadPass,,,turnover,,J. Holiday,
 376,4,1:36.0,113,96,DET,NOP,0,away,Sub,,,,,D. Motiejūnas,A. Davis
 377,4,1:24.0,116,96,DET,NOP,12,home,JS,assist,25,make3,3,K. Caldwell-Pope,M. Morris
-378,4,1:16.0,116,96,DET,NOP,8,away,LostBall,steal,,turnover,,J. Holiday,K. Caldwell-Pope
+378,4,1:16.0,116,96,DET,NOP,8,away,lost ball,steal,,turnover,,J. Holiday,K. Caldwell-Pope
 379,4,1:01.0,116,96,DET,NOP,15,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. Moore,K. Caldwell-Pope
 380,4,1:01.0,116,96,DET,NOP,0,home,FreeThrow,,,make1,0,K. Caldwell-Pope,
 381,4,1:01.0,116,96,DET,NOP,0,home,OffReb,,,OffReb,,Team,
@@ -389,6 +389,6 @@
 387,4,0:35.0,118,98,DET,NOP,17,home,LU,,0,make2,2,I. Smith,
 388,4,0:24.0,118,98,DET,NOP,11,away,JS,,28,miss3,0,J. Holiday,
 389,4,0:23.0,118,98,DET,NOP,1,home,DefReb,,,DefReb,,A. Baynes,
-390,4,0:10.0,118,98,DET,NOP,13,home,LostBall,steal,,turnover,,K. Caldwell-Pope,J. Holiday
+390,4,0:10.0,118,98,DET,NOP,13,home,lost ball,steal,,turnover,,K. Caldwell-Pope,J. Holiday
 391,4,0:04.0,118,98,DET,NOP,6,away,JS,,27,miss3,0,B. Hield,
 392,4,0:03.0,118,98,DET,NOP,1,home,DefReb,,,DefReb,,Team,

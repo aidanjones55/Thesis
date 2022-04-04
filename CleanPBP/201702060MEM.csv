@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:42.0,0,0,MEM,SAS,18,away,BadPass,steal,,turnover,,T. Parker,M. Conley
+0,1,11:42.0,0,0,MEM,SAS,18,away,bad pass,steal,,turnover,,T. Parker,M. Conley
 1,1,11:22.0,2,0,MEM,SAS,20,home,JS,,13,make2,2,M. Gasol,
 2,1,10:57.0,2,2,MEM,SAS,25,away,JS,assist,23,make2,2,T. Parker,D. Green
 3,1,10:28.0,2,2,MEM,SAS,29,home,JS,,20,miss2,0,M. Gasol,
@@ -54,7 +54,7 @@
 52,1,4:12.0,9,10,MEM,SAS,22,away,JS,,14,make2,2,L. Aldridge,
 53,1,3:56.0,9,10,MEM,SAS,16,home,JS,,13,miss2,0,M. Gasol,
 54,1,3:54.0,9,10,MEM,SAS,2,away,DefReb,,,DefReb,,J. Simmons,
-55,1,3:46.0,9,10,MEM,SAS,8,away,BadPass,steal,,turnover,,D. Green,C. Parsons
+55,1,3:46.0,9,10,MEM,SAS,8,away,bad pass,steal,,turnover,,D. Green,C. Parsons
 56,1,3:39.0,9,10,MEM,SAS,7,home,JS,,21,miss2,0,C. Parsons,
 57,1,3:36.0,9,10,MEM,SAS,3,away,DefReb,,,DefReb,,T. Parker,
 58,1,3:17.0,9,10,MEM,SAS,19,away,JS,,24,miss3,0,L. Aldridge,
@@ -62,7 +62,7 @@
 60,1,3:09.0,11,10,MEM,SAS,8,home,JS,assist,3,make2,2,Z. Randolph,M. Conley
 61,1,2:53.0,11,10,MEM,SAS,16,away,JS,,16,miss2,0,T. Parker,
 62,1,2:52.0,11,10,MEM,SAS,1,home,DefReb,,,DefReb,,V. Carter,
-63,1,2:44.0,11,10,MEM,SAS,8,home,BadPass,steal,,turnover,,V. Carter,J. Simmons
+63,1,2:44.0,11,10,MEM,SAS,8,home,bad pass,steal,,turnover,,V. Carter,J. Simmons
 64,1,2:35.0,11,10,MEM,SAS,9,away,JS,,24,miss3,0,J. Simmons,
 65,1,2:33.0,11,10,MEM,SAS,2,home,DefReb,,,DefReb,,Z. Randolph,
 66,1,2:28.0,11,10,MEM,SAS,5,home,Timeout,,,,,,
@@ -100,9 +100,9 @@
 98,2,10:42.0,19,18,MEM,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,Z. Randolph,D. Lee
 99,2,10:42.0,19,18,MEM,SAS,0,away,FreeThrow,,,make1,0,D. Lee,
 100,2,10:41.0,19,18,MEM,SAS,1,home,DefReb,,,DefReb,,J. Green,
-101,2,10:29.0,19,18,MEM,SAS,12,home,BadPass,steal,,turnover,,Z. Randolph,P. Mills
+101,2,10:29.0,19,18,MEM,SAS,12,home,bad pass,steal,,turnover,,Z. Randolph,P. Mills
 102,2,10:27.0,19,18,MEM,SAS,2,away,LostBall,,,turnover,,P. Mills,
-103,2,10:12.0,19,18,MEM,SAS,15,home,BadPass,steal,,turnover,,J. Green,D. Lee
+103,2,10:12.0,19,18,MEM,SAS,15,home,bad pass,steal,,turnover,,J. Green,D. Lee
 104,2,9:58.0,19,20,MEM,SAS,14,away,LU,,2,make2,2,K. Anderson,
 105,2,9:42.0,19,20,MEM,SAS,16,home,PersonalFoul,,,,,P. Mills,
 106,2,9:34.0,21,20,MEM,SAS,8,home,LU,,1,make2,2,V. Carter,
@@ -149,7 +149,7 @@
 147,2,5:09.0,28,27,MEM,SAS,2,home,OffReb,,,OffReb,,M. Gasol,
 148,2,4:54.0,28,27,MEM,SAS,15,home,LU,,2,miss2,0,C. Parsons,
 149,2,4:52.0,28,27,MEM,SAS,2,away,DefReb,,,DefReb,,D. Dedmon,
-150,2,4:42.0,28,27,MEM,SAS,10,away,BadPass,steal,,turnover,,L. Aldridge,T. Allen
+150,2,4:42.0,28,27,MEM,SAS,10,away,bad pass,steal,,turnover,,L. Aldridge,T. Allen
 151,2,4:35.0,28,27,MEM,SAS,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Aldridge,B. Wright
 152,2,4:35.0,29,27,MEM,SAS,0,home,FreeThrow,,,make1,1,B. Wright,
 153,2,4:35.0,29,27,MEM,SAS,0,home,FreeThrow,,,make1,0,B. Wright,
@@ -218,7 +218,7 @@
 216,3,9:50.0,41,42,MEM,SAS,3,home,LostBall,,,turnover,,C. Parsons,
 217,3,9:29.0,41,44,MEM,SAS,21,away,LU,assist,3,make2,2,D. Dedmon,T. Parker
 218,3,9:15.0,43,44,MEM,SAS,14,home,JS,,17,make2,2,M. Conley,
-219,3,8:54.0,43,44,MEM,SAS,21,away,BadPass,steal,,turnover,,D. Green,J. Green
+219,3,8:54.0,43,44,MEM,SAS,21,away,bad pass,steal,,turnover,,D. Green,J. Green
 220,3,8:47.0,45,44,MEM,SAS,7,home,LU,assist,2,make2,2,T. Allen,J. Green
 221,3,8:47.0,45,44,MEM,SAS,0,away,Timeout,,,,,,
 222,3,8:31.0,45,46,MEM,SAS,16,away,HS,,4,make2,2,L. Aldridge,
@@ -257,14 +257,14 @@
 255,3,5:01.0,56,50,MEM,SAS,2,away,DefReb,,,DefReb,,T. Parker,
 256,3,4:55.0,56,50,MEM,SAS,6,away,JS,,24,miss3,0,D. Green,
 257,3,4:51.0,56,50,MEM,SAS,4,away,OffReb,,,OffReb,,L. Aldridge,
-258,3,4:50.0,56,50,MEM,SAS,1,away,LostBall,steal,,turnover,,L. Aldridge,T. Allen
+258,3,4:50.0,56,50,MEM,SAS,1,away,lost ball,steal,,turnover,,L. Aldridge,T. Allen
 259,3,4:44.0,58,50,MEM,SAS,6,home,LU,,3,make2,2,T. Allen,
 260,3,4:44.0,58,50,MEM,SAS,0,away,Timeout,,,,,,
 261,3,4:44.0,58,50,MEM,SAS,0,away,Sub,,,,,P. Mills,T. Parker
 262,3,4:44.0,58,50,MEM,SAS,0,home,Sub,,,,,Z. Randolph,J. Green
 263,3,4:44.0,58,50,MEM,SAS,0,home,Sub,,,,,T. Douglas,M. Conley
-264,3,4:29.0,58,50,MEM,SAS,15,away,LostBall,steal,,turnover,,P. Mills,T. Douglas
-265,3,4:10.0,58,50,MEM,SAS,19,home,BadPass,steal,,turnover,,V. Carter,M. Ginóbili
+264,3,4:29.0,58,50,MEM,SAS,15,away,lost ball,steal,,turnover,,P. Mills,T. Douglas
+265,3,4:10.0,58,50,MEM,SAS,19,home,bad pass,steal,,turnover,,V. Carter,M. Ginóbili
 266,3,4:04.0,58,53,MEM,SAS,6,away,JS,assist,25,make3,3,D. Green,P. Mills
 267,3,3:41.0,58,53,MEM,SAS,23,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Aldridge,M. Gasol
 268,3,3:41.0,59,53,MEM,SAS,0,home,FreeThrow,,,make1,1,M. Gasol,
@@ -281,7 +281,7 @@
 279,3,2:46.0,62,58,MEM,SAS,13,away,JS,,25,make3,3,M. Ginóbili,
 280,3,2:24.0,62,58,MEM,SAS,22,home,LU,block,3,miss2,0,V. Carter,D. Lee
 281,3,2:23.0,62,58,MEM,SAS,1,home,OffReb,,,OffReb,,M. Gasol,
-282,3,2:20.0,62,58,MEM,SAS,3,home,LostBall,steal,,turnover,,M. Gasol,K. Anderson
+282,3,2:20.0,62,58,MEM,SAS,3,home,lost ball,steal,,turnover,,M. Gasol,K. Anderson
 283,3,2:15.0,62,61,MEM,SAS,5,away,JS,,25,make3,3,M. Ginóbili,
 284,3,1:51.0,62,61,MEM,SAS,24,home,JS,,24,miss3,0,V. Carter,
 285,3,1:50.0,62,61,MEM,SAS,1,away,DefReb,,,DefReb,,D. Dedmon,
@@ -320,7 +320,7 @@
 318,4,11:22.0,71,65,MEM,SAS,3,away,DefReb,,,DefReb,,D. Dedmon,
 319,4,11:15.0,71,65,MEM,SAS,7,away,JS,,22,miss2,0,P. Mills,
 320,4,11:14.0,71,65,MEM,SAS,1,home,DefReb,,,DefReb,,Team,
-321,4,11:00.0,71,65,MEM,SAS,14,home,BadPass,steal,,turnover,,M. Conley,D. Bertāns
+321,4,11:00.0,71,65,MEM,SAS,14,home,bad pass,steal,,turnover,,M. Conley,D. Bertāns
 322,4,10:51.0,71,65,MEM,SAS,9,away,LU,block,3,miss2,0,D. Bertāns,B. Wright
 323,4,10:51.0,71,65,MEM,SAS,0,away,OffReb,,,OffReb,,Team,
 324,4,10:49.0,71,65,MEM,SAS,2,away,JS,,18,miss2,0,D. Bertāns,
@@ -369,7 +369,7 @@
 367,4,7:43.0,75,68,MEM,SAS,0,home,OffReb,,,OffReb,,Team,
 368,4,7:43.0,76,68,MEM,SAS,0,home,FreeThrow,,,make1,1,M. Gasol,
 369,4,7:25.0,76,70,MEM,SAS,18,away,JS,assist,21,make2,2,K. Anderson,T. Parker
-370,4,7:04.0,76,70,MEM,SAS,21,home,BadPass,steal,,turnover,,M. Conley,T. Parker
+370,4,7:04.0,76,70,MEM,SAS,21,home,bad pass,steal,,turnover,,M. Conley,T. Parker
 371,4,6:56.0,76,70,MEM,SAS,8,away,LU,block,1,miss2,0,L. Aldridge,V. Carter
 372,4,6:53.0,76,70,MEM,SAS,3,home,DefReb,,,DefReb,,M. Gasol,
 373,4,6:39.0,78,70,MEM,SAS,14,home,LU,assist,2,make2,2,Z. Randolph,V. Carter
@@ -404,7 +404,7 @@
 402,4,4:42.0,83,72,MEM,SAS,0,home,OffensiveFoul,,,turnover,,M. Gasol,
 403,4,4:32.0,83,72,MEM,SAS,10,away,JS,,8,miss2,0,T. Parker,
 404,4,4:26.0,83,72,MEM,SAS,6,home,DefReb,,,DefReb,,M. Gasol,
-405,4,4:24.0,83,72,MEM,SAS,2,home,LostBall,steal,,turnover,,J. Ennis,J. Simmons
+405,4,4:24.0,83,72,MEM,SAS,2,home,lost ball,steal,,turnover,,J. Ennis,J. Simmons
 406,4,4:17.0,83,72,MEM,SAS,7,home,ChargeFoul,DrawnBy,,ChargeFoul,,T. Parker,M. Conley
 407,4,4:17.0,83,72,MEM,SAS,0,away,OffensiveFoul,,,turnover,,T. Parker,
 408,4,4:17.0,83,72,MEM,SAS,0,home,Sub,,,,,Z. Randolph,J. Green
@@ -418,7 +418,7 @@
 416,4,3:24.0,84,72,MEM,SAS,0,away,Sub,,,,,M. Ginóbili,J. Simmons
 417,4,3:24.0,84,72,MEM,SAS,0,away,Sub,,,,,D. Murray,T. Parker
 418,4,3:24.0,85,72,MEM,SAS,0,home,FreeThrow,,,make1,1,M. Conley,
-419,4,3:18.0,85,72,MEM,SAS,6,away,BadPass,steal,,turnover,,D. Murray,M. Conley
+419,4,3:18.0,85,72,MEM,SAS,6,away,bad pass,steal,,turnover,,D. Murray,M. Conley
 420,4,3:10.0,87,72,MEM,SAS,8,home,DK,assist,0,make2,2,J. Ennis,M. Conley
 421,4,3:04.0,87,72,MEM,SAS,6,away,Timeout,,,,,,
 422,4,3:04.0,87,72,MEM,SAS,0,away,Sub,,,,,D. Bertāns,L. Aldridge
@@ -440,7 +440,7 @@
 438,4,1:40.0,87,72,MEM,SAS,1,home,OffReb,,,OffReb,,J. Green,
 439,4,1:16.0,87,72,MEM,SAS,24,home,JS,,26,miss3,0,T. Daniels,
 440,4,1:16.0,87,72,MEM,SAS,0,away,DefReb,,,DefReb,,Team,
-441,4,1:08.0,87,72,MEM,SAS,8,away,LostBall,steal,,turnover,,D. Murray,T. Douglas
+441,4,1:08.0,87,72,MEM,SAS,8,away,lost ball,steal,,turnover,,D. Murray,T. Douglas
 442,4,1:01.0,87,72,MEM,SAS,7,home,JS,,23,miss3,0,T. Douglas,
 443,4,1:00.0,87,72,MEM,SAS,1,home,OffReb,,,OffReb,,B. Wright,
 444,4,1:00.0,89,72,MEM,SAS,0,home,DK,,0,make2,2,B. Wright,

@@ -18,12 +18,12 @@
 16,1,9:36.0,5,4,BOS,MEM,9,away,LostBall,,,turnover,,J. Green,
 17,1,9:20.0,5,4,BOS,MEM,16,home,BadPass,,,turnover,,A. Horford,
 18,1,9:10.0,5,7,BOS,MEM,10,away,JS,assist,25,make3,3,M. Gasol,J. Green
-19,1,8:53.0,5,7,BOS,MEM,17,home,BadPass,steal,,turnover,,A. Horford,J. Green
+19,1,8:53.0,5,7,BOS,MEM,17,home,bad pass,steal,,turnover,,A. Horford,J. Green
 20,1,8:41.0,5,7,BOS,MEM,12,away,JS,,6,miss2,0,T. Allen,
 21,1,8:40.0,5,7,BOS,MEM,1,home,DefReb,,,DefReb,,A. Johnson,
 22,1,8:35.0,7,7,BOS,MEM,5,home,JS,,4,make2,2,I. Thomas,
 23,1,8:04.0,7,9,BOS,MEM,31,away,JS,,5,make2,2,M. Gasol,
-24,1,7:44.0,7,9,BOS,MEM,20,home,BadPass,steal,,turnover,,A. Horford,T. Allen
+24,1,7:44.0,7,9,BOS,MEM,20,home,bad pass,steal,,turnover,,A. Horford,T. Allen
 25,1,7:38.0,7,9,BOS,MEM,6,away,LU,block,1,miss2,0,J. Green,A. Horford
 26,1,7:36.0,7,9,BOS,MEM,2,home,DefReb,,,DefReb,,A. Bradley,
 27,1,7:32.0,9,9,BOS,MEM,4,home,DK,assist,0,make2,2,A. Johnson,A. Bradley
@@ -35,7 +35,7 @@
 33,1,6:36.0,13,15,BOS,MEM,18,away,JS,,25,make3,3,J. Ennis,
 34,1,6:18.0,15,15,BOS,MEM,18,home,LU,assist,1,make2,2,A. Johnson,A. Horford
 35,1,6:14.0,15,15,BOS,MEM,4,away,Timeout,,,,,,
-36,1,6:13.0,15,15,BOS,MEM,1,away,BadPass,steal,,turnover,,J. Ennis,A. Bradley
+36,1,6:13.0,15,15,BOS,MEM,1,away,bad pass,steal,,turnover,,J. Ennis,A. Bradley
 37,1,6:09.0,15,15,BOS,MEM,4,home,LU,,1,miss2,0,A. Bradley,
 38,1,6:08.0,15,15,BOS,MEM,1,home,OffReb,,,OffReb,,A. Horford,
 39,1,6:08.0,17,15,BOS,MEM,0,home,DK,,0,make2,2,A. Horford,
@@ -46,7 +46,7 @@
 44,1,5:31.0,17,15,BOS,MEM,4,home,JS,,26,miss3,0,I. Thomas,
 45,1,5:30.0,17,15,BOS,MEM,1,away,DefReb,,,DefReb,,T. Allen,
 46,1,5:15.0,17,17,BOS,MEM,15,away,JS,,12,make2,2,M. Gasol,
-47,1,4:57.0,17,17,BOS,MEM,18,home,BadPass,steal,,turnover,,J. Crowder,T. Allen
+47,1,4:57.0,17,17,BOS,MEM,18,home,bad pass,steal,,turnover,,J. Crowder,T. Allen
 48,1,4:54.0,17,19,BOS,MEM,3,away,DK,,0,make2,2,T. Allen,
 49,1,4:53.0,17,19,BOS,MEM,1,away,JumpBallViolation,,,JumpBallViolation,,Team,
 50,1,4:41.0,17,19,BOS,MEM,12,home,HS,,8,miss2,0,A. Horford,
@@ -69,7 +69,7 @@
 67,1,3:40.0,21,19,BOS,MEM,1,home,DefReb,,,DefReb,,J. Crowder,
 68,1,3:17.0,21,19,BOS,MEM,23,home,JS,,25,miss3,0,M. Smart,
 69,1,3:16.0,21,19,BOS,MEM,1,home,OffReb,,,OffReb,,A. Johnson,
-70,1,3:14.0,21,19,BOS,MEM,2,home,BadPass,steal,,turnover,,A. Johnson,J. Ennis
+70,1,3:14.0,21,19,BOS,MEM,2,home,bad pass,steal,,turnover,,A. Johnson,J. Ennis
 71,1,3:13.0,21,19,BOS,MEM,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crowder,J. Ennis
 72,1,3:13.0,21,19,BOS,MEM,0,away,Sub,,,,,T. Daniels,J. Ennis
 73,1,3:01.0,21,19,BOS,MEM,12,away,JS,,9,miss2,0,V. Carter,
@@ -86,7 +86,7 @@
 84,1,1:57.0,24,19,BOS,MEM,1,home,DefReb,,,DefReb,,J. Jerebko,
 85,1,1:45.0,26,19,BOS,MEM,12,home,LU,assist,2,make2,2,A. Bradley,J. Jerebko
 86,1,1:22.0,26,21,BOS,MEM,23,away,HS,assist,4,make2,2,Z. Randolph,V. Carter
-87,1,1:13.0,26,21,BOS,MEM,9,home,LostBall,steal,,turnover,,K. Olynyk,V. Carter
+87,1,1:13.0,26,21,BOS,MEM,9,home,lost ball,steal,,turnover,,K. Olynyk,V. Carter
 88,1,1:01.0,26,21,BOS,MEM,12,away,JS,,18,miss2,0,Z. Randolph,
 89,1,1:00.0,26,21,BOS,MEM,1,home,DefReb,,,DefReb,,K. Olynyk,
 90,1,0:49.0,26,21,BOS,MEM,11,home,JS,,25,miss3,0,J. Jerebko,
@@ -135,7 +135,7 @@
 133,2,8:39.0,40,32,BOS,MEM,5,home,JS,,25,miss3,0,I. Thomas,
 134,2,8:38.0,40,32,BOS,MEM,1,home,OffReb,,,OffReb,,G. Green,
 135,2,8:34.0,43,32,BOS,MEM,4,home,JS,,26,make3,3,G. Green,
-136,2,8:16.0,43,32,BOS,MEM,18,away,LostBall,steal,,turnover,,M. Gasol,A. Johnson
+136,2,8:16.0,43,32,BOS,MEM,18,away,lost ball,steal,,turnover,,M. Gasol,A. Johnson
 137,2,8:08.0,43,32,BOS,MEM,8,home,JS,,25,miss3,0,G. Green,
 138,2,8:07.0,43,32,BOS,MEM,1,away,DefReb,,,DefReb,,Z. Randolph,
 139,2,7:53.0,43,32,BOS,MEM,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,M. Gasol
@@ -179,7 +179,7 @@
 177,2,4:59.0,49,39,BOS,MEM,2,home,OffReb,,,OffReb,,A. Johnson,
 178,2,4:52.0,49,39,BOS,MEM,7,home,JS,,16,miss2,0,M. Smart,
 179,2,4:51.0,49,39,BOS,MEM,1,away,DefReb,,,DefReb,,A. Harrison,
-180,2,4:49.0,49,39,BOS,MEM,2,away,LostBall,steal,,turnover,,A. Harrison,A. Bradley
+180,2,4:49.0,49,39,BOS,MEM,2,away,lost ball,steal,,turnover,,A. Harrison,A. Bradley
 181,2,4:48.0,49,39,BOS,MEM,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Harrison,A. Bradley
 182,2,4:48.0,49,39,BOS,MEM,0,away,Sub,,,,,Z. Randolph,M. Gasol
 183,2,4:40.0,49,39,BOS,MEM,8,away,KickBallViolation,,,KickBallViolation,,T. Allen,
@@ -228,7 +228,7 @@
 226,2,0:36.0,56,46,BOS,MEM,6,home,JS,,27,miss3,0,I. Thomas,
 227,2,0:35.0,56,46,BOS,MEM,1,away,DefReb,,,DefReb,,V. Carter,
 228,2,0:33.0,56,48,BOS,MEM,2,away,LU,,0,make2,2,A. Harrison,
-229,2,0:17.0,56,48,BOS,MEM,16,home,BadPass,steal,,turnover,,I. Thomas,V. Carter
+229,2,0:17.0,56,48,BOS,MEM,16,home,bad pass,steal,,turnover,,I. Thomas,V. Carter
 230,2,0:09.0,56,48,BOS,MEM,8,away,JS,,25,miss3,0,T. Daniels,
 231,2,0:08.0,56,48,BOS,MEM,1,away,OffReb,,,OffReb,,Z. Randolph,
 232,2,0:08.0,56,48,BOS,MEM,0,away,LU,,1,miss2,0,Z. Randolph,
@@ -263,13 +263,13 @@
 261,3,9:36.0,62,54,BOS,MEM,18,home,JS,assist,25,make3,3,J. Crowder,I. Thomas
 262,3,9:14.0,62,54,BOS,MEM,22,away,JS,,12,miss2,0,M. Gasol,
 263,3,9:13.0,62,54,BOS,MEM,1,home,DefReb,,,DefReb,,J. Crowder,
-264,3,9:06.0,62,54,BOS,MEM,7,home,BadPass,steal,,turnover,,J. Crowder,M. Gasol
+264,3,9:06.0,62,54,BOS,MEM,7,home,bad pass,steal,,turnover,,J. Crowder,M. Gasol
 265,3,8:51.0,62,56,BOS,MEM,15,away,JS,assist,16,make2,2,M. Gasol,A. Harrison
 266,3,8:33.0,62,56,BOS,MEM,18,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Ennis,J. Crowder
 267,3,8:33.0,63,56,BOS,MEM,0,home,FreeThrow,,,make1,1,J. Crowder,
 268,3,8:33.0,64,56,BOS,MEM,0,home,FreeThrow,,,make1,1,J. Crowder,
 269,3,8:16.0,64,58,BOS,MEM,17,away,LU,assist,1,make2,2,J. Ennis,A. Harrison
-270,3,7:55.0,64,58,BOS,MEM,21,home,BadPass,steal,,turnover,,A. Horford,J. Green
+270,3,7:55.0,64,58,BOS,MEM,21,home,bad pass,steal,,turnover,,A. Horford,J. Green
 271,3,7:49.0,64,60,BOS,MEM,6,away,LU,,2,make2,2,T. Allen,
 272,3,7:42.0,64,60,BOS,MEM,7,home,LU,block,1,miss2,0,A. Bradley,J. Green
 273,3,7:40.0,64,60,BOS,MEM,2,away,DefReb,,,DefReb,,M. Gasol,
@@ -314,7 +314,7 @@
 312,3,3:30.0,76,71,BOS,MEM,13,home,LU,assist,2,make2,2,J. Crowder,A. Bradley
 313,3,3:13.0,76,71,BOS,MEM,17,away,HS,,6,miss2,0,A. Harrison,
 314,3,3:12.0,76,71,BOS,MEM,1,home,DefReb,,,DefReb,,A. Horford,
-315,3,3:11.0,76,71,BOS,MEM,1,home,LostBall,steal,,turnover,,A. Horford,A. Harrison
+315,3,3:11.0,76,71,BOS,MEM,1,home,lost ball,steal,,turnover,,A. Horford,A. Harrison
 316,3,2:59.0,76,71,BOS,MEM,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Horford,A. Harrison
 317,3,2:59.0,76,72,BOS,MEM,0,away,FreeThrow,,,make1,1,A. Harrison,
 318,3,2:59.0,76,72,BOS,MEM,0,home,Sub,,,,,K. Olynyk,J. Crowder
@@ -336,7 +336,7 @@
 334,3,1:34.0,79,75,BOS,MEM,1,home,DefReb,,,DefReb,,K. Olynyk,
 335,3,1:21.0,82,75,BOS,MEM,13,home,JS,,28,make3,3,M. Smart,
 336,3,1:06.0,82,75,BOS,MEM,15,away,Sub,,,,,A. Harrison,V. Carter
-337,3,1:06.0,82,75,BOS,MEM,0,away,LostBall,steal,,turnover,,Z. Randolph,A. Johnson
+337,3,1:06.0,82,75,BOS,MEM,0,away,lost ball,steal,,turnover,,Z. Randolph,A. Johnson
 338,3,1:00.0,84,75,BOS,MEM,6,home,DK,assist,2,make2,2,A. Bradley,M. Smart
 339,3,0:38.0,84,77,BOS,MEM,22,away,JS,assist,18,make2,2,J. Green,A. Harrison
 340,3,0:31.0,84,77,BOS,MEM,7,home,JS,,25,miss3,0,K. Olynyk,
@@ -352,7 +352,7 @@
 350,4,11:39.0,84,79,BOS,MEM,1,away,LU,,2,make2,2,Z. Randolph,
 351,4,11:26.0,86,79,BOS,MEM,13,home,LU,assist,1,make2,2,G. Green,I. Thomas
 352,4,11:02.0,86,81,BOS,MEM,24,away,JS,,16,make2,2,Z. Randolph,
-353,4,10:50.0,86,81,BOS,MEM,12,home,BadPass,steal,,turnover,,M. Smart,T. Allen
+353,4,10:50.0,86,81,BOS,MEM,12,home,bad pass,steal,,turnover,,M. Smart,T. Allen
 354,4,10:43.0,86,81,BOS,MEM,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,M. Gasol
 355,4,10:26.0,86,81,BOS,MEM,17,away,JS,,27,miss3,0,T. Daniels,
 356,4,10:25.0,86,81,BOS,MEM,1,away,OffReb,,,OffReb,,Team,
@@ -392,7 +392,7 @@
 390,4,7:14.0,98,93,BOS,MEM,0,away,FreeThrow,,,make1,1,Z. Randolph,
 391,4,7:14.0,98,93,BOS,MEM,0,away,Sub,,,,,T. Allen,J. Ennis
 392,4,7:14.0,98,94,BOS,MEM,0,away,FreeThrow,,,make1,1,Z. Randolph,
-393,4,7:07.0,98,94,BOS,MEM,7,home,BadPass,steal,,turnover,,I. Thomas,M. Gasol
+393,4,7:07.0,98,94,BOS,MEM,7,home,bad pass,steal,,turnover,,I. Thomas,M. Gasol
 394,4,6:46.0,98,94,BOS,MEM,21,away,JS,,26,miss3,0,Z. Randolph,
 395,4,6:44.0,98,94,BOS,MEM,2,home,DefReb,,,DefReb,,Team,
 396,4,6:18.0,98,94,BOS,MEM,26,home,JS,,25,miss3,0,I. Thomas,
@@ -402,7 +402,7 @@
 400,4,6:12.0,100,94,BOS,MEM,0,home,Sub,,,,,J. Crowder,I. Thomas
 401,4,5:50.0,100,94,BOS,MEM,22,away,LU,,3,miss2,0,V. Carter,
 402,4,5:49.0,100,94,BOS,MEM,1,home,DefReb,,,DefReb,,M. Smart,
-403,4,5:30.0,100,94,BOS,MEM,19,home,BadPass,steal,,turnover,,G. Green,T. Allen
+403,4,5:30.0,100,94,BOS,MEM,19,home,bad pass,steal,,turnover,,G. Green,T. Allen
 404,4,5:07.0,100,94,BOS,MEM,23,away,JS,,25,miss3,0,A. Harrison,
 405,4,5:04.0,100,94,BOS,MEM,3,home,DefReb,,,DefReb,,G. Green,
 406,4,5:00.0,100,94,BOS,MEM,4,home,LU,,1,miss2,0,A. Horford,
@@ -412,7 +412,7 @@
 410,4,4:51.0,100,97,BOS,MEM,7,away,JS,assist,26,make3,3,M. Gasol,A. Harrison
 411,4,4:29.0,100,97,BOS,MEM,22,home,JS,,26,miss3,0,M. Smart,
 412,4,4:27.0,100,97,BOS,MEM,2,away,DefReb,,,DefReb,,Z. Randolph,
-413,4,4:07.0,100,97,BOS,MEM,20,away,LostBall,steal,,turnover,,M. Gasol,M. Smart
+413,4,4:07.0,100,97,BOS,MEM,20,away,lost ball,steal,,turnover,,M. Gasol,M. Smart
 414,4,4:04.0,100,97,BOS,MEM,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Allen,G. Green
 415,4,4:04.0,101,97,BOS,MEM,0,home,FreeThrow,,,make1,1,G. Green,
 416,4,4:04.0,101,97,BOS,MEM,0,away,Sub,,,,,J. Ennis,V. Carter
@@ -431,12 +431,12 @@
 429,4,3:06.0,105,97,BOS,MEM,0,away,Timeout,,,,,,
 430,4,2:53.0,105,97,BOS,MEM,13,away,HS,,13,miss2,0,Z. Randolph,
 431,4,2:52.0,105,97,BOS,MEM,1,home,DefReb,,,DefReb,,A. Bradley,
-432,4,2:38.0,105,97,BOS,MEM,14,home,BadPass,steal,,turnover,,M. Smart,Z. Randolph
+432,4,2:38.0,105,97,BOS,MEM,14,home,bad pass,steal,,turnover,,M. Smart,Z. Randolph
 433,4,2:26.0,105,97,BOS,MEM,12,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,I. Thomas,A. Harrison
 434,4,2:26.0,105,97,BOS,MEM,0,away,FreeThrow,,,make1,0,A. Harrison,
 435,4,2:26.0,105,97,BOS,MEM,0,away,OffReb,,,OffReb,,Team,
 436,4,2:26.0,105,98,BOS,MEM,0,away,FreeThrow,,,make1,1,A. Harrison,
-437,4,2:17.0,105,98,BOS,MEM,9,home,LostBall,steal,,turnover,,I. Thomas,A. Harrison
+437,4,2:17.0,105,98,BOS,MEM,9,home,lost ball,steal,,turnover,,I. Thomas,A. Harrison
 438,4,2:01.0,105,101,BOS,MEM,16,away,JS,assist,25,make3,3,J. Ennis,A. Harrison
 439,4,1:43.0,107,101,BOS,MEM,18,home,JS,assist,21,make2,2,J. Crowder,A. Horford
 440,4,1:29.0,107,101,BOS,MEM,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bradley,T. Allen
@@ -456,7 +456,7 @@
 454,4,0:54.0,111,103,BOS,MEM,0,away,Sub,,,,,T. Daniels,T. Allen
 455,4,0:54.0,111,103,BOS,MEM,0,home,FreeThrow,,,make1,1,M. Smart,
 456,4,0:54.0,111,103,BOS,MEM,0,away,Timeout,,,,,,
-457,4,0:49.0,111,103,BOS,MEM,5,away,BadPass,steal,,turnover,,Z. Randolph,M. Smart
+457,4,0:49.0,111,103,BOS,MEM,5,away,bad pass,steal,,turnover,,Z. Randolph,M. Smart
 458,4,0:40.0,111,103,BOS,MEM,9,home,Timeout,,,,,,
 459,4,0:40.0,111,103,BOS,MEM,0,home,Sub,,,,,I. Thomas,A. Johnson
 460,4,0:40.0,111,103,BOS,MEM,0,away,Sub,,,,,J. Green,Z. Randolph

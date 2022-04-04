@@ -38,7 +38,7 @@
 36,1,7:00.0,15,7,IND,CHO,18,home,BadPass,,,turnover,,J. Teague,
 37,1,6:49.0,15,7,IND,CHO,11,away,LU,,2,miss2,0,C. Zeller,
 38,1,6:48.0,15,7,IND,CHO,1,home,DefReb,,,DefReb,,T. Young,
-39,1,6:43.0,15,7,IND,CHO,5,home,LostBall,steal,,turnover,,T. Young,M. Kidd-Gilchrist
+39,1,6:43.0,15,7,IND,CHO,5,home,lost ball,steal,,turnover,,T. Young,M. Kidd-Gilchrist
 40,1,6:43.0,15,7,IND,CHO,0,away,Timeout,,,,,,
 41,1,6:35.0,15,7,IND,CHO,8,away,JS,,21,miss2,0,N. Batum,
 42,1,6:32.0,15,7,IND,CHO,3,home,DefReb,,,DefReb,,G. Robinson,
@@ -51,7 +51,7 @@
 49,1,5:41.0,15,7,IND,CHO,11,away,JS,block,4,miss2,0,M. Kidd-Gilchrist,G. Robinson
 50,1,5:41.0,15,7,IND,CHO,0,away,OffReb,,,OffReb,,M. Kidd-Gilchrist,
 51,1,5:28.0,15,10,IND,CHO,13,away,JS,assist,27,make3,3,N. Batum,K. Walker
-52,1,5:16.0,15,10,IND,CHO,12,home,BadPass,steal,,turnover,,J. Teague,K. Walker
+52,1,5:16.0,15,10,IND,CHO,12,home,bad pass,steal,,turnover,,J. Teague,K. Walker
 53,1,5:15.0,15,10,IND,CHO,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Teague,C. Zeller
 54,1,5:15.0,15,10,IND,CHO,0,away,Sub,,,,,M. Belinelli,M. Williams
 55,1,5:15.0,15,10,IND,CHO,0,away,Sub,,,,,F. Kaminsky,M. Kidd-Gilchrist
@@ -94,7 +94,7 @@
 92,1,1:24.0,20,15,IND,CHO,14,home,JS,,20,miss2,0,A. Jefferson,
 93,1,1:23.0,20,15,IND,CHO,1,away,DefReb,,,DefReb,,M. Belinelli,
 94,1,1:11.0,20,17,IND,CHO,12,away,HS,,9,make2,2,R. Hibbert,
-95,1,0:57.0,20,17,IND,CHO,14,home,LostBall,steal,,turnover,,P. George,F. Kaminsky
+95,1,0:57.0,20,17,IND,CHO,14,home,lost ball,steal,,turnover,,P. George,F. Kaminsky
 96,1,0:48.0,20,19,IND,CHO,9,away,JS,assist,20,make2,2,R. Hibbert,R. Sessions
 97,1,0:36.0,22,19,IND,CHO,12,home,JS,,19,make2,2,R. Stuckey,
 98,1,0:19.0,22,19,IND,CHO,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Jefferson,R. Sessions
@@ -158,7 +158,7 @@
 156,2,6:14.0,37,31,IND,CHO,0,away,FreeThrow,,,make1,1,R. Hibbert,
 157,2,6:00.0,39,31,IND,CHO,14,home,JS,,17,make2,2,P. George,
 158,2,5:43.0,39,33,IND,CHO,17,away,JS,,10,make2,2,M. Williams,
-159,2,5:26.0,39,33,IND,CHO,17,home,BadPass,steal,,turnover,,P. George,M. Williams
+159,2,5:26.0,39,33,IND,CHO,17,home,bad pass,steal,,turnover,,P. George,M. Williams
 160,2,5:20.0,39,33,IND,CHO,6,away,JS,,26,miss3,0,J. Lamb,
 161,2,5:19.0,39,33,IND,CHO,1,home,DefReb,,,DefReb,,J. Teague,
 162,2,5:12.0,39,33,IND,CHO,7,home,JS,,27,miss3,0,C. Miles,
@@ -228,7 +228,7 @@
 226,2,0:09.0,45,43,IND,CHO,1,away,DefReb,,,DefReb,,C. Zeller,
 227,2,0:01.0,45,43,IND,CHO,8,away,LU,block,3,miss2,0,K. Walker,L. Allen
 228,2,0:00.0,45,43,IND,CHO,1,away,OffReb,,,OffReb,,Team,
-229,3,11:46.0,45,43,IND,CHO,14,home,BadPass,steal,,turnover,,J. Teague,M. Williams
+229,3,11:46.0,45,43,IND,CHO,14,home,bad pass,steal,,turnover,,J. Teague,M. Williams
 230,3,11:43.0,45,43,IND,CHO,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Teague,M. Williams
 231,3,11:43.0,45,44,IND,CHO,0,away,FreeThrow,,,make1,1,M. Williams,
 232,3,11:43.0,45,45,IND,CHO,0,away,FreeThrow,,,make1,1,M. Williams,
@@ -246,13 +246,13 @@
 244,3,10:21.0,50,45,IND,CHO,2,home,DefReb,,,DefReb,,J. Teague,
 245,3,10:13.0,50,45,IND,CHO,8,home,JS,,23,miss3,0,M. Turner,
 246,3,10:13.0,50,45,IND,CHO,0,away,DefReb,,,DefReb,,Team,
-247,3,10:00.0,50,45,IND,CHO,13,away,BadPass,steal,,turnover,,N. Batum,M. Turner
+247,3,10:00.0,50,45,IND,CHO,13,away,bad pass,steal,,turnover,,N. Batum,M. Turner
 248,3,9:52.0,50,45,IND,CHO,8,home,JS,,27,miss3,0,G. Robinson,
 249,3,9:51.0,50,45,IND,CHO,1,away,DefReb,,,DefReb,,N. Batum,
 250,3,9:47.0,50,45,IND,CHO,4,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Teague,M. Kidd-Gilchrist
 251,3,9:47.0,50,46,IND,CHO,0,away,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
 252,3,9:47.0,50,47,IND,CHO,0,away,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
-253,3,9:37.0,50,47,IND,CHO,10,home,LostBall,steal,,turnover,,P. George,M. Kidd-Gilchrist
+253,3,9:37.0,50,47,IND,CHO,10,home,lost ball,steal,,turnover,,P. George,M. Kidd-Gilchrist
 254,3,9:34.0,50,47,IND,CHO,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Turner,M. Kidd-Gilchrist
 255,3,9:34.0,50,48,IND,CHO,0,away,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
 256,3,9:34.0,50,49,IND,CHO,0,away,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
@@ -260,12 +260,12 @@
 258,3,9:12.0,50,49,IND,CHO,1,away,DefReb,,,DefReb,,M. Williams,
 259,3,9:01.0,50,51,IND,CHO,11,away,LU,assist,2,make2,2,C. Zeller,M. Williams
 260,3,9:00.0,50,51,IND,CHO,1,home,Timeout,,,,,,
-261,3,8:45.0,50,51,IND,CHO,15,home,LostBall,steal,,turnover,,J. Teague,K. Walker
+261,3,8:45.0,50,51,IND,CHO,15,home,lost ball,steal,,turnover,,J. Teague,K. Walker
 262,3,8:40.0,50,53,IND,CHO,5,away,LU,assist,2,make2,2,M. Kidd-Gilchrist,K. Walker
 263,3,8:29.0,53,53,IND,CHO,11,home,JS,assist,27,make3,3,T. Young,J. Teague
 264,3,8:15.0,53,55,IND,CHO,14,away,DK,assist,0,make2,2,C. Zeller,K. Walker
 265,3,8:00.0,56,55,IND,CHO,15,home,JS,assist,28,make3,3,J. Teague,P. George
-266,3,7:43.0,56,55,IND,CHO,17,away,BadPass,steal,,turnover,,C. Zeller,J. Teague
+266,3,7:43.0,56,55,IND,CHO,17,away,bad pass,steal,,turnover,,C. Zeller,J. Teague
 267,3,7:36.0,56,55,IND,CHO,7,home,JS,,29,miss3,0,P. George,
 268,3,7:34.0,56,55,IND,CHO,2,home,OffReb,,,OffReb,,Team,
 269,3,7:31.0,56,55,IND,CHO,3,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,C. Zeller,P. George
@@ -362,7 +362,7 @@
 360,4,10:00.0,82,73,IND,CHO,6,home,LU,,2,make2,2,R. Stuckey,
 361,4,10:00.0,82,73,IND,CHO,0,away,Timeout,,,,,,
 362,4,9:46.0,82,73,IND,CHO,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Miles,F. Kaminsky
-363,4,9:40.0,82,73,IND,CHO,6,away,LostBall,steal,,turnover,,J. Lamb,G. Robinson
+363,4,9:40.0,82,73,IND,CHO,6,away,lost ball,steal,,turnover,,J. Lamb,G. Robinson
 364,4,9:24.0,82,73,IND,CHO,16,home,JS,,25,miss3,0,C. Miles,
 365,4,9:22.0,82,73,IND,CHO,2,away,DefReb,,,DefReb,,F. Kaminsky,
 366,4,9:10.0,82,73,IND,CHO,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Stuckey,F. Kaminsky
@@ -387,7 +387,7 @@
 385,4,7:41.0,87,77,IND,CHO,0,away,FreeThrow,,,make1,1,M. Belinelli makes technical free throw,
 386,4,7:41.0,87,77,IND,CHO,0,home,Sub,,,,,J. Teague,A. Brooks
 387,4,7:32.0,87,80,IND,CHO,9,away,JS,assist,26,make3,3,F. Kaminsky,M. Belinelli
-388,4,7:08.0,87,80,IND,CHO,24,home,BadPass,steal,,turnover,,R. Stuckey,M. Belinelli
+388,4,7:08.0,87,80,IND,CHO,24,home,bad pass,steal,,turnover,,R. Stuckey,M. Belinelli
 389,4,7:03.0,87,82,IND,CHO,5,away,LU,assist,1,make2,2,J. Lamb,K. Walker
 390,4,7:03.0,87,82,IND,CHO,0,home,Timeout,,,,,,
 391,4,7:03.0,87,82,IND,CHO,0,home,Sub,,,,,P. George,R. Stuckey
@@ -416,7 +416,7 @@
 414,4,3:14.0,97,90,IND,CHO,4,home,DefReb,,,DefReb,,T. Young,
 415,4,3:09.0,99,90,IND,CHO,5,home,LU,,2,make2,2,T. Young,
 416,4,3:08.0,99,90,IND,CHO,1,away,Timeout,,,,,,
-417,4,2:58.0,99,90,IND,CHO,10,away,BadPass,steal,,turnover,,K. Walker,P. George
+417,4,2:58.0,99,90,IND,CHO,10,away,bad pass,steal,,turnover,,K. Walker,P. George
 418,4,2:47.0,99,90,IND,CHO,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,N. Batum,P. George
 419,4,2:42.0,99,90,IND,CHO,5,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,P. George,M. Belinelli
 420,4,2:42.0,99,90,IND,CHO,0,home,OffensiveFoul,,,turnover,,P. George,

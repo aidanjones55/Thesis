@@ -34,7 +34,7 @@
 32,1,6:56.0,13,17,CHO,CHI,12,away,JS,assist,23,make3,3,R. Rondo,D. Wade
 33,1,6:42.0,15,17,CHO,CHI,14,home,JS,assist,20,make2,2,M. Williams,K. Walker
 34,1,6:32.0,15,20,CHO,CHI,10,away,JS,assist,24,make3,3,J. Butler,R. Rondo
-35,1,6:14.0,15,20,CHO,CHI,18,home,BadPass,steal,,turnover,,C. Zeller,D. Wade
+35,1,6:14.0,15,20,CHO,CHI,18,home,bad pass,steal,,turnover,,C. Zeller,D. Wade
 36,1,5:57.0,15,20,CHO,CHI,17,away,JS,,9,miss2,0,B. Portis,
 37,1,5:56.0,15,20,CHO,CHI,1,home,DefReb,,,DefReb,,M. Williams,
 38,1,5:47.0,15,20,CHO,CHI,9,home,JS,,8,miss2,0,C. Zeller,
@@ -140,7 +140,7 @@
 138,2,7:29.0,35,45,CHO,CHI,2,away,OffReb,,,OffReb,,D. Valentine,
 139,2,7:25.0,35,45,CHO,CHI,4,away,JS,,25,miss3,0,C. Payne,
 140,2,7:24.0,35,45,CHO,CHI,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
-141,2,7:15.0,35,45,CHO,CHI,9,home,BadPass,steal,,turnover,,J. Lamb,C. Payne
+141,2,7:15.0,35,45,CHO,CHI,9,home,bad pass,steal,,turnover,,J. Lamb,C. Payne
 142,2,7:09.0,35,45,CHO,CHI,6,away,LU,,1,miss2,0,C. Payne,
 143,2,7:07.0,35,45,CHO,CHI,2,away,OffReb,,,OffReb,,J. Lauvergne,
 144,2,7:05.0,35,45,CHO,CHI,2,away,LU,block,1,miss2,0,J. Lauvergne,C. Zeller
@@ -174,7 +174,7 @@
 172,2,4:49.0,40,48,CHO,CHI,3,home,DefReb,,,DefReb,,M. Williams,
 173,2,4:43.0,40,48,CHO,CHI,6,home,JS,,15,miss2,0,K. Walker,
 174,2,4:40.0,40,48,CHO,CHI,3,away,DefReb,,,DefReb,,B. Portis,
-175,2,4:31.0,40,48,CHO,CHI,9,away,BadPass,steal,,turnover,,D. Valentine,J. Lamb
+175,2,4:31.0,40,48,CHO,CHI,9,away,bad pass,steal,,turnover,,D. Valentine,J. Lamb
 176,2,4:23.0,40,48,CHO,CHI,8,home,JS,,24,miss3,0,J. Lamb,
 177,2,4:22.0,40,48,CHO,CHI,1,home,OffReb,,,OffReb,,M. Williams,
 178,2,4:04.0,40,48,CHO,CHI,18,home,JS,,9,miss2,0,M. Kidd-Gilchrist,
@@ -210,10 +210,10 @@
 208,2,1:27.0,40,54,CHO,CHI,2,away,OffReb,,,OffReb,,R. Rondo,
 209,2,1:23.0,40,54,CHO,CHI,4,away,LU,,3,miss2,0,R. Rondo,
 210,2,1:22.0,40,54,CHO,CHI,1,home,DefReb,,,DefReb,,M. Williams,
-211,2,1:18.0,40,54,CHO,CHI,4,home,BadPass,steal,,turnover,,K. Walker,D. Wade
+211,2,1:18.0,40,54,CHO,CHI,4,home,bad pass,steal,,turnover,,K. Walker,D. Wade
 212,2,1:13.0,40,56,CHO,CHI,5,away,LU,assist,1,make2,2,R. Rondo,D. Wade
 213,2,0:57.0,42,56,CHO,CHI,16,home,JS,,13,make2,2,K. Walker,
-214,2,0:41.0,42,56,CHO,CHI,16,away,BadPass,steal,,turnover,,R. Rondo,C. Zeller
+214,2,0:41.0,42,56,CHO,CHI,16,away,bad pass,steal,,turnover,,R. Rondo,C. Zeller
 215,2,0:35.0,45,56,CHO,CHI,6,home,JS,assist,25,make3,3,K. Walker,M. Belinelli
 216,2,0:35.0,45,56,CHO,CHI,0,away,Timeout,,,,,,
 217,2,0:35.0,45,56,CHO,CHI,0,away,Sub,,,,,D. Valentine,R. Rondo
@@ -249,8 +249,8 @@
 247,3,8:57.0,57,60,CHO,CHI,3,away,OffReb,,,OffReb,,R. Rondo,
 248,3,8:52.0,57,60,CHO,CHI,5,away,JS,,10,miss2,0,R. Rondo,
 249,3,8:51.0,57,60,CHO,CHI,1,home,DefReb,,,DefReb,,J. Lamb,
-250,3,8:45.0,57,60,CHO,CHI,6,home,BadPass,steal,,turnover,,J. Lamb,J. Butler
-251,3,8:42.0,57,60,CHO,CHI,3,away,LostBall,steal,,turnover,,J. Butler,J. Lamb
+250,3,8:45.0,57,60,CHO,CHI,6,home,bad pass,steal,,turnover,,J. Lamb,J. Butler
+251,3,8:42.0,57,60,CHO,CHI,3,away,lost ball,steal,,turnover,,J. Butler,J. Lamb
 252,3,8:29.0,59,60,CHO,CHI,13,home,JS,assist,15,make2,2,M. Kidd-Gilchrist,K. Walker
 253,3,8:13.0,59,60,CHO,CHI,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Williams,D. Wade
 254,3,8:13.0,59,61,CHO,CHI,0,away,FreeThrow,,,make1,1,D. Wade,
@@ -322,7 +322,7 @@
 320,3,0:38.0,75,84,CHO,CHI,9,away,LU,assist,1,make2,2,N. Mirotić,J. Butler
 321,3,0:38.0,75,84,CHO,CHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Lamb,N. Mirotić
 322,3,0:38.0,75,85,CHO,CHI,0,away,FreeThrow,,,make1,1,N. Mirotić,
-323,3,0:28.0,75,85,CHO,CHI,10,home,LostBall,steal,,turnover,,J. Lamb,J. Butler
+323,3,0:28.0,75,85,CHO,CHI,10,home,lost ball,steal,,turnover,,J. Lamb,J. Butler
 324,3,0:25.0,75,87,CHO,CHI,3,away,DK,,0,make2,2,J. Butler,
 325,3,0:06.0,77,87,CHO,CHI,19,home,JS,,7,make2,2,B. Weber,
 326,3,0:00.0,77,87,CHO,CHI,6,away,JS,,27,miss3,0,C. Payne,
@@ -331,7 +331,7 @@
 329,4,11:45.0,77,87,CHO,CHI,1,home,DefReb,,,DefReb,,F. Kaminsky,
 330,4,11:26.0,77,87,CHO,CHI,19,home,LU,,1,miss2,0,J. Lamb,
 331,4,11:25.0,77,87,CHO,CHI,1,away,DefReb,,,DefReb,,C. Felício,
-332,4,11:21.0,77,87,CHO,CHI,4,away,LostBall,steal,,turnover,,D. Wade,B. Weber
+332,4,11:21.0,77,87,CHO,CHI,4,away,lost ball,steal,,turnover,,D. Wade,B. Weber
 333,4,11:08.0,79,87,CHO,CHI,13,home,JS,,7,make2,2,B. Weber,
 334,4,10:56.0,79,89,CHO,CHI,12,away,LU,assist,2,make2,2,D. Wade,C. Payne
 335,4,10:33.0,79,89,CHO,CHI,23,home,JS,,25,miss3,0,F. Kaminsky,
@@ -401,7 +401,7 @@
 399,4,3:31.0,96,102,CHO,CHI,3,away,DefReb,,,DefReb,,N. Mirotić,
 400,4,3:07.0,96,102,CHO,CHI,24,away,JS,,29,miss3,0,J. Butler,
 401,4,3:06.0,96,102,CHO,CHI,1,home,DefReb,,,DefReb,,M. Williams,
-402,4,2:59.0,96,102,CHO,CHI,7,home,LostBall,steal,,turnover,,K. Walker,R. Rondo
+402,4,2:59.0,96,102,CHO,CHI,7,home,lost ball,steal,,turnover,,K. Walker,R. Rondo
 403,4,2:40.0,96,102,CHO,CHI,19,away,JS,,19,miss2,0,R. Rondo,
 404,4,2:38.0,96,102,CHO,CHI,2,away,OffReb,,,OffReb,,J. Butler,
 405,4,2:34.0,96,105,CHO,CHI,4,away,JS,assist,26,make3,3,N. Mirotić,J. Butler

@@ -9,7 +9,7 @@
 7,1,9:52.0,8,4,POR,SAS,11,home,JS,,26,make3,3,S. Napier,
 8,1,9:31.0,8,6,POR,SAS,21,away,JS,,20,make2,2,K. Leonard,
 9,1,9:03.0,11,6,POR,SAS,28,home,JS,assist,24,make3,3,M. Leonard,E. Turner
-10,1,8:42.0,11,6,POR,SAS,21,away,LostBall,steal,,turnover,,K. Leonard,E. Turner
+10,1,8:42.0,11,6,POR,SAS,21,away,lost ball,steal,,turnover,,K. Leonard,E. Turner
 11,1,8:39.0,13,6,POR,SAS,3,home,DK,assist,0,make2,2,P. Connaughton,E. Turner
 12,1,8:22.0,13,8,POR,SAS,17,away,JS,assist,18,make2,2,D. Green,T. Parker
 13,1,7:59.0,13,8,POR,SAS,23,home,JS,block,7,miss2,0,E. Turner,L. Aldridge
@@ -97,8 +97,8 @@
 95,1,0:01.0,31,28,POR,SAS,4,away,LU,assist,1,make2,2,P. Mills,M. Ginóbili
 96,1,0:00.0,31,28,POR,SAS,1,home,JS,,51,miss3,0,A. Aminu,
 97,1,0:00.0,31,28,POR,SAS,0,home,OffReb,,,OffReb,,Team,
-98,2,11:48.0,31,28,POR,SAS,12,away,BadPass,steal,,turnover,,M. Ginóbili,M. Leonard
-99,2,11:39.0,31,28,POR,SAS,9,home,LostBall,steal,,turnover,,E. Turner,K. Anderson
+98,2,11:48.0,31,28,POR,SAS,12,away,bad pass,steal,,turnover,,M. Ginóbili,M. Leonard
+99,2,11:39.0,31,28,POR,SAS,9,home,lost ball,steal,,turnover,,E. Turner,K. Anderson
 100,2,11:28.0,31,28,POR,SAS,11,away,LU,,3,miss2,0,P. Gasol,
 101,2,11:27.0,31,28,POR,SAS,1,home,DefReb,,,DefReb,,E. Turner,
 102,2,11:22.0,31,28,POR,SAS,5,home,JS,,25,miss3,0,P. Connaughton,
@@ -206,7 +206,7 @@
 204,2,1:39.0,45,40,POR,SAS,1,home,OffReb,,,OffReb,,J. Layman,
 205,2,1:39.0,45,40,POR,SAS,0,home,LU,,1,miss2,0,J. Layman,
 206,2,1:38.0,45,40,POR,SAS,1,away,DefReb,,,DefReb,,Team,
-207,2,1:15.0,45,40,POR,SAS,23,away,BadPass,steal,,turnover,,M. Ginóbili,J. Layman
+207,2,1:15.0,45,40,POR,SAS,23,away,bad pass,steal,,turnover,,M. Ginóbili,J. Layman
 208,2,1:12.0,47,40,POR,SAS,3,home,DK,assist,0,make2,2,J. Layman,S. Napier
 209,2,0:58.0,47,40,POR,SAS,14,away,BadPass,,,turnover,,D. Lee,
 210,2,0:34.0,47,40,POR,SAS,24,home,LU,block,2,miss2,0,J. Layman,D. Lee
@@ -253,7 +253,7 @@
 251,3,6:49.0,60,59,POR,SAS,19,home,LU,block,2,miss2,0,N. Vonleh,K. Leonard
 252,3,6:48.0,60,59,POR,SAS,1,away,DefReb,,,DefReb,,P. Gasol,
 253,3,6:42.0,60,61,POR,SAS,6,away,JS,,13,make2,2,K. Leonard,
-254,3,6:21.0,60,61,POR,SAS,21,home,LostBall,steal,,turnover,,S. Napier,K. Leonard
+254,3,6:21.0,60,61,POR,SAS,21,home,lost ball,steal,,turnover,,S. Napier,K. Leonard
 255,3,6:08.0,60,63,POR,SAS,13,away,JS,,19,make2,2,T. Parker,
 256,3,5:51.0,60,63,POR,SAS,17,home,LU,,2,miss2,0,P. Connaughton,
 257,3,5:50.0,60,63,POR,SAS,1,home,OffReb,,,OffReb,,N. Vonleh,
@@ -270,7 +270,7 @@
 268,3,4:59.0,62,65,POR,SAS,11,away,LU,,2,miss2,0,M. Ginóbili,
 269,3,4:59.0,62,65,POR,SAS,0,home,DefReb,,,DefReb,,Team,
 270,3,4:42.0,64,65,POR,SAS,17,home,JS,,14,make2,2,E. Turner,
-271,3,4:24.0,64,65,POR,SAS,18,away,BadPass,steal,,turnover,,P. Mills,A. Aminu
+271,3,4:24.0,64,65,POR,SAS,18,away,bad pass,steal,,turnover,,P. Mills,A. Aminu
 272,3,4:19.0,64,65,POR,SAS,5,home,LU,,2,miss2,0,S. Napier,
 273,3,4:19.0,64,65,POR,SAS,0,away,DefReb,,,DefReb,,K. Anderson,
 274,3,4:13.0,64,65,POR,SAS,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Layman,K. Anderson
@@ -314,7 +314,7 @@
 312,4,11:31.0,71,76,POR,SAS,2,home,DefReb,,,DefReb,,T. Quarterman,
 313,4,11:29.0,71,76,POR,SAS,2,home,JS,,26,miss3,0,A. Aminu,
 314,4,11:29.0,71,76,POR,SAS,0,away,DefReb,,,DefReb,,Team,
-315,4,11:14.0,71,76,POR,SAS,15,away,BadPass,steal,,turnover,,B. Forbes,A. Aminu
+315,4,11:14.0,71,76,POR,SAS,15,away,bad pass,steal,,turnover,,B. Forbes,A. Aminu
 316,4,11:04.0,73,76,POR,SAS,10,home,JS,,9,make2,2,T. Quarterman,
 317,4,11:04.0,73,76,POR,SAS,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,T. Quarterman
 318,4,11:04.0,73,76,POR,SAS,0,home,FreeThrow,,,make1,0,T. Quarterman,
@@ -361,7 +361,7 @@
 359,4,7:26.0,79,81,POR,SAS,8,home,JS,assist,25,make3,3,S. Napier,P. Connaughton
 360,4,7:02.0,79,81,POR,SAS,24,away,DK,,0,miss2,0,D. Dedmon,
 361,4,7:01.0,79,81,POR,SAS,1,away,OffReb,,,OffReb,,D. Dedmon,
-362,4,6:58.0,79,81,POR,SAS,3,away,LostBall,steal,,turnover,,D. Lee,P. Connaughton
+362,4,6:58.0,79,81,POR,SAS,3,away,lost ball,steal,,turnover,,D. Lee,P. Connaughton
 363,4,6:42.0,79,81,POR,SAS,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Simmons,S. Napier
 364,4,6:42.0,80,81,POR,SAS,0,home,FreeThrow,,,make1,1,S. Napier,
 365,4,6:42.0,80,81,POR,SAS,0,away,Timeout,,,,,,
@@ -385,7 +385,7 @@
 383,4,4:26.0,83,83,POR,SAS,10,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,M. Leonard,D. Lee
 384,4,4:26.0,83,84,POR,SAS,0,away,FreeThrow,,,make1,1,D. Lee,
 385,4,4:26.0,83,85,POR,SAS,0,away,FreeThrow,,,make1,1,D. Lee,
-386,4,4:09.0,83,85,POR,SAS,17,home,LostBall,steal,,turnover,,J. Layman,K. Anderson
+386,4,4:09.0,83,85,POR,SAS,17,home,lost ball,steal,,turnover,,J. Layman,K. Anderson
 387,4,4:05.0,83,85,POR,SAS,4,away,DK,,0,miss2,0,D. Lee,
 388,4,4:04.0,83,85,POR,SAS,1,home,DefReb,,,DefReb,,N. Vonleh,
 389,4,3:50.0,85,85,POR,SAS,14,home,JS,,19,make2,2,S. Napier,
@@ -398,7 +398,7 @@
 396,4,2:35.0,88,87,POR,SAS,15,home,JS,,25,make3,3,S. Napier,
 397,4,2:17.0,88,90,POR,SAS,18,away,JS,,23,make3,3,B. Forbes,
 398,4,2:16.0,88,90,POR,SAS,1,home,Timeout,,,,,,
-399,4,2:00.0,88,90,POR,SAS,16,home,LostBall,steal,,turnover,,S. Napier,K. Anderson
+399,4,2:00.0,88,90,POR,SAS,16,home,lost ball,steal,,turnover,,S. Napier,K. Anderson
 400,4,1:56.0,88,92,POR,SAS,4,away,LU,assist,1,make2,2,J. Simmons,B. Forbes
 401,4,1:44.0,88,92,POR,SAS,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Forbes,S. Napier
 402,4,1:44.0,89,92,POR,SAS,0,home,FreeThrow,,,make1,1,S. Napier,

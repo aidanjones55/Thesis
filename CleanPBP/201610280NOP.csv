@@ -37,11 +37,11 @@
 35,1,7:35.0,8,11,NOP,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
 36,1,7:29.0,8,11,NOP,GSW,6,away,JS,,14,miss2,0,K. Thompson,
 37,1,7:28.0,8,11,NOP,GSW,1,home,DefReb,,,DefReb,,S. Hill,
-38,1,7:24.0,8,11,NOP,GSW,4,home,BadPass,steal,,turnover,,S. Hill,K. Durant
+38,1,7:24.0,8,11,NOP,GSW,4,home,bad pass,steal,,turnover,,S. Hill,K. Durant
 39,1,7:15.0,8,11,NOP,GSW,9,away,JS,block,25,miss3,0,D. Green,A. Davis
 40,1,7:13.0,8,11,NOP,GSW,2,home,DefReb,,,DefReb,,A. Davis,
-41,1,7:13.0,8,11,NOP,GSW,0,home,LostBall,steal,,turnover,,A. Davis,D. Green
-42,1,7:07.0,8,11,NOP,GSW,6,away,BadPass,steal,,turnover,,S. Curry,S. Hill
+41,1,7:13.0,8,11,NOP,GSW,0,home,lost ball,steal,,turnover,,A. Davis,D. Green
+42,1,7:07.0,8,11,NOP,GSW,6,away,bad pass,steal,,turnover,,S. Curry,S. Hill
 43,1,7:04.0,10,11,NOP,GSW,3,home,LU,assist,2,make2,2,T. Frazier,S. Hill
 44,1,7:04.0,10,11,NOP,GSW,0,away,Timeout,,,,,,
 45,1,6:49.0,10,13,NOP,GSW,15,away,LU,assist,2,make2,2,D. Green,K. Thompson
@@ -136,7 +136,7 @@
 134,2,10:51.0,22,33,NOP,GSW,0,away,FreeThrow,,,make1,0,D. West,
 135,2,10:49.0,22,33,NOP,GSW,2,home,DefReb,,,DefReb,,L. Stephenson,
 136,2,10:32.0,24,33,NOP,GSW,17,home,JS,,17,make2,2,L. Stephenson,
-137,2,10:14.0,24,33,NOP,GSW,18,away,BadPass,steal,,turnover,,S. Livingston,L. Galloway
+137,2,10:14.0,24,33,NOP,GSW,18,away,bad pass,steal,,turnover,,S. Livingston,L. Galloway
 138,2,10:04.0,24,33,NOP,GSW,10,home,LU,,1,miss2,0,B. Hield,
 139,2,10:01.0,24,33,NOP,GSW,3,home,OffReb,,,OffReb,,T. Jones,
 140,2,10:01.0,26,33,NOP,GSW,0,home,LU,,2,make2,2,T. Jones,
@@ -182,7 +182,7 @@
 180,2,5:51.0,37,46,NOP,GSW,0,away,OffReb,,,OffReb,,D. Green,
 181,2,5:47.0,37,48,NOP,GSW,4,away,LU,,2,make2,2,D. Green,
 182,2,5:38.0,39,48,NOP,GSW,9,home,JS,assist,15,make2,2,A. Davis,L. Stephenson
-183,2,5:25.0,39,48,NOP,GSW,13,away,BadPass,steal,,turnover,,Z. Pachulia,E. Moore
+183,2,5:25.0,39,48,NOP,GSW,13,away,bad pass,steal,,turnover,,Z. Pachulia,E. Moore
 184,2,5:15.0,41,48,NOP,GSW,10,home,LU,,3,make2,2,A. Davis,
 185,2,5:15.0,41,48,NOP,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,Z. Pachulia,A. Davis
 186,2,5:15.0,41,48,NOP,GSW,0,away,Timeout,,,,,,
@@ -217,7 +217,7 @@
 215,2,3:30.0,43,52,NOP,GSW,0,away,Sub,,,,,P. McCaw,S. Curry
 216,2,3:30.0,44,52,NOP,GSW,0,home,FreeThrow,,,make1,1,A. Davis,
 217,2,3:22.0,44,54,NOP,GSW,8,away,LU,assist,2,make2,2,K. Thompson,A. Iguodala
-218,2,3:01.0,44,54,NOP,GSW,21,home,BadPass,steal,,turnover,,E. Moore,K. Thompson
+218,2,3:01.0,44,54,NOP,GSW,21,home,bad pass,steal,,turnover,,E. Moore,K. Thompson
 219,2,2:53.0,44,54,NOP,GSW,8,away,DK,block,0,miss2,0,K. Durant,D. Cunningham
 220,2,2:51.0,44,54,NOP,GSW,2,home,DefReb,,,DefReb,,D. Cunningham,
 221,2,2:46.0,46,54,NOP,GSW,5,home,DK,assist,1,make2,2,D. Cunningham,A. Davis
@@ -229,7 +229,7 @@
 227,2,1:38.0,46,56,NOP,GSW,26,home,ShotClockViolation,,,turnover,,Team,
 228,2,1:26.0,46,56,NOP,GSW,12,away,JS,block,5,miss2,0,D. Green,A. Davis
 229,2,1:24.0,46,56,NOP,GSW,2,home,DefReb,,,DefReb,,L. Stephenson,
-230,2,1:17.0,46,56,NOP,GSW,7,home,BadPass,steal,,turnover,,L. Stephenson,K. Thompson
+230,2,1:17.0,46,56,NOP,GSW,7,home,bad pass,steal,,turnover,,L. Stephenson,K. Thompson
 231,2,1:13.0,46,56,NOP,GSW,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Davis,D. Green
 232,2,1:10.0,46,56,NOP,GSW,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Moore,D. Green
 233,2,1:10.0,46,57,NOP,GSW,0,away,FreeThrow,,,make1,1,D. Green,
@@ -277,8 +277,8 @@
 275,3,7:42.0,63,66,NOP,GSW,10,away,JS,,16,miss2,0,K. Durant,
 276,3,7:41.0,63,66,NOP,GSW,1,home,DefReb,,,DefReb,,D. Cunningham,
 277,3,7:19.0,65,66,NOP,GSW,22,home,JS,assist,23,make2,2,E. Moore,T. Frazier
-278,3,7:04.0,65,66,NOP,GSW,15,away,BadPass,steal,,turnover,,K. Thompson,E. Moore
-279,3,6:54.0,65,66,NOP,GSW,10,home,BadPass,steal,,turnover,,E. Moore,K. Durant
+278,3,7:04.0,65,66,NOP,GSW,15,away,bad pass,steal,,turnover,,K. Thompson,E. Moore
+279,3,6:54.0,65,66,NOP,GSW,10,home,bad pass,steal,,turnover,,E. Moore,K. Durant
 280,3,6:52.0,65,66,NOP,GSW,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Hill,K. Durant
 281,3,6:52.0,65,67,NOP,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
 282,3,6:52.0,65,67,NOP,GSW,0,away,Sub,,,,,A. Iguodala,Z. Pachulia
@@ -288,7 +288,7 @@
 286,3,6:06.0,70,71,NOP,GSW,17,home,LU,,1,make2,2,T. Frazier,
 287,3,5:49.0,70,71,NOP,GSW,17,away,JS,,23,miss3,0,A. Iguodala,
 288,3,5:48.0,70,71,NOP,GSW,1,away,OffReb,,,OffReb,,S. Curry,
-289,3,5:45.0,70,71,NOP,GSW,3,away,BadPass,steal,,turnover,,S. Curry,E. Moore
+289,3,5:45.0,70,71,NOP,GSW,3,away,bad pass,steal,,turnover,,S. Curry,E. Moore
 290,3,5:45.0,70,71,NOP,GSW,0,home,BadPass,,,turnover,,D. Cunningham,
 291,3,5:34.0,70,73,NOP,GSW,11,away,JS,,16,make2,2,A. Iguodala,
 292,3,5:20.0,72,73,NOP,GSW,14,home,LU,,2,make2,2,T. Frazier,
@@ -375,8 +375,8 @@
 373,4,9:41.0,83,97,NOP,GSW,1,away,DefReb,,,DefReb,,K. Durant,
 374,4,9:27.0,83,97,NOP,GSW,14,away,JS,block,9,miss2,0,D. West,B. Hield
 375,4,9:27.0,83,97,NOP,GSW,0,away,OffReb,,,OffReb,,D. West,
-376,4,9:27.0,83,97,NOP,GSW,0,away,LostBall,steal,,turnover,,D. West,A. Davis
-377,4,9:13.0,83,97,NOP,GSW,14,home,BadPass,steal,,turnover,,T. Frazier,A. Iguodala
+376,4,9:27.0,83,97,NOP,GSW,0,away,lost ball,steal,,turnover,,D. West,A. Davis
+377,4,9:13.0,83,97,NOP,GSW,14,home,bad pass,steal,,turnover,,T. Frazier,A. Iguodala
 378,4,9:04.0,83,97,NOP,GSW,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Davis,K. Durant
 379,4,9:04.0,83,98,NOP,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
 380,4,9:04.0,83,99,NOP,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
@@ -435,7 +435,7 @@
 433,4,3:53.0,99,110,NOP,GSW,13,home,JS,,26,miss3,0,L. Stephenson,
 434,4,3:52.0,99,110,NOP,GSW,1,away,DefReb,,,DefReb,,K. Durant,
 435,4,3:49.0,99,110,NOP,GSW,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. Stephenson,A. Iguodala
-436,4,3:38.0,99,110,NOP,GSW,11,away,BadPass,steal,,turnover,,D. Green,A. Davis
+436,4,3:38.0,99,110,NOP,GSW,11,away,bad pass,steal,,turnover,,D. Green,A. Davis
 437,4,3:19.0,99,110,NOP,GSW,19,home,Timeout,,,,,,
 438,4,3:19.0,99,110,NOP,GSW,0,home,Sub,,,,,S. Hill,B. Hield
 439,4,3:14.0,99,110,NOP,GSW,5,home,JS,,12,miss2,0,A. Davis,
@@ -447,8 +447,8 @@
 445,4,2:49.0,99,110,NOP,GSW,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Iguodala,A. Davis
 446,4,2:49.0,100,110,NOP,GSW,0,home,FreeThrow,,,make1,1,A. Davis,
 447,4,2:49.0,101,110,NOP,GSW,0,home,FreeThrow,,,make1,1,A. Davis,
-448,4,2:33.0,101,110,NOP,GSW,16,away,BadPass,steal,,turnover,,K. Durant,S. Hill
-449,4,2:25.0,101,110,NOP,GSW,8,home,BadPass,steal,,turnover,,T. Frazier,D. Green
+448,4,2:33.0,101,110,NOP,GSW,16,away,bad pass,steal,,turnover,,K. Durant,S. Hill
+449,4,2:25.0,101,110,NOP,GSW,8,home,bad pass,steal,,turnover,,T. Frazier,D. Green
 450,4,2:21.0,101,112,NOP,GSW,4,away,DK,assist,0,make2,2,K. Durant,S. Curry
 451,4,2:21.0,101,112,NOP,GSW,0,home,Timeout,,,,,,
 452,4,2:01.0,103,112,NOP,GSW,20,home,JS,assist,8,make2,2,A. Davis,L. Stephenson
@@ -485,4 +485,4 @@
 483,4,0:19.0,114,120,NOP,GSW,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Frazier,K. Thompson
 484,4,0:19.0,114,121,NOP,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
 485,4,0:19.0,114,122,NOP,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
-486,4,0:10.0,114,122,NOP,GSW,9,home,BadPass,steal,,turnover,,T. Frazier,S. Curry
+486,4,0:10.0,114,122,NOP,GSW,9,home,bad pass,steal,,turnover,,T. Frazier,S. Curry

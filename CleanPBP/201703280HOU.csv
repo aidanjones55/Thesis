@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:45.0,0,0,HOU,GSW,15,home,BadPass,steal,,turnover,,P. Beverley,D. Green
+0,1,11:45.0,0,0,HOU,GSW,15,home,bad pass,steal,,turnover,,P. Beverley,D. Green
 1,1,11:40.0,0,2,HOU,GSW,5,away,LU,assist,1,make2,2,K. Thompson,S. Curry
 2,1,11:30.0,0,2,HOU,GSW,10,home,DK,,0,miss2,0,C. Capela,
 3,1,11:29.0,0,2,HOU,GSW,1,away,DefReb,,,DefReb,,S. Curry,
@@ -15,9 +15,9 @@
 13,1,9:36.0,4,9,HOU,GSW,1,away,DefReb,,,DefReb,,Z. Pachulia,
 14,1,9:25.0,4,9,HOU,GSW,11,away,LU,,1,miss2,0,K. Thompson,
 15,1,9:25.0,4,9,HOU,GSW,0,home,DefReb,,,DefReb,,J. Harden,
-16,1,9:18.0,4,9,HOU,GSW,7,home,LostBall,steal,,turnover,,J. Harden,D. Green
+16,1,9:18.0,4,9,HOU,GSW,7,home,lost ball,steal,,turnover,,J. Harden,D. Green
 17,1,9:15.0,4,9,HOU,GSW,3,away,BadPass,,,turnover,,S. Curry,
-18,1,9:11.0,4,9,HOU,GSW,4,home,LostBall,steal,,turnover,,E. Gordon,P. McCaw
+18,1,9:11.0,4,9,HOU,GSW,4,home,lost ball,steal,,turnover,,E. Gordon,P. McCaw
 19,1,9:06.0,4,11,HOU,GSW,5,away,DK,assist,0,make2,2,D. Green,P. McCaw
 20,1,8:50.0,6,11,HOU,GSW,16,home,LU,,0,make2,2,J. Harden,
 21,1,8:37.0,6,13,HOU,GSW,13,away,LU,assist,0,make2,2,Z. Pachulia,S. Curry
@@ -54,7 +54,7 @@
 52,1,4:57.0,16,24,HOU,GSW,0,home,FreeThrow,,,make1,1,E. Gordon,
 53,1,4:44.0,16,27,HOU,GSW,13,away,JS,assist,25,make3,3,K. Thompson,S. Curry
 54,1,4:33.0,16,27,HOU,GSW,11,home,BadPass,,,turnover,,J. Harden,
-55,1,4:13.0,16,27,HOU,GSW,20,away,BadPass,steal,,turnover,,K. Thompson,J. Harden
+55,1,4:13.0,16,27,HOU,GSW,20,away,bad pass,steal,,turnover,,K. Thompson,J. Harden
 56,1,4:11.0,16,27,HOU,GSW,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. McAdoo,J. Harden
 57,1,4:11.0,16,27,HOU,GSW,0,home,Sub,,,,,S. Dekker,E. Gordon
 58,1,4:11.0,16,27,HOU,GSW,0,away,Sub,,,,,S. Livingston,K. Thompson
@@ -75,7 +75,7 @@
 73,1,2:44.0,16,33,HOU,GSW,6,away,LU,,1,make2,2,S. Curry,
 74,1,2:28.0,16,33,HOU,GSW,16,home,JS,,23,miss3,0,T. Ariza,
 75,1,2:28.0,16,33,HOU,GSW,0,away,DefReb,,,DefReb,,S. Curry,
-76,1,2:23.0,16,33,HOU,GSW,5,away,BadPass,steal,,turnover,,S. Curry,T. Ariza
+76,1,2:23.0,16,33,HOU,GSW,5,away,bad pass,steal,,turnover,,S. Curry,T. Ariza
 77,1,2:15.0,18,33,HOU,GSW,8,home,DK,assist,0,make2,2,S. Dekker,J. Harden
 78,1,1:52.0,18,33,HOU,GSW,23,away,JS,,24,miss3,0,S. Curry,
 79,1,1:51.0,18,33,HOU,GSW,1,home,DefReb,,,DefReb,,J. Harden,
@@ -85,7 +85,7 @@
 83,1,1:35.0,18,33,HOU,GSW,1,home,DefReb,,,DefReb,,S. Dekker,
 84,1,1:15.0,18,33,HOU,GSW,20,home,LU,,0,miss2,0,J. Harden,
 85,1,1:14.0,18,33,HOU,GSW,1,away,DefReb,,,DefReb,,D. Green,
-86,1,1:07.0,18,33,HOU,GSW,7,away,BadPass,steal,,turnover,,S. Curry,T. Ariza
+86,1,1:07.0,18,33,HOU,GSW,7,away,bad pass,steal,,turnover,,S. Curry,T. Ariza
 87,1,1:00.0,18,33,HOU,GSW,7,home,JS,block,25,miss3,0,J. Harden,S. Livingston
 88,1,1:00.0,18,33,HOU,GSW,0,away,DefReb,,,DefReb,,S. Curry,
 89,1,0:58.0,18,33,HOU,GSW,2,away,Sub,,,,,M. Barnes,D. Green
@@ -144,7 +144,7 @@
 142,2,6:36.0,31,49,HOU,GSW,0,away,Sub,,,,,D. Green,D. West
 143,2,6:36.0,31,49,HOU,GSW,0,away,Sub,,,,,Z. Pachulia,A. Iguodala
 144,2,6:36.0,32,49,HOU,GSW,0,home,FreeThrow,,,make1,1,L. Williams,
-145,2,6:21.0,32,49,HOU,GSW,15,away,BadPass,steal,,turnover,,I. Clark,T. Ariza
+145,2,6:21.0,32,49,HOU,GSW,15,away,bad pass,steal,,turnover,,I. Clark,T. Ariza
 146,2,6:13.0,32,49,HOU,GSW,8,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,K. Thompson,C. Capela
 147,2,6:13.0,33,49,HOU,GSW,0,home,FreeThrow,,,make1,1,C. Capela,
 148,2,6:13.0,33,49,HOU,GSW,0,away,Sub,,,,,S. Curry,K. Thompson
@@ -156,7 +156,7 @@
 154,2,5:50.0,36,49,HOU,GSW,0,away,Timeout,,,,,,
 155,2,5:35.0,36,49,HOU,GSW,15,away,JS,,25,miss3,0,I. Clark,
 156,2,5:34.0,36,49,HOU,GSW,1,home,DefReb,,,DefReb,,J. Harden,
-157,2,5:27.0,36,49,HOU,GSW,7,home,LostBall,steal,,turnover,,J. Harden,D. Green
+157,2,5:27.0,36,49,HOU,GSW,7,home,lost ball,steal,,turnover,,J. Harden,D. Green
 158,2,5:23.0,36,51,HOU,GSW,4,away,LU,assist,2,make2,2,S. Curry,D. Green
 159,2,5:09.0,36,51,HOU,GSW,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Curry,E. Gordon
 160,2,5:05.0,36,51,HOU,GSW,4,home,JS,,24,miss3,0,L. Williams,
@@ -169,7 +169,7 @@
 167,2,4:30.0,36,53,HOU,GSW,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Livingston,J. Harden
 168,2,4:30.0,37,53,HOU,GSW,0,home,FreeThrow,,,make1,1,J. Harden,
 169,2,4:30.0,38,53,HOU,GSW,0,home,FreeThrow,,,make1,1,J. Harden,
-170,2,4:14.0,38,53,HOU,GSW,16,away,BadPass,steal,,turnover,,D. Green,T. Ariza
+170,2,4:14.0,38,53,HOU,GSW,16,away,bad pass,steal,,turnover,,D. Green,T. Ariza
 171,2,4:09.0,40,53,HOU,GSW,5,home,DK,,0,make2,2,J. Harden,
 172,2,4:09.0,40,53,HOU,GSW,0,away,Timeout,,,,,,
 173,2,3:56.0,40,53,HOU,GSW,13,away,JS,block,25,miss3,0,S. Curry,E. Gordon
@@ -188,7 +188,7 @@
 186,2,3:07.0,44,56,HOU,GSW,1,home,LU,,0,make2,2,N. Hilário,
 187,2,2:54.0,44,56,HOU,GSW,13,away,JS,,25,miss3,0,S. Curry,
 188,2,2:51.0,44,56,HOU,GSW,3,home,DefReb,,,DefReb,,T. Ariza,
-189,2,2:42.0,44,56,HOU,GSW,9,home,LostBall,steal,,turnover,,J. Harden,K. Thompson
+189,2,2:42.0,44,56,HOU,GSW,9,home,lost ball,steal,,turnover,,J. Harden,K. Thompson
 190,2,2:37.0,44,56,HOU,GSW,5,away,JS,,24,miss3,0,S. Curry,
 191,2,2:35.0,44,56,HOU,GSW,2,away,OffReb,,,OffReb,,S. Livingston,
 192,2,2:31.0,44,56,HOU,GSW,4,away,JS,,25,miss3,0,S. Curry,
@@ -209,7 +209,7 @@
 207,2,1:23.0,47,58,HOU,GSW,0,home,FreeThrow,,,make1,0,N. Hilário,
 208,2,1:23.0,47,58,HOU,GSW,0,home,OffReb,,,OffReb,,Team,
 209,2,1:23.0,48,58,HOU,GSW,0,home,FreeThrow,,,make1,1,N. Hilário,
-210,2,1:10.0,48,58,HOU,GSW,13,away,BadPass,steal,,turnover,,A. Iguodala,T. Ariza
+210,2,1:10.0,48,58,HOU,GSW,13,away,bad pass,steal,,turnover,,A. Iguodala,T. Ariza
 211,2,0:52.0,48,58,HOU,GSW,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Curry,J. Harden
 212,2,0:52.0,49,58,HOU,GSW,0,home,FreeThrow,,,make1,1,J. Harden,
 213,2,0:52.0,50,58,HOU,GSW,0,home,FreeThrow,,,make1,1,J. Harden,
@@ -264,7 +264,7 @@
 262,3,8:26.0,62,67,HOU,GSW,19,home,DK,assist,0,make2,2,C. Capela,J. Harden
 263,3,8:12.0,62,70,HOU,GSW,14,away,JS,,25,make3,3,S. Curry,
 264,3,8:04.0,64,70,HOU,GSW,8,home,LU,assist,1,make2,2,C. Capela,J. Harden
-265,3,7:55.0,64,70,HOU,GSW,9,away,LostBall,steal,,turnover,,S. Curry,P. Beverley
+265,3,7:55.0,64,70,HOU,GSW,9,away,lost ball,steal,,turnover,,S. Curry,P. Beverley
 266,3,7:51.0,66,70,HOU,GSW,4,home,LU,,1,make2,2,P. Beverley,
 267,3,7:51.0,66,70,HOU,GSW,0,away,Timeout,,,,,,
 268,3,7:51.0,66,70,HOU,GSW,0,away,Sub,,,,,J. McGee,P. McCaw
@@ -275,14 +275,14 @@
 273,3,7:06.0,68,72,HOU,GSW,5,home,LU,assist,1,make2,2,P. Beverley,J. Harden
 274,3,6:52.0,68,72,HOU,GSW,14,away,JS,,23,miss3,0,A. Iguodala,
 275,3,6:51.0,68,72,HOU,GSW,1,home,DefReb,,,DefReb,,J. Harden,
-276,3,6:45.0,68,72,HOU,GSW,6,home,BadPass,steal,,turnover,,J. Harden,S. Curry
+276,3,6:45.0,68,72,HOU,GSW,6,home,bad pass,steal,,turnover,,J. Harden,S. Curry
 277,3,6:38.0,68,72,HOU,GSW,7,away,JS,,25,miss3,0,K. Thompson,
 278,3,6:37.0,68,72,HOU,GSW,1,home,DefReb,,,DefReb,,C. Capela,
 279,3,6:26.0,68,72,HOU,GSW,11,home,JS,,7,miss2,0,P. Beverley,
 280,3,6:25.0,68,72,HOU,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
 281,3,6:09.0,68,72,HOU,GSW,16,away,JS,,19,miss2,0,A. Iguodala,
 282,3,6:08.0,68,72,HOU,GSW,1,home,DefReb,,,DefReb,,E. Gordon,
-283,3,6:01.0,68,72,HOU,GSW,7,home,LostBall,steal,,turnover,,E. Gordon,K. Thompson
+283,3,6:01.0,68,72,HOU,GSW,7,home,lost ball,steal,,turnover,,E. Gordon,K. Thompson
 284,3,5:56.0,68,74,HOU,GSW,5,away,DK,assist,0,make2,2,A. Iguodala,K. Thompson
 285,3,5:35.0,68,74,HOU,GSW,21,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Barnes,J. Harden
 286,3,5:35.0,69,74,HOU,GSW,0,home,FreeThrow,,,make1,1,J. Harden,
@@ -299,7 +299,7 @@
 297,3,4:55.0,73,76,HOU,GSW,0,away,FreeThrow,,,make1,0,S. Curry,
 298,3,4:55.0,73,76,HOU,GSW,0,away,OffReb,,,OffReb,,Team,
 299,3,4:55.0,73,77,HOU,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
-300,3,4:38.0,73,77,HOU,GSW,17,home,LostBall,steal,,turnover,,N. Hilário,S. Curry
+300,3,4:38.0,73,77,HOU,GSW,17,home,lost ball,steal,,turnover,,N. Hilário,S. Curry
 301,3,4:31.0,73,80,HOU,GSW,7,away,JS,assist,23,make3,3,A. Iguodala,S. Curry
 302,3,4:16.0,73,80,HOU,GSW,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Curry,J. Harden
 303,3,4:16.0,74,80,HOU,GSW,0,home,FreeThrow,,,make1,1,J. Harden,
@@ -332,7 +332,7 @@
 330,3,1:14.0,75,84,HOU,GSW,1,away,DefReb,,,DefReb,,K. Thompson,
 331,3,1:10.0,75,84,HOU,GSW,4,home,ChargeFoul,DrawnBy,,ChargeFoul,,S. Livingston,L. Williams
 332,3,1:10.0,75,84,HOU,GSW,0,away,OffensiveFoul,,,turnover,,S. Livingston,
-333,3,1:02.0,75,84,HOU,GSW,8,home,LostBall,steal,,turnover,,L. Williams,S. Livingston
+333,3,1:02.0,75,84,HOU,GSW,8,home,lost ball,steal,,turnover,,L. Williams,S. Livingston
 334,3,0:46.0,75,86,HOU,GSW,16,away,JS,assist,19,make2,2,K. Thompson,A. Iguodala
 335,3,0:37.0,75,86,HOU,GSW,9,home,JS,,23,miss3,0,S. Dekker,
 336,3,0:36.0,75,86,HOU,GSW,1,away,DefReb,,,DefReb,,D. Green,
@@ -344,7 +344,7 @@
 342,3,0:00.0,75,86,HOU,GSW,0,home,OffReb,,,OffReb,,Team,
 343,4,11:36.0,75,86,HOU,GSW,24,home,JS,,10,miss2,0,P. Beverley,
 344,4,11:35.0,75,86,HOU,GSW,1,away,DefReb,,,DefReb,,D. West,
-345,4,11:19.0,75,86,HOU,GSW,16,away,BadPass,steal,,turnover,,S. Curry,L. Williams
+345,4,11:19.0,75,86,HOU,GSW,16,away,bad pass,steal,,turnover,,S. Curry,L. Williams
 346,4,11:15.0,77,86,HOU,GSW,4,home,DK,,0,make2,2,L. Williams,
 347,4,11:01.0,77,86,HOU,GSW,14,away,JS,,14,miss2,0,S. Curry,
 348,4,11:00.0,77,86,HOU,GSW,1,home,DefReb,,,DefReb,,C. Capela,
@@ -452,7 +452,7 @@
 450,4,0:34.0,104,112,HOU,GSW,0,home,OffReb,,,OffReb,,C. Capela,
 451,4,0:28.0,104,112,HOU,GSW,6,home,JS,block,4,miss2,0,P. Beverley,K. Thompson
 452,4,0:27.0,104,112,HOU,GSW,1,away,DefReb,,,DefReb,,S. Curry,
-453,4,0:21.0,104,112,HOU,GSW,6,away,LostBall,steal,,turnover,,S. Curry,T. Ariza
+453,4,0:21.0,104,112,HOU,GSW,6,away,lost ball,steal,,turnover,,S. Curry,T. Ariza
 454,4,0:14.0,106,112,HOU,GSW,7,home,LU,assist,1,make2,2,C. Capela,T. Ariza
 455,4,0:07.0,106,112,HOU,GSW,7,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,C. Capela,A. Iguodala
 456,4,0:07.0,106,112,HOU,GSW,0,away,FreeThrow,,,make1,0,A. Iguodala,

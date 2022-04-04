@@ -15,7 +15,7 @@
 13,1,10:02.0,4,2,CHO,IND,1,home,OffReb,,,OffReb,,C. Zeller,
 14,1,9:58.0,4,2,CHO,IND,4,home,JS,,23,miss3,0,K. Walker,
 15,1,9:57.0,4,2,CHO,IND,1,away,DefReb,,,DefReb,,P. George,
-16,1,9:48.0,4,2,CHO,IND,9,away,LostBall,steal,,turnover,,P. George,M. Kidd-Gilchrist
+16,1,9:48.0,4,2,CHO,IND,9,away,lost ball,steal,,turnover,,P. George,M. Kidd-Gilchrist
 17,1,9:41.0,7,2,CHO,IND,7,home,JS,assist,23,make3,3,K. Walker,N. Batum
 18,1,9:16.0,7,5,CHO,IND,25,away,JS,assist,23,make3,3,C. Miles,P. George
 19,1,8:46.0,7,5,CHO,IND,30,home,JS,,25,miss3,0,K. Walker,
@@ -35,9 +35,9 @@
 33,1,6:56.0,7,9,CHO,IND,2,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
 34,1,6:48.0,7,9,CHO,IND,8,home,JS,,26,miss3,0,M. Williams,
 35,1,6:47.0,7,9,CHO,IND,1,away,DefReb,,,DefReb,,M. Turner,
-36,1,6:30.0,7,9,CHO,IND,17,away,BadPass,steal,,turnover,,J. Teague,K. Walker
+36,1,6:30.0,7,9,CHO,IND,17,away,bad pass,steal,,turnover,,J. Teague,K. Walker
 37,1,6:25.0,9,9,CHO,IND,5,home,LU,,1,make2,2,M. Williams,
-38,1,6:14.0,9,9,CHO,IND,11,away,BadPass,steal,,turnover,,P. George,M. Kidd-Gilchrist
+38,1,6:14.0,9,9,CHO,IND,11,away,bad pass,steal,,turnover,,P. George,M. Kidd-Gilchrist
 39,1,6:13.0,9,9,CHO,IND,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. George,M. Kidd-Gilchrist
 40,1,6:13.0,9,9,CHO,IND,0,home,Sub,,,,,J. Lamb,M. Williams
 41,1,5:58.0,9,9,CHO,IND,15,home,JS,,19,miss2,0,M. Kidd-Gilchrist,
@@ -54,7 +54,7 @@
 52,1,4:56.0,13,11,CHO,IND,1,home,DefReb,,,DefReb,,M. Kidd-Gilchrist,
 53,1,4:37.0,13,11,CHO,IND,19,home,JS,,4,miss2,0,J. Lamb,
 54,1,4:36.0,13,11,CHO,IND,1,away,DefReb,,,DefReb,,G. Robinson,
-55,1,4:31.0,13,11,CHO,IND,5,away,BadPass,steal,,turnover,,G. Robinson,C. Zeller
+55,1,4:31.0,13,11,CHO,IND,5,away,bad pass,steal,,turnover,,G. Robinson,C. Zeller
 56,1,4:20.0,13,11,CHO,IND,11,home,LU,block,2,miss2,0,M. Kidd-Gilchrist,M. Turner
 57,1,4:16.0,13,11,CHO,IND,4,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
 58,1,4:13.0,15,11,CHO,IND,3,home,LU,assist,2,make2,2,C. Zeller,N. Batum
@@ -82,8 +82,8 @@
 80,1,2:26.0,20,14,CHO,IND,2,away,DefReb,,,DefReb,,A. Jefferson,
 81,1,2:10.0,20,14,CHO,IND,16,away,HS,,7,miss2,0,A. Jefferson,
 82,1,2:09.0,20,14,CHO,IND,1,home,DefReb,,,DefReb,,N. Batum,
-83,1,2:03.0,20,14,CHO,IND,6,home,BadPass,steal,,turnover,,N. Batum,G. Robinson
-84,1,1:51.0,20,14,CHO,IND,12,away,BadPass,steal,,turnover,,R. Stuckey,N. Batum
+83,1,2:03.0,20,14,CHO,IND,6,home,bad pass,steal,,turnover,,N. Batum,G. Robinson
+84,1,1:51.0,20,14,CHO,IND,12,away,bad pass,steal,,turnover,,R. Stuckey,N. Batum
 85,1,1:35.0,22,14,CHO,IND,16,home,JS,assist,15,make2,2,N. Batum,J. Lamb
 86,1,1:13.0,22,16,CHO,IND,22,away,JS,assist,13,make2,2,M. Ellis,G. Robinson
 87,1,0:59.0,24,16,CHO,IND,14,home,LU,assist,0,make2,2,N. Batum,J. O'Bryant
@@ -102,7 +102,7 @@
 100,2,10:50.0,30,16,CHO,IND,11,home,LU,,1,miss2,0,J. O'Bryant,
 101,2,10:49.0,30,16,CHO,IND,1,home,OffReb,,,OffReb,,J. Lamb,
 102,2,10:49.0,32,16,CHO,IND,0,home,DK,,0,make2,2,J. Lamb,
-103,2,10:28.0,32,16,CHO,IND,21,away,BadPass,steal,,turnover,,M. Ellis,M. Belinelli
+103,2,10:28.0,32,16,CHO,IND,21,away,bad pass,steal,,turnover,,M. Ellis,M. Belinelli
 104,2,10:14.0,32,16,CHO,IND,14,home,JS,,14,miss2,0,J. O'Bryant,
 105,2,10:11.0,32,16,CHO,IND,3,away,DefReb,,,DefReb,,G. Robinson,
 106,2,10:02.0,32,16,CHO,IND,9,away,JS,,10,miss2,0,C. Miles,
@@ -156,10 +156,10 @@
 154,2,5:06.0,45,28,CHO,IND,21,away,JS,,18,make2,2,P. George,
 155,2,4:48.0,45,28,CHO,IND,18,home,JS,,20,miss2,0,M. Belinelli,
 156,2,4:47.0,45,28,CHO,IND,1,away,DefReb,,,DefReb,,J. Teague,
-157,2,4:39.0,45,28,CHO,IND,8,away,BadPass,steal,,turnover,,P. George,C. Zeller
+157,2,4:39.0,45,28,CHO,IND,8,away,bad pass,steal,,turnover,,P. George,C. Zeller
 158,2,4:33.0,45,28,CHO,IND,6,home,JS,,20,miss2,0,M. Belinelli,
 159,2,4:30.0,45,28,CHO,IND,3,away,DefReb,,,DefReb,,P. George,
-160,2,4:27.0,45,28,CHO,IND,3,away,BadPass,steal,,turnover,,P. George,N. Batum
+160,2,4:27.0,45,28,CHO,IND,3,away,bad pass,steal,,turnover,,P. George,N. Batum
 161,2,4:22.0,45,28,CHO,IND,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Ellis,M. Kidd-Gilchrist
 162,2,4:22.0,46,28,CHO,IND,0,home,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
 163,2,4:22.0,46,28,CHO,IND,0,away,Sub,,,,,T. Young,M. Ellis
@@ -239,7 +239,7 @@
 237,3,6:55.0,62,49,CHO,IND,1,home,DefReb,,,DefReb,,K. Walker,
 238,3,6:51.0,62,49,CHO,IND,4,home,JS,,16,miss2,0,K. Walker,
 239,3,6:49.0,62,49,CHO,IND,2,away,DefReb,,,DefReb,,P. George,
-240,3,6:37.0,62,49,CHO,IND,12,away,BadPass,steal,,turnover,,T. Young,N. Batum
+240,3,6:37.0,62,49,CHO,IND,12,away,bad pass,steal,,turnover,,T. Young,N. Batum
 241,3,6:25.0,62,49,CHO,IND,12,home,JS,,25,miss3,0,M. Williams,
 242,3,6:23.0,62,49,CHO,IND,2,away,DefReb,,,DefReb,,Team,
 243,3,6:23.0,62,49,CHO,IND,0,home,Sub,,,,,J. Lamb,M. Williams
@@ -262,7 +262,7 @@
 260,3,4:04.0,69,56,CHO,IND,0,home,Sub,,,,,M. Williams,M. Kidd-Gilchrist
 261,3,4:04.0,69,56,CHO,IND,0,home,Sub,,,,,B. Roberts,K. Walker
 262,3,4:04.0,69,56,CHO,IND,0,away,Sub,,,,,A. Brooks,C. Miles
-263,3,3:51.0,69,56,CHO,IND,13,home,LostBall,steal,,turnover,,N. Batum,T. Young
+263,3,3:51.0,69,56,CHO,IND,13,home,lost ball,steal,,turnover,,N. Batum,T. Young
 264,3,3:44.0,69,56,CHO,IND,7,away,LU,block,1,miss2,0,T. Young,N. Batum
 265,3,3:42.0,69,56,CHO,IND,2,home,DefReb,,,DefReb,,M. Williams,
 266,3,3:28.0,69,56,CHO,IND,14,home,JS,,23,miss3,0,M. Williams,
@@ -306,7 +306,7 @@
 304,4,10:44.0,76,66,CHO,IND,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. O'Bryant,A. Brooks
 305,4,10:32.0,76,66,CHO,IND,12,away,JS,,27,miss3,0,M. Ellis,
 306,4,10:30.0,76,66,CHO,IND,2,home,DefReb,,,DefReb,,B. Roberts,
-307,4,10:18.0,76,66,CHO,IND,12,home,BadPass,steal,,turnover,,B. Roberts,A. Brooks
+307,4,10:18.0,76,66,CHO,IND,12,home,bad pass,steal,,turnover,,B. Roberts,A. Brooks
 308,4,10:13.0,76,68,CHO,IND,5,away,LU,assist,1,make2,2,M. Ellis,A. Brooks
 309,4,9:50.0,76,68,CHO,IND,23,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,C. Miles,M. Williams
 310,4,9:50.0,77,68,CHO,IND,0,home,FreeThrow,,,make1,1,M. Williams,
@@ -318,7 +318,7 @@
 316,4,9:17.0,78,70,CHO,IND,0,home,Sub,,,,,K. Walker,B. Roberts
 317,4,9:17.0,78,70,CHO,IND,0,home,Sub,,,,,M. Kidd-Gilchrist,J. O'Bryant
 318,4,9:17.0,78,70,CHO,IND,0,home,Sub,,,,,C. Zeller,M. Belinelli
-319,4,9:07.0,78,70,CHO,IND,10,away,BadPass,steal,,turnover,,M. Ellis,M. Williams
+319,4,9:07.0,78,70,CHO,IND,10,away,bad pass,steal,,turnover,,M. Ellis,M. Williams
 320,4,9:01.0,80,70,CHO,IND,6,home,LU,,1,make2,2,K. Walker,
 321,4,8:45.0,80,72,CHO,IND,16,away,JS,assist,7,make2,2,R. Christmas,P. George
 322,4,8:31.0,82,72,CHO,IND,14,home,LU,assist,1,make2,2,C. Zeller,K. Walker

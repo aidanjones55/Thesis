@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:46.0,0,0,BOS,CLE,14,home,JS,,22,miss2,0,A. Bradley,
 1,1,11:45.0,0,0,BOS,CLE,1,home,OffReb,,,OffReb,,A. Horford,
-2,1,11:43.0,0,0,BOS,CLE,2,home,LostBall,steal,,turnover,,A. Horford,J. Smith
+2,1,11:43.0,0,0,BOS,CLE,2,home,lost ball,steal,,turnover,,A. Horford,J. Smith
 3,1,11:34.0,0,0,BOS,CLE,9,away,JS,,24,miss3,0,J. Smith,
 4,1,11:32.0,0,0,BOS,CLE,2,away,OffReb,,,OffReb,,C. Frye,
 5,1,11:28.0,0,0,BOS,CLE,4,away,JS,,16,miss2,0,K. Irving,
@@ -9,7 +9,7 @@
 7,1,11:14.0,0,0,BOS,CLE,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Crowder,C. Frye
 8,1,11:14.0,0,1,BOS,CLE,0,away,FreeThrow,,,make1,1,C. Frye,
 9,1,11:14.0,0,2,BOS,CLE,0,away,FreeThrow,,,make1,1,C. Frye,
-10,1,11:03.0,0,2,BOS,CLE,11,home,LostBall,steal,,turnover,,I. Thomas,C. Frye
+10,1,11:03.0,0,2,BOS,CLE,11,home,lost ball,steal,,turnover,,I. Thomas,C. Frye
 11,1,10:55.0,0,2,BOS,CLE,8,away,JS,,23,miss3,0,J. Smith,
 12,1,10:55.0,0,2,BOS,CLE,0,home,DefReb,,,DefReb,,I. Thomas,
 13,1,10:46.0,0,2,BOS,CLE,9,home,JS,,24,miss3,0,A. Bradley,
@@ -140,7 +140,7 @@
 138,2,9:10.0,22,28,BOS,CLE,25,home,JS,,23,miss3,0,T. Rozier,
 139,2,9:09.0,22,28,BOS,CLE,1,away,DefReb,,,DefReb,,I. Shumpert,
 140,2,8:59.0,22,30,BOS,CLE,10,away,JS,assist,4,make2,2,L. James,D. Williams
-141,2,8:42.0,22,30,BOS,CLE,17,home,BadPass,steal,,turnover,,K. Olynyk,R. Jefferson
+141,2,8:42.0,22,30,BOS,CLE,17,home,bad pass,steal,,turnover,,K. Olynyk,R. Jefferson
 142,2,8:36.0,22,32,BOS,CLE,6,away,LU,,2,make2,2,L. James,
 143,2,8:16.0,24,32,BOS,CLE,20,home,JS,assist,21,make2,2,A. Bradley,M. Smart
 144,2,8:04.0,24,32,BOS,CLE,12,away,LU,,3,miss2,0,D. Williams,
@@ -215,7 +215,7 @@
 213,2,1:36.0,36,47,BOS,CLE,16,home,JS,,25,miss3,0,J. Crowder,
 214,2,1:35.0,36,47,BOS,CLE,1,away,DefReb,,,DefReb,,I. Shumpert,
 215,2,1:20.0,36,49,BOS,CLE,15,away,JS,,4,make2,2,K. Irving,
-216,2,1:04.0,36,49,BOS,CLE,16,home,BadPass,steal,,turnover,,M. Smart,K. Irving
+216,2,1:04.0,36,49,BOS,CLE,16,home,bad pass,steal,,turnover,,M. Smart,K. Irving
 217,2,0:50.0,36,51,BOS,CLE,14,away,JS,,5,make2,2,K. Irving,
 218,2,0:42.0,38,51,BOS,CLE,8,home,LU,,1,make2,2,I. Thomas,
 219,2,0:30.0,38,54,BOS,CLE,12,away,JS,assist,27,make3,3,J. Smith,I. Shumpert
@@ -271,16 +271,16 @@
 269,3,7:40.0,49,67,BOS,CLE,12,away,LU,,2,make2,2,K. Love,
 270,3,7:40.0,49,67,BOS,CLE,0,home,Timeout,,,,,,
 271,3,7:20.0,51,67,BOS,CLE,20,home,JS,,8,make2,2,I. Thomas,
-272,3,7:04.0,51,67,BOS,CLE,16,away,BadPass,steal,,turnover,,L. James,A. Bradley
+272,3,7:04.0,51,67,BOS,CLE,16,away,bad pass,steal,,turnover,,L. James,A. Bradley
 273,3,6:58.0,51,67,BOS,CLE,6,home,JS,,25,miss3,0,I. Thomas,
 274,3,6:57.0,51,67,BOS,CLE,1,away,DefReb,,,DefReb,,L. James,
-275,3,6:56.0,51,67,BOS,CLE,1,away,BadPass,steal,,turnover,,L. James,A. Johnson
+275,3,6:56.0,51,67,BOS,CLE,1,away,bad pass,steal,,turnover,,L. James,A. Johnson
 276,3,6:56.0,51,67,BOS,CLE,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. Irving,A. Johnson
 277,3,6:47.0,53,67,BOS,CLE,9,home,HS,assist,6,make2,2,A. Johnson,A. Horford
 278,3,6:22.0,53,70,BOS,CLE,25,away,JS,assist,23,make3,3,C. Frye,K. Love
-279,3,6:08.0,53,70,BOS,CLE,14,home,BadPass,steal,,turnover,,I. Thomas,C. Frye
+279,3,6:08.0,53,70,BOS,CLE,14,home,bad pass,steal,,turnover,,I. Thomas,C. Frye
 280,3,5:55.0,53,72,BOS,CLE,13,away,JS,,13,make2,2,J. Smith,
-281,3,5:39.0,53,72,BOS,CLE,16,home,BadPass,steal,,turnover,,A. Horford,J. Smith
+281,3,5:39.0,53,72,BOS,CLE,16,home,bad pass,steal,,turnover,,A. Horford,J. Smith
 282,3,5:33.0,53,75,BOS,CLE,6,away,JS,assist,26,make3,3,J. Smith,L. James
 283,3,5:13.0,53,75,BOS,CLE,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Love,J. Crowder
 284,3,5:13.0,53,75,BOS,CLE,0,home,FreeThrow,,,make1,0,J. Crowder,
@@ -294,7 +294,7 @@
 292,3,4:37.0,54,76,BOS,CLE,16,away,JS,,21,miss2,0,I. Shumpert,
 293,3,4:36.0,54,76,BOS,CLE,1,away,OffReb,,,OffReb,,K. Love,
 294,3,4:28.0,54,79,BOS,CLE,8,away,JS,,25,make3,3,L. James,
-295,3,4:05.0,54,79,BOS,CLE,23,home,BadPass,steal,,turnover,,J. Brown,K. Irving
+295,3,4:05.0,54,79,BOS,CLE,23,home,bad pass,steal,,turnover,,J. Brown,K. Irving
 296,3,3:59.0,54,79,BOS,CLE,6,away,Timeout,,,,,,
 297,3,3:59.0,54,79,BOS,CLE,0,home,Sub,,,,,K. Olynyk,A. Horford
 298,3,3:50.0,54,79,BOS,CLE,9,away,JS,,7,miss2,0,K. Irving,
@@ -406,7 +406,7 @@
 404,4,5:58.0,77,102,BOS,CLE,5,away,LU,assist,1,make2,2,J. Smith,L. James
 405,4,5:38.0,77,102,BOS,CLE,20,home,JS,,6,miss2,0,M. Smart,
 406,4,5:37.0,77,102,BOS,CLE,1,away,DefReb,,,DefReb,,L. James,
-407,4,5:18.0,77,102,BOS,CLE,19,away,BadPass,steal,,turnover,,L. James,J. Crowder
+407,4,5:18.0,77,102,BOS,CLE,19,away,bad pass,steal,,turnover,,L. James,J. Crowder
 408,4,5:12.0,77,102,BOS,CLE,6,home,LU,,2,miss2,0,I. Thomas,
 409,4,5:11.0,77,102,BOS,CLE,1,home,OffReb,,,OffReb,,J. Crowder,
 410,4,5:10.0,79,102,BOS,CLE,1,home,LU,,2,make2,2,J. Crowder,
@@ -432,14 +432,14 @@
 430,4,4:04.0,82,108,BOS,CLE,0,away,Sub,,,,,L. Sanders,J. Smith
 431,4,4:04.0,82,108,BOS,CLE,0,away,Sub,,,,,D. Williams,K. Irving
 432,4,4:04.0,82,108,BOS,CLE,0,away,Sub,,,,,J. Jones,K. Korver
-433,4,3:51.0,82,108,BOS,CLE,13,away,BadPass,steal,,turnover,,I. Shumpert,J. Young
+433,4,3:51.0,82,108,BOS,CLE,13,away,bad pass,steal,,turnover,,I. Shumpert,J. Young
 434,4,3:32.0,82,108,BOS,CLE,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Liggins,T. Rozier
 435,4,3:32.0,82,108,BOS,CLE,0,home,FreeThrow,,,make1,0,T. Rozier,
 436,4,3:32.0,82,108,BOS,CLE,0,home,OffReb,,,OffReb,,Team,
 437,4,3:32.0,83,108,BOS,CLE,0,home,FreeThrow,,,make1,1,T. Rozier,
 438,4,3:11.0,83,108,BOS,CLE,21,away,Traveling,,,turnover,,D. Liggins,
 439,4,2:58.0,85,108,BOS,CLE,13,home,JS,,21,make2,2,T. Rozier,
-440,4,2:45.0,85,108,BOS,CLE,13,away,BadPass,steal,,turnover,,D. Liggins,J. Mickey
+440,4,2:45.0,85,108,BOS,CLE,13,away,bad pass,steal,,turnover,,D. Liggins,J. Mickey
 441,4,2:39.0,87,108,BOS,CLE,6,home,LU,,3,make2,2,G. Green,
 442,4,2:24.0,87,110,BOS,CLE,15,away,LU,,2,make2,2,D. Liggins,
 443,4,2:11.0,87,110,BOS,CLE,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Sanders,J. Mickey
@@ -466,4 +466,4 @@
 464,4,0:30.0,91,114,BOS,CLE,0,home,OffReb,,,OffReb,,Team,
 465,4,0:30.0,91,114,BOS,CLE,0,home,FreeThrow,,,make1,0,G. Green,
 466,4,0:30.0,91,114,BOS,CLE,0,away,DefReb,,,DefReb,,L. Sanders,
-467,4,0:11.0,91,114,BOS,CLE,19,away,LostBall,steal,,turnover,,D. Williams,J. Brown
+467,4,0:11.0,91,114,BOS,CLE,19,away,lost ball,steal,,turnover,,D. Williams,J. Brown

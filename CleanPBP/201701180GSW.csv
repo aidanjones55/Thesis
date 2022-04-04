@@ -1,8 +1,8 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:46.0,0,3,GSW,OKC,14,away,JS,assist,26,make3,3,V. Oladipo,R. Westbrook
 1,1,11:32.0,0,3,GSW,OKC,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Roberson,D. Green
-2,1,11:24.0,0,3,GSW,OKC,8,home,BadPass,steal,,turnover,,Z. Pachulia,D. Sabonis
-3,1,11:20.0,0,3,GSW,OKC,4,away,BadPass,steal,,turnover,,R. Westbrook,S. Curry
+2,1,11:24.0,0,3,GSW,OKC,8,home,bad pass,steal,,turnover,,Z. Pachulia,D. Sabonis
+3,1,11:20.0,0,3,GSW,OKC,4,away,bad pass,steal,,turnover,,R. Westbrook,S. Curry
 4,1,11:15.0,2,3,GSW,OKC,5,home,LU,assist,1,make2,2,K. Durant,K. Thompson
 5,1,10:54.0,2,3,GSW,OKC,21,away,JS,,25,miss3,0,J. Grant,
 6,1,10:53.0,2,3,GSW,OKC,1,home,DefReb,,,DefReb,,K. Durant,
@@ -11,9 +11,9 @@
 9,1,10:47.0,4,3,GSW,OKC,0,home,FreeThrow,,,make1,1,K. Durant,
 10,1,10:29.0,4,3,GSW,OKC,18,away,JS,,26,miss3,0,J. Grant,
 11,1,10:28.0,4,3,GSW,OKC,1,home,DefReb,,,DefReb,,K. Durant,
-12,1,10:21.0,4,3,GSW,OKC,7,home,BadPass,steal,,turnover,,K. Durant,V. Oladipo
+12,1,10:21.0,4,3,GSW,OKC,7,home,bad pass,steal,,turnover,,K. Durant,V. Oladipo
 13,1,10:16.0,4,5,GSW,OKC,5,away,LU,,1,make2,2,V. Oladipo,
-14,1,10:02.0,4,5,GSW,OKC,14,home,BadPass,steal,,turnover,,K. Durant,V. Oladipo
+14,1,10:02.0,4,5,GSW,OKC,14,home,bad pass,steal,,turnover,,K. Durant,V. Oladipo
 15,1,10:01.0,4,5,GSW,OKC,1,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,K. Durant,V. Oladipo
 16,1,9:44.0,4,5,GSW,OKC,17,away,JS,,6,miss2,0,J. Grant,
 17,1,9:43.0,4,5,GSW,OKC,1,home,DefReb,,,DefReb,,S. Curry,
@@ -22,7 +22,7 @@
 20,1,9:25.0,4,5,GSW,OKC,6,away,LU,block,2,miss2,0,A. Roberson,K. Durant
 21,1,9:22.0,4,5,GSW,OKC,3,home,DefReb,,,DefReb,,D. Green,
 22,1,9:08.0,7,5,GSW,OKC,14,home,JS,assist,24,make3,3,K. Thompson,D. Green
-23,1,8:49.0,7,5,GSW,OKC,19,away,LostBall,steal,,turnover,,D. Sabonis,Z. Pachulia
+23,1,8:49.0,7,5,GSW,OKC,19,away,lost ball,steal,,turnover,,D. Sabonis,Z. Pachulia
 24,1,8:45.0,9,5,GSW,OKC,4,home,DK,,0,make2,2,D. Green,
 25,1,8:44.0,9,5,GSW,OKC,1,away,Timeout,,,,,,
 26,1,8:34.0,9,5,GSW,OKC,10,away,JS,,18,miss2,0,R. Westbrook,
@@ -44,10 +44,10 @@
 42,1,6:56.0,14,10,GSW,OKC,12,away,DK,assist,0,make2,2,D. Sabonis,R. Westbrook
 43,1,6:38.0,16,10,GSW,OKC,18,home,JS,assist,20,make2,2,A. Iguodala,Z. Pachulia
 44,1,6:25.0,16,13,GSW,OKC,13,away,JS,,24,make3,3,R. Westbrook,
-45,1,6:17.0,16,13,GSW,OKC,8,home,BadPass,steal,,turnover,,D. Green,V. Oladipo
+45,1,6:17.0,16,13,GSW,OKC,8,home,bad pass,steal,,turnover,,D. Green,V. Oladipo
 46,1,6:16.0,16,13,GSW,OKC,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,Z. Pachulia,V. Oladipo
 47,1,6:16.0,16,13,GSW,OKC,0,away,Sub,,,,,E. Freedom,D. Sabonis
-48,1,6:03.0,16,13,GSW,OKC,13,away,BadPass,steal,,turnover,,R. Westbrook,K. Thompson
+48,1,6:03.0,16,13,GSW,OKC,13,away,bad pass,steal,,turnover,,R. Westbrook,K. Thompson
 49,1,5:58.0,18,13,GSW,OKC,5,home,LU,assist,0,make2,2,S. Curry,A. Iguodala
 50,1,5:46.0,18,13,GSW,OKC,12,away,JS,,17,miss2,0,R. Westbrook,
 51,1,5:44.0,18,13,GSW,OKC,2,home,DefReb,,,DefReb,,Z. Pachulia,
@@ -76,7 +76,7 @@
 74,1,3:47.0,22,22,GSW,OKC,1,away,DefReb,,,DefReb,,V. Oladipo,
 75,1,3:42.0,22,22,GSW,OKC,5,away,JS,,20,miss2,0,V. Oladipo,
 76,1,3:41.0,22,22,GSW,OKC,1,home,DefReb,,,DefReb,,J. McGee,
-77,1,3:38.0,22,22,GSW,OKC,3,home,LostBall,steal,,turnover,,J. McGee,R. Westbrook
+77,1,3:38.0,22,22,GSW,OKC,3,home,lost ball,steal,,turnover,,J. McGee,R. Westbrook
 78,1,3:37.0,22,22,GSW,OKC,1,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. McGee,A. Roberson
 79,1,3:37.0,22,22,GSW,OKC,0,away,FreeThrow,,,make1,0,A. Roberson,
 80,1,3:37.0,22,22,GSW,OKC,0,away,OffReb,,,OffReb,,Team,
@@ -104,7 +104,7 @@
 102,1,1:58.0,24,27,GSW,OKC,16,away,JS,,26,miss3,0,C. Payne,
 103,1,1:57.0,24,27,GSW,OKC,1,home,DefReb,,,DefReb,,J. McGee,
 104,1,1:47.0,26,27,GSW,OKC,10,home,JS,assist,19,make2,2,K. Durant,I. Clark
-105,1,1:33.0,26,27,GSW,OKC,14,away,BadPass,steal,,turnover,,A. Roberson,A. Iguodala
+105,1,1:33.0,26,27,GSW,OKC,14,away,bad pass,steal,,turnover,,A. Roberson,A. Iguodala
 106,1,1:25.0,28,27,GSW,OKC,8,home,JS,assist,7,make2,2,K. Durant,A. Iguodala
 107,1,1:10.0,28,29,GSW,OKC,15,away,LU,assist,1,make2,2,E. Freedom,C. Payne
 108,1,0:57.0,28,29,GSW,OKC,13,home,BadPass,,,turnover,,S. Curry,
@@ -118,8 +118,8 @@
 116,1,0:03.0,30,31,GSW,OKC,2,home,DefReb,,,DefReb,,D. West,
 117,1,0:00.0,30,31,GSW,OKC,3,home,JS,,46,miss3,0,K. Durant,
 118,1,0:00.0,30,31,GSW,OKC,0,home,OffReb,,,OffReb,,Team,
-119,2,11:44.0,30,31,GSW,OKC,16,home,BadPass,steal,,turnover,,A. Iguodala,Á. Abrines
-120,2,11:37.0,30,31,GSW,OKC,7,away,LostBall,steal,,turnover,,E. Freedom,A. Iguodala
+119,2,11:44.0,30,31,GSW,OKC,16,home,bad pass,steal,,turnover,,A. Iguodala,Á. Abrines
+120,2,11:37.0,30,31,GSW,OKC,7,away,lost ball,steal,,turnover,,E. Freedom,A. Iguodala
 121,2,11:15.0,32,31,GSW,OKC,22,home,JS,assist,10,make2,2,S. Livingston,A. Iguodala
 122,2,10:54.0,32,33,GSW,OKC,21,away,LU,,2,make2,2,C. Payne,
 123,2,10:44.0,32,33,GSW,OKC,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,Á. Abrines,K. Durant
@@ -132,16 +132,16 @@
 130,2,10:26.0,33,33,GSW,OKC,1,away,OffReb,,,OffReb,,K. Singler,
 131,2,10:12.0,33,35,GSW,OKC,14,away,JS,,13,make2,2,C. Payne,
 132,2,9:48.0,33,35,GSW,OKC,24,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Morrow,A. Iguodala
-133,2,9:36.0,33,35,GSW,OKC,12,home,LostBall,steal,,turnover,,I. Clark,A. Morrow
+133,2,9:36.0,33,35,GSW,OKC,12,home,lost ball,steal,,turnover,,I. Clark,A. Morrow
 134,2,9:30.0,33,37,GSW,OKC,6,away,LU,assist,1,make2,2,E. Freedom,A. Morrow
-135,2,9:04.0,33,37,GSW,OKC,26,home,LostBall,steal,,turnover,,I. Clark,E. Freedom
+135,2,9:04.0,33,37,GSW,OKC,26,home,lost ball,steal,,turnover,,I. Clark,E. Freedom
 136,2,8:51.0,33,40,GSW,OKC,13,away,JS,assist,23,make3,3,K. Singler,E. Freedom
 137,2,8:50.0,33,40,GSW,OKC,1,home,Timeout,,,,,,
 138,2,8:50.0,33,40,GSW,OKC,0,home,Sub,,,,,K. Thompson,I. Clark
 139,2,8:37.0,33,40,GSW,OKC,13,home,JS,,13,miss2,0,S. Livingston,
 140,2,8:36.0,33,40,GSW,OKC,1,home,OffReb,,,OffReb,,K. Thompson,
 141,2,8:28.0,35,40,GSW,OKC,8,home,JS,assist,14,make2,2,D. West,S. Livingston
-142,2,8:11.0,35,40,GSW,OKC,17,away,BadPass,steal,,turnover,,E. Freedom,D. West
+142,2,8:11.0,35,40,GSW,OKC,17,away,bad pass,steal,,turnover,,E. Freedom,D. West
 143,2,8:05.0,38,40,GSW,OKC,6,home,JS,,28,make3,3,K. Durant,
 144,2,8:04.0,38,40,GSW,OKC,1,away,Timeout,,,,,,
 145,2,8:04.0,38,40,GSW,OKC,0,away,Sub,,,,,R. Westbrook,A. Morrow
@@ -188,7 +188,7 @@
 186,2,3:44.0,50,48,GSW,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
 187,2,3:44.0,50,48,GSW,OKC,0,away,FreeThrow,,,make1,0,R. Westbrook,
 188,2,3:43.0,50,48,GSW,OKC,1,home,DefReb,,,DefReb,,D. Green,
-189,2,3:38.0,50,48,GSW,OKC,5,home,BadPass,steal,,turnover,,D. Green,J. Grant
+189,2,3:38.0,50,48,GSW,OKC,5,home,bad pass,steal,,turnover,,D. Green,J. Grant
 190,2,3:25.0,50,48,GSW,OKC,13,away,JS,,4,miss2,0,V. Oladipo,
 191,2,3:24.0,50,48,GSW,OKC,1,home,DefReb,,,DefReb,,K. Thompson,
 192,2,3:10.0,50,48,GSW,OKC,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. Westbrook,D. Green
@@ -207,8 +207,8 @@
 205,2,2:22.0,51,48,GSW,OKC,19,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Thompson,R. Westbrook
 206,2,2:22.0,51,49,GSW,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
 207,2,2:22.0,51,50,GSW,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
-208,2,2:05.0,51,50,GSW,OKC,17,home,BadPass,steal,,turnover,,K. Thompson,V. Oladipo
-209,2,1:51.0,51,50,GSW,OKC,14,away,LostBall,steal,,turnover,,C. Payne,A. Iguodala
+208,2,2:05.0,51,50,GSW,OKC,17,home,bad pass,steal,,turnover,,K. Thompson,V. Oladipo
+209,2,1:51.0,51,50,GSW,OKC,14,away,lost ball,steal,,turnover,,C. Payne,A. Iguodala
 210,2,1:45.0,51,50,GSW,OKC,6,home,DK,,0,miss2,0,K. Durant,
 211,2,1:44.0,51,50,GSW,OKC,1,away,DefReb,,,DefReb,,Team,
 212,2,1:34.0,51,50,GSW,OKC,10,away,JS,,20,miss2,0,R. Westbrook,
@@ -230,7 +230,7 @@
 228,2,0:33.0,53,52,GSW,OKC,0,home,Sub,,,,,Z. Pachulia,K. Durant
 229,2,0:33.0,53,52,GSW,OKC,0,away,Sub,,,,,Á. Abrines,A. Roberson
 230,2,0:33.0,54,52,GSW,OKC,0,home,FreeThrow,,,make1,1,D. Green,
-231,2,0:19.0,54,52,GSW,OKC,14,away,LostBall,steal,,turnover,,R. Westbrook,D. Green
+231,2,0:19.0,54,52,GSW,OKC,14,away,lost ball,steal,,turnover,,R. Westbrook,D. Green
 232,2,0:15.0,56,52,GSW,OKC,4,home,LU,assist,2,make2,2,S. Curry,D. Green
 233,2,0:04.0,56,52,GSW,OKC,11,away,FlagrantFoul1,DrawnBy,,FlagrantFoul1,,Z. Pachulia,R. Westbrook
 234,2,0:04.0,56,53,GSW,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook makes flagrant free throw 1 of 2,
@@ -272,14 +272,14 @@
 270,3,8:27.0,63,61,GSW,OKC,2,away,DefReb,,,DefReb,,R. Westbrook,
 271,3,8:24.0,63,61,GSW,OKC,3,away,JS,block,3,miss2,0,A. Roberson,K. Durant
 272,3,8:22.0,63,61,GSW,OKC,2,away,OffReb,,,OffReb,,V. Oladipo,
-273,3,8:14.0,63,61,GSW,OKC,8,away,BadPass,steal,,turnover,,R. Westbrook,S. Curry
+273,3,8:14.0,63,61,GSW,OKC,8,away,bad pass,steal,,turnover,,R. Westbrook,S. Curry
 274,3,8:09.0,63,61,GSW,OKC,5,home,LU,,1,miss2,0,Z. Pachulia,
 275,3,8:07.0,63,61,GSW,OKC,2,away,DefReb,,,DefReb,,R. Westbrook,
 276,3,7:55.0,63,63,GSW,OKC,12,away,JS,assist,5,make2,2,J. Grant,R. Westbrook
 277,3,7:43.0,66,63,GSW,OKC,12,home,JS,assist,25,make3,3,K. Durant,S. Curry
 278,3,7:35.0,66,63,GSW,OKC,8,away,Traveling,,,turnover,,R. Westbrook,
 279,3,7:32.0,68,63,GSW,OKC,3,home,JS,assist,12,make2,2,K. Thompson,K. Durant
-280,3,7:19.0,68,63,GSW,OKC,13,away,BadPass,steal,,turnover,,R. Westbrook,S. Curry
+280,3,7:19.0,68,63,GSW,OKC,13,away,bad pass,steal,,turnover,,R. Westbrook,S. Curry
 281,3,7:12.0,71,63,GSW,OKC,7,home,JS,assist,23,make3,3,K. Thompson,S. Curry
 282,3,7:11.0,71,63,GSW,OKC,1,away,Timeout,,,,,,
 283,3,7:11.0,71,63,GSW,OKC,0,away,Sub,,,,,E. Freedom,D. Sabonis
@@ -356,7 +356,7 @@
 354,4,11:37.0,93,78,GSW,OKC,2,home,DefReb,,,DefReb,,K. Thompson,
 355,4,11:19.0,93,78,GSW,OKC,18,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Iguodala,Á. Abrines
 356,4,11:19.0,93,78,GSW,OKC,0,home,OffensiveFoul,,,turnover,,A. Iguodala,
-357,4,11:03.0,93,78,GSW,OKC,16,away,LostBall,steal,,turnover,,E. Freedom,A. Iguodala
+357,4,11:03.0,93,78,GSW,OKC,16,away,lost ball,steal,,turnover,,E. Freedom,A. Iguodala
 358,4,10:50.0,93,78,GSW,OKC,13,home,JS,,20,miss2,0,K. Thompson,
 359,4,10:49.0,93,78,GSW,OKC,1,home,OffReb,,,OffReb,,D. Green,
 360,4,10:41.0,95,78,GSW,OKC,8,home,JS,assist,3,make2,2,A. Iguodala,D. West
@@ -427,7 +427,7 @@
 425,4,3:20.0,115,94,GSW,OKC,19,home,DK,assist,0,make2,2,D. Green,S. Curry
 426,4,3:01.0,115,94,GSW,OKC,19,away,JS,,20,miss2,0,R. Westbrook,
 427,4,3:00.0,115,94,GSW,OKC,1,home,DefReb,,,DefReb,,S. Curry,
-428,4,2:51.0,115,94,GSW,OKC,9,home,LostBall,steal,,turnover,,S. Curry,R. Westbrook
+428,4,2:51.0,115,94,GSW,OKC,9,home,lost ball,steal,,turnover,,S. Curry,R. Westbrook
 429,4,2:47.0,115,94,GSW,OKC,4,away,LU,,1,miss2,0,R. Westbrook,
 430,4,2:45.0,115,94,GSW,OKC,2,home,DefReb,,,DefReb,,K. Durant,
 431,4,2:27.0,115,94,GSW,OKC,18,home,JS,,27,miss3,0,D. Green,

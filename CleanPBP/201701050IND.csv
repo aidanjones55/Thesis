@@ -17,7 +17,7 @@
 15,1,9:44.0,5,2,IND,BRK,1,home,DefReb,,,DefReb,,J. Teague,
 16,1,9:38.0,5,2,IND,BRK,6,home,JS,,8,miss2,0,T. Young,
 17,1,9:37.0,5,2,IND,BRK,1,away,DefReb,,,DefReb,,B. Lopez,
-18,1,9:23.0,5,2,IND,BRK,14,away,BadPass,steal,,turnover,,B. Bogdanović,P. George
+18,1,9:23.0,5,2,IND,BRK,14,away,bad pass,steal,,turnover,,B. Bogdanović,P. George
 19,1,9:18.0,7,2,IND,BRK,5,home,LU,assist,3,make2,2,G. Robinson,P. George
 20,1,9:13.0,7,2,IND,BRK,5,away,LU,block,2,miss2,0,B. Bogdanović,M. Turner
 21,1,9:13.0,7,2,IND,BRK,0,away,OffReb,,,OffReb,,Team,
@@ -40,7 +40,7 @@
 38,1,7:45.0,13,5,IND,BRK,9,home,LU,assist,1,make2,2,T. Young,J. Teague
 39,1,7:45.0,13,5,IND,BRK,0,away,Timeout,,,,,,
 40,1,7:45.0,13,5,IND,BRK,0,away,Sub,,,,,S. Kilpatrick,J. Harris
-41,1,7:34.0,13,5,IND,BRK,11,away,BadPass,steal,,turnover,,B. Lopez,P. George
+41,1,7:34.0,13,5,IND,BRK,11,away,bad pass,steal,,turnover,,B. Lopez,P. George
 42,1,7:28.0,16,5,IND,BRK,6,home,JS,assist,25,make3,3,J. Teague,P. George
 43,1,7:12.0,16,5,IND,BRK,16,away,DK,block,0,miss2,0,B. Bogdanović,M. Turner
 44,1,7:11.0,16,5,IND,BRK,1,home,DefReb,,,DefReb,,J. Teague,
@@ -63,8 +63,8 @@
 61,1,5:18.0,21,12,IND,BRK,25,away,LU,assist,2,make2,2,T. Booker,L. Scola
 62,1,4:57.0,21,12,IND,BRK,21,home,JS,block,10,miss2,0,J. Teague,S. Dinwiddie
 63,1,4:54.0,21,12,IND,BRK,3,away,DefReb,,,DefReb,,T. Booker,
-64,1,4:51.0,21,12,IND,BRK,3,away,LostBall,steal,,turnover,,T. Booker,J. Teague
-65,1,4:48.0,21,12,IND,BRK,3,home,BadPass,steal,,turnover,,J. Teague,C. LeVert
+64,1,4:51.0,21,12,IND,BRK,3,away,lost ball,steal,,turnover,,T. Booker,J. Teague
+65,1,4:48.0,21,12,IND,BRK,3,home,bad pass,steal,,turnover,,J. Teague,C. LeVert
 66,1,4:31.0,21,12,IND,BRK,17,away,JS,,23,miss3,0,C. LeVert,
 67,1,4:30.0,21,12,IND,BRK,1,home,DefReb,,,DefReb,,M. Turner,
 68,1,4:18.0,23,12,IND,BRK,12,home,JS,,7,make2,2,P. George,
@@ -94,7 +94,7 @@
 92,1,1:25.0,29,19,IND,BRK,11,away,LU,,1,miss2,0,S. Dinwiddie,
 93,1,1:24.0,29,19,IND,BRK,1,away,OffReb,,,OffReb,,J. Hamilton,
 94,1,1:24.0,29,21,IND,BRK,0,away,LU,,2,make2,2,J. Hamilton,
-95,1,1:10.0,29,21,IND,BRK,14,home,BadPass,steal,,turnover,,M. Ellis,J. Hamilton
+95,1,1:10.0,29,21,IND,BRK,14,home,bad pass,steal,,turnover,,M. Ellis,J. Hamilton
 96,1,1:04.0,29,21,IND,BRK,6,away,JS,,6,miss2,0,S. Kilpatrick,
 97,1,1:03.0,29,21,IND,BRK,1,away,OffReb,,,OffReb,,L. Scola,
 98,1,0:53.0,29,23,IND,BRK,10,away,JS,,20,make2,2,S. Dinwiddie,
@@ -228,7 +228,7 @@
 226,3,10:19.0,64,57,IND,BRK,7,away,JS,assist,26,make3,3,B. Bogdanović,J. Harris
 227,3,10:06.0,64,57,IND,BRK,13,home,LU,,2,miss2,0,J. Teague,
 228,3,10:05.0,64,57,IND,BRK,1,away,DefReb,,,DefReb,,B. Lopez,
-229,3,10:00.0,64,57,IND,BRK,5,away,BadPass,steal,,turnover,,I. Whitehead,P. George
+229,3,10:00.0,64,57,IND,BRK,5,away,bad pass,steal,,turnover,,I. Whitehead,P. George
 230,3,9:55.0,64,57,IND,BRK,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Lopez,T. Young
 231,3,9:55.0,65,57,IND,BRK,0,home,FreeThrow,,,make1,1,T. Young,
 232,3,9:55.0,66,57,IND,BRK,0,home,FreeThrow,,,make1,1,T. Young,
@@ -236,7 +236,7 @@
 234,3,9:33.0,66,59,IND,BRK,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harris,M. Turner
 235,3,9:33.0,67,59,IND,BRK,0,home,FreeThrow,,,make1,1,M. Turner,
 236,3,9:33.0,68,59,IND,BRK,0,home,FreeThrow,,,make1,1,M. Turner,
-237,3,9:26.0,68,59,IND,BRK,7,away,BadPass,steal,,turnover,,J. Harris,G. Robinson
+237,3,9:26.0,68,59,IND,BRK,7,away,bad pass,steal,,turnover,,J. Harris,G. Robinson
 238,3,9:21.0,68,59,IND,BRK,5,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,I. Whitehead,T. Young
 239,3,9:21.0,69,59,IND,BRK,0,home,FreeThrow,,,make1,1,T. Young,
 240,3,9:21.0,69,59,IND,BRK,0,home,FreeThrow,,,make1,0,T. Young,
@@ -259,14 +259,14 @@
 257,3,7:35.0,76,63,IND,BRK,9,home,LU,,2,miss2,0,M. Turner,
 258,3,7:34.0,76,63,IND,BRK,1,home,OffReb,,,OffReb,,M. Turner,
 259,3,7:32.0,78,63,IND,BRK,2,home,LU,,1,make2,2,M. Turner,
-260,3,7:23.0,78,63,IND,BRK,9,away,BadPass,steal,,turnover,,T. Booker,M. Turner
+260,3,7:23.0,78,63,IND,BRK,9,away,bad pass,steal,,turnover,,T. Booker,M. Turner
 261,3,7:17.0,80,63,IND,BRK,6,home,DK,assist,0,make2,2,T. Young,J. Teague
 262,3,7:16.0,80,63,IND,BRK,1,away,Timeout,,,,,,
 263,3,7:16.0,80,63,IND,BRK,0,away,Sub,,,,,L. Scola,B. Lopez
 264,3,7:16.0,80,63,IND,BRK,0,away,Sub,,,,,S. Kilpatrick,J. Harris
 265,3,7:03.0,80,63,IND,BRK,13,away,JS,,7,miss2,0,S. Dinwiddie,
 266,3,7:02.0,80,63,IND,BRK,1,home,DefReb,,,DefReb,,G. Robinson,
-267,3,6:59.0,80,63,IND,BRK,3,home,BadPass,steal,,turnover,,G. Robinson,S. Kilpatrick
+267,3,6:59.0,80,63,IND,BRK,3,home,bad pass,steal,,turnover,,G. Robinson,S. Kilpatrick
 268,3,6:44.0,80,63,IND,BRK,15,away,LU,block,2,miss2,0,B. Bogdanović,M. Turner
 269,3,6:43.0,80,63,IND,BRK,1,home,DefReb,,,DefReb,,T. Young,
 270,3,6:36.0,82,63,IND,BRK,7,home,JS,,7,make2,2,P. George,
@@ -301,7 +301,7 @@
 299,3,3:56.0,90,69,IND,BRK,14,home,JS,assist,14,make2,2,K. Séraphin,J. Teague
 300,3,3:30.0,90,69,IND,BRK,26,away,JS,,26,miss3,0,L. Scola,
 301,3,3:28.0,90,69,IND,BRK,2,home,DefReb,,,DefReb,,K. Séraphin,
-302,3,3:18.0,90,69,IND,BRK,10,home,BadPass,steal,,turnover,,J. Teague,S. Dinwiddie
+302,3,3:18.0,90,69,IND,BRK,10,home,bad pass,steal,,turnover,,J. Teague,S. Dinwiddie
 303,3,3:08.0,90,72,IND,BRK,10,away,JS,assist,27,make3,3,S. Dinwiddie,S. Kilpatrick
 304,3,2:46.0,93,72,IND,BRK,22,home,JS,assist,23,make3,3,P. George,J. Teague
 305,3,2:39.0,93,75,IND,BRK,7,away,JS,assist,25,make3,3,C. LeVert,S. Dinwiddie
@@ -381,7 +381,7 @@
 379,4,6:12.0,109,98,IND,BRK,16,away,LU,assist,1,make2,2,J. Harris,R. Foye
 380,4,5:59.0,111,98,IND,BRK,13,home,DK,assist,0,make2,2,M. Turner,J. Teague
 381,4,5:42.0,111,100,IND,BRK,17,away,JS,,13,make2,2,I. Whitehead,
-382,4,5:23.0,111,100,IND,BRK,19,home,BadPass,steal,,turnover,,J. Teague,R. Foye
+382,4,5:23.0,111,100,IND,BRK,19,home,bad pass,steal,,turnover,,J. Teague,R. Foye
 383,4,5:11.0,111,103,IND,BRK,12,away,JS,assist,25,make3,3,J. Hamilton,R. Foye
 384,4,4:51.0,111,103,IND,BRK,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Whitehead,P. George
 385,4,4:51.0,112,103,IND,BRK,0,home,FreeThrow,,,make1,1,P. George,
@@ -429,4 +429,4 @@
 427,4,0:45.0,121,109,IND,BRK,6,away,LU,assist,2,make2,2,A. Bennett,J. Harris
 428,4,0:25.0,121,109,IND,BRK,20,home,JS,,11,miss2,0,J. Young,
 429,4,0:24.0,121,109,IND,BRK,1,away,DefReb,,,DefReb,,L. Scola,
-430,4,0:17.0,121,109,IND,BRK,7,away,BadPass,steal,,turnover,,R. Foye,L. Allen
+430,4,0:17.0,121,109,IND,BRK,7,away,bad pass,steal,,turnover,,R. Foye,L. Allen

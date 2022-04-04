@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:46.0,0,0,WAS,MIN,14,home,JS,,12,miss2,0,M. Morris,
 1,1,11:45.0,0,0,WAS,MIN,1,away,DefReb,,,DefReb,,R. Rubio,
-2,1,11:43.0,0,0,WAS,MIN,2,away,BadPass,steal,,turnover,,R. Rubio,O. Porter
+2,1,11:43.0,0,0,WAS,MIN,2,away,bad pass,steal,,turnover,,R. Rubio,O. Porter
 3,1,11:27.0,2,0,WAS,MIN,16,home,JS,,14,make2,2,M. Gortat,
 4,1,11:11.0,2,2,WAS,MIN,16,away,JS,,12,make2,2,A. Wiggins,
 5,1,11:02.0,4,2,WAS,MIN,9,home,LU,assist,0,make2,2,M. Gortat,J. Wall
@@ -34,8 +34,8 @@
 32,1,7:42.0,11,9,WAS,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
 33,1,7:42.0,11,9,WAS,MIN,0,home,Sub,,,,,J. Smith,M. Gortat
 34,1,7:42.0,11,10,WAS,MIN,0,away,FreeThrow,,,make1,1,K. Towns,
-35,1,7:29.0,11,10,WAS,MIN,13,home,BadPass,steal,,turnover,,M. Morris,A. Wiggins
-36,1,7:21.0,11,10,WAS,MIN,8,away,BadPass,steal,,turnover,,Z. LaVine,J. Wall
+35,1,7:29.0,11,10,WAS,MIN,13,home,bad pass,steal,,turnover,,M. Morris,A. Wiggins
+36,1,7:21.0,11,10,WAS,MIN,8,away,bad pass,steal,,turnover,,Z. LaVine,J. Wall
 37,1,7:17.0,13,10,WAS,MIN,4,home,DK,assist,0,make2,2,O. Porter,J. Wall
 38,1,6:50.0,13,10,WAS,MIN,27,away,JS,,23,miss3,0,Z. LaVine,
 39,1,6:49.0,13,10,WAS,MIN,1,away,OffReb,,,OffReb,,K. Towns,
@@ -158,7 +158,7 @@
 156,2,4:05.0,49,45,WAS,MIN,10,home,DK,assist,0,make2,2,M. Gortat,J. Wall
 157,2,3:46.0,49,45,WAS,MIN,19,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Wiggins,M. Gortat
 158,2,3:46.0,49,45,WAS,MIN,0,away,OffensiveFoul,,,turnover,,A. Wiggins,
-159,2,3:33.0,49,45,WAS,MIN,13,home,LostBall,steal,,turnover,,M. Gortat,R. Rubio
+159,2,3:33.0,49,45,WAS,MIN,13,home,lost ball,steal,,turnover,,M. Gortat,R. Rubio
 160,2,3:28.0,49,45,WAS,MIN,5,away,JS,block,6,miss2,0,R. Rubio,O. Porter
 161,2,3:26.0,49,45,WAS,MIN,2,home,DefReb,,,DefReb,,M. Gortat,
 162,2,3:16.0,49,45,WAS,MIN,10,home,JS,,25,miss3,0,J. Wall,
@@ -175,7 +175,7 @@
 173,2,1:31.0,51,47,WAS,MIN,19,home,JS,,21,miss2,0,M. Morris,
 174,2,1:30.0,51,47,WAS,MIN,1,home,OffReb,,,OffReb,,M. Gortat,
 175,2,1:27.0,54,47,WAS,MIN,3,home,JS,assist,26,make3,3,B. Beal,O. Porter
-176,2,1:11.0,54,47,WAS,MIN,16,away,LostBall,steal,,turnover,,G. Dieng,J. Wall
+176,2,1:11.0,54,47,WAS,MIN,16,away,lost ball,steal,,turnover,,G. Dieng,J. Wall
 177,2,1:09.0,54,47,WAS,MIN,2,home,DiscontinueDribbleTurnover,,,turnover,,J. Wall,
 178,2,0:55.0,54,47,WAS,MIN,14,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,K. Towns,M. Gortat
 179,2,0:55.0,54,47,WAS,MIN,0,away,OffensiveFoul,,,turnover,,K. Towns,
@@ -200,7 +200,7 @@
 198,3,10:21.0,64,52,WAS,MIN,1,away,Timeout,,,,,,
 199,3,9:58.0,64,52,WAS,MIN,23,away,JS,,29,miss3,0,K. Towns,
 200,3,9:57.0,64,52,WAS,MIN,1,home,DefReb,,,DefReb,,B. Beal,
-201,3,9:44.0,64,52,WAS,MIN,13,home,BadPass,steal,,turnover,,J. Wall,K. Towns
+201,3,9:44.0,64,52,WAS,MIN,13,home,bad pass,steal,,turnover,,J. Wall,K. Towns
 202,3,9:30.0,64,52,WAS,MIN,14,away,JS,,26,miss3,0,K. Towns,
 203,3,9:29.0,64,52,WAS,MIN,1,away,OffReb,,,OffReb,,G. Dieng,
 204,3,9:27.0,64,52,WAS,MIN,2,away,LU,,2,miss2,0,G. Dieng,
@@ -211,7 +211,7 @@
 209,3,8:41.0,66,52,WAS,MIN,20,home,JS,,23,miss3,0,O. Porter,
 210,3,8:41.0,66,52,WAS,MIN,0,away,DefReb,,,DefReb,,R. Rubio,
 211,3,8:23.0,66,55,WAS,MIN,18,away,JS,,27,make3,3,A. Wiggins,
-212,3,8:08.0,66,55,WAS,MIN,15,home,LostBall,steal,,turnover,,M. Gortat,G. Dieng
+212,3,8:08.0,66,55,WAS,MIN,15,home,lost ball,steal,,turnover,,M. Gortat,G. Dieng
 213,3,8:01.0,66,57,WAS,MIN,7,away,LU,assist,0,make2,2,K. Towns,R. Rubio
 214,3,7:45.0,66,57,WAS,MIN,16,home,JS,,27,miss3,0,B. Beal,
 215,3,7:44.0,66,57,WAS,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
@@ -226,7 +226,7 @@
 224,3,7:08.0,67,61,WAS,MIN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Gortat,A. Wiggins
 225,3,7:08.0,67,62,WAS,MIN,0,away,FreeThrow,,,make1,1,A. Wiggins,
 226,3,6:59.0,67,62,WAS,MIN,9,away,KickBallViolation,,,KickBallViolation,,R. Rubio,
-227,3,6:48.0,67,62,WAS,MIN,11,home,BadPass,steal,,turnover,,J. Wall,A. Wiggins
+227,3,6:48.0,67,62,WAS,MIN,11,home,bad pass,steal,,turnover,,J. Wall,A. Wiggins
 228,3,6:42.0,67,62,WAS,MIN,6,away,LU,,1,miss2,0,G. Dieng,
 229,3,6:42.0,67,62,WAS,MIN,0,home,DefReb,,,DefReb,,M. Gortat,
 230,3,6:33.0,67,62,WAS,MIN,9,home,JS,,5,miss2,0,B. Beal,
@@ -260,7 +260,7 @@
 258,3,1:36.0,80,81,WAS,MIN,12,home,JS,,17,miss2,0,J. Wall,
 259,3,1:35.0,80,81,WAS,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
 260,3,1:22.0,80,83,WAS,MIN,13,away,LU,assist,1,make2,2,R. Rubio,K. Towns
-261,3,1:08.0,80,83,WAS,MIN,14,home,BadPass,steal,,turnover,,O. Porter,G. Dieng
+261,3,1:08.0,80,83,WAS,MIN,14,home,bad pass,steal,,turnover,,O. Porter,G. Dieng
 262,3,1:02.0,80,85,WAS,MIN,6,away,LU,,1,make2,2,G. Dieng,
 263,3,0:50.0,80,85,WAS,MIN,12,home,JS,,19,miss2,0,J. Smith,
 264,3,0:49.0,80,85,WAS,MIN,1,home,OffReb,,,OffReb,,S. Mac,

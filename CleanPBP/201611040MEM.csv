@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:41.0,0,0,MEM,LAC,19,home,JS,,21,miss2,0,M. Gasol,
 1,1,11:40.0,0,0,MEM,LAC,1,away,DefReb,,,DefReb,,C. Paul,
-2,1,11:21.0,0,0,MEM,LAC,19,away,LostBall,steal,,turnover,,D. Jordan,M. Conley
+2,1,11:21.0,0,0,MEM,LAC,19,away,lost ball,steal,,turnover,,D. Jordan,M. Conley
 3,1,11:13.0,0,0,MEM,LAC,8,home,JS,,23,miss2,0,J. Green,
 4,1,11:10.0,0,0,MEM,LAC,3,home,OffReb,,,OffReb,,J. Ennis,
 5,1,11:01.0,0,0,MEM,LAC,9,home,JS,,20,miss2,0,T. Allen,
@@ -15,12 +15,12 @@
 13,1,10:17.0,0,0,MEM,LAC,1,home,OffReb,,,OffReb,,Team,
 14,1,10:13.0,3,0,MEM,LAC,4,home,JS,assist,24,make3,3,M. Conley,T. Allen
 15,1,9:55.0,3,2,MEM,LAC,18,away,JS,assist,20,make2,2,J. Redick,C. Paul
-16,1,9:39.0,3,2,MEM,LAC,16,home,BadPass,steal,,turnover,,J. Ennis,L. Mbah a Moute
+16,1,9:39.0,3,2,MEM,LAC,16,home,bad pass,steal,,turnover,,J. Ennis,L. Mbah a Moute
 17,1,9:23.0,3,4,MEM,LAC,16,away,JS,assist,17,make2,2,B. Griffin,C. Paul
 18,1,9:12.0,3,4,MEM,LAC,11,home,JS,,17,miss2,0,M. Gasol,
 19,1,9:08.0,3,4,MEM,LAC,4,away,DefReb,,,DefReb,,D. Jordan,
 20,1,9:04.0,3,6,MEM,LAC,4,away,LU,assist,2,make2,2,L. Mbah a Moute,B. Griffin
-21,1,8:49.0,3,6,MEM,LAC,15,home,BadPass,steal,,turnover,,J. Green,L. Mbah a Moute
+21,1,8:49.0,3,6,MEM,LAC,15,home,bad pass,steal,,turnover,,J. Green,L. Mbah a Moute
 22,1,8:44.0,3,6,MEM,LAC,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Allen,J. Redick
 23,1,8:44.0,3,7,MEM,LAC,0,away,FreeThrow,,,make1,1,J. Redick,
 24,1,8:44.0,3,8,MEM,LAC,0,away,FreeThrow,,,make1,1,J. Redick,
@@ -32,7 +32,7 @@
 30,1,7:42.0,6,13,MEM,LAC,16,away,JS,,25,make3,3,C. Paul,
 31,1,7:22.0,9,13,MEM,LAC,20,home,JS,assist,25,make3,3,M. Conley,M. Gasol
 32,1,7:09.0,9,13,MEM,LAC,13,away,LostBall,,,turnover,,J. Redick,
-33,1,6:56.0,9,13,MEM,LAC,13,home,LostBall,steal,,turnover,,M. Gasol,L. Mbah a Moute
+33,1,6:56.0,9,13,MEM,LAC,13,home,lost ball,steal,,turnover,,M. Gasol,L. Mbah a Moute
 34,1,6:46.0,9,15,MEM,LAC,10,away,JS,,12,make2,2,C. Paul,
 35,1,6:39.0,9,15,MEM,LAC,7,home,Timeout,,,,,,
 36,1,6:32.0,11,15,MEM,LAC,7,home,JS,assist,19,make2,2,M. Gasol,M. Conley
@@ -46,7 +46,7 @@
 44,1,5:28.0,11,15,MEM,LAC,11,away,OutOfBounds,,,turnover,,C. Paul,
 45,1,5:17.0,11,15,MEM,LAC,11,home,JS,,26,miss3,0,M. Gasol,
 46,1,5:16.0,11,15,MEM,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
-47,1,5:07.0,11,15,MEM,LAC,9,away,BadPass,steal,,turnover,,B. Griffin,M. Gasol
+47,1,5:07.0,11,15,MEM,LAC,9,away,bad pass,steal,,turnover,,B. Griffin,M. Gasol
 48,1,4:56.0,11,15,MEM,LAC,11,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Griffin,M. Gasol
 49,1,4:56.0,12,15,MEM,LAC,0,home,FreeThrow,,,make1,1,M. Gasol,
 50,1,4:56.0,12,15,MEM,LAC,0,home,Sub,,,,,V. Carter,T. Allen
@@ -57,7 +57,7 @@
 55,1,4:46.0,13,15,MEM,LAC,0,home,Sub,,,,,Z. Randolph,J. Green
 56,1,4:31.0,13,15,MEM,LAC,15,away,JS,,25,miss3,0,C. Paul,
 57,1,4:30.0,13,15,MEM,LAC,1,home,DefReb,,,DefReb,,M. Gasol,
-58,1,4:21.0,13,15,MEM,LAC,9,home,LostBall,steal,,turnover,,Z. Randolph,C. Paul
+58,1,4:21.0,13,15,MEM,LAC,9,home,lost ball,steal,,turnover,,Z. Randolph,C. Paul
 59,1,4:17.0,13,17,MEM,LAC,4,away,JS,,2,make2,2,C. Paul,
 60,1,4:17.0,13,17,MEM,LAC,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,V. Carter,C. Paul
 61,1,4:17.0,13,17,MEM,LAC,0,away,Sub,,,,,A. Rivers,J. Redick
@@ -140,14 +140,14 @@
 138,2,10:07.0,24,25,MEM,LAC,0,away,FreeThrow,,,make1,0,A. Rivers,
 139,2,10:07.0,24,25,MEM,LAC,0,away,OffReb,,,OffReb,,Team,
 140,2,9:58.0,24,28,MEM,LAC,9,away,JS,assist,25,make3,3,A. Rivers,M. Speights
-141,2,9:42.0,24,28,MEM,LAC,16,home,BadPass,steal,,turnover,,W. Baldwin,A. Rivers
+141,2,9:42.0,24,28,MEM,LAC,16,home,bad pass,steal,,turnover,,W. Baldwin,A. Rivers
 142,2,9:29.0,24,28,MEM,LAC,13,away,JS,,25,miss3,0,A. Rivers,
 143,2,9:28.0,24,28,MEM,LAC,1,home,DefReb,,,DefReb,,J. Martin,
 144,2,9:17.0,26,28,MEM,LAC,11,home,LU,assist,3,make2,2,M. Conley,Z. Randolph
 145,2,9:02.0,26,28,MEM,LAC,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Martin,J. Crawford
 146,2,9:02.0,26,29,MEM,LAC,0,away,FreeThrow,,,make1,1,J. Crawford,
 147,2,9:02.0,26,30,MEM,LAC,0,away,FreeThrow,,,make1,1,J. Crawford,
-148,2,8:50.0,26,30,MEM,LAC,12,home,LostBall,steal,,turnover,,J. Martin,W. Johnson
+148,2,8:50.0,26,30,MEM,LAC,12,home,lost ball,steal,,turnover,,J. Martin,W. Johnson
 149,2,8:45.0,26,32,MEM,LAC,5,away,DK,,0,make2,2,W. Johnson,
 150,2,8:30.0,26,32,MEM,LAC,15,home,HS,,5,miss2,0,Z. Randolph,
 151,2,8:28.0,26,32,MEM,LAC,2,away,DefReb,,,DefReb,,M. Speights,
@@ -206,7 +206,7 @@
 204,2,3:57.0,30,42,MEM,LAC,0,away,Sub,,,,,L. Mbah a Moute,A. Rivers
 205,2,3:57.0,30,42,MEM,LAC,0,home,Sub,,,,,Z. Randolph,J. Green
 206,2,3:57.0,30,43,MEM,LAC,0,away,FreeThrow,,,make1,1,B. Griffin,
-207,2,3:47.0,30,43,MEM,LAC,10,home,BadPass,steal,,turnover,,Z. Randolph,C. Paul
+207,2,3:47.0,30,43,MEM,LAC,10,home,bad pass,steal,,turnover,,Z. Randolph,C. Paul
 208,2,3:42.0,30,45,MEM,LAC,5,away,LU,,2,make2,2,C. Paul,
 209,2,3:39.0,30,45,MEM,LAC,3,home,Timeout,,,,,,
 210,2,3:24.0,30,45,MEM,LAC,15,home,JS,,23,miss3,0,T. Allen,
@@ -221,7 +221,7 @@
 219,2,2:42.0,30,45,MEM,LAC,0,away,Timeout,,,,,,
 220,2,2:42.0,30,45,MEM,LAC,0,home,FreeThrow,,,make1,0,Z. Randolph misses technical free throw,
 221,2,2:42.0,30,45,MEM,LAC,0,home,OffReb,,,OffReb,,Team,
-222,2,2:32.0,30,45,MEM,LAC,10,home,BadPass,steal,,turnover,,A. Harrison,C. Paul
+222,2,2:32.0,30,45,MEM,LAC,10,home,bad pass,steal,,turnover,,A. Harrison,C. Paul
 223,2,2:32.0,30,45,MEM,LAC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Harrison,C. Paul
 224,2,2:32.0,30,45,MEM,LAC,0,away,FreeThrow,,,make1,0,C. Paul,
 225,2,2:32.0,30,45,MEM,LAC,0,away,OffReb,,,OffReb,,Team,
@@ -231,11 +231,11 @@
 229,2,2:10.0,30,46,MEM,LAC,1,away,DefReb,,,DefReb,,B. Griffin,
 230,2,2:04.0,30,46,MEM,LAC,6,away,JS,,25,miss3,0,J. Redick,
 231,2,2:03.0,30,46,MEM,LAC,1,away,OffReb,,,OffReb,,D. Jordan,
-232,2,1:52.0,30,46,MEM,LAC,11,away,LostBall,steal,,turnover,,L. Mbah a Moute,T. Allen
-233,2,1:47.0,30,46,MEM,LAC,5,home,BadPass,steal,,turnover,,T. Allen,J. Redick
+232,2,1:52.0,30,46,MEM,LAC,11,away,lost ball,steal,,turnover,,L. Mbah a Moute,T. Allen
+233,2,1:47.0,30,46,MEM,LAC,5,home,bad pass,steal,,turnover,,T. Allen,J. Redick
 234,2,1:37.0,30,46,MEM,LAC,10,away,JS,,26,miss3,0,C. Paul,
 235,2,1:35.0,30,46,MEM,LAC,2,home,DefReb,,,DefReb,,J. Ennis,
-236,2,1:30.0,30,46,MEM,LAC,5,home,LostBall,steal,,turnover,,M. Gasol,B. Griffin
+236,2,1:30.0,30,46,MEM,LAC,5,home,lost ball,steal,,turnover,,M. Gasol,B. Griffin
 237,2,1:22.0,30,48,MEM,LAC,8,away,LU,assist,2,make2,2,B. Griffin,C. Paul
 238,2,1:10.0,30,48,MEM,LAC,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. Paul,M. Conley
 239,2,1:10.0,31,48,MEM,LAC,0,home,FreeThrow,,,make1,1,M. Conley,
@@ -327,7 +327,7 @@
 325,3,5:18.0,47,64,MEM,LAC,16,away,JS,block,7,miss2,0,J. Redick,J. Green
 326,3,5:16.0,47,64,MEM,LAC,2,away,OffReb,,,OffReb,,C. Paul,
 327,3,5:12.0,47,66,MEM,LAC,4,away,LU,,3,make2,2,C. Paul,
-328,3,4:49.0,47,66,MEM,LAC,23,home,LostBall,steal,,turnover,,J. Green,C. Paul
+328,3,4:49.0,47,66,MEM,LAC,23,home,lost ball,steal,,turnover,,J. Green,C. Paul
 329,3,4:49.0,47,66,MEM,LAC,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Green,C. Paul
 330,3,4:49.0,47,67,MEM,LAC,0,away,FreeThrow,,,make1,1,C. Paul,
 331,3,4:49.0,47,67,MEM,LAC,0,home,Sub,,,,,Z. Randolph,J. Green
@@ -351,13 +351,13 @@
 349,3,3:10.0,53,68,MEM,LAC,0,away,Sub,,,,,R. Felton,C. Paul
 350,3,3:10.0,53,68,MEM,LAC,0,home,Sub,,,,,W. Baldwin,M. Conley
 351,3,3:10.0,53,68,MEM,LAC,0,away,Sub,,,,,W. Johnson,B. Griffin
-352,3,2:58.0,53,68,MEM,LAC,12,home,BadPass,steal,,turnover,,W. Baldwin,W. Johnson
+352,3,2:58.0,53,68,MEM,LAC,12,home,bad pass,steal,,turnover,,W. Baldwin,W. Johnson
 353,3,2:54.0,53,70,MEM,LAC,4,away,JS,,6,make2,2,J. Crawford,
 354,3,2:54.0,53,70,MEM,LAC,0,home,Timeout,,,,,,
 355,3,2:38.0,55,70,MEM,LAC,16,home,JS,assist,22,make2,2,Z. Randolph,V. Carter
 356,3,2:17.0,55,70,MEM,LAC,21,away,JS,block,8,miss2,0,J. Crawford,V. Carter
 357,3,2:16.0,55,70,MEM,LAC,1,home,DefReb,,,DefReb,,Z. Randolph,
-358,3,2:01.0,55,70,MEM,LAC,15,home,LostBall,steal,,turnover,,Z. Randolph,D. Jordan
+358,3,2:01.0,55,70,MEM,LAC,15,home,lost ball,steal,,turnover,,Z. Randolph,D. Jordan
 359,3,1:58.0,55,70,MEM,LAC,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,V. Carter,A. Rivers
 360,3,1:58.0,55,71,MEM,LAC,0,away,FreeThrow,,,make1,1,A. Rivers,
 361,3,1:58.0,55,71,MEM,LAC,0,away,FreeThrow,,,make1,0,A. Rivers,
@@ -371,7 +371,7 @@
 369,3,1:06.0,55,73,MEM,LAC,2,away,DefReb,,,DefReb,,D. Jordan,
 370,3,0:49.0,55,73,MEM,LAC,17,away,JS,block,3,miss2,0,J. Crawford,J. Ennis
 371,3,0:45.0,55,73,MEM,LAC,4,home,DefReb,,,DefReb,,V. Carter,
-372,3,0:43.0,55,73,MEM,LAC,2,home,BadPass,steal,,turnover,,W. Baldwin,A. Rivers
+372,3,0:43.0,55,73,MEM,LAC,2,home,bad pass,steal,,turnover,,W. Baldwin,A. Rivers
 373,3,0:37.0,55,76,MEM,LAC,6,away,JS,assist,25,make3,3,R. Felton,J. Crawford
 374,3,0:22.0,55,76,MEM,LAC,15,home,JS,,5,miss2,0,Z. Randolph,
 375,3,0:21.0,55,76,MEM,LAC,1,home,OffReb,,,OffReb,,Team,
@@ -416,7 +416,7 @@
 414,4,6:31.0,68,84,MEM,LAC,0,home,DefReb,,,DefReb,,J. Ennis,
 415,4,6:31.0,68,84,MEM,LAC,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Speights,J. Ennis
 416,4,6:31.0,68,84,MEM,LAC,0,away,Sub,,,,,D. Jordan,M. Speights
-417,4,6:18.0,68,84,MEM,LAC,13,home,BadPass,steal,,turnover,,T. Daniels,C. Paul
+417,4,6:18.0,68,84,MEM,LAC,13,home,bad pass,steal,,turnover,,T. Daniels,C. Paul
 418,4,6:11.0,68,87,MEM,LAC,7,away,JS,assist,25,make3,3,R. Felton,C. Paul
 419,4,6:08.0,68,87,MEM,LAC,3,home,Timeout,,,,,,
 420,4,6:08.0,68,87,MEM,LAC,0,home,Sub,,,,,T. Williams,T. Daniels
@@ -438,8 +438,8 @@
 436,4,4:31.0,73,87,MEM,LAC,1,home,DefReb,,,DefReb,,Z. Randolph,
 437,4,4:21.0,73,87,MEM,LAC,10,home,JS,,25,miss3,0,M. Gasol,
 438,4,4:20.0,73,87,MEM,LAC,1,home,OffReb,,,OffReb,,J. Ennis,
-439,4,4:15.0,73,87,MEM,LAC,5,home,BadPass,steal,,turnover,,J. Ennis,J. Redick
-440,4,4:06.0,73,87,MEM,LAC,9,away,BadPass,steal,,turnover,,J. Redick,J. Ennis
+439,4,4:15.0,73,87,MEM,LAC,5,home,bad pass,steal,,turnover,,J. Ennis,J. Redick
+440,4,4:06.0,73,87,MEM,LAC,9,away,bad pass,steal,,turnover,,J. Redick,J. Ennis
 441,4,4:02.0,73,87,MEM,LAC,4,home,LU,block,3,miss2,0,J. Ennis,C. Paul
 442,4,4:02.0,73,87,MEM,LAC,0,home,OffReb,,,OffReb,,Team,
 443,4,4:02.0,73,87,MEM,LAC,0,away,Sub,,,,,J. Crawford,R. Felton
@@ -495,7 +495,7 @@
 493,4,0:25.0,88,96,MEM,LAC,0,home,Sub,,,,,T. Williams,V. Carter
 494,4,0:25.0,88,96,MEM,LAC,0,home,Sub,,,,,D. Davis,Z. Randolph
 495,4,0:25.0,88,97,MEM,LAC,0,away,FreeThrow,,,make1,1,C. Paul,
-496,4,0:11.0,88,97,MEM,LAC,14,home,BadPass,steal,,turnover,,W. Baldwin,C. Paul
+496,4,0:11.0,88,97,MEM,LAC,14,home,bad pass,steal,,turnover,,W. Baldwin,C. Paul
 497,4,0:11.0,88,97,MEM,LAC,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Davis,C. Paul
 498,4,0:11.0,88,98,MEM,LAC,0,away,FreeThrow,,,make1,1,C. Paul,
 499,4,0:11.0,88,99,MEM,LAC,0,away,FreeThrow,,,make1,1,C. Paul,

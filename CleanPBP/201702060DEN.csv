@@ -1,6 +1,6 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:41.0,0,2,DEN,DAL,19,away,JS,assist,18,make2,2,D. Nowitzki,W. Matthews
-1,1,11:19.0,0,2,DEN,DAL,22,home,LostBall,steal,,turnover,,N. Jokić,D. Nowitzki
+1,1,11:19.0,0,2,DEN,DAL,22,home,lost ball,steal,,turnover,,N. Jokić,D. Nowitzki
 2,1,11:08.0,0,2,DEN,DAL,11,away,JS,,21,miss2,0,D. Nowitzki,
 3,1,11:07.0,0,2,DEN,DAL,1,home,DefReb,,,DefReb,,W. Chandler,
 4,1,11:01.0,0,2,DEN,DAL,6,home,JS,,3,miss2,0,W. Barton,
@@ -18,7 +18,7 @@
 16,1,9:31.0,6,4,DEN,DAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Jokić,Y. Ferrell
 17,1,9:31.0,6,5,DEN,DAL,0,away,FreeThrow,,,make1,1,Y. Ferrell,
 18,1,9:20.0,6,5,DEN,DAL,11,home,BadPass,,,turnover,,N. Jokić,
-19,1,8:57.0,6,5,DEN,DAL,23,away,LostBall,steal,,turnover,,W. Matthews,G. Harris
+19,1,8:57.0,6,5,DEN,DAL,23,away,lost ball,steal,,turnover,,W. Matthews,G. Harris
 20,1,8:55.0,6,5,DEN,DAL,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,G. Harris
 21,1,8:55.0,7,5,DEN,DAL,0,home,FreeThrow,,,make1,1,G. Harris,
 22,1,8:55.0,8,5,DEN,DAL,0,home,FreeThrow,,,make1,1,G. Harris,
@@ -32,7 +32,7 @@
 30,1,8:07.0,10,7,DEN,DAL,0,away,OffReb,,,OffReb,,Team,
 31,1,8:07.0,10,7,DEN,DAL,0,home,Sub,,,,,D. Arthur,N. Jokić
 32,1,8:07.0,10,8,DEN,DAL,0,away,FreeThrow,,,make1,1,D. Nowitzki,
-33,1,7:58.0,10,8,DEN,DAL,9,home,LostBall,steal,,turnover,,W. Barton,Y. Ferrell
+33,1,7:58.0,10,8,DEN,DAL,9,home,lost ball,steal,,turnover,,W. Barton,Y. Ferrell
 34,1,7:52.0,10,8,DEN,DAL,6,away,JS,,25,miss3,0,S. Curry,
 35,1,7:50.0,10,8,DEN,DAL,2,home,DefReb,,,DefReb,,W. Chandler,
 36,1,7:36.0,12,8,DEN,DAL,14,home,JS,assist,18,make2,2,D. Arthur,W. Chandler
@@ -62,7 +62,7 @@
 60,1,4:23.0,19,17,DEN,DAL,0,home,Timeout,,,,,,
 61,1,4:23.0,19,17,DEN,DAL,0,away,Sub,,,,,D. Powell,S. Mejri
 62,1,4:23.0,19,17,DEN,DAL,0,home,Sub,,,,,J. Murray,G. Harris
-63,1,3:56.0,19,17,DEN,DAL,27,home,LostBall,steal,,turnover,,J. Nelson,H. Barnes
+63,1,3:56.0,19,17,DEN,DAL,27,home,lost ball,steal,,turnover,,J. Nelson,H. Barnes
 64,1,3:40.0,19,17,DEN,DAL,16,away,LU,,3,miss2,0,D. Powell,
 65,1,3:39.0,19,17,DEN,DAL,1,home,DefReb,,,DefReb,,D. Arthur,
 66,1,3:25.0,19,17,DEN,DAL,14,home,JS,,21,miss2,0,D. Arthur,
@@ -118,7 +118,7 @@
 116,2,10:50.0,32,24,DEN,DAL,0,home,OffensiveFoul,,,turnover,,G. Harris,
 117,2,10:35.0,32,26,DEN,DAL,15,away,LU,assist,2,make2,2,S. Mejri,D. Harris
 118,2,10:29.0,34,26,DEN,DAL,6,home,LU,assist,3,make2,2,J. Hernangómez,J. Murray
-119,2,10:14.0,34,26,DEN,DAL,15,away,BadPass,steal,,turnover,,Y. Ferrell,D. Arthur
+119,2,10:14.0,34,26,DEN,DAL,15,away,bad pass,steal,,turnover,,Y. Ferrell,D. Arthur
 120,2,10:09.0,36,26,DEN,DAL,5,home,LU,,2,make2,2,D. Arthur,
 121,2,10:09.0,36,26,DEN,DAL,0,away,Timeout,,,,,,
 122,2,9:56.0,36,26,DEN,DAL,13,away,LostBall,,,turnover,,D. Finney-Smith,
@@ -138,7 +138,7 @@
 136,2,8:50.0,36,26,DEN,DAL,5,home,BadPass,,,turnover,,J. Murray,
 137,2,8:39.0,36,26,DEN,DAL,11,home,KickBallViolation,,,KickBallViolation,,G. Harris,
 138,2,8:39.0,36,26,DEN,DAL,0,home,Sub,,,,,N. Jokić,D. Arthur
-139,2,8:31.0,36,26,DEN,DAL,8,away,BadPass,steal,,turnover,,S. Mejri,J. Hernangómez
+139,2,8:31.0,36,26,DEN,DAL,8,away,bad pass,steal,,turnover,,S. Mejri,J. Hernangómez
 140,2,8:23.0,38,26,DEN,DAL,8,home,DK,assist,0,make2,2,J. Nurkić,N. Jokić
 141,2,8:08.0,38,26,DEN,DAL,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Murray,Y. Ferrell
 142,2,8:08.0,38,27,DEN,DAL,0,away,FreeThrow,,,make1,1,Y. Ferrell,
@@ -185,7 +185,7 @@
 183,2,3:39.0,47,36,DEN,DAL,0,away,Sub,,,,,D. Nowitzki,D. Powell
 184,2,3:27.0,47,36,DEN,DAL,12,home,JS,,27,miss3,0,J. Nelson,
 185,2,3:25.0,47,36,DEN,DAL,2,away,DefReb,,,DefReb,,H. Barnes,
-186,2,3:08.0,47,36,DEN,DAL,17,away,BadPass,steal,,turnover,,H. Barnes,J. Nelson
+186,2,3:08.0,47,36,DEN,DAL,17,away,bad pass,steal,,turnover,,H. Barnes,J. Nelson
 187,2,3:07.0,47,36,DEN,DAL,1,away,KickBallViolation,,,KickBallViolation,,W. Matthews,
 188,2,2:58.0,49,36,DEN,DAL,9,home,LU,assist,2,make2,2,J. Nelson,N. Jokić
 189,2,2:44.0,49,36,DEN,DAL,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Chandler,W. Matthews
@@ -240,7 +240,7 @@
 238,3,7:57.0,73,49,DEN,DAL,9,home,JS,assist,8,make2,2,N. Jokić,W. Barton
 239,3,7:57.0,73,49,DEN,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nowitzki,N. Jokić
 240,3,7:57.0,74,49,DEN,DAL,0,home,FreeThrow,,,make1,1,N. Jokić,
-241,3,7:45.0,74,49,DEN,DAL,12,away,BadPass,steal,,turnover,,D. Nowitzki,N. Jokić
+241,3,7:45.0,74,49,DEN,DAL,12,away,bad pass,steal,,turnover,,D. Nowitzki,N. Jokić
 242,3,7:43.0,74,49,DEN,DAL,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Matthews,W. Barton
 243,3,7:43.0,75,49,DEN,DAL,0,home,FreeThrow,,,make1,1,W. Barton,
 244,3,7:43.0,76,49,DEN,DAL,0,home,FreeThrow,,,make1,1,W. Barton,
@@ -249,7 +249,7 @@
 247,3,7:16.0,76,49,DEN,DAL,6,home,JS,,25,miss3,0,W. Barton,
 248,3,7:12.0,76,49,DEN,DAL,4,away,DefReb,,,DefReb,,D. Nowitzki,
 249,3,6:57.0,76,51,DEN,DAL,15,away,LU,assist,2,make2,2,H. Barnes,W. Matthews
-250,3,6:41.0,76,51,DEN,DAL,16,home,BadPass,steal,,turnover,,G. Harris,D. Nowitzki
+250,3,6:41.0,76,51,DEN,DAL,16,home,bad pass,steal,,turnover,,G. Harris,D. Nowitzki
 251,3,6:29.0,76,54,DEN,DAL,12,away,JS,assist,24,make3,3,S. Curry,W. Matthews
 252,3,6:13.0,76,54,DEN,DAL,16,home,JS,,24,miss3,0,J. Nelson,
 253,3,6:12.0,76,54,DEN,DAL,1,away,DefReb,,,DefReb,,W. Matthews,
@@ -259,7 +259,7 @@
 257,3,6:06.0,76,55,DEN,DAL,0,away,Sub,,,,,D. Harris,Y. Ferrell
 258,3,6:06.0,76,56,DEN,DAL,0,away,FreeThrow,,,make1,1,W. Matthews,
 259,3,5:52.0,78,56,DEN,DAL,14,home,JS,assist,19,make2,2,N. Jokić,J. Nelson
-260,3,5:41.0,78,56,DEN,DAL,11,away,LostBall,steal,,turnover,,H. Barnes,W. Chandler
+260,3,5:41.0,78,56,DEN,DAL,11,away,lost ball,steal,,turnover,,H. Barnes,W. Chandler
 261,3,5:40.0,78,56,DEN,DAL,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Harris,W. Chandler
 262,3,5:24.0,78,56,DEN,DAL,16,home,LU,,3,miss2,0,W. Chandler,
 263,3,5:22.0,78,56,DEN,DAL,2,away,DefReb,,,DefReb,,H. Barnes,
@@ -297,7 +297,7 @@
 295,3,1:50.0,80,65,DEN,DAL,10,away,LU,assist,2,make2,2,D. Powell,Y. Ferrell
 296,3,1:21.0,80,65,DEN,DAL,29,home,JS,,20,miss2,0,J. Murray,
 297,3,1:21.0,80,65,DEN,DAL,0,home,OffReb,,,OffReb,,J. Hernangómez,
-298,3,1:18.0,80,65,DEN,DAL,3,home,LostBall,steal,,turnover,,J. Hernangómez,D. Powell
+298,3,1:18.0,80,65,DEN,DAL,3,home,lost ball,steal,,turnover,,J. Hernangómez,D. Powell
 299,3,1:12.0,80,65,DEN,DAL,6,away,LU,,1,miss2,0,D. Finney-Smith,
 300,3,1:11.0,80,65,DEN,DAL,1,home,DefReb,,,DefReb,,J. Hernangómez,
 301,3,1:07.0,80,65,DEN,DAL,4,home,DK,,0,miss2,0,W. Chandler,
@@ -316,17 +316,17 @@
 314,4,11:38.0,82,67,DEN,DAL,22,away,LU,block,1,miss2,0,D. Harris,D. Arthur
 315,4,11:37.0,82,67,DEN,DAL,1,away,OffReb,,,OffReb,,Team,
 316,4,11:36.0,82,67,DEN,DAL,1,away,ShotClockViolation,,,turnover,,Team,
-317,4,11:21.0,82,67,DEN,DAL,15,home,LostBall,steal,,turnover,,D. Arthur,D. Nowitzki
+317,4,11:21.0,82,67,DEN,DAL,15,home,lost ball,steal,,turnover,,D. Arthur,D. Nowitzki
 318,4,11:18.0,82,67,DEN,DAL,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,W. Barton,Y. Ferrell
 319,4,11:05.0,82,69,DEN,DAL,13,away,LU,assist,1,make2,2,D. Powell,Y. Ferrell
-320,4,10:53.0,82,69,DEN,DAL,12,home,BadPass,steal,,turnover,,J. Hernangómez,D. Powell
+320,4,10:53.0,82,69,DEN,DAL,12,home,bad pass,steal,,turnover,,J. Hernangómez,D. Powell
 321,4,10:50.0,82,71,DEN,DAL,3,away,DK,,0,make2,2,D. Powell,
 322,4,10:50.0,82,71,DEN,DAL,0,home,Timeout,,,,,,
 323,4,10:50.0,82,71,DEN,DAL,0,home,Sub,,,,,N. Jokić,W. Barton
 324,4,10:50.0,82,71,DEN,DAL,0,home,Sub,,,,,W. Chandler,J. Murray
 325,4,10:50.0,82,71,DEN,DAL,0,home,Sub,,,,,J. Nelson,J. Hernangómez
 326,4,10:30.0,85,71,DEN,DAL,20,home,JS,assist,25,make3,3,G. Harris,N. Jokić
-327,4,10:14.0,85,71,DEN,DAL,16,away,BadPass,steal,,turnover,,D. Finney-Smith,G. Harris
+327,4,10:14.0,85,71,DEN,DAL,16,away,bad pass,steal,,turnover,,D. Finney-Smith,G. Harris
 328,4,10:13.0,85,71,DEN,DAL,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Nowitzki,G. Harris
 329,4,10:13.0,85,71,DEN,DAL,0,away,Sub,,,,,W. Matthews,D. Nowitzki
 330,4,10:13.0,85,71,DEN,DAL,0,away,Sub,,,,,H. Barnes,D. Finney-Smith
@@ -369,7 +369,7 @@
 367,4,5:42.0,90,77,DEN,DAL,0,away,FreeThrow,,,make1,0,D. Powell,
 368,4,5:42.0,90,77,DEN,DAL,0,home,Sub,,,,,N. Jokić,D. Arthur
 369,4,5:41.0,90,77,DEN,DAL,1,home,DefReb,,,DefReb,,J. Nelson,
-370,4,5:22.0,90,77,DEN,DAL,19,home,BadPass,steal,,turnover,,G. Harris,Y. Ferrell
+370,4,5:22.0,90,77,DEN,DAL,19,home,bad pass,steal,,turnover,,G. Harris,Y. Ferrell
 371,4,5:05.0,90,77,DEN,DAL,17,away,JS,,24,miss3,0,Y. Ferrell,
 372,4,5:04.0,90,77,DEN,DAL,1,home,DefReb,,,DefReb,,W. Chandler,
 373,4,4:58.0,90,77,DEN,DAL,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Powell,J. Nelson

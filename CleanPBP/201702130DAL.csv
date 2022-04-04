@@ -40,14 +40,14 @@
 38,1,4:44.0,19,20,DAL,BOS,1,home,DefReb,,,DefReb,,W. Matthews,
 39,1,4:28.0,19,20,DAL,BOS,16,home,LU,block,0,miss2,0,S. Mejri,J. Crowder
 40,1,4:26.0,19,20,DAL,BOS,2,away,DefReb,,,DefReb,,A. Horford,
-41,1,4:17.0,19,20,DAL,BOS,9,away,BadPass,steal,,turnover,,A. Horford,D. Williams
+41,1,4:17.0,19,20,DAL,BOS,9,away,bad pass,steal,,turnover,,A. Horford,D. Williams
 42,1,4:04.0,19,20,DAL,BOS,13,away,ChargeFoul,DrawnBy,,ChargeFoul,,D. Williams,M. Smart
 43,1,4:04.0,19,20,DAL,BOS,0,home,OffensiveFoul,,,turnover,,D. Williams,
 44,1,4:04.0,19,20,DAL,BOS,0,away,Sub,,,,,T. Rozier,A. Horford
 45,1,4:04.0,19,20,DAL,BOS,0,away,Sub,,,,,K. Olynyk,M. Smart
 46,1,4:04.0,19,20,DAL,BOS,0,home,Sub,,,,,S. Curry,D. Williams
 47,1,4:04.0,19,20,DAL,BOS,0,home,Sub,,,,,D. Powell,S. Mejri
-48,1,3:47.0,19,20,DAL,BOS,17,away,BadPass,steal,,turnover,,I. Thomas,S. Curry
+48,1,3:47.0,19,20,DAL,BOS,17,away,bad pass,steal,,turnover,,I. Thomas,S. Curry
 49,1,3:47.0,19,20,DAL,BOS,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crowder,S. Curry
 50,1,3:27.0,19,20,DAL,BOS,20,home,JS,,20,miss2,0,W. Matthews,
 51,1,3:26.0,19,20,DAL,BOS,1,away,DefReb,,,DefReb,,J. Jerebko,
@@ -118,8 +118,8 @@
 116,2,7:38.0,36,44,DAL,BOS,0,home,Sub,,,,,H. Barnes,D. Nowitzki
 117,2,7:38.0,36,44,DAL,BOS,0,home,Sub,,,,,W. Matthews,D. Finney-Smith
 118,2,7:38.0,37,44,DAL,BOS,0,home,FreeThrow,,,make1,1,D. Harris,
-119,2,7:24.0,37,44,DAL,BOS,14,away,LostBall,steal,,turnover,,A. Johnson,H. Barnes
-120,2,7:17.0,37,44,DAL,BOS,7,home,BadPass,steal,,turnover,,H. Barnes,M. Smart
+119,2,7:24.0,37,44,DAL,BOS,14,away,lost ball,steal,,turnover,,A. Johnson,H. Barnes
+120,2,7:17.0,37,44,DAL,BOS,7,home,bad pass,steal,,turnover,,H. Barnes,M. Smart
 121,2,7:14.0,37,44,DAL,BOS,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Curry,M. Smart
 122,2,7:14.0,37,45,DAL,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
 123,2,7:14.0,37,46,DAL,BOS,0,away,FreeThrow,,,make1,1,M. Smart,
@@ -137,7 +137,7 @@
 135,2,5:57.0,41,48,DAL,BOS,8,home,JS,assist,16,make2,2,H. Barnes,Y. Ferrell
 136,2,5:43.0,41,48,DAL,BOS,14,away,JS,,5,miss2,0,T. Rozier,
 137,2,5:42.0,41,48,DAL,BOS,1,home,DefReb,,,DefReb,,S. Mejri,
-138,2,5:33.0,41,48,DAL,BOS,9,home,BadPass,steal,,turnover,,D. Williams,A. Horford
+138,2,5:33.0,41,48,DAL,BOS,9,home,bad pass,steal,,turnover,,D. Williams,A. Horford
 139,2,5:26.0,41,48,DAL,BOS,7,away,JS,,23,miss2,0,I. Thomas,
 140,2,5:25.0,41,48,DAL,BOS,1,home,DefReb,,,DefReb,,S. Mejri,
 141,2,5:07.0,41,48,DAL,BOS,18,home,JS,,25,miss3,0,H. Barnes,
@@ -245,8 +245,8 @@
 243,3,5:40.0,65,74,DAL,BOS,0,home,FreeThrow,,,make1,1,H. Barnes,
 244,3,5:40.0,65,74,DAL,BOS,0,away,Sub,,,,,K. Olynyk,A. Johnson
 245,3,5:40.0,66,74,DAL,BOS,0,home,FreeThrow,,,make1,1,H. Barnes,
-246,3,5:28.0,66,74,DAL,BOS,12,away,BadPass,steal,,turnover,,K. Olynyk,S. Curry
-247,3,5:14.0,66,74,DAL,BOS,14,home,BadPass,steal,,turnover,,H. Barnes,M. Smart
+246,3,5:28.0,66,74,DAL,BOS,12,away,bad pass,steal,,turnover,,K. Olynyk,S. Curry
+247,3,5:14.0,66,74,DAL,BOS,14,home,bad pass,steal,,turnover,,H. Barnes,M. Smart
 248,3,5:09.0,66,74,DAL,BOS,5,away,JS,,25,miss3,0,I. Thomas,
 249,3,5:08.0,66,74,DAL,BOS,1,away,OffReb,,,OffReb,,A. Horford,
 250,3,5:06.0,66,74,DAL,BOS,2,away,LU,,2,miss2,0,A. Horford,
@@ -264,7 +264,7 @@
 262,3,4:01.0,70,76,DAL,BOS,15,home,JS,,4,make2,2,W. Matthews,
 263,3,3:45.0,70,76,DAL,BOS,16,away,LU,block,3,miss2,0,I. Thomas,H. Barnes
 264,3,3:44.0,70,76,DAL,BOS,1,home,DefReb,,,DefReb,,S. Curry,
-265,3,3:37.0,70,76,DAL,BOS,7,home,BadPass,steal,,turnover,,D. Harris,J. Crowder
+265,3,3:37.0,70,76,DAL,BOS,7,home,bad pass,steal,,turnover,,D. Harris,J. Crowder
 266,3,3:34.0,70,78,DAL,BOS,3,away,LU,,1,make2,2,J. Crowder,
 267,3,3:34.0,70,78,DAL,BOS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Matthews,J. Crowder
 268,3,3:34.0,70,78,DAL,BOS,0,away,Sub,,,,,G. Green,I. Thomas
@@ -300,7 +300,7 @@
 298,3,1:00.0,82,83,DAL,BOS,1,away,OffReb,,,OffReb,,K. Olynyk,
 299,3,1:00.0,82,83,DAL,BOS,0,away,LU,block,2,miss2,0,K. Olynyk,S. Mejri
 300,3,0:59.0,82,83,DAL,BOS,1,away,OffReb,,,OffReb,,Team,
-301,3,0:49.0,82,83,DAL,BOS,10,away,BadPass,steal,,turnover,,J. Jerebko,D. Nowitzki
+301,3,0:49.0,82,83,DAL,BOS,10,away,bad pass,steal,,turnover,,J. Jerebko,D. Nowitzki
 302,3,0:34.0,82,83,DAL,BOS,15,home,JS,,7,miss2,0,D. Nowitzki,
 303,3,0:33.0,82,83,DAL,BOS,1,home,OffReb,,,OffReb,,S. Mejri,
 304,3,0:32.0,82,83,DAL,BOS,1,away,Sub,,,,,A. Johnson,K. Olynyk
@@ -313,10 +313,10 @@
 311,4,11:45.0,82,83,DAL,BOS,1,home,DefReb,,,DefReb,,S. Mejri,
 312,4,11:33.0,82,83,DAL,BOS,12,home,JS,,25,miss3,0,D. Harris,
 313,4,11:32.0,82,83,DAL,BOS,1,away,DefReb,,,DefReb,,A. Johnson,
-314,4,11:22.0,82,83,DAL,BOS,10,away,BadPass,steal,,turnover,,T. Rozier,D. Nowitzki
+314,4,11:22.0,82,83,DAL,BOS,10,away,bad pass,steal,,turnover,,T. Rozier,D. Nowitzki
 315,4,11:15.0,82,83,DAL,BOS,7,home,LU,,2,miss2,0,D. Harris,
 316,4,11:14.0,82,83,DAL,BOS,1,away,DefReb,,,DefReb,,J. Jerebko,
-317,4,11:10.0,82,83,DAL,BOS,4,away,BadPass,steal,,turnover,,M. Smart,S. Mejri
+317,4,11:10.0,82,83,DAL,BOS,4,away,bad pass,steal,,turnover,,M. Smart,S. Mejri
 318,4,11:09.0,82,83,DAL,BOS,1,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Jerebko,D. Harris
 319,4,11:09.0,82,83,DAL,BOS,0,away,Sub,,,,,K. Olynyk,A. Johnson
 320,4,10:56.0,82,83,DAL,BOS,13,home,JS,,19,miss2,0,D. Nowitzki,
@@ -337,7 +337,7 @@
 335,4,9:15.0,84,88,DAL,BOS,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Jerebko,D. Nowitzki
 336,4,9:02.0,87,88,DAL,BOS,13,home,JS,assist,24,make3,3,D. Harris,D. Nowitzki
 337,4,8:50.0,87,90,DAL,BOS,12,away,LU,,1,make2,2,K. Olynyk,
-338,4,8:32.0,87,90,DAL,BOS,18,home,BadPass,steal,,turnover,,D. Nowitzki,J. Young
+338,4,8:32.0,87,90,DAL,BOS,18,home,bad pass,steal,,turnover,,D. Nowitzki,J. Young
 339,4,8:24.0,87,90,DAL,BOS,8,away,JS,,10,miss2,0,I. Thomas,
 340,4,8:23.0,87,90,DAL,BOS,1,home,DefReb,,,DefReb,,D. Powell,
 341,4,8:10.0,87,90,DAL,BOS,13,home,JS,,16,miss2,0,D. Nowitzki,

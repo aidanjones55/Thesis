@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:43.0,0,0,SAC,PHO,17,home,BadPass,steal,,turnover,,W. Cauley-Stein,A. Len
+0,1,11:43.0,0,0,SAC,PHO,17,home,bad pass,steal,,turnover,,W. Cauley-Stein,A. Len
 1,1,11:30.0,0,0,SAC,PHO,13,away,JS,,10,miss2,0,M. Chriss,
 2,1,11:29.0,0,0,SAC,PHO,1,away,OffReb,,,OffReb,,D. Jones,
 3,1,11:29.0,0,0,SAC,PHO,0,away,LU,,1,miss2,0,D. Jones,
@@ -19,7 +19,7 @@
 17,1,9:58.0,5,0,SAC,PHO,21,away,JS,,15,miss2,0,A. Len,
 18,1,9:58.0,5,0,SAC,PHO,0,home,DefReb,,,DefReb,,T. Lawson,
 19,1,9:49.0,7,0,SAC,PHO,9,home,JS,,9,make2,2,B. Hield,
-20,1,9:46.0,7,0,SAC,PHO,3,away,BadPass,steal,,turnover,,A. Len,B. McLemore
+20,1,9:46.0,7,0,SAC,PHO,3,away,bad pass,steal,,turnover,,A. Len,B. McLemore
 21,1,9:45.0,7,0,SAC,PHO,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Len,B. McLemore
 22,1,9:45.0,8,0,SAC,PHO,0,home,FreeThrow,,,make1,1,B. McLemore,
 23,1,9:45.0,9,0,SAC,PHO,0,home,FreeThrow,,,make1,1,B. McLemore,
@@ -36,8 +36,8 @@
 34,1,8:23.0,13,3,SAC,PHO,18,home,JS,assist,4,make2,2,B. McLemore,W. Cauley-Stein
 35,1,8:07.0,13,3,SAC,PHO,16,away,JS,,26,miss3,0,M. Chriss,
 36,1,8:07.0,13,3,SAC,PHO,0,home,DefReb,,,DefReb,,W. Cauley-Stein,
-37,1,8:01.0,13,3,SAC,PHO,6,home,BadPass,steal,,turnover,,T. Lawson,M. Chriss
-38,1,7:59.0,13,3,SAC,PHO,2,away,BadPass,steal,,turnover,,M. Chriss,W. Cauley-Stein
+37,1,8:01.0,13,3,SAC,PHO,6,home,bad pass,steal,,turnover,,T. Lawson,M. Chriss
+38,1,7:59.0,13,3,SAC,PHO,2,away,bad pass,steal,,turnover,,M. Chriss,W. Cauley-Stein
 39,1,7:57.0,13,3,SAC,PHO,2,home,LU,block,3,miss2,0,W. Cauley-Stein,M. Chriss
 40,1,7:56.0,13,3,SAC,PHO,1,away,DefReb,,,DefReb,,D. Jones,
 41,1,7:56.0,13,3,SAC,PHO,0,away,PersonalFoul,,,,,T. Lawson,
@@ -87,7 +87,7 @@
 85,1,3:07.0,21,18,SAC,PHO,11,away,LU,,3,make2,2,T. Ulis,
 86,1,3:00.0,21,18,SAC,PHO,7,home,JS,,20,miss2,0,S. Labissière,
 87,1,2:59.0,21,18,SAC,PHO,1,home,OffReb,,,OffReb,,B. Hield,
-88,1,2:56.0,21,18,SAC,PHO,3,home,LostBall,steal,,turnover,,B. Hield,T. Ulis
+88,1,2:56.0,21,18,SAC,PHO,3,home,lost ball,steal,,turnover,,B. Hield,T. Ulis
 89,1,2:53.0,21,20,SAC,PHO,3,away,DK,assist,0,make2,2,M. Chriss,T. Warren
 90,1,2:35.0,21,20,SAC,PHO,18,home,JS,,14,miss2,0,B. Hield,
 91,1,2:34.0,21,20,SAC,PHO,1,away,DefReb,,,DefReb,,Team,
@@ -137,7 +137,7 @@
 135,2,10:42.0,30,27,SAC,PHO,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. McLemore,D. Jones
 136,2,10:34.0,30,27,SAC,PHO,8,away,JS,,11,miss2,0,A. Williams,
 137,2,10:34.0,30,27,SAC,PHO,0,home,DefReb,,,DefReb,,A. Tolliver,
-138,2,10:19.0,30,27,SAC,PHO,15,home,BadPass,steal,,turnover,,L. Galloway,R. Price
+138,2,10:19.0,30,27,SAC,PHO,15,home,bad pass,steal,,turnover,,L. Galloway,R. Price
 139,2,10:10.0,30,27,SAC,PHO,9,away,JS,,26,miss3,0,D. Bender,
 140,2,10:09.0,30,27,SAC,PHO,1,home,DefReb,,,DefReb,,G. Temple,
 141,2,10:01.0,30,27,SAC,PHO,8,home,JS,,10,miss2,0,L. Galloway,
@@ -193,7 +193,7 @@
 191,2,4:58.0,42,35,SAC,PHO,0,away,LU,,2,make2,2,E. Millsap,
 192,2,4:46.0,42,35,SAC,PHO,12,home,HS,,5,miss2,0,W. Cauley-Stein,
 193,2,4:45.0,42,35,SAC,PHO,1,away,DefReb,,,DefReb,,E. Millsap,
-194,2,4:32.0,42,35,SAC,PHO,13,away,BadPass,steal,,turnover,,R. Price,W. Cauley-Stein
+194,2,4:32.0,42,35,SAC,PHO,13,away,bad pass,steal,,turnover,,R. Price,W. Cauley-Stein
 195,2,4:23.0,45,35,SAC,PHO,9,home,JS,assist,23,make3,3,A. Tolliver,G. Temple
 196,2,4:05.0,45,35,SAC,PHO,18,away,JS,,26,miss3,0,R. Price,
 197,2,4:04.0,45,35,SAC,PHO,1,away,OffReb,,,OffReb,,E. Millsap,
@@ -205,7 +205,7 @@
 203,2,4:00.0,45,35,SAC,PHO,3,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Labissière,T. Ulis
 204,2,3:54.0,45,35,SAC,PHO,6,away,JS,,20,miss2,0,M. Chriss,
 205,2,3:53.0,45,35,SAC,PHO,1,home,DefReb,,,DefReb,,B. Hield,
-206,2,3:44.0,45,35,SAC,PHO,9,home,BadPass,steal,,turnover,,B. Hield,D. Jones
+206,2,3:44.0,45,35,SAC,PHO,9,home,bad pass,steal,,turnover,,B. Hield,D. Jones
 207,2,3:42.0,45,35,SAC,PHO,2,away,Traveling,,,turnover,,D. Jones,
 208,2,3:32.0,45,35,SAC,PHO,10,home,D3SecTech,,,,,,
 209,2,3:32.0,45,35,SAC,PHO,0,home,FreeThrow,,,make1,0,B. Hield misses technical free throw,
@@ -239,13 +239,13 @@
 237,2,2:29.0,49,36,SAC,PHO,0,away,OffReb,,,OffReb,,Team,
 238,2,2:29.0,49,36,SAC,PHO,0,away,FreeThrow,,,make1,0,M. Chriss,
 239,2,2:28.0,49,36,SAC,PHO,1,home,DefReb,,,DefReb,,G. Papagiannis,
-240,2,2:10.0,49,36,SAC,PHO,18,home,BadPass,steal,,turnover,,B. McLemore,T. Warren
+240,2,2:10.0,49,36,SAC,PHO,18,home,bad pass,steal,,turnover,,B. McLemore,T. Warren
 241,2,1:57.0,49,36,SAC,PHO,13,away,JS,,26,miss3,0,T. Warren,
 242,2,1:55.0,49,36,SAC,PHO,2,home,DefReb,,,DefReb,,S. Labissière,
 243,2,1:41.0,49,36,SAC,PHO,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Len,T. Lawson
 244,2,1:41.0,50,36,SAC,PHO,0,home,FreeThrow,,,make1,1,T. Lawson,
 245,2,1:41.0,51,36,SAC,PHO,0,home,FreeThrow,,,make1,1,T. Lawson,
-246,2,1:31.0,51,36,SAC,PHO,10,away,LostBall,steal,,turnover,,M. Chriss,T. Lawson
+246,2,1:31.0,51,36,SAC,PHO,10,away,lost ball,steal,,turnover,,M. Chriss,T. Lawson
 247,2,1:23.0,51,36,SAC,PHO,8,home,LU,,3,miss2,0,S. Labissière,
 248,2,1:23.0,51,36,SAC,PHO,0,home,OffReb,,,OffReb,,S. Labissière,
 249,2,1:23.0,51,36,SAC,PHO,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Len,S. Labissière
@@ -312,7 +312,7 @@
 310,3,7:20.0,77,55,SAC,PHO,7,home,LU,,5,miss2,0,B. Hield,
 311,3,7:18.0,77,55,SAC,PHO,2,away,DefReb,,,DefReb,,M. Chriss,
 312,3,7:13.0,77,57,SAC,PHO,5,away,DK,assist,0,make2,2,M. Chriss,T. Ulis
-313,3,6:53.0,77,57,SAC,PHO,20,home,BadPass,steal,,turnover,,T. Lawson,T. Warren
+313,3,6:53.0,77,57,SAC,PHO,20,home,bad pass,steal,,turnover,,T. Lawson,T. Warren
 314,3,6:40.0,77,57,SAC,PHO,13,away,JS,,12,miss2,0,A. Williams,
 315,3,6:39.0,77,57,SAC,PHO,1,home,DefReb,,,DefReb,,A. Tolliver,
 316,3,6:33.0,77,57,SAC,PHO,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Williams,B. McLemore
@@ -320,7 +320,7 @@
 318,3,6:33.0,78,57,SAC,PHO,0,home,Sub,,,,,G. Temple,B. Hield
 319,3,6:33.0,78,57,SAC,PHO,0,home,Sub,,,,,L. Galloway,T. Lawson
 320,3,6:33.0,79,57,SAC,PHO,0,home,FreeThrow,,,make1,1,B. McLemore,
-321,3,6:23.0,79,57,SAC,PHO,10,away,BadPass,steal,,turnover,,M. Chriss,G. Temple
+321,3,6:23.0,79,57,SAC,PHO,10,away,bad pass,steal,,turnover,,M. Chriss,G. Temple
 322,3,6:18.0,81,57,SAC,PHO,5,home,DK,,0,make2,2,G. Temple,
 323,3,6:07.0,81,59,SAC,PHO,11,away,JS,,19,make2,2,T. Ulis,
 324,3,5:47.0,81,59,SAC,PHO,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Bender,W. Cauley-Stein
@@ -351,7 +351,7 @@
 349,3,3:38.0,86,66,SAC,PHO,1,away,DefReb,,,DefReb,,A. Williams,
 350,3,3:26.0,86,68,SAC,PHO,12,away,LU,assist,3,make2,2,A. Williams,R. Price
 351,3,3:07.0,86,68,SAC,PHO,19,home,BackCourtTurnover,,,turnover,,G. Papagiannis,
-352,3,3:02.0,86,68,SAC,PHO,5,away,BadPass,steal,,turnover,,T. Ulis,A. Tolliver
+352,3,3:02.0,86,68,SAC,PHO,5,away,bad pass,steal,,turnover,,T. Ulis,A. Tolliver
 353,3,2:50.0,86,68,SAC,PHO,12,home,DK,,0,miss2,0,G. Papagiannis,
 354,3,2:50.0,86,68,SAC,PHO,0,away,DefReb,,,DefReb,,T. Warren,
 355,3,2:38.0,86,68,SAC,PHO,12,away,HS,,7,miss2,0,M. Chriss,
@@ -368,7 +368,7 @@
 366,3,1:55.0,88,68,SAC,PHO,1,home,DefReb,,,DefReb,,T. Lawson,
 367,3,1:42.0,90,68,SAC,PHO,13,home,LU,assist,2,make2,2,L. Galloway,G. Papagiannis
 368,3,1:30.0,90,71,SAC,PHO,12,away,JS,,25,make3,3,T. Ulis,
-369,3,1:18.0,90,71,SAC,PHO,12,home,BadPass,steal,,turnover,,T. Lawson,A. Williams
+369,3,1:18.0,90,71,SAC,PHO,12,home,bad pass,steal,,turnover,,T. Lawson,A. Williams
 370,3,1:13.0,90,71,SAC,PHO,5,away,LU,,2,miss2,0,T. Warren,
 371,3,1:11.0,90,71,SAC,PHO,2,home,DefReb,,,DefReb,,A. Tolliver,
 372,3,1:04.0,93,71,SAC,PHO,7,home,JS,,26,make3,3,T. Lawson,
@@ -427,7 +427,7 @@
 425,4,7:39.0,104,90,SAC,PHO,10,away,JS,,11,miss2,0,D. Jones,
 426,4,7:38.0,104,90,SAC,PHO,1,home,DefReb,,,DefReb,,S. Labissière,
 427,4,7:27.0,106,90,SAC,PHO,11,home,LU,,3,make2,2,T. Lawson,
-428,4,7:23.0,106,90,SAC,PHO,4,away,BadPass,steal,,turnover,,M. Chriss,B. Hield
+428,4,7:23.0,106,90,SAC,PHO,4,away,bad pass,steal,,turnover,,M. Chriss,B. Hield
 429,4,7:16.0,106,90,SAC,PHO,7,home,JS,,25,miss3,0,B. Hield,
 430,4,7:14.0,106,90,SAC,PHO,2,home,OffReb,,,OffReb,,G. Papagiannis,
 431,4,7:14.0,108,90,SAC,PHO,0,home,LU,,1,make2,2,G. Papagiannis,

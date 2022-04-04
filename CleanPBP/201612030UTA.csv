@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:39.0,0,0,UTA,DEN,21,away,JS,,17,miss2,0,D. Gallinari,
 1,1,11:38.0,0,0,UTA,DEN,1,home,DefReb,,,DefReb,,R. Hood,
-2,1,11:17.0,0,0,UTA,DEN,21,home,BadPass,steal,,turnover,,G. Hayward,D. Gallinari
+2,1,11:17.0,0,0,UTA,DEN,21,home,bad pass,steal,,turnover,,G. Hayward,D. Gallinari
 3,1,11:07.0,0,2,UTA,DEN,10,away,DK,assist,0,make2,2,J. Nurkić,W. Barton
 4,1,10:46.0,2,2,UTA,DEN,21,home,JS,,12,make2,2,D. Exum,
 5,1,10:34.0,2,2,UTA,DEN,12,away,JS,,9,miss2,0,W. Barton,
@@ -12,7 +12,7 @@
 10,1,9:54.0,2,2,UTA,DEN,1,home,DefReb,,,DefReb,,R. Hood,
 11,1,9:45.0,2,2,UTA,DEN,9,home,JS,,16,miss2,0,R. Hood,
 12,1,9:44.0,2,2,UTA,DEN,1,home,OffReb,,,OffReb,,R. Gobert,
-13,1,9:31.0,2,2,UTA,DEN,13,home,BadPass,steal,,turnover,,R. Hood,D. Gallinari
+13,1,9:31.0,2,2,UTA,DEN,13,home,bad pass,steal,,turnover,,R. Hood,D. Gallinari
 14,1,9:23.0,2,2,UTA,DEN,8,away,JS,,7,miss2,0,D. Gallinari,
 15,1,9:23.0,2,2,UTA,DEN,0,home,DefReb,,,DefReb,,D. Exum,
 16,1,9:17.0,2,2,UTA,DEN,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nurkić,D. Exum
@@ -47,7 +47,7 @@
 45,1,5:40.0,11,11,UTA,DEN,0,home,Sub,,,,,T. Lyles,B. Diaw
 46,1,5:40.0,11,11,UTA,DEN,0,home,Sub,,,,,J. Ingles,R. Hood
 47,1,5:40.0,11,11,UTA,DEN,0,home,Sub,,,,,S. Mack,D. Exum
-48,1,5:30.0,11,11,UTA,DEN,10,home,BadPass,steal,,turnover,,S. Mack,W. Chandler
+48,1,5:30.0,11,11,UTA,DEN,10,home,bad pass,steal,,turnover,,S. Mack,W. Chandler
 49,1,5:21.0,11,11,UTA,DEN,9,away,JS,,25,miss3,0,W. Barton,
 50,1,5:21.0,11,11,UTA,DEN,0,home,DefReb,,,DefReb,,T. Lyles,
 51,1,5:09.0,11,11,UTA,DEN,12,home,JS,,15,miss2,0,T. Lyles,
@@ -60,7 +60,7 @@
 58,1,4:53.0,12,12,UTA,DEN,0,away,FreeThrow,,,make1,1,D. Gallinari,
 59,1,4:53.0,12,13,UTA,DEN,0,away,FreeThrow,,,make1,1,D. Gallinari,
 60,1,4:46.0,12,13,UTA,DEN,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Barton,G. Hayward
-61,1,4:39.0,12,13,UTA,DEN,7,home,LostBall,steal,,turnover,,G. Hayward,W. Barton
+61,1,4:39.0,12,13,UTA,DEN,7,home,lost ball,steal,,turnover,,G. Hayward,W. Barton
 62,1,4:31.0,12,13,UTA,DEN,8,away,JS,,5,miss2,0,W. Barton,
 63,1,4:31.0,12,13,UTA,DEN,0,home,DefReb,,,DefReb,,J. Ingles,
 64,1,4:19.0,14,13,UTA,DEN,12,home,LU,assist,3,make2,2,S. Mack,J. Ingles
@@ -130,8 +130,8 @@
 128,2,9:43.0,31,28,UTA,DEN,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Gee,J. Johnson
 129,2,9:43.0,31,28,UTA,DEN,0,away,Sub,,,,,W. Barton,A. Gee
 130,2,9:32.0,33,28,UTA,DEN,11,home,JS,assist,18,make2,2,J. Withey,R. Hood
-131,2,9:24.0,33,28,UTA,DEN,8,away,LostBall,steal,,turnover,,W. Barton,R. Hood
-132,2,9:09.0,33,28,UTA,DEN,15,home,LostBall,steal,,turnover,,J. Johnson,W. Chandler
+131,2,9:24.0,33,28,UTA,DEN,8,away,lost ball,steal,,turnover,,W. Barton,R. Hood
+132,2,9:09.0,33,28,UTA,DEN,15,home,lost ball,steal,,turnover,,J. Johnson,W. Chandler
 133,2,9:02.0,33,30,UTA,DEN,7,away,LU,assist,1,make2,2,K. Faried,W. Chandler
 134,2,9:02.0,33,30,UTA,DEN,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Withey,K. Faried
 135,2,9:02.0,33,30,UTA,DEN,0,home,Sub,,,,,D. Exum,S. Mack
@@ -160,7 +160,7 @@
 158,2,6:57.0,35,35,UTA,DEN,2,away,DefReb,,,DefReb,,J. Murray,
 159,2,6:44.0,35,37,UTA,DEN,13,away,JS,,16,make2,2,W. Barton,
 160,2,6:19.0,37,37,UTA,DEN,25,home,LU,,3,make2,2,D. Exum,
-161,2,6:06.0,37,37,UTA,DEN,13,away,BadPass,steal,,turnover,,J. Murray,J. Ingles
+161,2,6:06.0,37,37,UTA,DEN,13,away,bad pass,steal,,turnover,,J. Murray,J. Ingles
 162,2,6:02.0,37,37,UTA,DEN,4,away,DefGoaltending,,,DefGoaltending,,K. Faried,
 163,2,6:02.0,39,37,UTA,DEN,0,home,LU,assist,2,make2,2,J. Johnson,J. Ingles
 164,2,6:02.0,39,37,UTA,DEN,0,away,Timeout,,,,,,
@@ -178,9 +178,9 @@
 176,2,4:21.0,44,39,UTA,DEN,12,away,Timeout,,,,,,
 177,2,4:21.0,44,39,UTA,DEN,0,home,Sub,,,,,R. Hood,J. Johnson
 178,2,4:15.0,44,41,UTA,DEN,6,away,JS,,19,make2,2,W. Barton,
-179,2,3:58.0,44,41,UTA,DEN,17,home,BadPass,steal,,turnover,,J. Ingles,E. Mudiay
+179,2,3:58.0,44,41,UTA,DEN,17,home,bad pass,steal,,turnover,,J. Ingles,E. Mudiay
 180,2,3:52.0,44,43,UTA,DEN,6,away,LU,,2,make2,2,E. Mudiay,
-181,2,3:28.0,44,43,UTA,DEN,24,home,LostBall,steal,,turnover,,R. Gobert,W. Barton
+181,2,3:28.0,44,43,UTA,DEN,24,home,lost ball,steal,,turnover,,R. Gobert,W. Barton
 182,2,3:26.0,44,43,UTA,DEN,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Exum,W. Barton
 183,2,3:26.0,44,43,UTA,DEN,0,away,FreeThrow,,,make1,0,W. Barton,
 184,2,3:26.0,44,43,UTA,DEN,0,away,OffReb,,,OffReb,,Team,
@@ -315,14 +315,14 @@
 313,3,1:04.0,80,63,UTA,DEN,7,away,JS,assist,25,make3,3,J. Nelson,J. Murray
 314,3,0:46.0,80,63,UTA,DEN,18,home,JS,,19,miss2,0,B. Diaw,
 315,3,0:46.0,80,63,UTA,DEN,0,away,DefReb,,,DefReb,,D. Arthur,
-316,3,0:36.0,80,63,UTA,DEN,10,away,BadPass,steal,,turnover,,J. Murray,G. Hayward
+316,3,0:36.0,80,63,UTA,DEN,10,away,bad pass,steal,,turnover,,J. Murray,G. Hayward
 317,3,0:29.0,80,63,UTA,DEN,7,home,JS,,9,miss2,0,G. Hayward,
 318,3,0:28.0,80,63,UTA,DEN,1,away,DefReb,,,DefReb,,W. Chandler,
-319,3,0:08.0,80,63,UTA,DEN,20,away,BadPass,steal,,turnover,,J. Nelson,S. Mack
+319,3,0:08.0,80,63,UTA,DEN,20,away,bad pass,steal,,turnover,,J. Nelson,S. Mack
 320,3,0:04.0,82,63,UTA,DEN,4,home,DK,assist,0,make2,2,G. Hayward,S. Mack
 321,3,0:00.0,82,63,UTA,DEN,4,away,JS,,41,miss3,0,J. Murray,
 322,3,0:00.0,82,63,UTA,DEN,0,away,OffReb,,,OffReb,,Team,
-323,4,11:45.0,82,63,UTA,DEN,15,away,LostBall,steal,,turnover,,J. Murray,S. Mack
+323,4,11:45.0,82,63,UTA,DEN,15,away,lost ball,steal,,turnover,,J. Murray,S. Mack
 324,4,11:28.0,85,63,UTA,DEN,17,home,JS,assist,26,make3,3,T. Lyles,J. Johnson
 325,4,11:10.0,85,66,UTA,DEN,18,away,JS,assist,26,make3,3,J. Nelson,J. Murray
 326,4,10:49.0,87,66,UTA,DEN,21,home,JS,,19,make2,2,T. Lyles,
@@ -373,12 +373,12 @@
 371,4,5:38.0,96,85,UTA,DEN,1,away,DefReb,,,DefReb,,J. Nelson,
 372,4,5:31.0,96,87,UTA,DEN,7,away,JS,,18,make2,2,J. Nelson,
 373,4,5:13.0,99,87,UTA,DEN,18,home,JS,,24,make3,3,R. Hood,
-374,4,4:55.0,99,87,UTA,DEN,18,away,LostBall,steal,,turnover,,W. Barton,R. Gobert
+374,4,4:55.0,99,87,UTA,DEN,18,away,lost ball,steal,,turnover,,W. Barton,R. Gobert
 375,4,4:35.0,99,87,UTA,DEN,20,home,LU,block,3,miss2,0,S. Mack,W. Barton
 376,4,4:35.0,99,87,UTA,DEN,0,away,DefReb,,,DefReb,,W. Barton,
 377,4,4:25.0,99,87,UTA,DEN,10,away,LostBall,,,turnover,,J. Nelson,
 378,4,4:06.0,99,87,UTA,DEN,19,home,BadPass,,,turnover,,G. Hayward,
-379,4,3:55.0,99,87,UTA,DEN,11,away,BadPass,steal,,turnover,,J. Nelson,R. Hood
+379,4,3:55.0,99,87,UTA,DEN,11,away,bad pass,steal,,turnover,,J. Nelson,R. Hood
 380,4,3:36.0,99,87,UTA,DEN,19,home,JS,,9,miss2,0,J. Ingles,
 381,4,3:36.0,99,87,UTA,DEN,0,away,DefReb,,,DefReb,,K. Faried,
 382,4,3:26.0,99,87,UTA,DEN,10,away,JS,,11,miss2,0,W. Barton,
@@ -394,7 +394,7 @@
 392,4,1:51.0,99,94,UTA,DEN,0,home,Timeout,,,,,,
 393,4,1:37.0,99,94,UTA,DEN,14,home,LU,block,3,miss2,0,S. Mack,J. Nelson
 394,4,1:36.0,99,94,UTA,DEN,1,away,DefReb,,,DefReb,,W. Barton,
-395,4,1:32.0,99,94,UTA,DEN,4,away,LostBall,steal,,turnover,,W. Barton,G. Hayward
+395,4,1:32.0,99,94,UTA,DEN,4,away,lost ball,steal,,turnover,,W. Barton,G. Hayward
 396,4,1:27.0,99,94,UTA,DEN,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Nelson,G. Hayward
 397,4,1:27.0,100,94,UTA,DEN,0,home,FreeThrow,,,make1,1,G. Hayward,
 398,4,1:27.0,101,94,UTA,DEN,0,home,FreeThrow,,,make1,1,G. Hayward,

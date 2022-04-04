@@ -1,18 +1,18 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:39.0,0,2,HOU,PHI,21,away,JS,,19,make2,2,J. Embiid,
-1,1,11:22.0,0,2,HOU,PHI,17,home,BadPass,steal,,turnover,,J. Harden,S. Rodríguez
+1,1,11:22.0,0,2,HOU,PHI,17,home,bad pass,steal,,turnover,,J. Harden,S. Rodríguez
 2,1,11:14.0,0,2,HOU,PHI,8,away,JS,,26,miss3,0,J. Embiid,
 3,1,11:13.0,0,2,HOU,PHI,1,home,DefReb,,,DefReb,,E. Gordon,
 4,1,11:03.0,0,2,HOU,PHI,10,home,JS,,22,miss2,0,E. Gordon,
 5,1,11:02.0,0,2,HOU,PHI,1,away,DefReb,,,DefReb,,J. Embiid,
 6,1,10:55.0,0,2,HOU,PHI,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Gordon,J. Embiid
-7,1,10:42.0,0,2,HOU,PHI,13,away,LostBall,steal,,turnover,,J. Embiid,T. Ariza
+7,1,10:42.0,0,2,HOU,PHI,13,away,lost ball,steal,,turnover,,J. Embiid,T. Ariza
 8,1,10:36.0,3,2,HOU,PHI,6,home,JS,assist,26,make3,3,T. Ariza,J. Harden
 9,1,10:24.0,3,4,HOU,PHI,12,away,LU,assist,2,make2,2,J. Embiid,S. Rodríguez
 10,1,10:24.0,3,4,HOU,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harden,J. Embiid
 11,1,10:24.0,3,5,HOU,PHI,0,away,FreeThrow,,,make1,1,J. Embiid,
 12,1,10:11.0,3,5,HOU,PHI,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Covington,T. Ariza
-13,1,10:06.0,3,5,HOU,PHI,5,home,BadPass,steal,,turnover,,J. Harden,J. Embiid
+13,1,10:06.0,3,5,HOU,PHI,5,home,bad pass,steal,,turnover,,J. Harden,J. Embiid
 14,1,9:58.0,3,7,HOU,PHI,8,away,DK,assist,0,make2,2,D. Šarić,G. Henderson
 15,1,9:44.0,5,7,HOU,PHI,14,home,LU,assist,2,make2,2,E. Gordon,J. Harden
 16,1,9:27.0,5,7,HOU,PHI,17,away,JS,block,4,miss2,0,D. Šarić,C. Capela
@@ -84,7 +84,7 @@
 82,1,3:09.0,26,19,HOU,PHI,21,away,LU,assist,4,make2,2,H. Thompson,T. McConnell
 83,1,2:50.0,26,19,HOU,PHI,19,home,JS,,25,miss3,0,T. Ariza,
 84,1,2:48.0,26,19,HOU,PHI,2,away,DefReb,,,DefReb,,E. İlyasova,
-85,1,2:36.0,26,19,HOU,PHI,12,away,LostBall,steal,,turnover,,H. Thompson,T. Ariza
+85,1,2:36.0,26,19,HOU,PHI,12,away,lost ball,steal,,turnover,,H. Thompson,T. Ariza
 86,1,2:30.0,28,19,HOU,PHI,6,home,DK,assist,0,make2,2,J. Harden,T. Ariza
 87,1,2:27.0,28,19,HOU,PHI,3,away,Timeout,,,,,,
 88,1,2:16.0,28,19,HOU,PHI,11,away,JS,,4,miss2,0,N. Stauskas,
@@ -132,7 +132,7 @@
 130,2,10:11.0,44,30,HOU,PHI,0,home,FreeThrow,,,make1,1,C. Brewer,
 131,2,9:55.0,44,30,HOU,PHI,16,away,JS,block,4,miss2,0,J. Okafor,C. Capela
 132,2,9:52.0,44,30,HOU,PHI,3,home,DefReb,,,DefReb,,C. Brewer,
-133,2,9:50.0,44,30,HOU,PHI,2,home,BadPass,steal,,turnover,,C. Brewer,N. Stauskas
+133,2,9:50.0,44,30,HOU,PHI,2,home,bad pass,steal,,turnover,,C. Brewer,N. Stauskas
 134,2,9:46.0,44,30,HOU,PHI,4,away,JS,block,3,miss2,0,J. Okafor,C. Brewer
 135,2,9:41.0,44,30,HOU,PHI,5,away,OffReb,,,OffReb,,J. Okafor,
 136,2,9:38.0,44,30,HOU,PHI,3,away,LU,,3,miss2,0,J. Okafor,
@@ -167,7 +167,7 @@
 165,2,6:52.0,53,32,HOU,PHI,13,away,JS,,6,miss2,0,J. Embiid,
 166,2,6:48.0,53,32,HOU,PHI,4,away,OffReb,,,OffReb,,D. Šarić,
 167,2,6:48.0,53,34,HOU,PHI,0,away,LU,,1,make2,2,D. Šarić,
-168,2,6:35.0,53,34,HOU,PHI,13,home,BadPass,steal,,turnover,,E. Gordon,G. Henderson
+168,2,6:35.0,53,34,HOU,PHI,13,home,bad pass,steal,,turnover,,E. Gordon,G. Henderson
 169,2,6:31.0,53,34,HOU,PHI,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Ariza,G. Henderson
 170,2,6:31.0,53,35,HOU,PHI,0,away,FreeThrow,,,make1,1,G. Henderson,
 171,2,6:31.0,53,35,HOU,PHI,0,home,Sub,,,,,J. Harden,T. Ennis
@@ -236,7 +236,7 @@
 234,2,0:52.0,63,47,HOU,PHI,6,home,JS,,27,miss3,0,J. Harden,
 235,2,0:51.0,63,47,HOU,PHI,1,away,DefReb,,,DefReb,,E. İlyasova,
 236,2,0:30.0,63,50,HOU,PHI,21,away,JS,assist,24,make3,3,E. İlyasova,T. McConnell
-237,2,0:27.0,63,50,HOU,PHI,3,home,LostBall,steal,,turnover,,J. Harden,G. Henderson
+237,2,0:27.0,63,50,HOU,PHI,3,home,lost ball,steal,,turnover,,J. Harden,G. Henderson
 238,2,0:25.0,63,52,HOU,PHI,2,away,DK,,0,make2,2,G. Henderson,
 239,2,0:03.0,63,52,HOU,PHI,22,home,JS,,5,miss2,0,J. Harden,
 240,2,0:01.0,63,52,HOU,PHI,2,home,OffReb,,,OffReb,,N. Hilário,
@@ -252,7 +252,7 @@
 250,3,11:00.0,68,52,HOU,PHI,1,home,DefReb,,,DefReb,,C. Capela,
 251,3,10:51.0,68,52,HOU,PHI,9,home,JS,,25,miss3,0,T. Ariza,
 252,3,10:50.0,68,52,HOU,PHI,1,away,DefReb,,,DefReb,,J. Embiid,
-253,3,10:33.0,68,52,HOU,PHI,17,away,BadPass,steal,,turnover,,J. Embiid,T. Ariza
+253,3,10:33.0,68,52,HOU,PHI,17,away,bad pass,steal,,turnover,,J. Embiid,T. Ariza
 254,3,10:18.0,70,52,HOU,PHI,15,home,LU,assist,2,make2,2,C. Capela,J. Harden
 255,3,10:18.0,70,52,HOU,PHI,0,away,Timeout,,,,,,
 256,3,9:56.0,70,52,HOU,PHI,22,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. Gordon,R. Covington
@@ -323,7 +323,7 @@
 321,3,2:38.0,92,63,HOU,PHI,3,home,Sub,,,,,C. Brewer,R. Anderson
 322,3,2:23.0,92,63,HOU,PHI,15,home,JS,,25,miss3,0,N. Hilário,
 323,3,2:22.0,92,63,HOU,PHI,1,home,OffReb,,,OffReb,,S. Dekker,
-324,3,2:12.0,92,63,HOU,PHI,10,home,LostBall,steal,,turnover,,N. Hilário,T. McConnell
+324,3,2:12.0,92,63,HOU,PHI,10,home,lost ball,steal,,turnover,,N. Hilário,T. McConnell
 325,3,2:07.0,92,63,HOU,PHI,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Dekker,N. Stauskas
 326,3,2:07.0,92,63,HOU,PHI,0,away,FreeThrow,,,make1,0,N. Stauskas,
 327,3,2:07.0,92,63,HOU,PHI,0,away,OffReb,,,OffReb,,Team,
@@ -336,7 +336,7 @@
 334,3,1:30.0,93,64,HOU,PHI,8,away,KickBallViolation,,,KickBallViolation,,J. Embiid,
 335,3,1:16.0,93,64,HOU,PHI,14,home,JS,,27,miss3,0,J. Harden,
 336,3,1:14.0,93,64,HOU,PHI,2,home,OffReb,,,OffReb,,N. Hilário,
-337,3,1:08.0,93,64,HOU,PHI,6,home,LostBall,steal,,turnover,,J. Harden,H. Thompson
+337,3,1:08.0,93,64,HOU,PHI,6,home,lost ball,steal,,turnover,,J. Harden,H. Thompson
 338,3,1:05.0,93,64,HOU,PHI,3,away,LU,block,2,miss2,0,H. Thompson,J. Harden
 339,3,1:05.0,93,64,HOU,PHI,0,away,OffReb,,,OffReb,,Team,
 340,3,0:56.0,93,64,HOU,PHI,9,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Dekker,E. İlyasova
@@ -356,7 +356,7 @@
 354,4,11:18.0,93,68,HOU,PHI,1,away,OffReb,,,OffReb,,J. Embiid,
 355,4,10:59.0,93,68,HOU,PHI,19,away,JS,,8,miss2,0,G. Henderson,
 356,4,10:57.0,93,68,HOU,PHI,2,home,DefReb,,,DefReb,,S. Dekker,
-357,4,10:43.0,93,68,HOU,PHI,14,home,LostBall,steal,,turnover,,C. Brewer,G. Henderson
+357,4,10:43.0,93,68,HOU,PHI,14,home,lost ball,steal,,turnover,,C. Brewer,G. Henderson
 358,4,10:37.0,93,70,HOU,PHI,6,away,LU,assist,2,make2,2,E. İlyasova,G. Henderson
 359,4,10:15.0,95,70,HOU,PHI,22,home,JS,,19,make2,2,N. Hilário,
 360,4,10:00.0,95,70,HOU,PHI,15,away,JS,,20,miss2,0,T. McConnell,
@@ -384,7 +384,7 @@
 382,4,8:45.0,97,74,HOU,PHI,0,away,Sub,,,,,T. McConnell,G. Henderson
 383,4,8:45.0,97,74,HOU,PHI,0,away,Sub,,,,,T. Luwawu-Cabarrot,J. Okafor
 384,4,8:45.0,97,74,HOU,PHI,0,away,Sub,,,,,J. Okafor,T. McConnell
-385,4,8:34.0,97,74,HOU,PHI,11,away,BadPass,steal,,turnover,,N. Stauskas,J. Harden
+385,4,8:34.0,97,74,HOU,PHI,11,away,bad pass,steal,,turnover,,N. Stauskas,J. Harden
 386,4,8:29.0,99,74,HOU,PHI,5,home,DK,assist,0,make2,2,C. Capela,J. Harden
 387,4,8:13.0,99,74,HOU,PHI,16,away,JS,,26,miss3,0,E. İlyasova,
 388,4,8:10.0,99,74,HOU,PHI,3,home,DefReb,,,DefReb,,T. Ariza,
@@ -437,20 +437,20 @@
 435,4,2:36.0,112,84,HOU,PHI,22,away,JS,block,6,miss2,0,T. Luwawu-Cabarrot,S. Dekker
 436,4,2:34.0,112,84,HOU,PHI,2,away,OffReb,,,OffReb,,R. Holmes,
 437,4,2:31.0,112,86,HOU,PHI,3,away,LU,,3,make2,2,R. Holmes,
-438,4,2:21.0,112,86,HOU,PHI,10,home,LostBall,steal,,turnover,,T. Ennis,T. McConnell
-439,4,2:17.0,112,86,HOU,PHI,4,away,LostBall,steal,,turnover,,T. Luwawu-Cabarrot,M. Harrell
+438,4,2:21.0,112,86,HOU,PHI,10,home,lost ball,steal,,turnover,,T. Ennis,T. McConnell
+439,4,2:17.0,112,86,HOU,PHI,4,away,lost ball,steal,,turnover,,T. Luwawu-Cabarrot,M. Harrell
 440,4,2:11.0,112,86,HOU,PHI,6,home,LU,,3,miss2,0,S. Dekker,
 441,4,2:07.0,112,86,HOU,PHI,4,away,DefReb,,,DefReb,,N. Stauskas,
 442,4,2:02.0,112,88,HOU,PHI,5,away,LU,,2,make2,2,N. Stauskas,
 443,4,1:47.0,112,88,HOU,PHI,15,home,JS,block,7,miss2,0,M. Harrell,J. Okafor
 444,4,1:44.0,112,88,HOU,PHI,3,home,OffReb,,,OffReb,,M. Harrell,
-445,4,1:38.0,112,88,HOU,PHI,6,home,BadPass,steal,,turnover,,M. Harrell,T. McConnell
-446,4,1:33.0,112,88,HOU,PHI,5,away,BadPass,steal,,turnover,,T. McConnell,T. Ennis
+445,4,1:38.0,112,88,HOU,PHI,6,home,bad pass,steal,,turnover,,M. Harrell,T. McConnell
+446,4,1:33.0,112,88,HOU,PHI,5,away,bad pass,steal,,turnover,,T. McConnell,T. Ennis
 447,4,1:28.0,112,88,HOU,PHI,5,home,JS,,7,miss2,0,B. Brown,
 448,4,1:26.0,112,88,HOU,PHI,2,away,DefReb,,,DefReb,,T. Luwawu-Cabarrot,
 449,4,1:19.0,112,88,HOU,PHI,7,away,JS,,16,miss2,0,R. Holmes,
 450,4,1:17.0,112,88,HOU,PHI,2,home,DefReb,,,DefReb,,K. McDaniels,
-451,4,1:14.0,112,88,HOU,PHI,3,home,BadPass,steal,,turnover,,K. McDaniels,T. McConnell
+451,4,1:14.0,112,88,HOU,PHI,3,home,bad pass,steal,,turnover,,K. McDaniels,T. McConnell
 452,4,1:08.0,112,88,HOU,PHI,6,away,BadPass,,,turnover,,T. McConnell,
 453,4,0:57.0,115,88,HOU,PHI,11,home,JS,assist,26,make3,3,T. Ennis,M. Harrell
 454,4,0:40.0,115,88,HOU,PHI,17,away,JS,,19,miss2,0,J. Okafor,

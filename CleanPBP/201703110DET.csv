@@ -15,8 +15,8 @@
 13,1,10:08.0,2,2,DET,NYK,2,away,OffReb,,,OffReb,,W. Hernangómez,
 14,1,10:05.0,2,4,DET,NYK,3,away,LU,,1,make2,2,W. Hernangómez,
 15,1,9:46.0,4,4,DET,NYK,19,home,HS,assist,8,make2,2,A. Drummond,M. Morris
-16,1,9:32.0,4,4,DET,NYK,14,away,LostBall,steal,,turnover,,D. Rose,K. Caldwell-Pope
-17,1,9:29.0,4,4,DET,NYK,3,home,LostBall,steal,,turnover,,R. Jackson,D. Rose
+16,1,9:32.0,4,4,DET,NYK,14,away,lost ball,steal,,turnover,,D. Rose,K. Caldwell-Pope
+17,1,9:29.0,4,4,DET,NYK,3,home,lost ball,steal,,turnover,,R. Jackson,D. Rose
 18,1,9:23.0,4,4,DET,NYK,6,away,JS,,7,miss2,0,D. Rose,
 19,1,9:23.0,4,4,DET,NYK,0,away,OffReb,,,OffReb,,D. Rose,
 20,1,9:19.0,4,7,DET,NYK,4,away,JS,assist,23,make3,3,C. Lee,D. Rose
@@ -26,7 +26,7 @@
 24,1,8:41.0,9,7,DET,NYK,3,home,LU,assist,1,make2,2,K. Caldwell-Pope,T. Harris
 25,1,8:29.0,9,9,DET,NYK,12,away,JS,assist,8,make2,2,K. Porziņģis,C. Anthony
 26,1,8:17.0,12,9,DET,NYK,12,home,JS,assist,26,make3,3,T. Harris,K. Caldwell-Pope
-27,1,7:57.0,12,9,DET,NYK,20,away,LostBall,steal,,turnover,,C. Lee,R. Jackson
+27,1,7:57.0,12,9,DET,NYK,20,away,lost ball,steal,,turnover,,C. Lee,R. Jackson
 28,1,7:53.0,14,9,DET,NYK,4,home,LU,,1,make2,2,R. Jackson,
 29,1,7:53.0,14,9,DET,NYK,0,away,Timeout,,,,,,
 30,1,7:30.0,14,9,DET,NYK,23,away,JS,block,6,miss2,0,W. Hernangómez,A. Drummond
@@ -34,9 +34,9 @@
 32,1,7:25.0,14,9,DET,NYK,5,home,JS,,12,miss2,0,T. Harris,
 33,1,7:24.0,14,9,DET,NYK,1,home,OffReb,,,OffReb,,T. Harris,
 34,1,7:21.0,16,9,DET,NYK,3,home,LU,,1,make2,2,T. Harris,
-35,1,7:10.0,16,9,DET,NYK,11,away,BadPass,steal,,turnover,,C. Anthony,A. Drummond
+35,1,7:10.0,16,9,DET,NYK,11,away,bad pass,steal,,turnover,,C. Anthony,A. Drummond
 36,1,6:49.0,19,9,DET,NYK,21,home,JS,,26,make3,3,R. Jackson,
-37,1,6:33.0,19,9,DET,NYK,16,away,BadPass,steal,,turnover,,D. Rose,K. Caldwell-Pope
+37,1,6:33.0,19,9,DET,NYK,16,away,bad pass,steal,,turnover,,D. Rose,K. Caldwell-Pope
 38,1,6:17.0,21,9,DET,NYK,16,home,JS,,17,make2,2,T. Harris,
 39,1,6:05.0,21,11,DET,NYK,12,away,JS,assist,19,make2,2,D. Rose,C. Anthony
 40,1,5:53.0,21,11,DET,NYK,12,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Drummond,C. Lee
@@ -58,7 +58,7 @@
 56,1,4:47.0,22,14,DET,NYK,0,home,FreeThrow,,,make1,1,T. Harris,
 57,1,4:47.0,23,14,DET,NYK,0,home,FreeThrow,,,make1,1,T. Harris,
 58,1,4:35.0,23,16,DET,NYK,12,away,DK,assist,0,make2,2,K. Porziņģis,D. Rose
-59,1,4:17.0,23,16,DET,NYK,18,home,BadPass,steal,,turnover,,I. Smith,K. O'Quinn
+59,1,4:17.0,23,16,DET,NYK,18,home,bad pass,steal,,turnover,,I. Smith,K. O'Quinn
 60,1,4:04.0,23,16,DET,NYK,13,away,JS,,27,miss3,0,K. Porziņģis,
 61,1,4:04.0,23,16,DET,NYK,0,home,DefReb,,,DefReb,,Team,
 62,1,4:03.0,23,16,DET,NYK,1,away,Sub,,,,,L. Thomas,K. Porziņģis
@@ -85,7 +85,7 @@
 83,1,2:04.0,28,17,DET,NYK,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,K. O'Quinn,M. Morris
 84,1,2:04.0,28,17,DET,NYK,0,away,Sub,,,,,C. Randle,D. Rose
 85,1,1:50.0,31,17,DET,NYK,14,home,JS,assist,24,make3,3,J. Leuer,K. Caldwell-Pope
-86,1,1:37.0,31,17,DET,NYK,13,away,BadPass,steal,,turnover,,C. Anthony,I. Smith
+86,1,1:37.0,31,17,DET,NYK,13,away,bad pass,steal,,turnover,,C. Anthony,I. Smith
 87,1,1:31.0,31,17,DET,NYK,6,home,LU,block,1,miss2,0,I. Smith,J. Holiday
 88,1,1:30.0,31,17,DET,NYK,1,home,OffReb,,,OffReb,,K. Caldwell-Pope,
 89,1,1:28.0,33,17,DET,NYK,2,home,LU,,0,make2,2,K. Caldwell-Pope,
@@ -133,12 +133,12 @@
 131,2,8:26.0,40,33,DET,NYK,0,away,JS,assist,14,make2,2,K. Porziņģis,C. Randle
 132,2,8:19.0,40,33,DET,NYK,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Holiday,R. Bullock
 133,2,8:12.0,42,33,DET,NYK,7,home,DK,,0,make2,2,R. Jackson,
-134,2,8:01.0,42,33,DET,NYK,11,away,BadPass,steal,,turnover,,J. Holiday,R. Bullock
+134,2,8:01.0,42,33,DET,NYK,11,away,bad pass,steal,,turnover,,J. Holiday,R. Bullock
 135,2,7:54.0,44,33,DET,NYK,7,home,JS,assist,19,make2,2,S. Johnson,R. Jackson
 136,2,7:41.0,44,33,DET,NYK,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Johnson,L. Thomas
 137,2,7:41.0,44,33,DET,NYK,0,away,Sub,,,,,C. Lee,J. Holiday
 138,2,7:34.0,44,36,DET,NYK,7,away,JS,assist,27,make3,3,C. Randle,W. Hernangómez
-139,2,7:20.0,44,36,DET,NYK,14,home,BadPass,steal,,turnover,,R. Jackson,C. Lee
+139,2,7:20.0,44,36,DET,NYK,14,home,bad pass,steal,,turnover,,R. Jackson,C. Lee
 140,2,7:14.0,44,38,DET,NYK,6,away,LU,,0,make2,2,C. Lee,
 141,2,7:07.0,44,38,DET,NYK,7,home,Timeout,,,,,,
 142,2,7:07.0,44,38,DET,NYK,0,away,Sub,,,,,C. Anthony,L. Thomas
@@ -153,7 +153,7 @@
 151,2,6:04.0,49,40,DET,NYK,17,away,JS,,17,make2,2,C. Lee,
 152,2,5:44.0,49,40,DET,NYK,20,home,JS,,26,miss3,0,S. Johnson,
 153,2,5:44.0,49,40,DET,NYK,0,away,DefReb,,,DefReb,,K. Porziņģis,
-154,2,5:35.0,49,40,DET,NYK,9,away,BadPass,steal,,turnover,,C. Lee,R. Bullock
+154,2,5:35.0,49,40,DET,NYK,9,away,bad pass,steal,,turnover,,C. Lee,R. Bullock
 155,2,5:20.0,52,40,DET,NYK,15,home,JS,assist,26,make3,3,T. Harris,S. Johnson
 156,2,4:58.0,52,40,DET,NYK,22,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Johnson,C. Anthony
 157,2,4:58.0,52,40,DET,NYK,0,home,Sub,,,,,I. Smith,R. Jackson
@@ -216,7 +216,7 @@
 214,3,10:43.0,68,56,DET,NYK,19,away,Traveling,,,turnover,,W. Hernangómez,
 215,3,10:36.0,68,56,DET,NYK,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Anthony,R. Jackson
 216,3,10:20.0,70,56,DET,NYK,16,home,DK,assist,0,make2,2,A. Drummond,T. Harris
-217,3,10:01.0,70,56,DET,NYK,19,away,BadPass,steal,,turnover,,D. Rose,A. Drummond
+217,3,10:01.0,70,56,DET,NYK,19,away,bad pass,steal,,turnover,,D. Rose,A. Drummond
 218,3,9:54.0,72,56,DET,NYK,7,home,LU,assist,1,make2,2,K. Caldwell-Pope,R. Jackson
 219,3,9:37.0,72,58,DET,NYK,17,away,JS,assist,18,make2,2,D. Rose,W. Hernangómez
 220,3,9:17.0,72,58,DET,NYK,20,home,JS,,5,miss2,0,T. Harris,
@@ -231,12 +231,12 @@
 229,3,8:57.0,73,58,DET,NYK,0,away,OffReb,,,OffReb,,C. Lee,
 230,3,8:52.0,73,60,DET,NYK,5,away,DK,assist,0,make2,2,W. Hernangómez,K. Porziņģis
 231,3,8:26.0,75,60,DET,NYK,26,home,LU,,1,make2,2,T. Harris,
-232,3,8:08.0,75,60,DET,NYK,18,away,BadPass,steal,,turnover,,W. Hernangómez,A. Drummond
+232,3,8:08.0,75,60,DET,NYK,18,away,bad pass,steal,,turnover,,W. Hernangómez,A. Drummond
 233,3,8:02.0,75,60,DET,NYK,6,home,JS,block,6,miss2,0,T. Harris,K. Porziņģis
 234,3,8:01.0,75,60,DET,NYK,1,away,DefReb,,,DefReb,,W. Hernangómez,
 235,3,7:49.0,75,60,DET,NYK,12,away,JS,,23,miss3,0,C. Lee,
 236,3,7:49.0,75,60,DET,NYK,0,home,DefReb,,,DefReb,,K. Caldwell-Pope,
-237,3,7:39.0,75,60,DET,NYK,10,home,BadPass,steal,,turnover,,A. Drummond,W. Hernangómez
+237,3,7:39.0,75,60,DET,NYK,10,home,bad pass,steal,,turnover,,A. Drummond,W. Hernangómez
 238,3,7:27.0,75,62,DET,NYK,12,away,HS,assist,5,make2,2,W. Hernangómez,K. Porziņģis
 239,3,7:13.0,77,62,DET,NYK,14,home,DK,assist,0,make2,2,A. Drummond,R. Jackson
 240,3,6:56.0,77,65,DET,NYK,17,away,JS,assist,27,make3,3,C. Anthony,C. Lee
@@ -277,7 +277,7 @@
 275,3,3:30.0,79,72,DET,NYK,0,home,OffReb,,,OffReb,,A. Drummond,
 276,3,3:26.0,79,72,DET,NYK,4,home,HS,,6,miss2,0,A. Drummond,
 277,3,3:25.0,79,72,DET,NYK,1,away,DefReb,,,DefReb,,K. O'Quinn,
-278,3,3:20.0,79,72,DET,NYK,5,away,BadPass,steal,,turnover,,D. Rose,S. Johnson
+278,3,3:20.0,79,72,DET,NYK,5,away,bad pass,steal,,turnover,,D. Rose,S. Johnson
 279,3,3:14.0,81,72,DET,NYK,6,home,DK,assist,0,make2,2,A. Drummond,M. Morris
 280,3,2:56.0,81,72,DET,NYK,18,away,JS,,17,miss2,0,K. O'Quinn,
 281,3,2:56.0,81,72,DET,NYK,0,away,OffReb,,,OffReb,,K. O'Quinn,
@@ -318,7 +318,7 @@
 316,4,10:01.0,91,83,DET,NYK,1,home,OffReb,,,OffReb,,A. Baynes,
 317,4,9:58.0,91,83,DET,NYK,3,home,JS,,9,miss2,0,A. Baynes,
 318,4,9:57.0,91,83,DET,NYK,1,away,DefReb,,,DefReb,,J. Holiday,
-319,4,9:50.0,91,83,DET,NYK,7,away,LostBall,steal,,turnover,,J. Holiday,A. Baynes
+319,4,9:50.0,91,83,DET,NYK,7,away,lost ball,steal,,turnover,,J. Holiday,A. Baynes
 320,4,9:39.0,93,83,DET,NYK,11,home,JS,assist,9,make2,2,J. Leuer,R. Jackson
 321,4,9:28.0,93,83,DET,NYK,11,away,JS,,25,miss3,0,C. Randle,
 322,4,9:28.0,93,83,DET,NYK,0,home,DefReb,,,DefReb,,S. Johnson,
@@ -351,7 +351,7 @@
 349,4,6:54.0,96,85,DET,NYK,0,home,DefReb,,,DefReb,,T. Harris,
 350,4,6:41.0,96,85,DET,NYK,13,home,JS,block,4,miss2,0,T. Harris,K. Porziņģis
 351,4,6:39.0,96,85,DET,NYK,2,away,DefReb,,,DefReb,,C. Randle,
-352,4,6:37.0,96,85,DET,NYK,2,away,LostBall,steal,,turnover,,M. Kuzminskas,S. Johnson
+352,4,6:37.0,96,85,DET,NYK,2,away,lost ball,steal,,turnover,,M. Kuzminskas,S. Johnson
 353,4,6:29.0,96,85,DET,NYK,8,home,JS,,24,miss3,0,T. Harris,
 354,4,6:29.0,96,85,DET,NYK,0,away,DefReb,,,DefReb,,C. Randle,
 355,4,6:29.0,96,85,DET,NYK,0,away,Timeout,,,,,,
@@ -367,7 +367,7 @@
 365,4,6:01.0,98,85,DET,NYK,1,home,LU,,0,make2,2,A. Drummond,
 366,4,5:50.0,98,88,DET,NYK,11,away,JS,assist,23,make3,3,C. Anthony,K. Porziņģis
 367,4,5:32.0,100,88,DET,NYK,18,home,JS,assist,12,make2,2,M. Morris,T. Harris
-368,4,5:14.0,100,88,DET,NYK,18,away,BadPass,steal,,turnover,,W. Hernangómez,K. Caldwell-Pope
+368,4,5:14.0,100,88,DET,NYK,18,away,bad pass,steal,,turnover,,W. Hernangómez,K. Caldwell-Pope
 369,4,5:03.0,100,88,DET,NYK,11,home,JS,,28,miss3,0,K. Caldwell-Pope,
 370,4,5:02.0,100,88,DET,NYK,1,away,DefReb,,,DefReb,,W. Hernangómez,
 371,4,4:52.0,100,88,DET,NYK,10,away,JS,,15,miss2,0,C. Randle,
@@ -425,7 +425,7 @@
 423,4,1:16.0,108,90,DET,NYK,0,away,DefReb,,,DefReb,,M. Plumlee,
 424,4,1:12.0,108,92,DET,NYK,4,away,LU,assist,0,make2,2,M. Kuzminskas,S. Vujačić
 425,4,0:54.0,110,92,DET,NYK,18,home,JS,,18,make2,2,D. Hilliard,
-426,4,0:43.0,110,92,DET,NYK,11,away,BadPass,steal,,turnover,,S. Vujačić,D. Hilliard
+426,4,0:43.0,110,92,DET,NYK,11,away,bad pass,steal,,turnover,,S. Vujačić,D. Hilliard
 427,4,0:23.0,112,92,DET,NYK,20,home,JS,,16,make2,2,S. Johnson,
 428,4,0:10.0,112,92,DET,NYK,13,away,JS,,9,miss2,0,M. Kuzminskas,
 429,4,0:09.0,112,92,DET,NYK,1,home,DefReb,,,DefReb,,D. Hilliard,

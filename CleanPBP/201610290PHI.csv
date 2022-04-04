@@ -1,8 +1,8 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:48.0,3,0,PHI,ATL,12,home,JS,,26,make3,3,J. Embiid,
-1,1,11:29.0,3,0,PHI,ATL,19,away,BadPass,steal,,turnover,,K. Bazemore,R. Covington
-2,1,11:24.0,3,0,PHI,ATL,5,home,BadPass,steal,,turnover,,S. Rodríguez,K. Bazemore
-3,1,11:18.0,3,0,PHI,ATL,6,away,BadPass,steal,,turnover,,K. Bazemore,R. Covington
+1,1,11:29.0,3,0,PHI,ATL,19,away,bad pass,steal,,turnover,,K. Bazemore,R. Covington
+2,1,11:24.0,3,0,PHI,ATL,5,home,bad pass,steal,,turnover,,S. Rodríguez,K. Bazemore
+3,1,11:18.0,3,0,PHI,ATL,6,away,bad pass,steal,,turnover,,K. Bazemore,R. Covington
 4,1,11:13.0,5,0,PHI,ATL,5,home,LU,assist,1,make2,2,J. Embiid,R. Covington
 5,1,10:56.0,5,0,PHI,ATL,17,away,JS,,4,miss2,0,D. Schröder,
 6,1,10:53.0,5,0,PHI,ATL,3,away,OffReb,,,OffReb,,D. Howard,
@@ -46,7 +46,7 @@
 44,1,7:32.0,8,4,PHI,ATL,10,home,HS,,1,miss2,0,D. Šarić,
 45,1,7:31.0,8,4,PHI,ATL,1,away,DefReb,,,DefReb,,D. Howard,
 46,1,7:23.0,8,7,PHI,ATL,8,away,JS,assist,24,make3,3,K. Korver,D. Schröder
-47,1,7:12.0,8,7,PHI,ATL,11,home,LostBall,steal,,turnover,,R. Covington,D. Schröder
+47,1,7:12.0,8,7,PHI,ATL,11,home,lost ball,steal,,turnover,,R. Covington,D. Schröder
 48,1,7:03.0,8,9,PHI,ATL,9,away,JS,assist,17,make2,2,K. Bazemore,D. Schröder
 49,1,6:42.0,10,9,PHI,ATL,21,home,LU,assist,2,make2,2,J. Okafor,D. Šarić
 50,1,6:27.0,10,11,PHI,ATL,15,away,JS,assist,20,make2,2,K. Korver,D. Schröder
@@ -54,7 +54,7 @@
 52,1,6:13.0,10,11,PHI,ATL,1,away,DefReb,,,DefReb,,K. Bazemore,
 53,1,6:08.0,10,13,PHI,ATL,5,away,LU,assist,1,make2,2,P. Millsap,K. Bazemore
 54,1,5:49.0,12,13,PHI,ATL,19,home,HS,assist,3,make2,2,D. Šarić,J. Okafor
-55,1,5:37.0,12,13,PHI,ATL,12,away,LostBall,steal,,turnover,,P. Millsap,R. Covington
+55,1,5:37.0,12,13,PHI,ATL,12,away,lost ball,steal,,turnover,,P. Millsap,R. Covington
 56,1,5:31.0,14,13,PHI,ATL,6,home,JS,,8,make2,2,S. Rodríguez,
 57,1,5:11.0,14,15,PHI,ATL,20,away,JS,,9,make2,2,P. Millsap,
 58,1,4:49.0,14,15,PHI,ATL,22,home,JS,,19,miss2,0,D. Šarić,
@@ -76,7 +76,7 @@
 74,1,3:46.0,17,19,PHI,ATL,0,away,Sub,,,,,M. Delaney,D. Howard
 75,1,3:46.0,17,19,PHI,ATL,0,away,Sub,,,,,K. Humphries,K. Korver
 76,1,3:46.0,17,19,PHI,ATL,0,away,Sub,,,,,T. Sefolosha,D. Schröder
-77,1,3:31.0,17,19,PHI,ATL,15,home,BadPass,steal,,turnover,,N. Stauskas,K. Humphries
+77,1,3:31.0,17,19,PHI,ATL,15,home,bad pass,steal,,turnover,,N. Stauskas,K. Humphries
 78,1,3:25.0,17,21,PHI,ATL,6,away,DK,assist,0,make2,2,K. Humphries,T. Hardaway
 79,1,3:07.0,19,21,PHI,ATL,18,home,LU,assist,2,make2,2,J. Grant,N. Stauskas
 80,1,2:55.0,19,21,PHI,ATL,12,away,JS,block,25,miss3,0,T. Hardaway,J. Grant
@@ -99,7 +99,7 @@
 97,1,1:09.0,23,25,PHI,ATL,0,away,FreeThrow,,,make1,0,M. Delaney,
 98,1,1:09.0,23,25,PHI,ATL,0,home,Sub,,,,,H. Thompson,R. Covington
 99,1,1:07.0,23,25,PHI,ATL,2,home,DefReb,,,DefReb,,J. Grant,
-100,1,1:00.0,23,25,PHI,ATL,7,home,LostBall,steal,,turnover,,R. Holmes,M. Delaney
+100,1,1:00.0,23,25,PHI,ATL,7,home,lost ball,steal,,turnover,,R. Holmes,M. Delaney
 101,1,0:56.0,23,27,PHI,ATL,4,away,DK,assist,0,make2,2,T. Hardaway,M. Delaney
 102,1,0:56.0,23,27,PHI,ATL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Stauskas,T. Hardaway
 103,1,0:56.0,23,27,PHI,ATL,0,away,FreeThrow,,,make1,0,T. Hardaway,
@@ -109,7 +109,7 @@
 107,1,0:35.0,23,27,PHI,ATL,15,home,D3SecTech,,,,,,
 108,1,0:35.0,23,27,PHI,ATL,0,home,FreeThrow,,,make1,0,T. McConnell misses technical free throw,
 109,1,0:35.0,23,27,PHI,ATL,0,home,OffReb,,,OffReb,,Team,
-110,1,0:34.0,23,27,PHI,ATL,1,home,BadPass,steal,,turnover,,T. McConnell,K. Humphries
+110,1,0:34.0,23,27,PHI,ATL,1,home,bad pass,steal,,turnover,,T. McConnell,K. Humphries
 111,1,0:29.0,23,29,PHI,ATL,5,away,DK,assist,0,make2,2,M. Muscala,K. Humphries
 112,1,0:09.0,23,29,PHI,ATL,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Delaney,J. Grant
 113,1,0:09.0,23,29,PHI,ATL,0,home,FreeThrow,,,make1,0,J. Grant,
@@ -141,7 +141,7 @@
 139,2,10:01.0,25,32,PHI,ATL,1,home,DefReb,,,DefReb,,J. Embiid,
 140,2,9:44.0,25,32,PHI,ATL,17,home,LU,,2,miss2,0,H. Thompson,
 141,2,9:42.0,25,32,PHI,ATL,2,away,DefReb,,,DefReb,,T. Sefolosha,
-142,2,9:31.0,25,32,PHI,ATL,11,away,BadPass,steal,,turnover,,P. Millsap,T. McConnell
+142,2,9:31.0,25,32,PHI,ATL,11,away,bad pass,steal,,turnover,,P. Millsap,T. McConnell
 143,2,9:22.0,25,32,PHI,ATL,9,away,ChargeFoul,DrawnBy,,ChargeFoul,,N. Stauskas,K. Bazemore
 144,2,9:22.0,25,32,PHI,ATL,0,home,OffensiveFoul,,,turnover,,N. Stauskas,
 145,2,9:04.0,25,32,PHI,ATL,18,away,JS,,18,miss2,0,K. Bazemore,
@@ -179,7 +179,7 @@
 177,2,6:29.0,32,38,PHI,ATL,2,away,Timeout,,,,,,
 178,2,6:20.0,32,38,PHI,ATL,9,home,KickBallViolation,,,KickBallViolation,,S. Rodríguez,
 179,2,6:14.0,32,38,PHI,ATL,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,H. Thompson,P. Millsap
-180,2,6:08.0,32,38,PHI,ATL,6,away,BadPass,steal,,turnover,,D. Schröder,S. Rodríguez
+180,2,6:08.0,32,38,PHI,ATL,6,away,bad pass,steal,,turnover,,D. Schröder,S. Rodríguez
 181,2,6:02.0,32,38,PHI,ATL,6,home,JS,block,7,miss2,0,J. Okafor,D. Howard
 182,2,5:58.0,32,38,PHI,ATL,4,home,OffReb,,,OffReb,,J. Okafor,
 183,2,5:48.0,32,38,PHI,ATL,10,home,JS,,21,miss2,0,D. Šarić,
@@ -189,7 +189,7 @@
 187,2,5:15.0,32,41,PHI,ATL,1,away,DefReb,,,DefReb,,K. Korver,
 188,2,5:08.0,32,41,PHI,ATL,7,away,JS,,24,miss3,0,D. Schröder,
 189,2,5:07.0,32,41,PHI,ATL,1,home,DefReb,,,DefReb,,J. Okafor,
-190,2,4:58.0,32,41,PHI,ATL,9,home,BadPass,steal,,turnover,,S. Rodríguez,K. Korver
+190,2,4:58.0,32,41,PHI,ATL,9,home,bad pass,steal,,turnover,,S. Rodríguez,K. Korver
 191,2,4:48.0,32,41,PHI,ATL,10,away,JS,,7,miss2,0,P. Millsap,
 192,2,4:46.0,32,41,PHI,ATL,2,home,DefReb,,,DefReb,,D. Šarić,
 193,2,4:32.0,32,41,PHI,ATL,14,home,JS,,13,miss2,0,J. Okafor,
@@ -207,7 +207,7 @@
 205,2,3:39.0,32,44,PHI,ATL,18,home,JS,block,4,miss2,0,N. Stauskas,M. Muscala
 206,2,3:39.0,32,44,PHI,ATL,0,home,OffReb,,,OffReb,,Team,
 207,2,3:39.0,32,44,PHI,ATL,0,away,Sub,,,,,T. Hardaway,K. Bazemore
-208,2,3:35.0,32,44,PHI,ATL,4,home,BadPass,steal,,turnover,,R. Covington,T. Hardaway
+208,2,3:35.0,32,44,PHI,ATL,4,home,bad pass,steal,,turnover,,R. Covington,T. Hardaway
 209,2,3:27.0,32,46,PHI,ATL,8,away,JS,assist,15,make2,2,M. Muscala,K. Korver
 210,2,3:09.0,32,46,PHI,ATL,18,home,JS,,5,miss2,0,D. Šarić,
 211,2,3:08.0,32,46,PHI,ATL,1,away,DefReb,,,DefReb,,M. Muscala,
@@ -261,9 +261,9 @@
 259,3,8:49.0,44,61,PHI,ATL,0,home,FreeThrow,,,make1,1,J. Embiid,
 260,3,8:39.0,44,63,PHI,ATL,10,away,LU,assist,2,make2,2,K. Bazemore,D. Schröder
 261,3,8:25.0,44,63,PHI,ATL,14,home,Traveling,,,turnover,,R. Covington,
-262,3,8:09.0,44,63,PHI,ATL,16,away,BadPass,steal,,turnover,,K. Bazemore,G. Henderson
-263,3,8:02.0,44,63,PHI,ATL,7,home,LostBall,steal,,turnover,,R. Covington,K. Korver
-264,3,7:53.0,44,63,PHI,ATL,9,away,BadPass,steal,,turnover,,K. Korver,J. Embiid
+262,3,8:09.0,44,63,PHI,ATL,16,away,bad pass,steal,,turnover,,K. Bazemore,G. Henderson
+263,3,8:02.0,44,63,PHI,ATL,7,home,lost ball,steal,,turnover,,R. Covington,K. Korver
+264,3,7:53.0,44,63,PHI,ATL,9,away,bad pass,steal,,turnover,,K. Korver,J. Embiid
 265,3,7:39.0,44,63,PHI,ATL,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Howard,J. Embiid
 266,3,7:39.0,44,63,PHI,ATL,0,away,Sub,,,,,M. Muscala,D. Howard
 267,3,7:39.0,44,63,PHI,ATL,0,home,Sub,,,,,N. Stauskas,R. Covington
@@ -271,7 +271,7 @@
 269,3,7:20.0,46,63,PHI,ATL,10,home,KickBallViolation,,,KickBallViolation,,D. Šarić,
 270,3,7:20.0,46,63,PHI,ATL,0,home,Sub,,,,,J. Grant,D. Šarić
 271,3,7:08.0,46,65,PHI,ATL,12,away,JS,,15,make2,2,K. Bazemore,
-272,3,6:54.0,46,65,PHI,ATL,14,home,LostBall,steal,,turnover,,J. Embiid,P. Millsap
+272,3,6:54.0,46,65,PHI,ATL,14,home,lost ball,steal,,turnover,,J. Embiid,P. Millsap
 273,3,6:45.0,46,65,PHI,ATL,9,away,JS,,25,miss3,0,P. Millsap,
 274,3,6:43.0,46,65,PHI,ATL,2,home,DefReb,,,DefReb,,N. Stauskas,
 275,3,6:29.0,46,65,PHI,ATL,14,home,LU,,1,miss2,0,J. Embiid,
@@ -296,7 +296,7 @@
 294,3,5:21.0,50,66,PHI,ATL,16,home,JS,,12,miss2,0,J. Okafor,
 295,3,5:19.0,50,66,PHI,ATL,2,away,DefReb,,,DefReb,,P. Millsap,
 296,3,5:11.0,50,66,PHI,ATL,8,away,Sub,,,,,M. Muscala,P. Millsap
-297,3,5:07.0,50,66,PHI,ATL,4,away,BadPass,steal,,turnover,,K. Korver,J. Okafor
+297,3,5:07.0,50,66,PHI,ATL,4,away,bad pass,steal,,turnover,,K. Korver,J. Okafor
 298,3,5:01.0,50,66,PHI,ATL,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Bazemore,T. McConnell
 299,3,5:01.0,51,66,PHI,ATL,0,home,FreeThrow,,,make1,1,T. McConnell,
 300,3,5:01.0,50,66,PHI,ATL,0,away,Sub,,,,,T. Hardaway,K. Korver
@@ -383,7 +383,7 @@
 381,4,7:04.0,68,88,PHI,ATL,20,away,LU,assist,2,make2,2,T. Sefolosha,D. Howard
 382,4,6:54.0,68,88,PHI,ATL,10,away,Sub,,,,,D. Schröder,M. Delaney
 383,4,6:54.0,68,88,PHI,ATL,0,home,Sub,,,,,R. Covington,N. Stauskas
-384,4,6:45.0,68,88,PHI,ATL,9,home,BadPass,steal,,turnover,,S. Rodríguez,M. Muscala
+384,4,6:45.0,68,88,PHI,ATL,9,home,bad pass,steal,,turnover,,S. Rodríguez,M. Muscala
 385,4,6:41.0,68,90,PHI,ATL,4,away,LU,assist,1,make2,2,T. Sefolosha,D. Schröder
 386,4,6:23.0,68,90,PHI,ATL,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Muscala,D. Šarić
 387,4,6:23.0,68,90,PHI,ATL,0,away,Sub,,,,,K. Humphries,M. Muscala
@@ -401,7 +401,7 @@
 399,4,5:45.0,68,92,PHI,ATL,0,away,Sub,,,,,M. Delaney,D. Howard
 400,4,5:45.0,68,92,PHI,ATL,0,away,Sub,,,,,T. Prince,D. Schröder
 401,4,5:45.0,68,94,PHI,ATL,0,away,FreeThrow,,,make1,1,T. Sefolosha,
-402,4,5:33.0,68,94,PHI,ATL,12,home,BadPass,steal,,turnover,,T. Luwawu-Cabarrot,T. Sefolosha
+402,4,5:33.0,68,94,PHI,ATL,12,home,bad pass,steal,,turnover,,T. Luwawu-Cabarrot,T. Sefolosha
 403,4,5:22.0,68,94,PHI,ATL,11,away,JS,,25,miss3,0,D. Bembry,
 404,4,5:20.0,68,94,PHI,ATL,2,home,DefReb,,,DefReb,,R. Holmes,
 405,4,5:12.0,68,94,PHI,ATL,8,home,BadPass,,,turnover,,S. Rodríguez,
@@ -429,7 +429,7 @@
 427,4,2:09.0,70,98,PHI,ATL,2,home,OffReb,,,OffReb,,R. Holmes,
 428,4,2:05.0,70,98,PHI,ATL,4,home,JS,,15,miss2,0,R. Holmes,
 429,4,2:03.0,70,98,PHI,ATL,2,away,DefReb,,,DefReb,,K. Humphries,
-430,4,1:53.0,70,98,PHI,ATL,10,away,BadPass,steal,,turnover,,K. Humphries,T. Luwawu-Cabarrot
+430,4,1:53.0,70,98,PHI,ATL,10,away,bad pass,steal,,turnover,,K. Humphries,T. Luwawu-Cabarrot
 431,4,1:42.0,70,98,PHI,ATL,11,home,LU,block,1,miss2,0,J. Grant,K. Humphries
 432,4,1:40.0,70,98,PHI,ATL,2,away,DefReb,,,DefReb,,M. Delaney,
 433,4,1:38.0,70,98,PHI,ATL,2,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Holmes,T. Prince

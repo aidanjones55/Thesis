@@ -64,8 +64,8 @@ def date_formatter(date:str):
     return '{}-{}-{}'.format(year,month,day)
 
 years = [2017]
-#months = ['october', 'november', 'december', 'january', 'february', 'march', 'april']
-months = ['april']
+months = ['october', 'november', 'december', 'january', 'february', 'march', 'april']
+#months = ['april']
 
 for year in years:
     schedule = pd.DataFrame(columns=['Date', 'Away Team', 'Home Team'])

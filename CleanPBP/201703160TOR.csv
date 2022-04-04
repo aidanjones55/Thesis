@@ -1,9 +1,9 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:39.0,0,0,TOR,OKC,21,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Joseph,S. Adams
-1,1,11:32.0,0,0,TOR,OKC,7,away,BadPass,steal,,turnover,,R. Westbrook,D. Carroll
+1,1,11:32.0,0,0,TOR,OKC,7,away,bad pass,steal,,turnover,,R. Westbrook,D. Carroll
 2,1,11:11.0,0,0,TOR,OKC,21,home,BadPass,,,turnover,,D. Carroll,
 3,1,10:51.0,0,2,TOR,OKC,20,away,HS,,5,make2,2,S. Adams,
-4,1,10:40.0,0,2,TOR,OKC,11,home,LostBall,steal,,turnover,,J. Valančiūnas,S. Adams
+4,1,10:40.0,0,2,TOR,OKC,11,home,lost ball,steal,,turnover,,J. Valančiūnas,S. Adams
 5,1,10:29.0,0,2,TOR,OKC,11,away,JS,block,2,miss2,0,S. Adams,J. Valančiūnas
 6,1,10:26.0,0,2,TOR,OKC,3,home,DefReb,,,DefReb,,C. Joseph,
 7,1,10:13.0,0,2,TOR,OKC,13,home,JS,,27,miss3,0,S. Ibaka,
@@ -32,13 +32,13 @@
 30,1,7:45.0,5,8,TOR,OKC,11,away,JS,,16,miss2,0,T. Gibson,
 31,1,7:45.0,5,8,TOR,OKC,0,away,OffReb,,,OffReb,,Team,
 32,1,7:45.0,5,8,TOR,OKC,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Valančiūnas,S. Adams
-33,1,7:39.0,5,8,TOR,OKC,6,away,LostBall,steal,,turnover,,V. Oladipo,C. Joseph
+33,1,7:39.0,5,8,TOR,OKC,6,away,lost ball,steal,,turnover,,V. Oladipo,C. Joseph
 34,1,7:31.0,7,8,TOR,OKC,8,home,LU,assist,2,make2,2,D. Carroll,C. Joseph
 35,1,7:17.0,7,8,TOR,OKC,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Ibaka,T. Gibson
 36,1,7:17.0,7,8,TOR,OKC,0,away,FreeThrow,,,make1,0,T. Gibson,
 37,1,7:17.0,7,8,TOR,OKC,0,away,OffReb,,,OffReb,,Team,
 38,1,7:17.0,7,9,TOR,OKC,0,away,FreeThrow,,,make1,1,T. Gibson,
-39,1,6:54.0,7,9,TOR,OKC,23,home,LostBall,steal,,turnover,,C. Joseph,T. Gibson
+39,1,6:54.0,7,9,TOR,OKC,23,home,lost ball,steal,,turnover,,C. Joseph,T. Gibson
 40,1,6:49.0,7,11,TOR,OKC,5,away,LU,assist,1,make2,2,V. Oladipo,R. Westbrook
 41,1,6:41.0,7,11,TOR,OKC,8,home,Timeout,,,,,,
 42,1,6:29.0,7,11,TOR,OKC,12,home,JS,,14,miss2,0,J. Valančiūnas,
@@ -113,7 +113,7 @@
 111,2,11:43.0,24,29,TOR,OKC,0,away,DefReb,,,DefReb,,D. Sabonis,
 112,2,11:30.0,24,29,TOR,OKC,13,away,JS,,17,miss2,0,V. Oladipo,
 113,2,11:29.0,24,29,TOR,OKC,1,home,DefReb,,,DefReb,,D. Wright,
-114,2,11:21.0,24,29,TOR,OKC,8,home,BadPass,steal,,turnover,,D. Wright,Á. Abrines
+114,2,11:21.0,24,29,TOR,OKC,8,home,bad pass,steal,,turnover,,D. Wright,Á. Abrines
 115,2,11:13.0,24,29,TOR,OKC,8,away,LU,,3,miss2,0,V. Oladipo,
 116,2,11:12.0,24,29,TOR,OKC,1,away,OffReb,,,OffReb,,V. Oladipo,
 117,2,11:03.0,24,29,TOR,OKC,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Poeltl,E. Freedom
@@ -132,7 +132,7 @@
 130,2,9:54.0,28,34,TOR,OKC,1,home,DefReb,,,DefReb,,P. Tucker,
 131,2,9:48.0,28,34,TOR,OKC,6,home,LU,,1,miss2,0,N. Powell,
 132,2,9:47.0,28,34,TOR,OKC,1,away,DefReb,,,DefReb,,D. Sabonis,
-133,2,9:42.0,28,34,TOR,OKC,5,away,BadPass,steal,,turnover,,S. Christon,P. Patterson
+133,2,9:42.0,28,34,TOR,OKC,5,away,bad pass,steal,,turnover,,S. Christon,P. Patterson
 134,2,9:35.0,28,34,TOR,OKC,7,home,JS,,26,miss3,0,N. Powell,
 135,2,9:35.0,28,34,TOR,OKC,0,away,DefReb,,,DefReb,,V. Oladipo,
 136,2,9:29.0,28,34,TOR,OKC,6,away,Timeout,,,,,,
@@ -175,11 +175,11 @@
 173,2,7:09.0,34,38,TOR,OKC,0,away,Sub,,,,,S. Adams,E. Freedom
 174,2,7:09.0,34,38,TOR,OKC,0,home,Sub,,,,,C. Joseph,P. Tucker
 175,2,7:09.0,34,38,TOR,OKC,0,home,Sub,,,,,J. Valančiūnas,D. Wright
-176,2,6:57.0,34,38,TOR,OKC,12,away,BadPass,steal,,turnover,,J. Grant,C. Joseph
+176,2,6:57.0,34,38,TOR,OKC,12,away,bad pass,steal,,turnover,,J. Grant,C. Joseph
 177,2,6:46.0,36,38,TOR,OKC,11,home,JS,assist,15,make2,2,J. Valančiūnas,C. Joseph
 178,2,6:33.0,36,38,TOR,OKC,13,away,JS,,18,miss2,0,R. Westbrook,
 179,2,6:32.0,36,38,TOR,OKC,1,home,DefReb,,,DefReb,,D. DeRozan,
-180,2,6:23.0,36,38,TOR,OKC,9,home,BadPass,steal,,turnover,,S. Ibaka,A. Roberson
+180,2,6:23.0,36,38,TOR,OKC,9,home,bad pass,steal,,turnover,,S. Ibaka,A. Roberson
 181,2,6:10.0,36,38,TOR,OKC,13,away,JS,,17,miss2,0,R. Westbrook,
 182,2,6:10.0,36,38,TOR,OKC,0,home,DefReb,,,DefReb,,N. Powell,
 183,2,5:59.0,36,38,TOR,OKC,11,home,JS,,14,miss2,0,D. DeRozan,
@@ -204,12 +204,12 @@
 202,2,3:03.0,42,52,TOR,OKC,5,away,BadPass,,,turnover,,R. Westbrook,
 203,2,3:03.0,42,52,TOR,OKC,0,away,Sub,,,,,V. Oladipo,D. McDermott
 204,2,3:03.0,42,52,TOR,OKC,0,home,Sub,,,,,D. Carroll,N. Powell
-205,2,2:54.0,42,52,TOR,OKC,9,home,BadPass,steal,,turnover,,S. Ibaka,A. Roberson
+205,2,2:54.0,42,52,TOR,OKC,9,home,bad pass,steal,,turnover,,S. Ibaka,A. Roberson
 206,2,2:51.0,42,52,TOR,OKC,3,away,Timeout,,,,,,
 207,2,2:45.0,42,52,TOR,OKC,6,away,LU,block,1,miss2,0,S. Adams,J. Valančiūnas
 208,2,2:44.0,42,52,TOR,OKC,1,away,OffReb,,,OffReb,,V. Oladipo,
 209,2,2:37.0,42,54,TOR,OKC,7,away,JS,,18,make2,2,R. Westbrook,
-210,2,2:13.0,42,54,TOR,OKC,24,home,BadPass,steal,,turnover,,C. Joseph,R. Westbrook
+210,2,2:13.0,42,54,TOR,OKC,24,home,bad pass,steal,,turnover,,C. Joseph,R. Westbrook
 211,2,2:08.0,42,56,TOR,OKC,5,away,LU,assist,2,make2,2,V. Oladipo,R. Westbrook
 212,2,1:49.0,44,56,TOR,OKC,19,home,LU,,4,make2,2,C. Joseph,
 213,2,1:37.0,44,58,TOR,OKC,12,away,LU,assist,3,make2,2,V. Oladipo,R. Westbrook
@@ -245,7 +245,7 @@
 243,3,10:58.0,52,63,TOR,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
 244,3,10:44.0,54,63,TOR,OKC,14,home,JS,,10,make2,2,C. Joseph,
 245,3,10:19.0,54,66,TOR,OKC,25,away,JS,assist,28,make3,3,R. Westbrook,S. Adams
-246,3,10:06.0,54,66,TOR,OKC,13,home,BadPass,steal,,turnover,,D. DeRozan,T. Gibson
+246,3,10:06.0,54,66,TOR,OKC,13,home,bad pass,steal,,turnover,,D. DeRozan,T. Gibson
 247,3,10:00.0,54,66,TOR,OKC,6,away,LU,,2,miss2,0,T. Gibson,
 248,3,9:58.0,54,66,TOR,OKC,2,away,OffReb,,,OffReb,,A. Roberson,
 249,3,9:57.0,54,68,TOR,OKC,1,away,LU,,2,make2,2,A. Roberson,
@@ -347,12 +347,12 @@
 345,4,11:38.0,72,97,TOR,OKC,8,home,LU,,2,make2,2,D. Wright,
 346,4,11:25.0,72,99,TOR,OKC,13,away,JS,,7,make2,2,V. Oladipo,
 347,4,11:03.0,75,99,TOR,OKC,22,home,JS,assist,24,make3,3,P. Tucker,F. VanVleet
-348,4,10:45.0,75,99,TOR,OKC,18,away,BadPass,steal,,turnover,,Á. Abrines,P. Patterson
+348,4,10:45.0,75,99,TOR,OKC,18,away,bad pass,steal,,turnover,,Á. Abrines,P. Patterson
 349,4,10:44.0,75,99,TOR,OKC,1,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,Á. Abrines,D. Wright
-350,4,10:22.0,75,99,TOR,OKC,22,home,BadPass,steal,,turnover,,P. Tucker,E. Freedom
+350,4,10:22.0,75,99,TOR,OKC,22,home,bad pass,steal,,turnover,,P. Tucker,E. Freedom
 351,4,10:17.0,75,99,TOR,OKC,5,away,LU,block,5,miss2,0,V. Oladipo,F. VanVleet
 352,4,10:17.0,75,99,TOR,OKC,0,away,OffReb,,,OffReb,,Team,
-353,4,10:11.0,75,99,TOR,OKC,6,away,BadPass,steal,,turnover,,E. Freedom,F. VanVleet
+353,4,10:11.0,75,99,TOR,OKC,6,away,bad pass,steal,,turnover,,E. Freedom,F. VanVleet
 354,4,10:06.0,75,99,TOR,OKC,5,home,LU,,2,miss2,0,F. VanVleet,
 355,4,10:06.0,75,99,TOR,OKC,0,away,DefReb,,,DefReb,,D. Sabonis,
 356,4,10:06.0,75,99,TOR,OKC,0,away,Timeout,,,,,,
@@ -370,7 +370,7 @@
 368,4,8:32.0,75,105,TOR,OKC,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Sabonis,P. Patterson
 369,4,8:32.0,76,105,TOR,OKC,0,home,FreeThrow,,,make1,1,P. Patterson,
 370,4,8:32.0,77,105,TOR,OKC,0,home,FreeThrow,,,make1,1,P. Patterson,
-371,4,8:16.0,77,105,TOR,OKC,16,away,BadPass,steal,,turnover,,D. McDermott,D. Wright
+371,4,8:16.0,77,105,TOR,OKC,16,away,bad pass,steal,,turnover,,D. McDermott,D. Wright
 372,4,8:02.0,77,105,TOR,OKC,14,home,HS,,6,miss2,0,F. VanVleet,
 373,4,8:02.0,77,105,TOR,OKC,0,away,DefReb,,,DefReb,,D. Sabonis,
 374,4,7:50.0,77,105,TOR,OKC,12,away,3sec,,,turnover,,E. Freedom,
@@ -379,13 +379,13 @@
 377,4,7:17.0,77,105,TOR,OKC,21,away,HS,,4,miss2,0,E. Freedom,
 378,4,7:16.0,77,105,TOR,OKC,1,away,OffReb,,,OffReb,,E. Freedom,
 379,4,7:15.0,77,107,TOR,OKC,1,away,LU,,1,make2,2,E. Freedom,
-380,4,7:00.0,77,107,TOR,OKC,15,home,LostBall,steal,,turnover,,P. Patterson,S. Christon
+380,4,7:00.0,77,107,TOR,OKC,15,home,lost ball,steal,,turnover,,P. Patterson,S. Christon
 381,4,6:59.0,77,107,TOR,OKC,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Patterson,E. Freedom
 382,4,6:46.0,77,107,TOR,OKC,13,away,HS,,0,miss2,0,D. Sabonis,
 383,4,6:45.0,77,107,TOR,OKC,1,home,DefReb,,,DefReb,,P. Patterson,
 384,4,6:37.0,77,107,TOR,OKC,8,home,JS,,24,miss3,0,P. Tucker,
 385,4,6:37.0,77,107,TOR,OKC,0,away,DefReb,,,DefReb,,S. Christon,
-386,4,6:18.0,77,107,TOR,OKC,19,away,BadPass,steal,,turnover,,E. Freedom,D. Wright
+386,4,6:18.0,77,107,TOR,OKC,19,away,bad pass,steal,,turnover,,E. Freedom,D. Wright
 387,4,6:12.0,77,107,TOR,OKC,6,home,LU,,2,miss2,0,P. Tucker,
 388,4,6:10.0,77,107,TOR,OKC,2,away,DefReb,,,DefReb,,D. Sabonis,
 389,4,6:04.0,77,107,TOR,OKC,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Wright,E. Freedom
@@ -425,15 +425,15 @@
 423,4,2:45.0,91,114,TOR,OKC,0,home,Timeout,,,,,,
 424,4,2:45.0,91,114,TOR,OKC,0,away,Sub,,,,,N. Cole,D. McDermott
 425,4,2:39.0,91,114,TOR,OKC,6,away,BadPass,,,turnover,,J. Grant,
-426,4,2:24.0,91,114,TOR,OKC,15,home,BadPass,steal,,turnover,,F. VanVleet,Á. Abrines
+426,4,2:24.0,91,114,TOR,OKC,15,home,bad pass,steal,,turnover,,F. VanVleet,Á. Abrines
 427,4,2:08.0,91,116,TOR,OKC,16,away,JS,assist,20,make2,2,D. Sabonis,Á. Abrines
 428,4,1:57.0,91,116,TOR,OKC,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Sabonis,D. Wright
 429,4,1:57.0,92,116,TOR,OKC,0,home,FreeThrow,,,make1,1,D. Wright,
 430,4,1:57.0,91,116,TOR,OKC,0,away,Sub,,,,,D. McDermott,D. Sabonis
 431,4,1:57.0,93,116,TOR,OKC,0,home,FreeThrow,,,make1,1,D. Wright,
-432,4,1:44.0,93,116,TOR,OKC,13,away,BadPass,steal,,turnover,,N. Cole,F. VanVleet
+432,4,1:44.0,93,116,TOR,OKC,13,away,bad pass,steal,,turnover,,N. Cole,F. VanVleet
 433,4,1:33.0,95,116,TOR,OKC,11,home,HS,,5,make2,2,P. Siakam,
-434,4,1:24.0,95,116,TOR,OKC,9,away,BadPass,steal,,turnover,,N. Cole,L. Nogueira
+434,4,1:24.0,95,116,TOR,OKC,9,away,bad pass,steal,,turnover,,N. Cole,L. Nogueira
 435,4,1:21.0,97,116,TOR,OKC,3,home,LU,,3,make2,2,F. VanVleet,
 436,4,1:06.0,97,116,TOR,OKC,15,away,LU,block,2,miss2,0,N. Cole,L. Nogueira
 437,4,1:06.0,97,116,TOR,OKC,0,away,OffReb,,,OffReb,,Team,

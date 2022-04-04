@@ -15,7 +15,7 @@
 13,1,10:24.0,0,4,POR,CHO,1,home,DefReb,,,DefReb,,N. Vonleh,
 14,1,10:15.0,0,4,POR,CHO,9,home,JS,,3,miss2,0,N. Vonleh,
 15,1,10:13.0,0,4,POR,CHO,2,away,DefReb,,,DefReb,,K. Walker,
-16,1,10:08.0,0,4,POR,CHO,5,away,BadPass,steal,,turnover,,N. Batum,C. McCollum
+16,1,10:08.0,0,4,POR,CHO,5,away,bad pass,steal,,turnover,,N. Batum,C. McCollum
 17,1,10:02.0,0,4,POR,CHO,6,home,JS,,23,miss3,0,E. Turner,
 18,1,10:00.0,0,4,POR,CHO,2,away,DefReb,,,DefReb,,R. Hibbert,
 19,1,9:48.0,0,4,POR,CHO,12,away,JS,,20,miss2,0,R. Hibbert,
@@ -176,8 +176,8 @@
 174,2,6:22.0,44,34,POR,CHO,0,away,FreeThrow,,,make1,1,K. Walker makes technical free throw,
 175,2,6:05.0,44,34,POR,CHO,17,home,JS,,25,miss3,0,E. Turner,
 176,2,6:05.0,44,34,POR,CHO,0,away,DefReb,,,DefReb,,M. Williams,
-177,2,5:56.0,44,34,POR,CHO,9,away,LostBall,steal,,turnover,,K. Walker,M. Plumlee
-178,2,5:49.0,44,34,POR,CHO,7,home,BadPass,steal,,turnover,,M. Plumlee,K. Walker
+177,2,5:56.0,44,34,POR,CHO,9,away,lost ball,steal,,turnover,,K. Walker,M. Plumlee
+178,2,5:49.0,44,34,POR,CHO,7,home,bad pass,steal,,turnover,,M. Plumlee,K. Walker
 179,2,5:39.0,44,36,POR,CHO,10,away,DK,assist,0,make2,2,M. Williams,N. Batum
 180,2,5:15.0,46,36,POR,CHO,24,home,JS,assist,13,make2,2,E. Turner,M. Plumlee
 181,2,4:59.0,46,36,POR,CHO,16,away,LU,,2,miss2,0,K. Walker,
@@ -228,8 +228,8 @@
 226,3,10:31.0,60,50,POR,CHO,0,away,DefReb,,,DefReb,,N. Batum,
 227,3,10:15.0,60,50,POR,CHO,16,away,JS,,19,miss2,0,K. Walker,
 228,3,10:15.0,60,50,POR,CHO,0,home,DefReb,,,DefReb,,N. Vonleh,
-229,3,10:07.0,60,50,POR,CHO,8,home,BadPass,steal,,turnover,,M. Plumlee,K. Walker
-230,3,10:00.0,60,50,POR,CHO,7,away,LostBall,steal,,turnover,,N. Batum,D. Lillard
+229,3,10:07.0,60,50,POR,CHO,8,home,bad pass,steal,,turnover,,M. Plumlee,K. Walker
+230,3,10:00.0,60,50,POR,CHO,7,away,lost ball,steal,,turnover,,N. Batum,D. Lillard
 231,3,9:52.0,60,50,POR,CHO,8,home,JS,,28,miss3,0,D. Lillard,
 232,3,9:52.0,60,50,POR,CHO,0,away,DefReb,,,DefReb,,R. Hibbert,
 233,3,9:41.0,60,52,POR,CHO,11,away,JS,,18,make2,2,K. Walker,
@@ -257,11 +257,11 @@
 255,3,7:09.0,65,52,POR,CHO,11,home,JS,,15,make2,2,C. McCollum,
 256,3,7:09.0,65,52,POR,CHO,0,away,Timeout,,,,,,
 257,3,7:09.0,65,52,POR,CHO,0,away,Sub,,,,,F. Kaminsky,R. Hibbert
-258,3,6:54.0,65,52,POR,CHO,15,away,LostBall,steal,,turnover,,N. Batum,E. Turner
+258,3,6:54.0,65,52,POR,CHO,15,away,lost ball,steal,,turnover,,N. Batum,E. Turner
 259,3,6:54.0,65,52,POR,CHO,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,F. Kaminsky,C. McCollum
 260,3,6:47.0,65,52,POR,CHO,7,home,OffensiveFoul,,,turnover,,N. Vonleh,
 261,3,6:47.0,65,52,POR,CHO,0,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,N. Vonleh,K. Walker
-262,3,6:33.0,65,52,POR,CHO,14,away,LostBall,steal,,turnover,,K. Walker,M. Plumlee
+262,3,6:33.0,65,52,POR,CHO,14,away,lost ball,steal,,turnover,,K. Walker,M. Plumlee
 263,3,6:26.0,65,52,POR,CHO,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Williams,M. Plumlee
 264,3,6:26.0,66,52,POR,CHO,0,home,FreeThrow,,,make1,1,M. Plumlee,
 265,3,6:26.0,67,52,POR,CHO,0,home,FreeThrow,,,make1,1,M. Plumlee,
@@ -330,7 +330,7 @@
 328,3,0:02.0,86,68,POR,CHO,24,away,JS,,26,miss3,0,M. Williams,
 329,3,0:02.0,86,68,POR,CHO,0,away,OffReb,,,OffReb,,Team,
 330,3,0:02.0,86,68,POR,CHO,0,away,ShotClockViolation,,,turnover,,Team,
-331,3,0:01.0,86,68,POR,CHO,1,home,LostBall,steal,,turnover,,A. Aminu,F. Kaminsky
+331,3,0:01.0,86,68,POR,CHO,1,home,lost ball,steal,,turnover,,A. Aminu,F. Kaminsky
 332,3,0:00.0,86,68,POR,CHO,1,away,JS,,51,miss3,0,F. Kaminsky,
 333,3,0:00.0,86,68,POR,CHO,0,away,OffReb,,,OffReb,,Team,
 334,4,11:48.0,86,70,POR,CHO,12,away,JS,assist,10,make2,2,F. Kaminsky,N. Batum
@@ -339,16 +339,16 @@
 337,4,11:11.0,88,70,POR,CHO,1,home,DefReb,,,DefReb,,M. Leonard,
 338,4,11:01.0,88,70,POR,CHO,10,home,JS,,12,miss2,0,C. McCollum,
 339,4,11:01.0,88,70,POR,CHO,0,away,DefReb,,,DefReb,,N. Batum,
-340,4,10:52.0,88,70,POR,CHO,9,away,BadPass,steal,,turnover,,N. Batum,C. McCollum
+340,4,10:52.0,88,70,POR,CHO,9,away,bad pass,steal,,turnover,,N. Batum,C. McCollum
 341,4,10:48.0,90,70,POR,CHO,4,home,DK,,0,make2,2,C. McCollum,
 342,4,10:30.0,90,72,POR,CHO,18,away,JS,,14,make2,2,F. Kaminsky,
 343,4,10:15.0,90,72,POR,CHO,15,home,LU,,3,miss2,0,M. Leonard,
 344,4,10:11.0,90,72,POR,CHO,4,home,OffReb,,,OffReb,,M. Harkless,
 345,4,10:11.0,90,72,POR,CHO,0,home,LU,,1,miss2,0,M. Harkless,
 346,4,10:10.0,90,72,POR,CHO,1,away,DefReb,,,DefReb,,N. Batum,
-347,4,10:05.0,90,72,POR,CHO,5,away,LostBall,steal,,turnover,,R. Sessions,A. Aminu
+347,4,10:05.0,90,72,POR,CHO,5,away,lost ball,steal,,turnover,,R. Sessions,A. Aminu
 348,4,10:01.0,92,72,POR,CHO,4,home,LU,assist,1,make2,2,A. Crabbe,A. Aminu
-349,4,9:42.0,92,72,POR,CHO,19,away,LostBall,steal,,turnover,,R. Sessions,C. McCollum
+349,4,9:42.0,92,72,POR,CHO,19,away,lost ball,steal,,turnover,,R. Sessions,C. McCollum
 350,4,9:38.0,94,72,POR,CHO,4,home,DK,assist,0,make2,2,M. Harkless,C. McCollum
 351,4,9:37.0,94,72,POR,CHO,1,away,Timeout,,,,,,
 352,4,9:26.0,94,72,POR,CHO,11,away,HS,,4,miss2,0,M. Belinelli,

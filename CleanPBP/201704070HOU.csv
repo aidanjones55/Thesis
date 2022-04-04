@@ -73,7 +73,7 @@
 71,1,4:10.0,19,12,HOU,DET,24,home,JS,,18,miss2,0,M. Harrell,
 72,1,4:10.0,19,12,HOU,DET,0,home,OffReb,,,OffReb,,Team,
 73,1,4:10.0,19,12,HOU,DET,0,home,ShotClockViolation,,,turnover,,Team,
-74,1,4:00.0,19,12,HOU,DET,10,away,BadPass,steal,,turnover,,K. Caldwell-Pope,T. Ariza
+74,1,4:00.0,19,12,HOU,DET,10,away,bad pass,steal,,turnover,,K. Caldwell-Pope,T. Ariza
 75,1,3:57.0,19,12,HOU,DET,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Caldwell-Pope,T. Ariza
 76,1,3:57.0,20,12,HOU,DET,0,home,FreeThrow,,,make1,1,T. Ariza,
 77,1,3:57.0,21,12,HOU,DET,0,home,FreeThrow,,,make1,1,T. Ariza,
@@ -97,7 +97,7 @@
 95,1,1:53.0,27,20,HOU,DET,9,away,JS,assist,3,make2,2,B. Marjanović,B. Udrih
 96,1,1:41.0,30,20,HOU,DET,12,home,JS,assist,24,make3,3,L. Williams,J. Harden
 97,1,1:19.0,30,22,HOU,DET,22,away,JS,,10,make2,2,B. Marjanović,
-98,1,1:09.0,30,22,HOU,DET,10,home,BadPass,steal,,turnover,,E. Gordon,B. Udrih
+98,1,1:09.0,30,22,HOU,DET,10,home,bad pass,steal,,turnover,,E. Gordon,B. Udrih
 99,1,0:59.0,30,24,HOU,DET,10,away,HS,assist,8,make2,2,B. Marjanović,K. Caldwell-Pope
 100,1,0:44.0,30,24,HOU,DET,15,home,LostBall,,,turnover,,M. Harrell,
 101,1,0:34.0,30,24,HOU,DET,10,away,JS,,14,miss2,0,B. Marjanović,
@@ -232,7 +232,7 @@
 230,3,10:42.0,57,54,HOU,DET,1,away,DefReb,,,DefReb,,A. Drummond,
 231,3,10:37.0,57,54,HOU,DET,5,away,JS,,21,miss2,0,K. Caldwell-Pope,
 232,3,10:34.0,57,54,HOU,DET,3,away,OffReb,,,OffReb,,H. Ellenson,
-233,3,10:32.0,57,54,HOU,DET,2,away,BadPass,steal,,turnover,,H. Ellenson,T. Williams
+233,3,10:32.0,57,54,HOU,DET,2,away,bad pass,steal,,turnover,,H. Ellenson,T. Williams
 234,3,10:22.0,57,54,HOU,DET,10,home,JS,,24,miss3,0,T. Ariza,
 235,3,10:21.0,57,54,HOU,DET,1,home,OffReb,,,OffReb,,P. Beverley,
 236,3,10:05.0,57,54,HOU,DET,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,H. Ellenson,M. Harrell
@@ -254,7 +254,7 @@
 252,3,8:26.0,63,58,HOU,DET,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Harrell,A. Drummond
 253,3,8:14.0,63,61,HOU,DET,12,away,JS,assist,25,make3,3,H. Ellenson,I. Smith
 254,3,8:13.0,63,61,HOU,DET,1,away,JumpBallViolation,,,JumpBallViolation,,Team,
-255,3,7:53.0,63,61,HOU,DET,20,home,LostBall,steal,,turnover,,T. Ariza,K. Caldwell-Pope
+255,3,7:53.0,63,61,HOU,DET,20,home,lost ball,steal,,turnover,,T. Ariza,K. Caldwell-Pope
 256,3,7:43.0,63,61,HOU,DET,10,away,JS,,26,miss3,0,K. Caldwell-Pope,
 257,3,7:42.0,63,61,HOU,DET,1,home,DefReb,,,DefReb,,P. Beverley,
 258,3,7:36.0,63,61,HOU,DET,6,home,JS,,25,miss3,0,T. Ariza,
@@ -333,7 +333,7 @@
 331,3,1:21.0,81,73,HOU,DET,14,away,JS,,6,miss2,0,T. Harris,
 332,3,1:20.0,81,73,HOU,DET,1,home,DefReb,,,DefReb,,J. Harden,
 333,3,1:14.0,83,73,HOU,DET,6,home,LU,assist,2,make2,2,T. Williams,J. Harden
-334,3,1:01.0,83,73,HOU,DET,13,away,BadPass,steal,,turnover,,B. Udrih,C. Onuaku
+334,3,1:01.0,83,73,HOU,DET,13,away,bad pass,steal,,turnover,,B. Udrih,C. Onuaku
 335,3,1:01.0,83,73,HOU,DET,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Udrih,L. Williams
 336,3,1:01.0,84,73,HOU,DET,0,home,FreeThrow,,,make1,1,L. Williams,
 337,3,1:01.0,84,73,HOU,DET,0,away,Sub,,,,,R. Bullock,K. Caldwell-Pope
@@ -343,14 +343,14 @@
 341,3,0:39.0,85,73,HOU,DET,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Harden,T. Harris
 342,3,0:39.0,85,74,HOU,DET,0,away,FreeThrow,,,make1,1,T. Harris,
 343,3,0:39.0,85,75,HOU,DET,0,away,FreeThrow,,,make1,1,T. Harris,
-344,3,0:27.0,85,75,HOU,DET,12,home,BadPass,steal,,turnover,,C. Onuaku,T. Harris
+344,3,0:27.0,85,75,HOU,DET,12,home,bad pass,steal,,turnover,,C. Onuaku,T. Harris
 345,3,0:08.0,85,75,HOU,DET,19,away,JS,,20,miss2,0,B. Udrih,
 346,3,0:08.0,85,75,HOU,DET,0,home,DefReb,,,DefReb,,Team,
 347,3,0:01.0,87,75,HOU,DET,7,home,LU,,2,make2,2,J. Harden,
 348,4,11:47.0,87,75,HOU,DET,13,home,D3SecTech,,,,,,
 349,4,11:47.0,87,75,HOU,DET,0,home,FreeThrow,,,make1,0,P. Beverley misses technical free throw,
 350,4,11:47.0,87,75,HOU,DET,0,home,OffReb,,,OffReb,,Team,
-351,4,11:45.0,87,75,HOU,DET,2,home,BadPass,steal,,turnover,,E. Gordon,A. Drummond
+351,4,11:45.0,87,75,HOU,DET,2,home,bad pass,steal,,turnover,,E. Gordon,A. Drummond
 352,4,11:38.0,87,75,HOU,DET,7,away,HS,,5,miss2,0,A. Drummond,
 353,4,11:38.0,87,75,HOU,DET,0,away,OffReb,,,OffReb,,T. Harris,
 354,4,11:38.0,87,75,HOU,DET,0,away,LU,,1,miss2,0,T. Harris,
@@ -426,7 +426,7 @@
 424,4,4:03.0,99,96,HOU,DET,0,home,FreeThrow,,,make1,1,J. Harden,
 425,4,3:49.0,99,96,HOU,DET,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Harrell,B. Marjanović
 426,4,3:36.0,99,99,HOU,DET,13,away,JS,,26,make3,3,S. Johnson,
-427,4,3:30.0,99,99,HOU,DET,6,home,BadPass,steal,,turnover,,J. Harden,R. Bullock
+427,4,3:30.0,99,99,HOU,DET,6,home,bad pass,steal,,turnover,,J. Harden,R. Bullock
 428,4,3:12.0,99,99,HOU,DET,18,away,JS,,26,miss3,0,S. Johnson,
 429,4,3:11.0,99,99,HOU,DET,1,home,DefReb,,,DefReb,,J. Harden,
 430,4,3:05.0,102,99,HOU,DET,6,home,JS,,26,make3,3,J. Harden,

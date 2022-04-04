@@ -1,6 +1,6 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:44.0,0,2,NYK,GSW,16,away,LU,assist,1,make2,2,K. Thompson,S. Curry
-1,1,11:32.0,0,2,NYK,GSW,12,home,LostBall,steal,,turnover,,K. Porziņģis,D. Green
+1,1,11:32.0,0,2,NYK,GSW,12,home,lost ball,steal,,turnover,,K. Porziņģis,D. Green
 2,1,11:21.0,0,2,NYK,GSW,11,away,JS,,6,miss2,0,K. Thompson,
 3,1,11:18.0,0,2,NYK,GSW,3,home,DefReb,,,DefReb,,K. Porziņģis,
 4,1,11:14.0,0,2,NYK,GSW,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Curry,D. Rose
@@ -27,13 +27,13 @@
 25,1,8:36.0,4,10,NYK,GSW,2,home,OffReb,,,OffReb,,L. Thomas,
 26,1,8:32.0,4,10,NYK,GSW,4,home,JS,,25,miss3,0,C. Anthony,
 27,1,8:31.0,4,10,NYK,GSW,1,away,DefReb,,,DefReb,,Team,
-28,1,8:15.0,4,10,NYK,GSW,16,away,BadPass,steal,,turnover,,Z. Pachulia,C. Lee
+28,1,8:15.0,4,10,NYK,GSW,16,away,bad pass,steal,,turnover,,Z. Pachulia,C. Lee
 29,1,8:11.0,4,10,NYK,GSW,4,home,LU,,2,miss2,0,D. Rose,
 30,1,8:10.0,4,10,NYK,GSW,1,home,OffReb,,,OffReb,,Team,
 31,1,8:10.0,4,10,NYK,GSW,0,away,Sub,,,,,J. McAdoo,Z. Pachulia
 32,1,8:10.0,4,10,NYK,GSW,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,Z. Pachulia,D. Rose
 33,1,8:10.0,4,10,NYK,GSW,0,home,Sub,,,,,R. Baker,D. Rose
-34,1,7:55.0,4,10,NYK,GSW,15,home,LostBall,steal,,turnover,,R. Baker,S. Curry
+34,1,7:55.0,4,10,NYK,GSW,15,home,lost ball,steal,,turnover,,R. Baker,S. Curry
 35,1,7:49.0,4,10,NYK,GSW,6,away,JS,,24,miss3,0,M. Barnes,
 36,1,7:47.0,4,10,NYK,GSW,2,home,DefReb,,,DefReb,,R. Baker,
 37,1,7:38.0,4,10,NYK,GSW,9,home,JS,,13,miss2,0,R. Baker,
@@ -49,20 +49,20 @@
 47,1,6:57.0,4,10,NYK,GSW,0,home,Sub,,,,,W. Hernangómez,L. Thomas
 48,1,6:44.0,4,10,NYK,GSW,13,home,LU,,2,miss2,0,C. Anthony,
 49,1,6:43.0,4,10,NYK,GSW,1,home,OffReb,,,OffReb,,Team,
-50,1,6:40.0,4,10,NYK,GSW,3,home,LostBall,steal,,turnover,,D. Rose,M. Barnes
+50,1,6:40.0,4,10,NYK,GSW,3,home,lost ball,steal,,turnover,,D. Rose,M. Barnes
 51,1,6:39.0,4,10,NYK,GSW,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Rose,M. Barnes
 52,1,6:33.0,4,10,NYK,GSW,6,away,LU,,2,miss2,0,S. Curry,
 53,1,6:31.0,4,10,NYK,GSW,2,away,OffReb,,,OffReb,,K. Thompson,
 54,1,6:27.0,4,10,NYK,GSW,4,away,JS,,24,miss3,0,S. Curry,
 55,1,6:25.0,4,10,NYK,GSW,2,away,OffReb,,,OffReb,,J. McAdoo,
-56,1,6:13.0,4,10,NYK,GSW,12,away,BadPass,steal,,turnover,,S. Curry,D. Rose
+56,1,6:13.0,4,10,NYK,GSW,12,away,bad pass,steal,,turnover,,S. Curry,D. Rose
 57,1,6:11.0,4,10,NYK,GSW,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Barnes,D. Rose
 58,1,6:07.0,4,10,NYK,GSW,4,away,KickBallViolation,,,KickBallViolation,,J. McAdoo,
 59,1,6:00.0,4,10,NYK,GSW,7,home,JS,,21,miss2,0,K. Porziņģis,
 60,1,5:58.0,4,10,NYK,GSW,2,away,DefReb,,,DefReb,,J. McAdoo,
 61,1,5:48.0,4,10,NYK,GSW,10,away,JS,,9,miss2,0,D. Green,
 62,1,5:47.0,4,10,NYK,GSW,1,away,OffReb,,,OffReb,,D. Green,
-63,1,5:44.0,4,10,NYK,GSW,3,away,BadPass,steal,,turnover,,K. Thompson,C. Lee
+63,1,5:44.0,4,10,NYK,GSW,3,away,bad pass,steal,,turnover,,K. Thompson,C. Lee
 64,1,5:40.0,6,10,NYK,GSW,4,home,LU,,2,make2,2,C. Lee,
 65,1,5:39.0,6,10,NYK,GSW,1,away,Timeout,,,,,,
 66,1,5:23.0,6,12,NYK,GSW,16,away,JS,,16,make2,2,S. Curry,
@@ -85,7 +85,7 @@
 83,1,3:16.0,14,19,NYK,GSW,16,home,JS,,14,make2,2,C. Anthony,
 84,1,3:05.0,14,19,NYK,GSW,11,away,LU,,3,miss2,0,S. Curry,
 85,1,3:03.0,14,19,NYK,GSW,2,away,OffReb,,,OffReb,,A. Iguodala,
-86,1,3:01.0,14,19,NYK,GSW,2,away,BadPass,steal,,turnover,,A. Iguodala,C. Lee
+86,1,3:01.0,14,19,NYK,GSW,2,away,bad pass,steal,,turnover,,A. Iguodala,C. Lee
 87,1,2:54.0,14,19,NYK,GSW,7,home,HS,,5,miss2,0,K. Porziņģis,
 88,1,2:52.0,14,19,NYK,GSW,2,away,DefReb,,,DefReb,,J. McGee,
 89,1,2:44.0,14,19,NYK,GSW,8,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Hernangómez,K. Thompson
@@ -170,7 +170,7 @@
 168,2,7:08.0,30,31,NYK,GSW,12,home,JS,assist,5,make2,2,K. Porziņģis,K. O'Quinn
 169,2,6:59.0,30,31,NYK,GSW,9,away,Timeout,,,,,,
 170,2,6:59.0,30,31,NYK,GSW,0,away,Sub,,,,,M. Barnes,A. Iguodala
-171,2,6:50.0,30,31,NYK,GSW,9,away,LostBall,steal,,turnover,,D. West,R. Baker
+171,2,6:50.0,30,31,NYK,GSW,9,away,lost ball,steal,,turnover,,D. West,R. Baker
 172,2,6:47.0,30,31,NYK,GSW,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Barnes,M. Kuzminskas
 173,2,6:47.0,30,31,NYK,GSW,0,home,FreeThrow,,,make1,0,M. Kuzminskas,
 174,2,6:47.0,30,31,NYK,GSW,0,home,OffReb,,,OffReb,,Team,
@@ -192,7 +192,7 @@
 190,2,5:02.0,36,34,NYK,GSW,0,away,Sub,,,,,A. Iguodala,D. Green
 191,2,5:02.0,36,34,NYK,GSW,0,home,Sub,,,,,W. Hernangómez,K. O'Quinn
 192,2,4:51.0,36,37,NYK,GSW,11,away,JS,assist,25,make3,3,A. Iguodala,S. Curry
-193,2,4:38.0,36,37,NYK,GSW,13,home,LostBall,steal,,turnover,,W. Hernangómez,A. Iguodala
+193,2,4:38.0,36,37,NYK,GSW,13,home,lost ball,steal,,turnover,,W. Hernangómez,A. Iguodala
 194,2,4:17.0,36,37,NYK,GSW,21,away,JS,,24,miss3,0,S. Curry,
 195,2,4:15.0,36,37,NYK,GSW,2,away,OffReb,,,OffReb,,S. Curry,
 196,2,4:13.0,36,37,NYK,GSW,2,away,LU,,2,miss2,0,S. Curry,
@@ -233,7 +233,7 @@
 231,2,0:51.0,48,47,NYK,GSW,13,home,LU,,2,make2,2,D. Rose,
 232,2,0:37.0,48,47,NYK,GSW,14,away,JS,,25,miss3,0,K. Thompson,
 233,2,0:35.0,48,47,NYK,GSW,2,home,DefReb,,,DefReb,,K. Porziņģis,
-234,2,0:27.0,48,47,NYK,GSW,8,home,BadPass,steal,,turnover,,C. Lee,P. McCaw
+234,2,0:27.0,48,47,NYK,GSW,8,home,bad pass,steal,,turnover,,C. Lee,P. McCaw
 235,2,0:24.0,48,49,NYK,GSW,3,away,LU,,1,make2,2,P. McCaw,
 236,2,0:02.0,50,49,NYK,GSW,22,home,JS,assist,11,make2,2,K. Porziņģis,C. Anthony
 237,2,0:00.0,50,49,NYK,GSW,2,away,JS,,61,miss3,0,S. Curry,
@@ -278,7 +278,7 @@
 276,3,7:31.0,59,61,NYK,GSW,2,away,DefReb,,,DefReb,,Team,
 277,3,7:18.0,59,61,NYK,GSW,13,away,JS,,25,miss3,0,S. Curry,
 278,3,7:16.0,59,61,NYK,GSW,2,home,DefReb,,,DefReb,,K. Porziņģis,
-279,3,7:00.0,59,61,NYK,GSW,16,home,BadPass,steal,,turnover,,C. Anthony,M. Barnes
+279,3,7:00.0,59,61,NYK,GSW,16,home,bad pass,steal,,turnover,,C. Anthony,M. Barnes
 280,3,6:54.0,59,61,NYK,GSW,6,away,LU,block,0,miss2,0,K. Thompson,C. Anthony
 281,3,6:51.0,59,61,NYK,GSW,3,away,OffReb,,,OffReb,,S. Curry,
 282,3,6:38.0,59,61,NYK,GSW,13,away,LostBall,,,turnover,,Z. Pachulia,
@@ -303,7 +303,7 @@
 301,3,3:49.0,67,71,NYK,GSW,1,home,OffReb,,,OffReb,,W. Hernangómez,
 302,3,3:49.0,69,71,NYK,GSW,0,home,LU,,1,make2,2,W. Hernangómez,
 303,3,3:40.0,69,73,NYK,GSW,9,away,LU,assist,2,make2,2,S. Curry,Z. Pachulia
-304,3,3:25.0,69,73,NYK,GSW,15,home,BadPass,steal,,turnover,,C. Anthony,Z. Pachulia
+304,3,3:25.0,69,73,NYK,GSW,15,home,bad pass,steal,,turnover,,C. Anthony,Z. Pachulia
 305,3,3:18.0,69,73,NYK,GSW,7,away,Sub,,,,,J. McGee,Z. Pachulia
 306,3,3:18.0,69,73,NYK,GSW,0,away,Sub,,,,,I. Clark,K. Thompson
 307,3,3:18.0,69,73,NYK,GSW,0,home,Sub,,,,,J. Holiday,C. Lee
@@ -349,7 +349,7 @@
 347,4,10:08.0,81,92,NYK,GSW,0,away,FreeThrow,,,make1,1,D. Green,
 348,4,9:48.0,83,92,NYK,GSW,20,home,LU,assist,2,make2,2,K. O'Quinn,R. Baker
 349,4,9:31.0,83,94,NYK,GSW,17,away,HS,,4,make2,2,D. West,
-350,4,9:09.0,83,94,NYK,GSW,22,home,LostBall,steal,,turnover,,J. Holiday,A. Iguodala
+350,4,9:09.0,83,94,NYK,GSW,22,home,lost ball,steal,,turnover,,J. Holiday,A. Iguodala
 351,4,9:04.0,83,94,NYK,GSW,5,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Porziņģis,K. Thompson
 352,4,9:04.0,83,95,NYK,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
 353,4,9:04.0,83,95,NYK,GSW,0,home,Sub,,,,,L. Thomas,M. Kuzminskas
@@ -411,7 +411,7 @@
 409,4,4:06.0,99,102,NYK,GSW,0,home,FreeThrow,,,make1,1,D. Rose,
 410,4,3:53.0,99,102,NYK,GSW,13,home,KickBallViolation,,,KickBallViolation,,R. Baker,
 411,4,3:40.0,99,104,NYK,GSW,13,away,LU,assist,2,make2,2,P. McCaw,A. Iguodala
-412,4,3:17.0,99,104,NYK,GSW,23,home,BadPass,steal,,turnover,,R. Baker,K. Thompson
+412,4,3:17.0,99,104,NYK,GSW,23,home,bad pass,steal,,turnover,,R. Baker,K. Thompson
 413,4,3:01.0,99,106,NYK,GSW,16,away,LU,assist,2,make2,2,K. Thompson,D. Green
 414,4,3:01.0,99,106,NYK,GSW,0,home,Timeout,,,,,,
 415,4,3:01.0,99,106,NYK,GSW,0,home,Sub,,,,,L. Thomas,R. Baker
@@ -419,10 +419,10 @@
 417,4,2:36.0,99,106,NYK,GSW,2,home,OffReb,,,OffReb,,K. Porziņģis,
 418,4,2:36.0,101,106,NYK,GSW,0,home,DK,,0,make2,2,K. Porziņģis,
 419,4,2:10.0,101,108,NYK,GSW,26,away,JS,assist,20,make2,2,K. Thompson,A. Iguodala
-420,4,1:48.0,101,108,NYK,GSW,22,home,LostBall,steal,,turnover,,K. Porziņģis,D. Green
+420,4,1:48.0,101,108,NYK,GSW,22,home,lost ball,steal,,turnover,,K. Porziņģis,D. Green
 421,4,1:40.0,101,108,NYK,GSW,8,away,JS,,23,miss3,0,K. Thompson,
 422,4,1:39.0,101,108,NYK,GSW,1,home,DefReb,,,DefReb,,D. Rose,
-423,4,1:33.0,101,108,NYK,GSW,6,home,BadPass,steal,,turnover,,D. Rose,S. Curry
+423,4,1:33.0,101,108,NYK,GSW,6,home,bad pass,steal,,turnover,,D. Rose,S. Curry
 424,4,1:09.0,101,110,NYK,GSW,24,away,JS,,22,make2,2,S. Curry,
 425,4,1:09.0,101,110,NYK,GSW,0,home,Timeout,,,,,,
 426,4,1:04.0,103,110,NYK,GSW,5,home,HS,assist,4,make2,2,K. Porziņģis,D. Rose

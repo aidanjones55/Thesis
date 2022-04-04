@@ -1,8 +1,8 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:43.0,0,0,PHI,WAS,17,away,JS,,16,miss2,0,M. Gortat,
 1,1,11:42.0,0,0,PHI,WAS,1,home,DefReb,,,DefReb,,D. Šarić,
-2,1,11:37.0,0,0,PHI,WAS,5,home,BadPass,steal,,turnover,,T. McConnell,O. Porter
-3,1,11:33.0,0,0,PHI,WAS,4,away,LostBall,steal,,turnover,,J. Wall,R. Covington
+2,1,11:37.0,0,0,PHI,WAS,5,home,bad pass,steal,,turnover,,T. McConnell,O. Porter
+3,1,11:33.0,0,0,PHI,WAS,4,away,lost ball,steal,,turnover,,J. Wall,R. Covington
 4,1,11:32.0,0,0,PHI,WAS,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Wall,R. Covington
 5,1,11:13.0,0,0,PHI,WAS,19,home,JS,,24,miss3,0,G. Henderson,
 6,1,11:10.0,0,0,PHI,WAS,3,away,DefReb,,,DefReb,,J. Wall,
@@ -31,7 +31,7 @@
 29,1,8:31.0,8,8,PHI,WAS,18,away,JS,,12,make2,2,J. Wall,
 30,1,8:09.0,8,8,PHI,WAS,22,home,LU,,2,miss2,0,T. McConnell,
 31,1,8:08.0,8,8,PHI,WAS,1,away,DefReb,,,DefReb,,M. Gortat,
-32,1,8:06.0,8,8,PHI,WAS,2,away,BadPass,steal,,turnover,,M. Gortat,D. Šarić
+32,1,8:06.0,8,8,PHI,WAS,2,away,bad pass,steal,,turnover,,M. Gortat,D. Šarić
 33,1,8:04.0,10,8,PHI,WAS,2,home,LU,,1,make2,2,D. Šarić,
 34,1,7:48.0,10,8,PHI,WAS,16,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Morris,T. McConnell
 35,1,7:48.0,10,8,PHI,WAS,0,away,OffensiveFoul,,,turnover,,M. Morris,
@@ -62,11 +62,11 @@
 60,1,4:53.0,19,16,PHI,WAS,4,away,OffReb,,,OffReb,,M. Morris,
 61,1,4:53.0,19,16,PHI,WAS,0,away,LU,,1,miss2,0,M. Morris,
 62,1,4:51.0,19,16,PHI,WAS,2,home,DefReb,,,DefReb,,D. Šarić,
-63,1,4:51.0,19,16,PHI,WAS,0,home,BadPass,steal,,turnover,,T. McConnell,O. Porter
+63,1,4:51.0,19,16,PHI,WAS,0,home,bad pass,steal,,turnover,,T. McConnell,O. Porter
 64,1,4:45.0,19,18,PHI,WAS,6,away,LU,assist,2,make2,2,O. Porter,J. Wall
 65,1,4:32.0,19,18,PHI,WAS,13,home,JS,,26,miss3,0,R. Covington,
 66,1,4:31.0,19,18,PHI,WAS,1,away,DefReb,,,DefReb,,M. Gortat,
-67,1,4:29.0,19,18,PHI,WAS,2,away,BadPass,steal,,turnover,,M. Gortat,T. McConnell
+67,1,4:29.0,19,18,PHI,WAS,2,away,bad pass,steal,,turnover,,M. Gortat,T. McConnell
 68,1,4:24.0,19,18,PHI,WAS,5,home,JS,,21,miss2,0,T. McConnell,
 69,1,4:20.0,19,18,PHI,WAS,4,away,DefReb,,,DefReb,,J. Wall,
 70,1,4:14.0,19,18,PHI,WAS,6,away,LU,,2,miss2,0,M. Gortat,
@@ -126,7 +126,7 @@
 124,1,0:01.0,26,28,PHI,WAS,2,away,JS,,26,miss3,0,K. Oubre,
 125,1,0:00.0,26,28,PHI,WAS,1,away,OffReb,,,OffReb,,Team,
 126,2,11:36.0,28,28,PHI,WAS,24,home,LU,assist,2,make2,2,N. Stauskas,S. Rodríguez
-127,2,11:12.0,28,28,PHI,WAS,24,away,LostBall,steal,,turnover,,M. Morris,R. Covington
+127,2,11:12.0,28,28,PHI,WAS,24,away,lost ball,steal,,turnover,,M. Morris,R. Covington
 128,2,11:07.0,31,28,PHI,WAS,5,home,JS,,24,make3,3,R. Covington,
 129,2,10:44.0,31,30,PHI,WAS,23,away,LU,assist,1,make2,2,M. Morris,T. Burke
 130,2,10:34.0,31,30,PHI,WAS,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Morris,T. Luwawu-Cabarrot
@@ -203,7 +203,7 @@
 201,2,3:34.0,51,43,PHI,WAS,10,home,JS,,15,make2,2,D. Šarić,
 202,2,3:12.0,51,45,PHI,WAS,22,away,JS,,22,make2,2,B. Beal,
 203,2,3:09.0,51,45,PHI,WAS,3,home,Timeout,,,,,,
-204,2,3:01.0,51,45,PHI,WAS,8,home,BadPass,steal,,turnover,,R. Covington,B. Beal
+204,2,3:01.0,51,45,PHI,WAS,8,home,bad pass,steal,,turnover,,R. Covington,B. Beal
 205,2,2:59.0,51,47,PHI,WAS,2,away,DK,,0,make2,2,B. Beal,
 206,2,2:46.0,54,47,PHI,WAS,13,home,JS,assist,23,make3,3,G. Henderson,T. McConnell
 207,2,2:29.0,54,47,PHI,WAS,17,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Gortat,R. Holmes
@@ -216,7 +216,7 @@
 214,2,1:27.0,59,47,PHI,WAS,1,home,JS,assist,25,make3,3,R. Covington,R. Holmes
 215,2,1:15.0,59,47,PHI,WAS,12,away,JS,block,4,miss2,0,M. Gortat,R. Holmes
 216,2,1:12.0,59,47,PHI,WAS,3,home,DefReb,,,DefReb,,R. Covington,
-217,2,1:10.0,59,47,PHI,WAS,2,home,BadPass,steal,,turnover,,R. Covington,B. Beal
+217,2,1:10.0,59,47,PHI,WAS,2,home,bad pass,steal,,turnover,,R. Covington,B. Beal
 218,2,1:01.0,59,47,PHI,WAS,9,away,JS,,28,miss3,0,J. Wall,
 219,2,1:00.0,59,47,PHI,WAS,1,home,DefReb,,,DefReb,,D. Šarić,
 220,2,0:55.0,61,47,PHI,WAS,5,home,LU,,0,make2,2,T. McConnell,
@@ -281,8 +281,8 @@
 279,3,6:32.0,76,60,PHI,WAS,0,home,Sub,,,,,R. Covington,D. Šarić
 280,3,6:30.0,76,62,PHI,WAS,2,away,LU,assist,1,make2,2,B. Beal,J. Wall
 281,3,6:16.0,78,62,PHI,WAS,14,home,DK,assist,0,make2,2,R. Holmes,T. Luwawu-Cabarrot
-282,3,5:57.0,78,62,PHI,WAS,19,away,BadPass,steal,,turnover,,B. Beal,T. McConnell
-283,3,5:53.0,78,62,PHI,WAS,4,home,LostBall,steal,,turnover,,T. Luwawu-Cabarrot,M. Morris
+282,3,5:57.0,78,62,PHI,WAS,19,away,bad pass,steal,,turnover,,B. Beal,T. McConnell
+283,3,5:53.0,78,62,PHI,WAS,4,home,lost ball,steal,,turnover,,T. Luwawu-Cabarrot,M. Morris
 284,3,5:49.0,78,64,PHI,WAS,4,away,DK,assist,0,make2,2,M. Gortat,J. Wall
 285,3,5:19.0,78,64,PHI,WAS,30,home,ShotClockViolation,,,turnover,,Team,
 286,3,5:08.0,78,64,PHI,WAS,11,away,JS,,18,miss2,0,J. Wall,
@@ -329,7 +329,7 @@
 327,3,1:07.0,93,78,PHI,WAS,17,away,LU,block,3,miss2,0,K. Oubre,R. Holmes
 328,3,1:04.0,93,78,PHI,WAS,3,home,DefReb,,,DefReb,,R. Covington,
 329,3,0:51.0,95,78,PHI,WAS,13,home,DK,assist,0,make2,2,R. Holmes,S. Rodríguez
-330,3,0:48.0,95,78,PHI,WAS,3,away,LostBall,steal,,turnover,,J. Wall,R. Covington
+330,3,0:48.0,95,78,PHI,WAS,3,away,lost ball,steal,,turnover,,J. Wall,R. Covington
 331,3,0:43.0,95,78,PHI,WAS,5,home,LU,block,1,miss2,0,N. Stauskas,M. Gortat
 332,3,0:41.0,95,78,PHI,WAS,2,home,OffReb,,,OffReb,,R. Covington,
 333,3,0:40.0,95,78,PHI,WAS,1,home,LU,,1,miss2,0,R. Covington,
@@ -351,7 +351,7 @@
 349,4,11:22.0,95,81,PHI,WAS,4,away,JS,,26,miss3,0,B. Bogdanović,
 350,4,11:20.0,95,81,PHI,WAS,2,away,OffReb,,,OffReb,,J. Smith,
 351,4,11:09.0,95,84,PHI,WAS,11,away,JS,assist,26,make3,3,T. Burke,B. Beal
-352,4,10:52.0,95,84,PHI,WAS,17,home,BadPass,steal,,turnover,,G. Henderson,B. Bogdanović
+352,4,10:52.0,95,84,PHI,WAS,17,home,bad pass,steal,,turnover,,G. Henderson,B. Bogdanović
 353,4,10:48.0,95,84,PHI,WAS,4,home,DefGoaltending,,,DefGoaltending,,G. Henderson,
 354,4,10:48.0,95,86,PHI,WAS,0,away,LU,,2,make2,2,B. Bogdanović,
 355,4,10:37.0,95,86,PHI,WAS,11,home,LostBall,,,turnover,,S. Rodríguez,
@@ -362,7 +362,7 @@
 360,4,10:07.0,96,86,PHI,WAS,0,home,FreeThrow,,,make1,0,G. Henderson,
 361,4,10:07.0,96,86,PHI,WAS,0,home,OffReb,,,OffReb,,Team,
 362,4,10:07.0,97,86,PHI,WAS,0,home,FreeThrow,,,make1,1,G. Henderson,
-363,4,9:56.0,97,86,PHI,WAS,11,away,BadPass,steal,,turnover,,T. Burke,R. Holmes
+363,4,9:56.0,97,86,PHI,WAS,11,away,bad pass,steal,,turnover,,T. Burke,R. Holmes
 364,4,9:55.0,97,86,PHI,WAS,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Burke,R. Holmes
 365,4,9:48.0,99,86,PHI,WAS,7,home,LU,,1,make2,2,S. Rodríguez,
 366,4,9:46.0,99,86,PHI,WAS,2,away,Timeout,,,,,,
@@ -377,10 +377,10 @@
 375,4,9:04.0,101,86,PHI,WAS,0,away,OffReb,,,OffReb,,Team,
 376,4,9:04.0,101,86,PHI,WAS,0,away,Sub,,,,,M. Morris,T. Burke
 377,4,9:04.0,101,86,PHI,WAS,0,home,Sub,,,,,R. Covington,D. Šarić
-378,4,9:01.0,101,86,PHI,WAS,3,away,BadPass,steal,,turnover,,J. Wall,R. Holmes
+378,4,9:01.0,101,86,PHI,WAS,3,away,bad pass,steal,,turnover,,J. Wall,R. Holmes
 379,4,8:55.0,104,86,PHI,WAS,6,home,JS,assist,26,make3,3,N. Stauskas,S. Rodríguez
 380,4,8:54.0,104,86,PHI,WAS,1,away,Timeout,,,,,,
-381,4,8:39.0,104,86,PHI,WAS,15,away,BadPass,steal,,turnover,,B. Bogdanović,R. Covington
+381,4,8:39.0,104,86,PHI,WAS,15,away,bad pass,steal,,turnover,,B. Bogdanović,R. Covington
 382,4,8:23.0,104,86,PHI,WAS,16,home,JS,,26,miss3,0,G. Henderson,
 383,4,8:21.0,104,86,PHI,WAS,2,away,DefReb,,,DefReb,,M. Morris,
 384,4,8:09.0,104,86,PHI,WAS,12,away,JS,,18,miss2,0,J. Wall,
@@ -432,14 +432,14 @@
 430,4,5:40.0,110,94,PHI,WAS,17,home,JS,,26,miss3,0,R. Covington,
 431,4,5:38.0,110,94,PHI,WAS,2,away,DefReb,,,DefReb,,B. Beal,
 432,4,5:22.0,110,96,PHI,WAS,16,away,JS,,17,make2,2,B. Beal,
-433,4,4:58.0,110,96,PHI,WAS,24,home,BadPass,steal,,turnover,,D. Šarić,O. Porter
+433,4,4:58.0,110,96,PHI,WAS,24,home,bad pass,steal,,turnover,,D. Šarić,O. Porter
 434,4,4:52.0,110,98,PHI,WAS,6,away,DK,assist,0,make2,2,M. Morris,J. Wall
 435,4,4:31.0,112,98,PHI,WAS,21,home,LU,assist,1,make2,2,D. Šarić,R. Covington
 436,4,4:22.0,112,98,PHI,WAS,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Luwawu-Cabarrot,M. Gortat
 437,4,4:22.0,112,99,PHI,WAS,0,away,FreeThrow,,,make1,1,M. Gortat,
 438,4,4:22.0,112,99,PHI,WAS,0,home,Sub,,,,,G. Henderson,T. Luwawu-Cabarrot
 439,4,4:22.0,112,100,PHI,WAS,0,away,FreeThrow,,,make1,1,M. Gortat,
-440,4,4:05.0,112,100,PHI,WAS,17,home,LostBall,steal,,turnover,,J. Okafor,O. Porter
+440,4,4:05.0,112,100,PHI,WAS,17,home,lost ball,steal,,turnover,,J. Okafor,O. Porter
 441,4,4:00.0,112,100,PHI,WAS,5,away,JS,,26,miss3,0,B. Beal,
 442,4,3:58.0,112,100,PHI,WAS,2,away,OffReb,,,OffReb,,Team,
 443,4,3:54.0,112,100,PHI,WAS,4,away,JS,,26,miss3,0,B. Beal,

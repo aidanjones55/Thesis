@@ -18,7 +18,7 @@
 16,1,8:35.0,10,8,BOS,UTA,21,away,JS,,9,make2,2,R. Hood,
 17,1,8:20.0,10,8,BOS,UTA,15,home,JS,block,3,miss2,0,A. Johnson,R. Gobert
 18,1,8:19.0,10,8,BOS,UTA,1,away,DefReb,,,DefReb,,R. Gobert,
-19,1,8:05.0,10,8,BOS,UTA,14,away,BadPass,steal,,turnover,,G. Hayward,J. Crowder
+19,1,8:05.0,10,8,BOS,UTA,14,away,bad pass,steal,,turnover,,G. Hayward,J. Crowder
 20,1,8:00.0,12,8,BOS,UTA,5,home,LU,assist,2,make2,2,I. Thomas,A. Bradley
 21,1,7:43.0,12,11,BOS,UTA,17,away,JS,assist,25,make3,3,G. Hayward,D. Favors
 22,1,7:14.0,14,11,BOS,UTA,29,home,JS,,18,make2,2,I. Thomas,
@@ -79,8 +79,8 @@
 77,1,0:54.0,28,23,BOS,UTA,21,home,JS,assist,25,make3,3,M. Smart,A. Bradley
 78,1,0:40.0,28,26,BOS,UTA,14,away,JS,assist,25,make3,3,J. Johnson,T. Lyles
 79,1,0:32.0,28,26,BOS,UTA,8,home,BadPass,,,turnover,,K. Olynyk,
-80,1,0:16.0,28,26,BOS,UTA,16,away,BadPass,steal,,turnover,,J. Ingles,M. Smart
-81,1,0:12.0,28,26,BOS,UTA,4,home,BadPass,steal,,turnover,,J. Brown,T. Lyles
+80,1,0:16.0,28,26,BOS,UTA,16,away,bad pass,steal,,turnover,,J. Ingles,M. Smart
+81,1,0:12.0,28,26,BOS,UTA,4,home,bad pass,steal,,turnover,,J. Brown,T. Lyles
 82,1,0:09.0,28,26,BOS,UTA,3,away,BadPass,,,turnover,,T. Lyles,
 83,1,0:03.0,28,26,BOS,UTA,6,home,BadPass,,,turnover,,M. Smart,
 84,1,0:00.0,28,29,BOS,UTA,3,away,JS,assist,27,make3,3,R. Neto,T. Lyles
@@ -100,7 +100,7 @@
 98,2,10:18.0,33,31,BOS,UTA,21,home,ChargeFoul,DrawnBy,,ChargeFoul,,D. Favors,K. Olynyk
 99,2,10:18.0,33,31,BOS,UTA,0,away,OffensiveFoul,,,turnover,,D. Favors,
 100,2,10:18.0,33,31,BOS,UTA,0,away,Sub,,,,,R. Gobert,D. Favors
-101,2,10:05.0,33,31,BOS,UTA,13,home,BadPass,steal,,turnover,,J. Brown,B. Diaw
+101,2,10:05.0,33,31,BOS,UTA,13,home,bad pass,steal,,turnover,,J. Brown,B. Diaw
 102,2,9:50.0,33,31,BOS,UTA,15,away,JS,,14,miss2,0,R. Hood,
 103,2,9:49.0,33,31,BOS,UTA,1,away,OffReb,,,OffReb,,Team,
 104,2,9:49.0,33,31,BOS,UTA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Jerebko,R. Gobert
@@ -120,7 +120,7 @@
 118,2,8:02.0,35,33,BOS,UTA,15,away,HS,,4,make2,2,B. Diaw,
 119,2,7:49.0,35,33,BOS,UTA,13,home,JS,,15,miss2,0,I. Thomas,
 120,2,7:48.0,35,33,BOS,UTA,1,away,DefReb,,,DefReb,,J. Johnson,
-121,2,7:33.0,35,33,BOS,UTA,15,away,LostBall,steal,,turnover,,B. Diaw,I. Thomas
+121,2,7:33.0,35,33,BOS,UTA,15,away,lost ball,steal,,turnover,,B. Diaw,I. Thomas
 122,2,7:33.0,35,33,BOS,UTA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Diaw,I. Thomas
 123,2,7:33.0,35,33,BOS,UTA,0,home,Sub,,,,,A. Horford,K. Olynyk
 124,2,7:19.0,38,33,BOS,UTA,14,home,JS,assist,24,make3,3,J. Brown,I. Thomas
@@ -142,7 +142,7 @@
 140,2,6:06.0,38,36,BOS,UTA,0,home,Sub,,,,,A. Bradley,I. Thomas
 141,2,6:05.0,38,36,BOS,UTA,1,home,DefReb,,,DefReb,,Team,
 142,2,6:04.0,38,36,BOS,UTA,1,home,BadPass,,,turnover,,J. Jerebko,
-143,2,5:49.0,38,36,BOS,UTA,15,away,BadPass,steal,,turnover,,B. Diaw,A. Horford
+143,2,5:49.0,38,36,BOS,UTA,15,away,bad pass,steal,,turnover,,B. Diaw,A. Horford
 144,2,5:34.0,38,36,BOS,UTA,15,home,JS,,7,miss2,0,M. Smart,
 145,2,5:33.0,38,36,BOS,UTA,1,away,DefReb,,,DefReb,,R. Hood,
 146,2,5:23.0,38,39,BOS,UTA,10,away,JS,assist,25,make3,3,B. Diaw,R. Hood
@@ -176,7 +176,7 @@
 174,2,2:06.0,50,43,BOS,UTA,0,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,R. Gobert,J. Crowder
 175,2,2:06.0,50,43,BOS,UTA,0,away,Timeout,,,,,,
 176,2,2:06.0,50,43,BOS,UTA,0,away,Sub,,,,,S. Mack,J. Ingles
-177,2,1:53.0,50,43,BOS,UTA,13,home,BadPass,steal,,turnover,,A. Bradley,S. Mack
+177,2,1:53.0,50,43,BOS,UTA,13,home,bad pass,steal,,turnover,,A. Bradley,S. Mack
 178,2,1:35.0,50,45,BOS,UTA,18,away,DK,assist,0,make2,2,R. Gobert,S. Mack
 179,2,1:16.0,50,45,BOS,UTA,19,home,JS,,5,miss2,0,A. Horford,
 180,2,1:15.0,50,45,BOS,UTA,1,away,DefReb,,,DefReb,,R. Gobert,
@@ -208,7 +208,7 @@
 206,3,9:10.0,63,52,BOS,UTA,0,away,OffReb,,,OffReb,,R. Gobert,
 207,3,9:06.0,63,52,BOS,UTA,4,away,JS,,25,miss3,0,G. Hayward,
 208,3,9:05.0,63,52,BOS,UTA,1,home,DefReb,,,DefReb,,A. Bradley,
-209,3,8:58.0,63,52,BOS,UTA,7,home,BadPass,steal,,turnover,,A. Bradley,G. Hayward
+209,3,8:58.0,63,52,BOS,UTA,7,home,bad pass,steal,,turnover,,A. Bradley,G. Hayward
 210,3,8:56.0,63,52,BOS,UTA,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bradley,G. Hayward
 211,3,8:41.0,63,52,BOS,UTA,15,away,JS,,16,miss2,0,R. Hood,
 212,3,8:40.0,63,52,BOS,UTA,1,away,OffReb,,,OffReb,,D. Favors,
@@ -277,8 +277,8 @@
 275,3,2:02.0,83,67,BOS,UTA,0,away,LU,block,4,miss2,0,R. Gobert,K. Olynyk
 276,3,2:02.0,83,67,BOS,UTA,0,away,Sub,,,,,R. Neto,S. Mack
 277,3,2:01.0,83,67,BOS,UTA,1,home,OffReb,,,OffReb,,Team,
-278,3,1:49.0,83,67,BOS,UTA,12,home,BadPass,steal,,turnover,,M. Smart,J. Ingles
-279,3,1:39.0,83,67,BOS,UTA,10,away,LostBall,steal,,turnover,,J. Ingles,K. Olynyk
+278,3,1:49.0,83,67,BOS,UTA,12,home,bad pass,steal,,turnover,,M. Smart,J. Ingles
+279,3,1:39.0,83,67,BOS,UTA,10,away,lost ball,steal,,turnover,,J. Ingles,K. Olynyk
 280,3,1:31.0,83,67,BOS,UTA,8,home,JS,,25,miss3,0,K. Olynyk,
 281,3,1:29.0,83,67,BOS,UTA,2,away,DefReb,,,DefReb,,R. Neto,
 282,3,1:17.0,83,69,BOS,UTA,12,away,JS,assist,5,make2,2,B. Diaw,R. Neto
@@ -329,7 +329,7 @@
 327,4,8:24.0,95,82,BOS,UTA,13,home,LU,block,3,miss2,0,J. Jerebko,J. Johnson
 328,4,8:23.0,95,82,BOS,UTA,1,away,DefReb,,,DefReb,,J. Johnson,
 329,4,8:15.0,95,84,BOS,UTA,8,away,LU,,1,make2,2,J. Johnson,
-330,4,7:56.0,95,84,BOS,UTA,19,home,BadPass,steal,,turnover,,M. Smart,R. Neto
+330,4,7:56.0,95,84,BOS,UTA,19,home,bad pass,steal,,turnover,,M. Smart,R. Neto
 331,4,7:48.0,95,87,BOS,UTA,8,away,JS,assist,23,make3,3,J. Johnson,J. Ingles
 332,4,7:47.0,95,87,BOS,UTA,1,home,Timeout,,,,,,
 333,4,7:47.0,95,87,BOS,UTA,0,home,Sub,,,,,A. Horford,K. Olynyk
@@ -337,7 +337,7 @@
 335,4,7:47.0,95,87,BOS,UTA,0,home,Sub,,,,,J. Crowder,J. Jerebko
 336,4,7:26.0,98,87,BOS,UTA,21,home,JS,,25,make3,3,I. Thomas,
 337,4,7:08.0,98,89,BOS,UTA,18,away,JS,,13,make2,2,J. Johnson,
-338,4,6:50.0,98,89,BOS,UTA,18,home,BadPass,steal,,turnover,,I. Thomas,J. Johnson
+338,4,6:50.0,98,89,BOS,UTA,18,home,bad pass,steal,,turnover,,I. Thomas,J. Johnson
 339,4,6:40.0,98,91,BOS,UTA,10,away,JS,,5,make2,2,J. Johnson,
 340,4,6:16.0,98,91,BOS,UTA,24,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,A. Horford,R. Hood
 341,4,6:16.0,98,91,BOS,UTA,0,home,OffensiveFoul,,,turnover,,A. Horford,

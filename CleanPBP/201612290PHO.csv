@@ -1,16 +1,16 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:41.0,0,0,PHO,TOR,19,away,BadPass,steal,,turnover,,K. Lowry,E. Bledsoe
+0,1,11:41.0,0,0,PHO,TOR,19,away,bad pass,steal,,turnover,,K. Lowry,E. Bledsoe
 1,1,11:21.0,2,0,PHO,TOR,20,home,JS,,20,make2,2,E. Bledsoe,
 2,1,10:59.0,2,0,PHO,TOR,22,away,JS,,26,miss3,0,K. Lowry,
 3,1,10:57.0,2,0,PHO,TOR,2,home,DefReb,,,DefReb,,T. Chandler,
-4,1,10:51.0,2,0,PHO,TOR,6,home,LostBall,steal,,turnover,,E. Bledsoe,P. Siakam
+4,1,10:51.0,2,0,PHO,TOR,6,home,lost ball,steal,,turnover,,E. Bledsoe,P. Siakam
 5,1,10:49.0,2,0,PHO,TOR,2,away,PersonalFoul,DrawnBy,,PersonalFoul,,P. Tucker,J. Valančiūnas
 6,1,10:30.0,2,0,PHO,TOR,19,away,JS,,15,miss2,0,D. DeRozan,
 7,1,10:29.0,2,0,PHO,TOR,1,home,DefReb,,,DefReb,,T. Chandler,
-8,1,10:27.0,2,0,PHO,TOR,2,home,BadPass,steal,,turnover,,T. Chandler,K. Lowry
+8,1,10:27.0,2,0,PHO,TOR,2,home,bad pass,steal,,turnover,,T. Chandler,K. Lowry
 9,1,10:16.0,2,0,PHO,TOR,11,away,JS,,24,miss3,0,D. DeRozan,
 10,1,10:16.0,2,0,PHO,TOR,0,home,DefReb,,,DefReb,,E. Bledsoe,
-11,1,10:10.0,2,0,PHO,TOR,6,home,BadPass,steal,,turnover,,E. Bledsoe,P. Siakam
+11,1,10:10.0,2,0,PHO,TOR,6,home,bad pass,steal,,turnover,,E. Bledsoe,P. Siakam
 12,1,10:02.0,2,0,PHO,TOR,8,away,JS,,24,miss3,0,D. Carroll,
 13,1,10:01.0,2,0,PHO,TOR,1,home,DefReb,,,DefReb,,T. Chandler,
 14,1,9:41.0,2,0,PHO,TOR,20,home,JS,,24,miss3,0,M. Chriss,
@@ -30,7 +30,7 @@
 28,1,7:43.0,5,4,PHO,TOR,13,home,JS,,4,miss2,0,D. Booker,
 29,1,7:43.0,5,4,PHO,TOR,0,away,DefReb,,,DefReb,,J. Valančiūnas,
 30,1,7:37.0,5,4,PHO,TOR,6,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,D. Booker,D. Carroll
-31,1,7:34.0,5,4,PHO,TOR,3,away,BadPass,steal,,turnover,,D. Carroll,D. Booker
+31,1,7:34.0,5,4,PHO,TOR,3,away,bad pass,steal,,turnover,,D. Carroll,D. Booker
 32,1,7:28.0,5,4,PHO,TOR,6,home,LU,,3,miss2,0,D. Booker,
 33,1,7:27.0,5,4,PHO,TOR,1,home,OffReb,,,OffReb,,M. Chriss,
 34,1,7:27.0,5,4,PHO,TOR,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Valančiūnas,M. Chriss
@@ -50,7 +50,7 @@
 48,1,6:26.0,10,4,PHO,TOR,7,away,Timeout,,,,,,
 49,1,6:26.0,10,4,PHO,TOR,0,away,Sub,,,,,T. Ross,D. Carroll
 50,1,6:26.0,10,4,PHO,TOR,0,away,Sub,,,,,P. Patterson,P. Siakam
-51,1,6:10.0,10,4,PHO,TOR,16,away,BadPass,steal,,turnover,,J. Valančiūnas,E. Bledsoe
+51,1,6:10.0,10,4,PHO,TOR,16,away,bad pass,steal,,turnover,,J. Valančiūnas,E. Bledsoe
 52,1,6:05.0,10,4,PHO,TOR,5,home,LU,,2,miss2,0,P. Tucker,
 53,1,6:03.0,10,4,PHO,TOR,2,home,OffReb,,,OffReb,,T. Chandler,
 54,1,5:51.0,12,4,PHO,TOR,12,home,LU,,1,make2,2,E. Bledsoe,
@@ -80,7 +80,7 @@
 78,1,2:51.0,12,11,PHO,TOR,0,away,FreeThrow,,,make1,0,D. DeRozan,
 79,1,2:51.0,12,11,PHO,TOR,0,home,Sub,,,,,D. Bender,P. Tucker
 80,1,2:50.0,12,11,PHO,TOR,1,home,DefReb,,,DefReb,,D. Bender,
-81,1,2:32.0,12,11,PHO,TOR,18,home,BadPass,steal,,turnover,,T. Warren,T. Ross
+81,1,2:32.0,12,11,PHO,TOR,18,home,bad pass,steal,,turnover,,T. Warren,T. Ross
 82,1,2:27.0,12,11,PHO,TOR,5,away,BadPass,,,turnover,,L. Nogueira,
 83,1,2:13.0,12,11,PHO,TOR,14,home,JS,,22,miss2,0,D. Booker,
 84,1,2:13.0,12,11,PHO,TOR,0,away,DefReb,,,DefReb,,C. Joseph,
@@ -102,11 +102,11 @@
 100,1,0:52.0,14,12,PHO,TOR,1,home,OffReb,,,OffReb,,Team,
 101,1,0:40.0,16,12,PHO,TOR,12,home,JS,,16,make2,2,B. Knight,
 102,1,0:31.0,16,14,PHO,TOR,9,away,LU,,2,make2,2,D. DeRozan,
-103,1,0:23.0,16,14,PHO,TOR,8,home,LostBall,steal,,turnover,,B. Knight,L. Nogueira
+103,1,0:23.0,16,14,PHO,TOR,8,home,lost ball,steal,,turnover,,B. Knight,L. Nogueira
 104,1,0:23.0,16,14,PHO,TOR,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,B. Knight,D. DeRozan
 105,1,0:23.0,16,15,PHO,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
 106,1,0:23.0,16,16,PHO,TOR,0,away,FreeThrow,,,make1,1,D. DeRozan,
-107,1,0:05.0,16,16,PHO,TOR,18,home,BadPass,steal,,turnover,,L. Barbosa,T. Ross
+107,1,0:05.0,16,16,PHO,TOR,18,home,bad pass,steal,,turnover,,L. Barbosa,T. Ross
 108,1,0:01.0,16,18,PHO,TOR,4,away,DK,,0,make2,2,T. Ross,
 109,2,11:50.0,16,18,PHO,TOR,10,home,LU,,3,miss2,0,T. Warren,
 110,2,11:50.0,16,18,PHO,TOR,0,home,OffReb,,,OffReb,,Team,
@@ -116,7 +116,7 @@
 114,2,11:32.0,16,18,PHO,TOR,1,away,DefReb,,,DefReb,,C. Joseph,
 115,2,11:16.0,16,18,PHO,TOR,16,away,JS,,25,miss3,0,T. Ross,
 116,2,11:15.0,16,18,PHO,TOR,1,home,DefReb,,,DefReb,,Team,
-117,2,11:00.0,16,18,PHO,TOR,15,home,BadPass,steal,,turnover,,D. Bender,K. Lowry
+117,2,11:00.0,16,18,PHO,TOR,15,home,bad pass,steal,,turnover,,D. Bender,K. Lowry
 118,2,11:00.0,16,18,PHO,TOR,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,D. Bender,K. Lowry
 119,2,10:41.0,16,18,PHO,TOR,19,away,JS,,18,miss2,0,K. Lowry,
 120,2,10:39.0,16,18,PHO,TOR,2,home,DefReb,,,DefReb,,A. Len,
@@ -145,7 +145,7 @@
 143,2,8:59.0,21,23,PHO,TOR,0,away,Sub,,,,,N. Powell,C. Joseph
 144,2,8:59.0,21,23,PHO,TOR,0,home,Sub,,,,,D. Booker,T. Warren
 145,2,8:59.0,21,23,PHO,TOR,0,home,Sub,,,,,E. Bledsoe,L. Barbosa
-146,2,8:50.0,21,23,PHO,TOR,9,home,BadPass,steal,,turnover,,E. Bledsoe,T. Ross
+146,2,8:50.0,21,23,PHO,TOR,9,home,bad pass,steal,,turnover,,E. Bledsoe,T. Ross
 147,2,8:33.0,21,23,PHO,TOR,17,away,JS,,24,miss3,0,T. Ross,
 148,2,8:33.0,21,23,PHO,TOR,0,home,DefReb,,,DefReb,,E. Bledsoe,
 149,2,8:25.0,23,23,PHO,TOR,8,home,JS,,20,make2,2,E. Bledsoe,
@@ -189,13 +189,13 @@
 187,2,4:02.0,35,34,PHO,TOR,10,home,LU,,2,make2,2,E. Bledsoe,
 188,2,3:57.0,35,34,PHO,TOR,5,away,LU,,3,miss2,0,N. Powell,
 189,2,3:55.0,35,34,PHO,TOR,2,home,DefReb,,,DefReb,,T. Ulis,
-190,2,3:54.0,35,34,PHO,TOR,1,home,BadPass,steal,,turnover,,T. Ulis,N. Powell
+190,2,3:54.0,35,34,PHO,TOR,1,home,bad pass,steal,,turnover,,T. Ulis,N. Powell
 191,2,3:52.0,35,36,PHO,TOR,2,away,LU,,1,make2,2,N. Powell,
 192,2,3:37.0,38,36,PHO,TOR,15,home,JS,assist,25,make3,3,T. Ulis,E. Bledsoe
 193,2,3:22.0,38,38,PHO,TOR,15,away,JS,,4,make2,2,D. DeRozan,
 194,2,3:00.0,38,38,PHO,TOR,22,home,JS,,16,miss2,0,D. Booker,
 195,2,2:59.0,38,38,PHO,TOR,1,away,DefReb,,,DefReb,,N. Powell,
-196,2,2:53.0,38,38,PHO,TOR,6,away,LostBall,steal,,turnover,,D. DeRozan,T. Ulis
+196,2,2:53.0,38,38,PHO,TOR,6,away,lost ball,steal,,turnover,,D. DeRozan,T. Ulis
 197,2,2:47.0,38,38,PHO,TOR,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Lowry,T. Chandler
 198,2,2:47.0,38,38,PHO,TOR,0,away,Timeout,,,,,,
 199,2,2:47.0,38,38,PHO,TOR,0,away,Sub,,,,,C. Joseph,D. Carroll
@@ -211,7 +211,7 @@
 209,2,1:09.0,42,38,PHO,TOR,1,away,OffReb,,,OffReb,,C. Joseph,
 210,2,1:00.0,42,40,PHO,TOR,9,away,JS,,5,make2,2,J. Valančiūnas,
 211,2,0:45.0,42,40,PHO,TOR,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Joseph,T. Chandler
-212,2,0:37.0,42,40,PHO,TOR,8,home,BadPass,steal,,turnover,,D. Booker,J. Valančiūnas
+212,2,0:37.0,42,40,PHO,TOR,8,home,bad pass,steal,,turnover,,D. Booker,J. Valančiūnas
 213,2,0:29.0,42,40,PHO,TOR,8,away,BadPass,,,turnover,,C. Joseph,
 214,2,0:10.0,42,40,PHO,TOR,19,home,JS,block,5,miss2,0,E. Bledsoe,N. Powell
 215,2,0:09.0,42,40,PHO,TOR,1,home,OffReb,,,OffReb,,E. Bledsoe,
@@ -222,7 +222,7 @@
 220,3,11:48.0,44,40,PHO,TOR,12,home,LU,,3,make2,2,E. Bledsoe,
 221,3,11:25.0,44,40,PHO,TOR,23,away,JS,,9,miss2,0,D. DeRozan,
 222,3,11:24.0,44,40,PHO,TOR,1,home,DefReb,,,DefReb,,T. Chandler,
-223,3,11:16.0,44,40,PHO,TOR,8,home,LostBall,steal,,turnover,,E. Bledsoe,D. Carroll
+223,3,11:16.0,44,40,PHO,TOR,8,home,lost ball,steal,,turnover,,E. Bledsoe,D. Carroll
 224,3,11:09.0,44,40,PHO,TOR,7,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,J. Valančiūnas,E. Bledsoe
 225,3,11:09.0,44,40,PHO,TOR,0,away,OffensiveFoul,,,turnover,,J. Valančiūnas,
 226,3,10:59.0,44,40,PHO,TOR,10,home,JS,,17,miss2,0,D. Booker,
@@ -253,7 +253,7 @@
 251,3,7:58.0,46,48,PHO,TOR,12,home,JS,,9,miss2,0,D. Booker,
 252,3,7:57.0,46,48,PHO,TOR,1,home,OffReb,,,OffReb,,T. Chandler,
 253,3,7:53.0,49,48,PHO,TOR,4,home,JS,assist,25,make3,3,E. Bledsoe,T. Chandler
-254,3,7:35.0,49,48,PHO,TOR,18,away,LostBall,steal,,turnover,,J. Valančiūnas,T. Chandler
+254,3,7:35.0,49,48,PHO,TOR,18,away,lost ball,steal,,turnover,,J. Valančiūnas,T. Chandler
 255,3,7:28.0,49,48,PHO,TOR,7,home,JS,,25,miss3,0,D. Booker,
 256,3,7:28.0,49,48,PHO,TOR,0,home,OffReb,,,OffReb,,P. Tucker,
 257,3,7:12.0,49,48,PHO,TOR,16,home,JS,,12,miss2,0,P. Tucker,
@@ -288,7 +288,7 @@
 286,3,5:07.0,56,50,PHO,TOR,0,home,OffReb,,,OffReb,,Team,
 287,3,5:07.0,56,50,PHO,TOR,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,L. Nogueira,T. Chandler
 288,3,4:55.0,58,50,PHO,TOR,12,home,DK,assist,0,make2,2,T. Chandler,D. Booker
-289,3,4:37.0,58,50,PHO,TOR,18,away,BadPass,steal,,turnover,,N. Powell,T. Chandler
+289,3,4:37.0,58,50,PHO,TOR,18,away,bad pass,steal,,turnover,,N. Powell,T. Chandler
 290,3,4:25.0,58,50,PHO,TOR,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Powell,D. Booker
 291,3,4:25.0,59,50,PHO,TOR,0,home,FreeThrow,,,make1,1,D. Booker,
 292,3,4:25.0,60,50,PHO,TOR,0,home,FreeThrow,,,make1,1,D. Booker,
@@ -309,7 +309,7 @@
 307,3,2:51.0,65,56,PHO,TOR,16,away,JS,,7,make2,2,C. Joseph,
 308,3,2:31.0,65,56,PHO,TOR,20,home,JS,block,14,miss2,0,T. Warren,L. Nogueira
 309,3,2:30.0,65,56,PHO,TOR,1,away,DefReb,,,DefReb,,P. Siakam,
-310,3,2:22.0,65,56,PHO,TOR,8,away,LostBall,steal,,turnover,,D. DeRozan,T. Warren
+310,3,2:22.0,65,56,PHO,TOR,8,away,lost ball,steal,,turnover,,D. DeRozan,T. Warren
 311,3,2:20.0,65,56,PHO,TOR,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. DeRozan,T. Warren
 312,3,2:20.0,65,56,PHO,TOR,0,home,FreeThrow,,,make1,0,T. Warren,
 313,3,2:20.0,65,56,PHO,TOR,0,home,OffReb,,,OffReb,,Team,
@@ -357,10 +357,10 @@
 355,4,10:17.0,79,70,PHO,TOR,0,home,Sub,,,,,P. Tucker,M. Chriss
 356,4,10:17.0,79,70,PHO,TOR,0,home,Sub,,,,,T. Ulis,D. Booker
 357,4,10:08.0,79,70,PHO,TOR,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Siakam,E. Bledsoe
-358,4,10:04.0,79,70,PHO,TOR,4,home,BadPass,steal,,turnover,,E. Bledsoe,T. Ross
-359,4,10:01.0,79,70,PHO,TOR,3,away,BadPass,steal,,turnover,,T. Ross,E. Bledsoe
+358,4,10:04.0,79,70,PHO,TOR,4,home,bad pass,steal,,turnover,,E. Bledsoe,T. Ross
+359,4,10:01.0,79,70,PHO,TOR,3,away,bad pass,steal,,turnover,,T. Ross,E. Bledsoe
 360,4,9:48.0,82,70,PHO,TOR,13,home,JS,assist,24,make3,3,P. Tucker,T. Warren
-361,4,9:38.0,82,70,PHO,TOR,10,away,BadPass,steal,,turnover,,K. Lowry,T. Warren
+361,4,9:38.0,82,70,PHO,TOR,10,away,bad pass,steal,,turnover,,K. Lowry,T. Warren
 362,4,9:31.0,82,70,PHO,TOR,7,home,JS,,25,miss3,0,P. Tucker,
 363,4,9:30.0,82,70,PHO,TOR,1,away,DefReb,,,DefReb,,K. Lowry,
 364,4,9:23.0,82,70,PHO,TOR,7,away,PersonalBlockFoul,,,,,T. Warren,
@@ -390,7 +390,7 @@
 388,4,6:22.0,84,78,PHO,TOR,1,home,DefReb,,,DefReb,,B. Knight,
 389,4,6:00.0,84,78,PHO,TOR,22,home,JS,,21,miss2,0,B. Knight,
 390,4,5:59.0,84,78,PHO,TOR,1,away,DefReb,,,DefReb,,K. Lowry,
-391,4,5:40.0,84,78,PHO,TOR,19,away,LostBall,steal,,turnover,,C. Joseph,B. Knight
+391,4,5:40.0,84,78,PHO,TOR,19,away,lost ball,steal,,turnover,,C. Joseph,B. Knight
 392,4,5:18.0,87,78,PHO,TOR,22,home,JS,,25,make3,3,T. Ulis,
 393,4,5:06.0,87,78,PHO,TOR,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,K. Lowry
 394,4,5:06.0,87,79,PHO,TOR,0,away,FreeThrow,,,make1,1,K. Lowry,

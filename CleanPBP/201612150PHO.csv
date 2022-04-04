@@ -11,7 +11,7 @@
 9,1,10:24.0,3,0,PHO,SAS,1,home,DefReb,,,DefReb,,T. Chandler,
 10,1,10:08.0,3,0,PHO,SAS,16,home,JS,,11,miss2,0,D. Booker,
 11,1,10:08.0,3,0,PHO,SAS,0,away,DefReb,,,DefReb,,L. Aldridge,
-12,1,10:02.0,3,0,PHO,SAS,6,away,BadPass,steal,,turnover,,L. Aldridge,D. Booker
+12,1,10:02.0,3,0,PHO,SAS,6,away,bad pass,steal,,turnover,,L. Aldridge,D. Booker
 13,1,9:59.0,5,0,PHO,SAS,3,home,LU,,1,make2,2,D. Booker,
 14,1,9:42.0,5,3,PHO,SAS,17,away,JS,assist,24,make3,3,T. Parker,L. Aldridge
 15,1,9:28.0,5,3,PHO,SAS,14,home,LU,,2,miss2,0,T. Chandler,
@@ -55,7 +55,7 @@
 53,1,5:06.0,14,13,PHO,SAS,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Chandler,L. Aldridge
 54,1,5:06.0,14,13,PHO,SAS,0,home,Sub,,,,,B. Knight,E. Bledsoe
 55,1,5:06.0,14,14,PHO,SAS,0,away,FreeThrow,,,make1,1,L. Aldridge,
-56,1,4:55.0,14,14,PHO,SAS,11,home,LostBall,steal,,turnover,,D. Booker,M. Ginóbili
+56,1,4:55.0,14,14,PHO,SAS,11,home,lost ball,steal,,turnover,,D. Booker,M. Ginóbili
 57,1,4:44.0,14,16,PHO,SAS,11,away,LU,assist,2,make2,2,D. Dedmon,K. Leonard
 58,1,4:32.0,14,16,PHO,SAS,12,home,JS,,5,miss2,0,D. Booker,
 59,1,4:32.0,14,16,PHO,SAS,0,away,DefReb,,,DefReb,,D. Dedmon,
@@ -90,7 +90,7 @@
 88,1,2:47.0,16,19,PHO,SAS,1,home,OffReb,,,OffReb,,L. Barbosa,
 89,1,2:38.0,16,19,PHO,SAS,9,home,JS,,5,miss2,0,B. Knight,
 90,1,2:37.0,16,19,PHO,SAS,1,home,OffReb,,,OffReb,,A. Williams,
-91,1,2:34.0,16,19,PHO,SAS,3,home,BadPass,steal,,turnover,,E. Bledsoe,M. Ginóbili
+91,1,2:34.0,16,19,PHO,SAS,3,home,bad pass,steal,,turnover,,E. Bledsoe,M. Ginóbili
 92,1,2:30.0,16,19,PHO,SAS,4,away,LU,,0,miss2,0,P. Mills,
 93,1,2:30.0,16,19,PHO,SAS,0,home,DefReb,,,DefReb,,L. Barbosa,
 94,1,2:23.0,16,19,PHO,SAS,7,home,LU,,2,miss2,0,L. Barbosa,
@@ -141,7 +141,7 @@
 139,2,9:14.0,30,29,PHO,SAS,0,away,FreeThrow,,,make1,1,K. Leonard makes technical free throw,
 140,2,9:10.0,30,29,PHO,SAS,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,L. Aldridge,L. Barbosa
 141,2,9:10.0,30,29,PHO,SAS,0,away,OffensiveFoul,,,turnover,,L. Aldridge,
-142,2,8:54.0,30,29,PHO,SAS,16,home,BadPass,steal,,turnover,,D. Booker,P. Mills
+142,2,8:54.0,30,29,PHO,SAS,16,home,bad pass,steal,,turnover,,D. Booker,P. Mills
 143,2,8:48.0,30,31,PHO,SAS,6,away,LU,,1,make2,2,K. Leonard,
 144,2,8:35.0,30,31,PHO,SAS,13,home,LU,,2,miss2,0,L. Barbosa,
 145,2,8:33.0,30,31,PHO,SAS,2,away,DefReb,,,DefReb,,P. Gasol,
@@ -151,7 +151,7 @@
 149,2,8:03.0,32,31,PHO,SAS,13,home,LU,,3,make2,2,D. Booker,
 150,2,7:49.0,32,31,PHO,SAS,14,away,BadPass,,,turnover,,J. Simmons,
 151,2,7:43.0,34,31,PHO,SAS,6,home,LU,,1,make2,2,B. Knight,
-152,2,7:32.0,34,31,PHO,SAS,11,away,LostBall,steal,,turnover,,J. Simmons,B. Knight
+152,2,7:32.0,34,31,PHO,SAS,11,away,lost ball,steal,,turnover,,J. Simmons,B. Knight
 153,2,7:24.0,34,31,PHO,SAS,8,home,LU,,1,miss2,0,D. Booker,
 154,2,7:22.0,34,31,PHO,SAS,2,away,DefReb,,,DefReb,,K. Leonard,
 155,2,7:10.0,34,31,PHO,SAS,12,away,JS,,12,miss2,0,K. Leonard,
@@ -180,9 +180,9 @@
 178,2,5:19.0,37,33,PHO,SAS,16,away,Traveling,,,turnover,,K. Anderson,
 179,2,5:01.0,37,33,PHO,SAS,18,home,JS,,6,miss2,0,E. Bledsoe,
 180,2,5:00.0,37,33,PHO,SAS,1,away,DefReb,,,DefReb,,D. Lee,
-181,2,4:51.0,37,33,PHO,SAS,9,away,BadPass,steal,,turnover,,T. Parker,E. Bledsoe
+181,2,4:51.0,37,33,PHO,SAS,9,away,bad pass,steal,,turnover,,T. Parker,E. Bledsoe
 182,2,4:45.0,39,33,PHO,SAS,6,home,DK,assist,0,make2,2,T. Chandler,E. Bledsoe
-183,2,4:29.0,39,33,PHO,SAS,16,away,BadPass,steal,,turnover,,D. Lee,T. Chandler
+183,2,4:29.0,39,33,PHO,SAS,16,away,bad pass,steal,,turnover,,D. Lee,T. Chandler
 184,2,4:21.0,39,33,PHO,SAS,8,home,JS,,24,miss3,0,P. Tucker,
 185,2,4:21.0,39,33,PHO,SAS,0,away,DefReb,,,DefReb,,D. Lee,
 186,2,4:13.0,39,35,PHO,SAS,8,away,DK,assist,0,make2,2,D. Dedmon,K. Anderson
@@ -190,7 +190,7 @@
 188,2,3:54.0,39,35,PHO,SAS,2,away,DefReb,,,DefReb,,D. Dedmon,
 189,2,3:45.0,39,37,PHO,SAS,9,away,JS,,9,make2,2,K. Anderson,
 190,2,3:45.0,39,37,PHO,SAS,0,home,Timeout,,,,,,
-191,2,3:30.0,39,37,PHO,SAS,15,home,BadPass,steal,,turnover,,T. Ulis,T. Parker
+191,2,3:30.0,39,37,PHO,SAS,15,home,bad pass,steal,,turnover,,T. Ulis,T. Parker
 192,2,3:16.0,39,37,PHO,SAS,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Chandler,M. Ginóbili
 193,2,3:16.0,39,37,PHO,SAS,0,away,Sub,,,,,K. Leonard,M. Ginóbili
 194,2,3:16.0,39,37,PHO,SAS,0,home,Sub,,,,,D. Booker,T. Ulis
@@ -203,7 +203,7 @@
 201,2,1:35.0,42,41,PHO,SAS,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,P. Tucker,D. Lee
 202,2,1:35.0,42,43,PHO,SAS,0,away,LU,,1,make2,2,D. Lee,
 203,2,1:35.0,42,44,PHO,SAS,0,away,FreeThrow,,,make1,1,D. Lee,
-204,2,1:26.0,42,44,PHO,SAS,9,home,LostBall,steal,,turnover,,D. Booker,K. Leonard
+204,2,1:26.0,42,44,PHO,SAS,9,home,lost ball,steal,,turnover,,D. Booker,K. Leonard
 205,2,1:21.0,42,46,PHO,SAS,5,away,DK,,1,make2,2,K. Leonard,
 206,2,1:03.0,42,46,PHO,SAS,18,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Parker,E. Bledsoe
 207,2,0:48.0,42,46,PHO,SAS,15,home,JS,block,20,miss2,0,P. Tucker,D. Dedmon
@@ -246,7 +246,7 @@
 244,3,8:07.0,56,58,PHO,SAS,1,home,DefReb,,,DefReb,,E. Bledsoe,
 245,3,7:44.0,56,58,PHO,SAS,23,home,JS,,26,miss3,0,D. Booker,
 246,3,7:43.0,56,58,PHO,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
-247,3,7:32.0,56,58,PHO,SAS,11,away,LostBall,steal,,turnover,,L. Aldridge,D. Booker
+247,3,7:32.0,56,58,PHO,SAS,11,away,lost ball,steal,,turnover,,L. Aldridge,D. Booker
 248,3,7:24.0,56,58,PHO,SAS,8,home,JS,,24,miss3,0,P. Tucker,
 249,3,7:23.0,56,58,PHO,SAS,1,away,DefReb,,,DefReb,,K. Leonard,
 250,3,7:14.0,56,60,PHO,SAS,9,away,JS,assist,16,make2,2,P. Gasol,D. Green
@@ -318,11 +318,11 @@
 316,3,1:16.0,67,72,PHO,SAS,0,home,DK,,0,make2,2,M. Chriss,
 317,3,0:59.0,67,72,PHO,SAS,17,away,LU,block,2,miss2,0,D. Lee,J. Dudley
 318,3,0:58.0,67,72,PHO,SAS,1,away,OffReb,,,OffReb,,D. Lee,
-319,3,0:57.0,67,72,PHO,SAS,1,away,LostBall,steal,,turnover,,D. Lee,M. Chriss
+319,3,0:57.0,67,72,PHO,SAS,1,away,lost ball,steal,,turnover,,D. Lee,M. Chriss
 320,3,0:57.0,67,72,PHO,SAS,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ginóbili,B. Knight
 321,3,0:57.0,68,72,PHO,SAS,0,home,FreeThrow,,,make1,1,B. Knight,
 322,3,0:57.0,69,72,PHO,SAS,0,home,FreeThrow,,,make1,1,B. Knight,
-323,3,0:38.0,69,72,PHO,SAS,19,away,LostBall,steal,,turnover,,M. Ginóbili,B. Knight
+323,3,0:38.0,69,72,PHO,SAS,19,away,lost ball,steal,,turnover,,M. Ginóbili,B. Knight
 324,3,0:35.0,69,72,PHO,SAS,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Mills,B. Knight
 325,3,0:35.0,70,72,PHO,SAS,0,home,FreeThrow,,,make1,1,B. Knight,
 326,3,0:35.0,71,72,PHO,SAS,0,home,FreeThrow,,,make1,1,B. Knight,
@@ -370,11 +370,11 @@
 368,4,8:48.0,77,83,PHO,SAS,14,home,BadPass,,,turnover,,T. Chandler,
 369,4,8:36.0,77,83,PHO,SAS,12,away,JS,,18,miss2,0,K. Leonard,
 370,4,8:35.0,77,83,PHO,SAS,1,home,DefReb,,,DefReb,,T. Chandler,
-371,4,8:33.0,77,83,PHO,SAS,2,home,LostBall,steal,,turnover,,T. Chandler,K. Leonard
+371,4,8:33.0,77,83,PHO,SAS,2,home,lost ball,steal,,turnover,,T. Chandler,K. Leonard
 372,4,8:28.0,77,85,PHO,SAS,5,away,JS,,4,make2,2,K. Leonard,
 373,4,8:24.0,77,85,PHO,SAS,4,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,P. Tucker,J. Simmons
 374,4,8:24.0,77,85,PHO,SAS,0,home,OffensiveFoul,,,turnover,,P. Tucker,
-375,4,8:11.0,77,85,PHO,SAS,13,away,BadPass,steal,,turnover,,P. Gasol,B. Knight
+375,4,8:11.0,77,85,PHO,SAS,13,away,bad pass,steal,,turnover,,P. Gasol,B. Knight
 376,4,8:01.0,77,85,PHO,SAS,10,home,JS,,5,miss2,0,D. Booker,
 377,4,7:59.0,77,85,PHO,SAS,2,home,OffReb,,,OffReb,,D. Booker,
 378,4,7:59.0,77,85,PHO,SAS,0,home,LU,,3,miss2,0,D. Booker,
@@ -407,7 +407,7 @@
 405,4,5:06.0,80,95,PHO,SAS,0,away,FreeThrow,,,make1,1,K. Anderson,
 406,4,4:58.0,80,95,PHO,SAS,8,home,JS,,26,miss3,0,E. Bledsoe,
 407,4,4:57.0,80,95,PHO,SAS,1,away,DefReb,,,DefReb,,D. Lee,
-408,4,4:41.0,80,95,PHO,SAS,16,away,BadPass,steal,,turnover,,J. Simmons,T. Chandler
+408,4,4:41.0,80,95,PHO,SAS,16,away,bad pass,steal,,turnover,,J. Simmons,T. Chandler
 409,4,4:35.0,80,95,PHO,SAS,6,home,JS,,23,miss3,0,D. Booker,
 410,4,4:35.0,80,95,PHO,SAS,0,away,DefReb,,,DefReb,,D. Lee,
 411,4,4:19.0,80,97,PHO,SAS,16,away,HS,,4,make2,2,L. Aldridge,

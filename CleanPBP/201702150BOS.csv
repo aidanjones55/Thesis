@@ -1,12 +1,12 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:38.0,0,0,BOS,PHI,22,home,LostBall,steal,,turnover,,A. Johnson,E. İlyasova
-1,1,11:23.0,0,0,BOS,PHI,15,away,BadPass,steal,,turnover,,G. Henderson,M. Smart
-2,1,11:08.0,0,0,BOS,PHI,15,home,BadPass,steal,,turnover,,M. Smart,G. Henderson
+0,1,11:38.0,0,0,BOS,PHI,22,home,lost ball,steal,,turnover,,A. Johnson,E. İlyasova
+1,1,11:23.0,0,0,BOS,PHI,15,away,bad pass,steal,,turnover,,G. Henderson,M. Smart
+2,1,11:08.0,0,0,BOS,PHI,15,home,bad pass,steal,,turnover,,M. Smart,G. Henderson
 3,1,11:02.0,0,2,BOS,PHI,6,away,LU,assist,3,make2,2,R. Covington,N. Noel
-4,1,10:47.0,0,2,BOS,PHI,15,home,LostBall,steal,,turnover,,A. Horford,R. Covington
+4,1,10:47.0,0,2,BOS,PHI,15,home,lost ball,steal,,turnover,,A. Horford,R. Covington
 5,1,10:34.0,0,4,BOS,PHI,13,away,JS,assist,21,make2,2,G. Henderson,N. Noel
 6,1,10:34.0,0,4,BOS,PHI,0,home,Timeout,,,,,,
-7,1,10:24.0,0,4,BOS,PHI,10,home,BadPass,steal,,turnover,,I. Thomas,T. McConnell
+7,1,10:24.0,0,4,BOS,PHI,10,home,bad pass,steal,,turnover,,I. Thomas,T. McConnell
 8,1,10:20.0,0,6,BOS,PHI,4,away,DK,,0,make2,2,N. Noel,
 9,1,10:03.0,3,6,BOS,PHI,17,home,JS,assist,25,make3,3,J. Crowder,A. Horford
 10,1,9:49.0,3,6,BOS,PHI,14,away,JS,,26,miss3,0,E. İlyasova,
@@ -16,7 +16,7 @@
 14,1,9:07.0,8,8,BOS,PHI,15,home,JS,assist,25,make3,3,I. Thomas,M. Smart
 15,1,8:40.0,8,8,BOS,PHI,27,away,JS,,12,miss2,0,E. İlyasova,
 16,1,8:39.0,8,8,BOS,PHI,1,home,DefReb,,,DefReb,,A. Horford,
-17,1,8:33.0,8,8,BOS,PHI,6,home,BadPass,steal,,turnover,,J. Crowder,R. Covington
+17,1,8:33.0,8,8,BOS,PHI,6,home,bad pass,steal,,turnover,,J. Crowder,R. Covington
 18,1,8:28.0,8,11,BOS,PHI,5,away,JS,assist,26,make3,3,R. Covington,N. Noel
 19,1,8:10.0,8,11,BOS,PHI,18,home,JS,,6,miss2,0,A. Johnson,
 20,1,8:09.0,8,11,BOS,PHI,1,home,OffReb,,,OffReb,,J. Crowder,
@@ -46,7 +46,7 @@
 44,1,6:32.0,17,14,BOS,PHI,0,home,FreeThrow,,,make1,1,A. Horford,
 45,1,6:05.0,17,14,BOS,PHI,27,away,JS,block,7,miss2,0,N. Noel,M. Smart
 46,1,6:04.0,17,14,BOS,PHI,1,home,DefReb,,,DefReb,,M. Smart,
-47,1,6:04.0,17,14,BOS,PHI,0,home,LostBall,steal,,turnover,,M. Smart,N. Noel
+47,1,6:04.0,17,14,BOS,PHI,0,home,lost ball,steal,,turnover,,M. Smart,N. Noel
 48,1,6:02.0,17,16,BOS,PHI,2,away,LU,,2,make2,2,T. McConnell,
 49,1,5:48.0,20,16,BOS,PHI,14,home,JS,,25,make3,3,I. Thomas,
 50,1,5:32.0,20,16,BOS,PHI,16,away,JS,,25,miss3,0,D. Šarić,
@@ -96,7 +96,7 @@
 94,1,1:44.0,29,25,BOS,PHI,12,away,JS,,16,miss2,0,S. Rodríguez,
 95,1,1:43.0,29,25,BOS,PHI,1,away,OffReb,,,OffReb,,J. Okafor,
 96,1,1:42.0,29,25,BOS,PHI,1,away,Traveling,,,turnover,,J. Okafor,
-97,1,1:21.0,29,25,BOS,PHI,21,home,LostBall,steal,,turnover,,K. Olynyk,T. Luwawu-Cabarrot
+97,1,1:21.0,29,25,BOS,PHI,21,home,lost ball,steal,,turnover,,K. Olynyk,T. Luwawu-Cabarrot
 98,1,1:14.0,29,27,BOS,PHI,7,away,LU,assist,1,make2,2,D. Šarić,T. Luwawu-Cabarrot
 99,1,1:00.0,29,27,BOS,PHI,14,home,LU,,2,miss2,0,G. Green,
 100,1,1:00.0,29,27,BOS,PHI,0,away,DefReb,,,DefReb,,N. Stauskas,
@@ -109,9 +109,9 @@
 107,1,0:24.0,29,29,BOS,PHI,2,away,DefReb,,,DefReb,,N. Stauskas,
 108,1,0:01.0,29,29,BOS,PHI,23,away,JS,,24,miss3,0,D. Šarić,
 109,1,0:00.0,29,29,BOS,PHI,1,away,OffReb,,,OffReb,,Team,
-110,2,11:47.0,29,29,BOS,PHI,13,away,BadPass,steal,,turnover,,N. Stauskas,M. Smart
+110,2,11:47.0,29,29,BOS,PHI,13,away,bad pass,steal,,turnover,,N. Stauskas,M. Smart
 111,2,11:33.0,31,29,BOS,PHI,14,home,LU,assist,2,make2,2,K. Olynyk,M. Smart
-112,2,11:14.0,31,29,BOS,PHI,19,away,LostBall,steal,,turnover,,T. Luwawu-Cabarrot,K. Olynyk
+112,2,11:14.0,31,29,BOS,PHI,19,away,lost ball,steal,,turnover,,T. Luwawu-Cabarrot,K. Olynyk
 113,2,11:09.0,33,29,BOS,PHI,5,home,DK,assist,0,make2,2,T. Rozier,M. Smart
 114,2,10:49.0,33,29,BOS,PHI,20,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Jerebko,T. Luwawu-Cabarrot
 115,2,10:49.0,33,29,BOS,PHI,0,away,FreeThrow,,,make1,0,T. Luwawu-Cabarrot,
@@ -142,10 +142,10 @@
 140,2,8:55.0,42,39,BOS,PHI,14,home,JS,assist,25,make3,3,J. Young,J. Jerebko
 141,2,8:49.0,42,41,BOS,PHI,6,away,LU,assist,2,make2,2,T. Luwawu-Cabarrot,S. Rodríguez
 142,2,8:49.0,42,41,BOS,PHI,0,home,Timeout,,,,,,
-143,2,8:34.0,42,41,BOS,PHI,15,home,BadPass,steal,,turnover,,T. Rozier,G. Henderson
-144,2,8:30.0,42,41,BOS,PHI,4,away,BadPass,steal,,turnover,,T. Luwawu-Cabarrot,M. Smart
+143,2,8:34.0,42,41,BOS,PHI,15,home,bad pass,steal,,turnover,,T. Rozier,G. Henderson
+144,2,8:30.0,42,41,BOS,PHI,4,away,bad pass,steal,,turnover,,T. Luwawu-Cabarrot,M. Smart
 145,2,8:23.0,44,41,BOS,PHI,7,home,LU,assist,2,make2,2,K. Olynyk,T. Rozier
-146,2,8:11.0,44,41,BOS,PHI,12,away,BadPass,steal,,turnover,,E. İlyasova,J. Young
+146,2,8:11.0,44,41,BOS,PHI,12,away,bad pass,steal,,turnover,,E. İlyasova,J. Young
 147,2,7:55.0,46,41,BOS,PHI,16,home,LU,,2,make2,2,K. Olynyk,
 148,2,7:39.0,46,41,BOS,PHI,16,away,JS,,23,miss3,0,E. İlyasova,
 149,2,7:38.0,46,41,BOS,PHI,1,home,DefReb,,,DefReb,,K. Olynyk,
@@ -182,7 +182,7 @@
 180,2,4:47.0,52,49,BOS,PHI,0,away,FreeThrow,,,make1,1,G. Henderson,
 181,2,4:47.0,52,49,BOS,PHI,0,home,Sub,,,,,A. Horford,J. Jerebko
 182,2,4:47.0,52,50,BOS,PHI,0,away,FreeThrow,,,make1,1,G. Henderson,
-183,2,4:46.0,52,50,BOS,PHI,1,home,BadPass,steal,,turnover,,A. Horford,T. McConnell
+183,2,4:46.0,52,50,BOS,PHI,1,home,bad pass,steal,,turnover,,A. Horford,T. McConnell
 184,2,4:41.0,52,52,BOS,PHI,5,away,LU,assist,2,make2,2,G. Henderson,T. McConnell
 185,2,4:16.0,52,52,BOS,PHI,25,home,JS,,18,miss2,0,J. Crowder,
 186,2,4:15.0,52,52,BOS,PHI,1,away,DefReb,,,DefReb,,T. McConnell,
@@ -198,7 +198,7 @@
 196,2,3:47.0,54,55,BOS,PHI,0,home,FreeThrow,,,make1,1,I. Thomas,
 197,2,3:29.0,54,55,BOS,PHI,18,away,JS,,15,miss2,0,G. Henderson,
 198,2,3:28.0,54,55,BOS,PHI,1,home,DefReb,,,DefReb,,J. Crowder,
-199,2,3:18.0,54,55,BOS,PHI,10,home,BadPass,steal,,turnover,,K. Olynyk,T. McConnell
+199,2,3:18.0,54,55,BOS,PHI,10,home,bad pass,steal,,turnover,,K. Olynyk,T. McConnell
 200,2,3:14.0,54,55,BOS,PHI,4,away,LU,block,2,miss2,0,T. McConnell,J. Young
 201,2,3:13.0,54,55,BOS,PHI,1,away,OffReb,,,OffReb,,R. Covington,
 202,2,3:13.0,54,57,BOS,PHI,0,away,LU,,1,make2,2,R. Covington,
@@ -235,7 +235,7 @@
 233,2,0:03.0,61,61,BOS,PHI,2,home,OffReb,,,OffReb,,K. Olynyk,
 234,2,0:01.0,61,61,BOS,PHI,2,home,JS,,26,miss3,0,J. Crowder,
 235,2,0:00.0,61,61,BOS,PHI,1,home,OffReb,,,OffReb,,Team,
-236,3,11:47.0,61,61,BOS,PHI,13,away,BadPass,steal,,turnover,,T. McConnell,M. Smart
+236,3,11:47.0,61,61,BOS,PHI,13,away,bad pass,steal,,turnover,,T. McConnell,M. Smart
 237,3,11:38.0,63,61,BOS,PHI,9,home,LU,,1,make2,2,I. Thomas,
 238,3,11:27.0,63,61,BOS,PHI,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,N. Noel
 239,3,11:14.0,63,61,BOS,PHI,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Johnson,N. Noel
@@ -245,7 +245,7 @@
 243,3,10:55.0,65,61,BOS,PHI,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,E. İlyasova,A. Horford
 244,3,10:55.0,66,61,BOS,PHI,0,home,FreeThrow,,,make1,1,A. Horford,
 245,3,10:36.0,66,63,BOS,PHI,19,away,JS,,10,make2,2,T. McConnell,
-246,3,10:18.0,66,63,BOS,PHI,18,home,BadPass,steal,,turnover,,A. Horford,T. McConnell
+246,3,10:18.0,66,63,BOS,PHI,18,home,bad pass,steal,,turnover,,A. Horford,T. McConnell
 247,3,10:10.0,66,63,BOS,PHI,8,away,BadPass,,,turnover,,G. Henderson,
 248,3,10:00.0,68,63,BOS,PHI,10,home,DK,assist,0,make2,2,A. Johnson,A. Horford
 249,3,10:00.0,68,63,BOS,PHI,0,away,Timeout,,,,,,
@@ -262,13 +262,13 @@
 260,3,8:31.0,73,65,BOS,PHI,12,away,JS,,7,make2,2,T. McConnell,
 261,3,8:15.0,73,65,BOS,PHI,16,home,JS,,23,miss3,0,M. Smart,
 262,3,8:15.0,73,65,BOS,PHI,0,away,DefReb,,,DefReb,,R. Covington,
-263,3,8:09.0,73,65,BOS,PHI,6,away,BadPass,steal,,turnover,,T. McConnell,M. Smart
-264,3,8:06.0,73,65,BOS,PHI,3,home,LostBall,steal,,turnover,,M. Smart,T. McConnell
+263,3,8:09.0,73,65,BOS,PHI,6,away,bad pass,steal,,turnover,,T. McConnell,M. Smart
+264,3,8:06.0,73,65,BOS,PHI,3,home,lost ball,steal,,turnover,,M. Smart,T. McConnell
 265,3,8:05.0,73,65,BOS,PHI,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Horford,G. Henderson
 266,3,8:05.0,73,65,BOS,PHI,0,away,Sub,,,,,N. Stauskas,G. Henderson
 267,3,7:56.0,73,65,BOS,PHI,9,away,JS,,24,miss3,0,R. Covington,
 268,3,7:55.0,73,65,BOS,PHI,1,home,DefReb,,,DefReb,,A. Johnson,
-269,3,7:47.0,73,65,BOS,PHI,8,home,LostBall,steal,,turnover,,I. Thomas,R. Covington
+269,3,7:47.0,73,65,BOS,PHI,8,home,lost ball,steal,,turnover,,I. Thomas,R. Covington
 270,3,7:27.0,73,65,BOS,PHI,20,away,JS,,25,miss3,0,D. Šarić,
 271,3,7:26.0,73,65,BOS,PHI,1,home,DefReb,,,DefReb,,I. Thomas,
 272,3,7:20.0,73,65,BOS,PHI,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Noel,J. Crowder
@@ -278,7 +278,7 @@
 276,3,7:04.0,74,67,BOS,PHI,16,away,HS,assist,5,make2,2,N. Noel,T. McConnell
 277,3,6:52.0,74,67,BOS,PHI,12,home,LU,,2,miss2,0,A. Johnson,
 278,3,6:51.0,74,67,BOS,PHI,1,away,DefReb,,,DefReb,,D. Šarić,
-279,3,6:39.0,74,67,BOS,PHI,12,away,BadPass,steal,,turnover,,D. Šarić,M. Smart
+279,3,6:39.0,74,67,BOS,PHI,12,away,bad pass,steal,,turnover,,D. Šarić,M. Smart
 280,3,6:23.0,74,67,BOS,PHI,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Noel,M. Smart
 281,3,6:23.0,75,67,BOS,PHI,0,home,FreeThrow,,,make1,1,M. Smart,
 282,3,6:23.0,75,67,BOS,PHI,0,home,FreeThrow,,,make1,0,M. Smart,
@@ -336,7 +336,7 @@
 334,3,2:18.0,83,75,BOS,PHI,13,home,LU,block,3,miss2,0,K. Olynyk,J. Okafor
 335,3,2:18.0,83,75,BOS,PHI,0,home,OffReb,,,OffReb,,Team,
 336,3,2:18.0,83,75,BOS,PHI,0,home,Sub,,,,,M. Smart,J. Crowder
-337,3,2:09.0,83,75,BOS,PHI,9,home,BadPass,steal,,turnover,,M. Smart,D. Šarić
+337,3,2:09.0,83,75,BOS,PHI,9,home,bad pass,steal,,turnover,,M. Smart,D. Šarić
 338,3,2:04.0,83,75,BOS,PHI,5,away,LU,,2,miss2,0,T. Luwawu-Cabarrot,
 339,3,2:03.0,83,75,BOS,PHI,1,home,DefReb,,,DefReb,,Team,
 340,3,2:03.0,83,75,BOS,PHI,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,T. Luwawu-Cabarrot,M. Smart
@@ -355,7 +355,7 @@
 353,3,0:07.0,87,79,BOS,PHI,1,home,DefReb,,,DefReb,,T. Zeller,
 354,3,0:01.0,87,79,BOS,PHI,6,home,JS,,11,miss2,0,J. Young,
 355,3,0:00.0,87,79,BOS,PHI,1,away,DefReb,,,DefReb,,D. Šarić,
-356,4,11:41.0,87,79,BOS,PHI,19,home,LostBall,steal,,turnover,,I. Thomas,N. Noel
+356,4,11:41.0,87,79,BOS,PHI,19,home,lost ball,steal,,turnover,,I. Thomas,N. Noel
 357,4,11:38.0,87,81,BOS,PHI,3,away,LU,assist,3,make2,2,D. Šarić,R. Covington
 358,4,11:38.0,87,81,BOS,PHI,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,D. Šarić
 359,4,11:38.0,87,82,BOS,PHI,0,away,FreeThrow,,,make1,1,D. Šarić,
@@ -385,7 +385,7 @@
 383,4,8:34.0,96,95,BOS,PHI,2,away,DefReb,,,DefReb,,S. Rodríguez,
 384,4,8:27.0,96,95,BOS,PHI,7,away,JS,,24,miss3,0,N. Stauskas,
 385,4,8:26.0,96,95,BOS,PHI,1,home,DefReb,,,DefReb,,T. Rozier,
-386,4,8:18.0,96,95,BOS,PHI,8,home,LostBall,steal,,turnover,,T. Rozier,N. Noel
+386,4,8:18.0,96,95,BOS,PHI,8,home,lost ball,steal,,turnover,,T. Rozier,N. Noel
 387,4,8:02.0,96,95,BOS,PHI,16,away,JS,,22,miss2,0,S. Rodríguez,
 388,4,8:01.0,96,95,BOS,PHI,1,away,OffReb,,,OffReb,,D. Šarić,
 389,4,7:57.0,96,95,BOS,PHI,4,away,JS,,3,miss2,0,R. Covington,
@@ -414,7 +414,7 @@
 412,4,6:29.0,99,99,BOS,PHI,1,home,DefReb,,,DefReb,,M. Smart,
 413,4,6:16.0,99,99,BOS,PHI,13,home,JS,,25,miss3,0,I. Thomas,
 414,4,6:15.0,99,99,BOS,PHI,1,away,DefReb,,,DefReb,,D. Šarić,
-415,4,5:52.0,99,99,BOS,PHI,23,away,BadPass,steal,,turnover,,S. Rodríguez,J. Crowder
+415,4,5:52.0,99,99,BOS,PHI,23,away,bad pass,steal,,turnover,,S. Rodríguez,J. Crowder
 416,4,5:42.0,101,99,BOS,PHI,10,home,LU,,2,make2,2,I. Thomas,
 417,4,5:42.0,101,99,BOS,PHI,0,away,Timeout,,,,,,
 418,4,5:42.0,101,99,BOS,PHI,0,away,Sub,,,,,T. McConnell,N. Stauskas
@@ -426,24 +426,24 @@
 424,4,5:07.0,101,99,BOS,PHI,0,home,OffensiveFoul,,,turnover,,A. Horford,
 425,4,5:07.0,101,100,BOS,PHI,0,away,FreeThrow,,,make1,1,N. Noel makes flagrant free throw 1 of 2,
 426,4,5:07.0,101,101,BOS,PHI,0,away,FreeThrow,,,make1,1,N. Noel makes flagrant free throw 2 of 2,
-427,4,4:51.0,101,101,BOS,PHI,16,away,LostBall,steal,,turnover,,N. Noel,A. Horford
+427,4,4:51.0,101,101,BOS,PHI,16,away,lost ball,steal,,turnover,,N. Noel,A. Horford
 428,4,4:36.0,103,101,BOS,PHI,15,home,LU,,3,make2,2,I. Thomas,
 429,4,4:25.0,103,101,BOS,PHI,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Crowder,N. Noel
 430,4,4:18.0,103,101,BOS,PHI,7,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,N. Noel,J. Young
 431,4,4:18.0,103,101,BOS,PHI,0,away,OffensiveFoul,,,turnover,,N. Noel,
 432,4,4:04.0,103,101,BOS,PHI,14,home,LU,block,1,miss2,0,A. Horford,R. Covington
 433,4,4:03.0,103,101,BOS,PHI,1,away,DefReb,,,DefReb,,T. McConnell,
-434,4,3:56.0,103,101,BOS,PHI,7,away,BadPass,steal,,turnover,,T. McConnell,A. Horford
+434,4,3:56.0,103,101,BOS,PHI,7,away,bad pass,steal,,turnover,,T. McConnell,A. Horford
 435,4,3:48.0,106,101,BOS,PHI,8,home,JS,assist,25,make3,3,M. Smart,J. Crowder
 436,4,3:35.0,106,101,BOS,PHI,13,away,BadPass,,,turnover,,N. Noel,
 437,4,3:35.0,106,101,BOS,PHI,0,away,Sub,,,,,N. Stauskas,R. Covington
 438,4,3:17.0,106,101,BOS,PHI,18,home,HS,,6,miss2,0,A. Horford,
 439,4,3:16.0,106,101,BOS,PHI,1,away,DefReb,,,DefReb,,N. Noel,
-440,4,3:00.0,106,101,BOS,PHI,16,away,LostBall,steal,,turnover,,N. Stauskas,M. Smart
+440,4,3:00.0,106,101,BOS,PHI,16,away,lost ball,steal,,turnover,,N. Stauskas,M. Smart
 441,4,2:55.0,108,101,BOS,PHI,5,home,LU,,1,make2,2,J. Crowder,
 442,4,2:54.0,108,101,BOS,PHI,1,away,Timeout,,,,,,
 443,4,2:47.0,108,101,BOS,PHI,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,I. Thomas,N. Stauskas
-444,4,2:36.0,108,101,BOS,PHI,11,away,LostBall,steal,,turnover,,D. Šarić,M. Smart
+444,4,2:36.0,108,101,BOS,PHI,11,away,lost ball,steal,,turnover,,D. Šarić,M. Smart
 445,4,2:19.0,108,101,BOS,PHI,17,home,LU,,2,miss2,0,I. Thomas,
 446,4,2:19.0,108,101,BOS,PHI,0,away,DefReb,,,DefReb,,D. Šarić,
 447,4,2:11.0,108,101,BOS,PHI,8,away,JS,,25,miss3,0,G. Henderson,

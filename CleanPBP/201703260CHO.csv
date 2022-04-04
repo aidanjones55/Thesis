@@ -1,6 +1,6 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:51.0,3,0,CHO,PHO,9,home,JS,assist,25,make3,3,M. Williams,K. Walker
-1,1,11:38.0,3,0,CHO,PHO,13,away,BadPass,steal,,turnover,,D. Booker,N. Batum
+1,1,11:38.0,3,0,CHO,PHO,13,away,bad pass,steal,,turnover,,D. Booker,N. Batum
 2,1,11:33.0,5,0,CHO,PHO,5,home,LU,assist,1,make2,2,M. Kidd-Gilchrist,N. Batum
 3,1,11:03.0,5,0,CHO,PHO,30,away,JS,,10,miss2,0,T. Ulis,
 4,1,11:02.0,5,0,CHO,PHO,1,home,DefReb,,,DefReb,,M. Williams,
@@ -8,7 +8,7 @@
 6,1,10:41.0,8,0,CHO,PHO,4,away,Timeout,,,,,,
 7,1,10:41.0,8,0,CHO,PHO,0,away,JS,,22,miss2,0,D. Booker,
 8,1,10:40.0,8,0,CHO,PHO,1,home,DefReb,,,DefReb,,K. Walker,
-9,1,10:37.0,8,0,CHO,PHO,3,home,BadPass,steal,,turnover,,K. Walker,T. Ulis
+9,1,10:37.0,8,0,CHO,PHO,3,home,bad pass,steal,,turnover,,K. Walker,T. Ulis
 10,1,10:31.0,8,0,CHO,PHO,6,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Walker,T. Ulis
 11,1,10:31.0,8,1,CHO,PHO,0,away,FreeThrow,,,make1,1,T. Ulis,
 12,1,10:31.0,8,1,CHO,PHO,0,away,FreeThrow,,,make1,0,T. Ulis,
@@ -18,7 +18,7 @@
 16,1,10:10.0,10,1,CHO,PHO,0,home,FreeThrow,,,make1,1,N. Batum,
 17,1,9:52.0,10,1,CHO,PHO,18,away,LostBall,,,turnover,,D. Booker,
 18,1,9:34.0,12,1,CHO,PHO,18,home,JS,assist,18,make2,2,N. Batum,M. Kidd-Gilchrist
-19,1,9:18.0,12,1,CHO,PHO,16,away,BadPass,steal,,turnover,,T. Ulis,M. Williams
+19,1,9:18.0,12,1,CHO,PHO,16,away,bad pass,steal,,turnover,,T. Ulis,M. Williams
 20,1,9:14.0,12,1,CHO,PHO,4,home,LU,block,1,miss2,0,C. Zeller,D. Booker
 21,1,9:06.0,12,1,CHO,PHO,8,home,OffReb,,,OffReb,,Team,
 22,1,8:59.0,12,1,CHO,PHO,7,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Ulis,K. Walker
@@ -45,13 +45,13 @@
 43,1,5:58.0,24,7,CHO,PHO,21,home,JS,,16,miss2,0,N. Batum,
 44,1,5:55.0,24,7,CHO,PHO,3,away,DefReb,,,DefReb,,Team,
 45,1,5:55.0,24,7,CHO,PHO,0,home,Sub,,,,,F. Kaminsky,M. Williams
-46,1,5:43.0,24,7,CHO,PHO,12,away,BadPass,steal,,turnover,,M. Chriss,C. Zeller
+46,1,5:43.0,24,7,CHO,PHO,12,away,bad pass,steal,,turnover,,M. Chriss,C. Zeller
 47,1,5:34.0,26,7,CHO,PHO,9,home,LU,assist,1,make2,2,C. Zeller,K. Walker
 48,1,5:34.0,26,7,CHO,PHO,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Booker,C. Zeller
 49,1,5:34.0,26,7,CHO,PHO,0,away,Sub,,,,,J. Dudley,M. Chriss
 50,1,5:34.0,26,7,CHO,PHO,0,home,Sub,,,,,M. Belinelli,N. Batum
 51,1,5:34.0,27,7,CHO,PHO,0,home,FreeThrow,,,make1,1,C. Zeller,
-52,1,5:15.0,27,7,CHO,PHO,19,away,BadPass,steal,,turnover,,J. Dudley,C. Zeller
+52,1,5:15.0,27,7,CHO,PHO,19,away,bad pass,steal,,turnover,,J. Dudley,C. Zeller
 53,1,5:05.0,30,7,CHO,PHO,10,home,JS,assist,24,make3,3,K. Walker,C. Zeller
 54,1,4:56.0,30,7,CHO,PHO,9,away,JS,,20,miss2,0,T. Ulis,
 55,1,4:55.0,30,7,CHO,PHO,1,home,DefReb,,,DefReb,,F. Kaminsky,
@@ -95,8 +95,8 @@
 93,1,0:34.0,36,16,CHO,PHO,7,home,JS,,16,miss2,0,B. Weber,
 94,1,0:33.0,36,16,CHO,PHO,1,home,OffReb,,,OffReb,,M. Kidd-Gilchrist,
 95,1,0:33.0,38,16,CHO,PHO,0,home,LU,,1,make2,2,M. Kidd-Gilchrist,
-96,1,0:25.0,38,16,CHO,PHO,8,away,LostBall,steal,,turnover,,D. Jones,B. Weber
-97,1,0:07.0,38,16,CHO,PHO,18,home,BadPass,steal,,turnover,,F. Kaminsky,T. Warren
+96,1,0:25.0,38,16,CHO,PHO,8,away,lost ball,steal,,turnover,,D. Jones,B. Weber
+97,1,0:07.0,38,16,CHO,PHO,18,home,bad pass,steal,,turnover,,F. Kaminsky,T. Warren
 98,1,0:04.0,38,18,CHO,PHO,3,away,LU,,2,make2,2,T. Warren,
 99,1,0:00.0,38,18,CHO,PHO,4,home,JS,,19,miss2,0,M. Kidd-Gilchrist,
 100,1,0:00.0,38,18,CHO,PHO,0,home,OffReb,,,OffReb,,Team,
@@ -147,7 +147,7 @@
 145,2,6:15.0,48,34,CHO,PHO,0,home,Sub,,,,,M. Kidd-Gilchrist,J. Lamb
 146,2,6:15.0,48,34,CHO,PHO,0,away,Sub,,,,,D. Booker,D. Jones
 147,2,6:05.0,48,34,CHO,PHO,10,away,BadPass,,,turnover,,J. Dudley,
-148,2,5:50.0,48,34,CHO,PHO,15,home,BadPass,steal,,turnover,,N. Batum,A. Williams
+148,2,5:50.0,48,34,CHO,PHO,15,home,bad pass,steal,,turnover,,N. Batum,A. Williams
 149,2,5:43.0,48,34,CHO,PHO,7,away,JS,,24,miss3,0,T. Ulis,
 150,2,5:41.0,48,34,CHO,PHO,2,home,DefReb,,,DefReb,,N. Batum,
 151,2,5:34.0,48,34,CHO,PHO,7,home,LU,,1,miss2,0,M. Kidd-Gilchrist,
@@ -162,7 +162,7 @@
 160,2,3:58.0,54,39,CHO,PHO,0,home,Sub,,,,,M. Williams,F. Kaminsky
 161,2,3:43.0,54,39,CHO,PHO,15,home,JS,,25,miss3,0,N. Batum,
 162,2,3:42.0,54,39,CHO,PHO,1,away,DefReb,,,DefReb,,A. Williams,
-163,2,3:36.0,54,39,CHO,PHO,6,away,BadPass,steal,,turnover,,J. Dudley,C. Zeller
+163,2,3:36.0,54,39,CHO,PHO,6,away,bad pass,steal,,turnover,,J. Dudley,C. Zeller
 164,2,3:17.0,54,39,CHO,PHO,19,home,DK,,0,miss2,0,M. Kidd-Gilchrist,
 165,2,3:16.0,54,39,CHO,PHO,1,away,DefReb,,,DefReb,,J. Dudley,
 166,2,3:09.0,54,39,CHO,PHO,7,away,JS,,24,miss3,0,J. Dudley,
@@ -178,8 +178,8 @@
 176,2,2:29.0,58,39,CHO,PHO,0,home,FreeThrow,,,make1,1,M. Williams,
 177,2,2:29.0,59,39,CHO,PHO,0,home,FreeThrow,,,make1,1,M. Williams,
 178,2,2:16.0,59,41,CHO,PHO,13,away,JS,assist,15,make2,2,D. Booker,D. Jones
-179,2,1:52.0,59,41,CHO,PHO,24,home,BadPass,steal,,turnover,,N. Batum,T. Warren
-180,2,1:49.0,59,41,CHO,PHO,3,away,LostBall,steal,,turnover,,D. Booker,C. Zeller
+179,2,1:52.0,59,41,CHO,PHO,24,home,bad pass,steal,,turnover,,N. Batum,T. Warren
+180,2,1:49.0,59,41,CHO,PHO,3,away,lost ball,steal,,turnover,,D. Booker,C. Zeller
 181,2,1:43.0,61,41,CHO,PHO,6,home,DK,assist,0,make2,2,C. Zeller,N. Batum
 182,2,1:33.0,61,41,CHO,PHO,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Williams,D. Booker
 183,2,1:33.0,61,42,CHO,PHO,0,away,FreeThrow,,,make1,1,D. Booker,
@@ -341,7 +341,7 @@
 339,4,8:00.0,100,90,CHO,PHO,1,away,DefReb,,,DefReb,,A. Williams,
 340,4,7:42.0,100,90,CHO,PHO,18,away,JS,,16,miss2,0,T. Warren,
 341,4,7:41.0,100,90,CHO,PHO,1,home,DefReb,,,DefReb,,N. Batum,
-342,4,7:30.0,100,90,CHO,PHO,11,home,BadPass,steal,,turnover,,N. Batum,T. Warren
+342,4,7:30.0,100,90,CHO,PHO,11,home,bad pass,steal,,turnover,,N. Batum,T. Warren
 343,4,7:24.0,100,92,CHO,PHO,6,away,LU,assist,1,make2,2,T. Warren,J. Dudley
 344,4,6:56.0,103,92,CHO,PHO,28,home,JS,assist,25,make3,3,M. Williams,K. Walker
 345,4,6:39.0,103,94,CHO,PHO,17,away,LU,assist,1,make2,2,A. Williams,T. Ulis
@@ -350,7 +350,7 @@
 348,4,6:06.0,103,94,CHO,PHO,16,away,JS,,16,miss2,0,T. Ulis,
 349,4,6:06.0,103,94,CHO,PHO,0,home,DefReb,,,DefReb,,Team,
 350,4,6:06.0,103,94,CHO,PHO,0,home,Sub,,,,,C. Zeller,M. Williams
-351,4,5:52.0,103,94,CHO,PHO,14,home,BadPass,steal,,turnover,,C. Zeller,T. Warren
+351,4,5:52.0,103,94,CHO,PHO,14,home,bad pass,steal,,turnover,,C. Zeller,T. Warren
 352,4,5:51.0,103,94,CHO,PHO,1,away,PersonalFoul,,,,,F. Kaminsky,
 353,4,5:51.0,103,94,CHO,PHO,0,away,Timeout,,,,,,
 354,4,5:40.0,103,97,CHO,PHO,11,away,JS,assist,26,make3,3,J. Dudley,T. Ulis
@@ -379,7 +379,7 @@
 377,4,2:57.0,112,101,CHO,PHO,1,home,DefReb,,,DefReb,,K. Walker,
 378,4,2:52.0,114,101,CHO,PHO,5,home,LU,assist,1,make2,2,C. Zeller,K. Walker
 379,4,2:52.0,114,101,CHO,PHO,0,away,Timeout,,,,,,
-380,4,2:35.0,114,101,CHO,PHO,17,away,LostBall,steal,,turnover,,M. Chriss,M. Kidd-Gilchrist
+380,4,2:35.0,114,101,CHO,PHO,17,away,lost ball,steal,,turnover,,M. Chriss,M. Kidd-Gilchrist
 381,4,2:12.0,116,101,CHO,PHO,23,home,LU,assist,2,make2,2,M. Williams,N. Batum
 382,4,1:56.0,116,101,CHO,PHO,16,away,HS,,5,miss2,0,A. Williams,
 383,4,1:53.0,116,101,CHO,PHO,3,home,DefReb,,,DefReb,,N. Batum,

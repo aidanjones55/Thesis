@@ -19,8 +19,8 @@
 17,1,9:22.0,9,0,LAC,LAL,2,home,DefReb,,,DefReb,,D. Jordan,
 18,1,9:11.0,11,0,LAC,LAL,11,home,DK,assist,2,make2,2,D. Jordan,C. Paul
 19,1,9:11.0,11,0,LAC,LAL,0,away,Timeout,,,,,,
-20,1,9:00.0,11,0,LAC,LAL,11,away,LostBall,steal,,turnover,,D. Russell,D. Jordan
-21,1,8:55.0,11,0,LAC,LAL,5,home,BadPass,steal,,turnover,,C. Paul,D. Russell
+20,1,9:00.0,11,0,LAC,LAL,11,away,lost ball,steal,,turnover,,D. Russell,D. Jordan
+21,1,8:55.0,11,0,LAC,LAL,5,home,bad pass,steal,,turnover,,C. Paul,D. Russell
 22,1,8:51.0,11,0,LAC,LAL,4,away,LU,block,2,miss2,0,J. Randle,L. Mbah a Moute
 23,1,8:49.0,11,0,LAC,LAL,2,home,DefReb,,,DefReb,,B. Griffin,
 24,1,8:43.0,14,0,LAC,LAL,6,home,JS,assist,23,make3,3,J. Redick,C. Paul
@@ -40,7 +40,7 @@
 38,1,6:54.0,17,2,LAC,LAL,2,away,OffReb,,,OffReb,,T. Robinson,
 39,1,6:50.0,17,2,LAC,LAL,4,away,JS,,18,miss2,0,T. Robinson,
 40,1,6:50.0,17,2,LAC,LAL,0,home,DefReb,,,DefReb,,Team,
-41,1,6:50.0,17,2,LAC,LAL,0,home,BadPass,steal,,turnover,,D. Jordan,L. Nance
+41,1,6:50.0,17,2,LAC,LAL,0,home,bad pass,steal,,turnover,,D. Jordan,L. Nance
 42,1,6:40.0,17,4,LAC,LAL,10,away,JS,assist,5,make2,2,J. Clarkson,B. Ingram
 43,1,6:29.0,17,4,LAC,LAL,11,home,LU,,1,miss2,0,L. Mbah a Moute,
 44,1,6:28.0,17,4,LAC,LAL,1,home,OffReb,,,OffReb,,D. Jordan,
@@ -62,10 +62,10 @@
 60,1,5:27.0,19,8,LAC,LAL,12,away,JS,,14,miss2,0,L. Nance,
 61,1,5:26.0,19,8,LAC,LAL,1,away,OffReb,,,OffReb,,T. Robinson,
 62,1,5:26.0,19,10,LAC,LAL,0,away,LU,,1,make2,2,T. Robinson,
-63,1,5:12.0,19,10,LAC,LAL,14,home,BadPass,steal,,turnover,,B. Griffin,D. Russell
+63,1,5:12.0,19,10,LAC,LAL,14,home,bad pass,steal,,turnover,,B. Griffin,D. Russell
 64,1,5:08.0,19,12,LAC,LAL,4,away,DK,assist,0,make2,2,J. Clarkson,D. Russell
 65,1,5:08.0,19,12,LAC,LAL,0,home,Timeout,,,,,,
-66,1,4:54.0,19,12,LAC,LAL,14,home,BadPass,steal,,turnover,,C. Paul,L. Nance
+66,1,4:54.0,19,12,LAC,LAL,14,home,bad pass,steal,,turnover,,C. Paul,L. Nance
 67,1,4:49.0,19,14,LAC,LAL,5,away,LU,,1,make2,2,B. Ingram,
 68,1,4:49.0,19,14,LAC,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. Mbah a Moute,B. Ingram
 69,1,4:49.0,19,14,LAC,LAL,0,away,FreeThrow,,,make1,0,B. Ingram,
@@ -85,11 +85,11 @@
 83,1,4:11.0,19,17,LAC,LAL,0,away,Sub,,,,,D. Nwaba,B. Ingram
 84,1,4:11.0,19,18,LAC,LAL,0,away,FreeThrow,,,make1,1,T. Robinson,
 85,1,3:59.0,22,18,LAC,LAL,12,home,JS,assist,25,make3,3,J. Redick,C. Paul
-86,1,3:48.0,22,18,LAC,LAL,11,away,BadPass,steal,,turnover,,T. Robinson,D. Jordan
+86,1,3:48.0,22,18,LAC,LAL,11,away,bad pass,steal,,turnover,,T. Robinson,D. Jordan
 87,1,3:41.0,22,18,LAC,LAL,7,home,OutOfBounds,,,turnover,,J. Redick,
 88,1,3:41.0,22,18,LAC,LAL,0,home,Sub,,,,,R. Felton,C. Paul
 89,1,3:41.0,22,18,LAC,LAL,0,home,Sub,,,,,B. Bass,B. Griffin
-90,1,3:26.0,22,18,LAC,LAL,15,away,LostBall,steal,,turnover,,D. Nwaba,R. Felton
+90,1,3:26.0,22,18,LAC,LAL,15,away,lost ball,steal,,turnover,,D. Nwaba,R. Felton
 91,1,3:13.0,22,18,LAC,LAL,13,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Black,B. Bass
 92,1,3:13.0,23,18,LAC,LAL,0,home,FreeThrow,,,make1,1,B. Bass,
 93,1,3:13.0,24,18,LAC,LAL,0,home,FreeThrow,,,make1,1,B. Bass,
@@ -100,7 +100,7 @@
 98,1,2:17.0,26,21,LAC,LAL,24,home,JS,,17,make2,2,R. Felton,
 99,1,2:00.0,26,21,LAC,LAL,17,away,JS,,27,miss3,0,J. Clarkson,
 100,1,1:59.0,26,21,LAC,LAL,1,home,DefReb,,,DefReb,,B. Bass,
-101,1,1:48.0,26,21,LAC,LAL,11,home,BadPass,steal,,turnover,,J. Crawford,T. Robinson
+101,1,1:48.0,26,21,LAC,LAL,11,home,bad pass,steal,,turnover,,J. Crawford,T. Robinson
 102,1,1:37.0,26,21,LAC,LAL,11,away,JS,,12,miss2,0,T. Robinson,
 103,1,1:34.0,26,21,LAC,LAL,3,home,DefReb,,,DefReb,,R. Felton,
 104,1,1:16.0,26,21,LAC,LAL,18,home,JS,,26,miss3,0,J. Crawford,
@@ -128,7 +128,7 @@
 126,2,11:40.0,28,22,LAC,LAL,6,home,JS,,17,miss2,0,J. Crawford,
 127,2,11:36.0,28,22,LAC,LAL,4,away,DefReb,,,DefReb,,T. Ennis,
 128,2,11:29.0,28,22,LAC,LAL,7,away,BackCourtTurnover,,,turnover,,Team,
-129,2,11:20.0,28,22,LAC,LAL,9,home,LostBall,steal,,turnover,,J. Crawford,T. Black
+129,2,11:20.0,28,22,LAC,LAL,9,home,lost ball,steal,,turnover,,J. Crawford,T. Black
 130,2,11:17.0,28,24,LAC,LAL,3,away,DK,,0,make2,2,D. Nwaba,
 131,2,11:01.0,28,24,LAC,LAL,16,home,JS,,15,miss2,0,A. Anderson,
 132,2,10:59.0,28,24,LAC,LAL,2,away,DefReb,,,DefReb,,J. Randle,
@@ -151,7 +151,7 @@
 149,2,9:27.0,31,30,LAC,LAL,1,away,DefReb,,,DefReb,,T. Black,
 150,2,9:18.0,31,32,LAC,LAL,9,away,JS,,8,make2,2,C. Brewer,
 151,2,8:49.0,33,32,LAC,LAL,29,home,JS,,23,make2,2,B. Griffin,
-152,2,8:35.0,33,32,LAC,LAL,14,away,BadPass,steal,,turnover,,T. Ennis,J. Crawford
+152,2,8:35.0,33,32,LAC,LAL,14,away,bad pass,steal,,turnover,,T. Ennis,J. Crawford
 153,2,8:31.0,33,32,LAC,LAL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Nwaba,J. Crawford
 154,2,8:31.0,33,32,LAC,LAL,0,away,Timeout,,,,,,
 155,2,8:31.0,34,32,LAC,LAL,0,home,FreeThrow,,,make1,1,J. Crawford,
@@ -211,14 +211,14 @@
 209,2,4:38.0,44,37,LAC,LAL,0,home,FreeThrow,,,make1,1,C. Paul,
 210,2,4:26.0,44,37,LAC,LAL,12,away,JS,,24,miss3,0,D. Nwaba,
 211,2,4:25.0,44,37,LAC,LAL,1,away,OffReb,,,OffReb,,L. Nance,
-212,2,4:14.0,44,37,LAC,LAL,11,away,BadPass,steal,,turnover,,D. Russell,C. Paul
+212,2,4:14.0,44,37,LAC,LAL,11,away,bad pass,steal,,turnover,,D. Russell,C. Paul
 213,2,4:11.0,44,37,LAC,LAL,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Clarkson,D. Jordan
 214,2,4:11.0,45,37,LAC,LAL,0,home,FreeThrow,,,make1,1,D. Jordan,
 215,2,4:11.0,45,37,LAC,LAL,0,home,Sub,,,,,J. Crawford,L. Mbah a Moute
 216,2,4:11.0,46,37,LAC,LAL,0,home,FreeThrow,,,make1,1,D. Jordan,
 217,2,4:02.0,46,37,LAC,LAL,9,away,JS,,8,miss2,0,J. Clarkson,
 218,2,3:59.0,46,37,LAC,LAL,3,home,DefReb,,,DefReb,,C. Paul,
-219,2,3:53.0,46,37,LAC,LAL,6,home,BadPass,steal,,turnover,,B. Griffin,D. Nwaba
+219,2,3:53.0,46,37,LAC,LAL,6,home,bad pass,steal,,turnover,,B. Griffin,D. Nwaba
 220,2,3:49.0,46,39,LAC,LAL,4,away,LU,assist,4,make2,2,J. Randle,D. Russell
 221,2,3:49.0,46,39,LAC,LAL,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Redick,J. Randle
 222,2,3:49.0,46,40,LAC,LAL,0,away,FreeThrow,,,make1,1,J. Randle,
@@ -233,7 +233,7 @@
 231,2,1:33.0,53,47,LAC,LAL,21,home,JS,assist,19,make2,2,B. Griffin,J. Crawford
 232,2,1:13.0,53,47,LAC,LAL,20,away,JS,,26,miss3,0,D. Russell,
 233,2,1:13.0,53,47,LAC,LAL,0,home,DefReb,,,DefReb,,Team,
-234,2,1:01.0,53,47,LAC,LAL,12,home,BadPass,steal,,turnover,,C. Paul,J. Randle
+234,2,1:01.0,53,47,LAC,LAL,12,home,bad pass,steal,,turnover,,C. Paul,J. Randle
 235,2,1:01.0,53,47,LAC,LAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,C. Paul,D. Nwaba
 236,2,1:01.0,53,47,LAC,LAL,0,away,FreeThrow,,,make1,0,D. Nwaba,
 237,2,1:01.0,53,47,LAC,LAL,0,away,OffReb,,,OffReb,,Team,
@@ -266,7 +266,7 @@
 264,3,8:37.0,65,57,LAC,LAL,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Ingram,D. Jordan
 265,3,8:30.0,65,57,LAC,LAL,7,home,JS,,18,miss2,0,C. Paul,
 266,3,8:29.0,65,57,LAC,LAL,1,away,DefReb,,,DefReb,,B. Ingram,
-267,3,8:14.0,65,57,LAC,LAL,15,away,BadPass,steal,,turnover,,L. Nance,J. Redick
+267,3,8:14.0,65,57,LAC,LAL,15,away,bad pass,steal,,turnover,,L. Nance,J. Redick
 268,3,7:57.0,65,57,LAC,LAL,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,L. Nance,C. Paul
 269,3,7:57.0,65,57,LAC,LAL,0,away,Sub,,,,,D. Nwaba,B. Ingram
 270,3,7:48.0,65,57,LAC,LAL,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Nance,D. Jordan
@@ -277,7 +277,7 @@
 275,3,7:34.0,66,57,LAC,LAL,1,home,DefReb,,,DefReb,,D. Jordan,
 276,3,7:27.0,66,57,LAC,LAL,7,away,KickBallViolation,,,KickBallViolation,,J. Randle,
 277,3,7:26.0,66,57,LAC,LAL,1,home,BadPass,,,turnover,,J. Redick,
-278,3,7:10.0,66,57,LAC,LAL,16,away,LostBall,steal,,turnover,,J. Randle,B. Griffin
+278,3,7:10.0,66,57,LAC,LAL,16,away,lost ball,steal,,turnover,,J. Randle,B. Griffin
 279,3,6:56.0,68,57,LAC,LAL,14,home,JS,assist,9,make2,2,J. Redick,B. Griffin
 280,3,6:56.0,68,57,LAC,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Clarkson,J. Redick
 281,3,6:56.0,68,57,LAC,LAL,0,away,Timeout,,,,,,
@@ -342,7 +342,7 @@
 340,3,0:55.0,91,69,LAC,LAL,0,home,FreeThrow,,,make1,1,C. Paul,
 341,3,0:35.0,91,69,LAC,LAL,20,away,Traveling,,,turnover,,T. Black,
 342,3,0:35.0,91,69,LAC,LAL,0,home,Sub,,,,,A. Anderson,C. Paul
-343,3,0:34.0,91,69,LAC,LAL,1,home,BadPass,steal,,turnover,,D. Jordan,C. Brewer
+343,3,0:34.0,91,69,LAC,LAL,1,home,bad pass,steal,,turnover,,D. Jordan,C. Brewer
 344,3,0:29.0,91,72,LAC,LAL,5,away,JS,assist,26,make3,3,T. Ennis,T. Robinson
 345,3,0:04.0,91,72,LAC,LAL,25,home,JS,,24,miss3,0,A. Anderson,
 346,3,0:04.0,91,72,LAC,LAL,0,home,OffReb,,,OffReb,,B. Bass,
@@ -360,7 +360,7 @@
 358,4,10:48.0,93,74,LAC,LAL,3,away,OffReb,,,OffReb,,D. Nwaba,
 359,4,10:45.0,93,76,LAC,LAL,3,away,LU,,2,make2,2,D. Nwaba,
 360,4,10:45.0,93,76,LAC,LAL,0,home,Timeout,,,,,,
-361,4,10:26.0,93,76,LAC,LAL,19,home,BadPass,steal,,turnover,,R. Felton,B. Ingram
+361,4,10:26.0,93,76,LAC,LAL,19,home,bad pass,steal,,turnover,,R. Felton,B. Ingram
 362,4,10:26.0,93,76,LAC,LAL,0,away,ClearPathFoul,,,ClearPathFoul,,A. Anderson,
 363,4,10:26.0,93,77,LAC,LAL,0,away,FreeThrow,,,make1,1,B. Ingram makes clear path free throw 1 of 2,
 364,4,10:26.0,93,77,LAC,LAL,0,home,Sub,,,,,J. Redick,A. Anderson
@@ -371,7 +371,7 @@
 369,4,10:19.0,93,79,LAC,LAL,0,away,FreeThrow,,,make1,0,B. Ingram,
 370,4,10:17.0,93,79,LAC,LAL,2,home,DefReb,,,DefReb,,M. Speights,
 371,4,10:06.0,93,79,LAC,LAL,11,away,KickBallViolation,,,KickBallViolation,,D. Nwaba,
-372,4,10:03.0,93,79,LAC,LAL,3,home,BadPass,steal,,turnover,,J. Redick,T. Ennis
+372,4,10:03.0,93,79,LAC,LAL,3,home,bad pass,steal,,turnover,,J. Redick,T. Ennis
 373,4,10:03.0,93,79,LAC,LAL,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,B. Griffin,T. Ennis
 374,4,9:59.0,93,79,LAC,LAL,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Speights,T. Black
 375,4,9:49.0,93,81,LAC,LAL,10,away,JS,,22,make2,2,B. Ingram,
@@ -390,7 +390,7 @@
 388,4,8:34.0,97,81,LAC,LAL,13,away,JS,,20,miss2,0,B. Ingram,
 389,4,8:32.0,97,81,LAC,LAL,2,away,OffReb,,,OffReb,,B. Ingram,
 390,4,8:20.0,97,84,LAC,LAL,12,away,JS,assist,27,make3,3,T. Ennis,B. Ingram
-391,4,8:06.0,97,84,LAC,LAL,14,home,BadPass,steal,,turnover,,C. Paul,D. Nwaba
+391,4,8:06.0,97,84,LAC,LAL,14,home,bad pass,steal,,turnover,,C. Paul,D. Nwaba
 392,4,7:57.0,97,86,LAC,LAL,9,away,HS,assist,6,make2,2,T. Robinson,T. Ennis
 393,4,7:35.0,100,86,LAC,LAL,22,home,JS,assist,29,make3,3,B. Griffin,J. Redick
 394,4,7:19.0,100,88,LAC,LAL,16,away,JS,assist,21,make2,2,B. Ingram,D. Nwaba
@@ -438,7 +438,7 @@
 436,4,2:01.0,111,100,LAC,LAL,15,home,BadPass,,,turnover,,C. Paul,
 437,4,1:53.0,111,102,LAC,LAL,8,away,JS,,10,make2,2,D. Russell,
 438,4,1:36.0,113,102,LAC,LAL,17,home,JS,,17,make2,2,C. Paul,
-439,4,1:26.0,113,102,LAC,LAL,10,away,BadPass,steal,,turnover,,D. Russell,D. Jordan
+439,4,1:26.0,113,102,LAC,LAL,10,away,bad pass,steal,,turnover,,D. Russell,D. Jordan
 440,4,1:08.0,115,102,LAC,LAL,18,home,JS,,15,make2,2,C. Paul,
 441,4,0:59.0,115,102,LAC,LAL,9,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Redick,D. Nwaba
 442,4,0:59.0,115,103,LAC,LAL,0,away,FreeThrow,,,make1,1,D. Nwaba,

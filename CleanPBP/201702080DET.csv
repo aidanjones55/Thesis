@@ -55,7 +55,7 @@
 53,1,5:41.0,13,18,DET,LAL,1,home,OffReb,,,OffReb,,A. Drummond,
 54,1,5:38.0,13,18,DET,LAL,3,home,LU,,0,miss2,0,A. Drummond,
 55,1,5:37.0,13,18,DET,LAL,1,away,DefReb,,,DefReb,,J. Randle,
-56,1,5:31.0,13,18,DET,LAL,6,away,LostBall,steal,,turnover,,J. Randle,A. Drummond
+56,1,5:31.0,13,18,DET,LAL,6,away,lost ball,steal,,turnover,,J. Randle,A. Drummond
 57,1,5:27.0,13,18,DET,LAL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,B. Ingram,R. Jackson
 58,1,5:27.0,13,18,DET,LAL,0,home,Sub,,,,,T. Harris,J. Leuer
 59,1,5:18.0,13,18,DET,LAL,9,home,HS,,6,miss2,0,A. Drummond,
@@ -82,7 +82,7 @@
 80,1,3:37.0,18,21,DET,LAL,0,home,Sub,,,,,I. Smith,R. Jackson
 81,1,3:24.0,18,21,DET,LAL,13,home,LU,,0,miss2,0,A. Drummond,
 82,1,3:24.0,18,21,DET,LAL,0,away,DefReb,,,DefReb,,L. Nance,
-83,1,3:16.0,18,21,DET,LAL,8,away,BadPass,steal,,turnover,,L. Nance,M. Morris
+83,1,3:16.0,18,21,DET,LAL,8,away,bad pass,steal,,turnover,,L. Nance,M. Morris
 84,1,3:09.0,18,21,DET,LAL,7,home,LU,,2,miss2,0,M. Morris,
 85,1,3:09.0,18,21,DET,LAL,0,away,DefReb,,,DefReb,,I. Zubac,
 86,1,2:58.0,18,21,DET,LAL,11,away,JS,,25,miss3,0,L. Deng,
@@ -91,7 +91,7 @@
 89,1,2:48.0,18,21,DET,LAL,1,away,DefReb,,,DefReb,,L. Nance,
 90,1,2:26.0,18,21,DET,LAL,22,away,JS,,26,miss3,0,N. Young,
 91,1,2:25.0,18,21,DET,LAL,1,home,DefReb,,,DefReb,,T. Harris,
-92,1,2:23.0,18,21,DET,LAL,2,home,LostBall,steal,,turnover,,I. Smith,J. Clarkson
+92,1,2:23.0,18,21,DET,LAL,2,home,lost ball,steal,,turnover,,I. Smith,J. Clarkson
 93,1,2:08.0,18,21,DET,LAL,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Caldwell-Pope,N. Young
 94,1,2:08.0,18,22,DET,LAL,0,away,FreeThrow,,,make1,1,N. Young,
 95,1,2:08.0,18,22,DET,LAL,0,away,FreeThrow,,,make1,0,N. Young,
@@ -103,7 +103,7 @@
 101,1,1:41.0,18,22,DET,LAL,17,away,JS,,18,miss2,0,J. Clarkson,
 102,1,1:40.0,18,22,DET,LAL,1,home,DefReb,,,DefReb,,A. Baynes,
 103,1,1:33.0,21,22,DET,LAL,7,home,JS,,26,make3,3,K. Caldwell-Pope,
-104,1,1:23.0,21,22,DET,LAL,10,away,LostBall,steal,,turnover,,J. Clarkson,I. Smith
+104,1,1:23.0,21,22,DET,LAL,10,away,lost ball,steal,,turnover,,J. Clarkson,I. Smith
 105,1,1:19.0,21,22,DET,LAL,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Deng,T. Harris
 106,1,1:19.0,21,22,DET,LAL,0,home,FreeThrow,,,make1,0,T. Harris,
 107,1,1:19.0,21,22,DET,LAL,0,home,OffReb,,,OffReb,,Team,
@@ -118,7 +118,7 @@
 116,1,0:00.0,25,24,DET,LAL,0,away,FreeThrow,,,make1,0,I. Zubac,
 117,1,0:00.0,25,24,DET,LAL,0,away,OffReb,,,OffReb,,Team,
 118,1,0:00.0,25,25,DET,LAL,0,away,FreeThrow,,,make1,1,I. Zubac,
-119,2,11:46.0,25,25,DET,LAL,14,away,LostBall,steal,,turnover,,L. Nance,I. Smith
+119,2,11:46.0,25,25,DET,LAL,14,away,lost ball,steal,,turnover,,L. Nance,I. Smith
 120,2,11:30.0,25,25,DET,LAL,16,home,HS,,5,miss2,0,A. Baynes,
 121,2,11:29.0,25,25,DET,LAL,1,away,DefReb,,,DefReb,,L. Deng,
 122,2,11:26.0,25,25,DET,LAL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,S. Johnson,L. Williams
@@ -142,11 +142,11 @@
 140,2,9:48.0,31,30,DET,LAL,0,away,OffReb,,,OffReb,,Team,
 141,2,9:48.0,31,31,DET,LAL,0,away,FreeThrow,,,make1,1,J. Clarkson,
 142,2,9:34.0,33,31,DET,LAL,14,home,DK,assist,0,make2,2,J. Leuer,I. Smith
-143,2,9:25.0,33,31,DET,LAL,9,away,BadPass,steal,,turnover,,L. Williams,J. Leuer
-144,2,9:21.0,33,31,DET,LAL,4,home,BadPass,steal,,turnover,,I. Smith,L. Williams
+143,2,9:25.0,33,31,DET,LAL,9,away,bad pass,steal,,turnover,,L. Williams,J. Leuer
+144,2,9:21.0,33,31,DET,LAL,4,home,bad pass,steal,,turnover,,I. Smith,L. Williams
 145,2,9:14.0,33,31,DET,LAL,7,away,JS,,5,miss2,0,J. Clarkson,
 146,2,9:13.0,33,31,DET,LAL,1,home,DefReb,,,DefReb,,A. Baynes,
-147,2,9:09.0,33,31,DET,LAL,4,home,LostBall,steal,,turnover,,I. Smith,J. Clarkson
+147,2,9:09.0,33,31,DET,LAL,4,home,lost ball,steal,,turnover,,I. Smith,J. Clarkson
 148,2,9:03.0,33,33,DET,LAL,6,away,LU,,0,make2,2,J. Clarkson,
 149,2,8:55.0,33,33,DET,LAL,8,home,Timeout,,,,,,
 150,2,8:49.0,33,33,DET,LAL,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Clarkson,S. Johnson
@@ -158,7 +158,7 @@
 156,2,8:03.0,36,35,DET,LAL,10,away,JS,,7,miss2,0,I. Zubac,
 157,2,8:02.0,36,35,DET,LAL,1,home,DefReb,,,DefReb,,S. Johnson,
 158,2,7:54.0,38,35,DET,LAL,8,home,JS,,19,make2,2,S. Johnson,
-159,2,7:39.0,38,35,DET,LAL,15,away,BadPass,steal,,turnover,,L. Nance,T. Harris
+159,2,7:39.0,38,35,DET,LAL,15,away,bad pass,steal,,turnover,,L. Nance,T. Harris
 160,2,7:25.0,40,35,DET,LAL,14,home,JS,assist,17,make2,2,A. Baynes,S. Johnson
 161,2,7:05.0,40,37,DET,LAL,20,away,HS,assist,7,make2,2,I. Zubac,L. Williams
 162,2,6:49.0,42,37,DET,LAL,16,home,LU,assist,0,make2,2,A. Baynes,S. Johnson
@@ -205,7 +205,7 @@
 203,2,4:01.0,48,41,DET,LAL,1,away,DefReb,,,DefReb,,D. Russell,
 204,2,3:43.0,48,41,DET,LAL,18,away,JS,,19,miss2,0,D. Russell,
 205,2,3:42.0,48,41,DET,LAL,1,home,DefReb,,,DefReb,,M. Morris,
-206,2,3:31.0,48,41,DET,LAL,11,home,LostBall,steal,,turnover,,A. Drummond,N. Young
+206,2,3:31.0,48,41,DET,LAL,11,home,lost ball,steal,,turnover,,A. Drummond,N. Young
 207,2,3:13.0,48,41,DET,LAL,18,away,JS,,25,miss3,0,N. Young,
 208,2,3:11.0,48,41,DET,LAL,2,home,DefReb,,,DefReb,,R. Jackson,
 209,2,3:06.0,48,41,DET,LAL,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Young,J. Leuer
@@ -252,7 +252,7 @@
 250,3,11:19.0,58,50,DET,LAL,22,home,DK,assist,0,make2,2,J. Leuer,R. Jackson
 251,3,11:03.0,58,52,DET,LAL,16,away,LU,,1,make2,2,T. Black,
 252,3,10:40.0,60,52,DET,LAL,23,home,HS,,8,make2,2,A. Drummond,
-253,3,10:29.0,60,52,DET,LAL,11,away,LostBall,steal,,turnover,,T. Black,A. Drummond
+253,3,10:29.0,60,52,DET,LAL,11,away,lost ball,steal,,turnover,,T. Black,A. Drummond
 254,3,10:24.0,62,52,DET,LAL,5,home,DK,assist,1,make2,2,K. Caldwell-Pope,M. Morris
 255,3,10:24.0,62,52,DET,LAL,0,away,Timeout,,,,,,
 256,3,10:08.0,62,52,DET,LAL,16,away,DK,,0,miss2,0,T. Black,
@@ -265,14 +265,14 @@
 263,3,8:58.0,67,54,DET,LAL,9,home,JS,,26,miss3,0,K. Caldwell-Pope,
 264,3,8:57.0,67,54,DET,LAL,1,away,DefReb,,,DefReb,,J. Randle,
 265,3,8:36.0,67,56,DET,LAL,21,away,JS,,14,make2,2,B. Ingram,
-266,3,8:18.0,67,56,DET,LAL,18,home,BadPass,steal,,turnover,,A. Drummond,D. Russell
-267,3,8:16.0,67,56,DET,LAL,2,away,BadPass,steal,,turnover,,D. Russell,K. Caldwell-Pope
+266,3,8:18.0,67,56,DET,LAL,18,home,bad pass,steal,,turnover,,A. Drummond,D. Russell
+267,3,8:16.0,67,56,DET,LAL,2,away,bad pass,steal,,turnover,,D. Russell,K. Caldwell-Pope
 268,3,8:10.0,67,56,DET,LAL,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,B. Ingram,R. Jackson
 269,3,8:10.0,67,56,DET,LAL,0,home,FreeThrow,,,make1,0,R. Jackson,
 270,3,8:10.0,67,56,DET,LAL,0,home,OffReb,,,OffReb,,Team,
 271,3,8:10.0,67,56,DET,LAL,0,home,FreeThrow,,,make1,0,R. Jackson,
 272,3,8:09.0,67,56,DET,LAL,1,away,DefReb,,,DefReb,,T. Black,
-273,3,7:55.0,67,56,DET,LAL,14,away,BadPass,steal,,turnover,,B. Ingram,K. Caldwell-Pope
+273,3,7:55.0,67,56,DET,LAL,14,away,bad pass,steal,,turnover,,B. Ingram,K. Caldwell-Pope
 274,3,7:48.0,67,56,DET,LAL,7,home,JS,,16,miss2,0,M. Morris,
 275,3,7:47.0,67,56,DET,LAL,1,away,DefReb,,,DefReb,,B. Ingram,
 276,3,7:41.0,67,58,DET,LAL,6,away,DK,assist,0,make2,2,T. Black,B. Ingram
@@ -280,7 +280,7 @@
 278,3,7:26.0,67,58,DET,LAL,0,home,OffensiveFoul,,,turnover,,A. Drummond,
 279,3,7:11.0,67,58,DET,LAL,15,away,LU,block,3,miss2,0,B. Ingram,A. Drummond
 280,3,7:10.0,67,58,DET,LAL,1,away,OffReb,,,OffReb,,Team,
-281,3,7:09.0,67,58,DET,LAL,1,away,BadPass,steal,,turnover,,D. Russell,A. Drummond
+281,3,7:09.0,67,58,DET,LAL,1,away,bad pass,steal,,turnover,,D. Russell,A. Drummond
 282,3,7:02.0,69,58,DET,LAL,7,home,LU,,0,make2,2,A. Drummond,
 283,3,6:48.0,69,58,DET,LAL,14,away,HS,,5,miss2,0,T. Black,
 284,3,6:46.0,69,58,DET,LAL,2,away,OffReb,,,OffReb,,T. Black,
@@ -404,8 +404,8 @@
 402,4,6:10.0,108,82,DET,LAL,1,home,HS,,5,miss2,0,J. Leuer,
 403,4,6:09.0,108,82,DET,LAL,1,away,DefReb,,,DefReb,,J. Randle,
 404,4,5:58.0,108,84,DET,LAL,11,away,JS,assist,16,make2,2,J. Randle,B. Ingram
-405,4,5:41.0,108,84,DET,LAL,17,home,BadPass,steal,,turnover,,S. Johnson,L. Williams
-406,4,5:36.0,108,84,DET,LAL,5,away,BadPass,steal,,turnover,,L. Williams,R. Bullock
+405,4,5:41.0,108,84,DET,LAL,17,home,bad pass,steal,,turnover,,S. Johnson,L. Williams
+406,4,5:36.0,108,84,DET,LAL,5,away,bad pass,steal,,turnover,,L. Williams,R. Bullock
 407,4,5:29.0,110,84,DET,LAL,7,home,LU,assist,1,make2,2,J. Leuer,R. Bullock
 408,4,5:28.0,110,84,DET,LAL,1,away,Timeout,,,,,,
 409,4,5:28.0,110,84,DET,LAL,0,away,Sub,,,,,I. Zubac,J. Clarkson
@@ -441,7 +441,7 @@
 439,4,2:40.0,116,96,DET,LAL,12,home,LU,assist,0,make2,2,B. Marjanović,B. Udrih
 440,4,2:27.0,116,96,DET,LAL,13,away,JS,,10,miss2,0,J. Randle,
 441,4,2:24.0,116,96,DET,LAL,3,home,DefReb,,,DefReb,,B. Marjanović,
-442,4,2:21.0,116,96,DET,LAL,3,home,BadPass,steal,,turnover,,B. Udrih,J. Calderón
+442,4,2:21.0,116,96,DET,LAL,3,home,bad pass,steal,,turnover,,B. Udrih,J. Calderón
 443,4,1:57.0,116,96,DET,LAL,24,away,JS,,24,miss3,0,B. Ingram,
 444,4,1:56.0,116,96,DET,LAL,1,away,OffReb,,,OffReb,,M. Huertas,
 445,4,1:51.0,116,96,DET,LAL,5,away,JS,,6,miss2,0,M. Huertas,

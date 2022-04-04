@@ -1,6 +1,6 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:41.0,0,0,POR,GSW,19,home,BadPass,steal,,turnover,,J. Nurkić,K. Thompson
-1,1,11:21.0,0,0,POR,GSW,20,away,BadPass,steal,,turnover,,K. Thompson,C. McCollum
+0,1,11:41.0,0,0,POR,GSW,19,home,bad pass,steal,,turnover,,J. Nurkić,K. Thompson
+1,1,11:21.0,0,0,POR,GSW,20,away,bad pass,steal,,turnover,,K. Thompson,C. McCollum
 2,1,11:12.0,2,0,POR,GSW,9,home,JS,,18,make2,2,C. McCollum,
 3,1,10:56.0,2,3,POR,GSW,16,away,JS,assist,25,make3,3,D. Green,P. McCaw
 4,1,10:39.0,4,3,POR,GSW,17,home,JS,assist,5,make2,2,D. Lillard,J. Nurkić
@@ -24,7 +24,7 @@
 22,1,8:16.0,11,5,POR,GSW,2,away,OffReb,,,OffReb,,Team,
 23,1,8:15.0,11,5,POR,GSW,1,away,JS,,19,miss2,0,Z. Pachulia,
 24,1,8:14.0,11,5,POR,GSW,1,home,DefReb,,,DefReb,,J. Nurkić,
-25,1,7:58.0,11,5,POR,GSW,16,home,LostBall,steal,,turnover,,J. Nurkić,P. McCaw
+25,1,7:58.0,11,5,POR,GSW,16,home,lost ball,steal,,turnover,,J. Nurkić,P. McCaw
 26,1,7:44.0,11,5,POR,GSW,14,away,JS,,27,miss3,0,S. Curry,
 27,1,7:43.0,11,5,POR,GSW,1,home,DefReb,,,DefReb,,C. McCollum,
 28,1,7:38.0,11,5,POR,GSW,5,home,BadPass,,,turnover,,C. McCollum,
@@ -80,7 +80,7 @@
 78,1,4:22.0,20,14,POR,GSW,0,away,FreeThrow,,,make1,0,A. Iguodala,
 79,1,4:22.0,20,14,POR,GSW,0,home,Sub,,,,,S. Napier,C. McCollum
 80,1,4:20.0,20,14,POR,GSW,2,home,DefReb,,,DefReb,,A. Aminu,
-81,1,4:18.0,20,14,POR,GSW,2,home,LostBall,steal,,turnover,,A. Aminu,P. McCaw
+81,1,4:18.0,20,14,POR,GSW,2,home,lost ball,steal,,turnover,,A. Aminu,P. McCaw
 82,1,4:16.0,20,16,POR,GSW,2,away,DK,assist,0,make2,2,J. McGee,P. McCaw
 83,1,4:16.0,20,16,POR,GSW,0,home,Timeout,,,,,,
 84,1,3:56.0,20,16,POR,GSW,20,home,LU,,3,miss2,0,D. Lillard,
@@ -92,7 +92,7 @@
 90,1,3:03.0,24,19,POR,GSW,1,home,DefReb,,,DefReb,,A. Aminu,
 91,1,2:48.0,24,19,POR,GSW,15,home,LU,block,2,miss2,0,A. Aminu,P. McCaw
 92,1,2:47.0,24,19,POR,GSW,1,home,OffReb,,,OffReb,,A. Aminu,
-93,1,2:45.0,24,19,POR,GSW,2,home,LostBall,steal,,turnover,,A. Aminu,S. Curry
+93,1,2:45.0,24,19,POR,GSW,2,home,lost ball,steal,,turnover,,A. Aminu,S. Curry
 94,1,2:37.0,24,21,POR,GSW,8,away,LU,assist,1,make2,2,J. McGee,P. McCaw
 95,1,2:23.0,27,21,POR,GSW,14,home,JS,assist,25,make3,3,D. Lillard,N. Vonleh
 96,1,2:08.0,27,21,POR,GSW,15,away,LU,,2,miss2,0,S. Curry,
@@ -125,14 +125,14 @@
 123,1,0:05.0,37,30,POR,GSW,24,home,JS,,10,make2,2,D. Lillard,
 124,1,0:00.0,37,30,POR,GSW,5,away,JS,,27,miss3,0,A. Iguodala,
 125,1,0:00.0,37,30,POR,GSW,0,away,OffReb,,,OffReb,,Team,
-126,2,11:41.0,37,30,POR,GSW,19,away,BadPass,steal,,turnover,,D. West,A. Aminu
+126,2,11:41.0,37,30,POR,GSW,19,away,bad pass,steal,,turnover,,D. West,A. Aminu
 127,2,11:36.0,37,30,POR,GSW,5,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Clark,C. McCollum
 128,2,11:36.0,38,30,POR,GSW,0,home,FreeThrow,,,make1,1,C. McCollum,
 129,2,11:36.0,38,30,POR,GSW,0,home,Sub,,,,,J. Nurkić,N. Vonleh
 130,2,11:36.0,39,30,POR,GSW,0,home,FreeThrow,,,make1,1,C. McCollum,
 131,2,11:22.0,39,32,POR,GSW,14,away,LU,assist,2,make2,2,D. West,D. Green
 132,2,10:54.0,41,32,POR,GSW,28,home,JS,assist,19,make2,2,A. Aminu,E. Turner
-133,2,10:44.0,41,32,POR,GSW,10,away,BadPass,steal,,turnover,,D. West,C. McCollum
+133,2,10:44.0,41,32,POR,GSW,10,away,bad pass,steal,,turnover,,D. West,C. McCollum
 134,2,10:36.0,43,32,POR,GSW,8,home,LU,,3,make2,2,C. McCollum,
 135,2,10:24.0,43,32,POR,GSW,12,away,JS,,26,miss3,0,K. Thompson,
 136,2,10:24.0,43,32,POR,GSW,0,away,OffReb,,,OffReb,,D. West,
@@ -145,7 +145,7 @@
 143,2,9:50.0,43,32,POR,GSW,0,away,OffReb,,,OffReb,,Team,
 144,2,9:50.0,43,33,POR,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
 145,2,9:37.0,45,33,POR,GSW,13,home,DK,,0,make2,2,A. Aminu,
-146,2,9:26.0,45,33,POR,GSW,11,away,LostBall,steal,,turnover,,D. Green,E. Turner
+146,2,9:26.0,45,33,POR,GSW,11,away,lost ball,steal,,turnover,,D. Green,E. Turner
 147,2,9:17.0,48,33,POR,GSW,9,home,JS,assist,25,make3,3,A. Crabbe,A. Aminu
 148,2,9:17.0,48,33,POR,GSW,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,I. Clark,A. Crabbe
 149,2,9:17.0,48,33,POR,GSW,0,away,Timeout,,,,,,
@@ -210,7 +210,7 @@
 208,2,3:07.0,63,48,POR,GSW,0,home,FreeThrow,,,make1,1,D. Lillard,
 209,2,2:56.0,63,48,POR,GSW,11,away,LU,,2,miss2,0,K. Thompson,
 210,2,2:55.0,63,48,POR,GSW,1,home,DefReb,,,DefReb,,A. Aminu,
-211,2,2:40.0,63,48,POR,GSW,15,home,LostBall,steal,,turnover,,N. Vonleh,P. McCaw
+211,2,2:40.0,63,48,POR,GSW,15,home,lost ball,steal,,turnover,,N. Vonleh,P. McCaw
 212,2,2:35.0,63,48,POR,GSW,5,away,LU,,2,miss2,0,S. Curry,
 213,2,2:33.0,63,48,POR,GSW,2,home,DefReb,,,DefReb,,A. Aminu,
 214,2,2:23.0,63,48,POR,GSW,10,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. McCaw,C. McCollum
@@ -223,7 +223,7 @@
 221,2,1:59.0,65,48,POR,GSW,0,away,DefReb,,,DefReb,,Team,
 222,2,1:59.0,65,48,POR,GSW,0,away,Sub,,,,,J. McGee,P. McCaw
 223,2,1:45.0,65,50,POR,GSW,14,away,DK,assist,0,make2,2,J. McGee,D. Green
-224,2,1:24.0,65,50,POR,GSW,21,home,LostBall,steal,,turnover,,C. McCollum,J. McGee
+224,2,1:24.0,65,50,POR,GSW,21,home,lost ball,steal,,turnover,,C. McCollum,J. McGee
 225,2,1:13.0,65,50,POR,GSW,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vonleh,D. Green
 226,2,1:13.0,65,50,POR,GSW,0,away,FreeThrow,,,make1,0,D. Green,
 227,2,1:13.0,65,50,POR,GSW,0,away,OffReb,,,OffReb,,Team,
@@ -248,7 +248,7 @@
 246,3,10:12.0,70,57,POR,GSW,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Lillard,K. Thompson
 247,3,10:02.0,70,57,POR,GSW,10,away,JS,,23,miss3,0,S. Curry,
 248,3,10:02.0,70,57,POR,GSW,0,home,DefReb,,,DefReb,,Team,
-249,3,9:42.0,70,57,POR,GSW,20,home,BadPass,steal,,turnover,,J. Nurkić,K. Thompson
+249,3,9:42.0,70,57,POR,GSW,20,home,bad pass,steal,,turnover,,J. Nurkić,K. Thompson
 250,3,9:36.0,70,59,POR,GSW,6,away,LU,,3,make2,2,P. McCaw,
 251,3,9:25.0,72,59,POR,GSW,11,home,JS,,8,make2,2,C. McCollum,
 252,3,9:09.0,72,59,POR,GSW,16,away,JS,,26,miss3,0,D. Green,
@@ -309,7 +309,7 @@
 307,3,3:51.0,82,73,POR,GSW,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Harkless,K. Thompson
 308,3,3:51.0,82,74,POR,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
 309,3,3:51.0,82,75,POR,GSW,0,away,FreeThrow,,,make1,1,K. Thompson,
-310,3,3:35.0,82,75,POR,GSW,16,home,BadPass,steal,,turnover,,C. McCollum,K. Thompson
+310,3,3:35.0,82,75,POR,GSW,16,home,bad pass,steal,,turnover,,C. McCollum,K. Thompson
 311,3,3:29.0,82,78,POR,GSW,6,away,JS,,27,make3,3,K. Thompson,
 312,3,3:29.0,82,78,POR,GSW,0,home,Timeout,,,,,,
 313,3,3:29.0,82,78,POR,GSW,0,home,Sub,,,,,E. Turner,M. Harkless
@@ -334,7 +334,7 @@
 332,3,1:23.0,83,85,POR,GSW,0,home,DefReb,,,DefReb,,D. Lillard,
 333,3,1:12.0,86,85,POR,GSW,11,home,JS,assist,26,make3,3,A. Aminu,E. Turner
 334,3,0:58.0,86,87,POR,GSW,14,away,LU,assist,1,make2,2,J. McGee,D. Green
-335,3,0:36.0,86,87,POR,GSW,22,home,BadPass,steal,,turnover,,A. Aminu,D. Green
+335,3,0:36.0,86,87,POR,GSW,22,home,bad pass,steal,,turnover,,A. Aminu,D. Green
 336,3,0:32.0,86,87,POR,GSW,4,away,LU,block,2,miss2,0,K. Thompson,D. Lillard
 337,3,0:30.0,86,87,POR,GSW,2,home,DefReb,,,DefReb,,A. Crabbe,
 338,3,0:18.0,86,87,POR,GSW,12,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Thompson,D. Lillard
@@ -420,7 +420,7 @@
 418,4,5:25.0,98,101,POR,GSW,0,away,Sub,,,,,J. McGee,D. West
 419,4,5:25.0,98,101,POR,GSW,0,away,Sub,,,,,A. Iguodala,I. Clark
 420,4,5:25.0,98,102,POR,GSW,0,away,FreeThrow,,,make1,1,S. Curry,
-421,4,5:14.0,98,102,POR,GSW,11,home,BadPass,steal,,turnover,,C. McCollum,S. Curry
+421,4,5:14.0,98,102,POR,GSW,11,home,bad pass,steal,,turnover,,C. McCollum,S. Curry
 422,4,5:09.0,98,104,POR,GSW,5,away,DK,assist,0,make2,2,A. Iguodala,S. Curry
 423,4,4:50.0,100,104,POR,GSW,19,home,DK,assist,0,make2,2,N. Vonleh,D. Lillard
 424,4,4:34.0,100,106,POR,GSW,16,away,JS,assist,16,make2,2,K. Thompson,D. Green
@@ -440,7 +440,7 @@
 438,4,3:21.0,104,108,POR,GSW,0,home,LU,,1,make2,2,N. Vonleh,
 439,4,2:55.0,104,108,POR,GSW,26,away,DK,,0,miss2,0,J. McGee,
 440,4,2:54.0,104,108,POR,GSW,1,home,DefReb,,,DefReb,,E. Turner,
-441,4,2:43.0,104,108,POR,GSW,11,home,LostBall,steal,,turnover,,E. Turner,D. Green
+441,4,2:43.0,104,108,POR,GSW,11,home,lost ball,steal,,turnover,,E. Turner,D. Green
 442,4,2:38.0,104,110,POR,GSW,5,away,DK,assist,0,make2,2,A. Iguodala,S. Curry
 443,4,2:16.0,104,110,POR,GSW,22,home,LU,block,3,miss2,0,E. Turner,D. Green
 444,4,2:15.0,104,110,POR,GSW,1,away,DefReb,,,DefReb,,Team,
@@ -465,7 +465,7 @@
 463,4,0:26.0,109,115,POR,GSW,0,home,Sub,,,,,S. Napier,N. Vonleh
 464,4,0:19.0,109,115,POR,GSW,7,home,LU,block,2,miss2,0,S. Napier,S. Curry
 465,4,0:17.0,109,115,POR,GSW,2,away,DefReb,,,DefReb,,D. Green,
-466,4,0:16.0,109,115,POR,GSW,1,away,LostBall,steal,,turnover,,D. Green,S. Napier
+466,4,0:16.0,109,115,POR,GSW,1,away,lost ball,steal,,turnover,,D. Green,S. Napier
 467,4,0:13.0,111,115,POR,GSW,3,home,JS,,4,make2,2,D. Lillard,
 468,4,0:13.0,111,115,POR,GSW,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Crabbe,S. Curry
 469,4,0:13.0,111,116,POR,GSW,0,away,FreeThrow,,,make1,1,S. Curry,

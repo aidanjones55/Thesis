@@ -22,7 +22,7 @@
 20,1,9:20.0,4,5,MIA,MIL,1,away,DefReb,,,DefReb,,G. Antetokounmpo,
 21,1,9:11.0,4,5,MIA,MIL,9,away,JS,,25,miss3,0,M. Dellavedova,
 22,1,9:10.0,4,5,MIA,MIL,1,home,DefReb,,,DefReb,,H. Whiteside,
-23,1,8:58.0,4,5,MIA,MIL,12,home,BadPass,steal,,turnover,,J. Richardson,M. Dellavedova
+23,1,8:58.0,4,5,MIA,MIL,12,home,bad pass,steal,,turnover,,J. Richardson,M. Dellavedova
 24,1,8:52.0,4,8,MIA,MIL,6,away,JS,assist,24,make3,3,T. Snell,J. Parker
 25,1,8:39.0,4,8,MIA,MIL,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Antetokounmpo,G. Dragić
 26,1,8:39.0,4,8,MIA,MIL,0,away,Sub,,,,,M. Beasley,G. Antetokounmpo
@@ -36,7 +36,7 @@
 34,1,7:36.0,4,11,MIA,MIL,0,away,FreeThrow,,,make1,1,M. Beasley,
 35,1,7:36.0,4,11,MIA,MIL,0,away,FreeThrow,,,make1,0,M. Beasley,
 36,1,7:35.0,4,11,MIA,MIL,1,away,OffReb,,,OffReb,,J. Parker,
-37,1,7:25.0,4,11,MIA,MIL,10,away,BadPass,steal,,turnover,,M. Dellavedova,H. Whiteside
+37,1,7:25.0,4,11,MIA,MIL,10,away,bad pass,steal,,turnover,,M. Dellavedova,H. Whiteside
 38,1,7:14.0,4,11,MIA,MIL,11,home,JS,,26,miss3,0,D. Waiters,
 39,1,7:13.0,4,11,MIA,MIL,1,away,DefReb,,,DefReb,,M. Dellavedova,
 40,1,7:11.0,4,13,MIA,MIL,2,away,DK,assist,0,make2,2,J. Parker,M. Dellavedova
@@ -129,7 +129,7 @@
 127,2,10:42.0,23,27,MIA,MIL,19,away,LU,,1,miss2,0,J. Parker,
 128,2,10:41.0,23,27,MIA,MIL,1,home,DefReb,,,DefReb,,T. Johnson,
 129,2,10:34.0,25,27,MIA,MIL,7,home,JS,assist,17,make2,2,J. Richardson,T. Johnson
-130,2,10:20.0,25,27,MIA,MIL,14,away,BadPass,steal,,turnover,,M. Dellavedova,R. McGruder
+130,2,10:20.0,25,27,MIA,MIL,14,away,bad pass,steal,,turnover,,M. Dellavedova,R. McGruder
 131,2,10:14.0,27,27,MIA,MIL,6,home,LU,,2,make2,2,R. McGruder,
 132,2,10:14.0,27,27,MIA,MIL,0,away,Timeout,,,,,,
 133,2,10:14.0,27,27,MIA,MIL,0,away,Sub,,,,,G. Antetokounmpo,M. Plumlee
@@ -140,7 +140,7 @@
 138,2,9:47.0,27,27,MIA,MIL,1,away,DefReb,,,DefReb,,J. Parker,
 139,2,9:30.0,27,27,MIA,MIL,17,away,JS,,11,miss2,0,M. Dellavedova,
 140,2,9:29.0,27,27,MIA,MIL,1,away,OffReb,,,OffReb,,G. Antetokounmpo,
-141,2,9:20.0,27,27,MIA,MIL,9,away,BadPass,steal,,turnover,,J. Terry,J. Johnson
+141,2,9:20.0,27,27,MIA,MIL,9,away,bad pass,steal,,turnover,,J. Terry,J. Johnson
 142,2,9:13.0,30,27,MIA,MIL,7,home,JS,assist,24,make3,3,T. Johnson,J. Richardson
 143,2,8:49.0,30,27,MIA,MIL,24,away,JS,,19,miss2,0,J. Parker,
 144,2,8:48.0,30,27,MIA,MIL,1,home,DefReb,,,DefReb,,T. Johnson,
@@ -261,7 +261,7 @@
 259,3,8:05.0,57,50,MIA,MIL,0,home,ShotClockViolation,,,turnover,,Team,
 260,3,7:47.0,57,50,MIA,MIL,18,away,HS,,8,miss2,0,G. Antetokounmpo,
 261,3,7:46.0,57,50,MIA,MIL,1,home,DefReb,,,DefReb,,H. Whiteside,
-262,3,7:36.0,57,50,MIA,MIL,10,home,BadPass,steal,,turnover,,G. Dragić,M. Dellavedova
+262,3,7:36.0,57,50,MIA,MIL,10,home,bad pass,steal,,turnover,,G. Dragić,M. Dellavedova
 263,3,7:32.0,57,52,MIA,MIL,4,away,LU,assist,0,make2,2,G. Antetokounmpo,M. Dellavedova
 264,3,7:16.0,57,52,MIA,MIL,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,T. Snell,D. Waiters
 265,3,7:16.0,59,52,MIA,MIL,0,home,LU,,2,make2,2,D. Waiters,
@@ -352,15 +352,15 @@
 350,4,11:17.0,69,64,MIA,MIL,6,home,LU,,2,make2,2,G. Dragić,
 351,4,11:17.0,69,64,MIA,MIL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Henson,G. Dragić
 352,4,11:17.0,70,64,MIA,MIL,0,home,FreeThrow,,,make1,1,G. Dragić,
-353,4,11:05.0,70,64,MIA,MIL,12,away,LostBall,steal,,turnover,,M. Teletović,H. Whiteside
+353,4,11:05.0,70,64,MIA,MIL,12,away,lost ball,steal,,turnover,,M. Teletović,H. Whiteside
 354,4,10:59.0,70,64,MIA,MIL,6,home,LU,block,2,miss2,0,G. Dragić,M. Teletović
 355,4,10:58.0,70,64,MIA,MIL,1,home,OffReb,,,OffReb,,Team,
-356,4,10:44.0,70,64,MIA,MIL,14,home,BadPass,steal,,turnover,,J. Johnson,J. Terry
+356,4,10:44.0,70,64,MIA,MIL,14,home,bad pass,steal,,turnover,,J. Johnson,J. Terry
 357,4,10:30.0,70,64,MIA,MIL,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. McGruder,M. Beasley
 358,4,10:30.0,70,65,MIA,MIL,0,away,FreeThrow,,,make1,1,M. Beasley,
 359,4,10:30.0,70,66,MIA,MIL,0,away,FreeThrow,,,make1,1,M. Beasley,
-360,4,10:10.0,70,66,MIA,MIL,20,home,LostBall,steal,,turnover,,H. Whiteside,J. Henson
-361,4,10:06.0,70,66,MIA,MIL,4,away,BadPass,steal,,turnover,,J. Henson,G. Dragić
+360,4,10:10.0,70,66,MIA,MIL,20,home,lost ball,steal,,turnover,,H. Whiteside,J. Henson
+361,4,10:06.0,70,66,MIA,MIL,4,away,bad pass,steal,,turnover,,J. Henson,G. Dragić
 362,4,10:04.0,70,66,MIA,MIL,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Beasley,G. Dragić
 363,4,10:04.0,71,66,MIA,MIL,0,home,FreeThrow,,,make1,1,G. Dragić,
 364,4,10:04.0,71,66,MIA,MIL,0,home,FreeThrow,,,make1,0,G. Dragić,

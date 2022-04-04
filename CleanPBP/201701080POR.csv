@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:42.0,0,0,POR,DET,18,away,JS,,19,miss2,0,M. Morris,
 1,1,11:42.0,0,0,POR,DET,0,home,DefReb,,,DefReb,,D. Lillard,
-2,1,11:37.0,0,0,POR,DET,5,home,BadPass,steal,,turnover,,D. Lillard,A. Drummond
+2,1,11:37.0,0,0,POR,DET,5,home,bad pass,steal,,turnover,,D. Lillard,A. Drummond
 3,1,11:29.0,0,2,POR,DET,8,away,JS,,7,make2,2,R. Jackson,
 4,1,11:07.0,0,2,POR,DET,22,home,JS,,24,miss3,0,M. Harkless,
 5,1,11:07.0,0,2,POR,DET,0,away,DefReb,,,DefReb,,A. Drummond,
@@ -17,9 +17,9 @@
 15,1,9:16.0,4,7,POR,DET,0,home,ShotClockViolation,,,turnover,,Team,
 16,1,9:08.0,4,7,POR,DET,8,away,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,A. Aminu,R. Jackson
 17,1,8:54.0,4,9,POR,DET,14,away,HS,,10,make2,2,A. Drummond,
-18,1,8:42.0,4,9,POR,DET,12,home,BadPass,steal,,turnover,,D. Lillard,M. Morris
+18,1,8:42.0,4,9,POR,DET,12,home,bad pass,steal,,turnover,,D. Lillard,M. Morris
 19,1,8:35.0,4,9,POR,DET,7,away,OffGoaltending,,,turnover,,A. Drummond,
-20,1,8:22.0,4,9,POR,DET,13,home,BadPass,steal,,turnover,,M. Plumlee,K. Caldwell-Pope
+20,1,8:22.0,4,9,POR,DET,13,home,bad pass,steal,,turnover,,M. Plumlee,K. Caldwell-Pope
 21,1,8:17.0,4,12,POR,DET,5,away,JS,,26,make3,3,K. Caldwell-Pope,
 22,1,7:59.0,6,12,POR,DET,18,home,JS,assist,23,make2,2,C. McCollum,D. Lillard
 23,1,7:37.0,6,14,POR,DET,22,away,JS,assist,4,make2,2,A. Drummond,J. Leuer
@@ -52,7 +52,7 @@
 50,1,4:38.0,18,18,POR,DET,14,away,JS,assist,10,make2,2,T. Harris,K. Caldwell-Pope
 51,1,4:20.0,18,18,POR,DET,18,home,D3SecTech,,,,,,
 52,1,4:20.0,19,18,POR,DET,0,home,FreeThrow,,,make1,1,D. Lillard makes technical free throw,
-53,1,4:19.0,19,18,POR,DET,1,home,BadPass,steal,,turnover,,E. Turner,K. Caldwell-Pope
+53,1,4:19.0,19,18,POR,DET,1,home,bad pass,steal,,turnover,,E. Turner,K. Caldwell-Pope
 54,1,4:15.0,19,20,POR,DET,4,away,DK,,0,make2,2,K. Caldwell-Pope,
 55,1,4:01.0,19,20,POR,DET,14,home,LU,,1,miss2,0,M. Plumlee,
 56,1,4:01.0,19,20,POR,DET,0,away,DefReb,,,DefReb,,T. Harris,
@@ -60,7 +60,7 @@
 58,1,3:52.0,19,20,POR,DET,1,home,DefReb,,,DefReb,,E. Turner,
 59,1,3:39.0,21,20,POR,DET,13,home,LU,assist,2,make2,2,D. Lillard,M. Plumlee
 60,1,3:26.0,21,22,POR,DET,13,away,JS,,7,make2,2,T. Harris,
-61,1,3:13.0,21,22,POR,DET,13,home,BadPass,steal,,turnover,,D. Lillard,K. Caldwell-Pope
+61,1,3:13.0,21,22,POR,DET,13,home,bad pass,steal,,turnover,,D. Lillard,K. Caldwell-Pope
 62,1,2:58.0,21,24,POR,DET,15,away,HS,assist,3,make2,2,A. Drummond,I. Smith
 63,1,2:38.0,21,24,POR,DET,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Drummond,M. Plumlee
 64,1,2:38.0,21,24,POR,DET,0,away,Timeout,,,,,,
@@ -116,11 +116,11 @@
 114,2,9:38.0,36,36,POR,DET,11,away,Timeout,,,,,,
 115,2,9:25.0,36,36,POR,DET,13,away,HS,,8,miss2,0,A. Baynes,
 116,2,9:24.0,36,36,POR,DET,1,home,DefReb,,,DefReb,,C. McCollum,
-117,2,9:18.0,36,36,POR,DET,6,home,LostBall,steal,,turnover,,C. McCollum,I. Smith
+117,2,9:18.0,36,36,POR,DET,6,home,lost ball,steal,,turnover,,C. McCollum,I. Smith
 118,2,9:14.0,36,38,POR,DET,4,away,DK,assist,0,make2,2,T. Harris,I. Smith
 119,2,9:00.0,36,38,POR,DET,14,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Johnson,E. Turner
 120,2,8:52.0,39,38,POR,DET,8,home,JS,assist,24,make3,3,A. Crabbe,N. Vonleh
-121,2,8:31.0,39,38,POR,DET,21,away,LostBall,steal,,turnover,,T. Harris,E. Turner
+121,2,8:31.0,39,38,POR,DET,21,away,lost ball,steal,,turnover,,T. Harris,E. Turner
 122,2,8:23.0,42,38,POR,DET,8,home,JS,assist,24,make3,3,M. Leonard,E. Turner
 123,2,8:06.0,42,38,POR,DET,17,away,JS,,6,miss2,0,R. Jackson,
 124,2,8:05.0,42,38,POR,DET,1,home,DefReb,,,DefReb,,M. Leonard,
@@ -135,7 +135,7 @@
 133,2,7:08.0,45,40,POR,DET,0,home,DefReb,,,DefReb,,M. Leonard,
 134,2,6:55.0,47,40,POR,DET,13,home,JS,,21,make2,2,A. Crabbe,
 135,2,6:38.0,47,42,POR,DET,17,away,JS,,12,make2,2,T. Harris,
-136,2,6:25.0,47,42,POR,DET,13,home,LostBall,steal,,turnover,,A. Crabbe,T. Harris
+136,2,6:25.0,47,42,POR,DET,13,home,lost ball,steal,,turnover,,A. Crabbe,T. Harris
 137,2,6:20.0,47,42,POR,DET,5,away,JS,,25,miss3,0,K. Caldwell-Pope,
 138,2,6:20.0,47,42,POR,DET,0,home,DefReb,,,DefReb,,C. McCollum,
 139,2,6:02.0,47,42,POR,DET,18,home,JS,,22,miss2,0,A. Crabbe,
@@ -157,22 +157,22 @@
 155,2,4:48.0,47,44,POR,DET,0,home,Sub,,,,,A. Aminu,N. Vonleh
 156,2,4:46.0,49,44,POR,DET,2,home,LU,assist,1,make2,2,A. Crabbe,E. Turner
 157,2,4:30.0,49,46,POR,DET,16,away,HS,assist,3,make2,2,A. Drummond,M. Morris
-158,2,4:14.0,49,46,POR,DET,16,home,BadPass,steal,,turnover,,D. Lillard,K. Caldwell-Pope
+158,2,4:14.0,49,46,POR,DET,16,home,bad pass,steal,,turnover,,D. Lillard,K. Caldwell-Pope
 159,2,4:03.0,49,48,POR,DET,11,away,JS,,14,make2,2,R. Jackson,
 160,2,3:44.0,49,48,POR,DET,19,home,JS,,24,miss3,0,A. Aminu,
 161,2,3:44.0,49,48,POR,DET,0,away,DefReb,,,DefReb,,T. Harris,
-162,2,3:35.0,49,48,POR,DET,9,away,LostBall,steal,,turnover,,T. Harris,E. Turner
+162,2,3:35.0,49,48,POR,DET,9,away,lost ball,steal,,turnover,,T. Harris,E. Turner
 163,2,3:26.0,49,48,POR,DET,9,home,HS,,4,miss2,0,M. Leonard,
 164,2,3:26.0,49,48,POR,DET,0,away,DefReb,,,DefReb,,A. Drummond,
 165,2,3:15.0,49,48,POR,DET,11,away,JS,,24,miss3,0,T. Harris,
 166,2,3:14.0,49,48,POR,DET,1,home,DefReb,,,DefReb,,A. Aminu,
 167,2,3:05.0,52,48,POR,DET,9,home,JS,assist,25,make3,3,A. Crabbe,A. Aminu
-168,2,2:50.0,52,48,POR,DET,15,away,BadPass,steal,,turnover,,R. Jackson,A. Crabbe
+168,2,2:50.0,52,48,POR,DET,15,away,bad pass,steal,,turnover,,R. Jackson,A. Crabbe
 169,2,2:46.0,52,48,POR,DET,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Caldwell-Pope,D. Lillard
 170,2,2:46.0,52,48,POR,DET,0,home,Timeout,,,,,,
 171,2,2:46.0,52,48,POR,DET,0,home,Sub,,,,,M. Plumlee,M. Leonard
 172,2,2:46.0,52,48,POR,DET,0,home,Sub,,,,,M. Harkless,E. Turner
-173,2,2:29.0,52,48,POR,DET,17,home,BadPass,steal,,turnover,,A. Aminu,A. Drummond
+173,2,2:29.0,52,48,POR,DET,17,home,bad pass,steal,,turnover,,A. Aminu,A. Drummond
 174,2,2:08.0,52,50,POR,DET,21,away,DK,assist,0,make2,2,A. Drummond,T. Harris
 175,2,2:08.0,52,50,POR,DET,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Plumlee,A. Drummond
 176,2,2:08.0,52,51,POR,DET,0,away,FreeThrow,,,make1,1,A. Drummond,
@@ -184,7 +184,7 @@
 182,2,0:51.0,56,53,POR,DET,0,away,Sub,,,,,I. Smith,R. Jackson
 183,2,0:40.0,56,53,POR,DET,11,away,JS,block,4,miss2,0,A. Drummond,A. Aminu
 184,2,0:39.0,56,53,POR,DET,1,home,DefReb,,,DefReb,,A. Aminu,
-185,2,0:35.0,56,53,POR,DET,4,home,BadPass,steal,,turnover,,M. Harkless,A. Drummond
+185,2,0:35.0,56,53,POR,DET,4,home,bad pass,steal,,turnover,,M. Harkless,A. Drummond
 186,2,0:24.0,56,53,POR,DET,11,away,JS,,25,miss3,0,K. Caldwell-Pope,
 187,2,0:24.0,56,53,POR,DET,0,home,DefReb,,,DefReb,,D. Lillard,
 188,2,0:21.0,56,53,POR,DET,3,home,Timeout,,,,,,
@@ -222,7 +222,7 @@
 220,3,8:16.0,65,60,POR,DET,1,home,DefReb,,,DefReb,,M. Plumlee,
 221,3,8:00.0,65,60,POR,DET,16,home,JS,,26,miss3,0,C. McCollum,
 222,3,7:59.0,65,60,POR,DET,1,away,DefReb,,,DefReb,,A. Drummond,
-223,3,7:51.0,65,60,POR,DET,8,away,BadPass,steal,,turnover,,K. Caldwell-Pope,C. McCollum
+223,3,7:51.0,65,60,POR,DET,8,away,bad pass,steal,,turnover,,K. Caldwell-Pope,C. McCollum
 224,3,7:45.0,67,60,POR,DET,6,home,LU,assist,2,make2,2,D. Lillard,C. McCollum
 225,3,7:25.0,67,60,POR,DET,20,away,HS,,9,miss2,0,A. Drummond,
 226,3,7:24.0,67,60,POR,DET,1,home,DefReb,,,DefReb,,D. Lillard,
@@ -318,14 +318,14 @@
 316,4,7:38.0,96,93,POR,DET,11,home,JS,,26,miss3,0,C. McCollum,
 317,4,7:37.0,96,93,POR,DET,1,away,DefReb,,,DefReb,,A. Drummond,
 318,4,7:22.0,96,95,POR,DET,15,away,LU,,3,make2,2,M. Morris,
-319,4,6:57.0,96,95,POR,DET,25,home,BadPass,steal,,turnover,,E. Turner,S. Johnson
+319,4,6:57.0,96,95,POR,DET,25,home,bad pass,steal,,turnover,,E. Turner,S. Johnson
 320,4,6:47.0,96,97,POR,DET,10,away,JS,assist,11,make2,2,A. Drummond,I. Smith
 321,4,6:47.0,96,97,POR,DET,0,home,Timeout,,,,,,
 322,4,6:47.0,96,97,POR,DET,0,away,Sub,,,,,K. Caldwell-Pope,I. Smith
 323,4,6:47.0,96,97,POR,DET,0,home,Sub,,,,,M. Plumlee,C. McCollum
 324,4,6:47.0,96,97,POR,DET,0,home,Sub,,,,,D. Lillard,M. Leonard
 325,4,6:47.0,96,97,POR,DET,0,home,Sub,,,,,M. Harkless,N. Vonleh
-326,4,6:36.0,96,97,POR,DET,11,home,BadPass,steal,,turnover,,E. Turner,A. Drummond
+326,4,6:36.0,96,97,POR,DET,11,home,bad pass,steal,,turnover,,E. Turner,A. Drummond
 327,4,6:31.0,96,97,POR,DET,5,away,LU,block,2,miss2,0,R. Jackson,M. Plumlee
 328,4,6:31.0,96,97,POR,DET,0,away,OffReb,,,OffReb,,Team,
 329,4,6:10.0,96,99,POR,DET,21,away,LU,,2,make2,2,R. Jackson,
@@ -340,18 +340,18 @@
 338,4,5:02.0,96,100,POR,DET,0,away,FreeThrow,,,make1,0,R. Jackson,
 339,4,5:02.0,96,100,POR,DET,0,home,Sub,,,,,C. McCollum,E. Turner
 340,4,5:01.0,96,100,POR,DET,1,home,DefReb,,,DefReb,,M. Plumlee,
-341,4,4:42.0,96,100,POR,DET,19,home,BadPass,steal,,turnover,,M. Plumlee,R. Jackson
+341,4,4:42.0,96,100,POR,DET,19,home,bad pass,steal,,turnover,,M. Plumlee,R. Jackson
 342,4,4:41.0,96,100,POR,DET,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Plumlee,R. Jackson
 343,4,4:41.0,96,100,POR,DET,0,home,Sub,,,,,A. Aminu,M. Harkless
 344,4,4:30.0,96,100,POR,DET,11,away,Traveling,,,turnover,,S. Johnson,
 345,4,4:24.0,96,100,POR,DET,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Drummond,M. Plumlee
-346,4,4:15.0,96,100,POR,DET,9,home,LostBall,steal,,turnover,,A. Crabbe,R. Jackson
+346,4,4:15.0,96,100,POR,DET,9,home,lost ball,steal,,turnover,,A. Crabbe,R. Jackson
 347,4,4:11.0,96,100,POR,DET,4,away,JS,block,5,miss2,0,R. Jackson,C. McCollum
 348,4,4:11.0,96,100,POR,DET,0,home,OffReb,,,OffReb,,Team,
 349,4,3:51.0,96,100,POR,DET,20,home,JS,,19,miss2,0,A. Crabbe,
 350,4,3:49.0,96,100,POR,DET,2,home,OffReb,,,OffReb,,M. Plumlee,
 351,4,3:43.0,98,100,POR,DET,6,home,JS,,14,make2,2,C. McCollum,
-352,4,3:30.0,98,100,POR,DET,13,away,LostBall,steal,,turnover,,K. Caldwell-Pope,M. Plumlee
+352,4,3:30.0,98,100,POR,DET,13,away,lost ball,steal,,turnover,,K. Caldwell-Pope,M. Plumlee
 353,4,3:26.0,100,100,POR,DET,4,home,DK,,0,make2,2,M. Plumlee,
 354,4,3:26.0,100,100,POR,DET,0,away,Timeout,,,,,,
 355,4,3:10.0,100,102,POR,DET,16,away,JS,,15,make2,2,M. Morris,

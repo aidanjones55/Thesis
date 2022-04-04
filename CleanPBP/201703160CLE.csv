@@ -9,7 +9,7 @@
 7,1,10:19.0,6,0,CLE,UTA,13,away,BadPass,,,turnover,,J. Johnson,
 8,1,10:03.0,6,0,CLE,UTA,16,home,LU,,3,miss2,0,K. Irving,
 9,1,10:01.0,6,0,CLE,UTA,2,home,OffReb,,,OffReb,,T. Thompson,
-10,1,10:00.0,6,0,CLE,UTA,1,home,BadPass,steal,,turnover,,T. Thompson,J. Ingles
+10,1,10:00.0,6,0,CLE,UTA,1,home,bad pass,steal,,turnover,,T. Thompson,J. Ingles
 11,1,9:40.0,6,0,CLE,UTA,20,away,JS,,20,miss2,0,G. Hill,
 12,1,9:38.0,6,0,CLE,UTA,2,away,OffReb,,,OffReb,,R. Gobert,
 13,1,9:26.0,6,2,CLE,UTA,12,away,JS,,20,make2,2,G. Hill,
@@ -59,7 +59,7 @@
 57,1,2:42.0,21,18,CLE,UTA,0,home,DefReb,,,DefReb,,J. Smith,
 58,1,2:35.0,21,18,CLE,UTA,7,home,JS,,26,miss3,0,K. Irving,
 59,1,2:34.0,21,18,CLE,UTA,1,away,DefReb,,,DefReb,,G. Hayward,
-60,1,2:17.0,21,18,CLE,UTA,17,away,BadPass,steal,,turnover,,G. Hayward,J. Smith
+60,1,2:17.0,21,18,CLE,UTA,17,away,bad pass,steal,,turnover,,G. Hayward,J. Smith
 61,1,2:15.0,21,18,CLE,UTA,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Burks,L. James
 62,1,2:15.0,21,18,CLE,UTA,0,home,Timeout,,,,,,
 63,1,2:15.0,21,18,CLE,UTA,0,home,Sub,,,,,D. Williams,L. James
@@ -131,12 +131,12 @@
 129,2,7:21.0,38,28,CLE,UTA,0,away,DefReb,,,DefReb,,A. Burks,
 130,2,7:13.0,38,30,CLE,UTA,8,away,LU,,2,make2,2,A. Burks,
 131,2,7:02.0,38,30,CLE,UTA,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Johnson,C. Frye
-132,2,6:49.0,38,30,CLE,UTA,13,home,BadPass,steal,,turnover,,L. James,R. Gobert
+132,2,6:49.0,38,30,CLE,UTA,13,home,bad pass,steal,,turnover,,L. James,R. Gobert
 133,2,6:37.0,38,30,CLE,UTA,12,away,JS,,16,miss2,0,J. Johnson,
 134,2,6:35.0,38,30,CLE,UTA,2,home,DefReb,,,DefReb,,L. James,
 135,2,6:29.0,38,30,CLE,UTA,6,home,JS,,7,miss2,0,R. Jefferson,
 136,2,6:28.0,38,30,CLE,UTA,1,away,DefReb,,,DefReb,,G. Hill,
-137,2,6:24.0,38,30,CLE,UTA,4,away,LostBall,steal,,turnover,,A. Burks,D. Williams
+137,2,6:24.0,38,30,CLE,UTA,4,away,lost ball,steal,,turnover,,A. Burks,D. Williams
 138,2,6:19.0,40,30,CLE,UTA,5,home,DK,assist,1,make2,2,L. James,D. Williams
 139,2,6:19.0,40,30,CLE,UTA,0,away,Timeout,,,,,,
 140,2,6:19.0,40,30,CLE,UTA,0,away,Sub,,,,,G. Hayward,G. Hill
@@ -217,14 +217,14 @@
 215,3,9:58.0,46,44,CLE,UTA,2,home,DefReb,,,DefReb,,I. Shumpert,
 216,3,9:51.0,46,44,CLE,UTA,7,home,JS,,7,miss2,0,T. Thompson,
 217,3,9:51.0,46,44,CLE,UTA,0,home,OffReb,,,OffReb,,Team,
-218,3,9:36.0,46,44,CLE,UTA,15,home,BadPass,steal,,turnover,,L. James,J. Johnson
+218,3,9:36.0,46,44,CLE,UTA,15,home,bad pass,steal,,turnover,,L. James,J. Johnson
 219,3,9:25.0,46,44,CLE,UTA,11,away,JS,,21,miss2,0,J. Ingles,
 220,3,9:25.0,46,44,CLE,UTA,0,home,DefReb,,,DefReb,,K. Love,
 221,3,9:18.0,46,44,CLE,UTA,7,home,JS,,27,miss3,0,L. James,
 222,3,9:16.0,46,44,CLE,UTA,2,away,DefReb,,,DefReb,,R. Gobert,
 223,3,8:57.0,46,44,CLE,UTA,19,away,JS,,27,miss3,0,G. Hill,
 224,3,8:56.0,46,44,CLE,UTA,1,home,DefReb,,,DefReb,,T. Thompson,
-225,3,8:48.0,46,44,CLE,UTA,8,home,BadPass,steal,,turnover,,L. James,R. Gobert
+225,3,8:48.0,46,44,CLE,UTA,8,home,bad pass,steal,,turnover,,L. James,R. Gobert
 226,3,8:43.0,46,46,CLE,UTA,5,away,DK,assist,0,make2,2,G. Hayward,J. Johnson
 227,3,8:43.0,46,46,CLE,UTA,0,home,Timeout,,,,,,
 228,3,8:43.0,46,46,CLE,UTA,0,away,Sub,,,,,A. Burks,J. Ingles
@@ -238,7 +238,7 @@
 236,3,8:00.0,50,46,CLE,UTA,1,away,DefReb,,,DefReb,,R. Gobert,
 237,3,7:46.0,50,46,CLE,UTA,14,away,JS,,26,miss3,0,J. Johnson,
 238,3,7:46.0,50,46,CLE,UTA,0,home,DefReb,,,DefReb,,L. James,
-239,3,7:34.0,50,46,CLE,UTA,12,home,BadPass,steal,,turnover,,K. Love,G. Hayward
+239,3,7:34.0,50,46,CLE,UTA,12,home,bad pass,steal,,turnover,,K. Love,G. Hayward
 240,3,7:29.0,50,48,CLE,UTA,5,away,DK,,0,make2,2,G. Hayward,
 241,3,7:14.0,52,48,CLE,UTA,15,home,JS,,6,make2,2,K. Irving,
 242,3,7:03.0,52,48,CLE,UTA,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Irving,G. Hill
@@ -347,10 +347,10 @@
 345,4,9:21.0,74,75,CLE,UTA,0,away,DefReb,,,DefReb,,T. Lyles,
 346,4,8:56.0,74,75,CLE,UTA,25,away,JS,,25,miss3,0,B. Diaw,
 347,4,8:56.0,74,75,CLE,UTA,0,home,DefReb,,,DefReb,,R. Jefferson,
-348,4,8:43.0,74,75,CLE,UTA,13,home,BadPass,steal,,turnover,,D. Williams,G. Hill
+348,4,8:43.0,74,75,CLE,UTA,13,home,bad pass,steal,,turnover,,D. Williams,G. Hill
 349,4,8:37.0,74,75,CLE,UTA,6,away,JS,,6,miss2,0,T. Lyles,
 350,4,8:36.0,74,75,CLE,UTA,1,away,OffReb,,,OffReb,,D. Exum,
-351,4,8:34.0,74,75,CLE,UTA,2,away,BadPass,steal,,turnover,,D. Exum,L. James
+351,4,8:34.0,74,75,CLE,UTA,2,away,bad pass,steal,,turnover,,D. Exum,L. James
 352,4,8:31.0,74,75,CLE,UTA,3,home,LostBall,,,turnover,,L. James,
 353,4,8:31.0,74,75,CLE,UTA,0,away,Timeout,,,,,,
 354,4,8:31.0,74,75,CLE,UTA,0,away,Sub,,,,,R. Gobert,B. Diaw
@@ -360,7 +360,7 @@
 358,4,8:19.0,74,77,CLE,UTA,1,home,DefReb,,,DefReb,,L. James,
 359,4,8:07.0,74,77,CLE,UTA,12,home,JS,,25,miss3,0,C. Frye,
 360,4,8:07.0,74,77,CLE,UTA,0,away,DefReb,,,DefReb,,J. Ingles,
-361,4,7:49.0,74,77,CLE,UTA,18,away,BadPass,steal,,turnover,,J. Ingles,L. James
+361,4,7:49.0,74,77,CLE,UTA,18,away,bad pass,steal,,turnover,,J. Ingles,L. James
 362,4,7:40.0,77,77,CLE,UTA,9,home,JS,assist,24,make3,3,J. Smith,C. Frye
 363,4,7:14.0,77,77,CLE,UTA,26,away,JS,,5,miss2,0,R. Gobert,
 364,4,7:14.0,77,77,CLE,UTA,0,away,OffReb,,,OffReb,,D. Exum,
@@ -384,7 +384,7 @@
 382,4,4:36.0,84,77,CLE,UTA,0,home,DefReb,,,DefReb,,D. Williams,
 383,4,4:15.0,84,77,CLE,UTA,21,home,JS,,13,miss2,0,L. James,
 384,4,4:12.0,84,77,CLE,UTA,3,away,DefReb,,,DefReb,,R. Gobert,
-385,4,4:06.0,84,77,CLE,UTA,6,away,LostBall,steal,,turnover,,J. Ingles,C. Frye
+385,4,4:06.0,84,77,CLE,UTA,6,away,lost ball,steal,,turnover,,J. Ingles,C. Frye
 386,4,3:46.0,84,77,CLE,UTA,20,home,JS,,23,miss3,0,R. Jefferson,
 387,4,3:45.0,84,77,CLE,UTA,1,away,DefReb,,,DefReb,,R. Gobert,
 388,4,3:39.0,84,79,CLE,UTA,6,away,DK,assist,0,make2,2,R. Gobert,J. Ingles
@@ -411,7 +411,7 @@
 409,4,1:07.0,89,83,CLE,UTA,3,away,JS,,26,miss3,0,G. Hill,
 410,4,1:07.0,89,83,CLE,UTA,0,home,DefReb,,,DefReb,,L. James,
 411,4,1:03.0,91,83,CLE,UTA,4,home,LU,,1,make2,2,L. James,
-412,4,1:00.0,91,83,CLE,UTA,3,away,BadPass,steal,,turnover,,J. Ingles,R. Jefferson
+412,4,1:00.0,91,83,CLE,UTA,3,away,bad pass,steal,,turnover,,J. Ingles,R. Jefferson
 413,4,0:59.0,91,83,CLE,UTA,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,J. Ingles,L. James
 414,4,0:59.0,91,83,CLE,UTA,0,home,FreeThrow,,,make1,0,L. James,
 415,4,0:59.0,91,83,CLE,UTA,0,home,OffReb,,,OffReb,,Team,

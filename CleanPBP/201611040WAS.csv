@@ -6,12 +6,12 @@
 4,1,11:20.0,0,0,WAS,ATL,11,away,JS,,6,miss2,0,D. Howard,
 5,1,11:19.0,0,0,WAS,ATL,1,home,DefReb,,,DefReb,,M. Gortat,
 6,1,11:15.0,0,0,WAS,ATL,4,away,KickBallViolation,,,KickBallViolation,,K. Bazemore,
-7,1,11:04.0,0,0,WAS,ATL,11,home,LostBall,steal,,turnover,,B. Beal,K. Bazemore
-8,1,10:59.0,0,0,WAS,ATL,5,away,BadPass,steal,,turnover,,K. Korver,M. Morris
+7,1,11:04.0,0,0,WAS,ATL,11,home,lost ball,steal,,turnover,,B. Beal,K. Bazemore
+8,1,10:59.0,0,0,WAS,ATL,5,away,bad pass,steal,,turnover,,K. Korver,M. Morris
 9,1,10:53.0,2,0,WAS,ATL,6,home,LU,assist,3,make2,2,O. Porter,J. Wall
 10,1,10:33.0,2,0,WAS,ATL,20,away,JS,,9,miss2,0,D. Howard,
 11,1,10:32.0,2,0,WAS,ATL,1,home,DefReb,,,DefReb,,J. Wall,
-12,1,10:25.0,2,0,WAS,ATL,7,home,LostBall,steal,,turnover,,M. Gortat,D. Howard
+12,1,10:25.0,2,0,WAS,ATL,7,home,lost ball,steal,,turnover,,M. Gortat,D. Howard
 13,1,10:12.0,2,0,WAS,ATL,13,away,LU,,1,miss2,0,K. Bazemore,
 14,1,10:11.0,2,0,WAS,ATL,1,home,DefReb,,,DefReb,,J. Wall,
 15,1,10:07.0,5,0,WAS,ATL,4,home,JS,assist,25,make3,3,B. Beal,O. Porter
@@ -57,7 +57,7 @@
 55,1,6:26.0,9,4,WAS,ATL,2,home,DefReb,,,DefReb,,J. Wall,
 56,1,6:20.0,9,4,WAS,ATL,6,home,LU,,1,miss2,0,J. Wall,
 57,1,6:18.0,9,4,WAS,ATL,2,away,DefReb,,,DefReb,,P. Millsap,
-58,1,6:14.0,9,4,WAS,ATL,4,away,BadPass,steal,,turnover,,K. Korver,M. Morris
+58,1,6:14.0,9,4,WAS,ATL,4,away,bad pass,steal,,turnover,,K. Korver,M. Morris
 59,1,6:08.0,11,4,WAS,ATL,6,home,JS,assist,20,make2,2,O. Porter,J. Wall
 60,1,5:50.0,11,4,WAS,ATL,18,away,JS,,24,miss3,0,M. Muscala,
 61,1,5:50.0,11,4,WAS,ATL,0,home,DefReb,,,DefReb,,M. Morris,
@@ -73,7 +73,7 @@
 71,1,4:50.0,11,6,WAS,ATL,1,home,OffReb,,,OffReb,,M. Gortat,
 72,1,4:49.0,13,6,WAS,ATL,1,home,LU,,0,make2,2,M. Gortat,
 73,1,4:37.0,13,8,WAS,ATL,12,away,JS,,8,make2,2,D. Schröder,
-74,1,4:18.0,13,8,WAS,ATL,19,home,LostBall,steal,,turnover,,M. Gortat,P. Millsap
+74,1,4:18.0,13,8,WAS,ATL,19,home,lost ball,steal,,turnover,,M. Gortat,P. Millsap
 75,1,4:14.0,13,10,WAS,ATL,4,away,LU,assist,1,make2,2,T. Hardaway,P. Millsap
 76,1,4:13.0,13,10,WAS,ATL,1,home,Timeout,,,,,,
 77,1,4:13.0,13,10,WAS,ATL,0,home,Sub,,,,,T. Satoranský,J. Wall
@@ -164,7 +164,7 @@
 162,2,7:22.0,27,24,WAS,ATL,22,away,JS,,20,miss2,0,M. Delaney,
 163,2,7:22.0,27,24,WAS,ATL,0,home,DefReb,,,DefReb,,T. Satoranský,
 164,2,7:19.0,27,24,WAS,ATL,3,away,Sub,,,,,D. Schröder,M. Delaney
-165,2,7:19.0,27,24,WAS,ATL,0,home,LostBall,steal,,turnover,,T. Satoranský,P. Millsap
+165,2,7:19.0,27,24,WAS,ATL,0,home,lost ball,steal,,turnover,,T. Satoranský,P. Millsap
 166,2,7:06.0,27,24,WAS,ATL,13,away,JS,,4,miss2,0,D. Schröder,
 167,2,7:05.0,27,24,WAS,ATL,1,home,DefReb,,,DefReb,,M. Morris,
 168,2,7:01.0,27,24,WAS,ATL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,K. Bazemore,J. Wall
@@ -192,7 +192,7 @@
 190,2,5:00.0,34,26,WAS,ATL,13,away,Sub,,,,,D. Howard,K. Humphries
 191,2,4:59.0,34,26,WAS,ATL,1,away,Sub,,,,,T. Hardaway,K. Korver
 192,2,4:58.0,34,28,WAS,ATL,1,away,JS,assist,16,make2,2,D. Schröder,T. Hardaway
-193,2,4:42.0,34,28,WAS,ATL,16,home,BadPass,steal,,turnover,,M. Morris,T. Sefolosha
+193,2,4:42.0,34,28,WAS,ATL,16,home,bad pass,steal,,turnover,,M. Morris,T. Sefolosha
 194,2,4:38.0,34,30,WAS,ATL,4,away,DK,,0,make2,2,T. Sefolosha,
 195,2,4:27.0,34,30,WAS,ATL,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Sefolosha,B. Beal
 196,2,4:27.0,35,30,WAS,ATL,0,home,FreeThrow,,,make1,1,B. Beal,
@@ -214,16 +214,16 @@
 212,2,2:25.0,43,30,WAS,ATL,1,home,DefReb,,,DefReb,,J. Smith,
 213,2,2:24.0,43,30,WAS,ATL,1,away,TechnicalFoul,,,TechnicalFoul,,P. Millsap,
 214,2,2:24.0,44,30,WAS,ATL,0,home,FreeThrow,,,make1,1,B. Beal makes technical free throw,
-215,2,2:09.0,44,30,WAS,ATL,15,home,BadPass,steal,,turnover,,J. Smith,P. Millsap
+215,2,2:09.0,44,30,WAS,ATL,15,home,bad pass,steal,,turnover,,J. Smith,P. Millsap
 216,2,2:06.0,44,30,WAS,ATL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Beal,P. Millsap
 217,2,2:06.0,44,30,WAS,ATL,0,away,FreeThrow,,,make1,0,P. Millsap,
 218,2,2:06.0,44,30,WAS,ATL,0,away,OffReb,,,OffReb,,Team,
 219,2,2:06.0,44,31,WAS,ATL,0,away,FreeThrow,,,make1,1,P. Millsap,
-220,2,1:50.0,44,31,WAS,ATL,16,home,LostBall,steal,,turnover,,J. Smith,D. Howard
+220,2,1:50.0,44,31,WAS,ATL,16,home,lost ball,steal,,turnover,,J. Smith,D. Howard
 221,2,1:45.0,44,33,WAS,ATL,5,away,LU,assist,2,make2,2,D. Schröder,T. Hardaway
 222,2,1:44.0,44,33,WAS,ATL,1,home,Timeout,,,,,,
-223,2,1:33.0,44,33,WAS,ATL,11,home,BadPass,steal,,turnover,,J. Wall,T. Sefolosha
-224,2,1:23.0,44,33,WAS,ATL,10,away,LostBall,steal,,turnover,,D. Schröder,J. Wall
+223,2,1:33.0,44,33,WAS,ATL,11,home,bad pass,steal,,turnover,,J. Wall,T. Sefolosha
+224,2,1:23.0,44,33,WAS,ATL,10,away,lost ball,steal,,turnover,,D. Schröder,J. Wall
 225,2,1:14.0,44,33,WAS,ATL,9,home,LU,,1,miss2,0,B. Beal,
 226,2,1:14.0,44,33,WAS,ATL,0,home,OffReb,,,OffReb,,J. Smith,
 227,2,1:14.0,44,33,WAS,ATL,0,home,LU,,1,miss2,0,J. Smith,
@@ -247,7 +247,7 @@
 245,2,0:10.0,48,35,WAS,ATL,17,away,LU,,1,miss2,0,D. Schröder,
 246,2,0:09.0,48,35,WAS,ATL,1,away,OffReb,,,OffReb,,Team,
 247,2,0:09.0,48,35,WAS,ATL,0,away,Sub,,,,,M. Muscala,T. Sefolosha
-248,2,0:03.0,48,35,WAS,ATL,6,away,LostBall,steal,,turnover,,D. Schröder,A. Nicholson
+248,2,0:03.0,48,35,WAS,ATL,6,away,lost ball,steal,,turnover,,D. Schröder,A. Nicholson
 249,2,0:00.0,48,35,WAS,ATL,3,home,JS,,29,miss3,0,T. Satoranský,
 250,2,0:00.0,48,35,WAS,ATL,0,home,OffReb,,,OffReb,,Team,
 251,3,11:41.0,48,35,WAS,ATL,19,home,JS,,24,miss3,0,M. Morris,
@@ -261,7 +261,7 @@
 259,3,10:46.0,48,37,WAS,ATL,3,away,LU,,3,miss2,0,D. Howard,
 260,3,10:45.0,48,37,WAS,ATL,1,home,DefReb,,,DefReb,,J. Wall,
 261,3,10:37.0,50,37,WAS,ATL,8,home,LU,assist,1,make2,2,M. Gortat,J. Wall
-262,3,10:27.0,50,37,WAS,ATL,10,away,BadPass,steal,,turnover,,P. Millsap,M. Gortat
+262,3,10:27.0,50,37,WAS,ATL,10,away,bad pass,steal,,turnover,,P. Millsap,M. Gortat
 263,3,10:22.0,50,37,WAS,ATL,5,home,JS,,28,miss3,0,B. Beal,
 264,3,10:20.0,50,37,WAS,ATL,2,away,DefReb,,,DefReb,,K. Korver,
 265,3,10:12.0,50,37,WAS,ATL,8,away,JS,,27,miss3,0,D. Schröder,
@@ -284,7 +284,7 @@
 282,3,8:42.0,54,39,WAS,ATL,10,home,LU,,1,miss2,0,J. Wall,
 283,3,8:41.0,54,39,WAS,ATL,1,away,DefReb,,,DefReb,,P. Millsap,
 284,3,8:32.0,54,41,WAS,ATL,9,away,LU,,2,make2,2,D. Schröder,
-285,3,8:18.0,54,41,WAS,ATL,14,home,LostBall,steal,,turnover,,O. Porter,K. Korver
+285,3,8:18.0,54,41,WAS,ATL,14,home,lost ball,steal,,turnover,,O. Porter,K. Korver
 286,3,8:15.0,54,41,WAS,ATL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Morris,D. Schröder
 287,3,8:15.0,54,42,WAS,ATL,0,away,FreeThrow,,,make1,1,D. Schröder,
 288,3,8:15.0,54,42,WAS,ATL,0,away,Sub,,,,,D. Howard,M. Muscala
@@ -293,13 +293,13 @@
 291,3,7:40.0,56,45,WAS,ATL,20,away,LU,assist,3,make2,2,P. Millsap,K. Bazemore
 292,3,7:26.0,56,45,WAS,ATL,14,home,JS,,14,miss2,0,M. Morris,
 293,3,7:25.0,56,45,WAS,ATL,1,away,DefReb,,,DefReb,,D. Howard,
-294,3,7:09.0,56,45,WAS,ATL,16,away,LostBall,steal,,turnover,,P. Millsap,M. Morris
+294,3,7:09.0,56,45,WAS,ATL,16,away,lost ball,steal,,turnover,,P. Millsap,M. Morris
 295,3,6:48.0,56,45,WAS,ATL,21,home,OutOfBounds,,,turnover,,B. Beal,
 296,3,6:48.0,56,45,WAS,ATL,0,away,Sub,,,,,M. Muscala,P. Millsap
 297,3,6:37.0,56,45,WAS,ATL,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Wall,D. Schröder
 298,3,6:37.0,56,46,WAS,ATL,0,away,FreeThrow,,,make1,1,D. Schröder,
 299,3,6:37.0,56,47,WAS,ATL,0,away,FreeThrow,,,make1,1,D. Schröder,
-300,3,6:25.0,56,47,WAS,ATL,12,home,BadPass,steal,,turnover,,J. Wall,D. Howard
+300,3,6:25.0,56,47,WAS,ATL,12,home,bad pass,steal,,turnover,,J. Wall,D. Howard
 301,3,6:19.0,56,47,WAS,ATL,6,away,JS,,24,miss3,0,K. Korver,
 302,3,6:17.0,56,47,WAS,ATL,2,away,OffReb,,,OffReb,,K. Bazemore,
 303,3,6:12.0,56,47,WAS,ATL,5,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Howard,M. Gortat
@@ -309,7 +309,7 @@
 307,3,6:01.0,57,47,WAS,ATL,0,home,FreeThrow,,,make1,1,J. Wall,
 308,3,6:01.0,57,47,WAS,ATL,0,home,FreeThrow,,,make1,0,J. Wall,
 309,3,6:00.0,57,47,WAS,ATL,1,away,DefReb,,,DefReb,,M. Muscala,
-310,3,5:51.0,57,47,WAS,ATL,9,away,BadPass,steal,,turnover,,M. Muscala,J. Wall
+310,3,5:51.0,57,47,WAS,ATL,9,away,bad pass,steal,,turnover,,M. Muscala,J. Wall
 311,3,5:45.0,57,47,WAS,ATL,6,home,LU,block,3,miss2,0,B. Beal,K. Bazemore
 312,3,5:43.0,57,47,WAS,ATL,2,away,DefReb,,,DefReb,,D. Schröder,
 313,3,5:39.0,57,47,WAS,ATL,4,away,LU,,1,miss2,0,D. Schröder,
@@ -317,7 +317,7 @@
 315,3,5:38.0,57,49,WAS,ATL,0,away,LU,,3,make2,2,M. Muscala,
 316,3,5:31.0,57,49,WAS,ATL,7,home,Timeout,,,,,,
 317,3,5:31.0,57,49,WAS,ATL,0,away,Sub,,,,,P. Millsap,D. Howard
-318,3,5:20.0,57,49,WAS,ATL,11,home,BadPass,steal,,turnover,,T. Satoranský,M. Muscala
+318,3,5:20.0,57,49,WAS,ATL,11,home,bad pass,steal,,turnover,,T. Satoranský,M. Muscala
 319,3,5:03.0,57,51,WAS,ATL,17,away,DK,assist,0,make2,2,M. Muscala,K. Korver
 320,3,4:44.0,57,51,WAS,ATL,19,home,JS,,12,miss2,0,M. Gortat,
 321,3,4:43.0,57,51,WAS,ATL,1,away,DefReb,,,DefReb,,P. Millsap,
@@ -360,7 +360,7 @@
 358,3,1:40.0,66,55,WAS,ATL,0,home,FreeThrow,,,make1,1,M. Morris,
 359,3,1:40.0,67,55,WAS,ATL,0,home,FreeThrow,,,make1,1,M. Morris,
 360,3,1:20.0,67,58,WAS,ATL,20,away,JS,assist,29,make3,3,P. Millsap,M. Delaney
-361,3,1:02.0,67,58,WAS,ATL,18,home,LostBall,steal,,turnover,,T. Satoranský,T. Hardaway
+361,3,1:02.0,67,58,WAS,ATL,18,home,lost ball,steal,,turnover,,T. Satoranský,T. Hardaway
 362,3,0:56.0,67,60,WAS,ATL,6,away,LU,assist,1,make2,2,T. Hardaway,M. Delaney
 363,3,0:39.0,67,60,WAS,ATL,17,home,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,P. Millsap,M. Thornton
 364,3,0:39.0,68,60,WAS,ATL,0,home,FreeThrow,,,make1,1,M. Morris,

@@ -1,6 +1,6 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:43.0,0,2,PHI,SAC,17,away,LU,assist,1,make2,2,G. Temple,D. Cousins
-1,1,11:29.0,0,2,PHI,SAC,14,home,BadPass,steal,,turnover,,T. McConnell,G. Temple
+1,1,11:29.0,0,2,PHI,SAC,14,home,bad pass,steal,,turnover,,T. McConnell,G. Temple
 2,1,11:22.0,0,2,PHI,SAC,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,E. İlyasova,D. Cousins
 3,1,11:22.0,0,3,PHI,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
 4,1,11:22.0,0,4,PHI,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
@@ -10,14 +10,14 @@
 8,1,10:54.0,0,6,PHI,SAC,1,away,LU,,1,make2,2,D. Cousins,
 9,1,10:41.0,0,6,PHI,SAC,13,home,JS,,9,miss2,0,J. Okafor,
 10,1,10:40.0,0,6,PHI,SAC,1,away,DefReb,,,DefReb,,A. Afflalo,
-11,1,10:29.0,0,6,PHI,SAC,11,away,BadPass,steal,,turnover,,G. Temple,E. İlyasova
+11,1,10:29.0,0,6,PHI,SAC,11,away,bad pass,steal,,turnover,,G. Temple,E. İlyasova
 12,1,10:23.0,3,6,PHI,SAC,6,home,JS,assist,23,make3,3,E. İlyasova,T. McConnell
 13,1,10:00.0,3,6,PHI,SAC,23,away,JS,block,14,miss2,0,G. Temple,N. Stauskas
 14,1,10:00.0,3,6,PHI,SAC,0,home,DefReb,,,DefReb,,Team,
 15,1,9:52.0,3,6,PHI,SAC,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Koufos,E. İlyasova
 16,1,9:52.0,4,6,PHI,SAC,0,home,FreeThrow,,,make1,1,E. İlyasova,
 17,1,9:52.0,5,6,PHI,SAC,0,home,FreeThrow,,,make1,1,E. İlyasova,
-18,1,9:43.0,5,6,PHI,SAC,9,away,BadPass,steal,,turnover,,D. Cousins,R. Covington
+18,1,9:43.0,5,6,PHI,SAC,9,away,bad pass,steal,,turnover,,D. Cousins,R. Covington
 19,1,9:39.0,5,6,PHI,SAC,4,home,DblDribble,,,turnover,,R. Covington,
 20,1,9:18.0,5,8,PHI,SAC,21,away,LU,,2,make2,2,D. Cousins,
 21,1,9:09.0,5,8,PHI,SAC,9,home,BadPass,,,turnover,,R. Covington,
@@ -42,9 +42,9 @@
 40,1,7:02.0,7,14,PHI,SAC,0,home,Sub,,,,,G. Henderson,R. Covington
 41,1,6:56.0,7,14,PHI,SAC,6,away,JS,,25,miss3,0,D. Collison,
 42,1,6:55.0,7,14,PHI,SAC,1,away,OffReb,,,OffReb,,D. Cousins,
-43,1,6:53.0,7,14,PHI,SAC,2,away,LostBall,steal,,turnover,,D. Cousins,N. Stauskas
+43,1,6:53.0,7,14,PHI,SAC,2,away,lost ball,steal,,turnover,,D. Cousins,N. Stauskas
 44,1,6:43.0,9,14,PHI,SAC,10,home,LU,assist,2,make2,2,J. Okafor,D. Šarić
-45,1,6:23.0,9,14,PHI,SAC,20,away,LostBall,steal,,turnover,,G. Temple,T. McConnell
+45,1,6:23.0,9,14,PHI,SAC,20,away,lost ball,steal,,turnover,,G. Temple,T. McConnell
 46,1,6:21.0,9,14,PHI,SAC,2,home,PersonalFoul,,,,,D. Collison,
 47,1,6:21.0,9,14,PHI,SAC,0,home,Sub,,,,,T. Luwawu-Cabarrot,N. Stauskas
 48,1,6:13.0,9,14,PHI,SAC,8,home,JS,,25,miss3,0,D. Šarić,
@@ -61,14 +61,14 @@
 59,1,3:57.0,11,24,PHI,SAC,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,G. Henderson
 60,1,3:57.0,11,24,PHI,SAC,0,home,Sub,,,,,S. Rodríguez,T. McConnell
 61,1,3:57.0,11,24,PHI,SAC,0,away,Sub,,,,,W. Cauley-Stein,K. Koufos
-62,1,3:49.0,11,24,PHI,SAC,8,home,LostBall,steal,,turnover,,T. Luwawu-Cabarrot,D. Cousins
+62,1,3:49.0,11,24,PHI,SAC,8,home,lost ball,steal,,turnover,,T. Luwawu-Cabarrot,D. Cousins
 63,1,3:48.0,11,24,PHI,SAC,1,away,LostBall,,,turnover,,D. Cousins,
 64,1,3:38.0,13,24,PHI,SAC,10,home,JS,assist,19,make2,2,D. Šarić,T. Luwawu-Cabarrot
 65,1,3:26.0,13,24,PHI,SAC,12,away,HS,,6,miss2,0,D. Cousins,
 66,1,3:25.0,13,24,PHI,SAC,1,home,DefReb,,,DefReb,,T. Luwawu-Cabarrot,
 67,1,3:19.0,13,24,PHI,SAC,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,W. Cauley-Stein,N. Noel
 68,1,3:19.0,13,24,PHI,SAC,0,away,Sub,,,,,T. Lawson,D. Collison
-69,1,3:11.0,13,24,PHI,SAC,8,home,BadPass,steal,,turnover,,S. Rodríguez,W. Cauley-Stein
+69,1,3:11.0,13,24,PHI,SAC,8,home,bad pass,steal,,turnover,,S. Rodríguez,W. Cauley-Stein
 70,1,3:02.0,13,27,PHI,SAC,9,away,JS,assist,25,make3,3,D. Cousins,G. Temple
 71,1,2:46.0,15,27,PHI,SAC,16,home,JS,,16,make2,2,G. Henderson,
 72,1,2:27.0,15,29,PHI,SAC,19,away,LU,assist,1,make2,2,W. Cauley-Stein,G. Temple
@@ -97,9 +97,9 @@
 95,2,11:31.0,23,38,PHI,SAC,22,away,JS,assist,23,make3,3,A. Tolliver,M. Richardson
 96,2,11:17.0,23,38,PHI,SAC,14,home,LU,block,1,miss2,0,N. Stauskas,W. Cauley-Stein
 97,2,11:15.0,23,38,PHI,SAC,2,away,DefReb,,,DefReb,,W. Cauley-Stein,
-98,2,11:13.0,23,38,PHI,SAC,2,away,LostBall,steal,,turnover,,W. Cauley-Stein,N. Noel
+98,2,11:13.0,23,38,PHI,SAC,2,away,lost ball,steal,,turnover,,W. Cauley-Stein,N. Noel
 99,2,11:05.0,23,38,PHI,SAC,8,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Tolliver,D. Šarić
-100,2,10:58.0,23,38,PHI,SAC,7,home,BadPass,steal,,turnover,,N. Noel,A. Tolliver
+100,2,10:58.0,23,38,PHI,SAC,7,home,bad pass,steal,,turnover,,N. Noel,A. Tolliver
 101,2,10:37.0,23,38,PHI,SAC,21,away,JS,,15,miss2,0,W. Cauley-Stein,
 102,2,10:36.0,23,38,PHI,SAC,1,home,DefReb,,,DefReb,,N. Noel,
 103,2,10:21.0,23,38,PHI,SAC,15,home,JS,,25,miss3,0,R. Covington,
@@ -146,7 +146,7 @@
 144,2,5:30.0,33,46,PHI,SAC,0,away,Sub,,,,,D. Cousins,W. Cauley-Stein
 145,2,5:12.0,35,46,PHI,SAC,18,home,LU,,1,make2,2,N. Stauskas,
 146,2,4:59.0,35,48,PHI,SAC,13,away,LU,,1,make2,2,T. Lawson,
-147,2,4:41.0,35,48,PHI,SAC,18,home,LostBall,steal,,turnover,,E. İlyasova,D. Collison
+147,2,4:41.0,35,48,PHI,SAC,18,home,lost ball,steal,,turnover,,E. İlyasova,D. Collison
 148,2,4:36.0,35,50,PHI,SAC,5,away,DK,assist,1,make2,2,M. Barnes,D. Collison
 149,2,4:20.0,35,50,PHI,SAC,16,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,J. Okafor
 150,2,4:20.0,36,50,PHI,SAC,0,home,FreeThrow,,,make1,1,J. Okafor,
@@ -170,7 +170,7 @@
 168,2,2:45.0,38,53,PHI,SAC,1,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Temple,J. Okafor
 169,2,2:45.0,39,53,PHI,SAC,0,home,FreeThrow,,,make1,1,J. Okafor,
 170,2,2:45.0,40,53,PHI,SAC,0,home,FreeThrow,,,make1,1,J. Okafor,
-171,2,2:28.0,40,53,PHI,SAC,17,away,BadPass,steal,,turnover,,D. Cousins,G. Henderson
+171,2,2:28.0,40,53,PHI,SAC,17,away,bad pass,steal,,turnover,,D. Cousins,G. Henderson
 172,2,2:16.0,43,53,PHI,SAC,12,home,JS,assist,25,make3,3,R. Covington,G. Henderson
 173,2,1:46.0,43,53,PHI,SAC,30,away,ShotClockViolation,,,turnover,,Team,
 174,2,1:29.0,43,53,PHI,SAC,17,home,JS,,24,miss3,0,R. Covington,
@@ -189,7 +189,7 @@
 187,2,0:12.0,48,55,PHI,SAC,1,home,DefReb,,,DefReb,,R. Covington,
 188,2,0:02.0,48,55,PHI,SAC,10,home,JS,,25,miss3,0,S. Rodríguez,
 189,2,0:00.0,48,55,PHI,SAC,2,away,DefReb,,,DefReb,,D. Cousins,
-190,3,11:49.0,48,55,PHI,SAC,11,home,LostBall,steal,,turnover,,J. Okafor,G. Temple
+190,3,11:49.0,48,55,PHI,SAC,11,home,lost ball,steal,,turnover,,J. Okafor,G. Temple
 191,3,11:32.0,48,57,PHI,SAC,17,away,LU,assist,2,make2,2,D. Cousins,A. Afflalo
 192,3,11:20.0,50,57,PHI,SAC,12,home,LU,assist,1,make2,2,R. Covington,E. İlyasova
 193,3,11:10.0,50,57,PHI,SAC,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. McConnell,D. Cousins
@@ -250,7 +250,7 @@
 248,3,5:26.0,72,77,PHI,SAC,0,home,Sub,,,,,G. Henderson,N. Stauskas
 249,3,5:26.0,72,78,PHI,SAC,0,away,FreeThrow,,,make1,1,D. Cousins,
 250,3,5:10.0,74,78,PHI,SAC,16,home,JS,assist,12,make2,2,D. Šarić,T. McConnell
-251,3,4:53.0,74,78,PHI,SAC,17,away,LostBall,steal,,turnover,,D. Cousins,N. Noel
+251,3,4:53.0,74,78,PHI,SAC,17,away,lost ball,steal,,turnover,,D. Cousins,N. Noel
 252,3,4:48.0,76,78,PHI,SAC,5,home,LU,assist,2,make2,2,R. Covington,D. Šarić
 253,3,4:30.0,76,78,PHI,SAC,18,away,JS,,16,miss2,0,D. Collison,
 254,3,4:29.0,76,78,PHI,SAC,1,home,DefReb,,,DefReb,,R. Covington,
@@ -272,7 +272,7 @@
 270,3,2:23.0,80,81,PHI,SAC,26,home,JS,,20,miss2,0,D. Šarić,
 271,3,2:22.0,80,81,PHI,SAC,1,home,OffReb,,,OffReb,,R. Covington,
 272,3,2:21.0,82,81,PHI,SAC,1,home,LU,,1,make2,2,R. Covington,
-273,3,2:07.0,82,81,PHI,SAC,14,away,LostBall,steal,,turnover,,T. Lawson,N. Noel
+273,3,2:07.0,82,81,PHI,SAC,14,away,lost ball,steal,,turnover,,T. Lawson,N. Noel
 274,3,1:46.0,84,81,PHI,SAC,21,home,JS,assist,13,make2,2,S. Rodríguez,D. Šarić
 275,3,1:28.0,84,81,PHI,SAC,18,away,JS,,27,miss3,0,A. Tolliver,
 276,3,1:26.0,84,81,PHI,SAC,2,home,DefReb,,,DefReb,,G. Henderson,
@@ -305,7 +305,7 @@
 303,4,10:41.0,92,89,PHI,SAC,16,home,LU,assist,2,make2,2,N. Stauskas,G. Henderson
 304,4,10:25.0,92,92,PHI,SAC,16,away,JS,assist,25,make3,3,M. Barnes,T. Lawson
 305,4,10:11.0,94,92,PHI,SAC,14,home,LU,assist,3,make2,2,G. Henderson,N. Noel
-306,4,9:53.0,94,92,PHI,SAC,18,away,BadPass,steal,,turnover,,T. Lawson,G. Henderson
+306,4,9:53.0,94,92,PHI,SAC,18,away,bad pass,steal,,turnover,,T. Lawson,G. Henderson
 307,4,9:44.0,94,92,PHI,SAC,9,home,JS,,16,miss2,0,S. Rodríguez,
 308,4,9:42.0,94,92,PHI,SAC,2,away,DefReb,,,DefReb,,T. Lawson,
 309,4,9:33.0,94,94,PHI,SAC,9,away,JS,assist,9,make2,2,W. Cauley-Stein,M. Barnes
@@ -336,7 +336,7 @@
 334,4,6:47.0,101,98,PHI,SAC,14,home,JS,,15,miss2,0,J. Okafor,
 335,4,6:46.0,101,98,PHI,SAC,1,home,OffReb,,,OffReb,,Team,
 336,4,6:46.0,101,98,PHI,SAC,0,home,ShotClockViolation,,,turnover,,Team,
-337,4,6:27.0,101,98,PHI,SAC,19,away,LostBall,steal,,turnover,,W. Cauley-Stein,R. Covington
+337,4,6:27.0,101,98,PHI,SAC,19,away,lost ball,steal,,turnover,,W. Cauley-Stein,R. Covington
 338,4,6:19.0,101,98,PHI,SAC,8,home,JS,,26,miss3,0,R. Covington,
 339,4,6:17.0,101,98,PHI,SAC,2,home,OffReb,,,OffReb,,Team,
 340,4,6:17.0,101,98,PHI,SAC,0,home,Sub,,,,,N. Noel,J. Okafor
@@ -380,7 +380,7 @@
 378,4,2:42.0,112,107,PHI,SAC,0,home,FreeThrow,,,make1,1,G. Henderson,
 379,4,2:31.0,112,107,PHI,SAC,11,away,JS,,27,miss3,0,M. Barnes,
 380,4,2:30.0,112,107,PHI,SAC,1,away,OffReb,,,OffReb,,M. Barnes,
-381,4,2:28.0,112,107,PHI,SAC,2,away,BadPass,steal,,turnover,,M. Barnes,T. McConnell
+381,4,2:28.0,112,107,PHI,SAC,2,away,bad pass,steal,,turnover,,M. Barnes,T. McConnell
 382,4,2:14.0,112,107,PHI,SAC,14,home,JS,,26,miss3,0,R. Covington,
 383,4,2:13.0,112,107,PHI,SAC,1,away,DefReb,,,DefReb,,D. Cousins,
 384,4,2:01.0,112,107,PHI,SAC,12,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Noel,D. Cousins
@@ -398,7 +398,7 @@
 396,4,1:10.0,114,113,PHI,SAC,18,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Barnes,R. Covington
 397,4,1:10.0,115,113,PHI,SAC,0,home,FreeThrow,,,make1,1,R. Covington,
 398,4,1:10.0,116,113,PHI,SAC,0,home,FreeThrow,,,make1,1,R. Covington,
-399,4,1:01.0,116,113,PHI,SAC,9,away,BadPass,steal,,turnover,,D. Cousins,R. Covington
+399,4,1:01.0,116,113,PHI,SAC,9,away,bad pass,steal,,turnover,,D. Cousins,R. Covington
 400,4,0:59.0,116,113,PHI,SAC,2,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Cousins,G. Henderson
 401,4,0:59.0,117,113,PHI,SAC,0,home,FreeThrow,,,make1,1,G. Henderson,
 402,4,0:59.0,117,113,PHI,SAC,0,away,Sub,,,,,K. Koufos,D. Cousins
@@ -414,7 +414,7 @@
 412,4,0:29.0,118,113,PHI,SAC,0,home,OffReb,,,OffReb,,Team,
 413,4,0:29.0,119,113,PHI,SAC,0,home,FreeThrow,,,make1,1,E. İlyasova,
 414,4,0:29.0,119,113,PHI,SAC,0,away,Timeout,,,,,,
-415,4,0:28.0,119,113,PHI,SAC,1,away,BadPass,steal,,turnover,,A. Afflalo,R. Covington
+415,4,0:28.0,119,113,PHI,SAC,1,away,bad pass,steal,,turnover,,A. Afflalo,R. Covington
 416,4,0:19.0,119,113,PHI,SAC,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Lawson,G. Henderson
 417,4,0:19.0,119,113,PHI,SAC,0,home,FreeThrow,,,make1,0,G. Henderson,
 418,4,0:19.0,119,113,PHI,SAC,0,home,OffReb,,,OffReb,,Team,
@@ -424,7 +424,7 @@
 422,4,0:11.0,120,116,PHI,SAC,4,away,JS,assist,22,make3,3,A. Afflalo,M. Barnes
 423,4,0:11.0,120,116,PHI,SAC,0,home,Timeout,,,,,,
 424,4,0:11.0,120,116,PHI,SAC,0,away,Sub,,,,,W. Cauley-Stein,K. Koufos
-425,4,0:10.0,120,116,PHI,SAC,1,home,BadPass,steal,,turnover,,D. Šarić,M. Barnes
+425,4,0:10.0,120,116,PHI,SAC,1,home,bad pass,steal,,turnover,,D. Šarić,M. Barnes
 426,4,0:06.0,120,119,PHI,SAC,4,away,JS,assist,25,make3,3,M. Barnes,T. Lawson
 427,4,0:06.0,120,119,PHI,SAC,0,home,Timeout,,,,,,
 428,4,0:05.0,120,119,PHI,SAC,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Temple,G. Henderson

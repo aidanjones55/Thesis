@@ -4,7 +4,7 @@
 2,1,11:23.0,2,0,DAL,POR,21,home,JS,assist,18,make2,2,D. Nowitzki,W. Matthews
 3,1,11:01.0,2,0,DAL,POR,22,away,LU,,0,miss2,0,N. Vonleh,
 4,1,11:00.0,2,0,DAL,POR,1,away,OffReb,,,OffReb,,N. Vonleh,
-5,1,10:58.0,2,0,DAL,POR,2,away,LostBall,steal,,turnover,,N. Vonleh,W. Matthews
+5,1,10:58.0,2,0,DAL,POR,2,away,lost ball,steal,,turnover,,N. Vonleh,W. Matthews
 6,1,10:49.0,2,0,DAL,POR,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lillard,H. Barnes
 7,1,10:49.0,3,0,DAL,POR,0,home,FreeThrow,,,make1,1,H. Barnes,
 8,1,10:49.0,3,0,DAL,POR,0,home,FreeThrow,,,make1,0,H. Barnes,
@@ -191,7 +191,7 @@
 189,2,3:11.0,44,52,DAL,POR,0,home,Sub,,,,,W. Matthews,D. Finney-Smith
 190,2,3:11.0,44,52,DAL,POR,0,away,Sub,,,,,A. Aminu,N. Vonleh
 191,2,3:07.0,44,54,DAL,POR,4,away,LU,assist,2,make2,2,M. Plumlee,A. Aminu
-192,2,2:53.0,44,54,DAL,POR,14,home,BadPass,steal,,turnover,,Y. Ferrell,C. McCollum
+192,2,2:53.0,44,54,DAL,POR,14,home,bad pass,steal,,turnover,,Y. Ferrell,C. McCollum
 193,2,2:40.0,44,57,DAL,POR,13,away,JS,assist,26,make3,3,D. Lillard,C. McCollum
 194,2,2:22.0,44,57,DAL,POR,18,home,JS,,24,miss3,0,Y. Ferrell,
 195,2,2:20.0,44,57,DAL,POR,2,away,DefReb,,,DefReb,,M. Plumlee,
@@ -212,7 +212,7 @@
 210,2,0:49.0,50,62,DAL,POR,11,home,DK,,0,make2,2,H. Barnes,
 211,2,0:34.0,50,62,DAL,POR,15,away,JS,,24,miss3,0,A. Aminu,
 212,2,0:33.0,50,62,DAL,POR,1,away,OffReb,,,OffReb,,M. Harkless,
-213,2,0:29.0,50,62,DAL,POR,4,away,BadPass,steal,,turnover,,M. Harkless,H. Barnes
+213,2,0:29.0,50,62,DAL,POR,4,away,bad pass,steal,,turnover,,M. Harkless,H. Barnes
 214,2,0:20.0,50,62,DAL,POR,9,home,JS,,19,miss2,0,D. Nowitzki,
 215,2,0:19.0,50,62,DAL,POR,1,away,DefReb,,,DefReb,,A. Aminu,
 216,2,0:18.0,50,62,DAL,POR,1,away,Timeout,,,,,,
@@ -221,10 +221,10 @@
 219,2,0:05.0,50,64,DAL,POR,13,away,LU,,1,make2,2,D. Lillard,
 220,2,0:00.0,53,64,DAL,POR,5,home,JS,,30,make3,3,D. Harris,
 221,3,11:48.0,55,64,DAL,POR,12,home,LU,assist,3,make2,2,H. Barnes,D. Nowitzki
-222,3,11:33.0,55,64,DAL,POR,15,away,LostBall,steal,,turnover,,D. Lillard,Y. Ferrell
+222,3,11:33.0,55,64,DAL,POR,15,away,lost ball,steal,,turnover,,D. Lillard,Y. Ferrell
 223,3,11:19.0,55,64,DAL,POR,14,home,JS,,23,miss3,0,D. Nowitzki,
 224,3,11:18.0,55,64,DAL,POR,1,away,DefReb,,,DefReb,,D. Lillard,
-225,3,11:12.0,55,64,DAL,POR,6,away,BadPass,steal,,turnover,,E. Turner,H. Barnes
+225,3,11:12.0,55,64,DAL,POR,6,away,bad pass,steal,,turnover,,E. Turner,H. Barnes
 226,3,11:02.0,55,64,DAL,POR,10,home,OffGoaltending,,,turnover,,H. Barnes,
 227,3,10:48.0,55,64,DAL,POR,14,away,JS,,25,miss3,0,D. Lillard,
 228,3,10:45.0,55,64,DAL,POR,3,home,DefReb,,,DefReb,,D. Nowitzki,
@@ -261,7 +261,7 @@
 259,3,6:18.0,70,73,DAL,POR,1,home,DefReb,,,DefReb,,D. Nowitzki,
 260,3,5:59.0,72,73,DAL,POR,19,home,JS,,11,make2,2,D. Nowitzki,
 261,3,5:35.0,72,75,DAL,POR,24,away,LU,,1,make2,2,C. McCollum,
-262,3,5:14.0,72,75,DAL,POR,21,home,LostBall,steal,,turnover,,W. Matthews,D. Lillard
+262,3,5:14.0,72,75,DAL,POR,21,home,lost ball,steal,,turnover,,W. Matthews,D. Lillard
 263,3,5:08.0,72,77,DAL,POR,6,away,LU,assist,1,make2,2,A. Aminu,E. Turner
 264,3,5:08.0,72,77,DAL,POR,0,home,Timeout,,,,,,
 265,3,5:08.0,72,77,DAL,POR,0,home,Sub,,,,,S. Curry,D. Nowitzki
@@ -314,7 +314,7 @@
 312,3,1:17.0,78,82,DAL,POR,0,home,Sub,,,,,Y. Ferrell,H. Barnes
 313,3,1:17.0,78,82,DAL,POR,0,home,Sub,,,,,D. Nowitzki,D. Harris
 314,3,1:17.0,78,83,DAL,POR,0,away,FreeThrow,,,make1,1,M. Harkless,
-315,3,1:00.0,78,83,DAL,POR,17,home,BadPass,steal,,turnover,,D. Finney-Smith,E. Davis
+315,3,1:00.0,78,83,DAL,POR,17,home,bad pass,steal,,turnover,,D. Finney-Smith,E. Davis
 316,3,0:47.0,78,83,DAL,POR,13,away,LU,block,2,miss2,0,M. Harkless,S. Mejri
 317,3,0:46.0,78,83,DAL,POR,1,away,OffReb,,,OffReb,,E. Davis,
 318,3,0:46.0,78,83,DAL,POR,0,away,LU,,0,miss2,0,E. Davis,
@@ -388,7 +388,7 @@
 386,4,5:42.0,95,101,DAL,POR,14,home,JS,,18,make2,2,H. Barnes,
 387,4,5:40.0,95,101,DAL,POR,2,away,Timeout,,,,,,
 388,4,5:40.0,95,101,DAL,POR,0,away,Sub,,,,,A. Crabbe,M. Harkless
-389,4,5:28.0,95,101,DAL,POR,12,away,LostBall,steal,,turnover,,C. McCollum,D. Powell
+389,4,5:28.0,95,101,DAL,POR,12,away,lost ball,steal,,turnover,,C. McCollum,D. Powell
 390,4,5:26.0,95,101,DAL,POR,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,C. McCollum,D. Harris
 391,4,5:26.0,96,101,DAL,POR,0,home,FreeThrow,,,make1,1,D. Harris,
 392,4,5:26.0,97,101,DAL,POR,0,home,FreeThrow,,,make1,1,D. Harris,
@@ -410,7 +410,7 @@
 408,4,3:36.0,102,101,DAL,POR,1,away,OffReb,,,OffReb,,A. Aminu,
 409,4,3:29.0,102,101,DAL,POR,7,away,JS,,6,miss2,0,C. McCollum,
 410,4,3:28.0,102,101,DAL,POR,1,home,DefReb,,,DefReb,,D. Harris,
-411,4,3:25.0,102,101,DAL,POR,3,home,BadPass,steal,,turnover,,D. Harris,D. Lillard
+411,4,3:25.0,102,101,DAL,POR,3,home,bad pass,steal,,turnover,,D. Harris,D. Lillard
 412,4,3:08.0,102,103,DAL,POR,17,away,JS,,23,make2,2,D. Lillard,
 413,4,3:06.0,102,103,DAL,POR,2,home,Timeout,,,,,,
 414,4,3:06.0,102,103,DAL,POR,0,home,Sub,,,,,D. Nowitzki,D. Powell
@@ -421,19 +421,19 @@
 419,4,2:48.0,103,103,DAL,POR,1,away,DefReb,,,DefReb,,A. Aminu,
 420,4,2:32.0,103,103,DAL,POR,16,away,JS,,25,miss3,0,D. Lillard,
 421,4,2:30.0,103,103,DAL,POR,2,home,DefReb,,,DefReb,,H. Barnes,
-422,4,2:07.0,103,103,DAL,POR,23,home,BadPass,steal,,turnover,,H. Barnes,M. Plumlee
+422,4,2:07.0,103,103,DAL,POR,23,home,bad pass,steal,,turnover,,H. Barnes,M. Plumlee
 423,4,1:55.0,103,103,DAL,POR,12,away,Traveling,,,turnover,,A. Aminu,
 424,4,1:55.0,103,103,DAL,POR,0,home,Sub,,,,,D. Nowitzki,D. Powell
 425,4,1:46.0,105,103,DAL,POR,9,home,LU,assist,2,make2,2,Y. Ferrell,D. Nowitzki
 426,4,1:29.0,105,103,DAL,POR,17,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Barnes,A. Aminu
 427,4,1:29.0,105,104,DAL,POR,0,away,FreeThrow,,,make1,1,A. Aminu,
 428,4,1:29.0,105,105,DAL,POR,0,away,FreeThrow,,,make1,1,A. Aminu,
-429,4,1:16.0,105,105,DAL,POR,13,home,BadPass,steal,,turnover,,Y. Ferrell,A. Aminu
+429,4,1:16.0,105,105,DAL,POR,13,home,bad pass,steal,,turnover,,Y. Ferrell,A. Aminu
 430,4,1:13.0,105,107,DAL,POR,3,away,DK,assist,0,make2,2,M. Plumlee,D. Lillard
 431,4,1:13.0,105,107,DAL,POR,0,home,Timeout,,,,,,
 432,4,1:02.0,105,107,DAL,POR,11,home,JS,,15,miss2,0,D. Nowitzki,
 433,4,1:01.0,105,107,DAL,POR,1,away,DefReb,,,DefReb,,D. Lillard,
-434,4,0:44.0,105,107,DAL,POR,17,away,BadPass,steal,,turnover,,D. Lillard,D. Harris
+434,4,0:44.0,105,107,DAL,POR,17,away,bad pass,steal,,turnover,,D. Lillard,D. Harris
 435,4,0:39.0,108,107,DAL,POR,5,home,JS,assist,25,make3,3,D. Nowitzki,W. Matthews
 436,4,0:39.0,108,107,DAL,POR,0,away,Timeout,,,,,,
 437,4,0:39.0,108,107,DAL,POR,0,home,Sub,,,,,D. Finney-Smith,D. Nowitzki

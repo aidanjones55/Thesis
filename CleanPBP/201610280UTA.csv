@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:45.0,2,0,UTA,LAL,15,home,JS,assist,18,make2,2,R. Hood,B. Diaw
 1,1,11:30.0,2,2,UTA,LAL,15,away,JS,assist,20,make2,2,N. Young,T. Mozgov
-2,1,11:07.0,2,2,UTA,LAL,23,home,BadPass,steal,,turnover,,B. Diaw,D. Russell
+2,1,11:07.0,2,2,UTA,LAL,23,home,bad pass,steal,,turnover,,B. Diaw,D. Russell
 3,1,11:01.0,2,2,UTA,LAL,6,away,JS,,25,miss3,0,D. Russell,
 4,1,11:00.0,2,2,UTA,LAL,1,home,DefReb,,,DefReb,,R. Hood,
 5,1,10:49.0,5,2,UTA,LAL,11,home,JS,assist,25,make3,3,R. Hood,R. Gobert
@@ -136,8 +136,8 @@
 134,2,9:16.0,30,29,UTA,LAL,0,away,Sub,,,,,B. Ingram,J. Clarkson
 135,2,9:16.0,31,29,UTA,LAL,0,home,FreeThrow,,,make1,1,T. Lyles,
 136,2,9:05.0,31,31,UTA,LAL,11,away,LU,assist,2,make2,2,L. Williams,M. Huertas
-137,2,8:40.0,31,31,UTA,LAL,25,home,BadPass,steal,,turnover,,S. Mack,T. Mozgov
-138,2,8:31.0,31,31,UTA,LAL,9,away,LostBall,steal,,turnover,,M. Huertas,S. Mack
+137,2,8:40.0,31,31,UTA,LAL,25,home,bad pass,steal,,turnover,,S. Mack,T. Mozgov
+138,2,8:31.0,31,31,UTA,LAL,9,away,lost ball,steal,,turnover,,M. Huertas,S. Mack
 139,2,8:28.0,33,31,UTA,LAL,3,home,LU,,1,make2,2,S. Mack,
 140,2,8:12.0,33,33,UTA,LAL,16,away,JS,,8,make2,2,M. Huertas,
 141,2,8:12.0,33,33,UTA,LAL,0,away,AFPFoul,DrawnBy,,AFPFoul,,R. Gobert,T. Mozgov
@@ -164,7 +164,7 @@
 162,2,6:29.0,36,36,UTA,LAL,1,away,DefReb,,,DefReb,,L. Deng,
 163,2,6:22.0,36,36,UTA,LAL,7,away,JS,,25,miss3,0,B. Ingram,
 164,2,6:22.0,36,36,UTA,LAL,0,home,DefReb,,,DefReb,,T. Lyles,
-165,2,5:59.0,36,36,UTA,LAL,23,home,LostBall,steal,,turnover,,R. Gobert,D. Russell
+165,2,5:59.0,36,36,UTA,LAL,23,home,lost ball,steal,,turnover,,R. Gobert,D. Russell
 166,2,5:56.0,36,36,UTA,LAL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,R. Hood,T. Mozgov
 167,2,5:56.0,36,36,UTA,LAL,0,home,Timeout,,,,,,
 168,2,5:56.0,36,37,UTA,LAL,0,away,FreeThrow,,,make1,1,T. Mozgov,
@@ -193,7 +193,7 @@
 191,2,4:16.0,38,40,UTA,LAL,0,home,FreeThrow,,,make1,1,G. Hill,
 192,2,4:01.0,38,40,UTA,LAL,15,home,Sub,,,,,D. Favors,B. Diaw
 193,2,3:51.0,38,40,UTA,LAL,10,away,ShotClockViolation,,,turnover,,Team,
-194,2,3:35.0,38,40,UTA,LAL,16,home,LostBall,steal,,turnover,,J. Johnson,L. Deng
+194,2,3:35.0,38,40,UTA,LAL,16,home,lost ball,steal,,turnover,,J. Johnson,L. Deng
 195,2,3:31.0,38,42,UTA,LAL,4,away,DK,assist,0,make2,2,L. Deng,D. Russell
 196,2,3:19.0,40,42,UTA,LAL,12,home,LU,assist,2,make2,2,G. Hill,D. Favors
 197,2,3:19.0,40,42,UTA,LAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,N. Young,G. Hill
@@ -219,7 +219,7 @@
 217,2,1:43.0,47,43,UTA,LAL,1,home,DefReb,,,DefReb,,R. Gobert,
 218,2,1:21.0,47,43,UTA,LAL,22,home,JS,,24,miss3,0,J. Johnson,
 219,2,1:20.0,47,43,UTA,LAL,1,away,DefReb,,,DefReb,,T. Mozgov,
-220,2,1:12.0,47,43,UTA,LAL,8,away,BadPass,steal,,turnover,,D. Russell,D. Favors
+220,2,1:12.0,47,43,UTA,LAL,8,away,bad pass,steal,,turnover,,D. Russell,D. Favors
 221,2,1:04.0,47,43,UTA,LAL,8,home,LU,,2,miss2,0,R. Gobert,
 222,2,1:02.0,47,43,UTA,LAL,2,home,OffReb,,,OffReb,,R. Gobert,
 223,2,1:02.0,47,43,UTA,LAL,0,home,LU,block,2,miss2,0,R. Gobert,T. Mozgov
@@ -347,7 +347,7 @@
 345,3,1:05.0,64,60,UTA,LAL,0,home,Sub,,,,,J. Ingles,R. Hood
 346,3,0:41.0,64,60,UTA,LAL,24,away,JS,,18,miss2,0,J. Randle,
 347,3,0:40.0,64,60,UTA,LAL,1,home,DefReb,,,DefReb,,S. Mack,
-348,3,0:32.0,64,60,UTA,LAL,8,home,BadPass,steal,,turnover,,T. Lyles,L. Williams
+348,3,0:32.0,64,60,UTA,LAL,8,home,bad pass,steal,,turnover,,T. Lyles,L. Williams
 349,3,0:28.0,64,62,UTA,LAL,4,away,DK,assist,0,make2,2,J. Clarkson,L. Williams
 350,3,0:12.0,64,62,UTA,LAL,16,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,D. Favors,M. Huertas
 351,3,0:12.0,64,62,UTA,LAL,0,home,OffensiveFoul,,,turnover,,D. Favors,
@@ -358,8 +358,8 @@
 356,3,0:01.0,64,65,UTA,LAL,0,home,OffReb,,,OffReb,,Team,
 357,3,0:01.0,65,65,UTA,LAL,0,home,FreeThrow,,,make1,1,D. Favors,
 358,3,0:00.0,65,65,UTA,LAL,1,away,BadPass,,,turnover,,M. Huertas,
-359,4,11:41.0,65,65,UTA,LAL,19,home,LostBall,steal,,turnover,,D. Favors,L. Deng
-360,4,11:22.0,65,65,UTA,LAL,19,away,LostBall,steal,,turnover,,J. Randle,D. Favors
+359,4,11:41.0,65,65,UTA,LAL,19,home,lost ball,steal,,turnover,,D. Favors,L. Deng
+360,4,11:22.0,65,65,UTA,LAL,19,away,lost ball,steal,,turnover,,J. Randle,D. Favors
 361,4,11:17.0,65,65,UTA,LAL,5,home,LostBall,,,turnover,,D. Exum,
 362,4,11:06.0,65,65,UTA,LAL,11,home,Sub,,,,,R. Hood,D. Exum
 363,4,11:01.0,65,65,UTA,LAL,5,away,JS,,3,miss2,0,J. Randle,
@@ -373,7 +373,7 @@
 371,4,9:46.0,69,67,UTA,LAL,0,home,FreeThrow,,,make1,1,D. Favors,
 372,4,9:46.0,69,67,UTA,LAL,0,home,Sub,,,,,G. Hill,J. Ingles
 373,4,9:46.0,70,67,UTA,LAL,0,home,FreeThrow,,,make1,1,D. Favors,
-374,4,9:32.0,70,67,UTA,LAL,14,away,BadPass,steal,,turnover,,L. Williams,R. Hood
+374,4,9:32.0,70,67,UTA,LAL,14,away,bad pass,steal,,turnover,,L. Williams,R. Hood
 375,4,9:28.0,72,67,UTA,LAL,4,home,LU,,2,make2,2,S. Mack,
 376,4,9:10.0,72,70,UTA,LAL,18,away,JS,assist,23,make3,3,L. Williams,D. Russell
 377,4,8:48.0,72,70,UTA,LAL,22,home,JS,,15,miss2,0,T. Lyles,

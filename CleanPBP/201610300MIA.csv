@@ -18,7 +18,7 @@
 16,1,9:10.0,3,6,MIA,SAS,1,away,DefReb,,,DefReb,,D. Lee,
 17,1,8:55.0,3,6,MIA,SAS,15,away,JS,,19,miss2,0,K. Leonard,
 18,1,8:54.0,3,6,MIA,SAS,1,home,DefReb,,,DefReb,,H. Whiteside,
-19,1,8:44.0,3,6,MIA,SAS,10,home,LostBall,steal,,turnover,,D. Waiters,D. Lee
+19,1,8:44.0,3,6,MIA,SAS,10,home,lost ball,steal,,turnover,,D. Waiters,D. Lee
 20,1,8:31.0,3,8,MIA,SAS,13,away,HS,,5,make2,2,P. Gasol,
 21,1,8:09.0,3,8,MIA,SAS,22,home,JS,,16,miss2,0,J. Winslow,
 22,1,8:08.0,3,8,MIA,SAS,1,away,DefReb,,,DefReb,,D. Lee,
@@ -80,7 +80,7 @@
 78,1,1:57.0,14,18,MIA,SAS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Dedmon,H. Whiteside
 79,1,1:48.0,14,18,MIA,SAS,9,away,DefGoaltending,,,DefGoaltending,,D. Dedmon,
 80,1,1:48.0,16,18,MIA,SAS,0,home,LU,,2,make2,2,J. Winslow,
-81,1,1:39.0,16,18,MIA,SAS,9,away,LostBall,steal,,turnover,,P. Mills,H. Whiteside
+81,1,1:39.0,16,18,MIA,SAS,9,away,lost ball,steal,,turnover,,P. Mills,H. Whiteside
 82,1,1:29.0,18,18,MIA,SAS,10,home,JS,,20,make2,2,T. Johnson,
 83,1,1:13.0,18,18,MIA,SAS,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,H. Whiteside,D. Dedmon
 84,1,1:13.0,18,19,MIA,SAS,0,away,FreeThrow,,,make1,1,D. Dedmon,
@@ -104,7 +104,7 @@
 102,1,0:01.0,19,24,MIA,SAS,5,home,JS,,20,miss2,0,T. Johnson,
 103,1,0:00.0,19,24,MIA,SAS,1,home,OffReb,,,OffReb,,Team,
 104,2,11:54.0,19,24,MIA,SAS,6,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. McGruder,M. Ginóbili
-105,2,11:47.0,19,24,MIA,SAS,7,away,BadPass,steal,,turnover,,M. Ginóbili,W. Reed
+105,2,11:47.0,19,24,MIA,SAS,7,away,bad pass,steal,,turnover,,M. Ginóbili,W. Reed
 106,2,11:32.0,21,24,MIA,SAS,15,home,JS,,8,make2,2,T. Johnson,
 107,2,11:14.0,21,27,MIA,SAS,18,away,JS,assist,25,make3,3,K. Leonard,P. Gasol
 108,2,10:46.0,21,27,MIA,SAS,28,home,JS,,18,miss2,0,T. Johnson,
@@ -169,7 +169,7 @@
 167,2,5:07.0,25,41,MIA,SAS,1,home,DefReb,,,DefReb,,L. Babbitt,
 168,2,4:59.0,25,41,MIA,SAS,8,home,JS,,25,miss3,0,G. Dragić,
 169,2,4:58.0,25,41,MIA,SAS,1,away,DefReb,,,DefReb,,D. Lee,
-170,2,4:43.0,25,41,MIA,SAS,15,away,BadPass,steal,,turnover,,T. Parker,J. Winslow
+170,2,4:43.0,25,41,MIA,SAS,15,away,bad pass,steal,,turnover,,T. Parker,J. Winslow
 171,2,4:35.0,25,41,MIA,SAS,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Lee,H. Whiteside
 172,2,4:35.0,25,41,MIA,SAS,0,home,FreeThrow,,,make1,0,H. Whiteside,
 173,2,4:35.0,25,41,MIA,SAS,0,home,OffReb,,,OffReb,,Team,
@@ -238,7 +238,7 @@
 236,3,9:41.0,49,59,MIA,SAS,1,home,DefReb,,,DefReb,,J. Winslow,
 237,3,9:33.0,49,59,MIA,SAS,8,home,LU,,1,miss2,0,D. Waiters,
 238,3,9:32.0,49,59,MIA,SAS,1,away,DefReb,,,DefReb,,P. Gasol,
-239,3,9:25.0,49,59,MIA,SAS,7,away,BadPass,steal,,turnover,,T. Parker,D. Waiters
+239,3,9:25.0,49,59,MIA,SAS,7,away,bad pass,steal,,turnover,,T. Parker,D. Waiters
 240,3,9:20.0,52,59,MIA,SAS,5,home,JS,assist,25,make3,3,D. Waiters,L. Babbitt
 241,3,9:19.0,52,59,MIA,SAS,1,away,Timeout,,,,,,
 242,3,9:05.0,52,62,MIA,SAS,14,away,JS,assist,25,make3,3,K. Anderson,T. Parker
@@ -295,10 +295,10 @@
 293,3,3:49.0,63,69,MIA,SAS,0,home,Sub,,,,,J. Johnson,J. Winslow
 294,3,3:36.0,63,69,MIA,SAS,13,home,JS,,23,miss3,0,G. Dragić,
 295,3,3:35.0,63,69,MIA,SAS,1,away,DefReb,,,DefReb,,M. Ginóbili,
-296,3,3:31.0,63,69,MIA,SAS,4,away,BadPass,steal,,turnover,,M. Ginóbili,J. Johnson
+296,3,3:31.0,63,69,MIA,SAS,4,away,bad pass,steal,,turnover,,M. Ginóbili,J. Johnson
 297,3,3:28.0,63,69,MIA,SAS,3,home,PersonalBlockFoul,DrawnBy,,PersonalBlockingFoul,,M. Ginóbili,G. Dragić
 298,3,3:28.0,63,69,MIA,SAS,0,home,Sub,,,,,R. McGruder,G. Dragić
-299,3,3:19.0,63,69,MIA,SAS,9,home,BadPass,steal,,turnover,,T. Johnson,M. Ginóbili
+299,3,3:19.0,63,69,MIA,SAS,9,home,bad pass,steal,,turnover,,T. Johnson,M. Ginóbili
 300,3,3:01.0,63,69,MIA,SAS,18,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Johnson,J. Simmons
 301,3,3:01.0,63,70,MIA,SAS,0,away,FreeThrow,,,make1,1,J. Simmons,
 302,3,3:01.0,63,71,MIA,SAS,0,away,FreeThrow,,,make1,1,J. Simmons,
@@ -407,8 +407,8 @@
 405,4,4:54.0,91,91,MIA,SAS,0,home,Timeout,,,,,,
 406,4,4:54.0,91,91,MIA,SAS,0,home,Sub,,,,,W. Reed,H. Whiteside
 407,4,4:49.0,91,94,MIA,SAS,5,away,JS,assist,25,make3,3,P. Mills,D. Dedmon
-408,4,4:24.0,91,94,MIA,SAS,25,home,LostBall,steal,,turnover,,J. Winslow,M. Ginóbili
-409,4,4:24.0,91,94,MIA,SAS,0,away,LostBall,steal,,turnover,,M. Ginóbili,J. Winslow
+408,4,4:24.0,91,94,MIA,SAS,25,home,lost ball,steal,,turnover,,J. Winslow,M. Ginóbili
+409,4,4:24.0,91,94,MIA,SAS,0,away,lost ball,steal,,turnover,,M. Ginóbili,J. Winslow
 410,4,4:15.0,91,94,MIA,SAS,9,home,JS,,4,miss2,0,J. Winslow,
 411,4,4:14.0,91,94,MIA,SAS,1,home,OffReb,,,OffReb,,J. Winslow,
 412,4,4:07.0,91,94,MIA,SAS,7,home,ShootingFoul,DrawnBy,,ShootingFoul,,P. Mills,G. Dragić
@@ -441,13 +441,13 @@
 439,4,1:41.0,97,101,MIA,SAS,10,away,JS,,17,make2,2,K. Leonard,
 440,4,1:18.0,97,101,MIA,SAS,23,home,JS,,25,miss3,0,J. Winslow,
 441,4,1:17.0,97,101,MIA,SAS,1,away,DefReb,,,DefReb,,P. Gasol,
-442,4,0:59.0,97,101,MIA,SAS,18,away,BadPass,steal,,turnover,,K. Leonard,G. Dragić
+442,4,0:59.0,97,101,MIA,SAS,18,away,bad pass,steal,,turnover,,K. Leonard,G. Dragić
 443,4,0:55.0,99,101,MIA,SAS,4,home,LU,,1,make2,2,G. Dragić,
 444,4,0:39.0,99,101,MIA,SAS,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Waiters,K. Leonard
 445,4,0:39.0,99,102,MIA,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
 446,4,0:39.0,99,103,MIA,SAS,0,away,FreeThrow,,,make1,1,K. Leonard,
 447,4,0:39.0,99,103,MIA,SAS,0,home,Timeout,,,,,,
-448,4,0:31.0,99,103,MIA,SAS,8,home,LostBall,steal,,turnover,,H. Whiteside,K. Leonard
+448,4,0:31.0,99,103,MIA,SAS,8,home,lost ball,steal,,turnover,,H. Whiteside,K. Leonard
 449,4,0:21.0,99,103,MIA,SAS,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Johnson,K. Leonard
 450,4,0:21.0,99,103,MIA,SAS,0,away,FreeThrow,,,make1,0,K. Leonard,
 451,4,0:21.0,99,103,MIA,SAS,0,away,OffReb,,,OffReb,,Team,

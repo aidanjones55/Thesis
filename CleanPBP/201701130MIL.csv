@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:36.0,0,0,MIL,MIA,24,away,BadPass,steal,,turnover,,H. Whiteside,M. Brogdon
+0,1,11:36.0,0,0,MIL,MIA,24,away,bad pass,steal,,turnover,,H. Whiteside,M. Brogdon
 1,1,11:31.0,0,0,MIL,MIA,5,home,LU,block,1,miss2,0,G. Antetokounmpo,G. Dragić
 2,1,11:28.0,0,0,MIL,MIA,3,home,OffReb,,,OffReb,,G. Antetokounmpo,
 3,1,11:27.0,2,0,MIL,MIA,1,home,LU,,1,make2,2,G. Antetokounmpo,
@@ -16,7 +16,7 @@
 14,1,9:55.0,4,4,MIL,MIA,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,G. Dragić,M. Brogdon
 15,1,9:55.0,5,4,MIL,MIA,0,home,FreeThrow,,,make1,1,M. Brogdon,
 16,1,9:55.0,6,4,MIL,MIA,0,home,FreeThrow,,,make1,1,M. Brogdon,
-17,1,9:44.0,6,4,MIL,MIA,11,away,LostBall,steal,,turnover,,G. Dragić,J. Henson
+17,1,9:44.0,6,4,MIL,MIA,11,away,lost ball,steal,,turnover,,G. Dragić,J. Henson
 18,1,9:40.0,8,4,MIL,MIA,4,home,DK,assist,0,make2,2,G. Antetokounmpo,T. Snell
 19,1,9:20.0,8,7,MIL,MIA,20,away,JS,assist,30,make3,3,L. Babbitt,R. McGruder
 20,1,9:00.0,8,7,MIL,MIA,20,home,ShootingFoul,DrawnBy,,ShootingFoul,,L. Babbitt,J. Parker
@@ -31,7 +31,7 @@
 29,1,8:21.0,11,7,MIL,MIA,0,home,OffReb,,,OffReb,,Team,
 30,1,8:16.0,13,7,MIL,MIA,5,home,DK,assist,0,make2,2,J. Parker,M. Brogdon
 31,1,8:05.0,13,7,MIL,MIA,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Antetokounmpo,D. Waiters
-32,1,7:55.0,13,7,MIL,MIA,10,away,BadPass,steal,,turnover,,G. Dragić,T. Snell
+32,1,7:55.0,13,7,MIL,MIA,10,away,bad pass,steal,,turnover,,G. Dragić,T. Snell
 33,1,7:51.0,15,7,MIL,MIA,4,home,DK,assist,0,make2,2,G. Antetokounmpo,T. Snell
 34,1,7:51.0,15,7,MIL,MIA,0,away,Timeout,,,,,,
 35,1,7:51.0,15,7,MIL,MIA,0,away,Sub,,,,,J. Johnson,L. Babbitt
@@ -119,7 +119,7 @@
 117,2,10:35.0,44,35,MIL,MIA,2,home,OffReb,,,OffReb,,G. Monroe,
 118,2,10:35.0,44,35,MIL,MIA,0,home,LU,,2,miss2,0,G. Monroe,
 119,2,10:33.0,44,35,MIL,MIA,2,away,DefReb,,,DefReb,,D. Williams,
-120,2,10:28.0,44,35,MIL,MIA,5,away,LostBall,steal,,turnover,,D. Williams,J. Terry
+120,2,10:28.0,44,35,MIL,MIA,5,away,lost ball,steal,,turnover,,D. Williams,J. Terry
 121,2,10:16.0,44,35,MIL,MIA,12,home,LU,,2,miss2,0,G. Monroe,
 122,2,10:15.0,44,35,MIL,MIA,1,home,OffReb,,,OffReb,,G. Monroe,
 123,2,10:15.0,44,35,MIL,MIA,0,home,LU,,1,miss2,0,G. Monroe,
@@ -132,7 +132,7 @@
 130,2,9:39.0,46,35,MIL,MIA,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Williams,G. Monroe
 131,2,9:39.0,46,35,MIL,MIA,0,away,Sub,,,,,H. Whiteside,D. Williams
 132,2,9:24.0,49,35,MIL,MIA,15,home,JS,assist,25,make3,3,J. Terry,M. Beasley
-133,2,9:01.0,49,35,MIL,MIA,23,away,BadPass,steal,,turnover,,H. Whiteside,J. Terry
+133,2,9:01.0,49,35,MIL,MIA,23,away,bad pass,steal,,turnover,,H. Whiteside,J. Terry
 134,2,8:56.0,51,35,MIL,MIA,5,home,DK,assist,0,make2,2,G. Antetokounmpo,J. Terry
 135,2,8:55.0,51,35,MIL,MIA,1,away,Timeout,,,,,,
 136,2,8:37.0,51,35,MIL,MIA,18,away,LU,,0,miss2,0,D. Waiters,
@@ -262,7 +262,7 @@
 260,3,5:58.0,80,60,MIL,MIA,0,away,Timeout,,,,,,
 261,3,5:40.0,80,63,MIL,MIA,18,away,JS,assist,24,make3,3,R. McGruder,J. Johnson
 262,3,5:36.0,80,63,MIL,MIA,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Johnson,M. Brogdon
-263,3,5:24.0,80,63,MIL,MIA,12,home,LostBall,steal,,turnover,,J. Parker,T. Johnson
+263,3,5:24.0,80,63,MIL,MIA,12,home,lost ball,steal,,turnover,,J. Parker,T. Johnson
 264,3,5:24.0,80,63,MIL,MIA,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Brogdon,T. Johnson
 265,3,5:24.0,80,63,MIL,MIA,0,home,Sub,,,,,J. Terry,T. Snell
 266,3,5:11.0,80,65,MIL,MIA,13,away,DK,assist,0,make2,2,H. Whiteside,R. McGruder
@@ -278,9 +278,9 @@
 276,3,3:32.0,87,66,MIL,MIA,0,away,Sub,,,,,U. Haslem,H. Whiteside
 277,3,3:32.0,87,66,MIL,MIA,0,home,Sub,,,,,T. Maker,J. Parker
 278,3,3:32.0,87,67,MIL,MIA,0,away,FreeThrow,,,make1,1,G. Dragić,
-279,3,3:14.0,87,67,MIL,MIA,18,home,BadPass,steal,,turnover,,M. Brogdon,U. Haslem
-280,3,3:11.0,87,67,MIL,MIA,3,away,BadPass,steal,,turnover,,U. Haslem,M. Beasley
-281,3,3:07.0,87,67,MIL,MIA,4,home,LostBall,steal,,turnover,,M. Beasley,U. Haslem
+279,3,3:14.0,87,67,MIL,MIA,18,home,bad pass,steal,,turnover,,M. Brogdon,U. Haslem
+280,3,3:11.0,87,67,MIL,MIA,3,away,bad pass,steal,,turnover,,U. Haslem,M. Beasley
+281,3,3:07.0,87,67,MIL,MIA,4,home,lost ball,steal,,turnover,,M. Beasley,U. Haslem
 282,3,3:02.0,87,67,MIL,MIA,5,away,JS,,16,miss2,0,G. Dragić,
 283,3,3:02.0,87,67,MIL,MIA,0,away,OffReb,,,OffReb,,Team,
 284,3,3:02.0,87,67,MIL,MIA,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Brogdon,U. Haslem
@@ -305,7 +305,7 @@
 303,3,1:29.0,89,69,MIL,MIA,22,away,JS,,24,miss3,0,R. McGruder,
 304,3,1:28.0,89,69,MIL,MIA,1,home,DefReb,,,DefReb,,M. Beasley,
 305,3,1:24.0,89,69,MIL,MIA,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. McGruder,T. Maker
-306,3,1:18.0,89,69,MIL,MIA,6,home,BadPass,steal,,turnover,,G. Monroe,T. Johnson
+306,3,1:18.0,89,69,MIL,MIA,6,home,bad pass,steal,,turnover,,G. Monroe,T. Johnson
 307,3,1:14.0,89,71,MIL,MIA,4,away,LU,assist,0,make2,2,G. Dragić,T. Johnson
 308,3,1:04.0,89,71,MIL,MIA,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dragić,M. Dellavedova
 309,3,1:04.0,90,71,MIL,MIA,0,home,FreeThrow,,,make1,1,M. Dellavedova,
@@ -347,7 +347,7 @@
 345,4,8:47.0,96,86,MIL,MIA,1,home,DefReb,,,DefReb,,M. Dellavedova,
 346,4,8:39.0,99,86,MIL,MIA,8,home,JS,assist,24,make3,3,J. Parker,J. Terry
 347,4,8:20.0,99,89,MIL,MIA,19,away,JS,assist,25,make3,3,D. Waiters,J. Johnson
-348,4,8:00.0,99,89,MIL,MIA,20,home,BadPass,steal,,turnover,,M. Dellavedova,T. Johnson
+348,4,8:00.0,99,89,MIL,MIA,20,home,bad pass,steal,,turnover,,M. Dellavedova,T. Johnson
 349,4,7:53.0,99,91,MIL,MIA,7,away,JS,,9,make2,2,T. Johnson,
 350,4,7:35.0,99,91,MIL,MIA,18,home,JS,,18,miss2,0,J. Parker,
 351,4,7:35.0,99,91,MIL,MIA,0,away,DefReb,,,DefReb,,W. Ellington,
@@ -362,7 +362,7 @@
 360,4,6:35.0,101,91,MIL,MIA,23,home,DK,assist,0,make2,2,G. Antetokounmpo,M. Brogdon
 361,4,6:35.0,101,91,MIL,MIA,0,away,Timeout,,,,,,
 362,4,6:35.0,101,91,MIL,MIA,0,away,Sub,,,,,G. Dragić,W. Ellington
-363,4,6:18.0,101,91,MIL,MIA,17,away,BadPass,steal,,turnover,,D. Waiters,G. Antetokounmpo
+363,4,6:18.0,101,91,MIL,MIA,17,away,bad pass,steal,,turnover,,D. Waiters,G. Antetokounmpo
 364,4,6:02.0,103,91,MIL,MIA,16,home,LU,,2,make2,2,G. Antetokounmpo,
 365,4,5:37.0,103,91,MIL,MIA,25,away,HS,,10,miss2,0,J. Johnson,
 366,4,5:35.0,103,91,MIL,MIA,2,home,DefReb,,,DefReb,,J. Parker,
@@ -373,13 +373,13 @@
 371,4,5:03.0,105,93,MIL,MIA,14,away,HS,,2,make2,2,H. Whiteside,
 372,4,4:43.0,105,93,MIL,MIA,20,home,JS,,25,miss3,0,J. Parker,
 373,4,4:41.0,105,93,MIL,MIA,2,home,OffReb,,,OffReb,,M. Brogdon,
-374,4,4:27.0,105,93,MIL,MIA,14,home,BadPass,steal,,turnover,,G. Antetokounmpo,H. Whiteside
+374,4,4:27.0,105,93,MIL,MIA,14,home,bad pass,steal,,turnover,,G. Antetokounmpo,H. Whiteside
 375,4,4:23.0,105,95,MIL,MIA,4,away,LU,assist,0,make2,2,T. Johnson,J. Johnson
 376,4,4:10.0,107,95,MIL,MIA,13,home,LU,assist,0,make2,2,J. Parker,M. Brogdon
 377,4,3:56.0,107,95,MIL,MIA,14,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Brogdon,G. Dragić
 378,4,3:47.0,107,97,MIL,MIA,9,away,HS,assist,2,make2,2,H. Whiteside,J. Johnson
 379,4,3:30.0,109,97,MIL,MIA,17,home,LU,,1,make2,2,J. Parker,
-380,4,3:09.0,109,97,MIL,MIA,21,away,BadPass,steal,,turnover,,J. Johnson,M. Brogdon
+380,4,3:09.0,109,97,MIL,MIA,21,away,bad pass,steal,,turnover,,J. Johnson,M. Brogdon
 381,4,2:54.0,111,97,MIL,MIA,15,home,LU,,1,make2,2,M. Brogdon,
 382,4,2:42.0,111,99,MIL,MIA,12,away,LU,assist,1,make2,2,G. Dragić,J. Johnson
 383,4,2:17.0,111,99,MIL,MIA,25,home,JS,,29,miss3,0,J. Parker,

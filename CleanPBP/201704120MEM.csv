@@ -21,7 +21,7 @@
 19,1,9:31.0,6,2,MEM,DAL,0,home,DefReb,,,DefReb,,M. Gasol,
 20,1,9:16.0,6,2,MEM,DAL,15,home,JS,,22,miss3,0,V. Carter,
 21,1,9:16.0,6,2,MEM,DAL,0,away,DefReb,,,DefReb,,N. Brussino,
-22,1,8:56.0,6,2,MEM,DAL,20,away,BadPass,steal,,turnover,,Y. Ferrell,M. Conley
+22,1,8:56.0,6,2,MEM,DAL,20,away,bad pass,steal,,turnover,,Y. Ferrell,M. Conley
 23,1,8:46.0,6,2,MEM,DAL,10,home,JS,,7,miss2,0,M. Gasol,
 24,1,8:43.0,6,2,MEM,DAL,3,away,DefReb,,,DefReb,,D. Powell,
 25,1,8:36.0,6,5,MEM,DAL,7,away,JS,assist,24,make3,3,D. Powell,Y. Ferrell
@@ -70,7 +70,7 @@
 68,1,3:52.0,18,11,MEM,DAL,0,home,Sub,,,,,Z. Randolph,M. Gasol
 69,1,3:52.0,18,11,MEM,DAL,0,home,Sub,,,,,A. Harrison,M. Conley
 70,1,3:35.0,18,13,MEM,DAL,17,away,JS,,18,make2,2,D. Harris,
-71,1,3:29.0,18,13,MEM,DAL,6,home,BadPass,steal,,turnover,,T. Daniels,D. Liggins
+71,1,3:29.0,18,13,MEM,DAL,6,home,bad pass,steal,,turnover,,T. Daniels,D. Liggins
 72,1,3:26.0,18,13,MEM,DAL,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Daniels,D. Liggins
 73,1,3:26.0,18,15,MEM,DAL,0,away,LU,,1,make2,2,D. Liggins,
 74,1,3:26.0,18,16,MEM,DAL,0,away,FreeThrow,,,make1,1,D. Liggins,
@@ -146,9 +146,9 @@
 144,2,7:34.0,38,29,MEM,DAL,1,away,OffReb,,,OffReb,,D. Powell,
 145,2,7:21.0,38,29,MEM,DAL,13,away,JS,,21,miss2,0,Y. Ferrell,
 146,2,7:21.0,38,29,MEM,DAL,0,home,DefReb,,,DefReb,,M. Gasol,
-147,2,7:18.0,38,29,MEM,DAL,3,home,BadPass,steal,,turnover,,M. Gasol,Y. Ferrell
+147,2,7:18.0,38,29,MEM,DAL,3,home,bad pass,steal,,turnover,,M. Gasol,Y. Ferrell
 148,2,7:08.0,38,31,MEM,DAL,10,away,DK,assist,0,make2,2,N. Noel,D. Harris
-149,2,6:50.0,38,31,MEM,DAL,18,home,LostBall,steal,,turnover,,M. Gasol,D. Harris
+149,2,6:50.0,38,31,MEM,DAL,18,home,lost ball,steal,,turnover,,M. Gasol,D. Harris
 150,2,6:44.0,38,31,MEM,DAL,6,away,LostBall,,,turnover,,D. Harris,
 151,2,6:44.0,38,31,MEM,DAL,0,home,Sub,,,,,V. Carter,W. Selden
 152,2,6:36.0,38,31,MEM,DAL,8,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,Z. Randolph,D. Powell
@@ -163,7 +163,7 @@
 161,2,5:09.0,43,33,MEM,DAL,13,away,ShootingFoul,DrawnBy,,ShootingFoul,,V. Carter,N. Brussino
 162,2,5:09.0,43,34,MEM,DAL,0,away,FreeThrow,,,make1,1,N. Brussino,
 163,2,5:09.0,43,35,MEM,DAL,0,away,FreeThrow,,,make1,1,N. Brussino,
-164,2,4:53.0,43,35,MEM,DAL,16,home,LostBall,steal,,turnover,,T. Daniels,N. Brussino
+164,2,4:53.0,43,35,MEM,DAL,16,home,lost ball,steal,,turnover,,T. Daniels,N. Brussino
 165,2,4:53.0,43,35,MEM,DAL,0,away,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,T. Daniels,Y. Ferrell
 166,2,4:53.0,43,35,MEM,DAL,0,away,FreeThrow,,,make1,0,Y. Ferrell,
 167,2,4:53.0,43,35,MEM,DAL,0,away,OffReb,,,OffReb,,Team,
@@ -220,7 +220,7 @@
 218,3,11:06.0,57,46,MEM,DAL,9,away,JS,,17,miss2,0,D. Powell,
 219,3,11:06.0,57,46,MEM,DAL,0,home,DefReb,,,DefReb,,J. Green,
 220,3,10:53.0,57,46,MEM,DAL,13,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Powell,M. Gasol
-221,3,10:44.0,57,46,MEM,DAL,9,home,BadPass,steal,,turnover,,V. Carter,D. Finney-Smith
+221,3,10:44.0,57,46,MEM,DAL,9,home,bad pass,steal,,turnover,,V. Carter,D. Finney-Smith
 222,3,10:34.0,57,46,MEM,DAL,10,away,JS,,24,miss3,0,D. Powell,
 223,3,10:33.0,57,46,MEM,DAL,1,home,DefReb,,,DefReb,,M. Gasol,
 224,3,10:24.0,57,46,MEM,DAL,9,home,JS,,25,miss3,0,J. Green,
@@ -238,7 +238,7 @@
 236,3,9:05.0,61,51,MEM,DAL,0,home,FreeThrow,,,make1,0,A. Harrison,
 237,3,9:05.0,61,51,MEM,DAL,0,away,DefReb,,,DefReb,,N. Noel,
 238,3,8:50.0,61,53,MEM,DAL,15,away,DK,,0,make2,2,D. Finney-Smith,
-239,3,8:29.0,61,53,MEM,DAL,21,home,LostBall,steal,,turnover,,W. Selden,N. Noel
+239,3,8:29.0,61,53,MEM,DAL,21,home,lost ball,steal,,turnover,,W. Selden,N. Noel
 240,3,8:15.0,61,53,MEM,DAL,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Gasol,N. Noel
 241,3,8:15.0,61,54,MEM,DAL,0,away,FreeThrow,,,make1,1,N. Noel,
 242,3,8:15.0,61,54,MEM,DAL,0,home,Sub,,,,,W. Baldwin,W. Selden
@@ -246,7 +246,7 @@
 244,3,7:57.0,61,55,MEM,DAL,18,home,JS,,24,miss3,0,V. Carter,
 245,3,7:57.0,61,55,MEM,DAL,0,away,DefReb,,,DefReb,,Team,
 246,3,7:57.0,61,55,MEM,DAL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Green,D. Powell
-247,3,7:40.0,61,55,MEM,DAL,17,away,LostBall,steal,,turnover,,N. Noel,W. Baldwin
+247,3,7:40.0,61,55,MEM,DAL,17,away,lost ball,steal,,turnover,,N. Noel,W. Baldwin
 248,3,7:38.0,61,55,MEM,DAL,2,home,BadPass,,,turnover,,W. Baldwin,
 249,3,7:29.0,61,55,MEM,DAL,9,away,JS,,25,miss3,0,D. Powell,
 250,3,7:29.0,61,55,MEM,DAL,0,home,DefReb,,,DefReb,,W. Baldwin,
@@ -264,7 +264,7 @@
 262,3,6:28.0,67,57,MEM,DAL,0,away,FreeThrow,,,make1,1,D. Powell,
 263,3,6:10.0,67,57,MEM,DAL,18,home,JS,,10,miss2,0,M. Gasol,
 264,3,6:08.0,67,57,MEM,DAL,2,away,DefReb,,,DefReb,,N. Brussino,
-265,3,5:59.0,67,57,MEM,DAL,9,away,LostBall,steal,,turnover,,D. Finney-Smith,A. Harrison
+265,3,5:59.0,67,57,MEM,DAL,9,away,lost ball,steal,,turnover,,D. Finney-Smith,A. Harrison
 266,3,5:41.0,67,57,MEM,DAL,18,home,JS,,25,miss3,0,A. Harrison,
 267,3,5:41.0,67,57,MEM,DAL,0,home,OffReb,,,OffReb,,W. Baldwin,
 268,3,5:21.0,67,57,MEM,DAL,20,home,JS,,24,miss3,0,M. Gasol,
@@ -280,7 +280,7 @@
 278,3,4:38.0,67,60,MEM,DAL,0,home,Sub,,,,,W. Selden,V. Carter
 279,3,4:38.0,67,60,MEM,DAL,0,home,Sub,,,,,T. Daniels,M. Gasol
 280,3,4:38.0,67,60,MEM,DAL,0,home,Sub,,,,,Z. Randolph,A. Harrison
-281,3,4:26.0,67,60,MEM,DAL,12,home,BadPass,steal,,turnover,,Z. Randolph,D. Powell
+281,3,4:26.0,67,60,MEM,DAL,12,home,bad pass,steal,,turnover,,Z. Randolph,D. Powell
 282,3,4:10.0,67,60,MEM,DAL,16,away,ShootingFoul,DrawnBy,,ShootingFoul,,W. Selden,D. Liggins
 283,3,4:10.0,67,61,MEM,DAL,0,away,FreeThrow,,,make1,1,D. Liggins,
 284,3,4:10.0,67,61,MEM,DAL,0,away,FreeThrow,,,make1,0,D. Liggins,
@@ -363,7 +363,7 @@
 361,4,6:20.0,81,80,MEM,DAL,0,home,Sub,,,,,J. Martin,Z. Randolph
 362,4,6:20.0,82,80,MEM,DAL,0,home,FreeThrow,,,make1,1,A. Harrison,
 363,4,6:02.0,82,82,MEM,DAL,18,away,JS,,7,make2,2,J. Uthoff,
-364,4,5:56.0,82,82,MEM,DAL,6,home,BadPass,steal,,turnover,,J. Martin,D. Liggins
+364,4,5:56.0,82,82,MEM,DAL,6,home,bad pass,steal,,turnover,,J. Martin,D. Liggins
 365,4,5:51.0,82,82,MEM,DAL,5,away,LU,,2,miss2,0,D. Liggins,
 366,4,5:51.0,82,82,MEM,DAL,0,away,OffReb,,,OffReb,,D. Liggins,
 367,4,5:51.0,82,84,MEM,DAL,0,away,LU,,2,make2,2,D. Liggins,
@@ -379,7 +379,7 @@
 377,4,5:07.0,82,87,MEM,DAL,0,home,OffReb,,,OffReb,,J. Martin,
 378,4,5:07.0,82,87,MEM,DAL,0,home,DK,,0,miss2,0,J. Martin,
 379,4,5:06.0,82,87,MEM,DAL,1,away,DefReb,,,DefReb,,D. Finney-Smith,
-380,4,4:51.0,82,87,MEM,DAL,15,away,BadPass,steal,,turnover,,N. Brussino,W. Baldwin
+380,4,4:51.0,82,87,MEM,DAL,15,away,bad pass,steal,,turnover,,N. Brussino,W. Baldwin
 381,4,4:48.0,84,87,MEM,DAL,3,home,LU,,1,make2,2,W. Baldwin,
 382,4,4:48.0,84,87,MEM,DAL,0,away,DefGoaltending,,,DefGoaltending,,N. Brussino,
 383,4,4:30.0,84,87,MEM,DAL,18,away,JS,,25,miss3,0,D. Finney-Smith,
@@ -411,7 +411,7 @@
 409,4,2:26.0,90,94,MEM,DAL,0,away,FreeThrow,,,make1,1,A. Hammons,
 410,4,2:26.0,90,94,MEM,DAL,0,away,FreeThrow,,,make1,0,A. Hammons,
 411,4,2:24.0,90,94,MEM,DAL,2,home,DefReb,,,DefReb,,J. Martin,
-412,4,2:09.0,90,94,MEM,DAL,15,home,LostBall,steal,,turnover,,W. Baldwin,N. Brussino
+412,4,2:09.0,90,94,MEM,DAL,15,home,lost ball,steal,,turnover,,W. Baldwin,N. Brussino
 413,4,1:50.0,90,94,MEM,DAL,19,away,JS,,26,miss3,0,N. Brussino,
 414,4,1:50.0,90,94,MEM,DAL,0,home,DefReb,,,DefReb,,D. Davis,
 415,4,1:49.0,90,94,MEM,DAL,1,home,Timeout,,,,,,

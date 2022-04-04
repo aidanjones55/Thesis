@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:46.0,0,0,MIN,WAS,14,away,LostBall,steal,,turnover,,M. Gortat,G. Dieng
+0,1,11:46.0,0,0,MIN,WAS,14,away,lost ball,steal,,turnover,,M. Gortat,G. Dieng
 1,1,11:25.0,2,0,MIN,WAS,21,home,JS,,20,make2,2,R. Rubio,
-2,1,11:13.0,2,0,MIN,WAS,12,away,BadPass,steal,,turnover,,J. Wall,R. Rubio
+2,1,11:13.0,2,0,MIN,WAS,12,away,bad pass,steal,,turnover,,J. Wall,R. Rubio
 3,1,11:03.0,4,0,MIN,WAS,10,home,JS,assist,12,make2,2,K. Towns,R. Rubio
 4,1,10:52.0,4,0,MIN,WAS,11,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Morris,B. Rush
 5,1,10:52.0,4,0,MIN,WAS,0,away,OffensiveFoul,,,turnover,,M. Morris,
@@ -31,7 +31,7 @@
 29,1,8:07.0,14,8,MIN,WAS,2,home,LU,,1,make2,2,N. Bjelica,
 30,1,7:44.0,14,8,MIN,WAS,23,away,JS,block,15,miss2,0,M. Morris,B. Rush
 31,1,7:43.0,14,8,MIN,WAS,1,home,DefReb,,,DefReb,,N. Bjelica,
-32,1,7:39.0,14,8,MIN,WAS,4,home,BadPass,steal,,turnover,,R. Rubio,M. Morris
+32,1,7:39.0,14,8,MIN,WAS,4,home,bad pass,steal,,turnover,,R. Rubio,M. Morris
 33,1,7:24.0,14,10,MIN,WAS,15,away,JS,,11,make2,2,O. Porter,
 34,1,7:04.0,17,10,MIN,WAS,20,home,JS,assist,23,make3,3,B. Rush,R. Rubio
 35,1,6:57.0,17,10,MIN,WAS,7,away,ShootingFoul,DrawnBy,,ShootingFoul,,B. Rush,B. Beal
@@ -123,9 +123,9 @@
 121,2,9:08.0,48,34,MIN,WAS,9,away,JS,,15,make2,2,B. Jennings,
 122,2,8:57.0,48,34,MIN,WAS,11,home,PersonalFoul,DrawnBy,,PersonalFoul,,I. Mahinmi,K. Towns
 123,2,8:57.0,48,34,MIN,WAS,0,home,Timeout,,,,,,
-124,2,8:46.0,48,34,MIN,WAS,11,home,LostBall,steal,,turnover,,K. Dunn,B. Jennings
+124,2,8:46.0,48,34,MIN,WAS,11,home,lost ball,steal,,turnover,,K. Dunn,B. Jennings
 125,2,8:45.0,48,34,MIN,WAS,1,home,KickBallViolation,,,KickBallViolation,,K. Dunn,
-126,2,8:29.0,48,34,MIN,WAS,16,away,LostBall,steal,,turnover,,B. Jennings,K. Dunn
+126,2,8:29.0,48,34,MIN,WAS,16,away,lost ball,steal,,turnover,,B. Jennings,K. Dunn
 127,2,8:16.0,50,34,MIN,WAS,13,home,HS,,7,make2,2,K. Towns,
 128,2,8:06.0,50,34,MIN,WAS,10,home,TechnicalFoul,,,TechnicalFoul,,K. Towns,
 129,2,8:06.0,50,35,MIN,WAS,0,away,FreeThrow,,,make1,1,B. Bogdanović makes technical free throw,
@@ -144,7 +144,7 @@
 142,2,7:18.0,52,37,MIN,WAS,20,home,JS,,10,make2,2,K. Towns,
 143,2,7:08.0,52,37,MIN,WAS,10,away,JS,,25,miss3,0,B. Jennings,
 144,2,7:07.0,52,37,MIN,WAS,1,home,DefReb,,,DefReb,,R. Rubio,
-145,2,7:02.0,52,37,MIN,WAS,5,home,BadPass,steal,,turnover,,R. Rubio,B. Beal
+145,2,7:02.0,52,37,MIN,WAS,5,home,bad pass,steal,,turnover,,R. Rubio,B. Beal
 146,2,6:58.0,52,37,MIN,WAS,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,I. Mahinmi,K. Towns
 147,2,6:58.0,52,37,MIN,WAS,0,away,OffensiveFoul,,,turnover,,I. Mahinmi,
 148,2,6:58.0,52,37,MIN,WAS,0,away,Sub,,,,,J. Wall,B. Jennings
@@ -227,7 +227,7 @@
 225,3,11:16.0,66,56,MIN,WAS,14,home,JS,,12,miss2,0,A. Wiggins,
 226,3,11:15.0,66,56,MIN,WAS,1,away,DefReb,,,DefReb,,O. Porter,
 227,3,11:02.0,66,58,MIN,WAS,13,away,LU,,1,make2,2,B. Beal,
-228,3,10:49.0,66,58,MIN,WAS,13,home,BadPass,steal,,turnover,,R. Rubio,O. Porter
+228,3,10:49.0,66,58,MIN,WAS,13,home,bad pass,steal,,turnover,,R. Rubio,O. Porter
 229,3,10:48.0,66,58,MIN,WAS,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,B. Beal
 230,3,10:34.0,66,58,MIN,WAS,14,away,JS,,24,miss3,0,B. Beal,
 231,3,10:33.0,66,58,MIN,WAS,1,home,DefReb,,,DefReb,,K. Towns,
@@ -247,7 +247,7 @@
 245,3,8:21.0,72,62,MIN,WAS,1,home,DefReb,,,DefReb,,G. Dieng,
 246,3,8:06.0,74,62,MIN,WAS,15,home,HS,,10,make2,2,K. Towns,
 247,3,7:52.0,74,64,MIN,WAS,14,away,LU,,2,make2,2,O. Porter,
-248,3,7:36.0,74,64,MIN,WAS,16,home,LostBall,steal,,turnover,,B. Rush,J. Wall
+248,3,7:36.0,74,64,MIN,WAS,16,home,lost ball,steal,,turnover,,B. Rush,J. Wall
 249,3,7:35.0,74,64,MIN,WAS,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,G. Dieng,J. Wall
 250,3,7:24.0,74,64,MIN,WAS,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,A. Wiggins,J. Wall
 251,3,7:24.0,74,65,MIN,WAS,0,away,FreeThrow,,,make1,1,J. Wall,
@@ -260,7 +260,7 @@
 258,3,6:40.0,76,65,MIN,WAS,14,home,LU,block,1,miss2,0,K. Towns,M. Gortat
 259,3,6:39.0,76,65,MIN,WAS,1,away,DefReb,,,DefReb,,J. Wall,
 260,3,6:35.0,76,67,MIN,WAS,4,away,LU,,1,make2,2,J. Wall,
-261,3,6:18.0,76,67,MIN,WAS,17,home,BadPass,steal,,turnover,,R. Rubio,M. Morris
+261,3,6:18.0,76,67,MIN,WAS,17,home,bad pass,steal,,turnover,,R. Rubio,M. Morris
 262,3,6:13.0,76,67,MIN,WAS,5,away,DK,,0,miss2,0,B. Beal,
 263,3,6:12.0,76,67,MIN,WAS,1,away,OffReb,,,OffReb,,O. Porter,
 264,3,6:01.0,76,67,MIN,WAS,11,away,JS,,8,miss2,0,M. Gortat,
@@ -287,7 +287,7 @@
 285,3,3:47.0,83,72,MIN,WAS,23,away,JS,assist,20,make2,2,B. Beal,O. Porter
 286,3,3:28.0,83,72,MIN,WAS,19,home,JS,,25,miss3,0,R. Rubio,
 287,3,3:26.0,83,72,MIN,WAS,2,away,DefReb,,,DefReb,,M. Gortat,
-288,3,3:16.0,83,72,MIN,WAS,10,away,LostBall,steal,,turnover,,J. Wall,R. Rubio
+288,3,3:16.0,83,72,MIN,WAS,10,away,lost ball,steal,,turnover,,J. Wall,R. Rubio
 289,3,3:16.0,83,72,MIN,WAS,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Wall,N. Bjelica
 290,3,3:16.0,83,72,MIN,WAS,0,home,FreeThrow,,,make1,0,N. Bjelica,
 291,3,3:16.0,83,72,MIN,WAS,0,home,OffReb,,,OffReb,,Team,
@@ -305,7 +305,7 @@
 303,3,1:56.0,88,76,MIN,WAS,0,home,FreeThrow,,,make1,1,G. Dieng,
 304,3,1:38.0,88,76,MIN,WAS,18,away,JS,,15,miss2,0,J. Wall,
 305,3,1:37.0,88,76,MIN,WAS,1,home,DefReb,,,DefReb,,G. Dieng,
-306,3,1:30.0,88,76,MIN,WAS,7,home,LostBall,steal,,turnover,,A. Wiggins,O. Porter
+306,3,1:30.0,88,76,MIN,WAS,7,home,lost ball,steal,,turnover,,A. Wiggins,O. Porter
 307,3,1:23.0,88,76,MIN,WAS,7,away,JS,,23,miss3,0,B. Bogdanović,
 308,3,1:22.0,88,76,MIN,WAS,1,home,DefReb,,,DefReb,,N. Bjelica,
 309,3,1:10.0,88,76,MIN,WAS,12,home,LostBall,,,turnover,,R. Rubio,
@@ -316,7 +316,7 @@
 314,3,0:49.0,88,78,MIN,WAS,2,away,DefReb,,,DefReb,,O. Porter,
 315,3,0:32.0,88,78,MIN,WAS,17,away,JS,,15,miss2,0,O. Porter,
 316,3,0:31.0,88,78,MIN,WAS,1,home,DefReb,,,DefReb,,N. Bjelica,
-317,3,0:08.0,88,78,MIN,WAS,23,home,LostBall,steal,,turnover,,G. Dieng,I. Mahinmi
+317,3,0:08.0,88,78,MIN,WAS,23,home,lost ball,steal,,turnover,,G. Dieng,I. Mahinmi
 318,3,0:05.0,88,78,MIN,WAS,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,J. Wall
 319,3,0:05.0,88,79,MIN,WAS,0,away,FreeThrow,,,make1,1,J. Wall,
 320,3,0:05.0,88,80,MIN,WAS,0,away,FreeThrow,,,make1,1,J. Wall,
@@ -329,9 +329,9 @@
 327,4,11:35.0,89,80,MIN,WAS,13,home,JS,,13,miss2,0,S. Muhammad,
 328,4,11:34.0,89,80,MIN,WAS,1,away,DefReb,,,DefReb,,B. Bogdanović,
 329,4,11:34.0,89,80,MIN,WAS,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Muhammad,B. Bogdanović
-330,4,11:16.0,89,80,MIN,WAS,18,away,BadPass,steal,,turnover,,B. Jennings,N. Bjelica
-331,4,11:11.0,89,80,MIN,WAS,5,home,BadPass,steal,,turnover,,K. Dunn,B. Beal
-332,4,11:03.0,89,80,MIN,WAS,8,away,BadPass,steal,,turnover,,B. Bogdanović,T. Jones
+330,4,11:16.0,89,80,MIN,WAS,18,away,bad pass,steal,,turnover,,B. Jennings,N. Bjelica
+331,4,11:11.0,89,80,MIN,WAS,5,home,bad pass,steal,,turnover,,K. Dunn,B. Beal
+332,4,11:03.0,89,80,MIN,WAS,8,away,bad pass,steal,,turnover,,B. Bogdanović,T. Jones
 333,4,10:44.0,89,80,MIN,WAS,19,home,JS,,12,miss2,0,K. Towns,
 334,4,10:43.0,89,80,MIN,WAS,1,away,DefReb,,,DefReb,,O. Porter,
 335,4,10:30.0,89,82,MIN,WAS,13,away,JS,assist,23,make2,2,O. Porter,B. Beal
@@ -349,7 +349,7 @@
 347,4,9:13.0,96,85,MIN,WAS,14,home,JS,,15,make2,2,K. Towns,
 348,4,8:57.0,96,85,MIN,WAS,16,away,JS,,26,miss3,0,B. Bogdanović,
 349,4,8:56.0,96,85,MIN,WAS,1,away,OffReb,,,OffReb,,I. Mahinmi,
-350,4,8:53.0,96,85,MIN,WAS,3,away,LostBall,steal,,turnover,,B. Bogdanović,K. Towns
+350,4,8:53.0,96,85,MIN,WAS,3,away,lost ball,steal,,turnover,,B. Bogdanović,K. Towns
 351,4,8:48.0,98,85,MIN,WAS,5,home,JS,,5,make2,2,S. Muhammad,
 352,4,8:48.0,98,85,MIN,WAS,0,away,Timeout,,,,,,
 353,4,8:33.0,98,85,MIN,WAS,15,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Bjelica,M. Morris
@@ -371,12 +371,12 @@
 369,4,7:37.0,100,92,MIN,WAS,0,away,DefReb,,,DefReb,,B. Bogdanović,
 370,4,7:18.0,100,92,MIN,WAS,19,away,JS,,19,miss2,0,J. Wall,
 371,4,7:17.0,100,92,MIN,WAS,1,home,DefReb,,,DefReb,,G. Dieng,
-372,4,7:12.0,100,92,MIN,WAS,5,home,BadPass,steal,,turnover,,R. Rubio,B. Beal
+372,4,7:12.0,100,92,MIN,WAS,5,home,bad pass,steal,,turnover,,R. Rubio,B. Beal
 373,4,7:04.0,100,92,MIN,WAS,8,away,JS,,23,miss3,0,B. Bogdanović,
 374,4,7:03.0,100,92,MIN,WAS,1,home,DefReb,,,DefReb,,K. Towns,
 375,4,6:39.0,100,92,MIN,WAS,24,home,JS,,20,miss2,0,S. Muhammad,
 376,4,6:38.0,100,92,MIN,WAS,1,away,DefReb,,,DefReb,,I. Mahinmi,
-377,4,6:36.0,100,92,MIN,WAS,2,away,BadPass,steal,,turnover,,I. Mahinmi,R. Rubio
+377,4,6:36.0,100,92,MIN,WAS,2,away,bad pass,steal,,turnover,,I. Mahinmi,R. Rubio
 378,4,6:33.0,102,92,MIN,WAS,3,home,LU,,0,make2,2,R. Rubio,
 379,4,6:18.0,102,92,MIN,WAS,15,away,PersonalFoul,DrawnBy,,PersonalFoul,,S. Muhammad,B. Bogdanović
 380,4,6:18.0,102,93,MIN,WAS,0,away,FreeThrow,,,make1,1,B. Bogdanović,

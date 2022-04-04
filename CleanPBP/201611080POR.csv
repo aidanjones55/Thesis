@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:47.0,0,0,POR,PHO,13,away,LostBall,steal,,turnover,,T. Warren,M. Harkless
+0,1,11:47.0,0,0,POR,PHO,13,away,lost ball,steal,,turnover,,T. Warren,M. Harkless
 1,1,11:42.0,2,0,POR,PHO,5,home,LU,assist,1,make2,2,M. Plumlee,M. Harkless
 2,1,11:19.0,2,2,POR,PHO,23,away,JS,,19,make2,2,D. Booker,
 3,1,10:58.0,4,2,POR,PHO,21,home,JS,,11,make2,2,C. McCollum,
@@ -54,14 +54,14 @@
 52,1,4:37.0,32,15,POR,PHO,0,home,Sub,,,,,N. Vonleh,M. Harkless
 53,1,4:37.0,32,15,POR,PHO,0,away,Sub,,,,,A. Len,M. Chriss
 54,1,4:37.0,33,15,POR,PHO,0,home,FreeThrow,,,make1,1,C. McCollum,
-55,1,4:29.0,33,15,POR,PHO,8,away,BadPass,steal,,turnover,,B. Knight,C. McCollum
+55,1,4:29.0,33,15,POR,PHO,8,away,bad pass,steal,,turnover,,B. Knight,C. McCollum
 56,1,4:27.0,33,15,POR,PHO,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,J. Dudley,C. McCollum
 57,1,4:15.0,33,15,POR,PHO,12,home,JS,,27,miss3,0,D. Lillard,
 58,1,4:15.0,33,15,POR,PHO,0,away,DefReb,,,DefReb,,Team,
 59,1,4:06.0,33,18,POR,PHO,9,away,JS,assist,25,make3,3,D. Booker,B. Knight
 60,1,3:54.0,33,18,POR,PHO,12,home,JS,,6,miss2,0,D. Lillard,
 61,1,3:54.0,33,18,POR,PHO,0,away,DefReb,,,DefReb,,A. Len,
-62,1,3:48.0,33,18,POR,PHO,6,away,BadPass,steal,,turnover,,B. Knight,N. Vonleh
+62,1,3:48.0,33,18,POR,PHO,6,away,bad pass,steal,,turnover,,B. Knight,N. Vonleh
 63,1,3:44.0,33,18,POR,PHO,4,home,Sub,,,,,A. Crabbe,D. Lillard
 64,1,3:37.0,33,18,POR,PHO,7,home,JS,,24,miss3,0,C. McCollum,
 65,1,3:36.0,33,18,POR,PHO,1,away,DefReb,,,DefReb,,B. Knight,
@@ -77,7 +77,7 @@
 75,1,2:16.0,35,21,POR,PHO,0,away,Sub,,,,,P. Tucker,T. Warren
 76,1,2:16.0,35,21,POR,PHO,0,away,Sub,,,,,E. Bledsoe,D. Booker
 77,1,2:16.0,35,22,POR,PHO,0,away,FreeThrow,,,make1,1,A. Len,
-78,1,1:56.0,35,22,POR,PHO,20,home,BadPass,steal,,turnover,,E. Turner,P. Tucker
+78,1,1:56.0,35,22,POR,PHO,20,home,bad pass,steal,,turnover,,E. Turner,P. Tucker
 79,1,1:46.0,35,22,POR,PHO,10,away,HS,,2,miss2,0,P. Tucker,
 80,1,1:45.0,35,22,POR,PHO,1,home,DefReb,,,DefReb,,N. Vonleh,
 81,1,1:36.0,35,22,POR,PHO,9,home,JS,,25,miss3,0,N. Vonleh,
@@ -114,7 +114,7 @@
 112,2,10:55.0,45,27,POR,PHO,1,home,LostBall,,,turnover,,N. Vonleh,
 113,2,10:51.0,45,29,POR,PHO,4,away,JS,assist,19,make2,2,L. Barbosa,P. Tucker
 114,2,10:42.0,45,29,POR,PHO,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Tucker,D. Lillard
-115,2,10:37.0,45,29,POR,PHO,5,home,BadPass,steal,,turnover,,E. Turner,P. Tucker
+115,2,10:37.0,45,29,POR,PHO,5,home,bad pass,steal,,turnover,,E. Turner,P. Tucker
 116,2,10:31.0,45,31,POR,PHO,6,away,LU,assist,1,make2,2,B. Knight,P. Tucker
 117,2,10:14.0,45,31,POR,PHO,17,home,JS,,22,miss2,0,D. Lillard,
 118,2,10:14.0,45,31,POR,PHO,0,home,OffReb,,,OffReb,,N. Vonleh,
@@ -143,7 +143,7 @@
 141,2,8:13.0,48,37,POR,PHO,1,away,DefReb,,,DefReb,,B. Knight,
 142,2,8:05.0,48,37,POR,PHO,8,away,LU,,1,miss2,0,B. Knight,
 143,2,8:05.0,48,37,POR,PHO,0,home,DefReb,,,DefReb,,E. Davis,
-144,2,8:00.0,48,37,POR,PHO,5,home,LostBall,steal,,turnover,,E. Davis,J. Dudley
+144,2,8:00.0,48,37,POR,PHO,5,home,lost ball,steal,,turnover,,E. Davis,J. Dudley
 145,2,7:58.0,48,37,POR,PHO,2,away,Traveling,,,turnover,,D. Bender,
 146,2,7:58.0,48,37,POR,PHO,0,home,Sub,,,,,M. Harkless,N. Vonleh
 147,2,7:45.0,50,37,POR,PHO,13,home,LU,,2,make2,2,D. Lillard,
@@ -176,11 +176,11 @@
 174,2,5:03.0,53,44,POR,PHO,12,home,JS,,24,miss3,0,C. McCollum,
 175,2,5:03.0,53,44,POR,PHO,0,home,OffReb,,,OffReb,,Team,
 176,2,5:03.0,53,44,POR,PHO,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Dudley,M. Plumlee
-177,2,4:51.0,53,44,POR,PHO,12,home,LostBall,steal,,turnover,,S. Napier,B. Knight
+177,2,4:51.0,53,44,POR,PHO,12,home,lost ball,steal,,turnover,,S. Napier,B. Knight
 178,2,4:45.0,53,46,POR,PHO,6,away,JS,assist,22,make2,2,P. Tucker,B. Knight
 179,2,4:28.0,53,46,POR,PHO,17,home,JS,,24,miss3,0,A. Crabbe,
 180,2,4:27.0,53,46,POR,PHO,1,away,DefReb,,,DefReb,,B. Knight,
-181,2,4:19.0,53,46,POR,PHO,8,away,LostBall,steal,,turnover,,B. Knight,S. Napier
+181,2,4:19.0,53,46,POR,PHO,8,away,lost ball,steal,,turnover,,B. Knight,S. Napier
 182,2,4:13.0,55,46,POR,PHO,6,home,LU,assist,1,make2,2,M. Harkless,S. Napier
 183,2,4:03.0,55,46,POR,PHO,10,away,Timeout,,,,,,
 184,2,4:03.0,55,46,POR,PHO,0,away,Sub,,,,,D. Booker,J. Dudley
@@ -196,7 +196,7 @@
 194,2,2:45.0,60,51,POR,PHO,0,home,JumpBallViolation,,,JumpBallViolation,,Team,
 195,2,2:33.0,60,51,POR,PHO,12,away,Sub,,,,,M. Chriss,D. Bender
 196,2,2:33.0,60,51,POR,PHO,0,away,Sub,,,,,A. Len,P. Tucker
-197,2,2:24.0,60,51,POR,PHO,9,home,BadPass,steal,,turnover,,S. Napier,T. Warren
+197,2,2:24.0,60,51,POR,PHO,9,home,bad pass,steal,,turnover,,S. Napier,T. Warren
 198,2,2:09.0,60,51,POR,PHO,15,away,JS,,23,miss3,0,M. Chriss,
 199,2,2:07.0,60,51,POR,PHO,2,home,DefReb,,,DefReb,,M. Plumlee,
 200,2,2:03.0,60,51,POR,PHO,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Booker,S. Napier
@@ -250,9 +250,9 @@
 248,3,8:53.0,72,59,POR,PHO,0,away,Sub,,,,,P. Tucker,D. Booker
 249,3,8:53.0,72,59,POR,PHO,0,away,Sub,,,,,B. Knight,E. Bledsoe
 250,3,8:48.0,72,59,POR,PHO,5,away,Traveling,,,turnover,,D. Bender,
-251,3,8:34.0,72,59,POR,PHO,14,home,BadPass,steal,,turnover,,D. Lillard,L. Barbosa
-252,3,8:28.0,72,59,POR,PHO,6,away,BadPass,steal,,turnover,,B. Knight,C. McCollum
-253,3,8:21.0,72,59,POR,PHO,7,home,LostBall,steal,,turnover,,C. McCollum,P. Tucker
+251,3,8:34.0,72,59,POR,PHO,14,home,bad pass,steal,,turnover,,D. Lillard,L. Barbosa
+252,3,8:28.0,72,59,POR,PHO,6,away,bad pass,steal,,turnover,,B. Knight,C. McCollum
+253,3,8:21.0,72,59,POR,PHO,7,home,lost ball,steal,,turnover,,C. McCollum,P. Tucker
 254,3,8:15.0,72,61,POR,PHO,6,away,LU,,1,make2,2,B. Knight,
 255,3,7:51.0,72,61,POR,PHO,24,home,JS,,16,miss2,0,A. Crabbe,
 256,3,7:50.0,72,61,POR,PHO,1,away,DefReb,,,DefReb,,J. Dudley,
@@ -302,7 +302,7 @@
 300,3,2:16.0,86,73,POR,PHO,0,away,Sub,,,,,T. Warren,L. Barbosa
 301,3,2:16.0,86,73,POR,PHO,0,home,Sub,,,,,C. McCollum,D. Lillard
 302,3,2:16.0,86,75,POR,PHO,0,away,FreeThrow,,,make1,1,E. Bledsoe,
-303,3,2:02.0,86,75,POR,PHO,14,home,LostBall,steal,,turnover,,C. McCollum,D. Booker
+303,3,2:02.0,86,75,POR,PHO,14,home,lost ball,steal,,turnover,,C. McCollum,D. Booker
 304,3,1:52.0,86,75,POR,PHO,10,away,BackCourtTurnover,,,turnover,,T. Warren,
 305,3,1:41.0,86,75,POR,PHO,11,home,HS,,3,miss2,0,C. McCollum,
 306,3,1:41.0,86,75,POR,PHO,0,away,DefReb,,,DefReb,,P. Tucker,
@@ -360,7 +360,7 @@
 358,4,9:12.0,93,87,POR,PHO,1,away,DefReb,,,DefReb,,M. Chriss,
 359,4,9:00.0,93,89,POR,PHO,12,away,JS,assist,14,make2,2,T. Warren,E. Bledsoe
 360,4,8:43.0,93,89,POR,PHO,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Tucker,E. Turner
-361,4,8:37.0,93,89,POR,PHO,6,home,LostBall,steal,,turnover,,D. Lillard,P. Tucker
+361,4,8:37.0,93,89,POR,PHO,6,home,lost ball,steal,,turnover,,D. Lillard,P. Tucker
 362,4,8:33.0,93,91,POR,PHO,4,away,DK,assist,0,make2,2,T. Warren,P. Tucker
 363,4,8:05.0,93,91,POR,PHO,28,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Chriss,M. Plumlee
 364,4,8:05.0,93,91,POR,PHO,0,home,FreeThrow,,,make1,0,M. Plumlee,
@@ -408,7 +408,7 @@
 406,4,4:16.0,109,99,POR,PHO,3,away,HS,,1,miss2,0,D. Bender,
 407,4,4:13.0,109,99,POR,PHO,3,away,OffReb,,,OffReb,,T. Warren,
 408,4,4:13.0,109,101,POR,PHO,0,away,LU,,2,make2,2,T. Warren,
-409,4,3:58.0,109,101,POR,PHO,15,home,BadPass,steal,,turnover,,D. Lillard,P. Tucker
+409,4,3:58.0,109,101,POR,PHO,15,home,bad pass,steal,,turnover,,D. Lillard,P. Tucker
 410,4,3:52.0,109,103,POR,PHO,6,away,LU,,1,make2,2,E. Bledsoe,
 411,4,3:35.0,109,103,POR,PHO,17,home,PersonalFoul,DrawnBy,,PersonalFoul,,P. Tucker,C. McCollum
 412,4,3:35.0,110,103,POR,PHO,0,home,FreeThrow,,,make1,1,C. McCollum,

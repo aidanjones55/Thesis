@@ -41,7 +41,7 @@
 39,1,6:12.0,18,21,NOP,MIN,7,home,JS,assist,26,make3,3,J. Holiday,T. Frazier
 40,1,5:56.0,18,21,NOP,MIN,16,away,Traveling,,,turnover,,G. Dieng,
 41,1,5:56.0,18,21,NOP,MIN,0,home,Timeout,,,,,,
-42,1,5:44.0,18,21,NOP,MIN,12,home,LostBall,steal,,turnover,,A. Davis,B. Rush
+42,1,5:44.0,18,21,NOP,MIN,12,home,lost ball,steal,,turnover,,A. Davis,B. Rush
 43,1,5:21.0,18,21,NOP,MIN,23,away,JS,,26,miss3,0,B. Rush,
 44,1,5:20.0,18,21,NOP,MIN,1,home,DefReb,,,DefReb,,A. Davis,
 45,1,5:06.0,18,21,NOP,MIN,14,home,JS,,23,miss2,0,A. Davis,
@@ -50,7 +50,7 @@
 48,1,4:47.0,18,21,NOP,MIN,2,home,DefReb,,,DefReb,,T. Frazier,
 49,1,4:38.0,18,21,NOP,MIN,9,home,JS,block,5,miss2,0,A. Davis,G. Dieng
 50,1,4:37.0,18,21,NOP,MIN,1,away,DefReb,,,DefReb,,K. Towns,
-51,1,4:31.0,18,21,NOP,MIN,6,away,BadPass,steal,,turnover,,R. Rubio,D. Cousins
+51,1,4:31.0,18,21,NOP,MIN,6,away,bad pass,steal,,turnover,,R. Rubio,D. Cousins
 52,1,4:25.0,18,21,NOP,MIN,6,home,LU,,1,miss2,0,S. Hill,
 53,1,4:25.0,18,21,NOP,MIN,0,home,OffReb,,,OffReb,,A. Davis,
 54,1,4:25.0,18,21,NOP,MIN,0,home,OffGoaltending,,,turnover,,A. Davis,
@@ -66,7 +66,7 @@
 64,1,3:04.0,21,28,NOP,MIN,0,home,Sub,,,,,D. Cunningham,D. Cousins
 65,1,3:04.0,21,29,NOP,MIN,0,away,FreeThrow,,,make1,1,G. Dieng,
 66,1,2:54.0,23,29,NOP,MIN,10,home,DK,assist,0,make2,2,A. Davis,E. Moore
-67,1,2:34.0,23,29,NOP,MIN,20,away,LostBall,steal,,turnover,,A. Wiggins,S. Hill
+67,1,2:34.0,23,29,NOP,MIN,20,away,lost ball,steal,,turnover,,A. Wiggins,S. Hill
 68,1,2:31.0,23,29,NOP,MIN,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,A. Wiggins,S. Hill
 69,1,2:31.0,23,29,NOP,MIN,0,away,Timeout,,,,,,
 70,1,2:24.0,23,29,NOP,MIN,7,home,JS,,23,miss2,0,E. Moore,
@@ -79,7 +79,7 @@
 77,1,1:46.0,23,29,NOP,MIN,0,away,Sub,,,,,S. Muhammad,B. Rush
 78,1,1:37.0,23,31,NOP,MIN,9,away,JS,assist,18,make2,2,A. Wiggins,R. Rubio
 79,1,1:27.0,25,31,NOP,MIN,10,home,LU,assist,1,make2,2,E. Moore,S. Hill
-80,1,1:08.0,25,31,NOP,MIN,19,away,LostBall,steal,,turnover,,A. Wiggins,S. Hill
+80,1,1:08.0,25,31,NOP,MIN,19,away,lost ball,steal,,turnover,,A. Wiggins,S. Hill
 81,1,1:02.0,25,31,NOP,MIN,6,home,JS,,23,miss3,0,E. Moore,
 82,1,1:01.0,25,31,NOP,MIN,1,home,OffReb,,,OffReb,,Team,
 83,1,1:01.0,25,31,NOP,MIN,0,home,Sub,,,,,J. Crawford,J. Holiday
@@ -139,7 +139,7 @@
 137,2,7:03.0,37,44,NOP,MIN,0,away,Sub,,,,,R. Rubio,T. Jones
 138,2,7:03.0,37,44,NOP,MIN,0,away,Sub,,,,,A. Wiggins,K. Dunn
 139,2,6:48.0,37,46,NOP,MIN,15,away,DK,assist,0,make2,2,S. Muhammad,K. Towns
-140,2,6:29.0,37,46,NOP,MIN,19,home,BadPass,steal,,turnover,,A. Davis,K. Towns
+140,2,6:29.0,37,46,NOP,MIN,19,home,bad pass,steal,,turnover,,A. Davis,K. Towns
 141,2,6:08.0,37,46,NOP,MIN,21,away,JS,,25,miss3,0,S. Muhammad,
 142,2,6:07.0,37,46,NOP,MIN,1,home,DefReb,,,DefReb,,J. Holiday,
 143,2,5:51.0,37,46,NOP,MIN,16,home,JS,,28,miss3,0,J. Crawford,
@@ -166,7 +166,7 @@
 164,2,3:49.0,40,52,NOP,MIN,0,home,OffGoaltending,,,turnover,,A. Davis,
 165,2,3:35.0,40,52,NOP,MIN,14,away,JS,,15,miss2,0,A. Wiggins,
 166,2,3:34.0,40,52,NOP,MIN,1,home,DefReb,,,DefReb,,A. Davis,
-167,2,3:14.0,40,52,NOP,MIN,20,home,LostBall,steal,,turnover,,D. Cousins,G. Dieng
+167,2,3:14.0,40,52,NOP,MIN,20,home,lost ball,steal,,turnover,,D. Cousins,G. Dieng
 168,2,3:07.0,40,52,NOP,MIN,7,away,BadPass,,,turnover,,A. Wiggins,
 169,2,2:55.0,40,52,NOP,MIN,12,home,JS,,21,miss2,0,A. Davis,
 170,2,2:54.0,40,52,NOP,MIN,1,home,OffReb,,,OffReb,,Team,
@@ -174,19 +174,19 @@
 172,2,2:54.0,40,52,NOP,MIN,0,away,Timeout,,,,,,
 173,2,2:54.0,40,52,NOP,MIN,0,home,Sub,,,,,J. Crawford,E. Moore
 174,2,2:46.0,40,52,NOP,MIN,8,home,OutOfBounds,,,turnover,,J. Holiday,
-175,2,2:34.0,40,52,NOP,MIN,12,away,LostBall,steal,,turnover,,G. Dieng,D. Cousins
+175,2,2:34.0,40,52,NOP,MIN,12,away,lost ball,steal,,turnover,,G. Dieng,D. Cousins
 176,2,2:29.0,42,52,NOP,MIN,5,home,DK,,0,make2,2,J. Crawford,
 177,2,2:07.0,42,52,NOP,MIN,22,away,JS,,10,miss2,0,K. Towns,
 178,2,2:06.0,42,52,NOP,MIN,1,home,DefReb,,,DefReb,,J. Holiday,
-179,2,1:56.0,42,52,NOP,MIN,10,home,BadPass,steal,,turnover,,J. Holiday,A. Wiggins
+179,2,1:56.0,42,52,NOP,MIN,10,home,bad pass,steal,,turnover,,J. Holiday,A. Wiggins
 180,2,1:37.0,42,52,NOP,MIN,19,away,JS,,23,miss3,0,B. Rush,
 181,2,1:37.0,42,52,NOP,MIN,0,home,DefReb,,,DefReb,,D. Cousins,
 182,2,1:29.0,42,52,NOP,MIN,8,home,LU,,2,miss2,0,J. Holiday,
 183,2,1:28.0,42,52,NOP,MIN,1,home,OffReb,,,OffReb,,A. Davis,
-184,2,1:26.0,42,52,NOP,MIN,2,home,BadPass,steal,,turnover,,A. Davis,A. Wiggins
+184,2,1:26.0,42,52,NOP,MIN,2,home,bad pass,steal,,turnover,,A. Davis,A. Wiggins
 185,2,1:21.0,42,54,NOP,MIN,5,away,LU,,2,make2,2,A. Wiggins,
 186,2,1:12.0,45,54,NOP,MIN,9,home,JS,assist,25,make3,3,J. Holiday,S. Hill
-187,2,0:57.0,45,54,NOP,MIN,15,away,BadPass,steal,,turnover,,R. Rubio,S. Hill
+187,2,0:57.0,45,54,NOP,MIN,15,away,bad pass,steal,,turnover,,R. Rubio,S. Hill
 188,2,0:54.0,45,54,NOP,MIN,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Wiggins,S. Hill
 189,2,0:54.0,45,54,NOP,MIN,0,home,FreeThrow,,,make1,0,S. Hill,
 190,2,0:54.0,45,54,NOP,MIN,0,home,OffReb,,,OffReb,,Team,
@@ -198,7 +198,7 @@
 196,2,0:00.0,48,54,NOP,MIN,25,away,JS,,4,miss2,0,R. Rubio,
 197,2,0:00.0,48,54,NOP,MIN,0,away,OffReb,,,OffReb,,Team,
 198,3,11:42.0,50,54,NOP,MIN,18,home,JS,,4,make2,2,J. Holiday,
-199,3,11:22.0,50,54,NOP,MIN,20,away,LostBall,steal,,turnover,,A. Wiggins,D. Cousins
+199,3,11:22.0,50,54,NOP,MIN,20,away,lost ball,steal,,turnover,,A. Wiggins,D. Cousins
 200,3,11:12.0,50,54,NOP,MIN,10,home,JS,,25,miss3,0,A. Davis,
 201,3,11:11.0,50,54,NOP,MIN,1,away,DefReb,,,DefReb,,G. Dieng,
 202,3,11:03.0,50,54,NOP,MIN,8,home,KickBallViolation,,,KickBallViolation,,T. Frazier,
@@ -216,7 +216,7 @@
 214,3,9:09.0,55,59,NOP,MIN,12,home,JS,,26,miss3,0,S. Hill,
 215,3,9:08.0,55,59,NOP,MIN,1,away,DefReb,,,DefReb,,K. Towns,
 216,3,8:57.0,55,61,NOP,MIN,11,away,JS,assist,6,make2,2,K. Towns,R. Rubio
-217,3,8:47.0,55,61,NOP,MIN,10,home,BadPass,steal,,turnover,,S. Hill,G. Dieng
+217,3,8:47.0,55,61,NOP,MIN,10,home,bad pass,steal,,turnover,,S. Hill,G. Dieng
 218,3,8:41.0,55,63,NOP,MIN,6,away,LU,assist,2,make2,2,A. Wiggins,R. Rubio
 219,3,8:28.0,57,63,NOP,MIN,13,home,LU,assist,2,make2,2,J. Holiday,T. Frazier
 220,3,8:10.0,57,63,NOP,MIN,18,away,JS,,23,miss3,0,K. Towns,
@@ -276,9 +276,9 @@
 274,3,2:12.0,81,77,NOP,MIN,0,home,Sub,,,,,J. Crawford,J. Holiday
 275,3,2:10.0,81,77,NOP,MIN,2,away,LU,,0,miss2,0,A. Wiggins,
 276,3,2:08.0,81,77,NOP,MIN,2,home,DefReb,,,DefReb,,D. Cunningham,
-277,3,1:50.0,81,77,NOP,MIN,18,home,LostBall,steal,,turnover,,D. Cousins,R. Rubio
+277,3,1:50.0,81,77,NOP,MIN,18,home,lost ball,steal,,turnover,,D. Cousins,R. Rubio
 278,3,1:44.0,81,79,NOP,MIN,6,away,HS,assist,3,make2,2,C. Aldrich,R. Rubio
-279,3,1:25.0,81,79,NOP,MIN,19,home,BadPass,steal,,turnover,,D. Cousins,C. Aldrich
+279,3,1:25.0,81,79,NOP,MIN,19,home,bad pass,steal,,turnover,,D. Cousins,C. Aldrich
 280,3,1:10.0,81,79,NOP,MIN,15,away,JS,,14,miss2,0,R. Rubio,
 281,3,1:09.0,81,79,NOP,MIN,1,home,DefReb,,,DefReb,,D. Cunningham,
 282,3,1:01.0,83,79,NOP,MIN,8,home,JS,,14,make2,2,J. Crawford,
@@ -309,21 +309,21 @@
 307,4,10:07.0,96,88,NOP,MIN,20,home,JS,,13,make2,2,J. Crawford,
 308,4,9:46.0,96,88,NOP,MIN,21,away,LU,,2,miss2,0,K. Towns,
 309,4,9:45.0,96,88,NOP,MIN,1,home,DefReb,,,DefReb,,D. Cousins,
-310,4,9:42.0,96,88,NOP,MIN,3,home,LostBall,steal,,turnover,,E. Moore,S. Muhammad
+310,4,9:42.0,96,88,NOP,MIN,3,home,lost ball,steal,,turnover,,E. Moore,S. Muhammad
 311,4,9:39.0,96,88,NOP,MIN,3,away,JS,,6,miss2,0,K. Towns,
 312,4,9:38.0,96,88,NOP,MIN,1,home,DefReb,,,DefReb,,E. Moore,
 313,4,9:33.0,96,88,NOP,MIN,5,home,JS,,27,miss3,0,J. Crawford,
 314,4,9:31.0,96,88,NOP,MIN,2,away,DefReb,,,DefReb,,K. Towns,
-315,4,9:30.0,96,88,NOP,MIN,1,away,LostBall,steal,,turnover,,K. Towns,D. Cunningham
+315,4,9:30.0,96,88,NOP,MIN,1,away,lost ball,steal,,turnover,,K. Towns,D. Cunningham
 316,4,9:29.0,96,88,NOP,MIN,1,home,LU,block,1,miss2,0,D. Cunningham,K. Dunn
 317,4,9:28.0,96,88,NOP,MIN,1,home,OffReb,,,OffReb,,D. Cunningham,
-318,4,9:26.0,96,88,NOP,MIN,2,home,BadPass,steal,,turnover,,D. Cunningham,T. Jones
+318,4,9:26.0,96,88,NOP,MIN,2,home,bad pass,steal,,turnover,,D. Cunningham,T. Jones
 319,4,9:23.0,96,88,NOP,MIN,3,away,LU,,3,miss2,0,S. Muhammad,
 320,4,9:22.0,96,88,NOP,MIN,1,away,OffReb,,,OffReb,,T. Jones,
 321,4,9:22.0,96,88,NOP,MIN,0,away,Traveling,,,turnover,,S. Muhammad,
 322,4,9:01.0,98,88,NOP,MIN,21,home,LU,,2,make2,2,D. Cousins,
 323,4,8:54.0,98,91,NOP,MIN,7,away,JS,assist,26,make3,3,B. Rush,T. Jones
-324,4,8:32.0,98,91,NOP,MIN,22,home,LostBall,steal,,turnover,,D. Cousins,K. Dunn
+324,4,8:32.0,98,91,NOP,MIN,22,home,lost ball,steal,,turnover,,D. Cousins,K. Dunn
 325,4,8:29.0,98,93,NOP,MIN,3,away,LU,,1,make2,2,S. Muhammad,
 326,4,8:29.0,98,93,NOP,MIN,0,home,Timeout,,,,,,
 327,4,8:29.0,98,93,NOP,MIN,0,home,Sub,,,,,J. Holiday,T. Frazier
@@ -357,7 +357,7 @@
 355,4,4:53.0,107,99,NOP,MIN,2,home,DefReb,,,DefReb,,S. Hill,
 356,4,4:41.0,107,99,NOP,MIN,12,home,JS,,26,miss3,0,D. Cousins,
 357,4,4:40.0,107,99,NOP,MIN,1,away,DefReb,,,DefReb,,S. Muhammad,
-358,4,4:32.0,107,99,NOP,MIN,8,away,LostBall,steal,,turnover,,K. Towns,J. Holiday
+358,4,4:32.0,107,99,NOP,MIN,8,away,lost ball,steal,,turnover,,K. Towns,J. Holiday
 359,4,4:22.0,107,99,NOP,MIN,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Rubio,A. Davis
 360,4,4:22.0,107,99,NOP,MIN,0,home,Sub,,,,,D. Cunningham,D. Cousins
 361,4,4:14.0,107,99,NOP,MIN,8,home,JS,,22,miss2,0,J. Holiday,

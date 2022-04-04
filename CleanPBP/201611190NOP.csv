@@ -6,7 +6,7 @@
 4,1,11:04.0,0,0,NOP,CHO,25,home,JS,,18,miss2,0,E. Moore,
 5,1,11:04.0,0,0,NOP,CHO,0,home,OffReb,,,OffReb,,Ö. Aşık,
 6,1,10:49.0,2,0,NOP,CHO,15,home,JS,assist,12,make2,2,A. Davis,T. Frazier
-7,1,10:30.0,2,0,NOP,CHO,19,away,BadPass,steal,,turnover,,K. Walker,Ö. Aşık
+7,1,10:30.0,2,0,NOP,CHO,19,away,bad pass,steal,,turnover,,K. Walker,Ö. Aşık
 8,1,10:15.0,2,0,NOP,CHO,15,home,JS,,20,miss2,0,A. Davis,
 9,1,10:13.0,2,0,NOP,CHO,2,away,DefReb,,,DefReb,,M. Kidd-Gilchrist,
 10,1,10:03.0,2,0,NOP,CHO,10,away,HS,,10,miss2,0,R. Hibbert,
@@ -22,7 +22,7 @@
 20,1,8:53.0,5,2,NOP,CHO,1,away,DefReb,,,DefReb,,M. Williams,
 21,1,8:40.0,5,2,NOP,CHO,13,away,LU,,2,miss2,0,M. Williams,
 22,1,8:39.0,5,2,NOP,CHO,1,home,DefReb,,,DefReb,,Ö. Aşık,
-23,1,8:38.0,5,2,NOP,CHO,1,home,BadPass,steal,,turnover,,Ö. Aşık,R. Hibbert
+23,1,8:38.0,5,2,NOP,CHO,1,home,bad pass,steal,,turnover,,Ö. Aşık,R. Hibbert
 24,1,8:30.0,5,2,NOP,CHO,8,away,JS,,23,miss3,0,M. Williams,
 25,1,8:30.0,5,2,NOP,CHO,0,home,DefReb,,,DefReb,,Ö. Aşık,
 26,1,8:19.0,5,2,NOP,CHO,11,home,JS,block,7,miss2,0,D. Cunningham,N. Batum
@@ -48,7 +48,7 @@
 46,1,6:07.0,9,7,NOP,CHO,15,away,OutOfBounds,,,turnover,,N. Batum,
 47,1,5:55.0,9,7,NOP,CHO,12,home,JS,,8,miss2,0,A. Davis,
 48,1,5:54.0,9,7,NOP,CHO,1,away,DefReb,,,DefReb,,M. Belinelli,
-49,1,5:45.0,9,7,NOP,CHO,9,away,BadPass,steal,,turnover,,M. Belinelli,E. Moore
+49,1,5:45.0,9,7,NOP,CHO,9,away,bad pass,steal,,turnover,,M. Belinelli,E. Moore
 50,1,5:37.0,9,7,NOP,CHO,8,home,LU,,2,miss2,0,D. Cunningham,
 51,1,5:35.0,9,7,NOP,CHO,2,away,DefReb,,,DefReb,,K. Walker,
 52,1,5:30.0,9,10,NOP,CHO,5,away,JS,assist,25,make3,3,M. Belinelli,K. Walker
@@ -97,8 +97,8 @@
 95,1,1:33.0,19,17,NOP,CHO,2,home,DefReb,,,DefReb,,J. Holiday,
 96,1,1:21.0,19,17,NOP,CHO,12,home,JS,,23,miss3,0,J. Holiday,
 97,1,1:20.0,19,17,NOP,CHO,1,away,DefReb,,,DefReb,,M. Belinelli,
-98,1,1:14.0,19,17,NOP,CHO,6,away,BadPass,steal,,turnover,,M. Belinelli,L. Galloway
-99,1,1:09.0,19,17,NOP,CHO,5,home,BadPass,steal,,turnover,,L. Galloway,M. Kidd-Gilchrist
+98,1,1:14.0,19,17,NOP,CHO,6,away,bad pass,steal,,turnover,,M. Belinelli,L. Galloway
+99,1,1:09.0,19,17,NOP,CHO,5,home,bad pass,steal,,turnover,,L. Galloway,M. Kidd-Gilchrist
 100,1,1:02.0,19,19,NOP,CHO,7,away,LU,assist,2,make2,2,R. Sessions,M. Kidd-Gilchrist
 101,1,0:47.0,21,19,NOP,CHO,15,home,LU,assist,2,make2,2,J. Holiday,T. Jones
 102,1,0:37.0,21,22,NOP,CHO,10,away,JS,assist,25,make3,3,F. Kaminsky,R. Sessions
@@ -110,7 +110,7 @@
 108,1,0:00.0,21,23,NOP,CHO,0,away,FreeThrow,,,make1,1,M. Kidd-Gilchrist,
 109,1,0:00.0,21,23,NOP,CHO,0,away,FreeThrow,,,make1,0,M. Kidd-Gilchrist,
 110,1,0:00.0,21,23,NOP,CHO,0,home,DefReb,,,DefReb,,A. Davis,
-111,2,11:38.0,21,23,NOP,CHO,22,home,LostBall,steal,,turnover,,L. Galloway,R. Sessions
+111,2,11:38.0,21,23,NOP,CHO,22,home,lost ball,steal,,turnover,,L. Galloway,R. Sessions
 112,2,11:27.0,21,25,NOP,CHO,11,away,LU,assist,2,make2,2,M. Kidd-Gilchrist,M. Belinelli
 113,2,11:16.0,21,25,NOP,CHO,11,home,JS,,25,miss3,0,L. Galloway,
 114,2,11:15.0,21,25,NOP,CHO,1,away,DefReb,,,DefReb,,M. Kidd-Gilchrist,
@@ -153,7 +153,7 @@
 151,2,6:53.0,28,34,NOP,CHO,0,home,OffensiveFoul,,,turnover,,A. Davis,
 152,2,6:53.0,28,34,NOP,CHO,0,away,Sub,,,,,N. Batum,M. Kidd-Gilchrist
 153,2,6:53.0,28,34,NOP,CHO,0,home,Sub,,,,,S. Hill,J. Holiday
-154,2,6:42.0,28,34,NOP,CHO,11,away,BadPass,steal,,turnover,,S. Hawes,L. Galloway
+154,2,6:42.0,28,34,NOP,CHO,11,away,bad pass,steal,,turnover,,S. Hawes,L. Galloway
 155,2,6:35.0,30,34,NOP,CHO,7,home,LU,,1,make2,2,L. Galloway,
 156,2,6:14.0,30,36,NOP,CHO,21,away,LU,assist,2,make2,2,S. Hawes,M. Belinelli
 157,2,6:02.0,30,36,NOP,CHO,12,home,JS,,17,miss2,0,D. Cunningham,
@@ -180,7 +180,7 @@
 178,2,4:12.0,32,41,NOP,CHO,2,home,ShootingFoul,DrawnBy,,ShootingFoul,,F. Kaminsky,S. Hill
 179,2,4:12.0,33,41,NOP,CHO,0,home,FreeThrow,,,make1,1,S. Hill,
 180,2,4:12.0,34,41,NOP,CHO,0,home,FreeThrow,,,make1,1,S. Hill,
-181,2,3:57.0,34,41,NOP,CHO,15,away,BadPass,steal,,turnover,,M. Williams,D. Cunningham
+181,2,3:57.0,34,41,NOP,CHO,15,away,bad pass,steal,,turnover,,M. Williams,D. Cunningham
 182,2,3:37.0,34,41,NOP,CHO,20,home,JS,block,10,miss2,0,E. Moore,N. Batum
 183,2,3:36.0,34,41,NOP,CHO,1,away,DefReb,,,DefReb,,K. Walker,
 184,2,3:28.0,34,43,NOP,CHO,8,away,LU,,3,make2,2,K. Walker,
@@ -228,7 +228,7 @@
 226,3,10:33.0,51,51,NOP,CHO,13,home,JS,,16,miss2,0,A. Davis,
 227,3,10:32.0,51,51,NOP,CHO,1,away,DefReb,,,DefReb,,M. Kidd-Gilchrist,
 228,3,10:18.0,51,53,NOP,CHO,14,away,HS,,7,make2,2,R. Hibbert,
-229,3,10:01.0,51,53,NOP,CHO,17,home,BadPass,steal,,turnover,,E. Moore,K. Walker
+229,3,10:01.0,51,53,NOP,CHO,17,home,bad pass,steal,,turnover,,E. Moore,K. Walker
 230,3,9:55.0,51,55,NOP,CHO,6,away,LU,assist,2,make2,2,K. Walker,M. Kidd-Gilchrist
 231,3,9:47.0,51,55,NOP,CHO,8,away,KickBallViolation,,,KickBallViolation,,K. Walker,
 232,3,9:41.0,54,55,NOP,CHO,6,home,JS,,26,make3,3,T. Frazier,
@@ -310,7 +310,7 @@
 308,3,3:29.0,68,77,NOP,CHO,0,away,Sub,,,,,M. Kidd-Gilchrist,K. Walker
 309,3,3:29.0,68,77,NOP,CHO,0,away,Sub,,,,,R. Sessions,N. Batum
 310,3,3:29.0,69,77,NOP,CHO,0,home,FreeThrow,,,make1,1,T. Jones,
-311,3,3:29.0,69,77,NOP,CHO,0,away,LostBall,steal,,turnover,,F. Kaminsky,T. Frazier
+311,3,3:29.0,69,77,NOP,CHO,0,away,lost ball,steal,,turnover,,F. Kaminsky,T. Frazier
 312,3,3:15.0,69,77,NOP,CHO,14,away,KickBallViolation,,,KickBallViolation,,F. Kaminsky,
 313,3,3:15.0,69,77,NOP,CHO,0,home,Sub,,,,,L. Galloway,T. Frazier
 314,3,2:54.0,69,77,NOP,CHO,21,away,Timeout,,,,,,
@@ -320,12 +320,12 @@
 318,3,2:36.0,69,77,NOP,CHO,11,away,BadPass,,,turnover,,S. Hawes,
 319,3,2:17.0,71,77,NOP,CHO,19,home,LU,,1,make2,2,J. Holiday,
 320,3,1:57.0,71,80,NOP,CHO,20,away,JS,assist,26,make3,3,M. Belinelli,F. Kaminsky
-321,3,1:46.0,71,80,NOP,CHO,11,home,BadPass,steal,,turnover,,J. Holiday,R. Sessions
+321,3,1:46.0,71,80,NOP,CHO,11,home,bad pass,steal,,turnover,,J. Holiday,R. Sessions
 322,3,1:30.0,71,80,NOP,CHO,16,away,JS,,25,miss3,0,F. Kaminsky,
 323,3,1:29.0,71,80,NOP,CHO,1,home,DefReb,,,DefReb,,J. Holiday,
 324,3,1:18.0,71,80,NOP,CHO,11,home,JS,,20,miss2,0,A. Davis,
 325,3,1:17.0,71,80,NOP,CHO,1,away,DefReb,,,DefReb,,M. Belinelli,
-326,3,1:11.0,71,80,NOP,CHO,6,away,BadPass,steal,,turnover,,M. Belinelli,L. Galloway
+326,3,1:11.0,71,80,NOP,CHO,6,away,bad pass,steal,,turnover,,M. Belinelli,L. Galloway
 327,3,1:02.0,71,80,NOP,CHO,9,home,ShootingFoul,DrawnBy,,ShootingFoul,,M. Kidd-Gilchrist,T. Jones
 328,3,1:02.0,71,80,NOP,CHO,0,home,FreeThrow,,,make1,0,T. Jones,
 329,3,1:02.0,71,80,NOP,CHO,0,home,OffReb,,,OffReb,,Team,
@@ -347,7 +347,7 @@
 345,4,11:05.0,80,88,NOP,CHO,0,away,Timeout,,,,,,
 346,4,10:46.0,80,90,NOP,CHO,19,away,HS,assist,9,make2,2,S. Hawes,R. Sessions
 347,4,10:30.0,83,90,NOP,CHO,16,home,JS,assist,26,make3,3,L. Galloway,J. Holiday
-348,4,10:16.0,83,90,NOP,CHO,14,away,BadPass,steal,,turnover,,R. Sessions,T. Jones
+348,4,10:16.0,83,90,NOP,CHO,14,away,bad pass,steal,,turnover,,R. Sessions,T. Jones
 349,4,10:07.0,83,90,NOP,CHO,9,home,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. Jones,M. Kidd-Gilchrist
 350,4,10:07.0,83,90,NOP,CHO,0,home,OffensiveFoul,,,turnover,,T. Jones,
 351,4,10:03.0,83,90,NOP,CHO,4,home,Sub,,,,,T. Frazier,J. Holiday
@@ -359,7 +359,7 @@
 357,4,9:19.0,83,90,NOP,CHO,7,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,M. Belinelli,T. Frazier
 358,4,9:19.0,83,90,NOP,CHO,0,away,OffensiveFoul,,,turnover,,M. Belinelli,
 359,4,9:19.0,83,90,NOP,CHO,0,away,Sub,,,,,K. Walker,M. Kidd-Gilchrist
-360,4,9:03.0,83,90,NOP,CHO,16,home,BadPass,steal,,turnover,,L. Galloway,R. Sessions
+360,4,9:03.0,83,90,NOP,CHO,16,home,bad pass,steal,,turnover,,L. Galloway,R. Sessions
 361,4,9:02.0,83,90,NOP,CHO,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Jones,R. Sessions
 362,4,8:52.0,83,93,NOP,CHO,10,away,JS,assist,25,make3,3,M. Belinelli,S. Hawes
 363,4,8:41.0,86,93,NOP,CHO,11,home,JS,assist,23,make3,3,D. Cunningham,T. Frazier
@@ -405,7 +405,7 @@
 403,4,4:22.0,94,103,NOP,CHO,0,home,DefReb,,,DefReb,,L. Galloway,
 404,4,4:13.0,94,103,NOP,CHO,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,F. Kaminsky,A. Davis
 405,4,4:13.0,94,103,NOP,CHO,0,away,Sub,,,,,M. Kidd-Gilchrist,M. Belinelli
-406,4,4:07.0,94,103,NOP,CHO,6,home,BadPass,steal,,turnover,,J. Holiday,F. Kaminsky
+406,4,4:07.0,94,103,NOP,CHO,6,home,bad pass,steal,,turnover,,J. Holiday,F. Kaminsky
 407,4,3:54.0,94,103,NOP,CHO,13,away,JS,,11,miss2,0,M. Williams,
 408,4,3:53.0,94,103,NOP,CHO,1,home,DefReb,,,DefReb,,A. Davis,
 409,4,3:48.0,97,103,NOP,CHO,5,home,JS,assist,25,make3,3,L. Galloway,T. Frazier
@@ -471,7 +471,7 @@
 469,1OT,3:55.0,110,110,NOP,CHO,1,home,DefReb,,,DefReb,,A. Davis,
 470,1OT,3:44.0,110,110,NOP,CHO,11,home,JS,,26,miss3,0,A. Davis,
 471,1OT,3:43.0,110,110,NOP,CHO,1,away,DefReb,,,DefReb,,F. Kaminsky,
-472,1OT,3:32.0,110,110,NOP,CHO,11,away,LostBall,steal,,turnover,,M. Kidd-Gilchrist,J. Holiday
+472,1OT,3:32.0,110,110,NOP,CHO,11,away,lost ball,steal,,turnover,,M. Kidd-Gilchrist,J. Holiday
 473,1OT,3:20.0,110,110,NOP,CHO,12,home,JS,,25,miss3,0,J. Holiday,
 474,1OT,3:20.0,110,110,NOP,CHO,0,away,DefReb,,,DefReb,,K. Walker,
 475,1OT,3:06.0,110,110,NOP,CHO,14,away,JS,,26,miss3,0,N. Batum,

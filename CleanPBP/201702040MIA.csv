@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:43.0,0,0,MIA,PHI,17,home,LostBall,steal,,turnover,,H. Whiteside,N. Noel
+0,1,11:43.0,0,0,MIA,PHI,17,home,lost ball,steal,,turnover,,H. Whiteside,N. Noel
 1,1,11:30.0,0,3,MIA,PHI,13,away,JS,assist,25,make3,3,E. İlyasova,N. Stauskas
 2,1,11:08.0,3,3,MIA,PHI,22,home,JS,assist,25,make3,3,L. Babbitt,D. Waiters
 3,1,10:41.0,3,3,MIA,PHI,27,away,JS,,25,miss3,0,N. Stauskas,
@@ -20,7 +20,7 @@
 18,1,9:14.0,9,7,MIA,PHI,0,home,FreeThrow,,,make1,1,H. Whiteside,
 19,1,9:14.0,9,7,MIA,PHI,0,home,FreeThrow,,,make1,0,H. Whiteside,
 20,1,9:13.0,9,7,MIA,PHI,1,away,DefReb,,,DefReb,,N. Noel,
-21,1,9:02.0,9,7,MIA,PHI,11,away,BadPass,steal,,turnover,,N. Noel,D. Waiters
+21,1,9:02.0,9,7,MIA,PHI,11,away,bad pass,steal,,turnover,,N. Noel,D. Waiters
 22,1,8:56.0,11,7,MIA,PHI,6,home,DK,assist,0,make2,2,H. Whiteside,D. Waiters
 23,1,8:43.0,11,7,MIA,PHI,13,away,JS,,6,miss2,0,E. İlyasova,
 24,1,8:42.0,11,7,MIA,PHI,1,home,DefReb,,,DefReb,,H. Whiteside,
@@ -37,7 +37,7 @@
 35,1,7:52.0,13,8,MIA,PHI,1,home,OffReb,,,OffReb,,H. Whiteside,
 36,1,7:51.0,15,8,MIA,PHI,1,home,LU,,1,make2,2,H. Whiteside,
 37,1,7:34.0,15,10,MIA,PHI,17,away,LU,assist,2,make2,2,E. İlyasova,T. McConnell
-38,1,7:22.0,15,10,MIA,PHI,12,home,BadPass,steal,,turnover,,D. Waiters,G. Henderson
+38,1,7:22.0,15,10,MIA,PHI,12,home,bad pass,steal,,turnover,,D. Waiters,G. Henderson
 39,1,7:12.0,15,10,MIA,PHI,10,away,JS,block,7,miss2,0,G. Henderson,H. Whiteside
 40,1,7:11.0,15,10,MIA,PHI,1,home,DefReb,,,DefReb,,Team,
 41,1,7:10.0,15,10,MIA,PHI,1,away,Sub,,,,,R. Holmes,N. Noel
@@ -48,14 +48,14 @@
 46,1,6:37.0,18,10,MIA,PHI,0,home,FreeThrow,,,make1,1,L. Babbitt,
 47,1,6:37.0,19,10,MIA,PHI,0,home,FreeThrow,,,make1,1,L. Babbitt,
 48,1,6:24.0,19,12,MIA,PHI,13,away,JS,,14,make2,2,N. Stauskas,
-49,1,6:01.0,19,12,MIA,PHI,23,home,BadPass,steal,,turnover,,R. McGruder,R. Holmes
+49,1,6:01.0,19,12,MIA,PHI,23,home,bad pass,steal,,turnover,,R. McGruder,R. Holmes
 50,1,5:56.0,19,12,MIA,PHI,5,away,OutOfBounds,,,turnover,,E. İlyasova,
 51,1,5:41.0,21,12,MIA,PHI,15,home,HS,,4,make2,2,H. Whiteside,
 52,1,5:31.0,21,12,MIA,PHI,10,away,LostBall,,,turnover,,T. McConnell,
 53,1,5:31.0,21,12,MIA,PHI,0,home,Sub,,,,,T. Johnson,G. Dragić
 54,1,5:31.0,21,12,MIA,PHI,0,away,Sub,,,,,D. Šarić,E. İlyasova
 55,1,5:12.0,24,12,MIA,PHI,19,home,JS,assist,24,make3,3,D. Waiters,T. Johnson
-56,1,4:59.0,24,12,MIA,PHI,13,away,BadPass,steal,,turnover,,T. McConnell,T. Johnson
+56,1,4:59.0,24,12,MIA,PHI,13,away,bad pass,steal,,turnover,,T. McConnell,T. Johnson
 57,1,4:47.0,26,12,MIA,PHI,12,home,HS,assist,7,make2,2,H. Whiteside,T. Johnson
 58,1,4:33.0,26,12,MIA,PHI,14,away,JS,,25,miss3,0,D. Šarić,
 59,1,4:32.0,26,12,MIA,PHI,1,home,DefReb,,,DefReb,,Team,
@@ -79,15 +79,15 @@
 77,1,2:20.0,30,15,MIA,PHI,1,home,DefReb,,,DefReb,,H. Whiteside,
 78,1,2:09.0,30,15,MIA,PHI,11,home,JS,,25,miss3,0,W. Ellington,
 79,1,2:08.0,30,15,MIA,PHI,1,away,DefReb,,,DefReb,,D. Šarić,
-80,1,2:01.0,30,15,MIA,PHI,7,away,LostBall,steal,,turnover,,R. Holmes,W. Ellington
-81,1,1:56.0,30,15,MIA,PHI,5,home,LostBall,steal,,turnover,,W. Ellington,T. Luwawu-Cabarrot
+80,1,2:01.0,30,15,MIA,PHI,7,away,lost ball,steal,,turnover,,R. Holmes,W. Ellington
+81,1,1:56.0,30,15,MIA,PHI,5,home,lost ball,steal,,turnover,,W. Ellington,T. Luwawu-Cabarrot
 82,1,1:49.0,30,15,MIA,PHI,7,away,LU,,2,miss2,0,D. Šarić,
 83,1,1:48.0,30,15,MIA,PHI,1,home,DefReb,,,DefReb,,H. Whiteside,
 84,1,1:31.0,30,15,MIA,PHI,17,home,Traveling,,,turnover,,H. Whiteside,
 85,1,1:31.0,30,15,MIA,PHI,0,home,Sub,,,,,G. Dragić,D. Waiters
 86,1,1:31.0,30,15,MIA,PHI,0,home,Sub,,,,,W. Reed,H. Whiteside
 87,1,1:31.0,30,15,MIA,PHI,0,away,Sub,,,,,C. Randle,N. Stauskas
-88,1,1:17.0,30,15,MIA,PHI,14,away,LostBall,steal,,turnover,,D. Šarić,J. Johnson
+88,1,1:17.0,30,15,MIA,PHI,14,away,lost ball,steal,,turnover,,D. Šarić,J. Johnson
 89,1,1:14.0,30,15,MIA,PHI,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,T. Luwawu-Cabarrot,W. Ellington
 90,1,1:14.0,30,15,MIA,PHI,0,away,Sub,,,,,N. Noel,R. Holmes
 91,1,1:05.0,32,15,MIA,PHI,9,home,JS,assist,17,make2,2,T. Johnson,G. Dragić
@@ -158,7 +158,7 @@
 156,2,6:25.0,49,39,MIA,PHI,0,home,Timeout,,,,,,
 157,2,6:25.0,49,39,MIA,PHI,0,home,Sub,,,,,T. Johnson,G. Dragić
 158,2,6:25.0,49,39,MIA,PHI,0,home,Sub,,,,,D. Waiters,W. Ellington
-159,2,6:07.0,49,39,MIA,PHI,18,home,LostBall,steal,,turnover,,R. McGruder,N. Stauskas
+159,2,6:07.0,49,39,MIA,PHI,18,home,lost ball,steal,,turnover,,R. McGruder,N. Stauskas
 160,2,5:57.0,49,41,MIA,PHI,10,away,JS,,14,make2,2,G. Henderson,
 161,2,5:38.0,49,41,MIA,PHI,19,home,JS,,9,miss2,0,D. Waiters,
 162,2,5:37.0,49,41,MIA,PHI,1,away,DefReb,,,DefReb,,R. Holmes,
@@ -191,7 +191,7 @@
 189,2,3:00.0,58,46,MIA,PHI,6,home,JS,assist,25,make3,3,D. Waiters,J. Johnson
 190,2,2:47.0,58,46,MIA,PHI,13,away,JS,,18,miss2,0,S. Rodríguez,
 191,2,2:46.0,58,46,MIA,PHI,1,home,DefReb,,,DefReb,,H. Whiteside,
-192,2,2:37.0,58,46,MIA,PHI,9,home,LostBall,steal,,turnover,,D. Waiters,N. Stauskas
+192,2,2:37.0,58,46,MIA,PHI,9,home,lost ball,steal,,turnover,,D. Waiters,N. Stauskas
 193,2,2:31.0,58,48,MIA,PHI,6,away,JS,assist,12,make2,2,D. Šarić,N. Stauskas
 194,2,2:08.0,60,48,MIA,PHI,23,home,JS,assist,10,make2,2,H. Whiteside,T. Johnson
 195,2,1:57.0,60,48,MIA,PHI,11,away,HS,,8,miss2,0,N. Noel,
@@ -225,7 +225,7 @@
 223,3,11:18.0,64,52,MIA,PHI,1,home,LU,,1,miss2,0,H. Whiteside,
 224,3,11:17.0,64,52,MIA,PHI,1,away,DefReb,,,DefReb,,N. Noel,
 225,3,11:10.0,64,54,MIA,PHI,7,away,LU,assist,2,make2,2,G. Henderson,N. Stauskas
-226,3,11:05.0,64,54,MIA,PHI,5,home,LostBall,steal,,turnover,,G. Dragić,N. Noel
+226,3,11:05.0,64,54,MIA,PHI,5,home,lost ball,steal,,turnover,,G. Dragić,N. Noel
 227,3,10:54.0,64,54,MIA,PHI,11,away,JS,,25,miss3,0,N. Stauskas,
 228,3,10:53.0,64,54,MIA,PHI,1,home,DefReb,,,DefReb,,H. Whiteside,
 229,3,10:37.0,67,54,MIA,PHI,16,home,JS,assist,25,make3,3,G. Dragić,D. Waiters
@@ -298,7 +298,7 @@
 296,3,3:13.0,90,67,MIA,PHI,0,home,FreeThrow,,,make1,1,T. Johnson,
 297,3,3:01.0,90,67,MIA,PHI,12,away,JS,,14,miss2,0,S. Rodríguez,
 298,3,3:00.0,90,67,MIA,PHI,1,home,DefReb,,,DefReb,,W. Ellington,
-299,3,2:52.0,90,67,MIA,PHI,8,home,BadPass,steal,,turnover,,W. Ellington,D. Šarić
+299,3,2:52.0,90,67,MIA,PHI,8,home,bad pass,steal,,turnover,,W. Ellington,D. Šarić
 300,3,2:47.0,90,69,MIA,PHI,5,away,LU,assist,1,make2,2,S. Rodríguez,G. Henderson
 301,3,2:32.0,92,69,MIA,PHI,15,home,JS,,11,make2,2,T. Johnson,
 302,3,2:32.0,92,69,MIA,PHI,0,away,Timeout,,,,,,
@@ -307,7 +307,7 @@
 305,3,2:18.0,92,69,MIA,PHI,1,home,DefReb,,,DefReb,,T. Johnson,
 306,3,2:00.0,92,69,MIA,PHI,18,home,JS,,24,miss3,0,D. Waiters,
 307,3,1:59.0,92,69,MIA,PHI,1,away,DefReb,,,DefReb,,S. Rodríguez,
-308,3,1:45.0,92,69,MIA,PHI,14,away,LostBall,steal,,turnover,,S. Rodríguez,D. Waiters
+308,3,1:45.0,92,69,MIA,PHI,14,away,lost ball,steal,,turnover,,S. Rodríguez,D. Waiters
 309,3,1:40.0,92,69,MIA,PHI,5,home,LU,,3,miss2,0,D. Waiters,
 310,3,1:39.0,92,69,MIA,PHI,1,home,OffReb,,,OffReb,,W. Ellington,
 311,3,1:33.0,92,69,MIA,PHI,6,home,PersonalFoul,DrawnBy,,PersonalFoul,,C. Randle,D. Waiters
@@ -317,7 +317,7 @@
 315,3,1:20.0,94,70,MIA,PHI,0,away,FreeThrow,,,make1,1,C. Randle,
 316,3,1:20.0,94,70,MIA,PHI,0,home,Sub,,,,,G. Dragić,D. Waiters
 317,3,1:20.0,94,71,MIA,PHI,0,away,FreeThrow,,,make1,1,C. Randle,
-318,3,1:07.0,94,71,MIA,PHI,13,home,BadPass,steal,,turnover,,T. Johnson,G. Henderson
+318,3,1:07.0,94,71,MIA,PHI,13,home,bad pass,steal,,turnover,,T. Johnson,G. Henderson
 319,3,1:04.0,94,71,MIA,PHI,3,away,LU,block,3,miss2,0,G. Henderson,T. Johnson
 320,3,1:03.0,94,71,MIA,PHI,1,away,OffReb,,,OffReb,,Team,
 321,3,1:03.0,94,71,MIA,PHI,0,away,TechnicalFoul,,,TechnicalFoul,,G. Henderson,
@@ -330,7 +330,7 @@
 328,3,0:51.0,95,72,MIA,PHI,0,away,FreeThrow,,,make1,1,R. Holmes,
 329,3,0:51.0,95,73,MIA,PHI,0,away,FreeThrow,,,make1,1,R. Holmes,
 330,3,0:30.0,98,73,MIA,PHI,21,home,JS,assist,23,make3,3,W. Ellington,J. Johnson
-331,3,0:26.0,98,73,MIA,PHI,4,away,BadPass,steal,,turnover,,S. Rodríguez,J. Johnson
+331,3,0:26.0,98,73,MIA,PHI,4,away,bad pass,steal,,turnover,,S. Rodríguez,J. Johnson
 332,3,0:23.0,100,73,MIA,PHI,3,home,DK,,0,make2,2,J. Johnson,
 333,3,0:04.0,100,75,MIA,PHI,19,away,LU,,1,make2,2,R. Holmes,
 334,4,11:45.0,102,75,MIA,PHI,15,home,JS,,18,make2,2,W. Ellington,
@@ -341,7 +341,7 @@
 339,4,11:23.0,102,75,MIA,PHI,0,away,OffReb,,,OffReb,,Team,
 340,4,11:23.0,102,76,MIA,PHI,0,away,FreeThrow,,,make1,1,D. Šarić,
 341,4,11:14.0,102,76,MIA,PHI,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Henderson,W. Ellington
-342,4,11:12.0,102,76,MIA,PHI,2,home,LostBall,steal,,turnover,,O. White,D. Šarić
+342,4,11:12.0,102,76,MIA,PHI,2,home,lost ball,steal,,turnover,,O. White,D. Šarić
 343,4,11:08.0,102,76,MIA,PHI,4,away,OffensiveFoul,DrawnBy,,OffensiveFoul,,T. McConnell,G. Dragić
 344,4,11:08.0,102,76,MIA,PHI,0,away,OffensiveFoul,,,turnover,,T. McConnell,
 345,4,10:50.0,104,76,MIA,PHI,18,home,JS,,4,make2,2,T. Johnson,

@@ -1,6 +1,6 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:43.0,2,0,CHI,BOS,17,home,JS,assist,20,make2,2,D. Wade,R. Rondo
-1,1,11:33.0,2,0,CHI,BOS,10,away,LostBall,steal,,turnover,,I. Thomas,R. Rondo
+1,1,11:33.0,2,0,CHI,BOS,10,away,lost ball,steal,,turnover,,I. Thomas,R. Rondo
 2,1,11:29.0,2,0,CHI,BOS,4,home,ShootingFoul,DrawnBy,,ShootingFoul,,A. Johnson,R. Lopez
 3,1,11:29.0,3,0,CHI,BOS,0,home,FreeThrow,,,make1,1,R. Lopez,
 4,1,11:29.0,4,0,CHI,BOS,0,home,FreeThrow,,,make1,1,R. Lopez,
@@ -76,7 +76,7 @@
 74,1,2:41.0,27,15,CHI,BOS,0,away,Sub,,,,,J. Brown,J. Crowder
 75,1,2:41.0,27,16,CHI,BOS,0,away,FreeThrow,,,make1,0,A. Horford,
 76,1,2:40.0,27,16,CHI,BOS,1,home,DefReb,,,DefReb,,N. Mirotić,
-77,1,2:21.0,27,16,CHI,BOS,19,home,BadPass,steal,,turnover,,D. McDermott,I. Thomas
+77,1,2:21.0,27,16,CHI,BOS,19,home,bad pass,steal,,turnover,,D. McDermott,I. Thomas
 78,1,2:18.0,27,18,CHI,BOS,3,away,LU,,2,make2,2,I. Thomas,
 79,1,2:16.0,27,18,CHI,BOS,2,away,JumpBallViolation,,,JumpBallViolation,,Team,
 80,1,2:07.0,27,18,CHI,BOS,9,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brown,J. Butler
@@ -87,10 +87,10 @@
 85,1,2:07.0,27,18,CHI,BOS,0,home,Sub,,,,,D. Wade,R. Rondo
 86,1,2:05.0,27,18,CHI,BOS,2,away,DefReb,,,DefReb,,J. Jerebko,
 87,1,1:55.0,27,18,CHI,BOS,10,home,Sub,,,,,I. Canaan,J. Butler
-88,1,1:52.0,27,18,CHI,BOS,3,away,LostBall,steal,,turnover,,I. Thomas,I. Canaan
+88,1,1:52.0,27,18,CHI,BOS,3,away,lost ball,steal,,turnover,,I. Thomas,I. Canaan
 89,1,1:45.0,27,18,CHI,BOS,7,home,JS,,25,miss3,0,I. Canaan,
 90,1,1:42.0,27,18,CHI,BOS,3,home,OffReb,,,OffReb,,D. Wade,
-91,1,1:39.0,27,18,CHI,BOS,3,home,BadPass,steal,,turnover,,N. Mirotić,T. Rozier
+91,1,1:39.0,27,18,CHI,BOS,3,home,bad pass,steal,,turnover,,N. Mirotić,T. Rozier
 92,1,1:26.0,27,18,CHI,BOS,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Mirotić,I. Thomas
 93,1,1:17.0,27,18,CHI,BOS,9,away,JS,,22,miss2,0,T. Zeller,
 94,1,1:16.0,27,18,CHI,BOS,1,home,DefReb,,,DefReb,,I. Canaan,
@@ -215,11 +215,11 @@
 213,2,1:31.0,52,43,CHI,BOS,0,home,FreeThrow,,,make1,1,D. Wade,
 214,2,1:14.0,52,45,CHI,BOS,17,away,LU,assist,3,make2,2,I. Thomas,A. Horford
 215,2,0:57.0,54,45,CHI,BOS,17,home,LU,assist,1,make2,2,T. Gibson,M. Carter-Williams
-216,2,0:46.0,54,45,CHI,BOS,11,away,LostBall,steal,,turnover,,I. Thomas,J. Butler
+216,2,0:46.0,54,45,CHI,BOS,11,away,lost ball,steal,,turnover,,I. Thomas,J. Butler
 217,2,0:39.0,54,45,CHI,BOS,7,home,3sec,,,turnover,,T. Gibson,
 218,2,0:39.0,54,45,CHI,BOS,0,away,Sub,,,,,T. Zeller,A. Horford
 219,2,0:32.0,54,47,CHI,BOS,7,away,JS,assist,15,make2,2,A. Bradley,I. Thomas
-220,2,0:13.0,54,47,CHI,BOS,19,home,BadPass,steal,,turnover,,D. Wade,I. Thomas
+220,2,0:13.0,54,47,CHI,BOS,19,home,bad pass,steal,,turnover,,D. Wade,I. Thomas
 221,2,0:10.0,54,49,CHI,BOS,3,away,LU,,2,make2,2,I. Thomas,
 222,2,0:10.0,54,49,CHI,BOS,0,home,Timeout,,,,,,
 223,2,0:10.0,54,49,CHI,BOS,0,home,Sub,,,,,D. McDermott,T. Gibson
@@ -260,8 +260,8 @@
 258,3,7:34.0,63,57,CHI,BOS,14,home,JS,,23,miss3,0,R. Rondo,
 259,3,7:34.0,63,57,CHI,BOS,0,home,OffReb,,,OffReb,,Team,
 260,3,7:34.0,63,57,CHI,BOS,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,J. Crowder,R. Lopez
-261,3,7:22.0,63,57,CHI,BOS,12,home,BadPass,steal,,turnover,,D. Wade,J. Crowder
-262,3,7:12.0,63,57,CHI,BOS,10,away,BadPass,steal,,turnover,,A. Horford,R. Rondo
+261,3,7:22.0,63,57,CHI,BOS,12,home,bad pass,steal,,turnover,,D. Wade,J. Crowder
+262,3,7:12.0,63,57,CHI,BOS,10,away,bad pass,steal,,turnover,,A. Horford,R. Rondo
 263,3,7:09.0,63,57,CHI,BOS,3,home,LU,block,2,miss2,0,R. Rondo,T. Zeller
 264,3,7:06.0,63,57,CHI,BOS,3,away,DefReb,,,DefReb,,A. Bradley,
 265,3,7:01.0,63,59,CHI,BOS,5,away,LU,assist,1,make2,2,J. Crowder,I. Thomas
@@ -297,7 +297,7 @@
 295,3,4:44.0,68,65,CHI,BOS,0,home,Sub,,,,,M. Carter-Williams,D. McDermott
 296,3,4:44.0,68,65,CHI,BOS,0,away,Sub,,,,,A. Johnson,T. Zeller
 297,3,4:44.0,68,66,CHI,BOS,0,away,FreeThrow,,,make1,1,I. Thomas,
-298,3,4:30.0,68,66,CHI,BOS,14,home,BadPass,steal,,turnover,,R. Rondo,T. Rozier
+298,3,4:30.0,68,66,CHI,BOS,14,home,bad pass,steal,,turnover,,R. Rondo,T. Rozier
 299,3,4:23.0,68,69,CHI,BOS,7,away,JS,,26,make3,3,I. Thomas,
 300,3,4:12.0,70,69,CHI,BOS,11,home,JS,assist,6,make2,2,T. Gibson,R. Rondo
 301,3,3:58.0,70,69,CHI,BOS,14,away,Traveling,,,turnover,,I. Thomas,
@@ -389,7 +389,7 @@
 387,4,8:12.0,88,81,CHI,BOS,15,away,JS,,10,miss2,0,J. Jerebko,
 388,4,8:11.0,88,81,CHI,BOS,1,home,DefReb,,,DefReb,,D. McDermott,
 389,4,7:59.0,91,81,CHI,BOS,12,home,JS,assist,26,make3,3,M. Carter-Williams,N. Mirotić
-390,4,7:52.0,91,81,CHI,BOS,7,away,BadPass,steal,,turnover,,A. Bradley,J. Butler
+390,4,7:52.0,91,81,CHI,BOS,7,away,bad pass,steal,,turnover,,A. Bradley,J. Butler
 391,4,7:38.0,93,81,CHI,BOS,14,home,JS,,7,make2,2,M. Carter-Williams,
 392,4,7:38.0,93,81,CHI,BOS,0,away,Timeout,,,,,,
 393,4,7:38.0,93,81,CHI,BOS,0,away,Sub,,,,,I. Thomas,T. Rozier
@@ -402,7 +402,7 @@
 400,4,6:52.0,95,81,CHI,BOS,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,M. Carter-Williams,A. Bradley
 401,4,6:52.0,95,82,CHI,BOS,0,away,FreeThrow,,,make1,1,A. Bradley,
 402,4,6:52.0,95,83,CHI,BOS,0,away,FreeThrow,,,make1,1,A. Bradley,
-403,4,6:41.0,95,83,CHI,BOS,11,home,BadPass,steal,,turnover,,N. Mirotić,A. Johnson
+403,4,6:41.0,95,83,CHI,BOS,11,home,bad pass,steal,,turnover,,N. Mirotić,A. Johnson
 404,4,6:31.0,95,85,CHI,BOS,10,away,JS,assist,8,make2,2,J. Brown,A. Bradley
 405,4,6:15.0,95,85,CHI,BOS,16,home,JS,,6,miss2,0,D. McDermott,
 406,4,6:14.0,95,85,CHI,BOS,1,away,DefReb,,,DefReb,,J. Brown,

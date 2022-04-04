@@ -17,7 +17,7 @@
 15,1,8:34.0,6,8,BOS,SAS,18,away,JS,,6,make2,2,T. Parker,
 16,1,8:18.0,6,8,BOS,SAS,16,home,JS,,25,miss3,0,A. Horford,
 17,1,8:17.0,6,8,BOS,SAS,1,away,DefReb,,,DefReb,,P. Gasol,
-18,1,8:13.0,6,8,BOS,SAS,4,away,LostBall,steal,,turnover,,K. Leonard,J. Crowder
+18,1,8:13.0,6,8,BOS,SAS,4,away,lost ball,steal,,turnover,,K. Leonard,J. Crowder
 19,1,7:58.0,9,8,BOS,SAS,15,home,JS,,23,make3,3,A. Bradley,
 20,1,7:42.0,9,8,BOS,SAS,16,away,JS,,6,miss2,0,L. Aldridge,
 21,1,7:41.0,9,8,BOS,SAS,1,home,DefReb,,,DefReb,,A. Horford,
@@ -46,7 +46,7 @@
 44,1,5:18.0,20,10,BOS,SAS,18,away,LU,block,1,miss2,0,D. Lee,A. Johnson
 45,1,5:17.0,20,10,BOS,SAS,1,home,DefReb,,,DefReb,,A. Bradley,
 46,1,5:08.0,22,10,BOS,SAS,9,home,LU,assist,1,make2,2,J. Crowder,A. Horford
-47,1,4:51.0,22,10,BOS,SAS,17,away,BadPass,steal,,turnover,,P. Mills,A. Johnson
+47,1,4:51.0,22,10,BOS,SAS,17,away,bad pass,steal,,turnover,,P. Mills,A. Johnson
 48,1,4:45.0,22,10,BOS,SAS,6,home,JS,block,5,miss2,0,A. Bradley,D. Green
 49,1,4:45.0,22,10,BOS,SAS,0,home,OffReb,,,OffReb,,Team,
 50,1,4:45.0,22,10,BOS,SAS,0,home,Sub,,,,,J. Jerebko,A. Johnson
@@ -60,7 +60,7 @@
 58,1,3:50.0,24,10,BOS,SAS,9,home,LU,,2,miss2,0,I. Thomas,
 59,1,3:50.0,24,10,BOS,SAS,0,away,DefReb,,,DefReb,,D. Lee,
 60,1,3:39.0,24,12,BOS,SAS,11,away,DK,assist,0,make2,2,D. Lee,J. Simmons
-61,1,3:22.0,24,12,BOS,SAS,17,home,BadPass,steal,,turnover,,A. Horford,P. Mills
+61,1,3:22.0,24,12,BOS,SAS,17,home,bad pass,steal,,turnover,,A. Horford,P. Mills
 62,1,3:16.0,24,12,BOS,SAS,6,away,JS,,26,miss3,0,M. Ginóbili,
 63,1,3:15.0,24,12,BOS,SAS,1,away,OffReb,,,OffReb,,D. Lee,
 64,1,3:13.0,24,14,BOS,SAS,2,away,LU,,1,make2,2,D. Lee,
@@ -79,9 +79,9 @@
 77,1,2:25.0,26,14,BOS,SAS,2,home,DefReb,,,DefReb,,J. Jerebko,
 78,1,2:10.0,28,14,BOS,SAS,15,home,JS,assist,22,make2,2,J. Jerebko,I. Thomas
 79,1,1:54.0,28,16,BOS,SAS,16,away,JS,assist,21,make2,2,D. Bertāns,M. Ginóbili
-80,1,1:44.0,28,16,BOS,SAS,10,home,BadPass,steal,,turnover,,M. Smart,D. Bertāns
+80,1,1:44.0,28,16,BOS,SAS,10,home,bad pass,steal,,turnover,,M. Smart,D. Bertāns
 81,1,1:41.0,28,18,BOS,SAS,3,away,DK,,0,make2,2,D. Bertāns,
-82,1,1:15.0,28,18,BOS,SAS,26,home,BadPass,steal,,turnover,,T. Rozier,J. Simmons
+82,1,1:15.0,28,18,BOS,SAS,26,home,bad pass,steal,,turnover,,T. Rozier,J. Simmons
 83,1,1:09.0,28,18,BOS,SAS,6,away,LU,,0,miss2,0,J. Simmons,
 84,1,1:08.0,28,18,BOS,SAS,1,away,OffReb,,,OffReb,,D. Lee,
 85,1,1:08.0,28,20,BOS,SAS,0,away,LU,,0,make2,2,D. Lee,
@@ -141,7 +141,7 @@
 139,2,7:38.0,38,27,BOS,SAS,11,home,BadPass,,,turnover,,A. Johnson,
 140,2,7:27.0,38,27,BOS,SAS,11,away,Traveling,,,turnover,,K. Leonard,
 141,2,7:27.0,38,27,BOS,SAS,0,away,DelayOfGame,,,DelayOfGame,,Team,
-142,2,7:14.0,38,27,BOS,SAS,13,home,BadPass,steal,,turnover,,A. Horford,T. Parker
+142,2,7:14.0,38,27,BOS,SAS,13,home,bad pass,steal,,turnover,,A. Horford,T. Parker
 143,2,6:58.0,38,30,BOS,SAS,16,away,JS,assist,25,make3,3,D. Bertāns,T. Parker
 144,2,6:32.0,38,30,BOS,SAS,26,home,JS,,18,miss2,0,J. Brown,
 145,2,6:32.0,38,30,BOS,SAS,0,away,DefReb,,,DefReb,,D. Bertāns,
@@ -265,7 +265,7 @@
 263,3,5:27.0,58,61,BOS,SAS,0,away,Sub,,,,,D. Lee,D. Green
 264,3,5:27.0,58,61,BOS,SAS,0,away,Sub,,,,,M. Ginóbili,T. Parker
 265,3,5:07.0,61,61,BOS,SAS,20,home,JS,assist,23,make3,3,A. Bradley,J. Crowder
-266,3,4:52.0,61,61,BOS,SAS,15,away,BadPass,steal,,turnover,,P. Gasol,K. Olynyk
+266,3,4:52.0,61,61,BOS,SAS,15,away,bad pass,steal,,turnover,,P. Gasol,K. Olynyk
 267,3,4:47.0,61,61,BOS,SAS,5,home,BadPass,,,turnover,,A. Bradley,
 268,3,4:30.0,61,61,BOS,SAS,17,away,JS,,26,miss3,0,K. Leonard,
 269,3,4:29.0,61,61,BOS,SAS,1,home,DefReb,,,DefReb,,A. Horford,
@@ -280,7 +280,7 @@
 278,3,3:43.0,64,63,BOS,SAS,1,away,DefReb,,,DefReb,,D. Lee,
 279,3,3:38.0,64,63,BOS,SAS,5,away,PersonalFoul,DrawnBy,,PersonalFoul,,M. Smart,K. Leonard
 280,3,3:38.0,64,63,BOS,SAS,0,away,Sub,,,,,J. Simmons,K. Leonard
-281,3,3:32.0,64,63,BOS,SAS,6,away,BadPass,steal,,turnover,,M. Ginóbili,M. Smart
+281,3,3:32.0,64,63,BOS,SAS,6,away,bad pass,steal,,turnover,,M. Ginóbili,M. Smart
 282,3,3:26.0,67,63,BOS,SAS,6,home,JS,assist,23,make3,3,J. Jerebko,I. Thomas
 283,3,3:16.0,67,63,BOS,SAS,10,away,LU,,2,miss2,0,M. Ginóbili,
 284,3,3:16.0,67,63,BOS,SAS,0,away,OffReb,,,OffReb,,D. Lee,
@@ -295,7 +295,7 @@
 293,3,2:17.0,69,69,BOS,SAS,7,home,PersonalBlockFoul,,,,,P. Mills,
 294,3,2:17.0,69,69,BOS,SAS,0,home,Sub,,,,,T. Zeller,K. Olynyk
 295,3,2:10.0,72,69,BOS,SAS,7,home,JS,assist,26,make3,3,I. Thomas,M. Smart
-296,3,2:00.0,72,69,BOS,SAS,10,away,BadPass,steal,,turnover,,P. Mills,T. Rozier
+296,3,2:00.0,72,69,BOS,SAS,10,away,bad pass,steal,,turnover,,P. Mills,T. Rozier
 297,3,2:00.0,72,69,BOS,SAS,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Ginóbili,T. Rozier
 298,3,1:46.0,72,69,BOS,SAS,14,home,LU,,2,miss2,0,I. Thomas,
 299,3,1:45.0,72,69,BOS,SAS,1,home,OffReb,,,OffReb,,M. Smart,
@@ -321,7 +321,7 @@
 319,4,11:47.0,74,75,BOS,SAS,13,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Bradley,J. Simmons
 320,4,11:38.0,74,78,BOS,SAS,9,away,JS,assist,26,make3,3,D. Bertāns,M. Ginóbili
 321,4,11:21.0,76,78,BOS,SAS,17,home,JS,assist,8,make2,2,A. Bradley,M. Smart
-322,4,11:08.0,76,78,BOS,SAS,13,away,LostBall,steal,,turnover,,J. Simmons,K. Olynyk
+322,4,11:08.0,76,78,BOS,SAS,13,away,lost ball,steal,,turnover,,J. Simmons,K. Olynyk
 323,4,11:02.0,79,78,BOS,SAS,6,home,JS,assist,23,make3,3,A. Bradley,M. Smart
 324,4,10:51.0,79,78,BOS,SAS,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Rozier,P. Mills
 325,4,10:51.0,79,79,BOS,SAS,0,away,FreeThrow,,,make1,1,P. Mills,
@@ -342,7 +342,7 @@
 340,4,9:31.0,81,83,BOS,SAS,0,away,Sub,,,,,L. Aldridge,D. Lee
 341,4,9:21.0,81,83,BOS,SAS,10,home,JS,,26,miss3,0,K. Olynyk,
 342,4,9:20.0,81,83,BOS,SAS,1,away,DefReb,,,DefReb,,Team,
-343,4,9:08.0,81,83,BOS,SAS,12,away,BadPass,steal,,turnover,,T. Parker,K. Olynyk
+343,4,9:08.0,81,83,BOS,SAS,12,away,bad pass,steal,,turnover,,T. Parker,K. Olynyk
 344,4,8:51.0,81,83,BOS,SAS,17,home,LU,,2,miss2,0,A. Bradley,
 345,4,8:51.0,81,83,BOS,SAS,0,away,DefReb,,,DefReb,,Team,
 346,4,8:51.0,81,83,BOS,SAS,0,away,Timeout,,,,,,
@@ -370,7 +370,7 @@
 368,4,6:11.0,89,91,BOS,SAS,0,home,FreeThrow,,,make1,1,T. Rozier,
 369,4,5:47.0,89,91,BOS,SAS,24,away,JS,,26,miss3,0,K. Leonard,
 370,4,5:45.0,89,91,BOS,SAS,2,away,OffReb,,,OffReb,,D. Lee,
-371,4,5:30.0,89,91,BOS,SAS,15,away,LostBall,steal,,turnover,,D. Lee,T. Rozier
+371,4,5:30.0,89,91,BOS,SAS,15,away,lost ball,steal,,turnover,,D. Lee,T. Rozier
 372,4,5:24.0,89,91,BOS,SAS,6,home,JS,,23,miss3,0,A. Bradley,
 373,4,5:22.0,89,91,BOS,SAS,2,away,DefReb,,,DefReb,,D. Lee,
 374,4,5:17.0,89,93,BOS,SAS,5,away,JS,assist,8,make2,2,D. Lee,D. Green

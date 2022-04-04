@@ -15,7 +15,7 @@
 13,1,9:46.0,4,4,SAS,OKC,2,away,OffReb,,,OffReb,,A. Roberson,
 14,1,9:30.0,4,4,SAS,OKC,16,away,JS,,26,miss3,0,A. Roberson,
 15,1,9:29.0,4,4,SAS,OKC,1,home,DefReb,,,DefReb,,D. Dedmon,
-16,1,9:14.0,4,4,SAS,OKC,15,home,BadPass,steal,,turnover,,L. Aldridge,V. Oladipo
+16,1,9:14.0,4,4,SAS,OKC,15,home,bad pass,steal,,turnover,,L. Aldridge,V. Oladipo
 17,1,9:09.0,4,6,SAS,OKC,5,away,LU,assist,2,make2,2,D. Sabonis,V. Oladipo
 18,1,8:58.0,4,6,SAS,OKC,11,home,JS,,26,miss3,0,L. Aldridge,
 19,1,8:57.0,4,6,SAS,OKC,1,away,DefReb,,,DefReb,,A. Roberson,
@@ -47,7 +47,7 @@
 45,1,6:25.0,10,10,SAS,OKC,22,away,HS,,3,make2,2,D. Sabonis,
 46,1,6:20.0,10,10,SAS,OKC,5,home,JS,,20,miss2,0,K. Leonard,
 47,1,6:19.0,10,10,SAS,OKC,1,away,DefReb,,,DefReb,,D. Sabonis,
-48,1,6:19.0,10,10,SAS,OKC,0,away,LostBall,steal,,turnover,,D. Sabonis,D. Dedmon
+48,1,6:19.0,10,10,SAS,OKC,0,away,lost ball,steal,,turnover,,D. Sabonis,D. Dedmon
 49,1,6:16.0,12,10,SAS,OKC,3,home,JS,,3,make2,2,L. Aldridge,
 50,1,6:06.0,12,10,SAS,OKC,10,away,ShootingFoul,DrawnBy,,ShootingFoul,,T. Parker,S. Adams
 51,1,6:06.0,12,10,SAS,OKC,0,away,FreeThrow,,,make1,0,S. Adams,
@@ -56,7 +56,7 @@
 54,1,6:04.0,12,10,SAS,OKC,2,home,DefReb,,,DefReb,,D. Dedmon,
 55,1,5:39.0,12,10,SAS,OKC,25,home,JS,,27,miss3,0,T. Parker,
 56,1,5:38.0,12,10,SAS,OKC,1,away,DefReb,,,DefReb,,V. Oladipo,
-57,1,5:27.0,12,10,SAS,OKC,11,away,BadPass,steal,,turnover,,V. Oladipo,T. Parker
+57,1,5:27.0,12,10,SAS,OKC,11,away,bad pass,steal,,turnover,,V. Oladipo,T. Parker
 58,1,5:10.0,12,10,SAS,OKC,17,home,JS,,5,miss2,0,L. Aldridge,
 59,1,5:10.0,12,10,SAS,OKC,0,home,OffReb,,,OffReb,,Team,
 60,1,5:10.0,12,10,SAS,OKC,0,home,Timeout,,,,,,
@@ -84,7 +84,7 @@
 82,1,4:21.0,14,11,SAS,OKC,0,away,FreeThrow,,,make1,0,A. Roberson,
 83,1,4:21.0,14,11,SAS,OKC,0,home,Sub,,,,,D. Dedmon,L. Aldridge
 84,1,4:17.0,14,11,SAS,OKC,4,away,OffReb,,,OffReb,,S. Adams,
-85,1,4:15.0,14,11,SAS,OKC,2,away,LostBall,steal,,turnover,,S. Adams,D. Dedmon
+85,1,4:15.0,14,11,SAS,OKC,2,away,lost ball,steal,,turnover,,S. Adams,D. Dedmon
 86,1,4:01.0,16,11,SAS,OKC,14,home,LU,,2,make2,2,M. Ginóbili,
 87,1,3:43.0,16,13,SAS,OKC,18,away,JS,,17,make2,2,R. Westbrook,
 88,1,3:27.0,16,13,SAS,OKC,16,home,LU,block,1,miss2,0,D. Lee,A. Roberson
@@ -94,8 +94,8 @@
 92,1,3:18.0,18,14,SAS,OKC,0,away,FreeThrow,,,make1,1,A. Morrow,
 93,1,3:18.0,18,15,SAS,OKC,0,away,FreeThrow,,,make1,1,A. Morrow,
 94,1,3:04.0,20,15,SAS,OKC,14,home,LU,assist,2,make2,2,D. Lee,M. Ginóbili
-95,1,2:57.0,20,15,SAS,OKC,7,away,BadPass,steal,,turnover,,R. Westbrook,D. Dedmon
-96,1,2:52.0,20,15,SAS,OKC,5,home,BadPass,steal,,turnover,,P. Mills,R. Westbrook
+95,1,2:57.0,20,15,SAS,OKC,7,away,bad pass,steal,,turnover,,R. Westbrook,D. Dedmon
+96,1,2:52.0,20,15,SAS,OKC,5,home,bad pass,steal,,turnover,,P. Mills,R. Westbrook
 97,1,2:49.0,20,15,SAS,OKC,3,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,A. Morrow
 98,1,2:49.0,20,15,SAS,OKC,0,away,Timeout,,,,,,
 99,1,2:49.0,20,16,SAS,OKC,0,away,FreeThrow,,,make1,1,A. Morrow,
@@ -109,12 +109,12 @@
 107,1,2:03.0,25,17,SAS,OKC,16,home,JS,assist,25,make3,3,P. Mills,K. Leonard
 108,1,1:43.0,25,17,SAS,OKC,20,away,JS,,5,miss2,0,A. Morrow,
 109,1,1:42.0,25,17,SAS,OKC,1,home,DefReb,,,DefReb,,K. Leonard,
-110,1,1:34.0,25,17,SAS,OKC,8,home,LostBall,steal,,turnover,,K. Leonard,A. Morrow
-111,1,1:30.0,25,17,SAS,OKC,4,away,LostBall,steal,,turnover,,D. Sabonis,P. Mills
+110,1,1:34.0,25,17,SAS,OKC,8,home,lost ball,steal,,turnover,,K. Leonard,A. Morrow
+111,1,1:30.0,25,17,SAS,OKC,4,away,lost ball,steal,,turnover,,D. Sabonis,P. Mills
 112,1,1:28.0,27,17,SAS,OKC,2,home,DK,assist,0,make2,2,K. Leonard,M. Ginóbili
 113,1,1:28.0,27,17,SAS,OKC,0,away,Timeout,,,,,,
 114,1,1:28.0,27,17,SAS,OKC,0,home,Sub,,,,,D. Green,K. Leonard
-115,1,1:11.0,27,17,SAS,OKC,17,away,BadPass,steal,,turnover,,D. Sabonis,D. Bertāns
+115,1,1:11.0,27,17,SAS,OKC,17,away,bad pass,steal,,turnover,,D. Sabonis,D. Bertāns
 116,1,1:08.0,27,17,SAS,OKC,3,home,JS,,24,miss3,0,D. Green,
 117,1,1:07.0,27,17,SAS,OKC,1,home,OffReb,,,OffReb,,D. Lee,
 118,1,1:07.0,27,17,SAS,OKC,0,home,LU,,2,miss2,0,D. Lee,
@@ -133,14 +133,14 @@
 131,1,0:05.0,31,17,SAS,OKC,14,away,LostBall,,,turnover,,D. Sabonis,
 132,1,0:00.0,31,17,SAS,OKC,5,home,JS,,29,miss3,0,D. Bertāns,
 133,1,0:00.0,31,17,SAS,OKC,0,away,DefReb,,,DefReb,,D. Sabonis,
-134,2,11:48.0,31,17,SAS,OKC,12,away,BadPass,steal,,turnover,,D. Sabonis,M. Ginóbili
+134,2,11:48.0,31,17,SAS,OKC,12,away,bad pass,steal,,turnover,,D. Sabonis,M. Ginóbili
 135,2,11:44.0,31,17,SAS,OKC,4,away,Sub,,,,,J. Grant,D. Sabonis
 136,2,11:34.0,33,17,SAS,OKC,10,home,JS,,14,make2,2,M. Ginóbili,
 137,2,11:16.0,33,17,SAS,OKC,18,away,JS,,27,miss3,0,C. Payne,
 138,2,11:15.0,33,17,SAS,OKC,1,home,DefReb,,,DefReb,,M. Ginóbili,
 139,2,11:10.0,33,17,SAS,OKC,5,home,PersonalFoul,,,,,C. Payne,
 140,2,10:59.0,33,17,SAS,OKC,11,home,PersonalFoul,,,,,C. Payne,
-141,2,10:50.0,33,17,SAS,OKC,9,home,LostBall,steal,,turnover,,D. Lee,V. Oladipo
+141,2,10:50.0,33,17,SAS,OKC,9,home,lost ball,steal,,turnover,,D. Lee,V. Oladipo
 142,2,10:41.0,33,17,SAS,OKC,9,away,LostBall,,,turnover,,A. Morrow,
 143,2,10:33.0,33,17,SAS,OKC,8,home,BadPass,,,turnover,,D. Lee,
 144,2,10:15.0,33,17,SAS,OKC,18,away,HS,,6,miss2,0,J. Lauvergne,
@@ -190,8 +190,8 @@
 188,2,7:14.0,37,21,SAS,OKC,0,home,FreeThrow,,,make1,1,T. Parker,
 189,2,7:14.0,37,21,SAS,OKC,0,home,FreeThrow,,,make1,0,T. Parker,
 190,2,7:13.0,37,21,SAS,OKC,1,away,DefReb,,,DefReb,,A. Roberson,
-191,2,7:00.0,37,21,SAS,OKC,13,away,BadPass,steal,,turnover,,J. Grant,J. Simmons
-192,2,6:42.0,37,21,SAS,OKC,18,home,LostBall,steal,,turnover,,L. Aldridge,A. Roberson
+191,2,7:00.0,37,21,SAS,OKC,13,away,bad pass,steal,,turnover,,J. Grant,J. Simmons
+192,2,6:42.0,37,21,SAS,OKC,18,home,lost ball,steal,,turnover,,L. Aldridge,A. Roberson
 193,2,6:35.0,37,21,SAS,OKC,7,away,DK,block,0,miss2,0,J. Grant,K. Leonard
 194,2,6:35.0,37,21,SAS,OKC,0,home,DefReb,,,DefReb,,K. Leonard,
 195,2,6:35.0,37,21,SAS,OKC,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Adams,K. Leonard
@@ -284,7 +284,7 @@
 282,3,11:27.0,54,44,SAS,OKC,15,home,JS,assist,18,make2,2,L. Aldridge,T. Parker
 283,3,11:14.0,54,46,SAS,OKC,13,away,LU,assist,1,make2,2,V. Oladipo,R. Westbrook
 284,3,10:57.0,57,46,SAS,OKC,17,home,JS,assist,24,make3,3,L. Aldridge,T. Parker
-285,3,10:48.0,57,46,SAS,OKC,9,away,BadPass,steal,,turnover,,R. Westbrook,D. Green
+285,3,10:48.0,57,46,SAS,OKC,9,away,bad pass,steal,,turnover,,R. Westbrook,D. Green
 286,3,10:42.0,60,46,SAS,OKC,6,home,JS,,25,make3,3,D. Green,
 287,3,10:27.0,60,46,SAS,OKC,15,away,JS,,10,miss2,0,V. Oladipo,
 288,3,10:25.0,60,46,SAS,OKC,2,away,OffReb,,,OffReb,,V. Oladipo,
@@ -316,7 +316,7 @@
 314,3,7:57.0,66,52,SAS,OKC,22,home,JS,,18,miss2,0,L. Aldridge,
 315,3,7:56.0,66,52,SAS,OKC,1,home,OffReb,,,OffReb,,Team,
 316,3,7:56.0,66,52,SAS,OKC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,D. Sabonis,D. Dedmon
-317,3,7:37.0,66,52,SAS,OKC,19,home,BadPass,steal,,turnover,,D. Dedmon,D. Sabonis
+317,3,7:37.0,66,52,SAS,OKC,19,home,bad pass,steal,,turnover,,D. Dedmon,D. Sabonis
 318,3,7:26.0,66,52,SAS,OKC,11,away,ShootingFoul,DrawnBy,,ShootingFoul,,D. Dedmon,V. Oladipo
 319,3,7:26.0,66,53,SAS,OKC,0,away,FreeThrow,,,make1,1,V. Oladipo,
 320,3,7:26.0,66,53,SAS,OKC,0,home,Sub,,,,,D. Lee,D. Dedmon
@@ -335,7 +335,7 @@
 333,3,6:30.0,67,56,SAS,OKC,0,home,FreeThrow,,,make1,0,L. Aldridge,
 334,3,6:29.0,67,56,SAS,OKC,1,away,DefReb,,,DefReb,,S. Adams,
 335,3,6:16.0,67,58,SAS,OKC,13,away,LU,assist,3,make2,2,A. Morrow,R. Westbrook
-336,3,5:57.0,67,58,SAS,OKC,19,home,BadPass,steal,,turnover,,D. Green,D. Sabonis
+336,3,5:57.0,67,58,SAS,OKC,19,home,bad pass,steal,,turnover,,D. Green,D. Sabonis
 337,3,5:49.0,67,58,SAS,OKC,8,away,JS,,24,miss3,0,A. Morrow,
 338,3,5:48.0,67,58,SAS,OKC,1,away,OffReb,,,OffReb,,R. Westbrook,
 339,3,5:36.0,67,60,SAS,OKC,12,away,JS,,18,make2,2,R. Westbrook,
@@ -343,7 +343,7 @@
 341,3,5:13.0,67,60,SAS,OKC,1,home,OffReb,,,OffReb,,Team,
 342,3,5:13.0,67,60,SAS,OKC,0,home,Sub,,,,,M. Ginóbili,D. Green
 343,3,5:13.0,67,60,SAS,OKC,0,home,Sub,,,,,P. Mills,T. Parker
-344,3,5:09.0,67,60,SAS,OKC,4,home,BadPass,steal,,turnover,,M. Ginóbili,V. Oladipo
+344,3,5:09.0,67,60,SAS,OKC,4,home,bad pass,steal,,turnover,,M. Ginóbili,V. Oladipo
 345,3,5:03.0,67,60,SAS,OKC,6,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,M. Ginóbili,R. Westbrook
 346,3,5:03.0,67,61,SAS,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
 347,3,5:03.0,67,62,SAS,OKC,0,away,FreeThrow,,,make1,1,R. Westbrook,
@@ -355,7 +355,7 @@
 353,3,4:31.0,68,64,SAS,OKC,15,home,JS,,25,miss3,0,M. Ginóbili,
 354,3,4:30.0,68,64,SAS,OKC,1,away,DefReb,,,DefReb,,V. Oladipo,
 355,3,4:17.0,68,67,SAS,OKC,13,away,JS,assist,24,make3,3,V. Oladipo,R. Westbrook
-356,3,4:02.0,68,67,SAS,OKC,15,home,BadPass,steal,,turnover,,L. Aldridge,V. Oladipo
+356,3,4:02.0,68,67,SAS,OKC,15,home,bad pass,steal,,turnover,,L. Aldridge,V. Oladipo
 357,3,3:54.0,68,69,SAS,OKC,8,away,LU,,2,make2,2,R. Westbrook,
 358,3,3:41.0,68,69,SAS,OKC,13,home,JS,,19,miss2,0,P. Mills,
 359,3,3:38.0,68,69,SAS,OKC,3,away,DefReb,,,DefReb,,Team,
@@ -443,8 +443,8 @@
 441,4,7:58.0,88,79,SAS,OKC,2,away,DefReb,,,DefReb,,R. Westbrook,
 442,4,7:52.0,88,79,SAS,OKC,6,away,JS,,24,miss3,0,C. Payne,
 443,4,7:50.0,88,79,SAS,OKC,2,home,DefReb,,,DefReb,,T. Parker,
-444,4,7:48.0,88,79,SAS,OKC,2,home,BadPass,steal,,turnover,,T. Parker,C. Payne
-445,4,7:36.0,88,79,SAS,OKC,12,away,LostBall,steal,,turnover,,R. Westbrook,J. Simmons
+444,4,7:48.0,88,79,SAS,OKC,2,home,bad pass,steal,,turnover,,T. Parker,C. Payne
+445,4,7:36.0,88,79,SAS,OKC,12,away,lost ball,steal,,turnover,,R. Westbrook,J. Simmons
 446,4,7:27.0,90,79,SAS,OKC,9,home,LU,,3,make2,2,K. Leonard,
 447,4,7:27.0,90,79,SAS,OKC,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,S. Adams,K. Leonard
 448,4,7:27.0,91,79,SAS,OKC,0,home,FreeThrow,,,make1,1,K. Leonard,
@@ -453,7 +453,7 @@
 451,4,7:22.0,91,80,SAS,OKC,0,away,FreeThrow,,,make1,0,J. Grant,
 452,4,7:22.0,91,80,SAS,OKC,0,home,DefReb,,,DefReb,,L. Aldridge,
 453,4,7:03.0,93,80,SAS,OKC,19,home,JS,,11,make2,2,K. Leonard,
-454,4,6:50.0,93,80,SAS,OKC,13,away,BadPass,steal,,turnover,,R. Westbrook,J. Simmons
+454,4,6:50.0,93,80,SAS,OKC,13,away,bad pass,steal,,turnover,,R. Westbrook,J. Simmons
 455,4,6:42.0,93,80,SAS,OKC,8,home,DK,,0,miss2,0,K. Leonard,
 456,4,6:41.0,93,80,SAS,OKC,1,home,OffReb,,,OffReb,,J. Simmons,
 457,4,6:38.0,93,80,SAS,OKC,3,home,JS,,24,miss3,0,D. Bertāns,
@@ -492,7 +492,7 @@
 490,4,2:29.0,104,90,SAS,OKC,7,away,PersonalFoul,DrawnBy,,PersonalFoul,,D. Green,S. Adams
 491,4,2:24.0,104,90,SAS,OKC,5,away,JS,,25,miss3,0,R. Westbrook,
 492,4,2:22.0,104,90,SAS,OKC,2,home,DefReb,,,DefReb,,T. Parker,
-493,4,2:19.0,104,90,SAS,OKC,3,home,LostBall,steal,,turnover,,T. Parker,S. Adams
+493,4,2:19.0,104,90,SAS,OKC,3,home,lost ball,steal,,turnover,,T. Parker,S. Adams
 494,4,2:15.0,104,90,SAS,OKC,4,away,JS,,26,miss3,0,R. Westbrook,
 495,4,2:15.0,104,90,SAS,OKC,0,home,DefReb,,,DefReb,,L. Aldridge,
 496,4,2:15.0,104,90,SAS,OKC,0,away,LooseBallFoul,DrawnBy,,LooseBallFoul,,S. Adams,L. Aldridge
@@ -500,7 +500,7 @@
 498,4,2:15.0,106,90,SAS,OKC,0,home,FreeThrow,,,make1,1,L. Aldridge,
 499,4,2:08.0,106,90,SAS,OKC,7,away,LU,,2,miss2,0,R. Westbrook,
 500,4,2:06.0,106,90,SAS,OKC,2,away,OffReb,,,OffReb,,S. Adams,
-501,4,2:04.0,106,90,SAS,OKC,2,away,LostBall,steal,,turnover,,S. Adams,D. Green
+501,4,2:04.0,106,90,SAS,OKC,2,away,lost ball,steal,,turnover,,S. Adams,D. Green
 502,4,2:04.0,106,90,SAS,OKC,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,R. Westbrook,T. Parker
 503,4,2:04.0,107,90,SAS,OKC,0,home,FreeThrow,,,make1,1,T. Parker,
 504,4,2:04.0,107,90,SAS,OKC,0,away,Sub,,,,,J. Lauvergne,S. Adams
@@ -528,6 +528,6 @@
 526,4,0:39.0,108,94,SAS,OKC,2,away,DefReb,,,DefReb,,C. Payne,
 527,4,0:34.0,108,94,SAS,OKC,5,away,JS,,24,miss3,0,A. Morrow,
 528,4,0:32.0,108,94,SAS,OKC,2,home,DefReb,,,DefReb,,K. Anderson,
-529,4,0:13.0,108,94,SAS,OKC,19,home,BadPass,steal,,turnover,,K. Anderson,A. Morrow
+529,4,0:13.0,108,94,SAS,OKC,19,home,bad pass,steal,,turnover,,K. Anderson,A. Morrow
 530,4,0:05.0,108,94,SAS,OKC,8,away,JS,,17,miss2,0,S. Christon,
 531,4,0:03.0,108,94,SAS,OKC,2,home,DefReb,,,DefReb,,J. Simmons,

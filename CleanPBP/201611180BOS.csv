@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:43.0,2,0,BOS,GSW,17,home,LU,assist,1,make2,2,A. Johnson,I. Thomas
 1,1,11:26.0,2,2,BOS,GSW,17,away,JS,assist,20,make2,2,K. Durant,Z. Pachulia
-2,1,11:10.0,2,2,BOS,GSW,16,home,BadPass,steal,,turnover,,I. Thomas,S. Curry
+2,1,11:10.0,2,2,BOS,GSW,16,home,bad pass,steal,,turnover,,I. Thomas,S. Curry
 3,1,11:06.0,2,2,BOS,GSW,4,away,LU,,1,miss2,0,S. Curry,
 4,1,11:03.0,2,2,BOS,GSW,3,home,DefReb,,,DefReb,,A. Bradley,
 5,1,10:59.0,5,2,BOS,GSW,4,home,JS,assist,25,make3,3,M. Smart,A. Bradley
@@ -25,11 +25,11 @@
 23,1,8:37.0,10,8,BOS,GSW,1,home,DefReb,,,DefReb,,I. Thomas,
 24,1,8:25.0,10,8,BOS,GSW,12,home,LU,,2,miss2,0,A. Bradley,
 25,1,8:24.0,10,8,BOS,GSW,1,away,DefReb,,,DefReb,,Z. Pachulia,
-26,1,8:17.0,10,8,BOS,GSW,7,away,BadPass,steal,,turnover,,S. Curry,M. Smart
+26,1,8:17.0,10,8,BOS,GSW,7,away,bad pass,steal,,turnover,,S. Curry,M. Smart
 27,1,8:11.0,10,8,BOS,GSW,6,home,JS,,22,miss2,0,M. Smart,
 28,1,8:10.0,10,8,BOS,GSW,1,away,DefReb,,,DefReb,,Z. Pachulia,
 29,1,7:48.0,10,10,BOS,GSW,22,away,LU,assist,2,make2,2,D. Green,Z. Pachulia
-30,1,7:40.0,10,10,BOS,GSW,8,home,BadPass,steal,,turnover,,A. Johnson,S. Curry
+30,1,7:40.0,10,10,BOS,GSW,8,home,bad pass,steal,,turnover,,A. Johnson,S. Curry
 31,1,7:35.0,10,10,BOS,GSW,5,away,LU,block,2,miss2,0,S. Curry,A. Johnson
 32,1,7:33.0,10,10,BOS,GSW,2,away,OffReb,,,OffReb,,Z. Pachulia,
 33,1,7:28.0,10,12,BOS,GSW,5,away,HS,assist,6,make2,2,S. Curry,Z. Pachulia
@@ -37,7 +37,7 @@
 35,1,6:51.0,12,12,BOS,GSW,12,away,ShootingFoul,DrawnBy,,ShootingFoul,,K. Olynyk,K. Durant
 36,1,6:51.0,12,13,BOS,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
 37,1,6:51.0,12,14,BOS,GSW,0,away,FreeThrow,,,make1,1,K. Durant,
-38,1,6:38.0,12,14,BOS,GSW,13,home,BadPass,steal,,turnover,,A. Bradley,Z. Pachulia
+38,1,6:38.0,12,14,BOS,GSW,13,home,bad pass,steal,,turnover,,A. Bradley,Z. Pachulia
 39,1,6:30.0,12,14,BOS,GSW,8,away,LU,,1,miss2,0,K. Thompson,
 40,1,6:29.0,12,14,BOS,GSW,1,away,OffReb,,,OffReb,,Z. Pachulia,
 41,1,6:29.0,12,14,BOS,GSW,0,away,LU,,2,miss2,0,Z. Pachulia,
@@ -61,7 +61,7 @@
 59,1,4:39.0,16,21,BOS,GSW,0,home,Sub,,,,,J. Brown,A. Bradley
 60,1,4:39.0,16,21,BOS,GSW,0,away,Sub,,,,,J. McAdoo,K. Durant
 61,1,4:39.0,16,21,BOS,GSW,0,away,Sub,,,,,A. Iguodala,Z. Pachulia
-62,1,4:26.0,16,21,BOS,GSW,13,away,LostBall,steal,,turnover,,K. Thompson,M. Smart
+62,1,4:26.0,16,21,BOS,GSW,13,away,lost ball,steal,,turnover,,K. Thompson,M. Smart
 63,1,4:10.0,16,21,BOS,GSW,16,home,JS,,25,miss3,0,J. Brown,
 64,1,4:09.0,16,21,BOS,GSW,1,away,DefReb,,,DefReb,,J. McAdoo,
 65,1,4:04.0,16,23,BOS,GSW,5,away,LU,assist,1,make2,2,A. Iguodala,J. McAdoo
@@ -109,7 +109,7 @@
 107,2,11:00.0,27,32,BOS,GSW,0,home,FreeThrow,,,make1,0,T. Rozier,
 108,2,11:00.0,27,32,BOS,GSW,0,home,OffReb,,,OffReb,,Team,
 109,2,11:00.0,28,32,BOS,GSW,0,home,FreeThrow,,,make1,1,T. Rozier,
-110,2,10:50.0,28,32,BOS,GSW,10,away,BadPass,steal,,turnover,,D. West,A. Bradley
+110,2,10:50.0,28,32,BOS,GSW,10,away,bad pass,steal,,turnover,,D. West,A. Bradley
 111,2,10:44.0,28,32,BOS,GSW,6,home,LU,block,1,miss2,0,A. Bradley,D. West
 112,2,10:42.0,28,32,BOS,GSW,2,away,DefReb,,,DefReb,,K. Thompson,
 113,2,10:35.0,28,34,BOS,GSW,7,away,JS,,16,make2,2,K. Durant,
@@ -124,7 +124,7 @@
 122,2,9:27.0,30,36,BOS,GSW,0,away,OffReb,,,OffReb,,Team,
 123,2,9:27.0,30,36,BOS,GSW,0,away,FreeThrow,,,make1,0,K. Durant,
 124,2,9:27.0,30,36,BOS,GSW,0,home,DefReb,,,DefReb,,G. Green,
-125,2,9:08.0,30,36,BOS,GSW,19,home,LostBall,steal,,turnover,,A. Bradley,S. Livingston
+125,2,9:08.0,30,36,BOS,GSW,19,home,lost ball,steal,,turnover,,A. Bradley,S. Livingston
 126,2,8:53.0,30,36,BOS,GSW,15,away,JS,,19,miss2,0,D. West,
 127,2,8:52.0,30,36,BOS,GSW,1,away,OffReb,,,OffReb,,Team,
 128,2,8:52.0,30,36,BOS,GSW,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,A. Bradley,S. Livingston
@@ -134,9 +134,9 @@
 132,2,8:37.0,30,38,BOS,GSW,0,away,Sub,,,,,P. McCaw,A. Iguodala
 133,2,8:25.0,30,38,BOS,GSW,12,home,JS,,21,miss2,0,G. Green,
 134,2,8:24.0,30,38,BOS,GSW,1,away,DefReb,,,DefReb,,K. Durant,
-135,2,8:17.0,30,38,BOS,GSW,7,away,LostBall,steal,,turnover,,K. Durant,J. Jerebko
+135,2,8:17.0,30,38,BOS,GSW,7,away,lost ball,steal,,turnover,,K. Durant,J. Jerebko
 136,2,8:12.0,32,38,BOS,GSW,5,home,DK,assist,0,make2,2,A. Bradley,T. Rozier
-137,2,7:47.0,32,38,BOS,GSW,25,away,BadPass,steal,,turnover,,P. McCaw,A. Bradley
+137,2,7:47.0,32,38,BOS,GSW,25,away,bad pass,steal,,turnover,,P. McCaw,A. Bradley
 138,2,7:39.0,32,38,BOS,GSW,8,home,JS,,11,miss2,0,T. Rozier,
 139,2,7:38.0,32,38,BOS,GSW,1,away,DefReb,,,DefReb,,D. West,
 140,2,7:24.0,32,40,BOS,GSW,14,away,LU,assist,0,make2,2,D. West,S. Livingston
@@ -146,7 +146,7 @@
 144,2,6:33.0,34,42,BOS,GSW,1,home,OffReb,,,OffReb,,K. Olynyk,
 145,2,6:32.0,34,42,BOS,GSW,1,home,LU,block,2,miss2,0,K. Olynyk,S. Livingston
 146,2,6:30.0,34,42,BOS,GSW,2,away,DefReb,,,DefReb,,K. Durant,
-147,2,6:25.0,34,42,BOS,GSW,5,away,BadPass,steal,,turnover,,S. Livingston,J. Jerebko
+147,2,6:25.0,34,42,BOS,GSW,5,away,bad pass,steal,,turnover,,S. Livingston,J. Jerebko
 148,2,6:24.0,34,42,BOS,GSW,1,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Livingston,J. Jerebko
 149,2,6:24.0,34,42,BOS,GSW,0,home,Sub,,,,,M. Smart,T. Rozier
 150,2,6:24.0,34,42,BOS,GSW,0,away,Sub,,,,,S. Curry,K. Durant
@@ -228,7 +228,7 @@
 226,3,10:46.0,48,61,BOS,GSW,9,away,JS,assist,25,make3,3,D. Green,K. Durant
 227,3,10:21.0,51,61,BOS,GSW,25,home,JS,assist,26,make3,3,I. Thomas,M. Smart
 228,3,10:00.0,51,63,BOS,GSW,21,away,JS,assist,8,make2,2,K. Thompson,D. Green
-229,3,9:42.0,51,63,BOS,GSW,18,home,BadPass,steal,,turnover,,A. Johnson,K. Durant
+229,3,9:42.0,51,63,BOS,GSW,18,home,bad pass,steal,,turnover,,A. Johnson,K. Durant
 230,3,9:30.0,51,63,BOS,GSW,12,away,BadPass,,,turnover,,D. Green,
 231,3,9:17.0,51,63,BOS,GSW,13,home,JS,block,10,miss2,0,K. Olynyk,S. Curry
 232,3,9:16.0,51,63,BOS,GSW,1,away,DefReb,,,DefReb,,Team,
@@ -239,15 +239,15 @@
 237,3,8:25.0,51,68,BOS,GSW,9,away,JS,,14,make2,2,K. Thompson,
 238,3,8:25.0,51,68,BOS,GSW,0,home,Timeout,,,,,,
 239,3,8:25.0,51,68,BOS,GSW,0,home,Sub,,,,,J. Mickey,K. Olynyk
-240,3,8:07.0,51,68,BOS,GSW,18,home,BadPass,steal,,turnover,,A. Bradley,K. Durant
+240,3,8:07.0,51,68,BOS,GSW,18,home,bad pass,steal,,turnover,,A. Bradley,K. Durant
 241,3,8:03.0,51,70,BOS,GSW,4,away,DK,assist,0,make2,2,K. Durant,S. Curry
-242,3,7:54.0,51,70,BOS,GSW,9,home,BadPass,steal,,turnover,,M. Smart,S. Curry
+242,3,7:54.0,51,70,BOS,GSW,9,home,bad pass,steal,,turnover,,M. Smart,S. Curry
 243,3,7:48.0,51,73,BOS,GSW,6,away,JS,,26,make3,3,S. Curry,
 244,3,7:47.0,51,73,BOS,GSW,1,home,Timeout,,,,,,
 245,3,7:24.0,51,73,BOS,GSW,23,home,LU,,3,miss2,0,J. Mickey,
 246,3,7:23.0,51,73,BOS,GSW,1,away,DefReb,,,DefReb,,Z. Pachulia,
 247,3,7:18.0,51,75,BOS,GSW,5,away,LU,assist,1,make2,2,S. Curry,K. Durant
-248,3,6:55.0,51,75,BOS,GSW,23,home,BadPass,steal,,turnover,,J. Jerebko,Z. Pachulia
+248,3,6:55.0,51,75,BOS,GSW,23,home,bad pass,steal,,turnover,,J. Jerebko,Z. Pachulia
 249,3,6:44.0,51,75,BOS,GSW,11,away,LostBall,,,turnover,,K. Thompson,
 250,3,6:44.0,51,75,BOS,GSW,0,home,Sub,,,,,T. Rozier,J. Jerebko
 251,3,6:44.0,51,75,BOS,GSW,0,home,Sub,,,,,G. Green,A. Bradley
@@ -287,7 +287,7 @@
 285,3,3:34.0,55,79,BOS,GSW,0,away,DefReb,,,DefReb,,K. Durant,
 286,3,3:34.0,55,79,BOS,GSW,0,away,Sub,,,,,K. Durant,Z. Pachulia
 287,3,3:14.0,55,81,BOS,GSW,20,away,JS,assist,20,make2,2,K. Durant,S. Curry
-288,3,2:57.0,55,81,BOS,GSW,17,home,LostBall,steal,,turnover,,T. Zeller,K. Durant
+288,3,2:57.0,55,81,BOS,GSW,17,home,lost ball,steal,,turnover,,T. Zeller,K. Durant
 289,3,2:52.0,55,81,BOS,GSW,5,away,LU,block,1,miss2,0,I. Clark,J. Brown
 290,3,2:51.0,55,81,BOS,GSW,1,home,DefReb,,,DefReb,,G. Green,
 291,3,2:35.0,55,81,BOS,GSW,16,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Green,T. Rozier
@@ -385,7 +385,7 @@
 383,4,4:22.0,81,97,BOS,GSW,0,home,OffReb,,,OffReb,,T. Zeller,
 384,4,4:22.0,81,97,BOS,GSW,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Curry,T. Zeller
 385,4,4:12.0,81,97,BOS,GSW,10,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Livingston,T. Zeller
-386,4,4:00.0,81,97,BOS,GSW,12,home,BadPass,steal,,turnover,,T. Zeller,D. Green
+386,4,4:00.0,81,97,BOS,GSW,12,home,bad pass,steal,,turnover,,T. Zeller,D. Green
 387,4,3:59.0,81,97,BOS,GSW,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,J. Brown,D. Green
 388,4,3:44.0,81,97,BOS,GSW,15,away,JS,,25,miss3,0,P. McCaw,
 389,4,3:42.0,81,97,BOS,GSW,2,home,DefReb,,,DefReb,,T. Zeller,

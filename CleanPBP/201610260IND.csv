@@ -3,12 +3,12 @@
 1,1,11:29.0,2,0,IND,DAL,17,away,JS,,16,miss2,0,D. Nowitzki,
 2,1,11:29.0,2,0,IND,DAL,0,home,DefReb,,,DefReb,,M. Ellis,
 3,1,11:22.0,4,0,IND,DAL,7,home,LU,assist,0,make2,2,T. Young,M. Ellis
-4,1,11:10.0,4,0,IND,DAL,12,away,LostBall,steal,,turnover,,D. Nowitzki,J. Teague
+4,1,11:10.0,4,0,IND,DAL,12,away,lost ball,steal,,turnover,,D. Nowitzki,J. Teague
 5,1,11:04.0,6,0,IND,DAL,6,home,LU,assist,2,make2,2,T. Young,J. Teague
 6,1,11:04.0,6,0,IND,DAL,0,away,Timeout,,,,,,
 7,1,10:55.0,6,3,IND,DAL,9,away,JS,assist,23,make3,3,H. Barnes,D. Williams
 8,1,10:38.0,8,3,IND,DAL,17,home,LU,,3,make2,2,M. Ellis,
-9,1,10:32.0,8,3,IND,DAL,6,away,LostBall,steal,,turnover,,D. Williams,J. Teague
+9,1,10:32.0,8,3,IND,DAL,6,away,lost ball,steal,,turnover,,D. Williams,J. Teague
 10,1,10:32.0,8,3,IND,DAL,0,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,A. Bogut,J. Teague
 11,1,10:21.0,10,3,IND,DAL,11,home,JS,,4,make2,2,P. George,
 12,1,10:05.0,10,3,IND,DAL,16,away,JS,,5,miss2,0,D. Williams,
@@ -22,10 +22,10 @@
 20,1,9:10.0,10,5,IND,DAL,12,away,HS,,6,make2,2,A. Bogut,
 21,1,9:01.0,10,5,IND,DAL,9,home,JS,,16,miss2,0,T. Young,
 22,1,9:00.0,10,5,IND,DAL,1,away,DefReb,,,DefReb,,W. Matthews,
-23,1,8:58.0,10,5,IND,DAL,2,away,BadPass,steal,,turnover,,W. Matthews,M. Ellis
-24,1,8:51.0,10,5,IND,DAL,7,home,LostBall,steal,,turnover,,M. Ellis,D. Nowitzki
+23,1,8:58.0,10,5,IND,DAL,2,away,bad pass,steal,,turnover,,W. Matthews,M. Ellis
+24,1,8:51.0,10,5,IND,DAL,7,home,lost ball,steal,,turnover,,M. Ellis,D. Nowitzki
 25,1,8:46.0,10,5,IND,DAL,5,away,BadPass,,,turnover,,D. Nowitzki,
-26,1,8:26.0,10,5,IND,DAL,20,home,LostBall,steal,,turnover,,M. Ellis,W. Matthews
+26,1,8:26.0,10,5,IND,DAL,20,home,lost ball,steal,,turnover,,M. Ellis,W. Matthews
 27,1,8:26.0,10,5,IND,DAL,0,home,LooseBallFoul,DrawnBy,,LooseBallFoul,,M. Ellis,W. Matthews
 28,1,8:14.0,10,7,IND,DAL,12,away,DK,assist,4,make2,2,A. Bogut,D. Williams
 29,1,8:01.0,12,7,IND,DAL,13,home,JS,assist,18,make2,2,M. Ellis,J. Teague
@@ -55,7 +55,7 @@
 53,1,5:45.0,17,10,IND,DAL,2,home,OffReb,,,OffReb,,M. Turner,
 54,1,5:41.0,17,10,IND,DAL,4,home,JS,,24,miss3,0,P. George,
 55,1,5:41.0,17,10,IND,DAL,0,away,DefReb,,,DefReb,,A. Bogut,
-56,1,5:28.0,17,10,IND,DAL,13,away,LostBall,steal,,turnover,,H. Barnes,M. Ellis
+56,1,5:28.0,17,10,IND,DAL,13,away,lost ball,steal,,turnover,,H. Barnes,M. Ellis
 57,1,5:24.0,19,10,IND,DAL,4,home,LU,assist,4,make2,2,J. Teague,M. Ellis
 58,1,5:24.0,19,10,IND,DAL,0,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Williams,J. Teague
 59,1,5:24.0,19,10,IND,DAL,0,home,Timeout,,,,,,
@@ -126,7 +126,7 @@
 124,2,11:14.0,33,21,IND,DAL,8,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,J. Young,J. Barea
 125,2,11:14.0,33,22,IND,DAL,0,away,FreeThrow,,,make1,1,J. Barea,
 126,2,11:14.0,33,23,IND,DAL,0,away,FreeThrow,,,make1,1,J. Barea,
-127,2,10:56.0,33,23,IND,DAL,18,home,LostBall,steal,,turnover,,R. Stuckey,S. Curry
+127,2,10:56.0,33,23,IND,DAL,18,home,lost ball,steal,,turnover,,R. Stuckey,S. Curry
 128,2,10:43.0,33,26,IND,DAL,13,away,JS,assist,24,make3,3,D. Nowitzki,J. Anderson
 129,2,10:29.0,33,26,IND,DAL,14,home,JS,,17,miss2,0,G. Robinson,
 130,2,10:28.0,33,26,IND,DAL,1,away,DefReb,,,DefReb,,D. Powell,
@@ -307,7 +307,7 @@
 305,3,6:02.0,73,70,IND,DAL,0,home,FreeThrow,,,make1,1,M. Turner,
 306,3,6:02.0,73,70,IND,DAL,0,home,Sub,,,,,L. Allen,T. Young
 307,3,6:02.0,74,70,IND,DAL,0,home,FreeThrow,,,make1,1,M. Turner,
-308,3,5:50.0,74,70,IND,DAL,12,away,BadPass,steal,,turnover,,J. Barea,M. Turner
+308,3,5:50.0,74,70,IND,DAL,12,away,bad pass,steal,,turnover,,J. Barea,M. Turner
 309,3,5:29.0,74,70,IND,DAL,21,home,JS,,21,miss2,0,L. Allen,
 310,3,5:29.0,74,70,IND,DAL,0,home,OffReb,,,OffReb,,M. Turner,
 311,3,5:26.0,76,70,IND,DAL,3,home,DK,,0,make2,2,M. Turner,
@@ -325,14 +325,14 @@
 323,3,4:21.0,80,75,IND,DAL,0,away,FreeThrow,,,make1,1,J. Barea,
 324,3,4:04.0,80,75,IND,DAL,17,home,JS,block,14,miss2,0,C. Miles,S. Curry
 325,3,4:04.0,80,75,IND,DAL,0,home,OffReb,,,OffReb,,Team,
-326,3,3:58.0,80,75,IND,DAL,6,home,LostBall,steal,,turnover,,P. George,W. Matthews
+326,3,3:58.0,80,75,IND,DAL,6,home,lost ball,steal,,turnover,,P. George,W. Matthews
 327,3,3:54.0,80,75,IND,DAL,4,away,ShootingFoul,DrawnBy,,ShootingFoul,,J. Teague,W. Matthews
 328,3,3:54.0,80,76,IND,DAL,0,away,FreeThrow,,,make1,1,W. Matthews,
 329,3,3:54.0,80,76,IND,DAL,0,home,Sub,,,,,R. Stuckey,J. Teague
 330,3,3:54.0,80,77,IND,DAL,0,away,FreeThrow,,,make1,1,W. Matthews,
 331,3,3:41.0,80,77,IND,DAL,13,home,LU,,4,miss2,0,L. Allen,
 332,3,3:40.0,80,77,IND,DAL,1,away,DefReb,,,DefReb,,H. Barnes,
-333,3,3:17.0,80,77,IND,DAL,23,away,BadPass,steal,,turnover,,J. Barea,C. Miles
+333,3,3:17.0,80,77,IND,DAL,23,away,bad pass,steal,,turnover,,J. Barea,C. Miles
 334,3,3:13.0,80,77,IND,DAL,4,home,PersonalFoul,DrawnBy,,PersonalFoul,,S. Curry,P. George
 335,3,3:13.0,81,77,IND,DAL,0,home,FreeThrow,,,make1,1,P. George,
 336,3,3:13.0,81,77,IND,DAL,0,home,Sub,,,,,A. Jefferson,L. Allen
@@ -380,7 +380,7 @@
 378,4,10:33.0,94,90,IND,DAL,7,away,JS,assist,27,make3,3,D. Nowitzki,D. Williams
 379,4,10:32.0,94,90,IND,DAL,1,home,Timeout,,,,,,
 380,4,10:32.0,94,90,IND,DAL,0,home,Sub,,,,,L. Allen,A. Jefferson
-381,4,10:17.0,94,90,IND,DAL,15,home,BadPass,steal,,turnover,,R. Stuckey,S. Curry
+381,4,10:17.0,94,90,IND,DAL,15,home,bad pass,steal,,turnover,,R. Stuckey,S. Curry
 382,4,10:12.0,94,92,IND,DAL,5,away,LU,,2,make2,2,S. Curry,
 383,4,9:55.0,94,92,IND,DAL,17,home,JS,block,9,miss2,0,C. Miles,D. Williams
 384,4,9:54.0,94,92,IND,DAL,1,away,DefReb,,,DefReb,,J. Anderson,
@@ -396,8 +396,8 @@
 394,4,8:34.0,96,94,IND,DAL,1,away,DefReb,,,DefReb,,J. Anderson,
 395,4,8:26.0,96,94,IND,DAL,8,away,LU,block,2,miss2,0,D. Williams,L. Allen
 396,4,8:24.0,96,94,IND,DAL,2,away,OffReb,,,OffReb,,D. Williams,
-397,4,8:22.0,96,94,IND,DAL,2,away,BadPass,steal,,turnover,,D. Williams,C. Miles
-398,4,8:19.0,96,94,IND,DAL,3,home,BadPass,steal,,turnover,,J. Teague,S. Curry
+397,4,8:22.0,96,94,IND,DAL,2,away,bad pass,steal,,turnover,,D. Williams,C. Miles
+398,4,8:19.0,96,94,IND,DAL,3,home,bad pass,steal,,turnover,,J. Teague,S. Curry
 399,4,8:08.0,96,97,IND,DAL,11,away,JS,assist,27,make3,3,J. Barea,S. Curry
 400,4,8:06.0,96,97,IND,DAL,2,home,Timeout,,,,,,
 401,4,8:06.0,96,97,IND,DAL,0,away,Sub,,,,,D. Powell,D. Nowitzki
@@ -445,7 +445,7 @@
 443,4,4:02.0,105,103,IND,DAL,15,home,JS,,20,miss2,0,M. Turner,
 444,4,4:01.0,105,103,IND,DAL,1,away,DefReb,,,DefReb,,H. Barnes,
 445,4,3:43.0,105,105,IND,DAL,18,away,JS,assist,17,make2,2,D. Nowitzki,J. Barea
-446,4,3:22.0,105,105,IND,DAL,21,home,LostBall,steal,,turnover,,P. George,W. Matthews
+446,4,3:22.0,105,105,IND,DAL,21,home,lost ball,steal,,turnover,,P. George,W. Matthews
 447,4,3:15.0,105,105,IND,DAL,7,away,JS,,27,miss3,0,D. Nowitzki,
 448,4,3:15.0,105,105,IND,DAL,0,home,DefReb,,,DefReb,,P. George,
 449,4,3:01.0,107,105,IND,DAL,14,home,JS,assist,19,make2,2,M. Turner,J. Teague
@@ -471,8 +471,8 @@
 469,4,0:29.0,114,112,IND,DAL,0,home,Timeout,,,,,,
 470,4,0:29.0,114,112,IND,DAL,0,home,Sub,,,,,M. Turner,R. Stuckey
 471,4,0:29.0,114,112,IND,DAL,0,away,Sub,,,,,J. Anderson,J. Barea
-472,4,0:18.0,114,112,IND,DAL,11,home,BadPass,steal,,turnover,,M. Ellis,D. Nowitzki
-473,4,0:16.0,114,112,IND,DAL,2,away,BadPass,steal,,turnover,,D. Williams,T. Young
+472,4,0:18.0,114,112,IND,DAL,11,home,bad pass,steal,,turnover,,M. Ellis,D. Nowitzki
+473,4,0:16.0,114,112,IND,DAL,2,away,bad pass,steal,,turnover,,D. Williams,T. Young
 474,4,0:14.0,114,112,IND,DAL,2,home,PersonalTakeFoul,DrawnBy,,PersonalTakeFoul,,W. Matthews,J. Teague
 475,4,0:14.0,114,112,IND,DAL,0,home,FreeThrow,,,make1,0,J. Teague,
 476,4,0:14.0,114,112,IND,DAL,0,home,OffReb,,,OffReb,,Team,
@@ -499,7 +499,7 @@
 497,1OT,3:22.0,117,117,IND,DAL,12,home,LU,block,1,miss2,0,M. Ellis,D. Nowitzki
 498,1OT,3:21.0,117,117,IND,DAL,1,away,DefReb,,,DefReb,,H. Barnes,
 499,1OT,3:13.0,117,117,IND,DAL,8,away,PersonalFoul,DrawnBy,,PersonalFoul,,T. Young,H. Barnes
-500,1OT,3:07.0,117,117,IND,DAL,6,away,BadPass,steal,,turnover,,J. Barea,M. Turner
+500,1OT,3:07.0,117,117,IND,DAL,6,away,bad pass,steal,,turnover,,J. Barea,M. Turner
 501,1OT,2:44.0,119,117,IND,DAL,23,home,LU,,1,make2,2,P. George,
 502,1OT,2:40.0,119,117,IND,DAL,4,away,ShootingBlockFoul,DrawnBy,,ShootingBlockingFoul,,T. Young,W. Matthews
 503,1OT,2:40.0,119,117,IND,DAL,0,away,FreeThrow,,,make1,0,W. Matthews,
@@ -515,9 +515,9 @@
 513,1OT,1:36.0,119,118,IND,DAL,1,home,DefReb,,,DefReb,,M. Ellis,
 514,1OT,1:18.0,122,118,IND,DAL,18,home,JS,assist,25,make3,3,M. Turner,P. George
 515,1OT,1:18.0,122,118,IND,DAL,0,away,Timeout,,,,,,
-516,1OT,1:10.0,122,118,IND,DAL,8,away,LostBall,steal,,turnover,,D. Williams,M. Ellis
+516,1OT,1:10.0,122,118,IND,DAL,8,away,lost ball,steal,,turnover,,D. Williams,M. Ellis
 517,1OT,0:55.0,125,118,IND,DAL,15,home,JS,,25,make3,3,P. George,
-518,1OT,0:44.0,125,118,IND,DAL,11,away,BadPass,steal,,turnover,,D. Williams,J. Teague
+518,1OT,0:44.0,125,118,IND,DAL,11,away,bad pass,steal,,turnover,,D. Williams,J. Teague
 519,1OT,0:35.0,127,118,IND,DAL,9,home,DK,assist,4,make2,2,M. Turner,J. Teague
 520,1OT,0:35.0,127,118,IND,DAL,0,away,Timeout,,,,,,
 521,1OT,0:35.0,127,118,IND,DAL,0,away,Sub,,,,,J. Anderson,D. Nowitzki

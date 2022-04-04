@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:39.0,0,0,ORL,IND,21,home,HS,,7,miss2,0,N. Vučević,
 1,1,11:38.0,0,0,ORL,IND,1,away,DefReb,,,DefReb,,M. Turner,
-2,1,11:33.0,0,0,ORL,IND,5,away,BadPass,steal,,turnover,,M. Ellis,T. Ross
+2,1,11:33.0,0,0,ORL,IND,5,away,bad pass,steal,,turnover,,M. Ellis,T. Ross
 3,1,11:24.0,3,0,ORL,IND,9,home,JS,assist,26,make3,3,T. Ross,A. Gordon
 4,1,11:06.0,3,2,ORL,IND,18,away,LU,assist,2,make2,2,M. Turner,J. Teague
 5,1,10:52.0,3,2,ORL,IND,14,home,JS,,19,miss2,0,E. Fournier,
@@ -15,9 +15,9 @@
 13,1,9:42.0,9,4,ORL,IND,13,away,JS,assist,4,make2,2,M. Turner,J. Teague
 14,1,9:42.0,9,4,ORL,IND,0,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,M. Turner
 15,1,9:42.0,9,5,ORL,IND,0,away,FreeThrow,,,make1,1,M. Turner,
-16,1,9:30.0,9,5,ORL,IND,12,home,LostBall,steal,,turnover,,T. Ross,J. Teague
+16,1,9:30.0,9,5,ORL,IND,12,home,lost ball,steal,,turnover,,T. Ross,J. Teague
 17,1,9:11.0,9,7,ORL,IND,19,away,HS,assist,3,make2,2,T. Young,M. Turner
-18,1,8:59.0,9,7,ORL,IND,12,home,LostBall,steal,,turnover,,T. Ross,J. Teague
+18,1,8:59.0,9,7,ORL,IND,12,home,lost ball,steal,,turnover,,T. Ross,J. Teague
 19,1,8:46.0,9,10,ORL,IND,13,away,JS,assist,27,make3,3,J. Teague,M. Ellis
 20,1,8:34.0,11,10,ORL,IND,12,home,DK,assist,0,make2,2,A. Gordon,E. Payton
 21,1,8:15.0,11,12,ORL,IND,19,away,JS,,11,make2,2,P. George,
@@ -35,7 +35,7 @@
 33,1,6:49.0,17,17,ORL,IND,23,home,JS,,16,make2,2,A. Gordon,
 34,1,6:32.0,17,19,ORL,IND,17,away,LU,,1,make2,2,P. George,
 35,1,6:16.0,19,19,ORL,IND,16,home,HS,assist,8,make2,2,N. Vučević,E. Payton
-36,1,6:11.0,19,19,ORL,IND,5,away,BadPass,steal,,turnover,,M. Turner,A. Gordon
+36,1,6:11.0,19,19,ORL,IND,5,away,bad pass,steal,,turnover,,M. Turner,A. Gordon
 37,1,6:01.0,19,19,ORL,IND,10,home,LU,,2,miss2,0,E. Payton,
 38,1,5:59.0,19,19,ORL,IND,2,away,DefReb,,,DefReb,,P. George,
 39,1,5:54.0,19,19,ORL,IND,5,away,LU,,2,miss2,0,M. Ellis,
@@ -148,7 +148,7 @@
 146,2,7:18.0,47,51,ORL,IND,0,home,OffensiveFoul,,,turnover,,B. Biyombo,
 147,2,7:18.0,47,51,ORL,IND,0,home,Sub,,,,,A. Gordon,M. Hezonja
 148,2,7:18.0,47,51,ORL,IND,0,home,Sub,,,,,T. Ross,J. Meeks
-149,2,7:02.0,47,51,ORL,IND,16,away,BadPass,steal,,turnover,,P. George,C. Watson
+149,2,7:02.0,47,51,ORL,IND,16,away,bad pass,steal,,turnover,,P. George,C. Watson
 150,2,6:59.0,47,51,ORL,IND,3,home,LU,block,3,miss2,0,C. Watson,L. Stephenson
 151,2,6:59.0,47,51,ORL,IND,0,home,OffReb,,,OffReb,,Team,
 152,2,6:59.0,47,51,ORL,IND,0,away,Sub,,,,,T. Young,C. Miles
@@ -186,7 +186,7 @@
 184,2,3:13.0,55,62,ORL,IND,2,away,DefReb,,,DefReb,,M. Turner,
 185,2,3:06.0,55,62,ORL,IND,7,away,JS,,25,miss3,0,J. Teague,
 186,2,3:04.0,55,62,ORL,IND,2,away,OffReb,,,OffReb,,M. Turner,
-187,2,3:01.0,55,62,ORL,IND,3,away,BadPass,steal,,turnover,,L. Stephenson,N. Vučević
+187,2,3:01.0,55,62,ORL,IND,3,away,bad pass,steal,,turnover,,L. Stephenson,N. Vučević
 188,2,2:51.0,57,62,ORL,IND,10,home,JS,,6,make2,2,T. Ross,
 189,2,2:33.0,57,64,ORL,IND,18,away,JS,,10,make2,2,J. Teague,
 190,2,2:19.0,57,64,ORL,IND,14,home,JS,,21,miss2,0,N. Vučević,
@@ -205,8 +205,8 @@
 203,2,1:11.0,57,66,ORL,IND,3,away,DefReb,,,DefReb,,L. Allen,
 204,2,1:03.0,57,66,ORL,IND,8,away,BadPass,,,turnover,,J. Teague,
 205,2,1:03.0,57,66,ORL,IND,0,away,Sub,,,,,C. Miles,P. George
-206,2,0:56.0,57,66,ORL,IND,7,home,BadPass,steal,,turnover,,T. Ross,C. Miles
-207,2,0:47.0,57,66,ORL,IND,9,away,LostBall,steal,,turnover,,M. Ellis,E. Payton
+206,2,0:56.0,57,66,ORL,IND,7,home,bad pass,steal,,turnover,,T. Ross,C. Miles
+207,2,0:47.0,57,66,ORL,IND,9,away,lost ball,steal,,turnover,,M. Ellis,E. Payton
 208,2,0:43.0,59,66,ORL,IND,4,home,LU,,2,make2,2,E. Payton,
 209,2,0:20.0,59,66,ORL,IND,23,away,Timeout,,,,,,
 210,2,0:18.0,59,68,ORL,IND,2,away,JS,assist,20,make2,2,C. Miles,M. Ellis
@@ -220,7 +220,7 @@
 218,3,11:20.0,59,73,ORL,IND,3,away,LU,assist,1,make2,2,P. George,M. Ellis
 219,3,11:20.0,59,73,ORL,IND,0,home,Timeout,,,,,,
 220,3,11:07.0,61,73,ORL,IND,13,home,LU,,2,make2,2,E. Payton,
-221,3,10:50.0,61,73,ORL,IND,17,away,BadPass,steal,,turnover,,M. Ellis,N. Vučević
+221,3,10:50.0,61,73,ORL,IND,17,away,bad pass,steal,,turnover,,M. Ellis,N. Vučević
 222,3,10:39.0,61,73,ORL,IND,11,home,LU,,1,miss2,0,A. Gordon,
 223,3,10:38.0,61,73,ORL,IND,1,home,OffReb,,,OffReb,,A. Gordon,
 224,3,10:38.0,63,73,ORL,IND,0,home,LU,,1,make2,2,A. Gordon,
@@ -229,13 +229,13 @@
 227,3,10:11.0,63,73,ORL,IND,4,home,LostBall,,,turnover,,E. Payton,
 228,3,10:00.0,63,73,ORL,IND,11,away,JS,,13,miss2,0,P. George,
 229,3,9:59.0,63,73,ORL,IND,1,home,DefReb,,,DefReb,,N. Vučević,
-230,3,9:48.0,63,73,ORL,IND,11,home,BadPass,steal,,turnover,,E. Payton,T. Young
+230,3,9:48.0,63,73,ORL,IND,11,home,bad pass,steal,,turnover,,E. Payton,T. Young
 231,3,9:47.0,63,73,ORL,IND,1,away,PersonalFoul,DrawnBy,,PersonalFoul,,A. Gordon,P. George
 232,3,9:36.0,63,75,ORL,IND,11,away,LU,assist,1,make2,2,M. Turner,J. Teague
 233,3,9:18.0,66,75,ORL,IND,18,home,JS,assist,24,make3,3,E. Fournier,T. Ross
 234,3,8:55.0,66,75,ORL,IND,23,away,JS,,26,miss3,0,M. Ellis,
 235,3,8:54.0,66,75,ORL,IND,1,home,DefReb,,,DefReb,,E. Payton,
-236,3,8:51.0,66,75,ORL,IND,3,home,BadPass,steal,,turnover,,E. Payton,J. Teague
+236,3,8:51.0,66,75,ORL,IND,3,home,bad pass,steal,,turnover,,E. Payton,J. Teague
 237,3,8:41.0,66,75,ORL,IND,10,away,LU,block,2,miss2,0,T. Young,N. Vučević
 238,3,8:41.0,66,75,ORL,IND,0,away,OffReb,,,OffReb,,Team,
 239,3,8:29.0,66,75,ORL,IND,12,away,JS,,20,miss2,0,P. George,
@@ -266,12 +266,12 @@
 264,3,4:54.0,76,82,ORL,IND,0,home,FreeThrow,,,make1,1,T. Ross,
 265,3,4:54.0,77,82,ORL,IND,0,home,FreeThrow,,,make1,1,T. Ross,
 266,3,4:54.0,78,82,ORL,IND,0,home,FreeThrow,,,make1,1,T. Ross,
-267,3,4:36.0,78,82,ORL,IND,18,away,BadPass,steal,,turnover,,M. Ellis,T. Ross
+267,3,4:36.0,78,82,ORL,IND,18,away,bad pass,steal,,turnover,,M. Ellis,T. Ross
 268,3,4:30.0,78,82,ORL,IND,6,home,JS,,27,miss3,0,T. Ross,
 269,3,4:29.0,78,82,ORL,IND,1,away,DefReb,,,DefReb,,P. George,
 270,3,4:18.0,78,82,ORL,IND,11,away,JS,,25,miss3,0,P. George,
 271,3,4:15.0,78,82,ORL,IND,3,home,DefReb,,,DefReb,,T. Ross,
-272,3,4:10.0,78,82,ORL,IND,5,home,BadPass,steal,,turnover,,A. Gordon,M. Ellis
+272,3,4:10.0,78,82,ORL,IND,5,home,bad pass,steal,,turnover,,A. Gordon,M. Ellis
 273,3,4:01.0,78,84,ORL,IND,9,away,LU,assist,1,make2,2,M. Turner,J. Teague
 274,3,3:49.0,80,84,ORL,IND,12,home,JS,,7,make2,2,A. Gordon,
 275,3,3:35.0,80,84,ORL,IND,14,away,ShootingFoul,DrawnBy,,ShootingFoul,,N. Vučević,M. Turner
@@ -304,7 +304,7 @@
 302,3,1:57.0,80,93,ORL,IND,2,home,DefReb,,,DefReb,,B. Biyombo,
 303,3,1:42.0,80,93,ORL,IND,15,home,JS,,9,miss2,0,J. Meeks,
 304,3,1:42.0,80,93,ORL,IND,0,away,DefReb,,,DefReb,,A. Brooks,
-305,3,1:37.0,80,93,ORL,IND,5,away,BadPass,steal,,turnover,,T. Young,A. Gordon
+305,3,1:37.0,80,93,ORL,IND,5,away,bad pass,steal,,turnover,,T. Young,A. Gordon
 306,3,1:19.0,80,93,ORL,IND,18,home,JS,,25,miss3,0,J. Meeks,
 307,3,1:18.0,80,93,ORL,IND,1,away,DefReb,,,DefReb,,L. Stephenson,
 308,3,1:05.0,80,93,ORL,IND,13,away,JS,,14,miss2,0,K. Séraphin,
@@ -336,7 +336,7 @@
 334,4,9:10.0,89,104,ORL,IND,17,home,HS,assist,8,make2,2,B. Biyombo,T. Ross
 335,4,8:50.0,89,107,ORL,IND,20,away,JS,assist,25,make3,3,P. George,A. Brooks
 336,4,8:35.0,92,107,ORL,IND,15,home,JS,assist,26,make3,3,J. Meeks,M. Hezonja
-337,4,8:17.0,92,107,ORL,IND,18,away,BadPass,steal,,turnover,,L. Stephenson,B. Biyombo
+337,4,8:17.0,92,107,ORL,IND,18,away,bad pass,steal,,turnover,,L. Stephenson,B. Biyombo
 338,4,8:11.0,92,107,ORL,IND,6,home,ShootingFoul,DrawnBy,,ShootingFoul,,K. Séraphin,B. Biyombo
 339,4,8:11.0,92,107,ORL,IND,0,away,Timeout,,,,,,
 340,4,8:11.0,92,107,ORL,IND,0,home,FreeThrow,,,make1,0,B. Biyombo,
@@ -358,7 +358,7 @@
 356,4,6:49.0,95,111,ORL,IND,1,away,DefReb,,,DefReb,,L. Stephenson,
 357,4,6:38.0,95,113,ORL,IND,11,away,HS,,4,make2,2,K. Séraphin,
 358,4,6:22.0,98,113,ORL,IND,16,home,JS,assist,26,make3,3,E. Fournier,E. Payton
-359,4,5:57.0,98,113,ORL,IND,25,away,LostBall,steal,,turnover,,A. Brooks,N. Vučević
+359,4,5:57.0,98,113,ORL,IND,25,away,lost ball,steal,,turnover,,A. Brooks,N. Vučević
 360,4,5:50.0,98,113,ORL,IND,7,home,JS,,10,miss2,0,T. Ross,
 361,4,5:48.0,98,113,ORL,IND,2,home,OffReb,,,OffReb,,A. Gordon,
 362,4,5:41.0,98,113,ORL,IND,7,home,JS,,27,miss3,0,A. Gordon,

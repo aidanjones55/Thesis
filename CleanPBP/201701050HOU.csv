@@ -1,7 +1,7 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
 0,1,11:35.0,0,0,HOU,OKC,25,away,HS,,8,miss2,0,D. Sabonis,
 1,1,11:34.0,0,0,HOU,OKC,1,home,DefReb,,,DefReb,,P. Beverley,
-2,1,11:18.0,0,0,HOU,OKC,16,home,BadPass,steal,,turnover,,J. Harden,V. Oladipo
+2,1,11:18.0,0,0,HOU,OKC,16,home,bad pass,steal,,turnover,,J. Harden,V. Oladipo
 3,1,11:14.0,0,2,HOU,OKC,4,away,DK,assist,0,make2,2,A. Roberson,V. Oladipo
 4,1,10:59.0,2,2,HOU,OKC,15,home,HS,assist,7,make2,2,N. Hilário,J. Harden
 5,1,10:32.0,2,2,HOU,OKC,27,away,LU,,2,miss2,0,V. Oladipo,
@@ -35,7 +35,7 @@
 33,1,7:48.0,5,12,HOU,OKC,0,away,DefReb,,,DefReb,,V. Oladipo,
 34,1,7:39.0,5,12,HOU,OKC,9,away,JS,,25,miss3,0,A. Roberson,
 35,1,7:38.0,5,12,HOU,OKC,1,home,DefReb,,,DefReb,,R. Anderson,
-36,1,7:32.0,5,12,HOU,OKC,6,home,LostBall,steal,,turnover,,J. Harden,S. Adams
+36,1,7:32.0,5,12,HOU,OKC,6,home,lost ball,steal,,turnover,,J. Harden,S. Adams
 37,1,7:26.0,5,14,HOU,OKC,6,away,DK,assist,0,make2,2,D. Sabonis,S. Adams
 38,1,7:08.0,7,14,HOU,OKC,18,home,LU,assist,2,make2,2,R. Anderson,M. Harrell
 39,1,6:58.0,7,16,HOU,OKC,10,away,JS,,14,make2,2,R. Westbrook,
@@ -78,7 +78,7 @@
 76,1,3:27.0,17,28,HOU,OKC,21,home,LU,,2,make2,2,J. Harden,
 77,1,3:09.0,17,31,HOU,OKC,18,away,JS,,24,make3,3,R. Westbrook,
 78,1,2:51.0,20,31,HOU,OKC,18,home,JS,assist,26,make3,3,E. Gordon,S. Dekker
-79,1,2:37.0,20,31,HOU,OKC,14,away,LostBall,steal,,turnover,,S. Adams,S. Dekker
+79,1,2:37.0,20,31,HOU,OKC,14,away,lost ball,steal,,turnover,,S. Adams,S. Dekker
 80,1,2:31.0,22,31,HOU,OKC,6,home,DK,assist,0,make2,2,S. Dekker,J. Harden
 81,1,2:22.0,22,31,HOU,OKC,9,away,Timeout,,,,,,
 82,1,2:22.0,22,31,HOU,OKC,0,away,Sub,,,,,J. Grant,S. Adams
@@ -187,7 +187,7 @@
 185,2,4:57.0,55,51,HOU,OKC,7,away,JS,,15,make2,2,R. Westbrook,
 186,2,4:41.0,55,51,HOU,OKC,16,home,JS,,26,miss3,0,R. Anderson,
 187,2,4:40.0,55,51,HOU,OKC,1,away,DefReb,,,DefReb,,S. Adams,
-188,2,4:31.0,55,51,HOU,OKC,9,away,BadPass,steal,,turnover,,R. Westbrook,N. Hilário
+188,2,4:31.0,55,51,HOU,OKC,9,away,bad pass,steal,,turnover,,R. Westbrook,N. Hilário
 189,2,4:25.0,57,51,HOU,OKC,6,home,DK,assist,0,make2,2,N. Hilário,J. Harden
 190,2,4:08.0,57,51,HOU,OKC,17,away,JS,,26,miss3,0,J. Grant,
 191,2,4:07.0,57,51,HOU,OKC,1,home,DefReb,,,DefReb,,P. Beverley,
@@ -223,7 +223,7 @@
 221,2,1:11.0,67,56,HOU,OKC,1,away,OffReb,,,OffReb,,S. Adams,
 222,2,1:03.0,67,56,HOU,OKC,8,away,LU,,1,miss2,0,S. Adams,
 223,2,1:02.0,67,56,HOU,OKC,1,home,DefReb,,,DefReb,,J. Harden,
-224,2,0:58.0,67,56,HOU,OKC,4,home,BadPass,steal,,turnover,,J. Harden,R. Westbrook
+224,2,0:58.0,67,56,HOU,OKC,4,home,bad pass,steal,,turnover,,J. Harden,R. Westbrook
 225,2,0:45.0,67,56,HOU,OKC,13,away,HS,,4,miss2,0,S. Adams,
 226,2,0:44.0,67,56,HOU,OKC,1,home,DefReb,,,DefReb,,M. Harrell,
 227,2,0:32.0,67,56,HOU,OKC,12,home,JS,,6,miss2,0,E. Gordon,
@@ -238,7 +238,7 @@
 236,3,11:38.0,70,56,HOU,OKC,11,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Hilário,D. Sabonis
 237,3,11:24.0,70,59,HOU,OKC,14,away,JS,assist,25,make3,3,R. Westbrook,S. Adams
 238,3,11:07.0,72,59,HOU,OKC,17,home,LU,assist,2,make2,2,T. Ariza,J. Harden
-239,3,10:57.0,72,59,HOU,OKC,10,away,LostBall,steal,,turnover,,S. Adams,T. Ariza
+239,3,10:57.0,72,59,HOU,OKC,10,away,lost ball,steal,,turnover,,S. Adams,T. Ariza
 240,3,10:50.0,72,59,HOU,OKC,7,home,JS,,25,miss3,0,T. Ariza,
 241,3,10:50.0,72,59,HOU,OKC,0,away,DefReb,,,DefReb,,S. Adams,
 242,3,10:50.0,72,59,HOU,OKC,0,away,Timeout,,,,,,
@@ -255,7 +255,7 @@
 253,3,8:43.0,76,64,HOU,OKC,25,away,JS,,26,miss3,0,R. Westbrook,
 254,3,8:42.0,76,64,HOU,OKC,1,home,DefReb,,,DefReb,,J. Harden,
 255,3,8:27.0,79,64,HOU,OKC,15,home,JS,assist,26,make3,3,P. Beverley,J. Harden
-256,3,8:14.0,79,64,HOU,OKC,13,away,LostBall,steal,,turnover,,R. Westbrook,P. Beverley
+256,3,8:14.0,79,64,HOU,OKC,13,away,lost ball,steal,,turnover,,R. Westbrook,P. Beverley
 257,3,8:09.0,79,64,HOU,OKC,5,home,LU,block,2,miss2,0,P. Beverley,A. Roberson
 258,3,8:08.0,79,64,HOU,OKC,1,away,DefReb,,,DefReb,,R. Westbrook,
 259,3,8:04.0,79,64,HOU,OKC,4,away,PersonalFoul,DrawnBy,,PersonalFoul,,N. Hilário,S. Adams
@@ -264,12 +264,12 @@
 262,3,7:54.0,79,64,HOU,OKC,2,home,DefReb,,,DefReb,,M. Harrell,
 263,3,7:38.0,79,64,HOU,OKC,16,home,LU,block,3,miss2,0,M. Harrell,D. Sabonis
 264,3,7:37.0,79,64,HOU,OKC,1,away,DefReb,,,DefReb,,D. Sabonis,
-265,3,7:33.0,79,64,HOU,OKC,4,away,LostBall,steal,,turnover,,V. Oladipo,P. Beverley
+265,3,7:33.0,79,64,HOU,OKC,4,away,lost ball,steal,,turnover,,V. Oladipo,P. Beverley
 266,3,7:14.0,79,64,HOU,OKC,19,home,ShootingFoul,DrawnBy,,ShootingFoul,,D. Sabonis,J. Harden
 267,3,7:14.0,80,64,HOU,OKC,0,home,FreeThrow,,,make1,1,J. Harden,
 268,3,7:14.0,81,64,HOU,OKC,0,home,FreeThrow,,,make1,1,J. Harden,
 269,3,7:14.0,82,64,HOU,OKC,0,home,FreeThrow,,,make1,1,J. Harden,
-270,3,7:05.0,82,64,HOU,OKC,9,away,LostBall,steal,,turnover,,R. Westbrook,J. Harden
+270,3,7:05.0,82,64,HOU,OKC,9,away,lost ball,steal,,turnover,,R. Westbrook,J. Harden
 271,3,6:55.0,82,64,HOU,OKC,10,home,JS,,28,miss3,0,J. Harden,
 272,3,6:54.0,82,64,HOU,OKC,1,away,DefReb,,,DefReb,,S. Adams,
 273,3,6:46.0,82,67,HOU,OKC,8,away,JS,,27,make3,3,R. Westbrook,
@@ -283,10 +283,10 @@
 281,3,5:15.0,85,70,HOU,OKC,0,away,DefReb,,,DefReb,,S. Adams,
 282,3,5:07.0,85,73,HOU,OKC,8,away,JS,,25,make3,3,R. Westbrook,
 283,3,4:52.0,85,73,HOU,OKC,15,home,PersonalFoul,DrawnBy,,PersonalFoul,,D. Sabonis,R. Anderson
-284,3,4:49.0,85,73,HOU,OKC,3,home,BadPass,steal,,turnover,,M. Harrell,S. Adams
+284,3,4:49.0,85,73,HOU,OKC,3,home,bad pass,steal,,turnover,,M. Harrell,S. Adams
 285,3,4:43.0,85,73,HOU,OKC,6,away,JS,,25,miss3,0,R. Westbrook,
 286,3,4:42.0,85,73,HOU,OKC,1,home,DefReb,,,DefReb,,J. Harden,
-287,3,4:34.0,85,73,HOU,OKC,8,home,BadPass,steal,,turnover,,J. Harden,R. Westbrook
+287,3,4:34.0,85,73,HOU,OKC,8,home,bad pass,steal,,turnover,,J. Harden,R. Westbrook
 288,3,4:29.0,85,75,HOU,OKC,5,away,DK,assist,0,make2,2,D. Sabonis,R. Westbrook
 289,3,4:27.0,85,75,HOU,OKC,2,home,Timeout,,,,,,
 290,3,4:12.0,88,75,HOU,OKC,15,home,JS,,26,make3,3,E. Gordon,
@@ -297,7 +297,7 @@
 295,3,3:38.0,90,75,HOU,OKC,9,home,DK,assist,0,make2,2,M. Harrell,J. Harden
 296,3,3:25.0,90,75,HOU,OKC,13,away,JS,,22,miss2,0,V. Oladipo,
 297,3,3:23.0,90,75,HOU,OKC,2,home,DefReb,,,DefReb,,E. Gordon,
-298,3,3:18.0,90,75,HOU,OKC,5,home,BadPass,steal,,turnover,,J. Harden,D. Sabonis
+298,3,3:18.0,90,75,HOU,OKC,5,home,bad pass,steal,,turnover,,J. Harden,D. Sabonis
 299,3,3:05.0,90,77,HOU,OKC,13,away,LU,assist,1,make2,2,A. Roberson,R. Westbrook
 300,3,2:40.0,93,77,HOU,OKC,25,home,JS,assist,28,make3,3,E. Gordon,R. Anderson
 301,3,2:23.0,93,77,HOU,OKC,17,away,JS,,26,miss3,0,R. Westbrook,

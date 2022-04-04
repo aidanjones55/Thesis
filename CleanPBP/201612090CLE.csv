@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:46.0,0,0,CLE,MIA,14,away,LostBall,steal,,turnover,,H. Whiteside,D. Liggins
+0,1,11:46.0,0,0,CLE,MIA,14,away,lost ball,steal,,turnover,,H. Whiteside,D. Liggins
 1,1,11:38.0,0,0,CLE,MIA,8,home,JS,,26,miss3,0,K. Love,
 2,1,11:37.0,0,0,CLE,MIA,1,away,DefReb,,,DefReb,,G. Dragić,
 3,1,11:28.0,0,2,CLE,MIA,9,away,JS,assist,5,make2,2,H. Whiteside,G. Dragić
@@ -105,7 +105,7 @@
 103,1,0:35.0,31,27,CLE,MIA,0,away,Sub,,,,,W. Reed,H. Whiteside
 104,1,0:17.0,31,27,CLE,MIA,18,home,JS,,20,miss2,0,R. Jefferson,
 105,1,0:16.0,31,27,CLE,MIA,1,away,DefReb,,,DefReb,,T. Johnson,
-106,1,0:00.0,31,27,CLE,MIA,16,away,LostBall,steal,,turnover,,R. McGruder,I. Shumpert
+106,1,0:00.0,31,27,CLE,MIA,16,away,lost ball,steal,,turnover,,R. McGruder,I. Shumpert
 107,2,11:46.0,31,27,CLE,MIA,14,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. McGruder,K. Irving
 108,2,11:46.0,32,27,CLE,MIA,0,home,FreeThrow,,,make1,1,K. Irving,
 109,2,11:46.0,32,27,CLE,MIA,0,away,Sub,,,,,G. Dragić,R. McGruder
@@ -140,7 +140,7 @@
 138,2,8:30.0,39,33,CLE,MIA,14,home,LU,,1,make2,2,K. Irving,
 139,2,8:12.0,39,33,CLE,MIA,18,away,JS,,25,miss3,0,G. Dragić,
 140,2,8:11.0,39,33,CLE,MIA,1,home,DefReb,,,DefReb,,L. James,
-141,2,8:03.0,39,33,CLE,MIA,8,home,BadPass,steal,,turnover,,L. James,D. Williams
+141,2,8:03.0,39,33,CLE,MIA,8,home,bad pass,steal,,turnover,,L. James,D. Williams
 142,2,7:57.0,39,33,CLE,MIA,6,away,JS,,24,miss3,0,T. Johnson,
 143,2,7:56.0,39,33,CLE,MIA,1,home,DefReb,,,DefReb,,R. Jefferson,
 144,2,7:53.0,39,33,CLE,MIA,3,home,ShootingFoul,DrawnBy,,ShootingFoul,,W. Ellington,L. James
@@ -177,15 +177,15 @@
 175,2,4:57.0,47,39,CLE,MIA,0,away,DefReb,,,DefReb,,H. Whiteside,
 176,2,4:47.0,47,39,CLE,MIA,10,away,PersonalFoul,DrawnBy,,PersonalFoul,,L. James,H. Whiteside
 177,2,4:47.0,47,39,CLE,MIA,0,home,Sub,,,,,K. Love,I. Shumpert
-178,2,4:36.0,47,39,CLE,MIA,11,away,BadPass,steal,,turnover,,T. Johnson,K. Love
+178,2,4:36.0,47,39,CLE,MIA,11,away,bad pass,steal,,turnover,,T. Johnson,K. Love
 179,2,4:26.0,49,39,CLE,MIA,10,home,LU,assist,0,make2,2,L. James,M. Dunleavy
 180,2,4:12.0,49,39,CLE,MIA,14,away,JS,,23,miss3,0,D. Williams,
 181,2,4:12.0,49,39,CLE,MIA,0,home,DefReb,,,DefReb,,T. Thompson,
-182,2,4:06.0,49,39,CLE,MIA,6,home,LostBall,steal,,turnover,,L. James,T. Johnson
+182,2,4:06.0,49,39,CLE,MIA,6,home,lost ball,steal,,turnover,,L. James,T. Johnson
 183,2,3:59.0,49,41,CLE,MIA,7,away,LU,assist,2,make2,2,G. Dragić,T. Johnson
 184,2,3:34.0,51,41,CLE,MIA,25,home,HS,assist,8,make2,2,K. Love,L. James
 185,2,3:12.0,51,43,CLE,MIA,22,away,LU,,1,make2,2,D. Williams,
-186,2,3:03.0,51,43,CLE,MIA,9,home,LostBall,steal,,turnover,,K. Irving,T. Johnson
+186,2,3:03.0,51,43,CLE,MIA,9,home,lost ball,steal,,turnover,,K. Irving,T. Johnson
 187,2,2:40.0,51,43,CLE,MIA,23,away,JS,,26,miss3,0,G. Dragić,
 188,2,2:40.0,51,43,CLE,MIA,0,home,DefReb,,,DefReb,,K. Love,
 189,2,2:32.0,51,43,CLE,MIA,8,home,JS,,26,miss3,0,K. Irving,
@@ -234,17 +234,17 @@
 232,3,10:19.0,64,48,CLE,MIA,0,home,LU,,1,make2,2,K. Love,
 233,3,9:55.0,64,50,CLE,MIA,24,away,JS,assist,6,make2,2,R. McGruder,J. McRoberts
 234,3,9:37.0,66,50,CLE,MIA,18,home,DK,assist,0,make2,2,T. Thompson,L. James
-235,3,9:21.0,66,50,CLE,MIA,16,away,BadPass,steal,,turnover,,G. Dragić,L. James
+235,3,9:21.0,66,50,CLE,MIA,16,away,bad pass,steal,,turnover,,G. Dragić,L. James
 236,3,9:18.0,68,50,CLE,MIA,3,home,DK,,0,make2,2,L. James,
 237,3,9:18.0,68,50,CLE,MIA,0,away,Timeout,,,,,,
 238,3,9:18.0,68,50,CLE,MIA,0,away,Sub,,,,,W. Reed,H. Whiteside
 239,3,8:57.0,68,50,CLE,MIA,21,away,ShootingFoul,DrawnBy,,ShootingFoul,,L. James,W. Reed
 240,3,8:57.0,68,51,CLE,MIA,0,away,FreeThrow,,,make1,1,W. Reed,
 241,3,8:57.0,68,52,CLE,MIA,0,away,FreeThrow,,,make1,1,W. Reed,
-242,3,8:45.0,68,52,CLE,MIA,12,home,BadPass,steal,,turnover,,K. Love,R. McGruder
+242,3,8:45.0,68,52,CLE,MIA,12,home,bad pass,steal,,turnover,,K. Love,R. McGruder
 243,3,8:34.0,68,55,CLE,MIA,11,away,JS,assist,26,make3,3,W. Ellington,R. McGruder
 244,3,8:14.0,68,55,CLE,MIA,20,home,Traveling,,,turnover,,K. Irving,
-245,3,7:54.0,68,55,CLE,MIA,20,away,BadPass,steal,,turnover,,J. McRoberts,L. James
+245,3,7:54.0,68,55,CLE,MIA,20,away,bad pass,steal,,turnover,,J. McRoberts,L. James
 246,3,7:51.0,68,55,CLE,MIA,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. McRoberts,L. James
 247,3,7:38.0,70,55,CLE,MIA,13,home,JS,assist,13,make2,2,L. James,K. Love
 248,3,7:23.0,70,55,CLE,MIA,15,away,JS,,28,miss3,0,W. Ellington,
@@ -259,7 +259,7 @@
 257,3,6:36.0,70,55,CLE,MIA,1,home,DefReb,,,DefReb,,L. James,
 258,3,6:30.0,73,55,CLE,MIA,6,home,JS,assist,24,make3,3,K. Love,L. James
 259,3,6:08.0,73,57,CLE,MIA,22,away,JS,assist,19,make2,2,R. McGruder,J. McRoberts
-260,3,6:05.0,73,57,CLE,MIA,3,home,BadPass,steal,,turnover,,K. Love,R. McGruder
+260,3,6:05.0,73,57,CLE,MIA,3,home,bad pass,steal,,turnover,,K. Love,R. McGruder
 261,3,5:59.0,73,57,CLE,MIA,6,away,JS,,22,miss2,0,T. Johnson,
 262,3,5:59.0,73,57,CLE,MIA,0,home,DefReb,,,DefReb,,K. Love,
 263,3,5:59.0,73,57,CLE,MIA,0,home,PersonalFoul,DrawnBy,,PersonalFoul,,J. McRoberts,K. Love
@@ -343,11 +343,11 @@
 341,4,8:33.0,93,71,CLE,MIA,8,home,ShootingFoul,DrawnBy,,ShootingFoul,,R. McGruder,M. Dunleavy
 342,4,8:33.0,94,71,CLE,MIA,0,home,FreeThrow,,,make1,1,M. Dunleavy,
 343,4,8:33.0,95,71,CLE,MIA,0,home,FreeThrow,,,make1,1,M. Dunleavy,
-344,4,8:18.0,95,71,CLE,MIA,15,away,LostBall,steal,,turnover,,H. Whiteside,L. James
+344,4,8:18.0,95,71,CLE,MIA,15,away,lost ball,steal,,turnover,,H. Whiteside,L. James
 345,4,8:15.0,95,71,CLE,MIA,3,away,Sub,,,,,G. Dragić,R. McGruder
 346,4,8:05.0,97,71,CLE,MIA,10,home,JS,,14,make2,2,L. James,
 347,4,7:41.0,97,74,CLE,MIA,24,away,JS,assist,25,make3,3,T. Johnson,D. Williams
-348,4,7:20.0,97,74,CLE,MIA,21,home,BadPass,steal,,turnover,,I. Shumpert,D. Williams
+348,4,7:20.0,97,74,CLE,MIA,21,home,bad pass,steal,,turnover,,I. Shumpert,D. Williams
 349,4,7:04.0,97,74,CLE,MIA,16,away,JS,,18,miss2,0,G. Dragić,
 350,4,7:04.0,97,74,CLE,MIA,0,home,DefReb,,,DefReb,,L. James,
 351,4,6:57.0,99,74,CLE,MIA,7,home,LU,,2,make2,2,L. James,
@@ -409,7 +409,7 @@
 407,4,2:05.0,107,80,CLE,MIA,0,away,OffReb,,,OffReb,,Team,
 408,4,2:05.0,107,81,CLE,MIA,0,away,FreeThrow,,,make1,1,W. Reed,
 409,4,1:54.0,109,81,CLE,MIA,11,home,JS,assist,16,make2,2,K. Felder,J. McRae
-410,4,1:40.0,109,81,CLE,MIA,14,away,BadPass,steal,,turnover,,R. McGruder,C. Andersen
+410,4,1:40.0,109,81,CLE,MIA,14,away,bad pass,steal,,turnover,,R. McGruder,C. Andersen
 411,4,1:35.0,111,81,CLE,MIA,5,home,LU,,1,make2,2,K. Felder,
 412,4,1:19.0,111,84,CLE,MIA,16,away,JS,assist,26,make3,3,W. Ellington,R. McGruder
 413,4,1:08.0,111,84,CLE,MIA,11,home,LU,,1,miss2,0,K. Felder,

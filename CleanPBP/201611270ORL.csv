@@ -1,5 +1,5 @@
 ,Quarter,TimeRemaining,ScoreHome,ScoreAway,HomeTeam,AwayTeam,Duration,ActionTeam,PrimaryAction,SecondaryAction,ActionMetric,ActionResult,ScoreResult,PrimaryPlayer,SecondaryPlayer
-0,1,11:38.0,0,0,ORL,MIL,22,away,BadPass,steal,,turnover,,G. Antetokounmpo,A. Gordon
+0,1,11:38.0,0,0,ORL,MIL,22,away,bad pass,steal,,turnover,,G. Antetokounmpo,A. Gordon
 1,1,11:32.0,0,0,ORL,MIL,6,home,JS,,5,miss2,0,A. Gordon,
 2,1,11:30.0,0,0,ORL,MIL,2,home,OffReb,,,OffReb,,A. Gordon,
 3,1,11:23.0,0,0,ORL,MIL,7,home,JS,,23,miss3,0,D. Augustin,
@@ -105,7 +105,7 @@
 103,1,1:25.0,26,29,ORL,MIL,0,home,FreeThrow,,,make1,0,B. Biyombo,
 104,1,1:24.0,26,29,ORL,MIL,1,away,DefReb,,,DefReb,,G. Monroe,
 105,1,1:08.0,26,31,ORL,MIL,16,away,HS,,6,make2,2,G. Monroe,
-106,1,0:57.0,26,31,ORL,MIL,11,home,BadPass,steal,,turnover,,E. Payton,G. Monroe
+106,1,0:57.0,26,31,ORL,MIL,11,home,bad pass,steal,,turnover,,E. Payton,G. Monroe
 107,1,0:50.0,26,34,ORL,MIL,7,away,JS,assist,26,make3,3,M. Brogdon,G. Antetokounmpo
 108,1,0:45.0,26,34,ORL,MIL,5,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Brogdon,E. Payton
 109,1,0:45.0,26,34,ORL,MIL,0,home,FreeThrow,,,make1,0,E. Payton,
@@ -141,9 +141,9 @@
 139,2,8:43.0,37,43,ORL,MIL,16,away,JS,assist,27,make3,3,M. Teletović,G. Antetokounmpo
 140,2,8:18.0,37,43,ORL,MIL,25,home,JS,,17,miss2,0,A. Gordon,
 141,2,8:17.0,37,43,ORL,MIL,1,away,DefReb,,,DefReb,,J. Henson,
-142,2,8:13.0,37,43,ORL,MIL,4,away,BadPass,steal,,turnover,,G. Antetokounmpo,E. Payton
+142,2,8:13.0,37,43,ORL,MIL,4,away,bad pass,steal,,turnover,,G. Antetokounmpo,E. Payton
 143,2,8:10.0,37,43,ORL,MIL,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,M. Teletović,E. Payton
-144,2,8:00.0,37,43,ORL,MIL,10,home,BadPass,steal,,turnover,,C. Watson,M. Dellavedova
+144,2,8:00.0,37,43,ORL,MIL,10,home,bad pass,steal,,turnover,,C. Watson,M. Dellavedova
 145,2,7:52.0,37,43,ORL,MIL,8,away,JS,,23,miss3,0,J. Terry,
 146,2,7:51.0,37,43,ORL,MIL,1,home,DefReb,,,DefReb,,N. Vučević,
 147,2,7:42.0,39,43,ORL,MIL,9,home,JS,,7,make2,2,E. Payton,
@@ -158,7 +158,7 @@
 156,2,6:47.0,39,45,ORL,MIL,9,away,HS,assist,7,make2,2,J. Henson,M. Dellavedova
 157,2,6:22.0,39,45,ORL,MIL,25,home,JS,block,12,miss2,0,B. Biyombo,J. Henson
 158,2,6:20.0,39,45,ORL,MIL,2,away,DefReb,,,DefReb,,J. Parker,
-159,2,6:12.0,39,45,ORL,MIL,8,away,LostBall,steal,,turnover,,G. Antetokounmpo,B. Biyombo
+159,2,6:12.0,39,45,ORL,MIL,8,away,lost ball,steal,,turnover,,G. Antetokounmpo,B. Biyombo
 160,2,6:09.0,39,45,ORL,MIL,3,home,PersonalFoul,DrawnBy,,PersonalFoul,,G. Antetokounmpo,E. Payton
 161,2,5:58.0,39,45,ORL,MIL,11,home,LU,,1,miss2,0,B. Biyombo,
 162,2,5:57.0,39,45,ORL,MIL,1,away,DefReb,,,DefReb,,T. Snell,
@@ -177,7 +177,7 @@
 175,2,4:48.0,41,49,ORL,MIL,14,away,LU,assist,3,make2,2,J. Henson,J. Parker
 176,2,4:36.0,41,49,ORL,MIL,12,home,JS,,19,miss2,0,E. Payton,
 177,2,4:34.0,41,49,ORL,MIL,2,away,DefReb,,,DefReb,,J. Parker,
-178,2,4:30.0,41,49,ORL,MIL,4,away,LostBall,steal,,turnover,,J. Parker,C. Watson
+178,2,4:30.0,41,49,ORL,MIL,4,away,lost ball,steal,,turnover,,J. Parker,C. Watson
 179,2,4:05.0,43,49,ORL,MIL,25,home,JS,,8,make2,2,E. Fournier,
 180,2,3:41.0,43,51,ORL,MIL,24,away,LU,,3,make2,2,M. Beasley,
 181,2,3:18.0,45,51,ORL,MIL,23,home,JS,assist,13,make2,2,S. Ibaka,E. Fournier
@@ -193,7 +193,7 @@
 191,2,2:48.0,45,51,ORL,MIL,0,home,Sub,,,,,A. Gordon,C. Watson
 192,2,2:43.0,45,53,ORL,MIL,5,away,JS,,13,make2,2,M. Beasley,
 193,2,2:28.0,48,53,ORL,MIL,15,home,JS,assist,26,make3,3,E. Fournier,D. Augustin
-194,2,2:16.0,48,53,ORL,MIL,12,away,BadPass,steal,,turnover,,M. Beasley,E. Fournier
+194,2,2:16.0,48,53,ORL,MIL,12,away,bad pass,steal,,turnover,,M. Beasley,E. Fournier
 195,2,2:03.0,50,53,ORL,MIL,13,home,HS,assist,7,make2,2,N. Vučević,E. Fournier
 196,2,1:57.0,50,53,ORL,MIL,6,away,Sub,,,,,M. Dellavedova,M. Brogdon
 197,2,1:57.0,50,53,ORL,MIL,0,away,Sub,,,,,M. Teletović,J. Parker
@@ -305,7 +305,7 @@
 303,3,1:41.0,69,74,ORL,MIL,10,home,HS,assist,0,make2,2,E. Fournier,B. Biyombo
 304,3,1:20.0,69,74,ORL,MIL,21,away,JS,,25,miss3,0,M. Brogdon,
 305,3,1:19.0,69,74,ORL,MIL,1,home,DefReb,,,DefReb,,N. Vučević,
-306,3,1:13.0,69,74,ORL,MIL,6,home,LostBall,steal,,turnover,,C. Watson,G. Antetokounmpo
+306,3,1:13.0,69,74,ORL,MIL,6,home,lost ball,steal,,turnover,,C. Watson,G. Antetokounmpo
 307,3,1:07.0,69,74,ORL,MIL,6,away,JS,,10,miss2,0,J. Terry,
 308,3,1:05.0,69,74,ORL,MIL,2,away,OffReb,,,OffReb,,G. Monroe,
 309,3,0:51.0,69,74,ORL,MIL,14,away,LU,,2,miss2,0,G. Antetokounmpo,
@@ -342,7 +342,7 @@
 340,4,9:30.0,79,83,ORL,MIL,0,away,OffReb,,,OffReb,,Team,
 341,4,9:30.0,79,83,ORL,MIL,0,away,Sub,,,,,M. Dellavedova,J. Terry
 342,4,9:30.0,79,84,ORL,MIL,0,away,FreeThrow,,,make1,1,G. Monroe,
-343,4,9:08.0,79,84,ORL,MIL,22,home,BadPass,steal,,turnover,,B. Biyombo,M. Brogdon
+343,4,9:08.0,79,84,ORL,MIL,22,home,bad pass,steal,,turnover,,B. Biyombo,M. Brogdon
 344,4,9:06.0,79,84,ORL,MIL,2,home,DefGoaltending,,,DefGoaltending,,A. Gordon,
 345,4,9:06.0,79,86,ORL,MIL,0,away,LU,,2,make2,2,M. Brogdon,
 346,4,8:53.0,81,86,ORL,MIL,13,home,HS,assist,9,make2,2,N. Vučević,E. Payton
@@ -398,15 +398,15 @@
 396,4,3:28.0,90,97,ORL,MIL,12,home,JS,,26,miss3,0,E. Fournier,
 397,4,3:27.0,90,97,ORL,MIL,1,away,DefReb,,,DefReb,,T. Snell,
 398,4,3:11.0,90,99,ORL,MIL,16,away,LU,,3,make2,2,G. Antetokounmpo,
-399,4,3:01.0,90,99,ORL,MIL,10,home,BadPass,steal,,turnover,,E. Payton,J. Henson
+399,4,3:01.0,90,99,ORL,MIL,10,home,bad pass,steal,,turnover,,E. Payton,J. Henson
 400,4,3:01.0,90,99,ORL,MIL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Payton,J. Henson
 401,4,3:01.0,90,100,ORL,MIL,0,away,FreeThrow,,,make1,1,J. Henson,
 402,4,3:01.0,90,100,ORL,MIL,0,home,Sub,,,,,N. Vučević,D. Augustin
 403,4,3:01.0,90,100,ORL,MIL,0,home,Sub,,,,,A. Gordon,B. Biyombo
 404,4,3:01.0,90,101,ORL,MIL,0,away,FreeThrow,,,make1,1,J. Henson,
 405,4,2:50.0,92,101,ORL,MIL,11,home,LU,assist,3,make2,2,E. Fournier,N. Vučević
-406,4,2:36.0,92,101,ORL,MIL,14,away,BadPass,steal,,turnover,,G. Antetokounmpo,E. Fournier
-407,4,2:30.0,92,101,ORL,MIL,6,home,BadPass,steal,,turnover,,E. Payton,T. Snell
+406,4,2:36.0,92,101,ORL,MIL,14,away,bad pass,steal,,turnover,,G. Antetokounmpo,E. Fournier
+407,4,2:30.0,92,101,ORL,MIL,6,home,bad pass,steal,,turnover,,E. Payton,T. Snell
 408,4,2:30.0,92,101,ORL,MIL,0,away,PersonalFoul,DrawnBy,,PersonalFoul,,E. Fournier,T. Snell
 409,4,2:30.0,92,101,ORL,MIL,0,away,FreeThrow,,,make1,0,T. Snell,
 410,4,2:30.0,92,101,ORL,MIL,0,away,OffReb,,,OffReb,,Team,
