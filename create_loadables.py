@@ -3,7 +3,6 @@ from util import get_action_dict
 import pickle
 
 
-
 def date_convert_for_pbp(date):
     final = date.split('-')
     return ''.join(final) + '0'
@@ -36,8 +35,7 @@ for year in years:
 with open('to_1_hot.pickle', 'wb') as handle:
     pickle.dump(to_1_hot, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
-print(len(to_1_hot))
-print(total_size)
+
 
     #print(f'Done: {year}')
 
